@@ -82,6 +82,9 @@ Die wichtigste praktische Differenzierung ist, dass der Schaden **selektiv nach 
 - **[[assessment|Assessment-Design]]:** KI-resistente und beaufsichtigte/ungestützte Assessments sind nötig, um Missbrauch sichtbar zu machen — und zu entmutigen.
 - **Kompetenz und Metakognition:** Training in [[ai-literacy|KI-Kompetenz]] und [[self-regulated-learning|Selbstregulation]], das Studierenden hilft, Vertrauensmuster und die Kosten der Umgehung der eigenen kognitiven Arbeit zu erkennen.
 
+### Konversationelles Desengagement im Zeitalter von LLMs
+
+Die Literatur zum Gaming-the-System (Hinweismissbrauch, systematisches Raten) hat ein Pendant im Dialogzeitalter: konversationelles Desengagement — den Agenten verhöhnen, absichtlich falsch antworten, ihn ignorieren, seinen Text spiegeln oder Antworten vorenthalten. [[rho-disengaged-conversational-behaviors-2026|Rho et al. (2026)]] geben diesem Phänomen in der Dialogforschung zu Studierenden und KI seine erste systematische Behandlung, und seine zentrale Lehre ist interpretativ statt alarmistisch. Eine desengagierte *Wendung* ist ein interaktionaler Zug, kein stabiler Zustand des Desengagements. Die scheinbare Assoziation des False Answering mit Post-Test-Punkten überlebte eine menschlich annotierte Sensitivitätsprüfung nicht, und die Autor:innen lesen sie als Sondierung *innerhalb* von Trajektorien, die oft zum Engagement zurückkehren (das leistungsstärkste Cluster erholte sich bei p = 0.42). Das Verhalten, das die Trajektorien tatsächlich trennte, war Withholding — die Weigerung zu antworten, die eher persistierte, als dass sie sich auflöste. Für Gestaltende kehrt das die übliche Priorität um: lautes, sichtbares Desengagement korrigiert sich oft selbst, während stiller Rückzug signalisiert, dass die Interaktion zusammengebrochen ist.
 ## Verbundene Konzepte
 
 - [[self-directed-learning]]
@@ -99,6 +102,7 @@ Die wichtigste praktische Differenzierung ist, dass der Schaden **selektiv nach 
 
 ## Verbundene Artikel
 
+- [[rho-disengaged-conversational-behaviors-2026]] — Disengaged conversational behaviors and learning in student-AI dialogues (Rho et al. 2026)
 - [[genai-thoughtless-use-self-directed-learning-2026]]
 - [[generative-ai-guardrails-harm-learning]] — GenAI Without Guardrails Can Harm Learning
 - [[genai-performance-vs-learning]] — Distinguishing Performance Gains from Learning

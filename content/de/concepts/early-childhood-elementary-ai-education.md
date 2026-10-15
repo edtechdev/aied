@@ -9,7 +9,7 @@ connected_faqs: [ai-guidance-children-under-13]
 level: [k 12, preschool]
 confidence: high
 translation_of: concepts/early-childhood-elementary-ai-education
-source_updated: "2026-10-07T09:45:00-04:00"
+source_updated: "2026-10-15T10:00:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -54,6 +54,9 @@ Junge Kinder interagieren zunehmend früh mit KI — über KI-fähiges Spielzeug
 ### Entwicklungsbezogene und Gerechtigkeitserwägungen
 
 Weil junge Lernende verletzlicher und weniger fähig sind, ihre KI-Nutzung selbst zu regulieren, betont dieses Cluster **Scaffolding durch Erwachsene** (Eltern, Erziehungsberechtigte und Lehrkräfte), **altersangemessenes Design** und das Risiko von [[cognitive-offloading|Übervertrauen]] und [[well-being|Schaden]], wenn KI die Entwicklungsarbeit von Spiel, Entdeckung und anstrengungsvollem Lernen ersetzt statt sie zu stützen. Gerechtigkeit ist ein lebendiges Anliegen: Der Zugang zu KI-reichem frühen Lernen (oder zu schützender Anleitung durch Erwachsene) ist ungleich, was an die [[digital-divide|digitale Kluft]] und [[equity-in-ai-education|Gerechtigkeit in der KI-Bildung]] anschließt. Ein Großteil der Evidenzbasis bleibt explorativ oder designorientiert statt kausal.
+Ein Vergleich von vier Ländern schärft die Curriculum-Lücke: Die nationalen frühkindlichen Leitlinien Japans, Südkoreas und Chinas enthalten keine expliziten KI-Kompetenz-Bezüge (Shanghais städtischer Aktionsplan ist die einzige Ausnahme und spezifiziert keine Lernprogressionen), während Australien nur eine begrenzte, ungleichmäßige Ausrichtung zeigt — am stärksten bei der Interaktion mit KI-Agenten, abwesend beim Verstehen von Mensch-KI-Beziehungen —, und damit KI-Kompetenz dem Zuhause überlässt ([[ai-literacy-ecec-curricula-four-country-2026|Cohrssen et al. (2026)]]).
+
+Ein erstes neurobildgebendes Fenster auf diese Frage kommt mit einer Vorsicht: 6–7-Jährige, die ein fünfminütiges gesprochenes Gespräch mit ChatGPT in einem MRT-Scanner hielten, zeigten bei gleichen Kreativitätswerten schwächere Konnektivität innerhalb der Netzwerke als Erwachsene — frontoparietale Kontrolle, Salienz und dorsale Aufmerksamkeit — und es fehlte ihnen die Kreativitäts-Konnektivitäts-Kopplung, die Erwachsene zeigten. Weil jene exekutiven Funktionen in der ersten Klasse noch unreif sind, lesen die Autor:innen das Ergebnis als relevant für die Debatte um das Mindestalter —, während sie einen Rahmungskonfund und das Fehlen einer Kontrollgruppe ohne ChatGPT als Grenzen dessen benennen, was es klärt ([[horowitz-kraus-children-chatgpt-cognitive-control-2026|Horowitz-Kraus et al. (2026)]]).
 
 ## Verbundene Konzepte
 
@@ -94,3 +97,5 @@ Weil junge Lernende verletzlicher und weniger fähig sind, ihre KI-Nutzung selbs
 - [[vahedian-children-attitudes-ai-chatbot-2026]]
 - [[creative-project-approach-ai-early-childhood-2025]] — The Creative Project Approach: a framework for tailoring AI agents and robotics to early learning (Yang, Li & Lee 2025)
 - [[ai-rated-classroom-observation-scores-2026]] — I code or AI code: AI-rated CLASS Pre-K scores versus trained human raters in Hong Kong kindergartens (Fong et al. 2026)
+- [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] — First neuroimaging comparison of children and adults conversing with ChatGPT: less integrated control-attention-memory networks in 6-7-year-olds
+- [[ai-literacy-ecec-curricula-four-country-2026]] — AI literacy for AI natives? A four-country comparison

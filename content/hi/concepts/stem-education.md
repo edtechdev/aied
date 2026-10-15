@@ -10,7 +10,7 @@ discipline: [cs education, math education, physics education]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/stem-education
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-15T08:25:00-04:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 contributors: [editor]
 ai_assist:
@@ -117,3 +117,4 @@ STEM का संरचित ज्ञान-निरूपण, सत्य�
 - [[simulation-assisted-drone-learning-stem-2026]] — शिक्षक-AI सह-डिज़ाइन स्कैफोल्ड के साथ अनुकरण-सहायित ड्रोन सीखना
 - [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
 - [[ai-supported-instruction-stem-meta-analysis-2026]] — 35 अध्यायनों में AI-समर्थित STEM शिक्षण का संयुक्त प्रभाव, उच्च विद्यालय में सबसे बड़े लाभ के साथ (Doğan et al. 2026)
+- [[hallstrom-ai-literacy-stem-education-frontiers-2026]] — STEM शिक्षा में AI साक्षरता के दस सर्वाधिक-उद्धृत अध्यायनों का संश्लेषण (हालस्ट्रॉम सहित 2026)

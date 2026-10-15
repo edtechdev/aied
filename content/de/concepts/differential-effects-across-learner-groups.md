@@ -13,7 +13,7 @@ page_kind: [evaluation, synthesis]
 confidence: medium
 connected_faqs: [equity-ethics-pedagogical-safety-research, research-gaps-aied]
 translation_of: concepts/differential-effects-across-learner-groups
-source_updated: "2026-10-01T10:47:53-04:00"
+source_updated: "2026-10-11T09:05:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -91,6 +91,9 @@ Dieser Strang ist klein in der Artikelzahl und stark im Mechanismus, weil die Be
 - **Der demografische Hinweis kann implizit sein.** Das obige kontrafaktische Audit fand, dass Gesprächshistorien, nicht nur explizite Personas, Bewertungs- und Feedbackverhalten bewegten — dasselbe Ergebnis von [[demographic-signals-llm-student-assessment-2026|192.480 Inferenzaufrufen]], und ein Grund, weshalb eine Offenlegungsregel über *deklarierte* Demografien nicht ausreicht.
 - **Migrations- und Sprachlücken können dominieren.** In EduFair-Bench verband das 70B-Modell die größten Sprach- und Einwanderungslücken mit den kleinsten Pädagogiklücken, sodass ein Tutor, der pädagogisch stark aussieht, der sein kann, der am empfindlichsten dafür ist, wer die lernende Person zu sein scheint.
 - **Epistemischer Ausschluss, nicht nur Fehler: siehe [[genai-minoritized-knowledges-disability|die Marginalisierung minoritärter Wissensformen]] oben.**
+Der fachliche Hintergrund ist eine Differenzachse, die die gruppenweise Karte dieser Seite noch nicht trug: Dasselbe Werkzeug kann seinen Nutzen ungleich über Fächer hinweg verteilen, statt über demografische Merkmale der Studierenden.
+
+- **Ein Werkzeug kann ein Fach engagieren und ein anderes desengagieren.** In einem zweiwöchigen Quasi-Experiment mit 130 Studierenden in gemischtfachlichen Teams erhöhte [[generative-ai|ChatGPT]] das physische [[student-engagement|Engagement]] für MINT-Studierende und senkte es für Nicht-MINT-Studierende (Q = 9,87, p < .05), und Notizen, die ohne ChatGPT geschrieben wurden, erzielten höhere Werte bei Vielfalt und Integration disziplinärer Ideen ([[caeai-chatgpt-interdisciplinary-stem-nonstem-2026|Zhu et al. (2026)]]).
 
 ## Sozioökonomischer Status, Geografie und Alter
 
@@ -106,6 +109,7 @@ Der ehrliche Befund dieser Übersicht ist, wie dünn manche Gruppen sind. Jede d
 - **Studierende der ersten Generation:** eine Studie berichtet einen Nutzungsunterschied statt einen Effekt. In [[student-ai-inquiry-types-cs2-2026|einer CS2-Anfragestudie]] behandelten Studierende der weiterführenden Generation die KI als aktive [[problem-solving|Problemlöse]]-Partnerin, während Studierende der ersten Generation eine bestätigende, validierungsorientierte Rolle einnahmen und insgesamt weniger Fragen stellten.
 - **Studierende der ersten Generation: die erste Effektschätzung, und sie läuft in die falsche Richtung.** [[liu-course-integrated-ai-tutoring-rct-2026|Liu et al. (2026)]]s [[rct|randomisierte Studie]] eines kursintegrierten [[intelligent-tutoring|KI-Tutors]] liefert, was dem Eintrag oben fehlt — einen gemessenen Unterschied statt ein Nutzungsmuster. In der vollen Stichprobe war der Effekt des Tutorzugangs auf die Abschlussnoten für Studierende der ersten Generation um 2.87 Punkte (0.28 SDs) negativer, was −5.10 Punkte (−0.50 SDs) für sie gegenüber −2.23 Punkten (−0.22 SDs) für ihre Peers impliziert; der Unterschied war in der Exakt-Match-Stichprobe größer (−3.89 Punkte, −0.35 SDs), und Studierende der ersten Generation verloren auch mehr Hausaufgabpunkte und Plattform-Seitenaufrufe. Die Studie berichtet keinen Mechanismus und ihre Präzision variiert nach Ergebnis, aber die Richtung ist das Gegenteil der Lücke-schließenden Geschichte: die Studierenden mit dem geringsten früheren Zugang zu akademischer Unterstützung trugen die größte gemessene Kostenlast.
 - **Internationale Studierende:** eine [[mixed-methods-research|Mixed-Methods]]-Studie (Befragung n = 60, Interviews n = 14) zu [[international-students-conversational-ai-adaptation|Unterstützung bei kultureller Anpassung]].
+- **Internationale Studierende: ein gemessenes Engagementmuster, keine Effektschätzung.** Über 270 minoritäre ethnische internationale Studierende in sieben britischen [[business-education|Business Schools]] war berichtete [[generative-ai]]-Nutzung positiv mit allen vier [[student-engagement|Engagement]]-Strängen assoziiert — am stärksten mit agentischem Engagement (β = 0,429) —, wobei erleichternde Bedingungen (β = 0,369) der stärkste Prädiktor der Nutzungsabsicht waren ([[bjet-genai-engagement-minority-ethnic-students-2026|Adekoya et al. (2026)]]).
 - **Begabte und leistungsstarke Studierende:** als Gruppe in diesem Korpus praktisch unerforscht.
 - **Geflüchtete, migrantische und vertriebene Lernende:** keine Studien.
 - **Geschlecht wird in den meisten der obigen Arbeiten noch binär analysiert**, und Behinderungskategorien variieren zwischen Studien, sodass studienübergreifender Vergleich „derselben“ Gruppe Grenzen hat.
@@ -139,6 +143,8 @@ Der ehrliche Befund dieser Übersicht ist, wie dünn manche Gruppen sind. Jede d
 
 ## Verbundene Artikel
 - [[zhang-ai-students-disabilities-meta-analysis-2024]] — 29 Studien zu KI für Studierende mit Behinderungen: g = 0.588, und g = 0.269 nach Bias-Adjustierung
+- [[caeai-chatgpt-interdisciplinary-stem-nonstem-2026]] — ChatGPT benefited STEM and non-STEM students unequally in interdisciplinary learning
+- [[bjet-genai-engagement-minority-ethnic-students-2026]] — GenAI use and four-strand engagement among minority ethnic international students
 - [[assistive-tech-neurodivergent-higher-ed-review-2026]] — 766 Datensätze zu 40 Studien, 15 davon generative KI
 - [[adhd-video-segmentation-computing-education]] — A general design change that brought ADHD participants to parity
 - [[neurodivergent-computing-students]] — 24 neurodivergente Studierende zu Struktur, Mehrdeutigkeit und Zusammenarbeit
