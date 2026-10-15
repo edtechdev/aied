@@ -48,6 +48,7 @@ ai_assist:
 
 実践者と枠組みの説明が、成果物の部分を埋めます。[[problem-based-learning|問題基盤型学習]]の[[assessment|評価]]を対象としたUdenとHwang (2026)のLEARN枠組みは、プロセス焦点のルーブリック、口頭での正当化、段階的な提出、[[ai-use-disclosure|AI使用の開示]]を伴う推論の痕跡を求め、学習ジャーナルと think-aloud プロトコルを通じた内省を、この連なりの[[metacognition|メタ認知]]エンジンとして扱います。Moganadasら (2026)は、AI透過的でプロセス志向の評価を、研究可能な5つの命題の一つとし、禁止や検出器の使用ではなく、記録、検証、内省的な正当化を求めています。Padhy (2026)は、改訂履歴、相互作用パターン、課題への従事時間の捕捉を、透明な開示と組み合わせて勧めています。Goldstein, Marae-HajとZidan (2026)は、[[trust]]危機の後に実践から現れた同じ成果物——プロンプトの記録、文書の版履歴、監視されたグループの貢献、物理的なノートに付けられた内省的な「旅のジャーナル」——を報告しています。持ち帰りの筆記課題はもはや学習を証拠立てられないという、当たり前の知見と並べてです。
 
+具体的な道具が現れつつあります。[[stepwise-teacher-diagnosis-math-2026|Kim et al. (2026)]]は、問題解決を4つの段階と8つの診断的な下位技能として具体化し、LLMが段階固有の問いとルーブリックを生成できるようにします。5人の教員と64人の学生が、90問と720の下位問いにわたってこのシステムを用い、平均のシステム・ユーザビリティ・スケールの得点は83.5でした。
 ## 真正性からも、採点からも異なる軸
 
 軸を切り離して保つことが重要なのは、それらを混同することが、再設計が完了したかのように見せながら露呈を残す方法だからです。Sharma (2026)は、真正性と誠実性志向の設計との間の補完的な区別を打ち出します。真正性は、課題が価値ある営みを映しているかを問い、誠実性志向の設計は、学習者が自分の決定を正当化し、学問的規準に関して責任を引き受けられるかを問います。そのため、彼が提供する実践——注釈付きの決定の軌跡、GenAIが寄与した主張の検証、口頭弁護、版履歴を伴う下書きの差分——は、その現実性のためではなく、可視化される[[evaluative-judgment|判断]]のために選ばれています。EspinoとEspino (2026)の[[business-education|ビジネス教育]]の10年レビューは、文献の側から同じ設計上の結論に達し、解釈、文脈での応用、反復的な精緻化を要求する、真正でプロセスが見える課題へと分野が収施していることを見出し、変わらない評価構造の内部での孤立した道具の導入を、最も根強い失敗として扱っています。
@@ -95,6 +96,7 @@ Thapa and Lewisの説明は概念的です。参加者も、データ収集も�
 - [[beyond-detection-authentic-assessment-ai-2025]] — 真正性は取り締まるのではなく、再設計されなければならない
 - [[authentic-products-authenticated-processes-2026]] — 真正な成果物と、それを産み出した過程
 - [[fenton-oral-exams-ai-authentic-assessment-2025]] — 推論を現前化する、AIに抵抗力のある形式としての口頭試験
+- [[stepwise-teacher-diagnosis-math-2026]] — STEPwise: Supporting Teachers in Diagnosing Students' Mathematical Problem-Solving Skills through LLM-Generated Questions
 - [[thapa-lewis-process-oriented-assessment-2026]] — 認識論的な真正性と、プロセス志向の評価の背後にある4つの設計コミットメント(Thapa & Lewis 2026)
 
 - [[metacognitive-processes-genai-interaction-logs-2026]] — 媒体に条件づけられたプロセスの証拠:ログと think-aloud は異なる過程を露わにする

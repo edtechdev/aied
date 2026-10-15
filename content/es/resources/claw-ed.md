@@ -36,13 +36,13 @@ ai_assist:
 
 ## Qué puede hacer con ella
 
-El flujo de trabajo va de la importación al borrador, la revisión y la exportación, y los borradores se tratan como puntos de partida que el profesorado edita, y no como materiales listos para repartir. Las tareas de lección se ponen en cola y son recuperables, de modo que una generación larga que falla puede reanudarse en lugar de reiniciarse, y los artefactos generados pueden descargarse. También expone sus herramientas a un agente mediante un servidor MCP y puede conectarse a Google Drive, así que un centro puede integrarlo en su almacenamiento y su planificación ya existentes.
+El flujo de trabajo va de la importación al borrador, la revisión y la exportación, y los borradores se tratan como puntos de partida que el profesorado edita, y no como materiales listos para repartir. Las tareas de lección se ponen en cola y son recuperables, de modo que una generación larga que falla puede reanudarse en lugar de reiniciarse, y los artefactos generados pueden descargarse. También expone sus herramientas a un [[agentic-ai|agente]] mediante un servidor MCP y puede conectarse a Google Drive, así que un centro puede integrarlo en su almacenamiento y su planificación ya existentes.
 
 El proyecto es deliberadamente agnóstico respecto al modelo. Documenta en paralelo modelos locales de Ollama, rutas económicas de OpenRouter y opciones alojadas, y su guía de modelos está fechada, lo que deja claro que las recomendaciones son puntos de partida basados en catálogos y no juicios de calidad puntuados por el profesorado.
 
 ## Notas
 
-El software es gratuito y de código abierto bajo la licencia MIT para su código original, aunque los componentes de terceros conservan sus propios términos, y ejecutarlo implica pagar su propia inferencia de modelo si usa un modelo alojado. El proyecto se etiqueta a sí mismo como una beta revisada por docentes y dice sin rodeos en su README que superar su CI no demuestra calidad docente con modelos en producción, que es la forma correcta de leer un conjunto de pruebas en verde en este ámbito: verifica el software, no la pedagogía. Lo mantiene MacxLabs y acepta lecciones de muestra revisadas por docentes como contribuciones.
+El software es gratuito y de [[open-source|código abierto]] bajo la licencia MIT para su código original, aunque los componentes de terceros conservan sus propios términos, y ejecutarlo implica pagar su propia inferencia de modelo si usa un modelo alojado. El proyecto se etiqueta a sí mismo como una beta revisada por docentes y dice sin rodeos en su README que superar su CI no demuestra calidad docente con modelos en producción, que es la forma correcta de leer un conjunto de pruebas en verde en este ámbito: verifica el software, no la [[pedagogy|pedagogía]]. Lo mantiene MacxLabs y acepta lecciones de muestra revisadas por docentes como contribuciones.
 
 ## Conceptos conectados
 [[learning-design]], [[online-teaching-and-learning]], [[open-source]], [[teacher-ai-competency]]

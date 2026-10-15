@@ -182,3 +182,4 @@ Dentro del panorama metodológico de la base de conocimiento, el metaanálisis y
 - [[yalcin-genai-programming-education-systematic-review-2026]] — Revisión sistemática de la IA generativa en la educación en programación: reporte instruccional escaso en 26 de 46 estudios
 
 - [[genai-cognitive-offloading-learner-agency-review-2026]] — Revisión de alcance de 123 estudios que mapea la IA generativa, la descarga cognitiva y la agencia del estudiantado en la educación superior
+- [[ai-assisted-educational-research]] — Investigación educativa asistida por IA

@@ -36,7 +36,7 @@ ai_assist:
 
 ## Qué puede hacer con ella
 
-El Activities Hub reúne la mayoría de los conjuntos en un único lugar con buscador, e incluye Critical Thinking Online Breakouts, Science Detectives, la certificación en seguridad de laboratorio, salas de literatura, juegos de barrera, herramientas digitales de matemáticas y alfabetización en IA generativa. Language Bridge incorpora 22 actividades bilingües y de ESL para estudiantes bilingües emergentes. El ELE Activity Bank contiene 95 actividades listas para ejecutar destinadas al desarrollo profesional y a aulas de K–16, cada una con una guía para el facilitador y un paquete listo para imprimir. Teacher Printables añade laboratorios de ciencias de secundaria y materiales de gestión del aula, y el directorio de TCEA indexa el conjunto más amplio de herramientas HTML, paneles de control y bibliotecas de prompts.
+El Activities Hub reúne la mayoría de los conjuntos en un único lugar con buscador, e incluye [[critical-thinking|Critical Thinking]] Online Breakouts, Science Detectives, la certificación en seguridad de laboratorio, salas de literatura, juegos de barrera, herramientas digitales de matemáticas y [[ai-literacy|alfabetización en IA generativa]]. Language Bridge incorpora 22 actividades [[multilingual-learning|bilingües y de ESL]] para estudiantes bilingües emergentes. El ELE Activity Bank contiene 95 actividades listas para ejecutar destinadas al desarrollo profesional y a aulas de K–16, cada una con una guía para el facilitador y un paquete listo para imprimir. Teacher Printables añade laboratorios de ciencias de secundaria y materiales de gestión del aula, y el directorio de TCEA indexa el conjunto más amplio de herramientas HTML, paneles de control y bibliotecas de prompts.
 
 ## Para quién es
 

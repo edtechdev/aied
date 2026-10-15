@@ -31,7 +31,7 @@ ai_assist:
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 
-**DeepTutor** es la implementación de código abierto del marco de tutoría evaluado en [[deeptutor|el estudio de DeepTutor]], y ha crecido mucho más allá del alcance de aquel artículo hasta convertirse en un espacio de trabajo general de aprendizaje nativo de agentes. La tutoría, la resolución de problemas, la generación de cuestionarios, la práctica de dominio, la investigación y la visualización comparten un mismo entorno de ejecución de capacidades y un mismo contexto de sesión, de modo que el perfil de quien aprende que se va construyendo al resolver problemas condiciona las explicaciones y los elementos de práctica que vienen después.
+**DeepTutor** es la implementación de código abierto del marco de tutoría evaluado en [[intelligent-tutoring|el estudio de DeepTutor]], y ha crecido mucho más allá del alcance de aquel artículo hasta convertirse en un espacio de trabajo general de aprendizaje nativo de agentes. La tutoría, la resolución de problemas, la generación de cuestionarios, la práctica de dominio, la investigación y la visualización comparten un mismo entorno de ejecución de capacidades y un mismo contexto de sesión, de modo que el perfil de quien aprende que se va construyendo al resolver problemas condiciona las explicaciones y los elementos de práctica que vienen después.
 
 ## Qué puede hacer con ella
 

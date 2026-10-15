@@ -89,10 +89,11 @@ AIED 研究の中心的な緊張関係は、因果推論にとって最強のデ
 
 ### デザインベース研究（DBR）
 
-DBR は、教育上の介入を真正な文脈の中で反復的に設計・実施・改良し、理論、デザイン、現実世界の実践の間を循環します。それは、AI 学習環境と[[pedagogy|教育学的]]モデルを開発するために、このナレッジベースで顕著です。完全な DBR サイクル、範例、その強みと限界については、専門の[[design-based-research]]概念ページを参照してください。AIEd の標準的な例は、AI 支援による[[collaborative-learning|協働学習]]モデルの研究（[[ai-assisted-collaborative-learning-model-dbr|Putra et al.]]）で、4 段階の DBR サイクル——ニーズ分析、モデル設計、8 週間の教室での実施、モデルの改良——を実行し、4 段階の学習サイクル（問題の同定 → AI 支援による協働的探究 → 協働的な[[problem-solving]] → 振り返りと発表）に対して反復を重ねました。他の範例は、[[ai-literacy]][[teacher-education|教員研修]]（[[genai-literacy-training-teacher-education-dbr-2026]]、[[human-centered-ai-teacher-educators-2026]]）と、[[critical-thinking|批判的思考]]のための[[generative-ai|生成 AI]][[scaffolding|足場かけ]]（[[critical-thinking-genai-scaffolding]]）を開発しています。
+DBR は、教育上の介入を真正な文脈の中で反復的に設計・実施・改良し、理論、デザイン、現実世界の実践の間を循環します。それは、AI 学習環境と[[pedagogy|教育学的]]モデルを開発するために、このナレッジベースで顕著です。完全な DBR サイクル、範例、その強みと限界については、専門の[[design-based-research]]概念ページを参照してください。AIEd の標準的な例は、AI 支援による[[collaborative-learning|協働学習]]モデルの研究（[[ai-assisted-collaborative-learning-model-dbr|Putra et al.]]）で、4 段階の DBR サイクル——ニーズ分析、モデル設計、8 週間の教室での実施、モデルの改良——を実行し、4 段階の学習サイクル（問題の同定 → AI 支援による協働的探究 → 協働的な[[problem-solving]] → 振り返りと発表）に対して反復を重ねました。他の範例は、[[ai-literacy]][[teacher-education|教員研修]]（[[genai-literacy-training-teacher-education-dbr-2026]]）と、[[critical-thinking|批判的思考]]のための[[generative-ai|生成 AI]][[scaffolding|足場かけ]]（[[critical-thinking-genai-scaffolding]]）を開発しています。
 
 - **強み:** 高い生態学的妥当性と実践的関連性。実用的な成果物と理論の両方を生み出す。現実の教室と進化する AI の道具の複雑さに応答的。モデルを開発し、真正な実施のエビデンスに基づいて改良することによく適合する。
 - **限界:** 弱い内的妥当性（対照群が少ないか不在）。発見は文脈に縛られ、一般化が難しい。長い時間軸。どのデザイン要素が成果を引き起こしたかを切り離すことが難しい——DBR は実現可能性と改善を示すが、学習の伸びを特定のメカニズムに帰属させることはできない。
+- **範例:** [[ai-assisted-collaborative-learning-model-dbr]]、[[genai-literacy-training-teacher-education-dbr-2026]]、[[critical-thinking-genai-scaffolding]]、[[human-centered-ai-teacher-educators-2026]]。
 
 DBR は、[[rct|実験]]の因果的な統制と、生態学的真正性と反復的改良を交換します。それは、「この AI 学習環境を実践で機能するようどう設計するか」という問いにとって正しい道具であり、そのエビデンスは、因果的な効果検証というより、概念実証と設計の指針として最も強く機能します。DBR の学習の伸びを読むには、他のデザインと同じ[[limitations-in-aied-research|注意]]が必要です——補助なしの統制された成果指標がなければ、伸びは[[learning-gains|学習の伸び]]に記録された、同じ AI によって膨らまされた成績という交絡を反映しうるのです。
 

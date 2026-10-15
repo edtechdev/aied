@@ -105,6 +105,7 @@ ai_assist:
 
 このページの効果性の要約を支配する学習成果の数値——特にメタ分析からの統合された効果量——は、強い注意を払って読む必要があります。一連のメタ研究が、この分野の正の統合推定値が出版バイアス、構成概念の非整合性、方法論的な近道によって膨らんでいることを示しています。
 
+- **最初のChatGPT統合の波が測ったのは、学習ではなく成績であった。** [[epistemological-audit-genai-meta-analyses-2026|Fütterer et al. (2026)]]は、ChatGPTの教育的効果を統合した5件のメタ分析の証拠基盤を再構築しました。分類可能な69件の一次研究のうち、79.7%は成績のみを測定し、学習を測定したのは11.6%にすぎませんでした。したがって、彼らの再現した統合推定値（g = 0.83、95% CI [0.68, 0.97]、I² = 94.06%）が記述しているのは試験の成績であり、その予測区間[−0.75, 2.41]はゼロを横切ります。
 - [[bartos-ai-learning-meta-meta-analysis-2026|67件のメタ分析からの1,840件の効果量に関する研究レベルのメタ・メタ分析]]は、出版バイアスを補正した平均のAI効果が報告された大きさのおおよそ**3分の1**であること(SMD ≈ 0.196 対 中央値0.67)を見出し、予測区間は大きな害から大きな便益にまで及び、どの調整変数も一貫した成果を生んでいません。大きな異質性を考えると、単一の極端な研究ですらほとんど情報を寄与しません——つまり*現在の型の研究が増えても問いは解決しない*ということです。高品質で事前登録され、再現を志向した試験のみが解決しうるのです。
 - **統合の層自体に関する2次のメタ分析。** [[ai-education-effects-second-order-meta-analysis-2026|Emslanderら(2026年)]]は通常の分析単位を反転させます。45件のメタ分析を自分のデータとして扱い、研究の重複を補正し(818件の一意の一次研究を、単に捨てるのではなく一意性で重みづけ)、129件のメタ分析的な効果量をg = .57 [.50, .65]に統合します。アウトカムのクラスターはSTEMの成績の.35から一般的な学業上のアウトカムの.68まで及びます。2つの結果が上記の数値に関わります。AIの種類は効果を調整しませんでした(p = .63)——[[intelligent-tutoring|知的チューリングシステム]]、[[conversational-ai|チャットボット]]、ChatGPTはこの層では統計的に区別できないため、この分野の統合された成果は生成AIそのものによって駆動されているのではありません——そして唯一明確な調整変数は教育段階でした(高等教育.61 対 より若い標本で.30)。これは一部、研究デザインの副産物であり、コーパスの74%が高等教育の学生を対象とし、[[k-12|K-12]]の証拠は比較的薄いためです。その品質評価はコーパスの中で最も鋭いものです。45件のメタ分析はAMSTAR改変版尺度で17点中平均9.3点で、事前登録されたものはなく、45件中23件のみが、自らが報告した効果を検出する80%の検出力を持っていました。2つの出版バイアス検定も一致しません——対称的なファンネルプロット(Kendallのτ = −.01、p = .868)に対し、PET-PEESE(B = 0.9、p = .009)は膨らみを示しており——したがってSOMA自身の中程度の効果にも、未解決のバイアスの疑いが覆いかぶさっています。
 - [[oneill-presumed-effective-meta-analysis-2026|影響力の大きい14件のAIEDメタ分析の徹底的な監査]]は、そのいずれも統合された学習成果の主張に対して有効な根拠を提供していないことを見出します。一貫したアウトカムの構成概念を持つものはなく、すべてが未解決の極端な異質性を抱えており(I²は報告した13件のメタ分析で77.2%から94.4%の範囲で、そのうち13件のうち12件が80%を超えていた)、12件は従属する効果量を独立したものとして扱い、いずれも出版バイアスを有効に評価していませんでした。無作為に点検された一次研究の過半数が、メタ分析的な主張と不整合でした。誤りは政策にまで及びました。監査されたメタ分析のうち2件は、研究の標本サイズを学級サイズとして扱い、誤って計算された一次研究に基づいて、21人から40人が理想的な介入の規模であると結論づけ、GenAIの介入をその人数に向けて設計することを推奨しました。
@@ -136,6 +137,7 @@ ai_assist:
 - [[student-support-and-success]] — administrative outcomes (task completion, credits, persistence, graduation) as distinct from learning gains
 
 ## 関連記事
+- [[epistemological-audit-genai-meta-analyses-2026]] — 生成AIの教育研究における初期の証拠統合の批判的な認識論的監査（Fütterer et al. 2026）
 - [[contractor-learning-impact-generative-ai-2026]] — Off-the-shelf chatbot access raised unaided test scores that persisted a week (Contractor & Reyes 2026)
 - [[kestin-ai-tutoring-outperforms-active-learning-rct-2025]] — AI tutoring outperforms in-class active learning: an RCT introducing a novel research-based design in an authentic educational setting (Kestin et al. 2025)
 - [[genai-performance-vs-learning]] — why assisted performance is not a learning outcome (Yan et al. 2025)

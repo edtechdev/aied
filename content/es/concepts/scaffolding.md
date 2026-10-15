@@ -155,3 +155,4 @@ La distinción entre guiado por reglas y ad hoc alcanza más allá del tutor has
 - [[genai-cognitive-scaffold-geometric-reasoning-2026]] — GenAI as a prompting scaffold that bridges visual intuition to deductive proof in geometry, where visualization alone is insufficient (Davor 2026)
 - [[guided-ai-tutor-impasse-resolution-2026]] — Examining Variation in How Guided AI Tutors Resolve Student Impasses
 - [[structured-genai-training-physics-problem-solving-rct-2026]] — Training the learner as scaffolding for GenAI use in STEM problem solving (Huang et al. 2026)
+- [[etq-ai-conversational-teacher-training-2026]] — Diagnóstico conversacional de IA para las concepciones erróneas docentes mediante diálogo fundamentado en la evidencia (Miranda y Calvani 2026)

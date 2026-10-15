@@ -31,7 +31,7 @@ ai_assist:
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 
-**OpenMAIC** es la versión de código abierto del aula multiagente MAIC descrita en [[mooc-to-maic|el estudio MAIC]]: describa un tema o adjunte sus propios materiales y genera una lección completa (diapositivas, cuestionarios, simulaciones HTML interactivas y actividades basadas en proyectos) que después imparte mediante profesores de IA y compañeros de clase de IA que hablan, dibujan en una pizarra y participan en el debate. Es el código que hay detrás de un aula que puede ejecutarse en lugar de solo leerse.
+**OpenMAIC** es la versión de código abierto del aula multiagente MAIC descrita en [[intelligent-tutoring|el estudio MAIC]]: describa un tema o adjunte sus propios materiales y genera una lección completa (diapositivas, cuestionarios, simulaciones HTML interactivas y actividades basadas en proyectos) que después imparte mediante profesores de IA y compañeros de clase de IA que hablan, dibujan en una pizarra y participan en el debate. Es el código que hay detrás de un aula que puede ejecutarse en lugar de solo leerse.
 
 ## Qué puede hacer con ella
 
