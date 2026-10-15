@@ -12,7 +12,7 @@ level: [k 12, higher ed]
 confidence: high
 reviewed_by: [editor]
 translation_of: concepts/self-regulated-learning
-source_updated: "2026-10-07T14:30:00-04:00"
+source_updated: "2026-10-15T10:00:00-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -131,6 +131,8 @@ Per esempio:
 - **Il supporto esterno può scavalcare il giudizio metacognitore dello studente.** [[iqbal-human-genai-support-essay-revision-2026|Iqbal et al. (2026)]] hanno tracciato 87 studenti di EFL che revisionavano un saggio con [[generative-ai|GenAI]] (ChatGPT 4.0), supporto di un esperto umano o nessun supporto. La condizione di supporto era di gran lunga il correlato più forte della strategia di revisione scelta dallo studente (V di Cramér = 0,668), ben prima del trascinamento dal compito di scrittura precedente (V = 0,333), mentre l'accuratezza del giudizio metacognitivo (p = 0,172), l'abilità di scrittura (p = 0,261) e la [[motivation]] (p = 0,683) non erano associate. Il giudizio metacognitivo tracciava la strategia solo quando non era disponibile alcun supporto (test di permutazione p = 0,0460). Gli studenti con supporto GenAI guadagnavano di più (circa 4 punti in media con la strategia di diminuzione della ricerca di aiuto, contro −0,5 punti per la stessa strategia con supporto di esperto umano), eppure nessuna strategia di revisione era associata al cambiamento di punteggio (H(3) = 3,895, p = 0,273), perciò i guadagni provenivano dallo strumento anziché da una migliore autoregolazione. L'orientamento degli autori è che la GenAI dovrebbe stimolare la riflessione sulla propria strategia di revisione anziché fornire aiuto diretto.
 - **L'uso riflessivo traccia il pensiero critico, non l'incremento di conoscenza.** [[melanou-genai-learning-dynamics-longitudinal-2026|Melanou et al. (2026)]] hanno seguito tre classi parallele di studenti di informatica aziendale (N = 87) per un corso di nove settimane, con la conoscenza in aumento in ogni gruppo (F(1, 50) = 29,87, p < 0,001, η²p = 0,374) e senza vantaggio dell'IA, senza interazione Tempo × Gruppo e senza effetto Matthew (F(1, 48) = 2,46, p = 0,124; BF01 = 8,70). L'uso riflessivo (controllare le fonti e verificare l'output dell'IA prima di adottarlo) era marcamente più alto nella condizione IA (3,72 contro 2,82; F(1, 40) = 20,21, p < 0,001) e prediceva il pensiero critico (β = 0,43, p < 0,001) ma non l'incremento di conoscenza, che era invece predetto dal carico cognitivo pertinente (β = 0,51, p = 0,001). La lettura pratica è che l'accesso all'IA non è di per sé un intervento, e che il suo rendimento metacognitivo emerge nella qualità del ragionamento prima di emergere nei punteggi dei test.
 
+- **È la struttura, non la sola IA, a produrre i guadagni di SRL.** La mappatura delle fasi di Zimmerman sull'istruzione ibrida basata sul progetto con l'IA come [[scaffolding|impalcatura metacognitiva]] ha prodotto un N-Gain di 0,72 contro 0,28 per l'istruzione convenzionale (t = 8,47, p = 0,001, [[ai-project-hybrid-learning-self-regulated-2026|Priyambudi et al. (2026)]]), i quali sostengono che l'IA rafforza l'autoregolazione solo all'interno di una struttura del compito — l'uso non strutturato rischia la pigrizia metacognitiva.
+
 ## SRL mediata dagli LLM: impalcatura, scorciatoia o partner?
 
 Un gruppo di studi delle Learning Letters (2026) converge su una tensione centrale: la [[generative-ai|GenAI]] può fare da impalcatura, vanificare o fare da partner per l'autoregolazione a seconda della progettazione e del modo in cui gli studenti ne regolano l'uso. L'evidenza indica l'SRL stesso — non lo strumento — come variabile decisiva.
@@ -221,4 +223,5 @@ Quale supporto è in gioco decide quale mediatore porta l'associazione: tra 3.00
 - [[genai-learning-procrastination-planned-behavior-2026]] — GenAI-assisted learning procrastination: an intention-behavior gap that anxiety strengthens
 - [[genai-srl-l2-writing-scale-2026]] — A validated six-dimension GenAI-SRL scale for L2 writing, with environmental regulation as its own dimension and a 12-item ant-colony-optimized short form
 - [[borchers-srl-language-generalization-2025]] — Large Language Models Generalize SRL Prediction to New Languages Within But Not Between Domains (Borchers et al. 2025)
+- [[ai-project-hybrid-learning-self-regulated-2026]] — Un modello di apprendimento ibrido basato sul progetto che utilizza l'intelligenza artificiale per potenziare l'apprendimento autoregolato degli studenti
 
