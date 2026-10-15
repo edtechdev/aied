@@ -11,7 +11,7 @@ connected_faqs: [ai-feedback-at-scale]
 connected_resources: [snorkl, ai-infused-assignment-playbook]
 confidence: high
 translation_of: concepts/formative-assessment
-source_updated: "2026-10-04T05:46:16-04:00"
+source_updated: "2026-10-15T08:25:00-04:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 contributors: [editor]
 ai_assist:
@@ -177,3 +177,4 @@ AI शिक्षा में निर्माणकारक मूल्�
 - [[zhu-adaptive-teaching-assistance-genai-big-data-2026]] — संगीत शिक्षा में जनक AI और बड़े डेटा विश्लेषण को जोड़ने वाला अनुकूली शिक्षण-सहायक
 - [[student-llm-use-ai-question-difficulty-data-science-2026]] — डेटा विज्ञान पाठ्यक्रमों में LLM का विद्यार्थी उपयोग और AI-द्वारा उत्पन्न प्रश्न कठिनाई की सीमाएँ
 - [[mcnamara-aim-cai-continuous-assessment-2026]] — AI-मध्यस्थ निरंतर मूल्यांकन अधसंरचना (AIM-CAI): संदर्भों और समय के पार अधिगम प्रमाण जोड़ना (McNamara & Hasnine 2026)
+- [[etq-ai-conversational-teacher-training-2026]] — शिक्षण भ्रांतियों के लिए साक्ष्य-आधारित संवाद के साथ संवादात्मक AI निदान (Miranda & Calvani 2026)

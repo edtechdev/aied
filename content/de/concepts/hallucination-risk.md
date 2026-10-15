@@ -11,7 +11,7 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation]
 translation_of: concepts/hallucination-risk
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-11T09:05:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -40,6 +40,7 @@ Halluzination in Bildungs-KI nimmt mehrere Formen an, die in den Artikeln dieser
 
 Ein Review von 125 Studien grenzt die Prävalenz und die Erkennungslücke ein: Halluzinationsraten von 10–40%, wobei Medizinstudierende KI-Fehler nur in 44–55% der Fälle erkannten ([[genai-higher-education-systematic-review-2026|Rathnayake (2026)]]).
 
+**Markierte Unzuverlässigkeit senkte die berichtete Abhängigkeit, statt sie zu erhöhen.** Als 546 Teilnehmende denselben GAI-Dialog lasen, der entweder als gefälschte Informationen enthaltend oder als verifiziert korrekt markiert war, erzeugte die Fälschungsmarkierung geringeres [[trust|Vertrauen]] und geringere wahrgenommene Kontrollierbarkeit sowie höhere kognitive Dissonanz und Frustration neben *geringeren* Abhängigkeitswerten (M = 2,935 gegenüber 3,254) ([[frontiers-gai-hallucination-dependence-2026|Liu et al. (2026)]]). Das Ergebnis qualifiziert die Überverlass-Logik dieser Seite: zu sehen, dass eine Ausgabe gefälscht sein könnte, ist nicht dasselbe, wie weiter auf sie zu bauen.
 **Assessment-Halluzination** ist besonders schädlich. **[[llm-cognitive-diagnosis-handwritten-math|MathCog]]** fand, dass LLMs beim Diagnostizieren kognitiver Fähigkeiten Belegzitate erfinden, die in der Handschrift der Studierenden nicht vorkommen, wobei 58.5% der falschen Diagnosen von falschen Behauptungen beleglicher Konfidenz begleitet waren. **[[llm-fallacy-misattribution]]** dokumentierte systematische Überattribution von Belegen im [[llm|LLM]]-Schließen — Modelle behaupten belegliche Unterstützung, wo keine existiert. Beides verbindet sich mit Anliegen an [[ai-ed-evaluation|Evaluation von KI in der Bildung]] und [[knowledge-tracing|Knowledge Tracing]] hinsichtlich der [[assessment-validity|Validität von Assessments]]. [[ivory-psychology-assessment-integrity-2026|Ivory et al. (2026)]] fügen zwei Fehlermodi hinzu, die sichtbar werden, wenn KI-Ausgaben bewertet statt inspiziert werden: erfundene Einzelheiten, die die Bewertung überleben — ein rezensiertes Paper, das es nicht gibt, samt nicht auflösbarer DOI, und ein als 378 berichteter Stichprobenumfang, wo die Quelle 329 sagte —, und Selbstwiderspruch innerhalb einer einzelnen Antwort, wo das Modell sich zur richtigen Option hinschloss und dann in seiner abschließenden Zusammenfassung eine andere berichtete. Weil Literaturlisten derzeit auf Formatierung statt auf Genauigkeit bewertet werden, erreicht diese Fehlerklasse eine bestehende Note, während sie die Person in die Irre führt, die dasselbe Werkzeug zum Wiederholen nutzt.
 
 In einem Design-Piloten für Assessments fanden [[authentic-assessments-generative-ai-pilot-2026|Paula et al. (2026)]] erfundene Referenzen und unrealistische Zeitschätzungen, die wiederholtes Prompting überlebten und erhebliche akademische Überarbeitung erforderten — Halluzination in einem auf Lehrende gerichteten Entwurfswerkzeug statt in studentischer Arbeit.
@@ -68,6 +69,7 @@ Verteidigungen gegen solche Manipulation tragen ihren eigenen Trade-off: eine me
 - [[llm]]
 - [[productive-failure]]
 ## Verbundene Artikel
+- [[frontiers-gai-hallucination-dependence-2026]] — Labeling a GAI dialogue as fabricated lowered trust and dependence together
 - [[ivory-psychology-assessment-integrity-2026]] — Fabricated citations and self-contradicting outputs inside passable student work (Ivory et al. 2026)
 - [[llm-cognitive-diagnosis-handwritten-math]]
 - [[llm-fallacy-misattribution]]

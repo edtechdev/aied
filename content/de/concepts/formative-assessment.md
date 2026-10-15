@@ -11,7 +11,7 @@ connected_faqs: [ai-feedback-at-scale]
 connected_resources: [snorkl]
 confidence: high
 translation_of: concepts/formative-assessment
-source_updated: "2026-10-04T05:46:16-04:00"
+source_updated: "2026-10-15T08:25:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -106,6 +106,7 @@ Formatives Assessment in der KI-Bildung verbindet sich mit dem Lernprozess selbs
 - **KI-Bewertung fügt eine Validitätsbedrohung hinzu.** Weil ein KI-Bewerter konstruktirrelevante Merkmale wie Sprachflüssigkeit statt naturwissenschaftliches Schlussfolgern belohnen kann, argumentiert ein von einer Zusammenkunft von etwa 100 Führungskräften destilliertes White Paper aus Stanford/ETS, dass Assessment kontinuierliche, kontextreiche Evidenz akkumulieren sollte statt einmalige Ausgaben zu zertifizieren ([[responsible-assessment-ai-era-stanford-2026|McGee et al. (2026)]]).
 
 - **Behalten Sie die verwundbare Aufgabe und fügen Sie einen Zwilling hinzu.** [[roe-assessment-twins-2026|Roe, Perkins & Giray (2026)]] argumentieren, dass Take-Home-Essays und Forschungsberichte erheblichen formativen Wert tragen und für das Lernen beibehalten werden sollten, gepaart mit einer zweiten Aufgabe, die dieselben Ergebnisse bewertet und verlässliche summative Evidenz liefert.
+- **Kontinuierliches Assessment rahmt die formativen Aufzeichnungen selbst neu.** Die AIM-CAI-Referenzarchitektur (ein Positionspaper, keine Implementierung) schlägt vor, episodisches Assessment als primäre Evidenzbasis durch eine sechsschichtige Infrastruktur zu ersetzen: Evidenzerzeugung über Plattformen hinweg, Serialisierung, die den Quellkontext bewahrt, KI-vermittelte semantische Übersetzung, psychometrische Interpretation, longitudinale Kompetenzprofile und föderierte Governance. Ihre Verschiebungstabelle benennt den Wandel: Feedback je Aufgabe wird longitudinales Feedback, das Beratung und Reflexion stützt; Noten werden sich entwickelnde Kompetenzprofile; Anerkennungen werden transparente Entwicklungsaufzeichnungen. Die Governance-Schicht ist das Beharren des Papers — sieben benannte Spannungen (Interoperabilität gegenüber lokaler Autonomie, Datenschutz gegenüber Nutzen, Handlungsfähigkeit der Lernenden gegenüber prädiktiver Automatisierung, Überwachung gegenüber Unterstützung etc.), jede abgebildet auf Risiken und Antworten, mit der Warnung, dass ungoverned kontinuierliche Inferenz dominante kulturelle Normen privilegiert. Der Neuheitsanspruch ist integrativ: die Komponenten existieren; der Beitrag ist die Architektur und die Governance-Karte. ([[mcnamara-aim-cai-continuous-assessment-2026]])
 
 ## Risiko: Assessment als Überwachung
 
@@ -182,3 +183,5 @@ Systeme formativen Assessments können sich von Lernunterstützungswerkzeugen zu
 - [[mendonca-llm-feedback-perceived-usefulness-programming-2026]] — Perceived usefulness and intention to use LLM-generated feedback in programming across three educational levels
 - [[zhu-adaptive-teaching-assistance-genai-big-data-2026]] — Adaptive teaching assistance combining generative AI and big data analytics in music education
 - [[student-llm-use-ai-question-difficulty-data-science-2026]] — Student Use of LLMs and the Limits of AI-Generated Question Difficulty in Data Science Courses
+- [[mcnamara-aim-cai-continuous-assessment-2026]] — AI-Mediated Continuous Assessment Infrastructure (AIM-CAI): Connecting Learning Evidence Across Contexts and Time (McNamara & Hasnine 2026)
+- [[etq-ai-conversational-teacher-training-2026]] — Conversational AI diagnostic for teaching misconceptions with evidence-grounded dialogue (Miranda & Calvani 2026)

@@ -11,7 +11,7 @@ confidence: high
 institutions: [change-management, educational-policy-ai, regulation]
 connected_resources: [institutional-ai-readiness-pack, campus-ai-framework]
 translation_of: concepts/governance
-source_updated: "2026-10-01T20:35:10-04:00"
+source_updated: "2026-10-10T14:22:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -42,6 +42,7 @@ KI-Governance in der Bildung wird zunehmend dringend, weil [[generative-ai|gener
 - **[[baroudi-anticipatory-governance-ai-higher-ed-2026|Baroudi]]** [[meta-analysis-systematic-review|Scoping Review]] rahmt KI-Governance in der Hochschulbildung durch antizipatorische Governance- und Leadership-Linsen.
 - **Co-Design von Politik durch Studierende:** [[guided-inquiry-genai-course-policy-2026|Hingle & Johri]] zeigen, wie eine angeleitete Untersuchungsaktivität, in der Studierende eine GenAI-Kurspolitik co-designten, studentische Werte offenlegte – mit Priorisierung von Training, standardisierten [[ai-use-disclosure|Offenlegung]]sverfahren, stärkerer institutioneller Unterstützung und größerer Beteiligung an Entscheidungsfindung. Das positioniert [[pedagogical-partnerships|Studierende als Partnerinnen und Partner]] in der Governance statt als passive Subjekte und ergänzt Politik auf institutioneller Ebene durch studentische Stimme von unten.
 
+- **Neugestaltung läuft auf drei Dimensionen gleichzeitig.** [[assessment-redesign-critical-practice-2026|Laidlaw (2026)]] rahmt Assessment-Neugestaltung im KI-Zeitalter über kulturell-diskursive (Sprache und Annahmen), materiell-ökonomische (Ressourcen) und sozial-politische (Governance und Macht) Dimensionen, und benennt die Schnittmenge von Ressourcen und Macht als größten Hebelpunkt und größtes Risiko zugleich: Ressourcen, die durch bestehende Machtstrukturen fließen, verstärken Ungleichheiten.
 - **Die techno-lösungsorientierte Falle und das Politikdefizit:** Ein systematischer Review von 65 Studien zu KI × [[social-emotional-learning|sozial-emotionalem Lernen]] ([[policy-deficit-ai-sel-2026|Tran, Liu & Nguyen 2026]]) findet, dass Forschung oft technisches Potenzial in den Vordergrund stellt, während die institutionellen Bedingungen verantwortungsvoller Implementierung unterbestimmt bleiben – eine „techno-solutionist"-Falle. Die Autorinnen und Autoren verbinden politisches [[student-engagement|Engagement]] mit Publikationsort und schlagen einen „WH-Fragen"-Rahmen vor, um Governance-Implikationen aktorspezifisch zu machen, was den weiteren Befund der Wissensbasis aufnimmt, dass institutionelle Governance der KI-Adoption hinterherhinkt.
 
 ## Wie KI-Governance in der Forschung erscheint
