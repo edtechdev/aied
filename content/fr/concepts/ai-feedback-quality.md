@@ -152,3 +152,4 @@ La qualité de la rétroaction par l'IA se relie fondamentalement à l'[[formati
 - [[intelligent-tutoring-mathematics-education-review-2026]] — Revue narrative du tutorat par IA en mathématiques : gains de la rétroaction en temps réel et conditions de mise en œuvre
 - [[agent-type-feedback-style-self-directed-learning-2026]] — Styles de rétroaction socratique contre directive : le suivi de la compréhension face à la priorisation, et le coût en charge cognitive
 - [[when-students-prefer-ai-scoring-feedback-2026]] — Qualité perçue de la rétroaction par l'IA par les étudiants : compréhensible mais répétitive, digne de confiance pour la mécanique, non pour l'interprétation
+- [[lin-rag-lesson-generation-tutor-training-2026]] — Les leçons de formation de tuteurs générées par RAG ont égalé celles créées par des humains en présence de rétroaction ; l'avantage humain n'apparaissait qu'en l'absence de rétroaction
