@@ -13,7 +13,7 @@ connected_faqs: [top-10-findings-ai-education-instructors]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: concepts/ai-education
-source_updated: "2026-10-02T07:35:56-04:00"
+source_updated: "2026-10-15T10:00:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -85,9 +85,9 @@ ai_assist:
 
 人工智能如何支持教与学，是这一领域的核心。关键概念包括：
 
-- **核心教学法：**[[pedagogy|教学法与教学策略]]（本知识库教学方法覆盖的总括页面），以及[[active-learning|主动学习]]、[[collaborative-learning|协作学习]]、[[group-work|小组合作]]、[[project-based-learning|项目式学习]]、[[problem-based-learning|问题式学习]]、[[productive-failure|有益失败]]、[[inquiry-based-learning|探究式学习]]、[[experiential-learning|体验式学习]]、[[game-based-learning|游戏化学习]]、[[learning-by-teaching|以教促学]]、[[scaffolding|脚手架]]、[[socratic-method|苏格拉底式教学法]]、[[critical-pedagogy|批判性教学法]]、[[pedagogical-partnerships|教学伙伴关系]]、[[storytelling-in-education|叙事教学]]、[[learning-design|学习设计]]、[[online-teaching-and-learning|在线教学与学习]]与[[video-education|视频在教育中的应用]]。
+- **核心教学法：**[[pedagogy|教学法与教学策略]]（本知识库教学方法覆盖的总括页面），以及[[active-learning|主动学习]]、[[collaborative-learning|协作学习]]、[[group-work|小组合作]]、[[project-based-learning|项目式学习]]、[[problem-based-learning|问题式学习]]、[[productive-failure|有益失败]]、[[inquiry-based-learning|探究式学习]]、[[experiential-learning|体验式学习]]、[[game-based-learning|游戏化学习]]、[[learning-by-teaching|以教促学]]、[[scaffolding|脚手架]]、[[socratic-method|苏格拉底式教学法]]、[[critical-pedagogy|批判性教学法]]、[[pedagogical-partnerships|教学伙伴关系]]、[[storytelling-in-education|叙事教学]]、[[learning-design|学习设计]]、[[online-teaching-and-learning|在线教学与学习]]与[[video-education|视频在教育中的应用]]，以及[[pedagogical-patterns|教学法模式]]（可复用的教学序列模式）。
 - **学习理论与过程：**[[learning-theories|学习理论]]总括页面（[[behaviorism|行为主义]]、[[cognitive-psychology|认知主义]]、[[constructivist|建构主义]]、[[sociocultural-learning|社会文化取向]]、[[distributed-cognition|分布式认知]]、[[situated-learning|情境学习]]、[[embodied-learning|具身学习]]、[[community-of-inquiry|探究共同体]]）与面向学习者的过程并存，例如[[self-regulated-learning|自我调节学习]]、[[self-determination-theory|自我决定理论]]、[[motivation|动机]]、[[self-efficacy|自我效能]]、[[self-directed-learning|自我导向学习]]、[[metacognition|元认知]]、[[desirable-difficulties|合意困难]]、[[transfer-of-learning|学习迁移]]、[[prior-knowledge|先前知识]]、[[icap-framework|ICAP 认知参与]]、[[refutation-text|反驳性文本]]、[[retrieval-spacing-interleaving|提取、间隔与交错练习]]以及[[activity-theory-aied|活动理论]]。
-- **学习者参与和体验：**[[student-engagement|学生参与]]、[[help-seeking|求助行为]]、[[social-emotional-learning|社会情感学习]]、[[well-being|福祉]]、[[creativity|创造力]]、[[problem-solving|问题解决]]、[[mastery-learning|掌握学习]]与[[student-ai-interaction|学生与人工智能的互动]]，共同塑造了学习者实际接触人工智能并受其影响的方式，而[[social-norms-ai-use|围绕人工智能使用逐渐形成的社会规范]]则决定人们能在多大程度上公开讨论这些。
+- **学习者参与和体验：**[[student-engagement|学生参与]]、[[help-seeking|求助行为]]、[[social-emotional-learning|社会情感学习]]、[[well-being|福祉]]、[[creativity|创造力]]、[[problem-solving|问题解决]]、[[mastery-learning|掌握学习]]与[[student-ai-interaction|学生与人工智能的互动]]，以及[[student-support-and-success|学生支持与成功]]（归属感、留存、保留与成功率），共同塑造了学习者实际接触人工智能并受其影响的方式，而[[social-norms-ai-use|围绕人工智能使用逐渐形成的社会规范]]则决定人们能在多大程度上公开讨论这些。
 
 ## 技术与方法
 
@@ -115,7 +115,7 @@ ai_assist:
 
 ## 研究方法与评价
 
-我们如何知道人工智能是否有效，是自成一体的脉络，本知识库也把它当作一条脉络来对待：
+我们如何知道人工智能是否有效，是自成一体的脉络，本知识库也把它当作一条脉络来对待。该领域自身的研究工作如今也成为研究对象：[[ai-assisted-educational-research|AI 辅助教育研究]]涵盖把 AI 用作文献检索、筛选与综述工具的研究，以及 AI 在生成研究产出中的角色。
 
 - **研究方法：**以[[research-methods-aied|AIED 研究方法]]为总括页面，包括[[qualitative-research|质性]]、[[quantitative-research|量化]]、[[mixed-methods-research|混合方法]]、[[design-based-research|基于设计的研究]]与[[usability-research|可用性]]取向，以及[[rct|随机对照试验]]、[[meta-analysis-systematic-review|元分析与系统综述]]与[[network-analysis|网络分析]]。
 - **人工智能系统的评价：**[[ai-ed-evaluation|人工智能教育评价]]与用于判断系统能力的[[benchmark|基准测试]]，以[[learning-gains|学习增益]]为真正重要的结果，同时以[[limitations-in-aied-research|这一证据普遍存在的局限]]和[[interpreting-and-applying-aied-research|如何解读单项研究]]作为审慎的平衡力量。
@@ -192,13 +192,8 @@ ai_assist:
 
 关于教育中的人工智能的领域级综述，即那些综述整个领域或整个教育层次、而非单一主题的研究：
 
-- [[typology-generative-ai-tools-education-2026]]：Typology of Generative AI Tools for Education
-- [[raza-farooq-aied-review-2020-2025]]：Review of Artificial Intelligence in Education from 2020 to 2025
 - [[rismanchian-ai-education-four-decades-aixed-2026]]：The evolution of AI-and-education research across four decades (AIxEd framework)
 - [[mishra-control-vs-agency-history-2025]]：Control vs. agency: a history of AI in education
-- [[liang-genai-systematic-review-human-ai-2026]]：Generative AI in education: systematic review of 56 empirical studies
 - [[genai-higher-education-systematic-review-2026]]：Generative AI in higher education: systematic review of 125 studies
 - [[stanford-evidence-base-ai-k12-2026]]：The evidence base on AI in K-12: a review of 818 papers
-- [[caruana-pre-university-ai-education-slr-2026]]：Pre-university AI education: systematic literature review of 42 studies
 - [[genai-educational-outcomes-meta-analysis]]：Generative AI and educational outcomes: comprehensive meta-analysis
-- [[caeai-ai-companions-learning-over-performance-2026]]：a research agenda for AI companions built around learning rather than performance
