@@ -12,7 +12,7 @@ confidence: high
 reviewed_by: [editor]
 connected_resources: [process-feedback]
 translation_of: concepts/self-regulated-learning
-source_updated: "2026-10-07T14:30:00-04:00"
+source_updated: "2026-10-15T10:00:00-04:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
@@ -135,6 +135,7 @@ SRL הוא התהליך שבו לומדים מנהלים באופן פעיל א�
 ### השתקפות מודעת-GenAI כ-SRL
 
 [[5p-reflection-model-genai-2026|מודל ההשתקפות 5P (Kadel et al. 2026)]] ממקם מחדש השתקפות מובנית בעידן ה-GenAI כתרגול SRL מומש. כיוון שלומדים יוצרים יותר ויותר משמעות יחד עם בינה מלאכותית, מודלי השתקפות מסורתיים מתקשים לאמת את השתקפות הסטודנט, ולכן מודל 5P (מטרה, תהליך, תוצר, מלכודות, תוכנית) ממזג הצבת יעדים מונחית-חשיבה מוקדמת, השתקפות-בפעולה (תיעוד הנחיות ואיטרציות), השתקפות-על-פעולה (ולידציה של הפלט ההסתברותי מול מקורות חיצוניים), שלב מלכודות מפורש ל[[hallucination-risk|הזיה]], [[academic-integrity|פלגיאט]], ו[[cognitive-offloading|הסתמכות מופרזת]], ותוכנית פנייה-קדימה — תוך שילוב ניטור רגשי לאורך כל הדרך. הפילוסופיה "תהליך על פני תוצר" שלו מתייחסת לתיעוד המובנה של [[human-ai-collaboration|האינטראקציה בין אדם לבינה מלאכותית]] כדרישה הרגולטורית השומרת על אותנטיות, [[agency]], ועומק [[metacognition|מטאקוגניטיבי]], וממקמת השתקפות מודעת-GenAI כפיגום לוויסות עצמי ולא תחליף לו.
+- **מבנה, לא AI לבד, מניע רווחי-למידה-עצמית-מוסדרת.** מיפוי שלבי-זימרמן על הוראה-היברידית מבוססת-פרויקטים עם AI כ[[scaffolding|פיגום מטאקוגניטיבי]] הפיק N-Gain של 0.72 מול 0.28 להוראה-מסורתית (t = 8.47, p < 0.001, [[ai-project-hybrid-learning-self-regulated-2026|Priyambudi et al. (2026)]]), הטוענים ש-AI מחזק ויסות-עצמי רק בתוך מבנה-המשימה — שימוש לא-מבני מסכן עצלנות-מטאקוגניטיבית.
 
 ## SRL בתיווך LLM: פיגום, קיצור דרך, או שותף?
 
@@ -228,4 +229,5 @@ SRL הוא התהליך שבו לומדים מנהלים באופן פעיל א�
 - [[genai-learning-procrastination-planned-behavior-2026]] — GenAI-assisted learning procrastination: an intention-behavior gap that anxiety strengthens
 - [[genai-srl-l2-writing-scale-2026]] — A validated six-dimension GenAI-SRL scale for L2 writing, with environmental regulation as its own dimension and a 12-item ant-colony-optimized short form
 - [[borchers-srl-language-generalization-2025]] — Large Language Models Generalize SRL Prediction to New Languages Within But Not Between Domains (Borchers et al. 2025)
+- [[ai-project-hybrid-learning-self-regulated-2026]] — מודל-למידה-היברידי מבוסס-פרויקטים המשתמש בבינה מלאכותית לשיפור הלמידה העצמית-המוסדרת של סטודנטים
 

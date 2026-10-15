@@ -9,7 +9,7 @@ level: [higher ed, k 12]
 confidence: high
 reviewed_by: [editor]
 translation_of: concepts/biology-education
-source_updated: "2026-09-30T08:05:25-04:00"
+source_updated: "2026-10-13T09:18:19-04:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
@@ -43,6 +43,7 @@ ai_assist:
 
 **חשיבה ביקורתית בעידן ה-AI.** **[[critical-thinking-biological-sciences-ai-2025|Papaneophytou & Nicolaou]]** טוענים שככל ש-AI מעצבת מחקר ביולוגי, **חשיבה ביקורתית** — סקפטיות, הבנה הקשרית והיגיון אתי — חייבת להיזרע בכוונה, כאשר פיקוח [[human-in-the-loop-ai|אנושי]] נשאר בלתי-נמנע לאימות פלטי AI ולמניעת [[equity-in-ai-education|הטיה]]. הדבר מתחבר לדאגות כלל-מאגר-הידע של [[reducing-ai-misuse|הפחתת שימוש-בלתי-הולם-AI]] ו[[cognitive-offloading|העמסה קוגניטיבית]].
 
+**תרגול טיעון סוקרטי בסיוע AI בהכנת מורות.** קוואזי-ניסוי עם 124 מורות ביולוגיה עתידיות מצא ש[[socratic-method|מורה סוקרטי]] ChatGPT-4 על סוגיות חברתיות-מדעיות העלה את איכות הטיעון מעבר לדיון עמיתים לא-מקוון (מכוון 3.91 מול 3.21, F(1,121) = 14.23, p < .001), עם הרווחים הגדולים ביותר במיומנויות ההפרכה והראיות הנגדיות ([[genai-socratic-tutor-biology-argumentation-2026|Ergasheva et al., 2026]]).
 **כלי AI מיוחדים והסקירה הרחבה.** **[[beyond-chatgpt-ai-tools-biological-education-2026|Cotton & Cotton]]** סוקרים את הנוף המלא של כלי AI בחינוך ביולוגי, כולל **iNaturalist ו-Google Lens** לזיהוי מינים, ביואימוג'ינג וכלי למידת מכונה, טכנולוגיות מסייעות, ומידול ניבי של תלמידים בסיכון — לצד אתגרי היושרה, עיצוב-ההערכה, מידע-מוטעה וחשיבה ביקורתית של בינה מלאכותית יוצרת.
 
 **כמה מהציון באמת חשוף.** שיקול כל קטגוריה מדורגת של 38 סילבוסי קורס-ליבה של מחלקה אחת לפי פגיעות המדורגת-מורה שם 33% מנקודות הקורס בחשיפה גבוהה ו-81% לפחות חשופים במידת-מה — 41% ו-100% מקוון — כאשר רק מבחנים מופקדים-במעגנה פנים-לפנים דורגו כפגיעים מינימלית ([[biology-degree-integrity-genai-cheating-2026|Chan et al., 2026]]).
@@ -88,3 +89,4 @@ ai_assist:
 - [[critical-thinking-biological-sciences-ai-2025]] — Critical thinking in biological sciences and AI
 - [[chatgpt-math-biology-challenge-based-learning-2025]] — ChatGPT in challenge-based biology/math courses
 - [[zha-ai-literacy-biology-case-study]] — AI literacy education in a biology class
+- [[genai-socratic-tutor-biology-argumentation-2026]] — חיזוק מיומנויות טיעון בהתאמה ל-PISA בקרב מורות ביולוגיה עתידיות באמצעות בינה מלאכותית גנרטיבית
