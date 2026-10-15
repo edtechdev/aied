@@ -13,7 +13,7 @@ page_kind: [evaluation, synthesis]
 confidence: medium
 connected_faqs: [equity-ethics-pedagogical-safety-research, research-gaps-aied]
 translation_of: concepts/differential-effects-across-learner-groups
-source_updated: "2026-10-01T10:47:53-04:00"
+source_updated: "2026-10-11T09:05:00-04:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -99,6 +99,12 @@ ai_assist:
 - **成人学習者は別の設計事例です。** [[adult-learning|成人学習]]と、K-12 の研究ではなく、ナレッジベースのアンドラゴジー研究が扱います。
 - **アクセスは他のすべてをなお規定しています：** [[digital-divide|デジタルディバイド]]と、[[pedagogy|教授法的]]な統合なしには[[access-not-enough-ai-tutoring-2026|AI 家庭教師へのアクセスは十分ではない]]という発見を参照。
 
+## 専門的な背景
+
+専門的な背景は、このページの集団ごとの地図がまだ担っていなかった差別的な軸です。同じ道具が、学生の人口統計ではなく分野にわたって、その便益を不均等に配分しうるのです。
+
+- **一つの道具がある分野では関与を高め、別の分野では関与を下げうる。** 混合分野のチームに属する 130 名の学部生を対象とした 2 週間の準実験では、[[generative-ai|ChatGPT]]は STEM の学生にとって身体的な[[student-engagement|関与]]を高め、非 STEM の学生にとっては下げました（Q = 9.87, p < .05）。そして ChatGPT なしで書かれたノートは、専門的なアイデアの多様性と統合においてより高く採点されました（[[caeai-chatgpt-interdisciplinary-stem-nonstem-2026|Zhu et al. (2026)]]）。
+
 ## 証拠が欠けているところ
 
 この調査の正直な発見は、いくつかの集団がどれほど薄いかということです。これらはそれぞれ、このページの隔たりではなく証拠基盤における本物の隔たりです。
@@ -106,6 +112,7 @@ ai_assist:
 - **第一世代の学生：** 一つの研究が効果ではなく利用の差を報告しています。[[student-ai-inquiry-types-cs2-2026|CS2 の探究研究]]では、継続世代の学生は AI を積極的な[[problem-solving]]の協働者として扱い、第一世代の学生は確認的で検証志向の役割を担い、全体的により少ない問いを立てました。
 - **第一世代の学生：最初の効果推定値であり、それは望ましくない方向に走ります。** [[liu-course-integrated-ai-tutoring-rct-2026|Liu ら（2026）]]のコース統合型[[intelligent-tutoring|AI 家庭教師]]の[[rct|無作為化試験]]は、上の項目が欠いているものを供給します——利用のパターンではなく測られた差別的な効果です。全標本で、最終成績に対する家庭教師アクセスの効果は、第一世代の学生にとって 2.87 点（0.28 SDs）より負の方向で、彼らにとって −5.10 点（−0.50 SDs）を、仲間にとって −2.23 点（−0.22 SDs）を含意します。差別的な効果は完全一致の標本でより大きかった（−3.89 点、−0.35 SDs）し、第一世代の学生は宿題の点とプラットフォームのページ閲覧数もより多く失いました。研究は機構を報告せず、その精度は成果によって変わりますが、方向は隔たりを縮める物語とは反対です。学術的な支援への事前アクセスが最も少なかった学生が、測られた最大の代償を負ったのです。
 - **留学生：** [[international-students-conversational-ai-adaptation|異文化適応の支援]]に関する一つの[[mixed-methods-research|混合手法]]研究（調査 n = 60、インタビュー n = 14）。
+- **留学生：測定された関与のパターンであり、効果の推定値ではありません。** 英国の7つの[[business-education|経営学部]]にわたる 270 名の少数エスニシティの留学生について、報告された[[generative-ai]]の利用は、四つの[[student-engagement|関与]]の流れのすべてと正に関連していました。もっとも強くは主体的な関与（β = 0.429）です。そして利用の意図の最強の予測要因は、それを容易にする条件（β = 0.369）でした（[[bjet-genai-engagement-minority-ethnic-students-2026|Adekoya et al. (2026)]]）。
 - **ギフテッドで高達成の学生：** このコーパスでは集団として事実上研究されていません。
 - **難民、移民、避難民の学習者：** 研究がありません。
 - **性別は上の研究のほとんどで依然として二値として分析されており**、障害のカテゴリは研究間で異なるため、「同じ」集団の研究横断的な比較には限界があります。
@@ -162,3 +169,5 @@ ai_assist:
 - [[international-students-conversational-ai-adaptation]] — The corpus's one international-student study
 - [[liu-course-integrated-ai-tutoring-rct-2026]] — The corpus's first effect estimate for first-generation students: tutor access cost them 0.50 SDs of final grade against 0.22 for their peers (Liu et al. 2026)
 - [[fairness-theatre-early-warning-systems-2026]] — Fairness Theatre: Evaluating Post-Hoc Fairness Interventions in Vendor-Controlled Early Warning Systems
+- [[caeai-chatgpt-interdisciplinary-stem-nonstem-2026]] — ChatGPTは学際的な学習においてSTEMの学生と非STEMの学生に不均等に利益をもたらした
+- [[bjet-genai-engagement-minority-ethnic-students-2026]] — 少数エスニシティの留学生における生成的AIの利用と四つの流れからなる関与

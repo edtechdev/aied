@@ -113,3 +113,4 @@ Un lot concentré d'études de 2026 de l'*International Journal of STEM Educatio
 - [[simulation-assisted-drone-learning-stem-2026]] — Apprentissage avec drones assisté par la simulation et étais co-conçus par l'enseignant et l'IA
 - [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
 - [[ai-supported-instruction-stem-meta-analysis-2026]] — Effet regroupé de l'enseignement STIM soutenu par l'IA sur 35 études, avec les plus grands gains au lycée (Doğan et al. 2026)
+- [[hallstrom-ai-literacy-stem-education-frontiers-2026]] — Synthèse des dix études les plus citées sur la littératie en IA dans l'enseignement STEAM (Hallström et al. 2026)
