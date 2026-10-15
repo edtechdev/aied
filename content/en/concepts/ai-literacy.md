@@ -1,7 +1,7 @@
 ---
 title: AI Literacy
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-10-08T10:20:00-04:00"
+updated: "2026-10-15T08:25:00-04:00"
 type: concept
 foundations: [academic-integrity, ai-education, ai-literacy, educational-development]
 technology: [generative-ai, llm]
@@ -119,6 +119,12 @@ A distinct strand of the knowledge base treats AI literacy not merely as skills 
 - **Valuation, not just verification.** [[obyrne-co-constructing-ai-boundaries-agency-judgment-2026|O'Byrne (2026)]] found that students who only checked output for accuracy, credibility and relevance still accepted conceptually flattened work, while those who also judged nuance, voice and epistemic stance re-authored it — making "when not to delegate judgment" the literacy question.
 
 These critical strands complement the operational and cognitive dimensions of AI literacy: where the latter ask "can the learner use and evaluate AI?", critical AI literacy asks "does the learner understand and challenge the power structures AI embodies?"
+
+### AI literacy in STEM education
+
+The most developed disciplinary evidence base for AI literacy comes from STEM education, and [[hallstrom-ai-literacy-stem-education-frontiers-2026|Hallström, Chiu, Ding, Koretsky and Li (2026)]] synthesize its ten most-cited studies (2022–2026) to show both the baseline and its limits. Across the corpus, AI literacy is defined through six overlapping constructs — knowledge/skills/attitudes (Su & Yang 2024), conceptual-procedural-contextual knowledge (Stolpe & Hallström 2024), know-understand/use-apply/evaluate-create/ethics (Ng et al. 2022), and Long & Magerko's use–communication–evaluation framing (Hornberger et al. 2023) — so the field's "conceptual ambiguity" is a measurement problem: two studies can both assess "AI literacy" without assessing the same construct. Only two of the ten offer complete frameworks. The review's sharpest finding is an asymmetry — the corpus almost entirely measures *students'* literacy while nearly nothing develops *teachers'*, a gap that leaves teacher-facing AI literacy interventions resting on assumption rather than evidence, and one the authors connect to the practical requirement that teachers be AI literate themselves to run such interventions.([[hallstrom-ai-literacy-stem-education-frontiers-2026]])
+
+The chatbot evidence in that corpus cuts against fluency-based training. Ding et al. (2023) found ChatGPT tutoring in university physics raised confidence and knowledge but reinforced a "superhuman and infallible" misconception of AI, concluding AI literacy education is "first and foremost improving students' critical thinking skills in assessing information." Xu et al. (2026) found ChatGPT-supported STEM programming improved confidence and knowledge but left computational thinking and independent thought unchanged — gains in fluency coexisting with no gain in thinking. Both findings mirror the [[trust-calibration]] and [[cognitive-offloading|over-reliance]] concerns elsewhere in this page: a tutor that never contradicts the student can produce confident learners who cannot evaluate. Attitude, not readiness or self-efficacy, turned out to be the strongest determinant of actual AI-tool use among STEM undergraduates (Falebita & Kok 2025), and the review notes STEM disciplinary coverage is skewed toward biology and physics with technology as a subject nearly absent. For [[discipline-specific-aied|discipline-specific]] design, the review's practical warning is that comprehensive competency frameworks (UNESCO, EU/OECD) "often lack connection to empirical research or sufficient theoretical underpinning" and few are classroom-applicable.
 
 ### Whose AI skills count? The instructor–employer framing divide
 
@@ -259,3 +265,4 @@ AI literacy is **double-edged** for overreliance: [[student-dependency-on-ai-lit
 - [[sfailq-six-facet-ai-literacy-questionnaire-2026]] — Six-facet instrument adding responsible-use and self-development facets, scalar-invariant across adolescents, young adults and midlife adults
 - [[faculty-ai-well-being-social-supports-2026]] — Structural equation model of faculty AI well-being, social supports and AI literacy
 - [[bozkurt-3wai-literacy-scale-2026]] — Validated 17-item self-report scale with three distinct AI-literacy factors (Know What/How/Why); Know-How and Know-Why most coupled (HTMT = 0.544)
+- [[hallstrom-ai-literacy-stem-education-frontiers-2026]] — Synthesis of the ten most-cited studies of AI literacy in STEM education (Hallström et al. 2026)

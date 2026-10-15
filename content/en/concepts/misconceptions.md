@@ -1,7 +1,7 @@
 ---
 title: Misconceptions about AI
 created: "2026-08-12T19:08:47-04:00"
-updated: "2026-09-30T16:25:27-04:00"
+updated: "2026-10-15T08:25:00-04:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, teacher-role]
 pedagogy: [metacognition]
@@ -62,6 +62,8 @@ AI misconceptions are not confined to learners — they are pervasive among the 
 - **The general public** absorbs media and vendor narratives about AI's capabilities and risks. Because students learn within this discourse, public myths become the substrate from which student misconceptions grow. Correcting AI misconceptions is therefore an [[ai-literacy]] task aimed at the whole educational ecosystem, not only at learners.
 
 This breadth is why the knowledge base treats misconceptions as a cross-cutting foundational theme rather than a purely student-facing one: the same calibration errors recur across learners, teachers, institutions, and the public, and correcting them requires confronting both individual beliefs and the discourse that feeds them.
+
+Teachers' pedagogical misconceptions are the mirror image of this: not misunderstandings about AI, but evidence-unsupported beliefs about teaching that persist regardless of AI. [[etq-ai-conversational-teacher-training-2026|Miranda and Calvani (2026)]] instrument this with the Effective Teaching Questionnaire, where 50 binary items map onto meta-analytic effect sizes (d ≥ 0.40) so a teacher's answer can be compared against an evidence-aligned benchmark — and their finding is that the misconceptions are deep and specific. In a pilot with 123 Italian educators, disagreement clustered hardest on cognitive learning styles (78% of teachers defended visual/auditory matching), inclusion and group work (68%), and EdTech overload (54%), with average alignment near 50% across planning, cognitive, evaluative, and management dimensions. Two details matter for correction design. First, the misconceptions survive university education and teaching practice — the authors describe an "internalized common sense" that "precedes entry into school" and persists — so they are not knowledge gaps a lecture closes. Second, when the same items were delivered through a conversational AI that validated the teacher's context before re-introducing the evidence, 41% of objections concerned real contextual constraints (class size, special needs, curriculum coverage) rather than the evidence itself, and 5.9% rejected the system as "an algorithmic dogma machine" — the boundary condition where normative framing breeds defensiveness instead of reflection. For [[teacher-ai-competency]] development the implication is that diagnostic-plus-dialogue can surface which beliefs are evidence-based disagreement and which are misconception, a distinction a score alone cannot make.
 
 ### Correcting misconceptions
 
@@ -132,3 +134,4 @@ These refutations are deliberately written in the [[refutation-text]] form so th
 - [[milicevic-socratic-trap-strategic-misconceptions-2026]] — SocraticTrap-CS: fluent, authoritative explanations that are wrong conceptually rather than factually (Miličević et al. 2026)
 - [[humble-prompt-injection-ai-grading-red-team-2026]] — Hidden instructions in a submitted file can raise an AI-graded mark with no visible warning (Humble 2026)
 - [[children-ai-safety-misconceptions-2026]] — Children's AI-safety misconceptions: friendship with a robot misread as a privacy guarantee (Leisten et al. 2026)
+- [[etq-ai-conversational-teacher-training-2026]] — Conversational AI diagnostic for teaching misconceptions with evidence-grounded dialogue (Miranda & Calvani 2026)
