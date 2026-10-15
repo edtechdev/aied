@@ -10,7 +10,7 @@ level: [k 12, higher ed]
 confidence: high
 reviewed_by: [editor]
 translation_of: concepts/stem-education
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-15T08:25:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -113,3 +113,4 @@ Kundi lililojikita wa masudio ya 2026 ya *International Journal of STEM Educatio
 - [[simulation-assisted-drone-learning-stem-2026]] — Kujifunza kwa drone kunasaidiwa na uigaji wenye ngazi za msaada zilizobuniwa na mwalimu-AI
 - [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
 - [[ai-supported-instruction-stem-meta-analysis-2026]] — Athari iliyopangwa pamoja ya mafunzo ya STEM yanayoungwa na AI katika masudio 35, huku faida kubwa zaidi zikiwa katika shule ya sekondari (Doğan et al. 2026)
+- [[hallstrom-ai-literacy-stem-education-frontiers-2026]] — Muhtasari wa masudio kumi yanayonukuliwa zaidi kuhusu ujuzi wa AI katika elimu ya STEM (Hallström et al. 2026)

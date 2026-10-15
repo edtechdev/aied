@@ -7,7 +7,7 @@ assessment: [assessment, educational-measurement, psychometrically-aware-ai]
 confidence: high
 reviewed_by: [editor]
 translation_of: concepts/cognitive-diagnosis
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-15T10:00:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -100,3 +100,4 @@ Utambuzi wa kiakili unaunganisha na [[knowledge-tracing]], [[student-modeling]],
 - [[pivot-generative-video-tutors-stem-2026]] — Kutoka Uzalishaji wa Maudhui hadi Msaada wa Kujifunza: Waelimu wa Video wa Kizalishaji Wanaoelekezwa na Didaktiki kwa Kujifunza kwa STEM
 - [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn: Mwalimu Mwenye Wakala Anayejifunza Mwanafunzi Wake katika Mzunguko wa Kujifunza Pamoja wa Binadamu–AI
 - [[omniedu-open-educational-foundation-models-2026]] — OmniEdu: Mifano ya Msingi ya Wazi ya Kujifunza na Kufundisha
+- [[culturally-embedded-ai-diagnostic-assessment-2026]] — Kufikiria upya tathmini ya utambuzi kupitia AI iliyojumuisha tamaduni kwa kujifunza kunalomaana

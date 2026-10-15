@@ -12,7 +12,7 @@ connected_faqs: [asynchronous-online-courses-ai]
 methods: [ai-ed-evaluation]
 reviewed_by: [editor]
 translation_of: concepts/learning-analytics
-source_updated: "2026-10-07T09:45:00-04:00"
+source_updated: "2026-10-13T11:05:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:

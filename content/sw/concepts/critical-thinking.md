@@ -11,7 +11,7 @@ level: [higher ed]
 confidence: medium
 reviewed_by: [editor]
 translation_of: concepts/critical-thinking
-source_updated: "2026-10-07T15:40:00-04:00"
+source_updated: "2026-10-15T08:25:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -137,3 +137,4 @@ Ufikiri mahususi unakutana na [[scaffolding]] (kubuni msaada wa AI unaohifadhi m
 
 - [[genai-dependence-research-creativity-2026]] — Utegemezi wa GenAI unahusishwa kwa njia chanya na ufikiri mahususi katika wanafunzi 1,157 wa masomo ya juu
 - [[genai-use-critical-thinking-moderation-2026]] — Matumizi ya GenAI hadi ufikiri mahususi kupitia ujuzi wa maoni, na njia ya moja kwa moja tu kwa wanafunzi wenye kutafakari kidogo
+- [[hallstrom-ai-literacy-stem-education-frontiers-2026]] — Muhtasari wa masudio kumi yanayonukuliwa zaidi kuhusu ujuzi wa AI katika elimu ya STEM (Hallström et al. 2026)

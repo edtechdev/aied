@@ -11,7 +11,7 @@ connected_faqs: [incorporating-ai-literacy, ai-literacy-evidence]
 confidence: high
 reviewed_by: [editor]
 translation_of: concepts/higher-ed
-source_updated: "2026-10-01T20:35:10-04:00"
+source_updated: "2026-10-13T11:30:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -134,3 +134,4 @@ Utafiti wa [[educational-development]] unachunguza jinsi waelimishaji wanavyopit
 - [[nlp-student-evaluation-teaching-scoping-review-2026]] — Kutoka Uainishaji wa Hisia hadi Maoni ya Kuchukua Hatua na Yenye Uwajibikaji: Mapitio ya Upeo na Ramani ya Ushahidi ya NLP katika Tathmini ya Wanafunzi ya Ufundishaji, 2015–2026
 - [[sun-student-genai-entanglement-literacy-demands-2026]] — Aina za Msaidizi na Mwezeshaji zinatawala utafiti wa GenAI katika elimu ya juu; aina za mwisho za kugusana zinabaki nadra kwa sababu za taasisi badala ya kiufundi (Sun, Dohn & Rehm 2026)
 - [[students-at-stake-ai-deployment-risks-2026]] — Ramani ya upande wa mwanafunzi ya uwekaji wa AI katika kujiunga, misaada ya kifedha, huduma za wanafunzi na utoaji wa elimu, pamoja na kichujio cha manunuzi cha maswali manne (Student Defense 2026)
+- [[chan-ai-institutionalization-index-global-universities-2026]] — Chan (2026): Kielelezo cha Usanifu wa AI katika vyuo 100 vilivyo na vyeo vya juu; matamshi yanazidi muundo, upanuzi haujitegemei umaarufu

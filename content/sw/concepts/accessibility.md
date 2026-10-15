@@ -10,7 +10,7 @@ level: [special education]
 confidence: high
 reviewed_by: [editor]
 translation_of: concepts/accessibility
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-15T10:00:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -101,3 +101,6 @@ Video yenye manukuu sahihi na nakala iliyowekwa lebo ipasavyo ni *inayopatikana*
 - [[khlaif-assistive-genai-visually-impaired-2026]] — GenAI ya msaada kwa wanafunzi wenye ulemavu wa kuona
 - [[assistive-tech-neurodivergent-higher-ed-review-2026]] — AI ya kizalishaji, uhalisia wa pepe, na zaidi: Mapitio ya upeo ya teknolojia za msaada za kidijitali kwa wanafunzi wenye neurodivergence katika elimu ya juu
 - [[wright-transcription-not-generation-2026]] — Unakili si uzalishaji: marufuku ya AI yanayojumuisha kupita kiasi na zana za msaada zinazozikamata
+- [[chan-ai-institutionalization-index-global-universities-2026]] — Chan (2026): 0% ya vyuo 100 vya daraja la juu havichapishi sera ya ufikiaji wa AI huku 93% vikizindua huduma za AI katika kampasi
+- [[ad4edu-lecture-audio-description-2026]] — AD4EDU: Benchmarking University Lecture Audio Description across Accessibility Standards, Metrics, and Learner Preferences
+- [[airri-machine-resistant-reading-interface-2026]] — AIRRI: Towards a Human-Readable, Machine-Resistant Reading Interface

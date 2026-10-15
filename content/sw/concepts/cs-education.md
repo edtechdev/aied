@@ -10,7 +10,7 @@ level: [higher ed, k 12]
 confidence: high
 reviewed_by: [editor]
 translation_of: concepts/cs-education
-source_updated: "2026-10-02T12:40:11-04:00"
+source_updated: "2026-10-14T14:35:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -195,3 +195,5 @@ Elimu ya CS inaungana na [[computational-thinking]], [[stem-education]], [[autom
 - [[llm-graders-computer-science-exams-2026]] — Wapi Watoa Alama wa LLM Wanafanikiwa na Wanavunjika: Ushahidi kutoka Mitihani Miwili ya Sayansi ya Kompyuta
 - [[student-llm-use-cs-subfields-2026]] — Matumizi ya LLM yalibadilika kutoka 89.6% katika algoriti hadi 15.2% katika uhandisi wa programu katika wanafunzi 211, yakifuata kazi badala ya uwanja mdogo
 - [[educator-guided-llm-pedagogical-agent-2026]] — Maoni ya hatua yaliyoandikwa na waelimishaji kwa ubini wa dhana ya hifadhidata: utambuzi uliofichwa, ufichuzi unaodhibitiwa, 71.1% ya kiwango kinacholengwa katika vipindi 383
+- [[socraticrepair-program-debugging-2026]] — SocraticRepair: Ufundishaji wa Socratic Unaongozwa na Mipango kwa Urekebishaji wa Programu na Kurekebisha Dhana Zisizo Sahihi
+- [[browser-sized-agents-slm-webllm-tutor-2026]] — Mawakala wa Ukubwa wa Kivinjari: Modeli Ndogo za Lugha na WebLLM kwa Elimu ya Upangaji wa Programu Inayosaidiwa na AI Yenye Zana

@@ -12,7 +12,7 @@ level: [higher ed, k 12]
 confidence: high
 reviewed_by: [editor]
 translation_of: concepts/intelligent-tutoring
-source_updated: "2026-10-12T09:45:00-04:00"
+source_updated: "2026-10-14T11:15:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -207,3 +207,4 @@ Ufafanuzi wenye ufanisi unahitaji kubadilika kwa kuendelea: [[zhang-tutormoments
 - [[lyu-data-driven-redesign-tutoring-2026]] — Kutathmini mchakato wa kubuni upya unaoendeshwa na data kwa mifumo ya ufafanuzi wa akili bandia: muda wa juu zaidi wa kazi na ujuzi uliozoelewa, lakini hakuna tofauti ya faida ya kujifunza wakati kipimo cha mazoezi ni chepesi (Lyu na wenzake 2026)
 - [[regulatutor-long-term-personalized-tutoring-2026]] — RegulaTutor: Mfumo Unaotangulia na Nadharia kwa Kujifunza kwa Kibinafsi kwa Muda Mrefu (Li na wenzake 2026)
 - [[alam-goblins-math-platform-2026]] — Utoaji wa hisabati wa AI unaopatanishwa na mwalimu wa wilaya nzima: uaminifu wa ushirikiano wa ~51% na mteremko wa kipimo kutoka 0.11 SD (matatizo 2/kwiki) hadi 0.31 SD (20+/kwiki); mahusiano makubwa ya uchunguzi kwa wanafunzi wenye IEP, EL, na Wahispania
+- [[llm-tutors-process-synthesis-2026]] — Je, Walimu wa LLM Wanafundisha Kwa Kweli? Muhtasari Unaozingatia Mchakato wa Mzunguko wa Ufundishaji

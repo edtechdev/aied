@@ -7,7 +7,7 @@ technology: [educational-nlp, intelligent-tutoring, student-modeling, knowledge-
 pedagogy: [scaffolding, socratic-method]
 reviewed_by: [editor]
 translation_of: concepts/educational-nlp
-source_updated: "2026-10-09T09:25:11-04:00"
+source_updated: "2026-10-15T10:00:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -91,3 +91,5 @@ Mkazo wa mfano ni wa zana hiyo hiyo: mstari wa awamu mbili unanyoosha kikadirio 
 - [[nlp-student-evaluation-teaching-scoping-review-2026]] — Kutoka Uainishaji wa Hisia hadi Maoni Yanaweza Kutumika na Yenye Uwajibikisho: Mapitio ya Upanuzi na Ramani ya Ushahidi ya NLP katika Tathmini ya Wanafunzi ya Ualimu, 2015–2026
 - [[bloom-classifier-ai-assisted-questions-2026]] — Tathmini ya miundo iliyofunzwa awali kwa tathmini ya kielimu ya maswali mapya ya kielimu yanayosaidiwa na AI
 - [[srjudge-knowledge-concept-tagging-2026]] — SRJudge: mstari wa mantiki ya uteuzi kwa kuweka lebo za dhana maarifa za undani maridogo
+- [[nlp-reading-lists-dental-education-2026]] — Natural Language Processing for Aligning Readings with Learning Objectives and Assessing Topic Balance in Dental Education
+- [[hans-handwritten-answer-sheet-parsing-2026]] — HANS: A Handwritten Answer Sheet Dataset for Noisy Hybrid Document Parsing

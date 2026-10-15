@@ -9,7 +9,7 @@ level: [special education]
 confidence: high
 reviewed_by: [editor]
 translation_of: concepts/assistive-technology
-source_updated: "2026-09-30T08:05:25-04:00"
+source_updated: "2026-10-13T11:05:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:

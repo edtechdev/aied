@@ -13,7 +13,7 @@ confidence: high
 connected_resources: [claw-ed, edugems, playlab, teacherserver]
 reviewed_by: [editor]
 translation_of: concepts/teacher-ai-competency
-source_updated: "2026-10-09T08:42:12-04:00"
+source_updated: "2026-10-15T10:00:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -194,3 +194,4 @@ Mazingira ya vyombo yenyewe yamekaguliwa tangu hapo. [[assessing-teachers-ai-lit
 - [[capability-decision-model-teacher-readiness-2026]] — Mfano wa utayari wa mwalimu unaolenga uwezo kwanza unaopangwa, unao na viashiria vya uwezo vinavyotegemea utendaji
 - [[k12-teachers-genai-beliefs-five-countries-2026]] — Utafiti wa kitaifa wa walimu 1,405 wa K-12: utayari unatatabiri imani chanya lakini si wasiwasi
 - [[teachers-ai-belief-profiles-talis-2024-2026]] — Wasifu wanne wa imani za walimu wa TALIS 2024 wanaunganisha mafunzo ya kitaalamu na vikwazo maalum vya wasifu kwa matumizi ya AI
+- [[microlearning-ai-modules-vocational-teacher-education-2026]] — Kubuni Moduli za Microlearning kuhusu AI kwa Walimu wa Chuo katika Elimu ya Walimu ya Mafao: Utafiti wa Ubini unaotegemea Utafiti

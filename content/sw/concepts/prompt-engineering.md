@@ -12,7 +12,7 @@ confidence: high
 connected_resources: [edugems, matt-pocock-skills, pedagogical-promptbook, writing-rhetoric-studies-in-the-loop]
 reviewed_by: [editor]
 translation_of: concepts/prompt-engineering
-source_updated: "2026-10-02T08:08:45-04:00"
+source_updated: "2026-10-14T11:15:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -121,3 +121,4 @@ Uhandisi wa ilani unaungana na [[scaffolding]] — ilani zilizobuniwa vizuri zin
 - [[teacher-ai-literacy-prompt-feedback-quality-2026]] — Uhandisi wa ilani na uteuzi wa mfano kama vigezo vya ubora wa maoni ya AI (Jacobsen et al. 2026)
 - [[llm-feedback-focus-adaptivity-student-writing-2026]] — Kutathmini Lengo la Maoni na Kubadilika kwa Kielimu katika Maoni ya LLM juu ya Uandishi wa Mwanafunzi
 - [[middle-school-genai-steam-interactions-2026]] — Makundi ya STEAM ya shule ya kati yalinakili maelekezo ya mkufunzi kama ilivyo katika ilani 47.1%
+- [[ecd-prompts-automated-essay-scoring-2026]] — Kutumia Ubini wa Kielekezo cha Ushahidi (ECD) Kuongoza Uhandisi wa Ilani katika Upimaji: Mfano na Alama za Insha za Kiotomatiki

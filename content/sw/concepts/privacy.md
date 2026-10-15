@@ -11,7 +11,7 @@ confidence: high
 institutions: [educational-policy-ai, governance, regulation]
 reviewed_by: [editor]
 translation_of: concepts/privacy
-source_updated: "2026-10-01T20:35:10-04:00"
+source_updated: "2026-10-14T14:35:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:

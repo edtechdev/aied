@@ -10,7 +10,7 @@ confidence: high
 discipline: [cs education, math education, writing education]
 reviewed_by: [editor]
 translation_of: concepts/creativity
-source_updated: "2026-10-13T04:43:42-04:00"
+source_updated: "2026-10-15T10:00:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -116,3 +116,4 @@ Ubunifu unaunganisha na [[critical-thinking]] na kujifunza [[constructivist]]. U
 - [[genai-dependence-research-creativity-2026]] — Utegemezi wa GenAI wa kazi dhidi ya wa kuwepo na ubunifu wa utafiti katika wanafunzi 1,157 wa chuo kikuu cha juu
 - [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] — Ubunifu uliolingana, ushirikiano tofauti wa neva: watoto dhidi ya watu wazima wakizungumza na ChatGPT katika chombo cha fMRI
 - [[ai-dependence-creativity-motivation-literacy-2026]] — Utegemezi wa AI na motisha nne za matumizi yanahusiana kwa njia tofauti na ubunifu ulioripotiwa na mwenyewe (Hou na wenzake 2026)
+- [[ai-exemplar-attribution-creativity-education-2026]] — Kuunga mkono elimu ya ubunifu katika enzi ya AI: jukumu la chanzo linalotambuliwa la kielelezo
