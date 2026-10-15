@@ -11,7 +11,7 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation]
 translation_of: concepts/hallucination-risk
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-11T09:05:00-04:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -54,6 +54,8 @@ ai_assist:
 
 **緩和のアプローチ**には、AIが[[teacher-role|教員]]の判断を置き換えるのではなく支える[[human-in-the-loop-ai|人間イン・ザ・ループ]]の設計、証拠の質に基づいて確信度を較正する証拠を意識したアーキテクチャ(MathCogが提唱)、そしてLLMの出力を検証済みの情報源に制約する[[rag|RAG]]に基づく接地があります。[[cognitive-offloading|過度の依存]]の概念は密接に関連しています——ハルシネーションは、利用者がAIの出力を無批判に信頼するときに最も危険です。[[sidorkin-ai-generated-course-readings-2026|Sidorkin(2026)]]は、緩和の積み重ねが十分に覆わない失敗様式を加えます。過度に具体的な制度的な主張であり、記録されたページの約1.03%が「Sacramento State」のような名前のあるキャンパスと、改訂された留任・昇任の規則やCSU Executive Ordersに関する断定的な政策動詞を結びつけ、そのいずれもテキストからは検証できません。具体性がこれを高価にするものです。でっち上げの局所的な細部は、読者のもっともらしさのチェックを生き延びるほど正確に見えるからです。そして研究が提案する処方箋は、技術的ではなく手続き的なものです。生成を教員の審査下での草案作成として扱い、次に情報源を検索拡張の設計へと精選することです。
 
+**標識を付けられた信頼性の低さは、報告される依存を上げるのではなく下げた。** 546人の参加者が、でっち上げられた情報を含むと標識を付けられたものと、検証済みで正確だと標識を付けられたものと同じGAIの対話を読んだとき、でっち上げの標識は、[[trust|信頼]]と知覚された統制可能性を下げ、認知的 dissonance と不快感を高め、そして*より低い*依存のスコア(M = 2.935 対 3.254)を伴って生じました([[frontiers-gai-hallucination-dependence-2026|Liu et al. (2026)]])。この結果は、このページの過度の依存の論理に条件を付けます。ある出力がでっち上げかもしれないと見ることは、それに倚りかかり続けることと同じではないのです。
+
 ## 関連概念
 
 - [[cognitive-offloading]]
@@ -85,3 +87,4 @@ ai_assist:
 - [[humble-prompt-injection-ai-grading-red-team-2026]] — 隠されたプロンプト・インジェクションがAI採点の評定を検出されずに上げ、検出された攻撃は報告されない(Humble 2026)
 
 - [[authentic-assessments-generative-ai-pilot-2026]] — 生成AIを用いた真正な評価の設計:高等教育における評価Authentifireのパイロット研究
+- [[frontiers-gai-hallucination-dependence-2026]] — GAIの対話をでっち上げとして標識づけることは、信頼と依存を共に下げた
