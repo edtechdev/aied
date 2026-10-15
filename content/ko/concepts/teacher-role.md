@@ -12,7 +12,7 @@ connected_faqs: [top-10-findings-ai-education-instructors, ai-save-instructor-ti
 
 confidence: high
 translation_of: concepts/teacher-role
-source_updated: "2026-10-04T10:52:53-04:00"
+source_updated: "2026-10-15T08:25:00-04:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -223,3 +223,4 @@ AI와 함께하는 학문적 진실성은 단속의 문제가 아니라 *설계*
 - [[yalcin-genai-programming-education-systematic-review-2026]] — 프로그래밍 교육에서의 GenAI: 강사 역할이 가장 덜 연구된 체계적 검토
 - [[heutagogical-teaching-ai-enhanced-education-2026]] — 정보 제공자에서 학습 설계자로: AI가 강화된 교육에서의 휴다고지 교수 실천
 - [[falhs-teacher-expertise-reflection-2025]] — 숙련 수준이 선호와 성찰 요구를 어떻게 바꾸는가: 교사 역량 강화를 위한 AI 성찰 시스템을 향하여 (Falhs et al. 2025)
+- [[etq-ai-conversational-teacher-training-2026]] — 증거에 기반한 대화로 교수 오해를 다루는 대화형 AI 진단 도구(Miranda & Calvani 2026)

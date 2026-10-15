@@ -11,7 +11,7 @@ discipline: [stem education, cs education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/cs-education
-source_updated: "2026-10-02T12:40:11-04:00"
+source_updated: "2026-10-14T14:35:00-04:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -41,6 +41,8 @@ ai_assist:
 - **코드 생성과 자동완성:** [[code-review-genai-cs1|CS1 코드 리뷰]], [[dura-llm-cs2|CS2를 위한 DURA]], [[prompt-problems-nl-programming-mistakes|자연어 프로그래밍 실수]]는 학생들이 코드 생성을 위해 AI를 어떻게 사용하는지, 그리고 그것으로 무엇을 배우는지를 살핍니다.
 - **초보자를 위한 대화형 에이전트([[meta-analysis-systematic-review|범위 검토]]):** [[conversational-agents-novice-programmers-scoping-2025|Barzanji & Loitsch (2025)]]는 초보 프로그래머를 위한 [[conversational-ai|대화형 에이전트]]에 관한 연구 23편(2019년–2024년 6월)을 조망하며, 규칙 기반 챗봇에서 [[llm]] 및 [[rag]] 기반 에이전트([[hallucination-risk|환각]]을 줄이는 [[rag|검색 증강 생성]] 포함)로의 전환과 개인화된 튜터링 지원(InfoBot, ProbSol-Bot, Lint Bot, Profe Alex 등)을 기록합니다. 주목할 점은 23편 중 4편만이 설계를 [[learning-theories|학습 이론]]에 기대고 있고, 23개의 시제품 중 17개가 영어 전용이라는 점입니다. 대부분의 연구가 영어권 밖에서 비롯되었음에도 말입니다. 이는 입문 프로그래밍을 위한 미래의 대화형 에이전트 설계에서 취약한 [[pedagogy|교수법적]] 기반과 포용성의 격차를 지적합니다.
 - **디버깅 지원:** [[debugtracker-classroom-debugging|디버깅 도구]], [[chat-debugging-human-ai-collaboration-circuits|인간-AI 디버깅 협력]], [[golrang-propact-pair-programming-2026|짝 프로그래밍 모델링]]은 오류 식별과 수리를 위해 AI를 활용합니다.
+- **브라우저에 상주하는 도구 증강 튜터가 이 분야가 수렴하는 구조이다.** 도구 증강 SLM 설계는 작게 미세 조정된 계획자(1B–7B)와 네 가지 결정적 도구 — 코드 실행기, 테스트 실행기, 문서 검색기, [[knowledge-tracing|지식 추적]] 모듈 — 를 네 단계 위임 정책(도구 먼저, 기기 내 SLM, 동의 기반 클라우드 LLM, 교수자) 뒤에 짝지어, 교수법적 통제를 모형에서 감사 가능한 정책으로 이동시킵니다. 예비 규모의 ~150M 완성 모형은 HumanEval pass@1 10.97%에 도달하여 여러 100M–150M 코드 기준선을 웃돕니다([[browser-sized-agents-slm-webllm-tutor-2026|Suvernev et al. (2026)]]).
+- **작게 미세 조정된 튜터가 더 큰 범용 모형을 능가할 수 있다.** 1,213개의 합성 튜터링 대화로 Qwen2.5-Coder-7B-Instruct를 미세 조정하자, 조기 해답 공개가 튜터 발화의 7.43%에서 1.88%로 줄고, 단계적 비계와 디버깅 질문의 질은 GPT-4o를 웃돌았지만, 신뢰할 만한 교수법적 계획 생성은 여전히 열린 문제로 남았습니다([[socraticrepair-program-debugging-2026|Kopytskyi et al. (2026)]]).
 - **자동화된 평가:** [[automated-grading-linux-bash-examinations-large-language-models|Linux Bash 채점]], [[llm-automated-grading-programming-comparison-2026|18개 모델 대규모 채점 비교]], [[llm-intervention-design-cs-review|LLM 개입 검토]]는 자동화된 코드 평가를 검증합니다. 그 워크플로의 보안은 별개의 문제입니다. [[humble-prompt-injection-ai-grading-red-team-2026|Humble (2026)]]는 일상적인 AI 채점 과제를 레드팀 테스트하여 제출된 파일 속에 숨겨진 지시가 가시적인 경고 없이 불합격 에세이의 성적을 올린다는 사실을 발견했습니다. 한 전략으로는 9회 중 9회, 다른 전략으로는 18회 중 17회였습니다. 이는 채점기의 견고함이 정확성과 나란히 [[assessment-validity]] 점검표에 올라야 함을 보여주는 증거입니다.
 - **한 문장짜리 채점기 프롬프트도 LLM을 무너뜨릴 수 있고, 미세조정이 그것을 고칩니다.** [[llm-graders-computer-science-exams-2026|Habibullah et al. (2026)]]는 실용 컴퓨터 비전 시험(이중 채점 학생 570명)을 171개 구성으로, 기계학습 시험(학생 1,038명)을 162개 추가 구성으로 채점했습니다. 짧은 "엄격한 채점자" 서문이 17개 오픈 웨이트 모델 중 14개를 채점 대역 밖으로 밀어냈고(MAE ≥ 8), 세 모델은 채점을 완전히 중단했습니다. 피해는 두 개의 감점 정책 문장에서 비롯되었으며, 그 방향은 두 번째 시험으로 이전되지 않았습니다(일곱 모델은 개선). 약 3,900건의 모아진 채점 예시에 대한 하나의 LoRA 어댑터가 다섯 개의 소형 오픈 모델을 인간 채점자와 대등한 수준으로 끌어올렸습니다.
 - **AI가 생성한 학습 매체:** [[ai-generated-traces-novice-programmers|생성된 애니메이션 추적]]은 AI가 생성한 시각화가 즉각적인 학습에는 도움이 될 수 있지만 개인화되어야 함을 보여줍니다. 중간 수준의 참여를 보인 학생들은 전문성 역전 효과와 일치하는 수행 저하를 경험했습니다.
@@ -198,3 +200,5 @@ ai_assist:
 - [[llm-graders-computer-science-exams-2026]] — LLM 채점자가 성공하고 무너지는 지점: 두 개의 컴퓨터 과학 시험에서의 증거
 - [[student-llm-use-cs-subfields-2026]] — LLM 수용이 알고리즘에서 89.6%에서 소프트웨어 공학에서 15.2%까지 걸쳐 211명 학생에게 나타났으며, 분야가 아니라 과제를 추적했다
 - [[educator-guided-llm-pedagogical-agent-2026]] — 개념적 데이터베이스 설계를 위한 교육자 저술 단계화 피드백: 숨겨진 진단, 통제된 공개, 383개 에피소드에 걸친 71.1% 목표 수준
+- [[socraticrepair-program-debugging-2026]] — SocraticRepair: 프로그램 디버깅과 오개념 수리를 위한 계획 주도 소크라테스식 튜터링
+- [[browser-sized-agents-slm-webllm-tutor-2026]] — Browser-Sized Agents: 도구 증강 AI 보조 프로그래밍 교육을 위한 소형 언어 모형과 WebLLM

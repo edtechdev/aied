@@ -10,7 +10,7 @@ discipline: [cs education, math education, physics education]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/stem-education
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-15T08:25:00-04:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -115,3 +115,4 @@ STEM의 구조화된 지식 표상, 검증 가능한 답, 컴퓨터적 사고와
 - [[simulation-assisted-drone-learning-stem-2026]] — 교사-AI 공동 설계 비계를 통한 시뮬레이션 지원 드론 학습
 - [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
 - [[ai-supported-instruction-stem-meta-analysis-2026]] — 35개 연구에 걸친 AI 지원 STEM 교수의 모아진 효과, 고등학교에서 가장 큰 향상(Doğan et al. 2026)
+- [[hallstrom-ai-literacy-stem-education-frontiers-2026]] — STEM 교육에서 AI 리터러시에 관한 가장 많이 인용된 열 편의 연구 종합(Hallström et al. 2026)

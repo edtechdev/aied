@@ -11,7 +11,7 @@ level: [higher ed]
 confidence: medium
 reviewed_by: [editor]
 translation_of: concepts/critical-thinking
-source_updated: "2026-10-07T15:40:00-04:00"
+source_updated: "2026-10-15T08:25:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -130,3 +130,4 @@ Eleştirel düşünme; bilişsel talebi ayakta tutan YZ desteği tasarlamakla [[
 
 - [[genai-dependence-research-creativity-2026]] — 1.157 lisansüstü öğrencide eleştirel düşünmeyle pozitif biçimde ilişkili üretken YZ bağımlılığı
 - [[genai-use-critical-thinking-moderation-2026]] — Geri bildirim okuryazarlığı yoluyla üretken YZ kullanımından eleştirel düşünmeye; yalnızca daha az yansıtıcı öğrenciler için doğrudan bir yol
+- [[hallstrom-ai-literacy-stem-education-frontiers-2026]] — STEM eğitiminde YZ okuryazarlığına ilişkin en çok atıflanan on çalışmanın sentezi (Hallström ve ark. 2026)

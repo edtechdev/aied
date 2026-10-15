@@ -12,7 +12,7 @@ confidence: high
 reviewed_by: [editor]
 connected_resources: [process-feedback]
 translation_of: concepts/self-regulated-learning
-source_updated: "2026-10-07T14:30:00-04:00"
+source_updated: "2026-10-15T10:00:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -131,6 +131,8 @@ Devretmeden önce sınıflandırın: [[scan-framework-task-assignment-generative
 - **Dış destek, öğrenenin kendi üstbilişsel yargısını atlatabilir.** [[iqbal-human-genai-support-essay-revision-2026|Iqbal ve ark. (2026)]], 87 EFL öğrencisinin bir [[generative-ai|üretken YZ]] (ChatGPT 4.0), insan uzman veya hiçbir destek olmaksızın bir makaleyi gözden geçirmesini izledi. Destek koşulu, öğrencinin seçtiği gözden geçirme stratejisinin açık ara en güçlü ilişkili değişkeniydi (Cramér’in V’si = 0,668), önceki yazma görevinden kalan etkinin (V = 0,333) oldukça önündeydi; üstbilişsel yargı doğruluğu (p = 0,172), yazma becerisi (p = 0,261) ve [[motivation]] (p = 0,683) ise ilişkisizdi. Üstbilişsel yargı, yalnızca hiç destek bulunmadığında stratejiyi izledi (permütasyon testi p = 0,0460). Üretken YZ desteği alan öğrenciler en çok kazananlar oldu (yardım isteme azalan strateji altında ortalama yaklaşık 4 puan, aynı stratejinin insan uzman desteği altında −0,5 puana karşılık); ancak hiçbir gözden geçirme stratejisi puan değişimiyle ilişkili değildi (H(3) = 3,895, p = 0,273), dolayısıyla kazanımlar daha iyi öz düzenlemeden değil araçtan geldi. Yazarların yaklaşımı, üretken YZ’nin doğrudan yardım sağlamak yerine gözden geçirme stratejisi üzerine yansıtmayı teşvik etmesi gerektiğidir.
 - **Yansıtıcı kullanım bilgi kazanımı değil eleştirel düşünmeyi izler.** [[melanou-genai-learning-dynamics-longitudinal-2026|Melanou ve ark. (2026)]], işletme bilişimi öğrencilerinin üç paralel sınıfını (N = 87) dokuz haftalık bir ders boyunca izledi; her grupta bilgi yükseldi (F(1, 50) = 29,87, p < 0,001, η²p = 0,374) ve YZ avantajı, Zaman × Grup etkileşimi ve Matthew etkisi yoktu (F(1, 48) = 2,46, p = 0,124; BF01 = 8,70). Yansıtıcı kullanım (benimsemeden önce kaynakları denetleme ve YZ çıktısını doğrulama) YZ koşulunda belirgin biçimde daha yüksekti (3,72 / 2,82; F(1, 40) = 20,21, p < 0,001) ve eleştirel düşünmeyi öngördü (β = 0,43, p < 0,001) ama bilgi kazanımını öngörmedi; bilgi kazanımını ise alana ilişkin bilişsel yük öngördü (β = 0,51, p = 0,001). Pratik okuma şudur: YZ erişimi tek başına bir müdahale değildir ve üstbilişsel getirisi, test puanlarında görünmeden önce akıl yürütme kalitesinde ortaya çıkar.
 
+- **SRL kazanımlarını YZ tek başına değil, yapı yönlendirir.** Zimmerman’ın aşamalarını, YZ’nin [[scaffolding|üstbilişsel iskeleleme]] olarak kullanıldığı proje tabanlı hibrit öğretime eşlemek, geleneksel öğretime karşı 0,72 N-Gain üretmiştir (t = 8,47, p < 0,001; [[ai-project-hybrid-learning-self-regulated-2026|Priyambudi ve ark. (2026)]]); onlar YZ’nin öz düzenlemeyi yalnızca görev yapısı içinde güçlendirdiğini — yapılandırılmamış kullanımın metabilişsel tembellik riski taşıdığını — savunur.
+
 ## LLM Aracılı SRL: İskele, Kısa Yol mu, Eş Ortak mı?
 
 Learning Letters çalışmalarından (2026) oluşan bir küme temel bir gerilimde birleşir: [[generative-ai|üretken YZ]], tasarıma ve öğrenenlerin kullanımını nasıl düzenlediğine bağlı olarak öz düzenlemeyi iskeleyleyebilir, ona kısa devre yaptırabilir ya da ona eş ortak olabilir. Kanıtlar, belirleyici değişken olarak aracın değil SRL’nin kendisini gösterir.
@@ -221,3 +223,4 @@ Hangi desteğin söz konusu olduğu, ilişkiyi taşıyan aracıyı belirler: 3.0
 - [[genai-learning-procrastination-planned-behavior-2026]] — Üretken YZ destekli öğrenmede erteleme: kaygının güçlendirdiği bir niyet–davranış boşluğu
 - [[genai-srl-l2-writing-scale-2026]] — L2 yazma için çevresel düzenlemenin kendi boyutu olarak yer aldığı, 12 maddelik karınca kolonisi iyileştirmeli kısa biçimli doğrulanmış altı boyutlu bir Üretken YZ–SRL ölçeği
 - [[borchers-srl-language-generalization-2025]] — Large Language Models Generalize SRL Prediction to New Languages Within But Not Between Domains (Borchers ve ark. 2025)
+- [[ai-project-hybrid-learning-self-regulated-2026]] — Öğrencilerin Öz Düzenlemeli Öğrenmesini Artırmak için Yapay Zeka Kullanan Proje Tabanlı Hibrit Bir Öğrenme Modeli

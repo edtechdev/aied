@@ -10,7 +10,7 @@ ethics: [accessibility, assistive-technology, equity-in-ai-education, inclusive-
 level: [special education]
 confidence: high
 translation_of: concepts/accessibility
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-15T10:00:00-04:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -46,12 +46,16 @@ ai_assist:
 **형식 접근성: 자막, 필사록, 텍스트.** 고정된 일시 정지를 둔 **[[adhd-video-segmentation-computing-education|AI로 구간을 나눈 교수 영상]]**이 ADHD 학습자와 비ADHD 학습자 사이의 성과 격차를 없앴습니다. 모두에게 혜택을 주는 촉매로서의 접근성입니다. **[[text-simplification-its|MuTSE]]**는 [[llm]] 기반 [[intelligent-tutoring|텍스트 간소화]]를 평가하여 각 학습자의 읽기 수준에 콘텐츠 복잡성을 맞춥니다. 이는 [[human-in-the-loop-ai|인간 참여형]] 접근성 층위입니다. **[[llm-question-generation-deaf-hard-of-hearing-2026|Chen et al.]]**는 청각장애인(Hard of Hearing) 학습자를 위한 LLM [[automated-question-generation|문항 생성]]을 만들며, 텍스트 기반 AI 프롬프트와 수화 기반 제1언어 사이의 불일치에 정면으로 맞섭니다.
 
 **감각적 접근: 비시각 및 촉각 출력.** **[[kutti-ai-voice-first-learning-companion|Kutti AI]]**는 시각 장애 아동에게 말하는 대화를 주된 양식으로 삼아 시각 의존을 제거합니다. **[[tactile-statistical-graphs-accessibility|촉각 3D 프린팅 그래프]]**는 시각적 통계 데이터를 시각장애·저시력 학생을 위해 만질 수 있는 출력으로 바꿉니다. **[[pepper-robot-sign-language-lis-2025|수화 로봇]]**은 [[educational-robotics]]을 청각장애 학습자를 위한 의사소통 접근성으로 확장합니다.
+**영화용으로 작성된 오디오 해설은 강의 녹화에 그대로 적용되지 않는다.** 슬라이드 기반 강의는 도표, 수식, 그리고 가리키는 제스처를 참조하고, 그 사이의 멈춤은 중앙값 0.5초에 불과합니다. 그래서 [[ad4edu-lecture-audio-description-2026|Psychias & Gao (2026)]]는 강의에 특화된 벤치마크와 규칙으로 진단 가능한 메트릭을 구축했으며, 기계 판단자(machine-judge)가 정렬한 쌍에 대한 사후 훈련은 준수율을 고르게 개선하지 못했습니다.
+
 
 **시각 장애 학습자를 위한 [[generative-ai|생성형 AI]].** **[[khlaif-assistive-genai-visually-impaired-2026|Khlaif et al. (2026)]]**는 팔레스타인의 세 대학에 걸친 저시력 [[higher-ed|학부생]] 21명을 대상으로 한 [[qualitative-research|질적]] 사례 연구입니다. 생성형 AI가 개인의 학습 프로필에 맞춰 속도, 콘텐츠, 전달 방식을 조정하고, 복잡한 학술 텍스트를 간소화하면서 콘텐츠를 여러 양식(텍스트, 음성, 시각)으로 변환하여 이전에는 쓸 수 없던 자료를 쓸 수 있게 만든다는 것을 발견했습니다. 학습자들은 즉시성을 접근성의 기본 요건이자 편의가 아니라 기반으로 규정했습니다. 그리고 상호 의존적인 여섯 기술적 속성, 즉 상호작용성, 사용자 친화성, 경제적 부담 가능성, 멀티모달성, 통합, 확장성이 [[global-south|저자원 맥락]]에서 생성형 AI가 진정으로 접근 가능한지를 결정했습니다. 이때 [[usability-research|사용성]], 경제적 부담 가능성, 접근성은 서로 분리된 설계 고려사항이 아니라 상호 강화하는 관계였습니다.
 
 **장애를 지닌 학생들을 위한 정책과 수용 조치.** **[[shin-ai-policies-sld-2026|Shin et al.]]**는 미국 AI 정책 문서를 분석하여 특정 학습장애(SLD)를 지닌 학생들에 대한 지침의 공백을 드러내고, [[assistive-technology|Assistive Technology]] Act와 IDEA에 기댄 수용 조치와 [[educational-policy-ai|정책]] 권고를 제안합니다. **[[zhang-ai-students-disabilities-meta-analysis-2024|Zhang et al.]]**는 장애를 지닌 학생들을 위한 AI 기반 개입에 관한 연구 29편을 메타분석하여, [[learning-gains|학습 성과]]에 대한 중간 크기의 긍정적 효과(g = 0.588)를 발견했습니다. 그리고 AI는 접근성을 보장하는 데 그쳐서는 안 되며, [[agency|주체적]] 참여를 가능하게 해야 한다고 주장합니다.
 
 **과도하게 포괄적인 AI 금지와 보조적 전사.** **[[wright-transcription-not-generation-2026|Wright (2026)]]**는 "AI 사용"에 대한 일률적 금지가 과도하게 포괄적이라고 주장합니다. 이는 음성-텍스트 전사와 OCR을 생성적 초안 작성과 구별하지 못하기 때문입니다. 인식 기술은 학생이 이미 직접 작성한 콘텐츠의 형식을 변환하는 것이지 새로운 콘텐츠를 만들어 내는 것이 아닙니다. 그런데도 플랫폼 정체성을 중심으로 쓰인 정책은 이 둘을 똑같이 포착합니다. 정교한 운동 조절, 필적의 가독성, 타자 정확성에 영향을 미치는 상태(자폐 스펙트럼 상태, 실행기능장애, 뇌성마비, 반복성 긴장 장애를 포함함)를 지닌 학생들은 독립형 음성-텍스트 변환과 OCR에 의존해 왔으며, 보고에 따르면 여러 독립형 음성-텍스트 변환 제품이 단종되거나 성능이 저하되어, AI 기반 전사가 기능적 공백을 메우게 되었습니다. 이러한 대체를 부정행위로 다루는 것은 영국 평등법 2010의 합리적 조정 의무, 예방적 공공부문 평등 의무, 미국 장애인법, 호주 장애차별금지법 1992에 따른 공정성 우려를 낳습니다. 다만 이 논문은 이러한 성격 규정이 법정에서 시험된 바 있다고 주장하지는 않습니다. 이 논문은 장애, 보조 기술, AI 부정행위 정책의 교차점이 충분히 탐구되지 않았으며, 이러한 대체의 규모가 측정된 바 없고, 또 같은 부정확성이 차별적 오탐 위험을 낳는다고 지적합니다. 탐지기가 비원어민 영어 작가의 낮은 복잡도(perplexity) 텍스트를 기계가 쓴 것으로 읽어 내기 때문입니다. 이 과도한 포괄성이 만들어 내는 법적 노출은 [[legal-issues-and-risks]]에 정리되어 있습니다.
+**기계 저항은 가독성 대가를 수반한다.** 줄무늬 오버레이는 추출을 가장 크게 저하시켰고(문자 오류 +35.9%, 단어 오류 +38.3%), 그러나 타이포그래피와 디자인 전문가 네 명은 수직 줄무늬는 읽을 수 있다고 판단한 반면, 대각선 줄무늬는 글자 형태를 파괴하고 읽을 수 없다고 판단했으며, 극단적인 불투명도 변화는 인간의 가독성도 해치는 강도에서만 도움이 되었습니다([[airri-machine-resistant-reading-interface-2026|Salaun et al. (2026)]]).
+
 
 **난독증을 위한 AI: 탐지, 지원, 그리고 [[personalized-learning|개인화 학습]].** 2026년의 학제간 [[meta-analysis-systematic-review|체계적 문헌고찰]](Dabaghi, D'Urso & Sciarrone, PRISMA 기반, 2018-2024, n=72)은 AI가 난독증을 지닌 학생을 탐지, 보조 지원, 개인화 학습에 걸쳐 지원하고 있다는 것을 발견합니다. 그러나 이 갈래들은 통합되지 않고 나란히 진화하고 있으며, 통합된 교육 이론보다는 기술적 기회에 더 많이 이끌리고 있습니다. ML 기반 학습 지원 도구는 다섯 영역(특정 응용, 참여, 개인화, 추천, 일반적 지원)에 걸치지만, 기술적 성과와 분류 정확도를 강조하면서 생태학적 타당성과 실제 교실에서의 배치를 간과합니다. 탐지 연구(EEG, 시선 추적, ML 모델)는 조기 개입을 위한 진단적 가능성을 보여 주지만, 흔히 특수 장비와 통제된 환경을 요구하여 일반적인 학교 환경에서의 확장성과 접근성을 제한합니다. 열린 과제로는 실험적 검증의 제한, 확장성, 민감한 학생 데이터와 관련된 [[ethics]]/[[privacy]] 우려, [[teacher-role|교사]] 지원과 훈련의 제한, 그리고 언어·문화적 장벽(대부분의 연구가 영어권 인구를 대상으로 함)이 있어, 접근성은 기술적으로 입증되는 데 그치지 않고 검증되고 확장 가능하며 윤리적으로 뿌리내려야 함을 분명히 합니다.
 
@@ -65,6 +69,7 @@ ai_assist:
 - **AI를 써서 접근성을 대규모로 자동화하라.** AI는 자막을 생성하고, 텍스트를 간소화하고, 촉각/음성 대안을 만들어 내고, 제시 방식을 적응시킬 수 있습니다. 그러나 산출 품질은 인간 참여형 점검으로 평가하십시오.
 - **접근성을 필요하지만 충분하지 않은 것으로 다루어라.** 접근 가능한 도구가 저절로 포용적이거나 장애에 정의로운 도구가 되는 것은 아닙니다. 접근성을 [[inclusive-learning]] 설계와 [[special-education]] 지원과 짝지으십시오.
 - **수용 조치를 법과 정책에 뿌리내리게 하라.** AI 도구를 설계하거나 조달할 때 기준(WCAG)과 법규(Assistive Technology Act, IDEA)를 참조하십시오.
+- **AI 도입은 제도 수준에서 AI 접근성 정책을 앞질러 가고 있다.** [[chan-ai-institutionalization-index-global-universities-2026|Chan (2026)]]는 Times Higher Education 2026 순위에 든 100개 대학 전체를 코딩하여, AI 기반 캠퍼스 서비스(등록, 주거, IT를 위한 챗봇)를 93%가 도입하면서도 독립적인 AI 접근성 정책을 공표한 대학은 0%임을 발견했습니다. 저자의 관대한 해석은 접근성 의무가 일반적인 장애 서비스 정책 안에 포함되어 있다는 것이지만, 측정된 바로는 AI 도구에 대한 요구 사항이 공적 제도 기록 어디에도 나타나지 않습니다. 교수와 행정의 AI 도구가 장애를 지닌 학생에게 접근 가능해야 한다는 짧은 제도 성명 하나가 측정된 전체 분야보다 앞서 있을 것입니다.
 
 - **[[physics-education|물리]] 영상의 수학 접근 가능 필사(2026):** Gemini(음성 + 초당 1프레임 영상 샘플링)와 LuaLaTeX를 쓰는 AI 작업 흐름은 교수용 물리 영상을 PDF/UA-2와 ISO 32005을 만족하는 수학 접근 가능 PDF로 컴파일하여, 접근성 검증을 일상적으로 통과하게 합니다. 이는 수식이 많은 영상 콘텐츠를 시각장애·저시력 학생에게 스크린리더로 읽히게 만드는 실천적이고 무료인 길입니다([[gemini-lualatex-physics-video-transcription-2026]]).
 
@@ -88,6 +93,7 @@ ai_assist:
 - [[legal-issues-and-risks]] — 과도하게 넓은 규칙, 결함 있는 증거, 합리적 조정을 아우르는 상위 페이지
 - [[arts-design-and-media-education]]
 ## 연결된 문서
+- [[chan-ai-institutionalization-index-global-universities-2026]] — Chan (2026): 100개 최상위 대학 중 0%가 AI 접근성 정책을 공표하는 반면 93%는 AI 캠퍼스 서비스를 도입
 - [[shin-ai-policies-sld-2026]] — 특정 학습장애를 지닌 학생들을 위한 AI 정책과 수용 조치
 - [[zhang-ai-students-disabilities-meta-analysis-2024]] — 장애를 지닌 학생들을 위한 AI 개입의 메타분석
 - [[adhd-video-segmentation-computing-education]] — 고정된 일시 정지를 둔 AI로 구간을 나눈 영상
@@ -101,3 +107,5 @@ ai_assist:
 - [[khlaif-assistive-genai-visually-impaired-2026]] — 시각 장애 학습자를 위한 보조적 생성형 AI
 - [[assistive-tech-neurodivergent-higher-ed-review-2026]] — 생성형 AI, 가상 현실, 그리고 그 너머: 고등 교육의 신경다양 학생을 위한 디지털 보조 기술에 관한 범위 검토
 - [[wright-transcription-not-generation-2026]] — Transcription is not generation: 과도하게 포괄적인 AI 금지와 그것이 포착하는 보조 도구들
+- [[ad4edu-lecture-audio-description-2026]] — AD4EDU: 접근성 기준, 메트릭, 학습자 선호에 걸친 대학 강의 오디오 해설의 벤치마킹
+- [[airri-machine-resistant-reading-interface-2026]] — AIRRI: 인간이 읽을 수 있고 기계에 저항하는 읽기 인터페이스를 향하여

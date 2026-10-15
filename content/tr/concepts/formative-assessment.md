@@ -11,7 +11,7 @@ connected_resources: [snorkl, ai-infused-assignment-playbook]
 confidence: high
 reviewed_by: [editor]
 translation_of: concepts/formative-assessment
-source_updated: "2026-10-04T05:46:16-04:00"
+source_updated: "2026-10-15T08:25:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -200,4 +200,5 @@ Biçimlendirici değerlendirme sistemleri, öğrenme destek araçlarından davra
 - [[zhu-adaptive-teaching-assistance-genai-big-data-2026]] — Müzik eğitiminde üretici YZ ile büyük veri analitiğini birleştiren uyarlanabilir öğretim desteği
 - [[student-llm-use-ai-question-difficulty-data-science-2026]] — Veri Bilimi Derslerinde Öğrencilerin LLM Kullanımı ve YZ Tarafından Üretilen Soru Zorluğunun Sınırları
 - [[mcnamara-aim-cai-continuous-assessment-2026]] — YZ Aracılı Sürekli Değerlendirme Altyapısı (AIM-CAI): Öğrenme Kanıtlarını Bağlamlar ve Zaman Arasında Bağlamak (McNamara ve Hasnine 2026)
+- [[etq-ai-conversational-teacher-training-2026]] — Kanıta dayalı diyalogla öğretim yanlış kanıları için konuşma YZ tanısı (Miranda ve Calvani 2026)
 

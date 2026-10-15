@@ -9,7 +9,7 @@ discipline: [biology education, stem education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/biology-education
-source_updated: "2026-09-30T08:05:25-04:00"
+source_updated: "2026-10-13T09:18:19-04:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -42,6 +42,7 @@ AI에 관한 생물 교육 연구는 하나의 긴장 주변에 모입니다. AI
 **생물 교과 과정에 내장된 AI 리터러시.** **[[zha-ai-literacy-biology-case-study|Zha et al.]]**는 기계 학습과 신경망 개념을 고등학교 우수 생물 과정에 통합하고, AI 지식의 유의미한 향상과 생물이라는 맥락이 AI 학습을 뒷받침한다는 것을 발견했습니다. 이것은 [[stem-education]]에 AI 리터러시를 내장해야 한다는 근거이며, 이를 방과 활동으로 밀어내서는 안 된다는 근거입니다. **[[chatgpt-math-biology-challenge-based-learning-2025|Elizondo-García et al.]]**는 생물과 수학 수업에서 **챌린지 기반 학습** 안에 ChatGPT를 사용하며, 학생들이 즉시성을 중시하지만 진실성, [[teacher-role|교사]] 대체, 그리고 기술의 침식을 우려한다는 것을 발견했습니다. 이 연구는 개정된 학문적 진실성 규범과 AI 사용 윤리를 요구합니다.
 
 **AI 시대의 비판적 사고.** **[[critical-thinking-biological-sciences-ai-2025|Papaneophytou & Nicolaou]]**는 AI가 생물 연구를 형성함에 따라 **비판적 사고** — 회의주의, 맥락적 이해, 윤리적 추론 — 가 의도적으로 길러져야 하며, AI 출력을 검증하고 [[equity-in-ai-education|편향]]을 막는 데 [[human-in-the-loop-ai|인간의 감독]]이 여전히 필수불가결하다고 주장합니다. 이것은 지식 기반 전반의 [[reducing-ai-misuse]]와 [[cognitive-offloading]] 우려와 연결됩니다.
+**교사 양성에서의 소크라테스식 AI 논증 연습.** 예비 생물 교사 124명을 대상으로 한 준실험에서, 사회과학적 쟁업에 대해 ChatGPT-4의 [[socratic-method|소크라테스식 튜터]]가 오프라인 동료 토론에 비해 논증의 질을 높였고(보정 3.91 대 3.21, F(1,121) = 14.23, p < .001), 반론과 반증거 기술에서 가장 큰 이득이 나타났습니다([[genai-socratic-tutor-biology-argumentation-2026|Ergasheva et al., 2026]]).
 
 **전문화된 AI 도구와 더 넓은 검토.** **[[beyond-chatgpt-ai-tools-biological-education-2026|Cotton & Cotton]]**는 생물 교육에서 AI 도구의 전 지형을 검토하며, 종 동정을 위한 **iNaturalist와 Google Lens**, 바이오 이미징 및 기계 학습 도구, 보조 기술, 그리고 위험에 처한 학생의 예측 모델링을 포함합니다. 이 검토는 생성 AI의 진실성, 평가 설계, 잘못된 정보, 비판적 사고라는 난제들과 나란히 다룹니다.
 
@@ -89,3 +90,4 @@ AI에 관한 생물 교육 연구는 하나의 긴장 주변에 모입니다. AI
 - [[critical-thinking-biological-sciences-ai-2025]] — 생명과학과 AI에서의 비판적 사고
 - [[chatgpt-math-biology-challenge-based-learning-2025]] — 챌린지 기반 생물/수학 수업에서의 ChatGPT
 - [[zha-ai-literacy-biology-case-study]] — 생물 수업에서의 AI 리터러시 교육
+- [[genai-socratic-tutor-biology-argumentation-2026|Ergasheva et al., 2026]] — 생성형 인공지능을 통해 예비 생물 교사의 PISA 정합 논증 기술 향상하기

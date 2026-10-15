@@ -8,7 +8,7 @@ ethics: [accessibility, equity-in-ai-education]
 confidence: high
 reviewed_by: [editor]
 translation_of: concepts/digital-divide
-source_updated: "2026-10-04T16:06:05-04:00"
+source_updated: "2026-10-14T14:35:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -33,6 +33,8 @@ ai_assist:
 ## Giriş
 
 Dijital uçurum yaygın olarak **üç düzey** üzerinde işleyen bir olgu olarak anlaşılır (van Deursen & van Dijk, 2014): *birinci düzey* uçurum teknolojilere ve altyapıya erişimi (bağlantı, cihazlar, destekleyici ortamlar) kapsar; *ikinci düzey* uçurum becerileri ve yetkinlikleri (araçları etkin ve anlamlı biçimde kullanmanın eşit olmayan kapasitesi) kapsar; *üçüncü düzey* uçurum ise çıktıları ve yararları (teknoloji kullanımından kimin gerçekten yararlandığı, YZ’nin sosyal, kültürel ve ekonomik eşitsizlikleri potansiyel olarak şiddetlendirdiği noktası) kapsar. YZ okuryazarlığını [[framing-ai-use-for-students|Çerçeveleme YZ]] bu mercekle okumak, eşitliğin cihaz ve altyapı boşluğunu kapatmaktan daha fazlasını gerektirdiğini açık kılar — YZ’yi etkin ve eleştirel biçimde kullanma becerilerini inşa etmeyi, böylece yararların mevcut eşitsizlikleri pekiştirmek yerine adil biçimde dağılmasını gerektirir.
+
+Uç çıkarım dönüşü, birinci düzey uçuruma bir donanım boyutu ekler. Özel öğretim sınavı bulutta değil tarayıcıda çalıştığında — WebLLM üzerinden [[browser-sized-agents-slm-webllm-tutor-2026|tarayıcıda yerleşik SLM özel öğretmenler]] — abonelik maliyeti engeli ortadan kalkar ama yerini bir yetkinlik engeli alır: tüketici dizüstü bilgisayarında aynı sistem deneme başına kabaca 180 saniye alırken uzak API için 10–58 saniye almış ve Chromebook sınıfı cihazlar bir 8B modelini hiç çalıştıramamıştır. Modern donanımı olan öğrenciler hızlı, kesintisiz üretim alır; eski cihazlardaki öğrenciler ise gecikme veya bellek tükenmesiyle yüzleşir; dolayısıyla yerel ve ucuz olan, varsayılan olarak eşitlikçi olanla aynı şey değildir.
 
 ### Dijital uçurum araştırmada nasıl görünür
 

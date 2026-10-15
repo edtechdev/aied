@@ -21,7 +21,7 @@ ai_assist:
     date: "2026-10-14"
     agent: hermes-agent
 translation_of: concepts/process-oriented-assessment
-source_updated: "2026-10-05T11:00:00-04:00"
+source_updated: "2026-10-14T11:15:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 ---
 
@@ -51,6 +51,8 @@ En açık tasarım söz varlığı Thapa ve Lewis’ten gelir; onların dört ba
 Seçilen süreç kanıtı kanalı, nelerin kanıtlanabileceğini değiştirir: aynı 79 öğrencili üretken yapay zeka çalışmasında, yüksek derinlikli izleme ve planlama sesli düşünme birimlerinde daha yaygınken yüksek derinlikli düzenleme etkileşim günlüklerinde daha yaygındı; dolayısıyla tek bir kayıt sürecin tamamını yakalamaz ([[metacognitive-processes-genai-interaction-logs-2026|Li ve Liu (2026)]]). İzler puanlardan da açıkça ayrışabilir: 150 öğrenci–YZ konuşması boyunca %41’i tam olarak 1,00 ödev puanı taşırken gözlemlenebilir bilişsel katılım değişkenlik gösterir, dolayısıyla eşleşen puanlar farklı süreçleri gizleyebilir ([[epistemic-ownership-ai-mediated-education-2026|Fábrega, 2026]]). DraftTrace, YZ bütünleşik yazmada aynı soruna, tuş vuruşu düzeyindeki süreç ölçülerini son ürünle ve YZ etkileşim izleriyle hizalayarak yanıt verir; kopyalayarak yazmanın yalnızca ürün ve süreç birlikte okunduğunda tanımlanabilir olduğunu gösterir ([[drafttrace-ai-writing-analytics-2026|Chandarana ve ark. (2026)]]), bu da alanın hâlâ yoksun olduğu davranışsal iz ölçümünün somut bir örneğidir.
 
 Uygulayıcı ve çerçeve anlatıları yapıtları tamamlar. [[problem-based-learning|Probleme dayalı öğrenme]] [[assessment]] hedefleyen Uden ve Hwang’in (2026) LEARN çerçevesi; sürece odaklı rubrikler, sözlü gerekçelendirmeler, aşamalı teslimler ve [[ai-use-disclosure|YZ kullanım beyanı]] ile birlikte akıl yürütme izleri ister; öğrenme günlükleri ve sesli düşünme protokolleri aracılığıyla yansıtmayı dizinin [[metacognition|üstbilişsel]] motoru olarak ele alır. Moganadas ve arkadaşları (2026), YZ şeffaf, sürece yönelik değerlendirmeyi araştırılabilir beş öneriden biri yapar; yasak veya tespit aracı kullanımı yerine belgeleme, doğrulama ve yansıtıcı gerekçelendirme ister. Padhy (2026), düzeltme geçmişini, etkileşim örüntülerini ve görev üzerinde geçen süreyi kaydetmeyi, şeffaf beyanla eşleştirerek önerir. Goldstein, Marae-Haj ve Zidan (2026), bir [[trust]] krizinden sonra uygulamadan doğan aynı yapıtları raporlar: isteme kayıtları, belge sürüm geçmişi, izlenen grup katkıları ve fiziksel defterlerde tutulan yansıtıcı "yolculuk günlükleri" — yanında ev yazılı işinin artık öğrenmeyi kanıtlayamadığına dair sade bulgu.
+
+Somut araçlar da ortaya çıkmaktadır: [[stepwise-teacher-diagnosis-math-2026|Kim ve ark. (2026)]], problem çözmeyi dört aşama ve on iki tanı alt becerisi olarak işlevselleştirerek bir LLM’nin aşamaya özgü sorular ve rubrikler üretebilmesini sağlar; beş öğretmen ve 64 öğrenci sistemi 90 problem ve 720 alt soru üzerinde kullanmış ve ortalama Sistem Kullanılabilirlik Ölçeği puanı 83,5 olmuştur.
 
 ## Özgünlükten ve puanlamadan farklı bir eksen
 
@@ -104,3 +106,4 @@ Thapa ve Lewis’ın anlatısı kavramsaldır: katılımcı yok, veri toplama yo
 - [[metacognitive-processes-genai-interaction-logs-2026]] — Kanala bağlı süreç kanıtı: günlükler ve sesli düşünme farklı süreçleri ortaya çıkarır
 - [[drafttrace-ai-writing-analytics-2026]] — DraftTrace: YZ Bütünleşik Yazma için Çok Görünümlü Bir Çözümleme Ortamı
 - [[epistemic-ownership-ai-mediated-education-2026]] — Aynı Performans, Farklı Süreç: YZ Aracılı Eğitimde Epistemik Sahiplik
+- [[stepwise-teacher-diagnosis-math-2026]] — STEPwise: LLM Üretimli Sorular Yoluyla Öğretmenlerin Matematik Problem Çözme Becerilerini Teşhis Etmeyi Desteklemek

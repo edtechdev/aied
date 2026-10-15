@@ -8,7 +8,7 @@ audience: [learners]
 confidence: medium
 reviewed_by: [editor]
 translation_of: concepts/knowledge-tracing
-source_updated: "2026-10-09T09:50:00-04:00"
+source_updated: "2026-10-14T11:15:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -45,6 +45,8 @@ Bilgi izleme, ham alıştırma yanıtlarını bir öğrencinin neyi öğrendiği
 - **LLM ile güçlendirilmiş:** [[xie-hillm-cd-2026|HiLLM-CD]] otomatik kavram ağacı oluşturma ve hiyerarşik yeterlilik çıkarımı için LLM’lerden yararlanır
 - **Anlamsal, öneri odaklı BT:** [[exrec-exercise-recommendation-knowledge-tracing-2025|ExRec (Ozyurt, Almaci, Feuerriegel ve Sachan, 2025)]] mimariden çok *girdiyi* temellendirir: bir LLM her soruyu Matematik İçin Ortak Çekirdek Standartlarına uygun çözüm adımları ve bilgi kavramlarıyla etiketler, karşıt öğrenme soru, çözüm adımı ve kavram yerleştirmelerini hizalar (“bir çubuk grafiği yorumlama” ve “bir çubuk grafiğinden bilgi okuma” gibi kavram varyantlarının ön kümelenmesiyle yanlış negatifler ayıklanır) ve bir KC-kalibrasyon kaybı, izleyicinin o kavramdaki her soru üzerinde modeli çalıştırarak çıkarmak yerine doğrudan kavram düzeyinde bir bilgi durumu öngörmesini sağlar. Kalibre edilmiş izleyici, alıştırma önerisi için pekiştirmeli öğrenme ortamı olarak hizmet eder; burada model temelli bir değer tahmini eleştiriyi izleyicinin kendisinden başlatır. 2.048 sınama öğrencisi üzerinde ortalanan XES3G5M’deki dört görevde RL olmayan taban çizgileri marjinal ya da negatif bilgi kazanımları verdi, değer temelli sürekli yöntemler politika temelli olanları yendi ve model temelli değer tahmini bunları tutarlı biçimde iyileştirdi — en keskin biçimde her adımda hedefin değiştiği en zayıf kavram görevinde. Bildirilen kazanımlar öğrenme çıktıları değil, azami bilgi iyileşmesinin yüzdesidir; işlem hattı ayrıca izleyicinin kalitesini devraldığı üretilen çözüm adımlarına bağlıdır.
 - **Çıktı temelli bilgi izleme (OKT):** [[pradeesh-outcome-knowledge-tracing-affinity-2026|Pradeesh ve ark. (2026)]], Sonuç Temelli Eğitim sistemlerinde öğrenci bilgisini izler; bunu **kurs çıktılarını bilgi kavramlarının kendisi olarak** ele alarak ve kurs ile program çıktıları arasındaki uzman doğrulamalı OBE “yakınlık eşlemelerini” dikkat ya da grafik kaynaklı kavram ilişkilerinin yerine koyarak yapar. Bir Bellek Güçlendirilmiş Sinir Ağı (MANN), her bir çıktının kazanımının diğerlerini nasıl etkilediğini modeller; alana uyarlanmış BERT ince ayarı çıktı yerleştirmelerini zenginleştirir (LSTM’yi geçen bir GRU omurgasıyla). Canlı [[engineering-education|mühendislik]] programı LMS verisi üzerinde (2.416 öğrenci, 966 çıktı) OKT %89,81 AUC’ye ulaştı — DKT, DKVMN, EKT ve SimpleKT’yi geride bıraktı — oysa ASSISTments’ta yalnızca rekabetçi sonuçlar verdi; bu da avantajın OBE’ye özgü [[curriculum-design|müfredat]] yapısına bağlı olduğunu doğrular.
+
+- **Tek bir yenilik ölçeği, bir dizi modelinin satın aldığının çoğunu yakalar.** 8.996 Fin öğrencisinden gelen 1.927.265 matematik yanıtı üzerinde, yalnızca madde kimliği AUC .8362’ye ulaşmış; madde zorluğuna göreli tek bir yenilik ölçütü eklemek bunu .8669’a yükseltmiş ve sorgu koşullu bir transformer’ın .8690 kazançının %93,5’ini geri kazanmış; oysa geçmişin 128 boyutlu bir özeti yalnızca .8687’ye ulaşmıştır ([[knowledge-tracing-compression-math-2026|Lahtinen ve McMullen (2026)]]).
 
 - **Yalnızca anlık görüntüye dayalı izleme.** [[skill-acquisition-without-temporal-info|Nagai ve ark. (2026)]], öğrenenlerin beceri kümeleri arasındaki kapsama ilişkilerinden yalancı-zamansal bir sıra çıkarır; genişleyen beceri kümelerini öğrenme ilerleyişi olarak ele alır, böylece tek zaman noktalı anlık görüntüler izlenebilir kalır — ancak formülasyon becerilerin asla kaybolmadığını varsaydığından, gerileyen öğrenenlere yönelik uygulamalar önce açık bir unutma mekanizmasına gereksinim duyar.
 
@@ -98,3 +100,4 @@ Bilgi izleme, [[student-modeling]] ile yakından ilişkilidir — bilgi izleme �
 - [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn: İnsan–YZ Ortak Öğrenme Döngüsünde Öğrenenisini Öğrenen Bir Ajan Tabanlı Özel Ders Asistanı
 - [[crediting-assisted-work-inflates-mastery-2026]] — Yeterlilik iddiasını hangi kanıt kuralı belirler (Srivastava 2026)
 - [[system-one-llm-knowledge-tracing-2026]] — Tek geçişli bir LLM, 8 öğrenci üzerinde eğitilmiş derin modelleri, maliyetin bir bölümüyle geçer (Lee ve Park 2026)
+- [[knowledge-tracing-compression-math-2026]] — Matematik bilgi izlemede öğrenci geçmişini sıkıştırmak

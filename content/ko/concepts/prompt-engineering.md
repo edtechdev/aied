@@ -12,7 +12,7 @@ level: [higher ed]
 confidence: high
 connected_resources: [edugems, matt-pocock-skills, pedagogical-promptbook, writing-rhetoric-studies-in-the-loop]
 translation_of: concepts/prompt-engineering
-source_updated: "2026-10-02T08:08:45-04:00"
+source_updated: "2026-10-14T11:15:00-04:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -65,6 +65,7 @@ ai_assist:
 - **평가를 위한 맥락 인식 프롬프트 작성.** 사전 훈련된 언어 모델의 맥락 인식 프롬프트 작성은 과정 데이터로부터 [[collaborative-learning|협력적 문제 해결]] 기술의 코딩을 자동화합니다. 이는 행동 코드 사이의 의존성을 모형화하고 인지적·사회적 능력을 융합하여, 수동 코딩 체계의 노동 집약성을 넘어 대규모·실시간의 구조화된 CPS 분석을 가능하게 합니다.
 - **교수 계획을 위한 역할 기반 템플릿과 품질 평가 기준.** [[luo-tahir-chatgpt-steam-lesson-planning-2026|Luo and Tahir (2025)]]는 Role(R) – Instructions(I) – End Goal(E) 템플릿(RISEN에서 각색)과 "네 포인트와 한 줄" 최적화 평가 기준을 짝지은 프롬프트 틀을 아동 STEAM 예술 [[curriculum-design|수업 계획]]을 위해 실증적으로 개발했습니다. 이 기준은 표준화되고 실용적이며 참여를 끌며 완결된 것이고, 확장 차원을 더합니다. 이 기준을 프롬프트를 비판하고 다듬는 데 적용하자 생성된 계획이 현직 미술 교사가 수용할 만한 수준을 유지했고(평균 4/5 이상), 한 번에 생성하는 프롬프트가 방치한 채 남겨 둔 되풀이되는 빈틈([[personalized-learning|개별화]], [[pedagogical-safety|아동 안전]] 제약, 문화 편향)이 드러났습니다. 이는 프롬프트 템플릿과 명시적 평가 기준이 함께 교실 내 생성을 위한 품질 관리 비계로 기능함을 보여 줍니다.
 - **역할과 제약 설계가 독립 변수일 때.** [[wang-teacher-student-centered-agents-physics-2026|Wang et al. (2026)]]는 같은 모델과 플랫폼, temperature 0.3 위에 세워진 두 에이전트를 비교하면서, 유일한 차이가 프롬프트가 역할·기능·제약을 어떻게 명세하는지입니다. 하나는 한정된 교과서 지식 원천에서 답하는 전문 교사 에이전트이고, 다른 하나는 [[misconceptions]]을 진단하고 이해를 점검하도록 짜인 공감적 학생 중심 에이전트입니다. 역할 차이만으로도 학습 성취, 인지 부하, 몰입 경험, 지각된 공감이 달라져, 역할 명세가 양식상의 장식이 아니라 측정 가능한 효과를 지닌 교육 설계 결정임을 보여 줍니다([[pedagogical-agent]]).
+- **평가 설계로서의 프롬프팅.** [[ecd-prompts-automated-essay-scoring-2026|Xiong et al. (2026)]]는 증거 중심 설계(Evidence-Centered Design)의 학생, 증거, 과제 모형을 채점 프롬프트의 부분들에 매핑하여, 의도성, 추적 가능성, 책임 가능성, 반복, 형평성의 다섯 원리를 도출했습니다. 이들이 ECD로 구축한 프롬프트는 제로샷, 퓨샷, 사고의 사슬 기준선보다 서사 에세이를 더 정확히 채점했습니다.
 ### 더 넓은 개념들과의 연결
 
 프롬프트 엔지니어링은 [[scaffolding]]과 연결됩니다 — 잘 설계된 프롬프트는 학생의 사고를 우회하는 것이 아니라 떠받칠 수 있습니다. 이는 효과적인 프롬프트 작성이 AI의 능력과 자신의 학습 목표 양쪽에 대한 이해를 요구한다는 점에서 [[metacognition]] 및 [[ai-literacy]]와 교차합니다. [[cognitive-offloading]] 연구는 AI 사용이 학습을 뒷받침하는지 약화하는지에 프롬프트의 질이 직접 연결된다는 것을 보여 줍니다.
@@ -119,3 +120,4 @@ ai_assist:
 - [[teacher-ai-literacy-prompt-feedback-quality-2026]] — AI 피드백 질의 예측 변수로서의 프롬프트 엔지니어링과 모델 선택 (Jacobsen et al. 2026)
 - [[llm-feedback-focus-adaptivity-student-writing-2026]] — 학생 글쓰기에서 LLM이 생성한 피드백의 초점과 교육적 적응성 평가
 - [[middle-school-genai-steam-interactions-2026]] — 중학교 STEAM 집단이 47.1%의 프롬프트에서 강사의 지시를 그대로 복사했다
+- [[ecd-prompts-automated-essay-scoring-2026]] — 측정에서의 프롬프트 엔지니어링을 안내하기 위한 증거 중심 설계: 자동 에세이 채점을 통한 예시

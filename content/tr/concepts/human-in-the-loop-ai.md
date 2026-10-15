@@ -12,7 +12,7 @@ methods: [benchmark]
 ethics: [pedagogical-safety]
 reviewed_by: [editor]
 translation_of: concepts/human-in-the-loop-ai
-source_updated: "2026-10-03T03:00:33-04:00"
+source_updated: "2026-10-14T11:15:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -75,6 +75,8 @@ Yerleşim, varlıktan daha önemli olabilir: uygulayıcılar bir Sosyal Öykü y
 İnsan-denetiminde tasarım, birkaç yakınsayan nedenle bilgi tabanının [[agentic-ai|ajan]] yapay zeka ve [[reducing-ai-misuse|sorumlu YZ kullanımı]] tartışmalarının merkezine yerleşmiştir:
 - **Pedagojik güvenlik.** [[pedagogical-safety]], gerçek öğretim yetkisine sahip yapay zekanın insan gözetimini sürdürmesini gerektirir; böylece hatalar, önyargılar veya zararlı çıktılar öğrenenlere ulaşmadan yakalanır. Bu, [[agentic-ai|hedefleri önleyici biçimde kovalayan]] özerk ajanlar için özellikle önemlidir.
 - **Gözetim yalnızca kuramda değil, uygulamada nadirdir.** [[agentic-ai-education-scoping-review|Wang ve ark. (2026)]], 474 eğitim amaçlı ajan YZ sistemi boyunca sağlam, gömülü yönetişim ve insan-denetiminde gözetimin nadiren görüldüğünü buldu; oysa tek görevli özerklik ve çok ajanlı işbirliği arttı — tasarım ilkesi ile konuşlandırılmış pratik arasındaki uçurum.
+
+- **Kritik soru, insanların ne kadar katıldığı değil, döngünün nasıl eyleme dönüştürüldüğüdür.** Bir öğrenme bilimleri bakışı, öğrenmeyi veri yakalama, hesaplamalı yorumlama ve olası yanıt çevresinde düzenlemenin pedagojik eylemi, sistemlerin neyi tespit edip üzerinde hareket edebileceğine bağımlı kıldığını; uyarıların ve etkileşim sınıflandırmalarının ise herhangi bir öğretmen ya da öğrenci hareket etmeden önce öğreneni yorumladığını savunur ([[in-the-loop-educational-ai-learning-sciences-2026|Pande (2026)]]).
 - **Geçerlilik ve kalite denetimi.** HITL, [[automated-assessment|otomatik değerlendirme]] ve üretim için bir kalite kapısıdır — insanlar otomatik puanlamanın güvenilmez olduğu yerde karar verir (bkz. [[llms-do-not-grade-essays-like-humans-2026|LLM kompozisyon notlandırma]] [[research-methods-aied|araştırması]]) ve üretilmiş maddeleri doğrular. 42 notlandırma ve geri bildirim çalışması (2023–2025) üzerine yürütülen PRISMA kılavuzlu bir [[meta-analysis-systematic-review|sistematik derleme]] aynı sonuca açıkça ulaşıyor: LLM’ler kısa, iyi yapılandırılmış görevlerde insan değerlendiricileriyle eşleşiyor ama karmaşık, açık uçlu veya öznel işlerde insan muhakemesinin yerini tam olarak alamıyor; en yüksek notlandırma etkililiği, YZ kaynaklı notlandırmayı öğretmen gözetimi ve doğrulamasıyla birleştiren hibrit sistemlerde elde ediliyor ([[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]). [[falahat-chatgpt-grading-pharmacy-exams-2026|Falahat ve ark. (2026)]] bu sınırın somut olarak nereden geçtiğini gösteriyor: ChatGPT-5 nesnel eczacılık sınav maddelerinde fakülteyle eşleşti (CCC 0,935–1,000) ama kısa yanıtlı ve kompozisyon maddelerinde kendisine rubrik verilse bile güvenilmezdi; bu da yazarları karmaşık, öznel veya yüksek beklenti doğuran değerlendirmelerde insan gözden geçirmeli hibrit notlandırma önermeye yöneltti.
  Tekrarın bu gözetimin yerini tutmadığı da ortadadır: özdeş gönderimleri beş farklı günde yeniden puanlandığında, aynı model kendi sonuçlarını yalnızca Krippendorff’un alfa değeri 0,625 ile yeniden üretti; değişkenlik orta notlarda yoğunlaştı ve beş oturum sayımında A ile F hiç çıkmadı ([[llm-grading-assistants-public-health-2026|Brevik ve ark. (2026)]]).
 - **Öğrenen özerkliği.** Hat içinde bir insan tutmak [[agency]]’yi korur ve [[self-regulated-learning]]’i destekler; tamamen özerk desteğin indükleyebileceği [[cognitive-offloading|aşırı bağımlılığı]] karşı koyar.
@@ -163,3 +165,4 @@ Yerleşim, varlıktan daha önemli olabilir: uygulayıcılar bir Sosyal Öykü y
 - [[llm-grading-assistants-public-health-2026]] — Identical LLM grading reruns on different days reproduce at only Krippendorff's alpha 0.625
 - [[when-students-prefer-ai-scoring-feedback-2026]] — Undergraduates prefer human scoring for high-stakes work and AI as an assistant, not a replacement
 - [[student-query-demand-hybrid-ai-support-2026]] — What Students Actually Ask: Demand Structure and Automation Potential in a Hybrid Support System
+- [[in-the-loop-educational-ai-learning-sciences-2026]] — Rethinking "In-The-Loop" Approaches in Educational AI: A Learning Sciences Perspective

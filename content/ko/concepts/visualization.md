@@ -7,7 +7,7 @@ confidence: medium
 created: "2026-08-29T12:55:12-04:00"
 updated: "2026-09-30T09:53:03-04:00"
 translation_of: concepts/visualization
-source_updated: "2026-09-30T09:53:03-04:00"
+source_updated: "2026-10-13T09:18:19-04:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -47,10 +47,12 @@ ai_assist:
 두 번째 주요 흐름은 AI가 시각화를 직접 만들어내는 것을 다룹니다. [[nuclear-diffusion-text-to-image-learning-2026]]은 영역 적응된 텍스트-이미지 모델이 전문 STEM 개념의 정확한 삽화를 생성할 수 있음을 보여줍니다: 핵 영역 이미지로 Stable Diffusion을 파인튜닝하여 영역 정확도를 12%에서 78%로 높여, 교수자가 요구에 따라 정확한 원자로 구성 요소와 안전 시스템 시각화를 만들어낼 수 있게 했습니다. 이러한 생성 능력은 강력하지만 고르지 않습니다. [[mllm-scientific-visualization-literacy]]는 6개의 멀티모달 대형 언어 모델을 485명의 인간 참가자와 대조하여 과학 시각화 리터러시를 [[benchmark|벤치마킹]]하며, 고른 유능성은 없다는 것을 발견했습니다: 폐쇄소스 Gemini는 여러 부분집합에서 인간 평균을 넘어섰으나 모든 [[open-source]] 모델은 그 아래에 머물렀고, 특히 세밀한 [[quantitative-research|정량적]] 추정과 질감 기반 또는 통합 기반 시각화에서 취약했습니다. 따라서 AI는 인간의 시각화 리터러시를 뒷받침해야지 대신해서는 안 되며, 이는 [[ai-literacy]]와 [[formative-assessment]]에 직접적인 함의를 갖습니다.
 
 윤리와 신뢰성은 AI가 생성한 시각 콘텐츠에 대한 열의를 누그러뜨립니다. [[data-comics-for-education-evaluating-effectiveness-benefits-ethics]]는 [[generative-ai|생성형 AI]]가 보조한 데이터 만화가 이전의 시각화 리터러시와 무관하게 전통적인 시각화보다 [[student-engagement|참여]]와 이해를 향상시켰으나, 참가자들은 허위정보 위험과 [[academic-integrity|저자]] 귀속에 대한 우려를 제기했고, 3분의 2가 지나치게 복잡한 구성으로 인한 정보 과부하 같은 단점을 지적했습니다. 반사실적 CFES-P24 벤치마크는 이러한 검증을 [[cfes-p24-multimodal-slide-auditing-2026|슬라이드 감사]]로 확장하여, 멀티모달 LLM이 [[learning-design]] 구인들(작업, 원리, 증거 위치 파악)은 신뢰할 만하게 인식하면서도 비교적 판단과 심각성 보정에서는 크게 갈라짐을 보여줍니다 — 이는 종합 점수가 어떤 능력이 실패하는지를 숨기며, 확신이 신뢰성이 아님을 보여주는 증거입니다. 이러한 연구들은 AI가 생성한 시각 자료에 대해 전체적 평점이 아니라 층위화된 [[ai-ed-evaluation|AI 평가]]를 요구합니다.
+프롬프트에서 차트로의 생성은 AI가 유능한 시각화를 만들어낼 수 있는지와는 다른 질문을 제기합니다. 학습자가 그 산출물을 교육적으로 만드는 분석적·부호화 작업을 여전히 수행하는가 하는 질문입니다. 2026년의 한 틀은 이것을 과정–산출물의 구분이라 부르고, [[scaffolding]]과 대체 사이의 주체성 선으로 투명성, 초대, 걷히기를 제안합니다([[genai-visualization-education-framework-2026|Purohit et al., 2026]]).
+
 
 ## 실제로 쓰이는 슬라이드, 만화, 다중 뷰 도구들
 
-실용적 시스템들은 이러한 원칙을 규모 있게 적용합니다. AISSA는 LLM 기반 루브릭 채점과 학습 분석 대시보드를 결합하여 학생 발표 슬라이드에 대해 자동적이고 반복적인 피드백을 제공하며, 각 1~3분 만에 90개의 발표를 평가 비용 센트 단위로 처리하고 높은 지각된 [[usability-research|사용성]]을 달성합니다 — 다만 학생들은 피드백을 선택적으로 적용하여, 자신의 시각적 설계와 충돌하는 권고는 무시하기도 했습니다. [[cs-education|코딩 교육]]에서 Flowcode는 코드 구조 흐름도와 학습 지향 채팅을 결합하여, 초보 창작 코더들이 발견한 예시를 이해하고 확장하도록 돕는데, 여기서 시각화와 [[desirable-difficulties|생산적 마찰]]은 AI 사용을 학습을 우회하는 쪽이 아니라 학습을 향하도록 조종합니다. 그러나 시각적 [[scaffolding|발판]]이 보편적으로 효과적인 것은 아닙니다: [[code-anchor-multi-view-visualization]]은 시각적 발판이 있음에도 학생들이 시선 시간의 약 47%를 코드에 사용했다는 것을 발견했으며, 이는 주도성(agency), 표현적 적합성, 은유적 뷰에 대한 지각된 정당성에 의해 움직였습니다. 이러한 [[student-experience|학습자 경험]] 발견들은 시각화 설계가 인지적 가능성뿐 아니라 [[affective-computing|정의적]]이고 사회적인 요인에도 주의를 기울여야 한다고 경고합니다.
+실용적 시스템들은 이러한 원칙을 규모 있게 적용합니다. AISSA는 LLM 기반 루브릭 채점과 학습 분석 대시보드를 결합하여 학생 발표 슬라이드에 대해 자동적이고 반복적인 피드백을 제공하며, 각 1~3분 만에 90개의 발표를 평가 비용 센트 단위로 처리하고 높은 지각된 [[usability-research|사용성]]을 달성합니다 — 다만 학생들은 피드백을 선택적으로 적용하여, 자신의 시각적 설계와 충돌하는 권고는 무시하기도 했습니다. [[cs-education|코딩 교육]]에서 Flowcode는 초보 창조적 코더가 발견한 예시를 이해하고 확장하도록 코드 구조 순서도와 학습 지향 채팅을 짝지어, 시각화와 [[desirable-difficulties|생산적 마찰]]이 AI 사용을 학습 쪽으로 이끕니다. 그러나 시각적 [[scaffolding|비계]]가 보편적으로 효과적인 것은 아닙니다. [[code-anchor-multi-view-visualization]]는 학생들이 시각적 비계가 있음에도 시선 시간의 약 47%를 코드에 썼으며, 이는 주체성, 표상적 적합성, 그리고 은유적 뷰에 대해 지각된 정당성에 의해 움직였습니다. 이러한 [[student-experience|학습자 경험]] 발견들은 시각화 설계가 인지적 가능성뿐 아니라 [[affective-computing|정서적]]·사회적 요인에도 주의를 기울여야 함을 지적합니다.
 
 ## 함의
 
@@ -76,3 +78,4 @@ ai_assist:
 - [[data-comics-for-education-evaluating-effectiveness-benefits-ethics]] — AI 지원 데이터 만화의 효과, 이점, 윤리
 - [[cfes-p24-multimodal-slide-auditing-2026]] — 멀티모달 슬라이드 감사를 위한 반사실적 벤치마크
 - [[mejia-domenzain-ml-findings-teachers-blended-2026]] — 혼합형 교실의 교사들에게 머신러닝 연구 결과를 접근 가능하게 만들기
+- [[genai-visualization-education-framework-2026]] — 의미를 구성하기, 단순한 차트가 아니라: 시각화 교육에서의 생성형 AI 사용을 위한 인지–교수 틀

@@ -90,6 +90,8 @@ ai_assist:
 ## 언어적, 문화적, 장애 포용
 
 - **언어:** 대부분의 AI 도구는 영어를 우선하여 [[multilingual-learning|다언어]] 학습자를 주변화합니다. [[genai-linguistic-diversity-academic-writing|학술 글쓰기의 언어적 다양성]], [[structural-silence-underrepresented-language-ai-2026|대표되지 않는 언어]], [[language-learning]] 연구가 이것을 다룹니다.
+- **인정이지 단순한 접근이 아닌 것: 형평성 발견으로서의 AI의 문화적 평평함:** 9개월에 걸친 유색인종 중등 학교 도제 다섯 명과의 내러티브 탐구에서, [[gyekye-selves-apprenticeship-2026|Gyekye (2026)]]는 학생들이 공정성을 눈에 보이는 편향의 *부재*와 동일시했음을 발견했습니다 — 정체성 특유의 경험과 문화적 표지가 AI 응답에 표상되지 않는 "문화적 평평함". 그리고 거부(비사용을 제도적 정렬로 읽기)와 협상(AI 산출을 제도적으로 읽히게 만들기)을 통해 주체성을 구성했습니다. 이 연구의 인식 대역폭(Recognition Bandwidth) 개념은 학습자들이 AI 산출 속에서 자신을 볼 수 있는 여유를 명명하고, 기관적 AI 리터러시(Institutional AI Literacy)는 제도적 기대 안에서 AI를 항해하는 능력을 명명합니다. 다섯 명의 학생, 단일 프로그램에 대한 질적 연구입니다. 이 연구의 형평성 기여는 중립성-즉-공정성이 그 자체로 배제의 메커니즘이 될 수 있음을 보여준다는 데 있습니다.
+- **AI 튜터에서 누가 이득을 얻는가 — 탐색적 현장 증거:** 교사가 매개하는 AI 수학 플랫폼의 전 구역 도입에서, [[alam-goblins-math-platform-2026|Goblins (Alam et al. 2026)]]는 IEP를 지닌 학생(+0.122 SD), 영어 학습자(+0.191 SD), 히스패닉 학생(+0.084 SD)에게 비교 집단보다 더 큰 성취 연관성을 발견했으며, 이는 다중 양식 입력과 7개 언어 음성 지원이 참여 장벽을 낮추는 것과 일치합니다. 저자들은 탐색적이고 검정력이 부족한 하위 집단이 접근성 기능이 그 차이를 일으켰음을 확립할 수 없음을 분명히 합니다 — 초기의 가설 생성 신호이지 형평성 발견이 아닙니다.
 - **문화:** [[culturally-relevant-pedagogy|문화적으로 적합한 교수법]]과 [[culturally-aware-aied-community-learning|공동체 중심 AIED]]는 지배적 규범을 부과하기보다 학습자의 문화적 맥락을 반영하는 AI를 요구합니다.
 - **장애와 신경다양성:** [[inclusive-learning|접근 가능한 학습]], [[universal-design-for-learning|보편적 설계]], [[neurodiversity]], [[special-education|특수 교육]] 연구는 AI가 장애가 있는 학습자를 지원하거나 배제하는 방식을 검토합니다. [[neurodivergent-computing-students|신경다양성 컴퓨팅 학생]], [[dyslexlens-dyslexic-learners-ai|난독증 학습자]], [[inclusive-learning|접근 가능한 교육 자료]]가 그것을 보여 줍니다.
 - **언어, 문화, 비용을 함께:** Bashir와 Afzal(2026)은 [[well-being]] AI에서의 공평한 설계를 언어, 문화, 비용이라는 하나의 질문으로 틀짓습니다. 영어 전용 도구는 우르두어나 로마자 우르두어로 고통을 표현하는 학생을 실패시키고, 서구 자료 집합은 지역적으로 두드러진 스트레스 요인을 포착하지 못하며, 값비싼 상업 시스템은 장비가 덜 갖추어진 대학을 더 많이 실패시킵니다([[culturally-aware-student-stress-chatbot-2026|Sukoon]]). 이들의 대응은 낮은 자원 요건으로 호스팅된 API를 통해 접근한 [[open-source]] 다언어 LLM, 이중언어 평가 인터페이스, 검증된 20개 특징 기구로 훈련된 분류기를 결합했습니다. 동시에 훈련 자료가 목표 집단을 대표하지 않으며, "어떤 지역에서는 도구가 있지만 종종 비싸다"고 인정하고, 그 적응이 학생과 함께 검정된 것이 아니라 프롬프트 수준이라는 것을 솔직히 밝혀, 공평한 의도와 입증된 형평성 사이의 간극을 정직하게 서술합니다.
@@ -175,3 +177,5 @@ ai_assist:
 - [[jing-genai-learning-outcomes-higher-ed-meta-analysis-2026]] — 통합된 GenAI 학습 성과(g=0.53)와 그것이 포착할 수 없는 고비용 도구에 대한 불평등한 접근
 - [[intelligent-tutoring-mathematics-education-review-2026]] — 포용성과 성취 간극 주장이 뒷받침되지 않는다고 발견한 수학 AI 튜터링 고찰
 - [[gurung-hybrid-human-ai-tutoring-2026]] — 학생 필요에 기초해 인간 튜터 역할을 차별화하여 하이브리드 인간-AI 튜터링 개선하기(Gurung 외 2026)
+- [[alam-goblins-math-platform-2026]] — IEP, 영어 학습자, 히스패닉 학생에게 더 큰 탐색적 연관성을 보인 구역 AI 수학 도입(다중 양식·다국어 지원; 인과성은 미검증)
+- [[gyekye-selves-apprenticeship-2026]] — 유색인종 도제들은 공정성을 문화적 평평함과 동일시했습니다. 거부와 협상을 통해 구성된 주체성; 인식 대역폭과 기관적 AI 리터러시

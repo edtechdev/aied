@@ -11,7 +11,7 @@ level: [higher ed, k 12]
 confidence: high
 connected_resources: [education-agent-skills]
 translation_of: concepts/active-learning
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-13T11:05:00-04:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -48,6 +48,7 @@ AI가 가능하게 하는 능동적 학습은 이 문서고에서 여러 형태�
 - **능동적 복습을 위한 구조화된 대화 워크플로.** [[knowloop-confusion-to-consolidation-2026|KnowLoop]]는 세 단계 — Recognize(제자리에서의 혼란 표시), Resolve(명확화), Consolidate(가르쳐 보기) — 를 중심으로 강의 후 복습을 구조화하여, 가르쳐 보기가 학습자에게 개념적 공백을 드러내게 하고, 표적화된 지원에 대해 맥락 기반 AI가 범용 AI보다 나음을 보여줍니다. 가르쳐 보기는 [[learning-by-teaching]]를 구현합니다.
 - **프로젝트 기반이자 공동체 구조로서의 능동적 학습.** [[academic-league-of-ai-2026|The Academic League of AI]]는 AI 비교과 교육을 경쟁 팀, 학습 모임, 사회를 위한 AI 프로젝트를 중심으로 조직하여, 하향식 교육과정이 아니라 민주적 학생 자치를 통해 능동적이고 [[project-based-learning|프로젝트 기반인]] 학습을 구현합니다.
 - **마인드툴과 생성적 참여.** [[genai-mindtool-generative-learning|마인드툴로서의 GenAI]]는 AI를 답의 원천이 아니라 학생이 *함께* 생각하는 장치로 자리매김하여, 학습자가 새로운 생각을 기존 지식에 통합하는 생성적 학습 이론과 능동적 학습을 정렬합니다.
+- **튜터를 만드는 것 자체를 능동적 학습 과제로.** [[zangari-student-created-ai-agents-codesigned-instruction-2026|Zangari et al. (2026)]]는 통상적인 AI 튜터 배치를 뒤집었습니다. 튜터를 사용하는 대신, 700명 규모의 소프트웨어 강좌에서 345명의 학생이 각자 대화형 에이전트를 설계하여 동료에게 세 가지 디자인 패턴을 가르치게 했으므로, 능동적 학습의 작업은 에이전트의 구성 — 사용자의 필요를 예측하고 추상적 개념을 가르칠 수 있는 조각으로 번역하는 것 — 이었습니다. 학생들은 개방형 설계의 자유를 높이 평가했지만(긍정적 주제 1위 22.3%), 가장 많은 불만은 불분명한 지시였으며(23.7%), 저자들은 대조군이 없고 자발적 표본이라는 설계가 참여에 관한 주장만을 뒷받침한다고 주의를 줍니다.
 - **모형의 실수 주변을 설계하라.** 다섯 단계 순서(독립적 분석, 표준화된 ChatGPT 프롬프트, 출력의 비판적 평가, 정제, 학급 토론)는 AI가 예측 가능하게 틀리기 때문에 효과가 있습니다. ChatGPT는 노래 가사에서 비탄력적 수요를 '완전 탄력적'이라고 잘못 표시하고, 그 불일치는 학생들에게 출력을 검증하는 법을 가르칩니다([[beck-genai-literacy-economics-hands-on|Beck & Brodersen, 2025]]).
 - **교수법적으로 설계된 AI 튜터가 능동적 학습 교실 자체를 능가할 수 있다.** 하버드의 역학 입문 강좌에서 맞춤형 AI 튜터를 그 강좌 자체의 교실 내 능동적 학습 수업과 — 강의가 아니라 동일한 연구 기반 교수법과 — 대비한 교차 [[rct]]는 더 적은 시간에 유의하게 더 많은 학습을 발견했습니다. 사후 검사 중위수 4.5 대 3.5, 선형 회귀에 의한 효과 크기 0.63, 과제 시간 중위수 교실의 60분 대 49분([[kestin-ai-tutoring-outperforms-active-learning-rct-2025|Kestin et al., 2025]]). 저자들은 매체가 아니라 설계에 공을 돌립니다. 튜터가 학급과 동일한 일곱 가지 연구 기반 관행을 담도록 설계되었고, 요청에 따른 맞춤형 피드백과 자기 주도 속도만을 더했기 때문입니다.
 

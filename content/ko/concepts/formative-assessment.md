@@ -11,7 +11,7 @@ connected_faqs: [ai-feedback-at-scale]
 connected_resources: [snorkl, ai-infused-assignment-playbook]
 confidence: high
 translation_of: concepts/formative-assessment
-source_updated: "2026-10-04T05:46:16-04:00"
+source_updated: "2026-10-15T08:25:00-04:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -177,3 +177,4 @@ AI 교육에서의 형성평가는 학습 과정 자체와 연결됩니다.
 - [[zhu-adaptive-teaching-assistance-genai-big-data-2026]] — 음악 교육에서 생성형 AI와 빅데이터 분석을 결합한 적응형 교수 지원
 - [[student-llm-use-ai-question-difficulty-data-science-2026]] — 데이터 과학 강좌에서 학생의 LLM 사용과 AI 생성 문항 난이도의 한계
 - [[mcnamara-aim-cai-continuous-assessment-2026]] — AI 매개 지속적 평가 인프라(AIM-CAI): 맥락과 시간을 넘어 학습 증거를 연결하기 (McNamara & Hasnine 2026)
+- [[etq-ai-conversational-teacher-training-2026]] — 증거에 기반한 대화로 교수 오해를 다루는 대화형 AI 진단 도구(Miranda & Calvani 2026)

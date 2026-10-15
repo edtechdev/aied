@@ -12,7 +12,7 @@ confidence: high
 connected_resources: [edugems, matt-pocock-skills, pedagogical-promptbook, writing-rhetoric-studies-in-the-loop]
 reviewed_by: [editor]
 translation_of: concepts/prompt-engineering
-source_updated: "2026-10-02T08:08:45-04:00"
+source_updated: "2026-10-14T11:15:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -75,6 +75,9 @@ ai_assist:
 - **Öğretmen planlaması için rol temelli şablonlar ve kalite rubrikleri.** [[luo-tahir-chatgpt-steam-lesson-planning-2026|Luo ve Tahir (2025)]], bir Rol (R) – Talimatlar (I) – Son Hedef (E) şablonunu (RISEN’den uyarlanmış) "dört nokta ve bir çizgi" optimizasyon rubriğiyle eşleyen; standart, uygulamalı, ilgi çekici ve eksiksiz, artı bir uzantı boyutu olan çocukların STEAM sanatları [[curriculum-design|ders planlaması]] için deneysel olarak bir istek metni çerçevesi geliştirir. Rubriği istek metinleri eleştirmek ve iyileştirmek için uygulamak, üretilen planları uygulayıcı sanat öğretmenleri için kabul edilebilir tutarken (4/5 üzeri ortalama puanlar) yinelenen boşlukları ortaya çıkardı ([[personalized-learning|kişiselleştirme]], [[pedagogical-safety|çocuk güvenliği]] kısıtları, kültürel önyargı) — düz tek atışlı isteme yönteminin ele almadığı boşluklar — bu da istek metni şablonlarının artı açık değerlendirme ölçütlerinin sınıf üretimi için kalite denetimi iskelesi olarak işlev gördüğünü gösterir.
 
 - **Bağımsız değişken olarak rol ve kısıt tasarımı.** [[wang-teacher-student-centered-agents-physics-2026|Wang ve ark. (2026)]], 0,3 sıcaklıkta aynı model ve platform üzerine kurulu iki ajanı karşılaştırır; tek farkları, istek metninin rolü, becerileri ve kısıtları nasıl belirttiğidir: sınırlı bir ders kitabı bilgi kaynağından yanıt veren uzman öğretmen ajanına karşı, [[misconceptions]] teşhis etmek ve kavramayı kontrol etmek için senaryolanmış empatik öğrenen merkezli bir ajan. Yalnızca rol farkı, öğrenme performansını, bilişsel yükü, akış deneyimini ve algılanan empatiyi kaydırdı; bu da rol belirtmenin ölçülebilir etkileri olan bir öğretim tasarımı kararı olduğunu, stilistik bir süs olmadığını gösterir ([[pedagogical-agent]]).
+
+- **Değerlendirme tasarımı olarak istek metni yazma.** [[ecd-prompts-automated-essay-scoring-2026|Xiong ve ark. (2026)]], Kanıt Merkezli Tasarımın (Evidence-Centered Design) öğrenen, kanıt ve görev modellerini bir puanlama istek metninin parçalarına eşler ve beş ilke — kastlılık, izlenebilirlik, hesap verebilirlik, yineleme ve eşitlik — türetir; ECD ile kurulmuş istek metinleri anlatı makalelerini sıfır atımlı (zero-shot), birkaç atımlı (few-shot) ve düşünce zinciri tabanlılarından daha isabetli puanlamıştır.
+
 ### Daha geniş kavramlarla bağlantılar
 
 İstek metni mühendisliği [[scaffolding]] ile bağlantılıdır — iyi tasarlanmış istek metinleri öğrenci düşüncesini atlatmak yerine iskeleyebilir. Etkili istek metni yazmanın hem YZ’nin yeteneklerini hem kişinin kendi öğrenme hedeflerini anlamayı gerektirmesi nedeniyle [[metacognition]] ve [[ai-literacy]] ile kesişir. [[cognitive-offloading]] araştırması, istek metni kalitesini YZ kullanımının öğrenmeyi destekleyip desteklemediğine doğrudan bağlar.
@@ -129,3 +132,4 @@ ai_assist:
 - [[llm-feedback-focus-adaptivity-student-writing-2026]] — Öğrenci Yazmasındaki LLM Üretimi Geri Bildirimde Geri Bildirim Odağı ve Pedagojik Uyarlanabilirliğin Değerlendirilmesi
 
 - [[middle-school-genai-steam-interactions-2026]] — Ortaokul STEAM grupları istek metinlerinin %47,1’inde öğretmenin talimatını aynen kopyaladı
+- [[ecd-prompts-automated-essay-scoring-2026]] — Ölçmede istek metni mühendisliğini yönlendirmek için Kanıt Merkezli Tasarımın kullanımı: otomatik makale puanlamasıyla bir örnekleme

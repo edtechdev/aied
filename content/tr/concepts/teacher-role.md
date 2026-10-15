@@ -12,7 +12,7 @@ connected_faqs: [top-10-findings-ai-education-instructors, ai-save-instructor-ti
 confidence: high
 reviewed_by: [editor]
 translation_of: concepts/teacher-role
-source_updated: "2026-10-04T10:52:53-04:00"
+source_updated: "2026-10-15T08:25:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -226,3 +226,4 @@ YZ ile akademik dürüstlük, bir denetleme problemi değil, bir *tasarım* prob
 - [[yalcin-genai-programming-education-systematic-review-2026]] — Programlama eğitiminde GenAI: öğretmen rollerinin en az incelendiği bir sistematik derleme
 - [[heutagogical-teaching-ai-enhanced-education-2026]] — Bilgi sağlayıcılardan öğrenme tasarımcılarına: YZ destekli eğitimde heutagojik öğretim uygulamaları
 - [[falhs-teacher-expertise-reflection-2025]] — Uzmanlık Düzeyleri Tercihleri ve Yansıtma İhtiyaçlarını Nasıl Şekillendirir: Öğretmen Güçlendirmesi İçin YZ Yansıtma Sistemlerine Doğru (Falhs ve ark. 2025)
+- [[etq-ai-conversational-teacher-training-2026]] — Kanıta dayalı diyalogla öğretim yanlış kanıları için konuşma YZ tanısı (Miranda ve Calvani 2026)
