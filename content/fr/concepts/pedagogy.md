@@ -78,14 +78,14 @@ Différentes stratégies pédagogiques produisent différents types et différen
 - Les **stratégies collaboratives et socioculturelles** ([[collaborative-learning|apprentissage collaboratif]], [[sociocultural-learning|apprentissage socioculturel]]) montrent des gains médiés par la qualité de l'interaction, de plus en plus étudiés avec l'IA comme partenaire ou pair.
 - Les **stratégies socratiques et fondées sur le dialogue** ([[socratic-method|méthode socratique]]) visent la pensée d'ordre supérieur et le raisonnement — des gains plus difficiles à mesurer que les gains de compétences, mais centraux pour la [[critical-thinking|pensée critique]].
 
-Le constat transversal essentiel, cohérent avec la [[research-methods-aied|recherche]] sur les [[learning-gains]] menée par la base de connaissances, est que **l'effet d'une stratégie sur l'apprentissage dépend davantage de la manière dont elle préserve l'effort de l'apprenant et la lutte productive que de l'étiquette qu'elle porte** — toute pédagogie, même une pédagogie « bonne », échoue si l'IA est configurée pour contourner le travail cognitif qu'elle était censée susciter (voir [[cognitive-offloading]], [[desirable-difficulties]]).
+Le constat transversal essentiel, cohérent avec la recherche sur les [[learning-gains]] menée par la base de connaissances, est que **l'effet d'une stratégie sur l'apprentissage dépend davantage de la manière dont elle préserve l'effort de l'apprenant et la lutte productive que de l'étiquette qu'elle porte** — toute pédagogie, même une pédagogie « bonne », échoue si l'IA est configurée pour contourner le travail cognitif qu'elle était censée susciter (voir [[cognitive-offloading]], [[desirable-difficulties]]).
 
 Cet accent mis sur l'effort préservé n'est pas absolu : une conception [[mixed-methods-research|mixte]] en quatre études (N = 912) a constaté que le fait de cadrer l'IA générative comme un partenaire pédagogique activait à la fois une vigilance critique et un délestage stratégique, le délestage au-delà d'un seuil libérant des capacités pour la réflexion d'ordre supérieur plutôt qu'il ne l'érodeait ([[wang-zhang-pedagogical-partnerships-genai-2026|Wang et Zhang (2026)]]).
 
 ## Implications pour l'IA en éducation
 
 - **Choisir la pédagogie délibérément avec l'IA :** la stratégie d'enseignement détermine si un outil d'IA soutient ou mine l'apprentissage ; l'intention pédagogique devrait donc piloter la sélection et la configuration des outils d'IA.
-- **Garder l'agency de l'apprenant au centre :** les pédagogies actives, socratiques et de [[scaffolding]] préservent la lutte productive et l'[[agency]] que l'IA peut par ailleurs éroder (voir [[cognitive-offloading]], [[desirable-difficulties]]).
+- **Garder l'agency de l'apprenant au centre :** les pédagogies actives, socratiques et de scaffolding préservent la lutte productive et l'[[agency]] que l'IA peut par ailleurs éroder (voir [[cognitive-offloading]], [[desirable-difficulties]]).
 - **Concevoir l'IA pour mettre en œuvre une bonne pédagogie :** les agents et tuteurs d'IA devraient être ancrés dans des cadres pédagogiques établis, et non dans la génération de réponses par défaut.
 - **Enseigner avec et à propos de l'IA :** les pédagogies devraient à la fois utiliser l'IA pour enseigner et apprendre aux apprenants à utiliser l'IA de manière responsable.
 
