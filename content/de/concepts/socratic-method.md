@@ -11,7 +11,7 @@ audience: [learners]
 level: [higher ed]
 confidence: high
 translation_of: concepts/socratic-method
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-15T08:25:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -94,6 +94,7 @@ Der **[[hashmi-socratic-physics-chatbot-2025|Socratic Physics Chatbot]]** liefer
 **[[syal-multimodal-dialogue-stem-2026|Multimodale Dialogsysteme]]** erweitern sokratisches Tutoring auf visuelle Bereiche und nutzen dabei ein Interventionsprotokoll ohne erneutes Training, das Modelle auffordert, zu beschreiben, zu schlussfolgern und sich selbst zu korrigieren — ein [[multimodal|multimodales]] sokratisches Scaffold.
 
 **[[retrieval-augmented-tutoring-algorithm-kite|Retrieval-gestütztes Tutoring]]** operationalisiert sokratische Prinzipien durch Retrieval und verankert jede Antwort in maßgeblichen Kursinhalten, statt sich allein auf das parametrische Wissen des Modells zu stützen — und adressiert damit die Lücke, dass pädagogische Qualität ohne Inhaltstreue nicht ausreicht.
+**Sokratisches Tutoring in der Biologielehrkräftebildung.** Ein Quasi-Experiment mit 124 angehenden Biologielehrkräften fand, dass ein ChatGPT-4-Sokratischer Tutor zu soziowissenschaftlichen Themen die Offline-Peer-Diskussion bei Argumentationsqualität übertraf (F(1,121) = 14,23, p < .001), wobei die Zugewinne sich auf Widerlegung und Gegen-Evidenz-Evaluation konzentrierten statt auf Behauptungsbildung ([[genai-socratic-tutor-biology-argumentation-2026|Ergasheva et al., 2026]]).
 
 [[lftutor-logical-fallacy-education-2026|LFTutor (Shi et al., 2026)]] wendet sokratisches Fragen auf ein Thema an, bei dem das Zurückhalten der Antwort die ganze Aufgabe ist: Laien beizubringen, den logischen Fehlschluss in einem überzeugenden Text zu erkennen, den sie für stichhaltig halten. Sein Dialogagent zerlegt das eigene Argument der lernenden Person mit dem Toulmin-Modell (Behauptung, Gründe, Schlussregel), erkennt die Absicht der lernenden Person und wählt dann genau eine von vier Strategien — Responding, Evidence, Assumption, Refutation — in einer festen Prioritätsreihenfolge aus, die die Toulmin-Struktur spiegelt, wobei ein separater Prüfagent nach der Generierung kontrolliert, ob die Antwort die gewählte Strategie tatsächlich ausgeführt hat, und sie umformuliert, wenn das nicht der Fall war. Die Evaluationsmetriken sind die sokratischen Fehlschlagmodi statt der Lernzuwächse: Abweichen vom Thema, Positionswechsel (Nachgeben gegenüber der Position der lernenden Person), Wiederholung, Scheitern der Widerlegung, Scheitern der Bitte um Belege, Strategie-Fixierung, unerklärte Fehlschluss-Terminologie und passive Lenkung. Über 1.000 simulierte Dialoge pro Rahmenwerk mit einem GPT-4o-Backend bestand LFTutor durchschnittlich 84,5% der Dialoge gegenüber 61,5% bei einem Prompt, der dieselben Fallstricke auflistete, und 31,2% bei einfachem Rollenspiel-Prompting; die Ablation zeigt, dass der Zuwachs nicht aus der Toulmin-Terminologie stammt, sondern aus verifizierter Strategieausführung und absichtsbasierter Auswahl. Bei 20 menschlichen Teilnehmenden, die mit dem Tutor diskutierten, erzielte LFTutor bei acht von neun Likert-Metriken signifikant bessere Werte, darunter Hilfsbereitschaft (4,15 gegenüber 1,65), wobei Wiederholung die einzige Dimension war, bei der der Unterschied nicht signifikant war.
 
@@ -160,3 +161,5 @@ Die sokratische Methode ist eng mit [[scaffolding|Scaffolding]] (gerade so viel 
 - [[lftutor-logical-fallacy-education-2026]] — Sokratisches Fragen plus kritische Argumentation in einem vierstufigen Rahmenwerk zum Unterrichten von Fehlschlüssen
 
 - [[guardrails-ai-teaching-assistants-programming-2026]] — Guardrails or Roadblocks? Effects of Pedagogical Style and Context Awareness in AI Teaching Assistants for Programming
+- [[genai-socratic-tutor-biology-argumentation-2026]] — Enhancing PISA-aligned argumentation skills of prospective biology teachers through generative artificial intelligence
+- [[etq-ai-conversational-teacher-training-2026]] — Conversational AI diagnostic for teaching misconceptions with evidence-grounded dialogue (Miranda & Calvani 2026)

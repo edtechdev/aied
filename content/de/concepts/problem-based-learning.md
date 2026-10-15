@@ -10,7 +10,7 @@ discipline: [medical education, engineering education]
 level: [higher ed]
 confidence: high
 translation_of: concepts/problem-based-learning
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-15T10:00:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -54,6 +54,7 @@ Die Metaanalyse auf drei Ebenen, die GenAI-unterstütztes PBL mit projektbasiert
 - **Umsetzungen in Domänen.** PBL-Rahmenwerke für [[engineering-education|Biomedizintechnik]] nutzen GenAI für Zusammenfassung und Programmierunterstützung mit Replikationspaketen ([[pbl-biomedical-engineering-genai-2026|Nnamdi et al. 2026]]); KI-gestütztes PBL steigert [[computational-thinking|computational thinking]] in [[educational-robotics|Robotik]] ([[ai-pbl-computational-thinking-2026|KI-gestütztes PBL für computational thinking]]); und GenAI-ermöglichte virtuelle Patientinnen und Patienten unterstützen Anamnesen im Tutorium ([[genai-simulate-patient-history-pbl-2026|Mool et al. 2026]]).
 - **Evidenzsynthese.** [[educators-engagement-ai-pbl-review-2026|Amdan et al. (2026)]] [[meta-analysis-systematic-review|systematisch reviewen]] 50 Studien (2015–2024) zum Engagement von Lehrenden mit KI in PBL innerhalb eines [[human-ai-collaboration|Mensch-Computer-Interaktion]]-Rahmenwerks.
 - **GenAI in szenariobasiertem PBL.** [[genai-scenario-based-healthcare-education-2026|Neto und Kollegen (2026)]] nehmen problembasiertes Lernen unter die szenariobasierten Ansätze in ihrem systematischen Review zu GenAI in der Bildungsarbeit im Gesundheitswesen auf und finden, dass [[prompt-engineering|Promptdesign]] als Instruktionsspezifikation funktioniert und dass hybride Mensch-KI-Kollaboration vollautomatische Ansätze übertrifft. Der Review betont die Notwendigkeit stärkerer Ausrichtung erzeugter Inhalte an Instruktionsrahmenwerken und reproduzierbarerer Prompting-Praktiken in PBL-Kontexten.
+- **KI kann die Wissensvermittlung der Tutorin oder des Tutors tragen, aber nicht die soziale Regulation des Gruppenlernens.** In einem vierwöchigen pharmakologischen Quasi-Experiment fanden [[facilitator-vs-ai-mediated-pbl-pharmacology-2026|Shetty & Rao (2026)]], dass KI-vermitteltes PBL die akademischen Zugewinne von durch Facilitator:innen geleitetem PBL erreichte (Zwischengruppen-p = 0,474), während von Facilitator:innen geleitete Gruppen Vorteile in Gruppendynamik (26,51 gegenüber 24,74, p = 0,035) und kritischem Denken (14,75 gegenüber 13,09, p < 0,001) behielten.
 
 ## PBL gegenüber verwandten Pädagogiken
 
@@ -103,3 +104,4 @@ Weil PBL Prozess, Kollaboration und demonstriertes Verstehen gegenüber Artefakt
 - [[rhaimi-productivemath-2025]] — ProductiveMath: AI to Support PF Problem Design
 - [[genai-scenario-based-healthcare-education-2026]] — Systematic review of GenAI in scenario-based healthcare education (Neto et al. 2026)
 - [[chen-osman-preservice-physics-tpack-ctd-pbl-2026]] — AI-supported CTD-PBL module with 130 pre-service physics teachers: TPACK and collaborative problem solving (Chen & Osman 2026)
+- [[facilitator-vs-ai-mediated-pbl-pharmacology-2026]] — Facilitator-Mediated Versus AI-Mediated Problem-Based Learning in Pharmacology Education: A Quasi-Experimental Study Among Second Year Medical Students

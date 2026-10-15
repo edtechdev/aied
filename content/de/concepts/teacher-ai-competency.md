@@ -13,7 +13,7 @@ level: [k 12, higher ed]
 confidence: high
 connected_resources: [claw-ed, edugems, playlab, teacherserver]
 translation_of: concepts/teacher-ai-competency
-source_updated: "2026-10-09T08:42:12-04:00"
+source_updated: "2026-10-15T10:00:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -99,6 +99,7 @@ Ein designbasiertes Gegenbeispiel behandelt Kompetenz als situativ statt als Spr
 - **Metaanalytische Schätzung.** [[teacher-ai-literacy-professional-development-meta-2026|Guo et al. (2026)]] poolten 212 Effektstärken aus 34 Studien und schätzen PD zur KI-Kompetenz von Lehrkräften auf g = 0.76 (95%-KI [0.50, 1.02]), am stärksten für Fähigkeiten (g = 0.91) und am schwächsten für Haltungen und Werte (g = 0.61); die Korrektur für scheinbare Publikationsauswahl senkt die Schätzung auf etwa g = 0.49.
 - **Anwesenheit sagt Zuwächse voraus, wo das Gefühl der Teilnahme es nicht tut.** In demselben sechsmonatigen Programm sagte die Anwesenheitsquote den Kompetenzzuwachs voraus (β = .407, p = .001), während selbst wahrgenommene Teilnahme es nicht tat (β = .049, p = .692), und Disziplin, Lehrerfahrung und Berufstitel erklärten wenig; die Autoren lesen Anwesenheit als Verhaltensinvestition und wahrgenommene Teilnahme als oberflächliches Engagement ([[intelligent-tpack-pd-intervention-hongkong-2025|Tan, Cheng & Ling, 2025]]).
 - **Werte hinken Fähigkeiten auch in einem domänenspezifischen Programm hinterher.** In einem einjährigen Hongkonger Programm mit 30 Englisch-Lehrkräften stieg das Wissen über multimodale Assessmentstrategien von 3.13 auf 4.15 von 5 (partielles η² = 0.571) und die Kompetenz im Unterstützen von Lernenden von 3.05 auf 3.98 (0.482), beide signifikant, während jede Wert-Subdomäne unter einem Bonferroni-korrigierten Alpha von .006 statistisch flach blieb. Die Lehrkräfte schrieben die Zuwächse der Co-Planung in der Schule und den schulübergreifenden Clustertreffen zu statt den Workshops allein ([[multimodal-assessment-literacy-l2-teachers-genai-2026|Jiang et al., 2026]]).
+- **Microlearning kann die KI-Kompetenz von Universitätslehrenden entwickeln.** [[microlearning-ai-modules-vocational-teacher-education-2026|Cechovsky (2026)]] verfeinerte zwei Module der Berufsbildung über zwei Online-Gruppendiskussionen hinweg zu fünf Designprinzipien — klare Struktur und Orientierung, Anleitung und Navigationsunterstützung, Segmentierung und Modularisierung, multimodale Präsentation und Lernendenaktivierung —, und fand Plattformnavigation und das Auffinden der Module als die wichtigsten praktischen Barrieren.
 
 ## KI-Kompetenz von Lehrkräften und die sich verwandelnde Rolle der Lehrkraft
 
@@ -191,3 +192,4 @@ Die Instrumentenlandschaft selbst ist inzwischen reviewt worden. [[assessing-tea
 - [[capability-decision-model-teacher-readiness-2026]] — Ordered capability-first teacher readiness model with performance-based capability indicators
 - [[k12-teachers-genai-beliefs-five-countries-2026]] — Cross-national survey of 1,405 K-12 teachers: readiness predicts positive beliefs but not concern
 - [[teachers-ai-belief-profiles-talis-2024-2026]] — Four TALIS 2024 teacher belief profiles link professional learning and profile-specific barriers to AI use
+- [[microlearning-ai-modules-vocational-teacher-education-2026]] — Designing Microlearning Modules on AI for University Teachers in Vocational Teacher Education: A Design-Based Research Study

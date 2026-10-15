@@ -10,7 +10,7 @@ discipline: [cs education, math education, physics education]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/stem-education
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-15T08:25:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -115,3 +115,4 @@ Eine konzentrierte Charge von Studien aus dem Jahr 2026 in der *International Jo
 - [[simulation-assisted-drone-learning-stem-2026]] — Simulationsgestütztes Drohnenlernen mit von Lehrkraft und KI mitgestalteten Gerüsten
 - [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
 - [[ai-supported-instruction-stem-meta-analysis-2026]] — Gepoolter Effekt KI-unterstützter MINT-Instruktion über 35 Studien, mit den größten Gewinnen in der Oberstufe (Doğan et al. 2026)
+- [[hallstrom-ai-literacy-stem-education-frontiers-2026]] — Synthesis of the ten most-cited studies of AI literacy in STEM education (Hallström et al. 2026)

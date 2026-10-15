@@ -12,7 +12,7 @@ level: [higher ed]
 confidence: high
 connected_resources: [edugems, matt-pocock-skills, pedagogical-promptbook, writing-rhetoric-studies-in-the-loop]
 translation_of: concepts/prompt-engineering
-source_updated: "2026-10-02T08:08:45-04:00"
+source_updated: "2026-10-14T11:15:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -73,6 +73,7 @@ Prompt Engineering ist zentral für den wirksamen Einsatz [[generative-ai|genera
 - **Kontextbewusstes Prompting für Assessment.** Kontextbewusstes Prompting vortrainierter Sprachmodelle automatisiert das Kodieren von Fähigkeiten [[collaborative-learning|kollaborativen Problemlösens]] aus Prozessdaten, modelliert Abhängigkeiten zwischen Verhaltenscodes und verschmilzt kognitive und soziale Fähigkeiten. Das ermöglicht strukturierte CPS-Analyse im Maßstab und in Echtzeit und überwindet die Arbeitsintensität manueller Kodierschemata.
 - **Rollenbasierte Vorlagen und Qualitätsrubriken für Lehrplanung.** [[luo-tahir-chatgpt-steam-lesson-planning-2026|Luo und Tahir (2025)]] entwickeln empirisch ein Prompt-Rahmenwerk für [[curriculum-design|Unterrichtsplanung]] in Kinder-STEAM-Kunst, das eine Role (R) – Instructions (I) – End Goal (E)-Vorlage (adaptiert aus RISEN) mit einer „vier Punkte und eine Linie“-Optimierungsrubrik paart — standardisiert, praktisch, ansprechend und vollständig, plus eine Erweiterungsdimension. Das Anwenden der Rubrik, um Prompts zu kritisieren und zu verfeinern, hielt erzeugte Pläne für praktizierende Kunstlehrende akzeptabel (mittlere Bewertungen über 4/5) und legte dabei wiederkehrende Lücken offen ([[personalized-learning|Personalisierung]], [[pedagogical-safety|Kindersicherheits-]]Randbedingungen, kultureller Bias), die schlichtes One-Shot-Prompting unadressiert ließ —, und zeigt damit, dass Prompt-Vorlagen plus explizite Bewertungskriterien als Qualitätskontroll-Stützung für Erzeugung im Kursraum funktionieren.
 - **Rollen- und Randbedingungsdesign als unabhängige Variable.** [[wang-teacher-student-centered-agents-physics-2026|Wang et al. (2026)]] vergleichen zwei Agenten, die auf demselben Modell und derselben Plattform bei Temperatur 0.3 gebaut sind und deren einziger Unterschied ist, wie der Prompt Rolle, Fähigkeiten und Randbedingungen spezifiziert: ein Expertenlehrkraft-Agent, der aus einer begrenzten Schulbuch-Wissensquelle antwortet, gegenüber einem empathischen, lernendenzentrierten Agenten, der skriptgesteuert [[misconceptions|Missverständnisse]] diagnostiziert und Verständnis prüft. Der Rollenunterschied allein verschob Lernleistung, kognitive Last, Flusserleben und wahrgenommene Empathie und zeigt damit, dass Rollenspezifikation eine Instruktionsdesign-Entscheidung mit messbaren Wirkungen ist statt eine stilistische Schnörkelei ([[pedagogical-agent|pädagogischer Agent]]).
+- **Prompting als Assessmentdesign.** [[ecd-prompts-automated-essay-scoring-2026|Xiong et al. (2026)]] bilden die Studierenden-, Evidenz- und Aufgabenmodelle des Evidence-Centered Design auf die Teile eines Bewertungs-Prompts ab und leiten fünf Prinzipien ab — Intentionalität, Nachvollziehbarkeit, Rechenschaftspflicht, Iteration und Gerechtigkeit; ihre ECD-gebauten Prompts erzielten bei Erzählaufsätzen höhere Genauigkeit als Zero-Shot-, Few-Shot- und Chain-of-Thought-Baselines.
 
 ### Verbindungen zu weiteren Konzepten
 
@@ -131,3 +132,5 @@ Prompt Engineering verbindet sich mit [[scaffolding|Scaffolding]] — gut gestal
 - [[llm-feedback-focus-adaptivity-student-writing-2026]] — Evaluating Feedback Focus and Pedagogical Adaptivity in LLM-Generated Feedback on Student Writing
 
 - [[middle-school-genai-steam-interactions-2026]] — Middle-school STEAM groups copied the instructor's instruction verbatim in 47.1% of prompts
+
+- [[ecd-prompts-automated-essay-scoring-2026]] — Using Evidence-Centered Design to Guide Prompt Engineering in Measurement: An Illustration with Automated Essay Scoring
