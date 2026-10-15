@@ -11,13 +11,17 @@ technology: [intelligent-tutoring]
 assessment: [feedback]
 confidence: high
 translation_of: concepts/scaffolding
-source_updated: "2026-10-06T18:35:00-04:00"
+source_updated: "2026-10-13T11:05:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"
+    agent: hermes-agent
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-14"
     agent: hermes-agent
 ---
 
@@ -42,6 +46,7 @@ ai_assist:
 - **面向学习者无法命名的缺口的混合主动脚手架：** [[veriforge-narrative-drafting-scaffolding-2026|Sun et al.（2026）]]让写作者始终掌控叙事综合，系统只在领域发现上采取主动，主动标记写作者无法表述为查询的知识缺口。
 - **苏格拉底式脚手架：** [[socratic-method|苏格拉底式 AI 对话]]不直接给出答案，用问题引导发现——这是 [[desirable-difficulties]] 脚手架的一种形式。作为边界条件，提问在起始处有帮助但随深入而衰减，于是撤除规则从"引出"转向"处理错误"：收益从起始处的 20 点优势降到第四次卡壳回合的 3 点，而处理错误则从 +5 升至 +12（[[guided-ai-tutor-impasse-resolution-2026|Ahtisham et al.（2026）]]）。
 - **自适应撤除：** [[intelligent-tutoring|智能导师系统]]依 [[knowledge-tracing]] 估计调整脚手架，对未掌握的概念给更多支持，对已知的更少。
+- **决定何为成功的是功能，而非工具：** [[vasileiou-ai-cognitive-scaffolding-executive-functioning-sen-2026|Vasileiou 等（2026）]]为特殊教育中的 AI 支持提出了一个三功能框架。*补偿*降低一项执行性要求，使学习者得以参与（成功 = 在支持仍在时获得可及性）。*脚手架*支持略高于当前能力的表现（成功 = 在有针对性协助下做出决策）。*发展*建构无需该工具即可使用的策略（成功 = 撤除或迁移后的策略使用）。每项功能都带有一套不同的评价标准，而该领域反复出现的错误，是把支持期间的任务完成报告为发展。这是一篇带诠释性类别的叙述性综述，而非合并效应估计。
 - **[[medical-education|临床]]问诊训练中由需求触发的自适应脚手架：** MeduAI-SP [[rct|随机试验]]（[[ai-standardized-patient-scaffolding-medical-2026|Yang et al.，2026]]；N = 100 名三年级医学生）把脚手架操作化为自适应的、由需求触发的支持：一个回合级评估智能体在学习者卡住、遗漏关键病史、有过早收束风险或损害融洽关系时打标记，只有在此时，一个 [[pedagogical-agent|导师智能体]]才发出 [[socratic-method|苏格拉底式]]提示。对 207 次问诊的专家标注显示，脚手架需求强烈依赖阶段，从问诊早期占学生话语的约 16.1% 升至晚期的 34.8%（整体标记 24.1%）——这是经验证据，说明新手问诊支持最需要于信息整合与诊断推理期间，而非初始信息收集。脚手架条件在最终与 OSCE 对齐的 [[summative-assessment|考试]]上优于结构化渐进披露对照（71.8% 对 55.6%；β = 16.4 个百分点；P = 3.30e-4），沟通方面的增益最大（Hedges' g = −0.79）。
 - **提示系统：** [[correct-answer-trap-ai-tutor|AI 导师提示研究]]考察提示何时有帮助、何时助长 [[cognitive-offloading|过度依赖]]。
 

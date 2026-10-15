@@ -12,13 +12,17 @@ audience: [learners]
 level: [higher ed]
 confidence: high
 translation_of: concepts/socratic-method
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-13T09:18:19-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"
+    agent: hermes-agent
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-14"
     agent: hermes-agent
 ---
 
@@ -94,6 +98,8 @@ ai_assist:
 
 **[[retrieval-augmented-tutoring-algorithm-kite|检索增强辅导]]**通过检索操作化苏格拉底原则，把每一条回应锚定在权威的课程内容上，而非仅依赖模型的参数化知识——以此应对"没有内容保真度、单靠教学质量是不够的"这一缺口。
 
+**生物学教师培养中的苏格拉底式辅导。**一项对 124 名职前生物学教师的准实验发现，在社会性科学议题上，ChatGPT-4 苏格拉底辅导在论证质量上胜过线下同侪讨论（F(1,121) = 14.23, p < .001），其增益集中于反驳与反证据评估，而非主张的形成（[[genai-socratic-tutor-biology-argumentation-2026|Ergasheva 等人，2026]]）。
+
 [[lftutor-logical-fallacy-education-2026|LFTutor（Shi等人，2026）]]把苏格拉底式提问应用于一个"不给答案即是全部任务"的学科：教普通人看穿一段他们认为有说服力却有效的文本中的逻辑谬误。它的对话智能体用Toulmin模型（主张、依据、正当理由）分解学习者自己的论证，检测学习者的意图，然后按固定优先级顺序——与Toulmin结构相对应——恰好选择四种策略之一：回应、证据、假设、反驳；另有一个独立的验证智能体在生成后检查回复是否真正执行了所选策略，并在未执行时改写它。其评估指标是苏格拉底式的失败模式，而非学习增益：偏离话题、立场转变（迁就学习者的立场）、重复、反驳失败、索取证据失败、策略固着、未解释的谬误术语，以及被动式引导。在以GPT-4o为骨干、每个框架1,000次模拟对话下，LFTutor平均通过84.5%的对话，对照一个列出同样陷阱的提示的61.5%与纯角色扮演提示的31.2%；消融实验表明增益不来自Toulmin词汇，而来自经验证的策略执行与基于意图的选择。在与导师辩论的20名人类参与者中，LFTutor在九项Likert指标中的八项上显著更优，包括有用性（4.15 对 1.65），只有重复这一维度差异不显著。
 
 设闸可以使"不给答案"可强制执行，而非只作姿态：Prober.ai把一个LLM约束为只提探究式问题，并且只有学生写出一份通过反思门槛的辩护之后，才释放一条具体的修改建议；当辩护单薄时，它返回的是一句辅导性的推动（[[prober-ai-inquiry-writing|Bi、Wei 与 Zhou（2026）]]）。
@@ -156,3 +162,4 @@ Favero等人（2025）提醒说，即便是苏格拉底式AI，如果学生变�
 - [[lftutor-logical-fallacy-education-2026]] — 苏格拉底式提问加批判性论证：四步谬误辅导框架
 
 - [[guardrails-ai-teaching-assistants-programming-2026]] — Guardrails or Roadblocks? Effects of Pedagogical Style and Context Awareness in AI Teaching Assistants for Programming
+- [[genai-socratic-tutor-biology-argumentation-2026]] — 通过生成式人工智能提升职前生物学教师的 PISA 对齐论证技能

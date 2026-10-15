@@ -12,13 +12,17 @@ confidence: high
 connected_faqs: [asynchronous-online-courses-ai]
 methods: [ai-ed-evaluation]
 translation_of: concepts/learning-analytics
-source_updated: "2026-10-07T09:45:00-04:00"
+source_updated: "2026-10-13T11:05:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"
+    agent: hermes-agent
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-14"
     agent: hermes-agent
 ---
 
@@ -81,6 +85,7 @@ ai_assist:
 
 - **自导向行为的序列 + 马尔可夫链分析。**[[an-goel-self-directed-modeling-2026|An、Hammock 与 Goel（2025）]]把活动序列分析、层次聚类与马尔可夫链模型结合在 315 名在线学习者（他们在 VERA 中构建了 822 个生态模型）的点击流上，把九个细粒度的、基于转移的行为簇蒸馏为三个更广的模式（观察、建构、探索）。他们的工作证明，序列分析与马尔可夫链建模结合，可以在完全没有人口或情境数据的[[self-directed-learning|自导向]]任务中发现有意义的行为。
 - **LA 与生成式 AI 以不同方式塑造学习设计（2026）。**[[claassen-learning-analytics-genai-learning-design-2026|Claassen 等人（2026）]]用 ENA 比较 11 个教师焦点小组中学习分析与[[generative-ai]]如何影响[[learning-design]]决策。LA 的讨论集中于情境信息、课程级设计与创造性[[problem-solving]]（LA 用于诊断投入与定位支持），而生成式 AI 的讨论集中于[[assessment|评估设计]]与面向学生[[self-determination-theory|自我决定]]的设计（生成式 AI 用于构思与评估开发）。情境与[[creativity]]在两者中都是核心——提醒分析只在[[pedagogy|教学]]语境与教师自主之内为设计提供信息。
+- **行为痕迹不是认知状态的度量——对特殊需要学习者尤其如此。** [[vasileiou-ai-cognitive-scaffolding-executive-functioning-sen-2026|Vasileiou 等人（2026）]] 警告说，交互痕迹（任务时间、重复错误、求助、不规律的进度）可以帮助教师定位学习者需要支持之处，但并不是内部状态的透明度量：反应迟缓可能反映仔细思考、语言加工、分心、不可及的设计或技术困难。"算法不应仅凭行为数据推断执行功能缺陷或诊断状态"——分析作为专业评估和与学习者对话中的一种信息来源才是站得住脚的。
 - **设计分析：挖掘计划的活动序列而非痕迹（2026）。**[[learning-paths-patterns-learning-design-2026|Divjak、Svetec 与 Horvat（2026）]]把马尔可夫链与序列模式挖掘应用于一个开放学习设计工具中 554 门课程计划的 29,064 项教与学活动的*设计*序列。转移矩阵在评估到讨论处达到峰值（0.332），自转移主导练习（0.317）与习得（0.292），最强的连续规则是习得到评估到练习到练习（置信度 0.743，提升度 1.449），而最频繁的四步路径是习得、练习、练习、评估（120 次出现）。讨论与评估是最可达的类型，而生产最远且最零散。该研究提醒，学习分析不必始于 LMS 痕迹：设计时数据可以在任何学生到来之前暴露一门课程的教学语法，尽管作者强调与翻转、探究本位或[[project-based-learning|项目本位]]设计的相似并非意图的证据。
 - **自我解释的蒸馏 LLM（2026）：**一个两阶段管线把一个黑箱学习分析估计器及其事后解释蒸馏成一个小的、开放权重的[[llm]]，它同时返回个体级估计与自然语言解释。一项忠实性优先的审计评估叙述是否与它们所描述的归因匹配；[[simulation]]显示近乎无损的恢复（r > .90），以一位先知导师（oracle mentor）为前提，为分析提供了一条更透明、可部署的路径（[[distilling-self-explaining-lm-learning-analytics-2026]]）。
 - **LA 本位教育干预的使能者（2026）。**[[learning-analytics-to-educational-interventions-2026|Svetec、Divjak 与 Kadoić（2026）]]经 Delphi + AHP + SNAP 识别并排序了可信 LA 本位教育干预的七个使能者：[[governance|机构]]战略取向、教学性及其他[[research-methods-aied|研究]]基础、可用资源、教学性支持、伦理与数据治理、利益相关者参与与质量保证。机构战略取向排名最高（且对其他使能者影响最大），可用资源次之。[[trust|可信性]]（伦理合规、透明/无偏见算法、教学有效性）被框定为前提，缺此则 LA 本位干预无意义。
@@ -96,6 +101,8 @@ ai_assist:
 学习分析连接到[[knowledge-tracing]]（核心分析）、[[formative-assessment]]（分析驱动的评估）、[[student-modeling]]（分析所填充的学习者表征）、[[privacy]]（[[ethics|伦理]]约束）与[[edtech-platform]]（分析的部署处）。由于规定性分析日益在[[simulating-students|模拟学习者]]上被评估——合成学生队列在受控测试中替代真实队列——学习分析也连接到学生模拟。
 
 - **仪表盘使什么可见，决定教师对什么行动。**[[ai-supported-lecturer-decision-making-2026|Köroğlu 等人（2026）]]综述了 27 项实证研究（2016–2025），跨八种决策类型建立了 AI 支持的讲师决策的社会技术分类法：教学、课程、评估、反馈、学习环境、情感、行政与伦理。学习分析仪表盘是最常被报告的系统，而编码显示支持集中于行为文本与日志数据能告知的教学、反馈与评估决策上，而情感、伦理、课程与学习环境决策很少被支持。作者把这解读为一种注意效应而非能力限制：因为系统使行为学生数据可见且可操作，动机、[[metacognition]]、情感与环境关注就落在数据邀请讲师考虑的范围之外。
+
+- **学习系统壁垒：日志数据无法跨平台泛化。** MATHia、i-Ready 与 IXL 即便对"一次尝试""一条提示"这类基本构念也各有不同的定义，因此模型无法在它们之间迁移。一项进行中的工作从视频一侧回应这个问题：一条 Gemini 管线把辅导屏幕录制蒸馏为单一剧本式转录，并与原生的 MATHia 日志对齐作为真值。视频能恢复而任何单一数据流都做不到的东西：白板支架、外部工具中静默的计算器工作，以及被原生日志归为"无所事事"的屏幕外情境。开放的挑战仍在于时间锚定、时钟漂移，以及把平台事件与其他学习过程分离开。（[[thomas-breaking-learning-system-wall-2026]]）
 
 过程级仪表化是描述层向下的下一步。[[pulla-parsons-problem-tool-2026|Prol 等人（2026）]]扩展了一个[[open-source|开源]] Parsons 问题平台，把每一次块的放置、移除与提交记录为时序痕迹，把每次提交与逐块正确性着色和尝试历史配对，并可选地把痕迹穿过一个为教师审阅标记复发困难模式的[[llm]]管线。在 68 名高年级 Java 软件设计课学生与 36 名 Python 入门课学生的分析中，浮现出同样的三个困难——选错异常类型、用 `return` 替代 `throw`、控制流顺序错误——这些是正确性与尝试计数无法暴露的，因为它们回答的是*安排是否正确*而非*过程是什么*。AI 充当[[teacher-role|教师]]的解释者而非学生的评分者，其输出被框定为关于一个班级困难的可审阅假设，而非一个分数。
 
@@ -154,3 +161,4 @@ ai_assist:
 - [[edtech-privacy-deferral-2026]] — "We'll Fix It Later": Education, AI, and the Deferral of Student Privacy in EdTech
 - [[synthetic-educational-data-structural-fidelity-2026]] — What Fidelity Metrics Miss: 对合成教育数据的结构检查
 - [[akcapinar-ai-cheating-risk-lms-prediction-2026]] — Akçapınar（2026）—— 从学期早期 LMS 痕迹预测 AI 辅助作弊风险（AUC 0.763）
+- [[thomas-breaking-learning-system-wall-2026]] — 迈向以多模态辅导转录打破学习系统壁垒（Thomas 等人 2026）

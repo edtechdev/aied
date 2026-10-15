@@ -12,13 +12,17 @@ confidence: medium
 methods: [benchmark]
 ethics: [pedagogical-safety]
 translation_of: concepts/human-in-the-loop-ai
-source_updated: "2026-10-03T03:00:33-04:00"
+source_updated: "2026-10-14T11:15:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"
+    agent: hermes-agent
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-14"
     agent: hermes-agent
 ---
 
@@ -75,6 +79,7 @@ Kim、Baek 与 Kwak（2026）通过 **PedaCo**（Pedagogical Co-creation，教�
 人在回路设计因若干相互汇合的原因，已成为本知识库 [[agentic-ai|智能体式 AI]] 与 [[reducing-ai-misuse|负责任 AI 使用]] 讨论的核心：
 - **教学性安全。** [[pedagogical-safety|教学性安全]] 要求拥有真实教学权威的 AI 保留人类监督，使错误、偏见或有害输出在到达学习者之前被抓住。这对 [[agentic-ai|主动追求目标]] 的自主智能体尤其重要。
 - **监督在实践中罕见，而不只是在理论上。** [[agentic-ai-education-scoping-review|Wang 等人（2026）]] 发现，在 474 个教育智能体式 AI 系统中，稳健的内嵌治理与人在回路监督极少出现，即使单任务自主性与多智能体协作在增长 —— 设计原则与部署实践之间的落差。
+- **关键问题是如何让回路可操作，而非人类参与多少。** 学习科学的观点认为，围绕数据捕捉、计算性解释与可能回应来组织学习，会使教学行动取决于系统能检测并作用于什么，且警示与参与分类在任何教师或学生行动之前就解释着学习者（[[in-the-loop-educational-ai-learning-sciences-2026|Pande（2026）]]）。
 - **效度与质量控制。** HITL 是 [[automated-assessment|自动化评估]] 与生成的质量闸门 —— 人在自动评分不可靠之处裁决（见 [[llms-do-not-grade-essays-like-humans-2026|大语言模型作文评分]] [[research-methods-aied|研究]]）并验证生成的题目。一项对 42 项评分与反馈研究（2023—2025）的 PRISMA 引导 [[meta-analysis-systematic-review|系统综述]] 明确得出同样结论：大语言模型在简短、结构良好的任务上与人类评分者相当，但无法在复杂、开放式或主观的工作上完全取代人类判断，而最高效的评分效果在把 AI 驱动评分与教师监督和验证结合起来的混合系统中达成（[[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]）。[[falahat-chatgpt-grading-pharmacy-exams-2026|Falahat 等人（2026）]] 具体展示了边界落于何处：ChatGPT-5 在客观药学考试题上与教师相当（CCC 0.935–1.000），但在简答与论述题上即便给了量规也并不可靠，使作者建议对复杂、主观或高风险的评估采用含人工审查的混合评分。
  重复并不构成那种监督的替代：在五个不同日子对完全相同的提交重新评分，同一模型只在 Krippendorff's alpha 0.625 上复现自身结果，变异集中于中间分数段，A 与 F 在五次数目中缺席（[[llm-grading-assistants-public-health-2026|Brevik 等人（2026）]]）。
 - **学习者能动性。** 把人留在回路中保住 [[agency|能动性]] 并支持 [[self-regulated-learning|自我调节学习]]，对抗完全自主辅助可能诱发的 [[cognitive-offloading|过度依赖]]。
@@ -161,3 +166,4 @@ Kim、Baek 与 Kwak（2026）通过 **PedaCo**（Pedagogical Co-creation，教�
 - [[llm-grading-assistants-public-health-2026]] — 相同大语言模型评分在不同日子的重跑只在 Krippendorff's alpha 0.625 上复现
 - [[when-students-prefer-ai-scoring-feedback-2026]] — 本科生对高风险工作偏好人工评分，并把 AI 当助手而非替代
 - [[student-query-demand-hybrid-ai-support-2026]] — 学生实际问什么：混合支持系统中的需求结构与自动化潜力
+- [[in-the-loop-educational-ai-learning-sciences-2026]] — 重思教育 AI 中的“人在回路”方法：学习科学的视角

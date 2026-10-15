@@ -1,7 +1,6 @@
 ---
 title: 创造力
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-10-09T18:39:21-04:00"
 type: concept
 foundations: [critical-thinking, design-thinking]
 pedagogy: [constructivist, problem-solving]
@@ -9,14 +8,19 @@ technology: [generative-ai]
 audience: [learners]
 confidence: high
 discipline: [cs education, math education, writing education]
+reviewed_by: [editor]
 translation_of: concepts/creativity
-source_updated: "2026-09-30T12:20:22-04:00"
+source_updated: "2026-10-13T04:43:42-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"
+    agent: hermes-agent
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-14"
     agent: hermes-agent
 ---
 
@@ -46,6 +50,7 @@ ai_assist:
 - **共创是一种网络效应，而非个体特质：**[[trikonet-trivalence-co-creativity-2026|Ruhland（2026）]]借行动者网络理论把创造力建模为社会技术网络的涌现属性——人类与非人类行动者之间稳定化、去稳定化与再稳定化的三元互动，其中[[generative-ai|生成式 AI]]智能体被当作平等的、构成性的网络参与者。在一项[[pedagogy|教学性]]化身在创造性网络中被共同设计的研究里，化身设计不是个体的创造行为，而是经学生、[[research-methods-aied|研究者]]与设计工具之间的转译过程涌现的。TriKoNet 框定了现成 AI 化身把创造[[agency]]移向机器诱导的便利（"便利陷阱"）的风险，并论证与[[learners|学习者]]共同构成 AI 的行动结构才能保存共创。
 
 - **先思考的协作维持独立创造力：**Wong 与 Qiu（2026）发现，在用 ChatGPT *之前*生成自己想法的学生（"先思考，后 ChatGPT"协议）在受助任务上没有即时提升，却在之后的无人协助创造力任务上胜过自由 AI 组与人—组。自由使用 ChatGPT 只产生瞬时的表现，协助撤除即崩塌——一种[[cognitive-offloading|过度依赖]]而非学习——而旨在改进自己*想法*的协作性[[human-ai-collaboration|共创]]在独立创造力上产生持久增益。这给了直接实验证据：保护创造能动性不仅可欲，而且是把 AI 协助的工作转化为学习的东西。
+- **区分儿童 AI 辅助创造力的是发展性实现，而非能力。**在儿童与成人和 ChatGPT 共创的首个神经影像比较中，6–7 岁儿童与成人在一台 MRI 扫描仪内进行了同样五分钟的口语对话。扫描仪外测量的创造力在两组之间没有差异。然而成人在额顶控制、显著性及背侧注意网络内表现出显著更强的网络内连接性，且更高的创造力预测了成人的额顶—显著性耦合更强，儿童则不然。作者把这解读为 AI 对话中创造性认知如何被*实现*上的差异，而非基线能力的差异。它也提出了本页支架建议此前不必回答的一个问题：AI 辅助创造性工作所调用的控制机制究竟何时成熟？（[[horowitz-kraus-children-chatgpt-cognitive-control-2026|Horowitz-Kraus 等人（2026）]]）
 
 来自研究生研究的一个反证：在 1,157 名中国研究生中，[[generative-ai|生成式 AI]]依赖与自报的研究创造力正相关，对功能性的、任务导向的依赖（β = 0.457）远强于存在性依赖（β = 0.147），且[[critical-thinking|批判性思维]]承担了功能路径约 85.0%（[[genai-dependence-research-creativity-2026|Yin 等人（2026）]]）。
 
@@ -63,6 +68,8 @@ ai_assist:
 - **数学 —— 教师创造力随内容知识与教学知识而移动。**在一项对来自农村与资源不足地区的八名在职教师的嵌入式个案研究中，一个基于 Rhodes 4P 框架的、生成式 AI 引导的十个互动模块程序，把教师对数学创造力（MC）、内容知识（CK）与教学内容知识（PCK）作为相互关联的推理形式来调动，而非分开的领域（[[bicer-genai-pd-math-creativity-2026]]）。本页测量讨论所需的贡献是作者的主张：MC 并不独立于教师的数学知识及其关于如何使想法可及的知识而发展——且正是 AI 不带评判、非评价性的语气，使生产性挣扎感到足够安全而被尝试。
 - **创造性计算 —— 保护迭代的摩擦。**新手创造性编码者通过理解并扩展"基础范例"来学习，AI 能帮助性地支架它，也能诱人地绕过它。Flowcode 是一个 AI 驱动的创造性计算环境，把代码结构[[visualization|流程图]]与面向学习的聊天及刻意设计的摩擦配对——在两项研究中被显示能把 AI 使用引向理解与扩展代码，而非围绕它[[vibe-coding|感觉编程]]（[[flowcode-ai-creative-coding]]）。这里生产性困难是一个保存学习者生成回路的功能。
 - **文学创作 —— 主题与文本之间的单位。**[[incipit-axiom-grounded-scaffolding-literary-creation-2026|Incipit]]论证一部作品由*陈述的前提*而非主题组织，并在一个中间层级上建构——1,455 条公理记录横跨 149 部作品，由 472 个有类型的关系连接——在此层级上，一位在修改配置的写作者可以改变一个组织性承诺，一位读者可以为一次重构辩护，一位批评者可以比较两部作品。它自己的审计锐化了上面的测量要点：工件记录了一次策展，1,455 条公理中有 1,448 条恰好映射到一部作品，且提出的验证（五名评分者对 35 条记录的样本）尚未进行，因此该框架是一个研究纲领，而非关于创造学习的证据。
+
+- **一个生成式 AI 设计工作流能在表现持稳时降低创造自信。**在一项 36 名学生的建筑设计比较中，生成式 AI 图像生成在设计表现、认知负荷与任务特定创造自我效能上与先例检索相当，然而*一般*创造自我效能下降（DiD = −0.543，95% CI [−1.068, −0.017]）——任务支持与对自己创造力的自信可以分道而行（[[caeai-genai-architectural-design-creative-self-efficacy-2026|Xiao 等人（2026）]]）。
 
 ### 把创造力付诸实践
 
@@ -95,6 +102,7 @@ ai_assist:
 
 ## 关联文章
 
+- [[caeai-genai-architectural-design-creative-self-efficacy-2026]] — 生成式 AI 图像生成使设计表现不变却降低了一般创造自我效能
 - [[bicer-genai-pd-math-creativity-2026]] — 生成式 AI 引导的专业发展如何支持教师对数学创造力、内容知识与教学内容知识的投入
 - [[incipit-axiom-grounded-scaffolding-literary-creation-2026]] — 面向文学创作的公理锚定支架：前提作为主题与文本之间的单位，仅在计划中验证（Liu & Zhao 2026）
 - [[jin-emergent-learner-agency-implicit-hai-2026]] — 隐式人—AI 协作中的涌现学习者能动性：支持性对对立人格
@@ -107,4 +115,5 @@ ai_assist:
 - [[genai-creativity-k12-scoping-review-2026]] — 对 45 项 K–12 研究的 PRISMA 范围综述：生成式 AI 用于创造力的四种用途、同质化与测量缺口
 
 - [[genai-dependence-research-creativity-2026]] — 功能性与存在性生成式 AI 依赖与 1,157 名研究生的研究创造力
+- [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] — 创造力相当、神经投入分化：儿童与成人在 fMRI 扫描仪中同 ChatGPT 对话
 - [[ai-dependence-creativity-motivation-literacy-2026]] — AI 依赖与四种使用动机与自报创造力分道相关（Hou 等人 2026）

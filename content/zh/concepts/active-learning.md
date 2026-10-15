@@ -11,13 +11,17 @@ level: [higher ed, k 12]
 confidence: high
 connected_resources: [education-agent-skills]
 translation_of: concepts/active-learning
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-13T11:05:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"
+    agent: hermes-agent
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-14"
     agent: hermes-agent
 ---
 
@@ -50,6 +54,7 @@ AI 赋能的主动学习在本知识库中以多种形式呈现：让学生参�
 - **用于主动复习的结构化对话工作流。** [[knowloop-confusion-to-consolidation-2026|KnowLoop]] 把课后复习组织为三个阶段——Recognize（就地标记困惑）、Resolve（澄清）与 Consolidate（教学相长）——表明教学相长促使学习者表达并暴露概念缺口，且情境扎根的 AI 在定向支持上优于通用 AI。教学相长具体体现了 [[learning-by-teaching]]。
 - **主动学习作为项目制、社群结构。** [[academic-league-of-ai-2026|The Academic League of AI]] 围绕竞赛队、学习小组与 AI 促社会公益的项目组织课外 AI 教育，通过民主的学生治理而非自上而下的课程体现主动与 [[project-based-learning|项目制学习]]。
 - **思维工具与生成性参与。** [[genai-mindtool-generative-learning|GenAI 作为思维工具]]把 AI 定位为学生借以*思考*的装置，而非答案来源，使主动学习与生成性学习理论对齐——学习者把新观念整合进已有知识。
+- **把构建辅导者本身当作主动学习的任务。** [[zangari-student-created-ai-agents-codesigned-instruction-2026|Zangari 等（2026）]]颠倒了惯常的 AI 辅导者安排：在一门 700 名学生的软件课程中，345 名学生各自设计一个对话式智能体，向同伴讲授三种设计模式——于是主动学习的工作就是该智能体的构建：预判用户需求、把抽象概念译成可教的片段。学生珍视开放式设计自由（22.3% 为最高频正面主题），但最高频的抱怨是指示不清（23.7%）；作者告诫，无对照组、志愿者样本的设计只支持关于参与的论断。
 - **围绕模型的错误设计。** 一个五步序列（独立分析、一个标准化的 ChatGPT 提示、对输出的批判性评价、修改、课堂讨论）之所以奏效，是因为 AI 可预见地犯错：ChatGPT 把一首歌歌词中的无弹性需求误标为"完全弹性"，这一差异教会学生验证输出（[[beck-genai-literacy-economics-hands-on|Beck & Brodersen, 2025]]）。
 - **一个经过教学法设计的 AI 辅导者可以胜过主动学习课堂本身。** 在哈佛大学入门物理课程中的一项交叉 [[rct]] 把一个定制 AI 辅导者与该课程自身的课堂主动学习课相比——是同一套基于研究的教学法，而非讲座——发现用更少的时间学到显著更多：后测中位数 4.5 对 3.5，线性回归效应量 0.63，任务用时中位数 49 分钟对课堂 60 分钟（[[kestin-ai-tutoring-outperforms-active-learning-rct-2025|Kestin et al., 2025]]）。作者把功劳归于设计而非媒介，因为该辅导者被工程化以承载与课堂相同的七项基于研究的实践，只增加了按需的个性化反馈与自主节奏。
 

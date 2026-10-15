@@ -7,13 +7,17 @@ confidence: medium
 created: "2026-08-29T12:55:12-04:00"
 updated: "2026-10-09T18:58:08-04:00"
 translation_of: concepts/visualization
-source_updated: "2026-09-30T09:53:03-04:00"
+source_updated: "2026-10-13T09:18:19-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"
+    agent: hermes-agent
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-14"
     agent: hermes-agent
 ---
 
@@ -46,6 +50,8 @@ ai_assist:
 
 第二条主要脉络关乎 AI 直接产出可视化。[[nuclear-diffusion-text-to-image-learning-2026]]表明，经领域适配的文本转图像模型能生成专业 STEM 概念的准确插图：在核领域图像上微调 Stable Diffusion 把领域准确率从 12% 提到 78%，使教师能按需生成正确的反应堆部件与安全系统可视化。这种生成能力强大但不均衡。[[mllm-scientific-visualization-literacy]]把六个多模态大语言模型对照 485 名人类参与者[[benchmark|基准化]]于科学可视化素养，发现没有统一的胜任力：封闭源的 Gemini 在若干子集上超过人类均值，而所有[[open-source|开源]]模型都低于它，在细粒度[[quantitative-research|定量]]估计与基于纹理或基于整合的可视化上尤其薄弱。因此 AI 应当支持——而非替代——人类可视化素养，这一发现对[[ai-literacy|AI 素养]]与[[formative-assessment|形成性评估]]有直接意义。
 
+提示生成图表提出了一个与「AI 能否产出胜任的可视化」不同的问题：学习者是否仍在执行使该工件具有教育意义的分析与编码工作。一个 2026 年的框架把这称为过程—产出分野，并提出把透明、邀请与消退作为 [[scaffolding]] 与替代之间的能动性界线（[[genai-visualization-education-framework-2026|Purohit 等人，2026]]）。
+
 伦理与可靠性为对 AI 生成视觉内容的热情降温。[[data-comics-for-education-evaluating-effectiveness-benefits-ethics]]发现[[generative-ai|生成式 AI]]辅助的数据漫画无论先前可视化素养如何都提升了[[student-engagement|投入]]与理解，但参与者提出对误信息风险与[[academic-integrity|署名]]归属的担忧，三分之二指出诸如过于繁杂的版面造成信息过载之类的缺点。反事实基准 CFES-P24 把这一审视延伸到[[cfes-p24-multimodal-slide-auditing-2026|幻灯片审计]]，显示多模态大语言模型能可靠识别[[learning-design|学习设计]]构念（操作、原则、证据定位），而在比较性判断与严重性校准上却大相径庭——这是复合分数掩盖了哪种能力失败、且置信度不等于可靠性的证据。这些作品合起来论证，应当对 AI 生成的可视化做分层的[[ai-ed-evaluation|评价]]，而非整体评分。
 
 ## 幻灯片、漫画与多视图工具的实践
@@ -76,3 +82,4 @@ ai_assist:
 - [[data-comics-for-education-evaluating-effectiveness-benefits-ethics]] — AI 辅助数据漫画的有效性、收益与伦理
 - [[cfes-p24-multimodal-slide-auditing-2026]] — 面向多模态幻灯片审计的反事实基准
 - [[mejia-domenzain-ml-findings-teachers-blended-2026]] — 在混合课堂中让机器学习发现对教师可及
+- [[genai-visualization-education-framework-2026]] — 建构意义，而非仅图表：生成式 AI 在可视化教育中使用的认知—教学框架

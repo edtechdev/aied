@@ -12,14 +12,19 @@ level: [k 12, higher ed, adult learning]
 page_kind: [framework, synthesis]
 confidence: high
 methods: [research-methods-aied]
+reviewed_by: [editor]
 translation_of: concepts/learning-sciences
-source_updated: "2026-09-17T14:48:59-04:00"
+source_updated: "2026-10-13T11:05:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"
+    agent: hermes-agent
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-14"
     agent: hermes-agent
 ---
 
@@ -48,8 +53,9 @@ ai_assist:
 - **审计那些做评估的模型。**[[demographic-signals-llm-student-assessment-2026|Rooein、Benedetto 与 Hovy（2026）]]在[[automated-essay-scoring|作文评分]]、[[formative-assessment|形成性反馈]]和问答任务上审计了六个[[llm|LLM]]，固定任务输入、只变化人口统计语境（192,480 次调用）。在显式人设下评分是稳定的，但 Llama-70B 在隐式对话历史下把自己的分数抬高了 1.57 分（p < 0.001），而高等教育背景引来了更不可读、更积极的回应——约四个标准差的情绪差距。可读性效应缩小而长度效应增长，一些系数在条件之间改变了符号。作者把它当作审计工具而非部署裁定，并把人口统计信号与主题信号的纠缠读作对[[assessment-validity|效度]]和[[equity-in-ai-education|公平]]的威胁。
 - **测量能力，及其局限。**[[competent-generative-ai-use-measures-review-2026|Verí（2026）]]把测量胜任地使用[[generative-ai]]的工具组织为四个领域——知识与使用、认知监督、依赖校准、对使用工具的智能体的控制——拒绝把它们压成一条能力连续体。同一批样本上自评与实证[[ai-literacy|AI 素养]]的三个相关系数合并为 r = .055（95% CI [-.047, .156]，报告 N = 2,765），作者认为这足以否证把[[self-report-measures|自评]]与绩效分数互换使用，但不足以设定一个切分点。没有经过验证的工具覆盖了使用工具的智能体所创造的全部决策；所提出的分层量表只是一个设计假设。
 - **关于学习者自己卸责的自评。**[[pause-ai-cognitive-offloading-self-reflection-2026|Alam（2026）]]把[[cognitive-offloading]]文献转译为 PAUSE，一个纯浏览器内的自检，含四个领域，每一条 LLM 时代的条目都有出处锚定，没有合成分、没有存储、没有投入生产的模型；它的分段是描述性的而非常模化的，解读结果不得用于为评估、录取或招聘决定提供依据。它自陈的局限很重要：对卸责的自评容易受到它所关切的那个能力本身的干扰，一个刻意把 AI 当[[scaffolding|支架]]用的受访者在若干条目上会被读成卸责，而与 AI 相关的卸责是否区别于一般性的技术依赖，仍然开放。
-- **人类专长的位置。**[[wang-tutor-copilot-human-ai-live-tutoring-rct-2024|Wang et al.（2024）]]报告了最清晰的分工：在一项为期两个月、约 900 名新手 K-12 教师和约 1,800 名学生的[[rct|随机对照试验]]中，从资深教师推理中提取的实时建议把话题掌握度提高了 4 个百分点（62% 到 66%，p < 0.01），对评级较低的教师提高了 9 个百分点，成本约为每名教师每年 \\$20，并把辅导推向引导式提问。增益是就近的——年末测试没有变动。[[reichert-human-centered-llm-chatbot-design-teachers-2026|Reichert et al.（2026）]]发现教师通过设计抵达了同一位置：六位中学教师在设计聊天机器人原型时，都规定了有边界的专家、守住了权威边界（对学习和安全的责任不可委托）和专长边界（模型缺乏他们对个别学生的了解），并委托内容呈现、练习和纠正性[[feedback]]，同时保留目标设定和[[summative-assessment|终结性评估]]。
+- **人类专长的位置。**[[wang-tutor-copilot-human-ai-live-tutoring-rct-2024|Wang et al.（2024）]]报告了最清晰的分工：在一项为期两个月、约 900 名新手 K-12 教师和约 1,800 名学生的[[rct|随机对照试验]]中，从资深教师推理中提取的实时建议把话题掌握度提高了 4 个百分点（62% 到 66%，p < 0.01），对评级较低的教师提高了 9 个百分点，成本约为每名教师每年 \$20，并把辅导推向引导式提问。增益是就近的——年末测试没有变动。[[reichert-human-centered-llm-chatbot-design-teachers-2026|Reichert et al.（2026）]]发现教师通过设计抵达了同一位置：六位中学教师在设计聊天机器人原型时，都规定了有边界的专家、守住了权威边界（对学习和安全的责任不可委托）和专长边界（模型缺乏他们对个别学生的了解），并委托内容呈现、练习和纠正性[[feedback]]，同时保留目标设定和[[summative-assessment|终结性评估]]。
 - **领域层面的能力。**[[sutedjo-faculty-genai-tpack-21-2026|Sutedjo、Chowdhury 与 Liu（2026）]]用一个为生成式 AI 改编的[[tpack|TPACK]]量表调查了 127 名教师：内容知识和学科教学知识很强（M = 4.70–5.15），而技术整合知识明显更低，整体性 TPACK 最低为 2.55，内容知识与任何技术整合领域都不相关，而三个整合领域之间相关如此之高（r = .81–.91），以至于它们可能就是一个因子。[[perrotta-zero-shot-governance-2026|Perrotta（2026）]]通过一个已停用的英国公务员体系原型来解读治理层，其代码库是一个系统提示加一条在商业模型之上的检索流水线，他论证基础模型的通用性既让它能被迅速改造为[[educational-policy-ai|政策]]工具，也使异常输出成为一种只能缓解、无法根除的长期风险——监督是在回路之上俯视，而非坐在回路之中。
+- **整合缺口，已被绘出：**[[malik-bashir-reconceptualizing-learning-sciences-hybrid-intelligence-2026|Malik 与 Bashir（2026）]]将 32 项研究（PRISMA 2020，主题分析）综合为四个主题：领域内部的认识论碎片化、理论—技术矛盾（计算系统运行于预测与可测量的行为，而教育理论强调语境与社会互动）、经由分析的学习的数据化，以及作为新兴范式的混合智能。他们的混合智能框架是一个概念性综合，而非经过验证的模型——作者声明它尚待实证检验——但四主题地图对于本领域不断撞上的理论到计算的转译问题，是一面有用的审计透镜。
 
 ## 学习科学如何与相邻领域相关联
 

@@ -9,13 +9,17 @@ connected_faqs: [ai-disabled-neurodivergent-learners]
 level: [special education]
 confidence: high
 translation_of: concepts/assistive-technology
-source_updated: "2026-09-30T08:05:25-04:00"
+source_updated: "2026-10-13T11:05:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"
+    agent: hermes-agent
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-14"
     agent: hermes-agent
 ---
 
@@ -43,7 +47,7 @@ ai_assist:
 
 **面向阅读障碍的 AI，贯穿检测、支持与 [[personalized-learning|个性化学习]]。** 一项 2026 年的跨学科 [[meta-analysis-systematic-review|系统综述]]（Dabaghi、D'Urso 与 Sciarrone，PRISMA 指导，2018–2024，n=72）描绘了 AI 对阅读障碍学生的支持，发现 AI 被用于检测、辅助支持与个性化学习——但这些线索是平行演化而非整合的，更多由技术机会而非整合的教育理论驱动。基于 ML 的助学工具落入五个领域（具体应用、[[student-engagement|参与]]、个性化、推荐、通用支持），却强调技术性能与分类准确率，而忽视生态效度与实际的课堂部署。检测研究（EEG、眼动追踪、ML 模型）显示出早期干预的诊断前景，但常需要专门设备与受控环境，限制了在典型学校场景中的可扩展性与可达性。开放的挑战包括有限的实验验证、可扩展性、敏感学生数据的 [[ethics|伦理]]/隐私问题、有限的 [[teacher-role|教师]]支持与培训，以及语言/文化障碍（多数研究以英语人群为对象）——这提醒我们，辅助工具必须被验证、可扩展、伦理上站得住，才能真正弥合可达差距。
 
-**辅助工具的局限。** 辅助技术使可达成为可能，但它本身不确保融合的教学或学习者 [[agency|主体性]]。**[[genai-minoritized-knowledges-disability|批判性研究]]** 以及为残障学生争取 [[agency|能动]]角色的努力提醒我们，可达必须与有意义的参与相配。
+**辅助工具的局限。** 辅助技术使可达成为可能，但它本身不确保融合的教学或学习者 [[agency|主体性]]。**[[genai-minoritized-knowledges-disability|批判性研究]]** 以及为残障学生争取能动角色的努力提醒我们，可达必须与有意义的参与相配。
 
 一项 2026 年关于面向 [[higher-ed|高等教育]]中 [[neurodiversity|神经多样性]]学生的数字辅助 [[ai-technologies|技术]]的范围综述，描绘了这十年的产出：跨五个数据库筛选 766 条记录，纳入 40 项研究，其中 15 项含基于 AI 的工具，11 项含 [[virtual-and-augmented-reality|虚拟现实]]。其组织性发现是工具所针对之处与障碍所在之处之间的错配——27 项研究直接支持学习，13 项处理阅读与写作、12 项处理学习管理，而注意力（n = 4）与社会沟通（n = 5）相对被忽视，只有 6 项处理多重障碍（[[assistive-tech-neurodivergent-higher-ed-review-2026|Rempel 等人，2026]]）。
 
@@ -52,6 +56,7 @@ ai_assist:
 - **把工具与学习者和任务相匹配。** 屏幕阅读器、字幕、语音与触觉输出各自处理不同的障碍——依据个体的需求与内容格式来选择。
 - **用 AI 降低辅助适配的成本。** AI 能自动加字幕、简化文本、生成替代物，但要从教学准确性上评估输出质量。
 - **把提供植根于政策。** 在采购或构建 AI 工具时，参照《辅助技术法》、IDEA 与 WCAG。
+- **说清支持所服务的是哪个功能——并针对该功能评估。** [[vasileiou-ai-cognitive-scaffolding-executive-functioning-sen-2026|Vasileiou 等人（2026）]]区分了补偿（按可达与参与来评估）、脚手架（有支持下的决策）与发展（消退或迁移后的策略使用）。他们还补上了一条针对本页告诫的规则：可达性支持不是补救——一个工具究竟属于支持（accommodation）、策略教学，还是临时性练习支持，"都应在学习计划中说明"。
 
 ## 关联概念
 

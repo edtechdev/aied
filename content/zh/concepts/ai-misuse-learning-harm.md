@@ -10,7 +10,7 @@ technology: [generative-ai]
 assessment: [assessment]
 confidence: high
 translation_of: concepts/ai-misuse-learning-harm
-source_updated: "2026-10-01T09:59:54-04:00"
+source_updated: "2026-10-13T09:18:19-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -18,58 +18,66 @@ ai_assist:
     role: translation
     date: "2026-10-09"
     agent: hermes-agent
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-14"
+    agent: hermes-agent
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
 
-> **AI 误用与学习损害** — 学生把[[cognitive-offloading|认知工作]]外包给[[generative-ai|生成式 AI]]与持久学习减少之间的因果关系，即便当下的任务表现上升。其定义性特征是一个表现—学习缺口：AI 抬高有辅助的表现，同时损害无辅助、闭卷和保持的结果。
+> **AI 误用与学习损害** — 学生把[[cognitive-offloading|认知工作]]卸载给[[generative-ai|生成式 AI]]与持久学习减少之间的因果关系，即便当下的任务表现上升。其定义性特征是表现—学习缺口：AI 抬高有辅助的表现，同时损害无辅助、闭卷和保持的结果。
 
 ## 值得思考的问题
 
 - 一个学生可以在当下表现更好，却随时间学得更少——AI 能提高有辅助的表现，同时损害后来无辅助的成就。你什么时候感觉到自己"学会"了某样东西，而工具一消失它就无影无踪？
-- 核心发现是表现—学习缺口：用了无护栏[[intelligent-tutoring|AI 辅导]]的学生练习得分高 48%，闭卷考试却低 17%。这如何改变你对一个靠 AI 帮助取得的高分的解读？
-- 误用关乎替代——把建立持久理解的起草、回忆或分析外包出去——而非把 AI 用作补充。你会从哪里划出 AI 帮你学和 AI 替你学之间的界线？
-- 受损组的学生并未察觉自己学得更少。如果学习者自己感觉不到正在受损，除了相信学生的自我报告，教师应该观察什么？
-- 损害依评价类型而有选择性：它出现在监考、闭卷的测量上，但当作业无法区分 AI 辅助与独立完成时它可能被隐藏。什么样的评价才能真正揭示学生是否学到了？
-- 有护栏的"给提示不给答案"的 AI 在保留益处的同时消除了损害。要设计出既支持学习又不成为拐杖的 AI 帮助，需要什么？
+- 核心发现是表现—学习缺口：使用无护栏[[intelligent-tutoring|AI 辅导]]的学生练习得分高 48%，闭卷考试却低 17%。这如何改变你对一个靠 AI 帮助取得的高分的解读？
+- 误用关乎替代——把本应构建持久理解的起草、回忆或分析外包出去——而不是把 AI 当作补充来使用。你会在哪里划定"AI 帮助你学习"与"AI 替你学习"之间的界线？
+- 受损害组的学生并未觉得自己学得更少。如果学习者无法察觉自己正被损害，那么教师应当观察什么，而不是轻信学生的自我报告？
+- 这种损害因评估类型而异：它出现在受监控的闭卷测量上，但当作业无法区分 AI 辅助与独立完成时，它可能被掩盖。什么样的评估才能真正揭示学生是否学到了？
+- 有护栏的"给提示不给答案"式 AI 既消除了损害，又保留了益处。要设计出支持学习而不成为拐杖的 AI 帮助，需要什么条件？
 
 ## 引言
 
-AI 误用不同于 AI 使用。使用是指把 AI 当作学习的补充——[[feedback]]、头脑风暴或修改帮助，让学习者的认知工作留在回路中。误用是指替代：把建立持久理解的正是那些心智过程（起草、回忆、分析、修改）委派给 AI。本知识库证据基础所记录的损害，不是误用"帮不上忙"；而是误用主动损害后来无辅助的成就。
+AI 误用与 AI 使用是两回事。使用指的是把 AI 当作学习的补充——[[feedback|反馈]]、头脑风暴，或让学习者的认知工作留在回路中的修改帮助。误用则指替代：把正是构建持久理解所需的心智过程（起草、回忆、分析、修改）委托给 AI。知识库证据基础所记录的损害，并不是误用帮不上忙；而是误用主动损害了后来无辅助的成就。
 
 ### 表现—学习缺口
 
-在[[genai-performance-vs-learning]]中阐明的核心概念是：生成式 AI 轻易地抬高**表现**——即时的效率与输出质量——却常常绕过深度学习所需的深层认知和[[metacognition|元认知]]加工。因此，一个为表现优化的工具可能损害学习。这一缺口现在已在现场规模上被因果性地证明：一项[[rct|随机对照试验]]发现，无护栏的 AI 辅助提高了练习表现，却降低了后来无辅助的考试分数。
+核心概念在[[genai-performance-vs-learning]]中被阐明：生成式 AI 轻易提升了**表现**——即时的效率与产出质量——却常常绕过了**学习**所需的深度认知与[[metacognition|元认知]]加工。因此，一个为表现优化的工具可能损害学习。该缺口如今已在现场规模上得到因果证明：一项[[rct|随机对照试验]]发现，无护栏的 AI 辅助提高了练习表现，却降低了后来无辅助考试的分数。
 
-### 损害机制
+### 损害的机制
 
-- **[[cognitive-surrender]]** — 研究者用来指学生把思考被动地、不加反思地依赖 AI 的术语，相对于[[cognitive-offloading]]有意的、策略性的形式。它造成可测量的、人群层面的持久知识衰退。
-- **照抄答案作为拐杖** — 误用更多由学生照抄答案而非学习驱动，较少由 AI 的错误误导学生驱动。当[[student-engagement|投入]]分析显示学生主要"要答案"时，学习损害随之而来。
-- **动机侵蚀** — 按[[self-determination-theory|自我决定理论]]，一个毫不费力的 AI 捷径在感知上的可得性，降低了自主动机和坚持性。因为坚持性正是产生深度学习的东西，它的侵蚀会叠加在直接损害之上。
-- **学习置换** — 用 AI 的输出替代巩固知识的费力过程（精细加工、回忆、自我解释），与[[cognitive-offloading|过度依赖]]一致。
+- **[[cognitive-surrender]]** —— 研究者用这个词描述学生把思考卸载给 AI 的那种被动的、不加反思的依赖，以区别于[[cognitive-offloading]]那种有意的、策略性的形式。它造成可测量的、人口层面上的持久知识下降。
+- **抄答案作为拐杖** —— 误用较少由 AI 出错误导学生驱动，更多由学生抄答案而非学习驱动。当[[student-engagement|投入度]]分析显示学生主要在"要答案"时，学习损害随之而来。
+- **动机侵蚀** —— 感知到的、不费力的 AI 捷径之可得性降低了自主动机与坚持性，这与[[self-determination-theory|自我决定理论]]一致。由于坚持性正是产生深度学习的东西，它的侵蚀会放大直接的损害。
+- **学习替代** —— 以 AI 产出替代那些巩固知识的费力过程（细化、回忆、自我解释），这与[[cognitive-offloading|过度依赖]]一致。
+- **混淆被读作意图。** 当教师没有指明 AI 在作业中的预期角色时，学生就会用最容易的方式来定义它，而教师把由此产生的不匹配读作作弊，而不是一条从未被言明的边界（[[this-is-how-we-ai-teaching-guide-2026|Hanshaw 等人，2026]]）。
 
 ### 证据基础
 
-- **因果性现场 RCT（约 1,000 名高中数学学生）：**一个无护栏的 ChatGPT 式辅导者把有辅助的练习表现提高 **+48%**，却把无辅助、[[summative-assessment|闭卷考试]]的分数降低 **−17%**——从未接触 AI 的学生表现优于接触过的学生。一个有护栏的"给提示不给答案"辅导者消除了损害。值得注意的是，受损组的学生并未察觉自己学得更少。
-- **人群规模的行为数据（3.2M 次 ALEKS 交互）：**ChatGPT 发布后，大学生在 AI 易感问题上的学习时间累计下降 **−26.9%**（高中生 −31.3%），监考保持性题项上答对的**几率下降 −25%**。该效应在监考下完全消失，把责任锁定在平台外的 AI 使用上。
-- **一个大规模的零结果：**利用夏季 ChatGPT 使用的季节性下降，显示**高中标准化测验平均分没有净变化**——可能是因为误用的损害在总体上被生产性的 AI 使用抵消了。这与对持久学习的因果损害并不矛盾；它告诫不要从总体测验分数过度概括。
+- **因果性现场随机对照试验（约 1,000 名高中数学学生）：** 无护栏的 ChatGPT 式辅导把有辅助的练习表现提高了 **+48%**，却把无辅助的[[summative-assessment|闭卷考试]]分数降低了 **−17%**——从未接触过 AI 的学生表现优于接触过 AI 的学生。有护栏的"给提示不给答案"式辅导消除了这一损害。值得注意的是，受损害组的学生并未察觉自己学得更少。
+- **人口规模的行为数据（320 万次 ALEKS 交互）：** ChatGPT 发布后，大学生在易受 AI 影响的问题上的学习时间累计下降了 **−26.9%**（高中生 −31.3%），且**在受监控的保持类题目上答对的几率下降了 25%**。该效应在受监控条件下完全消失，从而将其归因于平台外的 AI 使用。
+- **一个大型的零结果：** 利用夏季 ChatGPT 使用量的季节性下降，发现**高中标准化考试平均分没有净变化**——大概因为误用的损害在总量上被生产性的 AI 使用抵消了。这与"误用对持久学习造成因果损害"并不矛盾；它只是警告不要从聚合的考试分数过度泛化。
 
 ### 依赖作为通往倦怠的路径
 
-误用损害的不只是成就。一项针对 276 名中国本科生的调查
-（[[ai-dependency-self-efficacy-teacher-support-burnout-2026|Huang 等, 2026]]）把 AI 依赖建模为保护性学习者资源与学习倦怠之间的中介，发现它承载了全部效应：[[self-efficacy|学业自我效能]]和（较弱地）[[teacher-role|教师]]支持都降低了 AI 依赖，而后者又预测倦怠。两条间接路径都显著且完全中介——依赖一进入模型，直接效应就变得不显著——自我效能的路径是两者中更强的。与上面的表现—学习缺口并读，这一结果把误用的代价从持久知识受损延伸到学习者的疲惫与脱离，并把机制定位在依赖本身，而非笼统的 AI 使用：那些防误用的资源似乎通过防止依赖起作用，而不是在事后抵消其效应。作者提出了一个测量上的告诫——他们的 AI 依赖量表改编自网络成瘾测试，其对 AI 的内容效度尚未确立——所以这条路径最好当作一个建模良好的假设，而非已定的效应量。
+误用损害的不只是成绩。一项针对 276 名中国本科生的调查（[[ai-dependency-self-efficacy-teacher-support-burnout-2026|Huang 等人，2026]]）把 AI 依赖建模为保护性学习者资源与学习倦怠之间的中介，并发现它承载了全部效应：[[self-efficacy|学业自我效能]]以及（较弱的）[[teacher-role|教师]]支持都降低了 AI 依赖，而 AI 依赖又预测了倦怠。两条间接路径都显著且为完全中介——一旦依赖进入模型，直接效应就不再显著——其中自我效能那条路径更强。与上文的表现—学习缺口并读，该结果把误用的代价从持久知识受损扩展到学习者精疲力竭与疏离，并把机制定位在依赖本身而非笼统的"使用 AI"：那些对抗误用的保护性资源，似乎是通过阻止依赖来起作用的，而不是在事后抵消其影响。作者提出了一个测量上的告诫——他们的 AI 依赖量表改编自网络成瘾测验，其对 AI 的内容效度尚未确立——因此该路径更适合被视为一个建模良好的假设，而非已定的效应量。
 
-### 损害的依评价而定性
+### 损害依评估而定的性质
 
-最重要的实践微妙之处在于，损害**依评价类型而有选择性**。它出现在对持久知识的**监考、闭卷、无辅助**测量上。在无法区分 AI 辅助与独立完成的常规计分作业上，误用反而可能*抬高*即时分数。这就是为什么感知与实际之间的缺口是危险的：学生（有时还有教师）看到短期表现增益，却错过了只在工具被移走时才浮现的学习侵蚀。
+最重要的实践细节是：损害**因评估类型而异**。它出现在针对持久知识的**受监控、闭卷与无辅助**测量上。在无法区分 AI 辅助与独立完成的常规评分作业上，误用反而可能*抬高*即时成绩。这正是"感知—实际"缺口危险的原因：学生（有时还有教师）看到短期表现提升，却漏掉了只在工具被移除时才浮现的学习侵蚀。
 
-**是哪种依赖，而非依赖多少。** 一项覆盖 12 门 AI 密集型课程中 118 名学生的调查（[[uneven-impact-generative-ai-student-learning-2026|Manikonda 等 2026]]），把使用频率测量会把它们混为一谈的两种行为分开。**认知性依赖**——用 GenAI 来组织、评价、组合和分解——是感知到的正面影响最强预测变量（β = .495, p < .001），而它所描述的外包并非一律有害：组织和总结想法、发现新洞见，都排在那些与感知到的学习改善相关的功能之中。**早期依赖**——在独立思考、传统搜索或请教教师*之前*就咨询 GenAI——同时预测学业收益（β = .301, p < .001）*和*负面影响（β = .402, p = .004）。调节作用才是与上面素养补救相关的那部分：早期依赖与负面影响之间的关联，在低[[ai-literacy|评价素养]]处不存在（b = .025, p = .861），而在最善于评判 AI 输出的学生中最强（b = .688, p < .001），所以评价技能并未保护学生免于"先问 AI"的代价——最有可能注意到代价的，正是那些报告代价的人。操作上的启示是：误用部分是一个*时机*问题——相对于学习者自己的尝试而言——而不只是量的问题，这正是为什么针对"何时咨询 AI"的干预，与下面的评价设计补救并存。
+**是哪一种依赖，而非依赖多少。** 一项覆盖 12 门 AI 密集型课程的 118 名学生调查（[[uneven-impact-generative-ai-student-learning-2026|Manikonda 等人，2026]]）区分了被使用频率指标混为一谈的两种行为。**认知依赖**——用 GenAI 来组织、评价、综合与分解——是感知到的正面影响的最强预测因子（β = .495，p < .001），而它所描述的卸载并非一律有害：组织与概括想法、发现新洞见，都位列与感知学习改善相关的功能之中。**早期依赖**——在独立思考、传统检索或请教教师*之前*就咨询 GenAI——同时预测了学业益处（β = .301，p < .001）*与*负面影响（β = .402，p = .004）。其中的调节作用才是与上文读写素养补救相关的部分：早期依赖与负面影响之间的关联在低[[ai-literacy|评价素养]]处不存在（b = .025，p = .861），而在最善于评判 AI 产出的学生中最强（b = .688，p < .001）——因此评价技能并未保护学生免受"先问 AI"的代价，最有条件注意到这一代价的学生，正是报告了这一代价的人。可操作的推论是：误用部分是一个*时机*问题，相对于学习者自己的尝试而言，而不只是量的问题——这正解释了为什么针对"何时咨询 AI"的干预，与下文的评估设计补救并行存在。
 
 ### 启示与补救
 
-- **[[guardrails]]优先于原始访问：**给提示不给答案的[[prompt-engineering|提示]]和教师编写的[[scaffolding]]可以中和拐杖效应（见[[generative-ai-guardrails-harm-learning]]）。
-- **[[assessment|评价设计]]：**需要抗 AI 和监考/无辅助的评价，以暴露——并劝阻——误用。
-- **素养与元认知：**[[ai-literacy]]和[[self-regulated-learning]]训练，帮助学生识别依赖模式，以及绕开自己认知工作的代价。
+- **[[guardrails|护栏]]而非放任的访问权：** 给提示不给答案的[[prompt-engineering|提示]]方式与教师编写的[[scaffolding|脚手架]]中和了拐杖效应（见[[generative-ai-guardrails-harm-learning]]）。
+- **[[assessment|评估设计]]：** 需要抗 AI 且受监控/无辅助的评估，以暴露并抑制误用。
+- **读写素养与元认知：** [[ai-literacy]]与[[self-regulated-learning]]训练，帮助学生识别依赖模式，以及绕过自身认知工作的代价。
+
+### 大模型时代的对话式疏离
+
+"钻系统空子"的文献（滥用提示、系统性猜答）在对话时代有一个对应物：对话式疏离——嘲笑智能体、故意答错、对其置之不理、镜像其文本，或拒绝回应。[[rho-disengaged-conversational-behaviors-2026|Rho 等人（2026）]]首次在学生—AI 对话中系统处理了这一现象，其核心教训是解释性的而非危言耸听的。一个疏离的*话轮*是一次交互动作，而不是一种稳定的疏离状态。"故意答错"与后测分数表面上的关联，未能通过人工标注的敏感性检验，作者把它读作在常常会回归投入的轨迹*之内*的试探（表现最好的聚类以 p = 0.42 恢复了投入）。真正区分轨迹的行为是拒绝回应——拒绝作答——它持续存在而未消解。对设计者而言，这颠倒了通常的优先级：吵闹、可见的疏离往往是自我纠正的，而安静的抽身表明交互已经破裂。
 
 ## 关联概念
 
@@ -88,16 +96,19 @@ AI 误用不同于 AI 使用。使用是指把 AI 当作学习的补充——[[f
 
 ## 关联文章
 
+- [[rho-disengaged-conversational-behaviors-2026]] — Disengaged conversational behaviors and learning in student-AI dialogues (Rho et al. 2026)
+
 - [[genai-thoughtless-use-self-directed-learning-2026]]
-- [[generative-ai-guardrails-harm-learning]] — 没有护栏的 GenAI 可能损害学习
-- [[genai-performance-vs-learning]] — 区分表现增益与学习
-- [[ai-availability-student-motivation]] — AI 可得性与学生动机
-- [[genai-skill-bypass-literacy]] — GenAI 技能绕行与素养
-- [[cognitive-shift-ai-education]] — AI 教育中的认知转变
-- [[misiejuk-cognitive-offloading-prompting-2026]] — 学生—AI 协作中的认知外包
-- [[cognitive-commons-ai-expertise-regeneration]] — 认知公地的悲剧：AI 与专门知识的再生
-- [[lodge-loble-cognitive-offloading-2026]] — AI、认知外包及其对教育的启示（Lodge & Loble 2026）
-- [[ai-overreliance-complex-adaptive-system-2026]] — 把 AI 过度依赖建模为复杂自适应系统
-- [[academic-erasure-complexity-ai-writing-2026]] — 学术擦除：复杂性在 AI 支持的写作下消失
-- [[ai-dependency-self-efficacy-teacher-support-burnout-2026]] — AI 依赖完全中介从自我效能与教师支持到学习倦怠的路径（Huang 等 2026）
-- [[uneven-impact-generative-ai-student-learning-2026]] — 早期依赖预测负面影响而认知性依赖预测正面影响，评价素养强化而非缓冲先问 AI 的危害（Manikonda 等 2026）
+- [[generative-ai-guardrails-harm-learning]] — GenAI Without Guardrails Can Harm Learning
+- [[genai-performance-vs-learning]] — Distinguishing Performance Gains from Learning
+- [[ai-availability-student-motivation]] — AI Availability and Student Motivation
+- [[genai-skill-bypass-literacy]] — GenAI Skill Bypass and Literacy
+- [[cognitive-shift-ai-education]] — Cognitive Shift in AI Education
+- [[misiejuk-cognitive-offloading-prompting-2026]] — Cognitive Offloading in Student–AI Collaboration
+- [[cognitive-commons-ai-expertise-regeneration]] — The tragedy of the cognitive commons: AI and expertise regeneration
+- [[lodge-loble-cognitive-offloading-2026]] — AI, cognitive offloading and implications for education (Lodge & Loble 2026)
+- [[ai-overreliance-complex-adaptive-system-2026]] — AI overreliance modeled as a complex adaptive system
+- [[academic-erasure-complexity-ai-writing-2026]] — Academic erasure: the disappearance of complexity under AI-supported writing
+- [[ai-dependency-self-efficacy-teacher-support-burnout-2026]] — AI dependency fully mediates the path from self-efficacy and teacher support to learning burnout (Huang et al. 2026)
+- [[uneven-impact-generative-ai-student-learning-2026]] — Early reliance predicts negative impact while cognitive reliance predicts positive impact, and evaluation literacy strengthens rather than buffers the harm of consulting AI first (Manikonda et al. 2026)
+- [[this-is-how-we-ai-teaching-guide-2026]] — This is How We AI: A Practical Approach to Teaching with Artificial Intelligence

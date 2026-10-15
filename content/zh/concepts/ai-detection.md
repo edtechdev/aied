@@ -14,13 +14,17 @@ confidence: high
 connected_faqs: [addressing-common-misconceptions-ai-education, should-we-use-ai-detectors, reduce-ai-cheating, ai-guidance-children-under-13]
 institutions: [educational-policy-ai]
 translation_of: concepts/ai-detection
-source_updated: "2026-10-04T02:59:54-04:00"
+source_updated: "2026-10-14T11:15:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"
+    agent: hermes-agent
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-14"
     agent: hermes-agent
 ---
 
@@ -61,6 +65,8 @@ ai_assist:
 - **被量化的诚信两难。**[[karr-ai-detection-humanization-2026|一项对 642 篇已发表摘要的对照研究（Karr 等，2026）]]显示，[[educational-policy-ai|政策]]失败不只是概念性的，而且已被测出：符合规范的轻度人工智能编辑被标记的比例为 38–80%，未经修改的近期原创文本为 9–15%（非 STEM 远高于 STEM），而经"人性化工具"处理的人工智能文本有 >96% 逃避检测。由于检测器盯的是表层文体（长词元与学术词汇密度）而非作者意图，诚实的人工智能协助招致处罚，而刻意的人性化规避却溜之大吉——作者主张，检测器分数绝不应当作独立的 misconduct（不当行为）证据。
 
 最新的实证评估把这些错误率变得具体而非笼统。[[hadra-ai-detector-accuracy-efl-2026|Hadra、Cambridge 与 Mesbah（2026）]]在一个由真实 EFL 课程作业、专业写作、人工智能输出与 50/50 混合文本组成的、经平衡的 192 篇语料上运行 Turnitin 与 Originality：宏平均准确率分别只有 0.69 与 0.61，两者都低于 0.55 的宏平均 F1，且对混合文本实际上毫无用处（Originality 的灵敏度为 0.02），随文本变长准确率显著下降，在科学写作上再次下降，并对正当的 EFL 学生作业表现出接近显著的误分类倾向。[[van-vlasselaer-ai-detector-reliability-2026|Van Vlasselaer、Van Droogenbroeck 与 Spruyt（2026）]]用一个有基准真相对照的 160 篇硕士论文语料测试了四款商业工具：其中三款（Turnitin、GPTZero、Copyleaks）对完全由人工智能生成的论文几乎完全失效，只有 Pangram 表现令人信服——而当它被用于 1,163 篇真实提交的论文时，标记了其中 45.5%，作者坚称这不是一个发生率，因为真实提交没有基准真相。两项研究得出同一个程序性结论：检测器分数可以提示更仔细的审查，但它不是一个发现。校准问题也反向成立：由于 GPTZero 的高置信标签在 2020–2022 年带有 0.7%、0.5% 与 1.4% 的申请人级别假阳性率，[[ai-written-admissions-essays-penalized-2026|Isley、Gaebler 与 Goel（2026）]]把它的标记解读为一个美国公共政策硕士项目六轮招生周期中的保守发生率序列——至少提交一篇被标记论文的申请人比例，在签署禁令的情况下仍从 2023 年的 21.8% 升至 2024 年的 45.1%、2025 年的 56.1%，国际申请人达 69.3%，本国申请人为 38.6%。人类审读者是更弱的工具：五位招生官区分 50 篇人类论文与 50 篇人工智能论文，达到 AUC 0.70（95% CI [0.65, 0.75]），高于随机但远低于商业检测器。
+
+在一个其人类语段可证地早于 ChatGPT 的哈萨克语语料上，五款以英语训练的检测器标记了多达 81.4% 的人类语段与 79.6% 的已发表学生论文；而一旦被校准到 1% 的假阳性率，它们对机器文本的捕获率至多只有 1.3%（[[kazakh-ai-text-detectors-2026|Ozaman（2026）]]）。
 
 即便一款表现良好的可解释检测器，也把它的错误保留在文档层面。[[detecting-gpt-assisted-writing-stylometric-2026|Kumar、Siddiqui 与 Fuchsberger（2026）]]用九个可解释的文体测量特征——类符/形符比、hapax 比、词熵、非停用词比、词性比与句长变异性——训练了窗口级分类器：90 名参与者先独立撰写同一批提示，再通过改写 GPT 输出来写作，把每位参与者的所有窗口保持在同一折中，并在 18 位未见过的写作者上测试。随机森林在 36 篇留出文档上达到 ROC-AUC 0.870 与 F1 0.842，却把 18 篇独立撰写的文档中的 4 篇标记为 GPT 辅助，假阳性率 22.2%（95% CI 9.0–45.2%）；[[explainable-ai|SHAP]]归因把最大权重给了 hapax 比。作者把这个模型框定为决策支持，应当促使依情境的审查，而非自动的不当行为筛查；而它确实达到的准确率，并不降低其错误的分量——每一个假阳性都是一篇被指控受过 GPT 协助的独立撰写文档，这是一个效度问题而非调参问题。
 
@@ -156,3 +162,4 @@ Bassett 等得出结论：人工智能检测是一个无法成立的问题的一
 - [[angelier-ai-detection-pitfalls-inclusive-assessment-2026]] — 一份人类手稿、五款检测器，从"0% 人类"到"人类生成"的分类，外加有记录的机构弃用检测之举（Angelier，2026）
 - [[argus-academic-integrity-genai-2026]] — Argus: Academic Integrity in the Era of Generative AI
 - [[student-llm-code-detection-cs1-2026]] — 大语言模型生成的代码在约束严格的作业上收敛（每 1,000 个文件 1–14 个 AST 形态）而在自由作业上不收敛——可检测性随任务设计而定
+- [[kazakh-ai-text-detectors-2026]] — Unchecked or Falsely Accused? Evaluating AI-Generated Text Detectors on Kazakh
