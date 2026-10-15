@@ -45,6 +45,7 @@ ai_assist:
 - **从为别的东西设计的量表来诊断。**[[mechanics-cognitive-diagnostic-physics-2026|Le 等人（2026）]]表明，一个 CD 模型可以从从未为诊断编写的题目中提取目标层面的信息。把 FCI、FMCE 和 EMCS 的题目映射到导论力学中的 14 个细粒度学习目标，并对来自 807 门课程的 24,394 份后测作答拟合 DINA，他们发现三套量表中有两套拟合良好（FCI RMSEA² = 0.033；EMCS = 0.022），且在 22 个"目标—量表"组合中有 19 个的分类准确率达到或高于低风险形成性基准。起约束作用的是属性结构，而不是题目质量：专家编码几乎原封不动地通过了模型审查——DINA 只提议修改 754 个"题目—目标"编码中的 14%，而编码者采纳了其中 20 个（2.7%）——然而模型无法区分三个*概念上嵌套*的能量目标（势能 0.675、能量守恒 0.705、动能 0.745），因为其中任意两个共享约 70% 的题目（Jaccard 重叠 0.67–0.73），违反了 DINA 的合取独立性假设，而同一量表上的动量目标达到了 0.820–0.917。更细的属性拟合得也更好而非更差：14 目标结构在三套量表上都比同一团队早先的四广义技能结构改善了模型拟合。限制掌握度能分得多细的，是题目重叠，而非编码错误。
 - **用于个性化学习路径的贝叶斯 DINA：**[[bayesian-cognitive-diagnosis-personalized-learning-paths|Feng 和 Huang（2026）]]把贝叶斯 DINA 模型（在 EdNet 数据集上训练，N=5,000）与知识空间理论和最短补救路径算法结合来生成个性化学习路径，并经由隐马尔可夫模型状态转移实证检验[[cognitive-offloading|认知负荷]]的中介作用（在 120 名学生上验证）——同时应对传统 DINA 模型由稀疏性驱动的收敛问题，以及个性化路径有效性背后未经检验的心理机制。
 - **用语言基础替代 ID 嵌入。**[[process-grounded-language-cognitive-diagnosis-2026|Liu 等人（2026）]]用 LLM 构建的概念图式和过程基础的证据取代离散的学生、习题和概念标识符，从作答记录中校准每位学生的后验状态。在三个[[math-education|数学]][[online-teaching-and-learning|平台]]数据集上，该框架在 XES3G5M 上达到 83.51% ACC / 85.37% AUC、在 MOOC 上达到 87.16% ACC，而收益恰恰集中在经典认知诊断模型退化的地方：新概念（比 KCD 高 +4.60 ACC）和缺失的 Q-matrix 条目（+4.52）。消融掉结构化证据会把 MOOC 准确率从 87.16% 压到 78.95%，因此改进来自语言导出的结构，而非模型规模。（[[process-grounded-language-cognitive-diagnosis-2026]]）
+- **文化嵌入的任务可以先于 AI 分析。**[[culturally-embedded-ai-diagnostic-assessment-2026|Anggara 等人（2026）]]让印度尼西亚 178 名初中学生在 AI 作答分析之前先完成带文化情境的开放式任务；AI 诊断与专家评估一致（ICC = 0.81），而文化嵌入与符号性数学表现（β = 0.42）及参与度（β = 0.37）相关。
 
 ## 为何重要
 
@@ -102,3 +103,4 @@ ai_assist:
 - [[pivot-generative-video-tutors-stem-2026]] — 从内容生成到学习支持：面向 STEM 学习的教学引导式生成式视频导师
 - [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn：在人机协同学习回路中学习其学习者的智能体导师
 - [[omniedu-open-educational-foundation-models-2026]] — OmniEdu：面向学与教的开放基础模型
+- [[culturally-embedded-ai-diagnostic-assessment-2026]] — 通过面向有意义学习的文化嵌入 AI 重新思考诊断性评估
