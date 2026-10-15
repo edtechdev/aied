@@ -9,7 +9,7 @@ discipline: [cs education, stem education]
 level: [k 12]
 confidence: high
 translation_of: concepts/computational-thinking
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-15T10:00:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -53,6 +53,8 @@ Un objectif central pour la pensée informatique à l'ère de l'IA est de faire 
 Les nouvelles données probantes méta-analytiques affinent ce tableau. [[astor-computational-thinking-meta-review-2026|Une méta-revue de 128 revues systématiques sur la pensée informatique]] constate que le domaine converge vers une définition unifiée de la pensée informatique comme le raisonnement avec des modèles abstraits qui utilisent des étapes et des algorithmes computationnels pour résoudre des problèmes — précisément le type de pensée de construction de modèles (plutôt que de consommation de réponses) qu'exige l'apprentissage orienté vers la production. La [[tsingidou-ct-robotics-kindergarten-2026|recherche sur la robotique et la pensée informatique à la maternelle]] montre que même les jeunes enfants deviennent des producteurs par la construction ludique avec des robots, en utilisant l'apprentissage par problèmes, la narration et l'étayage — une première étape développementale vers le fait de voir la technologie comme quelque chose qu'on construit, et pas seulement qu'on fait fonctionner. Et la [[solving-vs-evaluating-genai-solutions|recherche sur l'évaluation et la critique]] démontre que la pensée informatique peut être exercée en jugeant et en déboguant des solutions d'IA défectueuses — une posture de producteur face aux productions de l'IA qui résiste au piège de la consommation passive.
 
 L'aboutissement pratique est que l'enseignement de la pensée informatique devrait être conçu pour que les apprenants *fabriquent des choses avec l'IA* — concevoir des modèles, construire des agents, élaborer des artefacts et critiquer les productions de l'IA — plutôt que de recevoir des solutions toutes faites. Cela approfondit à la fois la pensée informatique et l'[[ai-literacy|IA literacy]] en la rendant participative et créative plutôt que purement conceptuelle. Les enseignants ont à leur tour besoin d'un soutien pour passer de l'usage d'outils d'IA à la conception d'activités d'apprentissage enrichies par l'IA (voir [[teacher-role|rôle de l'enseignant]] et [[professional-training|formation professionnelle]]).
+
+Réutiliser les modèles d'autrui relève de la même posture de producteur : mettre en œuvre un modèle d'IA publié — le sélectionner, l'installer, l'exécuter et le valider — peut s'enseigner comme une compétence structurée et apprenable, assortie d'une voie de repli pour chaque défaillance anticipée ; trois étudiants en licence de chimie sans aucune formation en programmation ont ainsi reproduit et étendu un modèle de prédiction enzyme-substrat en quatre mois ([[praise-non-programmer-ai-model-implementation-2026|Achterweust et al. (2026)]]).
 
 ### Practical guidance
 
@@ -113,3 +115,4 @@ La pensée informatique est le fondement cognitif partagé qui sous-tend l'[[ai-
 - [[code-to-learn-genai-artifact-construction-2026]] — CtL-GenAI: constructionism framework for artifact construction
 - [[astor-computational-thinking-meta-review-2026]] — CT meta-review of 128 systematic reviews
 - [[tsingidou-ct-robotics-kindergarten-2026]] — Revue systématique de la pensée informatique par la robotique à la maternelle
+- [[praise-non-programmer-ai-model-implementation-2026]] — PRAISE: A Reproducible Workflow for Non-Programmer Scientists to Implement Published AI Models
