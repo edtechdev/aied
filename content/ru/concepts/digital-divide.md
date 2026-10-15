@@ -8,7 +8,7 @@ ethics: [accessibility, equity-in-ai-education]
 confidence: high
 reviewed_by: [editor]
 translation_of: concepts/digital-divide
-source_updated: "2026-10-04T16:06:05-04:00"
+source_updated: "2026-10-14T14:35:00-04:00"
 translation_note: "Автоматический перевод данной английской страницы, не проверенный носителем языка."
 contributors: [editor]
 ai_assist:
@@ -109,3 +109,5 @@ ai_assist:
 
 - [[llmersion-local-first-language-learning-2026]] — LLMersion: A Local-First AI Agent Framework for Low-Cost Home Language Learning toward Educational Equity
 - [[caee-digital-twins-stem-education-systematic-review-2026]] — Digital twin labs carry an equipment bill that bounds concurrent access
+
+Поворот к выводам на устройстве добавляет аппаратное измерение к разрыву первого уровня. Когда обучение идёт в браузере, а не в облаке, — [[browser-sized-agents-slm-webllm-tutor-2026|SLM-тьюторы, резидентные в браузере]], через WebLLM, — барьер стоимости подписки исчезает, но на его место приходит барьер возможностей: на потребительском ноутбуке та же система тратила примерно 180 секунд на попытку против 10–58 секунд для удалённого API, а устройства класса Chromebook не могут запустить модель 8B вовсе. Студенты с современным железом получают быструю беспрепятственную генерацию, тогда как студенты на старых устройствах сталкиваются с задержкой или исчерпанием памяти, поэтому локальное и дешёвое по умолчанию не равно справедливому.

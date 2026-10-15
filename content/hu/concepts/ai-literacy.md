@@ -11,7 +11,7 @@ confidence: high
 connected_resources: [education-agent-skills, edugems, mglearn, onmicro-ai, playlab, pressing-prompts, student-guide-to-ai, vibes-diy]
 reviewed_by: [editor]
 translation_of: "concepts/ai-literacy"
-source_updated: "2026-10-08T10:20:00-04:00"
+source_updated: "2026-10-15T08:25:00-04:00"
 translation_note: "*Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő.*"
 contributors: [editor]
 ai_assist:
@@ -127,6 +127,12 @@ A tudásbázis egy külön szálát az MI-írástudást nem csupán készségké
 - **Értékelés, nem csupán ellenőrzés.** [[obyrne-co-constructing-ai-boundaries-agency-judgment-2026|O'Byrne (2026)]] azt találta, hogy azok a diákok, akik a kimenetet csak helyesség, hitelesség és relevancia szempontjából ellenőrizték, fogalmilag lapos munkát is elfogadtak, míg azok, akik a árnyalatot, a hangot és az episztemikai álláspontot is megítélték, átírták azt — ezzel a „mikor nem kell delegálni az ítélőképességet" kérdését téve az írástudás kérdésévé.
 
 Ezek a kritikai szálak kiegészítik az MI-írástudás operatív és kognitív dimenzióit: ahol az utóbbiak azt kérdezik: „képes-e a tanuló az AI-t használni és értékelni?", addig a kritikai MI-írástudás azt kérdezi: „megérti és megkérdőjelezi-e a tanuló az AI-t megtestesítő hatalmi szerkezeteket?"
+
+### MI-írástudás a STEM-oktatásban
+
+A legkidolgozottabb diszciplináris bizonyítékbázis az MI-írástudás terén a STEM-oktatásból származik, és [[hallstrom-ai-literacy-stem-education-frontiers-2026|Hallström, Chiu, Ding, Koretsky és Li (2026)]] szintetizálja tíz legtöbbet hivatkozott tanulmányát (2022–2026), hogy mind az alapvonalat, mind annak korlátait megmutassa. A korpuszban az MI-írástudást hat átfedő konstruktumon keresztül definiálják — tudás/készségek/attitűdök (Su & Yang 2024), fogalmi-eljárási-kontextuális tudás (Stolpe & Hallström 2024), know-understand/use-apply/evaluate-create/ethics (Ng és mtsai. 2022), valamint Long & Magerko használat–kommunikáció–értékelés keretezése (Hornberger és mtsai. 2023) —, így a terület „fogalmi kétértelműsége” mérési probléma: két tanulmány is „MI-írástudást” mérhet anélkül, hogy ugyanazt a konstruktumot mérné. Mindössze kettő kínál teljes keretrendszert a tíz közül. A recenzió legélesebb megállapítása egy aszimmetria — a korpusz szinte kizárólag a *tanulók* írástudását méri, miközben a *tanárok*ét szinte semmi nem fejleszti, olyan hézag, amely a tanároknak szóló MI-írástudási beavatkozásokat feltételezésre, nem bizonyítékra támaszkodtatja, és amelyet a szerzők a gyakorlati követelményhez kapcsolnak, hogy a tanároknak maguknak is írástudatosnak kell lenniük, hogy ilyen beavatkozásokat vezethessenek.([[hallstrom-ai-literacy-stem-education-frontiers-2026]])
+
+A korpusz chatbot-bizonyítéka a folyékonyságalapú képzéssel szembeni irányba mutat. Ding és mtsai. (2023) azt találta, hogy a ChatGPT-alapú tutoriális oktatás az egyetemi fizikában növelte a bizalmat és a tudást, ugyanakkor megerősítette a mesterséges intelligencia „emberfeletti és tévedhetetlen” tévképét, azt következtetve, hogy az MI-írástudási oktatás „mindenekelőtt a diákok kritikai gondolkodási készségeinek javítása az információk értékelésében.” Xu és mtsai. (2026) azt találta, hogy a ChatGPT-támogatott STEM-programozás javította a bizalmat és a tudást, ugyanakkor a komputacionális gondolkodást és a független gondolkodást változatlanul hagyta — a folyékonyság nyereszei gondolkodási nyereség nélkül léteznek együtt. Mindkét megállapítás tükrözi az oldalon máshol megfogalmazott [[trust-calibration|kalibrált bizalom]] és [[cognitive-offloading|túladósodás]] aggályait: egy soha nem ellentmondó tutor magabiztos, de értékelni képtelen tanulókat produkálhat. Kimutatódtak, hogy az attitűd, nem a készültség vagy az önértékelés, volt a legerősebb meghatározója a STEM-alapképzésesek tényleges AI-eszközhasználatának (Falebita & Kok 2025), és a recenzió megjegyzi, hogy a STEM diszciplináris lefedettség a biológia és a fizika felé ferde, a technológia mint tantárgy pedig szinte hiányzik. A [[discipline-specific-aied|diszciplina-specifikus]] tervezés szempontjából a recenzió gyakorlati figyelmeztetése, hogy az átfogó kompetenciakeret-rendszerek (UNESCO, EU/OECD) „gyakran nincsenek kapcsolatban empirikus kutatásokkal vagy elégséges elméleti alátámasztással”, és kevés alkalmazható osztályteremben.
 
 ### Kinek a AI-készségei számítanak? Az oktató–munkáltató keretezési megoszlás
 
@@ -266,3 +272,4 @@ Az MI-írástudás a túltámaszkodásra nézve **kétélű**: [[student-depende
 - [[sfailq-six-facet-ai-literacy-questionnaire-2026]] — Hatfaktoros műszer, amely felelős-használati és önfejlesztési faktorokat ad hozzá, skalár-invariáns serdülők, fiatal felnőttek és középkorú felnőttek között
 - [[faculty-ai-well-being-social-supports-2026]] — Strukturális egyenletmodell az oktatók AI-jóllétéről, társadalmi támogatásairól és MI-írástudásáról
 - [[bozkurt-3wai-literacy-scale-2026]] — Validált 17 tételes önjelentéses skála három különálló MI-írástudási faktorral (Know What/How/Why); a Know-How és Know-Why a legjobban kapcsolódó (HTMT = 0,544)
+- [[hallstrom-ai-literacy-stem-education-frontiers-2026]] — Szintézis a STEM-oktatásban az MI-írástudásról szóló tíz legtöbbet hivatkozott tanulmányról (Hallström és mtsai. 2026)

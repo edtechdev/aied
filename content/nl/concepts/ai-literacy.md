@@ -11,7 +11,7 @@ confidence: high
 connected_resources: [education-agent-skills, edugems, mglearn, onmicro-ai, playlab, pressing-prompts, student-guide-to-ai, vibes-diy]
 reviewed_by: [editor]
 translation_of: "concepts/ai-literacy"
-source_updated: "2026-10-08T10:20:00-04:00"
+source_updated: "2026-10-15T08:25:00-04:00"
 translation_note: "*Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker.*"
 contributors: [editor]
 ai_assist:
@@ -127,6 +127,12 @@ Een aparte stroming in de kennisbank behandelt AI-geletterdheid niet slechts als
 - **Waarderen, niet alleen verifiëren.** [[obyrne-co-constructing-ai-boundaries-agency-judgment-2026|O'Byrne (2026)]] vond dat studenten die output alleen controleerden op nauwkeurigheid, geloofwaardigheid en relevantie toch conceptueel afgeplat werk aanvaardden, terwijl degenen die ook oordeelden over nuance, stem en epistemische standpunt het herschreven — wat "wanneer je oordeel niet moet delegeren" tot de vraag van geletterdheid maakt.
 
 Deze kritieke stromingen complementeren de operationele en cognitieve dimensies van AI-geletterdheid: waar de laatsten vragen "kan de leerling AI gebruiken en evalueren?", vraagt kritieke AI-geletterdheid "begrijpt de leerling de machtsstructuren die AI belichaamt en daagt hij die uit?"
+
+### AI-geletterdheid in STEM-onderwijs
+
+De meest ontwikkelde disciplinaire bewijsbasis voor AI-geletterdheid komt uit STEM-onderwijs, en [[hallstrom-ai-literacy-stem-education-frontiers-2026|Hallström, Chiu, Ding, Koretsky en Li (2026)]] synthetiseren de tien meest geciteerde studies (2022–2026) uit die basis om zowel de uitgangspositie als haar grenzen te tonen. Over het corpus heen wordt AI-geletterdheid gedefinieerd via zes overlappende constructen — kennis/vaardigheden/houdingen (Su & Yang 2024), conceptueel-procedureel-contextuele kennis (Stolpe & Hallström 2024), know-understand/use-apply/evaluate-create/ethics (Ng et al. 2022), en de use–communication–evaluation-kadering van Long & Magerko (Hornberger et al. 2023) — dus de „conceptuele ambiguïteit" van het veld is een meetprobleem: twee studies kunnen beide „AI-geletterdheid" meten zonder hetzelfde construct te meten. Slechts twee van de tien bieden volledige kaders. De scherpste bevinding van de review is een asymmetrie — het corpus meet bijna uitsluitend de geletterdheid van *leerlingen* terwijl het bijna niets die van *docenten* ontwikkelt, een hiaat dat docentgerichte interventies voor AI-geletterdheid op aanname in plaats van op bewijs laat rusten, en een hiaat dat de auteurs verbinden aan de praktische eis dat docenten zelf AI-geletterd moeten zijn om dergelijke interventies uit te voeren.([[hallstrom-ai-literacy-stem-education-frontiers-2026]])
+
+Het chatbotbewijs in dat corpus loopt tegen vloeiendheidsgerichte training in. Ding et al. (2023) vonden dat ChatGPT-bijles in universitair natuurkunde vertrouwen en kennis verhoogde maar een „bovennatuurlijke en onfeilbare" misvatting over AI versterkte, en concludeerden dat AI-geletterdheidsonderwijs „in de eerste plaats de kritische denkvaardigheden van leerlingen bij het beoordelen van informatie moet verbeteren". Xu et al. (2026) vonden dat door ChatGPT ondersteund STEM-programmeren vertrouwen en kennis verbeterde maar computationeel denken en zelfstandig denken onveranderd liet — winsten in vloeiendheid die samengaan met geen enkele winst in denken. Beide bevindingen spiegelen de zorgen over [[trust-calibration|vertrouwenskalibratie]] en [[cognitive-offloading|overmatige afhankelijkheid]] elders op deze pagina: een tutor die de leerling nooit tegenspreekt, kan zelfverzekerde leerlingen voortbrengen die niet kunnen evalueren. Houding, niet gereedheid of zelfeffectiviteit, bleek de sterkste determinant van daadwerkelijk AI-toolgebruik onder STEM-bachelorstudenten (Falebita & Kok 2025), en de review merkt op dat de disciplinaire dekking van STEM scheef is naar biologie en natuurkunde, met technologie als vak bijna afwezig. Voor [[discipline-specific-aied|disciplinespecifiek]] ontwerp is de praktische waarschuwing van de review dat allesomvattende competentiekaders (UNESCO, EU/OECD) „vaak geen verbinding hebben met empirisch onderzoek of voldoende theoretische onderbouwing" en dat er weinig klaslokaal toepasbaar zijn.
 
 ### Wiens AI-vaardigheden tellen? De kloof tussen het kader van docenten en dat van werkgevers
 
@@ -264,3 +270,4 @@ AI-geletterdheid is **tweesnijdend** voor overmatige afhankelijkheid: [[student-
 - [[sfailq-six-facet-ai-literacy-questionnaire-2026]] — Instrument met zes facetten dat facetten voor verantwoord gebruik en zelfontwikkeling toevoegt, scalaire invariantie over adolescenten, jonge volwassenen en volwassenen in het midden van het leven
 - [[faculty-ai-well-being-social-supports-2026]] — Structureel vergelijkingsmodel van AI-welzijn, sociale ondersteuning en AI-geletterdheid van faculteitsleden
 - [[bozkurt-3wai-literacy-scale-2026]] — Gevalideerde zelfrapportageschaal met 17 items en drie onderscheiden AI-geletterdheidsfactoren (Know What/How/Why); Know-How en Know-Why het nauwst gekoppeld (HTMT = 0.544)
+- [[hallstrom-ai-literacy-stem-education-frontiers-2026]] — Synthese van de tien meest geciteerde studies over AI-geletterdheid in STEM-onderwijs (Hallström et al. 2026)

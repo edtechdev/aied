@@ -11,7 +11,7 @@ level: [higher ed, k 12]
 confidence: high
 connected_resources: [education-agent-skills]
 translation_of: concepts/active-learning
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-13T11:05:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -53,6 +53,8 @@ KI-ermöglichtes aktives Lernen tritt in dieser Wissensbasis in mehreren Formen 
 - **Aktives Lernen als projektbasierte, gemeinschaftliche Struktur.** [[academic-league-of-ai-2026|The Academic League of AI]] organisiert außercurriculare KI-Bildung um Wettbewerbsteams, Lerngruppen und KI-für-soziale-Wirkung-Projekte und verkörpert damit aktives und [[project-based-learning|projektbasiertes Lernen]] durch demokratische Studierendengovernance statt top-down-Curriculum.
 
 - **Mindtools und generatives Engagement.** [[genai-mindtool-generative-learning|GenAI as a mindtool]] positioniert KI als Gerät, *mit* dem Studierende denken, statt als Quelle von Antworten, und bringt aktives Lernen in Übereinstimmung mit generativen Lerntheorien, in denen Lernende neue Ideen in bestehendes Wissen integrieren.
+
+- **Den Tutor als die Active-Learning-Aufgabe bauen.** [[zangari-student-created-ai-agents-codesigned-instruction-2026|Zangari et al. (2026)]] kehrten die übliche KI-Tutor-Anordnung um: statt einen Tutor zu nutzen, entwarf jede bzw. jeder von 345 Studierenden in einem 700-köpfigen Softwarekurs einen konversationellen Agenten, der einer Peer-Person drei Entwurfsmuster beibringen sollte, sodass die Active-Learning-Arbeit die Konstruktion des Agenten war — Bedarfe der Nutzenden antizipieren, abstrakte Konzepte in lehrbare Teile übersetzen. Studierende schätzten die offene Gestaltungsfreiheit (22,3 % als stärkstes positives Thema), die häufigste Beschwerde war jedoch unklare Anweisungen (23,7 %), und die Autoren mahnen, das Design ohne Kontrollgruppe und mit Freiwilligenstichprobe trage nur Aussagen zum Engagement.
 
 - **Um die Fehler des Modells herum gestalten.** Eine fünfschrittige Sequenz (unabhängige Analyse, ein standardisierter ChatGPT-Prompt, kritische Evaluation der Ausgabe, Verfeinerung und Klassendiskussion) funktioniert, weil die KI vorhersagbar falsch liegt: ChatGPT etikettiert die unelastische Nachfrage in einem Songtext als „perfectly elastic", und die Diskrepanz lehrt Studierende, Ausgaben zu validieren ([[beck-genai-literacy-economics-hands-on|Beck & Brodersen, 2025]]).
 

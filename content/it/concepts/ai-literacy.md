@@ -11,7 +11,7 @@ confidence: high
 connected_resources: [education-agent-skills, edugems, mglearn, onmicro-ai, playlab, pressing-prompts, student-guide-to-ai, vibes-diy]
 reviewed_by: [editor]
 translation_of: concepts/ai-literacy
-source_updated: "2026-10-08T10:20:00-04:00"
+source_updated: "2026-10-15T08:25:00-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -127,6 +127,12 @@ Un filone distinto della knowledge base tratta l'alfabetizzazione sull'IA non se
 - **Valutazione, non solo verifica.** [[obyrne-co-constructing-ai-boundaries-agency-judgment-2026|O'Byrne (2026)]] ha trovato che gli studenti che verificavano gli output solo per accuratezza, credibilità e pertinenza accettavano comunque lavori concettualmente appiattiti, mentre quelli che giudicavano anche sfumatura, voce e posizione epistemica li riscrivevano — rendendo "quando non delegare il giudizio" la domanda di alfabetizzazione.
 
 Questi filoni critici completano le dimensioni operative e cognitive dell'alfabetizzazione sull'IA: dove le seconde chiedono "il discente sa usare e valutare l'IA?", l'alfabetizzazione critica sull'IA chiede "il discente comprende e sfida le strutture di potere che l'IA incarna?"
+
+### Alfabetizzazione sull'IA nell'istruzione STEM
+
+La base di evidenze disciplinare più sviluppata per l'alfabetizzazione sull'IA proviene dall'istruzione STEM, e [[hallstrom-ai-literacy-stem-education-frontiers-2026|Hallström, Chiu, Ding, Koretsky e Li (2026)]] ne sintetizzano i dieci studi più citati (2022–2026) per mostrare sia la linea di base sia i suoi limiti. In tutto il corpus, l'alfabetizzazione sull'IA è definita attraverso sei costrutti sovrapposti — conoscenza/abilità/atteggiamenti (Su & Yang 2024), conoscenza concettuale-procedurale-contestuale (Stolpe & Hallström 2024), sapere-comprendere/usare-applicare/valutare-creare/etica (Ng et al. 2022) e l'inquadramento uso–comunicazione–valutazione di Long & Magerko (Hornberger et al. 2023) — quindi l'"ambiguità concettuale" del campo è un problema di misurazione: due studi possono entrambi valutare l'"alfabetizzazione sull'IA" senza valutare lo stesso costrutto. Solo due dei dieci offrono framework completi. Il risultato più netto della revisione è un'asimmetria — il corpus misura quasi interamente l'alfabetizzazione degli *studenti* mentre quasi nulla sviluppa quella degli *insegnanti*, un divario che lascia gli interventi di alfabetizzazione sull'IA rivolti ai docenti poggiare su un'assunzione anziché su evidenze, e che gli autori collegano al requisito pratico che gli insegnanti siano essi stessi alfabetizzati all'IA per poter condurre tali interventi.([[hallstrom-ai-literacy-stem-education-frontiers-2026]])
+
+Le evidenze sui chatbot in quel corpus vanno contro la formazione basata sulla fluidità. Ding et al. (2023) hanno trovato che il tutoraggio con ChatGPT in fisica universitaria aumentava fiducia e conoscenza ma rafforzava un'idea errata dell'IA come "sovrumana e infallibile", concludendo che l'educazione all'alfabetizzazione sull'IA è "prima di tutto il miglioramento delle capacità di pensiero critico degli studenti nel valutare le informazioni". Xu et al. (2026) hanno trovato che la programmazione STEM supportata da ChatGPT migliorava fiducia e conoscenza ma lasciava immutati il pensiero computazionale e il pensiero indipendente — guadagni nella fluidità che coesistevano con nessun guadagno nel pensiero. Entrambi i risultati rispecchiano le preoccupazioni di [[trust-calibration|calibrazione della fiducia]] e [[cognitive-offloading|sovra-affidamento]] presenti altrove in questa pagina: un tutor che non contraddice mai lo studente può produrre discenti fiduciosi che non sanno valutare. L'atteggiamento, non la prontezza o l'auto-efficacia, si è rivelato il determinante più forte dell'uso effettivo degli strumenti di IA tra gli studenti STEM universitari (Falebita & Kok 2025), e la revisione nota che la copertura disciplinare STEM è sbilanciata verso biologia e fisica con la tecnologia come materia quasi assente. Per una progettazione [[discipline-specific-aied|disciplinare]], l'avvertimento pratico della revisione è che i framework di competenza complessivi (UNESCO, UE/OCSE) "spesso mancano di connessione con la ricerca empirica o di un fondamento teorico sufficiente" e pochi sono applicabili in classe.
 
 ### Di chi contano le competenze sull'IA? Il divario di inquadramento tra insegnanti e datori di lavoro
 
@@ -266,3 +272,4 @@ L'alfabetizzazione sull'IA è **a doppio taglio** per il sovra-affidamento: [[st
 - [[sfailq-six-facet-ai-literacy-questionnaire-2026]] — Six-facet instrument adding responsible-use and self-development facets, scalar-invariant across adolescents, young adults and midlife adults
 - [[faculty-ai-well-being-social-supports-2026]] — Structural equation model of faculty AI well-being, social supports and AI literacy
 - [[bozkurt-3wai-literacy-scale-2026]] — Validated 17-item self-report scale with three distinct AI-literacy factors (Know What/How/Why); Know-How and Know-Why most coupled (HTMT = 0.544)
+- [[hallstrom-ai-literacy-stem-education-frontiers-2026]] — Synthesis of the ten most-cited studies of AI literacy in STEM education (Hallström et al. 2026)

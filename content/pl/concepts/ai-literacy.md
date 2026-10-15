@@ -37,7 +37,7 @@ connected_resources:
 reviewed_by:
   - "editor"
 translation_of: "concepts/ai-literacy"
-source_updated: "2026-10-08T10:20:00-04:00"
+source_updated: "2026-10-15T08:25:00-04:00"
 translation_note: "*Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka.*"
 contributors:
   - "editor"
@@ -154,6 +154,12 @@ Odrębny nurt bazy wiedzy traktuje kompetencje w zakresie SI nie tylko jako umie
 - **Wycena, a nie tylko weryfikacja.** [[obyrne-co-constructing-ai-boundaries-agency-judgment-2026|O'Byrne (2026)]] stwierdził, że studenci, którzy tylko sprawdzali wyniki pod kątem dokładności, wiarygodności i relewantności, wciąż akceptowali koncepcyjnie spłaszczoną pracę, podczas gdy ci, którzy dodatkowo oceniali niuans, głos i stanowisko epistemiczne, przepisali ją — czyniąc „kiedy nie delegować sądu" pytaniem kompetencyjnym.
 
 Te krytyczne nurty uzupełniają operacyjne i poznawcze wymiary kompetencji w zakresie SI: tam, gdzie te ostatnie pytają „czy uczeń może używać i oceniać SI?", krytyczne kompetencje w zakresie SI pytają „czy uczeń rozumie i kwestionuje struktury władzy, które SI wciela?"
+
+### Kompetencje w zakresie SI w edukacji STEM
+
+Najbardziej rozwinięta dyscyplinarna baza dowodów na temat kompetencji w zakresie SI pochodzi z edukacji STEM, a [[hallstrom-ai-literacy-stem-education-frontiers-2026|Hallström, Chiu, Ding, Koretsky i Li (2026)]] syntetyzują dziesięć najczęściej cytowanych badań (2022–2026), ukazując zarówno poziom wyjściowy, jak i jego granice. W całym korpusie kompetencje w zakresie SI są definiowane przez sześć nakładających się konstruktów — wiedza/umiejętności/postawy (Su & Yang 2024), wiedza koncepcyjno-proceduralno-kontekstowa (Stolpe & Hallström 2024), know-understand/use-apply/evaluate-create/ethics (Ng et al. 2022) oraz ramowanie use–communication–evaluation Longa i Magerko (Hornberger i wsp. 2023) — więc „koncepcyjna niejednoznaczność" dziedziny jest problemem pomiarowym: dwa badania mogą oba oceniać „kompetencje w zakresie SI", nie oceniając tego samego konstruktu. Tylko dwa z dziesięciu oferują kompletne ramy. Najostrzejszym ustaleniem przeglądu jest asymetria — korpus niemal wyłącznie mierzy kompetencje *uczniów*, podczas gdy prawie nic nie rozwija kompetencji *nauczycieli*, luka, która sprawia, że interwencje w zakresie kompetencji SI skierowane do nauczycieli opierają się na założeniu, a nie na dowodzie, i luka, którą autorzy wiążą z praktycznym wymogiem, by sami nauczyciele byli kompetentni w zakresie SI, aby mogli prowadzić takie interwencje.([[hallstrom-ai-literacy-stem-education-frontiers-2026]])
+
+Dowody dotyczące chatbotów w tym korpusie przemawiają przeciwko szkoleniom opartym na płynności. Ding i wsp. (2023) stwierdzili, że tutoring ChatGPT z fizyki na poziomie uniwersyteckim podniósł pewność siebie i wiedzę, ale wzmocnił błędne wyobrażenie o AI jako „nadczłowieka i nieomylnego", konkludując, że edukacja w zakresie kompetencji SI „przede wszystkim polega na doskonaleniu krytycznego myślenia uczniów w ocenie informacji". Xu i wsp. (2026) stwierdzili, że programowanie STEM wspierane przez ChatGPT poprawiło pewność siebie i wiedzę, ale pozostawiło bez zmian computational thinking i myślenie niezależne — zyski w płynności współistniejące z brakiem zysku w myśleniu. Oba ustalenia odzwierciedlają obawy dotyczące [[trust-calibration|kalibracji zaufania]] i [[cognitive-offloading|nadmiernego polegania na AI]] występujące gdzie indziej na tej stronie: tutor, który nigdy nie przeczy uczniowi, może wytworzyć pewnych siebie uczniów, którzy nie potrafią oceniać. Postawa, a nie gotowość ani poczucie własnej skuteczności, okazała się najsilniejszym determinantem faktycznego korzystania z narzędzi SI wśród studentów STEM (Falebita & Kok 2025), a przegląd zauważa, że pokrycie dyscyplinarne STEM jest przechylone w stronę biologii i fizyki, przy niemal całkowitej nieobecności technologii jako przedmiotu. Dla [[discipline-specific-aied|projektowania specyficznego dla dyscypliny]] praktycznym ostrzeżeniem przeglądu jest to, że kompleksowe ramy kompetencji (UNESCO, UE/OECD) „często brakuje im powiązania z badaniami empirycznymi lub wystarczających podstaw teoretycznych", a niewiele z nich nadaje się do zastosowania w klasie.
 
 ### Czyje umiejętności SI się liczą? Podział ramujący instruktor–pracodawca
 
@@ -293,3 +299,4 @@ Kompetencje w zakresie SI są **obosieczne** dla nadmiernego polegania: [[studen
 - [[sfailq-six-facet-ai-literacy-questionnaire-2026]] — Sześciofasetowy instrument dodający fasety odpowiedzialnego korzystania i samorozwoju, skalarnie niezmienny na adolescentach, młodych dorosłych i dorosłych w średnim wieku
 - [[faculty-ai-well-being-social-supports-2026]] — Model równań strukturalnych dobrostanu kadry akademickiej w kontekście SI, wsparcia społecznego i kompetencji w zakresie SI
 - [[bozkurt-3wai-literacy-scale-2026]] — Zwalidowana 17-pozycyjna skala samooceny z trzema odrębnymi czynnikami kompetencji w zakresie SI (Know What/How/Why); Know-How i Know-Why najściślej sprzężone (HTMT = 0.544)
+- [[hallstrom-ai-literacy-stem-education-frontiers-2026]] — Synteza dziesięciu najczęściej cytowanych badań nad kompetencjami w zakresie SI w edukacji STEM (Hallström i wsp. 2026)

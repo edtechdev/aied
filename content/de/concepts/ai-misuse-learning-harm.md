@@ -10,7 +10,7 @@ technology: [generative-ai]
 assessment: [assessment]
 confidence: high
 translation_of: concepts/ai-misuse-learning-harm
-source_updated: "2026-10-01T09:59:54-04:00"
+source_updated: "2026-10-13T09:18:19-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -47,6 +47,8 @@ Das Kernkonzept, in [[genai-performance-vs-learning]] artikuliert, ist, dass gen
 - **Antworten kopieren als Krücke** — Missbrauch wird weniger dadurch angetrieben, dass KI-Fehler Lernende in die Irre führen, als dadurch, dass Lernende Antworten kopieren statt zu lernen. Wenn Analysen des [[student-engagement|Engagements]] zeigen, dass Lernende überwiegend „nach der Antwort fragen“, folgt Lernschaden.
 - **Erosion der Motivation** — die wahrgenommene Verfügbarkeit einer mühelosen KI-Abkürzung reduziert autonome Motivation und Persistenz, gemäß [[self-determination-theory|Selbstbestimmungstheorie]]. Weil Persistenz das ist, was tiefes Lernen hervorbringt, verstärkt ihre Erosion den direkten Schaden.
 - **Lernverdrängung** — die Substitution von KI-Ausgabe für jene anstrengungsvollen Prozesse (Elaboration, Abruf, Selbsterklärung), die Wissen konsolidieren, im Einklang mit [[cognitive-offloading|Over-Reliance]].
+- **Verwirrung als Absicht gelesen.** Wenn Lehrende die beabsichtigte Rolle der KI in einer Aufgabe nicht benennen, definieren Lernende sie über das, was am leichtesten ist, und Lehrkräfte lesen die resultierende Fehlanpassung als Betrug statt als eine Grenze, die nie formuliert wurde ([[this-is-how-we-ai-teaching-guide-2026|Hanshaw et al., 2026]]).
+
 
 ### Die Evidenzbasis
 
@@ -110,3 +112,4 @@ Die wichtigste praktische Differenzierung ist, dass der Schaden **selektiv nach 
 - [[academic-erasure-complexity-ai-writing-2026]] — Academic erasure: the disappearance of complexity under AI-supported writing
 - [[ai-dependency-self-efficacy-teacher-support-burnout-2026]] — AI dependency fully mediates the path from self-efficacy and teacher support to learning burnout (Huang et al. 2026)
 - [[uneven-impact-generative-ai-student-learning-2026]] — Early reliance predicts negative impact while cognitive reliance predicts positive impact, and evaluation literacy strengthens rather than buffers the harm of consulting AI first (Manikonda et al. 2026)
+- [[this-is-how-we-ai-teaching-guide-2026]] — This is How We AI: A Practical Approach to Teaching with Artificial Intelligence

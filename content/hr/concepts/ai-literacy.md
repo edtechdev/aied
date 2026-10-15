@@ -11,7 +11,7 @@ confidence: high
 connected_resources: [education-agent-skills, edugems, mglearn, onmicro-ai, playlab, pressing-prompts, student-guide-to-ai, vibes-diy]
 reviewed_by: [editor]
 translation_of: "concepts/ai-literacy"
-source_updated: "2026-10-08T10:20:00-04:00"
+source_updated: "2026-10-15T08:25:00-04:00"
 translation_note: "*Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik.*"
 contributors: [editor]
 ai_assist:
@@ -141,6 +141,12 @@ Zasebna struka baze znanja pismenost u području umjetne inteligencije tretira n
 
 Te kritičke struke dopunjuju operativne i kognitivne dimenzije pismenosti o umjetnoj inteligenciji: dok ove posljednje pitaju „može li učenik koristiti i procijeniti umjetnu inteligenciju?“, kritička pismenost o umjetnoj inteligenciji pita „razumije li učenik i osporava li strukture moći koje umjetna inteligencija utjelovljuje?“
 
+
+### Pismenost o umjetnoj inteligenciji u STEM odgoju i obrazovanju
+
+Najrazrađenija disciplinska dokazna osnova za pismenost o umjetnoj inteligenciji dolazi iz STEM odgoja i obrazovanja, a [[hallstrom-ai-literacy-stem-education-frontiers-2026|Hallström, Chiu, Ding, Koretsky i Li (2026)]] sintetiziraju deset najčitanijih studija (2022.-2026.) kako bi pokazali i osnovnu razinu i njene granice. U korpusu se pismenost o umjetnoj inteligenciji definira kroz šest preklapajućih konstrukata — znanje/vještine/stavovi (Su & Yang 2024), konceptualno-proceduralno-kontekstualno znanje (Stolpe & Hallström 2024), know-understand/use-apply/evaluate-create/ethics (Ng i sur. 2022.) i Long & Magerkovo uporaba–kommunikacija–evaluacija okviriranje (Hornberger i sur. 2023) — pa je „konceptualna dvosmislenost” područja zapravo problem mjerenja: dvije studije mogu obje ocijenjivati „pismenost o umjetnoj inteligenciji” bez da ocjenjuju isti konstrukt. Samo dvije od deset nude potpune okvire. Najoštriji nalaz recenzije jest asimetrija — korpus gotovo u cijelosti mjeri pismenost *učenika*, a gotovo ništa ne razvija pismenost *nastavnika*, što je praznina koja ostavlja intervencije pismenosti o umjetnoj inteligenciji usmjerene nastavnicima da se oslanjaju na pretpostavku, a ne na dokaz, i tu se autori povezuju s praktičnim zahtjevom da nastavnici sami budu pismeni o umjetnoj inteligenciji kako bi provodili takve intervencije.([[hallstrom-ai-literacy-stem-education-frontiers-2026]])
+
+Dokazi o chatbotovima u tom korpusu idu protiv osposobljavanja utemeljenog na tečnosti. Ding i sur. (2023.) utvrdili su da je ChatGPT podučavanje na sveučilišnoj fizici podignulo samopouzdanje i znanje, ali ojačalo zabludu o „nadljudskoj i nepogrešivoj” umjetnoj inteligenciji, zaključujući da je odgoj i obrazovanje o pismenosti o umjetnoj inteligenciji „prije svega poboljšanje vještina kritičkog razmišljanja učenika pri procjeni informacija.” Xu i sur. (2026.) utvrdili su da je STEM programiranje podržano ChatGPT-om poboljšalo samopouzdanje i znanje, ali ostavilo komputacijsko razmišljanje i neovisno mišljenje nepromijenjenima — dobitci u tečnosti koji egzistiraju uz nikakvu dobit u razmišljanju. Oba nalaza zrcalili su zabrinutosti oko [[trust-calibration]] i [[cognitive-offloading|pretjerane ovisnosti]] na drugim mjestima ove stranice: podučavatelj koji nikada ne proturiječi učeniku može stvoriti samouvjerene učenike koji ne mogu vrednovati. Pokazalo se da je stav, a ne spremnost ili samoefikasnost, najjači odrednik stvarne uporabe AI alata među STEM studentima (Falebita & Kok 2025.), a recenzija bilježi da je disciplinsko pokrivenje STEM-a iskrivljeno prema biologiji i fizici, uz tehnologiju kao predmet gotovo odsutnu. Za [[discipline-specific-aied|disciplinski specifičan]] dizajn, praktično upozorenje recenzije jest da sveobuhvatni okviri kompetencija (UNESCO, EU/OECD) „često nemaju vezu s empirijskim istraživanjima ni dostatnim teorijskim utemeljenjem” i da ih je malo primjenjivo u nastavi.
 
 ### Čije UI vještine se računaju? Podjela u okviru nastavnik–poslodavac
 
@@ -319,3 +325,4 @@ Pismenost u području umjetne inteligencije za pretjeranu oslonjenost **dvosjekl
 - [[sfailq-six-facet-ai-literacy-questionnaire-2026]] — Instrument sa šest faseta koji dodaje fasete odgovorne upotrebe i samorazvoja, skalarno invarijantan kroz adolescente, mlade odrasle osobe i odrasle osobe srednje dobi
 - [[faculty-ai-well-being-social-supports-2026]] — Model strukturnih jednadžbi UI blagostanja akademskog osoblja, društvenih potpora i pismenosti o umjetnoj inteligenciji
 - [[bozkurt-3wai-literacy-scale-2026]] — Validirana ljestvica samoprocjene od 17 čestica s tri različita faktora pismenosti o umjetnoj inteligenciji (Know What/How/Why); Know-How i Know-Why najtješnije povezani (HTMT = 0.544)
+- [[hallstrom-ai-literacy-stem-education-frontiers-2026]] — Sinteza deset najčitanijih studija o pismenosti o umjetnoj inteligenciji u STEM odgoju i obrazovanju (Hallström i sur. 2026)

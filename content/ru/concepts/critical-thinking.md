@@ -11,7 +11,7 @@ level: [higher ed]
 confidence: medium
 reviewed_by: [editor]
 translation_of: concepts/critical-thinking
-source_updated: "2026-10-07T15:40:00-04:00"
+source_updated: "2026-10-15T08:25:00-04:00"
 translation_note: "Автоматический перевод данной английской страницы, не проверенный носителем языка."
 contributors: [editor]
 ai_assist:
@@ -128,3 +128,4 @@ ai_assist:
 
 - [[genai-dependence-research-creativity-2026]] — Зависимость от GenAI положительно коррелировала с критическим мышлением у 1 157 студентов магистратуры
 - [[genai-use-critical-thinking-moderation-2026]] — От использования GenAI к критическому мышлению через грамотность обратной связи, с прямым путём только для менее рефлексивных студентов
+- [[hallstrom-ai-literacy-stem-education-frontiers-2026]] — Синтез десяти наиболее цитируемых исследований ИИ-грамотности в STEM-образовании (Hallström et al. 2026)
