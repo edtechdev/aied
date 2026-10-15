@@ -13,7 +13,7 @@ confidence: high
 methods: [research-methods-aied]
 reviewed_by: [editor]
 translation_of: concepts/learning-sciences
-source_updated: "2026-09-17T14:48:59-04:00"
+source_updated: "2026-10-13T11:05:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:

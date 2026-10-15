@@ -7,7 +7,7 @@ technology: [intelligent-tutoring, knowledge-tracing, learning-analytics, studen
 assessment: [assessment, educational-measurement, psychometrically-aware-ai]
 confidence: high
 translation_of: concepts/cognitive-diagnosis
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-15T10:00:00-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:

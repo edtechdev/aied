@@ -11,7 +11,7 @@ confidence: high
 connected_resources: [education-agent-skills, edugems, mglearn, onmicro-ai, playlab, pressing-prompts, student-guide-to-ai, vibes-diy]
 reviewed_by: [editor]
 translation_of: concepts/ai-literacy
-source_updated: "2026-10-08T10:20:00-04:00"
+source_updated: "2026-10-15T08:25:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -267,3 +267,4 @@ Ujuzi wa AI ni **wa pande mbili** kwa kutegemea kupita kiasi: [[student-dependen
 - [[sfailq-six-facet-ai-literacy-questionnaire-2026]] — Kifaa cha vipimo sita kilichongeza vipimo vya matumizi yenye uwajibikisho na maendeleo binafsi, kisicho na mabadiliko kwa skela katika vijana, watu wazima vijana na watu wazima wa katikati
 - [[faculty-ai-well-being-social-supports-2026]] — Mfano wa usawa wa kimuundo wa ustawi wa AI wa wataalam, msaada wa kijamii na ujuzi wa AI
 - [[bozkurt-3wai-literacy-scale-2026]] — Kipimo cha kujitangaza cha maswali 17 kilichothibitishwa na vipimo vitatu tofauti vya ujuzi wa AI (Jua Nini/Jinsi/Kwa Nini); Jua-Jinsi na Jua-Kwa Nini ni vilivyounganishwa zaidi (HTMT = 0.544)
+- [[hallstrom-ai-literacy-stem-education-frontiers-2026]] — Muhtasari wa masudio kumi yanayonukuliwa zaidi kuhusu ujuzi wa AI katika elimu ya STEM (Hallström et al. 2026)

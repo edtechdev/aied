@@ -8,7 +8,7 @@ connected_faqs: [developing-ai-tutor, ai-feedback-at-scale]
 confidence: high
 reviewed_by: [editor]
 translation_of: concepts/feedback
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-15T08:25:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -203,3 +203,4 @@ Maoni ni moja ya mbinu zenye athari zaidi na zenye ushahidi bora zaidi katika el
 - [[ai-powered-writing-feedback-awe-review-2026]] — AI-Powered Feedback System for Writing: A Review of Automated Writing Evaluation (AWE) Tools
 - [[zhao-ji-appraisal-human-ai-revisions-2026]] — Kinachofanya marekebisho kwa msimamo wa mwandishi: maoni ya marika hufanya insha za maelezo kuwa za kukata zaidi, marekebisho ya AI huhifadhi usawa wa Contract/Expand (Zhao na Ji 2026)
 - [[xu-automated-feedback-tutor-training-2025]] — Kuboresha mifumo ya maoni ya kiotomatiki kwa mafunzo ya walimu katika hali za chini za rasilimali kupitia kuongeza data (Xu et al. 2025)
+- [[etq-ai-conversational-teacher-training-2026]] — Kitambulisho cha mazungumzo cha AI kwa dhana za ufundishaji zisizo sahihi, chenye mazungumzo yanayotegemea ushahidi (Miranda & Calvani 2026)

@@ -10,7 +10,7 @@ level: [higher ed]
 confidence: high
 reviewed_by: [editor]
 translation_of: concepts/problem-based-learning
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-15T10:00:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -99,3 +99,4 @@ Kwa sababu PBL inaweka mbele mchakato, ushirikiano, na ufahamu ulioonyeshwa zaid
 - [[rhaimi-productivemath-2025]] — ProductiveMath: AI ya Kuunga Mkono Ubuni wa Matatizo ya PF
 - [[genai-scenario-based-healthcare-education-2026]] — Mapitio ya kimfumo ya GenAI katika elimu ya matibabu inayotegemea hali (Neto et al. 2026)
 - [[chen-osman-preservice-physics-tpack-ctd-pbl-2026]] — Moduli ya CTD-PBL inayoungwa na AI na walimu 130 wa fizikia kabla ya huduma: TPACK na utatuzi wa shida za ushirikiano (Chen & Osman 2026)
+- [[facilitator-vs-ai-mediated-pbl-pharmacology-2026]] — Facilitator-Mediated Versus AI-Mediated Problem-Based Learning in Pharmacology Education: A Quasi-Experimental Study Among Second Year Medical Students

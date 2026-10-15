@@ -9,7 +9,7 @@ level: [k 12]
 confidence: high
 reviewed_by: [editor]
 translation_of: concepts/computational-thinking
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-15T10:00:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -114,3 +114,4 @@ Fikra za kihesabu ni msingi wa pamoja wa kiakili chini ya [[ai-literacy]] na [[c
 - [[code-to-learn-genai-artifact-construction-2026]] — CtL-GenAI: constructionism framework for artifact construction
 - [[astor-computational-thinking-meta-review-2026]] — CT meta-review of 128 systematic reviews
 - [[tsingidou-ct-robotics-kindergarten-2026]] — Systematic review of CT via robotics in kindergarten
+- [[praise-non-programmer-ai-model-implementation-2026]] — PRAISE: A Reproducible Workflow for Non-Programmer Scientists to Implement Published AI Models

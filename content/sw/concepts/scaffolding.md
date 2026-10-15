@@ -11,7 +11,7 @@ confidence: high
 reviewed_by: [editor]
 connected_faqs: [designing-ai-into-learning, developing-ai-tutor, asynchronous-online-courses-ai]
 translation_of: concepts/scaffolding
-source_updated: "2026-10-06T18:35:00-04:00"
+source_updated: "2026-10-15T08:25:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -146,3 +146,4 @@ Tofauti ya kanuni vs. bahati inafika zaidi ya mwalimu na hadi kazi yenyewe. [[ai
 - [[genai-cognitive-scaffold-geometric-reasoning-2026]] — GenAI kama ngazi ya msaada ya kutoa ilani inayovunja hisia ya kuona hadi uthibitishaji wa kuhitimisha katika jiometri, ambapo kuona peke yake hakutoshi (Davor 2026)
 - [[guided-ai-tutor-impasse-resolution-2026]] — Kuchunguza Mabadiliko katika Jinsi Wakala wa AI Walioongozwa Wanavyotatua Vikwazo vya Wanafunzi
 - [[structured-genai-training-physics-problem-solving-rct-2026]] — Kumfundisha mwanafunzi kama ngazi za msaada kwa matumizi ya GenAI katika kutatua matatizo ya STEM (Huang na wenzake 2026)
+- [[etq-ai-conversational-teacher-training-2026]] — Kitambulisho cha mazungumzo cha AI kwa dhana za ufundishaji zisizo sahihi, chenye mazungumzo yanayotegemea ushahidi (Miranda & Calvani 2026)

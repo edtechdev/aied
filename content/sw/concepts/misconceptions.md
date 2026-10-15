@@ -11,7 +11,7 @@ confidence: high
 connected_faqs: [addressing-common-misconceptions-ai-education]
 reviewed_by: [editor]
 translation_of: concepts/misconceptions
-source_updated: "2026-09-30T16:25:27-04:00"
+source_updated: "2026-10-15T08:25:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -142,3 +142,4 @@ Marekebisho haya yameandikwa kwa makusudi katika muundo wa [[refutation-text]] i
 - [[milicevic-socratic-trap-strategic-misconceptions-2026]] — SocraticTrap-CS: maelezo ya ufasaha na ya mamlaka ambayo ni ya kosa kwa dhana badala ya kwa ukweli (Miličević et al. 2026)
 - [[humble-prompt-injection-ai-grading-red-team-2026]] — Maagizo yaliyofichwa katika faili iliyowasilishwa yanaweza kupandisha alama ya AI bila onyo linaloonekana (Humble 2026)
 - [[children-ai-safety-misconceptions-2026]] — Dhana potofu za usalama wa AI za watoto: urafiki na roboti kusomwa vibaya kama uhakikisho wa faragha (Leisten et al. 2026)
+- [[etq-ai-conversational-teacher-training-2026]] — Kitambulisho cha mazungumzo cha AI kwa dhana za ufundishaji zisizo sahihi, chenye mazungumzo yanayotegemea ushahidi (Miranda & Calvani 2026)

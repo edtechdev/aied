@@ -21,7 +21,7 @@ ai_assist:
     date: "2026-10-13"
     agent: hermes-agent
 translation_of: concepts/process-oriented-assessment
-source_updated: "2026-10-05T11:00:00-04:00"
+source_updated: "2026-10-14T11:15:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 ---
 
@@ -104,3 +104,4 @@ Akaunti ya Thapa na Lewis ni ya dhana: hakuna washiriki, hakuna ukusanyaji wa da
 - [[metacognitive-processes-genai-interaction-logs-2026]] — Ushahidi wa mchakato wa njia: kumbukumbu na kufikiri-kwa-sauti hufichua michakato tofauti
 - [[drafttrace-ai-writing-analytics-2026]] — DraftTrace: Mazingira ya Uchanganuzi ya Mionekano Mingi kwa Uandishi Uliyounganishwa na AI
 - [[epistemic-ownership-ai-mediated-education-2026]] — Utendaji Sawa, Mchakato Tofauti: Umiliki wa Maarifa katika Elimu Inayopatanishwa na AI
+- [[stepwise-teacher-diagnosis-math-2026]] — STEPwise: Kusaidia Walimu Kutambua Ujuzi wa Wanafunzi wa Kutatua Hisabati kupitia Maswali Yaliyozalishwa na LLM

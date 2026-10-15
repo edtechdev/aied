@@ -10,7 +10,7 @@ assessment: [assessment]
 confidence: high
 reviewed_by: [editor]
 translation_of: concepts/ai-misuse-learning-harm
-source_updated: "2026-10-01T09:59:54-04:00"
+source_updated: "2026-10-13T09:18:19-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -106,3 +106,4 @@ Fasihi ya mchezo wa mfumo (dhuluma ya dokezo, niajo za kimfumo) ina mwenza wa za
 - [[academic-erasure-complexity-ai-writing-2026]] — Academic erasure: the disappearance of complexity under AI-supported writing
 - [[ai-dependency-self-efficacy-teacher-support-burnout-2026]] — Utegemezi wa AI unapatanisha kikamilifu njia kutoka uwezo binafsi na msaada wa mwalimu hadi kuchoka kwa kujifunza (Huang et al. 2026)
 - [[uneven-impact-generative-ai-student-learning-2026]] — Tegemeo la mapema linatabiri athari hasi huku tegemeo la kiakili likitabiri athari chanya, na ujuzi wa kutathmini unaipa nguvu badala ya kupunguza madhara ya kushauriana na AI kwanza (Manikonda et al. 2026)
+- [[this-is-how-we-ai-teaching-guide-2026]] — Hivi Ndivyo Tunavyotumia AI: Mbinu ya Kivitendo ya Kufundisha kwa Kutumia Akili Bandia

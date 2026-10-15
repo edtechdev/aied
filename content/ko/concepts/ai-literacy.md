@@ -11,7 +11,7 @@ connected_faqs: [incorporating-ai-literacy, ai-literacy-evidence, faculty-ai-com
 confidence: high
 connected_resources: [education-agent-skills, edugems, mglearn, onmicro-ai, playlab, pressing-prompts, student-guide-to-ai, vibes-diy]
 translation_of: concepts/ai-literacy
-source_updated: "2026-10-08T10:20:00-04:00"
+source_updated: "2026-10-15T08:25:00-04:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -128,6 +128,13 @@ AI 교육이 *왜* 가르쳐지는지에 대한 교사들의 서술은 역량 �
 
 이러한 비판적 흐름들은 AI 리터러시의 운영적·인지적 차원을 보완합니다. 후자가 "학습자가 AI를 사용하고 평가할 수 있는가?"를 묻는다면, 비판적 AI 리터러시는 "학습자가 AI가 구현하는 권력 구조를 이해하고 이의를 제기하는가?"를 묻습니다.
 
+### STEM 교육에서의 AI 리터러시
+
+AI 리터러시에 대해 가장 발전된 학문적 증거 기반은 STEM 교육에서 나오며, [[hallstrom-ai-literacy-stem-education-frontiers-2026|Hallström, Chiu, Ding, Koretsky and Li (2026)]]은 2022~2026년 사이의 가장 많이 인용된 열 편의 연구를 종합하여 기준선과 그 한계를 함께 보여줍니다. 말뭉치 전반에 걸쳐 AI 리터러시는 여섯 가지 서로 겹치는 구성개념으로 정의됩니다 — 지식/기술/태도(Su & Yang 2024), 개념적-절차적-맥락적 지식(Stolpe & Hallström 2024), 알기-이해/사용-적용/평가-창조/윤리(Ng et al. 2022), 그리고 사용-의사소통-평가 틀짓기(Long & Magerko, Hornberger et al. 2023) — 따라서 이 분야의 "개념적 모호함"은 측정의 문제입니다. 두 연구가 모두 "AI 리터러시"를 평가하면서도 서로 같은 구성개념을 평가하지 않을 수 있습니다. 열 편 가운데 단 두 편만이 완전한 프레임워크를 제공합니다. 이 검토의 가장 날카로운 발견은 비대칭입니다 — 말뭉치는 거의 전적으로 *학생들의* 리터러시를 측정하는 반면 *교사들의* 리터러시는 거의 발전시키지 않습니다. 이 격차는 교사 대상 AI 리터러시 개입이 가정이 아닌 증거 위에 놓이지 못한 채 남겨 두며, 저자들은 이를 교사가 그러한 개입을 운영하려면 스스로 AI 리터러시를 갖춰야 한다는 실천적 요구 사항과 연결합니다.([[hallstrom-ai-literacy-stem-education-frontiers-2026]])
+
+그 말뭉치의 챗봇 증거는 유창성 기반 훈련에 반합니다. Ding et al. (2023)은 대학 물리에서의 ChatGPT 튜터링이 자신감과 지식을 높였지만 AI에 대한 "초인적이고 무오류적"이라는 오해를 강화했으며, AI 리터러시 교육은 "무엇보다 먼저 정보를 평가하는 데 있어 학생들의 비판적 사고 기술을 향상시키는 것"이라고 결론내렸습니다. Xu et al. (2026)은 ChatGPT가 지원하는 STEM 프로그래밍이 자신감과 지식은 향상시켰으나 전산적 사고와 독립적 사고는 그대로 두었음을 발견했습니다 — 유창성의 이득이 사고의 이득 없이 공존합니다. 두 발견 모두 이 페이지의 다른 곳에서 다루는 [[trust-calibration]]과 [[cognitive-offloading|과잉 의존]] 우려를 거울처럼 보여줍니다. 결코 학생에게 반박하지 않는 튜터는 평가할 수 없는 자신감 넘치는 학습자를 만들어낼 수 있습니다. STEM 학부생 사이에서 실제 AI 도구 사용의 가장 강한 결정 요인은 준비도나 자기효능감이 아니라 태도였으며(Falebita & Kok 2025), 이 검토는 STEM 학문 커버리지가 생물과 물리에 치우쳐 있고 기술을 하나의 주제로 다루는 경우는 거의 없음을 지적합니다. [[discipline-specific-aied|학문 특수적]] 설계를 위해, 이 검토의 실천적 경고는 포괄적인 역량 프레임워크(UNESCO, EU/OECD)가 "종종 경험적 연구나 충분한 이론적 기반과의 연결을 결하고" 있으며 교실에 적용 가능한 것이 드물다는 것입니다.
+
+
 ### 누구의 AI 기술이 셈나는가? 교수자–고용주의 틀 짓기 분열
 
 AI 리터러시의 핵심 미해결 질문은 *어떤* 기술이 누구에게 중요한가입니다. HiBob AI Skills Framework의 26개 기술에 대해 미국의 교수자와 고용주가 부여하는 우선순위를 비교한 Ithaka S+R 연구는, 둘이 중요성에 동의한 것이 단 하나(AI가 보강된 작업에 대한 현실적 기대 설정)뿐임을 발견했습니다. 교수자들은 **비판적이고 책임 있는 사용 지향**에 무게를 둡니다 — AI의 한계 인식, [[explainable-ai|투명성]]과 출처 표기, 인간의 책임, 능동적 결과물 검토 — 이는 귀속, 검토, 정보 리터러시의 학문적 가치와 일치합니다. 고용주는 팀 기반 업무 효율을 반영하는 **생산성 지향 기술** — 워크플로 평가 및 재설계, 자동화, [[human-ai-collaboration|인간–AI 팀 구성]] — 에 무게를 둡니다. 26개 기술 가운데 절반 이상의 교수자가 가르치는 것은 단 3개에 불과하고, 가르쳐지는 것들은 비판적 사용 범주로 기울어져 있으므로, 이 보고서는 구체적인 **AI 기술 격차**를 확인합니다. 고용주가 가치를 두는 범주 전체가 대학 교육과정에서 우선시되지도 가르쳐지지도 않는다는 것입니다.([[ithaka-sr-ai-skills-college-graduates-2026]]) 이 분열은 AI 리터러시를 논쟁의 구성개념으로 규정합니다 — 학문적 환경을 위한 비판적 사용 리터러시 대 취업을 위한 워크플로 통합 리터러시 — 이 긴장은 [[framing-ai-use-for-students]], [[curriculum-design]], [[professional-training]]과 관련됩니다.
@@ -166,6 +173,8 @@ AI 리터러시의 핵심 미해결 질문은 *어떤* 기술이 누구에게 �
 [[zhi-modeling-measuring-graduate-genai-literacy-2026|Zhi, Yang and Huang (2026)]]은 Marzano의 분류 체계 위에 대학원 특정 모형을 구축합니다. 교수 14명과의 면담에 대한 근거 이론 분석이 원시 라벨 329개를 96개의 개념, 15개의 범주, 다섯 차원(인지적 기초, 운영 기술, 고차원 사고, 초인지적 성찰, 윤리적 책임)으로 응축했으며, 이를 15문항 리커트 척도로 운영화했습니다. 이 척도의 다섯 요인은 탐색적 요인 분석에서 나타났고(누적 분산의 83.14%), 두 번째 부분 표본에서의 확인적 요인 분석에서도 유지되었으며(CFI = 0.934, RMSEA = 0.083), 신뢰도는 308부의 유효 설문에 걸쳐 0.796~0.842이었습니다.
 
 관련된 질문은 도구들이 본질적으로 *무엇을* 측정할 수 있는가입니다. [[burriss-multimodal-composition-critical-ai-literacy-2026|Burriss et al. (2026)]]은 기존 AI 리터러시 척도와 역량 프레임워크가 개인 단위로 측정 가능한 수행을 전제하므로 협력적이고 창조적인 표현을 구조적으로 배제한다고 지적합니다. 이들의 단위에서의 증거는 [[summative-assessment|총괄 평가]] 점수가 아니라 [[multimodal]] 영상 산출물, 성찰, 시민적 담론이었으며, 저자들은 그러한 증거가 기존 측정을 대체하기보다 *보완*할 수 있다고 주장합니다. 따라서 구성개념을 넓히는 것은 기존 척도에 양식 풍부한 문항을 더하는 데 그치지 않고 인정 가능한 증거를 넓히는 것을 요구할 수 있습니다.
+[[bozkurt-3wai-literacy-scale-2026|Critical 3wAI Literacy Scale]](Bozkurt, Ertan & Cömert, 2026)는 성인 학습자를 대상으로 같은 삼부분 구조를 자기보고 도구로 검증했습니다(n = 546과 n = 647; χ²/df = 4.93, CFI = 0.931, α = 0.913). 이 척도의 Know-How와 Know-Why 요인은 가장 밀접하게 결합되어 나타났고(HTMT = 0.544), 이론적 지식만으로는 실천적 효능으로 번역되지 않았습니다. 자기보고 측정치로서 이 도구는 위에서 문서화된 괴리 문제를 공유하므로, 성과 측정치가 아니라 검증된 진단 도구입니다 — 그리고 저자들은 연령 집단과 문화적 맥락에 걸친 재검증을 요구합니다.
+
 
 상보적인 한 흐름은 학습자와 교사가 AI 리터러시 *자료*를 어떻게 받아들이는지를 측정합니다. 리터러시 자체가 아니라 말입니다. [[age-tiered-ai-literacy-guidebooks-2026|Wang, Chuang and Wu (2026)]]은 UNESCO의 연령 기준(9-12세와 13-18세)에 맞춰 제작된 두 판의 지침서를 약 30분의 안내된 교실 노출 후에 학생 794명과 교사 37명이 평정하게 했습니다. 수용(acceptance)은 4요인 구조(Performance Expectancy, Effort Expectancy, Perceived Playfulness, Behavioral Intention)를 유지했고, 두 학생 판에 걸쳐 측정 동일성이 뒷받침되었으며, 어린 학습자는 네 구성개념 모두에서 더 높은 점수를 받았고, 지각된 즐거움(perceived playfulness)이 두 집단 모두에서 의도와의 가장 큰 연관을 지녔습니다. 저자들은 이것이 무엇이 아닌지를 명확히 합니다. 연령 계층화된 자료에 대한 지각된 수용은 AI 리터러시 성취도, [[ethics|윤리]]적 추론, 도입, 혹은 지속적 사용이 아니며, 자료 수준의 수용은 리터러시가 향상되었다는 증거로 읽혀서는 안 됩니다.
 
@@ -261,3 +270,5 @@ AI 리터러시는 과잉 의존에 대해 **양날의 칼**입니다. [[student
 - [[ai-literacy-determinants-university-students-2026]] — 공동 결정요인으로서의 외부 자원, 디지털 역량, 심리적 프로파일, 그리고 기술 불안의 부호 반전
 - [[sfailq-six-facet-ai-literacy-questionnaire-2026]] — 책임 있는 사용과 자기발전 요인을 더한 6요인 도구, 청소년·청년·중년에 걸쳐 스칼라 동일
 - [[faculty-ai-well-being-social-supports-2026]] — 교수의 AI 웰빙, 사회적 지원, AI 리터러시의 구조방정식 모형
+- [[bozkurt-3wai-literacy-scale-2026]] — 세 가지 서로 다른 AI 리터러시 요인(What/How/Why)을 지닌 검증된 17문항 자기보고 척도; Know-How와 Know-Why가 가장 밀접히 결합(HTMT = 0.544)
+- [[hallstrom-ai-literacy-stem-education-frontiers-2026]] — STEM 교육에서 AI 리터러시에 관한 가장 많이 인용된 열 편의 연구 종합(Hallström et al. 2026)

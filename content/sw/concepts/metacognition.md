@@ -13,7 +13,7 @@ level: [k 12, higher ed]
 confidence: high
 reviewed_by: [editor]
 translation_of: concepts/metacognition
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-15T10:00:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -195,3 +195,4 @@ AI inaweza kubadilisha **kizingiti cha metaji** cha kuamua mtu anajua vya kutosh
 - [[metacognitive-processes-genai-interaction-logs-2026]] — Kumbukumbu na kufikiri-kwa-sauti vinashika michakato tofauti ya metaji katika kujifunza kunasaidiwa na GenAI
 - [[ai-cognitive-partner-reflective-thought-2026]] — mazoezi manne na michakato kumi na moja ya fikra ya kutafakari wanafunzi wanapochukulia AI kama mwenzi wa kiakili
 - [[karaki-think-aloud-ethical-genai-2026]] — Kufikiri kwa Sauti kulifanya uundaji wa ilani, uhakiki na ufikiri wa maadili yaonekane, lakini tathmini mahusisi ilibaki ya juu; si suluhisho peke yake
+- [[metacognitive-training-ai-socratic-scaffolding-preservice-2026]] — Mafunzo ya metaji na ngazi za msaada za Socratic za AI katika mazoezi ya tafakari ya walimu wanaotaka wale: ubini wa majaribio maradufu

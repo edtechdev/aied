@@ -12,7 +12,7 @@ connected_faqs: [top-10-findings-ai-education-instructors, ai-save-instructor-ti
 confidence: high
 reviewed_by: [editor]
 translation_of: concepts/teacher-role
-source_updated: "2026-10-04T10:52:53-04:00"
+source_updated: "2026-10-15T08:25:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -224,3 +224,4 @@ Jukumu la mwalimu na [[learner-identity|utambulisho wa mwanafunzi]] ni nyuso zin
 - [[yalcin-genai-programming-education-systematic-review-2026]] — GenAI in programming education: a systematic review in which instructor roles are least studied
 - [[heutagogical-teaching-ai-enhanced-education-2026]] — From information providers to learning designers: heutagogical teaching practices in AI-enhanced education
 - [[falhs-teacher-expertise-reflection-2025]] — How Expertise Levels Shape Preferences and Reflection Needs: Towards AI Reflection Systems for Teacher Empowerment (Falhs et al. 2025)
+- [[etq-ai-conversational-teacher-training-2026]] — Kitambulisho cha mazungumzo cha AI kwa dhana za ufundishaji zisizo sahihi, chenye mazungumzo yanayotegemea ushahidi (Miranda & Calvani 2026)

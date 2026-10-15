@@ -14,7 +14,7 @@ connected_faqs: [addressing-common-misconceptions-ai-education, should-we-use-ai
 institutions: [educational-policy-ai]
 reviewed_by: [editor]
 translation_of: concepts/ai-detection
-source_updated: "2026-10-04T02:59:54-04:00"
+source_updated: "2026-10-14T11:15:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -155,3 +155,4 @@ Swali la ujenzi hubadilika kutoka "tunalinda vipi wanafunzi wasitumie AI?" hadi 
 - [[angelier-ai-detection-pitfalls-inclusive-assessment-2026]] — Hati moja ya binadamu, vifaa vitano, uainishaji kutoka "0% binadamu" hadi "Iliyozalishwa na Binadamu", pamoja na kurudi kwa taasisi kwenye kugundua (Angelier 2026)
 - [[argus-academic-integrity-genai-2026]] — Argus: Uadilifu wa Kitaaluma katika Zama za AI ya Kizalishaji
 - [[student-llm-code-detection-cs1-2026]] — Msimbo wa LLM unakusanyika kwa kazi zenye vikoma vikali (1-14 aina za AST kwa kila faili 1,000) lakini si kwa zile huru - kugundulika hufuata ubini wa kazi
+- [[kazakh-ai-text-detectors-2026]] — Hawakaguliwa au Wanashtakiwa Kwa Uongo? Kutathmini Vichunguzi vya Maandishi Yaliyozalishwa na AI kwa Kikazakh
