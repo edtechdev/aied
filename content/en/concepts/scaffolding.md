@@ -2,7 +2,7 @@
 connected_resources: [onmicro-ai]
 title: Scaffolding
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-13T11:05:00-04:00"
+updated: "2026-10-15T08:25:00-04:00"
 connected_faqs: [designing-ai-into-learning, developing-ai-tutor, asynchronous-online-courses-ai]
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
@@ -135,3 +135,4 @@ The rule-guided versus ad-hoc distinction reaches past the tutor and into the as
 - [[genai-cognitive-scaffold-geometric-reasoning-2026]] — GenAI as a prompting scaffold that bridges visual intuition to deductive proof in geometry, where visualization alone is insufficient (Davor 2026)
 - [[guided-ai-tutor-impasse-resolution-2026]] — Examining Variation in How Guided AI Tutors Resolve Student Impasses
 - [[structured-genai-training-physics-problem-solving-rct-2026]] — Training the learner as scaffolding for GenAI use in STEM problem solving (Huang et al. 2026)
+- [[etq-ai-conversational-teacher-training-2026]] — Conversational AI diagnostic for teaching misconceptions with evidence-grounded dialogue (Miranda & Calvani 2026)

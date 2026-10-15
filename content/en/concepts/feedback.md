@@ -2,7 +2,7 @@
 connected_resources: [clarity, pedagogical-promptbook, snorkl]
 title: Feedback
 created: "2026-08-15T19:02:13-04:00"
-updated: "2026-10-03T02:57:43-04:00"
+updated: "2026-10-15T08:25:00-04:00"
 type: concept
 assessment: [ai-feedback-quality, assessment, automated-assessment, feedback, feedback-literacy, formative-assessment, peer-assessment]
 connected_faqs: [developing-ai-tutor, ai-feedback-at-scale]
@@ -201,3 +201,4 @@ Feedback is one of the most consequential and best-evidenced mechanisms in educa
 - [[ai-powered-writing-feedback-awe-review-2026]] — AI-Powered Feedback System for Writing: A Review of Automated Writing Evaluation (AWE) Tools
 - [[zhao-ji-appraisal-human-ai-revisions-2026]] — What a revision does to the writer's stance: peer feedback turns argumentative essays more contractive, AI revision keeps the Contract/Expand balance (Zhao & Ji 2026)
 - [[xu-automated-feedback-tutor-training-2025]] — Improving automated feedback systems for tutor training in low-resource scenarios through data augmentation (Xu et al. 2025)
+- [[etq-ai-conversational-teacher-training-2026]] — Conversational AI diagnostic for teaching misconceptions with evidence-grounded dialogue (Miranda & Calvani 2026)

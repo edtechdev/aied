@@ -1,7 +1,7 @@
 ---
 title: STEM Education
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-03T02:57:43-04:00"
+updated: "2026-10-15T08:25:00-04:00"
 type: concept
 foundations: [computational-thinking]
 technology: [intelligent-tutoring]
@@ -108,3 +108,4 @@ A concentrated batch of 2026 *International Journal of STEM Education* studies s
 - [[simulation-assisted-drone-learning-stem-2026]] — Simulation-assisted drone learning with teacher-AI co-designed scaffolds
 - [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
 - [[ai-supported-instruction-stem-meta-analysis-2026]] — Pooled effect of AI-supported STEM instruction across 35 studies, with the largest gains in high school (Doğan et al. 2026)
+- [[hallstrom-ai-literacy-stem-education-frontiers-2026]] — Synthesis of the ten most-cited studies of AI literacy in STEM education (Hallström et al. 2026)

@@ -1,7 +1,7 @@
 ---
 title: Formative Assessment
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-10-04T05:46:16-04:00"
+updated: "2026-10-15T08:25:00-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [scaffolding]
@@ -173,3 +173,4 @@ Formative assessment systems can shift from learning-support tools to behavior-m
 - [[zhu-adaptive-teaching-assistance-genai-big-data-2026]] — Adaptive teaching assistance combining generative AI and big data analytics in music education
 - [[student-llm-use-ai-question-difficulty-data-science-2026]] — Student Use of LLMs and the Limits of AI-Generated Question Difficulty in Data Science Courses
 - [[mcnamara-aim-cai-continuous-assessment-2026]] — AI-Mediated Continuous Assessment Infrastructure (AIM-CAI): Connecting Learning Evidence Across Contexts and Time (McNamara & Hasnine 2026)
+- [[etq-ai-conversational-teacher-training-2026]] — Conversational AI diagnostic for teaching misconceptions with evidence-grounded dialogue (Miranda & Calvani 2026)
