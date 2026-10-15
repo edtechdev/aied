@@ -14,7 +14,7 @@ confidence: high
 connected_faqs: [addressing-common-misconceptions-ai-education, should-we-use-ai-detectors, reduce-ai-cheating, ai-guidance-children-under-13]
 institutions: [educational-policy-ai]
 translation_of: concepts/ai-detection
-source_updated: "2026-10-04T02:59:54-04:00"
+source_updated: "2026-10-14T11:15:00-04:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -61,6 +61,7 @@ AI 탐지는 [[academic-integrity]], [[generative-ai]], [[llm|대규모 언어 �
 - **정직성의 딜레마, 계량화됨.** [[karr-ai-detection-humanization-2026|발표된 초록 642편에 대한 통제 연구(Karr 외 2026)]]는 그 [[educational-policy-ai|정책]]적 실패가 개념적일 뿐만 아니라 측정된 것임을 보여 줍니다. 지침을 준수한 가벼운 AI 수정은 38–80%가 표시되고, 수정하지 않은 최근 원본은 9–15%(비-STEM이 STEM을 크게 웃돎)가 표시되며, humanizer를 활용한 AI 텍스트는 96% 이상의 경우에서 탐지를 벗어납니다. 탐지기가 저자 의도가 아니라 표면 문체(긴 토큰 밀도와 학술 어휘 밀도)에 키를 맞추기 때문에, 정직한 AI 지원은 제재를 받고 의도적인 humanizer 회피는 빠져나갑니다. 저자들은 탐지기 점수가 결코 부정행위의 단독 증거가 되어서는 안 된다고 주장합니다.
 
 최근의 실증 평가들은 그 오류율을 막연한 것이 아니라 구체적인 것으로 만듭니다. [[hadra-ai-detector-accuracy-efl-2026|Hadra, Cambridge와 Mesbah(2026)]]는 정품 EFL 학업물, 전문적 글쓰기, AI 출력, 50/50 혼합으로 이루어진 균형 잡힌 192개 텍스트 말뭉치에 Turnitin과 Originality를 돌렸습니다. 매크로 정확도는 0.69와 0.61에 그쳐 둘 다 매크로 F1 0.55 아래로 떨어졌고, 혼합 텍스트에서는 사실상 무용했으며(Originality의 민감도 0.02), 텍스트가 길어질수록 그리고 과학적 글쓰기에서 다시 정확도가 크게 떨어졌고, 정당한 EFL 학생 작업을 잘못 분류하는 경향이 경계선상으로 유의했습니다. [[van-vlasselaer-ai-detector-reliability-2026|Van Vlasselaer, Van Droogenbroeck와 Spruyt(2026)]]는 실측 진실이 통제된 석사 논문 160편의 말뭉치에 상업 도구 네 개를 시험했습니다. 그중 세 개(Turnitin, GPTZero, Copyleaks)는 완전히 AI 생성된 논문에서 거의 전면적으로 실패했고, 오직 Pangram만이 설득력 있게 작동했습니다. 그리고 실제로 제출된 논문 1,163편에 적용했을 때 그중 45.5%에 표시를 달았는데, 저자들은 이 수치가 유병률이 아니라고 단언합니다. 실제 제출물에는 실측 진실이 없기 때문입니다. 두 연구는 같은 절차적 결론에 이릅니다. 탐지기 점수는 더 면밀한 검토를 촉발할 수 있지만, 그것은 판정이 아닙니다. 보정의 문제는 반대 방향으로도 작동합니다. GPTZero의 고신뢰 라벨이 2020–2022년에 걸쳐 지원자 단위 거짓양성율 0.7%, 0.5%, 1.4%을 지녔기 때문에, [[ai-written-admissions-essays-penalized-2026|Isley, Gaebler와 Goel(2026)]]는 그 표시를 미국 공공정책 석사 프로그램 하나의 여섯 차수 입학 사이클에 걸친 보수적 유병률 시계열로 읽었습니다. 표시된 에세이 하나 이상을 제출한 지원자 비율은 서명된 금지에도 불구하고 2023년 21.8%에서 2024년 45.1%, 2025년 56.1%로 상승했으며, 국내 지원자 38.6%에 대해 국제 지원자는 69.3%에 달했습니다. 인간 판독자는 다시 더 약한 도구였습니다. 인간 에세이 50편과 AI 에세이 50편을 구별한 입학 담당자 다섯 명은 AUC 0.70(95% CI [0.65, 0.75])에 도달하여 확률보다는 높았지만 상업 탐지기에는 크게 미치지 못했습니다.
+인간의 구절이 ChatGPT보다 이전에 작성된 것이 증명 가능한 카자흐어 말뭉치에서, 영어로 훈련된 다섯 개의 탐지기가 인간 구절의 최대 81.4%와 출판된 학생 에세이의 79.6%에 플래그를 달았고, 1%의 거짓양성률로 재보정된 뒤에는 기계 생성 텍스트를 최대 1.3%만 포착했습니다([[kazakh-ai-text-detectors-2026|Ozaman (2026)]]).
 
 잘 작동하는 해석 가능한 탐지기조차 오류를 문서 수준에 남겨 둡니다. [[detecting-gpt-assisted-writing-stylometric-2026|Kumar, Siddiqui와 Fuchsberger(2026)]]는 아홉 가지 해석 가능한 문체측정 특징 — 유형-토큰 비율, hapax 비율, 단어 엔트로피, 비기능어 비율, 품사 비율, 문장 길이 변동성 — 에 창(window) 수준 분류기를 훈련했습니다. 참가자 90명이 같은 프롬프트를 독립적으로 작성한 뒤 GPT 출력을 패러프레이즈했고, 한 참가자의 모든 창을 한 폴드에 넣은 채 보지 못한 작가 18명으로 시험했습니다. Random Forest는 보류 문서 36편에서 ROC-AUC 0.870과 F1 0.842에 도달했지만, 독립적으로 작성된 문서 18편 중 4편을 GPT 지원으로 표시하여 거짓양성율 22.2%(95% CI 9.0–45.2%)를 기록했으며, [[explainable-ai|SHAP]] 속성 분석은 hapax 비율에 가장 큰 가중치를 두었습니다. 저자들은 이 모형을 맥락적 검토를 촉발해야 할 의사결정 지원으로 규정하며, 자동 부정행위 선별기가 아니라고 말합니다. 그리고 그것이 도달하는 정확도는 오류의 무게를 낮추지 않습니다. 거짓양성 하나하나가 GPT 지원을 의심받는 독립적으로 작성된 문서이며, 이는 조정의 문제가 아니라 타당성의 문제입니다.
 
@@ -156,3 +157,4 @@ Bassett 외는 AI 탐지가 감시와 처벌로 해결할 수 없는 문제에 �
 - [[angelier-ai-detection-pitfalls-inclusive-assessment-2026]] — 인간 원고 한 편, 탐지기 다섯 개, "0% 인간"에서 "Human Generated"까지의 분류, 그리고 기록된 탐지로부터의 제도적 후퇴(Angelier 2026)
 - [[argus-academic-integrity-genai-2026]] — Argus: 생성형 AI 시대의 학문적 정직성
 - [[student-llm-code-detection-cs1-2026]] — LLM 코드는 단단히 제약된 과제에서는 수렴하나(1,000개 파일당 AST 1-14개) 자유로운 과제에서는 수렴하지 않는다. 탐지 가능성은 과제 설계를 따른다
+- [[kazakh-ai-text-detectors-2026]] — Unchecked or Falsely Accused? 카자흐어로 된 AI 생성 텍스트 탐지기 평가

@@ -10,7 +10,7 @@ technology: [generative-ai]
 assessment: [assessment]
 confidence: high
 translation_of: concepts/ai-misuse-learning-harm
-source_updated: "2026-10-01T09:59:54-04:00"
+source_updated: "2026-10-13T09:18:19-04:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -47,6 +47,7 @@ AI의 오용은 AI의 사용과 다릅니다. 사용은 AI를 학습의 보완�
 - **지팡이로서의 답 복사** — 오용은 AI의 오류가 학생을 오도해서라기보다, 학생이 배우는 대신 답을 복사해서 더 많이 움직입니다. [[student-engagement|참여]] 분석이 학생들이 주로 "답을 달라"고 요청하는 것을 보여 줄 때 학습에 대한 해가 따릅니다.
 - **동기의 침식** — 손쉬운 AI 지름길이 이용 가능하다고 인식되는 것이 [[self-determination-theory|자기결정이론]]에 따라 자율적 동기와 끈기를 줄입니다. 끈기가 깊은 학습을 낳는 것이기 때문에, 그것의 침식은 직접적 해를 증폭합니다.
 - **학습의 대체** — 지식을 굳히는 노력이 드는 과정(정교화, 인출, 자기 설명)을 AI 산출물이 대체하는 것입니다. [[cognitive-offloading|과의존]]과 일치합니다.
+- **혼란이 의도로 읽힌다.** 교수자가 과제에서 AI의 의도된 역할을 명명하지 않으면, 학생들은 그것을 가장 쉬운 것으로 정의하고, 교수는 그 결과의 불일치를 부정행위로 읽습니다 — 결코 명시된 적 없는 경계로 읽는 것이 아니라([[this-is-how-we-ai-teaching-guide-2026|Hanshaw et al., 2026]]).
 
 ### 근거 기반
 
@@ -106,3 +107,4 @@ AI의 오용은 AI의 사용과 다릅니다. 사용은 AI를 학습의 보완�
 - [[academic-erasure-complexity-ai-writing-2026]] — 학문적 소거: AI 지원 글쓰기 아래에서 사라지는 복잡성
 - [[ai-dependency-self-efficacy-teacher-support-burnout-2026]] — AI 의존이 자기효능감과 교수자 지원에서 학습 소진으로의 경로를 완전 매개한다(Huang et al. 2026)
 - [[uneven-impact-generative-ai-student-learning-2026]] — 이른 의지는 부정적 영향을 예측하고 인지적 의지는 긍정적 영향을 예측하며, 평가 리터러시는 AI에게 먼저 묻는 해를 완화하지 않고 강화한다(Manikonda et al. 2026)
+- [[this-is-how-we-ai-teaching-guide-2026]] — This is How We AI: 인공지능과 함께 가르치는 실천적 접근

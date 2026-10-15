@@ -12,7 +12,7 @@ connected_faqs: [top-10-findings-ai-education-instructors, does-ai-help-students
 confidence: high
 connected_resources: [pause-ai-use-self-examination, student-guide-to-ai]
 translation_of: concepts/cognitive-offloading
-source_updated: "2026-10-10T14:20:00-04:00"
+source_updated: "2026-10-13T04:43:42-04:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -147,6 +147,7 @@ AI 교육에서 AI의 가장 중대한 위험들:
 인지 부하 외주화(그리고 그것의 유해한 형태인 과잉 의존)는 [[trust-calibration]] — 언제 신뢰하고 언제 질문할지를 아는 것 — 그리고 [[ai-literacy]]와 근본적으로 연결됩니다. AI 리터러시에는 언제 외주화할지와 자신의 의존 패턴을 인식하는 메타인지 기술이 포함됩니다. 이것은 [[scaffolding]](인지 요구를 없애지 않고 부하를 줄이는 구조적 지원)와 [[prompt-engineering]](LLM 상호작용에서 외주화가 실행되는 주요 메커니즘)에 연결됩니다. 이것은 [[metacognition]]와 [[self-regulated-learning]] — 효과적인 학습자는 자신의 외주화 결정을 보정합니다 — 그리고 [[critical-thinking]], [[agency]], [[student-experience]]과 교차합니다. [[online-teaching-and-learning]]은 특히 취약한 맥락입니다. 그 매체는 이미 학습자를 즉각적 책임으로부터 멀리 떼어놓고, 자기 주도적이고 화면 기반인 작업은 외주화 연구가 핵심 해 메커니즘으로 확인하는 "답을 달라"는 지름길을 초대합니다([[ai-misuse-learning-harm]] 참조).
 
 **모든 외주화된 마찰이 과잉 마찰은 아니다.** [[zohar-bloom-inzlicht-against-frictionless-ai-2026|Zohar, Bloom and Inzlicht (2026)]]은 외주화 문헌에 필요한 구분을 끌어냅니다. 이전의 [[ai-technologies]]들은 *과잉* 마찰 — 학습이나 의미 가치가 적은 지루하거나 극복 불가능한 장애물 — 을 제거한 반면, 지적 작업의 생성 AI는 *유익한* 마찰도 벗겨내어, 학습자가 산출물에 의문을 제기하지 않고 아이디어 구상에서 평가로 이동하게 합니다. 이들은 연합적 증거를 노골적으로 동원합니다. AI를 사용하는 사람들은 자신의 작업을 정확히 회상하거나 재현하는 데 어려움을 겪고, 더 적은 기술을 습득하고, 전이가 덜하며, AI 지원이 제거될 때 더 나쁘게 수행합니다. 이는 AI 조력자와 에세이를 쓰는 것의 EEG 연구에서 나온 인지 부채 결과와 수렴합니다. 이들의 논증은 순수 인지 설명이 놓치는 메커니즘의 동기적 절반도 제공합니다. 노력은 우리의 행위가 중요하다는 신호이기 때문에, 그것을 외주화하면 평가된 목적과 의미가 줄어들고, AI가 한 영역에서 노력을 대체함에 따라 거기서 노력의 동기적 보상이 침식되어 의존이 더 깊어집니다. 이 논문의 교정은 금지가 아니라 경사입니다. 적당한 투쟁은 보존하고, 단지 압도하는 것만 제거하라는 것입니다([[desirable-difficulties]], [[motivation]]).
+- **저참여 신호가 발달적으로 나타난다.** 아동과 성인이 ChatGPT와 대화하는 모습을 비교한 최초의 신경영상 연구에서, 6–7세 아동은 성인에 비해 전두-두정 제어, 현저성, 배측 주의 네트워크에서 네트워크 내 연결성이 더 약했고 — 창의성 점수가 동일한 수준이었음에도 — 성인이 보인 창의성–연결성 결합을 보이지 않았습니다. 이 실행 기능들(계획, 감시, 억제)이 1학년에서 미숙하기 때문에, 저자들은 이 결과를 최소 연령 논쟁과 관련된 것으로 읽습니다. 주의할 점: ChatGPT 비사용 대조군이 없고, n = 31이며, 아동의 비판적 평가를 억압했을 수 있는 프레이밍 혼鸳鸯变量的 영향이 있습니다([[horowitz-kraus-children-chatgpt-cognitive-control-2026|Horowitz-Kraus et al. (2026)]]).
 
 - **의존적 대 자율적 외주화 — 결과를 규정하는 구분:** [[family-school-autonomy-support-genai-2026|Fan, Li and Zhang (2026)]]은 이 경계의 예리해진 버전을 사용하여 학생 589명과 초기 경력 지식 근로자의 삼파 연구에 의존하여 GenAI 증거를 조직합니다. *의존적* 외주화는 핵심 사고를 도구에 위임하고 전이된 [[agency]], 더 낮은 내재 동기, 더 나쁜 지각된 인지 결과와 연합된 반면, *자율적* 외주화는 인식론적 행위성을 학습자에게 유지하고 반대 패턴을 보였습니다. 탐지에 가장 중요한 발견은 두 방식 사이의 즉각적 성과 이득이 다르지 않았다는 것입니다. 따라서 어떤 날 유창하게 과제를 해결하는 학습자는 자신이 어느 방식에 있는지에 대한 신호를 주지 않습니다. 같은 리뷰는 증거의 더 넓은 분열을 기록합니다. 중간 정도의 전체 이득의 삼수준 [[meta-analysis-systematic-review|메타 분석]](g = 0.499; 이해, 인지, 창의성에 대해 g = 0.669) 대 의존, 피로, 더 약한 [[critical-thinking]] 사이의 연합. 그리고 부적응적 사용을 기술 중독이 아니라 외현화된 자기규제로 추적합니다.
 - **하나가 아닌 세 가지 상호작용 경로.** Neuroplasticity-AI Interaction Model(NAIM)은 모형이 해법을 제공하고 생성 노력이 사라지는 직접 우회, 특정 하위 과정이 위임되고 효과가 그 하위 과정들이 학습 목표인지에 달려 있는 인지 외주화, 그리고 모형이 도움을 노력적인 처리를 보존하도록 제약하는 비계를 구분합니다([[naim-bypass-offload-scaffold-llm-learning-2026]])
@@ -215,4 +216,5 @@ AI 교육에서 AI의 가장 중대한 위험들:
 - [[davor-ai-supported-learning-higher-order-outcomes-2026]] — 메타인지 자기규제를 통한 고차원 결과를 예측하는 외주화 경향과 검증 리터러시(Davor 등 2026)
 - [[ren-metacognitive-awareness-genai-reliance-2026]] — 성찰 프롬프트가 잘못된 AI 조언의 수용을 줄이고 인식 보정을 개선한다(Ren 2026)
 - [[shojaei-genai-dependence-critical-thinking-employability-2026]] — 비판적 사고 성향과 자기 인식 취업성에 대한 경계 조건으로서의 GenAI 의존(Shojaei 등 2026)
+- [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] — 아동은 ChatGPT와 대화하는 동안 창의성 점수가 동일했음에도 성인보다 전두-두정, 현저성, 배측 주의 연결성이 더 약했다
 - [[niu-genai-children-creative-thinking-cognitive-development-review-2026]] — GenAI와 아동의 창의적 사고: 범위 검토에서의 과잉 의존과 프롬프트 의존(Niu 등 2026)

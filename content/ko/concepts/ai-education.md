@@ -85,9 +85,9 @@ ai_assist:
 
 AI가 교수와 학습을 어떻게 지원하는가는 이 분야의 핵심입니다. 주요 개념은 다음과 같습니다.
 
-- **핵심 교수법:** [[pedagogy|교수법과 교수 전략]]은 지식베이스의 교수 방법 커버리지를 총괄하는 상위 개념이며, [[active-learning|능동적 학습]], [[collaborative-learning|협력 학습]], [[group-work|모둠 활동]], [[project-based-learning|프로젝트 기반 학습]], [[problem-based-learning|문제 기반 학습]], [[productive-failure|생산적 실패]], [[inquiry-based-learning|탐구 기반 학습]], [[experiential-learning|경험 학습]], [[game-based-learning|게임 기반 학습]], [[learning-by-teaching|가르치며 배우기]], [[scaffolding|스캐폴딩]], [[socratic-method|소크라테스식 문답법]], [[critical-pedagogy|비판적 교수법]], [[pedagogical-partnerships|교수 파트너십]], [[storytelling-in-education|스토리텔링]], [[learning-design|학습 설계]], [[online-teaching-and-learning|온라인 교수와 학습]], [[video-education|교육에서의 영상]]이 함께합니다.
+- **핵심 교수법:** [[pedagogy|교수법과 교수 전략]]은 지식베이스의 교수 방법 커버리지를 총괄하는 상위 개념이며, [[pedagogical-patterns|교육학적 패턴]](그 방법들이 귀결되는 검증된 순서들), [[active-learning|능동적 학습]], [[collaborative-learning|협력 학습]], [[group-work|모둠 활동]], [[project-based-learning|프로젝트 기반 학습]], [[problem-based-learning|문제 기반 학습]], [[productive-failure|생산적 실패]], [[inquiry-based-learning|탐구 기반 학습]], [[experiential-learning|경험 학습]], [[game-based-learning|게임 기반 학습]], [[learning-by-teaching|가르치며 배우기]], [[scaffolding|스캐폴딩]], [[socratic-method|소크라테스식 문답법]], [[critical-pedagogy|비판적 교수법]], [[pedagogical-partnerships|교수 파트너십]], [[storytelling-in-education|스토리텔링]], [[learning-design|학습 설계]], [[online-teaching-and-learning|온라인 교수와 학습]], [[video-education|교육에서의 영상]]이 함께합니다.
 - **학습 이론과 과정:** [[learning-theories|학습 이론]] 상위 개념([[behaviorism|행동주의]], [[cognitive-psychology|인지주의]], [[constructivist|구성주의]], [[sociocultural-learning|사회문화적 접근]], [[distributed-cognition|분산 인지]], [[situated-learning|상황 학습]], [[embodied-learning|체화 학습]], [[community-of-inquiry|탐구 공동체]])이 [[self-regulated-learning|자기조절 학습]], [[self-determination-theory|자기결정이론]], [[motivation|동기]], [[self-efficacy|자기효능감]], [[self-directed-learning|자기주도 학습]], [[metacognition|메타인지]], [[desirable-difficulties|바람직한 어려움]], [[transfer-of-learning|학습 전이]], [[prior-knowledge|선행 지식]], [[icap-framework|ICAP 인지적 참여]], [[refutation-text|반박 텍스트]], [[retrieval-spacing-interleaving|인출, 간격, 교차 학습]], [[activity-theory-aied|활동 이론]]처럼 학습자에게 향하는 과정과 나란히 자리합니다.
-- **학습자 참여와 경험:** [[student-engagement|학생 참여]], [[help-seeking|도움 요청]], [[social-emotional-learning|사회정서 학습]], [[well-being|웰빙]], [[creativity|창의성]], [[problem-solving|문제 해결]], [[mastery-learning|완전 학습]], [[student-ai-interaction|학생-AI 상호작용]]은 학습자가 실제로 AI를 어떻게 마주하고 영향을 받는지를 규정합니다. 그리고 [[social-norms-ai-use|AI 활용을 둘러싸고 자리 잡는 사회적 규범]]이 그것을 얼마나 공개적으로 논의할 수 있는지를 결정합니다.
+- **학습자 참여와 경험:** [[student-engagement|학생 참여]], [[help-seeking|도움 요청]], [[social-emotional-learning|사회정서 학습]], [[well-being|웰빙]], [[creativity|창의성]], [[problem-solving|문제 해결]], [[mastery-learning|완전 학습]], [[student-ai-interaction|학생-AI 상호작용]]은 학습자가 실제로 AI를 어떻게 마주하고 영향을 받는지를 규정합니다. 그리고 [[social-norms-ai-use|AI 활용을 둘러싸고 자리 잡는 사회적 규범]]이 그것을 얼마나 공개적으로 논의할 수 있는지를 결정합니다. 과목 너머에서는 [[student-support-and-success|학생 지원과 성공]]가 제도 쪽의 작업 — 상담, 외연, 의뢰, 그리고 희소한 지원의 배분 — 을 다루며, AI는 거기서 과제 완수는 확실히 움직이지만 지속이나 졸업은 움직이지 않습니다.
 
 ## 기술과 기법
 
@@ -118,6 +118,8 @@ AI는 학습자를 평가하는 방식과 AI 시스템 자체를 평가하는 �
 AI가 효과가 있는지 우리가 어떻게 아는가는 그 자체로 하나의 갈래이며, 지식베이스도 그렇게 다룹니다.
 
 - **연구 방법:** 상위 개념은 [[research-methods-aied|AIED 연구 방법]]이며, [[qualitative-research|질적]], [[quantitative-research|양적]], [[mixed-methods-research|혼합 방법]], [[design-based-research|설계 기반]], [[usability-research|사용성]] 접근과 함께 [[rct|무작위 대조 시험]], [[meta-analysis-systematic-review|메타분석과 체계적 문헌고찰]], [[network-analysis|네트워크 분석]]이 있습니다.
+이 분야의 연구 작업 자체가 이제 하나의 주제가 되었습니다. [[ai-assisted-educational-research|AI 지원 교육 연구]]는 문헌 검색, 스크리닝, 질적 코딩, 분석, 글쓰기에 이르기까지 도구로서 사용되는 AI를 다루며, 교수학술(scholarship of teaching and learning)과 같은 실천자 연구도 포함합니다. 이것은 AI가 학습자에게 무엇을 하는지를 연구하는 데 쓰이는 설계와는 구별됩니다.
+
 - **AI 시스템의 검증:** 시스템의 역량을 판단하기 위한 [[ai-ed-evaluation|교육 분야 AI 개입 평가]]와 [[benchmark|벤치마크]]가 있으며, 중요한 결과는 [[learning-gains|학습 성과]]입니다. 이 근거의 [[limitations-in-aied-research|교차적 한계]]와 [[interpreting-and-applying-aied-research|단일 연구를 읽는 방법]]이 경계의 역할을 합니다.
 
 ## 사람
@@ -192,13 +194,8 @@ AI가 효과가 있는지 우리가 어떻게 아는가는 그 자체로 하나�
 
 교육에서의 인공지능을 분야 전체 차원에서 검토한 연구들입니다. 하나의 주제가 아니라 분야 전체나 하나의 교육 수준을 훑는 연구입니다.
 
-- [[typology-generative-ai-tools-education-2026]]: Typology of Generative AI Tools for Education
-- [[raza-farooq-aied-review-2020-2025]]: Review of Artificial Intelligence in Education from 2020 to 2025
 - [[rismanchian-ai-education-four-decades-aixed-2026]]: The evolution of AI-and-education research across four decades (AIxEd framework)
 - [[mishra-control-vs-agency-history-2025]]: Control vs. agency: a history of AI in education
-- [[liang-genai-systematic-review-human-ai-2026]]: Generative AI in education: systematic review of 56 empirical studies
 - [[genai-higher-education-systematic-review-2026]]: Generative AI in higher education: systematic review of 125 studies
 - [[stanford-evidence-base-ai-k12-2026]]: The evidence base on AI in K-12: a review of 818 papers
-- [[caruana-pre-university-ai-education-slr-2026]]: Pre-university AI education: systematic literature review of 42 studies
 - [[genai-educational-outcomes-meta-analysis]]: Generative AI and educational outcomes: comprehensive meta-analysis
-- [[caeai-ai-companions-learning-over-performance-2026]]: a research agenda for AI companions built around learning rather than performance

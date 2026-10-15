@@ -8,7 +8,7 @@ assessment: [ai-feedback-quality, assessment, automated-assessment, feedback, fe
 connected_faqs: [developing-ai-tutor, ai-feedback-at-scale]
 confidence: high
 translation_of: concepts/feedback
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-15T08:25:00-04:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -200,3 +200,4 @@ AI는 피드백을 세 가지 중대한 방향으로 바꾸며, 각 방향은 �
 - [[ai-powered-writing-feedback-awe-review-2026]] — 작문을 위한 AI 기반 피드백 시스템: 자동화된 작문 평가(AWE) 도구 검토
 - [[zhao-ji-appraisal-human-ai-revisions-2026]] — 수정이 작가의 입장에 하는 일: 동료 피드백은 논증 에세이를 더 수축적으로, AI 수정은 Contract/Expand 균형을 유지한다 (Zhao & Ji 2026)
 - [[xu-automated-feedback-tutor-training-2025]] — 데이터 증강을 통해 저자원 상황에서 튜터 훈련용 자동 피드백 시스템 개선하기 (Xu et al. 2025)
+- [[etq-ai-conversational-teacher-training-2026]] — 증거에 기반한 대화로 교수 오해를 다루는 대화형 AI 진단 도구(Miranda & Calvani 2026)

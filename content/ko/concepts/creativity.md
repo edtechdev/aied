@@ -10,7 +10,7 @@ audience: [learners]
 confidence: high
 discipline: [cs education, math education, writing education]
 translation_of: concepts/creativity
-source_updated: "2026-10-11T09:05:00-04:00"
+source_updated: "2026-10-15T10:00:00-04:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -46,6 +46,8 @@ ai_assist:
 - **공동 창의성은 개인의 특성이 아니라 네트워크 효과입니다.** [[trikonet-trivalence-co-creativity-2026|Ruhland(2026)]]은 행위자-네트워크 이론에 기대어 창의성을 사회기술적 네트워크의 창발적 속성으로 모형화합니다. 그것은 인간과 비인간 행위자들 사이의 안정화, 불안정화, 재안정화의 삼중적 상호작용이며, [[generative-ai|생성형 AI]] 에이전트는 동등한 구성적 네트워크 참여자로 다루어집니다. [[pedagogy|교수법]]적 아바타가 창의적 네트워크에서 공동 설계된 한 연구에서, 아바타 디자인은 개별적인 창의적 행위가 아니라 학생, [[research-methods-aied|연구자]], 디자인 도구 사이의 번역 과정을 통해 창발한 것이었습니다. TriKoNet은 완성된 AI 아바타가 창의적 [[agency]]를 기계가 유발하는 편의("편의의 덫") 쪽으로 옮길 위험을 틀 짓고, AI의 행동 구조를 [[learners]]와 공동 구성하는 것이 공동 창의성을 보존한다고 주장합니다.
 
 - **먼저 생각하는 협력은 독립적 창의성을 지속시킵니다.** Wong과 Qiu(2026)는 ChatGPT를 사용하기 *전에* 자신의 아이디어를 먼저 낸 학생들("먼저 생각하고, ChatGPT는 나중에" 프로토콜)이 지원받은 과제에서는 즉각적인 향상을 보이지 않았으나, 이후 AI 도움 없는 창의성 과제에서는 자유로운 AI 사용 집단과 인간 전용 집단을 모두 앞질렀음을 발견했습니다. ChatGPT를 자유롭게 사용한 것은 도움이 제거되면 무너지는 일시적 수행만을 낳았는데, 이는 학습이 아니라 [[cognitive-offloading|과잉 의존]]의 한 형태입니다. 이에 비해 자신의 *자신의* 아이디어를 개선하는 것을 목표로 한 협력적 [[human-ai-collaboration|공동 창작]]은 독립적 창의성에서 지속되는 향상을 낳았습니다. 이것은 창의적 주도성을 보호하는 것이 단순히 바람직할 뿐만 아니라, AI 지원 작업을 학습으로 전환하는 것임을 직접적으로 보여 주는 실험 증거입니다.
+- **내용이 아니라 인식되는 예시의 출처가 집단적 아이디어 생성을 규정한다.** 인간이 만든 것과 AI가 만든 것으로 표시된 동일한 ChatGPT 생성 예시가 113개 커플(2인 집단)의 fNIRS 하이퍼스캐닝 연구에서 집단 창의성을 바꾸었습니다. 인간 귀속은 자극 단계에서 아이디어 독창성과 전운동 및 보충운동 영역의 뇌간 동기화를 높였고, AI 귀속은 아이디어 생성 경로 사이의 전환만 늘렸으며, 예시가 회수된 뒤에는 두 효과 모두 지속되지 않았습니다([[ai-exemplar-attribution-creativity-education-2026|Xiaoyong et al. (2026)]]).
+- **아동의 AI 지원 창의성을 구별하는 것은 능력이 아니라 발달적 구현이다.** ChatGPT와 공동 창조하는 아동과 성인을 비교한 최초의 신경영상 연구에서, 6–7세 아동과 성인은 MRI 스캐너 안에서 같은 5분짜리 구두 대화를 나누었습니다. 스캐너 밖에서 측정한 창의성은 두 집단 간에 차이가 나지 않았습니다. 그러나 성인은 전두-두정 제어, 현저성, 배측 주의 네트워크에서 유의하게 더 강한 네트워크 내 연결성을 보였고, 더 높은 창의성이 성인에서는 더 강한 전두-두정–현저성 결합을 예측한 반면 아동에서는 그렇지 않았습니다. 저자들은 이것을 기저 능력의 차이가 아니라 AI 대화 중 창의적 인지가 *구현되는* 방식의 차이로 읽습니다. 이것은 이 페이지의 비계 조언이 답해야 했던 적 없는 질문을 제기하기도 합니다. AI 지원 창의적 작업이 동원하는 제어 기제는 실제로 언제 성숭하는가? ([[horowitz-kraus-children-chatgpt-cognitive-control-2026|Horowitz-Kraus et al. (2026)]]).
 
 
 대학원 연구의 반론으로, 중국 대학원생 1,157명 가운데 [[generative-ai|생성형 AI]] 의존은 자기보고된 연구 창의성과 양의 관계를 보였으며, 기능적·과제 지향적 의존(β = 0.457)에서 실존적 의존(β = 0.147)보다 훨씬 강했고, [[critical-thinking|비판적 사고]]가 기능적 경로의 약 85.0%를 설명했습니다([[genai-dependence-research-creativity-2026|Yin 등(2026)]]).
@@ -111,4 +113,6 @@ ai_assist:
 - [[genai-creativity-k12-scoping-review-2026]] — 45개 K–12 연구에 대한 PRISMA 범위 검토: 창의성을 위한 생성형 AI의 네 가지 용도, 획일화, 그리고 측정의 격차
 
 - [[genai-dependence-research-creativity-2026]] — 대학원생 1,157명의 연구 창의성에서 기능적 대 실존적 생성형 AI 의존
+- [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] — 동일한 창의성, 다른 신경 참여: fMRI 스캐너 안에서 ChatGPT와 대화하는 아동 대 성인
 - [[ai-dependence-creativity-motivation-literacy-2026]] — AI 의존과 사용의 네 가지 동기가 자기보고된 창의성과 서로 다르게 관련됨 (Hou 등 2026)
+- [[ai-exemplar-attribution-creativity-education-2026]] — AI 시대의 창의성 교육 지원: 인식되는 예시 출처의 역할

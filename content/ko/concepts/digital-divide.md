@@ -8,7 +8,7 @@ foundations: [ai-education, ai-literacy]
 ethics: [accessibility, equity-in-ai-education]
 confidence: high
 translation_of: concepts/digital-divide
-source_updated: "2026-10-04T16:06:05-04:00"
+source_updated: "2026-10-14T14:35:00-04:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -42,6 +42,7 @@ ai_assist:
 - **표현 능력은 그 자체로 하나의 제2수준 격차입니다.** MedQA에서 정확도는 프롬프트의 정교함에 따라 올랐으며(리터러시가 낮은 문장으로는 82.4%, 전문가 수준의 표현으로는 83.4%), 요청을 동등하지만 더 분명한 문장으로 고쳐 쓰는 Prompt Equity Transformer가 이 간극을 메워, 효과적인 프롬프트 작성의 부담을 학습자에게서 시스템으로 옮겼습니다([[prompt-privilege-equitable-ai-access-2026|Jin et al. (2026)]]).
 - **대표성과 구조적 침묵:** [[structural-silence-underrepresented-language-ai-2026|소수 대표 언어에 관한 연구]]는 디지털 격차가 AI 시스템에 어떤 공동체, 언어, 관점이 반영되고 서비스되는지, 즉 불평등의 문화적·인식론적 차원으로까지 이어짐을 보여 줍니다.
 - **코드 전환은 그 자체로 하나의 배제입니다.** 대부분의 LLM 강의 도구는 단일 언어(영어) 오디오와 안정적인 인터넷을 전제로 하여, 영어와 가정 언어가 섞인 교실을 배제합니다. 인도의 UDISE+ 데이터는 학교 인터넷 접근률이 약 54%이며 도시-농촌 간 격차가 24포인트에 이르는 것으로 나타났으며, 온디바이스 전사와 로컬 우선 저장을 쓰는 이중언어 도구가 이에 대응합니다([[bilingual-llm-lecture-companion-srl-2026|Malhotra, 2026]]).
+엣지 추론으로의 전환은 제1수준 격차에 하드웨어 차원을 더합니다. 튜터링이 클라우드가 아닌 브라우저에서 실행될 때 — WebLLM을 통한 [[browser-sized-agents-slm-webllm-tutor-2026|브라우저에 상주하는 SLM 튜터]] — 구독 비용 장벽은 사라지지만 그것을 대체하는 것은 역량 장벽입니다. 소비자용 노트북에서 같은 시스템이 시도당 약 180초가 걸린 반면 원격 API는 10~58초였고, Chromebook급 기기에서는 8B 모형을 전혀 실행할 수 없습니다. 현대적 하드웨어를 지닌 학생은 빠르고 매끄러운 생성물을 얻는 반면, 오래된 기기를 쓰는 학생은 지연이나 메모리 고갈에 직면하므로, 로컬이고 값싼 것이 기본적으로 공평한 것과 같지는 않습니다.
 
 ### AI는 격차를 심화하고(때로는 좁힐 수 있습니다)
 

@@ -13,7 +13,7 @@ level: [k 12, higher ed]
 confidence: high
 connected_resources: [claw-ed, edugems, playlab, teacherserver]
 translation_of: concepts/teacher-ai-competency
-source_updated: "2026-10-09T08:42:12-04:00"
+source_updated: "2026-10-15T10:00:00-04:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -102,6 +102,7 @@ ai_assist:
 - **참여하는 느낌이 아니라 출석이 향상을 예측합니다.** 같은 6개월 프로그램에서 출석률이 역량 향상을 예측했고(β = .407, p = .001), 스스로 인식한 참여는 그렇지 않았습니다(β = .049, p = .692). 학문 분야, 교수 경험, 직함은 거의 설명하지 못했으며, 저자들은 출석을 행동적 투자로, 인식된 참여를 피상적 참여로 읽습니다([[intelligent-tpack-pd-intervention-hongkong-2025|Tan, Cheng & Ling, 2025]]).
 
 - **가치는 전공 분야별 프로그램에서도 기술에 뒤처집니다.** 홍콩의 영어 교사 30명을 대상으로 한 1년 프로그램에서 다중 양태 평가 전략에 대한 지식은 5점 만점에 3.13에서 4.15로(부분 η² = 0.571), 학생을 지원하는 역량은 3.05에서 3.98로(0.482) 높아져 모두 유의미했으나, 모든 가치 하위 영역은 Bonferroni로 보정된 α = .006 아래에서 통계적으로 평탄하게 남았습니다. 교사들은 이 향상을 워크숍만이 아니라 학교 안 공동 계획과 학교 간 집단 회의에 돌렸습니다([[multimodal-assessment-literacy-l2-teachers-genai-2026|Jiang 등, 2026)]]).
+- **마이크로러닝이 대학 교사의 AI 역량을 발전시킬 수 있다.** [[microlearning-ai-modules-vocational-teacher-education-2026|Cechovsky (2026)]]는 두 번의 온라인 집단 토론에 걸쳐 직업 교육용 모듈 두 개를 정제하여 다섯 가지 설계 원칙 — 명확한 구조와 오리엔테이션, 안내와 탐색 지원, 분절과 모듈화, 다중 양식 제시, 학습자 활성화 — 를 얻었으며, 플랫폼 탐색과 모듈 위치 파악이 주된 실제 장벽으로 나타났습니다.
 
 ## 전환되는 교수자의 역할과 교수자의 AI 역량
 
@@ -195,3 +196,4 @@ AI가 일상적인 교수와 평가 과제를 떠맡을수록, 교수자의 고�
 - [[capability-decision-model-teacher-readiness-2026]] — 수행 기반 역량 지표를 갖춘 역량 우선 교수자 준비도 모형
 - [[k12-teachers-genai-beliefs-five-countries-2026]] — K-12 교사 1,405명의 다국 설문: 준비도는 긍정적 믿음을 예측하나 우려는 예측하지 못한다
 - [[teachers-ai-belief-profiles-talis-2024-2026]] — TALIS 2024의 네 가지 교사 믿음 프로파일이 전문적 학습과 프로파일 고유의 장벽을 AI 사용에 연결한다
+- [[microlearning-ai-modules-vocational-teacher-education-2026]] — 직업 교사 교육에서 대학 교사를 위한 AI 마이크로러닝 모듈 설계: 설계 기반 연구

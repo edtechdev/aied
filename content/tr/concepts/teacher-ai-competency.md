@@ -13,7 +13,7 @@ confidence: high
 connected_resources: [claw-ed, edugems, playlab, teacherserver]
 reviewed_by: [editor]
 translation_of: concepts/teacher-ai-competency
-source_updated: "2026-10-09T08:42:12-04:00"
+source_updated: "2026-10-15T10:00:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -104,6 +104,8 @@ Tasarım temelli bir karşı örnek, yetkinliği bir merdivenin basamağı deği
 - **Kazanımları, katılıyor olma duygusu değil devam öngörür.** Aynı altı aylık programda, devam oranı yetkinlik kazanımını öngördü (β = .407, p = .001) ama öz algılı katılım öngörmedi (β = .049, p = .692); disiplin, öğretim deneyimi ve mesleki unvan az açıkladı; yazarlar devamı davranışsal yatırım, algılanan katılımı yüzeysel düzeyde bağlılık olarak okur ([[intelligent-tpack-pd-intervention-hongkong-2025|Tan, Cheng & Ling, 2025]]).
 
 - **Değerler, alana özgü bir programda da becerilerin gerisinde kalır.** 30 İngilizce öğretmeniyle Hong Kong'ta bir yıllık programda, çok kipli değerlendirme stratejileri bilgisi 5 üzerinden 3,13'ten 4,15'e yükseldi (kısmi η² = 0,571) ve öğrencileri destekleme yeterliliği 3,05'ten 3,98'e (0,482), her ikisi anlamlı; bu arada her değer alt alanı, Bonferroni düzeltmeli .006 alfa altında istatistiksel olarak düz kaldı. Öğretmenler kazanımları, yalnızca atölyelere değil okul içi ortak planlamaya ve okullar arası küme toplantılarına atfetti ([[multimodal-assessment-literacy-l2-teachers-genai-2026|Jiang ve ark., 2026]]).
+
+- **Mikro öğrenme, üniversite öğretmenlerinin YZ yetkinliğini geliştirebilir.** [[microlearning-ai-modules-vocational-teacher-education-2026|Cechovsky (2026)]], iki mesleki eğitim modülünü iki çevrimiçi grup tartışması boyunca beş tasarım ilkesine — net yapı ve yönlendirme, rehberlik ve gezinme desteği, bölümleme ve modüllere ayırma, çok kipli sunum ve öğrenen etkinleştirmesi — indirgemiş ve pratikteki başlıca engellerin platform gezinmesi ile modülleri bulma olduğunu bulmuştur.
 
 ## Öğretmen YZ yetkinliği ve dönüşen öğretmen rolü
 
@@ -196,3 +198,4 @@ Araç manzarasının kendisi bu arada incelendi. [[assessing-teachers-ai-literac
 - [[capability-decision-model-teacher-readiness-2026]] — Performans temelli yetenek göstergeleriyle sıralanmış, yetenek öncelikli öğretmen hazırbulunuş modeli
 - [[k12-teachers-genai-beliefs-five-countries-2026]] — 1.405 K-12 öğretmeninin ülkeler arası anketi: hazırbulunuş olumlu inançları öngörür ama kaygıyı öngörmez
 - [[teachers-ai-belief-profiles-talis-2024-2026]] — Dört TALIS 2024 öğretmen inanç profili, mesleki öğrenme ile profile özgü engelleri YZ kullanımına bağlar
+- [[microlearning-ai-modules-vocational-teacher-education-2026]] — Mesleki Öğretmen Eğitiminde Üniversite Öğretmenleri için YZ Mikro Öğrenme Modüllerinin Tasarlanması: Tasarım Temelli Bir Araştırma Çalışması

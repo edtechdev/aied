@@ -11,7 +11,7 @@ audience: [instructors]
 confidence: high
 reviewed_by: [editor]
 translation_of: concepts/automated-assessment
-source_updated: "2026-10-08T09:45:00-04:00"
+source_updated: "2026-10-14T11:15:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -110,6 +110,8 @@ Bir kurumun ne kadar hizalama talep etmesi gerektiği, sistemin neye karar verme
 
 Bunların herhangi biri için üç gereklilik izler. Hizalama modele ve kuruma özgü olduğundan, doğrulama yerel ve sürekli olmalıdır — başka yerden alınan manşet doğruluğu, hazır olduğunun kanıtı değildir. Notlar ortaya doğru sıkıştığından, YZ not sınırlarında ve en güçlü ile en zayıf gönderimlerde en az doğruydu; değerlendirme kararlarının en çok sonuç doğurduğu yer burasıdır. Ve bir YZ ile bir insan notu arasındaki anlaşmazlık, salt hatadan ziyade farklı yargıyı yansıttığından, tutarsızlıklar algoritmik geçersiz kılmak yerine insan yorumunu tetiklemelidir; not üzerinde nihai yetki insanlarda kalmalıdır. Benimseme ayrıca teknik ölçütlerin yakalamadığı [[governance]] yükümlülükleri taşır: otomatik kararların öğrencileri etkilediği yerlerde GDPR 22. Maddesi kapsamında açıklama hakkı; kazanım düzeyinin ve dil kullanımının notları etkilediği gösterildiğinde Equality Act yükümlülükleri; kolayca yakalanmayan hatalar için revize edilmiş itiraz süreçleri; ve geri döndürülemezlik riski — personel ve yatırım bir kez kaydığında, bir kurum, geri dönmek için ihtiyaç duyacağı insan işaretlemesini toplamaya devam etmekte zorlanabilir.
 
+Üç modeli birleştirmek bu hatayı ortadan kaldırmamıştır: hataları ilişkili olduğundan — ödevlerin %63,4’ünde aynı yön — [[machine-human-marking-agreement-institutions-2026|Corsi ve ark. (2026)]] topluluk modeli en iyi tek modelden istatistiksel olarak ayırt edilemez kalmış ve paylaşılan merkezî eğilim sıkışmasını yerinde bırakmıştır.
+
 [[tripartite-feedback-framework-ai-assessment-2026|Venetsanos (2026)]], bu gerekliliklerin öngördüğü ölçütleri sağlar; otomasyonu savunulabilir kılanın teknolojinin teknik olarak gerçekleştirebildiği şeyden ziyade görevin *epistemik durumu* olduğunu savunur. Onun çerçevesi YZ’yi, olgusal ve prosedürel iddiaların sınırlı doğrulamasıyla sınırlar — dördü de belirsiz belgelenmiş ölçütler, kurulmuş bilgiye karşı doğrudan karşılaştırma, alternatif geçerli yaklaşımların değerlendirilmemesi ve tek bir doğru cevap veya önceden belirlenmiş kabul edilebilir küme eşzamanlı olarak sağlanmalıdır, belirsizlik varsayılan olarak bir insana yükseltilir — ve o düzeydeki YZ katılımını, aynı anda sağlanması gereken beş pazarlık dışı ilkeye koşullar: bilgi tabanı değerlendirici tarafından küratörlüğü yapılmış ve modül materyallerinde değil modelin parametrik bilgisinde geri getirmeye dayalı olmalıdır; insan değerlendiriciler öğrencilere ulaşmadan önce her YZ çıktısını inceler ve paylaşılmayan hesap verebilirlikle mutlak geçersiz kılma yetkisine sahip olmalıdır; geri bildirim açık köken ve atıf taşımalıdır; ve güvenlik, başarılı bir atlatma öğrenci kohortları arasında yayıldığından, beyaz veya küçük metinde, kodlamalarda, görsellerde veya belge üst verisinde gizlenmiş talimatlar için girdi temizliği de dahil, başından itibaren hasmane kullanıma karşı tasarlanmalıdır. Aynı makale, ilkelerinin eşzamanlı uygulanabilirlik açısından test edilmemiş olduğunu ve küratörlük, güvenlik altyapısı ile yüksek sıklıklı gözetim için değerlendirici zamanının personel çabasını azaltmak yerine kaydırabileceğini açıkça belirtir — yukarıdaki yerel doğrulama gerekliliğinin yanında oturan bir ihtiyat notu.
 
 ### YZ aracılı notlandırmanın güvenliği
@@ -199,3 +201,4 @@ Otomatik değerlendirme [[assessment-validity]] (kalite güvencesi), [[formative
 - [[ai-marking-accuracy-gcse-physics-2026]] — GCSE fizikte YZ işaretlemesinin sınav kurulu notları ve öğretmen yargısıyla karşılaştırılması
 
 - [[llm-grading-assistants-public-health-2026]] — Muhakeme kipi LLM–insan notlandırma uyumunu ağırlıklı kappa 0,269’dan 0,718’e yükseltti
+- [[machine-human-marking-agreement-institutions-2026]] — Lisans ödevlerinin notlandırmasında makine–insan uyumu modele, istek metnine ve kuruma özgüdür

@@ -8,7 +8,7 @@ technology: [educational-robotics]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/project-based-learning
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-13T11:05:00-04:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -47,6 +47,7 @@ PBL은 [[active-learning]], [[experiential-learning]], [[collaborative-learning]
 - **AI 리터러시와 공동 설계:** PBL은 학습자들이 AI 도구나 자료를 공동 창작하는 많은 [[ai-literacy|AI 리터러시]]와 [[teacher-education]] 개입의 기반이 됩니다.
 - **AI 에이전트가 지원하는 소프트웨어 PBL:** [[spec-driven-development-ai-agents-sdpbl-2026|Tanaka et al. (2026)]]는 팀 기반 학부 소프트웨어 PBL 수업에 사양 주도 개발(Spec-Driven Development)을 [[agentic-ai|AI 에이전트]]와 함께 내장하여, 프로젝트를 조사, 계획, 구현, 검토 단계로 구조화하고 교수자가 운영하는 이해도 점검과 짝지었습니다.
 - **내장 교수 에이전트를 갖춘 몰입형 VR 스튜디오:** [[ai-ive-pbl-vocational-design-creativity-2026|Jin et al. (2026)]]는 직업 디자인 교육을 위해 **AI-IVE-PBL** 모델을 규정하며, PBL을 AI가 활성화한 몰입형 가상 환경([[virtual-and-augmented-reality|VR]] 헤드셋과 [[llm]] 기반 교수 조교)과 짝지었습니다. 직업 학습자들을 위한 PBL의 관례적 제약 — 제한된 장비, 재현하기 어려운 시나리오, 지연된 교사 [[scaffolding]] — 은 몰입과 세션 내 에이전트에 의해 흡수되며, 이 모델은 단계별로 명명된 행위자와 산출물을 갖춘 5단계 순환(발견, 구상, 모델링, 소통, 정제)으로 기술되며, 지속적인 아이디어 발전 담화에 의해 추동됩니다. 12주 준실험(n = 63)에서 해당 조건은 디자인 능력과 창의적 능력을 높이고 인지적, 행동적 [[student-engagement|참여]]를 향상시켰으나, 관념적 새로움(혁신적 사고)과 정의적 참여는 변하지 않았습니다 — 이는 프로젝트 가치의 디자인 특정 부분과 관념적 부분이 함께 움직이지 않는다는 상기입니다.
+- **규모 있는 에이전트 설계자로서의 학생:** [[zangari-student-created-ai-agents-codesigned-instruction-2026|Zangari et al. (2026)]]는 700명 규모의 소프트웨어 설계 강좌에서 345명의 학부생이 각자 대화형 에이전트를 만들어 동료에게 세 가지 디자인 패턴을 설명하게 했습니다 — A부분은 비계가 놓인 Dialogflow CX 실습, B부분은 개방형 설계 과제. 개방성은 가장 긍정적인 주제(22.3%)였고 불분명한 지시가 부정 주제 1위(23.7%)를 차지했으며, 지각된 학습은 퀴즈 점수와 다소 낮게만 상관되었습니다(r = 0.161–0.315). PBL에 대한 설계 교훈은, 학생이 만든 산출물이 자기 주도 교실의 소유권 이점을 AI 도구 맥락으로 옮길 수 있지만, 탐색적이고 대조군이 없는 증거는 인과적 우위가 아니라 참여 주장만을 뒷받침한다는 것입니다.
 
 PBL은 [[active-learning]], [[experiential-learning]], [[collaborative-learning]], [[educational-robotics]], [[game-based-learning]], [[computational-thinking]], 그리고 [[higher-ed]]/[[k-12]] 교수법과 연결됩니다.
 

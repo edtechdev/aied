@@ -11,7 +11,7 @@ confidence: high
 connected_resources: [education-agent-skills, edugems, mglearn, onmicro-ai, playlab, pressing-prompts, student-guide-to-ai, vibes-diy]
 reviewed_by: [editor]
 translation_of: concepts/ai-literacy
-source_updated: "2026-10-08T10:20:00-04:00"
+source_updated: "2026-10-15T08:25:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -126,6 +126,12 @@ Bilgi tabanının ayrı bir ışı, YZ okuryazarlığını yalnızca beceriler v
 - **Yalnızca doğrulama değil, değerlendirme.** [[obyrne-co-constructing-ai-boundaries-agency-judgment-2026|O’Byrne (2026)]], çıktıyı yalnızca doğruluk, güvenilirlik ve ilgililik açısından denetleyen öğrencilerin kavramsal olarak basitleştirilmiş işi yine de kabul ettiğini; nüans, ses ve epistemik duruşu da yargılayanların ise onu yeniden yazdığını bulmuştur — bu, “yargıyı ne zaman devretmemeli” sorusunu okuryazarlık sorusu yapar.
 
 Bu eleştirel ışıklar, YZ okuryazarlığının işlemsel ve bilişsel boyutlarını tamamlar: sonraki “öğrenen YZ’yi kullanıp değerlendirebilir mi?” diye sorarken, eleştirel YZ okuryazarlığı “öğrenen YZ’nin bedenselleştirdiği güç yapılarını anlıyor ve meydan okuyor mu?” diye sorar.
+
+### STEM eğitiminde YZ okuryazarlığı
+
+YZ okuryazarlığı için en gelişmiş disipliner kanıt tabanı STEM eğitiminden gelir ve [[hallstrom-ai-literacy-stem-education-frontiers-2026|Hallström, Chiu, Ding, Koretsky ve Li (2026)]], hem taban çizgisini hem de sınırlarını göstermek için en çok atıflanan on çalışmayı (2022–2026) sentezler. Korpus boyunca YZ okuryazarlığı, altı örtüşen yapı üzerinden tanımlanır — bilgi/beceriler/tutumlar (Su & Yang 2024), kavramsal-işlemsel-bağlamsal bilgi (Stolpe & Hallström 2024), bil-anla/kullan-uygula/değerlendir-yarat/etik (Ng et al. 2022) ve Long ve Magerko’nun kullan–iletişim–değerlendirme çerçevelemesi (Hornberger et al. 2023) — dolayısıyla alanın “kavramsal belirsizliği” bir ölçüm sorunudur: iki çalışma da “YZ okuryazarlığı”nı değerlendirebilir ama aynı yapıyı değerlendirmeyebilir. Ondan yalnızca ikisi eksiksiz çerçeve sunar. Derlemenin en keskin bulgusu bir asimetridir — korpus neredeyse tamamen *öğrencilerin* okuryazarlığını ölçerken *öğretmenlerin* okuryazarlığını neredeyse hiç geliştirmez; bu, öğretmene yönelik YZ okuryazarlığı müdahalelerini kanıttan çok varsıma dayandıran ve yazarların, öğretmenlerin bu tür müdahaleleri yürütebilmek için kendilerinin YZ okuryazar olma pratik gereğine bağladığı bir boşluktur.([[hallstrom-ai-literacy-stem-education-frontiers-2026]])
+
+Bu korpustaki sohbet robotu kanıtı, akıcılık temelli eğitime karşı çıkar. Ding et al. (2023), üniversite fiziğinde ChatGPT destekli özel dersin güveni ve bilgiyi artırdığını ancak YZ’nin “insanüstü ve yanılmaz” olduğu yanlış kanısını pekiştirdiğini bulmuş; YZ okuryazarlığı eğitiminin “her şeyden önce bilgiyi değerlendirmede öğrencilerin eleştirel düşünme becerilerini iyileştirmek” olduğu sonucuna varmıştır. Xu et al. (2026), ChatGPT destekli STEM programlamasının güveni ve bilgiyi artırdığını, hesaplamalı düşünceyi ve bağımsız düşünceyi ise değişmediğini bulmuştur — akıcılıktaki kazanımlar, düşünmede kazanım olmadan yan yana durmaktadır. Her iki bulgu da bu sayfadaki [[trust-calibration]] ve [[cognitive-offloading|aşırı bağımlılık]] kaygılarını yansıtır: öğrenciye hiç karşı çıkmayan bir özel öğretmen, değerlendirme yapamayan kendine güvenen öğrenenler üretebilir. STEM lisans öğrencileri arasında fiili YZ aracı kullanımının en güçlü belirleyicisinin hazır olma durumu veya özyeterlilik değil, tutum olduğu ortaya çıkmıştır (Falebita & Kok 2025); derleme ayrıca STEM disipliner kapsamının biyoloji ve fiziğe doğru çarpık olduğunu ve bir ders olarak teknolojinin neredeyse hiç yer almadığını not eder. [[discipline-specific-aied|Disipline özgü]] tasarım için derlemenin pratik uyarısı, kapsamlı yetkinlik çerçevelerinin (UNESCO, AB/OECD) “sıklıkla ampirik araştırmaya veya yeterli teorik temele bağlantı kurmaktan yoksun” olduğu ve pek azının sınıfta uygulanabilir olduğudur.
 
 ### Kimin YZ becerileri geçerli? Öğretmen–işveren çerçeveleme ayrışması
 
@@ -265,4 +271,5 @@ YZ okuryazarlığı aşırı bağımlılık açısından **çift taraflıdır**:
 - [[sfailq-six-facet-ai-literacy-questionnaire-2026]] — Six-facet instrument adding responsible-use and self-development facets, scalar-invariant across adolescents, young adults and midlife adults
 - [[faculty-ai-well-being-social-supports-2026]] — Structural equation model of faculty AI well-being, social supports and AI literacy
 - [[bozkurt-3wai-literacy-scale-2026]] — Validated 17-item self-report scale with three distinct AI-literacy factors (Know What/How/Why); Know-How and Know-Why most coupled (HTMT = 0.544)
+- [[hallstrom-ai-literacy-stem-education-frontiers-2026]] — Synthesis of the ten most-cited studies of AI literacy in STEM education (Hallström et al. 2026)
 

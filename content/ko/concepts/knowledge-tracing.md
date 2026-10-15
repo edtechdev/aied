@@ -8,7 +8,7 @@ technology: [adaptive-learning, intelligent-tutoring, knowledge-tracing, learnin
 audience: [learners]
 confidence: medium
 translation_of: concepts/knowledge-tracing
-source_updated: "2026-10-09T09:50:00-04:00"
+source_updated: "2026-10-14T11:15:00-04:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -45,6 +45,7 @@ ai_assist:
 - **LLM 강화:** [[xie-hillm-cd-2026|HiLLM-CD]]는 자동 개념 트리 구성과 계층적 숙련도 추론에 LLM을 사용합니다
 - **의미적, 추천 지향 KT:** [[exrec-exercise-recommendation-knowledge-tracing-2025|ExRec(Ozyurt, Almaci, Feuerriegel과 Sachan, 2025)]]는 구조가 아니라 *입력*을 근거 짓습니다: LLM이 각 질문에 Common Core State Standards for Mathematics에 정렬된 풀이 단계와 지식 개념으로 주석을 달고, 대조 학습이 질문, 풀이 단계, 개념 임베딩을 정렬하며(사전 군집화로 "막대 그래프 해석하기"와 "막대 그래프에서 정보 읽기" 같은 개념 변형을 제거하여 거짓 음성을 없앰), KC 보정 손실이 추적기가 그 개념의 모든 질문에 모형을 실행하여 추론하는 대신 개념 수준 지식 상태를 직접 예측하게 합니다. 보정된 추적기는 이어서 연습 추천을 위한 강화학습 환경으로 기능하며, 모형 기반 가치 추정이 비평가를 추적기 자체로 초기화합니다. 2,048명의 검사 학생에 걸쳐 평균된 XES3G5M의 네 과제에서 비 RL 기준선은 미미하거나 부정적인 지식 향상을 주었고, 가치 기반 연속 방법은 정책 기반 방법을 능가했으며, 모형 기반 가치 추정은 그것들을 꾸준히 개선했습니다 — 가장 약한 개념 과제에서 가장 날카롭게, 그곳에서는 표적이 매 단계 변합니다. 보고된 향상은 최대 지식 향상률이며 학습 성과가 아니며, 이 파이프라인은 생성된 풀이 단계에 의존하여 그 품질을 추적기가 물려받습니다.
 - **성과 기반 지식 추적(OKT):** [[pradeesh-outcome-knowledge-tracing-affinity-2026|Pradeesh 외(2026)]]는 **강의 성과를 지식 개념 그 자체로** 다루어 성과 기반 교육 체계 안에서 학생 지식을 추적하고, 어텐션이나 그래프 유래 개념 관계 대신 강의 성과와 프로그램 성과 사이의 전문가 검증된 OBE "친화 매핑"을 대체합니다. Memory Augmented Neural Network(MANN)은 각 성과의 달성이 다른 것에 미치는 영향을 모델링하고, 영역 적응 BERT 미세 조정이 성과 임베딩을 풍부하게 합니다(GRU 백본이 LSTM을 능가). 실제 [[engineering-education|공학]] 프로그램 LMS 데이터(2,416명 학생, 966개 성과)에서 OKT는 89.81% AUC에 도달하여 DKT, DKVMN, EKT, SimpleKT를 능가했고 — ASSISTments에서는 경쟁적인 결과만 주어, 이 장점이 OBE 고유의 [[curriculum-design|커리큘럼]] 구조에 묶여 있음을 확인합니다.
+- **단일의 최근성 척도가 시퀀스 모형이 사는 것의 대부분을 포착한다.** 핀란드 학생 8,996명의 수학 응답 1,927,265건에서, 문항 식별만으로 AUC .8362에 도달했고, 문항 난이도에 대한 하나의 최근성 측정을 더하자 .8669로 올라 쿼리 조건부 변환기의 .8690 이득의 93.5%를 회복한 반면, 이력의 128차원 요약은 .8687에 그쳤습니다([[knowledge-tracing-compression-math-2026|Lahtinen & McMullen (2026)]]).
 
 - **스냅샷 전용 추적.** [[skill-acquisition-without-temporal-info|Nagai 외(2026)]]는 학습자 기능 집합 사이의 포함 관계로부터 의사 시간적 순서를 유도하여, 확장하는 기능 집합을 학습 진행으로 다루어 단일 시점 스냅샷도 추적 가능하게 합니다 — 그러나 이 정식화는 기능이 결코 잃히지 않는다고 가정하므로, 퇴행하는 학습자를 위한 배치는 먼저 명시적 망각 메커니즘이 필요합니다.
 
@@ -98,3 +99,4 @@ ai_assist:
 - [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn: 인간-AI 공학습 루프에서 학습자를 배우는 에이전트형 튜터
 - [[crediting-assisted-work-inflates-mastery-2026]] — 어떤 증거 규칙이 숙달 주장을 결정하는가(Srivastava 2026)
 - [[system-one-llm-knowledge-tracing-2026]] — 단일 경로 LLM은 8명 학습자에 대해 훈련된 심층 모형보다 높게 지식을 추적하며, 비용은 그 일부이다(Lee와 Park 2026)
+- [[knowledge-tracing-compression-math-2026]] — 수학 지식 추적에서 학생 이력의 압축

@@ -11,7 +11,7 @@ assessment: [feedback]
 confidence: high
 reviewed_by: [editor]
 translation_of: concepts/scaffolding
-source_updated: "2026-10-13T11:05:00-04:00"
+source_updated: "2026-10-15T08:25:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -140,3 +140,4 @@ Kural yönlendirmeli - sıra dışı ayrımı, eğitmenin ötesine geçip görev
 - [[genai-cognitive-scaffold-geometric-reasoning-2026]] — Görselleştirmenin tek başına yetersiz olduğu geometride, görsel sezgiden tümdengelimli kanıta köprü kuran istemleyen iskele olarak üretici YZ (Davor 2026)
 - [[guided-ai-tutor-impasse-resolution-2026]] — Yönlendirilmiş YZ Özel Öğretmenlerin Öğrenci Çıkmazlarını Nasıl Çözdüğündeki Değişimin İncelenmesi
 - [[structured-genai-training-physics-problem-solving-rct-2026]] — STEM problem çözmede üretici YZ kullanımı için iskele olarak öğrenciyi eğitmek (Huang ve ark. 2026)
+- [[etq-ai-conversational-teacher-training-2026]] — Kanıta dayalı diyalogla öğretim yanlış kanıları için konuşma YZ tanısı (Miranda ve Calvani 2026)

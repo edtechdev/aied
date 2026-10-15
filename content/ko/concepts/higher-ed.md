@@ -11,7 +11,7 @@ level: [higher ed]
 connected_faqs: [incorporating-ai-literacy, ai-literacy-evidence]
 confidence: high
 translation_of: concepts/higher-ed
-source_updated: "2026-10-01T20:35:10-04:00"
+source_updated: "2026-10-13T11:30:00-04:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -41,6 +41,7 @@ ai_assist:
 ### 기관 전환
 
 [[institutional-change-framework-ai|기관 변화 틀]]은 대학이 AI에 어떻게 적응하는지를 분석합니다. 교실 수준뿐 아니라 정책, 거버넌스, 조직 구조 전반에서입니다. [[sangwa-epiq-ai-faculty-readiness-2026|EPIQ-AI 틀]]은 교수 준비도를 인식론적, 교수법적, 기관적, 질적 영역을 아우르는 사회기술적 정합성 문제로 재규정합니다. [[universities-ai-era-rethinking|AI 시대에 대학을 다시 생각하기]]는 현재의 기관 모형이 AI 기반 교육을 수용할 수 있는지를 검토합니다. 도입은 고르지 않습니다. [[alrahmi-org-drivers-ai-adoption-he-2026|조직적 동인 연구]]는 기관의 수용을 가능하게 하거나 가로막는 것을 규명하고, [[ai-uk-higher-education-policy-2026|국가 정책 분석]]은 체제적 맥락이 대학의 대응을 어떻게 규정하는지를 보여 줍니다. 구체적인 기관 설계도는 [[ai-digital-transformation-liberal-arts-lingnan-2026|Qin(2026)]]에서 나옵니다. 이 연구는 Lingnan University가 "디지털 시대의 연구 집중적 교양 기관"으로 자리매김하는 과정을 기록하며, 모든 학부생에게 GenAI 리터러시를 의무화하고 공통 핵심 과정 전반에 디지털 리터러시를 편성하면서, [[ethics|윤리]]적 추론과 비판적 판단을 앞세우는 인간 참여형 모형을 개발합니다. 그리고 저자는 교육을 위한 AI로의 전환이 기술중심적 증대가 아니라 지적 전환이라고 주장합니다. 22개의 고등 교육 AI 통합 개입에 대한 거시적 매핑([[alsheikh-mapping-ai-integration-higher-education-2026|AlSheikh 외, 2026]])은 전환이 여전히 현실보다 열망에 가깝다는 것을 뒷받침합니다. [[samr-model|SAMR 모형]]으로 등급을 매기면 대부분의 개입이 대체 또는 증대 단계에 머물고, 통합은 [[medical-education|의학]], 공학, [[cs-education|컴퓨터 과학]]에 집중되어 있으며 [[humanities-education|인문학]]의 존재는 미약하고, 증거는 북미와 아시아에 치우쳐 있으며 [[global-south|글로벌 사우스]]의 대표성은 최소입니다.
+한 글로벌 비교 지수가 담론-구조 간극을 측정합니다. [[chan-ai-institutionalization-index-global-universities-2026|Chan (2026)]]은 Times Higher Education 2026 순위에 든 100개 대학 전부의 공식 웹사이트를 20개 지표로 구성된 AI 제도화 지수에 따라 코딩했습니다. 상징적 층위는 포화한 반면 구조적 층위는 얇습니다. 100%가 AI 태스크포스와 AI 석사 학위를 보유하지만, 12%만이 임원급 AI 리더십을 두고 있으며, 5%만이 학부생에게 입문 AI 강좌를 요구하고, AI 캠퍼스 서비스를 도입한 대학이 93%임에도 AI 접근성 정책을 공표한 곳은 0%입니다.
 
 한 기관이 어떤 형태의 GenAI 사용을 정당한 것으로 인정했는가는 그 자체로 측정 가능합니다. [[sun-student-genai-entanglement-literacy-demands-2026|Sun, Dohn과 Rehm(2026)]]은 인식론적 작업이 학생과 시스템 사이에 어떻게 분배되는가에 따라 102편의 경험적 고등 교육 연구를 분류하고, Assistant(42.16%)와 Enabler(42.16%) 형태가 지배적인 반면 Generator, Reimaginator, Synthesizer를 합쳐도 문헌 집합의 5분의 1에 미치지 않는다는 것을 발견했습니다. 이는 모형이 나머지를 할 수 없어서가 아니라, 주변적 형태들이 저작권을 대학의 개인 역량 논리가 아직 인정하지 않는 방식으로 분배하기 때문입니다. 이들의 설명에 따르면, 고등 교육에서 GenAI에 대한 구속적 제약은 기술적 역량이 아니라 기관적 정당성이므로, 이 문제는 [[academic-integrity|정직성]]과 [[assessment]] 재설계와 같은 정책 영역에 정확히 놓입니다.
 
@@ -133,3 +134,4 @@ ai_assist:
 - [[nlp-student-evaluation-teaching-scoping-review-2026]] — 감정 분류에서 실행 가능하고 책임 있는 피드백으로: 교수에 대한 학생 평가에서의 NLP 범위 고찰과 증거 지도, 2015–2026
 - [[sun-student-genai-entanglement-literacy-demands-2026]] — Assistant와 Enabler 형태가 고등 교육 GenAI 연구를 지배하며, 주변적 얽힘 유형은 기관적 이유로 드물게 남는다(Sun, Dohn & Rehm 2026)
 - [[students-at-stake-ai-deployment-risks-2026]] — 입학, 재정 지원, 학생 서비스, 교육 전달에 걸친 AI 배치의 학생 측 지도와 네 가지 질문으로 된 조달 심사(Student Defense 2026)
+- [[chan-ai-institutionalization-index-global-universities-2026]] — Chan (2026): 100개 최상위 대학에 걸친 AI 제도화 지수; 담론이 구조를 앞질며, 도입은 명성과 무관하다

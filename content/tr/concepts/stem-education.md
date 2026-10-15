@@ -10,7 +10,7 @@ level: [k 12, higher ed]
 confidence: high
 reviewed_by: [editor]
 translation_of: concepts/stem-education
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-15T08:25:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -115,3 +115,4 @@ STEM’in yapılandırılmış bilgi temsili, doğrulanabilir cevapları ve hesa
 - [[simulation-assisted-drone-learning-stem-2026]] — Öğretmen–YZ birlikte tasarlanmış iskelelerle simülasyon destekli İHA öğrenimi
 - [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
 - [[ai-supported-instruction-stem-meta-analysis-2026]] — 35 çalışma kapsamında YZ destekli STEM öğretiminin birleştirilmiş etkisi; en büyük kazanımlar lisede (Doğan ve ark. 2026)
+- [[hallstrom-ai-literacy-stem-education-frontiers-2026]] — STEM eğitiminde YZ okuryazarlığına ilişkin en çok atıflanan on çalışmanın sentezi (Hallström ve ark. 2026)

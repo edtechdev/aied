@@ -10,7 +10,7 @@ level: [higher ed]
 confidence: high
 reviewed_by: [editor]
 translation_of: concepts/problem-based-learning
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-15T10:00:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -53,6 +53,8 @@ Bilgi tabanının [[research-methods-aied|araştırması]], PBL’nin üretken Y
 - **Alan uygulamaları.** [[engineering-education|Biyomedikal mühendisliğe]] yönelik PBL çerçeveleri, çoğaltma paketleriyle birlikte üretici YZ’yi özetleme ve kodlama desteği için kullanır ([[pbl-biomedical-engineering-genai-2026|Nnamdi ve ark. 2026]]); YZ destekli PBL, [[educational-robotics|robotikte]] [[computational-thinking|hesaplamalı düşünceyi]] geliştirir ([[ai-pbl-computational-thinking-2026|hesaplamalı düşünce için YZ destekli PBL]]); üretici YZ tabanlı sanal hastalar ise tıp hikâyesi alma derslerini destekler ([[genai-simulate-patient-history-pbl-2026|Mool ve ark. 2026]]).
 - **Kanıt sentezi.** [[educators-engagement-ai-pbl-review-2026|Amdan ve ark. (2026)]], PBL’de YZ ile eğitimcilerin katılımına dair 50 çalışmayı (2015–2024) bir [[human-ai-collaboration|insan-bilgisayar etkileşimi]] çerçevesinde [[meta-analysis-systematic-review|sistematik biçimde gözden geçirir]].
 - **Senaryo temelli PBL’de üretici YZ.** [[genai-scenario-based-healthcare-education-2026|Neto ve çalışma arkadaşları (2026)]], sağlık eğitiminde üretici YZ üzerine sistematik derlemelerinde senaryo temelli yaklaşımlar arasında problem temelli öğrenmeyi dâhil eder; [[prompt-engineering|istek metni tasarımının]] öğretimsel belirtim olarak işlev gördüğünü ve melez insan–YZ işbirliğinin tam otomasyonlu yaklaşımlardan daha iyi performans gösterdiğini bulur. Derleme, üretilen içeriğin öğretim çerçeveleriyle daha güçlü uyumlanması ve PBL bağlamlarında daha yeniden üretilebilir istek metni uygulamaları gereksinimini öne çıkarır.
+
+- **YZ, özel öğretmenin bilgi aktarımını taşıyabilir ama grup öğrenmesinin sosyal düzenlenmesini taşıyamaz.** Dört haftalık bir farmakoloji yarı deneysel çalışmasında, [[facilitator-vs-ai-mediated-pbl-pharmacology-2026|Shetty ve Rao (2026)]], YZ aracılı PBL’nin kolaylaştırıcı yönetimindeki akademik kazanımlara eşit çıktığını (gruplar arası p = 0,474), kolaylaştırıcılı gruptaysa grup dinamiğinde (26,51’e karşı 24,74, p = 0,035) ve eleştirel düşünmede (14,75’e karşı 13,09, p < 0,001) üstünlük korunduğunu bulmuştur.
 
 ## PBL ve ilgili pedagojiler
 
@@ -101,3 +103,4 @@ PBL, süreci, işbirliğini ve ürün üretimi karşısında gösterilen anlayı
 - [[rhaimi-productivemath-2025]] — ProductiveMath: AI to Support PF Problem Design
 - [[genai-scenario-based-healthcare-education-2026]] — Systematic review of GenAI in scenario-based healthcare education (Neto ve ark. 2026)
 - [[chen-osman-preservice-physics-tpack-ctd-pbl-2026]] — AI-supported CTD-PBL module with 130 pre-service physics teachers: TPACK and collaborative problem solving (Chen & Osman 2026)
+- [[facilitator-vs-ai-mediated-pbl-pharmacology-2026]] — Facilitator-Mediated Versus AI-Mediated Problem-Based Learning in Pharmacology Education: A Quasi-Experimental Study Among Second Year Medical Students

@@ -11,7 +11,7 @@ confidence: high
 connected_faqs: [addressing-common-misconceptions-ai-education]
 reviewed_by: [editor]
 translation_of: concepts/misconceptions
-source_updated: "2026-09-30T16:25:27-04:00"
+source_updated: "2026-10-15T08:25:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -72,6 +72,8 @@ YZ yanlış kanıları öğrenenlerle sınırlı değildir — eğitimi şekille
 - **Genel halk**, YZ’nin yetenekleri ve riskleri hakkında medya ve satıcı anlatılarını özümser. Öğrenciler bu söylem içinde öğrendiğinden, kamusal mitler öğrenci yanlış kanılarının büyüdüğü zemin olur. YZ yanlış kanılarını düzeltmek bu nedenle yalnızca öğrenenlere değil tüm eğitim ekosistemine yönelik bir [[ai-literacy]] görevidir.
 
 Bu genişlik, bilgi tabanının yanlış kanıları tamamen öğrenciye dönük bir tema değil kesişen temel bir tema olarak ele almasının nedenidir: aynı kalibrasyon hataları öğrenenlerde, öğretmenlerde, kurumlarda ve halkta tekrar eder ve onları düzeltmek hem bireysel inançlarla hem de onları besleyen söylemle yüzleşmeyi gerektirir.
+
+Öğretmenlerin pedagojik yanlış kanıları bunun ayna görüntüsüdür: YZ hakkında yanlış anlamalar değil, YZ’den bağımsız olarak ayakta kalan ve kanıtla desteklenmeyen öğretime ilişkin inançlar. [[etq-ai-conversational-teacher-training-2026|Miranda ve Calvani (2026)]], bunu Etkin Öğretim Anketi ile ölçer; 50 ikili madde meta analitik etki büyüklüklerine (d ≥ 0,40) eşlenir, böylece bir öğretmenin cevabı kanıtla uyumlu bir kıyasa karşı karşılaştırılabilir — ve bulguları yanlış kanıların derin ve özgül olduğudur. 123 İtalyan eğitimciyle yapılan bir pilot çalışmada, anlaşmazlık en çok bilişsel öğrenme stillerinde (öğretmenlerin %78’i görsel/işitsel eşleştirmeyi savundu), kapsama ve grup çalışmasında (%68) ve EdTech aşırı yüklemesinde (%54) kümelenmiş; planlama, bilişsel, değerlendirici ve yönetim boyutlarında ortalama hizalama %50’ye yakın kalmıştır. Düzeltme tasarımı için iki ayrıntı önemlidir. Birincisi, yanlış kanılar üniversite eğitiminden ve öğretmenlik uygulamasından sağ çıkar — yazarların “okula girişten önce” başlayan ve ayakta kalan bir “içselleştirilmiş sağduyu” olarak tanımladığı — dolayısıyla bir dersin kapattığı bilgi boşlukları değildir. İkincisi, aynı maddeler öğretmenin bağlamını kanıt sunulmadan önce doğrulayan konuşma tabanlı bir YZ ile sunulduğunda, itirazların %41’i kanıtın kendisinden çok gerçek bağlamsal kısıtları (sınıf mevcudu, özel gereksinimler, müfredat kapsamı) ile ilgili olmuş ve %5,9’u sistemi “algoritmik bir dogma makinesi” olarak reddetmiş — normatif çerçevelemenin yansıma yerine savunmacılık doğurduğu sınır koşulu. [[teacher-ai-competency]] gelişimi için çıkarım, tanı artı diyalogun hangi inançların kanıta dayalı anlaşmazlık, hangisinin yanlış kanı olduğunu ortaya çıkarabileceğidir; bunu bir puan tek başına yapamaz.
 
 ### Yanlış kanıları düzeltmek
 
@@ -142,3 +144,4 @@ Bu çürütmeler kasten [[refutation-text]] biçiminde yazılmıştır, böylece
 - [[milicevic-socratic-trap-strategic-misconceptions-2026]] — SocraticTrap-CS: olgusaldan çok kavramsal olarak yanlış olan akıcı, yetkili açıklamalar (Miličević ve ark. 2026)
 - [[humble-prompt-injection-ai-grading-red-team-2026]] — Teslim edilen bir dosyadaki gizli talimatlar, hiçbir görünür uyarı olmaksızın YZ puanlı bir notu yükseltebilir (Humble 2026)
 - [[children-ai-safety-misconceptions-2026]] — Çocukların YZ güvenliği yanlış kanıları: bir robotla arkadaşlığın mahremiyet garantisi olarak yanlış okunması (Leisten ve ark. 2026)
+- [[etq-ai-conversational-teacher-training-2026]] — Kanıta dayalı diyalogla öğretim yanlış kanıları için konuşma YZ tanısı (Miranda ve Calvani 2026)

@@ -9,7 +9,7 @@ connected_faqs: [ai-literacy-evidence, evaluating-ai-interventions-methods]
 confidence: medium
 reviewed_by: [editor]
 translation_of: concepts/educational-measurement
-source_updated: "2026-10-06T02:05:50-04:00"
+source_updated: "2026-10-14T11:15:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -42,6 +42,8 @@ Eğitimde ölçme, öğrenmeye ilişkin gözlemleri — yanıtları, davranışl
 - **YZ ile öngörülen zorluk ve kalibrasyon:** [[llm-difficulty-calibration-programming-exams-2026|LLM zorluk kalibrasyonu]] ve [[llm-item-difficulty-prediction|madde zorluk öngörüsü]], madde zorluğunu tahmin etmek için LLM’leri kullanır; bunlar psikometrik tahminlere karşı doğrulanmalıdır (bkz. [[item-response-theory]]). [[razavi-powers-item-difficulty-llm-2026|Razavi ve Powers (2026)]], bu öncülü K-5 düzeyinde geniş ölçekli bir test eklemektedir: Rasch IRT modeliyle kalibre edilmiş 5.170 matematik ve okuma maddesi genelinde, GPT-4o’nun sıfır-örnek zorluk derecelendirmeleri gerçek zorluklarla orta düzeyden güçlü düzeye korelasyon göstermiştir (matematikte r = 0,83, okumada r = 0,81), ancak sınıf düzeylerine göre düzensizdir ve K ile 1. sınıflarda sınıf ortalaması kukla değişkeninden daha iyi değildir. Özellik temelli bir yaklaşım — ağaç tabanlı modellere beslenen LLM kaynaklı bilişsel ve dilsel özellikler — r = 0,87’ye varan korelasyonlara ulaşmış; sınıf düzeyi ve kelime sayısı en üst sıradaki öngörücüler olmuştur. Çalışma, ölçme girdisi olarak YZ ile öngörülen zorluğun hem vaadini hem sınırlarını göstermekte ve test uzmanlarına pratik yedi adımlı bir iş akışı sunmaktadır.
 
 - **Üretilmiş zorluk etiketleri zorluğu ölçmediğinde.** Konuşlandırılmış 311 LLM üretimi sorunun bir yapı geçerlilik denetiminde, üretilmiş zorluk etiketinin kendi ile birlikte üretilmiş Bloom düzeyiyle ρ=0,90, ampirik zorlukla (Klasik Test Kuramı 1−p indeksi) ise yalnızca ρ=0,06 korelasyon gösterdiği; seçenek uzunluğu ise ters yönde işlediği (ρ=−0,18) bulunmuştur — yukarıdaki iyimser okumaları sınırlayan bir “etiket = yüzey biçimi” sonucu ([[student-llm-use-ai-question-difficulty-data-science-2026|An ve Wang (2026)]]).
+
+- **Taksonomik bir etiket, madde davranışını öngörmez.** 265 matematik maddesi üzerinde, hedeflenen Bloom düzeyi zorluktaki varyansın %5’inden azını açıklamış (ε² = .043) ve ayırt edicilikten hiçbirini açıklamamıştır (Kruskal–Wallis H = 0,54, p = .77); oysa bir [[llm|LLM]] sınıflandırması uzman kodlayıcılarla yalnızca orta düzeyde uyum göstermiş (Cohen’s κ = .22) ve maddeleri uygulama/analiz bandına doğru çekmiştir ([[bloom-taxonomy-llm-item-classification-2026|Altaweel ve Moussa (2026)]]).
 
 - **Üretilen maddeleri ifadeye değil, çözüm yoluna göre yargılayın.** Her maddenin doğrulanmış akıl yürütme ağacını kodlamak, performansı konsept değerlendirmesinde %7,5, zorluk tahmininde %6,3 ve yeterlilik değerlendirmesinde %19,5 yükseltmiş; buralarda sıfır-örnek temel çizgi, şablonu izleyen bir maddeyi “Akıl Yürütme”, geometri temelli bir maddeyi ise “Bilme” olarak yanlış etiketlemiştir ([[proiqa-math-item-quality-assessment-2026|Tong ve ark. (2026)]]).
 
@@ -214,4 +216,5 @@ Eğitimde ölçme, [[item-response-theory]], [[assessment-validity]], [[knowledg
 - [[synthetic-educational-data-structural-fidelity-2026]] — What Fidelity Metrics Miss: A Structural Check on Synthetic Educational Data
 - [[ai-empathy-scale-psychometric-evaluation-2026]] — A 42-item AI empathy scale whose six factors did not recover the six intended subfactors
 - [[genai-srl-l2-writing-scale-2026]] — A six-dimension GenAI-SRL scale for L2 writing; ant-colony-optimized 12-item short form tracks the full scale (r = 0.910–0.944) but narrows content coverage
+- [[bloom-taxonomy-llm-item-classification-2026]] — Do Cognitive Classifications Predict Empirical Item Behaviour? Aligning Bloom's Taxonomy with the Psychometric Properties of National Centralized Mathematics Items across Grades 4–12
 

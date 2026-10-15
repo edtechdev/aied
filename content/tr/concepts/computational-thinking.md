@@ -9,7 +9,7 @@ level: [k 12]
 confidence: high
 reviewed_by: [editor]
 translation_of: concepts/computational-thinking
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-15T10:00:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -59,6 +59,8 @@ Yapay zeka çağında CT için merkezi bir hedef, öğrencileri ve öğretmenler
 Yeni meta-analitik kanıtlar bu tabloyu keskinleştirir. [[astor-computational-thinking-meta-review-2026|128 CT sistematik derlemesini kapsayan bir meta-derleme]], alanın CT’yi problemleri çözmek için hesaplama adımları ve algoritmalar kullanan soyut modellerle akıl yürütme biçimi olarak tanımlayan birleşik bir tanım üzerinde yakınlaştığını bulmaktadır — bu, üretim odaklı öğrenmenin talep ettiği, yanıt tüketmekten çok model kurma türünden düşüncenin tam olarak kendisidir. [[tsingidou-ct-robotics-kindergarten-2026|Çocukluk dönemi robotikte CT araştırması]], erken çocukluktaki öğrenenlerin bile robotlarla oyuna dayalı inşa yoluyla üretici hâle geldiğini; problem tabanlı öğrenmeyi, hikâye anlatıcılığını ve iskelelemeyi kullanarak teknolojiyi yalnızca işletilen değil, inşa edilen bir şey olarak görmeye giden gelişimsel ilk adımı attığını göstermektedir. Ve [[solving-vs-evaluating-genai-solutions|değerlendirme ve eleştiri araştırması]], CT’nin kusurlu YZ çözümlerini yargılayarak ve hata ayıklayarak çalıştırılabileceğini göstermektedir — bu, pasif tüketim tuzağına direnen, YZ çıktısına karşı üretici bir duruştur.
 
 Pratik sonuç, CT öğretiminin öğrenenlerin *YZ ile şeyler yapmasını* sağlayacak biçimde tasarlanması gerektiğidir — modelleri yazmak, ajanlar inşa etmek, yapıtlar oluşturmak ve YZ çıktısını eleştirmek — bitmiş çözümleri teslim almak yerine. Bu hem CT’yi derinleştirir hem de [[ai-literacy]] salt kavramsal değil, katılımcı ve yaratıcı olarak inşa edilmesini sağlar. Öğretmenlerin ise YZ araçlarını kullanmaktan YZ destekli öğrenme etkinlikleri tasarlamaya geçmek için desteğe ihtiyacı vardır (bkz. [[teacher-role]] ve [[professional-training]]).
+
+Başkalarının modellerini yeniden kullanmak üretici duruşuna aittir: yayımlanmış bir YZ modelini uygulamak — seçmek, kurmak, çalıştırmak ve doğrulamak — öngörülen her arıza için bir geri dönüş rotasıyla öğrenilebilir, yapılandırılmış bir beceri olarak öğretilebilir; ve programlama geçmişi olmayan üç kimya lisans öğrencisi dört ay içinde bir enzim–substrat tahmin modelinin çoğaltmasını yapıp modeli genişletmiştir ([[praise-non-programmer-ai-model-implementation-2026|Achterweust ve ark. (2026)]]).
 
 ### Pratik rehberlik
 
@@ -119,3 +121,4 @@ Hesaplamalı düşünme, [[ai-literacy]] ile [[critical-thinking]] altında yük
 - [[code-to-learn-genai-artifact-construction-2026]] — CtL-GenAI: constructionism framework for artifact construction
 - [[astor-computational-thinking-meta-review-2026]] — CT meta-review of 128 systematic reviews
 - [[tsingidou-ct-robotics-kindergarten-2026]] — Systematic review of CT via robotics in kindergarten
+- [[praise-non-programmer-ai-model-implementation-2026]] — PRAISE: A Reproducible Workflow for Non-Programmer Scientists to Implement Published AI Models
