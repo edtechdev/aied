@@ -10,7 +10,7 @@ discipline: [medical education, engineering education]
 level: [higher ed]
 confidence: high
 translation_of: concepts/problem-based-learning
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-15T10:00:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -53,6 +53,8 @@ PBL 起源于医学教育（McMaster University，20 世纪 60 年代），此�
 - **领域实现。**[[engineering-education|生物医学工程]]的 PBL 框架用 GenAI 做摘要和编程支持，并附带可复现包（[[pbl-biomedical-engineering-genai-2026|Nnamdi 等人 2026]]）；AI 支持的 PBL 在[[educational-robotics|机器人教育]]中增强[[computational-thinking|计算思维]]（[[ai-pbl-computational-thinking-2026|面向计算思维的 AI 支持 PBL]]）；而支持生成式 AI 的虚拟病人用于病史采集教学（[[genai-simulate-patient-history-pbl-2026|Mool 等人 2026]]）。
 - **证据综合。**[[educators-engagement-ai-pbl-review-2026|Amdan 等人（2026）]]在[[human-ai-collaboration|人机交互]]框架下，[[meta-analysis-systematic-review|系统综述]]了 50 项（2015–2024）关于教育者在 PBL 中与 AI 交互的研究。
 - **情境式 PBL 中的 GenAI。**[[genai-scenario-based-healthcare-education-2026|Neto 及其同事（2026）]]在他们对医疗教育中 GenAI 的系统综述里，把问题导向学习列入情境式方法，发现[[prompt-engineering|提示设计]]起着教学规范的作用，且混合式人机协作优于完全自动化的方法。该综述强调，生成内容与教学框架之间需要更强的对齐，以及 PBL 情境中更可复现的提示实践。
+
+- **AI 可以承担导师的知识传授，但承担不了小组学习的社会调节。** 在一项为期四周的药理学准实验中，[[facilitator-vs-ai-mediated-pbl-pharmacology-2026|Shetty 与 Rao（2026）]]发现，AI 中介的 PBL 与引导者主导的学业增益相当（组间 p = 0.474），而引导者主导的小组在小组动力（26.51 对 24.74，p = 0.035）和批判性思维（14.75 对 13.09，p < 0.001）上保留了优势。
 
 ## PBL 与相关教学法的关系
 
@@ -100,3 +102,4 @@ PBL 与[[project-based-learning|项目导向学习]]密切相关——两者都�
 - [[rhaimi-productivemath-2025]] — ProductiveMath：支持 PF 问题设计的 AI
 - [[genai-scenario-based-healthcare-education-2026]] — 情境式医疗教育中 GenAI 的系统综述（Neto 等人 2026）
 - [[chen-osman-preservice-physics-tpack-ctd-pbl-2026]] — 面向 130 名师范物理教师的 AI 支持 CTD-PBL 模块：TPACK 与协作式问题解决（Chen & Osman 2026）
+- [[facilitator-vs-ai-mediated-pbl-pharmacology-2026]] — 药理学教育中引导者中介与 AI 中介的问题导向学习之比较：一项针对二年级医学生的准实验研究

@@ -8,7 +8,7 @@ ethics: [accessibility, assistive-technology, equity-in-ai-education, inclusive-
 connected_faqs: [ai-disabled-neurodivergent-learners]
 level: [special education]
 confidence: high
-source_updated: "2026-09-30T08:05:25-04:00"
+source_updated: "2026-10-13T11:05:00-04:00"
 translation_of: concepts/assistive-technology
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
@@ -51,6 +51,7 @@ ai_assist:
 
 - **道具を学習者と課題に合わせる。** スクリーンリーダー、キャプション、音声、触覚出力は、それぞれ異なる障害に対処します——個人のニーズと内容の形式に基づいて選んでください。
 - **AI を活用して支援的な適応のコストを下げる。** AI は自動的にキャプションを付け、テキストを単純化し、代替物を生成できますが、教育学的な正確さについて出力の質を評価してください。
+- **その支援が果たす機能を述べ、そしてその機能に対して評価してください。** [[vasileiou-ai-cognitive-scaffolding-executive-functioning-sen-2026|Vasileiou 他（2026）]]は、補償（アクセスと参加によって評価される）を、足場かけ（支援を伴う意思決定）から、発達（フェーディングまたは転移の後の方略の利用）から区別します。そして、このページの注意に向けられた規則を加えます。すなわち、支援へのアクセスは修繕ではない——ある道具が配慮、方略の教授、それとも一時的な練習の支援のいずれであるかは、「学習計画に述べられるべきである」ということです。
 - **供給を政策に根ざさせる。** AI ツールを調達または構築する際には、支援技術法、IDEA、WCAG を参照してください。
 
 ## 関連する概念

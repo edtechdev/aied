@@ -45,6 +45,7 @@ ai_assist:
 - **从固定课程到自适应结构：**[[learnity-graphs-lifelong-learning-framework-2026|学习图谱]]提出把固定的高等教育课程重新构想为相互关联的知识单元，学习者可以在整个生命历程中灵活穿行。
 - **自主性与自我导向：**[[andragogy-cognitive-delegation-genai-2026|成人教育学与认知委托]]在人工智能中介的认知委托条件下重新审视成人学习理论，追问当人工智能参与识别需求、设定目标和生成内容时，还有哪些部分是自我导向的。
 - **政策与社区：**[[ai-lifelong-learning-policy|终身学习政策中的人工智能]]与[[community-centered-ai-education-adults|以社区为中心的人工智能教育]]探讨成人人工智能学习的制度维度与公平维度。
+- **专业能力的再生成本身正面临风险。** 在 AI 暴露程度最高的美国职业中，22–25 岁劳动者的相对就业下降了 16%（2022 年 10 月—2025 年 9 月），而 35–49 岁者增长了超过 8%，且验证 AI 输出所需的深度专业能力，正依赖这一衰退所消除的入门级岗位（[[cognitive-commons-ai-expertise-regeneration|Lovett（2026）]]）。
 
 ### 关联
 
@@ -75,5 +76,3 @@ ai_assist:
 - [[ai-lifelong-learning-policy]]：终身学习中的人工智能：成人教育政策中的机遇与挑战
 - [[community-centered-ai-education-adults]]：为成人共同设计以社区为中心的人工智能教育
 - [[cognitive-commons-ai-expertise-regeneration]]：认知公地的悲剧：人工智能与专业能力的再生成
-- [[lodge-adaptive-capabilities-genai-future-2026]]：在生成式人工智能融入未来的背景下保障优质学习的自适应能力（Lodge 等，2026）
-- [[kim-ai-productive-failure-adult-2026]]：设计支持基于有益失败的学习的人工智能系统

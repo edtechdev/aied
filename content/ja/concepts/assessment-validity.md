@@ -9,7 +9,7 @@ assessment: [authentic-assessment, automated-assessment, formative-assessment]
 ethics: [bias-mitigation, equity-in-ai-education]
 confidence: high
 methods: [rct]
-source_updated: "2026-10-09T09:50:00-04:00"
+source_updated: "2026-10-14T11:15:00-04:00"
 translation_of: concepts/assessment-validity
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
@@ -51,6 +51,7 @@ ai_assist:
 - **プログラム水準の合否の影響を受けやすさ、そしてそれを定める採点の基準：** [[ivory-psychology-assessment-integrity-2026|Ivory 他（2026）]]は、3 年制の心理学の学位におけるすべてのコースワークの評価（40 件の評価、16 類型）について、採点者が最初の読解で実際に用いる決定基準である二値の合否を用いて、ChatGPT の出力を判定しました。40 件中 36 件が合格しました。二つの妥当性への含意が続きます。第一に、作用する変数は検知ではなく合格の境界です——構造的な流暢さと正しい分析の選択に報いながら、誤った値を大目に見る採点は、捏造された統計と幻覚的な参考文献を合格に通し、したがって、誰かが騙されたからではなく、その評価の採点のされ方のために、道具の出力を学生の理解として認定します。第二に、多肢選択問題は自分自身の答えを漏らしていました。学生に見せられた図や出力表がなくても、ChatGPT は統計の問題に正しく答えました。なぜなら、問題文と選択肢が答えを含意していたからです——これは、選択肢の設計を、AI の性質ではなく、問題の妥当性の性質とするものです。
 - **正確さ対一致を、異なる妥当性の信号として：** [[falahat-chatgpt-grading-pharmacy-exams-2026|Falahat、Das、Bhaumik & Thambi（2026）]]は、21 問の薬学の試験を ChatGPT-5 で採点し、中程度の百分率の正確さがしばしば低い一致・相関係数と共存することを見出しました——これは*採点の正確さ*と*一致*の間の方法論的な区別であり、生の正確さが許容できるように見える場合でさえ、AI を採点の代替とする信頼性を制限します。一致は客観的な問題では強く（CCC 0.935–1.000）、短答式ではほぼゼロ、作文では控えめでした（0.341–0.854）。そして、ルーブリックの提供は、その隔たりを一貫して埋めませんでした。
 - **AI が生成した問題の妥当性：** [[assessing-quality-ai-generated-exams-field-2025|AI が生成した試験の評価]]は、ベイズ的[[item-response-theory|項目反応理論]]によって検証された AI が生成した問題が、専門家が作成した標準化試験の問題と同等の難易度と識別力を達成することを示しています（信頼性 0.79 対 0.72）——これは、心理測定的な評価に支えられた、コースに合わせた AI 生成評価の妥当性を支持します。
+- **言語試験における動く標的。** TOEFL iBT、IELTS、PTE Academic、Duolingo English Test のような高リスクの試験は、今なお、助けを借りず時間内に行う読解と作文を求めます。一方、学生は学術的な生活においてそれらの課題に生成的 AI を使っています。したがって、最も影響を受けるのは外挿の推論——助けを借りない得点から実際の学業成績への推論——という段階です([[genai-english-proficiency-validity-2026|Gonulal（2026）]])。
 - **真正評価：** [[authentic-assessment|真正評価]]と[[ai-assessment-scale-reform|AI 評価尺度]]は、妥当性を保つ評価の再設計を提案しています。
 - **自信と較正：** [[automated-assessment|自信を意識するシステム]]は、不確実な評価にフラグを立てることで、妥当性を改善します。
 - **[[embodied-learning|身体に埋め込まれた]]そしてマルチモーダルな証拠：** 音声のみの評価は、言語的な流暢さを概念的な知識と取り違えうます。[[multimodal-embodied-cognition-oral-explanations-2026|Morphew 他]]は、コンピュータビジョンによる身ぶるの分析を LLM による音声の分析と組み合わせることが、構成概念妥当性と[[equity-in-ai-education|公平性]]を高めることを示しています。言葉だけではなく身ぶるを通じて表現される理解を捉えることで——理解を非言語的に表現する学習者に対する偏りを減らします。
@@ -171,3 +172,4 @@ AI は、認識論的な水準で妥当性に挑戦します。[[end-of-assessme
 - [[llm-grading-assistants-public-health-2026]] — 同一の提出物の 5 日間隔での再採点は Krippendorff のアルファ 0.625 を与えた
 - [[villanueva-ai-vulnerability-assessment-audit-2026]] — AI 脆弱性指標：評価された得点のほとんどは検証不能な作者性に依拠しているため、妥当性は最大限のセキュリティではなく主要な段階での十分な証拠に依る
 - [[llm-tutor-pedagogical-metric-degradation-2026]] — 教育学的適応性の指標は上昇した一方、目隠しの専門家による評定は低下した：測定の妥当性は最適化の妥当性を意味しない（Domínguez Figaredo & Fernández De la Cruz 2026）
+- [[genai-english-proficiency-validity-2026]] — Has the Target Moved Again? GenAI and the Validity of English Proficiency Scores

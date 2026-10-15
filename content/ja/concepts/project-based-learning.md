@@ -7,7 +7,7 @@ pedagogy: [active-learning, collaborative-learning, project-based-learning]
 technology: [educational-robotics]
 level: [higher ed, k 12]
 confidence: high
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-13T11:05:00-04:00"
 translation_of: concepts/project-based-learning
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
@@ -47,6 +47,7 @@ PBLは、[[active-learning]]、[[experiential-learning]]、[[collaborative-learn
 - **AIリテラシーと共同設計:** PBLは、学習者がAIの道具や資源を共に作り出す、多くの[[ai-literacy|AIリテラシー]]と[[teacher-education]]の介入の基盤になっています。
 - **AIエージェントが支援するソフトウェアのPBL:** [[spec-driven-development-ai-agents-sdpbl-2026|Tanaka et al. (2026)]]は、仕様駆動開発(SDD)を[[agentic-ai|AIエージェント]]とともに、チーム基盤の学部レベルのソフトウェアPBLコースに埋め込み、プロジェクトを、調査、計画、実装、評価の段階に構造化し、教授者が運営する理解度チェックと組み合わせました。
 - **教育エージェントを埋め込んだ没入型のVRスタジオ:** [[ai-ive-pbl-vocational-design-creativity-2026|Jin et al. (2026)]]は、職業デザイン教育のために**AI-IVE-PBL**モデルを特定し、PBLをAIを活用した没入的なバーチャル環境([[virtual-and-augmented-reality|VR]]ヘッドセットと[[llm]]に裏打ちされた教育アシスタント)と組み合わせています。職業学習者のためのPBLの慣習的な制約——限られた機材、再現しにくいシナリオ、遅れがちな教師の[[scaffolding|足場]]——は、没入とセッション内のエージェントによって吸収され、モデルは(発見、構想、モデル化、コミュニケーション、精緻化)の5段階のループとして述べられ、各段階に名指しの行為者と成果物を持ち、持続的なアイデア発展的な言説によって駆動されます。12週間の準実験(n = 63)では、その条件はデザイン能力と創造的能力を高め、認知的・行動的な[[student-engagement|関与]]を高めましたが、観念的な新規性(革新的な思考)と感情的関与は変えないままでした——これは、プロジェクトの価値のデザイン特有の部分と観念的な部分が、共に動かないことを示す教訓です。
+- **エージェントの設計者としての学生を規模をもって:** [[zangari-student-created-ai-agents-codesigned-instruction-2026|Zangari et al. (2026)]]は、700人の学生が履修するソフトウェア設計コースの345人の学部生に、三つのデザインパターンをピアに説明する会話型エージェントをそれぞれ構築させました——Part Aは足場かけされたDialogflow CXのチュートリアル、Part Bは自由形式の設計課題です。自由形式であることが最も多い肯定的テーマ(22.3%)となり、不明確な指示が否定的な項目の頂点(23.7%)となり、知覚された学習は小問のスコアとわずかにしか相関しませんでした(r = 0.161–0.315)。PBLにとっての設計上の教訓は、学生が作った成果物は、AIの道具の文脈にまで自己反転型教室の所有感の利点を運びうる一方、探索的で統制群のないエビデンスは、因果的な優位性ではなく関与に関する主張を支えるものだということです。
 
 PBLは、[[active-learning]]、[[experiential-learning]]、[[collaborative-learning]]、[[educational-robotics]]、[[game-based-learning]]、[[computational-thinking]]、そして[[higher-ed]]/[[k-12]]の教授法につながっています。
 
