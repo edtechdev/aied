@@ -113,3 +113,4 @@ STEM 结构化的知识表征、可验证的答案与计算思维上的对齐，
 - [[simulation-assisted-drone-learning-stem-2026]] — 采用教师—AI 共同设计支架的模拟辅助无人机学习
 - [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
 - [[ai-supported-instruction-stem-meta-analysis-2026]] — 35 项研究中 AI 支持的 STEM 教学的合并效应，增益在高中最大（Doğan et al. 2026）
+- [[hallstrom-ai-literacy-stem-education-frontiers-2026]] — STEM 教育中人工智能素养十篇最高被引研究的综述（Hallström 等，2026）

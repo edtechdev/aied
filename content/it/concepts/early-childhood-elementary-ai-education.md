@@ -9,7 +9,7 @@ level: [k 12, preschool]
 confidence: high
 reviewed_by: [editor]
 translation_of: "concepts/early-childhood-elementary-ai-education"
-source_updated: "2026-10-13T04:43:42-04:00"
+source_updated: "2026-10-15T10:00:00-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -66,6 +66,8 @@ I bambini piccoli interagiscono con l'IA sempre più precocemente — attraverso
 
 Poiché i giovani studenti sono più vulnerabili e meno capaci di autoregolare il proprio uso dell'IA, questo cluster enfatizza l'**impalcatura cognitiva da parte degli adulti** (genitori, tutori e insegnanti), il **design adeguato all'età**, e il rischio di [[cognitive-offloading|eccessiva dipendenza]] e di [[well-being|danno]] se l'IA sostituisce, anziché supportare, il lavoro evolutivo del gioco, della scoperta e dell'apprendimento faticoso. L'equità è una preoccupazione attuale: l'accesso a un apprendimento precoce ricco di IA (o a una guida adulta protettiva) è diseguale, collegandosi al [[digital-divide|divario digitale]] e all'[[equity-in-ai-education|equità nell'educazione all'IA]]. Gran parte della base di evidenze resta esplorativa o orientata al design anziché causale.
 
+Un confronto tra quattro paesi acuisce il divario curricolare: gli orientamenti nazionali per la prima infanzia di Giappone, Corea del Sud e Cina non contengono alcun riferimento esplicito all'alfabetizzazione sull'IA (il piano d'azione a livello cittadino di Shanghai è la sola eccezione, e non specifica progressioni di apprendimento), mentre l'Australia mostra solo un allineamento limitato e irregolare — più forte nell'interazione con gli agenti di IA, assente nella comprensione delle relazioni uomo–IA — lasciando l'alfabetizzazione sull'IA alla famiglia ([[ai-literacy-ecec-curricula-four-country-2026|Cohrssen et al. (2026)]]).
+
 Una prima finestra di neuroimaging su questa questione arriva con un monito: bambini di 6–7 anni che tenevano una conversazione parlata di cinque minuti con ChatGPT dentro uno scanner MRI hanno mostrato una connettività intra-rete più debole degli adulti nelle reti di controllo frontoparietale, di salienza e di attenzione dorsale, a punteggi di creatività equiparati, e mancavano dell'accoppiamento creatività–connettività che mostravano gli adulti. Poiché quelle funzioni esecutive sono ancora immature in prima elementare, gli autori leggono il risultato come rilevante per il dibattito sull'età minima — segnalando al contempo un confondimento di framing e l'assenza di un controllo senza ChatGPT come limiti a ciò che il risultato può stabilire ([[horowitz-kraus-children-chatgpt-cognitive-control-2026|Horowitz-Kraus et al. (2026)]]).
 
 ## Concetti collegati
@@ -108,3 +110,4 @@ Una prima finestra di neuroimaging su questa questione arriva con un monito: bam
 - [[creative-project-approach-ai-early-childhood-2025]] — The Creative Project Approach: a framework for tailoring AI agents and robotics to early learning (Yang, Li & Lee 2025)
 - [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] — First neuroimaging comparison of children and adults conversing with ChatGPT: less integrated control-attention-memory networks in 6-7-year-olds
 - [[ai-rated-classroom-observation-scores-2026]] — I code or AI code: AI-rated CLASS Pre-K scores versus trained human raters in Hong Kong kindergartens (Fong et al. 2026)
+- [[ai-literacy-ecec-curricula-four-country-2026]] — AI literacy for AI natives? A four-country comparison

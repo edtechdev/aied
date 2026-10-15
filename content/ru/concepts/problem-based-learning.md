@@ -10,7 +10,7 @@ level: [higher ed]
 confidence: high
 reviewed_by: [editor]
 translation_of: concepts/problem-based-learning
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-15T10:00:00-04:00"
 translation_note: "Автоматический перевод данной английской страницы, не проверенный носителем языка."
 contributors: [editor]
 ai_assist:
@@ -53,6 +53,7 @@ PBL возник в медицинском образовании (Универ�
 - **Предметные реализации.** Рамки PBL для [[engineering-education|biomedical engineering]] используют генеративный ИИ для суммаризации и поддержки программирования с пакетами для воспроизведения ([[pbl-biomedical-engineering-genai-2026|Nnamdi et al. 2026]]); PBL с поддержкой ИИ улучшает [[computational-thinking|computational thinking]] в [[educational-robotics|robotics]] ([[ai-pbl-computational-thinking-2026|AI-supported PBL for computational thinking]]); и виртуальные пациенты на базе генеративного ИИ поддерживают занятия по сбору медицинского анамнеза ([[genai-simulate-patient-history-pbl-2026|Mool et al. 2026]]).
 - **Синтез доказательств.** [[educators-engagement-ai-pbl-review-2026|Amdan et al. (2026)]] [[meta-analysis-systematic-review|systematically review]] 50 исследований (2015–2024) об вовлечённости педагогов в ИИ в рамках PBL в рамках структуры [[human-ai-collaboration|human-computer interaction]].
 - **Генеративный ИИ в сценарном PBL.** [[genai-scenario-based-healthcare-education-2026|Neto and colleagues (2026)]] включают обучение, основанное на проблемах, в число сценарных подходов в своём систематическом обзоре генеративного ИИ в медицинском образовании, обнаруживая, что [[prompt-engineering|prompt design]] функционирует как спецификация обучения и что гибридная коллаборация человека и ИИ превосходит полностью автоматизированные подходы. Обзор подчёркивает необходимость более сильного согласования сгенерированного содержания с рамками обучения и более воспроизводимых практик промптинга в контекстах PBL.
+- **ИИ может нести передачу знаний тьютором, но не социальную регуляцию группового обучения.** В четырёхнедельном квазиэксперименте по фармакологии [[facilitator-vs-ai-mediated-pbl-pharmacology-2026|Shetty & Rao (2026)]] обнаружили, что PBL с опосредованием ИИ соответствовало академическим результатам группы с фасилитатором (межгрупповое p = 0,474), тогда как группы с фасилитатором сохранили преимущества в динамике группы (26,51 против 24,74, p = 0,035) и критическом мышлении (14,75 против 13,09, p < 0,001).
 
 ## PBL и родственные педагогики
 
@@ -101,3 +102,4 @@ PBL тесно связан с [[project-based-learning|project-based learning]]
 - [[rhaimi-productivemath-2025]] — ProductiveMath: ИИ для поддержки проектирования задач в духе PF
 - [[genai-scenario-based-healthcare-education-2026]] — Систематический обзор генеративного ИИ в сценарном медицинском образовании (Neto et al. 2026)
 - [[chen-osman-preservice-physics-tpack-ctd-pbl-2026]] — Модуль CTD-PBL с поддержкой ИИ со 130 будущими преподавателями физики: TPACK и коллаборативное решение проблем (Chen & Osman 2026)
+- [[facilitator-vs-ai-mediated-pbl-pharmacology-2026]] — Обучение, основанное на проблемах, с опосредованием фасилитатора и с опосредованием ИИ в фармакологическом образовании: квазиэкспериментальное исследование среди студентов-медиков второго курса

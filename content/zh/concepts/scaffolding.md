@@ -148,3 +148,4 @@ ai_assist:
 - [[genai-cognitive-scaffold-geometric-reasoning-2026]] — GenAI 作为连接视觉直觉与几何演绎证明的提示脚手架，单凭可视化不足之处（Davor 2026）
 - [[guided-ai-tutor-impasse-resolution-2026]] — 考察引导式 AI 导师如何化解学生卡壳的变异
 - [[structured-genai-training-physics-problem-solving-rct-2026]] — 在 STEM 问题求解中把学习者训练当作 GenAI 使用的脚手架（Huang et al. 2026）
+- [[etq-ai-conversational-teacher-training-2026]] — 以证据为基的对话来诊断教学误解的对话式 AI（Miranda & Calvani 2026）
