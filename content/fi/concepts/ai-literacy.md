@@ -11,7 +11,7 @@ confidence: high
 connected_resources: [education-agent-skills, edugems, mglearn, onmicro-ai, playlab, pressing-prompts, student-guide-to-ai, vibes-diy]
 reviewed_by: [editor]
 translation_of: "concepts/ai-literacy"
-source_updated: "2026-10-08T10:20:00-04:00"
+source_updated: "2026-10-15T08:25:00-04:00"
 translation_note: "Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja."
 contributors: [editor]
 ai_assist:
@@ -129,6 +129,12 @@ Erillinen haara tietopohjassa kohtelee tekoälylukutaitoa ei pelkästään taito
 - **Arvostus, ei vain verifiointi.** [[obyrne-co-constructing-ai-boundaries-agency-judgment-2026|O'Byrne (2026)]] havaitsi, että opiskelijat, jotka vain tarkistivat tuloksen tarkkuuden, uskottavuuden ja relevanssin, hyväksyivät silti käsitteellisesti litistyneen työn, kun taas ne, jotka myös arvioivat vivahteita, ääntä ja epistemistä asennetta, kirjoittivat sen uudelleen — tehden siitä, "milloin harkintaa ei tulisi delegoida", lukutaitokysymyksen.
 
 Nämä kriittiset haarat täydentävät tekoälylukutaidon operatiivisia ja kognitiivisia ulottuvuuksia: siinä, missä jälkimmäiset kysyvät "voiko oppija käyttää ja arvioida tekoälyä?", kriittinen tekoälylukutaito kysyy "ymmärtääkö oppija ja haastaako se ne valtarakenteet, jotka tekoäly ilmentää?"
+
+### Tekoälylukutaito STEM-koulutuksessa
+
+Kehittynein tieteenalakohtainen todistusaineisto tekoälylukutaidosta tulee STEM-koulutuksesta, ja [[hallstrom-ai-literacy-stem-education-frontiers-2026|Hallström, Chiu, Ding, Koretsky ja Li (2026)]] syntetisoivat sen kymmenen eniten siteerattua tutkimusta (2022–2026) osoittaen sekä lähtötason että sen rajat. Koko korpuksessa tekoälylukutaito määritellään kuuden päällekkäisen konstruktin kautta — tieto/taidot/asenteet (Su & Yang 2024), käsitteellis-proseduraalinen-kontekstuaalinen tieto (Stolpe & Hallström 2024), tiedä-ymmärrä/käytä-sovella/arvioi-luo/etiikka (Ng et al. 2022), ja Long & Magerkon käyttö–viestintä–arviointi-kehyksen (Hornberger et al. 2023) — joten alan "käsitteellinen monitulkintaisuus" on mittaamisongelma: kaksi tutkimusta voivat molemmat arvioida "tekoälylukutaitoa" arvioimatta samaa konstruktia. Vain kaksi kymmenestä tarjoaa täydelliset viitekehykset. Katsauksen terävin havainto on epäsymmetria — korpus mittaa lähes kokonaan *opiskelijoiden* lukutaitoa, kun taas lähes mikään ei kehitä *opettajien*, aukko, joka jättää opettajille suunnatut tekoälylukutaitovaikuttamiset lepäämään oletukselle eikä todisteille, ja jonka kirjoittajat yhdistävät käytännön vaatimukseen, että opettajien itsensä on oltava tekoälylukutaitoisia toteuttaakseen sellaiset vaikuttamiset.([[hallstrom-ai-literacy-stem-education-frontiers-2026]])
+
+Chatbottitodisteet kyseisessä korpuksessa puhuvat sujuvuuteen perustuvaa koulutusta vastaan. Ding et al. (2023) havaitsivat, että ChatGPT-tutorointi yliopiston fysiikassa lisäsi itseluottamusta ja tietoa, mutta vahvisti väärinkäsitystä tekoälystä "yliluonnollisena ja erehtymättömänä" ja päättelivät, että tekoälylukutaidon koulutus on "ennen kaikkea opiskelijoiden kriittisen ajattelun vahvistamista tiedon arvioinnissa." Xu et al. (2026) havaitsivat, että ChatGPT-tuettu STEM-ohjelmointi paransi itseluottamusta ja tietoa, mutta jätti laskennallisen ajattelun ja itsenäisen ajattelun muuttumattomaksi — sujuvuuden kasvu eli rinnakkain ajattelun kasvun puutteen kanssa. Molemmat havainnot heijastavat muualla tällä sivulla esiin tulevia [[trust-calibration|luottamuksen kalibroinnin]] ja [[cognitive-offloading|liiallisen riippuvuuden]] huolia: ohjaaja, joka ei koskaan ole eri mieltä opiskelijan kanssa, voi tuottaa itsevarmoja oppijoita, jotka eivät osaa arvioida. Asenne, ei valmius tai itsetehokkuus, osoittautui vahvimmaksi tekijäksi STEM-alan ylioppilaiden todellisessa tekoälytyökalujen käytössä (Falebita & Kok 2025), ja katsaus toteaa, että STEMin tieteenalainen kattavuus on vääristynyt kohti biologiaa ja fysiikkaa, ja teknologia aineena on lähes poissa. [[discipline-specific-aied|Ainekohtaiselle]] suunnittelulle katsauksen käytännön varoitus on, että kokonaisvaltaiset kompetenssiviitekehykset (UNESCO, EU/OECD) "usein puuttuu yhteys empiiriseen tutkimukseen tai riittävä teoreettinen perusta" ja harvat ovat luokassa sovellettavissa.
 
 ### Kenen tekoälytaidot merkitsevät? Opettajien ja työnantajien kehyskuilu
 
@@ -270,3 +276,4 @@ Tekoälylukutaito on liialliselle riippuvuudelle **kaksiteräinen**: [[student-d
 - [[sfailq-six-facet-ai-literacy-questionnaire-2026]] — Kuusipintainen instrumentti lisäten vastuullisen käytön ja itsensä kehittämisen pinnat, skalaarisesti invariantti nuorten, nuorten aikuisten ja keski-ikäisten välillä
 - [[faculty-ai-well-being-social-supports-2026]] — Rakenneyhtälömalli henkilökunnan tekoälyhyvinvoinnista, sosiaalisesta tuesta ja tekoälylukutaidosta
 - [[bozkurt-3wai-literacy-scale-2026]] — Validoitu 17 kohdan itsearviointiasteikko kolmella erillisellä tekoälylukutaidon tekijällä (Tiedä mitä/miten/miksi); Know-How ja Know-Why eniten yhteydessä (HTMT = 0.544)
+- [[hallstrom-ai-literacy-stem-education-frontiers-2026]] — Synteesi kymmenestä eniten siteeratusta tutkimuksesta tekoälylukutaidosta STEM-koulutuksessa (Hallström et al. 2026)

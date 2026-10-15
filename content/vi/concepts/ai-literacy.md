@@ -11,7 +11,7 @@ confidence: high
 connected_resources: [education-agent-skills, edugems, mglearn, onmicro-ai, playlab, pressing-prompts, student-guide-to-ai, vibes-diy]
 reviewed_by: [editor]
 translation_of: "concepts/ai-literacy"
-source_updated: "2026-10-08T10:20:00-04:00"
+source_updated: "2026-10-15T08:25:00-04:00"
 translation_note: "*Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét.*"
 contributors: [editor]
 ai_assist:
@@ -127,6 +127,12 @@ Một nhánh độc lập của cơ sở kiến thức coi năng lực AI không
 - **Định giá, không chỉ kiểm chứng.** [[obyrne-co-constructing-ai-boundaries-agency-judgment-2026|O'Byrne (2026)]] phát hiện học sinh chỉ kiểm tra đầu ra về độ chính xác, độ tin cậy và tính liên quan vẫn chấp nhận công việc bị làm phẳng về mặt khái niệm, trong khi những người cũng phán xét sắc thái, giọng điệu và lập trường tri thức thì viết lại nó — khiến 'khi nào không nên ủy thác phán xét' trở thành câu hỏi của năng lực.
 
 Các nhánh phản biện này bổ trợ cho các chiều vận hành và nhận thức của năng lực AI: trong khi các chiều sau hỏi 'người học có thể sử dụng và đánh giá AI không?', năng lực AI phản biện hỏi 'người học có hiểu và thách thức các cấu trúc quyền lực mà AI thể hiện không?'
+
+### Năng lực AI trong giáo dục STEM
+
+Cơ sở bằng chứng theo ngành học phát triển nhất về năng lực AI đến từ giáo dục STEM, và [[hallstrom-ai-literacy-stem-education-frontiers-2026|Hallström, Chiu, Ding, Koretsky và Li (2026)]] tổng hợp mười nghiên cứu được trích dẫn nhiều nhất (2022–2026) để chỉ ra cả đường cơ sở lẫn giới hạn của nó. Trên toàn bộ corpus, năng lực AI được định nghĩa qua sáu cấu trúc khái niệm chồng lấn — knowledge/skills/attitudes (Su & Yang 2024), conceptual-procedural-contextual knowledge (Stolpe & Hallström 2024), know-understand/use-apply/evaluate-create/ethics (Ng và cộng sự 2022), và khung use–communication–evaluation của Long & Magerko (Hornberger và cộng sự 2023) — nên 'sự mơ hồ khái niệm' của lĩnh vực là một vấn đề đo lường: hai nghiên cứu đều có thể đánh giá 'năng lực AI' mà không đánh giá cùng một cấu trúc khái niệm. Chỉ hai trong mười nghiên cứu cung cấp khuôn khổ đầy đủ. Phát hiện sắc bén nhất của bản tổng quan là một bất đối xứng — corpus gần như chỉ đo lường năng lực của *học sinh* trong khi gần như không có gì phát triển của *giáo viên*, một khoảng trống khiến các can thiệp năng lực AI hướng đến giáo viên đặt trên giả định thay vì bằng chứng, và một khoảng trống mà các tác giả nối với yêu cầu thực tiễn là bản thân giáo viên phải có năng lực AI để vận hành các can thiệp đó.([[hallstrom-ai-literacy-stem-education-frontiers-2026]])
+
+Bằng chứng về chatbot trong corpus đó đi ngược lại đào tạo dám đo lường... . Ding và cộng sự (2023) thấy việc dạy kèm bằng ChatGPT trong vật lý đại học làm tăng sự tự tin và tri thức nhưng củng cố quan niệm sai lầm về AI 'siêu phàm và không thể sai', kết luận rằng giáo dục năng lực AI là 'trước hết là cải thiện kỹ năng tư duy phản biện của học sinh trong việc đánh giá thông tin.' Xu và cộng sự (2026) thấy lập trình STEM có hỗ trợ ChatGPT cải thiện sự tự tin và tri thức nhưng để nguyên tư duy tính toán và tư duy độc lập — thu hoạch về sự trôi chảy đi đôi với không thu hoạch nào về tư duy. Cả hai phát hiện đều phản chiếu các lo ngại [[trust-calibration]] và [[cognitive-offloading|phụ thuộc quá mức]] ở nơi khác trong trang này: một người dạy kèm không bao giờ mâu thuẫn với học sinh có thể tạo ra người học tự tin mà không thể đánh giá. Thái độ, chứ không phải mức độ sẵn sàng hay tự hiệu quả, hóa ra là yếu tố quyết định mạnh nhất đối với việc sử dụng công cụ AI thực tế trong sinh viên STEM (Falebita & Kok 2025), và bản tổng quan ghi nhận độ phủ ngành học của STEM bị lệch về sinh học và vật lý với công nghệ như một môn học gần như vắng mặt. Đối với thiết kế [[discipline-specific-aied|theo ngành học]], cảnh báo thực tiễn của bản tổng quan là các khuôn khổ năng lực toàn diện (UNESCO, EU/OECD) 'thường thiếu kết nối với nghiên cứu thực nghiệm hoặc nền tảng lý thuyết đầy đủ' và rất ít có thể áp dụng trong lớp học.
 
 ### Năng lực AI của ai được tính? Khoảng phân hóa định khung giảng viên–nhà tuyển dụng
 
@@ -264,3 +270,4 @@ Năng lực AI **hai mặt (double-edged)** đối với phụ thuộc quá mứ
 - [[sfailq-six-facet-ai-literacy-questionnaire-2026]] — Công cụ sáu khía bổ sung các khía sử dụng có trách nhiệm và tự phát triển, bất biến vô hướng giữa thanh thiếu niên, thanh niên và người trung niên
 - [[faculty-ai-well-being-social-supports-2026]] — Mô hình phương trình cấu trúc của hạnh phúc AI của giảng viên, hỗ trợ xã hội và năng lực AI
 - [[bozkurt-3wai-literacy-scale-2026]] — Thang đo tự báo cáo 17 câu đã kiểm chứng với ba nhân tố năng lực AI phân biệt (Know What/How/Why); Know-How và Know-Why liên kết chặt nhất (HTMT = 0.544)
+- [[hallstrom-ai-literacy-stem-education-frontiers-2026]] — Tổng hợp mười nghiên cứu được trích dẫn nhiều nhất về năng lực AI trong giáo dục STEM (Hallström và cộng sự 2026)

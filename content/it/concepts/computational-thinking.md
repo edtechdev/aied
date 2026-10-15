@@ -9,7 +9,7 @@ level: [k 12]
 confidence: high
 reviewed_by: [editor]
 translation_of: concepts/computational-thinking
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-15T10:00:00-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -55,6 +55,8 @@ Un obiettivo centrale per il CT nell'era dell'IA è portare studenti e insegnant
 Le nuove evidenze meta-analitiche affinano questo quadro. [[astor-computational-thinking-meta-review-2026|Una meta-revisione di 128 revisioni sistematiche sul CT]] rileva che il campo sta convergendo su una definizione unificata di CT come ragionamento con modelli astratti che usano passi computazionali e algoritmi per risolvere problemi — precisamente il tipo di pensiero di costruzione di modelli (anziché di consumo di risposte) che l'apprendimento orientato alla produzione richiede. [[tsingidou-ct-robotics-kindergarten-2026|La ricerca sulla robotica per il CT nella scuola dell'infanzia]] mostra che anche i bambini molto piccoli diventano produttori attraverso la costruzione basata sul gioco con i robot, usando apprendimento basato su problemi, narrazione e scaffolding — un primo passo evolutivo verso la visione della tecnologia come qualcosa che si costruisce, non solo si utilizza. E [[solving-vs-evaluating-genai-solutions|la ricerca su valutazione e critica]] dimostra che il CT può essere esercitato giudicando e correggendo soluzioni IA difettose — una postura da produttore verso l'output dell'IA che resiste alla trappola del consumo passivo.
 
 La conseguenza pratica è che l'insegnamento del CT dovrebbe essere progettato affinché chi apprende *costruisca cose con l'IA* — realizzando modelli, costruendo agenti, costruendo artefatti e criticando l'output dell'IA — anziché ricevere soluzioni già confezionate. Questo approfondisce il CT e costruisce [[ai-literacy|l'alfabetizzazione sull'IA]] come partecipativa e creativa, anziché meramente concettuale. Gli insegnanti, a loro volta, hanno bisogno di supporto per passare dall'uso degli strumenti di IA alla progettazione di attività di apprendimento potenziate dall'IA (si vedano [[teacher-role|il ruolo dell'insegnante]] e [[professional-training|la formazione professionale]]).
+
+Riutilizzare i modelli altrui appartiene alla posizione del produttore: implementare un modello di IA pubblicato — selezionandolo, installandolo, eseguendolo e validandolo — può essere insegnato come abilità apprendibile e strutturata, con una via di riserva per ogni fallimento anticipato, e tre studenti di laurea triennale in chimica senza alcuna formazione in programmazione hanno riprodotto ed esteso un modello di previsione enzima-substrato entro quattro mesi ([[praise-non-programmer-ai-model-implementation-2026|Achterweust et al. (2026)]]).
 
 ### Indicazioni pratiche
 
@@ -114,3 +116,4 @@ Il pensiero computazionale è il fondamento cognitivo condiviso sotto [[ai-liter
 - [[code-to-learn-genai-artifact-construction-2026]] — CtL-GenAI: constructionism framework for artifact construction
 - [[astor-computational-thinking-meta-review-2026]] — CT meta-review of 128 systematic reviews
 - [[tsingidou-ct-robotics-kindergarten-2026]] — Systematic review of CT via robotics in kindergarten
+- [[praise-non-programmer-ai-model-implementation-2026]] — PRAISE: A Reproducible Workflow for Non-Programmer Scientists to Implement Published AI Models

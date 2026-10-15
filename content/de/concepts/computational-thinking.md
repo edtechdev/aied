@@ -9,7 +9,7 @@ discipline: [cs education, stem education]
 level: [k 12]
 confidence: high
 translation_of: concepts/computational-thinking
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-15T10:00:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -55,6 +55,8 @@ Ein zentrales Ziel für CT in der KI-Ära ist, Studierende und Lehrende über *p
 Die neue meta-analytische Evidenz schärft dieses Bild. [[astor-computational-thinking-meta-review-2026|Ein Meta-Review von 128 CT-Systematischen Reviews]] findet, dass das Feld auf einer einheitlichen Definition von CT als Schlussfolgern mit abstrakten Modellen konvergiert, die rechnerische Schritte und Algorithmen nutzen, um Probleme zu lösen – genau die Art von Modellbau- (statt Antwortenkonsum-)Denken, die produktionsorientiertes Lernen verlangt. [[tsingidou-ct-robotics-kindergarten-2026|Forschung zu CT und Robotik im Kindergarten]] zeigt, dass selbst Lernende in der frühen Kindheit durch spielbasiertes Bauen mit Robotern Produzierende werden, mit problembasiertem Lernen, Storytelling und Scaffolding – ein entwicklungsbezogener erster Schritt hin dazu, Technologie als etwas zu sehen, das man konstruiert, nicht nur bedient. Und [[solving-vs-evaluating-genai-solutions|Forschung zu Bewertung und Kritik]] zeigt, dass CT durch das Beurteilen und Debuggen fehlerhafter KI-Lösungen geübt werden kann – eine produzierende Haltung gegenüber KI-Ausgabe, die der Falle des passiven Konsums widersteht.
 
 Die praktische Konsequenz ist, dass CT-Unterricht so gestaltet werden sollte, dass Lernende *Dinge mit KI machen* – Modelle verfassen, Agenten bauen, Artefakte konstruieren und KI-Ausgabe kritisieren –, statt fertige Lösungen zu erhalten. Das vertieft sowohl CT als auch baut [[ai-literacy|KI-Kompetenz]] als partizipatorische und kreative statt bloß konzeptuelle auf. Lehrkräfte brauchen wiederum Unterstützung, um von der Nutzung von KI-Werkzeugen zum Gestalten KI-erweiterter Lernaktivitäten überzugehen (siehe [[teacher-role]] und [[professional-training|berufliche Weiterbildung]]).
+
+Die Wiederverwendung der Modelle anderer gehört zur produzierenden Haltung: die Implementierung eines veröffentlichten KI-Modells – Auswahl, Installation, Ausführung und Validierung – kann als erlernbare, strukturierte Fähigkeit gelehrt werden, mit einem Ausweichweg für jeden antizipierten Fehler; und drei BSc-Chemiestudierende ohne Programmierhintergrund reproduzierten und erweiterten innerhalb von vier Monaten ein Vorhersagemodell für Enzym-Substrat-Wechselwirkungen ([[praise-non-programmer-ai-model-implementation-2026|Achterweust et al. (2026)]]).
 
 ### Praktische Anleitung
 
@@ -114,3 +116,4 @@ Computational Thinking ist das geteilte kognitive Fundament unter [[ai-literacy|
 - [[code-to-learn-genai-artifact-construction-2026]] — CtL-GenAI: constructionism framework for artifact construction
 - [[astor-computational-thinking-meta-review-2026]] — CT meta-review of 128 systematic reviews
 - [[tsingidou-ct-robotics-kindergarten-2026]] — Systematic review of CT via robotics in kindergarten
+- [[praise-non-programmer-ai-model-implementation-2026]] — PRAISE: A Reproducible Workflow for Non-Programmer Scientists to Implement Published AI Models

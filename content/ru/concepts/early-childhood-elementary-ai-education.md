@@ -9,7 +9,7 @@ level: [k 12, preschool]
 confidence: high
 reviewed_by: [editor]
 translation_of: concepts/early-childhood-elementary-ai-education
-source_updated: "2026-10-13T04:43:42-04:00"
+source_updated: "2026-10-15T10:00:00-04:00"
 translation_note: "Автоматический перевод данной английской страницы, не проверенный носителем языка."
 contributors: [editor]
 ai_assist:
@@ -68,6 +68,8 @@ ai_assist:
 
 Первое окно в этот вопрос через нейровизуализацию приходит с предостережением: дети 6–7 лет, ведущие пятиминутный устный разговор с ChatGPT в сканере МРТ, показали более слабую внутрисетевую связность, чем взрослые, в фронтопариетальных сетях контроля, значимости и дорсального внимания при сопоставимых оценках креативности и не обнаружили связи креативности со связностью, которую показывали взрослые. Поскольку эти исполнительные функции ещё незрелы в первом классе, авторы читают результат как относящийся к дискуссии о минимальном возрасте — отмечая при этом смешение рамок интерпретации и отсутствие контрольной группы без ChatGPT как ограничения того, что он позволяет установить ([[horowitz-kraus-children-chatgpt-cognitive-control-2026|Horowitz-Kraus и др. (2026)]]).
 
+Сравнение четырёх стран обостряет пробел в учебных планах: национальные руководства по раннему детству Японии, Южной Кореи и Китая не содержат явных упоминаний ИИ-грамотности (городской план действий Шанхая — единственное исключение, и он не задаёт учебных прогрессий), тогда как Австралия демонстрирует лишь ограниченное, неровное согласование — самое сильное во взаимодействии с ИИ-агентами, отсутствующее в понимании человеко-ИИ отношений, — оставляя ИИ-грамотность дому ([[ai-literacy-ecec-curricula-four-country-2026|Cohrssen et al. (2026)]]).
+
 ## Связанные концепции
 
 - [[k-12]]
@@ -108,3 +110,4 @@ ai_assist:
 - [[creative-project-approach-ai-early-childhood-2025]] — The Creative Project Approach: a framework for tailoring AI agents and robotics to early learning (Yang, Li & Lee 2025)
 - [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] — First neuroimaging comparison of children and adults conversing with ChatGPT: less integrated control-attention-memory networks in 6-7-year-olds
 - [[ai-rated-classroom-observation-scores-2026]] — I code or AI code: AI-rated CLASS Pre-K scores versus trained human raters in Hong Kong kindergartens (Fong et al. 2026)
+- [[ai-literacy-ecec-curricula-four-country-2026]] — AI literacy for AI natives? A four-country comparison

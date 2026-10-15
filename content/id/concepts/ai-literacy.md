@@ -11,7 +11,7 @@ confidence: high
 connected_resources: [education-agent-skills, edugems, mglearn, onmicro-ai, playlab, pressing-prompts, student-guide-to-ai, vibes-diy]
 reviewed_by: [editor]
 translation_of: "concepts/ai-literacy"
-source_updated: "2026-10-08T10:20:00-04:00"
+source_updated: "2026-10-15T08:25:00-04:00"
 translation_note: "*Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*"
 contributors: [editor]
 ai_assist:
@@ -127,6 +127,12 @@ Untaian berbeda dari basis pengetahuan ini memperlakukan literasi AI bukan hanya
 - **Penilaian, bukan hanya verifikasi.** [[obyrne-co-constructing-ai-boundaries-agency-judgment-2026|O'Byrne (2026)]] menemukan bahwa siswa yang hanya memeriksa keluaran untuk akurasi, kredibilitas, dan relevansi masih menerima pekerjaan yang secara konseptual diratakan, sementara mereka yang juga menilai nuansa, suara, dan sikap epistemik menulisnya ulang — menjadikan "kapan tidak mendelegasikan penilaian" sebagai pertanyaan literasi.
 
 Untaian kritis ini melengkapi dimensi operasional dan kognitif dari literasi AI: ketika yang terakhir bertanya "bisakah pembelajar menggunakan dan mengevaluasi AI?", literasi AI kritis bertanya "apakah pembelajar memahami dan menantang struktur kekuasaan yang diwujudkan AI?"
+
+### Literasi AI dalam pendidikan STEM
+
+Basis bukti disipliner yang paling berkembang untuk literasi AI berasal dari pendidikan STEM, dan [[hallstrom-ai-literacy-stem-education-frontiers-2026|Hallström, Chiu, Ding, Koretsky dan Li (2026)]] mensintesis sepuluh studi tersitasi terbanyak (2022–2026) untuk menunjukkan baik garis dasarnya maupun batas-batasnya. Di sepanjang korpus, literasi AI didefinisikan melalui enam konstruk yang saling tumpang-tindih — pengetahuan/keterampilan/sikap (Su & Yang 2024), pengetahuan konseptual-prosedural-kontekstual (Stolpe & Hallström 2024), know-understand/use-apply/evaluate-create/ethics (Ng et al. 2022), dan kerangka penggunaan–komunikasi–evaluasi Long & Magerko (Hornberger et al. 2023) — sehingga "ambiguitas konseptual" bidang tersebut adalah masalah pengukuran: dua studi dapat sama-sama menilai "literasi AI" tanpa menilai konstruk yang sama. Hanya dua dari sepuluh yang menawarkan kerangka lengkap. Temuan paling tajam tinjauan tersebut adalah sebuah asimetri — korpus hampir sepenuhnya mengukur literasi *siswa* sementara hampir tidak ada yang mengembangkan literasi *guru*, sebuah kesenjangan yang meninggalkan intervensi literasi AI yang dihadapi guru bertumpu pada asumsi alih-alih bukti, dan yang para penulis kaitkan pada persyaratan praktis bahwa guru sendiri harus literat AI untuk menjalankan intervensi semacam itu.([[hallstrom-ai-literacy-stem-education-frontiers-2026]])
+
+Bukti chatbot di korpus tersebut berlawanan dengan pelatihan berbasis kelancaran. Ding et al. (2023) menemukan bimbingan ChatGPT dalam fisika universitas menaikkan kepercayaan diri dan pengetahuan tetapi memperkuat miskonsepsi AI yang "superhuman dan infallible", menyimpulkan pendidikan literasi AI adalah "first and foremost improving students' critical thinking skills in assessing information." Xu et al. (2026) menemukan pemrograman STEM yang didukung ChatGPT meningkatkan kepercayaan diri dan pengetahuan tetapi meninggalkan berpikir komputasional dan pemikiran independen tanpa perubahan — keuntungan dalam kelancaran yang hidup berdampingan dengan tanpa keuntungan dalam berpikir. Kedua temuan mencerminkan kekhawatiran [[trust-calibration]] dan [[cognitive-offloading|kebergantungan berlebih]] di tempat lain di halaman ini: seorang tutor yang tidak pernah membantah siswa dapat menghasilkan pembelajar yang percaya diri tetapi tidak dapat mengevaluasi. Sikap, bukan kesiapan atau efikasi diri, ternyata menjadi determinan terkuat dari penggunaan alat AI aktual di antara mahasiswa S1 STEM (Falebita & Kok 2025), dan tinjauan mencatat cakupan disipliner STEM condong ke biologi dan fisika dengan teknologi sebagai subjek hampir tidak ada. Untuk desain [[discipline-specific-aied|spesifik disiplin]], peringatan praktis tinjauan adalah bahwa kerangka kompetensi komprehensif (UNESCO, EU/OECD) "sering kurang memiliki koneksi ke penelitian empiris atau landasan teoretis yang memadai" dan sedikit yang dapat diterapkan di kelas.
 
 ### Keterampilan AI siapa yang dihitung? Perpecahan bingkai instruktur–pemberi kerja
 
@@ -264,3 +270,4 @@ Literasi AI bersifat **bermata-dua** bagi ketergantungan berlebih: [[student-dep
 - [[sfailq-six-facet-ai-literacy-questionnaire-2026]] — Instrumen enam-faset yang menambahkan faset penggunaan-bertanggung-jawab dan pengembangan-diri, invarian-skalar di sepanjang remaja, dewasa muda, dan dewasa usia-tengah
 - [[faculty-ai-well-being-social-supports-2026]] — Model persamaan struktural atas kesejahteraan AI fakultas, dukungan sosial, dan literasi AI
 - [[bozkurt-3wai-literacy-scale-2026]] — Skala laporan diri tervalidasi 17-butir dengan tiga faktor literasi AI berbeda (Know What/How/Why); Know-How dan Know-Why paling terkopel (HTMT = 0.544)
+- [[hallstrom-ai-literacy-stem-education-frontiers-2026]] — Sintesis atas sepuluh studi tersitasi terbanyak tentang literasi AI dalam pendidikan STEM (Hallström et al. 2026)

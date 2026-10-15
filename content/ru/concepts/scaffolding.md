@@ -11,7 +11,7 @@ assessment: [feedback]
 confidence: high
 reviewed_by: [editor]
 translation_of: concepts/scaffolding
-source_updated: "2026-10-13T11:05:00-04:00"
+source_updated: "2026-10-15T08:25:00-04:00"
 translation_note: "Автоматический перевод данной английской страницы, не проверенный носителем языка."
 contributors: [editor]
 ai_assist:
@@ -143,3 +143,4 @@ ai_assist:
 - [[genai-cognitive-scaffold-geometric-reasoning-2026]] — GenAI как промпт-скаффолд, соединяющий визуальную интуицию с дедуктивным доказательством в геометрии, где одной визуализации недостаточно (Davor 2026)
 - [[guided-ai-tutor-impasse-resolution-2026]] — Исследование вариаций в разрешении студенческих тупиков направляемыми ИИ-тьюторами
 - [[structured-genai-training-physics-problem-solving-rct-2026]] — Обучение учащегося как скаффолдинг использования GenAI при решении задач в STEM (Huang et al. 2026)
+- [[etq-ai-conversational-teacher-training-2026]] — Диагностика на разговорном ИИ для заблуждений в преподавании с доказательной аргументацией (Miranda & Calvani 2026)

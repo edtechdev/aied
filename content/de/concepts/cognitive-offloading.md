@@ -12,7 +12,7 @@ connected_faqs: [top-10-findings-ai-education-instructors, does-ai-help-students
 confidence: high
 connected_resources: [pause-ai-use-self-examination, student-guide-to-ai]
 translation_of: concepts/cognitive-offloading
-source_updated: "2026-10-07T15:40:00-04:00"
+source_updated: "2026-10-13T04:43:42-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -76,6 +76,8 @@ Die Artikel der Wissensbasis dokumentieren kognitive Auslagerung über mehrere D
 - **Die Sicherheitslücke als Preis des ausgelagerten Ringens.** [[wang-safety-gap-productive-struggle-2026|Wang & Shan (2026)]] formalisieren die Divergenz zwischen der KI-unterstützten Leistung einer oder eines Studierenden und der unassistierten Fähigkeit als „Sicherheitslücke“ — das epistemische Risiko, wenn die KI die kognitive Arbeit tut und die lernende Person sie nicht reproduzieren kann. [[kim-ai-productive-failure-adult-2026|Kim et al. (2026)]] und [[puech-pedagogical-steering-llm-productive-failure-2025|Puech et al. (2025)]] zeigen, dass [[productive-failure|Productive-Failure]]-Design (Antworten zurückhalten, Ringen bewahren) das Gegenmittel ist.
 
 - **Das ICAP/SAMR-Spektrum rahmt Auslagerung als Kontinuum von Modi, nicht als Binäres.** [[thermomix-genai-education-analogy-2026|Rummel, Nachtigall und Panadero (2026)]] übertragen die Thermomix-Küchengerät-Analogie auf Lernen mit [[generative-ai|generativer KI]] innerhalb der [[icap-framework|ICAP]]- und [[samr-model|SAMR]]-Rahmenwerke und zeigen vier Szenarien, die von **passiver Substitution** (vollständige Auslagerung von Aufgaben — das Auslagerungsende, riskierend Fähigkeitsverlust und begrenzte [[creativity|Kreativität]]) bis zu **interaktiver Neudefinition** fortschreiten (KI als [[pedagogical-agent|Dialogpartner]], die Echtzeit-[[feedback|adaptives Feedback]] und Ko-Konstruktion bietet — das engagierte Ende). Das rahmt den Schaden der Auslagerung neu als bedingt von der *Nutzungsweise* statt bloßer Häufigkeit, konvergent mit der durchdringenden „Gerüst vs. Ersatz“-Grenze: ob KI-Nutzung am Substitutions-/Substitution- oder am Neudefinitions-/Redefinition-Ende des Spektrums sitzt, bestimmt, ob sie die Kognition verdrängt oder stützt, die Lernen aufbaut.
+- **Das Unterengagement-Signal tritt entwicklungsbedingt auf.** Ein erster neuroimaging-Vergleich von Kindern und Erwachsenen im Gespräch mit ChatGPT fand, dass 6–7-Jährige bei übereinstimmenden Kreativitätswerten schwächere Konnektivität innerhalb der frontoparietalen Kontroll-, Salienz- und dorsalen Aufmerksamkeitsnetzwerke zeigten als Erwachsene — und die Kopplung von Kreativität und Konnektivität fehlte, die Erwachsene zeigten. Weil jene exekutiven Funktionen (Planung, Überwachung, Inhibition) in der ersten Klasse unreif sind, lesen die Autoren das Ergebnis als relevant für die Mindestalter-Debatte. Vorbehalte: keine Kontrolle ohne ChatGPT, n = 31, und ein Framing-Konfund, der die kritische Bewertung der Kinder unterdrückt haben kann ([[horowitz-kraus-children-chatgpt-cognitive-control-2026|Horowitz-Kraus et al. (2026)]]).
+
 
 ## Überabhängigkeit: wenn Auslagerung schädlich wird
 
@@ -192,3 +194,4 @@ Zwei kontrollierte Studien im jüngsten Batch präzisieren die zwei Hälften die
 - [[ren-metacognitive-awareness-genai-reliance-2026]] — A reflection prompt reduces acceptance of incorrect AI advice and improves awareness calibration (Ren 2026)
 - [[shojaei-genai-dependence-critical-thinking-employability-2026]] — GenAI dependence as a boundary condition on critical-thinking disposition and self-perceived employability (Shojaei et al. 2026)
 - [[niu-genai-children-creative-thinking-cognitive-development-review-2026]] — GenAI and children's creative thinking: over-reliance and prompt dependence in a scoping review (Niu et al. 2026)
+- [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] - Children showed weaker frontoparietal, salience and dorsal attention connectivity than adults while talking with ChatGPT, at matched creativity scores

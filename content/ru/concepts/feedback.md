@@ -8,7 +8,7 @@ connected_faqs: [developing-ai-tutor, ai-feedback-at-scale]
 confidence: high
 reviewed_by: [editor]
 translation_of: concepts/feedback
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-15T08:25:00-04:00"
 translation_note: "Автоматический перевод данной английской страницы, не проверенный носителем языка."
 contributors: [editor]
 ai_assist:
@@ -204,4 +204,5 @@ LearnLens превращает это опосредование в механи
 - [[nazaretsky-feedback-source-bias-2025]] — Кто даёт обратную связь, имеет значение: метки источника сдвигают оценки, когда текст удерживается сопоставимым (Nazaretsky et al. 2025)
 - [[ai-powered-writing-feedback-awe-review-2026]] — AI-Powered Feedback System for Writing: A Review of Automated Writing Evaluation (AWE) Tools
 - [[zhao-ji-appraisal-human-ai-revisions-2026]] — Что доработка делает с позицией писателя: взаимная обратная связь делает аргументативные эссе более контрактивными, а доработка ИИ сохраняет баланс Contract/Expand (Zhao & Ji 2026)
+- [[etq-ai-conversational-teacher-training-2026]] — Диагностика на разговорном ИИ для заблуждений в преподавании с доказательной аргументацией (Miranda & Calvani 2026)
 - [[xu-automated-feedback-tutor-training-2025]] — Улучшение автоматизированных систем обратной связи для обучения тьюторов в сценариях с низким ресурсом через аугментацию данных (Xu et al. 2025)
