@@ -12,7 +12,7 @@ level: [higher ed, k 12]
 confidence: high
 reviewed_by: [editor]
 translation_of: concepts/intelligent-tutoring
-source_updated: "2026-10-12T09:45:00-04:00"
+source_updated: "2026-10-14T11:15:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -94,6 +94,8 @@ AÖS alanı dönüm noktası sistemler (Cognitive Tutors, Andes, AutoTutor) üre
 YZ özel öğretmenlerini konuşlandıran eğitimciler ve onları inşa eden geliştiriciler için, bilgi tabanının bulguları somut uygulamaya dönüşür:
 
 **Özel öğretmenleri yalnızca çözmeye göre değil, öğretip öğretmediklerine göre değerlendirin.** Çözme liderlik tablosunun tepesinde yer alan bir model mutlaka iyi bir özel öğretmen değildir — görev çözme yeteneği ile öğrenmeyi destekleyen davranış yalnızca kısmen ilişkilidir (r ≈ 0,42) ve çeşitli modeller pedagojiye göre puanlandığında sıralamayı değiştirir. **Çözme ve pedagoji puanlarını ayrı ayrı** bildirin ve inceleyin ve hızlı yanıtlar üretenlere göre yönlendirici sorular, ayarlanmış ipuçları ve ifşa etmeyen iskeleleme üzerine puan alan özel öğretmenleri önceliklendirin. ([[measuring-llm-tutors-teach-vs-solve]]) ([[ai-tutoring-quality-k12-methodologies-2026]])
+
+- **Pedagojik kalite, öğrenmenin kanıtı değil bir tabandır.** Alanı beş aşamalı bir döngü — öğrenen durumu çıkarımı, pedagojik eylem, özel öğretmen eğitimi, değerlendirme ve öğrenci simülasyonu — olarak kodlayan 88 LLM özel öğretim çalışmasının yapılandırılmış bir denetimi, pedagojik değerlendirmenin yaygın olduğunu (88’den 77’si) ama insan öğrenme kazanımını yalnızca 10 çalışmada, aktarmayı ya da gecikmeli hatırlamayı ise bir tek çalışmada bulmuştur ([[llm-tutors-process-synthesis-2026|Adak ve ark. (2026)]]).
 
 - **Geniş disiplinli bir rasgele deneme, iyi temellendirilmiş bir özel öğretmenden olumsuz etkiler buldu.** [[liu-course-integrated-ai-tutoring-rct-2026|Liu ve ark. (2026)]], 13 blok ve bir ABD devlet üniversitesinin 12 okulundan 11’ine 2.379 lisans öğrencisini ve 30 öğretmenini, her öğretmenin kendi ders materyalleri üzerinde erişimli bir GPT-4o özel öğretmenine erişime rasgele ayırdı; slaytlara ve ders-video zaman damgalarına atıflarla LMS’e gömülü. Tam eşleşme örnekleminde — aynı dersin bölümlerinde — erişim, final notlarını 4,12 puan (0,37 SS) ve GPA ölçekli harf notlarını 0,13 SS düşürdü; tüm örneklemde anlamlı bir başarı etkisi yoktu; etkileşim her iki örneklemde de düştü (kaydedilen katılımlar −0,90 SS, aktif günler −0,51 ila −0,61 SS). Muamele grubundaki öğrencilerin yalnızca yaklaşık %15’i aracı kullandı ve kullanıcılar ortalama yaklaşık dört oturum yaptı, ancak sınıf düzeyinde davranışsal farklar büyüktü ve sınıflanan 3.460 isteğin %73,8’i doğrudan yanıt isteğiydi, öğrencinin kendi denemesi üzerine çalışma veya geri bildirimden çok. Yazarlar bunu teknik-öğretimsel bütünleşme boşluğu olarak okur: muamele grubunda hiçbir öğretmen aracı ödevlere bütünleştirmediğini bildirmedi ve çoğu onu varsayılan doğrudan öğretim kipinde bıraktı; böylece kurs temellendirmesi ve kolay erişim verimli kullanım üretmedi.
 
@@ -215,3 +217,4 @@ Etkili özel öğretim sürekli uyarlama gerektirir: [[zhang-tutormoments-2026|Z
 - [[lyu-data-driven-redesign-tutoring-2026]] — Evaluating a data-driven redesign process for intelligent tutoring systems: more productive time-on-task and skills practiced, but no learning-gain difference when practice dose is thin (Lyu et al. 2026)
 - [[regulatutor-long-term-personalized-tutoring-2026]] — RegulaTutor: A Theory-Informed Framework for Long-Term Personalized Learning (Li et al. 2026)
 - [[alam-goblins-math-platform-2026]] — Full-district teacher-mediated AI math rollout: ~51% engagement fidelity and a dose gradient from 0.11 SD (2 problems/week) to 0.31 SD (20+/week); larger exploratory associations for IEP, EL, and Hispanic students
+- [[llm-tutors-process-synthesis-2026]] — Do LLM Tutors Actually Teach? A Process-Centered Synthesis of the Tutoring Loop

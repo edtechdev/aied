@@ -9,7 +9,7 @@ level: [k 12, preschool]
 confidence: high
 reviewed_by: [editor]
 translation_of: concepts/early-childhood-elementary-ai-education
-source_updated: "2026-10-13T04:43:42-04:00"
+source_updated: "2026-10-15T10:00:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -66,6 +66,8 @@ Küçük çocuklar giderek daha erken yaşta YZ ile etkileşime giriyor — YZ d
 
 Küçük öğrenenler daha kırılgan oldukları ve YZ kullanımlarını daha zayıf öz düzenleyebildikleri için bu küme, **yetişkinlerce iskelelemeyi** (ebeveynler, vasiler ve öğretmenler), **yaşa uygun tasarımı** ve YZ, oyunun, keşfin ve çaba gerektiren öğrenmenin gelişimsel işini desteklemek yerine yerine geçerse [[cognitive-offloading|aşırı yüklenme]] ve [[well-being|zarar]] riskini vurgular. Eşitlik canlı bir kaygıdır: YZ’nin zenginleştirdiği erken öğrenmeye (ya da koruyucu yetişkin rehberliğine) erişim eşit dağılmamaktadır ve bu durum [[digital-divide]] ile [[equity-in-ai-education]] kavramlarına bağlanır. Kanıt tabanının büyük bölümü nedensel olmaktan çok keşfedici veya tasarıma dayalı olmaya devam etmektedir.
 
+Dört ülke karşılaştırması müfredat boşluğunu keskinleştirir: Japonya, Güney Kore ve Çin’in ulusal erken çocukluk kılavuzlarında hiçbir açık YZ okuryazarlığı atfı yoktur (Şangay’ın şehir düzeyi eylem planı tek istisnadır ve hiçbir öğrenme ilerlemesi belirtmez); Avustralya ise yalnızca sınırlı, eşitsiz bir hizalama gösterir — YZ ajanlarıyla etkileşimde en güçlü, insan–YZ ilişkilerini anlamada yok — YZ okuryazarlığını eve bırakır ([[ai-literacy-ecec-curricula-four-country-2026|Cohrssen ve ark. (2026)]]).
+
 Bu soruya ilişkin ilk nörogörüntüleme penceresi bir ihtiyatla gelmektedir: Manyetik rezonans cihazında ChatGPT ile beş dakikalık sözlü bir konuşma yürüten 6–7 yaşındaki çocuklar, eşleştirilmiş yaratıcılık puanlarında frontoparietal kontrol, belirginlik ve dorsal dikkat ağlarında yetişkinlerden daha zayıf ağ-içi bağlantı gösterdi; yetişkinlerde görülen yaratıcılık–bağlantı ilişkisinden de yoksundu. Bu yönetici işlevler birinci sınıfta hâlâ olgunlaşmadığından yazarlar, sonucu asgari yaş tartışmasıyla ilgili olarak okumaktadır; buna karşın çerçeveleme karışıklığını ve ChatGPT’siz bir kontrol grubunun yokluğunu, bulgunun ne ölçüde kesin sonuç doğurduğuna dair sınırlar olarak belirtmektedir ([[horowitz-kraus-children-chatgpt-cognitive-control-2026|Horowitz-Kraus ve ark. (2026)]]).
 
 ## Bağlı kavramlar
@@ -107,3 +109,4 @@ Bu soruya ilişkin ilk nörogörüntüleme penceresi bir ihtiyatla gelmektedir: 
 - [[creative-project-approach-ai-early-childhood-2025]] — The Creative Project Approach: a framework for tailoring AI agents and robotics to early learning (Yang, Li & Lee 2025)
 - [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] — First neuroimaging comparison of children and adults conversing with ChatGPT: less integrated control-attention-memory networks in 6-7-year-olds
 - [[ai-rated-classroom-observation-scores-2026]] — I code or AI code: AI-rated CLASS Pre-K scores versus trained human raters in Hong Kong kindergartens (Fong et al. 2026)
+- [[ai-literacy-ecec-curricula-four-country-2026]] — AI literacy for AI natives? A four-country comparison

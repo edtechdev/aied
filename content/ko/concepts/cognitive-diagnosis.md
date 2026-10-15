@@ -7,7 +7,7 @@ technology: [intelligent-tutoring, knowledge-tracing, learning-analytics, studen
 assessment: [assessment, educational-measurement, psychometrically-aware-ai]
 confidence: high
 translation_of: concepts/cognitive-diagnosis
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-15T10:00:00-04:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -45,6 +45,7 @@ ai_assist:
 - **다른 목적으로 만들어진 도구로부터의 진단.** [[mechanics-cognitive-diagnostic-physics-2026|Le 외(2026)]]는 CD 모형이 진단을 위해 쓰이지 않은 문항에서도 목표 수준 정보를 추출할 수 있음을 보여 줍니다. FCI, FMCE, EMCS 문항을 역학 입문의 14개 세밀한 학습 목표에 매핑하고 807개 강의의 24,394개 사후 검사 응답에 DINA를 적합하여, 세 도구 중 두 개에서 좋은 적합(FCI RMSEA² = 0.033; EMCS = 0.022)과 22개 목표–평가 조합 중 19개에서 저위험 형성 기준선 이상의 분류 정확도를 발견했습니다. 구속적 제약은 문항 품질이 아니라 속성 구조였습니다: 전문가 부호화는 모형 심사를 거의 온전히 살아남았습니다 — DINA는 754개 문항–목표 부호화 중 14%만의 수정을 제안했고 부호화자들은 그중 20개(2.7%)를 채택했습니다 — 그러나 모형은 세 *개념적으로 포개어진* 에너지 목표(퍼텐셜 에너지 0.675, 에너지 보존 0.705, 운동 에너지 0.745)를 분리할 수 없었는데, 이는 임의의 두 개가 문항의 약 70%를 공유했기 때문입니다(자카드 중첩 0.67–0.73), DINA의 결합적 독립 가정을 위반하는 반면, 같은 도구의 운동량 목표는 0.820–0.917에 도달했습니다. 더 세밀한 속성이 더 나쁘지 않고 더 나은 적합을 주었습니다: 14개 목표 구조는 같은 팀의 초기 네 개 넓은 기능 구조보다 세 도구 모두에서 모형 적합을 개선했습니다. 숙달이 얼마나 세밀하게 분리될 수 있는지를 제한하는 것은 부호화 오류가 아니라 문항 중첩입니다.
 - **개인화된 학습 경로를 위한 베이지안 DINA:** [[bayesian-cognitive-diagnosis-personalized-learning-paths|Feng와 Huang(2026)]]은 베이지안 DINA 모형(EdNet 데이터셋에 훈련, N=5,000)을 지식 공간 이론과 최단 보완 경로 알고리즘과 통합하여 개인화된 학습 경로를 생성하고, Hidden Markov Model 상태 전이를 통해 [[cognitive-offloading|인지 부하]]의 매개 역할을 실증적으로 시험합니다(120명 학생에 검증) — 전통적 DINA 모형의 희소성 기반 수렴 문제와 개인화 경로 효과성 뒤의 시험되지 않은 심리학적 메커니즘을 함께 다룹니다.
 - **ID 임베딩을 대신하는 언어 근거 진단.** [[process-grounded-language-cognitive-diagnosis-2026|Liu 외(2026)]]는 이산적 학생, 연습, 개념 식별자를 LLM 구축 개념 도식과 과정 근거 증거로 대체하여, 응답 기록으로부터 각 학생의 사후 상태를 보정합니다. 세 개의 [[math-education|수학]] [[online-teaching-and-learning|플랫폼]] 데이터셋에 걸쳐 이 프레임워크는 XES3G5M에서 83.51% ACC / 85.37% AUC, MOOC에서 87.16% ACC에 도달하며, 향상은 고전적 인지 진단 모형이 저하되는 바로 그 지점에 집중됩니다: 새 개념(KCD 대비 +4.60 ACC)과 결여된 Q-행렬 항목(+4.52). 구조화된 증거를 제거하면 MOOC 정확도가 87.16%에서 78.95%로 붕괴하여, 향상이 모형 규모가 아니라 언어 유래 구조에서 옴을 보여 줍니다.([[process-grounded-language-cognitive-diagnosis-2026]])
+- **문화적으로 내장된 과제가 AI 분석에 앞설 수 있다.** [[culturally-embedded-ai-diagnostic-assessment-2026|Anggara et al. (2026)]]는 인도네시아의 중학교 1학년 178명이 AI 응답 분석에 앞서 문화적으로 맥락화된 개방형 과제를 수행하게 했습니다. AI 진단은 전문가 평가와 일치했으며(ICC = 0.81), 문화적 내장은 기호적 수학 수행(β = 0.42)과 참여(β = 0.37)와 관련이 있었습니다.
 
 ## 왜 중요한가
 
@@ -102,3 +103,4 @@ ai_assist:
 - [[pivot-generative-video-tutors-stem-2026]] — 내용 생성에서 학습 지원으로: STEM 학습을 위한 교수법 안내 생성 영상 튜터
 - [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn: 인간-AI 공학습 루프에서 학습자를 배우는 에이전트형 튜터
 - [[omniedu-open-educational-foundation-models-2026]] — OmniEdu: 학습과 교수를 위한 개방형 기반 모형
+- [[culturally-embedded-ai-diagnostic-assessment-2026]] — 의미 있는 학습을 위한 문화적으로 내장된 AI를 통한 진단 평가의 재구상

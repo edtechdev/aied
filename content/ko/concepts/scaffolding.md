@@ -11,7 +11,7 @@ technology: [intelligent-tutoring]
 assessment: [feedback]
 confidence: high
 translation_of: concepts/scaffolding
-source_updated: "2026-10-06T18:35:00-04:00"
+source_updated: "2026-10-15T08:25:00-04:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -42,6 +42,7 @@ ai_assist:
 - **학습자가 이름 붙일 수 없는 공백을 위한 혼합 주도 스캐폴딩:** [[veriforge-narrative-drafting-scaffolding-2026|Sun et al. (2026)]]는 서사 종합에서 글쓰기 주체를 글쓴이에게 두면서, 시스템은 영역 발견에 대해서만 주도권을 갖고 글쓴이가 질의로 표현할 수 없는 지식 공백을 능동적으로 표시합니다.
 - **소크라테스식 스캐폴딩:** [[socratic-method|소크라테스식 AI 대화]]는 직접 답을 withheld하며 질문으로 발견을 이끕니다. 이는 [[desirable-difficulties]]의 한 형태입니다. 경계 조건으로서 질문은 시작 단계에서는 도움이 되지만 깊이가 깊어지면 효과가 줄어들어, 걷히기 규칙은 이끌어내기에서 오류 다루기로 옮겨갑니다. 이익은 시작 시점의 20점 우위에서 네 번째 막힘 국면에서는 3점으로 떨어지고, 오류를 다루는 것은 +5에서 +12로 오릅니다([[guided-ai-tutor-impasse-resolution-2026|Ahtisham et al. (2026)]]).
 - **적응적 걷히기:** [[intelligent-tutoring|지능형 튜터링 시스템]]은 [[knowledge-tracing]] 추정에 따라 스캐폴딩을 조정하여, 숙달하지 못한 개념에는 더 많은 지원을, 아는 개념에는 더 적은 지원을 제공합니다.
+- **성공으로 간주되는 것을 정하는 것은 도구가 아니라 기능이다:** [[vasileiou-ai-cognitive-scaffolding-executive-functioning-sen-2026|Vasileiou et al. (2026)]]는 특수 교육에서의 AI 지원을 위한 세 기능 틀을 제안합니다. *보상*은 실행 기능상의 요구를 줄여 학습자가 참여할 수 있게 합니다(성공 = 지원이 남아 있는 동안의 접근). *비계*는 현재 능력을 약간 넘어서는 수행을 뒷받침합니다(성공 = 표적화된 지원을 받은 의사결정). *발달*은 도구 없이도 쓸 수 있는 전략을 만듭니다(성공 = 걷히기나 전이 이후의 전략 사용). 각 기능은 서로 다른 평가 기준을 지니며, 이 분야의 반복되는 오류는 지원이 있는 동안의 과제 완수를 발달로 보고하는 것입니다. 이는 해석적 범주를 지닌 서술적 검토이며, 종합된 효과 추정이 아닙니다.
 - **[[medical-education|임상]] 면담 훈련에서 필요 유발 적응 스캐폴딩:** MeduAI-SP [[rct|무작위 시험]]([[ai-standardized-patient-scaffolding-medical-2026|Yang et al., 2026]]; N = 100명의 3학년 의대생)은 스캐폴딩을 적응적 필요 유발 지원으로 구현했습니다. 국면 수준 평가 에이전트가 학습자가 막혔는지, 핵심 병력을 빠뜨렸는지, 성급한 종결 위험이 있는지, 라포를 해치는지를 표시하고, 그때만 [[pedagogical-agent|튜터 에이전트]]가 [[socratic-method|소크라테스식]] 프롬프트를 냈습니다. 207건의 면담에 대한 전문가 주석은 스캐폴딩 필요가 국면에 강하게 의존하며, 면담 초기 학생 발화의 약 16.1%에서 후기의 34.8%로 상승함을(전체 24.1% 표시) 보였습니다. 이는 초보자 면담 지원이 초기 정보 수집보다 통합과 진단 추론 단계에서 가장 필요하다는 경험적 증거입니다. 스캐폴딩 조건은 구조화된 점진적 공개 통제 조건보다 최종 OSCE 정합 [[summative-assessment|시험]]에서 더 나은 성과를 냈고(71.8% 대 55.6%; β = 16.4퍼센트 포인트; P = 3.30e-4), 의사소통에서 이득이 가장 컸습니다(Hedges' g = −0.79).
 - **힌트 시스템:** [[correct-answer-trap-ai-tutor|AI 튜터 힌트 연구]]는 힌트가 도움이 되는 시점과 [[cognitive-offloading|과잉 의존]]을 부추기는 시점을 살핍니다.
 
@@ -142,3 +143,4 @@ ai_assist:
 - [[genai-cognitive-scaffold-geometric-reasoning-2026]] — 기하에서 시각화만으로는 불충분한, 시각적 직관에서 연역 증명으로 잇는 질문 비계로서의 GenAI(Davor 2026)
 - [[guided-ai-tutor-impasse-resolution-2026]] — 안내된 AI 튜터가 학생의 막힘을 해결하는 방식의 변화 검토
 - [[structured-genai-training-physics-problem-solving-rct-2026]] — STEM 문제 해결에서 GenAI 사용을 위한 비계로서의 학습자 훈련(Huang et al. 2026)
+- [[etq-ai-conversational-teacher-training-2026]] — 증거에 기반한 대화로 교수 오해를 다루는 대화형 AI 진단 도구(Miranda & Calvani 2026)

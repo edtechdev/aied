@@ -8,7 +8,7 @@ connected_faqs: [developing-ai-tutor, ai-feedback-at-scale]
 confidence: high
 reviewed_by: [editor]
 translation_of: concepts/feedback
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-15T08:25:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -216,5 +216,6 @@ Geri bildirim, eğitimdeki en sonuç açısından önemli ve en iyi kanıtlanmı
 - [[ai-powered-writing-feedback-awe-review-2026]] — Yazım için YZ Destekli Geri Bildirim Sistemi: Otomatik Yazma Değerlendirme (AWE) Araçlarının Bir İncelemesi
 - [[zhao-ji-appraisal-human-ai-revisions-2026]] — Bir revizyonun yazarın tutumuna yaptığı: akran geri bildirimi argümantasyon kompozisyonlarını daha büzücü yapar, YZ revizyonu Contract/Expand dengesini korur (Zhao ve Ji 2026)
 - [[xu-automated-feedback-tutor-training-2025]] — Düşük kaynaklı senaryolarda özel öğretmen eğitimi için otomatik geri bildirim sistemlerinin veri çoğaltma yoluyla iyileştirilmesi (Xu ve ark. 2025)
+- [[etq-ai-conversational-teacher-training-2026]] — Kanıta dayalı diyalogla öğretim yanlış kanıları için konuşma YZ tanısı (Miranda ve Calvani 2026)
 
 

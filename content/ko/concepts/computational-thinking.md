@@ -9,7 +9,7 @@ discipline: [cs education, stem education]
 level: [k 12]
 confidence: high
 translation_of: concepts/computational-thinking
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-15T10:00:00-04:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -56,6 +56,8 @@ AI 시대 CT의 중심 목표는 학생과 교수를 AI 산출물의 *수동적 
 새로운 메타 분석적 증거는 이 그림을 날카롭게 합니다. [[astor-computational-thinking-meta-review-2026|128개의 CT 체계적 검토에 대한 메타 검토]]는 계산적 단계와 알고리즘을 써서 문제를 푸는 추상 모형에 의한 추론이라는 CT의 통일된 정의로 분야가 수렴하고 있음을 발견합니다 — 생산 지향 학습이 요구하는 바로 그 종류의 모형 만들기(답 소비가 아니라) 사고입니다. [[tsingidou-ct-robotics-kindergarten-2026|CT-유치원 로보틱스 연구]]는 초기 아동기 학습자조차도 로봇과의 놀이 중심 구축을 통해 문제 기반 학습, 이야기 만들기, 비계를 써서 생산자가 됨을 보여 줍니다 — 기술을 단지 조작하는 것이 아니라 자신이 구성하는 것으로 보게 되는 발달 단계의 첫걸음입니다. 그리고 [[solving-vs-evaluating-genai-solutions|평가와 비평 연구]]는 CT가 결함 있는 AI 해법을 판단하고 디버깅함으로써 행해질 수 있음을 입증합니다 — 수동적 소비의 덫에 저항하는 AI 산출물에 대한 생산자적 태도입니다.
 
 실천적 귀결은 CT 교수가 학습자가 AI로 *무언가를 만들도록* 설계되어야 한다는 것입니다 — 모형을 저작하고, 에이전트를 만들고, 산출물을 구성하고, AI 산출물을 비평하도록 — 완성된 해법을 받는 대신에. 이것은 CT를 깊게 하면서 [[ai-literacy]]를 단지 개념적인 것이 아니라 참여적이고 창조적인 것으로 쌓게 합니다. 교사는 그에 따라 AI 도구를 쓰는 데서 AI 강화 학습 활동을 설계하는 쪽으로 움직이는 지원이 필요합니다([[teacher-role]]과 [[professional-training]] 참조).
+타인의 모형을 재사용하는 것은 생산자 태도에 속합니다. 출판된 AI 모형을 구현하는 것 — 선택하고, 설치하고, 실행하고, 검증하는 것 — 은 예상되는 각 실패에 대한 대안 경로와 함께 배울 수 있는 구조화된 기술로 가르쳐질 수 있으며, 프로그래밍 배경이 없는 세 명의 화학 BSc 학생이 4개월 안에 효소-기질 예측 모형을 재현하고 확장했습니다([[praise-non-programmer-ai-model-implementation-2026|Achterweust et al. (2026)]]).
+
 
 ### 실천적 지침
 
@@ -116,3 +118,4 @@ AI 시대 CT의 중심 목표는 학생과 교수를 AI 산출물의 *수동적 
 - [[code-to-learn-genai-artifact-construction-2026]] — CtL-GenAI: 산출물 구성을 위한 구성주의 프레임워크
 - [[astor-computational-thinking-meta-review-2026]] — 128개의 체계적 검토에 대한 CT 메타 검토
 - [[tsingidou-ct-robotics-kindergarten-2026]] — 유치원에서 로보틱스를 통한 CT에 대한 체계적 검토
+- [[praise-non-programmer-ai-model-implementation-2026]] — PRAISE: 비프로그래머 과학자가 출판된 AI 모형을 구현하기 위한 재현 가능한 워크플로

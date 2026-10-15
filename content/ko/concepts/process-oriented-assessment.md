@@ -22,7 +22,7 @@ ai_assist:
     date: "2026-10-11"
     agent: hermes-agent
 translation_of: concepts/process-oriented-assessment
-source_updated: "2026-10-05T11:00:00-04:00"
+source_updated: "2026-10-14T11:15:00-04:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 ---
 
@@ -51,6 +51,8 @@ translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 
 과정 증거를 위해 선택된 채널은 무엇이 증거될 수 있는지를 바꿉니다. 같은 79명 학생의 생성형 AI 연구에서, 더 높은 깊이의 감시와 계획은 독백(think-aloud) 단위에서 더 흔했고 더 높은 깊이의 조절은 상호작용 로그에서 더 흔했으므로, 어떤 단일 기록도 전체 과정을 포착하지 못합니다([[metacognitive-processes-genai-interaction-logs-2026|Li and Liu (2026)]]). 흔적이 점수와 완전히 달라질 수도 있습니다. 150건의 학생-AI 대화에 걸쳐 41%가 정확히 1.00의 과제 점수를 지녔으나 관찰 가능한 인지 참여는 달랐으므로, 같은 점수가 다른 과정을 숨길 수 있습니다([[epistemic-ownership-ai-mediated-education-2026|Fábrega, 2026)]]). DraftTrace는 AI 통합 글쓰기에 대해 같은 문제에 답합니다. 키스트로크 수준의 과정 측정을 최종 산출물과 AI 상호작용 흔적에 정렬하여, 복사-타자(copy-typing)는 산출물과 과정을 함께 읽을 때만 식별 가능함을 보입니다([[drafttrace-ai-writing-analytics-2026|Chandarana et al. (2026)]]). 이는 이 분야가 여전히 갖추지 못한 행동 흔적 측정의 구체적 사례입니다.
 
 실천자와 틀의 설명들이 산출물들을 채워 줍니다. Uden과 Hwang(2026)의 LEARN 틀은 [[problem-based-learning|문제 기반 학습]] [[assessment]]를 대상으로, 과정 중심 루브릭, 구술 정당화, 단계적 제출, 그리고 [[ai-use-disclosure|AI 사용 공개]]와 함께한 추론 흔적을 요구하고, 학습 저널과 독백 프로토콜을 통한 성찰을 그 흐름의 [[metacognition|메타인지]] 엔진으로 다룹니다. Moganadas와 동료들(2026)은 AI 투명한, 과정 중심 평가를 연구 가능한 다섯 제안 중 하나로 삼아, 금지나 탐지기 사용이 아니라 문서화, 검증, 성찰적 정당화를 요구합니다. Padhy(2026)는 수정 이력, 상호작용 패턴, 과제 수행 시간의 포착을 투명한 공개와 짝지어 권고합니다. Goldstein, Marae-Haj와 Zidan(2026)은 [[trust]] 위기 이후 실천에서 같은 산출물들이 나타난다고 보고합니다. 프롬프트 기록, 문서 버전 이력, 감시된 집단 기여, 그리고 물리적 공책에 보관된 성찰적 "여정 저널(journey journals)"이 그것이며, 과제형 쓰기가 더는 학습을 증거할 수 없다는 평범한 발견도 함께 나타났습니다.
+구체적인 도구가 등장하고 있습니다. [[stepwise-teacher-diagnosis-math-2026|Kim et al. (2026)]]는 문제 해결을 네 단계와 여덟 가지 진단 하위 기술로 운영화하여, LLM이 단계별 질문과 루브릭을 생성할 수 있게 했습니다. 다섯 명의 교사와 64명의 학생이 90개 문제와 720개의 하위 질문에 이 시스템을 사용했으며, 평균 System Usability Scale 점수는 83.5였습니다.
+
 
 ## 진정성 및 채점과 다른 축
 
@@ -106,3 +108,4 @@ Thapa and Lewis의 설명은 개념적입니다. 참가자도, 데이터 수집�
 - [[metacognitive-processes-genai-interaction-logs-2026]] — 채널 의존적 과정 증거: 로그와 독백은 다른 과정을 드러낸다
 - [[drafttrace-ai-writing-analytics-2026]] — DraftTrace: AI 통합 글쓰기를 위한 다중 관점 분석 환경
 - [[epistemic-ownership-ai-mediated-education-2026]] — 같은 수행, 다른 과정: AI 매개 교육에서의 인식론적 소유
+- [[stepwise-teacher-diagnosis-math-2026]] — STEPwise: LLM 생성 질문을 통해 학생의 수학 문제 해결 기술 진단을 지원하는 교사 지원

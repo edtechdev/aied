@@ -12,7 +12,7 @@ audience: [learners]
 level: [higher ed]
 confidence: high
 translation_of: concepts/socratic-method
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-15T08:25:00-04:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -95,6 +95,8 @@ ai_assist:
 **[[syal-multimodal-dialogue-stem-2026|멀티모달 대화 시스템]]**은 소크라테스식 튜터링을 시각 영역으로 확장하여, 모델이 서술하고 추론하고 자체 수정하도록 요구하는 재훈련 불필요 개입 프로토콜을 사용합니다 — 하나의 [[multimodal]] 소크라테스식 비계입니다.
 
 **[[retrieval-augmented-tutoring-algorithm-kite|검색 증강 튜터링]]**은 검색을 통해 소크라테스식 원리를 구현하여, 모델의 파라메트릭 지식에만 의존하기보다 각 응답을 권위 있는 강좌 콘텐츠에 고정합니다 — 이것은 교수법적 품질만으로는 콘텐츠 충실성 없이는 불충분하다는 공백을 다룹니다.
+**생물 교사 양성에서의 소크라테스식 튜터링.** 예비 생물 교사 124명을 대상으로 한 준실험에서, 사회과학적 쟁점에 활용한 ChatGPT-4 소크라테스식 튜터가 오프라인 동료 토론에 비해 논증의 질에서 더 나은 성과를 보였으며(F(1,121) = 14.23, p < .001), 이득은 주장 형성이 아니라 반론과 반증거 평가에 집중되었습니다([[genai-socratic-tutor-biology-argumentation-2026|Ergasheva et al., 2026]]).
+
 
 
 [[lftutor-logical-fallacy-education-2026|LFTutor(Shi et al., 2026)]]는 답을 삼키는 것이 전체 과제인 주제에 소크라테스식 질문을 적용합니다. 타당하다고 믿는 설득 텍스트에서 논리적 오류를 보는 법을 일반인에게 가르치는 것입니다. 그 대화 에이전트는 Toulmin 모형(주장, 근거, 보증)로 학습자 자신의 논증을 분해하고, 학습자의 의도를 탐지한 뒤, Toulmin 구조를 반영하는 고정된 우선순위 순서로 대응·증거·가정·반박 네 전략 중 정확히 하나를 선택하며, 생성 후 별도의 검증 에이전트가 응답이 실제로 선택한 전략을 실행했는지를 확인하여 그렇지 않을 때 다시 표현합니다. 평가 지표는 학습 향상이 아니라 소크라테스식 실패 양식입니다. 주제로부터의 이탈, 입장 변화(학습자의 입장에 굴복), 반복, 반박 실패, 증거 요구 실패, 전략 고착, 설명 없는 오류 용어, 수동적 안내가 그것입니다. 프레임워크당 1,000건의 모의 대화에서 GPT-4o 백본을 사용하여, LFTutor는 같은 함정들을 나열한 프롬프트의 61.5%와 단순 역할극 프롬프트의 31.2%에 비해 평균 84.5%의 대화를 통과했으며, 절제 실험은 그 이득이 Toulmin 어휘가 아니라 검증된 전략 실행과 의도 기반 선택에서 나옴을 보여줍니다. 20명의 인간 참가자가 튜터와 논쟁할 때, LFTutor는 아홉 개 리커트 지표 중 여덟 개에서 유의하게 더 나은 점수를 받았는데, 도움이 됨(4.15 대 1.65)이 포함되며, 반복만이 차이가 유의하지 않은 하나의 차원이었습니다.
@@ -159,3 +161,5 @@ Favero et al.(2025)은 학생들이 질문 구조에 의존하게 되어 그것�
 - [[lftutor-logical-fallacy-education-2026]] — 네 단계 오류 튜터링 틀에서의 소크라테스식 질문과 비판적 논증
 
 - [[guardrails-ai-teaching-assistants-programming-2026]] — Guardrails or Roadblocks? 프로그래밍 AI 교수 조력자에서 교수법 양식과 맥락 인식의 효과
+- [[genai-socratic-tutor-biology-argumentation-2026]] — 생성형 인공지능을 통해 예비 생물 교사의 PISA 정합 논증 기술 향상하기
+- [[etq-ai-conversational-teacher-training-2026]] — 증거에 기반한 대화로 교수 오해를 다루는 대화형 AI 진단 도구(Miranda & Calvani 2026)

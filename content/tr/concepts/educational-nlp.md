@@ -7,7 +7,7 @@ technology: [educational-nlp, intelligent-tutoring, student-modeling, knowledge-
 pedagogy: [scaffolding, socratic-method]
 reviewed_by: [editor]
 translation_of: concepts/educational-nlp
-source_updated: "2026-10-09T09:25:11-04:00"
+source_updated: "2026-10-15T10:00:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -40,6 +40,8 @@ Eğitimde doğal dil işleme, hesaplama yöntemlerini öğretme ve öğrenme dil
 
 - **Öngörü ve ölçüm.** [[llm-item-difficulty-prediction]] ve [[vocabulary-difficulty-prediction]], madde ve metin zorluğunu tahmin etmek için dil modellerini kullanır — [[educational-measurement]], [[adaptive-learning]] ve [[item-response-theory]] modellerinin temel girdileri.
 
+- **Anlamsal benzerlik, müfredat hizalaması için zayıf bir sinyaldir.** 3.837 diş hekimliği amaç–özet çiftini tarayarak, yerleştirme (embedding) erişimi artı bir doğal dil çıkarımı denetimi, yüksek benzerlikli eşleşmelerin (kosinüs 0,90–1,00) %22,9’unu nötr veya çelişkili bulmuş ve uzman etiketli doğruluğu 0,69’dan 0,73’e yükseltmiştir ([[nlp-reading-lists-dental-education-2026|Yasmin ve ark. (2026)]]).
+
 - **Okunabilirlik ve [[curriculum-design|müfredat]] uyumu.** Bird (2026), dönüştürücü metin sınıflandırmasını hesaplamalı dilbilim özellikleriyle birleştirerek İngiliz edebiyatını İngiltere Ana Aşamalarına (UK Key Stage) göre sınıflandırır ve 0,996 F1 değerine ulaşır — [[educational-measurement]] ve okuma düzeyi uyumu için [[vocabulary-difficulty-prediction]] ve [[llm-item-difficulty-prediction]]’e veri güdümlü bir tamamlayıcı.
 
 - **Söylem düzeyinde sınıflandırma, yüzey özelliklerinin gözden kaçırdığını yerele indirir.** Yalnızca son dört dönüştürücü katmanı üzerinde ince ayarlanmış bir BERT modeli, bitişik cümle çiftlerini nedensel, karşıt, ilerleyici veya tutarsız olarak sınıflandırır ve kırılma noktasını bir teşhis olarak yayar; 28.736 cümle çiftinde en az 0,891 ortalama F1 değerine ulaşır ([[bert-discourse-english-teaching-2026|Wang ve ark., 2026]]).
@@ -63,6 +65,8 @@ Eğitimde doğal dil işleme, hesaplama yöntemlerini öğretme ve öğrenme dil
 - **Ön eğitim verisi için derlem ölçekli küratörlük.** [[garrod-edu-qurating-educational-data-curation-2026|Garrod ve ark. (2026)]], tek bir “bu eğitsel mi?” puanının yerine yirmi incelenebilir derecelendirme ölçeği boyutunu — olgusal doğruluk, pedagojik yapı, düzey uygunluğu ve temel okuryazarlık ölçütleri bunlar arasında — koyar ve GPT-4.1-mini’nin ikili tercihlerini, ayrılmış hâkim tercihlerini ortalama 0,917 doğrulukla kurtaran yeniden kullanılabilir Edu-QuRater’lara damıtır; ardından FineWeb-Edu-Fortified’in 322,25 milyon satırının tamamını etiketler; burada süzülmüş karışımlar, aşağı akış [[benchmark|kıyaslama]] doğruluğunu FineWeb-Edu temel çizgisinin üzerine çıkarmıştır. Bu durum, öğrencilerin ürettiği dili çözümlemenin ötesinde eğitimde NLP için bir rol işaretler: diğer modellerin üzerinde eğitildiği öğretim metnini taramak.
 
 - **Bildirimleri yorumdan ayırarak denetlenebilir kodlama.** [[edubehaviors-auditable-coding-educational-dialogues-2026|Bernado ve ark. (2026)]], tek etiketli istek metni yerine, şeffaf bir sınıflandırıcının yapı etiketine eşlediği 221 insan tarafından okunabilir bildirimden oluşan bir şema koyar — 74’ü derlem kaynaklı, 48’i yapı kaynaklı, 100’ü otomatik kelime varlığı kontrolü — TalkMoves öğretmen konuşması derleminde makro-F1 0,673 ve Cohen’ın κ değeri 0,688’e ulaşır; bu, yayımlanmış doğrudan istek metni üst sınırı olan 0,61 makro-F1 ve 0,58 κ’nın üzerinde, ancak ince ayarlı RoBERTa-base sınıflandırıcının 0,76’sının gerisindedir. Krippendorff’un α ≥ 0,5 gerekliliği, 74 derlem kaynaklı bildirimden yalnızca 33’ünü ayakta tutmuştur; yalnızca kelimelerden oluşan bir temel çizgi ise 0,339 makro-F1 almıştır; dolayısıyla kazanım, anahtar kelime sıklığından değil, öğrenilen davranış bildirimlerinden gelmektedir.
+
+- **El yazısı cevap kağıtları mevcut ayrıştırıcılara direnir.** Çok satırlı çözümler, iç içe geçmiş düz metin ve formüller, elle çizilmiş tablolar ve üstünü çizme ile silmeden kaynaklanan gürültü, basılı belge ve yalıtılmış ifade kıyaslamalarının dışına çıkar; bu nedenle gerçek sekizinci sınıf matematik kağıtlarından oluşan HANS veri kümesi — 745 öğrenciden 5.213 cevap görüntüsü ve 18 problem türü — bu gürültüyü belgeler ve tanımayı iyileştiren bir gürültü bastırma modelini destekler ([[hans-handwritten-answer-sheet-parsing-2026|Wu ve ark. (2026)]]).
 
 - **Ölçekte konsept etiketleme.** [[srjudge-knowledge-concept-tagging-2026|Yang ve ark. (2026)]], bilgi konsepti etiketlemeyi bir Seç–Gerekçelendir–Yargıla hattına böler — küçük bir model aday konseptleri ön listeler, LLM ön liste üzerinde akıl yürütür, ardından yargılar — modelin karar uzayını daraltarak üç kıyaslama üzerinde etiketleme doğruluğunu yükseltir.
 
@@ -104,3 +108,5 @@ Model sıkıştırma aynı araca takımının parçasıdır: iki aşamalı bir h
 - [[nlp-student-evaluation-teaching-scoping-review-2026]] — From Sentiment Classification to Actionable and Responsible Feedback: A Scoping Review and Evidence Map of NLP in Student Evaluation of Teaching, 2015–2026
 - [[bloom-classifier-ai-assisted-questions-2026]] — Evaluation of pre-trained models for pedagogical assessment of novel AI-assisted educational questions
 - [[srjudge-knowledge-concept-tagging-2026]] — SRJudge: selective-reasoning pipeline for fine-grained knowledge concept tagging
+- [[nlp-reading-lists-dental-education-2026]] — Natural Language Processing for Aligning Readings with Learning Objectives and Assessing Topic Balance in Dental Education
+- [[hans-handwritten-answer-sheet-parsing-2026]] — HANS: A Handwritten Answer Sheet Dataset for Noisy Hybrid Document Parsing

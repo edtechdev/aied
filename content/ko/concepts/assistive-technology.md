@@ -9,7 +9,7 @@ connected_faqs: [ai-disabled-neurodivergent-learners]
 level: [special education]
 confidence: high
 translation_of: concepts/assistive-technology
-source_updated: "2026-09-30T08:05:25-04:00"
+source_updated: "2026-10-13T11:05:00-04:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -52,6 +52,7 @@ ai_assist:
 - **도구를 학습자와 과제에 맞추세요.** 화면 낭독기, 자막, 음성, 촉각 출력은 각각 다른 장벽을 다룹니다 — 개인의 필요와 콘텐츠 형식에 따라 선택하세요.
 - **AI를 활용해 보조 적응의 비용을 낮추세요.** AI는 자동 자막 생성, 텍스트 단순화, 대안 생성을 할 수 있지만, 출력 품질을 교수학적 정확성 차원에서 평가하세요.
 - **제공을 정책에 기반을 두게 하세요.** AI 도구를 도입하거나 구축할 때 Assistive Technology Act, IDEA, WCAG를 참고하세요.
+- **지원이 어떤 기능을 수행하는지를 밝히고, 그 기능에 대해 평가하라.** [[vasileiou-ai-cognitive-scaffolding-executive-functioning-sen-2026|Vasileiou et al. (2026)]]는 보상(접근과 참여로 평가됨)과 비계(지원을 받은 의사결정)와 발달(소거나 전이 이후의 전략 사용)을 구분합니다. 그들은 이 페이지의 주의를 겨냥한 규칙을 더합니다. 접근성 지원은 교정 수단이 아닙니다 — 어떤 도구가 수용 조치인지, 전략 지시인지, 아니면 임시적 연습 지원인지는 "학습 계획에 명시되어야 합니다."
 
 ## 연결된 개념
 

@@ -11,7 +11,7 @@ connected_faqs: [verify-ai-output]
 level: [higher ed]
 confidence: medium
 translation_of: concepts/critical-thinking
-source_updated: "2026-10-07T15:40:00-04:00"
+source_updated: "2026-10-15T08:25:00-04:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -125,3 +125,4 @@ ai_assist:
 
 - [[genai-dependence-research-creativity-2026]] — 대학원생 1,157명에서 비판적 사고와 양으로 연관된 생성형 AI 의존
 - [[genai-use-critical-thinking-moderation-2026]] — 피드백 리터러시를 통한 생성형 AI 사용에서 비판적 사고로, 덜 성찰적인 학생에게만 직접 경로
+- [[hallstrom-ai-literacy-stem-education-frontiers-2026]] — STEM 교육에서 AI 리터러시에 관한 가장 많이 인용된 열 편의 연구 종합(Hallström et al. 2026)
