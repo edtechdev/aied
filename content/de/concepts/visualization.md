@@ -7,7 +7,7 @@ confidence: medium
 created: "2026-08-29T12:55:12-04:00"
 updated: "2026-10-10T09:04:23-04:00"
 translation_of: concepts/visualization
-source_updated: "2026-09-30T09:53:03-04:00"
+source_updated: "2026-10-13T09:18:19-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -48,6 +48,7 @@ Ein zweiter großer Strang betrifft KI, die Visualisierungen direkt erzeugt. [[n
 
 Ethik und Verlässlichkeit mäßigen die Begeisterung für KI-erzeugte visuelle Inhalte. [[data-comics-for-education-evaluating-effectiveness-benefits-ethics]] fand, dass [[generative-ai|GenAI]]-assistierte Daten-Comics [[student-engagement|Engagement]] und Verständnis gegenüber konventionellen Visualisierungen unabhängig von früherer Visualisierungskompetenz verbesserten, doch Teilnehmende erhoben Bedenken zu Fehlinformationsrisiko und [[academic-integrity|Autorschafts]]-Zuschreibung, und zwei Drittel markierten Nachteile wie Informationsüberlastung durch überladene Layouts. Der kontrafaktische Benchmark CFES-P24 erweitert diese Prüfung auf [[cfes-p24-multimodal-slide-auditing-2026|Folien-Auditing]] und zeigt, dass multimodale LLMs verlässlich [[learning-design]]-Konstrukte erkennen können (Operationen, Prinzipien, Evidenz-Lokalisierung), während sie bei vergleichendem Urteil und Schweregradkalibrierung stark auseinandergehen — ein Beleg dafür, dass zusammengesetzte Werte verbergen, welche Fähigkeit versagt, und dass Konfidenz nicht Verlässlichkeit ist. Zusammen argumentieren diese Arbeiten für geschichtete [[ai-ed-evaluation|Evaluation von KI]]-erzeugten Visualisierungen statt ganzheitlicher Bewertungen.
 
+Prompt-zu-Diagramm-Erzeugung wirft eine andere Frage auf als ob KI eine kompetente Visualisierung produzieren kann: ob die lernende Person noch die analytische und kodierende Arbeit verrichtet, die das Artefakt bildend macht. Ein Rahmenwerk aus dem Jahr 2026 nennt dies die Prozess-Output-Trennung und schlägt Transparenz, Einladung und Ausblenden als die Handlungsfähigkeitslinie zwischen [[scaffolding]] und Substitution vor ([[genai-visualization-education-framework-2026|Purohit et al., 2026]]).
 ## Folien-, Comic- und Multi-View-Werkzeuge in der Praxis
 
 Praktische Systeme wenden diese Prinzipien in großem Maßstab an. AISSA kombiniert LLM-basierte Rubrikbewertung mit Learning-Analytics-Dashboards, um automatisiertes, iteratives Feedback zu Präsentationsfolien der Studierenden zu liefern, wobei es 90 Präsentationen in jeweils 1–3 Minuten zu Cent-Kosten pro Evaluation mit hoher wahrgenommener [[usability-research|Usability]] bearbeitet — während Studierende Feedback selektiv anwandten und manchmal Empfehlungen missachteten, die mit ihrem visuellen Design in Konflikt standen. In der [[cs-education|Programmierausbildung]] paart Flowcode ein Code-Struktur-Flussdiagramm mit einem lernorientierten Chat, um angehenden kreativen Programmierenden zu helfen, gefundene Beispiele zu verstehen und zu erweitern, wobei Visualisierung und [[desirable-difficulties|produktive Friktion]] KI-Nutzung hin zum Lernen statt zum Umgehen steuern. Doch visuelle [[scaffolding|Gerüste]] sind nicht universell wirksam: [[code-anchor-multi-view-visualization]] fand, dass Studierende ~47 % der Blickzeit auf Code verwendeten trotz visueller Gerüste, getrieben von Handlungsfähigkeit, repräsentationaler Passung und der wahrgenommenen Legitimität metaphorischer Ansichten. Diese [[student-experience|Lernendenerfahrungs]]-Befunde mahnen zur Vorsicht, dass Visualisierungsdesign auf [[affective-computing|affektive]] und soziale Faktoren achten muss, nicht bloß auf kognitive Ermöglichungen.
@@ -76,3 +77,4 @@ Praktische Systeme wenden diese Prinzipien in großem Maßstab an. AISSA kombini
 - [[data-comics-for-education-evaluating-effectiveness-benefits-ethics]] — Effectiveness, benefits, and ethics of AI-assisted data comics
 - [[cfes-p24-multimodal-slide-auditing-2026]] — Kontrafaktischer Benchmark für multimodales Folien-Auditing
 - [[mejia-domenzain-ml-findings-teachers-blended-2026]] — Making ML findings accessible to teachers in blended classrooms
+- [[genai-visualization-education-framework-2026]] — Constructing Meaning, Not Just Charts: A Cognitive–Instructional Framework for Generative AI Usage in Visualisation Education

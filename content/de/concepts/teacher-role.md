@@ -11,7 +11,7 @@ level: [k 12, higher ed]
 connected_faqs: [top-10-findings-ai-education-instructors, ai-save-instructor-time, faculty-ai-competencies, faculty-development-ai, asynchronous-online-courses-ai, making-simulated-students-behave-like-learners]
 confidence: high
 translation_of: concepts/teacher-role
-source_updated: "2026-10-04T10:52:53-04:00"
+source_updated: "2026-10-15T08:25:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -150,6 +150,10 @@ Rolle der Lehrkraft und [[learner-identity|Identität der Lernenden]] sind rezip
 ### Lehrkräfte, die KI-Lernressourcen co-designen
 
 - Die Rolle der Lehrkraft erstreckt sich auf das Co-Designen von KI-Lernressourcen: von Lehrkräften und KI co-designte [[simulation|Simulationen]] für Drohnen-STEM-Unterricht hielten GenAI-Ausgabe pädagogisch valide und kontextuell relevant, und Lehrkräfte sind die intendierten Nutznießerinnen und Nutznießer der Teachers' AI Literacy Scale. Wirksame GenAI-Integration hängt zunehmend von Lehrkräftebeteiligung am Design ab.
+### KI-Reflexionssysteme sollten sich an Lehrerfahrung anpassen
+
+- **Lehrkraftgerichtete KI-Reflexionsanalytik sollte expertise-angepasst sein, nicht einheitlich.** Eine Befragung von 100 US-amerikanischen K-12-Lehrkräften (Median-Split bei neun Jahren; Binomialtests; 15% Wahlunterschiede erkennbar bei ~83% Power) fand systematische Präferenz-Splits. Weniger erfahrene Lehrkräfte nennen Mangel an Reflexionszeit als Top-Hindernis mit 3x der Rate der Erfahrenen (37% gegenüber 12%, p < .001) und möchten Analytik zu Studierenden-Desengagement (48% gegenüber 33%, p = .028) und Emotionen (31% gegenüber 18%, p = .036).
+- **Die aus dem Split abgeleitete Designregel sind erfahrungsangepasste Empfehlungsmodi.** Erfahrene Lehrkräfte möchten Analytik zu verbessertem Lernen nachdem sie einer studierenden Person geholfen haben (40% gegenüber 26%, p = .019) und zu ihren Lehrmethoden (42% gegenüber 26%, p = .012); ihr Top-Hindernis ist das Verfolgen von Leistung (28% gegenüber 15%, p = .009). Designregel: Novizenmodus = strukturierte Prompts und Engagement-Analytik; Expertenmodus = flexible longitudinale Analyse —, ein direktes Argument gegen einheitliche Dashboards. ([[falhs-teacher-expertise-reflection-2025]])
 
 ## Verbundene Konzepte
 - [[pedagogical-partnerships]] — Pädagogische Partnerschaften
@@ -220,3 +224,5 @@ Rolle der Lehrkraft und [[learner-identity|Identität der Lernenden]] sind rezip
 - [[kuhail-great-debaters-ai-facilitators-2026]] — Human versus AI debate moderators: equivalent ratings, different routes to reuse
 - [[yalcin-genai-programming-education-systematic-review-2026]] — GenAI in programming education: a systematic review in which instructor roles are least studied
 - [[heutagogical-teaching-ai-enhanced-education-2026]] — From information providers to learning designers: heutagogical teaching practices in AI-enhanced education
+- [[falhs-teacher-expertise-reflection-2025]] — How Expertise Levels Shape Preferences and Reflection Needs: Towards AI Reflection Systems for Teacher Empowerment (Falhs et al. 2025)
+- [[etq-ai-conversational-teacher-training-2026]] — Conversational AI diagnostic for teaching misconceptions with evidence-grounded dialogue (Miranda & Calvani 2026)

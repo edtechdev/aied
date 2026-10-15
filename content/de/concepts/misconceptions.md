@@ -11,7 +11,7 @@ audience: [learners, instructors]
 confidence: high
 connected_faqs: [addressing-common-misconceptions-ai-education]
 translation_of: concepts/misconceptions
-source_updated: "2026-09-30T16:25:27-04:00"
+source_updated: "2026-10-15T08:25:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -72,6 +72,7 @@ KI-Missverständnisse sind nicht auf Lernende beschränkt — sie sind durchdrin
 - **Die breite Öffentlichkeit** absorbiert Medien- und Anbietererzählungen über Fähigkeiten und Risiken von KI. Weil Studierende innerhalb dieses Diskurses lernen, werden öffentliche Mythen zum Substrat, aus dem Studierendenmissverständnisse wachsen. KI-Missverständnisse zu korrigieren ist daher eine [[ai-literacy|KI-Kompetenz]]aufgabe, die auf das gesamte Bildungsökosystem zielt, nicht nur auf Lernende.
 
 Diese Breite ist, warum die Wissensbasis Missverständnisse als querschneidendes fundamentales Thema behandelt statt als ein rein studierendenseitiges: dieselben Kalibrierungsfehler kehren über Lernende, Lehrende, Institutionen und die Öffentlichkeit hinweg wieder, und ihre Korrektur erfordert, sowohl individuelle Überzeugungen als auch den Diskurs zu konfrontieren, der sie nährt.
+Pädagogische Missverständnisse von Lehrenden sind das Spiegelbild davon: nicht Missverständnisse über KI, sondern evidenz-ungestützte Überzeugungen über Lehren, die unabhängig von KI fortbestehen. [[etq-ai-conversational-teacher-training-2026|Miranda and Calvani (2026)]] instrumentieren dies mit dem Effective Teaching Questionnaire, wo 50 binäre Items auf meta-analytische Effektstärken abgebildet sind (d ≥ 0.40), sodass die Antwort einer Lehrkraft mit einem evidenz-ausgerichteten Benchmark verglichen werden kann —, und ihr Befund ist, dass die Missverständnisse tief und spezifisch sind. In einem Piloten mit 123 italienischen Bildungsakteurinnen und -akteuren häufte sich die Ablehnung am stärksten bei kognitiven Lernstilen (78% der Lehrenden verteidigten visuelle/auditive Passung), Inklusion und Gruppenarbeit (68%) und EdTech-Überlastung (54%), mit durchschnittlicher Ausrichtung nahe 50% über die Dimensionen Planung, kognitiv, evaluativ und Management hinweg. Zwei Details zählen für das Korrekturdesign. Erstens überleben die Missverständnisse Universitätsbildung und Unterrichtspraxis —, die Autoren beschreiben einen „verinnerlichten Hausverstand", der „dem Schuleintritt vorausgeht" und fortbesteht —, es sind also keine Wissenslücken, die eine Vorlesung schließt. Zweitens, als dieselben Items durch eine konversationelle KI geliefert wurden, die den Kontext der Lehrkraft validierte, bevor sie die Evidenz erneut einführte, betrafen 41% der Einsprüche reale kontextuelle Randbedingungen (Klassengröße, besondere Bedürfnisse, Curriculumsabdeckung) statt die Evidenz selbst, und 5.9% lehnten das System als „algorithmische Dogmamaschine" ab —, die Randbedingung, wo normative Rahmung Defensivität statt Reflexion erzeugt. Für die Entwicklung von [[teacher-ai-competency|KI-Kompetenz von Lehrkräften]] ist die Implikation, dass Diagnostik-plus-Dialog sichtbar machen kann, welche Überzeugungen evidenzbasierte Ablehnung sind und welche Missverständnis, eine Unterscheidung, die ein Punktewert allein nicht treffen kann.
 
 ### Missverständnisse korrigieren
 
@@ -142,3 +143,4 @@ Diese Refutationen sind bewusst in der [[refutation-text|Refutationstext]]form g
 - [[milicevic-socratic-trap-strategic-misconceptions-2026]] — SocraticTrap-CS: fluent, authoritative explanations that are wrong conceptually rather than factually (Miličević et al. 2026)
 - [[humble-prompt-injection-ai-grading-red-team-2026]] — Hidden instructions in a submitted file can raise an AI-graded mark with no visible warning (Humble 2026)
 - [[children-ai-safety-misconceptions-2026]] — Children's AI-safety misconceptions: friendship with a robot misread as a privacy guarantee (Leisten et al. 2026)
+- [[etq-ai-conversational-teacher-training-2026]] — Conversational AI diagnostic for teaching misconceptions with evidence-grounded dialogue (Miranda & Calvani 2026)
