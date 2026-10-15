@@ -11,7 +11,7 @@ connected_faqs: [incorporating-ai-literacy, ai-literacy-evidence, faculty-ai-com
 confidence: high
 connected_resources: [education-agent-skills, edugems, mglearn, onmicro-ai, playlab, pressing-prompts, student-guide-to-ai, vibes-diy]
 translation_of: concepts/ai-literacy
-source_updated: "2026-10-08T10:20:00-04:00"
+source_updated: "2026-10-15T08:25:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -113,6 +113,12 @@ AI 素养还需要面向最小学习者的发展适切形态。[[ai-play-framewo
 
 **AI 互动素养：互动维度。** [[brunnstrom-ai-interaction-literacy-srl-2026|Brunnström 与 Palmqvist（2026）]] 提出一种更窄的、互动性的能力 —— *引导、评估并从* 与生成式 AI 的迭代互动中 *学习* 的能力 —— 作为更宽框架中应用性、评估性与整合性维度的具体落地，例如 [[ai-literacy-heptagon-2026|AI 素养七边形]]。他们的反思性示范展示了它在实践中由什么构成：识别一个流畅答案 pitched above 自己的图式，请求简化，收窄范围，并把系统引向聚焦的练习。由此有两个设计后果 —— 该技能分布不均，因此无指导的使用可能让已经自信的学生占优并扩大差距（[[equity-in-ai-education|AI 教育中的公平]]），且它必须被显式教授而非假定，由教师覆盖如何构造 productive 提示以及何时停止使用工具（[[self-regulated-learning|自我调节学习]]）。
 
+AI 素养最发达的学科证据基础来自 STEM 教育，[[hallstrom-ai-literacy-stem-education-frontiers-2026|Hallström、Chiu、Ding、Koretsky 与 Li（2026）]]综合了其被引最高的十项研究（2022–2026），既显示了基线，也显示了它的限度。在整个语料中，AI 素养经由六个相互重叠的构念来定义——知识/技能/态度（Su & Yang 2024）、概念性—程序性—情境性知识（Stolpe & Hallström 2024）、知—理解/用—应用/评—创造/伦理（Ng 等 2022），以及 Long 与 Magerko 的用—沟通—评价框定（Hornberger 等 2023）——因此该领域的"概念含混"是一个测量问题：两项研究可以都在评估"AI 素养"而不评估同一个构念。十项中只有两项提供了完整的框架。该综述最锐利的发现是一项不对称——语料几乎完全测量*学生的*素养，而几乎没有任何研究发展*教师的*，这一缺口使面向教师的 AI 素养干预建立在假设而非证据之上，作者把这一点与"教师自己必须是 AI 素养的才能运行此类干预"这一实践要求相连。（[[hallstrom-ai-literacy-stem-education-frontiers-2026]]）
+
+该语料中的聊天机器人证据反对基于流畅性的训练。Ding 等（2023）发现 ChatGPT 在大学物理中的辅导提高了信心与知识，却强化了 AI"超人类且不会出错"的误解，并得出结论：AI 素养教育"首要在于提高学生评估信息的批判性思维技能"。Xu 等（2026）发现 ChatGPT 支持的 STEM 编程提高了信心与知识，但计算思维与独立思考没有变化——流畅性上的增益与思维上的零增益并存。两项发现都镜像了本页别处的 [[trust-calibration|信任校准]] 与 [[cognitive-offloading|过度依赖]]关切：一个从不反驳学生的导师，可以造出自信却无法评价的学习者。态度，而非准备度或自我效能感，被证明是 STEM 本科生实际 AI 工具使用的最强决定因素（Falebita & Kok 2025），且该综述指出 STEM 学科覆盖偏向生物与物理，技术作为一门学科几乎缺席。就 [[discipline-specific-aied|学科特定]]设计而言，该综述的实践告诫是：全面的能力框架（UNESCO、EU/OECD）"往往缺乏与经验研究的联系或充分的理论基础"，且很少可在课堂应用。
+
+### STEM 教育中的 AI 素养
+
 ### 批判性 AI 素养：从技能到权力与抵抗
 
 本知识库中一个独立 strand 把 AI 素养不仅当作技能或批判性评估，而当作一种拷问权力、权威以及“谁的知识算数”的 *批判性与政治性实践*。这把 AI 素养联结到 [[critical-pedagogy|批判教育学]] 与 [[equity-in-ai-education|AI 教育中的公平]]：
@@ -163,6 +169,8 @@ AI 素养的一个核心开放问题是 *哪些* 技能重要、对谁重要。�
 一份 32 题六维度工具在四维度模型之外增补两个维度 —— 负责任使用与自我发展 —— 并在青少年（12–17）、青年（18–40）与中年（41–60）之间保持标量不变性，尽管作者告诫 ΔCFI 已接近常规临界值（[[sfailq-six-facet-ai-literacy-questionnaire-2026|Liu 等人（2026）]]）。
 
 [[zhi-modeling-measuring-graduate-genai-literacy-2026|Zhi、Yang 与 Huang（2026）]] 在 Marzano 分类法之上建立了一个研究生专用模型：对 14 位教授的扎根理论访谈把 329 个原始标签浓缩为 96 个概念、15 个类别和五个维度（认知基础、操作技能、高阶思维、元认知反思、伦理责任），随后操作化为一份 15 题李克特量表，其五因子在探索性因子分析中浮现（累积方差 83.14%），并在第二个子样本的验证性因子分析中成立（CFI = 0.934，RMSEA = 0.083），308 份有效问卷的可靠性从 0.796 到 0.842。
+
+[[bozkurt-3wai-literacy-scale-2026|Critical 3wAI Literacy Scale]]（Bozkurt、Ertan 与 Cömert，2026）为成人学习者验证了同样的三部分结构，作为一种自陈工具（n = 546 与 n = 647；χ²/df = 4.93，CFI = 0.931，α = 0.913）。其 Know-How 与 Know-Why 因子耦合得最紧（HTMT = 0.544），而理论知识本身并未转化为实践效能。作为自陈测量，它分担了上文所记录的脱节问题，因此它是一个已验证的诊断工具，而非表现测量——作者呼吁跨年龄组与文化语境重新验证。
 
 一个相关的问题是这些工具 *究竟* 能测量什么。[[burriss-multimodal-composition-critical-ai-literacy-2026|Burriss 等人（2026）]] 指出，既有 AI 素养量表与能力框架假定可 individually 测量的表现，因而在结构上排除了协作性、创造性的表达 —— 他们单元的证据是 [[multimodal|多模态]] 影像制品、反思与公民话语，而非 [[summative-assessment|终结性]] 分数，作者论证这类证据可以 *补充* 而非取代常规测量。拓宽构念因此可能需要拓宽可采纳的证据，而不只是在既有量表上增加模态丰富的题目。
 
@@ -260,3 +268,5 @@ AI 素养对过度依赖是 **双刃的**：[[student-dependency-on-ai-literacy-
 - [[ai-literacy-determinants-university-students-2026]] — 外部资源、数字能力与心理画像作为共同决定因素，伴随技术焦虑的符号反转
 - [[sfailq-six-facet-ai-literacy-questionnaire-2026]] — 增补负责任使用与自我发展维度的六维度工具，跨青少年、青年与中年标量不变
 - [[faculty-ai-well-being-social-supports-2026]] — 教师 AI 幸福感、社会支持与 AI 素养的结构方程模型
+- [[bozkurt-3wai-literacy-scale-2026]] — 经验证的 17 项自评量表，含三个不同的 AI 素养因子（Know What/How/Why）；Know-How 与 Know-Why 关联最强（HTMT = 0.544）
+- [[hallstrom-ai-literacy-stem-education-frontiers-2026]] — STEM 教育中十篇被引最多的 AI 素养研究综合（Hallström 等，2026）

@@ -85,7 +85,7 @@ EduQwen 的奖励模型**把引导性回应置于直接答案之上**，用难�
 
 后训练不必只塑造模型说什么。TACT 在一个 13 策略分类法加双轴学生行动分类法上对导师做后训练，比其 Qwen3.5-4B 骨干提升了 **20.30 分**，并配有一个诊断基准，该基准**扣留了训练时可得的学习者状态标签**，迫使模型从对话中推断状态（[[tact-pedagogically-adaptive-esl-tutoring]]）。
 
-同样的逻辑贯穿[[特殊教育|special education]]对齐（[[special-r1-rl-special-education]]），以及把模型对齐为苏格拉底式引导者而非答题者的启发式 RL 工作（[[wang-socratic-guides-heuristic-reinforcement-learning-2026]]）。还有一个平台走得更远，训练的是*策略*而不是行文：一个强化学习智能体选择下一道练习题，于是学习者接下来做什么由受训模型决定（[[chung-personalized-ai-tutors-llm-reinforcement-learning-2026]]）。
+同样的逻辑贯穿[[special-education|特殊教育]]对齐（[[special-r1-rl-special-education]]），以及把模型对齐为苏格拉底式引导者而非答题者的启发式 RL 工作（[[wang-socratic-guides-heuristic-reinforcement-learning-2026]]）。还有一个平台走得更远，训练的是*策略*而不是行文：一个强化学习智能体选择下一道练习题，于是学习者接下来做什么由受训模型决定（[[chung-personalized-ai-tutors-llm-reinforcement-learning-2026]]）。
 
 ## 你需要什么数据？
 
