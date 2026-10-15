@@ -9,7 +9,7 @@ connected_faqs: [ai-guidance-children-under-13]
 level: [k 12, preschool]
 confidence: high
 translation_of: concepts/early-childhood-elementary-ai-education
-source_updated: "2026-10-07T09:45:00-04:00"
+source_updated: "2026-10-15T10:00:00-04:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -55,6 +55,10 @@ ai_assist:
 
 幼い学習者はより脆弱で AI の利用を自己調整しにくいため、この分類は**大人による足場かけ**（親、保護者、教師）、**年齢に適した設計**、そして AI が遊び・発見・骨の折れる学習という発達的な作業を支えるのではなく代替する場合の[[cognitive-offloading|過度の依存]]と[[well-being|害]]のリスクを強調します。公平性は切実な懸念です。AI が豊富な早期学習（または保護的な大人の指導）へのアクセスは不均等で、[[digital-divide]]と[[equity-in-ai-education]]につながります。証拠基盤の多くは、因果的ではなく探索的または設計指向のままです。
 
+4か国の比較が、カリキュラムの隔たりを鋭くします。日本、韓国、中国の国の幼児教育指針には AI リテラシーへの明示的な言及がまったく含まれておらず（上海市の市レベル行動計画が唯一の例外で、それでも学習の進展段階は定められていません）、一方オーストラリアは限定的で不均等な整合しか示していません——AI エージェントとの相互作用において最も強く、人間と AI の関係を理解することにおいては欠けている——ため、AI リテラシーは家庭に委ねられたままです（[[ai-literacy-ecec-curricula-four-country-2026|Cohrssen et al. (2026)]]）。
+
+この問いに関する最初の神経画像による窓が、注意を伴って届きます。MRI スキャナーの中で ChatGPT と5分間の話し言葉による対話を行った6〜7歳の子どもは、創造性のスコアが一致していたにもかかわらず、前頭–頭頂の制御ネットワーク、顕著性ネットワーク、背側注意ネットワークにおいて大人よりもネットワーク内の接続性が弱く、大人が見せた創造性–接続性の共変動を欠いていました。それらの執行機能は小学1年次にはまだ未成熟であるため、著者らはこの結果を最低年齢をめぐる議論に関連するものとして読みます——一方で、枠組みの交絡と ChatGPT なしの対照群の欠如を、それが決着をつけられる範囲の限界として挙げています（[[horowitz-kraus-children-chatgpt-cognitive-control-2026|Horowitz-Kraus et al. (2026)]]）。
+
 ## 関連する概念
 
 - [[k-12]]
@@ -93,3 +97,5 @@ ai_assist:
 - [[vahedian-children-attitudes-ai-chatbot-2026]]
 - [[creative-project-approach-ai-early-childhood-2025]] — 創造的プロジェクトアプローチ:AI エージェントとロボット工学を早期学習に合わせるための枠組み（Yang, Li & Lee 2025）
 - [[ai-rated-classroom-observation-scores-2026]] — 私がコード化するか AI がコード化するか:香港の幼稚園における AI 評価の CLASS Pre-K スコアと訓練を受けた人間の評価者の比較（Fong ら 2026）
+- [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] — ChatGPTと対話する子どもと大人の最初の神経画像による比較:6〜7歳において制御・注意・記憶のネットワークの統合がより弱い
+- [[ai-literacy-ecec-curricula-four-country-2026]] — AI literacy for AI natives? A four-country comparison
