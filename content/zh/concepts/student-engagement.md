@@ -88,7 +88,9 @@ ai_assist:
 - **分离可以朝相反方向发生（2026）：** 在一门为期 12 周的职业室内设计课程中，一个内嵌大模型助教的沉浸式 VR 工作室，把认知（d = 0.90）与行为（d = 0.75）参与提升到传统 [[project-based-learning|项目式]] 教学之上，而情感参与无显著差异（d = 0.38） —— 恰与上面的二语写作案例相反（[[ai-ive-pbl-vocational-design-creativity-2026|Jin et al. (2026)]]）。这里的认知与行为增益伴随*更低* 的报告认知负荷，作者把它归因于助手吸收了检索与跨学科整合的努力。与写作案例对照读，两项研究提示：一项人工智能支持的干预移动了哪个参与维度，是设计的属性 —— 话语密集的沉浸式 [[collaborative-learning|协作]] 对单独写作支持 —— 而非人工智能协助本身的属性，且不能从高保真或智能反馈中假定一项情感优势。
 
 - **人工智能素养通过心理资源作用于参与（2026）：** 一项对中国郑州 1,198 名本科生的有调节中介研究（[[ai-literacy-learning-engagement-psych-capital-2026|Wang, 2026]]）把参与建模为 [[ai-literacy]] 的结果，而非工具使用的副产品。人工智能素养直接预测学习参与，也通过建立心理资本间接预测，间接路径承载了总效应的约一半 —— 部分中介，因此一种技术胜任力只有部分通过它产生的心理资源转化为参与。职业承诺这一身份类变量调节了心理资本到参与的关联，而自身没有直接效应，且心理资本向参与的转化对自认正走向该专业的学生明显更强。这一模式是上述“学习者特征调节人工智能如何影响参与”这一点最清晰的可得实例。
-- **人工智能课前练习可以提高现场参与（2026）：** 一项对 759 名 MBA 学生的预注册田野实验发现，用基于语音的人工智能讨论伙伴做准备，使后续课上的自愿贡献提高约 31%，但只在第二次使用之后；第一次使用之后参与度反而更低（[[assigned-ai-preclass-student-engagement-2026|Wang et al., 2026]]）。
+- **人工智能课前练习可以提高现场参与（2026）：** 一项对 759 名 MBA 学生的预注册田野实验发现，用基于语音的人工智能讨论伙伴做准备，使后续课上的自愿贡献提高约 31%，但只在第二次使用之后；第一次使用之后参与度反而更低（[[assigned-ai-preclass-student-engagement-2026|Wang et al., 2026）]]）。
+
+- **脱离参与是一种话轮层面的举动，而非一种稳定状态：** [[rho-disengaged-conversational-behaviors-2026|Rho 等（2026）]]把学生对 Math Nation 中一个 AI 可教智能体的 5,522 次话语编码为六类会话式脱离参与（虚假作答、嘲弄、幽灵化、镜像、扣留、随机/噪声），发现参与率以 75.7% 的话语占主导。虚假作答与嘲弄的基于流行率的后测分数关联，未能通过人工标注的敏感性检验存续下来。序列分析才是与参与相关的结果：表现最高的聚类把中度脱离参与与强烈的"恢复到参与"转移结合起来（扣留 → 参与 p = 0.83），而最低的聚类则表现出无恢复的持续自我循环（参与自我循环 p = 0.96）。扣留是唯一倾向于持续而非消解的脱离参与类型——持续对修复，而非存在对缺席，才是区分参与轨迹的那个区别。
 
 ## 关联概念
 
@@ -148,3 +150,4 @@ ai_assist:
 - [[ai-literacy-learning-engagement-psych-capital-2026]] — AI literacy drives engagement directly and through psychological capital, amplified by professional commitment (Wang 2026)
 - [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: AI and human tutoring yield equivalent GRE learning gains
 - [[liu-course-integrated-ai-tutoring-rct-2026]] — Access to an AI tutor lowered recorded platform participation by 0.90 SDs while homework submission held steady (Liu et al. 2026)
+- [[rho-disengaged-conversational-behaviors-2026]] — 学生—AI 对话中的脱离参与行为与学习（Rho 等 2026）

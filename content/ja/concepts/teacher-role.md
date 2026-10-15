@@ -11,7 +11,7 @@ level: [k 12, higher ed]
 connected_faqs: [top-10-findings-ai-education-instructors, ai-save-instructor-time, faculty-ai-competencies, faculty-development-ai, asynchronous-online-courses-ai, making-simulated-students-behave-like-learners]
 
 confidence: high
-source_updated: "2026-10-04T10:52:53-04:00"
+source_updated: "2026-10-15T08:25:00-04:00"
 translation_of: concepts/teacher-role
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
@@ -228,3 +228,4 @@ AI を伴うアカデミック・インテグリティは*設計*の問題であ
 - [[yalcin-genai-programming-education-systematic-review-2026]] — プログラミング教育における GenAI:教育者の役割が最も研究されていないシステマティックレビュー
 - [[heutagogical-teaching-ai-enhanced-education-2026]] — 情報の提供者から学習の設計者へ:AI で強化された教育におけるヘウタゴジカルな教授の実践
 - [[falhs-teacher-expertise-reflection-2025]] — 専門性の水準が選好と省察のニーズをどう形づくるか:教師のエンパワーメントのための AI の省察システムへ向けて(Falhs 他 2025)
+- [[etq-ai-conversational-teacher-training-2026]] — 教授の誤概念のための会話型AI診断：証拠に基づく対話(Miranda & Calvani 2026)

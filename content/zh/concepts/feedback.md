@@ -8,7 +8,7 @@ assessment: [ai-feedback-quality, assessment, automated-assessment, feedback, fe
 connected_faqs: [developing-ai-tutor, ai-feedback-at-scale]
 confidence: high
 translation_of: concepts/feedback
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-15T08:25:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -143,6 +143,8 @@ AI 在三个有影响的方向上改变反馈，每一个都提高了其他侧�
 
 反馈是教育中最具影响力、证据最充分的机制之一，而 AI 既放大又复杂化它。架构良好的 AI 反馈可以比肩或超越人类反馈，并规模化到整个班级，但它要求学习者具备新能力（[[feedback-literacy]]、[[ai-literacy]]），并带来风险（不加批判的接受、[[cognitive-offloading|过度依赖]]）。随着 AI 生成的反馈变得无处不在，知识库把反馈框定为一个整体系统——质量、回路、素养与评估情境协同工作——而非任何单一组件。
 
+- **反馈可以瞄准反馈的提供者。** 导学培训是一个未被充分探索的反馈情境：自动化系统可以对导学者的开放式回答作序列标注，以标出表扬的类型（基于努力的表扬——可取的过程聚焦之一种——对基于结果的，对基于个人的，最不可取的特质归因之一种），从而提供能改变导学行为的解释性反馈。其约束条件是专家标注的数据。一种数据增强方法——GPT-4o 生成合成标注回答，把 13 个实例的低资源集扩展到 520 个，然后微调 GPT-3.5——追回了大部分差距：在基于努力的表扬上 F2 +20.5%，基于结果的 +17.3%，而在*未见过的*基于人类别上 +16.5%。对未见过表扬类型的泛化测试，是把这与过拟合作区分的效度检验，而其机制更接近教师模型蒸馏，而非经典数据增强。（[[xu-automated-feedback-tutor-training-2025]]）
+
 ## 关联概念
 
 - [[pedagogical-patterns]] — 经过检验的反馈序列，包括为何更高质量的 AI 反馈并未带来更多修改
@@ -213,3 +215,5 @@ AI 在三个有影响的方向上改变反馈，每一个都提高了其他侧�
 - [[nazaretsky-feedback-source-bias-2025]] — 谁提供反馈很重要：文本可比时来源标签改变评分（Nazaretsky 等人 2025）
 - [[ai-powered-writing-feedback-awe-review-2026]] — 面向写作的 AI 反馈系统：自动写作评价（AWE）工具综述
 - [[zhao-ji-appraisal-human-ai-revisions-2026]] — 修改对写作者立场做了什么：同伴反馈使论证作文更收缩，AI 修改保持 Contract/Expand 平衡（Zhao & Ji 2026）
+- [[xu-automated-feedback-tutor-training-2025]] — 通过数据增强改进低资源情境下导学培训的自动反馈系统（Xu 等 2025）
+- [[etq-ai-conversational-teacher-training-2026]] — 用于教学误解的会话式 AI 诊断：基于证据的对话（Miranda 与 Calvani 2026）

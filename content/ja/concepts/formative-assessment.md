@@ -11,7 +11,7 @@ connected_faqs: [ai-feedback-at-scale]
 connected_resources: [snorkl, ai-infused-assignment-playbook]
 confidence: high
 translation_of: concepts/formative-assessment
-source_updated: "2026-10-04T05:46:16-04:00"
+source_updated: "2026-10-15T08:25:00-04:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -180,3 +180,4 @@ AI教育における形成的評価は、学習のプロセスそのものと結
 - [[zhu-adaptive-teaching-assistance-genai-big-data-2026]] — 音楽教育における生成AIとビッグデータ分析を組み合わせた適応的教授支援
 - [[student-llm-use-ai-question-difficulty-data-science-2026]] — データサイエンスの講義における学生のLLM利用とAI生成問題の難易度の限界
 - [[mcnamara-aim-cai-continuous-assessment-2026]] — AIに媒介された継続的評価のインフラ（AIM-CAI）：文脈と時間を越えた学習の証拠を結ぶ（McNamara & Hasnine 2026）
+- [[etq-ai-conversational-teacher-training-2026]] — 教授の誤概念のための会話型AI診断：証拠に基づく対話(Miranda & Calvani 2026)

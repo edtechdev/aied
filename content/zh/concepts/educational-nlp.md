@@ -7,7 +7,7 @@ confidence: medium
 technology: [educational-nlp, intelligent-tutoring, student-modeling, knowledge-tracing, adaptive-learning]
 pedagogy: [scaffolding, socratic-method]
 translation_of: concepts/educational-nlp
-source_updated: "2026-10-14T11:15:00-04:00"
+source_updated: "2026-10-15T10:00:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -98,3 +98,4 @@ ai_assist:
 - [[bloom-classifier-ai-assisted-questions-2026]] — 对新颖AI辅助教育题的教学评估中预训练模型的评估
 - [[srjudge-knowledge-concept-tagging-2026]] — SRJudge：用于细粒度知识概念标注的选择性推理流水线
 - [[nlp-reading-lists-dental-education-2026]] — 用自然语言处理把阅读材料与学习目标对齐并评估牙科教育中的主题平衡
+- [[hans-handwritten-answer-sheet-parsing-2026]] — HANS：用于噪声混合文档解析的手写作答纸数据集

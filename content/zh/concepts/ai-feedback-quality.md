@@ -39,6 +39,7 @@ AI 反馈质量不只是关于正确性。有效的反馈必须及时、具体�
 ### 反馈质量在研究中的体现
 
 - **与人类反馈的可比性：** [[ai-generated-feedback-higher-ed|高等教育中的研究]]发现，AI 生成的反馈被体验为可接受且具支持性——与教师反馈相当。但可接受性并不保证学习有效性。一项 PRISMA 引导的 [[meta-analysis-systematic-review|系统综述]]（覆盖 2023—2025 年 42 项实证研究）同样发现，[[llm]] 评分与反馈的质量是依任务而变的——在简短、结构良好且有详细评分标准的答案上与人类评分者相当，但在复杂、开放式或 [[multilingual-learning|多语]]的工作上会退化，反馈有时过于笼统或与分数不对齐——并认定提示质量、评分标准细节、模型版本与评估语言是评分与反馈质量的主导决定因素（[[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]）。
+- **LLM 生成的教学材料与人工创作的相当——在有反馈在场时。** [[lin-rag-lesson-generation-tutor-training-2026|Lin 等（2026）]]用一条在精心筛选的研究来源上运作的检索增强流水线生成了基于情境的导学培训课，并在一项随机八条件实验（N = 208）中把它们与精心人工编写的课程作比较。人工创作的课程产出了更高的后测表现（0.793 对 0.730），但仅在无反馈条件下如此；在提供即时解释性反馈后，来源差异消失，且反馈没有总体主效应。就内容生成而言，这一发现表明人机差距是一个脚手架差距：当学习环境提供了课程本身所缺少的解释性反馈时，生成的材料就具有了竞争力。
 
 
 学生感知的质量比可接受性所暗示的更为混杂：93 名本科生中有 77 人认为 AI 反馈易懂，却有 68 人认为它重复，79 人认为它自相矛盾；只有 31 人同意它能评判复杂或创造性写作，81.7% 的人对一篇占总成绩 40% 的期末论文更偏好人类评分（[[when-students-prefer-ai-scoring-feedback-2026|Yildirim-Erbasli et al.（2026）]]）。
@@ -148,3 +149,4 @@ AI 反馈质量从根本上与 [[formative-assessment]] 和 [[feedback|反馈回
 - [[intelligent-tutoring-mathematics-education-review-2026]] — 数学中 AI 辅导的叙事综述：实时反馈的增益与实施条件
 - [[agent-type-feedback-style-self-directed-learning-2026]] — 苏格拉底式与指令式反馈风格：理解监控对优先处理，以及认知负荷的代价
 - [[when-students-prefer-ai-scoring-feedback-2026]] — 学生感知的 AI 反馈质量：易懂却重复，在技巧上受信任而在解读上不受信任
+- [[lin-rag-lesson-generation-tutor-training-2026]] — 在有反馈在场时，RAG 生成的导学培训课与人工创作的相当；人的优势只在无反馈时出现

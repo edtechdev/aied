@@ -9,7 +9,7 @@ discipline: [cs education, stem education]
 level: [k 12]
 confidence: high
 translation_of: concepts/computational-thinking
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-15T10:00:00-04:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -45,6 +45,8 @@ ai_assist:
 - **「より有能な同僚」としてのAIは、資源の乏しいロボティクス授業でCTを担うことができる。** ナイジェリアの103名の1年生学部生を対象とした14週間の準実験では、AI支援の問題ベース学習(ChatGPTとTeachable Machineを、発達の最近発達領域の中に置いたもの)が、事後テストにおける計算論的思考とロボットプログラミングの達成度で従来の教授を上回り、性別による調整効果は見られませんでした([[ai-pbl-computational-thinking-2026|AI-PBLロボティクス研究(2026)]])。
 
 - **CTの評価と発達のための道具としてのLLM。** [[generative-ai|生成AI]]はCTを測定し足場をかけるための拡張可能な方法を提供します。[[llm-computational-thinking-physics-2026|物理のCT評価研究]]は、LLMが大規模な[[physics-education]]コースにおいて、データの実践と計算による問題解決の実践における成長の採点で人間の評価者と同様の結果を示せることを明らかにしました。一方で、人間もLLMも、より複雑なシステム思考の構成概念には苦戦し、これが自動化の明確な境界を示しています。[[visual-query-tracer-declarative-logic-learning|視覚的クエリトレーシング]]は、視覚化が抽象的な計算にどう足場をかけられるか、すなわちCTの発達を支える直観をどう構築できるかを示しています。[[student-misconceptions-conditionals-loops-taxonomy|条件分岐とループの誤概念の分類]]は、[[scaffolding]]と自動化された誤概念検出のための細粒度の標的を提供し、[[misconceptions]]につながっています。ただし、これらのツールが最も効果を発揮するのは、教授設計が主導する場合です。[[llm-intervention-design-cs-review|CSのレビュー]]は、足場をかけたフィードバックを伴う学期を通じた「バーチャルチューター」設計が一貫してCTを改善した一方で、構造化されていないツールへのアクセスはいら立ちを増したことを見出しました。
+
+他者の模型を再利用することは、生産者の構えに属します。公表されたAI模型を実装すること——それを選び、インストールし、実行し、検証すること——は、予想される各失敗に対する退路を伴う、学べる構造化された技能として教えることができ、プログラミングの背景のない3人の化学の学士課程の学生が、4か月以内に酵素・基質の予測の模型を再現して拡張しました([[praise-non-programmer-ai-model-implementation-2026|Achterweust ら (2026)]])。
 
 実装が自動化されると、永続的なコンピテンシーは移ろいます。あるワークショップ報告は、教えるべきスキルとして抽象化、計算論的思考、そして「検証スペクトラム」を挙げ、約1,000人の学生を対象とした試験を引用しています。そこでは無制限のGPT-4アクセスが練習成績を48%向上させた一方で、AIを差し止めた後の試験の得点は17%低下しました([[reshaping-cs-education-genai|Lee et al.(2026)]])。
 
@@ -119,3 +121,4 @@ AI時代のCTの中心的な目標は、学生と教員をAIの出力の*受動�
 - [[code-to-learn-genai-artifact-construction-2026]] — CtL-GenAI:生成物構築のための構成主義フレームワーク
 - [[astor-computational-thinking-meta-review-2026]] — 128件のシステマティックレビューのCTメタレビュー
 - [[tsingidou-ct-robotics-kindergarten-2026]] — 幼稚園におけるロボティクスによるCTのシステマティックレビュー
+- [[praise-non-programmer-ai-model-implementation-2026]] — PRAISE: A Reproducible Workflow for Non-Programmer Scientists to Implement Published AI Models
