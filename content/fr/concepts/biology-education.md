@@ -9,13 +9,17 @@ discipline: [biology education, stem education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/biology-education
-source_updated: "2026-09-30T08:05:25-04:00"
+source_updated: "2026-10-13T09:18:19-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-15"
     agent: hermes-agent
 ---
 
@@ -42,6 +46,8 @@ La recherche sur l'enseignement de la biologie et l'IA se regroupe autour d'une 
 **La littératie en IA intégrée aux programmes de biologie.** **[[zha-ai-literacy-biology-case-study|Zha et al.]]** ont intégré les concepts d'apprentissage automatique et de réseaux de neurones à un cours de biologie de lycée à honorifiques, constatant des gains significatifs en connaissances sur l'IA et que le contexte biologique soutenait l'apprentissage de l'IA — une preuve en faveur de l'intégration de la littératie en IA dans les [[stem-education|STIM]] plutôt que de sa relégation aux activités parascolaires. **[[chatgpt-math-biology-challenge-based-learning-2025|Elizondo-García et al.]]** ont utilisé ChatGPT dans le cadre d'un **apprentissage par défi** en biologie et en mathématiques, constatant que les étudiants valorisaient l'immédiateté mais s'inquiétaient de la véracité, du remplacement des [[teacher-role|enseignants]] et de l'érosion des compétences — appelant à des codes d'intégrité académique et une éthique d'usage de l'IA actualisés.
 
 **La pensée critique à l'ère de l'IA.** **[[critical-thinking-biological-sciences-ai-2025|Papaneophytou et Nicolaou]]** soutiennent qu'à mesure que l'IA façonne la recherche biologique, la **pensée critique** — scepticisme, compréhension contextuelle et raisonnement éthique — doit être délibérément cultivée, la [[human-in-the-loop-ai|supervision humaine]] demeurant indispensable pour valider les productions de l'IA et prévenir les [[equity-in-ai-education|biais]]. Cela rejoint les préoccupations transversales à la base de connaissances que sont la [[reducing-ai-misuse|réduction des usages abusifs de l'IA]] et le [[cognitive-offloading|délestage cognitif]].
+
+**La pratique de l'argumentation socratique assistée par l'IA dans la formation des enseignants.** Une quasi-expérience menée auprès de 124 futurs enseignants de biologie a montré qu'un [[socratic-method|tuteur socratique]] ChatGPT-4 portant sur des questions socioscientifiques relevait la qualité de l'argumentation par rapport à une discussion entre pairs hors ligne (3.91 contre 3.21, F(1,121) = 14.23, p < .001), avec les gains les plus importants en réfutation et en production de contre-preuves ([[genai-socratic-tutor-biology-argumentation-2026|Ergasheva et al., 2026]]).
 
 **Les outils d'IA spécialisés et la revue plus large.** **[[beyond-chatgpt-ai-tools-biological-education-2026|Cotton et Cotton]]** passent en revue l'ensemble du paysage des outils d'IA dans la formation biologique, y compris **iNaturalist et Google Lens** pour l'identification d'espèces, les outils de bio-imagerie et d'apprentissage automatique, les technologies d'assistance et la modélisation prédictive des étudiants à risque — aux côtés des défis d'intégrité, de conception de l'évaluation, de désinformation et de pensée critique posés par l'IA générative.
 
@@ -89,3 +95,4 @@ L'enseignement de la biologie se situe dans le domaine plus large des [[stem-edu
 - [[critical-thinking-biological-sciences-ai-2025]] — Pensée critique en sciences biologiques et IA
 - [[chatgpt-math-biology-challenge-based-learning-2025]] — ChatGPT dans les cours de biologie et de mathématiques par défi
 - [[zha-ai-literacy-biology-case-study]] — Enseignement de la littératie en IA dans un cours de biologie
+- [[genai-socratic-tutor-biology-argumentation-2026]] — Améliorer les compétences d'argumentation alignées sur PISA des futurs enseignants de biologie grâce à l'intelligence artificielle générative

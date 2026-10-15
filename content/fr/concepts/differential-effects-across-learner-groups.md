@@ -13,13 +13,17 @@ page_kind: [evaluation, synthesis]
 confidence: medium
 connected_faqs: [equity-ethics-pedagogical-safety-research, research-gaps-aied]
 translation_of: concepts/differential-effects-across-learner-groups
-source_updated: "2026-10-01T10:47:53-04:00"
+source_updated: "2026-10-11T09:05:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-15"
     agent: hermes-agent
 ---
 
@@ -99,6 +103,12 @@ Ce fil est faible en nombre d'articles et fort en mécanisme, parce que les donn
 - **Les apprenants adultes constituent un cas de conception distinct,** traité par l'[[adult-learning|Apprentissage des adultes]] et par les travaux de la base de connaissances sur l'andragogie plutôt que par des études portant sur la maternelle à la terminale.
 - **L'accès continue de conditionner tout le reste :** voir [[digital-divide|Fracture numérique]] et le constat que l'[[access-not-enough-ai-tutoring-2026|accès au tutorat par l'IA ne suffit pas]] sans intégration [[pedagogy|pédagogique]].
 
+## Contexte disciplinaire
+
+Le contexte disciplinaire est un axe d'effets différentiels que la carte groupe par groupe de cette page ne portait pas encore : un même outil peut répartir son bénéfice de manière inégale selon les domaines plutôt que selon les données démographiques des étudiants.
+
+- **Un outil peut engager une discipline et en désengager une autre.** Dans une quasi-expérience de deux semaines menée auprès de 130 étudiants de premier cycle répartis en équipes pluridisciplinaires, [[generative-ai|ChatGPT]] a accru l'[[student-engagement|engagement]] physique des étudiants en STIM tout en le réduisant chez les étudiants hors STIM (Q = 9.87, p < .05), et les notes rédigées sans ChatGPT ont obtenu de meilleures notes sur la diversité et l'intégration des idées disciplinaires ([[caeai-chatgpt-interdisciplinary-stem-nonstem-2026|Zhu et al. (2026)]]).
+
 ## Là où les données probantes manquent
 
 Le constat honnête de cette revue tient à la minceur de certains groupes. Chacun d'eux constitue un manque réel dans le socle de données probantes, et non un manque de cette page.
@@ -106,6 +116,7 @@ Le constat honnête de cette revue tient à la minceur de certains groupes. Chac
 - **Les étudiants de première génération :** une étude rapporte une différence d'usage plutôt qu'un effet. Dans [[student-ai-inquiry-types-cs2-2026|une étude d'enquête en CS2]], les étudiants en cours de cycle traitaient l'IA comme un partenaire actif de [[problem-solving|résolution de problèmes]], tandis que les étudiants de première génération adoptaient un rôle confirmatoire, orienté vers la validation, et posaient moins de questions dans l'ensemble.
 - **Les étudiants de première génération : la première estimation d'effet, et elle va dans le mauvais sens.** L'[[rct|essai contrôlé randomisé]] de [[liu-course-integrated-ai-tutoring-rct-2026|Liu et al. (2026)]] portant sur un [[intelligent-tutoring|tuteur d'IA]] intégré au cours fournit ce qui manque à l'entrée ci-dessus — un effet différentiel mesuré plutôt qu'un schéma d'usage. Sur l'échantillon complet, l'effet de l'accès au tuteur sur les notes finales était de 2.87 points (0.28 écart-type) plus négatif pour les étudiants de première génération, ce qui implique −5.10 points (−0.50 écart-type) pour eux contre −2.23 points (−0.22 écart-type) pour leurs pairs ; l'effet différentiel était plus fort dans l'échantillon apparié exact (−3.89 points, −0.35 écart-type), et les étudiants de première génération ont aussi perdu davantage de points de devoirs et de consultations de pages de la plateforme. L'étude ne rapporte aucun mécanisme et sa précision varie selon le résultat, mais la direction est inverse du récit de réduction de l'écart : les étudiants ayant le moins d'accès préalable au soutien scolaire ont porté le coût mesuré le plus élevé.
 - **Les étudiants internationaux :** une étude de [[mixed-methods-research|méthodes mixtes]] (enquête n = 60, entretiens n = 14) sur le [[international-students-conversational-ai-adaptation|soutien à l'adaptation interculturelle]].
+- **Les étudiants internationaux : un schéma d'engagement mesuré, et non une estimation d'effet.** Sur 270 étudiants internationaux issus de minorités ethniques répartis dans sept [[business-education|écoles de commerce]] britanniques, l'usage déclaré de l'[[generative-ai]] était associé positivement aux quatre dimensions d'[[student-engagement|engagement]] — le plus fortement à l'engagement agentique (β = 0.429) — les conditions facilitantes (β = 0.369) étant le plus fort prédicteur de l'intention d'usage ([[bjet-genai-engagement-minority-ethnic-students-2026|Adekoya et al. (2026)]]).
 - **Les élèves doués et à haut niveau :** pratiquement non étudiés comme groupe dans ce corpus.
 - **Les apprenants réfugiés, immigrés et déplacés :** aucune étude.
 - **Le genre est encore analysé comme binaire** dans la plupart des travaux ci-dessus, et les catégories de handicap varient selon les études, si bien que la comparaison inter-études du « même » groupe a des limites.
@@ -141,6 +152,8 @@ Le constat honnête de cette revue tient à la minceur de certains groupes. Chac
 ## Articles liés
 
 - [[zhang-ai-students-disabilities-meta-analysis-2024]] — 29 études sur l'IA au service d'élèves en situation de handicap : g = 0.588, et g = 0.269 après ajustement du biais
+- [[caeai-chatgpt-interdisciplinary-stem-nonstem-2026]] — ChatGPT a bénéficié inégalement aux étudiants STIM et hors STIM dans l'apprentissage interdisciplinaire
+- [[bjet-genai-engagement-minority-ethnic-students-2026]] — Usage de l'IA générative et engagement selon quatre dimensions chez des étudiants internationaux issus de minorités ethniques
 - [[assistive-tech-neurodivergent-higher-ed-review-2026]] — 766 références ramenées à 40 études, dont 15 portant sur l'IA générative
 - [[adhd-video-segmentation-computing-education]] — Un changement général de conception qui a amené les participants TDAH à parité
 - [[neurodivergent-computing-students]] — 24 étudiants neurodivergents sur la structure, l'ambiguïté et la collaboration

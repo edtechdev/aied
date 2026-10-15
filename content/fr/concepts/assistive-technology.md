@@ -9,13 +9,17 @@ connected_faqs: [ai-disabled-neurodivergent-learners]
 level: [special education]
 confidence: high
 translation_of: concepts/assistive-technology
-source_updated: "2026-09-30T08:05:25-04:00"
+source_updated: "2026-10-13T11:05:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-15"
     agent: hermes-agent
 ---
 
@@ -52,6 +56,7 @@ Une revue de cadrage de 2026 portant sur les [[ai-technologies|Technologies de l
 - **Assortir l'outil à l'apprenant et à la tâche.** Les lecteurs d'écran, les sous-titres, la parole et les sorties tactiles traitent chacun des obstacles différents — choisissez en fonction des besoins de la personne et du format du contenu.
 - **Exploiter l'IA pour réduire le coût des adaptations d'assistance.** L'IA peut sous-titrer automatiquement, simplifier des textes et produire des alternatives, mais évaluez la qualité des productions du point de vue de l'exactitude pédagogique.
 - **Ancrer l'offre dans les politiques.** Référez-vous à l'Assistive Technology Act, à l'IDEA et aux WCAG lorsque vous achetez ou construisez des outils d'IA.
+- **Énoncez la fonction que remplit le soutien — et évaluez-le au regard de cette fonction.** [[vasileiou-ai-cognitive-scaffolding-executive-functioning-sen-2026|Vasileiou et al. (2026)]] distinguent la compensation (évaluée par l'accès et la participation) de l'étayage (les décisions avec soutien) et du développement (l'usage de stratégies après l'estompement ou le transfert). Ils ajoutent une règle visant la mise en garde de cette page : le soutien à l'accessibilité n'est pas de la remédiation — le fait qu'un outil constitue un aménagement, un enseignement de stratégies ou un soutien pratique temporaire « devrait être énoncé dans le plan d'apprentissage ».
 
 ## Concepts liés
 

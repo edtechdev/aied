@@ -12,13 +12,17 @@ level: [higher ed]
 confidence: high
 connected_resources: [edugems, matt-pocock-skills, pedagogical-promptbook, writing-rhetoric-studies-in-the-loop]
 translation_of: concepts/prompt-engineering
-source_updated: "2026-10-02T08:08:45-04:00"
+source_updated: "2026-10-14T11:15:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-15"
     agent: hermes-agent
 ---
 
@@ -70,6 +74,7 @@ L'ingénierie des invites est centrale pour un usage efficace de l'[[generative-
 - **Les gabarits par rôle et les grilles de qualité pour la planification enseignante.** [[luo-tahir-chatgpt-steam-lesson-planning-2026|Luo et Tahir (2025)]] développent empiriquement un cadre d'invites pour la [[curriculum-design|planification de leçons]] d'arts STEAM pour enfants qui associe un gabarit Role (R) – Instructions (I) – End Goal (E) (adapté de RISEN) à une grille d'optimisation « quatre points et une ligne » — standardisé, pratique, engageant et complet, plus une dimension d'extension. L'application de la grille pour critiquer et affiner les invites a maintenu les plans générés acceptables pour des enseignants d'arts en exercice (notes moyennes supérieures à 4/5) tout en exposant des lacunes récurrentes ([[personalized-learning|personnalisation]], contraintes de [[pedagogical-safety|sécurité des enfants]], biais culturel) que la formulation en un seul coup laissait inabordées — montrant que des gabarits d'invites plus des critères d'évaluation explicites fonctionnent comme un étayage de contrôle qualité pour la génération en classe.
 
 - **La conception du rôle et des contraintes comme variable indépendante.** [[wang-teacher-student-centered-agents-physics-2026|Wang et coll. (2026)]] comparent deux agents construits sur le même modèle et la même plateforme à température 0,3, dont la seule différence réside dans la manière dont l'invite spécifie le rôle, les compétences et les contraintes : un agent enseignant expert répondant à partir d'une source de connaissances bornée, versus un agent centré sur l'étudiant, empathique, scripté pour diagnostiquer les [[misconceptions|idées fausses]] et vérifier la compréhension. La seule différence de rôle a déplacé la performance d'apprentissage, la charge cognitive, l'expérience de flow et l'empathie perçue, montrant que la spécification du rôle est une décision de conception pédagogique à effets mesurables plutôt qu'une fantaisie stylistique ([[pedagogical-agent|agents pédagogiques]]).
+- **La formulation comme conception de l'évaluation.** [[ecd-prompts-automated-essay-scoring-2026|Xiong et coll. (2026)]] projettent les modèles étudiant, preuve et tâche de la conception centrée sur les données probantes (Evidence-Centered Design) sur les parties d'une invite de notation, en dérivant cinq principes — intentionnalité, traçabilité, responsabilité, itération et équité ; leurs invites construites selon l'ECD ont noté des dissertations narratives plus précisément que les références zéro-tir, few-shot et chaîne de raisonnement.
 ### Connexions avec des concepts plus larges
 
 L'ingénierie des invites se rattache au [[scaffolding|scaffolding]] — des invites bien conçues peuvent étayer la pensée des étudiants plutôt que la contourner. Elle recoupe la [[metacognition|métacognition]] et l'[[ai-literacy|IA littératie]], car formuler efficacement suppose de comprendre à la fois les capacités de l'IA et ses propres objectifs d'apprentissage. La recherche sur le [[cognitive-offloading|délestage cognitif]] relie directement la qualité des invites à la question de savoir si l'usage de l'IA soutient ou mine l'apprentissage.
@@ -125,3 +130,4 @@ L'ingénierie des invites se rattache au [[scaffolding|scaffolding]] — des inv
 - [[llm-feedback-focus-adaptivity-student-writing-2026]] — Évaluation de la focalisation de la rétroaction et de l'adaptivité pédagogique dans la rétroaction générée par grands modèles de langue sur les écrits des étudiants
 
 - [[middle-school-genai-steam-interactions-2026]] — Les groupes STEAM de collège ont copié mot pour mot la consigne de l'enseignant dans 47,1% des invites
+- [[ecd-prompts-automated-essay-scoring-2026]] — Employer la conception centrée sur les données probantes pour guider l'ingénierie des invites dans la mesure : une illustration avec la notation automatisée de dissertations

@@ -10,14 +10,19 @@ audience: [learners, instructors, faculty developers, administrators]
 level: [higher ed]
 connected_faqs: [incorporating-ai-literacy, ai-literacy-evidence]
 confidence: high
+reviewed_by: [editor]
 translation_of: concepts/higher-ed
-source_updated: "2026-10-01T20:35:10-04:00"
+source_updated: "2026-10-13T11:30:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-15"
     agent: hermes-agent
 ---
 
@@ -41,6 +46,10 @@ La recherche sur l'IA dans l'enseignement supérieur couvre toutes les fonctions
 ### Transformation institutionnelle
 
 Les [[institutional-change-framework-ai|cadres d'analyse du changement institutionnel]] examinent comment les universités s'adaptent à l'IA — non seulement au niveau de la salle de classe, mais aussi en matière de politique, de gouvernance et de structure organisationnelle. [[sangwa-epiq-ai-faculty-readiness-2026|Le cadre EPIQ-AI]] reconceptualise la préparation des enseignants comme un défi d'alignement sociotechnique mobilisant des registres épistémiques, pédagogiques, institutionnels et qualitatifs. [[universities-ai-era-rethinking|Repenser les universités à l'ère de l'IA]] interroge la capacité des modèles institutionnels actuels à accueillir une éducation pilotée par l'IA. L'adoption n'est pas uniforme : les recherches sur les [[alrahmi-org-drivers-ai-adoption-he-2026|facteurs organisationnels]] identifient ce qui favorise ou freine l'appropriation institutionnelle, et les [[ai-uk-higher-education-policy-2026|analyses de politique nationale]] montrent comment le contexte systémique façonne les réponses des universités. Un projet institutionnel concret vient de [[ai-digital-transformation-liberal-arts-lingnan-2026|Qin (2026)]], qui documente le repositionnement de l'université Lingnan en « institution d'arts libéraux à intensité de recherche à l'ère du numérique », imposant la littératie en IA générative à tous les étudiants de premier cycle et intégrant la culture numérique dans le tronc commun, tout en développant un modèle d'intervention humaine dans la boucle qui place au premier plan le raisonnement [[ethics|éthique]] et le jugement critique — soutenant que le basculement vers l'IA pour l'éducation est une transformation intellectuelle et non une simple augmentation technocentrée. La cartographie à grande échelle de 22 interventions d'intégration de l'IA dans l'enseignement supérieur ([[alsheikh-mapping-ai-integration-higher-education-2026|AlSheikh et al., 2026]]) confirme que la transformation relève encore davantage de l'aspiration que de la réalité : évaluées selon le [[samr-model|modèle SAMR]], la plupart des interventions se situent au niveau de la Substitution ou de l'Augmentation, l'intégration est concentrée dans la [[medical-education|médecine]], le [[cs-education|génie]] et l'informatique, avec une présence très faible des [[humanities-education|sciences humaines]], et les données probantes penchent vers l'Amérique du Nord et l'Asie, avec une représentation minimale du [[global-south|Sud global]].
+
+Un indice comparatif mondial mesure l'écart entre discours et structure. [[chan-ai-institutionalization-index-global-universities-2026|Chan (2026)]] a codé les sites officiels des 100 universités classées au Times Higher Education 2026 à l'aune d'un AI Institutionalization Index à 20 indicateurs. La couche symbolique est saturée tandis que la couche structurelle est mince : 100% des établissements disposent d'un groupe de travail sur l'IA et d'un diplôme de master en IA, mais seuls 12% ont une direction de l'IA, 5% exigent un cours d'introduction à l'IA pour les étudiants de premier cycle, et 0% publient une politique d'accessibilité de l'IA alors que 93% déploient des services d'IA sur le campus.
+
+L'institutionnalisation s'est également révélée indépendante du prestige (corrélation de rang r ≈ 0.04), avec une variation régionale significative (ANOVA F = 5.86, p < .001 ; Amérique du Nord M = 0.63 contre Europe 0.51, Asie 0.50) et une typologie en six modèles dont seul un petit sous-ensemble, composé surtout de grandes universités publiques américaines, atteint « l'institutionnalisation profonde ». L'auteur signale que l'indice est une mesure de première génération, non validée et fondée sur les seuls sites web de l'élite du top 100 — une carte comparative, et non un tableau de bord.
 
 Que l'institution ait ou non légitimé certaines formes d'usage de l'IA générative est lui-même mesurable. [[sun-student-genai-entanglement-literacy-demands-2026|Sun, Dohn et Rehm (2026)]] ont classé 102 études empiriques sur l'enseignement supérieur selon la manière dont le travail épistémique était réparti entre l'étudiant et le système, et ont constaté que les applications de type Assistant (42.16%) et Enabler (42.16%) dominaient, tandis que Generator, Reimaginator et Synthesizer réunis représentaient moins d'un cinquième du corpus — non pas parce que les modèles sont incapables du reste, mais parce que les formes marginales distribuent l'auctorialité d'une manière que la logique de compétence individuelle de l'université ne reconnaît pas encore. Selon eux, la contrainte déterminante pesant sur l'IA générative dans l'enseignement supérieur est la légitimité institutionnelle plutôt que la capacité technique, ce qui place la question exactement dans le même territoire de politique et de refonte de l'évaluation que la réforme de l'[[academic-integrity|intégrité]] et de l'[[assessment]].
 
@@ -129,6 +138,7 @@ La [[academic-integrity]] et la recherche sur la [[ai-assessment-scale-reform|r�
 - [[pecuchova-automated-grading-open-ended-genai-2026]]
 - [[mesny-innovative-assessment-grading-management-2026]]
 - [[dai-chan-responsible-genai-research-ai-literacy-2026]] — Usage de l'IA générative par les chercheurs de troisième cycle dans le flux de travail de recherche et lignes directrices orientées vers la littératie en IA (Dai & Chan 2026)
+- [[chan-ai-institutionalization-index-global-universities-2026]] — Chan (2026) : AI Institutionalization Index appliqué à 100 universités de premier rang ; le discours devance la structure, l'adoption est indépendante du prestige
 - [[engagement-intensity-learner-modeling]] — L'intensité de l'engagement comme signal de modélisation de l'apprenant pour un enseignement adaptatif d'éthique de l'IA (Oh, Talton & Bui 2026)
 - [[ai-assisted-writing-research-teams]] — La rédaction assistée par IA oriente les équipes de recherche vers des collaborations plus petites, moins pourvues en seniors et très citées (Wang et al., 2026)
 - [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench : le tutorat par IA et le tutorat humain produisent des gains d'apprentissage équivalents au GRE

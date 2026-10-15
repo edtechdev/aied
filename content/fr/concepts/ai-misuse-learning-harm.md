@@ -10,13 +10,17 @@ technology: [generative-ai]
 assessment: [assessment]
 confidence: high
 translation_of: concepts/ai-misuse-learning-harm
-source_updated: "2026-10-01T09:59:54-04:00"
+source_updated: "2026-10-13T09:18:19-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-15"
     agent: hermes-agent
 ---
 
@@ -47,6 +51,7 @@ Le concept central, articulé dans [[genai-performance-vs-learning]], est que l'
 - **La copie de réponses comme béquille** — l'usage abusif est moins motivé par des erreurs de l'IA qui induiraient les étudiants en erreur que par le fait que les étudiants copient les réponses au lieu d'apprendre. Lorsque l'analyse de l'[[student-engagement|engagement]] montre que les étudiants « demandent surtout la réponse », un préjudice pour l'apprentissage s'ensuit.
 - **L'érosion de la motivation** — la disponibilité perçue d'un raccourci sans effort offert par l'IA réduit la motivation autonome et la persévérance, selon la [[self-determination-theory|théorie de l'autodétermination]]. Parce que la persévérance est ce qui produit l'apprentissage profond, son érosion compose le préjudice direct.
 - **Le déplacement de l'apprentissage** — la substitution de la production de l'IA aux processus exigeants (élaboration, rappel, auto-explication) qui consolident le savoir, conformément au [[cognitive-offloading|délestage cognitif]].
+- **La confusion prise pour de l'intention.** Lorsque les enseignants ne nomment pas le rôle prévu de l'IA dans un devoir, les étudiants le définissent par ce qui est le plus facile, et les enseignants lisent le décalage qui en résulte comme de la tricherie plutôt que comme une frontière qui n'a jamais été énoncée ([[this-is-how-we-ai-teaching-guide-2026|Hanshaw et al., 2026]]).
 
 ### Le corpus de preuves
 
@@ -80,6 +85,10 @@ La nuance pratique la plus importante est que le préjudice est **sélectif selo
 - **[[assessment|La conception de l'évaluation]] :** des évaluations résistantes à l'IA et surveillées ou non assistées sont nécessaires pour révéler — et décourager — l'usage abusif.
 - **Littératie et métacognition :** l'[[ai-literacy|littératie en IA]] et la formation à l'[[self-regulated-learning|autorégulation]], qui aident les étudiants à reconnaître les régularités de recours et le coût du contournement de leur propre travail cognitif.
 
+### Le désengagement conversationnel à l'ère des LLM
+
+La littérature sur le gaming-the-system (l'abus d'indices, les réponses devinées systématiquement) a un pendant à l'ère du dialogue : le désengagement conversationnel — se moquer de l'agent, répondre délibérément de travers, l'ignorer, faire miroir à son texte, ou refuser de répondre. [[rho-disengaged-conversational-behaviors-2026|Rho et al. (2026)]] donnent à ce phénomène son premier traitement systématique dans le dialogue étudiant-IA, et sa leçon centrale est interprétative plutôt qu'alarmiste. Un *tour* de parole désengagé est une manœuvre interactionnelle, et non un état stable de désengagement. L'association apparente du False Answering avec les scores au post-test n'a pas survécu à une vérification de sensibilité annotée par des humains, et les auteurs la lisent comme une exploration *au sein* de trajectoires qui reviennent souvent à l'engagement (la grappe la plus performante s'est rétablie à p = 0.42). Le comportement qui séparait réellement les trajectoires était le Withholding — le refus de répondre, qui persistait plutôt qu'il ne se résolvait. Pour les concepteurs, cela inverse la priorité habituelle : le désengagement bruyant et visible s'auto-corrige souvent, tandis que le retrait silencieux signale que l'interaction s'est rompue.
+
 ## Concepts liés
 
 - [[self-directed-learning]]
@@ -97,6 +106,8 @@ La nuance pratique la plus importante est que le préjudice est **sélectif selo
 
 ## Articles liés
 
+- [[rho-disengaged-conversational-behaviors-2026]] — Comportements conversationnels désengagés et apprentissage dans les dialogues étudiant-IA (Rho et al. 2026)
+
 - [[genai-thoughtless-use-self-directed-learning-2026]]
 - [[generative-ai-guardrails-harm-learning]] — GenAI sans garde-fous peut nuire à l'apprentissage
 - [[genai-performance-vs-learning]] — Distinguer les gains de performance de l'apprentissage
@@ -110,3 +121,4 @@ La nuance pratique la plus importante est que le préjudice est **sélectif selo
 - [[academic-erasure-complexity-ai-writing-2026]] — L'effacement académique : la disparition de la complexité sous l'écriture assistée par l'IA
 - [[ai-dependency-self-efficacy-teacher-support-burnout-2026]] — La dépendance à l'IA médiatise pleinement le chemin allant du sentiment d'efficacité personnelle et du soutien des enseignants à l'épuisement lié à l'apprentissage (Huang et al. 2026)
 - [[uneven-impact-generative-ai-student-learning-2026]] — Le recours précoce prédit l'impact négatif tandis que le recours cognitif prédit l'impact positif, et la littératie d'évaluation renforce plutôt qu'elle ne tamponne le préjudice de consulter l'IA d'abord (Manikonda et al. 2026)
+- [[this-is-how-we-ai-teaching-guide-2026]] — This is How We AI : une approche pratique de l'enseignement avec l'intelligence artificielle

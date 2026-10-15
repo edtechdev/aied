@@ -32,7 +32,7 @@
 - [Le savoir technologique, pédagogique et disciplinaire (TPACK)](https://edtechdev.github.io/aied/concepts/tpack/): *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
 - [Pédagogies et stratégies d'enseignement](https://edtechdev.github.io/aied/concepts/pedagogy/): *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
 - [Patrons pédagogiques](https://edtechdev.github.io/aied/concepts/pedagogical-patterns/): *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
-- [L'apprentissage actif](https://edtechdev.github.io/aied/concepts/active-learning/): *Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle.*
+- [L'apprentissage actif](https://edtechdev.github.io/aied/concepts/active-learning/): *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
 - [Apprentissage collaboratif](https://edtechdev.github.io/aied/concepts/collaborative-learning/): *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
 - [Apprentissage par projets](https://edtechdev.github.io/aied/concepts/project-based-learning/): *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
 - [Apprentissage par problèmes](https://edtechdev.github.io/aied/concepts/problem-based-learning/): *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -205,7 +205,7 @@
 - [Pédagogie culturellement pertinente](https://edtechdev.github.io/aied/concepts/culturally-relevant-pedagogy/): *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
 - [Apprentissage multilingue](https://edtechdev.github.io/aied/concepts/multilingual-learning/): *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
 - [Apprentissage inclusif](https://edtechdev.github.io/aied/concepts/inclusive-learning/): *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
-- [Accessibilité](https://edtechdev.github.io/aied/concepts/accessibility/): *Traduction automatique de la page anglaise, non relue par un locuteur natif.*
+- [Accessibilité](https://edtechdev.github.io/aied/concepts/accessibility/): *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
 - [Technologies d'assistance](https://edtechdev.github.io/aied/concepts/assistive-technology/): *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
 - [Neurodiversité](https://edtechdev.github.io/aied/concepts/neurodiversity/): *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
 - [Conception universelle de l'apprentissage](https://edtechdev.github.io/aied/concepts/universal-design-for-learning/): *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*

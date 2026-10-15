@@ -8,13 +8,17 @@ technology: [adaptive-learning, intelligent-tutoring, knowledge-tracing, learnin
 audience: [learners]
 confidence: medium
 translation_of: concepts/knowledge-tracing
-source_updated: "2026-10-09T09:50:00-04:00"
+source_updated: "2026-10-14T11:15:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-15"
     agent: hermes-agent
 ---
 
@@ -45,6 +49,8 @@ Le traçage des connaissances transforme les réponses brutes aux exercices en e
 - **Renforcé par les grands modèles de langue :** [[xie-hillm-cd-2026|HiLLM-CD]] emploie les grands modèles de langue pour la construction automatisée d'arbres conceptuels et l'inférence hiérarchique de compétence
 - **Le traçage des connaissances sémantique et orienté vers la recommandation :** [[exrec-exercise-recommendation-knowledge-tracing-2025|ExRec (Ozyurt, Almaci, Feuerriegel et Sachan, 2025)]] ancre l'*entrée* plutôt que l'architecture : un grand modèle de langue annote chaque question avec des étapes de solution et des concepts de connaissance alignés sur les Common Core State Standards for Mathematics, l'apprentissage contrastif aligne les enchâssements de question, d'étape de solution et de concept (les faux négatifs étant éliminés par un pré-regroupement des variantes de concept telles que « interpréter un diagramme à barres » et « lire des informations dans un graphique à barres »), et une perte de calibration des KC permet au traceur de prédire directement un état de connaissance au niveau du concept, au lieu de l'inférer en faisant tourner le modèle sur chaque question de ce concept. Le traceur calibré sert ensuite d'environnement d'apprentissage par renforcement pour la recommandation d'exercices, où une estimation de valeur fondée sur le modèle initialise le critique à partir du traceur lui-même. Sur quatre tâches de XES3G5M, moyennées sur 2 048 étudiants de test, les lignes de base sans apprentissage par renforcement ont donné des gains de connaissance marginaux ou négatifs, les méthodes continues fondées sur la valeur ont battu les méthodes fondées sur la politique, et l'estimation de valeur fondée sur le modèle les a améliorées de manière constante — le plus nettement sur la tâche de concept le plus faible, où la cible change à chaque étape. Les gains rapportés sont des pourcentages d'amélioration maximale des connaissances, non des résultats d'apprentissage, et le pipeline dépend des étapes de solution générées, dont le traceur hérite la qualité.
 - **Le traçage des connaissances fondé sur les résultats (OKT) :** [[pradeesh-outcome-knowledge-tracing-affinity-2026|Pradeesh et coll. (2026)]] tracent les connaissances des étudiants au sein de systèmes d'éducation fondée sur les résultats en traitant **les résultats de cours comme les concepts de connaissance eux-mêmes**, et en substituant aux relations conceptuelles dérivées de l'attention ou des graphes des « correspondances d'affinité » d'éducation fondée sur les résultats validées par des experts entre résultats de cours et résultats de programme. Un réseau neuronal augmenté de mémoire (MANN) modélise la manière dont l'atteinte de chaque résultat affecte les autres, et un ajustement fin de BERT adapté au domaine enrichit les enchâssements des résultats (avec une ossature GRU qui bat le LSTM). Sur des données en direct de LMS d'un programme d'[[engineering-education|ingénierie]] (2 416 étudiants, 966 résultats), l'OKT a atteint 89.81% d'AUC — surpassant DKT, DKVMN, EKT et SimpleKT — tout en ne donnant que des résultats compétitifs sur ASSISTments, ce qui confirme que l'avantage est lié à la structure de [[curriculum-design|programme]] propre à l'éducation fondée sur les résultats.
+
+- **Un unique scalaire de récence capture l'essentiel de ce qu'achète un modèle séquentiel.** Sur 1 927 265 réponses en mathématiques provenant de 8 996 étudiants finlandais, la seule identité de l'item a atteint une AUC de 0,8362 ; l'ajout d'une unique mesure de récence relative à la difficulté de l'item l'a portée à 0,8669, récupérant 93,5% du gain de 0,8690 obtenu par un transformeur conditionné par la requête, tandis qu'un résumé de l'historique en 128 dimensions n'a atteint que 0,8687 ([[knowledge-tracing-compression-math-2026|Lahtinen & McMullen (2026)]]).
 
 - **Le traçage fondé sur des instantanés seuls.** [[skill-acquisition-without-temporal-info|Nagai et coll. (2026)]] induisent un pseudo-ordre temporel à partir des relations d'inclusion entre les ensembles de compétences des apprenants, traitant les ensembles de compétences qui s'étendent comme une progression d'apprentissage, de sorte que des instantanés pris à un seul moment restent traçables — mais la formulation présuppose que les compétences ne sont jamais perdues, si bien que les déploiements pour des apprenants qui régressent nécessitent d'abord un mécanisme d'oubli explicite.
 
@@ -99,3 +105,4 @@ Le traçage des connaissances est étroitement lié à la [[student-modeling|mod
 - [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn: An Agentic Tutor that Learns its Learner in a Human-AI Co-Learning Loop
 - [[crediting-assisted-work-inflates-mastery-2026]] — Which evidence rule decides a mastery claim (Srivastava 2026)
 - [[system-one-llm-knowledge-tracing-2026]] — A single-pass LLM traces knowledge above deep models trained on 8 learners, at a fraction of the cost (Lee & Park 2026)
+- [[knowledge-tracing-compression-math-2026]] — Compressing student history in mathematics knowledge tracing

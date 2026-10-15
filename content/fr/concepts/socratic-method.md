@@ -12,13 +12,17 @@ audience: [learners]
 level: [higher ed]
 confidence: high
 translation_of: concepts/socratic-method
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-13T09:18:19-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-15"
     agent: hermes-agent
 ---
 
@@ -94,6 +98,8 @@ Les **[[syal-multimodal-dialogue-stem-2026|systèmes de dialogue multimodaux]]**
 
 Le **[[retrieval-augmented-tutoring-algorithm-kite|tutorat augmenté par la recherche documentaire]]** opérationnalise les principes socratiques par la recherche documentaire, en ancrant chaque réponse dans des contenus de cours faisant autorité plutôt qu'en s'appuyant uniquement sur les connaissances paramétriques du modèle — ce qui comble l'écart tenant au fait que la qualité pédagogique seule est insuffisante sans fidélité au contenu.
 
+**Le tutorat socratique dans la formation des enseignants de biologie.** Une quasi-expérience menée auprès de 124 futurs enseignants de biologie a montré qu'un tuteur socratique ChatGPT-4 sur des questions socio-scientifiques surpassait la discussion hors ligne entre pairs sur la qualité de l'argumentation (F(1,121) = 14.23, p < .001), les gains se concentrant sur l'évaluation des réfutations et des contre-preuves plutôt que sur la formation des affirmations ([[genai-socratic-tutor-biology-argumentation-2026|Ergasheva et al., 2026]]).
+
 [[lftutor-logical-fallacy-education-2026|LFTutor (Shi et al., 2026)]] applique le questionnement socratique à un sujet où retenir la réponse constitue la tâche elle-même : apprendre à des non-spécialistes à repérer le sophisme logique dans un texte persuasif qu'ils croient valide. Son agent de dialogue décompose le propre argument de l'apprenant à l'aide du modèle de Toulmin (assertion, fondement, garantie), détecte l'intention de l'apprenant, puis sélectionne exactement l'une des quatre stratégies — Répondre, Preuve, Hypothèse, Réfutation — selon un ordre de priorité fixe qui reflète la structure de Toulmin, un agent vérificateur distinct contrôlant après génération que la réponse a réellement exécuté la stratégie choisie et la reformulant dans le cas contraire. Les métriques d'évaluation sont les modes d'échec socratiques plutôt que les gains d'apprentissage : éloignement du sujet, changement de position (céder à la position de l'apprenant), répétition, échec de la réfutation, échec de la demande de preuve, fixation stratégique, terminologie des sophismes non expliquée et guidage passif. Sur 1,000 dialogues simulés par cadre avec un modèle de base GPT-4o, LFTutor a réussi en moyenne 84.5% des dialogues, contre 61.5% pour une invite énumérant ces mêmes pièges et 31.2% pour une simple invite de jeu de rôle, et l'ablation montre que le gain ne vient pas du vocabulaire de Toulmin mais de l'exécution vérifiée des stratégies et de la sélection fondée sur l'intention. Avec 20 participants humains débattant avec le tuteur, LFTutor a obtenu des scores significativement meilleurs sur huit des neuf métriques de type Likert, dont l'utilité (4.15 contre 1.65), la répétition étant la seule dimension où la différence n'était pas significative.
 
 Le filtrage peut rendre le refus de répondre effectif plutôt que décoratif : Prober.ai contraint un LLM à ne poser que des questions fondées sur l'enquête et ne libère une suggestion de révision concrète qu'après que l'étudiant a rédigé une défense franchissant un seuil de réflexion, renvoyant une simple incitation au travail lorsque la défense est mince ([[prober-ai-inquiry-writing|Bi, Wei et Zhou (2026)]]).
@@ -157,3 +163,4 @@ La méthode socratique est étroitement liée au [[scaffolding|étayage]] (fourn
 - [[socratic-nuclear-ai-learning]] — Socrates went Nuclear: Comparing Interaction Strategies for AI in Learning
 - [[lftutor-logical-fallacy-education-2026]] — Questionnement socratique et argumentation critique dans un cadre de tutorat des sophismes en quatre étapes
 - [[guardrails-ai-teaching-assistants-programming-2026]] — Guardrails or Roadblocks? Effects of Pedagogical Style and Context Awareness in AI Teaching Assistants for Programming
+- [[genai-socratic-tutor-biology-argumentation-2026]] — Enhancing PISA-aligned argumentation skills of prospective biology teachers through generative artificial intelligence

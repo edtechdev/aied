@@ -12,13 +12,17 @@ level: [higher ed]
 confidence: high
 connected_resources: [process-feedback]
 translation_of: concepts/process-oriented-assessment
-source_updated: "2026-10-05T11:00:00-04:00"
+source_updated: "2026-10-14T11:15:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-15"
     agent: hermes-agent
 ---
 
@@ -46,7 +50,9 @@ Le vocabulaire de conception le plus explicite vient de Thapa et Lewis, dont les
 
 Le canal choisi pour les preuves de processus change ce qui peut être attesté : dans la même étude portant sur 79 étudiants avec IA générative, la planification et la surveillance de plus grande profondeur étaient plus fréquentes dans les unités de pensée à voix haute, tandis que la régulation de plus grande profondeur l'était davantage dans les journaux d'interaction, de sorte qu'aucun enregistrement unique ne capte le processus entier ([[metacognitive-processes-genai-interaction-logs-2026|Li et Liu (2026)]]). Les traces peuvent aussi diverger franchement des notes : sur 150 conversations étudiant-IA, 41% portaient une note de devoir d'exactement 1,00 alors que la participation cognitive observable variait, de sorte que des notes appariées peuvent dissimuler des processus différents ([[epistemic-ownership-ai-mediated-education-2026|Fábrega, 2026]]). DraftTrace répond au même problème pour l'écriture intégrant l'IA en alignant des mesures de processus au niveau des frappes sur le produit final et sur les traces d'interaction avec l'IA, montrant que la recopie au clavier n'est identifiable que lorsque le produit et le processus sont lus ensemble ([[drafttrace-ai-writing-analytics-2026|Chandarana et coll. (2026)]]), une instance concrète de la mesure par traces comportementales qui manque encore au domaine.
 
-Les récits de praticiens et les cadres comblent le reste du tableau des artefacts. Le cadre LEARN d'Uden et Hwang (2026), visant l'[[problem-based-learning|évaluation en apprentissage par problèmes]], réclame des grilles d'évaluation centrées sur le processus, des justifications orales, des remises échelonnées et des traces de raisonnement accompagnées d'[[ai-use-disclosure|une divulgation de l'usage de l'IA]], et traite la réflexion à travers les journaux d'apprentissage et les protocoles de pensée à voix haute comme le moteur [[metacognition|métacognitif]] de la séquence. Moganadas et collègues (2026) font de l'évaluation transparente à l'égard de l'IA et orientée sur le processus l'une des cinq propositions recherchables, exigeant documentation, vérification et justification réflexive plutôt qu'interdiction ou recours à des détecteurs. Padhy (2026) recommande de saisir l'historique des révisions, les schémas d'interaction et le temps passé sur la tâche, associés à une divulgation transparente. Goldstein, Marae-Haj et Zidan (2026) rapportent les mêmes artefacts émergeant de la pratique après une crise de [[trust|confiance]] : relevés de prompts, historique des versions de documents, contributions de groupe suivies, et « journaux de parcours » réflexifs tenus dans des carnets physiques — outre le constat brutal que les travaux écrits à domicile ne pouvaient plus attester d'un apprentissage.
+Les récits de praticiens et les cadres comblent le reste du tableau des artefacts. Le cadre LEARN d'Uden et Hwang (2026), visant l'[[assessment|évaluation]] en [[problem-based-learning|apprentissage par problèmes]], réclame des grilles d'évaluation centrées sur le processus, des justifications orales, des remises échelonnées et des traces de raisonnement accompagnées d'[[ai-use-disclosure|une divulgation de l'usage de l'IA]], et traite la réflexion à travers les journaux d'apprentissage et les protocoles de pensée à voix haute comme le moteur [[metacognition|métacognitif]] de la séquence. Moganadas et collègues (2026) font de l'évaluation transparente à l'égard de l'IA et orientée sur le processus l'une des cinq propositions recherchables, exigeant documentation, vérification et justification réflexive plutôt qu'interdiction ou recours à des détecteurs. Padhy (2026) recommande de saisir l'historique des révisions, les schémas d'interaction et le temps passé sur la tâche, associés à une divulgation transparente. Goldstein, Marae-Haj et Zidan (2026) rapportent les mêmes artefacts émergeant de la pratique après une crise de [[trust|confiance]] : relevés de prompts, historique des versions de documents, contributions de groupe suivies, et « journaux de parcours » réflexifs tenus dans des carnets physiques — outre le constat brutal que les travaux écrits à domicile ne pouvaient plus attester d'un apprentissage.
+
+Un outillage concret émerge : [[stepwise-teacher-diagnosis-math-2026|Kim et coll. (2026)]] opérationnalisent la résolution de problèmes en quatre étapes et huit sous-compétences diagnostiques afin qu'un grand modèle de langue puisse générer des questions et des grilles propres à chaque étape ; cinq enseignants et 64 étudiants ont utilisé le système sur 90 problèmes et 720 sous-questions, avec un score moyen de 83,5 à l'échelle d'utilisabilité des systèmes (System Usability Scale).
 
 ## Un axe différent de l'authenticité, et de la correction
 
@@ -100,3 +106,4 @@ Le récit de Thapa et Lewis est conceptuel : ni participants, ni collecte de don
 - [[metacognitive-processes-genai-interaction-logs-2026]] — Preuves de processus conditionnées par le canal : journaux et pensée à voix haute révèlent des processus différents
 - [[drafttrace-ai-writing-analytics-2026]] — DraftTrace : un environnement d'analyse à vues multiples pour l'écriture intégrant l'IA
 - [[epistemic-ownership-ai-mediated-education-2026]] — Même performance, processus différent : propriété épistémique dans l'éducation médiatisée par l'IA
+- [[stepwise-teacher-diagnosis-math-2026]] — STEPwise : accompagner les enseignants dans le diagnostic des compétences de résolution de problèmes mathématiques des étudiants par des questions générées par grand modèle de langue
