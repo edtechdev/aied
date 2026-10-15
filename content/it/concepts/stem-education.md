@@ -10,7 +10,7 @@ level: [k 12, higher ed]
 confidence: high
 reviewed_by: [editor]
 translation_of: concepts/stem-education
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-15T08:25:00-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -113,3 +113,4 @@ Un insieme concentrato di studi del 2026 pubblicati sull'*International Journal 
 - [[simulation-assisted-drone-learning-stem-2026]] — Simulation-assisted drone learning with teacher-AI co-designed scaffolds
 - [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
 - [[ai-supported-instruction-stem-meta-analysis-2026]] — Pooled effect of AI-supported STEM instruction across 35 studies, with the largest gains in high school (Doğan et al. 2026)
+- [[hallstrom-ai-literacy-stem-education-frontiers-2026]] — Sintesi dei dieci studi più citati sull'alfabetizzazione in IA nell'educazione STEM (Hallström et al. 2026)
