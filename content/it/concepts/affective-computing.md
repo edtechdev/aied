@@ -1,5 +1,5 @@
 ---
-title: Affective Computing
+title: "Computazione affettiva"
 created: "2026-10-14T22:31:00-04:00"
 type: concept
 foundations: [cognitive-offloading]

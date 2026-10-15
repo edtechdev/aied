@@ -1,6 +1,6 @@
 ---
 connected_resources: [onmicro-ai]
-title: "Scaffolding"
+title: "Scaffolding (impalcatura)"
 created: "2026-10-14T21:55:00-04:00"
 connected_faqs: [designing-ai-into-learning, developing-ai-tutor, asynchronous-online-courses-ai]
 type: concept

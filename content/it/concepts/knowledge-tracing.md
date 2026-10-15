@@ -1,5 +1,5 @@
 ---
-title: Knowledge Tracing
+title: "Tracciamento delle conoscenze"
 created: "2026-10-14T21:55:00-04:00"
 type: concept
 connected_faqs: [making-simulated-students-behave-like-learners]

@@ -1,5 +1,5 @@
 ---
-title: RAG (Retrieval-Augmented Generation)
+title: "RAG (Generazione Aumentata da Recupero)"
 created: "2026-10-14T22:08:00-04:00"
 type: concept
 connected_faqs: [making-ai-better-at-supporting-learning]

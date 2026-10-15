@@ -24,7 +24,7 @@
 - [Collaborazione tra esseri umani e IA](https://edtechdev.github.io/aied/concepts/human-ai-collaboration/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
 - [Agentività di chi apprende](https://edtechdev.github.io/aied/concepts/agency/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
 - [Identità dello studente](https://edtechdev.github.io/aied/concepts/learner-identity/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
-- [Design Thinking](https://edtechdev.github.io/aied/concepts/design-thinking/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Pensiero progettuale (Design Thinking)](https://edtechdev.github.io/aied/concepts/design-thinking/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
 - [Progettazione curricolare](https://edtechdev.github.io/aied/concepts/curriculum-design/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
 - [Pensiero critico](https://edtechdev.github.io/aied/concepts/critical-thinking/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
 - [Pensiero computazionale](https://edtechdev.github.io/aied/concepts/computational-thinking/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
@@ -41,7 +41,7 @@
 - [Apprendimento esperienziale](https://edtechdev.github.io/aied/concepts/experiential-learning/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
 - [Apprendimento basato sul gioco](https://edtechdev.github.io/aied/concepts/game-based-learning/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
 - [Imparare insegnando](https://edtechdev.github.io/aied/concepts/learning-by-teaching/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
-- [Scaffolding](https://edtechdev.github.io/aied/concepts/scaffolding/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Scaffolding (impalcatura)](https://edtechdev.github.io/aied/concepts/scaffolding/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
 - [Metodo socratico](https://edtechdev.github.io/aied/concepts/socratic-method/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
 - [Pedagogia critica](https://edtechdev.github.io/aied/concepts/critical-pedagogy/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
 - [Partnership pedagogiche](https://edtechdev.github.io/aied/concepts/pedagogical-partnerships/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
@@ -90,7 +90,7 @@
 - [Apprendimento automatico](https://edtechdev.github.io/aied/concepts/machine-learning/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
 - [IA generativa](https://edtechdev.github.io/aied/concepts/generative-ai/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
 - [Grandi modelli di linguaggio (LLM)](https://edtechdev.github.io/aied/concepts/llm/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
-- [RAG (Retrieval-Augmented Generation)](https://edtechdev.github.io/aied/concepts/rag/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [RAG (Generazione Aumentata da Recupero)](https://edtechdev.github.io/aied/concepts/rag/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
 - [Prompt engineering](https://edtechdev.github.io/aied/concepts/prompt-engineering/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
 - [Addestramento e fine-tuning degli LLM](https://edtechdev.github.io/aied/concepts/llm-training-and-fine-tuning/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
 - [Vibe coding](https://edtechdev.github.io/aied/concepts/vibe-coding/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
@@ -105,7 +105,7 @@
 - [Simulazione](https://edtechdev.github.io/aied/concepts/simulation/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
 - [Realtà virtuale e aumentata](https://edtechdev.github.io/aied/concepts/virtual-and-augmented-reality/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
 - [Modellamento dello studente e istruzione adattiva](https://edtechdev.github.io/aied/concepts/student-modeling/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
-- [Knowledge Tracing](https://edtechdev.github.io/aied/concepts/knowledge-tracing/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Tracciamento delle conoscenze](https://edtechdev.github.io/aied/concepts/knowledge-tracing/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
 - [Diagnosi cognitiva](https://edtechdev.github.io/aied/concepts/cognitive-diagnosis/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
 - [Simulazione di studenti](https://edtechdev.github.io/aied/concepts/simulating-students/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
 - [Tutoraggio Intelligente](https://edtechdev.github.io/aied/concepts/intelligent-tutoring/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
@@ -113,9 +113,9 @@
 - [Apprendimento personalizzato](https://edtechdev.github.io/aied/concepts/personalized-learning/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
 - [Sistemi di raccomandazione e percorsi di apprendimento](https://edtechdev.github.io/aied/concepts/recommender-systems-and-learning-paths/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
 - [Agente pedagogico](https://edtechdev.github.io/aied/concepts/pedagogical-agent/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
-- [Affective Tutoring](https://edtechdev.github.io/aied/concepts/affective-tutoring/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
-- [Affective Computing](https://edtechdev.github.io/aied/concepts/affective-computing/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
-- [Human-in-the-Loop](https://edtechdev.github.io/aied/concepts/human-in-the-loop-ai/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Tutoraggio affettivo](https://edtechdev.github.io/aied/concepts/affective-tutoring/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Computazione affettiva](https://edtechdev.github.io/aied/concepts/affective-computing/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [IA con intervento umano (HITL)](https://edtechdev.github.io/aied/concepts/human-in-the-loop-ai/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
 - [Analitiche dell'apprendimento](https://edtechdev.github.io/aied/concepts/learning-analytics/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
 - [Modelli di adozione della tecnologia](https://edtechdev.github.io/aied/concepts/technology-acceptance-model/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
 - [Open source](https://edtechdev.github.io/aied/concepts/open-source/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
@@ -160,7 +160,7 @@
 - [Valutazione autentica](https://edtechdev.github.io/aied/concepts/authentic-assessment/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
 - [Valutazione orientata al processo](https://edtechdev.github.io/aied/concepts/process-oriented-assessment/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
 - [Lavoro di gruppo](https://edtechdev.github.io/aied/concepts/group-work/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
-- [E-Portfolio](https://edtechdev.github.io/aied/concepts/eportfolio/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [E-portfolio (portafoglio elettronico)](https://edtechdev.github.io/aied/concepts/eportfolio/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
 - [Valutazione tra pari](https://edtechdev.github.io/aied/concepts/peer-assessment/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
 - [Autovalutazione](https://edtechdev.github.io/aied/concepts/self-assessment/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
 - [Valutazione orale](https://edtechdev.github.io/aied/concepts/oral-assessment/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
@@ -182,12 +182,12 @@
 - [Ricerca con metodi misti](https://edtechdev.github.io/aied/concepts/mixed-methods-research/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
 - [Ricerca basata sul design](https://edtechdev.github.io/aied/concepts/design-based-research/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
 - [Ricerca sull'usabilità](https://edtechdev.github.io/aied/concepts/usability-research/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
-- [RCT](https://edtechdev.github.io/aied/concepts/rct/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [ECA (Studio Clinico Randomizzato Controllato)](https://edtechdev.github.io/aied/concepts/rct/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
 - [Meta-analisi e revisione sistematica](https://edtechdev.github.io/aied/concepts/meta-analysis-systematic-review/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
 - [Analisi del profilo latente](https://edtechdev.github.io/aied/concepts/latent-profile-analysis/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
 - [Analisi delle reti](https://edtechdev.github.io/aied/concepts/network-analysis/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
 - [Valutazione dell'IA in educazione](https://edtechdev.github.io/aied/concepts/ai-ed-evaluation/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
-- [Benchmark](https://edtechdev.github.io/aied/concepts/benchmark/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+- [Benchmark (riferimento di confronto)](https://edtechdev.github.io/aied/concepts/benchmark/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
 - [Amministratori](https://edtechdev.github.io/aied/concepts/administrator/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
 - [Sviluppatori di Tecnologia Educativa](https://edtechdev.github.io/aied/concepts/educational-technology-developers/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
 - [Studenti](https://edtechdev.github.io/aied/concepts/learners/): *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*

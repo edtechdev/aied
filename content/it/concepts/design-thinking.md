@@ -1,6 +1,6 @@
 ---
 connected_resources: [vibes-diy]
-title: Design Thinking
+title: "Pensiero progettuale (Design Thinking)"
 created: "2026-10-14T21:55:00-04:00"
 type: concept
 foundations: [ai-education]
@@ -22,7 +22,7 @@ ai_assist:
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
 
-> **Design Thinking** — un concetto chiave nella ricerca sull'[[ai-education|IA nell'educazione]]: un processo iterativo e centrato sull'uomo di risoluzione dei problemi (tipicamente Empatizza → Definisci → Ideazione → Prototipa → Testa) che porta gli apprendenti dalla comprensione di un problema alla produzione e all'affinamento di una soluzione. Esplorato attraverso 8 articoli in questa base di conoscenza.
+> **Pensiero progettuale** — un concetto chiave nella ricerca sull'[[ai-education|IA nell'educazione]]: un processo iterativo e centrato sull'uomo di risoluzione dei problemi (tipicamente Empatizza → Definisci → Ideazione → Prototipa → Testa) che porta gli apprendenti dalla comprensione di un problema alla produzione e all'affinamento di una soluzione. Esplorato attraverso 8 articoli in questa base di conoscenza.
 
 ## Domande da considerare
 

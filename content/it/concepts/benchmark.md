@@ -1,5 +1,5 @@
 ---
-title: Benchmark
+title: "Benchmark (riferimento di confronto)"
 created: "2026-10-14T22:03:00-04:00"
 type: concept
 technology: [generative-ai, llm]

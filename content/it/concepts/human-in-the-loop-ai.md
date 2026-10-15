@@ -1,5 +1,5 @@
 ---
-title: Human-in-the-Loop
+title: "IA con intervento umano (HITL)"
 created: "2026-10-14T21:55:00-04:00"
 connected_faqs: [ai-agents-support-students-instructors, designing-educational-ai-software, ai-feedback-at-scale]
 type: concept
