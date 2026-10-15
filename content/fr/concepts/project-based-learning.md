@@ -8,13 +8,17 @@ technology: [educational-robotics]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/project-based-learning
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-13T11:05:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-15"
     agent: hermes-agent
 ---
 
@@ -45,6 +49,7 @@ L'apprentissage par projets est étroitement apparenté à — mais distinct de 
 
 La seule méta-analyse à trois niveaux de ce couplage regroupe 22 études contrôlées (66 tailles d'effet, de janvier 2023 à avril 2026) et estime un effet important du PjBL soutenu par l'IA générative, g = 0,819, IC à 95% [0,655, 0,983], bien que l'analyse de sensibilité PET-PEESE des auteurs réduise l'estimation à g = 0,378, de sorte que le chiffre phare doit être lu comme potentiellement gonflé ([[chen-pbl-pjbl-genai-meta-analysis-2026|Chen et coll. 2026]]). Le type d'outil modérait significativement l'effet (QM = 14,301, p < 0,001) : un agent conversationnel général utilisé directement obtenait une valeur regroupée plus élevée (g = 0,970) que les systèmes personnalisés en plateformes de cours, patients virtuels ou agents (g = 0,455), ce qui suggère que la manière dont un outil est intégré compte davantage que le choix du modèle.
 - **Littératie en IA et co-conception :** le PjBL sous-tend de nombreuses interventions de [[ai-literacy|littératie en IA]] et de [[teacher-education|formation des enseignants]], où les apprenants co-créent des outils ou des ressources d'IA.
+- **Les étudiants comme concepteurs d'agents à grande échelle :** [[zangari-student-created-ai-agents-codesigned-instruction-2026|Zangari et coll. (2026)]] ont demandé à 345 étudiants de premier cycle d'un cours de conception logiciel comptant 700 étudiants de construire chacun un agent conversationnel expliquant trois patrons de conception à un pair — la partie A étant un tutoriel Dialogflow CX étayé, la partie B une tâche de conception ouverte. L'ouverture a été le thème positif le plus fréquent (22,3 %) tandis que le manque de clarté des consignes dominait les points négatifs (23,7 %), et l'apprentissage perçu n'était que modestement corrélé aux scores de quiz (r = 0,161 à 0,315). La leçon de conception pour le PjBL : les artefacts créés par les étudiants peuvent porter les bénéfices d'appropriation des classes inversées autonomes dans les contextes d'outils d'IA, mais les données exploratoires sans groupe témoin étayent les affirmations d'engagement, non la supériorité causale.
 - **PjBL logiciel soutenu par des agents d'IA :** [[spec-driven-development-ai-agents-sdpbl-2026|Tanaka et coll. (2026)]] ont intégré le Spec-Driven Development avec des [[agentic-ai|agents d'IA]] dans un cours de PjBL logiciel en équipe de premier cycle, structurant les projets en phases d'investigation, de planification, de mise en œuvre et de revue, assorties de contrôles de compréhension menés par l'enseignant.
 - **Studios VR immersifs avec un agent d'enseignement intégré :** [[ai-ive-pbl-vocational-design-creativity-2026|Jin et coll. (2026)]] spécifient le modèle **AI-IVE-PBL** pour l'enseignement du design en filière professionnelle, associant le PjBL à un environnement virtuel immersif doté d'IA (casques [[virtual-and-augmented-reality|VR]] et assistant pédagogique adossé à un [[llm|LLM]]). Les contraintes coutumières du PjBL pour les apprenants de filière professionnelle — équipement limité, scénarios difficiles à reproduire, [[scaffolding|étayage]] tardif de l'enseignant — sont absorbées par l'immersion et par un agent présent en séance, et le modèle est énoncé comme une boucle en cinq phases (découverte, envisagement, modélisation, communication, raffinement) avec un acteur et un artefact nommés par phase, mue par un discours soutenu de développement d'idées. Dans une quasi-expérience de 12 semaines (n = 63), la condition a accru la capacité de design et la capacité créative et a relevé l'[[student-engagement|engagement]] cognitif et comportemental, tout en laissant inchangée la nouveauté idéationnelle (pensée innovante) et l'engagement affectif — un rappel que les volets propres au design et les volets idéationnels de la valeur d'un projet n'évoluent pas de concert.
 

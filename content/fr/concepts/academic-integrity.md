@@ -9,15 +9,20 @@ assessment: [ai-detection, assessment-validity, authentic-assessment]
 level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai, regulation]
-connected_resources: [fpds-apps-and-resources, institutional-ai-readiness-pack, process-feedback, student-guide-to-ai]
+connected_resources: [fpds-apps-and-resources, institutional-ai-readiness-pack, process-feedback, student-guide-to-ai, ai-infused-assignment-playbook]
+reviewed_by: [editor]
 translation_of: concepts/academic-integrity
-source_updated: "2026-10-07T08:00:00-04:00"
+source_updated: "2026-10-10T14:22:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-15"
     agent: hermes-agent
 ---
 
@@ -155,6 +160,10 @@ Le cas disciplinaire le plus clair en faveur de la refonte plutôt que de la dé
 
 - **La clarté sans refonte déplace les usages abusifs latéralement au lieu de les supprimer.** [[petricini-zipf-ai-use-ethics-matrix-2026|Petricini & Zipf (2026)]] situent l'usage de l'IA sur deux axes — l'intention et l'effort des étudiants d'un côté, la clarté et le soutien offerts par l'environnement de l'autre — et constatent que le quadrant le plus peuplé de leurs données d'entretiens était la *conformité anxieuse*, où les étudiants cachent une aide légitime (soutien grammatical, explications de concepts, organisation de leurs propres idées) pour éviter une [[legal-issues-and-risks|fausse accusation]]. Leur avertissement est directionnel : là où les règles deviennent claires mais où l'[[assessment|évaluation]] récompense toujours la vitesse et le produit, les étudiants conscients des politiques basculent dans le *contournement efficace* plutôt que dans l'*usage vertueux de l'outil*. [[austin-ai-agents-assignment-redesign-2026|Austin (2026)]] aboutit au même point par le côté du devoir — lorsque des agents satisfont tous les critères de la grille sans raisonnement visible, noter la piste des décisions (calibration de la confiance, suggestions de l'IA rejetées, contraintes propres au cours) remplace la détection, qui, note-t-elle, se trompe dans les deux sens.
 
+- **Les employeurs dévaluent les notes qu'ils croient produites par l'IA — et convergent vers la vérification en présentiel.** Dans une expérience d'enquête menée auprès d'environ 1,750 professionnels américains du recrutement, [[boyd-swan-employer-responses-genai-2026|Boyd-Swan & Reynolds (2026)]] montrent que présenter l'usage de l'IA par les étudiants comme un outil d'assistance n'a entraîné aucune pénalité pour les candidats, tandis que le présenter comme un *substitut à l'effort et à la capacité de l'étudiant* a diminué la probabilité d'obtenir un entretien et — de manière plus marquée — la disposition à négocier le salaire, effet concentré parmi les candidats à fort GPA, indépendamment de l'origine ethnique et du sexe. Interrogés sur ce qui apaiserait leurs inquiétudes, les deux groupes de cadrage n'ont retenu qu'un seul remède en commun : les épreuves en présentiel. L'expérience isole la croyance (et non l'usage réel de l'IA) : elle montre comment le seul canal de *signalisation* fait évoluer les résultats de recrutement — un indice précoce que les marchés du travail pourraient ramener l'évaluation vers des formats vérifiables en présence, la même direction de conception que celle vers laquelle la littérature sur les étudiants fantômes exhorte les établissements à s'engager.
+
+La première étude fondée sur la théorie du comportement planifié (Theory of Planned Behavior) portant sur l'intention de faute académique liée à l'usage de l'IA générative (GAIT) prolonge ce tableau : parmi 186 étudiants de premier cycle, [[intentions-academic-misconduct-gait-2026|Baig and Paparo (2026)]] ont constaté que les attitudes envers la faute, les normes subjectives à son égard et les attitudes positives envers l'IA prédisaient chacune l'intention, tandis que les attitudes négatives envers l'IA ne la prédisaient pas, et qu'une probabilité perçue de détection plus élevée prédisait une intention plus faible — un effet dissuasif miné par le manque de fiabilité documenté des outils de détection de l'IA.
+
 **Les politiques d'intégrité se déplacent de qui a écrit les mots vers qui a eu les idées, et les détecteurs sont reconstruits pour s'y adapter.** IdeaLens prédit la provenance des idées à partir d'un plan plutôt que de la prose : sur 50 histoires que des personnes ont écrites de zéro en suivant des plans générés par l'IA, il en a signalé 68% comme étant de l'IA, contre 8% pour Pangram 4 et 0% pour son contrôle entraîné sur la prose, et il a étiqueté comme humaine la prose d'humains retouchée par l'IA dans 94.7% des cas ([[idealens-detecting-ai-ideas-2026|Rajendhran et al. (2026)]]). Sa propre déclaration éthique qualifie la sortie d'estimation statistique qui ne doit pas être utilisée seule comme preuve concluante d'un usage de l'IA.
 
 ## Concepts liés
@@ -220,3 +229,4 @@ Le cas disciplinaire le plus clair en faveur de la refonte plutôt que de la dé
 - [[villanueva-ai-vulnerability-assessment-audit-2026]] — Constat d'un audit sectoriel : les universités à mandat et celles à cadre général ne présentent aucune différence d'exposition de l'évaluation, contrepartie empirique du problème de coordination
 - [[akcapinar-ai-cheating-risk-lms-prediction-2026]] — Akçapınar (2026) — Prédiction précoce du risque de triche assistée par l'IA à partir des traces du LMS, présentée comme un accompagnement académique plutôt que comme une preuve de faute
 - [[reddit-genai-education-discourse-analysis-2026]] — Trois ans et demi d'éducation sur Reddit : l'application des sanctions domine, et les différends d'intégrité sont le principal lieu de confrontation entre enseignants et étudiants (Yüce et al. 2026)
+- [[boyd-swan-employer-responses-genai-2026]] — Expérience d'enquête : le cadrage de substitution de l'usage de l'IA par les étudiants pénalise les candidats à fort GPA lors du recrutement et sur le salaire ; les épreuves en présentiel sont le seul remède choisi par les deux groupes

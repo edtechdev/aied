@@ -10,14 +10,19 @@ connected_faqs: [verify-ai-output]
 page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation]
+reviewed_by: [editor]
 translation_of: concepts/hallucination-risk
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-11T09:05:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-15"
     agent: hermes-agent
 ---
 
@@ -54,6 +59,8 @@ L'**hallucination dans le tutorat** affecte directement l'apprentissage. **[[yas
 
 Les **approches d'atténuation** incluent les conceptions d'[[human-in-the-loop-ai|IA avec intervention humaine]], où l'IA soutient plutôt qu'elle ne remplace le jugement de l'[[teacher-role|enseignant]], les architectures sensibles aux preuves qui calibrent la confiance sur la qualité probatoire (comme le préconise MathCog), et l'ancrage fondé sur la [[rag|génération augmentée par la recherche documentaire]] qui contraint les productions des grands modèles de langue à des sources vérifiées. Le concept de [[cognitive-offloading|dépendance excessive]] lui est étroitement lié — l'hallucination est plus dangereuse lorsque les utilisateurs font confiance aux productions de l'IA sans examen critique. [[sidorkin-ai-generated-course-readings-2026|Sidorkin (2026)]] ajoute un mode de défaillance que la pile d'atténuation ne couvre pas entièrement : des affirmations institutionnelles trop spécifiques, avec environ 1.03% des pages journalisées associant un campus nommé tel que « Sacramento State » à des verbes de politique assertifs portant sur des règles révisées de rétention, de titularisation et de promotion ou sur des décrets exécutifs du système CSU, aucune d'elles n'étant vérifiable à partir du texte. La spécificité est ce qui rend cela coûteux, puisqu'un détail local fabriqué paraît assez exact pour survivre au contrôle de plausibilité d'un lecteur, et le remède que propose l'étude est procédural plutôt que technique : traiter la génération comme une production de brouillon sous revue de l'enseignant, puis organiser les sources en une conception augmentée par la recherche documentaire.
 
+**Un étiquetage de la non-fiabilité a abaissé la dépendance déclarée plutôt que de l'augmenter.** Lorsque 546 participantes et participants ont lu le même dialogue d'IAG étiqueté soit comme contenant des informations fabriquées, soit comme vérifié exact, l'étiquette « fabriqué » a produit une [[trust|confiance]] et un contrôle perçu plus faibles, ainsi qu'une dissonance cognitive et une frustration plus élevées, accompagnées de scores de dépendance *plus faibles* (M = 2.935 contre 3.254) ([[frontiers-gai-hallucination-dependence-2026|Liu et al. (2026)]]). Le résultat nuance la logique de dépendance excessive de cette page : voir qu'une production peut être fabriquée n'est pas la même chose que continuer de s'y appuyer.
+
 ## Concepts liés
 
 - [[cognitive-offloading]]
@@ -71,6 +78,7 @@ Les **approches d'atténuation** incluent les conceptions d'[[human-in-the-loop-
 
 ## Articles liés
 
+- [[frontiers-gai-hallucination-dependence-2026]] — Étiqueter un dialogue d'IAG comme fabriqué a abaissé à la fois la confiance et la dépendance
 - [[ivory-psychology-assessment-integrity-2026]] — Fabricated citations and self-contradicting outputs inside passable student work (Ivory et al. 2026)
 - [[llm-cognitive-diagnosis-handwritten-math]]
 - [[llm-fallacy-misattribution]]

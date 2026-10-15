@@ -9,13 +9,17 @@ technology: [cognitive-diagnosis, generative-ai, intelligent-tutoring, knowledge
 audience: [instructors]
 confidence: high
 translation_of: concepts/simulating-students
-source_updated: "2026-10-08T09:45:00-04:00"
+source_updated: "2026-10-10T14:20:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-15"
     agent: hermes-agent
 ---
 
@@ -36,6 +40,8 @@ ai_assist:
 Les étudiants simulés sont un outil [[research-methods-aied|méthodologique]] : des agents qui tiennent lieu d'apprenants réels, afin que des systèmes de tutorat, des curricula et des stratégies pédagogiques puissent être évalués et améliorés sans recruter de cohortes d'étudiants humains. Les [[llm|grands modèles de langage]] ont rendu ce paradigme bien plus extensible et linguistiquement réaliste que les apprenants simulés fondés sur des règles qui les ont précédés, tout en introduisant de nouveaux défis de validité.
 
 Les approximations médiatisées par l'IA aiguisent la question qui importe à cette page : qui la simulation représente, et ce que l'enseignant est censé remarquer. Dans la formation des enseignants de mathématiques, les [[bondurant-shaughnessy-ai-pedagogies-practice-2026|travaux d'étudiants simulés sous forme textuelle et les partenaires agents conversationnels]] utilisés dans la répétition étendent les approximations de la pratique qui organisent déjà la formation professionnelle. Une étude sur un [[conversational-ai|agent conversationnel]] a produit quatre profils de questionnement distincts, mais les [[self-assessment|auto-évaluations]] des enseignants en formation initiale ne s'alignaient pas sur la qualité d'interaction qu'avaient enregistrée les observateurs, ce qui fait du retour d'information automatisé après la répétition — qui a accru les questions de sondage et d'exploration — un guide utile mais insuffisant. Le simulateur, le candidat et le retour d'information doivent être lus ensemble. Ce qu'une simulation permet à un enseignant de remarquer est aussi fixé par sa conception : dans [[preservice-teachers-noticing-ai-simulations-2026|l'intervention de trois semaines sur le signe égal de Galiç et coll. (2026)]] menée auprès de 17 enseignants de mathématiques en formation initiale, les candidats se sont déplacés entre attention, interprétation et façonnage plutôt que de suivre une séquence fixe, mais le dispositif textuel en tête-à-tête a fait que le façonnage se réduisait au questionnement et au [[prompt-engineering|incitation]], et une conception plaçant la conception erronée en premier a tiré l'attention vers la détection d'erreurs plutôt que vers les points forts de l'étudiant. Le simulateur choisit la tranche d'enseignement qu'un candidat a l'occasion de répéter.
+
+L'affinage supervisé seul conditionne faiblement un simulateur à la compétence demandée par l'invite, car son objectif récompense la reproduction du texte des réponses plutôt que le lien de la qualité des réponses à la compétence ; [[cross-ability-preferences-item-difficulty-2026|Fernandez et coll. (2026)]] alignent plutôt un simulateur par optimisation directe des préférences sur des paires formées à partir des écarts de compétence IRT des étudiants, et, sur CodeWorkout, cet appariement bat toutes les références directes de prédiction de la difficulté et, à l'échelle de 1B, le simulateur SMART sur chaque métrique de difficulté, tout en produisant des réponses plus réalistes en termes de distribution.
 
 ### Pourquoi simuler des étudiants
 

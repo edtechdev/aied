@@ -11,13 +11,17 @@ ethics: [bias-mitigation]
 audience: [instructors]
 confidence: high
 translation_of: concepts/automated-assessment
-source_updated: "2026-10-08T09:45:00-04:00"
+source_updated: "2026-10-14T11:15:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-15"
     agent: hermes-agent
 ---
 
@@ -109,6 +113,8 @@ La qualité de l'évaluation automatisée dépend de l'[[assessment-validity|év
 Le degré d'alignement qu'une institution devrait exiger dépend de ce que le système est autorisé à décider. Dans une étude [[mixed-methods-research|à méthodes mixtes]] portant sur [[opraise-automated-marking-ai-assessment-2026|761 dissertations authentiques de premier cycle dans trois universités britanniques]], trois modèles de pointe, avec 27 configurations d'invites chacun, n'ont atteint que 35 à 65% d'accord avec les correcteurs humains sur la bande de note, et l'exactitude ne se transposait pas d'une institution à l'autre — si bien que le rapport traite les usages candidats comme des scénarios distincts plutôt que comme une décision unique. **L'assurance qualité de la notation humaine**, où l'IA note en parallèle et où des différences significatives déclenchent un examen humain, est la plus conservatrice. **Un assistant de notation**, qui classe ou catégorise les soumissions selon la qualité ou l'incertitude prédites, qui trie les cas complexes, ou qui développe de brefs commentaires humains en une rétroaction plus complète, est un authentique terrain d'entente. **L'IA comme notateur principal**, avec examen humain d'un échantillon ou des distributions de notes, n'a été jugé acceptable que si la performance du système s'améliore, et aucun groupe de [[stakeholders|parties prenantes]] n'a approuvé l'IA comme notateur unique.
 
 Trois exigences en découlent pour chacun d'eux. Parce que l'alignement est propre au modèle et à l'institution, la validation doit être locale et continue — l'exactitude phare obtenue ailleurs ne constitue pas une preuve de disponibilité. Parce que les notes étaient comprimées vers le milieu, l'IA était la moins exacte aux frontières de notes et pour les soumissions les plus fortes et les plus faibles, c'est-à-dire là où les décisions d'évaluation ont le plus de conséquences. Et parce qu'un désaccord entre une note de l'IA et une note humaine reflète des jugements différents plutôt qu'une simple erreur, les écarts devraient déclencher une interprétation humaine plutôt qu'une correction algorithmique, l'autorité finale sur la note demeurant aux mains des personnes. L'adoption porte aussi des obligations de [[governance|gouvernance]] que les métriques techniques ne captent pas : un droit à l'explication au titre de l'article 22 du RGPD lorsque des décisions automatisées affectent les étudiants, des obligations au titre de la loi sur l'égalité dès lors qu'il est montré que le niveau de réussite et l'usage de la langue influencent les notes, des procédures d'appel révisées pour des erreurs qui ne sont pas faciles à attraper, et un risque d'irréversibilité — une fois que les effectifs et les investissements se sont déplacés, une institution peut peiner à continuer de collecter la notation humaine dont elle aurait besoin pour y revenir.
+
+Combiner les trois modèles n'a pas supprimé cette erreur : parce que leurs erreurs étaient corrélées — dans le même sens sur 63.4% des travaux — l'ensemble [[machine-human-marking-agreement-institutions-2026|Corsi et al. (2026)]] était statistiquement indiscernable du meilleur modèle unique, laissant en place la compression de tendance centrale partagée.
 
 
 [[tripartite-feedback-framework-ai-assessment-2026|Venetsanos (2026)]] fournit les critères que ces exigences présupposent, soutenant que ce qui rend l'automatisation défendable est le *statut épistémique* de la tâche, plutôt que ce que la technologie peut techniquement accomplir. Son cadre limite l'IA à une vérification bornée d'affirmations factuelles et procédurales — les quatre conditions suivantes, à savoir des critères documentés sans ambiguïté, une comparaison directe avec un savoir établi, aucune évaluation d'approches alternatives valides, et une réponse correcte unique ou un ensemble acceptable prédéfini, doivent être satisfaites simultanément, l'ambiguïté escaladant par défaut vers un humain — et conditionne l'implication de l'IA à ce niveau à cinq principes non négociables qui doivent tous être satisfaits à la fois : la base de connaissances doit être choisie par l'évaluateur et ancrée dans les matériaux du module par la recherche documentaire, plutôt que dans les connaissances paramétriques du modèle ; les évaluateurs humains examinent chaque production de l'IA avant qu'elle n'atteigne les étudiants et détiennent un droit de veto absolu, avec une responsabilité non partagée ; la rétroaction doit porter une provenance et une attribution claires ; et la sécurité doit être conçue contre l'usage adverse dès le départ, avec assainissement des entrées pour ce qui concerne les instructions cachées en texte blanc ou de petite taille, les encodages, les images ou les métadonnées de documents, puisque le contournement réussi d'un système automatisé se propage au sein des cohortes d'étudiants. Le même article est explicite sur le fait que ses principes ne sont pas testés pour leur faisabilité simultanée, et que le temps d'évaluateur consacré à la sélection, à l'infrastructure de sécurité et à la surveillance à haute fréquence peut déplacer l'effort du personnel plutôt que le réduire — une mise en garde qui se situe aux côtés de l'exigence de validation locale ci-dessus.
@@ -202,3 +208,4 @@ L'évaluation automatisée se relie à la [[assessment-validity|validité de l'�
 - [[ai-marking-accuracy-gcse-physics-2026]] — Notation par l'IA comparée aux notes des commissions d'examen et au jugement des enseignants en physique de niveau GCSE
 
 - [[llm-grading-assistants-public-health-2026]] — Le mode de raisonnement a élevé l'accord de notation LLM-humain d'un kappa pondéré de 0.269 à 0.718
+- [[machine-human-marking-agreement-institutions-2026]] — L'accord machine-humain dans la notation des travaux de premier cycle est propre au modèle, à l'invite et à l'institution

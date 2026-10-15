@@ -7,13 +7,17 @@ confidence: medium
 created: "2026-08-29T12:55:12-04:00"
 updated: "2026-10-10T03:41:12-04:00"
 translation_of: concepts/visualization
-source_updated: "2026-09-30T09:53:03-04:00"
+source_updated: "2026-10-13T09:18:19-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-15"
     agent: hermes-agent
 ---
 
@@ -46,6 +50,8 @@ Les tableaux de bord fonctionnent aussi comme des représentations partagées qu
 
 Un second volet majeur porte sur l'IA produisant directement des visualisations. [[nuclear-diffusion-text-to-image-learning-2026]] montre que des modèles texte-image adaptés au domaine peuvent générer des illustrations exactes de concepts STEM spécialisés : l'affinage de Stable Diffusion sur des images du domaine nucléaire a élevé l'exactitude sur le domaine de 12% à 78%, permettant aux enseignants de produire à la demande des visualisations correctes de composants de réacteur et de systèmes de sécurité. Cette capacité générative est puissante mais inégale. [[mllm-scientific-visualization-literacy]] compare par [[benchmark|référence]] six grands modèles de langue multimodaux à 485 participants humains sur la littératie en visualisation scientifique, ne trouvant aucune compétence uniforme : Gemini en source fermée dépassait la moyenne humaine sur plusieurs sous-ensembles, tandis que tous les modèles [[open-source|en source ouverte]] tombaient sous celle-ci, avec des faiblesses particulières dans l'estimation [[quantitative-research|quantitative]] fine et dans les visualisations fondées sur la texture ou sur l'intégration. L'IA devrait donc soutenir — et non se substituer à — la littératie en visualisation humaine, un constat aux implications directes pour la [[ai-literacy|littératie en IA]] et l'[[formative-assessment|évaluation formative]].
 
+La génération de graphiques à partir d'une invite soulève une question différente de celle de savoir si l'IA peut produire une visualisation compétente : celle de savoir si l'apprenant accomplit encore le travail analytique et de codage qui rend l'artefact éducatif. Un cadre de 2026 nomme cela la fracture processus–résultat et propose la transparence, l'invitation et l'estompage comme ligne d'agentivité entre [[scaffolding|étayage]] et substitution ([[genai-visualization-education-framework-2026|Purohit et al., 2026]]).
+
 L'éthique et la fiabilité tempèrent l'enthousiasme pour les contenus visuels générés par l'IA. [[data-comics-for-education-evaluating-effectiveness-benefits-ethics]] a montré que les bandes dessinées de données assistées par l'[[generative-ai|IA générative]] amélioraient l'[[student-engagement|engagement]] et la compréhension par rapport aux visualisations conventionnelles, indépendamment de la littératie en visualisation préalable, alors même que les participants soulevaient des préoccupations quant au risque de désinformation et à l'attribution de l'[[academic-integrity|autorialité]], et que deux tiers signalaient des inconvénients tels que la surcharge d'information due à des mises en page trop chargées. La référence contrefactuelle CFES-P24 étend ce scrutin à l'[[cfes-p24-multimodal-slide-auditing-2026|audit de diapositives]], montrant que les LLM multimodaux peuvent reconnaître de manière fiable les construits de [[learning-design|conception pédagogique]] (opérations, principes, localisation des preuves), tout en divergeant fortement sur le jugement comparatif et le calibrage de la gravité — preuve que les scores composites dissimulent quelle capacité échoue et que la confiance n'est pas la fiabilité. Ensemble, ces travaux plaident pour une [[ai-ed-evaluation|évaluation en couches]] des visuels générés par l'IA plutôt que pour des notations holistiques.
 
 ## Outils de diapositives, de bandes dessinées et multi-vues en pratique
@@ -76,3 +82,4 @@ Des systèmes pratiques appliquent ces principes à l'échelle. AISSA combine la
 - [[data-comics-for-education-evaluating-effectiveness-benefits-ethics]] — Effectiveness, benefits, and ethics of AI-assisted data comics
 - [[cfes-p24-multimodal-slide-auditing-2026]] — Counterfactual benchmark for multimodal slide auditing
 - [[mejia-domenzain-ml-findings-teachers-blended-2026]] — Making ML findings accessible to teachers in blended classrooms
+- [[genai-visualization-education-framework-2026]] — Constructing Meaning, Not Just Charts: A Cognitive–Instructional Framework for Generative AI Usage in Visualisation Education

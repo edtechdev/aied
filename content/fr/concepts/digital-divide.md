@@ -8,13 +8,17 @@ foundations: [ai-education, ai-literacy]
 ethics: [accessibility, equity-in-ai-education]
 confidence: high
 translation_of: concepts/digital-divide
-source_updated: "2026-10-04T16:06:05-04:00"
+source_updated: "2026-10-14T14:35:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-15"
     agent: hermes-agent
 ---
 
@@ -33,6 +37,8 @@ ai_assist:
 ## Introduction
 
 La fracture numérique est communément comprise comme opérant à **trois niveaux** (van Deursen & van Dijk, 2014) : la fracture de *premier niveau* concerne l'accès aux technologies et aux infrastructures (connectivité, appareils, environnements favorables) ; la fracture de *deuxième niveau* concerne les compétences et aptitudes (la capacité inégale à utiliser les outils de manière efficace et significative) ; et la fracture de *troisième niveau* concerne les résultats et les bénéfices (qui bénéficie réellement de l'usage de la technologie, l'IA pouvant exacerber les disparités sociales, culturelles et économiques). Considérer la littératie en IA à travers le prisme de [[framing-ai-use-for-students|Cadrer l'IA]] rend clair que l'équité exige davantage que de combler l'écart des appareils et des infrastructures — elle exige de bâtir les compétences permettant d'utiliser l'IA efficacement et de manière critique, afin que ses bénéfices soient répartis équitablement plutôt qu'ils ne renforcent les inégalités existantes.
+
+Le tournant de l'inférence en périphérie ajoute une dimension matérielle à la fracture de premier niveau. Lorsque le tutorat s'exécute dans le navigateur plutôt que dans le nuage — des [[browser-sized-agents-slm-webllm-tutor-2026|tuteurs SLM résidant dans le navigateur]] via WebLLM — la barrière du coût d'abonnement disparaît, mais une barrière de capacité la remplace : sur un ordinateur portable grand public, le même système prenait environ 180 secondes par essai contre 10–58 secondes pour une API distante, et les appareils de classe Chromebook ne peuvent pas du tout exécuter un modèle 8B. Les étudiants dotés d'un matériel moderne bénéficient d'une génération rapide et fluide, tandis que ceux qui utilisent des appareils plus anciens font face à de la latence ou à un épuisement de la mémoire ; local et bon marché n'équivaut donc pas à équitable par défaut.
 
 ### Comment la fracture numérique apparaît dans la recherche
 

@@ -13,13 +13,17 @@ page_kind: [framework, synthesis]
 confidence: high
 methods: [research-methods-aied]
 translation_of: concepts/learning-sciences
-source_updated: "2026-09-17T14:48:59-04:00"
+source_updated: "2026-10-13T11:05:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-15"
     agent: hermes-agent
 ---
 
@@ -56,6 +60,7 @@ Cette page couvre les connaissances substantielles que ces méthodes ont produit
 - **Là où se situe l'expertise humaine.** [[wang-tutor-copilot-human-ai-live-tutoring-rct-2024|Wang et al. (2024)]] rapportent la division du travail la plus nette : dans un [[rct|essai contrôlé randomisé]] de deux mois réunissant environ 900 tuteurs novices du primaire et du secondaire et quelque 1,800 élèves, des suggestions en temps réel tirées du raisonnement de tuteurs expérimentés ont fait progresser la maîtrise des sujets de 4 points de pourcentage (de 62% à 66%, p < 0.01), et de 9 points pour les tuteurs les moins bien notés, pour environ 20 $ par tuteur et par an, en déplaçant le tutorat vers des questions guidantes. Les gains étaient proximaux — les tests de fin d'année n'ont pas bougé. [[reichert-human-centered-llm-chatbot-design-teachers-2026|Reichert et al. (2026)]] constatent que les enseignants parviennent à la même position par la conception : six enseignants du secondaire prototypant des chatbots ont spécifié un expert borné, en tenant des frontières d'autorité (la responsabilité de l'apprentissage et de la sécurité n'est pas délégable) et des frontières d'expertise (le modèle ne possède pas leur connaissance des élèves pris individuellement), et en déléguant la présentation de contenu, la pratique et la rétroaction corrective [[feedback]], tout en réservant la fixation des objectifs et l'[[summative-assessment|évaluation sommative]].
 
 - **La compétence au niveau du champ.** [[sutedjo-faculty-genai-tpack-21-2026|Sutedjo, Chowdhury et Liu (2026)]] ont enquêté auprès de 127 enseignants avec un instrument [[tpack|TPACK]] adapté à l'IA générative : de solides connaissances du contenu et des connaissances pédagogiques du contenu (M = 4.70–5.15) aux côtés de connaissances intégrant la technologie nettement plus faibles, le TPACK holistique étant le plus bas à 2.55, les connaissances du contenu n'étant corrélées à aucun domaine intégrant la technologie, et les trois domaines intégrés corrélant si fortement (r = .81–.91) qu'ils pourraient fonctionner comme un seul facteur. [[perrotta-zero-shot-governance-2026|Perrotta (2026)]] lit la couche de gouvernance à travers un prototype abandonné de la fonction publique britannique, dont la base de code était une invite système plus un pipeline de recherche documentaire sur des modèles commerciaux, soutenant que la généralité des modèles de fondation permet à la fois un réemploi rapide en outils d'[[educational-policy-ai|action publique]] et fait de la sortie aberrante un risque seulement atténuable de façon permanente — une supervision qui plane au-dessus de la boucle plutôt qu'elle ne siège en son intérieur.
+- **La fracture d'intégration, cartographiée :** [[malik-bashir-reconceptualizing-learning-sciences-hybrid-intelligence-2026|Malik et Bashir (2026)]] ont synthétisé 32 études (PRISMA 2020, analyse thématique) en quatre thèmes : la fragmentation épistémologique au sein du champ, les contradictions entre théorie et technologie (les systèmes computationnels fonctionnent sur la prédiction et le comportement mesurable, tandis que les théories éducatives mettent l'accent sur le contexte et l'interaction sociale), la datafication de l'apprentissage par l'analytique, et l'intelligence hybride comme paradigme émergent. Leur cadre d'intelligence hybride est une synthèse conceptuelle, et non un modèle validé — les auteurs déclarent qu'il attend une mise à l'épreuve empirique — mais la carte en quatre thèmes constitue une grille d'audit utile pour le problème de traduction de la théorie vers le calcul que ce champ ne cesse de rencontrer.
 
 ## Comment les sciences de l'apprentissage se rapportent à leurs voisines
 

@@ -10,8 +10,9 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: high
 connected_resources: [education-agent-skills]
+reviewed_by: [editor]
 translation_of: concepts/active-learning
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-13T11:05:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -19,9 +20,13 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-15"
+    agent: hermes-agent
 ---
 
-*Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle.*
+*Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
 
 > **L'apprentissage actif** — des approches pédagogiques qui amènent les élèves à faire des choses et à réfléchir à ce qu'ils font, plutôt qu'à recevoir passivement de l'information. Dans le domaine de l'IA en éducation, la recherche sur l'apprentissage actif examine à la fois la manière dont les outils d'IA peuvent soutenir les pédagogies actives et la façon dont l'engagement actif avec les outils d'IA — plutôt que la consommation passive — influe sur les résultats d'apprentissage.
 
@@ -53,6 +58,8 @@ L'apprentissage actif permis par l'IA se manifeste sous de multiples formes dans
 - **L'apprentissage actif comme structure de projet et de communauté.** [[academic-league-of-ai-2026|L'Academic League of AI]] organise l'éducation à l'IA hors programme autour d'équipes de compétition, de groupes d'étude et de projets d'IA au service du social, incarnant l'apprentissage actif et [[project-based-learning|par projets]] à travers une gouvernance étudiante démocratique plutôt qu'un programme imposé d'en haut.
 
 - **Les mindtools et l'engagement génératif.** [[genai-mindtool-generative-learning|GenAI comme mindtool]] positionne l'IA comme un dispositif avec lequel les élèves pensent plutôt que comme une source de réponses, alignant l'apprentissage actif sur les théories de l'apprentissage génératif où les apprenants intègrent de nouvelles idées à leurs connaissances existantes.
+
+- **Construire le tuteur comme tâche d'apprentissage actif.** [[zangari-student-created-ai-agents-codesigned-instruction-2026|Zangari et al. (2026)]] ont inversé le dispositif habituel de tuteur IA : au lieu d'utiliser un tuteur, 345 étudiants d'un cours de génie logiciel comptant 700 étudiants ont chacun conçu un agent conversationnel chargé d'enseigner trois patrons de conception à un pair, de sorte que le travail d'apprentissage actif résidait dans la construction de l'agent — anticiper les besoins de l'utilisateur et traduire des concepts abstraits en éléments enseignables. Les étudiants ont apprécié la liberté de conception ouverte (22.3%, premier thème positif), mais la première plainte portait sur le manque de clarté des consignes (23.7%), et les auteurs mettent en garde : le dispositif sans groupe témoin, fondé sur un échantillon de volontaires, ne permet d'étayer que des affirmations relatives à l'engagement.
 
 - **Concevoir autour des erreurs du modèle.** Une séquence en cinq étapes (analyse indépendante, prompt ChatGPT normalisé, évaluation critique du résultat, affinage et discussion en classe) fonctionne parce que l'IA se trompe de manière prévisible : ChatGPT qualifie d'« parfaitement élastique » la demande inélastique présente dans les paroles d'une chanson, et cet écart apprend aux élèves à valider les résultats ([[beck-genai-literacy-economics-hands-on|Beck et Brodersen, 2025]]).
 

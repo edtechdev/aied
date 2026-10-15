@@ -11,13 +11,17 @@ connected_faqs: [top-10-findings-ai-education-instructors, research-gaps-aied, d
 confidence: high
 methods: [ai-ed-evaluation]
 translation_of: concepts/learning-gains
-source_updated: "2026-10-03T12:32:09-04:00"
+source_updated: "2026-10-12T09:45:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-15"
     agent: hermes-agent
 ---
 
@@ -113,6 +117,7 @@ Les chiffres de gains d'apprentissage qui dominent le résumé d'efficacité de 
 - [[oneill-presumed-effective-meta-analysis-2026|Un audit judiciaire de 14 méta-analyses à fort impact en AIED]] montre qu'aucune ne fournissait de base valide à l'affirmation de gains d'apprentissage regroupés qu'elle avançait : aucune n'avait un construit de résultat cohérent, toutes présentaient une hétérogénéité extrême non résolue (l'I² allait de 77.2% à 94.4% sur les 13 méta-analyses qui la rapportaient, et 12 de ces 13 dépassaient 80%), douze traitaient des tailles d'effet dépendantes comme indépendantes, et aucune n'évaluait valablement le biais de publication. Une majorité d'études primaires examinées au hasard étaient mal ajustées à l'affirmation méta-analytique. Les erreurs sont parvenues jusqu'à la politique : deux des méta-analyses auditées ont traité la taille de l'échantillon de l'étude comme la taille de la classe et, sur la foi d'une étude primaire mal calculée, ont conclu que 21 à 40 étudiants constituait la taille d'intervention idéale, et recommandé que les interventions d'IA générative soient conçues pour ce nombre.
 - **Une synthèse de 2026 sur les [[stem-education|STIM]] qui corrige deux des défauts audités — et illustre encore un troisième.** [[ai-supported-instruction-stem-meta-analysis-2026|Doğan et ses collègues (2026)]] ont regroupé 35 études expérimentales et quasi expérimentales sur les STIM, avec une taille d'effet par étude, pour éviter le problème des tailles d'effet dépendantes, et ont mené une batterie complète de tests de biais de publication (tracé en entonnoir, tests de Begg et d'Egger, trim-and-fill, N de sécurité de défaillance de Rosenthal = 2404), plutôt que d'affirmer la symétrie — les deux raccourcis que l'audit ci-dessus a trouvés dans chaque méta-analyse qu'il a examinée. Deux mises en garde subsistent. Premièrement, les auteurs n'ont appliqué aucune appréciation formelle de la qualité et ont traité les critères d'inclusion comme le seuil de rigueur, de sorte que des études de conceptions très différentes sont entrées dans le regroupement sans pondération par la qualité. Deuxièmement, l'hétérogénéité-phare dépend entièrement du modèle que vous lisez : les mêmes 35 études sont rapportées comme I² = 82.98% sous le modèle à effets fixes et I² = 15.75% sous le modèle à effets aléatoires, de sorte qu'un lecteur qui rencontre les chiffres sans l'étiquette du modèle peut conclure que le corpus est homogène alors qu'il ne l'est pas. Son estimation regroupée (g = 0.670, IC à 95 % [0.491, 0.848]) est donc le type de chiffre que décrit la section ci-dessus : mieux construit que la plupart, et encore une borne supérieure.
 - [[weidlich-chatgpt-effect-search-cause-2025|Une critique médiatique et méthodologique]] montre que beaucoup de « gains d'apprentissage » n'étaient pas mesurés de manière valide — les résultats étaient souvent des compétences auto-déclarées ou une performance mesurée *pendant* l'assistance par l'IA, plutôt qu'un apprentissage durable et sans assistance.
+- **La première vague de synthèses sur ChatGPT mesurait la performance, et non l'apprentissage.** [[epistemological-audit-genai-meta-analyses-2026|Fütterer et coll. (2026)]] ont reconstruit la base de données probantes des cinq méta-analyses qui regroupaient les effets éducatifs de ChatGPT : parmi 69 études primaires classables, 79,7 % mesuraient exclusivement la performance et seulement 11,6 % mesuraient l'apprentissage. Leur estimation regroupée reproduite (g = 0,83, IC à 95 % [0,68, 0,97], I² = 94,06 %) décrit donc la performance aux tests, et son intervalle de prédiction [−0,75, 2,41] franchit zéro.
 
 **Conclusion sur les chiffres de gains ci-dessus :** traitez les grandes tailles d'effet regroupées de l'IA comme des bornes supérieures, non comme des estimations ponctuelles. Préférez les données probantes de gains d'apprentissage issues d'[[rct|essais contrôlés randomisés]] bien conçus et d'études de terrain dotées de mesures de résultat standardisées et sans assistance (l'essai contrôlé randomisé sur les garde-fous, les expériences Khanmigo et NUMI, et la méta-analyse de la Banque mondiale sur les technologies éducatives citées ci-dessus), et lisez les gains méta-analytiques comme provisoires et probablement surévalués jusqu'à ce que la qualité des synthèses s'améliore. Le problème survit aussi à la correction : sur les articles publiés après le retrait d'une méta-analyse auditée, 60% la citaient encore comme un soutien faisant autorité à de forts gains d'apprentissage avec ChatGPT, et aucun ne reconnaissait le retrait ; une estimation retirée continue donc de se propager. C'est pourquoi la page sur les [[limitations-in-aied-research|limites de la recherche en AIED]] documente désormais en détail la crise des données probantes méta-analytiques.
 
@@ -140,6 +145,7 @@ Les gains d'apprentissage se relient à l'[[assessment-validity|validité de l'�
 
 ## Articles liés
 
+- [[epistemological-audit-genai-meta-analyses-2026]] — A Critical Epistemological Audit of Early Evidence Syntheses in Generative AI Educational Research (Fütterer et al. 2026)
 - [[contractor-learning-impact-generative-ai-2026]] — Off-the-shelf chatbot access raised unaided test scores that persisted a week (Contractor & Reyes 2026)
 - [[kestin-ai-tutoring-outperforms-active-learning-rct-2025]] — AI tutoring outperforms in-class active learning: an RCT introducing a novel research-based design in an authentic educational setting (Kestin et al. 2025)
 - [[genai-performance-vs-learning]] — why assisted performance is not a learning outcome (Yan et al. 2025)
