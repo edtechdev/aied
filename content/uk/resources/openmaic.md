@@ -26,6 +26,7 @@ ai_assist:
 translation_of: resources/openmaic
 source_updated: "2026-09-20T17:30:00-04:00"
 translation_note: "Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови."
+contributors: [editor]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*

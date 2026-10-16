@@ -8,7 +8,7 @@ confidence: medium
 created: "2026-08-29T12:55:12-04:00"
 updated: "2026-09-30T09:59:35-04:00"
 translation_of: concepts/mastery-learning
-source_updated: 2026-09-30T09:59:35-04:00
+source_updated: "2026-09-30T09:59:35-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:

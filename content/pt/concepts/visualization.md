@@ -7,7 +7,7 @@ confidence: medium
 created: "2026-08-29T12:55:12-04:00"
 updated: "2026-09-30T09:53:03-04:00"
 translation_of: concepts/visualization
-source_updated: 2026-10-13T09:18:19-04:00
+source_updated: "2026-10-13T09:18:19-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:

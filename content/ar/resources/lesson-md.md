@@ -20,6 +20,12 @@ reviewed_by: [editor]
 translation_of: resources/lesson-md
 source_updated: "2026-09-20T13:49:11-04:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
+contributors: [editor]
+ai_assist:
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-12"
+    agent: hermes-agent
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
