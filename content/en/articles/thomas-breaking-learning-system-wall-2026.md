@@ -1,7 +1,7 @@
 ---
 title: Towards breaking the learning system wall using multimodal tutoring transcriptions
 created: "2026-10-10T18:38:00-04:00"
-updated: "2026-10-10T18:38:00-04:00"
+updated: "2026-10-16T13:51:50-04:00"
 type: article
 technology: [knowledge-tracing, intelligent-tutoring, multimodal, llm]
 audience: [educational technology developers, software developers, researchers]
@@ -46,4 +46,4 @@ The key empirical claim is that video-derived transcripts capture learning *invi
 
 ## Citation
 
-Thomas, D. R., Kamikazi, M. C. A., Gurung, A., Miglani, I., Gupta, S., Levonian, Z., Borchers, C., & Koedinger, K. R. (2026). Towards breaking the learning system wall using multimodal tutoring transcriptions. In *Proceedings of the Artificial Intelligence in Measurement and Education Conference (AIME-Con)*, Vol. 1: Full Papers (pp. 622–630). National Council on Measurement in Education.
+Thomas, D. R., Kamikazi, M. C. A., Gurung, A., Miglani, I., Gupta, S., Levonian, Z., Borchers, C., & Koedinger, K. R. (2026). [*Towards breaking the learning system wall using multimodal tutoring transcriptions*](https://doi.org/10.1177/9781734048929). In *Proceedings of the Artificial Intelligence in Measurement and Education Conference (AIME-Con)*, Vol. 1: Full Papers (pp. 622–630). National Council on Measurement in Education.

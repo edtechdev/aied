@@ -1,7 +1,7 @@
 ---
 title: "GenAI as a Learning Partner: Supporting Self-Regulated Learning Over Time Without Replacing Effort"
 created: "2026-08-27T06:30:00-04:00"
-updated: "2026-09-19T08:33:23-04:00"
+updated: "2026-10-16T13:51:50-04:00"
 type: article
 pedagogy: [metacognition, self-regulated-learning]
 technology: [generative-ai, learning-analytics]
@@ -37,4 +37,4 @@ audience: [instructors, instructional designers]
 
 ## Citation
 
-Song, Y., de Barba, P., & Oliveira, E. (2026). *GenAI as a learning partner: Supporting self-regulated learning over time without replacing effort.* Learning Letters, 8, Article 73. [https://doi.org/10.20851/ll.v8.73](https://doi.org/10.20851/ll.v8.73)
+Song, Y., de Barba, P., & Oliveira, E. (2026). [*GenAI as a Learning Partner: Supporting Self-Regulated Learning Over Time Without Replacing Effort*](https://doi.org/10.20851/ll.v8.73). Learning Letters, 8, Article 73.

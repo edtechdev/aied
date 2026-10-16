@@ -1,7 +1,7 @@
 ---
 title: "The Impact of Digital and Artificial Intelligence Technologies on the Improvement of Foreign Language Listening, Speaking, Reading and Writing Skills: A Meta-Analysis"
 created: "2026-09-25T20:37:53-04:00"
-updated: "2026-09-25T21:52:24-04:00"
+updated: "2026-10-16T13:51:50-04:00"
 type: article
 published: "2026"
 foundations: [ai-education]
@@ -66,4 +66,4 @@ The funnel plot was asymmetric, and trim-and-fill estimated three missing studie
 
 ## Citation
 
-Chen, Yinong; Wei, Lina. (2026). *The Impact of Digital and Artificial Intelligence Technologies on the Improvement of Foreign Language Listening, Speaking, Reading and Writing Skills: A Meta-Analysis*. Journal of Computer Assisted Learning, 42, e70325. https://doi.org/10.1002/jcal.70325
+Chen, Yinong; Wei, Lina. (2026). [*The Impact of Digital and Artificial Intelligence Technologies on the Improvement of Foreign Language Listening, Speaking, Reading and Writing Skills: A Meta-Analysis*](https://doi.org/10.1002/jcal.70325). Journal of Computer Assisted Learning, 42, e70325.

@@ -29511,7 +29511,7 @@ A total of **159 documents** (policy texts, institutional announcements, webpage
 
 ## Citation
 
-Adarkwah, M. A., Ercan, A. M., Schneider, K., & Bayar, E. (2026). Generative artificial intelligence policy: a qualitative UNESCO framework analysis. *Journal of University Teaching and Learning Practice*, 23(2). [https://doi.org/10.53761/801ryw41](https://doi.org/10.53761/801ryw41)
+Adarkwah, M. A., Ercan, A. M., Schneider, K., & Bayar, E. (2026). [*Generative Artificial Intelligence Policy: A Qualitative UNESCO Framework Analysis*](https://doi.org/10.53761/801ryw41). *Journal of University Teaching and Learning Practice*, 23(2).
 
 ---
 
@@ -38338,7 +38338,7 @@ Tsim, F., Gutoreva, A., Weiss, A., & Dubosh, N. (2026). [*AI as Teammate: Rethin
 
 ---
 
-## [Is using artificial intelligence tools for academic work cheating? Student perceptions, ethics, and the impact](https://edtechdev.github.io/aied/articles/ai-tools-academic-work-cheating-2026/)
+## [Is using artificial intelligence tools for academic work cheating? Student perceptions, ethics, and the impact on academic performance and critical thinking](https://edtechdev.github.io/aied/articles/ai-tools-academic-work-cheating-2026/)
 
 > **Synthesis:** This PRISMA 2020 [[meta-analysis-systematic-review|systematic review]] synthesizes recent [[research-methods-aied|research]] on whether students regard AI-assisted academic work as cheating, finding that student perceptions sit on a spectrum—ranging from viewing AI as a legitimate learning resource to seeing it as misconduct—depending on task type, transparency, and assessment design. A key theme is the persistent gap between student and faculty interpretations of acceptable AI use, alongside evidence that over-dependence on AI can drive [[cognitive-offloading]], reduced independent reasoning, and altered academic behavior. The review argues that the future of [[higher-ed]] lies in concrete [[ethics|ethical]] standards, promoted [[ai-literacy]], and reshaped [[assessment]] design that fosters [[generative-ai]] collaboration without compromising originality, [[equity-in-ai-education|equity]], or intellectual growth.
 
@@ -38370,7 +38370,7 @@ A systematic literature review following the PRISMA 2020 framework. Four databas
 
 ## Citation
 
-Padhy, A. (2026). [*Is using artificial intelligence tools for academic work cheating?*](https://doi.org/10.70593/deepsci.0202038). *International Journal of Applied Resilience and Sustainability*.
+Padhy, A. (2026). [*Is using artificial intelligence tools for academic work cheating? Student perceptions, ethics, and the impact on academic performance and critical thinking*](https://doi.org/10.70593/deepsci.0202038). *International Journal of Applied Resilience and Sustainability*.
 
 ---
 
@@ -41821,7 +41821,7 @@ Soheila Gheisari, Hamid Salarian (2026). [Analysis and Prediction of At-Risk Stu
 
 ## Citation
 
-Atif, A., & Dickson-Deane, C. (2026). *Scaffold or shortcut? Postgraduate IT students' use of generative AI and self-regulated learning.* Learning Letters, 8, Article 63. [https://doi.org/10.20851/ll.v8.63](https://doi.org/10.20851/ll.v8.63)
+Atif, A., & Dickson-Deane, C. (2026). [*Scaffold or Shortcut? Postgraduate IT Students' Use of Generative AI and Self-Regulated Learning*](https://doi.org/10.20851/ll.v8.63). Learning Letters, 8, Article 63.
 
 ---
 
@@ -42416,7 +42416,7 @@ The essay closes with an affirmative: *"Can we disrupt the momentum of the AI co
 
 ## Citation
 
-Avraamidou, L. (2024). Can we disrupt the momentum of the AI colonization of science education? *Journal of Research in Science Teaching*, 61(10), 2570–2574. [https://doi.org/10.1002/tea.21961](https://doi.org/10.1002/tea.21961)
+Avraamidou, L. (2024). [*Can we disrupt the momentum of the AI colonization of science education?*](https://doi.org/10.1002/tea.21961) *Journal of Research in Science Teaching*, 61(10), 2570–2574.
 
 ---
 
@@ -44358,7 +44358,7 @@ The methodological stance matters: these are embedding classifiers (OpenAI text-
 
 ## Citation
 
-Borchers, C., Zhang, J., Fleischer, H., Schanze, S., Aleven, V., & Baker, R. S. (2025). Large Language Models Generalize SRL Prediction to New Languages Within But Not Between Domains. *Journal of Educational Data Mining, 17*(2), 24–54.
+Borchers, C., Zhang, J., Fleischer, H., Schanze, S., Aleven, V., & Baker, R. S. (2025). [*Large language models generalize SRL prediction to new languages within but not between domains*](https://jedm.educationaldatamining.org/index.php/JEDM/article/view/857). *Journal of Educational Data Mining, 17*(2), 24–54.
 
 ---
 
@@ -45793,7 +45793,7 @@ The design strength is content-matching: both formats practiced the same skills 
 
 ## Citation
 
-Cen, X., Aleven, V., Koedinger, K. R., Borchers, C., & Carvalho, P. F. (2026). Self-efficacy and favorability shape learning from tutoring systems and paper practice. *arXiv:2606.17470v1* [cs.CY, cs.HC]. https://arxiv.org/abs/2606.17470
+Cen, X., Aleven, V., Koedinger, K. R., Borchers, C., & Carvalho, P. F. (2026). [*Self-efficacy and favorability shape learning from tutoring systems and paper practice*](https://arxiv.org/abs/2606.17470). *arXiv:2606.17470v1* [cs.CY, cs.HC].
 
 ---
 
@@ -45951,7 +45951,7 @@ The mixed-methods design adds a qualitative layer: the same websites were read f
 
 ## Citation
 
-Chan, R. Y. (2026). *How colleges and universities are adopting AI in higher education: A global comparative analysis* (EdWorkingPaper No. 26-1576). Annenberg Institute at Brown University. https://doi.org/10.26300/jhxw-rg10
+Chan, R. Y. (2026). [*How colleges and universities are adopting AI in higher education: a global comparative analysis*](https://doi.org/10.26300/jhxw-rg10) (EdWorkingPaper No. 26-1576). Annenberg Institute at Brown University.
 
 ---
 
@@ -46085,7 +46085,7 @@ Chang, Y., Liu, Q., Lu, Y., & Miao, E. (2026). [*Leveraging generative AI to fac
 
 ---
 
-## [Shared epistemic agency with generative AI in online scientific explanation writing: A secondary-school CLIL study](https://edtechdev.github.io/aied/articles/chang-shared-epistemic-agency-gai-scientific-writing-2026/)
+## [Investigating Secondary School Students’ Shared Epistemic Agency with GAI in Online Scientific Explanation Writing](https://edtechdev.github.io/aied/articles/chang-shared-epistemic-agency-gai-scientific-writing-2026/)
 
 > **Synthesis:** Chang and colleagues report how 122 seventh graders in Taiwan enacted [[agency|epistemic agency]] while writing scientific explanations in English with a [[generative-ai|ChatGPT]]-based teaching assistant embedded in a bilingual inquiry unit on photosynthesis. Coding 6,788 conversation turns produced a 14-category scheme: seven ways of reaching student–GAI shared epistemic agency (SEA), seven falling short of it, and 59% of turns at the shared level. Over 80% of students reached SEA at least once, yet among five prior measures only English midterm performance remained correlated with agency frequency after adjustment, and a four-profile clustering of prior proficiency and [[self-efficacy]] explained SEA differences in just one of four activities. The contribution is a design argument — [[prompt-engineering]] can be engineered to withhold answers and preserve room for students — alongside candid evidence that enacted agency is activity-specific rather than a stable learner trait, and the authors are explicit that the study identified associations, not causal effects.
 
@@ -46167,7 +46167,7 @@ Chang, H.-Y., Mau, B.-R., Liang, J.-C., & Tsai, C.-C. (2026). [*Investigating Se
 
 ## Citation
 
-Chang, D. H., Lin, M. P. C., Huang, J.-Y., & Ryoo, J. (2026). "Should I tell my teacher?" Student AI disclosure practices, stigma, and self-regulated learning in higher education. *Frontiers in Education, 11*, 1826174. [https://doi.org/10.3389/feduc.2026.1826174](https://doi.org/10.3389/feduc.2026.1826174)
+Chang, D. H., Lin, M. P. C., Huang, J.-Y., & Ryoo, J. (2026). [*"Should I Tell My Teacher?" Student AI Disclosure Practices, Stigma, and Self-Regulated Learning in Higher Education*](https://doi.org/10.3389/feduc.2026.1826174). *Frontiers in Education, 11*, 1826174.
 
 ---
 
@@ -47468,7 +47468,7 @@ The funnel plot was asymmetric, and trim-and-fill estimated three missing studie
 
 ## Citation
 
-Chen, Yinong; Wei, Lina. (2026). *The Impact of Digital and Artificial Intelligence Technologies on the Improvement of Foreign Language Listening, Speaking, Reading and Writing Skills: A Meta-Analysis*. Journal of Computer Assisted Learning, 42, e70325. https://doi.org/10.1002/jcal.70325
+Chen, Yinong; Wei, Lina. (2026). [*The Impact of Digital and Artificial Intelligence Technologies on the Improvement of Foreign Language Listening, Speaking, Reading and Writing Skills: A Meta-Analysis*](https://doi.org/10.1002/jcal.70325). Journal of Computer Assisted Learning, 42, e70325.
 
 ---
 
@@ -48420,7 +48420,7 @@ Trust, T., Maloy, R., Xu, C., & Pelletier, K. (2025). [*Civic education in the a
 
 ## Citation
 
-Claassen, A., Ebbert, D., Kovanović, V., Mirriahi, N., & Dawson, S. (2026). Understanding the role of learning analytics and generative artificial intelligence on decision-making and learning design practice in higher education. *International Journal of Educational Technology in Higher Education, 23*, 43. [https://doi.org/10.1186/s41239-026-00619-4](https://doi.org/10.1186/s41239-026-00619-4)
+Claassen, A., Ebbert, D., Kovanović, V., Mirriahi, N., & Dawson, S. (2026). [*Understanding the Role of Learning Analytics and Generative Artificial Intelligence on Decision-Making and Learning Design Practice in Higher Education*](https://doi.org/10.1186/s41239-026-00619-4). *International Journal of Educational Technology in Higher Education, 23*, 43.
 
 ---
 
@@ -53118,7 +53118,7 @@ Davor, I., Larbi, E., & Boateng, F. O. (2026). [*Artificial intelligence-support
 
 ## Citation
 
-de Barba, P. G. (2026). *Learner agency across scales: An integrative perspective on self-regulated learning in algorithmically mediated environments.* Learning Letters, 7, Article 75. [https://doi.org/10.20851/ll.v7.75](https://doi.org/10.20851/ll.v7.75)
+de Barba, P. G. (2026). [*Learner Agency Across Scales: An Integrative Perspective on Self-Regulated Learning in Algorithmically Mediated Environments*](https://doi.org/10.20851/ll.v7.75). Learning Letters, 7, Article 75.
 
 ---
 
@@ -56100,7 +56100,7 @@ Shi Shi, Lingyun Chen, Zitao Zhang, Amanda R. Draper, et al. (2026). [Designing 
 - Robustness and outcome limits: severe occlusions and persistent extreme non-frontal poses yield unreliable or missing detections, and with no longitudinal outcome data the study demonstrates perceived utility rather than causal classroom impact; the monitoring reaction (Hawthorne effect) was assessed only through indirect evidence.
 ## Citation
 
-Emotion-Aware Classroom Quality Assessment Leveraging IoT-Based Real-Time Student Monitoring](https://www.sciencedirect.com/science/article/pii/S2666920X26000512) — Nguyen, H., Dao, H., Nguyen, H., Vu, N., & Tran, C. (2026). *Computers and Education: Artificial Intelligence*, 11, 100639.
+Nguyen, H., Dao, H., Nguyen, H., Vu, N., & Tran, C. (2026). [*Emotion-Aware Classroom Quality Assessment Leveraging IoT-Based Real-Time Student Monitoring*](https://www.sciencedirect.com/science/article/pii/S2666920X26000512). *Computers and Education: Artificial Intelligence, 11*, 100639.
 
 ---
 
@@ -57034,7 +57034,7 @@ Seo, Y., Jang, S., Park, H., Gutierrez, R. S., Seering, J., & Lee, U. (2026). [E
 
 ---
 
-## [A Conversational AI Framework for Teacher Training: ETQ-AI](https://edtechdev.github.io/aied/articles/etq-ai-conversational-teacher-training-2026/)
+## [A Conversational AI Framework for Teacher Training](https://edtechdev.github.io/aied/articles/etq-ai-conversational-teacher-training-2026/)
 
 > **Synthesis:** Miranda & Calvani (2026) present ETQ-AI, a conversational system that pairs a 50-item diagnostic questionnaire on [[teacher-role|teacher]] misconceptions with a Google Gemini dialogic layer, so that instead of receiving a static "correct/incorrect" score against an expert benchmark, teachers can argue back. The design rests on Evidence-Informed Education (EIE): the AI is prompted to cite meta-analytic evidence (Hattie's effect sizes, Cognitive Load Theory) rather than assert authority, and the interaction is explicitly framed as productive cognitive conflict, not compliance. The pilot (N = 123 educators at an Italian EIE conference) shows the mechanism works: Gemini matched expert-panel judgments on 96.8% of 64 benchmark items (intra-model consistency 98.1%), and teachers rated AI feedback significantly higher than the static author comments for clarity and actionable depth (M = 4.12 vs 3.82, p < 0.001, d = 0.36). The most interesting result is the resistance data: 34 coded objections split into contextual constraints (41.2%), pedagogical subjectivity (35.3%) and item ambiguity (23.5%), and 5.9% of interlocutors rejected the system outright as "an algorithmic dogma machine." The authors treat that 5.9% as a design signal, not a failure — evidence that the system must be a "boundary object" for professional argumentation rather than an infallible arbiter. The study measures perceptions and conversational patterns, not shifts in classroom practice.
 
@@ -57081,7 +57081,7 @@ The paper spends real effort separating Evidence-Based Education (EBE) — clini
 
 ## Citation
 
-Miranda, S., & Calvani, A. (2026). A Conversational AI Framework for Teacher Training. *Information*, 17(10), 1023. https://doi.org/10.3390/info17101023
+Miranda, S., & Calvani, A. (2026). [*A Conversational AI Framework for Teacher Training*](https://doi.org/10.3390/info17101023). *Information*, 17(10), 1023.
 
 ---
 
@@ -57938,7 +57938,7 @@ The mechanism the authors propose for the time obstacle: novice teachers may lac
 
 ## Citation
 
-Falhs, A.-C., Borchers, C., Echeverria, V., Yang, K., Rummel, N., & Aleven, V. (2025). How Expertise Levels Shape Preferences and Reflection Needs: Towards AI Reflection Systems for Teacher Empowerment. In *Two Decades of TEL: EC-TEL 2025*, LNCS, pp. 120–125. Springer. https://doi.org/10.1007/978-3-032-03873-9_11
+Falhs, A.-C., Borchers, C., Echeverria, V., Yang, K., Rummel, N., & Aleven, V. (2025). [*How expertise levels shape preferences and reflection needs — towards AI reflection systems for teacher empowerment*](https://doi.org/10.1007/978-3-032-03873-9_11). In *Two Decades of TEL: EC-TEL 2025*, LNCS, pp. 120–125. Springer.
 
 ---
 
@@ -64411,7 +64411,7 @@ Golrang, A., Sharma, K., Dehaen, S., & Viberg, O. (2026). [*ProPACT: A Proactive
 
 ## Citation
 
-Gonsalves, C. (2025). Addressing student non-compliance in AI use declarations: Implications for academic integrity and assessment in higher education. *Assessment & Evaluation in Higher Education, 50*(4), 592–606. [https://doi.org/10.1080/02602938.2024.2415654](https://doi.org/10.1080/02602938.2024.2415654)
+Gonsalves, C. (2025). [*Addressing student non-compliance in AI use declarations: implications for academic integrity and assessment in higher*](https://doi.org/10.1080/02602938.2024.2415654) education. *Assessment & Evaluation in Higher Education, 50*(4), 592–606.
 
 ---
 
@@ -65088,7 +65088,7 @@ The mechanism story is coherent with the prior evidence the paper builds on: aut
 
 ## Citation
 
-Gurung, A., Gao, G., Gutterman, J., Thomas, D. R., Gupta, S., Branstetter, L., Brunskill, E., Aleven, V., & Koedinger, K. R. (2026). Improving hybrid human-AI tutoring by differentiating human tutor roles based on student needs. *arXiv:2605.11155v1* [cs.CY]. https://arxiv.org/abs/2605.11155
+Gurung, A., Gao, G., Gutterman, J., Thomas, D. R., Gupta, S., Branstetter, L., Brunskill, E., Aleven, V., & Koedinger, K. R. (2026). [*Improving hybrid human-AI tutoring by differentiating human tutor roles based on student needs*](https://arxiv.org/abs/2605.11155). *arXiv:2605.11155v1* [cs.CY].
 
 ---
 
@@ -65452,7 +65452,7 @@ The review's most policy-relevant finding is a silence: across the ten most-cite
 
 ## Citation
 
-Hallström, J., Chiu, T. K. F., Ding, M., Koretsky, M. D., & Li, Y. (2026). AI literacy and STEM education: Emerging frontiers and research priorities. *International Journal of STEM Education*, 13, 63. https://doi.org/10.1186/s40594-026-00653-8
+Hallström, J., Chiu, T. K. F., Ding, M., Koretsky, M. D., & Li, Y. (2026). [*AI Literacy and STEM Education: Emerging Frontiers and Research Priorities*](https://doi.org/10.1186/s40594-026-00653-8). *International Journal of STEM Education*, 13, 63.
 
 ---
 
@@ -67934,7 +67934,7 @@ Pande, P. (2026). [*Rethinking "In-The-Loop" Approaches in Educational AI: A Lea
 
 ---
 
-## [Incipit: Axiom-Grounded Scaffolding for Human-AI Literary Creation](https://edtechdev.github.io/aied/articles/incipit-axiom-grounded-scaffolding-literary-creation-2026/)
+## [Literary Axioms: A Conceptual Framework for Literary Creation, Interpretation, and Evaluation](https://edtechdev.github.io/aied/articles/incipit-axiom-grounded-scaffolding-literary-creation-2026/)
 
 > **Synthesis:** The paper asks how a work's conceptual commitments connect creation, interpretation and [[evaluative-judgment|evaluation]], and answers with an intermediate unit: a proposition-like axiom realized through characters, events, language and form, then reconstructed differently by situated readers. It turns that account into an inspectable artifact — 1,455 axiom records, 1,464 mappings to 149 works, 472 typed links — and audits it. The audit confirms structural integrity and names gaps: the context taxonomy cannot separate Types C and D, cross-work reuse is sparse, and provenance is absent. Five dimensions and five falsifiable predictions are offered as a research program, not results.
 
@@ -67967,7 +67967,7 @@ Coherence, contextual reach, distinctiveness, realization fidelity and interpret
 - 1,448 of 1,455 axioms map to exactly one work, so co-occurrence and graph analysis are sparse, and the artifact has no held-out annotation set, no calibrated strengths (curator-supplied mean 0.839) and no public archival identifier or dataset license.
 
 ## Citation
-Liu, Q., & Zhao, C. (2026). [Incipit: Axiom-Grounded Scaffolding for Human-AI Literary Creation](https://arxiv.org/abs/2609.25504). arXiv:2609.25504.
+Liu, Q., & Zhao, C. (2026). [*Literary Axioms: A Conceptual Framework for Literary Creation, Interpretation, and Evaluation*](https://arxiv.org/abs/2609.25504). arXiv:2609.25504.
 
 ---
 
@@ -69205,7 +69205,7 @@ Ivory, M., Finnerty, S., Dunn, K., Philpot, R., & Warmelink, L. (2026). [The Int
 
 ## Citation
 
-Jácome-Vásconez, S., Diaz-Bedoya, D., Roig-Vila, R., González-Rodríguez, M., & Acosta-Vargas, P. (2026). Explaining ChatGPT adoption in higher education: Insights for AI literacy, educational practice, and responsible AI. *Education Sciences, 16*(9), 1432. https://doi.org/10.3390/educsci16091432
+Jácome-Vásconez, S., Diaz-Bedoya, D., Roig-Vila, R., González-Rodríguez, M., & Acosta-Vargas, P. (2026). [*Explaining ChatGPT Adoption in Higher Education: Insights for AI Literacy, Educational Practice, and Responsible AI*](https://doi.org/10.3390/educsci16091432). *Education Sciences, 16*(9), 1432.
 
 ---
 
@@ -69465,7 +69465,7 @@ Jiang, J., Farag, I., Lucia, B., Vetter, M. A., & Silvestro, J. (2026). [*Genera
 
 ## Citation
 
-Jin, Y., Martinez-Maldonado, R., Gašević, D., Han, X., & Yan, L. (2026). *Emergent learner agency in implicit human-AI collaboration: How supportive and contrarian AI personas reshape interaction.* Journal of Computer Assisted Learning, 42, e70310. [https://doi.org/10.1002/jcal.70310](https://doi.org/10.1002/jcal.70310)
+Jin, Y., Martinez-Maldonado, R., Gašević, D., Han, X., & Yan, L. (2026). [*Emergent Learner Agency in Implicit Human-AI Collaboration: How Supportive and Contrarian AI Personas Reshape Interaction*](https://doi.org/10.1002/jcal.70310). Journal of Computer Assisted Learning, 42, e70310.
 
 ---
 
@@ -70462,7 +70462,7 @@ Kim, J., Lin, X., Yu, S., & Detrick, R. (2026). [*Designing AI systems to suppor
 
 ## Citation
 
-Kirsanov, O., Kushwah, L., & Selvaretnam, G. (2026). Beyond detection: How students use—and hide—AI in online assessments and what authentic tasks can do about it. *Journal of Academic Ethics, 24*, 14. [https://doi.org/10.1007/s10805-025-09691-3](https://doi.org/10.1007/s10805-025-09691-3)
+Kirsanov, O., Kushwah, L., & Selvaretnam, G. (2026). [*Beyond Detection: How Students Use—and Hide—AI in Online Assessments and What Authentic Tasks Can Do About It*](https://doi.org/10.1007/s10805-025-09691-3). *Journal of Academic Ethics, 24*, 14.
 
 ---
 
@@ -71725,7 +71725,7 @@ The behavioral result is the fragile part. With 46 students split unevenly betwe
 
 ## Citation
 
-Fong, H. Y., Lai, C., Li, X., Chan, C. K. K., Gašević, D., & Hu, X. (2026). Using Learning Analytics to Support Secondary School Students' Writing with Generative AI. In *Joint Proceedings of LAK 2026 Workshops, co-located with the 16th International Conference on Learning Analytics and Knowledge (LAK 2026)*. CEUR Workshop Proceedings.
+Fong, H. Y., Lai, C., Li, X., Chan, C. K. K., Gašević, D., & Hu, X. (2026). [*Using Learning Analytics to Support Secondary School Students' Writing with Generative AI*](https://genai-la.genai-learning.online/). In *Joint Proceedings of LAK 2026 Workshops, co-located with the 16th International Conference on Learning Analytics and Knowledge (LAK 2026)*. CEUR Workshop Proceedings.
 
 ---
 
@@ -73092,7 +73092,7 @@ Liao, C.-Y. (2026). [Beyond a single role: Justifying a role-adaptive framework 
 
 ## Citation
 
-Lim, L., & Bannert, M. (2026). *How do students regulate their learning with a genAI chatbot?* Learning Letters, 8, Article 61. [https://doi.org/10.20851/ll.v8.61](https://doi.org/10.20851/ll.v8.61)
+Lim, L., & Bannert, M. (2026). [*How Do Students Regulate Their Learning With a GenAI Chatbot?*](https://doi.org/10.20851/ll.v8.61). Learning Letters, 8, Article 61.
 
 ---
 
@@ -77153,7 +77153,7 @@ The core mechanism is making implicit or missing [[knowledge-tracing|knowledge c
 
 ## Citation
 
-Lyu, Q., Borchers, C., Xia, M., Xiao, K., Carvalho, P. F., Koedinger, K. R., & Aleven, V. (2026). Evaluating a data-driven redesign process for intelligent tutoring systems. In *Proceedings of the 27th International Conference on Artificial Intelligence in Education (AIED 2026)*. arXiv:2603.29094. https://doi.org/10.48550/arXiv.2603.29094
+Lyu, Q., Borchers, C., Xia, M., Xiao, K., Carvalho, P. F., Koedinger, K. R., & Aleven, V. (2026). [*Evaluating a data-driven redesign process for intelligent tutoring systems*](https://doi.org/10.48550/arXiv.2603.29094). In *Proceedings of the 27th International Conference on Artificial Intelligence in Education (AIED 2026)*. arXiv:2603.29094.
 
 ---
 
@@ -77294,7 +77294,7 @@ Oreopoulos, P., Liut, M., Sungu, A., & Low, N. (2026). *[Making AI tutoring prod
 
 ---
 
-## [Reconceptualizing learning sciences in the era of AI: toward hybrid intelligence and adaptive learning systems](https://edtechdev.github.io/aied/articles/malik-bashir-reconceptualizing-learning-sciences-hybrid-intelligence-2026/)
+## [Reconceptualizing learning sciences in the era of artificial intelligence: Toward hybrid intelligence and adaptive learning systems](https://edtechdev.github.io/aied/articles/malik-bashir-reconceptualizing-learning-sciences-hybrid-intelligence-2026/)
 
 > **Synthesis:** Malik and Bashir (2026) ran a PRISMA 2020-guided systematic review of 32 studies (38 records retrieved across seven databases, Jan–Mar 2026; Braun and Clarke six-phase thematic analysis; 53 initial codes → four themes) asking why Learning Sciences and AI in education have developed as separate literatures. Their answer has four parts: (1) Learning Sciences is epistemologically fragmented — constructivist, sociocultural, cognitive, and design-based perspectives are complementary but no unified theoretical framework exists (Fischer et al. 2018); (2) theory–technology contradictions — computational systems rely on prediction, optimization, and measurable learner behaviors, while educational theories emphasize context, social interaction, and meaning-making; (3) the datafication of learning — behavioral traces, assessment records, and predictive analytics increasingly stand in for learning itself; and (4) Hybrid Intelligence as an emerging paradigm in which learners, educators, AI systems, and learning analytics function as complementary components of adaptive learning ecosystems. The contribution is a Hybrid Intelligence Framework integrating all four domains — but it is explicitly conceptual: the authors state the synthesis "does not empirically validate the proposed framework," the intersection-based search retrieved only 38 records (a deliberate specificity-over-sensitivity tradeoff), and future work must test the framework with longitudinal, mixed-methods, and experimental studies. **Tool vintage: literature 2004–March 2026.**
 
@@ -77330,7 +77330,7 @@ The synthesis positions Hybrid Intelligence as the integrative concept. Within t
 
 ## Citation
 
-Malik, A., & Bashir, I. (2026). Reconceptualizing learning sciences in the era of artificial intelligence: Toward hybrid intelligence and adaptive learning systems. *Acta Psychologica, 270*, 107977. https://doi.org/10.1016/j.actpsy.2026.107977
+Malik, A., & Bashir, I. (2026). [*Reconceptualizing learning sciences in the era of artificial intelligence: Toward hybrid intelligence and adaptive learning systems*](https://doi.org/10.1016/j.actpsy.2026.107977). *Acta Psychologica, 270*, 107977.
 
 ---
 
@@ -77832,7 +77832,7 @@ The conceptual-shift table is the article's core deliverable for practitioners: 
 
 ## Citation
 
-McNamara, D. S., & Hasnine, M. N. (2026). AI-Mediated Continuous Assessment Infrastructure (AIM-CAI): Connecting Learning Evidence Across Contexts and Time. *Information, 17*(8), 806. https://doi.org/10.3390/info17080806
+McNamara, D. S., & Hasnine, M. N. (2026). [*AI-Mediated Continuous Assessment Infrastructure (AIM-CAI): Connecting Learning Evidence Across Contexts and Time*](https://doi.org/10.3390/info17080806). *Information, 17*(8), 806.
 
 ---
 
@@ -80026,7 +80026,7 @@ Mulisa, F., & Mezgebu, T. (2026). [*Tools facilitate cheating, or partner suppor
 
 ---
 
-## [Beyond the AI Tutor: Social Learning with LLM Agents](https://edtechdev.github.io/aied/articles/multi-agent-llm-social-learning/)
+## [Human Thinking under Plural LLM Assistance: Mathematical Problem Solving and Open-Ended Writing](https://edtechdev.github.io/aied/articles/multi-agent-llm-social-learning/)
 
 > **Synthesis:** Kumar et al. (2026) test whether moving beyond the one-on-one [[intelligent-tutoring|AI tutor]] toward multi-agent [[llm|LLM]] configurations can capture the [[collaborative-learning|collaborative]] and observational benefits that [[learning-theories|learning science]] attributes to multi-party interaction. In a convergent math study (N=315), learners who worked with both an LLM tutor and error-prone LLM peers achieved the highest unassisted test accuracy; in a divergent composition study (N=247), a two-agent Duo of distinct frontier models matched single-model quality gains while restoring [[creativity|ideational diversity]] to baseline. The core insight — that idea-level [[ai-misuse-learning-harm|homogenization]] is not an inherent cost of AI assistance but a function of how agents are deployed — reframes the design space for [[writing-education]] and AI tutoring systems.
 
@@ -80063,7 +80063,7 @@ The two experiments span the convergent–divergent spectrum of learning tasks (
 
 ## Citation
 
-Kumar, H., Mu, Z. K. (J.), Vincentius, J., & Anderson, A. (2026). [*Beyond the AI Tutor: Social Learning with LLM Agents*](https://arxiv.org/abs/2604.02677).
+Kumar, H., Mu, Z. K. (J.), Vincentius, J., & Anderson, A. (2026). [*Human Thinking under Plural LLM Assistance: Mathematical Problem Solving and Open-Ended Writing*](https://arxiv.org/abs/2604.02677).
 
 ---
 
@@ -81191,7 +81191,7 @@ Nash, B. L., & Burriss, S. K. (2026). [*Writing the rules for generative machine
 
 ---
 
-## [The nature of science in the age of generative artificial intelligence: Epistemic authority and materiality](https://edtechdev.github.io/aied/articles/nature-of-science-generative-ai-2026/)
+## [The nature of science in the age of generative artificial intelligence: Epistemic authority, materiality, and a synergetic response](https://edtechdev.github.io/aied/articles/nature-of-science-generative-ai-2026/)
 
 > **Synthesis:** This conceptual [[meta-analysis-systematic-review|literature review]] asks how the knowledge-producing character of text-based [[generative-ai|generative AI]] diverges from institutional science, and what that divergence means for teaching the nature of science in secondary and undergraduate [[science-education|science]]. Using the family resemblance approach, it compares science and [[conversational-ai|conversational models]] across aims and values, methods, practices, knowledge, and social-institutional systems. The authors argue that a single feature—openness to material feedback—organizes the differences: science is an open system in continuous evidential exchange with material reality, whereas a model reorganizes a corpus closed to new evidence at inference. Through synergetic, they propose a coupled-system model in which the classroom verification norm is the order parameter, the [[teacher-role|teacher]]-set verification requirement is the control parameter, and materiality is the boundary condition. Five testable propositions follow, the last a falsifiable prediction of threshold behavior and hysteresis. The contribution is a design-oriented middle ground between adopting and banning AI: the [[pedagogy|pedagogical]] task is to keep [[critical-thinking|critical evaluation]] and evidential accountability alive, not to decide whether the technology belongs in the classroom.
 
@@ -81350,7 +81350,7 @@ Nazaretsky, T., Mejia-Domenzain, P., Swamy, V., Frej, J., & Käser, T. (2025). [
 
 ## Citation
 
-Nesnin, N., Jyothika, V. V., Haris, N., Shaju, L., & Farhana, N. A. (2026). Cognitive offloading in the age of AI: Are students thinking less or learning differently? *International Journal of Technology and Emerging Research, 2*(ICITT-2026). [https://doi.org/10.64823/ijter.2621031](https://doi.org/10.64823/ijter.2621031)
+Nesnin, N., Jyothika, V. V., Haris, N., Shaju, L., & Farhana, N. A. (2026). [*Cognitive Offloading in the Age of AI: Are Students Thinking Less or Learning Differently?*](https://doi.org/10.64823/ijter.2621031) *International Journal of Technology and Emerging Research, 2*(ICITT-2026).
 
 ---
 
@@ -82037,7 +82037,7 @@ The framework's novelty is bringing outcome-informed strategies (Maximize Usual 
 
 ## Citation
 
-Noh, H., Chowdhary, A., Ooge, J., Aleven, V., & Borchers, C. (2026). Simulating learners' task-selection strategies and system constraints in mastery learning. *arXiv:2605.21613* [cs.HC]. https://arxiv.org/abs/2605.21613
+Noh, H., Chowdhary, A., Ooge, J., Aleven, V., & Borchers, C. (2026). [*Simulating learners' task-selection strategies and system constraints in mastery learning*](https://arxiv.org/abs/2605.21613). *arXiv:2605.21613* [cs.HC].
 
 ---
 
@@ -83098,7 +83098,7 @@ Panciroli, C., Allegra, M., Gentile, M., & Rivoltella, P. C. (2023). [*Towards A
 
 ---
 
-## [ParaTutor: LLM Mediated Parent Child Tutoring through Role Separated Scaffolding Interface in Real Time](https://edtechdev.github.io/aied/articles/paratutor-parent-child-tutoring/)
+## [ParaTutor: Coordinating Parent-Child Math Tutoring through Role-Separated LLM Scaffolding](https://edtechdev.github.io/aied/articles/paratutor-parent-child-tutoring/)
 
 > **Synthesis:** - Effective parent–child tutoring depends on preserving distinct, asymmetric roles: parents guide the learning process while children remain actively engaged in understanding and reasoning.
 > - Recurring challenges include parents struggling to understand problem structure, lacking sufficient knowledge to provide support, and encountering communication difficulties that disrupt shared understanding.
@@ -83128,7 +83128,7 @@ The work began with a [[formative-assessment|formative]] study in the Chinese ho
 
 ## Citation
 
-Lan Luo, Anqi Wang, Muzhi Zhou, Junhua Zhu, Jie Cai, Ao Yu, Hui Pan (2026). [ParaTutor: LLM Mediated Parent Child Tutoring through Role Separated Scaffolding Interface in Real Time](https://arxiv.org/abs/2606.18030). arXiv cs.HC.
+Lan Luo, Anqi Wang, Muzhi Zhou, Junhua Zhu, Jie Cai, Ao Yu, Hui Pan (2026). [ParaTutor: Coordinating Parent-Child Math Tutoring through Role-Separated LLM Scaffolding](https://arxiv.org/abs/2606.18030). arXiv cs.HC.
 
 ---
 
@@ -84100,7 +84100,7 @@ Mertens, U., Jansen, T., Steinbach, M., Fleckenstein, J., & Meyer, J. (2026). [*
 
 ---
 
-## [Zero-Shot Governance: General-Purpose AI in Policy](https://edtechdev.github.io/aied/articles/perrotta-zero-shot-governance-2026/)
+## [Zero-shot governance](https://edtechdev.github.io/aied/articles/perrotta-zero-shot-governance-2026/)
 
 > **Synthesis:** **Perrotta (2026)** advances the concept of **zero-shot governance** — the scenario in which domain-agnostic [[generative-ai|generative AI]] foundation models intervene in policy decisions — through a critical infrastructural analysis of **Redbox**, a discontinued UK civil-service prototype built on off-the-shelf [[llm|LLMs]]. Reading Redbox's codebase through intersecting technical, political, and cultural lenses, the article argues that the general-purpose nature of LLMs is a structural feature of the technology that can be *mitigated but never ruled out* — a conclusion with direct implications for [[educational-policy-ai|education policy]] and [[governance|AI governance]].
 
@@ -88884,7 +88884,7 @@ Rhaimi, S., Ercan, D., Gao, R., Esmaeiligoujar, S., Babaee, M., Li, H., Zhang, S
 
 ## Citation
 
-Rho, J., Guo, R., Li, H., & Li, C. (2026). Disengaged conversational behaviors and learning in student-AI dialogues for mathematical problem solving. *Computers & Education*, 105766. https://doi.org/10.1016/j.compedu.2026.105766
+Rho, J., Guo, R., Li, H., & Li, C. (2026). [*Disengaged Conversational Behaviors and Learning in Student-AI Dialogues for Mathematical Problem Solving*](https://doi.org/10.1016/j.compedu.2026.105766). *Computers & Education*, 105766.
 
 ---
 
@@ -90853,7 +90853,7 @@ Cao, J., Zhao, C. Q., Schunn, C., McLaughlin, E. A., Lin, J., & Koedinger, K. R.
 
 ## Citation
 
-Seung, Y., & Basham, J. D. (2026). Cognitive offloading in the age of generative AI: What does it mean for students with learning disabilities? *Learning Disability Quarterly, 49*(3), 121–133. [https://doi.org/10.1177/07319487261439132](https://doi.org/10.1177/07319487261439132)
+Seung, Y., & Basham, J. D. (2026). [*Cognitive Offloading in the Age of Generative AI: What Does It Mean for Students With Learning Disabilities?*](https://doi.org/10.1177/07319487261439132) *Learning Disability Quarterly, 49*(3), 121–133.
 
 ---
 
@@ -91743,7 +91743,7 @@ Yeung, R. C. Y., Yeung, C. H., Sun, D., Keane, T., & Yang, Y. (2026). [From simu
 
 ---
 
-## [Application-Driven Pedagogical Knowledge Optimization of Open-Source LLMs via Reinforcement Learning and Supervised](https://edtechdev.github.io/aied/articles/singh-eduqwen-pedagogical-rl-2026/)
+## [Application-Driven Pedagogical Knowledge Optimization of Open-Source LLMs via Reinforcement Learning and Supervised Fine-Tuning](https://edtechdev.github.io/aied/articles/singh-eduqwen-pedagogical-rl-2026/)
 
 > **Synthesis:** **EduQwen: [[pedagogy|Pedagogical]] RL** — A multi-stage optimization strategy combining reinforcement learning (DAPO) and supervised fine-tuning (SFT) to enhance the pedagogical knowledge of open-source LLMs, producing a family of dense 32B-parameter models that achieve state-of-the-art performance on the Cross-Domain Pedagogical Knowledge (CDPK) [[benchmark]], surpassing even much larger proprietary systems such as Gemini-3 Pro. Demonstrates that domain-specialized optimization can transform mid-sized open-source LLMs into true pedagogical domain experts, prioritizing guided learning over answer-giving.
 
@@ -91775,7 +91775,7 @@ The EduQwen project addresses a fundamental misalignment in [[llm]] behavior for
 
 ## Citation
 
-Singh, N. P., Wang, X., Garikipati, A., Ciobanu, M., Mao, Q., & Das, R. (2026). [*Application-Driven Pedagogical Knowledge Optimization of Open-Source LLMs via RL and SFT*](https://arxiv.org/abs/2604.06385).
+Singh, N. P., Wang, X., Garikipati, A., Ciobanu, M., Mao, Q., & Das, R. (2026). [*Application-Driven Pedagogical Knowledge Optimization of Open-Source LLMs via Reinforcement Learning and Supervised Fine-Tuning*](https://arxiv.org/abs/2604.06385).
 
 ---
 
@@ -92490,7 +92490,7 @@ Ethan Dickey, Marios Mertzanidis, Alexandros Psomas (2026). [Is Solving Better T
 
 ## Citation
 
-Song, Y., de Barba, P., & Oliveira, E. (2026). *GenAI as a learning partner: Supporting self-regulated learning over time without replacing effort.* Learning Letters, 8, Article 73. [https://doi.org/10.20851/ll.v8.73](https://doi.org/10.20851/ll.v8.73)
+Song, Y., de Barba, P., & Oliveira, E. (2026). [*GenAI as a Learning Partner: Supporting Self-Regulated Learning Over Time Without Replacing Effort*](https://doi.org/10.20851/ll.v8.73). Learning Letters, 8, Article 73.
 
 ---
 
@@ -98444,7 +98444,7 @@ The key empirical claim is that video-derived transcripts capture learning *invi
 
 ## Citation
 
-Thomas, D. R., Kamikazi, M. C. A., Gurung, A., Miglani, I., Gupta, S., Levonian, Z., Borchers, C., & Koedinger, K. R. (2026). Towards breaking the learning system wall using multimodal tutoring transcriptions. In *Proceedings of the Artificial Intelligence in Measurement and Education Conference (AIME-Con)*, Vol. 1: Full Papers (pp. 622–630). National Council on Measurement in Education.
+Thomas, D. R., Kamikazi, M. C. A., Gurung, A., Miglani, I., Gupta, S., Levonian, Z., Borchers, C., & Koedinger, K. R. (2026). [*Towards breaking the learning system wall using multimodal tutoring transcriptions*](https://doi.org/10.1177/9781734048929). In *Proceedings of the Artificial Intelligence in Measurement and Education Conference (AIME-Con)*, Vol. 1: Full Papers (pp. 622–630). National Council on Measurement in Education.
 
 ---
 
@@ -99270,7 +99270,7 @@ Tubino, L., & Adachi, C. (2022). [*Reconnecting relationships through technology
 
 ---
 
-## [Countering AI overreliance with multi-agent debate: complementary human-AI decision-making in legal contexts](https://edtechdev.github.io/aied/articles/tuo-armada-multi-agent-debate-overreliance-2026/)
+## [Countering the Risks of AI Overreliance: Leveraging Multi-Agent Debate for Complementary Human–AI Decision-Making in Legal Contexts](https://edtechdev.github.io/aied/articles/tuo-armada-multi-agent-debate-overreliance-2026/)
 
 > **Synthesis:** Tuo, Wang, Miller and Demartini (2026) test whether the *single-recommendation* paradigm is itself the source of human-AI [[cognitive-offloading|overreliance]]. In a 3 × 2 between-subjects study with 186 lay participants judging civil cases on the [[llm|LLM]]-supported QCAT platform, replacing "here is the AI's answer" with a [[agentic-ai|multi-agent]] debate whose **system-preferred position is withheld** (ARMADA) cut detrimental switching to an incorrect AI position from 42–60.5% to 5.7–8.2%, but also suppressed beneficial adoption of a correct AI position (22.1–33.3% vs 61.1–72.3%). Complementary team performance — the team beating both human and AI alone — appeared in exactly one condition: when the AI was *less* accurate than humans on challenging cases. The authors' reading is that [[trust-calibration|calibration]] designs treat overreliance as a [[bias-mitigation|bias]] to correct, while withholding a recommendation is **protective** rather than corrective: it defends the human's initial judgment and leaves the correction of error to deliberation the human must perform.
 
@@ -99347,7 +99347,7 @@ Tuo, B., Wang, B., Miller, T., & Demartini, G. (2026). [*Countering the Risks of
 
 ## Citation
 
-Turano, C., Pihl, V., Agnew, C., Ziegler, L., & Loeb, S. (2026). *AI Tutoring is Not a Monolith: What We Actually Know.* Stanford SCALE / National Student Support Accelerator (NSSA), Stanford University. [https://scale.stanford.edu](https://scale.stanford.edu)
+Turano, C., Pihl, V., Agnew, C., Ziegler, L., & Loeb, S. (2026). [*AI Tutoring is Not a Monolith: What We Actually Know*](https://scale.stanford.edu). Stanford SCALE / National Student Support Accelerator (NSSA), Stanford University.
 
 ---
 
@@ -100431,7 +100431,7 @@ Lee, E. (2026). [VARIA: Benchmarking Frontier LLMs on Construct-Equivalent Asses
 
 ---
 
-## [AI as cognitive scaffolding for executive functioning in students with special educational needs](https://edtechdev.github.io/aied/articles/vasileiou-ai-cognitive-scaffolding-executive-functioning-sen-2026/)
+## [Artificial Intelligence as Cognitive Scaffolding for Executive Functioning in Students with Special Educational Needs](https://edtechdev.github.io/aied/articles/vasileiou-ai-cognitive-scaffolding-executive-functioning-sen-2026/)
 
 > **Synthesis:** Vasileiou, Mantsos, Krokou, Kofa and Polydoros (2026) conducted a critical narrative review asking a sharper question than the usual "does AI help students with SEN": *what function does the AI actually perform*? Their answer is a three-function framework — **compensation** (reducing or externalizing an executive demand so the learner can participate), **scaffolding** (supporting performance just beyond current independent capability), and **development** (building strategies the learner can later use without the tool). The review's central claim is that improved task completion while a tool is available is *not* evidence of executive-function development — the field's strongest AI evidence concerns learning outcomes from intelligent tutoring systems (Ma et al. 2014), not direct change in inhibition, working-memory updating, or flexibility. The framework is interpretive (no pooled effect sizes, no PRISMA flow diagram), and most AI-in-education studies measure achievement, engagement, or task completion rather than executive functions with validated instruments — so the authors call for withdrawal phases, transfer tasks, and direct EF measures before any developmental claims. **Tool vintage: literature through March 2026; spans ITS, adaptive platforms, conversational agents, and generative AI.** The pedagogical upshot is a teacher-mediated cycle: identify the barrier, define the goal, pick the least intrusive support, keep the learner in the decision loop, review process as well as performance, then maintain, adjust, or fade the assistance — with support faded or transferred before any "development" claim is made.
 
@@ -100474,7 +100474,7 @@ The review calls for: precise reporting of the technology's function, the suppor
 
 ## Citation
 
-Vasileiou, I., Mantsos, E., Krokou, Z., Kofa, O., & Polydoros, G. (2026). Artificial intelligence as cognitive scaffolding for executive functioning in students with special educational needs. *Journal of Educational Technology and E-Learning Innovations, 2*(2), 40–46. https://doi.org/10.54536/jeteli.v2i2.8642
+Vasileiou, I., Mantsos, E., Krokou, Z., Kofa, O., & Polydoros, G. (2026). [*Artificial Intelligence as Cognitive Scaffolding for Executive Functioning in Students with Special Educational Needs*](https://doi.org/10.54536/jeteli.v2i2.8642). *Journal of Educational Technology and E-Learning Innovations, 2*(2), 40–46.
 
 ---
 
@@ -100725,7 +100725,7 @@ Sun, R., Li, J., Tao, W., Zheng, X., Tan, Y., Wei, J., & Ma, Y. (2026). [*VeriFo
 
 ## Citation
 
-Vetter, M. A., Farag, I., Jiang, J., Lucia, B., & Silvestro, J. J. (2026). The hidden cost of disclosure: A multi-institutional study on undergraduate students' generative AI usage and faculty accusations. *SSRN*. [https://doi.org/10.2139/ssrn.5755762](https://doi.org/10.2139/ssrn.5755762)
+Vetter, M. A., Farag, I., Jiang, J., Lucia, B., & Silvestro, J. J. (2026). [*The Hidden Cost of Disclosure: A Multi-institutional Study on Undergraduate Students' Generative AI Usage and Faculty Accusations*](https://doi.org/10.2139/ssrn.5755762). *SSRN*.
 
 ---
 
@@ -100932,7 +100932,7 @@ Mizoguchi, Riichiro et al. (2026). [Vibe Compiler: A Research-Logic Synthesis To
 
 ## Citation
 
-Viberg, O., Feldman-Maggor, Y., & Wong, J. (2026). *Efficiency vs. effectiveness: Self-regulated learning with LLM-mediated help-seeking.* Learning Letters, 8, Article 60. [https://doi.org/10.20851/ll.v8.60](https://doi.org/10.20851/ll.v8.60)
+Viberg, O., Feldman-Maggor, Y., & Wong, J. (2026). [*Efficiency vs. Effectiveness: Self-Regulated Learning with LLM-Mediated Help-Seeking*](https://doi.org/10.20851/ll.v8.60). Learning Letters, 8, Article 60.
 
 ---
 
@@ -103277,7 +103277,7 @@ The pedagogical target is well-motivated: effort-based praise ("I love the effor
 
 ## Citation
 
-Xu, C., Lin, J., Wu, T., Aleven, V., & Koedinger, K. R. (2025). Improving automated feedback systems for tutor training in low-resource scenarios through data augmentation. *arXiv:2501.09824v2* [cs.HC]. https://arxiv.org/abs/2501.09824
+Xu, C., Lin, J., Wu, T., Aleven, V., & Koedinger, K. R. (2025). [*Improving automated feedback systems for tutor training in low-resource scenarios through data augmentation*](https://arxiv.org/abs/2501.09824). *arXiv:2501.09824v2* [cs.HC].
 
 ---
 
@@ -103494,7 +103494,7 @@ Yan, D. (2026). [A critical narrative synthesis of psychological correlates, mea
 
 ---
 
-## [Balancing teacher and student agency in co-orchestration tools for real-time dynamic pairing](https://edtechdev.github.io/aied/articles/yang-balancing-teacher-student-agency-2026/)
+## [Balancing Teacher and Student Agency: Co-Orchestration Tool Design Supporting Real-Time Dynamic Pairing](https://edtechdev.github.io/aied/articles/yang-balancing-teacher-student-agency-2026/)
 
 > **Synthesis:** This paper maps how 17 teachers and 13 students want control distributed across a teacher-facing [[intelligent-tutoring|intelligent tutoring]] co-orchestration tool that dynamically pairs students for collaborative problem-solving. Using participatory speed dating (74 co-generated design ideas narrowed to 34 storyboarded hybrids, ranked by all 30 participants with verbalized reasoning), the authors build an agency design space along a teacher-dominated-to-student-dominated axis for seven [[teacher-role|orchestration]] challenges spanning before/during/after pairing. The headline finding is a *temporal gradient*: both stakeholder groups prefer strong teacher control in preparation and initiation, then progressively value hybrid and student control as the activity unfolds — full student control is never preferred by either group. Teachers and students align on hybrid control for content selection, monitoring, transitions, and evaluation, but *diverge* on pairing timing (teachers want more control; students want readiness signaling) and partner selection (the exact inverse — students trust teacher choice, teachers want student voice). The practical recommendation is stage-sensitive agency: structured teacher guidance early, progressively increasing [[agency|student autonomy]] later, with bounded student proposals validated by teacher-facing [[learning-analytics|analytics]] rather than free-form mid-activity override requests.
 
@@ -103528,7 +103528,7 @@ The theoretical contribution is treating teacher and student control as independ
 
 ## Citation
 
-Yang, K. B., Liu, M., Xu, L., Rummel, N., & Aleven, V. (2026). Balancing teacher and student agency: Co-orchestration tool design supporting real-time dynamic pairing. *Proceedings of the ACM on Human-Computer Interaction*, 10(6), Article CSCW054. https://doi.org/10.1145/3816902
+Yang, K. B., Liu, M., Xu, L., Rummel, N., & Aleven, V. (2026). [*Balancing Teacher and Student Agency: Co-Orchestration Tool Design Supporting Real-Time Dynamic Pairing*](https://doi.org/10.1145/3816902). *Proceedings of the ACM on Human-Computer Interaction*, 10(6), Article CSCW054.
 
 ---
 
@@ -104076,7 +104076,7 @@ Yu, Wonjin; Kim, Nari; Chang, Ammi; Huang, Wanju. (2026). *[The Effects of K-12 
 
 ---
 
-## [Why pay for an AI tutor when you can design it? Student-created AI agents as co-designed instructional tools](https://edtechdev.github.io/aied/articles/zangari-student-created-ai-agents-codesigned-instruction-2026/)
+## [Why Pay for an AI Tutor When You Can Design It? Student-Created AI Agents as Co-Designed Instructional Tools for a Large Software Design and Engineering Course](https://edtechdev.github.io/aied/articles/zangari-student-created-ai-agents-codesigned-instruction-2026/)
 
 > **Synthesis:** Zangari, Abramson, Aponte-Archila, Hackney, Muñoz, Omojokun and Feijóo-García (2026) tested a "self-flipped" twist on AI tutoring in a large software design and engineering course (over 700 enrolled): instead of *using* an AI tutor, students *built* one. Part A was a scaffolded one-week Dialogflow CX tutorial; Part B was an open-ended one-week assignment to design a conversational agent explaining three design patterns (Strategy, Composite, Observer) to a peer. Of 710 students, 345 voluntarily completed the post-assessment questionnaire. Students valued the open-ended design freedom (22.3% named it the top positive theme for Part B) and learning chatbot skills (17.7%), but the top negative theme was unclear instructions (23.7%), followed by relevance doubts (17.6%) and tool difficulty (12.4%); Part A's tutorial was simultaneously the most-liked (22.0%) and most-disliked (30.0%) element. Correlations between perceived learning and objective quiz scores were real but modest (r = 0.161–0.315 after Bonferroni correction, α = 0.008). **The evidence boundary is severe and the authors state it: no control group (sacrificing internal validity by design), volunteer self-selection (n = 345 of N = 710), no quality assessment of the student-created agents, and interrater reliability for the qualitative coding ranging only from fair to moderate (κ = 0.24–0.44).** The authors themselves frame the results as "preliminary and exploratory evidence of student engagement rather than causal proof of pedagogical superiority," and flag the alternative explanation that the perceived-learning/objective-score correlations "could potentially reflect students with increased abilities instead of highlighting the strategy's effectiveness."
 
@@ -104115,7 +104115,7 @@ The design rationale addresses AI tutors' known weaknesses: because many rely on
 
 ## Citation
 
-Zangari, L. G., Abramson, S. L., Aponte-Archila, E., Hackney, K. A., Muñoz, E., Omojokun, O., & Feijóo-García, P. G. (2026). Why pay for an AI tutor when you can design it? Student-created AI agents as co-designed instructional tools for a large software design and engineering course. *ASEE Computers in Education, 15*(4), 311–329. https://doi.org/10.18260/B4D7-9A-43218
+Zangari, L. G., Abramson, S. L., Aponte-Archila, E., Hackney, K. A., Muñoz, E., Omojokun, O., & Feijóo-García, P. G. (2026). [*Why Pay for an AI Tutor When You Can Design It? Student-Created AI Agents as Co-Designed Instructional Tools for a Large Software Design and Engineering Course*](https://doi.org/10.18260/B4D7-9A-43218). *ASEE Computers in Education, 15*(4), 311–329.
 
 ---
 

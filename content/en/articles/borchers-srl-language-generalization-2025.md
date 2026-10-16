@@ -1,7 +1,7 @@
 ---
 title: Large language models generalize SRL prediction to new languages within but not between domains
 created: "2026-10-10T19:40:00-04:00"
-updated: "2026-10-10T19:40:00-04:00"
+updated: "2026-10-16T13:51:50-04:00"
 type: article
 pedagogy: [self-regulated-learning, metacognition]
 technology: [llm, intelligent-tutoring, knowledge-tracing]
@@ -49,4 +49,4 @@ The methodological stance matters: these are embedding classifiers (OpenAI text-
 
 ## Citation
 
-Borchers, C., Zhang, J., Fleischer, H., Schanze, S., Aleven, V., & Baker, R. S. (2025). Large Language Models Generalize SRL Prediction to New Languages Within But Not Between Domains. *Journal of Educational Data Mining, 17*(2), 24–54.
+Borchers, C., Zhang, J., Fleischer, H., Schanze, S., Aleven, V., & Baker, R. S. (2025). [*Large language models generalize SRL prediction to new languages within but not between domains*](https://jedm.educationaldatamining.org/index.php/JEDM/article/view/857). *Journal of Educational Data Mining, 17*(2), 24–54.

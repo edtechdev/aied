@@ -1,7 +1,7 @@
 ---
 title: "Artificial Intelligence as Cognitive Scaffolding for Executive Functioning in Students with Special Educational Needs"
 created: "2026-10-13T10:55:00-04:00"
-updated: "2026-10-16T13:16:04-04:00"
+updated: "2026-10-16T13:51:50-04:00"
 type: article
 foundations: [ai-literacy]
 pedagogy: [scaffolding, self-regulated-learning, metacognition]
@@ -62,4 +62,4 @@ The review calls for: precise reporting of the technology's function, the suppor
 
 ## Citation
 
-Vasileiou, I., Mantsos, E., Krokou, Z., Kofa, O., & Polydoros, G. (2026). Artificial intelligence as cognitive scaffolding for executive functioning in students with special educational needs. *Journal of Educational Technology and E-Learning Innovations, 2*(2), 40–46. https://doi.org/10.54536/jeteli.v2i2.8642
+Vasileiou, I., Mantsos, E., Krokou, Z., Kofa, O., & Polydoros, G. (2026). [*Artificial Intelligence as Cognitive Scaffolding for Executive Functioning in Students with Special Educational Needs*](https://doi.org/10.54536/jeteli.v2i2.8642). *Journal of Educational Technology and E-Learning Innovations, 2*(2), 40–46.

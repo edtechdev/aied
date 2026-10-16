@@ -1,7 +1,7 @@
 ---
 title: "Cognitive Offloading in the Age of AI: Are Students Thinking Less or Learning Differently?"
 created: "2026-08-27T08:55:00-04:00"
-updated: "2026-09-19T08:33:23-04:00"
+updated: "2026-10-16T13:51:50-04:00"
 type: article
 foundations: [ai-literacy, cognitive-offloading, critical-thinking]
 pedagogy: [self-regulated-learning]
@@ -39,4 +39,4 @@ confidence: medium
 
 ## Citation
 
-Nesnin, N., Jyothika, V. V., Haris, N., Shaju, L., & Farhana, N. A. (2026). Cognitive offloading in the age of AI: Are students thinking less or learning differently? *International Journal of Technology and Emerging Research, 2*(ICITT-2026). [https://doi.org/10.64823/ijter.2621031](https://doi.org/10.64823/ijter.2621031)
+Nesnin, N., Jyothika, V. V., Haris, N., Shaju, L., & Farhana, N. A. (2026). [*Cognitive Offloading in the Age of AI: Are Students Thinking Less or Learning Differently?*](https://doi.org/10.64823/ijter.2621031) *International Journal of Technology and Emerging Research, 2*(ICITT-2026).

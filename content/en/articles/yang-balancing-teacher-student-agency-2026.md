@@ -1,7 +1,7 @@
 ---
 title: "Balancing Teacher and Student Agency: Co-Orchestration Tool Design Supporting Real-Time Dynamic Pairing"
 created: "2026-10-10T18:36:00-04:00"
-updated: "2026-10-16T13:16:04-04:00"
+updated: "2026-10-16T13:51:50-04:00"
 type: article
 foundations: [agency]
 technology: [intelligent-tutoring, knowledge-tracing]
@@ -51,4 +51,4 @@ The theoretical contribution is treating teacher and student control as independ
 
 ## Citation
 
-Yang, K. B., Liu, M., Xu, L., Rummel, N., & Aleven, V. (2026). Balancing teacher and student agency: Co-orchestration tool design supporting real-time dynamic pairing. *Proceedings of the ACM on Human-Computer Interaction*, 10(6), Article CSCW054. https://doi.org/10.1145/3816902
+Yang, K. B., Liu, M., Xu, L., Rummel, N., & Aleven, V. (2026). [*Balancing Teacher and Student Agency: Co-Orchestration Tool Design Supporting Real-Time Dynamic Pairing*](https://doi.org/10.1145/3816902). *Proceedings of the ACM on Human-Computer Interaction*, 10(6), Article CSCW054.

@@ -1,7 +1,7 @@
 ---
 title: Improving hybrid human-AI tutoring by differentiating human tutor roles based on student needs
 created: "2026-10-10T18:56:00-04:00"
-updated: "2026-10-10T18:56:00-04:00"
+updated: "2026-10-16T13:51:50-04:00"
 type: article
 foundations: [ai-education]
 technology: [intelligent-tutoring]
@@ -49,4 +49,4 @@ The mechanism story is coherent with the prior evidence the paper builds on: aut
 
 ## Citation
 
-Gurung, A., Gao, G., Gutterman, J., Thomas, D. R., Gupta, S., Branstetter, L., Brunskill, E., Aleven, V., & Koedinger, K. R. (2026). Improving hybrid human-AI tutoring by differentiating human tutor roles based on student needs. *arXiv:2605.11155v1* [cs.CY]. https://arxiv.org/abs/2605.11155
+Gurung, A., Gao, G., Gutterman, J., Thomas, D. R., Gupta, S., Branstetter, L., Brunskill, E., Aleven, V., & Koedinger, K. R. (2026). [*Improving hybrid human-AI tutoring by differentiating human tutor roles based on student needs*](https://arxiv.org/abs/2605.11155). *arXiv:2605.11155v1* [cs.CY].

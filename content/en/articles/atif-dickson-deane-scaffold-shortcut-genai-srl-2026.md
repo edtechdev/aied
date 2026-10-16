@@ -1,7 +1,7 @@
 ---
 title: "Scaffold or Shortcut? Postgraduate IT Students' Use of Generative AI and Self-Regulated Learning"
 created: "2026-08-27T06:30:00-04:00"
-updated: "2026-09-19T08:33:23-04:00"
+updated: "2026-10-16T13:51:50-04:00"
 type: article
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [self-regulated-learning]
@@ -40,4 +40,4 @@ methods: [mixed-methods-research]
 
 ## Citation
 
-Atif, A., & Dickson-Deane, C. (2026). *Scaffold or shortcut? Postgraduate IT students' use of generative AI and self-regulated learning.* Learning Letters, 8, Article 63. [https://doi.org/10.20851/ll.v8.63](https://doi.org/10.20851/ll.v8.63)
+Atif, A., & Dickson-Deane, C. (2026). [*Scaffold or Shortcut? Postgraduate IT Students' Use of Generative AI and Self-Regulated Learning*](https://doi.org/10.20851/ll.v8.63). Learning Letters, 8, Article 63.

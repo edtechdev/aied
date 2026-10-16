@@ -1,7 +1,7 @@
 ---
 title: "Beyond Detection: How Students Use—and Hide—AI in Online Assessments and What Authentic Tasks Can Do About It"
 created: "2026-08-27T11:15:00-04:00"
-updated: "2026-09-19T08:33:23-04:00"
+updated: "2026-10-16T13:51:50-04:00"
 type: article
 foundations: [academic-integrity]
 technology: [generative-ai]
@@ -43,4 +43,4 @@ audience: [instructors, assessment designers, administrators]
 
 ## Citation
 
-Kirsanov, O., Kushwah, L., & Selvaretnam, G. (2026). Beyond detection: How students use—and hide—AI in online assessments and what authentic tasks can do about it. *Journal of Academic Ethics, 24*, 14. [https://doi.org/10.1007/s10805-025-09691-3](https://doi.org/10.1007/s10805-025-09691-3)
+Kirsanov, O., Kushwah, L., & Selvaretnam, G. (2026). [*Beyond Detection: How Students Use—and Hide—AI in Online Assessments and What Authentic Tasks Can Do About It*](https://doi.org/10.1007/s10805-025-09691-3). *Journal of Academic Ethics, 24*, 14.

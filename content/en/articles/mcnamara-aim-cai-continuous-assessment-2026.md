@@ -1,7 +1,7 @@
 ---
 title: "AI-Mediated Continuous Assessment Infrastructure (AIM-CAI): Connecting Learning Evidence Across Contexts and Time"
 created: "2026-10-10T19:38:00-04:00"
-updated: "2026-10-10T19:38:00-04:00"
+updated: "2026-10-16T13:51:50-04:00"
 type: article
 technology: [learning-analytics, llm, adaptive-learning]
 pedagogy: [mastery-learning]
@@ -49,4 +49,4 @@ The conceptual-shift table is the article's core deliverable for practitioners: 
 
 ## Citation
 
-McNamara, D. S., & Hasnine, M. N. (2026). AI-Mediated Continuous Assessment Infrastructure (AIM-CAI): Connecting Learning Evidence Across Contexts and Time. *Information, 17*(8), 806. https://doi.org/10.3390/info17080806
+McNamara, D. S., & Hasnine, M. N. (2026). [*AI-Mediated Continuous Assessment Infrastructure (AIM-CAI): Connecting Learning Evidence Across Contexts and Time*](https://doi.org/10.3390/info17080806). *Information, 17*(8), 806.

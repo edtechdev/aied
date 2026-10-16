@@ -1,7 +1,7 @@
 ---
 title: "Generative Artificial Intelligence Policy: A Qualitative UNESCO Framework Analysis"
 created: "2026-08-20T08:20:00-04:00"
-updated: "2026-09-19T07:42:07-04:00"
+updated: "2026-10-16T13:51:50-04:00"
 type: article
 foundations: [academic-integrity]
 technology: [generative-ai]
@@ -49,4 +49,4 @@ A total of **159 documents** (policy texts, institutional announcements, webpage
 
 ## Citation
 
-Adarkwah, M. A., Ercan, A. M., Schneider, K., & Bayar, E. (2026). Generative artificial intelligence policy: a qualitative UNESCO framework analysis. *Journal of University Teaching and Learning Practice*, 23(2). [https://doi.org/10.53761/801ryw41](https://doi.org/10.53761/801ryw41)
+Adarkwah, M. A., Ercan, A. M., Schneider, K., & Bayar, E. (2026). [*Generative Artificial Intelligence Policy: A Qualitative UNESCO Framework Analysis*](https://doi.org/10.53761/801ryw41). *Journal of University Teaching and Learning Practice*, 23(2).

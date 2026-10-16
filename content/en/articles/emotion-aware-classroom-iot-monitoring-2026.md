@@ -1,7 +1,7 @@
 ---
 title: "Emotion-Aware Classroom Quality Assessment Leveraging IoT-Based Real-Time Student Monitoring"
 created: "2026-09-01T10:00:00-04:00"
-updated: "2026-09-19T08:33:23-04:00"
+updated: "2026-10-16T13:52:21-04:00"
 type: article
 methods: [benchmark]
 sources: ["raw/papers/emotion-aware-classroom-iot-monitoring-2026.md"]
@@ -38,4 +38,4 @@ page_kind: [evaluation]
 - Robustness and outcome limits: severe occlusions and persistent extreme non-frontal poses yield unreliable or missing detections, and with no longitudinal outcome data the study demonstrates perceived utility rather than causal classroom impact; the monitoring reaction (Hawthorne effect) was assessed only through indirect evidence.
 ## Citation
 
-Emotion-Aware Classroom Quality Assessment Leveraging IoT-Based Real-Time Student Monitoring](https://www.sciencedirect.com/science/article/pii/S2666920X26000512) — Nguyen, H., Dao, H., Nguyen, H., Vu, N., & Tran, C. (2026). *Computers and Education: Artificial Intelligence*, 11, 100639.
+Nguyen, H., Dao, H., Nguyen, H., Vu, N., & Tran, C. (2026). [*Emotion-Aware Classroom Quality Assessment Leveraging IoT-Based Real-Time Student Monitoring*](https://www.sciencedirect.com/science/article/pii/S2666920X26000512). *Computers and Education: Artificial Intelligence, 11*, 100639.

@@ -1,7 +1,7 @@
 ---
 title: "A Conversational AI Framework for Teacher Training"
 created: "2026-10-15T08:20:00-04:00"
-updated: "2026-10-16T13:16:04-04:00"
+updated: "2026-10-16T13:51:50-04:00"
 type: article
 foundations: [teacher-role, ai-literacy]
 sources: ['raw/papers/10.3390_info17101023.md']
@@ -69,4 +69,4 @@ The paper spends real effort separating Evidence-Based Education (EBE) — clini
 
 ## Citation
 
-Miranda, S., & Calvani, A. (2026). A Conversational AI Framework for Teacher Training. *Information*, 17(10), 1023. https://doi.org/10.3390/info17101023
+Miranda, S., & Calvani, A. (2026). [*A Conversational AI Framework for Teacher Training*](https://doi.org/10.3390/info17101023). *Information*, 17(10), 1023.

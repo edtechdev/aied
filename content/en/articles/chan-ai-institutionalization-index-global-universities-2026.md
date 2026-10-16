@@ -1,7 +1,7 @@
 ---
 title: "How colleges and universities are adopting AI in higher education: a global comparative analysis"
 created: "2026-10-13T11:30:00-04:00"
-updated: "2026-10-13T11:30:00-04:00"
+updated: "2026-10-16T13:51:50-04:00"
 type: article
 audience: [administrators, policymakers, researchers]
 level: [higher ed]
@@ -52,4 +52,4 @@ The mixed-methods design adds a qualitative layer: the same websites were read f
 
 ## Citation
 
-Chan, R. Y. (2026). *How colleges and universities are adopting AI in higher education: A global comparative analysis* (EdWorkingPaper No. 26-1576). Annenberg Institute at Brown University. https://doi.org/10.26300/jhxw-rg10
+Chan, R. Y. (2026). [*How colleges and universities are adopting AI in higher education: a global comparative analysis*](https://doi.org/10.26300/jhxw-rg10) (EdWorkingPaper No. 26-1576). Annenberg Institute at Brown University.
