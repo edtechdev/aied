@@ -1,7 +1,7 @@
 ---
-title: "Incipit: Axiom-Grounded Scaffolding for Human-AI Literary Creation"
+title: "Literary Axioms: A Conceptual Framework for Literary Creation, Interpretation, and Evaluation"
 created: "2026-09-23T09:13:54-04:00"
-updated: "2026-09-23T09:13:54-04:00"
+updated: "2026-10-16T13:16:04-04:00"
 type: article
 published: "2026-09-22"
 sources: ['raw/papers/incipit-axiom-grounded-scaffolding-literary-creation-2026.md']
@@ -56,4 +56,4 @@ Coherence, contextual reach, distinctiveness, realization fidelity and interpret
 - 1,448 of 1,455 axioms map to exactly one work, so co-occurrence and graph analysis are sparse, and the artifact has no held-out annotation set, no calibrated strengths (curator-supplied mean 0.839) and no public archival identifier or dataset license.
 
 ## Citation
-Liu, Q., & Zhao, C. (2026). [Incipit: Axiom-Grounded Scaffolding for Human-AI Literary Creation](https://arxiv.org/abs/2609.25504). arXiv:2609.25504.
+Liu, Q., & Zhao, C. (2026). [*Literary Axioms: A Conceptual Framework for Literary Creation, Interpretation, and Evaluation*](https://arxiv.org/abs/2609.25504). arXiv:2609.25504.

@@ -1,7 +1,7 @@
 ---
-title: "A Conversational AI Framework for Teacher Training: ETQ-AI"
+title: "A Conversational AI Framework for Teacher Training"
 created: "2026-10-15T08:20:00-04:00"
-updated: "2026-10-15T08:20:00-04:00"
+updated: "2026-10-16T13:16:04-04:00"
 type: article
 foundations: [teacher-role, ai-literacy]
 sources: ['raw/papers/10.3390_info17101023.md']
