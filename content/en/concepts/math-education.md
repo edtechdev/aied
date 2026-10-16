@@ -1,7 +1,7 @@
 ---
 title: Math Education
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-15T21:05:00-04:00"
+updated: "2026-10-16T06:36:28-04:00"
 type: concept
 pedagogy: [scaffolding]
 technology: [generative-ai, intelligent-tutoring]
@@ -38,6 +38,8 @@ Mathematics education has become a primary domain for [[ai-education|AI in educa
 **[[student-engagement|Student engagement]] and AI literacy** examines how students interact with AI math tools. **[[epistemic-proactivity-math|Abdelghani et al.]]** traced temporal trajectories of student-AI interaction in math learning, identifying a developmental path from superficial [[prompt-engineering|prompting]] to "epistemic proactivity" — active, [[self-directed-learning|self-directed]] pursuit of conceptual understanding. This connects to [[ai-literacy]], [[metacognition]], and [[self-regulated-learning]]. **[[ai-powered-personalized-learning-elementary-fractions-2026|Holman]]** found that AI-adaptive platforms significantly improved fraction comprehension for students with math learning difficulties, connecting to [[personalized-learning]] and [[adaptive-learning]].
 
 **Teacher support** explores AI tools for math educators. **Simulated-student role-play** also serves teacher practice: [[zhuang-zhang-chatgpt-math-teacher-education-2026|Zhuang and Zhang (2025)]] built *Student GPT*, a custom ChatGPT [[conversational-ai|chatbot]] that role-played a middle school student holding common ratio-reasoning [[misconceptions]], giving preservice secondary math teachers low-risk practice at diagnosing and guiding student thinking toward correct solutions — illustrating [[generative-ai|GenAI]]-powered [[simulation]] as a complement to costly platforms like TeachLivE for building pedagogical content knowledge about student misconceptions.
+
+Classroom AI tools also create orchestration work the older typology does not name: observing six high-school mathematics lessons found teachers monitoring [[visualization|dashboards]], correcting the AI's wrong [[feedback]], and mediating its output for the class, with content and [[ethics|ethical]] judgment most visible when fixing an AI error ([[teachers-instrumental-orchestration-ai-math-2026|Noh & Kim, 2026]]).
 
 The knowledge base's only field-level synthesis of this domain is a 2021–2025 PRISMA review of 42 studies screened from 922 records (Cohen's kappa = 0.88), and it adds a category the page's clusters otherwise lack: teacher-facing automation, where MATH41 supports rapid production of mathematics tasks for learners at different levels and the hybrid model CognifyNet analyses students' activity patterns so educators can detect emerging difficulties early. The same review locates the field's blind spot — with Education at 60% and Computer Science at 28% of study domains, only one study fell in Psychology, leaving emotional impact, trust and ethics comparatively underexplored — and insists that technical capability should not be equated with demonstrated classroom effectiveness. ([[ai-mathematics-education-prisma-review-2026]])
 
@@ -129,3 +131,4 @@ Math education sits within the broader [[stem-education]] domain with distinctiv
 - [[misconception-acquisition-dynamics-llms-2026]] — algebra mal-rule training dynamics in language models
 - [[genai-practice-platform-maths-feedback-2026]] — Optional GenAI practice platform in a 157-student maths class: immediate feedback valued, uptake limited to 34 active users
 - [[ai-generated-responses-achievement-self-efficacy-2026]] — Assessing the Influence of AI-Generated Responses on Academic Achievement: An Ethical Perspective and Self-Efficacy
+- [[teachers-instrumental-orchestration-ai-math-2026]] — Classroom orchestration work in high-school mathematics: reading dashboards and correcting AI feedback

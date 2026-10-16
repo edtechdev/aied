@@ -1,7 +1,7 @@
 ---
 title: "Legal Education"
 created: "2026-09-18T05:10:00-04:00"
-updated: "2026-09-30T09:59:35-04:00"
+updated: "2026-10-16T06:18:00-04:00"
 type: concept
 foundations: [academic-integrity, critical-thinking, reducing-ai-misuse]
 pedagogy: [career-development-and-readiness, experiential-learning, professional-training, socratic-method]
@@ -60,6 +60,8 @@ Three things make legal education more than one more subject area.
 
 **Assessment validity is inseparable from professional competence.** [[cognitive-offloading|Over-reliance]] during law school is feared to leave graduates underprepared for work that demands independent legal analysis and advocacy, and grading that rewards fluent output cannot distinguish a student's comprehension from a model's. The [[assessment-validity|validity]] question is therefore not academic.
 
+In a legal-context experiment, 186 lay decision-makers on tribunal civil cases deferred to an incorrect AI position far less when the system withheld its own position (5.7–8.2% versus 42.0–60.5%), yet built no measurable judgment — protective rather than corrective, and measured in lay decision-makers, not law students ([[tuo-armada-multi-agent-debate-overreliance-2026|Tuo et al., 2026]]).
+
 **Disclosure norms are unsettled and consequential.** Gutowski and Hurley report disagreement about whether any use of AI must be disclosed, proposals for student disclosure forms, and no consensus on citation practice, with the Bluebook still silent on citing generative AI. They also predict that disclosure requirements will eventually look as pointless as noting that a student used a search engine, which is a prediction about the shelf life of the rules now being written.
 
 **Professional ethics travel with the graduate.** The ABA's duty of technological competence and its guidance on confidentiality, supervision and candour toward the tribunal apply to practicing lawyers using these tools, and law schools inherit the job of teaching them. That is why the discipline connects directly to the knowledge base's work on [[ai-use-disclosure|AI use disclosure]] and on the [[legal-issues-and-risks|legal issues and risks]] that arise when institutions govern AI badly.
@@ -91,3 +93,4 @@ Three things make legal education more than one more subject area.
 
 - [[gutowski-hurley-genai-policy-legal-education-2025]] — Five-factor comparison of law school generative AI policies and a governance framework
 - [[llm-turing-test-italian-legal-exams-2026]] — Blind Turing test on Italian bar, judges and notary examinations, benchmarked against expert marking
+- [[tuo-armada-multi-agent-debate-overreliance-2026]] — Withholding the system's position suppresses overreliance in legal-context decisions without building judgment (lay decision-makers, not law students)

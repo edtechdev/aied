@@ -6,7 +6,7 @@ technology: [generative-ai]
 discipline: [science education, stem education]
 confidence: medium
 created: "2026-08-29T12:55:12-04:00"
-updated: "2026-10-05T10:25:44-04:00"
+updated: "2026-10-16T06:36:28-04:00"
 reviewed_by: [editor]
 ---
 
@@ -26,6 +26,8 @@ reviewed_by: [editor]
 Science education is where AI's promise and its limits collide most visibly, because the disciplines demand rigorous [[multimodal]] reasoning — visual-spatial thinking in physics, laboratory skills in chemistry, and organism-level systems in biology — alongside well-structured, verifiable content that LLMs handle well. The thirteen articles synthesized here span all three disciplines and levels, from [[k-12]] secondary classrooms to [[higher-ed]] university courses and [[teacher-education|pre-service teacher]] programs. Across them, a consistent picture emerges: AI functions best not as an answer generator but as an embedded partner — a co-inquirer, a content generator, a virtual lab assistant — whose contribution is decided by [[learning-design|instructional design]] and the surrounding pedagogical structure.
 
 A four-week randomized evaluation of an AI revision platform in GCSE science gives the picture a causal estimate — Hedges' g = 0.33, with no evidence the effect differed by subject or disadvantage — against an already technology-rich counterfactual, so the figure is added value rather than AI versus nothing ([[ai-tutoring-micro-rct-gcse-science-2026|Harrison et al. (2026)]]).
+
+Structured access, not access itself, drives the gain: team-reported growth averaged 17% under unlimited individual access but 34% and 31% when access was structured, which also preserved more peer discussion ([[ai-university-physics-education-review-2026|Malikova et al., 2026]]).
 
 These classroom-level findings sit inside a larger methodological question. [[ai-methodologies-science-education-research-2026|Martin, Rost, Koenen and Graulich (2026)]] argue that science education research may currently be amid an epistemic iteration, drawing on Hasok Chang's (2004) account of successive stages of knowledge that build iteratively toward specific epistemic aims. In their reading, AI methodologies may transform not only how the field analyzes student learning but which epistemic aims, criteria and practices it prioritizes. They propose a seven-phase reflective framework (problem framing; instrumentation and measurement; experimentation and evidence-based inference; comparisons and replication; building norms and consensus; implementation and its consequences; and continuous refinement), illustrated by the roughly 150-year development of thermometry, and present it as a reflective instrument rather than a validated method or an empirical finding.
 
@@ -82,3 +84,4 @@ Teacher readiness is decisive. [[pre-service-science-teachers-ai-perceptions-202
 - [[ai-tutoring-micro-rct-gcse-science-2026]] — Evaluating AI Tutoring at the Speed of Innovation: Practitioner-Led Micro-Randomized Trials of an AI Tutoring Platform in GCSE Science
 - [[llm-benchmark-secondary-science-topics-2026]] — A Benchmark for LLM's Understanding of Middle School and High School Science Topics
 - [[nature-of-science-generative-ai-2026]] — The nature of science in the age of generative artificial intelligence: Epistemic authority, materiality, and a synergetic response
+- [[ai-university-physics-education-review-2026]] — Structured team access outperformed unlimited individual access in a university physics AI review

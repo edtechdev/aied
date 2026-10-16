@@ -1,7 +1,7 @@
 ---
 title: Philosophy of AI in Education
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-09-30T09:59:35-04:00"
+updated: "2026-10-16T07:28:51-04:00"
 type: concept
 foundations: [agency, ai-education, human-ai-collaboration, philosophy-of-ai-in-education]
 pedagogy: [learning-theories]
@@ -34,6 +34,7 @@ This is a concept page for the philosophical and theoretical foundations of [[ai
 - **The ontology of AI-generated scientific objects.** In chemistry, AI-predicted compounds and titration curves occupy a "liminal ontological space" — neither wholly hypothetical nor fully real until empirically proven — which shifts the discipline from realism toward a constructivist view in which reality is a collaboration of human and machine ([[philosophy-experimentation-ai-chemistry-2026|Reyes and Regala (2026)]]).
 - **Cognitive passivity as an epistemic harm.** Bai and Costa (2026) draw on Arendt's account of thinking as an inward, untransferable activity to argue that GenAI which supplies the work does not merely offload thinking but forecloses it, with Bourdieu's field and habitus locating the risk in institutional structures ([[genai-chinese-higher-education-integrity-2026|Bai & Costa (2026)]]).
 - **Values, justice, and the purpose of education.** Philosophical analysis examines whether AI-driven education serves human flourishing and educational justice, or whether it instrumentalises learning in service of productivity.([[avraamidou-ai-colonization-science-education]]) This connects to [[critical-pedagogy]] and [[ethics]].
+- **'Human-centered' as an anthropocentric discourse, not a neutral ethic.** [[wang-jin-anthropocentrism-learnification-ai-education-2026|Wang & Jin (2026)]] read UNESCO, OECD and Montréal Declaration documents to argue that human-centered AIED inherits Enlightenment humanism's exclusions, that transhumanism preserves them, and that the label can legitimize commercial infrastructure.
 
 - **Epistemological grounding for how people engage AI.** [[strydom-human-gai-paradigms-2026|Strydom (2026)]] derives seven human–generative-AI engagement paradigms from Schommer's five dimensions of personal epistemological belief (source, certainty, organization, control, and speed of knowledge) and argues they are enacted rather than possessed — so shifting how learners engage AI requires changing the socio-technical environment, not their beliefs.
 - **Whose philosophy? Pluralism in the field's conceptual foundations.** Xie (2026) argues that the field's philosophical debate is over-determined by a single Western architecture — [[agency|epistemic agency]] as a property of discrete subjects, knowledge framed representationally and calculatively, and the human–AI relation located within subject–object dualism — so that its limits become the limits of the field's collective imagination. As a comparative counterweight he reconstructs Daoist concepts — "Dao nature" (道性), self-cultivation (修道) and the "Zhenren" (真人) — not as "Eastern content" added to an unchanged frame but as resources that reshape the conceptual foundations through which AI itself is understood, applying them to knowledge (epistemic monoculture and synthetic misinformation), knowing (offloading that degrades [[critical-thinking|critical thought]]) and impact (environmental costs and Global North–South asymmetries).([[daoism-ai-education-philosophy-2026]])
@@ -77,3 +78,4 @@ Philosophy of AI in education and [[theory-development-aied|theory development i
 - [[strydom-human-gai-paradigms-2026]] — Framing human-AI dynamics: seven GAI engagement paradigms (Strydom 2026)
 - [[daoism-ai-education-philosophy-2026]] — Alternative AI Philosophy: Daoism as Method for AI in Education
 - [[genai-higher-ed-agency-responsibility-discourse-2026]] — Who Acts, Who Knows, Who Answers? A Corpus-Assisted Discourse Analysis of Agency, Epistemic Responsibility, and Accountability in Generative AI Higher Education Research
+- [[wang-jin-anthropocentrism-learnification-ai-education-2026]] — 'Human-centered' AIED read as an anthropocentric discourse with commercial uses (Wang & Jin 2026)

@@ -46,6 +46,8 @@ Defenses against such manipulation carry their own trade-off: a multi-layer guar
 
 **Labeled unreliability lowered reported dependence rather than raising it.** When 546 participants read the same GAI dialogue labeled either as containing fabricated information or as verified accurate, the fabricated label produced lower [[trust]] and perceived controllability and higher cognitive dissonance and frustration alongside *lower* dependence scores (M = 2.935 vs. 3.254) ([[frontiers-gai-hallucination-dependence-2026|Liu et al. (2026)]]). The result qualifies this page's over-reliance logic: seeing that an output may be fabricated is not the same as continuing to lean on it.
 
+**Credibility cues can amplify deference instead.** The opposite movement appears when an unreliable output is dressed up: adding citations and credibility signals to the ARMADA debate interface raised the fraction of participants switching away from a correct initial judgment to an incorrect AI position by 112% (31.8% vs. 15.0%), and manual checking found some cited cases misattributed to irrelevant or fictitious references ([[tuo-armada-multi-agent-debate-overreliance-2026|Tuo et al., 2026]]).
+
 ## Connected Concepts
 
 - [[cognitive-offloading]]
@@ -62,6 +64,7 @@ Defenses against such manipulation carry their own trade-off: a multi-layer guar
 - [[productive-failure]]
 ## Connected Articles
 - [[frontiers-gai-hallucination-dependence-2026]] — Labeling a GAI dialogue as fabricated lowered trust and dependence together
+- [[tuo-armada-multi-agent-debate-overreliance-2026]] — Credibility cues raised deference to AI output, with some cited cases misattributed or fictitious
 - [[ivory-psychology-assessment-integrity-2026]] — Fabricated citations and self-contradicting outputs inside passable student work (Ivory et al. 2026)
 - [[llm-cognitive-diagnosis-handwritten-math]]
 - [[llm-fallacy-misattribution]]
