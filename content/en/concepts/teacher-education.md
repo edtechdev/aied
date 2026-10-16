@@ -1,7 +1,7 @@
 ---
 title: Professional Development
 created: "2026-08-16T10:55:19-04:00"
-updated: "2026-10-16T08:47:09-04:00"
+updated: "2026-10-16T19:47:08-04:00"
 type: concept
 foundations: [ai-literacy, teacher-role, tpack]
 connected_faqs: [faculty-development-ai]
@@ -88,6 +88,7 @@ Beyond content and beliefs, teacher preparation increasingly uses **simulated cl
 - **Make GenAI [[assessment|assessment design]] part of professional curriculum work.** Student teachers in [[zou-is-this-a-trap-student-teachers-genai-2026|Zou et al. (2026)]] showed little intention of redesigning their own future school assessments in response to generative AI, and the [[early-childhood-elementary-ai-education|kindergarten]] and secondary participants largely judged the technology irrelevant to their own teaching context — an underdeveloped dimension of assessment literacy rather than a knowledge gap. Teacher-education programs should therefore embed ethical GenAI use in assessment design as part of professional [[curriculum-design|curriculum]], pairing [[educational-policy-ai|program-level policy]] consistency with concrete exemplars of acceptable and unacceptable use and timely [[feedback]] on students' actual AI use.
 - **Separate delegable from non-delegable work.** [[obyrne-co-constructing-ai-boundaries-agency-judgment-2026|O'Byrne (2026)]] found 23 undergraduates, most pre-service teachers, produced comparable artifacts whether they sustained boundary work or delegated it early, and the "cheating tension" over authorship was strongest among those doing the most boundary work — so the teaching aim is judging which interpretive work not to hand over.
 - **Make classroom policy writing a core teacher-education activity, and treat ambiguity as a policy defect.** [[nash-preservice-teachers-classroom-ai-policies-2026|Nash & Burriss (2026)]] found that asking preservice teachers to write their own classroom AI policies functions as rhetorical world-building about what writing is for — a window into emergent beliefs that abstract discussion does not open. Because AI separates writing-as-product from writing-as-process, programs should help teachers locate where thinking, learning, and value actually live across brainstorming, drafting, revising, and editing rather than locating thinking only in final text, and should support them in translating beliefs into operational, unambiguous rules paired with [[ai-literacy]] instruction: contradictions such as barring AI-generated text while holding students responsible for the AI-generated content they submit leave students unable to comply.
+- **Teach teachers to read the primary research behind AI policy.** A six-week graduate research-methods course aimed at research consumption rather than production: one teacher applied the critical-evaluation framework to a district-mandated curriculum and presented the analysis to her principal, and several adopted Socratic questioning with their own students [[packard-thinking-partner-framework-adult-learners-2026|Packard et al. (2026)]].
 
 ## Connected Concepts
 
@@ -146,3 +147,4 @@ Beyond content and beliefs, teacher preparation increasingly uses **simulated cl
 - [[unscaffolded-genai-preservice-teachers-quasi-experiment-2026]] — Unscaffolded genAI lowered pre-service teachers' lesson-plan quality below the no-genAI class
 - [[capability-decision-model-teacher-readiness-2026]] — Measure capability rather than confidence
 - [[heutagogical-teaching-ai-enhanced-education-2026]] — A heutagogical dual-layer model linking teachers' own reflective regulation to learner agency
+- [[packard-thinking-partner-framework-adult-learners-2026]] — K-12 teachers learning to read primary AI research and contest district mandates

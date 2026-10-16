@@ -1,7 +1,7 @@
 ---
 title: Adult Learners
 created: "2026-08-06T10:43:53-04:00"
-updated: "2026-09-30T08:39:04-04:00"
+updated: "2026-10-16T19:47:08-04:00"
 type: concept
 foundations: [ai-education, learning-design]
 pedagogy: [professional-training]
@@ -43,6 +43,7 @@ Adult learning sits at the intersection of several closely linked concepts in th
 
 - **Design AI as a scaffold for self-direction, not a substitute.** Behavioral independence from the tool doesn't prove the learner directed the learning — protect goal ownership, delegation control, and cognitive recoverability ([[andragogy-cognitive-delegation-genai-2026|andragogy + cognitive delegation]]).
 - **Fit into busy adult lives.** Make tools asynchronous, mobile, and offline-capable, and connect content to real-world problems ([[ai-adult-learning-guidelines-dis2026|AI-ALOE guidelines]]).
+- **Design for a range of engagement, not assumed depth.** Working adults triage limited cognitive resources across jobs, families and coursework, so a six-semester framework made Socratic AI dialogue more rewarding than the fast route rather than mandatory [[packard-thinking-partner-framework-adult-learners-2026|Packard et al. (2026)]].
 - **Keep a human in the loop.** Position the educator as the locus of relational and cognitive care, especially for marginalized and [[neurodiversity|neurodivergent]] adult learners ([[sovereign-hive-titl-further-education-2026|Tutor-in-the-Loop]]).
 - **Address foundational digital literacy and data trust.** Build [[ai-literacy]] and [[trust]] around data privacy before expecting adoption ([[community-centered-ai-education-adults|community AI education]]).
 - **Ground AI in learning science and andragogy, and prefer deep personalization.** Apply andragogical theory and connect content to real-world problems; favor deep personalization (task sequencing, difficulty calibration) over surface-level adaptation.
@@ -92,5 +93,4 @@ Adult learning sits at the intersection of several closely linked concepts in th
 - [[dot-framework-survey-2026]]
 - [[kim-ai-productive-failure-adult-2026]] — Designing AI Systems to Support Productive-Failure-Based Learning
 - [[kim-ai-andragogy-2026]] — AI Applications in Supporting Andragogy (Kim et al. 2026)
-
-
+- [[packard-thinking-partner-framework-adult-learners-2026]] — Design for a range of engagement: make deep Socratic dialogue the more rewarding path
