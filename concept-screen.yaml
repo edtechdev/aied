@@ -5774,3 +5774,131 @@
     student-engagement, intelligent-tutoring, pedagogical-agent, conversational-ai, generative-ai, llm, scaffolding, self-directed-learning, human-ai-collaboration, feedback, assessment, learning-gains,
     academic-integrity, ai-misuse-learning-harm, student-ai-interaction, human-in-the-loop-ai, problem-solving, learning-design, mixed-methods-research, quantitative-research and teacher-role are framework,
     method or tool references.'
+
+- article: manto-ai-integration-mathematics-education-systematic-review-2026
+  date: '2026-10-15'
+  integrated:
+  - math-education
+  - teacher-ai-competency
+  no_change:
+  - academic-integrity
+  - adaptive-learning
+  - assessment-validity
+  - cognitive-offloading
+  - collaborative-learning
+  - desirable-difficulties
+  - digital-divide
+  - educational-development
+  - equity-in-ai-education
+  - generative-ai
+  - governance
+  - inquiry-based-learning
+  - learning-analytics
+  - meta-analysis-systematic-review
+  - personalized-learning
+  - problem-solving
+  - scaffolding
+  - theories-and-frameworks
+  - tpack
+  - teacher-role
+  reason: 'Integrated where the review contributes a comparative prevalence map no single study can supply. math-education: no page carried a ranking of this domain''s challenges (grep ''teacher readiness'' -> 0, ''frequency'' -> 0) and the page''s only field-level synthesis is a 2021-2025 PRISMA review of 42 studies, so the 54-study ranking (readiness 38, equity 34, deep-reasoning limits 29) accumulates on it. teacher-ai-competency: the page documents the readiness gap qualitatively in depth but carries no comparative weight for it (grep ''mediation'' -> 0, ''most frequent'' -> 0, ''constraint'' -> 0). Declined elsewhere. cognitive-offloading already carries the redistribution claim (grep ''redistribute'' -> 2 at L63) so the review''s temporal-effort framing is the same class; adaptive-learning already carries adaptation depth and pedagogical grounding not technical capability (grep ''pedagogical grounding'' -> 1, ''superficial customiz'' -> 1); assessment-validity already carries attribution
+    and unverifiable authorship (grep ''attribution'' -> 7, ''unverifiable authorship'' -> 1) and academic-integrity authorship boundaries (grep ''authorship'' -> 3); digital-divide already carries robotics access barriers (grep ''robotic'' -> 6, e.g. ARC rural robotics); collaborative-learning carries AI-mediated peer collaboration but the review reports only a frequency and a generic concern, no group-level outcome (grep ''argumentation'' -> 0, ''individualiz'' -> 0); inquiry-based-learning already carries withholding-answer scaffolding and the over-reliance risk (grep ''inaccuracy'' -> 0 but ''productive'' -> 7, clue-before-correction and PF material) so using AI errors as inquiry material restates its existing class; teacher-role already carries mathematics mediation practices (grep ''mediation practices'' -> 2, Canonigo 2026) and readiness-as-design; desirable-difficulties (grep ''productive struggle'' -> 10), scaffolding (grep ''fade'' -> 9), problem-solving, learning-analytics, generative-ai,
+    governance, equity-in-ai-education (grep ''reproduce'' -> 2), educational-development, theories-and-frameworks (grep ''framework'' -> 22), tpack (grep ''teacher readiness'' -> 0 but readiness/TPACK integration carried via intelligent-tpack material), meta-analysis-systematic-review and personalized-learning are framework, method or tool references whose own pages hold no mathematics-specific claim from this source.'
+
+- article: patrick-ai-higher-order-thinking-systematic-review-2025
+  date: '2026-10-15'
+  integrated: []
+  no_change:
+  - academic-integrity
+  - ai-literacy
+  - authentic-assessment
+  - bias-mitigation
+  - cognitive-offloading
+  - conversational-ai
+  - creativity
+  - critical-thinking
+  - educational-policy-ai
+  - experiential-learning
+  - feedback
+  - generative-ai
+  - governance
+  - hallucination-risk
+  - human-ai-collaboration
+  - llm
+  - metacognition
+  - meta-analysis-systematic-review
+  - oral-assessment
+  - personalized-learning
+  - privacy
+  - problem-solving
+  - qualitative-research
+  - self-directed-learning
+  - self-report-measures
+  - student-ai-interaction
+  - student-experience
+  - teacher-role
+  reason: 'No integration: this is a perception-based qualitative synthesis, and every concept it declares is already carried on the target page at greater specificity, so no insertion passed the delete test. academic-integrity: grep ''plagiarism'' -> 7 hits at L40,43,49,73; the page already carries the educator/student interpretation split (''diverges from faculty intent'' -> 1 hit at L59) plus student-voice scoping evidence (Ji 2026) and educator  | ai-literacy: grep ''critically evaluate|critically analyze'' -> 2 hits at L20,22 and ''verify'' -> 6 hits at L10,20,22,43,58,117. Routine verification and critical evaluation of AI output is already the page''s core content, so the review | authentic-assessment: grep ''viva|oral'' -> 10 hits at L24,53,56,57,63,69; the page already carries process-visible and performative assessment as the AI-age redesign, which is exactly the review''s first institutional implication. Second instan | bias-mitigation: grep ''stereotype'' -> 3 hits at L23,41,120. The review reports only that educators worried AI could perpetuate biases and stereotypes, a one-line generic concern the page already handles with mechanism-level material. no_ | cognitive-offloading: grep ''over-?relian'' -> 23 hits at L11,17,22,67 (first four shown); dependency mechanisms and the self-efficacy buffer are already carried (L82, Maizel et al. 2026). The review''s ''slippery slope'' between augmentation and  | conversational-ai: grep ''ChatGPT'' -> 4 hits at L25,35,37,102. The review''s conversational-tool material is tool-level and less specific than what the page already holds. no_change. | creativity: grep ''idea generation|brainstorm'' -> 1 hit at L31. Students reporting that AI surfaces novel viewpoints and alternative perspectives restates the page''s existing brainstorming/divergent-idea material. no_change. | critical-thinking: grep ''higher-order'' -> 13 hits at L22,39,45,47,53,54. The page already carries a 29-experiment meta-analytic anchor (g = 0.609) and the scaffolding-versus-offloading split; the review contributes perception data only and | educational-policy-ai: grep ''guideline'' -> 6 hits at L17,31,43,49,76,137, including quantified guidance-versus-binding-policy maturity gaps (Eldredge 2026, Qian 2026) and the faculty/institution rule-writing asymmetry. The review''s call for cl | experiential-learning: grep ''experiential'' -> 14 hits at L2,6,12,17,18,23. The interactive/experiential framing of AI-mediated learning is already established on the page. no_change. | feedback: grep ''feedback'' -> 108 hits at L3,7,8,13,17,18. Individualized, timely AI feedback is already the page''s central material, at far greater depth than the review reports. no_change. | generative-ai: grep ''ChatGPT'' -> 9 hits at L29,32,36,52,56,58. Generic tool-level coverage; the review adds no generative-AI mechanism. no_change. | governance: grep ''committee'' -> 1 hit at L78; the page already carries a standing multidisciplinary GenAI committee with scheduled reviews (L40, Crompton et al. 2026 Delphi) and student co-design of course policy (L34, Hingle & Johr | hallucination-risk: grep ''misinformation|fabricat|fake reference'' -> 10 hits at L16,21,29,33. Fabricated references, invented particulars and over-confident false claims are already documented with named studies (L33, L35), so the review''s  | human-ai-collaboration: grep ''thinking partner|sparring|human-AI alliance'' -> 1 hit at L29. The only human-AI-collaboration material in the paper is a second-hand citation of Ifenthaler et al.''s ''human-AI-alliance'', which is not the paper''s own | llm: grep ''ChatGPT'' -> 4 hits at L32,49,89,91. Tool-level reference only. no_change. | metacognition: grep ''metacognitive'' -> 58 hits at L18,25,26,32,33,37; ''laziness'' -> 1 hit at L55, which already names ''metacognitive laziness'' as the failure mode the review invokes (via Fan et al. 2025). The concept is fully covered.  | meta-analysis-systematic-review: grep ''thematic synthesis|qualitative synthesis'' -> 5 hits at L34,67,73,85, where the page already illustrates reviews that stop at thematic synthesis rather than pooling. The review is another instance of that documented | oral-assessment: grep ''viva'' -> 6 hits at L24,49,61,76. The page''s own definition already rests on the real-time, AI-resistant oral rationale the review recommends. no_change. | personalized-learning: grep ''individualis|individualiz|personalis|personaliz'' -> 58 hits at L2,8,15,19,20,21. Individualized resources, feedback and tailoring are already the page''s core content. no_change. | privacy: grep ''privacy'' -> 24 hits at L3,16,22,23,25,29. The review reports privacy only as a passing educator concern and cannot develop the page. no_change. | problem-solving: grep ''problem-solving'' -> 9 hits at L7,26,28,34,38,46. The decay of independent problem-solving under over-reliance is already covered on the page. no_change. | qualitative-research: grep ''thematic analysis'' -> 3 hits at L29,30,49. Reflexive thematic analysis is already the page''s documented method, so the review''s use of Clarke and Braun (2013) repeats what the page states. no_change. | self-directed-learning: grep ''self-directed'' -> 11 hits at L3,15,19,28,30,34. Already core to the page; the review''s conversational-engagement material adds no distinguishing claim. no_change. | self-report-measures: grep ''self-report'' -> 39 hits at L2,19,24,28,33,35, and L41 already states that self-report ''cannot measure learning at all''. The review''s limitation (only three of 31 included studies used a specific critical-thinking m | student-ai-interaction: grep ''human-AI interaction|interaction'' -> 21 hits at L2,7,15,21,22,27. Student-AI dialog and interaction structure are already covered. no_change. | student-experience: grep ''Student experience'' -> 6 hits at L2,16,28,83,87,148; the page already frames impacts as positive and negative depending on design (L11) and carries student integrity accounts (L66). The review''s ''positive experienc | teacher-role: grep ''lesson plan|lesson planning'' -> 3 hits at L36,39,52; AI co-creating lesson content, individualized feedback and progress monitoring for teachers is already documented at length (Li et al. 2026 systematic review, Ki'
+- article: corbin-ai-glasses-wearable-ai-assessment-2026
+  date: '2026-10-15'
+  integrated:
+  - remote-proctoring
+  - oral-assessment
+  - assessment-validity
+  no_change:
+  - academic-integrity
+  - assessment
+  - ai-detection
+  - accessibility
+  - assistive-technology
+  - equity-in-ai-education
+  - inclusive-learning
+  - governance
+  - educational-policy-ai
+  - embodied-learning
+  - distributed-cognition
+  - cognitive-offloading
+  - generative-ai
+  - llm
+  - philosophy-of-ai-in-education
+  - theory-development-aied
+  reason: 'Integrated on three pages that carry no wearable/smart-glass material at all (grep ''wearable|smart glass|AI glass'' -> 0 on each): the dual-transparency finding (assistance with no gaze shift, attention shift or posture cue) adds a mechanism they lack. academic-integrity: grep ''proctor|surveillance|ghost|disadvantaged'' -> hits at L36, L39, L49, L81, L141; page already documents the evidentiary collapse of misconduct procedures and the disproportionate burden on disadvantaged students (L49 | assessment: grep ''proctor|summative|integrit'' -> hits at L67, L95; grep ''wearable|smart glass|AI glass'' -> 0 hits. The umbrella assessment hub already delegates proctored/oral formats to [[summative-assessment]] (L95) and AI permiss | ai-detection: grep ''proctor|signal|body|behav'' -> hits at L26, L61, L67, L81; grep ''wearable|smart glass|AI glass'' -> 0 hits. Page scope is textual detection (classifiers, watermarking, detector error rates); Corbin''s shift of scrutin | accessibility: grep ''prohibit|assistive|transcription'' -> hits at L46, L99; grep ''wearable|smart glass|AI glass'' -> 0 hits. Page already carries ''Over-inclusive AI prohibitions and assistive transcription'' (Wright 2026, L46) covering t | assistive-technology: grep ''accommodat|exam|assessment|disab'' -> 11 hits at L26, L32, L36, L45, L60-L61; grep ''wearable|smart glass|AI glass'' -> 0 hits. Page''s subject is the tool/provision layer (screen readers, STT, captioning, policy under | equity-in-ai-education: grep ''prohibit|assess|disab'' -> 20+ hits at L53, L62, L70, L89; grep ''wearable|smart glass|AI glass'' -> 0 hits. Page already documents that assessment rules convert disadvantage into integrity risk (Li 2026, L70) and tha | inclusive-learning: grep ''assessment|anti-cheating|disab'' -> hits at L23, L39, L54, L56, L58; grep ''wearable|smart glass|AI glass'' -> 0 hits. Page already frames the security-vs-accessibility tension in inclusive assessment design (L23, L54 | governance: grep ''prohibit'' -> 5 hits at L49, L67, L74, L78; grep ''invigil|proctor|physical exclusion'' -> 2 hits. Page already treats prohibition as a governance decision, holds that governance must pair detection with redesign (L67 | educational-policy-ai: grep ''prohibit|blanket|assessment'' -> hits at L23, L34, L51, L54, L58, L60; grep ''wearable|smart glass|AI glass'' -> 0 hits. Page already documents that blanket prohibitions fail in practice (McCorkle, L54) and that over- | embodied-learning: grep ''embodied|incorporat|bodily'' -> 20 hits at L13, L17, L20, L24, L26, L28; grep ''wearable|smart glass|AI glass'' -> 0 hits. Page covers embodiment as bodily grounding of learning via educational robots and sensorimotor | distributed-cognition: grep ''distributed|embodied|extended'' -> 19 hits at L34, L38, L40, L43, L45; grep ''wearable|smart glass|AI glass'' -> 0 hits. Page already covers tools as cognitive systems and embodied/extended cognition (L43); the paper'' | cognitive-offloading: grep ''hybrid|embodied|incorporat|wearable'' -> hits at L51, L157; grep ''wearable|smart glass|AI glass'' -> 0 hits. Page documents offloading, over-reliance and cognitive surrender empirically; Corbin''s claim is phenomenolo | generative-ai: grep ''prohibit|proctor|invigil|physical exclusion'' -> 0 hits; grep ''assessment|integrity|detect'' -> 10 hits at L31-L33, L54, L58, L74-L75. Page is a general technology hub; the finding''s subject (wearable AI in exam sett | llm: grep ''prohibit|proctor|invigil|physical exclusion'' -> 0 hits; grep ''assessment|detect'' -> 7 hits at L9, L15, L32, L45, L51, L64, L91. Page is the LLM technology overview; the paper''s assessment-security argument is not i | philosophy-of-ai-in-education: grep ''assessment|epistem|tool'' -> 10 hits at L26, L33, L35, L38-L39, L42, L50; grep ''wearable|smart glass|AI glass'' -> 0 hits. Page is a thematic/philosophical overview and does not treat assessment-security strategies;  | theory-development-aied: grep ''hybrid|embodied|extended|position'' -> hits at L34, L37, L40-L41, L55; grep ''wearable|smart glass|AI glass'' -> 0 hits. Page evaluates theory-development proposals and already notes position papers that offer vocabul'
+- article: ranieri-biagini-ai-higher-education-taxonomy-review-2026
+  date: '2026-10-15'
+  integrated:
+  - theory-development-aied
+  no_change:
+  - constructivist
+  - scaffolding
+  - pedagogy
+  - student-support-and-success
+  - self-directed-learning
+  - generative-ai
+  - intelligent-tutoring
+  - adaptive-learning
+  - learning-analytics
+  - conversational-ai
+  - machine-learning
+  - assessment
+  - feedback
+  - automated-assessment
+  - formative-assessment
+  - meta-analysis-systematic-review
+  - governance
+  - educational-policy-ai
+  - regulation
+  - equity-in-ai-education
+  - privacy
+  - bias-mitigation
+  - ethics
+  - hallucination-risk
+  - digital-divide
+  - ai-education
+  - agentic-ai
+  - agency
+  - academic-integrity
+  - human-ai-collaboration
+  - cognitive-offloading
+  - critical-thinking
+  - theories-and-frameworks
+  - limitations-in-aied-research
+  reason: 'Integrated on the theory-development page, which carries no taxonomy content (grep ''taxonom'' -> 0); the other 34 declared concepts already carry their claim class, several at greater specificity (e.g. agentic-ai already carries the Kostopoulos and Copilot-to-Autopilot autonomy spectra, agency -> 80 hits, cognitive-offloading already documents over-reliance mechanisms). constructivist: grep ''constructiv'' in constructivist.md -> 33 hits, first L3; page already defines constructivism as a learning theory (Lines 33-34 of theories-and-frameworks). | scaffolding: grep ''scaffold'' in scaffolding.md -> 68 hits, first L3. | pedagogy: grep ''pedagog'' in pedagogy.md -> 39 hits, first L2. | student-support-and-success: grep ''student support'' -> 4 hits (L2), ''student-support'' -> 4 (L45), ''advising'' -> 4 (L25) in student-support-and-success.md. | self-directed-learning: grep ''self-directed'' in self-directed-learning.md -> 11 hits, first L3. | generative-ai: grep ''generative'' in generative-ai.md -> 29 hits, first L2; page already profiles GenAI''s educational role. | intelligent-tutoring: grep ''intelligent tutoring'' -> 9 hits (L3), ''tutor'' -> 80 hits (L2) in intelligent-tutoring.md. | adaptive-learning: grep ''adaptive'' in adaptive-learning.md -> 37 hits, first L2. | learning-analytics: grep ''analytics'' in learning-analytics.md -> 42 hits, first L2. | conversational-ai: grep ''chatbot'' -> 22 hits (L12), ''conversational'' -> 27 (L2) in conversational-ai.md. | machine-learning: grep ''machine learning'' -> 12 hits (L2), ''predictive model'' -> 4 hits (L18) in machine-learning.md. | assessment: grep ''assess'' in assessment.md -> 68 hits, first L3. | feedback: grep ''feedback'' in feedback.md -> 108 hits, first L3. | automated-assessment: grep ''automated assess'' -> 13 hits (L2), ''automated grad'' -> 10 hits (L21) in automated-assessment.md. | formative-assessment: grep ''formative'' in formative-assessment.md -> 36 hits, first L2. | meta-analysis-systematic-review: grep ''systematic review'' -> 35 hits (L2), ''meta-analys'' -> 40 (L2), ''PRISMA'' -> 16 (L23) in meta-analysis-systematic-review.md. | governance: grep ''governance'' in governance.md -> 51 hits, first L2. | educational-policy-ai: grep ''policy'' in educational-policy-ai.md -> 56 hits, first L2. | regulation: grep ''regulat'' in regulation.md -> 22 hits, first L2. | equity-in-ai-education: grep ''equity'' in equity-in-ai-education.md -> 35 hits, first L2. | privacy: grep ''privacy'' in privacy.md -> 24 hits, first L3. | bias-mitigation: grep ''bias'' in bias-mitigation.md -> 38 hits, first L3. | ethics: grep ''ethic'' in ethics.md -> 54 hits, first L2. | hallucination-risk: grep ''hallucinat'' in hallucination-risk.md -> 14 hits, first L2. | digital-divide: grep ''digital divide'' -> 10 hits (L2), ''access gap'' -> 3 hits (L59) in digital-divide.md. | ai-education: grep ''AI in education'' -> 16 hits (L2), ''AIED'' -> 21 (L19), ''taxonom'' -> 0 in ai-education.md; the umbrella page already maps the field by concept strand, so another classification is not distinguishing. | agentic-ai: grep ''agentic'' in agentic-ai.md -> 60 hits (L3), ''autonomous'' -> 10 (L18); the page already carries the Kostopoulos autonomy spectrum (L37) and the Copilot-to-Autopilot spectrum (L82), so an unobserved autonomous endpoin | agency: grep ''agency'' in agency.md -> 80 hits (L2), ''delegat'' -> 8 (L21); page already carries the interpretive-authority configurations (L58), so a further gradient is not distinguishing. | academic-integrity: grep ''academic integrity'' -> 10 hits (L2), ''integrity'' -> 55 (L2) in academic-integrity.md. | human-ai-collaboration: grep ''human-AI'' -> 20 hits (L7), ''collaborat'' -> 51 (L2) in human-ai-collaboration.md. | cognitive-offloading: grep ''offload'' in cognitive-offloading.md -> 81 hits (L2), ''over-reliance'' -> 21 (L11); the page already carries dependent-vs-autonomous offloading and quasi-oracular dependence (L141, L144). | critical-thinking: grep ''critical thinking'' in critical-thinking.md -> 23 hits, first L3. | theories-and-frameworks: grep ''framework'' -> 18 hits (L2), ''taxonom'' -> 0 in theories-and-frameworks.md; the page inventories learning, design and measurement frameworks used by the knowledge base, and the application-classification taxonomy is  | limitations-in-aied-research: grep ''limitation'' -> 11 hits (L2); page already carries synthesis-rigor and retrieval-design caveats (L40, L43) and pre-registration under FAIR practice (L68), so an unregistered protocol is another instance.'

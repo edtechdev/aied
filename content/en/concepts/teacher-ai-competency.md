@@ -1,7 +1,7 @@
 ---
 title: Teacher AI Competency
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-10-15T10:00:00-04:00"
+updated: "2026-10-15T21:08:00-04:00"
 connected_faqs: [faculty-ai-competencies, addressing-common-misconceptions-ai-education, faculty-development-ai]
 type: concept
 foundations: [ai-literacy, educational-development, teacher-role]
@@ -54,6 +54,8 @@ A stronger version of that reframing holds that GenAI is a threshold concept rat
 ## The competency gap
 
 A key finding is the **gap between [[self-report-measures|self-reported]] and performance-based competency**. [[ai-literacy-assessment-misalignment|Research on AI-literacy assessment]] documents a substantial discrepancy (up to ~40%) between what teachers *believe* they can do and what they can actually *demonstrate* — teachers confident in AI skills often lack foundational prompting and evaluation abilities. This motivates **[[assessment|performance-based assessment]]** of teacher competency rather than reliance on self-report, and connects to [[self-assessment|calibrated self-assessment]]. A national survey of 2,586 Nigerian secondary teachers measured the two sides with separate instruments — moderate AI awareness (M = 3.13 of 8) against lower AI pedagogical skill (M = 2.47 of 5) — with early- and mid-career teachers reporting higher skill than experienced colleagues ([[nigerian-teachers-ai-awareness-pedagogical-skills-2026|Olurinola et al., 2026]]).
+
+**Readiness is the most-documented obstacle in the mathematics literature.** A review of 54 mathematics-education studies found technological–pedagogical integration and teacher readiness the most frequently reported challenge (38 of 54), ahead of assessment validity and integrity (26) and overreliance (24) ([[manto-ai-integration-mathematics-education-systematic-review-2026|Manto et al. (2026)]]).
 
 The gap is not only between perceived and actual skill but in the *breadth* of what teachers know: a national survey of 2,018 Ukrainian secondary educators found 84% reported using AI in professional practice while only 11% could name a specialized AI service beyond ChatGPT ([[ukraine-ai-literacy-secondary-framework-2026|Marienko, Markova & Semerikov (2026)]]). A second narrowness shows in what teachers volunteer rather than what they can name: 53 in-service teachers tagging their own classroom cases against the OECD AI Literacy Framework described 43 AI-literate practices against only 10 failures ([[ailithub-ai-literacy-case-infrastructure-2026|Wang et al., 2026]]). Their competency selections clustered on practical judgment (evaluating AI outputs, N = 38) and rarely reached societal bias (N = 5), ethical alignment (N = 6) or AI's energy use (N = 9).
 
@@ -138,6 +140,7 @@ The instrument landscape itself has since been reviewed. [[assessing-teachers-ai
 - [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
 
 ## Connected Articles
+- [[manto-ai-integration-mathematics-education-systematic-review-2026]] — Teacher readiness and technological–pedagogical integration as the most frequently reported challenge across 54 mathematics-education studies (Manto et al. 2026)
 - [[multimodal-assessment-literacy-l2-teachers-genai-2026]] — Multimodal assessment literacy: a year-long program where knowledge and competence moved and values did not
 - [[teacher-ai-literacy-professional-development-meta-2026]]
 - [[intelligent-tpack-pd-intervention-hongkong-2025]] — Intelligent-TPACK PD: half a standard deviation of gain, and negative gains that read as recalibration — The impact of professional development programs on K-12 teachers' AI literacy: A systematic review and meta-analysis

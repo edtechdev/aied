@@ -1,7 +1,7 @@
 ---
 title: Oral Assessment
 created: "2026-09-23T08:35:38-04:00"
-updated: "2026-09-30T16:25:27-04:00"
+updated: "2026-10-15T21:52:00-04:00"
 connected_faqs: [redesign-assessment-ai-era, ai-feedback-at-scale]
 type: concept
 foundations: [academic-integrity, critical-thinking]
@@ -68,6 +68,8 @@ Three findings cut against reading oral scores as learning gains. [[asynchronous
 
 The binding constraint is staffing and hardware rather than pedagogy, and the corpus is unusually candid about the arithmetic: twenty-eight contact-hours per semester for fifteen students, eleven teaching assistants for a class of over one hundred in the CS1 design, and one laptop serving twelve simultaneous learners in the offline vocational deployment. No randomized trial of oral against written assessment exists anywhere in this body of work, and every study that measures the difference is a single-institution design without a control group. Oral assessment is well supported as a response to AI-assisted substitution, and thinly supported as an improvement in learning.
 
+The oral's integrity rationale is also time-limited: [[corbin-ai-glasses-wearable-ai-assessment-2026|Corbin et al. (2026)]] argue that AI glasses and earbuds can deliver covert real-time prompts inside a live viva, because wearable AI produces no gaze shift or detectable signal, so interactive orals are no longer immune.
+
 
 - **The scale ceiling is the design constraint.** In a workshop with 73 [[cs-education|computing]] educators, oral and interactive assessment was reported as the strongest available evidence of individual understanding and the least scalable remedy; the mitigations participants described were distribution and sampling - shared teaching-assistant pools, peer assessment weighted below a final exam, and calling on a rotating subset of students ([[computing-assessment-genai-workshop-report-2026|Akbar et al., 2026]]).
 
@@ -87,6 +89,7 @@ The binding constraint is staffing and hardware rather than pedagogy, and the co
 - [[higher-ed]] — the setting almost all of this evidence comes from
 
 ## Connected Articles
+- [[corbin-ai-glasses-wearable-ai-assessment-2026]] — Live vivas are no longer immune: AI glasses and earbuds deliver covert real-time prompts (Corbin, Sharpe & Dawson 2026)
 
 - [[fenton-oral-exams-ai-authentic-assessment-2025]] — Reconsidering the use of oral exams and assessments (Fenton 2025)
 - [[asynchronous-oral-assessment-2026]] — Asynchronous oral assessments: integrity, engagement and professional communication

@@ -1,7 +1,7 @@
 ---
 title: Remote Proctoring
 created: "2026-08-20T04:50:00-04:00"
-updated: "2026-10-03T01:40:50-04:00"
+updated: "2026-10-15T21:52:00-04:00"
 type: concept
 foundations: [academic-integrity]
 pedagogy: [online-teaching-and-learning]
@@ -44,6 +44,7 @@ Remote proctoring exists on a spectrum. **Online proctoring** typically involves
 - **The integrity rationale did not survive the largest test.** Across four waves and 1,760 students in 105 courses, proctoring raised test anxiety (β = 0.60, p < 0.001) but had no effect on the temptation to cheat, perceived difficulty, or grades, so the surveillance cost was not offset by deterrence ([[conijn-fear-big-brother-proctored-exams-2022|Conijn et al. (2022)]]).
 - **Equity and the digital divide.** Device dependency, unstable internet, lighting, and hardware variability disproportionately disadvantage rural and low-bandwidth students; model accuracy can vary across demographics and environments, risking unfair flagging.([[digital-divide]]), [[equity-in-ai-education]] A scoping review of proctoring in [[nursing-education|nursing]] assessment shows this is not an edge case: four of its six included studies reported internet connectivity problems, one reported load shedding alongside limited data bundles, and device incompatibility, browser-extension faults and failed environmental scans were routine — so infrastructural inequity, not only model bias, determines who can be assessed at all.([[harerimana-remote-proctoring-nursing-scoping-2026]])
 - **Detection gaps and the arms race.** Identity spoofing (photos/video masking), browser use, and copy-paste remain hard to catch reliably; detection accuracy is bounded by dataset limitations, single-model evaluation, and reproducibility gaps. Proctoring does not fully solve integrity, and can create a false sense of security.
+- Wearable AI removes the behavioral signal proctoring depends on: [[corbin-ai-glasses-wearable-ai-assessment-2026|Corbin et al. (2026)]] argue that AI glasses, earbuds, and AI-enabled hearing aids deliver covert assistance with no gaze shift, attention shift, or posture cue, so invigilation and device surrender lose the cues they rely on.
 - **The governance question.** Whether surveillance is the right response versus [[authentic-assessment|assessment redesign]] (oral, process-based, [[eportfolio|portfolio]]) is an open institutional decision; remote proctoring is one tool, not a complete solution.([[governance]]) The exposure that follows when enforcement goes wrong — accusations resting on scores and event logs, retention and onward processing of captured data, and rules that fall unevenly on disabled or non-native-speaker students — is mapped on [[legal-issues-and-risks]].
 
 ## Evidence base
@@ -79,6 +80,7 @@ Remote proctoring exists on a spectrum. **Online proctoring** typically involves
 - [[higher-ed]]
 
 ## Connected Articles
+- [[corbin-ai-glasses-wearable-ai-assessment-2026]] — Wearable AI removes the behavioral signal proctoring depends on (Corbin, Sharpe & Dawson 2026)
 
 - [[automated-online-exam-proctoring-decade-review-2026]] — Decade-long systematic review of automated online exam proctoring
 - [[academic-dishonesty-automated-proctoring-ai-2026]] — Comprehensive review of academic dishonesty in automated proctoring

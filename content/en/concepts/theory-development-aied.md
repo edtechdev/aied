@@ -1,7 +1,7 @@
 ---
 title: Theory Development in AI in Education
 created: "2026-08-22T07:08:19-04:00"
-updated: "2026-09-30T12:20:22-04:00"
+updated: "2026-10-15T21:52:00-04:00"
 type: concept
 foundations: [ai-education, limitations-in-aied-research]
 pedagogy: [learning-theories]
@@ -62,6 +62,8 @@ Other work extends existing theory into the AI context rather than founding new 
 
 [[metacognitive-ownership-human-ai-regulation-2026|Lin and Chang (2026)]] extend [[self-regulated-learning]] and human–AI regulation by naming what the learner governs — standards, evaluative judgments, and control authorization — rather than only what the AI does.
 
+[[ranieri-biagini-ai-higher-education-taxonomy-review-2026|Ranieri & Biagini (2026)]] advance the field's functional taxonomy of Zawacki-Richter et al. (2019): among the 154 publications with a classifiable application function, 90 (58.4%) escaped its four categories, and their framework crosses function with delegated control, epistemic position and embedded pedagogy.
+
 [[deceptive-overgeneralization-adaptive-learning-2026|An, McLaren, and Stamper (2026)]] advance ACT-R and the Knowledge-Learning-Instruction framework by theorizing *deceptive overgeneralization* — a failure mode in which knowledge compilation yields an overgeneralized production that produces correct actions while omitting a critical application constraint — and by empirically validating a detection/remediation procedure across adaptive ITSs and a [[k-12]] decimal-learning dataset.
 
 **Postphenomenology and technological mediation.** [[farazouli-navigating-uncertainty-teachers-genai-2026|Farazouli et al. (2026)]] advance the established postphenomenological framework of technological mediation (Ihde 1990; Verbeek 2006, 2011; Rosenberger & Verbeek 2015) into the AI-in-education context. Rather than proposing a new theory, they apply it to reconceptualize GAI [[conversational-ai|chatbots]] as *multistable technological artifacts* whose "scripts" (rapid responsiveness, natural-sounding text that can achieve passing grades) mediate teachers' perceptions and reconfigure their practices — unsettling teacher confidence, reshaping what competence means, and pushing teachers beyond instrumental questions of acceptable use toward re-evaluating their role and the meaning of teaching. This is a theory-*advancement* contribution: it demonstrates how a philosophical account of human–technology relations explains the emotional and professional disruption teachers experience when GAI enters established educational practice.
@@ -95,6 +97,7 @@ Theory development and [[philosophy-of-ai-in-education|the philosophy of AI in e
 - [[cognitive-surrender]]
 
 ## Connected Articles
+- [[ranieri-biagini-ai-higher-education-taxonomy-review-2026]] — Extending the functional taxonomy: 90 of 154 classifiable publications (58.4%) fall outside the original four categories (Ranieri & Biagini 2026)
 - [[yan-agentivism-learning-theory-ai-2026]] — A mid-range learning theory for human-AI interaction, with four mechanisms and six testable propositions (Yan and Gašević 2026)
 
 - [[deceptive-overgeneralization-adaptive-learning-2026]] — Deceptive overgeneralization: adaptive mastery can stop practice before learners know when to withhold an action (An, McLaren & Stamper 2026)

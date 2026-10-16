@@ -1,7 +1,7 @@
 ---
 title: Math Education
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-05T11:00:00-04:00"
+updated: "2026-10-15T21:05:00-04:00"
 type: concept
 pedagogy: [scaffolding]
 technology: [generative-ai, intelligent-tutoring]
@@ -40,6 +40,8 @@ Mathematics education has become a primary domain for [[ai-education|AI in educa
 **Teacher support** explores AI tools for math educators. **Simulated-student role-play** also serves teacher practice: [[zhuang-zhang-chatgpt-math-teacher-education-2026|Zhuang and Zhang (2025)]] built *Student GPT*, a custom ChatGPT [[conversational-ai|chatbot]] that role-played a middle school student holding common ratio-reasoning [[misconceptions]], giving preservice secondary math teachers low-risk practice at diagnosing and guiding student thinking toward correct solutions — illustrating [[generative-ai|GenAI]]-powered [[simulation]] as a complement to costly platforms like TeachLivE for building pedagogical content knowledge about student misconceptions.
 
 The knowledge base's only field-level synthesis of this domain is a 2021–2025 PRISMA review of 42 studies screened from 922 records (Cohen's kappa = 0.88), and it adds a category the page's clusters otherwise lack: teacher-facing automation, where MATH41 supports rapid production of mathematics tasks for learners at different levels and the hybrid model CognifyNet analyses students' activity patterns so educators can detect emerging difficulties early. The same review locates the field's blind spot — with Education at 60% and Computer Science at 28% of study domains, only one study fell in Psychology, leaving emotional impact, trust and ethics comparatively underexplored — and insists that technical capability should not be equated with demonstrated classroom effectiveness. ([[ai-mathematics-education-prisma-review-2026]])
+
+The domain's challenge ranking puts teacher capacity first. A second systematic review, of 54 studies from 2017-2025, counted technological–pedagogical integration and teacher readiness in 38, equity and access risks in 34 and limits to deep reasoning in 29, and links them to instructional responses in a three-dimensional framework ([[manto-ai-integration-mathematics-education-systematic-review-2026|Manto et al. (2026)]]).
 
 **Higher education math** explores AI's impact on advanced math practice. **[[genai-runaway-object-math-higher-ed|Bui et al.]]** applied [[sociocultural-learning|socio-cultural]] theory to [[generative-ai|GenAI]] in university mathematics, analyzing AI as a "runaway object" that transforms academic practice in ways that outpace [[governance|institutional]] and pedagogical norms.
 
@@ -95,6 +97,7 @@ Math education sits within the broader [[stem-education]] domain with distinctiv
 - [[teacher-education]]
 
 ## Connected Articles
+- [[manto-ai-integration-mathematics-education-systematic-review-2026]] — AI integration in mathematics education: implementation challenges and pedagogical implications (Manto et al. 2026)
 - [[ai-mathematics-education-prisma-review-2026]] — Artificial intelligence in mathematics education: A PRISMA-based systematic literature review (2021-2025)
 - [[automated-scoring-economics-math-items-nigeria-2026]] — Automated software scoring of senior school certificate examination mathematical items in economics using a contextual similarity model
 - [[mindful-llm-math-tutoring-2026]] — Beyond Problem Solving: Large Language Models for Emotional and Reflective Support in Mathematics Learning
