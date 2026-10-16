@@ -1,7 +1,7 @@
 ---
 title: Assessment Validity
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-14T11:15:00-04:00"
+updated: "2026-10-15T21:52:00-04:00"
 connected_faqs: [redesign-assessment-ai-era, reporting-interpreting-aied-research, asynchronous-online-courses-ai, checking-whether-educational-ai-works]
 type: concept
 foundations: [academic-integrity]
@@ -84,6 +84,8 @@ AI challenges validity at the epistemic level: [[end-of-assessment-ai-disruption
 
 The sharpest recent reframing treats the generative AI problem as an evidentiary one. The student knows how a piece of work was produced; the institution observes the artifact and, at best, partial traces of the process — a product–process gap that [[mohamed-temimi-assessment-imperfect-information-disclosure-2026|Mohamed and Temimi (2026)]] formalize as assessment validity under imperfect information. On this account the question is not whether a rule was broken but whether the assessment still generates credible evidence of student reasoning, effort, and judgment, and each [[governance|institutional]] mechanism — prohibition, monitoring, disclosure, redesign — is evaluated by which student response it makes most attractive. The validity lens also dissolves a false separation: integrity and validity are the same problem seen from different ends, because a finding of misconduct is itself a validity claim about what the work evidences.
 
+Wearable AI closes the last evidentiary gap rather than widening one: [[corbin-ai-glasses-wearable-ai-assessment-2026|Corbin et al. (2026)]] argue that AI glasses and earbuds deliver assistance with no external signal, so a candidate can be present, supervised, and still not demonstrate unaided capability, dissolving the separability and observability that invigilated formats assumed.
+
 A learner-side framework names the inference targets an artifact cannot settle by itself. [[gifted-potential-ai-assisted-work-attributional-validity-2026|Sak (2026)]] proposes *attributional validity* for judgments of gifted potential from AI-assisted work: the relation from capability to product is many-to-one, because learner competence, model capability, the learner's direction, human–AI fit and context combine differently to yield equivalent artifacts, so the product cannot identify the capacity behind it. The framework separates four targets of inference — independent competence, intellectual [[agency]], hybrid capability, and developmental carryover — and names three errors that follow when one target's evidence is read as another's: overattribution, developmental illusion, and presumed capability equivalence. Its demand on the record mirrors the evidentiary discipline this section draws from the misconduct literature: name the capability a judgment is about, document how the work was produced (model and version, interface, permitted functions, adult mediation, access conditions), and require later evidence of [[transfer-of-learning|transfer]] before reading assisted performance as a change in the learner.
 
 [[teichmann-detecting-undetectable-misconduct-2026|Teichmann (2026)]] draws the procedural consequence: where prohibited use cannot be detected, a regime that still accuses on detector scores cannot warrant the inference it draws, and so produces unfairness without effectiveness. He argues for replacing the forensic question — did the student use AI? — with a validity question — did the student demonstrate the capability the task was designed to certify? — which relocates institutional effort into program-level assessment across linked tasks, oral and supervised elements at certification points, and [[evaluative-judgment]] as an explicit object of assessment.
@@ -127,6 +129,7 @@ Run-to-run stability is not guaranteed, however: repeating the same grading on i
 - [[assessment]]
 
 ## Connected Articles
+- [[corbin-ai-glasses-wearable-ai-assessment-2026]] — Wearable AI dissolves separability and observability, so a supervised candidate can still not demonstrate unaided capability (Corbin, Sharpe & Dawson 2026)
 - [[ivory-psychology-assessment-integrity-2026]] — Program-level pass/fail susceptibility and the marking criteria that let fabricated values pass (Ivory et al. 2026)
 - [[zou-is-this-a-trap-student-teachers-genai-2026]] — Permission alone doesn't degrade validity: engagement unaffected by GenAI use; reflection resists generic substitution
 - [[ai-agents-joyful-assessment-third-space-2026]] — AI agents, joyful assessment, and third space
