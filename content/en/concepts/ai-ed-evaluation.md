@@ -1,7 +1,7 @@
 ---
 title: AI Ed Evaluation
 created: "2026-05-29T10:44:35-04:00"
-updated: "2026-10-03T02:57:43-04:00"
+updated: "2026-10-16T08:47:09-04:00"
 type: concept
 foundations: [agentic-ai, teacher-role]
 technology: [generative-ai, human-in-the-loop-ai, llm]
@@ -96,6 +96,7 @@ Context-conditioned benchmarks are needed: [[zhang-tutormoments-2026|Zhang et al
 - **The metric you choose can reverse your conclusions.** [[zhang-platform-scores-miss-ai-teaching-agents-2026|Zhang et al. (2026)]], evaluating AI teaching agents in [[medical-education|medical education]], found that an [[edtech-platform|educational platform]]'s undisclosed aggregate scores ranked agents nearly opposite to a transparent, expert-validated 8-dimension teaching-quality rubric (medical knowledge accuracy, pedagogical guidance, knowledge coverage, role-play quality, adaptive difficulty, medical safety, engagement, feedback). Platform scores index student performance; the rubric indexes agent teaching behavior -- choosing the wrong metric determines which agents get adopted or refined. They also found LLM-as-evaluator leniency differs by model (some too lenient to discriminate), so automated scoring needs human calibration and is most trustworthy on cognitive-process dimensions.
 - **An error rate can hide the failure it is meant to catch.** [[ai-mediated-input-medical-english-asr-2026|Stanchev (2026)]] sent one text-to-speech recording of a medical English passage to four [[speech-and-voice-technologies|ASR]] services: the two free services returned 87.96% and 88.34% of the reference, while the two paid services returned 32.76% and 55.35% previews and so scored word-error rates of 73.21% and 48.77%. The high error rates came from tokens never returned rather than tokens misheard, so ranking on error rate alone treated an export restriction as a transcription failure. Coverage belongs beside the error rate whenever an automated metric stands in for the artifact a learner sees.
 - **Anchor evaluation suites to measured learning, not proxies.** Teaching-capability benchmarks, conversational-pedagogy rubrics and tutor latency should be validated against actual learning gains rather than treated as stand-ins for them, and latency is itself an evaluation axis because it shapes whether students engage at all ([[studentbench-ai-human-tutoring-gre-2026|Northcutt et al., 2026]]).
+- **A bibliometric map can expose what an evaluation culture rewards.** Across 1,403 medical-education publications, the most-cited works measured model capability — above all ChatGPT's performance on licensing examinations — while [[governance|governance]] scholarship lagged, so the authors call for empirical evaluation of governance frameworks rather than more capability tests ([[sriram-ethical-ai-medical-education-bibliometric-2026|Sriram et al. (2026)]]).
 - **Expert-judgment evaluations need their own reliability accounting.** [[bespoke-industry-personalized-lecture-videos-2026|Puech et al. (2026)]] had 25 domain-matched experts rate 92 generated [[video-education|lecture videos]] against a rubric anchored to "a standard MOOC lecture's quality," judging 87% at or above the bar (mean 3.42 of 5). Every video was rated once by one reviewer (k = 1), so the design spreads the panel across the corpus at the cost of an inter-rater agreement statistic; a random-intercept model attributed about 35% of residual variance to the reviewer (ICC = 0.35) and the paper reports reviewer-clustered intervals instead of a single precision figure. An evaluation built on expert judgment is only as strong as the reliability analysis it publishes.
 
 ## Connected Concepts
@@ -158,3 +159,4 @@ Context-conditioned benchmarks are needed: [[zhang-tutormoments-2026|Zhang et al
 - [[synthetic-educational-data-structural-fidelity-2026]] — What Fidelity Metrics Miss: A Structural Check on Synthetic Educational Data
 - [[bloom-classifier-ai-assisted-questions-2026]] — Evaluation of pre-trained models for pedagogical assessment of novel AI-assisted educational questions
 - [[llm-judge-evaluation-educational-ai-2026]] — When Evaluators Cry Wolf: Lessons from Production LLM-as-Judge Evaluation in Educational AI
+- [[sriram-ethical-ai-medical-education-bibliometric-2026]] — A bibliometric map can expose what an evaluation culture rewards

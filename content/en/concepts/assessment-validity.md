@@ -1,7 +1,7 @@
 ---
 title: Assessment Validity
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-15T21:52:00-04:00"
+updated: "2026-10-16T08:47:09-04:00"
 connected_faqs: [redesign-assessment-ai-era, reporting-interpreting-aied-research, asynchronous-online-courses-ai, checking-whether-educational-ai-works]
 type: concept
 foundations: [academic-integrity]
@@ -71,6 +71,8 @@ A design-level counterpart comes from the same population the redesign argument 
 [[sharma-judgment-visible-genai-assessment-2026|Sharma (2026)]] supplies a redesign argument on the integrity side that turns integrity evidence into validity evidence. Extending Eaton's (2023) postplagiarism framing into assessment design, he argues that detection- and verification-based integrity models are misaligned with work in which human judgment and machine generation are entangled, and reframes integrity as a [[pedagogy|pedagogical]] practice enacted through [[evaluative-judgment]] — the capacity to weigh options, justify academic choices and assume responsibility under epistemic uncertainty. The design consequence is that integrity should be evidenced rather than inferred: annotated decision trails, verification of GenAI-contributed claims, [[oral-assessment|oral defense]] and version history are offered as integrity artifacts, and he is explicit that the difference from [[authentic-assessment]] is epistemic — authenticity asks whether a task mirrors real-world practice, integrity-oriented design asks whether learners can justify decisions and assume responsibility against disciplinary standards, so integrity becomes an assessable criterion embedded in the task architecture. He names the validity risk of his own proposal rather than leaving it implicit: requiring documented reasoning privileges learners fluent in reflective discourse and risks "the replacement of one compliance regime with another", because judgment as evidence "remains relational and situated rather than mechanically verifiable" — the same interpretive-reliability problem this page records for every AI-mediated assessment.
 
 [[weidlich-inference-at-risk-assessment-validity-2026|Weidlich (2026)]] reframes redesign as a question of which inference a change is meant to protect. Working from Kane's argument-based validity, he separates five pressures that debate tends to collapse into one: construct underrepresentation, construct-irrelevant variance, attribution of performance, conditional extrapolation, and unsupported score use. AI use is not automatically a threat, because tool use is germane where the intended construct is AI-supported professional judgment and bypasses the target performance where it is unaided reasoning, so construct and AI conditions have to be specified together. His caution for redesign follows, since interventions trade one pressure for another: oral defenses may strengthen attribution while reducing reliability or accessibility.
+
+The outcome construct moves the estimate too: in a three-level meta-analysis of GenAI-supported problem-based and [[project-based-learning|project-based learning]], [[chen-pbl-pjbl-genai-meta-analysis-2026|Chen et al. (2026)]] found learner-internal outcomes pooled at g = 0.819 while measures of the joint human-AI product returned g = 1.958 with a prediction interval crossing zero, modeled separately precisely because that product is not internalized learning.
 
 ### Connections
 
@@ -171,3 +173,4 @@ Run-to-run stability is not guaranteed, however: repeating the same grading on i
 - [[llm-grading-assistants-public-health-2026]] — Five-day repeat grading of identical submissions gave Krippendorff's alpha 0.625
 - [[villanueva-ai-vulnerability-assessment-audit-2026]] — AI Vulnerability Index: most assessed marks rest on unverifiable authorship, so validity rests on sufficient evidence at key stages rather than maximum security- [[llm-tutor-pedagogical-metric-degradation-2026]] — A pedagogical-adaptivity metric rose while blind expert ratings fell: measurement validity does not imply optimization validity (Domínguez Figaredo & Fernández De la Cruz 2026)
 - [[genai-english-proficiency-validity-2026]] — Has the Target Moved Again? GenAI and the Validity of English Proficiency Scores
+- [[chen-pbl-pjbl-genai-meta-analysis-2026]] — The outcome construct moves the estimate: g = 1.958 for the joint human-AI product

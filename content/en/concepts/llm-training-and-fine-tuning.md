@@ -1,7 +1,7 @@
 ---
 title: LLM Training and Fine-Tuning
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-10-02T08:08:45-04:00"
+updated: "2026-10-16T08:47:09-04:00"
 type: concept
 connected_faqs: [making-ai-better-at-supporting-learning, training-ai-tutors-to-guide-rather-than-answer, checking-whether-educational-ai-works]
 foundations: [ai-education]
@@ -64,6 +64,7 @@ When a general model cannot be made to hold a property you need, fine-tuning on 
 The pattern repeats across very different tasks:
 
 - **Curriculum grounding.** A 24,795-example multilingual instruction dataset grounded in Indian Knowledge Systems produced a 7B fine-tune scoring **6.39** on a five-judge external panel (median over 1,201 stratified items). That is within **0.15** of a strong general reference model at a fraction of the deployment cost — while the same base model scored **near zero on IKS-specific dimensions** without the fine-tune ([[iks-instruct-dataset-indian-knowledge]]). That gap between "competent generally" and "competent here" is the whole case for domain adaptation. Note also the counterintuitive detail the authors report: quality did **not** rise monotonically with data curation.
+- **[[curriculum-design|Curriculum]]-structured data is sample-efficient.** Under a matched budget of roughly 2,300 samples, fine-tuning on question–answer pairs derived from a K–12 [[knowledge-graph|knowledge graph]] of People's Education Press textbooks beat equally sized slices of eight mainstream instruction corpora, and the gains transferred beyond the trained subjects, evidence that curriculum structure is what distinguishes educational training data ([[liang-k12-kgraph-curriculum-knowledge-graph-2026|Liang et al. (2026)]]).
 - **Assessment reliability, cheaply.** A single LoRA adapter trained on roughly **3,900** pooled graded examples brought five small open models (4B–30B) to parity or better with a human grader across two computer-science exams, and nearly erased persona sensitivity (drift ≤ 0.32 MAE) ([[llm-graders-computer-science-exams-2026]]). One adapter, one dataset, several base models — this is the shape of a practical deployment.
 - **Selective automation.** Confidence was a reliable predictor of scoring error (β = −0.602, p < .001). Routing the least confident **20%** of responses to human review moved a fine-tuned GPT-3.5 model from r = 0.781 to **r = 0.822** (RMSE 0.5990 → 0.5544) while cutting manual scoring work by roughly **80%** ([[know-when-to-trust-ai-scoring-reliability-2026]]). Fine-tuning here is not replacing the human; it is making the human's attention affordable.
 - **Measuring constructs you would otherwise hand-score.** Fine-tuned Hungarian transformers (hubert-base-cc, PULI-BERT-Large) were benchmarked against TF-IDF features and Qwen3 embeddings for scoring reflective writing in [[teacher-education|teacher training]] ([[reflection-level-classification-hungarian-essays-2026]]), and a fine-tuned multimodal model (Qwen3.5-based) was shown to reconstruct item characteristic curves for multiple-choice items, learning the response patterns encoded in 3PL and MCM curves rather than being told them ([[multimodal-item-parameter-estimation-2026]]).
@@ -210,3 +211,4 @@ This page is the *how a model is made* companion to [[llm]], which covers what l
 - [[simulated-students-tutoring-dialogues-2026]] — whether simulated students behave like students
 - [[inside-llm-student-simulator-reasoning-2026]] — fine-tuning a model to act and think like a student
 - [[history-aware-student-simulation]] — simulation conditioned on a learner's trajectory
+- [[liang-k12-kgraph-curriculum-knowledge-graph-2026]] — Curriculum-structured data is sample-efficient

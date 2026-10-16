@@ -1,7 +1,7 @@
 ---
 title: Network Analysis
 created: "2026-08-22T01:40:00-04:00"
-updated: "2026-10-04T10:50:04-04:00"
+updated: "2026-10-16T08:47:09-04:00"
 type: concept
 technology: [knowledge-graph, learning-analytics]
 confidence: high
@@ -26,6 +26,7 @@ Network analysis methods share a core premise: that the structure of connections
 ## Variants used in the knowledge base's corpus
 
 - **Epistemic Network Analysis (ENA)** — the most common variant in the knowledge base (discussed in ~24 articles). ENA models the co-occurrence of codes or constructs within segments of discourse or activity, producing networks that show which ideas, skills, or epistemic actions tend to be connected in a given context. It is used to compare how different groups (e.g., high- vs. low-literacy learners, human vs. AI collaborators) structure their cognition. ([[tracing-genai-literacy-interaction-patterns]]) ([[hao-human-ai-collaborative-problem-solving-cognition]])
+- **ENA also maps [[teacher-role|educators]]' competency talk.** Applying Epistemic Network Analysis to interviews with 24 higher education educators in Aotearoa New Zealand modeled the links among seven HACC dimensions and found principal educators' networks differing significantly from senior educators (U = 10.00, p = .04) and early-career educators (U = 7.00, p = .01) on the first axis ([[dang-human-ai-collaboration-competency-2026|Dang et al. (2026)]]).
 - **Social Network Analysis (SNA)** — models relationships between people (learners, teachers, agents) to reveal collaboration structures, influence, centrality, and community. Useful for studying [[collaborative-learning|collaborative]] and peer learning. ([[misiejuk-cognitive-offloading-prompting-2026]])
 - **Transition Network Analysis (TNA)** — models temporal sequences of discrete states (e.g., learner actions in a tutoring session) as a directed network, quantifying the probability of moving between states. TNA is used to reveal behavioral loops, pathways, and uptake dynamics in learner–AI interaction. ([[penny-transition-network-analysis-efl-writing-2026]])
 
@@ -88,3 +89,4 @@ Network methods are used across the knowledge base's evidence base to answer que
 - [[youtube-frames-chatgpt-education]] — ENA of YouTube frames of ChatGPT in education
 - [[agency-gap-ai-writing]] — The agency gap in AI-supported writing (ENA)
 - [[synthetic-educational-data-structural-fidelity-2026]] — What Fidelity Metrics Miss: A Structural Check on Synthetic Educational Data
+- [[dang-human-ai-collaboration-competency-2026]] — ENA also maps educators' competency talk

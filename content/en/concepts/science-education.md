@@ -6,7 +6,7 @@ technology: [generative-ai]
 discipline: [science education, stem education]
 confidence: medium
 created: "2026-08-29T12:55:12-04:00"
-updated: "2026-10-16T06:36:28-04:00"
+updated: "2026-10-16T08:47:09-04:00"
 reviewed_by: [editor]
 ---
 
@@ -55,6 +55,8 @@ Teacher readiness is decisive. [[pre-service-science-teachers-ai-perceptions-202
 
 [[llm-benchmark-secondary-science-topics-2026|Schroeder et al. (2026)]] ask how well general models handle the science content itself: on NGSS-aligned item sets for middle school (1,078 items) and high school (1,150 items), nine open-weight models mostly exceeded 90%, with model size unrelated to accuracy, and a science teacher judged 236 of 240 sampled items (98.3%) aligned while flagging the absence of diagrams, data interpretation, and mathematical representation — text-only items cannot exercise every NGSS performance expectation. The high item difficulty and low discrimination leave open whether the items need improvement or secondary science has become tractable for this class of models, and the authors call multi-turn, evidence-based feedback the missing standard.
 
+In a 42-study meta-analysis of GenAI and motivation, the smallest subject-domain effect was in science (g = 0.109, 95% CI [−0.107, 0.325], k = 3), the only domain whose interval crossed zero, so the pooled evidence does not support a [[motivation|motivational]] case for GenAI specifically in science ([[genai-learning-motivation-meta-analysis-2026|Fang et al. (2026)]]).
+
 ## Connected Concepts
 
 - [[stem-education]]
@@ -85,3 +87,4 @@ Teacher readiness is decisive. [[pre-service-science-teachers-ai-perceptions-202
 - [[llm-benchmark-secondary-science-topics-2026]] — A Benchmark for LLM's Understanding of Middle School and High School Science Topics
 - [[nature-of-science-generative-ai-2026]] — The nature of science in the age of generative artificial intelligence: Epistemic authority, materiality, and a synergetic response
 - [[ai-university-physics-education-review-2026]] — Structured team access outperformed unlimited individual access in a university physics AI review
+- [[genai-learning-motivation-meta-analysis-2026]] — The only domain whose motivational interval crosses zero (g = 0.109, k = 3)

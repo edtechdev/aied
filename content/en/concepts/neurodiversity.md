@@ -1,7 +1,7 @@
 ---
 title: Neurodiversity
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-09-30T08:05:25-04:00"
+updated: "2026-10-16T08:47:09-04:00"
 type: concept
 ethics: [equity-in-ai-education, inclusive-learning, neurodiversity]
 connected_faqs: [ai-guidance-children-under-13, ai-disabled-neurodivergent-learners]
@@ -55,6 +55,7 @@ The risk side has its own literature. [[seung-basham-cognitive-offloading-swld-2
 ## Design cautions
 
 - **Diagnosis-gated support excludes the learners it does not name.** The scoping review's critique applies directly to how AI features are deployed: if a feature is unlocked by an accommodation letter, learners with functional differences but no diagnosis never see it.
+- **Detector-driven processes can deter legitimate accommodation use.** Where a language technology functions as an effective accommodation for a neurodivergent learner, a blanket prohibition or a detector-driven process that deters its legitimate use raises equality considerations — the annulled misconduct case the [[ai-detection|detection]] literature documents involved a student in an autism-spectrum support program ([[angelier-ai-detection-pitfalls-inclusive-assessment-2026|Angelier (2026)]]).
 - **Tools can exclude epistemically, not just poorly.** [[genai-minoritized-knowledges-disability|Tali-Otmani (2026)]] argues that Anglophone, Western-centric training data marginalizes non-hegemonic ways of knowing, and puts the situation of disabled learners at the center of that critique — a warning that "inclusive" AI can still encode whose knowledge counts.
 - **Behavior signals are read by systems that do not know the learner.** Interpretation of [[student-engagement|engagement]], struggle or attention in [[learning-analytics]] and [[student-modeling]] assumes a normative pattern of response; see [[differential-effects-across-learner-groups|Differential Effects Across Learner Groups]] for the fairness evidence on that assumption.
 - **Dependency is a design outcome, not a learner failing.** Given the reliance pathway above, the question to ask of any AI feature is whether it substitutes for the higher-order process the assignment exists to build — the point Seung and Basham make for learning disabilities.
@@ -96,3 +97,4 @@ Neurodiversity connects to [[special-education]], [[inclusive-learning]], [[univ
 - [[genai-minoritized-knowledges-disability]] — Generative AI and the marginalization of minoritized knowledges
 - [[tactile-statistical-graphs-accessibility]] — Tactile Statistical Graphs for Accessibility
 - [[ai-learning-tools-engineering-education-needs]] — Designing Needs- and Attention-Aware AI Learning Tools
+- [[angelier-ai-detection-pitfalls-inclusive-assessment-2026]] — Detector-driven processes can deter legitimate accommodation use

@@ -2,7 +2,7 @@
 connected_resources: [education-agent-skills, fpds-apps-and-resources]
 title: Educational Development
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-07T13:40:00-04:00"
+updated: "2026-10-16T08:47:09-04:00"
 connected_faqs: [ai-save-instructor-time, faculty-ai-competencies, faculty-development-ai]
 type: concept
 foundations: [ai-literacy, curriculum-design, learning-design, teacher-role, teacher-ai-competency]
@@ -30,6 +30,7 @@ Educational development is the professional and institutional work through which
 ## Educational development in the AI era
 
 - **Readiness frameworks:** [[sangwa-epiq-ai-faculty-readiness-2026|The EPIQ-AI framework]] identifies four readiness domains: epistemic, pedagogical, institutional, and quality-and-compliance. Faculty readiness is a sociotechnical alignment problem, not just an individual skills gap.
+- **Check what a framework's levels describe before adopting it.** Across 16 institutionally endorsed AI competence frameworks, AI use, output evaluation and domain application were substantive in all 16, while problem formulation (7), data competence (9) and AI creation (8) were not; proficiency levels also describe learner development, occupational role or grade, so they are not directly comparable ([[ai-competence-framework-landscape-2026|Fitsilis (2026)]]).
 - **Standards for technology integration:** [[crompton-faculty-technology-integration-standards-2026|Crompton et al.]] use [[design-based-research|design-based research]] to develop faculty standards for technology (incl. AI) integration in [[higher-ed|higher education]] institutions.
 - **Adoption and confidence:** [[teacher-ai-adoption-confidence|Teacher AI adoption research]] identifies concerns, support, confidence, and attitudes as key predictors. Faculty-development programs must address all four.
 - **Curriculum integration:** [[institutional-change-framework-ai|Institutional change frameworks]] and [[ai-assessment-scale-reform|assessment reform]] require faculty to redesign courses, not just add AI tools.
@@ -149,3 +150,4 @@ Confidence and literacy are not interchangeable targets: in a 502-respondent SEM
 - [[physics-faculty-learning-community-ai-2026]] — A Workshop Series for Effective Use of AI in Uncertain Times: Building a Physics Faculty Learning Community
 
 - [[faculty-ai-well-being-social-supports-2026]] — Faculty AI well-being tracks AI literacy rather than technological self-efficacy
+- [[ai-competence-framework-landscape-2026]] — Check what a framework's levels describe before adopting it

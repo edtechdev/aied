@@ -1,7 +1,7 @@
 ---
 title: Online Teaching and Learning
 created: "2026-08-20T04:20:00-04:00"
-updated: "2026-09-30T16:25:27-04:00"
+updated: "2026-10-16T08:47:09-04:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, learning-design]
 pedagogy: [online-teaching-and-learning, pedagogy]
@@ -96,6 +96,7 @@ Whatever combination an instructor chooses, one constraint should shape it. Onli
 - **Active and interactive learning.** Prefer strategies that keep students doing and thinking rather than passively receiving — [[active-learning]], interactive exercises, and [[socratic-method|Socratic]] dialogue. AI that prompts reasoning (rather than supplying answers) preserves the productive struggle and [[desirable-difficulties]] that build durable learning.
 - **Scaffolded, guided support.** Use [[scaffolding]] that fades as learners progress, and design [[self-regulated-learning]] supports so learners direct their own learning rather than depending on the tool.
 - **Collaborative and discussion-based learning.** Structure online discussions and group work deliberately; use [[collaborative-learning]] activities and, when AI participates, calibrate its facilitation and its role as a peer.
+- **Role design is the intervention, not the tool.** In an online graduate course, assigning rotating moderator, analyst, and arguer roles to [[learners|learners]] and a generative AI partner raised group mind-map content scores from M = 3.65 to M = 4.59 on a 1-5 SOLO scale (z = 3.771, p < 0.001), while node and branch counts stayed statistically flat ([[cheng-symbiotic-role-design-human-genai-collaboration-2026|Cheng et al. (2026)]]).
 - **Authentic, process-revealing assessment.** Shift toward [[authentic-assessment]] and assessments that capture process — drafts, oral defenses, self-explanation, reflective [[eportfolio|portfolios]] — which are more AI-resistant and reveal genuine understanding.
 - **Personalized and adaptive paths.** Use AI-enabled [[personalized-learning|personalization]] and [[adaptive-learning|adaptive]] activities to tailor pacing and difficulty, while keeping personalization deep (task sequencing, difficulty calibration) rather than merely surface-level (custom examples).
 - **Social presence and community-building.** Deliberately cultivate social presence and [[collaborative-learning|community]] — the core of the [[community-of-inquiry]] framework — through companion AI, synchronous check-ins, and peer interaction, since online isolation is a key barrier to [[student-engagement|engagement]] and belonging. In the AI era this means curating the three presences (cognitive, social, teaching) even as machine-generated discourse complicates who is "present" (see [[community-of-inquiry]]).
@@ -170,3 +171,4 @@ Whatever combination an instructor chooses, one constraint should shape it. Onli
 - [[personalized-ai-generated-videos-preference-2026]] — Students prefer personalized AI-generated videos over non-personalized human-recorded ones (Tomlinson et al. 2026)
 - [[hao-peer-exposure-bridging-social-capital-ai-summaries-2026]] — AI-Generated Summary-Driven Learning Design in Online Discussion Forums
 - [[ai-training-science-teacher-tpack-distance-2026]] — Campus-based student teachers reported higher TPACK for AI-integrated science teaching than distance education peers (64.0% versus 47.4%)
+- [[cheng-symbiotic-role-design-human-genai-collaboration-2026]] — Role design is the intervention, not the tool

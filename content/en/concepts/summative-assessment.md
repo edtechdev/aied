@@ -1,7 +1,7 @@
 ---
 title: Summative Assessment
 created: "2026-08-19T17:30:00-04:00"
-updated: "2026-09-30T11:35:26-04:00"
+updated: "2026-10-16T08:47:09-04:00"
 type: concept
 foundations: [academic-integrity]
 assessment: [assessment, authentic-assessment, summative-assessment, educational-measurement]
@@ -33,6 +33,7 @@ The knowledge base's research documents how generative AI has fundamentally resh
 - **Outcome agreement can survive imprecise item scoring.** Against moderated official marks, a multimodal LLM grading 10,364 handwritten Physics Olympiad and university pages correlated at r = 0.93–0.96 and recovered the same five-student international team, though exact question-part agreement reached 70% — a scorer is judged by the decisions it informs ([[ai-grading-handwritten-physics-2026|Pathak et al. (2026)]]).
 - **AI as evasion.** Because generative AI can produce answers to written questions, unproctored and take-home summative tasks lose validity: [[generative-ai-reduced-study-time-math|proctored, unassisted measures are essential]] because non-proctored performance is inflated by AI, and [[generative-ai-guardrails-harm-learning|guardrailed (hint-not-answer) tools]] can eliminate the exam penalty that unguarded AI causes. [[chirikov-ai-grade-inflation-2026|Chirikov's (2026)]] quasi-experiment on 500,000+ grades makes the mechanism concrete: after ChatGPT's release, courses with more AI-exposed tasks saw the share of A grades rise by 13 percentage points, and the effect concentrated in **homework-heavy courses** (an additional 16 pp in the triple-differences estimate) — direct evidence that unproctored homework, not genuine [[learning-gains|learning gains]], is where AI inflates summative outcomes.
 - **AI-generated exams.** [[assessing-quality-ai-generated-exams-field-2025|A large-scale field study]] and [[ai-vs-human-assessment-efl-tpck-2026|EFL assessment research]] examine whether AI can *generate* high-quality exams and assessment tasks — an emerging summative-design use of AI.
+- **Students cannot reliably spot AI-drafted items.** In a credited Family Medicine exam, [[vogt-ai-mcq-recognition-medical-assessment-2026|Vogt et al. (2026)]] found no significant difference in source attribution between 30 AI-generated and 30 licensing-exam multiple-choice items, mean correct recognition of 68.6 to 77.5 percent, and 18.2 percent of generated items eliminated in [[human-in-the-loop-ai|human review]].
 
 ## AI-resistant summative formats
 
@@ -98,3 +99,4 @@ The knowledge base's assessment literature consistently emphasizes that [[assess
 - [[ai-grading-handwritten-physics-2026]] — AI grading of handwritten physics assessments (Olympiad)
 - [[mesny-innovative-assessment-grading-management-2026]]
 - [[cvengros-grading-handwritten-chemistry-ai-2026]]
+- [[vogt-ai-mcq-recognition-medical-assessment-2026]] — Students cannot reliably spot AI-drafted items

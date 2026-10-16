@@ -1,7 +1,7 @@
 ---
 title: Self-Report Measures
 created: "2026-09-12T11:05:00-04:00"
-updated: "2026-10-03T02:57:43-04:00"
+updated: "2026-10-16T08:47:09-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [self-efficacy, student-engagement]
@@ -59,6 +59,8 @@ The opposite choice is also defensible: PAUSE is a four-domain offloading self-c
 ## The perception–behavior gap
 
 The strongest self-report finding in this knowledge base is not that self-report is biased in general but that reported and observed behavior diverge in specific, documented ways.
+
+Profiles derived from self-report behave the same way. [[najem-behavioral-clustering-adaptive-learning-recommendation-2026|Najem et al. (2026)]] clustered 14,003 student records on self-reported behavioral and psychological proxies rather than LMS interaction traces, and the six resulting profiles separated sharply on final grade (η² = 0.770) — a separation the authors caution is partly a restatement of what students reported.
 
 [[ai-literacy-assessment-misalignment|A study that built parallel self-report and objective measures of teacher AI literacy]] found **weak agreement between the self-report and objective factors (r = 0.07 to r = 0.24)** in a sample of 288 teachers, with confirmatory factor analysis supporting the construct validity of both measures while showing a **low correlation between the self-report and objective factors**. The two instruments were credible; they simply measured different things. In the full sample of 288 teachers the correlations between the objective and self-reported factors ran from r = 0.07 to r = 0.24, and latent profile analysis found 43 teachers who rated themselves high while scoring lower on the objective measure against 59 who showed the reverse pattern.
 
@@ -169,3 +171,4 @@ The knowledge base's constructive answers are consistent, and none of them requi
 - [[pause-ai-cognitive-offloading-self-reflection-2026]] — PAUSE: A Privacy-Preserving Self-Reflection Tool for AI-Associated Cognitive Offloading
 - [[ai-literacy-self-assessment-questionnaire-primary-2025]] — A 15-item self-assessment instrument for upper-primary students, explicit about what perceived competence can establish
 - [[assessing-teachers-ai-literacy-measurement-tools-2026]] — Review finding 31 of 33 teacher AI literacy instruments self-report and none performance-based
+- [[najem-behavioral-clustering-adaptive-learning-recommendation-2026]] — Profiles derived from self-report behave the same way
