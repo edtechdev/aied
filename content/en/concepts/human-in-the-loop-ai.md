@@ -1,7 +1,7 @@
 ---
 title: Human-in-the-Loop
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-10-14T11:15:00-04:00"
+updated: "2026-10-16T06:45:00-04:00"
 connected_faqs: [ai-agents-support-students-instructors, designing-educational-ai-software, ai-feedback-at-scale]
 type: concept
 foundations: [ai-education]
@@ -30,6 +30,8 @@ reviewed_by: [editor]
 HITL is a response to the limits and risks of fully autonomous [[ai-education|AI in education]]: automated systems can generate at scale but lack the contextual, [[ethics|ethical]], and pedagogical judgment that instructors and experts bring. Two recent implementations illustrate distinct architectures:
 
 Prescriptive support is a domain where human oversight is increasingly argued to be non-optional. [[lopez-pernas-llm-appropriate-student-support-2026|López-Pernas et al. (2026)]] tested whether three LLMs could recommend student-support plans from [[learning-analytics]] indicators and found limited sensitivity to need and sharp cross-model inconsistency — concluding that human-in-the-loop judgment is still necessary before [[llm]] prescriptive advising can be deployed safely and ethically.
+
+Withholding a system's preferred answer is protective rather than corrective: in a multi-agent debate that never revealed a recommended position, detrimental switching to an incorrect AI answer fell from 42.0–60.5% to 5.7–8.2%, while adoption of correct advice also fell ([[tuo-armada-multi-agent-debate-overreliance-2026|Tuo et al., 2026]]).
 
 A third architecture places human judgment *upstream* of the model rather than at its output. In [[lee-learner-question-types-ai-education-2026|Lee, Atif & Kang's (2026)]] study of learner-question classification, three doctoral-level experts governed the whole pipeline: they refined the operational definitions for each [[constructivist]] role, labeled independently until Fleiss' kappa rose from 0.60 to 0.83 after discrepancy resolution, and validated the back-translated and paraphrased items used to balance the training set.
 
@@ -156,3 +158,4 @@ Human-in-the-loop design is not merely a safety measure—it is a **resource-all
 - [[when-students-prefer-ai-scoring-feedback-2026]] — Undergraduates prefer human scoring for high-stakes work and AI as an assistant, not a replacement
 - [[student-query-demand-hybrid-ai-support-2026]] — What Students Actually Ask: Demand Structure and Automation Potential in a Hybrid Support System
 - [[in-the-loop-educational-ai-learning-sciences-2026]] — Rethinking "In-The-Loop" Approaches in Educational AI: A Learning Sciences Perspective
+- [[tuo-armada-multi-agent-debate-overreliance-2026]] — Withholding the system's preferred answer cut deferral to incorrect AI advice, protectively rather than correctively

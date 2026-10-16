@@ -60,6 +60,8 @@ Treating miscalibration purely as a user deficit — something fixed by teaching
 
 The design implication is a two-dimensional user typology — the *ability* to verify [[conversational-ai|chatbot]] output crossed with the *motivation* to do so — which predicts which users will miscalibrate in which direction. The authors pair it with two families of intervention that must operate together: [[explainable-ai|interpretability]] affordances (rationales, citations, uncertainty signals) that make evaluation possible, and engagement mechanisms that make it actually happen, layered through Reason's Swiss cheese model into eight testable propositions. [[ai-literacy]] is positioned as the durable layer beneath both, moving users across typology cells. The reframing matters for education because it shifts responsibility: if transparent citations go unclicked in the general population, then simply exposing students to AI explanations will not calibrate them — the affordance has to be designed to compel the check.
 
+A third lever operates on the interaction structure itself: replacing a single recommendation with a [[tuo-armada-multi-agent-debate-overreliance-2026|multi-agent debate whose aggregate position is withheld (Tuo et al., 2026)]] cut detrimental switching to an incorrect AI position from 42–60.5% to 5.7–8.2% among 186 participants. The lever is protective rather than corrective — participants who began with a wrong judgment recovered the correct decision in only 30.6% and 24.7% of trials, below chance for a binary choice.
+
 [[calibrating-trustworthiness-llm-education-2026|Coscia et al. (2026)]] supply a design lever that did move calibration: showing reviewers co-designed trustworthiness criteria while they compared LLM responses raised inter-rater agreement from Krippendorff's alpha 0.3987 to 0.4931, though pooled agreement stayed below 0.67 and extra measures added overhead.
 
 With autonomous agents the object of calibration changes. [[agentic-literacy-debt|Nama (2026)]] argues the user becomes a principal who has delegated authority to a system whose actions are largely unobserved and irreversible, shifting the competency from judging outputs to understanding what was authorized, overseeing it, and attributing accountability when harm occurs.
@@ -113,6 +115,7 @@ Trust calibration is central to [[ai-literacy]] and sits alongside [[reducing-ai
 
 ## Connected Articles
 - [[student-perspectives-ai-writing-grading-2026]] — Student perspectives on transparent AI-assisted writing assessment (AlGhamdi 2026)
+- [[tuo-armada-multi-agent-debate-overreliance-2026]] — Calibration reframed: withholding the system's position is protective, not corrective
 - [[du-yuan-epistemic-dependence-2026]] — Six diagnostic criteria separating productive reliance from harmful dependence (Du & Yuan 2026)
 - [[icet-ml-education-trust-2026]] — Addressing Trust in AI Systems through Education: A Didactic Perspective
 - [[pearls-epistemic-verification-2026]] — PEARLS framework for epistemic agency and verifying AI output (Wang 2026)

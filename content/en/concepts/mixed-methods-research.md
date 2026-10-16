@@ -1,7 +1,7 @@
 ---
 title: Mixed-Methods Research
 created: "2026-08-24T02:10:00-04:00"
-updated: "2026-09-30T07:37:28-04:00"
+updated: "2026-10-16T07:28:51-04:00"
 type: concept
 research_method: [survey]
 confidence: high
@@ -45,6 +45,7 @@ Mixed-methods designs integrate the breadth, precision, and causal power of quan
 - **Strengths:** triangulation increases confidence; quantitative breadth plus qualitative depth; can explain unexpected results and bridge mechanism and magnitude; produces both effects and meaning; well-suited to complex, contextual AI-in-education phenomena.
 - **Limitations:** complex, resource-intensive, and methodologically demanding; integration can be shallow if strands are merely reported side-by-side rather than genuinely merged; still inherits the weaknesses of each strand (e.g., self-report bias in surveys, researcher dependence in interviews); requires proficiency in both methodological traditions.
 - **A clustering limit that bounds the inference.** [[human-ai-collaboration-academic-writing-2026|Alshehri et al. (2026)]] assign two intact classes (n = 31, n = 22), so with only two clusters the reported t-tests ignore the intraclass nesting and multilevel models are not estimable, making the significance tests optimistic about what the design can support.
+- **Instrument choice can invert a computational strand.** VADER and a fine-tuned RoBERTa assigned opposite valence to the same post (0.9413 strongly positive under VADER, −0.9209 under RoBERTa), so a corpus's quantitative reading can turn on which classifier is used ([[bluesky-aied-discourse-social-media-analysis-2026|Geraili Meykola et al., 2026]]).
 
 ## Relationship to the broader methods landscape
 
@@ -71,3 +72,4 @@ Mixed-methods sits between the [[quantitative-research|quantitative]] and [[qual
 - [[hazra-safetutors-pedagogical-safety-2026]] — AI tutor safety and pedagogical harms
 - [[becker-chatgpt-typology-physics-2026]] — A qualitative typology of ChatGPT adoption in physics
 - [[edtech-privacy-deferral-2026]] — "We'll Fix It Later": Education, AI, and the Deferral of Student Privacy in EdTech
+- [[bluesky-aied-discourse-social-media-analysis-2026]] — VADER and a fine-tuned RoBERTa assigned opposite valence to the same Bluesky post (Geraili Meykola et al

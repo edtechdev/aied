@@ -1,7 +1,7 @@
 ---
 title: Trust
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-10-03T02:57:43-04:00"
+updated: "2026-10-16T06:45:00-04:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, human-ai-collaboration]
 technology: [educational-robotics, intelligent-tutoring]
@@ -47,6 +47,8 @@ Trust in AI behaves as a pathway from appraisal to reliance rather than a single
 
 
 The three Source Credibility dimensions can dissociate: seventeen EFL undergraduates granted an AI writing assistant broad expertise, doubted its trustworthiness mainly over what the platform retained, and rated its goodwill lowest - the ceiling on their reliance sat in care, not competence ([[bounded-reliance-ai-writing-feedback-2026|Serpil & Mor, 2026]]).
+
+Credibility cues can raise reliance on wrong answers: adding citations and authority signals to a debate interface raised abandonment of a correct judgment for the AI's position from 15.0% to 31.8%, while withholding a recommended position cut that switching to 5.7–8.2% ([[tuo-armada-multi-agent-debate-overreliance-2026|Tuo et al., 2026]]).
 
 ## Trust in AI tracks psychological state, not demographic category
 
@@ -113,3 +115,4 @@ Calibration is also tested by the incentives of the trusted system itself. When 
 
 - [[ai-empowerment-threat-genai-dependence-2026]] — Empowerment and threat appraisals moved trust in opposite directions, carrying GenAI dependence
 - [[observer-perceptions-genai-interpersonal-trust-2026]] — Peers' GenAI use lowers interpersonal trust through perceived warmth and competence, buffered by AI literacy
+- [[tuo-armada-multi-agent-debate-overreliance-2026]] — Credibility cues raised switching to an incorrect AI position; withholding a recommendation suppressed it
