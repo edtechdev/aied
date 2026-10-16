@@ -39660,7 +39660,7 @@ The third pattern is the one the authors press hardest. The tool's own example c
 
 ## Citation
 
-Wang, J., Xiao, R., Yu, M., Nieu, H., Tseng, Y.-J., Stamper, J., & Hou, X. (2026). AILitHub: Building AI Literacy Infrastructure to Situate Frameworks into Practice. *AI for Education Day workshop at SIGKDD 2026*.
+Wang, J., Xiao, R., Yu, M., Nieu, H., Tseng, Y.-J., Stamper, J., & Hou, X. (2026). [*AILitHub: Building AI Literacy Infrastructure to Situate Frameworks into Practice*](https://ceur-ws.org/Vol-4277/short3.pdf). *AI for Education Day at SIGKDD 2026*; CEUR Workshop Proceedings, Vol-4277, published 2026-09-30.
 
 ---
 
@@ -44734,7 +44734,7 @@ LightLM is deliberately the smallest component: short continuations and fragment
 
 ## Citation
 
-Suvernev, B., Wang, Y., Tong, X., & Tan, C. W. (2026). *Browser-Sized Agents: Small Language Models and WebLLM for Tool-Augmented AI-Assisted Programming Education*. SLM4ED'26: The 1st Workshop of Small Language Models for Education, Seoul, Republic of Korea.
+Suvernev, B., Wang, Y., Tong, X., & Tan, C. W. (2026). [*Browser-Sized Agents: Small Language Models and WebLLM for Tool-Augmented AI-Assisted Programming Education*](https://slm4ed-workshop.github.io/papers/paper3.pdf). SLM4ED'26: The 1st Workshop of Small Language Models for Education, June 28, 2026, Seoul, Republic of Korea.
 
 ---
 

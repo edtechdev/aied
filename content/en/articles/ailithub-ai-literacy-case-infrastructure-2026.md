@@ -1,7 +1,7 @@
 ---
 title: "AILitHub: Building AI Literacy Infrastructure to Situate Frameworks into Practice"
 created: "2026-10-04T07:50:00-04:00"
-updated: "2026-10-04T07:50:00-04:00"
+updated: "2026-10-16T15:33:10-04:00"
 type: article
 sources: ['raw/papers/ailithub-ai-literacy-case-infrastructure-2026.md']
 confidence: low
@@ -70,4 +70,4 @@ The third pattern is the one the authors press hardest. The tool's own example c
 
 ## Citation
 
-Wang, J., Xiao, R., Yu, M., Nieu, H., Tseng, Y.-J., Stamper, J., & Hou, X. (2026). AILitHub: Building AI Literacy Infrastructure to Situate Frameworks into Practice. *AI for Education Day workshop at SIGKDD 2026*.
+Wang, J., Xiao, R., Yu, M., Nieu, H., Tseng, Y.-J., Stamper, J., & Hou, X. (2026). [*AILitHub: Building AI Literacy Infrastructure to Situate Frameworks into Practice*](https://ceur-ws.org/Vol-4277/short3.pdf). *AI for Education Day at SIGKDD 2026*; CEUR Workshop Proceedings, Vol-4277, published 2026-09-30.

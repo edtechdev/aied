@@ -1,7 +1,7 @@
 ---
 title: "Browser-Sized Agents: Small Language Models and WebLLM for Tool-Augmented AI-Assisted Programming Education"
 created: "2026-10-14T14:30:00-04:00"
-updated: "2026-10-14T14:30:00-04:00"
+updated: "2026-10-16T15:33:10-04:00"
 type: article
 sources: ['raw/papers/browser-sized-agents-slm-webllm-tutor-2026.md']
 confidence: high
@@ -67,4 +67,4 @@ LightLM is deliberately the smallest component: short continuations and fragment
 
 ## Citation
 
-Suvernev, B., Wang, Y., Tong, X., & Tan, C. W. (2026). *Browser-Sized Agents: Small Language Models and WebLLM for Tool-Augmented AI-Assisted Programming Education*. SLM4ED'26: The 1st Workshop of Small Language Models for Education, Seoul, Republic of Korea.
+Suvernev, B., Wang, Y., Tong, X., & Tan, C. W. (2026). [*Browser-Sized Agents: Small Language Models and WebLLM for Tool-Augmented AI-Assisted Programming Education*](https://slm4ed-workshop.github.io/papers/paper3.pdf). SLM4ED'26: The 1st Workshop of Small Language Models for Education, June 28, 2026, Seoul, Republic of Korea.
