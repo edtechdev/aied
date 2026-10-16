@@ -1,7 +1,7 @@
 ---
 title: Online Teaching and Learning
 created: "2026-08-20T04:20:00-04:00"
-updated: "2026-10-16T08:47:09-04:00"
+updated: "2026-10-16T19:45:37-04:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, learning-design]
 pedagogy: [online-teaching-and-learning, pedagogy]
@@ -113,6 +113,7 @@ Whatever combination an instructor chooses, one constraint should shape it. Onli
 - **Embed AI in the learning environment, not as an external bolt-on.** Purpose-built, contextually-tuned assistants embedded in the course (like [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of|AIDA]]) outperform generic external chatbots and increase acceptance.
 - **Calibrate AI facilitation toward human caution.** When using AI to moderate discussions, prefer settings that intervene sparingly ([[llm-facilitation-timing-online-discussions|Tsirmpas et al.]]).
 - **Design for adult life constraints.** For adult and distance learners, prioritize mobile access, offline capability, and asynchronous availability ([[ai-adult-learning-guidelines-dis2026|AI-ALOE guidelines]]).
+- **Compressed formats need redesign, not compression.** Six-week asynchronous graduate courses for working teachers are an institutional constraint requiring purposeful redesign rather than a fifteen-week course compressed, and AI dialogue carries instructional presence into the late hours an instructor cannot staff [[packard-thinking-partner-framework-adult-learners-2026|Packard et al. (2026)]].
 - **Co-design with students and staff, and build governance.** Participatory development, senior sponsorship, cross-unit collaboration, and robust [[governance]] are enabling factors for responsible GenAI adoption.
 - **Assume an agent will attempt every unproctored activity, and design from that assumption.** The three-question test is quick and exposes weak activities: could an AI system complete this without the student understanding the material; what cognitive activity is supposed to produce the learning; what evidence will show the student performed it. When the first answer is yes and the other two are hard to answer, the problem is the learning design rather than the AI policy.
 - **Keep verification proportionate to the risk.** Where competence must be certified, prefer a twin task, an asynchronous oral defense or a short comprehension check over blanket monitoring; keep the rest of the course flexible for the learners who depend on that flexibility.
@@ -172,3 +173,4 @@ Whatever combination an instructor chooses, one constraint should shape it. Onli
 - [[hao-peer-exposure-bridging-social-capital-ai-summaries-2026]] — AI-Generated Summary-Driven Learning Design in Online Discussion Forums
 - [[ai-training-science-teacher-tpack-distance-2026]] — Campus-based student teachers reported higher TPACK for AI-integrated science teaching than distance education peers (64.0% versus 47.4%)
 - [[cheng-symbiotic-role-design-human-genai-collaboration-2026]] — Role design is the intervention, not the tool
+- [[packard-thinking-partner-framework-adult-learners-2026]] — Six-week asynchronous graduate courses for working teachers: redesign the format rather than compress it
