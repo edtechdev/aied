@@ -1,7 +1,7 @@
 ---
-title: "Application-Driven Pedagogical Knowledge Optimization of Open-Source LLMs via Reinforcement Learning and Supervised"
+title: "Application-Driven Pedagogical Knowledge Optimization of Open-Source LLMs via Reinforcement Learning and Supervised Fine-Tuning"
 created: "2026-07-29T04:33:04-04:00"
-updated: "2026-09-20T04:00:38-04:00"
+updated: "2026-10-16T13:16:04-04:00"
 type: article
 technology: [llm, llm-training-and-fine-tuning, rag, reinforcement-learning, open-source]
 ethics: [pedagogical-safety]
@@ -42,4 +42,4 @@ The EduQwen project addresses a fundamental misalignment in [[llm]] behavior for
 
 ## Citation
 
-Singh, N. P., Wang, X., Garikipati, A., Ciobanu, M., Mao, Q., & Das, R. (2026). [*Application-Driven Pedagogical Knowledge Optimization of Open-Source LLMs via RL and SFT*](https://arxiv.org/abs/2604.06385).
+Singh, N. P., Wang, X., Garikipati, A., Ciobanu, M., Mao, Q., & Das, R. (2026). [*Application-Driven Pedagogical Knowledge Optimization of Open-Source LLMs via Reinforcement Learning and Supervised Fine-Tuning*](https://arxiv.org/abs/2604.06385).

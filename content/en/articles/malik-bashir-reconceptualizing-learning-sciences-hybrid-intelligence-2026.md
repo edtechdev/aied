@@ -1,7 +1,7 @@
 ---
-title: "Reconceptualizing learning sciences in the era of AI: toward hybrid intelligence and adaptive learning systems"
+title: "Reconceptualizing learning sciences in the era of artificial intelligence: Toward hybrid intelligence and adaptive learning systems"
 created: "2026-10-13T10:58:00-04:00"
-updated: "2026-10-13T10:58:00-04:00"
+updated: "2026-10-16T13:16:04-04:00"
 type: article
 foundations: [ai-literacy]
 discipline: [learning sciences]

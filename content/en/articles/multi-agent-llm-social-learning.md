@@ -1,7 +1,7 @@
 ---
-title: "Beyond the AI Tutor: Social Learning with LLM Agents"
+title: "Human Thinking under Plural LLM Assistance: Mathematical Problem Solving and Open-Ended Writing"
 created: "2026-05-11T04:33:04-04:00"
-updated: "2026-09-16T15:47:46-04:00"
+updated: "2026-10-16T13:16:04-04:00"
 type: article
 foundations: [agentic-ai]
 pedagogy: [scaffolding]
@@ -49,4 +49,4 @@ The two experiments span the convergent–divergent spectrum of learning tasks (
 
 ## Citation
 
-Kumar, H., Mu, Z. K. (J.), Vincentius, J., & Anderson, A. (2026). [*Beyond the AI Tutor: Social Learning with LLM Agents*](https://arxiv.org/abs/2604.02677).
+Kumar, H., Mu, Z. K. (J.), Vincentius, J., & Anderson, A. (2026). [*Human Thinking under Plural LLM Assistance: Mathematical Problem Solving and Open-Ended Writing*](https://arxiv.org/abs/2604.02677).

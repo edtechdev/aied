@@ -1,7 +1,7 @@
 ---
-title: Balancing teacher and student agency in co-orchestration tools for real-time dynamic pairing
+title: "Balancing Teacher and Student Agency: Co-Orchestration Tool Design Supporting Real-Time Dynamic Pairing"
 created: "2026-10-10T18:36:00-04:00"
-updated: "2026-10-10T18:36:00-04:00"
+updated: "2026-10-16T13:16:04-04:00"
 type: article
 foundations: [agency]
 technology: [intelligent-tutoring, knowledge-tracing]
