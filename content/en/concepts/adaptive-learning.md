@@ -1,7 +1,7 @@
 ---
 title: Adaptive Learning
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-30T09:59:35-04:00"
+updated: "2026-10-16T09:45:00-04:00"
 type: concept
 pedagogy: [scaffolding]
 technology: [cognitive-diagnosis, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, personalized-learning, student-modeling]
@@ -53,6 +53,7 @@ Adaptive learning is frequently conflated with [[personalized-learning|personali
 ### Research evidence
 
 - **[[meta-analysis-systematic-review|Meta-analytic]] evidence on adaptive + AI tools.** [[burneo-can-edtech-close-learning-gaps-2026|A World Bank meta-analysis]] of 14 [[rct|RCTs]] pools adaptive computer-assisted learning, intelligent tutoring, and generative AI on a common scale, estimating an average learning gain of ~0.125 sd with no significant difference between the two technology generations — evidence that the adaptation mechanism, not the specific tool generation, drives gains.
+- **Interpretable rating plus time-budgeted routing.** [[mars-momentum-aware-adaptive-rating-assessment-2026|Sahu et al. (2026)]] keep a few explicit learner scalars — rating sensitivity, response quality and momentum — and route questions under a time budget, cutting rating-update volatility roughly in half against fixed Elo while trailing neural knowledge tracing on prediction (AUC 0.7532 against GKT's 0.8658).
 - **Adaptive algorithms compared in dynamic domains.** [[graph-its-adaptive-algorithms-2026|Graph-based ITS research]] compares multiple adaptive learning algorithms (including Bayesian knowledge propagation and intuitionistic fuzzy logic) in a graph-based knowledge representation framework for dynamic curricula.
 
 - **RL as an adaptation mechanism, empirically mapped.** [[riedmann-reinforcement-learning-education-review-2026|Riedmann, Schaper & Lugrin (2025)]] synthesize 89 RL-in-education studies and find adaptation splits into content-related (instructional sequencing/content scheduling, n = 53) and guidance-related (hints, [[feedback]], activity selection, n = 36) mechanisms — with RL showing statistically significant superiority over baselines more often for guidance-related adaptation than for content scheduling. They recommend model-free RL for adaptive learning and caution that classical RL outperformed Deep RL in the reviewed studies.
@@ -92,6 +93,7 @@ Adaptive learning is frequently conflated with [[personalized-learning|personali
 - [[ai-technologies]] — Umbrella: AI technologies and techniques (models, LLM training, robotics, RAG, agentic)
 - [[recommender-systems-and-learning-paths]]
 ## Connected Articles
+- [[mars-momentum-aware-adaptive-rating-assessment-2026]] — MARS: A Momentum-Aware Adaptive Rating System for Personalized Assessment
 - [[deceptive-overgeneralization-adaptive-learning-2026]] — Deceptive overgeneralization: adaptive mastery can stop practice before learners know when to withhold an action (An, McLaren & Stamper 2026)
 - [[turano-ai-tutoring-not-a-monolith-2026]] — AI Tutoring is Not a Monolith: What We Actually Know (Stanford SCALE/NSSA brief)
 - [[adaptive-ai-scaffold-collaborative-problem-solving-2026]]

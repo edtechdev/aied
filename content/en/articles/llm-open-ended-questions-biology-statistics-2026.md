@@ -55,8 +55,7 @@ A second thread runs through the discussion: the models' advantage may be partly
 
 ## What this means for practice
 
-- **Instructors.** Use LLMs as a preliminary marker for lower- and middle-order questions, and keep human review on evaluative work, where Type 7 drew the lowest score (4.2283) and the longest answers.
-- **Instructors.** Calibrate before holistic scoring: these graders had none, and no student reached even "fair" agreement (κ ≥ 0.21) on any kappa variant.
+- **Instructors.** Use LLMs as a preliminary marker for lower- and middle-order questions, and keep human review on evaluative work, where Type 7 drew the lowest score (4.2283) and the longest answers. Calibrate the two graders before holistic scoring — no calibration ran here, and no student reached even "fair" agreement (κ ≥ 0.21) on any kappa variant.
 - **Administrators.** Weigh time savings against reliability — the LLM grader finished in under an hour against more than 1 week for the human, but its within-grader ICC was 0.1200 against 0.5818.
 - **Researchers.** Do not generalize from one LLM grader; a single model (Claude Sonnet 4.0) supplied every LLM mark here, and per-type agreement rests on n = 4 subjects.
 

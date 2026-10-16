@@ -1,7 +1,7 @@
 ---
 title: Biology Education
 created: "2026-08-19T13:10:00-04:00"
-updated: "2026-10-13T09:18:19-04:00"
+updated: "2026-10-16T09:45:00-04:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, human-ai-collaboration]
 technology: [generative-ai]
@@ -35,6 +35,7 @@ Biology education research on AI clusters around a tension: AI has revolutionize
 **Socratic AI argumentation practice in teacher preparation.** A quasi-experiment with 124 prospective biology teachers found a ChatGPT-4 [[socratic-method|Socratic tutor]] on socio-scientific issues raised argumentation quality over offline peer discussion (adjusted 3.91 vs. 3.21, F(1,121) = 14.23, p < .001), with the largest gains in rebuttal and counter-evidence skills ([[genai-socratic-tutor-biology-argumentation-2026|Ergasheva et al., 2026]]).
 
 **Specialized AI tools and the broader review.** **[[beyond-chatgpt-ai-tools-biological-education-2026|Cotton & Cotton]]** review the full landscape of AI tools in biological education, including **iNaturalist and Google Lens** for species identification, bioimaging and machine-learning tools, assistive technologies, and predictive modeling of at-risk students — alongside the integrity, assessment-design, misinformation, and critical-thinking challenges of generative AI.
+- **LLMs answer better than they mark.** Across 1,344 answers to 336 open-ended biological-statistics questions spanning Bloom's levels, [[llm-open-ended-questions-biology-statistics-2026|Nguyen et al. (2026)]] found three models rated above a 20-student group, yet a single LLM marker agreed with an experienced instructor so poorly that no student reached fair agreement.
 
 **How much of the grade is actually exposed.** Weighting each graded category of one department's 38 core-course syllabi by instructor-rated vulnerability put 33% of course points at high exposure and 81% at least somewhat exposed - 41% and 100% online - with only in-person proctored exams rated minimally vulnerable ([[biology-degree-integrity-genai-cheating-2026|Chan et al., 2026]]).
 
@@ -73,6 +74,7 @@ Biology education sits within the broader [[stem-education]] domain and shares t
 - [[educational-policy-ai]]
 
 ## Connected Articles
+- [[llm-open-ended-questions-biology-statistics-2026]] — Evaluating Large Language Model Performance on Open-Ended Questions: Answering and Marking Capabilities
 - [[biology-degree-integrity-genai-cheating-2026]] — Can students cheat their way to a biology degree? A case study of the vulnerability of biology course grades to academic dishonesty in the era of generative AI
 - [[chatgpt-virtual-lab-teaching-assistant-biology-2026]] — ChatGPT as a virtual lab teaching assistant
 - [[beyond-chatgpt-ai-tools-biological-education-2026]] — Review of AI tools in biological education

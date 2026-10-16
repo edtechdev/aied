@@ -6978,3 +6978,165 @@
   reason: 'Backfill screen 2026-10-16 over discipline/level candidates. academic-integrity: The page already carries the agentic verification gap and the authorship-to-ideas reframing the article would add, so the delegation frame is not dist | agency: The page already treats the transfer of cognitive work as its central mechanism (delegated agency, epistemic delegation), so the article''s governance- | agentic-ai: The page already carries the article''s constituent claims in stronger detail (bounded agency, autonomy/oversight levels, agentic completion as validit | ai-use-disclosure: The page already states the article''s disclosure point that transparency alone does not establish learning, in its ''Disclosure is not a detection mech | assessment: The page''s assessment-redesign section already covers the process/evidence-beyond-product arguments the article restates, and the pair is topically ad | assessment-validity: The page already carries the article''s access-as-validity claim at
     greater length: grep -ciE ''agentic|LMS|credential'' assessment-validity.md -> 3 hits | authentic-assessment: The page already exhaustively develops process-based, oral and authentic redesign, which is the article''s evidence-of-learning bridge, and it carries  | educational-policy-ai: The page already carries the article''s delegation-versus-evidence boundary through the cognitive-stewardship audit: grep -in ''delegation-boundary'' edu | equity-in-ai-education: The article makes no equity finding and the page carries none of its subject matter, so this is a facet match rathe || Backfill 2026-10-16 (discipline/level): ai-literacy: grep -ci ''delegat'' in ai-literacy.md -> 2 hits (incl. ''when not to delegate judgment is the literacy question'') plus an agentic-tool-use competency li | curriculum-design: grep -ci ''delegat'' in curriculum-design.md -> 3 hits, all teacher lesson planning; the article''s subject is assessment policy documents, which the pag | learner-identity: grep ''delegat|agentic''
     in learner-identity.md -> 5 hits, all about authored identity under delegation rather than institutional policy; the article co'
+
+- article: hachimi-ii-learner-behavior-modeling-student-simulation-2026
+  date: '2026-10-16'
+  integrated:
+  - simulating-students
+  no_change:
+  - agentic-ai
+  - ai-ed-evaluation
+  - assessment
+  - cognitive-diagnosis
+  - educational-measurement
+  - generative-ai
+  - hallucination-risk
+  - help-seeking
+  - icap-framework
+  - intelligent-tutoring
+  - item-response-theory
+  - k-12
+  - knowledge-tracing
+  - llm
+  - llm-training-and-fine-tuning
+  - math-education
+  - misconceptions
+  - prior-knowledge
+  - research-methods-aied
+  - scaffolding
+  - self-regulated-learning
+  - simulation
+  - student-modeling
+  reason: 'Daily scan 2026-10-16. simulating-students carries the article''s distinguishing finding (see the narrative weave). Dismissals screened against prior coverage and subject matter: grep -ciE ''competence leakage|role-play|simulat|learner state'' simulation.md -> 78 hits; grep -ciE ''competence leakage|role-play|simulat|learner state'' student-modeling.md -> 33 hits; grep -ciE ''competence leakage|role-play|simulat|learner state'' agentic-ai.md -> 26 hits. The remaining 20 candidate(s) each carry neither the article''s subject matter nor a claim class it would change, so they were left untouched rather than padded.'
+- article: unified-irt-framework-question-tutoring-dialogue-2026
+  date: '2026-10-16'
+  integrated:
+  - item-response-theory
+  no_change:
+  - adaptive-learning
+  - automated-assessment
+  - benchmark
+  - conversational-ai
+  - educational-measurement
+  - educational-nlp
+  - formative-assessment
+  - intelligent-tutoring
+  - k-12
+  - knowledge-tracing
+  - llm
+  - math-education
+  - online-teaching-and-learning
+  - pedagogy
+  - quantitative-research
+  - scaffolding
+  - student-modeling
+  reason: 'Daily scan 2026-10-16. item-response-theory carries the article''s distinguishing finding (see the narrative weave). Dismissals screened against prior coverage and subject matter: grep -ciE ''dialogue|subtask|IRT|item response'' intelligent-tutoring.md -> 15 hits; grep -ciE ''dialogue|subtask|IRT|item response'' educational-measurement.md -> 13 hits; grep -ciE ''dialogue|subtask|IRT|item response'' conversational-ai.md -> 8 hits. The remaining 14 candidate(s) each carry neither the article''s subject matter nor a claim class it would change, so they were left untouched rather than padded.'
+- article: children-verification-ai-suggestions-game-2026
+  date: '2026-10-16'
+  integrated:
+  - trust-calibration
+  no_change:
+  - ai-literacy
+  - biology-education
+  - conversational-ai
+  - critical-thinking
+  - explainable-ai
+  - feedback
+  - game-based-learning
+  - human-ai-collaboration
+  - human-in-the-loop-ai
+  - inquiry-based-learning
+  - k-12
+  - llm
+  - mixed-methods-research
+  - qualitative-research
+  - quantitative-research
+  - rag
+  - scaffolding
+  - self-report-measures
+  - student-ai-interaction
+  - trust
+  - usability-research
+  reason: 'Daily scan 2026-10-16. trust-calibration carries the article''s distinguishing finding (see the narrative weave). Dismissals screened against prior coverage and subject matter: grep -ciE ''verif|children|agent style'' ai-literacy.md -> 24 hits; grep -ciE ''verif|children|agent style'' scaffolding.md -> 16 hits; grep -ciE ''verif|children|agent style'' critical-thinking.md -> 14 hits. The remaining 18 candidate(s) each carry neither the article''s subject matter nor a claim class it would change, so they were left untouched rather than padded.'
+- article: mars-momentum-aware-adaptive-rating-assessment-2026
+  date: '2026-10-16'
+  integrated:
+  - adaptive-learning
+  no_change:
+  - adult-learning
+  - assessment
+  - automated-assessment
+  - benchmark
+  - bias-mitigation
+  - cognitive-diagnosis
+  - educational-measurement
+  - evaluative-judgment
+  - explainable-ai
+  - feedback
+  - higher-ed
+  - item-response-theory
+  - knowledge-graph
+  - knowledge-tracing
+  - learning-analytics
+  - machine-learning
+  - mastery-learning
+  - personalized-learning
+  - privacy
+  - psychometrically-aware-ai
+  - quantitative-research
+  - recommender-systems-and-learning-paths
+  - research-methods-aied
+  - scaffolding
+  - simulation
+  - student-modeling
+  reason: 'Daily scan 2026-10-16. adaptive-learning carries the article''s distinguishing finding (see the narrative weave). Dismissals screened against prior coverage and subject matter: grep -ciE ''momentum|Elo|routing|time budget'' scaffolding.md -> 13 hits; grep -ciE ''momentum|Elo|routing|time budget'' research-methods-aied.md -> 11 hits; grep -ciE ''momentum|Elo|routing|time budget'' recommender-systems-and-learning-paths.md -> 10 hits. The remaining 23 candidate(s) each carry neither the article''s subject matter nor a claim class it would change, so they were left untouched rather than padded.'
+- article: llm-open-ended-questions-biology-statistics-2026
+  date: '2026-10-16'
+  integrated:
+  - biology-education
+  no_change:
+  - assessment-validity
+  - automated-assessment
+  - critical-thinking
+  - evaluative-judgment
+  - generative-ai
+  - higher-ed
+  - human-ai-collaboration
+  - human-in-the-loop-ai
+  - llm
+  - problem-solving
+  - quantitative-research
+  - trust-calibration
+  reason: 'Daily scan 2026-10-16. biology-education carries the article''s distinguishing finding (see the narrative weave). Dismissals screened against prior coverage and subject matter: grep -ciE ''open-ended|marking|inter-rater|Bloom'' automated-assessment.md -> 33 hits; grep -ciE ''open-ended|marking|inter-rater|Bloom'' llm.md -> 14 hits; grep -ciE ''open-ended|marking|inter-rater|Bloom'' assessment-validity.md -> 12 hits. The remaining 9 candidate(s) each carry neither the article''s subject matter nor a claim class it would change, so they were left untouched rather than padded.'
+- article: chatgpt-feedback-orientation-chinese-reading-2026
+  date: '2026-10-16'
+  integrated: []
+  no_change:
+  - adaptive-learning
+  - agency
+  - ai-feedback-quality
+  - assessment-validity
+  - automated-assessment
+  - automated-question-generation
+  - conversational-ai
+  - critical-thinking
+  - educational-measurement
+  - feedback
+  - feedback-literacy
+  - formative-assessment
+  - generative-ai
+  - k-12
+  - language-learning
+  - learning-gains
+  - llm
+  - metacognition
+  - motivation
+  - personalized-learning
+  - quantitative-research
+  - scaffolding
+  - self-efficacy
+  - self-regulated-learning
+  - self-report-measures
+  - student-engagement
+  - teacher-role
+  reason: 'Daily scan 2026-10-16. No concept page qualifies: the article''s mediation-and-decline finding is an instance of a claim class the corpus already carries, and its construct (feedback orientation) has no page of its own. Dismissals screened against prior coverage and subject matter: grep -ciE ''feedback orientation|Chinese reading|mediation'' teacher-role.md -> 8 hits; grep -ciE ''feedback orientation|Chinese reading|mediation'' agency.md -> 7 hits; grep -ciE ''feedback orientation|Chinese reading|mediation'' student-engagement.md -> 3 hits. The remaining 24 candidate(s) each carry neither the article''s subject matter nor a claim class it would change, so nothing was inserted.'
