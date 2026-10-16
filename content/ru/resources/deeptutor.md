@@ -21,6 +21,12 @@ reviewed_by: [editor]
 translation_of: resources/deeptutor
 source_updated: "2026-09-20T17:30:00-04:00"
 translation_note: "Автоматический перевод данной английской страницы, не проверенный носителем языка."
+contributors: [editor]
+ai_assist:
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: "2026-10-13"
+    agent: hermes-agent
 ---
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
 
