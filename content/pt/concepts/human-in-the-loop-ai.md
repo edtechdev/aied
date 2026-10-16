@@ -12,7 +12,7 @@ confidence: medium
 methods: [benchmark]
 ethics: [pedagogical-safety]
 translation_of: concepts/human-in-the-loop-ai
-source_updated: "2026-10-14T11:15:00-04:00"
+source_updated: 2026-10-14T11:15:00-04:00
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -164,3 +164,6 @@ O desenho com humano na alça não é meramente uma medida de segurança — é 
 - [[llm-grading-assistants-public-health-2026]] — Reexecuções idênticas de correção por LLM em dias diferentes se reproduzem em apenas alfa de Krippendorff 0,625
 - [[when-students-prefer-ai-scoring-feedback-2026]] — Graduandos preferem correção humana para trabalho de alto impacto e IA como assistente, não como substituta
 - [[student-query-demand-hybrid-ai-support-2026]] — O que os estudantes realmente perguntam: estrutura de demanda e potencial de automação em um sistema híbrido de apoio
+
+- **The critical question is how the loop is made actionable, not how much humans participate.** A learning-sciences view argues that organizing learning around data capture, computational interpretation and probable response makes pedagogical action depend on what systems can detect and act upon, and that alerts and engagement classifications interpret the learner before any teacher or student acts ([[in-the-loop-educational-ai-learning-sciences-2026|Pande (2026)]]).
+- [[in-the-loop-educational-ai-learning-sciences-2026]] — Rethinking "In-The-Loop" Approaches in Educational AI: A Learning Sciences Perspective

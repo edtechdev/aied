@@ -11,7 +11,7 @@ technology: [intelligent-tutoring]
 assessment: [feedback]
 confidence: high
 translation_of: concepts/scaffolding
-source_updated: "2026-10-15T08:25:00-04:00"
+source_updated: 2026-10-15T08:25:00-04:00
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -144,3 +144,6 @@ A distinção entre guiado por regras e ad-hoc alcança além do tutor e chega �
 - [[genai-cognitive-scaffold-geometric-reasoning-2026]] — A GenAI como scaffold de prompting que faz a ponte da intuição visual para a prova dedutiva em geometria, onde a visualização isoladamente é insuficiente (Davor 2026)
 - [[guided-ai-tutor-impasse-resolution-2026]] — Examinando a variação em como tutores de IA guiados resolvem impasses dos estudantes
 - [[structured-genai-training-physics-problem-solving-rct-2026]] — Treinar o estudante como scaffolding para o uso de GenAI na resolução de problemas de STEM (Huang et al. 2026)
+
+- **The function, not the tool, decides what counts as success:** [[vasileiou-ai-cognitive-scaffolding-executive-functioning-sen-2026|Vasileiou et al. (2026)]] propose a three-function framework for AI support in special education. *Compensation* reduces an executive demand so the learner can participate (success = access while support remains). *Scaffolding* supports performance just beyond current capability (success = decisions with targeted assistance). *Development* builds strategies usable without the tool (success = strategy use after fading or transfer). Each function carries a different evaluation standard, and the field's recurring error is reporting task completion during support as development. It is a narrative review with interpretive categories, not a pooled effect estimate.
+- [[etq-ai-conversational-teacher-training-2026]] — Conversational AI diagnostic for teaching misconceptions with evidence-grounded dialogue (Miranda & Calvani 2026)

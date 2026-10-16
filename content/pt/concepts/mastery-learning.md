@@ -8,7 +8,7 @@ confidence: medium
 created: "2026-08-29T12:55:12-04:00"
 updated: "2026-09-30T09:59:35-04:00"
 translation_of: concepts/mastery-learning
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: 2026-09-30T09:59:35-04:00
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -73,3 +73,6 @@ A avaliação baseada em padrões é a contraparte avaliativa da aprendizagem pa
 - [[neural-symbolic-knowledge-tracing]] — Injetando regras de domínio/não domínio na aprendizagem profunda para modelagem de estudante responsável e interpretável
 - [[mesny-innovative-assessment-grading-management-2026]]
 - [[crediting-assisted-work-inflates-mastery-2026]] — Creditar trabalho assistido infla o domínio: qual regra de evidência decide quem é declarado dominado (Srivastava 2026)
+
+- **Shared-control mastery learning is only as efficient as the learner's task-selection strategy.** A simulation study (1,000 simulated learners per run, AFM and BKT parameters fit to real MathTutor and DataShop logs) compared nine task-selection strategies. Efficiency varies by an order of magnitude: the risk-averse "Minimize Worst Case Loss" strategy — picking the skill whose worst-case mastery loss is smallest — produces 30.28x overpractice in equation-solving (28.93x in graph-interpretation), against 1.73 +/- 0.38 on average for the other strategies. Targeted system constraints rescue it surgically: task-selection constraints cut overpractice to 12.88/14.46x, and a problem-selection "Prefer Harder" bias cuts it to 1.98x (Cohen's d = 1.86) — while already-efficient strategies are unaffected. The design implication: constraints should be strategy-aware, protecting pathological self-regulators without taxing good ones, and simulation-first redesign avoids exposing students to 30x overpractice to discover the fix. ([[noh-simulating-task-selection-2026]])
+- [[noh-simulating-task-selection-2026]] — Simulating learners' task-selection strategies and system constraints in mastery learning (Noh et al. 2026)

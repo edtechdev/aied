@@ -11,7 +11,7 @@ audience: [instructors, administrators, learners]
 level: [adult learning, higher ed]
 confidence: high
 translation_of: concepts/professional-training
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: 2026-09-30T09:59:35-04:00
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -109,3 +109,5 @@ A formação profissional difere da educação acadêmica em seu foco em habilid
 - [[cigerci-primary-teachers-perceptions-ai-mathematics-2026]] — Pesquisa ligando treinamento prévio em IA e frequência de uso às percepções positivas de professores do primário turcos
 - [[kenzhebayeva-ai-role-rotation-pedagogical-model-2026]] — A rotação de papéis como mecanismo estruturante da preparação profissional com apoio de IA
 - [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — Questões abertas rumo à confiança sustentadora de habilidade no engajamento reflexivo com IA
+
+- [[adult-learning]]

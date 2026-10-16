@@ -11,7 +11,7 @@ confidence: medium
 audience: [instructors, policymakers, researchers]
 level: [preschool, primary education, secondary, k 12]
 translation_of: concepts/parents-and-families
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: 2026-10-03T02:57:43-04:00
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -113,3 +113,5 @@ Uma revisão de escopo de 2026 mapeia até onde o campo chegou. [[llm-family-edu
 - [[stromberg-generative-ai-learning-penalty-secondary-2026]] — terceirização da lição de casa, quedas nas provas e o argumento por monitorar insumos
 - [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]] — níveis de letramento em IA agnósticos em idade e a divisão digital de três níveis
 - [[llm-family-education-activity-theory-2026]] — Characterizing LLM-Based Family Education through the Lens of Activity Theory: A Scoping Review of the HCI Literature
+
+- [[intelligent-tutoring]] — the model behind AI-mediated parent–child tutoring

@@ -10,7 +10,7 @@ technology: [generative-ai]
 assessment: [assessment]
 confidence: high
 translation_of: concepts/ai-misuse-learning-harm
-source_updated: "2026-10-13T09:18:19-04:00"
+source_updated: 2026-10-13T09:18:19-04:00
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -100,3 +100,8 @@ A nuance prática mais importante é que o dano é **seletivo por tipo de avalia
 - [[academic-erasure-complexity-ai-writing-2026]] — Apagamento acadêmico: o desaparecimento da complexidade sob a escrita apoiada por IA
 - [[ai-dependency-self-efficacy-teacher-support-burnout-2026]] — A dependência de IA media totalmente a via da autoeficácia e do apoio do professor para o esgotamento com a aprendizagem (Huang et al. 2026)
 - [[uneven-impact-generative-ai-student-learning-2026]] — A dependência precoce prevê impacto negativo enquanto a dependência cognitiva prevê impacto positivo, e o letramento em avaliação fortalece em vez de amortecer o dano de consultar a IA primeiro (Manikonda et al. 2026)
+
+- **Confusion read as intent.** When instructors do not name AI's intended role in an assignment, students define it by what is easiest, and faculty read the resulting mismatch as cheating rather than as a boundary that was never stated ([[this-is-how-we-ai-teaching-guide-2026|Hanshaw et al., 2026]]).
+The gaming-the-system literature (hint abuse, systematic guessing) has a dialogue-era counterpart: conversational disengagement — mocking the agent, deliberately answering wrong, ghosting it, mirroring its text, or withholding responses. [[rho-disengaged-conversational-behaviors-2026|Rho et al. (2026)]] give this phenomenon its first systematic treatment in student-AI dialogue, and its central lesson is interpretative rather than alarmist. A disengaged *turn* is an interactional move, not a stable state of disengagement. False Answering's apparent association with post-test scores did not survive a human-annotated sensitivity check, and the authors read it as probing *within* trajectories that often return to engagement (the highest-performing cluster recovered at p = 0.42). The behavior that actually separated trajectories was Withholding — the refusal to respond, which persisted rather than resolved. For designers this inverts the usual priority: noisy, visible disengagement is often self-correcting, while quiet withdrawal signals that interaction has broken down.
+- [[rho-disengaged-conversational-behaviors-2026]] — Disengaged conversational behaviors and learning in student-AI dialogues (Rho et al. 2026)
+- [[this-is-how-we-ai-teaching-guide-2026]] — This is How We AI: A Practical Approach to Teaching with Artificial Intelligence

@@ -8,7 +8,7 @@ technology: [educational-robotics]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/project-based-learning
-source_updated: "2026-10-13T11:05:00-04:00"
+source_updated: 2026-10-13T11:05:00-04:00
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -87,3 +87,5 @@ A PBL se conecta ao [[active-learning|aprendizado ativo]], à [[experiential-lea
 - [[creative-project-approach-ai-early-childhood-2025]] — The Creative Project Approach: AI agents and robotics within the Project Approach in early childhood (Yang, Li & Lee 2025)
 - [[spec-driven-development-ai-agents-sdpbl-2026]] - SDD with AI agents in team software PBL
 - [[ai-ive-pbl-vocational-design-creativity-2026]] — AI-IVE-PBL: an immersive VR design studio with an embedded teaching agent, evaluated against traditional PBL (Jin et al. 2026)
+
+- **Students as agent designers at scale:** [[zangari-student-created-ai-agents-codesigned-instruction-2026|Zangari et al. (2026)]] had 345 undergraduates in a 700-student software design course each build a conversational agent explaining three design patterns to a peer — Part A a scaffolded Dialogflow CX tutorial, Part B an open-ended design task. The open-endedness was the top positive theme (22.3%) while unclear instructions topped negatives (23.7%), and perceived learning correlated with quiz scores only modestly (r = 0.161–0.315). The design lesson for PBL: student-created artifacts can carry the ownership benefits of self-flipped classrooms into AI-tool contexts, but the exploratory, no-control-group evidence supports engagement claims, not causal superiority.

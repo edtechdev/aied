@@ -13,7 +13,7 @@ level: [k 12, higher ed]
 confidence: high
 connected_resources: [claw-ed, edugems, playlab, teacherserver]
 translation_of: concepts/teacher-ai-competency
-source_updated: "2026-10-15T10:00:00-04:00"
+source_updated: 2026-10-15T10:00:00-04:00
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -188,3 +188,7 @@ A paisagem de instrumentos foi, desde então, revisada. A [[assessing-teachers-a
 - [[capability-decision-model-teacher-readiness-2026]] — Modelo ordenado de prontidão docente em IA com a capacidade em primeiro lugar e indicadores de capacidade baseados em desempenho
 - [[k12-teachers-genai-beliefs-five-countries-2026]] — Pesquisa transnacional com 1.405 professores do K-12: a prontidão prevê crenças positivas, mas não preocupação
 - [[teachers-ai-belief-profiles-talis-2024-2026]] — Quatro perfis de crenças de professores do TALIS 2024 ligam aprendizagem profissional e barreiras específicas de perfil ao uso de IA
+
+- **Microlearning can develop university teachers' AI competence.** [[microlearning-ai-modules-vocational-teacher-education-2026|Cechovsky (2026)]] refined two vocational-education modules across two online group discussions into five design principles — clear structure and orientation, guidance and navigation support, segmentation and modularization, multimodal presentation, and learner activation — and found platform navigation and locating modules the main practical barriers.
+- [[educational-development]]
+- [[microlearning-ai-modules-vocational-teacher-education-2026]] — Designing Microlearning Modules on AI for University Teachers in Vocational Teacher Education: A Design-Based Research Study

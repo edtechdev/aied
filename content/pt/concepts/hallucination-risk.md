@@ -11,7 +11,7 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation]
 translation_of: concepts/hallucination-risk
-source_updated: "2026-10-11T09:05:00-04:00"
+source_updated: 2026-10-11T09:05:00-04:00
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -83,3 +83,6 @@ As **abordagens de mitigação** incluem desenhos de [[human-in-the-loop-ai|huma
 - [[humble-prompt-injection-ai-grading-red-team-2026]] — Injeções de prompt escondidas elevam notas corrigidas por IA sem serem detectadas, e ataques detectados não são relatados (Humble 2026)
 
 - [[authentic-assessments-generative-ai-pilot-2026]] — Desenhando Avaliações Autênticas com IA Generativa: Um Estudo Piloto de Autenticidade da Avaliação no Ensino Superior
+
+**Labeled unreliability lowered reported dependence rather than raising it.** When 546 participants read the same GAI dialogue labeled either as containing fabricated information or as verified accurate, the fabricated label produced lower [[trust]] and perceived controllability and higher cognitive dissonance and frustration alongside *lower* dependence scores (M = 2.935 vs. 3.254) ([[frontiers-gai-hallucination-dependence-2026|Liu et al. (2026)]]). The result qualifies this page's over-reliance logic: seeing that an output may be fabricated is not the same as continuing to lean on it.
+- [[frontiers-gai-hallucination-dependence-2026]] — Labeling a GAI dialogue as fabricated lowered trust and dependence together

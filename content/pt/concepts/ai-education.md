@@ -13,7 +13,7 @@ connected_faqs: [top-10-findings-ai-education-instructors]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: concepts/ai-education
-source_updated: "2026-10-02T07:35:56-04:00"
+source_updated: 2026-10-02T07:35:56-04:00
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -202,3 +202,5 @@ Revisões de campo sobre a IA na educação, os estudos que examinam todo o camp
 - [[genai-educational-outcomes-meta-analysis]]: Generative AI and educational outcomes: comprehensive meta-analysis
 - : a research agenda for AI companions built around learning rather than performance
 
+The field's own research work is now a subject in its own right. [[ai-assisted-educational-research|AI-Assisted Educational Research]] covers AI used as an instrument for literature search, screening, qualitative coding, analysis, and writing, including practitioner research such as the scholarship of teaching and learning. It stays distinct from the designs used to study what AI does to learners.
+- [[pedagogical-patterns]] — The tested sequences that operationalize the field's pedagogies

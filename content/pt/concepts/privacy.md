@@ -11,7 +11,7 @@ level: [k 12]
 confidence: high
 institutions: [educational-policy-ai, governance, regulation]
 translation_of: concepts/privacy
-source_updated: "2026-10-14T14:35:00-04:00"
+source_updated: 2026-10-14T14:35:00-04:00
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -98,3 +98,6 @@ A privacidade se conecta à [[learning-analytics|análise de aprendizagem]] (a c
 - [[agarwal-ethical-values-norms-aied-2026]] — Ethical values and norms for AI in education
 - [[harerimana-remote-proctoring-nursing-scoping-2026]] — What proctoring systems capture, and the privacy literature's absence from the evidence base
 - [[edtech-privacy-deferral-2026]] — "We'll Fix It Later": Education, AI, and the Deferral of Student Privacy in EdTech
+
+- **Audit for who is protected.** Privacy safeguards should not default to protecting only some learners; [[equity-in-ai-education|equity]] demands that the same care applies across age, language, disability, and socioeconomic lines.
+- [[browser-sized-agents-slm-webllm-tutor-2026]]

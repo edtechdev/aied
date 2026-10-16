@@ -12,7 +12,7 @@ confidence: high
 connected_faqs: [asynchronous-online-courses-ai]
 methods: [ai-ed-evaluation]
 translation_of: concepts/learning-analytics
-source_updated: "2026-10-13T11:05:00-04:00"
+source_updated: 2026-10-13T11:05:00-04:00
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -161,3 +161,7 @@ A instrumentação em nível de processo é o próximo passo para baixo da camad
 - [[edtech-privacy-deferral-2026]] — "Vamos consertar depois": educação, IA e o adiamento da privacidade do estudante no EdTech
 - [[synthetic-educational-data-structural-fidelity-2026]] — O que as métricas de fidelidade perdem: uma verificação estrutural sobre dados educacionais sintéticos
 - [[akcapinar-ai-cheating-risk-lms-prediction-2026]] — Akçapınar (2026) — Previsão do risco de fraude assistida por IA a partir de traços de LMS do início do semestre (AUC 0,763)
+
+- **Behavioral traces are not measures of cognitive state — especially for special-needs learners.** [[vasileiou-ai-cognitive-scaffolding-executive-functioning-sen-2026|Vasileiou et al. (2026)]] warn that interaction traces (time on task, repeated errors, help-seeking, irregular progress) can help teachers locate where a learner needs support, but are not transparent measures of internal states: slow responding may reflect careful thought, language processing, distraction, inaccessible design, or technical difficulty. "Algorithms should not infer an executive deficit or diagnostic status from behavioral data alone" — analytics are defensible as one source of information within professional assessment and dialogue with the learner.
+- **The learning system wall: log data doesn't generalize across platforms.** MATHia, i-Ready, and IXL each define even basic constructs — an "attempt," a "hint" — differently, so models can't transfer between them. A work-in-progress response attacks the problem from the video side: a Gemini pipeline distills tutoring screen recordings into a single screenplay transcript aligned to native MATHia logs as ground truth. What video recovers that no single stream does: whiteboard scaffolding, silent calculator work in external tools, and off-screen context that native logs reduce to "idleness." Open challenges remain in temporal anchoring, clock drift, and separating platform events from other learning processes. ([[thomas-breaking-learning-system-wall-2026]])
+- [[thomas-breaking-learning-system-wall-2026]] — Towards breaking the learning system wall using multimodal tutoring transcriptions (Thomas et al. 2026)

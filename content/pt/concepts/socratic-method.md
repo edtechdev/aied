@@ -12,7 +12,7 @@ audience: [learners]
 level: [higher ed]
 confidence: high
 translation_of: concepts/socratic-method
-source_updated: "2026-10-15T08:25:00-04:00"
+source_updated: 2026-10-15T08:25:00-04:00
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -157,3 +157,7 @@ O método socrático está intimamente ligado ao [[scaffolding|suporte]] (fornec
 - [[socratic-nuclear-ai-learning]] — Socrates went Nuclear: Comparing Interaction Strategies for AI in Learning
 - [[lftutor-logical-fallacy-education-2026]] — Socratic questioning plus critical argumentation in a four-step fallacy-tutoring framework
 - [[guardrails-ai-teaching-assistants-programming-2026]] — Guardrails or Roadblocks? Effects of Pedagogical Style and Context Awareness in AI Teaching Assistants for Programming
+
+**Socratic tutoring in biology teacher preparation.** A quasi-experiment with 124 prospective biology teachers found a ChatGPT-4 Socratic tutor on socio-scientific issues outperformed offline peer discussion on argumentation quality (F(1,121) = 14.23, p < .001), with gains concentrated in rebuttal and counter-evidence evaluation rather than claim formation ([[genai-socratic-tutor-biology-argumentation-2026|Ergasheva et al., 2026]]).
+- [[genai-socratic-tutor-biology-argumentation-2026]] — Enhancing PISA-aligned argumentation skills of prospective biology teachers through generative artificial intelligence
+- [[etq-ai-conversational-teacher-training-2026]] — Conversational AI diagnostic for teaching misconceptions with evidence-grounded dialogue (Miranda & Calvani 2026)
