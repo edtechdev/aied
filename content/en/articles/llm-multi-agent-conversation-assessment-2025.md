@@ -1,7 +1,7 @@
 ---
 title: "An LLM-Enhanced Multi-Agent Architecture for Conversation-Based Assessment"
 created: "2026-10-04T05:55:00-04:00"
-updated: "2026-10-04T05:55:00-04:00"
+updated: "2026-10-16T14:32:42-04:00"
 type: article
 sources: ['raw/papers/llm-multi-agent-conversation-assessment-2025.md']
 confidence: low
@@ -70,4 +70,4 @@ Two failures are reported plainly. In one exchange the agent repeated a question
 
 ## Citation
 
-Hou, X., Forsyth, C., Andrews-Todd, J., Rice, J., Cai, Z., Jiang, Y., Zapata-Rivera, D., & Graesser, A. (2025). An LLM-Enhanced Multi-Agent Architecture for Conversation-Based Assessment. *AIED 2025: 26th International Conference on Artificial Intelligence in Education*.
+Hou, X., Forsyth, C., Andrews-Todd, J., Rice, J., Cai, Z., Jiang, Y., Zapata-Rivera, D., & Graesser, A. (2025). [*An LLM-Enhanced Multi-Agent Architecture for Conversation-Based Assessment*](https://doi.org/10.1007/978-3-031-98417-4_9). In *AIED 2025: 26th International Conference on Artificial Intelligence in Education*, LNCS, pp. 119–134. Springer.
