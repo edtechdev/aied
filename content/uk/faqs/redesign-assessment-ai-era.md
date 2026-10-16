@@ -14,6 +14,7 @@ ai_assist:
 translation_of: faqs/redesign-assessment-ai-era
 source_updated: "2026-10-02T08:21:34-04:00"
 translation_note: "Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови."
+contributors: [editor]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*

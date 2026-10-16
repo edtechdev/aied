@@ -21,6 +21,7 @@ ai_assist:
     role: translation
     date: "2026-10-12"
     agent: hermes-agent
+contributors: [editor]
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*

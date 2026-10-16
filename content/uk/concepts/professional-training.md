@@ -18,6 +18,7 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+contributors: [editor]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*

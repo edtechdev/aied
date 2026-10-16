@@ -13,6 +13,12 @@ audience: [instructors, faculty developers, administrators]
 level: [higher ed]
 sources: ['raw/papers/nicola-richmond-program-wide-assessment-genai-2026.md']
 confidence: high
+contributors: [editor]
+ai_assist:
+  - model: stepfun/step-5-preview:free
+    role: drafting
+    date: "2026-10-11"
+    agent: hermes-agent
 ---
 > **Synthesis:** Nicola-Richmond et al. (2026) report a combined ethnographic and interpretive phenomenological study of a collaborative program-wide project to redevelop [[assessment]] in response to [[generative-ai]] in a School of Health at a large Australian university. Thirteen participants — academic team members (n = 4), project leads (n = 3) and researchers (n = 6) — contributed 8 project meetings, 3 focus groups and 12 reflective diary entries, analyzed thematically. The study documents what a program-wide approach actually feels like to the people doing the work: low confidence and strong negative emotions early on, views that evolve from avoidance toward ethical integration, a persistent gap between principles and concrete task-level practice, and five success features — a range of expert stakeholders working collaboratively, openness and curiosity, professional development, protected time for sharing and reflection, and industry input. The authors' central claims for practice: designing quality assessment is the same challenge it has always been but harder, and GenAI is also a "trojan mouse" opportunity to fix long-standing assessment weaknesses.
 
@@ -45,14 +51,11 @@ confidence: high
 
 ## What this means for practice
 
-- **Instructors.** Expect the emotional load and normalize it: participants reported feeling "daunted" and "quite freaked out," and a collaborative program-wide setting was what made those feelings manageable — run assessment-change work in teams, not alone.
-- **Instructors.** Treat university guidance gaps as a design input, not a blocker: when institutional policy on acceptable GenAI use is unclear, set explicit task-level rules and revisit them as guidance firms up, rather than avoiding the question.
+- **Instructors.** Expect the emotional load and normalize it: participants reported feeling "daunted" and "quite freaked out," and a collaborative program-wide setting was what made those feelings manageable — run assessment-change work in teams, not alone, and set explicit task-level rules when institutional guidance on acceptable GenAI use is still unclear rather than avoiding the question.
 - **Faculty developers.** Fund the full redesign loop, not just the writing: participants counted rubric rework, assessment-panel review, feedback cycles and LMS updates as part of every single task change — resource the sequence or it stalls.
-- **Faculty developers.** Assemble the whole village deliberately: assessment design expertise, GenAI expertise, learning design, subject knowledge, program mapping and industry voices — participants asked for *more* diversity here, including technical expertise, not less.
-- **Faculty developers.** Invest in professional development up front and keep support available throughout; participants named equal access to PD and mentoring as a defining feature of the approach that worked.
+- **Faculty developers.** Assemble the whole village deliberately and invest up front: assessment design, GenAI and technical expertise, learning design, subject knowledge, program mapping and industry voices, with equal access to professional development and mentoring sustained throughout.
 - **Administrators.** Protect the meeting time where "all views are okay": the sharing-and-reflection slots were what let views evolve from avoidance toward ethical integration, which is where the redesign gains came from.
-- **Administrators.** Use the program-wide lens to scaffold GenAI use deliberately across a qualification — from less to more sophisticated use over the program — rather than leaving each unit to decide independently.
-- **Administrators.** Plan for scale limits: with few [[authentic-assessment|assurance-of-learning]] designs that scale beyond small, on-campus cohorts, budget for oral/performative assessment where cohorts allow and accept that online and large-cohort units need a different answer.
+- **Administrators.** Scaffold GenAI use deliberately across a qualification — from less to more sophisticated use over the program — rather than leaving each unit to decide independently, and plan for scale limits: few [[authentic-assessment|assurance-of-learning]] designs scale beyond small, on-campus cohorts, so budget for oral or performative assessment where cohorts allow and accept that online and large-cohort units need a different answer.
 
 ## Limitations
 
