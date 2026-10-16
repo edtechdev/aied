@@ -80,7 +80,7 @@ A educação matemática se situa dentro do domínio mais amplo de [[stem-educat
 
 - [[stem-education]]
 - [[intelligent-tutoring]]
-- [[scaffolding]]
+- scaffolding
 - [[affective-computing]]
 - [[affective-tutoring]]
 - [[k-12]]

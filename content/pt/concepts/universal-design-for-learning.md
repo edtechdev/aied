@@ -94,7 +94,7 @@ O DUA transforma "consertar quem aprende" em "consertar o design". Para professo
 - [[culturally-relevant-pedagogy]]
 - [[authentic-assessment]]
 - [[student-experience]]
-- [[generative-ai]]
+- generative-ai
 - [[pedagogy]] — Guarda-chuva: pedagogias e estratégias de ensino na educação com IA
 - [[bias-mitigation]]
 - [[reducing-ai-misuse]]

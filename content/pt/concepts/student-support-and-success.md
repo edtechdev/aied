@@ -108,7 +108,7 @@ O apoio aos estudantes conecta-se à [[student-experience|experiência do estuda
 - [[educational-policy-ai]] — o contexto de política para a implantação institucional
 - [[equity-in-ai-education]] — quem o sistema alcança e quem ele deixa passar
 - [[privacy]] — registros de estudantes, compartilhamento de dados e abordagens federadas
-- [[human-in-the-loop-ai]] — julgamento humano dentro de um fluxo automatizado de apoio
+- human-in-the-loop-ai — julgamento humano dentro de um fluxo automatizado de apoio
 - [[rct]] — o desenho por trás da evidência mais forte aqui
 
 ## Artigos conectados

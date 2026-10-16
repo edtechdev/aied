@@ -85,7 +85,7 @@ A educação em química está dentro do domínio mais amplo de [[stem-education
 - [[philosophy-of-ai-in-education]]
 - [[higher-ed]]
 - [[k-12]]
-- [[agency]]
+- agency
 - [[biology-education]] — Educação em biologia e IA: assistentes de ensino em laboratório, letramento em IA em biologia, pensamento crítico, ferramentas especializadas
 
 ## Artigos conectados
