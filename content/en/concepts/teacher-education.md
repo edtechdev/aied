@@ -1,7 +1,7 @@
 ---
 title: Professional Development
 created: "2026-08-16T10:55:19-04:00"
-updated: "2026-10-03T02:57:43-04:00"
+updated: "2026-10-16T08:47:09-04:00"
 type: concept
 foundations: [ai-literacy, teacher-role, tpack]
 connected_faqs: [faculty-development-ai]
@@ -26,6 +26,8 @@ reviewed_by: [editor]
 Teacher education sits at the intersection of several knowledge base strands: it is a discipline/domain (like [[medical-education]] and [[humanities-education]]), but it also draws on the general concepts of [[teacher-role]], [[tpack]], [[teacher-ai-competency]], and [[ai-literacy]]. In the AI era, teacher education must prepare teachers not only to use AI tools but to understand, evaluate, and ethically integrate them — a shift that redefines what it means to be a teacher. The [[learning-sciences|learning sciences]] supply the knowledge this formation has to carry: where that field studies how people learn and how learning environments should be designed, teacher education is the professional formation in which such evidence has to land as a teacher's own capacity to design, teach and assess.
 
 Cross-level evidence sharpens the design priority: [[pedagogy-first-technology-second-teacher-knowledge-2026|a multilevel study of 46 teachers and 2,832 secondary students]] found that pedagogical AI knowledge (TPAIK) — not technical AI knowledge — drove students' perceptions of AI for social good and their intention to learn AI. Teacher education should therefore foreground *how to teach with and about AI* over tool proficiency, consistent with the "pedagogy first, technology second" guideline.
+
+A heutagogical strand runs alongside this design priority: [[heutagogical-teaching-ai-enhanced-education-2026|Hochberg & Waitzman (2026)]] followed 93 Israeli teachers through an eight-week AI professional-development program and proposed a dual-layer relationship in which teachers' own reflective [[regulation|regulation]] and critical AI literacy mediate the [[agency|agency]]- and capability-oriented designs they create for [[learners|learners]].
 
 ### Pre-service teacher education
 
@@ -74,6 +76,7 @@ Beyond content and beliefs, teacher preparation increasingly uses **simulated cl
 ## Implications for teacher educators
 
 - **Build both AI literacy and critical AI-TPACK.** Pre-service and in-service teachers need readiness to integrate AI — instruments extend TPACK with an AI/ethics dimension ([[ai-tpack-mathematics-teacher-education-2026|AI-TPACK]], [[designing-ai-professional-development-itpack-2026|i-TPACK PD]]); teach ethical reasoning, transparency, and fairness alongside tool use.
+- **Measure capability rather than confidence.** [[capability-decision-model-teacher-readiness-2026|Mnguni (2026)]] argues that self-reported TPACK and perceived behavioral control may both index general confidence, and proposes scoring readiness with lesson-design tasks and prompt-evaluation tasks rather than self-report alone, ordering AI-TPACK capability upstream of attitude and intention.
 - **Close the articulate-vs-enact gap.** Teachers often claim operational AI skills but struggle to apply them pedagogically; design PD that moves from knowledge to enacted practice ([[teachers-ai-knowledge-genai-lesson-planning-2026|lesson planning]]).
 - **Use simulated practice to scale preparation.** [[educasim-cs1-instructional-practice|EducaSim]]-style simulated classrooms give teachers-in-training low-cost, high-frequency practice with feedback — a complement to limited live coaching.
 - **Address beliefs and trust.** [[self-efficacy]] predicts AI-TPACK while strong traditional-teaching beliefs can be a barrier, and [[trust]] is shaped by transparency/fairness — attend to these psychological factors, not just skills.
@@ -141,3 +144,5 @@ Beyond content and beliefs, teacher preparation increasingly uses **simulated cl
 - [[obyrne-co-constructing-ai-boundaries-agency-judgment-2026]] — traces pre-service teachers building AI boundaries in a semester-long literacy ethnography
 
 - [[unscaffolded-genai-preservice-teachers-quasi-experiment-2026]] — Unscaffolded genAI lowered pre-service teachers' lesson-plan quality below the no-genAI class
+- [[capability-decision-model-teacher-readiness-2026]] — Measure capability rather than confidence
+- [[heutagogical-teaching-ai-enhanced-education-2026]] — A heutagogical dual-layer model linking teachers' own reflective regulation to learner agency

@@ -1,7 +1,7 @@
 ---
 title: Equity
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-10-09T08:42:12-04:00"
+updated: "2026-10-16T08:47:09-04:00"
 type: concept
 foundations: [ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring]
@@ -83,6 +83,7 @@ Preparation matters more than preference, and the right to refuse is unevenly di
 ## Linguistic, cultural, and disability inclusion
 
 - **Language:** Most AI tools prioritize English, marginalizing [[multilingual-learning|multilingual]] learners. [[genai-linguistic-diversity-academic-writing|Linguistic diversity in academic writing]], [[structural-silence-underrepresented-language-ai-2026|underrepresented languages]], and [[language-learning]] research address this.
+- **Detection fires hardest on multilingual writers.** Because detectors classify on textual predictability rather than provenance, the low perplexity and formulaic density they flag are also features of additional-language [[writing-education|writing]]; documented studies found GPT detectors misclassifying a large share of authentic TOEFL essays by non-native English speakers — a differential-effects risk before it is a technical one ([[angelier-ai-detection-pitfalls-inclusive-assessment-2026|Angelier (2026)]]).
 - **Recognition, not just access: AI's cultural flatness as an equity finding:** In a 9-month narrative inquiry with five secondary-school apprentices of color, [[gyekye-selves-apprenticeship-2026|Gyekye (2026)]] found students equated fairness with the *absence* of visible bias — a "cultural flatness" in which identity-specific experiences and cultural markers go unrepresented in AI responses — and constructed agency through refusal (non-use as institutional alignment) and negotiation (making AI outputs institutionally legible). The study's Recognition Bandwidth concept names the room learners have to see themselves in AI outputs, and Institutional AI Literacy the capacity to navigate AI within institutional expectations. A five-student single-program qualitative study; its equity contribution is showing that neutrality-as-fairness can itself be the exclusion mechanism.
 - **Who benefits from an AI tutor — exploratory field evidence:** In a full-district rollout of a teacher-mediated AI math platform, [[alam-goblins-math-platform-2026|Goblins (Alam et al. 2026)]] found larger achievement associations for students with IEPs (+0.122 SD), English learners (+0.191 SD), and Hispanic students (+0.084 SD) than for comparison groups, consistent with its multimodal input and seven-language voice support lowering engagement barriers. The authors are explicit that the exploratory, underpowered subgroups cannot establish that the accessibility features caused the differential — an early, hypothesis-generating signal rather than an equity finding.
 - **Culture:** [[culturally-relevant-pedagogy|Culturally relevant pedagogy]] and [[culturally-aware-aied-community-learning|community-centered AIED]] call for AI that reflects learners' cultural contexts rather than imposing dominant norms.
@@ -101,6 +102,7 @@ Preparation matters more than preference, and the right to refuse is unevenly di
 
 - **Fairness is design, not afterthought:** [[bias-mitigation|bias mitigation]] and fairness-aware algorithms must be built into AI tutors, scorers, and recommenders, and evaluated for equity alongside accuracy.
 - **Infrastructure is equity:** addressing the [[digital-divide|digital divide]] and underrepresented-language infrastructure is a precondition for equitable AI, not a secondary concern.
+- **Teacher-mediated delivery reaches students the AI never touches.** Where the [[digital-divide|digital divide]] rules out one device per student, [[rodrigues-aied-unplugged-numeracy-2026|Rodrigues et al. (2026)]] kept students working with paper and pen while teachers photographed their solutions and the AI returned personalized exercise lists and error-specific [[feedback|feedback]], in a clustered quasi-experiment across 19 Brazilian public-school classes.
 - **Representation matters in content and assessment:** AI-curated materials and [[automated-assessment|automated assessment]] must reflect and not penalize diverse learners, cultures, languages, and knowledge systems.
 - **Pair access with support:** providing tools is insufficient; learners need skills, conditions, and culturally relevant [[scaffolding]] to benefit.
 - **Reach the audiences formal education misses:** the [[ai-literacies-young-adults-2025|AI Literacies framework for public service media]] argues that provision will keep reaching the already-advantaged unless it is designed otherwise, names young people who are digitally or otherwise marginalized as those with the fewest opportunities through formal education, and proposes targeted partnerships plus national-reach provision — not universal publication — as the remedy.
@@ -173,3 +175,5 @@ Preparation matters more than preference, and the right to refuse is unevenly di
 - [[gurung-hybrid-human-ai-tutoring-2026]] — Improving hybrid human-AI tutoring by differentiating human tutor roles based on student needs (Gurung et al. 2026)
 - [[alam-goblins-math-platform-2026]] — District AI-math rollout with larger exploratory associations for IEP, English-learner, and Hispanic students (multimodal/multilingual supports; causality untested)
 - [[gyekye-selves-apprenticeship-2026]] — Apprentices of color equated fairness with cultural flatness; agency constructed through refusal and negotiation; Recognition Bandwidth and Institutional AI Literacy
+- [[rodrigues-aied-unplugged-numeracy-2026]] — Teacher-mediated delivery reaches students the AI never touches
+- [[angelier-ai-detection-pitfalls-inclusive-assessment-2026]] — Detection fires hardest on multilingual writers

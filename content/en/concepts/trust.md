@@ -1,7 +1,7 @@
 ---
 title: Trust
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-10-16T06:45:00-04:00"
+updated: "2026-10-16T08:47:09-04:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, human-ai-collaboration]
 technology: [educational-robotics, intelligent-tutoring]
@@ -42,6 +42,8 @@ How explainable a system is — and in what terms — also shapes whether teache
 
 
 Trust in AI behaves as a pathway from appraisal to reliance rather than a single attitude: perceived AI empowerment and perceived AI threat were near-independent (r=0.030) yet moved trust in opposite directions (β=0.576 and β=−0.328), and trust carried significant indirect associations with GenAI dependence in both directions ([[ai-empowerment-threat-genai-dependence-2026|Zhu et al. (2026)]]).
+
+A structural model gives that bridging role an empirical test. In [[trust-calibration-genai-collaborative-regulation-2026|Bu & Li (2026)]]'s survey of 642 university students, contextual support predicted trust calibration (β = 0.56), trust calibration predicted [[collaborative-learning|collaborative]] [[regulation|regulation]] (β = 0.49) and perceived [[transfer-of-learning|transfer]] gains (β = 0.22), and the direct path from contextual support to gains was not significant.
 
 [[student-perspectives-ai-writing-grading-2026|AlGhamdi (2026)]] supports a **function-specific rather than global** account of trust in algorithms: neither algorithm aversion nor algorithm appreciation described these 13 students, who simultaneously trusted ChatGPT for surface-level feedback and distrusted it as a grader. Their trust was conditional on instructor oversight, and their skepticism stemmed from the AI's contextual limits — misreading scanned handwriting ("it spelled my last name wrong and it thinks I made mistakes in my spelling when I didn't"), not knowing the instructor's rating system, and chronic positivity — rather than from technophobia, suggesting trust measures should be decomposed by the function an AI performs and the stakes attached to it.
 
@@ -116,3 +118,4 @@ Calibration is also tested by the incentives of the trusted system itself. When 
 - [[ai-empowerment-threat-genai-dependence-2026]] — Empowerment and threat appraisals moved trust in opposite directions, carrying GenAI dependence
 - [[observer-perceptions-genai-interpersonal-trust-2026]] — Peers' GenAI use lowers interpersonal trust through perceived warmth and competence, buffered by AI literacy
 - [[tuo-armada-multi-agent-debate-overreliance-2026]] — Credibility cues raised switching to an incorrect AI position; withholding a recommendation suppressed it
+- [[trust-calibration-genai-collaborative-regulation-2026]] — A structural model gives that bridging role an empirical test

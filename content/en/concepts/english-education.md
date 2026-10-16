@@ -1,7 +1,7 @@
 ---
 title: English Education (EAP / EFL / ESL)
 created: "2026-08-21T12:30:00-04:00"
-updated: "2026-09-30T09:59:35-04:00"
+updated: "2026-10-16T08:47:09-04:00"
 type: concept
 foundations: [academic-integrity]
 technology: [generative-ai]
@@ -73,6 +73,8 @@ Many writing-education articles are English-first (e.g., [[marked-pedagogies-lin
 
 AI's English dominance is a defining feature of this strand. Because models are strongest in English and in standard academic English specifically, English education both benefits disproportionately (powerful EAP scaffolds) and carries distinctive risks (monolingual bias, discrimination against World Englishes and multilingual writers). Research here connects to [[equity-in-ai-education|equity]], [[bias-mitigation|bias mitigation]], [[automated-assessment|automated assessment]], [[ai-feedback-quality|AI feedback quality]], and [[academic-integrity|academic integrity]].
 
+A Scopus-based synthesis of 54 EFL studies locates the field's most-reported [[limitations-in-aied-research|limitations]] in learner autonomy: [[cognitive-offloading|overreliance]] on AI in 27 studies (50%) and reduced [[critical-thinking|critical thinking]] in 25 (46%), against unreliable AI-generated output in 22 (41%) as the leading technical problem ([[ai-limitations-efl-higher-education-review-2026|Espinoza-Celi & Vargas-Saritama (2026)]]).
+
 ## Implications for English / EAP / EFL-ESL instructors
 
 - **Exploit AI's strength for academic English, deliberately.** Because models are strongest in English and standard academic English, EAP instructors can deploy AI for genre-based writing, reading-material differentiation ([[genai-differentiated-eap-reading-materials-2026|EAP materials]]), and revision feedback — but should frame AI as a drafting/feedback partner, not an answer engine.
@@ -122,3 +124,4 @@ AI's English dominance is a defining feature of this strand. Because models are 
 - [[bird-multimodal-educational-literature-2026]] — Multimodal fusion for classifying educational literature
 - [[li-language-educators-genai-review-2026]] — Language educators' practices and development with GenAI
 - [[zhao-ji-appraisal-human-ai-revisions-2026]] — Peer and AI revisions of EFL argumentative essays differ in dialogic positioning (Zhao & Ji 2026)
+- [[ai-limitations-efl-higher-education-review-2026]] — Overreliance on AI (50% of 54 studies) and reduced critical thinking lead the reported limitations

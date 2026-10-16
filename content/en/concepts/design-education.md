@@ -1,7 +1,7 @@
 ---
 title: "Design Education"
 created: "2026-09-17T14:04:29-04:00"
-updated: "2026-10-16T06:36:28-04:00"
+updated: "2026-10-16T08:47:09-04:00"
 type: concept
 foundations: [ai-literacy, design-thinking]
 pedagogy: [creativity, professional-training]
@@ -51,6 +51,7 @@ It is also distinct from [[design-thinking]], a human-centered problem-solving m
 - **GenAI can assist a workflow while weakening creative self-belief.** In a 36-student architectural design experiment, a DALL-E 3 workflow matched precedent search on rated performance and cognitive load, yet general creative [[self-efficacy|self-efficacy]] fell (DiD = −0.543) while task-specific confidence held ([[caeai-genai-architectural-design-creative-self-efficacy-2026|Xiao et al., 2026]]).
 
 - **AI critique can be bound to the artifact rather than the prompt.** [[critsly-design-education-ai-critique-2026|Kadir (2026)]] routes studio feedback through a shared board of designs, notes and pins and five bounded activities; the study reports simulated readiness (78% of 109 labels at Analyzing or above), not learning gains.
+- **A process rubric can make AI verification the graded object.** [[human-ai-collaboration-design-education-rubric-2026|Orhon et al. (2026)]] propose the Merit Report, a four-criterion rubric (documented curatorial will 20%, tectonic translation 20%, rule-based technical validation 40%, peer audit 20%) that grades a student's documented AI-verification process rather than the artifact's polish, underwritten by a [[tpack|TPACK]] extension they call AI-Validation Knowledge.
 
 ## Professional formation and regulation
 
@@ -94,3 +95,4 @@ Assessment problems here are inseparable from professional ones. [[ai-interior-d
 - [[rana-genai-design-thinking-2025]]
 - [[critsly-design-education-ai-critique-2026]] — Critsly/StudioCrit: artifact-aware AI critique workspace for studio feedback; simulation-based readiness study, not learning gains
 - [[caeai-genai-architectural-design-creative-self-efficacy-2026]] — An architectural-design experiment in which a DALL-E 3 workflow lowered general creative self-efficacy
+- [[human-ai-collaboration-design-education-rubric-2026]] — A process rubric can make AI verification the graded object

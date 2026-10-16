@@ -1,7 +1,7 @@
 ---
 title: RCT
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-01T20:35:10-04:00"
+updated: "2026-10-16T08:47:09-04:00"
 type: concept
 foundations: [ai-education]
 technology: [generative-ai]
@@ -30,6 +30,7 @@ Randomization is what distinguishes an RCT from other designs: by randomly assig
 
 - **Micro-RCTs as a response to fast-moving technology:** [[ai-tutoring-micro-rct-gcse-science-2026|Harrison et al. (2026)]] argue that conventional large-scale trials cannot keep pace with tutoring [[edtech-platform|platforms]] that change materially during a study, and use [[teacher-role|teacher]]-led micro-randomized controlled trials across English secondary schools (644 of 929 students completing post-testing, g = 0.33) to keep causal estimation repeatable. The trade-offs are stated in their own design: 30.7% attrition, [[curriculum-design|curriculum]]-aligned rather than independently standardized outcomes, and only four weeks of follow-up.
 - **Causal efficacy claims:** RCTs in AIED test whether an AI tutor, tool, or pedagogical treatment improves outcomes. [[generative-ai-education-productivity-gaps|A randomized experiment on generative AI]] with 1,174 participants found GenAI substantially narrows education-based productivity gaps, closing roughly three-quarters of the initial performance difference — a clear causal estimate of AI's effect.
+- **An outcome measured after a delay, not at the end of the session.** Randomizing 120 [[higher-ed|undergraduates]] to AI-assisted or traditional study of the same topics and testing retention 45 days later, the AI-assisted group scored 57.5% against 68.5%, a gap of about 11 percentage points ([[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025|Barcaui (2025)]]).
 - **Comparison to the gold standard:** The [[research-methods-aied|research methods]] page situates RCTs as the strongest design for internal validity while noting their trade-offs — cost, artificial conditions, fast-changing AI, small underpowered samples, and ethical limits on withholding potentially helpful tools.
 
 - **A trial designed for equivalence, not difference.** [[studentbench-ai-human-tutoring-gre-2026|Northcutt et al. (2026)]] randomized 2,383 adults to AI tutoring, live human tutoring, or a video control, wrote new GRE items with former ETS and Kaplan test developers to keep published-test contamination out, counterbalanced the two forms, and tested equivalence with two one-sided tests against ±0.25 SD rather than a difference - the design choices that make "no significant difference" an interpretable result.
@@ -67,3 +68,4 @@ For the fuller treatment of experimental design in AI in education — including
 - [[ai-tutoring-micro-rct-gcse-science-2026]] — Evaluating AI Tutoring at the Speed of Innovation: Practitioner-Led Micro-Randomized Trials of an AI Tutoring Platform in GCSE Science
 - [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: AI and human tutoring yield equivalent GRE learning gains
 - [[liu-course-integrated-ai-tutoring-rct-2026]] — Group randomization by instructor: a 0.37 SD fall in final grades and a 0.90 SD fall in platform participation, with 15% uptake and inference on 34 clusters (Liu et al. 2026)
+- [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025]] — An outcome measured after a delay, not at the end of the session

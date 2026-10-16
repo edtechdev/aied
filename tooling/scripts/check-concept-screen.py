@@ -175,10 +175,11 @@ def main(argv):
         integrated = entry.get('integrated') or []
         decided = {label_slug(str(c)) for c in integrated}
         decided.update(label_slug(str(c)) for c in (entry.get('no_change') or []))
-        if not integrated:
-            if not str(entry.get('reason') or '').strip():
-                problems.append('%s: recorded with no integration and no reason' % slug)
-            continue
+        if not integrated and not str(entry.get('reason') or '').strip():
+            # An empty integrated list is only meaningful with a recorded reason, and is
+            # still subject to the candidate check below: "nothing was woven" must be a
+            # screened conclusion, not a way to skip the question.
+            problems.append('%s: recorded with no integration and no reason' % slug)
         for c in integrated:
             cpath = os.path.join(path(cfg, 'concepts'), '%s.md' % c)
             if not os.path.exists(cpath):

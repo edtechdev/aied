@@ -1,7 +1,7 @@
 ---
 title: Theory Development in AI in Education
 created: "2026-08-22T07:08:19-04:00"
-updated: "2026-10-15T21:52:00-04:00"
+updated: "2026-10-16T08:47:09-04:00"
 type: concept
 foundations: [ai-education, limitations-in-aied-research]
 pedagogy: [learning-theories]
@@ -44,6 +44,7 @@ The synthetic position adds a rival bid that does state propositions: it names *
 Teacher-side theorizing now makes the same testability commitment: the Capability–Decision Model orders [[tpack|AI-TPACK]] capability upstream of attitude and perceived behavioral control and names four disconfirmation conditions — mediation failure, discriminant collapse, moderation nullity and context redundancy — though the model remains untested ([[capability-decision-model-teacher-readiness-2026|Mnguni (2026)]]).
 
 - **Epistemic co-agency.** [[learning-with-machines-toward-a-theory-of-epistemic-co-agency|Learning with Machines]] builds "toward a theory of epistemic co-agency," a theory-informed model of how learners and GenAI systems jointly produce knowledge and understanding.
+- **Cognitive partnership cycle.** [[page-cognitive-partnership-cycle-human-ai-2026|Page (2026)]] proposes the Cognitive Partnership Cycle, a six-phase recursive model — Human Question, AI Expansion, Human Reflection, Integration, Revision, and New Question — that locates learning in a change in the learner's cognitive position rather than in prompt sophistication, and names four failure modes where the same recursion substitutes for or distorts thinking.
 - **The absent cognitive baseline (ACB).** [[absent-cognitive-baseline-2026|The Absent Cognitive Baseline]] theorizes a structural gap in AI-native students' academic self-assessment — a three-dimension framework explaining why students overestimate their learning when AI inflates performance.
 - **The cognitive commons.** [[cognitive-commons-ai-expertise-regeneration|Cognitive commons and expertise regeneration]] draws on common-pool-resource theory and [[distributed-cognition|distributed cognition]] to explain how rational AI adoption decisions can deplete the shared expertise pool professions require for renewal.
 - **Performance vs. learning.** [[genai-performance-vs-learning|Performance-vs-learning]] theorizes the sharp divergence between AI-inflated task performance and durable learning, a distinction that recurs across the knowledge base's [[learning-gains]] evidence.
@@ -61,6 +62,8 @@ Teacher-side theorizing now makes the same testability commitment: the Capabilit
 Other work extends existing theory into the AI context rather than founding new paradigms: [[critical-thinking-paradox-genai-learning-2026|critical-thinking-paradox]] work integrates [[cognitive-offloading|cognitive-load theory]] with load-reduction instruction into a three-level framework; [[dollinger-equitable-assessment-ai-2026|equitable assessment]] re-theorizes [[assessment]] under GenAI disruption. [[reconceptualizing-community-inquiry-generative-ai|Ba, Gašević, Lim & Anderson (2026)]] reconceptualize the [[community-of-inquiry|Community of Inquiry]] framework itself: rather than framing GenAI as a tool, dialogic partner, or a speculative "fourth presence," they reposition it as an *epistemic condition* that reconfigures how cognitive, social, and [[teacher-role|teaching]] presence are enacted, evidenced, and governed — recasting CoI presences as sociotechnical accomplishments of human–GenAI assemblages and proposing a configuration-based heuristic in which GenAI involvement and inquiry quality are conditionally related through human accountability. Much of this is conceptual-framework work ([[drummond-genai-business-schools-framework-2026|business-school frameworks]], [[valid-student-simulation-llm-2026|valid simulation]]) that operationalizes theory for practice.
 
 [[metacognitive-ownership-human-ai-regulation-2026|Lin and Chang (2026)]] extend [[self-regulated-learning]] and human–AI regulation by naming what the learner governs — standards, evaluative judgments, and control authorization — rather than only what the AI does.
+
+The friction paradox offers another extension of established theory: [[friction-paradox-generative-ai-education-abroad-2026|Gupta (2026)]] applies Bjork and Bjork's [[desirable-difficulties|desirable difficulties]] and Kapur's [[productive-failure|productive failure]] to relational encounters in education abroad, arguing that what matters is how much interpretive agency a student [[transfer-of-learning|transfer]]s to a generative assistant rather than how often it is used. The framework is conceptual and states five propositions as competing hypotheses.
 
 [[ranieri-biagini-ai-higher-education-taxonomy-review-2026|Ranieri & Biagini (2026)]] advance the field's functional taxonomy of Zawacki-Richter et al. (2019): among the 154 publications with a classifiable application function, 90 (58.4%) escaped its four categories, and their framework crosses function with delegated control, epistemic position and embedded pedagogy.
 
@@ -126,3 +129,5 @@ Theory development and [[philosophy-of-ai-in-education|the philosophy of AI in e
 - [[synthetic-position-self-authorship-2026]] — The synthetic position: a dialogical-self bid naming synthetic promotion and authorial suspension with a crossover prediction
 - [[capability-decision-model-teacher-readiness-2026]] — Falsifiable capability-first teacher readiness model with four disconfirmation conditions
 - [[ai-connectedness-adolescent-mental-health-2026]] — Artificial intelligence connectedness: a three-dimensional construct with six falsifiable propositions for later testing
+- [[page-cognitive-partnership-cycle-human-ai-2026]] — Cognitive partnership cycle
+- [[friction-paradox-generative-ai-education-abroad-2026]] — Desirable difficulties and productive failure applied to interpretive agency in education abroad

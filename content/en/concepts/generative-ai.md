@@ -1,7 +1,7 @@
 ---
 title: Generative AI
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-03T02:57:43-04:00"
+updated: "2026-10-16T08:47:09-04:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 technology: [intelligent-tutoring, llm, prompt-engineering, rag]
@@ -44,12 +44,16 @@ With 80+ articles, generative AI is the knowledge base's largest technology thre
 
 Pooled across 53 studies, GenAI-assisted education outperformed non-GenAI approaches on achievement (g = 0.40), higher-order thinking (g = 0.72), motivation (g = 0.81) and writing (g = 0.76), though game-assisted GenAI added no significant benefit (g = 0.24) ([[genai-educational-outcomes-meta-analysis|Dong (2026)]]).
 
+A three-level meta-analysis of 22 studies finds GenAI-supported problem- and [[project-based-learning|project-based learning]] producing a large pooled effect on learner-internal outcomes (g = 0.819), though a PET-PEESE correction reduces it to g = 0.378; embedding mattered too, with general chatbots pooling at g = 0.970 against g = 0.455 for custom or API systems ([[chen-pbl-pjbl-genai-meta-analysis-2026|Chen (2026)]]).
+
 
 A separate 42-study meta-analysis of motivation alone puts the pooled effect lower (g = 0.764) and reports a 95% prediction interval spanning [−0.689, 2.217], so the motivational advantage is not reliably positive for a new setting ([[genai-learning-motivation-meta-analysis-2026|Fang et al. (2026)]]).
 
 Generative UI is the newest capability in this thread: models that emit a working interactive artifact — sliders, manipulable simulations — rather than prose. [[generative-ui-education-learning-interactives-2026|Kovshov et al. (2026)]], a Google Research team, report that off-the-shelf generative UI is not yet pedagogically precise enough for complex constructs, but that decomposing a learning objective into progressive leveled goals and wrapping generation in critique and self-improvement loops yields interactives expert teachers rate as acceptable. Theirs is an orchestration design: teachers state objectives, approve them and select among candidate simulations, so the binding constraint on bespoke [[simulation|interactive learning material]] shifts from production to specification, and [[guardrails|pedagogical guardrails]] are embedded in the generation pipeline rather than left to teacher vigilance afterwards.
 
 Beyond these core strands, recent work extends the evidence base across [[governance|institutional]], interactional, and domain contexts. Qin (2026) documents how Lingnan University institutionalized GenAI literacy for all undergraduates as part of a digital liberal-arts transformation. Chang and Li (2026) show that student-AI conversations encode discipline-associated cognitive [[student-engagement|engagement]], with ~62% of prompts reflecting higher-order cognitive demand. Neto and colleagues (2026) [[meta-analysis-systematic-review|systematically review]] GenAI in scenario-based healthcare education, finding [[prompt-engineering|prompt design]] functions as instructional specification but is rarely aligned with instructional frameworks (34.8%) or reported in reproducible detail (34.8%). GenAI also powers role-play simulations of learners for practice-based [[teacher-education|teacher training]]: [[zhuang-zhang-chatgpt-math-teacher-education-2026|Zhuang and Zhang (2025)]] built *Student GPT*, a custom ChatGPT chatbot that simulated a [[k-12|middle school]] student holding common ratio-reasoning [[misconceptions]], giving preservice mathematics teachers affordable, content-specific practice at diagnosing student thinking — evidence that prompt design (a literature-grounded prompt reliably elicited target conceptual errors, 0.98 vs. 0.40) can steer an off-the-shelf generative model into a useful pedagogical persona.
+
+A GenAI-guided mathematics professional-development case study of eight in-service teachers in rural, under-resourced districts had [[bicer-genai-pd-math-creativity-2026|Bicer et al. (2026)]] engage mathematical [[creativity|creativity]], content knowledge and pedagogical content knowledge as interconnected reasoning across ten modules, crediting progressive scaffold fading and simulated student reasoning; they report engagement patterns, not measurable gains.
 
 A [[li-language-educators-genai-review-2026|systematic review of language educators]] (Li et al. 2026) finds educators value GenAI most for preparatory content work — lesson planning, materials creation, and writing support — while hesitating on live classroom use, with concerns centering on [[academic-integrity|academic integrity]] (plagiarism and [[assessment-validity|assessment validity]]), professional displacement, and technostress; adoption is shaped by professional-identity, pedagogical, technical, institutional, and integrity factors, and competency gaps map to episteme, techne, and phronesis.
 
@@ -99,3 +103,5 @@ A 2026 interdisciplinary systematic review (Dabaghi, D'Urso & Sciarrone, PRISMA-
 - [[falahat-chatgpt-grading-pharmacy-exams-2026]]
 - [[olvet-genai-scoring-open-ended-medical-2026]]
 - [[bloom-classifier-ai-assisted-questions-2026]] — Evaluation of pre-trained models for pedagogical assessment of novel AI-assisted educational questions
+- [[bicer-genai-pd-math-creativity-2026]] — A GenAI-guided mathematics PD case study with eight rural in-service teachers
+- [[chen-pbl-pjbl-genai-meta-analysis-2026]] — Pooled g = 0.819 falling to 0.378 under PET-PEESE; custom tools (0.455) underperformed chatbots (0.970)

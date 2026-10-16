@@ -1,7 +1,7 @@
 ---
 title: Feedback Literacy
 created: "2026-08-15T19:02:13-04:00"
-updated: "2026-10-08T09:45:00-04:00"
+updated: "2026-10-16T08:47:09-04:00"
 type: concept
 connected_faqs: [writing-instruction-ai-best-practices, ai-feedback-at-scale]
 foundations: [ai-literacy]
@@ -41,9 +41,10 @@ Feedback literacy is widely framed as a set of interrelated capabilities — the
 - **Feedback literacy as a moderator of AI feedback value:** [[mendoza-ai-feedback-feedback-literacy-srl|Mendoza et al. (2026)]] show that feedback literacy moderates the link between ChatGPT acceptance and [[self-regulated-learning]]: students with stronger literacy perceive greater SRL benefit from AI feedback, while weaker-literacy students show minimal or even negative ([[cognitive-offloading|Over-Reliance]]) effects. Feedback literacy is a boundary condition for whether students can "make sense of" AI feedback.
 
 
-- **Feedback literacy as the pathway from GenAI use to critical thinking:** in 421 Chinese undergraduates, GenAI use's association with self-reported critical thinking ran almost entirely through GenAI [[feedback-literacy]] (β=0.185, 71.98% of the total effect), and that pathway strengthened as reflective thinking rose (index of moderated mediation = 0.030) ([[genai-use-critical-thinking-moderation-2026|Yan et al. (2026)]]).
+- **Feedback literacy as the pathway from GenAI use to critical thinking:** in 421 Chinese undergraduates, GenAI use's association with self-reported critical thinking ran almost entirely through GenAI feedback literacy (β=0.185, 71.98% of the total effect), and that pathway strengthened as reflective thinking rose (index of moderated mediation = 0.030) ([[genai-use-critical-thinking-moderation-2026|Yan et al. (2026)]]).
 
 - **Feedback literacy predicts learning from AI-assisted writing:** [[hawkins-feedback-literacy-ai-essay-writing|Hawkins et al. (2026)]] find that feedback literacy was the only significant positive predictor of essay grade in an AI-enhanced essay-writing task, while [[liu-deris-ai-feedback-literacy-uptake|Liu & Deris (2025)]] develop and validate an AI Feedback Literacy (AIFL) scale and show it predicts feedback uptake.
+- **Comprehension, not actionability, carried the revision payoff.** Across three writing-feedback-revision cycles in two intact classes of 48 students each, comprehension was the dimension most associated with revision quality (r = 0.501), ahead of actionability (r = 0.480) and diagnostic accuracy (r = 0.445); an interpretation sheet read before independent revision is what the diagnostic condition added ([[automated-scoring-learning-diagnosis-mechanism-2026|Yao & Fan (2026)]]).
 
 - **Frameworks for [[generative-ai|GenAI]]-enabled feedback [[student-engagement|engagement]]:** [[zhan-boud-dawson-genai-feedback-engagement|Zhan, Boud, Dawson & Yan (2025)]] (Boud and Dawson are leading feedback-literacy scholars) argue GenAI can *enable* student feedback engagement, mapping a cyclical self-[[regulation]] feedback model onto the eliciting/processing/enacting phases.
 
@@ -113,3 +114,4 @@ Acting on feedback is not the same as improving the artifact. Among 22 pre-servi
 - [[student-perspectives-ai-writing-grading-2026]] — Who Should Grade My Work? Student Perspectives on Transparent AI-Assisted Writing Assessment in Higher Education
 
 - [[genai-use-critical-thinking-moderation-2026]] — GenAI use to critical thinking ran through GenAI feedback literacy, strengthening with reflective thinking
+- [[automated-scoring-learning-diagnosis-mechanism-2026]] — Comprehension, not actionability, carried the revision payoff

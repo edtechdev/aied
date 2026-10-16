@@ -1,7 +1,7 @@
 ---
 title: Motivation
 created: "2026-08-10T17:38:45-04:00"
-updated: "2026-10-03T12:32:09-04:00"
+updated: "2026-10-16T08:47:09-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [motivation, self-determination-theory, student-engagement]
@@ -41,6 +41,8 @@ Why a reader reaches for AI is itself a measurable variable: the AIR scale resol
 **Motivation in AI-mediated engagement** examines how motivational quality (not just quantity) changes with AI. **[[students-engagement-with-generative-ai-in-academic-learning-a-self-determination|Isaeva et al.]]** combined self-determination theory with [[network-analysis|epistemic network analysis]] to study engagement with [[generative-ai|generative AI]]. **[[liang-ai-learning-motivation-sdt-2026|Liang et al. (2026)]]** traced motivation developmentally via latent transition analysis of **2,086 [[k-12|secondary]] students** in a year-long AI curriculum, finding three stable profiles (Disengaged, Developing, Self-Determined) and that reaching the Self-Determined profile predicted the largest [[ai-literacy]] gains. **[[wang-goal-setting-ai-engagement-2026|Wang & Wang (2026)]]** used goal-setting theory with **758 [[higher-ed|university]] English learners**, showing that **teacher support** drives AI-assisted engagement primarily through mastery-approach and performance-approach goals (the approach, not avoidance, goal orientations). Together these studies show that motivation in AI contexts is both developmental and socially scaffolded — it shifts over time and responds to teacher support and goal framing, not just tool design.
 
 Goal orientation also routes how the tool is used: mastery and normative performance goals tend to support elaboration and refinement, whereas appearance performance goals make effort-minimization and protecting perceived competence more likely — so the same assistant scaffolds or substitutes for thinking depending on the motivational climate ([[oby-chatgpt-use-learning-framework-2026|Øby, 2026]]).
+
+Institutional generative-[[educational-policy-ai|AI policy]] is itself a stressor [[learners|learners]] appraise: [[gai-advocacy-practice-art-education-2026|Chen (2026)]] found that the gap between universities' GAI advocacy and their classroom practice raised both challenge and hindrance appraisals among Chinese art and design students, with opposing indirect effects on [[creativity|creative]] process engagement, while pathways thinking amplified only the challenge route.
 
 A dialogue format can raise motivation without improving overall evaluation: in 222 first-year high-school students, teacher–teacher dialogue raised ARCS motivation more than teacher–student format for learners high in concrete experience (b = 0.162, p < .001) yet scored significantly lower on overall evaluation (b = -0.126, p = .005) ([[tts-dialogue-lessons-learner-characteristics-2026|Watanabe et al. (2026)]]).
 
@@ -110,3 +112,4 @@ Motivation is the parent construct of [[self-determination-theory]], which speci
 
 - [[genai-learning-motivation-meta-analysis-2026]] — Random-effects meta-analysis of GenAI's effect on learning motivation (56 effect sizes, 6,059 students)
 - [[ai-student-motivation-scoping-review-2026]] — 156 studies on AI and student motivation: 85.3% used no motivational theory, and coverage is narrow in construct, level, and country
+- [[gai-advocacy-practice-art-education-2026]] — Policy-practice gaps in GAI advocacy act as a stressor students appraise

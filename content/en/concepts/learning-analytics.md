@@ -1,7 +1,7 @@
 ---
 title: Learning Analytics
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-13T11:05:00-04:00"
+updated: "2026-10-16T08:47:09-04:00"
 type: concept
 pedagogy: [student-engagement]
 technology: [knowledge-tracing, student-modeling, edtech-platform]
@@ -38,6 +38,7 @@ reviewed_by: [editor]
 
 - **Synthetic-data validation is a prerequisite for privacy-preserving analytics.** A structural check on synthetic versions of four annual study-habit cohorts (117-120 learners over eighteen weeks) found partition descriptors agreeing closely in two of four cohorts while week-to-week variation ran 2.6 to 4.9 times lower without exception (coefficient of variation 0.086-0.152 against 0.399-0.539 for the real cohorts), and only 36% of findings reached on synthetic pilot data were confirmed on the real data across twenty-five validation requests ([[synthetic-educational-data-structural-fidelity-2026|Inoue & Yasutake (2026)]]).
 - **Engagement analytics:** [[student-engagement|Engagement measurement]] and [[engagement-intensity-learner-modeling|intensity modeling]] quantify how students interact with AI systems.
+- **Completion rates can hide an engagement collapse.** In a group-randomized [[higher-ed|university]] trial, a course-integrated [[intelligent-tutoring|AI tutor]] left homework submission unchanged while platform participation fell sharply — page views by 0.37 standard deviations, active days by 0.51 — so the analytics signal that mattered was the activity the tool displaced, not the completion metric that stayed flat ([[liu-course-integrated-ai-tutoring-rct-2026|Liu et al. (2026)]]).
 - **Feedback analytics:** [[teaching-feedback-classification-benchmark|Feedback classification]] and [[ai-feedback-quality|quality assessment]] analyze the feedback students receive.
 - **Network analysis:** [[misiejuk-cognitive-offloading-prompting-2026|Co-Occurrence Network Analysis]] and [[epistemic-emotions-collaborative-problem-solving|epistemic network analysis]] reveal interaction patterns.
 - **Privacy tensions:** [[privacy]] concerns grow as analytics become more granular and AI-driven.
@@ -153,3 +154,4 @@ Process-level instrumentation is the descriptive layer's next step down. [[pulla
 - [[synthetic-educational-data-structural-fidelity-2026]] — What Fidelity Metrics Miss: A Structural Check on Synthetic Educational Data
 - [[akcapinar-ai-cheating-risk-lms-prediction-2026]] — Akçapınar (2026) — Predicting AI-assisted cheating risk from early-semester LMS traces (AUC 0.763)
 - [[thomas-breaking-learning-system-wall-2026]] — Towards breaking the learning system wall using multimodal tutoring transcriptions (Thomas et al. 2026)
+- [[liu-course-integrated-ai-tutoring-rct-2026]] — Completion rates can hide an engagement collapse

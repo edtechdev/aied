@@ -1,7 +1,7 @@
 ---
 title: Collaborative Learning
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-07T15:40:00-04:00"
+updated: "2026-10-16T08:47:09-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [collaborative-learning, scaffolding]
@@ -45,6 +45,8 @@ Facilitator endorsement is the strongest observed lever on whether students acce
 **Collaboration modes and the efficiency–regulation trade-off.** Empirical research on college students collaborating with AI for complex problem-solving identifies three distinct modes — *Delegated Reasoning*, *Concerted Interpretation*, and *Delegated Elaboration*. The most efficient mode (delegated reasoning) yields the highest task performance but the lowest learners' self-regulatory engagement, while the mode with greatest self-regulation (concerted interpretation) underperforms on task outcomes.([[hao-human-ai-collaborative-problem-solving-cognition]]) This reveals a central design tension: collaborative-learning environments must balance the efficiency of the distributed human–AI system against the depth of learners' [[self-regulated-learning|regulatory]] engagement.
 
 The one meta-analytic contrast available for AI-supported collaborative work sits inside GenAI-supported PBL/PjBL interventions, where peer collaboration pooled at g = 0.885 against g = 0.416 for individual work, but the difference reached only a marginal trend (QM = 3.675, p = .055) and the individual-work side rests on two studies — so the pooled evidence that collaboration beats working alone under GenAI is suggestive rather than established ([[chen-pbl-pjbl-genai-meta-analysis-2026|Chen et al. 2026]]).
+
+Field-level mapping reaches the same conclusion from the other direction: a BERTopic analysis of 1,048 AI-in-online-learning publications from 2010 to 2023 found that socially oriented work on AI-supported collaborative learning and community development never emerged as a dominant topic, which the authors attribute to a corpus centered on individual-level [[learning-analytics|analytics]] ([[chen-bertopic-ai-online-learning-research-topics-2026|Chen et al. (2026)]]).
 
 A scoping review of 18 studies maps the same trade-off across group work: GenAI supported knowledge development, idea generation and communication efficiency while also reducing the demand for peer interaction, negotiation and collective sensemaking, and randomized evidence found more innovative AI suggestions without a significant gain in participants' overall innovativeness ([[wei-perkins-genai-student-collaboration-scoping-2026|Wei and Perkins (2026)]]).
 
@@ -137,3 +139,4 @@ Collaborative learning occupies the top of the [[icap-framework|ICAP framework]]
 - [[hao-peer-exposure-bridging-social-capital-ai-summaries-2026]] — AI-Generated Summary-Driven Learning Design in Online Discussion Forums
 - [[chen-zou-genai-group-assessment-agency-2026]] — GenAI as coordination infrastructure in student groups: intensified, restrained, and non-enacted use
 - [[ethics-training-agents-group-ethics-discussion-2026]] — Ethics Training Agents: Facilitating Group-Based Ethics Education with Role-Playing and Discussion for Ethical Reflection and Exploration
+- [[chen-bertopic-ai-online-learning-research-topics-2026]] — Socially oriented AI-collaboration work never became a dominant topic in 1,048 publications

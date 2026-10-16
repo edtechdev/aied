@@ -2,7 +2,7 @@
 connected_resources: [idstack, lesson-md, master-instructional-design]
 title: Assessment
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-09T08:42:20-04:00"
+updated: "2026-10-16T08:47:09-04:00"
 connected_faqs: [redesign-assessment-ai-era, reduce-ai-cheating, course-ai-policy, group-work-ai, asynchronous-online-courses-ai]
 type: concept
 foundations: [academic-integrity]
@@ -45,6 +45,7 @@ Assessment is central to AI in education for two reasons. First, AI itself is us
 AI raises fundamental [[assessment-validity|validity]] questions: do AI-graded assessments measure student learning or [[prompt-engineering|AI-prompting skill]]? Does student use of AI invalidate traditional assessments? Key challenges include:
 
 - **Construct validity:** [[competency-based-education-genai-production-2026|Research on competency-based education]] shows generative AI has severed the inference between performance and underlying ability — a learner may deliver professional-standard work they cannot reproduce without the tool. This motivates reconceptualizing what competencies are assessed.
+- **A three-vertex frame for realigning assessment.** [[koretsky-genai-stem-assessment-2026|Koretsky et al. (2026)]] treat ubiquitous GenAI as a validity and capability-definition problem rather than a cheating one, arguing that the assessment triangle's three vertices — cognition, observation, and interpretation — must be realigned together rather than patched one at a time.
 - **Coauthorship and integrity:** [[coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene|Coauthorship integrity]] proposes a new source of validity evidence violated when students submit AI-generated content they do not understand, and explores conversational "AI Vivas" as a response.
 - **Psychometric quality:** [[psychometrically-aware-ai]] and [[automated-assessment|confidence-aware assessment]] work to keep AI scoring reliable, unbiased, and interpretable.
 - **Evaluation of AI assessors:** [[ai-ed-evaluation]] provides the methods and [[benchmark|benchmarks]] for determining whether automated assessors actually work — on reliability, [[pedagogy]], and [[equity-in-ai-education]] — rather than headline accuracy alone.
@@ -129,3 +130,4 @@ A proposal in this literature pushes past redesign-within-the-current-frame. [[a
 - [[olvet-genai-scoring-open-ended-medical-2026]]
 - [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]
 - [[computing-assessment-genai-workshop-report-2026]] — AI Can Do Your Homework. Now What? Report from an online workshop on computing assessment in the age of generative AI
+- [[koretsky-genai-stem-assessment-2026]] — A three-vertex frame for realigning assessment

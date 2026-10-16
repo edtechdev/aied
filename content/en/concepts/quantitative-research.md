@@ -1,7 +1,7 @@
 ---
 title: Quantitative Research
 created: "2026-08-24T02:05:00-04:00"
-updated: "2026-09-30T08:39:04-04:00"
+updated: "2026-10-16T08:47:09-04:00"
 type: concept
 assessment: [educational-measurement]
 research_method: [survey, experiment]
@@ -39,6 +39,7 @@ Experiments randomly assign learners to conditions (e.g., AI tutor vs. human tut
 
 - **Strengths:** strongest causal inference; clean outcome measurement; supports effect-size estimation and efficacy claims.
 - **Limitations:** costly and slow; artificial conditions reduce ecological validity; fast-changing AI tools date experiments quickly; small samples underpower detection of effects; ethical constraints on withholding helpful tools.
+- **A group-randomized access trial needs an uptake check.** With about 15% of students in treated classrooms ever using the tutor, the study's intent-to-treat estimate reflects the effect of introducing the tool — including the permission and substitution it carried — rather than the isolated effect of individual sessions ([[liu-course-integrated-ai-tutoring-rct-2026|Liu et al. (2026)]]).
 
 ### Longitudinal research
 Longitudinal designs track the same learners over time, capturing change, growth, and durable learning that single-time-point measurement misses. [[ai-lms-middle-school-longitudinal|A longitudinal LMS study]] tracks students across a school year. Longitudinal designs are essential for distinguishing AI-inflated performance from [[genai-performance-vs-learning|durable learning]].
@@ -48,6 +49,8 @@ Between-dataset comparisons need a fixed working point: a structural check of sy
 
 ### Computational and psychometric quantification
 Quantitative methods also include the direct measurement of constructs via instruments — the domain of [[educational-measurement]] and [[item-response-theory]]. The knowledge base's [[jin-glat-genai-literacy-assessment|GLAT]] is a 20-item quantitative instrument validated with IRT; [[educational-measurement|measurement instruments]] across [[ai-literacy|AI literacy]], acceptance, and self-efficacy provide the validated scales on which survey and experimental research depend.
+
+Bibliometric analysis is a further quantitative family: [[sriram-ethical-ai-medical-education-bibliometric-2026|Sriram et al. (2026)]] map 1,403 [[medical-education|medical-education]] publications through country, institution and keyword co-occurrence networks, reading a literature's shape rather than appraising its studies — which is what makes their conclusion, that [[governance|governance]] scholarship has not kept pace with capability testing, a claim about the field and not about learning.
 
 ## How quantitative research appears in the knowledge base
 
@@ -93,3 +96,5 @@ Quantitative and [[qualitative-research|qualitative]] methods are complements �
 - [[ai-lms-middle-school-longitudinal]] — A longitudinal AI-integrated LMS study
 - [[adaptive-pretesting-retention]] — Adaptive pretesting and retention
 - [[synthetic-educational-data-structural-fidelity-2026]] — What Fidelity Metrics Miss: A Structural Check on Synthetic Educational Data
+- [[liu-course-integrated-ai-tutoring-rct-2026]] — A group-randomized access trial needs an uptake check
+- [[sriram-ethical-ai-medical-education-bibliometric-2026]] — Bibliometric analysis is a further quantitative family: Sriram et al
