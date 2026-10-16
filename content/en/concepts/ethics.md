@@ -1,7 +1,7 @@
 ---
 title: Ethics
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-08T10:20:00-04:00"
+updated: "2026-10-16T07:28:51-04:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, institutional-ai-policy]
 type: concept
 foundations: [academic-integrity, ai-literacy]
@@ -78,6 +78,8 @@ That practical case is reinforced by empirical work on how ethics functions insi
 
 **The sign of that mechanism depends on what follows it.** Among 584 undergraduates whose AI competence came from self-study, competence raised AI ethical awareness (β = 0.644, p < .001). Ethical awareness then raised AI anxiety (β = 0.439, p < .001) rather than lowering it — indirect-only mediation, read by the authors as awareness awakened without a coping framework ([[mu-ai-competence-ethical-awareness-anxiety-2026|Mu et al. (2026)]]). Their conclusion for ethics teaching is that it cannot stop at the cognitive level. A transparency or privacy concern has to arrive with the governance route that answers it, which is why their proposed module sits inside legal education.
 
+Ethical awareness, reflective reasoning, and [[self-report-measures|self-reported]] responsible practice develop largely independently. Across three annual waves of 350 Nigerian computing [[higher-ed|undergraduates]], [[ayanwale-ethical-engagement-ai-growth-modeling-2026|Ayanwale et al. (2026)]] found all three rose substantially, yet their growth factors were near-uncorrelated and initial awareness did not predict later growth.
+
 ## Connections
 
 Ethics connects to [[equity-in-ai-education]], [[privacy]], [[bias-mitigation]], [[regulation]], [[pedagogical-safety]], [[academic-integrity]], and [[governance]]. It is the normative foundation for all other AI education concepts — the frame within which questions of fairness, transparency, autonomy, and safety are raised and resolved.
@@ -127,3 +129,4 @@ Ethics connects to [[equity-in-ai-education]], [[privacy]], [[bias-mitigation]],
 - [[longitudinal-ai-usage-ethics-policy-teacher-education-2026]] — Longitudinal GenAI usage, ethics, and policy in teacher education (Parker et al. 2026)
 - [[agarwal-ethical-values-norms-aied-2026]] — Ethical values and norms for AI in education
 - [[genai-higher-ed-agency-responsibility-discourse-2026]] — Who Acts, Who Knows, Who Answers? A Corpus-Assisted Discourse Analysis of Agency, Epistemic Responsibility, and Accountability in Generative AI Higher Education Research
+- [[ayanwale-ethical-engagement-ai-growth-modeling-2026]] — Ethical awareness, reflection and reported responsible practice grew largely independently over three annual waves (Ayanwale et al

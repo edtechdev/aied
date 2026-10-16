@@ -2,7 +2,7 @@
 connected_resources: [playlab]
 title: "Educational Technology Developers"
 created: "2026-09-17T15:20:00-04:00"
-updated: "2026-09-17T15:20:00-04:00"
+updated: "2026-10-16T06:45:00-04:00"
 type: concept
 foundations: [educational-development, learning-design]
 technology: [learning-analytics, edtech-platform, open-source]
@@ -51,6 +51,8 @@ The role is also distinct from its neighbours. [[learning-design]] and [[curricu
 
 **Explanations must speak the teacher's language.** [[xai-teachers-trust-edtech-recommendations-2026]] ran a within-subject experiment with 41 chemistry teachers on an ML recommendation tool: understandability, [[trust]] and acceptance correlated positively, and domain-driven explanations in curricular language produced significantly higher understandability, learned [[trust-calibration|trust]] and acceptance than feature-importance explanations. Trust was also dynamic — several teachers said only classroom experience would settle it — and acceptance depended on pedagogical alignment and workload reduction.
 
+**Credibility cues are not evidence of correctness.** Adding citations and authority signals to a [[agentic-ai|multi-agent]] debate raised abandonment of a correct judgment for the AI's position from 15.0% to 31.8%, so provenance has to be checkable at the point of use ([[tuo-armada-multi-agent-debate-overreliance-2026|Tuo et al., 2026]]).
+
 **Co-design at institutional scale.** [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of|AIDA]] at the Open University was built through six design-based studies over 18 months with 498 students and 20 staff. About 20% were initially skeptical; after hands-on use 96% wanted it kept, and an exploratory RCT found twice the usage time but no significant differences on learning process data. The enabling factors were organizational — senior sponsorship, cross-unit collaboration, data-informed iteration — with gaps in systems-thinking capacity.
 
 ### Procurement, openness and after the funding stops
@@ -97,3 +99,4 @@ The role is also distinct from its neighbours. [[learning-design]] and [[curricu
 - [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of]]
 - [[vocabulary-difficulty-prediction]]
 - [[shen-sustainable-ai-knowledge-base-cs-education-2026]]
+- [[tuo-armada-multi-agent-debate-overreliance-2026]] — Credibility cues raised deference to incorrect AI advice; verify provenance at the point of use

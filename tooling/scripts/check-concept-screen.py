@@ -83,7 +83,21 @@ FACET_FIELDS = (
     'foundations', 'pedagogy', 'technology', 'assessment',
     'methods', 'institutions', 'ethics',
 )
+# `discipline` and `level` hold human-readable labels, not concept slugs, but every
+# discipline label ("legal education") and the level labels that have a page ("higher
+# ed") map onto a concept page by slugification. They are concepts the article
+# declares, so they must be screened like any other facet - leaving them out is what
+# let discipline pages go unscreened (only half of the declared discipline values in
+# the record had been decided, and 21 of 24 labels resolve to a page).
+# `audience`, `research_method` and `page_kind` name no concept pages systematically
+# and stay out.
+LABEL_FIELDS = ('discipline', 'level')
 WIKILINK = re.compile(r'\[\[([^\]|]+)(?:\|[^\]]*)?\]\]')
+
+
+def label_slug(value):
+    """'legal education' -> 'legal-education' (the enum labels are slugs with spaces)."""
+    return value.strip().lower().replace(' ', '-')
 
 
 def concept_candidates(text, concept_slugs):
@@ -105,6 +119,10 @@ def concept_candidates(text, concept_slugs):
         m = re.search(r'^%s:\s*\[(.*?)\]' % field, fm, re.M)
         if m:
             found.update(v.strip() for v in m.group(1).split(',') if v.strip())
+    for field in LABEL_FIELDS:
+        m = re.search(r'^%s:\s*\[(.*?)\]' % field, fm, re.M)
+        if m:
+            found.update(label_slug(v) for v in m.group(1).split(',') if v.strip())
     found.update(t.strip().replace('.md', '') for t in WIKILINK.findall(body))
     return {c for c in found if c in concept_slugs}
 
@@ -155,8 +173,8 @@ def main(argv):
             problems.append('%s (created %s): no entry in concept-screen.yaml - run the concept screen' % (slug, created))
             continue
         integrated = entry.get('integrated') or []
-        decided = {str(c) for c in integrated}
-        decided.update(str(c) for c in (entry.get('no_change') or []))
+        decided = {label_slug(str(c)) for c in integrated}
+        decided.update(label_slug(str(c)) for c in (entry.get('no_change') or []))
         if not integrated:
             if not str(entry.get('reason') or '').strip():
                 problems.append('%s: recorded with no integration and no reason' % slug)

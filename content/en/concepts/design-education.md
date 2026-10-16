@@ -1,7 +1,7 @@
 ---
 title: "Design Education"
 created: "2026-09-17T14:04:29-04:00"
-updated: "2026-10-02T12:40:11-04:00"
+updated: "2026-10-16T06:36:28-04:00"
 type: concept
 foundations: [ai-literacy, design-thinking]
 pedagogy: [creativity, professional-training]
@@ -48,6 +48,7 @@ It is also distinct from [[design-thinking]], a human-centered problem-solving m
 - **Studio judgement can be approximated when a rubric mediates.** [[yasar-llms-iterative-pedagogical-design-2026|Yaşar et al. (2026)]] raised LLM–human agreement on 80 design posters from 54.75% to 81.25% by iteratively refining rubric descriptors; instructor, peer-reviewer and grant-reviewer prompts produced epistemically different feedback on the same work. The authors treat the rubric as a revisable interface between pedagogical intent and machine inference, retaining [[human-in-the-loop-ai|human oversight]] against hallucinated rationale.
 
 - **Students negotiate the tools rather than simply accept them.** [[t2i-competence-paradox-2026|Liu, Meng & Zhang (2026)]] surveyed 417 art and design students: performance expectancy, social influence, novelty value and creative competence predicted intention to use text-to-image tools, while effort expectancy predicted negatively, read as shortcut-oriented coursework use. Their competence paradox is that creative competence supports intention yet predicts more selective use as students weigh authorship and skill preservation — an [[assessment-validity]] problem in a studio where process is the assessed object. [[rana-genai-design-thinking-2025|Rana et al. (2025)]] reached a compatible conclusion from 112 reflections in a 12-week [[design-thinking]] course: benefits dominated (86% positive sentiment), ethical concerns drove 62% negative sentiment, and scaffolded integration moved students from skepticism to 72% positive orientation.
+- **GenAI can assist a workflow while weakening creative self-belief.** In a 36-student architectural design experiment, a DALL-E 3 workflow matched precedent search on rated performance and cognitive load, yet general creative [[self-efficacy|self-efficacy]] fell (DiD = −0.543) while task-specific confidence held ([[caeai-genai-architectural-design-creative-self-efficacy-2026|Xiao et al., 2026]]).
 
 - **AI critique can be bound to the artifact rather than the prompt.** [[critsly-design-education-ai-critique-2026|Kadir (2026)]] routes studio feedback through a shared board of designs, notes and pins and five bounded activities; the study reports simulated readiness (78% of 109 labels at Analyzing or above), not learning gains.
 
@@ -92,3 +93,4 @@ Assessment problems here are inseparable from professional ones. [[ai-interior-d
 - [[yasar-llms-iterative-pedagogical-design-2026]]
 - [[rana-genai-design-thinking-2025]]
 - [[critsly-design-education-ai-critique-2026]] — Critsly/StudioCrit: artifact-aware AI critique workspace for studio feedback; simulation-based readiness study, not learning gains
+- [[caeai-genai-architectural-design-creative-self-efficacy-2026]] — An architectural-design experiment in which a DALL-E 3 workflow lowered general creative self-efficacy

@@ -1,7 +1,7 @@
 ---
 title: Explainable AI
 created: "2026-09-07T10:15:00-04:00"
-updated: "2026-09-30T14:23:52-04:00"
+updated: "2026-10-16T06:45:00-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [metacognition]
@@ -68,6 +68,8 @@ Explanation quality also has an equity dimension: an explanation that is technic
 
 Explanation is not always a leveler. In a 2 × 2 vignette experiment with 250 seventh-grade students, a written rationale for a mathematics score raised acceptance and perceived fairness in both conditions but widened rather than closed the gap between [[teacher-role|teacher]]- and AI-made decisions ([[decision-making-agent-student-decision-acceptance-2026|Zhang et al. (2026)]]).
 
+Citations behave as a credibility cue rather than evidence of correctness: attaching citations and authority signals to a debate interface raised abandonment of a correct judgment for the AI's position from 15.0% to 31.8%, and cited cases were sometimes misattributed or fictitious ([[tuo-armada-multi-agent-debate-overreliance-2026|Tuo et al., 2026]]).
+
 Two cautions sharpen this further, both of which the wiki's newest contribution on the subject makes central. First, the explanation machinery is not itself neutral: post-hoc methods such as LIME and SHAP can be unfaithful to the model's actual behavior, so a technically present explanation may mislead rather than inform ([[lund-socially-accountable-data-science-xai-2026|Lund et al. 2026]], drawing on Chuan et al. 2024). Second, **explanation is not accountability**. An account of which features drove a prediction does not reveal whether those features were appropriate to use, whether the training data was representative, or whether the system's design reflected sound judgment; explanations can create the appearance of transparency while leaving the structural conditions that produced a decision untouched (Mittelstadt et al. 2019). For education this means the question to keep asking is not whether an explanation was produced but whether the person receiving it — a student, a teacher, an advisor — could understand it, act on it, or contest the decision behind it. The same failure of legibility appears on the security side of [[automated-assessment|automated assessment]]: [[humble-prompt-injection-ai-grading-red-team-2026|Humble's (2026) red-team of an AI grading tool]] found it silently disabling the chat after blocking a prompt injection, and — having announced it would never follow embedded instructions — following them in six further runs on the same file, leaving the user no reliable signal on which to base reliance.
 
 **Explainable-by-design** is one answer to the post-hoc faithfulness problem. [[li-explainable-trustworthy-llm-teacher-assessment-2025|Li, Yang and Fang (2025)]] parameterize an explanation decoder by the same fused representation and predicted score that decide the [[assessment]], so that a low score on [[formative-assessment|formative]] questioning yields a rationale naming insufficient probing questions, and pair it with dual-lens attention over curriculum standards and subject-specific rubric moves. Attention-to-rubric alignment reaches 78.0% against 41.7% for GPT-4 zero-shot and 32.1% for BERT, and faithfulness is probed by counterfactual deletion of rubric-critical spans alongside human ratings on a rubric-anchored checklist, giving an explanation-credibility score of 0.78 — an increase of 0.31 over BERT-base. The audit also shows where the architectural claim thins: on emotional cues the model allocates 28.4% of attention weight against an expert 15.2% (alignment 0.53), with one failure case assigning 28% to the token "frustrated", which the authors read as overfitting to affect rather than pedagogy and name as an area for refinement. Embedding explanations in the decision path makes them more faithful than post-hoc rationales; it does not make them correct.
@@ -116,6 +118,8 @@ For explainability specifically, the assignments that matter are the ones that f
 - [[bloom-classifier-ai-assisted-questions-2026]] — Evaluation of pre-trained models for pedagogical assessment of novel AI-assisted educational questions
 
 - [[decision-making-agent-student-decision-acceptance-2026]] — Teacher- versus AI-made grading decisions: a written rationale widened the fairness gap
+- [[tuo-armada-multi-agent-debate-overreliance-2026]] — Citations and authority signals raised deference to incorrect output, some references misattributed or fictitious
+
 ## Citation
 
 Khosravi, H., Buckingham Shum, S., Chen, G., Conati, C., Tsai, Y.-S., Kay, J., Knight, S., Martinez-Maldonado, R., Sadiq, S., & Gašević, D. (2022). [*Explainable Artificial Intelligence in education*](https://doi.org/10.1016/j.caeai.2022.100074). *Computers and Education: Artificial Intelligence*, 100074.

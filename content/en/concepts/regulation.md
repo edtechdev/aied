@@ -1,7 +1,7 @@
 ---
 title: AI Regulation in Education
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-30T09:59:35-04:00"
+updated: "2026-10-16T07:28:51-04:00"
 type: concept
 foundations: [academic-integrity]
 ethics: [equity-in-ai-education, ethics, privacy, pedagogical-safety]
@@ -39,6 +39,8 @@ Regulation is the legal and policy layer of AI [[governance]]: it sets the bindi
 ### The governance gap
 
 The knowledge base documents a persistent gap between AI deployment speed and regulatory maturity. [[institutional-change-framework-ai|Institutional change frameworks]] and regulation research argue for proactive [[governance]] rather than reactive policy. Studies of  and [[raza-farooq-aied-review-2020-2025|comprehensive AIED reviews]] highlight that regulation is uneven across jurisdictions and educational levels, creating an inconsistent operating environment for teachers, students, and developers.
+
+[[agentic-ai|Agentic]] systems open a further gap. In a documentary analysis of 12 universities, [[wong-sun-agentic-ai-assessment-governance-2026|Wong and Sun (2026)]] found no comparator addressed an agent logging into a learning-management system, holding student credentials, or acting on the student's behalf, while several agentic-aware cases set explicit delegation and access boundaries.
 
 **The gap is one of evidence as well as timing.** [[gutowski-hurley-genai-policy-legal-education-2025|Gutowski and Hurley (2025)]] characterize one professional sector as making policy under time pressure without an evidence base to make it with: most ABA-approved US [[legal-education|law schools]] took generally prohibitive positions while reserving discretion to individual instructors, and the authors report no consensus on disclosure or citation practice and only a ~15% response rate to the ABA's 2024 policy survey. Their normative response — clear guidelines whatever the stance, [[stakeholders|stakeholder]] involvement in drafting, and governance designed to be flexible and reviewed periodically — matches the [[crompton-governing-genai-higher-ed-delphi-2026|global Delphi consensus]], which likewise treats policy maintenance as a recurring institutional mechanism rather than a one-time task. [[coates-governing-academic-integrity-indicators-2025|Coates, Croucher and Calderon (2025)]] add the reverse dependency: their governance reform program concludes that institutional development is unlikely to pay out without external affordance from regulation, benchmarking and cross-institutional competition, making the quality and regulatory agencies — and the comparison they force between institutions — the condition under which internal governance reform takes hold.
 
@@ -85,3 +87,4 @@ Regulation connects to [[educational-policy-ai]], [[governance]], [[ethics]], [[
 - [[coates-governing-academic-integrity-indicators-2025]] — External regulatory pressure as the condition for governance reform (Coates, Croucher & Calderon 2025)
 - [[watson-rainie-ai-challenge-faculty-survey-2026]] — 87% of faculty write their own rules against a thin institutional policy layer (Watson & Rainie 2026)
 - [[edtech-privacy-deferral-2026]] — "We'll Fix It Later": Education, AI, and the Deferral of Student Privacy in EdTech
+- [[wong-sun-agentic-ai-assessment-governance-2026]] — No comparator policy addressed an AI agent logging into an LMS or holding student credentials (Wong & Sun 2026)
