@@ -100,7 +100,7 @@ A falência produtiva conecta-se a [[learning-theories|teorias da aprendizagem]]
 - [[inquiry-based-learning]]
 - [[metacognition]]
 - [[cognitive-offloading]]
-- [[scaffolding]]
+- scaffolding
 - [[feedback]]
 - [[prior-knowledge]]
 - [[transfer-of-learning]]

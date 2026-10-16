@@ -128,7 +128,7 @@ Um quase-experimento com 68 futuros professores descobriu que explicar a um apre
 
 ### Papéis roteirizados com uma IA compartilhada
 
-**Evidência: testada, mas em contextos controlados ou não controlados, e não em salas de aula comuns.** Dois estudantes compartilham uma IA e recebem papéis explícitos com regras de rotação; a IA é configurada para assumir um papel conforme necessário, e sua saída vai para todo o grupo. Numa variante de programação em dupla, a IA compartilhada modela a atenção e o esforço conjuntos da díade, prevê um colapso até 30 segundos antes e escala [[scaffolding|scaffolds]] em níveis, de não fazer nada até uma dica diretiva.
+**Evidência: testada, mas em contextos controlados ou não controlados, e não em salas de aula comuns.** Dois estudantes compartilham uma IA e recebem papéis explícitos com regras de rotação; a IA é configurada para assumir um papel conforme necessário, e sua saída vai para todo o grupo. Numa variante de programação em dupla, a IA compartilhada modela a atenção e o esforço conjuntos da díade, prevê um colapso até 30 segundos antes e escala scaffolds em níveis, de não fazer nada até uma dica diretiva.
 
 Um experimento within-subjects com 26 díades descobriu que a condição de feedback alcançou maior sucesso em depuração (t[49,96] = −13,51, p < ,0001) e terminou mais rápido (t[44,70] = 4,39, p < ,0001), embora tenha exigido hardware duplo de rastreamento ocular e pupilometria e não tenha testado a transferência para trabalho em dupla não supervisionado ([[golrang-propact-pair-programming-2026|Golrang et al., 2026]]). Um quase-experimento com 58 estudantes de pós-graduação em 16 grupos descobriu que o desenho de papéis elevou as notas de conteúdo de mapas mentais de 3,65 para 4,59 numa escala SOLO de 1–5 (z = 3,771, p < 0,001), enquanto as contagens de nós e ramos ficaram estáveis — mas sem grupo controle, efeitos de prática não podem ser descartados ([[cheng-symbiotic-role-design-human-genai-collaboration-2026|Cheng et al., 2026]]).
 
@@ -182,7 +182,7 @@ As próprias ressalvas do guia se aplicam: vídeo gravado, reflexões e registro
 
 - [[pedagogy]] — o guarda-chuva das abordagens de ensino que esta pagina operacionaliza em sequências
 - [[learning-design]] — onde os padrões são escolhidos, sequenciados e embutidos num curso
-- [[scaffolding]] — o princípio de apoio-e-desvanecimento que governa onde a ajuda da IA pertence
+- scaffolding — o princípio de apoio-e-desvanecimento que governa onde a ajuda da IA pertence
 - [[feedback]] — o sistema que os padrões de feedback desta página instanciam
 - [[formative-assessment]] — o propósito de avaliação que a maioria desses padrões serve
 - [[peer-assessment]] — a metade humana dos padrões PAIRR e de feedback combinado

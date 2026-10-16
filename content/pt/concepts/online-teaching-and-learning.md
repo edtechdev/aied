@@ -136,7 +136,7 @@ Seja qual for a combinação que um instrutor escolha, uma restrição deveria m
 - [[learning-design]]
 - [[active-learning]]
 - [[collaborative-learning]]
-- [[scaffolding]]
+- scaffolding
 - [[self-regulated-learning]]
 - [[cognitive-offloading]]
 - [[academic-integrity]]
