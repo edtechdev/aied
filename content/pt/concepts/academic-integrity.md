@@ -11,7 +11,7 @@ confidence: high
 institutions: [educational-policy-ai, regulation]
 connected_resources: [fpds-apps-and-resources, institutional-ai-readiness-pack, process-feedback, student-guide-to-ai, ai-infused-assignment-playbook]
 translation_of: concepts/academic-integrity
-source_updated: "2026-10-15T10:00:00-04:00"
+source_updated: 2026-10-15T10:00:00-04:00
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:

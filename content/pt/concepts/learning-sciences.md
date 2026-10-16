@@ -13,7 +13,7 @@ page_kind: [framework, synthesis]
 confidence: high
 methods: [research-methods-aied]
 translation_of: concepts/learning-sciences
-source_updated: "2026-10-13T11:05:00-04:00"
+source_updated: 2026-10-13T11:05:00-04:00
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -100,3 +100,5 @@ Os achados só importam uma vez que chegam ao ensino, e essa jornada passa por t
 - [[reichert-human-centered-llm-chatbot-design-teachers-2026]] — Teachers design bounded-expert chatbots, with selective delegation of instruction (Reichert et al. 2026)
 - [[sutedjo-faculty-genai-tpack-21-2026]] — Faculty GenAI TPACK: strong content knowledge, weak technology-integrated knowledge (Sutedjo, Chowdhury & Liu 2026)
 - [[wang-tutor-copilot-human-ai-live-tutoring-rct-2024]] — Tutor CoPilot: a randomized trial of human–AI live tutoring at scale (Wang et al. 2024)
+
+- **The integration gap, mapped:** [[malik-bashir-reconceptualizing-learning-sciences-hybrid-intelligence-2026|Malik and Bashir (2026)]] synthesized 32 studies (PRISMA 2020, thematic analysis) into four themes: epistemological fragmentation within the field, theory–technology contradictions (computational systems run on prediction and measurable behavior while educational theories emphasize context and social interaction), the datafication of learning through analytics, and hybrid intelligence as an emerging paradigm. Their Hybrid Intelligence Framework is a conceptual synthesis, not a validated model — the authors state it awaits empirical testing — but the four-theme map is a useful audit lens for the theory-to-computation translation problem this field keeps hitting.

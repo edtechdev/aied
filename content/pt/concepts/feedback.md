@@ -8,7 +8,7 @@ assessment: [ai-feedback-quality, assessment, automated-assessment, feedback, fe
 connected_faqs: [developing-ai-tutor, ai-feedback-at-scale]
 confidence: high
 translation_of: concepts/feedback
-source_updated: "2026-10-15T08:25:00-04:00"
+source_updated: 2026-10-15T08:25:00-04:00
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -203,3 +203,9 @@ O feedback é um dos mecanismos mais consequentes e melhor evidenciados na educa
 - [[nazaretsky-feedback-source-bias-2025]] — Quem dá o feedback importa: rótulos de fonte deslocam avaliações quando o texto é mantido comparável (Nazaretsky et al. 2025)
 - [[ai-powered-writing-feedback-awe-review-2026]] — Sistema de feedback de escrita impulsionado por IA: uma revisão de ferramentas de avaliação automatizada de escrita (AWE)
 - [[zhao-ji-appraisal-human-ai-revisions-2026]] — O que uma revisão faz à postura de quem escreve: o feedback de pares torna redações argumentativas mais contrativas, a revisão por IA mantém o equilíbrio Contrato/Expansão (Zhao & Ji 2026)
+
+- **Feedback can target the feedback-giver.** Tutor training is an under-explored feedback context: automated systems that sequence-label tutors' open-ended responses to flag praise types (effort-based praise — the desirable process-focused kind — vs. outcome-based vs. person-based, the least desirable trait-attributing kind) can deliver explanatory feedback that changes tutoring behavior. The binding constraint is expert-labeled data. An augmentation approach — GPT-4o generates synthetic labeled responses expanding a 13-instance low-resource set to 520, then fine-tunes GPT-3.5 — recovers most of the gap: F2 +20.5% on effort-based praise, +17.3% on outcome-based, and +16.5% on the *unseen* person-based category. The generalization test to an unseen praise type is the validity check that separates this from overfitting, and the mechanism is closer to teacher-model distillation than classical augmentation. ([[xu-automated-feedback-tutor-training-2025]])
+- [[ai-feedback-quality]]
+- [[self-regulated-learning]]
+- [[xu-automated-feedback-tutor-training-2025]] — Improving automated feedback systems for tutor training in low-resource scenarios through data augmentation (Xu et al. 2025)
+- [[etq-ai-conversational-teacher-training-2026]] — Conversational AI diagnostic for teaching misconceptions with evidence-grounded dialogue (Miranda & Calvani 2026)

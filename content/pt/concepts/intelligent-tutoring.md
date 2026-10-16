@@ -12,7 +12,7 @@ discipline: [stem education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/intelligent-tutoring
-source_updated: "2026-10-14T11:15:00-04:00"
+source_updated: 2026-10-14T11:15:00-04:00
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -76,7 +76,7 @@ Os Sistemas de Tutoria Inteligente representam uma das áreas mais antigas e mai
 - **[[cognitive-diagnosis]]** — avaliação refinada de quais componentes de conhecimento e [[misconceptions|ideias equivocadas]] quem aprende detém; a contraparte do lado da avaliação ao [[knowledge-tracing]] que alimenta a decisão pedagógica do tutor
 - **[[student-modeling]]** — representação mais ampla de quem aprende, incluindo afeto, engajamento e ideias equivocadas
 - **[[adaptive-learning]]** — sistemas que personalizam o sequenciamento de conteúdo com base no estado de quem aprende
-- **[[scaffolding]]** — fornecer apoio apenas suficiente para permitir o progresso sem entregar as respostas
+- **** — fornecer apoio apenas suficiente para permitir o progresso sem entregar as respostas
 - **[[desirable-difficulties|dificuldade produtiva]]** — deixar os estudantes lidarem com a dificuldade em vez de ajudar demais
 - **[[feedback|ciclos de feedback]]** — ciclos de feedback dos ITS que diagnosticam, guiam e verificam
 
@@ -138,7 +138,7 @@ A tutoria eficaz exige adaptação contínua: [[zhang-tutormoments-2026|Zhang et
 - **Desenhe com os valores de quem aprende, não apenas para o desempenho de quem aprende.** O [[ko-hughes-vsd-student-centered-its-2026|trabalho de Desenho Sensível a Valores]] com estudantes e instrutores de matemática de desenvolvimento em community college mostra que as dimensões [[ethics|éticas]] dos ITS não são complementos separáveis: engajar estudantes e instrutores diretamente produziu 16 recursos alinhados a valores abrangendo [[explainable-ai|explicabilidade]] (interpretação de verificação de compreensão, conexão com a trajetória de aprendizagem, comunicação da confiança do modelo), [[human-in-the-loop-ai|controle de quem aprende]] (controle sobre reavaliação, revisão, ritmo e nível de assistência da IA) e [[privacy|privacidade]] (controle de reaproveitamento de dados, prompts de permissão para compartilhar [[learning-analytics|analítica de aprendizagem]] e estados [[affective-computing|afetivos]]). O estudo enquadra uma tensão de desenho persistente — [[agency|autonomia do estudante]] versus andaimento guiado pelo sistema — e observa que a maioria das instituições desativa inteiramente a tutoria adaptativa, de modo que o desenho informado por valores também depende de como (e se) as capacidades de IA dos ITS são de fato implantadas.
 
 ## Conceitos conectados
-- [[scaffolding]]
+- 
 - [[adaptive-learning]]
 - [[cognitive-diagnosis]]
 - [[llm]]
@@ -194,3 +194,14 @@ A tutoria eficaz exige adaptação contínua: [[zhang-tutormoments-2026|Zhang et
 - [[guardrails-ai-teaching-assistants-programming-2026]] — Salvaguardas ou barreiras? Efeitos do estilo pedagógico e da consciência de contexto em assistentes de ensino com IA para programação
 - [[liu-course-integrated-ai-tutoring-rct-2026]] — Um RCT multidisciplinar de um tutor de IA fundamentado no curso e embutido no LMS: notas finais 0,37 DP abaixo na amostra de correspondência exata, participação na plataforma 0,90 DP abaixo, sem integração instrucional (Liu et al. 2026)
 - [[guided-ai-tutor-impasse-resolution-2026]] — Variação na forma como tutores de IA guiados resolvem impasses dos estudantes, e por que a escalada precisa mudar com a profundidade
+
+- **A tutoring harness helps weak backbones and can hurt strong ones.** [[regulatutor-long-term-personalized-tutoring-2026|RegulaTutor (Li et al. 2026)]] wraps a model in evidence-linked, [[self-regulated-learning|SRL]]-grounded stages and raised historical-evidence accuracy by a mean of 25.7 points across four local checkpoints. The judged quality of teaching barely moved (+0.016), and evidence gains reversed on the strongest backbone tested (GPT-5.6-sol −4.87 points).
+- **Teacher mediation roughly doubles implementation fidelity (full-district field evidence):** [[alam-goblins-math-platform-2026|Goblins (Alam et al. 2026)]] — a teacher-mediated multimodal AI math platform rolled out to all grades 6–8 math teachers in a large Arizona district — reached ~51% of 6,065 students at a modest 2-problems-per-week engagement bar, versus the 5% (Khan Academy) and 12% (IXL) thresholds in prior evaluations.
+- **Pedagogical quality is a floor, not proof of learning.** A structured audit of 88 LLM-tutoring studies coding the field as a five-stage loop — learner-state inference, pedagogical action, tutor training, evaluation, student simulation — finds pedagogical evaluation widespread (77/88) but human learning gains in only 10 studies and transfer or delayed retention in one ([[llm-tutors-process-synthesis-2026|Adak et al. (2026)]]).
+**Audit the knowledge-component model against learning curves, then redesign from what the data shows.** A classroom crossover study applied Huang et al.'s data-driven redesign process to four units of a middle-school mathematics ITS chosen by topic, not redesign suitability. Learning-curve analysis in DataShop revealed an unmodeled interpolation skill and conflated sign-handling cases; splitting these KCs and adding focused practice with mastered-step skipping produced more productive time-on-task (38.9 vs. 31.6 active minutes, p < .001) and five additional skills mastered in the same class time — but no learning-gain difference. The null is explained by thin practice dose (below 70% AFM mastery in both conditions) and a post-test that lacked items on the newly split skill. Two lessons for developers: post-tests must cover newly discovered skills, and adaptive benefits are bounded by the practice students actually receive. ([[lyu-data-driven-redesign-tutoring-2026]])
+- **Teachable agents and the classification of disengaged dialogue:** [[rho-disengaged-conversational-behaviors-2026|Rho et al. (2026)]] ran a GPT-4-Turbo teachable agent inside Math Nation (Algebra and Geometry), where students identified which of two worked solutions contained a misconception, justified the correction, and taught the agent — a learning-by-teaching structure with a separate mentor agent scoring explanation quality. Over 6,933 problems opened and 22,143 interactions logged, they built a six-category conversational-disengagement classifier (human-in-the-loop: 1,682 annotated utterances, fine-tuned LLaMA 3, weighted F1 = 0.910, model-vs-human κ = 0.624) and used it to study 246 middle-school students. The methodological contribution is as important as the finding: when a classifier labels most of the corpus, prevalence results must be stress-tested against the human-annotated subset — and here the headline association (False Answering and Mocking predicting higher post-test) evaporated under exactly that test.
+- [[rho-disengaged-conversational-behaviors-2026]] — Disengaged conversational behaviors and learning in student-AI dialogues (Rho et al. 2026)
+- [[lyu-data-driven-redesign-tutoring-2026]] — Evaluating a data-driven redesign process for intelligent tutoring systems: more productive time-on-task and skills practiced, but no learning-gain difference when practice dose is thin (Lyu et al. 2026)
+- [[regulatutor-long-term-personalized-tutoring-2026]] — RegulaTutor: A Theory-Informed Framework for Long-Term Personalized Learning (Li et al. 2026)
+- [[alam-goblins-math-platform-2026]] — Full-district teacher-mediated AI math rollout: ~51% engagement fidelity and a dose gradient from 0.11 SD (2 problems/week) to 0.31 SD (20+/week); larger exploratory associations for IEP, EL, and Hispanic students
+- [[llm-tutors-process-synthesis-2026]] — Do LLM Tutors Actually Teach? A Process-Centered Synthesis of the Tutoring Loop

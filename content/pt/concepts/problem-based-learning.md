@@ -10,7 +10,7 @@ discipline: [medical education, engineering education]
 level: [higher ed]
 confidence: high
 translation_of: concepts/problem-based-learning
-source_updated: "2026-10-15T10:00:00-04:00"
+source_updated: 2026-10-15T10:00:00-04:00
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -100,3 +100,6 @@ A [[productive-failure|falha produtiva (FP)]] compartilha o núcleo [[constructi
 - [[rhaimi-productivemath-2025]] — ProductiveMath: IA para apoiar o desenho de problemas de FP
 - [[genai-scenario-based-healthcare-education-2026]] — Revisão sistemática de IA generativa na educação em saúde baseada em cenários (Neto et al. 2026)
 - [[chen-osman-preservice-physics-tpack-ctd-pbl-2026]] — Módulo de CTD-ABP apoiado por IA com 130 professores de física em formação: TPACK e resolução colaborativa de problemas (Chen & Osman 2026)
+
+- **AI can carry the tutor's knowledge delivery but not the social regulation of group learning.** In a four-week pharmacology quasi-experiment, [[facilitator-vs-ai-mediated-pbl-pharmacology-2026|Shetty & Rao (2026)]] found AI-mediated PBL matched facilitator-led academic gains (between-group p = 0.474), while facilitator-led groups retained advantages in group dynamics (26.51 vs 24.74, p = 0.035) and critical thinking (14.75 vs 13.09, p < 0.001).
+- [[facilitator-vs-ai-mediated-pbl-pharmacology-2026]] — Facilitator-Mediated Versus AI-Mediated Problem-Based Learning in Pharmacology Education: A Quasi-Experimental Study Among Second Year Medical Students

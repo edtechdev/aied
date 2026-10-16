@@ -10,7 +10,7 @@ connected_faqs: [group-work-ai]
 audience: [learners]
 confidence: high
 translation_of: concepts/agency
-source_updated: "2026-10-04T02:59:54-04:00"
+source_updated: 2026-10-04T02:59:54-04:00
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:

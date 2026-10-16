@@ -11,7 +11,7 @@ level: [higher ed]
 connected_faqs: [incorporating-ai-literacy, ai-literacy-evidence]
 confidence: high
 translation_of: concepts/higher-ed
-source_updated: "2026-10-13T11:30:00-04:00"
+source_updated: 2026-10-13T11:30:00-04:00
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -134,3 +134,6 @@ A pesquisa em [[academic-integrity|integridade acadêmica]] e em [[ai-assessment
 - [[nlp-student-evaluation-teaching-scoping-review-2026]] — Da classificação de sentimento a feedback acionável e responsável: uma revisão de escopo e mapa de evidências de PLN na avaliação docente pelos estudantes, 2015–2026
 - [[sun-student-genai-entanglement-literacy-demands-2026]] — As formas Assistente e Habilitadora dominam a pesquisa em IA generativa no ensino superior; os tipos de entrelaçamento marginais permanecem raros por razões institucionais, não técnicas (Sun, Dohn e Rehm 2026)
 - [[students-at-stake-ai-deployment-risks-2026]] — Mapa do lado estudantil da implantação de IA em admissões, auxílio financeiro, serviços estudantis e oferta de educação, com uma triagem de aquisição de quatro questões (Student Defense 2026)
+
+A global comparative index measures the discourse–structure gap. [[chan-ai-institutionalization-index-global-universities-2026|Chan (2026)]] coded the official websites of all 100 Times Higher Education 2026-ranked universities against a 20-indicator AI Institutionalization Index. The symbolic layer is saturated while the structural layer is thin: 100% have an AI task force and a master's AI degree, but only 12% have executive AI leadership, 5% require an introductory AI course for undergraduates, and 0% publish an AI accessibility policy despite 93% deploying AI campus services.
+- [[chan-ai-institutionalization-index-global-universities-2026]] — Chan (2026): AI Institutionalization Index across 100 top-ranked universities; discourse outruns structure, adoption independent of prestige

@@ -7,7 +7,7 @@ confidence: medium
 created: "2026-08-29T12:55:12-04:00"
 updated: "2026-09-30T09:53:03-04:00"
 translation_of: concepts/visualization
-source_updated: "2026-10-13T09:18:19-04:00"
+source_updated: 2026-10-13T09:18:19-04:00
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -75,3 +75,6 @@ Ao longo das obras discutidas aqui, a visualização emerge como meio de duplo u
 - [[data-comics-for-education-evaluating-effectiveness-benefits-ethics]] — Eficácia, benefícios e ética das histórias em quadrinhos de dados assistidas por IA
 - [[cfes-p24-multimodal-slide-auditing-2026]] — Benchmark contrafactual para auditoria multimodal de slides
 - [[mejia-domenzain-ml-findings-teachers-blended-2026]] — Tornando acessíveis a professores os achados de ML em salas de aula mistas
+
+Prompt-to-chart generation raises a different question from whether AI can produce a competent visualization: whether the learner still performs the analytic and encoding work that makes the artifact educational. A 2026 framework calls this the process–output divide and proposes transparency, invitation, and fading as the agency line between [[scaffolding]] and substitution ([[genai-visualization-education-framework-2026|Purohit et al., 2026]]).
+- [[genai-visualization-education-framework-2026]] — Constructing Meaning, Not Just Charts: A Cognitive–Instructional Framework for Generative AI Usage in Visualisation Education

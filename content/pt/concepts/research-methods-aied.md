@@ -12,7 +12,7 @@ confidence: high
 connected_faqs: [research-gaps-aied, evaluating-ai-interventions-methods, equity-ethics-pedagogical-safety-research, reporting-interpreting-aied-research]
 methods: [ai-ed-evaluation, benchmark, rct, research-methods-aied]
 translation_of: concepts/research-methods-aied
-source_updated: "2026-10-05T10:25:44-04:00"
+source_updated: 2026-10-05T10:25:44-04:00
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -121,7 +121,7 @@ A avaliação computacional avalia os [[ai-technologies|sistemas de IA]] diretam
 
 ### Outros desenhos: longitudinais, de caso e de simulação
 
-Além das grandes famílias, a base de conhecimento usa desenhos **longitudinais** que acompanham quem aprende ao longo do tempo ([[ai-lms-middle-school-longitudinal|um estudo longitudinal de LMS]]), estudos **de caso e no ambiente natural** de uso autêntico ([[ai-in-the-wild-college|análise em larga escala de interações reais de estudantes]]), e estudos de **[[simulation|simulação]]** nos quais LLMs substituem estudantes ou pacientes ([[llm-student-simulation-teacher-insights|LLMs como aprendizes simulados]], [[simulation]]). Esses trocam amplitude ou controle por realismo e pelo acesso a fenômenos que, de outro modo, são difíceis de observar.
+Além das grandes famílias, a base de conhecimento usa desenhos **longitudinais** que acompanham quem aprende ao longo do tempo ([[ai-lms-middle-school-longitudinal|um estudo longitudinal de LMS]]), estudos **de caso e no ambiente natural** de uso autêntico ([[ai-in-the-wild-college|análise em larga escala de interações reais de estudantes]]), e estudos de **[[simulation|simulação]]** nos quais LLMs substituem estudantes ou pacientes ([[llm-student-simulation-teacher-insights|LLMs como aprendizes simulados]], ). Esses trocam amplitude ou controle por realismo e pelo acesso a fenômenos que, de outro modo, são difíceis de observar.
 
 ### Métodos de consenso de especialistas: a técnica Delphi
 
@@ -232,3 +232,4 @@ Na prática, a pesquisa em IA na educação raramente se encaixa liminarmente em
 - [[bartos-ai-learning-meta-meta-analysis-2026]] — Metameta-análise do efeito da IA na aprendizagem
 - [[oneill-presumed-effective-meta-analysis-2026]] — Presumed Effective: auditoria de meta-análise defeituosa da AIED
 - [[synthetic-educational-data-structural-fidelity-2026]] — What Fidelity Metrics Miss: A Structural Check on Synthetic Educational Data
+- [[llm]]

@@ -6,7 +6,7 @@ confidence: medium
 created: "2026-08-29T12:55:12-04:00"
 updated: "2026-09-30T07:29:37-04:00"
 translation_of: concepts/machine-learning
-source_updated: "2026-09-30T07:29:37-04:00"
+source_updated: 2026-09-30T07:29:37-04:00
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -95,3 +95,5 @@ O aprendizado de máquina também aparece na educação como uma *matéria*. Na 
 - [[yin-arthur-ai-teaching-assistant-engineering-econ-2026]]
 - [[culturally-aware-student-stress-chatbot-2026]] — Um chatbot culturalmente consciente movido por IA para detecção de estresse e apoio ao bem-estar entre estudantes universitários paquistaneses usando PLN e aprendizado de máquina
 - [[synthetic-educational-data-structural-fidelity-2026]] — O que as Métricas de Fidelidade Perdem: Uma Verificação Estrutural dos Dados Educacionais Sintéticos
+
+- [[bird-multimodal-educational-literature-2026]] — Multimodal fusion for classifying educational literature

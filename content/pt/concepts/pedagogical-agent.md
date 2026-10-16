@@ -11,7 +11,7 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: medium
 translation_of: concepts/pedagogical-agent
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: 2026-10-03T02:57:43-04:00
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -138,3 +138,5 @@ Melhor feedback não é o mesmo que melhor aprendizagem: customizar um agente co
 - [[teachers-configure-educational-chatbots-2026]] — Vai ensinar como pretendido? Como professores configuram chatbots educacionais de IA
 
 - [[agent-type-feedback-style-self-directed-learning-2026]] — O agente customizado elevou a qualidade do feedback, mas não a autorregulação nem os desfechos; vantagem de ganho apenas sob feedback diretivo
+
+- [[generative-ai]]

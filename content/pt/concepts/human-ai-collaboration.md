@@ -8,7 +8,7 @@ foundations: [human-ai-collaboration, ai-literacy]
 technology: [generative-ai, llm]
 pedagogy: [student-ai-interaction]
 translation_of: concepts/human-ai-collaboration
-source_updated: "2026-10-04T17:30:54-04:00"
+source_updated: 2026-10-04T17:30:54-04:00
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -147,3 +147,6 @@ A colaboração humano-IA se conecta ao [[human-in-the-loop-ai]] (supervisão), 
 - [[sun-student-genai-entanglement-literacy-demands-2026]] — Cinco tipos de entrelaçamento estudante–IA generativa, e por que os que distribuem autoria permanecem marginais (Sun, Dohn & Rehm 2026)
 
 - [[teacher-ai-collaboration-work-engagement-2026]] — As vias opostas da colaboração professor–IA para o engajamento no trabalho, por disponibilidade psicológica e alienação no trabalho, delimitadas pela competência digital
+
+- **Professional programs redirect training from routine production toward collaboration competences (a design protocol):** [[wang-agentic-translation-education-2026|Wang (2026)]] proposes a design-based framework for translator education built around a task-displacement inventory (18 sub-tasks rated for AI displacement likelihood with [E]/[P] provenance tags) and four redirected competencies: cross-disciplinary knowledge, AI orchestration, strategic judgment, and critical AI evaluation. The framework is a pre-registered protocol with no empirical data yet; its contribution is the method — an auditable displacement analysis plus a co-design pathway for curriculum reform — which transfers to any professional program whose routine tasks agentic systems increasingly perform.
+- [[wang-agentic-translation-education-2026]] — Design protocol redirecting translator education toward AI orchestration, strategic judgment, and critical evaluation competences (no empirical data yet)

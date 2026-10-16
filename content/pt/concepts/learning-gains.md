@@ -11,7 +11,7 @@ connected_faqs: [top-10-findings-ai-education-instructors, research-gaps-aied, d
 confidence: high
 methods: [ai-ed-evaluation]
 translation_of: concepts/learning-gains
-source_updated: "2026-10-12T09:45:00-04:00"
+source_updated: 2026-10-12T09:45:00-04:00
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -179,3 +179,6 @@ Os ganhos de aprendizagem se conectam à [[assessment-validity|validade da avali
 - [[ai-supported-instruction-stem-meta-analysis-2026]] — Uma síntese de STEM que controlou tamanhos de efeito dependentes e testou viés de publicação, mas não aplicou apreciação de qualidade (Doğan et al. 2026)
 - [[ai-education-effects-second-order-meta-analysis-2026]] — Metanálise de segunda ordem de 45 metanálises de IA na educação, com efeitos corrigidos por sobreposição e uma apreciação de qualidade da camada de síntese (Emslander et al. 2026)
 - [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: tutoria por IA e humana geram ganhos de aprendizagem equivalentes no GRE
+
+- **The first ChatGPT synthesis wave measured performance, not learning.** [[epistemological-audit-genai-meta-analyses-2026|Fütterer et al. (2026)]] rebuilt the evidence base of the five meta-analyses that pooled ChatGPT's educational effects: among 69 classifiable primary studies, 79.7% measured performance exclusively and only 11.6% measured learning. Their reproduced pooled estimate (g = 0.83, 95% CI [0.68, 0.97], I² = 94.06%) therefore describes test performance, and its prediction interval [−0.75, 2.41] crosses zero.
+- [[epistemological-audit-genai-meta-analyses-2026]] — A Critical Epistemological Audit of Early Evidence Syntheses in Generative AI Educational Research (Fütterer et al. 2026)

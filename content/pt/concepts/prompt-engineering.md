@@ -12,7 +12,7 @@ level: [higher ed]
 confidence: high
 connected_resources: [edugems, matt-pocock-skills, pedagogical-promptbook, writing-rhetoric-studies-in-the-loop]
 translation_of: concepts/prompt-engineering
-source_updated: "2026-10-14T11:15:00-04:00"
+source_updated: 2026-10-14T11:15:00-04:00
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -30,7 +30,7 @@ ai_assist:
 
 - Você provavelmente digitou um prompt em uma ferramenta de IA recentemente. Agora considere isto: a forma como você o formulou não é neutra — ela pode revelar como você planejou, pensou e alocou seu esforço. O que seus próprios hábitos de prompting poderiam dizer sobre como você aborda os problemas?
 - Um estudo constatou que usuários que formulam pedidos com habilidade obtêm sistematicamente saída melhor que aqueles que expressam a mesma intenção de forma menos hábil. Se você aceita que o "privilégio de prompt" é real, o acesso justo à IA é melhor corrigido pelo [[teacher-role|ensino]] de todos a fazer prompts melhores, ou por redesenhar o sistema para não exigir essa habilidade — e quais são as compensações de cada abordagem?
-- Fazer prompts é um "truque" a ser memorizado, ou uma habilidade intelectual genuína? Uma linha de [[research-methods-aied|pesquisa]] a trata como juízo profissional dentro de uma disciplina (jornalismo, direito, [[medical-education|medicina]]); outra a trata como núcleo do letramento em IA. Qual visão se alinha à sua própria experiência sobre o que de fato separa bons prompts de ruins?
+- Fazer prompts é um "truque" a ser memorizado, ou uma habilidade intelectual genuína? Uma linha de  a trata como juízo profissional dentro de uma disciplina (jornalismo, direito, [[medical-education|medicina]]); outra a trata como núcleo do letramento em IA. Qual visão se alinha à sua própria experiência sobre o que de fato separa bons prompts de ruins?
 - Prompts bem desenhados podem dar andaimento ao pensamento do estudante, enquanto prompts mal usados podem encorajar o descarregamento cognitivo. Você se lembra de um momento em que uma resposta de IA pensou por você? O que, no prompt — ou na sua intenção — fez isso acontecer, e poderia ter sido desenhado para fazer o oposto?
 - Fazer prompts é tanto uma habilidade de quem aprende quanto uma alavanca de desenho de sistema: alguns tutores agora roteiam e selecionam automaticamente os prompts para o usuário. À medida que o prompting passa do usuário para o sistema, o que os estudantes perdem — e o que ganham?
 - Defina um pequeno objetivo antes de ler: depois de aprender sobre engenharia de prompts, decida uma forma concreta pela qual você mudará como escreve prompts no seu próprio trabalho, e qual resultado verificará para saber se funcionou.
@@ -122,3 +122,6 @@ A engenharia de prompts se conecta ao [[scaffolding|andaimento]] — prompts bem
 - [[llm-feedback-focus-adaptivity-student-writing-2026]] — Avaliando o foco do feedback e a adaptatividade pedagógica no feedback gerado por LLM sobre a escrita dos estudantes
 
 - [[middle-school-genai-steam-interactions-2026]] — Grupos de STEAM do ensino fundamental II copiaram a instrução do instrutor literalmente em 47,1% dos prompts
+
+- **Prompting as assessment design.** [[ecd-prompts-automated-essay-scoring-2026|Xiong et al. (2026)]] map Evidence-Centered Design's student, evidence, and task models onto the parts of a scoring prompt, deriving five principles — intentionality, traceability, accountability, iteration, and equity; their ECD-built prompts scored narrative essays more accurately than zero-shot, few-shot, and chain-of-thought baselines.
+- [[ecd-prompts-automated-essay-scoring-2026]] — Using Evidence-Centered Design to Guide Prompt Engineering in Measurement: An Illustration with Automated Essay Scoring
