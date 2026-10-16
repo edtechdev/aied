@@ -59,7 +59,7 @@ A aprendizagem ao longo da vida se conecta a [[adult-learning|aprendizagem de ad
 - [[equity-in-ai-education]]
 - [[higher-ed]]
 - [[educational-development]]
-- [[scaffolding]]
+- scaffolding
 - [[intelligent-tutoring]]
 - [[cognitive-offloading]]
 

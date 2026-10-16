@@ -98,7 +98,7 @@ Essa ênfase no esforço preservado não é absoluta: um design de [[mixed-metho
 - [[learning-design]]
 - [[active-learning]]
 - [[collaborative-learning]]
-- [[project-based-learning]]
+- project-based-learning
 - [[experiential-learning]]
 - [[game-based-learning]]
 - [[socratic-method]]
