@@ -1,7 +1,7 @@
 ---
 title: "From Answer Generation to Cognitive Partnership: A Conceptual Framework for Human–AI Learning"
 created: "2026-09-29T14:39:22-04:00"
-updated: "2026-09-29T14:39:22-04:00"
+updated: "2026-10-16T14:32:42-04:00"
 type: article
 sources: ['raw/papers/page-cognitive-partnership-cycle-human-ai-2026.md']
 confidence: medium
@@ -60,4 +60,4 @@ Four failure modes stop the cycle from reading as progress by default. [[cogniti
 
 ## Citation
 
-Page, A. (2026). *From Answer Generation to Cognitive Partnership: A Conceptual Framework for Human–AI Learning*. Manuscript.
+Page, A. (2026). [*From Answer Generation to Cognitive Partnership: A Conceptual Framework for Human–AI Learning*](https://doi.org/10.46787/ijaipil.v1i2.8034). *International Journal of AI in Pedagogy, Innovation, and Learning Futures*.

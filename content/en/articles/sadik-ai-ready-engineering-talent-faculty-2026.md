@@ -1,7 +1,7 @@
 ---
 title: "Preparing AI-Ready Engineering Talent: Faculty Perspectives on Generative AI, Foundational Competence, and Workforce Readiness"
 created: "2026-09-29T14:39:22-04:00"
-updated: "2026-09-29T14:39:22-04:00"
+updated: "2026-10-16T14:32:42-04:00"
 type: article
 sources: ['raw/papers/sadik-ai-ready-engineering-talent-faculty-2026.md']
 confidence: high
@@ -62,4 +62,4 @@ All participants expected AI to influence engineering work, and the study treats
 - Credibility checks were modest — one [[qualitative-research|peer-debriefing]] session and member checking with three of ten participants — and the full dataset cannot be shared under the study's IRB approval.
 
 ## Citation
-Sadik, O. (2026). *Preparing AI-Ready Engineering Talent: Faculty Perspectives on Generative AI, Foundational Competence, and Workforce Readiness*. Manuscript.
+Sadik, O. (2026). [*Preparing AI-Ready Engineering Talent: Faculty Perspectives on Generative AI, Foundational Competence, and Workforce Readiness*](https://doi.org/10.46787/ijaipil.v1i2.8036). *International Journal of AI in Pedagogy, Innovation, and Learning Futures*.

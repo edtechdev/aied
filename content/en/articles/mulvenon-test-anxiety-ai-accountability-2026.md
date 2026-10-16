@@ -1,7 +1,7 @@
 ---
 title: "Test Anxiety in the Age of AI: Revisiting Mulvenon's Multi-Stakeholder Framework Under Algorithmic Accountability"
 created: "2026-09-29T14:39:22-04:00"
-updated: "2026-09-29T14:39:22-04:00"
+updated: "2026-10-16T14:32:42-04:00"
 type: article
 sources: ['raw/papers/mulvenon-test-anxiety-ai-accountability-2026.md']
 confidence: medium
@@ -66,4 +66,4 @@ Applied to each group, the reframing is uneven. Students may see acute test anxi
 
 ## Citation
 
-Mulvenon, S. W. (2026). *Test Anxiety in the Age of AI: Revisiting Mulvenon's Multi-Stakeholder Framework Under Algorithmic Accountability*. Manuscript.
+Mulvenon, S. W. (2026). [*Test Anxiety in the Age of AI: Revisiting Mulvenon's Multi-Stakeholder Framework Under Algorithmic Accountability*](https://doi.org/10.46787/ijaipil.v2i1.7290). *International Journal of AI in Pedagogy, Innovation, and Learning Futures*.
