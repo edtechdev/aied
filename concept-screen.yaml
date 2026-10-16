@@ -7140,3 +7140,46 @@
   - student-engagement
   - teacher-role
   reason: 'Daily scan 2026-10-16. No concept page qualifies: the article''s mediation-and-decline finding is an instance of a claim class the corpus already carries, and its construct (feedback orientation) has no page of its own. Dismissals screened against prior coverage and subject matter: grep -ciE ''feedback orientation|Chinese reading|mediation'' teacher-role.md -> 8 hits; grep -ciE ''feedback orientation|Chinese reading|mediation'' agency.md -> 7 hits; grep -ciE ''feedback orientation|Chinese reading|mediation'' student-engagement.md -> 3 hits. The remaining 24 candidate(s) each carry neither the article''s subject matter nor a claim class it would change, so nothing was inserted.'
+- article: packard-thinking-partner-framework-adult-learners-2026
+  date: 2026-10-16
+  integrated:
+  - adult-learning
+  - change-management
+  - online-teaching-and-learning
+  - process-oriented-assessment
+  - teacher-education
+  no_change:
+  - academic-integrity
+  - ai-detection
+  - ai-literacy
+  - ai-use-disclosure
+  - assessment
+  - authentic-assessment
+  - bias-mitigation
+  - conversational-ai
+  - critical-thinking
+  - curriculum-design
+  - differential-effects-across-learner-groups
+  - digital-divide
+  - educational-policy-ai
+  - equity-in-ai-education
+  - evaluative-judgment
+  - feedback
+  - formative-assessment
+  - framing-ai-use-for-students
+  - generative-ai
+  - human-ai-collaboration
+  - interpreting-and-applying-aied-research
+  - k-12
+  - llm
+  - metacognition
+  - misconceptions
+  - neurodiversity
+  - professional-training
+  - prompt-engineering
+  - scaffolding
+  - self-directed-learning
+  - socratic-method
+  - special-education
+  - student-ai-interaction
+  reason: 'Thinking Partner Framework practice case study (six-week asynchronous graduate research methods for ~440 K-12 teachers). Integrated three: the compressed-format redesign rule the online-teaching-and-learning page did not carry (grep -ci ''compressed|accelerated|six-week'' -> 0 hits), the checkpoint-documentation feasibility evidence (96% completion across six semesters, ~440 teachers) that process-oriented-assessment''s own ''What remains unresolved'' section asks for, and the 15 to 20 hour redesign cost absent from change-management (grep -ci ''redesign|cost'' -> 0 hits). Two further candidates the level-field labels declared were screened after the gate named them: adult-learning gained the design-for-a-range-of-engagement stance (grep ''triage|range of engagement|efficiency|mandatory'' -> 0 hits) and teacher-education gained the research-consumption/advocacy role (grep ''mandate|advoca|research consumer|Socratic'' -> 0 hits). The other 33 candidates were dismissed against prior coverage with grep evidence, not in the abstract: the page already carries the claim class (academic-integrity ''making honest work visible'' -> 1 hit and ''surveillance'' -> 7; scaffolding ''fading'' -> 8 hits and ''scaffolded autonomy'' -> 0 because fading is the page''s central construct; ai-detection saturated with detector-reliability studies, so the fourteen-tool point replicates; ai-use-disclosure already frames disclosure as formative rather than compliance and as help-seeking; socratic-method and prompt-engineering already host prompt-template frameworks), or the article reports no finding for it (no demographic detail collected for differential-effects-across-learner-groups and no equity or access data for equity-in-ai-education and digital-divide; the classroom-transfer examples are single-instructor field notes).'
