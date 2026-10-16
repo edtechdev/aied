@@ -1,7 +1,7 @@
 ---
 title: Disengaged Conversational Behaviors and Learning in Student-AI Dialogues for Mathematical Problem Solving
 created: "2026-10-11T10:30:00-04:00"
-updated: "2026-10-11T10:30:00-04:00"
+updated: "2026-10-16T13:51:50-04:00"
 type: article
 foundations: [ai-education]
 pedagogy: [student-engagement, metacognition, self-regulated-learning]
@@ -51,4 +51,4 @@ ai_assist:
 
 ## Citation
 
-Rho, J., Guo, R., Li, H., & Li, C. (2026). Disengaged conversational behaviors and learning in student-AI dialogues for mathematical problem solving. *Computers & Education*, 105766. https://doi.org/10.1016/j.compedu.2026.105766
+Rho, J., Guo, R., Li, H., & Li, C. (2026). [*Disengaged Conversational Behaviors and Learning in Student-AI Dialogues for Mathematical Problem Solving*](https://doi.org/10.1016/j.compedu.2026.105766). *Computers & Education*, 105766.

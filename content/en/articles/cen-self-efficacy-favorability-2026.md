@@ -1,7 +1,7 @@
 ---
 title: Self-efficacy and favorability shape learning from tutoring systems and paper practice
 created: "2026-10-10T19:04:00-04:00"
-updated: "2026-10-10T19:04:00-04:00"
+updated: "2026-10-16T13:51:50-04:00"
 type: article
 pedagogy: [learning-theories, self-regulated-learning]
 technology: [intelligent-tutoring]
@@ -47,4 +47,4 @@ The design strength is content-matching: both formats practiced the same skills 
 
 ## Citation
 
-Cen, X., Aleven, V., Koedinger, K. R., Borchers, C., & Carvalho, P. F. (2026). Self-efficacy and favorability shape learning from tutoring systems and paper practice. *arXiv:2606.17470v1* [cs.CY, cs.HC]. https://arxiv.org/abs/2606.17470
+Cen, X., Aleven, V., Koedinger, K. R., Borchers, C., & Carvalho, P. F. (2026). [*Self-efficacy and favorability shape learning from tutoring systems and paper practice*](https://arxiv.org/abs/2606.17470). *arXiv:2606.17470v1* [cs.CY, cs.HC].

@@ -1,7 +1,7 @@
 ---
 title: "AI Literacy and STEM Education: Emerging Frontiers and Research Priorities"
 created: "2026-10-15T08:15:00-04:00"
-updated: "2026-10-15T08:15:00-04:00"
+updated: "2026-10-16T13:51:50-04:00"
 type: article
 foundations: [ai-literacy, critical-thinking]
 sources: ['raw/papers/10.1186_s40594-026-00653-8.md']
@@ -65,4 +65,4 @@ The review's most policy-relevant finding is a silence: across the ten most-cite
 
 ## Citation
 
-Hallström, J., Chiu, T. K. F., Ding, M., Koretsky, M. D., & Li, Y. (2026). AI literacy and STEM education: Emerging frontiers and research priorities. *International Journal of STEM Education*, 13, 63. https://doi.org/10.1186/s40594-026-00653-8
+Hallström, J., Chiu, T. K. F., Ding, M., Koretsky, M. D., & Li, Y. (2026). [*AI Literacy and STEM Education: Emerging Frontiers and Research Priorities*](https://doi.org/10.1186/s40594-026-00653-8). *International Journal of STEM Education*, 13, 63.

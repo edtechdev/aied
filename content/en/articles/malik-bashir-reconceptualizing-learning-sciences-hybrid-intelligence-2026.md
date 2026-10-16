@@ -1,7 +1,7 @@
 ---
 title: "Reconceptualizing learning sciences in the era of artificial intelligence: Toward hybrid intelligence and adaptive learning systems"
 created: "2026-10-13T10:58:00-04:00"
-updated: "2026-10-16T13:16:04-04:00"
+updated: "2026-10-16T13:51:50-04:00"
 type: article
 foundations: [ai-literacy]
 discipline: [learning sciences]
@@ -56,4 +56,4 @@ The synthesis positions Hybrid Intelligence as the integrative concept. Within t
 
 ## Citation
 
-Malik, A., & Bashir, I. (2026). Reconceptualizing learning sciences in the era of artificial intelligence: Toward hybrid intelligence and adaptive learning systems. *Acta Psychologica, 270*, 107977. https://doi.org/10.1016/j.actpsy.2026.107977
+Malik, A., & Bashir, I. (2026). [*Reconceptualizing learning sciences in the era of artificial intelligence: Toward hybrid intelligence and adaptive learning systems*](https://doi.org/10.1016/j.actpsy.2026.107977). *Acta Psychologica, 270*, 107977.

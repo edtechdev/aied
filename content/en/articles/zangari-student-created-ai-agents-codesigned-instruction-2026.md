@@ -1,7 +1,7 @@
 ---
 title: "Why Pay for an AI Tutor When You Can Design It? Student-Created AI Agents as Co-Designed Instructional Tools for a Large Software Design and Engineering Course"
 created: "2026-10-13T11:01:00-04:00"
-updated: "2026-10-16T13:16:04-04:00"
+updated: "2026-10-16T13:51:50-04:00"
 type: article
 foundations: [ai-literacy]
 discipline: [cs education]
@@ -58,4 +58,4 @@ The design rationale addresses AI tutors' known weaknesses: because many rely on
 
 ## Citation
 
-Zangari, L. G., Abramson, S. L., Aponte-Archila, E., Hackney, K. A., Muñoz, E., Omojokun, O., & Feijóo-García, P. G. (2026). Why pay for an AI tutor when you can design it? Student-created AI agents as co-designed instructional tools for a large software design and engineering course. *ASEE Computers in Education, 15*(4), 311–329. https://doi.org/10.18260/B4D7-9A-43218
+Zangari, L. G., Abramson, S. L., Aponte-Archila, E., Hackney, K. A., Muñoz, E., Omojokun, O., & Feijóo-García, P. G. (2026). [*Why Pay for an AI Tutor When You Can Design It? Student-Created AI Agents as Co-Designed Instructional Tools for a Large Software Design and Engineering Course*](https://doi.org/10.18260/B4D7-9A-43218). *ASEE Computers in Education, 15*(4), 311–329.

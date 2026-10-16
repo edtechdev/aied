@@ -1,7 +1,7 @@
 ---
 title: "Learner Agency Across Scales: An Integrative Perspective on Self-Regulated Learning in Algorithmically Mediated Environments"
 created: "2026-08-27T06:30:00-04:00"
-updated: "2026-09-19T08:33:23-04:00"
+updated: "2026-10-16T13:51:50-04:00"
 type: article
 foundations: [agency, theory-development-aied]
 pedagogy: [critical-pedagogy, self-regulated-learning]
@@ -39,4 +39,4 @@ page_kind: [framework]
 
 ## Citation
 
-de Barba, P. G. (2026). *Learner agency across scales: An integrative perspective on self-regulated learning in algorithmically mediated environments.* Learning Letters, 7, Article 75. [https://doi.org/10.20851/ll.v7.75](https://doi.org/10.20851/ll.v7.75)
+de Barba, P. G. (2026). [*Learner Agency Across Scales: An Integrative Perspective on Self-Regulated Learning in Algorithmically Mediated Environments*](https://doi.org/10.20851/ll.v7.75). Learning Letters, 7, Article 75.

@@ -1,7 +1,7 @@
 ---
 title: "AI Tutoring is Not a Monolith: What We Actually Know"
 created: "2026-08-27T08:10:00-04:00"
-updated: "2026-09-19T08:33:23-04:00"
+updated: "2026-10-16T13:51:50-04:00"
 type: article
 technology: [intelligent-tutoring]
 assessment: [learning-gains]
@@ -44,4 +44,4 @@ institutions: [educational-policy-ai]
 
 ## Citation
 
-Turano, C., Pihl, V., Agnew, C., Ziegler, L., & Loeb, S. (2026). *AI Tutoring is Not a Monolith: What We Actually Know.* Stanford SCALE / National Student Support Accelerator (NSSA), Stanford University. [https://scale.stanford.edu](https://scale.stanford.edu)
+Turano, C., Pihl, V., Agnew, C., Ziegler, L., & Loeb, S. (2026). [*AI Tutoring is Not a Monolith: What We Actually Know*](https://scale.stanford.edu). Stanford SCALE / National Student Support Accelerator (NSSA), Stanford University.

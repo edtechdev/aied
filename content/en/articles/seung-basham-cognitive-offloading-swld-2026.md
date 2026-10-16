@@ -1,7 +1,7 @@
 ---
 title: "Cognitive Offloading in the Age of Generative AI: What Does It Mean for Students With Learning Disabilities?"
 created: "2026-08-27T08:50:00-04:00"
-updated: "2026-09-19T08:33:23-04:00"
+updated: "2026-10-16T13:51:50-04:00"
 type: article
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [metacognition, self-regulated-learning]
@@ -43,4 +43,4 @@ page_kind: [framework]
 
 ## Citation
 
-Seung, Y., & Basham, J. D. (2026). Cognitive offloading in the age of generative AI: What does it mean for students with learning disabilities? *Learning Disability Quarterly, 49*(3), 121–133. [https://doi.org/10.1177/07319487261439132](https://doi.org/10.1177/07319487261439132)
+Seung, Y., & Basham, J. D. (2026). [*Cognitive Offloading in the Age of Generative AI: What Does It Mean for Students With Learning Disabilities?*](https://doi.org/10.1177/07319487261439132) *Learning Disability Quarterly, 49*(3), 121–133.

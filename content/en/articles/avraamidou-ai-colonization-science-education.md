@@ -1,7 +1,7 @@
 ---
 title: "Can we disrupt the momentum of the AI colonization of science education?"
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-09-19T09:38:08-04:00"
+updated: "2026-10-16T13:51:50-04:00"
 type: article
 foundations: [ai-education]
 pedagogy: [critical-pedagogy]
@@ -66,4 +66,4 @@ The essay closes with an affirmative: *"Can we disrupt the momentum of the AI co
 
 ## Citation
 
-Avraamidou, L. (2024). Can we disrupt the momentum of the AI colonization of science education? *Journal of Research in Science Teaching*, 61(10), 2570–2574. [https://doi.org/10.1002/tea.21961](https://doi.org/10.1002/tea.21961)
+Avraamidou, L. (2024). [*Can we disrupt the momentum of the AI colonization of science education?*](https://doi.org/10.1002/tea.21961) *Journal of Research in Science Teaching*, 61(10), 2570–2574.

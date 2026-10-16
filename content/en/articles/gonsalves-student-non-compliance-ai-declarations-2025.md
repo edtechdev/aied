@@ -1,7 +1,7 @@
 ---
 title: "Addressing student non-compliance in AI use declarations: implications for academic integrity and assessment in higher"
 created: "2026-08-27T11:15:00-04:00"
-updated: "2026-09-19T08:33:23-04:00"
+updated: "2026-10-16T13:51:50-04:00"
 type: article
 foundations: [academic-integrity]
 technology: [generative-ai]
@@ -44,4 +44,4 @@ institutions: [educational-policy-ai]
 
 ## Citation
 
-Gonsalves, C. (2025). Addressing student non-compliance in AI use declarations: Implications for academic integrity and assessment in higher education. *Assessment & Evaluation in Higher Education, 50*(4), 592–606. [https://doi.org/10.1080/02602938.2024.2415654](https://doi.org/10.1080/02602938.2024.2415654)
+Gonsalves, C. (2025). [*Addressing student non-compliance in AI use declarations: implications for academic integrity and assessment in higher*](https://doi.org/10.1080/02602938.2024.2415654) education. *Assessment & Evaluation in Higher Education, 50*(4), 592–606.

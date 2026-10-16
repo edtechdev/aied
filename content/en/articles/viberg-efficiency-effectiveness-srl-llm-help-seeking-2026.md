@@ -1,7 +1,7 @@
 ---
 title: "Efficiency vs. Effectiveness: Self-Regulated Learning with LLM-Mediated Help-Seeking"
 created: "2026-08-27T06:30:00-04:00"
-updated: "2026-09-19T08:33:23-04:00"
+updated: "2026-10-16T13:51:50-04:00"
 type: article
 pedagogy: [help-seeking, self-regulated-learning]
 technology: [llm]
@@ -40,4 +40,4 @@ methods: [qualitative-research]
 
 ## Citation
 
-Viberg, O., Feldman-Maggor, Y., & Wong, J. (2026). *Efficiency vs. effectiveness: Self-regulated learning with LLM-mediated help-seeking.* Learning Letters, 8, Article 60. [https://doi.org/10.20851/ll.v8.60](https://doi.org/10.20851/ll.v8.60)
+Viberg, O., Feldman-Maggor, Y., & Wong, J. (2026). [*Efficiency vs. Effectiveness: Self-Regulated Learning with LLM-Mediated Help-Seeking*](https://doi.org/10.20851/ll.v8.60). Learning Letters, 8, Article 60.
