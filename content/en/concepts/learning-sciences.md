@@ -1,7 +1,7 @@
 ---
 title: "Learning Sciences"
 created: "2026-09-17T14:12:00-04:00"
-updated: "2026-10-16T06:36:28-04:00"
+updated: "2026-10-16T08:47:09-04:00"
 type: concept
 foundations: [learning-design]
 pedagogy: [cognitive-psychology, learning-theories, pedagogy]
@@ -34,6 +34,7 @@ This page covers the substantive knowledge such methods have produced — what l
 
 - **Mechanism first, then the model.** [[deceptive-overgeneralization-adaptive-learning-2026|An, McLaren and Stamper (2026)]] ran eleven experiments (N = 192) with [[intelligent-tutoring]] systems for Riichi Mahjong and showed that learners who compiled an overgeneralised production — the action without its application constraint — misapplied it on the first "do-not-act" item at 61.5%–100%, against 12% expected error under [[knowledge-tracing|Bayesian knowledge tracing]]. With a 95% mastery threshold the system stopped practice before learners met a case requiring the action to be withheld, so the defect went undetected. Short do-not-act practice with [[feedback]] naming the missing constraint cut misapplication to 0.0%–23.1% (Cohen's h 1.70–2.44), and a secondary analysis of thirteen K-12 *Decimal Point* datasets found the same structure in whole-number bias (84%–88% of comparison errors).
 - **A consensus maps where GenAI helps and harms learning.** A preregistered Delphi of 30 learning scientists rated 65 learning processes and agreed on 42: GenAI threatens initial acquisition and [[critical-thinking|higher-order thinking]] but enhances consolidation ([[genai-support-threaten-learning-k20-expert-consensus-2026|Kendeou et al., 2026]]).
+- **Feedback style, not agent type, moved self-regulatory engagement.** In a 2 × 2 experiment with 51 postgraduate students, [[socratic-method|Socratic]] feedback was associated with stronger comprehension monitoring while directive feedback carried higher cognitive load; the two styles ran in a fixed, non-counterbalanced sequence, so the contrast is condition-related rather than causal ([[agent-type-feedback-style-self-directed-learning-2026|Han et al. (2026)]]).
 
 - **The optimum depends on the content.** [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit, Koedinger and Carvalho (2025)]] treat the example–problem ratio as a content–treatment interaction: in a 2×2 experiment with 95 participants on geometry-area material, practice-only training produced larger [[learning-gains|learning gains]] for verbatim facts while example-integrated training produced larger gains for generalizable skills (β = 0.41, p = .038, d = 0.38). A simulated learner (Apprentice Learner) reproduced the crossover only when given an ACT-R-style [[cognitive-psychology|memory-and-forgetting mechanism]]. More practice is not uniformly better: memory-oriented content warrants retrieval, and induction-oriented skills warrant integrated examples.
 
@@ -51,6 +52,11 @@ This page covers the substantive knowledge such methods have produced — what l
 
 - **The integration gap, mapped:** [[malik-bashir-reconceptualizing-learning-sciences-hybrid-intelligence-2026|Malik and Bashir (2026)]] synthesized 32 studies (PRISMA 2020, thematic analysis) into four themes: epistemological fragmentation within the field, theory–technology contradictions (computational systems run on prediction and measurable behavior while educational theories emphasize context and social interaction), the datafication of learning through analytics, and hybrid intelligence as an emerging paradigm. Their Hybrid Intelligence Framework is a conceptual synthesis, not a validated model — the authors state it awaits empirical testing — but the four-theme map is a useful audit lens for the theory-to-computation translation problem this field keeps hitting.
 - **How students use a generative model matters more than whether they do.** Coding 50 undergraduate exchanges found 64% were passive review or transactional questions and only 36% strategic dialogue, and a reflection-structured assignment shifted the balance toward dialogue ([[three-pathways-student-ai-interaction-2026|Zahra, 2026]]).
+- **Within-person reliance precedes a drop in perceived [[agency|agency]].** Across three waves of data from 342 undergraduates in 85 fixed groups in an AI-supported [[collaborative-learning|collaborative]] [[writing-education|writing]] course, higher-than-usual GenAI reliance predicted lower subsequent perceived human agency, while the reverse path was weaker and not statistically supported ([[genai-reliance-human-agency-collaborative-learning-2026|Wu and Lu (2026)]]).
+
+- **The distribution of GenAI use is an institutional choice.** [[sun-student-genai-entanglement-literacy-demands-2026|Sun, Dohn and Rehm (2026)]] classified 102 higher-education studies by how epistemic work was distributed between student and system and found Assistant and Enabler entanglements dominating at 42.16% each, reading the skew as institutional legitimacy rather than technological capability.
+
+- **Process evidence is channel-conditional.** Coding one GenAI-assisted instructional-design task with 79 undergraduates in both interaction logs and concurrent think-aloud, [[metacognitive-processes-genai-interaction-logs-2026|Li and Liu (2026)]] found higher-depth monitoring evidence more common in the think-aloud record but higher-depth [[regulation|regulation]] evidence more common in the logs, so neither trace alone is the criterion for a [[metacognition|metacognitive]] claim.
 
 ## How the learning sciences relate to their neighbours
 
@@ -103,3 +109,9 @@ The findings only matter once they reach teaching, and that journey runs through
 - [[wang-tutor-copilot-human-ai-live-tutoring-rct-2024]] — Tutor CoPilot: a randomized trial of human–AI live tutoring at scale (Wang et al. 2024)
 - [[genai-support-threaten-learning-k20-expert-consensus-2026]] — A 30-expert preregistered Delphi on which learning processes GenAI enhances and which it threatens
 - [[three-pathways-student-ai-interaction-2026]] — A typology of student-AI interaction: 64% passive or transactional, 36% strategic dialogue
+- [[agent-type-feedback-style-self-directed-learning-2026]] — Feedback style, not agent type, moved self-regulatory engagement
+- [[metacognitive-processes-genai-interaction-logs-2026]] — Process evidence is channel-conditional
+
+- [[sun-student-genai-entanglement-literacy-demands-2026]] — The distribution of GenAI use is an institutional choice
+
+- [[genai-reliance-human-agency-collaborative-learning-2026]] — Within-person reliance precedes a drop in perceived agency

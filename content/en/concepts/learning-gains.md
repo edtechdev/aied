@@ -1,7 +1,7 @@
 ---
 title: Learning Gains
 created: "2026-08-09T16:52:03-04:00"
-updated: "2026-10-12T09:45:00-04:00"
+updated: "2026-10-16T08:47:09-04:00"
 type: concept
 assessment: [assessment]
 audience: [learners]
@@ -56,6 +56,7 @@ Across the knowledge base's [[rct|RCTs]], [[meta-analysis-systematic-review|meta
 - **Perceived vs. actual efficacy diverge.** [[ai-literacy-assessment-misalignment|Self-reported performance misaligns with measured performance]], and [[absent-cognitive-baseline-2026|the absent cognitive baseline]] shows AI-native students overestimate their learning — so efficacy claims based on self-report are unreliable without objective outcome measures. [[self-report-measures]] collects the cases where reported and measured outcomes come apart.
 
 - **Gains can come from reallocating teacher time, not from AI grading.** In a randomized experiment across 178 Brazilian schools (~19,000 seniors), AI and human essay grading produced identical exam gains, but AI classrooms saw ~35% more one-on-one teacher conversations about writing, and the bottom quartile improved under neither condition ([[ai-changing-teaching-workflows|Ler, 2026]]).
+- **In teacher-mediated AI, preparation moved gains and the tool did not.** Across 19 Brazilian public-school numeracy classes, students taught by trained teachers outperformed the control group, but adding the AIED-U system to that training produced no further learning gain, and teacher workload was negatively associated with gains ([[rodrigues-aied-unplugged-numeracy-2026|Rodrigues et al. (2026)]]).
 
 **Takeaway:** the weight of evidence supports **modest, conditional, and design-dependent learning gains** from AI — real when AI is structured to coach rather than answer, guardrailed, and paired with unassisted outcome measures, and absent or negative when it substitutes for the learner's own effort. This is why learning gains as an outcome must be measured with valid, AI-resistant instruments and why [[ai-ed-evaluation]] pairs efficacy claims with [[research-methods-aied|methodological]] scrutiny.
 
@@ -171,3 +172,4 @@ Learning gains connect to [[assessment-validity]] — if [[assessment|assessment
 - [[ai-supported-instruction-stem-meta-analysis-2026]] — A STEM synthesis that controlled dependent effect sizes and tested publication bias, but applied no quality appraisal (Doğan et al. 2026)
 - [[ai-education-effects-second-order-meta-analysis-2026]] — Second-order meta-analysis of 45 AI-in-education meta-analyses, with overlap-corrected effects and a quality appraisal of the synthesis layer (Emslander et al. 2026)
 - [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: AI and human tutoring yield equivalent GRE learning gains
+- [[rodrigues-aied-unplugged-numeracy-2026]] — In teacher-mediated AI, preparation moved gains and the tool did not

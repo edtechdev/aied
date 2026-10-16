@@ -1,7 +1,7 @@
 ---
 title: Pedagogies and Teaching Strategies
 created: "2026-08-19T17:45:00-04:00"
-updated: "2026-09-30T16:25:27-04:00"
+updated: "2026-10-16T08:47:09-04:00"
 connected_faqs: [designing-ai-into-learning]
 type: concept
 foundations: [ai-education, learning-design]
@@ -69,6 +69,8 @@ Different pedagogical strategies produce different kinds and sizes of [[learning
 
 The key cross-cutting finding, consistent with the knowledge base's [[learning-gains]] research, is that **the strategy's effect on learning depends more on how it preserves learner effort and productive struggle than on which label it carries** — any pedagogy, even a "good" one, fails if AI is configured to bypass the cognitive work it was meant to elicit (see [[cognitive-offloading]], [[desirable-difficulties]]).
 
+Student–[[student-ai-interaction|AI interaction]] is better read as a shifting process of cognitive distribution than as fixed dependence: across 53 ChatGPT conversations from a transdisciplinary [[engineering-education|engineering]] course, extension (tight, iterative co-thinking) was the most frequent interaction type at 53.3% of 321 prompt-level codes, ahead of outsourcing at 29.6% ([[cognitive-distribution-student-genai-interaction-2026|Willcox, Lane & Arikan (2026)]]).
+
 That emphasis on preserved effort is not absolute: a four-study [[mixed-methods-research|mixed-methods]] design (N = 912) found that framing GenAI as a pedagogical partner activated both critical vigilance and strategic offloading, with offloading above a threshold freeing capacity for higher-order reflection rather than eroding it ([[wang-zhang-pedagogical-partnerships-genai-2026|Wang and Zhang (2026)]]).
 
 ## Implications for AI in education
@@ -117,4 +119,4 @@ That emphasis on preserved effort is not absolute: a four-study [[mixed-methods-
 - [[fowlin-operationalizing-learning-principles-ai]] — Operationalizing learning principles with AI
 - [[kibar-ilgaz-ai-instructional-design-review-2026]] — AI and Instructional Design Practice: A Systematic Review (Kibar & Ilgaz 2026)
 - [[liu-ai-literacy-interventions-meta-analysis-2026]] — Instructional approaches in AI literacy interventions
-
+- [[cognitive-distribution-student-genai-interaction-2026]] — Student-AI interaction as shifting cognitive distribution, not fixed dependence (53.3% extension)

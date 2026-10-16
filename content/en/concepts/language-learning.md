@@ -2,7 +2,7 @@
 connected_resources: [mglearn]
 title: Language Learning
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-04T09:35:00-04:00"
+updated: "2026-10-16T08:47:09-04:00"
 type: concept
 foundations: [ai-education]
 technology: [generative-ai]
@@ -54,6 +54,8 @@ Design quality, not usage frequency, carried the motivational effect in an instr
 - **Emerging [[ai-technologies|technologies]] yield small-to-moderate, level-dependent gains.** A [[liu-emerging-tech-tefl-review-2026|meta-analysis of 33 TEFL studies]] (N = 3,181) finds an overall effect of Hedges' g = 0.38 that rises with educational level (primary 0.29, secondary 0.35, tertiary 0.44), with VR/AR yielding the largest effects and productive skills (speaking, writing) gaining more than receptive skills — supporting the use of emerging tech, especially at tertiary level, while keeping expectations realistic.
 - **A systematic review maps where elementary AI language education is thin.** Across 31 studies (2013-2025), work in elementary language classrooms clustered on speaking, literacy and vocabulary while grammar, listening comprehension and sign language were barely studied, and most designs lacked grade-level specificity ([[ai-elementary-language-education-review-2026|Hamasha et al., 2026]]).
 - **Use AI to extend communicative practice, not replace it.** [[ai-interlocutor-l2-spoken-dialogue|AI interlocutors]] and [[tact-pedagogically-adaptive-esl-tutoring|adaptive ESL tutors]] expand interactional practice at scale — pair them with human interaction so fluency and uptake transfer to real conversation.
+- **Extend AI [[scaffolding|scaffolding]] to collaborative reading.** With 63 Chinese English majors in a GenAI-assisted social annotation study, [[genai-social-annotation-epistemic-network-analysis-2026|Pan et al. (2026)]] found that the chatbot raised cognitive and emotional engagement and reading performance and tied [[community-of-inquiry|social presence]] to integration and resolution, though high-achieving groups used the scaffold far more.
+- **Readiness, not observed performance.** Across 708 learners, greater AI-assisted speaking practice tracked higher human-directed willingness to communicate (β = 0.384) and lower foreign-language speaking [[anxiety-and-stress|anxiety]] (β = −0.416), while AI voice-assistant scenarios lowered anticipated anxiety further; neither study observed actual human speaking ([[ai-speaking-practice-communicative-readiness-2026|Wang & Li (2026)]]).
 
 
 - **Watch AI output for pragmatic, not just grammatical, error.** Teachers across five online language-teaching methods named pragmatic blindness, where AI output is grammatically correct but wrong in tone, formality or culture ([[ai-ethics-tensions-online-pedagogy-2026|Baoyi and Khan (2026)]]).
@@ -125,3 +127,5 @@ Design quality, not usage frequency, carried the motivational effect in an instr
 - [[llmersion-local-first-language-learning-2026]] — LLMersion: A Local-First AI Agent Framework for Low-Cost Home Language Learning toward Educational Equity
 
 - [[ai-ethics-tensions-online-pedagogy-2026]] — Pragmatic blindness: AI language output can be grammatically correct but culturally wrong
+- [[ai-speaking-practice-communicative-readiness-2026]] — Readiness, not observed performance
+- [[genai-social-annotation-epistemic-network-analysis-2026]] — Extend AI scaffolding to collaborative reading

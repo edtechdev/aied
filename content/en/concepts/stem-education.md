@@ -1,7 +1,7 @@
 ---
 title: STEM Education
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-16T06:36:28-04:00"
+updated: "2026-10-16T08:47:09-04:00"
 type: concept
 foundations: [computational-thinking]
 technology: [intelligent-tutoring]
@@ -27,6 +27,7 @@ reviewed_by: [editor]
 ### STEM as the primary AIED domain
 
 - **Mathematics:** [[math-education|Math education]] research spans [[generative-ai-reduced-study-time-math|GenAI impact on math learning]], [[ai-powered-personalized-learning-elementary-fractions-2026|elementary fraction tutoring]], and [[student-math-competence-clustering|competence clustering]].
+- **Mathematics ITS evidence is bounded and conditional.** A structured narrative review of 20 publications (2020–April 2026) found the clearest measured advantage for real-time diagnostic [[feedback|feedback]] layered onto the same adaptive system, yet concluded that intelligent tutoring supports mathematics learning only when valid [[student-modeling|learner modeling]], calibrated scaffolding and teacher mediation combine, and that scalability is technical, not educational ([[intelligent-tutoring-mathematics-education-review-2026|Ogunsakin et al. (2026)]]).
 - **Physics:** [[physics-education|Physics education]] includes [[becker-chatgpt-typology-physics-2026|ChatGPT typology studies]], [[hashmi-socratic-physics-chatbot-2025|Socratic physics chatbots]], and [[ai-scoring-language-bias-physics|scoring bias analysis]].
 - **Computer science:** [[cs-education|CS education]] is the most-researched STEM subfield — [[code-review-genai-cs1|code review]], [[debugtracker-classroom-debugging|debugging tools]], and [[prompt-problems-nl-programming-mistakes|prompting studies]].
 - **Engineering:** [[concept-catalyst-engineering-scaffolds|Engineering scaffolds]], [[structured-ai-demonstrations-engineering-mechanics|mechanics demonstrations]], and [[ai-engineering-education-balancing-act|curriculum balancing]] bring AI to [[engineering-education|engineering education]].
@@ -113,3 +114,4 @@ A concentrated batch of 2026 *International Journal of STEM Education* studies s
 - [[hallstrom-ai-literacy-stem-education-frontiers-2026]] — Synthesis of the ten most-cited studies of AI literacy in STEM education (Hallström et al. 2026)
 - [[caee-digital-twins-stem-education-systematic-review-2026]] — Digital twins in STEM: every reviewed study shipped a working prototype, few measured learning
 - [[structured-genai-training-physics-problem-solving-rct-2026]] — A 45-minute prompting and error-checking session raised physics posttest scores (*d* = 0.814)
+- [[intelligent-tutoring-mathematics-education-review-2026]] — Mathematics ITS evidence is bounded and conditional

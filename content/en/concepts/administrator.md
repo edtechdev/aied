@@ -1,7 +1,7 @@
 ---
 title: Administrators
 created: "2026-05-09T10:44:35-04:00"
-updated: "2026-10-01T20:35:10-04:00"
+updated: "2026-10-16T08:47:09-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [scaffolding]
@@ -29,6 +29,8 @@ reviewed_by: [editor]
 ## Introduction
 
 AI adoption in education is not purely a classroom decision; it is also an institutional one. Administrators — provosts, deans, CIOs, and institutional leaders — set the conditions under which faculty and students use AI, balancing pedagogical opportunity against governance, resourcing, and risk.
+
+[[students-at-stake-ai-deployment-risks-2026|Student Defense (2026)]] supplies a portable procurement screen for exactly the decision administrators face: before deploying an AI product, ask what problem is being solved, whether governance capacity exists, whether the institution is being transparent, and whether the deployment creates value for students — framing the choice as one about students' rights, choices, finances and futures rather than a procurement transaction.
 
 ### How the administrator perspective appears in the research
 
@@ -71,3 +73,4 @@ The administrator perspective connects to [[educational-policy-ai]] (policy form
 - [[genai-policies-higher-ed-computing]] — Institutional GenAI policy in computing
 - [[institutional-change-framework-ai]] — Institutional change framework for AI
 - [[edtech-privacy-deferral-2026]] — "We'll Fix It Later": Education, AI, and the Deferral of Student Privacy in EdTech
+- [[students-at-stake-ai-deployment-risks-2026]] — A four-question procurement screen, framed as students' rights rather than as risk management

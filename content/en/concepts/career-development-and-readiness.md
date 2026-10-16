@@ -1,7 +1,7 @@
 ---
 title: Career Development and Readiness
 created: "2026-08-25T07:46:00-04:00"
-updated: "2026-10-04T05:34:36-04:00"
+updated: "2026-10-16T08:47:09-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [anxiety-and-stress, professional-training]
@@ -35,6 +35,7 @@ As AI transforms occupations, education's role in career development has broaden
 - **Course policy as a workforce-competency decision.** [[mccorkle-aligned-genai-course-policy-2025|McCorkle's (2025)]] design case makes the trade-off explicit at task level: for each step of a semester project the instructor pairs an emerging [[generative-ai|GenAI]] workforce competency (prompting for objectives, generating images, writing scripts, text-to-speech narration) against the need to assess a foundational skill, and permits AI only where the competency wins — a concrete way to build the workflow skills employers value ([[prompt-engineering]], evaluation of [[llm|LLM]] output) into existing assignments rather than adding a separate AI course.
 - **AI already mediates career preparation itself.** [[loidl-chatgpt-career-development-2026|Loidl, Cao and Huang (2026)]] surveyed 102 undergraduates at one Midwestern R1 university and found about 81% had used ChatGPT for employability-related activities in the previous 12 months, led by resumes (52.94%), workplace communication (38.24%), and cover letters (35.29%), which the interviews read as tailoring and rehearsal work rather than outsourcing; career readiness therefore has to be built on preparation that the tool already mediates, not only on the capacities this page otherwise describes.
 - **Sector-specific readiness frameworks.** [[workforce-readiness-smart-manufacturing-wrl-2026|Workforce readiness for smart manufacturing]] and [[ai-engineering-computing-workforce-grey-literature-2026|the future of the engineering/computing workforce]] translate general employability into [[discipline-specific-aied|discipline-specific]] competency frameworks.
+- **What faculty expect AI to displace, and what that is not.** In ten interviews in an AI-focused [[engineering-education|engineering]] department, faculty disagreed about how generative AI would reshape work, naming coding, [[writing-education|writing]] and information work as near-term vulnerable, while offering no labor-market evidence for those expectations ([[sadik-ai-ready-engineering-talent-faculty-2026|Sadik (2026)]]).
 - **Workforce transitions.** The [[post-covid-ict-career-aspirations|ICT career aspirations]] study examines how students' career intentions shift in response to technological change.
 - **Theoretical grounding.** The [[kim-ai-anxiety-comprehensive-analysis|AI Anxiety comprehensive analysis]] identifies the **fear of replacement by AI** as a primary driver of AI anxiety — the career dimension this concept addresses head-on.
 
@@ -72,3 +73,4 @@ Career development and readiness connects to [[professional-training]] (the voca
 - [[dag-ai-perceptions-career-anxiety-health-2026]] — AI anxiety predicts job-search anxiety in health sciences (r=0.233, 821 students)
 
 - [[ai-attitude-latent-profiles-career-development-2026]] — Four AI-attitude profiles: career crafting and employability tracked engagement, not anxiety
+- [[sadik-ai-ready-engineering-talent-faculty-2026]] — Faculty forecasts are predictions, not evidence about employment

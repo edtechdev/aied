@@ -2,7 +2,7 @@
 connected_resources: [deeptutor, openmaic]
 title: Intelligent Tutoring
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-14T11:15:00-04:00"
+updated: "2026-10-16T08:47:09-04:00"
 connected_faqs: [ai-agents-support-students-instructors, developing-ai-tutor, training-ai-tutors-to-guide-rather-than-answer, checking-whether-educational-ai-works, making-simulated-students-behave-like-learners]
 type: concept
 pedagogy: [scaffolding]
@@ -125,6 +125,8 @@ This relational-intensity framing is the "not a monolith" counterpoint to the fi
 
 **Model the learner, not just the dialogue.** Attach structured [[student-modeling]] and [[knowledge-tracing]] components to LLM dialogue so the system can adapt difficulty and diagnose misconceptions from evidence rather than responding fluently but blindly — quality depends on both the base model and how it is adapted.([[educlaw-bench-pedagogical-llm-agents-2026]])
 
+Yet off-the-shelf models may not supply that evidence: [[worden-foundationalassist-knowledge-tracing-dataset-2026|Worden et al. (2026)]] tested four frontier systems zero-shot against IRT ground truth on 2,548 mathematics items and found knowledge tracing barely beat a 51.3 percent always-correct baseline, reaching only 56.2 percent at best.
+
 **Start from open tooling where possible.** Open-source agentic tutoring frameworks (e.g. [[deeptutor]]) lower the barrier to a citation-grounded, difficulty-calibrated tutor you can inspect and extend.([[deeptutor]])
 
 **Audit the knowledge-component model against learning curves, then redesign from what the data shows.** A classroom crossover study applied Huang et al.'s data-driven redesign process to four units of a middle-school mathematics ITS chosen by topic, not redesign suitability. Learning-curve analysis in DataShop revealed an unmodeled interpolation skill and conflated sign-handling cases; splitting these KCs and adding focused practice with mastered-step skipping produced more productive time-on-task (38.9 vs. 31.6 active minutes, p < .001) and five additional skills mastered in the same class time — but no learning-gain difference. The null is explained by thin practice dose (below 70% AFM mastery in both conditions) and a post-test that lacked items on the newly split skill. Two lessons for developers: post-tests must cover newly discovered skills, and adaptive benefits are bounded by the practice students actually receive. ([[lyu-data-driven-redesign-tutoring-2026]])
@@ -204,3 +206,4 @@ Effective tutoring requires continual adaptation: [[zhang-tutormoments-2026|Zhan
 - [[regulatutor-long-term-personalized-tutoring-2026]] — RegulaTutor: A Theory-Informed Framework for Long-Term Personalized Learning (Li et al. 2026)
 - [[alam-goblins-math-platform-2026]] — Full-district teacher-mediated AI math rollout: ~51% engagement fidelity and a dose gradient from 0.11 SD (2 problems/week) to 0.31 SD (20+/week); larger exploratory associations for IEP, EL, and Hispanic students
 - [[llm-tutors-process-synthesis-2026]] — Do LLM Tutors Actually Teach? A Process-Centered Synthesis of the Tutoring Loop
+- [[worden-foundationalassist-knowledge-tracing-dataset-2026]] — Yet off-the-shelf models may not supply that evidence: Worden et al

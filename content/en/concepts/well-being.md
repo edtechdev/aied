@@ -1,7 +1,7 @@
 ---
 title: Well-Being
 created: "2026-08-13T18:30:57-04:00"
-updated: "2026-10-01T20:35:10-04:00"
+updated: "2026-10-16T08:47:09-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [motivation, social-emotional-learning]
@@ -33,6 +33,7 @@ Well-being in education is multifaceted: it includes emotional well-being (posit
 - **[[ai-literacy|AI literacy]] and social-emotional learning:** [[sec-ai-literacy-narrative-review-2026|Research integrating SEC into AI literacy]] argues that fostering educators' and students' emotional intelligence and well-being is essential for navigating AI-[[sociocultural-learning|mediated learning]] environments, connecting to [[social-emotional-learning]] and affective dimensions of AI.
 
 - **AI anxiety and student experience:** Studies on students' engagement with AI (e.g., [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination|SDT-based research]]) find AI use is intertwined with anxiety, trust, and confidence, with students' well-being affected by concerns about academic integrity, [[creativity]], and [[cognitive-offloading|Over-Reliance]].
+- **Test anxiety is redistributed, not removed.** [[mulvenon-test-anxiety-ai-accountability-2026|Mulvenon (2026)]] argues that as [[assessment|assessment]] shifts from episodic high-stakes testing to continuous, data-driven evaluation, algorithmic accountability adds a new pressure system whose mechanisms — immediacy, visibility, and data permanence — turn acute test stress into diffuse, ongoing performance vigilance that is rarely reported.
 - **Anxiety reduction is not uniformly beneficial.** In a counterbalanced within-subjects study of 35 pre-university students, an LLM-augmented conversational agent lowered self-reported anxiety during oral assessments (calmness 6.50 vs. 5.86, p = .028), but the authors caution that moderate anxiety can be facilitative and recorded no attainment scores ([[aivaluate-anxiety-assessment-2026|Yusuf, Money and Daylamani-Zad (2026)]]).
 
 
@@ -108,3 +109,4 @@ Well-being connects to [[student-experience]] (as a dimension of learners' overa
 - [[perceived-ai-intelligence-medical-students-mental-health-2026]] — Perceived AI assistant intelligence, goal progress and mental health, with AI literacy as moderator
 - [[ai-emotion-regulation-sport-exercise-2026]] — Conceptual reframing of AI-supported emotion regulation through sport, exercise and campus ecology
 - [[faculty-ai-well-being-social-supports-2026]] — Structural equation model of faculty AI well-being: AI literacy dominates over self-efficacy
+- [[mulvenon-test-anxiety-ai-accountability-2026]] — Test anxiety is redistributed, not removed

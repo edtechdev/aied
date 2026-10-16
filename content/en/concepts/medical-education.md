@@ -1,7 +1,7 @@
 ---
 title: Medical and Health Professions Education
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-09-30T11:35:26-04:00"
+updated: "2026-10-16T08:47:09-04:00"
 type: concept
 foundations: [teacher-role]
 technology: [adaptive-learning, simulation]
@@ -46,6 +46,7 @@ AI in medical and health-professions education is a growing strand of the knowle
 - **GenAI in scenario-based healthcare education.** [[genai-scenario-based-healthcare-education-2026|Neto and colleagues (2026)]] systematically reviewed 23 studies of GenAI across scenario-, case-, problem-, and simulation-based learning in healthcare education (PRISMA 2020). Their central finding is that **[[prompt-engineering|prompt design]] functions as instructional specification** — encoding the cognitive targets and quality criteria implicit in expert authoring — yet only 34.8% of studies aligned generated content with instructional frameworks and only 34.8% reported prompting in enough detail to reproduce. GPT-4 dominated implementations (44.4%), hybrid [[human-ai-collaboration|human-AI collaboration]] outperformed fully automated approaches, and evidence was strongest for higher-order cognitive skills but inconsistent elsewhere. This grounds [[simulation|scenario/simulation-based]] and [[problem-based-learning|problem-based]] [[pedagogy]] in medical education with validation- and integration-quality [[benchmark|benchmarks]].
 
 - **AI scoring of open-ended exam questions.** [[olvet-genai-scoring-open-ended-medical-2026|Olvet et al. (2026)]] tested whether [[generative-ai|GPT-4]] could reliably score open-ended questions on pre-clerkship [[assessment|assessments]] at two US medical schools. With faculty iteratively refining scoring rubrics across three rounds of error-pattern analysis, AI–faculty inter-rater reliability reached substantial-to-almost-perfect agreement on three of four questions (weighted kappa up to 0.94) but only moderate on the holistic-rubric item (κw = 0.54); discrepancies traced to both raters (GPT-4 over-scoring multiple-answer or rubric-absent-vocabulary responses; faculty being overly generous) and occasional feedback inaccuracies keep [[human-in-the-loop-ai|humans in the loop]]. The authors argue the case for automated OEQ scoring is strengthened because ~82% of US medical schools grade pre-clerkship work pass/fail, where exact AI score agreement is not always required.
+- **Repeated runs do not reproduce the same grade.** In a master's-level public health course, four general-purpose [[llm|LLMs]] graded the same 32 anonymized essay submissions as two human examiners; ChatGPT in thinking mode reached weighted kappa 0.718, but regrading identical submissions on five different days reached only Krippendorff's alpha 0.625 ([[llm-grading-assistants-public-health-2026|Brevik et al. (2026)]]). The authors advise averaging multiple assessments for high-stakes use.
 
 - **[[ai-ed-evaluation|Evaluating AI]] teaching agents, not just deploying them.** [[zhang-platform-scores-miss-ai-teaching-agents-2026|Zhang et al. (2026)]] deployed eight LLM teaching agents across four role-play paradigms (patient, student, expert, family member) in an endocrinology [[curriculum-design|curriculum]] and scored 167 student dialogues with an 8-dimension teaching-quality rubric. Platform scores diverged sharply from rubric quality; agents differed most on knowledge dimensions and least on role enactment; adaptive difficulty calibration was a shared weakness; and strengthening an agent's empathy raised role-play quality without improving knowledge coverage. The finding that role-play paradigms can be separated (beyond the default patient-doctor script) points to designing and evaluating agents against explicit pedagogical dimensions.
 
@@ -107,3 +108,4 @@ HPE is a high-stakes, competency-based domain where AI's benefits (scalable prac
 - [[olvet-genai-scoring-open-ended-medical-2026]]
 - [[sophie-clinical-communication-ai-assessment-2026]] — Scalable AI-based clinical communication training and automated assessment
 - [[sriram-ethical-ai-medical-education-bibliometric-2026]] — Bibliometric map of AI ethics in medical education: output rose 113 (2023) to 500 (2025), 39 countries, and citations reward capability testing over governance (Sriram et al. 2026)
+- [[llm-grading-assistants-public-health-2026]] — Repeated runs do not reproduce the same grade
