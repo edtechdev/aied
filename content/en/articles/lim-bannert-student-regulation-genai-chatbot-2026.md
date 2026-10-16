@@ -1,7 +1,7 @@
 ---
 title: "How Do Students Regulate Their Learning With a GenAI Chatbot?"
 created: "2026-08-27T06:30:00-04:00"
-updated: "2026-09-19T08:33:23-04:00"
+updated: "2026-10-16T13:51:50-04:00"
 type: article
 foundations: [cognitive-offloading]
 pedagogy: [metacognition, self-regulated-learning]
@@ -39,4 +39,4 @@ audience: [instructional designers, instructors]
 
 ## Citation
 
-Lim, L., & Bannert, M. (2026). *How do students regulate their learning with a genAI chatbot?* Learning Letters, 8, Article 61. [https://doi.org/10.20851/ll.v8.61](https://doi.org/10.20851/ll.v8.61)
+Lim, L., & Bannert, M. (2026). [*How Do Students Regulate Their Learning With a GenAI Chatbot?*](https://doi.org/10.20851/ll.v8.61). Learning Letters, 8, Article 61.

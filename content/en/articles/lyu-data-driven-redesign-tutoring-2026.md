@@ -1,7 +1,7 @@
 ---
 title: Evaluating a data-driven redesign process for intelligent tutoring systems
 created: "2026-10-10T18:30:00-04:00"
-updated: "2026-10-10T18:30:00-04:00"
+updated: "2026-10-16T13:51:50-04:00"
 type: article
 technology: [intelligent-tutoring, adaptive-learning, llm]
 pedagogy: [mastery-learning]
@@ -49,4 +49,4 @@ The core mechanism is making implicit or missing [[knowledge-tracing|knowledge c
 
 ## Citation
 
-Lyu, Q., Borchers, C., Xia, M., Xiao, K., Carvalho, P. F., Koedinger, K. R., & Aleven, V. (2026). Evaluating a data-driven redesign process for intelligent tutoring systems. In *Proceedings of the 27th International Conference on Artificial Intelligence in Education (AIED 2026)*. arXiv:2603.29094. https://doi.org/10.48550/arXiv.2603.29094
+Lyu, Q., Borchers, C., Xia, M., Xiao, K., Carvalho, P. F., Koedinger, K. R., & Aleven, V. (2026). [*Evaluating a data-driven redesign process for intelligent tutoring systems*](https://doi.org/10.48550/arXiv.2603.29094). In *Proceedings of the 27th International Conference on Artificial Intelligence in Education (AIED 2026)*. arXiv:2603.29094.

@@ -1,7 +1,7 @@
 ---
 title: How expertise levels shape preferences and reflection needs — towards AI reflection systems for teacher empowerment
 created: "2026-10-10T19:42:00-04:00"
-updated: "2026-10-10T19:42:00-04:00"
+updated: "2026-10-16T13:51:50-04:00"
 type: article
 foundations: [teacher-role]
 technology: [learning-analytics]
@@ -48,4 +48,4 @@ The mechanism the authors propose for the time obstacle: novice teachers may lac
 
 ## Citation
 
-Falhs, A.-C., Borchers, C., Echeverria, V., Yang, K., Rummel, N., & Aleven, V. (2025). How Expertise Levels Shape Preferences and Reflection Needs: Towards AI Reflection Systems for Teacher Empowerment. In *Two Decades of TEL: EC-TEL 2025*, LNCS, pp. 120–125. Springer. https://doi.org/10.1007/978-3-032-03873-9_11
+Falhs, A.-C., Borchers, C., Echeverria, V., Yang, K., Rummel, N., & Aleven, V. (2025). [*How expertise levels shape preferences and reflection needs — towards AI reflection systems for teacher empowerment*](https://doi.org/10.1007/978-3-032-03873-9_11). In *Two Decades of TEL: EC-TEL 2025*, LNCS, pp. 120–125. Springer.

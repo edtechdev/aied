@@ -1,7 +1,7 @@
 ---
 title: "The Hidden Cost of Disclosure: A Multi-institutional Study on Undergraduate Students' Generative AI Usage and Faculty Accusations"
 created: "2026-08-27T11:15:00-04:00"
-updated: "2026-09-19T08:33:23-04:00"
+updated: "2026-10-16T13:51:50-04:00"
 type: article
 foundations: [academic-integrity]
 technology: [generative-ai]
@@ -42,4 +42,4 @@ institutions: [educational-policy-ai]
 
 ## Citation
 
-Vetter, M. A., Farag, I., Jiang, J., Lucia, B., & Silvestro, J. J. (2026). The hidden cost of disclosure: A multi-institutional study on undergraduate students' generative AI usage and faculty accusations. *SSRN*. [https://doi.org/10.2139/ssrn.5755762](https://doi.org/10.2139/ssrn.5755762)
+Vetter, M. A., Farag, I., Jiang, J., Lucia, B., & Silvestro, J. J. (2026). [*The Hidden Cost of Disclosure: A Multi-institutional Study on Undergraduate Students' Generative AI Usage and Faculty Accusations*](https://doi.org/10.2139/ssrn.5755762). *SSRN*.

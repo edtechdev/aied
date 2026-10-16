@@ -1,7 +1,7 @@
 ---
 title: "Understanding the Role of Learning Analytics and Generative Artificial Intelligence on Decision-Making and Learning Design Practice in Higher Education"
 created: "2026-08-27T12:05:00-04:00"
-updated: "2026-09-19T08:33:23-04:00"
+updated: "2026-10-16T13:51:50-04:00"
 type: article
 foundations: [learning-design]
 pedagogy: [self-determination-theory]
@@ -42,4 +42,4 @@ audience: [instructional designers, instructors, institutions]
 
 ## Citation
 
-Claassen, A., Ebbert, D., Kovanović, V., Mirriahi, N., & Dawson, S. (2026). Understanding the role of learning analytics and generative artificial intelligence on decision-making and learning design practice in higher education. *International Journal of Educational Technology in Higher Education, 23*, 43. [https://doi.org/10.1186/s41239-026-00619-4](https://doi.org/10.1186/s41239-026-00619-4)
+Claassen, A., Ebbert, D., Kovanović, V., Mirriahi, N., & Dawson, S. (2026). [*Understanding the Role of Learning Analytics and Generative Artificial Intelligence on Decision-Making and Learning Design Practice in Higher Education*](https://doi.org/10.1186/s41239-026-00619-4). *International Journal of Educational Technology in Higher Education, 23*, 43.

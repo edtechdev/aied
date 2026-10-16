@@ -1,7 +1,7 @@
 ---
 title: Simulating learners' task-selection strategies and system constraints in mastery learning
 created: "2026-10-10T19:00:00-04:00"
-updated: "2026-10-10T19:00:00-04:00"
+updated: "2026-10-16T13:51:50-04:00"
 type: article
 foundations: [learning-design]
 technology: [intelligent-tutoring, knowledge-tracing, adaptive-learning]
@@ -48,4 +48,4 @@ The framework's novelty is bringing outcome-informed strategies (Maximize Usual 
 
 ## Citation
 
-Noh, H., Chowdhary, A., Ooge, J., Aleven, V., & Borchers, C. (2026). Simulating learners' task-selection strategies and system constraints in mastery learning. *arXiv:2605.21613* [cs.HC]. https://arxiv.org/abs/2605.21613
+Noh, H., Chowdhary, A., Ooge, J., Aleven, V., & Borchers, C. (2026). [*Simulating learners' task-selection strategies and system constraints in mastery learning*](https://arxiv.org/abs/2605.21613). *arXiv:2605.21613* [cs.HC].

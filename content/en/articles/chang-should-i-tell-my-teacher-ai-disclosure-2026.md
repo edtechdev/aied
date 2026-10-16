@@ -1,7 +1,7 @@
 ---
 title: "\"Should I Tell My Teacher?\" Student AI Disclosure Practices, Stigma, and Self-Regulated Learning in Higher Education"
 created: "2026-08-27T11:15:00-04:00"
-updated: "2026-09-19T08:33:23-04:00"
+updated: "2026-10-16T13:51:50-04:00"
 type: article
 foundations: [academic-integrity]
 pedagogy: [help-seeking, self-regulated-learning, social-emotional-learning]
@@ -42,4 +42,4 @@ audience: [instructors, administrators]
 
 ## Citation
 
-Chang, D. H., Lin, M. P. C., Huang, J.-Y., & Ryoo, J. (2026). "Should I tell my teacher?" Student AI disclosure practices, stigma, and self-regulated learning in higher education. *Frontiers in Education, 11*, 1826174. [https://doi.org/10.3389/feduc.2026.1826174](https://doi.org/10.3389/feduc.2026.1826174)
+Chang, D. H., Lin, M. P. C., Huang, J.-Y., & Ryoo, J. (2026). [*"Should I Tell My Teacher?" Student AI Disclosure Practices, Stigma, and Self-Regulated Learning in Higher Education*](https://doi.org/10.3389/feduc.2026.1826174). *Frontiers in Education, 11*, 1826174.

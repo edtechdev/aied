@@ -1,7 +1,7 @@
 ---
 title: Improving automated feedback systems for tutor training in low-resource scenarios through data augmentation
 created: "2026-10-10T18:52:00-04:00"
-updated: "2026-10-10T18:52:00-04:00"
+updated: "2026-10-16T13:51:50-04:00"
 type: article
 foundations: [teacher-role]
 technology: [llm]
@@ -48,4 +48,4 @@ The pedagogical target is well-motivated: effort-based praise ("I love the effor
 
 ## Citation
 
-Xu, C., Lin, J., Wu, T., Aleven, V., & Koedinger, K. R. (2025). Improving automated feedback systems for tutor training in low-resource scenarios through data augmentation. *arXiv:2501.09824v2* [cs.HC]. https://arxiv.org/abs/2501.09824
+Xu, C., Lin, J., Wu, T., Aleven, V., & Koedinger, K. R. (2025). [*Improving automated feedback systems for tutor training in low-resource scenarios through data augmentation*](https://arxiv.org/abs/2501.09824). *arXiv:2501.09824v2* [cs.HC].

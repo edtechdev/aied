@@ -1,7 +1,7 @@
 ---
 title: "Emergent Learner Agency in Implicit Human-AI Collaboration: How Supportive and Contrarian AI Personas Reshape Interaction"
 created: "2026-08-27T06:40:00-04:00"
-updated: "2026-09-19T08:33:23-04:00"
+updated: "2026-10-16T13:51:50-04:00"
 type: article
 foundations: [agency, agentic-ai, human-ai-collaboration]
 pedagogy: [collaborative-learning, creativity]
@@ -41,4 +41,4 @@ level: [higher ed]
 
 ## Citation
 
-Jin, Y., Martinez-Maldonado, R., Gašević, D., Han, X., & Yan, L. (2026). *Emergent learner agency in implicit human-AI collaboration: How supportive and contrarian AI personas reshape interaction.* Journal of Computer Assisted Learning, 42, e70310. [https://doi.org/10.1002/jcal.70310](https://doi.org/10.1002/jcal.70310)
+Jin, Y., Martinez-Maldonado, R., Gašević, D., Han, X., & Yan, L. (2026). [*Emergent Learner Agency in Implicit Human-AI Collaboration: How Supportive and Contrarian AI Personas Reshape Interaction*](https://doi.org/10.1002/jcal.70310). Journal of Computer Assisted Learning, 42, e70310.

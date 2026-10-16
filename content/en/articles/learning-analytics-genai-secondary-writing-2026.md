@@ -1,7 +1,7 @@
 ---
 title: "Using Learning Analytics to Support Secondary School Students' Writing with Generative AI"
 created: "2026-09-22T07:34:00-04:00"
-updated: "2026-09-22T07:34:00-04:00"
+updated: "2026-10-16T13:51:50-04:00"
 type: article
 published: "2026-09-18"
 foundations: [ai-literacy, academic-integrity, agency, critical-thinking]
@@ -73,4 +73,4 @@ The behavioral result is the fragile part. With 46 students split unevenly betwe
 
 ## Citation
 
-Fong, H. Y., Lai, C., Li, X., Chan, C. K. K., Gašević, D., & Hu, X. (2026). Using Learning Analytics to Support Secondary School Students' Writing with Generative AI. In *Joint Proceedings of LAK 2026 Workshops, co-located with the 16th International Conference on Learning Analytics and Knowledge (LAK 2026)*. CEUR Workshop Proceedings.
+Fong, H. Y., Lai, C., Li, X., Chan, C. K. K., Gašević, D., & Hu, X. (2026). [*Using Learning Analytics to Support Secondary School Students' Writing with Generative AI*](https://genai-la.genai-learning.online/). In *Joint Proceedings of LAK 2026 Workshops, co-located with the 16th International Conference on Learning Analytics and Knowledge (LAK 2026)*. CEUR Workshop Proceedings.

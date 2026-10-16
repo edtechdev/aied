@@ -1,7 +1,7 @@
 ---
 title: "Explaining ChatGPT Adoption in Higher Education: Insights for AI Literacy, Educational Practice, and Responsible AI"
 created: "2026-09-03T14:20:00-04:00"
-updated: "2026-09-19T10:56:42-04:00"
+updated: "2026-10-16T13:52:21-04:00"
 type: article
 foundations: [academic-integrity, ai-literacy, critical-thinking, teacher-role]
 pedagogy: [self-regulated-learning]
@@ -50,4 +50,4 @@ institutions: [educational-policy-ai, governance]
 
 ## Citation
 
-Jácome-Vásconez, S., Diaz-Bedoya, D., Roig-Vila, R., González-Rodríguez, M., & Acosta-Vargas, P. (2026). Explaining ChatGPT adoption in higher education: Insights for AI literacy, educational practice, and responsible AI. *Education Sciences, 16*(9), 1432. https://doi.org/10.3390/educsci16091432
+Jácome-Vásconez, S., Diaz-Bedoya, D., Roig-Vila, R., González-Rodríguez, M., & Acosta-Vargas, P. (2026). [*Explaining ChatGPT Adoption in Higher Education: Insights for AI Literacy, Educational Practice, and Responsible AI*](https://doi.org/10.3390/educsci16091432). *Education Sciences, 16*(9), 1432.
