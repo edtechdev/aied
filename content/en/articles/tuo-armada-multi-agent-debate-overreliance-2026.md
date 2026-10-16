@@ -1,7 +1,7 @@
 ---
-title: "Countering AI overreliance with multi-agent debate: complementary human-AI decision-making in legal contexts"
+title: "Countering the Risks of AI Overreliance: Leveraging Multi-Agent Debate for Complementary Human–AI Decision-Making in Legal Contexts"
 created: "2026-10-16T04:08:00-04:00"
-updated: "2026-10-16T04:08:00-04:00"
+updated: "2026-10-16T13:16:04-04:00"
 type: article
 foundations: [human-ai-collaboration, critical-thinking, agency, reducing-ai-misuse]
 pedagogy: [metacognition, problem-solving, desirable-difficulties]

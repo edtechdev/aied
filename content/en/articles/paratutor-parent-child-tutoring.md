@@ -1,7 +1,7 @@
 ---
-title: "ParaTutor: LLM Mediated Parent Child Tutoring through Role Separated Scaffolding Interface in Real Time"
+title: "ParaTutor: Coordinating Parent-Child Math Tutoring through Role-Separated LLM Scaffolding"
 created: "2026-06-17T04:33:04-04:00"
-updated: "2026-09-16T15:52:49-04:00"
+updated: "2026-10-16T13:16:04-04:00"
 type: article
 pedagogy: [scaffolding]
 technology: [intelligent-tutoring, llm, personalized-learning]
@@ -41,4 +41,4 @@ The work began with a [[formative-assessment|formative]] study in the Chinese ho
 
 ## Citation
 
-Lan Luo, Anqi Wang, Muzhi Zhou, Junhua Zhu, Jie Cai, Ao Yu, Hui Pan (2026). [ParaTutor: LLM Mediated Parent Child Tutoring through Role Separated Scaffolding Interface in Real Time](https://arxiv.org/abs/2606.18030). arXiv cs.HC.
+Lan Luo, Anqi Wang, Muzhi Zhou, Junhua Zhu, Jie Cai, Ao Yu, Hui Pan (2026). [ParaTutor: Coordinating Parent-Child Math Tutoring through Role-Separated LLM Scaffolding](https://arxiv.org/abs/2606.18030). arXiv cs.HC.

@@ -1,7 +1,7 @@
 ---
-title: "Is using artificial intelligence tools for academic work cheating? Student perceptions, ethics, and the impact"
+title: "Is using artificial intelligence tools for academic work cheating? Student perceptions, ethics, and the impact on academic performance and critical thinking"
 created: "2026-08-20T04:40:00-04:00"
-updated: "2026-09-26T07:13:32-04:00"
+updated: "2026-10-16T13:17:33-04:00"
 type: article
 foundations: [academic-integrity, ai-literacy, critical-thinking]
 ethics: [ai-misuse-learning-harm, ethics]
@@ -43,4 +43,4 @@ A systematic literature review following the PRISMA 2020 framework. Four databas
 
 ## Citation
 
-Padhy, A. (2026). [*Is using artificial intelligence tools for academic work cheating?*](https://doi.org/10.70593/deepsci.0202038). *International Journal of Applied Resilience and Sustainability*.
+Padhy, A. (2026). [*Is using artificial intelligence tools for academic work cheating? Student perceptions, ethics, and the impact on academic performance and critical thinking*](https://doi.org/10.70593/deepsci.0202038). *International Journal of Applied Resilience and Sustainability*.

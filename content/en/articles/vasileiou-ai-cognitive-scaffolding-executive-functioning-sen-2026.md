@@ -1,7 +1,7 @@
 ---
-title: "AI as cognitive scaffolding for executive functioning in students with special educational needs"
+title: "Artificial Intelligence as Cognitive Scaffolding for Executive Functioning in Students with Special Educational Needs"
 created: "2026-10-13T10:55:00-04:00"
-updated: "2026-10-13T10:55:00-04:00"
+updated: "2026-10-16T13:16:04-04:00"
 type: article
 foundations: [ai-literacy]
 pedagogy: [scaffolding, self-regulated-learning, metacognition]

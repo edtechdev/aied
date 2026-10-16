@@ -1,7 +1,7 @@
 ---
-title: "Why pay for an AI tutor when you can design it? Student-created AI agents as co-designed instructional tools"
+title: "Why Pay for an AI Tutor When You Can Design It? Student-Created AI Agents as Co-Designed Instructional Tools for a Large Software Design and Engineering Course"
 created: "2026-10-13T11:01:00-04:00"
-updated: "2026-10-13T11:01:00-04:00"
+updated: "2026-10-16T13:16:04-04:00"
 type: article
 foundations: [ai-literacy]
 discipline: [cs education]

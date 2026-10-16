@@ -1,7 +1,7 @@
 ---
-title: "Zero-Shot Governance: General-Purpose AI in Policy"
+title: "Zero-shot governance"
 created: "2026-09-09T19:18:07-04:00"
-updated: "2026-09-19T07:12:05-04:00"
+updated: "2026-10-16T13:17:33-04:00"
 type: article
 foundations: [agency]
 technology: [generative-ai, llm]
