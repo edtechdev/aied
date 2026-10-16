@@ -7,7 +7,7 @@ confidence: medium
 technology: [educational-nlp, intelligent-tutoring, student-modeling, knowledge-tracing, adaptive-learning]
 pedagogy: [scaffolding, socratic-method]
 translation_of: concepts/educational-nlp
-source_updated: "2026-10-15T10:00:00-04:00"
+source_updated: 2026-10-15T10:00:00-04:00
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -96,3 +96,8 @@ A compressão de modelos pertence ao mesmo conjunto de ferramentas: um pipeline 
 - [[nlp-student-evaluation-teaching-scoping-review-2026]] — Da Classificação de Sentimento ao Feedback Acionável e Responsável: Uma Revisão de Escopo e Mapa de Evidências do PLN na Avaliação do Ensino pelos Estudantes, 2015–2026
 - [[bloom-classifier-ai-assisted-questions-2026]] — Avaliação de modelos pré-treinados para a avaliação pedagógica de novas questões educacionais assistidas por IA
 - [[srjudge-knowledge-concept-tagging-2026]] — SRJudge: pipeline de raciocínio seletivo para marcação refinada de conceitos de conhecimento
+
+- **Semantic similarity is a weak signal for curriculum alignment.** Screening 3,837 dental objective–abstract pairs, embedding retrieval plus a natural language inference check judged 22.9% of high-similarity matches (cosine 0.90–1.00) neutral or contradictory and lifted expert-labeled accuracy from 0.69 to 0.73 ([[nlp-reading-lists-dental-education-2026|Yasmin et al. (2026)]]).
+- **Handwritten answer sheets resist existing parsers.** Multi-line derivations, interleaved prose and formulas, hand-drawn tables, and noise from strikethroughs and erasures escape printed-document and isolated-expression benchmarks, so the HANS dataset of real eighth-grade mathematics sheets — 5,213 answer images from 745 students across 18 problem types — annotates that noise and backs a noise-suppression model that improves recognition ([[hans-handwritten-answer-sheet-parsing-2026|Wu et al. (2026)]]).
+- [[nlp-reading-lists-dental-education-2026]] — Natural Language Processing for Aligning Readings with Learning Objectives and Assessing Topic Balance in Dental Education
+- [[hans-handwritten-answer-sheet-parsing-2026]] — HANS: A Handwritten Answer Sheet Dataset for Noisy Hybrid Document Parsing

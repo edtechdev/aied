@@ -10,7 +10,7 @@ discipline: [cs education, math education, physics education]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/stem-education
-source_updated: "2026-10-15T08:25:00-04:00"
+source_updated: 2026-10-15T08:25:00-04:00
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -41,7 +41,7 @@ ai_assist:
 - **Ciência da computação:** a [[cs-education|educação em ciência da computação]] é o subcampo de STEM mais pesquisado — [[code-review-genai-cs1|revisão de código]], [[debugtracker-classroom-debugging|ferramentas de depuração]] e [[prompt-problems-nl-programming-mistakes|estudos de prompting]].
 - **Engenharia:** [[concept-catalyst-engineering-scaffolds|scaffolds de engenharia]], [[structured-ai-demonstrations-engineering-mechanics|demonstrações de mecânica]] e [[ai-engineering-education-balancing-act|equilíbrio curricular]] levam a IA à [[engineering-education|educação em engenharia]].
 - **Fazendo scaffolding da pesquisa de graduação:** [[ai-information-extraction-undergraduate-thesis-2026|An e colegas (2026)]] pilotam um sistema de IA que converte publicações de pesquisa em conjuntos de dados estruturados e comparáveis para a conclusão de teses de graduação em quatro escolas de STEM. Os resultados (20 estudantes, 80 documentos) mostraram >90% de extração de parâmetros experimentais, ~65% de redução no tempo de revisão de literatura e um aumento de 50% na capacidade dos estudantes de identificar variáveis experimentais influentes — evidência de como a [[generative-ai|pesquisa de graduação]] do [[higher-ed|ensino superior]] com scaffolding de IA pode fortalecer o letramento de pesquisa e a cognição epistêmica na educação em STEM.
-- **Instrução apoiada por simulação:** na educação em STEM baseada em drones, [[simulation|scaffolds]] de [[simulation|simulação]] codesenhados por [[teacher-role|professor]] e IA foram avaliados contra um [[curriculum-design|currículo]] prático idêntico com 30 estudantes do ensino médio, testando se a instrução apoiada por simulação produz [[learning-gains|resultados de aprendizagem]] superiores. O papel da GenAI foi acelerar a criação de conteúdo, enquanto o envolvimento do professor preservou a validade pedagógica e a relevância contextual.
+- **Instrução apoiada por simulação:** na educação em STEM baseada em drones,  de [[simulation|simulação]] codesenhados por [[teacher-role|professor]] e IA foram avaliados contra um [[curriculum-design|currículo]] prático idêntico com 30 estudantes do ensino médio, testando se a instrução apoiada por simulação produz [[learning-gains|resultados de aprendizagem]] superiores. O papel da GenAI foi acelerar a criação de conteúdo, enquanto o envolvimento do professor preservou a validade pedagógica e a relevância contextual.
 - **Planejamento assistido por IA na educação artística em STEAM:** um estudo experimental com professores de artes em STEAM para crianças ([[luo-tahir-chatgpt-steam-lesson-planning-2026|Luo e Tahir 2025]]) descobriu que os planos de aula assistidos por ChatGPT superaram os gerados por professores em qualidade avaliada por especialistas (mediana 20,5 vs. 17,6, p = ,002, efeito grande, seis professores avaliadores), com os professores reportando ganhos em eficiência e integração interdisciplinar (61% avaliaram 4+). O resultado veio pelo método de delegação do professor — mais utilmente fazendo o ChatGPT preencher lacunas de conteúdo num plano auto-esboçado — reforçando o ponto recorrente de que a IA eleva o trabalho em STEM/STEAM quando o professor estrutura a tarefa e avalia criticamente a saída, em vez de entregar o plano inteiro ao modelo.
 
 ### Quão eficaz é a instrução apoiada por IA em STEM, em conjunto
@@ -78,7 +78,7 @@ Um lote concentrado de estudos de 2026 da *International Journal of STEM Educati
 - [[cs-education]]
 - [[math-education]]
 - [[physics-education]]
-- [[computational-thinking]]
+- 
 - [[k-12]]
 - [[higher-ed]]
 - [[intelligent-tutoring]]
@@ -113,3 +113,5 @@ Um lote concentrado de estudos de 2026 da *International Journal of STEM Educati
 - [[simulation-assisted-drone-learning-stem-2026]] — Aprendizagem com drones assistida por simulação com scaffolds codesenhados por professor e IA
 - [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
 - [[ai-supported-instruction-stem-meta-analysis-2026]] — Efeito reunido da instrução em STEM apoiada por IA ao longo de 35 estudos, com os maiores ganhos no ensino médio (Doğan et al. 2026)
+
+- [[hallstrom-ai-literacy-stem-education-frontiers-2026]] — Synthesis of the ten most-cited studies of AI literacy in STEM education (Hallström et al. 2026)

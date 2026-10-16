@@ -11,7 +11,7 @@ level: [higher ed]
 confidence: high
 connected_faqs: [asynchronous-online-courses-ai]
 translation_of: concepts/student-engagement
-source_updated: "2026-10-08T09:45:00-04:00"
+source_updated: 2026-10-08T09:45:00-04:00
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -144,3 +144,6 @@ O engajamento do estudante se conecta à [[motivation|motivação]] e à [[self-
 - [[ai-literacy-learning-engagement-psych-capital-2026]] — O letramento em IA impulsiona o engajamento diretamente e por meio do capital psicológico, amplificado pelo compromisso profissional (Wang 2026)
 - [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: tutoria com IA e humana produzem ganhos de aprendizagem equivalentes no GRE
 - [[liu-course-integrated-ai-tutoring-rct-2026]] — O acesso a um tutor de IA reduziu a participação registrada na plataforma em 0,90 DP, enquanto o envio de lição de casa se manteve estável (Liu et al. 2026)
+
+- **Disengagement as a turn-level move, not a stable state:** [[rho-disengaged-conversational-behaviors-2026|Rho et al. (2026)]] coded 5,522 student utterances to an AI teachable agent in Math Nation into six conversational-disengagement categories (False Answering, Mocking, Ghosting, Mirroring, Withholding, Random/Noisy) and found the engagement rate dominated at 75.7% of utterances. The prevalence-based associations of False Answering and Mocking with post-test scores did not survive a human-annotated sensitivity check. The sequential analysis is the engagement-relevant result: the highest-performing cluster combined moderate disengagement with strong recovery-to-engagement transitions (Withholding → Engagement p = 0.83), while the lowest showed persistent self-loops without recovery (Engagement self-loop p = 0.96). Withholding was the one disengagement type that tended to persist rather than resolve — persistence versus repair, not presence versus absence, is the distinction that separates engagement trajectories.
+- [[rho-disengaged-conversational-behaviors-2026]] — Disengaged conversational behaviors and learning in student-AI dialogues (Rho et al. 2026)

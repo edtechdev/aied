@@ -13,7 +13,7 @@ audience: [learners]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/metacognition
-source_updated: "2026-10-15T10:00:00-04:00"
+source_updated: 2026-10-15T10:00:00-04:00
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -188,3 +188,8 @@ A [[agentic-ai|IA agêntica]] proativa pode deslocar o próprio laço metacognit
 
 - [[metacognitive-processes-genai-interaction-logs-2026]] — Registros e pensar em voz alta capturam diferentes processos metacognitivos na aprendizagem assistida por IA generativa
 - [[ai-cognitive-partner-reflective-thought-2026]] — quatro práticas e onze processos de pensamento reflexivo quando os estudantes tratam a IA como parceira cognitiva
+
+- **Think Aloud supports early awareness but not deep evaluation.** [[karaki-think-aloud-ethical-genai-2026|Karaki and Baroudi (2026)]] ran a mixed-methods action-research study with 44 first-year entrepreneurship students using the Think Aloud method during AI-supported coursework. Think Aloud made students' prompt construction, verification practices, and ethical decision-making more visible, but critical evaluation of AI outputs "often remained at a surface level, particularly among students requiring additional support" — students spotted generic or misaligned responses yet kept relying on them heavily. Self-reported metacognitive awareness was the highest of three surveyed constructs (M = 3.79), but the single post-intervention survey cannot separate perception from change. The authors' conclusion — Think Aloud is not a stand-alone solution and must be combined with explicit instruction in AI literacy, prompt construction, and verification strategies — extends the process-evidence line above from *what records capture* to *what vocalization alone changes*.
+- **Prior metacognitive training gates the benefit of an AI reflection partner.** In a 2 × 2 experiment with 60 pre-service teachers, [[metacognitive-training-ai-socratic-scaffolding-preservice-2026|Zhang et al. (2026)]] found a significant metacognition × tool interaction: an AI Socratic partner beat traditional digital tools by 0.56 points only after training, with no advantage without it (ΔM = −0.03).
+- [[karaki-think-aloud-ethical-genai-2026]] — Think Aloud made prompt construction, verification and ethical reasoning visible, but critical evaluation stayed surface-level; not a stand-alone solution
+- [[metacognitive-training-ai-socratic-scaffolding-preservice-2026]] — Metacognitive training and AI-based Socratic scaffolding in pre-service teachers' reflective practice: a dual-study experimental design

@@ -8,7 +8,7 @@ technology: [adaptive-learning, intelligent-tutoring, knowledge-tracing, learnin
 audience: [learners]
 confidence: medium
 translation_of: concepts/knowledge-tracing
-source_updated: "2026-10-14T11:15:00-04:00"
+source_updated: 2026-10-14T11:15:00-04:00
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -97,3 +97,6 @@ O rastreamento de conhecimento é estreitamente relacionado à [[student-modelin
 - [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn: um tutor agêntico que aprende seu estudante em um ciclo de coaprendizagem humano-IA
 - [[crediting-assisted-work-inflates-mastery-2026]] — Qual regra de evidência decide uma alegação de domínio (Srivastava 2026)
 - [[system-one-llm-knowledge-tracing-2026]] — Um LLM de passagem única rastreia conhecimento acima de modelos profundos treinados em 8 estudantes, a uma fração do custo (Lee & Park 2026)
+
+- **A single recency scalar captures most of what a sequence model buys.** On 1,927,265 mathematics responses from 8,996 Finnish students, item identity alone reached AUC .8362; adding one recency measure relative to item difficulty raised it to .8669, recovering 93.5% of a query-conditioned transformer's .8690 gain, while a 128-dimensional summary of history reached only .8687 ([[knowledge-tracing-compression-math-2026|Lahtinen & McMullen (2026)]]).
+- [[knowledge-tracing-compression-math-2026]] — Compressing student history in mathematics knowledge tracing

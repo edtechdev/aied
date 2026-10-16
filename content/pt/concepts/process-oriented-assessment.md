@@ -22,7 +22,7 @@ ai_assist:
     date: "2026-10-10"
     agent: hermes-agent
 translation_of: concepts/process-oriented-assessment
-source_updated: "2026-10-14T11:15:00-04:00"
+source_updated: 2026-10-14T11:15:00-04:00
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 ---
 
@@ -105,3 +105,6 @@ A exposição de Thapa e Lewis é conceitual: sem participantes, sem coleta de d
 - [[metacognitive-processes-genai-interaction-logs-2026]] — Evidência de processo condicional ao canal: registros e pensamento em voz alta revelam processos diferentes
 - [[drafttrace-ai-writing-analytics-2026]] — DraftTrace: Um Ambiente de Analytics de Múltiplas Visualizações para Escrita Integrada à IA
 - [[epistemic-ownership-ai-mediated-education-2026]] — Mesmo Desempenho, Processo Diferente: Propriedade Epistêmica na Educação Mediado por IA
+
+Concrete tooling is emerging: [[stepwise-teacher-diagnosis-math-2026|Kim et al. (2026)]] operationalize problem solving as four stages and eight diagnostic sub-skills so an LLM can generate stage-specific questions and rubrics; five teachers and 64 students used the system on 90 problems and 720 sub-questions, with a mean System Usability Scale score of 83.5.
+- [[stepwise-teacher-diagnosis-math-2026]] — STEPwise: Supporting Teachers in Diagnosing Students' Mathematical Problem-Solving Skills through LLM-Generated Questions

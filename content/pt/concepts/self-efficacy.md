@@ -10,7 +10,7 @@ connected_faqs: [ai-anxiety-wellbeing, study-with-ai]
 audience: [learners]
 confidence: high
 translation_of: concepts/self-efficacy
-source_updated: "2026-10-13T11:05:00-04:00"
+source_updated: 2026-10-13T11:05:00-04:00
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -102,3 +102,7 @@ A autoeficácia se conecta à [[motivation|motivação]], à [[self-regulated-le
 
 - [[ai-speaking-practice-communicative-readiness-2026]] — A autoeficácia em fala inverte a rota da ansiedade da prática assistida por IA para a disposição
 - [[faculty-ai-well-being-social-supports-2026]] — SEM com corpo docente: a autoeficácia tecnológica como preditor fraco do bem-estar com IA
+
+- **Open-ended AI design tasks sort students by pre-existing confidence.** [[zangari-student-created-ai-agents-codesigned-instruction-2026|Zangari et al. (2026)]] found that performance self-esteem correlated with extroversion (r = 0.262, p < 0.001) in a course where 345 students each built a conversational agent to teach a peer, and that female students reported significantly lower self-esteem than male peers (Kruskal-Wallis H(2) = 9.87, p < .005). The design inference the authors draw: open-ended, conversational creative tasks advantage the already-confident, so "open-ended design tasks [should] include sufficient scaffolding to equitably build performance self-esteem across all personality types" — a caution that student-created-artifact assignments can widen, not close, confidence gaps if scaffolding is not deliberate.
+- **Self-efficacy interacts with format preference, not just with outcomes.** A counterbalanced within-subject study (97 ninth-graders; content-matched tutor-based vs. paper-based practice of graph interpretation and construction) found tutor-based practice beat paper overall (t(62.30) = 2.38, p = .020), and — counterintuitively — lower baseline self-efficacy predicted *greater* gains in both formats (t(98.40) = −2.14, p = .035). The interesting structure is a significant three-way self-efficacy × favorability × format interaction (t(99.84) = −2.58, p = .011): among low-self-efficacy students, favorability toward the tutor predicts larger gains *specifically in tutor practice*. A sobering null for the assumption that tutor practice is motivationally self-reinforcing: ITS practice did not significantly improve post-training self-efficacy over paper — attributed to the short intervention (two ~40-minute sessions). The practical signal: baseline self-efficacy and technology favorability are cheap, actionable inputs for format assignment; tutor practice capitalizes on existing favorability rather than creating it. ([[cen-self-efficacy-favorability-2026]])
+- [[cen-self-efficacy-favorability-2026]] — Self-efficacy and favorability shape learning from tutoring systems and paper practice (Cen et al. 2026)

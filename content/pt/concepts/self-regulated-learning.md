@@ -12,7 +12,7 @@ audience: [learners]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/self-regulated-learning
-source_updated: "2026-10-15T10:00:00-04:00"
+source_updated: 2026-10-15T10:00:00-04:00
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -220,3 +220,8 @@ Qual apoio está em jogo decide qual mediador carrega a associação: entre 3.00
 - [[preservice-teachers-ai-support-innovative-competence-2026]] — O tipo de apoio inverte o mediador: autoeficácia em IA vs. aprendizagem autorregulada
 - [[genai-learning-procrastination-planned-behavior-2026]] — Procrastinação na aprendizagem assistida por GenAI: uma lacuna intenção–comportamento que a ansiedade fortalece
 - [[genai-srl-l2-writing-scale-2026]] — Uma escala GenAI-SRL validada de seis dimensões para a escrita em L2, com a regulação ambiental como dimensão própria e uma forma curta de 12 itens otimizada por colônia de formigas
+
+- **Three failure modes explain where transfer breaks.** (1) Concept resolution at everyday rather than domain meaning — "cancel" vs. chemistry "kürzen" — breaks enact classification. (2) Anthropomorphization — German students unfamiliar with a heavily scaffolded tutor addressed it as a person, producing out-of-distribution utterances; transfer was better on less-scaffolded platforms. (3) Hint-reading vs. plan-formulation ambiguity — models can't tell reading a metacognitive hint from planning without log data. Realizing errors is robust across every condition — noticing you're wrong is context-independent. Fixes: expert dictionaries or fine-tuning for domain terms; log data for hints. ([[borchers-srl-language-generalization-2025]])
+- [[borchers-srl-language-generalization-2025]] — Large Language Models Generalize SRL Prediction to New Languages Within But Not Between Domains (Borchers et al. 2025)
+- [[ai-project-hybrid-learning-self-regulated-2026]] — A Project-Based Hybrid Learning Model Using Artificial Intelligence to Enhance Students' Self-Regulated Learning
+- [[ai-project-hybrid-learning-self-regulated-2026]]

@@ -9,7 +9,7 @@ assessment: [assessment-validity, item-response-theory, psychometrically-aware-a
 connected_faqs: [ai-literacy-evidence, evaluating-ai-interventions-methods]
 confidence: medium
 translation_of: concepts/educational-measurement
-source_updated: "2026-10-14T11:15:00-04:00"
+source_updated: 2026-10-14T11:15:00-04:00
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -182,3 +182,6 @@ A medição educacional é a fundação da [[item-response-theory|teoria da resp
 
 - [[ai-empathy-scale-psychometric-evaluation-2026]] — Uma escala de empatia com IA de 42 itens cujos seis fatores não recuperaram os seis subfatores pretendidos
 - [[genai-srl-l2-writing-scale-2026]] — Uma escala GenAI-SRL de seis dimensões para escrita em L2; forma curta de 12 itens otimizada por colônia de formigas acompanha a escala completa (r = 0,910–0,944), mas estreita a cobertura de conteúdo
+
+- **A taxonomic label does not predict item behavior.** Across 265 mathematics items, intended Bloom level explained under 5% of the variance in difficulty (ε² = .043) and none of discrimination (Kruskal–Wallis H = 0.54, p = .77), while an [[llm|LLM]] classification agreed with expert coders only fairly (Cohen's κ = .22) and pulled items toward the apply/analyze band ([[bloom-taxonomy-llm-item-classification-2026|Altaweel & Moussa (2026)]]).
+- [[bloom-taxonomy-llm-item-classification-2026]] — Do Cognitive Classifications Predict Empirical Item Behaviour? Aligning Bloom's Taxonomy with the Psychometric Properties of National Centralized Mathematics Items across Grades 4–12

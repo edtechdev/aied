@@ -11,7 +11,7 @@ connected_faqs: [ai-feedback-at-scale]
 connected_resources: [snorkl, ai-infused-assignment-playbook]
 confidence: high
 translation_of: concepts/formative-assessment
-source_updated: "2026-10-15T08:25:00-04:00"
+source_updated: 2026-10-15T08:25:00-04:00
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -179,3 +179,7 @@ Os sistemas de avaliação formativa podem passar de ferramentas de apoio à apr
 - [[mendonca-llm-feedback-perceived-usefulness-programming-2026]] — Utilidade percebida e intenção de uso do feedback gerado por LLM em programação ao longo de três níveis educacionais
 - [[zhu-adaptive-teaching-assistance-genai-big-data-2026]] — Assistência de ensino adaptativa combinando IA generativa e analítica de big data na educação musical
 - [[student-llm-use-ai-question-difficulty-data-science-2026]] — Uso de LLMs por estudantes e os limites da dificuldade de questões geradas por IA em cursos de ciência de dados
+
+- **Continuous assessment reframes the formative record itself.** The AIM-CAI reference architecture (a position paper, not an implementation) proposes replacing episodic assessment as the primary evidence base with a six-layer infrastructure: evidence generation across platforms, serialization preserving source context, AI-mediated semantic translation, psychometric interpretation, longitudinal competency profiles, and federated governance. Its shift table spells out the change: per-assignment feedback becomes longitudinal feedback supporting advising and reflection; grades become evolving competency profiles; credentials become transparent development records. The governance layer is the paper's insistence — seven named tensions (interoperability vs. local autonomy, privacy vs. utility, learner agency vs. predictive automation, surveillance vs. support, etc.) each mapped to risks and responses, with the warning that ungoverned continuous inference privileges dominant cultural norms. The novelty claim is integrative: the components exist; the contribution is the architecture and the governance map. ([[mcnamara-aim-cai-continuous-assessment-2026]])
+- [[mcnamara-aim-cai-continuous-assessment-2026]] — AI-Mediated Continuous Assessment Infrastructure (AIM-CAI): Connecting Learning Evidence Across Contexts and Time (McNamara & Hasnine 2026)
+- [[etq-ai-conversational-teacher-training-2026]] — Conversational AI diagnostic for teaching misconceptions with evidence-grounded dialogue (Miranda & Calvani 2026)

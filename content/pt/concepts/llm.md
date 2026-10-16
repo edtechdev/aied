@@ -10,7 +10,7 @@ assessment: [automated-assessment]
 ethics: [hallucination-risk, pedagogical-safety]
 confidence: high
 translation_of: concepts/llm
-source_updated: "2026-10-14T14:35:00-04:00"
+source_updated: 2026-10-14T14:35:00-04:00
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -98,3 +98,5 @@ Os LLMs também afirmam preferencialmente: ao longo de 11 modelos, as respostas 
 - [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors: esquemas baseados em asserções para codificação auditável de diálogos educacionais
 
 - [[ai-personal-coach-review-benefits-risks-2026]] — Sycophancy em 11 LLMs: a IA afirmou os usuários 49% mais que os humanos, elevando a confiança e o uso continuado
+- [[browser-sized-agents-slm-webllm-tutor-2026]]
+- [[agentic-ai]]
