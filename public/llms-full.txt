@@ -49929,7 +49929,7 @@ This is a **conceptual/literature-analysis paper** (not an empirical study). It 
 
 ## Citation
 
-Valls i Pou, A. (2026). *Computational thinking to enhance educational robotics in secondary school's curriculum*. Proceedings of the 5th IEEE International Conference (GRETEL, La Salle Campus Barcelona, Ramon Llull University).
+Valls i Pou, A. (2026). [*Computational thinking to enhance educational robotics in secondary school's curriculum*](https://doi.org/10.35542/osf.io/puakj_v1). Proceedings of the 5th IEEE International Conference (GRETEL, La Salle Campus Barcelona, Ramon Llull University); the linked copy is the OSF preprint of the same paper.
 
 ---
 
@@ -75269,7 +75269,7 @@ Two failures are reported plainly. In one exchange the agent repeated a question
 
 ## Citation
 
-Hou, X., Forsyth, C., Andrews-Todd, J., Rice, J., Cai, Z., Jiang, Y., Zapata-Rivera, D., & Graesser, A. (2025). An LLM-Enhanced Multi-Agent Architecture for Conversation-Based Assessment. *AIED 2025: 26th International Conference on Artificial Intelligence in Education*.
+Hou, X., Forsyth, C., Andrews-Todd, J., Rice, J., Cai, Z., Jiang, Y., Zapata-Rivera, D., & Graesser, A. (2025). [*An LLM-Enhanced Multi-Agent Architecture for Conversation-Based Assessment*](https://doi.org/10.1007/978-3-031-98417-4_9). In *AIED 2025: 26th International Conference on Artificial Intelligence in Education*, LNCS, pp. 119–134. Springer.
 
 ---
 
@@ -76521,7 +76521,7 @@ The study added three items on [[ethics|perceived ethical considerations]] — d
 
 ## Citation
 
-Loidl, V., Cao, Y., & Huang, W. D. (2026). *How Do Undergraduate Students Use ChatGPT for Career Development? An Explanatory Mixed-Methods Study of Employability-Related Activities*. Manuscript.
+Loidl, V., Cao, Y., & Huang, W. D. (2026). [*How Do Undergraduate Students Use ChatGPT for Career Development? An Explanatory Mixed-Methods Study of Employability-Related Activities*](https://doi.org/10.46787/ijaipil.v2i1.7284). *International Journal of AI in Pedagogy, Innovation, and Learning Futures*.
 
 ---
 
@@ -80817,7 +80817,7 @@ Applied to each group, the reframing is uneven. Students may see acute test anxi
 
 ## Citation
 
-Mulvenon, S. W. (2026). *Test Anxiety in the Age of AI: Revisiting Mulvenon's Multi-Stakeholder Framework Under Algorithmic Accountability*. Manuscript.
+Mulvenon, S. W. (2026). [*Test Anxiety in the Age of AI: Revisiting Mulvenon's Multi-Stakeholder Framework Under Algorithmic Accountability*](https://doi.org/10.46787/ijaipil.v2i1.7290). *International Journal of AI in Pedagogy, Innovation, and Learning Futures*.
 
 ---
 
@@ -82999,7 +82999,7 @@ Four failure modes stop the cycle from reading as progress by default. [[cogniti
 
 ## Citation
 
-Page, A. (2026). *From Answer Generation to Cognitive Partnership: A Conceptual Framework for Human–AI Learning*. Manuscript.
+Page, A. (2026). [*From Answer Generation to Cognitive Partnership: A Conceptual Framework for Human–AI Learning*](https://doi.org/10.46787/ijaipil.v1i2.8034). *International Journal of AI in Pedagogy, Innovation, and Learning Futures*.
 
 ---
 
@@ -89632,7 +89632,7 @@ All participants expected AI to influence engineering work, and the study treats
 - Credibility checks were modest — one [[qualitative-research|peer-debriefing]] session and member checking with three of ten participants — and the full dataset cannot be shared under the study's IRB approval.
 
 ## Citation
-Sadik, O. (2026). *Preparing AI-Ready Engineering Talent: Faculty Perspectives on Generative AI, Foundational Competence, and Workforce Readiness*. Manuscript.
+Sadik, O. (2026). [*Preparing AI-Ready Engineering Talent: Faculty Perspectives on Generative AI, Foundational Competence, and Workforce Readiness*](https://doi.org/10.46787/ijaipil.v1i2.8036). *International Journal of AI in Pedagogy, Innovation, and Learning Futures*.
 
 ---
 

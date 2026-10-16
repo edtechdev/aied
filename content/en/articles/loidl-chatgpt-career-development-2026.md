@@ -1,7 +1,7 @@
 ---
 title: "How Do Undergraduate Students Use ChatGPT for Career Development? An Explanatory Mixed-Methods Study of Employability-Related Activities"
 created: "2026-09-29T14:39:22-04:00"
-updated: "2026-09-29T14:39:22-04:00"
+updated: "2026-10-16T14:32:42-04:00"
 type: article
 foundations: [ai-literacy, critical-thinking, agency]
 pedagogy: [career-development-and-readiness, student-ai-interaction]
@@ -67,4 +67,4 @@ The study added three items on [[ethics|perceived ethical considerations]] — d
 
 ## Citation
 
-Loidl, V., Cao, Y., & Huang, W. D. (2026). *How Do Undergraduate Students Use ChatGPT for Career Development? An Explanatory Mixed-Methods Study of Employability-Related Activities*. Manuscript.
+Loidl, V., Cao, Y., & Huang, W. D. (2026). [*How Do Undergraduate Students Use ChatGPT for Career Development? An Explanatory Mixed-Methods Study of Employability-Related Activities*](https://doi.org/10.46787/ijaipil.v2i1.7284). *International Journal of AI in Pedagogy, Innovation, and Learning Futures*.

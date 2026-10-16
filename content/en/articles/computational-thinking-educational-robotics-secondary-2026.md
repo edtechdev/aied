@@ -1,7 +1,7 @@
 ---
 title: "Computational Thinking to Enhance Educational Robotics in Secondary School's Curriculum"
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-09-19T10:43:18-04:00"
+updated: "2026-10-16T14:32:42-04:00"
 type: article
 foundations: [computational-thinking, curriculum-design]
 pedagogy: [problem-solving]
@@ -43,4 +43,4 @@ This is a **conceptual/literature-analysis paper** (not an empirical study). It 
 
 ## Citation
 
-Valls i Pou, A. (2026). *Computational thinking to enhance educational robotics in secondary school's curriculum*. Proceedings of the 5th IEEE International Conference (GRETEL, La Salle Campus Barcelona, Ramon Llull University).
+Valls i Pou, A. (2026). [*Computational thinking to enhance educational robotics in secondary school's curriculum*](https://doi.org/10.35542/osf.io/puakj_v1). Proceedings of the 5th IEEE International Conference (GRETEL, La Salle Campus Barcelona, Ramon Llull University); the linked copy is the OSF preprint of the same paper.
