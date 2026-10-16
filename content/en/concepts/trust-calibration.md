@@ -1,7 +1,7 @@
 ---
 title: Trust Calibration
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-10-09T01:55:00-04:00"
+updated: "2026-10-16T09:45:00-04:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading, human-ai-collaboration]
 pedagogy: [metacognition]
@@ -63,6 +63,7 @@ The design implication is a two-dimensional user typology — the *ability* to v
 A third lever operates on the interaction structure itself: replacing a single recommendation with a [[tuo-armada-multi-agent-debate-overreliance-2026|multi-agent debate whose aggregate position is withheld (Tuo et al., 2026)]] cut detrimental switching to an incorrect AI position from 42–60.5% to 5.7–8.2% among 186 participants. The lever is protective rather than corrective — participants who began with a wrong judgment recovered the correct decision in only 30.6% and 24.7% of trials, below chance for a binary choice.
 
 [[calibrating-trustworthiness-llm-education-2026|Coscia et al. (2026)]] supply a design lever that did move calibration: showing reviewers co-designed trustworthiness criteria while they compared LLM responses raised inter-rater agreement from Krippendorff's alpha 0.3987 to 0.4931, though pooled agreement stayed below 0.67 and extra measures added overhead.
+For children, the design lever may be the agent's own register: in a game-based probe with 12 children aged 8–10, [[children-verification-ai-suggestions-game-2026|Liu et al. (2026)]] found partner-like phrasing routed them toward questioning the AI directly while tool-like phrasing routed them toward seeking evidence.
 
 With autonomous agents the object of calibration changes. [[agentic-literacy-debt|Nama (2026)]] argues the user becomes a principal who has delegated authority to a system whose actions are largely unobserved and irreversible, shifting the competency from judging outputs to understanding what was authorized, overseeing it, and attributing accountability when harm occurs.
 
@@ -114,6 +115,7 @@ Trust calibration is central to [[ai-literacy]] and sits alongside [[reducing-ai
 - [[cognitive-surrender]]
 
 ## Connected Articles
+- [[children-verification-ai-suggestions-game-2026]] — Children's verification behaviors in game-based human-AI collaboration
 - [[student-perspectives-ai-writing-grading-2026]] — Student perspectives on transparent AI-assisted writing assessment (AlGhamdi 2026)
 - [[tuo-armada-multi-agent-debate-overreliance-2026]] — Calibration reframed: withholding the system's position is protective, not corrective
 - [[du-yuan-epistemic-dependence-2026]] — Six diagnostic criteria separating productive reliance from harmful dependence (Du & Yuan 2026)

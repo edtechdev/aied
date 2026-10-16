@@ -352,6 +352,9 @@ AUTO_APPLY_DENYLIST = {
 REJECTED_HITS = []  # populated during a scan; reported so suppressed matches stay visible
 
 REJECT_PAIRS = {
+    # --- 2026-10-16, daily-scan batch: auto-applied links hand-reverted (one entry per revert) ---
+    ('mediated learning', 'sociocultural-learning'),     # statistical mediation, not Vygotskian mediated learning
+    ('Educational technology developers', 'educational-technology-developers'),  # a practice-section audience label, not prose
     # --- 2026-10-13, daily-scan batch: auto-applied links hand-reverted (one entry per revert) ---
     ('perceived learning', 'self-report-measures'),      # the construct measured, not the measure class
     ('hybrid regulation', 'self-regulated-learning'),    # human-AI shared regulation, not self-regulated learning

@@ -35,7 +35,7 @@ source_depth: full text
 4. Children rated error awareness consistently high (M = 4.83) but AI trust and reliance only moderate (M = 3.33), indicating they did not treat the AI as an always-correct source.
 5. Role perception stayed functional: tool perception (M = 4.67) exceeded partner perception (M = 3.33), and dual-state children still rated the AI strongly as a tool (M = 5.00).
 6. Reasoning depth varied: coded reasons for questioning were three conceptual corrections, one evidence-based correction citing images or knowledge cards, and one intuitive disagreement.
-7. Explanations were rated helpful (M = 4.50) and platform usability positive (M = 4.07 overall), with open comments flagging visual clarity, card readability, response speed, and task difficulty.
+7. Explanations were rated helpful (M = 4.50) and platform [[usability-research|usability]] positive (M = 4.07 overall), with open comments flagging visual clarity, card readability, response speed, and task difficulty.
 
 ## Agent style routes children toward questioning or evidence
 
@@ -47,7 +47,7 @@ Children did not simply accept or reject AI suggestions. Of 11 valid sessions, o
 
 ## Children saw the AI as useful but fallible
 
-Post-task ratings were analyzed with descriptive statistics. Error awareness remained consistently high (M = 4.83), AI trust and reliance stayed moderate (M = 3.33), and explanations were rated helpful (M = 4.50). Role perception remained largely functional: tool perception (M = 4.67) clearly outran partner perception (M = 3.33), and even the dynamic-switching condition, which showed relatively higher partner perception (M = 4.25), still rated the AI strongly as a tool (M = 5.00). Platform usability was positive (M = 4.07), but open-ended comments pointed to visual clarity, card readability, response speed, task difficulty, and the naturalness of AI interaction. The authors conclude children's collaboration experience was shaped not only by agent style but also by interface quality, task flow, and system fluency — a reminder that [[explainable-ai|explanation design]] and interaction polish travel together.
+Post-task ratings were analyzed with descriptive statistics. Error awareness remained consistently high (M = 4.83), AI trust and reliance stayed moderate (M = 3.33), and explanations were rated helpful (M = 4.50). Role perception remained largely functional: tool perception (M = 4.67) clearly outran partner perception (M = 3.33), and even the dynamic-switching condition, which showed relatively higher partner perception (M = 4.25), still rated the AI strongly as a tool (M = 5.00). Platform usability was positive (M = 4.07), but open-ended comments pointed to visual clarity, card readability, response speed, task difficulty, and the naturalness of [[student-ai-interaction|AI interaction]]. The authors conclude children's collaboration experience was shaped not only by agent style but also by interface quality, task flow, and system fluency — a reminder that [[explainable-ai|explanation design]] and interaction polish travel together.
 
 ## Designing agent style as task-based scaffolding
 

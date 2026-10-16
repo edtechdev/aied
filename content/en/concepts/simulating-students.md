@@ -1,7 +1,7 @@
 ---
 title: Simulating Students
 created: "2026-08-12T22:10:30-04:00"
-updated: "2026-10-10T14:20:00-04:00"
+updated: "2026-10-16T09:45:00-04:00"
 type: concept
 connected_faqs: [checking-whether-educational-ai-works, making-simulated-students-behave-like-learners, how-can-ai-assist-with-educational-research]
 foundations: [agentic-ai, teacher-role]
@@ -49,6 +49,7 @@ Persona stability is an interaction-design problem, not a model-choice one: cros
 The opposite failure also occurs: in a blinded study, expert annotators misclassified 164 of 196 (83.7%) LLM-generated Java submissions as human-written, so a simulator's errors can be functionally indistinguishable from authentic ones — though alignment with real errors fell as problem difficulty rose ([[simulating-students-java-programming-errors-llms|Keramati et al. (2026)]]).
 
 Conditioning generation on a predicted behavior model works without fine-tuning: a training-free framework builds each student's cognitive prototype from a [[knowledge-graph]] and scores beam-search candidates against it, reporting a 100% improvement in simulation accuracy ([[simulating-students-diverse-cognitive-levels-2025|Wu et al. (2025)]]). Its quality rises with the student's cognitive level, so weaker learners remain the harder case to simulate.
+- **Predict the learner instead of acting as one.** [[hachimi-ii-learner-behavior-modeling-student-simulation-2026|Jiang et al. (2026)]] recast simulation as third-person prediction: a student model built from the learner's history supplies a prior, an inferred learner state constrains the next action, and the simulated ability distribution lands 2.4–8.4× closer to the real one by Wasserstein-1 distance.
 
 CogEvolution models cognitive dynamics rather than a static persona — an ICAP depth perceptron sets each state update's size and an evolutionary update stays within a Zone-of-Proximal-Development radius — reaching R²LC = 0.92 where static agents reach 0.45 and collapsing to 0.58 without the ICAP module ([[cogevolution-student-cognitive-evolution-agent-2026|Zhang et al. (2026)]]).
 
@@ -126,6 +127,7 @@ Training against a simulator can also travel: TutorLoop's reinforcement-learning
 - [[teacher-role]]
 
 ## Connected Articles
+- [[hachimi-ii-learner-behavior-modeling-student-simulation-2026]] — HACHIMI-II: From Role-Play to Learner Behavior Modeling for Faithful Student Simulation
 - [[tutorloop-sensor-cognitive-feedback-2026]] — A simulator-trained reinforcement-learning tutor transferred offline to a new real task (Xu & Zhang 2026)
 
 - [[llm-student-simulation-teacher-insights]] — Can LLMs Simulate Human Learners? Teachers' Insights

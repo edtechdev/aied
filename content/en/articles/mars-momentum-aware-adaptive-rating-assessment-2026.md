@@ -30,12 +30,12 @@ source_depth: full text
 ## Key Findings
 
 1. MARS represents the question bank as a directed weighted [[knowledge-graph]] whose edges are same-topic, subject-flow (prerequisite), or bridge links, and treats any topic where accuracy falls below the weak-topic threshold τw = 0.40 as a weak topic for remediation.
-1. Rating updates combine dynamic sensitivity, a response-quality multiplier Qi,p = 0.85 + 0.30 Pi,p, and a momentum velocity term, updating rating, velocity, streak and variance from scalars at online cost O(dkh) with hop limit kh ∈ {1, 2, 3}.
-1. Learner state carries interpretable momentum labels — hot when streak k ≥ 5 and session accuracy ≥ 0.80, cold when k ≤ −3 and accuracy < 0.40, steady otherwise — and every recommendation returns an explanation tuple with graph distance, target rating and velocity.
-1. Under the time-budgeted objective (J = 50 questions, T = 3600 seconds, ρ = 0.25 per wrong answer), MARS scores 89.28 against DKT's 81.19 (+8.09), BKT's 75.68 (+13.60) and GKT's 66.01 (+23.27), and reduces overtime violations from 50.0% to 5.6% (−44.4 percentage points).
-1. On ASSISTments 2009 (4,217 learners, 26,688 items, 346,860 interactions, 123 topics) MARS trails neural knowledge tracing on prediction — AUC 0.7532 versus GKT's 0.8658 — while on the synthetic MARS-SimExam it posts the highest AUC, 0.8265 against Fixed Elo's 0.8244.
-1. Against Fixed Elo, MARS cuts the mean absolute rating update from 9.47 to 4.95 and the update standard deviation from 13.84 to 7.68, a 44.5% reduction in update volatility.
-1. Ablation shows the trade-off is deliberate: fixed K instead of dynamic K raises AUC to 0.7698 but inflates mean absolute update to 9.3175, and a streak multiplier lowers AUC to 0.7244 and raises log loss to 1.0238.
+2. Rating updates combine dynamic sensitivity, a response-quality multiplier Qi,p = 0.85 + 0.30 Pi,p, and a momentum velocity term, updating rating, velocity, streak and variance from scalars at online cost O(dkh) with hop limit kh ∈ {1, 2, 3}.
+3. Learner state carries interpretable momentum labels — hot when streak k ≥ 5 and session accuracy ≥ 0.80, cold when k ≤ −3 and accuracy < 0.40, steady otherwise — and every recommendation returns an explanation tuple with graph distance, target rating and velocity.
+4. Under the time-budgeted objective (J = 50 questions, T = 3600 seconds, ρ = 0.25 per wrong answer), MARS scores 89.28 against DKT's 81.19 (+8.09), BKT's 75.68 (+13.60) and GKT's 66.01 (+23.27), and reduces overtime violations from 50.0% to 5.6% (−44.4 percentage points).
+5. On ASSISTments 2009 (4,217 learners, 26,688 items, 346,860 interactions, 123 topics) MARS trails neural knowledge tracing on prediction — AUC 0.7532 versus GKT's 0.8658 — while on the synthetic MARS-SimExam it posts the highest AUC, 0.8265 against Fixed Elo's 0.8244.
+6. Against Fixed Elo, MARS cuts the mean absolute rating update from 9.47 to 4.95 and the update standard deviation from 13.84 to 7.68, a 44.5% reduction in update volatility.
+7. Ablation shows the trade-off is deliberate: fixed K instead of dynamic K raises AUC to 0.7698 but inflates mean absolute update to 9.3175, and a streak multiplier lowers AUC to 0.7244 and raises log loss to 1.0238.
 
 ## Rating, momentum, and response quality
 
@@ -52,15 +52,14 @@ The experiments use two datasets: ASSISTments 2009, the public observational log
 ## What this means for practice
 
 - **Instructors.** Prefer a system that can show its reasoning: MARS returns an explanation tuple with graph distance, target rating, effective item rating, weak-topic bonus, centrality and velocity for every recommended question, and its remediation path routes learners through related easier items before returning to the missed one.
-- **Software developers.** Budget for scalar state, not sequence recomputation: MARS updates a few cached values per response at O(dkh) with kh ∈ {1, 2, 3}, independent of item-bank size, which the authors present as fitting web-based practice platforms and LMS-integrated quizzes.
+- **Software developers.** Budget for scalar state, not sequence recomputation: MARS updates a few cached values per response at O(dkh) with kh ∈ {1, 2, 3}, independent of item-bank size, which the authors present as fitting web-based practice platforms and LMS-integrated quizzes. Keep the routing objective risk-aware too: a reward-only policy without negative marking over-selected high-mark, high-difficulty items, which is why the final objective charges a 25% penalty for wrong answers.
 - **Learners.** Treat the smoother trajectory as the design goal: compared with Fixed Elo, MARS lowers the mean absolute rating update from 9.47 to 4.95 and caps correct-but-rapid answers, so a single lucky fast response moves your standing less.
 - **Administrators.** Revisit the overtime accounting before trusting score gains: the routing result depends on a time model fitted on the training split, and the authors call for validation on real adaptive deployment logs before high-stakes use.
-- **Software developers.** Keep the routing objective risk-aware: the authors report that a reward-only policy without negative marking over-selected high-mark, high-difficulty items, which is why the final objective charges a 25% penalty for wrong answers.
 
 ## Limitations
 
 - ASSISTments 2009 is observational (4,217 learners and 346,860 interactions), so the authors state it cannot fully evaluate counterfactual routing, and MARS trails the neural knowledge-tracing baselines on that benchmark — AUC 0.7532 versus GKT's 0.8658 and DKT's 0.8648.
-- The routing and score-efficiency results come from MARS-SimExam, a 277,500-interaction dataset generated by a Fixed-Elo-based persona simulator; the authors say it cannot fully represent real learner behavior and that the gains should be validated on real adaptive deployment logs.
+- The routing and score-efficiency results come from MARS-SimExam, a 277,500-interaction dataset generated by a Fixed-Elo-based persona [[simulation|simulator]]; the authors say it cannot fully represent real learner behavior and that the gains should be validated on real adaptive deployment logs.
 - MARS depends on the quality of the question graph, skill labels and item-difficulty estimates, and the authors note that weak graph edges may degrade routing quality.
 - Response-time features may be affected by device, network, reading-speed or accessibility differences, so timing signals are not a clean read of learner ability.
 - The time-budgeted comparison covers only BKT, DKT, GKT and MARS; uncertainty-aware Glicko-style, transformer-based and recent graph-aware knowledge-tracing models were left to future work.
