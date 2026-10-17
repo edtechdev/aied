@@ -1,5 +1,5 @@
 # AI in Education Knowledge Base — Full Content
-> Complete text of 220 concepts, 1747 articles, and 37 FAQs.
+> Complete text of 220 concepts, 1749 articles, and 37 FAQs.
 
 # Concepts
 
@@ -5543,6 +5543,7 @@ Whatever combination an instructor chooses, one constraint should shape it. Onli
 - **Embed AI in the learning environment, not as an external bolt-on.** Purpose-built, contextually-tuned assistants embedded in the course (like [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of|AIDA]]) outperform generic external chatbots and increase acceptance.
 - **Calibrate AI facilitation toward human caution.** When using AI to moderate discussions, prefer settings that intervene sparingly ([[llm-facilitation-timing-online-discussions|Tsirmpas et al.]]).
 - **Design for adult life constraints.** For adult and distance learners, prioritize mobile access, offline capability, and asynchronous availability ([[ai-adult-learning-guidelines-dis2026|AI-ALOE guidelines]]).
+- **Compressed formats need redesign, not compression.** Six-week asynchronous graduate courses for working teachers are an institutional constraint requiring purposeful redesign rather than a fifteen-week course compressed, and AI dialogue carries instructional presence into the late hours an instructor cannot staff [[packard-thinking-partner-framework-adult-learners-2026|Packard et al. (2026)]].
 - **Co-design with students and staff, and build governance.** Participatory development, senior sponsorship, cross-unit collaboration, and robust [[governance]] are enabling factors for responsible GenAI adoption.
 - **Assume an agent will attempt every unproctored activity, and design from that assumption.** The three-question test is quick and exposes weak activities: could an AI system complete this without the student understanding the material; what cognitive activity is supposed to produce the learning; what evidence will show the student performed it. When the first answer is yes and the other two are hard to answer, the problem is the learning design rather than the AI policy.
 - **Keep verification proportionate to the risk.** Where competence must be certified, prefer a twin task, an asynchronous oral defense or a short comprehension check over blanket monitoring; keep the rest of the course flexible for the learners who depend on that flexibility.
@@ -5602,6 +5603,7 @@ Whatever combination an instructor chooses, one constraint should shape it. Onli
 - [[hao-peer-exposure-bridging-social-capital-ai-summaries-2026]] — AI-Generated Summary-Driven Learning Design in Online Discussion Forums
 - [[ai-training-science-teacher-tpack-distance-2026]] — Campus-based student teachers reported higher TPACK for AI-integrated science teaching than distance education peers (64.0% versus 47.4%)
 - [[cheng-symbiotic-role-design-human-genai-collaboration-2026]] — Role design is the intervention, not the tool
+- [[packard-thinking-partner-framework-adult-learners-2026]] — Six-week asynchronous graduate courses for working teachers: redesign the format rather than compress it
 
 ---
 
@@ -6044,6 +6046,8 @@ Cognitivism is arguably the theory most responsible for AI in education existing
 
 Cognitive Load Theory (CLT) is the most widely applied cognitivist framework in [[learning-design|instructional design]]: it distinguishes intrinsic load (task complexity), extraneous load (presentation friction), and germane load (schema-building effort). Well-designed AI should reduce extraneous load while preserving germane processing; poorly integrated AI reduces all three, leaving completed tasks with empty learning. CLT's working-memory framing is also central to debates about [[cognitive-offloading]] — whether AI reduces harmful extraneous load or short-circuits the germane processing that produces learning.
 
+Load tracked how effort was organized, not how much was spent: among 67 pre-service teachers designing lesson plans with GenAI, the higher-quality group did not differ on reported effort (2.85 vs 3.26) yet reported lower mental demand (3.09 vs 4.03) and frustration (2.12 vs 3.82) ([[fang-human-ai-collaboration-patterns-instructional-design-2026|Fang et al. (2026)]]).
+
 Mayer's Cognitive Theory of Multimedia Learning (CTML) applies the same working-memory assumptions to the materials themselves, and its prescriptions are unusually concrete: learners do better from words and pictures together than from words alone, when extraneous material is excluded, when a lesson is segmented and user-paced rather than presented as one continuous unit, when corresponding words and pictures appear near and at the same time, and when narration is conversational and in a friendly human voice rather than formal or machine-generated.
 
 ### Cognitivism vs. behaviorism and constructivism
@@ -6093,6 +6097,7 @@ Mayer's Cognitive Theory of Multimedia Learning (CTML) applies the same working-
 - [[nie-personavlm-long-term-personalization-2026]] — LLM student modeling and memory
 - [[ai-cognitive-partner-co-regulation-learning]] — AI as a cognitive partner in co-regulated learning
 - [[ensemble-cognition-philosophy-ai-education]] — Ensemble Cognition: thinking as human–AI interaction
+- [[fang-human-ai-collaboration-patterns-instructional-design-2026]] — Effort organization, not effort amount, tracked load and frustration
 
 ---
 
@@ -9945,6 +9950,7 @@ Prompt engineering is central to effective [[generative-ai]] use in education. U
 - **Prompt cognition tracks the discipline, not the student.** [[student-ai-conversations-cognitive-engagement-2026|Chang and Li (2026)]] classified 60,087 prompts from 116 courses and found Bloom-level profiles differed by discipline — STEM Apply-prevalent (20.8%), social science Create-prevalent (33.8%) — with course-level variance exceeding student-level variance.
 - **Prompting as literacy:** [[tracing-genai-literacy-interaction-patterns|Tracing GenAI literacy]] and [[aaai2026-prompting-literacy-k12|K-12 prompting literacy]] research frame prompting as a core [[ai-literacy]] component
 - **Novices default to trial and error, and blame the model.** In a text-linguistics seminar, ten genAI novices refined prompts by trial and error, rarely reached for in-context examples, and overwhelmingly attributed poor outputs to the LLM rather than their own prompt formulation ([[llms-text-linguistics-teaching-2026|Brocca & Garassino (2026)]]).
+- **Vague prompts leave a trace in the dialogue.** The lower-quality group's signature was a self-repeating clarification loop (IC→IC, Z = 3.25), traced to vague prompts and AI misreadings, and carrying the study's largest frustration gap (2.12 vs 3.82); prompt debugging on authentic logs targets it as it happens ([[fang-human-ai-collaboration-patterns-instructional-design-2026|Fang et al. (2026)]]).
 
 
 - **When the instructor models the prompt, students reuse it verbatim.** Among 310 recorded prompts from twelve middle-school STEAM groups, exact copying of the instructor's instruction was the most frequent student standpoint at 47.1%, ahead of spontaneous inquiry at 28.7% ([[middle-school-genai-steam-interactions-2026|Zhao & Li (2026)]]).
@@ -10029,6 +10035,7 @@ Prompt engineering connects to [[scaffolding]] — well-designed prompts can sca
 
 - [[middle-school-genai-steam-interactions-2026]] — Middle-school STEAM groups copied the instructor's instruction verbatim in 47.1% of prompts
 - [[ecd-prompts-automated-essay-scoring-2026]] — Using Evidence-Centered Design to Guide Prompt Engineering in Measurement: An Illustration with Automated Essay Scoring
+- [[fang-human-ai-collaboration-patterns-instructional-design-2026]] — Vague prompts produced self-repeating clarification loops with the largest frustration gap
 
 ---
 
@@ -15817,6 +15824,7 @@ Adult learning sits at the intersection of several closely linked concepts in th
 
 - **Design AI as a scaffold for self-direction, not a substitute.** Behavioral independence from the tool doesn't prove the learner directed the learning — protect goal ownership, delegation control, and cognitive recoverability ([[andragogy-cognitive-delegation-genai-2026|andragogy + cognitive delegation]]).
 - **Fit into busy adult lives.** Make tools asynchronous, mobile, and offline-capable, and connect content to real-world problems ([[ai-adult-learning-guidelines-dis2026|AI-ALOE guidelines]]).
+- **Design for a range of engagement, not assumed depth.** Working adults triage limited cognitive resources across jobs, families and coursework, so a six-semester framework made Socratic AI dialogue more rewarding than the fast route rather than mandatory [[packard-thinking-partner-framework-adult-learners-2026|Packard et al. (2026)]].
 - **Keep a human in the loop.** Position the educator as the locus of relational and cognitive care, especially for marginalized and [[neurodiversity|neurodivergent]] adult learners ([[sovereign-hive-titl-further-education-2026|Tutor-in-the-Loop]]).
 - **Address foundational digital literacy and data trust.** Build [[ai-literacy]] and [[trust]] around data privacy before expecting adoption ([[community-centered-ai-education-adults|community AI education]]).
 - **Ground AI in learning science and andragogy, and prefer deep personalization.** Apply andragogical theory and connect content to real-world problems; favor deep personalization (task sequencing, difficulty calibration) over surface-level adaptation.
@@ -15866,6 +15874,7 @@ Adult learning sits at the intersection of several closely linked concepts in th
 - [[dot-framework-survey-2026]]
 - [[kim-ai-productive-failure-adult-2026]] — Designing AI Systems to Support Productive-Failure-Based Learning
 - [[kim-ai-andragogy-2026]] — AI Applications in Supporting Andragogy (Kim et al. 2026)
+- [[packard-thinking-partner-framework-adult-learners-2026]] — Design for a range of engagement: make deep Socratic dialogue the more rewarding path
 
 ---
 
@@ -16078,6 +16087,7 @@ Beyond content and beliefs, teacher preparation increasingly uses **simulated cl
 - **Make GenAI [[assessment|assessment design]] part of professional curriculum work.** Student teachers in [[zou-is-this-a-trap-student-teachers-genai-2026|Zou et al. (2026)]] showed little intention of redesigning their own future school assessments in response to generative AI, and the [[early-childhood-elementary-ai-education|kindergarten]] and secondary participants largely judged the technology irrelevant to their own teaching context — an underdeveloped dimension of assessment literacy rather than a knowledge gap. Teacher-education programs should therefore embed ethical GenAI use in assessment design as part of professional [[curriculum-design|curriculum]], pairing [[educational-policy-ai|program-level policy]] consistency with concrete exemplars of acceptable and unacceptable use and timely [[feedback]] on students' actual AI use.
 - **Separate delegable from non-delegable work.** [[obyrne-co-constructing-ai-boundaries-agency-judgment-2026|O'Byrne (2026)]] found 23 undergraduates, most pre-service teachers, produced comparable artifacts whether they sustained boundary work or delegated it early, and the "cheating tension" over authorship was strongest among those doing the most boundary work — so the teaching aim is judging which interpretive work not to hand over.
 - **Make classroom policy writing a core teacher-education activity, and treat ambiguity as a policy defect.** [[nash-preservice-teachers-classroom-ai-policies-2026|Nash & Burriss (2026)]] found that asking preservice teachers to write their own classroom AI policies functions as rhetorical world-building about what writing is for — a window into emergent beliefs that abstract discussion does not open. Because AI separates writing-as-product from writing-as-process, programs should help teachers locate where thinking, learning, and value actually live across brainstorming, drafting, revising, and editing rather than locating thinking only in final text, and should support them in translating beliefs into operational, unambiguous rules paired with [[ai-literacy]] instruction: contradictions such as barring AI-generated text while holding students responsible for the AI-generated content they submit leave students unable to comply.
+- **Teach teachers to read the primary research behind AI policy.** A six-week graduate research-methods course aimed at research consumption rather than production: one teacher applied the critical-evaluation framework to a district-mandated curriculum and presented the analysis to her principal, and several adopted Socratic questioning with their own students [[packard-thinking-partner-framework-adult-learners-2026|Packard et al. (2026)]].
 
 ## Connected Concepts
 
@@ -16136,6 +16146,7 @@ Beyond content and beliefs, teacher preparation increasingly uses **simulated cl
 - [[unscaffolded-genai-preservice-teachers-quasi-experiment-2026]] — Unscaffolded genAI lowered pre-service teachers' lesson-plan quality below the no-genAI class
 - [[capability-decision-model-teacher-readiness-2026]] — Measure capability rather than confidence
 - [[heutagogical-teaching-ai-enhanced-education-2026]] — A heutagogical dual-layer model linking teachers' own reflective regulation to learner agency
+- [[packard-thinking-partner-framework-adult-learners-2026]] — K-12 teachers learning to read primary AI research and contest district mandates
 
 ---
 
@@ -16409,6 +16420,7 @@ The knowledge base's [[collaborative-learning|collaborative]] and assessment lit
 - **The institution's own judgment lacks the criteria it asks students to meet.** [[munoz-misconduct-allegation-evidence-2026|Munoz et al. (2026)]] rated the probative value of 1,855 evidence items across 1,162 generative-AI misconduct allegations and found that evidence quality bore no reliable relationship to case outcomes, because no stage of the procedure set a minimum evidentiary threshold or required investigators to weigh probative value before progressing an allegation — panels weighed evidence through unstructured professional judgment. Detector output was the weakest category in that corpus (standalone detector outputs wholly low in credibility), and [[hadra-ai-detector-accuracy-efl-2026|Hadra et al. (2026)]] show the instrument cannot establish the fact a finding asserts — macro accuracy of 0.69 and 0.61 across 192 texts, near-total failure on hybrid human–AI writing, and a borderline bias concern for EFL writers — which is why the authors' own recommendation is human judgment, clearer [[educational-policy-ai|policy]] and better-specified tasks rather than surveillance. Better-specified matters twice over: [[wright-transcription-not-generation-2026|Wright (2026)]] argues that rules written by platform identity rather than function are over-inclusive by definitional accident, sanctioning a student who did not do the thing the rule was designed to prevent, so the assessor's judgment has to be applied to what a tool did rather than to which platform was used. Judgment exercised without shared criteria cannot be taught, calibrated or audited — the consistency problem this page reports for students, arriving at the level of the institution. Evaluator judgment also carries a measurable direction of its own: five admissions officers separating 50 human from 50 AI admissions essays reached AUC 0.70 (95% CI [0.65, 0.75]), and their quality ratings fell as perceived AI-likelihood rose, an association that survived adjustment for machine-rated quality, actual provenance and applicant characteristics (−0.109, p < .05). Because nobody screened the submissions, that unaided judgment was the entire enforcement mechanism, and each flagged essay carried 1.5 percentage points less admission probability, 2.6 once essay quality was held constant ([[ai-written-admissions-essays-penalized-2026|Isley, Gaebler and Goel 2026]]).
 
 - **Classroom-level proxies for judgment are being proposed.** [[austin-ai-agents-assignment-redesign-2026|Austin (2026)]] adds two behavioral signals to a redesigned assignment sequence: the UnBlooms™ *Discernment Rate*, the share of AI outputs a learner interrogates, challenges or revises rather than accepts, and the *First-Pass Acceptance Rate*. Neither is validated — both are offered as cheap per-assignment diagnostics — but they make the construct observable inside ordinary grading, where a near-zero discernment rate across several assignments reads as a task-design signal rather than an individual deficit.
+- **Judgment registers when wired to revision, not merely present.** In 67 pre-service teachers designing lesson plans with GenAI, explicit evaluation was near-absent in the lower-quality group (0.67 vs 0.00); what separated quality was a bidirectional evaluation–revision cycle (CE→RE Z = 2.80, RE→CE Z = 2.50) and a revision self-loop (RE→RE Z = 4.24) ([[fang-human-ai-collaboration-patterns-instructional-design-2026|Fang et al. (2026)]]).
 
 ## How misuse displaces judgment
 
@@ -16471,6 +16483,7 @@ The clearest risk is displacement, and it is evidenced in the feedback literatur
 - [[obyrne-co-constructing-ai-boundaries-agency-judgment-2026]] — the Agency Check (credible, relevant, acceptable, nuanced) that structures each AI interaction
 
 - [[judgment-centred-software-engineering-education-2026]] — A Post-Hype Review and Framework for AI-Augmented Software Engineering Education
+- [[fang-human-ai-collaboration-patterns-instructional-design-2026]] — Judgment separated quality only when wired to revision (Z = 2.80 and 2.50)
 
 ---
 
@@ -17359,6 +17372,8 @@ Practitioner and framework accounts fill in the artifacts. Uden and Hwang's (202
 
 Concrete tooling is emerging: [[stepwise-teacher-diagnosis-math-2026|Kim et al. (2026)]] operationalize problem solving as four stages and eight diagnostic sub-skills so an LLM can generate stage-specific questions and rubrics; five teachers and 64 students used the system on 90 problems and 720 sub-questions, with a mean System Usability Scale score of 83.5.
 
+Required documentation proved feasible at course scale: across six semesters of six-week asynchronous graduate research-methods courses serving approximately 440 K-12 teachers, checkpoint submissions averaged 96% completion, and later iterations that added explicit prompt templates produced longer and visibly more substantive reflections [[packard-thinking-partner-framework-adult-learners-2026|Packard et al. (2026)]].
+
 ## A different axis from authenticity, and from marking
 
 Holding the axes apart matters, because conflating them is how a redesign looks done while the exposure remains. Sharma (2026) makes the complementary distinction between authenticity and integrity-oriented design: authenticity asks whether a task mirrors worthwhile practice, while integrity-oriented design asks whether learners can justify their decisions and assume responsibility in relation to disciplinary standards, which is why the practices he offers — annotated decision trails, verification of GenAI-contributed claims, oral defense, draft differences with version history — are selected for the [[evaluative-judgment|judgment]] they make visible rather than for their realism. Espino and Espino's (2026) ten-year review of [[business-education|business education]] reaches the same design conclusion from the literature side, finding the field converging on authentic, process-visible tasks that require interpretation, contextual application, and iterative refinement, and treating isolated tool adoption inside unchanged assessment structures as its most persistent failure.
@@ -17412,6 +17427,7 @@ Thapa and Lewis's account is conceptual: no participants, no data collection, an
 - [[drafttrace-ai-writing-analytics-2026]] — DraftTrace: A Multi-View Analytics Environment for AI-Integrated Writing
 - [[epistemic-ownership-ai-mediated-education-2026]] — Same Performance, Different Process: Epistemic Ownership in AI-Mediated Education
 - [[stepwise-teacher-diagnosis-math-2026]] — STEPwise: Supporting Teachers in Diagnosing Students' Mathematical Problem-Solving Skills through LLM-Generated Questions
+- [[packard-thinking-partner-framework-adult-learners-2026]] — Checkpoint documentation of AI dialogue held at 96% completion across six semesters and about 440 teachers
 
 ---
 
@@ -21661,6 +21677,8 @@ Change management in AI education carries both positive and negative implication
 
 An institutional case study traces a decade-long diffusion arc in undergraduate mathematics, moving from individual initiative and peer workshops to joint faculty licensing and central funding ([[flipped-classroom-ai-assessment-math-2026|Law, 2026]]).
 
+Course redesign carries a cost institutions should budget, not assume: adopting an AI-integrated course ran to roughly 15 to 20 hours of redesign work per course before any ongoing adjustment [[packard-thinking-partner-framework-adult-learners-2026|Packard et al. (2026)]].
+
 ## Connections to other concepts
 
 Change management is the institutional complement to classroom-level integration. It operationalizes the systemic conditions — governance, faculty development, stakeholder [[student-engagement|engagement]], and equity safeguards — that allow pedagogical innovation to take hold, connecting [[educational-policy-ai]] policy design to [[governance]], [[educational-development]], and [[equity-in-ai-education]] outcomes.
@@ -21694,6 +21712,7 @@ Change management is the institutional complement to classroom-level integration
 - [[instruction-partners-ai-in-action-learning-tour-2026]] — cross-system fieldwork on how implementation and teacher actions decide whether an AI product helps
 - [[dot-framework-survey-2026]] — survey evidence that professional development must cover a full design cycle rather than tool use alone
 - [[flipped-classroom-ai-assessment-math-2026]] — A decade-long diffusion arc from individual initiative to central funding in undergraduate mathematics (Law 2026)
+- [[packard-thinking-partner-framework-adult-learners-2026]] — Budget 15 to 20 hours of redesign per AI-integrated course before ongoing adjustment
 
 ---
 
@@ -57979,6 +57998,52 @@ Fan, Y., Li, X., & Zhang, R. (2026). [Family-school autonomy support for childre
 
 ---
 
+## [Human–AI collaborative patterns in GenAI-supported instructional design among pre-service teachers: an analysis of interaction sequences and cognitive load](https://edtechdev.github.io/aied/articles/fang-human-ai-collaboration-patterns-instructional-design-2026/)
+
+> **Synthesis:** Fang, Feng, Yan and Zhou (2026) recorded what 67 pre-service teachers actually did with [[generative-ai|generative AI]] while designing lesson plans — two rounds, two weeks apart, on DeepSeek-V2.5 with no prompt training — and split each round at the median of lesson-plan quality. The high-quality group did not ask more, plan more, or express more: those frequencies were statistically indistinguishable. What separated them was iteration — a two-way evaluation–revision cycle (CE→RE Z = 2.80, RE→CE Z = 2.50) and a revision self-loop (RE→RE Z = 4.24) — while the low-quality group ran on ineffective cycling (IC→IC Z = 3.25). With comparable [[self-report-measures|self-reported]] effort, the high-quality group felt less [[cognitive-psychology|cognitive]] strain (mental demand 3.09 vs 4.03) and far less frustration (2.12 vs 3.82), a "doing more with less" pattern the authors attribute to where attention was aimed rather than how much was spent.
+
+## Key Findings
+
+1. **Iteration, not effort, separates the groups.** Mann-Whitney comparisons of interaction frequencies showed no significant differences for planning conception (1.24 vs 1.38, p = 0.222), generating content (0.52 vs 0.44, p = 0.661), comparing and selecting (0.55 vs 0.41, p = 0.384), or social expression (1.00 vs 0.97, p = 0.968); effort on the NASA-TLX also did not differ (2.85 vs 3.26, p = 0.074).
+2. **Critically evaluating was effectively absent in the low-quality group.** Explicit evaluation utterances averaged 0.67 per participant in the high-quality group and 0.00 in the low-quality group (U = 782.00, p < 0.001, r = 0.491); the authors caution that implicit evaluation — silently rejecting AI text without stating a judgment — would not have been coded.
+3. **Revision differed by more than fourfold.** The high-quality group revised 3.12 times on average against 0.76 (U = 947.50, p < 0.001, r = 0.606, a large effect), and 27 of 34 low-quality participants (79.4%) never revised at all while high-quality revision counts ran from 0 to 9.
+4. **Ineffective cycling is the low-quality signature.** Repeated clarification loops occurred at 0.74 per participant in the low-quality group versus 0.12 (U = 334.50, p < 0.001, r = 0.425), and IC→IC (Z = 3.25) was the one significant transition unique to that group, its self-perpetuating [[cognitive-offloading|offloading]] failure.
+5. **Effective flows followed a progressive sequence.** Of 17 significant transitions in the high-quality group, the positive paths trace Planning → Decision-making → Generation → Evaluation → Revision → Re-evaluation (PC→CS Z = 3.95, PC→GC Z = 3.60, CE→RE Z = 2.80, RE→CE Z = 2.50, RE→RE Z = 4.24), with revision tightly controlled — activated by evaluation and itself, and significantly inhibited after planning or social expression (RE→PC Z = −4.63, SE→RE Z = −5.56).
+6. **Same effort, less strain, sharply lower frustration.** Mental demand was 3.09 ± 0.63 versus 4.03 ± 0.58 (U = 171, Z = −5.296, p < 0.001, r = 0.647), frustration 2.12 ± 0.78 versus 3.82 ± 0.83 (U = 92, Z = −6.082, p < 0.001, r = 0.743), and total load 10.97 ± 2.56 versus 14.53 ± 2.69 (p < 0.001, r = 0.608); temporal demand (2.91 vs 3.41, p = 0.024) would not survive a Bonferroni correction at α = 0.010.
+7. **The core pattern reproduced in a second task.** Two weeks later, with groups re-formed by the same median split, CE (U = 755.00, Z = 4.01, p < 0.001, r = 0.49), RE (U = 920.00, Z = 4.89, p < 0.001, r = 0.60), and IC (U = 310.00, Z = −3.52, p < 0.001, r = 0.43) again separated the groups while planning, generation, selecting and social expression stayed equivalent.
+
+## The difference is how the work is organized, not how much of it happens
+
+Because the two groups matched on basic interaction volume, the authors locate the mechanism in behavioral organization. Lag sequential analysis on adjusted residuals (|Z| ≥ 1.96) produced 17 significant transitions for the high-quality group and 10 for the low-quality group, and the two networks differ in shape rather than size. In the high-quality group revision is the most densely connected behavior: it is pulled forward by evaluation, sustains itself, and is significantly suppressed after planning, decision-making, or social expression — the authors call this "focused iteration", and argue it prevents two failure modes at once, revising without having judged, and abandoning a revision halfway to jump elsewhere. The low-quality group's network centers instead on planning and generation, with planning conception the most negatively associated behavior (PC→PC Z = −4.48, IC→PC Z = −2.45, RE→PC Z = −2.50): after a clarification loop or a revision, participants could not easily return to the main thread. Social expression played a double and unstable role there, both restarting planning (SE→PC Z = 8.23) and predicting confusion (SE→IC Z = −2.64).
+
+## Ineffective cycling consumes attention and emotion, not just time
+
+The paper reads IC→IC through [[cognitive-psychology|cognitive load]] theory as self-inflicted extraneous load: clarification attempts that serve no learning goal while occupying working memory. Its more distinctive claim is the emotional account. Because effort was statistically comparable across groups but frustration differed by the largest effect in the study, the authors argue that load depends on the direction and effectiveness of effort, not merely its amount — effort consumed by interaction obstacles cannot buy quality. Drawing on goal-activation accounts of task switching, they describe the low-quality group's repeated failure to resume the main thread as a loss of the sense of control, and connect sustained unproductive loops to learned helplessness. They add a methodological point for the field: the frequency and persistence of IC→IC self-loops, rather than overall dialogue length, is the behavioral indicator of accumulating load and frustration.
+
+## A quality rubric built for this study, with limited validity evidence
+
+Lesson-plan quality was scored with a rubric developed for the research context and applied by two raters, yielding an average-measure intraclass correlation of 0.853, which the authors report as excellent inter-rater consistency while stating plainly that construct and criterion-related validity were not examined and that the rubric has not been validated on other samples, tasks, or settings. Coding of interaction behavior reached Cohen's Kappa of 0.86 after a 0.82 trial round, and disagreements were mediated by the lead researcher — a procedure that raises reliability while concentrating interpretive authority in one person. The behavioral scheme itself is diagnostic rather than neutral: evaluation counts only explicitly articulated judgments, so the low-quality group's floor-level CE may reflect silent evaluation the coding could not see, a limitation the paper states and one that matters for anyone tempted to read 0.00 as "never evaluated".
+
+## What this means for practice
+
+- **Instructors.** Grade and teach the loop, not the prompt count: require students to name what is wrong with AI output before changing it, and to revise immediately after judging, since those two adjacencies are what distinguished high-quality work. Asking students to log each iteration — problem, change, rationale — makes the evaluation–revision cycle visible and gives you something assessable besides the finished plan.
+- **Faculty developers.** Teach prompt precision and process awareness separately, because they address different failures: ambiguous prompts generate the clarification loops that produced the frustration in this study, while missing process structure left the low-quality group unable to resume the main thread. Workflow modeling (flowcharts of intent, prompt, output, next action) and pre-set [[prompt-engineering|stage gates]] are the interventions the paper recommends.
+- **Instructional designers and tool developers.** Clarification loops are diagnosable in dialogue data and precede frustration, so an interface that detects repeated unproductive clarification — repeated rephrasings of the same request without new information — has a concrete trigger for intervention, rather than waiting for overall conversation length to look suspicious.
+
+## Limitations
+
+- Groups were formed by a median split on outcome quality, so the analysis compares categories rather than estimating a continuous relationship, and differences near the boundary are invisible; the design identifies association, not causation, and students with stronger design skill may simply have iterated more.
+- Statistical power covers large effects only (d ≈ 0.70 and above with n₁ = 33, n₂ = 34); the authors state that the non-significant results for planning, generation, selecting, social expression and effort are inconclusive rather than evidence of equivalence.
+- Cognitive load was an adapted NASA-TLX using four of six dimensions, each a single item, so no Cronbach's alpha was computable and the omitted physical-demand and performance dimensions may matter.
+- The sample was 67 second-year pre-service teachers at one university, with [[generative-ai|GenAI]] used under default settings on DeepSeek-V2.5 in Chinese, and the authors note that in-service teachers, with more settled design routines, may collaborate differently.
+- Seven of the 75 recruited students were lost (2 to scheduling, 5 to corrupted or unrecorded dialogue logs), which is a non-random attrition path given that dialogue capture was the study's core measure.
+
+## Citation
+
+Fang, X., Feng, J., Yan, B., & Zhou, B. (2026). [*Human–AI collaborative patterns in GenAI-supported instructional design among pre-service teachers: an analysis of interaction sequences and cognitive load*](https://doi.org/10.1186/s41239-026-00628-3). *International Journal of Educational Technology in Higher Education, 23*(1), Article 52.
+
+---
+
 ## [Navigating uncertainty: university teachers' experiences and perceptions of generative artificial intelligence](https://edtechdev.github.io/aied/articles/farazouli-navigating-uncertainty-teachers-genai-2026/)
 
 > **Synthesis:** **Navigating uncertainty** — a [[qualitative-research|qualitative]] study of 24 Swedish university teachers ([[higher-ed|higher education]], disciplines centered on long-form [[writing-education|writing]]: philosophy, law, sociology, education) who took part in assessment workshops with [[generative-ai|GAI]] outputs followed by focus-group interviews. Drawing on **postphenomenology and technological mediation theory**, the authors find that the emergence of GAI was experienced as *alarming and overwhelming*, inducing a *state of vulnerability* and *ethical challenges* (fairness, unequal access, bias), while [[prompt-engineering|prompting]] teachers to *rethink assessment*, *re-evaluate teaching priorities* (especially [[critical-thinking|critical thinking]]), and worry that *student learning is at risk* (weakening of skills, desocialisation of learning). The study contributes a technology-mediation account of how [[teacher-role|teachers' roles]] and confidence are unsettled when GAI enters established educational practice.
@@ -82957,6 +83022,56 @@ Ortiz-Bonnin & Blahopoulou (2025) address the tension between ChatGPT's educatio
 ## Citation
 
 Ortiz-Bonnin, S., & Blahopoulou, J. (2025). [*Chat or cheat? Academic dishonesty, risk perceptions, and ChatGPT usage in higher education students*](https://doi.org/10.1007/s11218-025-10080-2). *Social Psychology of Education*, 28, 113. https://doi.org/10.1007/s11218-025-10080-2
+
+---
+
+## [Teaching with AI, Not Against It: A Thinking Partner Framework for Working Adult Learners in Compressed Online Formats](https://edtechdev.github.io/aied/articles/packard-thinking-partner-framework-adult-learners-2026/)
+
+> **Synthesis:** Packard, Fuller, Holmes and Kayanuma (2026) describe the **Thinking Partner Framework**, built and revised across six semesters of six-week, fully asynchronous graduate research methods courses serving roughly 440 [[k-12|K-12]] teachers. Instead of banning [[generative-ai|generative AI]] or policing it with [[ai-detection|detection]] tools, the design positions AI as a [[socratic-method|Socratic]] partner and requires students to document the dialogue: checkpoint submissions reached a 96% average completion rate across the six semesters. The paper's sharpest claim is an [[academic-integrity|integrity]] reframing — once learning processes are visible, integrity becomes alignment between claimed and actual process rather than a matter for surveillance — while its evidence stays honestly where it belongs, in systematic observations from one instructor's practice rather than measured effects.
+
+## Key Findings
+
+1. **The prohibition-versus-permission binary fails the students these programs serve.** The authors argue that banning AI is unenforceable for working professionals who already use it in their jobs, prevents the very competencies graduate study should build, and rests on tools that Weber-Wulff and colleagues (2023) found inconsistent across fourteen instruments, with Turnitin missing about a quarter of unedited AI text.
+2. **Detection-based policy carries [[bias-mitigation|documented bias]].** Liang et al. (2023) found the same tools disproportionately flag writing by non-native English speakers and [[neurodiversity|neurodivergent]] students, which the authors convert into a policy question: not "Did you use AI?" but "How did you use it, and what did you learn from it?"
+3. **Five design principles are presented as one system.** Transparency, process documentation, authentic assessment, scaffolded autonomy, and metacognitive reflection are meant to reinforce each other — clear expectations, visible process, professional tasks, fading support, and reflection that outlives the course — rather than to be adopted one at a time.
+4. **Checkpoint documentation was near-universal, though depth varied.** Across six semesters averaging 73 students each (about 440 in total), checkpoint completion averaged 96%, submissions ran 300 to 600 words, and later iterations with explicit prompt templates produced longer and visibly more substantive reflections.
+5. **Grades spanned 57% to 96% under unlimited resubmission.** Because the course lets students correct and resubmit for the highest score, the authors read the upper end as a mastery-oriented grading policy rather than as evidence of learning gain, and note that improvement across attempts may reflect AI use they did not track.
+6. **Prompt templates target four moves.** Concept clarification, research design thinking, article evaluation, and application to the student's own classroom — for example, "Instead of defining it for me, help me figure it out by asking me questions about what I already know and where I'm confused."
+7. **Some students carried the questioning into their own classrooms.** Field notes record a [[special-education|special education teacher]] using AI-assisted literature search for an IEP meeting, a science teacher presenting a critical evaluation of a [[curriculum-design|district-mandated curriculum]] to her principal, and several students reporting Socratic questioning with their own pupils.
+
+## Why the compressed format drives the design
+
+The six-week format is an institutional constraint, not a pedagogical preference: these students cannot absorb fifteen-week semesters alongside full-time teaching. The authors cite Price (2024), who found accelerated-course students performing at least as well as traditional-length students on [[assessment|effort-based assessments]] while topic mastery declined, and Holzweiss, Polnick and Lunenburg (2019) on the focused intensity compressed online programs create for motivated adults. Their conclusion is that compression requires redesign rather than compression, and that AI dialogue extends instructional presence into hours an instructor cannot cover — the 10 p.m. window after a teacher has finished grading her own students' papers. The course also reorients research methods toward [[interpreting-and-applying-aied-research|intelligent research consumption]] rather than doctoral-style production, since these students will sit in faculty meetings where administrators propose AI mandates and vendors quote accuracy rates.
+
+## Reciprocal transparency is the mechanism, not a policy add-on
+
+Documentation here runs in both directions: students develop [[metacognition|metacognitive]] awareness of their own process, and instructors see where [[misconceptions|misconceptions]] arise and how understanding develops. The authors distinguish this from a disclosure requirement — a student who documents how Socratic dialogue clarified the difference between correlation and causation has produced evidence of learning, not compliance. It also matches professional habit, since these adults already document lesson plans, patient notes, and project reports. The design leans on Black and Tomlinson (2025), who found that students documenting AI use mostly distinguished AI-assisted editing from their own contributions, and on process-product assessment models that evaluate the decisions students make during [[human-ai-collaboration|human-AI interaction]] (Awadallah Alkouk and Khlaif, 2024). Under this account a student who accurately documents substantial AI assistance can still hold integrity, while one who conceals AI use and claims independent work does not.
+
+## Socratic dialogue as the interaction pattern
+
+The framework's core pedagogic move is to instruct students how to question rather than to detect when they have not. The authors ground it in Fakour and Imani (2025), who found ChatGPT functioning as a Socratic tutor, and in Favero et al. (2025), whose Socratic chatbot — designed to pose questions instead of answers — produced significantly higher scores than conventional [[conversational-ai|chatbots]] (p < .001). Supporting evidence is assembled for the surrounding design: Cai, Msafiri and Kangwa (2025) reviewed 158 empirical studies on AI-supported [[self-directed-learning|self-directed]] assessment and motivation; Gurung et al. (2025) found AI plus human tutoring outperforming AI alone on [[critical-thinking|critical thinking]]; Escalante, Pack and Barrett (2023) found no significant difference between AI and human tutor [[feedback|feedback]] on learning outcomes, which the authors use to justify reserving instructor time for [[evaluative-judgment|evaluative judgment]] while AI handles structural feedback on drafts. Knowles's (1984) andragogy and Adarkwah's (2024) extension of it into the generative AI era supply the adult-learning rationale for prompts that begin from the student's own classroom problem.
+
+## What six semesters showed, and what they cannot show
+
+The reported observations are systematic but not controlled: instructor field notes, review of checkpoint submissions, and course evaluations, with no comparison group and no standardized measures. Engagement varied in the way the authors expect. Some students wrestled with questions, documented confusion, and returned to concepts repeatedly; others optimized for the fastest path through required interactions, which the authors treat as rational triage by adults juggling teaching, family, and graduate study rather than as failure. Because assignments could be resubmitted until the score was maximal, the grade range (57% to 96%) is a policy artifact as much as a learning signal, and the authors say so. The transplant evidence is anecdotal by their own description — individual teachers applying frameworks in IEP meetings, district curriculum review, and their own questioning — and they close by calling for controlled comparisons, analysis of the checkpoint corpus, longitudinal follow-up, and [[equity-in-ai-education|equity research]] they did not conduct.
+
+## What this means for practice
+
+- **Instructors.** Replace prohibition language in the syllabus with documented process, and teach the questioning pattern explicitly: publish Socratic prompt templates, require checkpoint submissions that paste the initial prompt and describe what changed in the student's understanding, and grade the reasoning shown in that documentation rather than the polish of the product.
+- **Administrators.** Rewrite policy around "how did you use AI, and what did you learn" instead of "did you use AI," retire detection-tool contracts, and expect course redesign to cost roughly 15 to 20 hours per course before any ongoing adjustment; fund that time rather than assuming goodwill covers it.
+- **Faculty developers.** Treat AI capability as a prerequisite for teaching it: run hands-on development and standing communities of practice, and keep the distinction between AI and instructor roles explicit in course communication, because immediate AI replies can make expert feedback look redundant.
+
+## Limitations
+
+- The evidence comes from one instructor's routine teaching at one institution across six semesters, with no comparison group, no standardized outcome measures, and no student identification; the designer of the AI integration is also its evaluator.
+- The 96% figure measures checkpoint submission, not the depth or honesty of the reflection inside it, and the authors report that depth varied widely.
+- De-identified course records collected through normal educational practice meant no IRB approval was required, so there is no consent, attrition, or demographic detail against which to test [[differential-effects-across-learner-groups|differential effects]].
+- Access equity is unexamined: the authors assume working adults have sufficient connectivity while acknowledging that phone-only access, aging hardware, and first-time AI exposure are unmeasured, and they recommend building equity assessment into future implementations from the start.
+- Tool use is not tracked and the paper names ChatGPT and Claude without reporting which model versions students used or over what period, so the observations cannot be tied to a specific generation of AI capability.
+
+## Citation
+
+Packard, A., Fuller, R., Holmes, G., & Kayanuma, B. (2026). [*Teaching with AI, Not Against It: A Thinking Partner Framework for Working Adult Learners in Compressed Online Formats*](https://doi.org/10.67695/NLRP7634). *Online Journal of Distance Learning Administration, 29*(3).
 
 ---
 
