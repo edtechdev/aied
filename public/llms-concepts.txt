@@ -16518,6 +16518,7 @@ Feedback is best understood not as a single event but as a connected system of i
 - **[[formative-assessment]]** — the assessment context in which feedback is used to improve learning while it is still in progress, rather than merely to judge it.
 - **[[peer-assessment]]** — feedback exchanged between [[learners]], increasingly augmented by AI and a site for developing feedback literacy.
 - **[[automated-assessment]]** — AI-driven scoring and feedback, from [[automated-essay-scoring|automated essay scoring]] to confidence-aware short-answer grading.
+- **The parts trade off against each other.** Designing feedback means choosing among usability, sources and sustainability rather than maximizing all three; [[assessment-feedback-trilemma-model-2026|Pedlow et al. (2026)]] treat sustainability as the pole that must not depend on any single individual, resource or institutional condition.
 
 ### The feedback loop
 
@@ -16683,6 +16684,7 @@ Feedback is one of the most consequential and best-evidenced mechanisms in educa
 - [[zhao-ji-appraisal-human-ai-revisions-2026]] — What a revision does to the writer's stance: peer feedback turns argumentative essays more contractive, AI revision keeps the Contract/Expand balance (Zhao & Ji 2026)
 - [[xu-automated-feedback-tutor-training-2025]] — Improving automated feedback systems for tutor training in low-resource scenarios through data augmentation (Xu et al. 2025)
 - [[etq-ai-conversational-teacher-training-2026]] — Conversational AI diagnostic for teaching misconceptions with evidence-grounded dialogue (Miranda & Calvani 2026)
+- [[assessment-feedback-trilemma-model-2026]] — Names the trade-off among usability, sources and sustainability, making sustainability a design pole
 
 ---
 
@@ -17035,6 +17037,8 @@ Formative assessment in AI education connects to the learning process itself:
 
 Formative assessment systems can shift from learning-support tools to behavior-monitoring infrastructure. The same data streams that enable adaptive tutoring can enable punitive tracking if [[governance]] is weak. This connects to [[privacy]] and [[well-being|student well-being]], and argues for formative systems that support learning rather than surveil it.
 
+Observability can be designed for without surveillance: it is the evidence an assessment actually generates for defensible judgment about learning, treated as a design priority whose cost is paid in feasibility rather than ethics ([[assessment-feedback-trilemma-model-2026|Pedlow et al. (2026)]]).
+
 ## Implications for AI in education
 
 - **Match item type to AI reliability:** use AI for verifiable dimensions (concept alignment, correctness) and retain human judgment for instructional dimensions (distractor quality, feedback depth).
@@ -17109,6 +17113,7 @@ Formative assessment systems can shift from learning-support tools to behavior-m
 - [[student-llm-use-ai-question-difficulty-data-science-2026]] — Student Use of LLMs and the Limits of AI-Generated Question Difficulty in Data Science Courses
 - [[mcnamara-aim-cai-continuous-assessment-2026]] — AI-Mediated Continuous Assessment Infrastructure (AIM-CAI): Connecting Learning Evidence Across Contexts and Time (McNamara & Hasnine 2026)
 - [[etq-ai-conversational-teacher-training-2026]] — Conversational AI diagnostic for teaching misconceptions with evidence-grounded dialogue (Miranda & Calvani 2026)
+- [[assessment-feedback-trilemma-model-2026]] — Positive counterpart to the surveillance risk: observability as evidence design, not monitoring
 
 ---
 
@@ -17883,6 +17888,8 @@ Three findings cut against reading oral scores as learning gains. [[asynchronous
 
 The binding constraint is staffing and hardware rather than pedagogy, and the corpus is unusually candid about the arithmetic: twenty-eight contact-hours per semester for fifteen students, eleven teaching assistants for a class of over one hundred in the CS1 design, and one laptop serving twelve simultaneous learners in the offline vocational deployment. No randomized trial of oral against written assessment exists anywhere in this body of work, and every study that measures the difference is a single-institution design without a control group. Oral assessment is well supported as a response to AI-assisted substitution, and thinly supported as an improvement in learning.
 
+No format holds a fixed position in this trade-off: oral assessment's observability is a design choice, and its feasibility cost is one a program distributes rather than accepts — feasibility is an educational priority, not the constraint that erodes good practice ([[assessment-feedback-trilemma-model-2026|Pedlow et al. (2026)]]).
+
 The oral's integrity rationale is also time-limited: [[corbin-ai-glasses-wearable-ai-assessment-2026|Corbin et al. (2026)]] argue that AI glasses and earbuds can deliver covert real-time prompts inside a live viva, because wearable AI produces no gaze shift or detectable signal, so interactive orals are no longer immune.
 
 
@@ -17917,6 +17924,7 @@ The oral's integrity rationale is also time-limited: [[corbin-ai-glasses-wearabl
 - [[ai-standardized-patient-scaffolding-medical-2026]] — Spoken clinical interviews under a simulated-patient system
 - [[pgr-students-genai-uses-qualitative-2026]] — The doctoral viva under generative AI
 - [[computing-assessment-genai-workshop-report-2026]] — AI Can Do Your Homework. Now What? Report from an online workshop on computing assessment in the age of generative AI
+- [[assessment-feedback-trilemma-model-2026]] — Denies any format a fixed position and reframes feasibility as an educational priority
 
 ---
 
