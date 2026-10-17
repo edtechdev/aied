@@ -1,7 +1,7 @@
 ---
 title: Motivation
 created: "2026-08-10T17:38:45-04:00"
-updated: "2026-10-16T08:47:09-04:00"
+updated: "2026-10-17T07:38:51-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [motivation, self-determination-theory, student-engagement]
@@ -35,6 +35,7 @@ Motivation is a foundational construct in education research, and the rise of AI
 
 A 42-study meta-analysis (56 effect sizes, 6,059 students) found GenAI-supported learning raised motivation by Hedges' g = 0.764 (95% CI [0.566, 0.962]) — but with I² = 93.7% and a 95% prediction interval of [−0.689, 2.217], the average conceals settings where the effect is near zero or negative ([[genai-learning-motivation-meta-analysis-2026|Fang et al. (2026)]]).
 - **Unreflective use erodes motivation — more so for men.** Thoughtless GenAI use (accepting answers unexamined) predicted lower motivation (β = −0.54) and lower [[self-efficacy]] (β = −0.37) among 487 undergraduates, and the motivation effect was significantly stronger for male students while the self-efficacy effect was stronger for female students ([[genai-thoughtless-use-self-directed-learning-2026|Zhao & Gu, 2026]]).
+- **Cutting frustration is not the same as sustaining motivation.** A three-arm [[rct|RCT]] found a scaffolded tutor and unrestricted ChatGPT cut frustration equally (3.21 and 3.13 vs 4.09), but only the scaffolded tutor raised intrinsic motivation (2.82 vs 2.42, p < .001); ChatGPT did not (2.64, p = .076) ([[bassner-performance-learning-dissociation-ai-programming-2026|Bassner et al. (2026)]]).
 
 Why a reader reaches for AI is itself a measurable variable: the AIR scale resolves four motives for GenAI-assisted reading — Task-oriented, Feel-good, Translation and Low-effort — and only Low-effort, using AI when tired or disengaged, was negatively related to need for cognition (r = −.18) ([[air-scale-motivations-ai-reading-2026|Brann, Etgar and Sidi (2026)]]).
 
@@ -113,3 +114,4 @@ Motivation is the parent construct of [[self-determination-theory]], which speci
 - [[genai-learning-motivation-meta-analysis-2026]] — Random-effects meta-analysis of GenAI's effect on learning motivation (56 effect sizes, 6,059 students)
 - [[ai-student-motivation-scoping-review-2026]] — 156 studies on AI and student motivation: 85.3% used no motivational theory, and coverage is narrow in construct, level, and country
 - [[gai-advocacy-practice-art-education-2026]] — Policy-practice gaps in GAI advocacy act as a stressor students appraise
+- [[bassner-performance-learning-dissociation-ai-programming-2026]] — Scaffolded tutor raised intrinsic motivation where unrestricted ChatGPT did not
