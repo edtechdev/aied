@@ -7235,3 +7235,38 @@
   - sustainability
   - theories-and-frameworks
   reason: 'Conceptual paper proposing the Dual Trilemma Framework (assessment: authenticity, observability, feasibility; feedback: usability, sources, sustainability), with no empirical data. Integrated three: formative-assessment gained the positive counterpart to its own surveillance-risk section (observability = the evidence an assessment generates for defensible judgment, explicitly not monitoring, with the cost paid in feasibility rather than ethics); oral-assessment gained the denial that any format holds a fixed position on the trilemma plus feasibility as an educational priority rather than the binding constraint; feedback gained the trade-off itself (usability, sources and sustainability cannot all be maximized) after its dismissal was checked and failed — grep ''trade-off|competing|priorit|tension|usab|sustainab'' returned 0 hits on a page that frames feedback as a system of parts but never as competing priorities. The other 21 candidates were dismissed against prior coverage with grep evidence: assessment-validity already carries evidence-for-inference and the product-process gap (evidence 26 hits, inference 13, observability 3), evaluative-judgment already argues judgment should be made visible without surveillance, authentic-assessment already states authenticity must be redesigned not policed, peer-assessment already treats peer feedback as one quality-dependent source among complementary ones, curriculum-design already sequences AI at program level (''refrain, then amplify''). Four dismissals are 0-hit and honest about it: accessibility and inclusive-learning are named in the source as unresolved limitations rather than trilemma dimensions, sustainability on that concept page means environmental/institutional sustainability, and theories-and-frameworks would gain only a new label for trade-off reasoning. Generative-ai is a technology overview the paper treats only as the occasion for the argument.'
+- article: bassner-performance-learning-dissociation-ai-programming-2026
+  date: 2026-10-17
+  integrated:
+  - motivation
+  - productive-failure
+  - self-determination-theory
+  no_change:
+  - agency
+  - ai-feedback-quality
+  - assessment
+  - assessment-validity
+  - automated-assessment
+  - cognitive-offloading
+  - cognitive-psychology
+  - cognitive-surrender
+  - cs-education
+  - educational-measurement
+  - educational-policy-ai
+  - feedback
+  - framing-ai-use-for-students
+  - generative-ai
+  - higher-ed
+  - human-ai-collaboration
+  - intelligent-tutoring
+  - learning-gains
+  - llm
+  - metacognition
+  - problem-solving
+  - quantitative-research
+  - rct
+  - scaffolding
+  - summative-assessment
+  - transfer-of-learning
+  - trust-calibration
+  reason: 'Three-arm RCT in a TUM CS1 course (N=275 after cleaning from 452): Iris (calibrated hints withholding solutions) vs unrestricted ChatGPT vs no-AI control, 90-minute Java concurrency exercise. Integrated three: motivation gained the two-tool field contrast that frustration reduction and intrinsic-motivation gain dissociate (both AI arms cut frustration equally - 3.21 and 3.13 vs 4.09 - but only the hint-withholding tutor raised intrinsic motivation, 2.82 vs 2.42, p < .001, ChatGPT 2.64, p = .076); self-determination-theory gained the autonomy mechanism behind that split as a controlled result (withholding the answer kept learners building their own solution); productive-failure gained the preference cost of withholding (matched on frustration, only arm to raise motivation, yet students rated the answer-giving tool easier, p = .003, and more helpful, p = .004). The other 27 candidates were dismissed against prior coverage with grep evidence: learning-gains is saturated with the performance-vs-learning dissociation and the PNAS guardrail RCT (unguarded tutor raising assisted practice while lowering unassisted exam scores), assessment already states that generative AI has severed the inference between performance and underlying ability, assessment-validity already cites performance-vs-learning research in its construct-validity bullet, cognitive-offloading already carries the product-process dissociation with equal immediate performance, cs-education already documents that CS efficiency gains do not transfer to unaided performance, generative-ai already distinguishes effectiveness claims from learning, and metacognition already explains the fluency illusion that underlies the comfort trap. cognitive-surrender, trust-calibration and framing-ai-use-for-students are dismissed because the study measured none of their constructs: no verification, override or acceptance measure, no trust measure, and the manipulation was tool design rather than student-facing framing.'
