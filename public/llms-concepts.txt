@@ -5545,6 +5545,7 @@ Whatever combination an instructor chooses, one constraint should shape it. Onli
 - **Embed AI in the learning environment, not as an external bolt-on.** Purpose-built, contextually-tuned assistants embedded in the course (like [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of|AIDA]]) outperform generic external chatbots and increase acceptance.
 - **Calibrate AI facilitation toward human caution.** When using AI to moderate discussions, prefer settings that intervene sparingly ([[llm-facilitation-timing-online-discussions|Tsirmpas et al.]]).
 - **Design for adult life constraints.** For adult and distance learners, prioritize mobile access, offline capability, and asynchronous availability ([[ai-adult-learning-guidelines-dis2026|AI-ALOE guidelines]]).
+- **Compressed formats need redesign, not compression.** Six-week asynchronous graduate courses for working teachers are an institutional constraint requiring purposeful redesign rather than a fifteen-week course compressed, and AI dialogue carries instructional presence into the late hours an instructor cannot staff [[packard-thinking-partner-framework-adult-learners-2026|Packard et al. (2026)]].
 - **Co-design with students and staff, and build governance.** Participatory development, senior sponsorship, cross-unit collaboration, and robust [[governance]] are enabling factors for responsible GenAI adoption.
 - **Assume an agent will attempt every unproctored activity, and design from that assumption.** The three-question test is quick and exposes weak activities: could an AI system complete this without the student understanding the material; what cognitive activity is supposed to produce the learning; what evidence will show the student performed it. When the first answer is yes and the other two are hard to answer, the problem is the learning design rather than the AI policy.
 - **Keep verification proportionate to the risk.** Where competence must be certified, prefer a twin task, an asynchronous oral defense or a short comprehension check over blanket monitoring; keep the rest of the course flexible for the learners who depend on that flexibility.
@@ -5604,6 +5605,7 @@ Whatever combination an instructor chooses, one constraint should shape it. Onli
 - [[hao-peer-exposure-bridging-social-capital-ai-summaries-2026]] — AI-Generated Summary-Driven Learning Design in Online Discussion Forums
 - [[ai-training-science-teacher-tpack-distance-2026]] — Campus-based student teachers reported higher TPACK for AI-integrated science teaching than distance education peers (64.0% versus 47.4%)
 - [[cheng-symbiotic-role-design-human-genai-collaboration-2026]] — Role design is the intervention, not the tool
+- [[packard-thinking-partner-framework-adult-learners-2026]] — Six-week asynchronous graduate courses for working teachers: redesign the format rather than compress it
 
 ---
 
@@ -6046,6 +6048,8 @@ Cognitivism is arguably the theory most responsible for AI in education existing
 
 Cognitive Load Theory (CLT) is the most widely applied cognitivist framework in [[learning-design|instructional design]]: it distinguishes intrinsic load (task complexity), extraneous load (presentation friction), and germane load (schema-building effort). Well-designed AI should reduce extraneous load while preserving germane processing; poorly integrated AI reduces all three, leaving completed tasks with empty learning. CLT's working-memory framing is also central to debates about [[cognitive-offloading]] — whether AI reduces harmful extraneous load or short-circuits the germane processing that produces learning.
 
+Load tracked how effort was organized, not how much was spent: among 67 pre-service teachers designing lesson plans with GenAI, the higher-quality group did not differ on reported effort (2.85 vs 3.26) yet reported lower mental demand (3.09 vs 4.03) and frustration (2.12 vs 3.82) ([[fang-human-ai-collaboration-patterns-instructional-design-2026|Fang et al. (2026)]]).
+
 Mayer's Cognitive Theory of Multimedia Learning (CTML) applies the same working-memory assumptions to the materials themselves, and its prescriptions are unusually concrete: learners do better from words and pictures together than from words alone, when extraneous material is excluded, when a lesson is segmented and user-paced rather than presented as one continuous unit, when corresponding words and pictures appear near and at the same time, and when narration is conversational and in a friendly human voice rather than formal or machine-generated.
 
 ### Cognitivism vs. behaviorism and constructivism
@@ -6095,6 +6099,7 @@ Mayer's Cognitive Theory of Multimedia Learning (CTML) applies the same working-
 - [[nie-personavlm-long-term-personalization-2026]] — LLM student modeling and memory
 - [[ai-cognitive-partner-co-regulation-learning]] — AI as a cognitive partner in co-regulated learning
 - [[ensemble-cognition-philosophy-ai-education]] — Ensemble Cognition: thinking as human–AI interaction
+- [[fang-human-ai-collaboration-patterns-instructional-design-2026]] — Effort organization, not effort amount, tracked load and frustration
 
 ---
 
@@ -9947,6 +9952,7 @@ Prompt engineering is central to effective [[generative-ai]] use in education. U
 - **Prompt cognition tracks the discipline, not the student.** [[student-ai-conversations-cognitive-engagement-2026|Chang and Li (2026)]] classified 60,087 prompts from 116 courses and found Bloom-level profiles differed by discipline — STEM Apply-prevalent (20.8%), social science Create-prevalent (33.8%) — with course-level variance exceeding student-level variance.
 - **Prompting as literacy:** [[tracing-genai-literacy-interaction-patterns|Tracing GenAI literacy]] and [[aaai2026-prompting-literacy-k12|K-12 prompting literacy]] research frame prompting as a core [[ai-literacy]] component
 - **Novices default to trial and error, and blame the model.** In a text-linguistics seminar, ten genAI novices refined prompts by trial and error, rarely reached for in-context examples, and overwhelmingly attributed poor outputs to the LLM rather than their own prompt formulation ([[llms-text-linguistics-teaching-2026|Brocca & Garassino (2026)]]).
+- **Vague prompts leave a trace in the dialogue.** The lower-quality group's signature was a self-repeating clarification loop (IC→IC, Z = 3.25), traced to vague prompts and AI misreadings, and carrying the study's largest frustration gap (2.12 vs 3.82); prompt debugging on authentic logs targets it as it happens ([[fang-human-ai-collaboration-patterns-instructional-design-2026|Fang et al. (2026)]]).
 
 
 - **When the instructor models the prompt, students reuse it verbatim.** Among 310 recorded prompts from twelve middle-school STEAM groups, exact copying of the instructor's instruction was the most frequent student standpoint at 47.1%, ahead of spontaneous inquiry at 28.7% ([[middle-school-genai-steam-interactions-2026|Zhao & Li (2026)]]).
@@ -10031,6 +10037,7 @@ Prompt engineering connects to [[scaffolding]] — well-designed prompts can sca
 
 - [[middle-school-genai-steam-interactions-2026]] — Middle-school STEAM groups copied the instructor's instruction verbatim in 47.1% of prompts
 - [[ecd-prompts-automated-essay-scoring-2026]] — Using Evidence-Centered Design to Guide Prompt Engineering in Measurement: An Illustration with Automated Essay Scoring
+- [[fang-human-ai-collaboration-patterns-instructional-design-2026]] — Vague prompts produced self-repeating clarification loops with the largest frustration gap
 
 ---
 
@@ -15819,6 +15826,7 @@ Adult learning sits at the intersection of several closely linked concepts in th
 
 - **Design AI as a scaffold for self-direction, not a substitute.** Behavioral independence from the tool doesn't prove the learner directed the learning — protect goal ownership, delegation control, and cognitive recoverability ([[andragogy-cognitive-delegation-genai-2026|andragogy + cognitive delegation]]).
 - **Fit into busy adult lives.** Make tools asynchronous, mobile, and offline-capable, and connect content to real-world problems ([[ai-adult-learning-guidelines-dis2026|AI-ALOE guidelines]]).
+- **Design for a range of engagement, not assumed depth.** Working adults triage limited cognitive resources across jobs, families and coursework, so a six-semester framework made Socratic AI dialogue more rewarding than the fast route rather than mandatory [[packard-thinking-partner-framework-adult-learners-2026|Packard et al. (2026)]].
 - **Keep a human in the loop.** Position the educator as the locus of relational and cognitive care, especially for marginalized and [[neurodiversity|neurodivergent]] adult learners ([[sovereign-hive-titl-further-education-2026|Tutor-in-the-Loop]]).
 - **Address foundational digital literacy and data trust.** Build [[ai-literacy]] and [[trust]] around data privacy before expecting adoption ([[community-centered-ai-education-adults|community AI education]]).
 - **Ground AI in learning science and andragogy, and prefer deep personalization.** Apply andragogical theory and connect content to real-world problems; favor deep personalization (task sequencing, difficulty calibration) over surface-level adaptation.
@@ -15868,6 +15876,7 @@ Adult learning sits at the intersection of several closely linked concepts in th
 - [[dot-framework-survey-2026]]
 - [[kim-ai-productive-failure-adult-2026]] — Designing AI Systems to Support Productive-Failure-Based Learning
 - [[kim-ai-andragogy-2026]] — AI Applications in Supporting Andragogy (Kim et al. 2026)
+- [[packard-thinking-partner-framework-adult-learners-2026]] — Design for a range of engagement: make deep Socratic dialogue the more rewarding path
 
 ---
 
@@ -16080,6 +16089,7 @@ Beyond content and beliefs, teacher preparation increasingly uses **simulated cl
 - **Make GenAI [[assessment|assessment design]] part of professional curriculum work.** Student teachers in [[zou-is-this-a-trap-student-teachers-genai-2026|Zou et al. (2026)]] showed little intention of redesigning their own future school assessments in response to generative AI, and the [[early-childhood-elementary-ai-education|kindergarten]] and secondary participants largely judged the technology irrelevant to their own teaching context — an underdeveloped dimension of assessment literacy rather than a knowledge gap. Teacher-education programs should therefore embed ethical GenAI use in assessment design as part of professional [[curriculum-design|curriculum]], pairing [[educational-policy-ai|program-level policy]] consistency with concrete exemplars of acceptable and unacceptable use and timely [[feedback]] on students' actual AI use.
 - **Separate delegable from non-delegable work.** [[obyrne-co-constructing-ai-boundaries-agency-judgment-2026|O'Byrne (2026)]] found 23 undergraduates, most pre-service teachers, produced comparable artifacts whether they sustained boundary work or delegated it early, and the "cheating tension" over authorship was strongest among those doing the most boundary work — so the teaching aim is judging which interpretive work not to hand over.
 - **Make classroom policy writing a core teacher-education activity, and treat ambiguity as a policy defect.** [[nash-preservice-teachers-classroom-ai-policies-2026|Nash & Burriss (2026)]] found that asking preservice teachers to write their own classroom AI policies functions as rhetorical world-building about what writing is for — a window into emergent beliefs that abstract discussion does not open. Because AI separates writing-as-product from writing-as-process, programs should help teachers locate where thinking, learning, and value actually live across brainstorming, drafting, revising, and editing rather than locating thinking only in final text, and should support them in translating beliefs into operational, unambiguous rules paired with [[ai-literacy]] instruction: contradictions such as barring AI-generated text while holding students responsible for the AI-generated content they submit leave students unable to comply.
+- **Teach teachers to read the primary research behind AI policy.** A six-week graduate research-methods course aimed at research consumption rather than production: one teacher applied the critical-evaluation framework to a district-mandated curriculum and presented the analysis to her principal, and several adopted Socratic questioning with their own students [[packard-thinking-partner-framework-adult-learners-2026|Packard et al. (2026)]].
 
 ## Connected Concepts
 
@@ -16138,6 +16148,7 @@ Beyond content and beliefs, teacher preparation increasingly uses **simulated cl
 - [[unscaffolded-genai-preservice-teachers-quasi-experiment-2026]] — Unscaffolded genAI lowered pre-service teachers' lesson-plan quality below the no-genAI class
 - [[capability-decision-model-teacher-readiness-2026]] — Measure capability rather than confidence
 - [[heutagogical-teaching-ai-enhanced-education-2026]] — A heutagogical dual-layer model linking teachers' own reflective regulation to learner agency
+- [[packard-thinking-partner-framework-adult-learners-2026]] — K-12 teachers learning to read primary AI research and contest district mandates
 
 ---
 
@@ -16411,6 +16422,7 @@ The knowledge base's [[collaborative-learning|collaborative]] and assessment lit
 - **The institution's own judgment lacks the criteria it asks students to meet.** [[munoz-misconduct-allegation-evidence-2026|Munoz et al. (2026)]] rated the probative value of 1,855 evidence items across 1,162 generative-AI misconduct allegations and found that evidence quality bore no reliable relationship to case outcomes, because no stage of the procedure set a minimum evidentiary threshold or required investigators to weigh probative value before progressing an allegation — panels weighed evidence through unstructured professional judgment. Detector output was the weakest category in that corpus (standalone detector outputs wholly low in credibility), and [[hadra-ai-detector-accuracy-efl-2026|Hadra et al. (2026)]] show the instrument cannot establish the fact a finding asserts — macro accuracy of 0.69 and 0.61 across 192 texts, near-total failure on hybrid human–AI writing, and a borderline bias concern for EFL writers — which is why the authors' own recommendation is human judgment, clearer [[educational-policy-ai|policy]] and better-specified tasks rather than surveillance. Better-specified matters twice over: [[wright-transcription-not-generation-2026|Wright (2026)]] argues that rules written by platform identity rather than function are over-inclusive by definitional accident, sanctioning a student who did not do the thing the rule was designed to prevent, so the assessor's judgment has to be applied to what a tool did rather than to which platform was used. Judgment exercised without shared criteria cannot be taught, calibrated or audited — the consistency problem this page reports for students, arriving at the level of the institution. Evaluator judgment also carries a measurable direction of its own: five admissions officers separating 50 human from 50 AI admissions essays reached AUC 0.70 (95% CI [0.65, 0.75]), and their quality ratings fell as perceived AI-likelihood rose, an association that survived adjustment for machine-rated quality, actual provenance and applicant characteristics (−0.109, p < .05). Because nobody screened the submissions, that unaided judgment was the entire enforcement mechanism, and each flagged essay carried 1.5 percentage points less admission probability, 2.6 once essay quality was held constant ([[ai-written-admissions-essays-penalized-2026|Isley, Gaebler and Goel 2026]]).
 
 - **Classroom-level proxies for judgment are being proposed.** [[austin-ai-agents-assignment-redesign-2026|Austin (2026)]] adds two behavioral signals to a redesigned assignment sequence: the UnBlooms™ *Discernment Rate*, the share of AI outputs a learner interrogates, challenges or revises rather than accepts, and the *First-Pass Acceptance Rate*. Neither is validated — both are offered as cheap per-assignment diagnostics — but they make the construct observable inside ordinary grading, where a near-zero discernment rate across several assignments reads as a task-design signal rather than an individual deficit.
+- **Judgment registers when wired to revision, not merely present.** In 67 pre-service teachers designing lesson plans with GenAI, explicit evaluation was near-absent in the lower-quality group (0.67 vs 0.00); what separated quality was a bidirectional evaluation–revision cycle (CE→RE Z = 2.80, RE→CE Z = 2.50) and a revision self-loop (RE→RE Z = 4.24) ([[fang-human-ai-collaboration-patterns-instructional-design-2026|Fang et al. (2026)]]).
 
 ## How misuse displaces judgment
 
@@ -16473,6 +16485,7 @@ The clearest risk is displacement, and it is evidenced in the feedback literatur
 - [[obyrne-co-constructing-ai-boundaries-agency-judgment-2026]] — the Agency Check (credible, relevant, acceptable, nuanced) that structures each AI interaction
 
 - [[judgment-centred-software-engineering-education-2026]] — A Post-Hype Review and Framework for AI-Augmented Software Engineering Education
+- [[fang-human-ai-collaboration-patterns-instructional-design-2026]] — Judgment separated quality only when wired to revision (Z = 2.80 and 2.50)
 
 ---
 
@@ -17361,6 +17374,8 @@ Practitioner and framework accounts fill in the artifacts. Uden and Hwang's (202
 
 Concrete tooling is emerging: [[stepwise-teacher-diagnosis-math-2026|Kim et al. (2026)]] operationalize problem solving as four stages and eight diagnostic sub-skills so an LLM can generate stage-specific questions and rubrics; five teachers and 64 students used the system on 90 problems and 720 sub-questions, with a mean System Usability Scale score of 83.5.
 
+Required documentation proved feasible at course scale: across six semesters of six-week asynchronous graduate research-methods courses serving approximately 440 K-12 teachers, checkpoint submissions averaged 96% completion, and later iterations that added explicit prompt templates produced longer and visibly more substantive reflections [[packard-thinking-partner-framework-adult-learners-2026|Packard et al. (2026)]].
+
 ## A different axis from authenticity, and from marking
 
 Holding the axes apart matters, because conflating them is how a redesign looks done while the exposure remains. Sharma (2026) makes the complementary distinction between authenticity and integrity-oriented design: authenticity asks whether a task mirrors worthwhile practice, while integrity-oriented design asks whether learners can justify their decisions and assume responsibility in relation to disciplinary standards, which is why the practices he offers — annotated decision trails, verification of GenAI-contributed claims, oral defense, draft differences with version history — are selected for the [[evaluative-judgment|judgment]] they make visible rather than for their realism. Espino and Espino's (2026) ten-year review of [[business-education|business education]] reaches the same design conclusion from the literature side, finding the field converging on authentic, process-visible tasks that require interpretation, contextual application, and iterative refinement, and treating isolated tool adoption inside unchanged assessment structures as its most persistent failure.
@@ -17414,6 +17429,7 @@ Thapa and Lewis's account is conceptual: no participants, no data collection, an
 - [[drafttrace-ai-writing-analytics-2026]] — DraftTrace: A Multi-View Analytics Environment for AI-Integrated Writing
 - [[epistemic-ownership-ai-mediated-education-2026]] — Same Performance, Different Process: Epistemic Ownership in AI-Mediated Education
 - [[stepwise-teacher-diagnosis-math-2026]] — STEPwise: Supporting Teachers in Diagnosing Students' Mathematical Problem-Solving Skills through LLM-Generated Questions
+- [[packard-thinking-partner-framework-adult-learners-2026]] — Checkpoint documentation of AI dialogue held at 96% completion across six semesters and about 440 teachers
 
 ---
 
@@ -21663,6 +21679,8 @@ Change management in AI education carries both positive and negative implication
 
 An institutional case study traces a decade-long diffusion arc in undergraduate mathematics, moving from individual initiative and peer workshops to joint faculty licensing and central funding ([[flipped-classroom-ai-assessment-math-2026|Law, 2026]]).
 
+Course redesign carries a cost institutions should budget, not assume: adopting an AI-integrated course ran to roughly 15 to 20 hours of redesign work per course before any ongoing adjustment [[packard-thinking-partner-framework-adult-learners-2026|Packard et al. (2026)]].
+
 ## Connections to other concepts
 
 Change management is the institutional complement to classroom-level integration. It operationalizes the systemic conditions — governance, faculty development, stakeholder [[student-engagement|engagement]], and equity safeguards — that allow pedagogical innovation to take hold, connecting [[educational-policy-ai]] policy design to [[governance]], [[educational-development]], and [[equity-in-ai-education]] outcomes.
@@ -21696,6 +21714,7 @@ Change management is the institutional complement to classroom-level integration
 - [[instruction-partners-ai-in-action-learning-tour-2026]] — cross-system fieldwork on how implementation and teacher actions decide whether an AI product helps
 - [[dot-framework-survey-2026]] — survey evidence that professional development must cover a full design cycle rather than tool use alone
 - [[flipped-classroom-ai-assessment-math-2026]] — A decade-long diffusion arc from individual initiative to central funding in undergraduate mathematics (Law 2026)
+- [[packard-thinking-partner-framework-adult-learners-2026]] — Budget 15 to 20 hours of redesign per AI-integrated course before ongoing adjustment
 
 ---
 
