@@ -1,7 +1,7 @@
 ---
 title: Formative Assessment
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-10-15T08:25:00-04:00"
+updated: "2026-10-17T03:49:06-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [scaffolding]
@@ -100,6 +100,8 @@ Formative assessment in AI education connects to the learning process itself:
 
 Formative assessment systems can shift from learning-support tools to behavior-monitoring infrastructure. The same data streams that enable adaptive tutoring can enable punitive tracking if [[governance]] is weak. This connects to [[privacy]] and [[well-being|student well-being]], and argues for formative systems that support learning rather than surveil it.
 
+Observability can be designed for without surveillance: it is the evidence an assessment actually generates for defensible judgment about learning, treated as a design priority whose cost is paid in feasibility rather than ethics ([[assessment-feedback-trilemma-model-2026|Pedlow et al. (2026)]]).
+
 ## Implications for AI in education
 
 - **Match item type to AI reliability:** use AI for verifiable dimensions (concept alignment, correctness) and retain human judgment for instructional dimensions (distractor quality, feedback depth).
@@ -174,3 +176,4 @@ Formative assessment systems can shift from learning-support tools to behavior-m
 - [[student-llm-use-ai-question-difficulty-data-science-2026]] — Student Use of LLMs and the Limits of AI-Generated Question Difficulty in Data Science Courses
 - [[mcnamara-aim-cai-continuous-assessment-2026]] — AI-Mediated Continuous Assessment Infrastructure (AIM-CAI): Connecting Learning Evidence Across Contexts and Time (McNamara & Hasnine 2026)
 - [[etq-ai-conversational-teacher-training-2026]] — Conversational AI diagnostic for teaching misconceptions with evidence-grounded dialogue (Miranda & Calvani 2026)
+- [[assessment-feedback-trilemma-model-2026]] — Positive counterpart to the surveillance risk: observability as evidence design, not monitoring
