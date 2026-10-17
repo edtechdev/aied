@@ -1,7 +1,7 @@
 ---
 title: "Teaching with AI, Not Against It: A Thinking Partner Framework for Working Adult Learners in Compressed Online Formats"
-created: "2026-10-16T15:40:00-04:00"
-updated: "2026-10-16T15:40:00-04:00"
+created: "2026-10-16T19:36:40-04:00"
+updated: "2026-10-17T07:09:05-04:00"
 type: article
 sources: ['raw/papers/10.67695_NLRP7634.md']
 confidence: medium

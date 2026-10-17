@@ -1,7 +1,7 @@
 ---
 title: "Trade-offs in assessment and feedback design: a trilemma-based model"
-created: "2026-10-16T21:40:00-04:00"
-updated: "2026-10-16T21:40:00-04:00"
+created: "2026-10-17T03:41:52-04:00"
+updated: "2026-10-17T07:09:05-04:00"
 type: article
 sources: ['raw/papers/assessment-feedback-trilemma-model-2026.md']
 confidence: medium
