@@ -2,7 +2,7 @@
 connected_resources: [clarity, pedagogical-promptbook, snorkl]
 title: Feedback
 created: "2026-08-15T19:02:13-04:00"
-updated: "2026-10-15T08:25:00-04:00"
+updated: "2026-10-17T03:49:06-04:00"
 type: concept
 assessment: [ai-feedback-quality, assessment, automated-assessment, feedback, feedback-literacy, formative-assessment, peer-assessment]
 connected_faqs: [developing-ai-tutor, ai-feedback-at-scale]
@@ -37,6 +37,7 @@ Feedback is best understood not as a single event but as a connected system of i
 - **[[formative-assessment]]** — the assessment context in which feedback is used to improve learning while it is still in progress, rather than merely to judge it.
 - **[[peer-assessment]]** — feedback exchanged between [[learners]], increasingly augmented by AI and a site for developing feedback literacy.
 - **[[automated-assessment]]** — AI-driven scoring and feedback, from [[automated-essay-scoring|automated essay scoring]] to confidence-aware short-answer grading.
+- **The parts trade off against each other.** Designing feedback means choosing among usability, sources and sustainability rather than maximizing all three; [[assessment-feedback-trilemma-model-2026|Pedlow et al. (2026)]] treat sustainability as the pole that must not depend on any single individual, resource or institutional condition.
 
 ### The feedback loop
 
@@ -202,3 +203,4 @@ Feedback is one of the most consequential and best-evidenced mechanisms in educa
 - [[zhao-ji-appraisal-human-ai-revisions-2026]] — What a revision does to the writer's stance: peer feedback turns argumentative essays more contractive, AI revision keeps the Contract/Expand balance (Zhao & Ji 2026)
 - [[xu-automated-feedback-tutor-training-2025]] — Improving automated feedback systems for tutor training in low-resource scenarios through data augmentation (Xu et al. 2025)
 - [[etq-ai-conversational-teacher-training-2026]] — Conversational AI diagnostic for teaching misconceptions with evidence-grounded dialogue (Miranda & Calvani 2026)
+- [[assessment-feedback-trilemma-model-2026]] — Names the trade-off among usability, sources and sustainability, making sustainability a design pole

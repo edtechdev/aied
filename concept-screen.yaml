@@ -7206,3 +7206,32 @@
   - student-ai-interaction
   - teacher-education
   reason: 'Two-round lag-sequential study of 67 pre-service teachers designing lesson plans with DeepSeek-V2.5, groups formed by a median split on plan quality. Integrated three: cognitive-psychology gained the claim that perceived load and frustration track how effort is organized rather than how much is spent (the groups did not differ on reported effort, 2.85 vs 3.26, p = 0.074, yet differed on mental demand 3.09 vs 4.03 and frustration 2.12 vs 3.82); evaluative-judgment gained the observed behavioral signature, judgment that pulls revision forward (CE→RE Z = 2.80, RE→CE Z = 2.50, RE→RE Z = 4.24) with explicit evaluation near-absent in the lower-quality group (0.67 vs 0.00); prompt-engineering gained the prompt-failure trace (IC→IC Z = 3.25, the lower-quality group''s unique significant transition), integrated after a dismissal that returned 0 hits for ''clarification|re-prompt|rephras'' was rejected as unbacked - the page carries prompting as technique but nothing on prompt failure modes. The other 15 candidates were dismissed against prior coverage with grep evidence: student-ai-interaction already hosts a lag sequential analysis with a Query-Evaluation-Query cycle and shallow self-transition loops (line 54), human-ai-collaboration already states that who generates and decides is the sharpest predictor of whether collaboration helps (line 39), metacognition already separates where attention sits from how much effort a turn shows and carries NASA-TLX effort miscalibration, ai-literacy already treats critical evaluation of AI output (9 hits), assessment-validity already covers rubric and inter-rater reliability (5 hits), self-report-measures already documents self-report/behavior divergence (51 hits), cognitive-offloading already models offloading as conditional (91 hits), and teacher-education already covers pre-service GenAI lesson planning (31 hits). Generative-ai and llm are technology pages that the sequence findings do not change.'
+- article: assessment-feedback-trilemma-model-2026
+  date: 2026-10-16
+  integrated:
+  - feedback
+  - formative-assessment
+  - oral-assessment
+  no_change:
+  - academic-integrity
+  - accessibility
+  - ai-detection
+  - assessment-validity
+  - authentic-assessment
+  - automated-assessment
+  - career-development-and-readiness
+  - curriculum-design
+  - educational-measurement
+  - educational-policy-ai
+  - evaluative-judgment
+  - feedback-literacy
+  - generative-ai
+  - higher-ed
+  - inclusive-learning
+  - learning-design
+  - peer-assessment
+  - self-assessment
+  - student-engagement
+  - sustainability
+  - theories-and-frameworks
+  reason: 'Conceptual paper proposing the Dual Trilemma Framework (assessment: authenticity, observability, feasibility; feedback: usability, sources, sustainability), with no empirical data. Integrated three: formative-assessment gained the positive counterpart to its own surveillance-risk section (observability = the evidence an assessment generates for defensible judgment, explicitly not monitoring, with the cost paid in feasibility rather than ethics); oral-assessment gained the denial that any format holds a fixed position on the trilemma plus feasibility as an educational priority rather than the binding constraint; feedback gained the trade-off itself (usability, sources and sustainability cannot all be maximized) after its dismissal was checked and failed — grep ''trade-off|competing|priorit|tension|usab|sustainab'' returned 0 hits on a page that frames feedback as a system of parts but never as competing priorities. The other 21 candidates were dismissed against prior coverage with grep evidence: assessment-validity already carries evidence-for-inference and the product-process gap (evidence 26 hits, inference 13, observability 3), evaluative-judgment already argues judgment should be made visible without surveillance, authentic-assessment already states authenticity must be redesigned not policed, peer-assessment already treats peer feedback as one quality-dependent source among complementary ones, curriculum-design already sequences AI at program level (''refrain, then amplify''). Four dismissals are 0-hit and honest about it: accessibility and inclusive-learning are named in the source as unresolved limitations rather than trilemma dimensions, sustainability on that concept page means environmental/institutional sustainability, and theories-and-frameworks would gain only a new label for trade-off reasoning. Generative-ai is a technology overview the paper treats only as the occasion for the argument.'
