@@ -1,7 +1,7 @@
 ---
 title: Self-Determination Theory
 created: "2026-08-10T17:38:45-04:00"
-updated: "2026-09-30T12:53:22-04:00"
+updated: "2026-10-17T07:38:51-04:00"
 type: concept
 foundations: [ai-education, teacher-ai-competency]
 pedagogy: [motivation, self-determination-theory]
@@ -34,6 +34,8 @@ SDT is increasingly used in AI in education [[research-methods-aied|research]] a
 
 
 A contrasting classroom result shows the needs do not move together: among 2,464 lower-secondary students, ChatGPT-supported competency-based learning raised autonomy support and competence satisfaction yet produced a larger share of low-quality motivational profiles, and relatedness satisfaction was weaker than in non-AI competency-based learning ([[student-motivation-need-satisfaction-genai-sdt-2026|Schweder, Hagenauer & Raufelder (2026)]]).
+
+Autonomy, not ease, carried the motivational gain here. A three-arm [[rct|RCT]] found that a hint-withholding tutor, which kept learners building their own solution, was the only arm to raise intrinsic motivation (2.82 vs 2.42), while unrestricted ChatGPT, which supplies the answer, did not (2.64, p = .076) ([[bassner-performance-learning-dissociation-ai-programming-2026|Bassner et al. (2026)]]).
 
 
 A configurational test sharpens the point: among 498 medical undergraduates, GAI use was only weakly associated with need satisfaction (β = 0.155) and proved unnecessary for high engagement, while competence need satisfaction was the core condition in the strongest configuration ([[genai-learning-engagement-medical-undergraduates-2026|He et al. (2026)]]).
@@ -84,3 +86,4 @@ SDT connects directly to [[motivation]] as its parent construct, to [[affective-
 
 - [[genai-learning-engagement-medical-undergraduates-2026]] — GAI use is weakly tied to need satisfaction and unnecessary for high engagement (He et al. 2026)
 - [[teacher-ai-collaboration-work-engagement-2026]] — Dual pathways from teacher–AI collaboration to work engagement, moderated by digital competency
+- [[bassner-performance-learning-dissociation-ai-programming-2026]] — Hint-withholding preserved autonomy where answer-giving did not
