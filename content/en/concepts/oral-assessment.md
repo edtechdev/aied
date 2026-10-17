@@ -1,7 +1,7 @@
 ---
 title: Oral Assessment
 created: "2026-09-23T08:35:38-04:00"
-updated: "2026-10-15T21:52:00-04:00"
+updated: "2026-10-17T03:49:06-04:00"
 connected_faqs: [redesign-assessment-ai-era, ai-feedback-at-scale]
 type: concept
 foundations: [academic-integrity, critical-thinking]
@@ -68,6 +68,8 @@ Three findings cut against reading oral scores as learning gains. [[asynchronous
 
 The binding constraint is staffing and hardware rather than pedagogy, and the corpus is unusually candid about the arithmetic: twenty-eight contact-hours per semester for fifteen students, eleven teaching assistants for a class of over one hundred in the CS1 design, and one laptop serving twelve simultaneous learners in the offline vocational deployment. No randomized trial of oral against written assessment exists anywhere in this body of work, and every study that measures the difference is a single-institution design without a control group. Oral assessment is well supported as a response to AI-assisted substitution, and thinly supported as an improvement in learning.
 
+No format holds a fixed position in this trade-off: oral assessment's observability is a design choice, and its feasibility cost is one a program distributes rather than accepts — feasibility is an educational priority, not the constraint that erodes good practice ([[assessment-feedback-trilemma-model-2026|Pedlow et al. (2026)]]).
+
 The oral's integrity rationale is also time-limited: [[corbin-ai-glasses-wearable-ai-assessment-2026|Corbin et al. (2026)]] argue that AI glasses and earbuds can deliver covert real-time prompts inside a live viva, because wearable AI produces no gaze shift or detectable signal, so interactive orals are no longer immune.
 
 
@@ -102,3 +104,4 @@ The oral's integrity rationale is also time-limited: [[corbin-ai-glasses-wearabl
 - [[ai-standardized-patient-scaffolding-medical-2026]] — Spoken clinical interviews under a simulated-patient system
 - [[pgr-students-genai-uses-qualitative-2026]] — The doctoral viva under generative AI
 - [[computing-assessment-genai-workshop-report-2026]] — AI Can Do Your Homework. Now What? Report from an online workshop on computing assessment in the age of generative AI
+- [[assessment-feedback-trilemma-model-2026]] — Denies any format a fixed position and reframes feasibility as an educational priority
