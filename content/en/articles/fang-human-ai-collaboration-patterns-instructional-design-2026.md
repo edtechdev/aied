@@ -1,7 +1,7 @@
 ---
 title: "Human–AI collaborative patterns in GenAI-supported instructional design among pre-service teachers: an analysis of interaction sequences and cognitive load"
-created: "2026-10-16T20:25:00-04:00"
-updated: "2026-10-16T20:25:00-04:00"
+created: "2026-10-16T20:13:06-04:00"
+updated: "2026-10-17T07:09:05-04:00"
 type: article
 sources: ['raw/papers/10.1186_s41239-026-00628-3.md']
 confidence: high
