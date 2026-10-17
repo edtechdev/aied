@@ -7183,3 +7183,26 @@
   - special-education
   - student-ai-interaction
   reason: 'Thinking Partner Framework practice case study (six-week asynchronous graduate research methods for ~440 K-12 teachers). Integrated three: the compressed-format redesign rule the online-teaching-and-learning page did not carry (grep -ci ''compressed|accelerated|six-week'' -> 0 hits), the checkpoint-documentation feasibility evidence (96% completion across six semesters, ~440 teachers) that process-oriented-assessment''s own ''What remains unresolved'' section asks for, and the 15 to 20 hour redesign cost absent from change-management (grep -ci ''redesign|cost'' -> 0 hits). Two further candidates the level-field labels declared were screened after the gate named them: adult-learning gained the design-for-a-range-of-engagement stance (grep ''triage|range of engagement|efficiency|mandatory'' -> 0 hits) and teacher-education gained the research-consumption/advocacy role (grep ''mandate|advoca|research consumer|Socratic'' -> 0 hits). The other 33 candidates were dismissed against prior coverage with grep evidence, not in the abstract: the page already carries the claim class (academic-integrity ''making honest work visible'' -> 1 hit and ''surveillance'' -> 7; scaffolding ''fading'' -> 8 hits and ''scaffolded autonomy'' -> 0 because fading is the page''s central construct; ai-detection saturated with detector-reliability studies, so the fourteen-tool point replicates; ai-use-disclosure already frames disclosure as formative rather than compliance and as help-seeking; socratic-method and prompt-engineering already host prompt-template frameworks), or the article reports no finding for it (no demographic detail collected for differential-effects-across-learner-groups and no equity or access data for equity-in-ai-education and digital-divide; the classroom-transfer examples are single-instructor field notes).'
+- article: fang-human-ai-collaboration-patterns-instructional-design-2026
+  date: 2026-10-16
+  integrated:
+  - cognitive-psychology
+  - evaluative-judgment
+  - prompt-engineering
+  no_change:
+  - ai-literacy
+  - assessment-validity
+  - cognitive-offloading
+  - conversational-ai
+  - critical-thinking
+  - generative-ai
+  - human-ai-collaboration
+  - llm
+  - metacognition
+  - mixed-methods-research
+  - professional-training
+  - quantitative-research
+  - self-report-measures
+  - student-ai-interaction
+  - teacher-education
+  reason: 'Two-round lag-sequential study of 67 pre-service teachers designing lesson plans with DeepSeek-V2.5, groups formed by a median split on plan quality. Integrated three: cognitive-psychology gained the claim that perceived load and frustration track how effort is organized rather than how much is spent (the groups did not differ on reported effort, 2.85 vs 3.26, p = 0.074, yet differed on mental demand 3.09 vs 4.03 and frustration 2.12 vs 3.82); evaluative-judgment gained the observed behavioral signature, judgment that pulls revision forward (CE→RE Z = 2.80, RE→CE Z = 2.50, RE→RE Z = 4.24) with explicit evaluation near-absent in the lower-quality group (0.67 vs 0.00); prompt-engineering gained the prompt-failure trace (IC→IC Z = 3.25, the lower-quality group''s unique significant transition), integrated after a dismissal that returned 0 hits for ''clarification|re-prompt|rephras'' was rejected as unbacked - the page carries prompting as technique but nothing on prompt failure modes. The other 15 candidates were dismissed against prior coverage with grep evidence: student-ai-interaction already hosts a lag sequential analysis with a Query-Evaluation-Query cycle and shallow self-transition loops (line 54), human-ai-collaboration already states that who generates and decides is the sharpest predictor of whether collaboration helps (line 39), metacognition already separates where attention sits from how much effort a turn shows and carries NASA-TLX effort miscalibration, ai-literacy already treats critical evaluation of AI output (9 hits), assessment-validity already covers rubric and inter-rater reliability (5 hits), self-report-measures already documents self-report/behavior divergence (51 hits), cognitive-offloading already models offloading as conditional (91 hits), and teacher-education already covers pre-service GenAI lesson planning (31 hits). Generative-ai and llm are technology pages that the sequence findings do not change.'

@@ -1,7 +1,7 @@
 ---
 title: Cognitive Psychology
 created: "2026-08-27T10:52:12-04:00"
-updated: "2026-09-26T01:51:49-04:00"
+updated: "2026-10-16T20:19:49-04:00"
 type: concept
 pedagogy: [cognitive-psychology, learning-theories, metacognition]
 technology: [generative-ai, intelligent-tutoring, knowledge-tracing]
@@ -41,6 +41,8 @@ Cognitivism is arguably the theory most responsible for AI in education existing
 ### Cognitive load and the design of instruction
 
 Cognitive Load Theory (CLT) is the most widely applied cognitivist framework in [[learning-design|instructional design]]: it distinguishes intrinsic load (task complexity), extraneous load (presentation friction), and germane load (schema-building effort). Well-designed AI should reduce extraneous load while preserving germane processing; poorly integrated AI reduces all three, leaving completed tasks with empty learning. CLT's working-memory framing is also central to debates about [[cognitive-offloading]] — whether AI reduces harmful extraneous load or short-circuits the germane processing that produces learning.
+
+Load tracked how effort was organized, not how much was spent: among 67 pre-service teachers designing lesson plans with GenAI, the higher-quality group did not differ on reported effort (2.85 vs 3.26) yet reported lower mental demand (3.09 vs 4.03) and frustration (2.12 vs 3.82) ([[fang-human-ai-collaboration-patterns-instructional-design-2026|Fang et al. (2026)]]).
 
 Mayer's Cognitive Theory of Multimedia Learning (CTML) applies the same working-memory assumptions to the materials themselves, and its prescriptions are unusually concrete: learners do better from words and pictures together than from words alone, when extraneous material is excluded, when a lesson is segmented and user-paced rather than presented as one continuous unit, when corresponding words and pictures appear near and at the same time, and when narration is conversational and in a friendly human voice rather than formal or machine-generated.
 
@@ -91,4 +93,4 @@ Mayer's Cognitive Theory of Multimedia Learning (CTML) applies the same working-
 - [[nie-personavlm-long-term-personalization-2026]] — LLM student modeling and memory
 - [[ai-cognitive-partner-co-regulation-learning]] — AI as a cognitive partner in co-regulated learning
 - [[ensemble-cognition-philosophy-ai-education]] — Ensemble Cognition: thinking as human–AI interaction
-
+- [[fang-human-ai-collaboration-patterns-instructional-design-2026]] — Effort organization, not effort amount, tracked load and frustration
