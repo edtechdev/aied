@@ -23,6 +23,8 @@ reviewed_by: [editor]
 
 Mixed-methods designs integrate the breadth, precision, and causal power of quantitative methods with the depth, context, and meaning of qualitative methods. The value proposition is **triangulation**: when independent strands converge on the same conclusion, confidence increases; when they diverge, the discrepancy itself is informative.
 
+Across 394 GenAI higher-education studies, mixed methods was the most common research design (213 studies, 54%), followed by quantitative (109, 28%) and qualitative (72, 18%) research ([[mapping-genai-higher-ed-scoping-review|Lin et al. (2026)]]).
+
 ## Common design patterns
 
 - **Sequential explanatory (QUAN → qual).** Quantitative data are collected first, then qualitative data explain or contextualize surprising or significant quantitative findings. [[genai-over-reliance-learning-2026|A mixed-method study of GenAI and sustainable learning]] pairs three-wave surveys with educator interviews to explain the quantitative pattern of enhancement-to-over-reliance.

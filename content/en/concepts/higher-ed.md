@@ -26,7 +26,7 @@ reviewed_by: [editor]
 
 ## Introduction
 
-AI in higher education research spans every function of the university: from [[intelligent-tutoring|AI tutoring]] and [[automated-assessment|automated grading]] to faculty development, academic integrity, [[governance|institutional governance]], and student support. The knowledge base's higher education articles cluster around several key themes — institutional transformation, student experience at scale, faculty and teaching, assessment and integrity, and the rapid shift in policy and practice.
+AI in higher education research spans every function of the university: from [[intelligent-tutoring|AI tutoring]] and [[automated-assessment|automated grading]] to faculty development, academic integrity, [[governance|institutional governance]], and student support. The knowledge base's higher education articles cluster around several key themes — institutional transformation, student experience at scale, faculty and teaching, assessment and integrity, and the rapid shift in policy and practice. Across the review's 394 GenAI higher-education studies, participant focus was students in 352, instructors in 15, both in 26, and multiple stakeholder groups in 1 — so the evidence base for perceptions and teaching practice is overwhelmingly student-based ([[mapping-genai-higher-ed-scoping-review|Lin et al. (2026)]]).
 
 ### Institutional transformation
 

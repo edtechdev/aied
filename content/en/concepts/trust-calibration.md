@@ -52,6 +52,8 @@ Higher trust does not buy better judgment: among 432 undergraduates solving Pyth
 
 Calibration research usually treats trust as a single judgment. [[bounded-reliance-ai-writing-feedback-2026|Serpil & Mor (2026)]] show the appraisal splits into dimensions that are not equally binding. Interviewing 17 EFL undergraduates after a semester of using GROK for feedback on their writing, they found perceived *expertise* high — students credited the tool with improving vocabulary, grammar, structure and coherence, and read its explanations for suggested revisions as evidence of competence — while *trustworthiness*, mainly about what happened to their data, and *goodwill*, with feedback experienced as impersonal and at times demotivating, stayed low. Reliance followed the weak dimensions rather than the strong one: students authorized the tool for broad language feedback and reserved individualized, relational guidance for the instructor. The implication for calibration is that improving accuracy does not move the ceiling on use; data transparency and the instructional framing around a tool are themselves calibration interventions.
 
+Agent-related social perceptions, not accuracy, built feedback credibility for [[chatgpt-feedback-credibility-perceived-learning|Pérez-López et al. (2026)]]: perceived competence reached credibility directly, while perceived warmth worked only through human-like empathy (SEM, 230 students).
+
 [[du-yuan-epistemic-dependence-2026|Du and Yuan (2026)]] separate *productive reliance* from *harmful dependence* using six diagnostic criteria — contestability, recoverability, transfer, traceability, distributed responsibility and epistemic plurality — and distinguish instrumental assistance (helping produce output) from judgment-bearing assistance (supplying the standards by which output is judged), the latter being where reliance becomes educationally consequential.
 
 ### Calibration as a design problem
@@ -66,6 +68,8 @@ A third lever operates on the interaction structure itself: replacing a single r
 For children, the design lever may be the agent's own register: in a game-based probe with 12 children aged 8–10, [[children-verification-ai-suggestions-game-2026|Liu et al. (2026)]] found partner-like phrasing routed them toward questioning the AI directly while tool-like phrasing routed them toward seeking evidence.
 
 With autonomous agents the object of calibration changes. [[agentic-literacy-debt|Nama (2026)]] argues the user becomes a principal who has delegated authority to a system whose actions are largely unobserved and irreversible, shifting the competency from judging outputs to understanding what was authorized, overseeing it, and attributing accountability when harm occurs.
+
+Provenance is treated as a first-class requirement once AI touches grading or certification: institutions must reconstruct how consequential decisions were made and who held authority to confirm them, which a consortium-blockchain design anchors as tamper-evident records of educational events, AI outputs, grading actions and certificates ([[large-language-models-teaching-learning-higher-ed|Li et al. (2026)]]).
 
 ### Connections
 

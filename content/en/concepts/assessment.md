@@ -2,7 +2,7 @@
 connected_resources: [idstack, lesson-md, master-instructional-design]
 title: Assessment
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-16T08:47:09-04:00"
+updated: "2026-10-18T10:07:01-04:00"
 connected_faqs: [redesign-assessment-ai-era, reduce-ai-cheating, course-ai-policy, group-work-ai, asynchronous-online-courses-ai]
 type: concept
 foundations: [academic-integrity]
@@ -28,7 +28,7 @@ reviewed_by: [editor]
 
 ## Introduction
 
-Assessment is central to AI in education for two reasons. First, AI itself is used to assess students — grading essays, code, short answers, and exams at scale. Second, AI in the classroom changes what assessments can validly measure, since students may use [[generative-ai]] to produce work. The field therefore spans both the *tools* that automate assessment and the *validity and integrity* questions that AI raises.
+Assessment is central to AI in education for two reasons. First, AI itself is used to assess students — grading essays, code, short answers, and exams at scale. Second, AI in the classroom changes what assessments can validly measure, since students may use [[generative-ai]] to produce work. The field therefore spans both the *tools* that automate assessment and the *validity and integrity* questions that AI raises. A PRISMA review of 72 higher-education assessment studies found educators used GenAI across the whole assessment cycle — creating assessments, practice, grading, transparency of learning and feedback — with creating assessments and feedback the most frequently identified affordances ([[higher-ed-assessments-genai-systematic-review|Crompton and Burke (2026)]]).
 
 ## How AI is used in assessment
 

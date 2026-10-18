@@ -1,7 +1,7 @@
 ---
 title: Human-in-the-Loop
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-10-16T06:45:00-04:00"
+updated: "2026-10-18T10:07:01-04:00"
 connected_faqs: [ai-agents-support-students-instructors, designing-educational-ai-software, ai-feedback-at-scale]
 type: concept
 foundations: [ai-education]
@@ -28,6 +28,7 @@ reviewed_by: [editor]
 ## Introduction
 
 HITL is a response to the limits and risks of fully autonomous [[ai-education|AI in education]]: automated systems can generate at scale but lack the contextual, [[ethics|ethical]], and pedagogical judgment that instructors and experts bring. Two recent implementations illustrate distinct architectures:
+- **Human-in-the-loop is insufficient if the human only approves.** [[learning-analytics-genai-learning-design|Rienties, Divjak and Law (2026)]] argue that meaningful agency requires the capability to understand, contest, redesign and sometimes reject AI-supported recommendations, not merely to approve decisions shaped elsewhere.
 
 Prescriptive support is a domain where human oversight is increasingly argued to be non-optional. [[lopez-pernas-llm-appropriate-student-support-2026|López-Pernas et al. (2026)]] tested whether three LLMs could recommend student-support plans from [[learning-analytics]] indicators and found limited sensitivity to need and sharp cross-model inconsistency — concluding that human-in-the-loop judgment is still necessary before [[llm]] prescriptive advising can be deployed safely and ethically.
 

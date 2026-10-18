@@ -24,6 +24,8 @@ reviewed_by: [editor]
 
 Cognitive psychology is the learning-theory tradition that treats learning as a change in internal mental representations — concepts, schemas and procedures held in memory — rather than as a change in observable behavior. Its information-processing vocabulary (attention, encoding, retrieval, bounded working memory) supplied both the diagnostic language for learning difficulty and the architecture behind [[intelligent-tutoring]] and [[knowledge-tracing]]: systems that infer a learner's internal state and adapt to it. It remains the reference frame for [[metacognition]], [[desirable-difficulties]] and [[self-regulated-learning]] across this knowledge base.
 
+[[seeing-cognitive-representations-eeg-reconstruction|Su et al. (2026)]] reconstructed images from learners' EEG during science videos and found representation fidelity tracked test performance (regression coefficient 0.8481, R² = 0.79) — direct evidence that a measure of internal representation can index encoding
+
 ## Core ideas
 
 - **Learning is a change in internal mental representations.** Cognitivism holds that learning involves the acquisition, storage, and reorganization of knowledge in memory — concepts, schemas, and procedures — rather than just a change in observable response. What a learner *knows and can retrieve* matters, not just what they do.

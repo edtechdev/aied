@@ -2,7 +2,7 @@
 connected_resources: [student-guide-to-ai]
 title: Metacognition
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-10-15T10:00:00-04:00"
+updated: "2026-10-18T10:07:01-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
@@ -72,6 +72,8 @@ When AI is designed to support reflection rather than replace it, metacognition 
 - **Assign an AI-use level per task.** HAIML pairs its three layers with Four AI Use Levels — from no AI use, through brainstorming, to AI collaboration and AI-integrated creation with output evaluation — so an instructor sets the level for a task and keeps metacognitive reflection central at every level ([[haiml-human-centered-ai-metacognitive-model-2026|Reardon, 2026]]).
 - The **example-based course** in Scheu et al.'s [[conversational-ai|chatbot]] increased **perceived competence** (a metacognitive [[self-assessment]]) even when the [[llm]] assistant alone did not
 - **An emerging framing puts the system, not just the individual, in the loop.** A bibliometric–systematic review of 135 STEM-classroom studies (24 core studies) finds a posthumanist framing emerging that positions AI as a co-regulator of learning, shifting the unit of analysis from individual reflection to system-level [[regulation]] and [[distributed-cognition|distributed cognition]] ([[ai-metacognition-stem-review|Tsakeni et al. (2025)]]).
+
+**Metacognition is among the least-studied outcomes.** In a scoping review of 394 GenAI higher-education studies, metacognition and self-regulated learning were among the outcomes targeted least, alongside ethics and creativity ([[mapping-genai-higher-ed-scoping-review|Lin et al. (2026)]]).
 
 - **Surfacing interaction patterns that learners cannot see.** [[student-ai-interaction-consecutive-interpreting-2026|Kuang, Li and Weng (2026)]] tracked eye movements, note-taking and speech while 22 interpreting trainees worked with a speech-recognition and machine-translation system, and found that the way students divided [[cognitive-psychology|attention]] between AI output and their own notes was invisible to them: 58.3% changed profile between task stages, and the heaviest readers of AI output scored lowest on delivery fluency and target language quality. The pedagogical consequence is that reflection has to be scaffolded by external evidence, because a learner's strategy is not introspectable — the authors argue for guiding students to describe and evaluate why they worked a given way at each stage.
 

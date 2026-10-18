@@ -7270,3 +7270,283 @@
   - transfer-of-learning
   - trust-calibration
   reason: 'Three-arm RCT in a TUM CS1 course (N=275 after cleaning from 452): Iris (calibrated hints withholding solutions) vs unrestricted ChatGPT vs no-AI control, 90-minute Java concurrency exercise. Integrated three: motivation gained the two-tool field contrast that frustration reduction and intrinsic-motivation gain dissociate (both AI arms cut frustration equally - 3.21 and 3.13 vs 4.09 - but only the hint-withholding tutor raised intrinsic motivation, 2.82 vs 2.42, p < .001, ChatGPT 2.64, p = .076); self-determination-theory gained the autonomy mechanism behind that split as a controlled result (withholding the answer kept learners building their own solution); productive-failure gained the preference cost of withholding (matched on frustration, only arm to raise motivation, yet students rated the answer-giving tool easier, p = .003, and more helpful, p = .004). The other 27 candidates were dismissed against prior coverage with grep evidence: learning-gains is saturated with the performance-vs-learning dissociation and the PNAS guardrail RCT (unguarded tutor raising assisted practice while lowering unassisted exam scores), assessment already states that generative AI has severed the inference between performance and underlying ability, assessment-validity already cites performance-vs-learning research in its construct-validity bullet, cognitive-offloading already carries the product-process dissociation with equal immediate performance, cs-education already documents that CS efficiency gains do not transfer to unaided performance, generative-ai already distinguishes effectiveness claims from learning, and metacognition already explains the fluency illusion that underlies the comfort trap. cognitive-surrender, trust-calibration and framing-ai-use-for-students are dismissed because the study measured none of their constructs: no verification, override or acceptance measure, no trust measure, and the manipulation was tool design rather than student-facing framing.'
+- article: higher-ed-assessments-genai-systematic-review
+  date: '2026-10-18'
+  integrated:
+  - academic-integrity
+  - assessment
+  - equity-in-ai-education
+  no_change:
+  - ai-use-disclosure
+  - assessment-validity
+  - authentic-assessment
+  - automated-assessment
+  - curriculum-design
+  - educational-measurement
+  - educational-policy-ai
+  - evaluative-judgment
+  - feedback
+  - formative-assessment
+  - generative-ai
+  - governance
+  - higher-ed
+  - language-learning
+  - llm
+  - meta-analysis-systematic-review
+  - oral-assessment
+  - pedagogy
+  - process-oriented-assessment
+  - qualitative-research
+  - self-report-measures
+  - summative-assessment
+  - theories-and-frameworks
+  reason: 'Integrated three: academic-integrity gained the review''s three recurring design responses to GenAI (process orientation, authenticity, oral/dialogical) framed as layering onto existing validity/authenticity/alignment principles; assessment gained the five-way use map across the assessment cycle (create, practice, grade, transparency, feedback); equity-in-ai-education gained the geographic concentration (Australia+UK 31 of 72; no South American study). || ai-use-disclosure: grep ''disclosure'' in ai-use-disclosure -> 79 hits. The page already carries the substance: disclosure rarity, penalty anxiety, self-incrimination, and under-reporting of disclosure practice (Kirsanov, Vetter, Gonsalves,  | assessment-validity: grep ''validity'' in assessment-validity -> 86 hits. The page already carries the article''s frame (GenAI read within validity/authenticity/alignment; the inference from product to capability at risk) and the same design-re | authentic-assessment: grep ''authentic''
+    in authentic-assessment -> 89 hits. The page is built on the authenticity-as-design-response argument (Zhan/Boud/Du, Beyond Detection, epistemic authenticity), so the review''s listing of authenticity as  | automated-assessment: grep ''grading'' in automated-assessment -> 73 hits. The article''s grading-as-affordance finding (and the caution that grading/transparency are least examined) is already covered extensively, including the conditional-reli | curriculum-design: grep ''assessment'' in curriculum-design -> 8 hits. The page addresses program-level design and constructive alignment; the article contains no curriculum-level claim (only assessment-cycle and design-response findings alr | educational-measurement: grep ''assessment'' in educational-measurement -> 66 hits. The article contributes no measurement/psychometric claim; its framing of assessment theory (validity, authenticity, alignment) is already carried here and on asse | educational-policy-ai: grep ''policy'' in educational-policy-ai
+    -> 114 hits. The page already documents policy maturity gaps and the evidence-informed-policy problem (Strömberg, Eldredge, Qian, Crompton Delphi). The article''s caution that govern | evaluative-judgment: grep ''evaluative judgment'' in evaluative-judgment -> 18 hits. The page already situates evaluative judgment as the pivot from detection to design (Teichmann, Sharma, AlGhamdi); the article''s citation of Bearman''s evaluat | feedback: grep ''feedback'' in feedback -> 335 hits. The article''s claim that feedback is the best-evidenced GenAI use is an example of what this page already documents at length; nothing distinguishing. | formative-assessment: grep ''formative'' in formative-assessment -> 54 hits. The page already covers GenAI feedback/items and the enactment condition; the review''s generic five-use and design-response findings add nothing new. | generative-ai: grep ''assessment'' in generative-ai -> 11 hits. The umbrella page already covers GenAI assessment uses and reliability
+    evidence; the review''s findings are confirmatory (existing claim / replication). | governance: grep ''governance'' in governance -> 123 hits. The page already documents governance lag, the instrument mix of written-down governance, and assessment governance (Eldredge, Qian, Poudyal, Crompton Delphi); the article''s u | higher-ed: grep ''assessment'' in higher-ed -> 47 hits. The page already carries HE-wide mapping findings including regional/disciplinary concentration and Global South under-representation (AlSheikh, Lin, Chan); the article''s geogra | language-learning: grep ''language'' in language-learning -> 68 hits. The article only notes second-language education as one of four concentrated disciplines; it offers no substantive L2 finding, so nothing distinguishing for this page. | llm: grep ''grading'' in llm -> 12 hits. The page already covers LLM grading reliability, which the review''s grading affordance merely illustrates; existing claim, not distinguishing. | meta-analysis-systematic-review:
+    grep ''systematic review'' in meta-analysis-systematic-review -> 37 hits. The page already catalogues systematic reviews (genai-higher-education-systematic-review-2026 and others); this article is another example of the me | oral-assessment: grep ''oral'' in oral-assessment -> 54 hits. The page already thoroughly treats the oral/dialogical response to GenAI (Fenton, asynchronous orals, code review); the review''s grouping of it among three design responses is a | pedagogy: grep ''pedagogy'' in pedagogy -> 29 hits. The page is the umbrella for teaching strategies and already discusses assessment redesign/generative-AI mediation; the article''s findings are confirmatory, adding no distinguishin | process-oriented-assessment: grep ''process'' in process-oriented-assessment -> 52 hits. The page is built entirely on the process-orientation response (Thapa & Lewis, Boysen, Munoz); the review''s finding that process orientation recasts evidence is a | qualitative-research: grep ''qualitative''
+    in qualitative-research -> 36 hits. The page concerns qualitative methods themselves; the article''s field-level statistic (qualitative/mixed dominance; only 6 of 72 quantitative) is a descriptive count | self-report-measures: grep ''self-report'' in self-report-measures -> 63 hits. The page already documents the self-report-heavy evidence base (mapping-genai-higher-ed-scoping-review: 68.3% surveys); the article''s flag of self-report-heavy desig | summative-assessment: grep ''summative'' in summative-assessment -> 33 hits. The page already covers AI as scorer, evasion, and AI-resistant formats from many sources; the review''s grading/design-response findings are confirmatory. | theories-and-frameworks: grep ''validity'' in theories-and-frameworks -> 7 hits. The page is an inventory of theories/frameworks; the article is a synthesis, not a theoretical contribution, so it adds no distinguishing framework or theory.'
+- article: mapping-genai-higher-ed-scoping-review
+  date: '2026-10-18'
+  integrated:
+  - academic-integrity
+  - ai-feedback-quality
+  - equity-in-ai-education
+  - ethics
+  - metacognition
+  - self-regulated-learning
+  no_change:
+  - ai-literacy
+  - ai-use-disclosure
+  - assessment
+  - assessment-validity
+  - automated-assessment
+  - conversational-ai
+  - creativity
+  - critical-thinking
+  - educational-development
+  - educational-policy-ai
+  - feedback
+  - generative-ai
+  - governance
+  - hallucination-risk
+  - higher-ed
+  - intelligent-tutoring
+  - language-learning
+  - learning-gains
+  - llm
+  - meta-analysis-systematic-review
+  - mixed-methods-research
+  - motivation
+  - multimodal
+  - pedagogy
+  - prompt-engineering
+  - qualitative-research
+  - quantitative-research
+  - research-methods-aied
+  - self-report-measures
+  - simulation
+  - stakeholders
+  - student-engagement
+  - technology-acceptance-model
+  - theories-and-frameworks
+  - usability-research
+  - writing-education
+  reason: 'Integrated six lowest-coverage outcomes from the 394-study map: academic-integrity, ai-feedback-quality, equity-in-ai-education, ethics, metacognition and self-regulated-learning each gained the frequency-map evidence that their construct is among the least-targeted outcomes or uses while feedback/tutoring dominate. || ai-literacy: grep ''least frequent|394|scoping review|adoption outpac'' in ai-literacy -> 3 hits (Demir & Akar 2026; PRISMA 39-study STEAM review; AI-literacy instrument corpus). AI literacy is already covered as a studied outcome; the | ai-use-disclosure: grep ''394|scoping review|governance under|least targeted'' in ai-use-disclosure -> 0 hits matching the review; the article makes no disclosure-specific finding. | assessment: grep ''394|scoping review|short-term|assessment method'' in assessment -> 0 hits; the review''s method-frequency finding already lives in self-report-measures (''survey scales the most frequently reported assessment method ( | assessment-validity:
+    grep ''construct validity|394|scoping review'' in assessment-validity -> 4 hits; the page already carries the construct-validity critique as its organizing frame, so the review''s alignment point is an example of an existin | automated-assessment: grep ''394|scoping review|least frequent|vintage'' in automated-assessment -> 3 hits (all specific grading studies); no distinguishing contribution from the review''s map. | conversational-ai: grep ''dominant use|concentrat|394|scoping review'' in conversational-ai -> 2 hits, including an umbrella review already documenting CAI concentration; the review adds no new insight. | creativity: grep ''scoping review|rarely measures|394'' in creativity -> 2 hits; the page already carries an analogous field-map gap finding (''A K–12 field map: GenAI mostly enhances creativity and rarely measures it''), so the review'' | critical-thinking: grep ''394|least frequent|scoping review|outcome coverage'' in critical-thinking -> 2 hits (ChatGPT review; auditing
+    study); the page already documents whether AI supports critical thinking and no frequency-map gap is need | educational-development: grep ''394|scoping review|least frequent|vintage'' in educational-development -> 0 hits; the review''s professional-development implication is generic practice advice, not a distinguishing finding. | educational-policy-ai: grep ''oral policy lag|scoping review|governance'' in educational-policy-ai -> 4 hits including the ''institutional AI policies lag behind actual AI use'' claim; the review''s governance-under-reported point is already implie | feedback: grep ''394|scoping review|dominant use|concentrat'' in feedback -> 4 hits including an NLP scoping review of 421 studies; the page already covers feedback''s centrality and a review-scale finding, so the review''s frequency  | generative-ai: Already cites the article verbatim: grep ''mapping-genai-higher-ed-scoping-review|394|ChatGPT-3'' in generative-ai -> 3 hits (''Across its 394 studies, ChatGPT with
+    an unspecified version appeared in 94...''). DELETE TEST fa | governance: grep ''scoping review|governance under|lagging'' in governance -> 4 hits, including the Baroudi scoping review and the ''institutional governance is often lagging'' claim; the review''s under-reporting point is already carrie | hallucination-risk: grep ''vintage|superseded|ChatGPT-3|394|scoping review'' in hallucination-risk -> 1 hit (strategic misconceptions); the review''s ChatGPT-3.5-era caution duplicates the tool-vintage finding already placed on generative-ai. | higher-ed: Already cites the article: grep ''mapping-genai-higher-ed-scoping-review|352|394'' in higher-ed -> the population-skew sentence is present (''participant focus was students in 352, instructors in 15...''). DELETE TEST fails. | intelligent-tutoring: grep ''394|scoping review|dominant use'' in intelligent-tutoring -> 6 hits of specific tutoring studies; the review''s claim that tutoring is a dominant use is a frequency rank that adds no distinguishing
+    insight. | language-learning: grep ''394|scoping review|dominant use'' in language-learning -> 2 hits (Li et al. 2026 review); the review''s mention of language learning as a reported use is an example of existing coverage. | learning-gains: grep ''394|scoping review|achievement|outcome coverage'' in learning-gains -> 0 relevant hits; the review reports whose outcomes were targeted, not effect sizes, so it cannot change this page''s effect-size content. | llm: grep ''394|vintage|scoping review'' in llm -> 2 hits (assessment model shift; grading systems); the review''s tool-vintage caution duplicates the generative-ai placement. | meta-analysis-systematic-review: grep ''scoping review|Map the field|Rapid obsolescence|394'' in meta-analysis-systematic-review -> 10 hits; the page already carries both ''Map the field and its gaps'' and ''Rapid obsolescence — the AI tool landscape changes | mixed-methods-research: Already cites the article: grep ''mapping-genai-higher-ed-scoping-review|394|54%''
+    in mixed-methods-research -> the design-frequency sentence (''Across 394 GenAI higher-education studies, mixed methods was...'') is present.  | motivation: grep ''394|scoping review|most frequent|outcome coverage'' in motivation -> 4 hits, including a 156-study scoping review (85.3% no theory); the review''s rank of motivation as a frequent outcome adds nothing distinguishable | multimodal: grep ''394|underexplored|scoping review|least frequent'' in multimodal -> 2 hits of specific multimodal studies; the review''s practice note that multimodal uses are underexplored is generic, not a finding. | pedagogy: grep ''394|scoping review|adoption outpac|bolted'' in pedagogy -> 2 hits (PRISMA 28-study review; learner-agency study); the ''adoption outpaced pedagogy'' thesis is not a pedagogy concept contribution. | prompt-engineering: grep ''394|scoping review|frequent outcome'' in prompt-engineering -> 1 hit (novices default to trial and error); the review''s note that prompting is a frequent
+    outcome is an example of existing coverage. | qualitative-research: grep ''394|18%|72 studies|scoping review'' in qualitative-research -> 2 hits; the review''s design-frequency figures are already placed in mixed-methods-research, so no distinguishing contribution remains. | quantitative-research: grep ''394|28%|109|scoping review'' in quantitative-research -> 1 hit (survey/SEM description); the design frequency is already placed in mixed-methods-research. | research-methods-aied: grep ''unstated model versions|fast pace|394|scoping review'' in research-methods-aied -> 8 hits, including ''vague tool descriptions, unstated model versions'' and ''the fast pace of AI change''; the review''s tool-vintage/ver | self-report-measures: Already cites the article: grep ''mapping-genai-higher-ed-scoping-review|394|269 studies'' in self-report-measures -> the survey-scale sentence (''survey scales the most frequently reported assessment method (269 studies, 6 | simulation: grep ''394|underexplored|scoping
+    review|least frequent'' in simulation -> 1 hit (teacher-AI co-designed simulations); the review''s practice note that simulation is underexplored is generic, not a finding. | stakeholders: grep ''352|394|instructor-focused|population skew|scoping review'' in stakeholders -> 0 hits for the review; the population-skew finding is already placed on higher-ed. | student-engagement: grep ''394|scoping review|most frequent|outcome coverage'' in student-engagement -> 2 hits of specific studies; the review''s rank of engagement as a frequently targeted outcome adds no distinguishing insight. | technology-acceptance-model: grep ''394|scoping review|acceptance|most frequent'' in technology-acceptance-model -> 2 hits (TAM extensions); the review''s rank of usability/acceptance as a frequent outcome is an example of existing coverage. | theories-and-frameworks: grep ''394|scoping review|vintage|framework'' in theories-and-frameworks -> 0 hits for the review; the article proposes no theory or framework,
+    so it cannot contribute here. | usability-research: grep ''394|scoping review|acceptance|most frequent'' in usability-research -> 0 hits for the review; the review''s rank of usability/acceptance as a frequent outcome adds no distinguishing insight to a methods page. | writing-education: grep ''394|scoping review|dominant use|outpac'' in writing-education -> 2 hits of specific writing studies; the review''s claim that writing support is a dominant use is a frequency rank, an example of the page''s existing e'
+- article: chatgpt-feedback-credibility-perceived-learning
+  date: '2026-10-18'
+  integrated:
+  - conversational-ai
+  - feedback-literacy
+  - theories-and-frameworks
+  no_change:
+  - ai-feedback-quality
+  - ai-use-disclosure
+  - assessment
+  - business-education
+  - feedback
+  - generative-ai
+  - higher-ed
+  - human-ai-collaboration
+  - learning-gains
+  - llm
+  - motivation
+  - peer-assessment
+  - quantitative-research
+  - recommender-systems-and-learning-paths
+  - self-report-measures
+  - trust-calibration
+  - writing-education
+  reason: 'Integrated three: conversational-ai gained the social-perception mechanism (competence direct, warmth via human-like empathy; SEM, 230 students); feedback-literacy gained the rival disposition of grade-based reward sensitivity weakening the credibility-perceived-learning link; theories-and-frameworks gained social perception theory (warmth/competence) as a lens on AI credibility judgments. || ai-feedback-quality: Prior coverage: grep ''credibil|Pérez'' in ai-feedback-quality -> line 62 already carries it verbatim: ''Credibility is not reducible to quality: [[chatgpt-feedback-credibility-perceived-learning|Pérez-López et al. (2026)]] | ai-use-disclosure: Prior coverage: grep ''warmth|credibil|perceived learning|Pérez'' in ai-use-disclosure -> 1 hit, line 55 ''detection credibility'' (Mohamed & Temimi, unrelated construct). No hit for AI-feedback credibility or social percept | assessment: Prior coverage: grep ''warmth|credibil|human-like empathy|social perception|grade-reward|Pérez''
+    in assessment -> 0 hits. The page''s assessment-design/validity/integrity narrative carries no feedback-credibility mechanism, | business-education: Prior coverage: grep ''credibil|warmth|social perception|Pérez'' in business-education -> 0 hits. The business/marketing sample is incidental; the article''s contribution is the social-perception mechanism, not a business-c | feedback: Prior coverage: grep ''credibil|Pérez'' in feedback -> line 28 already carries it: ''[[chatgpt-feedback-credibility-perceived-learning|Pérez-López et al. (2026)]] carry feedback credibility through to learning: among 230 bu | generative-ai: Prior coverage: grep ''warmth|credibil|human-like empathy|social perception|Pérez'' in generative-ai -> 0 hits. The umbrella technology page covers capability/risk, not perception mechanisms; the finding is not a generativ | higher-ed: Prior coverage: grep ''warmth|credibil|social perception|grade-reward|Pérez'' in higher-ed -> 0 hits. The page surveys institutional/student-experience
+    themes; a feedback-credibility SEM is not distinguishing there. Delete | human-ai-collaboration: Prior coverage: grep ''credibil|Pérez'' in human-ai-collaboration -> line 47 ''The division of labor follows credibility, not capability... perceived credibility rather than its accuracy'' (Serpil & Mor 2026, a different stu | learning-gains: Prior coverage: grep ''credibil|perceived learning|Pérez'' in learning-gains -> 0 direct hits, but the page explicitly treats perceived learning as unreliable and distinct from measured gains (lines 43, 56, 94); the articl | llm: Prior coverage: grep ''warmth|credibil|social perception|Pérez'' in llm -> 0 hits. The page covers model mechanics, grading reliability, and diagnosis; social perception of output is out of scope. Delete test fails. | motivation: Prior coverage: grep ''grade-reward|Pérez'' in motivation -> line 44 already carries it: ''Reward motivation can blunt AI feedback''s reach: for [[chatgpt-feedback-credibility-perceived-learning|Pérez-López
+    et al. (2026)]],  | peer-assessment: Prior coverage: grep ''credibil|warmth|social perception|Pérez'' in peer-assessment -> 0 hits. The article involves no peer assessment; its contribution does not bear on peer review design. Delete test fails. | quantitative-research: Prior coverage: grep ''credibil|social perception|Pérez'' in quantitative-research -> 0 hits. The page already carries many SEM/PLS-SEM exemplars (lines 31, 60-62); this is one more SEM case, not a distinguishing methodolo | recommender-systems-and-learning-paths: Prior coverage: grep ''credibil|warmth|social perception|Pérez'' in recommender-systems-and-learning-paths -> 0 hits; the page concerns ranking/sequencing, which the article does not address. Delete test fails. | self-report-measures: Prior coverage: grep ''perceived learning|credibil|Pérez'' in self-report-measures -> lines 19, 33, 41, 79 treat perceived learning generically as an outcome that cannot stand for learning; the article is another such inst | trust-calibration:
+    Prior coverage: grep ''Pérez|credibil'' in trust-calibration -> line 53 already carries it: ''Agent-related social perceptions, not accuracy, built feedback credibility for [[chatgpt-feedback-credibility-perceived-learning| | writing-education: Prior coverage: grep ''credibil|warmth|social perception|Pérez'' in writing-education -> 0 hits (only an unrelated ''anthropomorphization'' mention at line 48). The article''s finding is about feedback credibility/social perc'
+- article: seeing-cognitive-representations-eeg-reconstruction
+  date: '2026-10-18'
+  integrated:
+  - video-education
+  no_change:
+  - affective-computing
+  - ai-use-disclosure
+  - assessment
+  - assessment-validity
+  - benchmark
+  - cognitive-psychology
+  - educational-measurement
+  - ethics
+  - generative-ai
+  - governance
+  - higher-ed
+  - learning-gains
+  - learning-sciences
+  - multimodal
+  - pedagogy
+  - privacy
+  - quantitative-research
+  - summative-assessment
+  - theories-and-frameworks
+  reason: 'Integrated one: video-education gained the neural read-out of video encoding (correct M = 71.43 vs incorrect M = 62.30, p < .001, with a temporal-misalignment dispersion measure). || affective-computing: grep ''EEG|reconstruct|cognitive representation|semantic similarity|dispersion'' in affective-computing.md -> 0 hits. The page''s nearest brain-sensing coverage is the ''Engagement is not a proxy for learning'' line ([[socrat | ai-use-disclosure: grep ''EEG|reconstruct|neural|cognitive representation'' in ai-use-disclosure.md -> 0 hits. The finding''s subject matter (neural decoding of viewed content) has no intersection with the page''s scope, which is GenAI use dec | assessment: grep ''EEG|reconstruct|neural|semantic similarity'' in assessment.md -> 0 hits. The umbrella''s nearest thread is the process-oriented-assessment bullet, and it already routes process measures through [[assessment-validity] | assessment-validity: grep ''seeing-cognitive-representations-eeg-reconstruction''
+    in assessment-validity.md -> 1 hit (line 30: ''[[seeing-cognitive-representations-eeg-reconstruction|Su et al. (2026)]] found higher EEG reconstruction similarity | benchmark: grep ''EEG'' in benchmark.md -> 5 hits / 2 lines, chiefly ''[[eeg-familiarity-automated-assessment-2026|Nanayakkara & Halloluwa (2026)]] benchmark 15 ML/DL models for EEG-based familiarity prediction''. The page already docu | cognitive-psychology: grep ''seeing-cognitive-representations-eeg-reconstruction'' in cognitive-psychology.md -> 1 hit (line 25: ''[[seeing-cognitive-representations-eeg-reconstruction|Su et al. (2026)]] reconstructed images from learners'' EEG d | educational-measurement: grep ''seeing-cognitive-representations-eeg-reconstruction'' in educational-measurement.md -> 1 hit (line 108: ''[[seeing-cognitive-representations-eeg-reconstruction|Su et al. (2026)]] reconstructed video frames from EEG a | ethics: grep ''EEG|reconstruct|neural|neurodata'' in ethics.md -> 0 hits. The page''s ''Privacy
+    and consent'' dimension already carries the data-collection and power-imbalance concern and links [[privacy]], where the article''s neural | generative-ai: grep ''EEG'' in generative-ai.md -> 1 hit (line 66: future trends point to ''multi-modal diagnostic models integrating eye-tracking, EEG, and behavioral analytics''). The page already anticipates exactly this application, so | governance: grep ''EEG|reconstruct|neural|neurodata'' in governance.md -> 0 hits. The page''s data-governance coverage (''[[learning-analytics-to-educational-interventions-2026|Svetec, Divjak & Kadoić (2026)]] identify ethics & data gov | higher-ed: grep ''EEG|reconstruct|neural|semantic similarity'' in higher-ed.md -> 0 hits. The page''s evidence base is institutional transformation, student experience at scale, policy and assessment; a 22-participant single-instituti | learning-gains: grep ''EEG|reconstruct|neural|semantic similarity'' in learning-gains.md -> 0 hits. The article reports a correlation between
+    a neural measure and test scores, not an intervention effect on gains, and the page already trea | learning-sciences: grep ''EEG|reconstruct|neural|cognitive representation'' in learning-sciences.md -> 0 hits (the single ''cogrep'' line is unrelated). The page explicitly defers mechanism-level measures to [[cognitive-psychology]], which alr | multimodal: grep ''reconstruct'' in multimodal.md -> 2 hits (IRT item-characteristic-curve reconstruction and ''reconstruct exam item statistics'') and ''semantic similarity'' -> 1 hit (MUSE). The page''s multimodal scope is model capabili | pedagogy: grep ''EEG|reconstruct|neural|semantic similarity'' in pedagogy.md -> 0 hits. The article explicitly states its framing ''is neurocognitive, not [[pedagogy|pedagogical]]'', so it offers no teaching-strategy finding for this  | privacy: grep ''seeing-cognitive-representations-eeg-reconstruction'' in privacy.md -> 1 hit (line 37: ''[[seeing-cognitive-representations-eeg-reconstruction|Su et al. (2026)]]
+    reconstructed what learners were viewing from their EE | quantitative-research: grep ''EEG|reconstruct|neural|semantic similarity'' in quantitative-research.md -> 0 hits. The article applies standard OLS regression, Welch''s t-test and z-scoring with no methodological novelty, so it adds nothing distin | summative-assessment: grep ''EEG|reconstruct|neural|semantic similarity'' in summative-assessment.md -> 0 hits. The article offers a process indicator set against (not replacing) summative measures rather than a summative format, and the page''s | theories-and-frameworks: grep ''reconstruct'' in theories-and-frameworks.md -> 1 hit (Agentivism''s ''reconstructive internalization'', unrelated). The article tests no theory and proposes no framework, so it adds nothing to the inventory page.'
+- article: large-language-models-teaching-learning-higher-ed
+  date: '2026-10-18'
+  integrated:
+  - equity-in-ai-education
+  no_change:
+  - academic-integrity
+  - adaptive-learning
+  - agentic-ai
+  - ai-feedback-quality
+  - ai-literacy
+  - ai-use-disclosure
+  - assessment
+  - assessment-validity
+  - automated-assessment
+  - automated-essay-scoring
+  - benchmark
+  - cognitive-offloading
+  - conversational-ai
+  - curriculum-design
+  - design-based-research
+  - feedback
+  - generative-ai
+  - governance
+  - higher-ed
+  - human-ai-collaboration
+  - intelligent-tutoring
+  - llm
+  - metacognition
+  - online-teaching-and-learning
+  - privacy
+  - prompt-engineering
+  - quantitative-research
+  - scaffolding
+  - simulating-students
+  - simulation
+  - sociocultural-learning
+  - theories-and-frameworks
+  - trust-calibration
+  reason: 'Integrated one: equity-in-ai-education gained the environmental/computational dimension of equity (unequal access to compute and the carbon footprint of large-model deployment). || academic-integrity: Article makes no integrity/misconduct finding (grep ''cheating|misconduct|disclosure'' in article -> 0); concept page (219 lines) already documents the detection-to-redesign shift. No distinguishing contribution. | adaptive-learning: grep ''recommend'' in adaptive-learning -> 5 hits, incl. L37 ''counts adaptive pathways and recommender systems among the leading AI applications'' and L94 [[recommender-systems-and-learning-paths]]; LLM-CR is an instance of | agentic-ai: grep ''administrative|student support'' in agentic-ai -> L49 ''administrative and student support (8)'' agent role; KAFA is an example of the already-covered institutional-service-agent claim, and its specifics are already w | ai-feedback-quality: RACES proxy/reward feedback is scoring-side and already placed on automated-assessment
+    L50; ai-feedback-quality (160 lines) already covers feedback-quality dimensions (grep ''feedback'' extensive). No distinguishing additi | ai-literacy: grep ''prompt'' in ai-literacy -> many hits (prompt literacy as rhetorical/ethical act, Miles et al.); ''prompting as part of AI literacy'' already carried. | ai-use-disclosure: grep ''disclosure'' -> the entire concept page (106 lines) is about disclosure; article contributes no disclosure finding. | assessment: grep ''scoring|validity'' in assessment -> L1146-1179 already cover automated scoring and validity; the editorial''s auxiliary-scoring point is placed on automated-assessment. No new content. | assessment-validity: grep ''agreement|significance'' in assessment-validity -> L1284 ''Accuracy vs. agreement as distinct validity signals'' and L1340 ''reliability and agreement pull apart''; benchmark-agreement-is-not-validity already carried. | automated-assessment: Already cites the editorial at L50: RACES ''reported higher Quadratic
+    Weighted Kappa and SimCSE similarity ... on ASAP 2.0 without significance testing'' with [[large-language-models-teaching-learning-higher-ed|Li et al. ( | automated-essay-scoring: RACES already has its own article page [[zhang-races-consistent-essay-scoring-llms-2026]] (L29, L86) and is covered; the editorial adds nothing distinguishing. | benchmark: grep ''transfer'' in benchmark -> L22 ''Benchmark performance often doesn''t transfer to real-world utility''; the benchmark-vs-educational-value gap is already carried. | cognitive-offloading: grep ''cognitive load|offload'' -> page (209 lines) comprehensively covers load/offloading; ARPG+''s cognitive-load claim is an example already placed via scaffolding/prompt-engineering. | conversational-ai: grep ''conversational'' -> page is the concept itself (127 lines); article makes no CAI-specific finding. | curriculum-design: grep ''curriculum'' -> page is the concept (136 lines); LLM-CR''s ''ranking does not establish curriculum quality''
+    is a caution about an existing claim, not a new curriculum-design contribution. | design-based-research: Article is an editorial/synthesis (page_kind: framework, synthesis); makes no DBR-method finding. grep ''design-based'' in article -> tag only, not a contribution. | feedback: grep ''feedback'' -> page (206 lines) covers provision/uptake; the editorial''s RACES proxy-feedback point is scoring-side, already placed on automated-assessment. | generative-ai: grep ''generative'' -> page is the technology concept (107 lines); ''value cannot be inferred from generative capability'' is generic framing already reflected throughout. | governance: grep ''accountab'' -> L95 accountability language, L100 ''human accountability and control''; oversight/accountability is already carried, and the provenance/reconstruct claim is already woven onto trust-calibration L68. | higher-ed: grep ''higher'' -> page is the concept (146 lines) covering policy, adoption, assessment; editorial offers no distinguishing
+    higher-ed finding. | human-ai-collaboration: grep ''division of labor'' -> L27 ''divide cognitive work — who does what, who decides''; the human/AI division-of-labour framing is already present. | intelligent-tutoring: grep ''tutor'' -> page (209 lines) comprehensively covers tutoring; the blockchain ''tutoring'' mention is trivial. | llm: grep ''component|standalone'' in llm -> 0; ''LLMs as components of systems, not standalone tools'' is the editorial''s generic framing, not an LLM-page finding. | metacognition: grep ''metacognitiv'' -> page (192 lines) covers extensively; ARPG+''s metacognitive-support claim is an example already placed via scaffolding/prompt-engineering. | online-teaching-and-learning: grep ''verifiable|provenance'' -> 0, but accountability/verifiability of online assessment is covered (L80 ''Assessment validity when a submission can be produced without the learner''; agent completion L150); blockchain pap | privacy: Already cites the editorial at L35: an agentic
+    form-filling system with a multimodal personal knowledge base ''evaluated on 1,301'' fields with [[large-language-models-teaching-learning-higher-ed|Li et al. (2026)]]. | prompt-engineering: ARPG+ already covered at L56 via [[ye-arpg-real-time-coaching-llm-prompting-2026|Ye et al. (2026)]] with its figures (7.82 vs 5.95 vs 4.52) and its own article page. | quantitative-research: grep ''significance|uptake'' -> L42 ''access trial needs an uptake check''; an editorial offers no quantitative-method contribution. | scaffolding: grep ''fad'' in scaffolding -> L23 ''Scaffolding that never fades creates dependency'', L34 ''Adaptive fading''; ARPG+''s fading result is an example of the page''s existing theme. | simulating-students: grep ''simulat'' -> page (161 lines) covers simulated learners; ARPG+''s LLM-based simulated learners are an example already placed here. | simulation: grep ''simulat'' -> page is the concept (93 lines); article adds no distinguishing simulation finding. | sociocultural-learning:
+    grep ''ZPD|zone of proximal'' -> L34 and L43 ''ZPD-calibrated scaffolding''; ARPG+''s ZPD integration is an example of already-covered material. | theories-and-frameworks: grep ''theory'' -> page is the inventory of theories/frameworks; ARPG+''s CLT/ZPD/scaffolding/metacognition integration is application, already covered on scaffolding. | trust-calibration: Already cites the editorial at L68: ''Provenance is treated as a first-class requirement once AI touches grading or certification: institutions must reconstruct how...'' with [[large-language-models-teaching-learning-highe'
+- article: learning-analytics-genai-learning-design
+  date: '2026-10-18'
+  integrated:
+  - ethics
+  - human-in-the-loop-ai
+  - learning-analytics
+  no_change:
+  - adaptive-learning
+  - agency
+  - ai-feedback-quality
+  - ai-literacy
+  - ai-use-disclosure
+  - assessment
+  - assessment-validity
+  - change-management
+  - community-of-inquiry
+  - creativity
+  - culturally-relevant-pedagogy
+  - design-based-research
+  - educational-measurement
+  - educational-policy-ai
+  - equity-in-ai-education
+  - explainable-ai
+  - feedback
+  - generative-ai
+  - governance
+  - higher-ed
+  - human-ai-collaboration
+  - inclusive-learning
+  - learning-design
+  - learning-gains
+  - llm
+  - meta-analysis-systematic-review
+  - mixed-methods-research
+  - motivation
+  - pedagogy
+  - privacy
+  - problem-solving
+  - qualitative-research
+  - scaffolding
+  - self-determination-theory
+  - self-regulated-learning
+  - self-report-measures
+  - stakeholders
+  - student-support-and-success
+  - teacher-role
+  - theories-and-frameworks
+  - visualization
+  reason: 'Integrated three: ethics gained ethics-as-productive (ethical fitness predicts technical-artistic balance, making ethics a design variable); human-in-the-loop-ai gained the insufficiency of approval-only oversight; learning-analytics gained the critique that the evidence base is not yet intervention evidence. || adaptive-learning: grep ''personalisation|personalization'' in adaptive-learning -> 3 hits (e.g. ''Personalization at scale''). The editorial makes no adaptive-learning claim beyond generic personalisation the page already covers. | agency: grep ''contest'' in agency -> 3 hits (e.g. ''contestability (the ability to question and cross-check AI output)''). The page already carries the agency-as-contestable, interactionally-constituted account, so the editorial''s  | ai-feedback-quality: grep ''feedback'' in ai-feedback-quality -> 82 hits. The editorial carries no feedback-quality finding; Dong''s CoI mediation is not feedback-specific and the page already covers comparability,
+    uptake and meta-analytic effe | ai-literacy: grep ''digital literacy'' in ai-literacy -> 4 hits (e.g. ''Unlike general digital literacy, AI literacy requires...''). The page already distinguishes digital literacy as a prerequisite construct, so the editorial''s moderato | ai-use-disclosure: grep ''disclosure'' in ai-use-disclosure -> 37 hits. The editorial makes no disclosure or transparency-statement claim. | assessment: grep ''assessment design|redesign'' in assessment -> 8 hits. The page already frames GenAI reshaping the whole assessment cycle; the editorial''s ''assessment design'' mention restates Claassen et al. (2026), already covered. | assessment-validity: grep ''validity'' in assessment-validity -> 55 hits. The editorial makes no validity-specific contribution. | change-management: grep ''strategic orientation|enabler'' in change-management -> 1 hit. The page already treats institutional strategy and resources as adoption drivers, and the editorial''s seven enablers are carried
+    on learning-analytics/g | community-of-inquiry: grep ''Community of Inquiry'' in community-of-inquiry -> 5 hits. The page already states presence is ''conditional on human accountability, not linear: strong presence can occur with high or low GenAI involvement'', i.e. the | creativity: grep ''deskill|homogen'' in creativity -> 5 hits (e.g. ''**Homogenization risk:** single-model assistance can reduce the diversity of ideas''). The creative-deskilling point is Tang & Wang''s finding and the page already carr | culturally-relevant-pedagogy: grep ''cultural'' in culturally-relevant-pedagogy -> 20 hits. The page already covers cultural responsiveness and monocultural default output (Trust et al.), so the editorial''s cultural-adaptability restatement is a replic | design-based-research: grep ''design-based'' in design-based-research -> 4 hits. The page is entirely about DBR and already states its causal limit (''cannot attribute learning gains to a specific mechanism''); the editorial only
+    calls for more DB | educational-measurement: grep ''equivalen'' in educational-measurement -> 3 hits (e.g. ''A null result is not evidence of equivalence unless it is bounded''). The editorial''s call for measurement-equivalence testing is programmatic and undemonstrate | educational-policy-ai: grep ''enabler|governance'' in educational-policy-ai -> 24 hits. The seven enablers and governance maturity themes are already covered. | equity-in-ai-education: grep ''equity|distribution'' in equity-in-ai-education -> 37 hits, and ''intervention research'' -> 1 hit (the page already reads the absence of equity-focused intervention research as the equity problem). The editorial''s di | explainable-ai: grep ''explainab'' in explainable-ai -> 15 hits. The editorial makes no explanation claim; its ''parsimonious explanations'' is about theory, not XAI. | feedback: grep ''feedback'' in feedback -> 110 hits. The editorial makes no feedback finding. | generative-ai: grep ''generative'' in generative-ai
+    -> 29 hits. The page already treats GenAI''s educational value as design-dependent and repeats the ''HOW it is used'' framing, which the editorial''s mediation thesis restates. | governance: grep ''seven enablers|enabler'' in governance -> 2 hits (e.g. Svetec, Divjak & Kadoić seven-enabler bullet). The enablers are already on the page. | higher-ed: grep ''higher education|institution'' in higher-ed -> 27 hits. The page already covers institutional transformation and the policy-practice gap; the editorial''s research-maturity agenda is placed on learning-analytics. | human-ai-collaboration: grep ''collaboration'' in human-ai-collaboration -> 38 hits. The page already frames whether the partnership ''preserves or replaces'' cognitive work; the editorial adds no distinct collaboration finding. | inclusive-learning: grep ''inclusiv'' in inclusive-learning -> 16 hits. The editorial makes no inclusion finding beyond the agenda''s participatory-infrastructure remark. | learning-design: grep
+    ''learning design'' in learning-design -> 12 hits. The page already carries Claassen et al. (2026)''s LA-vs-GenAI design clustering with figures (0.32, 0.26, 0.15), so the editorial''s restatement is a replication. | learning-gains: grep ''learning gain'' in learning-gains -> 29 hits. The page already documents AI-inflated performance versus durable learning; the editorial adds no outcome finding. | llm: grep ''llm'' in llm -> 33 hits. The editorial makes no LLM-specific finding. | meta-analysis-systematic-review: grep ''systematic review'' in meta-analysis-systematic-review -> 35 hits. The editorial only concedes its claim lacks a systematic review, which is not a contribution to the method page. | mixed-methods-research: grep ''mixed method'' in mixed-methods-research -> 3 hits. The page already covers mixed designs and their integrating role; the editorial only recommends intervention designs. | motivation: grep ''motivation'' in motivation -> 37 hits. The editorial''s motivation
+    mention is generic and already covered. | pedagogy: grep ''pedagog'' in pedagogy -> 39 hits. The editorial''s pedagogical-mediation point restates the page''s existing ''how AI is used matters as much as whether'' frame. | privacy: grep ''privacy'' in privacy -> 24 hits. The editorial makes no privacy finding. | problem-solving: grep ''problem solving'' in problem-solving -> 16 hits. The page already covers cognitive debt and metacognitive laziness; the editorial only restates Claassen''s creative problem solving. | qualitative-research: grep ''qualitative'' in qualitative-research -> 27 hits. The page already covers the qualitative approaches; the editorial''s critique of discourse-based designs adds nothing. | scaffolding: grep ''scaffold'' in scaffolding -> 68 hits. The editorial makes no scaffolding finding. | self-determination-theory: grep ''self-determination'' in self-determination-theory -> 6 hits. The page already carries Claassen et al. (2026)''s SDT-on-instructors finding,
+    so the editorial''s restatement is a replication. | self-regulated-learning: grep ''self-regulat'' in self-regulated-learning -> 35 hits. The editorial makes no SRL finding. | self-report-measures: grep ''self-report'' in self-report-measures -> 41 hits. The page already argues self-report cannot measure learning and dominates the field (survey scales 68.3%), so the editorial''s critique is covered. | stakeholders: grep ''stakeholder'' in stakeholders -> 15 hits. The page already covers the multi-stakeholder framing, and the editorial''s ''wide stakeholder engagement'' restates it. | student-support-and-success: grep ''support allocation|allocation'' in student-support-and-success -> 5 hits. The page already covers the actionability gap and the allocation critique (SC2R, López-Pernas), so the editorial''s enabler/allocation restate | teacher-role: grep ''teacher'' in teacher-role -> 83 hits. The page already covers educators combining technical affordances with local knowledge; the editorial''s
+    Claassen restatement is a replication. | theories-and-frameworks: grep ''falsif|test of a theory|predict'' in theories-and-frameworks -> 6 hits (e.g. ''A theory predicts what happens when something changes... makes no prediction that could have failed, what has actually been learned?''). T | visualization: grep ''visuali'' in visualization -> 19 hits. The editorial makes no visualization finding.'
+- article: sun-governing-genai-policy-cross-national-2026
+  date: '2026-10-18'
+  integrated: []
+  no_change:
+  - academic-integrity
+  - ai-literacy
+  - ai-use-disclosure
+  - assessment
+  - educational-policy-ai
+  - ethics
+  - framing-ai-use-for-students
+  - generative-ai
+  - governance
+  - higher-ed
+  - humanities-education
+  - learner-identity
+  - llm
+  - mixed-methods-research
+  - pedagogy
+  - qualitative-research
+  - quantitative-research
+  - regulation
+  - social-norms-ai-use
+  - student-ai-interaction
+  reason: 'No integration: nothing in this cross-national policy-framing study met the significant-and-distinguishing bar for any candidate page; see per-concept grep evidence. || academic-integrity: grep ''disclosure'' in academic-integrity -> 12 hits; disclosure-as-liability already documented (Gonsalves 74% non-compliance, Vetter 3x suspicion odds, Teichmann non-forensic view). Article''s non-disclosure maneuvering a | ai-literacy: grep ''GenAI literacy'' in ai-literacy -> 4 hits; the article''s only literacy claim (embed GenAI literacy early) is generic and undifferentiated from existing coverage of GenAI literacy support. | ai-use-disclosure: grep ''non-disclosure'' in ai-use-disclosure -> 2 hits; penalty-anxiety suppression of disclosure is already the page''s core (Kirsanov ~34%, Vetter 66%, Gonsalves 74%). A further typology response is a replication. | assessment: grep ''assessment'' in assessment -> 62 hits; the article''s assessment result is a policy-valence null (dimension not
+    differing from neutral), not an assessment-design or validity contribution. | educational-policy-ai: grep ''sun-governing'' in educational-policy-ai -> 1 hit (line 38); the ABSA sentiment finding and no-country-effect result are already stated verbatim for 36 policies across four countries. | ethics: grep ''ethics'' in ethics -> 36 hits; the article''s ethics result is only a negative sentiment valence for one policy dimension, not an ethics-content insight the page lacks. | framing-ai-use-for-students: grep ''sun-governing'' in framing-ai-use-for-students -> 1 hit (line 32); the differentiated-framing finding (teaching positive vs GenAI/ethics negative within one document) is already stated. | generative-ai: grep ''policy'' in generative-ai -> 0 hits, ''institutional'' -> 2; the article is policy-framing analysis, out of scope for the technology page, which already situates GenAI in institutional contexts. | governance: grep ''cross-national|country|converg'' in governance -> 0 hits;
+    the page''s subject is governance machinery across levels, and the article''s policy-content convergence is not a governance insight. | higher-ed: grep ''national'' in higher-ed -> 2 hits; cross-national policy analyses (Chan institutionalization index, alrahmi, AlSheikh regional variation) already cover this ground. | humanities-education: grep ''policy'' in humanities-education -> 0 hits, ''governance'' -> 1; the article is not discipline-specific to humanities and adds nothing to its interpretive/authorial focus. | learner-identity: grep ''sun-governing'' in learner-identity -> 1 hit (line 44); the professional-vs-academic tension (''As a student I must learn, as a professional I must produce'') is already stated there. | llm: grep ''policy'' in llm -> 1 hit; the article is policy-framing analysis, out of scope for the model-technology page with no LLM-specific finding. | mixed-methods-research: grep ''convergent'' in mixed-methods-research -> 2 hits (t2i-competence-paradox, fouad-bentley,
+    edtech-privacy-deferral); the article is another convergent exemplar, not a methodological contribution. | pedagogy: grep ''guidance'' in pedagogy -> 2 hits; instructional-guidance research already covers the policy-guidance/teaching-practice link the article raises, adding no pedagogical insight. | qualitative-research: grep ''interview'' in qualitative-research -> 6 hits; the article''s 8 complementarity interviews are a standard use already documented (Zou, t2i, khlaif). | quantitative-research: grep ''model'' in quantitative-research -> 7 hits; ABSA/mixed-effects modeling is a standard quantitative-approach exemplar, and the page already covers modeling families including bibliometric analysis. | regulation: grep ''jurisdiction'' in regulation -> 2 hits; the page already frames regulation as uneven across jurisdictions, and the article''s institutional policy-framing convergence is not a regulatory finding. | social-norms-ai-use: grep ''encouragement'' in social-norms-ai-use -> 1
+    hit (Sobo: in-class encouragement vs syllabus contradiction); reliance on peer and instructor norms is already covered (Chen & Zou, Chirikov). | student-ai-interaction: grep ''non-adoption'' in student-ai-interaction -> 1 hit (Zou ''is this a trap'', 62.4% declined); the four maneuvering responses are already represented by documented non-adoption and disclosure-gap patterns.'

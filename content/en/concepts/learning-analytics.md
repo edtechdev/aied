@@ -1,7 +1,7 @@
 ---
 title: Learning Analytics
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-16T08:47:09-04:00"
+updated: "2026-10-18T10:07:01-04:00"
 type: concept
 pedagogy: [student-engagement]
 technology: [knowledge-tracing, student-modeling, edtech-platform]
@@ -55,6 +55,7 @@ A learner-facing dashboard is only as good as its reach: in a Hong Kong Grade 9 
 A frequency encoding of qualitative data is an entry point, not a verdict: in a ten-participant study, some instructors read frequency encodings as a productive way in while others warned they obscure rare but critical responses, so the design keeps every aggregate view linked back to verbatim student text ([[wordstream-glass-learning-analytics|Nguyen et al. (2026)]]).
 
 ### From description to intervention
+- **The evidence base is not yet intervention evidence.** Synthesizing four studies across student, disciplinary, educator and institutional levels, [[learning-analytics-genai-learning-design|Rienties, Divjak and Law (2026)]] find the field dominated by cross-sectional, [[self-report-measures|self-report]], discourse-based and expert-judgment designs, and call for intervention research testing causal mechanisms and longer-term, distributional outcomes.
 
 Learning analytics has evolved through three generations in the knowledge base: descriptive (what happened?), predictive (what will happen?), and prescriptive (what should we do?). AI enables the prescriptive layer — analytics that directly trigger [[feedback|instructional interventions]]. A key frontier is the **actionability gap**: [[sc2r-counterfactual-recourse-educational-2026|SC2R (Le, Abel & Laforge 2026)]] shows that prediction alone is insufficient for decision support, and that counterfactual recourse becomes operationally meaningful only when recommendations are semantically feasible and machine-checkable — constrained by timing, budget, immutability, and availability via SHACL validation, rather than merely model-valid. This moves the field beyond risk scores toward recommendations that institutions can actually enact, with [[human-in-the-loop-ai|human oversight]] preserved.
 
