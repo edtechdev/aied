@@ -1,7 +1,7 @@
 ---
 title: Ethics
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-16T07:28:51-04:00"
+updated: "2026-10-18T10:07:01-04:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, institutional-ai-policy]
 type: concept
 foundations: [academic-integrity, ai-literacy]
@@ -26,6 +26,7 @@ reviewed_by: [editor]
 Ethics is the normative backbone of AI in education: every AI tool, policy, and [[pedagogy|pedagogical]] decision encodes assumptions about what is fair, transparent, accountable, and safe. The knowledge base treats ethics as both a set of principles (fairness, privacy, transparency, autonomy, accountability) and a set of *practices* — how stakeholders actually reason about AI, how institutions govern it, and how learners are prepared to use it responsibly. Recent [[research-methods-aied|research]] documents a double movement: on one hand, a deepening concern that principle-based "checklist" ethics is insufficient; on the other, a growing emphasis on [[situated-learning|situated]] and ecological accounts of ethical judgment, and on the structural and institutional conditions that make responsible use possible.
 
 ## Core ethical dimensions
+- **Ethics as productive, not only restrictive.** [[learning-analytics-genai-learning-design|Rienties, Divjak and Law (2026)]] conclude that ethical fitness and trustworthiness are constitutive of educational quality — ethical fitness predicts technical-artistic balance in creative work, so ethics is a design variable rather than a final compliance stage.
 
 - **Fairness and bias:** [[bias-mitigation]] and [[equity-in-ai-education]] research address whether AI systems treat all learners fairly. [[ai-scoring-language-bias-physics|Language bias]] and [[bias-mitigation]] studies document real-world inequities, and [[marked-pedagogies-linguistic-bias-writing-feedback|writing-feedback research]] shows that personalizing [[ai-feedback-quality|AI feedback]] with student attributes can itself become a bias vector.
 - **Privacy and consent:** [[privacy]] research examines data collection, student surveillance, and the power imbalance between institutions and learners — a constraint that grows sharper as analytics become more granular and AI-driven.
@@ -42,6 +43,8 @@ Ethical AI use is not only a matter of principles but of how the people involved
 - **Students vs. instructors in readiness.** [[fekete-ethical-ai-literacy-gaps-2026|Fekete (2026)]] found students report higher ethical awareness than instructors (4.03 vs. 2.44), yet instructors show stronger willingness to use AI — students interpret ethics through immediate coursework while teachers treat it as institutional clarity and integrity. Both report weak institutional support, and readiness develops through different channels: instructors' moral awareness grows with institutional and social support, while students' confidence correlates with [[self-efficacy]] and collaboration rather than formal instruction.
 
 - **Use rises faster than ethical consensus.** Across four semesters in a US teacher-education program, students' GenAI use climbed from 57% to 83% for assessment preparation and 44% to 76% for studying, while 'unsure' ethical responses rose steadily and AI users rated its academic use as more ethical than non-users ([[longitudinal-ai-usage-ethics-policy-teacher-education-2026|Parker et al. (2026)]]).
+
+**Ethics is central to the field but rarely an outcome.** Across 394 GenAI higher-education studies, ethics and academic integrity were among the outcomes targeted least, and governance practices were under-reported ([[mapping-genai-higher-ed-scoping-review|Lin et al. (2026)]]).
 
 - **Normative frames are not interchangeable.** Among 151 Spanish undergraduates, moral equity was a necessary condition for intending to use LLMs in exam preparation (d = 0.338) but not a sufficient predictor, while consequentialist (β = 0.350) and deontological (β = 0.329) judgments were — students apply several normative frames ([[ethical-conditions-llm-exam-preparation-2026|Pérez-Portabella et al. (2026)]]).
 - **A shared multidimensional structure.** The six themes in [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026|Bilgiç & Sever]] — spanning data ethics, algorithm ethics, and pedagogical ethics — form an interconnected causal chain from fundamental principles (transparency, accountability, fairness, autonomy) to behavioral outcomes, underscoring that responsible AI use depends as much on clear institutional roadmaps as on individual awareness.

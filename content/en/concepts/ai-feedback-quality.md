@@ -1,7 +1,7 @@
 ---
 title: AI Feedback Quality
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-04T05:15:29-04:00"
+updated: "2026-10-18T10:07:01-04:00"
 connected_faqs: [ai-save-instructor-time, ai-feedback-at-scale, checking-whether-educational-ai-works]
 type: concept
 foundations: [ai-literacy]
@@ -49,6 +49,8 @@ A controlled comparison isolates the feedback component from the adaptive system
 
 - **Automated grading feedback:** [[automated-assessment|Automated Grading]] and [[formative-assessment]] research examine whether AI-scored [[assessment|assessments]] provide feedback that matches or exceeds human grading quality.
 
+**Feedback dominates practice but its quality is rarely the outcome.** Feedback and tutoring were the most frequently reported enacted uses across 394 GenAI higher-education studies, yet feedback quality was among the outcomes targeted least ([[mapping-genai-higher-ed-scoping-review|Lin et al. (2026)]]).
+
 - **Essay scoring feedback:** [[cong-confidence-asag-2026|Confidence-aware ASAG]] and [[choi-anchor-aes-prompting-2025|anchor-based AES]] explore how confidence calibration and [[prompt-engineering|prompting]] design affect feedback quality for writing assessment.
 - **Evidence-constrained, risk-adaptive feedback:** [[risk-adaptive-genai-feedback-programming-2026|Wang (2026)]] separates three functions that feedback research usually evaluates together — predicting which failed state will persist, deciding when limited support capacity should be spent, and generating feedback whose claims stay inside recorded evidence. Across 2993 failed-submission states from 215 students, a calibrated risk model selected 17.8% of eligible test states and captured 25.2% of observed persistent failures, and after one standardized repair pass 519 of 544 generated messages carried all required components. Timing and grounding therefore join linguistic quality and retrievability as dimensions a feedback system has to be judged on.
 
@@ -60,6 +62,7 @@ A controlled comparison isolates the feedback component from the adaptive system
 - **The advantage can come from a worked example, not corrective feedback.** Practicing cover letters with AI beat feedback from experienced human editors on a later unaided task (d = .20), and merely viewing one AI-revised letter matched practicing with the tool, so the gain tracked the example ([[coach-not-crutch-ai-writing|Lira et al. (2025)]]).
 
 - **Source label versus feedback quality:** [[perceptions-teacher-vs-ai-feedback-bias-2026|Mertens et al. (2026)]] separate the *source* of feedback from its quality by holding content constant — 401 teachers rated feedback messages that were all generated with GPT-4-turbo but randomly labeled as teacher- or [[generative-ai|ChatGPT]]-generated, and the label alone shifted credibility (b = 0.21), usefulness (b = 0.47) and fairness (b = 0.48, all p < .001), with 73% preferring the teacher-labeled message, t(400) = 15.55, d = 0.78. Provider-directed items moved furthest — perceived effort (b = 1.34) and willingness to rely (b = 1.45) — and a written explanation of how ChatGPT works changed nothing (interaction ps ≥ .399), pointing to [[trust]], [[teacher-role|professional identity]] and [[bias-mitigation|ingroup bias]] in the rater rather than any deficiency in the feedback itself. Perceived quality can therefore be discounted by provenance even when the content is identical, which means a genuinely good tool can still stall at the point of use.
+- Credibility is not reducible to quality: [[chatgpt-feedback-credibility-perceived-learning|Pérez-López et al. (2026)]] found students' perceived competence with ChatGPT and their sense of its human-like empathy predicted its feedback credibility, while perceived warmth worked only through that empathy.
 
 - **Source label versus feedback quality, on the student side:** [[nazaretsky-feedback-source-bias-2025|Nazaretsky et al. (2025)]] ran the student-side counterpart, in which 472 EPFL students across six courses rated feedback on their own assignments blind to its source and again after disclosure, and most could not tell the two variants apart (287 of 472 guessed correctly). Ratings then moved in opposite directions — significantly so for Genuineness (p < .01) — with human providers rated more credible (μ = 3.28, σ = 0.77) than AI (μ = 2.25, σ = 0.85, Cohen's d = 0.57). The misattribution ran mostly one way: of 219 instances of low-rated human feedback, 205 were read as AI, so perceived quality and perceived identity reshape each other in both directions rather than the label merely discounting identical text.
 

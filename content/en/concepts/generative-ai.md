@@ -40,7 +40,7 @@ A census of educator tool use shows attention concentrated on production rather 
 
 ### The knowledge base's generative AI coverage
 
-With 80+ articles, generative AI is the knowledge base's largest technology thread. Research spans effectiveness studies ([[genai-meta-analysis-programming-learning|meta-analyses]]), safety concerns ([[hazra-safetutors-pedagogical-safety-2026|tutor harms]], [[eduguard-safe-rag-llm-tutor|guardrailing]]), and design principles ([[instructional-guidance-genai-learning|instructional guidance]]).
+With 80+ articles, generative AI is the knowledge base's largest technology thread. Across its 394 studies, ChatGPT with an unspecified version appeared in 94, the ChatGPT-3/3.5 family in 66, and the ChatGPT-4 family in 52 — so many reported capabilities describe model generations since superseded ([[mapping-genai-higher-ed-scoping-review|Lin et al. (2026)]]). Research spans effectiveness studies ([[genai-meta-analysis-programming-learning|meta-analyses]]), safety concerns ([[hazra-safetutors-pedagogical-safety-2026|tutor harms]], [[eduguard-safe-rag-llm-tutor|guardrailing]]), and design principles ([[instructional-guidance-genai-learning|instructional guidance]]).
 
 Pooled across 53 studies, GenAI-assisted education outperformed non-GenAI approaches on achievement (g = 0.40), higher-order thinking (g = 0.72), motivation (g = 0.81) and writing (g = 0.76), though game-assisted GenAI added no significant benefit (g = 0.24) ([[genai-educational-outcomes-meta-analysis|Dong (2026)]]).
 

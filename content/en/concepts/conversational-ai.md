@@ -1,7 +1,7 @@
 ---
 title: Conversational AI
 created: "2026-08-22T04:44:37-04:00"
-updated: "2026-10-03T02:57:43-04:00"
+updated: "2026-10-18T10:07:01-04:00"
 type: concept
 foundations: [ai-literacy, human-ai-collaboration]
 technology: [conversational-ai, generative-ai, intelligent-tutoring, llm, pedagogical-agent]
@@ -35,6 +35,7 @@ Benchmarks may overstate how much scaffolding gets taken up: across 9,490 chats 
 **Interaction and collaboration.** Conversational agents are increasingly framed as interaction partners rather than answer-givers. [[student-ai-interaction]] captures how learners prompt, question, and verify with CAI in practice. In [[collaborative-learning]], agents mediate participation and shared [[regulation]], and in [[language-learning]] they provide real-time conversational practice. The [[human-ai-collaboration]] thread examines when this partnership preserves versus substitutes for the learner's cognitive work. LLMs as critique partners illustrate the preservation side concretely: [[oppenheimer-llms-collaborative-learning-partners-2026|Oppenheimer, Cash & Connell Pensky (2025)]] had ChatGPT, Gemini, or Claude critique students' argumentative essays across a semester, and learners improved on writing, [[prompt-engineering|prompt engineering]], and response-to-feedback while rating the exchanges useful, engaging, and enjoyable — with active rebuttal of model claims (87.8%) showing they treated the conversational partner critically rather than passively.
 
 Conversational agents are used to grade, and their evaluative behavior diverges from humans': ChatGPT was the most lenient of three evaluators of the same 52 undergraduate projects (M = 91.46 against 83.13 for the instructor) and shared no grading logic with peers (r = 0.05), though students valued its dialogic interactivity ([[usher-faraon-who-grades-best-2026|Usher & Faraon (2026)]]).
+**Users read the agent's credibility socially.** Perceived competence of ChatGPT predicted its feedback credibility directly, while perceived warmth worked only through human-like empathy (SEM, 230 students), for [[chatgpt-feedback-credibility-perceived-learning|Pérez-López et al. (2026)]] — a conversational agent earns credibility as a social partner, not just as an answer source.
 
 
 **Scaffolding the student's side of the conversation.** [[helpcoach-ai-help-seeking-scaffolding-2026|Jin et al. (2026)]] add a question-specificity monitor and a revision template to a chat interface and intervene only on vague questions: in a between-subjects study with 40 college students learning web programming, HelpCoach users wrote significantly more specific first questions (57.3% vs. 40.5%) and retained more knowledge one week later (mean gain 1.9 vs. 0.3 of 6, d = 1.100). The retention benefit did not run through more targeted chatbot replies, which did not differ by condition — leaving the mechanism an open hypothesis rather than a demonstrated pathway.

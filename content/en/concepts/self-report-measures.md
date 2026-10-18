@@ -38,7 +38,7 @@ This is not a weakness to be apologized for. Many constructs of interest — mot
 
 ## What self-report can and cannot establish
 
-Self-report is well suited to attitudes, beliefs, intentions, perceptions of a tool, affective states, and self-judged confidence or difficulty. It is poorly suited to behavior, and it cannot measure learning at all: a person's belief that they learned something is itself a perception, and the knowledge base treats perceived learning as a distinct quantity from [[learning-gains|learning gains]].
+Self-report is well suited to attitudes, beliefs, intentions, perceptions of a tool, affective states, and self-judged confidence or difficulty. A scoping review of 394 GenAI higher-education studies found survey scales the most frequently reported assessment method (269 studies, 68.3%), ahead of tests/quizzes/rubrics (185, 47.0%) and artifact analysis (167, 42.4%) ([[mapping-genai-higher-ed-scoping-review|Lin et al. (2026)]]). It is poorly suited to behavior, and it cannot measure learning at all: a person's belief that they learned something is itself a perception, and the knowledge base treats perceived learning as a distinct quantity from [[learning-gains|learning gains]].
 
 The consequence is a set of claims that look similar in a results section but differ in strength:
 

@@ -1,7 +1,7 @@
 ---
 title: Theories and Frameworks
 created: "2026-09-19T05:40:00-04:00"
-updated: "2026-09-30T12:53:22-04:00"
+updated: "2026-10-18T10:07:01-04:00"
 type: concept
 foundations: [ai-education, theory-development-aied, philosophy-of-ai-in-education]
 pedagogy: [learning-theories]
@@ -39,6 +39,7 @@ These explain mechanisms: they name the parts that do the work and predict what 
 - **[[community-of-inquiry|Community of inquiry]]** — the social, cognitive, and teaching presences that make an online experience work; a theory of the experience and a design frame at once.
 - **[[self-determination-theory|Self-determination theory]]** — autonomy, competence, and relatedness as motivational preconditions. Often the explanation offered when AI use raises engagement without raising learning.
 - **[[cognitive-psychology|Cognitivism]]** — information processing, working memory, and the divergence between the feeling of learning and actual learning.
+- **Social perception theory (warmth and competence)** — imported from social cognition and service-robot research, it frames how users judge an AI agent's credibility: perceived competence predicted ChatGPT's feedback credibility directly while warmth worked only through human-like empathy (SEM, 230 students; [[chatgpt-feedback-credibility-perceived-learning|Pérez-López et al. (2026)]]).
 
 ## Models of the learner and of the learning process
 
