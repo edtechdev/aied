@@ -17,8 +17,11 @@
 #   -F, --message-file F read the message from a file (used by commit-if-green.sh)
 #   --role ROLE          what the AI did in this change (repeatable; default
 #                        drafting). Use --no-ai for a pure human edit.
-#   --model ID           model that did the work (repeatable; defaults to $AI_MODEL
-#                        or the first model in site.config.json)
+#   --model ID           model that did the work (repeatable). Falls back to
+#                        $AI_MODEL, then to the ai_assist.model recorded on the
+#                        pages being committed; if none of those decide it, the
+#                        script refuses rather than record a model that did not
+#                        do the work. Must be listed in site.config.json.
 #   --agent NAME         harness or tool name (default: site.config.json harness)
 #   --reviewed-by ID     human contributor id who reviewed this change
 #   --no-ai              shorthand for --role none (pure human edit)
@@ -72,27 +75,82 @@ fi
 # Read the disclosure block. python3 is already required by the rest of tooling/.
 # Tab-separated: the role list contains a space ("link classification"), so
 # whitespace-splitting the fields would truncate it.
-IFS=$'\t' read -r DEFAULT_MODEL DEFAULT_AGENT ROLE_LIST CONTRIBUTOR_IDS <<<"$(python3 - "$CONFIG" <<'PY'
+IFS=$'\t' read -r DEFAULT_AGENT ROLE_LIST CONTRIBUTOR_IDS MODEL_LIST <<<"$(python3 - "$CONFIG" <<'PY'
 import json, sys
 cfg = json.load(open(sys.argv[1], encoding='utf-8'))
 ai = cfg.get('aiDisclosure', {})
 models = [m['id'] for m in ai.get('models', []) if m.get('id')]
 roles = ['drafting', 'revision', 'link classification', 'summarization', 'translation', 'none']
 humans = [c['id'] for c in cfg.get('contributors', []) if c.get('kind') == 'human']
-print('\t'.join([models[0] if models else 'unknown',
-                (ai.get('harness') or 'unknown').replace(' ', '-'),
+print('\t'.join([(ai.get('harness') or 'unknown').replace(' ', '-'),
                 ','.join(roles),
-                ','.join(humans)]))
+                ','.join(humans),
+                ','.join(models)]))
 PY
 )"
 
+# Which model did the work is NOT derivable from the config. aiDisclosure.models
+# lists the models in use, newest first, and it says nothing about any one commit;
+# defaulting to its first entry stamps a commit with whatever happens to be newest
+# at the time rather than with the model that actually ran it. That default
+# mis-attributed 21 commits (every one from the 2026-10-16 switch until it was
+# removed) so it is gone. Resolve the model from --model, then $AI_MODEL, then the
+# pages being committed -- each carries its own ai_assist.model recording who
+# produced its text -- and refuse rather than guess when none of those decide it.
+if [[ ${#MODELS[@]} -eq 0 && -n "${AI_MODEL:-}" ]]; then
+  MODELS=("$AI_MODEL")
+fi
 if [[ ${#MODELS[@]} -eq 0 ]]; then
-  MODELS=("${AI_MODEL:-$DEFAULT_MODEL}")
+  while IFS= read -r inferred; do
+    [[ -n "$inferred" ]] && MODELS+=("$inferred")
+  done < <(python3 - "$WIKI" <<'PY'
+import os, re, subprocess, sys
+wiki = sys.argv[1]
+staged = subprocess.run(
+    ['git', 'diff', '--cached', '--name-only', '--diff-filter=ACM'],
+    cwd=wiki, capture_output=True, text=True).stdout.split()
+seen = set()
+for rel in staged:
+    if not re.match(r'content/[a-z]{2}/(articles|concepts|faqs|resources)/.+\.md$', rel):
+        continue
+    path = os.path.join(wiki, rel)
+    if not os.path.exists(path):
+        continue
+    text = open(path, encoding='utf-8', errors='replace').read()
+    if not text.startswith('---'):
+        continue
+    frontmatter = text.split('---')[1]
+    for model in re.findall(r'^\s*-?\s*model:\s*["\']?([^"\'\s]+)', frontmatter, re.M):
+        seen.add(model.strip())
+# One consensus value is evidence. Two different models in one commit is ambiguous
+# (a page drafted by one model and translated by another, say), so print nothing
+# and let the caller state what it meant.
+if len(seen) == 1:
+    print(seen.pop())
+PY
+)
+fi
+if [[ ${#MODELS[@]} -eq 0 ]]; then
+  {
+    echo "error: cannot tell which AI model did this work, and refusing to guess."
+    echo "       site.config.json aiDisclosure.models lists the models in use (newest"
+    echo "       first); its order is not a record of this change."
+    echo
+    echo "       Pass --model <id> (repeatable) or set AI_MODEL=<id>."
+    echo "       Known models: $MODEL_LIST"
+  } >&2
+  exit 2
 fi
 [[ -z "$AGENT" ]] && AGENT="${AI_AGENT_NAME:-$DEFAULT_AGENT}"
 
-# Validate roles and contributor ids against site.config.json, so a typo cannot
-# silently create a disclosure value nothing else understands.
+# Validate roles, models and contributor ids against site.config.json, so a typo
+# cannot silently create a disclosure value nothing else understands.
+for m in "${MODELS[@]}"; do
+  case ",$MODEL_LIST," in
+    *",$m,"*) ;;
+    *) echo "error: model '$m' is not listed in site.config.json aiDisclosure.models ($MODEL_LIST)" >&2; exit 2 ;;
+  esac
+done
 for role in "${ROLES[@]:-}"; do
   [[ -z "$role" ]] && continue
   case ",$ROLE_LIST," in
