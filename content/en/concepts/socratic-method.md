@@ -2,7 +2,7 @@
 connected_resources: [matt-pocock-skills]
 title: Socratic Method
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-15T08:25:00-04:00"
+updated: "2026-10-19T09:40:00-04:00"
 type: concept
 foundations: [ai-education, critical-thinking]
 pedagogy: [metacognition, scaffolding]
@@ -38,7 +38,7 @@ Unlike direct-instruction AI tutors that give answers, Socratic AI tutors use qu
 - **Surface [[misconceptions]]** — through carefully chosen counterexamples
 - **Guide toward insight** — without giving the answer away
 
-The Socratic approach directly embodies the principle from [[llm-training-and-fine-tuning|EduQwen]]: **reward "guiding" over "answering."** However, real-time Socratic calibration is harder than paper-bench pedagogy: EduQwen optimizes for correct guiding on a multiple-choice [[benchmark]], whereas a live Socratic tutor must decide *when* to guide, *when* to hint, and *when* to answer — based on real-time student signals. [[affective-tutoring|Affective state]] is a critical moderator: a frustrated student may need a brief direct answer before returning to Socratic mode.
+The Socratic approach directly embodies the principle from [[llm-training-and-fine-tuning|EduQwen]]: **reward "guiding" over "answering."** However, real-time Socratic calibration is harder than paper-bench pedagogy: EduQwen optimizes for correct guiding on a multiple-choice [[benchmark]], whereas a live Socratic tutor must decide *when* to guide, *when* to hint, and *when* to answer — based on real-time student signals. [[affective-tutoring|Affective state]] is a critical moderator: a frustrated student may need a brief direct answer before returning to Socratic mode. A stricter variant removes the teaching entirely: an introductory-physics agent that only probes asks students to defend a correct prediction against one changed variable (cave detection) and keeps the message after a correct answer indistinguishable from the one after a wrong answer ([[socratic-probing-agent-physics-cave-detection-2026|Cho (2026)]]).
 
 ## Evidence of effectiveness
 
@@ -150,3 +150,4 @@ The Socratic method is closely tied to [[scaffolding]] (providing just enough su
 - [[guardrails-ai-teaching-assistants-programming-2026]] — Guardrails or Roadblocks? Effects of Pedagogical Style and Context Awareness in AI Teaching Assistants for Programming
 - [[genai-socratic-tutor-biology-argumentation-2026]] — Enhancing PISA-aligned argumentation skills of prospective biology teachers through generative artificial intelligence
 - [[etq-ai-conversational-teacher-training-2026]] — Conversational AI diagnostic for teaching misconceptions with evidence-grounded dialogue (Miranda & Calvani 2026)
+- [[socratic-probing-agent-physics-cave-detection-2026]] — Designing an AI Agent That Does Not Tutor: Design Rules for Socratic Probing in Introductory Physics

@@ -1,7 +1,7 @@
 ---
 title: Trust Calibration
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-10-16T09:45:00-04:00"
+updated: "2026-10-19T09:40:00-04:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading, human-ai-collaboration]
 pedagogy: [metacognition]
@@ -65,7 +65,7 @@ The design implication is a two-dimensional user typology — the *ability* to v
 A third lever operates on the interaction structure itself: replacing a single recommendation with a [[tuo-armada-multi-agent-debate-overreliance-2026|multi-agent debate whose aggregate position is withheld (Tuo et al., 2026)]] cut detrimental switching to an incorrect AI position from 42–60.5% to 5.7–8.2% among 186 participants. The lever is protective rather than corrective — participants who began with a wrong judgment recovered the correct decision in only 30.6% and 24.7% of trials, below chance for a binary choice.
 
 [[calibrating-trustworthiness-llm-education-2026|Coscia et al. (2026)]] supply a design lever that did move calibration: showing reviewers co-designed trustworthiness criteria while they compared LLM responses raised inter-rater agreement from Krippendorff's alpha 0.3987 to 0.4931, though pooled agreement stayed below 0.67 and extra measures added overhead.
-For children, the design lever may be the agent's own register: in a game-based probe with 12 children aged 8–10, [[children-verification-ai-suggestions-game-2026|Liu et al. (2026)]] found partner-like phrasing routed them toward questioning the AI directly while tool-like phrasing routed them toward seeking evidence.
+For children, the design lever may be the agent's own register: in a game-based probe with 12 children aged 8–10, [[children-verification-ai-suggestions-game-2026|Liu et al. (2026)]] found partner-like phrasing routed them toward questioning the AI directly while tool-like phrasing routed them toward seeking evidence. Children who *design* chatbots show the pattern in another register: among 115 learners aged 8–18, younger students set significantly higher confidence, and some deliberately built bots that gave wrong answers yet still rated them trustworthy ([[children-design-trustworthy-ai-chatbots-2026|Ozturk et al. (2026)]]).
 
 With autonomous agents the object of calibration changes. [[agentic-literacy-debt|Nama (2026)]] argues the user becomes a principal who has delegated authority to a system whose actions are largely unobserved and irreversible, shifting the competency from judging outputs to understanding what was authorized, overseeing it, and attributing accountability when harm occurs.
 
@@ -149,3 +149,4 @@ Trust calibration is central to [[ai-literacy]] and sits alongside [[reducing-ai
 - [[kenzhebayeva-ai-role-rotation-pedagogical-model-2026]] — Role rotation as a structure for critically handling AI recommendations (Kenzhebayeva et al. 2026)
 - [[student-llm-use-ai-question-difficulty-data-science-2026]] — Student Use of LLMs and the Limits of AI-Generated Question Difficulty in Data Science Courses
 - [[nazaretsky-trust-instrument-ai-edtech-2025]] — Student-facing instrument validating trust in AI-EdTech as four factors, with trust upstream of perceived usefulness (Nazaretsky et al. 2025)
+- [[children-design-trustworthy-ai-chatbots-2026]] — How Children Design and Reason about Trustworthy AI Chatbots

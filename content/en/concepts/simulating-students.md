@@ -1,7 +1,7 @@
 ---
 title: Simulating Students
 created: "2026-08-12T22:10:30-04:00"
-updated: "2026-10-16T09:45:00-04:00"
+updated: "2026-10-19T09:40:00-04:00"
 type: concept
 connected_faqs: [checking-whether-educational-ai-works, making-simulated-students-behave-like-learners, how-can-ai-assist-with-educational-research]
 foundations: [agentic-ai, teacher-role]
@@ -95,6 +95,8 @@ Architecture can enforce what prompting cannot: a neuro-symbolic simulator impos
 
 Beyond evaluating pedagogy, simulated students serve as a **test harness for auditing AI systems themselves** — a controlled way to probe how an AI behaves across diverse learner profiles before it touches real students. [[lopez-pernas-llm-appropriate-student-support-2026|López-Pernas et al. (2026)]] illustrate this: they generated 4,500 synthetic student vignettes with three LLMs to audit whether current [[llm|large language models]] can act as prescriptive [[learning-analytics]] recommenders, finding limited sensitivity to student need and sharp cross-model inconsistency. Using simulated cohorts to stress-test an AI's recommendations (rather than only to train or evaluate tutors) is a growing role for the paradigm, closely tied to [[ai-ed-evaluation|evaluating AI in education]] and to [[equity-in-ai-education]] when the audit is meant to surface disparate treatment across learner types.
 
+A sharper validity test asks whether a model reproduces human *choice* at all: in an adapted self-directed learning game, five frontier models exploited a single solution where 175 human participants explored across goals, so a model standing in for learners abandoned the behavior the simulation exists to reproduce ([[llm-goal-selection-self-directed-learning-2026|Molinaro et al. (2026)]]).
+
 
 Simulation can also pre-test the learner's choices: [[simulating-learner-task-selection|Noh et al. (2026)]] fit an Additive Factors Model and Bayesian [[knowledge-tracing]] to two real tutoring datasets and let 1,000 simulated learners choose skills under eight strategies, where a risk-averse rule produced roughly thirty times the overpractice of the others and a just-below-mastery constraint cut it to 1.8×.
 
@@ -159,3 +161,4 @@ Training against a simulator can also travel: TutorLoop's reinforcement-learning
 - [[student-development-agent-risk-free-simulation-2025]] — predicting students' post-course developmental outcomes on a multi-agent platform without exposing them to the intervention
 - [[preservice-teachers-noticing-ai-simulations-2026]] — three weeks of preservice teachers' attending, interpreting and shaping in an equal-sign chatbot simulation, and how the design steers what they notice
 - [[beagle-grounded-learner-emulation-2026]] — a neuro-symbolic simulator that enforces SRL structure architecturally rather than by prompting, and passes a human Turing test
+- [[llm-goal-selection-self-directed-learning-2026]] — Language Model Goal Selection Differs from Humans in a Self-Directed Learning Task
