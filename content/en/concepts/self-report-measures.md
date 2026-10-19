@@ -1,7 +1,7 @@
 ---
 title: Self-Report Measures
 created: "2026-09-12T11:05:00-04:00"
-updated: "2026-10-16T08:47:09-04:00"
+updated: "2026-10-19T16:35:00-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [self-efficacy, student-engagement]
@@ -71,6 +71,8 @@ Behavioral estimates show the same split. [[predicting-attrition-competitive-pro
 Sometimes asking and observing are set up head to head. [[student-llm-interaction-taxonomy-review-2026|A scoping review of 46 categorizations from 33 studies]] found the literature split about evenly between self-report and interaction-log data, and concluded that categories "often reflect the measurement approach as much as the interaction itself" — with self-report studies capturing perceptions and intentions while log-based studies capture observable conversational behavior, and the two rarely integrated. [[tracing-genai-literacy-interaction-patterns|Process-data work on GenAI literacy]] makes the constructive version of the point: whether a student prompts iteratively, refines output, and manages [[hallucination-risk|hallucinations]] is observable in interaction logs and not in a questionnaire.
 
 A 2026 structured review and exploratory [[meta-analysis-systematic-review|meta-analysis]] of measures for competent [[generative-ai]] use puts a pooled number on that gap from the other direction: pooling three directly reported same-sample subjective–objective correlations (combined reported N = 2,765) gave r = .055 (Hartung–Knapp 95% CI [−.047, .156]), and adding a fourth study's cross-factor correlations reached only r = .079. All three primary effects came from a single research program, the largest contributor's reported correlation and p-value could not be reconciled, and the review concludes that self-report cannot stand in for objective performance scores — while noting that the performance instruments are themselves narrow, covering foundation knowledge rather than the oversight and reliance behaviors that matter at work ([[competent-generative-ai-use-measures-review-2026|Verí (2026)]]).
+
+A two-phase systematic review puts a rate on that divergence at the level of conclusions: of 51 same-construct pairs from 47 reports, 30 agreed, 11 disagreed and 10 were mixed. Disagreement ran both ways: five contrasts paired a null self-report result with a positive performance result, against two the reverse ([[same-construct-same-conclusion-self-report-vs-performance-2026|Fan et al. (2026)]]).
 
 The instrument literature itself can be read as evidence of the gap's scale. [[assessing-teachers-ai-literacy-measurement-tools-2026|Zainal, Mohd Matore and Maat (2026)]] appraised 33 instruments for teacher AI literacy and found that 31 (93.9%) were self-report scales of perceived confidence, only two (6.1%) tested knowledge objectively, and none used performance-based tasks between 2019 and 2025. Their conclusion is the one this page keeps reaching from other directions: self-report scores index confidence rather than capability, so they cannot stand in for competence when groups or programs are compared.
 
@@ -172,3 +174,4 @@ The knowledge base's constructive answers are consistent, and none of them requi
 - [[ai-literacy-self-assessment-questionnaire-primary-2025]] — A 15-item self-assessment instrument for upper-primary students, explicit about what perceived competence can establish
 - [[assessing-teachers-ai-literacy-measurement-tools-2026]] — Review finding 31 of 33 teacher AI literacy instruments self-report and none performance-based
 - [[najem-behavioral-clustering-adaptive-learning-recommendation-2026]] — Profiles derived from self-report behave the same way
+- [[same-construct-same-conclusion-self-report-vs-performance-2026]] — Two-phase review putting a rate on same-construct self-report versus performance disagreement (Fan et al. 2026)

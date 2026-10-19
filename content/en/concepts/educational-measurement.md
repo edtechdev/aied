@@ -1,7 +1,7 @@
 ---
 title: Educational Measurement
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-10-16T08:47:09-04:00"
+updated: "2026-10-19T16:35:00-04:00"
 type: concept
 foundations: [ai-literacy]
 technology: [educational-nlp, knowledge-tracing, learning-analytics]
@@ -97,6 +97,7 @@ Educational measurement is powerful but fallible. Understanding its failure mode
 
 - **Coding uncertainty as error conflates two failures.** In a 30-statement mental-health knowledge test, accuracy scoring counted *do not know* as inaccurate, yet 67.3% of students chose it on one fact while 60.6% of model responses were positively wrong — a forced correct/incorrect format cannot separate uncertainty from an incorrect belief ([[mental-health-literacy-students-llms-2026|Richter et al., 2026]]).
 - **Rater agreement sets the practical ceiling.** A large-scale validation on Uruguay's [[human-in-the-loop-ai-scoring-national-assessment-2026|*Acredita EB*]] found that human rater agreement itself sets the practical ceiling for AI scoring: among ten experts independently scoring 50 texts, no rubric item reached unanimous agreement with consensus, the most divergent rater typically fell below 80% agreement while the best exceeded 90%, and Cohen's Kappa was only slight or fair for several skewed items that almost all responses satisfy. The authors therefore judge automated scores against a reference standard that is itself imperfect — ten raters, a single operational score for most responses, and several items in the conventional 70% acceptability zone — a caution for any measurement claim built on single-rater operational labels.
+- **The non-self-report measure is not the correct one.** A two-phase review of 51 same-construct pairs found 41.2% reached discordant or mixed conclusions, and argues that tests, ratings and traces are heterogeneous rather than a criterion standard, each needing its own validity argument ([[same-construct-same-conclusion-self-report-vs-performance-2026|Fan et al. (2026)]]).
 - **Validity — measuring the wrong thing.** Validity asks whether an instrument measures the construct it claims to. Common failures include **construct under-representation** (an AI-literacy test that samples only technical knowledge, missing ethics) and **construct-irrelevant variance** (an item that rewards reading fluency rather than the target skill). [[ai-scoring-language-bias-physics|AI scoring and language bias]] shows how surface features — language, phrasing, style — can drive automated scores in ways unrelated to the intended construct. [[assessment-validity]] is the guardrail against these threats.
 
 
@@ -185,3 +186,4 @@ Educational measurement is the foundation for [[item-response-theory]], [[assess
 - [[bloom-taxonomy-llm-item-classification-2026]] — Do Cognitive Classifications Predict Empirical Item Behavior? Aligning Bloom's Taxonomy with the Psychometric Properties of National Centralized Mathematics Items across Grades 4–12
 - [[llm-benchmark-secondary-science-topics-2026]] — A synthetic benchmark's measurement quality rests on its generation pipeline
 - [[worden-foundationalassist-knowledge-tracing-dataset-2026]] — Difficulty without discrimination
+- [[same-construct-same-conclusion-self-report-vs-performance-2026]] — Same-construct pairs disagree in 41.2% of cases, and performance measures need their own validity argument (Fan et al. 2026)
