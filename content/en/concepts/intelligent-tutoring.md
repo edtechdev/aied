@@ -2,7 +2,7 @@
 connected_resources: [deeptutor, openmaic]
 title: Intelligent Tutoring
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-16T08:47:09-04:00"
+updated: "2026-10-19T09:40:00-04:00"
 connected_faqs: [ai-agents-support-students-instructors, developing-ai-tutor, training-ai-tutors-to-guide-rather-than-answer, checking-whether-educational-ai-works, making-simulated-students-behave-like-learners]
 type: concept
 pedagogy: [scaffolding]
@@ -97,6 +97,8 @@ For instructors deploying AI tutors and developers building them, the knowledge 
 **Support the learner's autonomy, competence, and relatedness.** AI tutors work best when they feel like a safe, structured practice space rather than an answer machine. Provide immediate, nonjudgmental [[feedback]]; scope the tutor to the learner's level so competence is achievable; and preserve learner agency by keeping the tutor a complement to (not a substitute for) other instruction.([[instructor-designed-ai-tutors-foreign-language-sdt-2026]])
 
 **Guard against answer disclosure.** The central failure mode of LLM tutoring is giving the answer away, which inflates immediate performance while undermining durable learning. Use Socratic prompting, calibrated hints, and non-disclosive scaffolding — and measure outcomes on unassisted, [[transfer-of-learning|transfer]] tasks, not just in-tool performance.([[measuring-llm-tutors-teach-vs-solve]])([[socratic-method]])
+
+- **Numbering-only references defeat retrieval.** In a bilingual RAG tutor for a 400-student data science course, posts citing "P2 Q10" retrieved poorly until an extraction stage rewrote them as standalone questions, after which 97.46% of programming references resolved ([[multi-sourced-ai-tutor-non-native-english-2026|Shen et al. (2026)]]).
 
 **Separate diagnosis from feedback.** LLM tutors reliably confirm correct steps but over-reject valid-but-suboptimal reasoning and over-validate incorrect solutions — and accurate diagnosis does not reliably yield actionable feedback.([[yasir-llm-tutoring-agents-2026]]) The coupling also cuts the other way: [[reddig-maclellan-personalized-feedback-llm-2026|Reddig et al. (2025)]] found GPT-4 still crafted relevant, general-but-correct feedback ~74% of the time even after misdiagnosing an error (by restating the concept or expected answer format), yet almost all factually incorrect feedback followed a wrong diagnosis — so error identification remains the crux of actionable tutoring. A hybrid architecture works best: let a knowledge-grounded classifier handle solution diagnosis while the LLM focuses on open-ended scaffolding and dialogue.
 - **Fairness auditing is becoming part of tutor evaluation.** EduFair-Bench holds the simulated student fixed and varies only demographic attributes, showing that tutoring quality is not uniform across learners and that reward-tuning pedagogy does not automatically remove those differences ([[edufair-bench-pedagogical-fairness-llm-tutors-2026]]).
@@ -207,3 +209,4 @@ Effective tutoring requires continual adaptation: [[zhang-tutormoments-2026|Zhan
 - [[alam-goblins-math-platform-2026]] — Full-district teacher-mediated AI math rollout: ~51% engagement fidelity and a dose gradient from 0.11 SD (2 problems/week) to 0.31 SD (20+/week); larger exploratory associations for IEP, EL, and Hispanic students
 - [[llm-tutors-process-synthesis-2026]] — Do LLM Tutors Actually Teach? A Process-Centered Synthesis of the Tutoring Loop
 - [[worden-foundationalassist-knowledge-tracing-dataset-2026]] — Yet off-the-shelf models may not supply that evidence: Worden et al
+- [[multi-sourced-ai-tutor-non-native-english-2026]] — Multi-sourced AI Tutor for Non-Native English Speaker Students

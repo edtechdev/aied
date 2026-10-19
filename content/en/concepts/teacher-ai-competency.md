@@ -1,7 +1,7 @@
 ---
 title: Teacher AI Competency
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-10-15T21:08:00-04:00"
+updated: "2026-10-19T09:40:00-04:00"
 connected_faqs: [faculty-ai-competencies, addressing-common-misconceptions-ai-education, faculty-development-ai]
 type: concept
 foundations: [ai-literacy, educational-development, teacher-role]
@@ -34,6 +34,7 @@ Teacher AI competency matters because the teacher is the decisive factor in whet
 The knowledge base's research converges on several interconnected dimensions:
 
 - **Technical proficiency:** crafting effective [[prompt-engineering|prompts]] for educational objectives, [[ai-ed-evaluation|evaluating AI]] tools for pedagogical fit and safety, and troubleshooting failures in real time. [[genai-pd-ai-pck-learning-gain-2026|An intensive GenAI PD program]] documented significant gains across all five AI-PCK components (overall *d* = 2.36), showing technical-pedagogical skill is trainable.
+- **Specifying agent workflows:** when teachers configure a chatbot in natural language, the dominant failure is lost intent rather than wrong facts — bots skipped required workflow steps in 53.8% of end-user conversations and omitted expectation setup in 33.4% ([[eduwild-teacher-configured-chatbots-failures-2026|Liu et al. (2026)]]), so writing ordered, explicit steps is a trainable competency dimension of its own.
 - **Pedagogical knowledge is the decisive layer.** A cross-level study of [[k-12|secondary]] [[ai-education|AI education]] ([[pedagogy-first-technology-second-teacher-knowledge-2026|46 teachers, 2,832 students]]) found technical AI knowledge alone was insufficient — and could even slightly reduce students' perceptions of AI for social good — whereas pedagogical AI knowledge drove students' perceptions and their intention to learn AI. Competency frameworks should therefore weight pedagogical AI knowledge as the pivotal dimension, not a soft add-on.
 - **Pedagogical integration:** mapping AI use to learning objectives, designing [[scaffolding]] that supports student [[metacognition]] and self-[[regulation]], and integrating AI into [[learning-design|instructional design]]. [[ai-tpack-teacher-multi-agent-workflow|AI-TPACK research]] models how teachers combine technological, pedagogical, and content knowledge through multi-[[agentic-ai|agent]] workflows, while [[teacher-ai-teaming-five-levels|a five-level teacher-AI teaming framework]] (transactional → synergistic) captures how [[generative-ai|GenAI]] may replace, complement, or augment teacher competence.
 - **Assessment literacy:** evaluating AI-generated content and student AI outputs, and understanding how [[assessment-validity|validity]] shifts when students use AI. This connects to [[automated-assessment]], [[ai-detection]], and the broader [[assessment]] redesign agenda. For recommendation systems, this extends to judging whether an AI's explanations are genuinely understandable and pedagogically meaningful: [[xai-teachers-trust-edtech-recommendations-2026|Feldman-Maggor et al. (2025)]] found teachers trusted AI grouping recommendations more when explanations were framed in domain (curricular) language than when they exposed raw model features — a skill for demanding and appraising [[explainable-ai|explanation quality]] rather than accepting opaque output.
@@ -191,3 +192,4 @@ The instrument landscape itself has since been reviewed. [[assessing-teachers-ai
 - [[k12-teachers-genai-beliefs-five-countries-2026]] — Cross-national survey of 1,405 K-12 teachers: readiness predicts positive beliefs but not concern
 - [[teachers-ai-belief-profiles-talis-2024-2026]] — Four TALIS 2024 teacher belief profiles link professional learning and profile-specific barriers to AI use
 - [[microlearning-ai-modules-vocational-teacher-education-2026]] — Designing Microlearning Modules on AI for University Teachers in Vocational Teacher Education: A Design-Based Research Study
+- [[eduwild-teacher-configured-chatbots-failures-2026]] — EduWild: How Teacher-Configured Chatbots Fail in Real-World Use and How to Fix Them
