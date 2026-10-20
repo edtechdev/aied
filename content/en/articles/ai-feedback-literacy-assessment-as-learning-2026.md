@@ -1,7 +1,7 @@
 ---
 title: Using AI to Build Student Feedback Literacy and Leverage Assessment as a Learning Tool
 created: "2026-10-20T09:20:00-04:00"
-updated: "2026-10-20T09:20:00-04:00"
+updated: "2026-10-20T11:20:00-04:00"
 type: article
 sources: ['raw/papers/ai-feedback-literacy-assessment-as-learning-2026.md']
 confidence: medium
@@ -40,13 +40,13 @@ source_depth: full text
 
 Assessment is usually taught in two registers. [[formative-assessment|Formative assessment]] informs the instructor's next move, and [[summative-assessment|summative assessment]] certifies whether goals were met. Assessment *as* learning is different: students themselves cultivate and apply the skills of monitoring and reflecting on their progress, using assessment to deepen learning rather than to report on it. It draws on [[metacognition|metacognitive]] capacities — self-assessment, self-monitoring, strategy evaluation, sustained reflection, and goal-setting — and is where a durable, transferable learning skill is built.
 
-The authors' central claim is that this mode is blocked by a prerequisite most students lack. Feedback literacy means understanding the learning goals an assessment evaluates, knowing how to read and apply [[feedback]] to improve performance, and being able to set goals and behave in a [[self-directed-learning|self-directed]] way to reach them. Developing it is hard: students must combine content understanding with disciplinary learning to improve a process, project, or product, and they must proactively and willingly receive, process, and apply feedback at all. Because the competences involved — accurate self-appraisal, [[self-regulated-learning|self-regulation]] — take time to develop, instructors often skip the work; the authors argue the return justifies it, and that efficiency is where AI enters.
+The authors' central claim is that this mode is blocked by a prerequisite most students lack. Feedback literacy means understanding the learning goals an assessment evaluates, knowing how to read and apply [[feedback]] to improve performance, and being able to set goals and behave in a [[self-directed-learning|self-directed]] way to reach them. Developing it is hard: students must combine content understanding with disciplinary learning to improve a process, project, or product, and they must proactively and willingly receive, process, and apply feedback. Because the competences involved — accurate self-appraisal, [[self-regulated-learning|self-regulation]] — take time to develop, instructors often skip the work; the authors argue the return justifies it, and that efficiency is where AI enters.
 
 ## Generating AI work samples for student critique
 
 The common strategy is to have students evaluate existing work against rubric criteria derived from the learning goals, so they see what the criteria look like in practice; its obstacle is preparation time: writing samples of varying quality or finding prior students' work that spans the range. The authors' first recommendation is to have AI do that preparation.
 
-The suggested prompt teaches the tool the success criteria — pasted or uploaded — then asks for samples of graded quality: one meeting every criterion, one partially, one not yet, and mixes of adjacent levels. Those samples anchor a lesson built on the gradual release of responsibility. The instructor reviews the criteria and has students restate them in their own words, then models with a think-aloud how to check each criterion and land on a score. Students evaluate a second sample with instructor guidance and prompting for rationales, then a third independently while the instructor circulates, and the class debriefs which criteria were met, how students know, and what would change the work. Evaluating against explicit criteria — detecting both errors and successes — is what prepares students to analyze their own work; the process adapts to any modality, and the [[prompt-engineering|prompt]], not the tool, does the heavy lifting.
+The suggested prompt teaches the tool the success criteria — pasted or uploaded — then asks for samples of graded quality: one meeting every criterion, one partially, one not yet, and mixes of adjacent levels. Those samples anchor a lesson built on the gradual release of responsibility. The instructor reviews the criteria and has students restate them in their own words, then models with a think-aloud how to check each criterion and land on a score. Students evaluate a second sample with instructor guidance and prompting for rationales, then a third independently while the instructor circulates, and the class debriefs which criteria were met, how students know, and what would change the work. Evaluating against explicit criteria is what prepares students to analyze their own work; the process adapts to any modality, and the [[prompt-engineering|prompt]], not the tool, does the heavy lifting.
 
 ## Prompting AI for feedback and building self-directed revision
 
