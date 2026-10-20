@@ -352,6 +352,11 @@ AUTO_APPLY_DENYLIST = {
 REJECTED_HITS = []  # populated during a scan; reported so suppressed matches stay visible
 
 REJECT_PAIRS = {
+    # --- 2026-10-20, daily-scan batch: auto-applied links hand-reverted (one entry per revert) ---
+    ('guardrails', 'reducing-ai-misuse'),          # the guardrails concept itself, not AI misuse
+    ('didactical configuration', 'visualization'),  # an orchestration element, not a visualization
+    ('activity sequences', 'pedagogical-patterns'),  # course-design activity types, not reusable design patterns
+    ('socio-cultural factors', 'sociocultural-learning'),  # context-fit factors, not a learning theory
     # --- 2026-10-16, daily-scan batch: auto-applied links hand-reverted (one entry per revert) ---
     ('mediated learning', 'sociocultural-learning'),     # statistical mediation, not Vygotskian mediated learning
     ('Educational technology developers', 'educational-technology-developers'),  # a practice-section audience label, not prose
