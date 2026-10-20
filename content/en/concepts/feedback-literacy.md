@@ -1,7 +1,7 @@
 ---
 title: Feedback Literacy
 created: "2026-08-15T19:02:13-04:00"
-updated: "2026-10-18T10:07:01-04:00"
+updated: "2026-10-20T09:40:00-04:00"
 type: concept
 connected_faqs: [writing-instruction-ai-best-practices, ai-feedback-at-scale]
 foundations: [ai-literacy]
@@ -41,7 +41,7 @@ Feedback literacy is widely framed as a set of interrelated capabilities — the
 - **Feedback literacy as a moderator of AI feedback value:** [[mendoza-ai-feedback-feedback-literacy-srl|Mendoza et al. (2026)]] show that feedback literacy moderates the link between ChatGPT acceptance and [[self-regulated-learning]]: students with stronger literacy perceive greater SRL benefit from AI feedback, while weaker-literacy students show minimal or even negative ([[cognitive-offloading|Over-Reliance]]) effects. Feedback literacy is a boundary condition for whether students can "make sense of" AI feedback.
 
 
-- **Feedback literacy as the pathway from GenAI use to critical thinking:** in 421 Chinese undergraduates, GenAI use's association with self-reported critical thinking ran almost entirely through GenAI feedback literacy (β=0.185, 71.98% of the total effect), and that pathway strengthened as reflective thinking rose (index of moderated mediation = 0.030) ([[genai-use-critical-thinking-moderation-2026|Yan et al. (2026)]]).
+- **Feedback literacy as the pathway from GenAI use to critical thinking:** in 421 Chinese undergraduates, GenAI use's association with [[self-report-measures|self-reported]] critical thinking ran almost entirely through GenAI feedback literacy (β=0.185, 71.98% of the total effect), and that pathway strengthened as reflective thinking rose (index of moderated mediation = 0.030) ([[genai-use-critical-thinking-moderation-2026|Yan et al. (2026)]]).
 
 - **Feedback literacy predicts learning from AI-assisted writing:** [[hawkins-feedback-literacy-ai-essay-writing|Hawkins et al. (2026)]] find that feedback literacy was the only significant positive predictor of essay grade in an AI-enhanced essay-writing task, while [[liu-deris-ai-feedback-literacy-uptake|Liu & Deris (2025)]] develop and validate an AI Feedback Literacy (AIFL) scale and show it predicts feedback uptake.
 
@@ -50,18 +50,20 @@ Feedback literacy is widely framed as a set of interrelated capabilities — the
 
 - **Frameworks for [[generative-ai|GenAI]]-enabled feedback [[student-engagement|engagement]]:** [[zhan-boud-dawson-genai-feedback-engagement|Zhan, Boud, Dawson & Yan (2025)]] (Boud and Dawson are leading feedback-literacy scholars) argue GenAI can *enable* student feedback engagement, mapping a cyclical self-[[regulation]] feedback model onto the eliciting/processing/enacting phases.
 
-- **AI feedback arrives without the teacher's framing:** [[brunnstrom-ai-interaction-literacy-srl-2026|Brunnström and Palmqvist (2026)]] argue that GenAI makes feedback literacy *more* demanding, because responses are generated interactively and without a teacher's immediate framing: students must interpret, evaluate, engage with and use them — including deciding when a response is too abstract, when to persist, and when to return to conventional resources. Across their eight-exchange demonstration, simplification and usable structure appeared only after learner interventions, making the eliciting/processing/enacting cycle of feedback engagement something the student has to drive ([[zhan-boud-dawson-genai-feedback-engagement|Zhan, Boud, Dawson & Yan]] mapped that cycle for GenAI; [[self-regulated-learning]]).
+- **AI feedback arrives without the [[teacher-role|teacher]]'s framing:** [[brunnstrom-ai-interaction-literacy-srl-2026|Brunnström and Palmqvist (2026)]] argue that GenAI makes feedback literacy *more* demanding, because responses are generated interactively and without a teacher's immediate framing: students must interpret, evaluate, engage with and use them — including deciding when a response is too abstract, when to persist, and when to return to conventional resources. Across their eight-exchange demonstration, simplification and usable structure appeared only after learner interventions, making the eliciting/processing/enacting cycle of feedback engagement something the student has to drive ([[zhan-boud-dawson-genai-feedback-engagement|Zhan, Boud, Dawson & Yan]] mapped that cycle for GenAI; [[self-regulated-learning]]).
 - **Feedback literacy in AI-assisted writing and EAP:** [[rethinking-ai-writing-feedback-literacy|Feedback literacy scripts]] and [[feedback-literacy-scripts-eap-writing|second-rater mechanisms]] train students to engage critically with AI feedback during writing revision, shifting revision toward argument-level improvement rather than surface edits.
 
 - **Automated feedback tools for literacy development:** [[tubino-adachi-ai-automated-feedback-literacy|Tubino & Adachi (2025)]] argue AI automated feedback tools should be reframed as instruments for *developing* students' feedback literacy, not just providing more feedback.
 
 - **Peer feedback and feedback literacy:** [[irwin-muller-efl-peer-feedback-literacy|Irwin & Muller (2025)]] position GenAI within EFL peer feedback to train feedback literacy and enable uptake in speaking classes, and [[scaffolding-srl-feedback-genai-human-peers|scaffolding studies]] compare GenAI vs. human peers in fostering self-regulated feedback.
 
-- **Feedback stored as durable, consultable data.** Pairing ChatGPT with an e-portfolio raised speaking performance and feedback literacy together (partial η² = 0.218 for the latter), as students treated archived feedback from lecturer, peers, and AI as data to reconcile rather than a one-off correction ([[sutama-chatgpt-eportfolio-speaking-2026|Laksana et al. (2026)]]).
+- **Feedback stored as durable, consultable data.** Pairing ChatGPT with an [[eportfolio|e-portfolio]] raised speaking performance and feedback literacy together (partial η² = 0.218 for the latter), as students treated archived feedback from lecturer, peers, and AI as data to reconcile rather than a one-off correction ([[sutama-chatgpt-eportfolio-speaking-2026|Laksana et al. (2026)]]).
 
-- **Feedback literacy in learning analytics and GenAI dashboards:** [[jin-genai-learning-analytics-feedback-literacy|Jin et al. (2025)]] examine how students perceive GenAI-powered [[learning-analytics]] feedback from a feedback-literacy perspective.
+- **Feedback literacy in learning analytics and GenAI [[visualization|dashboards]]:** [[jin-genai-learning-analytics-feedback-literacy|Jin et al. (2025)]] examine how students perceive GenAI-powered [[learning-analytics]] feedback from a feedback-literacy perspective.
 
-- **Feedback literacy as a goal of AI-literacy and assessment design:** [[richmond-nicholls-genai-psych-feedback-ai-literacies|Richmond & Nicholls (2025)]] use a process-over-artifact assessment in which students critique ChatGPT output against a rubric to build feedback, psychological, and AI literacies together; [[learner-centered-feedback-ai|learner-centered AI feedback]] and [[care-full-feedback-genai|care-full feedback design]] link feedback quality to the learner's capacity to engage.
+- **Feedback literacy as a goal of AI-literacy and [[assessment|assessment design]]:** [[richmond-nicholls-genai-psych-feedback-ai-literacies|Richmond & Nicholls (2025)]] use a process-over-artifact assessment in which students critique ChatGPT output against a rubric to build feedback, psychological, and AI literacies together; [[learner-centered-feedback-ai|learner-centered AI feedback]] and [[care-full-feedback-genai|care-full feedback design]] link feedback quality to the learner's capacity to engage.
+
+- **Feedback literacy can be taught, and AI can supply the practice material.** A conceptual guide has instructors generate a graded spectrum of AI work samples — meeting all, some, and none of the criteria — then lead students through modeled critique, guided class analysis, and independent evaluation ([[ai-feedback-literacy-assessment-as-learning-2026|Pennington and Hock (2026)]]).
 
 ### Why feedback literacy matters for AI in education
 
@@ -73,7 +75,7 @@ AI changes feedback in two directions that both raise the stakes of feedback lit
 
 Feedback literacy connects to [[ai-feedback-quality]] and [[feedback|Feedback Loop]] (the provision side it complements), [[formative-assessment]] (the assessment cycle it feeds), and [[self-regulated-learning]] (the [[self-assessment]] and adaptation it supports). It is a subset of [[ai-literacy]] when applied to AI-generated feedback, intersects with [[peer-assessment]] in collaborative contexts, and is particularly consequential for [[writing-education]]. It also connects to [[metacognition]] and [[trust-calibration]] — the ability to judge whether feedback is trustworthy.
 
-Acting on feedback is not the same as improving the artifact. Among 22 pre-service mathematics teachers, selective acceptance of AI and peer feedback was the norm (32 of 44 episodes), yet only five improved their designed-task quality — a translation gap the authors attribute to evaluative judgment rather than uptake ([[ai-peer-feedback-stem-teacher-education-2026|Oh, 2026]]).
+Acting on feedback is not the same as improving the artifact. Among 22 pre-service mathematics teachers, selective acceptance of AI and peer feedback was the norm (32 of 44 episodes), yet only five improved their designed-task quality — a translation gap the authors attribute to [[evaluative-judgment|evaluative judgment]] rather than uptake ([[ai-peer-feedback-stem-teacher-education-2026|Oh, 2026]]).
 
 ## Connected Concepts
 
@@ -93,6 +95,7 @@ Acting on feedback is not the same as improving the artifact. Among 22 pre-servi
 - [[higher-ed]]
 
 ## Connected Articles
+- [[ai-feedback-literacy-assessment-as-learning-2026]] — Generating rubric-graded work samples to teach feedback literacy (Pennington & Hock 2026)
 - [[ai-peer-feedback-stem-teacher-education-2026]] — Selective uptake without artifact improvement: the feedback translation gap (Oh 2026)
 - [[brunnstrom-ai-interaction-literacy-srl-2026]] — AI feedback without teacher framing raises the feedback-literacy bar (Brunnström & Palmqvist 2026)
 - [[sutama-chatgpt-eportfolio-speaking-2026]]

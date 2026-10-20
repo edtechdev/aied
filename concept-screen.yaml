@@ -7472,3 +7472,118 @@
   - student-engagement
   - writing-education
   reason: 'Integrated two: self-report-measures'' perception-behavior gap gained the review-level rate the page lacked, that of 51 same-construct pairs from 47 reports 30 agreed, 11 disagreed and 10 were mixed, and that disagreement ran both ways (five null self-report/positive performance contrasts against two the reverse) -- the page''s evidence was individual studies with no field-level concordance figure (grep ''concordan'' -> 1, ''non-self-report'' -> 1). educational-measurement''s issues-and-limitations list gained the point that the non-self-report measure is not a criterion standard, so tests, ratings and traces each need their own validity argument (grep ''observab'' -> 1). || no_change evidence: assessment-validity: grep ''concordan'' -> 1 (about AI-grading agreement), ''self-report'' -> 2 (its validity discussion is AI-era assessment integrity (attributing artifacts to learners, the product-process gap), not cross-method measurement concordance); collaborative-learning: grep ''self-report'' -> 0, ''measur'' -> 3 (no measurement discussion to extend); creativity: grep ''concordan'' -> 0, ''observab'' -> 0 (carries creativity as a construct with no cross-method measurement discussion); critical-thinking: grep ''concordan'' -> 0, ''self-report'' -> 7 (mentions self-report inside its research section but makes no concordance claim; the review''s CT result is a concordance rate, not a finding about CT); evaluative-judgment: grep ''concordan'' -> 0, ''measur'' -> 3 (about how judgment develops, not how it is measured); higher-ed: grep ''self-report'' -> 1 (sector-level page; the review reports no institutional or sector finding); interpreting-and-applying-aied-research: grep ''measur'' -> 24 (already poses ''what exactly did they measure?'' with instrument validation and pooling as the check, so the review adds no new reader-facing test); learning-analytics: grep ''concordan'' -> 0, ''self-report'' -> 4 (traces appear as an analytics method, never as one side of an SR-versus-NSR comparison); learning-gains: grep ''measur'' -> 27, ''concordan'' -> 0 (already carries the measurement problem and inflated meta-analytic estimates; the review''s conclusion-level concordance rate is recorded on self-report-measures); limitations-in-aied-research: grep ''concordan'' -> 0, ''self-report'' -> 8 (carries self-report among its methodological limitations but no construct-observability or concordance argument); meta-analysis-systematic-review: grep ''concordan'' -> 0, ''measur'' -> 15 (about synthesis methods; the two-phase design is one instance, not a new method claim); metacognition: grep ''concordan'' -> 2, ''calibrat'' -> 12 (already discusses calibration and discordant self-report); problem-solving: grep ''self-report'' -> 0, ''measur'' -> 2 (construct page with no measurement discussion); qualitative-research: grep ''concordan'' -> 1 (methods-family page; the review treats qualitative evidence as one coding basis, not a qualitative-method finding); research-methods-aied: grep ''concordan'' -> 0, ''measur'' -> 31 (carries validity and self-report widely but has no concordance claim to extend); self-assessment: grep ''self-assess'' -> 48, and line 61 states accuracy depends on what is being estimated with two studies (the review''s three-dimension framework is presented by its own authors as hypothesis-generating and non-significant (p = 0.555), so it adds no tested claim); self-regulated-learning: grep ''concordan'' -> 0, ''self-report'' -> 4 (SRL appears as a construct measured within the review''s sample, not as a finding about SRL); student-ai-interaction: grep ''self-report'' -> 0 (no self-report discussion to extend); student-engagement: grep ''concordan'' -> 0, ''self-report'' -> 4 (engagement appears as a measured construct; the review''s 0/4 engagement result is an untested small-group illustration); writing-education: grep ''concordan'' -> 0, ''self-report'' -> 6 (writing appears as a construct; that its sub-skills straddle the observability gradient is a measurement claim, not a writing-instruction finding)'
+
+- article: ai-misconceptions-indonesian-k12-teachers-2026
+  date: 2026-10-20
+  integrated:
+    - teacher-ai-competency
+  no_change:
+    - academic-integrity
+    - ai-literacy
+    - ai-technologies
+    - ai-use-disclosure
+    - conversational-ai
+    - educational-policy-ai
+    - framing-ai-use-for-students
+    - generative-ai
+    - global-south
+    - k-12
+    - llm
+    - misconceptions
+    - mixed-methods-research
+    - professional-training
+    - reducing-ai-misuse
+    - self-report-measures
+    - teacher-education
+    - teacher-role
+    - guardrails
+    - human-in-the-loop-ai
+    - qualitative-research
+    - student-ai-interaction
+  reason: 'Integrated teacher-ai-competency: the page''s narrative now carries the finding. || no_change evidence: academic-integrity: grep ''misconception'' -> 2 prose hits; grep ''indonesia'' -> 0 prose hits; grep ''acceptance'' -> 0 prose hits; ai-literacy: grep ''misconception'' -> 1 prose hits; grep ''indonesia'' -> 0 prose hits; grep ''acceptance'' -> 4 prose hits; ai-technologies: grep ''misconception'' -> 0 prose hits; grep ''indonesia'' -> 0 prose hits; grep ''acceptance'' -> 0 prose hits; ai-use-disclosure: grep ''misconception'' -> 0 prose hits; grep ''indonesia'' -> 0 prose hits; grep ''acceptance'' -> 0 prose hits; conversational-ai: grep ''misconception'' -> 0 prose hits; grep ''indonesia'' -> 0 prose hits; grep ''acceptance'' -> 1 prose hits; educational-policy-ai: grep ''misconception'' -> 0 prose hits; grep ''indonesia'' -> 0 prose hits; grep ''acceptance'' -> 0 prose hits; framing-ai-use-for-students: grep ''misconception'' -> 0 prose hits; grep ''indonesia'' -> 0 prose hits; grep ''acceptance'' -> 2 prose hits; generative-ai: grep ''misconception'' -> 1 prose hits; grep ''indonesia'' -> 0 prose hits; grep ''acceptance'' -> 0 prose hits; global-south: grep ''misconception'' -> 0 prose hits; grep ''indonesia'' -> 0 prose hits; grep ''acceptance'' -> 4 prose hits; k-12: grep ''misconception'' -> 0 prose hits; grep ''indonesia'' -> 0 prose hits; grep ''acceptance'' -> 0 prose hits; llm: grep ''misconception'' -> 2 prose hits; grep ''indonesia'' -> 0 prose hits; grep ''acceptance'' -> 0 prose hits; misconceptions: grep ''misconception'' -> 57 prose hits; grep ''indonesia'' -> 0 prose hits; grep ''acceptance'' -> 1 prose hits; mixed-methods-research: grep ''misconception'' -> 0 prose hits; grep ''indonesia'' -> 0 prose hits; grep ''acceptance'' -> 0 prose hits; professional-training: grep ''misconception'' -> 2 prose hits; grep ''indonesia'' -> 0 prose hits; grep ''acceptance'' -> 2 prose hits; reducing-ai-misuse: grep ''misconception'' -> 1 prose hits; grep ''indonesia'' -> 0 prose hits; grep ''acceptance'' -> 1 prose hits; self-report-measures: grep ''misconception'' -> 0 prose hits; grep ''indonesia'' -> 0 prose hits; grep ''acceptance'' -> 3 prose hits; teacher-education: grep ''misconception'' -> 3 prose hits; grep ''indonesia'' -> 0 prose hits; grep ''acceptance'' -> 2 prose hits; teacher-role: grep ''misconception'' -> 2 prose hits; grep ''indonesia'' -> 0 prose hits; grep ''acceptance'' -> 1 prose hits'
+- article: visual-access-proactive-ai-tutoring-handwritten-math-2026
+  date: 2026-10-20
+  integrated:
+    - intelligent-tutoring
+  no_change:
+    - accessibility
+    - adaptive-learning
+    - conversational-ai
+    - feedback
+    - formative-assessment
+    - help-seeking
+    - higher-ed
+    - human-ai-collaboration
+    - human-in-the-loop-ai
+    - llm
+    - math-education
+    - multimodal
+    - prior-knowledge
+    - privacy
+    - productive-failure
+    - rct
+    - scaffolding
+    - self-report-measures
+    - student-ai-interaction
+    - undergraduate
+    - visualization
+  reason: 'Integrated intelligent-tutoring: the page''s narrative now carries the finding. || no_change evidence: accessibility: grep ''proactive'' -> 1 prose hits; grep ''handwritten'' -> 0 prose hits; grep ''multimodal'' -> 1 prose hits; adaptive-learning: grep ''proactive'' -> 0 prose hits; grep ''handwritten'' -> 0 prose hits; grep ''multimodal'' -> 1 prose hits; conversational-ai: grep ''proactive'' -> 0 prose hits; grep ''handwritten'' -> 0 prose hits; grep ''multimodal'' -> 2 prose hits; feedback: grep ''proactive'' -> 0 prose hits; grep ''handwritten'' -> 0 prose hits; grep ''multimodal'' -> 0 prose hits; formative-assessment: grep ''proactive'' -> 0 prose hits; grep ''handwritten'' -> 1 prose hits; grep ''multimodal'' -> 0 prose hits; help-seeking: grep ''proactive'' -> 2 prose hits; grep ''handwritten'' -> 0 prose hits; grep ''multimodal'' -> 0 prose hits; higher-ed: grep ''proactive'' -> 0 prose hits; grep ''handwritten'' -> 1 prose hits; grep ''multimodal'' -> 1 prose hits; human-ai-collaboration: grep ''proactive'' -> 0 prose hits; grep ''handwritten'' -> 0 prose hits; grep ''multimodal'' -> 0 prose hits; human-in-the-loop-ai: grep ''proactive'' -> 1 prose hits; grep ''handwritten'' -> 2 prose hits; grep ''multimodal'' -> 1 prose hits; llm: grep ''proactive'' -> 0 prose hits; grep ''handwritten'' -> 2 prose hits; grep ''multimodal'' -> 2 prose hits; math-education: grep ''proactive'' -> 0 prose hits; grep ''handwritten'' -> 5 prose hits; grep ''multimodal'' -> 1 prose hits; multimodal: grep ''proactive'' -> 0 prose hits; grep ''handwritten'' -> 8 prose hits; grep ''multimodal'' -> 89 prose hits; prior-knowledge: grep ''proactive'' -> 1 prose hits; grep ''handwritten'' -> 0 prose hits; grep ''multimodal'' -> 0 prose hits; privacy: grep ''proactive'' -> 0 prose hits; grep ''handwritten'' -> 0 prose hits; grep ''multimodal'' -> 1 prose hits; productive-failure: grep ''proactive'' -> 0 prose hits; grep ''handwritten'' -> 0 prose hits; grep ''multimodal'' -> 0 prose hits; rct: grep ''proactive'' -> 0 prose hits; grep ''handwritten'' -> 0 prose hits; grep ''multimodal'' -> 0 prose hits; scaffolding: grep ''proactive'' -> 1 prose hits; grep ''handwritten'' -> 0 prose hits; grep ''multimodal'' -> 2 prose hits; self-report-measures: grep ''proactive'' -> 0 prose hits; grep ''handwritten'' -> 0 prose hits; grep ''multimodal'' -> 0 prose hits; student-ai-interaction: grep ''proactive'' -> 0 prose hits; grep ''handwritten'' -> 0 prose hits; grep ''multimodal'' -> 0 prose hits; undergraduate: grep ''proactive'' -> 0 prose hits; grep ''handwritten'' -> 0 prose hits; grep ''multimodal'' -> 0 prose hits; visualization: grep ''proactive'' -> 0 prose hits; grep ''handwritten'' -> 0 prose hits; grep ''multimodal'' -> 7 prose hits'
+- article: ai-feedback-literacy-assessment-as-learning-2026
+  date: 2026-10-20
+  integrated:
+    - feedback-literacy
+  no_change:
+    - ai-literacy
+    - assessment
+    - authentic-assessment
+    - conversational-ai
+    - evaluative-judgment
+    - feedback
+    - formative-assessment
+    - generative-ai
+    - higher-ed
+    - llm
+    - metacognition
+    - process-oriented-assessment
+    - prompt-engineering
+    - self-assessment
+    - self-directed-learning
+    - self-regulated-learning
+    - student-engagement
+    - teacher-role
+    - ai-feedback-quality
+    - critical-thinking
+    - equity-in-ai-education
+    - peer-assessment
+    - scaffolding
+    - summative-assessment
+  reason: 'Integrated feedback-literacy: the page''s narrative now carries the finding. || no_change evidence: ai-literacy: grep ''assessment as learning'' -> 0 prose hits; grep ''work sample'' -> 0 prose hits; grep ''exemplar'' -> 0 prose hits; assessment: grep ''assessment as learning'' -> 0 prose hits; grep ''work sample'' -> 0 prose hits; grep ''exemplar'' -> 0 prose hits; authentic-assessment: grep ''assessment as learning'' -> 0 prose hits; grep ''work sample'' -> 0 prose hits; grep ''exemplar'' -> 0 prose hits; conversational-ai: grep ''assessment as learning'' -> 0 prose hits; grep ''work sample'' -> 0 prose hits; grep ''exemplar'' -> 0 prose hits; evaluative-judgment: grep ''assessment as learning'' -> 0 prose hits; grep ''work sample'' -> 0 prose hits; grep ''exemplar'' -> 6 prose hits; feedback: grep ''assessment as learning'' -> 0 prose hits; grep ''work sample'' -> 0 prose hits; grep ''exemplar'' -> 0 prose hits; formative-assessment: grep ''assessment as learning'' -> 0 prose hits; grep ''work sample'' -> 0 prose hits; grep ''exemplar'' -> 1 prose hits; generative-ai: grep ''assessment as learning'' -> 0 prose hits; grep ''work sample'' -> 0 prose hits; grep ''exemplar'' -> 0 prose hits; higher-ed: grep ''assessment as learning'' -> 0 prose hits; grep ''work sample'' -> 0 prose hits; grep ''exemplar'' -> 0 prose hits; llm: grep ''assessment as learning'' -> 0 prose hits; grep ''work sample'' -> 0 prose hits; grep ''exemplar'' -> 0 prose hits; metacognition: grep ''assessment as learning'' -> 0 prose hits; grep ''work sample'' -> 0 prose hits; grep ''exemplar'' -> 0 prose hits; process-oriented-assessment: grep ''assessment as learning'' -> 0 prose hits; grep ''work sample'' -> 0 prose hits; grep ''exemplar'' -> 0 prose hits; prompt-engineering: grep ''assessment as learning'' -> 0 prose hits; grep ''work sample'' -> 0 prose hits; grep ''exemplar'' -> 0 prose hits; self-assessment: grep ''assessment as learning'' -> 0 prose hits; grep ''work sample'' -> 0 prose hits; grep ''exemplar'' -> 0 prose hits; self-directed-learning: grep ''assessment as learning'' -> 0 prose hits; grep ''work sample'' -> 0 prose hits; grep ''exemplar'' -> 0 prose hits; self-regulated-learning: grep ''assessment as learning'' -> 0 prose hits; grep ''work sample'' -> 0 prose hits; grep ''exemplar'' -> 0 prose hits; student-engagement: grep ''assessment as learning'' -> 0 prose hits; grep ''work sample'' -> 0 prose hits; grep ''exemplar'' -> 0 prose hits; teacher-role: grep ''assessment as learning'' -> 0 prose hits; grep ''work sample'' -> 0 prose hits; grep ''exemplar'' -> 0 prose hits'
+- article: ai-integrated-math-argumentation-teacher-noticing-2026
+  date: 2026-10-20
+  integrated:
+    - learning-analytics
+  no_change:
+    - collaborative-learning
+    - design-based-research
+    - edtech-platform
+    - feedback
+    - formative-assessment
+    - generative-ai
+    - human-in-the-loop-ai
+    - k-12
+    - learning-design
+    - math-education
+    - pedagogy
+    - qualitative-research
+    - scaffolding
+    - secondary
+    - socratic-method
+    - student-ai-interaction
+    - student-engagement
+    - teacher-ai-competency
+    - teacher-role
+    - tpack
+    - visualization
+    - educational-development
+    - learning-gains
+  reason: 'Integrated learning-analytics: the page''s narrative now carries the finding. || no_change evidence: collaborative-learning: grep ''noticing'' -> 1 prose hits; grep ''orchestrat'' -> 2 prose hits; grep ''argumentation'' -> 0 prose hits; design-based-research: grep ''noticing'' -> 0 prose hits; grep ''orchestrat'' -> 0 prose hits; grep ''argumentation'' -> 0 prose hits; edtech-platform: grep ''noticing'' -> 0 prose hits; grep ''orchestrat'' -> 0 prose hits; grep ''argumentation'' -> 0 prose hits; feedback: grep ''noticing'' -> 0 prose hits; grep ''orchestrat'' -> 0 prose hits; grep ''argumentation'' -> 1 prose hits; formative-assessment: grep ''noticing'' -> 0 prose hits; grep ''orchestrat'' -> 0 prose hits; grep ''argumentation'' -> 0 prose hits; generative-ai: grep ''noticing'' -> 0 prose hits; grep ''orchestrat'' -> 1 prose hits; grep ''argumentation'' -> 0 prose hits; human-in-the-loop-ai: grep ''noticing'' -> 0 prose hits; grep ''orchestrat'' -> 1 prose hits; grep ''argumentation'' -> 0 prose hits; k-12: grep ''noticing'' -> 0 prose hits; grep ''orchestrat'' -> 1 prose hits; grep ''argumentation'' -> 0 prose hits; learning-design: grep ''noticing'' -> 0 prose hits; grep ''orchestrat'' -> 3 prose hits; grep ''argumentation'' -> 0 prose hits; math-education: grep ''noticing'' -> 0 prose hits; grep ''orchestrat'' -> 2 prose hits; grep ''argumentation'' -> 0 prose hits; pedagogy: grep ''noticing'' -> 0 prose hits; grep ''orchestrat'' -> 0 prose hits; grep ''argumentation'' -> 0 prose hits; qualitative-research: grep ''noticing'' -> 2 prose hits; grep ''orchestrat'' -> 0 prose hits; grep ''argumentation'' -> 0 prose hits; scaffolding: grep ''noticing'' -> 0 prose hits; grep ''orchestrat'' -> 0 prose hits; grep ''argumentation'' -> 0 prose hits; secondary: grep ''noticing'' -> 0 prose hits; grep ''orchestrat'' -> 0 prose hits; grep ''argumentation'' -> 0 prose hits; socratic-method: grep ''noticing'' -> 0 prose hits; grep ''orchestrat'' -> 0 prose hits; grep ''argumentation'' -> 2 prose hits; student-ai-interaction: grep ''noticing'' -> 0 prose hits; grep ''orchestrat'' -> 0 prose hits; grep ''argumentation'' -> 0 prose hits; student-engagement: grep ''noticing'' -> 0 prose hits; grep ''orchestrat'' -> 0 prose hits; grep ''argumentation'' -> 0 prose hits; teacher-ai-competency: grep ''noticing'' -> 0 prose hits; grep ''orchestrat'' -> 1 prose hits; grep ''argumentation'' -> 0 prose hits; teacher-role: grep ''noticing'' -> 1 prose hits; grep ''orchestrat'' -> 28 prose hits; grep ''argumentation'' -> 0 prose hits; tpack: grep ''noticing'' -> 0 prose hits; grep ''orchestrat'' -> 3 prose hits; grep ''argumentation'' -> 0 prose hits; visualization: grep ''noticing'' -> 0 prose hits; grep ''orchestrat'' -> 0 prose hits; grep ''argumentation'' -> 0 prose hits'
