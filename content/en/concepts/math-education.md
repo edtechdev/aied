@@ -1,7 +1,7 @@
 ---
 title: Math Education
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-21T12:05:00-04:00"
+updated: "2026-10-21T14:05:00-04:00"
 type: concept
 pedagogy: [scaffolding]
 technology: [generative-ai, intelligent-tutoring]
@@ -50,6 +50,8 @@ The knowledge base's only field-level synthesis of this domain is a 2021–2025 
 The domain's challenge ranking puts teacher capacity first. A second systematic review, of 54 studies from 2017-2025, counted technological–pedagogical integration and teacher readiness in 38, equity and access risks in 34 and limits to deep reasoning in 29, and links them to instructional responses in a three-dimensional framework ([[manto-ai-integration-mathematics-education-systematic-review-2026|Manto et al. (2026)]]).
 
 **Higher education math** explores AI's impact on advanced math practice. **[[genai-runaway-object-math-higher-ed|Bui et al.]]** applied [[sociocultural-learning|socio-cultural]] theory to [[generative-ai|GenAI]] in university mathematics, analyzing AI as a "runaway object" that transforms academic practice in ways that outpace [[governance|institutional]] and pedagogical norms.
+
+**Symbolic obstacles in calculus** are representational rather than procedural: graph-to-symbol translation was the dominant obstacle, and after an AI-supported sequence coded symbolic errors fell by 27.4%–53.8% ([[ai-scaffolding-symbolic-obstacles-calculus-2026|Nursit et al., 2026]]).
 
 **LLM tutoring and [[learning-design|instructional design]]** is an emerging cluster of two 2026 studies that sharpen the math-education evidence base. [[rule-integrated-llm-tutoring-primary-math-2026|Looi, Liu, and Sun (2026)]] developed a rule-guided [[intelligent-tutoring|LLM tutoring system]] for primary-school math word problems whose three-layer architecture (diagnosis → intent selection → constrained response generation) improved interactional consistency and reduced premature answer-giving in a 40-student Grade 5 classroom pilot — evidence that procedural math domains need [[guardrails|structured rule-guards]] on otherwise stochastic LLM scaffolding. [[instructional-design-proficiency-masters-math-2026|Zhu, Liang, Mao, and Wang (2026)]] applied a smart-classroom model to mathematics M.Ed. students and found statistically significant gains (p < .05) in instructional-objective design across curriculum-standards, textbook, and student-condition dimensions.
 
@@ -105,6 +107,7 @@ Math education sits within the broader [[stem-education]] domain with distinctiv
 - [[teacher-education]]
 
 ## Connected Articles
+- [[ai-scaffolding-symbolic-obstacles-calculus-2026]] — Symbolic obstacles in undergraduate calculus are a representational bottleneck, with fewer coded symbolic errors after AI scaffolding (Nursit et al. 2026)
 - [[manto-ai-integration-mathematics-education-systematic-review-2026]] — AI integration in mathematics education: implementation challenges and pedagogical implications (Manto et al. 2026)
 - [[ai-mathematics-education-prisma-review-2026]] — Artificial intelligence in mathematics education: A PRISMA-based systematic literature review (2021-2025)
 - [[automated-scoring-economics-math-items-nigeria-2026]] — Automated software scoring of senior school certificate examination mathematical items in economics using a contextual similarity model

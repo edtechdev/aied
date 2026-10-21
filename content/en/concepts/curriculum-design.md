@@ -1,7 +1,7 @@
 ---
 title: Curriculum Design
 created: "2026-06-02T10:44:35-04:00"
-updated: "2026-10-03T02:57:43-04:00"
+updated: "2026-10-21T14:05:00-04:00"
 type: concept
 connected_faqs: [incorporating-ai-literacy]
 foundations: [ai-literacy, curriculum-design, learning-design, teacher-role]
@@ -37,6 +37,8 @@ Curriculum design addresses the *what* of education at the program level, comple
 Reviewing the change as systemic rather than additive, [[rewriting-curriculum-genai-pedagogy-2026|Sabani et al. (2026)]] triangulate a scoping review, bibliometric mapping of 209 records, 36 articles, and ten academic-leader interviews into five shifts — including knowledge transmission giving way to capability development and local experimentation to institutional governance.
 
 **Curriculum mapping and analysis** uses AI to understand existing curricula. **[[ai-assisted-se-curriculum-syllabus-analysis-2026|Geng et al.]]** analyzed 23 syllabi from AI-assisted software engineering courses, identifying common themes — [[prompt-engineering|prompt engineering]], code review with AI, [[ethics|ethical considerations]] — and deriving design guidance that emphasizes balancing tool fluency with foundational knowledge. **[[coursegraph-cs-course-comparison-2026|CourseGraph]]** applies computational methods to compare CS course structures across institutions.
+
+Weighting changes what a curriculum analysis reports: [[genai-curriculum-analytics-mapping-higher-ed-2026|Jayalath et al. (2026)]] had GPT-o3-mini distribute 100% across seven enterprise skills for each of 48 assessments, reaching a Krippendorff's alpha of 0.81 against expert weights, but agreement turned negative for skills the descriptions never state explicitly (-0.19).
 
 **AI literacy integration** embeds AI competencies across disciplines. **[[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl|SAIL]]** provides a scaffolded AI literacy framework applicable across all ages and educational stages, addressing second- and third-level [[digital-divide|digital divides]]. **[[tracing-genai-literacy-interaction-patterns]]** examines how AI literacy develops through interaction patterns. **[[hingle-collaborative-ai-literacy-2025]]** explores collaborative approaches to AI literacy curriculum development, connecting to [[collaborative-learning]].
 
@@ -106,6 +108,7 @@ Curriculum design connects directly to [[learning-design]] — curriculum define
 - [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
 - [[recommender-systems-and-learning-paths]]
 ## Connected Articles
+- [[genai-curriculum-analytics-mapping-higher-ed-2026]] — Weighted, expert-validated skill mapping for accreditation
 - [[mcinnes-salvaging-constructive-alignment-genai-2026]] — Critical discourse analysis of GenAI-for-constructive-alignment guidance (McInnes et al. 2026)
 - [[icet-ml-education-trust-2026]] — Addressing Trust in AI Systems through Education: A Didactic Perspective
 - [[refrain-amplify-genai-curriculum-2026]] — Refrain-then-amplify curriculum framework for sequencing GenAI (Torres-Sahli et al. 2026)
