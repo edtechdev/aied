@@ -2,7 +2,7 @@
 connected_resources: [clarity, writing-rhetoric-studies-in-the-loop]
 title: Writing
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-16T08:47:09-04:00"
+updated: "2026-10-21T11:40:00-04:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading]
 pedagogy: [metacognition]
@@ -59,6 +59,8 @@ Agreement is a property of the corpus, not the scorer: [[automated-scoring-marke
 ### Writing as thinking
 
 Because writing is a cognitive process, AI-in-writing research connects to [[cognitive-offloading]] (does AI writing support bypass thinking?), [[metacognition]] (does AI feedback improve [[self-assessment]]?), [[self-regulated-learning]] (do students regulate their use of AI feedback?), and [[ai-literacy]] (can students evaluate AI-generated writing critically?). The [[critical-thinking-genai-scaffolding|critical-thinking scaffolding]] and [[ai-feedback-critical-thinking-writing-2026|AI feedback for critical thinking]] research show that the [[pedagogy|pedagogical]] value of AI in writing depends on whether it prompts reflection and judgment rather than answer-replacement.
+
+Essay authorship tracked prompt volume in a synthesis task — 80% of the text written by the learner in the minimal-prompting cluster against 2% in the heaviest — while connective density correlated negatively with prior knowledge rather than prompt count (r = -.30, p = 0.007; [[cognitive-offloading-llm-synthesis-writing|Poquet et al., 2026]]).
 
 A two-wave validation with Chinese EFL learners (EFA N = 305; CFA N = 342) separates six regulatory dimensions and adds *environmental regulation* — checking generated content, filtering suggested resources, and limiting reliance — a facet existing L2 writing scales had not carried ([[genai-srl-l2-writing-scale-2026|Wang, Zhang and Zhang (2026)]]).
 
