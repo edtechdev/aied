@@ -44,6 +44,14 @@ FACET_FIELDS = (
     'foundations', 'pedagogy', 'technology', 'assessment',
     'methods', 'institutions', 'ethics',
 )
+# `discipline` and `level` hold human-readable labels, not concept slugs, but every
+# discipline label ("legal education") and the level labels that have a page ("higher
+# ed") map onto a concept page by slugification. They are concepts the article
+# declares, so a concept page that lists the article must weave it. Omitting them is
+# what let listed-only pairs on discipline and level pages go unchecked: this checker
+# could not fail for such a page at all, and 45 pairs were invisible until the
+# candidate set was widened to match check-concept-screen.py.
+LABEL_FIELDS = ('discipline', 'level')
 WIKILINK = re.compile(r'\[\[([^\]|]+)(?:\|[^\]]*)?\]\]')
 CONNECTED_HEADING = re.compile(r'^##\s+Connected\s+(Concepts|Articles)\s*$', re.M)
 
@@ -62,6 +70,11 @@ def split_frontmatter(text: str) -> tuple[str, str]:
     return '', text
 
 
+def label_slug(value: str) -> str:
+    """'legal education' -> 'legal-education' (the enum labels are slugs with spaces)."""
+    return value.strip().lower().replace(' ', '-')
+
+
 def facet_slugs(fm: str) -> set[str]:
     """Concept slugs declared in the article's facet metadata."""
     found: set[str] = set()
@@ -69,6 +82,10 @@ def facet_slugs(fm: str) -> set[str]:
         m = re.search(r'^' + field + r':\s*\[(.*?)\]\s*$', fm, re.M)
         if m:
             found.update(s.strip() for s in m.group(1).split(',') if s.strip())
+    for field in LABEL_FIELDS:
+        m = re.search(r'^' + field + r':\s*\[(.*?)\]\s*$', fm, re.M)
+        if m:
+            found.update(label_slug(s) for s in m.group(1).split(',') if s.strip())
     return found
 
 
