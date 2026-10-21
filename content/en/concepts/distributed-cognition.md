@@ -1,7 +1,7 @@
 ---
 title: Distributed Cognition
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-10-03T02:57:43-04:00"
+updated: "2026-10-21T11:40:00-04:00"
 type: concept
 foundations: [agency, cognitive-offloading, human-ai-collaboration]
 pedagogy: [distributed-cognition, embodied-learning, learning-theories, metacognition, situated-learning]
@@ -28,6 +28,7 @@ This is a learning-theory concept within the knowledge base's [[learning-theorie
 Generative and interactive AI systems redistribute cognitive work in ways earlier tools did not. The knowledge base documents several dimensions of this shift:
 
 - **AI as a cognitive partner and co-regulator.** AI can act as a [[scaffolding|scaffold]], metacognitive support, external memory system, and decision partner in the co-[[regulation]] of thinking and learning.([[ai-cognitive-partner-co-regulation-learning]]) This positions cognition as co-regulated between learner and system rather than individually managed.
+- **Volume of AI use does not reveal which form of distributed work is happening:** [[cognitive-offloading-llm-synthesis-writing|Poquet et al. (2026)]] found the volume-based profiles of 97 learners differed in prior knowledge and authorship but not in active-role or comprehension-level prompting, so shared activity and division of labor can accompany the same amount of use.
 - **Agency and responsibility redistribution.** Frameworks such as **ensemble cognition** reconceptualize thinking as emerging from dynamic human–[[student-ai-interaction|AI interaction]], distinguishing AI's *functional agency* (its capacity to influence outcomes without consciousness) from *moral responsibility* (which remains human).([[ensemble-cognition-philosophy-ai-education]]) Distributed cognition thus reframes who is accountable for learning.
 - **The efficiency–regulation tension.** Empirical work shows a trade-off: human–AI systems that distribute reasoning most efficiently (e.g., via delegated reasoning) achieve higher task performance but may reduce learners' self-regulatory [[student-engagement|engagement]].([[hao-human-ai-collaborative-problem-solving-cognition]]) This is the empirical face of the [[cognitive-offloading]] and [[cognitive-offloading|Over-Reliance]] risks the knowledge base documents.
 - **Mediation in collaboration.** AI can act as a *[[pedagogy|pedagogical]] mediator* that orchestrates interaction, epistemic sense-making, and regulatory processes in [[collaborative-learning|collaborative learning]], redistributing agency, authority, and responsibility across human and non-human actors.([[niari-ai-pedagogical-mediator-collaborative-learning]])

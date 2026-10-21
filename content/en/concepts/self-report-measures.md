@@ -1,7 +1,7 @@
 ---
 title: Self-Report Measures
 created: "2026-09-12T11:05:00-04:00"
-updated: "2026-10-19T16:35:00-04:00"
+updated: "2026-10-21T11:40:00-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [self-efficacy, student-engagement]
@@ -61,6 +61,8 @@ The opposite choice is also defensible: PAUSE is a four-domain offloading self-c
 The strongest self-report finding in this knowledge base is not that self-report is biased in general but that reported and observed behavior diverge in specific, documented ways.
 
 Profiles derived from self-report behave the same way. [[najem-behavioral-clustering-adaptive-learning-recommendation-2026|Najem et al. (2026)]] clustered 14,003 student records on self-reported behavioral and psychological proxies rather than LMS interaction traces, and the six resulting profiles separated sharply on final grade (η² = 0.770) — a separation the authors caution is partly a restatement of what students reported.
+
+Behavioral traces can separate learners whom a self-report scale cannot: [[cognitive-offloading-llm-synthesis-writing|Poquet et al. (2026)]] found self-reported cognitive load did not differ significantly across offloading profiles that ranged from 80% to 2% in essay authorship, while the heaviest offloaders nonetheless reported the highest mental demand.
 
 [[ai-literacy-assessment-misalignment|A study that built parallel self-report and objective measures of teacher AI literacy]] found **weak agreement between the self-report and objective factors (r = 0.07 to r = 0.24)** in a sample of 288 teachers, with confirmatory factor analysis supporting the construct validity of both measures while showing a **low correlation between the self-report and objective factors**. The two instruments were credible; they simply measured different things. In the full sample of 288 teachers the correlations between the objective and self-reported factors ran from r = 0.07 to r = 0.24, and latent profile analysis found 43 teachers who rated themselves high while scoring lower on the objective measure against 59 who showed the reverse pattern.
 
