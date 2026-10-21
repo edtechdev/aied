@@ -1,7 +1,7 @@
 ---
 title: Curriculum Design
 created: "2026-06-02T10:44:35-04:00"
-updated: "2026-10-21T14:05:00-04:00"
+updated: "2026-10-21T13:42:59-04:00"
 type: concept
 connected_faqs: [incorporating-ai-literacy]
 foundations: [ai-literacy, curriculum-design, learning-design, teacher-role]
