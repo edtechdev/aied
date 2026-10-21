@@ -1,7 +1,7 @@
 ---
 title: Evaluative Judgment
 created: "2026-09-10T05:58:00-04:00"
-updated: "2026-10-16T20:19:49-04:00"
+updated: "2026-10-21T10:45:00-04:00"
 type: concept
 foundations: [academic-integrity, critical-thinking]
 pedagogy: [metacognition, self-regulated-learning]
@@ -69,6 +69,7 @@ The knowledge base's [[collaborative-learning|collaborative]] and assessment lit
 
 - **Classroom-level proxies for judgment are being proposed.** [[austin-ai-agents-assignment-redesign-2026|Austin (2026)]] adds two behavioral signals to a redesigned assignment sequence: the UnBlooms™ *Discernment Rate*, the share of AI outputs a learner interrogates, challenges or revises rather than accepts, and the *First-Pass Acceptance Rate*. Neither is validated — both are offered as cheap per-assignment diagnostics — but they make the construct observable inside ordinary grading, where a near-zero discernment rate across several assignments reads as a task-design signal rather than an individual deficit.
 - **Judgment registers when wired to revision, not merely present.** In 67 pre-service teachers designing lesson plans with GenAI, explicit evaluation was near-absent in the lower-quality group (0.67 vs 0.00); what separated quality was a bidirectional evaluation–revision cycle (CE→RE Z = 2.80, RE→CE Z = 2.50) and a revision self-loop (RE→RE Z = 4.24) ([[fang-human-ai-collaboration-patterns-instructional-design-2026|Fang et al. (2026)]]).
+- **Instructors' criteria can be externalized by revising AI output.** [[valiassist-programming-feedback-validation-by-demonstration-2026|Tang et al. (2026)]] inferred reusable validation rules from 16 instructors' edits of LLM-generated programming feedback and raised alignment with their pedagogical intent from 57% to 91%, making tacit criteria inspectable rather than leaving them unstated.
 
 ## How misuse displaces judgment
 
@@ -107,7 +108,6 @@ The clearest risk is displacement, and it is evidenced in the feedback literatur
 
 ## Connected Articles
 - [[chatgpt-peer-feedback-evaluative-judgement-2025]] — ChatGPT versus peer feedback as training grounds for different dimensions of evaluative judgment
-
 - [[ai-internal-feedback-evaluative-judgments]] — How AI-supported internal feedback develops evaluative judgments, and where reasoning stays thin
 - [[genai-feedback-design-multisite-experiment]] — Hybrid self/peer/AI feedback preserves agency and judgment better than direct AI feedback
 - [[pairr-ai-peer-review-2025]] — Peer-and-AI review with structured reflection as calibration at scale
@@ -129,6 +129,6 @@ The clearest risk is displacement, and it is evidenced in the feedback literatur
 - [[ai-written-admissions-essays-penalized-2026]] — AI-written admissions essays are widespread but penalized
 - [[authentic-assessments-generative-ai-pilot-2026]] — Designing Authentic Assessments with Generative AI: A Pilot Study of Assessment Authentifire in Higher Education
 - [[obyrne-co-constructing-ai-boundaries-agency-judgment-2026]] — the Agency Check (credible, relevant, acceptable, nuanced) that structures each AI interaction
-
 - [[judgment-centred-software-engineering-education-2026]] — A Post-Hype Review and Framework for AI-Augmented Software Engineering Education
 - [[fang-human-ai-collaboration-patterns-instructional-design-2026]] — Judgment separated quality only when wired to revision (Z = 2.80 and 2.50)
+- [[valiassist-programming-feedback-validation-by-demonstration-2026]] — Instructors' revisions became reusable validation criteria (Tang et al. 2026)

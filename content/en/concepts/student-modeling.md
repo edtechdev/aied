@@ -1,7 +1,7 @@
 ---
 title: "Learner Modeling and Adaptive Instruction"
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-03T02:57:43-04:00"
+updated: "2026-10-21T10:45:00-04:00"
 type: concept
 connected_faqs: [making-simulated-students-behave-like-learners]
 technology: [adaptive-learning, cognitive-diagnosis, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, personalized-learning, simulating-students, student-modeling]
@@ -79,6 +79,7 @@ Some intended signals may not be recoverable from dialogue at all: the Learning 
 Hidden misconceptions show the same failure from the other side: [[correct-answer-trap-misconceptions|Imran and Bulathwela (2026)]] found a fine-tuned classifier caught 57.4% of correct answers reached through flawed reasoning, and at a 1.6% prevalence even an 83.6%-accurate reasoning model left 8 false alarms per detection — so correctness-based mastery signals are both incomplete and expensive to repair.
 
 **How a model is validated is itself a validity question.** [[schuetze-knowledge-tracing-forgetting-2026|Schuetze, Yan, and Carvalho (2025)]] show that popular learner models (BKT, BKT-with-Forgetting, AFM) appear to capture human learning only when fit retroactively to a full multi-session dataset; under time-based (walk-forward) cross-validation — predicting a future session from earlier ones, how such models are actually deployed — they overestimate performance, miss the [[retrieval-spacing-interleaving|spacing effect]], and mis-order practice conditions. Because forgetting-augmented and forgetting-free models performed about equally across sessions, the authors conclude that forgetting is often absorbed into learner parameters rather than genuinely represented. The lesson for the family is that a faithful learner representation must be validated the way it is used — and that conflating in-the-moment performance with long-term retention produces models that look accurate yet misrepresent learners.
+[[learning-style-inference-bias-student-ai-dialogues-2026|Zamanifard, Goudarzi and Robb (2026)]] show the same failure from the classifier's side: inferring learning-style dimensions from 153 undergraduates' problem-solving dialogues looked moderate on accuracy until per-class recall exposed dominant-label prediction, with Intuitive and Global learners systematically under-identified and few-shot examples sometimes amplifying the majority-class bias.
 
 ## LLM-era modeling
 
@@ -151,5 +152,4 @@ Learner modeling and adaptive instruction feed into [[learning-analytics]] ([[vi
 - [[process-grounded-language-cognitive-diagnosis-2026]] — Beyond ID Embeddings: Process-Grounded Language Modeling for Cognitive Diagnosis
 - [[exrec-exercise-recommendation-knowledge-tracing-2025]] — compact learner state plus a calibrated tracer as a recommender environment
 - [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn: An Agentic Tutor that Learns its Learner in a Human-AI Co-Learning Loop
-
-- [[ai-game-based-learning-systematic-review-2026]] — Stealth assessment reached AUCs of 0.848–0.913, but bias audits were near-absent across 55 studies
+- [[ai-game-based-learning-systematic-review-2026]] — Stealth assessment reached AUCs of 0.848–0.913, but bias audits were near-absent across 55 studies- [[learning-style-inference-bias-student-ai-dialogues-2026]] — Dialogue-based learning-style inference fails on balanced metrics (Zamanifard, Goudarzi & Robb 2026)

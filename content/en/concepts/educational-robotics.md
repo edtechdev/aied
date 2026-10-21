@@ -1,7 +1,7 @@
 ---
 title: Robots in Education
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-10-01T09:59:02-04:00"
+updated: "2026-10-21T10:45:00-04:00"
 type: concept
 foundations: [computational-thinking]
 pedagogy: [embodied-learning]
@@ -61,6 +61,7 @@ Two strands shape the social side of robotics in education.
 - **Two paradigms for young learners: coding robots and generative social robots.** [[creative-project-approach-ai-early-childhood-2025|Yang, Li and Lee (2025)]] frame early-childhood robotics as the pairing of two [[pedagogy|pedagogical]] paradigms, each with a distinct theoretical base. **Coding robots** (Bee-Bot, KIBO, Matatalab) descend from Papert's LOGO and embody [[constructivist|constructionism]] — children learn by making and build [[computational-thinking|computational thinking]] through tangible programming. **Generative social robots**, powered by [[generative-ai|generative AI]], are grounded in [[sociocultural-learning|social constructivism]], acting as conversational peers or tutors who [[scaffolding|scaffold]] learning within the child's Zone of Proximal Development and support social-emotional development. Their five-step **Creative Project Approach** for integrating both robot types into the Project Approach keeps teachers as facilitators who guide child–robot interaction, balance automation with [[creativity]], and preserve child [[agency]].
 
 - **What kindergarten CT robotics actually does.** A systematic review of 53 studies found problem-based learning, storytelling, and scaffolding the most frequently used strategies, with most studies naming no CT framework and using ad hoc assessment tools rather than a validated instrument such as TechCheck-K ([[tsingidou-ct-robotics-kindergarten-2026|Tsingidou & Sapounidis (2026)]]).
+- **LLM planning rather than conversation.** [[vlm-task-planning-humanoid-robot-autism-education-2026|Kudláčková (2026)]] uses a vision-language model to convert photographs of Shoebox Tasks — visually structured activities used with learners on the autism spectrum — into a PDDL problem that a Nao humanoid executes or demonstrates, with plan correctness scored across six tasks rather than any learner outcome.
 
 ### Embodiment and pedagogy
 
@@ -120,3 +121,4 @@ A defining theme is that robots are effective when they support genuine learning
 - [[arc-hubs-k12-ai-robotics-rural-2026]] — ARC: a hubs-based framework that treats technical mentorship capacity and hub geography, not hardware, as the constraint on rural K–12 robotics programs (Jacobson et al. 2026)
 - [[teaching-rl-humanoid-robotics-high-school-2026]] — Teaching Reinforcement Learning and Humanoid Robotics to High-School Students: An Expert-Validated Curriculum Design on a Low-Cost Open Platform
 - [[aifred-desk-robotic-ai-guidance-2026]] — A desk-mounted robotic projector: co-located guidance preserved transfer where laptop ChatGPT lost it
+- [[vlm-task-planning-humanoid-robot-autism-education-2026]] — A vision-language model plans Shoebox Tasks for a Nao robot (Kudláčková 2026)

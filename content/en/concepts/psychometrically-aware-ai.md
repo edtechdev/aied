@@ -1,7 +1,7 @@
 ---
 title: Psychometrically Aware AI
 created: "2026-07-28T16:52:03-04:00"
-updated: "2026-09-30T09:59:35-04:00"
+updated: "2026-10-21T10:45:00-04:00"
 type: concept
 technology: [llm]
 assessment: [assessment-validity, automated-assessment, educational-measurement, item-response-theory]
@@ -36,6 +36,7 @@ As AI systems increasingly score responses, predict difficulty, and provide [[fe
 - **Latent-structure validity:** [[assessment-latent-structure-human-llm-2026|Strugatski et al. (2026)]] show that a psychometrically aware stance must also verify that an assessment measures the *same latent construct* in LLMs as in humans. Because LLM and human response factor structures diverge on the same instruments, even well-scoring models may not be measuring the construct the exam purports to measure — a caveat for any AI assessment that borrows human validity evidence.
 - **A label can measure more, or less, than it names.** Embedding 12 AI literacy instruments' 55 constructs and 272 items surfaced jangle pairs (same label, different measurement) and jingle pairs (different labels, near-identical wording), recovering reliability at r = 0.49, a pre-collection check that construct distinctions survive into item wording ([[ai-literacy-measurement-conceptual-landscape-llm-2026|He et al. (2026)]]).
 - **Latent-ability pipelines and standard setting:** [[human-in-the-loop-ai-scoring-national-assessment-2026|Curi et al. (2026)]] provide a concrete template for psychometrically aware scoring in a national exam: rubric item scores are never summed directly but fed into an [[item-response-theory|IRT]] model whose latent-ability estimates are cut with the Bookmark standard-setting method into Proficient / Close to Proficiency / Insufficient, with passing requiring at least two Proficient sections and the remaining one at least Close to Proficiency. The authors reproduced that pipeline in automated form (a 67% probability of answering at least 7 rubric items correctly for the lower cut and at least 10 for the upper), letting AI and human item scores be compared against identical decision criteria rather than on raw agreement alone.
+- **Balanced metrics catch a model that only looks calibrated.** Asking GPT-4o and Gemini 2.0 Flash to infer learning-style dimensions from 153 undergraduates' dialogues produced moderate accuracy that per-class recall showed was dominant-label prediction, with Intuitive and Global learners under-identified and few-shot prompting sometimes amplifying the bias rather than removing it ([[learning-style-inference-bias-student-ai-dialogues-2026|Zamanifard, Goudarzi and Robb (2026)]]).
 
 ### Connections
 
@@ -64,3 +65,4 @@ Psychometrically aware AI sits at the intersection of [[educational-measurement]
 - [[razavi-powers-item-difficulty-llm-2026]] — Estimating item difficulty using LLMs and tree-based ML
 - [[ai-literacy-measurement-conceptual-landscape-llm-2026]] — Comparing AI literacy instruments: jangle and jingle pairs across 55 constructs
 - [[student-llm-use-ai-question-difficulty-data-science-2026]] — Student Use of LLMs and the Limits of AI-Generated Question Difficulty in Data Science Courses
+- [[learning-style-inference-bias-student-ai-dialogues-2026]] — Moderate accuracy was majority-class prediction once per-class recall was checked (Zamanifard, Goudarzi & Robb 2026)

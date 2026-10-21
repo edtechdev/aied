@@ -7,7 +7,7 @@
 > **Scope of this file:** it lists work in progress only — articles whose full text is still being sought, and pages waiting on a source before their practice and limitations sections can be written. Candidates appear here only while they are being pursued, and no outcome is recorded; items judged unsuitable for the knowledge base are tracked outside this repository.
 
 **Last updated:** 2026-10-11
-**Total backlog:** 11 articles awaiting ingest (full text retrievable from the open-access publisher pages) · 52 truncated source texts awaiting PDFs · 19 pages awaiting a full text before their practice and limitations sections can be written
+**Total backlog:** 12 articles awaiting ingest (full text retrievable from the open-access publisher pages) · 52 truncated source texts awaiting PDFs · 19 pages awaiting a full text before their practice and limitations sections can be written
 
 
 ## Weekly journal RSS scan (2026-10-11)
@@ -36,6 +36,12 @@ _No articles pending as of 2026-10-04._
 
 
 
+
+## OpenAlex harvest (2026-10-21)
+
+Relevant AI-in-education records surfaced by the OpenAlex scan whose open-access `pdf_url` answered with a publisher bot check instead of a file. Full text is not retrievable automatically, so no wiki page was created.
+
+- [Technology-Supported Formative Assessment in Higher Education: AI, Learning Analytics and the Future of Assessment for Learning](https://onlinelibrary.wiley.com/doi/10.1002/jcal.70360) — [DOI: 10.1002/jcal.70360](https://doi.org/10.1002/jcal.70360) — Journal of Computer Assisted Learning (Wiley `pdfdirect` returns HTTP 403)
 
 ## Ingested pages whose source text is truncated (PDF needed)
 
