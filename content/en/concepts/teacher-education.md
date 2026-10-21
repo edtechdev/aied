@@ -1,7 +1,7 @@
 ---
 title: Professional Development
 created: "2026-08-16T10:55:19-04:00"
-updated: "2026-10-18T21:30:17-04:00"
+updated: "2026-10-21T12:05:00-04:00"
 type: concept
 foundations: [ai-literacy, teacher-role, tpack]
 connected_faqs: [faculty-development-ai]
@@ -35,6 +35,7 @@ Pre-service (initial) teacher education prepares future teachers during their ce
 
 - **AI-TPACK and intelligent-TPACK readiness.** Instruments and frameworks measure and build pre-service teachers' readiness to integrate AI, extending the [[tpack]] framework with an AI/ethics dimension.([[conceptualizing-preservice-teachers-ai-readiness-2026]])([[ai-tpack-mathematics-teacher-education-2026]])
 - **Acceptance profiles, and an ease-of-use/intention paradox.** [[chen-preservice-teachers-chatgpt-lpa-2026|Chen et al. (2026)]] profiled 128 pre-service teachers into four ChatGPT-acceptance groups: Resistant Skeptics (14.06%) reported high perceived ease of use but very low behavioral intention, so operational skills training alone does not convert them.
+- **Local context as a design input.** Swiss student teachers rated social-utility and intrinsic motives higher than their Chinese peers, who reported greater digital teaching competence and AI enthusiasm ([[motivation-shape-future-education-ai-switzerland-china|Martínez-Moreno et al. (2026)]]). Preparation should key its entry point to each setting's [[motivation|motivational]] profile.
 - **Applications and benefits.** A scoping review of 55 studies shows AI enhances pre-service teachers' instructional design, subject instruction, practical teaching skills, evaluation, reflective practice, [[critical-thinking|critical thinking]], technology integration, and pedagogical innovation.([[harnessing-ai-preservice-teachers-scoping-2026]])
 
 - **Unscaffolded genAI access scored below no genAI.** In an 11-week quasi-experiment with 52 pre-service teachers, the unscaffolded genAI class produced lower rubric-rated lesson plans than the no-genAI class (adjusted 86.54 vs 81.87, F = 8.348, p = 0.006, η² = 0.146), with no group difference in [[self-regulated-learning]] or critical thinking ([[unscaffolded-genai-preservice-teachers-quasi-experiment-2026|Zhang et al. (2026)]]).
@@ -123,10 +124,7 @@ Beyond content and beliefs, teacher preparation increasingly uses **simulated cl
 - [[microbit-robotics-machine-learning-teacher-training-2026]] — Micro:bit robotics in initial teacher training
 - [[aaiwa-ai-authentic-assessment-metacognition-2026]] — AI-mediated authentic assessment in pre-service education
 - [[science-educators-ai-literacy-postqualification-2026]] — Science educators' AI literacy and post-qualification programs
-- [[ithaka-sr-ai-skills-college-graduates-2026]] — Instructors report institutional AI-skills consensus and assessment gaps
-- [[young-people-learning-generative-ai-rapid-review-2026]] — Teachers essential for relational/higher-order work in hybrid arrangements
 - [[context-based-ai-secondary-chemistry-2026]] — Context-based 7E + AI instruction in secondary chemistry
-- [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — Instructor and AI roles in ChatGPT-enhanced formative assessment
 - [[educasim-cs1-instructional-practice]] — EducaSim: interactive simulacra for CS1 instructional practice
 - [[chen-preservice-teachers-chatgpt-lpa-2026]] — Pre-service teacher ChatGPT acceptance profiles
 - [[motivation-shape-future-education-ai-switzerland-china]] — Motivation to shape the future of education with AI
@@ -134,8 +132,6 @@ Beyond content and beliefs, teacher preparation increasingly uses **simulated cl
 - [[reflective-triangle-model-teacher-ai-2026]] — Reflective Triangle Model: AI as cognitive mediator
 - [[sahab-model-genai-constructivist-id-2026]] — SAHAB model: GenAI constructivist instructional design
 - [[riandi-teacher-ai-green-energy-education-2026]] — Teacher involvement in AI integration for green energy education (Riandi et al. 2026)
-- [[utility-value-intervention-teach-responsibly-genai-2026]] — Utility-value intervention effects in learning to teach responsibly with GenAI (Boos, Eder & Lachner 2026)
-- [[preservice-teacher-agency-genai-design-learning-2026]] — Pre-service teacher agency during GenAI interactions in design for learning (Krushinskaia, Elen & Raes 2026)
 - [[longitudinal-ai-usage-ethics-policy-teacher-education-2026]] — Longitudinal GenAI usage, ethics, and policy in teacher education (Parker et al. 2026)
 - [[instructional-design-proficiency-masters-math-2026]] — Smart-classroom model and D-T-E loop improving M.Ed. instructional design proficiency in mathematics (Zhu et al. 2026)
 - [[li-language-educators-genai-review-2026]] — Language educators' practices and development with GenAI

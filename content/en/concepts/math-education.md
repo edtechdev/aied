@@ -1,7 +1,7 @@
 ---
 title: Math Education
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-16T08:47:09-04:00"
+updated: "2026-10-21T12:05:00-04:00"
 type: concept
 pedagogy: [scaffolding]
 technology: [generative-ai, intelligent-tutoring]
@@ -29,6 +29,8 @@ Mathematics education has become a primary domain for [[ai-education|AI in educa
 ### Key research themes
 
 **AI math tutoring and scaffolding** is the largest cluster, with four articles examining how AI tutors support or undermine math learning. **[[kar-mathbuddy-affective-math-tutoring-2025|MathBuddy]]** demonstrates that adding affective awareness — detecting student emotions from text and facial expressions — produces a +23-point win rate advantage in math tutoring, connecting to [[affective-computing]] and [[affective-tutoring]]. **[[zhang-tutormoments-2026|TutorMoments]]** evaluates 462 teacher-annotated transcripts from grades 2-7 math tutoring and finds frontier models default toward over-helpfulness, rarely pushing for rigor even when students are ready — directly challenging the alignment between AI helpfulness and [[scaffolding]] principles. **[[lak2026-hint-button-unproductive-use|An et al.]]** analyzed 999 students across three semesters in the *Decimal Point* ITS, finding that premature hint requests and superficial hint reading consistently predict reduced [[learning-gains|learning gains]], even after controlling for [[prior-knowledge|prior knowledge]] — a finding that connects to [[help-seeking]] and [[learning-analytics]].
+
+**A satisfaction penalty.** Steering an LLM tutor through a [[productive-failure]] plan instead of letting it answer raised strategy fidelity and produced 2.6 solution attempts per session in a 17-student high-school study, yet students rated the productive-failure tutor less helpful than a baseline ([[puech-pedagogical-steering-llm-productive-failure-2025|Puech et al. (2025)]]).
 
 **Socio-emotional support can buy efficiency rather than achievement.** Adding an LLM mindfulness layer to a seventh-grade algebra tutor left learning and state-math anxiety unchanged between arms (42 of 252 students analyzed after disruptions), yet mindful-condition students reached comparable learning with less time and fewer requested hints ([[mindful-llm-math-tutoring-2026|Rief et al., 2026]]).
 
@@ -58,6 +60,7 @@ Prompt design is itself a measurable lever: on the MathDial benchmark a pedagogi
 - **AI-susceptible problems lose study time and retention.** A ten-year panel of 3.2 million ALEKS interactions found learning time on text-based word problems — those most transcribable into AI prompts — fell 26.9% after ChatGPT's release, while proctored retention items showed a 25% decline in the odds of a correct response ([[generative-ai-reduced-study-time-math|Rismanchian et al., 2026]]).
 
 - **Students value immediate feedback, but optional practice platforms go unused.** Of 157 students, [[genai-practice-platform-maths-feedback-2026|Chen et al. (2026)]] saw 95 register and only 34 attempt a question; users rated engagement highest (79% agreement) while just 42% preferred the platform to the existing problem booklet.
+- **Errors become the mechanism.** Embedding AI in a mastery-based practice platform slowed progress — students attempted fewer questions — yet raised next-attempt correctness after mistakes, while a three-correct-in-a-row mastery rule lifted platform success without improving delayed learning ([[making-ai-tutoring-productive-mastery-math-2026|Oreopoulos et al. (2026)]]).
 - **AI can raise achievement while widening a gender gap.** In a six-week quasi-experiment with 115 Nigerian senior-secondary students, ChatGPT feedback raised quadratic-equation achievement over conventional teaching (29.18 vs 24.06), yet male students outperformed female students (30.95 vs 25.16) despite no gender difference in self-efficacy — an equity caution for AI mathematics support ([[ai-generated-responses-achievement-self-efficacy-2026|Oladayo & Diri, 2026]]).
 - **Students still prefer the teacher's grading decision.** In a vignette experiment with 250 seventh-grade students, teacher-made decisions on a mathematics exercise drew higher acceptance than AI-made ones (M = 4.48 against M = 3.47), perceived fairness carried 67.52% of the effect, and written explanations widened rather than closed the fairness gap ([[decision-making-agent-student-decision-acceptance-2026|Zhang, Fan & Qi (2026)]]).
 
@@ -106,7 +109,6 @@ Math education sits within the broader [[stem-education]] domain with distinctiv
 - [[ai-mathematics-education-prisma-review-2026]] — Artificial intelligence in mathematics education: A PRISMA-based systematic literature review (2021-2025)
 - [[automated-scoring-economics-math-items-nigeria-2026]] — Automated software scoring of senior school certificate examination mathematical items in economics using a contextual similarity model
 - [[mindful-llm-math-tutoring-2026]] — Beyond Problem Solving: Large Language Models for Emotional and Reflective Support in Mathematics Learning
-- [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — Virtual tutoring with CAL: an experiment in take-up and learning
 - [[making-ai-tutoring-productive-mastery-math-2026]] — Making AI tutoring productive: mastery-based math practice
 - [[chudziak-ai-math-tutoring-platform]] — AI-powered math tutoring platform (Chudziak & Kostka 2025)
 - [[kar-mathbuddy-affective-math-tutoring-2025]]
@@ -117,21 +119,13 @@ Math education sits within the broader [[stem-education]] domain with distinctiv
 - [[epistemic-proactivity-math]]
 - [[ai-powered-personalized-learning-elementary-fractions-2026]]
 - [[teacher-control-ai-generation-math-visuals]]
-- [[ai-tpack-preservice-math-teachers]]
 - [[genai-runaway-object-math-higher-ed]]
 - [[generative-ai-reduced-study-time-math]] — ALEKS mastery platform: text-based problems most AI-susceptible
-- [[mujib-ai-ibl-creative-math-2026]] — AI-supported IBL and creative mathematical performance
 - [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pedagogical Steering of LLMs for Productive Failure
-- [[rhaimi-productivemath-2025]] — ProductiveMath: AI to Support Productive Failure Problem Design
-- [[preferred-scaffolding-ai-mathematical-modeling]] — Preferred scaffolding in AI-supported mathematical modeling
 - [[instructional-design-proficiency-masters-math-2026]] — Smart-classroom model and D-T-E loop improving M.Ed. instructional design proficiency in mathematics (Zhu et al. 2026)
 - [[rule-integrated-llm-tutoring-primary-math-2026]] — Rule-guided vs ad-hoc scaffolding in an LLM tutoring system for primary mathematics (Looi et al. 2026)
-- [[ai-modeling-problem-generation-platform-2026]] — AI-powered platform generating mathematical modeling problems (ADDIE, RAG)
 - [[razavi-powers-item-difficulty-llm-2026]] — Estimating item difficulty using LLMs and tree-based ML
 - [[zhuang-zhang-chatgpt-math-teacher-education-2026]]
-- [[gpt4-handwritten-math-exam-grading-2026]] — GPT-4 grading of semi-open handwritten university mathematics answers
-- [[exrec-exercise-recommendation-knowledge-tracing-2025]] — semantic knowledge-concept annotation and RL exercise sequencing on K-12 math corpora
-- [[misconception-acquisition-dynamics-llms-2026]] — algebra mal-rule training dynamics in language models
 - [[genai-practice-platform-maths-feedback-2026]] — Optional GenAI practice platform in a 157-student maths class: immediate feedback valued, uptake limited to 34 active users
 - [[ai-generated-responses-achievement-self-efficacy-2026]] — Assessing the Influence of AI-Generated Responses on Academic Achievement: An Ethical Perspective and Self-Efficacy
 - [[teachers-instrumental-orchestration-ai-math-2026]] — Classroom orchestration work in high-school mathematics: reading dashboards and correcting AI feedback

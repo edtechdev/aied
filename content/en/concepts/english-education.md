@@ -1,7 +1,7 @@
 ---
 title: English Education (EAP / EFL / ESL)
 created: "2026-08-21T12:30:00-04:00"
-updated: "2026-10-16T08:47:09-04:00"
+updated: "2026-10-21T12:05:00-04:00"
 type: concept
 foundations: [academic-integrity]
 technology: [generative-ai]
@@ -120,7 +120,6 @@ A Scopus-based synthesis of 54 EFL studies locates the field's most-reported [[l
 - [[governing-unseen-ai-literacy-language-teachers-2026]] — Governing the Unseen: AI Literacy among Language Teachers
 - [[structural-silence-underrepresented-language-ai-2026]] — Structural Silence: Underrepresented Languages in AI Infrastructure
 - [[liu-emerging-tech-tefl-review-2026]] — Emerging technologies for TEFL
-- [[wang-goal-setting-ai-engagement-2026]] — Goal-setting theory: teacher support, achievement goals, and engagement in AI-assisted English learning (758 Chinese students)
 - [[bird-multimodal-educational-literature-2026]] — Multimodal fusion for classifying educational literature
 - [[li-language-educators-genai-review-2026]] — Language educators' practices and development with GenAI
 - [[zhao-ji-appraisal-human-ai-revisions-2026]] — Peer and AI revisions of EFL argumentative essays differ in dialogic positioning (Zhao & Ji 2026)

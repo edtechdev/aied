@@ -2,7 +2,7 @@
 connected_resources: [pressing-prompts, student-guide-to-ai]
 title: Critical Thinking
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-15T08:25:00-04:00"
+updated: "2026-10-21T12:05:00-04:00"
 type: concept
 foundations: [ai-education, ai-literacy, cognitive-offloading]
 pedagogy: [scaffolding, socratic-method]
@@ -131,4 +131,3 @@ Critical thinking intersects with [[scaffolding]] (designing AI support that mai
 
 - [[genai-dependence-research-creativity-2026]] — GenAI dependence positively associated with critical thinking in 1,157 graduate students
 - [[genai-use-critical-thinking-moderation-2026]] — GenAI use to critical thinking via feedback literacy, with a direct path only for less reflective students
-- [[hallstrom-ai-literacy-stem-education-frontiers-2026]] — Synthesis of the ten most-cited studies of AI literacy in STEM education (Hallström et al. 2026)

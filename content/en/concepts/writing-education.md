@@ -2,7 +2,7 @@
 connected_resources: [clarity, writing-rhetoric-studies-in-the-loop]
 title: Writing
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-21T11:40:00-04:00"
+updated: "2026-10-21T12:05:00-04:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading]
 pedagogy: [metacognition]
@@ -32,6 +32,7 @@ Writing is not merely output but a cognitive, social, and rhetorical process. Th
 ### How AI in writing education appears in the research
 
 - **Automated essay scoring:** [[automated-essay-scoring]] systems like [[choi-anchor-aes-prompting-2025|anchor-based AES]] and [[aiawe-automated-writing-evaluation|AIAWE]] evaluate student writing at scale, raising questions about [[assessment-validity|construct validity]] and the reduction of writing to measurable features. For short argumentative writing (about 150–200 words) in Spanish, AI scoring agreement varies sharply by rubric dimension ([[human-in-the-loop-ai-scoring-national-assessment-2026|Curi et al., 2026]]): structure- and register-oriented items — introduction, conclusion, register, nominal agreement, subject–verb agreement — reached moderate chance-corrected agreement with human raters in the 2025 edition, while micro-level linguistic items (vocabulary, syntax, punctuation, connectors, argumentation) stayed in the fair-to-slight range. This suggests LLM assistance is most defensible for macro-level discourse features, and that low-level language conventions should keep deterministic tooling or [[human-in-the-loop-ai|human review]].
+- **A quality-dependent tilt.** Out-of-the-box GPT and Llama graders agreed weakly with human raters (QWK 0.17–0.28 versus 0.72 between two humans), overscoring short, underdeveloped essays and underscoring longer, stronger ones for minor surface errors ([[llms-do-not-grade-essays-like-humans-2026|Mathew et al. (2026)]]).
 
 - **Score more samples, not bigger models.** In a Grades 3–6 universal-screening study, LLM comparative-judgment scores converged with researcher rubrics (r = .59–.73) and averaging the three screening waves raised criterion validity (β = .68–.74 for ELA scale, AUC = .82–.86 for proficiency), while greater model capability or cost added little ([[llm-comparative-judgment-writing-screening-2026|Mercer & Reed (2026)]]).
 
@@ -141,7 +142,6 @@ Writing education connects to [[automated-essay-scoring]], [[ai-feedback-quality
 - [[human-in-the-loop-ai-scoring-national-assessment-2026]] — A Human-in-the-Loop Framework for AI-Assisted Scoring in Large-Scale Writing Assessment
 - [[llm-comparative-judgment-writing-screening-2026]] — Validity of Large Language Model Comparative Judgment for Universal Writing Screening
 - [[layer-sensitive-cognitive-offloading-writing-2026]] — Layer-sensitive cognitive offloading in GenAI-assisted writing (Chen 2026)
-- [[your-brain-on-chatgpt-cognitive-debt-essay-writing]]
 - [[coach-not-crutch-ai-writing]] — AI writing tools can improve writing skill despite reducing effort (Lira et al. 2025)
 - [[llms-do-not-grade-essays-like-humans-2026]] — LLMs do not grade essays like humans (Mathew et al. 2026)
 - [[pairr-ai-peer-review-2025]] — Peer and AI Review + Reflection (PAIRR)
@@ -156,12 +156,10 @@ Writing education connects to [[automated-essay-scoring]], [[ai-feedback-quality
 - [[self-referential-l2-writing-llm-assessment]] — Self-Referential L2 Writing Assessment
 - [[becerra-aicofe-feedback-2026]] — AI Peer Feedback Systems
 - [[repeated-ai-writing-feedback-semester]] — Student Evaluation of Repeated AI Feedback
-- [[veriforge-narrative-drafting-scaffolding-2026]] — VeriForge: Narrative Drafting Scaffolding
 - [[ai-feedback-critical-thinking-writing-2026]] — Using AI-Generated Feedback to Improve Critical Thinking
 - [[marked-pedagogies-linguistic-bias-writing-feedback]] — Marked Pedagogies: linguistic biases in personalized automated writing feedback
 - [[bassett-ai-detectors-education-2026]] — Heads we win, tails you lose: AI detectors in education (Bassett et al. 2026)
 - [[academic-erasure-complexity-ai-writing-2026]] — Academic erasure: the disappearance of complexity under AI-supported writing
-- [[making-ai-annoying-constrained-writing-2026]] — Making AI annoying on purpose: constraint in AI-supported writing (Konradt, Boote & Taub 2026)
 - [[lu-ai-multimodal-writing-critical-thinking-2026]] — Multimodal AI composing and critical thinking in primary writing (Lu et al. 2027)
 - [[student-genai-use-views-writing]] — Student use of and views on GenAI for writing (Kuznetsov, Sheely & Baker 2026)
 - [[genai-writing-program-primary-l2-motivation-engagement]] — A GenAI-supported writing program for primary L2 motivation, engagement and performance (Lu et al. 2026)

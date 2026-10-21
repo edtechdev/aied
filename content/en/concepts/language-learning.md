@@ -2,7 +2,7 @@
 connected_resources: [mglearn]
 title: Language Learning
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-16T08:47:09-04:00"
+updated: "2026-10-21T12:05:00-04:00"
 type: concept
 foundations: [ai-education]
 technology: [generative-ai]
@@ -98,10 +98,6 @@ Design quality, not usage frequency, carried the motivational effect in an instr
 - [[llm-agents-5e-esl-grammar-2026]] — LLM agents with 5E framework for ESL grammar acquisition (Yang, Weng & Yang 2026)
 - [[gpt-item-generation-l2-listening-2026]] — Prompting vs. fine-tuning GPT for L2 listening item generation (Aryadoust & Wong 2026)
 - [[bert-discourse-english-teaching-2026]] — BERT discourse classification for English teaching
-- [[alharbi-ethical-genai-eap-2026]]
-- [[sutama-chatgpt-eportfolio-speaking-2026]]
-- [[ni-lam-multiliteracies-ai-portfolio-2026]]
-- [[llms-text-linguistics-teaching-2026]] — LLMs in text linguistics teaching
 - [[ai-vs-human-assessment-efl-tpck-2026]] — AI-generated vs human-developed assessment tasks in EFL
 - [[governing-unseen-ai-literacy-language-teachers-2026]] — Governing the unseen: AI literacy among language teachers
 - [[ai-guided-learning-audiovideo-2026]]
@@ -117,7 +113,6 @@ Design quality, not usage frequency, carried the motivational effect in an instr
 - [[instructor-designed-ai-tutors-foreign-language-sdt-2026]] — Instructor-Designed AI Tutors in University Foreign Language Education: A Mixed-Methods Study of Learner Motivation and Reflective Learning Experience Based on Self-Determination Theory
 - [[lukesova-clue-before-correction-2026]] — Clue Before Correction: ChatGPT for Autonomous Language Learning
 - [[chatgpt-english-language-learning-malaysia]] — Students' ChatGPT experiences in English language learning
-- [[tts-dialogue-lessons-learner-characteristics-2026]] — Learner characteristics × TTS dialogue-format interactions
 - [[liu-emerging-tech-tefl-review-2026]] — Meta-analysis of emerging tech for EFL
 - [[wang-goal-setting-ai-engagement-2026]] — Goal-setting theory: teacher support, achievement goals, and engagement in AI-assisted English learning (758 Chinese students)
 - [[li-language-educators-genai-review-2026]] — Language educators' practices and development with GenAI
