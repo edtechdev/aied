@@ -75,6 +75,9 @@ export interface UiStrings {
     embedDesc: string;
     embedCode: string;
     copyCode: string;
+    /** Transient copy-button feedback, after a successful / failed clipboard write. */
+    copied: string;
+    copyFailed: string;
     close: string;
     chat: string;
     install: string;
@@ -174,6 +177,8 @@ const bn: UiStrings = {
       'এই পৃষ্ঠাটি যেকোনো লার্নিং ম্যানেজমেন্ট সিস্টেম বা ওয়েবসাইটে এমবেড করতে নিচের কোডটি কপি করুন। এমবেড করা সংস্করণে কেবল পৃষ্ঠার কনটেন্ট দেখানো হয় — সাইটের হেডার, নেভিগেশন ও ফুটার লুকানো থাকে।',
     embedCode: 'এমবেড কোড',
     copyCode: 'কোড কপি করুন',
+    copied: 'কপি হয়েছে!',
+    copyFailed: 'কপি করা যায়নি',
     close: 'বন্ধ',
     chat: 'চ্যাট',
     install: 'ইনস্টল',

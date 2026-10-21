@@ -75,6 +75,9 @@ export interface UiStrings {
     embedDesc: string;
     embedCode: string;
     copyCode: string;
+    /** Transient copy-button feedback, after a successful / failed clipboard write. */
+    copied: string;
+    copyFailed: string;
     close: string;
     chat: string;
     install: string;
@@ -174,6 +177,8 @@ const hu: UiStrings = {
       'Másolja ki az alábbi kódot az oldal tanuláskezelő rendszerbe vagy más weboldalra történő beágyazásához. A beágyazott változat csak az oldal tartalmát mutatja — elrejti a weboldal fejlécét, a navigációt és a láblécet.',
     embedCode: 'Beágyazási kód',
     copyCode: 'Kód másolása',
+    copied: 'Másolva!',
+    copyFailed: 'A másolás nem sikerült',
     close: 'Bezárás',
     chat: 'Csevegés',
     install: 'Telepítés',

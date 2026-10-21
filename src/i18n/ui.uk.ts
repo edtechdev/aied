@@ -75,6 +75,9 @@ export interface UiStrings {
     embedDesc: string;
     embedCode: string;
     copyCode: string;
+    /** Transient copy-button feedback, after a successful / failed clipboard write. */
+    copied: string;
+    copyFailed: string;
     close: string;
     chat: string;
     install: string;
@@ -173,6 +176,8 @@ const uk: UiStrings = {
     embedDesc: 'Скопіюйте наведений нижче код, щоб вставити цю сторінку в систему управління навчанням або на інший вебсайт. Вбудована версія показує лише вміст сторінки — вона приховує заголовок сайту, навігацію та колонтитул.',
     embedCode: 'Код для вставлення',
     copyCode: 'Скопіювати код',
+    copied: 'Скопійовано!',
+    copyFailed: 'Не вдалося скопіювати',
     close: 'Закрити',
     chat: 'Чат',
     install: 'Встановити',

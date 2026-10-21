@@ -69,6 +69,9 @@ export interface UiStrings {
     embedDesc: string;
     embedCode: string;
     copyCode: string;
+    /** Transient copy-button feedback, after a successful / failed clipboard write. */
+    copied: string;
+    copyFailed: string;
     close: string;
     chat: string;
     install: string;
@@ -168,6 +171,8 @@ const es: UiStrings = {
     embedDesc: 'Copia el código de abajo para incrustar esta página en un sistema de gestión del aprendizaje u otro sitio web. La versión incrustada muestra solo el contenido de la página: oculta el encabezado, la navegación y el pie de página del sitio.',
     embedCode: 'Código de incrustación',
     copyCode: 'Copiar el código',
+    copied: '¡Copiado!',
+    copyFailed: 'Error al copiar',
     close: 'Cerrar',
     chat: 'Chat',
     install: 'Instalar',

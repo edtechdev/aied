@@ -58,6 +58,8 @@ const tr: UiStrings = {
     embedDesc: 'Bu sayfayı bir öğrenme yönetim sistemine veya başka bir web sitesine gömmek için aşağıdaki kodu kopyalayın. Gömülü sürüm yalnızca sayfa içeriğini gösterir — site başlığını, gezintiyi ve alt bilgiyi gizler.',
     embedCode: 'Gömme kodu',
     copyCode: 'Kodu kopyala',
+    copied: 'Kopyalandı!',
+    copyFailed: 'Kopyalama başarısız',
     close: 'Kapat',
     chat: 'Sohbet',
     install: 'Kur',

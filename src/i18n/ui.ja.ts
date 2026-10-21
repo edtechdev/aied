@@ -69,6 +69,9 @@ export interface UiStrings {
     embedDesc: string;
     embedCode: string;
     copyCode: string;
+    /** Transient copy-button feedback, after a successful / failed clipboard write. */
+    copied: string;
+    copyFailed: string;
     close: string;
     chat: string;
     install: string;
@@ -167,6 +170,8 @@ const ja: UiStrings = {
     embedDesc: '下のコードをコピーして、学習管理システムや他のウェブサイトにこのページを埋め込みましょう。埋め込み版ではページの内容のみが表示され、サイトのヘッダー・ナビゲーション・フッターは非表示になります。',
     embedCode: '埋め込みコード',
     copyCode: 'コードをコピー',
+    copied: 'コピーしました',
+    copyFailed: 'コピーに失敗しました',
     close: '閉じる',
     chat: 'チャット',
     install: 'インストール',

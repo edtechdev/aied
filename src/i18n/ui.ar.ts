@@ -69,6 +69,9 @@ export interface UiStrings {
     embedDesc: string;
     embedCode: string;
     copyCode: string;
+    /** Transient copy-button feedback, after a successful / failed clipboard write. */
+    copied: string;
+    copyFailed: string;
     close: string;
     chat: string;
     install: string;
@@ -168,6 +171,8 @@ const ar: UiStrings = {
     embedDesc: 'انسخ الشيفرة أدناه لتضمين هذه الصفحة في نظام إدارة التعلم أو أي موقع آخر. الإصدار المُضمَّن يعرض محتوى الصفحة فقط — فهو يُخفي ترويسة الموقع وقائمة التنقل وتذييله.',
     embedCode: 'شيفرة التضمين',
     copyCode: 'نسخ الشيفرة',
+    copied: 'تم النسخ!',
+    copyFailed: 'فشل النسخ',
     close: 'إغلاق',
     chat: 'محادثة',
     install: 'تثبيت',

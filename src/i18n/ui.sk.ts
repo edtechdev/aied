@@ -75,6 +75,9 @@ export interface UiStrings {
     embedDesc: string;
     embedCode: string;
     copyCode: string;
+    /** Transient copy-button feedback, after a successful / failed clipboard write. */
+    copied: string;
+    copyFailed: string;
     close: string;
     chat: string;
     install: string;
@@ -173,6 +176,8 @@ const sk: UiStrings = {
     embedDesc: 'Skopírujte kód nižšie a vložte túto stránku do systému správy výučby alebo iného webu. Vložená verzia zobrazuje len obsah stránky — skrýva hlavičku webu, navigáciu a pätu.',
     embedCode: 'Kód na vloženie',
     copyCode: 'Kopírovať kód',
+    copied: 'Skopírované!',
+    copyFailed: 'Kopírovanie zlyhalo',
     close: 'Zavrieť',
     chat: 'Chat',
     install: 'Inštalovať',

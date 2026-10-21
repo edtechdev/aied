@@ -75,6 +75,9 @@ export interface UiStrings {
     embedDesc: string;
     embedCode: string;
     copyCode: string;
+    /** Transient copy-button feedback, after a successful / failed clipboard write. */
+    copied: string;
+    copyFailed: string;
     close: string;
     chat: string;
     install: string;
@@ -174,6 +177,8 @@ const sv: UiStrings = {
       'Kopiera koden nedan för att bädda in den här sidan i ett lärplattformssystem eller på en annan webbplats. Den inbäddade versionen visar bara sidans innehåll — den döljer webbplatsens sidhuvud, navigering och sidfot.',
     embedCode: 'Inbäddningskod',
     copyCode: 'Kopiera koden',
+    copied: 'Kopierat!',
+    copyFailed: 'Kopieringen misslyckades',
     close: 'Stäng',
     chat: 'Chatt',
     install: 'Installera',
