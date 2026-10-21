@@ -75,6 +75,9 @@ export interface UiStrings {
     embedDesc: string;
     embedCode: string;
     copyCode: string;
+    /** Transient copy-button feedback, after a successful / failed clipboard write. */
+    copied: string;
+    copyFailed: string;
     close: string;
     chat: string;
     install: string;
@@ -174,6 +177,8 @@ const fi: UiStrings = {
       'Kopioi alla oleva koodi upottaaksesi tämän sivun oppimisympäristöön tai muulle verkkosivustolle. Upotettu versio näyttää vain sivun sisällön — sivuston otsikko, navigointi ja alatunniste jäävät siitä pois.',
     embedCode: 'Upotuskoodi',
     copyCode: 'Kopioi koodi',
+    copied: 'Kopioitu!',
+    copyFailed: 'Kopiointi epäonnistui',
     close: 'Sulje',
     chat: 'Keskustelu',
     install: 'Asenna',

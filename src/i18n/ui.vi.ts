@@ -75,6 +75,9 @@ export interface UiStrings {
     embedDesc: string;
     embedCode: string;
     copyCode: string;
+    /** Transient copy-button feedback, after a successful / failed clipboard write. */
+    copied: string;
+    copyFailed: string;
     close: string;
     chat: string;
     install: string;
@@ -174,6 +177,8 @@ const vi: UiStrings = {
       'Sao chép mã bên dưới để nhúng trang này vào hệ thống quản lý học tập hoặc trang web khác. Bản nhúng chỉ hiển thị nội dung trang — nó ẩn phần đầu trang, điều hướng và chân trang của website.',
     embedCode: 'Mã nhúng',
     copyCode: 'Sao chép mã',
+    copied: 'Đã sao chép!',
+    copyFailed: 'Sao chép thất bại',
     close: 'Đóng',
     chat: 'Trò chuyện',
     install: 'Cài đặt',

@@ -58,6 +58,8 @@ const it: UiStrings = {
     embedDesc: 'Copia il codice qui sotto per incorporare questa pagina in un sistema di gestione dell’apprendimento o in un altro sito. La versione incorporata mostra solo il contenuto della pagina — nasconde header, navigazione e footer del sito.',
     embedCode: 'Codice di incorporamento',
     copyCode: 'Copia codice',
+    copied: 'Copiato!',
+    copyFailed: 'Copia non riuscita',
     close: 'Chiudi',
     chat: 'Chat',
     install: 'Installa',

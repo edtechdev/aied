@@ -75,6 +75,9 @@ export interface UiStrings {
     embedDesc: string;
     embedCode: string;
     copyCode: string;
+    /** Transient copy-button feedback, after a successful / failed clipboard write. */
+    copied: string;
+    copyFailed: string;
     close: string;
     chat: string;
     install: string;
@@ -174,6 +177,8 @@ const el: UiStrings = {
       'Αντιγράψτε τον παρακάτω κώδικα για να ενσωματώσετε αυτή τη σελίδα σε σύστημα διαχείρισης μάθησης ή σε άλλον ιστότοπο. Η ενσωματωμένη έκδοση εμφανίζει μόνο το περιεχόμενο της σελίδας — αποκρύπτει την κεφαλίδα του ιστότοπου, την πλοήγηση και το υποσέλιδο.',
     embedCode: 'Κώδικας ενσωμάτωσης',
     copyCode: 'Αντιγραφή κώδικα',
+    copied: 'Αντιγράφηκε!',
+    copyFailed: 'Η αντιγραφή απέτυχε',
     close: 'Κλείσιμο',
     chat: 'Συζήτηση',
     install: 'Εγκατάσταση',

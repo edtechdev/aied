@@ -75,6 +75,9 @@ export interface UiStrings {
     embedDesc: string;
     embedCode: string;
     copyCode: string;
+    /** Transient copy-button feedback, after a successful / failed clipboard write. */
+    copied: string;
+    copyFailed: string;
     close: string;
     chat: string;
     install: string;
@@ -173,6 +176,8 @@ const hr: UiStrings = {
     embedDesc: 'Kopirajte kôd u nastavku kako biste ugradili ovu stranicu u sustav za upravljanje učenjem ili drugu web stranicu. Ugrađena verzija prikazuje samo sadržaj stranice — skriva zaglavlje stranice, navigaciju i podnožje.',
     embedCode: 'Kôd za ugradnju',
     copyCode: 'Kopiraj kôd',
+    copied: 'Kopirano!',
+    copyFailed: 'Kopiranje nije uspjelo',
     close: 'Zatvori',
     chat: 'Razgovor',
     install: 'Instaliraj',

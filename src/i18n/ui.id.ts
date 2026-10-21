@@ -75,6 +75,9 @@ export interface UiStrings {
     embedDesc: string;
     embedCode: string;
     copyCode: string;
+    /** Transient copy-button feedback, after a successful / failed clipboard write. */
+    copied: string;
+    copyFailed: string;
     close: string;
     chat: string;
     install: string;
@@ -173,6 +176,8 @@ const id: UiStrings = {
     embedDesc: 'Salin kode di bawah untuk menyematkan halaman ini di sistem manajemen pembelajaran atau situs web lain. Versi yang disematkan hanya menampilkan konten halaman — header, navigasi, dan footer situs disembunyikan.',
     embedCode: 'Kode sematan',
     copyCode: 'Salin kode',
+    copied: 'Disalin!',
+    copyFailed: 'Gagal menyalin',
     close: 'Tutup',
     chat: 'Obrolan',
     install: 'Pasang',

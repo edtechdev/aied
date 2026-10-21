@@ -75,6 +75,9 @@ export interface UiStrings {
     embedDesc: string;
     embedCode: string;
     copyCode: string;
+    /** Transient copy-button feedback, after a successful / failed clipboard write. */
+    copied: string;
+    copyFailed: string;
     close: string;
     chat: string;
     install: string;
@@ -173,6 +176,8 @@ const sw: UiStrings = {
     embedDesc: 'Nakili msimbo ulio hapa chini ili kupachika ukurasa huu katika mfumo wa usimamizi wa kujifunza au tovuti nyingine. Toleo lililopachikwa linaonyesha maudhui ya ukurasa tu — linaficha kichwa cha tovuti, urambazaji, na kijachini.',
     embedCode: 'Msimbo wa kupachika',
     copyCode: 'Nakili msimbo',
+    copied: 'Imenakiliwa!',
+    copyFailed: 'Kunakili kumeshindikana',
     close: 'Funga',
     chat: 'Gumzo',
     install: 'Sakinisha',

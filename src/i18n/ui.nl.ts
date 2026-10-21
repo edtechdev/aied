@@ -75,6 +75,9 @@ export interface UiStrings {
     embedDesc: string;
     embedCode: string;
     copyCode: string;
+    /** Transient copy-button feedback, after a successful / failed clipboard write. */
+    copied: string;
+    copyFailed: string;
     close: string;
     chat: string;
     install: string;
@@ -174,6 +177,8 @@ const nl: UiStrings = {
       'Kopieer de onderstaande code om deze pagina in een leeromgeving of op een andere website in te sluiten. De ingesloten versie toont alleen de inhoud van de pagina — de sitekop, navigatie en voettekst zijn verborgen.',
     embedCode: 'Insluitcode',
     copyCode: 'Code kopiëren',
+    copied: 'Gekopieerd!',
+    copyFailed: 'Kopiëren mislukt',
     close: 'Sluiten',
     chat: 'Chat',
     install: 'Installeren',

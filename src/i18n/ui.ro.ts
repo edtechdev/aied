@@ -75,6 +75,9 @@ export interface UiStrings {
     embedDesc: string;
     embedCode: string;
     copyCode: string;
+    /** Transient copy-button feedback, after a successful / failed clipboard write. */
+    copied: string;
+    copyFailed: string;
     close: string;
     chat: string;
     install: string;
@@ -174,6 +177,8 @@ const ro: UiStrings = {
       'Copiază codul de mai jos pentru a încorpora această pagină într-un sistem de management al învățării sau pe alt site web. Versiunea încorporată arată doar conținutul paginii — ascunde antetul site-ului, navigația și subsolul.',
     embedCode: 'Cod de încorporare',
     copyCode: 'Copiază codul',
+    copied: 'Copiat!',
+    copyFailed: 'Copierea a eșuat',
     close: 'Închide',
     chat: 'Chat',
     install: 'Instalează',

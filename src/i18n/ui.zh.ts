@@ -69,6 +69,9 @@ export interface UiStrings {
     embedDesc: string;
     embedCode: string;
     copyCode: string;
+    /** Transient copy-button feedback, after a successful / failed clipboard write. */
+    copied: string;
+    copyFailed: string;
     close: string;
     chat: string;
     install: string;
@@ -166,6 +169,8 @@ const zh: UiStrings = {
     embedDesc: '复制下面的代码，将本页嵌入学习管理系统或其他网站。嵌入版本只显示页面内容 — 网站的页眉、导航和页脚会被隐藏。',
     embedCode: '嵌入代码',
     copyCode: '复制代码',
+    copied: '已复制',
+    copyFailed: '复制失败',
     close: '关闭',
     chat: '对话',
     install: '安装',

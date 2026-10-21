@@ -75,6 +75,9 @@ export interface UiStrings {
     embedDesc: string;
     embedCode: string;
     copyCode: string;
+    /** Transient copy-button feedback, after a successful / failed clipboard write. */
+    copied: string;
+    copyFailed: string;
     close: string;
     chat: string;
     install: string;
@@ -173,6 +176,8 @@ const en: UiStrings = {
     embedDesc: 'Copy the code below to embed this page in a learning management system or other website. The embedded version shows only the page content — it hides the site header, navigation, and footer.',
     embedCode: 'Embed code',
     copyCode: 'Copy code',
+    copied: 'Copied!',
+    copyFailed: 'Copy failed',
     close: 'Close',
     chat: 'Chat',
     install: 'Install',

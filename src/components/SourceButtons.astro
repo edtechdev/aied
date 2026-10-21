@@ -23,23 +23,23 @@ const edit = `${base}/edit/${branch}/${filePath}`;
 <div class="source-buttons" style="display:flex;gap:0.5rem;flex-wrap:wrap;margin-top:2.5rem;padding-top:1rem;border-top:1px solid var(--card-border-color);">
   <a class="source-pill" href={blob} target="_blank" rel="noopener noreferrer">
     <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="16 18 22 12 16 6"/><polyline points="8 6 2 12 8 18"/></svg>
-    Source
+    {chrome.source}
   </a>
   <a class="source-pill" href={commits} target="_blank" rel="noopener noreferrer">
     <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M11.998 2.5A9.503 9.503 0 0 0 3.378 8H5.75a.75.75 0 0 1 0 1.5H2a1 1 0 0 1-1-1V4.75a.75.75 0 0 1 1.5 0v1.697A10.997 10.997 0 0 1 11.998 1C18.074 1 23 5.925 23 12s-4.926 11-11.002 11C6.014 23 1.146 18.223 1 12.275a.75.75 0 0 1 1.5-.037 9.5 9.5 0 0 0 9.498 9.262c5.248 0 9.502-4.253 9.502-9.5s-4.254-9.5-9.502-9.5Z"/><path d="M12.5 7.25a.75.75 0 0 0-1.5 0v5.5c0 .27.144.518.378.651l3.5 2a.75.75 0 0 0 .744-1.302L12.5 12.315V7.25Z"/></svg>
-    History
+    {chrome.history}
   </a>
   <a class="source-pill" href={edit} target="_blank" rel="noopener noreferrer">
     <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M17 3a2.828 2.828 0 1 1 4 4L7.5 20.5 2 22l1.5-5.5L17 3z"/></svg>
-    Edit
+    {chrome.edit}
   </a>
-  <a class="source-pill" href={localizeHref('/aied/ai', locale)} title="Chat with AI">
+  <a class="source-pill" href={localizeHref('/aied/ai', locale)} title={chrome.chatWithAi}>
     <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3l1.9 5.1L19 10l-5.1 1.9L12 17l-1.9-5.1L5 10l5.1-1.9z"/><path d="M19 15l.9 2.4L22 18l-2.1.6L19 21l-.9-2.4L16 18l2.1-.6z"/></svg>
-    Chat
+    {chrome.chat}
   </a>
   <button type="button" class="source-pill embed-btn" data-embed-open aria-haspopup="dialog">
     <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 12v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-8"/><polyline points="16 6 12 2 8 6"/><line x1="12" x2="12" y1="2" y2="15"/></svg>
-    Embed
+    {chrome.embed}
   </button>
 </div>
 
@@ -49,7 +49,7 @@ const edit = `${base}/edit/${branch}/${filePath}`;
     <p class="embed-desc">{chrome.embedDesc}</p>
     <textarea readonly class="embed-code" data-embed-code rows="4" spellcheck="false" aria-label={chrome.embedCode}></textarea>
     <div class="embed-actions">
-      <button type="button" class="source-pill embed-copy" data-embed-copy>{chrome.copyCode}</button>
+      <button type="button" class="source-pill embed-copy" data-embed-copy data-copied={chrome.copied} data-copy-failed={chrome.copyFailed}>{chrome.copyCode}</button>
       <button type="button" class="source-pill embed-close" data-embed-close>{chrome.close}</button>
     </div>
   </div>
@@ -103,7 +103,7 @@ const edit = `${base}/edit/${branch}/${filePath}`;
         try { ok = document.execCommand('copy'); } catch (e2) { ok = false; }
       }
       const orig = copyBtn.textContent;
-      copyBtn.textContent = ok ? 'Copied!' : 'Copy failed';
+      copyBtn.textContent = ok ? copyBtn.dataset.copied : copyBtn.dataset.copyFailed;
       setTimeout(() => { copyBtn.textContent = orig; }, 1600);
     });
   })();
