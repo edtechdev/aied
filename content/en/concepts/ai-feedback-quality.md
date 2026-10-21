@@ -1,7 +1,7 @@
 ---
 title: AI Feedback Quality
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-18T10:07:01-04:00"
+updated: "2026-10-21T10:45:00-04:00"
 connected_faqs: [ai-save-instructor-time, ai-feedback-at-scale, checking-whether-educational-ai-works]
 type: concept
 foundations: [ai-literacy]
@@ -101,6 +101,8 @@ AI feedback quality spans multiple dimensions captured in the knowledge base:
 - **Verifier-scored release criteria.** LearnLens scores generated feedback on scientific accuracy, clarity, and specificity and iterates a verification-and-revision loop until every criterion clears a threshold, using a *separate* foundation model from the generator to avoid model-family bias; its scoring ran 8–13% below every baseline on MSE (3.190) ([[zhao-learnlens-feedback-educators-loop|Zhao et al. (2025)]]).
 - **Comprehensibility in the learner's own language.** Feedback only closes a gap if the learner can follow the explanation, not merely the flag. The Kwara-STEM AI Tutor, a localized model fine-tuned on national technical-education curricula, nudged students rather than handing over answers and shipped a "Clarify" feature that translated complex technical terms into Yoruba or Nupe, so real-time correction landed in the learner's own language context ([[real-time-ai-feedback-technical-skills-2026|Muritala, Ahmed & Olumorin, 2026]]). Own-language explanation is a condition of synchronous feedback's usefulness, not a decorative add-on.
 - **Coverage is not alignment.** Six LLMs under three prompting strategies each produced most of the seven feedback focus types, yet their distribution over those types diverged from teachers' (best Jensen-Shannon divergence 0.134, worst 0.270), so breadth of coverage and distributional fit are separate quality signals ([[llm-feedback-focus-adaptivity-student-writing-2026|Almousa et al., 2026]]).
+- **Field-level coverage is uneven.** A synthesis of 68 studies of AI-generated feedback finds the evidence clusters on whether feedback is accurate and grounded (47 studies) and whether it helps the learner (58), while rubric and task alignment — whether the feedback responds to the task's own requirements — appears in only 19 ([[evidence-grounded-framework-ai-generated-educational-feedback-2026|Yang (2026)]]).
+- **Criterion-level ratings diverge within one message set.** Six reviewers scoring 157 messages rated practice exercises strongest (95.5%) while diagnostic specificity (41.1%) and clarity and tone (33.4%) lagged, and instructors rated actionability more generously than other reviewers (84.5% vs 59.9%) ([[llm-feedback-handwritten-mathematics-exam-performance-2026|Vanhoyweghen et al. (2026)]]).
 
 ### Connection to broader concepts
 
@@ -156,8 +158,8 @@ AI feedback quality connects fundamentally to [[formative-assessment]] and [[fee
 - [[real-time-ai-feedback-technical-skills-2026]] — Own-language "Clarify" explanation and scaffolded nudges in a real-time tutor: what makes synchronous feedback usable (Muritala, Ahmed & Olumorin 2026)
 - [[teacher-vs-ai-peer-feedback-l2-writing-2026]] — Teacher vs AI-assisted peer feedback: authoritative error correction decays, steady focus holds, and what students do with each (Tang, Li & Luo 2026)
 - [[nazaretsky-feedback-source-bias-2025]] — Blind-then-disclosed source labels on identical feedback: students rate AI-labeled feedback lower and read low-rated human feedback as AI
-
 - [[intelligent-tutoring-mathematics-education-review-2026]] — Narrative review of AI tutoring in mathematics: real-time feedback gains and implementation conditions
 - [[agent-type-feedback-style-self-directed-learning-2026]] — Socratic versus directive feedback styles: comprehension monitoring against prioritization, and the cognitive-load cost
 - [[when-students-prefer-ai-scoring-feedback-2026]] — Student-perceived AI feedback quality: understandable yet repetitive, trusted for mechanics not interpretation
-- [[lin-rag-lesson-generation-tutor-training-2026]] — RAG-generated tutor-training lessons matched human-created ones when feedback was present; the human advantage appeared only without feedback
+- [[lin-rag-lesson-generation-tutor-training-2026]] — RAG-generated tutor-training lessons matched human-created ones when feedback was present; the human advantage appeared only without feedback- [[evidence-grounded-framework-ai-generated-educational-feedback-2026]] — Three evaluation dimensions across 68 studies, with rubric alignment the thin one (Yang 2026)
+- [[llm-feedback-handwritten-mathematics-exam-performance-2026]] — Criterion-level and rater-level divergence in 157 rated feedback messages (Vanhoyweghen et al. 2026)
