@@ -61,9 +61,9 @@
 
 人工智能如何支持教与学，是这一领域的核心。关键概念包括：
 
-- **核心教学法：**[[pedagogy|教学法与教学策略]]（本知识库教学方法覆盖的总括页面），以及[[active-learning|主动学习]]、[[collaborative-learning|协作学习]]、[[group-work|小组合作]]、[[project-based-learning|项目式学习]]、[[problem-based-learning|问题式学习]]、[[productive-failure|有益失败]]、[[inquiry-based-learning|探究式学习]]、[[experiential-learning|体验式学习]]、[[game-based-learning|游戏化学习]]、[[learning-by-teaching|以教促学]]、[[scaffolding|脚手架]]、[[socratic-method|苏格拉底式教学法]]、[[critical-pedagogy|批判性教学法]]、[[pedagogical-partnerships|教学伙伴关系]]、[[storytelling-in-education|叙事教学]]、[[learning-design|学习设计]]、[[online-teaching-and-learning|在线教学与学习]]与[[video-education|视频在教育中的应用]]。
+- **核心教学法：**[[pedagogy|教学法与教学策略]]（本知识库教学方法覆盖的总括页面），以及[[active-learning|主动学习]]、[[collaborative-learning|协作学习]]、[[group-work|小组合作]]、[[project-based-learning|项目式学习]]、[[problem-based-learning|问题式学习]]、[[productive-failure|有益失败]]、[[inquiry-based-learning|探究式学习]]、[[experiential-learning|体验式学习]]、[[game-based-learning|游戏化学习]]、[[learning-by-teaching|以教促学]]、[[scaffolding|脚手架]]、[[socratic-method|苏格拉底式教学法]]、[[critical-pedagogy|批判性教学法]]、[[pedagogical-partnerships|教学伙伴关系]]、[[storytelling-in-education|叙事教学]]、[[learning-design|学习设计]]、[[online-teaching-and-learning|在线教学与学习]]与[[video-education|视频在教育中的应用]]，以及[[pedagogical-patterns|教学法模式]]（可复用的教学序列模式）。
 - **学习理论与过程：**[[learning-theories|学习理论]]总括页面（[[behaviorism|行为主义]]、[[cognitive-psychology|认知主义]]、[[constructivist|建构主义]]、[[sociocultural-learning|社会文化取向]]、[[distributed-cognition|分布式认知]]、[[situated-learning|情境学习]]、[[embodied-learning|具身学习]]、[[community-of-inquiry|探究共同体]]）与面向学习者的过程并存，例如[[self-regulated-learning|自我调节学习]]、[[self-determination-theory|自我决定理论]]、[[motivation|动机]]、[[self-efficacy|自我效能]]、[[self-directed-learning|自我导向学习]]、[[metacognition|元认知]]、[[desirable-difficulties|合意困难]]、[[transfer-of-learning|学习迁移]]、[[prior-knowledge|先前知识]]、[[icap-framework|ICAP 认知参与]]、[[refutation-text|反驳性文本]]、[[retrieval-spacing-interleaving|提取、间隔与交错练习]]以及[[activity-theory-aied|活动理论]]。
-- **学习者参与和体验：**[[student-engagement|学生参与]]、[[help-seeking|求助行为]]、[[social-emotional-learning|社会情感学习]]、[[well-being|福祉]]、[[creativity|创造力]]、[[problem-solving|问题解决]]、[[mastery-learning|掌握学习]]与[[student-ai-interaction|学生与人工智能的互动]]，共同塑造了学习者实际接触人工智能并受其影响的方式，而[[social-norms-ai-use|围绕人工智能使用逐渐形成的社会规范]]则决定人们能在多大程度上公开讨论这些。
+- **学习者参与和体验：**[[student-engagement|学生参与]]、[[help-seeking|求助行为]]、[[social-emotional-learning|社会情感学习]]、[[well-being|福祉]]、[[creativity|创造力]]、[[problem-solving|问题解决]]、[[mastery-learning|掌握学习]]与[[student-ai-interaction|学生与人工智能的互动]]，以及[[student-support-and-success|学生支持与成功]]（归属感、留存、保留与成功率），共同塑造了学习者实际接触人工智能并受其影响的方式，而[[social-norms-ai-use|围绕人工智能使用逐渐形成的社会规范]]则决定人们能在多大程度上公开讨论这些。
 
 ## 技术与方法
 
@@ -91,7 +91,7 @@
 
 ## 研究方法与评价
 
-我们如何知道人工智能是否有效，是自成一体的脉络，本知识库也把它当作一条脉络来对待：
+我们如何知道人工智能是否有效，是自成一体的脉络，本知识库也把它当作一条脉络来对待。该领域自身的研究工作如今也成为研究对象：[[ai-assisted-educational-research|AI 辅助教育研究]]涵盖把 AI 用作文献检索、筛选与综述工具的研究，以及 AI 在生成研究产出中的角色。
 
 - **研究方法：**以[[research-methods-aied|AIED 研究方法]]为总括页面，包括[[qualitative-research|质性]]、[[quantitative-research|量化]]、[[mixed-methods-research|混合方法]]、[[design-based-research|基于设计的研究]]与[[usability-research|可用性]]取向，以及[[rct|随机对照试验]]、[[meta-analysis-systematic-review|元分析与系统综述]]与[[network-analysis|网络分析]]。
 - **人工智能系统的评价：**[[ai-ed-evaluation|人工智能教育评价]]与用于判断系统能力的[[benchmark|基准测试]]，以[[learning-gains|学习增益]]为真正重要的结果，同时以[[limitations-in-aied-research|这一证据普遍存在的局限]]和[[interpreting-and-applying-aied-research|如何解读单项研究]]作为审慎的平衡力量。
@@ -168,16 +168,11 @@
 
 关于教育中的人工智能的领域级综述，即那些综述整个领域或整个教育层次、而非单一主题的研究：
 
-- [[typology-generative-ai-tools-education-2026]]：Typology of Generative AI Tools for Education
-- [[raza-farooq-aied-review-2020-2025]]：Review of Artificial Intelligence in Education from 2020 to 2025
 - [[rismanchian-ai-education-four-decades-aixed-2026]]：The evolution of AI-and-education research across four decades (AIxEd framework)
 - [[mishra-control-vs-agency-history-2025]]：Control vs. agency: a history of AI in education
-- [[liang-genai-systematic-review-human-ai-2026]]：Generative AI in education: systematic review of 56 empirical studies
 - [[genai-higher-education-systematic-review-2026]]：Generative AI in higher education: systematic review of 125 studies
 - [[stanford-evidence-base-ai-k12-2026]]：The evidence base on AI in K-12: a review of 818 papers
-- [[caruana-pre-university-ai-education-slr-2026]]：Pre-university AI education: systematic literature review of 42 studies
 - [[genai-educational-outcomes-meta-analysis]]：Generative AI and educational outcomes: comprehensive meta-analysis
-- [[caeai-ai-companions-learning-over-performance-2026]]：a research agenda for AI companions built around learning rather than performance
 
 ---
 
@@ -275,6 +270,12 @@ AI 素养还需要面向最小学习者的发展适切形态。[[ai-play-framewo
 
 **AI 互动素养：互动维度。** [[brunnstrom-ai-interaction-literacy-srl-2026|Brunnström 与 Palmqvist（2026）]] 提出一种更窄的、互动性的能力 —— *引导、评估并从* 与生成式 AI 的迭代互动中 *学习* 的能力 —— 作为更宽框架中应用性、评估性与整合性维度的具体落地，例如 [[ai-literacy-heptagon-2026|AI 素养七边形]]。他们的反思性示范展示了它在实践中由什么构成：识别一个流畅答案 pitched above 自己的图式，请求简化，收窄范围，并把系统引向聚焦的练习。由此有两个设计后果 —— 该技能分布不均，因此无指导的使用可能让已经自信的学生占优并扩大差距（[[equity-in-ai-education|AI 教育中的公平]]），且它必须被显式教授而非假定，由教师覆盖如何构造 productive 提示以及何时停止使用工具（[[self-regulated-learning|自我调节学习]]）。
 
+### STEM 教育中的 AI 素养
+
+AI 素养最发达的学科证据基础来自 STEM 教育，[[hallstrom-ai-literacy-stem-education-frontiers-2026|Hallström、Chiu、Ding、Koretsky 与 Li（2026）]]综合了其被引最高的十项研究（2022–2026），既显示了基线，也显示了它的限度。在整个语料中，AI 素养经由六个相互重叠的构念来定义——知识/技能/态度（Su & Yang 2024）、概念性—程序性—情境性知识（Stolpe & Hallström 2024）、知—理解/用—应用/评—创造/伦理（Ng 等 2022），以及 Long 与 Magerko 的用—沟通—评价框定（Hornberger 等 2023）——因此该领域的"概念含混"是一个测量问题：两项研究可以都在评估"AI 素养"而不评估同一个构念。十项中只有两项提供了完整的框架。该综述最锐利的发现是一项不对称——语料几乎完全测量*学生的*素养，而几乎没有任何研究发展*教师的*，这一缺口使面向教师的 AI 素养干预建立在假设而非证据之上，作者把这一点与"教师自己必须是 AI 素养的才能运行此类干预"这一实践要求相连。（[[hallstrom-ai-literacy-stem-education-frontiers-2026]]）
+
+该语料中的聊天机器人证据反对基于流畅性的训练。Ding 等（2023）发现 ChatGPT 在大学物理中的辅导提高了信心与知识，却强化了 AI"超人类且不会出错"的误解，并得出结论：AI 素养教育"首要在于提高学生评估信息的批判性思维技能"。Xu 等（2026）发现 ChatGPT 支持的 STEM 编程提高了信心与知识，但计算思维与独立思考没有变化——流畅性上的增益与思维上的零增益并存。两项发现都镜像了本页别处的 [[trust-calibration|信任校准]] 与 [[cognitive-offloading|过度依赖]]关切：一个从不反驳学生的导师，可以造出自信却无法评价的学习者。态度，而非准备度或自我效能感，被证明是 STEM 本科生实际 AI 工具使用的最强决定因素（Falebita & Kok 2025），且该综述指出 STEM 学科覆盖偏向生物与物理，技术作为一门学科几乎缺席。就 [[discipline-specific-aied|学科特定]]设计而言，该综述的实践告诫是：全面的能力框架（UNESCO、EU/OECD）"往往缺乏与经验研究的联系或充分的理论基础"，且很少可在课堂应用。
+
 ### 批判性 AI 素养：从技能到权力与抵抗
 
 本知识库中一个独立 strand 把 AI 素养不仅当作技能或批判性评估，而当作一种拷问权力、权威以及“谁的知识算数”的 *批判性与政治性实践*。这把 AI 素养联结到 [[critical-pedagogy|批判教育学]] 与 [[equity-in-ai-education|AI 教育中的公平]]：
@@ -325,6 +326,8 @@ AI 素养的一个核心开放问题是 *哪些* 技能重要、对谁重要。�
 一份 32 题六维度工具在四维度模型之外增补两个维度 —— 负责任使用与自我发展 —— 并在青少年（12–17）、青年（18–40）与中年（41–60）之间保持标量不变性，尽管作者告诫 ΔCFI 已接近常规临界值（[[sfailq-six-facet-ai-literacy-questionnaire-2026|Liu 等人（2026）]]）。
 
 [[zhi-modeling-measuring-graduate-genai-literacy-2026|Zhi、Yang 与 Huang（2026）]] 在 Marzano 分类法之上建立了一个研究生专用模型：对 14 位教授的扎根理论访谈把 329 个原始标签浓缩为 96 个概念、15 个类别和五个维度（认知基础、操作技能、高阶思维、元认知反思、伦理责任），随后操作化为一份 15 题李克特量表，其五因子在探索性因子分析中浮现（累积方差 83.14%），并在第二个子样本的验证性因子分析中成立（CFI = 0.934，RMSEA = 0.083），308 份有效问卷的可靠性从 0.796 到 0.842。
+
+[[bozkurt-3wai-literacy-scale-2026|Critical 3wAI Literacy Scale]]（Bozkurt、Ertan 与 Cömert，2026）为成人学习者验证了同样的三部分结构，作为一种自陈工具（n = 546 与 n = 647；χ²/df = 4.93，CFI = 0.931，α = 0.913）。其 Know-How 与 Know-Why 因子耦合得最紧（HTMT = 0.544），而理论知识本身并未转化为实践效能。作为自陈测量，它分担了上文所记录的脱节问题，因此它是一个已验证的诊断工具，而非表现测量——作者呼吁跨年龄组与文化语境重新验证。
 
 一个相关的问题是这些工具 *究竟* 能测量什么。[[burriss-multimodal-composition-critical-ai-literacy-2026|Burriss 等人（2026）]] 指出，既有 AI 素养量表与能力框架假定可 individually 测量的表现，因而在结构上排除了协作性、创造性的表达 —— 他们单元的证据是 [[multimodal|多模态]] 影像制品、反思与公民话语，而非 [[summative-assessment|终结性]] 分数，作者论证这类证据可以 *补充* 而非取代常规测量。拓宽构念因此可能需要拓宽可采纳的证据，而不只是在既有量表上增加模态丰富的题目。
 
@@ -422,6 +425,8 @@ AI 素养对过度依赖是 **双刃的**：[[student-dependency-on-ai-literacy-
 - [[ai-literacy-determinants-university-students-2026]] — 外部资源、数字能力与心理画像作为共同决定因素，伴随技术焦虑的符号反转
 - [[sfailq-six-facet-ai-literacy-questionnaire-2026]] — 增补负责任使用与自我发展维度的六维度工具，跨青少年、青年与中年标量不变
 - [[faculty-ai-well-being-social-supports-2026]] — 教师 AI 幸福感、社会支持与 AI 素养的结构方程模型
+- [[bozkurt-3wai-literacy-scale-2026]] — 经验证的 17 项自评量表，含三个不同的 AI 素养因子（Know What/How/Why）；Know-How 与 Know-Why 关联最强（HTMT = 0.544）
+- [[hallstrom-ai-literacy-stem-education-frontiers-2026]] — STEM 教育中十篇被引最多的 AI 素养研究综合（Hallström 等，2026）
 
 ---
 
@@ -989,7 +994,7 @@ AI 在教育中最重大的风险：
 
 ## 为何框架重要
 
-框架之所以重要，是因为**政策与规则本身并不能可靠地改变行为**。对 [[regulation|监管]]认知的 [[research-methods-aied|调查]][[research-methods-aied|研究]]发现，学生对机构 GenAI 规则的认识与其实际行为仅有弱至中度的关联——大多数学生使用 [[generative-ai|生成式 AI]]工具，超过半数不确定其使用是否符合机构规定，且他们依赖私下获取的工具而非机构提供的工具。([[student-regulatory-awareness-genai]]) 知道规则是必要的，但不充分；信息必须*说服*，而不仅是告知。
+框架之所以重要，是因为**政策与规则本身并不能可靠地改变行为**。对 [[regulation|监管]]认知的[[research-methods-aied|研究]]发现，学生对机构 GenAI 规则的认识与其实际行为仅有弱至中度的关联——大多数学生使用 [[generative-ai|生成式 AI]]工具，超过半数不确定其使用是否符合机构规定，且他们依赖私下获取的工具而非机构提供的工具。([[student-regulatory-awareness-genai]]) 知道规则是必要的，但不充分；信息必须*说服*，而不仅是告知。
 
 框架也塑造学生把 AI 体验为**要回避或规避的威胁**还是**可刻意使用的资源**。当机构以恐惧与谴责回应 AI——一条研究工作线称之为反复出现的"道德恐慌"——他们把学生推入隐藏或合理化其使用，而非学会用好它。([[moral-panic-genai-classroom]]) 把焦虑与谴责重新框定为结构化的机会，改变了学生与 AI 之间 [[student-engagement|参与]]的整个动态。
 
@@ -1208,6 +1213,8 @@ AI 在教育中最重大的风险：
 - **文件实际上说了什么：诚信主导机构 AI 政策。** [[institutional-ai-policy-health-informatics-2026|Eldredge et al.（2026）]]分析了美国全部 48 个 CAHIIM 认证的健康信息学与健康信息管理硕士项目的 AI 政策与指导文件：其中 40 个（83%）至少有一份合格文件，这些文件压倒性地把 AI 框定为防止课程中学生滥用的问题，以学术诚信与可接受使用为中心。学术诚信是出现频率最高的关键词（n = 139，高于引用 59、考核 50、抄袭 38），而隐私、知识产权与监管主题虽存在但较少见（HIPAA n = 5，FERPA n = 11，IRB 指导 n = 8）。对同一语料的主题建模返回四个主题，第一个即学术诚信与恰当 AI 使用，其余为教学中的生成式 AI、研究中的 AI 与数据工具使用，以及学生与对话式 AI 系统的互动。本页的证据价值在于量化：以诚信为中心的框定不只是机构 AI 政策的口头默认，它在经验上是其主导内容。作者最尖锐的观察在于这种注意力止步何处：相对较少的指导覆盖了应用学习、研究与模拟环境中的 AI 使用，而这些正是课程与数据治理关切的交汇处，于是文件治理着课程作业，而学位正在为学生准备的场景却基本未被触及。
 - **诚信框定正在让位于基于任务的规制：** [[chirikov-regulate-ai-syllabi-2026|Chirikov（2026）]]对 31,000+ 份课程大纲的纵向研究显示，教师的 AI 政策正在脱离纯粹的诚信框架：教学大纲中提及学术诚信的比例从 63%（2023 春）降至 49%（2025 秋），而提及 AI 对学习影响的比例从 1% 升至 29%。教师越来越多地**按任务类型**规制 AI——在起草/推理（AI 会取代学习之处）限制它，在编辑/校对与学习支持上允许它——而非施加一揽子的诚信禁令。这把诚信政策重新框定为一项任务层面的设计决策，而非一条二元规则。
 
+- **把抗机器性作为预防而非检测。** 扰动文档本身——字符、词与行的间距、透明度抖动、条纹叠加与图像噪声，加上基于决策的对抗攻击——从源头上提高了低努力 LLM 滥用所需的成本，同时测量的是同样的知识（[[airri-machine-resistant-reading-interface-2026|Salaun 等（2026）]]）。人工转录仍然可行，而对抗攻击只保护选定的行，使整篇文档的字符错误率保持在 8.44% 以下。
+
 ### 不当行为程序及其证据基础的崩塌
 
 建立在诚信政策之上的执行机器本身就是一个设计决策，而生成式 AI 已经拆掉了它的证据地基。[[teichmann-detecting-undetectable-misconduct-2026|Teichmann（2026）]]论证，大学从抄袭处理中继承的不当行为程序假定被禁止的使用可以被检测和证明——而技术消解了这一前提。与文本匹配软件不同，后者可以指出一份被抄袭的来源，AI 文本分类器识别不出来源（来源并不存在）；它输出的是关于风格的或然性判断，在改写下退化，系统性地误标非英语母语写作，且无法被解释或交叉质证，而熟练或轻度编辑过的使用则完全不留痕迹。仍然坚持这一程序，等于颠倒了举证责任（学生被要求证明否定），拉紧了程序正义的每一个要素，并把错误指控的伤害最重地压在已经处于劣势的人身上。提出的补救是双重的：确立一条证据标准，即检测器分数 alone 永远不构成认定依据，并配以渐进式的、教育优先的回应；以及把机构精力转向以效度为中心和 [[authentic-assessment|真实性考核]]的设计——应对不可检测的 AI 的答案是更好的考核，而非更好的监控。极限情形则完全没有机器：[[ai-written-admissions-essays-penalized-2026|Isley、Gaebler 与 Goel（2026）]]记录了一个美国公共政策硕士项目，它在签署声明中禁止生成式 AI 辅助，却不筛选任何提交物，其中 56.1% 的 2025 年申请人至少提交了一篇被商业检测器归类为主要由 AI 撰写的文书，且每篇被标记的文书与 1.5 个百分点的更低录取概率相关（p < .01），在控制文书质量后升至 2.6 个百分点（p < .001）。在规则与结果之间没有检测、裁定或执行环节，处罚完全通过录取审阅人的不成文判断交付——禁令加上无辅助的审阅人判断，复制了公平程序本应防止的那种自由裁量、不作解释的处罚。
@@ -1381,6 +1388,7 @@ AI 在教育中最重大的风险：
 - [[akcapinar-ai-cheating-risk-lms-prediction-2026]] — Akçapınar（2026）——从 LMS 痕迹早期预测 AI 辅助作弊风险，框定为学业指导而非不当行为证据
 - [[reddit-genai-education-discourse-analysis-2026]] — 三年半的教育 Reddit：执法主导，诚信争议是师生互动的主要场所（Yüce et al. 2026）
 - [[boyd-swan-employer-responses-genai-2026]] — 调查实验：学生 AI 使用的替代框架惩罚了高 GPA 申请人的录用与薪资；现场测试是两组唯一共同选择的补救办法
+- [[airri-machine-resistant-reading-interface-2026]] — AIRRI：面向人类可读、抗机器的阅读界面
 
 ---
 
@@ -1516,6 +1524,11 @@ AI 在教育中最重大的风险：
 
 - 教师的角色延伸到共同设计人工智能学习资源：面向无人机 STEM 教学、由教师与人工智能共同设计的[[simulation|模拟]]，使生成式人工智能的输出保持教学有效与情境相关；而教师是"教师人工智能素养量表"（Teachers' AI Literacy Scale）的目标受益者。有效的生成式人工智能整合日益依赖教师参与设计。
 
+### AI 反思系统应适配教师经验
+
+- **面向教师的 AI 反思分析应当按专长适配，而非一刀切。** 一项对 100 名美国 K–12 教师的调查（以九年为中位分割；二项检验；~83% 的检验功效可检出 15% 的选择差异）发现了系统性的偏好分裂。经验较少的教师把缺乏反思时间列为首要障碍的比例是经验丰富者的 3 倍（37% 对 12%，p < .001），并想要关于学生脱离参与（48% 对 33%，p = .028）与情绪（31% 对 18%，p = .036）的分析。
+- **由这一分裂得出的设计规则是经验适配的推荐模式。** 经验丰富的教师想要关于帮助学生后学习改进的分析（40% 对 26%，p = .019）以及关于他们教学方法（42% 对 26%，p = .012）的分析；他们的首要障碍是跟踪表现（28% 对 15%，p = .009）。设计规则：新手模式 = 结构化提示与投入分析；专家模式 = 灵活的纵向分析——这是一个反对统一仪表盘的直接论据。（[[falhs-teacher-expertise-reflection-2025]]）
+
 ## 关联概念
 
 - [[pedagogical-partnerships]] — 教学伙伴关系
@@ -1587,6 +1600,8 @@ AI 在教育中最重大的风险：
 - [[kuhail-great-debaters-ai-facilitators-2026]] — 人类对人工智能辩论主持人：评分相当，复用路径不同
 - [[yalcin-genai-programming-education-systematic-review-2026]] — 编程教育中的生成式人工智能：一篇教师角色最少被研究的系统综述
 - [[heutagogical-teaching-ai-enhanced-education-2026]] — 从信息提供者到学习设计者：人工智能增强教育中的自导式（heutagogical）教学实践
+- [[falhs-teacher-expertise-reflection-2025]] — 专长水平如何塑造偏好与反思需求：迈向赋能教师的 AI 反思系统（Falhs 等 2025）
+- [[etq-ai-conversational-teacher-training-2026]] — 用于教学误解的会话式 AI 诊断：基于证据的对话（Miranda 与 Calvani 2026）
 
 ---
 
@@ -1670,6 +1685,8 @@ AI 在教育中最重大的风险：
 - **在"感觉自己在参与"之外，出席率预测增益。** 在同一个六个月项目中，出席率预测了素养增益（β = .407, p = .001），而自评的参与感则不然（β = .049, p = .692），学科、教学经验与职称解释力甚微；作者把出席读作行为投入，把感知参与读作表层投入（[[intelligent-tpack-pd-intervention-hongkong-2025|Tan、Cheng 与 Ling，2025]]）。
 
 - **价值滞后于技能，在领域专属项目中亦然。** 在一项为期一年、覆盖30名英语教师的香港项目中，多模态评估策略知识从3.13升至4.15（满分5分，partial η² = 0.571），支持学生的能力从3.05升至3.98（0.482），两者均显著，而在Bonferroni校正的 α = .006 下，每个价值子域都保持统计上的平稳。教师把增益归因于校内共同备课与跨校集群会议，而非工作坊本身（[[multimodal-assessment-literacy-l2-teachers-genai-2026|Jiang等人（2026）]]）。
+
+- **微学习可以发展高校教师的AI胜任力。** [[microlearning-ai-modules-vocational-teacher-education-2026|Cechovsky（2026）]]把两个职业教育模块经过两轮在线小组讨论精炼为五条设计原则——清晰的结构与定位、指导与导航支持、分割与模块化、多模态呈现以及学习者激活——并发现平台导航与定位模块是主要的实际障碍。
 
 ## 教师AI素养与转型中的教师角色
 
@@ -1761,6 +1778,7 @@ AI 在教育中最重大的风险：
 - [[capability-decision-model-teacher-readiness-2026]] — 以能力为先、排序的教师准备度模型，附表现本位的能力指标
 - [[k12-teachers-genai-beliefs-five-countries-2026]] — 1,405名K-12教师的跨国调查：准备度预测积极信念，但不预测担忧
 - [[teachers-ai-belief-profiles-talis-2024-2026]] — 四个TALIS 2024教师信念画像把专业学习与画像特定的AI使用障碍相连
+- [[microlearning-ai-modules-vocational-teacher-education-2026]] — 为职业教育教师教育中的高校教师设计AI微学习模块：一项设计本位研究
 
 ---
 
@@ -2784,7 +2802,7 @@ AI 在持续变化，从任何给定模型或系统得出的结论都可能**很
 - **当协作外包过多时，它会替代学习。** 失效模式是 [[cognitive-offloading|过度依赖]]：当人工智能产出答案时，学习者的角色坍缩为被动接受，而即时任务表现掩盖了持久学习的缺失。[[genai-performance-vs-learning|表现与学习]] 研究和“替代到支架”的危害循环（[[substitution-to-scaffolding-ai-harm-cycle-2026]]）系统性地记录了这一点。
 - **更高的分数本身并不是协作教会了什么的证据。** 本页的其他证据对受协助的表现持审慎态度，而一项对支持类型的随机检验说明了原因。在 [[iqbal-human-genai-support-essay-revision-2026|Iqbal et al. (2026)]] 的实验室研究中，87 名 EFL 学生先无协助地写一篇作文，然后用 ChatGPT 4.0（n = 29）、由人类写作教师（n = 28）、或无支持（n = 30）修改它。学生使用四种源自轨迹的修改策略中的哪一种，与其所获的支持强烈相关（Cramér's V = 0.668），而与其先前的写作策略只有中度相关（Cramér's V = 0.333）；[[motivation]]、写作技能与元认知判断准确度都没有总体关联，元认知关联只在无支持条件下浮现（p = 0.0460）。关键的是，没有任何修改策略预测分数变化（p = 0.273），尽管支持类型预测了：生成式人工智能组比人类专家组与对照组的改善显著更大（H(2) = 16.591，p = 0.00025，η² = 0.174），而在同一个*逐渐减少的 [[help-seeking]]* 策略内部，生成式人工智能学生平均约提升 4 分，人类专家学生则失去 0.5 分。作者把这一模式解读为外部支持绕过了学习者自身的 [[metacognition|元认知判断]]，并警告这些增益可能是任务特定的优化，而非持久的能力。这并不推翻*谁生成与决定* 原则（该研究变化的是谁提供支持，而非谁生成思考），但它磨砺了教师应当施加的检验：在协助下获得的增益，必须能在一项无协助任务上存活，才算作学习；而把一个人类专家请进房间，并不自动就是更安全的安排。
 - **加入同伴也不自动就是更安全的安排。** [[bjet-many-hands-make-light-work-2026|Chu, Dai and Zhai (2026)]] 让 87 名本科生单独工作，或与一个生成式人工智能多智能体系统结对工作八周。结对组在复杂设计项目上得分最高（M = 89.64，相比之下无系统结对者为 85.85，单独使用系统者为 86.45，p = 0.039），然而批判性思维意识的提升在单独工作者中最大（M = 0.41），在结对组中略有下降（M = −0.04，p = 0.039）。
-- **设计原则 —— 保全学习者的生产性工作。** 纵观研究，协作是有益还是有害的最锐利预测因子是*谁生成与决定*。让人保持认知产出的安排（引导式 [[prompt-engineering|提示]]、[[scaffolding|支架]]、“先思考，再咨询人工智能”、核验与评估步骤）支撑学习；把整个任务交给模型的安排则不然。互补的一招是改变模型被赋予*成为*什么。在 [[wang-genai-novice-learner-learning-by-teaching-2026|Wang et al. (2026)]] 的准实验中，68 名 [[teacher-education|职前教师]] 要么把翻转课堂概念讲给一个基于 ERNIE 3.5 构建的生成式人工智能*新手学习者*（一个被框定为好奇与欣赏、会请求解释、例子、核验推理与对立视角、并按 Bloom 分类法逐级推进的系统），要么向一个基于同一模型构建的生成式人工智能教师提问。教人工智能的学生解释得更好（定义翻转课堂 M = 4.18 对 3.29；其教学活动 M = 4.91 对 3.06，两者 p < 0.001），并生成了更多、更高质量的问题（M = 3.67 对 2.14；M = 5.67 对 3.07，两者 p < 0.001），而客观回忆在统计上无法区分（M = 23.18 对 21.57，p = 0.416），因此优势落在解释与迁移上，而非事实检索上。人工智能教师条件下的学生坦率地谈到了这笔交易：一些人承认它给出了“更准确、更详细的信息”，却报告“用过它之后，我不想独立思考了”。把模型赋予 [[learning-by-teaching|被教的学习者]] 角色，使学生成为想法的唯一来源，并消除了长期以来寻找合适同伴来教这一难题。随之而来有两个设计限度：规划与监控并未改善（M = 4.01 对 3.78，p = 0.062），因此角色反转本身并不是一项 [[metacognition|元认知]] 干预，而且作者把这一无效结果追溯到一项让学生专注于内容准确性的任务设计。在写作课堂中，该原则采取了一种具体、可教的形式。在 [[human-ai-collaboration-academic-writing-2026|Alshehri 等（2026）]] 的沙特 EFL 准实验中，学生运行一套五步例程——框定问题并设计提示、迭代起草、修改、对每一条主张与引用对照学术数据库核验、并调节自身的署名与依赖——每次作业都要求一份 [[academic-integrity|人工智能使用日志]]，记录他们接受了什么、拒绝了什么以及为什么。写作与数字 [[critical-thinking|批判性思维]] 一同上升、几乎同步移动，而学生的反思把核验与 [[hallucination-risk|幻觉]]修补例程明确地联系到批判性思维的增益上：同样是审问输出的习惯塑造了他们的写作决策。作者自己的告诫是该原则必要的补充——该工作流是偶然性的而非自足的，在薄弱的 [[scaffolding]]、低批判性思维或 [[metacognition|元认知]] 准备（学生缺乏察觉坏输出的能力）、写作决策被逐步交出、或制度性的 [[educational-policy-ai|人工智能使用政策]] 不清晰的条件下，都会变得适得其反。
+- **设计原则 —— 保全学习者的生产性工作。** 纵观研究，协作是有益还是有害的最锐利预测因子是*谁生成与决定*。让人保持认知产出的安排（引导式 [[prompt-engineering|提示]]、“先思考，再咨询人工智能”、核验与评估步骤）支撑学习；把整个任务交给模型的安排则不然。互补的一招是改变模型被赋予*成为*什么。在 [[wang-genai-novice-learner-learning-by-teaching-2026|Wang et al. (2026)]] 的准实验中，68 名 [[teacher-education|职前教师]] 要么把翻转课堂概念讲给一个基于 ERNIE 3.5 构建的生成式人工智能*新手学习者*（一个被框定为好奇与欣赏、会请求解释、例子、核验推理与对立视角、并按 Bloom 分类法逐级推进的系统），要么向一个基于同一模型构建的生成式人工智能教师提问。教人工智能的学生解释得更好（定义翻转课堂 M = 4.18 对 3.29；其教学活动 M = 4.91 对 3.06，两者 p < 0.001），并生成了更多、更高质量的问题（M = 3.67 对 2.14；M = 5.67 对 3.07，两者 p < 0.001），而客观回忆在统计上无法区分（M = 23.18 对 21.57，p = 0.416），因此优势落在解释与迁移上，而非事实检索上。人工智能教师条件下的学生坦率地谈到了这笔交易：一些人承认它给出了“更准确、更详细的信息”，却报告“用过它之后，我不想独立思考了”。把模型赋予 [[learning-by-teaching|被教的学习者]] 角色，使学生成为想法的唯一来源，并消除了长期以来寻找合适同伴来教这一难题。随之而来有两个设计限度：规划与监控并未改善（M = 4.01 对 3.78，p = 0.062），因此角色反转本身并不是一项 [[metacognition|元认知]] 干预，而且作者把这一无效结果追溯到一项让学生专注于内容准确性的任务设计。在写作课堂中，该原则采取了一种具体、可教的形式。在 [[human-ai-collaboration-academic-writing-2026|Alshehri 等（2026）]] 的沙特 EFL 准实验中，学生运行一套五步例程——框定问题并设计提示、迭代起草、修改、对每一条主张与引用对照学术数据库核验、并调节自身的署名与依赖——每次作业都要求一份 [[academic-integrity|人工智能使用日志]]，记录他们接受了什么、拒绝了什么以及为什么。写作与数字 [[critical-thinking|批判性思维]] 一同上升、几乎同步移动，而学生的反思把核验与 [[hallucination-risk|幻觉]]修补例程明确地联系到批判性思维的增益上：同样是审问输出的习惯塑造了他们的写作决策。作者自己的告诫是该原则必要的补充——该工作流是偶然性的而非自足的，在薄弱的 [[scaffolding]]、低批判性思维或元认知准备（学生缺乏察觉坏输出的能力）、写作决策被逐步交出、或制度性的 [[educational-policy-ai|人工智能使用政策]] 不清晰的条件下，都会变得适得其反。
 - **有界权威本身就是高利害协作的一种设计模式。** [[reichert-human-centered-llm-chatbot-design-teachers-2026|Reichert et al. (2026)]] 中的教师并没有做开放式助手原型，而是做自由度事先固定的系统：每个设计都把聊天机器人限定在特定的课程内容上，安全性被分层为领域边界（课程特定范围，加上一个要求对话推进前至少有若干个事实或问题的“信息配额”）、带标准化拒绝的内容过滤（“抱歉，这不属于我的知识库”），它同时也会提醒教师，以及一项针对模糊情况的教师覆盖机制 —— 给出的例子是一个关于人类生殖的问题，它在所在单元内是正当的，应当路由给人而不是被自动拒绝。在那些边界*之内*，格式、体裁、节奏与复杂度的 [[personalized-learning|个性化]] 受到欢迎，而监督（完整的对话日志、实时提醒、覆盖）被框定为专业责任，而非对模型的不信任。其意涵是：在高利害情境中，劳动分工应当被规定为有界、受监控且可撤销的，而不是逐轮协商。
 - **信任必须被校准，而非被假定。** 生产性的协作取决于学习者准确校准何时依赖、何时核验人工智能的输出 —— 连接到 [[trust-calibration]] 与 [[human-in-the-loop-ai|人类监督]]，而非盲目接受或一概拒绝。
 
@@ -2820,6 +2838,7 @@ AI 在持续变化，从任何给定模型或系统得出的结论都可能**很
 - **把生成式人工智能当作小组中的智能体与协作空间。** [[xu-genai-collaborative-space-2026|Xu et al. (2026)]] 观察小型 [[higher-ed]] 团队，表明生成式人工智能的角色是被协商且可配置的 —— 从从属助手到有争议的队友 —— 而同步共享使用维持共同基础，异步私下使用则割裂透明性，他们提出一种“生成式人工智能支持的协同工作”视角，把生成式人工智能同时当作智能体与互动的协作空间。
 - **课堂协作的互补两半。** 两项 2026 年研究描绘了课堂中人机协作的互补两半。MeduAI-SP（[[ai-standardized-patient-scaffolding-medical-2026|Yang et al.]]）在 [[medical-education|临床]] 教育中论证“功能互补性”：人工智能智能体处理重复的角色扮演、一致的患者 [[simulation]]、清单监控、[[socratic-method|苏格拉底式]] 提示与初步 [[formative-assessment|形成性]] 反馈，而教师与人类标准化病人提供情境解释、细腻的情感回应、个体化补救、专业性评估与就绪判断 —— 替代受到错误后果、任务不确定性、关系敏感度与可用人工复核的约束，且一个人工智能系统被明确禁止自主判定临床胜任力。在相反方向上，一场 45 名学生、3 人 3 智能体的伦理讨论（[[ethics-training-agents-group-ethics-discussion-2026|Seo et al., 2026]]）记录了一种双刃模式：智能体降低了社会障碍（参与者说得更直接，因为智能体没有情感，也不感到有填补沉默的义务），然而同样的舒适把互动从人身上引开 —— 79.7% 的问题投向智能体，而它们的可得性预测为 60%（p = .017）。值得注意的是，其他人的在场使参与者把人工智能对待得更尊重，暗示人类的共同在场本身就是校准人工智能参与的一种可供性。
 - **纠缠类型在对学生提出的要求上不同，这正是有些类型仍然罕见的原因。** [[sun-student-genai-entanglement-literacy-demands-2026|Sun, Dohn and Rehm (2026)]] 按认识工作在学生与系统之间如何分担，把 102 项高等教育研究分类（助手、使能者、综合者、生成者、再想象者），发现把能力归因于个体学生的两种形式各占语料的 42.16%，而分配作者身份的形式仍然边缘。他们的解释是制度性的而非技术性的：罕见的类型要求学生为并非自己产出的输出承担认识责任，同时仍被作为个体作者来评估，正是这一矛盾 —— 而非劳动分工本身 —— 使它们无法进入实践。设计回应是把认识工作的分配显式化、把活动在谱系上排序，并建立对责任如何分担的反思。
+- **专业项目把训练从例行生产重定向到协作胜任力（一份设计协议）：** [[wang-agentic-translation-education-2026|Wang（2026）]]提出了一份面向翻译教育的、基于设计的框架，围绕一份任务置换清单（18 个子任务按 AI 置换可能性评级，附 [E]/[P] 来源标签）与四项重定向后的胜任力：跨学科知识、AI 编排、战略判断与批判性 AI 评价。该框架是一份预注册协议，尚无经验数据；其贡献在于方法 —— 一份可审计的置换分析加上一条供课程改革用的共同设计路径 —— 它可以迁移到任何例行任务日益被智能体系统承担的专业项目。
 
 ### 关联
 
@@ -2887,6 +2906,7 @@ AI 在持续变化，从任何给定模型或系统得出的结论都可能**很
 - [[sun-student-genai-entanglement-literacy-demands-2026]] — Five student–GenAI entanglement types, and why the ones that distribute authorship stay marginal (Sun, Dohn & Rehm 2026)
 
 - [[teacher-ai-collaboration-work-engagement-2026]] — Teacher–AI collaboration's opposing pathways to work engagement via psychological availability and work alienation, bounded by digital competency
+- [[wang-agentic-translation-education-2026]] — 把翻译教育重定向到 AI 编排、战略判断与批判性评价胜任力的设计协议（尚无经验数据）
 
 ---
 
@@ -2936,8 +2956,11 @@ AI 在持续变化，从任何给定模型或系统得出的结论都可能**很
 - **先前的自主性预测谁受益：** [[school-ai-education-readiness-gaps-agency-2026|Liang 等（2026）]]依托 Bandura 的社会认知理论，表明学生的**先前自发 AI 学习**（自主性的一种行为表现）预测了其从一年[[k-12|学校]] AI 教学中获益的多少——高自主性学习者带着最强的准备度进入，而学校课程收窄了心理上的差距却未触及认知上的差距。结构化教学与先前与自主性相关的学习是*协同*作用的，而非互相替代。
 - **原则性选择作为技术变革下的教师自主性：** [[ai-integrated-teaching-identity-tensions|Adiozaman 与 Segar（2026）]]在一学期内三次访谈了两位资深学者，发现他们在 AI 中介的教学中既非全盘采纳也非全盘抗拒，而是经由受教学价值、伦理承诺与专业判断引导的、有意的、依情境而定的决定——作者把这一模式称为*原则性选择*，其中对某种用途的拒绝算作判断，而非失败的采纳。它是上述学习者发现的教师一侧对应物：不均衡的 AI 使用可以是自主性的行使，而非其缺席的证据。
 - **教师自主性是学习者自主性的中介条件：** 最新的教师一侧发现把上述学习者发现留下的隐含分野讲明了：教师自主性是设计时的、中介性的，学习者自主性是当下施行的，前者为后者设定条件。[[canonigo-teacher-mediation-generative-ai-mathematics-2026|Canonigo（2026）]]在为期八周的 ChatGPT-4 干预中追踪了十位中学数学教师，发现在教师策划并审问 AI 输出的地方（提出开放问题、预先提示工具释放提示而扣留解法、要求学生把 AI 输出与自己的工作并置并论证哪种方法更好），它成为一件供批评的临时工件，学生走向猜想与元认知式的提问；而在中介缺席的地方，权威迁移到了算法一边，教师成了验证者而非知识的第一来源，一位教师把这形容为从"神谕"到"编辑"的转变。工具质量的不均衡抬高了那种中介所要承载的分量：在 50 个提示各提交三次到每个模型的情况下，免费层级在 150 份回应中有 49 份不准确（32.7%），而付费层级为 150 份中 18 份（12%）（χ2(1) = 17.5，p < .001）。[[charles-teacher-readiness-by-design-ai-rich-2026|Charles（2026）]]得出准备度的含义：教师自主性是一种通过设计决定与工件被动员起来的专业资源，因此准备度应当从教师产出的设计来判断，而非从他们使用 AI 的频率，而一个经过深思的决定扣留 AI 本身就能体现准备度。合起来读，这些发现告诫不要把高的 AI 使用量读成能动性课堂的证据，因为保全学习者自主性的那种性情，是在教师所设计与批评的东西中行使的，而不在于工具是否开着。
+- **师生控制不是零和的——但正确的分配依阶段而定。** 一项参与式快速约会研究让 17 位教师与 13 名学生为 34 种混合控制设计排序，发现两组都偏好在准备与启动阶段有强的教师控制，随后随协作展开逐渐增加学生的投入——而两组都从未偏好完全的学生控制。这些偏好彼此镜像：教师希望对配对时机有更多控制，而学生希望有就绪度的自我信号；学生信任教师对伙伴的选择，而教师希望学生在伙伴问题上有发言权。设计含义：按决策点与阶段分配自主性，让有界、结构化的学生提案由面向教师的分析来校验，而非自由形式的否决。（[[yang-balancing-teacher-student-agency-2026]]）
 - **有选择可及不等于行动中的自主性：** [[learner-agency-ai-simulation-2026|Su、Nair 与 Nagashima（2026）]]把 69 名[[higher-ed|大学]]学生随机分配到一个 2 × 2 设计，交叉一个集群[[simulation]]的参数控制与一个可选的[[pedagogical-agent|对话式智能体]]的可得性，发现在控制了先前知识之后，两种可供性对[[learning-gains|学习增益]]都没有可靠效应（参数控制 F(1, 50) = 0.04，p = .849；智能体 F(1, 50) = 2.68，p = .108）。增益追踪的是控制*如何*被使用：在概念最复杂的那一课中，滑块时间预测了更高的增益（β = .11，p = .007），而同一行为在较容易的那一课预测了更低的增益（β = −.04，p = .047），且与可选智能体的互动从每位学习者 0 到 32 个问题不等，与结果无关。作者把这读作自主性是*被施行的而非被授予的*：设计问题是什么帮助学习者决定什么值得改变、并注意到后果。
 - **早期研究生涯中的认识论委派：** [[ai-mediated-research-agency-formation-2026|Han 与 Liu（2026）]]把博士生与博士后研究者中的 AI 依赖框定为*认识论委派*——把问题设定、方法选择与解释权威转移给智能系统——并发现它与[[self-efficacy|研究自我效能]]和研究自主性都呈负相关，导师支持缓冲了这种损失。它把自主性争论从学习者自主扩展到研究者自身的形成。
+
+- **解释性权威作为一个设计变量（一个概念框架）。** [[porath-interpretive-authority-2026|Porath（2026）]]把由谁决定的问题重新框定为*解释性权威*的分配——谁定义问题、评价回应、并判定理解何时达成——映射出四种非层级的构型（人类主导、AI 辅助、AI 指令式、对话式伙伴关系），而课堂会在单一任务内在它们之间移动，并把这种移动锚定在五个生态层级上，从个体元认知到社会文化叙事。该文的规范性主张与本页的证据一致：AI 指令式构型，无论多么精巧，都可能压制生产性挣扎与元认知调节——正是本页识别为自主性之基底的那些能力。作为一篇概念性论文，它贡献的是诊断词汇，而非经验证据。
 
 自主性与[[self-regulated-learning]]、[[motivation]]、[[self-efficacy]]、[[student-experience]]、[[human-ai-collaboration]]、[[ethics]]、[[cognitive-offloading|过度依赖]]以及[[metacognition]]相连。它是[[educational-robotics|机器人]]、[[intelligent-tutoring|导学]]与[[pedagogical-agent|AI 学习智能体]]设计中的一项核心考量。
 
@@ -2973,6 +2996,8 @@ AI 在持续变化，从任何给定模型或系统得出的结论都可能**很
 - **两者都必须被设计。** 面向自主性的设计保全控制与选择（有边界的[[desirable-difficulties|摩擦]]、[[human-in-the-loop-ai|人在回路]]的监督、[[explainable-ai|透明]]）；面向身份的设计保护作者身份与承认（[[authentic-assessment|真实性评估]]、对 AI 与人贡献的清晰归属、让学习者主张一个领域的任务）。只保护自主性而不保护作者身份，保住了控制却保不住自我价值——反之亦然。
 
 被施行的自主性与稳定的身份之间的这一区分，同样适用于拒绝。如[[ai-refusal-higher-education-diagnostic-non-use-2026|Zagami（2026）]]所描述的，为受评写作而拒绝一个聊天机器人、为无辅助的推理而禁用它、在学生支持中抗拒自动分诊、或推迟采购，是对不同系统的不同关系，横跨个人、教学、专业、行政与机构层面，而非一种持久的性情。那项权利分配不均：有学术信心的学生可以拒绝而不受罚，而需要语言、可及性或快速反馈支持的学生把拒绝读成机会的丧失，安稳的学者出于原则拒绝，而随意的教职员感到被要求采纳。当 AI 位于基础设施之中时，拒绝就从个人的退出被置换到采购、审计与可争辩性上。
+
+- **拒绝作为身份的建构，而不只是一个决定（学徒制学习中的有色人种学生）。** [[gyekye-selves-apprenticeship-2026|Gyekye（2026）]]在九个月中访谈了五名中学阶段的学徒，发现他们通过 AI 以三个动作书写了自身：拒绝（不使用即是对机构的顺应）、协商（修补机构性的错配，隐私成为一种遥远的抽象）、以及承认（把公平等同于可见偏见的缺席——一种文化扁平性，他们的身份在 AI 的回应中得不到表征）。该研究的两个解释性概念——机构 AI 素养（Institutional AI Literacy）与承认带宽（Recognition Bandwidth）——命名了那种让 AI 使用在机构层面可辨识的能力，以及学生在 AI 产出中看见自己被承认的空间。这是一项五名学生、单一项目的叙事探究；其贡献在于表明 AI 的使用、限制与拒绝，与学习者如何理解自己作为作者与新兴专业人士是纠缠在一起的。
 
 ## 生态共同自主性框架：自主性作为一个认识论设计问题
 
@@ -3048,6 +3073,9 @@ AI 在持续变化，从任何给定模型或系统得出的结论都可能**很
 - [[fagerlund-competency-agency-purposes-ai-education-2026]] — 能力 vs. 自主性作为 AI 教育的目的，以及"有据的 AI 自主性"启发式（Fagerlund 等 2026）
 - [[canonigo-teacher-mediation-generative-ai-mathematics-2026]] — 教师中介作为让 GenAI 保持为供批评的工件而非权威的条件（Canonigo 2026）
 - [[charles-teacher-readiness-by-design-ai-rich-2026]] — 教师自主性作为一种通过设计动员的资源，准备度以工件而非使用量来判断（Charles 2026）
+- [[yang-balancing-teacher-student-agency-2026]] — 在实时动态配对的共同编排工具中平衡教师与学生能动性（Yang 等 2026）
+- [[porath-interpretive-authority-2026]] — 解释性权威矩阵与生态权威整合模型：谁在解释的四种构型，以及使之移动的生态层级
+- [[gyekye-selves-apprenticeship-2026]] — 学徒制项目中的有色人种学生通过拒绝、协商与承认经由 AI 书写自身（文化扁平性）；机构 AI 素养与承认带宽
 
 ---
 
@@ -3454,6 +3482,7 @@ K-12 机器学习活动的设计停留在表层：一项 ICE-T 框架背后的�
 - [[melanou-genai-learning-dynamics-longitudinal-2026]] — 一学期的人工智能使用让批判性思维持平；反思性使用预测了它（Melanou 等，2026）
 - [[genai-dependence-research-creativity-2026]] — 在 1,157 名研究生中，生成式人工智能依赖与批判性思维正相关
 - [[genai-use-critical-thinking-moderation-2026]] — 经由反馈素养的生成式人工智能使用→批判性思维，且直接路径只对反思性较低的学生存在
+- [[hallstrom-ai-literacy-stem-education-frontiers-2026]] — STEM 教育中人工智能素养十篇最高被引研究的综述（Hallström 等，2026）
 
 ---
 
@@ -3496,7 +3525,9 @@ CT在AI时代的一个核心目标，是让学生与教师超越对AI产出的*�
 
 新的元分析证据使这一图景更清晰。[[astor-computational-thinking-meta-review-2026|一项对128篇CT系统综述的元综述]]发现，该领域正就CT的统一定义趋同——即以使用计算步骤与算法来解决问题的抽象模型进行推理——这正是生产导向学习所要求的模型建构（而非答案消费）思维。[[tsingidou-ct-robotics-kindergarten-2026|CT—幼儿园机器人研究]]表明，即便是幼儿学习者也能通过与机器人一起基于游戏进行建构而成为生产者，运用问题式学习、讲故事与支架——这是把技术视为自己建构之物而非仅操作之物的第一步。而[[solving-vs-evaluating-genai-solutions|评估与批判研究]]证明，CT可以通过评判并调试有缺陷的AI解法来锻炼——这是一种对AI产出的生产者姿态，能抵御被动消费的陷阱。
 
-实际的结论是：CT教学应被设计为让学习者*用AI造物*——创作模型、构建智能体、构造成果物、批判AI产出——而非接收现成的解法。这既加深了CT，也使[[ai-literacy]]成为参与式的、创造性的，而非仅是概念性的。反过来，教师需要支持，以从使用AI工具走向设计AI增强的学习活动（参见[[teacher-role]]与[[professional-training]]）。
+实际的结论是：CT教学应被设计为让学习者*用AI造物*——创作模型、构建智能体、构造成果物、批判AI产出——而非接收现成的解法。这既加深了CT，也使[[ai-literacy]]成为参与式的、创造性的，而非仅是概念性的。反过来，教师需要支持，以从使用AI工具走向设计AI增强的学习活动（参见[[teacher-role]]与[[professional-training|专业培训]]）。
+
+复用他人的模型属于生产者立场：实现一个已发表的 AI 模型——选择、安装、运行并验证它——可以作为一门可学习的、结构化的技能来教授，为每一个可预见的失败配一条回退路径，且三名没有编程背景的化学专业本科生在四个月内复现并扩展了一个酶—底物预测模型（[[praise-non-programmer-ai-model-implementation-2026|Achterweust 等（2026）]]）。
 
 ### 实践指引
 
@@ -3555,6 +3586,7 @@ CT在AI时代的一个核心目标，是让学生与教师超越对AI产出的*�
 - [[ai-writes-code-student-writes-model-2026]] — 模型作者身份：GenAI学习即建构的理论与测量
 - [[code-to-learn-genai-artifact-construction-2026]] — CtL-GenAI：面向成果物建构的建构主义框架
 - [[astor-computational-thinking-meta-review-2026]] — 对128篇系统综述的CT元综述
+- [[praise-non-programmer-ai-model-implementation-2026]] — PRAISE：非程序科学家实现已发表 AI 模型的可复现工作流
 - [[tsingidou-ct-robotics-kindergarten-2026]] — 幼儿园通过机器人发展CT的系统综述
 
 ---
@@ -4474,6 +4506,8 @@ PBL 起源于医学教育（McMaster University，20 世纪 60 年代），此�
 - **证据综合。**[[educators-engagement-ai-pbl-review-2026|Amdan 等人（2026）]]在[[human-ai-collaboration|人机交互]]框架下，[[meta-analysis-systematic-review|系统综述]]了 50 项（2015–2024）关于教育者在 PBL 中与 AI 交互的研究。
 - **情境式 PBL 中的 GenAI。**[[genai-scenario-based-healthcare-education-2026|Neto 及其同事（2026）]]在他们对医疗教育中 GenAI 的系统综述里，把问题导向学习列入情境式方法，发现[[prompt-engineering|提示设计]]起着教学规范的作用，且混合式人机协作优于完全自动化的方法。该综述强调，生成内容与教学框架之间需要更强的对齐，以及 PBL 情境中更可复现的提示实践。
 
+- **AI 可以承担导师的知识传授，但承担不了小组学习的社会调节。** 在一项为期四周的药理学准实验中，[[facilitator-vs-ai-mediated-pbl-pharmacology-2026|Shetty 与 Rao（2026）]]发现，AI 中介的 PBL 与引导者主导的学业增益相当（组间 p = 0.474），而引导者主导的小组在小组动力（26.51 对 24.74，p = 0.035）和批判性思维（14.75 对 13.09，p < 0.001）上保留了优势。
+
 ## PBL 与相关教学法的关系
 
 PBL 与[[project-based-learning|项目导向学习]]密切相关——两者都以学习者为中心、由问题/情境驱动——但 PBL 围绕一个结构不良的*问题*，其解决需要探究与知识建构；而项目导向学习围绕产出一个有形的*成果*或项目。PBL 还与案例式和[[inquiry-based-learning|探究式学习]]同源，后者共享问题驱动、引导主导的结构。在知识库的映射中，支持有生产性的 AI 整合的结构性论证，适用于任何共享这些特征的教学法，而不只是 PBL。
@@ -4520,6 +4554,7 @@ PBL 与[[project-based-learning|项目导向学习]]密切相关——两者都�
 - [[rhaimi-productivemath-2025]] — ProductiveMath：支持 PF 问题设计的 AI
 - [[genai-scenario-based-healthcare-education-2026]] — 情境式医疗教育中 GenAI 的系统综述（Neto 等人 2026）
 - [[chen-osman-preservice-physics-tpack-ctd-pbl-2026]] — 面向 130 名师范物理教师的 AI 支持 CTD-PBL 模块：TPACK 与协作式问题解决（Chen & Osman 2026）
+- [[facilitator-vs-ai-mediated-pbl-pharmacology-2026]] — 药理学教育中引导者中介与 AI 中介的问题导向学习之比较：一项针对二年级医学生的准实验研究
 
 ---
 
@@ -5083,6 +5118,7 @@ GBL与游戏化共同连接到[[educational-robotics]]、[[student-engagement]]�
 - [[genai-cognitive-scaffold-geometric-reasoning-2026]] — GenAI 作为连接视觉直觉与几何演绎证明的提示脚手架，单凭可视化不足之处（Davor 2026）
 - [[guided-ai-tutor-impasse-resolution-2026]] — 考察引导式 AI 导师如何化解学生卡壳的变异
 - [[structured-genai-training-physics-problem-solving-rct-2026]] — 在 STEM 问题求解中把学习者训练当作 GenAI 使用的脚手架（Huang et al. 2026）
+- [[etq-ai-conversational-teacher-training-2026]] — 以证据为基的对话来诊断教学误解的对话式 AI（Miranda & Calvani 2026）
 
 ---
 
@@ -5225,6 +5261,7 @@ Favero等人（2025）提醒说，即便是苏格拉底式AI，如果学生变�
 
 - [[guardrails-ai-teaching-assistants-programming-2026]] — Guardrails or Roadblocks? Effects of Pedagogical Style and Context Awareness in AI Teaching Assistants for Programming
 - [[genai-socratic-tutor-biology-argumentation-2026]] — 通过生成式人工智能提升职前生物学教师的 PISA 对齐论证技能
+- [[etq-ai-conversational-teacher-training-2026]] — 以证据为基的对话来诊断教学误解的对话式 AI（Miranda & Calvani 2026）
 
 ---
 
@@ -6607,6 +6644,10 @@ SRL 理论的一条基础原则是：自我[[regulation]]技能与[[motivation]]
 - **外部支持可以绕过学习者自己的元认知判断。**[[iqbal-human-genai-support-essay-revision-2026|Iqbal 等（2026）]]跟踪了 87 名 EFL 学生在[[generative-ai|生成式人工智能]]（ChatGPT 4.0）、人类专家或无支持条件下修订一篇论文。支持条件是学生所选修订策略最强的相关因素（Cramér's V = 0.668），远超来自前一项写作任务的延续（V = 0.333），而元认知判断准确度（p = 0.172）、写作技能（p = 0.261）与[[motivation]]（p = 0.683）都不相关。元认知判断只在没有支持可用时才与策略相关（置换检验 p = 0.0460）。有生成式人工智能支持的学生获益最多（在减少求助策略下平均约 4 分，而同一策略在人类专家支持下为 −0.5 分），然而没有任何修订策略与分数变化相关（H(3) = 3.895，p = 0.273），因此增益来自工具而非更好的自我调节。作者的取向是：生成式人工智能应促使学习者反思自己的修订策略，而不是直接提供帮助。
 - **反思性使用追踪批判性思维，而非知识增益。**[[melanou-genai-learning-dynamics-longitudinal-2026|Melanou 等（2026）]]在为期九周的课程中跟踪了三个平行的商业信息学班级（N = 87），每组的知识都在上升（F(1, 50) = 29.87，p < 0.001，η²p = 0.374），且没有人工智能优势、没有时间×组交互、没有马太效应（F(1, 48) = 2.46，p = 0.124；BF01 = 8.70）。反思性使用（在采纳人工智能输出前核查来源并加以验证）在人工智能条件下显著更高（3.72 对 2.82；F(1, 40) = 20.21，p < 0.001），并预测批判性思维（β = 0.43，p < 0.001）而非知识增益——后者由相关认知负荷预测（β = 0.51，p = 0.001）。实践解读是：人工智能访问权本身不是一种干预，其元认知回报在推理质量上先于在测验分数上显现。
 
+- **结构，而非人工智能本身，驱动 SRL 增益。** 把 Zimmerman 的阶段映射到以 AI 作为[[scaffolding|元认知脚手架]]的项目式混合教学上，产生了 0.72 的 N-Gain，而常规教学为 0.28（t = 8.47，p < 0.001，[[ai-project-hybrid-learning-self-regulated-2026|Priyambudi 等（2026）]]），他们论证 AI 只有在任务结构之内才强化自我调节——无结构的使用有招致元认知懒惰的风险。
+
+- **三种失败模式解释了迁移在何处断裂。**（1）概念按日常含义而非领域含义消解——"cancel" 对化学中的 "kürzen"——破坏了 enact 分类。（2）拟人化——不熟悉重度脚手架导师的德语学生把它当作人来称呼，产生分布外语句；迁移在脚手架较轻的平台上更好。（3）读提示与制定计划的歧义——没有日志数据，模型分不清读取一条元认知提示与制定计划。认识到错误在所有条件下都是稳健的——注意到自己错了是与语境无关的。修法：领域术语用专家词典或微调；提示用日志数据。（[[borchers-srl-language-generalization-2025]]）
+
 ## 大语言模型中介的 SRL：支架、捷径还是伙伴？
 
 一组 Learning Letters 研究（2026）汇聚在一个核心张力上：[[generative-ai|生成式人工智能]]可以支撑、短路或与自我调节结成伙伴，取决于设计以及学习者如何调节它的使用。证据指向 SRL 本身——而非工具——才是决定性变量。
@@ -6692,6 +6733,8 @@ SRL 理论的一条基础原则是：自我[[regulation]]技能与[[motivation]]
 - [[preservice-teachers-ai-support-innovative-competence-2026]] — 支持类型翻转了中介：人工智能自我效能对自我调节学习
 - [[genai-learning-procrastination-planned-behavior-2026]] — 生成式人工智能辅助的学习拖延：一种被焦虑强化的意图–行为缺口
 - [[genai-srl-l2-writing-scale-2026]] — 一项经验证的六维度二语写作生成式人工智能–SRL 量表，环境调节作为其独立维度，并有 12 题的蚁群优化简版
+- [[borchers-srl-language-generalization-2025]] — 大语言模型把 SRL 预测泛化到新语言：域内可以，跨域不行（Borchers 等 2025）
+- [[ai-project-hybrid-learning-self-regulated-2026]] — 用人工智能强化学生自我调节学习的项目式混合学习模型
 
 ---
 
@@ -7096,6 +7139,8 @@ SDT 直接与 [[motivation]] 相连（作为其母构念），与 [[affective-co
 
 - **浮现出学习者看不见的互动模式。** [[student-ai-interaction-consecutive-interpreting-2026|Kuang、Li 与 Weng（2026）]]在 22 名口译学员使用语音识别与机器翻译系统时追踪了眼球运动、笔记与语音，发现学生在人工智能输出与自己的笔记之间分配[[cognitive-psychology|注意力]]的方式对他们自己不可见：58.3% 的人在任务阶段之间改变了策略，而人工智能输出读得最重者在表达流畅性与目标语言质量上得分最低。其教学后果是反思必须由外部证据来搭建支架，因为学习者的策略不是内省可及的 — 作者主张引导学生描述并评价他们在每个阶段为何以某种方式工作。
 - **过程证据依渠道而有条件。** 在 79 名使用[[generative-ai|生成式人工智能]]的本科生中，更深的监控与规划在出声思维单元中出现得更频繁，而更深的调节在互动日志中出现得更频繁，因此单一记录会低估某些过程（[[metacognitive-processes-genai-interaction-logs-2026|Li 与 Liu（2026）]]）。
+- **出声思维支持早期觉察，但不支持深度评价。** [[karaki-think-aloud-ethical-genai-2026|Karaki 与 Baroudi（2026）]]开展了一项混合方法行动研究，对象是 44 名一年级创业专业学生，他们在 AI 支持的课程学习中使用出声思维方法。出声思维使学生的提示构建、核验实践与伦理决策更加可见，但对 AI 输出的批判性评价"常常停留在表面层面，特别是在需要额外支持的学生身上"——学生发现了笼统或不对齐的回应，却仍然 heavily 依赖它们。自报的元认知觉察是三个受调查构念中最高的（M = 3.79），但单一的后干预调查无法把知觉与变化区分开来。作者的结论——出声思维不是独立的解决方案，必须与 AI 素养、提示构建和核验策略的显式教学相结合——把上面的过程证据一线从*记录捕捉到什么*扩展到*仅凭发声改变了什么*。
+- **先前的元认知训练决定了 AI 反思伙伴之益处的门槛。** 在一项有 60 名职前教师的 2 × 2 实验中，[[metacognitive-training-ai-socratic-scaffolding-preservice-2026|Zhang 等（2026）]]发现了一个显著的元认知 × 工具交互作用：一个 AI 苏格拉底伙伴只在训练之后才比传统数字工具高出 0.56 分，没有训练就没有优势（ΔM = −0.03）。
 - **反思实践可以从普通的学科使用中涌现。** 在八所丹麦高中，把[[generative-ai]]当作认知伙伴的学生发展出四种实践 — 解释、创作、灵感与改进 — 展开为十一个过程 — 其中反思同时出现在学科与过程两个语域，尽管每种实践同样可能服务于替代（[[ai-cognitive-partner-reflective-thought-2026|Dalsgaard & Prilop，2026]]）。
 - **一个反思支架可能习惯化并取代它所保护的自我监控。** [[skill-sustaining-reliance-reflective-ai-engagement-2026|de Jong（2026）]]警告，反复的反思提示可能因习惯化而失效 — 正如反复的警告被自动忽略 — 因此一个只在系统要求时才反思的专业者，最终可能既失去工具又失去自我监控习惯；该论文主张把反思提示当作一项逐步消退的技能建设干预，并检验用户在没有它时是否仍会反思。
 - **一种有选择的获得：有元认知知识而无规划与监控。** [[wang-genai-novice-learner-learning-by-teaching-2026|Wang 等人（2026）]]把 68 名职前教师分为一组（n=33，向一个生成式人工智能新手解释翻转课堂）与一组（n=35，向一个生成式人工智能教师提问）。新手组的元认知知识与学习策略得分更高（p < 0.001，Cohen's *d* = 0.41），但规划与监控没有更高（M = 4.01 对 3.78，p = 0.062），尽管同一组的解释与应用得分上升（r = 0.474 与 r = 0.642），而事实回忆没有区分两组（p = 0.416）。这一分裂遵循引言中的两个成分：向一个会反问的人解释，建立了关于自己知道什么的陈述性觉察，但设计中没有任何东西使学习者设定路线或检查进度，作者把这归于任务设计与认知负荷而非角色本身。因此[[learning-by-teaching|以教促学]]配合人工智能是元认知知识的杠杆，而不是自动地作用于[[self-regulated-learning|调节]]，作者建议增加明确的规划提示与进度反馈。
@@ -7204,6 +7249,8 @@ Scheu 等人（2026）发现了一个关键的分裂：
 
 - [[metacognitive-processes-genai-interaction-logs-2026]] — 日志与出声思维捕捉了 GenAI 协助学习中不同的元认知过程
 - [[ai-cognitive-partner-reflective-thought-2026]] — 学生把人工智能当作认知伙伴时反思思维的四种实践与十一个过程
+- [[karaki-think-aloud-ethical-genai-2026]] — 出声思维使提示构建、核验与伦理推理可见，但批判性评价仍停留在表面；不是独立的解决方案
+- [[metacognitive-training-ai-socratic-scaffolding-preservice-2026]] — 职前教师反思实践中的元认知训练与基于 AI 的苏格拉底式脚手架：一项双研究实验设计
 
 ---
 
@@ -7665,6 +7712,8 @@ AI 误解不局限于学习者——它们在塑造教育的成年人中同样�
 
 这种广度，正是知识库把误解当作一条横贯的基础主题、而非纯面向学生的主题的原因：同样的校准失误在学习者、教师、机构与公众身上反复出现，而纠正它们既要求直面个人信念，也要求直面喂养它们的话语。
 
+教师的教学误解是这一点的镜像：不是关于 AI 的误解，而是关于教学的、缺乏证据支持的信念，它们无视 AI 而持续存在。[[etq-ai-conversational-teacher-training-2026|Miranda 与 Calvani（2026）]]用有效教学问卷（Effective Teaching Questionnaire）把这一点工具化：50 个二元条目映射到元分析效应量（d ≥ 0.40），使教师的回答可以对照一个与证据对齐的基准来比较——而他们的发现是，这些误解既深又具体。在一项对 123 名意大利教育者的试点中，分歧最集中地聚集在认知学习风格（78% 的教师为视觉/听觉匹配辩护）、包容与小组合作（68%）以及 EdTech 过载（54%）上，而在计划、认知、评价与管理各维度上平均对齐度接近 50%。有两个细节对纠正设计很重要。第一，这些误解在大学教育与教学实践中存续——作者描述了一种"入校之前就已存在并持续"的"内化的常识"——因此它们不是一场讲座就能填补的知识缺口。第二，当同样的条目通过一个会话式 AI 交付，且该 AI 在重新引入证据之前先验证教师的处境时，41% 的异议涉及真实的情境约束（班级规模、特殊需求、课程覆盖），而非证据本身，且 5.9% 的人把该系统拒斥为"一部算法教条机器"——这是规范性框定滋生防御而非反思的边界条件。就 [[teacher-ai-competency]] 的发展而言，其意涵是：诊断加对话能够揭示哪些信念是基于证据的分歧、哪些是误解，这是一个单凭分数无法作出的区分。
+
 ### 纠正误解
 
 纠正不是一次性的告知，而是一个持续发展 [[ai-literacy]] 与 [[metacognition]] 和 [[self-regulated-learning]] 的过程：帮助学生（以及他们周围的成年人）监控自己的依赖、校准何时信任何时质疑一个模型，并看见绕过自己 [[cognitive-offloading|认知工作]]的代价。因为误解抗拒纠正，最好用与证据的直接对峙来处理——包括"学生常常*察觉不到* AI 滥用的学习伤害"这一发现。
@@ -7735,6 +7784,7 @@ Bernstein 与 Sibia（2026）显示，[[generative-ai|GenAI]] 生成的类比引
 - [[milicevic-socratic-trap-strategic-misconceptions-2026]] — SocraticTrap-CS：流畅、权威却在概念上而非事实上错误的解释（Miličević et al. 2026）
 - [[humble-prompt-injection-ai-grading-red-team-2026]] — 提交文件中的隐藏指令可在无可见警告的情况下抬高 AI 评分（Humble 2026）
 - [[children-ai-safety-misconceptions-2026]] — 儿童的 AI 安全误解：与机器人的友谊被误读为隐私保证（Leisten et al. 2026）
+- [[etq-ai-conversational-teacher-training-2026]] — 用于教学误解的会话式 AI 诊断：基于证据的对话（Miranda 与 Calvani 2026）
 
 ---
 
@@ -8062,7 +8112,9 @@ AI 把新的**工具/中介制品**引入既有的教育活动系统，这同时
 - **分离可以朝相反方向发生（2026）：** 在一门为期 12 周的职业室内设计课程中，一个内嵌大模型助教的沉浸式 VR 工作室，把认知（d = 0.90）与行为（d = 0.75）参与提升到传统 [[project-based-learning|项目式]] 教学之上，而情感参与无显著差异（d = 0.38） —— 恰与上面的二语写作案例相反（[[ai-ive-pbl-vocational-design-creativity-2026|Jin et al. (2026)]]）。这里的认知与行为增益伴随*更低* 的报告认知负荷，作者把它归因于助手吸收了检索与跨学科整合的努力。与写作案例对照读，两项研究提示：一项人工智能支持的干预移动了哪个参与维度，是设计的属性 —— 话语密集的沉浸式 [[collaborative-learning|协作]] 对单独写作支持 —— 而非人工智能协助本身的属性，且不能从高保真或智能反馈中假定一项情感优势。
 
 - **人工智能素养通过心理资源作用于参与（2026）：** 一项对中国郑州 1,198 名本科生的有调节中介研究（[[ai-literacy-learning-engagement-psych-capital-2026|Wang, 2026]]）把参与建模为 [[ai-literacy]] 的结果，而非工具使用的副产品。人工智能素养直接预测学习参与，也通过建立心理资本间接预测，间接路径承载了总效应的约一半 —— 部分中介，因此一种技术胜任力只有部分通过它产生的心理资源转化为参与。职业承诺这一身份类变量调节了心理资本到参与的关联，而自身没有直接效应，且心理资本向参与的转化对自认正走向该专业的学生明显更强。这一模式是上述“学习者特征调节人工智能如何影响参与”这一点最清晰的可得实例。
-- **人工智能课前练习可以提高现场参与（2026）：** 一项对 759 名 MBA 学生的预注册田野实验发现，用基于语音的人工智能讨论伙伴做准备，使后续课上的自愿贡献提高约 31%，但只在第二次使用之后；第一次使用之后参与度反而更低（[[assigned-ai-preclass-student-engagement-2026|Wang et al., 2026]]）。
+- **人工智能课前练习可以提高现场参与（2026）：** 一项对 759 名 MBA 学生的预注册田野实验发现，用基于语音的人工智能讨论伙伴做准备，使后续课上的自愿贡献提高约 31%，但只在第二次使用之后；第一次使用之后参与度反而更低（[[assigned-ai-preclass-student-engagement-2026|Wang et al., 2026）]]）。
+
+- **脱离参与是一种话轮层面的举动，而非一种稳定状态：** [[rho-disengaged-conversational-behaviors-2026|Rho 等（2026）]]把学生对 Math Nation 中一个 AI 可教智能体的 5,522 次话语编码为六类会话式脱离参与（虚假作答、嘲弄、幽灵化、镜像、扣留、随机/噪声），发现参与率以 75.7% 的话语占主导。虚假作答与嘲弄的基于流行率的后测分数关联，未能通过人工标注的敏感性检验存续下来。序列分析才是与参与相关的结果：表现最高的聚类把中度脱离参与与强烈的"恢复到参与"转移结合起来（扣留 → 参与 p = 0.83），而最低的聚类则表现出无恢复的持续自我循环（参与自我循环 p = 0.96）。扣留是唯一倾向于持续而非消解的脱离参与类型——持续对修复，而非存在对缺席，才是区分参与轨迹的那个区别。
 
 ## 关联概念
 
@@ -8122,6 +8174,7 @@ AI 把新的**工具/中介制品**引入既有的教育活动系统，这同时
 - [[ai-literacy-learning-engagement-psych-capital-2026]] — AI literacy drives engagement directly and through psychological capital, amplified by professional commitment (Wang 2026)
 - [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: AI and human tutoring yield equivalent GRE learning gains
 - [[liu-course-integrated-ai-tutoring-rct-2026]] — Access to an AI tutor lowered recorded platform participation by 0.90 SDs while homework submission held steady (Liu et al. 2026)
+- [[rho-disengaged-conversational-behaviors-2026]] — 学生—AI 对话中的脱离参与行为与学习（Rho 等 2026）
 
 ---
 
@@ -8495,6 +8548,7 @@ SEL 与[[ai-literacy]]相连（作为使 AI 素养关系化、伦理化的补充
 - **共创是一种网络效应，而非个体特质：**[[trikonet-trivalence-co-creativity-2026|Ruhland（2026）]]借行动者网络理论把创造力建模为社会技术网络的涌现属性——人类与非人类行动者之间稳定化、去稳定化与再稳定化的三元互动，其中[[generative-ai|生成式 AI]]智能体被当作平等的、构成性的网络参与者。在一项[[pedagogy|教学性]]化身在创造性网络中被共同设计的研究里，化身设计不是个体的创造行为，而是经学生、[[research-methods-aied|研究者]]与设计工具之间的转译过程涌现的。TriKoNet 框定了现成 AI 化身把创造[[agency]]移向机器诱导的便利（"便利陷阱"）的风险，并论证与[[learners|学习者]]共同构成 AI 的行动结构才能保存共创。
 
 - **先思考的协作维持独立创造力：**Wong 与 Qiu（2026）发现，在用 ChatGPT *之前*生成自己想法的学生（"先思考，后 ChatGPT"协议）在受助任务上没有即时提升，却在之后的无人协助创造力任务上胜过自由 AI 组与人—组。自由使用 ChatGPT 只产生瞬时的表现，协助撤除即崩塌——一种[[cognitive-offloading|过度依赖]]而非学习——而旨在改进自己*想法*的协作性[[human-ai-collaboration|共创]]在独立创造力上产生持久增益。这给了直接实验证据：保护创造能动性不仅可欲，而且是把 AI 协助的工作转化为学习的东西。
+- **塑造群体构思的是范例的*感知*来源，而非其内容。**在 113 组二人组的 fNIRS 超扫描研究中，把完全相同的 ChatGPT 生成范例标注为人类产出或 AI 产出改变了群体创造力：人类归因在刺激阶段提高了想法独特性，并增强了前运动区与辅助运动区的脑间同步；AI 归因只增加了构思路径之间的切换；而范例撤除后两种效应都不再持续（[[ai-exemplar-attribution-creativity-education-2026|Xiaoyong 等人（2026）]]）。
 - **区分儿童 AI 辅助创造力的是发展性实现，而非能力。**在儿童与成人和 ChatGPT 共创的首个神经影像比较中，6–7 岁儿童与成人在一台 MRI 扫描仪内进行了同样五分钟的口语对话。扫描仪外测量的创造力在两组之间没有差异。然而成人在额顶控制、显著性及背侧注意网络内表现出显著更强的网络内连接性，且更高的创造力预测了成人的额顶—显著性耦合更强，儿童则不然。作者把这解读为 AI 对话中创造性认知如何被*实现*上的差异，而非基线能力的差异。它也提出了本页支架建议此前不必回答的一个问题：AI 辅助创造性工作所调用的控制机制究竟何时成熟？（[[horowitz-kraus-children-chatgpt-cognitive-control-2026|Horowitz-Kraus 等人（2026）]]）
 
 来自研究生研究的一个反证：在 1,157 名中国研究生中，[[generative-ai|生成式 AI]]依赖与自报的研究创造力正相关，对功能性的、任务导向的依赖（β = 0.457）远强于存在性依赖（β = 0.147），且[[critical-thinking|批判性思维]]承担了功能路径约 85.0%（[[genai-dependence-research-creativity-2026|Yin 等人（2026）]]）。
@@ -8562,6 +8616,7 @@ SEL 与[[ai-literacy]]相连（作为使 AI 素养关系化、伦理化的补充
 - [[genai-dependence-research-creativity-2026]] — 功能性与存在性生成式 AI 依赖与 1,157 名研究生的研究创造力
 - [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] — 创造力相当、神经投入分化：儿童与成人在 fMRI 扫描仪中同 ChatGPT 对话
 - [[ai-dependence-creativity-motivation-literacy-2026]] — AI 依赖与四种使用动机与自报创造力分道相关（Hou 等人 2026）
+- [[ai-exemplar-attribution-creativity-education-2026]] — AI 时代的创造力教育支持：感知到的范例来源所扮演的角色
 
 ---
 
@@ -8777,6 +8832,8 @@ Bloom 的掌握学习把教学的目标从"按天资给学生分类"重新框定
 
 最后，证据警告不要假定 AI 生成的支持一律有益。在一项针对新手程序员、多 [[governance|机构]]的 AI 生成动画轨迹研究中，益处是情境依赖且短期的，中等 [[student-engagement|投入]]的学习者经历了归因于协调成本的表现下降——一种专长反转式效应，凸显了有必要把支持个性化到学习者当前状态，而非一刀切地套用工具。同样地，[[higher-ed|高等教育]]中 [[ai-literacy|AI 素养]]的发展连续谱把掌握定位为：不仅是流利地采用 AI 工具，而是要经过知情且批判性使用的各个阶段，每个阶段都有自己的 [[formative-assessment]] 策略。这些发现共同把 AI 赋能的掌握学习框定为：一个必须校准到个体学习者、可持续地间隔、并对真正的胜任力而非流畅产出加以评估的系统。
 
+- **共享控制的掌握学习，其效率取决于学习者的任务选择策略。** 一项模拟研究（每次运行 1,000 名模拟学习者，AFM 与 BKT 参数拟合真实的 MathTutor 与 DataShop 日志）比较了九种任务选择策略。效率相差一个数量级：风险规避的"最小化最差情况损失"策略——挑选最差情况掌握损失最小的技能——在解方程上产生了 30.28 倍的过度练习（在图形解读上为 28.93 倍），而其他策略平均为 1.73 ± 0.38。针对性的系统约束以外科手术式的方式挽回了局面：任务选择约束把过度练习削减到 12.88/14.46 倍，而问题选择上的"偏向更难"偏向把它削减到 1.98 倍（Cohen's d = 1.86）——而本来高效的策略不受影响。设计启示：约束应当是策略感知的，保护病态的自我调节者而不向好的自我调节者征税，并且先做模拟再重新设计，可避免让学生承受 30 倍过度练习才来发现修法。（[[noh-simulating-task-selection-2026]]）
+
 标准参照评分是掌握学习的评估对应物，而 [[mesny-innovative-assessment-grading-management-2026|Mesny、Roberge-Maltais 与 Galy（2026）]]把它列为与"为学习而评估"相一致的五项创新实践之一，高等教育教育者本可采用——但他们发现它几乎缺席于管理教育的话语中。他们把这归因于规范性障碍：常模参照的"按曲线评分"、外部信号（排名、实习、认证）以及学生的工具性心态，都在抵制面向掌握的、无等级的做法。他们的建议是渐进式实验——例如，在推广之前先对单一任务引入标准参照评分标准——并以项目层面的协调和记录在案的教学 [[teacher-role|学术]]（Scholarship of Teaching and Learning）证据为支持。
 
 ## 关联概念
@@ -8797,6 +8854,7 @@ Bloom 的掌握学习把教学的目标从"按天资给学生分类"重新框定
 - [[neural-symbolic-knowledge-tracing]] —— 为负责任、可解释的学习者建模而把掌握/未掌握规则注入深度学习
 - [[mesny-innovative-assessment-grading-management-2026]]
 - [[crediting-assisted-work-inflates-mastery-2026]] —— 给受协助的工作计分会虚增掌握：哪条证据规则决定谁被宣布掌握（Srivastava 2026）
+- [[noh-simulating-task-selection-2026]] —— 模拟学习者的任务选择策略与掌握学习中的系统约束（Noh 等 2026）
 
 ---
 
@@ -9410,6 +9468,7 @@ AI 也可以通过推进学习目标——而非通过安慰——来缓解学�
 - **从固定课程到自适应结构：**[[learnity-graphs-lifelong-learning-framework-2026|学习图谱]]提出把固定的高等教育课程重新构想为相互关联的知识单元，学习者可以在整个生命历程中灵活穿行。
 - **自主性与自我导向：**[[andragogy-cognitive-delegation-genai-2026|成人教育学与认知委托]]在人工智能中介的认知委托条件下重新审视成人学习理论，追问当人工智能参与识别需求、设定目标和生成内容时，还有哪些部分是自我导向的。
 - **政策与社区：**[[ai-lifelong-learning-policy|终身学习政策中的人工智能]]与[[community-centered-ai-education-adults|以社区为中心的人工智能教育]]探讨成人人工智能学习的制度维度与公平维度。
+- **专业能力的再生成本身正面临风险。** 在 AI 暴露程度最高的美国职业中，22–25 岁劳动者的相对就业下降了 16%（2022 年 10 月—2025 年 9 月），而 35–49 岁者增长了超过 8%，且验证 AI 输出所需的深度专业能力，正依赖这一衰退所消除的入门级岗位（[[cognitive-commons-ai-expertise-regeneration|Lovett（2026）]]）。
 
 ### 关联
 
@@ -9440,8 +9499,6 @@ AI 也可以通过推进学习目标——而非通过安慰——来缓解学�
 - [[ai-lifelong-learning-policy]]：终身学习中的人工智能：成人教育政策中的机遇与挑战
 - [[community-centered-ai-education-adults]]：为成人共同设计以社区为中心的人工智能教育
 - [[cognitive-commons-ai-expertise-regeneration]]：认知公地的悲剧：人工智能与专业能力的再生成
-- [[lodge-adaptive-capabilities-genai-future-2026]]：在生成式人工智能融入未来的背景下保障优质学习的自适应能力（Lodge 等，2026）
-- [[kim-ai-productive-failure-adult-2026]]：设计支持基于有益失败的学习的人工智能系统
 
 ---
 
@@ -10339,7 +10396,7 @@ LoRA 及其同类是大多数教育团队实际工作的地方，而文献中包
 
 - 想想你曾经难以用言语解释的一张图、一幅受力图或一张示意图。这段经历对一个试图帮助解决图像密集问题的纯文本[[intelligent-tutoring|人工智能导师]]的局限说明了什么？
 - 一个[[physics-education|物理]]导师约 96% 的时间能正确回答基于文本的问题，但在意义嵌于图表中的问题上降到约 74%。在阅读之前，你认为是什么造成了这种“多模态干扰” — 而你能想到一个不涉及重新训练模型的解决办法吗？
-- 你很可能已经用人工智能工具生成过文本与图像。你有没有发现“为图片而提示”与为文本而提示不同？学生把抽象想法转译为精确视觉提示可能需要哪些技能？
+- 你很可能已经用人工智能工具生成过文本与图像。你有没有发现“[[prompt-engineering|为图片而提示]]”与为文本而提示不同？学生把抽象想法转译为精确视觉提示可能需要哪些技能？
 - 多模态人工智能可以评论文文、生成带音频旁白的反馈，甚至从图文题中重建考试题目统计量。从纯文本到多模态评估信号的转变，对[[bias-mitigation|公平性]]与效度意味着（或冒了）什么？
 - 人工智能支持恰恰在那些建立深层[[stem-education|STEM]]理解的图表密集问题上较不可靠，这一事实如何可能在学习者之间造成[[equity-in-ai-education|公平]]差距？谁受影响最大？
 - 多模态系统可以把文本译为音频或视觉以支持包容性学习，但它们也促成细粒度的课堂感知。有帮助的多模态可达与监控之间的界线在哪里？
@@ -10668,6 +10725,7 @@ AkoVoice 增添了很少同时浮现的两项公平考量。第一是数据：�
 - **用于预训练数据的语料级策展。** [[garrod-edu-qurating-educational-data-curation-2026|Garrod et al. (2026)]] 用二十个可检视的评分维度——其中包括事实准确性、教学结构、水平适切性与基础素养标准——取代单一的\"这是否属于教育\"评分，把 GPT-4.1-mini 的成对偏好蒸馏为可复用的 Edu-QuRaters，以平均 0.917 的准确率恢复留出的评判偏好，然后对 FineWeb-Edu-Fortified 的全部 322.25M 行进行标注，其中被过滤的混合数据把下游 [[benchmark]] 准确率提升到 FineWeb-Edu 基线之上。这标志着教育NLP在分析学习者产生的语言之外还有一个角色：筛查其他模型被训练所用的教学文本。
 - **通过把断言与解释分离实现可审计的编码。** [[edubehaviors-auditable-coding-educational-dialogues-2026|Bernado et al. (2026)]] 用 221 条人类可读断言的模式——74 条源自语料、48 条源自构念、100 条自动的词汇存在检查——取代单标签提示，由一个透明分类器把它们映射为构念标签，在 TalkMoves 教师话语语料上达到宏F1 0.673 与 Cohen's κ 0.688，对比已发表的直接提示最大值宏F1 0.61 与 κ 0.58，同时落后于微调的 RoBERTa-base 分类器的 0.76。要求 Krippendorff's α ≥ 0.5 只保留了 74 条源自语料的断言中的 33 条，而仅用词汇的基线宏F1为 0.339，可见增益来自习得的行为断言而非关键词频率。
 - **大规模的概念标注。** [[srjudge-knowledge-concept-tagging-2026|Yang et al. (2026)]] 把知识概念标注拆分为 Select–Reason–Judge 流水线——小模型筛出候选概念，LLM在候选集上推理，再由评判者定夺——通过缩小模型的决策空间，在三个基准上提升了标注准确率。
+- **手写作答纸抵抗现有解析器。** 多行推导、交错的文字与公式、手绘表格，以及涂改与擦除带来的噪声，都逃出了面向印刷文档与孤立表达式的基准测试，因此 HANS 数据集——来自 745 名学生、覆盖 18 种题型、共 5,213 张八年级数学习题的真实作答图像——标注了这类噪声，并支撑了一个提升识别率的噪声抑制模型（[[hans-handwritten-answer-sheet-parsing-2026|Wu 等人（2026）]]）。
 
 ### 与辅导和测量的联系
 
@@ -10707,6 +10765,7 @@ AkoVoice 增添了很少同时浮现的两项公平考量。第一是数据：�
 - [[bloom-classifier-ai-assisted-questions-2026]] — 对新颖AI辅助教育题的教学评估中预训练模型的评估
 - [[srjudge-knowledge-concept-tagging-2026]] — SRJudge：用于细粒度知识概念标注的选择性推理流水线
 - [[nlp-reading-lists-dental-education-2026]] — 用自然语言处理把阅读材料与学习目标对齐并评估牙科教育中的主题平衡
+- [[hans-handwritten-answer-sheet-parsing-2026]] — HANS：用于噪声混合文档解析的手写作答纸数据集
 
 ---
 
@@ -11029,6 +11088,8 @@ RL 支撑了现代 [[agentic-ai]] 与 [[intelligent-tutoring]] 设计的相当�
 
 选择对话式智能体是为了支持教学、[[motivation]]与[[metacognition]]，而不只是为了回答问题，并为以 HCI 为根基、参与式、以用户为中心的交互而设计。通过把 CAI 与[[ai-literacy]]教学以及让学习者保持认知产出的[[feedback]]配对，来防范[[cognitive-offloading|过度依赖]]。明确关注 AI 素养与可用性——因为这些——而非一般数字技能——驱动采纳与弃用（[[colbran-student-perspectives-genai-chatbots-2026|Colbran、Jha 与 Schiavone（2026）]]）——并把部署与明确的 AI 使用政策、评估标签与培训配对。在教学产出上评价 CAI——而不只是任务完成——并且从一开始就为公平与[[accessibility]]做规划，而非事后补。
 
+- **学生实际上如何与对话式智能体交谈——一套六类别的脱离参与方案：** [[rho-disengaged-conversational-behaviors-2026|Rho 等（2026）]]把一个 GPT-4-Turbo 可教智能体（被定位为一个挣扎中的中学生，通过知识图谱上的 RAG 落地，与一个批评学生解释的导师智能体配对）嵌入 Math Nation 的代数与几何课中，并对 246 名学生的 5,522 次话语做了编码。在参与（75.7% 的话语）之外，他们识别出虚假作答（12.8%）、扣留（8.9%）、随机/噪声（2.1%）、镜像（0.6%）、嘲弄（0.3%）与幽灵化（0.2%）——其中镜像（复制智能体的文本）是从数据中归纳浮现的。该分类是人在回路的：由两名评分者标注的 1,682 次话语（每个类别 κ = 0.704–0.905）训练了一个微调的 LLaMA 3 分类器（在留出对话线程上加权 F1 = 0.910），由其标注余下的 3,840 次话语。一项过程层面的竞争风险分析随后表明，多数脱离参与在几个话轮内得到消解，唯独扣留持续存在——这是一个值得围绕它设计智能体响应的信号。
+
 ## 关联概念
 
 - [[intelligent-tutoring]]
@@ -11053,6 +11114,7 @@ RL 支撑了现代 [[agentic-ai]] 与 [[intelligent-tutoring]] 设计的相当�
 ## 关联文章
 
 - [[mata-sustaining-ai-enabled-student-support-2026]] — 维持 AI 赋能的学生支持：一个机构聊天机器人的四年实施与影响研究（Mata、Russell 与 Page 2026）
+- [[rho-disengaged-conversational-behaviors-2026]] — 学生—AI 对话中的脱离参与行为（Rho 等 2026）
 - [[usher-faraon-who-grades-best-2026]] — 跨项目质量层级比较 ChatGPT、同伴与教师评分（Usher 与 Faraon 2026）
 - [[llm-agents-5e-esl-grammar-2026]] — LLM agents with 5E framework for ESL grammar acquisition (Yang et al. 2026)
 - [[semantic-variability-llm-conversation-assessment-2026]]
@@ -11530,6 +11592,7 @@ VR/AR 最强的证据是比较性的且 [[discipline-specific-aied|学科特定]
 - **从为别的东西设计的量表来诊断。**[[mechanics-cognitive-diagnostic-physics-2026|Le 等人（2026）]]表明，一个 CD 模型可以从从未为诊断编写的题目中提取目标层面的信息。把 FCI、FMCE 和 EMCS 的题目映射到导论力学中的 14 个细粒度学习目标，并对来自 807 门课程的 24,394 份后测作答拟合 DINA，他们发现三套量表中有两套拟合良好（FCI RMSEA² = 0.033；EMCS = 0.022），且在 22 个"目标—量表"组合中有 19 个的分类准确率达到或高于低风险形成性基准。起约束作用的是属性结构，而不是题目质量：专家编码几乎原封不动地通过了模型审查——DINA 只提议修改 754 个"题目—目标"编码中的 14%，而编码者采纳了其中 20 个（2.7%）——然而模型无法区分三个*概念上嵌套*的能量目标（势能 0.675、能量守恒 0.705、动能 0.745），因为其中任意两个共享约 70% 的题目（Jaccard 重叠 0.67–0.73），违反了 DINA 的合取独立性假设，而同一量表上的动量目标达到了 0.820–0.917。更细的属性拟合得也更好而非更差：14 目标结构在三套量表上都比同一团队早先的四广义技能结构改善了模型拟合。限制掌握度能分得多细的，是题目重叠，而非编码错误。
 - **用于个性化学习路径的贝叶斯 DINA：**[[bayesian-cognitive-diagnosis-personalized-learning-paths|Feng 和 Huang（2026）]]把贝叶斯 DINA 模型（在 EdNet 数据集上训练，N=5,000）与知识空间理论和最短补救路径算法结合来生成个性化学习路径，并经由隐马尔可夫模型状态转移实证检验[[cognitive-offloading|认知负荷]]的中介作用（在 120 名学生上验证）——同时应对传统 DINA 模型由稀疏性驱动的收敛问题，以及个性化路径有效性背后未经检验的心理机制。
 - **用语言基础替代 ID 嵌入。**[[process-grounded-language-cognitive-diagnosis-2026|Liu 等人（2026）]]用 LLM 构建的概念图式和过程基础的证据取代离散的学生、习题和概念标识符，从作答记录中校准每位学生的后验状态。在三个[[math-education|数学]][[online-teaching-and-learning|平台]]数据集上，该框架在 XES3G5M 上达到 83.51% ACC / 85.37% AUC、在 MOOC 上达到 87.16% ACC，而收益恰恰集中在经典认知诊断模型退化的地方：新概念（比 KCD 高 +4.60 ACC）和缺失的 Q-matrix 条目（+4.52）。消融掉结构化证据会把 MOOC 准确率从 87.16% 压到 78.95%，因此改进来自语言导出的结构，而非模型规模。（[[process-grounded-language-cognitive-diagnosis-2026]]）
+- **文化嵌入的任务可以先于 AI 分析。**[[culturally-embedded-ai-diagnostic-assessment-2026|Anggara 等人（2026）]]让印度尼西亚 178 名初中学生在 AI 作答分析之前先完成带文化情境的开放式任务；AI 诊断与专家评估一致（ICC = 0.81），而文化嵌入与符号性数学表现（β = 0.42）及参与度（β = 0.37）相关。
 
 ## 为何重要
 
@@ -11587,6 +11650,7 @@ VR/AR 最强的证据是比较性的且 [[discipline-specific-aied|学科特定]
 - [[pivot-generative-video-tutors-stem-2026]] — 从内容生成到学习支持：面向 STEM 学习的教学引导式生成式视频导师
 - [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn：在人机协同学习回路中学习其学习者的智能体导师
 - [[omniedu-open-educational-foundation-models-2026]] — OmniEdu：面向学与教的开放基础模型
+- [[culturally-embedded-ai-diagnostic-assessment-2026]] — 通过面向有意义学习的文化嵌入 AI 重新思考诊断性评估
 
 ---
 
@@ -14112,6 +14176,7 @@ STEM 结构化的知识表征、可验证的答案与计算思维上的对齐，
 - [[simulation-assisted-drone-learning-stem-2026]] — 采用教师—AI 共同设计支架的模拟辅助无人机学习
 - [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
 - [[ai-supported-instruction-stem-meta-analysis-2026]] — 35 项研究中 AI 支持的 STEM 教学的合并效应，增益在高中最大（Doğan et al. 2026）
+- [[hallstrom-ai-literacy-stem-education-frontiers-2026]] — STEM 教育中人工智能素养十篇最高被引研究的综述（Hallström 等，2026）
 
 ---
 
@@ -15569,6 +15634,8 @@ K-12 关联到 [[pedagogical-safety|教学性安全]]（儿童保护）、[[ai-l
 
 由于幼儿学习者更脆弱、更缺乏对 AI 使用的自我调节能力，这一聚类强调**成人的支架**（家长、监护人与教师）、**适龄设计**，以及 AI 取代而非支持游戏、发现与努力学习的成长工作所带来的[[cognitive-offloading|过度依赖]]与[[well-being|伤害]]风险。公平是一个鲜活的关切：接触 AI 丰富的早期学习（或保护性的成人指导）是不均衡的，这与[[digital-divide]]和[[equity-in-ai-education]]相连。大部分证据基础仍是探索性或面向设计的，而非因果性的。
 
+一项四国比较凸显了课程缺口：日本、韩国与中国的国家幼儿指导方针不含任何明确的 AI 素养提法（上海的城市级行动计划是唯一的例外，且未规定学习进阶），而澳大利亚仅表现出有限且不均衡的对齐——在与 AI 智能体交互方面最强，在理解人机关系方面缺席——把 AI 素养留给了家庭（[[ai-literacy-ecec-curricula-four-country-2026|Cohrssen 等（2026）]]）。
+
 关于这一问题的首个神经影像学窗口带着一份告诫到来：6–7 岁儿童在 MRI 扫描仪中与 ChatGPT 进行五分钟口头对话，在创造力得分匹配的情况下，其额顶控制、突显与背侧注意网络中的网络内连接弱于成人，且缺乏成人表现出的创造力—连接耦合。由于这些执行功能在一年级时仍不成熟，作者把该结果解读为与最低年龄之争相关——同时指出框架混淆与缺少无 ChatGPT 对照组限制了它所能澄清的边界（[[horowitz-kraus-children-chatgpt-cognitive-control-2026|Horowitz-Kraus 等（2026）]]）。
 
 ## 关联概念
@@ -15610,6 +15677,7 @@ K-12 关联到 [[pedagogical-safety|教学性安全]]（儿童保护）、[[ai-l
 - [[creative-project-approach-ai-early-childhood-2025]] — 创造性项目方法：一个为早期学习定制 AI 代理与机器人的框架（Yang、Li 与 Lee，2025）
 - [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] — 儿童与成人同 ChatGPT 对话的首个神经影像比较：6–7 岁儿童的控制—注意—记忆网络整合度更低
 - [[ai-rated-classroom-observation-scores-2026]] — 我编码还是 AI 编码：香港幼儿园中 AI 评分的 CLASS Pre-K 分数对比受训人类评分者（Fong 等，2026）
+- [[ai-literacy-ecec-curricula-four-country-2026]] — AI 原住民的 AI 素养？一项四国比较
 
 ---
 
@@ -16573,6 +16641,8 @@ AI 在三个有影响的方向上改变反馈，每一个都提高了其他侧�
 
 反馈是教育中最具影响力、证据最充分的机制之一，而 AI 既放大又复杂化它。架构良好的 AI 反馈可以比肩或超越人类反馈，并规模化到整个班级，但它要求学习者具备新能力（[[feedback-literacy]]、[[ai-literacy]]），并带来风险（不加批判的接受、[[cognitive-offloading|过度依赖]]）。随着 AI 生成的反馈变得无处不在，知识库把反馈框定为一个整体系统——质量、回路、素养与评估情境协同工作——而非任何单一组件。
 
+- **反馈可以瞄准反馈的提供者。** 导学培训是一个未被充分探索的反馈情境：自动化系统可以对导学者的开放式回答作序列标注，以标出表扬的类型（基于努力的表扬——可取的过程聚焦之一种——对基于结果的，对基于个人的，最不可取的特质归因之一种），从而提供能改变导学行为的解释性反馈。其约束条件是专家标注的数据。一种数据增强方法——GPT-4o 生成合成标注回答，把 13 个实例的低资源集扩展到 520 个，然后微调 GPT-3.5——追回了大部分差距：在基于努力的表扬上 F2 +20.5%，基于结果的 +17.3%，而在*未见过的*基于人类别上 +16.5%。对未见过表扬类型的泛化测试，是把这与过拟合作区分的效度检验，而其机制更接近教师模型蒸馏，而非经典数据增强。（[[xu-automated-feedback-tutor-training-2025]]）
+
 ## 关联概念
 
 - [[pedagogical-patterns]] — 经过检验的反馈序列，包括为何更高质量的 AI 反馈并未带来更多修改
@@ -16643,6 +16713,8 @@ AI 在三个有影响的方向上改变反馈，每一个都提高了其他侧�
 - [[nazaretsky-feedback-source-bias-2025]] — 谁提供反馈很重要：文本可比时来源标签改变评分（Nazaretsky 等人 2025）
 - [[ai-powered-writing-feedback-awe-review-2026]] — 面向写作的 AI 反馈系统：自动写作评价（AWE）工具综述
 - [[zhao-ji-appraisal-human-ai-revisions-2026]] — 修改对写作者立场做了什么：同伴反馈使论证作文更收缩，AI 修改保持 Contract/Expand 平衡（Zhao & Ji 2026）
+- [[xu-automated-feedback-tutor-training-2025]] — 通过数据增强改进低资源情境下导学培训的自动反馈系统（Xu 等 2025）
+- [[etq-ai-conversational-teacher-training-2026]] — 用于教学误解的会话式 AI 诊断：基于证据的对话（Miranda 与 Calvani 2026）
 
 ---
 
@@ -16765,6 +16837,7 @@ AI 反馈质量不只是关于正确性。有效的反馈必须及时、具体�
 ### 反馈质量在研究中的体现
 
 - **与人类反馈的可比性：** [[ai-generated-feedback-higher-ed|高等教育中的研究]]发现，AI 生成的反馈被体验为可接受且具支持性——与教师反馈相当。但可接受性并不保证学习有效性。一项 PRISMA 引导的 [[meta-analysis-systematic-review|系统综述]]（覆盖 2023—2025 年 42 项实证研究）同样发现，[[llm]] 评分与反馈的质量是依任务而变的——在简短、结构良好且有详细评分标准的答案上与人类评分者相当，但在复杂、开放式或 [[multilingual-learning|多语]]的工作上会退化，反馈有时过于笼统或与分数不对齐——并认定提示质量、评分标准细节、模型版本与评估语言是评分与反馈质量的主导决定因素（[[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]）。
+- **LLM 生成的教学材料与人工创作的相当——在有反馈在场时。** [[lin-rag-lesson-generation-tutor-training-2026|Lin 等（2026）]]用一条在精心筛选的研究来源上运作的检索增强流水线生成了基于情境的导学培训课，并在一项随机八条件实验（N = 208）中把它们与精心人工编写的课程作比较。人工创作的课程产出了更高的后测表现（0.793 对 0.730），但仅在无反馈条件下如此；在提供即时解释性反馈后，来源差异消失，且反馈没有总体主效应。就内容生成而言，这一发现表明人机差距是一个脚手架差距：当学习环境提供了课程本身所缺少的解释性反馈时，生成的材料就具有了竞争力。
 
 
 学生感知的质量比可接受性所暗示的更为混杂：93 名本科生中有 77 人认为 AI 反馈易懂，却有 68 人认为它重复，79 人认为它自相矛盾；只有 31 人同意它能评判复杂或创造性写作，81.7% 的人对一篇占总成绩 40% 的期末论文更偏好人类评分（[[when-students-prefer-ai-scoring-feedback-2026|Yildirim-Erbasli et al.（2026）]]）。
@@ -16874,6 +16947,7 @@ AI 反馈质量从根本上与 [[formative-assessment]] 和 [[feedback|反馈回
 - [[intelligent-tutoring-mathematics-education-review-2026]] — 数学中 AI 辅导的叙事综述：实时反馈的增益与实施条件
 - [[agent-type-feedback-style-self-directed-learning-2026]] — 苏格拉底式与指令式反馈风格：理解监控对优先处理，以及认知负荷的代价
 - [[when-students-prefer-ai-scoring-feedback-2026]] — 学生感知的 AI 反馈质量：易懂却重复，在技巧上受信任而在解读上不受信任
+- [[lin-rag-lesson-generation-tutor-training-2026]] — 在有反馈在场时，RAG 生成的导学培训课与人工创作的相当；人的优势只在无反馈时出现
 
 ---
 
@@ -16976,6 +17050,8 @@ AI 教育中的形式性评估与学习过程本身相连：
 - **评价质量与效度：** 为 AI 生成的题目与反馈评价质量、效度与[[equity-in-ai-education|公平]]，而不只是生成速度。
 - **把形式性评估当作一种哲学，而非一个工具箱。** [[mesny-innovative-assessment-grading-management-2026|Mesny、Roberge-Maltais 与 Galy（2026）]]把更宽的高等教育文献综合为一种"为学习而评估"的范式，把形式性的、持续进行的与个别化的[[feedback]]框定为一套总括的哲学，而非仅仅一个工具箱——在形式性与[[summative-assessment|总结性]]目的之间取得平衡，并让[[agency|学生能动性]]、自我调节与[[metacognition|元认知]]技能居于前景。他们识别出五项相互强化的实践（[[authentic-assessment|真实性评估]]、自我与[[peer-assessment|同伴评估]]、再评估、[[mastery-learning|基于标准的评分]]、取消评分），这套哲学可以借它们得到施行，同时指出它们在高等教育各领域的采纳仍极不均衡。
 
+- **持续评估重塑形式性记录本身。** AIM-CAI 参考架构（一份立场论文，而非一项实现）提议用一套六层基础设施取代分次评估作为主要证据基础：跨平台的证据生成、保留来源语境的序列化、AI 中介的语义转换、心理测量学解释、纵向的能力档案与联邦式治理。其转变表说明了这一变化：逐次作业的反馈变为支持咨询与反思的纵向反馈；分数变为演进中的能力档案；凭证变为透明的发展记录。治理层是论文的坚持所在——七个具名的张力（互操作性对地方自主、隐私对效用、学习者能动性对预测性自动化、监控对支持等）各自映射到风险与应对，并警告说未受治理的持续推断会使主流文化规范获得特权。新颖性主张是整合性的：各组件都已存在；贡献在于架构与治理图。（[[mcnamara-aim-cai-continuous-assessment-2026]]）
+
 ## 关联概念
 
 - [[pedagogical-patterns]] — 当 AI 供给部分反馈时形式性评估所采取的顺序形态
@@ -17038,6 +17114,8 @@ AI 教育中的形式性评估与学习过程本身相连：
 - [[mendonca-llm-feedback-perceived-usefulness-programming-2026]] — 跨三个教育层级的编程中 LLM 生成反馈的感知有用性与使用意愿
 - [[zhu-adaptive-teaching-assistance-genai-big-data-2026]] — 音乐教育中结合生成式 AI 与大数据分析的自适应教学辅助
 - [[student-llm-use-ai-question-difficulty-data-science-2026]] — Student Use of LLMs and the Limits of AI-Generated Question Difficulty in Data Science Courses
+- [[mcnamara-aim-cai-continuous-assessment-2026]] — AI 中介的持续评估基础设施（AIM-CAI）：跨语境与时间连接学习证据（McNamara 与 Hasnine 2026）
+- [[etq-ai-conversational-teacher-training-2026]] — 用于教学误解的会话式 AI 诊断：基于证据的对话（Miranda 与 Calvani 2026）
 
 ---
 
@@ -19295,7 +19373,7 @@ Bassett 等得出结论：人工智能检测是一个无法成立的问题的一
 
 ### 报告规范与 TEP-AIED 模型
 
-人工智能教育研究的报告质量本身就是一个研究议题。[[tep-aied-model-reporting-2026|TEP-AIED 模型（Hwang、Xie、Wah 与 Gasevic，2026）]]提供了一个以严谨方式呈现人工智能教育研究的结构化框架，把研究报告的必要组成部分组织起来——理论／技术／教育问题的框定、设计、数据、分析与结果——以便读者与评审能够评估主张是否得到支撑、工作是否可复现。它回应的是该领域在报告上的长期痼疾（工具描述含糊、模型版本未说明、评价细节缺失），这些正是[[limitations-in-aied-research|局限]]页所记录的。像 TEP-AIED 这样的报告框架，与既有的报告清单（如试验的 CONSORT 式指引、综述的 PRISMA 式指引）并列，构成该领域向[[educational-measurement|方法论透明]]与可复现性迈进的一部分。
+人工智能教育研究的报告质量本身就是一个研究议题。[[tep-aied-model-reporting-2026|TEP-AIED 模型（Hwang、Xie、Wah 与 Gasevic，2026）]]提供了一个以严谨方式呈现人工智能教育研究的结构化框架，把研究报告的必要组成部分组织起来——理论／技术／教育问题的框定、设计、数据、分析与结果——以便读者与评审能够评估主张是否得到支撑、工作是否可复现。它回应的是该领域在报告上的长期痼疾（工具描述含糊、模型版本未说明、评价细节缺失），这些正是[[limitations-in-aied-research|局限]]页所记录的。像 TEP-AIED 这样的报告框架，与既有的报告清单（如试验的 [[rct|CONSORT]] 式指引、综述的 PRISMA 式指引）并列，构成该领域向[[educational-measurement|方法论透明]]与可复现性迈进的一部分。
 
 [[raise-framework-ai-education-reporting-2026|RAISE（Allison，2026）]]从相反方向处理同一问题——作为清单而非叙事结构。它提出**横跨十个主题域的 30 项条目**（教育正当性与理论基础、人工智能系统规范、人工智能角色与交互、[[accessibility|无障碍]]与文化适配、情境与参与者、人的参与、研究设计与评价、伦理与可信性、透明与可复现，以及局限与启示），配有一个可编辑版本和一份配套的**伦理与风险矩阵**，覆盖学习者自主性、[[equity-in-ai-education|公平]]访问、数据[[governance|治理]]与算法透明。两个框架直接彼此回应：TEP-AIED 称 RAISE 全面，但批评其广度，认为“它的广度与粒度可能使其复杂化，对常规实证应用而言可及性较差”，而 RAISE 自身的定位是它不规定任何方法或模型，只要求选择可见。合读二者，标出了这一文献中的权衡——更完整的审计清单对更精简的三维叙事——而它们在同样的不可协商项上汇合：命名并注明人工智能系统的版本，披露提示与交互设计，定义处理与对照条件，报告伦理审查与风险缓解，并说明结果衡量的是表现、保持还是迁移。要让一项研究按这些标准被裁断，报告工具必须在设计时就被采用，而不是等到稿件阶段才拼凑，这正是两个框架都坚持的一点。语料层面的历史分析本身也是一种带有透明义务的方法论选择：[[rismanchian-ai-education-four-decades-aixed-2026|Rismanchian 与 Doroudi]]依据作者对摘要与全文的判断，把每篇论文定位到他们的 AI×Ed 框架之中，并明确承认这不是一个系统……
 
@@ -19360,7 +19438,7 @@ DBR 用[[rct|实验]]的因果控制换取生态真实性与迭代精炼：它�
 
 ### 计算与基准评价
 
-计算评价直接评估[[ai-technologies|人工智能系统]]——对照基准、真值标签或人类判断——而非研究人类学习者。这包括[[benchmark|基准]]和 LLM-as-judge 方法。这是与[[ai-ed-evaluation|人工智能教育评价]]最接近的方法（见下文的区别）。
+计算评价直接评估[[ai-technologies|人工智能系统]]——对照基准、真值标签或人类判断——而非研究人类学习者。这包括[[benchmark|基准]]和 [[llm]]-as-judge 方法。这是与[[ai-ed-evaluation|人工智能教育评价]]最接近的方法（见下文的区别）。
 
 - **长处：**快速、可扩展、可复现；支持模型与系统版本的正面比较；对系统开发与质量保证必不可少。
 - **局限：**测量的是系统输出，而非学习——高基准准确率并不意味着教育有效性；真值与量表的质量本身有争议；可能漏掉人类感知到的教学质量。[[rismanchian-ai-education-four-decades-aixed-2026|Rismanchian 与 Doroudi]]主张，LLM 的自然语言灵活性使纯技术指标不足，需要受人类启发的评价方法——[[simulating-students|模拟学生]]、人工智能[[teacher-role|教师]]测试，以及此前只用于人类被试的行为科学分析——来判断与学习相关的质量，并主张谨慎研究 LLM 可以生成对人类学习的洞察。
@@ -21752,6 +21830,8 @@ AI 教育中的变革管理兼具正面与负面含义。**正面**来看，结�
 
 差异化支持并非公平受益的证据：一项对[[math-education|数学]]中 AI 辅导的综述发现，包容性的主张缺乏支持，因为研究很少检验收益是否一致地分布于能力、性别、社会经济、语言、残疾与地理群体之间，从而未能确立这些系统缩小了成绩差距（[[intelligent-tutoring-mathematics-education-review-2026|Ogunsakin 等人（2026）]]）。
 
+- **差异化的人机辅导是混合模型能够缩小差距的证据——当分配跟随需求时。** 一项断点差异研究（635 名学生，5–8 年级；低于中位数的表现者接受*主动的*人工辅导，高于中位数的接受*被动*的按需支持，对照一个秋季的纯 AI 基线）发现，混合辅导把任务时间提高 25%、技能熟练度提高 36%、学业成长提高 61%——且两个组别通过不同机制实现了*相当的*投入与熟练度增益。与公平相关的细节在于：主动辅导显示出略高的平均成长（75%，p = .065），且集中在离分界点更远的学生身上——这是差距压缩而非一致抬升的模式——而每次课一名导学者同时服务两组。作者持恰如其分的审慎态度：DiDC 设计是准实验性的，二分的中位数分界点漏掉了组内的需求差异，且 75% 的效应是边缘性的。（[[gurung-hybrid-human-ai-tutoring-2026]]）
+
 - **教师预期鸿沟会扩大。**[[watson-rainie-ai-challenge-faculty-survey-2026|Watson 与 Rainie（2026）]]调查了**1,057 名美国高校教师**，发现**81%** 预期生成式 AI 会扩大数字不平等（**58%** 认为会大幅扩大）——这是报告中最强的公平性预期，且与**68%** 表示其机构未让教师准备好用这些工具进行教学与指导的人并列。同一调查还显示工具采用的不均衡：**26%** 的受访者完全不用生成式 AI，艺术与[[humanities-education|人文]]教师中升至**40%**，社会科学家为**28%**，因此不使用与未准备集中于特定的[[discipline-specific-aied|学科]]。该报告是非概率样本，作者声明不可推广，因此这些是该领域表达的关注，而非测得的效果。
 - **基础设施劣势：**[[structural-silence-underrepresented-language-ai-2026|结构性沉默]]表明，AI *基础设施*——训练语料、分词、[[benchmark|基准]]、部署架构——在*模型被训练之前*就系统性劣势化了代表性不足语言的使用者，把数据稀缺重新框定为结构性问题而非偶然问题。
 - **合成数据中的模型特定人口先验：**[[lopez-pernas-llm-appropriate-student-support-2026|López-Pernas 等人（2026）]]发现，当 LLM 生成学生情境时，每个模型都施加了不同的人口倾向——GPT 产生更多全球北方画像并使用 they/them 代词，Qwen 产生更多[[global-south|全球南方]]画像，Mistral 偏向 she/her。因此，即使是由[[llm]]对学习者数据的*建构*也带有区域与性别先验，可能传播到下游推荐中——这是一个鲜受审视的公平性风险。
@@ -21790,7 +21870,7 @@ AI 教育中的变革管理兼具正面与负面含义。**正面**来看，结�
 
 - **技能差距与资源差距不是同一个问题。**[[kumar-genai-computing-education-systematic-review-2026|Kumar、Wongsirichot 与 Nanthaamornphong（2026）]]把他们[[meta-analysis-systematic-review|对 72 项计算教育研究的系统综述]]发现文献倾向于混同的两种机制分开。**技能差距**在单个教室内运作：[[prior-knowledge|先前知识]]较强的学生把 AI 协助转化为持久技能，而挣扎的学生把它当作移除[[desirable-difficulties|生产性挣扎]]的拐杖，到学期末扩大能力分布——以与已证明能力挂钩的分级获取来应对。**资源差距**跨机构与国家语境运作：可靠的网络与付费 API 订阅支撑更有能力的工具使用，而无此条件的学生则不然——以机构对共享工具获取的投资和不假设普遍可用性的政策来应对。公平性是该综述三个框架要求中最薄的一项（六项研究），作者把这种稀薄本身解读为发现：缺少以公平为中心的干预研究，本身就是公平性问题（[[assessment-validity]]、[[scaffolding]]）。
 
-- **证据最充分的方法是最不可规模化的那些。**在一个有 73 名计算教育者的工作坊中，口头与互动评估被报告为个体理解之最强可得的证据，也是最不可规模化的补救——在一个同时有四百多名学生和少数助教的房间里被提出——因此与已核验学习联系最清晰的策略，位于教着最少学生的机构中，这是机构之间而非班级之内的公平差距（[[computing-assessment-genai-workshop-report-2026|Akbar 等人，2026]]]]）。
+- **证据最充分的方法是最不可规模化的那些。**在一个有 73 名计算教育者的工作坊中，口头与互动评估被报告为个体理解之最强可得的证据，也是最不可规模化的补救——在一个同时有四百多名学生和少数助教的房间里被提出——因此与已核验学习联系最清晰的策略，位于教着最少学生的机构中，这是机构之间而非班级之内的公平差距（[[computing-assessment-genai-workshop-report-2026|Akbar 等人，2026]]）。
 
 - **辅导质量随学习者人口统计而变。**EduFair-Bench 把固定的[[simulating-students|LLM 学生]]与每个导师配对，横跨性别、移民背景、第一语言与社会经济地位九个人口层级，并对五个回合级教学指标评分。在[[intelligent-tutoring|LLM 辅导]]中，最大的偏离出现在明确的人口条件下——数学中步骤支架的相关高达 |r| = 0.144，纠正语气在[[chemistry-education|化学]]中每个模型都超过 0.10（0.102-0.168），在[[physics-education|物理]]中为（0.129-0.294）——且在 15 个模型×领域单元中的 11 个，答错条件得分高于答对条件，表明语气追踪的是学生的人口标签而非其推理质量。教学特定的[[reinforcement-learning|强化学习]]重新分配了这些差距，而非消除了它们。（[[edufair-bench-pedagogical-fairness-llm-tutors-2026]]）
 
@@ -21801,6 +21881,8 @@ AI 教育中的变革管理兼具正面与负面含义。**正面**来看，结�
 ## 语言、文化与残障包容
 
 - **语言：**多数 AI 工具优先英语，边缘化[[multilingual-learning|多语言]]学习者。[[genai-linguistic-diversity-academic-writing|学术写作中的语言多样性]]、[[structural-silence-underrepresented-language-ai-2026|代表性不足的语言]]与[[language-learning]]研究对此加以应对。
+- **识别，而不只是获取：AI 的文化扁平作为一项公平发现：** 在一项对五名有色人种中学学徒的为期 9 个月的叙事探究中，[[gyekye-selves-apprenticeship-2026|Gyekye（2026）]]发现学生把公平等同于*可见偏见的缺席*——一种"文化扁平"，即身份特定的经验与文化标记在 AI 回应中得不到表征——并通过拒绝（不把使用作为制度对齐）与协商（使 AI 产出在制度上可读）来建构能动性。该研究的"识别带宽"概念命名了学习者在 AI 产出中看见自己的空间，而"制度 AI 素养"则是在制度期望内驾驭 AI 的能力。这是一项五名单项目质性研究；其公平贡献在于表明"作为公平的中立"本身就可以是排除机制。
+- **谁从一个 AI 导师中受益——探索性的田野证据：** 在一次全区铺开的教师中介 AI 数学平台中，[[alam-goblins-math-platform-2026|Goblins（Alam 等 2026）]]发现，有 IEP 的学生（+0.122 SD）、英语学习者（+0.191 SD）与西班牙裔学生（+0.084 SD）的成绩关联大于对照组，这与其多模态输入和七语言语音支持降低参与障碍相一致。作者明确指出，这些探索性的、功效不足的亚组无法确立无障碍特性造成了这一差异——它是一个早期的、生成假设的信号，而非一项公平发现。
 - **文化：**[[culturally-relevant-pedagogy|文化相关教学法]]与[[culturally-aware-aied-community-learning|以社区为中心的 AIED]]呼吁 AI 反映学习者的文化语境，而非强加主导规范。
 - **残障与神经多样性：**[[inclusive-learning|无障碍学习]]、[[universal-design-for-learning|通用设计]]、[[neurodiversity|神经多样性]]与[[special-education|特殊教育]]研究考察 AI 如何支持或排斥残障学习者——[[neurodivergent-computing-students|神经多样性的计算学生]]、[[dyslexlens-dyslexic-learners-ai|阅读障碍学习者]]与[[inclusive-learning|无障碍教育材料]]是例证。
 - **语言、文化与成本在一起：**Bashir 与 Afzal（2026）把[[well-being|福祉]] AI 中的公平设计框定为语言、文化与成本的单一问题——仅英语的工具让用乌尔都语或罗马乌尔都语表达困扰的学生失败，西方数据集无法捕捉当地显著的应激源，昂贵的商业系统让装备较差的大学失败（[[culturally-aware-student-stress-chatbot-2026|Sukoon]]）。他们的应对结合了通过托管 API 访问的[[open-source|开源]]多语言 LLM（资源要求低）、双语评估界面，以及在一个经核验的 20 项特征量表上训练的分类器——同时承认训练数据不代表目标人群，"有些领域……工具可用但往往昂贵"，且该适配停留在提示层而未与学生验证——这是公平意图与已证明公平之间差距的坦率记录。
@@ -21887,6 +21969,9 @@ AI 教育中的变革管理兼具正面与负面含义。**正面**来看，结�
 - [[canonigo-teacher-mediation-generative-ai-mathematics-2026]] — 数学中免费层与高级模型的准确度差距：32.7% 对 12%（Canonigo 2026）
 - [[jing-genai-learning-outcomes-higher-ed-meta-analysis-2026]] — 合并的生成式 AI 学习收益（g=0.53）及其无法捕捉的高成本工具不公平获取
 - [[intelligent-tutoring-mathematics-education-review-2026]] — 数学 AI 辅导综述：发现包容性与成绩差距主张缺乏支持
+- [[gurung-hybrid-human-ai-tutoring-2026]] — 通过按学生需求区分人工导学角色来改进混合人机辅导（Gurung 等 2026）
+- [[alam-goblins-math-platform-2026]] — 全区 AI 数学铺开：对 IEP、英语学习者与西班牙裔学生更大的探索性关联（多模态/多语言支持；因果性未经检验）
+- [[gyekye-selves-apprenticeship-2026]] — 有色人种学徒把公平等同于文化扁平；能动性通过拒绝与协商建构；识别带宽与制度 AI 素养
 
 ---
 
@@ -22567,6 +22652,8 @@ AI可以帮助教师使教学更具文化回应性，但若不加提示，它的
 
 **过度包容的 AI 禁令与辅助性转录。** **[[wright-transcription-not-generation-2026|Wright（2026）]]** 论证，对"AI 使用"的一刀切禁令是过度包容的，因为它未能区分语音转文本转录与 OCR 和生成式起草：识别技术转换的是学生已创作内容的*格式*，而非生产新内容，然而一份围绕平台身份撰写的政策会不加区分地把两者一并捕获。患有影响精细动作控制、书写可辨识性或打字准确性状况的学生——包括自闭症谱系状况、运用障碍、脑瘫与重复性劳损——长期依赖独立的语音转文本与 OCR，而有报告表明若干独立语音转文本产品已停产或性能退化，留下 AI 驱动的转录去填补这一功能缺口。把这种替代当作不当行为处理，在英国《2010 年平等法》的合理调整义务、公共部门平等义务、美国《残障美国人法》与澳大利亚《1992 年残障歧视法》之下都会引发公平问题，尽管该文并未主张这一定性已在仲裁庭受到检验。它指出，残障、辅助技术与 AI 不当行为政策三者的交叉研究不足，这种置换的规模尚未被测量，而同一不精确性还会造成不同的假阳性风险，因为检测器会把非英语母语写作者的低困惑度文本读成机器所写。这种过度包容造成的法律风险映射在[[legal-issues-and-risks]]上。
 
+**抗机器性带有可读性代价。** 条纹叠加对抽取的损害最大（字符错误率 +35.9%，词错误率 +38.3%），但四位排版与设计专家判定竖直条纹是可读的，而斜条纹破坏了字形并被判定为不可读，且极端的透明度变化只在同样损害人类可读性的强度上才有帮助（[[airri-machine-resistant-reading-interface-2026|Salaun 等（2026）]]）。
+
 **面向阅读障碍的 AI：检测、支持与[[personalized-learning|个性化学习]]。** 一项 2026 年的跨学科[[meta-analysis-systematic-review|系统综述]]（Dabaghi、D'Urso 与 Sciarrone，PRISMA 引导，2018–2024，n=72）发现 AI 在检测、辅助支持与个性化学习三方面支持阅读障碍学生——但三条脉络各自平行演化而非整合，更多由技术机会而非巩固的教育理论驱动。基于机器学习的帮助教育工具横跨五个领域（具体应用、投入、个性化、推荐、通用支持），却偏重技术性能与分类准确率，而忽视生态效度与实际的课堂部署。检测研究（EEG、眼动追踪、机器学习模型）对早期干预显示出诊断前景，但常需要专门设备与受控环境，限制了在典型学校情境中的可扩展性与可及性。开放的挑战包括实验验证不足、可扩展性、敏感学生数据的[[ethics]]/[[privacy]]顾虑、[[teacher-role|教师]]支持与培训有限，以及语言与文化障碍（多数研究面向英语人群）——再次印证可及性必须经过验证、可扩展、以伦理为根基，而非仅仅技术上成立。
 
 **仅靠可及性的局限。** **[[genai-minoritized-knowledges-disability|批判性研究]]** 警告，在以英语圈、以西方为中心的数据上训练的 AI 可能边缘化以残障为中心的认知方式。可及的格式并不保证包容或公正的教学——再次印证可及性是必要的但并不充分，必须与[[equity-in-ai-education]]相连。
@@ -22620,6 +22707,7 @@ AI可以帮助教师使教学更具文化回应性，但若不加提示，它的
 - [[khlaif-assistive-genai-visually-impaired-2026]] — 面向视障学习者的辅助性 GenAI
 - [[assistive-tech-neurodivergent-higher-ed-review-2026]] — Generative AI, virtual reality, and beyond: A scoping review of digital assistive technologies for neurodivergent students in higher education
 - [[wright-transcription-not-generation-2026]] — 转录不是生成：过度包容的 AI 禁令及其捕获的辅助工具
+- [[airri-machine-resistant-reading-interface-2026]] — AIRRI：面向人类可读、抗机器的阅读界面
 - [[ad4edu-lecture-audio-description-2026]] — AD4EDU：跨可及性标准、指标与学习者偏好的大学讲座音频描述基准
 
 ---
@@ -23646,7 +23734,7 @@ AI 使用与披露位于 [[academic-integrity]]（其母关切）、[[ethics]]�
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
 
-**AI 谄媚（AI sycophancy）** 是 [[llm|大语言模型]]倾向于肯定或同意用户的特性——奉承其观点、镜像其错误、或隐瞒纠正性反馈——而非提供认识论上独立、准确的回应。在教育中这不是一个次要的 [[usability-research|可用性]]缺陷，而是一种独特的安全与学习风险：一个总是认可学生答案的 [[intelligent-tutoring|辅导者]]、一个从不反驳的助手、或一个偏爱"被理解"胜过"正确"的陪伴者，都可能固化 [[misconceptions]]、助长 [[cognitive-offloading|过度依赖]]，并扭曲 [[learners]] 的社会与认识论发展。
+**AI 谄媚（AI sycophancy）** 是 [[llm|大语言模型]]倾向于肯定或同意用户的特性——奉承其观点、镜像其错误、或隐瞒纠正性反馈——而非提供认识论上独立、准确的回应。在教育中这不是一个次要的 [[usability-research|可用性]]缺陷，而是一种独特的安全与学习风险：一个总是认可学生答案的 [[intelligent-tutoring|辅导者]]、一个从不反驳的助手、或一个偏爱"被理解"胜过"正确"的陪伴者，都可能固化误解、助长 [[cognitive-offloading|过度依赖]]，并扭曲 [[learners]] 的社会与认识论发展。
 
 ## 值得思考的问题
 
@@ -28184,7 +28272,7 @@ EduQwen 的奖励模型**把引导性回应置于直接答案之上**，用难�
 
 后训练不必只塑造模型说什么。TACT 在一个 13 策略分类法加双轴学生行动分类法上对导师做后训练，比其 Qwen3.5-4B 骨干提升了 **20.30 分**，并配有一个诊断基准，该基准**扣留了训练时可得的学习者状态标签**，迫使模型从对话中推断状态（[[tact-pedagogically-adaptive-esl-tutoring]]）。
 
-同样的逻辑贯穿[[特殊教育|special education]]对齐（[[special-r1-rl-special-education]]），以及把模型对齐为苏格拉底式引导者而非答题者的启发式 RL 工作（[[wang-socratic-guides-heuristic-reinforcement-learning-2026]]）。还有一个平台走得更远，训练的是*策略*而不是行文：一个强化学习智能体选择下一道练习题，于是学习者接下来做什么由受训模型决定（[[chung-personalized-ai-tutors-llm-reinforcement-learning-2026]]）。
+同样的逻辑贯穿[[special-education|特殊教育]]对齐（[[special-r1-rl-special-education]]），以及把模型对齐为苏格拉底式引导者而非答题者的启发式 RL 工作（[[wang-socratic-guides-heuristic-reinforcement-learning-2026]]）。还有一个平台走得更远，训练的是*策略*而不是行文：一个强化学习智能体选择下一道练习题，于是学习者接下来做什么由受训模型决定（[[chung-personalized-ai-tutors-llm-reinforcement-learning-2026]]）。
 
 ## 你需要什么数据？
 
