@@ -1,7 +1,7 @@
 ---
 title: Physics Education
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-16T08:47:09-04:00"
+updated: "2026-10-21T12:05:00-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [socratic-method]
@@ -40,6 +40,8 @@ Physics education [[research-methods-aied|research]] has become a proving ground
 Problem posing turns the learner into the problem author: 76% of 49 physics students perceived a positive change in their GenAI interactions after prompt-engineering training, novices benefiting most, and about 68% viewed the technique positively as self-study ([[genai-assisted-problem-posing-physics-2026|Dawson & Rebello (2026)]]).
 
 **Assessment and computational thinking** examines how AI can evaluate physics learning. **[[llm-computational-thinking-physics-2026|Savage et al.]]** used LLMs to assess [[computational-thinking|computational thinking]] growth in introductory physics, finding LLMs can scale CT assessment but struggle with complex constructs like Systems Thinking. **[[ai-scoring-language-bias-physics|Feser & Tschisgale]]** demonstrated that AI scoring systematically underestimates linguistically weak students' physics explanations — a finding that connects to [[assessment-validity]], [[bias-mitigation]], and [[equity-in-ai-education]].
+
+**An AI grader's disagreement can be a retrieval failure, not a reasoning gap.** In experimental physics laboratory reports a dropped sign or misread axis may never reach the model, so document conditions — high-resolution PDFs, editor-written equations — cap any score, and processing belongs behind teacher verification ([[ai-assisted-physics-lab-report-assessment-2026|Abreu et al. (2026)]]).
 
 **Psychometric infrastructure for diagnostic assessment.** [[mechanics-cognitive-diagnostic-physics-2026|Le et al. (2026)]] invert the usual AI-in-physics question: rather than asking whether a model can solve or grade physics, they ask whether the field's own research-based [[assessment|assessments]] can be made to diagnose it. Mapping FCI, FMCE and EMCS items onto 14 fine-grained learning objectives and fitting a DINA cognitive-diagnostic model to 24,394 posttest responses from 807 courses at 79 institutions via the LASSO platform, they built the Mechanics [[cognitive-diagnosis|Cognitive Diagnostic]] — reported as the first cognitive diagnostic computerized adaptive test in physics. The FCI and EMCS fit well (RMSEA² = 0.033 and 0.022) while the FMCE fit only marginally (0.065), and the authors trace that misfit to instrument design rather than modeling: 42 of 43 scored FMCE items share scenario stems in chained sets, creating the local item dependence that DINA's conditional-independence assumption forbids (the FCI blocks 13 of 30 items; the EMCS none). Classification accuracy met the low-stakes [[formative-assessment|formative]] benchmark for 19 of 22 objective–assessment combinations; the three failures were EMCS energy objectives whose items overlap by roughly 70 percent, so mastery of one cannot be separated from the others. The significance for physics teaching is that instruments courses already administer can be repurposed to deliver actionable, objective-level feedback *during* instruction rather than a retrospective posttest score — provided the diagnostic claims are pitched at the resolution the item bank can actually support.
 
@@ -129,7 +131,6 @@ Physics education sits within the broader [[stem-education]] domain but has dist
 - [[ai-particle-physics-education-redesign-2026]] — AI in Particle Physics Education: Research Problems and Foundational Skills
 - [[mechanics-cognitive-diagnostic-physics-2026]] — Mechanics Cognitive Diagnostic: turning the FCI, FMCE and EMCS into a 14-objective cognitive diagnostic (Le et al. 2026)
 - [[physics-students-llm-perceptions-instruction-2026]] — Skepticism vs. Convenience: Physics Students' Perceptions and Use of Large Language Models Before and After Instruction
-- [[context-prompts-physics-assignments-2026]] — Artificial Intelligence Driven Physics Assignments using Context Prompts
 - [[ai-assisted-physics-lab-report-assessment-2026]] — AI-Assisted Assessment of Experimental Physics Laboratory Reports: Potential, Limitations, and Support for Teaching Practice
 - [[physicsmate-bengali-secondary-physics-benchmark-2026]] — PhysicsMate: 1,834 Bengali secondary-physics QA pairs mapped to a 1,760-node curriculum graph, with small-model adaptation gains
 - [[ai-university-physics-education-review-2026]] — Artificial intelligence in university physics education: a systematic review of empirical studies

@@ -1,7 +1,7 @@
 ---
 title: STEM Education
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-16T08:47:09-04:00"
+updated: "2026-10-21T12:05:00-04:00"
 type: concept
 foundations: [computational-thinking]
 technology: [intelligent-tutoring]
@@ -33,6 +33,7 @@ reviewed_by: [editor]
 - **Engineering:** [[concept-catalyst-engineering-scaffolds|Engineering scaffolds]], [[structured-ai-demonstrations-engineering-mechanics|mechanics demonstrations]], and [[ai-engineering-education-balancing-act|curriculum balancing]] bring AI to [[engineering-education|engineering education]].
 - **Scaffolding undergraduate research:** [[ai-information-extraction-undergraduate-thesis-2026|An and colleagues (2026)]] pilot an AI system that converts research publications into structured, comparable datasets for undergraduate thesis completion across four STEM schools. Results (20 students, 80 documents) showed >90% extraction of experimental parameters, ~65% reduction in literature-review time, and a 50% increase in students' ability to identify influential experimental variables — evidence of how [[generative-ai|AI]]-scaffolded [[higher-ed|undergraduate research]] can strengthen research literacy and epistemic cognition in STEM education.
 - **Simulation-supported instruction:** In drone-based STEM education, [[teacher-role|teacher]]-AI co-designed [[simulation]] scaffolds were evaluated against an identical hands-on [[curriculum-design|curriculum]] with 30 secondary students, testing whether simulation-supported instruction yields superior [[learning-gains|learning outcomes]]. GenAI's role was to accelerate content creation while teacher involvement preserved pedagogical validity and contextual relevance.
+- **Outcomes favored the scaffolded group.** The simulation group outgained the hands-on group on curriculum-aligned STEM knowledge (M = 3.00 versus 2.06; t(28) = 2.23, p = .034, d = 0.82) and on 21st-century competencies (d = 1.52) ([[simulation-assisted-drone-learning-stem-2026|Yeung et al. (2026)]]).
 - **Digital twins in STEM: prototypes outrun measured learning.** A PRISMA review of 11 higher-education studies found every one demonstrated a working, hardware-synchronized prototype, yet only three (27.3%) reported statistically significant learning gains, with development complexity and reduced social interaction the recurring barriers ([[caee-digital-twins-stem-education-systematic-review-2026|Pelayo-González et al., 2026]]).
 - **AI-assisted planning in STEAM arts education:** An experimental study of children's STEAM arts teachers ([[luo-tahir-chatgpt-steam-lesson-planning-2026|Luo and Tahir 2025]]) found ChatGPT-assisted lesson plans outperformed teacher-generated ones on expert-rated quality (median 20.5 vs. 17.6, p = .002, large effect, six professor raters), with teachers reporting gains in efficiency and interdisciplinary integration (61% rated 4+). The result came through the teacher's delegation method — most usefully by having ChatGPT fill content gaps in a self-outlined lesson — reinforcing the recurring point that AI lifts STEM/STEAM work when the teacher structures the task and critically evaluates output rather than handing the whole plan to the model.
 
@@ -99,19 +100,16 @@ A concentrated batch of 2026 *International Journal of STEM Education* studies s
 - [[chen-preservice-teachers-chatgpt-lpa-2026]] — Pre-service teacher ChatGPT acceptance profiles
 - [[zhang-ct-ai-training-test-2026]] — Computational Thinking in AI Training Test (CTAT)
 - [[liu-tool-tutor-crutch-programming-2026]] — Tool, tutor, or crutch: grounded theory of AI-assisted programming
-- [[workforce-readiness-smart-manufacturing-wrl-2026]] — Workforce Readiness Level framework for smart manufacturing in the AI era
 - [[becker-chatgpt-typology-physics-2026]]
 - [[ai-powered-personalized-learning-elementary-fractions-2026]]
 - [[concept-catalyst-engineering-scaffolds]]
 - [[generative-ai-reduced-study-time-math]]
 - [[avraamidou-ai-colonization-science-education]]
 - [[ai-science-chemistry-education-systematic-review-2025]] — Systematic review of AI in science/chemistry education
-- [[astor-computational-thinking-meta-review-2026]] — CT as a 21st-century skill across STEM
 - [[ai-information-extraction-undergraduate-thesis-2026]] — AI-powered information extraction supporting undergraduate thesis and research-based learning (An et al. 2026)
 - [[simulation-assisted-drone-learning-stem-2026]] — Simulation-assisted drone learning with teacher-AI co-designed scaffolds
 - [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
 - [[ai-supported-instruction-stem-meta-analysis-2026]] — Pooled effect of AI-supported STEM instruction across 35 studies, with the largest gains in high school (Doğan et al. 2026)
-- [[hallstrom-ai-literacy-stem-education-frontiers-2026]] — Synthesis of the ten most-cited studies of AI literacy in STEM education (Hallström et al. 2026)
 - [[caee-digital-twins-stem-education-systematic-review-2026]] — Digital twins in STEM: every reviewed study shipped a working prototype, few measured learning
 - [[structured-genai-training-physics-problem-solving-rct-2026]] — A 45-minute prompting and error-checking session raised physics posttest scores (*d* = 0.814)
 - [[intelligent-tutoring-mathematics-education-review-2026]] — Mathematics ITS evidence is bounded and conditional

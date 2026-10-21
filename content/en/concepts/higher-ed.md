@@ -2,7 +2,7 @@
 connected_resources: [pressing-prompts, teacherserver]
 title: Higher Education
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-16T08:47:09-04:00"
+updated: "2026-10-21T12:05:00-04:00"
 type: concept
 foundations: [academic-integrity, ai-education, educational-development]
 technology: [generative-ai]
@@ -61,6 +61,8 @@ Professional-degree programs hold most of the graduate-level evidence, and it is
 ### Faculty and teaching
 
 [[educational-development]] research examines how instructors adopt, resist, or adapt to AI. [[teacher-ai-adoption-confidence|Teacher AI adoption studies]] identify confidence, support, and attitude as key predictors. [[ai-assistance-discretionary-feedback|AI-assisted discretionary feedback]] research explores whether AI increases instructor [[ai-feedback-quality|feedback quality]] and quantity, and [[luo-eaton-ai-student-feedback-ethics-2026|ethics research]] weighs whether teachers should use AI for feedback at all. [[enright-staff-perspectives-genai-2026|Staff-perspectives research]] and [[stenalt-good-education-teacher-ai-conceptions-2026|phenomenographic studies of teacher conceptions]] probe how educators understand their changing role. In large-class settings, AI can now shoulder a growing share of the feedback load: a semester-long field experiment in undergraduate macroeconomics tutorials ([[gpt4-feedback-student-activation-2026|Geschwind et al., 2026]]) found that individual GPT-4 feedback sustained the highest participation across eight open-ended tasks and produced the largest content [[learning-gains|learning gains]], positioning AI feedback as a scalable complement to lecturer feedback and a substitute for unreliable [[peer-assessment|peer feedback]]. A complementary route for large undergrad [[stem-education|STEM]] classes is a diagnostic teaching-assistant system: [[yin-arthur-ai-teaching-assistant-engineering-econ-2026|Arthur (Yin et al. 2026)]] uses a per-question [[machine-learning|ML]] backbone to give real-time, personalized feedback on Engineering Economics Calculated Formula Questions — a domain where handwritten solutions had previously blocked AI support — via a dialogue-based, question-bank web interface that balances feedback accuracy against collection efficiency. [[farazouli-navigating-uncertainty-teachers-genai-2026|Farazouli et al. (2026)]] capture the *emotional* dimension of that change: 24 Swedish university teachers experienced GAI's emergence as alarming and overwhelming, reporting a "state of vulnerability" (low confidence, insecurity, fear of "not being ahead of students") and feeling "stuck" between utopian and dystopian discourses — while rethinking [[assessment]] and re-evaluating their priorities toward [[critical-thinking|critical thinking]] and ethical GAI use.
+
+One hour of AI tutoring was statistically equivalent to live expert human tutoring on GRE learning gains across 2,469 sessions with 2,383 adults, and one model reached parity at 918× lower cost per percentage point ([[studentbench-ai-human-tutoring-gre-2026|Northcutt et al. (2026)]]).
 
 ### Assessment and integrity
 
@@ -135,7 +137,6 @@ A third route hardens the assignment itself: rendering prompts as perturbed imag
 - [[engagement-intensity-learner-modeling]] — Engagement intensity as a learner-modeling signal for adaptive AI ethics instruction (Oh, Talton & Bui 2026)
 - [[ai-assisted-writing-research-teams]] — AI-assisted writing shifts research teams toward smaller, junior-leaner, highly cited collaborations (Wang et al. 2026)
 - [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: AI and human tutoring yield equivalent GRE learning gains
-- [[nlp-student-evaluation-teaching-scoping-review-2026]] — From Sentiment Classification to Actionable and Responsible Feedback: A Scoping Review and Evidence Map of NLP in Student Evaluation of Teaching, 2015–2026
 - [[sun-student-genai-entanglement-literacy-demands-2026]] — Assistant and Enabler forms dominate higher-education GenAI research; the marginal entanglement types stay rare for institutional rather than technical reasons (Sun, Dohn & Rehm 2026)
 - [[students-at-stake-ai-deployment-risks-2026]] — Student-side map of AI deployment across admissions, financial aid, student services and education delivery, with a four-question procurement screen (Student Defense 2026)
 - [[airri-machine-resistant-reading-interface-2026]] — Perturbed-image assignments raised LLM completion failure from 7.4% to 55.6%: content design as an integrity route

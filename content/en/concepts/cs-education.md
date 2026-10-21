@@ -2,7 +2,7 @@
 connected_resources: [liascript]
 title: CS Education
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-14T14:35:00-04:00"
+updated: "2026-10-21T12:05:00-04:00"
 type: concept
 foundations: [ai-literacy, computational-thinking]
 technology: [generative-ai, llm, prompt-engineering]
@@ -178,7 +178,6 @@ CS education connects to [[computational-thinking]], [[stem-education]], [[autom
 - [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly embodied block programming
 - [[edusim-llm-robotic-simulation-education-2026]] — EduSim-LLM natural-language robot control
 - [[llm-computational-thinking-physics-2026]] — LLM support for computational thinking in physics
-- [[studychat-student-dialogues-chatgpt-ai-course-2026]] — The StudyChat dataset of student–LLM dialogues in an AI course
 - [[student-ai-inquiry-types-cs2-2026]] — Analysis of Types of Inquiries in Student-AI Interaction
 - [[chatgpt-qiskit-homework-autogradable-2026]] — ChatGPT solves Qiskit homework; autogradable design
 - [[llm-adaptive-programming-error-explanations-2026]] — LLM adaptive explanations of programming errors

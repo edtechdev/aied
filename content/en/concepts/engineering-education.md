@@ -1,7 +1,7 @@
 ---
 title: Engineering Education
 created: "2026-08-17T10:45:00-04:00"
-updated: "2026-09-30T09:59:35-04:00"
+updated: "2026-10-21T12:05:00-04:00"
 type: concept
 foundations: [ai-literacy, educational-development]
 assessment: [assessment]
@@ -57,6 +57,8 @@ Engineering education sits within [[stem-education]] and connects strongly to [[
 
 The knowledge base's engineering education coverage is still developing. Sub-areas that would benefit from further articles include **[[discipline-specific-aied|discipline-specific]] engineering [[pedagogy|pedagogies]]** (mechanical, civil, chemical, electrical, software, and bioengineering education), **[[design-education|design]] and maker education**, **capstone and [[project-based-learning|project-based learning]]**, and **engineering ethics education** — where AI's role is likely to be especially consequential.
 
+That gap is no longer empty in one area: a three-year biomedical engineering program ran generative AI as a guarded knowledge-summarization and coding scaffold inside a four-module PBL sequence — approved tools, no patient data, disclosure logs — and reported A-rates of 66.4% against 39.1% for pre-AI cohorts ([[pbl-biomedical-engineering-genai-2026|Nnamdi et al. (2026)]]).
+
 ## Implications for engineering instructors
 
 - **Build a shared, accurate language about AI.** [[engineering-faculty-metaphors-ai-understanding-2026|Faculty metaphor research]] finds instructors hold fundamentally different mental models (agent vs. tool); align departmental understanding before making policy.
@@ -93,7 +95,6 @@ The knowledge base's engineering education coverage is still developing. Sub-are
 - [[multimodal-embodied-cognition-oral-explanations-2026]] — A Multimodal Framework for Embodied Cognition in Oral Explanations
 - [[ai-engineering-computing-workforce-grey-literature-2026]] — AI and the Future of the Engineering and Computing Workforce
 - [[ai-engineering-education-balancing-act]] — Using AI in Engineering Education: A Balancing Act
-- [[ai-learning-tools-engineering-education-needs]] — Designing Needs- and Attention-Aware AI Learning Tools for Engineering Education
 - [[structured-ai-demonstrations-engineering-mechanics]] — Structured AI Demonstrations in Engineering Mechanics
 - [[isaza-chatgpt-engineering-prompting-2026]] — ChatGPT in engineering education
 - [[liu-ai-sustainable-engineering-education-2026]] — AI-SEE framework for sustainable engineering education (Liu et al. 2026)
