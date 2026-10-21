@@ -15,9 +15,17 @@ no silent gaps. It exits 0 unless --strict is given, because commits made before
 the convention existed cannot be retrofitted.
 
 Usage:
-  python3 tooling/scripts/check-ai-disclosure-trailers.py                 # last 20 commits
+  python3 tooling/scripts/check-ai-disclosure-trailers.py                 # every commit since the convention date
   python3 tooling/scripts/check-ai-disclosure-trailers.py --range origin/main..HEAD
+  python3 tooling/scripts/check-ai-disclosure-trailers.py --limit 20      # a window, for a quick look
   python3 tooling/scripts/check-ai-disclosure-trailers.py --strict        # fail on gaps
+
+The default is deliberately unbounded. A fixed window ("the last 20 commits all carry
+both trailers") describes the window, not the repository, and the undiscovered remainder
+is exactly where a gap sits: it read 20/20 green while the repository stood at 449/543,
+with 94 commits since the convention date carrying no trailers at all. Walking the full
+history costs about 20 ms here, and CONVENTION_START below is what bounds the work, not a
+count.
 """
 from __future__ import annotations
 
@@ -42,7 +50,9 @@ def git(*args: str) -> str:
 def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument('--range', default='', help='git range, e.g. origin/main..HEAD')
-    ap.add_argument('--limit', type=int, default=20, help='how many commits when no range is given')
+    ap.add_argument('--limit', type=int, default=0,
+                    help='how many commits when no range is given; 0 (the default) means '
+                         'every commit, with CONVENTION_START as the floor')
     ap.add_argument('--strict', action='store_true', help='exit 1 when a commit has no trailers')
     args = ap.parse_args()
 
@@ -50,7 +60,7 @@ def main() -> int:
         cfg = json.load(fh)
     started = CONVENTION_START
 
-    rev = args.range or f'-{args.limit}'
+    rev = args.range or (f'-{args.limit}' if args.limit > 0 else 'HEAD')
     # Records are separated by \x1e and fields by \x1f, because a trailer with more
     # than one value (two models in one commit) puts newlines inside the field.
     raw = git('log', rev, '--format=%H%x1f%ad%x1f%s%x1fM=[%(trailers:key=AI-Model,valueonly)]'
