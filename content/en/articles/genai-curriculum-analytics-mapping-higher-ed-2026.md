@@ -1,7 +1,7 @@
 ---
 title: "Leveraging GenAI models for Curriculum Analytics: A Human-Centered Approach for Curriculum Mapping in Higher Education"
 created: "2026-10-21T13:48:12-04:00"
-updated: "2026-10-21T13:48:12-04:00"
+updated: "2026-10-21T13:54:03-04:00"
 type: article
 sources: ['raw/papers/10.1016_j.caeai.2026.100689.md']
 confidence: high
@@ -40,7 +40,7 @@ source_depth: full text
 
 ## Naming the model's errors, and what prompts cannot fix
 
-The study classifies its error patterns with an existing vocabulary for GenAI skill annotation, which separates the source of an error (systematic and task-inherent, or random and model-specific) from its type (boundary ambiguity, or conceptual misidentification). Self-Management over-identification is a model-side conceptual misidentification: an assessment that mentions deadlines is read as evidence of self-directed improvement. The same mechanism explains the overweighting of Written Communication, where any written output is taken to signal substantial writing demand. The omissions of International Perspective and Ethical Awareness are task-side conceptual misidentification — a property of constructs that are abstract and rarely stated in surface language even in curricula that plausibly develop them. Teamwork, Oral Communication and Problem-Solving fall into a third class, boundary ambiguity, where the deviation is one of degree and placement rather than of construct. The asymmetry matters, because the most frequently recorded issue categories, at 51.2% and 37.2% of reviewer comments, were the least responsive to prompting: structured reasoning narrowed model-specific gaps but did not resolve task-formulation ambiguity.
+The study classifies its error patterns with an existing vocabulary for GenAI skill annotation, which separates the source of an error (systematic and task-inherent, or random and model-specific) from its type (boundary ambiguity, or conceptual misidentification). Self-Management over-identification is a model-side conceptual misidentification: an assessment that mentions deadlines is read as evidence of [[self-regulated-learning|self-regulated learning]]. The same mechanism explains the overweighting of Written Communication, where any written output is taken to signal substantial writing demand. The omissions of International Perspective and Ethical Awareness are task-side conceptual misidentification — a property of constructs that are abstract and rarely stated in surface language even in curricula that plausibly develop them. Teamwork, Oral Communication and Problem-Solving fall into a third class, boundary ambiguity, where the deviation is one of degree and placement rather than of construct. The asymmetry matters, because the most frequently recorded issue categories, at 51.2% and 37.2% of reviewer comments, were the least responsive to prompting: structured reasoning narrowed model-specific gaps but did not resolve task-formulation ambiguity.
 
 ## The trade-off between defensible and transferable mappings
 
