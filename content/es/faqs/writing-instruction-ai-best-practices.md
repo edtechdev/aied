@@ -1,14 +1,15 @@
 ---
 title: "¿Cuáles son las mejores prácticas para la enseñanza de la escritura en el contexto de la IA?"
 created: "2026-09-22T18:32:58-04:00"
-updated: "2026-10-02T09:09:37-04:00"
+updated: "2026-10-22T07:34:46-04:00"
 connected_faqs: [ai-feedback-at-scale, redesign-assessment-ai-era, addressing-common-misconceptions-ai-education]
 foundations: [academic-integrity, cognitive-offloading]
 assessment: [ai-feedback-quality, assessment-validity, evaluative-judgment, feedback-literacy, peer-assessment]
 ethics: [ai-use-disclosure, multilingual-learning]
 weight: 80
+audience: [instructors, instructional designers]
 discipline: [engineering education, humanities education, writing education]
-source_updated: "2026-10-02T08:21:34-04:00"
+source_updated: "2026-10-21T14:32:00-04:00"
 translation_of: faqs/writing-instruction-ai-best-practices
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
@@ -20,8 +21,6 @@ ai_assist:
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
-
-# ¿Cuáles son las mejores prácticas para la enseñanza de la escritura en el contexto de la IA?
 
 Esta FAQ está escrita para el profesorado que tiene que decidir, curso a curso y tarea a tarea, qué debería poder hacer la IA en la escritura del estudiantado. Se basa en la base de conocimiento [[ai-education|IA en educación]], en especial en sus síntesis sobre [[writing-education|IA en la educación en escritura]], [[cognitive-offloading|carga cognitiva y delegación cognitiva]], [[ai-feedback-quality|calidad de la retroalimentación de IA]], [[feedback-literacy|alfabetización en retroalimentación]] y [[academic-integrity|integridad académica]].
 

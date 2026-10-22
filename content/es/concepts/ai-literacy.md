@@ -1,7 +1,7 @@
 ---
 title: Alfabetización en IA
 created: "2026-09-25T03:07:36-04:00"
-updated: "2026-10-09T16:20:00-04:00"
+updated: "2026-10-22T07:36:24-04:00"
 type: concept
 foundations: [academic-integrity, ai-education, ai-literacy, educational-development]
 technology: [generative-ai, llm]
@@ -11,7 +11,7 @@ connected_faqs: [incorporating-ai-literacy, ai-literacy-evidence, faculty-ai-com
 confidence: high
 connected_resources: [education-agent-skills, edugems, mglearn, onmicro-ai, playlab, pressing-prompts, student-guide-to-ai, vibes-diy]
 translation_of: concepts/ai-literacy
-source_updated: "2026-10-08T10:20:00-04:00"
+source_updated: "2026-10-16T07:28:51-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -138,6 +138,7 @@ Una línea distinta de la base de conocimiento trata la alfabetización en IA no
 - **«Resistir a la IA» como postura de alfabetización.** La alfabetización crítica en IA (CAIL) puede abarcar el hecho de *resistir a la IA*: rechazar la inevitabilidad y el solucionismo tecnológico del discurso dominante, y cultivar la agencia colectiva mediante pedagogías dialógicas y colaborativas.([[li-mroziak-reorienting-critical-ai-literacy]]) Esto sitúa la educación como un espacio donde las comunidades imaginan y construyen futuros alternativos, en lugar de limitarse a adaptarse a un orden tecnológico dado.
 - **Epistemologías comunitarias.** El aprendizaje comunitario sobre IA fundamenta el compromiso con la IA en las formas de conocer vividas y comunitarias de quien aprende, y redistribuye la autoridad epistémica de la IA mediante el ajuste epistémico, la redistribución de la autoridad y el discernimiento situado.([[ojeda-ramirez-community-based-ai-learning]])
 - **Marcos críticos y feministas.** La erudición crítica y feminista sostiene que la alfabetización en IA debería enmarcarse en pedagogías de la justicia, la resistencia y la [[sustainability|sostenibilidad]] cultural, y pregunta qué conocimiento produce la IA, quién se beneficia y quién responde cuando los sistemas fallan.([[avraamidou-ai-colonization-science-education]])
+- **El mandato de alfabetización puede ser en sí mismo disciplinante.** [[wang-jin-anthropocentrism-learnification-ai-education-2026|Wang y Jin (2026)]] sostienen que la exigencia de «aprender sobre la IA» trata un tipo de aprendizaje como natural y hace responsables de su propia marginación a quienes se niegan o a quienes sacarían la alfabetización en IA de los currículos de la primera infancia.
 - **Dispositivos curriculares situados.** La alfabetización en IA puede construirse mediante instrumentos de enseñanza [[situated-learning|situados]] y activos (por ejemplo, los Episodios de Aprendizaje Situado) que desarrollan competencias en IA a distintos niveles, en lugar de mediante instrucción abstracta.([[panciroli-ai-literacy-episodes-situated-learning]])
 - **La composición creativa como pedagogía de alfabetización crítica en IA.** En lugar de tratar la alfabetización en IA como conocimiento técnico o competencias individuales, se diseñan oportunidades para que quien aprende componga mensajes sobre la IA para audiencias reales: un producto [[multimodal]] como un anuncio de servicio público demuestra y comunica a la vez una competencia crítica. En el estudio de aula de [[burriss-multimodal-composition-critical-ai-literacy-2026|Burriss et al. (2026)]], 22 estudiantes de undécimo curso eligieron sus propios temas de [[ethics|ética]] de la IA y realizaron anuncios de servicio público en vídeo sobre la vigilancia escolar, el [[privacy|consentimiento informado]] y la acusación algorítmica; en las siete películas el daño surgió del entrelazamiento entre personas y máquinas y no de una herramienta malvada, las tramas seguían cerrándose en la esperanza y la [[agency|agencia]], y los autores sitúan la [[storytelling-in-education|narrativa]] y la defensa (resistentes a la evaluación tradicional) en el centro de una [[critical-pedagogy|pedagogía de alfabetización crítica en IA]] que pone en primer plano la [[learner-identity|identidad del estudiantado]], su elección y su voz.([[burriss-multimodal-composition-critical-ai-literacy-2026]])
 - **Competencia regulatoria, no aceptación.** Kim (2026) reformula la alfabetización en IA en la [[higher-ed|educación superior]] como *[[regulation|competencia regulatoria]]*: una práctica efectiva de verificar, revisar, adoptar selectivamente o rechazar los resultados de la IA durante el trabajo académico, que muestra que la capacidad evaluativa y la conciencia ética (y no la mera disposición a usar la IA) predicen un [[student-engagement|compromiso crítico]] activo.([[ai-anxiety-strategic-regulation-writing-2026]])
@@ -286,3 +287,4 @@ La alfabetización en IA es **de doble filo** en relación con la dependencia ex
 - [[mu-ai-competence-ethical-awareness-anxiety-2026]] — Elevar la dimensión ética de la alfabetización sin un marco de afrontamiento puede dejar al estudiantado más ansioso
 - [[bozkurt-3wai-literacy-scale-2026]] — Escala de autoinforme validada de 17 ítems con tres factores distintos de alfabetización en IA (Know What/How/Why); Know-How y Know-Why son los más acoplados (HTMT = 0.544)
 - [[hallstrom-ai-literacy-stem-education-frontiers-2026]] — Síntesis de los diez estudios más citados sobre alfabetización en IA en la educación STEM (Hallström et al. 2026)
+- [[wang-jin-anthropocentrism-learnification-ai-education-2026]] — La exigencia de aprender sobre la IA leída como discurso disciplinante (Wang y Jin, 2026)

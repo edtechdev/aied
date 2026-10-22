@@ -1,7 +1,7 @@
 ---
 title: Pensamiento computacional
 created: "2026-09-28T19:11:16-04:00"
-updated: "2026-09-30T09:59:35-04:00"
+updated: "2026-10-22T07:28:33-04:00"
 type: concept
 foundations: [ai-literacy]
 technology: [adaptive-learning, generative-ai, llm, prompt-engineering]
@@ -9,7 +9,7 @@ discipline: [cs education, stem education]
 level: [k 12]
 confidence: high
 translation_of: concepts/computational-thinking
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-15T10:00:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:

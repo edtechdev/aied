@@ -1,7 +1,7 @@
 ---
 title: Aprendizaje colaborativo
 created: "2026-09-28T21:06:00-04:00"
-updated: "2026-10-09T17:05:00-04:00"
+updated: "2026-10-22T07:31:04-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [collaborative-learning, scaffolding]
@@ -11,7 +11,7 @@ audience: [learners]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/collaborative-learning
-source_updated: "2026-10-07T15:40:00-04:00"
+source_updated: "2026-10-16T08:47:09-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -59,6 +59,8 @@ El respaldo de quien facilita es la palanca observada más fuerte sobre si el es
 **Modos de colaboración y la disyuntiva eficiencia–regulación.** La investigación empírica sobre estudiantes universitarios que colaboran con IA en la resolución de problemas complejos identifica tres modos distintos: *razonamiento delegado*, *interpretación concertada* y *elaboración delegada*. El modo más eficiente (razonamiento delegado) produce el mayor rendimiento en la tarea pero el menor compromiso autorregulador de quienes aprenden, mientras que el modo con mayor autorregulación (interpretación concertada) rinde peor en los resultados de la tarea.([[hao-human-ai-collaborative-problem-solving-cognition]]) Esto revela una tensión de diseño central: los entornos de aprendizaje colaborativo deben equilibrar la eficiencia del sistema distribuido de personas e IA con la profundidad del compromiso [[self-regulated-learning|regulador]] de quienes aprenden.
 
 El único contraste metaanalítico disponible para el trabajo colaborativo apoyado por IA se sitúa dentro de las intervenciones de ABP/ABPr apoyadas por IA generativa, donde la colaboración entre pares se agrupó en g = 0,885 frente a g = 0,416 para el trabajo individual, pero la diferencia solo alcanzó una tendencia marginal (QM = 3,675, p = .055) y el lado del trabajo individual se apoya en dos estudios, así que la evidencia agrupada de que la colaboración supera al trabajo en solitario con IA generativa es sugerente y no concluyente ([[chen-pbl-pjbl-genai-meta-analysis-2026|Chen et al. 2026]]).
+
+El mapeo a nivel de campo llega a la misma conclusión desde la dirección opuesta: un análisis BERTopic de 1.048 publicaciones sobre IA en el aprendizaje en línea de 2010 a 2023 encontró que el trabajo de orientación social sobre aprendizaje colaborativo apoyado por IA y desarrollo comunitario nunca emergió como tema dominante, lo que quienes firman el estudio atribuyen a un corpus centrado en la [[learning-analytics|analítica]] a nivel individual ([[chen-bertopic-ai-online-learning-research-topics-2026|Chen et al. (2026)]]).
 
 Una revisión de alcance de 18 estudios mapea la misma disyuntiva en el trabajo en grupo: la IA generativa apoyó el desarrollo del conocimiento, la generación de ideas y la eficiencia comunicativa, a la vez que reducía la demanda de interacción entre pares, negociación y construcción colectiva de sentido, y la evidencia aleatorizada encontró sugerencias de IA más innovadoras sin una ganancia significativa en la innovación global de quienes participaban ([[wei-perkins-genai-student-collaboration-scoping-2026|Wei y Perkins (2026)]]).
 
@@ -150,4 +152,5 @@ El aprendizaje colaborativo ocupa la cima del [[icap-framework|marco ICAP]] (int
 - [[hao-peer-exposure-bridging-social-capital-ai-summaries-2026]] — Diseño del aprendizaje impulsado por resúmenes generados por IA en foros de discusión en línea
 - [[chen-zou-genai-group-assessment-agency-2026]] — La IA generativa como infraestructura de coordinación en grupos estudiantiles: uso intensificado, contenido y no puesto en práctica
 - [[ethics-training-agents-group-ethics-discussion-2026]] — Agentes de formación ética: facilitar la educación ética grupal con juego de roles y discusión para la reflexión y la exploración éticas
+- [[chen-bertopic-ai-online-learning-research-topics-2026]] — El trabajo socialmente orientado sobre colaboración con IA nunca se convirtió en tema dominante entre 1.048 publicaciones
 - [[genai-support-threaten-learning-k20-expert-consensus-2026]] — Un consenso de 30 personas expertas encuentra un riesgo social unilateral: procesos de colaboración vulnerables sin vía de potenciación

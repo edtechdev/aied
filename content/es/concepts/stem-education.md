@@ -1,7 +1,7 @@
 ---
 title: Educación STEM
 created: "2026-09-28T20:10:39-04:00"
-updated: "2026-10-03T02:57:43-04:00"
+updated: "2026-10-22T07:28:08-04:00"
 type: concept
 foundations: [computational-thinking]
 technology: [intelligent-tutoring]
@@ -10,7 +10,7 @@ discipline: [cs education, math education, physics education]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/stem-education
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-21T12:05:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -37,11 +37,14 @@ ai_assist:
 ### STEM como dominio principal de la AIED
 
 - **Matemáticas:** la investigación sobre [[math-education|educación matemática]] abarca el [[generative-ai-reduced-study-time-math|impacto de la IA generativa en el aprendizaje de las matemáticas]], la [[ai-powered-personalized-learning-elementary-fractions-2026|tutoría de fracciones en primaria]] y la [[student-math-competence-clustering|agrupación por competencia]].
+- **La evidencia de los ITS en matemáticas es acotada y condicional.** Una revisión narrativa estructurada de 20 publicaciones (2020–abril de 2026) encontró la ventaja medida más clara en la [[feedback|retroalimentación]] diagnóstica en tiempo real superpuesta al mismo sistema adaptativo, pero concluyó que la tutoría inteligente apoya el aprendizaje de las matemáticas solo cuando se combinan un [[student-modeling|modelado de quien aprende]] válido, un andamiaje calibrado y la mediación del profesorado, y que la escalabilidad es técnica y no educativa ([[intelligent-tutoring-mathematics-education-review-2026|Ogunsakin et al. (2026)]]).
 - **Física:** la [[physics-education|educación en física]] incluye [[becker-chatgpt-typology-physics-2026|estudios de tipología de ChatGPT]], [[hashmi-socratic-physics-chatbot-2025|chatbots socráticos de física]] y [[ai-scoring-language-bias-physics|análisis del sesgo de puntuación]].
 - **Informática:** la [[cs-education|educación en informática]] es el subcampo de STEM más investigado: [[code-review-genai-cs1|revisión de código]], [[debugtracker-classroom-debugging|herramientas de depuración]] y [[prompt-problems-nl-programming-mistakes|estudios sobre prompts]].
 - **Ingeniería:** los [[concept-catalyst-engineering-scaffolds|andamiajes de ingeniería]], las [[structured-ai-demonstrations-engineering-mechanics|demostraciones de mecánica]] y el [[ai-engineering-education-balancing-act|equilibrio curricular]] llevan la IA a la [[engineering-education|educación en ingeniería]].
 - **Andamiar la investigación de grado:** [[ai-information-extraction-undergraduate-thesis-2026|An y sus colegas (2026)]] pilotan un sistema de IA que convierte publicaciones de investigación en conjuntos de datos estructurados y comparables para la realización de trabajos de fin de grado en cuatro facultades de STEM. Los resultados (20 estudiantes, 80 documentos) mostraron una extracción de parámetros experimentales superior al 90%, una reducción de ~65% del tiempo de revisión de literatura y un aumento del 50% en la capacidad del estudiantado para identificar variables experimentales influyentes, evidencia de cómo la [[higher-ed|investigación de grado]] andamiada con [[generative-ai|IA]] puede reforzar la alfabetización investigadora y la cognición epistémica en la educación STEM.
 - **Instrucción apoyada en simulación:** en la educación STEM basada en drones, se evaluaron andamiajes de [[simulation|simulación]] codiseñados por [[teacher-role|docentes]] e IA frente a un [[curriculum-design|currículo]] práctico idéntico con 30 estudiantes de secundaria, para comprobar si la instrucción apoyada en simulación produce mejores [[learning-gains|resultados de aprendizaje]]. El papel de la IA generativa era acelerar la creación de contenidos, mientras que la participación docente preservaba la validez pedagógica y la relevancia contextual.
+- **Los resultados favorecieron al grupo con andamiaje.** El grupo de simulación superó al grupo práctico en conocimiento STEM alineado con el currículo (M = 3,00 frente a 2,06; t(28) = 2,23, p = 0,034, d = 0,82) y en competencias del siglo XXI (d = 1,52) ([[simulation-assisted-drone-learning-stem-2026|Yeung et al. (2026)]]).
+- **Los gemelos digitales en STEM: los prototipos van por delante del aprendizaje medido.** Una revisión PRISMA de 11 estudios de educación superior encontró que todos demostraban un prototipo funcional sincronizado con hardware, pero solo tres (27,3%) informaron mejoras de aprendizaje estadísticamente significativas, con la complejidad del desarrollo y la menor interacción social como barreras recurrentes ([[caee-digital-twins-stem-education-systematic-review-2026|Pelayo-González et al., 2026]]).
 - **Planificación asistida por IA en la educación artística STEAM:** un estudio experimental con docentes de artes STEAM de educación infantil ([[luo-tahir-chatgpt-steam-lesson-planning-2026|Luo y Tahir, 2025]]) encontró que los planes de clase asistidos por ChatGPT superaron a los generados por el profesorado en calidad valorada por expertos (mediana 20,5 frente a 17,6, p = 0,002, efecto grande, seis profesores evaluadores), y el profesorado informó de mejoras en eficiencia e integración interdisciplinar (el 61% las valoró con 4 o más). El resultado se produjo a través del método de delegación del profesorado —lo más útil fue pedir a ChatGPT que rellenara lagunas de contenido en una clase esbozada por el propio docente—, lo que refuerza el punto recurrente de que la IA mejora el trabajo STEM/STEAM cuando el profesorado estructura la tarea y evalúa críticamente la salida, en lugar de entregar todo el plan al modelo.
 
 ### Qué eficaz es la instrucción apoyada por IA en STEM, en conjunto
@@ -67,6 +70,7 @@ Un conjunto concentrado de estudios de 2026 del *International Journal of STEM E
 - **Los programas STEM adaptativos basados en IA pueden apoyar el aprendizaje profundo.** Un piloto aleatorizado por conglomerados en ciencias de sexto de primaria ([[bin-bakheet-adaptive-ai-stem-deep-learning-2026]], N = 30) encontró que un programa STEM adaptativo basado en IA (contenido personalizado, dominio basado en reglas, retroalimentación en tiempo real) produjo tamaños de efecto grandes a favor del grupo experimental en explicación, interpretación, aplicación y generación de ideas, aunque el diseño de dos aulas exige una interpretación cautelosa.
 
 - **La aceptación docente es heterogénea y está moldeada por la disciplina.** Un análisis de perfiles latentes con 128 docentes en formación ([[chen-preservice-teachers-chatgpt-lpa-2026]]) encontró cuatro perfiles de aceptación de ChatGPT (evaluadores pragmáticos, pioneros tecnológicos, escépticos resistentes, observadores del entorno), con el profesorado de STEM concentrado en los pioneros tecnológicos y el de otras áreas en los perfiles resistentes, y los escépticos resistentes mostrando una alta facilidad de uso pero una baja intención, lo que exige formación diferenciada en [[ai-literacy|alfabetización en IA]].
+- **Enseñar al estudiantado a interrogar el modelo, no solo a usarlo.** Una única sesión de 45 minutos sobre [[prompt-engineering|prompts]] y comprobación de errores elevó las puntuaciones del postest de física de grado (*d* = 0,814) e igualó la ventaja de la experiencia previa con IA ([[structured-genai-training-physics-problem-solving-rct-2026|Huang et al., 2026]]).
 
 - **Evaluación y procesos cognitivos en STEM integrado con IA.** El [[zhang-ct-ai-training-test-2026|CTAT]] (34 ítems, validado con TRI) proporciona un instrumento válido para evaluar el [[computational-thinking|pensamiento computacional]] en contextos de formación con IA, y revela que el estudiantado tiene más dificultades con la representación de datos, la secuenciación de operadores lógicos y las estructuras de bucle. Un estudio de teoría fundamentada sobre programación asistida por IA ([[liu-tool-tutor-crutch-programming-2026]]) muestra que quienes aprenden oscilan entre el «dominio del ámbito» y el «dominio de la herramienta» a través de bucles de [[scaffolding|andamiaje]] y de descarga cognitiva, con una calibración [[metacognition|metacognitiva]] atenuada bajo la descarga rutinaria: un relato a nivel de proceso de la tensión entre rendimiento y aprendizaje.
 
@@ -106,16 +110,16 @@ Un conjunto concentrado de estudios de 2026 del *International Journal of STEM E
 - [[chen-preservice-teachers-chatgpt-lpa-2026]] — Perfiles de aceptación de ChatGPT en docentes en formación
 - [[zhang-ct-ai-training-test-2026]] — Test de pensamiento computacional en la formación con IA (CTAT)
 - [[liu-tool-tutor-crutch-programming-2026]] — Herramienta, tutor o muleta: teoría fundamentada de la programación asistida por IA
-- [[workforce-readiness-smart-manufacturing-wrl-2026]] — Marco de nivel de preparación laboral para la fabricación inteligente en la era de la IA
 - [[becker-chatgpt-typology-physics-2026]]
 - [[ai-powered-personalized-learning-elementary-fractions-2026]]
 - [[concept-catalyst-engineering-scaffolds]]
 - [[generative-ai-reduced-study-time-math]]
 - [[avraamidou-ai-colonization-science-education]]
 - [[ai-science-chemistry-education-systematic-review-2025]] — Revisión sistemática de la IA en la educación científica y química
-- [[astor-computational-thinking-meta-review-2026]] — El pensamiento computacional como competencia del siglo 21 en STEM
 - [[ai-information-extraction-undergraduate-thesis-2026]] — Extracción de información con IA que apoya el trabajo de fin de grado y el aprendizaje basado en la investigación (An et al. 2026)
 - [[simulation-assisted-drone-learning-stem-2026]] — Aprendizaje con drones asistido por simulación con andamiajes codiseñados por docentes e IA
 - [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
 - [[ai-supported-instruction-stem-meta-analysis-2026]] — Efecto agrupado de la instrucción STEM apoyada por IA en 35 estudios, con las mayores ganancias en secundaria superior (Doğan et al. 2026)
-- [[hallstrom-ai-literacy-stem-education-frontiers-2026]] — Síntesis de los diez estudios más citados sobre alfabetización en IA en la educación STEM (Hallström et al. 2026)
+- [[caee-digital-twins-stem-education-systematic-review-2026]] — Gemelos digitales en STEM: todos los estudios revisados entregaron un prototipo funcional, pocos midieron aprendizaje
+- [[structured-genai-training-physics-problem-solving-rct-2026]] — Una sesión de 45 minutos sobre prompts y comprobación de errores elevó las puntuaciones del postest de física (*d* = 0,814)
+- [[intelligent-tutoring-mathematics-education-review-2026]] — La evidencia de los ITS en matemáticas es acotada y condicional

@@ -1,12 +1,13 @@
 ---
 title: "¿Cómo puedo reducir las trampas con IA en mi curso?"
 created: "2026-09-22T18:29:08-04:00"
-updated: "2026-10-02T09:09:37-04:00"
+updated: "2026-10-22T07:28:56-04:00"
 connected_faqs: [should-we-use-ai-detectors, redesign-assessment-ai-era, addressing-common-misconceptions-ai-education, top-10-findings-ai-education-instructors]
 weight: 88
+audience: [instructors, assessment designers]
 foundations: [academic-integrity, ai-literacy, reducing-ai-misuse]
 assessment: [assessment]
-source_updated: "2026-10-02T08:21:34-04:00"
+source_updated: "2026-10-21T14:32:00-04:00"
 translation_of: faqs/reduce-ai-cheating
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
@@ -18,8 +19,6 @@ ai_assist:
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
-
-# ¿Cómo puedo reducir las trampas con IA en mi curso?
 
 **La dirección más sólida de la base de conocimiento es depender menos de la detección y más del [[assessment|diseño de la evaluación]] estructural, las expectativas explícitas, la verificación del aprendizaje y la [[ai-literacy|alfabetización en IA]].** La síntesis de [[academic-integrity|Integridad académica]] informa de limitaciones sustanciales en la detección de textos de IA y sostiene que la integridad académica en la era de la [[generative-ai|IA generativa]] es cada vez más un problema de diseño de la evaluación y no simplemente un problema de detección. Las herramientas de detección no son fiables y son procesalmente injustas. En un estudio controlado de 642 resúmenes publicados en inglés, dos detectores comerciales señalaron como IA la *edición* ligera con IA que cumplía las directrices en el 38-80% de los casos, señalaron originales de 2023-25 sin modificar en el 9-15% (en disciplinas no [[stem-education|STEM]] muy por encima de STEM, p<0,001) y, tras la «humanización» con IA, detectaron menos del 4% de las reescrituras etiquetadas como IA, un callejón sin salida para la integridad que castiga la ayuda honesta y a la vez facilita la evasión deliberada.([[karr-ai-detection-humanization-2026]]) En un estudio de campo encubierto, el 94% de las entregas íntegramente generadas por IA e inyectadas en exámenes en línea reales de cinco módulos de psicología pasaron inadvertidas, y los trabajos de IA superaron de media al estudiantado real; la Universidad de Vanderbilt desactivó su detector con licencia tras no poder validar una tasa de falsos positivos del 1% anunciada, que implicaba aproximadamente 750 estudiantes mal etiquetados entre 75.000 entregas anuales.([[teichmann-detecting-undetectable-misconduct-2026]]) Por sí sola, la detección es por tanto una palanca débil; la palanca más fuerte es el argumento de diseño de la evaluación que se desarrolla por completo en [[redesign-assessment-ai-era]]. A continuación se presentan enfoques concretos y aplicables, ordenados aproximadamente por fuerza de la evidencia.
 

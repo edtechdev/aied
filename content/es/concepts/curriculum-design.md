@@ -1,7 +1,7 @@
 ---
 title: Diseño curricular
 created: "2026-09-25T04:31:16-04:00"
-updated: "2026-10-03T02:57:43-04:00"
+updated: "2026-10-22T07:28:08-04:00"
 type: concept
 connected_faqs: [incorporating-ai-literacy]
 foundations: [ai-literacy, curriculum-design, learning-design, teacher-role]
@@ -11,8 +11,9 @@ discipline: [stem education]
 audience: [instructors, faculty developers]
 level: [higher ed]
 confidence: high
+connected_resources: [intelligent-textbooks]
 translation_of: concepts/curriculum-design
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-21T13:42:59-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -46,6 +47,8 @@ Al revisar el cambio como algo sistémico y no aditivo, [[rewriting-curriculum-g
 **Rediseñar los currículos para la era de la IA** es el reto central. **[[reshaping-cs-education-genai|Lee et al.]]** sintetizaron los hallazgos de talleres internacionales sobre el rediseño de la [[cs-education|educación en informática]] de grado y sostuvieron que, a medida que la IA generativa automatiza la programación de nivel de implementación, los currículos deben desplazarse hacia el diseño de sistemas, la abstracción y la evaluación crítica, y restar importancia a los detalles de implementación de bajo nivel. **[[ase-26-agentic-software-engineering-curriculum|Gorsky]]** formalizó la Ingeniería de Software Agéntica como una disciplina distinta con un currículo de 21 módulos centrado en la «evolución de la intención» y en la disciplina profesional necesaria para gestionar [[agentic-ai|agentes de IA]]. Ambos conectan con [[ai-literacy]] y [[scaffolding]].
 
 **El mapeo y el análisis de currículos** usa la IA para comprender los currículos existentes. **[[ai-assisted-se-curriculum-syllabus-analysis-2026|Geng et al.]]** analizaron 23 programas de asignatura de cursos de ingeniería de software asistida por IA, identificaron temas comunes ([[prompt-engineering|ingeniería de prompts]], revisión de código con IA, [[ethics|consideraciones éticas]]) y derivaron orientaciones de diseño que subrayan el equilibrio entre la fluidez con las herramientas y el conocimiento fundamental. **[[coursegraph-cs-course-comparison-2026|CourseGraph]]** aplica métodos computacionales para comparar las estructuras de los cursos de informática entre instituciones.
+
+La ponderación cambia lo que reporta un análisis curricular: [[genai-curriculum-analytics-mapping-higher-ed-2026|Jayalath et al. (2026)]] hicieron que GPT-o3-mini distribuyera el 100% entre siete habilidades empresariales para cada una de 48 evaluaciones, alcanzando un alfa de Krippendorff de 0,81 frente a las ponderaciones de personas expertas, pero la concordancia se volvió negativa en las habilidades que las descripciones nunca declaran explícitamente (-0,19).
 
 **La integración de la alfabetización en IA** integra competencias en IA en todas las disciplinas. **[[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl|SAIL]]** ofrece un marco de alfabetización en IA andamiado y aplicable a todas las edades y etapas educativas, que aborda las [[digital-divide|brechas digitales]] de segundo y tercer nivel. **[[tracing-genai-literacy-interaction-patterns]]** examina cómo se desarrolla la alfabetización en IA a través de patrones de interacción. **[[hingle-collaborative-ai-literacy-2025]]** explora enfoques colaborativos para el desarrollo de currículos de alfabetización en IA, en conexión con el [[collaborative-learning|aprendizaje colaborativo]].
 
@@ -115,6 +118,7 @@ El diseño curricular conecta directamente con el [[learning-design|diseño del 
 - [[recommender-systems-and-learning-paths]]
 
 ## Artículos conectados
+- [[genai-curriculum-analytics-mapping-higher-ed-2026]] — Mapeo de habilidades ponderado y validado por expertos para la acreditación
 - [[mcinnes-salvaging-constructive-alignment-genai-2026]] — Análisis crítico del discurso de las orientaciones sobre IA generativa para la alineación constructiva (McInnes et al. 2026)
 - [[icet-ml-education-trust-2026]] — Addressing Trust in AI Systems through Education: A Didactic Perspective
 - [[refrain-amplify-genai-curriculum-2026]] — Marco curricular de abstenerse y luego amplificar para secuenciar la IA generativa (Torres-Sahli et al. 2026)

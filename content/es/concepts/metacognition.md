@@ -1,7 +1,7 @@
 ---
 title: Metacognición
 created: "2026-09-25T03:54:17-04:00"
-updated: "2026-10-03T02:57:43-04:00"
+updated: "2026-10-22T07:34:46-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
@@ -12,7 +12,7 @@ audience: [learners]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/metacognition
-source_updated: "2026-10-15T10:00:00-04:00"
+source_updated: "2026-10-18T10:07:01-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 connected_resources: [student-guide-to-ai]
 contributors: [editor]
@@ -84,6 +84,8 @@ Cuando la IA se diseña para apoyar la reflexión en lugar de sustituirla, la me
 - **Asignar un nivel de uso de IA por tarea.** HAIML empareja sus tres capas con Cuatro Niveles de Uso de IA —desde ningún uso de IA, pasando por la lluvia de ideas, hasta la colaboración con IA y la creación integrada con IA con evaluación de la salida—, de modo que quien enseña fija el nivel de una tarea y mantiene la reflexión metacognitiva central en todos los niveles ([[haiml-human-centered-ai-metacognitive-model-2026|Reardon, 2026]]).
 - El **curso basado en ejemplos** del [[conversational-ai|chatbot]] de Scheu et al. aumentó la **competencia percibida** (una [[self-assessment|autoevaluación]] metacognitiva) incluso cuando el asistente de [[llm|LLM]] por sí solo no lo hizo
 - **Un encuadre emergente pone el sistema, y no solo al individuo, en el bucle.** Una revisión bibliométrico-sistemática de 135 estudios de aulas STEM (24 estudios centrales) encuentra que emerge un encuadre poshumanista que sitúa la IA como correguladora del aprendizaje, desplazando la unidad de análisis de la reflexión individual a la [[regulation|regulación]] a nivel de sistema y a la [[distributed-cognition|cognición distribuida]] ([[ai-metacognition-stem-review|Tsakeni et al. (2025)]]).
+
+**La metacognición es uno de los resultados menos estudiados.** En una revisión de alcance de 394 estudios sobre IA generativa en educación superior, la metacognición y el aprendizaje autorregulado estuvieron entre los resultados abordados con menos frecuencia, junto con la ética y la creatividad ([[mapping-genai-higher-ed-scoping-review|Lin et al. (2026)]]).
 
 - **Sacar a la luz patrones de interacción que quien aprende no puede ver.** [[student-ai-interaction-consecutive-interpreting-2026|Kuang, Li y Weng (2026)]] siguieron los movimientos oculares, la toma de apuntes y el habla de 22 estudiantes de interpretación mientras trabajaban con un sistema de reconocimiento de voz y traducción automática, y encontraron que el modo en que el estudiantado repartía la [[cognitive-psychology|atención]] entre la salida de la IA y sus propias notas era invisible para ellos: el 58,3% cambió de perfil entre etapas de la tarea, y quienes más leían la salida de la IA obtuvieron las puntuaciones más bajas en fluidez de la entrega y en calidad de la lengua meta. La consecuencia pedagógica es que la reflexión tiene que estar andamiada por evidencia externa, porque la estrategia de quien aprende no es introspectable; los autores abogan por guiar al estudiantado a describir y evaluar por qué trabajó de una manera dada en cada etapa.
 - **La evidencia de proceso depende del canal.** En 79 estudiantes de grado que trabajaban con [[generative-ai|IA generativa]], la monitorización y la planificación de mayor profundidad aparecieron más a menudo en las unidades de pensamiento en voz alta, mientras que la regulación de mayor profundidad apareció más a menudo en los registros de interacción, así que un solo registro por sí solo subestima algunos procesos ([[metacognitive-processes-genai-interaction-logs-2026|Li y Liu (2026)]]).

@@ -2,7 +2,7 @@
 connected_resources: [teacherserver]
 title: Educación especial
 created: "2026-09-28T19:11:16-04:00"
-updated: "2026-10-02T22:24:42-04:00"
+updated: "2026-10-22T07:28:42-04:00"
 type: concept
 foundations: [ai-education]
 ethics: [equity-in-ai-education, inclusive-learning, neurodiversity]
@@ -10,7 +10,7 @@ connected_faqs: [ai-disabled-neurodivergent-learners]
 level: [special education, k 12, higher ed]
 confidence: high
 translation_of: concepts/special-education
-source_updated: "2026-09-30T08:39:04-04:00"
+source_updated: "2026-10-21T10:45:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -49,6 +49,8 @@ La educación especial es un ámbito en el que la capacidad de personalización 
 **La delegación cognitiva en estudiantes con dificultades de aprendizaje (SWLD).** [[seung-basham-cognitive-offloading-swld-2026|Seung y Basham (2026)]], una revisión conceptual en una serie especial de *Learning Disability Quarterly* sobre IA para estudiantes con dificultades de aprendizaje, reformulan el uso de la [[generative-ai|IA generativa]] para las SWLD a través de la lente de la [[cognitive-offloading|delegación cognitiva]]. Sostienen que la IA generativa puede ser una **ayuda compensatoria o un atajo** según cómo interactúen las decisiones de delegación con los perfiles cognitivos y [[motivation|motivacionales]] de las SWLD (dificultades de función ejecutiva y memoria de trabajo, mayor carga cognitiva, metas de rendimiento que evitan el esfuerzo, menor autoeficacia académica y expectativas infladas hacia la IA generativa) y con el diseño instruccional. Para la lectura y la escritura, la IA generativa puede andamiar el acceso (nivelación de texto, resumen, salidas [[multimodal|multimodales]], planificación, redacción, retroalimentación de revisión) a la vez que preserva una [[student-engagement|implicación]] de orden superior, pero una delegación excesiva corre el riesgo de saltarse los procesos de comprensión, planificación y monitorización que ya son frágiles en este estudiantado, fomentando una «pereza [[metacognition|metacognitiva]]» y agravando las dificultades de alfabetización en todos los dominios. El artículo sitúa las **[[guardrails|barreras de protección]] instruccionales** como el factor moderador clave y recomienda [[teacher-role|enseñar]] a delegar de forma estratégica, construir una [[ai-literacy|alfabetización en IA]] para calibrar la confianza en las herramientas, secuenciar experiencias de dominio para construir la [[self-efficacy|autoeficacia]] y alinear las tareas y la evaluación con metas de IEP que priorizan el desarrollo de habilidades por encima de la sustitución. Esto extiende la cobertura de educación especial de la base de conocimiento a la dimensión de equidad de la delegación: la misma herramienta que rebaja las barreras de acceso puede, si no se protege, sustituir la práctica que las SWLD más necesitan.
 **El contenido de intervención generado por IA necesita controles previos a la generación, no solo revisión.** [[adapted-stories-social-story-intervention-2026|Enkhjargal et al. (2026)]] encontraron que quienes ejercen la práctica valoraron la herramienta codiseñada de Historias Sociales como muy usable (SUS 86,8), pero señalaron que sus imágenes eran genéricamente occidentales y que su rastreador de conducta no encajaba con el juicio clínico vinculado a las metas, restricciones que habrían fijado antes de la generación.
 
+[[vlm-task-planning-humanoid-robot-autism-education-2026|Kudláčková (2026)]] parte de los materiales y no de la conversación: un modelo de visión-lenguaje lee fotografías de Shoebox Tasks —diseñadas de modo que el objetivo sea visible en los propios objetos— y las convierte en un plan que un humanoide Nao ejecuta o demuestra, informando de la precisión del plan en seis tareas y sin datos de estudiantado.
+
 ## Implicaciones para el profesorado de educación especial
 
 - **Codiseñe la IA con el estudiantado destinatario y su comunidad.** [[llm-question-generation-deaf-hard-of-hearing-2026|La generación de preguntas para estudiantes sordos y con dificultades auditivas]] muestra el valor de refinar la IA iterativamente con la comunidad para salvar la brecha entre los prompts basados en texto y las lenguas de signos como primeras lenguas: implique al estudiantado y a sus comunidades en el diseño en lugar de dar por hecho que la IA les encaja.
@@ -84,4 +86,5 @@ La educación especial es un ámbito en el que la capacidad de personalización 
 - [[genai-minoritized-knowledges-disability]]
 - [[embodied-string-learning-blindness-low-vision-musicians]]
 - [[assistive-tech-neurodivergent-higher-ed-review-2026]] — IA generativa, realidad virtual y más allá: revisión de alcance de las tecnologías digitales de apoyo para estudiantes neurodivergentes en la educación superior
+- [[vlm-task-planning-humanoid-robot-autism-education-2026]] — Un modelo de visión-lenguaje planifica Shoebox Tasks para un robot Nao (Kudláčková 2026)
 - [[adapted-stories-social-story-intervention-2026]] — Intervención con historias sociales asistida por IA para educación especial: el diseño de AdaptED Stories

@@ -1,7 +1,7 @@
 ---
 title: "Educación en diseño"
 created: "2026-09-28T18:18:41-04:00"
-updated: "2026-10-03T00:17:27-04:00"
+updated: "2026-10-22T07:34:46-04:00"
 type: concept
 foundations: [ai-literacy, design-thinking]
 pedagogy: [creativity, professional-training]
@@ -12,7 +12,7 @@ audience: [instructors, instructional designers, curriculum designers, faculty d
 level: [higher ed]
 confidence: high
 translation_of: concepts/design-education
-source_updated: "2026-10-02T12:40:11-04:00"
+source_updated: "2026-10-16T08:47:09-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -59,7 +59,10 @@ También es distinta del [[design-thinking|pensamiento de diseño]], un método 
 
 - **El estudiantado negocia con las herramientas en lugar de aceptarlas sin más.** [[t2i-competence-paradox-2026|Liu, Meng y Zhang (2026)]] encuestaron a 417 estudiantes de arte y diseño: la expectativa de rendimiento, la influencia social, el valor de la novedad y la competencia creativa predecían la intención de usar herramientas de texto a imagen, mientras que la expectativa de esfuerzo predecía negativamente, lo que se interpreta como un uso de atajo en los trabajos de curso. Su paradoja de la competencia es que la competencia creativa sostiene la intención pero predice un uso más selectivo a medida que el estudiantado sopesa la autoría y la preservación de habilidades, un problema de [[assessment-validity|validez de la evaluación]] en un taller donde el proceso es el objeto evaluado. [[rana-genai-design-thinking-2025|Rana et al. (2025)]] llegaron a una conclusión compatible a partir de 112 reflexiones en un curso de [[design-thinking|pensamiento de diseño]] de 12 semanas: los beneficios dominaron (86% de sentimiento positivo), las preocupaciones éticas impulsaron el 62% del sentimiento negativo, y la integración con andamiaje llevó al estudiantado del escepticismo a una orientación positiva del 72%.
 
+- **La IA generativa puede asistir un flujo de trabajo y a la vez debilitar la autoconfianza creativa.** En un experimento de diseño arquitectónico con 36 estudiantes, un flujo de trabajo con DALL-E 3 igualó la búsqueda de precedentes en el rendimiento valorado y en la carga cognitiva, pero la [[self-efficacy|autoeficacia]] creativa general cayó (DiD = −0,543) mientras que la confianza específica de la tarea se mantuvo ([[caeai-genai-architectural-design-creative-self-efficacy-2026|Xiao et al., 2026]]).
+
 - **La crítica con IA puede vincularse al artefacto y no al prompt.** [[critsly-design-education-ai-critique-2026|Kadir (2026)]] canaliza la retroalimentación de taller a través de un tablero compartido de diseños, notas y chinchetas y cinco actividades acotadas; el estudio informa de una preparación simulada (78% de 109 etiquetas en «Analyzing» o por encima), no de mejoras de aprendizaje.
+- **Una rúbrica de proceso puede convertir la verificación con IA en el objeto calificado.** [[human-ai-collaboration-design-education-rubric-2026|Orhon et al. (2026)]] proponen el Merit Report, una rúbrica de cuatro criterios (voluntad curatorial documentada 20%, traducción tectónica 20%, validación técnica basada en reglas 40%, auditoría entre pares 20%) que califica el proceso de verificación con IA documentado por el estudiantado y no el acabado del artefacto, respaldada por una extensión del [[tpack|TPACK]] que denominan Conocimiento de Validación con IA.
 
 ## Formación profesional y regulación
 
@@ -102,3 +105,5 @@ Los problemas de evaluación aquí son inseparables de los profesionales. [[ai-i
 - [[yasar-llms-iterative-pedagogical-design-2026]]
 - [[rana-genai-design-thinking-2025]]
 - [[critsly-design-education-ai-critique-2026]] — Critsly/StudioCrit: espacio de trabajo de crítica con IA consciente del artefacto para la retroalimentación de taller; estudio de preparación basado en simulación, no en mejoras de aprendizaje
+- [[caeai-genai-architectural-design-creative-self-efficacy-2026]] — Un experimento de diseño arquitectónico en el que un flujo de trabajo con DALL-E 3 redujo la autoeficacia creativa general
+- [[human-ai-collaboration-design-education-rubric-2026]] — Una rúbrica de proceso puede convertir la verificación con IA en el objeto calificado

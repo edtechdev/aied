@@ -12,7 +12,7 @@ methods: [benchmark]
 ethics: [pedagogical-safety]
 reviewed_by: [editor]
 translation_of: concepts/human-in-the-loop-ai
-source_updated: "2026-10-14T11:15:00-04:00"
+source_updated: "2026-10-18T10:07:01-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -43,7 +43,11 @@ ai_assist:
 
 La HITL es una respuesta a los límites y los riesgos de la [[ai-education|IA en educación]] plenamente autónoma: los sistemas automatizados pueden generar a escala, pero carecen del juicio contextual, [[ethics|ético]] y pedagógico que aportan el profesorado y las personas expertas. Dos implementaciones recientes ilustran arquitecturas distintas:
 
+- **La intervención humana es insuficiente si la persona solo aprueba.** [[learning-analytics-genai-learning-design|Rienties, Divjak y Law (2026)]] sostienen que una agencia significativa exige la capacidad de comprender, contestar, rediseñar y a veces rechazar las recomendaciones apoyadas por IA, y no simplemente aprobar decisiones moldeadas en otra parte.
+
 El apoyo prescriptivo es un ámbito en el que se sostiene cada vez más que la supervisión humana no es opcional. [[lopez-pernas-llm-appropriate-student-support-2026|López-Pernas et al. (2026)]] comprobaron si tres LLM podían recomendar planes de apoyo al estudiantado a partir de indicadores de [[learning-analytics]] y hallaron una sensibilidad limitada a la necesidad y una acusada inconsistencia entre modelos, por lo que concluyeron que el juicio con intervención humana sigue siendo necesario antes de que el asesoramiento prescriptivo con [[llm]] pueda desplegarse de forma segura y ética.
+
+Retener la respuesta preferida por el sistema es protector y no correctivo: en un debate multiagente que nunca revelaba una posición recomendada, el cambio perjudicial hacia una respuesta de IA incorrecta cayó del 42,0–60,5% al 5,7–8,2%, a la vez que también cayó la adopción de consejos correctos ([[tuo-armada-multi-agent-debate-overreliance-2026|Tuo et al., 2026]]).
 
 Una tercera arquitectura sitúa el juicio humano *antes* del modelo en lugar de en su salida. En el estudio de [[lee-learner-question-types-ai-education-2026|Lee, Atif y Kang (2026)]] sobre la clasificación de las preguntas del estudiantado, tres personas expertas de nivel doctoral gobernaron toda la cadena de proceso: refinaron las definiciones operativas de cada rol [[constructivist]], etiquetaron de forma independiente hasta que el kappa de Fleiss subió de 0,60 a 0,83 tras la resolución de discrepancias, y validaron los ítems retrotraducidos y parafraseados que se usaron para equilibrar el conjunto de entrenamiento.
 
@@ -170,3 +174,4 @@ El diseño con intervención humana no es meramente una medida de seguridad: es 
 - [[when-students-prefer-ai-scoring-feedback-2026]] — El estudiantado de grado prefiere la calificación humana para el trabajo de altas consecuencias y la IA como asistente, no como sustituto
 - [[student-query-demand-hybrid-ai-support-2026]] — What Students Actually Ask: Demand Structure and Automation Potential in a Hybrid Support System
 - [[in-the-loop-educational-ai-learning-sciences-2026]] — Rethinking "In-The-Loop" Approaches in Educational AI: A Learning Sciences Perspective
+- [[tuo-armada-multi-agent-debate-overreliance-2026]] — Retener la respuesta preferida por el sistema redujo la deferencia hacia consejos de IA incorrectos, de forma protectora y no correctiva

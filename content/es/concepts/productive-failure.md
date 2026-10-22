@@ -1,7 +1,7 @@
 ---
 title: Fracaso productivo
 created: "2026-09-28T20:10:47-04:00"
-updated: "2026-10-02T21:28:30-04:00"
+updated: "2026-10-22T07:34:46-04:00"
 type: concept
 foundations: [cognitive-offloading]
 pedagogy: [desirable-difficulties, inquiry-based-learning, learning-theories, metacognition, problem-based-learning, scaffolding]
@@ -9,7 +9,7 @@ technology: [generative-ai, learning-analytics]
 assessment: [feedback, learning-gains]
 confidence: high
 translation_of: concepts/productive-failure
-source_updated: "2026-09-30T16:25:27-04:00"
+source_updated: "2026-10-17T07:38:51-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -65,6 +65,7 @@ Un tema central en la [[research-methods-aied|investigación]] de esta base de c
 
 - **El riesgo: la IA borra el esfuerzo.** Una IA demasiado «servicial», al estilo del oráculo, que da respuestas directamente, puede eliminar el esfuerzo productivo necesario para construir esquemas, creando lo que [[wang-safety-gap-productive-struggle-2026|Wang y Shan (2026)]] llaman la **brecha de seguridad**: la divergencia entre el desempeño de un estudiante con asistencia de IA y su capacidad interna sin asistencia. Esto conecta con la [[cognitive-offloading|dependencia cognitiva]]: una IA que sustituye el esfuerzo erosiona precisamente las capacidades que la educación construye.
 - **La respuesta de diseño: una IA que andamia el esfuerzo.** [[kim-ai-productive-failure-adult-2026|Kim et al. (2026)]] derivan cinco principios de diseño para una IA que apoye el aprendizaje basado en el fracaso productivo ([[human-ai-collaboration|colaboración humano-IA]], [[usability-research|usabilidad]], diseño reflexivo, diseño emocional, conocimiento abierto), subrayando que la IA debe preservar el esfuerzo ofreciendo apoyo no directivo. [[puech-pedagogical-steering-llm-productive-failure-2025|Puech et al. (2025)]] muestran que los tutores basados en [[llm|LLM]] pueden *orientarse* para seguir la pedagogía del fracaso productivo (retener las soluciones, propiciar múltiples intentos), a costa de la utilidad percibida. CoMeT (Hou et al. 2026) pone precio a ese coste y localiza el punto medio: su tutor escalonado resultó 0,42 puntos de escala más frustrante que el tutor que respondía a petición (p < 0,001) y 0,29 menos frustrante que el que solo hacía preguntas (p = 0,011), con malestar detectado en el 8,4% de sus sesiones frente al 16,0% con el tutor que retenía las respuestas, y entregó la respuesta completa en el 6,1% de las sesiones. Un umbral que se abra ante una declaración explícita de rendición y no ante la frustración se deriva del mismo diseño: sin él, quienes más necesitan esa exigencia la eluden.
+- **Retener las respuestas no costó frustración ni motivación, solo preferencia.** Un [[rct|ensayo controlado aleatorizado]] de tres brazos encontró que un tutor que retenía las pistas igualaba a ChatGPT sin restricciones en reducción de la frustración y era el único brazo que elevaba la motivación intrínseca, y aun así el estudiantado valoró la herramienta que daba respuestas como más fácil (p = 0,003) y más útil (p = 0,004) ([[bassner-performance-learning-dissociation-ai-programming-2026|Bassner et al. (2026)]]).
 - **La IA como herramienta para diseñar FP:** [[rhaimi-productivemath-2025|ProductiveMath]] usa la [[generative-ai|IA generativa]] para ayudar al profesorado a crear problemas de FP de alta calidad, abordando el reto de que diseñar actividades de fracaso productivo exige mucho esfuerzo.
 - **Errores generados por IA como provocaciones:** la [[pedagogy-ai-mistakes|pedagogía de los errores de la IA]] aprovecha deliberadamente los errores y las [[hallucination-risk|alucinaciones]] de la IA como herramientas de [[teacher-role|enseñanza]], en línea con el pensamiento del fracaso productivo al tratar la salida errónea como una provocación cognitiva.
 
@@ -120,4 +121,5 @@ El fracaso productivo conecta con [[learning-theories|las teorías del aprendiza
 - [[wang-safety-gap-productive-struggle-2026]] — La brecha de seguridad: recuperar el esfuerzo productivo
 - [[lukesova-clue-before-correction-2026]] — Pista antes de la corrección: ChatGPT para el aprendizaje autónomo
 - [[pedagogy-ai-mistakes]] — La pedagogía de los errores de la IA
+- [[bassner-performance-learning-dissociation-ai-programming-2026]] — Retener las soluciones evitó el coste de frustración pero perdió en la preferencia del estudiantado
 

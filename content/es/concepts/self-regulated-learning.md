@@ -1,7 +1,7 @@
 ---
 title: Aprendizaje autorregulado
 created: "2026-09-25T03:07:36-04:00"
-updated: "2026-10-09T16:20:00-04:00"
+updated: "2026-10-22T07:31:04-04:00"
 type: concept
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
 technology: [generative-ai, llm, personalized-learning]
@@ -11,7 +11,7 @@ audience: [learners]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/self-regulated-learning
-source_updated: "2026-10-15T10:00:00-04:00"
+source_updated: "2026-10-21T13:54:03-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 connected_resources: [process-feedback]
 contributors: [editor]
@@ -132,6 +132,7 @@ Por ejemplo:
 ## Evidencia en distintos contextos
 
 - **Evidencia mixta y la brecha de mala calibración.** Una revisión rápida de la investigación sobre IA generativa en PreK-12 encuentra que las ganancias metacognitivas durante tareas asistidas a menudo no persisten cuando se retira el apoyo, y que la IA generativa puede aumentar el [[self-report-measures|aprendizaje percibido]] incluso cuando el aprendizaje duradero está ausente (la brecha de mala calibración: el estudiantado prefirió la IA generativa a tomar apuntes pese a una retención más débil). El estudiantado necesita formación explícita y adecuada a su etapa para decidir qué delegar y cuándo importa el esfuerzo independiente.([[young-people-learning-generative-ai-rapid-review-2026]])
+- **El AAR rara vez es el objetivo activo.** En los 394 estudios de IA generativa en educación superior, el aprendizaje autorregulado y la reflexión estuvieron entre los usos menos puestos en práctica y entre los resultados menos abordados ([[mapping-genai-higher-ed-scoping-review|Lin et al. (2026)]]).
 - **La tensión entre iniciativa [[agentic-ai|agéntica]] y autorregulación.** [[agentic-ai-pedagogical-best-practice-2026|Woollaston et al. (2026)]] señalan que cuanto más automatiza un agente una tarea, menos trabajo cognitivo autorregulado realiza quien aprende, de modo que los diseños deberían dar a quien aprende control sobre la iniciación del agente (andamiaje dinámico y que se desvanece) para preservar su capacidad autorreguladora en lugar de externalizarla.
 - **La autorregulación da forma al uso de asistentes de IA para programar.** [[computational-thinking-aica-2026|Un estudio sobre asistentes de IA para programación]] encontró que el estudiantado con alto [[computational-thinking]] mostró una coherencia autorreguladora más fuerte (planificación, ejecución y autorreflexión) y usó el AICA para comprender el código, mientras que el estudiantado con bajo pensamiento computacional lo usó para obtener respuestas inmediatas.
 - **El AAR se da junto con una menor distracción digital en el [[online-teaching-and-learning|aprendizaje en línea]].** [[decreasing-digital-distraction-college-online-learning-2026|Shi et al. (2026)]], mediante minería de datos no supervisada en 530 estudiantes universitarios, encontraron que las estrategias de AAR (fijación de metas, estructuración del entorno y gestión del tiempo) se daban conjuntamente, y de la forma más consistente, con una menor distracción digital en el [[higher-ed|aprendizaje en línea]], junto con la implicación estudiante-docente y estudiante-contenido. El hallazgo sitúa la formación concreta en AAR como una intervención de alto impacto para el estudio en línea con concentración.
@@ -171,6 +172,7 @@ Qué apoyo está en juego decide qué mediador carga la asociación: entre 3.003
 
 - **Agentes conversacionales que apoyan el aprendizaje autorregulado en juegos.** Wenzel, Geiger y Liening (2026) muestran que un agente conversacional de IA (Lara) en un juego de [[simulation|simulación]] de empresa puede apoyar el aprendizaje autorregulado mediante retroalimentación [[formative-assessment|formativa]] basada en métricas, orientación a demanda y reflexión estructurada, lo que aborda la limitación habitual de que los juegos de simulación ofrecen una retroalimentación formativa y unas indicaciones de reflexión limitadas. Las evaluaciones con profesorado en formación y participantes del BSG informaron de percepciones positivas de la presencia cognitiva y [[community-of-inquiry|social]] del agente y de su apoyo a la autorregulación.
 - **Tres modos de fallo explican dónde se rompe la transferencia.** (1) La resolución de conceptos en su acepción cotidiana en lugar de la acepción propia del dominio —«cancel» frente al «kürzen» de la química— rompe la clasificación enactiva. (2) La antropomorfización: el estudiantado alemán no familiarizado con un tutor muy andamiado se dirigió a él como a una persona, lo que produjo enunciados fuera de distribución; la transferencia fue mejor en plataformas menos andamiadas. (3) La ambigüedad entre la lectura de pistas y la formulación de planes: los modelos no pueden distinguir la lectura de una pista metacognitiva de la planificación sin datos de registro. Darse cuenta de los errores es robusto en todas las condiciones: notar que uno se equivoca es independiente del contexto. Soluciones: diccionarios de personas expertas o ajuste fino para los términos del dominio; datos de registro para las pistas. ([[borchers-srl-language-generalization-2025]])
+- **Las señales superficiales sobre-atribuyen autorregulación en el mapeo curricular.** Dadas las descripciones de evaluación, GPT-o3-mini leyó las menciones a plazos o a la programación de tareas como evidencia de una habilidad autorreguladora; la Autogestión se sobre-identificó de este modo, con su acuerdo frente a los pesos expertos entre 0,53 y −0,03 ([[genai-curriculum-analytics-mapping-higher-ed-2026|Jayalath et al., 2026]]).
 
 ## Conceptos conectados
 
@@ -197,6 +199,7 @@ Qué apoyo está en juego decide qué mediador carga la asociación: entre 3.003
 - [[cognitive-surrender]]
 
 ## Artículos conectados
+- [[genai-curriculum-analytics-mapping-higher-ed-2026]] — Sobre-atribución por parte del modelo de la autorregulación a partir de señales superficiales en el mapeo curricular (Jayalath et al. 2026)
 - [[borchers-srl-language-generalization-2025]] — Los grandes modelos de lenguaje generalizan la predicción del AAR a nuevos idiomas dentro de un mismo dominio, pero no entre dominios (Borchers et al. 2025)
 - [[ai-project-hybrid-learning-self-regulated-2026]] — Un modelo de aprendizaje híbrido basado en proyectos que utiliza la inteligencia artificial para mejorar el aprendizaje autorregulado del estudiantado
 - [[aigc-affordance-student-self-regulation-2026]] — AIGC Affordance and Student Self-Regulation

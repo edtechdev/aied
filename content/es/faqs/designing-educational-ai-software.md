@@ -1,13 +1,14 @@
 ---
 title: "¿Cuáles son las mejores prácticas y consejos para diseñar software educativo de IA eficaz?"
 created: "2026-09-22T18:29:07-04:00"
-updated: "2026-10-02T09:09:37-04:00"
+updated: "2026-10-22T07:28:42-04:00"
 connected_faqs: [developing-ai-tutor, designing-ai-into-learning, making-ai-better-at-supporting-learning]
 weight: 64
+audience: [educational technology developers, software developers, instructional designers]
 foundations: [learning-design]
 ethics: [accessibility, equity-in-ai-education, pedagogical-safety]
 technology: [edtech-platform]
-source_updated: "2026-10-02T08:21:34-04:00"
+source_updated: "2026-10-21T14:32:00-04:00"
 translation_of: faqs/designing-educational-ai-software
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
@@ -19,8 +20,6 @@ ai_assist:
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
-
-# ¿Cuáles son las mejores prácticas y consejos para diseñar software educativo de IA eficaz?
 
 **La IA educativa debería diseñarse como un sistema instruccional, y no solo como un modelo de propósito general con una interfaz educativa.** La investigación reciente sobre diseño recogida en esta base de conocimiento concreta esa afirmación: los sistemas más sólidos se construyen como **expertos acotados bajo supervisión humana**, codiseñados con el profesorado y el estudiantado que los usarán y fundamentados en contenido verificable en lugar de en la memoria del modelo. Un conjunto práctico de reglas de diseño:
 

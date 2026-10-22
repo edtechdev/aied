@@ -1,12 +1,13 @@
 ---
 title: "¿Cómo pueden los agentes de IA apoyar a estudiantes y docentes?"
 created: "2026-09-22T18:34:19-04:00"
-updated: "2026-10-02T09:09:37-04:00"
+updated: "2026-10-22T07:28:42-04:00"
 connected_faqs: [developing-ai-tutor, training-ai-tutors-to-guide-rather-than-answer]
 weight: 66
+audience: [instructors, learners, administrators]
 foundations: [agentic-ai, ai-literacy, cognitive-offloading]
 technology: [human-in-the-loop-ai, intelligent-tutoring, pedagogical-agent]
-source_updated: "2026-10-02T08:21:34-04:00"
+source_updated: "2026-10-21T14:32:00-04:00"
 translation_of: faqs/ai-agents-support-students-instructors
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
@@ -18,8 +19,6 @@ ai_assist:
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
-
-# ¿Cómo pueden los agentes de IA apoyar a estudiantes y docentes?
 
 **Los agentes de IA pueden ir más allá de responder preguntas en un solo turno** al planificar, usar herramientas, recordar el contexto relevante, coordinar subtareas y adaptar el apoyo a lo largo de una secuencia de interacciones. Para el estudiantado, entre los papeles plausibles están la tutoría adaptativa, la planificación del estudio, la retroalimentación [[formative-assessment|formativa]], la [[problem-solving|resolución de problemas]] guiada, la generación de ejercicios de práctica, la simulación, las recomendaciones de prerrequisitos y la [[prompt-engineering|formulación de indicaciones]] reflexiva o metacognitiva. Para el profesorado, los agentes pueden ayudar con el desarrollo de materiales, la [[automated-question-generation|generación y validación de preguntas]], la clasificación de la retroalimentación, la [[learning-analytics|analítica]] del curso, los flujos de trabajo de diseño instruccional, la recuperación de recursos y la orquestación de agentes especializados.
 

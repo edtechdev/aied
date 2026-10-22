@@ -1,15 +1,16 @@
 ---
 title: "¿Deberíamos usar detectores de IA?"
 created: "2026-09-22T18:29:10-04:00"
-updated: "2026-10-02T09:09:37-04:00"
+updated: "2026-10-22T07:28:33-04:00"
 connected_faqs: [redesign-assessment-ai-era, course-ai-policy, reduce-ai-cheating, addressing-common-misconceptions-ai-education]
 weight: 85
 foundations: [academic-integrity]
 assessment: [ai-detection, assessment-validity]
 ethics: [equity-in-ai-education, trust, privacy, ai-use-disclosure]
 level: [higher ed]
+audience: [instructors, administrators, assessment professionals]
 institutions: [educational-policy-ai, governance]
-source_updated: "2026-10-02T08:21:34-04:00"
+source_updated: "2026-10-21T14:32:00-04:00"
 translation_of: faqs/should-we-use-ai-detectors
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
@@ -21,8 +22,6 @@ ai_assist:
 ---
 
 *Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa.*
-
-# ¿Deberíamos usar detectores de IA?
 
 **No como prueba en un caso de mala conducta, y no como primera línea de defensa de una institución. La puntuación de un detector no puede validarse contra la verdad de referencia, no puede ser interrogada y no cumple el estándar de balance de probabilidades que exigen las conclusiones sobre [[academic-integrity|integridad académica]].** Peor aún: sus errores siguen patrones y no son aleatorios. El estudio controlado más sólido de la base de conocimiento encontró que los detectores señalan la *edición* honesta con IA y conforme a las directrices mucho más fácilmente que la prosa estudiantil sin modificar, mientras que la evasión deliberada pasa casi intacta; y el estudiantado con más probabilidad de ser señalado es el de escritores no nativos de inglés ([[karr-ai-detection-humanization-2026]], [[teichmann-detecting-undetectable-misconduct-2026]]), uno de los varios lugares donde la tasa de error de un sistema de IA no se distribuye de manera uniforme entre quienes aprenden, como documenta [[differential-effects-across-learner-groups|Efectos diferenciales entre grupos de estudiantes]].  [[bassett-ai-detectors-education-2026|Bassett et al. (2026)]] van más lejos y sostienen que la detección no debería usarse en educación en absoluto, porque la tecnología no sabe distinguir entre "trabajo creado *con* IA" y "trabajo creado *por* IA". Esta página es para quienes tienen que decidir: docentes, responsables de integridad académica y administradores. El manual del lado del diseño está en [[reduce-ai-cheating|¿Cómo puedo reducir las trampas con IA en mi curso?]].
 
@@ -38,6 +37,8 @@ Tres líneas independientes de evidencia convergen en la misma conclusión.
 
 La precisión también varía por tarea de formas que una política no puede anticipar. Cuando los investigadores probaron si la [[generative-ai|IA generativa]] puede detectar de forma fiable su propia producción, la detección fue fiable para la programación y la escritura reflexiva extensa pero mala para las respuestas cortas, donde el modelo a menudo juzgaba su propio texto como *más* humano que el trabajo auténtico del estudiantado, y variaciones menores en la indicación reducían bruscamente la precisión.([[llm-detecting-llm-generated-content-education]]) Cualquier umbral que fijes valdrá para algunas tareas y fallará para otras.
 
+**El objetivo se mueve, así que una puntuación validada caduca.** Un estudio de 2026 replantea la detección como un problema de adaptación y no de separabilidad: un [[ren-test-time-adaptation-ai-text-detection-2026|ataque de reescritura de caja negra]] hizo caer el detector comercial Pangram a una exactitud equilibrada del 63,5% y una recuperación de IA del 27,0%, y un detector entrenado con Llama 3.3 70B Instruct solo alcanzó un 55% de recuperación sobre resúmenes de un modelo más nuevo. La adaptación en tiempo de prueba recuperó hasta una exactitud equilibrada del 94,4% y un 99% de recuperación sobre el mismo texto —que es la mitad alentadora—, pero el artículo también muestra que el error que esos métodos corrigen es el dañino: a medida que se extiende la adopción simulada de LLM, la recuperación de un detector supervisado fijo sobre texto *humano* decae del 85,9% al 73,4% a lo largo de la década. Su condición de caducidad declarada es tajante: la exactitud equilibrada no puede superar la mitad de uno más la distancia de variación total entre las distribuciones humana y de IA, de modo que la convergencia de ambas derrotaría a cualquier detector basado en aprendizaje. La detección, por tanto, no puede comprarse una vez y confiarse.([[ren-test-time-adaptation-ai-text-detection-2026]])
+
 **La detección nunca ha sido claramente mejor que una persona cuidadosa, y el margen no es lo importante.** [[leaton-gray-ai-digital-cheating-ethical-pedagogies-2025|Leaton Gray, Edsall y Parapadakis (2025)]] informan de una detección automática de texto de IA o parafraseado de alrededor del **80%** frente al **78.4%** de los revisores humanos, y citan evidencia de que el texto generado por IA ha pasado como escrito por humanos en **hasta el 80% de los casos**, un margen que leen como demasiado estrecho para fundamentar una conclusión de mala conducta, ya que la ventaja de la máquina se disuelve en la misma banda de error que aporta la persona. Su revisión también socava el supuesto de que la detección disuade a quien es capaz: el metaanálisis de Krou et al. encuentra que la autoeficacia correlaciona negativamente con hacer trampas mientras que la capacidad real no correlaciona de forma inversa con ello en absoluto, así que el estudiantado que podría hacer el trabajo puede hacer trampas cuando juzga que la evaluación es injusta. La detección no es, por tanto, ni un instrumento fiable ni un elemento disuasorio evidente.
 
 ## 2. Los errores siguen patrones y recaen en el estudiantado equivocado
@@ -45,6 +46,8 @@ La precisión también varía por tarea de formas que una política no puede ant
 Esta es la parte que debería decidir la cuestión para cualquiera que sea responsable de la equidad.
 
 Los rasgos que los detectores tratan como señales de IA (densidad de tokens largos, frecuencia de vocabulario académico, estilo uniforme) son también rasgos de una escritura competente en segunda lengua, así que los detectores clasifican erróneamente a hablantes no nativos de inglés de forma sistemática y no aleatoria. El daño de la clasificación errónea recae, por tanto, en estudiantes que ya están en desventaja.([[teichmann-detecting-undetectable-misconduct-2026]]) El mismo sesgo aparece por disciplina: los resúmenes no STEM fueron señalados muy por encima de los de STEM en el estudio de resúmenes, lo que es una propiedad de las convenciones de escritura de esos campos, no de la conducta de sus autores.([[karr-ai-detection-humanization-2026]]) En efecto, un detector es una prueba de estilo, y el estilo que castiga correlaciona con el origen lingüístico, la disciplina y el registro, no con si un estudiante usó IA.
+
+**Dos estudios de 2026 amplían el grupo sobre el que recae esto.** El mismo patrón se mantiene más allá del inglés. Un [[kazakh-ai-text-detectors-2026|benchmark de 3.811 pasajes cuya autoría previa a ChatGPT es demostrable]] encontró que cinco detectores públicos entrenados en inglés, tal como se distribuyen, marcan el **81,4%** de los pasajes humanos en kazajo (TMR RoBERTa), el **79,6%** de los ensayos estudiantiles kazajos publicados (Desklib DeBERTa) y el 25,5% (Fakespot) —y que recalibrarlos a una tasa de falsos positivos del 1% captura como máximo el 1,3% del texto de máquina a cambio. La propia salvedad del estudio es que los pasajes humanos son texto público previo a ChatGPT tal como se encontró, no ensayos estudiantiles, así que las tasas educativas son su cifra menos segura.([[kazakh-ai-text-detectors-2026]])
 
 Eso es un problema de [[equity-in-ai-education|equidad]] antes que técnico, y también un problema de [[trust|confianza]]. Como los detectores no son fiables y los procesos formales exigen una prueba de nivel detectivesco que en la práctica no está disponible, el profesorado acaba con lo que un relato profesional llama "sospecha sin recurso", mientras el estudiantado [[student-rationalization-ai-writing|racionaliza]] su propio uso y los expedientes se estancan.([[best-response-student-ai-dialog-2026]])
 

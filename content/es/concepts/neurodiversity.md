@@ -1,7 +1,7 @@
 ---
 title: Neurodiversidad
 created: "2026-09-28T20:10:38-04:00"
-updated: "2026-10-02T21:28:30-04:00"
+updated: "2026-10-22T07:30:40-04:00"
 type: concept
 ethics: [equity-in-ai-education, inclusive-learning, neurodiversity]
 connected_faqs: [ai-guidance-children-under-13, ai-disabled-neurodivergent-learners]
@@ -9,7 +9,7 @@ audience: [learners, instructors, instructional designers]
 level: [special education, higher ed, k 12]
 confidence: high
 translation_of: concepts/neurodiversity
-source_updated: "2026-09-30T08:05:25-04:00"
+source_updated: "2026-10-16T08:47:09-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -65,6 +65,7 @@ El lado del riesgo tiene su propia literatura. [[seung-basham-cognitive-offloadi
 ## Advertencias de diseño
 
 - **El apoyo condicionado por diagnóstico excluye a quienes no nombra.** La crítica de la revisión de alcance se aplica directamente a cómo se despliegan las funciones de IA: si una función se desbloquea con una carta de adaptación, quienes tienen diferencias funcionales pero ningún diagnóstico nunca la ven.
+- **Los procesos basados en detectores pueden disuadir del uso legítimo de las adaptaciones.** Cuando una tecnología lingüística funciona como una adaptación eficaz para quien aprende de forma neurodivergente, una prohibición general o un proceso basado en detectores que disuada de su uso legítimo plantea consideraciones de igualdad: el caso de mala conducta anulado que documenta la literatura sobre la [[ai-detection|detección]] implicaba a un estudiante de un programa de apoyo al espectro autista ([[angelier-ai-detection-pitfalls-inclusive-assessment-2026|Angelier (2026)]]).
 - **Las herramientas pueden excluir epistémicamente, no solo funcionar mal.** [[genai-minoritized-knowledges-disability|Tali-Otmani (2026)]] sostiene que los datos de entrenamiento anglófonos y centrados en Occidente marginan formas de conocer no hegemónicas, y sitúa la situación de quienes aprenden con discapacidad en el centro de esa crítica: una advertencia de que la IA «inclusiva» puede seguir codificando qué conocimiento cuenta.
 - **Las señales conductuales las leen sistemas que no conocen a quien aprende.** La interpretación de la [[student-engagement|implicación]], la dificultad o la atención en la [[learning-analytics|analítica del aprendizaje]] y el [[student-modeling|modelado del estudiante]] da por supuesto un patrón normativo de respuesta; véase [[differential-effects-across-learner-groups|Efectos diferenciales entre grupos de aprendices]] para la evidencia sobre la equidad de ese supuesto.
 - **La dependencia es un resultado del diseño, no un fallo de quien aprende.** Dada la ruta hacia la dependencia descrita arriba, la pregunta que hay que hacer a cualquier función de IA es si sustituye el proceso de orden superior que la tarea existe para construir: el punto que Seung y Basham plantean para las dificultades de aprendizaje.
@@ -106,3 +107,4 @@ La neurodiversidad conecta con la [[special-education|educación especial]], el 
 - [[genai-minoritized-knowledges-disability]] — La IA generativa y la marginación de los conocimientos minorizados
 - [[tactile-statistical-graphs-accessibility]] — Gráficos estadísticos táctiles para la accesibilidad
 - [[ai-learning-tools-engineering-education-needs]] — Diseñar herramientas de aprendizaje con IA conscientes de las necesidades y la atención
+- [[angelier-ai-detection-pitfalls-inclusive-assessment-2026]] — Los procesos basados en detectores pueden disuadir del uso legítimo de las adaptaciones

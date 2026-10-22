@@ -1,7 +1,7 @@
 ---
 title: "¿Cómo afecta la IA a la ansiedad y el bienestar del estudiantado, y qué podemos hacer?"
 created: "2026-09-22T18:43:09-04:00"
-updated: "2026-10-02T09:09:37-04:00"
+updated: "2026-10-22T07:28:08-04:00"
 connected_faqs: [how-ai-impacts-students, study-with-ai]
 weight: 60
 type: faq
@@ -10,7 +10,7 @@ methods: [mixed-methods-research]
 research_method: [survey, structural equation modeling]
 audience: [instructors, administrators]
 level: [higher ed, secondary, k 12]
-source_updated: "2026-10-02T08:21:34-04:00"
+source_updated: "2026-10-21T14:32:00-04:00"
 translation_of: faqs/ai-anxiety-wellbeing
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
@@ -22,8 +22,6 @@ ai_assist:
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
-
-# ¿Cómo afecta la IA a la ansiedad y el bienestar del estudiantado, y qué podemos hacer?
 
 **La situación en la que probablemente se encuentre.** Un estudiante le dice, en horas de consulta o en un formulario de admisión, que terminar el título ya no le parece que valga la pena porque la IA ya puede hacer el trabajo para el que se estaba formando. Otro se queda callado, entrega menos, deja de hacer preguntas. Usted quiere ayudar, no está seguro de si esto necesita una derivación o una estrategia, y tiene diez minutos para decidir.
 

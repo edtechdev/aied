@@ -1,7 +1,7 @@
 ---
 title: "¿Cuáles son las mejores prácticas para informar e interpretar la investigación sobre IA en educación?"
 created: "2026-09-22T18:29:07-04:00"
-updated: "2026-10-02T09:09:37-04:00"
+updated: "2026-10-22T07:28:42-04:00"
 connected_faqs: [checking-whether-educational-ai-works, research-gaps-aied, evaluating-ai-interventions-methods]
 weight: 65
 type: faq
@@ -12,7 +12,7 @@ research_method: [literature review]
 audience: [researchers]
 page_kind: [evaluation]
 methods: [ai-ed-evaluation, benchmark, meta-analysis-systematic-review, research-methods-aied]
-source_updated: "2026-10-02T08:21:34-04:00"
+source_updated: "2026-10-21T14:32:00-04:00"
 translation_of: faqs/reporting-interpreting-aied-research
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
@@ -24,8 +24,6 @@ ai_assist:
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
-
-# ¿Cuáles son las mejores prácticas para informar e interpretar la investigación sobre IA en educación?
 
 Usted está redactando un estudio sobre IA en educación cuya afirmación ya va por delante de su diseño, o está revisando uno y decidiendo si la cifra del titular significa algo. En cualquiera de los dos casos, las mismas seis omisiones deciden el resultado: qué sistema de IA se usó realmente, para qué estaba configurado, qué papel pedagógico desempeñó, si hubo personas que diseñaran o revisaran su resultado, qué capturó de verdad la medida de resultado y qué hicieron los autores con el sesgo, el coste y las limitaciones. Quien las omite envía un estudio que no se puede evaluar; quien revisa y no las busca no puede distinguir una intervención diseñada de una demostración reciclada de una herramienta. «No evaluable», y no «respaldado» ni «refutado», es el veredicto honesto cuando faltan.
 

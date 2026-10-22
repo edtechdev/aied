@@ -1,13 +1,13 @@
 ---
 title: Cognición distribuida
 created: "2026-09-28T20:10:35-04:00"
-updated: "2026-10-03T02:57:43-04:00"
+updated: "2026-10-22T07:28:08-04:00"
 type: concept
 foundations: [agency, cognitive-offloading, human-ai-collaboration]
 pedagogy: [distributed-cognition, embodied-learning, learning-theories, metacognition, situated-learning]
 confidence: high
 translation_of: concepts/distributed-cognition
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-21T11:40:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -37,6 +37,7 @@ Este es un concepto de teoría del aprendizaje dentro de la línea de [[learning
 
 Los sistemas de IA generativa e interactiva redistribuyen el trabajo cognitivo de formas que las herramientas anteriores no permitían. La base de conocimiento documenta varias dimensiones de este desplazamiento:
 
+- **El volumen de uso de IA no revela qué forma de trabajo distribuido está ocurriendo:** [[cognitive-offloading-llm-synthesis-writing|Poquet et al. (2026)]] encontraron que los perfiles basados en volumen de 97 estudiantes diferían en conocimiento previo y autoría, pero no en los prompts de rol activo o de nivel de comprensión, así que una misma cantidad de uso puede acompañar a actividades compartidas y a una división del trabajo distintas.
 - **La IA como socio cognitivo y corregulador.** La IA puede actuar como [[scaffolding|andamiaje]], apoyo metacognitivo, sistema de memoria externa y socio en la toma de decisiones dentro de la co-[[regulation|regulación]] del pensamiento y el aprendizaje.([[ai-cognitive-partner-co-regulation-learning]]) Esto sitúa la cognición como algo corregulado entre quien aprende y el sistema, en lugar de gestionado individualmente.
 - **Redistribución de la agencia y la responsabilidad.** Marcos como la **cognición en conjunto** reconceptualizan el pensamiento como algo que emerge de la dinámica [[student-ai-interaction|interacción entre el estudiantado y la IA]], y distinguen la *agencia funcional* de la IA (su capacidad de influir en los resultados sin consciencia) de la *responsabilidad moral* (que sigue siendo humana).([[ensemble-cognition-philosophy-ai-education]]) La cognición distribuida reformula así quién rinde cuentas por el aprendizaje.
 - **La tensión entre eficiencia y regulación.** El trabajo empírico muestra una disyuntiva: los sistemas humano–IA que distribuyen el razonamiento con más eficiencia (por ejemplo, mediante razonamiento delegado) logran un mayor rendimiento en la tarea, pero pueden reducir la [[student-engagement|implicación]] autorreguladora de quienes aprenden.([[hao-human-ai-collaborative-problem-solving-cognition]]) Esta es la cara empírica de los riesgos de [[cognitive-offloading|descarga cognitiva]] y [[cognitive-offloading|dependencia excesiva]] que documenta la base de conocimiento.

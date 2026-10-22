@@ -1,13 +1,14 @@
 ---
 title: "¿Qué medidas y métodos de investigación puede usar un docente para evaluar intervenciones relacionadas con la IA?"
 created: "2026-09-22T18:29:05-04:00"
-updated: "2026-10-02T09:09:37-04:00"
+updated: "2026-10-22T07:28:33-04:00"
 connected_faqs: [does-ai-help-students-learn, checking-whether-educational-ai-works, research-gaps-aied]
 weight: 55
+audience: [instructors, researchers, faculty developers]
 assessment: [assessment, self-report-measures]
 page_kind: [evaluation]
 methods: [ai-ed-evaluation, research-methods-aied]
-source_updated: "2026-10-02T08:21:34-04:00"
+source_updated: "2026-10-21T14:32:00-04:00"
 translation_of: faqs/evaluating-ai-interventions-methods
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
@@ -19,8 +20,6 @@ ai_assist:
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
-
-# ¿Qué medidas y métodos de investigación puede usar un docente para evaluar intervenciones relacionadas con la IA?
 
 **Ajuste el método a la afirmación.** Si quiere saber si una actividad con IA *gustó* al estudiantado, una encuesta puede ayudar. Si quiere saber si *aprendieron*, use medidas de desempeño. Una encuesta es una [[self-report-measures|medida autoinformada]]: el instrumento correcto para las actitudes y el equivocado para el aprendizaje, por las razones reunidas en esa página. Si quiere saber si la IA *causó* una mejora, necesita una condición de comparación creíble y, preferiblemente, asignación aleatoria.
 

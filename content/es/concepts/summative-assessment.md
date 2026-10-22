@@ -1,7 +1,7 @@
 ---
 title: Evaluación sumativa
 created: "2026-09-28T19:11:07-04:00"
-updated: "2026-10-02T22:23:33-04:00"
+updated: "2026-10-22T07:31:04-04:00"
 type: concept
 foundations: [academic-integrity]
 assessment: [assessment, authentic-assessment, summative-assessment, educational-measurement]
@@ -10,7 +10,7 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation]
 translation_of: concepts/summative-assessment
-source_updated: "2026-09-30T11:35:26-04:00"
+source_updated: "2026-10-16T08:47:09-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -44,6 +44,7 @@ La investigación de la base de conocimiento documenta cómo la IA generativa ha
 - **La concordancia de resultados puede sobrevivir a una puntuación imprecisa por ítem.** Frente a las notas oficiales moderadas, un LLM multimodal que calificó 10.364 páginas manuscritas de la Olimpiada de Física y de universidad correlacionó entre r = 0,93–0,96 y recuperó el mismo equipo internacional de cinco estudiantes, aunque la concordancia exacta por apartado de pregunta alcanzó el 70%: a un puntuador se le juzga por las decisiones que informa ([[ai-grading-handwritten-physics-2026|Pathak et al. (2026)]]).
 - **La IA como evasión.** Como la IA generativa puede producir respuestas a preguntas escritas, las tareas sumativas no supervisadas y para hacer en casa pierden validez: [[generative-ai-reduced-study-time-math|las medidas supervisadas y sin asistencia son esenciales]] porque la IA infla el rendimiento no supervisado, y las [[generative-ai-guardrails-harm-learning|herramientas con barreras de protección (que dan pistas y no respuestas)]] pueden eliminar la penalización en el examen que causa la IA sin barreras. El cuasiexperimento de [[chirikov-ai-grade-inflation-2026|Chirikov (2026)]] sobre más de 500.000 notas concreta el mecanismo: tras el lanzamiento de ChatGPT, los cursos con más tareas expuestas a la IA vieron subir la proporción de notas A en 13 puntos porcentuales, y el efecto se concentró en los **cursos con mucha carga de deberes** (16 puntos porcentuales adicionales en la estimación de triples diferencias), evidencia directa de que es en los deberes no supervisados, y no en [[learning-gains|ganancias de aprendizaje]] genuinas, donde la IA infla los resultados sumativos.
 - **Exámenes generados por IA.** [[assessing-quality-ai-generated-exams-field-2025|Un estudio de campo a gran escala]] y la [[ai-vs-human-assessment-efl-tpck-2026|investigación sobre la evaluación de inglés como lengua extranjera]] examinan si la IA puede *generar* exámenes y tareas de evaluación de alta calidad: un uso emergente de la IA en el diseño sumativo.
+- **El estudiantado no distingue de forma fiable los ítems redactados por IA.** En un examen de Medicina de Familia con créditos, [[vogt-ai-mcq-recognition-medical-assessment-2026|Vogt et al. (2026)]] no encontraron diferencias significativas en la atribución de la fuente entre 30 ítems de opción múltiple generados por IA y 30 de exámenes de licencia, con un acierto medio de reconocimiento del 68,6% al 77,5%, y el 18,2% de los ítems generados se eliminó en la [[human-in-the-loop-ai|revisión humana]].
 
 ## Formatos sumativos resistentes a la IA
 
@@ -109,3 +110,4 @@ La literatura sobre evaluación de la base de conocimiento insiste en que la [[a
 - [[ai-grading-handwritten-physics-2026]] — Calificación con IA de evaluaciones manuscritas de física (Olimpiada)
 - [[mesny-innovative-assessment-grading-management-2026]]
 - [[cvengros-grading-handwritten-chemistry-ai-2026]]
+- [[vogt-ai-mcq-recognition-medical-assessment-2026]] — El estudiantado no distingue de forma fiable los ítems redactados por IA

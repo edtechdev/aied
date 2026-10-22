@@ -1,13 +1,13 @@
 ---
 title: Investigación con métodos mixtos
 created: "2026-09-28T18:15:49-04:00"
-updated: "2026-10-02T22:24:42-04:00"
+updated: "2026-10-22T07:34:46-04:00"
 type: concept
 research_method: [survey]
 confidence: high
 methods: [mixed-methods-research, qualitative-research, quantitative-research, research-methods-aied]
 translation_of: concepts/mixed-methods-research
-source_updated: "2026-09-30T07:37:28-04:00"
+source_updated: "2026-10-16T07:28:51-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -33,6 +33,8 @@ ai_assist:
 
 Los diseños de métodos mixtos integran la amplitud, la precisión y la potencia causal de los métodos cuantitativos con la profundidad, el contexto y el significado de los métodos cualitativos. La propuesta de valor es la **triangulación**: cuando líneas independientes convergen en la misma conclusión, la confianza aumenta; cuando divergen, la discrepancia misma es informativa.
 
+En 394 estudios sobre IA generativa en educación superior, los métodos mixtos fueron el diseño de investigación más común (213 estudios, 54%), seguidos de la investigación cuantitativa (109, 28%) y la cualitativa (72, 18%) ([[mapping-genai-higher-ed-scoping-review|Lin et al. (2026)]]).
+
 ## Patrones de diseño comunes
 
 - **Explicativo secuencial (CUAN → cual).** Los datos cuantitativos se recogen primero y después los datos cualitativos explican o contextualizan los hallazgos cuantitativos sorprendentes o significativos. [[genai-over-reliance-learning-2026|Un estudio de método mixto sobre la IA generativa y el aprendizaje sostenible]] empareja encuestas de tres oleadas con entrevistas a docentes para explicar el patrón cuantitativo de mejora hacia la dependencia excesiva.
@@ -55,6 +57,7 @@ Los diseños de métodos mixtos integran la amplitud, la precisión y la potenci
 - **Fortalezas:** la triangulación aumenta la confianza; amplitud cuantitativa más profundidad cualitativa; puede explicar resultados inesperados y tender puentes entre mecanismo y magnitud; produce a la vez efectos y significado; muy adecuada para fenómenos complejos y contextuales de la IA en la educación.
 - **Limitaciones:** compleja, intensiva en recursos y metodológicamente exigente; la integración puede ser superficial si las líneas solo se presentan una al lado de la otra en lugar de fusionarse de verdad; sigue heredando las debilidades de cada línea (p. ej., sesgo de autoinforme en las encuestas, dependencia del investigador en las entrevistas); requiere competencia en ambas tradiciones metodológicas.
 - **Un límite de agrupamiento que acota la inferencia.** [[human-ai-collaboration-academic-writing-2026|Alshehri et al. (2026)]] asignan dos clases intactas (n = 31, n = 22), de modo que con solo dos conglomerados las pruebas t reportadas ignoran el anidamiento intraclase y los modelos multinivel no son estimables, lo que hace que las pruebas de significación sean optimistas respecto a lo que el diseño puede sostener.
+- **La elección del instrumento puede invertir una línea computacional.** VADER y un RoBERTa ajustado asignaron valencias opuestas a la misma publicación (0,9413 marcadamente positiva con VADER, −0,9209 con RoBERTa), así que la lectura cuantitativa de un corpus puede depender de qué clasificador se use ([[bluesky-aied-discourse-social-media-analysis-2026|Geraili Meykola et al., 2026]]).
 
 ## Relación con el panorama metodológico más amplio
 
@@ -79,3 +82,4 @@ Los métodos mixtos se sitúan entre las tradiciones [[quantitative-research|cua
 - [[hazra-safetutors-pedagogical-safety-2026]] — Seguridad de los tutores de IA y daños pedagógicos
 - [[becker-chatgpt-typology-physics-2026]] — Una tipología cualitativa de la adopción de ChatGPT en física
 - [[edtech-privacy-deferral-2026]] — «We'll Fix It Later»: Education, AI, and the Deferral of Student Privacy in EdTech
+- [[bluesky-aied-discourse-social-media-analysis-2026]] — VADER y un RoBERTa ajustado asignaron valencias opuestas a la misma publicación de Bluesky (Geraili Meykola et al., 2026)

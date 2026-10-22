@@ -2,6 +2,7 @@
 connected_resources: [liascript]
 title: Enseñanza de la informática
 created: "2026-09-28T19:11:56-04:00"
+updated: "2026-10-22T07:28:42-04:00"
 type: concept
 foundations: [ai-literacy, computational-thinking]
 technology: [generative-ai, llm, prompt-engineering]
@@ -10,7 +11,7 @@ discipline: [stem education, cs education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/cs-education
-source_updated: "2026-10-14T14:35:00-04:00"
+source_updated: "2026-10-21T12:05:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -193,7 +194,6 @@ La enseñanza de la informática se conecta con [[computational-thinking|el pens
 - [[roboblockly-conversational-block-robotics-ct-2026]] — programación por bloques corporeizada con RoboBlockly
 - [[edusim-llm-robotic-simulation-education-2026]] — control robótico en lenguaje natural con EduSim-LLM
 - [[llm-computational-thinking-physics-2026]] — apoyo de los LLM al pensamiento computacional en física
-- [[studychat-student-dialogues-chatgpt-ai-course-2026]] — El conjunto de datos StudyChat de diálogos entre estudiantado y LLM en un curso de IA
 - [[student-ai-inquiry-types-cs2-2026]] — Análisis de los tipos de consultas en la interacción entre estudiantado e IA
 - [[chatgpt-qiskit-homework-autogradable-2026]] — ChatGPT resuelve deberes de Qiskit; diseño calificable automáticamente
 - [[llm-adaptive-programming-error-explanations-2026]] — Explicaciones adaptativas de los errores de programación con LLM

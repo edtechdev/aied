@@ -1,7 +1,7 @@
 ---
 title: Enseñanza del inglés (EAP / EFL / ESL)
 created: "2026-09-28T19:11:56-04:00"
-updated: "2026-10-02T21:20:37-04:00"
+updated: "2026-10-22T07:28:08-04:00"
 type: concept
 foundations: [academic-integrity]
 technology: [generative-ai]
@@ -11,7 +11,7 @@ discipline: [english education, language learning, writing education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/english-education
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-21T12:05:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -83,6 +83,8 @@ Muchos artículos sobre enseñanza de la escritura tienen el inglés en primer l
 
 El dominio del inglés en la IA es un rasgo definitorio de esta línea. Como los modelos son más fuertes en inglés y en inglés académico estándar en particular, la enseñanza del inglés se beneficia de forma desproporcionada (andamiajes potentes para el EAP) y a la vez conlleva riesgos característicos (sesgo monolingüe, discriminación contra el inglés como lengua mundial y contra quienes escriben en contextos multilingües). La investigación aquí conecta con la [[equity-in-ai-education|equidad]], la [[bias-mitigation|mitigación de sesgos]], la [[automated-assessment|evaluación automatizada]], la [[ai-feedback-quality|calidad de la retroalimentación con IA]] y la [[academic-integrity|integridad académica]].
 
+Una síntesis basada en Scopus de 54 estudios de EFL sitúa las [[limitations-in-aied-research|limitaciones]] más reportadas del campo en la autonomía de quien aprende: la [[cognitive-offloading|dependencia excesiva]] de la IA en 27 estudios (50%) y la reducción del [[critical-thinking|pensamiento crítico]] en 25 (46%), frente a los resultados poco fiables de la IA en 22 (41%) como principal problema técnico ([[ai-limitations-efl-higher-education-review-2026|Espinoza-Celi y Vargas-Saritama (2026)]]).
+
 ## Implicaciones para el profesorado de inglés / EAP / EFL-ESL
 
 - **Aproveche deliberadamente la fortaleza de la IA en inglés académico.** Como los modelos son más fuertes en inglés y en inglés académico estándar, el profesorado de EAP puede usar la IA para la escritura basada en géneros, la diferenciación de materiales de lectura ([[genai-differentiated-eap-reading-materials-2026|materiales de EAP]]) y la retroalimentación de revisión, pero debería enmarcar la IA como socia de borrador y retroalimentación y no como una máquina de respuestas.
@@ -128,7 +130,7 @@ El dominio del inglés en la IA es un rasgo definitorio de esta línea. Como los
 - [[governing-unseen-ai-literacy-language-teachers-2026]] — Gobernar lo invisible: la alfabetización en IA entre el profesorado de idiomas
 - [[structural-silence-underrepresented-language-ai-2026]] — Silencio estructural: las lenguas infrarrepresentadas en la infraestructura de IA
 - [[liu-emerging-tech-tefl-review-2026]] — Tecnologías emergentes para la enseñanza del inglés como lengua extranjera
-- [[wang-goal-setting-ai-engagement-2026]] — Teoría del establecimiento de metas: apoyo docente, metas de logro e implicación en el aprendizaje del inglés asistido por IA (758 estudiantes chinos)
 - [[bird-multimodal-educational-literature-2026]] — Fusión multimodal para clasificar literatura educativa
 - [[li-language-educators-genai-review-2026]] — Prácticas y desarrollo del profesorado de idiomas con la IA generativa
 - [[zhao-ji-appraisal-human-ai-revisions-2026]] — Las revisiones entre pares y con IA de ensayos argumentativos en EFL difieren en su posicionamiento dialógico (Zhao y Ji 2026)
+- [[ai-limitations-efl-higher-education-review-2026]] — La dependencia excesiva de la IA (50% de 54 estudios) y la reducción del pensamiento crítico encabezan las limitaciones reportadas

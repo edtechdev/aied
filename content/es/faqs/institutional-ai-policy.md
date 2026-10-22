@@ -1,7 +1,7 @@
 ---
 title: "¿Cómo redactamos e implantamos una política institucional sobre la IA?"
 created: "2026-09-22T18:53:09-04:00"
-updated: "2026-10-02T09:09:37-04:00"
+updated: "2026-10-22T07:28:33-04:00"
 connected_faqs: [course-ai-policy, equity-ethics-pedagogical-safety-research]
 weight: 65
 type: faq
@@ -10,7 +10,7 @@ research_method: [policy analysis, literature review, delphi]
 audience: [administrators, policymakers, institutions]
 level: [higher ed]
 institutions: [change-management, educational-policy-ai, governance]
-source_updated: "2026-10-02T08:21:34-04:00"
+source_updated: "2026-10-21T14:32:00-04:00"
 translation_of: faqs/institutional-ai-policy
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
@@ -22,8 +22,6 @@ ai_assist:
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
-
-# ¿Cómo redactamos e implantamos una política institucional sobre la IA?
 
 Usted es el vicerrector, decano, responsable de gobernanza, director de un centro de enseñanza o presidente de comité que tiene que elaborar o defender esta política, y responder a un colega que la califica de demasiado estricta o demasiado vaga. El resultado directo: publicar una política es la parte fácil, y un documento por sí solo no cambia nada. La mayoría de las instituciones ya ha respondido a si debe tener una publicándola, y el patrimonio resultante es amplio pero superficial: orientativo más que vinculante, concentrado en torno a la integridad académica y escaso en los problemas de datos, equidad y capacidades que deciden si el uso de la IA va bien. Lo que distingue una política defendible de un documento que acumula polvo es un responsable con nombre, un calendario de revisión, una vía de traslación a los cursos y un diseño de evaluación que recompense la conducta que se pide.
 

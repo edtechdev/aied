@@ -1,7 +1,7 @@
 ---
 title: Supervisión remota de exámenes
 created: "2026-09-28T19:10:33-04:00"
-updated: "2026-10-03T01:40:50-04:00"
+updated: "2026-10-22T07:28:33-04:00"
 type: concept
 foundations: [academic-integrity]
 pedagogy: [online-teaching-and-learning]
@@ -10,7 +10,7 @@ ethics: [equity-in-ai-education, privacy]
 level: [higher ed]
 confidence: high
 translation_of: concepts/remote-proctoring
-source_updated: "2026-10-03T01:40:50-04:00"
+source_updated: "2026-10-15T21:52:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -54,6 +54,7 @@ La supervisión remota existe en un espectro. La **supervisión en línea** impl
 - **El fundamento de la integridad no superó su prueba más grande.** A lo largo de cuatro oleadas y 1.760 estudiantes en 105 cursos, la supervisión elevó la ansiedad ante los exámenes (β = 0,60, p < 0,001) pero no tuvo efecto sobre la tentación de hacer trampas, la dificultad percibida ni las calificaciones, de modo que el coste de la vigilancia no quedó compensado por la disuasión ([[conijn-fear-big-brother-proctored-exams-2022|Conijn et al. (2022)]]).
 - **Equidad y brecha digital.** La dependencia de dispositivos, la conexión inestable, la iluminación y la variabilidad del hardware perjudican de forma desproporcionada al estudiantado rural y con poco ancho de banda; la exactitud del modelo puede variar según la demografía y el entorno, con el riesgo de señalamientos injustos.([[digital-divide]]), [[equity-in-ai-education|equidad en la educación con IA]] Una revisión de alcance de la supervisión en la evaluación de [[nursing-education|enfermería]] muestra que no es un caso límite: cuatro de sus seis estudios incluidos informaron de problemas de conectividad a internet, uno informó de cortes de suministro eléctrico junto con paquetes de datos limitados, y la incompatibilidad de dispositivos, los fallos de extensiones del navegador y los escaneos ambientales fallidos eran rutinarios, así que la inequidad infraestructural, y no solo el sesgo del modelo, determina quién puede ser evaluado siquiera.([[harerimana-remote-proctoring-nursing-scoping-2026]])
 - **Lagunas de detección y carrera armamentística.** La suplantación de identidad (fotos o vídeo que enmascaran), el uso del navegador y el copiar y pegar siguen siendo difíciles de detectar de forma fiable; la exactitud de la detección está limitada por las limitaciones de los conjuntos de datos, la evaluación con un solo modelo y las lagunas de reproducibilidad. La supervisión no resuelve del todo la integridad y puede crear una falsa sensación de seguridad.
+- La IA portátil elimina la señal conductual de la que depende la supervisión: [[corbin-ai-glasses-wearable-ai-assessment-2026|Corbin et al. (2026)]] sostienen que las gafas de IA, los auriculares y los audífonos con IA ofrecen asistencia encubierta sin cambio de mirada, de atención ni de postura, de modo que la vigilancia presencial y la entrega de dispositivos pierden las señales en las que se apoyaban.
 - **La cuestión de la gobernanza.** Si la vigilancia es la respuesta correcta frente al [[authentic-assessment|rediseño de la evaluación]] (oral, basada en el proceso, [[eportfolio|portafolio]]) es una decisión institucional abierta; la supervisión remota es una herramienta, no una solución completa.([[governance]]) La exposición que sigue cuando la aplicación de la norma sale mal —acusaciones que se apoyan en puntuaciones y registros de eventos, la conservación y el tratamiento posterior de los datos capturados, y reglas que recaen de forma desigual sobre el estudiantado con discapacidad o no hablante nativo— se traza en [[legal-issues-and-risks|cuestiones y riesgos legales]].
 
 ## Base de evidencia
@@ -90,6 +91,7 @@ La supervisión remota existe en un espectro. La **supervisión en línea** impl
 
 ## Artículos conectados
 
+- [[corbin-ai-glasses-wearable-ai-assessment-2026]] — La IA portátil elimina la señal conductual de la que depende la supervisión (Corbin, Sharpe y Dawson 2026)
 - [[automated-online-exam-proctoring-decade-review-2026]] — Revisión sistemática de una década sobre la supervisión automatizada de exámenes en línea
 - [[academic-dishonesty-automated-proctoring-ai-2026]] — Revisión exhaustiva de la deshonestidad académica en la supervisión automatizada
 - [[ssaho-ai-academic-integrity-review-2025]] — IA e integridad académica: revisión sistemática

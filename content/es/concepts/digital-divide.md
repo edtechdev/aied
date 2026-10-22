@@ -1,14 +1,14 @@
 ---
 title: Brecha digital
 created: "2026-09-28T21:03:34-04:00"
-updated: "2026-10-04T17:14:09-04:00"
+updated: "2026-10-22T07:28:08-04:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, ai-guidance-children-under-13]
 type: concept
 foundations: [ai-education, ai-literacy]
 ethics: [accessibility, equity-in-ai-education]
 confidence: high
 translation_of: concepts/digital-divide
-source_updated: "2026-10-04T16:06:05-04:00"
+source_updated: "2026-10-14T14:35:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:

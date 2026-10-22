@@ -2,6 +2,7 @@
 connected_resources: [matt-pocock-skills]
 title: Método socrático
 created: "2026-09-28T20:10:39-04:00"
+updated: "2026-10-22T07:28:42-04:00"
 type: concept
 foundations: [ai-education, critical-thinking]
 pedagogy: [metacognition, scaffolding]
@@ -11,7 +12,7 @@ audience: [learners]
 level: [higher ed]
 confidence: high
 translation_of: concepts/socratic-method
-source_updated: "2026-10-13T09:18:19-04:00"
+source_updated: "2026-10-19T09:40:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -52,7 +53,7 @@ A diferencia de los tutores de IA de instrucción directa que dan respuestas, lo
 - **Ponen al descubierto [[misconceptions]]** — mediante contraejemplos cuidadosamente elegidos
 - **Guían hacia la comprensión** — sin revelar la respuesta
 
-El enfoque socrático encarna directamente el principio de [[llm-training-and-fine-tuning|EduQwen]]: **premiar el «guiar» sobre el «responder».** Sin embargo, la calibración socrática en tiempo real es más difícil que la pedagogía de benchmark sobre papel: EduQwen se optimiza para guiar correctamente en un [[benchmark]] de opción múltiple, mientras que un tutor socrático en vivo debe decidir *cuándo* guiar, *cuándo* dar pistas y *cuándo* responder — a partir de señales del estudiante en tiempo real. El [[affective-tutoring|estado afectivo]] es un moderador crítico: un estudiante frustrado puede necesitar una respuesta directa breve antes de volver al modo socrático.
+El enfoque socrático encarna directamente el principio de [[llm-training-and-fine-tuning|EduQwen]]: **premiar el «guiar» sobre el «responder».** Sin embargo, la calibración socrática en tiempo real es más difícil que la pedagogía de benchmark sobre papel: EduQwen se optimiza para guiar correctamente en un [[benchmark]] de opción múltiple, mientras que un tutor socrático en vivo debe decidir *cuándo* guiar, *cuándo* dar pistas y *cuándo* responder — a partir de señales del estudiante en tiempo real. El [[affective-tutoring|estado afectivo]] es un moderador crítico: un estudiante frustrado puede necesitar una respuesta directa breve antes de volver al modo socrático. Una variante más estricta elimina la enseñanza por completo: un agente de física introductoria que solo pregunta pide al estudiantado defender una predicción correcta frente a una variable cambiada (detección de concesiones) y mantiene el mensaje posterior a una respuesta correcta indistinguible del posterior a una respuesta incorrecta ([[socratic-probing-agent-physics-cave-detection-2026|Cho (2026)]]).
 
 ## Evidencia de efectividad
 
@@ -168,3 +169,4 @@ El método socrático está estrechamente ligado al [[scaffolding]] (proporciona
 - [[guardrails-ai-teaching-assistants-programming-2026]] — ¿Barreras de seguridad u obstáculos? Efectos del estilo pedagógico y la conciencia del contexto en asistentes docentes de IA para programación
 - [[genai-socratic-tutor-biology-argumentation-2026]] — Mejora de las habilidades de argumentación alineadas con PISA de futuros docentes de biología mediante inteligencia artificial generativa
 - [[etq-ai-conversational-teacher-training-2026]] — Diagnóstico conversacional de IA para las concepciones erróneas docentes mediante diálogo fundamentado en la evidencia (Miranda y Calvani 2026)
+- [[socratic-probing-agent-physics-cave-detection-2026]] — Diseñar un agente de IA que no da tutoría: reglas de diseño para el sondeo socrático en física introductoria

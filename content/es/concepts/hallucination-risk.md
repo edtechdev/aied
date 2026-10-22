@@ -1,6 +1,7 @@
 ---
 title: Riesgo de alucinación
 created: "2026-09-28T20:16:26-04:00"
+updated: "2026-10-22T07:45:27-04:00"
 type: concept
 foundations: [cognitive-offloading]
 technology: [generative-ai, human-in-the-loop-ai, llm]
@@ -60,6 +61,8 @@ Las **estrategias de mitigación** incluyen diseños de [[human-in-the-loop-ai]]
 
 **La falta de fiabilidad etiquetada redujo la dependencia declarada en lugar de aumentarla.** Cuando 546 participantes leyeron el mismo diálogo de GAI etiquetado como portador de información fabricada o como verificado y exacto, la etiqueta de fabricación produjo menor [[trust]] y controlabilidad percibida, y mayor disonancia cognitiva y frustración junto a puntuaciones de dependencia *inferiores* (M = 2,935 frente a 3,254) ([[frontiers-gai-hallucination-dependence-2026|Liu et al. (2026)]]). El resultado matiza la lógica de dependencia excesiva de esta página: ver que una salida puede estar fabricada no es lo mismo que seguir apoyándose en ella.
 
+**Las señales de credibilidad pueden amplificar la deferencia en lugar de atenuarla.** El movimiento opuesto aparece cuando una salida poco fiable se presenta disfrazada: añadir citas y señales de credibilidad a la interfaz de debate de ARMADA elevó un 112% la fracción de participantes que abandonaban un juicio inicial correcto en favor de una posición incorrecta de la IA (31,8% frente a 15,0%), y la comprobación manual encontró algunos casos citados mal atribuidos a referencias irrelevantes o ficticias ([[tuo-armada-multi-agent-debate-overreliance-2026|Tuo et al., 2026]]).
+
 ## Conceptos conectados
 
 - [[cognitive-offloading]]
@@ -76,6 +79,7 @@ Las **estrategias de mitigación** incluyen diseños de [[human-in-the-loop-ai]]
 - [[productive-failure]]
 ## Artículos conectados
 - [[frontiers-gai-hallucination-dependence-2026]] — Etiquetar un diálogo de GAI como fabricado redujo la confianza y la dependencia a la vez
+- [[tuo-armada-multi-agent-debate-overreliance-2026]] — Las señales de credibilidad aumentaron la deferencia hacia la salida de la IA, con algunos casos citados mal atribuidos o ficticios
 - [[ivory-psychology-assessment-integrity-2026]] — Citas fabricadas y salidas autocontradictorias dentro de un trabajo de estudiantado aprobable (Ivory et al. 2026)
 - [[llm-cognitive-diagnosis-handwritten-math]]
 - [[llm-fallacy-misattribution]]

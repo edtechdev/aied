@@ -11,7 +11,7 @@ confidence: high
 methods: [ai-ed-evaluation]
 reviewed_by: [editor]
 translation_of: concepts/learning-gains
-source_updated: "2026-10-12T09:45:00-04:00"
+source_updated: "2026-10-16T08:47:09-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -77,6 +77,7 @@ A lo largo de los [[rct|ECA]], los [[meta-analysis-systematic-review|metaanális
 - **Pero el acceso sin protección también puede ayudar, de forma duradera.** Un ECA con una cuenta de ChatGPT de venta libre encontró que las pruebas sin ayuda puntuaban 0,27 DE más alto mientras los estudiantes tenían acceso, y la mejora se mantuvo una semana después —más del doble de la mediana de 0,10 DE en 747 ECA educativos— ([[contractor-learning-impact-generative-ai-2026|Contractor y Reyes, 2026]]).
 - **La eficacia percibida y la eficacia real divergen.** [[ai-literacy-assessment-misalignment|El rendimiento autoinformado no se corresponde con el rendimiento medido]], y [[absent-cognitive-baseline-2026|la línea de base cognitiva ausente]] muestra que los estudiantes nativos digitales con IA sobreestiman su aprendizaje —por lo que las afirmaciones de eficacia basadas en el autoinforme no son fiables sin medidas de resultado objetivas—. [[self-report-measures]] reúne los casos en que los resultados informados y los medidos se separan.
 - **Las mejoras pueden provenir de reasignar el tiempo del profesorado, no de la calificación por IA.** En un experimento aleatorizado en 178 escuelas brasileñas (~19.000 estudiantes de último curso), la calificación de redacciones por IA y por humanos produjo mejoras idénticas en los exámenes, pero las aulas con IA vieron ~35 % más de conversaciones individuales del profesorado sobre escritura, y el cuartil inferior no mejoró en ninguna de las dos condiciones ([[ai-changing-teaching-workflows|Ler, 2026]]).
+- **En la IA mediada por el profesorado, la mejora la movió la preparación y no la herramienta.** A lo largo de 19 clases de numeración de escuelas públicas brasileñas, el estudiantado enseñado por docentes formados superó al grupo de control, pero añadir el sistema AIED-U a esa formación no produjo ninguna mejora adicional en el aprendizaje, y la carga de trabajo del profesorado se asoció negativamente con las mejoras ([[rodrigues-aied-unplugged-numeracy-2026|Rodrigues et al. (2026)]]).
 
 **Conclusión:** el peso de la evidencia respalda unas **mejoras de aprendizaje modestas, condicionales y dependientes del diseño** derivadas de la IA —reales cuando la IA se estructura para entrenar en lugar de responder, cuando tiene guardarraíles y cuando se empareja con medidas de resultado sin asistencia, y ausentes o negativas cuando sustituye el esfuerzo propio de quien aprende—. Por eso las mejoras en el aprendizaje como resultado deben medirse con instrumentos válidos y resistentes a la IA, y por eso [[ai-ed-evaluation]] empareja las afirmaciones de eficacia con el escrutinio [[research-methods-aied|metodológico]].
 
@@ -195,3 +196,4 @@ Las mejoras en el aprendizaje se conectan con la [[assessment-validity]] —si l
 - [[ai-supported-instruction-stem-meta-analysis-2026]] — A STEM synthesis that controlled dependent effect sizes and tested publication bias, but applied no quality appraisal (Doğan et al. 2026)
 - [[ai-education-effects-second-order-meta-analysis-2026]] — Second-order meta-analysis of 45 AI-in-education meta-analyses, with overlap-corrected effects and a quality appraisal of the synthesis layer (Emslander et al. 2026)
 - [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: AI and human tutoring yield equivalent GRE learning gains
+- [[rodrigues-aied-unplugged-numeracy-2026]] — En la IA mediada por el profesorado, la mejora la movió la preparación y no la herramienta

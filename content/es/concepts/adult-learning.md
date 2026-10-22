@@ -1,7 +1,7 @@
 ---
 title: "Aprendizaje de adultos"
 created: "2026-09-28T20:20:21-04:00"
-updated: "2026-10-02T22:24:42-04:00"
+updated: "2026-10-22T07:28:08-04:00"
 type: concept
 foundations: [ai-education, learning-design]
 pedagogy: [professional-training]
@@ -11,7 +11,7 @@ confidence: medium
 methods: [usability-research]
 technology: [edtech-platform]
 translation_of: concepts/adult-learning
-source_updated: "2026-09-30T08:39:04-04:00"
+source_updated: "2026-10-16T19:47:08-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -54,6 +54,7 @@ El aprendizaje de adultos se sitúa en la intersección de varios conceptos estr
 
 - **Diseñe la IA como andamiaje para la autodirección, no como sustituto.** La independencia conductual respecto de la herramienta no prueba que quien aprende haya dirigido el aprendizaje: proteja la propiedad de las metas, el control de la delegación y la recuperabilidad cognitiva ([[andragogy-cognitive-delegation-genai-2026|andragogía + delegación cognitiva]]).
 - **Encaje en vidas adultas ocupadas.** Haga que las herramientas sean asíncronas, móviles y utilizables sin conexión, y conecte el contenido con problemas del mundo real ([[ai-adult-learning-guidelines-dis2026|directrices de AI-ALOE]]).
+- **Diseñe para un abanico de grados de implicación, no para una profundidad supuesta.** Las personas adultas que trabajan reparten unos recursos cognitivos limitados entre el empleo, la familia y los estudios, por lo que un marco de seis semestres hizo que el diálogo socrático con IA resultara más gratificante que la vía rápida, en lugar de obligatorio [[packard-thinking-partner-framework-adult-learners-2026|Packard et al. (2026)]].
 - **Mantenga a una persona en el circuito.** Sitúe a quien educa como el lugar del cuidado relacional y cognitivo, especialmente para las personas adultas marginadas y [[neurodiversity|neurodivergentes]] ([[sovereign-hive-titl-further-education-2026|Tutor-in-the-Loop]]).
 - **Aborde la alfabetización digital fundacional y la confianza en los datos.** Construya [[ai-literacy|alfabetización en IA]] y [[trust|confianza]] en torno a la privacidad de los datos antes de esperar que se adopte la herramienta ([[community-centered-ai-education-adults|educación comunitaria en IA]]).
 - **Ancle la IA en la ciencia del aprendizaje y la andragogía, y prefiera la personalización profunda.** Aplique la teoría andragógica y conecte el contenido con problemas del mundo real; favorezca la personalización profunda (secuenciación de tareas, calibración de la dificultad) por encima de la adaptación superficial.
@@ -102,3 +103,4 @@ El aprendizaje de adultos se sitúa en la intersección de varios conceptos estr
 - [[dot-framework-survey-2026]]
 - [[kim-ai-productive-failure-adult-2026]] — Diseñar sistemas de IA que apoyen el aprendizaje basado en el fracaso productivo
 - [[kim-ai-andragogy-2026]] — Aplicaciones de la IA en apoyo de la andragogía (Kim et al. 2026)
+- [[packard-thinking-partner-framework-adult-learners-2026]] — Diseñar para un abanico de grados de implicación: hacer del diálogo socrático profundo la vía más gratificante

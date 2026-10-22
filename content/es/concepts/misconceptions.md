@@ -1,7 +1,7 @@
 ---
 title: Ideas erróneas sobre la IA
 created: "2026-09-28T19:11:07-04:00"
-updated: "2026-10-02T21:36:16-04:00"
+updated: "2026-10-22T07:34:46-04:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, teacher-role]
 pedagogy: [metacognition]
@@ -11,7 +11,7 @@ audience: [learners, instructors]
 confidence: high
 connected_faqs: [addressing-common-misconceptions-ai-education]
 translation_of: concepts/misconceptions
-source_updated: "2026-09-30T16:25:27-04:00"
+source_updated: "2026-10-15T08:25:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -144,4 +144,4 @@ Estas refutaciones están escritas deliberadamente en la forma del [[refutation-
 - [[milicevic-socratic-trap-strategic-misconceptions-2026]] — SocraticTrap-CS: explicaciones fluidas y con autoridad que son erróneas en lo conceptual y no en lo factual (Miličević et al. 2026)
 - [[humble-prompt-injection-ai-grading-red-team-2026]] — Las instrucciones ocultas en un archivo entregado pueden subir una nota calificada por IA sin ninguna advertencia visible (Humble 2026)
 - [[children-ai-safety-misconceptions-2026]] — Ideas erróneas de la infancia sobre la seguridad de la IA: la amistad con un robot malinterpretada como garantía de privacidad (Leisten et al. 2026)
-- [[etq-ai-conversational-teacher-training-2026]] — Conversational AI diagnostic for teaching misconceptions with evidence-grounded dialogue (Miranda & Calvani 2026)
+- [[etq-ai-conversational-teacher-training-2026]] — Diagnóstico con IA conversacional de las ideas erróneas sobre la enseñanza, con diálogo fundamentado en la evidencia (Miranda y Calvani 2026)

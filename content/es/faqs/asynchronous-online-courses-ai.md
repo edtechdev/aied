@@ -1,7 +1,7 @@
 ---
 title: "¿Cómo deberíamos diseñar y facilitar cursos en línea asíncronos cuando la IA puede hacer el trabajo?"
 created: "2026-09-22T18:29:06-04:00"
-updated: "2026-10-02T09:09:37-04:00"
+updated: "2026-10-22T07:28:33-04:00"
 connected_faqs: [reducing-over-reliance, course-ai-policy, verify-ai-output, group-work-ai]
 weight: 68
 type: faq
@@ -13,7 +13,7 @@ methods: [meta-analysis-systematic-review, rct, mixed-methods-research, design-b
 ethics: [guardrails]
 audience: [instructors, instructional designers]
 level: [higher ed, adult learning]
-source_updated: "2026-10-02T08:21:34-04:00"
+source_updated: "2026-10-21T14:32:00-04:00"
 translation_of: faqs/asynchronous-online-courses-ai
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
@@ -25,8 +25,6 @@ ai_assist:
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
-
-# ¿Cómo deberíamos diseñar y facilitar cursos en línea asíncronos cuando la IA puede hacer el trabajo?
 
 Ya ha hecho el descubrimiento que obliga a plantearse esta pregunta. En algún lugar de su curso asíncrono hay una tarea cuyo primer borrador ahora es gratis (una publicación en un foro de discusión, una reflexión, un análisis de caso, un conjunto de problemas), y el trabajo que llega es fluido, pertinente y no le dice nada sobre lo que el estudiante sabe hacer. Usted no está en el aula para ver cómo ocurre el pensamiento, y el artefacto que antes lo representaba ya no lo representa.
 

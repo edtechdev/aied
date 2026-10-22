@@ -1,7 +1,7 @@
 ---
 title: "¿Cómo podemos abordar las concepciones erróneas más comunes sobre la IA en educación?"
 created: "2026-09-22T18:29:08-04:00"
-updated: "2026-10-02T21:16:54-04:00"
+updated: "2026-10-22T07:28:56-04:00"
 connected_faqs: [top-10-findings-ai-education-instructors, reduce-ai-cheating, should-we-use-ai-detectors, writing-instruction-ai-best-practices]
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, reducing-ai-misuse, teacher-role, teacher-ai-competency]
 pedagogy: [misconceptions, refutation-text]
@@ -9,8 +9,9 @@ technology: [prompt-engineering]
 assessment: [ai-detection, assessment-validity, feedback-literacy]
 ethics: [equity-in-ai-education, pedagogical-safety, trust-calibration]
 weight: 95
+audience: [instructors, instructional designers, administrators, policymakers, learners, researchers, parents and families]
 institutions: [governance]
-source_updated: "2026-10-02T08:21:34-04:00"
+source_updated: "2026-10-21T14:32:00-04:00"
 translation_of: faqs/addressing-common-misconceptions-ai-education
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]

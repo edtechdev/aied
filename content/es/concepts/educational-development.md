@@ -2,7 +2,7 @@
 connected_resources: [education-agent-skills, fpds-apps-and-resources]
 title: Desarrollo educativo
 created: "2026-09-28T18:15:33-04:00"
-updated: "2026-10-09T17:40:00-04:00"
+updated: "2026-10-22T07:33:24-04:00"
 connected_faqs: [ai-save-instructor-time, faculty-ai-competencies, faculty-development-ai]
 type: concept
 foundations: [ai-literacy, curriculum-design, learning-design, teacher-role, teacher-ai-competency]
@@ -11,7 +11,7 @@ level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: concepts/educational-development
-source_updated: "2026-10-07T13:40:00-04:00"
+source_updated: "2026-10-16T08:47:09-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -44,6 +44,7 @@ El desarrollo educativo es el trabajo profesional e institucional mediante el cu
 ## El desarrollo educativo en la era de la IA
 
 - **Marcos de preparación:** [[sangwa-epiq-ai-faculty-readiness-2026|el marco EPIQ-AI]] identifica cuatro dominios de preparación: epistémico, pedagógico, institucional y de calidad y cumplimiento. La preparación del profesorado es un problema de alineación sociotécnica, no solo una brecha individual de capacidades.
+- **Compruebe qué describen los niveles de un marco antes de adoptarlo.** En 16 marcos de competencia en IA respaldados institucionalmente, el uso de la IA, la evaluación de resultados y la aplicación al dominio eran sustantivos en los 16, mientras que la formulación de problemas (7), la competencia en datos (9) y la creación con IA (8) no lo eran; además, los niveles de competencia describen el desarrollo de quien aprende, el rol ocupacional o el grado, de modo que no son directamente comparables ([[ai-competence-framework-landscape-2026|Fitsilis (2026)]]).
 - **Estándares para la integración tecnológica:** [[crompton-faculty-technology-integration-standards-2026|Crompton et al.]] usan la [[design-based-research|investigación basada en el diseño]] para desarrollar estándares del profesorado para la integración de la tecnología (incluida la IA) en instituciones de [[higher-ed|educación superior]].
 - **Adopción y confianza:** [[teacher-ai-adoption-confidence|la investigación sobre la adopción de la IA por el profesorado]] identifica las preocupaciones, el apoyo, la confianza y las actitudes como predictores clave. Los programas de desarrollo del profesorado deben abordar los cuatro.
 - **Integración curricular:** los [[institutional-change-framework-ai|marcos de cambio institucional]] y la [[ai-assessment-scale-reform|reforma de la evaluación]] exigen que el profesorado rediseñe los cursos, y no solo que añada herramientas de IA.
@@ -159,5 +160,6 @@ Confianza y alfabetización no son objetivos intercambiables: en un SEM de 502 e
 - [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Quienes desarrollan el ámbito académico como mediadores digitales en la educación superior del Sur global: el desarrollo como praxis sociotécnica
 - [[physics-faculty-learning-community-ai-2026]] — Una serie de talleres para el uso eficaz de la IA en tiempos inciertos: construir una comunidad de aprendizaje de profesorado de física
 
-- [[faculty-ai-well-being-social-supports-2026]] — El bienestar del profesorado con IA depende de la alfabetización en IA y no de la autoeficacia tecnológica
+- [[faculty-ai-well-being-social-supports-2026]] — El bienestar del profesorado con IA depende de la alfabetización
+- [[ai-competence-framework-landscape-2026]] — Compruebe qué describen los niveles de un marco antes de adoptarlo en IA y no de la autoeficacia tecnológica
 - [[intelligent-tpack-pd-intervention-hongkong-2025]] — Formación continua Intelligent-TPACK: la asistencia predice las ganancias, la participación autopercibida no

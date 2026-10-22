@@ -11,7 +11,8 @@ level: [higher ed]
 confidence: high
 connected_resources: [process-feedback]
 translation_of: concepts/process-oriented-assessment
-source_updated: "2026-10-14T11:15:00-04:00"
+updated: "2026-10-22T07:34:46-04:00"
+source_updated: "2026-10-16T19:45:37-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -56,6 +57,8 @@ El canal elegido para la evidencia de proceso cambia qué puede evidenciarse: en
 Los relatos de profesionales y de marcos completan los artefactos. El marco LEARN de Uden y Hwang (2026), dirigido a la [[assessment|evaluación]] del [[problem-based-learning|aprendizaje basado en problemas]], pide rúbricas centradas en el proceso, justificaciones orales, entregas por etapas y rastros de razonamiento con [[ai-use-disclosure|divulgación del uso de IA]], y trata la reflexión mediante diarios de aprendizaje y protocolos de pensamiento en voz alta como el motor [[metacognition|metacognitivo]] de la secuencia. Moganadas y sus colegas (2026) convierten la evaluación transparente en el uso de IA y orientada al proceso en una de cinco proposiciones investigables, que exige documentación, verificación y justificación reflexiva en lugar de prohibición o uso de detectores. Padhy (2026) recomienda capturar el historial de revisiones, los patrones de interacción y el tiempo en la tarea, junto con una divulgación transparente. Goldstein, Marae-Haj y Zidan (2026) informan de los mismos artefactos surgidos de la práctica tras una crisis de [[trust]]: registros de prompts, historial de versiones de documentos, contribuciones grupales monitorizadas y «diarios de viaje» reflexivos llevados en cuadernos físicos, junto con el hallazgo llano de que el trabajo escrito para llevar a casa ya no podía evidenciar aprendizaje.
 
 Están apareciendo herramientas concretas: [[stepwise-teacher-diagnosis-math-2026|Kim et al. (2026)]] operacionalizan la resolución de problemas como cuatro etapas y ocho subhabilidades diagnósticas para que un LLM pueda generar preguntas y rúbricas específicas de cada etapa; cinco docentes y 64 estudiantes usaron el sistema con 90 problemas y 720 subpreguntas, con una puntuación media de 83,5 en la Escala de Usabilidad del Sistema.
+
+La documentación exigida resultó viable a escala de curso: a lo largo de seis semestres de cursos asíncronos de métodos de investigación de seis semanas para aproximadamente 440 docentes de K-12, las entregas de los puntos de control promediaron un 96% de finalización, y las iteraciones posteriores que añadieron plantillas explícitas de prompts produjeron reflexiones más largas y visiblemente más sustantivas ([[packard-thinking-partner-framework-adult-learners-2026|Packard et al. (2026)]]).
 
 ## Un eje distinto del de la autenticidad y del de la calificación
 
@@ -110,3 +113,4 @@ El relato de Thapa y Lewis es conceptual: sin participantes, sin recogida de dat
 - [[drafttrace-ai-writing-analytics-2026]] — DraftTrace: un entorno de analítica multivista para la escritura integrada con IA
 - [[epistemic-ownership-ai-mediated-education-2026]] — Mismo rendimiento, proceso distinto: propiedad epistémica en la educación mediada por IA
 - [[stepwise-teacher-diagnosis-math-2026]] — STEPwise: apoyo al profesorado en el diagnóstico de las habilidades de resolución de problemas matemáticos del estudiantado mediante preguntas generadas por LLM
+- [[packard-thinking-partner-framework-adult-learners-2026]] — La documentación de los puntos de control del diálogo con IA mantuvo un 96% de finalización en seis semestres y unos 440 docentes

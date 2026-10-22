@@ -1,6 +1,7 @@
 ---
 title: Ingeniería de prompts
 created: "2026-09-25T03:54:13-04:00"
+updated: "2026-10-22T07:28:33-04:00"
 connected_faqs: [making-ai-better-at-supporting-learning, training-ai-tutors-to-guide-rather-than-answer]
 type: concept
 foundations: [ai-literacy]
@@ -11,7 +12,7 @@ level: [higher ed]
 confidence: high
 connected_resources: [edugems, matt-pocock-skills, pedagogical-promptbook, writing-rhetoric-studies-in-the-loop]
 translation_of: concepts/prompt-engineering
-source_updated: "2026-10-14T11:15:00-04:00"
+source_updated: "2026-10-16T20:19:49-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -48,6 +49,7 @@ La ingeniería de prompts es central para el uso eficaz de la [[generative-ai|IA
 - **La profundidad mejora el producto, no la retención.** En 22 estudiantes de posgrado, la proporción de prompts de búsqueda de explicación («por qué/cómo/explica») predijo de forma independiente la calidad de la tarea calificada por marcadores externos (β = 6,27) más allá del conocimiento de base y del volumen de prompts, aunque mostró una asociación nula con el recuerdo inmediato ([[llm-interaction-depth-task-quality-recall-2026|Tsiligkiris (2026)]]).
 - **La cognición del prompt sigue a la disciplina, no al estudiante.** [[student-ai-conversations-cognitive-engagement-2026|Chang y Li (2026)]] clasificaron 60.087 prompts de 116 cursos y encontraron que los perfiles por nivel de Bloom diferían según la disciplina: STEM con predominio de Aplicar (20,8%), ciencias sociales con predominio de Crear (33,8%), con una varianza a nivel de curso que superaba la varianza a nivel de estudiante.
 - **El prompting como alfabetización:** la investigación [[tracing-genai-literacy-interaction-patterns|Tracing GenAI literacy]] y la de [[aaai2026-prompting-literacy-k12|alfabetización en prompting en K-12]] enmarcan el prompting como un componente central de la [[ai-literacy]].
+- **Los prompts vagos dejan rastro en el diálogo.** La firma del grupo de menor calidad fue un bucle de aclaración autorrepetitivo (IC→IC, Z = 3,25), atribuido a prompts vagos y a lecturas erróneas de la IA, y concentró la mayor brecha de frustración del estudio (2,12 frente a 3,82); depurar los prompts sobre registros auténticos apunta a ese bucle en el momento en que ocurre ([[fang-human-ai-collaboration-patterns-instructional-design-2026|Fang et al. (2026)]]).
 - **Los novatos recurren por defecto al ensayo y error, y culpan al modelo.** En un seminario de lingüística del texto, diez personas novatas en IA generativa refinaron los prompts por ensayo y error, rara vez acudieron a ejemplos en contexto y atribuyeron abrumadoramente los malos resultados al LLM en lugar de a su propia formulación del prompt ([[llms-text-linguistics-teaching-2026|Brocca y Garassino (2026)]]).
 - **Cuando el docente modela el prompt, el estudiantado lo reutiliza literalmente.** Entre 310 prompts registrados de doce grupos STEAM de secundaria, la copia exacta de la instrucción del docente fue la postura más frecuente del estudiantado con un 47,1%, por delante de la indagación espontánea con un 28,7% ([[middle-school-genai-steam-interactions-2026|Zhao y Li (2026)]]).
 - **Un ciclo regulatorio supera a una fórmula de prompt.** En un piloto cuasiexperimental con 42 estudiantes de grado, el estudiantado al que se enseñó el ciclo IDEA (Intención, Deconstrucción, Expresión, Adaptación) produjo prompts y resultados de mayor calidad que los compañeros a los que se enseñó el prompting Rol–Tarea–Contexto–Formato en las cinco categorías de tarea (ganancias ajustadas de prompt de +11,77 a +29,19 puntos) ([[idea-framework-metacognitive-genai-2026|Wang et al., 2026]]).
@@ -125,3 +127,4 @@ La ingeniería de prompts se conecta con el [[scaffolding]]: los prompts bien di
 - [[llm-feedback-focus-adaptivity-student-writing-2026]] — Evaluación del Foco de la Retroalimentación y la Adaptatividad Pedagógica en la Retroalimentación Generada por LLM sobre la Escritura del Estudiantado
 - [[middle-school-genai-steam-interactions-2026]] — Los grupos STEAM de secundaria copiaron literalmente la instrucción del docente en el 47,1% de los prompts
 - [[ecd-prompts-automated-essay-scoring-2026]] — Uso del Diseño Centrado en la Evidencia para guiar la ingeniería de prompts en medición: una ilustración con puntuación automatizada de ensayos
+- [[fang-human-ai-collaboration-patterns-instructional-design-2026]] — Los prompts vagos produjeron bucles de aclaración autorrepetitivos con la mayor brecha de frustración

@@ -1,13 +1,13 @@
 ---
 title: Diagnóstico cognitivo
 created: "2026-09-28T18:17:50-04:00"
-updated: "2026-10-02T21:28:55-04:00"
+updated: "2026-10-22T07:28:42-04:00"
 type: concept
 technology: [intelligent-tutoring, knowledge-tracing, learning-analytics, student-modeling]
 assessment: [assessment, educational-measurement, psychometrically-aware-ai]
 confidence: high
 translation_of: concepts/cognitive-diagnosis
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-15T10:00:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:

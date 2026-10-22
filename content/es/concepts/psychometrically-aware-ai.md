@@ -1,13 +1,13 @@
 ---
 title: IA psicométricamente consciente
 created: "2026-09-28T19:11:03-04:00"
-updated: "2026-10-02T21:35:10-04:00"
+updated: "2026-10-22T07:28:42-04:00"
 type: concept
 technology: [llm]
 assessment: [assessment-validity, automated-assessment, educational-measurement, item-response-theory]
 confidence: medium
 translation_of: concepts/psychometrically-aware-ai
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-21T10:45:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -41,6 +41,7 @@ A medida que los sistemas de IA puntúan respuestas, predicen dificultad y ofrec
 - **Las marcas de confianza priorizan la revisión, no la aceptación.** En la calificación manuscrita de física de alto impacto, las etiquetas de confianza de la IA siguieron un error de puntuación mucho menor en las partes de alta confianza, pero algunas partes de alta confianza y sin señalizar seguían discrepando de las calificaciones oficiales, así que las etiquetas son útiles para priorizar la revisión del examinador en lugar de autorizar la aceptación automática ([[ai-grading-handwritten-physics-2026|Pathak et al. (2026)]]).
 - **Predicción de la dificultad:** la [[llm-item-difficulty-prediction|predicción de la dificultad de los ítems]] muestra cómo las estimaciones basadas en LLM deben validarse contra modelos psicométricos (véase la [[item-response-theory|teoría de respuesta al ítem]]). [[razavi-powers-item-difficulty-llm-2026|Razavi y Powers (2026)]] ofrecen una demostración a gran escala: en 5.170 ítems de matemáticas y lectura de K-5 calibrados con el modelo IRT de Rasch, las valoraciones de dificultad de GPT-4o sin ejemplos previos se correlacionaron de forma moderada a fuerte con las dificultades reales (r = 0,83 en matemáticas, r = 0,81 en lectura), pero fueron desiguales entre cursos, mientras que un enfoque basado en características (características extraídas por LLM introducidas en modelos de árboles) alcanzó correlaciones de hasta r = 0,87. La [[explainable-ai|importancia de las características]] interpretable del estudio (el curso y el número de palabras como mejores predictores) y su flujo de trabajo práctico de siete pasos ilustran cómo puede operacionalizarse la IA psicométricamente consciente, mientras que su hallazgo de restricción de rango en los primeros cursos y sus advertencias sobre generalizabilidad subrayan la necesidad de validar las estimaciones de los LLM contra parámetros psicométricos ajustados.
 - **Recuperar una curva no es lo mismo que recuperar todos los parámetros.** Un modelo multimodal ajustado como [[simulating-students|respondiente simulado]] estimó la dificultad de los ítems reservados con r = 0,85 y recuperó el parámetro de adivinación con 0,48, pero la discriminación fue débil, con 0,31: qué parámetro recupera un método es el hallazgo ([[multimodal-item-parameter-estimation-2026|Ormerod y Kim, 2026]]).
+- **Las métricas equilibradas detectan un modelo que solo parece calibrado.** Pedir a GPT-4o y a Gemini 2.0 Flash que infirieran dimensiones de estilo de aprendizaje a partir de los diálogos de 153 estudiantes de grado produjo una precisión moderada que el recuerdo por clase mostró que era predicción de la etiqueta dominante, con el estudiantado Intuitivo y Global infraidentificado y el prompting con pocos ejemplos amplificando a veces el sesgo en lugar de eliminarlo ([[learning-style-inference-bias-student-ai-dialogues-2026|Zamanifard, Goudarzi y Robb (2026)]]).
 - **Validez de la medición:** el concepto se conecta con la [[assessment-validity|validez de la evaluación]] y la [[educational-measurement|medición educativa]], los marcos que definen cómo es una evaluación con IA válida y fiable.
 - **Validez de la estructura latente:** [[assessment-latent-structure-human-llm-2026|Strugatski et al. (2026)]] muestran que una postura psicométricamente consciente también debe verificar que una evaluación mida el *mismo constructo latente* en los LLM que en las personas. Como las estructuras factoriales de las respuestas de los LLM y de las personas divergen en los mismos instrumentos, incluso los modelos con buenas puntuaciones pueden no estar midiendo el constructo que el examen dice medir, una advertencia para cualquier evaluación con IA que tome prestada evidencia de validez humana.
 - **Una etiqueta puede medir más, o menos, de lo que nombra.** Incrustar los 55 constructos y 272 ítems de 12 instrumentos de alfabetización en IA sacó a la luz pares jangle (misma etiqueta, medición distinta) y pares jingle (etiquetas distintas, redacción casi idéntica), recuperando la fiabilidad en r = 0,49, una comprobación previa a la recogida de que las distinciones entre constructos sobreviven a la redacción de los ítems ([[ai-literacy-measurement-conceptual-landscape-llm-2026|He et al. (2026)]]).
@@ -73,3 +74,4 @@ La IA psicométricamente consciente se sitúa en la intersección de la [[educat
 - [[razavi-powers-item-difficulty-llm-2026]] — Estimación de la dificultad de los ítems con LLM y aprendizaje automático basado en árboles
 - [[ai-literacy-measurement-conceptual-landscape-llm-2026]] — Comparación de instrumentos de alfabetización en IA: pares jangle y jingle en 55 constructos
 - [[student-llm-use-ai-question-difficulty-data-science-2026]] — El uso de LLM por parte del estudiantado y los límites de la dificultad de preguntas generadas por IA en cursos de ciencia de datos
+- [[learning-style-inference-bias-student-ai-dialogues-2026]] — La precisión moderada era predicción de la clase mayoritaria al comprobar el recuerdo por clase (Zamanifard, Goudarzi y Robb 2026)

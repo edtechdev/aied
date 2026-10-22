@@ -1,7 +1,7 @@
 ---
 title: Bienestar
 created: "2026-09-28T20:10:26-04:00"
-updated: "2026-10-02T21:24:18-04:00"
+updated: "2026-10-22T07:34:46-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [motivation, social-emotional-learning]
@@ -11,7 +11,7 @@ level: [higher ed]
 confidence: high
 connected_faqs: [how-ai-impacts-students, ai-anxiety-wellbeing]
 translation_of: concepts/well-being
-source_updated: "2026-10-01T20:35:10-04:00"
+source_updated: "2026-10-16T08:47:09-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -43,6 +43,7 @@ El bienestar en la educación es multifacético: incluye el bienestar emocional 
 - **[[ai-literacy|Alfabetización en IA]] y aprendizaje socioemocional:** [[sec-ai-literacy-narrative-review-2026|la investigación que integra las competencias socioemocionales en la alfabetización en IA]] sostiene que fomentar la inteligencia emocional y el bienestar del profesorado y del estudiantado es esencial para navegar entornos de aprendizaje [[sociocultural-learning|mediados por IA]], lo que conecta con el [[social-emotional-learning|aprendizaje socioemocional]] y las dimensiones afectivas de la IA.
 
 - **Ansiedad ante la IA y experiencia del estudiantado:** los estudios sobre la implicación del estudiantado con la IA (p. ej., [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination|investigación basada en la teoría de la autodeterminación]]) encuentran que el uso de la IA está entrelazado con la ansiedad, la confianza y la seguridad, y que el bienestar del estudiantado se ve afectado por preocupaciones sobre la integridad académica, la [[creativity|creatividad]] y la [[cognitive-offloading|dependencia excesiva]].
+- **La ansiedad ante las pruebas se redistribuye, no se elimina.** [[mulvenon-test-anxiety-ai-accountability-2026|Mulvenon (2026)]] sostiene que, a medida que la [[assessment|evaluación]] pasa de las pruebas puntuales de alto impacto a una evaluación continua y basada en datos, la rendición de cuentas algorítmica añade un nuevo sistema de presión cuyos mecanismos —inmediatez, visibilidad y permanencia de los datos— convierten el estrés agudo de los exámenes en una vigilancia difusa y permanente del desempeño que rara vez se declara.
 - **La reducción de la ansiedad no es uniformemente beneficiosa.** En un estudio intra-sujetos contrabalanceado con 35 estudiantes de preuniversitario, un agente conversacional aumentado con LLM redujo la ansiedad autoinformada durante las evaluaciones orales (calma 6,50 frente a 5,86, p = .028), pero los autores advierten que una ansiedad moderada puede ser facilitadora y no registraron puntuaciones de logro ([[aivaluate-anxiety-assessment-2026|Yusuf, Money y Daylamani-Zad (2026)]]).
 - **Una aprobación alta puede coexistir con tensión, y la presión de tareas de IA debilita el beneficio.** Entre 551 estudiantes de primer año, el 82,76% aprobó la integración de contenidos digitales e inteligentes, mientras que el 69,51% declaró [[anxiety-and-stress|ansiedad]] o tensión, y la pendiente de competencia en IA a ajuste cayó de 0,42 a 0,20 a medida que aumentaba la presión de tareas de IA ([[ai-enabled-course-development-first-year-adjustment-2026|Zhang y Yin (2026)]]).
 - **La capacidad percibida de la IA puede elevar la salud mental a través del progreso hacia las metas.** [[perceived-ai-intelligence-medical-students-mental-health-2026|Chen et al. (2026)]] encontraron que la vía serial desde la inteligencia percibida del asistente hasta la salud mental era significativa (B = 0,098) y más fuerte con [[ai-literacy|alfabetización en IA]] alta (0,124) que baja (0,072), aunque todos los resultados se midieron inmediatamente después de una tarea breve.
@@ -113,3 +114,4 @@ El bienestar se conecta con la [[student-experience|experiencia del estudiantado
 - [[perceived-ai-intelligence-medical-students-mental-health-2026]] — Inteligencia percibida del asistente de IA, progreso hacia metas y salud mental, con la alfabetización en IA como moderadora
 - [[ai-emotion-regulation-sport-exercise-2026]] — Replanteamiento conceptual de la regulación emocional apoyada por IA a través del deporte, el ejercicio y la ecología del campus
 - [[faculty-ai-well-being-social-supports-2026]] — Modelo de ecuaciones estructurales del bienestar docente con IA: la alfabetización en IA domina sobre la autoeficacia
+- [[mulvenon-test-anxiety-ai-accountability-2026]] — La ansiedad ante las pruebas se redistribuye, no se elimina

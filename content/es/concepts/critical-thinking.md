@@ -1,7 +1,7 @@
 ---
 title: Pensamiento crítico
 created: "2026-09-25T04:31:09-04:00"
-updated: "2026-10-09T17:05:00-04:00"
+updated: "2026-10-22T07:28:33-04:00"
 type: concept
 foundations: [ai-education, ai-literacy, cognitive-offloading]
 pedagogy: [scaffolding, socratic-method]
@@ -10,7 +10,7 @@ connected_faqs: [verify-ai-output]
 level: [higher ed]
 confidence: medium
 translation_of: concepts/critical-thinking
-source_updated: "2026-10-07T15:40:00-04:00"
+source_updated: "2026-10-21T12:05:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 connected_resources: [pressing-prompts, student-guide-to-ai]
 contributors: [editor]
@@ -150,4 +150,3 @@ El pensamiento crítico se cruza con el [[scaffolding|andamiaje]] (diseñar apoy
 - [[genai-dependence-research-creativity-2026]] — La dependencia de la IA generativa se asocia positivamente con el pensamiento crítico en 1.157 estudiantes de posgrado
 - [[genai-use-critical-thinking-moderation-2026]] — El uso de IA generativa y el pensamiento crítico a través de la alfabetización en retroalimentación, con una vía directa solo para el estudiantado menos reflexivo
 - [[genai-support-threaten-learning-k20-expert-consensus-2026]] — Un consenso de 30 personas expertas: el pensamiento crítico carga con la mayor calificación de disrupción del informe (media 4,00)
-- [[hallstrom-ai-literacy-stem-education-frontiers-2026]] — Síntesis de los diez estudios más citados sobre alfabetización en IA en la educación STEM (Hallström et al. 2026)

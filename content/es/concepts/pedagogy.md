@@ -1,7 +1,7 @@
 ---
 title: Pedagogías y estrategias de enseñanza
 created: "2026-09-25T03:54:11-04:00"
-updated: "2026-10-03T02:52:14-04:00"
+updated: "2026-10-22T07:31:46-04:00"
 connected_faqs: [designing-ai-into-learning]
 type: concept
 foundations: [ai-education, learning-design]
@@ -9,7 +9,7 @@ pedagogy: [pedagogy]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/pedagogy
-source_updated: "2026-09-30T16:25:27-04:00"
+source_updated: "2026-10-16T08:47:09-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -84,6 +84,8 @@ Las distintas estrategias pedagógicas producen distintos tipos y tamaños de [[
 
 El hallazgo transversal clave, coherente con la investigación de la base de conocimiento sobre [[learning-gains]], es que **el efecto de la estrategia en el aprendizaje depende más de cómo preserva el esfuerzo de quien aprende y el esfuerzo productivo que de la etiqueta que lleve**: cualquier pedagogía, incluso una «buena», fracasa si la IA se configura para saltarse el trabajo cognitivo que debía provocar (véanse [[cognitive-offloading]], [[desirable-difficulties]]).
 
+La [[student-ai-interaction|interacción entre el estudiantado y la IA]] se lee mejor como un proceso cambiante de distribución cognitiva que como una dependencia fija: en 53 conversaciones de ChatGPT de un curso transdisciplinar de [[engineering-education|ingeniería]], la extensión (co-pensamiento ajustado e iterativo) fue el tipo de interacción más frecuente, con el 53,3% de 321 códigos a nivel de indicación, por delante de la externalización, con el 29,6% ([[cognitive-distribution-student-genai-interaction-2026|Willcox, Lane y Arikan (2026)]]).
+
 Ese énfasis en preservar el esfuerzo no es absoluto: un diseño [[mixed-methods-research|de métodos mixtos]] de cuatro estudios (N = 912) encontró que enmarcar la IA generativa como compañera pedagógica activaba tanto la vigilancia crítica como la descarga estratégica, y que la descarga por encima de un umbral liberaba capacidad para la reflexión de orden superior en lugar de erosionarla ([[wang-zhang-pedagogical-partnerships-genai-2026|Wang y Zhang (2026)]]).
 
 ## Implicaciones para la IA en la educación
@@ -132,3 +134,4 @@ Ese énfasis en preservar el esfuerzo no es absoluto: un diseño [[mixed-methods
 - [[fowlin-operationalizing-learning-principles-ai]] — Operacionalizar los principios del aprendizaje con IA
 - [[kibar-ilgaz-ai-instructional-design-review-2026]] — AI and Instructional Design Practice: A Systematic Review (Kibar & Ilgaz 2026)
 - [[liu-ai-literacy-interventions-meta-analysis-2026]] — Enfoques instruccionales en las intervenciones de alfabetización en IA
+- [[cognitive-distribution-student-genai-interaction-2026]] — La interacción estudiantado-IA como distribución cognitiva cambiante y no como dependencia fija (53,3% de extensión)

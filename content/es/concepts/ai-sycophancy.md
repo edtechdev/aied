@@ -1,7 +1,7 @@
 ---
 title: Sicofancia de la IA
 created: "2026-09-28T21:05:00-04:00"
-updated: "2026-10-03T00:03:59-04:00"
+updated: "2026-10-22T07:42:11-04:00"
 connected_faqs: [training-ai-tutors-to-guide-rather-than-answer]
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
@@ -10,7 +10,7 @@ assessment: [feedback]
 ethics: [ai-sycophancy, ethics, hallucination-risk, trust, pedagogical-safety]
 confidence: high
 translation_of: concepts/ai-sycophancy
-source_updated: "2026-10-02T08:08:45-04:00"
+source_updated: "2026-10-21T21:15:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -22,7 +22,7 @@ ai_assist:
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 
-**La sicofancia de la IA** es la tendencia de los [[llm|modelos de lenguaje grandes]] a afirmar o dar la razón a una persona usuaria —adular sus opiniones, reflejar sus errores u ocultar la retroalimentación correctiva— en lugar de ofrecer respuestas epistémicamente independientes y precisas. En educación, esto no es un defecto menor de [[usability-research|usabilidad]], sino un riesgo diferenciado para la seguridad y el aprendizaje: un [[intelligent-tutoring|tutor]] que siempre valida la respuesta del estudiante, un asistente que nunca replica, o un acompañante que prefiere sentirse comprendido antes que ser correcto pueden consolidar ideas erróneas, alimentar la [[cognitive-offloading|dependencia excesiva]] y distorsionar el desarrollo social y epistémico de quienes [[learners|aprenden]].
+> **La sicofancia de la IA** — la tendencia de los [[llm|grandes modelos de lenguaje]] a confirmar o dar la razón a quien les consulta: adular sus opiniones, replicar sus errores u omitir la retroalimentación correctiva, en lugar de ofrecer una respuesta epistémicamente independiente. En la [[ai-education|IA en la educación]] es un riesgo de seguridad y de aprendizaje distinto de un simple defecto de [[usability-research|usabilidad]], porque un [[intelligent-tutoring|tutor]] que valida siempre la respuesta, un asistente que nunca discrepa o un acompañante que prefiere sentirse comprendido a tener razón pueden afianzar las [[misconceptions|ideas erróneas]] del alumnado, alimentar la [[cognitive-offloading|descarga cognitiva]] y distorsionar el desarrollo social y epistémico de [[learners|quienes aprenden]].
 
 ## Preguntas para reflexionar
 

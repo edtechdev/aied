@@ -1,15 +1,15 @@
 ---
 title: Retroalimentación
 created: "2026-09-25T03:54:18-04:00"
-updated: "2026-10-09T17:55:00-04:00"
+updated: "2026-10-22T07:31:04-04:00"
 type: concept
 assessment: [ai-feedback-quality, assessment, automated-assessment, feedback, feedback-literacy, formative-assessment, peer-assessment]
 connected_faqs: [developing-ai-tutor, ai-feedback-at-scale]
 confidence: high
 translation_of: concepts/feedback
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-17T03:49:06-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
-connected_resources: [clarity, pedagogical-promptbook]
+connected_resources: [clarity, pedagogical-promptbook, snorkl]
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
@@ -39,7 +39,7 @@ ai_assist:
 Este es el concepto paraguas de las ideas de la base de conocimiento relacionadas con la retroalimentación. La retroalimentación se sitúa en la intersección de la evaluación y el aprendizaje: sin retroalimentación, la evaluación mide el desempeño pero no lo mejora; con una retroalimentación eficaz, la evaluación se convierte en un acontecimiento de aprendizaje. La base de conocimiento trata la retroalimentación como un **sistema** con múltiples facetas: la calidad de la retroalimentación misma ([[ai-feedback-quality]]), el bucle a través del cual cierra la brecha de aprendizaje, la capacidad de quien aprende para usarla ([[feedback-literacy]]) y los contextos de evaluación en los que opera ([[formative-assessment]], [[peer-assessment]], [[automated-assessment]]).
 
 - **[[yilmaz-genai-feedback-srl-online-higher-ed-2026|Yilmaz et al.]]** muestran que la percepción del estudiantado sobre la *fuente* de la retroalimentación (IA o persona) da forma al aprendizaje autorregulado a partir de la retroalimentación de [[generative-ai|IA generativa]], una matización crucial para las afirmaciones sobre la eficacia de la retroalimentación.
-- **[[nazaretsky-feedback-source-bias-2025|Nazaretsky et al. (2025)]]** aíslan la fuente del contenido: 472 estudiantes de la EPFL valoraron retroalimentación humana y de GPT-4.0 comparables en contenido sobre su propio trabajo, primero a ciegas y después de revelarse la fuente, y la mayoría no pudo distinguirlas de forma fiable (287 de 472 acertaron). Una vez revelada la etiqueta, las valoraciones de la variante de IA bajaron y las de la variante humana subieron —de forma significativa en Autenticidad (p < .01)—, y la credibilidad del proveedor se separó con claridad (humano μ = 3,28 frente a IA μ = 2,25, d de Cohen = 0,57). El sesgo se adhiere al proveedor y no al texto, ya que ambas variantes eran comparables en corrección y calidad cognitiva.
+- **[[nazaretsky-feedback-source-bias-2025|Nazaretsky et al. (2025)]]** aíslan la fuente del contenido: 472 estudiantes de la EPFL valoraron retroalimentación humana y de GPT-4.0 comparables en contenido sobre su propio trabajo, primero a ciegas y después de revelarse la fuente, y la mayoría no pudo distinguirlas de forma fiable (287 de 472 acertaron). Una vez revelada la etiqueta, las valoraciones de la variante de IA bajaron y las de la variante humana subieron —de forma significativa en Autenticidad (p < .01)—, y la credibilidad del proveedor se separó con claridad (humano μ = 3,28 frente a IA μ = 2,25, d de Cohen = 0,57). El sesgo se adhiere al proveedor y no al texto, ya que ambas variantes eran comparables en corrección y calidad cognitiva. [[chatgpt-feedback-credibility-perceived-learning|Pérez-López et al. (2026)]] llevan la credibilidad de la retroalimentación hasta el aprendizaje: entre 230 estudiantes de empresariales tras un ensayo apoyado por IA, la credibilidad predijo el aprendizaje percibido, con la competencia percibida y la empatía similar a la humana como sus antecedentes.
 
 ## El sistema de retroalimentación
 
@@ -51,6 +51,7 @@ La retroalimentación se entiende mejor no como un acontecimiento único, sino c
 - **[[formative-assessment]]**: el contexto de evaluación en el que la retroalimentación se usa para mejorar el aprendizaje mientras este está en curso, y no solo para juzgarlo.
 - **[[peer-assessment]]**: la retroalimentación intercambiada entre [[learners]], cada vez más aumentada por la IA y un espacio para desarrollar la alfabetización en retroalimentación.
 - **[[automated-assessment]]**: la puntuación y la retroalimentación impulsadas por IA, desde la [[automated-essay-scoring|corrección automática de ensayos]] hasta la calificación de respuestas cortas consciente de la confianza.
+- **Las partes se compensan entre sí.** Diseñar la retroalimentación significa elegir entre usabilidad, fuentes y sostenibilidad en lugar de maximizar las tres; [[assessment-feedback-trilemma-model-2026|Pedlow et al. (2026)]] tratan la sostenibilidad como el polo que no debe depender de ninguna persona, recurso o condición institucional concretos.
 
 ### El bucle de retroalimentación
 
@@ -209,3 +210,4 @@ La retroalimentación es uno de los mecanismos más determinantes y mejor docume
 - [[zhao-ji-appraisal-human-ai-revisions-2026]] — Qué hace una revisión a la postura de quien escribe: la retroalimentación entre pares vuelve más contractivos los ensayos argumentativos y la revisión con IA mantiene el equilibrio Contract/Expand (Zhao y Ji 2026)
 - [[xu-automated-feedback-tutor-training-2025]] — Mejora de los sistemas de retroalimentación automatizada para la formación de tutores en escenarios de pocos recursos mediante aumento de datos (Xu et al. 2025)
 - [[etq-ai-conversational-teacher-training-2026]] — Diagnóstico conversacional de IA para las concepciones erróneas docentes mediante diálogo fundamentado en la evidencia (Miranda y Calvani 2026)
+- [[assessment-feedback-trilemma-model-2026]] — Nombra la disyuntiva entre usabilidad, fuentes y sostenibilidad, y convierte la sostenibilidad en un polo de diseño

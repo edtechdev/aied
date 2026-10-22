@@ -1,7 +1,7 @@
 ---
 title: "Educación jurídica"
 created: "2026-09-28T20:10:03-04:00"
-updated: "2026-10-02T23:55:01-04:00"
+updated: "2026-10-22T07:30:40-04:00"
 type: concept
 foundations: [academic-integrity, critical-thinking, reducing-ai-misuse]
 pedagogy: [career-development-and-readiness, experiential-learning, professional-training, socratic-method]
@@ -15,7 +15,7 @@ audience: [instructors, curriculum designers, administrators, researchers]
 page_kind: [synthesis]
 confidence: medium
 translation_of: concepts/legal-education
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-16T06:18:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -69,6 +69,8 @@ Tres cosas hacen de la educación jurídica más que un área de conocimiento m�
 
 **La validez de la evaluación es inseparable de la competencia profesional.** Se teme que la [[cognitive-offloading|dependencia excesiva]] durante los estudios de derecho deje a los egresados poco preparados para un trabajo que exige análisis jurídico y argumentación independientes, y una calificación que premia la salida fluida no puede distinguir la comprensión de un estudiante de la de un modelo. La pregunta de [[assessment-validity|validez]] no es, por tanto, académica.
 
+En un experimento en contexto jurídico, 186 personas legas que decidían sobre casos civiles en un tribunal se plegaron a una posición de IA incorrecta mucho menos cuando el sistema retenía su propia posición (5,7–8,2% frente a 42,0–60,5%), pero no construyeron un juicio medible: protector y no correctivo, y medido en personas legas que deciden, no en estudiantes de derecho ([[tuo-armada-multi-agent-debate-overreliance-2026|Tuo et al., 2026]]).
+
 **Las normas de declaración están sin resolver y tienen consecuencias.** Gutowski y Hurley informan de desacuerdo sobre si debe declararse cualquier uso de IA, de propuestas de formularios de declaración del estudiantado y de falta de consenso sobre la práctica de citación, con el Bluebook todavía en silencio sobre cómo citar la IA generativa. También predicen que los requisitos de declaración acabarán pareciendo tan innecesarios como señalar que un estudiante usó un buscador, lo que es una predicción sobre la vida útil de las reglas que ahora se están escribiendo.
 
 **La ética profesional viaja con el egresado.** El deber de competencia tecnológica de la ABA y sus orientaciones sobre confidencialidad, supervisión y franqueza ante el tribunal se aplican a quienes ejercen con estas herramientas, y las facultades de derecho heredan la tarea de enseñarlas. Por eso la disciplina conecta directamente con el trabajo de la base de conocimiento sobre la [[ai-use-disclosure|declaración del uso de IA]] y sobre las [[legal-issues-and-risks|cuestiones legales y los riesgos]] que surgen cuando las instituciones gobiernan mal la IA.
@@ -100,3 +102,4 @@ Tres cosas hacen de la educación jurídica más que un área de conocimiento m�
 
 - [[gutowski-hurley-genai-policy-legal-education-2025]] — Comparación de cinco factores de las políticas de IA generativa en facultades de derecho y un marco de gobernanza
 - [[llm-turing-test-italian-legal-exams-2026]] — Test de Turing a ciegas sobre exámenes italianos de habilitación, judicatura y notaría, con referencia a la corrección experta
+- [[tuo-armada-multi-agent-debate-overreliance-2026]] — Retener la posición del sistema suprime la dependencia excesiva en decisiones de contexto jurídico sin construir juicio (personas legas, no estudiantes de derecho)

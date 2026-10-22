@@ -1,7 +1,7 @@
 ---
 title: Evaluación de la IA en educación
 created: "2026-09-28T19:10:33-04:00"
-updated: "2026-10-09T17:40:00-04:00"
+updated: "2026-10-22T07:28:42-04:00"
 type: concept
 foundations: [agentic-ai, teacher-role]
 technology: [generative-ai, human-in-the-loop-ai, llm]
@@ -12,7 +12,7 @@ connected_faqs: [top-10-findings-ai-education-instructors, research-gaps-aied, d
 confidence: high
 methods: [benchmark]
 translation_of: concepts/ai-ed-evaluation
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-16T08:47:09-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -109,11 +109,13 @@ Se necesitan puntos de referencia condicionados por el contexto: [[zhang-tutormo
 - **La métrica que elija puede invertir sus conclusiones.** [[zhang-platform-scores-miss-ai-teaching-agents-2026|Zhang et al. (2026)]], al evaluar agentes de enseñanza con IA en la [[medical-education|educación médica]], encontraron que las puntuaciones agregadas no divulgadas de una [[edtech-platform|plataforma educativa]] ordenaban a los agentes casi al contrario que una rúbrica transparente y validada por especialistas de 8 dimensiones de calidad docente (precisión del conocimiento médico, orientación pedagógica, cobertura del conocimiento, calidad del juego de roles, dificultad adaptativa, seguridad médica, implicación y retroalimentación). Las puntuaciones de la plataforma indexan el rendimiento del estudiantado; la rúbrica indexa la conducta docente del agente: elegir la métrica equivocada determina qué agentes se adoptan o se refinan. También encontraron que la indulgencia del LLM como evaluador varía según el modelo (algunos son demasiado indulgentes para discriminar), así que la puntuación automatizada necesita calibración humana y es más fiable en las dimensiones de proceso cognitivo.
 - **Una tasa de error puede ocultar el fallo que pretende detectar.** [[ai-mediated-input-medical-english-asr-2026|Stanchev (2026)]] envió una única grabación de texto a voz de un pasaje de inglés médico a cuatro servicios de [[speech-and-voice-technologies|ASR]]: los dos servicios gratuitos devolvieron el 87,96% y el 88,34% de la referencia, mientras que los dos de pago devolvieron previsualizaciones del 32,76% y el 55,35% y por tanto obtuvieron tasas de error de palabra del 73,21% y el 48,77%. Las altas tasas de error provenían de tokens nunca devueltos y no de tokens mal oídos, así que clasificar solo por la tasa de error trató una restricción de exportación como un fallo de transcripción. La cobertura pertenece al lado de la tasa de error siempre que una métrica automatizada sustituya al artefacto que ve quien aprende.
 - **Ancle las suites de evaluación al aprendizaje medido, no a sus sustitutos.** Los puntos de referencia de capacidad docente, las rúbricas de pedagogía conversacional y la latencia del tutor deben validarse contra mejoras de aprendizaje reales en lugar de tratarse como sustitutos de ellas, y la latencia es en sí misma un eje de evaluación porque determina si el estudiantado se implica siquiera ([[studentbench-ai-human-tutoring-gre-2026|Northcutt et al., 2026]]).
+- **Un mapa bibliométrico puede revelar qué recompensa una cultura de evaluación.** En 1.403 publicaciones de educación médica, los trabajos más citados medían la capacidad del modelo —sobre todo el rendimiento de ChatGPT en exámenes de licencia— mientras que la investigación sobre [[governance|gobernanza]] quedaba rezagada, así que los autores piden una evaluación empírica de los marcos de gobernanza en lugar de más pruebas de capacidad ([[sriram-ethical-ai-medical-education-bibliometric-2026|Sriram et al. (2026)]]).
 - **Las evaluaciones por juicio experto necesitan su propia contabilidad de fiabilidad.** [[bespoke-industry-personalized-lecture-videos-2026|Puech et al. (2026)]] hicieron que 25 especialistas emparejados por dominio valoraran 92 [[video-education|vídeos de clase]] generados con una rúbrica anclada a la calidad de «una clase magistral tipo MOOC», juzgando el 87% en el umbral o por encima (media 3,42 de 5). Cada vídeo fue valorado una sola vez por una persona revisora (k = 1), así que el diseño reparte el panel por todo el corpus a costa de una estadística de acuerdo interevaluadores; un modelo de intercepto aleatorio atribuyó alrededor del 35% de la varianza residual a la persona revisora (ICC = 0,35) y el artículo informa intervalos agrupados por revisor en lugar de una única cifra de precisión. Una evaluación construida sobre el juicio experto es tan sólida como el análisis de fiabilidad que publica.
 
 ## Conceptos conectados
 
 - [[interpreting-and-applying-aied-research]]
+- [[ai-assisted-educational-research]] — Investigación educativa asistida por IA
 - [[assessment-validity]] — Validez de la interpretación en la evaluación de la IA en educación
 - [[educational-measurement]] — Teoría de la medición para evaluar el aprendizaje
 - [[psychometrically-aware-ai]] — Aplicar la psicometría a la evaluación basada en IA
@@ -130,7 +132,6 @@ Se necesitan puntos de referencia condicionados por el contexto: [[zhang-tutormo
 - [[hallucination-risk]] — Riesgo de contenido fabricado en las salidas de IA
 - [[intelligent-tutoring]] — Evaluar los sistemas de tutoría con IA
 - [[agentic-ai]] — Evaluar la conducta de agentes de IA autónomos
-- [[ai-assisted-educational-research]] — Investigación educativa asistida por IA
 
 ## Artículos conectados
 - [[zhang-platform-scores-miss-ai-teaching-agents-2026]] — Lo que se pierden las puntuaciones de plataforma: evaluación multidimensional de agentes de enseñanza con IA
@@ -172,3 +173,4 @@ Se necesitan puntos de referencia condicionados por el contexto: [[zhang-tutormo
 - [[synthetic-educational-data-structural-fidelity-2026]] — Lo que se pierden las métricas de fidelidad: una comprobación estructural de datos educativos sintéticos
 - [[bloom-classifier-ai-assisted-questions-2026]] — Evaluación de modelos preentrenados para la valoración pedagógica de nuevas preguntas educativas asistidas por IA
 - [[llm-judge-evaluation-educational-ai-2026]] — Cuando los evaluadores gritan «que viene el lobo»: lecciones de la evaluación con LLM como juez en producción en IA educativa
+- [[sriram-ethical-ai-medical-education-bibliometric-2026]] — Un mapa bibliométrico puede revelar qué recompensa una cultura de evaluación

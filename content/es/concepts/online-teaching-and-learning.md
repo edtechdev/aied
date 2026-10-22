@@ -1,7 +1,7 @@
 ---
 title: Enseñanza y aprendizaje en línea
 created: "2026-09-28T18:18:41-04:00"
-updated: "2026-10-02T22:49:49-04:00"
+updated: "2026-10-22T07:31:04-04:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, learning-design]
 pedagogy: [online-teaching-and-learning, pedagogy]
@@ -11,7 +11,7 @@ confidence: high
 connected_resources: [claw-ed, id-toolbox, liascript]
 connected_faqs: [asynchronous-online-courses-ai]
 translation_of: concepts/online-teaching-and-learning
-source_updated: "2026-09-30T16:25:27-04:00"
+source_updated: "2026-10-16T19:45:37-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -106,6 +106,7 @@ Cualquiera que sea la combinación que elija el profesorado, una restricción de
 - **Aprendizaje activo e interactivo.** Preferir estrategias que mantengan al estudiantado haciendo y pensando en lugar de recibiendo pasivamente: [[active-learning|aprendizaje activo]], ejercicios interactivos y diálogo [[socratic-method|socrático]]. La IA que incita al razonamiento (en lugar de suministrar respuestas) preserva la lucha productiva y las [[desirable-difficulties|dificultades deseables]] que construyen un aprendizaje duradero.
 - **Apoyo andamiado y guiado.** Usar [[scaffolding|andamiaje]] que se desvanece a medida que el estudiantado avanza, y diseñar apoyos para el [[self-regulated-learning|aprendizaje autorregulado]] de modo que quien aprende dirija su propio aprendizaje en lugar de depender de la herramienta.
 - **Aprendizaje colaborativo y basado en la discusión.** Estructurar deliberadamente las discusiones en línea y el trabajo en grupo; usar actividades de [[collaborative-learning|aprendizaje colaborativo]] y, cuando la IA participe, calibrar su facilitación y su rol como par.
+- **El diseño de roles es la intervención, no la herramienta.** En un curso de posgrado en línea, asignar roles rotativos de moderador, analista y argumentador a [[learners|quienes aprenden]] y a una pareja de IA generativa elevó las puntuaciones de contenido de los mapas mentales grupales de M = 3,65 a M = 4,59 en una escala SOLO de 1 a 5 (z = 3,771, p < 0,001), mientras que el número de nodos y de ramas se mantuvo estadísticamente plano ([[cheng-symbiotic-role-design-human-genai-collaboration-2026|Cheng et al. (2026)]]).
 - **Evaluación auténtica que revela el proceso.** Desplazarse hacia la [[authentic-assessment|evaluación auténtica]] y hacia evaluaciones que capturen el proceso —borradores, defensas orales, autoexplicación, [[eportfolio|portafolios]] reflexivos—, que son más resistentes a la IA y revelan una comprensión genuina.
 - **Rutas personalizadas y adaptativas.** Usar la [[personalized-learning|personalización]] y las actividades [[adaptive-learning|adaptativas]] habilitadas por IA para ajustar el ritmo y la dificultad, manteniendo la personalización profunda (secuenciación de tareas, calibración de la dificultad) y no meramente superficial (ejemplos a medida).
 - **Presencia social y construcción de comunidad.** Cultivar deliberadamente la presencia social y la [[collaborative-learning|comunidad]] —el núcleo del marco de la [[community-of-inquiry|comunidad de indagación]]— mediante acompañantes de IA, encuentros sincrónicos y interacción entre pares, ya que el aislamiento en línea es una barrera clave para la [[student-engagement|implicación]] y el sentido de pertenencia. En la era de la IA, esto significa curar las tres presencias (cognitiva, social y docente) aun cuando el discurso generado por máquinas complica quién está «presente» (véase [[community-of-inquiry|comunidad de indagación]]).
@@ -122,6 +123,7 @@ Cualquiera que sea la combinación que elija el profesorado, una restricción de
 - **Integrar la IA en el entorno de aprendizaje, no como un añadido externo.** Los asistentes diseñados a medida y ajustados al contexto e integrados en el curso (como [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of|AIDA]]) superan a los chatbots externos genéricos y aumentan la aceptación.
 - **Calibrar la facilitación de la IA hacia la prudencia humana.** Al usar IA para moderar discusiones, preferir configuraciones que intervengan con moderación ([[llm-facilitation-timing-online-discussions|Tsirmpas et al.]]).
 - **Diseñar para las restricciones de la vida adulta.** Para el estudiantado adulto y a distancia, priorizar el acceso móvil, la capacidad sin conexión y la disponibilidad asíncrona ([[ai-adult-learning-guidelines-dis2026|directrices de AI-ALOE]]).
+- **Los formatos comprimidos exigen rediseño, no compresión.** Los cursos asíncronos de posgrado de seis semanas para docentes en activo son una restricción institucional que exige un rediseño deliberado y no un curso de quince semanas comprimido, y el diálogo con IA lleva la presencia docente a las horas tardías que el profesorado no puede cubrir ([[packard-thinking-partner-framework-adult-learners-2026|Packard et al. (2026)]]).
 - **Codiseñar con el estudiantado y el personal, y construir gobernanza.** El desarrollo participativo, el patrocinio de la dirección, la colaboración entre unidades y una [[governance|gobernanza]] sólida son factores habilitantes para una adopción responsable de la IA generativa.
 - **Dar por supuesto que un agente intentará toda actividad sin supervisión, y diseñar desde ese supuesto.** La prueba de tres preguntas es rápida y expone las actividades débiles: ¿podría un sistema de IA completar esto sin que el estudiantado comprenda el material; qué actividad cognitiva se supone que produce el aprendizaje; qué evidencia mostrará que el estudiantado la realizó? Cuando la primera respuesta es sí y las otras dos son difíciles de responder, el problema es el diseño del aprendizaje y no la política sobre IA.
 - **Mantener la verificación proporcionada al riesgo.** Donde deba certificarse una competencia, preferir una tarea gemela, una defensa oral asíncrona o una breve comprobación de comprensión antes que una vigilancia generalizada; mantener el resto del curso flexible para el estudiantado que depende de esa flexibilidad.
@@ -180,3 +182,5 @@ Cualquiera que sea la combinación que elija el profesorado, una restricción de
 - [[personalized-ai-generated-videos-preference-2026]] — El estudiantado prefiere vídeos personalizados generados por IA a otros grabados por personas y no personalizados (Tomlinson et al. 2026)
 - [[hao-peer-exposure-bridging-social-capital-ai-summaries-2026]] — Diseño del aprendizaje basado en resúmenes generados por IA en foros de discusión en línea
 - [[ai-training-science-teacher-tpack-distance-2026]] — El estudiantado de magisterio de universidades presenciales informó de un TPACK más alto para la enseñanza de las ciencias integrada con IA que sus pares de educación a distancia (64,0% frente a 47,4%)
+- [[cheng-symbiotic-role-design-human-genai-collaboration-2026]] — El diseño de roles es la intervención, no la herramienta
+- [[packard-thinking-partner-framework-adult-learners-2026]] — Cursos de posgrado asíncronos de seis semanas para docentes en activo: rediseñar el formato en lugar de comprimirlo

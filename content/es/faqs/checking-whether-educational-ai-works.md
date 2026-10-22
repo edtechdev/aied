@@ -1,7 +1,7 @@
 ---
 title: "¿Cómo sabemos que una IA educativa funciona correctamente y no solo que puntúa bien?"
 created: "2026-10-02T09:08:04-04:00"
-updated: "2026-10-02T09:08:04-04:00"
+updated: "2026-10-22T07:34:46-04:00"
 weight: 73
 type: faq
 connected_faqs: [making-ai-better-at-supporting-learning, training-ai-tutors-to-guide-rather-than-answer, reporting-interpreting-aied-research, evaluating-ai-interventions-methods]
@@ -15,7 +15,7 @@ discipline: [writing education, math education]
 confidence: high
 methods: [benchmark, ai-ed-evaluation]
 ethics: [pedagogical-safety, trust-calibration]
-source_updated: "2026-10-02T08:21:34-04:00"
+source_updated: "2026-10-21T14:32:00-04:00"
 translation_of: faqs/checking-whether-educational-ai-works
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 reviewed_by: [editor]
@@ -28,8 +28,6 @@ ai_assist:
 ---
 
 *Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa.*
-
-# ¿Cómo sabemos que una IA educativa funciona correctamente y no solo que puntúa bien?
 
 Una IA educativa puede parecer que funciona cuando no lo hace. Las puntuaciones que más se ven —cuán parecida es la respuesta del modelo a una correcta, o cuán cerca quedan sus calificaciones de las de una persona— pueden verse sólidas mientras lo que a usted le importa de verdad está roto.
 

@@ -1,13 +1,13 @@
 ---
 title: Modelado del estudiantado e instrucción adaptativa
 created: "2026-09-28T18:15:36-04:00"
-updated: "2026-10-03T02:57:43-04:00"
+updated: "2026-10-22T07:33:49-04:00"
 connected_faqs: [making-simulated-students-behave-like-learners]
 type: concept
 technology: [adaptive-learning, cognitive-diagnosis, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, personalized-learning, simulating-students, student-modeling]
 confidence: high
 translation_of: concepts/student-modeling
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-21T10:45:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -88,6 +88,7 @@ Puede que algunas señales pretendidas no puedan recuperarse en absoluto del di�
 Las concepciones erróneas ocultas muestran el mismo fallo desde el otro lado: [[correct-answer-trap-misconceptions|Imran y Bulathwela (2026)]] encontraron que un clasificador ajustado detectó el 57,4% de las respuestas correctas alcanzadas mediante un razonamiento defectuoso, y con una prevalencia del 1,6% incluso un modelo de razonamiento con un 83,6% de exactitud dejó 8 falsas alarmas por detección, así que las señales de dominio basadas en la corrección son a la vez incompletas y caras de reparar.
 
 **Cómo se valida un modelo es en sí mismo una cuestión de validez.** [[schuetze-knowledge-tracing-forgetting-2026|Schuetze, Yan y Carvalho (2025)]] muestran que los modelos del estudiantado populares (BKT, BKT con olvido, AFM) parecen capturar el aprendizaje humano solo cuando se ajustan retroactivamente a un conjunto de datos completo de varias sesiones; bajo una validación cruzada temporal (hacia delante), que predice una sesión futura a partir de las anteriores —es decir, como se despliegan realmente estos modelos—, sobreestiman el rendimiento, no captan el [[retrieval-spacing-interleaving|efecto de espaciamiento]] y ordenan mal las condiciones de práctica. Como los modelos con olvido y sin olvido rindieron de forma parecida entre sesiones, los autores concluyen que el olvido suele absorberse en los parámetros del estudiantado en lugar de representarse de verdad. La lección para la familia es que una representación fiel de quien aprende debe validarse tal como se usa, y que confundir el rendimiento del momento con la retención a largo plazo produce modelos que parecen exactos pero representan mal a quien aprende.
+[[learning-style-inference-bias-student-ai-dialogues-2026|Zamanifard, Goudarzi y Robb (2026)]] muestran el mismo fallo desde el lado del clasificador: inferir dimensiones de estilo de aprendizaje a partir de los diálogos de resolución de problemas de 153 estudiantes de grado parecía moderado en exactitud hasta que el recuerdo por clase reveló una predicción dominada por la etiqueta mayoritaria, con quienes aprenden de forma intuitiva y global sistemáticamente infrarrepresentados y con ejemplos de pocas muestras que a veces amplificaban el sesgo de la clase mayoritaria.
 
 ## El modelado en la era de los LLM
 
@@ -159,3 +160,4 @@ El modelado del estudiantado y la instrucción adaptativa alimentan la [[learnin
 - [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn: un tutor agéntico que aprende de su estudiante en un bucle de coaprendizaje entre humano e IA
 
 - [[ai-game-based-learning-systematic-review-2026]] — La evaluación encubierta alcanzó AUC de 0,848–0,913, pero las auditorías de sesgo estuvieron casi ausentes en 55 estudios
+- [[learning-style-inference-bias-student-ai-dialogues-2026]] — La inferencia de estilo de aprendizaje basada en diálogo falla en métricas equilibradas (Zamanifard, Goudarzi y Robb, 2026)
