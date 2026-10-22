@@ -13,7 +13,7 @@ confidence: medium
 reviewed_by: [editor]
 ---
 
-> **Environmental Education** — teaching about climate, sustainability and the natural world, which in [[ai-education|AI in education]] has become two things at once: a subject that AI can support through [[inquiry-based-learning|inquiry]] and [[situated-learning|situated]] learning, and a cost that AI imposes, since energy-intensive [[llm|language models]] run on every student laptop carry an environmental footprint of their own. The knowledge base treats both halves together, because [[sustainability|sustainability]] education delivered by a carbon-intensive tool raises a question no single frame answers on its own.
+> **Environmental Education** — teaching about climate, sustainability and the natural world, which in [[ai-education|AI in education]] has become two things at once: a subject that AI can support through [[inquiry-based-learning|inquiry]] and [[situated-learning|situated]] learning, and a cost that AI imposes, since energy-intensive [[llm|language models]] run on every student laptop carry an environmental footprint of their own. The knowledge base treats both halves together, because [[sustainability]] education delivered by a carbon-intensive tool raises a question no single frame answers on its own.
 
 ## Questions to Consider
 
