@@ -1,7 +1,7 @@
 ---
 title: Global South
 created: "2026-08-18T14:55:00-04:00"
-updated: "2026-09-30T09:59:35-04:00"
+updated: "2026-10-21T21:15:00-04:00"
 type: concept
 foundations: [ai-literacy]
 technology: [generative-ai]
@@ -9,9 +9,7 @@ ethics: [culturally-relevant-pedagogy, equity-in-ai-education, global-south]
 level: [higher ed, k 12]
 confidence: high
 reviewed_by: [editor]
----
-
-The **Global South** refers to countries in Africa, Asia, Latin America, and Oceania that are often economically, politically, and historically marginalized relative to the Global North. In [[ai-education|AI in education]] [[research-methods-aied|research]], Global South contexts are increasingly recognized as underrepresented in the evidence base, yet they raise distinctive questions about [[equity-in-ai-education|equity]], [[culturally-relevant-pedagogy|cultural relevance]], resource constraints, and the epistemic dominance of Western, Anglophone training data.
+---> **Global South** — countries in Africa, Asia, Latin America and Oceania that are often economically, politically and historically marginalized relative to the Global North. In [[ai-education|AI in education]] [[research-methods-aied|research]], these contexts are increasingly recognized as underrepresented in the evidence base, yet they raise distinctive questions about [[equity-in-ai-education|equity]], [[culturally-relevant-pedagogy|cultural relevance]], resource constraints, and the epistemic dominance of Western, Anglophone training data.
 
 ## Questions to Consider
 
