@@ -1,7 +1,7 @@
 ---
 title: "How Can AI Save Me Time as an Instructor?"
 created: "2026-08-25T09:20:00-04:00"
-updated: "2026-10-02T08:21:34-04:00"
+updated: "2026-10-21T14:32:00-04:00"
 connected_faqs: [ai-feedback-at-scale, faculty-ai-competencies]
 weight: 78
 foundations: [ai-literacy, educational-development, teacher-role]
@@ -9,9 +9,6 @@ assessment: [ai-feedback-quality]
 audience: [instructors, faculty developers]
 reviewed_by: [editor]
 ---
-
-# How Can AI Save Me Time as an Instructor?
-
 **AI is best suited to repeatable, lower-stakes drafting and transformation work, while consequential educational judgment remains with the instructor.** Productive uses include first drafts of lesson materials, examples, discussion questions, [[formative-assessment|formative]] quizzes, alternative explanations, rubrics, feedback suggestions, summaries, differentiated versions of materials, and routine administrative language. The key mechanism is **reallocation, not reduction**: AI frees time that instructors redirect toward higher-value instructional work — the same time then buys more one-on-one student interaction, deeper feedback, and higher-order teaching.
 
 ## What the evidence shows

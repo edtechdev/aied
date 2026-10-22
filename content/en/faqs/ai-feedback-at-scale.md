@@ -1,7 +1,7 @@
 ---
 title: "How Can AI Help Me Give Better Feedback at Scale?"
 created: "2026-09-16T15:58:20-04:00"
-updated: "2026-10-02T08:21:34-04:00"
+updated: "2026-10-21T14:32:00-04:00"
 connected_faqs: [writing-instruction-ai-best-practices, checking-whether-educational-ai-works, ai-save-instructor-time]
 weight: 70
 type: faq
@@ -13,9 +13,6 @@ audience: [instructors, assessment designers, assessment professionals]
 level: [higher ed, secondary]
 reviewed_by: [editor]
 ---
-
-# How Can AI Help Me Give Better Feedback at Scale?
-
 It is week six. You have a stack of drafts, a rubric you believe in, and a growing suspicion that a third of your comments will be skimmed and forgotten. A colleague mentions that a tool now comments on every draft within the hour. You want to know whether that is a real upgrade or a faster way to produce text nobody reads.
 
 **The bottom line:** AI feedback is worth adopting for coverage, timeliness and consistency inside a narrow band — copy-editing-scale language work and rubric-guided first-pass comments — and it is worth adopting only if you design what happens around the comments. Reach is the easy part. In [[genai-feedback-design-multisite-experiment|a cluster-randomized experiment with 1,176 first-year undergraduates]], reflective and hybrid designs beat direct AI critique on delayed, AI-free [[transfer-of-learning|transfer]]; in [[farrokhnia-genai-feedback-student-revisions-2026|a randomized essay experiment with 70 students]], higher-quality AI feedback did not produce better revisions than an experienced teacher's. Across the evidence, what students do with a comment matters more than how fast the comment arrives, and [[feedback-literacy|feedback literacy]] — not AI access — separates the students who gain from the ones who copy.

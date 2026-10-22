@@ -1,7 +1,7 @@
 ---
 title: "How Should Parents and Teachers Approach AI with Children Under 13?"
 created: "2026-09-16T15:25:00-04:00"
-updated: "2026-10-02T08:21:34-04:00"
+updated: "2026-10-21T14:32:00-04:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, incorporating-ai-literacy, how-ai-impacts-students]
 weight: 75
 type: faq
@@ -15,9 +15,6 @@ level: [preschool, primary education, k 12]
 institutions: [educational-policy-ai, governance, regulation]
 reviewed_by: [editor]
 ---
-
-# How Should Parents and Teachers Approach AI with Children Under 13?
-
 The AI is already in your house or your classroom: the toy that talks back, the tablet companion, the tutor your child opens while you make dinner, the writing tool a colleague is enthusiastic about. You are deciding what a child under thirteen may do with it, with or without a policy.
 
 The bottom line: **generative AI is the advanced tier for this age band, not the entry point.** Let a young child meet AI first as something people design and children can shape, keep an adult in the loop wherever the child cannot judge the output, and protect the child's own thinking. A blanket ban is not the safest option, because most of this age group's exposure happens at home where a school ban does not reach — and no study of age-based bans exists.

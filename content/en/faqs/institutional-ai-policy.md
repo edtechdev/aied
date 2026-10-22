@@ -1,7 +1,7 @@
 ---
 title: "How Do We Write and Implement an Institutional AI Policy?"
 created: "2026-09-16T15:58:20-04:00"
-updated: "2026-10-02T08:21:34-04:00"
+updated: "2026-10-21T14:32:00-04:00"
 connected_faqs: [course-ai-policy, equity-ethics-pedagogical-safety-research]
 weight: 65
 type: faq
@@ -12,9 +12,6 @@ level: [higher ed]
 institutions: [change-management, educational-policy-ai, governance]
 reviewed_by: [editor]
 ---
-
-# How Do We Write and Implement an Institutional AI Policy?
-
 You are the provost, dean, governance lead, teaching center director or committee chair who has to produce or defend this policy, and to answer a colleague who calls it too strict or too vague. The direct bottom line: publishing a policy is the easy part, and a document alone changes nothing. Most institutions have already answered whether to have one by publishing one, and the resulting estate is broad but shallow — advisory rather than binding, clustered around academic integrity, and thin on the data, equity and capability problems that decide whether AI use goes well. What separates a defensible policy from a document that gathers dust is a named owner, a review calendar, a translation path into courses, and an assessment design that rewards the behavior you are asking for.
 
 ## The short version

@@ -1,19 +1,17 @@
 ---
 title: "Should We Use AI Detectors?"
 created: "2026-09-17T09:21:00-04:00"
-updated: "2026-10-02T08:21:34-04:00"
+updated: "2026-10-21T14:32:00-04:00"
 connected_faqs: [redesign-assessment-ai-era, course-ai-policy, reduce-ai-cheating, addressing-common-misconceptions-ai-education]
 weight: 85
 foundations: [academic-integrity]
 assessment: [ai-detection, assessment-validity]
 ethics: [equity-in-ai-education, trust, privacy, ai-use-disclosure]
 level: [higher ed]
+audience: [instructors, administrators, assessment professionals]
 institutions: [educational-policy-ai, governance]
 reviewed_by: [editor]
 ---
-
-# Should We Use AI Detectors?
-
 **Not as evidence in a misconduct case, and not as an institution's first line of defense. A detector score cannot be validated against ground truth, cannot be cross-examined, and does not meet the balance-of-probabilities standard that [[academic-integrity|academic integrity]] findings require.** Worse, its errors are patterned rather than random: the strongest controlled study in the knowledge base found that detectors flag honest, guideline-compliant AI *editing* far more readily than unmodified student prose, while deliberate evasion passes almost untouched — and the students most likely to be flagged are non-native English writers ([[karr-ai-detection-humanization-2026]], [[teichmann-detecting-undetectable-misconduct-2026]]) — one of several places where an AI system's error rate is not distributed evenly across learners, as [[differential-effects-across-learner-groups|Differential Effects Across Learner Groups]] documents.  [[bassett-ai-detectors-education-2026|Bassett et al. (2026)]] go further and argue detection should not be used in education at all, because the technology cannot tell "work created *with* AI" from "work created *by* AI." This page is for the people who have to decide: instructors, academic integrity officers, and administrators. The design-side playbook lives in [[reduce-ai-cheating|How Can I Reduce AI Cheating in My Course?]].
 
 ## 1. The accuracy numbers do not support a finding

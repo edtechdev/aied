@@ -1,17 +1,15 @@
 ---
 title: "What Measures and Research Methods Can an Instructor Use to Evaluate AI-Related Interventions?"
 created: "2026-08-25T09:20:00-04:00"
-updated: "2026-10-02T08:21:34-04:00"
+updated: "2026-10-21T14:32:00-04:00"
 connected_faqs: [does-ai-help-students-learn, checking-whether-educational-ai-works, research-gaps-aied]
 weight: 55
+audience: [instructors, researchers, faculty developers]
 assessment: [assessment, self-report-measures]
 page_kind: [evaluation]
 methods: [ai-ed-evaluation, research-methods-aied]
 reviewed_by: [editor]
 ---
-
-# What Measures and Research Methods Can an Instructor Use to Evaluate AI-Related Interventions?
-
 **Match the method to the claim.** If you want to know whether students *liked* an AI activity, a survey can help. If you want to know whether they *learned*, use performance measures. A survey is a [[self-report-measures|self-report measure]] — the right instrument for attitudes and the wrong one for learning, for the reasons collected on that page. If you want to know whether the AI *caused* an improvement, you need a credible comparison condition and preferably random assignment.
 
 ## Method options

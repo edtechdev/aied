@@ -1,7 +1,7 @@
 ---
 title: "How Should I Handle AI in Group and Collaborative Assignments?"
 created: "2026-09-16T15:58:20-04:00"
-updated: "2026-10-02T08:21:34-04:00"
+updated: "2026-10-21T14:32:00-04:00"
 connected_faqs: [course-ai-policy, asynchronous-online-courses-ai]
 weight: 60
 type: faq
@@ -14,9 +14,6 @@ audience: [instructors, instructional designers, assessment designers]
 level: [higher ed, secondary]
 reviewed_by: [editor]
 ---
-
-# How Should I Handle AI in Group and Collaborative Assignments?
-
 You set a group assignment, and two failure modes arrive with the submissions: an artifact that is polished and coherent but that no member can explain, and a team where one student ran the work through [[generative-ai|generative AI]] while three others coasted on the shared grade. Nothing in the file tells you which.
 
 Both are grading problems before they are integrity problems, and design problems before either: a group assignment makes two claims at once — what the team produced, and what each member learned — and AI presses on both, changing how easily work can be partitioned, how smoothly contributions fuse, and how hard it is to tell whose thinking is in the submission.

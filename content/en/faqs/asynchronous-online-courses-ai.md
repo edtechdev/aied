@@ -1,7 +1,7 @@
 ---
 title: "How Should We Design and Facilitate Asynchronous Online Courses When AI Can Do the Work?"
 created: "2026-09-17T03:40:00-04:00"
-updated: "2026-10-02T08:21:34-04:00"
+updated: "2026-10-21T14:32:00-04:00"
 connected_faqs: [reducing-over-reliance, course-ai-policy, verify-ai-output, group-work-ai]
 weight: 68
 type: faq
@@ -15,9 +15,6 @@ audience: [instructors, instructional designers]
 level: [higher ed, adult learning]
 reviewed_by: [editor]
 ---
-
-# How Should We Design and Facilitate Asynchronous Online Courses When AI Can Do the Work?
-
 You have already made the discovery that forces this question. Somewhere in your asynchronous course is an assignment whose first draft is now free — a discussion post, a reflection, a case analysis, a problem set — and the work that arrives is fluent, on-topic and tells you nothing about what the student can do. You are not in the room to watch the thinking happen, and the artifact that used to stand in for it no longer does.
 
 That was the version of the problem in which a student decides, at two in the morning, to let a model write the post. The harder version is already here. In three demonstrations on a live undergraduate psychology course, autonomous agents logged into the learning management system, read the course materials, and completed unproctored assessed work with no student involved: two quizzes finished in about **12 minutes** and in **under 5 minutes**, both scoring **10/10**, and a discussion post in which the agent mined its peers' posts and then fabricated a credible first-person life history to answer them. The wider record the authors assemble covers at least **15 documented agent runs** across Canvas, Moodle and Brightspace using **seven agent tools**. Their argument is that this is an [[assessment-validity]] problem rather than only an [[academic-integrity|integrity]] one: agent completion removes the assumption that the submitted work was produced by the person whose learning is being assessed ([[ai-agents-complete-lms-assessment-validity-2026|Hadjisolomou and El-Haddad, 2026]]).

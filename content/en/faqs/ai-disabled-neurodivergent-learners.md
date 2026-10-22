@@ -1,7 +1,7 @@
 ---
 title: "How Can AI Support Disabled and Neurodivergent Learners in My Course?"
 created: "2026-09-16T15:58:20-04:00"
-updated: "2026-10-02T08:21:34-04:00"
+updated: "2026-10-21T14:32:00-04:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, reducing-over-reliance]
 weight: 65
 type: faq
@@ -12,9 +12,6 @@ audience: [instructors, instructional designers]
 level: [higher ed, k 12, special education]
 reviewed_by: [editor]
 ---
-
-# How Can AI Support Disabled and Neurodivergent Learners in My Course?
-
 You are the instructor who just received an accommodation letter, the accessibility lead deciding whether to approve a license, or the disability services coordinator who has to answer a tool request by Friday. You do not need a literature review. You need a defensible decision: what to adopt, what to refuse, and how to tell whether the thing you approved actually helped the student in front of you.
 
 The bottom line, with its caveats left in place: AI can support disabled and neurodivergent learners, but what has been measured is narrow. Most of the evidence concerns tools that remove one functional barrier at a time; the strongest quantitative result comes from PK-12 special-education settings using mostly pre-generative AI; and the higher-education picture is a map of what has been tried rather than a measurement of what works. Nothing here justifies blanket adoption. Everything here supports a narrow, instructed, barrier-specific adoption — and names several practices that go wrong.

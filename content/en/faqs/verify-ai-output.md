@@ -1,7 +1,7 @@
 ---
 title: "How Do I Teach Students to Verify AI Output?"
 created: "2026-09-16T15:58:20-04:00"
-updated: "2026-10-02T08:21:34-04:00"
+updated: "2026-10-21T14:32:00-04:00"
 connected_faqs: [incorporating-ai-literacy, study-with-ai, reducing-over-reliance, asynchronous-online-courses-ai]
 weight: 65
 type: faq
@@ -12,9 +12,6 @@ audience: [instructors, instructional designers, learners]
 level: [higher ed, secondary]
 reviewed_by: [editor]
 ---
-
-# How Do I Teach Students to Verify AI Output?
-
 You have warned them. The chatbot is not a search engine, check the sources, use it responsibly — and the same fabricated citations and confident wrong answers keep arriving in the submissions. The warnings fail because they ask for a disposition. Careful students have it, hurried ones do not, and there is nothing in the sentence a student can act on at 11 p.m. with an output on screen that reads perfectly well.
 
 The research gathered here says that framing is too coarse to teach or grade. Checking is a set of analytically separate actions, and the broad label "responsible use" hides the difference between a student who attempted a check and one who settled whether the output was correct. The bottom line: verification becomes teachable the moment you stop treating it as a trait and start treating it as a sequence — a standard fixed before the check, a check that produces a record, and a decision the student must defend on domain grounds. That is a design problem you can solve this week — and a grading problem you can solve with artifacts the assignment already generates.

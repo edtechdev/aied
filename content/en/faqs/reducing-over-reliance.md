@@ -1,7 +1,7 @@
 ---
 title: "How Do I Keep Students from Over-Relying on AI?"
 created: "2026-09-16T15:58:20-04:00"
-updated: "2026-10-02T08:21:34-04:00"
+updated: "2026-10-21T14:32:00-04:00"
 connected_faqs: [study-with-ai, verify-ai-output, asynchronous-online-courses-ai, ai-disabled-neurodivergent-learners]
 weight: 80
 type: faq
@@ -14,9 +14,6 @@ audience: [instructors, instructional designers]
 level: [higher ed, secondary, k 12]
 reviewed_by: [editor]
 ---
-
-# How Do I Keep Students from Over-Relying on AI?
-
 You have graded work that reads better than the student can explain. They ace the take-home problem set and blank on the exam. Grades have stopped predicting what they understand, and you suspect the tool is doing the thinking.
 
 You are probably right, and this is a design problem, not a policing problem. **Over-reliance is not the same as frequent use, and the interventions that reduce it are mostly task designs rather than restrictions on access.** Durable learning is built by retrieval, elaboration and generation, and generative AI can supply the product of those processes without requiring them.
