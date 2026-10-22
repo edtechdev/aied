@@ -17,6 +17,7 @@ import { hasPageCopy, type PageKey } from '../i18n';
 import HeaderMoreMenu from '../components/HeaderMoreMenu.astro';
 import { strings } from '../i18n';
 import { localizedTitles, localizedTitle } from '../i18n/localizedTitles';
+import { DEFAULT_STARRED } from '../stores/stars';
 import { TRANSLATED_ROUTES, localeHref, localizeHref, setTranslationMap, translationMapFrom, taxonomyHeading } from '../i18n/config';
 import { buildNavItems } from '../lib/nav';
 import siteConfig from '../config/siteConfig';
@@ -120,8 +121,14 @@ concepts.forEach(c => {
   conceptMap[slug] = localizedTitle(localized, 'concepts', slug, c.data.title);
 });
 
-// Combined slug -> title map across concepts, articles, and FAQs, for the
-// starred-pages sidebar list (so it can show friendly titles, not slugs).
+// Combined slug -> title map across concepts, articles, and FAQs.
+//
+// Only the pre-seeded starred titles are inlined (4 entries, a couple of hundred
+// bytes). The full map — 2,035 entries, ~315 KB — is served as JSON from
+// /aied/titles/<locale>.json and fetched by the starred script, which is
+// client-side anyway. Inlining it here made it ~64% of every page and duplicated
+// ~2 GB across the 6,618 pages that carried it: the largest single cost in the
+// deploy artifact. See src/lib/pageTitles.ts and src/pages/titles/[locale].json.ts.
 const allTitles: Record<string, string> = {};
 concepts.forEach(c => {
   const slug = c.id.replace('.md', '');
@@ -135,6 +142,13 @@ faqs.forEach(f => {
   const slug = f.id.replace('.md', '');
   allTitles[slug] = localizedTitle(localized, 'faqs', slug, f.data.title);
 });
+
+const starredTitles: Record<string, string> = {};
+for (const key of DEFAULT_STARRED) {
+  const slug = key.split('/')[1];
+  if (allTitles[slug]) starredTitles[slug] = allTitles[slug];
+}
+const titlesUrl = `${siteConfig.basePath}/titles/${locale}.json`;
 
 const indexedCount = [...new Set(conceptIndex.flatMap(s => s.groups.flatMap(g => g.items)))]
   .filter(s => conceptMap[s]).length;
@@ -1482,7 +1496,7 @@ const recentConceptItems = recentConcepts.map(c => {
         </div>
 
         <div class="sidebar-panel" id="sidebar-panel-starred" role="tabpanel" data-sidebar-panel="starred" hidden>
-          <StarredPages titles={allTitles} locale={locale} />
+          <StarredPages titles={starredTitles} titlesUrl={titlesUrl} locale={locale} />
         </div>
       </aside>
 

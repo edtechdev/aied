@@ -6,20 +6,26 @@ import { strings } from '../i18n';
  * src/stores/stars.ts). Pre-seeded with the default starred concepts.
  *
  * Starred items are grouped into three collapsible subsections: Concepts,
- * FAQs, and Articles. Receives a slug -> display-title map (from BaseLayout)
- * so starred concepts show a friendly label.
+ * FAQs, and Articles. Receives a slug -> display-title map covering the
+ * pre-seeded starred pages, plus a URL for the locale's full map, which the
+ * script fetches and merges in (see src/pages/titles/[locale].json.ts).
  */
 import { DEFAULT_STARRED } from '../stores/stars';
 import { DEFAULT_LOCALE, currentTranslationMap, localizeHref } from '../i18n/config';
 
 interface Props {
-  /** slug -> display title (concepts and any other pages the sidebar knows). */
+  /**
+   * slug -> display title for the PRE-SEEDED starred pages only. Enough to label
+   * the default list on first paint; the full map arrives from `titlesUrl`.
+   */
   titles: Record<string, string>;
   /** Locale whose chrome strings this component renders. */
   locale?: string;
+  /** JSON file holding the full slug -> title map for this locale. */
+  titlesUrl: string;
 }
 
-const { titles, locale = 'en' } = Astro.props;
+const { titles, locale = 'en', titlesUrl } = Astro.props;
 const chrome = strings(locale).ui.chrome;
 // The list is built in the browser from localStorage, so hand the script what it
 // needs to point an entry at this locale: the prefix, and which routes exist here.
@@ -37,7 +43,7 @@ const defaultEntries = DEFAULT_STARRED.map((key) => {
     <span class="starred-count" data-starred-count data-count-label={chrome.starredCount} data-none-label={chrome.starredNone}>{chrome.starredCount.replace('{count}', '0')}</span>
   </div>
 
-  <div class="starred-groups" data-starred-groups data-titles={JSON.stringify(titles)} data-label-concepts={chrome.concepts} data-label-faqs={chrome.faqs} data-label-articles={chrome.articles} data-locale-base={localeBase} data-translated={JSON.stringify(translatedRoutes)}>
+  <div class="starred-groups" data-starred-groups data-titles={JSON.stringify(titles)} data-titles-url={titlesUrl} data-label-concepts={chrome.concepts} data-label-faqs={chrome.faqs} data-label-articles={chrome.articles} data-locale-base={localeBase} data-translated={JSON.stringify(translatedRoutes)}>
     <details class="starred-group" open data-starred-group="concept" data-state-key="starred-group:concept">
       <summary>{chrome.concepts}</summary>
       <ul class="starred-list" data-starred-list="concept">
@@ -127,6 +133,24 @@ const defaultEntries = DEFAULT_STARRED.map((key) => {
     titles = JSON.parse(groups.dataset.titles || '{}');
   } catch {
     titles = {};
+  }
+
+  // The full slug -> title map lives in a JSON file, not on the page: inlining it
+  // made it ~64% of every page (~315 KB, 2,035 entries) and duplicated ~2 GB
+  // across the site, which was most of the deploy artifact. Only the pre-seeded
+  // starred titles are inlined above, so the default list is labelled on first
+  // paint; this fetch fills in the rest for anything the reader stars later.
+  const titlesUrl = groups.dataset.titlesUrl;
+  if (titlesUrl) {
+    fetch(titlesUrl)
+      .then((r) => (r.ok ? r.json() : Promise.reject(r.status)))
+      .then((full: Record<string, string>) => {
+        titles = { ...full, ...titles };
+        render();
+      })
+      .catch(() => {
+        /* fall back to the inlined titles - the list still works, just less labelled */
+      });
   }
 
   // The script cannot read the frontmatter, so the visible labels it needs come from
