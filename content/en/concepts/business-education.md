@@ -1,7 +1,7 @@
 ---
 title: Business Education
 created: "2026-08-20T09:05:00-04:00"
-updated: "2026-10-16T08:47:09-04:00"
+updated: "2026-10-22T12:02:21-04:00"
 type: concept
 foundations: [ai-education, curriculum-design]
 technology: [generative-ai]
@@ -51,6 +51,8 @@ AI in business education spans **economics** and **management** as core discipli
 
 Business is one of the fields where generative AI adoption is fastest, so business schools face acute pressure to prepare students for an AI-integrated workplace. The research emphasizes that effective integration is **curriculum-driven and student-informed** — not just adding AI tools but redesigning programs so that GenAI literacy, ethical judgment, and authentic application are woven through degree structures. This connects business education to the knowledge base's broader themes of [[ai-literacy|AI literacy]], [[teacher-role|educator]] preparation, [[assessment]] redesign, and [[curriculum-design|curriculum]] reform in the AI era.
 
+Business and MBA programs carry a visible share of that integrity load: nine of twenty sessional academics in one Sydney study taught business management or MBA, and named outsourced essay formats as the enabler they could not fix alone ([[sessional-academics-contract-cheating-digital-misconduct-2026|Andriamora & Andriamora, 2026]]).
+
 ## Implications for business instructors
 
 - **Integrate AI curriculum-driven and student-informed.** [[drummond-genai-business-schools-framework-2026|Student-informed frameworks]] and [[rook-plumb-genai-curricula-student-insights-2026|student insights]] show students want GenAI skills for careers and to use AI without unintentional misconduct — design programs that weave AI literacy, ethical judgment, and authentic application through degree structures.
@@ -74,6 +76,8 @@ Business is one of the fields where generative AI adoption is fastest, so busine
 - [[stem-education]]
 
 ## Connected Articles
+
+- [[sessional-academics-contract-cheating-digital-misconduct-2026]] — Business and MBA marking under AI-assisted misconduct
 - [[ai-decision-checkpoints-bpm-education-2026]] — AI-Decision Checkpoints for AI-Augmented Business Process Management: Framework and Educational Instantiation
 
 - [[ilieva-agentic-genai-higher-education-2026]] — AGAI-HE: agentic GAI support in an e-commerce course, perceived benefits and risks (Ilieva et al. 2026)

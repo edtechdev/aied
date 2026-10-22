@@ -1,7 +1,7 @@
 ---
 title: Oral Assessment
 created: "2026-09-23T08:35:38-04:00"
-updated: "2026-10-17T03:49:06-04:00"
+updated: "2026-10-22T12:02:21-04:00"
 connected_faqs: [redesign-assessment-ai-era, ai-feedback-at-scale]
 type: concept
 foundations: [academic-integrity, critical-thinking]
@@ -41,6 +41,8 @@ That reversal is now visible across the research corpus, but unevenly. Some work
 [[fenton-oral-exams-ai-authentic-assessment-2025|Fenton (2025)]] makes the strongest form of the argument. Drawing on the literature on [[authentic-assessment|authentic assessment]], the paper's case for the oral exam rests on its interactivity: questions can be withheld until the moment of the exam, follow-up probes can be improvised, and the learner cannot rehearse a response to a question they have not seen. The format also blocks rote memorisation, because recall is checked through explanation rather than reproduction. The paper is a review and position piece in *Educational Researcher*, not an empirical study, and it ends with thirteen numbered implementation recommendations rather than evidence of improved outcomes.
 
 The honest version of the integrity claim is narrower than it is often stated. Orals make substitution harder to hide; the corpus does not show that they reduce AI use. In [[code-review-genai-cs1|the CS1 oral code-review study]], weekly fifteen-minute interviews carried seventy per cent of each assignment's grade, and pasted-to-total characters still rose from 61.0 per cent to 68.1 per cent (p < 0.0001) across three semesters, while exam scores moved by a statistically insignificant two per cent. Ninety per cent of students said the reviews motivated them to understand their code better and sixty-five per cent that they helped avoid over-reliance on AI, but the measured behavior did not follow. Oral assessment changed what could be hidden, not what students did.
+
+Markers make the same argument in practical terms: twenty sessional academics endorsed in-class presentations because students can outsource the slides but must deliver the talk themselves ([[sessional-academics-contract-cheating-digital-misconduct-2026|Andriamora & Andriamora, 2026]]).
 
 ## The design space the corpus actually covers
 
@@ -91,6 +93,8 @@ The oral's integrity rationale is also time-limited: [[corbin-ai-glasses-wearabl
 - [[higher-ed]] — the setting almost all of this evidence comes from
 
 ## Connected Articles
+
+- [[sessional-academics-contract-cheating-digital-misconduct-2026]] — Markers endorse in-class delivery because the talk cannot be outsourced
 - [[corbin-ai-glasses-wearable-ai-assessment-2026]] — Live vivas are no longer immune: AI glasses and earbuds deliver covert real-time prompts (Corbin, Sharpe & Dawson 2026)
 
 - [[fenton-oral-exams-ai-authentic-assessment-2025]] — Reconsidering the use of oral exams and assessments (Fenton 2025)

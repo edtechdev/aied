@@ -7664,3 +7664,27 @@
   integrated: [math-education]
   no_change: [teacher-ai-competency, teacher-education, ai-literacy, student-ai-interaction, prompt-engineering, formative-assessment, scaffolding, transfer-of-learning, agency, pedagogy, generative-ai, conversational-ai, qualitative-research, higher-ed]
   reason: "Integrated math-education (prose woven into the matching existing section, Connected Articles entry added, updated bumped). no_change evidence, each a grep hit count on that concept page's narrative: teacher-ai-competency: 'pre-service'=7; 'validation'=1; 'epistemic'=1 | teacher-education: 'pre-service'=18; 'abstract algebra'=0 | ai-literacy: 'validation'=2; 'verification'=11 | student-ai-interaction: 'epistemic'=4; 'defer'=0 | prompt-engineering: 'prompt'=132 | formative-assessment: 'feedback'=105; 'formative'=44 | scaffolding: 'scaffold'=102 | transfer-of-learning: 'transfer'=35 | agency: 'agency'=132; 'epistemic control'=1 | pedagogy: 'pedagog'=60 | generative-ai: 'ChatGPT'=12; 'GenAI'=26 | conversational-ai: 'chatbot'=24; 'ChatGPT'=5 | qualitative-research: 'case study'=6; 'qualitative'=32. math-education had no content on proof, definition or validation-in-dialogue (grep 'abstract algebra'=0, 'proof'=0, 'notation'=0) and took the weave. teacher-ai-competency already carries the self-report-versus-performance competency gap and pre-service candidates (grep 'pre-service'=7, 'validation'=1, 'epistemic'=1), so this study is an instance of a claim the page states; teacher-education, ai-literacy and student-ai-interaction were grepped for validation/verification and already carry it. Additional candidate added on review: higher-ed: 'pre-service'=0, 'abstract algebra'=0, and higher-ed's narrative is institutional adoption rather than a single course's mathematical communication."
+- article: sessional-academics-contract-cheating-digital-misconduct-2026
+  date: 2026-10-22
+  integrated:
+  - academic-integrity
+  - ai-detection
+  - reducing-ai-misuse
+  - teacher-role
+  - oral-assessment
+  - educational-policy-ai
+  - business-education
+  - authentic-assessment
+  no_change:
+  - assessment
+  - critical-thinking
+  - curriculum-design
+  - generative-ai
+  - higher-ed
+  - information-technology
+  - qualitative-research
+  - remote-proctoring
+  - scaffolding
+  - self-report-measures
+  - student-engagement
+  reason: 'Integrated at ingest: the sessional-marker voice is the paper''s contribution — detection as untrained craft (fabricated references, nineteen of twenty), rules that differ between units, and an AI detector switched off for flagging grammar checkers; eight concept pages carried a claim it advances. || assessment: General assessment hub page. The article''s assessment claims are specific to detection, redesign and orals, and are woven into [[ai-detection]], [[authentic-assessment]] and [[oral-assessment]]; adding the same material to the hub would duplicate those weaves. || critical-thinking: The page carries the critical-thinking construct and its GenAI debate (37 GenAI hits). The article''s only connection is a recommendation to prioritize critical thinking in learning outcomes, with no evidence about the construct itself. || curriculum-design: Page is about AI-resistant design expiring as models improve. The article reports markers blaming outsourced essay formats, which is the same claim the page already carries from its own studies; no new evidence class. || generative-ai: Capability page for the technology itself (43 GenAI hits on capability, not policy). The article treats GenAI as an environmental fact in assessments and offers no capability evidence. || higher-ed: Page already covers casualisation and institutional adaptation, including invigilation and policy themes. The article''s sessional-workforce finding is placed on [[teacher-role]], where the labor argument belongs; a second weave here would restate it. || information-technology: Discipline page for IT education; five of twenty participants taught ICT, but the article reports no discipline-specific finding for IT — the sample-level claims are about sessional marking generally. || qualitative-research: Methods page on qualitative designs and AI. The article is a competent but conventional thematic analysis; it adds no methodological evidence or innovation the page needs. || remote-proctoring: The article''s proctoring remark is that phones still reach invigilated exams, which the page already documents through device and AI-glasses evidence (5 invigilation hits). || scaffolding: The inline link marks the recommendation for scaffolded tasks; the article says nothing about scaffolding mechanism, fading or transfer, so the concept page gains no claim. || self-report-measures: The inline link marks the limitations bullet. The article is an interview study whose limitation is perception-based recall, not a self-report instrument; the page''s subject is instrument design and validity. || student-engagement: Page already treats engagement as integrity-adjacent (18 oral hits, ghost-writing present). The article''s disengagement finding (fourteen participants) is attributional rather than a mechanism the page lacks; woven into [[reducing-ai-misuse]] instead.'

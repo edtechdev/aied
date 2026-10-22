@@ -1,7 +1,7 @@
 ---
 title: Educational AI Policy
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-16T07:28:51-04:00"
+updated: "2026-10-22T12:02:21-04:00"
 type: concept
 foundations: [academic-integrity, educational-development]
 ethics: [equity-in-ai-education, ethics]
@@ -36,6 +36,8 @@ connected_resources: [campus-ai-framework, institutional-ai-readiness-pack]
 ### Policy maturity gap
 
 The knowledge base documents that institutional AI policies [[genai-policies-higher-ed-computing|lag behind actual AI use]]. [[educational-development]] programs, [[teacher-ai-competency]] frameworks, and [[regulation]] all require coherent policy foundations. Large-scale field evidence [[stromberg-generative-ai-learning-penalty-secondary-2026|(Strömberg, Lei, & Wu 2026)]] shows that the learning losses from homework outsourcing go largely unnoticed because individual subject teachers and students rarely connect the decline to AI use — a gap that evidence-informed policy (e.g., weighting closed-book assessment, informing students of long-run costs, monitoring inputs rather than outputs) can address. An aspect-based sentiment analysis of 36 university GenAI policies across four countries found teaching statements positively framed and GenAI and ethics statements negatively framed, with no significant country effect — framing tracks the policy dimension, not the national system ([[sun-governing-genai-policy-cross-national-2026|Sun et al. (2026)]]).
+
+The inconsistency is not academic to the people enforcing it: fifteen sessional academics reported that students cannot comply with rules that differ between units, and that prevalence cannot even be estimated without clearer guidance ([[sessional-academics-contract-cheating-digital-misconduct-2026|Andriamora & Andriamora, 2026]]).
 
 Where consensus has formed to fill that gap, [[crompton-governing-genai-higher-ed-delphi-2026|Crompton et al. (2026)]]'s 35-expert Delphi across 22 countries converged on eight governance areas — academic integrity as the central anchor — plus a six-part review mechanism (standing GenAI committee, scheduled policy reviews, professional development, communication, impact evaluation, monitoring) to keep policies current.
 **National AI readiness does not predict institutional policy strength.** [[adarkwah-genai-unesco-policy-2026|Adarkwah et al. (2026)]] scored 26 universities from ten high-AIPI countries against UNESCO's eight-component GenAI framework and found Nordic and New Zealand institutions covered it more fully than higher-ranked peers, while inclusion, equity, and sustainability were the most neglected elements.
@@ -112,6 +114,8 @@ A [[meta-analysis-systematic-review|systematic review]] of 65 papers at the inte
 - [[student-support-and-success]] — the policy context for institutional support deployment
 
 ## Connected Articles
+
+- [[sessional-academics-contract-cheating-digital-misconduct-2026]] — Unit-level rules that students cannot reconcile
 - [[tench-ai-policy-isnt-a-playbook-2026]] — A nationally representative survey of US teachers and principals on AI policy coverage, agency, and five classroom plays (Tench, Weinstein & James 2026)
 - [[gai-advocacy-practice-art-education-2026]] — When universities advocate GAI but practice falls short: student appraisals and creative process engagement in art education
 - [[nash-preservice-teachers-classroom-ai-policies-2026]] — Preservice English teachers' classroom AI policies: what they permitted, limited, and banned (Nash & Burriss 2026)

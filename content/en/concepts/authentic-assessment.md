@@ -1,7 +1,7 @@
 ---
 title: Authentic Assessment
 created: "2026-08-13T19:55:03-04:00"
-updated: "2026-10-22T09:11:45-04:00"
+updated: "2026-10-22T12:02:21-04:00"
 connected_faqs: [redesign-assessment-ai-era, asynchronous-online-courses-ai]
 type: concept
 foundations: [academic-integrity]
@@ -64,6 +64,8 @@ The knowledge base's assessment-redesign literature argues that authenticity mus
 
 The same question is reframed by [[thapa-lewis-process-oriented-assessment-2026|Thapa and Lewis (2026)]], who name what a task should *authenticate* rather than whether it looks real: epistemic authenticity, the extent to which assessment captures genuine engagement with interpretation, evaluative judgment, reasoning and knowledge construction. Their argument is that authenticity alone does not survive generative AI, because an authentic task whose evidence is one unsupervised product is exposed to the same substitution problem as the essay it replaced. Making reasoning visible instead requires staged submissions, reflective justification, dialogic engagement and evaluative transparency. They carry the caution above into design: reflective and dialogic tasks can privilege students confident in academic self-articulation unless they are inclusively designed and scaffolded, and the relational work intensifies educator emotional labor in large or resource-constrained settings.
 
+Design advice of this kind is what markers ask for: twenty sessional academics proposed case studies on local or live data and rubrics that require unit content, arguing the tasks difficult to source online are the ones they can still vouch for ([[sessional-academics-contract-cheating-digital-misconduct-2026|Andriamora & Andriamora, 2026]]).
+
 ## When practitioners retreat to the policed formats
 
 The knowledge base argues that authenticity must be designed rather than policed, and [[teacher-educators-ai-integration-preservice-2026|Goldstein, Marae-Haj and Zidan (2026)]] supply the counter-evidence from practice: after a trust crisis in which pre-service teachers submitted raw AI-generated work as their own, teacher educators in seven Israeli colleges redesigned assessment around process evidence (prompts, document version history, monitored group contributions) and in-class performance — but several also described falling back, as a last resort, on supervised examinations and anticipated oral defenses on theses, one participant calling the return to exams personally painful yet unavoidable. Read against the design-first position, the finding marks a failure mode rather than a solution: where authenticity is not redesigned in advance, the practical response to unassessable submitted work is reinstated control — surveillance by another name — which reintroduces the very formats the authentic-assessment literature tries to move beyond. It also shows the felt cost of the alternative: participants reported their take-home written assessments could no longer evidence learning at all, and that process documentation took real work to establish.
@@ -110,6 +112,8 @@ The retreat carries an evidentiary cost that the case-file evidence makes visibl
 - [[summative-assessment]] — Summative assessment: AI-resistant formats (oral, proctored, closed-book exams)
 - [[arts-design-and-media-education]]
 ## Connected Articles
+
+- [[sessional-academics-contract-cheating-digital-misconduct-2026]] — What markers say makes work hard to outsource
 - [[thapa-lewis-process-oriented-assessment-2026]] — process-oriented assessment and epistemic authenticity as what a task should authenticate
 - [[ivory-psychology-assessment-integrity-2026]] — What AI could not pass: presence, visual artifacts, and the student's own data (Ivory et al. 2026)
 - [[paternalistic-filter-llm-history-education]] — Paternalistic AI use and student identity in history education
