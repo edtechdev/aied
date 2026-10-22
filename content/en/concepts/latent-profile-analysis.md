@@ -1,7 +1,7 @@
 ---
 title: "Latent Profile Analysis"
 created: "2026-09-20T12:39:59-04:00"
-updated: "2026-09-30T12:53:22-04:00"
+updated: "2026-10-22T09:11:45-04:00"
 type: concept
 methods: [quantitative-research, research-methods-aied]
 confidence: high

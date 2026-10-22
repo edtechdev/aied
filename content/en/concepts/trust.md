@@ -1,7 +1,7 @@
 ---
 title: Trust
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-10-16T08:47:09-04:00"
+updated: "2026-10-22T09:11:45-04:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, human-ai-collaboration]
 technology: [educational-robotics, intelligent-tutoring]
@@ -59,8 +59,10 @@ Credibility cues can raise reliance on wrong answers: adding citations and autho
 ## Interpersonal trust in education
 
 Trust is also fundamentally relational. The classroom trust gap is documented in [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai|teacher-student views on control and agency in K-12 AI]]: students want greater [[agency|autonomy]] and flexibility while teachers prioritize oversight and monitoring, a misalignment that both sides must navigate for AI adoption to succeed. [[qu-wang-disclose-or-not-genai-2026|Why students disclose or conceal their AI use]] shows that disclosure is driven less by policy than by relational factors — perceived peer norms and **comfort with instructors** are the strongest predictors, pointing to low interpretive trust in [[governance|institutional]] settings. [[vetter-hidden-cost-disclosure-genai-2026|The hidden costs of disclosure]] add nuance about when honesty is socially costly.
- A detection-first response works the other way: unreliable detectors that disproportionately flag nonnative speakers stall misconduct cases for lack of proof, producing "suspicion without recourse", whereas five-to-ten-minute verification conversations announced as pedagogy rather than surveillance restored faculty authority and drew more open AI disclosure ([[best-response-student-ai-dialog-2026|Mandernach, 2026]]).
- Reliance on detectors and surveillance, [[bassett-ai-detectors-education-2026|Bassett et al. (2026)]] argue, fosters a climate of suspicion that erodes student trust in assessment and the institution — the opposite of the trust integrity processes are meant to protect.
+
+A detection-first response works the other way: unreliable detectors that disproportionately flag nonnative speakers stall misconduct cases for lack of proof, producing "suspicion without recourse", whereas five-to-ten-minute verification conversations announced as pedagogy rather than surveillance restored faculty authority and drew more open AI disclosure ([[best-response-student-ai-dialog-2026|Mandernach, 2026]]).
+
+Reliance on detectors and surveillance, [[bassett-ai-detectors-education-2026|Bassett et al. (2026)]] argue, fosters a climate of suspicion that erodes student trust in assessment and the institution — the opposite of the trust integrity processes are meant to protect.
 
 Feedback is a key site of interpersonal trust. [[genai-teacher-feedback-comparison|Students' perceptions of GenAI versus teacher feedback]] find the two serve different needs — complementary but not interchangeable — with students trusting teacher feedback for relational, personalized judgment and [[generative-ai|GenAI]] for speed and [[accessibility]]. [[care-full-feedback-genai|A "care-full" account of feedback]] argues that trustworthy feedback is an [[ethics|ethical]], relational practice: it builds educative relationships and is respected as a professional craft, values an AI cannot simply replicate. This is why teacher-student trust — built on care and professional judgment — remains central even as AI enters the feedback loop.
 

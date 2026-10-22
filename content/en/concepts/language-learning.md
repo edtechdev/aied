@@ -2,7 +2,7 @@
 connected_resources: [mglearn]
 title: Language Learning
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-21T12:05:00-04:00"
+updated: "2026-10-22T09:11:45-04:00"
 type: concept
 foundations: [ai-education]
 technology: [generative-ai]
@@ -37,7 +37,8 @@ For physically embodied tutors, a meta-analysis of 11 RALL studies (N = 595) fou
 A comparison of 52 EFL assessment tasks rated by 20 experienced teachers found no significant quality difference overall between AI-generated and human-developed items, but a clear division of labor: AI was preferred for grammar and vocabulary (69%) and human development for reading, writing, listening and speaking (75–83%) ([[ai-vs-human-assessment-efl-tpck-2026|Nourashrafi, Alavinia and Darvishi (2026)]]).
 
 **Automated writing evaluation for L2 learners** evaluates AI's ability to assess non-native writing. **[[self-referential-l2-writing-llm-assessment|Bannò et al.]]** proposed a self-referential approach comparing student writing to their own prior work rather than native-speaker norms. **[[ai-scoring-language-bias-physics|Feser & Tschisgale]]** found AI scoring systematically underestimates linguistically weak students — a finding that connects to [[assessment-validity]] and [[bias-mitigation]] concerns. **[[genai-linguistic-diversity-academic-writing]]** explores how AI affects linguistic diversity in academic contexts.
- A discourse-level system goes further by naming the defect rather than scoring the text: sentence-pair relation classification localized coherence breaks - logical jumps, missing connectives, ambiguous reference - and teacher-judged adoption of its generated feedback ran 71.2%-88.4% ([[bert-discourse-english-teaching-2026|Wang et al., 2026]]).
+
+A discourse-level system goes further by naming the defect rather than scoring the text: sentence-pair relation classification localized coherence breaks - logical jumps, missing connectives, ambiguous reference - and teacher-judged adoption of its generated feedback ran 71.2%-88.4% ([[bert-discourse-english-teaching-2026|Wang et al., 2026]]).
 
 **[[accessibility]] for language learners** connects to [[inclusive-learning]]: **[[dyslexlens-dyslexic-learners-ai|DysLexLens]]** analyzed how dyslexic learners use AI for literacy support, and **[[ai-tools-arab-english-classrooms]]** explored AI tools in Arabic-English classroom contexts. These studies connect language learning to [[equity-in-ai-education]] and [[special-education]].
 

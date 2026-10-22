@@ -1,7 +1,7 @@
 ---
 title: "How Can AI Assist with Educational Research?"
 created: "2026-10-05T11:23:36-04:00"
-updated: "2026-10-21T14:32:00-04:00"
+updated: "2026-10-22T09:11:45-04:00"
 weight: 72
 type: faq
 connected_faqs: [evaluating-ai-interventions-methods, reporting-interpreting-aied-research, research-gaps-aied, equity-ethics-pedagogical-safety-research]

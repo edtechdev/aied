@@ -1,7 +1,7 @@
 ---
 title: Mixed-Methods Research
 created: "2026-08-24T02:10:00-04:00"
-updated: "2026-10-16T07:28:51-04:00"
+updated: "2026-10-22T09:11:45-04:00"
 type: concept
 research_method: [survey]
 confidence: high
@@ -74,4 +74,4 @@ Mixed-methods sits between the [[quantitative-research|quantitative]] and [[qual
 - [[hazra-safetutors-pedagogical-safety-2026]] — AI tutor safety and pedagogical harms
 - [[becker-chatgpt-typology-physics-2026]] — A qualitative typology of ChatGPT adoption in physics
 - [[edtech-privacy-deferral-2026]] — "We'll Fix It Later": Education, AI, and the Deferral of Student Privacy in EdTech
-- [[bluesky-aied-discourse-social-media-analysis-2026]] — VADER and a fine-tuned RoBERTa assigned opposite valence to the same Bluesky post (Geraili Meykola et al
+- [[bluesky-aied-discourse-social-media-analysis-2026]] — VADER and a fine-tuned RoBERTa assigned opposite valence to the same Bluesky post (Geraili Meykola et al., 2026)

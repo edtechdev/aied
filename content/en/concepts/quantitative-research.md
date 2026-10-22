@@ -1,7 +1,7 @@
 ---
 title: Quantitative Research
 created: "2026-08-24T02:05:00-04:00"
-updated: "2026-10-16T08:47:09-04:00"
+updated: "2026-10-22T09:11:45-04:00"
 type: concept
 assessment: [educational-measurement]
 research_method: [survey, experiment]
@@ -35,7 +35,8 @@ Cross-sectional surveys measure self-reported attitudes, perceptions, motivation
 
 ### Experimental and quasi-experimental research
 Experiments randomly assign learners to conditions (e.g., AI tutor vs. human tutor, or AI-scaffolded vs. unassisted) to estimate causal effects on outcomes. **Randomized controlled trials ([[rct]]s)** are the gold standard for internal validity. [[access-not-enough-ai-tutoring-2026|A randomized field study of human support plus AI tutoring]] and [[genai-can-harm-teaching-rct-2026|an RCT on generative AI in teaching]] use assignment to isolate causal effects. **Quasi-experimental** designs (pre/post, matched groups without randomization) are more feasible in intact classrooms but weaker on causal claims.
- [[kestin-ai-tutoring-outperforms-active-learning-rct-2025|Kestin et al. (2025)]] adopt a within-subject crossover instead: every student meets the same physics content twice, once in an in-class active-learning lesson and once through the course's own AI tutor, with pre- and post-tests around each, so each learner serves as their own control and between-person differences cancel.
+
+[[kestin-ai-tutoring-outperforms-active-learning-rct-2025|Kestin et al. (2025)]] adopt a within-subject crossover instead: every student meets the same physics content twice, once in an in-class active-learning lesson and once through the course's own AI tutor, with pre- and post-tests around each, so each learner serves as their own control and between-person differences cancel.
 
 - **Strengths:** strongest causal inference; clean outcome measurement; supports effect-size estimation and efficacy claims.
 - **Limitations:** costly and slow; artificial conditions reduce ecological validity; fast-changing AI tools date experiments quickly; small samples underpower detection of effects; ethical constraints on withholding helpful tools.
@@ -97,4 +98,4 @@ Quantitative and [[qualitative-research|qualitative]] methods are complements �
 - [[adaptive-pretesting-retention]] — Adaptive pretesting and retention
 - [[synthetic-educational-data-structural-fidelity-2026]] — What Fidelity Metrics Miss: A Structural Check on Synthetic Educational Data
 - [[liu-course-integrated-ai-tutoring-rct-2026]] — A group-randomized access trial needs an uptake check
-- [[sriram-ethical-ai-medical-education-bibliometric-2026]] — Bibliometric analysis is a further quantitative family: Sriram et al
+- [[sriram-ethical-ai-medical-education-bibliometric-2026]] — Bibliometric analysis is a further quantitative family: Sriram et al.

@@ -1,7 +1,7 @@
 ---
 title: Human-in-the-Loop
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-10-18T10:07:01-04:00"
+updated: "2026-10-22T09:11:45-04:00"
 connected_faqs: [ai-agents-support-students-instructors, designing-educational-ai-software, ai-feedback-at-scale]
 type: concept
 foundations: [ai-education]
@@ -70,7 +70,7 @@ Human-in-the-loop design has become central to the knowledge base's [[agentic-ai
 - **Oversight is rare in practice, not just in theory.** [[agentic-ai-education-scoping-review|Wang et al. (2026)]] found robust embedded governance and human-in-the-loop oversight were rarely exhibited across 474 educational agentic-AI systems, even as single-task autonomy and multi-agent collaboration grew — the gap between the design principle and deployed practice.
 - **The critical question is how the loop is made actionable, not how much humans participate.** A learning-sciences view argues that organizing learning around data capture, computational interpretation and probable response makes pedagogical action depend on what systems can detect and act upon, and that alerts and engagement classifications interpret the learner before any teacher or student acts ([[in-the-loop-educational-ai-learning-sciences-2026|Pande (2026)]]).
 - **Validity and quality control.** HITL is a quality gate for [[automated-assessment|automated assessment]] and generation — humans adjudicate where automated scoring is unreliable (see [[llms-do-not-grade-essays-like-humans-2026|LLM essay grading]] [[research-methods-aied|research]]) and validate generated items. A PRISMA-guided [[meta-analysis-systematic-review|systematic review]] of 42 grading and feedback studies (2023–2025) reaches the same conclusion explicitly: LLMs match human raters on short, well-structured tasks but cannot fully replace human judgment on complex, open-ended, or subjective work, and the highest grading effectiveness is achieved in hybrid systems that combine AI-driven grading with teacher oversight and verification ([[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]). [[falahat-chatgpt-grading-pharmacy-exams-2026|Falahat et al. (2026)]] show concretely where that boundary falls: ChatGPT-5 matched faculty on objective pharmacy-exam items (CCC 0.935–1.000) but was unreliable on short-answer and essay items even when given a rubric, leading the authors to recommend hybrid grading with human review for complex, subjective, or high-stakes assessment.
- Repetition is not a substitute for that oversight: regrading identical submissions on five different days, the same model reproduced its own results at only Krippendorff's alpha 0.625, with variation concentrated in the middle grades and A and F absent from the five-session counts ([[llm-grading-assistants-public-health-2026|Brevik et al. (2026)]]).
+- Repetition is not a substitute for that oversight: regrading identical submissions on five different days, the same model reproduced its own results at only Krippendorff's alpha 0.625, with variation concentrated in the middle grades and A and F absent from the five-session counts ([[llm-grading-assistants-public-health-2026|Brevik et al. (2026)]]).
 - **Learner agency.** Keeping a human in the loop preserves [[agency]] and supports [[self-regulated-learning]], countering the [[cognitive-offloading|over-reliance]] that fully autonomous assistance can induce.
 
 
