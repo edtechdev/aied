@@ -1,7 +1,7 @@
 ---
 title: Math Education
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-21T13:42:59-04:00"
+updated: "2026-10-22T10:05:00-04:00"
 type: concept
 pedagogy: [scaffolding]
 technology: [generative-ai, intelligent-tutoring]
@@ -42,6 +42,8 @@ Pooled across subject domains, GenAI's effect on learning motivation was largest
 **[[student-engagement|Student engagement]] and AI literacy** examines how students interact with AI math tools. **[[epistemic-proactivity-math|Abdelghani et al.]]** traced temporal trajectories of student-AI interaction in math learning, identifying a developmental path from superficial [[prompt-engineering|prompting]] to "epistemic proactivity" — active, [[self-directed-learning|self-directed]] pursuit of conceptual understanding. This connects to [[ai-literacy]], [[metacognition]], and [[self-regulated-learning]]. **[[ai-powered-personalized-learning-elementary-fractions-2026|Holman]]** found that AI-adaptive platforms significantly improved fraction comprehension for students with math learning difficulties, connecting to [[personalized-learning]] and [[adaptive-learning]].
 
 **Teacher support** explores AI tools for math educators. **Simulated-student role-play** also serves teacher practice: [[zhuang-zhang-chatgpt-math-teacher-education-2026|Zhuang and Zhang (2025)]] built *Student GPT*, a custom ChatGPT [[conversational-ai|chatbot]] that role-played a middle school student holding common ratio-reasoning [[misconceptions]], giving preservice secondary math teachers low-risk practice at diagnosing and guiding student thinking toward correct solutions — illustrating [[generative-ai|GenAI]]-powered [[simulation]] as a complement to costly platforms like TeachLivE for building pedagogical content knowledge about student misconceptions.
+
+**Pre-service teachers can explore with GenAI but not yet validate it.** In an Abstract Algebra course, 13 of 18 pre-service mathematics teachers were adequate at constructing examples and non-examples, while 14 of 18 sat at the two lowest levels for judging whether an AI response was valid ([[preservice-math-teachers-genai-communication-2026|Nurlaelah et al. (2026)]]).
 
 Classroom AI tools also create orchestration work the older typology does not name: observing six high-school mathematics lessons found teachers monitoring [[visualization|dashboards]], correcting the AI's wrong [[feedback]], and mediating its output for the class, with content and [[ethics|ethical]] judgment most visible when fixing an AI error ([[teachers-instrumental-orchestration-ai-math-2026|Noh & Kim, 2026]]).
 
@@ -107,6 +109,7 @@ Math education sits within the broader [[stem-education]] domain with distinctiv
 - [[teacher-education]]
 
 ## Connected Articles
+- [[preservice-math-teachers-genai-communication-2026]] — Analysing Mathematical Communication between Pre-Service Mathematics Teachers and GenAI: A Case Study in Abstract Algebra Course
 - [[ai-scaffolding-symbolic-obstacles-calculus-2026]] — Symbolic obstacles in undergraduate calculus are a representational bottleneck, with fewer coded symbolic errors after AI scaffolding (Nursit et al. 2026)
 - [[manto-ai-integration-mathematics-education-systematic-review-2026]] — AI integration in mathematics education: implementation challenges and pedagogical implications (Manto et al. 2026)
 - [[ai-mathematics-education-prisma-review-2026]] — Artificial intelligence in mathematics education: A PRISMA-based systematic literature review (2021-2025)
