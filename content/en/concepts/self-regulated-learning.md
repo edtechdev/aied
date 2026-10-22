@@ -2,7 +2,7 @@
 connected_resources: [process-feedback]
 title: Self-Regulated Learning
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-10-21T13:54:03-04:00"
+updated: "2026-10-22T09:11:45-04:00"
 type: concept
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
 technology: [generative-ai, llm, personalized-learning]
@@ -118,7 +118,7 @@ For example:
 
 - **Mixed evidence and the miscalibration gap.** A rapid review of PreK-12 GenAI research finds metacognitive gains during supported tasks often do not persist when support is removed, and that GenAI can increase [[self-report-measures|perceived learning]] even when durable learning is absent (the miscalibration gap — students preferred GenAI over note-taking despite weaker retention). Students need explicit, stage-appropriate training to decide what to delegate and when independent effort matters.([[young-people-learning-generative-ai-rapid-review-2026]])
 
-**SRL is rarely the active target.** Across 394 GenAI higher-education studies, self-regulated learning and reflection were among the least frequently enacted uses and among the outcomes targeted least ([[mapping-genai-higher-ed-scoping-review|Lin et al. (2026)]]).
+- **SRL is rarely the active target.** Across 394 GenAI higher-education studies, self-regulated learning and reflection were among the least frequently enacted uses and among the outcomes targeted least ([[mapping-genai-higher-ed-scoping-review|Lin et al. (2026)]]).
 - **[[agentic-ai|Agentic]] initiative vs. self-regulation tension.** [[agentic-ai-pedagogical-best-practice-2026|Woollaston et al. (2026)]] note that as agents automate more of a task, the less self-regulated cognitive work the learner performs — so designs should give learners control over agent initiation (dynamic, fading scaffolding) to preserve self-regulatory capacity rather than outsourcing it.
 - **Self-regulation shapes AI coding-assistant use.** [[computational-thinking-aica-2026|A study of AI coding assistants]] found high-[[computational-thinking]] students showed stronger self-regulatory coherence (planning-execution-self-reflection) and used AICA for code understanding, while low-CT students used it for immediate answer retrieval.
 - **SRL co-occurs with lower digital distraction in [[online-teaching-and-learning|online learning]].** [[decreasing-digital-distraction-college-online-learning-2026|Shi et al. (2026)]], using unsupervised data mining on 530 college students, found that SRL strategies — goal setting, environment structuring, and time management — co-occurred most consistently with lower digital distraction in [[higher-ed|online learning]], alongside learner-instructor and learner-content engagement. The finding positions concrete SRL training as a high-leverage intervention for focused online study.

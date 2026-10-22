@@ -1,7 +1,7 @@
 ---
 title: "How Do We Make a Simulated Student Behave Like a Real Learner?"
 created: "2026-10-02T08:36:18-04:00"
-updated: "2026-10-21T14:32:00-04:00"
+updated: "2026-10-22T09:11:45-04:00"
 weight: 71
 type: faq
 connected_faqs: [checking-whether-educational-ai-works, addressing-common-misconceptions-ai-education, making-ai-better-at-supporting-learning]

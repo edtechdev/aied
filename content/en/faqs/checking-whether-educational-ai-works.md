@@ -1,7 +1,7 @@
 ---
 title: "How Do We Know an Educational AI Is Working Correctly, Not Just Scoring Well?"
 created: "2026-10-02T08:07:09-04:00"
-updated: "2026-10-21T14:32:00-04:00"
+updated: "2026-10-22T09:11:45-04:00"
 connected_faqs: [making-ai-better-at-supporting-learning, training-ai-tutors-to-guide-rather-than-answer, reporting-interpreting-aied-research, evaluating-ai-interventions-methods]
 weight: 73
 type: faq

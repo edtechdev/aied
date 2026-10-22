@@ -1,7 +1,7 @@
 ---
 title: "Learner Modeling and Adaptive Instruction"
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-21T10:45:00-04:00"
+updated: "2026-10-22T09:11:45-04:00"
 type: concept
 connected_faqs: [making-simulated-students-behave-like-learners]
 technology: [adaptive-learning, cognitive-diagnosis, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, personalized-learning, simulating-students, student-modeling]
@@ -152,4 +152,5 @@ Learner modeling and adaptive instruction feed into [[learning-analytics]] ([[vi
 - [[process-grounded-language-cognitive-diagnosis-2026]] — Beyond ID Embeddings: Process-Grounded Language Modeling for Cognitive Diagnosis
 - [[exrec-exercise-recommendation-knowledge-tracing-2025]] — compact learner state plus a calibrated tracer as a recommender environment
 - [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn: An Agentic Tutor that Learns its Learner in a Human-AI Co-Learning Loop
-- [[ai-game-based-learning-systematic-review-2026]] — Stealth assessment reached AUCs of 0.848–0.913, but bias audits were near-absent across 55 studies- [[learning-style-inference-bias-student-ai-dialogues-2026]] — Dialogue-based learning-style inference fails on balanced metrics (Zamanifard, Goudarzi & Robb 2026)
+- [[ai-game-based-learning-systematic-review-2026]] — Stealth assessment reached AUCs of 0.848–0.913, but bias audits were near-absent across 55 studies
+- [[learning-style-inference-bias-student-ai-dialogues-2026]] — Dialogue-based learning-style inference fails on balanced metrics (Zamanifard, Goudarzi & Robb 2026)

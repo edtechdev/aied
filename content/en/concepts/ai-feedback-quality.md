@@ -1,7 +1,7 @@
 ---
 title: AI Feedback Quality
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-21T10:45:00-04:00"
+updated: "2026-10-22T09:11:45-04:00"
 connected_faqs: [ai-save-instructor-time, ai-feedback-at-scale, checking-whether-educational-ai-works]
 type: concept
 foundations: [ai-literacy]
@@ -161,5 +161,6 @@ AI feedback quality connects fundamentally to [[formative-assessment]] and [[fee
 - [[intelligent-tutoring-mathematics-education-review-2026]] — Narrative review of AI tutoring in mathematics: real-time feedback gains and implementation conditions
 - [[agent-type-feedback-style-self-directed-learning-2026]] — Socratic versus directive feedback styles: comprehension monitoring against prioritization, and the cognitive-load cost
 - [[when-students-prefer-ai-scoring-feedback-2026]] — Student-perceived AI feedback quality: understandable yet repetitive, trusted for mechanics not interpretation
-- [[lin-rag-lesson-generation-tutor-training-2026]] — RAG-generated tutor-training lessons matched human-created ones when feedback was present; the human advantage appeared only without feedback- [[evidence-grounded-framework-ai-generated-educational-feedback-2026]] — Three evaluation dimensions across 68 studies, with rubric alignment the thin one (Yang 2026)
+- [[lin-rag-lesson-generation-tutor-training-2026]] — RAG-generated tutor-training lessons matched human-created ones when feedback was present; the human advantage appeared only without feedback
+- [[evidence-grounded-framework-ai-generated-educational-feedback-2026]] — Three evaluation dimensions across 68 studies, with rubric alignment the thin one (Yang 2026)
 - [[llm-feedback-handwritten-mathematics-exam-performance-2026]] — Criterion-level and rater-level divergence in 157 rated feedback messages (Vanhoyweghen et al. 2026)

@@ -1,7 +1,7 @@
 ---
 title: Theories and Frameworks
 created: "2026-09-19T05:40:00-04:00"
-updated: "2026-10-18T10:07:01-04:00"
+updated: "2026-10-22T09:11:45-04:00"
 type: concept
 foundations: [ai-education, theory-development-aied, philosophy-of-ai-in-education]
 pedagogy: [learning-theories]

@@ -1,7 +1,7 @@
 ---
 title: Pedagogical Patterns
 created: "2026-09-30T16:20:00-04:00"
-updated: "2026-09-30T16:25:27-04:00"
+updated: "2026-10-22T09:11:45-04:00"
 type: concept
 foundations: [ai-education, learning-design]
 pedagogy: [pedagogy, scaffolding]
