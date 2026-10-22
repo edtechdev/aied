@@ -1,7 +1,7 @@
 ---
 title: AI Literacy
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-10-16T07:28:51-04:00"
+updated: "2026-10-22T10:05:00-04:00"
 type: concept
 foundations: [academic-integrity, ai-education, ai-literacy, educational-development]
 technology: [generative-ai, llm]
@@ -45,6 +45,8 @@ Frameworks increasingly trace how these dimensions are enacted in practice: [[da
 Disciplinary verification raises the same bar further. [[vega-baudrit-genai-university-chemistry-education-review-2026|Vega-Baudrit and Rivera Alvarez (2026)]] argue that in university [[chemistry-education|chemistry]] the core AI literacy demand is representational translation across Johnstone's macroscopic, submicroscopic and symbolic domains, because an output can be locally persuasive in one domain while contradicting charge balance, a mechanism or a safety limit in another. Their remedy is verification-centered integration: make verification an assessed activity, keep prompt logs and revision histories as reasoning traces, and treat prompting as an epistemic act that specifies constraints, assumptions and adequacy criteria, with students identifying a false assumption or justifying rejection of a generated answer.
 
 **Ethical and institutional awareness:** Understanding AI's broader implications — from [[academic-integrity]] to [[equity-in-ai-education]] to [[privacy]]. AI literacy at the institutional level involves policy development, [[educational-development]], and [[governance|governance frameworks]] — institutional AI literacy is a matter of [[educational-policy-ai|policy]] as much as pedagogy. The [[sangwa-epiq-ai-faculty-readiness-2026|EPIQ-AI framework]] frames institutional AI literacy as a sociotechnical alignment challenge, not just individual training.
+
+**Security is a literacy domain of its own.** Yocam, Vaidyan and Kalathas (2026) argue that neither AI-literacy nor cybersecurity frameworks treat operating securely in an AI-mediated school as a competency in its own right, and only 34.5% of US teachers report a school AI policy ([[ai-security-literacy-k12-framework-2026]]).
 
 - **AI literacy as a governance capacity for sustainable development.** [[ai-literacy-sdg-governance-framework-2026|Islam, Morshed, and Islam (2026)]] reconceptualize AI literacy as a governance-oriented capacity rather than a purely educational or technical skill, linking it to all seventeen UN Sustainable Development Goals. Their six-level **AIRE Taxonomy** (Recognize → Comprehend → Apply → Analyze → Integrate → Govern) extends Bloom's hierarchy by adding ethical synthesis and strategic foresight, positioning advanced competencies (Analyze–Govern) as the pathway from foundational literacy to institutional and policy-level governance — an "18th SDG" heuristic that treats literacy as a cross-cutting cognitive and ethical bridge. A survey of 300 professionals in a national context found strong technical awareness but limited ethical and governance readiness, with **ethical reasoning and reflective thinking the strongest predictors of sustainable, trustworthy AI use** and governance literacy the strongest predictor of AI–SDG nexus awareness (β = 0.64). This empirically grounds the knowledge base's emphasis on critical-use literacy and ties AI literacy directly to [[sustainability]] and [[educational-policy-ai|policy]] integration.
 **The framework supply is now its own problem.** [[ai-competence-framework-landscape-2026|Fitsilis (2026)]] compared 16 institutionally endorsed AI competence frameworks for education and workforce development and found a shared core of ten competence areas but wide variation in structure, progression and implementation guidance — the practical difficulty is choosing among them, not a shortage.
@@ -219,6 +221,7 @@ AI literacy is **double-edged** for overreliance: [[student-dependency-on-ai-lit
 - [[career-development-and-readiness]] — the employability payoff AI literacy is argued to build
 - [[ai-education]] — the broader field
 ## Connected Articles
+- [[ai-security-literacy-k12-framework-2026]] — AI Security Literacy: Ecosystem-based Competency Framework and K-12 Learning Platform
 - [[mu-ai-competence-ethical-awareness-anxiety-2026]] - Raising the ethical dimension of literacy without a coping framework can leave students more anxious
 - [[caeai-digital-literacy-frameworks-review-2026]] — 80 validated frameworks show AI expanding digital literacy toward ethics while educator human–AI collaboration stays under-specified (Guo et al. 2026)
 - [[ai-literacies-young-adults-2025]] — Six competency areas, five values and three progression levels for public service media
@@ -261,7 +264,6 @@ AI literacy is **double-edged** for overreliance: [[student-dependency-on-ai-lit
 - [[yu-k12-ai-education-ai-literacy-meta-analysis-2026]] — K-12 AI education raised AI literacy with a pooled g = 0.892 across 57 positive effects, and measurement disagreement explains the heterogeneity (Yu et al. 2026)
 - [[sun-student-genai-entanglement-literacy-demands-2026]] — Literacy demands differ by student–GenAI entanglement type; Assistant and Enabler forms dominate while the rest stay marginal for institutional reasons (Sun, Dohn & Rehm 2026)
 - [[ai-competence-framework-landscape-2026]] — Comparative analysis of 16 AI competence frameworks for education and workforce development
-
 - [[ai-literacy-determinants-university-students-2026]] — External resources, digital competence and psychological profile as joint determinants, with a technology-anxiety sign reversal
 - [[sfailq-six-facet-ai-literacy-questionnaire-2026]] — Six-facet instrument adding responsible-use and self-development facets, scalar-invariant across adolescents, young adults and midlife adults
 - [[faculty-ai-well-being-social-supports-2026]] — Structural equation model of faculty AI well-being, social supports and AI literacy

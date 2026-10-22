@@ -1,7 +1,7 @@
 ---
 title: Guardrails
 created: "2026-08-25T08:30:00-04:00"
-updated: "2026-09-30T09:53:03-04:00"
+updated: "2026-10-22T10:05:00-04:00"
 type: concept
 technology: [human-in-the-loop-ai, llm, prompt-engineering, rag, reinforcement-learning]
 ethics: [ai-sycophancy, bias-mitigation, pedagogical-safety]
@@ -61,6 +61,8 @@ The [[generative-ai-guardrails-harm-learning|Bastani]] GPT Tutor design shows th
 
 Guardrails themselves are not neutral: [[paternalistic-filter-llm-history-education|the Paternalistic Filter]] audit shows refusals and softened answers are patterned by student identity and topic sensitivity, reproducing epistemic injustice even while "protecting." Safe guardrails must be audited for differential treatment — a direct case for [[bias-mitigation]] and [[equity-in-ai-education]] in [[governance]] and [[regulation]].
 
+**A classifier guardrail's threshold is a policy decision.** Moving a toxicity cutoff from 0.3 to 0.7 cut labeled prompts from 35.62% to 12.4%; on a scam detector it traded 15 false alarms and 18 missed scams for 2 and 36, no cutoff removes both, and a robustness figure means little without its attack ([[ai-security-literacy-k12-framework-2026|Yocam, Vaidyan & Kalathas (2026)]]).
+
 ## Guardrails vs. Pedagogical Safety
 
 - **[[pedagogical-safety]]** is the *principle/goal* — that AI education systems protect learners from harm (content, bias, unsafe advice, manipulation).
@@ -104,7 +106,7 @@ The two are closely coupled: almost every guardrail technique is a way of achiev
 - [[llm]] — the model layer being constrained
 
 ## Connected Articles
-
+- [[ai-security-literacy-k12-framework-2026]] — AI Security Literacy: Ecosystem-based Competency Framework and K-12 Learning Platform
 - [[reflection-agent-fidelity-career-2026]] — Faithful Where It Can Be Checked: Auditing a Reflection Agent Against Its System Prompt in a Randomized Trial
 - [[scaffolding-student-ai-dialogue-framework-2026]] — The SCAFFOLD framework for steering students-AI dialogue, with its classroom pilot
 - [[generative-ai-guardrails-harm-learning]] — the canonical field RCT on guardrails

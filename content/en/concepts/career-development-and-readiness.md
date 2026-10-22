@@ -1,7 +1,7 @@
 ---
 title: Career Development and Readiness
 created: "2026-08-25T07:46:00-04:00"
-updated: "2026-10-16T08:47:09-04:00"
+updated: "2026-10-22T10:05:00-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [anxiety-and-stress, professional-training]
@@ -32,6 +32,7 @@ As AI transforms occupations, education's role in career development has broaden
 - **Readiness tracked engagement, not threat level.** In [[ai-attitude-latent-profiles-career-development-2026|Song et al. (2026)]], the most AI-anxious profile still reported the highest career crafting (4.222) and self-perceived employability (3.964), alongside the favorable profile that did not differ significantly — so anxiety level did not index career readiness.
 - **AI literacy is necessary but not sufficient.** [[ai-literacy-career-adaptability-business-2026|Testa et al.]] argue AI literacy alone is not enough for career readiness — students also need adaptability and positive self-evaluations, directly linking [[ai-literacy]] to career outcomes. [[ai-literacy-graduate-employability-2026|Hendrawan and Lestari (2026)]] test it quantitatively with 455 final-year students in Jakarta: career adaptability carries a significant indirect effect (β = 0.173), and growth mindset does not moderate the path at all, so adaptability rather than mindset does the work.
 - **Employer and graduate perspectives.** [[ithaka-sr-ai-skills-college-graduates-2026|The ITHAKA S+R report]] (500 US four-year-college instructors, compared against 200 US employers) documents a **systematic skills-prioritization gap** between instructors and employers that signals the workforce demands shaping [[higher-ed|higher education]] curricula. Instructors and employers agree on the importance of only one of 26 AI skills (setting realistic expectations for AI-augmented work): instructors prioritize a *critical, responsible-use* orientation (attribution, human accountability, limits of AI), while employers favor *workflow, automation, and human–AI teaming* skills. The report finds only three of 26 skills are taught by half or more instructors — the under-taught categories (workflow redesign, automation, technical integration) are precisely where employer demands diverge most — and that most institutions lack both a consensus on what AI skills look like and an assessment framework for them. For career development, this means graduates' readiness depends on closing a real, measurable gap between what employers value and what curricula teach, not just on adding AI literacy.
+- **AI-free hiring screens stop certifying what the work requires.** In interviews with 23 Indian engineering students and recent graduates, all but one used AI to prepare for placement screens that excluded it while graduates described workplaces that expected AI from the first day, so on signaling theory a CGPA produced with AI help no longer separates candidates by cost ([[ai-free-gates-engineering-students-india-2026|Goutham & Gu (2026)]]).
 - **Course policy as a workforce-competency decision.** [[mccorkle-aligned-genai-course-policy-2025|McCorkle's (2025)]] design case makes the trade-off explicit at task level: for each step of a semester project the instructor pairs an emerging [[generative-ai|GenAI]] workforce competency (prompting for objectives, generating images, writing scripts, text-to-speech narration) against the need to assess a foundational skill, and permits AI only where the competency wins — a concrete way to build the workflow skills employers value ([[prompt-engineering]], evaluation of [[llm|LLM]] output) into existing assignments rather than adding a separate AI course.
 - **AI already mediates career preparation itself.** [[loidl-chatgpt-career-development-2026|Loidl, Cao and Huang (2026)]] surveyed 102 undergraduates at one Midwestern R1 university and found about 81% had used ChatGPT for employability-related activities in the previous 12 months, led by resumes (52.94%), workplace communication (38.24%), and cover letters (35.29%), which the interviews read as tailoring and rehearsal work rather than outsourcing; career readiness therefore has to be built on preparation that the tool already mediates, not only on the capacities this page otherwise describes.
 - **Sector-specific readiness frameworks.** [[workforce-readiness-smart-manufacturing-wrl-2026|Workforce readiness for smart manufacturing]] and [[ai-engineering-computing-workforce-grey-literature-2026|the future of the engineering/computing workforce]] translate general employability into [[discipline-specific-aied|discipline-specific]] competency frameworks.
@@ -59,6 +60,7 @@ Career development and readiness connects to [[professional-training]] (the voca
 - [[student-support-and-success]] — the outcomes that follow completion: persistence, retention, and graduation
 
 ## Connected Articles
+- [[ai-free-gates-engineering-students-india-2026]] — From AI-Free Gates to AI-First Work: How Engineering Students in India Navigate University Education and Campus Placements Without AI Guidelines
 - [[ai-literacy-graduate-employability-2026]] — PLS-SEM evidence that AI literacy reaches perceived employability through career adaptability, with growth mindset adding nothing (Hendrawan & Lestari 2026)
 - [[mccorkle-aligned-genai-course-policy-2025]] — Assessment-vs-workforce-competency trade-offs decided task by task (McCorkle 2025)
 - [[wang-career-adapt-abilities-ai-anxiety-english-2026]] — career adapt-abilities reduce AI anxiety
@@ -71,6 +73,5 @@ Career development and readiness connects to [[professional-training]] (the voca
 - [[duan-ai-anxiety-career-decisions-college-2026]] — AI anxiety impairs career decisions via career adaptability (63.35% mediation)
 - [[ustun-ai-anxiety-job-finding-anxiety-2026]] — AI anxiety and attitudes predict job-finding anxiety (1,057 students)
 - [[dag-ai-perceptions-career-anxiety-health-2026]] — AI anxiety predicts job-search anxiety in health sciences (r=0.233, 821 students)
-
 - [[ai-attitude-latent-profiles-career-development-2026]] — Four AI-attitude profiles: career crafting and employability tracked engagement, not anxiety
 - [[sadik-ai-ready-engineering-talent-faculty-2026]] — Faculty forecasts are predictions, not evidence about employment

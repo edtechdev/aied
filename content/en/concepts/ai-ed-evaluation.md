@@ -1,7 +1,7 @@
 ---
 title: AI Ed Evaluation
 created: "2026-05-29T10:44:35-04:00"
-updated: "2026-10-16T08:47:09-04:00"
+updated: "2026-10-22T10:05:00-04:00"
 type: concept
 foundations: [agentic-ai, teacher-role]
 technology: [generative-ai, human-in-the-loop-ai, llm]
@@ -63,6 +63,8 @@ Evaluation of simulated learners faces the same standard: a simulator is valid o
 
 **Binary correctness hides the failures that matter.** On a three-way step-diagnosis benchmark of 10,836 simulated pairs, seven LLM tutors classified optimal steps near-perfectly (F1 94–99%) but valid alternatives at F1 0–76% and incorrect steps at 4–55% — over-rejection and over-validation — and accurate diagnosis still did not yield actionable feedback ([[yasir-llm-tutoring-agents-2026|Yasir et al. (2026)]]).
 
+- **Perturbation controls show which evidence a model actually uses.** In VIRA-Bench, the best of 11 models answered 61.3% of tutoring-video questions against a 91.0% expert reference, and removing the video versus shuffling its order degraded different question layers — a cheaper diagnostic than another aggregate score ([[vira-bench-pedagogical-contingency-tutoring-videos-2026|Wang et al. (2026)]]).
+
 - **Reusing human instruments to evaluate LLMs needs a latent-structure check.** [[assessment-latent-structure-human-llm-2026|Strugatski et al. (2026)]] fit exploratory factor analysis separately for humans and six multimodal LLMs: LLM–human congruence stayed below the human–human baseline on both instruments, and parallel analysis retained different factor counts (five for humans versus four for LLMs).
 
 - **Joint evaluation surfaces trade-offs a single score hides.** [[elbench-education-llm-benchmark-2026|Jiang et al. (2026)]] score nine education-facing models on capability, safety, basic education and high-level cultivation under one protocol: the top six are statistically indistinguishable overall yet differ by 19.5 points on Safety, and Safety is strongly anti-correlated with Basic Education (r = −0.83).
@@ -120,6 +122,7 @@ Context-conditioned benchmarks are needed: [[zhang-tutormoments-2026|Zhang et al
 - [[intelligent-tutoring]] — Evaluating AI tutoring systems
 - [[agentic-ai]] — Evaluating autonomous AI agent behavior
 ## Connected Articles
+- [[vira-bench-pedagogical-contingency-tutoring-videos-2026]] — VIRA-Bench: Diagnosing Pedagogical Contingency Understanding in Online Tutoring Videos
 - [[zhang-platform-scores-miss-ai-teaching-agents-2026]] — What platform scores miss: multidimensional evaluation of AI teaching agents
 - [[assessment-latent-structure-human-llm-2026]] — Do assessment instruments measure the same thing for humans and LLMs? (Strugatski et al. 2026)
 - [[assessing-quality-ai-generated-exams-field-2025]] — Assessing the quality of AI-generated exams: a large-scale field study
