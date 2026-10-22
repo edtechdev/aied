@@ -1,7 +1,7 @@
 ---
 title: Academic Integrity
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-22T12:02:21-04:00"
+updated: "2026-10-18T10:07:01-04:00"
 connected_faqs: [writing-instruction-ai-best-practices, should-we-use-ai-detectors, redesign-assessment-ai-era, reduce-ai-cheating, addressing-common-misconceptions-ai-education, course-ai-policy, verify-ai-output, group-work-ai, asynchronous-online-courses-ai]
 type: concept
 foundations: [ai-literacy]
@@ -67,8 +67,6 @@ Students do not generally [[ai-misuse-learning-harm|misuse]] AI out of malice; t
 Peer accountability does not always point toward integrity, as [[chen-zou-genai-group-assessment-agency-2026|Chen and Zou (2026)]] found in graded [[group-work|group assessment]]: seven of fifteen student groups deliberately reduced their GenAI use partly to avoid free-riding on groupmates, since group consequences were shared rather than self-contained, yet in five groups a permissive collective climate — "everyone in my group is using GenAI" — lowered the perceived [[ai-misuse-learning-harm|risk of misuse]] and inverted the very accountability mechanism group work is meant to create. The same study found students reframing originality as faithfulness to the understanding their classmates built together, and its practical recommendation follows directly: make the negotiation of acceptable AI use an explicit, documented, and assessable outcome rather than leaving the norm to emerge from peer pressure or perceived risk.
 
 Policy inconsistency across the institution produced exactly the guessing the coordination account predicts. Nine of the eleven interviewees in [[zou-is-this-a-trap-student-teachers-genai-2026|Zou et al. (2026)]] framed their own course's explicit permission to use generative AI as a possible "trap" — a lure to identify students who could not resist — even though the policy was open and written into the assessment guidelines; students generalized from bans and warnings encountered elsewhere rather than reading their own course's rules on their own terms. The authors' conclusion follows the mechanism rather than the wording: per-course clarity was not enough, and [[educational-policy-ai|program- or institution-level]] consistency is needed so that students stop inferring intent from the surrounding culture.
-
-Twenty sessional academics described the same inference problem from the front line, reporting that students cannot tell what is permitted when one unit bans generative AI and another encourages it for research ([[sessional-academics-contract-cheating-digital-misconduct-2026|Andriamora & Andriamora, 2026]]).
 
 **Identical conduct, different verdicts - and disclosure that changes nothing.** [[genai-governance-australian-higher-ed-2026|Poudyal (2026)]] applied 15 standardized vignettes to the policy environments of 20 Australian universities and produced 300 classifications: 120 (40.0%) clearly prohibited, 56 (18.7%) indeterminate, and none clearly permitted, while binding instruments were silent on generative AI in 100 combinations that guidance resolved in 88. Disclosure did not determine outcomes - the same disclosure status produced different classifications depending on permission rules and task instructions, and the disclosure field recorded 117 satisfied requirements and 80 false declarations.
 
@@ -182,7 +180,6 @@ The first Theory of Planned Behavior study of GAIT-based misconduct intention ex
 
 ## Connected Articles
 
-- [[sessional-academics-contract-cheating-digital-misconduct-2026]] — Sessional markers' detection cues, and the systemic drivers of misconduct
 - [[ivory-psychology-assessment-integrity-2026]] — A whole psychology program passable at minimum effort, and the marking criteria that let it through (Ivory et al. 2026)
 - [[zou-is-this-a-trap-student-teachers-genai-2026]] — Student teachers declined GenAI under a permissive policy; "trap" framing and survey–declaration gap
 - [[ai-agents-joyful-assessment-third-space-2026]] — AI agents, joyful assessment, and third space
