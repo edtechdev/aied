@@ -2,7 +2,7 @@
 connected_resources: [process-feedback]
 title: AI Detection
 created: "2026-05-29T10:44:35-04:00"
-updated: "2026-10-18T13:41:09-04:00"
+updated: "2026-10-22T12:02:21-04:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading]
 technology: [generative-ai, llm]
@@ -89,6 +89,7 @@ Test-time adaptation is the counterexample that claim leaves out. Against humani
 
 - **Detector output is the weakest evidence in the file, and evidence quality does not decide cases.** Coding 1,162 generative-AI misconduct allegations, detector output drew the lowest probative ratings and fell to 0.5% of items by 2025. Evidence quality showed no relationship to outcomes because the pipeline set no evidentiary threshold ([[munoz-misconduct-allegation-evidence-2026|Munoz et al., 2026]]).
 - **Students change their work to survive detection, not just their answers.** The report documents students dulling their own answers to avoid a false accusation, and teachers falling back on informal judgment — what it calls AI-DAR — once marketed detectors prove unreliable ([[tench-ai-policy-isnt-a-playbook-2026|Tench, Weinstein & James, 2026]]).
+- **The detector is switched off, and intuition is all that remains.** Sessional markers lost their AI detector at one institution because it flagged grammar-checking tools, leaving them to read for fabricated references (nineteen of twenty) and disconnection from course materials ([[sessional-academics-contract-cheating-digital-misconduct-2026|Andriamora & Andriamora, 2026]]).
 
 
 ## Beyond detection: assessment redesign
@@ -127,6 +128,8 @@ The constructive question shifts from "how do we prevent students from using AI?
 - [[legal-issues-and-risks]]
 
 ## Connected Articles
+
+- [[sessional-academics-contract-cheating-digital-misconduct-2026]] — Twenty markers on intuition, dead detectors and fabricated references
 - [[tench-ai-policy-isnt-a-playbook-2026]] — A nationally representative survey of US teachers and principals on AI policy coverage, agency, and five classroom plays (Tench, Weinstein & James 2026)
 - [[evaluation-age-ai-output-evidence-2026]] — Evaluation in the Age of AI
 - [[best-response-student-ai-dialog-2026]]

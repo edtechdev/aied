@@ -1,7 +1,7 @@
 ---
 title: Teaching
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-15T08:25:00-04:00"
+updated: "2026-10-22T12:02:21-04:00"
 type: concept
 foundations: [ai-literacy, educational-development, learning-design, teacher-ai-competency]
 pedagogy: [scaffolding]
@@ -118,6 +118,7 @@ Academic integrity with AI is a *design* problem, not a policing problem. Instru
 - **Using disclosure and framing.** [[framing-ai-use-for-students|How AI use is framed for students]] — whether as a crutch or a legitimate tool — shapes whether they disclose it. [[explainable-ai|Transparency]] norms (e.g., AI-use disclosure) reduce the incentive to hide AI use.
 - **Designing out the incentive to cheat.** Authentic, process-based, and in-person assessments (oral exams, [[eportfolio|portfolios]], observed [[problem-solving]]) make outsourcing less attractive than AI-detection tools do. [[ai-assessment-scale-reform|Assessment scales]] and [[authentic-assessment]] are the constructive alternative to [[ai-detection|detection]] arms races.
 - **Task-level [[regulation]] is how instructors actually govern AI.** [[chirikov-regulate-ai-syllabi-2026|Chirikov's (2026)]] study of 31,000+ course syllabi shows instructors increasingly acting as *task-level regulators* rather than applying blanket rules: they restrict AI for drafting/revising (79% of courses) and reasoning/problem-solving (65%), permit it for editing/proofreading (83%) and study support (80%), and leave ideation/planning most contested (46% permit / 54% restrict). This differentiation — built on which tasks AI displaces versus augments — is a concrete, instructor-driven alternative to adoption-or-ban policy and gives the teacher-role a central place in [[educational-policy-ai|policy]] formation.
+- **Sessional staff carry the marking load without the mandate.** Twenty casual academics, some teaching across three or more institutions at once, described detecting misconduct through untrained craft while holding no curriculum or policy authority ([[sessional-academics-contract-cheating-digital-misconduct-2026|Andriamora & Andriamora, 2026]]).
 
 ## Connecting teaching to learning design
 
@@ -174,6 +175,8 @@ Teacher role and [[learner-identity]] are reciprocal faces of the same human pro
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 
 ## Connected Articles
+
+- [[sessional-academics-contract-cheating-digital-misconduct-2026]] — Casual academics carry the integrity work without the authority
 - [[caeo-navigating-ai-educational-future-scenarios-2026]] — The more-human paradox: expert 2030 scenarios find AI saturation intensifies rather than displaces human pedagogical work (Malyn-Smith et al. 2026)
 - [[teachers-instrumental-orchestration-ai-math-2026]] — Six observed high school mathematics lessons extend instrumental orchestration with three new types (Noh & Kim 2026)
 - [[ai-emotional-alerts-teachers-mathematics-classroom-2026]] — Responding to AI-generated emotional alerts: teachers' intervention and students' engagement in the mathematics classroom
