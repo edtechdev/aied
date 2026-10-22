@@ -1,13 +1,13 @@
 ---
 title: Análisis de redes
 created: "2026-09-28T18:19:10-04:00"
-updated: "2026-10-04T17:12:06-04:00"
+updated: "2026-10-22T07:28:33-04:00"
 type: concept
 technology: [knowledge-graph, learning-analytics]
 confidence: high
 methods: [network-analysis, research-methods-aied]
 translation_of: concepts/network-analysis
-source_updated: "2026-10-04T10:50:04-04:00"
+source_updated: "2026-10-16T08:47:09-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -36,6 +36,7 @@ Los métodos de análisis de redes comparten una premisa central: que la estruct
 ## Variantes usadas en el corpus de la base de conocimiento
 
 - **Análisis de Redes Epistémicas (ENA)** — la variante más común en la base de conocimiento (tratada en ~24 artículos). El ENA modela la coocurrencia de códigos o constructos dentro de segmentos de discurso o actividad, y produce redes que muestran qué ideas, habilidades o acciones epistémicas tienden a estar conectadas en un contexto dado. Se usa para comparar cómo distintos grupos (por ejemplo, estudiantado con alfabetización alta frente a baja, colaboradores humanos frente a IA) estructuran su cognición. ([[tracing-genai-literacy-interaction-patterns]]) ([[hao-human-ai-collaborative-problem-solving-cognition]])
+- **El ENA también cartografía el discurso sobre competencias del [[teacher-role|profesorado]].** Aplicar el Análisis de Redes Epistémicas a entrevistas con 24 docentes de educación superior de Aotearoa Nueva Zelanda modeló los vínculos entre siete dimensiones del HACC y encontró que las redes de quienes ejercen como docentes principales diferían significativamente de las de docentes sénior (U = 10,00, p = .04) y de docentes al inicio de su carrera (U = 7,00, p = .01) en el primer eje ([[dang-human-ai-collaboration-competency-2026|Dang et al. (2026)]]).
 - **Análisis de Redes Sociales (SNA)** — modela las relaciones entre personas (estudiantado, profesorado, agentes) para revelar estructuras de colaboración, influencia, centralidad y comunidad. Útil para estudiar el [[collaborative-learning|aprendizaje colaborativo]] y el aprendizaje entre pares. ([[misiejuk-cognitive-offloading-prompting-2026]])
 - **Análisis de Redes de Transición (TNA)** — modela secuencias temporales de estados discretos (por ejemplo, las acciones de quien aprende en una sesión de tutoría) como una red dirigida, y cuantifica la probabilidad de pasar de un estado a otro. El TNA se usa para revelar bucles de comportamiento, trayectorias y dinámicas de aprovechamiento en la interacción entre quien aprende y la IA. ([[penny-transition-network-analysis-efl-writing-2026]])
 
@@ -97,3 +98,4 @@ Los métodos de redes se usan en toda la base de evidencia de la base de conocim
 - [[youtube-frames-chatgpt-education]] — ENA de los encuadres de YouTube sobre ChatGPT en educación
 - [[agency-gap-ai-writing]] — La brecha de agencia en la escritura apoyada por IA (ENA)
 - [[synthetic-educational-data-structural-fidelity-2026]] — Lo que las métricas de fidelidad pasan por alto: una comprobación estructural de los datos educativos sintéticos
+- [[dang-human-ai-collaboration-competency-2026]] — El ENA también cartografía el discurso del profesorado sobre competencias

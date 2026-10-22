@@ -1,16 +1,17 @@
 ---
 title: Evaluación formativa
 created: "2026-09-25T04:31:09-04:00"
-updated: "2026-10-04T17:12:06-04:00"
+updated: "2026-10-22T07:31:04-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [scaffolding]
 technology: [adaptive-learning, generative-ai, human-in-the-loop-ai, learning-analytics, llm, personalized-learning]
 assessment: [ai-feedback-quality, assessment, automated-assessment, feedback, formative-assessment]
 connected_faqs: [ai-feedback-at-scale]
+connected_resources: [snorkl, ai-infused-assignment-playbook]
 confidence: high
 translation_of: concepts/formative-assessment
-source_updated: "2026-10-04T05:46:16-04:00"
+source_updated: "2026-10-17T03:49:06-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -107,6 +108,8 @@ La evaluación formativa en la educación con IA conecta con el propio proceso d
 
 Los sistemas de evaluación formativa pueden pasar de ser herramientas de apoyo al aprendizaje a ser infraestructura de monitorización del comportamiento. Los mismos flujos de datos que permiten la tutoría adaptativa pueden permitir un seguimiento punitivo si la [[governance|gobernanza]] es débil. Esto conecta con la [[privacy|privacidad]] y el [[well-being|bienestar del estudiantado]], y aboga por sistemas formativos que apoyen el aprendizaje en lugar de vigilarlo.
 
+La observabilidad puede diseñarse sin vigilancia: es la evidencia que una evaluación genera realmente para un juicio defendible sobre el aprendizaje, tratada como una prioridad de diseño cuyo coste se paga en viabilidad y no en ética ([[assessment-feedback-trilemma-model-2026|Pedlow et al. (2026)]]).
+
 ## Implicaciones para la IA en la educación
 
 - **Ajuste el tipo de ítem a la fiabilidad de la IA:** use la IA para las dimensiones verificables (alineación conceptual, corrección) y reserve el juicio humano para las dimensiones didácticas (calidad de los distractores, profundidad de la retroalimentación).
@@ -172,6 +175,7 @@ Los sistemas de evaluación formativa pueden pasar de ser herramientas de apoyo 
 - [[gpt4-feedback-student-activation-2026]]
 - [[yin-arthur-ai-teaching-assistant-engineering-econ-2026]]
 - [[mesny-innovative-assessment-grading-management-2026]]
+- [[assessment-feedback-trilemma-model-2026]] — Contraparte positiva del riesgo de vigilancia: la observabilidad como diseño de evidencia, no como monitorización
 - [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]
 - [[ai-feedback-adaptivity-children-plans-2026]] — Adaptivity makes feedback effective: evidence from AI-generated feedback on children's plans
 - [[chen-automated-scoring-interpreting-self-regulated-learning-2026]] — Automated scoring, interpreting performance, and self-regulated learning (Chen & Liu 2026)

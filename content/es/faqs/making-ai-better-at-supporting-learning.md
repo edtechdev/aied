@@ -1,7 +1,7 @@
 ---
 title: "¿Cómo podemos hacer que la IA apoye mejor el aprendizaje en nuestra propia materia?"
 created: "2026-10-02T09:08:04-04:00"
-updated: "2026-10-02T09:08:04-04:00"
+updated: "2026-10-22T07:28:56-04:00"
 weight: 74
 type: faq
 connected_faqs: [training-ai-tutors-to-guide-rather-than-answer, checking-whether-educational-ai-works, developing-ai-tutor, designing-educational-ai-software]
@@ -15,7 +15,7 @@ discipline: [writing education]
 confidence: high
 methods: [benchmark]
 ethics: [pedagogical-safety]
-source_updated: "2026-10-02T08:21:34-04:00"
+source_updated: "2026-10-21T14:32:00-04:00"
 translation_of: faqs/making-ai-better-at-supporting-learning
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 reviewed_by: [editor]
@@ -28,8 +28,6 @@ ai_assist:
 ---
 
 *Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa.*
-
-# ¿Cómo podemos hacer que la IA apoye mejor el aprendizaje en nuestra propia materia?
 
 Un modelo de propósito general responderá con gusto la pregunta de un estudiante en su lugar, y no sabe nada de su plan de estudios, su rúbrica ni de los errores que sus estudiantes cometen en realidad. Cerrar esa brecha suele plantearse como un problema de entrenamiento. En esta base de conocimiento es sobre todo un problema de **fundamentación y prompting**, y la evidencia de ese orden es inusualmente directa: un estudio sobre un asistente de curso encontró que la recuperación, y no el modelo, era la decisión de primer orden, y que un modelo general sin fundamentación obtuvo una puntuación *por debajo* de una línea base TF-IDF.
 

@@ -1,7 +1,7 @@
 ---
 title: Modelos de adopción tecnológica
 created: "2026-09-28T20:10:39-04:00"
-updated: "2026-10-02T22:33:23-04:00"
+updated: "2026-10-22T07:42:11-04:00"
 type: concept
 foundations: [ai-literacy]
 technology: [generative-ai, technology-acceptance-model]
@@ -10,7 +10,7 @@ level: [higher ed]
 confidence: high
 methods: [research-methods-aied]
 translation_of: concepts/technology-acceptance-model
-source_updated: "2026-09-30T14:23:52-04:00"
+source_updated: "2026-10-21T21:15:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -22,7 +22,7 @@ ai_assist:
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 
-Los **modelos de adopción tecnológica** son los marcos teóricos que se usan para explicar y predecir por qué las personas y las instituciones aceptan, adoptan y siguen usando nuevas [[ai-technologies|tecnologías]] —y, en la investigación sobre IA en educación, por qué quienes aprenden, el profesorado y las organizaciones adoptan herramientas de [[generative-ai|IA generativa]]. Más que un modelo único, se trata de una familia de teorías con raíces comunes en la investigación sobre sistemas de información y psicología social, de la que el **Modelo de Aceptación de Tecnología (TAM)** es el más aplicado. La base de conocimiento trata estos modelos en conjunto porque los estudios sobre adopción de IA generativa los combinan habitualmente (TAM + UTAUT, TAM + TPB, UTAUT + ARCS) y porque sus constructos centrales —utilidad percibida, facilidad de uso percibida e influencia social— reaparecen en casi todos los estudios sobre aceptación de la IA en educación.
+> **Modelos de adopción tecnológica** — la familia de teorías que explican y predicen por qué las personas y las instituciones aceptan, adoptan y siguen usando nuevas [[ai-technologies|tecnologías]], de las que el **Modelo de Aceptación Tecnológica (TAM)** es el más aplicado. En la [[ai-education|IA en la educación]] son la lente estándar para preguntar por qué quienes aprenden, el profesorado y las organizaciones adoptan herramientas de [[generative-ai|IA generativa]], y la base de conocimiento los trata en conjunto porque los estudios de adopción de IA generativa se apoyan en varios miembros de la familia y no en uno solo.
 
 ## Preguntas para reflexionar
 

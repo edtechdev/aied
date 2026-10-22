@@ -1,14 +1,15 @@
 ---
 title: "¿Qué evidencia existe sobre las intervenciones de alfabetización en IA en la educación superior?"
 created: "2026-09-22T18:29:06-04:00"
-updated: "2026-10-02T09:09:37-04:00"
+updated: "2026-10-22T07:28:56-04:00"
 connected_faqs: [incorporating-ai-literacy, verify-ai-output]
 weight: 50
+audience: [instructors, researchers, administrators]
 foundations: [ai-literacy]
 assessment: [educational-measurement]
 research_method: [literature review]
 level: [higher ed]
-source_updated: "2026-10-02T08:21:34-04:00"
+source_updated: "2026-10-21T14:32:00-04:00"
 translation_of: faqs/ai-literacy-evidence
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
@@ -20,8 +21,6 @@ ai_assist:
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
-
-# ¿Qué evidencia existe sobre las intervenciones de alfabetización en IA en la educación superior?
 
 La evidencia sobre las intervenciones de **[[ai-literacy|alfabetización en IA]] en la [[higher-ed|educación superior]] es prometedora, pero todavía metodológicamente inmadura**. En toda la base de conocimiento, el hallazgo recurrente más sólido es que la alfabetización en IA se desarrolla de forma más eficaz mediante una **práctica activa y contextualizada con la IA (en especial la crítica, la comparación, la reflexión y la colaboración) que mediante demostraciones de herramientas o clases magistrales por sí solas**. Al mismo tiempo, relativamente pocos estudios miden una competencia duradera y demostrada de forma independiente; muchos se basan en el [[self-regulated-learning|autoinforme]], en intervenciones breves, en comparaciones observacionales o en la [[design-based-research|investigación basada en el diseño]].
 

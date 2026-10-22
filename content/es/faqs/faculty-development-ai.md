@@ -1,7 +1,7 @@
 ---
 title: "¿Cómo diseño un desarrollo profesional docente en IA que cambie realmente la práctica?"
 created: "2026-09-22T18:29:07-04:00"
-updated: "2026-10-02T09:09:37-04:00"
+updated: "2026-10-22T07:28:56-04:00"
 connected_faqs: [faculty-ai-competencies, top-10-findings-ai-education-instructors]
 weight: 65
 type: faq
@@ -11,7 +11,7 @@ research_method: [survey, case study]
 audience: [faculty developers, administrators]
 level: [higher ed, teacher education, k 12]
 institutions: [change-management]
-source_updated: "2026-10-02T08:21:34-04:00"
+source_updated: "2026-10-21T14:32:00-04:00"
 translation_of: faqs/faculty-development-ai
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
@@ -23,8 +23,6 @@ ai_assist:
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
-
-# ¿Cómo diseño un desarrollo profesional docente en IA que cambie realmente la práctica?
 
 Si usted dirige desarrollo profesional docente, la presión que soporta es probablemente una de estas: su vicerrector quiere un programa de IA este año, la asistencia va bien pero nada cambia en las aulas, o quienes más lo necesitan no vendrán. Las tres apuntan a la misma falla de diseño. Lo que cambia la práctica de un docente no es aprender qué puede hacer una herramienta; es dedicar tiempo estructurado y con apoyo a un problema de *su propia* asignatura, el tiempo suficiente para que un hábito nuevo sustituya a uno viejo, con la institución diciendo explícitamente sí al experimento en lugar de limitarse a permitirlo.
 

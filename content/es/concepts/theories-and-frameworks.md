@@ -1,7 +1,7 @@
 ---
 title: Teorías y marcos
 created: "2026-09-28T18:22:10-04:00"
-updated: "2026-10-02T21:34:05-04:00"
+updated: "2026-10-22T07:31:04-04:00"
 type: concept
 foundations: [ai-education, theory-development-aied, philosophy-of-ai-in-education]
 pedagogy: [learning-theories]
@@ -9,7 +9,7 @@ assessment: [assessment-validity, item-response-theory]
 methods: [research-methods-aied]
 confidence: high
 translation_of: concepts/theories-and-frameworks
-source_updated: "2026-09-30T12:53:22-04:00"
+source_updated: "2026-10-18T10:07:01-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -48,6 +48,7 @@ Estas explican mecanismos: nombran las piezas que hacen el trabajo y predicen qu
 - **[[community-of-inquiry|Comunidad de indagación]]** — las presencias social, cognitiva y docente que hacen funcionar una experiencia en línea; una teoría de la experiencia y a la vez un marco de diseño.
 - **[[self-determination-theory|Teoría de la autodeterminación]]** — autonomía, competencia y relación como precondiciones motivacionales. Suele ser la explicación que se ofrece cuando el uso de IA eleva la implicación sin elevar el aprendizaje.
 - **[[cognitive-psychology|Cognitivismo]]** — procesamiento de información, memoria de trabajo y la divergencia entre la sensación de aprender y el aprendizaje real.
+- **Teoría de la percepción social (calidez y competencia)** — importada de la cognición social y de la investigación en robots de servicio, enmarca cómo juzga quien usa un agente de IA su credibilidad: la competencia percibida predijo directamente la credibilidad de la retroalimentación de ChatGPT, mientras que la calidez operó solo a través de la empatía similar a la humana (SEM, 230 estudiantes; [[chatgpt-feedback-credibility-perceived-learning|Pérez-López et al. (2026)]]).
 
 ## Modelos de quien aprende y del proceso de aprendizaje
 

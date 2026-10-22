@@ -1,7 +1,7 @@
 ---
 title: Medidas de autoinforme
 created: "2026-09-28T19:11:16-04:00"
-updated: "2026-10-03T02:57:43-04:00"
+updated: "2026-10-22T07:31:04-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [self-efficacy, student-engagement]
@@ -14,7 +14,7 @@ connected_faqs: [evaluating-ai-interventions-methods, does-ai-help-students-lear
 confidence: high
 methods: [quantitative-research, research-methods-aied, qualitative-research]
 translation_of: concepts/self-report-measures
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-21T11:40:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -48,7 +48,7 @@ Esto no es una debilidad de la que haya que disculparse. Muchos constructos de i
 
 ## Qué puede y qué no puede establecer el autoinforme
 
-El autoinforme se adapta bien a las actitudes, las creencias, las intenciones, las percepciones de una herramienta, los estados afectivos y la confianza o la dificultad autojuzgadas. Se adapta mal a la conducta y no puede medir el aprendizaje en absoluto: la creencia de una persona de que ha aprendido algo es en sí misma una percepción, y la base de conocimiento trata el aprendizaje percibido como una cantidad distinta de las [[learning-gains|ganancias de aprendizaje]].
+El autoinforme se adapta bien a las actitudes, las creencias, las intenciones, las percepciones de una herramienta, los estados afectivos y la confianza o la dificultad autojuzgadas. Una revisión de alcance de 394 estudios de IA generativa en educación superior encontró que las escalas de encuesta eran el método de evaluación más frecuentemente informado (269 estudios, 68,3%), por delante de los exámenes, cuestionarios y rúbricas (185, 47,0%) y del análisis de artefactos (167, 42,4%) ([[mapping-genai-higher-ed-scoping-review|Lin et al. (2026)]]). Se adapta mal a la conducta y no puede medir el aprendizaje en absoluto: la creencia de una persona de que ha aprendido algo es en sí misma una percepción, y la base de conocimiento trata el aprendizaje percibido como una cantidad distinta de las [[learning-gains|ganancias de aprendizaje]].
 
 La consecuencia es un conjunto de afirmaciones que se parecen en un apartado de resultados pero difieren en fuerza:
 
@@ -69,6 +69,10 @@ La elección opuesta también es defendible: PAUSE es una autocomprobación de d
 
 El hallazgo más sólido sobre el autoinforme en esta base de conocimiento no es que el autoinforme esté sesgado en general, sino que la conducta informada y la observada divergen de formas concretas y documentadas.
 
+Los perfiles derivados del autoinforme se comportan del mismo modo. [[najem-behavioral-clustering-adaptive-learning-recommendation-2026|Najem et al. (2026)]] agruparon 14.003 registros de estudiantado sobre proxies conductuales y psicológicos autoinformados en lugar de sobre trazas de interacción del LMS, y los seis perfiles resultantes se separaron con nitidez en la nota final (η² = 0,770), una separación que los autores advierten que es en parte una reformulación de lo que el estudiantado declaró.
+
+Las trazas conductuales pueden separar a estudiantes que una escala de autoinforme no distingue: [[cognitive-offloading-llm-synthesis-writing|Poquet et al. (2026)]] encontraron que la carga cognitiva autoinformada no difería significativamente entre perfiles de descarga que iban del 80% al 2% en la autoría de ensayos, mientras que quienes más descargaban declaraban aun así la mayor demanda mental.
+
 [[ai-literacy-assessment-misalignment|Un estudio que construyó medidas paralelas de autoinforme y objetivas de la alfabetización en IA del profesorado]] encontró **una concordancia débil entre los factores de autoinforme y los objetivos (r = 0,07 a r = 0,24)** en una muestra de 288 docentes, con un análisis factorial confirmatorio que respaldaba la validez de constructo de ambas medidas a la vez que mostraba una **correlación baja entre los factores de autoinforme y los objetivos**. Los dos instrumentos eran creíbles; simplemente medían cosas distintas. En la muestra completa de 288 docentes, las correlaciones entre los factores objetivos y los autoinformados fueron de r = 0,07 a r = 0,24, y el análisis de perfiles latentes identificó 43 docentes que se puntuaban alto mientras obtenían puntuaciones más bajas en la medida objetiva, frente a 59 que mostraban el patrón inverso.
 
 [[jin-glat-genai-literacy-assessment|GLAT]] llega a la misma conclusión desde la dirección contraria: su prueba de 20 ítems basada en el rendimiento predijo el desempeño en tareas de aprendizaje apoyadas por [[generative-ai|IA generativa]] en un estudio intra-sujeto con 83 estudiantes, **mientras que la alfabetización en ChatGPT autoinformada no lo hizo**. El planteamiento de los autores es contundente: los instrumentos de este ámbito dependen de forma abrumadora de encuestas autoinformadas, «que capturan la competencia percibida y no la real y son propensas al sesgo y a la sobreestimación».
@@ -78,6 +82,8 @@ Las estimaciones conductuales muestran la misma división. [[predicting-attritio
 A veces preguntar y observar se ponen frente a frente. [[student-llm-interaction-taxonomy-review-2026|Una revisión de alcance de 46 categorizaciones de 33 estudios]] encontró que la literatura se divide casi por igual entre datos de autoinforme y datos de registros de interacción, y concluyó que las categorías «a menudo reflejan tanto el enfoque de medición como la interacción misma», con los estudios de autoinforme capturando percepciones e intenciones mientras que los estudios basados en registros capturan conducta conversacional observable, y ambos rara vez integrados. [[tracing-genai-literacy-interaction-patterns|El trabajo con datos de proceso sobre la alfabetización en IA generativa]] hace la versión constructiva del argumento: si un estudiante hace prompts de forma iterativa, refina la salida y gestiona las [[hallucination-risk|alucinaciones]] es observable en los registros de interacción y no en un cuestionario.
 
 Una revisión estructurada y un [[meta-analysis-systematic-review|metaanálisis]] exploratorio de 2026 sobre las medidas del uso competente de la [[generative-ai|IA generativa]] pone una cifra agrupada a esa brecha desde la dirección contraria: agrupar tres correlaciones subjetivo–objetivo de una misma muestra informadas directamente (N informado combinado = 2.765) dio r = 0,055 (IC del 95% con Hartung–Knapp [−0,047; 0,156]), y añadir las correlaciones entre factores de un cuarto estudio solo llegó a r = 0,079. Los tres efectos primarios procedían de un único programa de investigación, la correlación y el valor p informados del contribuyente mayor no pudieron reconciliarse, y la revisión concluye que el autoinforme no puede sustituir a las puntuaciones objetivas de rendimiento, a la vez que señala que los instrumentos de rendimiento son en sí mismos estrechos, pues cubren conocimiento fundacional y no las conductas de supervisión y dependencia que importan en el trabajo ([[competent-generative-ai-use-measures-review-2026|Verí (2026)]]).
+
+Una revisión sistemática en dos fases pone una tasa a esa divergencia en el plano de las conclusiones: de 51 pares del mismo constructo procedentes de 47 informes, 30 coincidieron, 11 discreparon y 10 fueron mixtos. La discrepancia se dio en ambas direcciones: cinco contrastes emparejaron un resultado nulo de autoinforme con un resultado positivo de rendimiento, frente a dos en sentido inverso ([[same-construct-same-conclusion-self-report-vs-performance-2026|Fan et al. (2026)]]).
 
 La propia literatura sobre instrumentos puede leerse como evidencia de la magnitud de la brecha. [[assessing-teachers-ai-literacy-measurement-tools-2026|Zainal, Mohd Matore y Maat (2026)]] evaluaron 33 instrumentos de alfabetización en IA del profesorado y encontraron que 31 (93,9%) eran escalas de autoinforme de confianza percibida, solo dos (6,1%) medían el conocimiento de forma objetiva y ninguno usaba tareas basadas en el rendimiento entre 2019 y 2025. Su conclusión es la que esta página alcanza una y otra vez desde otras direcciones: las puntuaciones de autoinforme indican confianza y no capacidad, así que no pueden sustituir a la competencia cuando se comparan grupos o programas.
 
@@ -179,3 +185,5 @@ Las respuestas constructivas de la base de conocimiento son consistentes, y ning
 - [[pause-ai-cognitive-offloading-self-reflection-2026]] — PAUSE: una herramienta de autorreflexión que preserva la privacidad frente a la delegación cognitiva asociada a la IA
 - [[ai-literacy-self-assessment-questionnaire-primary-2025]] — Un instrumento de autoevaluación de 15 ítems para estudiantes de primaria superior, explícito sobre lo que puede establecer la competencia percibida
 - [[assessing-teachers-ai-literacy-measurement-tools-2026]] — Revisión que encuentra que 31 de 33 instrumentos de alfabetización en IA del profesorado son de autoinforme y ninguno se basa en el rendimiento
+- [[najem-behavioral-clustering-adaptive-learning-recommendation-2026]] — Los perfiles derivados del autoinforme se comportan del mismo modo
+- [[same-construct-same-conclusion-self-report-vs-performance-2026]] — Revisión en dos fases que pone una tasa a la discrepancia entre autoinforme y rendimiento para un mismo constructo (Fan et al. 2026)

@@ -1,14 +1,14 @@
 ---
 title: Confianza
 created: "2026-09-28T20:10:47-04:00"
-updated: "2026-10-09T17:55:00-04:00"
+updated: "2026-10-22T07:28:42-04:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, human-ai-collaboration]
 technology: [educational-robotics, intelligent-tutoring]
 ethics: [trust]
 confidence: high
 translation_of: concepts/trust
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-16T08:47:09-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -52,9 +52,13 @@ Cuán explicable es un sistema — y en qué términos — también moldea si el
 
 La confianza en la IA se comporta como una vía desde la valoración hasta la dependencia más que como una actitud única: el empoderamiento percibido por la IA y la amenaza percibida por la IA eran casi independientes (r = 0,030) y sin embargo movían la confianza en direcciones opuestas (β = 0,576 y β = −0,328), y la confianza mantenía asociaciones indirectas significativas con la dependencia de la IA generativa en ambas direcciones ([[ai-empowerment-threat-genai-dependence-2026|Zhu et al. (2026)]]).
 
+Un modelo estructural da a ese papel de puente una prueba empírica. En la encuesta de [[trust-calibration-genai-collaborative-regulation-2026|Bu y Li (2026)]] a 642 estudiantes universitarios, el apoyo contextual predijo la calibración de la confianza (β = 0,56), la calibración de la confianza predijo la [[regulation|regulación]] [[collaborative-learning|colaborativa]] (β = 0,49) y las ganancias percibidas de [[transfer-of-learning|transferencia]] (β = 0,22), y la vía directa del apoyo contextual a las ganancias no fue significativa.
+
 [[student-perspectives-ai-writing-grading-2026|AlGhamdi (2026)]] respalda una concepción de la confianza en los algoritmos **específica por función y no global**: ni la aversión ni la apreciación hacia los algoritmos describían a estos 13 estudiantes, que a la vez confiaban en ChatGPT para retroalimentación superficial y desconfiaban de él como calificador. Su confianza dependía de la supervisión del docente, y su escepticismo provenía de los límites contextuales de la IA — leer mal la escritura a mano escaneada («escribió mal mi apellido y cree que cometí errores de ortografía cuando no fue así»), no conocer el sistema de calificación del docente y una positividad crónica — y no de tecnofobia, lo que sugiere que las medidas de confianza deberían descomponerse según la función que desempeña una IA y los riesgos asociados a ella.
 
 Las tres dimensiones de la credibilidad de la fuente pueden disociarse: diecisiete estudiantes de grado de ILE concedieron al asistente de escritura de IA una competencia amplia, dudaron de su fiabilidad sobre todo por lo que la plataforma retenía, y valoraron su buena voluntad como lo más bajo: el techo de su dependencia estaba en el cuidado, y no en la competencia ([[bounded-reliance-ai-writing-feedback-2026|Serpil y Mor, 2026]]).
+
+Las señales de credibilidad pueden aumentar la dependencia de respuestas erróneas: añadir citas y señales de autoridad a una interfaz de debate elevó el abandono de un juicio correcto en favor de la posición de la IA del 15,0% al 31,8%, mientras que retener una posición recomendada redujo ese cambio al 5,7–8,2% ([[tuo-armada-multi-agent-debate-overreliance-2026|Tuo et al., 2026]]).
 
 ## La confianza en la IA sigue el estado psicológico, no la categoría demográfica
 
@@ -120,3 +124,5 @@ La calibración también se pone a prueba por los incentivos del propio sistema 
 
 - [[ai-empowerment-threat-genai-dependence-2026]] — El empoderamiento y la amenaza movieron la confianza en direcciones opuestas, vehiculando la dependencia de la IA generativa
 - [[observer-perceptions-genai-interpersonal-trust-2026]] — El uso de IA generativa por parte de los pares reduce la confianza interpersonal a través de la calidez y la competencia percibidas, amortiguado por la alfabetización en IA
+- [[tuo-armada-multi-agent-debate-overreliance-2026]] — Las señales de credibilidad elevaron el cambio a una posición incorrecta de la IA; retener una recomendación lo suprimió
+- [[trust-calibration-genai-collaborative-regulation-2026]] — Un modelo estructural da a ese papel de puente una prueba empírica

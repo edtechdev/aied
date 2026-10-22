@@ -1,7 +1,7 @@
 ---
 title: Gestión del cambio
 created: "2026-09-28T20:10:55-04:00"
-updated: "2026-10-09T17:40:00-04:00"
+updated: "2026-10-22T07:31:04-04:00"
 type: concept
 foundations: [ai-education]
 connected_faqs: [institutional-ai-policy, faculty-development-ai]
@@ -10,7 +10,7 @@ confidence: medium
 institutions: [change-management]
 connected_resources: [campus-ai-framework, institutional-ai-readiness-pack]
 translation_of: concepts/change-management
-source_updated: "2026-10-09T09:50:00-04:00"
+source_updated: "2026-10-16T19:45:37-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -64,6 +64,10 @@ La gestión del cambio en la educación con IA conlleva implicaciones tanto posi
 
 **Para quienes [[administrator|administran]] y para los [[educational-policy-ai|responsables de política educativa]]**, la evidencia aboga por una gobernanza participativa, la inversión en infraestructura y el desarrollo de capacidades por encima de los documentos estratégicos aspiracionales, traduciendo la política nacional en un apoyo concreto al profesorado en lugar de emitir mandatos de arriba abajo. **Para el profesorado**, la gestión del cambio significa pasar de adoptante a experimentador guiado por la indagación, implicar al [[pedagogical-partnerships|estudiantado como socio]] y anclar la reforma en principios pedagógicos duraderos en lugar de en herramientas que pueden quedar obsoletas en meses, con la advertencia de que el desarrollo profesional debe apuntar a un ciclo de diseño completo (evaluación de necesidades, retroalimentación) y no solo al uso de herramientas, como demuestra la [[dot-framework-survey-2026|encuesta sobre el marco DOT]].
 
+Un estudio de caso institucional traza un arco de difusión de una década en matemáticas de grado, que pasa de la iniciativa individual y los talleres entre pares a la licencia conjunta del profesorado y la financiación central ([[flipped-classroom-ai-assessment-math-2026|Law, 2026]]).
+
+El rediseño de un curso tiene un coste que las instituciones deberían presupuestar en lugar de dar por supuesto: adoptar un curso con IA integrada supuso entre 15 y 20 horas de trabajo de rediseño por curso antes de cualquier ajuste continuo ([[packard-thinking-partner-framework-adult-learners-2026|Packard et al. (2026)]]).
+
 ## Conexiones con otros conceptos
 
 La gestión del cambio es el complemento institucional de la integración a nivel de aula. Operacionaliza las condiciones sistémicas —gobernanza, desarrollo del profesorado, [[student-engagement|implicación]] de las partes interesadas y salvaguardas de equidad— que permiten que la innovación pedagógica arraigue, y conecta el diseño de políticas de [[educational-policy-ai|política educativa sobre IA]] con los resultados de [[governance|gobernanza]], [[educational-development|desarrollo educativo]] y [[equity-in-ai-education|equidad en la educación con IA]].
@@ -97,4 +101,4 @@ La gestión del cambio es el complemento institucional de la integración a nive
 - [[instruction-partners-ai-in-action-learning-tour-2026]] — trabajo de campo entre sistemas sobre cómo la implementación y las acciones del profesorado deciden si un producto de IA ayuda
 - [[dot-framework-survey-2026]] — evidencia de encuesta de que el desarrollo profesional debe cubrir un ciclo de diseño completo y no solo el uso de herramientas
 - [[flipped-classroom-ai-assessment-math-2026]] — Un arco de difusión de una década desde la iniciativa individual hasta la financiación central en matemáticas de grado (Law 2026)
-- [[flipped-classroom-ai-assessment-math-2026]] — Un arco de difusión de una década desde la iniciativa individual hasta la financiación central en matemáticas de grado (Law 2026)
+- [[packard-thinking-partner-framework-adult-learners-2026]] — Presupuestar entre 15 y 20 horas de rediseño por curso con IA integrada antes de cualquier ajuste continuo

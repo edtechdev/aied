@@ -1,7 +1,7 @@
 ---
 title: Juicio evaluativo
 created: "2026-09-28T20:10:47-04:00"
-updated: "2026-10-02T21:16:54-04:00"
+updated: "2026-10-22T07:34:46-04:00"
 type: concept
 foundations: [academic-integrity, critical-thinking]
 pedagogy: [metacognition, self-regulated-learning]
@@ -10,7 +10,7 @@ audience: [instructors, learners, assessment designers]
 level: [higher ed]
 confidence: high
 translation_of: concepts/evaluative-judgment
-source_updated: "2026-09-30T16:25:27-04:00"
+source_updated: "2026-10-21T10:45:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -75,6 +75,8 @@ La literatura de la base de conocimiento sobre el aprendizaje [[collaborative-le
 - **El juicio de la propia institución carece de los criterios que exige al estudiantado.** [[munoz-misconduct-allegation-evidence-2026|Munoz et al. (2026)]] valoraron el valor probatorio de 1.855 elementos de prueba en 1.162 denuncias de mala conducta con IA generativa y encontraron que la calidad de la prueba no guardaba una relación fiable con el resultado de los casos, porque ninguna etapa del procedimiento fijaba un umbral probatorio mínimo ni exigía a quienes investigaban sopesar el valor probatorio antes de dar curso a una denuncia — los tribunales sopesaban la prueba mediante un juicio profesional no estructurado. La salida de los detectores fue la categoría más débil de ese corpus (las salidas de detectores por sí solas, de credibilidad totalmente baja), y [[hadra-ai-detector-accuracy-efl-2026|Hadra et al. (2026)]] muestran que el instrumento no puede establecer el hecho que afirma un hallazgo — precisión macro de 0,69 y 0,61 en 192 textos, un fracaso casi total en la escritura híbrida humano-IA y una preocupación de sesgo limítrofe para quienes escriben en inglés como lengua extranjera —, y por eso la recomendación de los propios autores es el juicio humano, una [[educational-policy-ai|política]] más clara y tareas mejor especificadas en lugar de la vigilancia. «Mejor especificadas» importa por partida doble: [[wright-transcription-not-generation-2026|Wright (2026)]] sostiene que las normas redactadas según la identidad de la plataforma y no según la función son excesivamente inclusivas por un accidente definicional, sancionando a un estudiante que no hizo lo que la norma pretendía evitar, de modo que el juicio de quien evalúa debe aplicarse a lo que hizo una herramienta y no a qué plataforma se usó. Un juicio ejercido sin criterios compartidos no puede enseñarse, calibrarse ni auditarse — el problema de consistencia que esta página reporta para el estudiantado, llegando al nivel de la institución. El juicio del evaluador también conlleva una dirección medible propia: cinco responsables de admisiones que separaban 50 ensayos de admisión humanos de 50 escritos por IA alcanzaron un AUC de 0,70 (IC del 95% [0,65; 0,75]), y sus valoraciones de calidad bajaban a medida que subía la probabilidad percibida de IA, una asociación que se mantuvo tras ajustar por la calidad valorada por máquina, la procedencia real y las características de los solicitantes (−0,109; p < .05). Como nadie filtró las solicitudes, ese juicio sin ayuda fue todo el mecanismo de aplicación de la norma, y cada ensayo señalado conllevó 1,5 puntos porcentuales menos de probabilidad de admisión, 2,6 una vez mantenida constante la calidad del ensayo ([[ai-written-admissions-essays-penalized-2026|Isley, Gaebler y Goel 2026]]).
 
 - **Se están proponiendo indicadores indirectos del juicio a nivel de aula.** [[austin-ai-agents-assignment-redesign-2026|Austin (2026)]] añade dos señales conductuales a una secuencia de tareas rediseñada: la *tasa de discernimiento* de UnBlooms™, la proporción de salidas de IA que quien aprende interroga, cuestiona o revisa en lugar de aceptar, y la *tasa de aceptación en el primer intento*. Ninguna está validada — ambas se ofrecen como diagnósticos baratos por tarea —, pero hacen observable el constructo dentro de la calificación ordinaria, donde una tasa de discernimiento cercana a cero en varias tareas se lee como una señal de diseño de la tarea y no como un déficit individual.
+- **El juicio se registra cuando se conecta con la revisión, no solo cuando está presente.** Entre 67 docentes en formación que diseñaban planes de clase con IA generativa, la evaluación explícita estuvo casi ausente en el grupo de menor calidad (0,67 frente a 0,00); lo que separó la calidad fue un ciclo bidireccional de evaluación y revisión (CE→RE Z = 2,80; RE→CE Z = 2,50) y un bucle de autorrevisión (RE→RE Z = 4,24) ([[fang-human-ai-collaboration-patterns-instructional-design-2026|Fang et al. (2026)]]).
+- **Los criterios del profesorado pueden externalizarse revisando la salida de la IA.** [[valiassist-programming-feedback-validation-by-demonstration-2026|Tang et al. (2026)]] infirieron reglas de validación reutilizables a partir de las ediciones que 16 docentes hicieron de retroalimentación de programación generada por LLM y elevaron la alineación con su intención pedagógica del 57% al 91%, lo que hace inspeccionables los criterios tácitos en lugar de dejarlos sin declarar.
 
 ## Cómo el mal uso desplaza el juicio
 
@@ -137,3 +139,5 @@ El riesgo más claro es el desplazamiento, y está evidenciado en la literatura 
 - [[obyrne-co-constructing-ai-boundaries-agency-judgment-2026]] — la comprobación de agencia (creíble, relevante, aceptable, matizada) que estructura cada interacción con la IA
 
 - [[judgment-centred-software-engineering-education-2026]] — Una revisión pos-hype y un marco para la educación en ingeniería de software aumentada con IA
+- [[fang-human-ai-collaboration-patterns-instructional-design-2026]] — El juicio solo separó la calidad cuando se conectó con la revisión (Z = 2,80 y 2,50)
+- [[valiassist-programming-feedback-validation-by-demonstration-2026]] — Las revisiones del profesorado se convirtieron en criterios de validación reutilizables (Tang et al. 2026)

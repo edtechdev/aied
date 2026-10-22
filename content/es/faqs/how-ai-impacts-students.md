@@ -1,14 +1,14 @@
 ---
 title: "¿Cómo está impactando la IA al estudiantado?"
 created: "2026-09-22T18:57:28-04:00"
-updated: "2026-10-02T09:09:37-04:00"
+updated: "2026-10-22T07:31:04-04:00"
 connected_faqs: [does-ai-help-students-learn, study-with-ai, ai-anxiety-wellbeing, ai-guidance-children-under-13]
 weight: 82
 foundations: [ai-literacy, cognitive-offloading, learner-identity]
 pedagogy: [well-being]
 ethics: [equity-in-ai-education]
 audience: [learners]
-source_updated: "2026-10-02T08:21:34-04:00"
+source_updated: "2026-10-21T14:32:00-04:00"
 translation_of: faqs/how-ai-impacts-students
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
@@ -20,8 +20,6 @@ ai_assist:
 ---
 
 *Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa.*
-
-# ¿Cómo está impactando la IA al estudiantado?
 
 **La IA impacta al estudiantado en direcciones tanto positivas como negativas, y por lo general al mismo tiempo.** La misma herramienta puede andamiar el aprendizaje de un estudiante a la vez que invita a la dependencia excesiva, puede elevar la motivación a la vez que erosiona la agencia, o puede apoyar la pertenencia a la vez que amenaza la autoría. La investigación sobre la [[student-experience|Experiencia del estudiante]] señala impactos positivos y negativos recurrentes en varias dimensiones, y la dirección depende en gran medida de cómo se diseña la IA y de cómo la usa el estudiantado.
 

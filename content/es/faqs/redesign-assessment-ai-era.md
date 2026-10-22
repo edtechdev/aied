@@ -1,12 +1,13 @@
 ---
 title: "¿Cómo puedo rediseñar la evaluación para que una calificación siga diciéndome algo defendible sobre lo que el estudiante sabe o puede hacer?"
 created: "2026-09-22T18:29:05-04:00"
-updated: "2026-10-02T09:09:37-04:00"
+updated: "2026-10-22T07:28:42-04:00"
 connected_faqs: [should-we-use-ai-detectors, reduce-ai-cheating, writing-instruction-ai-best-practices, course-ai-policy]
 weight: 84
+audience: [instructors, assessment designers]
 foundations: [academic-integrity]
 assessment: [assessment, assessment-validity, authentic-assessment]
-source_updated: "2026-10-02T08:21:34-04:00"
+source_updated: "2026-10-21T14:32:00-04:00"
 translation_of: faqs/redesign-assessment-ai-era
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
@@ -18,8 +19,6 @@ ai_assist:
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
-
-# ¿Cómo puedo rediseñar la evaluación para que una calificación siga diciéndome algo defendible sobre lo que el estudiante sabe o puede hacer?
 
 **Empiece por declarar explícitamente qué capacidad se supone que representa la calificación.** ¿Está evaluando lo que un estudiante puede hacer de forma independiente, lo que puede lograr de manera apropiada con IA, su capacidad de evaluar y dirigir la IA, o alguna combinación de estas? La página [[assessment-validity|Validez de la evaluación]] de esta base de conocimiento lo trata como un problema de validez: un producto pulido ya no es evidencia suficiente de que el estudiante posea la capacidad que ese producto parece demostrar. Esta es la mitad del mismo argumento que corresponde a la evaluación; la mitad que corresponde al control está en [[reduce-ai-cheating]], y el marco general de validez atraviesa [[evaluating-ai-interventions-methods]].
 

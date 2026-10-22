@@ -1,7 +1,7 @@
 ---
 title: Entrenamiento y ajuste fino de LLM
 created: "2026-09-28T20:10:35-04:00"
-updated: "2026-10-02T22:23:27-04:00"
+updated: "2026-10-22T07:28:33-04:00"
 connected_faqs: [making-ai-better-at-supporting-learning, training-ai-tutors-to-guide-rather-than-answer, checking-whether-educational-ai-works]
 type: concept
 foundations: [ai-education]
@@ -13,7 +13,7 @@ confidence: high
 methods: [benchmark]
 ethics: [pedagogical-safety]
 translation_of: concepts/llm-training-and-fine-tuning
-source_updated: "2026-10-02T08:08:45-04:00"
+source_updated: "2026-10-16T08:47:09-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -74,6 +74,7 @@ Cuando un modelo general no puede hacer que mantenga una propiedad que se necesi
 El patrón se repite en tareas muy distintas:
 
 - **Fundamentación curricular.** Un conjunto de instrucciones multilingüe de 24.795 ejemplos fundamentado en los Sistemas de Conocimiento Indios produjo un ajuste de 7B que obtuvo **6,39** en un panel externo de cinco jueces (mediana sobre 1.201 ítems estratificados). Eso está a **0,15** de un modelo de referencia general fuerte a una fracción del coste de despliegue, mientras que el mismo modelo base puntuó **cerca de cero en las dimensiones específicas de los SCI** sin el ajuste ([[iks-instruct-dataset-indian-knowledge]]). Esa brecha entre «competente en general» y «competente aquí» es todo el argumento de la adaptación de dominio. Nótese también el detalle contraintuitivo que informan los autores: la calidad **no** subió de forma monótona con la depuración de los datos.
+- **Los datos estructurados por el [[curriculum-design|currículo]] son eficientes en muestras.** Con un presupuesto equiparable de unos 2.300 muestras, el ajuste fino sobre pares de pregunta y respuesta derivados de un [[knowledge-graph|grafo de conocimiento]] de K-12 de los libros de texto de People's Education Press superó a porciones de igual tamaño de ocho corpus de instrucciones convencionales, y las ganancias se transfirieron más allá de las asignaturas entrenadas: evidencia de que la estructura curricular es lo que distingue a los datos de entrenamiento educativos ([[liang-k12-kgraph-curriculum-knowledge-graph-2026|Liang et al. (2026)]]).
 - **Fiabilidad de la evaluación, a bajo coste.** Un único adaptador LoRA entrenado con unos **3.900** ejemplos calificados agrupados llevó a cinco modelos abiertos pequeños (4B–30B) a la paridad o mejor con un evaluador humano en dos exámenes de informática, y casi eliminó la sensibilidad a la persona (deriva ≤ 0,32 MAE) ([[llm-graders-computer-science-exams-2026]]). Un adaptador, un conjunto de datos, varios modelos base: esta es la forma de un despliegue práctico.
 - **Automatización selectiva.** La confianza fue un predictor fiable del error de puntuación (β = −0,602, p < .001). Enrutar el **20%** de las respuestas menos seguras a revisión humana llevó un modelo GPT-3.5 ajustado de r = 0,781 a **r = 0,822** (RMSE 0,5990 → 0,5544) y a la vez redujo el trabajo manual de puntuación en aproximadamente un **80%** ([[know-when-to-trust-ai-scoring-reliability-2026]]). Aquí el ajuste fino no sustituye a la persona; hace asequible su atención.
 - **Medir constructos que de otro modo habría que calificar a mano.** Se compararon transformers húngaros ajustados (hubert-base-cc, PULI-BERT-Large) con características TF-IDF e incrustaciones de Qwen3 para puntuar la escritura reflexiva en la [[teacher-education|formación docente]] ([[reflection-level-classification-hungarian-essays-2026]]), y se mostró que un modelo multimodal ajustado (basado en Qwen3.5) reconstruye las curvas características de los ítems de opción múltiple, aprendiendo los patrones de respuesta codificados en las curvas 3PL y MCM en lugar de que se le indiquen ([[multimodal-item-parameter-estimation-2026]]).
@@ -220,3 +221,4 @@ Esta página es la compañera de *cómo se construye un modelo* de [[llm]], que 
 - [[simulated-students-tutoring-dialogues-2026]] — Si los estudiantes simulados se comportan como estudiantes
 - [[inside-llm-student-simulator-reasoning-2026]] — Ajustar un modelo para que actúe y piense como un estudiante
 - [[history-aware-student-simulation]] — Simulación condicionada por la trayectoria de quien aprende
+- [[liang-k12-kgraph-curriculum-knowledge-graph-2026]] — Los datos estructurados por el currículo son eficientes en muestras

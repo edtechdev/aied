@@ -1,13 +1,14 @@
 ---
 title: "¿Cómo debería incorporar la alfabetización en IA a mi curso?"
 created: "2026-09-22T18:57:28-04:00"
-updated: "2026-10-02T09:09:37-04:00"
+updated: "2026-10-22T07:28:33-04:00"
 connected_faqs: [verify-ai-output, how-ai-impacts-students, ai-literacy-evidence]
 weight: 86
 foundations: [ai-literacy, cognitive-offloading, learning-design]
 assessment: [assessment]
 level: [higher ed]
-source_updated: "2026-10-02T08:21:34-04:00"
+audience: [instructors, instructional designers]
+source_updated: "2026-10-21T14:32:00-04:00"
 translation_of: faqs/incorporating-ai-literacy
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
@@ -19,8 +20,6 @@ ai_assist:
 ---
 
 *Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa.*
-
-# ¿Cómo debería incorporar la alfabetización en IA a mi curso?
 
 El enfoque más sólido es tratar la **[[ai-literacy|alfabetización en IA]] como parte del aprendizaje disciplinar**, y no como una lección aparte sobre cómo usar ChatGPT. El estudiantado desarrolla una alfabetización en IA más útil cuando **usa, cuestiona, verifica, critica y toma decisiones sobre la IA en tareas auténticas del curso** de forma repetida, en lugar de limitarse a aprender técnicas de indicaciones o a asistir a una sesión de orientación puntual. La instrucción eficaz combina la competencia práctica con la evaluación crítica, la conciencia ética, la [[metacognition|metacognición]] y la atención a cuándo *no* se debe confiar en la IA ni usarla.
 

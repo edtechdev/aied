@@ -2,7 +2,7 @@
 connected_resources: [playlab]
 title: "Desarrolladores de tecnología educativa"
 created: "2026-09-28T20:12:29-04:00"
-updated: "2026-09-28T20:12:29-04:00"
+updated: "2026-10-22T07:28:42-04:00"
 type: concept
 foundations: [educational-development, learning-design]
 technology: [learning-analytics, edtech-platform, open-source]
@@ -11,7 +11,7 @@ page_kind: [evaluation]
 confidence: high
 methods: [design-based-research]
 translation_of: concepts/educational-technology-developers
-source_updated: "2026-09-17T15:20:00-04:00"
+source_updated: "2026-10-16T06:45:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -61,6 +61,8 @@ El rol también es distinto del de sus vecinos. [[learning-design|El diseño del
 
 **Las explicaciones deben hablar el lenguaje del profesorado.** [[xai-teachers-trust-edtech-recommendations-2026|Un experimento intrasujeto]] con 41 docentes de química sobre una herramienta de recomendación de aprendizaje automático mostró que la comprensibilidad, la [[trust|confianza]] y la aceptación correlacionaban positivamente, y que las explicaciones basadas en el dominio y formuladas en lenguaje curricular produjeron una comprensibilidad, una [[trust-calibration|calibración de la confianza]] y una aceptación significativamente mayores que las explicaciones basadas en la importancia de las variables. La confianza también era dinámica —varios docentes dijeron que solo la experiencia en el aula la resolvería— y la aceptación dependía de la alineación pedagógica y de la reducción de la carga de trabajo.
 
+**Las señales de credibilidad no son evidencia de corrección.** Añadir citas y señales de autoridad a un debate de [[agentic-ai|múltiples agentes]] elevó el abandono de un juicio correcto en favor de la posición de la IA del 15,0% al 31,8%, así que la procedencia tiene que ser comprobable en el punto de uso ([[tuo-armada-multi-agent-debate-overreliance-2026|Tuo et al., 2026]]).
+
 **Codiseño a escala institucional.** [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of|AIDA]] en la Open University se construyó mediante seis estudios basados en el diseño a lo largo de 18 meses con 498 estudiantes y 20 miembros del personal. Alrededor del 20% era escéptico al principio; tras el uso práctico, el 96% quería conservarlo, y un ECA exploratorio encontró el doble de tiempo de uso pero ninguna diferencia significativa en los datos del proceso de aprendizaje. Los factores facilitadores fueron organizativos —patrocinio de la dirección, colaboración entre unidades, iteración informada por datos—, con carencias en la capacidad de pensamiento sistémico.
 
 ### Compra, apertura y después de que se acabe la financiación
@@ -107,3 +109,4 @@ El rol también es distinto del de sus vecinos. [[learning-design|El diseño del
 - [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of]]
 - [[vocabulary-difficulty-prediction]]
 - [[shen-sustainable-ai-knowledge-base-cs-education-2026]]
+- [[tuo-armada-multi-agent-debate-overreliance-2026]] — Las señales de credibilidad aumentaron la deferencia hacia un consejo incorrecto de la IA; verificar la procedencia en el punto de uso

@@ -1,7 +1,7 @@
 ---
 title: Regulación de la IA en educación
 created: "2026-09-28T18:22:10-04:00"
-updated: "2026-10-02T23:51:29-04:00"
+updated: "2026-10-22T07:30:40-04:00"
 type: concept
 foundations: [academic-integrity]
 ethics: [equity-in-ai-education, ethics, privacy, pedagogical-safety]
@@ -10,7 +10,7 @@ level: [higher ed]
 confidence: high
 institutions: [educational-policy-ai, governance]
 translation_of: concepts/regulation
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-16T07:28:51-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -49,6 +49,8 @@ La regulación es la capa legal y de política de la [[governance]] de la IA: fi
 ### La brecha de gobernanza
 
 La base de conocimiento documenta una brecha persistente entre la velocidad del despliegue de la IA y la madurez regulatoria. Los [[institutional-change-framework-ai|marcos de cambio institucional]] y la investigación sobre regulación abogan por una [[governance]] proactiva en lugar de una política reactiva. Los estudios de  y las [[raza-farooq-aied-review-2020-2025|revisiones exhaustivas de la AIED]] destacan que la regulación es desigual entre jurisdicciones y niveles educativos, lo que crea un entorno operativo inconsistente para docentes, estudiantes y desarrolladores.
+
+Los sistemas [[agentic-ai|agénticos]] abren una brecha adicional. En un análisis documental de 12 universidades, [[wong-sun-agentic-ai-assessment-governance-2026|Wong y Sun (2026)]] no encontraron ninguna política comparable que abordara que un agente iniciara sesión en un sistema de gestión del aprendizaje, retuviera credenciales del estudiantado o actuara en su nombre, mientras que varios casos ya conscientes de los agentes fijaban límites explícitos de delegación y acceso.
 
 **La brecha es de evidencia además de tiempo.** [[gutowski-hurley-genai-policy-legal-education-2025|Gutowski y Hurley (2025)]] caracterizan un sector profesional como uno que hace política bajo presión de tiempo y sin una base de evidencia con la que hacerla: la mayoría de las [[legal-education|facultades de derecho]] estadounidenses aprobadas por la ABA adoptaron posiciones generalmente prohibitivas a la vez que reservaban discrecionalidad al profesorado, y los autores informan de que no hay consenso sobre la declaración o la práctica de citación y de una tasa de respuesta de solo ~15% en la encuesta de política de la ABA de 2024. Su respuesta normativa —directrices claras sea cual sea la postura, implicación de los [[stakeholders|actores implicados]] en la redacción y una gobernanza diseñada para ser flexible y revisada periódicamente— coincide con el [[crompton-governing-genai-higher-ed-delphi-2026|consenso Delphi global]], que trata igualmente el mantenimiento de la política como un mecanismo institucional recurrente y no como una tarea única. [[coates-governing-academic-integrity-indicators-2025|Coates, Croucher y Calderon (2025)]] añaden la dependencia inversa: su programa de reforma de la gobernanza concluye que es poco probable que el desarrollo institucional rinda frutos sin el apoyo externo de la regulación, el benchmarking y la competencia entre instituciones, lo que convierte a las agencias de calidad y regulatorias —y a la comparación que fuerzan entre instituciones— en la condición bajo la cual prende la reforma de la gobernanza interna.
 
@@ -95,3 +97,4 @@ La regulación se conecta con la [[educational-policy-ai]], la [[governance]], l
 - [[coates-governing-academic-integrity-indicators-2025]] — La presión regulatoria externa como condición para la reforma de la gobernanza (Coates, Croucher y Calderon, 2025)
 - [[watson-rainie-ai-challenge-faculty-survey-2026]] — El 87% del profesorado escribe sus propias reglas frente a una capa de política institucional escasa (Watson y Rainie, 2026)
 - [[edtech-privacy-deferral-2026]] — «Lo arreglaremos más tarde»: educación, IA y el aplazamiento de la privacidad del estudiantado en la tecnología educativa
+- [[wong-sun-agentic-ai-assessment-governance-2026]] — Ninguna política comparable abordaba que un agente de IA iniciara sesión en un LMS o retuviera credenciales del estudiantado (Wong y Sun, 2026)

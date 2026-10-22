@@ -1,13 +1,13 @@
 ---
 title: Aprendizaje adaptativo
 created: "2026-09-28T19:11:03-04:00"
-updated: "2026-10-02T21:25:27-04:00"
+updated: "2026-10-22T07:28:08-04:00"
 type: concept
 pedagogy: [scaffolding]
 technology: [cognitive-diagnosis, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, personalized-learning, student-modeling]
 confidence: high
 translation_of: concepts/adaptive-learning
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-16T09:45:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -64,6 +64,7 @@ El aprendizaje adaptativo se confunde con frecuencia con el [[personalized-learn
 ### Evidencia de la investigación
 
 - **Evidencia [[meta-analysis-systematic-review|metaanalítica]] sobre herramientas adaptativas + IA.** [[burneo-can-edtech-close-learning-gaps-2026|Un metaanálisis del Banco Mundial]] de 14 [[rct|ECA]] agrupa el aprendizaje adaptativo asistido por computador, la tutoría inteligente y la IA generativa en una misma escala y estima una ganancia de aprendizaje media de ~0,125 sd sin diferencias significativas entre las dos generaciones tecnológicas, lo que indica que lo que impulsa las ganancias es el mecanismo de adaptación y no la generación concreta de herramientas.
+- **Puntuación interpretable con enrutamiento sujeto a presupuesto de tiempo.** [[mars-momentum-aware-adaptive-rating-assessment-2026|Sahu et al. (2026)]] conservan unos pocos escalares explícitos del estudiante —sensibilidad de la puntuación, calidad de la respuesta y momento— y enrutan las preguntas bajo un presupuesto de tiempo, lo que reduce aproximadamente a la mitad la volatilidad de la actualización de la puntuación frente a un Elo fijo, aunque queda por detrás del seguimiento neuronal del conocimiento en predicción (AUC 0,7532 frente a 0,8658 de GKT).
 - **Comparación de algoritmos adaptativos en dominios dinámicos.** [[graph-its-adaptive-algorithms-2026|La investigación sobre ITS basados en grafos]] compara varios algoritmos de aprendizaje adaptativo (incluidos la propagación bayesiana del conocimiento y la lógica difusa intuicionista) en un marco de representación del conocimiento basado en grafos para currículos dinámicos.
 
 - **El aprendizaje por refuerzo como mecanismo de adaptación, mapeado empíricamente.** [[riedmann-reinforcement-learning-education-review-2026|Riedmann, Schaper y Lugrin (2025)]] sintetizan 89 estudios sobre aprendizaje por refuerzo en educación y encuentran que la adaptación se divide en mecanismos relacionados con el contenido (secuenciación didáctica y programación de contenidos, n = 53) y relacionados con la orientación (pistas, [[feedback|retroalimentación]], selección de actividades, n = 36), y que el aprendizaje por refuerzo muestra superioridad estadísticamente significativa frente a las líneas base con más frecuencia en la adaptación orientativa que en la programación de contenidos. Recomiendan el aprendizaje por refuerzo sin modelo para el aprendizaje adaptativo y advierten de que el aprendizaje por refuerzo clásico superó al aprendizaje por refuerzo profundo en los estudios revisados.
@@ -102,6 +103,7 @@ El aprendizaje adaptativo se confunde con frecuencia con el [[personalized-learn
 - [[ai-technologies]] — General: tecnologías y técnicas de IA (modelos, entrenamiento de LLM, robótica, RAG, agéntica)
 - [[recommender-systems-and-learning-paths]]
 ## Artículos conectados
+- [[mars-momentum-aware-adaptive-rating-assessment-2026]] — MARS: un sistema de puntuación adaptativa sensible al momento para la evaluación personalizada
 - [[deceptive-overgeneralization-adaptive-learning-2026]] — Sobre-generalización engañosa: el dominio adaptativo puede detener la práctica antes de que quien aprende sepa cuándo abstenerse de actuar (An, McLaren y Stamper 2026)
 - [[turano-ai-tutoring-not-a-monolith-2026]] — La tutoría con IA no es un monolito: lo que realmente sabemos (informe de Stanford SCALE/NSSA)
 - [[adaptive-ai-scaffold-collaborative-problem-solving-2026]]

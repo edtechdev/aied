@@ -1,7 +1,7 @@
 ---
 title: "¿Cómo enseño a los estudiantes a verificar los resultados de la IA?"
 created: "2026-09-22T18:29:06-04:00"
-updated: "2026-10-02T09:09:37-04:00"
+updated: "2026-10-22T07:34:46-04:00"
 connected_faqs: [incorporating-ai-literacy, study-with-ai, reducing-over-reliance, asynchronous-online-courses-ai]
 weight: 65
 type: faq
@@ -10,7 +10,7 @@ ethics: [hallucination-risk, trust-calibration]
 research_method: [experiment, literature review, survey]
 audience: [instructors, instructional designers, learners]
 level: [higher ed, secondary]
-source_updated: "2026-10-02T08:21:34-04:00"
+source_updated: "2026-10-21T14:32:00-04:00"
 translation_of: faqs/verify-ai-output
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
@@ -22,8 +22,6 @@ ai_assist:
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
-
-# ¿Cómo enseño a los estudiantes a verificar los resultados de la IA?
 
 Ya les ha advertido. El chatbot no es un motor de búsqueda, comprueba las fuentes, úsalo con responsabilidad; y sin embargo las mismas citas inventadas y las mismas respuestas erróneas pero seguras de sí mismas siguen llegando en los trabajos entregados. Las advertencias fallan porque piden una disposición. Los estudiantes cuidadosos la tienen, los que van con prisa no, y no hay nada en esa frase sobre lo que un estudiante pueda actuar a las 11 de la noche con un resultado en pantalla que se lee perfectamente bien.
 

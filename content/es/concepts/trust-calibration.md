@@ -1,7 +1,7 @@
 ---
 title: Calibración de la confianza
 created: "2026-09-28T19:11:03-04:00"
-updated: "2026-10-09T17:55:00-04:00"
+updated: "2026-10-22T07:34:12-04:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading, human-ai-collaboration]
 pedagogy: [metacognition]
@@ -16,7 +16,7 @@ ai_assist:
     date: "2026-09-28"
     agent: hermes-agent
 translation_of: concepts/trust-calibration
-source_updated: "2026-10-09T01:55:00-04:00"
+source_updated: "2026-10-19T09:40:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 ---
 
@@ -57,6 +57,8 @@ Una mayor confianza no compra mejor juicio: entre 432 estudiantes de grado que r
 
 La investigación sobre calibración suele tratar la confianza como un único juicio. [[bounded-reliance-ai-writing-feedback-2026|Serpil y Mor (2026)]] muestran que la valoración se divide en dimensiones que no obligan por igual. Al entrevistar a 17 estudiantes de grado de inglés como lengua extranjera tras un semestre usando GROK para recibir retroalimentación sobre su escritura, encontraron que la *pericia* percibida era alta —el estudiantado atribuía a la herramienta mejoras en vocabulario, gramática, estructura y coherencia, y leía sus explicaciones de las revisiones sugeridas como evidencia de competencia—, mientras que la *confiabilidad*, referida sobre todo a qué ocurría con sus datos, y la *buena voluntad*, con una retroalimentación vivida como impersonal y a veces desmotivadora, se mantenían bajas. La confianza depositada siguió a las dimensiones débiles y no a la fuerte: el estudiantado autorizó la herramienta para retroalimentación lingüística amplia y reservó la orientación individualizada y relacional para el docente. La implicación para la calibración es que mejorar la precisión no eleva el techo de uso; la transparencia sobre los datos y el encuadre didáctico en torno a una herramienta son en sí mismos intervenciones de calibración.
 
+Las percepciones sociales sobre el agente, y no su exactitud, construyeron la credibilidad de la retroalimentación para [[chatgpt-feedback-credibility-perceived-learning|Pérez-López et al. (2026)]]: la competencia percibida llegaba directamente a la credibilidad, mientras que la calidez percibida solo operaba a través de la empatía de tipo humano (SEM, 230 estudiantes).
+
 [[du-yuan-epistemic-dependence-2026|Du y Yuan (2026)]] separan la *confianza depositada productiva* de la *dependencia dañina* mediante seis criterios diagnósticos —contestabilidad, recuperabilidad, transferencia, trazabilidad, responsabilidad distribuida y pluralidad epistémica— y distinguen la asistencia instrumental (ayudar a producir una salida) de la asistencia que conlleva juicio (aportar los criterios con los que se juzga la salida), esta última donde la confianza depositada se vuelve educativamente consecuente.
 
 ### La calibración como problema de diseño
@@ -65,9 +67,15 @@ Tratar la mala calibración como un simple déficit de la persona usuaria —alg
 
 La implicación de diseño es una tipología bidimensional de personas usuarias —la *capacidad* de verificar la salida de un [[conversational-ai|chatbot]] cruzada con la *motivación* para hacerlo— que predice qué usuarios se descalibrarán en qué dirección. Los autores la emparejan con dos familias de intervención que deben operar juntas: las facilidades de [[explainable-ai|interpretabilidad]] (razonamientos, citas, señales de incertidumbre) que hacen posible la evaluación, y los mecanismos de implicación que hacen que ocurra de verdad, dispuestos con el modelo del queso suizo de Reason en ocho proposiciones contrastables. La [[ai-literacy|alfabetización en IA]] se sitúa como la capa duradera que sostiene ambas, y mueve a las personas usuarias entre las celdas de la tipología. El reencuadre importa para la educación porque desplaza la responsabilidad: si las citas transparentes no se hacen clic en la población general, entonces exponer al estudiantado a las explicaciones de la IA no lo calibrará por sí solo; la facilidad tiene que diseñarse para forzar la comprobación.
 
+Una tercera palanca opera sobre la propia estructura de la interacción: sustituir una recomendación única por un [[tuo-armada-multi-agent-debate-overreliance-2026|debate multiagente cuya posición agregada se retiene (Tuo et al., 2026)]] redujo el cambio perjudicial hacia una posición de IA incorrecta del 42–60,5% al 5,7–8,2% entre 186 participantes. La palanca es protectora y no correctiva: quienes empezaban con un juicio equivocado recuperaban la decisión correcta solo en el 30,6% y el 24,7% de los ensayos, por debajo del azar para una elección binaria.
+
 [[calibrating-trustworthiness-llm-education-2026|Coscia et al. (2026)]] aportan una palanca de diseño que sí movió la calibración: mostrar a quienes revisaban criterios de confiabilidad codiseñados mientras comparaban respuestas de LLM elevó el acuerdo entre evaluadores del alfa de Krippendorff de 0,3987 a 0,4931, aunque el acuerdo agrupado se mantuvo por debajo de 0,67 y las medidas adicionales añadieron sobrecarga.
 
+Para el público infantil, la palanca de diseño puede ser el propio registro del agente: en una prueba basada en juego con 12 niños de 8 a 10 años, [[children-verification-ai-suggestions-game-2026|Liu et al. (2026)]] hallaron que una formulación de compañero los orientaba a cuestionar directamente a la IA, mientras que una formulación de herramienta los orientaba a buscar evidencia. Los niños que *diseñan* chatbots muestran el patrón en otro registro: entre 115 estudiantes de 8 a 18 años, los más jóvenes fijaban una confianza significativamente mayor, y algunos construyeron deliberadamente bots que daban respuestas incorrectas y aun así los valoraron como fiables ([[children-design-trustworthy-ai-chatbots-2026|Ozturk et al. (2026)]]).
+
 Con los agentes autónomos cambia el objeto de la calibración. [[agentic-literacy-debt|Nama (2026)]] sostiene que quien usa el sistema pasa a ser un principal que ha delegado autoridad en un sistema cuyas acciones son en gran medida no observadas e irreversibles, lo que desplaza la competencia de juzgar las salidas a entender qué se autorizó, supervisarlo y atribuir responsabilidad cuando se produce un daño.
+
+La procedencia se trata como un requisito de primer orden en cuanto la IA toca la calificación o la certificación: las instituciones deben poder reconstruir cómo se tomaron las decisiones consecuentes y quién tenía autoridad para confirmarlas, algo que un diseño de cadena de bloques en consorcio ancla como registros a prueba de manipulación de eventos educativos, salidas de IA, acciones de calificación y certificados ([[large-language-models-teaching-learning-higher-ed|Li et al. (2026)]]).
 
 ### Conexiones
 
@@ -117,7 +125,9 @@ La calibración de la confianza es central para la [[ai-literacy|alfabetización
 - [[cognitive-surrender]]
 
 ## Artículos conectados
+- [[children-verification-ai-suggestions-game-2026]] — Conductas de verificación infantil en la colaboración humano-IA basada en juegos
 - [[student-perspectives-ai-writing-grading-2026]] — Perspectivas del estudiantado sobre la evaluación transparente de la escritura asistida por IA (AlGhamdi 2026)
+- [[tuo-armada-multi-agent-debate-overreliance-2026]] — La calibración replanteada: retener la posición del sistema es protector, no correctivo
 - [[du-yuan-epistemic-dependence-2026]] — Seis criterios diagnósticos que separan la confianza productiva de la dependencia dañina (Du y Yuan 2026)
 - [[icet-ml-education-trust-2026]] — Abordar la confianza en los sistemas de IA mediante la educación: una perspectiva didáctica
 - [[pearls-epistemic-verification-2026]] — Marco PEARLS para la agencia epistémica y la verificación de la salida de la IA (Wang 2026)
@@ -145,3 +155,4 @@ La calibración de la confianza es central para la [[ai-literacy|alfabetización
 - [[kenzhebayeva-ai-role-rotation-pedagogical-model-2026]] — La rotación de roles como estructura para manejar críticamente las recomendaciones de IA (Kenzhebayeva et al. 2026)
 - [[student-llm-use-ai-question-difficulty-data-science-2026]] — El uso de LLM por parte del estudiantado y los límites de la dificultad de preguntas generadas por IA en cursos de ciencia de datos
 - [[nazaretsky-trust-instrument-ai-edtech-2025]] — Instrumento dirigido al estudiantado que valida la confianza en la IA educativa como cuatro factores, con la confianza antes de la utilidad percibida (Nazaretsky et al. 2025)
+- [[children-design-trustworthy-ai-chatbots-2026]] — Cómo diseñan los niños chatbots de IA fiables y razonan sobre ellos

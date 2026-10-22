@@ -1,7 +1,7 @@
 ---
 title: Evaluación oral
 created: "2026-09-28T21:03:34-04:00"
-updated: "2026-10-02T22:23:33-04:00"
+updated: "2026-10-22T07:28:08-04:00"
 connected_faqs: [redesign-assessment-ai-era, ai-feedback-at-scale]
 type: concept
 foundations: [academic-integrity, critical-thinking]
@@ -13,7 +13,7 @@ audience: [instructors, administrators]
 level: [higher ed]
 confidence: medium
 translation_of: concepts/oral-assessment
-source_updated: "2026-09-30T16:25:27-04:00"
+source_updated: "2026-10-17T03:49:06-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -72,6 +72,10 @@ Tres hallazgos van en contra de leer las puntuaciones orales como ganancias de a
 
 La restricción vinculante es de personal y de hardware, y no de pedagogía, y el corpus es inusualmente sincero sobre la aritmética: veintiocho horas de contacto por semestre para quince estudiantes, once ayudantes docentes para una clase de más de cien en el diseño de CS1, y un portátil que atiende a doce estudiantes simultáneos en el despliegue offline de formación profesional. No existe ningún ensayo aleatorizado de evaluación oral frente a escrita en todo este conjunto de trabajos, y todos los estudios que miden la diferencia son diseños de una sola institución sin grupo de control. La evaluación oral está bien respaldada como respuesta a la sustitución asistida por IA, y débilmente respaldada como mejora del aprendizaje.
 
+Ningún formato ocupa una posición fija en esta disyuntiva: la observabilidad de la evaluación oral es una decisión de diseño, y su coste de viabilidad es algo que un programa distribuye en lugar de aceptar —la viabilidad es una prioridad educativa, no la restricción que erosiona las buenas prácticas— ([[assessment-feedback-trilemma-model-2026|Pedlow et al. (2026)]]).
+
+La justificación de integridad del oral también tiene fecha de caducidad: [[corbin-ai-glasses-wearable-ai-assessment-2026|Corbin et al. (2026)]] sostienen que unas gafas y auriculares de IA pueden entregar indicaciones encubiertas en tiempo real dentro de una viva en directo, porque la IA vestible no produce ningún desplazamiento de mirada ni señal detectable, de modo que los orales interactivos ya no son inmunes.
+
 - **El techo de escala es la restricción de diseño.** En un taller con 73 docentes de [[cs-education|informática]], la evaluación oral e interactiva se señaló como la evidencia más sólida disponible del entendimiento individual y el remedio menos escalable; las mitigaciones que describieron quienes participaron fueron la distribución y el muestreo: bolsas compartidas de ayudantes docentes, evaluación entre pares con menos peso que un examen final y preguntar a un subconjunto rotatorio de estudiantes ([[computing-assessment-genai-workshop-report-2026|Akbar et al., 2026]]).
 
 ## Conceptos conectados
@@ -90,6 +94,7 @@ La restricción vinculante es de personal y de hardware, y no de pedagogía, y e
 - [[higher-ed]] — el contexto del que procede casi toda esta evidencia
 
 ## Artículos conectados
+- [[corbin-ai-glasses-wearable-ai-assessment-2026]] — Las vivas en directo ya no son inmunes: gafas y auriculares de IA entregan indicaciones encubiertas en tiempo real (Corbin, Sharpe y Dawson 2026)
 
 - [[fenton-oral-exams-ai-authentic-assessment-2025]] — Reconsiderar el uso de los exámenes y las evaluaciones orales (Fenton 2025)
 - [[asynchronous-oral-assessment-2026]] — Evaluaciones orales asíncronas: integridad, implicación y comunicación profesional
@@ -102,3 +107,4 @@ La restricción vinculante es de personal y de hardware, y no de pedagogía, y e
 - [[ai-standardized-patient-scaffolding-medical-2026]] — Entrevistas clínicas habladas bajo un sistema de paciente simulado
 - [[pgr-students-genai-uses-qualitative-2026]] — La viva doctoral bajo la IA generativa
 - [[computing-assessment-genai-workshop-report-2026]] — La IA puede hacer tus deberes. ¿Y ahora qué? Informe de un taller en línea sobre la evaluación en informática en la era de la IA generativa
+- [[assessment-feedback-trilemma-model-2026]] — No concede a ningún formato una posición fija y reencuadra la viabilidad como prioridad educativa

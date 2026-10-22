@@ -8,7 +8,7 @@ discipline: [biology education, stem education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/biology-education
-source_updated: "2026-10-13T09:18:19-04:00"
+source_updated: "2026-10-16T09:45:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -49,7 +49,7 @@ La investigación sobre educación biológica y IA se agrupa en torno a una tens
 **La práctica de argumentación con IA socrática en la formación del profesorado.** Un cuasiexperimento con 124 futuros docentes de biología encontró que un [[socratic-method|tutor socrático]] con ChatGPT-4 sobre cuestiones socio-científicas elevó la calidad de la argumentación frente al debate entre pares fuera de línea (3,91 ajustado frente a 3,21, F(1,121) = 14,23, p < 0,001), con las mayores ganancias en las habilidades de refutación y de contraargumentación con pruebas ([[genai-socratic-tutor-biology-argumentation-2026|Ergasheva et al., 2026]]).
 
 **Herramientas especializadas de IA y la revisión más amplia.** **[[beyond-chatgpt-ai-tools-biological-education-2026|Cotton y Cotton]]** revisan todo el panorama de herramientas de IA en la educación biológica, incluidas **iNaturalist y Google Lens** para la identificación de especies, herramientas de bioimagen y de aprendizaje automático, tecnologías de asistencia y el modelado predictivo del estudiantado en riesgo, junto con los retos de integridad, diseño de la evaluación, desinformación y pensamiento crítico que plantea la IA generativa.
-
+- **Los LLM responden mejor de lo que corrigen.** A lo largo de 1.344 respuestas a 336 preguntas abiertas de estadística biológica que abarcan los niveles de Bloom, [[llm-open-ended-questions-biology-statistics-2026|Nguyen et al. (2026)]] encontraron que tres modelos puntuaron por encima de un grupo de 20 estudiantes, pero un único corrector LLM coincidió con un docente experimentado tan pobremente que ningún estudiante alcanzó una concordancia aceptable.
 
 **Cuánto de la nota está realmente expuesto.** Ponderar cada categoría calificada de los 38 programas de los cursos troncales de un departamento por la vulnerabilidad valorada por el profesorado situó el 33% de los puntos del curso en exposición alta y el 81% al menos algo expuesto -41% y 100% en línea-, y solo los exámenes presenciales vigilados se valoraron como mínimamente vulnerables ([[biology-degree-integrity-genai-cheating-2026|Chan et al., 2026]]).
 
@@ -88,6 +88,7 @@ La educación en biología se sitúa dentro del dominio más amplio de la [[stem
 - [[educational-policy-ai]]
 
 ## Artículos conectados
+- [[llm-open-ended-questions-biology-statistics-2026]] — Evaluación del rendimiento de los grandes modelos de lenguaje en preguntas abiertas: capacidades de respuesta y de corrección
 - [[biology-degree-integrity-genai-cheating-2026]] — ¿Puede el estudiantado hacer trampas hasta obtener un título de biología? Estudio de caso de la vulnerabilidad de las notas de los cursos de biología a la deshonestidad académica en la era de la IA generativa
 - [[chatgpt-virtual-lab-teaching-assistant-biology-2026]] — ChatGPT como asistente docente virtual de laboratorio
 - [[beyond-chatgpt-ai-tools-biological-education-2026]] — Revisión de las herramientas de IA en la educación biológica

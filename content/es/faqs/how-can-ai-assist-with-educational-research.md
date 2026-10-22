@@ -1,7 +1,7 @@
 ---
 title: "¿Cómo puede la IA ayudar en la investigación educativa?"
 created: "2026-10-05T12:43:10-04:00"
-updated: "2026-10-05T14:14:11-04:00"
+updated: "2026-10-22T07:34:46-04:00"
 weight: 72
 type: faq
 connected_faqs: [evaluating-ai-interventions-methods, reporting-interpreting-aied-research, research-gaps-aied, equity-ethics-pedagogical-safety-research]
@@ -14,7 +14,8 @@ research_method: [literature review]
 audience: [researchers, instructors]
 level: [higher ed]
 page_kind: [evaluation]
-source_updated: "2026-10-05T14:14:11-04:00"
+confidence: medium
+source_updated: "2026-10-21T14:32:00-04:00"
 translation_of: faqs/how-can-ai-assist-with-educational-research
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
@@ -26,8 +27,6 @@ ai_assist:
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
-
-# ¿Cómo puede la IA ayudar en la investigación educativa?
 
 La IA puede quitar trabajo real de un proyecto de investigación educativa: encontrar bibliografía, cribar miles de resúmenes, redactar código de análisis, resumir respuestas abiertas, ajustar un manuscrito. Lo que no puede hacer es asumir la responsabilidad de lo que el proyecto concluye. La imagen honesta, y la que respalda la evidencia, es una división del trabajo y no un traspaso: asigne la automatización a la carga procedimental, verifique cada resultado y mantenga las decisiones interpretativas en manos humanas ([[scaffolding-systematic-reviews-2026|Wang et al., 2026]]).
 

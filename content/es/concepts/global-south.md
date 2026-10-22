@@ -1,7 +1,7 @@
 ---
 title: Sur global
 created: "2026-09-28T19:10:33-04:00"
-updated: "2026-10-02T21:29:40-04:00"
+updated: "2026-10-22T07:42:11-04:00"
 type: concept
 foundations: [ai-literacy]
 technology: [generative-ai]
@@ -9,7 +9,7 @@ ethics: [culturally-relevant-pedagogy, equity-in-ai-education, global-south]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/global-south
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-21T21:15:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -21,7 +21,7 @@ ai_assist:
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 
-El **Sur global** designa a los países de África, Asia, América Latina y Oceanía que a menudo están marginados económica, política e históricamente respecto del Norte global. En la [[research-methods-aied|investigación]] sobre la [[ai-education|IA en la educación]], los contextos del Sur global se reconocen cada vez más como infrarrepresentados en la base de evidencia, y sin embargo plantean preguntas distintivas sobre la [[equity-in-ai-education|equidad]], la [[culturally-relevant-pedagogy|relevancia cultural]], las restricciones de recursos y la dominancia epistémica de los datos de entrenamiento occidentales y anglófonos.
+> **Sur global** — los países de África, Asia, América Latina y Oceanía que a menudo están marginados económica, política e históricamente respecto del Norte global. En la [[research-methods-aied|investigación]] sobre [[ai-education|IA en la educación]], estos contextos se reconocen cada vez más como infrarrepresentados en la base de evidencia, aunque plantean preguntas propias sobre [[equity-in-ai-education|equidad]], [[culturally-relevant-pedagogy|pertinencia cultural]], limitaciones de recursos y la hegemonía epistémica de los datos de entrenamiento occidentales y anglófonos.
 
 ## Preguntas para reflexionar
 

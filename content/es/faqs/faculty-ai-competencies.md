@@ -1,13 +1,13 @@
 ---
 title: "¿Qué competencias necesita el profesorado en relación con la IA?"
 created: "2026-09-22T18:29:06-04:00"
-updated: "2026-10-02T09:09:37-04:00"
+updated: "2026-10-22T07:28:33-04:00"
 connected_faqs: [faculty-development-ai, ai-save-instructor-time, top-10-findings-ai-education-instructors]
 weight: 70
 foundations: [ai-literacy, educational-development, teacher-role, teacher-ai-competency]
 audience: [faculty developers, instructors]
 level: [adult learning]
-source_updated: "2026-10-02T08:21:34-04:00"
+source_updated: "2026-10-21T14:32:00-04:00"
 translation_of: faqs/faculty-ai-competencies
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
@@ -19,8 +19,6 @@ ai_assist:
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
-
-# ¿Qué competencias necesita el profesorado en relación con la IA?
 
 **La competencia del profesorado debería ir mucho más allá de escribir indicaciones.** La síntesis [[ai-literacy|Alfabetización en IA]] de esta base de conocimiento identifica cuatro dimensiones amplias:
 

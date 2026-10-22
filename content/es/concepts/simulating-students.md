@@ -8,7 +8,7 @@ technology: [cognitive-diagnosis, generative-ai, intelligent-tutoring, knowledge
 audience: [instructors]
 confidence: high
 translation_of: concepts/simulating-students
-source_updated: "2026-10-10T14:20:00-04:00"
+source_updated: "2026-10-19T09:40:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -67,6 +67,8 @@ El fallo opuesto también ocurre: en un estudio ciego, anotadores expertos clasi
 
 Condicionar la generación a un modelo de comportamiento predicho funciona sin ajuste fino: un marco sin entrenamiento construye el prototipo cognitivo de cada estudiante a partir de un [[knowledge-graph]] y puntúa los candidatos de beam-search contra él, reportando una mejora del 100% en la precisión de la simulación ([[simulating-students-diverse-cognitive-levels-2025|Wu et al. (2025)]]). Su calidad aumenta con el nivel cognitivo del estudiante, por lo que los estudiantes más débiles siguen siendo el caso más difícil de simular.
 
+- **Predecir a quien aprende en lugar de actuar como él.** [[hachimi-ii-learner-behavior-modeling-student-simulation-2026|Jiang et al. (2026)]] reformulan la simulación como predicción en tercera persona: un modelo del estudiante construido a partir del historial de quien aprende aporta una distribución previa, un estado inferido de quien aprende restringe la siguiente acción, y la distribución de capacidad simulada queda entre 2,4 y 8,4 veces más cerca de la real por distancia de Wasserstein-1.
+
 CogEvolution modela la dinámica cognitiva en lugar de una persona estática: un perceptrón de profundidad ICAP fija el tamaño de cada actualización de estado y una actualización evolutiva se mantiene dentro de un radio de Zona de Desarrollo Próximo — alcanzando R²LC = 0,92 donde los agentes estáticos alcanzan 0,45 y colapsando a 0,58 sin el módulo ICAP ([[cogevolution-student-cognitive-evolution-agent-2026|Zhang et al. (2026)]]).
 
 ### Fidelidad por encima del realismo superficial
@@ -111,6 +113,8 @@ La arquitectura puede imponer lo que el prompting no puede: un simulador neuro-s
 
 Más allá de evaluar la pedagogía, los estudiantes simulados sirven como un **arnés de prueba para auditar los propios sistemas de IA** — una forma controlada de sondear cómo se comporta una IA a través de perfiles diversos de estudiantes antes de que toque a estudiantes reales. [[lopez-pernas-llm-appropriate-student-support-2026|López-Pernas et al. (2026)]] lo ilustran: generaron 4.500 viñetas de estudiantes sintéticos con tres LLM para auditar si los [[llm|grandes modelos de lenguaje]] actuales pueden actuar como recomendadores prescriptivos de [[learning-analytics|analíticas de aprendizaje]], hallando una sensibilidad limitada a la necesidad del estudiante y una marcada inconsistencia entre modelos. Usar cohortes simuladas para someter a prueba de esfuerzo las recomendaciones de una IA (en lugar de solo para entrenar o evaluar tutores) es un papel creciente del paradigma, estrechamente ligado a la [[ai-ed-evaluation|evaluación de la IA en educación]] y a [[equity-in-ai-education]] cuando la auditoría pretende sacar a la luz un trato dispar entre tipos de estudiantes.
 
+Una prueba de validez más afilada pregunta si un modelo reproduce la *elección* humana en absoluto: en un juego adaptado de aprendizaje autodirigido, cinco modelos de frontera explotaron una única solución allí donde 175 participantes humanos exploraron con distintos objetivos, de modo que un modelo que hace las veces de quien aprende abandonó justo la conducta que la simulación existe para reproducir ([[llm-goal-selection-self-directed-learning-2026|Molinaro et al. (2026)]]).
+
 La simulación también puede prever las elecciones del estudiante: [[simulating-learner-task-selection|Noh et al. (2026)]] ajustan un Additive Factors Model y un [[knowledge-tracing|knowledge tracing]] bayesiano a dos conjuntos de datos reales de tutoría y dejaron que 1.000 estudiantes simulados eligieran habilidades bajo ocho estrategias, donde una regla adversa al riesgo produjo aproximadamente treinta veces más sobrepráctica que las demás y una restricción de apenas por debajo del dominio la redujo a 1,8×.
 
 Un segundo registro de auditoría es [[metacognition|metacognitivo]] y afectivo. [[meds-math-education-digital-shadows-2026|MEDS (Esposito et al., 2026)]] es un conjunto de datos de 28.000 registros — 2.000 personas sintéticas para cada uno de los 14 [[llm|modelos]], cada una ejecutada tanto como persona humana como asistente de referencia — que registra la precisión en 18 [[problem-solving|problemas de matemáticas]] de secundaria junto con la confianza [[self-report-measures|autoinformada]] y las puntuaciones de [[self-efficacy]] y de [[anxiety-and-stress|ansiedad matemática]] que reportarían los estudiantes a los que sustituye. Su señal de auditoría es la brecha de calibración: la familia Qwen y Ministral 3B afirmaron una confianza por encima de 0,90 mientras la precisión se estancaba cerca de 0,55, mientras que Grok 4.1 Fast, DeepSeek Chat y varias variantes de Mistral Small fueron subconfiadas y Ministral 14B y Anita 24B se mantuvieron razonablemente alineadas. Las mismas ejecuciones exponen un fallo de fidelidad más silencioso: las personas en modo humano produjeron distribuciones de puntuación amplias y plausibles, pero los asistentes de referencia devolvieron respuestas casi idénticas, seguras y de baja ansiedad — un autorretrato por defecto en lugar del de un estudiante simulado. Esto extiende la auditoría de recomendadores anterior sondeando lo que un modelo afirma sobre su propia competencia y afecto, y agudiza la advertencia de validez de la página desde una dirección inesperada: como las personas de MEDS están ponderadas por construcción en lugar de muestreadas de una población real, sus autores presentan el conjunto de datos como un recurso observacional para auditar el comportamiento de la [[generative-ai|IA generativa]] condicionado por prompt y explícitamente no como un sustituto de [[student-experience|datos reales de estudiantes]].
@@ -142,6 +146,7 @@ El entrenamiento contra un simulador también puede transferirse: el agente de a
 - [[teacher-role]]
 
 ## Artículos conectados
+- [[hachimi-ii-learner-behavior-modeling-student-simulation-2026]] — HACHIMI-II: del juego de rol al modelado conductual de quien aprende para una simulación fiel del estudiantado
 
 - [[tutorloop-sensor-cognitive-feedback-2026]] — Un tutor de aprendizaje por refuerzo entrenado con un simulador se transfirió offline a una nueva tarea real (Xu y Zhang, 2026)
 
@@ -174,3 +179,4 @@ El entrenamiento contra un simulador también puede transferirse: el agente de a
 - [[student-development-agent-risk-free-simulation-2025]] — predicción de los resultados de desarrollo de los estudiantes posteriores al curso en una plataforma multiagente sin exponerlos a la intervención
 - [[preservice-teachers-noticing-ai-simulations-2026]] — tres semanas de atención, interpretación y modelado de docentes en formación en una simulación de chatbot sobre el signo igual, y cómo el diseño orienta lo que notan
 - [[beagle-grounded-learner-emulation-2026]] — un simulador neuro-simbólico que impone la estructura de aprendizaje autorregulado arquitectónicamente en lugar de mediante prompting, y supera un test de Turing humano
+- [[llm-goal-selection-self-directed-learning-2026]] — La selección de objetivos de los modelos de lenguaje difiere de la humana en una tarea de aprendizaje autodirigido

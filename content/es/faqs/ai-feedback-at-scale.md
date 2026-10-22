@@ -1,7 +1,7 @@
 ---
 title: "¿Cómo puede ayudarme la IA a dar mejor retroalimentación a escala?"
 created: "2026-09-22T18:40:51-04:00"
-updated: "2026-10-02T09:09:37-04:00"
+updated: "2026-10-22T07:31:04-04:00"
 connected_faqs: [writing-instruction-ai-best-practices, checking-whether-educational-ai-works, ai-save-instructor-time]
 weight: 70
 type: faq
@@ -11,7 +11,7 @@ methods: [mixed-methods-research, meta-analysis-systematic-review]
 research_method: [experiment]
 audience: [instructors, assessment designers, assessment professionals]
 level: [higher ed, secondary]
-source_updated: "2026-10-02T08:21:34-04:00"
+source_updated: "2026-10-21T14:32:00-04:00"
 translation_of: faqs/ai-feedback-at-scale
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
@@ -23,8 +23,6 @@ ai_assist:
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
-
-# ¿Cómo puede ayudarme la IA a dar mejor retroalimentación a escala?
 
 Es la sexta semana. Tiene una pila de borradores, una rúbrica en la que cree y la sospecha creciente de que un tercio de sus comentarios será hojeado y olvidado. Un colega menciona que ahora una herramienta comenta cada borrador en menos de una hora. Usted quiere saber si eso es una mejora real o una forma más rápida de producir texto que nadie lee.
 

@@ -1,13 +1,13 @@
 ---
 title: Psicología cognitiva
 created: "2026-09-28T18:22:10-04:00"
-updated: "2026-09-28T18:22:10-04:00"
+updated: "2026-10-22T07:34:46-04:00"
 type: concept
 pedagogy: [cognitive-psychology, learning-theories, metacognition]
 technology: [generative-ai, intelligent-tutoring, knowledge-tracing]
 confidence: high
 translation_of: concepts/cognitive-psychology
-source_updated: "2026-09-26T01:51:49-04:00"
+source_updated: "2026-10-16T20:19:49-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -34,6 +34,8 @@ ai_assist:
 
 La psicología cognitiva es la tradición teórica del aprendizaje que lo trata como un cambio en representaciones mentales internas —conceptos, esquemas y procedimientos almacenados en la memoria— en lugar de un cambio en la conducta observable. Su vocabulario de procesamiento de información (atención, codificación, recuperación, memoria de trabajo limitada) aportó tanto el lenguaje diagnóstico de la dificultad de aprendizaje como la arquitectura que hay detrás de la [[intelligent-tutoring]] y el [[knowledge-tracing]]: sistemas que infieren el estado interno de quien aprende y se adaptan a él. Sigue siendo el marco de referencia para la [[metacognition]], las [[desirable-difficulties]] y el [[self-regulated-learning]] en toda esta base de conocimiento.
 
+[[seeing-cognitive-representations-eeg-reconstruction|Su et al. (2026)]] reconstruyeron imágenes a partir de la actividad EEG de quienes aprendían mientras veían vídeos de ciencias y encontraron que la fidelidad de la representación seguía el rendimiento en el test (coeficiente de regresión 0,8481; R² = 0,79), prueba directa de que una medida de la representación interna puede indexar la codificación.
+
 ## Ideas centrales
 
 - **El aprendizaje es un cambio en las representaciones mentales internas.** El cognitivismo sostiene que aprender implica la adquisición, el almacenamiento y la reorganización del conocimiento en la memoria —conceptos, esquemas y procedimientos— y no solo un cambio en la respuesta observable. Lo que quien aprende *sabe y puede recuperar* importa, no solo lo que hace.
@@ -51,6 +53,8 @@ Puede decirse que el cognitivismo es la teoría más responsable de que la IA en
 ### La carga cognitiva y el diseño de la instrucción
 
 La Teoría de la Carga Cognitiva (TCC) es el marco cognitivista más ampliamente aplicado en el [[learning-design|diseño instruccional]]: distingue entre la carga intrínseca (la complejidad de la tarea), la carga extrínseca (la fricción de la presentación) y la carga pertinente (el esfuerzo de construcción de esquemas). Una IA bien diseñada debería reducir la carga extrínseca preservando el procesamiento pertinente; una IA mal integrada reduce las tres y deja tareas completadas con un aprendizaje vacío. El encuadre de la memoria de trabajo de la TCC también es central en los debates sobre la [[cognitive-offloading]]: si la IA reduce la carga extrínseca nociva o cortocircuita el procesamiento pertinente que produce aprendizaje.
+
+La carga registrada reflejó cómo se organizaba el esfuerzo, no cuánto se gastaba: entre 67 docentes en formación que diseñaban planes de clase con IA generativa, el grupo de mayor calidad no se diferenció en el esfuerzo declarado (2,85 frente a 3,26), pero sí declaró una menor demanda mental (3,09 frente a 4,03) y menor frustración (2,12 frente a 3,82) ([[fang-human-ai-collaboration-patterns-instructional-design-2026|Fang et al. (2026)]]).
 
 La Teoría Cognitiva del Aprendizaje Multimedia de Mayer (CTML, por sus siglas en inglés) aplica los mismos supuestos sobre la memoria de trabajo a los propios materiales, y sus prescripciones son inusualmente concretas: quien aprende rinde mejor con palabras e imágenes juntas que solo con palabras, cuando se excluye el material extrínseco, cuando la lección se segmenta y se ajusta al ritmo del usuario en lugar de presentarse como una unidad continua, cuando las palabras y las imágenes correspondientes aparecen cerca y al mismo tiempo, y cuando la narración es conversacional y con una voz humana cercana en lugar de formal o generada por máquina.
 
@@ -101,3 +105,4 @@ La [[generative-ai|IA generativa]] a la vez amplía y cuestiona el cognitivismo.
 - [[nie-personavlm-long-term-personalization-2026]] — Modelado del estudiante con LLM y memoria
 - [[ai-cognitive-partner-co-regulation-learning]] — La IA como socio cognitivo en el aprendizaje corregulado
 - [[ensemble-cognition-philosophy-ai-education]] — Cognición de conjunto: el pensamiento como interacción humano-IA
+- [[fang-human-ai-collaboration-patterns-instructional-design-2026]] — La organización del esfuerzo, no su cantidad, fue lo que siguió a la carga y la frustración

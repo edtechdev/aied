@@ -1,7 +1,7 @@
 ---
 title: Desarrollo teórico en la IA en la educación
 created: "2026-09-28T21:02:41-04:00"
-updated: "2026-09-30T12:20:22-04:00"
+updated: "2026-10-22T07:31:04-04:00"
 type: concept
 foundations: [ai-education, limitations-in-aied-research]
 pedagogy: [learning-theories]
@@ -10,7 +10,7 @@ page_kind: [framework]
 confidence: medium
 methods: [research-methods-aied]
 translation_of: concepts/theory-development-aied
-source_updated: "2026-09-30T12:20:22-04:00"
+source_updated: "2026-10-16T08:47:09-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -58,6 +58,7 @@ La teorización del lado docente asume ahora el mismo compromiso de comprobabili
 - **Custodia cognitiva.** [[credential-cognitive-stewardship-ai-assessment|La custodia de credenciales y cognitiva]] teoriza la responsabilidad [[governance|institucional]] de proteger el conocimiento y el aprendizaje en contextos de evaluación impregnados de IA.
 - **Co-[[regulation|regulación]] y proactividad epistémica.** [[ai-cognitive-partner-co-regulation-learning|La IA como pareja cognitiva en la corregulación]] integra la función ejecutiva, la [[metacognition|metacognición]], la cognición distribuida y el desarrollo [[sociocultural-learning|sociocultural]] en un modelo evolutivo; [[epistemic-proactivity-math|la proactividad epistémica]] teoriza la postura agéntica del estudiantado hacia la IA en [[math-education|matemáticas]].
 - **Paradigmas de [[student-engagement|implicación]] entre personas e IA generativa.** [[strydom-human-gai-paradigms-2026|Strydom (2026)]] aborda el «déficit teórico» del campo anclando siete paradigmas enactados de implicación entre personas e IA generativa (protegido, centrado en las posibilidades, aumentado, pionero, simbiótico, basado en valores y de [[equity-in-ai-education|equidad]]) en el modelo multidimensional de Schommer sobre las creencias epistemológicas personales: una teoría epistemológica, y no centrada en la herramienta, sobre cómo las personas se posicionan de forma distinta frente a la IA.
+- **Ciclo de asociación cognitiva.** [[page-cognitive-partnership-cycle-human-ai-2026|Page (2026)]] propone el Ciclo de Asociación Cognitiva, un modelo recursivo de seis fases —Pregunta humana, Expansión por IA, Reflexión humana, Integración, Revisión y Nueva pregunta— que sitúa el aprendizaje en un cambio de la posición cognitiva de quien aprende y no en la sofisticación del prompt, y nombra cuatro modos de fallo en los que la misma recursión sustituye o distorsiona el pensamiento.
 - **El marco de co-agencia ecológica.** [[reclaiming-epistemic-agency-co-agency-2026|Poudyal (2026)]] sostiene que la [[generative-ai|IA generativa]] reasigna la autoridad epistemológica del profesorado al estudiantado y a las máquinas, e introduce un marco que define la co-agencia mediante tres dimensiones interdependientes —relacional, regulatoria (mapeada sobre el [[self-regulated-learning|ciclo de autorregulación]]) y [[pedagogy|pedagógica]] (continuo de adopción docente)—, todas acotadas por una condición no negociable de responsabilidad epistémica humana (contestabilidad, procedencia y no delegación del crédito moral e intelectual). Sitúa la [[agency|agencia]] como un problema de diseño *epistémico* y no como una preocupación de [[usability-research|investigación de usabilidad]], lo que da a las instituciones un lenguaje más preciso que el de «equilibrio» para gobernar la integración de la IA generativa.
 - **Agencia epistémica relacional y dependencia epistémica.** [[du-yuan-epistemic-dependence-2026|Du y Yuan (2026)]] aportan un relato crítico-integrador de cuándo la dependencia mediada por IA preserva el juicio y cuándo lo desplaza. Operacionalizan la frontera entre dependencia productiva y dependencia dañina mediante seis criterios diagnósticos (contestabilidad, recuperabilidad, transferencia, trazabilidad, responsabilidad distribuida y pluralidad epistémica) y trazan cuatro vías sociotécnicas (autoridad fluida, delegación sin roce, síntesis opaca y dependencia institucionalizada). Su propuesta normativa, la **agencia epistémica relacional**, extiende las líneas de la autonomía relacional y la co-agencia epistémica manteniendo una asimetría explícita —la IA puede moldear el razonamiento sin responsabilidad recíproca ni autoridad legítima— a la vez que integra la responsabilidad y la justicia epistémica en el plano institucional. Como teoría del aprendizaje con IA, desplaza la pregunta del campo de si la IA ayuda o perjudica a qué acciones epistémicas se preservan, se transforman o se desplazan, y convierte el *diseño de la dependencia*, y no el mero uso, en el objeto de la intervención pedagógica e institucional.
 
@@ -66,6 +67,10 @@ La teorización del lado docente asume ahora el mismo compromiso de comprobabili
 Otros trabajos extienden teorías existentes al contexto de la IA en lugar de fundar paradigmas nuevos: el trabajo sobre la [[critical-thinking-paradox-genai-learning-2026|paradoja del pensamiento crítico]] integra la [[cognitive-offloading|teoría de la carga cognitiva]] con la instrucción para reducir la carga en un marco de tres niveles; [[dollinger-equitable-assessment-ai-2026|la evaluación equitativa]] reteoriza la [[assessment|evaluación]] bajo la disrupción de la IA generativa. [[reconceptualizing-community-inquiry-generative-ai|Ba, Gašević, Lim y Anderson (2026)]] reconceptualizan el propio marco de la [[community-of-inquiry|comunidad de indagación]]: en lugar de enmarcar la IA generativa como herramienta, interlocutora dialógica o una especulativa «cuarta presencia», la reposicionan como una *condición epistémica* que reconfigura cómo se ponen en acto, se evidencian y se gobiernan la presencia cognitiva, la social y la [[teacher-role|docente]], y recastean las presencias de la CoI como logros sociotécnicos de ensamblajes de personas e IA generativa, y proponen una heurística basada en configuraciones en la que la implicación de la IA generativa y la calidad de la indagación se relacionan de forma condicional a través de la responsabilidad humana. Buena parte de esto es trabajo de marco conceptual ([[drummond-genai-business-schools-framework-2026|marcos para escuelas de negocios]], [[valid-student-simulation-llm-2026|simulación válida]]) que operacionaliza la teoría para la práctica.
 
 [[metacognitive-ownership-human-ai-regulation-2026|Lin y Chang (2026)]] extienden el [[self-regulated-learning|aprendizaje autorregulado]] y la regulación entre personas e IA al nombrar lo que gobierna quien aprende —estándares, juicios evaluativos y autorización del control— y no solo lo que hace la IA.
+
+La paradoja de la fricción ofrece otra extensión de teoría establecida: [[friction-paradox-generative-ai-education-abroad-2026|Gupta (2026)]] aplica las [[desirable-difficulties|dificultades deseables]] de Bjork y Bjork y el [[productive-failure|fracaso productivo]] de Kapur a los encuentros relacionales de la educación en el extranjero, y sostiene que lo que importa es cuánta agencia interpretativa [[transfer-of-learning|transfiere]] el estudiantado a un asistente generativo, y no con qué frecuencia lo usa. El marco es conceptual y enuncia cinco proposiciones como hipótesis rivales.
+
+[[ranieri-biagini-ai-higher-education-taxonomy-review-2026|Ranieri y Biagini (2026)]] hacen avanzar la taxonomía funcional del campo de Zawacki-Richter et al. (2019): entre las 154 publicaciones con una función de aplicación clasificable, 90 (el 58,4%) escapaban a sus cuatro categorías, y su marco cruza la función con el control delegado, la posición epistémica y la pedagogía incorporada.
 
 [[deceptive-overgeneralization-adaptive-learning-2026|An, McLaren y Stamper (2026)]] hacen avanzar ACT-R y el marco Conocimiento-Aprendizaje-Instrucción al teorizar la *sobregeneralización engañosa* —un modo de fallo en el que la compilación del conocimiento produce una producción sobregeneralizada que genera acciones correctas pero omite una restricción de aplicación crítica— y al validar empíricamente un procedimiento de detección y remediación en varios sistemas tutoriales inteligentes y en un conjunto de datos de aprendizaje de decimales de [[k-12|K-12]].
 
@@ -100,6 +105,7 @@ El desarrollo teórico y [[philosophy-of-ai-in-education|la filosofía de la IA 
 - [[cognitive-surrender]]
 
 ## Artículos conectados
+- [[ranieri-biagini-ai-higher-education-taxonomy-review-2026]] — Ampliar la taxonomía funcional: 90 de las 154 publicaciones clasificables (58,4%) quedan fuera de las cuatro categorías originales (Ranieri y Biagini 2026)
 - [[yan-agentivism-learning-theory-ai-2026]] — Una teoría del aprendizaje de alcance medio para la interacción entre personas e IA, con cuatro mecanismos y seis proposiciones comprobables (Yan y Gašević 2026)
 
 - [[deceptive-overgeneralization-adaptive-learning-2026]] — La sobregeneralización engañosa: el dominio adaptativo puede detener la práctica antes de que quien aprende sepa cuándo abstenerse de actuar (An, McLaren y Stamper 2026)
@@ -128,4 +134,6 @@ El desarrollo teórico y [[philosophy-of-ai-in-education|la filosofía de la IA 
 
 - [[synthetic-position-self-authorship-2026]] — La posición sintética: una apuesta dialógica del yo que nombra la promoción sintética y la suspensión autoral con una predicción de cruce
 - [[capability-decision-model-teacher-readiness-2026]] — Modelo de preparación docente falsable centrado en la capacidad, con cuatro condiciones de refutación
+- [[page-cognitive-partnership-cycle-human-ai-2026]] — Ciclo de asociación cognitiva entre personas e IA
+- [[friction-paradox-generative-ai-education-abroad-2026]] — Dificultades deseables y fracaso productivo aplicados a la agencia interpretativa en la educación en el extranjero
 - [[ai-connectedness-adolescent-mental-health-2026]] — Conectividad con la inteligencia artificial: un constructo tridimensional con seis proposiciones falsables para su comprobación posterior

@@ -1,14 +1,14 @@
 ---
 title: Desarrollo y preparación profesional
 created: "2026-09-28T21:03:34-04:00"
-updated: "2026-10-04T17:12:06-04:00"
+updated: "2026-10-22T07:31:04-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [anxiety-and-stress, professional-training]
 level: [higher ed, adult learning]
 confidence: high
 translation_of: concepts/career-development-and-readiness
-source_updated: "2026-10-04T05:34:36-04:00"
+source_updated: "2026-10-16T08:47:09-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -45,6 +45,7 @@ A medida que la IA transforma las ocupaciones, el papel de la educación en el d
 - **La política de curso como decisión sobre competencias laborales.** El caso de diseño de [[mccorkle-aligned-genai-course-policy-2025|McCorkle (2025)]] hace explícito el compromiso a nivel de tarea: para cada paso de un proyecto de semestre, el profesorado empareja una competencia laboral emergente en [[generative-ai|IA generativa]] (prompting para objetivos, generación de imágenes, escritura de guiones, narración con texto a voz) con la necesidad de evaluar una habilidad fundacional, y permite la IA solo cuando gana la competencia, una forma concreta de incorporar a las tareas existentes las habilidades de flujo de trabajo que valoran quienes emplean ([[prompt-engineering|ingeniería de prompts]], evaluación de la salida de un [[llm|LLM]]) en lugar de añadir un curso aparte sobre IA.
 - **La IA ya media la propia preparación profesional.** [[loidl-chatgpt-career-development-2026|Loidl, Cao y Huang (2026)]] encuestaron a 102 estudiantes de grado de una universidad R1 del Medio Oeste y encontraron que alrededor del 81% había usado ChatGPT para actividades relacionadas con la empleabilidad en los 12 meses anteriores, encabezadas por los currículos (52,94%), la comunicación en el trabajo (38,24%) y las cartas de presentación (35,29%), lo que las entrevistas interpretan como un trabajo de adaptación y ensayo más que de externalización; la preparación profesional tiene por tanto que construirse sobre una preparación que la herramienta ya media, y no solo sobre las capacidades que esta página describe por lo demás.
 - **Marcos de preparación específicos de cada sector.** [[workforce-readiness-smart-manufacturing-wrl-2026|La preparación laboral para la fabricación inteligente]] y [[ai-engineering-computing-workforce-grey-literature-2026|el futuro de la fuerza laboral de ingeniería e informática]] traducen la empleabilidad general en marcos de competencias [[discipline-specific-aied|específicos de cada disciplina]].
+- **Qué espera el profesorado que desplace la IA, y qué no es eso.** En diez entrevistas en un departamento de [[engineering-education|ingeniería]] centrado en la IA, el profesorado discrepó sobre cómo remodelaría el trabajo la IA generativa: nombró la programación, la [[writing-education|escritura]] y el trabajo de información como vulnerables a corto plazo, sin ofrecer evidencia del mercado laboral que respaldara esas expectativas ([[sadik-ai-ready-engineering-talent-faculty-2026|Sadik (2026)]]).
 - **Transiciones laborales.** El estudio sobre las [[post-covid-ict-career-aspirations|aspiraciones profesionales en TIC]] examina cómo cambian las intenciones profesionales del estudiantado en respuesta al cambio tecnológico.
 - **Fundamentación teórica.** El [[kim-ai-anxiety-comprehensive-analysis|análisis integral de la ansiedad ante la IA]] identifica el **miedo a ser reemplazado por la IA** como un factor principal de la ansiedad ante la IA: la dimensión profesional que este concepto aborda de lleno.
 
@@ -82,3 +83,4 @@ El desarrollo y la preparación profesional se conectan con la [[professional-tr
 - [[dag-ai-perceptions-career-anxiety-health-2026]] — La ansiedad ante la IA predice la ansiedad por la búsqueda de empleo en ciencias de la salud (r = 0,233, 821 estudiantes)
 
 - [[ai-attitude-latent-profiles-career-development-2026]] — Cuatro perfiles de actitud ante la IA: la elaboración de carrera y la empleabilidad se relacionaban con la implicación, no con la ansiedad
+- [[sadik-ai-ready-engineering-talent-faculty-2026]] — Los pronósticos del profesorado son predicciones, no evidencia sobre el empleo

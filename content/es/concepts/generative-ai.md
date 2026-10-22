@@ -1,14 +1,14 @@
 ---
 title: IA generativa
 created: "2026-09-25T03:07:36-04:00"
-updated: "2026-10-03T02:57:43-04:00"
+updated: "2026-10-22T07:31:04-04:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 technology: [intelligent-tutoring, llm, prompt-engineering, rag]
 ethics: [hallucination-risk]
 confidence: high
 translation_of: concepts/generative-ai
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-16T08:47:09-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -50,16 +50,19 @@ Un censo del uso de herramientas por parte del profesorado muestra que la atenci
 
 ### La cobertura de la IA generativa en la base de conocimiento
 
-Con más de 80 artículos, la IA generativa es la línea tecnológica más amplia de la base de conocimiento. La investigación abarca estudios de eficacia ([[genai-meta-analysis-programming-learning|metaanálisis]]), preocupaciones de seguridad ([[hazra-safetutors-pedagogical-safety-2026|daños de los tutores]], [[eduguard-safe-rag-llm-tutor|barreras de seguridad]]) y principios de diseño ([[instructional-guidance-genai-learning|orientación didáctica]]).
+Con más de 80 artículos, la IA generativa es la línea tecnológica más amplia de la base de conocimiento. A lo largo de sus 394 estudios, ChatGPT con una versión no especificada apareció en 94, la familia ChatGPT-3/3.5 en 66 y la familia ChatGPT-4 en 52, de modo que muchas de las capacidades declaradas describen generaciones de modelos ya superadas ([[mapping-genai-higher-ed-scoping-review|Lin et al. (2026)]]). La investigación abarca estudios de eficacia ([[genai-meta-analysis-programming-learning|metaanálisis]]), preocupaciones de seguridad ([[hazra-safetutors-pedagogical-safety-2026|daños de los tutores]], [[eduguard-safe-rag-llm-tutor|barreras de seguridad]]) y principios de diseño ([[instructional-guidance-genai-learning|orientación didáctica]]).
 
 Agrupada en 53 estudios, la educación asistida por IA generativa superó a los enfoques sin IA generativa en rendimiento (g = 0,40), pensamiento de orden superior (g = 0,72), motivación (g = 0,81) y escritura (g = 0,76), aunque la IA generativa asistida por juegos no añadió un beneficio significativo (g = 0,24) ([[genai-educational-outcomes-meta-analysis|Dong (2026)]]).
 
+Un metaanálisis de tres niveles de 22 estudios encuentra que el aprendizaje basado en problemas y en [[project-based-learning|proyectos]] apoyado por IA generativa produce un efecto agrupado grande sobre los resultados internos de quien aprende (g = 0,819), aunque una corrección PET-PEESE lo reduce a g = 0,378; la forma de incorporación también importó, con los chatbots generales agrupados en g = 0,970 frente a g = 0,455 para sistemas personalizados o de API ([[chen-pbl-pjbl-genai-meta-analysis-2026|Chen (2026)]]).
 
 Un metaanálisis separado de 42 estudios solo sobre motivación sitúa el efecto agrupado más abajo (g = 0,764) e informa de un intervalo de predicción del 95% que abarca [−0,689, 2,217], de modo que la ventaja motivacional no es fiablemente positiva para un entorno nuevo ([[genai-learning-motivation-meta-analysis-2026|Fang et al. (2026)]]).
 
 La interfaz de usuario generativa es la capacidad más reciente de esta línea: modelos que emiten un artefacto interactivo funcional (controles deslizantes, simulaciones manipulables) en lugar de prosa. [[generative-ui-education-learning-interactives-2026|Kovshov et al. (2026)]], un equipo de Google Research, informan de que la interfaz generativa disponible comercialmente todavía no es lo bastante precisa desde el punto de vista pedagógico para constructos complejos, pero que descomponer un objetivo de aprendizaje en metas progresivas por niveles y envolver la generación en bucles de crítica y automejora produce materiales interactivos que el profesorado experto considera aceptables. El suyo es un diseño de orquestación: el profesorado declara los objetivos, los aprueba y elige entre simulaciones candidatas, de modo que la restricción vinculante para el [[simulation|material de aprendizaje interactivo]] a medida se desplaza de la producción a la especificación, y las [[guardrails|barreras de seguridad pedagógicas]] quedan integradas en la canalización de generación en lugar de dejarse después a la vigilancia del profesorado.
 
 Más allá de estas líneas centrales, trabajos recientes amplían la base de evidencia a contextos [[governance|institucionales]], interactivos y de dominio. Qin (2026) documenta cómo la Universidad de Lingnan institucionalizó la alfabetización en IA generativa para todo el estudiantado de grado como parte de una transformación digital de las artes liberales. Chang y Li (2026) muestran que las conversaciones entre estudiantado e IA codifican una [[student-engagement|implicación]] cognitiva asociada a la disciplina, con un ~62% de prompts que reflejan demanda cognitiva de orden superior. Neto y sus colegas (2026) [[meta-analysis-systematic-review|revisan sistemáticamente]] la IA generativa en la educación sanitaria basada en escenarios, y encuentran que el [[prompt-engineering|diseño de prompts]] funciona como especificación didáctica, pero rara vez se alinea con marcos didácticos (34,8%) o se comunica con detalle reproducible (34,8%). La IA generativa también impulsa simulaciones de juego de rol de estudiantes para la [[teacher-education|formación del profesorado]] basada en la práctica: [[zhuang-zhang-chatgpt-math-teacher-education-2026|Zhuang y Zhang (2025)]] crearon *Student GPT*, un chatbot personalizado de ChatGPT que simulaba a un estudiante de [[k-12|secundaria]] con [[misconceptions|ideas erróneas]] habituales sobre el razonamiento con razones, lo que daba al futuro profesorado de matemáticas una práctica asequible y específica del contenido para diagnosticar el pensamiento del estudiantado. Es evidencia de que el diseño de prompts (un prompt fundamentado en la literatura provocaba de forma fiable los errores conceptuales objetivo, 0,98 frente a 0,40) puede orientar un modelo generativo disponible comercialmente hacia una persona pedagógica útil.
+
+Un estudio de caso de desarrollo profesional en matemáticas guiado por IA generativa con ocho docentes en ejercicio de distritos rurales y con pocos recursos hizo que [[bicer-genai-pd-math-creativity-2026|Bicer et al. (2026)]] abordaran la [[creativity|creatividad]] matemática, el conocimiento del contenido y el conocimiento didáctico del contenido como un razonamiento interconectado a lo largo de diez módulos, y atribuyen el resultado al desvanecimiento progresivo del andamiaje y al razonamiento estudiantil simulado; informan de patrones de implicación, no de ganancias medibles.
 
 Una [[li-language-educators-genai-review-2026|revisión sistemática sobre docentes de idiomas]] (Li et al. 2026) encuentra que el profesorado valora más la IA generativa para el trabajo preparatorio de contenido (planificación de clases, creación de materiales y apoyo a la escritura) y muestra reticencia ante su uso en el aula en directo, con preocupaciones centradas en la [[academic-integrity|integridad académica]] (el plagio y la [[assessment-validity|validez de la evaluación]]), el desplazamiento profesional y el tecnoestrés; la adopción está determinada por factores de identidad profesional, pedagógicos, técnicos, institucionales y de integridad, y las lagunas de competencia se corresponden con la episteme, la techne y la phronesis.
 
@@ -109,3 +112,5 @@ Una revisión sistemática interdisciplinar de 2026 (Dabaghi, D'Urso y Sciarrone
 - [[falahat-chatgpt-grading-pharmacy-exams-2026]]
 - [[olvet-genai-scoring-open-ended-medical-2026]]
 - [[bloom-classifier-ai-assisted-questions-2026]] — Evaluation of pre-trained models for pedagogical assessment of novel AI-assisted educational questions
+- [[bicer-genai-pd-math-creativity-2026]] — Un estudio de caso de desarrollo profesional en matemáticas guiado por IA generativa con ocho docentes rurales en ejercicio
+- [[chen-pbl-pjbl-genai-meta-analysis-2026]] — g agrupada = 0,819 que baja a 0,378 con PET-PEESE; las herramientas personalizadas (0,455) rindieron por debajo de los chatbots (0,970)

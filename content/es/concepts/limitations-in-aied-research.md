@@ -1,7 +1,7 @@
 ---
 title: Limitaciones de la investigación en AIEd
 created: "2026-09-28T20:10:35-04:00"
-updated: "2026-10-09T17:40:00-04:00"
+updated: "2026-10-22T07:31:04-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [learning-theories]
@@ -12,7 +12,7 @@ confidence: high
 connected_faqs: [research-gaps-aied, reporting-interpreting-aied-research]
 methods: [ai-ed-evaluation, benchmark, research-methods-aied]
 translation_of: concepts/limitations-in-aied-research
-source_updated: "2026-10-07T07:20:00-04:00"
+source_updated: "2026-10-16T08:47:09-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -54,6 +54,7 @@ La página de [[research-methods-aied|métodos de investigación]] de la base de
 
 - **El diseño de la recuperación fija las cifras estrella de una síntesis.** En una revisión de alcance de 195 estudios de formación docente, la competencia digital y el [[tpack|TPACK]] eran descriptores de búsqueda explícitos mientras que el diseño instruccional y la evaluación no tenían equivalente, así que el 46,5% y el 1,9% informados describen el corpus recuperado y no el campo ([[digital-competence-ai-responsive-pedagogy-2026|Patiño Hernández et al. (2026)]]).
 - **Tamaños de muestra pequeños.** Muchos estudios de AIEd tienen potencia insuficiente: demasiado pocos participantes para detectar de forma fiable efectos significativos o para sostener las afirmaciones fuertes que a veces se extraen de ellos.
+- **El aumento de datos puede fabricar la métrica estrella.** En un corrector automático de ensayos cuya partición de entrenamiento contenía el trabajo de 83 estudiantes, las respuestas generadas de nivel 1 —plantillas, truncamiento, eliminación de palabras clave— elevaron el acuerdo en Foco en +0,346 de kappa cuadrática ponderada partiendo de una base de 0,028, de modo que la señal ordinal más fuerte descansaba en texto que ningún estudiante escribió ([[automated-essay-scoring-critical-thinking-physics-2026|Firdausi et al. (2026)]]).
 - **Las puntuaciones finales pueden ocultar aquello que se estudia.** En una revisión PRISMA de 103 estudios de [[higher-ed|educación superior]], el 56% informó de ganancias condicionadas al andamiaje o a la verificación, y las diferencias nulas en las notas acompañaron a menudo a cambios reales en el proceso —más depuración, más ciclos de comprobación—, de modo que las notas por sí solas no pueden indicar si la [[generative-ai|IA generativa]] fortaleció o vació la práctica ([[hawi-genai-higher-ed-uses-outcomes-risks-2026|Hawi y Samaha (2026)]]).
 
 - **El diseño de la validación puede fabricar la cifra estrella.** [[eeg-familiarity-automated-assessment-2026|Nanayakkara y Halloluwa (2026)]] comparan quince modelos en familiaridad basada en EEG y muestran que la validación cruzada estratificada estándar permite fuga temporal e informa de hasta 0,9853 de F1, mientras que la validación Group K-Fold independiente del ensayo rebaja el pico a 0,6038 de F1 —todavía por encima del azar, pero lejos del resultado citado.
@@ -155,3 +156,4 @@ El propósito de esta base de conocimiento es ayudar a cerrar esa brecha —faci
 - [[digital-competence-ai-responsive-pedagogy-2026]] — Revisión de alcance de 195 estudios de formación docente donde el diseño de la cadena de búsqueda da forma a las frecuencias informadas
 - [[k12-teachers-genai-beliefs-five-countries-2026]] — Encuesta transnacional a docentes de K-12: ítems traducidos automáticamente, medidas de preocupación de un solo ítem, sin pruebas de invariancia
 - [[hawi-genai-higher-ed-uses-outcomes-risks-2026]] — Revisión sistemática de 103 estudios de IA generativa en educación superior: 56% de ganancias condicionales, con las notas enmascarando el cambio de proceso (Hawi y Samaha 2026)
+- [[automated-essay-scoring-critical-thinking-physics-2026]] — El aumento de datos puede fabricar la métrica estrella

@@ -1,7 +1,7 @@
 ---
 title: Agencia de quien aprende
 created: "2026-09-25T03:54:08-04:00"
-updated: "2026-10-04T17:09:45-04:00"
+updated: "2026-10-22T07:36:09-04:00"
 type: concept
 foundations: [agency, cognitive-offloading, human-ai-collaboration]
 pedagogy: [motivation, self-regulated-learning]
@@ -10,7 +10,7 @@ connected_faqs: [group-work-ai]
 audience: [learners]
 confidence: high
 translation_of: concepts/agency
-source_updated: "2026-10-04T02:59:54-04:00"
+source_updated: "2026-10-16T07:28:51-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -55,6 +55,7 @@ La agencia importa porque el aprendizaje es más eficaz cuando quien aprende par
 
 - **Robótica e [[educational-robotics|interacción entre personas y robots]]:** [[roboblockly-conversational-block-robotics-ct-2026|RoboBlockly Studio]] se diseñó explícitamente para preservar la agencia de quien aprende en el [[computational-thinking|pensamiento computacional]]; [[human-autonomy-agency-hri-review-2025|una revisión sistemática]] examina cómo la interacción entre personas y robots afecta a la autonomía humana y al sentido de agencia, centrales en los debates sobre el [[well-being|bienestar]] y la [[governance|gobernanza]].
 - **[[collaborative-learning|Aprendizaje colaborativo]]:** la [[research-methods-aied|investigación]] sobre la [[human-ai-collaboration]] examina cómo se reparten las tareas cognitivas entre quien aprende y la IA, y la agencia determina si es la persona o la IA la que dirige la interacción.
+- **La agencia epistémica compartida se extiende a la interacción entre el estudiantado y la IAG.** Un esquema de 14 categorías que codificó 6.788 turnos asistidos por ChatGPT situó el 59% de los turnos de estudiantes de séptimo grado en agencia epistémica compartida, y los autores sostienen que el constructo —estudiado antes sobre todo en la colaboración entre pares— debe ampliarse para incluir dimensiones cognitivas y metacognitivas ([[chang-shared-epistemic-agency-gai-scientific-writing-2026|Chang et al., 2026]]).
 - **[[student-engagement|Implicación]] crítica:** la investigación sobre la [[cognitive-offloading|descarga cognitiva]] muestra cómo el estudiantado que delega la interpretación en la IA puede perder agencia sobre su propio razonamiento; los enfoques críticos y [[metacognition|metacognitivos]] tratan de protegerla.
 
 **Evaluado en diez modelos, el apoyo a la agencia es donde peor lo hacen después del aprendizaje.** ImpactBench midió Agencia y Propósito en un 56,0% de criterios positivos (IC del 95% [49,2, 62,5]) y un 43,9% de criterios negativos ([36,9, 50,8]), la segunda área más baja de 14 subáreas, y sus criterios de asistencia que preservan la autonomía preguntan si un modelo ofrece contexto y contrapartidas en lugar de prescribir un curso de acción ([[impactbench-ai-impact-on-humans-2026|ImpactBench (2026)]]). Los modelos también fueron mucho menos consistentes a la hora de evitar daños que a la hora de ser útiles: una diferencia de 38,6 puntos frente a 15,9 puntos.
@@ -189,3 +190,4 @@ Un encuadre estrechamente relacionado es el de la **agencia epistémica relacion
 - [[fagerlund-competency-agency-purposes-ai-education-2026]] — La competencia frente a la agencia como propósitos de la educación en IA, y el heurístico de la agencia informada en IA (Fagerlund et al. 2026)
 - [[canonigo-teacher-mediation-generative-ai-mathematics-2026]] — La mediación docente como la condición que mantiene la IA generativa como artefacto para la crítica y no como autoridad (Canonigo 2026)
 - [[charles-teacher-readiness-by-design-ai-rich-2026]] — La agencia docente como recurso movilizado mediante el diseño, con la preparación juzgada por los artefactos y no por el uso (Charles 2026)
+- [[chang-shared-epistemic-agency-gai-scientific-writing-2026]] — Agencia epistémica compartida en 6.788 turnos asistidos por ChatGPT de escritura científica en secundaria (Chang et al., 2026)

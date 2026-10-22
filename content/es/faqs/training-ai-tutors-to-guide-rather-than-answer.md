@@ -1,7 +1,7 @@
 ---
 title: "¿Cómo entrenamos a un tutor de IA para que guíe a los estudiantes en lugar de responderles?"
 created: "2026-10-02T09:08:04-04:00"
-updated: "2026-10-02T09:08:04-04:00"
+updated: "2026-10-22T07:28:08-04:00"
 weight: 72
 type: faq
 connected_faqs: [making-ai-better-at-supporting-learning, checking-whether-educational-ai-works, developing-ai-tutor, ai-agents-support-students-instructors]
@@ -15,7 +15,7 @@ discipline: [math education, language learning]
 confidence: high
 methods: [benchmark]
 ethics: [ai-sycophancy, pedagogical-safety]
-source_updated: "2026-10-02T08:21:34-04:00"
+source_updated: "2026-10-21T14:32:00-04:00"
 translation_of: faqs/training-ai-tutors-to-guide-rather-than-answer
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 reviewed_by: [editor]
@@ -28,8 +28,6 @@ ai_assist:
 ---
 
 *Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa.*
-
-# ¿Cómo entrenamos a un tutor de IA para que guíe a los estudiantes en lugar de responderles?
 
 Un modelo de propósito general se post-entrena con preferencia humana por la utilidad, y en la práctica utilidad significa responder la pregunta con prontitud y de forma completa. La tutoría exige lo contrario: ayudar a un estudiante a llegar a la respuesta en lugar de entregársela. Este es el único lugar de la IA educativa donde puede que necesite de verdad cambiar el comportamiento aprendido del modelo y no solo su prompt, y es también la parte mejor documentada del campo. Los resultados son grandes, y la variable decisiva es la **recompensa**, no el algoritmo.
 

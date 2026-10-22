@@ -1,7 +1,7 @@
 ---
 title: ECA
 created: "2026-09-28T18:22:28-04:00"
-updated: "2026-10-02T22:23:27-04:00"
+updated: "2026-10-22T07:34:46-04:00"
 type: concept
 foundations: [ai-education]
 technology: [generative-ai]
@@ -10,7 +10,7 @@ level: [higher ed]
 confidence: high
 methods: [research-methods-aied]
 translation_of: concepts/rct
-source_updated: "2026-10-01T20:35:10-04:00"
+source_updated: "2026-10-16T08:47:09-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -40,6 +40,7 @@ La aleatorización es lo que distingue un ECA de otros diseños: al asignar alea
 
 - **Micro-ECA como respuesta a una tecnología que cambia rápido:** [[ai-tutoring-micro-rct-gcse-science-2026|Harrison et al. (2026)]] sostienen que los ensayos convencionales a gran escala no pueden seguir el ritmo de las [[edtech-platform|plataformas]] de tutoría que cambian de forma sustancial durante un estudio, y usan microensayos controlados aleatorizados dirigidos por [[teacher-role|profesorado]] en escuelas secundarias inglesas (644 de 929 estudiantes completaron el postest, g = 0,33) para mantener repetible la estimación causal. Las disyuntivas se declaran en su propio diseño: un 30,7% de abandono, resultados alineados con el [[curriculum-design|currículo]] y no estandarizados de forma independiente, y solo cuatro semanas de seguimiento.
 - **Afirmaciones de eficacia causal:** los ECA en IAED ponen a prueba si un tutor, una herramienta o un tratamiento pedagógico con IA mejora los resultados. [[generative-ai-education-productivity-gaps|Un experimento aleatorizado sobre IA generativa]] con 1.174 participantes encontró que la IA generativa reduce sustancialmente las brechas de productividad basadas en la educación, cerrando cerca de tres cuartas partes de la diferencia de rendimiento inicial: una estimación causal clara del efecto de la IA.
+- **Un resultado medido tras un retraso, no al final de la sesión.** Al aleatorizar a 120 estudiantes de [[higher-ed|grado]] a un estudio asistido por IA o tradicional de los mismos temas y evaluar la retención 45 días después, el grupo asistido por IA obtuvo un 57,5% frente a un 68,5%, una brecha de unos 11 puntos porcentuales ([[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025|Barcaui (2025)]]).
 - **Comparación con el estándar de oro:** la página de [[research-methods-aied|métodos de investigación]] sitúa los ECA como el diseño más sólido para la validez interna y a la vez señala sus disyuntivas: coste, condiciones artificiales, IA que cambia rápido, muestras pequeñas con potencia insuficiente y límites éticos para retener herramientas potencialmente útiles.
 
 - **Un ensayo diseñado para la equivalencia, no para la diferencia.** [[studentbench-ai-human-tutoring-gre-2026|Northcutt et al. (2026)]] aleatorizaron a 2.383 adultos a tutoría con IA, tutoría humana en vivo o un control con vídeo, redactaron nuevos ítems del GRE con antiguos desarrolladores de pruebas de ETS y Kaplan para mantener fuera la contaminación de pruebas publicadas, contrabalancearon las dos formas y probaron la equivalencia con dos pruebas unilaterales frente a ±0,25 DE en lugar de una diferencia: las decisiones de diseño que hacen que «ninguna diferencia significativa» sea un resultado interpretable.
@@ -77,3 +78,4 @@ Para un tratamiento más completo del diseño experimental en la IA en la educac
 - [[ai-tutoring-micro-rct-gcse-science-2026]] — Evaluar la tutoría con IA al ritmo de la innovación: microensayos aleatorizados dirigidos por docentes de una plataforma de tutoría con IA en ciencias del GCSE
 - [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: la tutoría con IA y la humana producen ganancias de aprendizaje equivalentes en el GRE
 - [[liu-course-integrated-ai-tutoring-rct-2026]] — Aleatorización por grupos a nivel de instructor: una caída de 0,37 DE en las notas finales y de 0,90 DE en la participación en la plataforma, con un 15% de adopción e inferencia sobre 34 conglomerados (Liu et al. 2026)
+- [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025]] — Un resultado medido tras un retraso, no al final de la sesión

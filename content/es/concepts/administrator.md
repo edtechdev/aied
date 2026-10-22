@@ -1,7 +1,7 @@
 ---
 title: Administradores
 created: "2026-09-28T19:10:33-04:00"
-updated: "2026-10-02T22:23:27-04:00"
+updated: "2026-10-22T07:28:42-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [scaffolding]
@@ -13,7 +13,7 @@ level: [higher ed]
 confidence: medium
 institutions: [educational-policy-ai]
 translation_of: concepts/administrator
-source_updated: "2026-10-01T20:35:10-04:00"
+source_updated: "2026-10-16T08:47:09-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -39,6 +39,8 @@ ai_assist:
 ## Introducción
 
 La adopción de la IA en la educación no es una decisión puramente de aula; también es una decisión institucional. Los administradores —vicerrectores, decanos, directores de sistemas de información y líderes institucionales— fijan las condiciones bajo las cuales el profesorado y el estudiantado usan la IA, equilibrando la oportunidad pedagógica con la gobernanza, los recursos y el riesgo.
+
+[[students-at-stake-ai-deployment-risks-2026|Student Defense (2026)]] ofrece un cribado portátil de compras para exactamente la decisión a la que se enfrentan los administradores: antes de desplegar un producto de IA, preguntar qué problema se está resolviendo, si existe capacidad de gobernanza, si la institución está siendo transparente y si el despliegue crea valor para el estudiantado —enmarcando la elección como una cuestión de derechos, opciones, finanzas y futuros del estudiantado más que como una transacción de compra.
 
 ### Cómo aparece la perspectiva del administrador en la investigación
 
@@ -81,3 +83,4 @@ La perspectiva del administrador conecta con la [[educational-policy-ai|polític
 - [[genai-policies-higher-ed-computing]] — Política institucional sobre IA generativa en informática
 - [[institutional-change-framework-ai]] — Marco de cambio institucional para la IA
 - [[edtech-privacy-deferral-2026]] — «Ya lo arreglaremos luego»: educación, IA y el aplazamiento de la privacidad del estudiantado en la tecnología educativa
+- [[students-at-stake-ai-deployment-risks-2026]] — Un cribado de compras de cuatro preguntas, enmarcado como derechos del estudiantado y no como gestión de riesgos

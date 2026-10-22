@@ -2,7 +2,7 @@
 connected_resources: [mglearn]
 title: Aprendizaje de lenguas
 created: "2026-09-28T20:12:29-04:00"
-updated: "2026-10-04T17:14:09-04:00"
+updated: "2026-10-22T07:34:46-04:00"
 type: concept
 foundations: [ai-education]
 technology: [generative-ai]
@@ -11,7 +11,7 @@ discipline: [language learning, writing education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/language-learning
-source_updated: "2026-10-04T09:35:00-04:00"
+source_updated: "2026-10-21T12:05:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -69,6 +69,8 @@ La calidad del diseño, y no la frecuencia de uso, fue lo que sostuvo el efecto 
 - **Las [[ai-technologies|tecnologías]] emergentes producen ganancias pequeñas o moderadas que dependen del nivel.** Un [[liu-emerging-tech-tefl-review-2026|metaanálisis de 33 estudios de TEFL]] (N = 3.181) encuentra un efecto global de g de Hedges = 0,38 que aumenta con el nivel educativo (primaria 0,29; secundaria 0,35; terciaria 0,44), con la realidad virtual y aumentada produciendo los efectos mayores y las habilidades productivas (hablar, escribir) ganando más que las receptivas, lo que respalda el uso de tecnologías emergentes, sobre todo en el nivel terciario, manteniendo expectativas realistas.
 - **Una revisión sistemática cartografía dónde es escasa la educación lingüística con IA en primaria.** En 31 estudios (2013-2025), el trabajo en aulas de lenguas de primaria se concentró en la expresión oral, la alfabetización y el vocabulario, mientras que la gramática, la comprensión auditiva y la lengua de signos apenas se estudiaron, y la mayoría de los diseños carecía de especificidad por curso ([[ai-elementary-language-education-review-2026|Hamasha et al., 2026]]).
 - **Use la IA para ampliar la práctica comunicativa, no para sustituirla.** Los [[ai-interlocutor-l2-spoken-dialogue|interlocutores de IA]] y los [[tact-pedagogically-adaptive-esl-tutoring|tutores adaptativos de inglés como segunda lengua]] amplían la práctica interactiva a escala: combínelos con interacción humana para que la fluidez y la incorporación se transfieran a la conversación real.
+- **Extienda el [[scaffolding|andamiaje]] de la IA a la lectura colaborativa.** Con 63 estudiantes chinos de grado en Filología Inglesa en un estudio de anotación social asistida por IA generativa, [[genai-social-annotation-epistemic-network-analysis-2026|Pan et al. (2026)]] encontraron que el chatbot elevó la implicación cognitiva y emocional y el rendimiento en lectura, y vincularon la [[community-of-inquiry|presencia social]] con la integración y la resolución, aunque los grupos de alto rendimiento usaron el andamiaje mucho más.
+- **Preparación, y no rendimiento observado.** En 708 estudiantes, una mayor práctica de la expresión oral asistida por IA se asoció con una mayor disposición a comunicarse con personas (β = 0,384) y con menor [[anxiety-and-stress|ansiedad]] ante hablar una lengua extranjera (β = −0,416), mientras que los escenarios con asistente de voz de IA redujeron aún más la ansiedad anticipada; ninguno de los dos estudios observó la expresión oral real con personas ([[ai-speaking-practice-communicative-readiness-2026|Wang y Li (2026)]]).
 - **Vigile la salida de la IA en busca de errores pragmáticos, no solo gramaticales.** Docentes de cinco métodos de enseñanza de lenguas en línea nombraron la ceguera pragmática, en la que la salida de la IA es gramaticalmente correcta pero errónea en tono, formalidad o cultura ([[ai-ethics-tensions-online-pedagogy-2026|Baoyi y Khan (2026)]]).
 - **Priorice la calidad del feedback sobre la cantidad en la expresión oral con apoyo de ASR.** [[asr-english-speaking-feedback-metacognition-2026|Chen et al. (2026)]] encuentran que la corrección precisa de errores y las tareas de reflexión estructurada mejoran la interiorización del [[feedback]] y el comportamiento reflexivo en la expresión oral en inglés universitario, mientras que el uso frecuente de ASR y la precisión del reconocimiento aumentan la motivación o la reflexión solo en parte: la precisión técnica por sí sola no impulsa una implicación cognitiva más profunda, y el nivel de competencia lingüística modera las ganancias (quienes aprenden con más nivel interiorizan el feedback de forma más eficaz). Esto aboga por un feedback pedagógicamente sólido (por ejemplo, explicaciones articulatorias en lugar de simples marcas de error), por una reflexión con andamiaje y por un apoyo diferenciado según el nivel.
 - **Dé pistas antes que correcciones.** Una tarea de ChatGPT de «pista antes que corrección», en la que quienes aprenden infieren las correcciones a partir de indicaciones guiadas en lugar de recibir correcciones directas, redujo la carga cognitiva y apoyó la revisión personalizada, pero el beneficio se mantuvo sobre todo en quienes ya tenían suficientes conocimientos previos (58 estudiantes, MCER A1–B1) ([[lukesova-clue-before-correction-2026|Lukešová y Jennings (2026)]]).
@@ -109,10 +111,6 @@ La calidad del diseño, y no la frecuencia de uso, fue lo que sostuvo el efecto 
 - [[llm-agents-5e-esl-grammar-2026]] — Agentes LLM con el marco 5E para la adquisición de gramática en inglés como segunda lengua (Yang, Weng y Yang 2026)
 - [[gpt-item-generation-l2-listening-2026]] — Prompts frente a ajuste fino de GPT para la generación de ítems de comprensión oral en L2 (Aryadoust y Wong 2026)
 - [[bert-discourse-english-teaching-2026]] — Clasificación del discurso con BERT para la enseñanza del inglés
-- [[alharbi-ethical-genai-eap-2026]]
-- [[sutama-chatgpt-eportfolio-speaking-2026]]
-- [[ni-lam-multiliteracies-ai-portfolio-2026]]
-- [[llms-text-linguistics-teaching-2026]] — Los LLM en la enseñanza de la lingüística del texto
 - [[ai-vs-human-assessment-efl-tpck-2026]] — Tareas de evaluación generadas por IA frente a desarrolladas por humanos en inglés como lengua extranjera
 - [[governing-unseen-ai-literacy-language-teachers-2026]] — Gobernar lo invisible: la alfabetización en IA del profesorado de lenguas
 - [[ai-guided-learning-audiovideo-2026]]
@@ -128,7 +126,6 @@ La calidad del diseño, y no la frecuencia de uso, fue lo que sostuvo el efecto 
 - [[instructor-designed-ai-tutors-foreign-language-sdt-2026]] — Tutores de IA diseñados por el profesorado en la enseñanza universitaria de lenguas extranjeras: un estudio de métodos mixtos sobre la motivación de quienes aprenden y la experiencia reflexiva de aprendizaje basada en la teoría de la autodeterminación
 - [[lukesova-clue-before-correction-2026]] — Pista antes de la corrección: ChatGPT para el aprendizaje autónomo de lenguas
 - [[chatgpt-english-language-learning-malaysia]] — Experiencias del estudiantado con ChatGPT en el aprendizaje del inglés
-- [[tts-dialogue-lessons-learner-characteristics-2026]] — Características de quienes aprenden × interacciones con el formato de diálogo de TTS
 - [[liu-emerging-tech-tefl-review-2026]] — Metaanálisis de tecnologías emergentes para el inglés como lengua extranjera
 - [[wang-goal-setting-ai-engagement-2026]] — Teoría del establecimiento de metas: apoyo del profesorado, metas de logro e implicación en el aprendizaje del inglés asistido por IA (758 estudiantes chinos)
 - [[li-language-educators-genai-review-2026]] — Prácticas y desarrollo del profesorado de lenguas con IA generativa
@@ -138,3 +135,5 @@ La calidad del diseño, y no la frecuencia de uso, fue lo que sostuvo el efecto 
 - [[llmersion-local-first-language-learning-2026]] — LLMersion: un marco de agente de IA local primero para el aprendizaje de lenguas en casa a bajo coste orientado a la equidad educativa
 
 - [[ai-ethics-tensions-online-pedagogy-2026]] — Ceguera pragmática: la salida lingüística de la IA puede ser gramaticalmente correcta pero culturalmente errónea
+- [[ai-speaking-practice-communicative-readiness-2026]] — Preparación, y no rendimiento observado
+- [[genai-social-annotation-epistemic-network-analysis-2026]] — Extender el andamiaje de la IA a la lectura colaborativa

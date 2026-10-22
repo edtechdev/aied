@@ -1,13 +1,13 @@
 ---
 title: "¿Cómo puede ahorrarme tiempo la IA como docente?"
 created: "2026-09-22T18:29:10-04:00"
-updated: "2026-10-02T09:09:37-04:00"
+updated: "2026-10-22T07:31:04-04:00"
 connected_faqs: [ai-feedback-at-scale, faculty-ai-competencies]
 weight: 78
 foundations: [ai-literacy, educational-development, teacher-role]
 assessment: [ai-feedback-quality]
 audience: [instructors, faculty developers]
-source_updated: "2026-10-02T08:21:34-04:00"
+source_updated: "2026-10-21T14:32:00-04:00"
 translation_of: faqs/ai-save-instructor-time
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
@@ -19,8 +19,6 @@ ai_assist:
 ---
 
 *Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa.*
-
-# ¿Cómo puede ahorrarme tiempo la IA como docente?
 
 **La IA encaja mejor en el trabajo repetitivo y de bajo riesgo de redacción y transformación, mientras que el juicio educativo de consecuencias sigue siendo del profesorado.** Entre los usos productivos están los primeros borradores de materiales de clase, ejemplos, preguntas de debate, cuestionarios [[formative-assessment|formativos]], explicaciones alternativas, rúbricas, sugerencias de retroalimentación, resúmenes, versiones diferenciadas de materiales y lenguaje administrativo de rutina. El mecanismo clave es la **reasignación, no la reducción**: la IA libera tiempo que el profesorado redirige hacia un trabajo instruccional de mayor valor, y ese mismo tiempo compra después más interacción individual con cada estudiante, retroalimentación más profunda y enseñanza de orden superior.
 

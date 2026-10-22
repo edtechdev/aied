@@ -6,7 +6,7 @@ confidence: medium
 technology: [educational-nlp, intelligent-tutoring, student-modeling, knowledge-tracing, adaptive-learning]
 pedagogy: [scaffolding, socratic-method]
 translation_of: concepts/educational-nlp
-source_updated: "2026-10-14T11:15:00-04:00"
+source_updated: "2026-10-15T10:00:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -97,4 +97,4 @@ La compresión de modelos pertenece al mismo conjunto de herramientas: un pipeli
 - [[bloom-classifier-ai-assisted-questions-2026]] — Evaluación de modelos preentrenados para la valoración pedagógica de preguntas educativas novedosas asistidas por IA
 - [[srjudge-knowledge-concept-tagging-2026]] — SRJudge: pipeline de razonamiento selectivo para el etiquetado fino de conceptos de conocimiento
 - [[nlp-reading-lists-dental-education-2026]] — Procesamiento de lenguaje natural para alinear las lecturas con los objetivos de aprendizaje y valorar el equilibrio temático en la educación odontológica
-- [[hans-handwritten-answer-sheet-parsing-2026]] — HANS: A Handwritten Answer Sheet Dataset for Noisy Hybrid Document Parsing
+- [[hans-handwritten-answer-sheet-parsing-2026]] — HANS: un conjunto de datos de hojas de respuestas manuscritas para el análisis de documentos híbridos con ruido

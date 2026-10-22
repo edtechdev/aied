@@ -1,7 +1,7 @@
 ---
 title: "¿Cómo evito que el estudiantado dependa en exceso de la IA?"
 created: "2026-09-22T18:57:28-04:00"
-updated: "2026-10-02T09:09:37-04:00"
+updated: "2026-10-22T07:28:33-04:00"
 connected_faqs: [study-with-ai, verify-ai-output, asynchronous-online-courses-ai, ai-disabled-neurodivergent-learners]
 weight: 80
 type: faq
@@ -12,7 +12,7 @@ ethics: [trust-calibration]
 research_method: [literature review, experiment]
 audience: [instructors, instructional designers]
 level: [higher ed, secondary, k 12]
-source_updated: "2026-10-02T08:21:34-04:00"
+source_updated: "2026-10-21T14:32:00-04:00"
 translation_of: faqs/reducing-over-reliance
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
@@ -24,8 +24,6 @@ ai_assist:
 ---
 
 *Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa.*
-
-# ¿Cómo evito que el estudiantado dependa en exceso de la IA?
 
 Tiene trabajos calificados que se leen mejor de lo que el estudiante puede explicarlos. Bordan el conjunto de problemas para casa y se quedan en blanco en el examen. Las calificaciones han dejado de predecir lo que comprenden, y sospecha que la herramienta es la que piensa.
 

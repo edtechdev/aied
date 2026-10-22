@@ -1,12 +1,13 @@
 ---
 title: "¿Cómo se debería diseñar la IA dentro de la experiencia de aprendizaje?"
 created: "2026-09-22T12:00:00-04:00"
-updated: "2026-10-02T09:09:37-04:00"
+updated: "2026-10-22T07:28:33-04:00"
 connected_faqs: [designing-educational-ai-software, developing-ai-tutor]
 weight: 72
+audience: [instructional designers, instructors]
 foundations: [learning-design, reducing-ai-misuse]
 pedagogy: [active-learning, pedagogy, scaffolding]
-source_updated: "2026-10-02T08:21:34-04:00"
+source_updated: "2026-10-21T14:32:00-04:00"
 translation_of: faqs/designing-ai-into-learning
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
@@ -18,8 +19,6 @@ ai_assist:
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
-
-# ¿Cómo se debería diseñar la IA dentro de la experiencia de aprendizaje?
 
 **Empiece por el objetivo y el proceso de aprendizaje, no por la función de IA.** El concepto de [[pedagogy|Pedagogías y estrategias de enseñanza]] de esta base de conocimiento subraya que una misma IA puede funcionar como andamiaje, interlocutor [[socratic-method|socrático]], compañero de retroalimentación, [[simulation|simulación]] o generador de respuestas, según cómo se diseñe la enseñanza. Lo que importa es si esa configuración conserva la actividad que produce el aprendizaje previsto.
 

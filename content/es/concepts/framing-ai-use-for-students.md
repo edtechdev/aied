@@ -1,7 +1,7 @@
 ---
 title: Enmarcar el uso de la IA para el estudiantado
 created: "2026-09-28T20:16:26-04:00"
-updated: "2026-10-09T17:40:00-04:00"
+updated: "2026-10-22T07:45:27-04:00"
 type: concept
 foundations: [academic-integrity, ai-literacy]
 pedagogy: [collaborative-learning, motivation]
@@ -44,6 +44,8 @@ El concepto se sitúa entre otros dos más familiares. Donde el [[technology-acc
 ## Por qué importa el encuadre
 
 El encuadre importa porque **las políticas y las reglas no cambian la conducta por sí solas de forma fiable**. La [[research-methods-aied|investigación]] con encuestas sobre la conciencia [[regulation|regulatoria]] encuentra que el conocimiento que tiene el estudiantado de las normas institucionales sobre IA generativa muestra solo asociaciones débiles o moderadas con lo que hace en realidad: la mayoría del estudiantado usa herramientas de [[generative-ai|IA generativa]], más de la mitad no está seguro de si su uso cumple las regulaciones institucionales, y se apoya en herramientas de acceso privado en lugar de las que proporciona la institución.([[student-regulatory-awareness-genai]]) Conocer las reglas es necesario pero no suficiente; el mensaje tiene que *persuadir*, no solo informar.
+
+El encuadre diferenciado puede originarse dentro de una misma política y no solo entre sitios: un análisis de sentimiento de 36 políticas universitarias encontró que las declaraciones sobre docencia estaban enmarcadas de forma positiva mientras que las declaraciones sobre IA generativa y ética lo estaban de forma negativa, de modo que el estudiantado encontraba en un mismo documento tanto un estímulo como una contención ([[sun-governing-genai-policy-cross-national-2026|Sun et al. (2026)]]).
 
 El encuadre también determina si el estudiantado vive la IA como una **amenaza que hay que evitar o esquivar** o como un **recurso que hay que usar de forma deliberada**. Cuando las instituciones responden a la IA con miedo y condena —lo que una línea de trabajo llama un «pánico moral» recurrente— empujan al estudiantado a ocultar o racionalizar su uso en lugar de aprender a usarla bien.([[moral-panic-genai-classroom]]) Reencuadrar la ansiedad y la condena como una oportunidad estructurada cambia toda la dinámica de la [[student-engagement|implicación del estudiantado]] con la IA.
 

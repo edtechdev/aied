@@ -1,7 +1,7 @@
 ---
 title: "Educación ambiental"
 created: "2026-09-28T18:15:49-04:00"
-updated: "2026-09-28T18:15:49-04:00"
+updated: "2026-10-22T07:28:42-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [inquiry-based-learning, situated-learning, critical-pedagogy]
@@ -11,7 +11,7 @@ institutions: [educational-policy-ai, governance]
 discipline: [environmental education]
 confidence: medium
 translation_of: concepts/environmental-education
-source_updated: "2026-09-20T12:40:00-04:00"
+source_updated: "2026-10-21T21:15:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -22,6 +22,8 @@ ai_assist:
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
+
+> **Educación ambiental** — la enseñanza sobre el clima, la sostenibilidad y el mundo natural, que en la [[ai-education|IA en la educación]] se ha convertido en dos cosas a la vez: una materia que la IA puede apoyar mediante el aprendizaje por [[inquiry-based-learning|indagación]] y [[situated-learning|situado]], y un coste que la propia IA impone, ya que los [[llm|modelos de lenguaje]] intensivos en energía que se ejecutan en el portátil de cada estudiante conllevan una huella ambiental propia. La base de conocimiento trata ambas mitades en conjunto, porque la educación para la [[sustainability|sostenibilidad]] impartida con una herramienta intensiva en carbono plantea una pregunta que ningún marco responde por sí solo.
 
 ## Preguntas para reflexionar
 

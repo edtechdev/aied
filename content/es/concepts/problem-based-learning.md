@@ -1,7 +1,7 @@
 ---
 title: Aprendizaje basado en problemas
 created: "2026-09-28T20:10:47-04:00"
-updated: "2026-10-03T02:57:43-04:00"
+updated: "2026-10-22T07:31:04-04:00"
 type: concept
 foundations: [critical-thinking]
 pedagogy: [active-learning, collaborative-learning, scaffolding]
@@ -10,7 +10,7 @@ discipline: [medical education, engineering education]
 level: [higher ed]
 confidence: high
 translation_of: concepts/problem-based-learning
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-15T10:00:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:

@@ -1,7 +1,7 @@
 ---
 title: Teoría de la autodeterminación
 created: "2026-09-28T18:17:50-04:00"
-updated: "2026-10-02T21:24:18-04:00"
+updated: "2026-10-22T07:28:08-04:00"
 type: concept
 foundations: [ai-education, teacher-ai-competency]
 pedagogy: [motivation, self-determination-theory]
@@ -9,7 +9,7 @@ technology: [affective-computing]
 audience: [learners]
 confidence: high
 translation_of: concepts/self-determination-theory
-source_updated: "2026-09-30T12:53:22-04:00"
+source_updated: "2026-10-17T07:38:51-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -43,6 +43,8 @@ La SDT se usa cada vez más en la [[research-methods-aied|investigación]] sobre
 **La SDT en la implicación en el aprendizaje mediado por IA** examina cómo las herramientas de [[generative-ai|IA generativa]] configuran la motivación del estudiantado. **[[students-engagement-with-generative-ai-in-academic-learning-a-self-determination|Isaeva et al.]]** combinaron la SDT con el [[network-analysis|análisis de redes epistémico]] para estudiar la implicación del estudiantado con la IA generativa en el aprendizaje académico. **[[ai-availability-student-motivation]]** explora cómo la disponibilidad de la IA afecta la motivación y la persistencia del estudiantado, en conexión con las preocupaciones sobre la [[cognitive-offloading|dependencia excesiva]] y la erosión de la motivación. **[[liang-ai-learning-motivation-sdt-2026|Liang et al. (2026)]]** extienden la SDT al aprendizaje con IA con un análisis de transición latente de **2.086 estudiantes de secundaria** en un [[curriculum-design|currículo]] de IA de un año, identificando **tres perfiles motivacionales (Desimplicado, En desarrollo, Autodeterminado)** que se mantuvieron estables en el tiempo y mostrando que la mayoría del estudiantado mantuvo o avanzó hacia perfiles superiores. De forma crucial, quienes alcanzaban o se mantenían en el perfil Autodeterminado mostraban las **mayores ganancias de [[ai-literacy|alfabetización en IA]]**: evidencia longitudinal directa de que satisfacer la autonomía, la competencia y la relación con los demás predice mejores resultados de aprendizaje con IA, y de que la motivación es una propiedad evolutiva (no fija) de quien aprende.
 
 Un resultado de aula que contrasta muestra que las necesidades no se mueven juntas: entre 2.464 estudiantes de secundaria inferior, el aprendizaje competencial apoyado por ChatGPT elevó el apoyo a la autonomía y la satisfacción de la competencia, pero produjo una mayor proporción de perfiles motivacionales de baja calidad, y la satisfacción de la relación con los demás fue más débil que en el aprendizaje competencial sin IA ([[student-motivation-need-satisfaction-genai-sdt-2026|Schweder, Hagenauer y Raufelder (2026)]]).
+
+Aquí la ganancia motivacional la aportó la autonomía, no la facilidad. Un [[rct|ECA]] de tres brazos encontró que un tutor que retenía las pistas y mantenía al estudiantado construyendo su propia solución fue el único brazo que elevó la motivación intrínseca (2,82 frente a 2,42), mientras que un ChatGPT sin restricciones, que entrega la respuesta, no lo logró (2,64, p = 0,076) ([[bassner-performance-learning-dissociation-ai-programming-2026|Bassner et al. (2026)]]).
 
 Una prueba configuracional afina el argumento: entre 498 estudiantes universitarios de medicina, el uso de IA generativa solo se asoció débilmente con la satisfacción de las necesidades (β = 0,155) y resultó innecesario para una implicación alta, mientras que la satisfacción de la necesidad de competencia fue la condición central en la configuración más fuerte ([[genai-learning-engagement-medical-undergraduates-2026|He et al. (2026)]]).
 
@@ -92,3 +94,4 @@ La SDT se conecta directamente con la [[motivation|motivación]] como su constru
 - [[student-motivation-need-satisfaction-genai-sdt-2026]] — Motivación del estudiantado y satisfacción de necesidades en aulas con IA generativa (Schweder, Hagenauer y Raufelder 2026)
 - [[genai-learning-engagement-medical-undergraduates-2026]] — El uso de IA generativa está débilmente ligado a la satisfacción de necesidades y es innecesario para una implicación alta (He et al. 2026)
 - [[teacher-ai-collaboration-work-engagement-2026]] — Vías duales de la colaboración docente–IA hacia la implicación laboral, moderadas por la competencia digital
+- [[bassner-performance-learning-dissociation-ai-programming-2026]] — Retener las pistas preservó la autonomía donde darla respuesta no lo hizo

@@ -1,7 +1,7 @@
 ---
 title: Educación en ingeniería
 created: "2026-09-28T18:15:33-04:00"
-updated: "2026-10-02T21:20:37-04:00"
+updated: "2026-10-22T07:28:33-04:00"
 type: concept
 foundations: [ai-literacy, educational-development]
 assessment: [assessment]
@@ -12,7 +12,7 @@ audience: [learners, instructors, faculty developers]
 level: [higher ed]
 confidence: high
 translation_of: concepts/engineering-education
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-21T12:05:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -66,6 +66,8 @@ La educación en ingeniería se sitúa dentro de la [[stem-education|educación 
 
 La cobertura de la educación en ingeniería en la base de conocimiento sigue en desarrollo. Entre las subáreas que se beneficiarían de más artículos están las **[[pedagogy|pedagogías]] de la ingeniería [[discipline-specific-aied|específicas de cada disciplina]]** (educación en ingeniería mecánica, civil, química, eléctrica, del software y biomédica), la **[[design-education|educación en diseño]] y de creadores**, el **trabajo final de grado y el [[project-based-learning|aprendizaje basado en proyectos]]**, y la **educación en ética de la ingeniería**, donde el papel de la IA probablemente sea especialmente determinante.
 
+Ese vacío ya no está vacío en un área: un programa de tres años de ingeniería biomédica usó la IA generativa como andamiaje vigilado de resumen de conocimiento y de programación dentro de una secuencia de ABP de cuatro módulos —herramientas aprobadas, sin datos de pacientes, registros de divulgación— e informó de tasas de calificación A del 66,4% frente al 39,1% de las cohortes anteriores a la IA ([[pbl-biomedical-engineering-genai-2026|Nnamdi et al. (2026)]]).
+
 ## Implicaciones para el profesorado de ingeniería
 
 - **Construya un lenguaje compartido y preciso sobre la IA.** [[engineering-faculty-metaphors-ai-understanding-2026|La investigación sobre las metáforas del profesorado]] encuentra que este sostiene modelos mentales fundamentalmente distintos (agente frente a herramienta); alinee la comprensión departamental antes de formular políticas.
@@ -102,7 +104,6 @@ La cobertura de la educación en ingeniería en la base de conocimiento sigue en
 - [[multimodal-embodied-cognition-oral-explanations-2026]] — Un marco multimodal para la cognición corporeizada en las explicaciones orales
 - [[ai-engineering-computing-workforce-grey-literature-2026]] — La IA y el futuro de la fuerza laboral de la ingeniería y la informática
 - [[ai-engineering-education-balancing-act]] — Usar la IA en la educación en ingeniería: un acto de equilibrio
-- [[ai-learning-tools-engineering-education-needs]] — Diseñar herramientas de aprendizaje con IA conscientes de las necesidades y la atención para la educación en ingeniería
 - [[structured-ai-demonstrations-engineering-mechanics]] — Demostraciones estructuradas con IA en mecánica de la ingeniería
 - [[isaza-chatgpt-engineering-prompting-2026]] — ChatGPT en la educación en ingeniería
 - [[liu-ai-sustainable-engineering-education-2026]] — Marco AI-SEE para una educación en ingeniería sostenible (Liu et al. 2026)

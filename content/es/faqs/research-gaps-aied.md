@@ -1,7 +1,7 @@
 ---
 title: "¿Cuáles son las lagunas notables en la literatura de investigación sobre la IA en la educación?"
 created: "2026-09-22T18:29:05-04:00"
-updated: "2026-10-02T09:09:37-04:00"
+updated: "2026-10-22T07:28:42-04:00"
 connected_faqs: [reporting-interpreting-aied-research, evaluating-ai-interventions-methods, equity-ethics-pedagogical-safety-research]
 weight: 45
 type: faq
@@ -11,9 +11,10 @@ assessment: [learning-gains]
 ethics: [equity-in-ai-education, differential-effects-across-learner-groups]
 research_method: [literature review]
 level: [higher ed]
+audience: [researchers, instructors]
 page_kind: [evaluation]
 methods: [ai-ed-evaluation, research-methods-aied]
-source_updated: "2026-10-02T08:21:34-04:00"
+source_updated: "2026-10-21T14:32:00-04:00"
 translation_of: faqs/research-gaps-aied
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
@@ -25,8 +26,6 @@ ai_assist:
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
-
-# ¿Cuáles son las lagunas notables en la literatura de investigación sobre la IA en la educación?
 
 Las lagunas más trascendentes en la IA en la educación (AIEd) se refieren a **si determinados diseños educativos producen beneficios duraderos, para quién, mediante qué mecanismos y en qué condiciones, y no simplemente a si la IA puede realizar tareas educativas**. Esta base de conocimiento documenta intervenciones prometedoras junto con debilidades persistentes en medición, inferencia causal, generalizabilidad, implementación y reproducibilidad. A menudo son lagunas en la *fuerza, especificidad o aplicabilidad* de la evidencia, más que una ausencia total de investigación. Véase [[limitations-in-aied-research|Limitaciones en la investigación sobre AIEd]].
 

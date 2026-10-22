@@ -1,7 +1,7 @@
 ---
 title: Robots en la educación
 created: "2026-09-28T19:11:29-04:00"
-updated: "2026-10-02T21:34:05-04:00"
+updated: "2026-10-22T07:34:46-04:00"
 type: concept
 foundations: [computational-thinking]
 pedagogy: [embodied-learning]
@@ -11,7 +11,7 @@ discipline: [stem education, cs education]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/educational-robotics
-source_updated: "2026-10-01T09:59:02-04:00"
+source_updated: "2026-10-21T10:45:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -72,6 +72,7 @@ La **interacción persona–robot (HRI)** es el estudio interdisciplinar de cóm
 - **Dos paradigmas para los aprendices pequeños: robots de codificación y robots sociales generativos.** [[creative-project-approach-ai-early-childhood-2025|Yang, Li y Lee (2025)]] enmarcan la robótica en la primera infancia como el emparejamiento de dos paradigmas [[pedagogy|pedagógicos]], cada uno con una base teórica distinta. Los **robots de codificación** (Bee-Bot, KIBO, Matatalab) descienden del LOGO de Papert y encarnan el [[constructivist|construccionismo]]: el alumnado aprende haciendo y construye el [[computational-thinking|pensamiento computacional]] mediante la programación tangible. Los **robots sociales generativos**, impulsados por [[generative-ai|IA generativa]], se fundamentan en el [[sociocultural-learning|constructivismo social]] y actúan como pares o tutores conversacionales que [[scaffolding|andamian]] el aprendizaje dentro de la Zona de Desarrollo Próximo del alumnado y apoyan el desarrollo socioemocional. Su **Enfoque de Proyecto Creativo** de cinco pasos para integrar ambos tipos de robot en el Enfoque de Proyectos mantiene al profesorado como facilitador que guía la interacción alumnado–robot, equilibra la automatización con la [[creativity|creatividad]] y preserva la [[agency|agencia]] del alumnado.
 
 - **Qué hace realmente la robótica de pensamiento computacional en el jardín de infancia.** Una revisión sistemática de 53 estudios encontró que el aprendizaje basado en problemas, la narración de historias y el andamiaje eran las estrategias más usadas, y que la mayoría de los estudios no nombraban ningún marco de pensamiento computacional y usaban herramientas de evaluación ad hoc en lugar de un instrumento validado como TechCheck-K ([[tsingidou-ct-robotics-kindergarten-2026|Tsingidou y Sapounidis (2026)]]).
+- **Planificación con LLM en lugar de conversación.** [[vlm-task-planning-humanoid-robot-autism-education-2026|Kudláčková (2026)]] usa un modelo de visión-lenguaje para convertir fotografías de Shoebox Tasks —actividades visualmente estructuradas que se emplean con estudiantes del espectro autista— en un problema PDDL que un humanoide Nao ejecuta o demuestra, con la corrección del plan puntuada en seis tareas y no con ningún resultado del estudiantado.
 
 ### Corporeización y pedagogía
 
@@ -131,3 +132,4 @@ Un tema definitorio es que los robots son eficaces cuando apoyan objetivos de ap
 - [[arc-hubs-k12-ai-robotics-rural-2026]] — ARC: un marco basado en nodos que trata la capacidad de mentoría técnica y la geografía de los nodos, y no el hardware, como la restricción de los programas rurales de robótica en K-12 (Jacobson et al. 2026)
 - [[teaching-rl-humanoid-robotics-high-school-2026]] — Enseñar aprendizaje por refuerzo y robótica humanoide a estudiantado de secundaria: un diseño curricular validado por expertos sobre una plataforma abierta de bajo coste
 - [[aifred-desk-robotic-ai-guidance-2026]] — Un proyector robótico montado sobre el escritorio: la guía colocalizada preservó la transferencia donde ChatGPT en un portátil la perdió
+- [[vlm-task-planning-humanoid-robot-autism-education-2026]] — Un modelo de visión-lenguaje planifica Shoebox Tasks para un robot Nao (Kudláčková 2026)

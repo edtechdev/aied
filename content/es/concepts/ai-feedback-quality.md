@@ -1,7 +1,7 @@
 ---
 title: Calidad de la retroalimentación de la IA
 created: "2026-09-28T21:02:41-04:00"
-updated: "2026-10-04T17:15:18-04:00"
+updated: "2026-10-22T07:28:08-04:00"
 connected_faqs: [ai-save-instructor-time, ai-feedback-at-scale, checking-whether-educational-ai-works]
 type: concept
 foundations: [ai-literacy]
@@ -9,7 +9,7 @@ technology: [generative-ai]
 assessment: [ai-feedback-quality, automated-assessment, feedback, formative-assessment]
 confidence: high
 translation_of: concepts/ai-feedback-quality
-source_updated: "2026-10-04T05:15:29-04:00"
+source_updated: "2026-10-21T10:45:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -57,6 +57,8 @@ Una comparación controlada aísla el componente de retroalimentación del siste
 
 - **Retroalimentación de la calificación automatizada:** la investigación sobre la [[automated-assessment|calificación automatizada]] y la [[formative-assessment|evaluación formativa]] examina si las [[assessment|evaluaciones]] puntuadas por IA ofrecen una retroalimentación que iguala o supera la calidad de la calificación humana.
 
+**La retroalimentación domina la práctica, pero su calidad rara vez es el resultado que se mide.** La retroalimentación y la tutoría fueron los usos efectivamente puestos en práctica que se reportaron con más frecuencia en 394 estudios de IA generativa en educación superior, y sin embargo la calidad de la retroalimentación estuvo entre los resultados menos abordados ([[mapping-genai-higher-ed-scoping-review|Lin et al. (2026)]]).
+
 - **Retroalimentación de la puntuación de ensayos:** [[cong-confidence-asag-2026|la calificación de respuestas cortas consciente de la confianza]] y [[choi-anchor-aes-prompting-2025|la puntuación automatizada de ensayos basada en anclas]] exploran cómo la calibración de la confianza y el diseño de los [[prompt-engineering|prompts]] afectan a la calidad de la retroalimentación en la evaluación de la escritura.
 
 - **Retroalimentación restringida por la evidencia y adaptativa al riesgo:** [[risk-adaptive-genai-feedback-programming-2026|Wang (2026)]] separa tres funciones que la investigación sobre retroalimentación suele evaluar juntas: predecir qué estado de fallo persistirá, decidir cuándo debe gastarse la capacidad limitada de apoyo y generar retroalimentación cuyas afirmaciones se mantengan dentro de la evidencia registrada. A lo largo de 2993 estados de entrega fallida de 215 estudiantes, un modelo de riesgo calibrado seleccionó el 17,8% de los estados de prueba elegibles y capturó el 25,2% de los fallos persistentes observados, y tras una pasada de reparación estandarizada 519 de 544 mensajes generados contenían todos los componentes requeridos. El momento de entrega y el anclaje en la evidencia se suman así a la calidad lingüística y a la recuperabilidad como dimensiones sobre las que hay que juzgar un sistema de retroalimentación.
@@ -69,6 +71,8 @@ Una comparación controlada aísla el componente de retroalimentación del siste
 - **La ventaja puede venir de un ejemplo resuelto, no de la retroalimentación correctiva.** Practicar cartas de presentación con IA superó a la retroalimentación de editores humanos con experiencia en una tarea posterior sin ayuda (d = .20), y el mero hecho de ver una carta revisada por IA igualó a practicar con la herramienta, así que la ganancia siguió al ejemplo ([[coach-not-crutch-ai-writing|Lira et al. (2025)]]).
 
 - **La etiqueta de la fuente frente a la calidad de la retroalimentación:** [[perceptions-teacher-vs-ai-feedback-bias-2026|Mertens et al. (2026)]] separan la *fuente* de la retroalimentación de su calidad manteniendo constante el contenido: 401 docentes valoraron mensajes de retroalimentación generados todos con GPT-4-turbo pero etiquetados aleatoriamente como generados por el profesorado o por [[generative-ai|ChatGPT]], y solo la etiqueta desplazó la credibilidad (b = 0,21), la utilidad (b = 0,47) y la justicia (b = 0,48, todas p < 0,001), y el 73% prefirió el mensaje etiquetado como del profesorado, t(400) = 15,55, d = 0,78. Los ítems dirigidos al proveedor fueron los que más se movieron —el esfuerzo percibido (b = 1,34) y la disposición a apoyarse en él (b = 1,45)—, y una explicación escrita de cómo funciona ChatGPT no cambió nada (interacciones ps ≥ 0,399), lo que apunta a la [[trust|confianza]], a la [[teacher-role|identidad profesional]] y al [[bias-mitigation|sesgo endogrupal]] de quien valora y no a ninguna deficiencia de la propia retroalimentación. La calidad percibida puede por tanto descontarse por su procedencia incluso cuando el contenido es idéntico, lo que significa que una herramienta genuinamente buena puede atascarse en el punto de uso.
+
+- La credibilidad no se reduce a la calidad: [[chatgpt-feedback-credibility-perceived-learning|Pérez-López et al. (2026)]] encontraron que la competencia percibida del estudiantado con ChatGPT y su percepción de la empatía humana de la herramienta predecían la credibilidad de su retroalimentación, mientras que la calidez percibida actuaba solo a través de esa empatía.
 
 - **La etiqueta de la fuente frente a la calidad de la retroalimentación, del lado del estudiantado:** [[nazaretsky-feedback-source-bias-2025|Nazaretsky et al. (2025)]] realizaron la contraparte del lado del estudiantado, en la que 472 estudiantes de la EPFL de seis cursos valoraron la retroalimentación sobre sus propias tareas a ciegas respecto a su fuente y de nuevo tras revelarla, y la mayoría no pudo distinguir las dos variantes (287 de 472 acertaron). Las valoraciones se movieron entonces en direcciones opuestas —de forma significativa en Autenticidad (p < 0,01)—, con las fuentes humanas valoradas como más creíbles (μ = 3,28, σ = 0,77) que la IA (μ = 2,25, σ = 0,85, d de Cohen = 0,57). La atribución errónea fue sobre todo en una dirección: de 219 casos de retroalimentación humana mal valorada, 205 se leyeron como de IA, así que la calidad percibida y la identidad percibida se remodelan mutuamente en ambas direcciones, y no es que la etiqueta se limite a descontar un texto idéntico.
 
@@ -104,6 +108,8 @@ La calidad de la retroalimentación de la IA abarca varias dimensiones recogidas
 - **Criterios de publicación puntuados por un verificador.** LearnLens puntúa la retroalimentación generada según su precisión científica, claridad y especificidad e itera un bucle de verificación y revisión hasta que todos los criterios superan un umbral, usando un modelo fundacional *distinto* del generador para evitar el sesgo de familia de modelos; su puntuación quedó un 8–13% por debajo de todas las líneas base en MSE (3,190) ([[zhao-learnlens-feedback-educators-loop|Zhao et al. (2025)]]).
 - **Comprensibilidad en la propia lengua de quien aprende.** La retroalimentación solo cierra una brecha si quien aprende puede seguir la explicación y no solo el aviso. El Tutor de IA Kwara-STEM, un modelo localizado ajustado con los currículos nacionales de educación técnica, daba pequeñas indicaciones al estudiantado en lugar de entregarle las respuestas e incluía una función «Clarify» que traducía los términos técnicos complejos al yoruba o al nupe, de modo que la corrección en tiempo real llegaba al contexto lingüístico propio de quien aprende ([[real-time-ai-feedback-technical-skills-2026|Muritala, Ahmed y Olumorin, 2026]]). La explicación en la propia lengua es una condición de la utilidad de la retroalimentación sincrónica, no un añadido decorativo.
 - **La cobertura no es la alineación.** Seis LLM bajo tres estrategias de prompting produjeron cada uno la mayoría de los siete tipos de foco de retroalimentación, pero su distribución entre esos tipos divergía de la del profesorado (la mejor divergencia de Jensen-Shannon 0,134, la peor 0,270), así que la amplitud de la cobertura y el ajuste distribucional son señales de calidad distintas ([[llm-feedback-focus-adaptivity-student-writing-2026|Almousa et al., 2026]]).
+- **La cobertura por campos es desigual.** Una síntesis de 68 estudios sobre retroalimentación generada por IA encuentra que la evidencia se agrupa en torno a si la retroalimentación es precisa y está fundamentada (47 estudios) y a si ayuda a quien aprende (58), mientras que la alineación con la rúbrica y con la tarea —si la retroalimentación responde a los requisitos propios de la tarea— aparece solo en 19 ([[evidence-grounded-framework-ai-generated-educational-feedback-2026|Yang (2026)]]).
+- **Las valoraciones por criterio divergen dentro de un mismo conjunto de mensajes.** Seis personas evaluadoras que puntuaron 157 mensajes valoraron más los ejercicios de práctica (95,5%), mientras que la especificidad diagnóstica (41,1%) y la claridad y el tono (33,4%) quedaron rezagadas, y el profesorado valoró la accionabilidad con más generosidad que las demás personas evaluadoras (84,5% frente a 59,9%) ([[llm-feedback-handwritten-mathematics-exam-performance-2026|Vanhoyweghen et al. (2026)]]).
 
 ### Conexión con conceptos más amplios
 
@@ -164,3 +170,5 @@ La calidad de la retroalimentación de la IA se conecta de forma fundamental con
 - [[intelligent-tutoring-mathematics-education-review-2026]] — Revisión narrativa de la tutoría con IA en matemáticas: ganancias de la retroalimentación en tiempo real y condiciones de implementación
 - [[agent-type-feedback-style-self-directed-learning-2026]] — Estilos de retroalimentación socrática frente a directiva: monitorización de la comprensión frente a priorización, y el coste de carga cognitiva
 - [[when-students-prefer-ai-scoring-feedback-2026]] — Calidad de la retroalimentación de IA percibida por el estudiantado: comprensible pero repetitiva, fiable para la mecánica y no para la interpretación
+- [[evidence-grounded-framework-ai-generated-educational-feedback-2026]] — Tres dimensiones de evaluación a través de 68 estudios, con la alineación con la rúbrica como la más delgada (Yang 2026)
+- [[llm-feedback-handwritten-mathematics-exam-performance-2026]] — Divergencia por criterio y por evaluador en 157 mensajes de retroalimentación valorados (Vanhoyweghen et al. 2026)

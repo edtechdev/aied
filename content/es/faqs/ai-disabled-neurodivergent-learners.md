@@ -1,7 +1,7 @@
 ---
 title: "¿Cómo puede la IA apoyar al estudiantado con discapacidad y neurodivergente en mi curso?"
 created: "2026-09-22T18:32:58-04:00"
-updated: "2026-10-02T09:09:37-04:00"
+updated: "2026-10-22T07:28:08-04:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, reducing-over-reliance]
 weight: 65
 type: faq
@@ -10,7 +10,7 @@ ethics: [accessibility, assistive-technology, equity-in-ai-education, inclusive-
 research_method: [case study]
 audience: [instructors, instructional designers]
 level: [higher ed, k 12, special education]
-source_updated: "2026-10-02T08:21:34-04:00"
+source_updated: "2026-10-21T14:32:00-04:00"
 translation_of: faqs/ai-disabled-neurodivergent-learners
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
@@ -22,8 +22,6 @@ ai_assist:
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
-
-# ¿Cómo puede la IA apoyar al estudiantado con discapacidad y neurodivergente en mi curso?
 
 Usted es el docente que acaba de recibir una carta de ajustes, la persona responsable de accesibilidad que decide si aprobar una licencia, o el coordinador de servicios de discapacidad que tiene que responder a una solicitud de herramienta para el viernes. No necesita una revisión de la literatura. Necesita una decisión defendible: qué adoptar, qué rechazar y cómo saber si lo que aprobó ayudó de verdad al estudiante que tiene delante.
 

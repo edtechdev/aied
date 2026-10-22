@@ -1,9 +1,10 @@
 ---
 title: "¿Cuáles son las buenas prácticas para desarrollar un tutor de IA eficaz?"
 created: "2026-09-22T18:57:28-04:00"
-updated: "2026-10-02T09:09:37-04:00"
+updated: "2026-10-22T07:28:42-04:00"
 connected_faqs: [training-ai-tutors-to-guide-rather-than-answer, making-ai-better-at-supporting-learning, checking-whether-educational-ai-works, designing-educational-ai-software]
 weight: 74
+audience: [educational technology developers, software developers, instructional designers]
 type: faq
 foundations: [learner-identity]
 pedagogy: [scaffolding]
@@ -12,7 +13,7 @@ assessment: [feedback]
 discipline: [math education, writing education]
 methods: [ai-ed-evaluation]
 ethics: [pedagogical-safety]
-source_updated: "2026-10-02T08:21:34-04:00"
+source_updated: "2026-10-21T14:32:00-04:00"
 translation_of: faqs/developing-ai-tutor
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
@@ -24,8 +25,6 @@ ai_assist:
 ---
 
 *Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa.*
-
-# ¿Cuáles son las buenas prácticas para desarrollar un tutor de IA eficaz?
 
 Un tutor de IA eficaz debería diseñarse como un **sistema de aprendizaje, no como un [[conversational-ai|chatbot]] generador de respuestas**. El tema más recurrente en esta base de conocimiento es que la estructura [[pedagogy|pedagógica]] (diagnóstico, andamiaje, retroalimentación, agencia del estudiante y evaluación) importa al menos tanto como el modelo subyacente. Los dos ejemplos desarrollados a continuación (un tutor de cálculo y un coach de escritura) muestran cómo una misma arquitectura central debe adaptarse a lo que la disciplina exige de quien aprende.
 

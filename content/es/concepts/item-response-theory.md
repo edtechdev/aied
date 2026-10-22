@@ -1,13 +1,13 @@
 ---
 title: Teoría de respuesta al ítem
 created: "2026-09-28T19:10:33-04:00"
-updated: "2026-10-09T17:40:00-04:00"
+updated: "2026-10-22T07:28:42-04:00"
 type: concept
 technology: [knowledge-tracing, student-modeling]
 assessment: [assessment-validity, educational-measurement, psychometrically-aware-ai]
 confidence: medium
 translation_of: concepts/item-response-theory
-source_updated: "2026-10-05T08:24:47-04:00"
+source_updated: "2026-10-16T09:45:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -45,7 +45,9 @@ La TRT trata la habilidad (θ) y los parámetros de los ítems (dificultad, disc
 - **Trazado de conocimiento y modelado del estudiantado:** la TRT está estrechamente relacionada con el [[knowledge-tracing|trazado de conocimiento]] y el [[student-modeling|modelado del estudiantado]] — modelos que siguen el conocimiento de quien aprende a lo largo del tiempo — y comparte el objetivo de estimar estados no observables de quien aprende a partir de respuestas observables.
 
 - **Cantidades de la TRT leídas de los logits de un LLM.** [[huang-interpretable-knowledge-tracing-2026|Huang et al. (2026)]] extraen la habilidad del estudiantado θ = z^GOOD − z^BAD y la dificultad del turno del tutor d = z^HARD − z^EASY de los logits del siguiente token y las combinan en un predictor Rasch 1PL, lo que hace interpretable el trazado de conocimiento basado en diálogo (64,29% de precisión, 65,25 de AUC en QATD2k).
+- **Subtareas de diálogo en la misma escala que las preguntas.** [[unified-irt-framework-question-tutoring-dialogue-2026|Duan et al. (2026)]] reescriben las subtareas que el tutor plantea a mitad de diálogo como preguntas autónomas y las sitúan en una única escala TRI 1PL compartida cuya dificultad proviene del texto de la pregunta, usando los movimientos de andamiaje tras el esfuerzo y de exigencia de rigor como supervisión para ordenar la dificultad.
 - **Validación de campo jerárquica bayesiana:** [[assessing-quality-ai-generated-exams-field-2025|Evaluar la calidad de exámenes generados por IA]] usa un modelo de TRT 2PL jerárquico bayesiano (con ítems ancla de pretest para situar a 1.686 estudiantes en una escala θ común) para mostrar que las preguntas generadas por IA igualan a los ítems de exámenes estandarizados escritos por especialistas en dificultad y discriminación: una demostración a gran escala de la TRT como columna vertebral de validación de la [[automated-question-generation|generación automática de preguntas]].
+- **Un [[benchmark|referente]] alineado con estándares puede saturarse.** En conjuntos de ciencias de [[k-12|secundaria]] y bachillerato alineados con los NGSS, la mayoría de los modelos de pesos abiertos puntuaron por encima del 90%, lo que dejó pobres las métricas clásicas de ítem —dificultad alta, discriminación baja, con celdas triviales por encima del 90%—, de modo que los autores no pueden separar los ítems débiles de un dominio que se ha vuelto abordable ([[llm-benchmark-secondary-science-topics-2026|Schroeder et al. (2026)]]).
 - **La información del test localiza la precisión.** Una prueba de alfabetización en IA generativa de 20 ítems validada con un modelo 2PL (RMSEA = 0,03, CFI = 0,97) tenía su función de información con un pico en θ = −0,8, lo que la hace más precisa para estudiantes de alfabetización baja a moderada en lugar de uniforme en toda la escala ([[jin-glat-genai-literacy-assessment|Jin et al. (2025)]]).
 
 - **Separar las respuestas humanas de las de IA generativa con estadísticos de ajuste de persona:** [[irt-human-genai-mcq-responses|Strugatski y Alexandron (2026)]] aplican estadísticos de ajuste de persona (PFS) dentro de la TRT para distinguir las respuestas humanas de las de [[generative-ai|IA generativa]] en evaluaciones de opción múltiple. Los PFS marcan las respuestas de IA generativa como respondientes «aberrantes» en dos contextos auténticos (un examen de [[chemistry-education|química]] y un examen nacional), muestran que distintos [[conversational-ai|chatbots]] producen patrones de respuesta diferentes (un grupo heterogéneo de «inteligencias») y revelan que las versiones más nuevas de IA generativa se vuelven más parecidas a las humanas, lo que posiciona la TRT como un marco robusto para el cribado de [[academic-integrity|integridad]] en pruebas de alto impacto.
@@ -83,6 +85,7 @@ La TRT es un fundamento de la [[educational-measurement|medición educativa]] y 
 - [[intelligent-tutoring]]
 
 ## Artículos conectados
+- [[unified-irt-framework-question-tutoring-dialogue-2026]] — Un marco de respuesta unificado para preguntas y diálogos de tutoría
 - [[item-writing-flaws-irt-difficulty-2026]] — Impacto de los defectos de redacción de ítems en la dificultad y la discriminación de la TRT (Schmucker y Moore 2026)
 - [[causal-modeling-competency-assessment-2026]] — Modelado causal de intervenciones de apoyo para la evaluación de competencias del estudiantado
 - [[assessment-latent-structure-human-llm-2026]] — ¿Miden los instrumentos de evaluación lo mismo para las personas y para los LLM? (Strugatski et al. 2026)
@@ -101,3 +104,4 @@ La TRT es un fundamento de la [[educational-measurement|medición educativa]] y 
 - [[assessing-teachers-ai-literacy-measurement-tools-2026]] — Auditoría de campo que muestra que la TRT/Rasch rara vez se usa como evidencia principal de validación en los instrumentos de alfabetización en IA del profesorado
 - [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: la tutoría con IA y la humana producen ganancias de aprendizaje equivalentes en el GRE
 - [[explaining-question-difficulty-natural-language-2026]] — Explicar la dificultad de las preguntas de LLM en lenguaje natural mediante TRI y ediciones causales (Cui et al. 2026)
+- [[llm-benchmark-secondary-science-topics-2026]] — Un referente alineado con estándares puede saturarse

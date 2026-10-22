@@ -1,7 +1,7 @@
 ---
 title: Educación médica y en profesiones de la salud
 created: "2026-09-28T19:11:07-04:00"
-updated: "2026-10-02T22:23:27-04:00"
+updated: "2026-10-22T07:28:33-04:00"
 type: concept
 foundations: [teacher-role]
 technology: [adaptive-learning, simulation]
@@ -11,7 +11,7 @@ audience: [learners, instructors]
 level: [higher ed]
 confidence: high
 translation_of: concepts/medical-education
-source_updated: "2026-09-30T11:35:26-04:00"
+source_updated: "2026-10-16T08:47:09-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -57,6 +57,7 @@ La IA en la educación médica y en profesiones de la salud es una línea crecie
 
 - **Puntuación con IA de preguntas de examen abiertas.** [[olvet-genai-scoring-open-ended-medical-2026|Olvet et al. (2026)]] comprobaron si [[generative-ai|GPT-4]] podía puntuar de forma fiable preguntas abiertas en [[assessment|evaluaciones]] previas al internado en dos facultades de medicina de Estados Unidos. Con el profesorado refinando de forma iterativa las rúbricas de puntuación a lo largo de tres rondas de análisis de patrones de error, la fiabilidad interevaluador entre la IA y el profesorado alcanzó una concordancia de sustancial a casi perfecta en tres de las cuatro preguntas (kappa ponderada de hasta 0,94), pero solo moderada en el ítem de rúbrica holística (κw = 0,54); las discrepancias se atribuyeron a ambas partes (GPT-4 puntuaba en exceso las respuestas con varias respuestas o sin el vocabulario de la rúbrica; el profesorado era demasiado generoso) y las inexactitudes ocasionales de la retroalimentación mantienen a los [[human-in-the-loop-ai|humanos en el circuito]]. Los autores sostienen que el argumento a favor de la puntuación automatizada de preguntas abiertas se refuerza porque alrededor del 82% de las facultades de medicina estadounidenses califican el trabajo previo al internado como apto o no apto, donde no siempre se exige una coincidencia exacta de la puntuación de la IA.
 
+- **Las ejecuciones repetidas no reproducen la misma nota.** En un curso de máster en salud pública, cuatro [[llm|LLM]] de propósito general calificaron las mismas 32 entregas de ensayo anonimizadas que dos examinadores humanos; ChatGPT en modo de razonamiento alcanzó una kappa ponderada de 0,718, pero recalificar las mismas entregas en cinco días distintos solo llegó a un alfa de Krippendorff de 0,625 ([[llm-grading-assistants-public-health-2026|Brevik et al. (2026)]]). Los autores aconsejan promediar varias evaluaciones para usos de alto riesgo.
 - **[[ai-ed-evaluation|Evaluar la IA]] docente, no solo desplegarla.** [[zhang-platform-scores-miss-ai-teaching-agents-2026|Zhang et al. (2026)]] desplegaron ocho agentes docentes de LLM en cuatro paradigmas de juego de roles (paciente, estudiante, especialista, familiar) en un [[curriculum-design|plan de estudios]] de endocrinología y puntuaron 167 diálogos de estudiantado con una rúbrica de calidad docente de 8 dimensiones. Las puntuaciones de la plataforma divergieron notablemente de la calidad según la rúbrica; los agentes se diferenciaron más en las dimensiones de conocimiento y menos en la representación del papel; la calibración adaptativa de la dificultad fue una debilidad compartida; y reforzar la empatía de un agente elevó la calidad del juego de roles sin mejorar la cobertura de conocimiento. El hallazgo de que los paradigmas de juego de roles pueden separarse (más allá del guion por defecto de paciente y médico) apunta a diseñar y evaluar agentes frente a dimensiones pedagógicas explícitas.
 
 - **La forma de la propia literatura del ámbito.** [[sriram-ethical-ai-medical-education-bibliometric-2026|Sriram, Nichols, Ganti y Gue (2026)]] cartografían la propia literatura sobre ética de la IA en la educación médica: 1.403 publicaciones de Web of Science de 1995 a 2026, insignificantes durante dos décadas, y luego 113 en 2023, 256 en 2024 y 500 en 2025; 39 países superan el umbral de autoría, liderados por Estados Unidos (533 publicaciones) por delante de China (189) e Inglaterra (95); y los trabajos más citados son pruebas de capacidad —el rendimiento de ChatGPT en los exámenes de licencia médica por encima de todo— y no estudios de gobernanza. Su lectura es que el ámbito ha crecido rápido sin crecer de manera uniforme, y que la evaluación empírica de los marcos de [[governance|gobernanza]] es el trabajo que el registro de citas no está recompensando. Es una advertencia útil para quien trate el volumen de investigación publicada sobre IA en la educación médica como prueba de que sus preguntas sobre uso seguro han sido respondidas.
@@ -118,3 +119,4 @@ La HPE es un ámbito de alto riesgo y basado en competencias donde los beneficio
 - [[olvet-genai-scoring-open-ended-medical-2026]]
 - [[sophie-clinical-communication-ai-assessment-2026]] — Entrenamiento en comunicación clínica y evaluación automatizada escalables basados en IA
 - [[sriram-ethical-ai-medical-education-bibliometric-2026]] — Mapa bibliométrico de la ética de la IA en la educación médica: la producción pasó de 113 (2023) a 500 (2025), 39 países, y las citas premian las pruebas de capacidad por encima de la gobernanza (Sriram et al. 2026)
+- [[llm-grading-assistants-public-health-2026]] — Las ejecuciones repetidas no reproducen la misma nota

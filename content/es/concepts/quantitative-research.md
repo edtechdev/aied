@@ -1,14 +1,14 @@
 ---
 title: Investigación cuantitativa
 created: "2026-09-28T19:11:02-04:00"
-updated: "2026-09-30T08:39:04-04:00"
+updated: "2026-10-22T07:34:46-04:00"
 type: concept
 assessment: [educational-measurement]
 research_method: [survey, experiment]
 confidence: high
 methods: [quantitative-research, research-methods-aied]
 translation_of: concepts/quantitative-research
-source_updated: "2026-09-30T08:39:04-04:00"
+source_updated: "2026-10-16T08:47:09-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -50,6 +50,7 @@ Los experimentos asignan aleatoriamente a quienes aprenden a distintas condicion
 
 - **Fortalezas:** la inferencia causal más sólida; medición limpia de los resultados; permite estimar tamaños del efecto y sostener afirmaciones de eficacia.
 - **Limitaciones:** costosa y lenta; las condiciones artificiales reducen la validez ecológica; las herramientas de IA que cambian rápido dejan obsoletos los experimentos enseguida; las muestras pequeñas tienen poca potencia para detectar efectos; restricciones éticas a la hora de retener herramientas útiles.
+- **Un ensayo de acceso aleatorizado por grupos necesita una comprobación de adopción.** Con alrededor del 15% del estudiantado en las aulas tratadas llegando a usar el tutor, la estimación por intención de tratar del estudio refleja el efecto de introducir la herramienta —incluidos el permiso y la sustitución que conllevó— y no el efecto aislado de las sesiones individuales ([[liu-course-integrated-ai-tutoring-rct-2026|Liu et al. (2026)]]).
 
 ### Investigación longitudinal
 Los diseños longitudinales siguen a las mismas personas que aprenden a lo largo del tiempo y capturan el cambio, el crecimiento y el aprendizaje duradero que se escapan a una medición en un único momento. [[ai-lms-middle-school-longitudinal|Un estudio longitudinal de un LMS]] sigue al estudiantado a lo largo de un curso escolar. Los diseños longitudinales son esenciales para distinguir el rendimiento inflado por la IA del [[genai-performance-vs-learning|aprendizaje duradero]].
@@ -58,6 +59,8 @@ Las comparaciones entre conjuntos de datos necesitan un punto de trabajo fijo: u
 
 ### Cuantificación computacional y psicométrica
 Los métodos cuantitativos también incluyen la medición directa de constructos mediante instrumentos, el dominio de la [[educational-measurement|medición educativa]] y la [[item-response-theory|teoría de la respuesta al ítem]]. El [[jin-glat-genai-literacy-assessment|GLAT]] de la base de conocimiento es un instrumento cuantitativo de 20 ítems validado con TRI; los [[educational-measurement|instrumentos de medición]] de la [[ai-literacy|alfabetización en IA]], la aceptación y la autoeficacia proporcionan las escalas validadas de las que dependen la investigación por encuesta y la experimental.
+
+El análisis bibliométrico es otra familia cuantitativa: [[sriram-ethical-ai-medical-education-bibliometric-2026|Sriram et al. (2026)]] cartografían 1.403 publicaciones de [[medical-education|educación médica]] mediante redes de copresencia de países, instituciones y palabras clave, leyendo la forma de una literatura en lugar de evaluar sus estudios, que es lo que hace que su conclusión —que la investigación sobre [[governance|gobernanza]] no ha seguido el ritmo de las pruebas de capacidad— sea una afirmación sobre el campo y no sobre el aprendizaje.
 
 ## Cómo aparece la investigación cuantitativa en la base de conocimiento
 
@@ -103,3 +106,5 @@ Los métodos cuantitativos y los [[qualitative-research|cualitativos]] son compl
 - [[ai-lms-middle-school-longitudinal]] — Un estudio longitudinal de un LMS integrado con IA
 - [[adaptive-pretesting-retention]] — Preprueba adaptativa y retención
 - [[synthetic-educational-data-structural-fidelity-2026]] — Lo que las métricas de fidelidad pasan por alto: una comprobación estructural de los datos educativos sintéticos
+- [[liu-course-integrated-ai-tutoring-rct-2026]] — Un ensayo de acceso aleatorizado por grupos necesita una comprobación de adopción
+- [[sriram-ethical-ai-medical-education-bibliometric-2026]] — El análisis bibliométrico como otra familia cuantitativa: Sriram et al. (2026)
