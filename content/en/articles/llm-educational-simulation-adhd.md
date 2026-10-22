@@ -44,7 +44,7 @@ The simulation methodology also raises questions about [[hazra-safetutors-pedago
 
 ## Limitations
 
-- The study covers one diagnostic construct only; generalization to personas combining multiple human characteristics, and to comorbid conditions such as ADHD with anxiety, remains for future research, and the authors note this limits ecological validity for educational [[simulation|simulation]].
+- The study covers one diagnostic construct only; generalization to personas combining multiple human characteristics, and to comorbid conditions such as ADHD with anxiety, remains for future research, and the authors note this limits ecological validity for educational [[simulation]].
 - Only two interaction structures were tested — scripted and unscripted. Other structures such as increasing [[scaffolding]], or supportive versus challenging tutor personas, were not explored, so the minimal intervention for behavioral stability is unknown.
 - Observer-rated behavioral expression was scored by three independent LLM raters blind to persona instructions, so the behavioral stability measures are themselves model-generated rather than human-coded.
 - Between-conversation stability rests on single-turn, context-free instantiations (N = 4,968), and within-conversation stability on 20 conversations of 9 turns (N = 3,952) — a short interaction window relative to the sustained, path-dependent interactions of real tutoring or teacher training.

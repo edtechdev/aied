@@ -34,7 +34,7 @@ audience: [instructors, administrators]
 
 - **Instructors.** Build output validation into the activity itself: students here were instructed to check ChatGPT against high-quality formal sources, and they valued its speed while doubting its veracity and depth.
 - **Instructors.** Coach critical interrogation alongside use — students worried the tool would supplant the [[teacher-role|teacher]] and weaken [[critical-thinking|critical thinking]], complex reasoning, and [[problem-solving]].
-- **Administrators.** Update [[academic-integrity|academic-integrity]] codes for AI use and publicize the changes, since a third of surveyed students did not know about the modifications to regulations already made.
+- **Administrators.** Update [[academic-integrity]] codes for AI use and publicize the changes, since a third of surveyed students did not know about the modifications to regulations already made.
 - **Administrators.** Make AI-text detectors and clear ethical-use guidance available for evaluation, and ground them in responsible use, [[bias-mitigation|fairness]], and transparency.
 - **Instructors.** Position ChatGPT as a support tool for personalized, [[self-regulated-learning|self-directed learning]] rather than an answer machine, extending information access without displacing teacher guidance.
 

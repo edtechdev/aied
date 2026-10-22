@@ -35,7 +35,7 @@ methods: [quantitative-research]
 
 - The evidence is cross-sectional survey data from 508 university students in China- and Thailand-linked contexts (China-HS n = 305, non-China-HS n = 203; China-Uni n = 193, Thailand-Uni n = 315), so the SEM associations cannot establish that high-school climate causes later use pathways.
 - High-school learning climate was measured through retrospective reports from university students rather than observed or concurrent measures.
-- Outcomes such as perceived AI-supported learning quality, [[well-being|well-being]], and academic performance are self-reported perceptions rather than objective records of use or attainment.
+- Outcomes such as perceived AI-supported learning quality, [[well-being]], and academic performance are self-reported perceptions rather than objective records of use or attainment.
 - Scalar-level measurement invariance supported cross-group comparison, but multi-group differences were concentrated in specific links and the context base is limited to the sampled China and Thailand groupings.
 ## Citation
 

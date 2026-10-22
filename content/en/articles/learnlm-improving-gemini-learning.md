@@ -32,7 +32,7 @@ sources: [raw/papers/2412.16429.md]
 
 ## Limitations
 
-- Evaluation is intrinsic: the model is judged against a developer-authored [[pedagogy|pedagogy]] rubric, and the authors state it is unclear how well these results translate to learning outcomes, calling for extrinsic evaluation of impact.
+- Evaluation is intrinsic: the model is judged against a developer-authored [[pedagogy]] rubric, and the authors state it is unclear how well these results translate to learning outcomes, calling for extrinsic evaluation of impact.
 - The rubric is not yet field-validated — the paper says it needs to work with a diverse set of stakeholders to earn the trust and approval of the broader education community before it can stand as a universal framework for pedagogical assessment.
 - Reported preferences come from expert panels rating conversation transcripts (186 educators; 248 pedagogy experts), so the work measures perceived tutoring quality rather than measured student learning.
 - Results are a December 2024 snapshot against specific model versions (Gemini 1.5 Pro base, GPT-4o, Claude 3.5 Sonnet), with the pedagogical data mixed into Gemini's post-training rather than tested as a standalone intervention.

@@ -50,7 +50,7 @@ Between-dataset comparisons need a fixed working point: a structural check of sy
 ### Computational and psychometric quantification
 Quantitative methods also include the direct measurement of constructs via instruments — the domain of [[educational-measurement]] and [[item-response-theory]]. The knowledge base's [[jin-glat-genai-literacy-assessment|GLAT]] is a 20-item quantitative instrument validated with IRT; [[educational-measurement|measurement instruments]] across [[ai-literacy|AI literacy]], acceptance, and self-efficacy provide the validated scales on which survey and experimental research depend.
 
-Bibliometric analysis is a further quantitative family: [[sriram-ethical-ai-medical-education-bibliometric-2026|Sriram et al. (2026)]] map 1,403 [[medical-education|medical-education]] publications through country, institution and keyword co-occurrence networks, reading a literature's shape rather than appraising its studies — which is what makes their conclusion, that [[governance|governance]] scholarship has not kept pace with capability testing, a claim about the field and not about learning.
+Bibliometric analysis is a further quantitative family: [[sriram-ethical-ai-medical-education-bibliometric-2026|Sriram et al. (2026)]] map 1,403 [[medical-education]] publications through country, institution and keyword co-occurrence networks, reading a literature's shape rather than appraising its studies — which is what makes their conclusion, that [[governance]] scholarship has not kept pace with capability testing, a claim about the field and not about learning.
 
 ## How quantitative research appears in the knowledge base
 

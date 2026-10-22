@@ -25,7 +25,7 @@ confidence: high
 
 ## What this means for practice
 
-- **Instructors.** Build guidance around how students already work — editing, summarizing, and idea generation — rather than around rule compliance, since usefulness rather than [[trust|trust]] or policy drove engagement.
+- **Instructors.** Build guidance around how students already work — editing, summarizing, and idea generation — rather than around rule compliance, since usefulness rather than [[trust]] or policy drove engagement.
 - **Instructors.** Make AI use discussable in class: students reported low trust in GenAI's factual accuracy but confidence in managing it as a support tool, so the teaching task is calibration rather than prohibition.
 - **Administrators.** Target [[equity-in-ai-education|equity]] gaps directly, since engagement was proportionately lower among women, non-binary, neurodivergent students, and students with health conditions.
 - **Administrators.** Fund institutional [[ai-literacy]] provision, because most students learned about GenAI informally through self-directed means rather than through university resources.

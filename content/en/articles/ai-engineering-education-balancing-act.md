@@ -34,7 +34,7 @@ The chapter treats assessment as a key lever, reviewing frameworks such as the A
 - **Instructors.** Make [[ai-literacy]] and verification capacity prerequisites rather than extras, because the efficiency gains students prize are only realized by learners who already have the [[critical-thinking]] and domain expertise to judge AI output — the skills they are there to build.
 - **Learners.** Stop treating the [[llm]] as an oracle or a tutor: it is a probabilistic text generator whose fluent authority exceeds its reliability, and the verification burden lands on you and on your knowledge of the domain.
 - **Instructors.** Redesign assessment toward contextualization, in-class engagement, and oral or supervised formats for lower-order tasks, which is both the AAA framework reviewed in the chapter and what students themselves proposed (N=27).
-- **Faculty developers.** Support staff in shifting the instructor's role from policing AI use toward reflectively adapting assessment and [[pedagogy|pedagogy]] for AI's possible misuse.
+- **Faculty developers.** Support staff in shifting the instructor's role from policing AI use toward reflectively adapting assessment and [[pedagogy]] for AI's possible misuse.
 
 ## Limitations
 

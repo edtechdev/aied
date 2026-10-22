@@ -32,11 +32,11 @@ Rather than accepting the productivity framing, the paper advances an emancipato
 
 ## What this means for practice
 
-- **Designers.** Build tools and services rather than autonomous [[agentic-ai|agents]], treating [[agency|agency]] as zero-sum: automate only extraneous effort that interferes with learning, not decisions that belong to the learner.
+- **Designers.** Build tools and services rather than autonomous [[agentic-ai|agents]], treating [[agency]] as zero-sum: automate only extraneous effort that interferes with learning, not decisions that belong to the learner.
 - **Designers.** Under-design for appropriation — make systems user-adaptable or purposefully incomplete — and plan from the start to observe how learners and teachers repurpose them in practice.
-- **Designers.** Specify fading [[scaffolding|scaffolding]] and explicit hand-off points, including activities that move attention off the screen into collaboration or the physical environment, and treat learner independence from the tool as the success metric.
+- **Designers.** Specify fading [[scaffolding]] and explicit hand-off points, including activities that move attention off the screen into collaboration or the physical environment, and treat learner independence from the tool as the success metric.
 - **Designers.** Avoid design choices that let a stochastic system "pose as a person"; anthropomorphic framing can produce emotional attachment to an LLM, so support the emotional aspects of learning without inviting [[cognitive-offloading|dependence]].
-- **Researchers.** Evaluate at multiple levels (learner, classroom, home, school) and across multiple outcomes — [[metacognition|metacognition]] and [[well-being|well-being]], not only knowledge — at both immediate and delayed timeframes, rather than optimizing one metric.
+- **Researchers.** Evaluate at multiple levels (learner, classroom, home, school) and across multiple outcomes — [[metacognition]] and [[well-being]], not only knowledge — at both immediate and delayed timeframes, rather than optimizing one metric.
 
 ## Limitations
 

@@ -35,7 +35,7 @@ The review is significant because it bridges a classical [[learning-theories|lea
 - **Instructors.** Design participatory simulations that combine virtual environments with real experience rather than relying on either alone, so that context stays connected to students' actual settings.
 - **Instructors.** Use AI recommendation systems to surface timely, personalized resources and [[adaptive-learning|adaptive support]], while keeping human guidance in place for ethical reasoning and for questioning AI bias.
 - **Faculty developers.** Use [[learning-analytics|learning analytics]] to identify precise teacher support needs and target professional development at the contextual-knowledge and cultural-sensitivity gaps the review documents.
-- **Administrators.** Integrate AI across curricula instead of running isolated projects, and align policy, assessment, and teacher training around contextualization, co-creation, and learner [[agency|agency]].
+- **Administrators.** Integrate AI across curricula instead of running isolated projects, and align policy, assessment, and teacher training around contextualization, co-creation, and learner [[agency]].
 
 ## Limitations
 

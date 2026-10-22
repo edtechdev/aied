@@ -44,7 +44,7 @@ The review addressed four research questions (RQ1–RQ4) on how LLMs can foster 
 - **Instructors.** Use LLMs to generate practice tests, self-assessments, and rubric-based [[peer-assessment|peer feedback]] so feedback becomes an iterative, social process rather than one-way correction — a move the review ties to stronger [[metacognition|metacognitive]] skill.
 - **Administrators.** Deploy LLMs where feedback delay is the binding constraint, in large-enrollment courses, and pair that with [[generative-ai|GenAI]] literacy in curricula and explicit faculty preparation for responsible use.
 - **Policymakers.** Treat the reported benefits as conditional rather than automatic: the authors argue the impact depends on institutions establishing ethical, equitable, and sustainable adoption frameworks.
-- **Researchers.** Extend the evidence base beyond the review's window — its 22 included articles were published in 2023–2024 only, and no included document examined adoption challenges such as ethics or [[privacy|privacy]].
+- **Researchers.** Extend the evidence base beyond the review's window — its 22 included articles were published in 2023–2024 only, and no included document examined adoption challenges such as ethics or [[privacy]].
 
 ## Limitations
 

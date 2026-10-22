@@ -77,7 +77,7 @@ Gender research here divides into whether tools treat learners differently, and 
 
 This strand is small in article count and strong in mechanism, because the evidence is about what AI does *with* a demographic attribute once it has one.
 
-- **[[personalized-learning|Personalization]] is a bias vector.** [[marked-pedagogies-linguistic-bias-writing-feedback|Marked Pedagogies]] shows [[llm]] writing-feedback tools shifting toward stereotype-aligned praise and withheld critique when feedback is personalized with a student's race, language, disability, achievement, or [[motivation|motivation]] — on identical essays.
+- **[[personalized-learning|Personalization]] is a bias vector.** [[marked-pedagogies-linguistic-bias-writing-feedback|Marked Pedagogies]] shows [[llm]] writing-feedback tools shifting toward stereotype-aligned praise and withheld critique when feedback is personalized with a student's race, language, disability, achievement, or [[motivation]] — on identical essays.
 - **The demographic cue can be implicit.** The counterfactual audit above found that conversation histories, not just explicit personas, moved scoring and feedback behavior — the same [[demographic-signals-llm-student-assessment-2026|192,480 inference calls]] result, and a reason a disclosure rule about *declared* demographics is insufficient.
 - **Migration and language gaps can dominate.** In EduFair-Bench, the 70B model paired the largest language and immigration gaps with the smallest pedagogy gaps, so a tutor that looks pedagogically strong can be the one most sensitive to who the student appears to be.
 - **Epistemic exclusion, not just error:** see [[genai-minoritized-knowledges-disability|the marginalization of minoritized knowledges]] above.

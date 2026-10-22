@@ -31,7 +31,7 @@ This is a technical review (not a [[meta-analysis-systematic-review|meta-analysi
 - **Designers.** Build the four components deliberately — data collection, AI processing, decision engine, user interface — and integrate through LTI into the LMS teachers already use, since the review specifies a modular layer rather than a replacement platform.
 - **Designers.** Plan the validation ladder before deployment: the review's roadmap runs prototype, controlled pilot, A/B trials, then multi-institution deployment, which is the sequence that establishes whether a decision engine actually changes learner outcomes.
 - **Administrators.** Budget for the documented failure modes rather than treating them as future work — [[hallucination-risk|hallucination]] in 15-25% of LLM responses, 20-30% outcome variability from reward design, and 40-50% higher costs in resource-limited settings — and require [[human-in-the-loop-ai|human oversight]], model interpretability, GDPR and FERPA compliance, and regular fairness audits alongside deployment.
-- **Administrators.** Make [[accessibility|accessibility]], [[multilingual-learning|multilingual]] support, and bias-aware algorithms procurement criteria, because the review's user-centric design requirement is where [[equity-in-ai-education|equity]] is decided rather than in the model choice.
+- **Administrators.** Make [[accessibility]], [[multilingual-learning|multilingual]] support, and bias-aware algorithms procurement criteria, because the review's user-centric design requirement is where [[equity-in-ai-education|equity]] is decided rather than in the model choice.
 
 ## Limitations
 

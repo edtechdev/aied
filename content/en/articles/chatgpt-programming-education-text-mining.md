@@ -60,7 +60,7 @@ The authors' recommendations center on course-level [[educational-policy-ai|poli
 - **Learners.** Attempt the problem yourself before prompting, and practice explaining what generated code does: the corpus links frequent reliance to reduced motivation to solve problems independently, fewer and less effective software tests, and limited reasoning when students account for AI-generated code ([[cognitive-offloading|cognitive offloading]]).
 - **Instructors.** Place ChatGPT inside a structured instructional framework instead of leaving it open: the controlled applications reviewed reported gains in performance and [[critical-thinking|critical thinking]], whereas unmoderated use was associated with weaker persistence and debugging.
 - **Instructors.** Make students justify what they submit — code walkthroughs, oral assessments, and critique-and-compare tasks — because AI-content detectors performed poorly at distinguishing AI-generated from human-written code and cannot carry [[academic-integrity|integrity]] checks on their own.
-- **Administrators.** Write course-level rules and secure equitable access now rather than waiting for consensus: institutional [[governance|governance]] and assessment are the thinnest clusters in the corpus, and campus-wide licenses plus [[accessibility|accessibility]] features are the remedy the authors recommend against a [[digital-divide|digital divide]].
+- **Administrators.** Write course-level rules and secure equitable access now rather than waiting for consensus: institutional [[governance]] and assessment are the thinnest clusters in the corpus, and campus-wide licenses plus [[accessibility]] features are the remedy the authors recommend against a [[digital-divide|digital divide]].
 
 ## Limitations
 

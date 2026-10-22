@@ -56,7 +56,7 @@ Schools and counseling services are where [[learners]] meet [[conversational-ai|
 ## Limitations
 
 - All 270 participants were recruited through Prolific and reported repeated ChatGPT use; 38% came from South Africa and 52.2% identified as Christian, so the deified register may reflect this sample.
-- Imaginations were elicited by one open-ended item in a survey whose qualitative strand alone is reported, so nothing links an imagined role to dependence, [[help-seeking]], [[self-efficacy]] or [[well-being|well-being]].
+- Imaginations were elicited by one open-ended item in a survey whose qualitative strand alone is reported, so nothing links an imagined role to dependence, [[help-seeking]], [[self-efficacy]] or [[well-being]].
 - Platforms were self-selected rather than assigned, so interface and persona design are confounded with the reported imaginations.
 - Of 334 respondents who completed the [[self-report-measures|questionnaires]], 64 failed a validity check, and two master's-level trainees coded the attribute framework, so the taxonomy may reflect the prompt as much as participants' imagery.
 

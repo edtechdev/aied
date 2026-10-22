@@ -109,6 +109,12 @@ build:
     - python3 tooling/scripts/check-currency-escapes.py .
     # House style is US English: British forms in body prose are a defect.
     - python3 tooling/scripts/check-us-english.py
+    # A wikilink whose label is identical to its own slug suppresses the page's real
+    # title: the renderer shows `label || titles[page]`, so [[assessment|assessment]]
+    # renders lowercase "assessment" where a bare [[assessment]] shows "Assessment".
+    # 186 occurrences on 140 pages had accumulated before this gate existed. The
+    # capitalisation-only form [[slug|Slug]] is correct and is NOT flagged.
+    - python3 tooling/scripts/check-same-text-pipes.py
     # Article page shape: the practice and Limitations sections, their bullet counts
     # (practice 3-5, Limitations 2-6) and the section order, on the pages touched here.
     - python3 tooling/scripts/audit-article-sections.py --changed

@@ -32,7 +32,7 @@ methods: [design-based-research, qualitative-research]
 - **Instructional designers.** Offer collaborative, humanized explanations of why the system recommended a step rather than raw model transparency; students in this study valued transparency only when it visibly supported learning.
 - **Instructional designers.** Split data controls deliberately: give students control over repurposing and sharing of their learning data while giving instructors enough visibility to act on it, since the two groups wanted different defaults.
 - **Software developers.** Implement the human-in-the-loop behaviors the study validated as concrete features — student control over re-assessment and review, personalized goals and pace, an AI-assistance involvement-level control, and confirmation of confidence over mastery.
-- **Researchers.** Treat value tensions (transparency vs. interpretability, [[privacy|privacy]] vs. instructional insight, [[agency|student agency]] vs. system-guided [[scaffolding]]) as conditions to manage rather than problems to resolve, and document which value each design choice trades away.
+- **Researchers.** Treat value tensions (transparency vs. interpretability, [[privacy]] vs. instructional insight, [[agency|student agency]] vs. system-guided [[scaffolding]]) as conditions to manage rather than problems to resolve, and document which value each design choice trades away.
 
 ## Limitations
 

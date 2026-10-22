@@ -25,7 +25,7 @@ ai_assist:
 reviewed_by: [editor]
 ---
 The Campus AI Framework is a higher-education-native operating model for AI strategy and
-governance, published by Joe Sabado. It sets out eight [[governance|governance]]-facing institutional pillars — from campus mission and
+governance, published by Joe Sabado. It sets out eight [[governance]]-facing institutional pillars — from campus mission and
 AI principles through policies, governance, engagement, readiness, roles and implementation — four
 application domains where AI is put to work (teaching, learning and student success; research and
 innovation; operations and infrastructure; student and community engagement), and an AI Strategic

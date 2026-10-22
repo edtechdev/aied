@@ -21,7 +21,7 @@ Vision-language models (VLMs) have been explored for visual programming, where t
 
 ## What this means for practice
 
-- **Designers.** Treat VLM-generated Turtle Graphics code as a prototype rather than a classroom feature: on the real-world dataset of tasks designed for students in grades 3-6, even the top-performing model, o3, reaches only a 40.2% symbolic success rate, and the strongest open-source base model, Qwen2.5-VL, reaches only 6.80% on the full [[benchmark|benchmark]].
+- **Designers.** Treat VLM-generated Turtle Graphics code as a prototype rather than a classroom feature: on the real-world dataset of tasks designed for students in grades 3-6, even the top-performing model, o3, reaches only a 40.2% symbolic success rate, and the strongest open-source base model, Qwen2.5-VL, reaches only 6.80% on the full [[benchmark]].
 - **Instructors.** Sequence Turtle Graphics content from Basic Geometry, where models perform best, toward Spiral tasks, the most challenging category for all models because they demand long-horizon sequential control; this tells you where student support should concentrate.
 - **Designers.** When a tutoring feature needs broader [[multimodal]] capability, fine-tune on generated data: fine-tuning Qwen2-VL-72B on TurtleAI-Datagen output improved real-world task performance by over 20%, and the pipeline expands a seed set of only 10 image-code pairs into a training set of 738,126 samples.
 - **Instructors.** Expect model assistance to be least reliable on hand-drawn student work: fine-tuning improved performance mainly on DSReal and DSSyn while DSCraft performance remained low.

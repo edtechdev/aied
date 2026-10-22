@@ -30,7 +30,7 @@ Every AI tutor, feedback system, and dashboard embeds assumptions about how peop
 
 These explain mechanisms: they name the parts that do the work and predict what follows when those parts change. In the AI literature they are mostly borrowed from psychology and the [[learning-sciences|learning sciences]], and used as interpretive frames around a new tool.
 
-- **[[learning-theories|Learning theories (umbrella)]]** — the family as a whole, including the classical poles of [[behaviorism|behaviorism]] and [[constructivist|constructivism]] and the "constructivism in name, behaviorism in practice" gap that recurs in AI implementations. Connectivism and cognitive load theory are covered here too.
+- **[[learning-theories|Learning theories (umbrella)]]** — the family as a whole, including the classical poles of [[behaviorism]] and [[constructivist|constructivism]] and the "constructivism in name, behaviorism in practice" gap that recurs in AI implementations. Connectivism and cognitive load theory are covered here too.
 - **[[constructivist|Constructivism]]** — learning as active knowledge construction. It underwrites project-based work, dialogue-based AI tutoring, and the critique that drill-and-feedback systems violate their own stated pedagogy.
 - **[[sociocultural-learning|Sociocultural theory]]** — learning as mediated by tools and social interaction, which is why AI gets theorized as a mediating artifact rather than a mere aid.
 - **[[activity-theory-aied|Activity theory]]** — takes the whole activity system, contradictions included, as the unit of analysis. Common in teacher-facing AI studies, where the interesting finding is usually the tension among tools, rules, and community.
@@ -57,7 +57,7 @@ These explain mechanisms: they name the parts that do the work and predict what 
 - **[[technology-acceptance-model|Adoption models]]** — intention as a function of perceived usefulness and ease of use. Used widely enough that the field's reliance on intention rather than behavior is a standing critique.
 - **[[icap-framework|ICAP]]** — ranks engagement as passive, active, constructive, interactive; useful for asking what mode an AI interaction actually affords.
 - **[[samr-model|SAMR]]** — substitution through redefinition. Popular as a maturity story, weak as a measurement instrument.
-- **[[universal-design-for-learning|Universal design for learning]]**, **[[inclusive-learning|inclusive learning]]**, and **[[accessibility|accessibility]]** — design frames for who gets served, and the ones most often invoked in disability and equity work.
+- **[[universal-design-for-learning|Universal design for learning]]**, **[[inclusive-learning|inclusive learning]]**, and **[[accessibility]]** — design frames for who gets served, and the ones most often invoked in disability and equity work.
 - **[[learning-design|Learning design]]**, **[[curriculum-design|Curriculum design]]**, and **[[design-thinking|Design thinking]]** — how tasks, sequences, and programs are structured before any tool is chosen.
 - **[[change-management|Change management]]** — whether a system is taken up at all, which is usually an institutional question rather than a pedagogical one.
 

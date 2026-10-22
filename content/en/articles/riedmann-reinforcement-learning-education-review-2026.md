@@ -31,7 +31,7 @@ methods: [meta-analysis-systematic-review]
 
 - **Designers.** Put learning gain — normalized learning gain in particular — in the reward function; it was the most effective reward source across the papers that reported significant results, with penalties or engagement signals added alongside rather than in its place.
 - **Designers.** Prefer classical model-free [[reinforcement-learning|RL]] (Q-learning was the most frequently used algorithm, n = 28) before reaching for deep RL: significantly more classical RL papers (61%) than DRL papers (36%) achieved superiority over their baselines.
-- **Designers.** Target guidance before content scheduling — hints, [[feedback|feedback]], and activity selection — since RL showed statistically significant superiority more often for guidance-related adaptation than for instructional sequencing.
+- **Designers.** Target guidance before content scheduling — hints, [[feedback]], and activity selection — since RL showed statistically significant superiority more often for guidance-related adaptation than for instructional sequencing.
 - **Researchers.** Design the comparison properly: RL policies outperformed only about half of expert-designed and non-adaptive baselines, so report non-adaptive and expert baselines alongside algorithmic ones instead of comparing only against weaker or random policies.
 - **Researchers.** Evaluate with real learners and over time, because roughly half of the reviewed papers evaluated live (n = 41) while others used interaction datasets or simulated students, and the field lacks longitudinal evidence that short-term interaction produces sustained learning.
 

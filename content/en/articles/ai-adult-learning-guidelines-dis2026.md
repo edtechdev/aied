@@ -72,7 +72,7 @@ The guidelines span four categories:
 
 ## What this means for practice
 
-- **Instructors.** Run the paper's 19 guidelines as a heuristic evaluation before adopting any [[adult-learning|adult-learning]] AI tool, and expect no single tool to satisfy all 19 — the AI-ALOE ecosystem covered the full set only collectively.
+- **Instructors.** Run the paper's 19 guidelines as a heuristic evaluation before adopting any [[adult-learning]] AI tool, and expect no single tool to satisfy all 19 — the AI-ALOE ecosystem covered the full set only collectively.
 - **Designers.** Treat adult-life constraints as prerequisites rather than features: mobile access, offline capability, and affordability came directly from learners balancing work, family, and study.
 - **Designers.** Ground tools in andragogy, not just [[pedagogy]]: adult learners are self-directed and problem-oriented, and tools that inherit [[k-12|K-12]] design patterns fit their constraints poorly.
 - **Designers.** Fix the lowest-scoring areas first: data transparency and social/community features scored lowest across the deployed systems, and personalization stayed surface-level — adapting examples and knowledge checks rather than task sequencing or difficulty calibration.

@@ -63,7 +63,7 @@ Instructors slightly disagreed that their institutions expect undergraduates to 
 - **Instructors.** Map your syllabus against the framework's 26 skills and add the categories almost nobody teaches — workflow evaluation and redesign, and automation and technical integration — since only three of the 26 skills are taught by half or more instructors.
 - **Instructors.** Keep the critical-use skills you already prioritize (responsible use, transparency and attribution, proactive output review, human accountability) but tie them to the workplace tasks employers rate: documenting decisions, efficient human–AI handoffs, and [[career-development-and-readiness|career readiness]], not only academic integrity.
 - **Instructors.** State plainly where AI use is expected and where it is not, because the report found a recurring instructor position that doing things without AI is itself the key skill — a framing students need made explicit rather than left implicit.
-- **Administrators.** Publish a shared institutional definition of AI skill outcomes and an [[assessment|assessment]] framework for them: instructors disagreed that their institutions have consensus on what AI skills look like or a shared way to measure whether students reach them.
+- **Administrators.** Publish a shared institutional definition of AI skill outcomes and an [[assessment]] framework for them: instructors disagreed that their institutions have consensus on what AI skills look like or a shared way to measure whether students reach them.
 - **Administrators.** Audit whole degree programs, not single courses, for AI-skill coverage — the instructor–employer prioritization gap is widest in exactly the categories that are least taught.
 
 ## Limitations

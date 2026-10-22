@@ -25,7 +25,7 @@ discipline: [language learning]
 
 ## What this means for practice
 
-- **Learners.** Track your confidence and workload rather than your tool usage, because at Time 3 the positively adapting profile showed the highest Japanese learning [[self-efficacy|self-efficacy]] and the lowest burnout, while the maladaptive profile showed the reverse.
+- **Learners.** Track your confidence and workload rather than your tool usage, because at Time 3 the positively adapting profile showed the highest Japanese learning [[self-efficacy]] and the lowest burnout, while the maladaptive profile showed the reverse.
 - **Learners.** Treat an early bad patch as a stage rather than a verdict: learners in the maladaptive profile most often moved to moderate adaptation rather than jumping straight to positive adaptation, and adaptation is heterogeneous and dynamic across a semester.
 - **Instructors.** Screen for learners whose technostress outweighs their psychological resilience instead of assuming AI tools benefit everyone, since 17.74% of learners remained maladaptive at Time 3 and reported the least favorable motivational and emotional outcomes.
 - **Instructors.** Strengthen adaptive resources rather than adding more tools — fostering confidence and regulating [[self-regulated-learning|self-regulated]] AI use is what shifted learners toward positive adaptation under a demand–resource balance.

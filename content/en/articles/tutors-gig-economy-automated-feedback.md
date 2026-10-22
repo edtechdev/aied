@@ -20,7 +20,7 @@ page_kind: [evaluation]
 ## What this means for practice
 
 - **Instructors.** Treat the automated lesson report as a self-monitoring instrument rather than a final verdict: with learner ratings skewed positive and often missing altogether, the automated scores were the source tutors actually used to track progress, spot weak areas, and gain reassurance about their teaching.
-- **Instructors.** Expect the automated report to be harsher than learner [[feedback|feedback]] and read a high star rating as weak evidence — tutors rated automated feedback significantly more negatively than learner feedback on six of seven dimensions, yet the two sources did not differ on feedback uptake.
+- **Instructors.** Expect the automated report to be harsher than learner [[feedback]] and read a high star rating as weak evidence — tutors rated automated feedback significantly more negatively than learner feedback on six of seven dimensions, yet the two sources did not differ on feedback uptake.
 - **Designers.** Label what each feedback source measures and on what scale instead of presenting both as 5-point scores: comparable scales led tutors to treat the two as equivalent evaluations and to distrust the automated one whenever the numbers diverged.
 - **Designers.** Attach a brief rationale or contextual cue to each score. The probe reported numerical ratings across nine pedagogical categories with no context, and tutors asked for explanations of the discrepancies and judged the automated judgments inconsistent.
 - **Instructors.** Use the two sources for planning rather than choosing between them: tutors found learner and automated feedback similarly helpful for planning future lessons even while criticizing the automated system's lack of context awareness.

@@ -52,7 +52,7 @@ MDAF runs through five connected stages: culturally embedded task input, student
 
 ## What this means for practice
 
-- **Instructors.** Treat diagnostic output as evidence for instruction rather than a final grade: use the reasoning profiles to plan targeted [[feedback|feedback]] and differentiated follow-up.
+- **Instructors.** Treat diagnostic output as evidence for instruction rather than a final grade: use the reasoning profiles to plan targeted [[feedback]] and differentiated follow-up.
 - **Instructors.** Check that students actually perceive the cultural context as authentic and meaningful, since that perception is part of the pathway to both [[student-engagement|engagement]] and symbolic performance.
 - **Assessment designers.** Build open-ended tasks around local artifacts and practices so the mathematical relationships come from the context instead of being bolted onto a generic problem.
 - **Assessment designers.** Validate AI-generated diagnostic profiles against expert judgment using agreement statistics (such as ICC and Cohen's Kappa) before trusting them for consequential decisions.

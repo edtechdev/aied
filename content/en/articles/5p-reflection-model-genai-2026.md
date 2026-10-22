@@ -64,7 +64,7 @@ The model is generally suited to major assessments, capstone projects, or profes
 - The model is conceptual, developed through [[design-based-research|design-based research]] assisted by critical inquiry (a review of Kolb, Gibbs, DIEP, Mezirow, Schön, emotional, and [[self-regulated-learning|SRL]] models); no implementation, learner sample, or outcome data are reported.
 - The authors state that assessing the internal states the Process and Pitfalls stages depend on — emotional monitoring and resisting over-reliance — is highly subjective and relies on the learner's honesty and [[metacognition|metacognitive]] capacity.
 - The Process stage requires documenting prompts and iterations continuously; the authors state that specialized tools to capture learners' ongoing interaction with GenAI still need to be developed.
-- Adoption is constrained by design: the authors limit the model to major assessments, capstone projects, or professional-development evaluation, and effective use depends on educators who can already deliver explicit instruction and [[scaffolding|scaffolding]].
+- Adoption is constrained by design: the authors limit the model to major assessments, capstone projects, or professional-development evaluation, and effective use depends on educators who can already deliver explicit instruction and [[scaffolding]].
 
 ## Citation
 Kadel, R., Shailendra, S., Islam, M. T., Saxena, U. R., Sharma, A., & Kaphle, S. (2026). [The 5P Reflection Model for Education in the Generative Artificial Intelligence (GenAI) Era](https://arxiv.org/abs/2609.03413). arXiv:2609.03413.

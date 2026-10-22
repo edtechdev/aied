@@ -26,7 +26,7 @@ page_kind: [framework]
 
 ## What this means for practice
 
-- **Instructors.** Aim [[scaffolding]] at specific higher-order thinking stages rather than at LLM use in general, because prior knowledge and [[metacognition|metacognitive]] skill determine whether LLM use deepens [[inquiry-based-learning|inquiry]] or bypasses it, and the 14 patterns vary by [[prior-knowledge|prior-knowledge]] level.
+- **Instructors.** Aim [[scaffolding]] at specific higher-order thinking stages rather than at LLM use in general, because prior knowledge and [[metacognition|metacognitive]] skill determine whether LLM use deepens [[inquiry-based-learning|inquiry]] or bypasses it, and the 14 patterns vary by [[prior-knowledge]] level.
 - **Instructors.** Teach [[critical-thinking|critical evaluation]] of LLM output inside the inquiry task itself, since the study's policy implication is explicit training in evaluating responses within LLM-driven environments.
 - **Designers.** Build planning frameworks that keep [[metacognition|metacognitive]] monitoring active and mitigate [[cognitive-offloading|over-reliance]], because [[self-efficacy]] and metacognitive monitoring shaped learning behavior in the LLM-driven environment and their absence correlated with reliance on the AI.
 - **Researchers.** Follow the exploratory design with larger, objective measurement — the authors plan quantitative work with a larger sample and eye-movement data — because the current design cannot clarify causal links between behaviors such as cue design and critical thinking.

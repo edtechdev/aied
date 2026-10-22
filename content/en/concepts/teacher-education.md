@@ -27,7 +27,7 @@ Teacher education sits at the intersection of several knowledge base strands: it
 
 Cross-level evidence sharpens the design priority: [[pedagogy-first-technology-second-teacher-knowledge-2026|a multilevel study of 46 teachers and 2,832 secondary students]] found that pedagogical AI knowledge (TPAIK) — not technical AI knowledge — drove students' perceptions of AI for social good and their intention to learn AI. Teacher education should therefore foreground *how to teach with and about AI* over tool proficiency, consistent with the "pedagogy first, technology second" guideline.
 
-A heutagogical strand runs alongside this design priority: [[heutagogical-teaching-ai-enhanced-education-2026|Hochberg & Waitzman (2026)]] followed 93 Israeli teachers through an eight-week AI professional-development program and proposed a dual-layer relationship in which teachers' own reflective [[regulation|regulation]] and critical AI literacy mediate the [[agency|agency]]- and capability-oriented designs they create for [[learners|learners]].
+A heutagogical strand runs alongside this design priority: [[heutagogical-teaching-ai-enhanced-education-2026|Hochberg & Waitzman (2026)]] followed 93 Israeli teachers through an eight-week AI professional-development program and proposed a dual-layer relationship in which teachers' own reflective [[regulation]] and critical AI literacy mediate the [[agency]]- and capability-oriented designs they create for [[learners]].
 
 ### Pre-service teacher education
 

@@ -71,7 +71,7 @@ The AI logs recorded prompts, hint levels, responses, revisions, and outputs, wh
 - The diagnostic instrument was oriented toward symbolic representations and transformations only. It did not evaluate proof competence, conceptual understanding across the whole calculus curriculum, or long-term retention.
 - The pre-post descriptive changes cannot separate AI support from practice, repeated practice with the tasks, classroom instruction, peer interaction, or knowledge of the assessment, and the study had no random assignment and no comparison group.
 - Dependency after scaffolding was removed was not investigated in depth; the authors call for comparing fading schedules and for process analyses that distinguish productive help-seeking from answer-seeking.
-- Affective responses rested on qualitative reports rather than standardized instruments, so the changes participants described in mathematics anxiety and [[self-efficacy|self-efficacy]] should be read as their accounts and not as changes to stable psychological constructs.
+- Affective responses rested on qualitative reports rather than standardized instruments, so the changes participants described in mathematics anxiety and [[self-efficacy]] should be read as their accounts and not as changes to stable psychological constructs.
 
 ## Citation
 

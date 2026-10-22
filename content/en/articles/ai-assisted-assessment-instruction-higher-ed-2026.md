@@ -72,7 +72,7 @@ The paper is a conceptual review and says so: no new data were collected, and th
 - The paper is a conceptual review: no new data were collected, and every empirical claim is cited from other work rather than re-tested in it, so the framework is a synthesis of existing evidence with a design argument attached.
 - It is a self-described preprint that has not been peer reviewed, and the author discloses that a large language model (Claude) was used for manuscript preparation including text restructuring, language editing and reference formatting, with the substantive claims retained as the author's own.
 - The capability account rests on specific model versions at specific points in time — the Huber and Niklaus mapping of 43 [[benchmark]] tasks, for example — which the author states can be outdated within months of publication.
-- Evidence on the long-term consequences of AI tool use for foundational writing skills, critical thinking and academic [[self-efficacy|self-efficacy]] remains limited, and the practical guidance is illustrative rather than prescriptive across disciplines, institutions and pedagogical contexts.
+- Evidence on the long-term consequences of AI tool use for foundational writing skills, critical thinking and academic [[self-efficacy]] remains limited, and the practical guidance is illustrative rather than prescriptive across disciplines, institutions and pedagogical contexts.
 
 ## Citation
 
