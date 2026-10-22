@@ -1,7 +1,7 @@
 ---
 title: Self-Report Measures
 created: "2026-09-12T11:05:00-04:00"
-updated: "2026-10-22T09:11:45-04:00"
+updated: "2026-10-22T18:33:39-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [self-efficacy, student-engagement]
@@ -114,6 +114,8 @@ Self-selection compounds this. [[chatgpt-inoculation-training-verification-2026|
 
 Two further self-report-specific errors recur. **Introspection limits and social desirability bias** are named as intrinsic to self-report in [[engagement-assessment-video|work on engagement assessment]] and in [[ccct-cooperative-learning-technique|studies whose qualitative data rely on self-report]]. **Common-method variance** arises when predictors and outcomes come from the same respondents at the same time: [[ai-use-critical-thinking-medical-students-2026|a moderated-mediation study of AI use and critical thinking]] operationalized usage, cognitive load, and [[self-regulated-learning|self-regulated learning]] all through standardized self-report instruments at a single time point, and raises common-method bias as a consequence; [[genai-motivation-engagement-2026|a PLS-SEM study of motivation and engagement]] likewise rests entirely on self-report and cannot establish temporal ordering among its mediators.
 
+Administration mode is a second threat the corpus has not yet counted. [[voice-based-ai-feedback-interviews-higher-ed-2026|Tamme, Schilling & Hantel (2026)]] proposes replacing written course surveys with AI-conducted telephone interviews, and assembles mode-effect evidence that cuts both ways: voice answers run longer and cover more topics, while one randomized comparison of 634 respondents found text responses more differentiated and more candid.
+
 ## Remedy: adding non-self-report evidence
 
 The knowledge base's constructive answers are consistent, and none of them requires abandoning surveys.
@@ -152,6 +154,8 @@ The knowledge base's constructive answers are consistent, and none of them requi
 - [[learning-analytics]]
 
 ## Connected Articles
+
+- [[voice-based-ai-feedback-interviews-higher-ed-2026]] — The administration mode a self-report instrument uses changes what it measures
 - [[capability-decision-model-teacher-readiness-2026]] — Discriminant-validity criteria for separating self-reported AI capability from efficacy beliefs
 
 - [[pramod-agentic-ai-motivational-pathways-2026]] — Engagement predicts perceived rather than measured performance in an agentic AI path model (Pramod & Patil 2026)

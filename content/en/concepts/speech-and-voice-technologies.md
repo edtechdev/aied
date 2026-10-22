@@ -1,7 +1,7 @@
 ---
 title: Speech and Voice Technologies
 created: "2026-09-16T14:29:36-04:00"
-updated: "2026-09-28T21:37:06-04:00"
+updated: "2026-10-22T18:33:39-04:00"
 type: concept
 technology: [generative-ai, multimodal]
 assessment: [assessment]
@@ -58,6 +58,8 @@ Heavier use of a spoken support tool is not automatically better. [[student-ai-i
 
 A preregistered randomized field experiment tests the spoken channel against typed text within the same tutor, and finds the learning is in the tutoring rather than in the voice. [[ai-tutor-modality-randomized-field-experiment-2026|Yang, Van Alstyne and Dellarocas (2026)]] randomized 86 students in an online-MBA corporate-finance module between a structured tutor grounded in course materials and a holdout, then alternated each tutored student's channel weekly between voice and text so the comparison is identified inside each student: weekly mastery differed by −0.01 points of 11 (p = .98), and two one-sided tests rejected any true difference larger than ±0.3 SD. Voice transformed the process instead — 1.34 dialogue turns per minute against 0.75 in text weeks, and 11.3 questions against 4.6 — while the thinking pause collapsed (median tutor-to-student reply gap of 27 seconds in voice against 54 in text, where typed turns spent 25.9 seconds before the first keystroke plus 13.9 seconds composing) and the speech channel cost 2.8× more to deliver, at \$0.22 per voice minute against \$0.0165 per text message (\$413.46 voice and \$149.13 text over five weeks for 52 seats). On this evidence voice is an adoption and engagement lever, not an encoding one — which is exactly the trade-off any institution adding a spoken channel has to price.
 
+The same voice stack is now proposed for the reverse direction: [[voice-based-ai-feedback-interviews-higher-ed-2026|Tamme, Schilling & Hantel (2026)]] plan an ElevenLabs-based telephone agent that interviews students about a course in 5–7-minute conversations with adaptive probes. Their completed Munich pilot established feasibility; the planned field study, in one MIT Sloan course with approximately 60 students, has reported no results.
+
 ## AI in Oral and Spoken Assessment
 
 Oral assessment has always been pedagogically strong and logistically expensive, and speech technology now attacks the cost side. [[asynchronous-oral-assessment-2026|Pentland, Lowenthal and Krier (2026)]] describe asynchronous oral assessments (AOAs): prompts delivered just-in-time, brief time-limited webcam responses that cannot be revisited, and grading against embedded rubrics with auto-generated transcripts. Across two courses taught by a single instructor without scheduling constraints, students scored higher on AOAs than on in-person multiple-choice exams — significantly in Study 2 (midterm median 92.5 vs 70, p < .001; final 94.2 vs 86.4, p = .002) and directionally in Study 1, with moderate cross-format correlations (τ = .44; τ = .25, non-significant). Students shifted to more active preparation, 90.91% saw the format as closer to workplace communication than written exams, and 81.82% reported engaging more actively with content. The authors are careful that these are format score differences, not evidence of [[learning-gains|learning gains]], and that the integrity advantage is inferred rather than measured; a re-scoring check with an LLM found instructor scores systematically higher with moderate-to-good agreement (ICC 0.73 and 0.60), offered as a reliability check rather than an endorsement of [[automated-assessment|automated grading]].
@@ -93,6 +95,7 @@ Almost every strong claim here rests on one short study. The two TTS lesson stud
 
 ## Connected Articles
 
+- [[voice-based-ai-feedback-interviews-higher-ed-2026]] — A telephone voice agent turned on the feedback channel itself
 - [[asr-english-speaking-feedback-metacognition-2026]] — ASR speaking feedback: quality beats quantity, and proficiency moderates who benefits (Chen et al. 2026)
 - [[genai-pronunciation-feedback-wtc-2026]] — Pronunciation self-efficacy mediates GenAI pronunciation feedback and willingness to communicate (1,701 EFL learners)
 - [[llm-tts-dialogue-lesson-generation]] — LLM + TTS lesson pipeline: synthetic narration matched instructor voice; dialogue aided comprehension
