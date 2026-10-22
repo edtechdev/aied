@@ -9,6 +9,7 @@
 //   * a locale without them keeps linking the default-locale file rather than 404ing;
 //   * adding a language needs no copy edit and no code change - build its artifacts
 //     and re-run the manifest generator.
+import siteConfig from '../config/siteConfig';
 import { offlineArtifacts, defaultLocale } from '../data/offlineArtifacts';
 
 export type ArtifactKind = 'epub' | 'pdf' | 'llms' | 'llmsConcepts' | 'llmsFull';
@@ -21,6 +22,20 @@ const DEFAULT_FILENAMES: Record<ArtifactKind, string> = {
   llmsConcepts: 'llms-concepts.txt',
   llmsFull: 'llms-full.txt',
 };
+
+/**
+ * The kinds served from the repository rather than the site.
+ *
+ * These arrive already compressed - a PDF and an EPUB are both containers - so they
+ * cost their full size in the Pages artifact, where GitHub packs them at full
+ * weight. That pushed the artifact past its 1 GB limit and towards its 10-minute
+ * deploy timeout. The llms files are plain text, compress well, and are fetched
+ * programmatically by agents, so they stay on the site.
+ */
+const EXTERNAL_KINDS: ArtifactKind[] = ['epub', 'pdf'];
+
+/** Trailing slashes removed, so `${OFFLINE_BASE}/${file}` never doubles one. */
+const OFFLINE_BASE = siteConfig.offlineBaseUrl.replace(/\/+$/, '');
 
 /** The URL for one artifact in one locale, or undefined when neither locale has it. */
 export function artifactUrl(locale: string, kind: ArtifactKind): string | undefined {
@@ -44,6 +59,20 @@ export function artifactSize(locale: string, kind: ArtifactKind): string | undef
 }
 
 /**
+ * Where an artifact is actually served from.
+ *
+ * Same as `artifactUrl` for the kinds the site serves. For the editions it is the
+ * repository URL, so a page never links a path that would 404 on the site.
+ */
+export function artifactPublicUrl(locale: string, kind: ArtifactKind): string | undefined {
+  const internal = artifactUrl(locale, kind);
+  if (!internal) return undefined;
+  if (!EXTERNAL_KINDS.includes(kind)) return internal;
+  const file = internal.split('/').pop();
+  return file ? `${OFFLINE_BASE}/${file}` : internal;
+}
+
+/**
  * Point a locale's copy at its own artifacts.
  *
  * Also substitutes {epubSize} / {pdfSize} / {llmsSize} / {llmsConceptsSize} /
@@ -63,6 +92,18 @@ export function localizeArtifactLinks(html: string, locale: string): string {
     const size = artifactSize(locale, kind);
     if (size) {
       out = out.split(`{${kind}Size}`).join(size);
+    }
+  }
+
+  // The editions are not served by the site, so repoint them at the repository.
+  // This runs AFTER the per-locale swap above, so it matches whichever filename the
+  // locale resolved to - the English file for a locale with no edition of its own,
+  // its own file otherwise. One change covers every locale.
+  for (const kind of EXTERNAL_KINDS) {
+    const internal = artifactUrl(locale, kind);
+    const publicUrl = artifactPublicUrl(locale, kind);
+    if (internal && publicUrl && internal !== publicUrl) {
+      out = out.split(internal).join(publicUrl);
     }
   }
 

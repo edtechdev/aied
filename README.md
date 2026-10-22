@@ -179,6 +179,8 @@ PATH="/home/doug/.local/bin:/usr/bin:$PATH" /usr/bin/python3 tooling/build-epub.
 
 The EPUB/PDF and cover are committed artifacts built locally (like `llms-full.txt`); the CI deploy copies `public/` so they're served from `/aied/aied.epub` and `/aied/aied.pdf`. Building them requires `pandoc`, the `weasyprint` Python package for the PDF, and `pikepdf` for the PDF's language metadata. The script exits 1 if the metadata step cannot run; verify the PDF's `/Lang` by reading the catalog back with pikepdf rather than trusting the exit code.
 
+**Since 2026-10-22 the editions are no longer served from the site.** They stay committed under `public/` but the site links the GitHub raw URL (`offlineBaseUrl` in `site.config.json`) and `astro.config.mjs` strips them from `dist/`, because their ~161 MB of already-compressed bytes pushed the Pages artifact past its 1 GB limit. The llms files are still served from the site.
+
 ### How it stays current
 
 Scheduled jobs keep the knowledge base up to date:

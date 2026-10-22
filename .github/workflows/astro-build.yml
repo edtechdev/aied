@@ -34,3 +34,25 @@ jobs:
           # PWA: manifest + service worker must be present
           test -f dist/manifest.webmanifest
           test -f dist/sw.js
+      - name: Check the deploy artifact fits Pages
+        run: |
+          # The offline editions must NOT be in the artifact. They are already
+          # compressed (a PDF and an EPUB are both containers), so GitHub packs
+          # them at full weight: ~161 MB was enough to push the artifact past
+          # its 1 GB limit and towards its 10-minute deploy timeout.
+          if ls dist/*.epub dist/*.pdf >/dev/null 2>&1; then
+            echo "::error::dist/ still contains offline editions - astro.config.mjs stripOfflineEditions() did not run"
+            ls dist/*.epub dist/*.pdf
+            exit 1
+          fi
+          # Report the size GitHub will upload and fail before Pages does.
+          # Measured by gzip-packing dist, the same way upload-pages-artifact does.
+          BYTES=$(tar czf - dist | wc -c)
+          echo "Deploy artifact (gzip): $BYTES bytes"
+          # GitHub's limit is 1 GiB (1073741824). Fail at 1 GB to leave room for
+          # the packer's own overhead, and so a regression is caught here rather
+          # than as a Pages timeout after an 8-minute deploy.
+          if [ "$BYTES" -gt 1000000000 ]; then
+            echo "::error::deploy artifact is $BYTES bytes - over 1 GB, Pages will warn and may time out"
+            exit 1
+          fi

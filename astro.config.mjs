@@ -3,11 +3,48 @@ import pagefind from 'astro-pagefind';
 import sitemap from '@astrojs/sitemap';
 import { VitePWA } from 'vite-plugin-pwa';
 import { readFileSync } from 'node:fs';
+import { readdirSync, rmSync } from 'node:fs';
 
 // Single source of truth for site-wide metadata (title, short name, URLs,
 // editor, colors). Read here for the PWA manifest; TS components import the
 // same file via src/config/siteConfig.ts.
 const siteConfig = JSON.parse(readFileSync(new URL('./site.config.json', import.meta.url), 'utf-8'));
+
+/**
+ * Strip the offline editions from the build output.
+ *
+ * The EPUB/PDF are committed under `public/` and linked to from the repository
+ * (see `offlineBaseUrl` in site.config.json), but they are not part of the
+ * website. A PDF and an EPUB are both already compressed, so GitHub packs them
+ * into the Pages artifact at full weight - ~161 MB of files, enough to push the
+ * artifact past its 1 GB limit and towards its 10-minute deploy timeout.
+ *
+ * Astro copies `public/` into `dist/` verbatim and offers no exclusion, so they
+ * are removed from the output here. The llms files stay: they are plain text,
+ * compress well, and are fetched programmatically by agents.
+ *
+ * Verified by building and listing `dist/` - it must contain no .epub/.pdf.
+ */
+function stripOfflineEditions() {
+  return {
+    name: 'strip-offline-editions',
+    apply: 'build',
+    enforce: 'post',
+    closeBundle() {
+      const out = new URL('./dist/', import.meta.url);
+      let removed = 0;
+      for (const entry of readdirSync(out)) {
+        if (/\.(epub|pdf)$/.test(entry)) {
+          rmSync(new URL(`./${entry}`, out), { force: true });
+          removed += 1;
+        }
+      }
+      if (removed) {
+        console.log(`strip-offline-editions: removed ${removed} edition file(s) from dist/`);
+      }
+    },
+  };
+}
 
 // https://astro.build/config
 // `site` must be the origin (no path) — Astro appends `base` itself; the
@@ -37,6 +74,7 @@ export default defineConfig({
   integrations: [pagefind(), sitemap()],
   vite: {
     plugins: [
+      stripOfflineEditions(),
       VitePWA({
         // The site lives under https://edtechdev.github.io/aied/
         base: `${siteConfig.basePath}/`,
