@@ -171,10 +171,13 @@ Regenerate committed artifacts after content changes:
 python3 tooling/scripts/generate-llms-files.py
 
 # Regenerate the offline EPUB + PDF (concepts + FAQs, cover, TOC)
-python3 tooling/build-epub.py
+# The interpreter matters: the PDF stage runs under pandoc -> the weasyprint
+# console script (its own shebang), while the metadata step imports pikepdf
+# in-process. Use /usr/bin/python3, which has both. See AGENTS.md.
+PATH="/home/doug/.local/bin:/usr/bin:$PATH" /usr/bin/python3 tooling/build-epub.py
 ```
 
-The EPUB/PDF and cover are committed artifacts built locally (like `llms-full.txt`); the CI deploy copies `public/` so they're served from `/aied/aied.epub` and `/aied/aied.pdf`. Building them requires `pandoc`, the `weasyprint` Python package for the PDF, and `pikepdf` for the PDF's language metadata.
+The EPUB/PDF and cover are committed artifacts built locally (like `llms-full.txt`); the CI deploy copies `public/` so they're served from `/aied/aied.epub` and `/aied/aied.pdf`. Building them requires `pandoc`, the `weasyprint` Python package for the PDF, and `pikepdf` for the PDF's language metadata. The script exits 1 if the metadata step cannot run; verify the PDF's `/Lang` by reading the catalog back with pikepdf rather than trusting the exit code.
 
 ### How it stays current
 

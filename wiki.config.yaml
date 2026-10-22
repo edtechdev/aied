@@ -144,7 +144,10 @@ build:
   llms: python3 tooling/scripts/generate-llms-files.py
   # Offline books are LOCAL committed artefacts, rebuilt ONLY on explicit
   # request - never automatically after content edits.
-  epub: python3 tooling/build-epub.py
+  # The interpreter is pinned: the PDF stage runs under pandoc -> the weasyprint
+  # console script (its own shebang), while the metadata step imports pikepdf
+  # in-process, so a bare `python3` can build a PDF with no /Lang metadata.
+  epub: PATH="/home/doug/.local/bin:/usr/bin:$PATH" /usr/bin/python3 tooling/build-epub.py
   kdp_epub: python3 tooling/build-kdp-epub.py
 
 # ---------------------------------------------------------------------------
