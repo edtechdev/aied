@@ -251,7 +251,10 @@ npm run build
 # Regenerate the committed offline artifacts after content changes (the Notice page reads
 # site.config.json, so a change to the AI-use disclosure also needs a rebuild)
 python3 tooling/scripts/generate-llms-files.py
-python3 tooling/build-epub.py
+# The interpreter matters here - the PDF stage runs under pandoc -> the weasyprint
+# console script (its own shebang), while the metadata step imports pikepdf
+# in-process. /usr/bin/python3 has both. See AGENTS.md.
+PATH="/home/doug/.local/bin:/usr/bin:$PATH" /usr/bin/python3 tooling/build-epub.py
 
 # Deploy (GitHub Actions deploys dist/ on push). Push only with explicit approval; CI
 # rebuilds the whole site on every push.
@@ -288,12 +291,15 @@ Both are generated from the **same markdown export** as the site and contain the
 Regenerate both with one command:
 
 ```bash
-python3 tooling/build-epub.py
+# The interpreter matters: the PDF stage runs under pandoc -> the weasyprint
+# console script (its own shebang), while the metadata step imports pikepdf
+# in-process. /usr/bin/python3 has both. See AGENTS.md.
+PATH="/home/doug/.local/bin:/usr/bin:$PATH" /usr/bin/python3 tooling/build-epub.py
 ```
 
 This writes `public/aied.epub` and `public/aied.pdf`. Supporting files:
 
-- `tooling/build-epub.py` — assembles the shared markdown export, runs pandoc for the EPUB (hard-coded hierarchical TOC numbering) and pandoc + **weasyprint** for the PDF (clickable blue TOC via CSS counters), post-processes the EPUB (Notice page carrying the generation date, the CC0 public-domain mark and its localized name, landmarks labeling), and finishes by setting the PDF language metadata with **pikepdf**.
+- `tooling/build-epub.py` — assembles the shared markdown export, runs pandoc for the EPUB (hard-coded hierarchical TOC numbering) and pandoc + **weasyprint** for the PDF (clickable blue TOC via CSS counters), post-processes the EPUB (Notice page carrying the generation date, the CC0 public-domain mark and its localized name, landmarks labeling), and finishes by setting the PDF language metadata with **pikepdf**. It fails loudly (exit 1) when `pikepdf` is missing from the invoking interpreter, and prints which interpreter that is.
 - `tooling/pdf-style.css` — PDF print layout (A4, page numbers, cover page, blue clickable links).
 - `tooling/gen-epub-cover.mjs` — renders the book cover (`public/epub-cover.png`) with sharp.
 - `tooling/gen-pd-mark.mjs` — rasterizes the CC0 public-domain mark (`src/assets/cc-zero.svg`, the Creative Commons press-kit `zero.svg`, itself CC0) to `public/public-domain-mark.png`, which the EPUB/PDF Notice page and the covers use. The site inlines the SVG instead (`src/components/PublicDomainMark.astro`), so the mark follows the theme.
@@ -360,10 +366,25 @@ script-only cron watchdog (no LLM, silent while the preview is fresh).
 - **Python 3.9+** with **PyYAML** (`pip install pyyaml`) — the config, the concept
   registry and the linters all parse YAML. Everything else is stdlib.
 - **pandoc** — for the EPUB/PDF generation (`tooling/build-epub.py`)
-- **weasyprint** (Python, `pip install weasyprint`) — PDF engine used by pandoc for `aied.pdf`
-- **pikepdf** (Python, `pip install pikepdf`) — normalizes the PDF `/Lang` to `en-US` and re-affirms the title; best-effort, so its absence degrades metadata instead of failing the build
+- **weasyprint** (Python, `pip install weasyprint`) — PDF engine used by pandoc for `aied.pdf`. pandoc reaches it through the `weasyprint` console script, so it runs under *that script's shebang interpreter*, not necessarily the one you invoked the build with.
+- **pikepdf** (Python, `pip install pikepdf`) — normalizes the PDF `/Lang` to `en-US` and re-affirms the title. Imported **in-process**, so it must be present in the interpreter you invoke the build with. `build-epub.py` now exits 1 when it is missing, naming the interpreter; previously this was best-effort and a PDF shipped with no `/Lang` at all.
 - **pdftotext** (poppler-utils) for PDF extraction
 - **GitHub Pages** for deployment
+
+### The EPUB/PDF build uses two interpreters
+
+The build's two halves do not share an interpreter, which is why a missing
+`pikepdf` is so easy to miss:
+
+| stage | runs under |
+|---|---|
+| EPUB and PDF rendering | `pandoc` → the `weasyprint` console script → **that script's shebang** |
+| PDF `/Lang` + title metadata | `import pikepdf` in-process → **whatever invoked the script** |
+
+Consequence: invoking the build with a Python that lacks `pikepdf` still produces
+a complete PDF — it silently omits `/Lang`, and the build exits 0. Install
+`pikepdf` for the interpreter you are invoking, and prefer the pinned invocation
+in AGENTS.md, which uses `/usr/bin/python3` (it has both packages).
 
 ## Troubleshooting
 
