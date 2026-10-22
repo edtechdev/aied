@@ -1,7 +1,7 @@
 ---
 title: "What Are Best Practices for Reporting and Interpreting AI in Education Research?"
 created: "2026-09-16T15:05:00-04:00"
-updated: "2026-10-02T08:21:34-04:00"
+updated: "2026-10-21T14:32:00-04:00"
 connected_faqs: [checking-whether-educational-ai-works, research-gaps-aied, evaluating-ai-interventions-methods]
 weight: 65
 type: faq
@@ -14,9 +14,6 @@ page_kind: [evaluation]
 methods: [ai-ed-evaluation, benchmark, meta-analysis-systematic-review, research-methods-aied]
 reviewed_by: [editor]
 ---
-
-# What Are Best Practices for Reporting and Interpreting AI in Education Research?
-
 You are writing up an AI in education study whose claim is already running ahead of its design, or reviewing one and deciding whether the headline number means anything. Either way the same six omissions decide it: which AI system was actually used, what it was configured to do, what pedagogical role it played, whether humans designed or reviewed its output, what the outcome measure truly captured, and what the authors did about bias, cost and limitations. An author who omits them submits a study that cannot be appraised; a reviewer who does not look for them cannot tell a designed intervention from a recycled tool demo. "Unassessable" — not "supported" and not "refuted" — is the honest verdict when they are missing.
 
 The stakes are not hypothetical. [[oneill-presumed-effective-meta-analysis-2026|O'Neill (2026)]] audited 14 peer-reviewed meta-analyses claiming AI improves education and found that *none* provided a valid basis for the claims it advanced. [[bartos-ai-learning-meta-meta-analysis-2026|Bartoš et al. (2026)]] pooled 1,840 effect sizes from 67 meta-analyses and found that once publication bias is modeled, the average effect falls to roughly **one-third** of the published median (SMD = 0.196 versus 0.67). [[citation-errors-hallucinations-computing-education-2026|Denny et al. (2026)]] verified **30 fabricated references across 14 computing-education papers**, all published in 2025 or 2026 — a defect that reaches readers precisely because reviewers cannot verify every entry in a reference list. Reporting discipline decides whether the field's evidence base is usable at all. For the design choices underneath it see [[research-methods-aied|Research Methods in AI in Education]]; for the catalog of failure modes, [[limitations-in-aied-research|Limitations in AIEd Research]]. For the reader's side — what a practitioner does with a paper once it exists — see [[interpreting-and-applying-aied-research|Interpreting and Applying AIEd Research]].

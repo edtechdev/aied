@@ -1,7 +1,7 @@
 ---
 title: "How Do I Write a Course AI Policy and Communicate It to Students?"
 created: "2026-09-16T15:58:20-04:00"
-updated: "2026-10-02T08:21:34-04:00"
+updated: "2026-10-21T14:32:00-04:00"
 connected_faqs: [should-we-use-ai-detectors, redesign-assessment-ai-era, institutional-ai-policy, asynchronous-online-courses-ai]
 weight: 70
 type: faq
@@ -15,9 +15,6 @@ methods: [qualitative-research]
 institutions: [educational-policy-ai]
 reviewed_by: [editor]
 ---
-
-# How Do I Write a Course AI Policy and Communicate It to Students?
-
 You have one syllabus, one assignment sheet, and a room full of students who have already written their own private rules about [[generative-ai|generative AI]]. Whatever you publish has to be fair to the student who plays by the rules and to the one who does not, and has to be something you can actually apply to forty submissions without becoming either a pushover or a police officer.
 
 The bottom line: write fewer rules than you are tempted to, tie each one to the specific thing you are assessing, name a single standard place where students declare AI use, and make your enforcement route evidence you can see with your own eyes rather than a detector score. A policy that explains itself is doing assessment design and communication work at once — which is why it takes an afternoon and saves a semester of arguments.

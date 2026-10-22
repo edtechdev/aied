@@ -1,7 +1,7 @@
 ---
 title: "How Can AI Assist with Educational Research?"
 created: "2026-10-05T11:23:36-04:00"
-updated: "2026-10-05T14:14:11-04:00"
+updated: "2026-10-21T14:32:00-04:00"
 weight: 72
 type: faq
 connected_faqs: [evaluating-ai-interventions-methods, reporting-interpreting-aied-research, research-gaps-aied, equity-ethics-pedagogical-safety-research]
@@ -23,9 +23,6 @@ ai_assist:
     date: "2026-10-05"
     agent: hermes-agent
 ---
-
-# How Can AI Assist with Educational Research?
-
 AI can take real work out of an educational research project — finding literature, screening thousands of abstracts, drafting analysis code, summarizing open-ended responses, tightening a manuscript. What it cannot do is carry responsibility for what the project concludes. The honest picture, and the one the evidence supports, is a division of labor rather than a handover: assign automation to procedural load, verify every output, and keep the interpretive decisions human ([[scaffolding-systematic-reviews-2026|Wang et al., 2026]]).
 
 This page is about AI as the *instrument* of the research work — search, screening, synthesis, coding, analysis, and writing, including the practitioner inquiry a lecturer runs on their own teaching. Whether a particular AI *intervention* helps learners is a different question, covered by the FAQs linked at the end and by [[ai-assisted-educational-research|AI-Assisted Educational Research]]. Much of what follows is honestly caveat: the evidence base is thin, and several of the failure modes are silent.

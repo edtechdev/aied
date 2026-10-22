@@ -1,16 +1,14 @@
 ---
 title: "How Can AI Agents Support Students and Instructors?"
 created: "2026-08-25T09:20:00-04:00"
-updated: "2026-10-02T08:21:34-04:00"
+updated: "2026-10-21T14:32:00-04:00"
 connected_faqs: [developing-ai-tutor, training-ai-tutors-to-guide-rather-than-answer]
 weight: 66
+audience: [instructors, learners, administrators]
 foundations: [agentic-ai, ai-literacy, cognitive-offloading]
 technology: [human-in-the-loop-ai, intelligent-tutoring, pedagogical-agent]
 reviewed_by: [editor]
 ---
-
-# How Can AI Agents Support Students and Instructors?
-
 **AI agents can move beyond single-turn question answering** by planning, using tools, remembering relevant context, coordinating subtasks, and adapting support over a sequence of interactions. For students, plausible roles include adaptive tutoring, study planning, [[formative-assessment|formative]] feedback, guided [[problem-solving|problem solving]], practice generation, simulation, prerequisite recommendations, and reflective or metacognitive [[prompt-engineering|prompting]]. For instructors, agents can assist with material development, [[automated-question-generation|question generation]] and validation, feedback triage, course [[learning-analytics|analytics]], instructional-design workflows, resource retrieval, and the orchestration of specialized agents.
 
 ## Recurring agentic capabilities

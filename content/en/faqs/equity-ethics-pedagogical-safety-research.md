@@ -1,17 +1,15 @@
 ---
 title: "How Should AI in Education Research Incorporate Equity, Accessibility, Privacy, Ethics, and Pedagogical Safety?"
 created: "2026-08-25T09:20:00-04:00"
-updated: "2026-10-02T08:21:34-04:00"
+updated: "2026-10-21T14:32:00-04:00"
 connected_faqs: [ai-disabled-neurodivergent-learners, ai-guidance-children-under-13, institutional-ai-policy, research-gaps-aied]
 weight: 60
+audience: [researchers, instructors, instructional designers]
 
 ethics: [accessibility, digital-divide, equity-in-ai-education, ethics, privacy, pedagogical-safety]
 methods: [research-methods-aied]
 reviewed_by: [editor]
 ---
-
-# How Should AI in Education Research Incorporate Equity, Accessibility, Privacy, Ethics, and Pedagogical Safety?
-
 **These should be treated as design requirements and evaluation outcomes from the beginning — not as limitations added to the discussion section after an efficacy study is complete.**
 
 ## Equity

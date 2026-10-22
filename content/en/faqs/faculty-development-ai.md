@@ -1,7 +1,7 @@
 ---
 title: "How Do I Design Faculty Development for AI That Actually Changes Practice?"
 created: "2026-09-16T15:58:20-04:00"
-updated: "2026-10-02T08:21:34-04:00"
+updated: "2026-10-21T14:32:00-04:00"
 connected_faqs: [faculty-ai-competencies, top-10-findings-ai-education-instructors]
 weight: 65
 type: faq
@@ -13,9 +13,6 @@ level: [higher ed, teacher education, k 12]
 institutions: [change-management]
 reviewed_by: [editor]
 ---
-
-# How Do I Design Faculty Development for AI That Actually Changes Practice?
-
 If you run faculty development, the pressure you are under is probably one of these: your provost wants an AI program this year, attendance is fine but nothing changes in classrooms, or the people who most need it will not come. All three point at the same design fault. What changes a teacher's practice is not learning what a tool can do; it is spending supported, structured time on a problem in *their own* course, long enough that a new habit replaces an old one, with the institution explicitly saying yes to the experiment instead of merely permitting it.
 
 **The short version.** Stop running tool demonstrations. Standardize a session cycle in which every participant brings a real course artifact and leaves with a revised one, wrap verification, disclosure and risk control into the working template rather than an ethics add-on, stretch the program past a single day and pair it with mentoring, run [[discipline-specific-aied|discipline-specific]] cohorts, and measure the artifacts people produced at a delay rather than how confident they felt on the last afternoon. The rest of this page is the evidence for each of those choices, the institutional conditions that decide whether they hold, and what to tell a dean who asks whether it worked.

@@ -1,9 +1,10 @@
 ---
 title: "Does Using AI Actually Help My Students Learn?"
 created: "2026-08-25T09:20:00-04:00"
-updated: "2026-10-02T08:21:34-04:00"
+updated: "2026-10-21T14:32:00-04:00"
 connected_faqs: [evaluating-ai-interventions-methods, how-ai-impacts-students, top-10-findings-ai-education-instructors]
 weight: 90
+audience: [instructors]
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [active-learning]
 assessment: [assessment, self-report-measures]
@@ -11,9 +12,6 @@ page_kind: [evaluation]
 methods: [ai-ed-evaluation]
 reviewed_by: [editor]
 ---
-
-# Does Using AI Actually Help My Students Learn?
-
 **Yes, it can—but better work produced with AI is not necessarily evidence of better learning.** Research documents genuine learning benefits, negligible effects, and learning harms. The important question is not simply whether students use AI, but **what the AI helps them do, what thinking remains their responsibility, and what they can do afterward**.
 
 The knowledge base calls the distinction between successful AI-assisted work and acquired capability the **performance–learning gap**. A student might submit a stronger essay or solve more practice problems with AI while becoming no better—and sometimes worse—at doing comparable work independently. Conversely, well-designed AI feedback, examples, and tutoring can improve subsequent performance without AI. See [[learning-gains|Learning Gains]] and [[cognitive-offloading|Cognitive Offloading]]. 

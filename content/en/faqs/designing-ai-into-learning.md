@@ -1,16 +1,14 @@
 ---
 title: "How Should AI Be Designed Into the Learning Experience?"
 created: "2026-08-25T09:20:00-04:00"
-updated: "2026-10-02T08:21:34-04:00"
+updated: "2026-10-21T14:32:00-04:00"
 connected_faqs: [designing-educational-ai-software, developing-ai-tutor]
 weight: 72
+audience: [instructional designers, instructors]
 foundations: [learning-design, reducing-ai-misuse]
 pedagogy: [active-learning, pedagogy, scaffolding]
 reviewed_by: [editor]
 ---
-
-# How Should AI Be Designed Into the Learning Experience?
-
 **Start with the learning goal and the learning process — not the AI feature.** The knowledge base's [[pedagogy|Pedagogies and Teaching Strategies]] concept emphasizes that the same AI can function as a scaffold, [[socratic-method|Socratic]] interlocutor, feedback partner, [[simulation]], or answer generator depending on the instructional design. What matters is whether the configuration preserves the activity that produces the intended learning.
 
 ## A strong default pattern

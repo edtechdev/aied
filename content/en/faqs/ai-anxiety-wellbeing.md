@@ -1,7 +1,7 @@
 ---
 title: "How Does AI Affect Student Anxiety and Well-Being, and What Can We Do?"
 created: "2026-09-16T15:58:20-04:00"
-updated: "2026-10-02T08:21:34-04:00"
+updated: "2026-10-21T14:32:00-04:00"
 connected_faqs: [how-ai-impacts-students, study-with-ai]
 weight: 60
 type: faq
@@ -12,9 +12,6 @@ audience: [instructors, administrators]
 level: [higher ed, secondary, k 12]
 reviewed_by: [editor]
 ---
-
-# How Does AI Affect Student Anxiety and Well-Being, and What Can We Do?
-
 **The situation you are likely in.** A student tells you, in office hours or on an intake form, that finishing the degree no longer seems worth it because AI can already do the job they were training for. Another goes quiet, submits less, stops asking questions. You want to help, you are unsure whether this needs a referral or a strategy, and you have ten minutes to decide.
 
 **The bottom line.** AI anxiety is a measurable emotional response, most of its drivers sit in career and competence rather than in the technology, and reassurance does not move it. What moves it is mastery experiences, evidence that AI-related work is worth the effort, and real career adaptability. A few students need a referral rather than a strategy — and the evidence tells you less about that boundary than you would like.

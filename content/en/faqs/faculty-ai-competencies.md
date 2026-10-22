@@ -1,7 +1,7 @@
 ---
 title: "What Competencies Do Faculty Need in Regard to AI?"
 created: "2026-08-25T09:20:00-04:00"
-updated: "2026-10-02T08:21:34-04:00"
+updated: "2026-10-21T14:32:00-04:00"
 connected_faqs: [faculty-development-ai, ai-save-instructor-time, top-10-findings-ai-education-instructors]
 weight: 70
 foundations: [ai-literacy, educational-development, teacher-role, teacher-ai-competency]
@@ -9,9 +9,6 @@ audience: [faculty developers, instructors]
 level: [adult learning]
 reviewed_by: [editor]
 ---
-
-# What Competencies Do Faculty Need in Regard to AI?
-
 **Faculty competency should extend well beyond prompt writing.** The knowledge base's [[ai-literacy|AI Literacy]] synthesis identifies four broad dimensions:
 
 - **Foundational understanding** of AI capabilities and limitations.

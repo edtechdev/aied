@@ -1,17 +1,15 @@
 ---
 title: "What Are Best Practices and Tips for Designing Effective Educational AI Software?"
 created: "2026-08-25T09:20:00-04:00"
-updated: "2026-10-02T08:21:34-04:00"
+updated: "2026-10-21T14:32:00-04:00"
 connected_faqs: [developing-ai-tutor, designing-ai-into-learning, making-ai-better-at-supporting-learning]
 weight: 64
+audience: [educational technology developers, software developers, instructional designers]
 foundations: [learning-design]
 ethics: [accessibility, equity-in-ai-education, pedagogical-safety]
 technology: [edtech-platform]
 reviewed_by: [editor]
 ---
-
-# What Are Best Practices and Tips for Designing Effective Educational AI Software?
-
 **Educational AI should be designed as an instructional system, not merely a general-purpose model with an educational interface.** The recent design research in the knowledge base sharpens that claim into something more specific: the strongest systems are built as **bounded experts under human supervision**, co-designed with the teachers and learners who will use them, and grounded in verifiable content rather than model memory. A practical set of design rules:
 
 - Align the system to explicit learning goals.

@@ -1,7 +1,7 @@
 ---
 title: "What Are the Top 10 Findings from AI in Education Research That Instructors Should Know About?"
 created: "2026-08-24T09:42:00-04:00"
-updated: "2026-10-02T08:21:34-04:00"
+updated: "2026-10-21T14:32:00-04:00"
 connected_faqs: [addressing-common-misconceptions-ai-education, does-ai-help-students-learn, reduce-ai-cheating, faculty-ai-competencies]
 weight: 100
 foundations: [ai-education, ai-literacy, cognitive-offloading, teacher-role]
@@ -10,9 +10,6 @@ research_method: [literature review]
 audience: [instructors]
 reviewed_by: [editor]
 ---
-
-# What Are the Top 10 Findings from AI in Education Research That Instructors Should Know About?
-
 You are not being asked to become an AI researcher. You are being asked to make ordinary teaching decisions — what to allow on an assignment, what a grade is supposed to prove, what your students should be able to do without the tool — and you would like them to rest on more than opinion and vendor claims.
 
 The bottom line, across the research this knowledge base has collected: **how AI is built into the learning activity decides whether it strengthens thinking or replaces it.** It is not simply "use AI" or "ban AI," and the studies behind these findings are recent, often short-term, and tied to specific courses. Treat them as the strongest available guidance rather than settled law.

@@ -1,16 +1,14 @@
 ---
 title: "How Can I Reduce AI Cheating in My Course?"
 created: "2026-08-25T09:20:00-04:00"
-updated: "2026-10-02T08:21:34-04:00"
+updated: "2026-10-21T14:32:00-04:00"
 connected_faqs: [should-we-use-ai-detectors, redesign-assessment-ai-era, addressing-common-misconceptions-ai-education, top-10-findings-ai-education-instructors]
 weight: 88
+audience: [instructors, assessment designers]
 foundations: [academic-integrity, ai-literacy, reducing-ai-misuse]
 assessment: [assessment]
 reviewed_by: [editor]
 ---
-
-# How Can I Reduce AI Cheating in My Course?
-
 **The strongest direction in the knowledge base is to rely less on detection and more on structural [[assessment|assessment design]], explicit expectations, learning verification, and [[ai-literacy]].** The [[academic-integrity|Academic Integrity]] synthesis reports substantial limitations in AI-text detection and argues that academic integrity in the [[generative-ai]] era is increasingly an assessment-design problem rather than simply a detection problem. Detection tools are unreliable and procedurally unfair. In a controlled study of 642 published English abstracts, two commercial detectors flagged guideline-compliant light AI *editing* at 38–80%, flagged unmodified 2023–25 originals at 9–15% (non-[[stem-education|STEM]] far above STEM, p<0.001), and — after AI "humanization" — caught fewer than 4% of AI-labeled rewrites, an integrity catch-22 that punishes honest assistance while enabling deliberate evasion.([[karr-ai-detection-humanization-2026]]) In a covert field study, 94% of wholly AI-generated submissions injected into live online examinations across five psychology modules went undetected, and the AI work on average outscored real students; Vanderbilt University disabled its licensed detector after failing to validate an advertised 1% false-positive rate that implied roughly 750 mislabelled students among 75,000 annual submissions.([[teichmann-detecting-undetectable-misconduct-2026]]) Detection alone is therefore a weak lever — the stronger lever is the assessment-design argument set out in full in [[redesign-assessment-ai-era]]. Below are concrete, actionable approaches, roughly ordered by strength of evidence.
 
 ## 1. Guardrailed AI tools: "hint, don't answer"

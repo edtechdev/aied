@@ -1,7 +1,7 @@
 ---
 title: "How Is AI Impacting Students?"
 created: "2026-08-27T07:59:08-04:00"
-updated: "2026-10-02T08:21:34-04:00"
+updated: "2026-10-21T14:32:00-04:00"
 connected_faqs: [does-ai-help-students-learn, study-with-ai, ai-anxiety-wellbeing, ai-guidance-children-under-13]
 weight: 82
 foundations: [ai-literacy, cognitive-offloading, learner-identity]
@@ -10,9 +10,6 @@ ethics: [equity-in-ai-education]
 audience: [learners]
 reviewed_by: [editor]
 ---
-
-# How Is AI Impacting Students?
-
 **AI impacts students in both positive and negative directions, and usually at the same time.** The same tool can scaffold a student's learning while inviting over-reliance, raise motivation while eroding agency, or support belonging while threatening authorship. Research on the [[student-experience|Student Experience]] points to recurring positive and negative impacts across several dimensions — and the direction depends heavily on how the AI is designed and how students use it.
 
 ## Positive impacts
