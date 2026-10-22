@@ -1,13 +1,13 @@
 ---
 title: Modelado del estudiantado e instrucción adaptativa
 created: "2026-09-28T18:15:36-04:00"
-updated: "2026-10-22T07:33:49-04:00"
+updated: "2026-10-22T09:13:53-04:00"
 connected_faqs: [making-simulated-students-behave-like-learners]
 type: concept
 technology: [adaptive-learning, cognitive-diagnosis, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, personalized-learning, simulating-students, student-modeling]
 confidence: high
 translation_of: concepts/student-modeling
-source_updated: "2026-10-21T10:45:00-04:00"
+source_updated: "2026-10-22T09:11:45-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:

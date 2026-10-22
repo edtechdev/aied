@@ -1,7 +1,7 @@
 ---
 title: "¿Cómo hacemos que un estudiante simulado se comporte como un estudiante real?"
 created: "2026-10-02T09:08:04-04:00"
-updated: "2026-10-22T07:28:42-04:00"
+updated: "2026-10-22T09:13:53-04:00"
 weight: 71
 type: faq
 connected_faqs: [checking-whether-educational-ai-works, addressing-common-misconceptions-ai-education, making-ai-better-at-supporting-learning]
@@ -13,7 +13,7 @@ level: [higher ed, k 12]
 confidence: high
 methods: [benchmark]
 ethics: [pedagogical-safety, trust-calibration]
-source_updated: "2026-10-21T14:32:00-04:00"
+source_updated: "2026-10-22T09:11:45-04:00"
 translation_of: faqs/making-simulated-students-behave-like-learners
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 reviewed_by: [editor]

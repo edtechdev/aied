@@ -1,7 +1,7 @@
 ---
 title: "¿Cómo afecta la IA a la ansiedad y el bienestar del estudiantado, y qué podemos hacer?"
 created: "2026-09-22T18:43:09-04:00"
-updated: "2026-10-22T07:28:08-04:00"
+updated: "2026-10-22T09:13:53-04:00"
 connected_faqs: [how-ai-impacts-students, study-with-ai]
 weight: 60
 type: faq
@@ -52,7 +52,7 @@ El ajuste ordinario suena a *«todavía no sé usarlo bien»*. Actúe cuando sue
 
 El diseño se sigue de ahí: dé a los estudiantes experiencias de dominio y evidencia concreta de que la IA vale el esfuerzo (práctica de bajo riesgo, evaluación guiada de resultados de IA, revisión guiada por retroalimentación) y ofrezca un apoyo informativo más que puramente reconfortante. El apoyo percibido precede a las valoraciones favorables.
 
-**Enseñe escrutinio en lugar de evitación.** La ansiedad y la implicación pueden moverse juntas, lo que cambia lo que usted hace. En una encuesta a 107 estudiantes, [[ai-anxiety-strategic-regulation-writing-2026|Kim (2026)]] encuentra que una mayor ansiedad ante la IA se asocia positivamente con la conducta de verificación y revisión (β = .24, p < .01) y que la capacidad evaluativa predice la implicación activa (β = .46, p < .001), ordenando a los estudiantes en cuatro tipos regulatorios: dependencia acrítica (18,7%), integración selectiva (34,6%), transformación evaluativa (31,8%) y rechazo estratégico (14,9%). La implicación va en contra de la reducción de la ansiedad como objetivo: enseñar escrutinio y juicio evaluativo convierte a los estudiantes ansiosos en usuarios más deliberados de la [[generative-ai|IA generativa]] en lugar de más evasivos, lo que conecta esta página con [[verify-ai-output|enseñar a los estudiantes a verificar el resultado de la IA]] y con [[ai-literacy]].
+**Enseñe escrutinio en lugar de evitación.** La ansiedad y la implicación pueden moverse juntas, lo que cambia lo que usted hace. En una encuesta a 107 estudiantes, [[ai-anxiety-strategic-regulation-writing-2026|Kim (2026)]] encuentra que una mayor ansiedad ante la IA se asocia positivamente con la conducta de verificación y revisión (β = 0,24, p < 0,01) y que la capacidad evaluativa predice la implicación activa (β = 0,46, p < 0,001), ordenando a los estudiantes en cuatro tipos regulatorios: dependencia acrítica (18,7%), integración selectiva (34,6%), transformación evaluativa (31,8%) y rechazo estratégico (14,9%). La implicación va en contra de la reducción de la ansiedad como objetivo: enseñar escrutinio y juicio evaluativo convierte a los estudiantes ansiosos en usuarios más deliberados de la [[generative-ai|IA generativa]] en lugar de más evasivos, lo que conecta esta página con [[verify-ai-output|enseñar a los estudiantes a verificar el resultado de la IA]] y con [[ai-literacy]].
 
 **Construya adaptabilidad profesional en lugar de solo confianza.** [[duan-ai-anxiety-career-decisions-college-2026|Duan et al. (2026)]] concluyen que la adaptabilidad profesional es el mecanismo protector clave y recomiendan universalizar los cursos de alfabetización en IA y de planificación profesional junto con la integración entre la industria y la educación. [[dag-ai-perceptions-career-anxiety-health-2026|Dağ et al. (2026)]] llegan a la misma conclusión desde las ciencias de la salud: programas reforzados más alfabetización en IA y orientación profesional, porque la ansiedad ante la IA moldea el futuro profesional de los estudiantes y no sus actitudes hacia una herramienta.
 

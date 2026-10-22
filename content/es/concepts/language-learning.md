@@ -2,7 +2,7 @@
 connected_resources: [mglearn]
 title: Aprendizaje de lenguas
 created: "2026-09-28T20:12:29-04:00"
-updated: "2026-10-22T07:34:46-04:00"
+updated: "2026-10-22T09:13:53-04:00"
 type: concept
 foundations: [ai-education]
 technology: [generative-ai]
@@ -11,7 +11,7 @@ discipline: [language learning, writing education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/language-learning
-source_updated: "2026-10-21T12:05:00-04:00"
+source_updated: "2026-10-22T09:11:45-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:

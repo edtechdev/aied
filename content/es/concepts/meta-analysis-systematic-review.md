@@ -1,7 +1,7 @@
 ---
 title: Metaanálisis y revisión sistemática
 created: "2026-09-28T18:22:28-04:00"
-updated: "2026-10-02T21:28:30-04:00"
+updated: "2026-10-22T09:13:53-04:00"
 type: concept
 foundations: [ai-education]
 connected_faqs: [reporting-interpreting-aied-research]
@@ -10,7 +10,7 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation, meta-analysis-systematic-review, research-methods-aied]
 translation_of: concepts/meta-analysis-systematic-review
-source_updated: "2026-09-30T14:23:52-04:00"
+source_updated: "2026-10-22T09:11:45-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:

@@ -1,14 +1,14 @@
 ---
 title: Investigación cuantitativa
 created: "2026-09-28T19:11:02-04:00"
-updated: "2026-10-22T07:34:46-04:00"
+updated: "2026-10-22T09:13:53-04:00"
 type: concept
 assessment: [educational-measurement]
 research_method: [survey, experiment]
 confidence: high
 methods: [quantitative-research, research-methods-aied]
 translation_of: concepts/quantitative-research
-source_updated: "2026-10-16T08:47:09-04:00"
+source_updated: "2026-10-22T09:11:45-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:

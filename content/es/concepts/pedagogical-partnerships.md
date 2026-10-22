@@ -1,7 +1,7 @@
 ---
 title: "Alianzas pedagógicas"
 created: "2026-09-28T18:18:41-04:00"
-updated: "2026-09-30T09:59:35-04:00"
+updated: "2026-10-22T09:13:53-04:00"
 type: concept
 foundations: [agency, curriculum-design, learning-design, teacher-role]
 pedagogy: [collaborative-learning, pedagogical-partnerships, pedagogy, student-engagement]
@@ -10,7 +10,7 @@ audience: [instructors, learners, instructional designers, administrators]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/pedagogical-partnerships
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-22T09:11:45-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:

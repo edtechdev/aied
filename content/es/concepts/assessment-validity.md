@@ -1,7 +1,7 @@
 ---
 title: Validez de la evaluación
 created: "2026-09-25T04:31:09-04:00"
-updated: "2026-10-22T07:28:42-04:00"
+updated: "2026-10-22T09:13:53-04:00"
 connected_faqs: [redesign-assessment-ai-era, reporting-interpreting-aied-research, asynchronous-online-courses-ai, checking-whether-educational-ai-works]
 type: concept
 foundations: [academic-integrity]
@@ -10,7 +10,7 @@ ethics: [bias-mitigation, equity-in-ai-education]
 confidence: high
 methods: [rct]
 translation_of: concepts/assessment-validity
-source_updated: "2026-10-16T08:47:09-04:00"
+source_updated: "2026-10-22T09:11:45-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -123,7 +123,7 @@ La misma sección de la base de evidencia aporta la contrapartida de los expedie
 
 La estabilidad entre ejecuciones no está garantizada, sin embargo: repetir la misma calificación sobre entregas idénticas con cinco días de diferencia dio un alfa de Krippendorff de 0,625, con la variación concentrada en las notas intermedias y las notas A y F ausentes de los recuentos de la sesión repetida ([[llm-grading-assistants-public-health-2026|Brevik et al. (2026)]]).
 
-- **El tamaño del modelo no es un indicador de la validez de la evaluación.** A lo largo de ocho configuraciones de cuatro familias sobre 114 ensayos calificados, la concordancia exacta de banda abarcó del 18,4% al 54,4% y seguía a la familia más que al número de parámetros: el modelo más grande, GPT-OSS 120B, calificaba a la baja 1,316 bandas, y la temperatura no lo arreglaba ([[llm-grade-bands-calibration-bias-2026|Kerwat et al. (2026)]]).
+- **El tamaño del modelo no es un indicador de la validez de la evaluación.** A lo largo de ocho configuraciones de cuatro familias sobre 114 ensayos calificados, la concordancia exacta de banda abarcó del 18,4% al 54,4% y seguía a la familia más que al número de parámetros: el modelo más grande, GPT-OSS 120B, calificaba a la baja 1.316 bandas, y la temperatura no lo arreglaba ([[llm-grade-bands-calibration-bias-2026|Kerwat et al. (2026)]]).
 
 - **La concordancia y el error del referente se disfrazan de aprendizaje.** Dos estudios de 2026 muestran vías distintas por las que una puntuación puede parecer válida mientras establece otra cosa. Un estudio abierto de escritura de marketing encontró una concordancia absoluta LLM–humano de solo ICC(2,1) 0,435 y un híbrido significativamente peor que el LLM por sí solo, con la [[writing-education|composición]] de anclas moviendo la concordancia de 0,338 a 0,902 ([[automated-scoring-marketing-posts-agreement-2026]]). Una auditoría experta de seis referentes de física atribuyó el 95,20% de los rechazos auditados a ítems o calificadores defectuosos más que a error del modelo, moviendo la media CritPt@5 del 32,29% al 87,50% ([[frontier-models-physics-benchmark-audit-2026]]). En ambos casos la amenaza es varianza irrelevante para el constructo fuera del modelo que se puntúa.
 - **La concordancia entre codificadores LLM es consistencia, no validez.** Sobre un corpus de diálogo educativo etiquetado por expertos, un filtro de concordancia entre modelos retuvo solo 33 de 74 afirmaciones conductuales derivadas del corpus y 11 de 48 derivadas del constructo, y los errores compartidos de los modelos sobrevivieron al filtro, de modo que la concordancia entre modelos no puede sustituir a la validez de constructo ([[edubehaviors-auditable-coding-educational-dialogues-2026|Bernado et al., 2026]]).

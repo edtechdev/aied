@@ -1,7 +1,7 @@
 ---
 title: Andamiaje
 created: "2026-09-25T03:07:36-04:00"
-updated: "2026-10-22T07:28:33-04:00"
+updated: "2026-10-22T09:13:53-04:00"
 connected_resources: [onmicro-ai]
 connected_faqs: [designing-ai-into-learning, developing-ai-tutor, asynchronous-online-courses-ai]
 type: concept
@@ -10,7 +10,6 @@ pedagogy: [metacognition, sociocultural-learning, socratic-method]
 technology: [intelligent-tutoring]
 assessment: [feedback]
 confidence: high
-reviewed_by: [editor]
 translation_of: concepts/scaffolding
 source_updated: "2026-10-15T08:25:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."

@@ -1,7 +1,7 @@
 ---
 title: "¿Cuáles son las mejores prácticas y consejos para diseñar software educativo de IA eficaz?"
 created: "2026-09-22T18:29:07-04:00"
-updated: "2026-10-22T07:28:42-04:00"
+updated: "2026-10-22T09:13:53-04:00"
 connected_faqs: [developing-ai-tutor, designing-ai-into-learning, making-ai-better-at-supporting-learning]
 weight: 64
 audience: [educational technology developers, software developers, instructional designers]
@@ -39,7 +39,7 @@ ai_assist:
 
 La página [[pedagogical-safety|Seguridad pedagógica]] insiste en que las pruebas de seguridad convencionales son insuficientes para la educación. Un sistema puede evitar el contenido tóxico y aun así causar daño educativo al revelar en exceso las respuestas, reforzar los [[misconceptions|conceptos erróneos]], suprimir la reflexión, fomentar la dependencia o desviarse de los objetivos instruccionales. Recomienda una evaluación de seguridad consciente de la disciplina y de varios turnos, aseguramiento de la calidad con intervención humana, fundamentación y alineación hacia la orientación en lugar de hacia el suministro de respuestas.
 
-El [[hazra-safetutors-pedagogical-safety-2026|SafeTutors]] [[benchmark|referente de evaluación]] convierte esa advertencia en cifras. En todos los modelos probados, desde modelos abiertos de 3.8B hasta GPT-5-mini, el daño [[pedagogy|pedagógico]] fue universal, la escala del modelo no mejoró la seguridad de forma fiable y las tasas de fallo aumentaron del 17.7% en interacciones de un solo turno al 77.8% en conversaciones de varios turnos, mientras que los patrones de infracción variaron según la asignatura. La taxonomía del referente, con 11 dimensiones y 48 subriesgos (cognitivos, epistémicos, [[metacognition|metacognitivos]], [[motivation|motivacionales-afectivos]], de desarrollo y equidad, de alineación instruccional y otros), es una lista de comprobación de diseño utilizable. La lección práctica para quien especifica software educativo: un sistema puede ser preciso y «seguro» según las métricas convencionales mientras erosiona en silencio el aprendizaje, así que la evaluación de varios turnos y consciente de la disciplina es un requisito y no un filtro final.
+El [[hazra-safetutors-pedagogical-safety-2026|SafeTutors]] [[benchmark|referente de evaluación]] convierte esa advertencia en cifras. En todos los modelos probados, desde modelos abiertos de 3.8B hasta GPT-5-mini, el daño [[pedagogy|pedagógico]] fue universal, la escala del modelo no mejoró la seguridad de forma fiable y las tasas de fallo aumentaron del 17,7% en interacciones de un solo turno al 77,8% en conversaciones de varios turnos, mientras que los patrones de infracción variaron según la asignatura. La taxonomía del referente, con 11 dimensiones y 48 subriesgos (cognitivos, epistémicos, [[metacognition|metacognitivos]], [[motivation|motivacionales-afectivos]], de desarrollo y equidad, de alineación instruccional y otros), es una lista de comprobación de diseño utilizable. La lección práctica para quien especifica software educativo: un sistema puede ser preciso y «seguro» según las métricas convencionales mientras erosiona en silencio el aprendizaje, así que la evaluación de varios turnos y consciente de la disciplina es un requisito y no un filtro final.
 
 ## Accesibilidad y equidad
 

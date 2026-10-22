@@ -1,7 +1,7 @@
 ---
 title: "Competencia en IA del profesorado"
 created: "2026-09-28T20:20:21-04:00"
-updated: "2026-10-22T07:28:42-04:00"
+updated: "2026-10-22T09:13:53-04:00"
 connected_faqs: [faculty-ai-competencies, addressing-common-misconceptions-ai-education, faculty-development-ai]
 type: concept
 foundations: [ai-literacy, educational-development, teacher-role]
@@ -61,7 +61,7 @@ La investigación de la base de conocimiento converge en varias dimensiones inte
 - **La responsabilidad ética es distribuida, no individual.** En siete casos nacionales se sitúa al profesorado como guardián moral del uso de la IA mientras carece de apoyo institucional y epistémico, de modo que la alfabetización ética en IA tiene que extenderse a la agencia crítica y política y no solo a la habilidad técnica ([[raffaghelli-situated-ai-ethics-2026|Raffaghelli et al. (2026)]]).
 - **Confianza y actitudes:** la [[self-efficacy|confianza]] del profesorado condiciona la adopción. [[teacher-ai-adoption-confidence|La investigación sobre adopción]] encuentra que la confianza, el apoyo y la utilidad percibida determinan si el profesorado usa realmente la IA, y que [[ai-pedagogical-orientation|las orientaciones del personal docente]] condicionan la adopción en la investigación y en la enseñanza.
 
-En una encuesta de cinco países con 1.405 docentes de K-12, la preparación en IA predijo creencias positivas sobre el valor instruccional de la IA generativa (B = .59, R² = .50) pero predijo una *mayor* preocupación por la [[creativity|creatividad]] (B = .18), y esos mismos predictores explicaron solo el 7% y el 6% de la preocupación: construir preparación por sí solo deja la preocupación intacta ([[k12-teachers-genai-beliefs-five-countries-2026|Xiu et al. (2026)]]).
+En una encuesta de cinco países con 1.405 docentes de K-12, la preparación en IA predijo creencias positivas sobre el valor instruccional de la IA generativa (B = 0,59, R² = 0,50) pero predijo una *mayor* preocupación por la [[creativity|creatividad]] (B = 0,18), y esos mismos predictores explicaron solo el 7% y el 6% de la preocupación: construir preparación por sí solo deja la preocupación intacta ([[k12-teachers-genai-beliefs-five-countries-2026|Xiu et al. (2026)]]).
 
 
 La preparación debería ordenarse y medirse en consecuencia: el modelo Capacidad–Decisión sitúa la capacidad demostrada de IA antes que la actitud y la confianza y propone indicadores de desempeño en lugar de autoinforme únicamente —tareas de diseño de clases, tareas de evaluación de prompts sembradas con errores, juicios de validez de contenido y rúbricas de artefactos de aula ([[capability-decision-model-teacher-readiness-2026|Mnguni (2026)]]).

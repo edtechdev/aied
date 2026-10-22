@@ -1,7 +1,7 @@
 ---
 title: Teorías y marcos
 created: "2026-09-28T18:22:10-04:00"
-updated: "2026-10-22T07:31:04-04:00"
+updated: "2026-10-22T09:13:53-04:00"
 type: concept
 foundations: [ai-education, theory-development-aied, philosophy-of-ai-in-education]
 pedagogy: [learning-theories]
@@ -9,7 +9,7 @@ assessment: [assessment-validity, item-response-theory]
 methods: [research-methods-aied]
 confidence: high
 translation_of: concepts/theories-and-frameworks
-source_updated: "2026-10-18T10:07:01-04:00"
+source_updated: "2026-10-22T09:11:45-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:

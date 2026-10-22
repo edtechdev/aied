@@ -1,7 +1,7 @@
 ---
 title: Aprender enseñando
 created: "2026-09-28T19:11:16-04:00"
-updated: "2026-10-02T23:51:29-04:00"
+updated: "2026-10-22T09:13:53-04:00"
 type: concept
 pedagogy: [active-learning, learning-by-teaching, scaffolding, self-regulated-learning]
 technology: [generative-ai, intelligent-tutoring]
@@ -68,7 +68,7 @@ Dos prestaciones más se repiten en toda la base de conocimiento:
 - **Las preguntas identifican lagunas de conocimiento.** Los sistemas de LbT usan preguntas generadas por quien aprende para exponer lagunas y reforzar la comprensión, y [[teaching-ai-vocabulary-lbt-llms-2026|las preguntas generadas por LLM]] sustituyen a los generadores rígidos basados en plantillas.
 - **La explicación inversa saca a la luz lo que la aclaración pasa por alto.** En un sistema de repaso posterior a la clase con 22 participantes, la explicación inversa reflexiva de un agente par expuso de forma consistente las brechas entre lo que quienes aprendían creían entender y lo que podían articular, algo que la aclaración anclada en la clase por sí sola no había revelado ([[knowloop-confusion-to-consolidation-2026|Fang y Reidsma (2026)]]).
 - **El LbT ofrece [[scaffolding|andamiaje]] para la autor[[regulation|regulación]].** Enseñar a un [[conversational-ai|agente conversacional]] fomenta la [[self-efficacy|autoeficacia]] y la puesta en práctica de estrategias de aprendizaje autorregulado, y conecta el LbT con las [[desirable-difficulties|dificultades deseables]]: el acto esforzado de explicar y corregir es en sí mismo una lucha productiva que la eliminación de fricción de la IA borraría de otro modo.
-- **Lo que predice el aprendizaje de quien tutoriza es la construcción de conocimiento, no el conocimiento previo.** En 23 tutorizadores de secundaria, la proporción de respuestas que construían conocimiento en lugar de repetirlo predijo las puntuaciones del postest conceptual (β = .138, p < 0,05), mientras que las puntuaciones previas no predijeron quién las producía, y los tutorizadores con conocimientos previos bajos que construían conocimiento terminaron a la par que sus pares con conocimientos previos altos ([[knowledge-building-tutor-learning-2026|Ameen et al., 2026]]).
+- **Lo que predice el aprendizaje de quien tutoriza es la construcción de conocimiento, no el conocimiento previo.** En 23 tutorizadores de secundaria, la proporción de respuestas que construían conocimiento en lugar de repetirlo predijo las puntuaciones del postest conceptual (β = 0,138, p < 0,05), mientras que las puntuaciones previas no predijeron quién las producía, y los tutorizadores con conocimientos previos bajos que construían conocimiento terminaron a la par que sus pares con conocimientos previos altos ([[knowledge-building-tutor-learning-2026|Ameen et al., 2026]]).
 
 ## Por qué importa en la educación con IA
 

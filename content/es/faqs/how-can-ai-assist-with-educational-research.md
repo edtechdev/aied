@@ -1,7 +1,7 @@
 ---
 title: "¿Cómo puede la IA ayudar en la investigación educativa?"
 created: "2026-10-05T12:43:10-04:00"
-updated: "2026-10-22T07:34:46-04:00"
+updated: "2026-10-22T09:13:53-04:00"
 weight: 72
 type: faq
 connected_faqs: [evaluating-ai-interventions-methods, reporting-interpreting-aied-research, research-gaps-aied, equity-ethics-pedagogical-safety-research]
@@ -15,7 +15,7 @@ audience: [researchers, instructors]
 level: [higher ed]
 page_kind: [evaluation]
 confidence: medium
-source_updated: "2026-10-21T14:32:00-04:00"
+source_updated: "2026-10-22T09:11:45-04:00"
 translation_of: faqs/how-can-ai-assist-with-educational-research
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]

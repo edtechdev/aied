@@ -1,7 +1,7 @@
 ---
 title: Gestión del cambio
 created: "2026-09-28T20:10:55-04:00"
-updated: "2026-10-22T07:31:04-04:00"
+updated: "2026-10-22T09:13:53-04:00"
 type: concept
 foundations: [ai-education]
 connected_faqs: [institutional-ai-policy, faculty-development-ai]
@@ -10,7 +10,7 @@ confidence: medium
 institutions: [change-management]
 connected_resources: [campus-ai-framework, institutional-ai-readiness-pack]
 translation_of: concepts/change-management
-source_updated: "2026-10-16T19:45:37-04:00"
+source_updated: "2026-10-22T09:11:45-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
