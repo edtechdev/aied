@@ -10,7 +10,9 @@ level: [higher ed]
 confidence: high
 methods: [research-methods-aied]
 reviewed_by: [editor]
----> **Technology Adoption Models** — the family of theories that explain and predict why individuals and institutions accept, adopt and keep using new [[ai-technologies|technologies]], of which the **Technology Acceptance Model (TAM)** is the most widely applied. In [[ai-education|AI in education]] they are the standard lens for asking why learners, teachers and organizations adopt [[generative-ai|generative AI]] tools, and the knowledge base treats them together because GenAI-adoption studies draw on several members of the family rather than one.
+---
+
+> **Technology Adoption Models** — the family of theories that explain and predict why individuals and institutions accept, adopt and keep using new [[ai-technologies|technologies]], of which the **Technology Acceptance Model (TAM)** is the most widely applied. In [[ai-education|AI in education]] they are the standard lens for asking why learners, teachers and organizations adopt [[generative-ai|generative AI]] tools, and the knowledge base treats them together because GenAI-adoption studies draw on several members of the family rather than one.
 
 ## Questions to Consider
 
