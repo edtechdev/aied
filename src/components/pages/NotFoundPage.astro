@@ -4,20 +4,62 @@
 //
 // The content is wrapped in `data-pagefind-ignore`: a "Page Not Found" result in
 // the index is noise for every reader, and Pagefind honours that attribute.
+//
+// A static host serves exactly ONE error document, so a missing `/aied/es/...`
+// path arrives here rendered with the default locale's copy, with no build-time
+// knowledge of the language the reader asked for. So the page carries the other
+// locales' not-found copy (and the strings it takes to re-render the search box
+// around it) and the script below picks the entry the URL names. The copy comes
+// from the same modules the localized routes render — never a second source.
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import KnowledgeBaseStats from '../KnowledgeBaseStats.astro';
 import SearchInterface from '../SearchInterface.astro';
 import { strings } from '../../i18n';
+import { DEFAULT_LOCALE, LOCALE_CODES, localeDir, localeHref } from '../../i18n/config';
+import { searchFilterBar } from '../../i18n/searchLabels';
 
 const { locale } = Astro.props;
 const s = strings(locale).notFound;
+
+// The default locale's home page, which is what the copy modules author their
+// links against (`href="/aied/"`); a localized entry rewrites it to its own home.
+const defaultHome = localeHref('/', DEFAULT_LOCALE);
+
+const localeCopy = Object.fromEntries(
+  LOCALE_CODES.filter((code) => code !== DEFAULT_LOCALE).map((code) => {
+    const copy = strings(code);
+    return [
+      code,
+      {
+        title: copy.notFound.title,
+        h1: copy.notFound.h1,
+        messageHtml: copy.notFound.messageHtml
+          .split(`href="${defaultHome}"`)
+          .join(`href="${localeHref('/', code)}"`),
+        searchHtml: copy.notFound.searchHtml,
+        placeholder: copy.search.placeholder,
+        filterLabels: Object.fromEntries(searchFilterBar(code).map((f) => [f.filter, f.label])),
+        siteName: copy.ui.chrome.siteName,
+        dir: localeDir(code),
+      },
+    ];
+  }),
+);
+
+// `JSON.stringify` output is inlined into a script element, so a `</script>` (or
+// any `<`) inside a translated string would end that element early. Escaping `<`
+// as \u003c is invisible to JSON.parse and closes the hole for every locale at once.
+const localeCopyJson = JSON.stringify({ base: defaultHome, locales: localeCopy }).replace(
+  /</g,
+  '\\u003c',
+);
 ---
 
 <BaseLayout title={s.title} locale={locale} hideHeaderSearch>
   <div data-pagefind-ignore>
-    <h1>{s.h1}</h1>
-    <p style="line-height:1.7" set:html={s.messageHtml} />
-    <p style="line-height:1.7" set:html={s.searchHtml} />
+    <h1 data-nf="h1">{s.h1}</h1>
+    <p style="line-height:1.7" data-nf="message" set:html={s.messageHtml} />
+    <p style="line-height:1.7" data-nf="search" set:html={s.searchHtml} />
 
     <div class="search-corpus">
       <KnowledgeBaseStats locale={locale} />
@@ -25,6 +67,73 @@ const s = strings(locale).notFound;
   </div>
 
   <SearchInterface locale={locale} />
+
+  <script type="application/json" id="nf-locale-copy" is:inline set:html={localeCopyJson} />
+  <script is:inline>
+    // A 404 keeps the URL the reader asked for, so the language is whatever prefix
+    // that path carries: /aied/es/... reads Spanish here, /aied/... and any unknown
+    // prefix stay English. Only the copy this page owns is swapped — the chrome
+    // around it is the default locale's, as it is for every missing path on a host
+    // with a single error document.
+    (function () {
+      var node = document.getElementById('nf-locale-copy');
+      if (!node) return;
+
+      var data;
+      try {
+        data = JSON.parse(node.textContent || '{}');
+      } catch (e) {
+        return;
+      }
+
+      var codes = Object.keys(data.locales || {}).sort(function (a, b) {
+        return b.length - a.length;
+      });
+      var path = location.pathname;
+      var code = null;
+      for (var i = 0; i < codes.length; i++) {
+        if (path.indexOf(data.base + codes[i] + '/') === 0) {
+          code = codes[i];
+          break;
+        }
+      }
+      if (!code) return;
+
+      var copy = data.locales[code];
+      if (!copy) return;
+
+      var html = document.documentElement;
+      html.lang = code;
+      html.dir = copy.dir || 'ltr';
+      if (copy.title) {
+        document.title = copy.siteName ? copy.title + ' — ' + copy.siteName : copy.title;
+      }
+
+      function swap(selector, value, asHtml) {
+        var el = document.querySelector(selector);
+        if (!el || !value) return;
+        if (asHtml) el.innerHTML = value;
+        else el.textContent = value;
+      }
+
+      swap('[data-nf="h1"]', copy.h1, false);
+      swap('[data-nf="message"]', copy.messageHtml, true);
+      swap('[data-nf="search"]', copy.searchHtml, true);
+
+      // The search box is a web component, so its copy lives in attributes rather
+      // than in text nodes: set the placeholder and the filter labels the way the
+      // component's own markup would have.
+      var input = document.querySelector('pagefind-input');
+      if (input && copy.placeholder) input.setAttribute('placeholder', copy.placeholder);
+
+      var labels = copy.filterLabels || {};
+      var dropdowns = document.querySelectorAll('pagefind-filter-dropdown');
+      for (var d = 0; d < dropdowns.length; d++) {
+        var filter = dropdowns[d].getAttribute('filter');
+        if (filter && labels[filter]) dropdowns[d].setAttribute('label', labels[filter]);
+      }
+    })();
+  </script>
 </BaseLayout>
 
 <style>
