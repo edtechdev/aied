@@ -9,7 +9,7 @@ audience: [faculty developers, instructors]
 confidence: high
 reviewed_by: [editor]
 translation_of: concepts/tpack
-source_updated: "2026-10-07T13:40:00-04:00"
+source_updated: "2026-10-22T09:11:45-04:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:

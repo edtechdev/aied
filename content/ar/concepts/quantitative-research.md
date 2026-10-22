@@ -1,7 +1,7 @@
 ---
 title: البحث الكمي
 created: "2026-10-12T18:45:00-04:00"
-source_updated: "2026-09-30T08:39:04-04:00"
+source_updated: "2026-10-22T09:11:45-04:00"
 type: concept
 assessment: [educational-measurement]
 research_method: [survey, experiment]

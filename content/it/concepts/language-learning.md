@@ -11,7 +11,7 @@ level: [higher ed, k 12]
 confidence: high
 reviewed_by: [editor]
 translation_of: "concepts/language-learning"
-source_updated: "2026-10-04T09:35:00-04:00"
+source_updated: "2026-10-22T09:11:45-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:

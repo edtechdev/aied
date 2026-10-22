@@ -17,7 +17,7 @@ methods: [benchmark]
 ethics: [pedagogical-safety]
 contributors: [editor]
 translation_of: faqs/making-ai-better-at-supporting-learning
-source_updated: "2026-10-02T08:21:34-04:00"
+source_updated: "2026-10-22T09:11:45-04:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash

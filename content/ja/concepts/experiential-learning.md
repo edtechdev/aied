@@ -59,7 +59,7 @@ AI に支援されたデザイン教育におけるハンズオン学習の 32 �
 - [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
 - [[virtual-and-augmented-reality]] — immersive practice as deliberate experience
 
-## 関連する論文
+## 関連する記事
 - [[genai-counter-learner-groupthink-2025]]
 - [[workforce-readiness-smart-manufacturing-wrl-2026]] — Workforce Readiness Level framework for smart manufacturing in the AI era
 - [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Fostering Sustainable Learning via Embodied Intelligence (E3-HOT)

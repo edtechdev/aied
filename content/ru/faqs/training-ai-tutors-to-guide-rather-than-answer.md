@@ -17,7 +17,7 @@ ethics: [ai-sycophancy, pedagogical-safety]
 reviewed_by: [editor]
 contributors: [editor]
 translation_of: faqs/training-ai-tutors-to-guide-rather-than-answer
-source_updated: "2026-10-02T08:21:34-04:00"
+source_updated: "2026-10-22T09:11:45-04:00"
 translation_note: "Автоматический перевод данной английской страницы, не проверенный носителем языка."
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash

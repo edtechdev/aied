@@ -14,7 +14,7 @@ methods: [ai-ed-evaluation]
 reviewed_by: [editor]
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 translation_of: concepts/assessment
-source_updated: "2026-10-09T08:42:20-04:00"
+source_updated: "2026-10-22T09:11:45-04:00"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free

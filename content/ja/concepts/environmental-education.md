@@ -92,7 +92,7 @@ ai_assist:
 - [[ethics]]
 - [[governance]]
 
-## 関連する論文
+## 関連する記事
 
 - [[daniel-ai-sustainability-scoping-review-2026]] — Separates AI for sustainability from sustainable AI; Global South gap
 - [[ai-assisted-inquiry-ssi-climate]] — AI-assisted climate inquiry, d = 0.69 over inquiry alone

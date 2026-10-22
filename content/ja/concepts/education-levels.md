@@ -98,7 +98,7 @@ ai_assist:
 - [[parents-and-families]]
 - [[differential-effects-across-learner-groups]]
 
-## 関連する論文
+## 関連する記事
 - [[adaptive-intelligent-tutoring-primary-mathematics-2026]] — 2年生の数学における適応的および非適応的な個別指導（Sibley ら 2026）
 - [[dai-chatbots-problem-posing-primary-2026]] — 初等の理科における3年生との生成AIチャットボットと問いの生成
 - [[chatgpt-music-education-junior-high-2026]] — 歌の学習のための ChatGPT に対する中学生の態度（Weng & Chiang 2026）

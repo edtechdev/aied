@@ -222,7 +222,7 @@ Năng lực AI **hai mặt (double-edged)** đối với phụ thuộc quá mứ
 - [[higher-ed]] — năng lực cấp đại học
 - [[career-development-and-readiness]] — phần đền đáp khả năng có việc làm mà năng lực AI được lập luận là xây dựng
 - [[ai-education]] — lĩnh vực rộng lớn hơn
-## Bài báo liên quan
+## Bài viết liên quan
 - [[mu-ai-competence-ethical-awareness-anxiety-2026]] - Nâng chiều đạo đức của năng lực mà không có khuôn khổ đối phó có thể để lại học sinh lo âu hơn
 - [[caeai-digital-literacy-frameworks-review-2026]] — 80 khuôn khổ đã kiểm chứng cho thấy AI mở rộng năng lực số về phía đạo đức trong khi hợp tác người–AI của nhà giáo dục vẫn chưa được đặc tả (Guo và cộng sự 2026)
 - [[ai-literacies-young-adults-2025]] — Sáu lĩnh vực năng lực, năm giá trị và ba cấp tiến trình cho phương tiện phục vụ công

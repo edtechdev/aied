@@ -11,7 +11,7 @@ audience: [learners]
 confidence: high
 connected_faqs: [how-ai-impacts-students, ai-anxiety-wellbeing]
 level: [adult learning]
-source_updated: "2026-10-08T10:20:00-04:00"
+source_updated: "2026-10-22T09:11:45-04:00"
 translation_of: concepts/anxiety-and-stress
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]

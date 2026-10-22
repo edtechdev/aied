@@ -17,7 +17,7 @@ ethics: [pedagogical-safety]
 reviewed_by: [editor]
 contributors: [editor]
 translation_of: faqs/making-ai-better-at-supporting-learning
-source_updated: "2026-10-02T08:21:34-04:00"
+source_updated: "2026-10-22T09:11:45-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash

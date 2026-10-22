@@ -84,6 +84,10 @@ Konuşan ajanları yalnızca soru yanıtlamak için değil, öğretimi, [[motiva
 
 - **Öğrencilerin konuşan ajanlarla gerçekte nasıl konuştuğu — altı kategorili bir kopma örüntüsü:** [[rho-disengaged-conversational-behaviors-2026|Rho ve ark. (2026)]], bir bilgi grafiği üzerinde RAG ile topraklanmış, mücadele eden bir ortaokul öğrencisi olarak konumlandırılmış ve öğrencilerin açıklamalarını eleştiren bir mentor ajanla eşleştirilmiş GPT-4-Turbo öğretilebilir ajanı Math Nation’ın Cebir ve Geometri derslerine yerleştirmiş ve 246 öğrenciden alınan 5.522 ifadeyi kodlamıştır. Etkileşimin (%75,7) ötesinde Yanlış Yanıtlama (%12,8), Geri Tutma (%8,9), Rastgele/Gürültülü (%2,1), Yansıtma (%0,6), Alay Etme (%0,3) ve Hayaletleme (%0,2) tanımlamışlardır — Yansıtma (ajanın metnini kopyalama) veriden tümevarımsal olarak ortaya çıkmıştır. Sınıflandırma döngüde insan vardı: iki değerlendirici tarafından etiketlenen 1.682 ifade (kategori başına κ = 0,704–0,905) ince ayarlı bir LLaMA 3 sınıflandırıcısını eğitmiş (ayrılmış konu dizileri üzerinde ağırlıklı F1 = 0,910) ve bu sınıflandırıcı kalan 3.840 ifadeyi etiketlemiştir. Sonrasında süreç düzeyinde rekabet eden riskler analizi, çoğu kopmanın birkaç tur içinde çözüldüğünü; Geri Tutma dışında bunun sürdüğünü göstermiştür — ajan yanıtlarını tasarlarken dikkate değer bir işaret.
 
+## Atıf
+
+Ganguly, A., Mehjabin, N., Malik, A., & Johri, A. (2025). [*Conversational AI agents in education: an umbrella review*](https://doi.org/10.1007/s43681-025-00916-0). *AI and Ethics*, 6, 72.
+
 ## Bağlı kavramlar
 
 - [[intelligent-tutoring]]
@@ -131,6 +135,3 @@ Konuşan ajanları yalnızca soru yanıtlamak için değil, öğretimi, [[motiva
 
 - [[helpcoach-ai-help-seeking-scaffolding-2026]] — HelpCoach: Scaffolding Targeted AI Help-Seeking During Problem-Solving
 
-## Atıf
-
-Ganguly, A., Mehjabin, N., Malik, A., & Johri, A. (2025). [*Conversational AI agents in education: an umbrella review*](https://doi.org/10.1007/s43681-025-00916-0). *AI and Ethics*, 6, 72.

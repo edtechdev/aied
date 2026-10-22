@@ -1,7 +1,7 @@
 ---
 title: التحليل البعدي والمراجعة المنهجية
 created: "2026-10-12T18:04:00-04:00"
-source_updated: "2026-09-30T14:23:52-04:00"
+source_updated: "2026-10-22T09:11:45-04:00"
 type: concept
 foundations: [ai-education]
 connected_faqs: [reporting-interpreting-aied-research]

@@ -24,7 +24,7 @@ ai_assist:
     date: "2026-10-14"
     agent: hermes-agent
 translation_of: "faqs/making-simulated-students-behave-like-learners"
-source_updated: "2026-10-02T08:36:18-04:00"
+source_updated: "2026-10-22T09:11:45-04:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 ---
 

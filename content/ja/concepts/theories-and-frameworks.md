@@ -8,7 +8,7 @@ pedagogy: [learning-theories]
 assessment: [assessment-validity, item-response-theory]
 methods: [research-methods-aied]
 confidence: high
-source_updated: "2026-09-30T12:53:22-04:00"
+source_updated: "2026-10-22T09:11:45-04:00"
 translation_of: concepts/theories-and-frameworks
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]

@@ -10,7 +10,7 @@ confidence: high
 reviewed_by: [editor]
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 translation_of: concepts/ai-feedback-quality
-source_updated: "2026-10-04T05:15:29-04:00"
+source_updated: "2026-10-22T09:11:45-04:00"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free

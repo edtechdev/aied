@@ -13,7 +13,7 @@ confidence: high
 methods: [ai-ed-evaluation]
 connected_resources: [idstack, lesson-md, master-instructional-design]
 translation_of: concepts/assessment
-source_updated: "2026-10-09T08:42:20-04:00"
+source_updated: "2026-10-22T09:11:45-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:

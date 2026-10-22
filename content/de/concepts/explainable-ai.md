@@ -87,6 +87,10 @@ Wenn Erklärungsqualität entscheidet, ob XAI nützlich ist, muss das Erzeugen v
 
 Für Erklärbarkeit spezifisch sind die Aufgaben, die zählen, jene, die Erklärung aus dem Notebook herauszwingen: benotete Model Cards, die neben Genauigkeitskennzahlen gewichtet werden, und strukturierte Erklärungsaudits, in denen Studierende Interpretierbarkeitswerkzeuge auf ihre eigenen Modelle anwenden und die Ergebnisse dann einem Publikum ohne gemeinsamen technischen Hintergrund präsentieren. Durchsetzung ist die Säule, die in ethiknahen Kursen am häufigsten fehlt, und diejenige, die den Rest mehr als symbolisch macht — Rubriken, die verantwortungsvolle Dokumentation belohnen, Projekte, die aus [[ethics|ethischen]] Gründen zur Überarbeitung zurückgegeben werden können, und [[peer-assessment|Peer-Review]], die gegen Verantwortlichkeitskriterien geführt wird statt nur gegen technische. Das Papier ist offen, dass sich die Werkzeuge in den Kosten stark unterscheiden: Model Cards und Positionality Statements brauchen keine neue Software und riskieren nur oberflächliche Compliance, während Peer-Panels und Stakeholder-Engagement Koordination und institutionelles Buy-in erfordern, weshalb es eine gestufte Einführung empfiehlt statt eines Entweder-Oder-Engagements. Siehe [[curriculum-design]] dafür, wo diese in ein Programm passen.
 
+## Zitation
+
+Khosravi, H., Buckingham Shum, S., Chen, G., Conati, C., Tsai, Y.-S., Kay, J., Knight, S., Martinez-Maldonado, R., Sadiq, S., & Gašević, D. (2022). [*Explainable Artificial Intelligence in education*](https://doi.org/10.1016/j.caeai.2022.100074). *Computers and Education: Artificial Intelligence*, 100074.
+
 ## Verbundene Konzepte
 
 - [[trust-calibration]]
@@ -128,6 +132,3 @@ Für Erklärbarkeit spezifisch sind die Aufgaben, die zählen, jene, die Erklär
 - [[bloom-classifier-ai-assisted-questions-2026]] — Evaluation vortrainierter Modelle für pädagogisches Assessment neuer KI-unterstützter Bildungsfragen
 - [[decision-making-agent-student-decision-acceptance-2026]] — Lehrkraft- versus KI-getroffene Benotungsentscheidungen: eine schriftliche Begründung erweiterte die Fairness-Lücke
 
-## Zitation
-
-Khosravi, H., Buckingham Shum, S., Chen, G., Conati, C., Tsai, Y.-S., Kay, J., Knight, S., Martinez-Maldonado, R., Sadiq, S., & Gašević, D. (2022). [*Explainable Artificial Intelligence in education*](https://doi.org/10.1016/j.caeai.2022.100074). *Computers and Education: Artificial Intelligence*, 100074.

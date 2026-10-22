@@ -8,7 +8,7 @@ confidence: high
 methods: [quantitative-research, research-methods-aied]
 reviewed_by: [editor]
 translation_of: concepts/quantitative-research
-source_updated: "2026-09-30T08:39:04-04:00"
+source_updated: "2026-10-22T09:11:45-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:

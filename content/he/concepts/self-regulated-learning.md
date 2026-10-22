@@ -12,7 +12,7 @@ confidence: high
 reviewed_by: [editor]
 connected_resources: [process-feedback]
 translation_of: concepts/self-regulated-learning
-source_updated: "2026-10-15T10:00:00-04:00"
+source_updated: "2026-10-22T09:11:45-04:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:

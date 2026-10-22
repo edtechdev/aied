@@ -15,7 +15,7 @@ connected_faqs: [making-simulated-students-behave-like-learners, how-can-ai-assi
 confidence: medium
 contributors: [editor]
 translation_of: concepts/ai-assisted-educational-research
-source_updated: "2026-10-05T14:14:11-04:00"
+source_updated: "2026-10-22T09:11:45-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 ai_assist:
   - model: stepfun/step-5-preview:free

@@ -2,7 +2,7 @@
 title: "シミュレートされた学生を実際の学習者のように振る舞わせるにはどうすればよいでしょうか？"
 created: "2026-10-10T23:07:04-04:00"
 updated: "2026-10-10T23:07:04-04:00"
-source_updated: "2026-10-02T08:36:18-04:00"
+source_updated: "2026-10-22T09:11:45-04:00"
 weight: 71
 type: faq
 connected_faqs: [checking-whether-educational-ai-works, addressing-common-misconceptions-ai-education, making-ai-better-at-supporting-learning]

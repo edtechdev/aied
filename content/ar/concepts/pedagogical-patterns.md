@@ -25,7 +25,7 @@ ai_assist:
     date: "2026-10-12"
     agent: hermes-agent
 translation_of: concepts/pedagogical-patterns
-source_updated: "2026-09-30T16:25:27-04:00"
+source_updated: "2026-10-22T09:11:45-04:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 ---
 

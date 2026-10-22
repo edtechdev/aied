@@ -17,7 +17,7 @@ confidence: medium
 reviewed_by: [editor]
 contributors: [editor]
 translation_of: faqs/how-can-ai-assist-with-educational-research
-source_updated: "2026-10-05T14:14:11-04:00"
+source_updated: "2026-10-22T09:11:45-04:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash

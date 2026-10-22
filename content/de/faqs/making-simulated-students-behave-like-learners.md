@@ -14,7 +14,7 @@ confidence: high
 methods: [benchmark]
 ethics: [pedagogical-safety, trust-calibration]
 translation_of: faqs/making-simulated-students-behave-like-learners
-source_updated: "2026-10-02T08:36:18-04:00"
+source_updated: "2026-10-22T09:11:45-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:

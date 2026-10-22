@@ -20,7 +20,7 @@ ai_assist:
     date: "2026-10-14"
     agent: hermes-agent
 translation_of: "concepts/ai-assisted-educational-research"
-source_updated: "2026-10-05T14:14:11-04:00"
+source_updated: "2026-10-22T09:11:45-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 ---
 

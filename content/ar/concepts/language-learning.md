@@ -11,7 +11,7 @@ confidence: high
 reviewed_by: [editor]
 connected_resources: [mglearn]
 translation_of: concepts/language-learning
-source_updated: "2026-10-04T09:35:00-04:00"
+source_updated: "2026-10-22T09:11:45-04:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:

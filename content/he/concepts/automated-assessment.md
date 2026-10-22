@@ -20,7 +20,7 @@ ai_assist:
     date: "2026-10-12"
     agent: hermes-agent
 translation_of: concepts/automated-assessment
-source_updated: "2026-10-14T11:15:00-04:00"
+source_updated: "2026-10-22T09:11:45-04:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ---

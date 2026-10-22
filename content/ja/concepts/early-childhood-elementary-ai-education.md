@@ -78,7 +78,7 @@ ai_assist:
 - [[equity-in-ai-education]]
 - [[digital-divide]]
 - [[parents-and-families]]
-## 関連する論文
+## 関連する記事
 
 - [[preservice-early-childhood-genai-magnetism-2026]] — 科学活動の設計における幼児教育の養成課程の学生の生成AIとの関わり:磁気の事例
 - [[clara-developmental-appropriateness-children-stories-2026]] — CLARA:AI は子どもの物語の発達的適切さを評価できるか

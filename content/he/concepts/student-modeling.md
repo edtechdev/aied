@@ -7,7 +7,7 @@ technology: [adaptive-learning, cognitive-diagnosis, intelligent-tutoring, knowl
 confidence: high
 reviewed_by: [editor]
 translation_of: concepts/student-modeling
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-22T09:11:45-04:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:

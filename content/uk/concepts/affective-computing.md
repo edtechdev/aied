@@ -9,7 +9,7 @@ level: [higher ed, k 12]
 confidence: medium
 reviewed_by: [editor]
 translation_of: concepts/affective-computing
-source_updated: "2026-09-30T14:23:52-04:00"
+source_updated: "2026-10-22T09:11:45-04:00"
 translation_note: "Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови."
 contributors: [editor]
 ai_assist:

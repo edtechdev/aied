@@ -182,7 +182,7 @@ AI trong giáo dục kết nối với mọi khái niệm trong cơ sở kiến 
 - [[theories-and-frameworks]] — bản đồ các nút lý thuyết và khuôn khổ
 - [[theory-development-aied]] — xây dựng và sửa đổi lý thuyết
 
-## Bài báo liên quan
+## Bài viết liên quan
 
 Các tổng quan toàn lĩnh vực về AI trong giáo dục — những nghiên cứu khảo sát toàn bộ lĩnh vực hay toàn bộ một cấp độ giáo dục thay vì một chủ đề:
 

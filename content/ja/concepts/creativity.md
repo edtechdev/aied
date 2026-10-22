@@ -9,7 +9,7 @@ technology: [generative-ai]
 audience: [learners]
 confidence: high
 discipline: [cs education, math education, writing education]
-source_updated: "2026-10-15T10:00:00-04:00"
+source_updated: "2026-10-22T09:11:45-04:00"
 translation_of: concepts/creativity
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]

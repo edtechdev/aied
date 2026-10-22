@@ -9,7 +9,7 @@ audience: [learners]
 confidence: high
 discipline: [cs education, math education, writing education]
 reviewed_by: [editor]
-source_updated: "2026-10-15T10:00:00-04:00"
+source_updated: "2026-10-22T09:11:45-04:00"
 translation_of: concepts/creativity
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]

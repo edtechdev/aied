@@ -111,7 +111,7 @@ AI の英語優位性は、この流れの決定的な特徴です。モデル�
 - [[academic-integrity]]
 - [[discipline-specific-aied]]
 
-## 関連する論文
+## 関連する記事
 
 - [[alharbi-ethical-genai-eap-2026]] — Ethical Generative AI Integration in EAP within Higher Education
 - [[feedback-literacy-scripts-eap-writing]] — Feedback Literacy Scripts and a Second-Rater Mechanism in GenAI EAP Writing Revision

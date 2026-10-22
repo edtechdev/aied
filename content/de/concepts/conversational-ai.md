@@ -83,6 +83,10 @@ Konversationelle KI ist am besten als **Interaktionsmodalität** zu verstehen, d
 
 Wählen Sie konversationelle Agenten, um Lehren, [[motivation]] und [[metacognition]] zu unterstützen, statt bloß Fragen zu beantworten, und gestalten Sie für HCI-geerdete, partizipative, nutzerzentrierte Interaktion. Schützen Sie gegen [[cognitive-offloading|Überabhängigkeit]], indem Sie CAI mit [[ai-literacy]]-Instruktion und [[feedback]] paaren, das die Lernenden kognitiv produktiv hält. Beachten Sie KI-Kompetenz und Usability explizit — da diese — nicht allgemeine digitale Fähigkeit — Einführung und Nicht-Nutzung treiben ([[colbran-student-perspectives-genai-chatbots-2026|Colbran, Jha & Schiavone 2026]]) —, und paaren Sie den Einsatz mit klaren KI-Nutzungsrichtlinien, Assessment-Labels und Training. Evaluieren Sie CAI an pädagogischen Ergebnissen — nicht bloß an Aufgabenerledigung —, und planen Sie Gerechtigkeit und [[accessibility]] von Anfang an statt als Nachgedanken.
 
+## Zitation
+
+Ganguly, A., Mehjabin, N., Malik, A., & Johri, A. (2025). [*Conversational AI agents in education: an umbrella review*](https://doi.org/10.1007/s43681-025-00916-0). *AI and Ethics*, 6, 72.
+
 ## Verbundene Konzepte
 
 - [[intelligent-tutoring]]
@@ -129,6 +133,3 @@ Wählen Sie konversationelle Agenten, um Lehren, [[motivation]] und [[metacognit
 - [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: KI- und menschliches Tutoring ergeben gleichwertige GRE-Lerngewinne
 - [[helpcoach-ai-help-seeking-scaffolding-2026]] — HelpCoach: Scaffolding Targeted AI Help-Seeking During Problem-Solving
 
-## Zitation
-
-Ganguly, A., Mehjabin, N., Malik, A., & Johri, A. (2025). [*Conversational AI agents in education: an umbrella review*](https://doi.org/10.1007/s43681-025-00916-0). *AI and Ethics*, 6, 72.

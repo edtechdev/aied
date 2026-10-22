@@ -10,7 +10,7 @@ confidence: high
 discipline: [cs education, math education, writing education]
 reviewed_by: [editor]
 translation_of: concepts/creativity
-source_updated: "2026-10-15T10:00:00-04:00"
+source_updated: "2026-10-22T09:11:45-04:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:

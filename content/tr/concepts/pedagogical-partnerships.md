@@ -10,7 +10,7 @@ level: [higher ed, k 12]
 confidence: high
 reviewed_by: [editor]
 translation_of: concepts/pedagogical-partnerships
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-22T09:11:45-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
