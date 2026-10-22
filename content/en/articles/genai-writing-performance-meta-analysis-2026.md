@@ -42,7 +42,7 @@ A January 1, 2026 search across Scopus and Web of Science returned 4,760 records
 Risk-of-bias appraisal used ROBINS-I for 30 studies and RoB 2 for one: 21 rated high risk, 10 "some concerns," none low risk. Only 11 of the 31 studies entered the pooled model, each contributing one principal between-group post-test writing effect to preserve statistical independence and construct equivalence; of those, 8 were high risk, 3 unrated.
 
 ## A large average effect built on wide dispersion
-A pooled [[feedback|feedback]] effect of g = 0.80 sits well above zero, but I² = 92.21% means almost all variability is between studies, not within them. The 95% prediction interval (−0.59 to 2.19) is the practical translation: a new implementation could plausibly yield a near-zero or negative effect. Every robustness variant — RVE, in-press-excluded, high-risk-of-bias — stayed positive but smaller: the direction is robust, the magnitude fragile.
+A pooled [[feedback]] effect of g = 0.80 sits well above zero, but I² = 92.21% means almost all variability is between studies, not within them. The 95% prediction interval (−0.59 to 2.19) is the practical translation: a new implementation could plausibly yield a near-zero or negative effect. Every robustness variant — RVE, in-press-excluded, high-risk-of-bias — stayed positive but smaller: the direction is robust, the magnitude fragile.
 
 ## Moderators: methodological quality outruns pedagogy
 The robust meta-regression (HC3 standard errors) found only risk-of-bias classification significant (β = 0.93, 95% CI [0.19, 1.68], p = 0.014), explaining roughly 50% of between-study variance (Pseudo R² = 0.50). Instructional model, country grouping, ChatGPT focus, duration, and sample size were all non-significant.

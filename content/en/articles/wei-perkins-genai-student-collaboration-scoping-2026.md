@@ -33,7 +33,7 @@ confidence: high
 - **Instructors.** Design group tasks that require human negotiation, since AI-mediated [[collaborative-learning|group work]] became more efficient with reduced demand for communication, negotiation, and collective sensemaking.
 - **Instructors.** Assess process and meta-skills — collaborative problem solving, critical evaluation of AI output, [[ai-literacy|AI literacy]] — rather than only the hybrid product, because conventional assessment poorly captures AI-enabled collaborative learning.
 - **Learners.** Treat GenAI as a fallible collaborator: its suggestions can homogenize ideas, hallucinate inaccurate information, and reinforce training-data biases, so evaluate outputs before they enter the group's work.
-- **Faculty developers.** Support the shift from content deliverer to facilitator, learning designer, and ethical steward, including the AI literacy and [[learning-analytics|learning-analytics]] interpretation that role now requires.
+- **Faculty developers.** Support the shift from content deliverer to facilitator, learning designer, and ethical steward, including the AI literacy and [[learning-analytics]] interpretation that role now requires.
 - **Researchers.** Close the empirical gap on risks, since privacy, transparency, bias, and accuracy concerns were frequently acknowledged in the 18 included studies but largely discussed conceptually.
 
 ## Limitations

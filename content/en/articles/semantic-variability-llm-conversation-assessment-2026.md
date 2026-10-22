@@ -42,7 +42,7 @@ The results show that even for a single conversational turn, the semantic conten
 
 ## What this means for practice
 
-- **Assessment designers.** Treat response consistency across model transitions as an infrastructure requirement rather than a [[prompt-engineering|prompt-engineering]] one: within-model similarity (0.715–0.795) consistently exceeded between-model similarity (0.443–0.604).
+- **Assessment designers.** Treat response consistency across model transitions as an infrastructure requirement rather than a [[prompt-engineering]] one: within-model similarity (0.715–0.795) consistently exceeded between-model similarity (0.443–0.604).
 - **Assessment designers.** Add symbolic rules, response templates, or validation layers that preserve assessment-relevant function when the underlying LLM changes, since adding chat history changed reply content even for the same focal message (median cross-history similarity ~0.40–0.45).
 - **Assessment professionals.** Re-examine the scoring argument whenever a deployed model is updated, replaced, or retired, because model type, history condition, and their interaction all significantly affected mean pairwise similarity and its variability.
 - **Researchers.** Sample across model families in consistency studies: models within the GPT-5.4 family resembled one another more than they resembled GPT-4o mini, so architecture and lineage shape the [[assessment-validity|validity]] threat.

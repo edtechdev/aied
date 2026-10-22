@@ -50,7 +50,7 @@ The headline figure — a regression coefficient of 0.8481 with an *R*² of 0.79
 - **Researchers.** Treat this as a sensitivity result to be replicated, not a measurement model. Independent samples, preregistered analyses that account for clustering within participants, and stimuli outside the training set are the obvious next steps.
 - **Educational technology developers.** The interesting engineering target is not the reconstruction model but the alignment pipeline — how EEG segments are matched to instructional events. That is what would make any neurocognitive signal usable in a learning system.
 - **Instructors.** Do not expect this to reach the classroom soon. The measure requires EEG hardware and a stimulus-specific model, so its nearer-term contribution is to research on attention and encoding during video instruction.
-- **Institutional review and [[ethics]] boards.** The study's approach to neural data sits squarely within [[privacy|privacy]] and consent questions, because decoded representations are more revealing than behavioral logs. [[governance]] for this class of data is not yet settled.
+- **Institutional review and [[ethics]] boards.** The study's approach to neural data sits squarely within [[privacy]] and consent questions, because decoded representations are more revealing than behavioral logs. [[governance]] for this class of data is not yet settled.
 
 ## Limitations
 

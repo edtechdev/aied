@@ -37,7 +37,7 @@ ai_assist:
 
 ## The construct the study proposes
 
-MAL is defined as the knowledge, value and competence a second language teacher needs to design, select, implement, evaluate and use high-quality multimodal assessment. The knowledge dimension covers the nature of multimodal assessment (tasks that elicit responses in several modes, digital or not), its purposes, and strategies for designing tasks with [[scaffolding|scaffolding]] and [[formative-assessment|formative feedback]]. The value dimension covers belief about non-linguistic modes, the principles governing their use, and the roles teachers and students take. Competence covers task design and the support teachers give students while they compose. The authors build on prior assessment literacy frameworks and on [[multimodal|multimodal]] composing research, and they insist the payoff is a shift from psychometric testing toward a multidimensional practice that includes affective and identity factors.
+MAL is defined as the knowledge, value and competence a second language teacher needs to design, select, implement, evaluate and use high-quality multimodal assessment. The knowledge dimension covers the nature of multimodal assessment (tasks that elicit responses in several modes, digital or not), its purposes, and strategies for designing tasks with [[scaffolding]] and [[formative-assessment|formative feedback]]. The value dimension covers belief about non-linguistic modes, the principles governing their use, and the roles teachers and students take. Competence covers task design and the support teachers give students while they compose. The authors build on prior assessment literacy frameworks and on [[multimodal]] composing research, and they insist the payoff is a shift from psychometric testing toward a multidimensional practice that includes affective and identity factors.
 
 ## What the year-long program did
 
@@ -51,7 +51,7 @@ The study's premise is that GenAI destabilizes language-centric assessment and s
 
 - **Instructors.** Design multimodal tasks that extend print literacy rather than replace it, and teach students to inspect and contest GenAI-generated visuals and text before those outputs enter their work.
 - **Faculty developers.** Copy the program's mechanics rather than its content: a 12-hour workshop block, in-school co-planning, cluster meetings across schools, and a design framework teachers can hold in one page.
-- **Administrators.** The binding constraint teachers named was curricular space, so treat cross-subject coordination — and time to negotiate it — as the resource that makes multimodal [[assessment|assessment]] sustainable.
+- **Administrators.** The binding constraint teachers named was curricular space, so treat cross-subject coordination — and time to negotiate it — as the resource that makes multimodal [[assessment]] sustainable.
 - **Researchers.** Measure values separately from knowledge and competence, because this study found them on different clocks, and expect instrument splits when teachers hold both multimodal and linguistic commitments.
 
 ## Limitations

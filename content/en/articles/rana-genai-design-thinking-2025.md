@@ -35,7 +35,7 @@ The study adopted a mixed-methods paradigm guided by a [[constructivist]] episte
 ## What this means for practice
 
 - **Instructors.** Integrate [[generative-ai|GenAI]] deliberately at each stage of the [[design-thinking]] process with critical framing and structured team-based work; acceptance in this study came from intentional guidance, not exposure alone.
-- **Instructors.** Build output interrogation into the task — verifying claims, detecting [[bias-mitigation|bias]], and tracing sources — and run explicit activities on cases such as DALL·E reproducing gender stereotypes rather than leaving [[ethics|ethics]] implicit.
+- **Instructors.** Build output interrogation into the task — verifying claims, detecting [[bias-mitigation|bias]], and tracing sources — and run explicit activities on cases such as DALL·E reproducing gender stereotypes rather than leaving [[ethics]] implicit.
 - **Faculty developers.** Treat [[ai-literacy]] as a multidimensional competence spanning [[creativity]], [[ethics]], and [[critical-thinking|critical reasoning]] rather than technical proficiency, and support staff to design GenAI-integrated [[higher-ed]] environments that promote learner [[agency]] instead of automation.
 - **Designers.** Position GenAI as a co-creator within [[human-ai-collaboration]] and use [[scaffolding|scaffolds]] that keep human judgment at the center, countering [[cognitive-offloading]] and automation bias.
 

@@ -31,7 +31,7 @@ This is a theoretical/conceptual paper. Drawing on Kuhn's theory of paradigm shi
 
 - **Administrators.** Diagnose GenAI challenges as adaptive rather than technical, and socialize a precise, contextual problem statement; a goal such as "increase GenAI usage" is too vague to guide institutional action.
 - **Administrators.** Map the system before acting: stocktake the policies, processes, platforms, and stakeholders involved, and identify the governance structures the new practice requires but the institution does not yet have.
-- **Administrators.** Broaden analytics beyond tool uptake to student–AI interaction traces, authorship and co-production patterns, AI-mediated feedback, bias and fairness concerns, and any shift in [[assessment|assessment]] validity.
+- **Administrators.** Broaden analytics beyond tool uptake to student–AI interaction traces, authorship and co-production patterns, AI-mediated feedback, bias and fairness concerns, and any shift in [[assessment]] validity.
 - **Administrators.** Broker knowledge through dense, overlapping networks — faculty learning communities, cross-functional teams, student-led initiatives — because high-risk innovations need multiple reinforcing exposures from trusted networks rather than a linear rollout, and distribute agency across staff and students.
 - **Instructors.** Treat pedagogy as the core of the transformation: redesign what counts as evidence of learning and how feedback is generated rather than relying on detection systems, and approach algorithmic personalization critically, since it risks narrowing educational purposes and displacing the relational and collective dimensions of learning.
 

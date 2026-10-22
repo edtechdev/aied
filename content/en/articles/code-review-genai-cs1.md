@@ -51,7 +51,7 @@ The results were consistent across methods. Pairwise t-tests showed no statistic
 
 - **Instructors.** Replace an AI ban with oral accountability: require a 15-minute code review interview within 48 hours of every coding assignment and let the interview carry 70% of the assignment grade, with the rubric score counting for the remaining 30%.
 - **Instructors.** Free the time the interviews need by moving to a [[active-learning|flipped classroom]] — the course dropped one of three weekly meetings and still raised pasted-to-total characters from 61.0% to 68.1% (p < 0.0001) with no statistically significant decline in exam scores.
-- **Instructors.** Fix the logistics before the [[pedagogy|pedagogy]]: TA inconsistency (33.7%) and scheduling difficulties (21.7%) drove the negative feedback, not student resistance to being interviewed, so invest in TA training and a scheduling process.
+- **Instructors.** Fix the logistics before the [[pedagogy]]: TA inconsistency (33.7%) and scheduling difficulties (21.7%) drove the negative feedback, not student resistance to being interviewed, so invest in TA training and a scheduling process.
 - **Administrators.** Plan the staffing ratio before scaling: CS1-CR expanded from just under 100 to over 200 students while keeping the same 11 TAs, a constraint the authors flag as unresolved.
 - **Researchers.** Build the comparison the field still lacks: the authors state there have been no randomized controlled trials in this space, and this three-semester study is a proof of concept rather than causal evidence.
 

@@ -29,7 +29,7 @@ audience: [instructors, curriculum designers, administrators]
 - **Instructors.** Invite AI into the tutorial as "another voice" in collective inquiry rather than a private substitute, keeping students the authors of the question and of the reasoning.
 - **Instructors.** Ask the load-bearing diagnostic before each task — "is AI removing the demand that was building the right things?" — and protect judgment, reasoning, and professional identity from offloading.
 - **Curriculum designers.** Redirect the freed cognitive capacity toward the judgment layer and add the new curriculum aim of using AI's voice appropriately, rather than treating AI as an efficiency gain.
-- **Administrators.** Move institutional [[governance|governance]] from detection and restriction toward making engagement visible, and invest in the assessment formats that scale — [[eportfolio|portfolios]], orals, and observed practice — while treating each as a partial answer.
+- **Administrators.** Move institutional [[governance]] from detection and restriction toward making engagement visible, and invest in the assessment formats that scale — [[eportfolio|portfolios]], orals, and observed practice — while treating each as a partial answer.
 
 ## Limitations
 - The study is a conceptual synthesis, so it produces theoretical warrant rather than empirical proof; the author states the structural claim requires the kind of empirical investigation a conceptual essay cannot provide.

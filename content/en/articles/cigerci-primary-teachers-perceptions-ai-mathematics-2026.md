@@ -54,7 +54,7 @@ The survey shows a favorable but shallow orientation: willingness (M = 3.98) and
 
 - Treat prior AI training as the clearest lever: only 19.2% of these teachers had any, yet that group scored markedly higher across the dimensions, so structured [[professional-training|professional training]] is the first thing schools can act on.
 - Frequency of AI use separated teachers as strongly as training did, which favors sustained, repeated use over one-off introductions when building [[teacher-ai-competency|competence]].
-- Frame AI as support for planning, materials and [[feedback|feedback]] rather than as a replacement for teacher judgment, which is how the interviewed teachers themselves described their [[teacher-role|role]].
+- Frame AI as support for planning, materials and [[feedback]] rather than as a replacement for teacher judgment, which is how the interviewed teachers themselves described their [[teacher-role|role]].
 - Because teachers raised age appropriateness and over-reliance alongside uneven access, pair any rollout with explicit guidance on what young children should and should not do with AI, and with [[digital-divide|equity]] checks on devices and connectivity.
 - The authors document perceptions and reported use, not outcomes, so treat this as a starting point to test against observed practice rather than as proof that AI improves mathematics learning.
 

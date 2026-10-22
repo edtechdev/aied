@@ -29,7 +29,7 @@ reviewed_by: [editor]
 
 ## What you can do with it
 
-Students record a voice explanation while drawing on a whiteboard. Feedback returns within seconds on that [[multimodal|multimodal]] response. Teachers create their own activities or draw on a library of standards-aligned ones, so the feedback criteria follow the curriculum rather than the vendor's: the FAQ says the tool supports all K-12 subjects and ages, and lists 64 languages for feedback, in either the student's spoken language or one the teacher chooses. A teacher dashboard surfaces class-level patterns such as common misconceptions and exemplars; assignments go out by LMS link or join code, with Google, Microsoft, or Clever sign-in.
+Students record a voice explanation while drawing on a whiteboard. Feedback returns within seconds on that [[multimodal]] response. Teachers create their own activities or draw on a library of standards-aligned ones, so the feedback criteria follow the curriculum rather than the vendor's: the FAQ says the tool supports all K-12 subjects and ages, and lists 64 languages for feedback, in either the student's spoken language or one the teacher chooses. A teacher dashboard surfaces class-level patterns such as common misconceptions and exemplars; assignments go out by LMS link or join code, with Google, Microsoft, or Clever sign-in.
 
 ## Who it is for
 

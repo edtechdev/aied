@@ -56,7 +56,7 @@ The design process was organized around the three stages of the pairing process 
 ## Limitations
 
 - The sample is small and self-selected: 30 participants (17 teachers and 13 students) recruited through network connections, snowballing and social media, with Phase 1 running 5 co-generation sessions and Phase 2 running 25 evaluation sessions.
-- The study captures stated preferences rather than classroom [[agency|agency]] in action: participants ranked 34 storyboard design ideas, 4 to 7 per challenge, in one-hour Zoom sessions and explained their reasoning, so no pairing decision was observed or measured in a live classroom.
+- The study captures stated preferences rather than classroom [[agency]] in action: participants ranked 34 storyboard design ideas, 4 to 7 per challenge, in one-hour Zoom sessions and explained their reasoning, so no pairing decision was observed or measured in a live classroom.
 - The design space is knowingly incomplete: the authors state that certain regions, such as the challenge with full student control, remain unmapped.
 - The context is narrow — K-12 mathematics, pairing students inside an [[intelligent-tutoring|intelligent tutoring system]] that tracks mastery with [[knowledge-tracing|Bayesian knowledge tracing]] — so the rankings may not transfer to other subjects, ages, or tool designs.
 

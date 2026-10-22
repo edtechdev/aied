@@ -28,16 +28,16 @@ source_depth: full text
 verified: [citation, numbers, links]
 ---
 
-> **Synthesis:** Aguilar, Nye, Swartout and colleagues (2025) report three studies from the USC Center for Generative AI and Society on how students and teachers are adapting to [[generative-ai|generative AI]]. A national survey of over 1,000 U.S. college students separates instrumental [[help-seeking|help-seeking]] (using AI to understand a topic) from executive help-seeking (using AI to get quick answers). A pilot of ABE, an [[llm|LLM]]-based writing coach built from [[scaffolding|scaffolded]] reflection activities, found high [[technology-acceptance-model|technology acceptance]] and reported gains in [[metacognition|metacognitive]] reflection. A survey of 1,505 in-service teachers in five countries finds [[ai-literacy|awareness]] outpacing confident classroom adoption.
+> **Synthesis:** Aguilar, Nye, Swartout and colleagues (2025) report three studies from the USC Center for Generative AI and Society on how students and teachers are adapting to [[generative-ai|generative AI]]. A national survey of over 1,000 U.S. college students separates instrumental [[help-seeking]] (using AI to understand a topic) from executive help-seeking (using AI to get quick answers). A pilot of ABE, an [[llm|LLM]]-based writing coach built from [[scaffolding|scaffolded]] reflection activities, found high [[technology-acceptance-model|technology acceptance]] and reported gains in [[metacognition|metacognitive]] reflection. A survey of 1,505 in-service teachers in five countries finds [[ai-literacy|awareness]] outpacing confident classroom adoption.
 
 ## Key Findings
 
 - **Executive help dominates.** Students sought the most executive help from the internet and GenAI and the least from instructors and tutors, preferring machines to people.
-- **Self-efficacy and [[trust]] pull opposite ways.** Higher internet help-seeking [[self-efficacy|self-efficacy]] went with less GenAI help-seeking of both kinds, while higher trust in GenAI content went with more shortcut-seeking.
+- **Self-efficacy and [[trust]] pull opposite ways.** Higher internet help-seeking [[self-efficacy]] went with less GenAI help-seeking of both kinds, while higher trust in GenAI content went with more shortcut-seeking.
 - **Professor encouragement works.** Greater encouragement from professors was associated with more instrumental GenAI use, as was avoiding asking peers for help.
 - **A scaffolded writing coach was accepted.** ABE's ratings for Ease of Use, Learning Expectancy, Attitude, and Curiosity ranged from 4.69 to 4.92 out of 6, frustration was relatively low (Mean = 3.03, SD = 1.51), and Counter Arguments was most used (89%).
 - **Teachers' awareness outpaces use.** Of 1,505 teachers in five countries, 42.1% called themselves "very" or "extremely" familiar with GenAI but only 51.5% were comparably confident using it.
-- **Benefits and risks coexist.** 72% said GenAI streamlined routine tasks and 73.1% saw better learning outcomes, while 68.9% saw more plagiarism and 62.4% less student [[creativity|creativity]].
+- **Benefits and risks coexist.** 72% said GenAI streamlined routine tasks and 73.1% saw better learning outcomes, while 68.9% saw more plagiarism and 62.4% less student [[creativity]].
 
 ## Instrumental help, executive help, and what shapes it
 

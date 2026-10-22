@@ -32,7 +32,7 @@ source_depth: full text
 4. The mean exam-score difference between the highest- and lowest-performing clusters was 40.17 points.
 5. The recommendation component is a conceptual framework: an affinity-scoring model that combines cluster membership with a Felder-Silverman Learning Style Model (FSLSM) mapping matrix and diversity regularization (λ = 0.30) to produce cluster-specific learning-object recommendations.
 6. The authors state the central methodological limit themselves: because the clustering inputs are self-reported proxies rather than direct LMS interaction traces, validation against LMS data remains necessary to assess whether the profiles describe observed learning behavior.
-7. The paper's framing claim is that one-size-fits-all content delivery in [[higher-ed|higher-education]] [[edtech-platform|platforms]] leaves heterogeneity in student [[student-engagement|engagement]], [[motivation|motivation]] and performance unaddressed, and that behaviorally derived profiles can route learning objects to students rather than exposing everyone to the same sequence.
+7. The paper's framing claim is that one-size-fits-all content delivery in [[higher-ed|higher-education]] [[edtech-platform|platforms]] leaves heterogeneity in student [[student-engagement|engagement]], [[motivation]] and performance unaddressed, and that behaviorally derived profiles can route learning objects to students rather than exposing everyone to the same sequence.
 
 ## Clustering students from what they report about themselves
 

@@ -43,7 +43,7 @@ The conclusion is emphatic: incorporating AI **should not diminish [[teacher-rol
 
 - **Instructors.** Make verification the graded task: require students to treat every AI output as a hypothesis and check it against primary literature or their own data before it enters a lab report or assignment.
 - **Instructors.** Teach the failure cases explicitly, using documented examples such as the widely used healthcare algorithm that underestimated Black patients' medical needs because it used spending as a proxy for health status, so students see that automated systems are neither infallible nor ethically neutral.
-- **Instructors.** Embed AI tools inside [[active-learning|active-learning]] structures — [[problem-based-learning|problem-based learning]] projects, flipped preparation, and simulated labs — so class time goes to reasoning about outputs rather than producing them.
+- **Instructors.** Embed AI tools inside [[active-learning]] structures — [[problem-based-learning|problem-based learning]] projects, flipped preparation, and simulated labs — so class time goes to reasoning about outputs rather than producing them.
 - **Instructors.** Run structured critique of AI outputs on accuracy, ethical implications, and model bias through case discussions and targeted coursework on AI ethics, because students can operate platforms fluently while knowing almost nothing about how the systems reach conclusions.
 - **Instructors.** Automate routine checks and feedback with adaptive platforms, but keep the complex [[ethics|ethical]] discussion, seminars, and hands-on lab work in your own hands — the review holds that direct human mentorship is not replaceable.
 

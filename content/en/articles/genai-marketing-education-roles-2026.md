@@ -29,7 +29,7 @@ Uses multipronged analysis (syllabi review, educator survey, qualitative intervi
 - **Instructors.** Write an explicit GAI use statement that sets permitted and prohibited uses and names the tool's limitations, such as the "Research Assistant, Proofreader, Peer reviewer, Tutor and Cultural Coach" menu reported from practice, instead of leaving disclosure implicit.
 - **Instructors.** Protect peer interaction when GAI takes the teammate role: over-reliance risks diminishing peer-to-peer interaction and weakening teaching presence, so pair the brainstorming with a collaborative follow-up.
 - **Faculty developers.** Deliver role-specific GAI training rather than one-off tool demos, since the surveyed faculty were early adopters and their reported effectiveness is unlikely to represent the wider teaching population.
-- **Administrators.** Rewrite program [[assessment|assessment]] criteria and [[educational-policy-ai|policy]] together so they balance GAI-enabled innovation with core marketing competencies, and back them with ethical implementation guidelines.
+- **Administrators.** Rewrite program [[assessment]] criteria and [[educational-policy-ai|policy]] together so they balance GAI-enabled innovation with core marketing competencies, and back them with ethical implementation guidelines.
 
 ## Limitations
 

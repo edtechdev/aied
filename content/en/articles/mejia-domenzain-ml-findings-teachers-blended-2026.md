@@ -30,7 +30,7 @@ methods: [mixed-methods-research]
 
 - **Instructors.** Plan how the dashboard enters your teaching, not just whether you can read it: in the flipped-classroom context 80% of teachers intended to show it during interactive sessions and 70% considered adapting their course, and most used the profiles to advise students on learning strategies.
 - **Instructors.** Use the group-comparison conventions teachers read reliably — superposition rather than juxtaposition, and plots that keep the full information, such as the group of students who did not watch — when presenting behavioral data to colleagues.
-- **Learning analytics designers.** Support [[visualization|visualization]] literacy rather than only simpler charts: teachers in the top literacy quartile identified trends in a consistency time series 16% of the time versus 5% in the bottom quartile, even though chart-type preferences barely differed.
+- **Learning analytics designers.** Support [[visualization]] literacy rather than only simpler charts: teachers in the top literacy quartile identified trends in a consistency time series 16% of the time versus 5% in the bottom quartile, even though chart-type preferences barely differed.
 - **Learning analytics designers.** Build for the context of use: vocational teachers spent about twice as long on individual students as on group behavior and used the dashboard for one-to-one coaching, while university teachers explored pages sequentially and adapted course workload, tests, and reminders.
 - **Learning analytics designers.** Treat [[privacy]] as a first-class requirement: 60% of the flipped-classroom teachers raised data anonymization as a concern, and teachers wanted students to be able to opt out.
 

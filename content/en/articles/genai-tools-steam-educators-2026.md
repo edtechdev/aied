@@ -51,7 +51,7 @@ Across disciplines the review pairs each tool category with a specific instructi
 - **[[curriculum-design|Curriculum]] and instructional designers.** Embed [[ai-literacy|AI literacy]], data literacy, [[computational-thinking|computational thinking]] and ethical reasoning inside disciplinary and interdisciplinary goals rather than adding AI as a standalone unit or optional extra.
 - **Assessment designers.** Reserve high-stakes judgment for human review and lean on [[formative-assessment|formative]], [[process-oriented-assessment|process-oriented]] uses of AI; redesign toward [[oral-assessment|oral defense]], iterative drafts, studio critique and in-class design reviews.
 - **Faculty developers.** Build sustained, collegial, [[discipline-specific-aied|discipline-specific]] communities of practice where teachers test prompts and compare lesson designs, rather than one-off tool demonstrations.
-- **Institutions.** Set procurement criteria on pedagogical fit, accessibility, privacy compliance and [[explainable-ai|explainability]] alongside functionality, and adopt layered [[governance|governance]] that leaves teachers professional discretion within clear ethical boundaries.
+- **Institutions.** Set procurement criteria on pedagogical fit, accessibility, privacy compliance and [[explainable-ai|explainability]] alongside functionality, and adopt layered [[governance]] that leaves teachers professional discretion within clear ethical boundaries.
 
 ## Limitations
 

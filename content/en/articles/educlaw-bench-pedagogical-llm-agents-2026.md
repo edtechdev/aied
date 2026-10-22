@@ -31,7 +31,7 @@ Large language models (LLMs) power educational applications from tutoring to ess
 
 - **Designers.** Benchmark a tutor over a sustained relationship before shipping it, not in a single session: every adapter plateaued by day 5–10, and openclaw's learning gain stalled near 0.28–0.29 against the ideal-learning reference.
 - **Designers.** Evaluate the base model and the agent harness as a coupled pair on every tier you intend to deploy — no adapter led the learning-gain axis on more than one of the three base-model tiers, so a single-tier leaderboard re-ranks the same systems.
-- **Designers.** Add the curriculum-design axes to your acceptance suite: even the best Gagné score reached only about 1.93 against a 5.0 ceiling, so exposing the [[knowledge-tracing|knowledge-tracing]] belief through the LMS does not by itself produce coherent instruction.
+- **Designers.** Add the curriculum-design axes to your acceptance suite: even the best Gagné score reached only about 1.93 against a 5.0 ceiling, so exposing the [[knowledge-tracing]] belief through the LMS does not by itself produce coherent instruction.
 - **Designers.** Re-audit pedagogy after any reinforcement fine-tuning: LoRA RFT drove metaclaw-rft to near-zero learning gain with helpfulness flat (4.73 → 4.76), and openclaw-rl-rft's helpfulness collapsed (3.19 → 2.30) without any leak- or refusal-based signal.
 - **Researchers.** Diagnose failures with the mode breakdown (no-curriculum 48.5% of runs, no-learning-gain 53.3%, answer disclosure ≈0%) and keep the five near-independent axes separate rather than collapsing them into a composite score.
 

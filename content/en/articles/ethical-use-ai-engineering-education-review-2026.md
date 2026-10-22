@@ -46,7 +46,7 @@ The central finding is that ethical AI guidance in engineering education is **pr
 ## What this means for practice
 
 - **Faculty developers.** Move training past integrity rules: across the 99 studies, accountability (n = 47) and transparency (n = 34) dominated while reciprocal accountability for faculty AI use and institutional responsibility stayed underdeveloped, so educators need to model disclosure and oversight, not only enforce it.
-- **Instructors.** Design for student independence and agency, the least-emphasized dimension (autonomy n = 12) — require students to verify AI-generated outputs and explain their reasoning instead of submitting unreviewed AI work, which protects [[problem-solving|problem-solving]] and [[critical-thinking|critical thinking]].
+- **Instructors.** Design for student independence and agency, the least-emphasized dimension (autonomy n = 12) — require students to verify AI-generated outputs and explain their reasoning instead of submitting unreviewed AI work, which protects [[problem-solving]] and [[critical-thinking|critical thinking]].
 - **Instructors.** Make transparency reciprocal in your own course: document in the syllabus and teaching materials when and how you use AI, and pair student disclosure requirements with verified, explained use.
 - **Administrators.** Treat ethical AI use in engineering as professional formation tied to public safety, infrastructure reliability, and societal well-being, and fund [[educational-development]] so ethical guidance is balanced across students, faculty, and institutions rather than resting on student-facing [[academic-integrity|compliance]].
 

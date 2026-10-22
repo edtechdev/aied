@@ -51,7 +51,7 @@ The fuzzy-set analysis asked which combinations of conditions were sufficient fo
 
 - **Instructors.** Move AI literacy instruction beyond procedural prompting toward model principles, limitations, critical evaluation, and ethics, because thinking-based instruction outperformed skills-based instruction under both task conditions.
 - **Instructors.** Pair open-ended tasks with enough conceptual support for learners to justify independent decisions, since openness ran through autonomy rather than competence.
-- **Designers.** Prioritize competence and autonomy through worked examples, diagnostic [[feedback|feedback]], revision opportunities, and meaningful choice; competence was the strongest predictor of performance (β = 0.358).
+- **Designers.** Prioritize competence and autonomy through worked examples, diagnostic [[feedback]], revision opportunities, and meaningful choice; competence was the strongest predictor of performance (β = 0.358).
 - **Designers.** Add collaborative structures such as peer critique if relatedness is a target, because the individual task left relatedness without an independent effect.
 - **Researchers.** Extend this single-site, short-duration design to multi-site replication.
 
