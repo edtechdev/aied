@@ -297,7 +297,9 @@ Regenerate both with one command:
 PATH="/home/doug/.local/bin:/usr/bin:$PATH" /usr/bin/python3 tooling/build-epub.py
 ```
 
-This writes `public/aied.epub` and `public/aied.pdf`. Supporting files:
+This writes `public/aied.epub` and `public/aied.pdf`. **The site does not serve these files** — it links the GitHub raw URL (`offlineBaseUrl` in `site.config.json`) and `astro.config.mjs` strips them from `dist/`, because ~161 MB of already-compressed bytes pushed the Pages artifact past its 1 GB limit. They remain committed under `public/` so the raw links resolve.
+
+Supporting files:
 
 - `tooling/build-epub.py` — assembles the shared markdown export, runs pandoc for the EPUB (hard-coded hierarchical TOC numbering) and pandoc + **weasyprint** for the PDF (clickable blue TOC via CSS counters), post-processes the EPUB (Notice page carrying the generation date, the CC0 public-domain mark and its localized name, landmarks labeling), and finishes by setting the PDF language metadata with **pikepdf**. It fails loudly (exit 1) when `pikepdf` is missing from the invoking interpreter, and prints which interpreter that is.
 - `tooling/pdf-style.css` — PDF print layout (A4, page numbers, cover page, blue clickable links).

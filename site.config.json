@@ -2257,6 +2257,7 @@
   "basePath": "/aied",
   "repoUrl": "https://github.com/edtechdev/aied",
   "issuesUrl": "https://github.com/edtechdev/aied/issues",
+  "offlineBaseUrl": "https://github.com/edtechdev/aied/raw/refs/heads/main/public",
   "editor": {
     "name": "Doug Holton",
     "contactUrl": "https://mastodon.social/@dougholton"
