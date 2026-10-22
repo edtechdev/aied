@@ -12,7 +12,7 @@ connected_faqs: [designing-ai-into-learning]
 reviewed_by: [editor]
 contributors: [editor]
 translation_of: concepts/pedagogical-patterns
-source_updated: "2026-09-30T16:25:27-04:00"
+source_updated: "2026-10-22T09:11:45-04:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash

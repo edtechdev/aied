@@ -11,7 +11,7 @@ confidence: high
 institutions: [educational-policy-ai, governance]
 reviewed_by: [editor]
 translation_of: concepts/framing-ai-use-for-students
-source_updated: "2026-10-07T15:40:00-04:00"
+source_updated: "2026-10-22T09:11:45-04:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:

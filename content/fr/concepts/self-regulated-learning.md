@@ -12,7 +12,7 @@ level: [k 12, higher ed]
 confidence: high
 connected_resources: [process-feedback]
 translation_of: concepts/self-regulated-learning
-source_updated: "2026-10-15T10:00:00-04:00"
+source_updated: "2026-10-22T09:11:45-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:

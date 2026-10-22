@@ -3,7 +3,7 @@ title: "हम कैसे जानें कि कोई शैक्षि�
 created: "2026-10-02T08:07:09-04:00"
 updated: "2026-10-16T00:00:00-04:00"
 translation_of: faqs/checking-whether-educational-ai-works
-source_updated: "2026-10-02T08:21:34-04:00"
+source_updated: "2026-10-22T09:11:45-04:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 connected_faqs: [making-ai-better-at-supporting-learning, training-ai-tutors-to-guide-rather-than-answer, reporting-interpreting-aied-research, evaluating-ai-interventions-methods]
 weight: 73

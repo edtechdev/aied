@@ -16,7 +16,7 @@ confidence: high
 methods: [benchmark]
 ethics: [pedagogical-safety]
 translation_of: faqs/making-ai-better-at-supporting-learning
-source_updated: "2026-10-02T08:21:34-04:00"
+source_updated: "2026-10-22T09:11:45-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:

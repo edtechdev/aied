@@ -9,7 +9,7 @@ technology: [generative-ai]
 confidence: high
 connected_resources: [vibes-diy]
 translation_of: concepts/constructivist
-source_updated: "2026-09-30T10:54:00-04:00"
+source_updated: "2026-10-22T09:11:45-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:

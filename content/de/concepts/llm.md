@@ -10,7 +10,7 @@ assessment: [automated-assessment]
 ethics: [hallucination-risk, pedagogical-safety]
 confidence: high
 translation_of: concepts/llm
-source_updated: "2026-10-14T14:35:00-04:00"
+source_updated: "2026-10-22T09:11:45-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:

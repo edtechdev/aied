@@ -10,7 +10,7 @@ confidence: medium
 institutions: [change-management]
 connected_resources: [campus-ai-framework, institutional-ai-readiness-pack]
 translation_of: concepts/change-management
-source_updated: "2026-10-09T09:50:00-04:00"
+source_updated: "2026-10-22T09:11:45-04:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 contributors: [editor]
 ai_assist:

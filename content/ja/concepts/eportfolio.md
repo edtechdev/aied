@@ -64,7 +64,7 @@ Eポートフォリオは単一の最終成果物よりも**プロセス、省�
 - [[language-learning]]
 - [[higher-ed]]
 
-## 関連する論文
+## 関連する記事
 
 - [[ni-lam-multiliteracies-ai-portfolio-2026]] — Students' perceptions of multiliteracies development using AI-assisted portfolio assessment (Ni & Lam 2026)
 - [[sutama-chatgpt-eportfolio-speaking-2026]] — ChatGPT aligned with e-portfolio assessment for EFL speaking and feedback literacy (Laksana et al. 2026)

@@ -16,7 +16,7 @@ level: [higher ed]
 page_kind: [evaluation]
 confidence: medium
 translation_of: faqs/how-can-ai-assist-with-educational-research
-source_updated: "2026-10-05T14:14:11-04:00"
+source_updated: "2026-10-22T09:11:45-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:

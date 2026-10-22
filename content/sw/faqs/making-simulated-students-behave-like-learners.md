@@ -15,7 +15,7 @@ ethics: [pedagogical-safety, trust-calibration]
 reviewed_by: [editor]
 contributors: [editor]
 translation_of: faqs/making-simulated-students-behave-like-learners
-source_updated: "2026-10-02T08:36:18-04:00"
+source_updated: "2026-10-22T09:11:45-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash

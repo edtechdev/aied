@@ -11,7 +11,7 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: medium
 translation_of: concepts/pedagogical-agent
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-22T09:11:45-04:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:

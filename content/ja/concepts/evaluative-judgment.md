@@ -111,7 +111,7 @@ ai_assist:
 - [[agency]]
 - [[higher-ed]]
 
-## 関連する論文
+## 関連する記事
 - [[chatgpt-peer-feedback-evaluative-judgement-2025]] — ChatGPT versus peer feedback as training grounds for different dimensions of evaluative judgment
 
 - [[ai-internal-feedback-evaluative-judgments]] — How AI-supported internal feedback develops evaluative judgments, and where reasoning stays thin

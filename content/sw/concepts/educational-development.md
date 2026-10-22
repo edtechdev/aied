@@ -11,7 +11,7 @@ confidence: high
 institutions: [educational-policy-ai]
 reviewed_by: [editor]
 translation_of: concepts/educational-development
-source_updated: "2026-10-07T13:40:00-04:00"
+source_updated: "2026-10-22T09:11:45-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:

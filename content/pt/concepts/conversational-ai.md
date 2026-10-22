@@ -83,6 +83,10 @@ A IA conversacional é melhor compreendida como uma **modalidade de interação*
 Escolha agentes conversacionais para apoiar o ensino, a [[motivation|motivação]] e a [[metacognition|metacognição]], em vez de meramente para responder perguntas, e desenhe para uma interação fundamentada em IHC, participativa e centrada no usuário. Proteja-se contra a [[cognitive-offloading|dependência excessiva]] pareando a CAI com instrução de [[ai-literacy|letramento em IA]] e com [[feedback|feedback]] que mantenha quem aprende cognitivamente produtivo. Trate do letramento em IA e da usabilidade de forma explícita — já que são eles — e não a habilidade digital geral — que dirigem a adoção e a não utilização ([[colbran-student-perspectives-genai-chatbots-2026|Colbran, Jha & Schiavone 2026]]) — e pareie a implementação com políticas claras de uso de IA, rótulos de avaliação e treinamento. Avalie a CAI em resultados pedagógicos — e não apenas na conclusão de tarefas — e planeje a equidade e a [[accessibility|acessibilidade]] desde o início, em vez de como reflexão tardia.
 - **Como os estudantes de fato conversam com agentes conversacionais — um esquema de desengajamento de seis categorias:** [[rho-disengaged-conversational-behaviors-2026|Rho et al. (2026)]] incorporaram um agente ensinável GPT-4-Turbo (posicionado como um estudante do ensino fundamental em dificuldade, fundamentado com RAG sobre um grafo de conhecimento e pareado com um agente mentor que criticava as explicações dos estudantes) nas lições de Álgebra e Geometria do Math Nation, e codificaram 5.522 enunciados de 246 estudantes. Além do engajamento (75,7% dos enunciados), identificaram Resposta Falsa (12,8%), Retenção (8,9%), Aleatório/Ruidoso (2,1%), Espelhamento (0,6%), Zombaria (0,3%) e Abandono (0,2%) — com o Espelhamento (copiar o texto do agente) emergindo indutivamente dos dados. A classificação foi com humano no circuito: 1.682 enunciados anotados por dois avaliadores (κ = 0,704–0,905 por categoria) treinaram um classificador LLaMA 3 ajustado (F1 ponderado = 0,910 em threads retidas) que rotulou os 3.840 enunciados restantes. Uma análise de riscos competitivos em nível de processo mostrou então que a maior parte do desengajamento se resolve em poucos turnos, exceto a Retenção, que persiste — um sinal que vale desenhar as respostas do agente em torno.
 
+## Citação
+
+Ganguly, A., Mehjabin, N., Malik, A., & Johri, A. (2025). [*Agentes de IA conversacional na educação: uma revisão guarda-chuva*](https://doi.org/10.1007/s43681-025-00916-0). *AI and Ethics*, 6, 72.
+
 ## Conceitos conectados
 
 - [[intelligent-tutoring]]
@@ -128,6 +132,3 @@ Escolha agentes conversacionais para apoiar o ensino, a [[motivation|motivação
 
 - [[helpcoach-ai-help-seeking-scaffolding-2026]] — HelpCoach: andamiando a busca de ajuda direcionada à IA durante a resolução de problemas
 
-## Citação
-
-Ganguly, A., Mehjabin, N., Malik, A., & Johri, A. (2025). [*Agentes de IA conversacional na educação: uma revisão guarda-chuva*](https://doi.org/10.1007/s43681-025-00916-0). *AI and Ethics*, 6, 72.

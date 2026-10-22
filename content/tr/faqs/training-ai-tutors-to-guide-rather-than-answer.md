@@ -26,7 +26,7 @@ ai_assist:
     date: "2026-10-14"
     agent: hermes-agent
 translation_of: faqs/training-ai-tutors-to-guide-rather-than-answer
-source_updated: "2026-10-02T08:21:34-04:00"
+source_updated: "2026-10-22T09:11:45-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 ---
 

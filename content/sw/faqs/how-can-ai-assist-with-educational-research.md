@@ -17,7 +17,7 @@ page_kind: [evaluation]
 confidence: medium
 reviewed_by: [editor]
 translation_of: faqs/how-can-ai-assist-with-educational-research
-source_updated: "2026-10-05T14:14:11-04:00"
+source_updated: "2026-10-22T09:11:45-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:

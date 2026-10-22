@@ -16,7 +16,7 @@ confidence: high
 methods: [benchmark, ai-ed-evaluation]
 ethics: [pedagogical-safety, trust-calibration]
 translation_of: faqs/checking-whether-educational-ai-works
-source_updated: "2026-10-02T08:21:34-04:00"
+source_updated: "2026-10-22T09:11:45-04:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:

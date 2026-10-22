@@ -13,7 +13,7 @@ confidence: high
 methods: [ai-ed-evaluation]
 reviewed_by: [editor]
 translation_of: concepts/assessment
-source_updated: "2026-10-09T08:42:20-04:00"
+source_updated: "2026-10-22T09:11:45-04:00"
 translation_note: "Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови."
 contributors: [editor]
 ai_assist:

@@ -17,7 +17,7 @@ page_kind: [evaluation]
 confidence: medium
 contributors: [editor]
 translation_of: faqs/how-can-ai-assist-with-educational-research
-source_updated: "2026-10-05T14:14:11-04:00"
+source_updated: "2026-10-22T09:11:45-04:00"
 translation_note: "Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle."
 ai_assist:
   - model: stepfun/step-5-preview:free

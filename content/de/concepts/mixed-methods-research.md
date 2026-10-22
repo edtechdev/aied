@@ -7,7 +7,7 @@ research_method: [survey]
 confidence: high
 methods: [mixed-methods-research, qualitative-research, quantitative-research, research-methods-aied]
 translation_of: concepts/mixed-methods-research
-source_updated: "2026-09-30T07:37:28-04:00"
+source_updated: "2026-10-22T09:11:45-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:

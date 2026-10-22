@@ -11,7 +11,7 @@ level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: concepts/educational-development
-source_updated: "2026-10-07T13:40:00-04:00"
+source_updated: "2026-10-22T09:11:45-04:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -124,7 +124,7 @@ AI の[[professional-training|専門職的な開発]]を計画する教員開発
 - [[educational-technology-developers]]
 - [[stakeholders]] — 傘:AI 教育における人々と聴衆（学習者、教師、設計者、管理者、政策立案者）
 
-## 関連する論文
+## 関連する記事
 - [[mcinnes-salvaging-constructive-alignment-genai-2026]] — 生成AIの整合についての助言の批判的な言説分析:技術の訓練者として描き直される開発者
 - [[crompton-faculty-technology-integration-standards-2026]] — 技術統合のための教員の基準（DBR）
 - [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026]] — AI の倫理的な次元:教員と学生の見解

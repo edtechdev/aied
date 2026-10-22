@@ -9,7 +9,7 @@ assessment: [assessment-validity, item-response-theory, psychometrically-aware-a
 connected_faqs: [ai-literacy-evidence, evaluating-ai-interventions-methods]
 confidence: medium
 translation_of: concepts/educational-measurement
-source_updated: "2026-10-14T11:15:00-04:00"
+source_updated: "2026-10-22T09:11:45-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:

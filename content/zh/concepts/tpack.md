@@ -9,7 +9,7 @@ connected_faqs: [faculty-development-ai]
 audience: [faculty developers, instructors]
 confidence: high
 translation_of: concepts/tpack
-source_updated: "2026-10-07T13:40:00-04:00"
+source_updated: "2026-10-22T09:11:45-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:

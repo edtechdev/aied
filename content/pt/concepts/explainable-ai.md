@@ -87,6 +87,10 @@ Se a qualidade da explicação decide se a XAI é útil, então produzir explica
 
 Para a explicabilidade especificamente, as atribuições que importam são as que forçam a explicação a sair do notebook: model cards avaliados com peso ao lado das métricas de precisão, e auditorias estruturadas de explicação nas quais os estudantes aplicam ferramentas de interpretabilidade a seus próprios modelos e depois apresentam os resultados a um público sem formação técnica compartilhada. A aplicação é o pilar que mais frequentemente falta nos cursos adjacentes à ética e o que torna o resto mais do que simbólico — rubricas que recompensem documentação responsável, projetos que possam ser devolvidos para revisão por fundamentos [[ethics|éticos]], e [[peer-assessment|avaliação entre pares]] conduzida contra critérios de responsabilização, e não apenas técnicos. O artigo é franco quanto ao fato de que as ferramentas diferem acentuadamente em custo: model cards e declarações de posicionalidade não exigem nenhum software novo e arriscam apenas uma conformidade superficial, enquanto painéis de pares e engajamento de partes interessadas exigem coordenação e adesão institucional, e é por isso que ele recomenda uma adoção escalonada em vez de um compromisso tudo ou nada. Veja [[curriculum-design]] para saber onde isso se encaixa em um programa.
 
+## Citação
+
+Khosravi, H., Buckingham Shum, S., Chen, G., Conati, C., Tsai, Y.-S., Kay, J., Knight, S., Martinez-Maldonado, R., Sadiq, S., & Gašević, D. (2022). [*Explainable Artificial Intelligence in education*](https://doi.org/10.1016/j.caeai.2022.100074). *Computers and Education: Artificial Intelligence*, 100074.
+
 ## Conceitos conectados
 - [[trust-calibration]]
 - [[trust]]
@@ -125,6 +129,3 @@ Para a explicabilidade especificamente, as atribuições que importam são as qu
 - [[bloom-classifier-ai-assisted-questions-2026]] — Avaliação de modelos pré-treinados para avaliação pedagógica de novas questões educacionais assistidas por IA
 
 - [[decision-making-agent-student-decision-acceptance-2026]] — Decisões de correção feitas pelo professor versus pela IA: uma justificativa escrita ampliou a lacuna de equidade
-## Citação
-
-Khosravi, H., Buckingham Shum, S., Chen, G., Conati, C., Tsai, Y.-S., Kay, J., Knight, S., Martinez-Maldonado, R., Sadiq, S., & Gašević, D. (2022). [*Explainable Artificial Intelligence in education*](https://doi.org/10.1016/j.caeai.2022.100074). *Computers and Education: Artificial Intelligence*, 100074.

@@ -7,7 +7,7 @@ connected_faqs: [making-simulated-students-behave-like-learners]
 technology: [adaptive-learning, cognitive-diagnosis, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, personalized-learning, simulating-students, student-modeling]
 confidence: high
 translation_of: concepts/student-modeling
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-22T09:11:45-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:

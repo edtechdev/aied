@@ -2,7 +2,7 @@
 title: "AIチューターに学生に答えるのではなく導くように訓練するにはどうすればよいでしょうか？"
 created: "2026-10-10T23:07:06-04:00"
 updated: "2026-10-10T23:07:06-04:00"
-source_updated: "2026-10-02T08:21:34-04:00"
+source_updated: "2026-10-22T09:11:45-04:00"
 connected_faqs: [making-ai-better-at-supporting-learning, checking-whether-educational-ai-works, developing-ai-tutor, ai-agents-support-students-instructors]
 weight: 72
 type: faq

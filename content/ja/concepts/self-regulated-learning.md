@@ -12,7 +12,7 @@ audience: [learners]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/self-regulated-learning
-source_updated: "2026-10-07T14:30:00-04:00"
+source_updated: "2026-10-22T09:11:45-04:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:

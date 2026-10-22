@@ -116,7 +116,7 @@ ai_assist:
 - [[stem-education]]
 - [[educational-technology-developers]]
 
-## 関連する論文
+## 関連する記事
 - [[typology-generative-ai-tools-education-2026]] — 211人の教育者が使っていると報告したもの:9つのカテゴリーの50のツール
 - [[making-ai-tutoring-productive-mastery-math-2026]] — AI 個別指導を生産的にする:習熟度ベースの数学練習
 - [[one-click-away-khanmigo-two-year-school-experiment-2026]] — One Click Away:2年間の学校実験における Khanmigo

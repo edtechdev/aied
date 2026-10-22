@@ -10,7 +10,7 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation, meta-analysis-systematic-review, research-methods-aied]
 translation_of: concepts/meta-analysis-systematic-review
-source_updated: "2026-09-30T14:23:52-04:00"
+source_updated: "2026-10-22T09:11:45-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:

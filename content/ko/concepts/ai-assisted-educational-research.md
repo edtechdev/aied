@@ -14,7 +14,7 @@ page_kind: [synthesis]
 connected_faqs: [making-simulated-students-behave-like-learners, how-can-ai-assist-with-educational-research]
 confidence: medium
 translation_of: concepts/ai-assisted-educational-research
-source_updated: "2026-10-05T14:14:11-04:00"
+source_updated: "2026-10-22T09:11:45-04:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:

@@ -11,7 +11,7 @@ level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: concepts/educational-development
-source_updated: "2026-10-07T13:40:00-04:00"
+source_updated: "2026-10-22T09:11:45-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:

@@ -11,7 +11,7 @@ level: [higher ed, k 12]
 confidence: medium
 connected_faqs: [ai-agents-support-students-instructors]
 translation_of: concepts/pedagogical-agent
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-22T09:11:45-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:

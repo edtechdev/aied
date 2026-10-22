@@ -9,7 +9,7 @@ technology: [generative-ai]
 confidence: high
 reviewed_by: [editor]
 translation_of: concepts/constructivist
-source_updated: "2026-09-30T10:54:00-04:00"
+source_updated: "2026-10-22T09:11:45-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:

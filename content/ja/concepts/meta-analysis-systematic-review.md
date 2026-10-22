@@ -9,7 +9,7 @@ research_method: [literature review]
 page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation, meta-analysis-systematic-review, research-methods-aied]
-source_updated: "2026-09-30T14:23:52-04:00"
+source_updated: "2026-10-22T09:11:45-04:00"
 translation_of: concepts/meta-analysis-systematic-review
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]

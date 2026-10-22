@@ -6,7 +6,7 @@ methods: [quantitative-research, research-methods-aied]
 confidence: high
 reviewed_by: [editor]
 translation_of: concepts/latent-profile-analysis
-source_updated: "2026-09-30T12:53:22-04:00"
+source_updated: "2026-10-22T09:11:45-04:00"
 translation_note: "Автоматический перевод данной английской страницы, не проверенный носителем языка."
 contributors: [editor]
 ai_assist:

@@ -12,7 +12,7 @@ confidence: high
 connected_faqs: [how-ai-impacts-students, ai-anxiety-wellbeing]
 level: [adult learning]
 translation_of: concepts/anxiety-and-stress
-source_updated: "2026-10-08T10:20:00-04:00"
+source_updated: "2026-10-22T09:11:45-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:

@@ -10,7 +10,7 @@ audience: [learners]
 confidence: high
 discipline: [cs education, math education, writing education]
 translation_of: concepts/creativity
-source_updated: "2026-10-15T10:00:00-04:00"
+source_updated: "2026-10-22T09:11:45-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:

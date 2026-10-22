@@ -7,7 +7,7 @@ confidence: high
 methods: [mixed-methods-research, qualitative-research, quantitative-research, research-methods-aied]
 reviewed_by: [editor]
 translation_of: concepts/mixed-methods-research
-source_updated: "2026-09-30T07:37:28-04:00"
+source_updated: "2026-10-22T09:11:45-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:

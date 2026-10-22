@@ -9,7 +9,7 @@ technology: [generative-ai]
 confidence: high
 reviewed_by: [editor]
 translation_of: concepts/constructivist
-source_updated: "2026-09-30T10:54:00-04:00"
+source_updated: "2026-10-22T09:11:45-04:00"
 translation_note: "Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови."
 contributors: [editor]
 ai_assist:

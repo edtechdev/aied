@@ -10,7 +10,7 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation]
 translation_of: concepts/summative-assessment
-source_updated: "2026-09-30T11:35:26-04:00"
+source_updated: "2026-10-22T09:11:45-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:

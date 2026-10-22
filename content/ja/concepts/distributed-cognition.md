@@ -76,7 +76,7 @@ Fowlin ら（2026）は、その配分を2段階の順序として具体化し�
 - [[collaborative-learning]]
 - [[ai-education]]
 
-## 関連する論文
+## 関連する記事
 
 - [[hao-human-ai-collaborative-problem-solving-cognition]] — 分散認知と共同調整のレンズを通じた人間とAIの協調的問題解決の実証研究
 - [[niari-ai-pedagogical-mediator-collaborative-learning]] — 人間と非人間のアクターにわたって認知を再配分する教育学的媒介者としてのAI

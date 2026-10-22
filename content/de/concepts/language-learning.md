@@ -11,7 +11,7 @@ level: [higher ed, k 12]
 confidence: high
 connected_resources: [mglearn]
 translation_of: concepts/language-learning
-source_updated: "2026-10-04T09:35:00-04:00"
+source_updated: "2026-10-22T09:11:45-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:

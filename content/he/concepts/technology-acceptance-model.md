@@ -10,7 +10,7 @@ confidence: high
 methods: [research-methods-aied]
 reviewed_by: [editor]
 translation_of: concepts/technology-acceptance-model
-source_updated: "2026-09-30T14:23:52-04:00"
+source_updated: "2026-10-22T09:11:45-04:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:

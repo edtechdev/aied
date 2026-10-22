@@ -10,7 +10,7 @@ institutions: [change-management]
 reviewed_by: [editor]
 connected_resources: [campus-ai-framework, institutional-ai-readiness-pack]
 translation_of: concepts/change-management
-source_updated: "2026-10-09T09:50:00-04:00"
+source_updated: "2026-10-22T09:11:45-04:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:

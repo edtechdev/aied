@@ -10,7 +10,7 @@ level: [higher ed]
 confidence: high
 methods: [research-methods-aied]
 translation_of: concepts/technology-acceptance-model
-source_updated: "2026-09-30T14:23:52-04:00"
+source_updated: "2026-10-22T09:11:45-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:

@@ -15,7 +15,7 @@ methods: [benchmark]
 ethics: [pedagogical-safety, trust-calibration]
 contributors: [editor]
 translation_of: faqs/making-simulated-students-behave-like-learners
-source_updated: "2026-10-02T08:36:18-04:00"
+source_updated: "2026-10-22T09:11:45-04:00"
 translation_note: "Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle."
 ai_assist:
   - model: stepfun/step-5-preview:free

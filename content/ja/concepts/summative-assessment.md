@@ -9,7 +9,7 @@ level: [higher ed, k 12]
 page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation]
-source_updated: "2026-09-30T11:35:26-04:00"
+source_updated: "2026-10-22T09:11:45-04:00"
 translation_of: concepts/summative-assessment
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]

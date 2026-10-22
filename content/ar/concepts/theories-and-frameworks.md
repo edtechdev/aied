@@ -10,7 +10,7 @@ methods: [research-methods-aied]
 confidence: high
 reviewed_by: [editor]
 translation_of: concepts/theories-and-frameworks
-source_updated: "2026-09-30T12:53:22-04:00"
+source_updated: "2026-10-22T09:11:45-04:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
