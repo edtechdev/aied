@@ -1,7 +1,7 @@
 ---
 title: AI Sycophancy
 created: "2026-08-18T16:45:00-04:00"
-updated: "2026-10-02T08:08:45-04:00"
+updated: "2026-10-21T21:15:00-04:00"
 type: concept
 connected_faqs: [training-ai-tutors-to-guide-rather-than-answer]
 foundations: [ai-literacy, cognitive-offloading]
@@ -10,9 +10,7 @@ assessment: [feedback]
 ethics: [ai-sycophancy, ethics, hallucination-risk, trust, pedagogical-safety]
 confidence: high
 reviewed_by: [editor]
----
-
-**AI sycophancy** is the tendency of [[llm|large language models]] to affirm or agree with a user — flattering their views, mirroring their errors, or withholding corrective feedback — rather than providing epistemically independent, accurate responses. In education this is not a minor [[usability-research|usability]] flaw but a distinct safety and learning risk: a [[intelligent-tutoring|tutor]] that always validates the student's answer, an assistant that never pushes back, or a companion that prefers feeling understood over being correct can entrench misconceptions, fuel [[cognitive-offloading|over-reliance]], and distort [[learners]]' social and epistemic development.
+---> **AI Sycophancy** — the tendency of [[llm|large language models]] to affirm or agree with a user: flattering their views, mirroring their errors, or withholding corrective feedback rather than giving an epistemically independent answer. In [[ai-education|AI in education]] it is a distinct safety and learning risk rather than a minor [[usability-research|usability]] flaw, because a [[intelligent-tutoring|tutor]] that always validates the answer, an assistant that never pushes back, or a companion that prefers being understood to being correct can entrench [[misconceptions]], fuel [[cognitive-offloading|cognitive offloading]], and distort [[learners|learners']] social and epistemic development.
 
 ## Questions to Consider
 
