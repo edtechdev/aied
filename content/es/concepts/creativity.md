@@ -1,7 +1,7 @@
 ---
 title: Creatividad
 created: "2026-09-28T18:23:55-04:00"
-updated: "2026-10-22T07:28:33-04:00"
+updated: "2026-10-22T09:13:53-04:00"
 type: concept
 foundations: [critical-thinking, design-thinking]
 pedagogy: [constructivist, problem-solving]
@@ -10,7 +10,7 @@ audience: [learners]
 confidence: high
 discipline: [cs education, math education, writing education]
 translation_of: concepts/creativity
-source_updated: "2026-10-15T10:00:00-04:00"
+source_updated: "2026-10-22T09:11:45-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:

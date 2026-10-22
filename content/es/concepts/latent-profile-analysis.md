@@ -1,12 +1,12 @@
 ---
 title: Análisis de perfiles latentes
 created: "2026-09-28T21:04:13-04:00"
-updated: "2026-10-02T23:55:01-04:00"
+updated: "2026-10-22T09:13:53-04:00"
 type: concept
 methods: [quantitative-research, research-methods-aied]
 confidence: high
 translation_of: concepts/latent-profile-analysis
-source_updated: "2026-09-30T12:53:22-04:00"
+source_updated: "2026-10-22T09:11:45-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -63,7 +63,7 @@ Ninguna estadística por sí sola selecciona la solución; el corpus trata la re
 - **Las pruebas de razón de verosimilitud por bootstrap (BLRT)** y la prueba de Lo–Mendell–Rubin son compañeras habituales del BIC y la entropía en la literatura más amplia sobre modelado de mezclas, pero los estudios de perfiles de esta base de conocimiento no las informan. Cuando una página informa solo de BIC y entropía, trate el número de clases como provisional.
 
 - **La comprobación de razón de verosimilitud que este corpus por lo demás omite.** [[ai-attitude-latent-profiles-career-development-2026|Song et al. (2026)]] retuvieron cuatro perfiles (entropía 0,824) de 379 estudiantes de empresa e informaron de la decisión de Lo–Mendell–Rubin: significativa en cuatro (p = 0,035) y no significativa en cinco (p = 0,376).
-- **Retención defendida con la solución rival y una prueba de razón de verosimilitud.** [[suria-martinez-academic-self-efficacy-motor-disabilities-2026|Suriá-Martínez et al. (2026)]] informan de que una solución de cuatro perfiles se ajustaba ligeramente mejor a los 102 estudiantes, pero no mejoraba de forma significativa y dejaba la clase más pequeña en 12,7 por ciento, así que retienen tres perfiles (entropía .89) en lugar del modelo que mejor ajustaba numéricamente. Informar de la solución perdedora y de lo que la descalificó es lo que convierte el número de clases retenido en un juicio que quien lee puede comprobar, y la medida de uso de IA de 12 ítems construida a propósito para el estudio —validada en una muestra separada de 85 que los autores califican de preliminar— marca el otro límite de su evidencia.
+- **Retención defendida con la solución rival y una prueba de razón de verosimilitud.** [[suria-martinez-academic-self-efficacy-motor-disabilities-2026|Suriá-Martínez et al. (2026)]] informan de que una solución de cuatro perfiles se ajustaba ligeramente mejor a los 102 estudiantes, pero no mejoraba de forma significativa y dejaba la clase más pequeña en 12,7 por ciento, así que retienen tres perfiles (entropía 0,89) en lugar del modelo que mejor ajustaba numéricamente. Informar de la solución perdedora y de lo que la descalificó es lo que convierte el número de clases retenido en un juicio que quien lee puede comprobar, y la medida de uso de IA de 12 ítems construida a propósito para el estudio —validada en una muestra separada de 85 que los autores califican de preliminar— marca el otro límite de su evidencia.
 
 Informe de las comparaciones, no solo del ganador: una página que dice «retuvimos cinco perfiles» sin la solución rival, los valores de entropía y el tamaño del perfil más pequeño no da a quien lee ninguna forma de juzgar la elección.
 

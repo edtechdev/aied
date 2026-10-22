@@ -1,7 +1,7 @@
 ---
 title: Aprendizaje colaborativo
 created: "2026-09-28T21:06:00-04:00"
-updated: "2026-10-22T07:31:04-04:00"
+updated: "2026-10-22T09:13:53-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [collaborative-learning, scaffolding]
@@ -58,7 +58,7 @@ El respaldo de quien facilita es la palanca observada más fuerte sobre si el es
 
 **Modos de colaboración y la disyuntiva eficiencia–regulación.** La investigación empírica sobre estudiantes universitarios que colaboran con IA en la resolución de problemas complejos identifica tres modos distintos: *razonamiento delegado*, *interpretación concertada* y *elaboración delegada*. El modo más eficiente (razonamiento delegado) produce el mayor rendimiento en la tarea pero el menor compromiso autorregulador de quienes aprenden, mientras que el modo con mayor autorregulación (interpretación concertada) rinde peor en los resultados de la tarea.([[hao-human-ai-collaborative-problem-solving-cognition]]) Esto revela una tensión de diseño central: los entornos de aprendizaje colaborativo deben equilibrar la eficiencia del sistema distribuido de personas e IA con la profundidad del compromiso [[self-regulated-learning|regulador]] de quienes aprenden.
 
-El único contraste metaanalítico disponible para el trabajo colaborativo apoyado por IA se sitúa dentro de las intervenciones de ABP/ABPr apoyadas por IA generativa, donde la colaboración entre pares se agrupó en g = 0,885 frente a g = 0,416 para el trabajo individual, pero la diferencia solo alcanzó una tendencia marginal (QM = 3,675, p = .055) y el lado del trabajo individual se apoya en dos estudios, así que la evidencia agrupada de que la colaboración supera al trabajo en solitario con IA generativa es sugerente y no concluyente ([[chen-pbl-pjbl-genai-meta-analysis-2026|Chen et al. 2026]]).
+El único contraste metaanalítico disponible para el trabajo colaborativo apoyado por IA se sitúa dentro de las intervenciones de ABP/ABPr apoyadas por IA generativa, donde la colaboración entre pares se agrupó en g = 0,885 frente a g = 0,416 para el trabajo individual, pero la diferencia solo alcanzó una tendencia marginal (QM = 3,675, p = 0,055) y el lado del trabajo individual se apoya en dos estudios, así que la evidencia agrupada de que la colaboración supera al trabajo en solitario con IA generativa es sugerente y no concluyente ([[chen-pbl-pjbl-genai-meta-analysis-2026|Chen et al. 2026]]).
 
 El mapeo a nivel de campo llega a la misma conclusión desde la dirección opuesta: un análisis BERTopic de 1.048 publicaciones sobre IA en el aprendizaje en línea de 2010 a 2023 encontró que el trabajo de orientación social sobre aprendizaje colaborativo apoyado por IA y desarrollo comunitario nunca emergió como tema dominante, lo que quienes firman el estudio atribuyen a un corpus centrado en la [[learning-analytics|analítica]] a nivel individual ([[chen-bertopic-ai-online-learning-research-topics-2026|Chen et al. (2026)]]).
 
@@ -87,7 +87,7 @@ El aprendizaje colaborativo ocupa la cima del [[icap-framework|marco ICAP]] (int
 
 - **Modelar la colaboración, no solo al individuo.** Las herramientas que siguen el estado diádico o grupal (como hace [[golrang-propact-pair-programming-2026|ProPACT]]) pueden andamiar la colaboración misma, prediciendo y previniendo rupturas en lugar de reaccionar ante ellas.
 - **Preservar el conflicto cognitivo.** Estructure la IA como compañera argumentativa que saque a la luz el desacuerdo y los supuestos implícitos, evitando el problema de los artefactos pulidos en el que la IA suaviza un compromiso epistémico frágil.
-- **Los personajes contrarios tienen costes afectivos.** En 97 tríadas, la IA contraria empujó el discurso hacia el reto y la reflexión pero redujo la satisfacción con el trabajo en equipo (ε² = .062) y la seguridad psicológica (ε² = .114) sin aumentar la producción creativa ([[jin-emergent-learner-agency-implicit-hai-2026|Jin et al. (2026)]]).
+- **Los personajes contrarios tienen costes afectivos.** En 97 tríadas, la IA contraria empujó el discurso hacia el reto y la reflexión pero redujo la satisfacción con el trabajo en equipo (ε² = 0,062) y la seguridad psicológica (ε² = 0,114) sin aumentar la producción creativa ([[jin-emergent-learner-agency-implicit-hai-2026|Jin et al. (2026)]]).
 
 - **Ajuste la función del agente al resultado que pretende.** Una revisión de 46 estudios sobre agentes de IA en el aprendizaje colaborativo apoyado por ordenador encontró ganancias cognitivas informadas de forma consistente, mientras que los resultados conductuales, sociales y emocionales se mantenían dependientes del contexto, con la alineación más fuerte entre la función del agente y el resultado dentro del mismo dominio ([[ba-ai-agents-cscl-review-2026|Ba et al. (2026)]]).
 

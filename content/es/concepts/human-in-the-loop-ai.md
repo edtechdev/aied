@@ -1,6 +1,7 @@
 ---
 title: IA con intervención humana (HITL)
 created: "2026-09-25T04:31:15-04:00"
+updated: "2026-10-22T09:13:53-04:00"
 connected_faqs: [ai-agents-support-students-instructors, designing-educational-ai-software, ai-feedback-at-scale]
 type: concept
 foundations: [ai-education]
@@ -12,7 +13,7 @@ methods: [benchmark]
 ethics: [pedagogical-safety]
 reviewed_by: [editor]
 translation_of: concepts/human-in-the-loop-ai
-source_updated: "2026-10-18T10:07:01-04:00"
+source_updated: "2026-10-22T09:11:45-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -74,7 +75,7 @@ Yu et al. (2024) desplegaron un aula multiagente (agente [[teacher-role|docente]
 
 ## PedaCo: doble control para la generación de vídeo con IA
 
-Kim, Baek y Kwak (2026) extienden la HITL al [[video-education|vídeo didáctico generado por IA]] mediante **PedaCo** (cocreación pedagógica), una cadena de proceso con dos capas de control complementarias que hacen efectiva una *resistencia fundamentada* anclada en la teoría cognitiva del aprendizaje multimedia (CTML) de Mayer. La **primera capa** sitúa a la persona en la fase de guion: un LLM redacta un guion, un revisor con IA señala posibles vulneraciones de la CTML (por ejemplo, «la escena 3 introduce términos técnicos sin explicación previa»), y el profesorado decide aceptar, revisar o regenerar. La **segunda capa** ejecuta métricas automatizadas tras la síntesis sobre coherencia, redundancia, contigüidad temporal, modalidad y calidad de la imagen, que el profesorado revisa. En un estudio intrasujeto (23 docentes), el enfoque basado en la revisión mejoró todos los principios de la CTML (valoración media de 3,07→3,86, p<.01), y el profesorado puntuó la eficiencia de producción con 4,26/5: una fricción percibida como productiva y no como gravosa. El principio de diseño se hace eco de la síntesis sobre HITL de esta base de conocimientos: las personas y los algoritmos detectan *distintos* tipos de problemas, de modo que los sistemas más eficaces automatizan allí donde la verificación computacional es precisa (la sincronización temporal) y preservan el juicio humano allí donde el matiz pedagógico es irreemplazable (el tono, la adecuación al público).
+Kim, Baek y Kwak (2026) extienden la HITL al [[video-education|vídeo didáctico generado por IA]] mediante **PedaCo** (cocreación pedagógica), una cadena de proceso con dos capas de control complementarias que hacen efectiva una *resistencia fundamentada* anclada en la teoría cognitiva del aprendizaje multimedia (CTML) de Mayer. La **primera capa** sitúa a la persona en la fase de guion: un LLM redacta un guion, un revisor con IA señala posibles vulneraciones de la CTML (por ejemplo, «la escena 3 introduce términos técnicos sin explicación previa»), y el profesorado decide aceptar, revisar o regenerar. La **segunda capa** ejecuta métricas automatizadas tras la síntesis sobre coherencia, redundancia, contigüidad temporal, modalidad y calidad de la imagen, que el profesorado revisa. En un estudio intrasujeto (23 docentes), el enfoque basado en la revisión mejoró todos los principios de la CTML (valoración media de 3,07→3,86, p<0,01), y el profesorado puntuó la eficiencia de producción con 4,26/5: una fricción percibida como productiva y no como gravosa. El principio de diseño se hace eco de la síntesis sobre HITL de esta base de conocimientos: las personas y los algoritmos detectan *distintos* tipos de problemas, de modo que los sistemas más eficaces automatizan allí donde la verificación computacional es precisa (la sincronización temporal) y preservan el juicio humano allí donde el matiz pedagógico es irreemplazable (el tono, la adecuación al público).
 
 La ubicación puede importar más que la presencia: el personal profesional valoró una herramienta de autoría de historias sociales como muy usable (SUS 86,8), pero informó de que la revisión llegaba demasiado tarde, porque las restricciones culturales y clínicas fijadas antes de la generación — un abaya en lugar de ropa urbana occidental — son más difíciles de recuperar editando la salida después ([[adapted-stories-social-story-intervention-2026|Enkhjargal et al. (2026)]]).
 

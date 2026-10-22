@@ -1,7 +1,7 @@
 ---
 title: Aprendizaje autorregulado
 created: "2026-09-25T03:07:36-04:00"
-updated: "2026-10-22T07:31:04-04:00"
+updated: "2026-10-22T09:13:53-04:00"
 type: concept
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
 technology: [generative-ai, llm, personalized-learning]
@@ -11,7 +11,7 @@ audience: [learners]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/self-regulated-learning
-source_updated: "2026-10-21T13:54:03-04:00"
+source_updated: "2026-10-22T09:11:45-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 connected_resources: [process-feedback]
 contributors: [editor]
@@ -107,7 +107,7 @@ Las herramientas de IA pueden entrar en este bucle en distintos puntos:
 
 ### La regulación estratégica de la IA generativa como AAR
 
-[[ai-anxiety-strategic-regulation-writing-2026|Kim (2026)]] reenmarca el uso eficaz de la [[generative-ai|IA generativa]] en la [[writing-education|escritura académica]] como **regulación estratégica**: una práctica de AAR puesta en acto que consiste en verificar, revisar, adoptar selectivamente o rechazar la salida de la IA. En un estudio de [[mixed-methods-research|métodos mixtos]] con 107 estudiantes, una mayor [[anxiety-and-stress|ansiedad ante la IA]] se asoció positivamente con la verificación y la revisión (β=.24), mientras que la capacidad evaluativa predijo la revisión activa y la integración selectiva (β=.46). El estudiantado se agrupó en cuatro tipos regulatorios, Dependencia acrítica (18,7%), Integración selectiva (34,6%), Transformación evaluativa (31,8%) y Rechazo estratégico (14,9%), lo que muestra que la [[ai-literacy|alfabetización en IA]] en la [[higher-ed|educación superior]] funciona menos como aceptación que como competencia regulatoria anclada en el [[evaluative-judgment|juicio evaluativo]] y en la responsabilidad [[ethics|ética]]. Esto sitúa el AAR como el mecanismo central que distingue el uso crítico del uso acrítico de la IA.
+[[ai-anxiety-strategic-regulation-writing-2026|Kim (2026)]] reenmarca el uso eficaz de la [[generative-ai|IA generativa]] en la [[writing-education|escritura académica]] como **regulación estratégica**: una práctica de AAR puesta en acto que consiste en verificar, revisar, adoptar selectivamente o rechazar la salida de la IA. En un estudio de [[mixed-methods-research|métodos mixtos]] con 107 estudiantes, una mayor [[anxiety-and-stress|ansiedad ante la IA]] se asoció positivamente con la verificación y la revisión (β=0,24), mientras que la capacidad evaluativa predijo la revisión activa y la integración selectiva (β=0,46). El estudiantado se agrupó en cuatro tipos regulatorios, Dependencia acrítica (18,7%), Integración selectiva (34,6%), Transformación evaluativa (31,8%) y Rechazo estratégico (14,9%), lo que muestra que la [[ai-literacy|alfabetización en IA]] en la [[higher-ed|educación superior]] funciona menos como aceptación que como competencia regulatoria anclada en el [[evaluative-judgment|juicio evaluativo]] y en la responsabilidad [[ethics|ética]]. Esto sitúa el AAR como el mecanismo central que distingue el uso crítico del uso acrítico de la IA.
 
 Clasifique antes de delegar: [[scan-framework-task-assignment-generative-ai-2025|Tsim y Gutoreva (2025)]] convierten la autorregulación en un protocolo por tarea —etiquetar cada subtarea como Sustituir, Complementar, Ayudar o No negociable, justificarlo en una breve nota metacognitiva y mantener un rastro de auditoría de prompts, borradores y revisiones humanas—, con el ciclo repitiéndose de modo que la asignación de una tarea informa a la siguiente.
 

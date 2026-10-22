@@ -1,7 +1,7 @@
 ---
 title: Pedagogías y estrategias de enseñanza
 created: "2026-09-25T03:54:11-04:00"
-updated: "2026-10-22T07:31:46-04:00"
+updated: "2026-10-22T09:13:53-04:00"
 connected_faqs: [designing-ai-into-learning]
 type: concept
 foundations: [ai-education, learning-design]
@@ -65,7 +65,7 @@ La [[research-methods-aied|investigación]] de la base de conocimiento examina l
 
 **La automatización y el aprendizaje se compensan directamente.** [[agentic-ai-pedagogical-best-practice-2026|Woollaston et al. (2026)]] recorren seis principios pedagógicos —activación del conocimiento previo, [[collaborative-learning]], [[problem-based-learning]], [[formative-assessment]], [[scaffolding]], [[metacognition]]— por lo que la iniciativa agéntica proactiva hace a cada uno, y sostienen que cuanto más automatiza un agente, menos trabajo cognitivo hace quien aprende, a menos que se diseñen fricción, desvanecimiento dinámico y supervisión humana.
 - **Estrategias de enseñanza para la alfabetización en IA.** Enseñar al estudiantado *a usar bien la IA* es en sí mismo una tarea pedagógica: la investigación sobre [[ai-literacy]] y [[reducing-ai-misuse]] desarrolla estrategias (pensar primero, IA después, reflexionar; declaración de uso de IA; entrenamiento en calibración) que pertenecen a este marco.
-- **La instrucción en alfabetización en IA mueve el conocimiento más rápido.** Un metaanálisis de tres niveles de 59 estudios (172 tamaños del efecto) encontró que las intervenciones centradas en el conocimiento (g ≈ .97) superaban claramente a las dirigidas a habilidades (≈ .67), actitudes (≈ .68) o [[ethics|ética]] (≈ .64), así que emparejar la enseñanza de conceptos con práctica sostenida apunta a los resultados que resisten a la instrucción ([[liu-ai-literacy-interventions-meta-analysis-2026|Liu et al. (2026)]]).
+- **La instrucción en alfabetización en IA mueve el conocimiento más rápido.** Un metaanálisis de tres niveles de 59 estudios (172 tamaños del efecto) encontró que las intervenciones centradas en el conocimiento (g ≈ 0,97) superaban claramente a las dirigidas a habilidades (≈ 0,67), actitudes (≈ 0,68) o [[ethics|ética]] (≈ 0,64), así que emparejar la enseñanza de conceptos con práctica sostenida apunta a los resultados que resisten a la instrucción ([[liu-ai-literacy-interventions-meta-analysis-2026|Liu et al. (2026)]]).
 - **La pedagogía en la práctica docente.** [[teacher-role]] y [[teacher-ai-competency]] examinan cómo adopta el profesorado la IA dentro de su repertorio pedagógico existente, y [[llm-training-and-fine-tuning]] y [[pedagogical-agent]] estudian herramientas de IA entrenadas para seguir principios pedagógicos.
 
 ## Relación con las teorías del aprendizaje

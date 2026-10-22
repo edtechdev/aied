@@ -1,7 +1,7 @@
 ---
 title: Interacción entre el estudiantado y la IA
 created: "2026-09-28T18:15:36-04:00"
-updated: "2026-10-03T02:57:43-04:00"
+updated: "2026-10-22T09:13:53-04:00"
 type: concept
 foundations: [cognitive-offloading]
 pedagogy: [student-ai-interaction]
@@ -46,7 +46,7 @@ Complementando estos estudios de taxonomía, [[yan-cognitive-outsourcing-genai-a
 
 Reenmarcando estos patrones como trabajo epistémico, un análisis de 200 sesiones de chat de coprogramación encontró que el 78,8% de las interacciones estudiantado–IAG se guiaba por fines y estrategias no de dominio, como externalizar o buscar verificación, y solo el 11,1% combinaba fines orientados al dominio con justificación epistémica ([[constructing-epistemic-ai-literacy-student-ai-co-programming|Wu (2026)]]).
 
-Codificar 50 intercambios muestreados da una tipología triple del mismo comportamiento: [[three-pathways-student-ai-interaction-2026|Zahra (2026)]] clasificó el 46% como Revisión pasiva, en la que el modelo actúa como oráculo y la salida se acepta con poco escrutinio, el 18% como Pregunta directa y el 36% como Diálogo estratégico, emparejando la distribución con un argumento de diseño que prioriza las restricciones (kappa = .48 entre codificadores). Una encuesta de siete tareas a 211 estudiantes de informática llega a la misma conclusión desde el otro lado: [[student-llm-use-cs-subfields-2026|Nizamani et al. (2026)]] midieron la adopción de LLM desde el 89,6% en algoritmos hasta el 15,2% en ingeniería de software y atribuyeron la dispersión a la complejidad de las tareas, su verificabilidad y el andamiaje, y no a la subdisciplina.
+Codificar 50 intercambios muestreados da una tipología triple del mismo comportamiento: [[three-pathways-student-ai-interaction-2026|Zahra (2026)]] clasificó el 46% como Revisión pasiva, en la que el modelo actúa como oráculo y la salida se acepta con poco escrutinio, el 18% como Pregunta directa y el 36% como Diálogo estratégico, emparejando la distribución con un argumento de diseño que prioriza las restricciones (kappa = 0,48 entre codificadores). Una encuesta de siete tareas a 211 estudiantes de informática llega a la misma conclusión desde el otro lado: [[student-llm-use-cs-subfields-2026|Nizamani et al. (2026)]] midieron la adopción de LLM desde el 89,6% en algoritmos hasta el 15,2% en ingeniería de software y atribuyeron la dispersión a la complejidad de las tareas, su verificabilidad y el andamiaje, y no a la subdisciplina.
 
 ### Calidad de la interacción y aprendizaje
 
@@ -56,7 +56,7 @@ La interacción, y no la herramienta, fija la trayectoria: en un experimento de 
 
 Que el estudiantado formulara prompts eficaces, y no cuántos, fue lo que se relacionó con el éxito: la Eficiencia de consulta a la IA y la Resolución de problemas asistida por IA fueron los predictores más fuertes del rendimiento académico en 128 estudiantes de ingeniería, y siguieron siendo significativos tras controlar por el promedio de calificaciones ([[isaza-chatgpt-engineering-prompting-2026|Isaza Dominguez et al. (2026)]]).
 
-El contexto conductual es una señal distinta de la propia pregunta: en los cuatro despliegues de TutorTrace (480 estudiantes, ~180.000 eventos del IDE), condicionar la ayuda al estado conductual reciente de quien aprende redujo los intervalos entre consultas sin trabajo independiente del 50,0% al 20,7%, y las consultas inminentes eran predecibles solo a partir de la conducta (AUROC = .726) ([[tutortrace-learner-behavioral-states-2026|Barron et al. (2026)]]).
+El contexto conductual es una señal distinta de la propia pregunta: en los cuatro despliegues de TutorTrace (480 estudiantes, ~180.000 eventos del IDE), condicionar la ayuda al estado conductual reciente de quien aprende redujo los intervalos entre consultas sin trabajo independiente del 50,0% al 20,7%, y las consultas inminentes eran predecibles solo a partir de la conducta (AUROC = 0,726) ([[tutortrace-learner-behavioral-states-2026|Barron et al. (2026)]]).
 
 La densidad no es el mecanismo: alternar al estudiantado entre voz y texto casi duplicó los turnos de diálogo por minuto (1,34 frente a 0,75) sin cambiar el dominio semanal, y los autores leen la deliberación mediana de 26 segundos del canal escrito antes de la primera pulsación como el propio acto de codificación ([[ai-tutor-modality-randomized-field-experiment-2026|Yang, Van Alstyne y Dellarocas (2026)]]).
 
@@ -78,7 +78,7 @@ La no utilización es en sí misma un patrón de interacción que la [[pedagogy|
 
 ## Disciplina e implicación cognitiva en el chat entre el estudiantado y la IA
 
-- **Implicación cognitiva asociada a la disciplina en el chat entre el estudiantado y la IA.** Chang y Li (2026) analizan los prompts del estudiantado a la IA en 116 cursos con un diseño intrapersonal y transdisciplinar, y muestran que las conversaciones entre el estudiantado y la IA reflejan una implicación cognitiva **asociada a la disciplina** y no estilos de interacción individuales fijos. En conjunto, alrededor del 62% de los prompts codificaba una demanda cognitiva de orden superior, pero los perfiles por nivel de Bloom diferían marcadamente según la disciplina: los cursos de [[stem-education|STEM]] provocaban prompts predominantemente de Aplicar (20,8%), los de idiomas de Comprender (31,7%) y los de ciencias sociales de Crear (33,8%). Las comparaciones intrapersonales emparejadas confirmaron que los mismos estudiantes producían significativamente más prompts de orden superior en ciencias sociales que en cursos de STEM (n agrupada = 16, p < .001), y la variación a nivel de curso superó la variación a nivel de estudiante: un argumento sólido de que los asistentes docentes de IA deberían diseñarse y evaluarse teniendo en cuenta el contexto disciplinar.
+- **Implicación cognitiva asociada a la disciplina en el chat entre el estudiantado y la IA.** Chang y Li (2026) analizan los prompts del estudiantado a la IA en 116 cursos con un diseño intrapersonal y transdisciplinar, y muestran que las conversaciones entre el estudiantado y la IA reflejan una implicación cognitiva **asociada a la disciplina** y no estilos de interacción individuales fijos. En conjunto, alrededor del 62% de los prompts codificaba una demanda cognitiva de orden superior, pero los perfiles por nivel de Bloom diferían marcadamente según la disciplina: los cursos de [[stem-education|STEM]] provocaban prompts predominantemente de Aplicar (20,8%), los de idiomas de Comprender (31,7%) y los de ciencias sociales de Crear (33,8%). Las comparaciones intrapersonales emparejadas confirmaron que los mismos estudiantes producían significativamente más prompts de orden superior en ciencias sociales que en cursos de STEM (n agrupada = 16, p < 0,001), y la variación a nivel de curso superó la variación a nivel de estudiante: un argumento sólido de que los asistentes docentes de IA deberían diseñarse y evaluarse teniendo en cuenta el contexto disciplinar.
 
 ## Conceptos conectados
 - [[learners]] — Estudiantado: el paraguas de los conceptos del lado de quien aprende

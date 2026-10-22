@@ -1,7 +1,7 @@
 ---
 title: Modelos de adopción tecnológica
 created: "2026-09-28T20:10:39-04:00"
-updated: "2026-10-22T07:42:11-04:00"
+updated: "2026-10-22T09:13:53-04:00"
 type: concept
 foundations: [ai-literacy]
 technology: [generative-ai, technology-acceptance-model]
@@ -10,7 +10,7 @@ level: [higher ed]
 confidence: high
 methods: [research-methods-aied]
 translation_of: concepts/technology-acceptance-model
-source_updated: "2026-10-21T21:15:00-04:00"
+source_updated: "2026-10-22T09:11:45-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:

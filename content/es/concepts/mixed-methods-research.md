@@ -1,13 +1,13 @@
 ---
 title: Investigación con métodos mixtos
 created: "2026-09-28T18:15:49-04:00"
-updated: "2026-10-22T07:34:46-04:00"
+updated: "2026-10-22T09:13:53-04:00"
 type: concept
 research_method: [survey]
 confidence: high
 methods: [mixed-methods-research, qualitative-research, quantitative-research, research-methods-aied]
 translation_of: concepts/mixed-methods-research
-source_updated: "2026-10-16T07:28:51-04:00"
+source_updated: "2026-10-22T09:11:45-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:

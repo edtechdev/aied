@@ -1,7 +1,7 @@
 ---
 title: Aprendizaje basado en juegos
 created: "2026-09-28T18:19:10-04:00"
-updated: "2026-10-02T22:23:30-04:00"
+updated: "2026-10-22T09:13:53-04:00"
 type: concept
 pedagogy: [active-learning, game-based-learning, motivation, student-engagement]
 technology: [educational-robotics]
@@ -46,7 +46,7 @@ El GBL se fundamenta en las teorías de la [[motivation]], la [[student-engageme
 
 La gamificación se fundamenta en la teoría motivacional, en particular en la [[self-determination-theory]] (que apoya la autonomía, la competencia y la relación) y en los marcos de cambio de comportamiento. Ha mostrado una sinergia particular con el [[project-based-learning]] en dominios aplicados como la robótica. En la investigación de la base de conocimiento:
 
-- **Educación en robótica:** la revisión comparativa encontró que la gamificación dominaba las aulas formales en la educación en robótica (p < .001) y favorecía con claridad el [[project-based-learning|aprendizaje basado en proyectos]] (p = .009), mientras que el aprendizaje basado en juegos era más común en entornos informales.
+- **Educación en robótica:** la revisión comparativa encontró que la gamificación dominaba las aulas formales en la educación en robótica (p < 0,001) y favorecía con claridad el [[project-based-learning|aprendizaje basado en proyectos]] (p = 0,009), mientras que el aprendizaje basado en juegos era más común en entornos informales.
 - **Implicación y motivación:** la gamificación se usa en toda la base de conocimiento para aumentar la implicación y la motivación del estudiantado en contextos de aprendizaje de IA, [[cs-education|programación]] y [[stem-education|STEM]]. La investigación sobre [[genai-motivation-engagement-2026|IA generativa, motivación e implicación]] examina cómo los elementos lúdicos se combinan con la IA para sostener el interés de quien aprende. Dos estudios de 2026 amplían esto comparando condiciones gamificadas y apoyadas por IA frente a la instrucción tradicional: [[nasa-tlx-workload-gamified-ai-2026|un estudio con NASA-TLX]] midió la carga de trabajo percibida en condiciones de aprendizaje tradicionales, gamificadas y apoyadas por IA, y [[arcs-motivational-ergonomics-gamified-ai-2026|un estudio ARCS]] examinó la «ergonomía» motivacional en el aprendizaje gamificado y apoyado por IA, con implicaciones para la [[professional-training|formación en el puesto de trabajo]]. En conjunto, aclaran que el beneficio motivacional de los diseños lúdicos y apoyados por IA depende de cómo dan forma al [[motivation|esfuerzo percibido]], a la carga de trabajo y a la atención (por ejemplo, las dimensiones de atención y relevancia del modelo ARCS), y no de la gamificación por sí sola.
 
 El GBL y la gamificación se conectan en conjunto con la [[educational-robotics]], la [[student-engagement]], la [[motivation]], la [[self-determination-theory]], el [[active-learning]], la [[simulation]], el [[project-based-learning]] y el [[computational-thinking]].

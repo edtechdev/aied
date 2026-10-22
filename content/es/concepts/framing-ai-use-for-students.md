@@ -1,7 +1,7 @@
 ---
 title: Enmarcar el uso de la IA para el estudiantado
 created: "2026-09-28T20:16:26-04:00"
-updated: "2026-10-22T07:45:27-04:00"
+updated: "2026-10-22T09:13:53-04:00"
 type: concept
 foundations: [academic-integrity, ai-literacy]
 pedagogy: [collaborative-learning, motivation]
@@ -11,7 +11,7 @@ level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai, governance]
 translation_of: concepts/framing-ai-use-for-students
-source_updated: "2026-10-07T15:40:00-04:00"
+source_updated: "2026-10-22T09:11:45-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -32,7 +32,7 @@ ai_assist:
 ## Preguntas para reflexionar
 
 - El simple hecho de poner la IA a disposición del estudiantado se asoció con un uso ineficaz o incluso poco ético, mientras que enmarcar e integrar explícitamente su uso apropiado mejoró los resultados. Si la presencia de la herramienta importa menos que cómo se la enmarca, ¿qué sugiere eso sobre el énfasis en simplemente «dar IA al estudiantado»?
-- El conocimiento que tiene el estudiantado de las normas [[governance|institucionales]] sobre IA muestra solo vínculos débiles con lo que hace en realidad: la mayoría usa IA generativa, muchos no están seguros de si su uso cumple las normas y se apoyan en herramientas de acceso privado. ¿Por qué las reglas no cambian la conducta, y qué podría persuadir en lugar de solo informar?
+- La mayoría del estudiantado usa IA generativa, muchos no están seguros de si su uso cumple las normas y se apoyan en herramientas de acceso privado en lugar de las que ofrecen las instituciones. Si conocer las reglas apenas cambia lo que hace el alumnado, ¿qué podría persuadir en lugar de solo informar?
 - Cuando las instituciones responden a la IA con miedo y condena, el estudiantado puede ocultar o racionalizar su uso en lugar de aprender a usarla bien. ¿Ha visto que una respuesta de «pánico moral» empuje al estudiantado hacia el secretismo? ¿Cómo sería un enfoque reencuadrado y centrado en las oportunidades?
 - La ansiedad ante la IA no es solo una barrera: el estudiantado que se preocupaba por la exactitud y el plagio era *más* propenso a verificar y revisar la salida de la IA en lugar de aceptarla sin sentido crítico. ¿Cómo podría canalizarse la ansiedad productiva hacia una competencia evaluativa en lugar de suprimirla?
 - El estudiantado construye su propia idea de lo aceptable a través de «sitios» —las intenciones del profesorado, los documentos del curso, las normas de los pares y los mensajes institucionales— que a menudo divergen. Cuando esos mensajes entran en conflicto, ¿cuál cree que gana en la práctica, y cómo cierra el encuadre esa brecha?
@@ -43,7 +43,7 @@ El concepto se sitúa entre otros dos más familiares. Donde el [[technology-acc
 
 ## Por qué importa el encuadre
 
-El encuadre importa porque **las políticas y las reglas no cambian la conducta por sí solas de forma fiable**. La [[research-methods-aied|investigación]] con encuestas sobre la conciencia [[regulation|regulatoria]] encuentra que el conocimiento que tiene el estudiantado de las normas institucionales sobre IA generativa muestra solo asociaciones débiles o moderadas con lo que hace en realidad: la mayoría del estudiantado usa herramientas de [[generative-ai|IA generativa]], más de la mitad no está seguro de si su uso cumple las regulaciones institucionales, y se apoya en herramientas de acceso privado en lugar de las que proporciona la institución.([[student-regulatory-awareness-genai]]) Conocer las reglas es necesario pero no suficiente; el mensaje tiene que *persuadir*, no solo informar.
+El encuadre importa porque **las políticas y las reglas no cambian la conducta por sí solas de forma fiable**. La [[research-methods-aied|investigación]] con encuestas sobre la conciencia [[regulation|regulatoria]] encuentra que el conocimiento que tiene el estudiantado de las normas institucionales sobre IA generativa muestra solo asociaciones débiles o moderadas con lo que hace en realidad ([[student-regulatory-awareness-genai]]) Conocer las reglas es necesario pero no suficiente; el mensaje tiene que *persuadir*, no solo informar.
 
 El encuadre diferenciado puede originarse dentro de una misma política y no solo entre sitios: un análisis de sentimiento de 36 políticas universitarias encontró que las declaraciones sobre docencia estaban enmarcadas de forma positiva mientras que las declaraciones sobre IA generativa y ética lo estaban de forma negativa, de modo que el estudiantado encontraba en un mismo documento tanto un estímulo como una contención ([[sun-governing-genai-policy-cross-national-2026|Sun et al. (2026)]]).
 

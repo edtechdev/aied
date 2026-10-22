@@ -1,7 +1,7 @@
 ---
 title: Motivación
 created: "2026-09-28T18:17:50-04:00"
-updated: "2026-10-22T07:28:33-04:00"
+updated: "2026-10-22T09:13:53-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [motivation, self-determination-theory, student-engagement]
@@ -49,7 +49,7 @@ La motivación es un constructo fundacional en la investigación educativa, y el
 
 Un metaanálisis de 42 estudios (56 tamaños de efecto, 6.059 estudiantes) encontró que el aprendizaje apoyado en IA generativa elevó la motivación en g = 0,764 de Hedges (IC del 95% [0,566, 0,962]), pero con I² = 93,7% y un intervalo de predicción del 95% de [−0,689, 2,217], el promedio oculta contextos en los que el efecto es casi nulo o negativo ([[genai-learning-motivation-meta-analysis-2026|Fang et al. (2026)]]).
 - **El uso irreflexivo erosiona la motivación, y más en los hombres.** El uso irreflexivo de la IAG (aceptar respuestas sin examinarlas) predijo una menor motivación (β = −0,54) y una menor [[self-efficacy|autoeficacia]] (β = −0,37) entre 487 estudiantes universitarios, y el efecto sobre la motivación fue significativamente más fuerte en los estudiantes hombres mientras que el efecto sobre la autoeficacia lo fue en las mujeres ([[genai-thoughtless-use-self-directed-learning-2026|Zhao y Gu, 2026]]).
-- **Reducir la frustración no es lo mismo que sostener la motivación.** Un [[rct|ECA]] de tres brazos encontró que un tutor andamiado y ChatGPT sin restricciones redujeron la frustración por igual (3,21 y 3,13 frente a 4,09), pero solo el tutor andamiado elevó la motivación intrínseca (2,82 frente a 2,42, p < .001); ChatGPT no lo hizo (2,64, p = .076) ([[bassner-performance-learning-dissociation-ai-programming-2026|Bassner et al. (2026)]]).
+- **Reducir la frustración no es lo mismo que sostener la motivación.** Un [[rct|ECA]] de tres brazos encontró que un tutor andamiado y ChatGPT sin restricciones redujeron la frustración por igual (3,21 y 3,13 frente a 4,09), pero solo el tutor andamiado elevó la motivación intrínseca (2,82 frente a 2,42, p < 0,001); ChatGPT no lo hizo (2,64, p = 0,076) ([[bassner-performance-learning-dissociation-ai-programming-2026|Bassner et al. (2026)]]).
 
 Por qué un lector recurre a la IA es en sí mismo una variable medible: la escala AIR resuelve cuatro motivos para la lectura asistida por IAG —orientado a tareas, sentirse bien, traducción y bajo esfuerzo—, y solo el de bajo esfuerzo, usar la IA cuando se está cansado o desconectado, se relacionó negativamente con la necesidad de cognición (r = −.18) ([[air-scale-motivations-ai-reading-2026|Brann, Etgar y Sidi (2026)]]).
 
@@ -59,7 +59,7 @@ La orientación a metas también encauza cómo se usa la herramienta: las metas 
 
 La [[educational-policy-ai|política]] institucional de IA generativa es en sí misma un estresor que el [[learners|estudiantado]] evalúa: [[gai-advocacy-practice-art-education-2026|Chen (2026)]] encontró que la brecha entre la defensa institucional de la IAG y su práctica en el aula elevaba tanto las valoraciones de desafío como las de obstáculo entre estudiantado chino de arte y diseño, con efectos indirectos opuestos sobre la implicación en el proceso [[creativity|creativo]], mientras que el pensamiento de vías solo amplificaba la ruta del desafío.
 
-Un formato de diálogo puede elevar la motivación sin mejorar la evaluación global: en 222 estudiantes de primer año de secundaria, el diálogo docente–docente elevó la motivación ARCS más que el formato docente–estudiante en quienes tenían alta experiencia concreta (b = 0,162, p < .001), pero obtuvo una puntuación significativamente menor en la evaluación global (b = -0,126, p = .005) ([[tts-dialogue-lessons-learner-characteristics-2026|Watanabe et al. (2026)]]).
+Un formato de diálogo puede elevar la motivación sin mejorar la evaluación global: en 222 estudiantes de primer año de secundaria, el diálogo docente–docente elevó la motivación ARCS más que el formato docente–estudiante en quienes tenían alta experiencia concreta (b = 0,162, p < 0,001), pero obtuvo una puntuación significativamente menor en la evaluación global (b = -0,126, p = 0,005) ([[tts-dialogue-lessons-learner-characteristics-2026|Watanabe et al. (2026)]]).
 
 La motivación configura cómo enmarcan el estudiantado la herramienta, y el encuadre conlleva la ganancia metacognitiva: [[cui-motivation-roles-metacognitive-genai-2026|Cui et al. (2026)]] encontraron que el rol de colaborador —el 7,5% de los registros— era el único que producía una cadena metacognitiva completa, mientras que el estudiantado con motivación extrínseca usó la IAG como herramienta de reemplazo en el 64,6% de los registros y no produjo conexiones de orden superior.
 
