@@ -9,7 +9,9 @@ ethics: [culturally-relevant-pedagogy, equity-in-ai-education, global-south]
 level: [higher ed, k 12]
 confidence: high
 reviewed_by: [editor]
----> **Global South** — countries in Africa, Asia, Latin America and Oceania that are often economically, politically and historically marginalized relative to the Global North. In [[ai-education|AI in education]] [[research-methods-aied|research]], these contexts are increasingly recognized as underrepresented in the evidence base, yet they raise distinctive questions about [[equity-in-ai-education|equity]], [[culturally-relevant-pedagogy|cultural relevance]], resource constraints, and the epistemic dominance of Western, Anglophone training data.
+---
+
+> **Global South** — countries in Africa, Asia, Latin America and Oceania that are often economically, politically and historically marginalized relative to the Global North. In [[ai-education|AI in education]] [[research-methods-aied|research]], these contexts are increasingly recognized as underrepresented in the evidence base, yet they raise distinctive questions about [[equity-in-ai-education|equity]], [[culturally-relevant-pedagogy|cultural relevance]], resource constraints, and the epistemic dominance of Western, Anglophone training data.
 
 ## Questions to Consider
 
