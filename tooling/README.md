@@ -254,7 +254,7 @@ python3 tooling/scripts/generate-llms-files.py
 # The interpreter matters here - the PDF stage runs under pandoc -> the weasyprint
 # console script (its own shebang), while the metadata step imports pikepdf
 # in-process. /usr/bin/python3 has both. See AGENTS.md.
-PATH="/home/doug/.local/bin:/usr/bin:$PATH" /usr/bin/python3 tooling/build-epub.py
+PATH="$HOME/.local/bin:/usr/bin:$PATH" /usr/bin/python3 tooling/build-epub.py
 
 # Deploy (GitHub Actions deploys dist/ on push). Push only with explicit approval; CI
 # rebuilds the whole site on every push.
@@ -294,7 +294,7 @@ Regenerate both with one command:
 # The interpreter matters: the PDF stage runs under pandoc -> the weasyprint
 # console script (its own shebang), while the metadata step imports pikepdf
 # in-process. /usr/bin/python3 has both. See AGENTS.md.
-PATH="/home/doug/.local/bin:/usr/bin:$PATH" /usr/bin/python3 tooling/build-epub.py
+PATH="$HOME/.local/bin:/usr/bin:$PATH" /usr/bin/python3 tooling/build-epub.py
 ```
 
 This writes `public/aied.epub` and `public/aied.pdf`. **The site does not serve these files** — it links the GitHub raw URL (`offlineBaseUrl` in `site.config.json`) and `astro.config.mjs` strips them from `dist/`, because ~161 MB of already-compressed bytes pushed the Pages artifact past its 1 GB limit. They remain committed under `public/` so the raw links resolve.
