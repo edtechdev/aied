@@ -2,7 +2,7 @@
 connected_resources: [mglearn]
 title: Multilingual Learning
 created: "2026-08-19T09:55:00-04:00"
-updated: "2026-09-30T09:59:35-04:00"
+updated: "2026-10-23T09:49:58-04:00"
 type: concept
 technology: [llm]
 ethics: [culturally-relevant-pedagogy, digital-divide, equity-in-ai-education, global-south, inclusive-learning, multilingual-learning]
@@ -39,6 +39,8 @@ Multilingual learning is a core equity dimension of [[ai-education|AI in educati
 
 Multilingual AI must go beyond translation to reflect [[culturally-relevant-pedagogy|culturally relevant pedagogy]] — generating content that is linguistically and contextually appropriate. Studies of [[llm-cultural-relevance-k12|LLM cultural relevance in K-12]] and [[scaffolding-critical-engagement-genai-minority-students|critical engagement with GenAI among minority students]] show that linguistic and cultural alignment shapes whether students actually benefit. Unaddressed, monolingual bias in AI deepens the [[digital-divide]] and undermines [[equity-in-ai-education|Equity]] across the [[global-south|Global South]].
 
+Translanguaging is an affordance generative chatbots add that earlier language tools lacked. In a systematic review of 24 studies, learners asked for contextualized phrases and explanations in their own language as a bridge into the target language — a use the reviewers classify as a new sub-affordance rather than a repackaged one ([[genai-chatbots-language-learning-affordances-review-2026|Lopez & Arabadzhy (2026)]]).
+
 ## Assessment bias
 
 Multilingual concerns also affect [[automated-assessment|automated assessment]]: [[ai-scoring-language-bias-physics|AI scoring can exhibit language bias]] (e.g., in [[physics-education|physics]]), penalizing non-native speakers. Ensuring assessment tools are fair across languages is part of [[assessment-validity]].
@@ -67,6 +69,7 @@ LLM-based comparative judgment is a case where bias tracked the human baseline r
 
 ## Connected Articles
 
+- [[genai-chatbots-language-learning-affordances-review-2026]] — GenAI chatbots afford translanguaging, a use earlier language tools did not support
 - [[llm-comparative-judgment-writing-screening-2026]] — Validity of Large Language Model Comparative Judgment for Universal Writing Screening
 - [[multilingual-adaptive-learning-nigeria-2026]] — AI-Based Adaptive Learning Platform for Nigeria
 - [[bilingual-llm-lecture-companion-srl-2026]] — Bilingual LLM Lecture Companion

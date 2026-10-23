@@ -1,7 +1,7 @@
 ---
 title: Theories and Frameworks
 created: "2026-09-19T05:40:00-04:00"
-updated: "2026-10-22T09:11:45-04:00"
+updated: "2026-10-23T09:49:58-04:00"
 type: concept
 foundations: [ai-education, theory-development-aied, philosophy-of-ai-in-education]
 pedagogy: [learning-theories]
@@ -40,6 +40,7 @@ These explain mechanisms: they name the parts that do the work and predict what 
 - **[[self-determination-theory|Self-determination theory]]** — autonomy, competence, and relatedness as motivational preconditions. Often the explanation offered when AI use raises engagement without raising learning.
 - **[[cognitive-psychology|Cognitivism]]** — information processing, working memory, and the divergence between the feeling of learning and actual learning.
 - **Social perception theory (warmth and competence)** — imported from social cognition and service-robot research, it frames how users judge an AI agent's credibility: perceived competence predicted ChatGPT's feedback credibility directly while warmth worked only through human-like empathy (SEM, 230 students; [[chatgpt-feedback-credibility-perceived-learning|Pérez-López et al. (2026)]]).
+- **A fourth affordance category was proposed, not tested.** Coding 24 studies against a three-part affordance scheme, the reviewers found engagement, safety and self-efficacy did not fit the technological, pedagogical or social categories, and proposed emotional affordances grounded in Bandura's reciprocal determinism ([[genai-chatbots-language-learning-affordances-review-2026|Lopez & Arabadzhy (2026)]]).
 
 ## Models of the learner and of the learning process
 
@@ -122,6 +123,8 @@ Mechanism-to-theory alignment can nonetheless be decisive: a thematic synthesis 
 - [[research-methods-aied]] — how theory gets tested
 
 ## Connected Articles
+
+- [[genai-chatbots-language-learning-affordances-review-2026]] — Emotional affordances proposed as a fourth category in an affordance taxonomy
 - [[ai-game-based-learning-systematic-review-2026]] — Mechanism-to-theory alignment, not algorithmic sophistication, drove effectiveness in 55 AI game-based learning studies
 
 - [[rismanchian-ai-education-four-decades-aixed-2026]] — four decades of AIED through the AI×Ed framework
