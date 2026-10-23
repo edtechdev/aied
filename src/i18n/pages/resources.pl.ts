@@ -20,9 +20,9 @@ const pl: ResourcesStrings = {
   title: 'Zasoby',
   h1: 'Bezpłatne narzędzia i zasoby',
   introHtml: [
-    'Starannie wybrany zestaw <strong>bezpłatnych narzędzi, zbiorów, instrumentów i formatów</strong> do AI w edukacji — rzeczy, z których możesz korzystać od razu, a nie badań, które musisz najpierw przeczytać. Tworzą je głównie nauczyciele, projektanci dydaktyczni, bibliotekarze i badacze, a wiele z nich powstało z pomocą AI w rękach osób, które nie są profesjonalnymi programistami.',
-    'Nie wszystko tu jest interaktywne. Obok narzędzi przeglądarkowych i tutorów AI znajdziesz biblioteki gotowych poleceń i „gemów”, zbiory zajęć klasowych, dokumenty informacyjne i polityczne, instrumenty oceny oraz otwarte formaty plików. Każda pozycja to krótkie streszczenie linkujące do strony, która podaje, kto ją stworzył, czym jest, czy kod źródłowy jest dostępny, ile kosztuje korzystanie i kiedy jej link sprawdzono ostatnio.',
-    'Każda pozycja linkuje do zewnętrznej witryny, której ta baza wiedzy nie kontroluje, a linki są okresowo sprawdzane — każda strona pokazuje datę, w której jej link potwierdzono ostatnio. Jeśli narzędzie się przesunęło, zamknęło lub zasługuje na bycie tutaj, a go tu brakuje, najszybszą drogą jest zgłoszenie problemu w repozytorium.',
+    'Starannie wybrany zestaw bezpłatnych narzędzi, zbiorów, instrumentów i formatów do AI w edukacji: rzeczy, z których możesz korzystać od razu, a nie badań, które musisz najpierw przeczytać. Większość z nich tworzą nauczyciele, projektanci dydaktyczni, bibliotekarze i badacze, a wiele z nich powstało z pomocą AI w rękach osób, które nie są profesjonalnymi programistami.',
+    'Nie wszystko tu jest interaktywne. Obok narzędzi przeglądarkowych i tutorów AI są biblioteki gotowych poleceń, zbiory zajęć klasowych, dokumenty informacyjne i polityczne, instrumenty oceny oraz otwarte formaty plików. Każda pozycja linkuje do strony o narzędziu, która podaje, kto je stworzył, czym ono jest, czy kod źródłowy jest otwarty, ile kosztuje korzystanie i kiedy jej link sprawdzono ostatnio.',
+    'Każda pozycja linkuje do zewnętrznej witryny, której ta baza wiedzy nie kontroluje, a linki są okresowo sprawdzane; każda strona pokazuje datę, w której jej link potwierdzono ostatnio. Jeśli narzędzie się przesunęło, zamknęło lub go tu brakuje, a powinno tu być, <a href="https://github.com/edtechdev/aied/issues" target="_blank" rel="noopener">zgłoś problem</a> w repozytorium.',
   ],
   empty: 'Brak jeszcze zasobów.',
   groupLabels: {

@@ -20,9 +20,9 @@ const cs: ResourcesStrings = {
   title: 'Zdroje',
   h1: 'Bezplatné nástroje a zdroje',
   introHtml: [
-    'Pečlivě vybraná sada <strong>bezplatných nástrojů, sbírek, instrumentů a formátů</strong> pro AI ve vzdělávání — věcí, které můžete hned použít, místo výzkumu, který musíte nejprve číst. Většinou je vytvářejí pedagogové, návrháři výuky, knihovníci a badatelé a mnohé vznikly za pomoci AI z rukou lidí, kteří nejsou profesionálními vývojáři.',
-    'Ne všechno tu je interaktivní. Vedle nástrojů prohlížečů a AI tutorů najdete knihovny hotových výzev a „gemů", sbírky učebních aktivit, dokumenty pro informování a politiku, nástroje hodnocení a otevřené formáty souborů. Každá položka je krátké shrnutí, které odkazuje na stránku uvádějící, kdo ji vytvořil, o jaký typ věci jde, zda je dostupný zdrojový kód, kolik její používání stojí a kdy byl její odkaz naposledy zkontrolován.',
-    'Každá položka odkazuje na externí web, který tato znalostní báze neovládá, a odkazy jsou pravidelně překontrolovány — každá stránka zobrazuje datum, kdy byl její odkaz naposledy potvrzen. Pokud se nástroj přestěhoval, zmizel nebo by tu zaslouženě měl být a chybí, nejrychlejší cesta je otevřít issue v repozitáři.',
+    'Pečlivě vybraná sada bezplatných nástrojů, sbírek, instrumentů a formátů pro AI ve vzdělávání: věci, které můžete hned použít, místo výzkumu, který musíte nejprve číst. Většinou je vytvářejí pedagogové, návrháři výuky, knihovníci a badatelé a mnohé vznikly za pomoci AI z rukou lidí, kteří nejsou profesionálními vývojáři.',
+    'Ne všechno tu je interaktivní. Vedle nástrojů prohlížečů a AI tutorů jsou tu knihovny hotových výzev, sbírky učebních aktivit, dokumenty pro informování a politiku, nástroje hodnocení a otevřené formáty souborů. Každá položka odkazuje na stránku o nástroji: kdo ho vytvořil, o jaký typ věci jde, zda je zdrojový kód otevřený, kolik jeho používání stojí a kdy byl jeho odkaz naposledy zkontrolován.',
+    'Každá položka odkazuje na externí web, který tato znalostní báze neovládá, a odkazy jsou pravidelně kontrolovány; každá stránka zobrazuje datum, kdy byl její odkaz naposledy potvrzen. Pokud se nástroj přestěhoval, zanikl nebo tu chybí, ačkoli by tu měl být, <a href="https://github.com/edtechdev/aied/issues" target="_blank" rel="noopener">otevřete issue</a> v repozitáři.',
   ],
   empty: 'Zatím žádné zdroje.',
   groupLabels: {

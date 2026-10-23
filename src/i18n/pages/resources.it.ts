@@ -10,9 +10,9 @@ const it: ResourcesStrings = {
   title: 'Risorse',
   h1: 'Strumenti e risorse gratuiti',
   introHtml: [
-    'Una selezione curata di <strong>strumenti, raccolte, strumenti di misura e formati gratuiti</strong> per l’IA nell’educazione — cose da usare subito invece di ricerca da leggere prima. Sono realizzati per lo più da educatori, progettisti didattici, bibliotecari e ricercatori, e molti sono stati costruiti con l’assistenza dell’IA da persone che non sono sviluppatori professionisti.',
-    'Non tutto qui è interattivo. Accanto a strumenti per browser e tutor IA troverai librerie di prompt già pronti e "gem", raccolte di attività in classe, documenti di briefing e di politica, strumenti di valutazione e formati di file aperti. Ogni voce è una breve sintesi che linka a una pagina che dice chi l’ha realizzata, che tipo di cosa è, se il codice sorgente è disponibile, quanto costa usarla e quando il suo link è stato verificato l’ultima volta.',
-    'Ogni voce linka a un sito esterno che questa base di conoscenze non controlla, e i link sono riverificati periodicamente — ogni pagina mostra la data dell’ultima conferma del link. Se uno strumento si è trasferito, è diventato inaccessibile, o merita di essere qui e manca, la via più rapida è aprire una issue sul repository.',
+    'Una selezione curata di strumenti, raccolte, strumenti di misura e formati gratuiti per l’IA nell’educazione: cose da usare subito invece di ricerca da leggere prima. Sono realizzati per lo più da educatori, progettisti didattici, bibliotecari e ricercatori, e molti sono stati costruiti con l’aiuto dell’IA da persone che non sono sviluppatori professionisti.',
+    'Non tutto qui è interattivo. Accanto a strumenti per browser e tutor IA troverai librerie di prompt già pronti, raccolte di attività in classe, documenti di briefing e di politica, strumenti di valutazione e formati di file aperti. Ogni voce linka a una pagina sullo strumento: chi l’ha realizzato, che tipo di cosa è, se il codice sorgente è aperto, quanto costa e quando il suo link è stato verificato l’ultima volta.',
+    'Ogni voce linka a un sito esterno che questa base di conoscenze non controlla, e i link sono verificati periodicamente; ogni pagina mostra la data dell’ultima conferma del link. Se uno strumento si è trasferito, ha chiuso, o manca e dovrebbe essere qui, <a href="https://github.com/edtechdev/aied/issues" target="_blank" rel="noopener">apri una issue</a> sul repository.',
   ],
   empty: 'Ancora nessuna risorsa.',
   groupLabels: {

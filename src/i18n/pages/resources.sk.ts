@@ -20,9 +20,9 @@ const sk: ResourcesStrings = {
   title: 'Zdroje',
   h1: 'Bezplatné nástroje a zdroje',
   introHtml: [
-    'Kurátorský výber <strong>bezplatných nástrojov, kolekcií, nástrojov a formátov</strong> pre AI v edukácii — veci, ktoré môžete ísť a hneď použiť, a nie výskum, ktorý by ste si najprv museli prečítať. Vytvárajú ich väčšinou pedagógovia, dizajnéri výučby, knihovníci a výskumníci a mnohé vznikli s pomocou AI od ľudí, ktorí nie sú profesionálni vývojári.',
-    'Nie všetko tu je interaktívne. Popri prehliadačových nástrojoch a AI tutoroch nájdete knižnice hotových výziev a „gemov“, kolekcie triednych aktivít, informačné a politické dokumenty, hodnotiace nástroje a otvorené súborové formáty. Každá položka je krátke zhrnutie, ktoré odkazuje na stránku hovoriacu o tom, kto ju vytvoril, aký druh veci to je, či je k dispozícii zdrojový kód, koľko stojí používanie a kedy bol jej odkaz naposledy skontrolovaný.',
-    'Každá položka odkazuje na externú stránku, ktorú táto vedecká databáza nekontroluje, a odkazy sa pravidelne kontrolujú — každá stránka zobrazuje dátum, kedy bol jej odkaz naposledy potvrdený. Ak sa nástroj presťahoval, stratil dostupnosť, alebo by sem patril a chýba, najrýchlejšia cesta je otvoriť hlásenie v repozitári.',
+    'Kurátorský výber bezplatných nástrojov, kolekcií, nástrojov a formátov pre AI v edukácii: veci, ktoré môžete hneď použiť, a nie výskum, ktorý by ste si najprv museli prečítať. Vytvárajú ich väčšinou pedagógovia, dizajnéri výučby, knihovníci a výskumníci a mnohé vznikli s pomocou AI od ľudí, ktorí nie sú profesionálni vývojári.',
+    'Nie všetko tu je interaktívne. Popri prehliadačových nástrojoch a AI tutoroch nájdete knižnice hotových výziev, kolekcie triednych aktivít, informačné a politické dokumenty, hodnotiace nástroje a otvorené súborové formáty. Každá položka odkazuje na stránku o nástroji: kto ho vytvoril, aký druh veci to je, či je zdrojový kód otvorený, koľko stojí a kedy bol jej odkaz naposledy skontrolovaný.',
+    'Každá položka odkazuje na externú stránku, ktorú táto vedecká databáza nekontroluje, a odkazy sa pravidelne kontrolujú; každá stránka zobrazuje dátum, kedy bol jej odkaz naposledy potvrdený. Ak sa nástroj presťahoval, stratil dostupnosť, alebo by sem patril a chýba, <a href=\"https://github.com/edtechdev/aied/issues\" target=\"_blank\" rel=\"noopener\">otvorte hlásenie</a> v repozitári.',
   ],
   empty: 'Zatiaľ žiadne zdroje.',
   groupLabels: {
