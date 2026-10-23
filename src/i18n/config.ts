@@ -145,6 +145,46 @@ export function localizeHtml(html: string, locale: Locale): string {
   return html.replace(/href="([^"]+)"/g, (_m, href: string) => `href="${localizeHref(href, locale)}"`);
 }
 
+/**
+ * Rewrite the site's own absolute URLs inside PLAIN TEXT, for prose that a reader
+ * copies out of the page rather than clicks: the prompt on /ai is pasted into
+ * another chat, so it has to carry absolute URLs, and it sits inside a <pre> where
+ * `localizeHtml`'s href rewrite never reaches.
+ *
+ * `https://edtechdev.github.io/aied/faq/` becomes the locale's own page when that
+ * route is translated there, and is left alone otherwise, so no prompt points at a
+ * route that does not exist. URLs whose last segment carries a file extension are
+ * skipped: those are the offline artifacts, and `localizeArtifactLinks` owns them
+ * (their files carry a locale INFIX at the site root, `llms.es.txt`, not a folder,
+ * so rewriting them as a route here would produce a 404).
+ */
+export function localizeTextUrls(text: string, locale: Locale): string {
+  if (locale === DEFAULT_LOCALE || !text) return text;
+  const origin = siteConfig.url.replace(new RegExp(`${siteConfig.basePath}$`), '');
+  const prefix = `${origin}${siteConfig.basePath}`;
+  const escaped = prefix.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+  const urlRe = new RegExp(`${escaped}(/[^\\s"'<>()\\[\\]]*)?`, 'g');
+  // The prompt is pasted into another tool, so the rewritten URL stays absolute:
+  // `origin` + the locale's site-relative path.
+  // Sentence punctuation can sit directly against the URL in some languages
+  // ("…/faq/。"), so it is peeled off before the route is resolved and put back.
+  const PUNCT = '.,;:!?。،；：！？';
+  return text.replace(urlRe, (match, path: string | undefined) => {
+    if (!path) return `${origin}${localeHref('/', locale)}`;
+    let core = path;
+    let tail = '';
+    while (core.length > 0 && PUNCT.includes(core[core.length - 1])) {
+      tail = core[core.length - 1] + tail;
+      core = core.slice(0, -1);
+    }
+    const clean = core.replace(/\/+$/, '');
+    const last = clean.slice(clean.lastIndexOf('/') + 1);
+    if (/\.[a-z0-9]+$/i.test(last)) return match;
+    if (clean && !hasTranslation(clean, locale)) return match;
+    return `${origin}${localeHref(clean || '/', locale)}${tail}`;
+  });
+}
+
 /** One entry per locale for the language switcher, marking untranslated pages. */
 export function switcherEntries(route: string, currentLocale: Locale, map?: TranslationMap) {
   return LOCALES.map((l) => {
