@@ -59,7 +59,6 @@ AI_HOW_MADE = (
     f'<p><strong>How this text was made:</strong> drafted with the help of a large '
     f'language model, then reviewed, corrected, and published by the editor. The '
     f'full AI-use disclosure is in <code>{AI_POLICY}</code> in the source repository.</p>'
-    f'full AI-use disclosure is in <code>{AI_POLICY}</code> in the source repository.</p>'
 )
 ORIGIN = SITE_URL[: -len(BASE)] if SITE_URL.endswith(BASE) else SITE_URL
 
