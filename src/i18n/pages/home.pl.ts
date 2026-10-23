@@ -32,24 +32,24 @@ export interface HomeStrings {
 const pl: HomeStrings = {
   title: 'Strona główna',
   h1: 'Baza wiedzy o sztucznej inteligencji w edukacji',
-  introHtml: `Witamy w <strong>Bazie wiedzy o sztucznej inteligencji w edukacji</strong> — bezpłatnym zasobie w domenie publicznej o <a href="/aied/concepts/ai-education/">sztucznej inteligencji w edukacji</a>, przeznaczonym dla osób, które uczą, studiują, projektują lub zarządzają nią. Sprowadza ona najnowsze badania otwartego dostępu do krótkich, uporządkowanych stron, które można przeczytać i wykorzystać w praktyce. Uwaga o tym, jak jest tworzona: strony są generowane i aktualizowane przez agenta AI, pod redakcyjnym nadzorem twórcy witryny. Każde twierdzenie wskazuje artykuł naukowy, który za nim stoi, więc źródła można zweryfikować.`,
+  introHtml: `Witamy w Bazie wiedzy o sztucznej inteligencji w edukacji, bezpłatnym zasobie w domenie publicznej o <a href="/aied/concepts/ai-education/">sztucznej inteligencji w edukacji</a>, przeznaczonym dla osób, które uczą, studiują, projektują lub zarządzają nią. Streszcza i syntetyzuje najnowsze badania edukacyjne w otwartym dostępie. Strony pisze i aktualizuje agent AI, pod redakcyjnym nadzorem twórcy witryny.`,
   navHeading: 'Jak poruszać się po witrynie',
-  navHtml: `Przeglądaj indeks według działów w lewym panelu bocznym, aby zobaczyć, jak jest zorganizowana ta dziedzina, lub <a href="/aied/search">przeszukaj całą bazę wiedzy</a>, jeśli masz już temat na myśli. Strony artykułów streszczają jeden artykuł naukowy — jego cel, metody i wyniki — wraz z pełnym cytatem i linkami do pokrewnych prac; strony pojęć gromadzą to, co badania mówią o jednej idei, i linkują do leżących u ich podstaw badań. Jeśli wolisz zacząć od pytania, <a href="/aied/faq">indeks FAQ</a> zbiera te, które zadają odwiedzający w pierwszej kolejności, od polityki kursu w kwestii AI po pytanie, czy warto używać detektorów AI; jeśli wolisz zacząć od narzędzia, <a href="/aied/resources">strona zasobów</a> wymienia bezpłatne narzędzia, zbiory i instrumenty, z których możesz od razu korzystać — każdy z podaniem autorów i kosztów. Powyższa mapa pojęć pokazuje, co z czym jest powiązane; <a href="/aied/concepts/ai-education/">AI w edukacji</a> to strona mapy leżąca u jej podstaw, grupująca pojęcia w około tuzin działów nadrzędnych.`,
+  navHtml: `Przeglądaj indeks w lewym panelu bocznym, uporządkowany według działów, lub <a href="/aied/search">przeszukaj</a>, jeśli masz już temat na myśli. Strony artykułów sprowadzają jeden artykuł naukowy do jego celu, metod i wyników; strony pojęć gromadzą to, co badania mówią o jednej idei, i linkują do leżących u ich podstaw badań. Aby zacząć od pytania, <a href="/aied/faq">FAQ</a> obejmuje to, o co odwiedzający pytają najpierw, na przykład politykę kursu w kwestii AI czy to, czy warto używać detektorów AI. Aby zacząć od narzędzia, <a href="/aied/resources">strona zasobów</a> wymienia bezpłatne narzędzia i zbiory, wraz z informacją, kto je stworzył i ile kosztują. Powyższa mapa grupuje tę dziedzinę w dwanaście działów, a <a href="/aied/concepts/ai-education/">AI w edukacji</a> jest jej centralnym węzłem.`,
   chatHeading: 'Rozmawiaj z bazą wiedzy',
-  chatHtml: `Cała zawartość jest również publikowana w postaci plików czytelnych maszynowo, więc możesz skierować do niej swojego ulubionego chatbota AI lub agenta i otrzymywać odpowiedzi, które cytują bazę zamiast zgadywać — <a href="/aied/ai">polecenia znajdziesz tutaj</a>. Nowe strony pojawiają się w <a href="/aied/journal">dzienniku</a>, który ma <a href="/aied/rss.xml">kanał RSS</a>, jeśli chcesz być na bieżąco. Do czytania offline pobierz <a href="/aied/aied.epub">EPUB</a> lub <a href="/aied/aied.pdf">PDF</a>.`,
+  chatHtml: `Cała baza wiedzy jest też publikowana w postaci plików czytelnych maszynowo, więc możesz skierować do niej chatbota AI lub agenta i otrzymywać odpowiedzi, które cytują strony. <a href="/aied/ai">Polecenia znajdziesz tutaj</a>. Nowe strony trafiają do <a href="/aied/journal">dziennika</a>, który ma <a href="/aied/rss.xml">kanał RSS</a>. Do czytania offline pobierz <a href="/aied/aied.epub">EPUB</a> lub <a href="/aied/aied.pdf">PDF</a>.`,
   startingHeading: 'Rekomendowane punkty wyjścia według grupy odbiorców',
   startingIntro:
-    'Poniżej znajdują się rekomendowane pojęcia, od których warto zacząć w tej bazie wiedzy.',
+    'Zacznij od grupy, która odpowiada Twojej roli.',
   groups: [
     {
       id: 'essential-concepts',
       heading: 'Podstawowe pojęcia',
-      html: `<a href="/aied/concepts/ai-literacy/">alfabet AI</a>, <a href="/aied/concepts/misconceptions/">błędne wyobrażenia o AI</a>, <a href="/aied/concepts/agentic-ai/">AI agentowe</a>, <a href="/aied/concepts/cognitive-offloading/">odciążanie poznawcze</a> oraz <a href="/aied/concepts/interpreting-and-applying-aied-research/">jak interpretować i wykorzystywać te badania</a>: czego wyniki mogą i czego nie mogą udowodnić i dlaczego pojedyncze badanie rzadko rozstrzyga pytanie.`,
+      html: `<a href="/aied/concepts/ai-literacy/">alfabet AI</a>, <a href="/aied/concepts/misconceptions/">błędne wyobrażenia o AI</a>, <a href="/aied/concepts/agentic-ai/">AI agentowe</a>, <a href="/aied/concepts/cognitive-offloading/">odciążanie poznawcze</a> oraz <a href="/aied/concepts/interpreting-and-applying-aied-research/">jak interpretować i wykorzystywać te badania</a>, w tym dlaczego pojedyncze badanie rzadko rozstrzyga pytanie.`,
     },
     {
       id: 'instructors',
       heading: 'Nauczyciele i wykładowcy',
-      html: `<a href="/aied/concepts/teacher-role/">zmieniająca się rola nauczyciela</a>, <a href="/aied/concepts/learning-design/">projektowanie nauczania</a>, <a href="/aied/concepts/assessment/">ocena</a>, <a href="/aied/concepts/feedback/">informacja zwrotna</a>, <a href="/aied/concepts/academic-integrity/">uczciwość akademicka</a>, <a href="/aied/concepts/framing-ai-use-for-students/">ramy korzystania z AI</a> i <a href="/aied/concepts/reducing-ai-misuse/">ograniczanie nadużyć</a>. Narzędzia, dowody i przykłady z Twojej dziedziny znajdziesz w <a href="/aied/concepts/discipline-specific-aied/">AI w Twojej dziedzinie</a>.`,
+      html: `<a href="/aied/concepts/teacher-role/">zmieniająca się rola nauczyciela</a>, <a href="/aied/concepts/learning-design/">projektowanie nauczania</a>, <a href="/aied/concepts/assessment/">ocena</a>, <a href="/aied/concepts/feedback/">informacja zwrotna</a>, <a href="/aied/concepts/academic-integrity/">uczciwość akademicka</a>, <a href="/aied/concepts/framing-ai-use-for-students/">ramy korzystania z AI</a> i <a href="/aied/concepts/reducing-ai-misuse/">ograniczanie nadużyć</a>. Narzędzia i przykłady dla konkretnej dziedziny znajdziesz w <a href="/aied/concepts/discipline-specific-aied/">AI w Twojej dziedzinie</a>.`,
     },
     {
       id: 'developers',
@@ -69,13 +69,13 @@ const pl: HomeStrings = {
   ],
   statsHeading: 'Co znajduje się w bazie wiedzy',
   statsIntro:
-    'Każda strona jest opatrzona datą, a baza wiedzy rośnie wraz z publikowaniem i weryfikacją nowych badań otwartego dostępu. Poniższe liczby odczytują się z aktualnej zawartości; data to najnowsza aktualizacja strony.',
+    'Każda strona jest opatrzona datą, a poniższe liczby odzwierciedlają to, co jest opublikowane w tej chwili; data „ostatniej aktualizacji” na końcu listy to najnowsza zmiana.',
   conceptMap: {
     title: 'Mapa pojęć AI w edukacji',
     desc:
       'Mapa radialna z AI w edukacji w centrum, połączonym z dwunastoma pojęciami najwyższego poziomu: ' +
       'modelowanie, uczenie się, równość, informacja zwrotna, alfabet AI, ocena, ' +
-      'dyscypliny, pedagogika, etyka, technologie, ocena i badania. Wybierz dowolny węzeł, aby otworzyć jego stronę.',
+      'dyscypliny, pedagogika, etyka, technologie, ocena i badania.',
     navLabel: 'Pojęcia AI w edukacji',
     center: 'AI w edukacji',
     nodes: {

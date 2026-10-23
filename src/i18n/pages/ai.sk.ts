@@ -39,7 +39,7 @@ export interface AiStrings {
 
 const PROMPT = `Si výskumný asistent pre AI v edukácii. Použi vedeckú databázu o AI v edukácii (https://edtechdev.github.io/aied/) ako svoj primárny zdroj.
 
-1. Najprv smeruj, potom čítaj. Index často kladených otázok na https://edtechdev.github.io/aied/faq/ mapuje otázky na stránky, ktoré na ne odpovedajú, vrátane otázok typu "čo výskum ukazuje". Úplný katalóg na https://edtechdev.github.io/aied/llms.txt má asi 800 KB, súbor pojmov a často kladených otázok na https://edtechdev.github.io/aied/llms-concepts.txt asi 4 MB a llms-full.txt má mnoho megabajtov, takže ich prehľadávajte alebo sťahujte len časti, a nenechajte sa zastaviť neúspešným stiahnutím celého súboru.
+1. Najprv smeruj, potom čítaj. Index často kladených otázok na https://edtechdev.github.io/aied/faq/ mapuje otázky na stránky, ktoré na ne odpovedajú, vrátane otázok typu "čo výskum ukazuje". Úplný katalóg na https://edtechdev.github.io/aied/llms.txt je {llmsSize}, súbor pojmov a často kladených otázok na https://edtechdev.github.io/aied/llms-concepts.txt je {llmsConceptsSize} a llms-full.txt je {llmsFullSize}, takže ich prehľadávajte alebo sťahujte len časti, a nenechajte sa zastaviť neúspešným stiahnutím celého súboru.
 
 2. Zakladaj každé tvrdenie do stránky a cituj ju ako názov stránky nasledovaný jej URL. Keď stránka uvádza citáciu a DOI podkladovej práce, pridaj ich; niektoré stránky citujú len arXiv ID alebo URL vydavateľa, takže uveď to, čo stránka uvádza, a nikdy nevymýšľaj DOI, URL, autora, číslo ani zistenie.
 
@@ -57,10 +57,10 @@ const sk: AiStrings = {
   title: 'Použite túto vedeckú databázu so svojím vlastným AI asistentom',
   description: 'Výzva na kopírovanie a vkladanie na použitie vedeckej databázy o AI v edukácii s vlastným chatbotom alebo agentom.',
   h1: 'Použite túto vedeckú databázu so svojím vlastným AI asistentom',
-  introHtml: `Svoj preferovaný AI chatbot alebo agenta môžete nasmerovať na túto vedeckú databázu, aby odpovedal z týchto výskumných stránok namiesto hádania. Výzva nižšie robí presne to. Skopírujte ju, vložte do svojho asistenta ako prvú správu a potom položte svoju otázku. Mali by ste dostať odpoveď, ktorá uvádza stránky, z ktorých čerpala, a odkazuje na ne, takže zdroje si môžete overiť sami.`,
-  intro2Html: `Nie je potrebná žiadna technická príprava a nič netreba inštalovať. Ak chcete prípravu úplne vynechať, existujú <a href="#ready-made-assistants">pripravení asistenti</a>, ktorí už tento materiál poznajú.`,
+  introHtml: `Nasmerujte akýkoľvek AI chatbot alebo agenta na túto vedeckú databázu a bude odpovedať z týchto stránok namiesto zo svojej vlastnej pamäte. Skopírujte výzvu nižšie, vložte ju do svojho asistenta ako prvú správu a potom položte svoju otázku. Dobrá odpoveď uvádza stránky, z ktorých čerpala, a odkazuje na ne, takže zdroje si môžete overiť sami.`,
+  intro2Html: `Nič netreba inštalovať. Ak chcete výzvu preskočiť, <a href="#ready-made-assistants">pripravení asistenti</a> už tento materiál poznajú.`,
   promptHeading: 'Výzva na kopírovanie',
-  promptIntro: 'Vložte ju ako prvú, pred svoju otázku. Funguje s akýmkoľvek chatbotom alebo agentom, ktorý dokáže prečítať webovú stránku alebo prijať vložený dokument. Okno sa posúva a tlačidlo skopíruje celé.',
+  promptIntro: 'Vložte ju ako prvú, pred svoju otázku. Funguje s akýmkoľvek chatbotom alebo agentom, ktorý dokáže prečítať webovú stránku alebo prijať vložený dokument. Výzva je dlhšia, než ukazuje okno; tlačidlo skopíruje celú.',
   copyButton: '📋 Kopírovať výzvu do schránky',
   copyHint: 'Potom ju vložte do svojho asistenta a položte svoju otázku.',
   copyOk: '✅ Skopírované!',
@@ -70,28 +70,28 @@ const sk: AiStrings = {
   howHeading: 'Ako to používať',
   howSteps: [
     '<strong>Skopírujte výzvu</strong> tlačidlom vyššie.',
-    '<strong>Vložte ju do svojho asistenta</strong> ako prvú správu a odošlite. Zvyčajne odpovie, že rozumie.',
+    '<strong>Vložte ju do svojho asistenta</strong> ako prvú správu. Zvyčajne odpovie, že rozumie.',
     '<strong>Polozte svoju otázku</strong> bežným jazykom, napríklad "čo výskum hovorí o spätnej väzbe AI vo veľkých triedach?" alebo "mali by sme používať detektory AI?"',
     '<strong>Skontrolujte odkazy.</strong> Dobrá odpoveď uvádza stránky, ktoré použila. Ak dostanete sebarevé tvrdenia bez názvov stránok, odpovedzte "z ktorej stránky to pochádza?" a požiadajte ho, aby to skúsil znova.',
   ],
-  howNoteHtml: `Najlepšie to funguje v asistentoch, ktorí dokážu prehliadať web, pretože výzva ich nasmeruje na stránky na čítanie. Ak váš nedokáže otvárať odkazy, potom namiesto vloženia samotnej výzvy pripojte aj text vedeckej databázy: <a href="/aied/llms-full.txt">stiahnite súbor s plným textom</a> raz, nahrajte ho alebo vložte do konverzácie a používajte výzvu spolu s ním. Je to jeden textový súbor s objemom približne 15 MB. Mnohé chatové produkty odmietnu súbor takej veľkosti, takže existuje aj <a href="/aied/llms-concepts.txt">llms-concepts.txt</a> — každá stránka pojmov a často kladených otázok v plnom znení, asi 4 MB — čo je lepší súbor, po ktorý siahnuť ako prvý: pojmy sú syntézami toho, čo výskum ukazuje, často kladené otázky sú otázkami, na ktoré tieto syntézy odpovedajú, a každá stránka pojmov odkazuje práce za ňou.`,
+  howNoteHtml: `Najlepšie to funguje v asistentoch, ktorí dokážu prehliadať web, pretože výzva ich nasmeruje na stránky na čítanie. Ak váš nedokáže otvárať odkazy, pripojte aj text vedeckej databázy: <a href="/aied/llms-full.txt">stiahnite súbor s plným textom</a> raz, nahrajte ho alebo vložte do konverzácie a používajte výzvu spolu s ním. Je to jeden textový súbor s veľkosťou {llmsFullSize}. Mnohé chatové produkty odmietnu súbor takej veľkosti, takže existuje aj <a href="/aied/llms-concepts.txt">llms-concepts.txt</a>, každá stránka pojmov a často kladených otázok v plnom znení s veľkosťou {llmsConceptsSize}. Siahnite po ňom ako po prvom: pojmy sú syntézami toho, čo výskum ukazuje, často kladené otázky sú otázkami, na ktoré tieto syntézy odpovedajú, a každá stránka pojmov odkazuje práce za ňou.`,
   techSummary: 'Technické poznámky pre nástroje, ktoré chcú URL namiesto výzvy',
   techItems: [
-    '<a href="/aied/llms.txt">llms.txt</a> — katalóg každej stránky, po jednom riadku, pre nástroje, ktoré indexujú stránku pred čítaním',
-    '<a href="/aied/llms-full.txt">llms-full.txt</a> — úplný text vedeckej databázy v jednom súbore, asi 15 MB',
-    '<a href="/aied/llms-concepts.txt">llms-concepts.txt</a> — plný text stránok pojmov a často kladených otázok, asi 4 MB, pre nástroje a chaty, ktoré odmietnu väčší súbor',
-    '<a href="/aied/sitemap-index.xml">Mapa stránok</a> — adresa každej stránky',
-    '<a href="/aied/rss.xml">RSS kanál</a> — nové a aktualizované stránky',
+    '<a href="/aied/llms.txt">llms.txt</a>: katalóg každej stránky, po jednom riadku, pre nástroje, ktoré indexujú stránku pred čítaním',
+    '<a href="/aied/llms-full.txt">llms-full.txt</a>: úplný text vedeckej databázy v jednom súbore, {llmsFullSize}',
+    '<a href="/aied/llms-concepts.txt">llms-concepts.txt</a>: plný text stránok pojmov a často kladených otázok, {llmsConceptsSize}, pre nástroje a chaty, ktoré odmietnu väčší súbor',
+    '<a href="/aied/sitemap-index.xml">Mapa stránok</a>: adresa každej stránky',
+    '<a href="/aied/rss.xml">RSS kanál</a>: nové a aktualizované stránky',
   ],
   assistantsHeading: 'Pripravení asistenti',
-  assistantsIntro: 'Ak nechcete nič nastavovať, táto vedecká databáza je dostupná aj ako pripravený asistent:',
+  assistantsIntro: 'Ak nechcete nič nastavovať, použite jedného z týchto pripravených asistentov:',
   assistants: [
-    '<strong>AI in Education Advisor</strong> — <a href="https://gemini.google.com/gem/1oRhk2pouJb-RpTE36aAMaIRfJrBdMR95?usp=sharing" target="_blank" rel="noopener">Gemini Gem</a>, ktorý odpovedá z tejto vedeckej databázy. Jeho <a href="https://docs.google.com/document/d/1_6JIp40v9k42ifmANsmLHtKE5Xxgvl1uGHVUYe0gnc0/edit?usp=drivesdk" target="_blank" rel="noopener">vlastné pokyny</a> sú verejné a bol vytvorený z <strong>statickej kópie</strong> vedeckej databázy, takže môže zaostávať za najnovšími stránkami.',
-    '<strong>Zošit NotebookLM</strong> — <a href="https://notebooklm.google.com/notebook/7de87d06-8998-4f0a-81f5-c2523fc635d0?utm_source=nlmm_share" target="_blank" rel="noopener">zošit Google NotebookLM</a> postavený na rovnakom materiáli, s automaticky generovanými správami, infografikami, podcastom, prezentáciami a <a href="https://youtu.be/mUJOSigOOkQ?is=veEKHgQsreaqLC4d" target="_blank" rel="noopener">videom</a>.',
+    '<strong>AI in Education Advisor</strong>, <a href="https://gemini.google.com/gem/1oRhk2pouJb-RpTE36aAMaIRfJrBdMR95?usp=sharing" target="_blank" rel="noopener">Gemini Gem</a>, ktorý odpovedá z tejto vedeckej databázy. Jeho <a href="https://docs.google.com/document/d/1_6JIp40v9k42ifmANsmLHtKE5Xxgvl1uGHVUYe0gnc0/edit?usp=drivesdk" target="_blank" rel="noopener">vlastné pokyny</a> sú verejné a bol vytvorený zo statickej kópie vedeckej databázy, takže môže zaostávať za najnovšími stránkami.',
+    '<strong>Zošit NotebookLM</strong>: <a href="https://notebooklm.google.com/notebook/7de87d06-8998-4f0a-81f5-c2523fc635d0?utm_source=nlmm_share" target="_blank" rel="noopener">zošit Google NotebookLM</a> postavený na rovnakom materiáli, s automaticky generovanými správami, infografikami, podcastom, prezentáciami a <a href="https://youtu.be/mUJOSigOOkQ?is=veEKHgQsreaqLC4d" target="_blank" rel="noopener">videom</a>.',
   ],
   corpusHeading: 'Čo je vo vedeckej databáze',
-  corpusHtml1: `Viac ako tisíc výskumných zhrnutí pokrýva doučovanie a AI tutorov, hodnotenie a spätnú väzbu, akademickú integritu, počítačovú gramotnosť v oblasti AI, rozvoj učiteľov a fakúlt, rovnosť a prístupnosť, súkromie, politiku a riadenie a témy učebných vied, ako sú kognitívne odľahčenie a motivácia študentov. Každé zhrnutie končí úplnou citáciou a odkazom na pôvodnú prácu, takže váš asistent môže odkaz postúpiť ďalej a vy ho môžete dohľadať.`,
-  corpusHtml2: `Tri druhy stránok odpovedajú na rôzne otázky: <strong>stránky pojmov</strong> zhrňujú to, čo výskum hovorí o jednej myšlienke, a odkazujú na štúdie za nimi, <strong>stránky článkov</strong> sa zaoberajú vždy jednou prácou a <strong>často kladené otázky</strong> odpovedajú na praktické otázky od vyučujúcich a správcov. Ak chcete prehľad témy, požiadajte o stránku pojmov; ak chcete dôkazy, požiadajte o štúdie.`,
+  corpusHtml1: `Viac ako tisíc výskumných zhrnutí pokrýva doučovanie a AI tutorov, hodnotenie a spätnú väzbu, akademickú integritu, počítačovú gramotnosť v oblasti AI, rozvoj učiteľov a fakúlt, rovnosť a prístupnosť, súkromie, politiku a riadenie a témy učebných vied, ako sú kognitívne odľahčenie a motivácia študentov. Každé zhrnutie končí úplnou citáciou a odkazom na pôvodnú prácu, takže váš asistent môže odkaz postúpiť ďalej.`,
+  corpusHtml2: `Tri druhy stránok odpovedajú na rôzne otázky: stránky pojmov zhrňujú to, čo výskum hovorí o jednej myšlienke, a odkazujú na štúdie za nimi, stránky článkov sa zaoberajú vždy jednou prácou a často kladené otázky odpovedajú na praktické otázky od vyučujúcich a správcov. Ak chcete prehľad, požiadajte o stránku pojmov; ak chcete dôkazy, požiadajte o články za ňou.`,
   answeredHeading: 'Otázky, na ktoré už máme odpovede',
   answeredIntro: 'Mnohé otázky, ktoré ľudia pýtajú AI ako prvé, tu už boli zodpovedané ručne, s pripojeným výskumom:',
   answeredLinks: [
@@ -104,7 +104,7 @@ const sk: AiStrings = {
   ],
   answeredOutroHtml: `<a href="/aied/faq/">Úplný zoznam často kladených otázok</a> stojí za prečítanie ešte predtým, než sa opýtate, a výzva nariedi vášmu asistentovi, aby tento zoznam skontroloval ako prvý.`,
   offlineHeading: 'Čítajte vedeckú databázu offline',
-  offlineHtml: `Vedeckú databázu si môžete stiahnuť aj ako <a href="/aied/aied.epub">EPUB</a> alebo <a href="/aied/aied.pdf">PDF</a> pre čítačku, telefón, tablet alebo počítač. Tieto offline edície obsahujú stránky pojmov a často kladené otázky, nie niekoľko stoviek zhrnutí článkov.`,
+  offlineHtml: `Vedeckú databázu si môžete stiahnuť aj ako <a href="/aied/aied.epub">EPUB</a> alebo <a href="/aied/aied.pdf">PDF</a> pre čítačku, telefón, tablet alebo počítač. Tieto offline edície obsahujú stránky pojmov a často kladené otázky, nie zhrnutia článkov.`,
   toc: [
     { text: 'Výzva na kopírovanie', slug: 'the-prompt', depth: 2 },
     { text: 'Ako to používať', slug: 'how-to-use-it', depth: 2 },

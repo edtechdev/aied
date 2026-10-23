@@ -39,7 +39,7 @@ export interface AiStrings {
 
 const PROMPT = `Je bent een onderzoeksassistent voor AI in het onderwijs. Gebruik de Kennisbank over AI in het onderwijs (https://edtechdev.github.io/aied/) als belangrijkste bron.
 
-1. Kies eerst de juiste route. De FAQ-index op https://edtechdev.github.io/aied/faq/ wijst vragen aan de pagina's die ze beantwoorden, waaronder vragen als „wat laat het onderzoek zien". De volledige catalogus op https://edtechdev.github.io/aied/llms.txt is ongeveer 800 KB, het bestand met concepten en FAQ's op https://edtechdev.github.io/aied/llms-concepts.txt is ongeveer 4 MB, en llms-full.txt telt vele megabytes — doorzoek ze of haal er delen op in plaats van ze in hun geheel te laden, en laat een mislukte poging om een heel bestand op te halen je niet tegenhouden.
+1. Kies eerst de juiste route. De FAQ-index op https://edtechdev.github.io/aied/faq/ wijst vragen aan de pagina's die ze beantwoorden, waaronder vragen als „wat laat het onderzoek zien". De volledige catalogus op https://edtechdev.github.io/aied/llms.txt is {llmsSize}, het bestand met concepten en FAQ's op https://edtechdev.github.io/aied/llms-concepts.txt is {llmsConceptsSize}, en llms-full.txt is {llmsFullSize}, dus doorzoek ze of haal er delen op in plaats van ze in hun geheel te laden, en laat een mislukte poging om een heel bestand op te halen je niet tegenhouden.
 
 2. Grond elke bewering op een pagina en citeer die als paginatitel gevolgd door de URL. Wanneer de pagina de bronvermelding en DOI van het onderliggende artikel geeft, voeg die dan toe; sommige pagina's verwijzen alleen naar een arXiv-ID of de URL van de uitgever — geef wat de pagina geeft en verzin nooit een DOI, URL, auteur, getal of resultaat.
 
@@ -58,11 +58,11 @@ const nl: AiStrings = {
   description:
     'Kopieer-en-plak-prompt om de Kennisbank over AI in het onderwijs te gebruiken met je eigen chatbot of agent.',
   h1: 'Gebruik deze kennisbank met je eigen AI-assistent',
-  introHtml: `Je kunt je favoriete AI-chatbot of -agent op deze kennisbank richten, zodat die antwoordt uit deze onderzoekspagina's in plaats van te gokken. De prompt hieronder doet dat werk. Kopieer hem, plak hem in je assistent als eerste bericht en stel daarna je vraag. Je zou een antwoord moeten krijgen dat de pagina's noemt die het heeft gebruikt en ernaar linkt, zodat je de bronnen zelf kunt controleren.`,
-  intro2Html: `Er is geen technische installatie nodig en er hoeft niets te worden geïnstalleerd. Als je dat helemaal wilt overslaan, zijn er <a href="#ready-made-assistants">kant-en-klare assistenten</a> die dit materiaal al kennen.`,
+  introHtml: `Je kunt elke AI-chatbot of -agent op deze kennisbank richten, en dan antwoordt die uit deze pagina's in plaats van uit zijn eigen geheugen. Kopieer de prompt hieronder, plak hem in je assistent als eerste bericht en stel daarna je vraag. Een goed antwoord noemt de pagina's waarop het is gebaseerd en linkt ernaar, zodat je de bronnen zelf kunt controleren.`,
+  intro2Html: `Er hoeft niets te worden geïnstalleerd. Als je de prompt liever overslaat, kennen de <a href="#ready-made-assistants">kant-en-klare assistenten</a> dit materiaal al.`,
   promptHeading: 'De prompt om te kopiëren',
   promptIntro:
-    'Plak dit eerst in, vóór je vraag. Het werkt met elke chatbot of agent die een webpagina kan lezen of een geplakt document kan accepteren. Het vak scrollt, en de knop kopieert alles.',
+    'Plak dit eerst in, vóór je vraag. Het werkt met elke chatbot of agent die een webpagina kan lezen of een geplakt document kan accepteren. De prompt is langer dan het vak laat zien; de knop kopieert hem helemaal.',
   copyButton: '📋 Kopieer prompt naar klembord',
   copyHint: 'Plak het daarna in je assistent en stel je vraag.',
   copyOk: '✅ Gekopieerd!',
@@ -72,29 +72,29 @@ const nl: AiStrings = {
   howHeading: 'Hoe je het gebruikt',
   howSteps: [
     '<strong>Kopieer de prompt</strong> met de knop hierboven.',
-    '<strong>Plak het in je assistent</strong> als eerste bericht en verstuur het. Meestal antwoordt de assistent dat hij het begrijpt.',
+    '<strong>Plak het in je assistent</strong> als eerste bericht. Meestal antwoordt de assistent dat hij het begrijpt.',
     '<strong>Stel je vraag</strong> in gewone taal, bijvoorbeeld „wat zegt het onderzoek over AI-feedback in grote groepen?" of „moeten we AI-detectoren gebruiken?"',
     '<strong>Controleer de links.</strong> Een goed antwoord noemt de pagina\'s die het heeft gebruikt. Als je overtuigende beweringen krijgt zonder paginanamen, vraag dan „uit welke pagina komt dat?" en vraag het opnieuw te proberen.',
   ],
-  howNoteHtml: `Dit werkt het beste in assistenten die het web kunnen doorzoeken, omdat de prompt hen naar pagina's wijst om te lezen. Als die van jou geen links kan openen, plak dan in plaats van alleen de prompt ook de tekst van de kennisbank: <a href="/aied/llms-full.txt">download het volledige-tekstbestand</a> een keer, upload of plak het in het gesprek en gebruik de prompt ernaast. Het is één tekstbestand van ongeveer 15 MB. Veel chatproducten weigeren een bestand van die omvang, daarom is er ook <a href="/aied/llms-concepts.txt">llms-concepts.txt</a> — elke concept- en FAQ-pagina in volledige tekst, ongeveer 4 MB — en dat is het beste bestand om eerst te pakken: de concepten zijn de syntheses van wat het onderzoek laat zien, de FAQ's zijn de vragen die die syntheses beantwoorden, en elke conceptpagina linkt naar de artikelen die eraan ten grondslag liggen.`,
+  howNoteHtml: `Dit werkt het beste in assistenten die het web kunnen doorzoeken, omdat de prompt hen naar pagina's wijst om te lezen. Als die van jou geen links kan openen, voeg dan naast de prompt ook de tekst van de kennisbank toe: <a href="/aied/llms-full.txt">download het volledige-tekstbestand</a> een keer, upload of plak het in het gesprek en gebruik de prompt ernaast. Het is één tekstbestand van {llmsFullSize}. Veel chatproducten weigeren een bestand van die omvang, daarom is er ook <a href="/aied/llms-concepts.txt">llms-concepts.txt</a>, elke concept- en FAQ-pagina in volledige tekst op {llmsConceptsSize}. Pak dat bestand eerst: de concepten zijn de syntheses van wat het onderzoek laat zien, de FAQ's zijn de vragen die die syntheses beantwoorden, en elke conceptpagina linkt naar de artikelen die eraan ten grondslag liggen.`,
   techSummary: 'Technische opmerkingen voor tools die een URL willen in plaats van een prompt',
   techItems: [
-    '<a href="/aied/llms.txt">llms.txt</a> — een catalogus van elke pagina, één regel per pagina, voor tools die een site indexeren voordat ze die lezen',
-    '<a href="/aied/llms-full.txt">llms-full.txt</a> — de volledige tekst van de kennisbank in één bestand, ongeveer 15 MB',
-    '<a href="/aied/llms-concepts.txt">llms-concepts.txt</a> — volledige tekst van de concept- en FAQ-pagina\'s, ongeveer 4 MB, voor tools en chats die het grotere bestand weigeren',
-    '<a href="/aied/sitemap-index.xml">Sitemap</a> — het adres van elke pagina',
-    '<a href="/aied/rss.xml">RSS-feed</a> — nieuwe en bijgewerkte pagina\'s',
+    '<a href="/aied/llms.txt">llms.txt</a>: een catalogus van elke pagina, één regel per pagina, voor tools die een site indexeren voordat ze die lezen',
+    '<a href="/aied/llms-full.txt">llms-full.txt</a>: de volledige tekst van de kennisbank in één bestand, {llmsFullSize}',
+    '<a href="/aied/llms-concepts.txt">llms-concepts.txt</a>: volledige tekst van de concept- en FAQ-pagina\'s, {llmsConceptsSize}, voor tools en chats die het grotere bestand weigeren',
+    '<a href="/aied/sitemap-index.xml">Sitemap</a>: het adres van elke pagina',
+    '<a href="/aied/rss.xml">RSS-feed</a>: nieuwe en bijgewerkte pagina\'s',
   ],
   assistantsHeading: 'Kant-en-klare assistenten',
   assistantsIntro:
-    'Als je liever niets instelt, is deze kennisbank ook beschikbaar als kant-en-klare assistent:',
+    'Als je liever niets instelt, gebruik dan een van deze kant-en-klare assistenten:',
   assistants: [
-    '<strong>AI in Education Advisor</strong> — een <a href="https://gemini.google.com/gem/1oRhk2pouJb-RpTE36aAMaIRfJrBdMR95?usp=sharing" target="_blank" rel="noopener">Gemini Gem</a> die uit deze kennisbank antwoordt. De <a href="https://docs.google.com/document/d/1_6JIp40v9k42ifmANsmLHtKE5Xxgvl1uGHVUYe0gnc0/edit?usp=drivesdk" target="_blank" rel="noopener">aangepaste instructies</a> zijn openbaar, en hij is gebouwd uit een <strong>statische kopie</strong> van de kennisbank, dus hij kan achterlopen op de nieuwste pagina\'s.',
-    '<strong>NotebookLM-notitieboek</strong> — een <a href="https://notebooklm.google.com/notebook/7de87d06-8998-4f0a-81f5-c2523fc635d0?utm_source=nlmm_share" target="_blank" rel="noopener">Google NotebookLM-notitieboek</a> gebouwd op hetzelfde materiaal, met automatisch gegenereerde rapporten, infographics, een podcast, dia\'s en <a href="https://youtu.be/mUJOSigOOkQ?is=veEKHgQsreaqLC4d" target="_blank" rel="noopener">een video</a>.',
+    '<strong>AI in Education Advisor</strong>, een <a href="https://gemini.google.com/gem/1oRhk2pouJb-RpTE36aAMaIRfJrBdMR95?usp=sharing" target="_blank" rel="noopener">Gemini Gem</a> die uit deze kennisbank antwoordt. De <a href="https://docs.google.com/document/d/1_6JIp40v9k42ifmANsmLHtKE5Xxgvl1uGHVUYe0gnc0/edit?usp=drivesdk" target="_blank" rel="noopener">aangepaste instructies</a> zijn openbaar, en hij is gebouwd uit een statische kopie van de kennisbank, dus hij kan achterlopen op de nieuwste pagina\'s.',
+    '<strong>NotebookLM-notitieboek</strong>: een <a href="https://notebooklm.google.com/notebook/7de87d06-8998-4f0a-81f5-c2523fc635d0?utm_source=nlmm_share" target="_blank" rel="noopener">Google NotebookLM-notitieboek</a> gebouwd op hetzelfde materiaal, met automatisch gegenereerde rapporten, infographics, een podcast, dia\'s en <a href="https://youtu.be/mUJOSigOOkQ?is=veEKHgQsreaqLC4d" target="_blank" rel="noopener">een video</a>.',
   ],
   corpusHeading: 'Wat zit er in de kennisbank',
-  corpusHtml1: `Ruim duizend onderzoeksamenvattingen behandelen tutoring en AI-tutoren, toetsing en feedback, academische integriteit, AI-geletterdheid, ontwikkeling van docenten en faculteit, gelijkheid en toegankelijkheid, privacy, beleid en governance, en leerthema's zoals cognitief uitbesteden en motivatie van leerlingen. Elke samenvatting eindigt met de volledige bronvermelding en een link naar het oorspronkelijke artikel, zodat je assistent de verwijzing kan doorgeven en jij die kunt opzoeken.`,
-  corpusHtml2: `Drie soorten pagina's beantwoorden verschillende vragen: <strong>conceptpagina's</strong> vatten samen wat het onderzoek zegt over één idee en linken naar de studies die eraan ten grondslag liggen, <strong>artikelpagina's</strong> behandelen één artikel tegelijk, en de <strong>FAQ's</strong> beantwoorden praktische vragen van docenten en bestuurders. Als je een overzicht van een onderwerp wilt, vraag dan om een conceptpagina; als je het bewijs wilt, vraag dan om de studies.`,
+  corpusHtml1: `Ruim duizend onderzoeksamenvattingen behandelen tutoring en AI-tutoren, toetsing en feedback, academische integriteit, AI-geletterdheid, ontwikkeling van docenten en faculteit, gelijkheid en toegankelijkheid, privacy, beleid en governance, en leerthema's zoals cognitief uitbesteden en motivatie van leerlingen. Elke samenvatting eindigt met de volledige bronvermelding en een link naar het oorspronkelijke artikel, zodat je assistent de verwijzing kan doorgeven.`,
+  corpusHtml2: `Drie soorten pagina's beantwoorden verschillende vragen: conceptpagina's vatten samen wat het onderzoek zegt over één idee en linken naar de studies die eraan ten grondslag liggen, artikelpagina's behandelen één artikel tegelijk, en de FAQ's beantwoorden praktische vragen van docenten en bestuurders. Vraag om een conceptpagina als je een overzicht wilt, en om de artikelen erachter als je het bewijs wilt.`,
   answeredHeading: 'Vragen die al beantwoord zijn',
   answeredIntro:
     'Veel vragen die mensen eerst aan een AI stellen, zijn hier al met de hand beantwoord, met het onderzoek erbij:',
@@ -123,7 +123,7 @@ const nl: AiStrings = {
   ],
   answeredOutroHtml: `De <a href="/aied/faq/">volledige lijst met FAQ's</a> is een blik waard voordat je iets vraagt, en de prompt zegt je assistent die lijst eerst te raadplegen.`,
   offlineHeading: 'Lees de kennisbank offline',
-  offlineHtml: `Je kunt de kennisbank ook downloaden als <a href="/aied/aied.epub">EPUB</a> of <a href="/aied/aied.pdf">PDF</a> voor een e-reader, telefoon, tablet of computer. Deze offline-edities bevatten de conceptpagina's en FAQ's, niet de vele honderden artikelsamenvattingen.`,
+  offlineHtml: `Je kunt de kennisbank ook downloaden als <a href="/aied/aied.epub">EPUB</a> of <a href="/aied/aied.pdf">PDF</a> voor een e-reader, telefoon, tablet of computer. Deze offline-edities bevatten de conceptpagina's en FAQ's, niet de artikelsamenvattingen.`,
   toc: [
     { text: 'De prompt om te kopiëren', slug: 'the-prompt', depth: 2 },
     { text: 'Hoe je het gebruikt', slug: 'how-to-use-it', depth: 2 },

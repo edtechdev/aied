@@ -32,23 +32,23 @@ export interface HomeStrings {
 const id: HomeStrings = {
   title: 'Beranda',
   h1: 'Basis Pengetahuan AI dalam Pendidikan',
-  introHtml: `Selamat datang di <strong>Basis Pengetahuan AI dalam Pendidikan</strong> — sumber daya domain publik dan gratis tentang <a href="/aied/concepts/ai-education/">kecerdasan buatan dalam pendidikan</a>, untuk para pengajar, pelajar, perancang, atau pengelolanya. Basis ini mereduksi riset akses terbuka terkini menjadi halaman-halaman singkat dan terstruktur yang bisa Anda baca dan terapkan. Catatan tentang cara penyusunannya: halaman-halaman dihasilkan dan diperbarui oleh agen AI, dengan panduan editorial dari pengembang situs. Setiap klaim menyebut makalah pendasarannya, sehingga sumbernya bisa Anda periksa.`,
+  introHtml: `Selamat datang di Basis Pengetahuan AI dalam Pendidikan, sumber daya domain publik dan gratis tentang <a href="/aied/concepts/ai-education/">kecerdasan buatan dalam pendidikan</a> untuk para pengajar, pelajar, perancang, atau pengelolanya. Basis ini merangkum dan menyintesis riset pendidikan akses terbuka terkini. Halaman-halamannya ditulis dan diperbarui oleh agen AI, dengan panduan editorial dari pengembang situs.`,
   navHeading: 'Menavigasi situs ini',
-  navHtml: `Telusuri indeks per jalur di bilah sisi kiri untuk melihat bagaimana bidang ini disusun, atau <a href="/aied/search">cari</a> seluruh basis pengetahuan jika Anda sudah punya topik tertentu. Halaman artikel meringkas satu makalah menjadi tujuan, metode, dan temuannya, dengan kutipan lengkap dan tautan ke karya terkait; halaman konsep menghimpun apa yang dikatakan riset tentang satu gagasan dan menautkan studi-studi di baliknya. Jika Anda lebih suka berangkat dari sebuah pertanyaan, <a href="/aied/faq">indeks FAQ</a> menghimpun pertanyaan yang paling sering diajukan pengunjung, mulai dari kebijakan AI untuk mata kuliah hingga apakah perlu menggunakan detektor AI; jika Anda lebih suka berangkat dari sebuah alat, <a href="/aied/resources">halaman sumber daya</a> menampilkan alat-alat gratis, koleksi, dan instrumen yang bisa langsung Anda gunakan, masing-masing menyebutkan pembuatnya dan biayanya. Peta konsep di atas menunjukkan apa yang terhubung dengan apa; <a href="/aied/concepts/ai-education/">AI dalam Pendidikan</a> adalah halaman peta di baliknya, mengelompokkan konsep-konsep menjadi sekitar selusin jalur payung.`,
+  navHtml: `Telusuri indeks di bilah sisi kiri, yang disusun per jalur, atau <a href="/aied/search">cari</a> sebuah topik. Halaman artikel meringkas satu makalah menjadi tujuan, metode, dan temuannya; halaman konsep menghimpun apa yang dikatakan riset tentang satu gagasan dan menautkan studi-studi di baliknya. Untuk berangkat dari sebuah pertanyaan, <a href="/aied/faq">FAQ</a> mencakup hal yang paling sering ditanyakan pengunjung, misalnya kebijakan AI untuk mata kuliah atau apakah perlu menggunakan detektor AI. Untuk berangkat dari sebuah alat, <a href="/aied/resources">halaman sumber daya</a> menampilkan alat dan koleksi gratis, lengkap dengan siapa pembuatnya dan berapa biayanya. Peta di atas mengelompokkan bidang ini menjadi dua belas jalur, dengan <a href="/aied/concepts/ai-education/">AI dalam Pendidikan</a> sebagai simpul pusatnya.`,
   chatHeading: 'Mengobrol dengan basis pengetahuan',
-  chatHtml: `Semua yang ada di sini juga diterbitkan sebagai berkas yang dapat dibaca mesin, sehingga Anda bisa mengarahkan chatbot atau agen AI pilihan Anda ke basis pengetahuan ini dan memperoleh jawaban yang menyitirnya, bukan menebak — <a href="/aied/ai">prompt-nya ada di sini</a>. Halaman baru muncul di <a href="/aied/journal">jurnal</a>, yang memiliki <a href="/aied/rss.xml">umpan RSS</a> bila Anda ingin mengikuti perkembangannya. Untuk membaca offline, ambil <a href="/aied/aied.epub">EPUB</a> atau <a href="/aied/aied.pdf">PDF</a>-nya.`,
+  chatHtml: `Seluruh basis pengetahuan juga diterbitkan sebagai berkas yang dapat dibaca mesin, sehingga Anda bisa mengarahkan chatbot atau agen AI ke sana dan memperoleh jawaban yang menyitir halaman-halamannya. <a href="/aied/ai">Prompt-nya ada di sini</a>. Halaman baru masuk ke <a href="/aied/journal">jurnal</a>, yang memiliki <a href="/aied/rss.xml">umpan RSS</a>. Untuk membaca offline, unduh <a href="/aied/aied.epub">EPUB</a> atau <a href="/aied/aied.pdf">PDF</a>.`,
   startingHeading: 'Titik awal yang direkomendasikan menurut audiens',
-  startingIntro: 'Berikut beberapa konsep yang direkomendasikan untuk mulai belajar di basis pengetahuan ini.',
+  startingIntro: 'Mulailah dari kelompok yang sesuai dengan peran Anda.',
   groups: [
     {
       id: 'essential-concepts',
       heading: 'Konsep esensial',
-      html: `<a href="/aied/concepts/ai-literacy/">Literasi AI</a>, <a href="/aied/concepts/misconceptions/">salah paham tentang AI</a>, <a href="/aied/concepts/agentic-ai/">AI agenik</a>, <a href="/aied/concepts/cognitive-offloading/">pembongkaran kognitif</a>, dan <a href="/aied/concepts/interpreting-and-applying-aied-research/">cara menafsirkan dan menerapkan riset ini</a>: apa yang bisa dan tidak bisa didukung oleh temuannya, serta mengapa satu studi jarang menyelesaikan sebuah pertanyaan.`,
+      html: `<a href="/aied/concepts/ai-literacy/">Literasi AI</a>, <a href="/aied/concepts/misconceptions/">salah paham tentang AI</a>, <a href="/aied/concepts/agentic-ai/">AI agenik</a>, <a href="/aied/concepts/cognitive-offloading/">pembongkaran kognitif</a>, dan <a href="/aied/concepts/interpreting-and-applying-aied-research/">cara menafsirkan dan menerapkan riset ini</a>, termasuk mengapa satu studi jarang menyelesaikan sebuah pertanyaan.`,
     },
     {
       id: 'instructors',
       heading: 'Pengajar',
-      html: `<a href="/aied/concepts/teacher-role/">Peran mengajar yang berubah</a>, <a href="/aied/concepts/learning-design/">desain pembelajaran</a>, <a href="/aied/concepts/assessment/">asesmen</a>, <a href="/aied/concepts/feedback/">umpan balik</a>, <a href="/aied/concepts/academic-integrity/">integritas akademik</a>, <a href="/aied/concepts/framing-ai-use-for-students/">pembingkaian penggunaan AI</a> dan <a href="/aied/concepts/reducing-ai-misuse/">mengurangi penyalahgunaan</a>. Untuk alat, bukti, dan contoh di bidang studi Anda sendiri, lihat <a href="/aied/concepts/discipline-specific-aied/">AI di disiplin Anda sendiri</a>.`,
+      html: `<a href="/aied/concepts/teacher-role/">Peran mengajar yang berubah</a>, <a href="/aied/concepts/learning-design/">desain pembelajaran</a>, <a href="/aied/concepts/assessment/">asesmen</a>, <a href="/aied/concepts/feedback/">umpan balik</a>, <a href="/aied/concepts/academic-integrity/">integritas akademik</a>, <a href="/aied/concepts/framing-ai-use-for-students/">pembingkaian penggunaan AI</a> dan <a href="/aied/concepts/reducing-ai-misuse/">mengurangi penyalahgunaan</a>. Untuk alat dan contoh yang spesifik per bidang studi, lihat <a href="/aied/concepts/discipline-specific-aied/">AI di disiplin Anda sendiri</a>.`,
     },
     {
       id: 'developers',
@@ -68,13 +68,13 @@ const id: HomeStrings = {
   ],
   statsHeading: 'Apa saja yang terdapat dalam basis pengetahuan',
   statsIntro:
-    'Setiap halaman di sini memiliki tanggal, dan basis pengetahuan ini bertambah seiring terbitnya riset akses terbuka yang direview. Angka-angka di bawah dibaca dari isi terkini; tanggalnya adalah pembaruan halaman paling baru.',
+    'Setiap halaman memiliki tanggal, dan angka-angka di bawah mencerminkan apa yang terbit saat ini; tanggal „terakhir diperbarui" di akhir daftar adalah penyuntingan terbaru.',
   conceptMap: {
     title: 'Peta konsep AI dalam Pendidikan',
     desc:
       'Peta radial dengan AI dalam Pendidikan di tengah, terhubung ke dua belas konsep tingkat atas: ' +
       'Pemodelan, Pembelajaran, Kesetaraan, Umpan balik, Literasi AI, Asesmen, Disiplin, Pedagogi, ' +
-      'Etika, Teknologi, Evaluasi, dan Riset. Pilih simpul mana pun untuk membuka halamannya.',
+      'Etika, Teknologi, Evaluasi, dan Riset.',
     navLabel: 'Konsep AI dalam Pendidikan',
     center: 'AI dalam Pendidikan',
     nodes: {

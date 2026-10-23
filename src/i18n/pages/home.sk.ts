@@ -32,23 +32,23 @@ export interface HomeStrings {
 const sk: HomeStrings = {
   title: 'Domov',
   h1: 'Vedecká databáza o AI v edukácii',
-  introHtml: `Vitajte v <strong>vedeckej databáze o AI v edukácii</strong> — slobodnom zdroji vo verejnej doméne o <a href="/aied/concepts/ai-education/">umelej inteligencii v edukácii</a>, určenom pre ľudí, ktorí učia, študujú, navrhujú alebo spravujú. Destiluje nový výskum s otvoreným prístupom do krátkych, štruktúrovaných stránok, ktoré môžete prečítať a podľa nich konať. Poznámka o tom, ako vzniká: stránky generuje a aktualizuje agent AI, s redakčným usmernením od vývojára webu. Každé tvrdenie uvádza prácu, na ktorej stojí, takže zdroje si môžete overiť.`,
+  introHtml: `Vitajte vo vedeckej databáze o AI v edukácii, slobodnom zdroji vo verejnej doméne o <a href="/aied/concepts/ai-education/">umelej inteligencii v edukácii</a> pre ľudí, ktorí učia, študujú, navrhujú alebo spravujú. Zhrňuje a syntetizuje nedávny vzdelávací výskum s otvoreným prístupom. Stránky píše a aktualizuje agent AI s redakčným usmernením od vývojára webu.`,
   navHeading: 'Orientácia na webe',
-  navHtml: `Prehliadajte index po vláknach v ľavom bočnom paneli a zistite, ako je oblasť organizovaná, alebo <a href="/aied/search">prehľadajte</a> celú vedeckú databázu, ak už máte konkrétnu tému na mysli. Stránky článkov zhrňujú jednu prácu do jej účelu, metód a zistení, s úplnou citáciou a odkazmi na súvisiace práce; stránky pojmov zhromažďujú to, čo výskum hovorí o jednej myšlienke, a odkazujú na štúdie, ktoré sú za ňou. Ak chcete radšej začať od otázky, <a href="/aied/faq">index často kladených otázok</a> zhromažďuje tie, ktoré sa návštevníci pýtajú ako prvé, od politiky AI v kurze až po to, či používať detektory AI; ak chcete radšej začať od nástroja, <a href="/aied/resources">stránka zdrojov</a> uvádza bezplatné nástroje, kolekcie a nástroje, ktoré môžete ísť a použiť, pričom každý hovorí, kto ho vytvoril a koľko stojí. Konceptuálna mapa vyššie ukazuje, čo s čím súvisí; <a href="/aied/concepts/ai-education/">AI v edukácii</a> je stránka mapy za ňou, ktorá zoskupuje pojmy do približne tucta nadradených vlákien.`,
+  navHtml: `Prehliadajte index v ľavom bočnom paneli, ktorý je usporiadaný po vláknach, alebo <a href="/aied/search">prehľadajte</a> tému. Stránky článkov zhrňujú jednu prácu do jej účelu, metód a zistení; stránky pojmov zhromažďujú to, čo výskum hovorí o jednej myšlienke, a odkazujú na štúdie, ktoré sú za ňou. Ak chcete začať od otázky, <a href="/aied/faq">často kladené otázky</a> pokrývajú to, na čo sa návštevníci pýtajú ako prví, napríklad politiku AI v kurze alebo to, či používať detektory AI. Ak chcete začať od nástroja, <a href="/aied/resources">stránka zdrojov</a> uvádza bezplatné nástroje a kolekcie, s uvedením, kto každý z nich vytvoril a koľko stojí. Mapa vyššie zoskupuje oblasť do dvanástich vlákien, pričom <a href="/aied/concepts/ai-education/">AI v edukácii</a> je centrálny uzol.`,
   chatHeading: 'Chatujte s vedeckou databázou',
-  chatHtml: `Všetko tu je publikované aj ako strojovo čitateľné súbory, takže môžete nasmerovať svoj preferovaný AI chatbot alebo agenta na vedeckú databázu a získať odpovede, ktoré ju citujú namiesto hádania — <a href="/aied/ai">výzvy sú tu</a>. Nové stránky sa objavujú v <a href="/aied/journal">zozname noviniek</a>, ktorý má <a href="/aied/rss.xml">RSS kanál</a>, ak chcete sledovať novinky. Na čítanie offline si vezmite <a href="/aied/aied.epub">EPUB</a> alebo <a href="/aied/aied.pdf">PDF</a>.`,
+  chatHtml: `Celá vedecká databáza je publikovaná aj ako strojovo čitateľné súbory, takže na ňu môžete nasmerovať AI chatbota alebo agenta a získať odpovede, ktoré citujú stránky. <a href="/aied/ai">Výzvy sú tu</a>. Nové stránky pribúdajú v <a href="/aied/journal">zozname noviniek</a>, ktorý má <a href="/aied/rss.xml">RSS kanál</a>. Na čítanie offline si stiahnite <a href="/aied/aied.epub">EPUB</a> alebo <a href="/aied/aied.pdf">PDF</a>.`,
   startingHeading: 'Odporúčané východiská podľa cieľovej skupiny',
-  startingIntro: 'Nižšie nájdete niektoré odporúčané pojmy, ktoré môžete v tejto vedeckej databáze preskúmať ako prvé.',
+  startingIntro: 'Začnite skupinou, ktorá zodpovedá vašej role.',
   groups: [
     {
       id: 'essential-concepts',
       heading: 'Základné pojmy',
-      html: `<a href="/aied/concepts/ai-literacy/">Počítačová gramotnosť v oblasti AI</a>, <a href="/aied/concepts/misconceptions/">mylné predstavy o AI</a>, <a href="/aied/concepts/agentic-ai/">agentné AI</a>, <a href="/aied/concepts/cognitive-offloading/">kognitívne odľahčenie</a> a <a href="/aied/concepts/interpreting-and-applying-aied-research/">ako interpretovať a aplikovať tento výskum</a>: čo zistenia podporujú a čo nie, a prečo jedna štúdia zriedka rozhodne otázku.`,
+      html: `<a href="/aied/concepts/ai-literacy/">Počítačová gramotnosť v oblasti AI</a>, <a href="/aied/concepts/misconceptions/">mylné predstavy o AI</a>, <a href="/aied/concepts/agentic-ai/">agentné AI</a>, <a href="/aied/concepts/cognitive-offloading/">kognitívne odľahčenie</a> a <a href="/aied/concepts/interpreting-and-applying-aied-research/">ako interpretovať a aplikovať tento výskum</a>, vrátane toho, prečo jedna štúdia zriedka rozhodne otázku.`,
     },
     {
       id: 'instructors',
       heading: 'Vyučujúci',
-      html: `<a href="/aied/concepts/teacher-role/">Meniaca sa rola vyučujúceho</a>, <a href="/aied/concepts/learning-design/">návrh učenia</a>, <a href="/aied/concepts/assessment/">hodnotenie</a>, <a href="/aied/concepts/feedback/">spätná väzba</a>, <a href="/aied/concepts/academic-integrity/">akademická integrita</a>, <a href="/aied/concepts/framing-ai-use-for-students/">rámcovanie používania AI</a> a <a href="/aied/concepts/reducing-ai-misuse/">znižovanie zneužívania</a>. Nástroje, dôkazy a príklady vo vašom vlastnom odbore nájdete na stránke <a href="/aied/concepts/discipline-specific-aied/">AI vo vašom vlastnom odbore</a>.`,
+      html: `<a href="/aied/concepts/teacher-role/">Meniaca sa rola vyučujúceho</a>, <a href="/aied/concepts/learning-design/">návrh učenia</a>, <a href="/aied/concepts/assessment/">hodnotenie</a>, <a href="/aied/concepts/feedback/">spätná väzba</a>, <a href="/aied/concepts/academic-integrity/">akademická integrita</a>, <a href="/aied/concepts/framing-ai-use-for-students/">rámcovanie používania AI</a> a <a href="/aied/concepts/reducing-ai-misuse/">znižovanie zneužívania</a>. Nástroje a príklady špecifické pre váš predmet nájdete na stránke <a href="/aied/concepts/discipline-specific-aied/">AI vo vašom vlastnom odbore</a>.`,
     },
     {
       id: 'developers',
@@ -68,13 +68,13 @@ const sk: HomeStrings = {
   ],
   statsHeading: 'Čo je vo vedeckej databáze',
   statsIntro:
-    'Každá stránka tu je datovaná a vedecká databáza rastie, ako sa publikuje a hodnotí nový výskum s otvoreným prístupom. Nižšie uvedené počty sa čítajú z aktuálneho obsahu; dátum je posledná aktualizácia stránky.',
+    'Každá stránka je datovaná a nižšie uvedené počty odzrkadľujú, čo je práve teraz publikované; dátum „naposledy aktualizované“ na konci zoznamu je najnovšia úprava.',
   conceptMap: {
     title: 'Konceptuálna mapa AI v edukácii',
     desc:
       'Radiálna mapa s AI v edukácii v strede, prepojená s dvanástimi pojmami najvyššej úrovne: ' +
       'Modelovanie, Učenie, Rovnosť, Spätná väzba, Počítačová gramotnosť v oblasti AI, Hodnotenie, Disciplíny, ' +
-      'Pedagogika, Etika, Technológie, Hodnotenie AIED a Výskum. Vyberte ľubovoľný uzol a otvorte jeho stránku.',
+      'Pedagogika, Etika, Technológie, Hodnotenie AIED a Výskum.',
     navLabel: 'Pojmy AI v edukácii',
     center: 'AI v edukácii',
     nodes: {

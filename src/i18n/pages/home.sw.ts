@@ -32,23 +32,23 @@ export interface HomeStrings {
 const sw: HomeStrings = {
   title: 'Mwanzo',
   h1: 'Hifadhi ya Maarifa ya Akili Bandia katika Elimu',
-  introHtml: `Karibu katika <strong>Hifadhi ya Maarifa ya Akili Bandia katika Elimu</strong> — rasilimali ya bure na ya mali ya umma kuhusu <a href="/aied/concepts/ai-education/">akili bandia katika elimu</a>, kwa watu wanaofundisha, wanaosoma, wanaobuni, au wanaosimamia utekelezaji wake. Inatoa muhtasari wa utafiti wa hivi karibuni wa wazi katika kurasa fupi zilizopangwa unazoweza kusoma na kuzitekeleza. Maelezo juu ya jinsi inavyotengenezwa: kurasa huzalishwa na kusasishwa na wakala wa Akili Bandia, kwa mwongozo wa uhariri kutoka kwa msanidi wa tovuti. Kila madai yanataja karatasi inayokihimili, hivyo vyanzo vipo kwa ukaguzi.`,
+  introHtml: `Karibu katika Hifadhi ya Maarifa ya Akili Bandia katika Elimu, rasilimali ya bure na ya mali ya umma kuhusu <a href="/aied/concepts/ai-education/">akili bandia katika elimu</a> kwa watu wanaofundisha, wanaosoma, wanaobuni, au wanaosimamia utekelezaji wake. Inafupisha na kuunganisha utafiti wa elimu wa hivi karibuni wa wazi. Wakala wa Akili Bandia huandika na kusasisha kurasa kwa mwongozo wa uhariri kutoka kwa msanidi wa tovuti.`,
   navHeading: 'Kuvinjari tovuti',
-  navHtml: `Vinjari fahirisi ya mada kwa mada kwenye upau wa kushoto kuona jinsi fani inavyopangwa, au <a href="/aied/search">tafuta</a> hifadhi yote ya maarifa ikiwa tayari una mada akilini. Kurasa za makala zinatoa muhtasari wa karatasi moja kwenye kusudi lake, mbinu zake, na matokeo yake, pamoja na nukuu kamili na viungo kwa kazi zinazohusiana; kurasa za dhana zinakusanya yale utafiti unayosema kuhusu wazo moja na kuunganisha masomo yanayoihimili. Ukipendelea kuanzia swali, <a href="/aied/faq">fahirisi ya Maswali</a> inakusanya yale wageni wanaouliza kwanza, kuanzia sera ya AI katika kozi hadi iwapo kutumia viganja vya AI; ukipendelea kuanzia zana, <a href="/aied/resources">ukurasa wa rasilimali</a> unaorodhesha zana za bure, mkusanyiko na vifaa unavyoweza kwenda na kuzitumia, kila moja ikisema ni nani aliyeitengeneza na gharama yake. Ramani ya dhana juu inaonyesha kinachoungana na nini; <a href="/aied/concepts/ai-education/">Akili Bandia katika Elimu</a> ni ukurasa wa ramani unaoiandama, ukiikusanya dhana katika mada kuu kama darini.`,
+  navHtml: `Vinjari fahirisi kwenye upau wa kushoto, iliyopangwa kwa mada, au <a href="/aied/search">tafuta</a> mada. Kurasa za makala hufupisha karatasi moja katika kusudi lake, mbinu zake, na matokeo yake; kurasa za dhana hukusanya yale utafiti unasema kuhusu wazo moja na kuweka viungo vya masomo yanayoihimili. Kuanzia swali, <a href="/aied/faq">Maswali Yanayoulizwa Mara kwa Mara</a> hushughulikia yale wageni wanaouliza kwanza, kama vile sera ya AI katika kozi au iwapo kutumia vigunduzi vya AI. Kuanzia zana, <a href="/aied/resources">ukurasa wa rasilimali</a> huorodhesha zana za bure na mkusanyiko, pamoja na nani aliyetengeneza kila moja na gharama yake. Ramani iliyo juu inagawanya fani katika mada kumi na mbili, huku <a href="/aied/concepts/ai-education/">Akili Bandia katika Elimu</a> ikiwa nodi kuu.`,
   chatHeading: 'Zungumza na hifadhi ya maarifa',
-  chatHtml: `Kila kitu hapa pia kinachapishwa kama faili zinazosomeka na mashine, hivyo unaweza kuelekeza chatbot au wakala wako wa AI unayependelea kwenye hifadhi ya maarifa na kupata majibu yanayoihamisha badala ya kubashiri — <a href="/aied/ai">viagizo vipo hapa</a>. Kurasa mpya zinaonekana katika <a href="/aied/journal">jarida</a>, ambalo lina <a href="/aied/rss.xml">mlipuko wa RSS</a> ikiwa unataka kufuatilia. Kwa usomaji wa nje ya mtandao, chukua <a href="/aied/aied.epub">EPUB</a> au <a href="/aied/aied.pdf">PDF</a>.`,
+  chatHtml: `Hifadhi yote ya maarifa pia inachapishwa kama faili zinazosomeka na mashine, hivyo unaweza kuelekeza chatbot au wakala wa AI kwenye hifadhi na kupata majibu yanayotaja kurasa. <a href="/aied/ai">Maelekezo yapo hapa</a>. Kurasa mpya zinaingia katika <a href="/aied/journal">jarida</a>, ambalo lina <a href="/aied/rss.xml">mlipuko wa RSS</a>. Kwa kusoma nje ya mtandao, pakua <a href="/aied/aied.epub">EPUB</a> au <a href="/aied/aied.pdf">PDF</a>.`,
   startingHeading: 'Pointi za kuanzia zinazopendekezwa kwa hadhira',
-  startingIntro: 'Hapa chini kuna baadhi ya dhana zinazopendekezwa za kuanzia katika hifadhi hii ya maarifa.',
+  startingIntro: 'Anza na kikundi kinacholingana na jukumu lako.',
   groups: [
     {
       id: 'essential-concepts',
       heading: 'Dhana muhimu',
-      html: `<a href="/aied/concepts/ai-literacy/">Ujuzi wa AI</a>, <a href="/aied/concepts/misconceptions/">mawazo ya upotofu kuhusu AI</a>, <a href="/aied/concepts/agentic-ai/">AI ya wakala</a>, <a href="/aied/concepts/cognitive-offloading/">kupunguza mzigo wa kiakili</a>, na <a href="/aied/concepts/interpreting-and-applying-aied-research/">jinsi ya kufasiri na kutumia utafiti huu</a>: yale matokeo yanayoweza kuyategemeza na yale hayawezi, na kwa nini utafiti mmoja mara chache hutatua swali.`,
+      html: `<a href="/aied/concepts/ai-literacy/">Ujuzi wa AI</a>, <a href="/aied/concepts/misconceptions/">mawazo ya upotofu kuhusu AI</a>, <a href="/aied/concepts/agentic-ai/">AI ya wakala</a>, <a href="/aied/concepts/cognitive-offloading/">kupunguza mzigo wa kiakili</a>, na <a href="/aied/concepts/interpreting-and-applying-aied-research/">jinsi ya kufasiri na kutumia utafiti huu</a>, ikiwa ni pamoja na kwa nini utafiti mmoja mara chache hutatua swali.`,
     },
     {
       id: 'instructors',
       heading: 'Wafundishi',
-      html: `<a href="/aied/concepts/teacher-role/">Jukumu la kufundisha linalobadilika</a>, <a href="/aied/concepts/learning-design/">muundo wa kujifunza</a>, <a href="/aied/concepts/assessment/">tathmini</a>, <a href="/aied/concepts/feedback/">maoni</a>, <a href="/aied/concepts/academic-integrity/">uadilifu wa kitaaluma</a>, <a href="/aied/concepts/framing-ai-use-for-students/">kuweka mipaka ya matumizi ya AI</a> na <a href="/aied/concepts/reducing-ai-misuse/">kupunguza matumizi mabaya</a>. Kwa zana, ushahidi, na mifano katika somo lako, tazama <a href="/aied/concepts/discipline-specific-aied/">AI katika fani yako</a>.`,
+      html: `<a href="/aied/concepts/teacher-role/">Jukumu la kufundisha linalobadilika</a>, <a href="/aied/concepts/learning-design/">muundo wa kujifunza</a>, <a href="/aied/concepts/assessment/">tathmini</a>, <a href="/aied/concepts/feedback/">maoni</a>, <a href="/aied/concepts/academic-integrity/">uadilifu wa kitaaluma</a>, <a href="/aied/concepts/framing-ai-use-for-students/">kuweka mipaka ya matumizi ya AI</a> na <a href="/aied/concepts/reducing-ai-misuse/">kupunguza matumizi mabaya</a>. Kwa zana na mifano maalum kwa somo lako, tazama <a href="/aied/concepts/discipline-specific-aied/">AI katika fani yako</a>.`,
     },
     {
       id: 'developers',
@@ -68,13 +68,13 @@ const sw: HomeStrings = {
   ],
   statsHeading: 'Kilicho katika hifadhi ya maarifa',
   statsIntro:
-    'Kila ukurasa hapa una tarehe, na hifadhi ya maarifa inakua kadiri utafiti mpya wa wazi unavyochapishwa na kupitiwa. Idadi zilizo chini zinasomwa kutoka maudhui ya sasa; tarehe ni sasisho la karibuni la ukurasa.',
+    'Kila ukurasa una tarehe, na idadi iliyo chini inaonyesha kilichochapishwa sasa hivi; tarehe ya "mara ya mwisho kusasishwa" mwishoni mwa orodha ni hariri ya hivi karibuni.',
   conceptMap: {
     title: 'Ramani ya dhana ya Akili Bandia katika Elimu',
     desc:
       'Ramani ya mduara yenye Akili Bandia katika Elimu katikati, iliyounganishwa kwa dhana kumi na mbili za kiwango cha juu: ' +
       'Kuunda Mfano, Kujifunza, Usawa, Maoni, Ujuzi wa AI, Tathmini, Fani, ' +
-      'Mbinu za Kufundisha, Maadili, Teknolojia, Tathmini, na Utafiti. Chagua nodi yoyote kufungua ukurasa wake.',
+      'Mbinu za Kufundisha, Maadili, Teknolojia, Tathmini, na Utafiti.',
     navLabel: 'Dhana za Akili Bandia katika Elimu',
     center: 'Akili Bandia katika Elimu',
     nodes: {

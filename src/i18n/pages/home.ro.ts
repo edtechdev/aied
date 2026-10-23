@@ -32,23 +32,23 @@ export interface HomeStrings {
 const ro: HomeStrings = {
   title: 'Acasă',
   h1: 'Baza de cunoștințe despre inteligența artificială în educație',
-  introHtml: `Bun venit la <strong>Baza de cunoștințe despre inteligența artificială în educație</strong> — o resursă gratuită, în domeniul public, despre <a href="/aied/concepts/ai-education/">inteligența artificială în educație</a>, pentru cei care predau, studiază, proiectează sau administrează educația. Ea distilează cercetarea recentă cu acces deschis în pagini scurte, structurate, pe care le poți cita și aplica. O notă despre modul în care este realizată: paginile sunt generate și actualizate de un agent AI, cu îndrumare editorială din partea dezvoltatorului site-ului. Fiecare afirmație indică lucrarea din spatele ei, așa că sursele pot fi verificate.`,
+  introHtml: `Bun venit la Baza de cunoștințe despre inteligența artificială în educație, o resursă gratuită, în domeniul public, despre <a href="/aied/concepts/ai-education/">inteligența artificială în educație</a>, pentru cei care predau, studiază, proiectează sau administrează educația. Ea rezumă și sintetizează cercetarea educațională recentă cu acces deschis. Un agent AI scrie și actualizează paginile, cu îndrumare editorială din partea dezvoltatorului site-ului.`,
   navHeading: 'Navigarea pe site',
-  navHtml: `Explorează indexul pe categorii din bara laterală din stânga pentru a vedea cum este organizat domeniul, sau <a href="/aied/search">caută</a> în întreaga bază de cunoștințe dacă ai deja o temă în minte. Paginile de articole condensate o lucrare în scopul, metodele și concluziile sale, cu citarea completă și linkuri către lucrări conexe; paginile de concepte adună ce spune cercetarea despre o idee și leagă studiile din spatele ei. Dacă preferi să pornești de la o întrebare, <a href="/aied/faq">indexul FAQ</a> adună cele mai frecvente întrebări ale vizitatorilor, de la politica AI a unui curs până la dacă ar trebui folosite detectoarele AI; dacă preferi să pornești de la un instrument, <a href="/aied/resources">pagina de resurse</a> listează instrumente, colecții și instrumente de măsurare gratuite pe care le poți folosi imediat, fiecare indicând cine a realizat-o și ce costă. Harta conceptuală de mai sus arată ce se leagă de ce; <a href="/aied/concepts/ai-education/">Inteligența artificială în educație</a> este pagina-hartă din spatele ei, grupând conceptele în circa o duzină de categorii cuprinzătoare.`,
+  navHtml: `Explorează indexul din bara laterală din stânga, organizat pe categorii, sau <a href="/aied/search">caută</a> o temă. Paginile de articole condensează o lucrare în scopul, metodele și concluziile sale; paginile de concepte adună ce spune cercetarea despre o idee și leagă studiile din spatele ei. Pentru a porni de la o întrebare, <a href="/aied/faq">FAQ</a> acoperă ce întreabă vizitatorii cel mai des, cum ar fi politica AI a unui curs sau dacă ar trebui folosite detectoarele AI. Pentru a porni de la un instrument, <a href="/aied/resources">pagina de resurse</a> listează instrumente și colecții gratuite, cu cine a realizat fiecare și cât costă. Harta de mai sus grupează domeniul în douăsprezece categorii, cu <a href="/aied/concepts/ai-education/">Inteligența artificială în educație</a> ca nod central.`,
   chatHeading: 'Discută cu baza de cunoștințe',
-  chatHtml: `Tot ce se află aici este publicat și ca fișiere lizibile de mașini, așa că poți îndrepta chatbotul sau agentul AI preferat către baza de cunoștințe și să obții răspunsuri care o citează în loc să ghicească — <a href="/aied/ai">prompturile sunt aici</a>. Paginile noi apar în <a href="/aied/journal">jurnal</a>, care are un <a href="/aied/rss.xml">flux RSS</a> dacă vrei să urmărești evoluția. Pentru citire offline, ia <a href="/aied/aied.epub">EPUB</a> sau <a href="/aied/aied.pdf">PDF</a>.`,
+  chatHtml: `Întreaga bază de cunoștințe este publicată și ca fișiere lizibile de mașini, așa că poți îndrepta un chatbot sau agent AI către ea și primi răspunsuri care citează paginile. <a href="/aied/ai">Prompturile sunt aici</a>. Paginile noi intră în <a href="/aied/journal">jurnal</a>, care are un <a href="/aied/rss.xml">flux RSS</a>. Pentru citire offline, descarcă <a href="/aied/aied.epub">EPUB</a> sau <a href="/aied/aied.pdf">PDF</a>.`,
   startingHeading: 'Puncte de plecare recomandate, pe categorii de public',
-  startingIntro: 'Mai jos sunt câteva concepte recomandate de la care poți începe în această bază de cunoștințe.',
+  startingIntro: 'Începe cu grupul care corespunde rolului tău.',
   groups: [
     {
       id: 'essential-concepts',
       heading: 'Concepte fundamentale',
-      html: `<a href="/aied/concepts/ai-literacy/">Cultura despre AI</a>, <a href="/aied/concepts/misconceptions/">neînțelegeri despre AI</a>, <a href="/aied/concepts/agentic-ai/">AI agentic</a>, <a href="/aied/concepts/cognitive-offloading/">descărcare cognitivă</a> și <a href="/aied/concepts/interpreting-and-applying-aied-research/">cum să interpretezi și să aplici această cercetare</a>: ce pot și ce nu pot susține concluziile, și de ce un singur studiu rareori rezolvă o întrebare.`,
+      html: `<a href="/aied/concepts/ai-literacy/">Cultura despre AI</a>, <a href="/aied/concepts/misconceptions/">neînțelegeri despre AI</a>, <a href="/aied/concepts/agentic-ai/">AI agentic</a>, <a href="/aied/concepts/cognitive-offloading/">descărcare cognitivă</a> și <a href="/aied/concepts/interpreting-and-applying-aied-research/">cum să interpretezi și să aplici această cercetare</a>, inclusiv de ce un singur studiu rareori rezolvă o întrebare.`,
     },
     {
       id: 'instructors',
       heading: 'Cadre didactice',
-      html: `<a href="/aied/concepts/teacher-role/">Rolul didactic în schimbare</a>, <a href="/aied/concepts/learning-design/">proiectarea învățării</a>, <a href="/aied/concepts/assessment/">evaluarea</a>, <a href="/aied/concepts/feedback/">feedback</a>, <a href="/aied/concepts/academic-integrity/">integritatea academică</a>, <a href="/aied/concepts/framing-ai-use-for-students/">încadrarea utilizării AI</a> și <a href="/aied/concepts/reducing-ai-misuse/">reducerea utilizării abuzive</a>. Pentru instrumente, dovezi și exemple din propria disciplină, vezi <a href="/aied/concepts/discipline-specific-aied/">AI în propria disciplină</a>.`,
+      html: `<a href="/aied/concepts/teacher-role/">Rolul didactic în schimbare</a>, <a href="/aied/concepts/learning-design/">proiectarea învățării</a>, <a href="/aied/concepts/assessment/">evaluarea</a>, <a href="/aied/concepts/feedback/">feedback</a>, <a href="/aied/concepts/academic-integrity/">integritatea academică</a>, <a href="/aied/concepts/framing-ai-use-for-students/">încadrarea utilizării AI</a> și <a href="/aied/concepts/reducing-ai-misuse/">reducerea utilizării abuzive</a>. Pentru instrumente și exemple specifice disciplinei tale, vezi <a href="/aied/concepts/discipline-specific-aied/">AI în propria disciplină</a>.`,
     },
     {
       id: 'developers',
@@ -68,13 +68,13 @@ const ro: HomeStrings = {
   ],
   statsHeading: 'Ce conține baza de cunoștințe',
   statsIntro:
-    'Fiecare pagină de aici este datată, iar baza de cunoștințe crește pe măsură ce cercetări noi cu acces deschis sunt publicate și analizate. Numerele de mai jos sunt citite din conținutul actual; data este cea mai recentă actualizare a unei pagini.',
+    'Fiecare pagină este datată, iar numerele de mai jos reflectă ce este publicat chiar acum; data „ultimei actualizări” de la sfârșitul listei este cea mai recentă modificare.',
   conceptMap: {
     title: 'Harta conceptuală a inteligenței artificiale în educație',
     desc:
       'O hartă radială cu inteligența artificială în educație în centru, conectată la douăsprezece concepte de nivel superior: ' +
       'Modelare, Învățare, Echitate, Feedback, Cultură despre AI, Evaluare, Discipline, Pedagogie, ' +
-      'Etică, Tehnologii, Evaluare AIEd și Cercetare. Selectează orice nod pentru a-i deschide pagina.',
+      'Etică, Tehnologii, Evaluare AIEd și Cercetare.',
     navLabel: 'Concepte despre inteligența artificială în educație',
     center: 'Inteligența artificială în educație',
     nodes: {
