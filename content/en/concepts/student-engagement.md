@@ -1,7 +1,7 @@
 ---
 title: Student Engagement
 created: "2026-08-13T05:32:35-04:00"
-updated: "2026-10-08T09:45:00-04:00"
+updated: "2026-10-23T09:20:00-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [motivation, self-regulated-learning, student-engagement]
@@ -34,6 +34,7 @@ Engagement is a multidimensional construct rooted in educational psychology. **B
 - **Engagement gain without a learning gain, in a cluster-randomized classroom trial:** [[domain-specific-chatbot-stem-enthusiasm-2025|Rücker and Becker-Genschow (2025)]] randomized 195 ninth-grade classes (experimental group 102 students) to a domain-specific mathematics chatbot or to conventional differentiation materials for a single lesson on the Heron method of estimating square roots. Situational interest rose substantially in the chatbot condition (M = 2.63 vs 2.43, p = 0.00005, Cohen's d = 0.63) and acceptance on all four [[technology-acceptance-model|Technology Acceptance Model]] dimensions was high, yet the pre-post performance comparison found no significant group-by-time interaction (F(1194) = 2.84, p = 0.094) and extrinsic cognitive load was slightly higher. The study is one of the few cluster-randomized tests of a customized chatbot in [[k-12|secondary]] [[math-education|mathematics]], and its split result is the point: interest and [[learning-gains|achievement]] moved on different schedules, so an engagement finding is not evidence of learning.
 
 - **Quality over quantity:** [[critical-engagement-code-completion|Critical engagement in AI code completion]], [[icap-cognitive-engagement-llm-agents|cognitive-engagement discourse analysis]], and [[scaffolding-critical-engagement-genai-minority-students|scaffolding critical engagement]] show that *deep* (cognitive) engagement with AI predicts learning, while *shallow* (behavioral) engagement predicts the [[cognitive-offloading|Over-Reliance]] and learning displacement that dominate the knowledge base's risk literature.
+- **Agentic engagement and AI feedback literacy develop together.** Three waves six weeks apart in 399 undergraduates showed within-person paths in both directions (β = 0.222 and β = 0.263), so engagement is not only an outcome of design but part of what builds the capacity to use feedback ([[ai-feedback-literacy-agentic-engagement-panel-2026|Xu (2026)]]).
 
 - **Fragile and context-dependent:** [[polished-artifacts-fragile-engagement-2026|Polished artifacts, fragile engagement]] and [[genai-tutor-engagement-patterns|multi-institution engagement patterns]] find engagement varies by task, context, and learner — an AI tool that engages one student deeply may produce shallow, output-chasing behavior in another.
 
@@ -123,6 +124,7 @@ Student engagement connects to [[motivation]] and [[self-determination-theory]] 
 - [[self-report-measures]]
 - [[productive-failure]]
 ## Connected Articles
+- [[ai-feedback-literacy-agentic-engagement-panel-2026]] — AI feedback literacy and agentic engagement: a three-wave random-intercept panel (Xu 2026)
 
 - [[rho-disengaged-conversational-behaviors-2026]] — Disengaged conversational behaviors and learning in student-AI dialogues (Rho et al. 2026)
 

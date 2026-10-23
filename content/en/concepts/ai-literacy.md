@@ -1,7 +1,7 @@
 ---
 title: AI Literacy
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-10-22T10:05:00-04:00"
+updated: "2026-10-23T09:20:00-04:00"
 type: concept
 foundations: [academic-integrity, ai-education, ai-literacy, educational-development]
 technology: [generative-ai, llm]
@@ -58,6 +58,7 @@ Research points to [[collaborative-learning|collaborative]] and [[active-learnin
 **[[writing-education|Composition]] starts from lived experience — but concept depth needs scaffolding.** [[burriss-multimodal-composition-critical-ai-literacy-2026|Burriss et al. (2026)]] found that youth anchored abstract AI [[ethics]] principles in systems they encounter daily — electronic "hall passes," school-regulated laptops, plagiarism detectors — with one group explaining that AI in schools "was personal to all group members," and 15 of 18 end-of-unit survey responses reported that making the video changed their understanding of AI ethics. The authors are explicit about the limit: composing did not by itself guarantee conceptual grounding — "informed consent" was translated as "We gotta approve," and some terms (e.g., "failsafe") were never explained, prompting them to plan deeper conceptual work in later iterations. [[creativity|Creative]] production develops AI literacy best when explicit conceptual [[scaffolding]] accompanies the making rather than being assumed to emerge from it.
 
 **AI intuition as the experiential complement to literacy.** A recurring gap is that K-12 frameworks assume learners approach AI through declarative, rule-based knowledge, when in practice they first develop a practical "feel" for how AI responds — experimenting with prompts, observing behavior, adapting strategies — before they can articulate formal principles. [[ai-intuition-ai-literacy-k12-2026|Beau & Lazar (2026)]] formalize this as **AI intuition**: an experiential, inductive, often tacit understanding that develops through iterative interaction with AI systems and supports context-sensitive judgment under uncertainty. Their **dual framework** situates AI literacy (structured, largely static competencies) alongside AI intuition (a dynamic learning process), mapping both across the standard dimensions — understand concepts, use tools, evaluate critically, apply ethically, reflect — so learners combine conceptual clarity and [[guardrails]] (literacy) with the practical wisdom to trust-but-verify and decide when to disengage (intuition). Because intuition cultivates "expert observation" of AI (e.g. stress-testing prompts to find where a model fails), the authors argue it is a safeguard against [[cognitive-offloading|over-reliance]] and critical-thinking erosion; it is distinct from [[prompt-engineering]] (which optimizes outputs) in foregrounding *epistemic judgment*. This connects literacy to [[experiential-learning]], [[constructivist]], and developmentally grounded classroom practice, and points teacher preparation toward facilitating inductive exploration rather than only delivering concepts.
+**For young children, literacy is nested rather than foundational.** A review of 86 resources places AI literacy inside a five-domain competency set where executive functions and learning dispositions do the coordinating, arguing it "cannot be standalone" for children aged 0 to 8 ([[early-childhood-ai-holistic-competencies-review-2026|Pei (2026)]]).
 
 **Motivation is a precondition, not just an outcome.** [[liang-ai-learning-motivation-sdt-2026|Liang et al. (2026)]] found, across 2,086 secondary students in a year-long AI curriculum, that students who transitioned into or remained in a *Self-Determined* [[motivation|motivational]] profile (high autonomy, competence, and relatedness need satisfaction) showed the **greatest AI-literacy gains**. AI literacy develops through sustained engagement, and that engagement is itself shaped by motivation and psychological-need support — so effective AI-literacy instruction should attend to learners' motivation, not only their skills.
 
@@ -221,6 +222,7 @@ AI literacy is **double-edged** for overreliance: [[student-dependency-on-ai-lit
 - [[career-development-and-readiness]] — the employability payoff AI literacy is argued to build
 - [[ai-education]] — the broader field
 ## Connected Articles
+- [[early-childhood-ai-holistic-competencies-review-2026]] — Shaping early childhood in the age of AI: competencies, pedagogy and ecological support (Pei 2026)
 - [[ai-security-literacy-k12-framework-2026]] — AI Security Literacy: Ecosystem-based Competency Framework and K-12 Learning Platform
 - [[mu-ai-competence-ethical-awareness-anxiety-2026]] - Raising the ethical dimension of literacy without a coping framework can leave students more anxious
 - [[caeai-digital-literacy-frameworks-review-2026]] — 80 validated frameworks show AI expanding digital literacy toward ethics while educator human–AI collaboration stays under-specified (Guo et al. 2026)

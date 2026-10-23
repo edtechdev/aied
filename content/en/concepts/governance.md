@@ -1,7 +1,7 @@
 ---
 title: AI Governance
 created: "2026-08-13T18:17:22-04:00"
-updated: "2026-10-16T07:28:51-04:00"
+updated: "2026-10-23T09:20:00-04:00"
 type: concept
 foundations: [ai-education]
 ethics: [ethics, privacy]
@@ -46,6 +46,7 @@ AI governance in education is increasingly urgent because [[generative-ai|genera
 - **Policy ambiguity and student experience:** [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination|Students' engagement with GenAI]] found 12/23 students noted the lack of explicit institutional AI policies ("University doesn't have a clear and unified policy yet"), arguing governance ambiguity shapes students' practices, norms, and [[self-regulated-learning|self-regulation]] — supporting a shift toward transparent institutional guidance.
 
 - **AI literacy as a governance capacity ("the 18th SDG"):** [[ai-literacy-sdg-governance-framework-2026|Islam, Morshed, and Islam (2026)]] reconceptualize AI literacy as a systemic governance mechanism rather than a classroom skill, proposing a six-level AIRE Taxonomy (Recognize → Comprehend → Apply → Analyze → Integrate → Govern) that extends Bloom's hierarchy with ethical synthesis and strategic foresight, and an AI–SDG Nexus mapping literacy competencies onto all seventeen [[sustainability|Sustainable Development Goals]]. Framing AI literacy as an "18th SDG" heuristic — a cross-cutting capacity that channels learning into governance and sustainable development — the study's survey of 300 professionals found governance literacy the strongest predictor of AI–SDG nexus awareness (β = 0.64, r = 0.67 with nexus awareness) and identified ethical reasoning and reflective thinking as the strongest predictors of trustworthy AI use. This ties institutional governance to the cultivation of public [[ai-literacy]], echoing the knowledge base's finding that responsible AI alignment requires [[stakeholders|policymakers]] and citizens who can critically interpret algorithmic systems, not merely compliance-oriented technical control.
+- **Most education governance is guidance, not law.** Across 160 English-language documents, only 4 took formal legal or regulatory form while 92 were guidance, frameworks or toolkits, and accountability appeared in 146 documents but paired with a named oversight actor in 100 ([[generative-ai-governance-education-scoping-review-2026|Elmahjub et al. (2026)]]).
 
 - **Academic integrity and assessment:** Governance is central to how institutions handle AI-related [[academic-integrity]] concerns and redesign [[assessment]] — moving from prohibition/policing toward guidance, AI literacy, and process-oriented designs, as seen in research on [[student-rationalization-ai-writing|student rationalization]] and [[beyond-detection-authentic-assessment-ai-2025|authentic assessment redesign]].
 - **Redesign runs on three dimensions at once.** [[assessment-redesign-critical-practice-2026|Laidlaw (2026)]] frames AI-era assessment redesign through cultural-discursive (language and assumptions), material-economic (resources), and social-political (governance and power) dimensions, and names the resource-power intersection as both the greatest leverage point and the greatest risk: resources flowing through existing power structures amplify inequities.
@@ -121,6 +122,7 @@ Governance is distinct from — but inseparable from — [[educational-policy-ai
 - [[student-support-and-success]] — oversight for institutional AI support systems
 
 ## Connected Articles
+- [[generative-ai-governance-education-scoping-review-2026]] — Generative AI governance in education: a scoping review of principles, mechanisms and risks (Elmahjub et al. 2026)
 - [[ai-literacy-sdg-governance-framework-2026]] — AI literacy as a governance capacity for sustainable development: the AIRE Taxonomy and AI–SDG Nexus (Islam, Morshed & Islam 2026)
 - [[tan-aigem-ai-educational-management-2026]] — AIGEM framework for AI governance in educational management
 - [[institutional-ai-policy-health-informatics-2026]] — AI policy and guidance documents across 48 CAHIIM-accredited health informatics programs: governance as non-binding, integrity-centric guidance (Eldredge et al. 2026)

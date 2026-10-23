@@ -1,7 +1,7 @@
 ---
 title: Educational AI Policy
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-22T12:02:21-04:00"
+updated: "2026-10-23T09:20:00-04:00"
 type: concept
 foundations: [academic-integrity, educational-development]
 ethics: [equity-in-ai-education, ethics]
@@ -43,6 +43,7 @@ Where consensus has formed to fill that gap, [[crompton-governing-genai-higher-e
 **National AI readiness does not predict institutional policy strength.** [[adarkwah-genai-unesco-policy-2026|Adarkwah et al. (2026)]] scored 26 universities from ten high-AIPI countries against UNESCO's eight-component GenAI framework and found Nordic and New Zealand institutions covered it more fully than higher-ranked peers, while inclusion, equity, and sustainability were the most neglected elements.
 
 **Advisory documents outnumber binding policy.** A census of every accredited program in one professional field shows that the maturity gap is one of form as well as timing. [[institutional-ai-policy-health-informatics-2026|Eldredge et al. (2026)]] collected AI policy and guidance documents from all 48 CAHIIM-accredited health informatics and health information management master's programs in the United States and found that 40 (83%) had at least one publicly available AI-related document while 8 had none, but that the documents were mostly guidance rather than enforceable rules: 21 guidelines (53%) against 7 formal policies (18%). Their content centered on academic integrity and acceptable use, with privacy, intellectual property, and regulatory concepts (HIPAA, FERPA, research compliance) appearing far less often, and topic modeling returned the same student-conduct emphasis. Neither document type nor intended audience varied by delivery mode (Fisher's exact P = .85 and P = .71). The authors read this as evidence that academic program policy is a distinct activity from curriculum design and workforce competency development, and argue that accrediting bodies could reduce the resulting variation by providing AI policy frameworks that integrate academic integrity, data ethics, and equitable access.
+**Legal form is rarer than legal language.** In a 160-document scoping review, 2.5% of instruments carried legal force while 57.5% were guidance or toolkits, and only 3 of the 131 documents invoking legal controls were themselves legal instruments ([[generative-ai-governance-education-scoping-review-2026|Elmahjub et al. (2026)]]).
 
 A UK systematic review adds a sectoral layer to the same gap: infrastructure investment and staff AI training concentrate in research-intensive (Russell Group) universities while teaching-led (post-92) institutions face capacity constraints, and only a minority of UK institutions maintain official AI governance plans ([[ai-uk-higher-education-policy-2026|Ashiq (2026)]]).
 
@@ -114,6 +115,7 @@ A [[meta-analysis-systematic-review|systematic review]] of 65 papers at the inte
 - [[student-support-and-success]] — the policy context for institutional support deployment
 
 ## Connected Articles
+- [[generative-ai-governance-education-scoping-review-2026]] — Generative AI governance in education: a scoping review of principles, mechanisms and risks (Elmahjub et al. 2026)
 
 - [[sessional-academics-contract-cheating-digital-misconduct-2026]] — Unit-level rules that students cannot reconcile
 - [[tench-ai-policy-isnt-a-playbook-2026]] — A nationally representative survey of US teachers and principals on AI policy coverage, agency, and five classroom plays (Tench, Weinstein & James 2026)

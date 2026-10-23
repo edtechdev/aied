@@ -1,7 +1,7 @@
 ---
 title: AI Ed Evaluation
 created: "2026-05-29T10:44:35-04:00"
-updated: "2026-10-22T10:05:00-04:00"
+updated: "2026-10-23T09:20:00-04:00"
 type: concept
 foundations: [agentic-ai, teacher-role]
 technology: [generative-ai, human-in-the-loop-ai, llm]
@@ -37,6 +37,7 @@ The field's decade-long arc is itself a frame: [[xiong-ai-educational-measuremen
 
 - **Automated grading and scoring:** [[cong-confidence-asag-2026|LLM short-answer grading]], [[cong-confidence-asag-2026|confidence-aware ASAG]], [[cotal-formative-assessment-scoring-2026|CoTAL human-in-the-loop prompt engineering]], and [[llm-cognitive-diagnosis-handwritten-math|cognitive-diagnosis of handwritten math]] show that LLMs can grade and diagnose, but that reliability depends on [[human-in-the-loop-ai|human oversight]], domain-specific grounding, and confidence calibration rather than raw model size.
 - **A benchmark for pedagogical knowledge rather than content.** [[cdpk-pedagogy-benchmark-llms|Lelièvre et al. (2025)]] score 97 models on Chilean teacher-exam items (CDPK 28–89%), many exceeding an estimated ~50% human baseline, yet the static multiple-choice items cannot test lesson planning or turn-by-turn scaffolding.
+- **Recognition is not generation.** On TutorCaseBench, 11 models picked a documented strategy on 63.0% of four-option items but satisfied a documented intervention in only 55.8% of free-response cases, so strategy-selection scores overstate tutor readiness ([[tutor-case-bench-challenging-behaviors-2026|Park et al. (2026)]]).
 
 - **Validating generated items against a psychometric benchmark.** [[assessing-quality-ai-generated-exams-field-2025|Isley et al. (2025)]] generated course-tailored exams for 71 classes and benchmarked 20 more against human-authored AP Statistics items, fitting a Bayesian hierarchical 2PL [[item-response-theory|IRT]] model with pre-test anchors across 1,686 students; the AI items were easier but more discriminating (ᾱ = 1.3 vs. 1.2).
 
@@ -122,6 +123,7 @@ Context-conditioned benchmarks are needed: [[zhang-tutormoments-2026|Zhang et al
 - [[intelligent-tutoring]] — Evaluating AI tutoring systems
 - [[agentic-ai]] — Evaluating autonomous AI agent behavior
 ## Connected Articles
+- [[tutor-case-bench-challenging-behaviors-2026]] — TutorCaseBench: evaluating LLM tutors on students with challenging behaviors (Park et al. 2026)
 - [[vira-bench-pedagogical-contingency-tutoring-videos-2026]] — VIRA-Bench: Diagnosing Pedagogical Contingency Understanding in Online Tutoring Videos
 - [[zhang-platform-scores-miss-ai-teaching-agents-2026]] — What platform scores miss: multidimensional evaluation of AI teaching agents
 - [[assessment-latent-structure-human-llm-2026]] — Do assessment instruments measure the same thing for humans and LLMs? (Strugatski et al. 2026)
