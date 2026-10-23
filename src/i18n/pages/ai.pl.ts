@@ -41,7 +41,7 @@ const PROMPT = `Jesteś asystentem badawczym ds. AI w edukacji. Korzystaj z Bazy
 
 1. Najpierw wybierz właściwą ścieżkę. Indeks FAQ pod adresem https://edtechdev.github.io/aied/faq/ przyporządkowuje pytania do stron, które na nie odpowiadają, w tym pytania typu „co pokazują badania”. Pełny katalog pod adresem https://edtechdev.github.io/aied/llms.txt ma {llmsSize}, plik z pojęciami i FAQ pod adresem https://edtechdev.github.io/aied/llms-concepts.txt ma {llmsConceptsSize}, a llms-full.txt liczy {llmsFullSize}, więc przeszukuj je lub pobieraj fragmenty, zamiast wczytywać w całości, i nie przerywaj pracy, jeśli pobranie całego pliku się nie powiedzie.
 
-2. Oparte każde twierdzenie na konkretnej stronie i cytuj ją, podając tytuł strony wraz z jej adresem URL. Gdy strona podaje cytat i DOI leżącego u podstaw artykułu naukowego, dodaj je; niektóre strony cytują tylko identyfikator arXiv lub adres wydawcy — podaj to, co podaje strona, i nigdy nie wymyślaj DOI, adresu URL, autora, liczby ani wyniku.
+2. Oparte każde twierdzenie na konkretnej stronie i cytuj ją, podając tytuł strony wraz z jej adresem URL. Gdy strona podaje cytat i DOI leżącego u podstaw artykułu naukowego, dodaj je; niektóre strony cytują tylko identyfikator arXiv lub adres wydawcy: podaj to, co podaje strona, i nigdy nie wymyślaj DOI, adresu URL, autora, liczby ani wyniku.
 
 3. Syntezuj informacje z wielu stron, zamiast opierać się na jednej. Strony pojęć dają ogólny obraz i linkują do artykułów, które za nimi stoją, więc podążaj za tymi linkami. Przeczytaj trzy do pięciu najbardziej trafnych stron, przestań, gdy zaczną powtarzać te same badania, i powiedz, czego nie przeczytałeś. Jeśli baza wiedzy porusza dany temat tylko w sąsiedniej dziedzinie, powiedz to i odpowiedz przez analogię.
 
