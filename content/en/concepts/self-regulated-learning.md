@@ -2,7 +2,7 @@
 connected_resources: [process-feedback]
 title: Self-Regulated Learning
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-10-22T09:11:45-04:00"
+updated: "2026-10-23T09:20:00-04:00"
 type: concept
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
 technology: [generative-ai, llm, personalized-learning]
@@ -98,6 +98,7 @@ Governance of the tool is itself a measurable facet: a two-wave validation with 
 
 
 Classify before delegating: [[scan-framework-task-assignment-generative-ai-2025|Tsim and Gutoreva (2025)]] turn self-regulation into a per-task protocol — label each subtask Substitute, Complement, Aid or Non-negotiable, justify it in a short metacognitive note, and keep an audit trail of prompts, drafts and human revisions — with the cycle repeating so one task's assignment informs the next.
+**Every prompt as a regulatory trace.** Reading 429 prompts from 23 students as self-regulated learning events showed the structure mix shifting with task design while 53 of 59 submissions stayed close to the model's output, locating regulation in the exchange rather than the artifact ([[llm-math-homework-offloading-traces-2026|Kontorovich & Wallach (2026)]]).
 **The interaction itself as an object of regulation.** [[brunnstrom-ai-interaction-literacy-srl-2026|Brunnström and Palmqvist (2026)]] document the same regulation demand from the other direction: in an eight-round demonstration using a chatbot to prepare a take-home [[summative-assessment|examination]] answer, the AI's default output stayed at the *[[quantitative-research|quantitative]]*, multistructural end of the SOLO taxonomy — polished, submission-ready and pedagogically thin — and reached a usable three-step learning loop only after repeated meta-level interventions ("this is overwhelming, can you condense it?"). Their conclusion is that productive use required "the very self-regulatory skills the tool was expected to support": the learner must set incremental goals, request difficulty adjustments, and reflect on what is not yet understood, on top of the disciplinary content itself. They name this capacity [[ai-literacy|AI-interaction literacy]] and treat disengaging from the tool as a legitimate regulatory decision rather than a failure of persistence ([[metacognition]]).
 
 - **Satisfaction is not self-regulation.** [[aigc-affordance-student-self-regulation-2026|Liang et al. (2026)]] surveyed 689 undergraduates in industry-education programs and tested a serial mediation model in which the perceived affordances of AI-generated content raise AIGC [[self-efficacy]] (beta = 0.583) and, through it, learning [[motivation]] (beta = 0.565) and self-regulated learning (beta = 0.250), with motivation the heaviest single predictor of SRL (beta = 0.527). The load-bearing negative results sit alongside those paths: the quality of AI assessment feedback predicted satisfaction strongly (beta = 0.712) but not self-efficacy (beta = 0.131), and satisfaction had no significant effect on self-regulated learning (beta = 0.032). A well-liked, well-functioning assistant is therefore not evidence that regulation improved — the mechanism runs through confidence and motivation, not through the learner's experience of the tool.
@@ -191,6 +192,7 @@ Which support is in play decides which mediator carries the association: among 3
 - [[cognitive-surrender]]
 
 ## Connected Articles
+- [[llm-math-homework-offloading-traces-2026]] — What the submission does not show: complexifying cognitive offloading in students’ mathematical work with LLMs (Kontorovich & Wallach 2026)
 - [[genai-curriculum-analytics-mapping-higher-ed-2026]] — Model over-attribution of self-regulation from shallow cues in curriculum mapping (Jayalath et al. 2026)
 - [[aigc-affordance-student-self-regulation-2026]] — AIGC Affordance and Student Self-Regulation
 - [[brunnstrom-ai-interaction-literacy-srl-2026]] — AI-interaction literacy: steering a chatbot demanded the SRL it was meant to support (Brunnström & Palmqvist 2026)

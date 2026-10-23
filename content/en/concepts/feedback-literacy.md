@@ -1,7 +1,7 @@
 ---
 title: Feedback Literacy
 created: "2026-08-15T19:02:13-04:00"
-updated: "2026-10-20T09:40:00-04:00"
+updated: "2026-10-23T09:20:00-04:00"
 type: concept
 connected_faqs: [writing-instruction-ai-best-practices, ai-feedback-at-scale]
 foundations: [ai-literacy]
@@ -44,6 +44,7 @@ Feedback literacy is widely framed as a set of interrelated capabilities — the
 - **Feedback literacy as the pathway from GenAI use to critical thinking:** in 421 Chinese undergraduates, GenAI use's association with [[self-report-measures|self-reported]] critical thinking ran almost entirely through GenAI feedback literacy (β=0.185, 71.98% of the total effect), and that pathway strengthened as reflective thinking rose (index of moderated mediation = 0.030) ([[genai-use-critical-thinking-moderation-2026|Yan et al. (2026)]]).
 
 - **Feedback literacy predicts learning from AI-assisted writing:** [[hawkins-feedback-literacy-ai-essay-writing|Hawkins et al. (2026)]] find that feedback literacy was the only significant positive predictor of essay grade in an AI-enhanced essay-writing task, while [[liu-deris-ai-feedback-literacy-uptake|Liu & Deris (2025)]] develop and validate an AI Feedback Literacy (AIFL) scale and show it predicts feedback uptake.
+- **The literacy–engagement loop runs both ways.** A three-wave random-intercept panel of 399 Chinese undergraduates found AI feedback literacy predicting later agentic engagement (β = 0.222) and the reverse path just as strong (β = 0.263), with a Wald test unable to separate their sizes ([[ai-feedback-literacy-agentic-engagement-panel-2026|Xu (2026)]]).
 
 **A rival disposition: reward sensitivity.** Grade-based reward sensitivity weakened the credibility–perceived-learning link for [[chatgpt-feedback-credibility-perceived-learning|Pérez-López et al. (2026)]] (simple slopes 0.733, 0.607 and 0.483 at low, mean and high sensitivity), locating students' instrumental orientation to marks where feedback-literacy research locates a cultivable disposition to use feedback.
 - **Comprehension, not actionability, carried the revision payoff.** Across three writing-feedback-revision cycles in two intact classes of 48 students each, comprehension was the dimension most associated with revision quality (r = 0.501), ahead of actionability (r = 0.480) and diagnostic accuracy (r = 0.445); an interpretation sheet read before independent revision is what the diagnostic condition added ([[automated-scoring-learning-diagnosis-mechanism-2026|Yao & Fan (2026)]]).
@@ -95,6 +96,7 @@ Acting on feedback is not the same as improving the artifact. Among 22 pre-servi
 - [[higher-ed]]
 
 ## Connected Articles
+- [[ai-feedback-literacy-agentic-engagement-panel-2026]] — AI feedback literacy and agentic engagement: a three-wave random-intercept panel (Xu 2026)
 - [[ai-feedback-literacy-assessment-as-learning-2026]] — Generating rubric-graded work samples to teach feedback literacy (Pennington & Hock 2026)
 - [[ai-peer-feedback-stem-teacher-education-2026]] — Selective uptake without artifact improvement: the feedback translation gap (Oh 2026)
 - [[brunnstrom-ai-interaction-literacy-srl-2026]] — AI feedback without teacher framing raises the feedback-literacy bar (Brunnström & Palmqvist 2026)

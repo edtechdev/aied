@@ -1,7 +1,7 @@
 ---
 title: Early Childhood Education
 created: "2026-08-25T13:30:00-04:00"
-updated: "2026-10-15T10:00:00-04:00"
+updated: "2026-10-23T09:20:00-04:00"
 type: concept
 foundations: [ai-education, ai-literacy, computational-thinking]
 pedagogy: [well-being]
@@ -37,6 +37,7 @@ Young children interact with AI increasingly early — through AI-enabled toys, 
 - **Elementary subject learning.** [[ai-powered-personalized-learning-elementary-fractions-2026|AI-powered personalized learning]] in elementary fractions and [[awareness-technological-isomorphism|AI in elementary math]] (including concerns about "technological isomorphism" — students mimicking AI output without understanding) show both the promise and the pitfalls of AI in early subject instruction. [[elementary-writing-genai-systematic-review-2026|A systematic review of elementary writing and GenAI]] maps how [[generative-ai|generative AI]] is reshaping [[writing-education|writing instruction]] in the early grades.
 
 - **Robots and young children.** [[tsingidou-ct-robotics-kindergarten-2026|Robotics in kindergarten]] supports computational thinking through [[educational-robotics|educational robots]], and [[icub-humanoid-storytelling-llm-hri-2025|LLM-powered humanoid storytelling]] explores whether parents will accept robots as narrative play partners for their children — foregrounding [[trust]] and adult attitudes.
+- **A competency set, not an AI-literacy curriculum.** A review of 86 resources argues AI literacy "cannot be standalone" for children aged 0 to 8 and nests it among executive functions, well-being, learning dispositions, and foundational skills, though only 26 of the 86 resources were empirical ([[early-childhood-ai-holistic-competencies-review-2026|Pei (2026)]]).
 
 - **A "Creative Project Approach" framework for AI agents and robotics.** [[creative-project-approach-ai-early-childhood-2025|Yang, Li and Lee (2025)]] propose a five-step pedagogical framework that integrates [[generative-ai|generative AI]] agents and robots into the Project Approach to foster young children's [[creativity|creative learning]]. They argue physical agents are more appropriate than screens for young children, and pair two complementary paradigms with their [[learning-theories|learning theories]] — **coding robots** (Papert's [[constructivist|constructionism]]; [[computational-thinking|computational thinking]] through tangible programming with tools like Matatalab and KIBO) and **generative social robots** ([[sociocultural-learning|Vygotskian]] scaffolding within the child's Zone of Proximal Development, acting as conversational peers or tutors). The five steps — identify learning needs, facilitate teacher-guided child–robot interaction, situate AI in contexts, calibrate the automation/creativity balance, and evaluate outcomes — offer designers and ECE practitioners a concrete route for embedding [[agentic-ai|AI agents]] and [[educational-robotics|robots]] in play-based, project-based classrooms while preserving teacher facilitation and child [[agency]].
 
@@ -78,6 +79,7 @@ A first neuroimaging window on this question arrives with a caution: 6–7-year-
 - [[digital-divide]]
 - [[parents-and-families]]
 ## Connected Articles
+- [[early-childhood-ai-holistic-competencies-review-2026]] — Shaping early childhood in the age of AI: competencies, pedagogy and ecological support (Pei 2026)
 
 - [[preservice-early-childhood-genai-magnetism-2026]] — Preservice Early Childhood Educators' Engagement with Generative AI in Science Activity Design: The Case of Magnetism
 - [[clara-developmental-appropriateness-children-stories-2026]] — CLARA: Can AI Assess Developmental Appropriateness in Children's Stories?

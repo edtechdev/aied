@@ -2,7 +2,7 @@
 connected_resources: [teacherserver]
 title: Special Education
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-21T10:45:00-04:00"
+updated: "2026-10-23T09:20:00-04:00"
 type: concept
 foundations: [ai-education]
 ethics: [equity-in-ai-education, inclusive-learning, neurodiversity]
@@ -40,6 +40,7 @@ Special education is a domain where AI's capacity for personalization and adapta
 **AI-generated intervention content needs pre-generation controls, not only review.** [[adapted-stories-social-story-intervention-2026|Enkhjargal et al. (2026)]] found practitioners rated the co-designed Social Story tool highly usable (SUS 86.8) yet called its images generically Western and its behavior tracker mismatched to goal-linked clinical judgment — constraints they would have set before generation.
 
 [[vlm-task-planning-humanoid-robot-autism-education-2026|Kudláčková (2026)]] starts from the materials rather than from conversation: a vision-language model reads photographs of Shoebox Tasks — designed so the goal is visible in the objects — and turns them into a plan a Nao humanoid executes or demonstrates, reporting plan accuracy across six tasks and no learner data.
+- **Challenging behavior is where tutor benchmarks stop.** Of 923 case-grounded dialogues drawn from special-education and educational-psychology literature, the best of 11 models satisfied a documented intervention in 55.8% of open-ended cases and 43.3% of long-term plans ([[tutor-case-bench-challenging-behaviors-2026|Park et al. (2026)]]).
 
 ## Implications for special-education instructors
 
@@ -67,6 +68,7 @@ Special education is a domain where AI's capacity for personalization and adapta
 - [[discipline-specific-aied]]
 
 ## Connected Articles
+- [[tutor-case-bench-challenging-behaviors-2026]] — TutorCaseBench: evaluating LLM tutors on students with challenging behaviors (Park et al. 2026)
 - [[seung-basham-cognitive-offloading-swld-2026]] — GenAI cognitive offloading for students with learning disabilities
 - [[special-r1-rl-special-education]]
 - [[dyslexlens-dyslexic-learners-ai]]

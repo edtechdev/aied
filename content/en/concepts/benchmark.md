@@ -1,7 +1,7 @@
 ---
 title: Benchmark
 created: "2026-08-09T16:52:03-04:00"
-updated: "2026-10-09T09:50:00-04:00"
+updated: "2026-10-23T09:35:00-04:00"
 type: concept
 technology: [generative-ai, llm]
 assessment: [assessment]
@@ -31,6 +31,7 @@ Benchmarks serve as the evidentiary foundation of [[ai-education|AI in education
 - **[[teaching-feedback-classification-benchmark|Teaching feedback benchmarks]]** assess cross-language transfer of [[ai-feedback-quality|feedback quality]] classification.
 - **[[cdpk-pedagogy-benchmark-llms|The Pedagogy Benchmark (CDPK + SEND)]]** tests pedagogical knowledge — teaching strategies, [[assessment|assessment methods]], and [[special-education|special-education pedagogy]] — rather than content knowledge, and reports a cost-vs-accuracy "value frontier" across 97 models (most general benchmarks test content knowledge; pedagogy is a distinct, education-critical dimension).
 - **[[jeon-isd-agent-bench-2026|ISD-Agent-Bench]]** benchmarks [[llm]]-based [[learning-design|instructional-design]] agents across 25,795 instructional-design scenarios, showing that hybrid agents grounded in classical ISD frameworks (ADDIE, Dick & Carey, Rapid Prototyping) outperform pure theory or pure technique — a benchmark result with direct implications for [[agentic-ai|agentic AI]] design in education.
+- **[[tutor-case-bench-challenging-behaviors-2026|TutorCaseBench]]** grounds tutor evaluation in documented case literature rather than simulated personas: 923 dialogues from special-education and educational-psychology cases, where the strongest of 11 models met a documented intervention in 55.8% of open-ended cases.
 
 - **Learner adaptation as an explicit benchmark criterion.** The Teaching Monster Challenge scores adaptation to a specified learner persona, but its automated LLM-judge separated only a weak tail — the top systems scored near its ceiling and its ranking disagreed with crowd preference (Spearman ρ = −0.17) ([[teaching-monster-pck-benchmark-2026|Lin et al. (2026)]]).
 
@@ -81,6 +82,7 @@ Benchmarks connect to [[ai-ed-evaluation]] and [[assessment-validity]] — witho
 - [[automated-essay-scoring]]
 
 ## Connected Articles
+- [[tutor-case-bench-challenging-behaviors-2026]] — TutorCaseBench: evaluating LLM tutors on students with challenging behaviors (Park et al. 2026)
 - [[standardized-assessment-llm-english-proficiency-2026]] — A 624-item English proficiency benchmark that reports model ability as a calibrated level (Min et al. 2026)
 - [[omniphys-multimodal-physics-benchmark-2026]]
 - [[assessment-latent-structure-human-llm-2026]] — Do assessment instruments measure the same thing for humans and LLMs? (Strugatski et al. 2026)
