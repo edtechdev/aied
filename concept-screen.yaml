@@ -7955,3 +7955,18 @@
   - pedagogy
   - problem-solving
   reason: 'Two weaves: early-childhood-elementary-ai-education (the five-domain competency set in which AI literacy cannot stand alone, plus the 26-of-86 empirical figure) and ai-literacy (literacy nested rather than foundational for children aged 0 to 8; grep ''executive function'' -> 0 hits on that page). Prior-coverage dismissals with evidence: teacher-ai-competency (grep ''professional'' -> 22 hits and the page already carries professional-development design), social-emotional-learning (grep ''social-emotional'' -> 11), well-being (grep ''well-being'' -> 42), governance (grep ''governance'' -> 103), professional-training (grep ''professional'' -> 22), computational-thinking and creativity, which already carry the play and making themes. No-claim dismissals: this is a conceptual mapping review with 30.2% empirical sources, so it advances no claim about adaptive-learning, bias-mitigation, equity-in-ai-education, privacy, trust-calibration, educational-robotics, embodied-learning, scaffolding, self-efficacy, curriculum-design, educational-policy-ai, design-based-research, research-methods-aied or theories-and-frameworks as such; those are themes it catalogues. parents-and-families, k-12 and primary-education are populations, and generative-ai is the technology under discussion. Also recorded as mention-only after the inline-link pass: agency, ai-technologies, educational-development, ethics, pedagogy and problem-solving (linked in passing, with no claim the pages lack).'
+- article: genai-l2-written-feedback-scoping-review-2026
+  date: 2026-10-23
+  integrated:
+  - ai-feedback-quality
+  - writing-education
+  no_change:
+  - feedback-literacy
+  - feedback
+  - generative-ai
+  - human-in-the-loop-ai
+  - language-learning
+  - llm
+  - mixed-methods-research
+  - student-engagement
+  reason: 'A 51-study scoping review whose contribution is corpus-level: two of ten candidates gained a claim (the integrity of the evidence base, and the 51-study synthesis for the writing discipline), while the findings that duplicate stronger single studies were recorded as no_change. || feedback-literacy: The page already carries the selective-uptake and comprehension-over-actionability argument from a design that coded individual uptake episodes, which is a stronger warrant than a corpus-level pattern. || feedback: General feedback page; a review restricted to second-language written feedback is narrower than its scope, and the quality evidence it adds is recorded on [[ai-feedback-quality]]. || generative-ai: Capability page; the review measures what studies of feedback found, not what generative models can do. || human-in-the-loop-ai: That page is about human gatekeeping inside generation pipelines; the complementarity finding is about feedback sources, and it is woven on writing-education. || language-learning: Its writing-feedback claims come from L2 classroom studies with direct designs; a second corpus-level review the same day would restate rather than extend them. || llm: The review''s unit of analysis is the study, not the model, and it makes no claim about model capability. || mixed-methods-research: Manual coding of 51 studies with descriptive tallies is standard scoping-review practice, not a methodological contribution. || student-engagement: Engagement findings here are secondary to the review''s aim and would be weaker than the engagement evidence the page already cites.'

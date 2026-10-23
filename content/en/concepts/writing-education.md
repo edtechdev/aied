@@ -2,7 +2,7 @@
 connected_resources: [clarity, writing-rhetoric-studies-in-the-loop]
 title: Writing
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-21T12:05:00-04:00"
+updated: "2026-10-23T09:42:00-04:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading]
 pedagogy: [metacognition]
@@ -87,6 +87,8 @@ Because writing has no single correct answer, AI writing tools require a differe
 
 Two recent syntheses qualify how well this design guidance is followed in practice. A review of 23 empirical customization studies ([[customizing-ai-writing-pedagogy-systematic-review-2026|Luo, 2026]]) finds that although goals have moved toward writing processes and higher-order skills, the dominant technical route remains [[prompt-engineering|prompt engineering]] (13 of 23 studies) aimed at optimizing output quality, with [[learning-theories|learning theory]] confined to the interface so the system behaves "largely theory-agnostic" — a mismatch that helps explain the [[cognitive-offloading|overreliance]] and superficial revision the same studies report. Its reframing is to treat customization as architecture rather than wording: sequencing stages, withholding answers, and building in revision loops. A structured five-part workflow tested over 11 weeks with 53 Saudi EFL undergraduates ([[human-ai-collaboration-academic-writing-2026|Alshehri et al., 2026]]) shows the alternative in practice — students frame problems and design prompts, draft, revise, verify claims and citations against scholarly databases, and regulate their own reliance, logging what they accept or reject and why. Writing proficiency and digital [[critical-thinking|critical thinking]] rose together in that condition (15.23 versus 11.91 and 89.84 versus 56.18 at posttest) while the no-AI control barely moved, though the single-site, partly [[self-report-measures|self-reported]] result is a preliminary upper bound rather than an established effect.
 
+Screening 51 second-language studies of GenAI feedback found that writing-quality measures were often unrelated to the feedback the model had been asked for, and that pairing AI with teacher feedback beat either source alone ([[genai-l2-written-feedback-scoping-review-2026|Crosthwaite & Sun (2026)]]). The same corpus is overwhelmingly English, at 46 of the 51 studies, with Chinese and Arabic the dominant learner first languages.
+
 This coaching-not-composing stance is the writing-domain expression of the knowledge base's overarching "[[coach-not-crutch-ai-writing|coach over crutch]]" boundary: identify the cognitive activity that produces learning (planning, drafting, evaluating, revising) and design the AI to support it without taking it away from the learner.
 
 ### Connections
@@ -138,6 +140,8 @@ Writing education connects to [[automated-essay-scoring]], [[ai-feedback-quality
 - [[agency]]
 
 ## Connected Articles
+
+- [[genai-l2-written-feedback-scoping-review-2026]] — 51-study scoping review: prompt transparency gaps and why AI plus teacher beats either alone
 - [[nash-preservice-teachers-classroom-ai-policies-2026]] — Preservice teachers' classroom AI policies: tensions and entanglements
 - [[human-in-the-loop-ai-scoring-national-assessment-2026]] — A Human-in-the-Loop Framework for AI-Assisted Scoring in Large-Scale Writing Assessment
 - [[llm-comparative-judgment-writing-screening-2026]] — Validity of Large Language Model Comparative Judgment for Universal Writing Screening
