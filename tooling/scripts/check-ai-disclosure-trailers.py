@@ -11,7 +11,9 @@ made with tooling/ai-commit.sh carries:
     Human-Review: editor            (only when someone reviewed the change)
 
 This script reports commits in a range that lack the trailers, so the record has
-no silent gaps. It exits 0 unless --strict is given, because commits made before
+no silent gaps, and commits whose AI-Model trailer names an id that site.config.json
+records as superseded by the commit date (a model renamed mid-version leaves the old
+id listed and valid-looking). It exits 0 unless --strict is given, because commits made before
 the convention existed cannot be retrofitted.
 
 Usage:
@@ -59,6 +61,15 @@ def main() -> int:
     with open(os.path.join(WIKI, 'site.config.json'), encoding='utf-8') as fh:
         cfg = json.load(fh)
     started = CONVENTION_START
+    # A model renamed mid-snapshot leaves the old id listed and valid-looking, so a
+    # commit can carry a plausible model that had already been retired. The registry
+    # says which id replaced what; the commit date says whether that had happened yet.
+    superseded = {}
+    for entry in cfg.get('aiDisclosure', {}).get('models', []):
+        over = str(entry.get('supersedes') or '').strip()
+        since = str(entry.get('since') or '').strip()[:10]
+        if over and since:
+            superseded[over] = (str(entry.get('id') or '').strip(), since)
 
     rev = args.range or (f'-{args.limit}' if args.limit > 0 else 'HEAD')
     # Records are separated by \x1e and fields by \x1f, because a trailer with more
@@ -69,6 +80,7 @@ def main() -> int:
 
     checked = ranked = with_model = with_role = 0
     gaps = []
+    stale = []
     for line in rows:
         parts = line.split('\x1f')
         if len(parts) < 5:
@@ -88,6 +100,11 @@ def main() -> int:
         if started and date < started:
             continue
         checked += 1
+        for name in {m.strip() for m in re.split(r'[,\n]', model) if m.strip()}:
+            replaced_by, since = superseded.get(name, ('', ''))
+            # Commit dates are day-granular, so a same-day switch is left alone.
+            if replaced_by and since and date > since:
+                stale.append((sha[:8], date, name, replaced_by, since))
         has_model, has_role = bool(model.strip()), bool(role.strip())
         with_model += has_model
         with_role += has_role
@@ -104,7 +121,11 @@ def main() -> int:
         for sha, date, subject, miss_model, miss_role in gaps:
             missing = ', '.join(x for x in (miss_model, miss_role) if x)
             print(f'  {sha} {date} {subject} -> missing {missing}')
-    if args.strict and gaps:
+    if stale:
+        print('Commits attributing a model that had already been superseded:')
+        for sha, date, name, replaced_by, since in stale:
+            print(f'  {sha} {date} attributes {name} -> superseded by {replaced_by} on {since}')
+    if args.strict and (gaps or stale):
         return 1
     return 0
 
