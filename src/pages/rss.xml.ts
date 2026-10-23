@@ -30,7 +30,11 @@ export async function GET() {
   return rss({
     title: siteConfig.name,
     description: `${siteConfig.name} — research article summaries and concept syntheses`,
-    site: siteConfig.url.replace(/\/aied$/, ''),
+    // Channel <link> is the knowledge base itself, not the github.io origin:
+    // siteConfig.url already carries the /aied base path, and @astrojs/rss
+    // appends the trailing slash. Item links pass an absolute /aied/... path,
+    // so they resolve identically with or without the base in `site`.
+    site: siteConfig.url,
     items: pages.map(a => ({
       title: a.data.title,
       link: `${siteConfig.basePath}/articles/${a.id.replace('.md', '')}`,
