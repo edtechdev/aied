@@ -1,7 +1,7 @@
 ---
 title: AI Feedback Quality
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-22T09:11:45-04:00"
+updated: "2026-10-23T09:42:00-04:00"
 connected_faqs: [ai-save-instructor-time, ai-feedback-at-scale, checking-whether-educational-ai-works]
 type: concept
 foundations: [ai-literacy]
@@ -108,6 +108,8 @@ AI feedback quality spans multiple dimensions captured in the knowledge base:
 
 AI feedback quality connects fundamentally to [[formative-assessment]] and [[feedback|Feedback Loop]] — quality feedback closes the gap between current and desired performance. It intersects with [[automated-assessment|Automated Grading]] (which generates the scores feedback is based on), [[ai-literacy]] (students must evaluate feedback quality critically), and [[cognitive-offloading|Over-Reliance]] (uncritical acceptance of AI feedback can displace learning). For [[writing-education]], feedback quality is particularly consequential given AI's growing role in writing assessment.
 
+The corpus behind those quality claims is thinner than the claims suggest. Across 51 studies of GenAI written feedback in second-language writing, 16 experimental designs used no control group and only 27 reported the prompts they used — so two in five results cannot be reproduced or compared on the variable that most shapes output ([[genai-l2-written-feedback-scoping-review-2026|Crosthwaite & Sun (2026)]]). Quality evidence in this literature therefore accumulates more slowly than its volume implies.
+
 ## Connected Concepts
 
 - [[pedagogical-patterns]] — Quality does not predict revision: the sequences that make AI feedback usable
@@ -127,6 +129,8 @@ AI feedback quality connects fundamentally to [[formative-assessment]] and [[fee
 - [[trust-calibration]]
 
 ## Connected Articles
+
+- [[genai-l2-written-feedback-scoping-review-2026]] — Only 27 of 51 studies reported their prompts; 16 experiments lacked a control group
 - [[ai-feedback-violin-intonation-2026]] — AI feedback on intonation checked against 2,208 machine-measured pitch deviations (Aksoy 2026)
 - [[wraft-automated-writing-evaluation-argumentative-2026]] — WrAFT: a Modularized Automated Writing Evaluation System for Argumentative Essays
 - [[wang-chatgpt-comments-video-learning-scaffolding-2026]] — Assessing ChatGPT in-video comments: linguistic, semantic, and perceptual quality (Wang, Du & Jin 2026)
