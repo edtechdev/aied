@@ -20,10 +20,9 @@ const L = (html: string) => localizeArtifactLinks(localizeHtml(html, locale), lo
 <BaseLayout title={s.title} locale={locale} toc={s.toc}>
   <TranslationNotice locale={locale} html={ui.translationNoticeHtml} />
   <h1 class="page-title">{s.h1}</h1>
+  <ConceptMap copy={s.conceptMap} locale={locale} />
 
   <p class="intro-paragraph" set:html={L(s.introHtml)} />
-
-  <ConceptMap copy={s.conceptMap} locale={locale} />
 
   <h2 id="navigating-the-site">{s.navHeading}</h2>
   <p class="intro-paragraph" set:html={L(s.navHtml)} />
