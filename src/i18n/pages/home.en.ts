@@ -32,23 +32,23 @@ export interface HomeStrings {
 const en: HomeStrings = {
   title: 'Home',
   h1: 'AI in Education Knowledge Base',
-  introHtml: `Welcome to the <strong>AI in Education Knowledge Base</strong> — a free, public-domain resource on <a href="/aied/concepts/ai-education/">artificial intelligence in education</a>, for the people who teach, study, design, or administer it. It distils recent open-access research into short, structured pages you can read and act on. A note on how it is made: the pages are generated and updated by an AI agent, with editorial guidance from the site developer. Every claim names the paper behind it, so the sourcing is there to check.`,
+  introHtml: `Welcome to the AI in Education Knowledge Base, a free, public-domain resource on <a href="/aied/concepts/ai-education/">artificial intelligence in education</a> for the people who teach, study, design, or administer it. It turns recent open-access research into short pages. An AI agent writes and updates them with editorial guidance from the site developer. Every claim names the paper behind it.`,
   navHeading: 'Navigating the site',
-  navHtml: `Browse the strand-by-strand index in the left sidebar to see how the field is organised, or <a href="/aied/search">search</a> the whole knowledge base if you already have a topic in mind. Article pages condense one paper into its purpose, methods, and findings, with a full citation and links to related work; concept pages gather what the research says about one idea and link to the studies behind it. If you would rather start from a question, the <a href="/aied/faq">FAQ index</a> collects the ones visitors ask first, from course AI policy to whether to run AI detectors; if you would rather start from a tool, the <a href="/aied/resources">resources page</a> lists free tools, collections and instruments you can go and use, each saying who made it and what it costs. The concept map above shows what connects to what; <a href="/aied/concepts/ai-education/">AI in Education</a> is the map page behind it, grouping the concepts into about a dozen umbrella strands.`,
+  navHtml: `Browse the index in the left sidebar, which is arranged by strand, or <a href="/aied/search">search</a> for a topic. Article pages condense one paper into its purpose, methods, and findings; concept pages collect what the research says about one idea and link to the studies behind it. To start from a question, the <a href="/aied/faq">FAQ</a> covers what visitors ask first, such as course AI policy or whether to run AI detectors. To start from a tool, the <a href="/aied/resources">resources page</a> lists free tools and collections, with who made each one and what it costs. The map above groups the field into twelve strands, and <a href="/aied/concepts/ai-education/">AI in Education</a> is the page behind it.`,
   chatHeading: 'Chat with the knowledge base',
-  chatHtml: `Everything here is also published as machine-readable files, so you can point your preferred AI chatbot or agent at the knowledge base and get answers that cite it instead of guessing — <a href="/aied/ai">the prompts are here</a>. New pages appear in the <a href="/aied/journal">journal</a>, which has an <a href="/aied/rss.xml">RSS feed</a> if you want to follow along. For reading offline, take the <a href="/aied/aied.epub">EPUB</a> or the <a href="/aied/aied.pdf">PDF</a>.`,
+  chatHtml: `The whole knowledge base is also published as machine-readable files, so you can point an AI chatbot or agent at it and get answers that cite the pages. <a href="/aied/ai">The prompts are here</a>. New pages go into the <a href="/aied/journal">journal</a>, which has an <a href="/aied/rss.xml">RSS feed</a>. To read offline, download the <a href="/aied/aied.epub">EPUB</a> or the <a href="/aied/aied.pdf">PDF</a>.`,
   startingHeading: 'Recommended starting points by audience',
-  startingIntro: 'Below are some recommended concepts to start with in this knowledge base.',
+  startingIntro: 'Start with the group that matches your role.',
   groups: [
     {
       id: 'essential-concepts',
       heading: 'Essential concepts',
-      html: `<a href="/aied/concepts/ai-literacy/">AI literacy</a>, <a href="/aied/concepts/misconceptions/">misconceptions about AI</a>, <a href="/aied/concepts/agentic-ai/">agentic AI</a>, <a href="/aied/concepts/cognitive-offloading/">cognitive offloading</a>, and <a href="/aied/concepts/interpreting-and-applying-aied-research/">how to interpret and apply this research</a>: what the findings can and cannot support, and why a single study rarely settles a question.`,
+      html: `<a href="/aied/concepts/ai-literacy/">AI literacy</a>, <a href="/aied/concepts/misconceptions/">misconceptions about AI</a>, <a href="/aied/concepts/agentic-ai/">agentic AI</a>, <a href="/aied/concepts/cognitive-offloading/">cognitive offloading</a>, and <a href="/aied/concepts/interpreting-and-applying-aied-research/">how to interpret and apply this research</a>, including why a single study rarely settles a question.`,
     },
     {
       id: 'instructors',
       heading: 'Instructors',
-      html: `<a href="/aied/concepts/teacher-role/">The changing teaching role</a>, <a href="/aied/concepts/learning-design/">learning design</a>, <a href="/aied/concepts/assessment/">assessment</a>, <a href="/aied/concepts/feedback/">feedback</a>, <a href="/aied/concepts/academic-integrity/">academic integrity</a>, <a href="/aied/concepts/framing-ai-use-for-students/">framing AI use</a> and <a href="/aied/concepts/reducing-ai-misuse/">reducing misuse</a>. For the tools, evidence, and examples in your own subject, see <a href="/aied/concepts/discipline-specific-aied/">AI in your own discipline</a>.`,
+      html: `<a href="/aied/concepts/teacher-role/">The changing teaching role</a>, <a href="/aied/concepts/learning-design/">learning design</a>, <a href="/aied/concepts/assessment/">assessment</a>, <a href="/aied/concepts/feedback/">feedback</a>, <a href="/aied/concepts/academic-integrity/">academic integrity</a>, <a href="/aied/concepts/framing-ai-use-for-students/">framing AI use</a> and <a href="/aied/concepts/reducing-ai-misuse/">reducing misuse</a>. For subject-specific tools and examples, see <a href="/aied/concepts/discipline-specific-aied/">AI in your own discipline</a>.`,
     },
     {
       id: 'developers',
@@ -68,13 +68,13 @@ const en: HomeStrings = {
   ],
   statsHeading: 'What is in the knowledge base',
   statsIntro:
-    'Every page here is dated, and the knowledge base grows as new open-access research is published and reviewed. The counts below are read from the current contents; the date is the most recent page update.',
+    'Every page is dated, and the counts below reflect what is published right now; the "last updated" date at the end of the list is the most recent edit.',
   conceptMap: {
     title: 'Concept map of AI in Education',
     desc:
       'A radial map with AI in Education at the center, connected to twelve top-level concepts: ' +
       'Modeling, Learning, Equity, Feedback, AI Literacy, Assessment, Disciplines, Pedagogy, ' +
-      'Ethics, Technologies, Evaluation, and Research. Select any node to open its page.',
+      'Ethics, Technologies, Evaluation, and Research.',
     navLabel: 'AI in Education concepts',
     center: 'AI in Education',
     nodes: {
