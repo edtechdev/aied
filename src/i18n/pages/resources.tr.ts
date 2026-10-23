@@ -9,9 +9,9 @@ const tr: ResourcesStrings = {
   title: 'Kaynaklar',
   h1: 'Ücretsiz Araçlar ve Kaynaklar',
   introHtml: [
-    'Eğitimde YZ için <strong>ücretsiz araçlar, koleksiyonlar, enstrümanlar ve formatlar</strong> — önce okumak zorunda kalmadan hemen kullanabileceğiniz şeyler. Çoğunlukla eğitimciler, öğretim tasarımcıları, kütüphaneciler ve araştırmacılar tarafından yapılırlar ve birçoğu profesyonel geliştirici olmayan kişilerce YZ yardımıyla inşa edilmiştir.',
-    'Buradaki her şey etkileşimli değil. Tarayıcı araçlarının ve YZ özel derslerinin yanı sıra hazır istek metinleri ve "gem" kütüphaneleri, sınıf etkinlikleri koleksiyonları, brifing ve politika belgeleri, değerlendirme enstrümanları ve açık dosya formatları bulacaksınız. Her girdi, kimin yaptığını, ne tür bir şey olduğunu, kaynak kodunun mevcut olup olmadığını, kullanmanın maliyetini ve bağlantısının en son ne zaman kontrol edildiğini söyleyen bir sayfaya bağlantı veren kısa bir özet.',
-    'Her girdi, bu bilgi tabanının kontrol etmediği harici bir siteye bağlantı verir ve bağlantılar periyodik olarak yeniden kontrol edilir — her sayfa bağlantısının en son onaylandığı tarihi gösterir. Bir araç taşındıysa, erişilemez olduysa veya burada olmayı hak edip eksikse en hızlı yol depoya bir issue açmaktır.',
+    'Eğitimde YZ için ücretsiz araçlar, koleksiyonlar, enstrümanlar ve formatlardan oluşan seçilmiş bir set: önce okumak zorunda kalmadan hemen kullanabileceğiniz şeyler. Çoğunlukla eğitimciler, öğretim tasarımcıları, kütüphaneciler ve araştırmacılar tarafından yapılırlar ve birçoğu profesyonel geliştirici olmayan kişilerce YZ yardımıyla inşa edilmiştir.',
+    'Buradaki her şey etkileşimli değil. Tarayıcı araçlarının ve YZ özel derslerinin yanı sıra hazır istek metni kütüphaneleri, sınıf etkinlikleri koleksiyonları, brifing ve politika belgeleri, değerlendirme enstrümanları ve açık dosya formatları bulunuyor. Her girdi, aracı anlatan bir sayfaya bağlantı verir: kimin yaptığı, ne tür bir şey olduğu, kaynak kodunun açık olup olmadığı, maliyeti ve bağlantısının en son ne zaman kontrol edildiği.',
+    'Her girdi, bu bilgi tabanının kontrol etmediği harici bir siteye bağlantı verir ve bağlantılar periyodik olarak kontrol edilir; her sayfa bağlantısının en son onaylandığı tarihi gösterir. Bir araç taşındıysa, kapandıysa veya burada olması gerektiği halde eksikse, depoda <a href=\"https://github.com/edtechdev/aied/issues\" target=\"_blank\" rel=\"noopener\">bir issue açın</a>.',
   ],
   empty: 'Henüz kaynak yok.',
   groupLabels: {

@@ -20,9 +20,9 @@ const da: ResourcesStrings = {
   title: 'Ressourcer',
   h1: 'Gratis værktøjer og ressourcer',
   introHtml: [
-    'En kurateret samling af <strong>gratis værktøjer, samlinger, instrumenter og formater</strong> til AI i uddannelse — ting, du kan gå i gang med at bruge i dag, frem for forskning, du skal læse først. De er lavet mest af pædagoger, instruktionsdesignere, bibliotekarer og forskere, og mange er bygget med hjælp fra AI af mennesker, der ikke er professionelle udviklere.',
-    'Ikke alt her er interaktivt. Side om side med browsertools og AI-vejledere finder du biblioteker af færdige prompter og »gems«, samlinger af klasseværelsesaktiviteter, briefing- og policydokumenter, vurderingsinstrumenter og åbne filformater. Hvert punkt er et kort resumé, der linker til en side, der angiver, hvem der har lavet det, hvilken slags ting det er, om kildekoden er tilgængelig, hvad det koster at bruge, og hvornår linket sidst blev kontrolleret.',
-    'Hvert punkt linker videre til et eksternt site, som denne vidensbase ikke kontrollerer, og linksene bliver kontrolleret igen med jævne mellemrum — hver side viser datoen for, hvornår linket sidst blev bekræftet. Er et værktøj flyttet, lukket eller fortjener det at stå her og mangler, er den hurtigste vej at oprette en sag på repositoryet.',
+    'En kurateret samling af gratis værktøjer, samlinger, instrumenter og formater til AI i uddannelse: ting, du kan bruge i dag, frem for forskning, du skal læse først. De fleste er lavet af pædagoger, instruktionsdesignere, bibliotekarer og forskere, og mange er bygget med AI-hjælp af mennesker, der ikke er professionelle udviklere.',
+    'Ikke alt her er interaktivt. Side om side med browsertools og AI-vejledere er der biblioteker af færdige prompter, samlinger af klasseværelsesaktiviteter, briefing- og policydokumenter, vurderingsinstrumenter og åbne filformater. Hvert punkt linker til en side om værktøjet: hvem der har lavet det, hvilken slags ting det er, om kildekoden er åben, hvad det koster, og hvornår linket sidst blev kontrolleret.',
+    'Hvert punkt linker til et eksternt site, som denne vidensbase ikke kontrollerer, og linksene bliver kontrolleret med jævne mellemrum; hver side viser datoen for, hvornår linket sidst blev bekræftet. Hvis et værktøj er flyttet, er lukket eller mangler og bør stå her, <a href=\"https://github.com/edtechdev/aied/issues\" target=\"_blank\" rel=\"noopener\">opret en sag</a> på repositoryet.',
   ],
   empty: 'Ingen ressourcer endnu.',
   groupLabels: {
