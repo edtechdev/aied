@@ -1,7 +1,7 @@
 ---
 title: Physics Education
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-21T12:05:00-04:00"
+updated: "2026-10-23T08:03:41-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [socratic-method]
@@ -34,6 +34,8 @@ Physics education [[research-methods-aied|research]] has become a proving ground
 
 **Student AI adoption and trust** explores how physics students actually use AI tools. **[[fouad-bentley-trust-utility-gap-physics-2026|Fouad & Bentley]]** found a 50-point trust-utility gap: 91% use AI for coursework but only 41% trust it, with students spontaneously identifying AI failure modes in visual-spatial reasoning and circuits. **[[becker-chatgpt-typology-physics-2026|Becker et al.]]** developed a two-profile typology — 70% "Pragmatic Users" and 30% "Skeptical Non-Users" — from 1,189 survey responses, showing both groups make calculated risk-utility trade-offs. These studies advance [[ai-literacy]] and [[trust-calibration]] research, and challenge one-size-fits-all [[educational-policy-ai|AI policies]].
 **Epistemological beliefs track chatbot-behavior preference.** In a large calculus-based course, 52% of students preferred a chatbot beginning with guided inquiry and answering only when asked, and they scored higher on the EBAPS total (p = 0.029) — differences that did not survive a Bonferroni correction, making the association suggestive, not conclusive ([[physics-chatbot-epistemological-beliefs-2026|Sirnoorkar and Mamidpalliwar (2026)]]).
+
+Acceptance has now been modeled rather than described: a 340-student structural equation study of Grade 10 physics classes in Hangzhou explains 58% of the variance in intention to use DeepSeek. Its notable result is that beliefs about physics — utility value, expectancy, cost — predict how useful and how easy the tool seems, not only whether students intend to use it ([[high-school-genai-acceptance-tam-physics-2026|Xue, Xu, Qi & Lu (2026)]]).
 
 **Perception change without behavior change** is what [[physics-students-llm-perceptions-instruction-2026|O'Brien et al. (2026)]] add to this picture. A reflective lesson on how LLMs work, taught in a required first-year course for physics majors, raised skepticism sharply — agreement that LLMs can leave students with a false sense of confidence rose from 58% to 88%, and the belief that an LLM outperforms the average physics student fell from 54% to 32% — while convenience (71% agreement) and deadline pressure (65%) remained the dominant reasons for use. The lesson's limits are as informative as its effect: [[ai-literacy]] instruction shifted what students said about these tools and not the pressures that make them reach for one, which is why an intervention of this kind belongs alongside problem and policy design rather than in place of it.
 
@@ -109,6 +111,7 @@ Physics education sits within the broader [[stem-education]] domain but has dist
 
 ## Connected Articles
 
+- [[high-school-genai-acceptance-tam-physics-2026]] — Acceptance of GenAI modeled in Grade 10 physics
 - [[genai-video-engineering-physics-workflow-2026]] — From Prompts to Physical Laws: A Generative AI Workflow for Engineering Physics Education
 - [[wang-teacher-student-centered-agents-physics-2026]] — Teacher-centered vs. student-centered prompt-engineered physics agents (Wang et al. 2026)
 - [[omniphys-multimodal-physics-benchmark-2026]]

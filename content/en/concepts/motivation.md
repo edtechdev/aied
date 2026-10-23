@@ -1,7 +1,7 @@
 ---
 title: Motivation
 created: "2026-08-10T17:38:45-04:00"
-updated: "2026-10-17T07:38:51-04:00"
+updated: "2026-10-23T08:03:41-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [motivation, self-determination-theory, student-engagement]
@@ -64,6 +64,8 @@ A utility-value intervention is not uniformly beneficial: a scaffolded version p
 
 **The literature measures motivation without a theory of it.** A scoping review of 156 studies from 2003 to 2025 found 133 (85.3%) were guided by no specific motivational theory, the most common variable was a generalized academic motivation (n = 89), and 88 studies (56.4%) came from one national context ([[ai-student-motivation-scoping-review-2026|Li et al., 2026]]).
 
+Motivation also operates upstream of technology perception, not only alongside it. In a 340-student physics sample, utility value predicted perceived usefulness (β = 0.43) and intrinsic value predicted attitude (β = 0.20), while perceived cost lowered ease of use (β = −0.16) and attitude (β = −0.27) with no direct path to intention ([[high-school-genai-acceptance-tam-physics-2026|Xue, Xu, Qi & Lu (2026)]]).
+
 ## Connections to related concepts
 
 Motivation is the parent construct of [[self-determination-theory]], which specifies the psychological needs (autonomy, competence, relatedness) that sustain intrinsic motivation. It connects to [[student-experience]] as the experiential layer of motivated engagement, to [[student-engagement]] as its measurable dimension, and to [[affective-computing]] for the emotional mechanisms that shape motivation. Motivation also connects to [[cognitive-offloading|Over-Reliance]] (AI reducing [[desirable-difficulties|productive struggle]]), [[self-regulated-learning]] (motivated learners self-regulate), and [[teacher-role]] (motivation applies to educators as well as students).
@@ -84,6 +86,8 @@ Motivation is the parent construct of [[self-determination-theory]], which speci
 - [[framing-ai-use-for-students]]
 - [[social-emotional-learning]] — Social-Emotional Learning
 ## Connected Articles
+
+- [[high-school-genai-acceptance-tam-physics-2026]] — Expectancy-value beliefs as antecedents of GenAI acceptance
 - [[liu-ai-assistance-reduces-persistence-2026]] — Brief AI use reduced persistence on later unassisted problems (Liu et al. 2026)
 - [[jansen-argumentative-writing-feedback-receptivity-2026]] — Automated feedback on argumentative writing: The role of secondary students' feedback receptivity and feedback perception
 - [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — The effort paradox and the vicious cycle of frictionless assistance

@@ -1,7 +1,7 @@
 ---
 title: Assessment Validity
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-22T09:11:45-04:00"
+updated: "2026-10-23T08:05:20-04:00"
 connected_faqs: [redesign-assessment-ai-era, reporting-interpreting-aied-research, asynchronous-online-courses-ai, checking-whether-educational-ai-works]
 type: concept
 foundations: [academic-integrity]
@@ -108,6 +108,7 @@ Run-to-run stability is not guaranteed, however: repeating the same grading on i
 
 - **Exposure is measurable, and the remedy is sufficient evidence rather than maximum security.** [[villanueva-ai-vulnerability-assessment-audit-2026|Villanueva (2026)]] scored 53,915 assessment items by published format, supervision and mark weight and found most assessed marks resting on work whose authorship cannot be verified after submission; he argues programs need enough evidence of learning at key stages, not every unit made secure.
 - **A valid measure can still be unsafe to optimize.** Fine-tuning an LLM tutor against a rubric-style adaptivity metric raised the metric (+0.05 to +0.42) while blind expert ratings fell (4.46 to 3.03), because a metric that scores decisions independently is maximized by repeating the single best decision ([[llm-tutor-pedagogical-metric-degradation-2026|Domínguez Figaredo & Fernández De la Cruz, 2026]]).
+- **An embedding's geometry is not a rubric's distinctions.** Against 992 handwritten physics solutions under five textual representations and nine embedding mechanisms, [[embedding-similarity-clustering-handwritten-physics-2026|Tauschhuber & Kortemeyer (2026)]] report a best weighted Spearman correlation with human scores of 0.198, with clusters score-enriched rather than score-equivalent.
 
 ## Connected Concepts
 
@@ -131,6 +132,8 @@ Run-to-run stability is not guaranteed, however: repeating the same grading on i
 - [[assessment]]
 
 ## Connected Articles
+
+- [[embedding-similarity-clustering-handwritten-physics-2026]] — Embedding similarity correlated with human scores at 0.198 at best
 - [[corbin-ai-glasses-wearable-ai-assessment-2026]] — Wearable AI dissolves separability and observability, so a supervised candidate can still not demonstrate unaided capability (Corbin, Sharpe & Dawson 2026)
 - [[ivory-psychology-assessment-integrity-2026]] — Program-level pass/fail susceptibility and the marking criteria that let fabricated values pass (Ivory et al. 2026)
 - [[zou-is-this-a-trap-student-teachers-genai-2026]] — Permission alone doesn't degrade validity: engagement unaffected by GenAI use; reflection resists generic substitution

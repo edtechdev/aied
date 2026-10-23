@@ -7702,3 +7702,37 @@
   - student-experience
   - theory-development-aied
   reason: 'Proposal with no results, so the bar was a claim the page lacks rather than an article to list. Integrated two: [[self-report-measures]] had no coverage of administration-mode effects at all, and [[speech-and-voice-technologies]] covers only learning-facing voice use, not voice as a data-collection channel. || conversational-ai: The proposal applies conversational agents to feedback collection rather than tutoring, which is a use case the page''s clusters do not cover, but with no results there is no claim to add; the deployment detail is woven into [[speech-and-voice-technologies]] instead. || higher-ed: Higher education is the proposal''s setting rather than its finding: the institutional-sensing argument is a dynamic-capabilities frame borrowed from Teece, with no data about institutions, so the page gains no claim. (Candidate derived from the `level` label field, not a slug field — the case this gate exists to catch.) || human-ai-collaboration: CASA and social-presence material appears as the proposal''s theoretical framing, cited from Nass, Moon and Lucas rather than advanced; the page gains no evidence about collaboration. || learning-analytics: The ''institutional sensing'' argument is a strategic frame, not a result: no data about aggregation, dashboards or analytics practice exists in the paper. || mixed-methods-research: A conventional convergent design (two coders, codebook, kappa) planned but not executed; nothing the methods page does not already describe. || student-experience: The student experience of *providing* feedback is asserted as a hypothesis, and the course-evaluation evidence that would inform it is absent. || theory-development-aied: The stated theoretical contribution — extending CASA to evaluative educational settings — is prospective; a proposal cannot close that gap, so the page waits for the study.'
+- article: high-school-genai-acceptance-tam-physics-2026
+  date: 2026-10-23
+  integrated:
+  - technology-acceptance-model
+  - physics-education
+  - motivation
+  - self-report-measures
+  no_change:
+  - generative-ai
+  - k-12
+  - quantitative-research
+  - discipline-specific-aied
+  - self-efficacy
+  reason: '340-student structural equation study with 16 pre-specified hypotheses and four nested models: integrated where a page lacked the claim, which was four of nine. The expectancy→ease-of-use path and the discipline framing were considered and left out to avoid splitting one EVT finding across two pages. || generative-ai: Capability page for the technology; the paper measures students'' perceptions of one deployed tool, not what generative models can do. || k-12: Level hub spanning preschool to Grade 12; a single grade in a single school in a single subject is too narrow to generalize there, and the discipline and TAM pages carry the finding. || quantitative-research: The page already teaches cross-sectional survey and SEM design; a nested comparison of predictor sets is standard practice, not a methodological contribution. || discipline-specific-aied: Its cross-disciplinary section already carries the discipline-as-activity-system claim (Jiang et al., on usage frequency and disclosure); adding a nested-SEM antecedent here would restate the TAM weave in a curatorial list. || self-efficacy: The expectancy-for-success path (β = 0.39) is expectancy-value theory''s construct measured on a physics scale, and it is woven into [[motivation]] in that frame; the self-efficacy page''s subject is efficacy as a learning outcome, not as a predictor of perceived ease of use.'
+- article: embedding-similarity-clustering-handwritten-physics-2026
+  date: 2026-10-23
+  integrated:
+  - assessment-validity
+  - educational-nlp
+  no_change:
+  - ai-ed-evaluation
+  - automated-assessment
+  - benchmark
+  - generative-ai
+  - higher-ed
+  - human-in-the-loop-ai
+  - llm
+  - machine-learning
+  - misconceptions
+  - physics-education
+  - problem-solving
+  - quantitative-research
+  - summative-assessment
+  reason: 'A methodological validity study on one exam''s corpus: two of fifteen candidates carried a claim the page lacked. The ''embedding clusters organize by wording, not physics'' finding was placed once (educational-nlp) rather than repeated across the physics and assessment pages. || ai-ed-evaluation: Evaluating AI-in-education interventions; this tests the fidelity of an analytic instrument, not whether an intervention works. || automated-assessment: The paper tests pairwise similarity and clustering, not grading systems; the validity lesson belongs on [[assessment-validity]] rather than restated here. || benchmark: No benchmark score, leaderboard or model comparison is reported; the object of study is the embedding space, not model capability. || generative-ai: The models appear as instruments (GPT-5.4 transcribing handwriting); the paper makes no claim about generative capability. || higher-ed: An ETH Zurich exam is the setting rather than a finding about higher education. || human-in-the-loop-ai: Human review is a recommendation, not a measured practice; no evidence about how oversight performs. || llm: Same as generative-ai: LLMs serve as a transcription and embedding mechanism, with no claim about the models themselves. || machine-learning: The methods are standard rank correlation and hierarchical clustering; nothing new about ML technique. || misconceptions: Organizing statements by wording is not a claim about learner misconceptions or their diagnosis. || physics-education: Physics is the dataset''s domain, and by the test used here (sample composition is not a finding) the result is method-level: it says embedding similarity does not preserve rubric distinctions, not something about learning physics. || problem-solving: No claim about problem-solving processes or strategies. || quantitative-research: Rank correlations and clustering are routine; the page carries no methodological novelty this would fill. || summative-assessment: No claim about summative assessment design or stakes.'
