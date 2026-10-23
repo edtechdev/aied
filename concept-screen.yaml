@@ -7970,3 +7970,60 @@
   - mixed-methods-research
   - student-engagement
   reason: 'A 51-study scoping review whose contribution is corpus-level: two of ten candidates gained a claim (the integrity of the evidence base, and the 51-study synthesis for the writing discipline), while the findings that duplicate stronger single studies were recorded as no_change. || feedback-literacy: The page already carries the selective-uptake and comprehension-over-actionability argument from a design that coded individual uptake episodes, which is a stronger warrant than a corpus-level pattern. || feedback: General feedback page; a review restricted to second-language written feedback is narrower than its scope, and the quality evidence it adds is recorded on [[ai-feedback-quality]]. || generative-ai: Capability page; the review measures what studies of feedback found, not what generative models can do. || human-in-the-loop-ai: That page is about human gatekeeping inside generation pipelines; the complementarity finding is about feedback sources, and it is woven on writing-education. || language-learning: Its writing-feedback claims come from L2 classroom studies with direct designs; a second corpus-level review the same day would restate rather than extend them. || llm: The review''s unit of analysis is the study, not the model, and it makes no claim about model capability. || mixed-methods-research: Manual coding of 51 studies with descriptive tallies is standard scoping-review practice, not a methodological contribution. || student-engagement: Engagement findings here are secondary to the review''s aim and would be weaker than the engagement evidence the page already cites.'
+- article: ai-chatbots-emotional-support-human-connection-2025
+  date: 2026-10-23
+  integrated:
+  - well-being
+  - student-ai-interaction
+  no_change:
+  - anxiety-and-stress
+  - conversational-ai
+  - educational-policy-ai
+  - generative-ai
+  - higher-ed
+  - human-ai-collaboration
+  - quantitative-research
+  - self-report-measures
+  - social-emotional-learning
+  - student-support-and-success
+  reason: 'An 819-student cross-sectional survey whose usable claims are the coexistence of high satisfaction with high concern about human connection, and a large-sample null on user characteristics; two of twelve candidates gained a claim. || anxiety-and-stress: Its anxiety evidence comes from interaction and intervention studies; the concern-about-connection result is a well-being claim and is woven there. || conversational-ai: That page already argues companionship, reliance and emotional dependency at length from closer designs. || educational-policy-ai: The survey makes no institutional or regulatory claim. || generative-ai: Capability page; the study measures attitudes toward deployed chatbots, not what models can do. || higher-ed: A Saudi higher-education sample is the setting, not a finding about higher education as a level. || human-ai-collaboration: No collaboration or division-of-labour finding. || quantitative-research: A survey with MANOVA and regression is routine practice, not a methodological contribution. || self-report-measures: That page already argues the limits of self-report from psychometric evidence; the divergence itself is woven on well-being. || social-emotional-learning: The paper measures attitudes toward emotional support, not social-emotional skill, and the constructive claim is placed once on well-being. || student-support-and-success: No claim about support services or student success outcomes.'
+
+- article: ai-second-language-listening-speaking-assessment-2025
+  date: 2026-10-23
+  integrated:
+  - oral-assessment
+  no_change:
+  - assessment-validity
+  - automated-question-generation
+  - conversational-ai
+  - formative-assessment
+  - generative-ai
+  - hallucination-risk
+  - language-learning
+  - metacognition
+  - multimodal
+  - privacy
+  - scaffolding
+  - self-regulated-learning
+  - speech-and-voice-technologies
+  reason: 'A conceptual review of assessment in L2 listening and speaking; one of fourteen candidates gained a claim, because most of its material is prescription or already carried from stronger designs. || assessment-validity: The construct argument arrives through interaction format, which lives on [[oral-assessment]]; repeating it there would restate the same evidence. || automated-question-generation: That page already documents item-quality failures from larger corpora (378 generated items; a scoping review of 153 reports), so the 384 multiple-choice items here corroborate a stronger existing claim. || conversational-ai: The review''s concern is assessment, not conversational capability. || formative-assessment: Assessment-for-learning is the authors'' prescription rather than a demonstrated result. || generative-ai: No capability claim; the paper evaluates assessment designs. || hallucination-risk: Hallucination appears as a known risk without a new failure mode or rate. || language-learning: Its listening and speaking pedagogy claims already rest on classroom evidence stronger than a conceptual review. || metacognition: Self-regulation is recommended, not measured. || multimodal: Multimodality is mentioned in passing. || privacy: No data-protection or consent finding. || scaffolding: AI-scaffolded pre-task planning is proposed, not tested. || self-regulated-learning: Same as metacognition: the prescription is an argument, not a finding. || speech-and-voice-technologies: That page is about the technologies in the spoken channel; this review''s listening-versus-speaking asymmetry is an assessment-evidence claim, placed on [[oral-assessment]] where construct and format live.'
+
+- article: genai-chatbots-language-learning-affordances-review-2026
+  date: 2026-10-23
+  integrated:
+  - multilingual-learning
+  - theories-and-frameworks
+  no_change:
+  - anxiety-and-stress
+  - bias-mitigation
+  - conversational-ai
+  - feedback
+  - generative-ai
+  - higher-ed
+  - language-learning
+  - meta-analysis-systematic-review
+  - scaffolding
+  - self-efficacy
+  - sociocultural-learning
+  - student-engagement
+  reason: 'A taxonomy-building review of 24 studies; two of fourteen candidates gained a claim (the translanguaging sub-affordance and the proposed fourth category), while the carried-over sub-affordances corroborate existing pages. || anxiety-and-stress: Emotional safety is proposed as an affordance, which is a taxonomy claim rather than evidence about anxiety. || bias-mitigation: The review measures no bias or mitigation. || conversational-ai: That page already carries chatbot inclusion and affordance material from closer studies. || feedback: Feedback appears as one carried-over sub-affordance, not as the review''s subject. || generative-ai: No capability claim; the review is about classroom uses of existing tools. || higher-ed: A level hub, and the corpus spans contexts the review did not analyse by level. || language-learning: The corpus-shape result (speaking in 11 of 24 studies, writing in 9, reading in 1; individual work in 22) is a sampling observation about a literature, not a finding about learning. || meta-analysis-systematic-review: Standard PRISMA-style coding with collaborative agreement checks; the page''s methodological claims are stronger than this adds. || scaffolding: Scaffolding recurs as a carried-over sub-affordance, which supports rather than extends that page. || self-efficacy: Self-efficacy appears as a proposed emotional affordance, not as measured evidence about learners. || sociocultural-learning: Affordance theory is its obvious genealogy, but the fourth-category argument is placed on [[theories-and-frameworks]] to avoid two weaves from one taxonomy. || student-engagement: Engagement is a carried-over sub-affordance with no new mechanism.'

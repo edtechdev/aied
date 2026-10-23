@@ -1,7 +1,7 @@
 ---
 title: Oral Assessment
 created: "2026-09-23T08:35:38-04:00"
-updated: "2026-10-17T03:49:06-04:00"
+updated: "2026-10-23T09:49:58-04:00"
 connected_faqs: [redesign-assessment-ai-era, ai-feedback-at-scale]
 type: concept
 foundations: [academic-integrity, critical-thinking]
@@ -54,6 +54,8 @@ The formats in the corpus span a wide range of automation and synchronicity, and
 
 **Oral evidence as defense rather than examination.** [[tool-invariant-framework-agentic-ai|A tool-invariant assessment framework]] pairs AI-free in-class quizzes with ten-minute oral defenses of comment-stripped, AI-assisted work, scored on code comprehension, method understanding, terminology, interpretation and verification, with verification required to pass regardless of the total. The design is argued rather than validated; the paper's own arithmetic for fifteen students is two and a half contact-hours per assignment and roughly twenty-eight contact-hours per semester across eleven defended assignments.
 
+Interaction format decides what an AI-mediated speaking task can certify. The Duolingo English Test's dialogue tasks, 713 of them in the pilot, required answer selection rather than reactive talk, which the reviewers argue misaligns the cognitive demands of the task with the construct the test claims to measure ([[ai-second-language-listening-speaking-assessment-2025|Goh & Aryadoust (2025)]]).
+
 ## Anxiety, bias, and who the format disadvantages
 
 Orals are argued for on inclusion grounds, because a spoken answer is harder to buy than a written one, and against on the same grounds. [[fenton-oral-exams-ai-authentic-assessment-2025|Fenton]] catalogues the challenges directly: scheduling load, anxiety, and bias along gender, ethnicity, language and answering speed, plus the effects of non-anonymous marking. Against that, the evidence the paper cites suggests orals can be as inclusive as written examinations, including for students with dyslexia, and that unfamiliarity rather than the format itself drives most reported anxiety; students in one cited study were less anxious by their later oral exams.
@@ -91,6 +93,8 @@ The oral's integrity rationale is also time-limited: [[corbin-ai-glasses-wearabl
 - [[higher-ed]] — the setting almost all of this evidence comes from
 
 ## Connected Articles
+
+- [[ai-second-language-listening-speaking-assessment-2025]] — Non-branching AI dialogue tasks misalign task demands with the speaking construct
 - [[corbin-ai-glasses-wearable-ai-assessment-2026]] — Live vivas are no longer immune: AI glasses and earbuds deliver covert real-time prompts (Corbin, Sharpe & Dawson 2026)
 
 - [[fenton-oral-exams-ai-authentic-assessment-2025]] — Reconsidering the use of oral exams and assessments (Fenton 2025)

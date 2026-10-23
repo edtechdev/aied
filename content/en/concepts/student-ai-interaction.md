@@ -1,7 +1,7 @@
 ---
 title: Student-AI Interaction
 created: "2026-08-20T02:55:00-04:00"
-updated: "2026-10-03T02:57:43-04:00"
+updated: "2026-10-23T09:49:58-04:00"
 type: concept
 foundations: [cognitive-offloading]
 pedagogy: [student-ai-interaction]
@@ -72,6 +72,7 @@ Non-use is itself an interaction pattern that [[pedagogy]] must plan for. [[zou-
 ## Discipline and Cognitive Engagement in Student-AI Chat
 
 - **Discipline-associated cognitive engagement in student-AI chat.** Chang and Li (2026) analyze student prompts to AI across 116 courses with a within-person, cross-discipline design, showing that student-AI conversations reflect **discipline-associated** cognitive engagement rather than fixed individual interaction styles. Roughly 62% of prompts encoded higher-order cognitive demand overall, but Bloom-level profiles differed sharply by discipline: [[stem-education|STEM]] courses elicited Apply-prevalent prompts (20.8%), language courses Understand-prevalent (31.7%), and social science courses Create-prevalent (33.8%). Paired within-person comparisons confirmed the same students produced significantly more higher-order prompts in social science than STEM courses (pooled n = 16, p < .001), and course-level variation exceeded student-level variation — a strong argument that AI teaching assistants should be designed and evaluated with disciplinary context in mind.
+- **How much students use AI did not predict how they felt about it.** Among 819 students, gender, self-rated AI expertise and usage frequency all failed to reach significance in a MANOVA (Wilks' Lambda 0.997, p = 0.551; 0.990, p = 0.295). Heavy and light users in that sample held the same views ([[ai-chatbots-emotional-support-human-connection-2025|Al-Zahrani (2025)]]).
 
 ## Connected Concepts
 - [[learners]] — Learners: the umbrella for the learner-side concepts
@@ -88,6 +89,8 @@ Non-use is itself an interaction pattern that [[pedagogy]] must plan for. [[zou-
 - [[ai-literacy]]
 
 ## Connected Articles
+
+- [[ai-chatbots-emotional-support-human-connection-2025]] — Usage frequency and self-rated expertise predicted nothing across 819 students
 - [[yan-cognitive-outsourcing-genai-assessments-2026]] — Cognitive outsourcing vs. reallocation in unsupervised student–GenAI assessments (Yan et al. 2026)
 - [[zou-is-this-a-trap-student-teachers-genai-2026]] — “Is this a trap?”: student teachers’ non-adoption of GenAI in assessments (Zou et al. 2026)
 - [[tutortrace-learner-behavioral-states-2026]]

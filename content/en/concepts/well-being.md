@@ -1,7 +1,7 @@
 ---
 title: Well-Being
 created: "2026-08-13T18:30:57-04:00"
-updated: "2026-10-16T08:47:09-04:00"
+updated: "2026-10-23T09:49:58-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [motivation, social-emotional-learning]
@@ -73,6 +73,8 @@ Well-being connects to [[student-experience]] (as a dimension of learners' overa
 
 **Friction, meaning and loneliness as a signal.** [[zohar-bloom-inzlicht-against-frictionless-ai-2026|Zohar, Bloom and Inzlicht (2026)]] give the well-being case a mechanism: effort signals that our actions matter, so people who work toward a task feel more competent, value the product more and see it as more purposeful — and even on objectively meaningless tasks, adding friction raises appraised meaning. On relationships, they treat loneliness not only as an affliction (linked to cardiovascular disease, dementia, stroke and premature death) but as a **[[biology-education|biological]] signal** akin to hunger or pain: discomfort that motivates reaching out, accepting invitations, investing in existing relationships and tolerating difficult conversations. AI companions can soothe that discomfort, which the authors regard as genuine progress in some cases, while also silencing the signal that drives connection — and they temper the argument by stage, holding that for people isolated by circumstance rather than choice, denying access to such technology "would be cruel" ([[motivation]], [[social-emotional-learning]]).
 
+Emotional support and connection can move in opposite directions inside one sample. Among 819 Saudi higher-education students, satisfaction with chatbots averaged 4.29 and their experience of the tools 4.19, while concern that chatbots diminish human connection was the highest-rated construct at 4.36 ([[ai-chatbots-emotional-support-human-connection-2025|Al-Zahrani (2025)]]). That concern rose with experience rather than falling with satisfaction (standardized coefficients of .64 against .11).
+
 ## Connected Concepts
 - [[learners]] — Learners: the umbrella for the learner-side concepts
 - [[anxiety-and-stress]]
@@ -87,6 +89,8 @@ Well-being connects to [[student-experience]] (as a dimension of learners' overa
 - [[student-support-and-success]] — campus support services spanning advising, outreach, and referral
 
 ## Connected Articles
+
+- [[ai-chatbots-emotional-support-human-connection-2025]] — 819 students rated chatbots highly and feared the loss of human connection most
 - [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — Friction, meaning, and loneliness as a biological signal
 - [[zhang-ai-anxiety-academic-motivation-emotion-2026]] — The Relationship Between AI Anxiety and Academic Motivation
 - [[wu-psychological-adaptation-ai-japanese-learning-2026]] — Profiles and Transitions of Psychological Adaptation in AI-Assisted Japanese Language Learning
