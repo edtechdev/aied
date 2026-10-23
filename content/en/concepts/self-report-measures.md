@@ -1,7 +1,7 @@
 ---
 title: Self-Report Measures
 created: "2026-09-12T11:05:00-04:00"
-updated: "2026-10-22T18:33:39-04:00"
+updated: "2026-10-23T08:03:41-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [self-efficacy, student-engagement]
@@ -80,6 +80,8 @@ The instrument literature itself can be read as evidence of the gap's scale. [[a
 
 Outcome measures inherit the same gap. [[pramod-agentic-ai-motivational-pathways-2026|Pramod and Patil (2026)]] model the path from [[agentic-ai|agentic AI]] through motivation and social presence to what they label learning performance with a coefficient of 0.671 — the strongest relationship in the study — and their own limitations section states that this dependent variable reflects learners' perceptions and not exam results, assignment performance or learning analytics. That is the pattern to read carefully in pathway models generally: a large coefficient on a perceived outcome quantifies how consistently students believe something helped, and says nothing yet about whether it did.
 
+Intention is the sharpest case of that gap, because one intention score can cover opposite behaviors. Re-administering items to 68 of the 340 students and interviewing eight, [[high-school-genai-acceptance-tam-physics-2026|Xue, Xu, Qi & Lu (2026)]] found the same stated intention covering learning-oriented, shortcut-oriented and mixed use — the shortcut users citing low confidence rather than disinterest.
+
 ## Satisfaction and perceived learning as outcomes
 
 Satisfaction is the most frequently self-reported outcome in this corpus, appearing on 63 article pages. It is also the weakest as a proxy for learning, and the knowledge base contains explicit arguments to that effect.
@@ -155,6 +157,7 @@ The knowledge base's constructive answers are consistent, and none of them requi
 
 ## Connected Articles
 
+- [[high-school-genai-acceptance-tam-physics-2026]] — One intention score, two opposite uses
 - [[voice-based-ai-feedback-interviews-higher-ed-2026]] — The administration mode a self-report instrument uses changes what it measures
 - [[capability-decision-model-teacher-readiness-2026]] — Discriminant-validity criteria for separating self-reported AI capability from efficacy beliefs
 

@@ -1,7 +1,7 @@
 ---
 title: Technology Adoption Models
 created: "2026-08-18T14:55:00-04:00"
-updated: "2026-10-22T09:11:45-04:00"
+updated: "2026-10-23T08:03:41-04:00"
 type: concept
 foundations: [ai-literacy]
 technology: [generative-ai, technology-acceptance-model]
@@ -74,6 +74,8 @@ TAM's cognitive focus also under-captures emotional and relational dimensions of
 
 **Risk perception as a dimension-specific extension.** A survey of 814 Chinese university students ([[risk-perception-genai-perceived-benefits-2026|Du, Ning, Shi & Chen (2026)]]) folds Cognitive Appraisal Theory and Protection Motivation Theory into TAM/UTAUT2 to ask not whether students adopt [[generative-ai|generative AI]] but what they gain from it. The model family's assumption that risk uniformly suppresses adoption does not survive: risk perception splits into information, security, technical, [[ethics|ethical]], and legal dimensions that move benefits in opposite directions. Security risk — a threat students believe they can manage through [[privacy|privacy practices]] — was *positively* associated with perceived academic assistance and skill development, consistent with problem-focused coping, whereas information risk, which learners cannot easily verify, eroded psychological and emotional support, daily-life, and leisure benefits through avoidance. Threshold analyses further showed effects that change sign beyond dimension-specific cut-points, and usage experience mattered independently: students with more than a year of GenAI use reported higher benefits across four domains. The practical implication for acceptance research is that "perceived risk" is too coarse a construct to model — controllability, not the mere presence of risk, is what determines whether students engage or withdraw.
 
+A recent extension inverts the usual direction, placing subject-specific motivational beliefs upstream of the TAM perceptions rather than beside them. [[high-school-genai-acceptance-tam-physics-2026|Xue, Xu, Qi & Lu (2026)]] report utility value predicting perceived usefulness at β = 0.43 and expectancy for success predicting ease of use at β = 0.39, while core TAM paths attenuate but stay significant.
+
 
 Risk's link to use also depends on the system: across the 49 TALIS 2024 systems that administered the items, perceived AI utility was positively associated with AI use in all 49, while perceived risk was negatively associated in 40 and positively in nine ([[teachers-ai-belief-profiles-talis-2024-2026|Fang & Jin (2026)]]).
 
@@ -94,6 +96,8 @@ Risk's link to use also depends on the system: across the 49 TALIS 2024 systems 
 - [[framing-ai-use-for-students]]
 
 ## Connected Articles
+
+- [[high-school-genai-acceptance-tam-physics-2026]] — Subject-specific beliefs placed upstream of the TAM perceptions
 - [[dai-genai-frenemy-teaching-autonomy-2026]] — GenAI as "frenemy": artificial autonomy and risk aversion extend TAM for teachers (Dai et al. 2026)
 - [[akbaba-nursing-ai-experiences-tam-2026]] — Nursing AI experiences; psychosocial extension of TAM
 - [[saihi-ahmed-genai-adoption-personas-higher-ed-2026]] — GenAI adoption personas via clustering
