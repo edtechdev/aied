@@ -3,7 +3,7 @@ title: "Building Intelligent Textbooks"
 created: "2026-10-10T11:10:00-04:00"
 updated: "2026-10-10T11:10:00-04:00"
 type: resource
-summary: "Dan McCreary's open-source guide to building intelligent textbooks — online textbooks with search, navigation, glossaries, quizzes, concept graphs and embedded simulations — using MkDocs Material and generative AI, with a companion library of AI-generated interactive MicroSims."
+summary: "Dan McCreary's open-source guide to building intelligent textbooks: online textbooks with search, navigation, glossaries, quizzes, concept graphs and embedded simulations, built with MkDocs Material and generative AI, with a companion library of AI-generated interactive MicroSims."
 url: https://dmccreary.github.io/intelligent-textbooks/
 source_code: https://github.com/dmccreary/intelligent-textbooks
 author: "Dan McCreary"
