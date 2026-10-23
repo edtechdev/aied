@@ -14,7 +14,7 @@ sources: ['raw/papers/vira-bench-pedagogical-contingency-tutoring-videos-2026.md
 confidence: medium
 contributors: [editor]
 ai_assist:
-  - model: deepseek/deepseek-v4.1-flash
+  - model: deepseek/deepseek-v4.1-flash-1017
     role: drafting
     date: "2026-10-22"
     agent: hermes-agent

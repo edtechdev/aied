@@ -2282,13 +2282,14 @@
       },
       {
         "id": "deepseek/deepseek-v4.1-flash",
-        "since": "2026-09-11",
-        "note": "default model for drafting and revising page text"
+        "since": "2026-09-04",
+        "note": "default model for drafting and revising page text; earliest recorded use 2026-09-04"
       },
       {
         "id": "deepseek/deepseek-v4.1-flash-1017",
-        "since": "2026-10-22",
-        "note": "snapshot-suffixed id of the same model, now the configured default; used for attribution from 2026-10-23"
+        "since": "2026-10-22T06:05:00-04:00",
+        "note": "snapshot-suffixed id of the same model, configured as the default from 2026-10-22 06:05 EDT",
+        "supersedes": "deepseek/deepseek-v4.1-flash"
       },
       {
         "id": "deepseek/deepseek-v4.0-flash-0731",
