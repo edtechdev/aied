@@ -3,7 +3,7 @@ title: "EduGems"
 created: "2026-09-20T13:49:11-04:00"
 updated: "2026-09-20T13:49:11-04:00"
 type: resource
-summary: "'A growing library of pre-made Google Gemini 'Gems' — shareable, pre-written prompts for planning, feedback, forms, images and AI-use reflection."
+summary: "A growing library of pre-made Google Gemini 'Gems': shareable, pre-written prompts for planning, feedback, forms, images and AI-use reflection."
 url: https://www.edugems.ai/
 author: "Eric Curts"
 author_url: https://www.controlaltachieve.com/
