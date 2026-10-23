@@ -7736,3 +7736,204 @@
   - quantitative-research
   - summative-assessment
   reason: 'A methodological validity study on one exam''s corpus: two of fifteen candidates carried a claim the page lacked. The ''embedding clusters organize by wording, not physics'' finding was placed once (educational-nlp) rather than repeated across the physics and assessment pages. || ai-ed-evaluation: Evaluating AI-in-education interventions; this tests the fidelity of an analytic instrument, not whether an intervention works. || automated-assessment: The paper tests pairwise similarity and clustering, not grading systems; the validity lesson belongs on [[assessment-validity]] rather than restated here. || benchmark: No benchmark score, leaderboard or model comparison is reported; the object of study is the embedding space, not model capability. || generative-ai: The models appear as instruments (GPT-5.4 transcribing handwriting); the paper makes no claim about generative capability. || higher-ed: An ETH Zurich exam is the setting rather than a finding about higher education. || human-in-the-loop-ai: Human review is a recommendation, not a measured practice; no evidence about how oversight performs. || llm: Same as generative-ai: LLMs serve as a transcription and embedding mechanism, with no claim about the models themselves. || machine-learning: The methods are standard rank correlation and hierarchical clustering; nothing new about ML technique. || misconceptions: Organizing statements by wording is not a claim about learner misconceptions or their diagnosis. || physics-education: Physics is the dataset''s domain, and by the test used here (sample composition is not a finding) the result is method-level: it says embedding similarity does not preserve rubric distinctions, not something about learning physics. || problem-solving: No claim about problem-solving processes or strategies. || quantitative-research: Rank correlations and clustering are routine; the page carries no methodological novelty this would fill. || summative-assessment: No claim about summative assessment design or stakes.'
+- article: chatbots-oral-proficiency-efl-systematic-review
+  date: 2026-10-23
+  integrated:
+  - language-learning
+  - speech-and-voice-technologies
+  - anxiety-and-stress
+  no_change:
+  - conversational-ai
+  - feedback
+  - higher-ed
+  - k-12
+  - motivation
+  - qualitative-research
+  - scaffolding
+  reason: 'A ten-study systematic review of chatbots for English oral proficiency: three of ten candidates carried a claim the page lacked, and each landed on a different page (evidence distribution, system-specific accuracy and ASR failure, and the performance-versus-experience split). The mind-map scaffolding finding was deliberately left out to avoid trading a stronger design for a weaker one. || conversational-ai: The chatbot page already argues the closed-domain and discourse-level limits of conversational agents; the review''s contribution there would be a quieter restatement. || feedback: It reports that automated feedback was appreciated but that motivation rose with or without it, which is weaker than the feedback-design claims the page already carries from studies that manipulated the design. || higher-ed: Level hub; the corpus is mostly university students by sampling convenience, so university-ness is the setting rather than a finding about higher education. || k-12: Only two of the ten studies involved school-age learners (one high school, one elementary), which is too thin a base for a K-12 claim. || motivation: That chatbot practice raised motivation corroborates a claim the page already makes from larger samples; the review adds no mechanism the page lacks. || qualitative-research: A PRISMA-style interpretive synthesis is described on that page already, and nothing here changes how the method should be taught or judged. || scaffolding: The mind-map result (327 interactional-strategy instances against 189) is real but comes from one quasi-experimental study, while the page''s scaffolding claims rest on designs that isolate the scaffold; recording it would trade a stronger warrant for a weaker one.'
+
+- article: ai-proof-learning-cognitive-offloading-2026
+  date: 2026-10-23
+  integrated:
+  - cognitive-offloading
+  - self-efficacy
+  - math-education
+  - intelligent-tutoring
+  no_change:
+  - ai-feedback-quality
+  - assessment-validity
+  - formative-assessment
+  - generative-ai
+  - guardrails
+  - help-seeking
+  - higher-ed
+  - learning-analytics
+  - learning-design
+  - llm
+  - metacognition
+  - mixed-methods-research
+  - quantitative-research
+  - scaffolding
+  - self-regulated-learning
+  - student-ai-interaction
+  - transfer-of-learning
+  - undergraduate
+  - hallucination-risk
+  reason: 'Four weaves. cognitive-offloading: the access-randomized null (2.56-point homework gain, no exam difference) and the chatbot-versus-attempt-first contrast. self-efficacy: the mediation path from lower baseline self-efficacy through heavier chatbot use to 0.62 fewer exam points. intelligent-tutoring: the assistance-dilemma null; grep ''assistance dilemma'' returned 0 hits, so the page lacked the framing. math-education: AI-supported proof work alongside the other offloading study. Prior-coverage dismissals with evidence: ai-feedback-quality (grep ''feedback'' -> 184 hits), assessment-validity (grep ''exam'' -> 14), help-seeking (grep ''help'' -> 74), metacognition (grep ''monitor'' -> 22), learning-analytics (grep ''log'' -> 14). No-claim dismissals: scaffolding, student-ai-interaction, self-regulated-learning, learning-design, guardrails, mixed-methods-research and quantitative-research are method or design pages the study instantiates rather than a missing claim; transfer-of-learning is dismissed because no transfer or delayed-retention test was administered, which the page''s Limitations states; formative-assessment and the llm/generative-ai/higher-ed/undergraduate pages carry the class already, and the finding is placed on the pages above rather than restated.'
+- article: llm-math-homework-offloading-traces-2026
+  date: 2026-10-23
+  integrated:
+  - cognitive-offloading
+  - math-education
+  - self-regulated-learning
+  no_change:
+  - agency
+  - assessment
+  - generative-ai
+  - help-seeking
+  - higher-ed
+  - human-ai-collaboration
+  - llm
+  - metacognition
+  - mixed-methods-research
+  - problem-solving
+  - prompt-engineering
+  - qualitative-research
+  - teacher-education
+  - undergraduate
+  - student-ai-interaction
+  reason: 'Three weaves: cognitive-offloading (a submission is not a marker of offloading: 27 of the 30 explain-led chatlogs still ended close to the model''s output), math-education, and self-regulated-learning (each prompt read as a regulatory event). Prior-coverage dismissals with evidence: agency (grep ''regulat'' -> 15 hits), prompt-engineering (grep ''prompt'' -> 132), help-seeking (grep ''help'' -> 74), metacognition (grep ''monitor'' -> 22), assessment (grep ''graded'' -> 2, and its graded-artifact discussion already carries the submission frame). No-claim dismissals: teacher-education (the setting is a teacher education college but the study makes no claim about teacher preparation), human-ai-collaboration, problem-solving, the llm/generative-ai/higher-ed/undergraduate pages, and qualitative-research and mixed-methods-research, which are method pages the study instantiates rather than extends.'
+- article: tutor-case-bench-challenging-behaviors-2026
+  date: 2026-10-23
+  integrated:
+  - intelligent-tutoring
+  - special-education
+  - ai-ed-evaluation
+  - benchmark
+  no_change:
+  - affective-tutoring
+  - anxiety-and-stress
+  - assessment-validity
+  - conversational-ai
+  - evaluative-judgment
+  - inclusive-learning
+  - k-12
+  - llm
+  - pedagogical-safety
+  - primary-education
+  - scaffolding
+  - simulating-students
+  - social-emotional-learning
+  - student-engagement
+  - teacher-role
+  reason: 'Four weaves: intelligent-tutoring and special-education (case-grounded evaluation of challenging-behavior support, 55.8% overall and 43.3% on long-term plans), ai-ed-evaluation (recognition versus generation: 63.0% on four-option items against 55.8% free-response), and benchmark (a benchmark built from documented cases rather than simulated personas). Prior-coverage dismissals with evidence: affective-tutoring (grep ''tutor'' -> 24 hits), conversational-ai (grep ''chatbot'' -> 24), scaffolding (grep ''scaffold'' -> 102), social-emotional-learning (grep ''social-emotional'' -> 11), anxiety-and-stress (grep ''anxiet'' -> 105). No-claim dismissals: simulating-students is the persona-simulation contrast the benchmark deliberately avoids and its page already discusses that design; evaluative-judgment, assessment-validity, inclusive-learning, pedagogical-safety, teacher-role, student-engagement, k-12, primary-education and llm carry the class already, and the finding is placed once on the four pages above rather than restated.'
+- article: genai-reliance-scale-problem-solving-2026
+  date: 2026-10-23
+  integrated:
+  - psychometrically-aware-ai
+  no_change:
+  - assessment-validity
+  - cognitive-offloading
+  - cognitive-surrender
+  - collaborative-learning
+  - critical-thinking
+  - educational-measurement
+  - generative-ai
+  - hallucination-risk
+  - higher-ed
+  - human-ai-collaboration
+  - intelligent-tutoring
+  - metacognition
+  - problem-based-learning
+  - problem-solving
+  - quantitative-research
+  - self-regulated-learning
+  - self-report-measures
+  - student-ai-interaction
+  - prompt-engineering
+  reason: 'One weave: psychometrically-aware-ai gained the four-factor reliance scale that measures behavior per task moment and holds across a differently shaped task (CFI = .91), a measurement-design claim the page did not carry (grep ''reliance'' -> 0 hits). Prior-coverage dismissals with evidence: cognitive-offloading (grep ''offload'' -> 149 hits) already carries over-reliance as task-shaped and uncalibrated, cognitive-surrender (grep ''offload'' -> 19), self-report-measures (grep ''self-report'' -> 55), educational-measurement (grep ''measure'' -> 89), assessment-validity (grep ''scale'' -> 9). No-claim dismissals: problem-solving, problem-based-learning, collaborative-learning, critical-thinking, metacognition, self-regulated-learning, hallucination-risk, human-ai-collaboration, student-ai-interaction, intelligent-tutoring and the generative-ai/higher-ed pages are the constructs the instrument names rather than claims the study advances about them; its contribution is the instrument, placed on psychometrically-aware-ai. quantitative-research is a method page the study instantiates.'
+- article: generative-ai-governance-education-scoping-review-2026
+  date: 2026-10-23
+  integrated:
+  - governance
+  - educational-policy-ai
+  no_change:
+  - academic-integrity
+  - ai-detection
+  - ai-literacy
+  - ai-use-disclosure
+  - assessment
+  - equity-in-ai-education
+  - ethics
+  - generative-ai
+  - higher-ed
+  - human-in-the-loop-ai
+  - k-12
+  - llm
+  - meta-analysis-systematic-review
+  - privacy
+  - qualitative-research
+  - regulation
+  - sustainability
+  - teacher-ai-competency
+  - teacher-role
+  reason: 'Two weaves: governance (2.5% of 160 documents carry legal force while 57.5% are guidance or toolkits, and accountability pairs with a named oversight actor in 100) and educational-policy-ai (legal form rarer than legal language: 3 of the 131 documents invoking legal controls are themselves legal instruments). Prior-coverage dismissals with evidence: academic-integrity (grep ''policy'' -> 50 hits), ai-detection (grep ''detect'' -> 120), regulation (grep ''regulat'' -> 35), sustainability (grep ''sustainab'' -> 61), ai-use-disclosure (grep ''disclos'' -> 84), assessment (grep ''assessment'' -> 113), ai-literacy (grep ''literacy'' -> 259); privacy and equity-in-ai-education carry the risk categories the review codes. No-claim dismissals: ethics, human-in-the-loop-ai, teacher-role, teacher-ai-competency, k-12, higher-ed, llm and generative-ai are populations or constructs the documents mention, and a frequency count from a document corpus is not evidence about how any of them behaves in practice. meta-analysis-systematic-review and qualitative-research are method pages the review instantiates.'
+- article: ai-feedback-literacy-agentic-engagement-panel-2026
+  date: 2026-10-23
+  integrated:
+  - feedback-literacy
+  - student-engagement
+  no_change:
+  - agency
+  - ai-literacy
+  - educational-measurement
+  - evaluative-judgment
+  - feedback
+  - generative-ai
+  - higher-ed
+  - motivation
+  - quantitative-research
+  - self-determination-theory
+  - self-efficacy
+  - self-regulated-learning
+  - self-report-measures
+  - sociocultural-learning
+  - student-ai-interaction
+  - trust-calibration
+  - undergraduate
+  reason: 'Two weaves: feedback-literacy and student-engagement both gained the reciprocal within-person result (beta = 0.222 and 0.263, Wald test p = 0.972), which neither page carried (grep ''agentic'' -> 0 hits on feedback-literacy; ''agentic engagement'' -> 0 on student-engagement). Prior-coverage dismissals with evidence: agency (grep ''agentic'' -> 7 hits), ai-literacy (grep ''literacy'' -> 259), educational-measurement (grep ''measure'' -> 89), self-report-measures (grep ''self-report'' -> 55), motivation (grep ''motivat'' -> 74), self-efficacy (grep ''self-efficacy'' -> 64), self-regulated-learning. No-claim dismissals: evaluative-judgment and feedback are the constructs the scales measure rather than claims the panel advances; self-determination-theory is a lens the authors invoke (grep ''self-determination'' -> 5 hits, already carried); sociocultural-learning and trust-calibration appear only as adjacent literature the page discusses; student-ai-interaction, generative-ai, higher-ed and undergraduate are mention-only; quantitative-research is a method page the study instantiates.'
+- article: early-childhood-ai-holistic-competencies-review-2026
+  date: 2026-10-23
+  integrated:
+  - early-childhood-elementary-ai-education
+  - ai-literacy
+  no_change:
+  - adaptive-learning
+  - bias-mitigation
+  - collaborative-learning
+  - computational-thinking
+  - creativity
+  - critical-thinking
+  - curriculum-design
+  - design-based-research
+  - educational-policy-ai
+  - educational-robotics
+  - embodied-learning
+  - equity-in-ai-education
+  - generative-ai
+  - governance
+  - k-12
+  - parents-and-families
+  - primary-education
+  - privacy
+  - professional-training
+  - research-methods-aied
+  - scaffolding
+  - self-efficacy
+  - social-emotional-learning
+  - teacher-ai-competency
+  - theories-and-frameworks
+  - trust-calibration
+  - well-being
+  - meta-analysis-systematic-review
+  reason: 'Two weaves: early-childhood-elementary-ai-education (the five-domain competency set in which AI literacy cannot stand alone, plus the 26-of-86 empirical figure) and ai-literacy (literacy nested rather than foundational for children aged 0 to 8; grep ''executive function'' -> 0 hits on that page). Prior-coverage dismissals with evidence: teacher-ai-competency (grep ''professional'' -> 22 hits and the page already carries professional-development design), social-emotional-learning (grep ''social-emotional'' -> 11), well-being (grep ''well-being'' -> 42), governance (grep ''governance'' -> 103), professional-training (grep ''professional'' -> 22), computational-thinking and creativity, which already carry the play and making themes. No-claim dismissals: this is a conceptual mapping review with 30.2% empirical sources, so it advances no claim about adaptive-learning, bias-mitigation, equity-in-ai-education, privacy, trust-calibration, educational-robotics, embodied-learning, scaffolding, self-efficacy, curriculum-design, educational-policy-ai, design-based-research, research-methods-aied or theories-and-frameworks as such; those are themes it catalogues. parents-and-families, k-12 and primary-education are populations, and generative-ai is the technology under discussion.'
