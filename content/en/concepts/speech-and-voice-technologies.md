@@ -1,7 +1,7 @@
 ---
 title: Speech and Voice Technologies
 created: "2026-09-16T14:29:36-04:00"
-updated: "2026-10-22T18:33:39-04:00"
+updated: "2026-10-23T09:14:19-04:00"
 type: concept
 technology: [generative-ai, multimodal]
 assessment: [assessment]
@@ -39,6 +39,8 @@ A second strand asks whether AI pronunciation feedback changes learners' disposi
 Automated pronunciation feedback can also be built without error labels. [[ai-guided-learning-audiovideo-2026|Kawamura (2026)]] describes Profy, which learns what good and poor pronunciation look like from largely unannotated speech via self-supervised learning, then shows learners which waveform regions drove the judgment and how far their acoustics sit from native-speaker distributions. With 10 Japanese learners of English rated by five American listeners, intelligibility improved, and unlike an elicited-imitation baseline the pre- and post-practice confidence intervals did not overlap — a small sample, but one that gives *where* and *how much* rather than a binary verdict.
 
 ASR also serves the classroom in a second role — converting spoken input into text that learners read. [[ai-mediated-input-medical-english-asr-2026|Stanchev (2026)]] rendered a 2,692-token Medical English coursebook passage on proteins with one text-to-speech voice (15:27, female Canadian) and submitted the identical audio to four online ASR services, then measured both word error rate (WER) and **coverage** (returned words as a share of the reference). The two free services returned near-complete transcripts (87.96% and 88.34% coverage, WER 15.23% and 15.00%), while the two paid services exported only previews (32.76% and 55.35% coverage, WER 73.21% and 48.77%). The measurement point is that WER alone conflates unavailable text with inaccurate text and would rank an export restriction as a transcription failure, so coverage belongs beside the error rate. Deletions dominated every service and clustered on structural markers such as figure references and page numbers, but a handful of meaning-altering substitutions — imino → amino, cystine → cysteine, protonated → protonatid, pH → phase — each inverted a biochemical fact, which is why the authors propose a three-stage workflow (generate the input, export the full transcript, verify domain terminology) before a transcript reaches learners, and why a terminology pass is the cheapest guardrail for medical English.
+
+Accuracy gains appear to be a property of purpose-built systems rather than of the spoken channel itself. Across ten studies, only chatbots designed for language learning — Andy English bot and Xiaoying — improved accuracy, with a 14% error decrease in one control group against 38% in the treatment group ([[chatbots-oral-proficiency-efl-systematic-review|Soriano-Gonzalez & Belda-Medina (2026)]]). The same review documents ASR failing on accented speech and non-English names, including a bot that could not recognize Vietnamese names even when pronunciation was accurate.
 
 ## TTS and Voice-Generated Instruction
 
@@ -95,6 +97,7 @@ Almost every strong claim here rests on one short study. The two TTS lesson stud
 
 ## Connected Articles
 
+- [[chatbots-oral-proficiency-efl-systematic-review]] — Accuracy gains only from language-learning chatbots, and ASR failures on accented names
 - [[voice-based-ai-feedback-interviews-higher-ed-2026]] — A telephone voice agent turned on the feedback channel itself
 - [[asr-english-speaking-feedback-metacognition-2026]] — ASR speaking feedback: quality beats quantity, and proficiency moderates who benefits (Chen et al. 2026)
 - [[genai-pronunciation-feedback-wtc-2026]] — Pronunciation self-efficacy mediates GenAI pronunciation feedback and willingness to communicate (1,701 EFL learners)

@@ -1,7 +1,7 @@
 ---
 title: Anxiety and Stress
 created: "2026-08-25T09:40:00-04:00"
-updated: "2026-10-22T09:11:45-04:00"
+updated: "2026-10-23T09:14:19-04:00"
 type: concept
 foundations: [academic-integrity]
 pedagogy: [social-emotional-learning, well-being]
@@ -79,6 +79,8 @@ Competence is not a full buffer, though: among 551 Chinese first-year students, 
 
 This direction connects AI anxiety to [[motivation]], [[ai-literacy]], [[student-experience]], and [[self-regulated-learning]].
 
+An agent that resembles an examiner can carry an examination's pressure with it. Students who practiced speaking with Replika scored significantly higher than they did with peers, yet described the interaction as anxious and awkward and did not want to use it again — measured performance and experienced stress moving in opposite directions ([[chatbots-oral-proficiency-efl-systematic-review|Soriano-Gonzalez & Belda-Medina (2026)]]).
+
 ## Career-related AI anxiety
 
 A distinct and increasingly studied dimension is **career anxiety** — the fear that AI will displace jobs, erode employability, or devalue one's professional future. Where proctoring anxiety is situational and learner-emotion anxiety is about in-task competence, career anxiety is forward-looking and identity-level, and it is tightly linked to [[career-development-and-readiness]]. The [[kim-ai-anxiety-comprehensive-analysis|AI Anxiety comprehensive analysis]] identifies the **fear of replacement by AI** as the primary contributor to AI anxiety, alongside uncontrolled AI growth, privacy, misinformation, and bias. A growing empirical literature now quantifies how this fear affects students:
@@ -134,6 +136,8 @@ The positive side: AI systems increasingly detect and help alleviate stress and 
 - [[social-norms-ai-use]] — the affective cost of visibility
 
 ## Connected Articles
+
+- [[chatbots-oral-proficiency-efl-systematic-review]] — An examiner-like agent raised measured speaking and anxiety at once
 - [[mu-ai-competence-ethical-awareness-anxiety-2026]] - Competence raises ethical awareness, ethical awareness raises AI anxiety: indirect-only mediation among 584 students
 - [[ai-anxiety-strategic-regulation-writing-2026]] — AI anxiety as a productive strategic-regulation signal
 - [[aivaluate-anxiety-assessment-2026]] — Student anxiety in AI-mediated performance-based assessment

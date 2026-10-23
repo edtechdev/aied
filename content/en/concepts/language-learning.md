@@ -2,7 +2,7 @@
 connected_resources: [mglearn]
 title: Language Learning
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-22T09:11:45-04:00"
+updated: "2026-10-23T09:14:19-04:00"
 type: concept
 foundations: [ai-education]
 technology: [generative-ai]
@@ -74,6 +74,7 @@ Design quality, not usage frequency, carried the motivational effect in an instr
 
 - **Four interaction profiles in a high-pressure bilingual task.** [[student-ai-interaction-consecutive-interpreting-2026|Kuang, Li and Weng (2026)]] used eye-tracking, pen-recording and voice-recording with 22 interpreting trainees to show that students divide attention between AI output and their own note-taking in four distinct ways — Intensive Engagers, Fast Scanners, Traditionalists and Frequent Switchers — and that 58.3% of stage-level observations changed profile between the comprehension and production stages of the same task. Only comprehension-stage patterns predicted product quality, and the AI-heaviest cluster scored lowest on fluency of delivery and target language quality, which makes the case for teaching learners to describe and reflect on their own strategy rather than prescribing one way of working with the tool.
 - **Route the full four-skill loop around cost and connectivity.** [[llmersion-local-first-language-learning-2026|Guo et al. (2026)]] release LLMersion-1, a local-first prototype that works listening, reading, speaking and writing over the learner's own document on consumer hardware — a 1B tutor quantizes to 808 MB and the whole resident stack stays under 4 GB — and prices five years of daily practice at roughly \$18 of electricity, against \$1,200 for a cloud subscription. No learner outcomes are reported and pronunciation feedback is segmental only.
+- **Evidence on chatbot speaking gains is uneven by feature.** In the only systematic synthesis of the question, ten studies from 2021 to 2024 improved range and intelligibility most reliably, while coherence was examined once and interaction almost never; four of the ten reported a single holistic score ([[chatbots-oral-proficiency-efl-systematic-review|Soriano-Gonzalez & Belda-Medina (2026)]]).
 
 ## Connected Concepts
 
@@ -94,6 +95,8 @@ Design quality, not usage frequency, carried the motivational effect in an instr
 - [[english-education]]
 - [[speech-and-voice-technologies]]
 ## Connected Articles
+
+- [[chatbots-oral-proficiency-efl-systematic-review]] — Chatbot gains in oral proficiency concentrate in range and intelligibility
 - [[student-ai-interaction-consecutive-interpreting-2026]] — Student-AI Interaction in Computer-Assisted Consecutive Interpreting
 - [[wu-psychological-adaptation-ai-japanese-learning-2026]] — Profiles and Transitions of Psychological Adaptation in AI-Assisted Japanese Language Learning
 - [[llm-agents-5e-esl-grammar-2026]] — LLM agents with 5E framework for ESL grammar acquisition (Yang, Weng & Yang 2026)
