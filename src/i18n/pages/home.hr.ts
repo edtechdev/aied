@@ -32,23 +32,23 @@ export interface HomeStrings {
 const hr: HomeStrings = {
   title: 'Početna',
   h1: 'Baza znanja o umjetnoj inteligenciji u edukaciji',
-  introHtml: `Dobrodošli u <strong>Bazu znanja o umjetnoj inteligenciji u edukaciji</strong> — besplatni resurs u javnoj domeni o <a href="/aied/concepts/ai-education/">umjetnoj inteligenciji u edukaciji</a>, za ljude koji poučavaju, uče, projektiraju ili upravljaju njome. Destilira nedavna istraživanja otvorenog pristupa u kratke, strukturirane stranice koje možete pročitati i primijeniti. Napomena o tome kako je nastala: stranice generira i ažurira AI agent, uz uredničke smjernice razvojnog programera stranice. Svaka tvrdnja navodi rad iza sebe, pa izvore možete provjeriti.`,
+  introHtml: `Dobrodošli u Bazu znanja o umjetnoj inteligenciji u edukaciji, besplatni resurs u javnoj domeni o <a href="/aied/concepts/ai-education/">umjetnoj inteligenciji u edukaciji</a> za ljude koji poučavaju, uče, projektiraju ili upravljaju njome. Sažima i sintetizira nedavna istraživanja u edukaciji otvorenog pristupa. Stranice piše i ažurira AI agent, uz uredničke smjernice razvojnog programera stranice.`,
   navHeading: 'Navigacija stranicom',
-  navHtml: `Pregledavajte indeks po područjima u lijevoj bočnoj traci kako biste vidjeli kako je područje organizirano, ili <a href="/aied/search">pretražite</a> cijelu bazu znanja ako već imate temu na umu. Stranice članaka sažimaju jedan rad u njegovu svrhu, metode i nalaze, s punom citacijom i poveznicama na povezani rad; stranice pojmova okupljaju ono što istraživanje kaže o jednoj ideji i povezuju studije iza njih. Ako biste radije počeli od pitanja, <a href="/aied/faq">indeks FAQ-a</a> prikuplja ona koja posjetitelji postavljaju prva, od politike AI na kolegiju do toga treba li koristiti detektore AI-ja; ako biste radije počeli od alata, <a href="/aied/resources">stranica resursa</a> navodi besplatne alate, zbirke i instrumente koje možete odmah koristiti, a za svaki piše tko ga je izradio i koliko košta. Karta pojmova iznad pokazuje što je s čim povezano; <a href="/aied/concepts/ai-education/">Umjetna inteligencija u edukaciji</a> je stranica karte iza nje, koja grupira pojmove u oko desetak osnovnih područja.`,
+  navHtml: `Pregledavajte indeks u lijevoj bočnoj traci, složen po područjima, ili <a href="/aied/search">pretražite</a> temu. Stranice članaka sažimaju jedan rad u njegovu svrhu, metode i nalaze; stranice pojmova okupljaju ono što istraživanje kaže o jednoj ideji i povezuju studije iza nje. Ako želite početi od pitanja, <a href="/aied/faq">FAQ</a> pokriva ono što posjetitelji najprije pitaju, poput politike AI-ja na kolegiju ili treba li koristiti detektore AI-ja. Ako želite početi od alata, <a href="/aied/resources">stranica resursa</a> navodi besplatne alate i zbirke, uz to tko je svaki izradio i koliko košta. Karta iznad grupira područje u dvanaest cjelina, s <a href="/aied/concepts/ai-education/">Umjetnom inteligencijom u edukaciji</a> kao središnjim čvorom.`,
   chatHeading: 'Razgovaraj s bazom znanja',
-  chatHtml: `Sve ovdje objavljeno je i u strojno čitljivim datotekama, pa svoj omiljeni AI chatbot ili agent možete usmjeriti na bazu znanja i dobiti odgovore koji je citiraju umjesto da nagađaju — <a href="/aied/ai">prompti su ovdje</a>. Nove stranice pojavljuju se u <a href="/aied/journal">časopisu</a>, koji ima <a href="/aied/rss.xml">RSS kanal</a> ako želite pratiti što je novo. Za čitanje bez interneta, preuzmite <a href="/aied/aied.epub">EPUB</a> ili <a href="/aied/aied.pdf">PDF</a>.`,
+  chatHtml: `Cijela baza znanja objavljena je i u strojno čitljivim datotekama, pa na nju možete usmjeriti AI chatbot ili agent i dobiti odgovore koji citiraju stranice. <a href="/aied/ai">Prompti su ovdje</a>. Nove stranice idu u <a href="/aied/journal">časopis</a>, koji ima <a href="/aied/rss.xml">RSS kanal</a>. Za čitanje bez interneta preuzmite <a href="/aied/aied.epub">EPUB</a> ili <a href="/aied/aied.pdf">PDF</a>.`,
   startingHeading: 'Preporučene polazne točke po publici',
-  startingIntro: 'U nastavku su neki preporučeni pojmovi od kojih možete početi u ovoj bazi znanja.',
+  startingIntro: 'Počnite sa skupinom koja odgovara vašoj ulozi.',
   groups: [
     {
       id: 'essential-concepts',
       heading: 'Osnovni pojmovi',
-      html: `<a href="/aied/concepts/ai-literacy/">AI pismenost</a>, <a href="/aied/concepts/misconceptions/">zablude o AI-ju</a>, <a href="/aied/concepts/agentic-ai/">agentski AI</a>, <a href="/aied/concepts/cognitive-offloading/">kognitivno rasterećenje</a> i <a href="/aied/concepts/interpreting-and-applying-aied-research/">kako tumačiti i primjenjivati ovo istraživanje</a>: što nalazi mogu i ne mogu poduprijeti, i zašto jedna studija rijetko razrješava pitanje.`,
+      html: `<a href="/aied/concepts/ai-literacy/">AI pismenost</a>, <a href="/aied/concepts/misconceptions/">zablude o AI-ju</a>, <a href="/aied/concepts/agentic-ai/">agentski AI</a>, <a href="/aied/concepts/cognitive-offloading/">kognitivno rasterećenje</a> i <a href="/aied/concepts/interpreting-and-applying-aied-research/">kako tumačiti i primjenjivati ovo istraživanje</a>, uključujući zašto jedna studija rijetko razrješava pitanje.`,
     },
     {
       id: 'instructors',
       heading: 'Nastavnici',
-      html: `<a href="/aied/concepts/teacher-role/">Promjena uloge nastavnika</a>, <a href="/aied/concepts/learning-design/">projektiranje učenja</a>, <a href="/aied/concepts/assessment/">procjena</a>, <a href="/aied/concepts/feedback/">povratne informacije</a>, <a href="/aied/concepts/academic-integrity/">akademski integritet</a>, <a href="/aied/concepts/framing-ai-use-for-students/">okvirivanje upotrebe AI-ja</a> i <a href="/aied/concepts/reducing-ai-misuse/">smanjenje zlouporabe</a>. Za alate, dokaze i primjere iz vlastitog područja, pogledajte <a href="/aied/concepts/discipline-specific-aied/">AI u vlastitoj disciplini</a>.`,
+      html: `<a href="/aied/concepts/teacher-role/">Promjena uloge nastavnika</a>, <a href="/aied/concepts/learning-design/">projektiranje učenja</a>, <a href="/aied/concepts/assessment/">procjena</a>, <a href="/aied/concepts/feedback/">povratne informacije</a>, <a href="/aied/concepts/academic-integrity/">akademski integritet</a>, <a href="/aied/concepts/framing-ai-use-for-students/">okvirivanje upotrebe AI-ja</a> i <a href="/aied/concepts/reducing-ai-misuse/">smanjenje zlouporabe</a>. Za alate i primjere specifične za predmet, pogledajte <a href="/aied/concepts/discipline-specific-aied/">AI u vlastitoj disciplini</a>.`,
     },
     {
       id: 'developers',
@@ -68,13 +68,13 @@ const hr: HomeStrings = {
   ],
   statsHeading: 'Što baza znanja sadrži',
   statsIntro:
-    'Svaka stranica ovdje je datirana, a baza znanja raste kako se objavljuju i pregledavaju nova istraživanja otvorenog pristupa. Brojevi u nastavku čitaju se iz trenutnog sadržaja; datum je najnovije ažuriranje stranice.',
+    'Svaka je stranica datirana, a brojevi u nastavku odražavaju ono što je objavljeno upravo sada; datum „posljednje ažuriranje" na kraju popisa označava najnovije uređivanje.',
   conceptMap: {
     title: 'Karta pojmova umjetne inteligencije u edukaciji',
     desc:
       'Radijalna karta s Umjetnom inteligencijom u edukaciji u središtu, povezana s dvanaest osnovnih pojmova: ' +
       'Modeliranje, Učenje, Pravednost, Povratne informacije, AI pismenost, Procjena, Discipline, Pedagogija, ' +
-      'Etika, Tehnologije, Procjena AIED-a i Istraživanje. Odaberite bilo koji čvor da otvorite njegovu stranicu.',
+      'Etika, Tehnologije, Procjena AIED-a i Istraživanje.',
     navLabel: 'Pojmovi umjetne inteligencije u edukaciji',
     center: 'Umjetna inteligencija u edukaciji',
     nodes: {

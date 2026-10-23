@@ -39,7 +39,7 @@ export interface AiStrings {
 
 const PROMPT = `Ti si istraživački asistent za AI u edukaciji. Koristi Bazu znanja o umjetnoj inteligenciji u edukaciji (https://edtechdev.github.io/aied/) kao svoj primarni izvor.
 
-1. Usmjeri se prije čitanja. Indeks FAQ-a na https://edtechdev.github.io/aied/faq/ mapira pitanja na stranice koja ih odgovaraju, uključujući pitanja tipa „što istraživanje pokazuje". Cijeli katalog na https://edtechdev.github.io/aied/llms.txt ima oko 800 KB, datoteka s pojmovima i FAQ-ovima na https://edtechdev.github.io/aied/llms-concepts.txt ima oko 4 MB, a llms-full.txt mnogo megabajta, pa ih pretražuj ili dohvaćaj dijelove umjesto da ih učitavaš u cijelosti, i ne dopusti da neuspješno dohvaćanje cijele datoteke zaustavi tvoj rad.
+1. Usmjeri se prije čitanja. Indeks FAQ-a na https://edtechdev.github.io/aied/faq/ mapira pitanja na stranice koja ih odgovaraju, uključujući pitanja tipa „što istraživanje pokazuje". Cijeli katalog na https://edtechdev.github.io/aied/llms.txt ima {llmsSize}, datoteka s pojmovima i FAQ-ovima na https://edtechdev.github.io/aied/llms-concepts.txt ima {llmsConceptsSize}, a llms-full.txt ima {llmsFullSize}, pa ih pretražuj ili dohvaćaj dijelove umjesto da ih učitavaš u cijelosti, i ne dopusti da neuspješno dohvaćanje cijele datoteke zaustavi tvoj rad.
 
 2. Utemelji svaku tvrdnju u stranici i citiraj je kao naslov stranice praćen njezinim URL-om. Kada stranica navodi citat i DOI rada iza nje, dodaj ih; neke stranice citiraju samo arXiv ID ili URL izdavača, pa navedi ono što stranica nudi i nikad ne izmišljaj DOI, URL, autora, broj ili nalaz.
 
@@ -57,10 +57,10 @@ const hr: AiStrings = {
   title: 'Upotreba ove baze znanja s vlastitim AI asistentom',
   description: 'Prompt za kopiranje i lijepljenje za upotrebu Baze znanja o umjetnoj inteligenciji u edukaciji s vlastitim chatbotom ili agentom.',
   h1: 'Upotreba ove baze znanja s vlastitim AI asistentom',
-  introHtml: `Svoj omiljeni AI chatbot ili agent možete usmjeriti na ovu bazu znanja kako bi odgovarao iz ovih istraživačkih stranica umjesto da nagađa. Prompt u nastavku radi taj posao. Kopirajte ga, zalijepite u svog asistenta kao prvu poruku, a zatim postavite svoje pitanje. Trebali biste dobiti odgovor koji navodi stranice na koje se pozivao i povezuje na njih, pa izvore možete sami provjeriti.`,
-  intro2Html: `Nije potrebna tehnička priprema i ništa se ne treba instalirati. Ako biste potpuno preskočili pripremu, postoje <a href="#ready-made-assistants">gotovi asistenti</a> koji već poznaju ovaj materijal.`,
+  introHtml: `Usmjerite bilo koji AI chatbot ili agent na ovu bazu znanja i odgovarat će iz ovih stranica umjesto iz vlastitog pamćenja. Kopirajte prompt u nastavku, zalijepite ga u svog asistenta kao prvu poruku, a zatim postavite svoje pitanje. Dobar odgovor navodi stranice na kojima se temeljio i povezuje na njih, pa izvore možete sami provjeriti.`,
+  intro2Html: `Ništa ne treba instalirati. Ako biste radije preskočili prompt, <a href="#ready-made-assistants">gotovi asistenti</a> već poznaju ovaj materijal.`,
   promptHeading: 'Prompt za kopiranje',
-  promptIntro: 'Prvo zalijepite ovo, prije svog pitanja. Radi s bilo kojim chatbotom ili agentom koji može pročitati web stranicu ili primiti zalijepljeni dokument. Okvir se pomiče, a gumb kopira cijeli sadržaj.',
+  promptIntro: 'Prvo zalijepite ovo, prije svog pitanja. Radi s bilo kojim chatbotom ili agentom koji može pročitati web stranicu ili primiti zalijepljeni dokument. Prompt je duži nego što okvir prikazuje; gumb kopira cijeli sadržaj.',
   copyButton: '📋 Kopiraj prompt u međuspremnik',
   copyHint: 'Zatim ga zalijepite u svog asistenta i postavite pitanje.',
   copyOk: '✅ Kopirano!',
@@ -70,28 +70,28 @@ const hr: AiStrings = {
   howHeading: 'Kako ga upotrijebiti',
   howSteps: [
     '<strong>Kopirajte prompt</strong> gumbom iznad.',
-    '<strong>Zalijepite ga u svog asistenta</strong> kao prvu poruku i pošaljite. Obično će odgovoriti da razumije.',
+    '<strong>Zalijepite ga u svog asistenta</strong> kao prvu poruku. Obično će odgovoriti da razumije.',
     '<strong>Postavite svoje pitanje</strong> običnim jezikom, na primjer „što istraživanje kaže o AI povratnim informacijama u velikim grupama?" ili „trebamo li koristiti detektore AI-ja?"',
     '<strong>Provjerite poveznice.</strong> Dobar odgovor navodi stranice koje je koristio. Ako dobijete samouvjerene tvrdnje bez naziva stranica, odgovorite „iz koje je to stranice?" i zamolite ga da pokuša ponovno.',
   ],
-  howNoteHtml: `Ovo najbolje radi u asistentima koji mogu pregledavati web, jer ih prompt usmjerava na stranice za čitanje. Ako vaš ne može otvarati poveznice, tada umjesto da lijepite samo prompt, priložite i tekst baze znanja: jednom <a href="/aied/llms-full.txt">preuzmite datoteku s punim tekstom</a>, učitajte je ili zalijepite u razgovor, i koristite prompt uz nju. To je jedna tekstualna datoteka od oko 15 MB. Mnogi chat proizvodi odbijaju datoteku te veličine, pa postoji i <a href="/aied/llms-concepts.txt">llms-concepts.txt</a> — svaka stranica pojmova i FAQ-a u cijelosti, oko 4 MB — koja je bolja datoteka za prvi zahvat: pojmovi su sinteze onoga što istraživanje pokazuje, FAQ-ovi su pitanja na koja te sinteze odgovaraju, a svaka stranica pojmova povezuje radove iza nje.`,
+  howNoteHtml: `Ovo najbolje radi u asistentima koji mogu pregledavati web, jer ih prompt usmjerava na stranice za čitanje. Ako vaš ne može otvarati poveznice, priložite i tekst baze znanja: jednom <a href="/aied/llms-full.txt">preuzmite datoteku s punim tekstom</a>, učitajte je ili zalijepite u razgovor, i koristite prompt uz nju. To je jedna tekstualna datoteka od {llmsFullSize}. Mnogi chat proizvodi odbijaju datoteku te veličine, pa postoji i <a href="/aied/llms-concepts.txt">llms-concepts.txt</a>, svaka stranica pojmova i FAQ-a u cijelosti, {llmsConceptsSize}. Prvo posegnite za njom: pojmovi su sinteze onoga što istraživanje pokazuje, FAQ-ovi su pitanja na koja te sinteze odgovaraju, a svaka stranica pojmova povezuje radove iza nje.`,
   techSummary: 'Tehničke napomene za alate koji žele URL umjesto prompta',
   techItems: [
-    '<a href="/aied/llms.txt">llms.txt</a> — katalog svake stranice, jedna linija za svaku, za alate koji indeksiraju stranicu prije čitanja',
-    '<a href="/aied/llms-full.txt">llms-full.txt</a> — cijeli tekst baze znanja u jednoj datoteci, oko 15 MB',
-    '<a href="/aied/llms-concepts.txt">llms-concepts.txt</a> — puni tekst stranica pojmova i FAQ-a, oko 4 MB, za alate i chatove koji odbijaju veću datoteku',
-    '<a href="/aied/sitemap-index.xml">Mapa stranice</a> — adresa svake stranice',
-    '<a href="/aied/rss.xml">RSS kanal</a> — nove i ažurirane stranice',
+    '<a href="/aied/llms.txt">llms.txt</a>: katalog svake stranice, jedna linija za svaku, za alate koji indeksiraju stranicu prije čitanja',
+    '<a href="/aied/llms-full.txt">llms-full.txt</a>: cijeli tekst baze znanja u jednoj datoteci, {llmsFullSize}',
+    '<a href="/aied/llms-concepts.txt">llms-concepts.txt</a>: puni tekst stranica pojmova i FAQ-a, {llmsConceptsSize}, za alate i chatove koji odbijaju veću datoteku',
+    '<a href="/aied/sitemap-index.xml">Mapa stranice</a>: adresa svake stranice',
+    '<a href="/aied/rss.xml">RSS kanal</a>: nove i ažurirane stranice',
   ],
   assistantsHeading: 'Gotovi asistenti',
-  assistantsIntro: 'Ako ne želite ništa postavljati, ova baza znanja dostupna je i kao gotov asistent:',
+  assistantsIntro: 'Ako ne želite ništa postavljati, upotrijebite jednog od ovih gotovih asistenata:',
   assistants: [
-    '<strong>Savjetnik za AI u edukaciji</strong> — <a href="https://gemini.google.com/gem/1oRhk2pouJb-RpTE36aAMaIRfJrBdMR95?usp=sharing" target="_blank" rel="noopener">Gemini Gem</a> koji odgovara iz ove baze znanja. Njegove su <a href="https://docs.google.com/document/d/1_6JIp40v9k42ifmANsmLHtKE5Xxgvl1uGHVUYe0gnc0/edit?usp=drivesdk" target="_blank" rel="noopener">prilagođene upute</a> javne, a izrađen je iz <strong>statične kopije</strong> baze znanja, pa može zaostajati za najnovijim stranicama.',
-    '<strong>NotebookLM bilježnica</strong> — <a href="https://notebooklm.google.com/notebook/7de87d06-8998-4f0a-81f5-c2523fc635d0?utm_source=nlmm_share" target="_blank" rel="noopener">Google NotebookLM bilježnica</a> izrađena na istom materijalu, s automatski generiranim izvješćima, infografikama, podcastom, prezentacijama i <a href="https://youtu.be/mUJOSigOOkQ?is=veEKHgQsreaqLC4d" target="_blank" rel="noopener">videom</a>.',
+    '<strong>Savjetnik za AI u edukaciji</strong>, <a href="https://gemini.google.com/gem/1oRhk2pouJb-RpTE36aAMaIRfJrBdMR95?usp=sharing" target="_blank" rel="noopener">Gemini Gem</a> koji odgovara iz ove baze znanja. Njegove su <a href="https://docs.google.com/document/d/1_6JIp40v9k42ifmANsmLHtKE5Xxgvl1uGHVUYe0gnc0/edit?usp=drivesdk" target="_blank" rel="noopener">prilagođene upute</a> javne, a izrađen je iz statične kopije baze znanja, pa može zaostajati za najnovijim stranicama.',
+    '<strong>NotebookLM bilježnica</strong>: <a href="https://notebooklm.google.com/notebook/7de87d06-8998-4f0a-81f5-c2523fc635d0?utm_source=nlmm_share" target="_blank" rel="noopener">Google NotebookLM bilježnica</a> izrađena na istom materijalu, s automatski generiranim izvješćima, infografikama, podcastom, prezentacijama i <a href="https://youtu.be/mUJOSigOOkQ?is=veEKHgQsreaqLC4d" target="_blank" rel="noopener">videom</a>.',
   ],
   corpusHeading: 'Što baza znanja sadrži',
-  corpusHtml1: `Više od tisuću sažetaka istraživanja pokriva podučavanje i AI tutore, procjenu i povratne informacije, akademski integritet, AI pismenost, razvoj nastavnika i fakulteta, pravednost i pristupačnost, privatnost, politiku i upravljanje, te teme znanosti o učenju poput kognitivnog rasterećenja i motivacije učenika. Svaki sažetak završava punom citacijom i poveznicom na izvorni rad, pa vaš asistent može proslijediti referencu, a vi je možete dodatno istražiti.`,
-  corpusHtml2: `Tri vrste stranica odgovaraju na različita pitanja: <strong>stranice pojmova</strong> sažimaju ono što istraživanje kaže o jednoj ideji i povezuju studije iza nje, <strong>stranice članaka</strong> pokrivaju jedan rad po jedan, a <strong>FAQ-ovi</strong> odgovaraju na praktična pitanja nastavnika i administratora. Ako želite pregled teme, zatražite stranicu pojma; ako želite dokaze, zatražite studije.`,
+  corpusHtml1: `Više od tisuću sažetaka istraživanja pokriva podučavanje i AI tutore, procjenu i povratne informacije, akademski integritet, AI pismenost, razvoj nastavnika i fakulteta, pravednost i pristupačnost, privatnost, politiku i upravljanje, te teme znanosti o učenju poput kognitivnog rasterećenja i motivacije učenika. Svaki sažetak završava punom citacijom i poveznicom na izvorni rad, pa vaš asistent može proslijediti referencu.`,
+  corpusHtml2: `Tri vrste stranica odgovaraju na različita pitanja: stranice pojmova sažimaju ono što istraživanje kaže o jednoj ideji i povezuju studije iza nje, stranice članaka pokrivaju jedan rad po jedan, a FAQ-ovi odgovaraju na praktična pitanja nastavnika i administratora. Zatražite stranicu pojma kada želite pregled, a članke iza nje kada želite dokaze.`,
   answeredHeading: 'Pitanja na koja je već odgovoreno',
   answeredIntro: 'Mnoga pitanja koja ljudi prvo postave AI-ju ovdje su već ručno odgovorena, s priloženim istraživanjem:',
   answeredLinks: [
@@ -104,7 +104,7 @@ const hr: AiStrings = {
   ],
   answeredOutroHtml: `<a href="/aied/faq/">Cijeli popis FAQ-a</a> vrijedno je pogledati prije nego što pitate, a prompt upućuje vašeg asistenta da taj popis prvo provjeri.`,
   offlineHeading: 'Čitajte bazu znanja bez interneta',
-  offlineHtml: `Bazu znanja možete preuzeti i kao <a href="/aied/aied.epub">EPUB</a> ili <a href="/aied/aied.pdf">PDF</a> za čitač e-knjiga, telefon, tablet ili računalo. Ta izdanja za rad bez interneta sadrže stranice pojmova i FAQ-ove, ali ne i nekoliko stotina sažetaka članaka.`,
+  offlineHtml: `Bazu znanja možete preuzeti i kao <a href="/aied/aied.epub">EPUB</a> ili <a href="/aied/aied.pdf">PDF</a> za čitač e-knjiga, telefon, tablet ili računalo. Ta izdanja za rad bez interneta sadrže stranice pojmova i FAQ-ove, ali ne i sažetke članaka.`,
   toc: [
     { text: 'Prompt za kopiranje', slug: 'the-prompt', depth: 2 },
     { text: 'Kako ga upotrijebiti', slug: 'how-to-use-it', depth: 2 },

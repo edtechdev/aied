@@ -32,24 +32,24 @@ export interface HomeStrings {
 const hu: HomeStrings = {
   title: 'Kezdőlap',
   h1: 'Tudásbázis a mesterséges intelligencia oktatási felhasználásáról',
-  introHtml: `Üdvözöljük a <strong>mesterséges intelligencia oktatási felhasználásának tudásbázisában</strong> — egy ingyenes, közkinccsé nyilvánított forrásanyag a <a href=\"/aied/concepts/ai-education/\">mesterséges intelligencia oktatási alkalmazásairól</a>, azok számára, akik tanítják, tanulják, tervezik vagy irányítják azt. A közelmúlt nyílt hozzáférésű kutatási eredményeit rövid, strukturált oldalakra sűríti, amelyeket elolvashat és azonnal alkalmazhat. Egy megjegyzés az elkészítéséről: az oldalakat egy AI-ügynök hozza létre és frissíti, a weboldal fejlesztőjének szerkesztői irányításával. Minden állításhoz meg van nevezve a mögötte álló tanulmány, így a források ellenőrizhetők.`,
+  introHtml: `Üdvözöljük a mesterséges intelligencia oktatási felhasználásának tudásbázisában, egy ingyenes, közkinccsé nyilvánított forrásanyagban a <a href=\"/aied/concepts/ai-education/\">mesterséges intelligencia oktatási alkalmazásairól</a>, azok számára, akik tanítják, tanulják, tervezik vagy irányítják. A közelmúlt nyílt hozzáférésű oktatási kutatásait foglalja össze és szintetizálja. Az oldalakat egy AI-ügynök írja és frissíti, a weboldal fejlesztőjének szerkesztői irányításával.`,
   navHeading: 'A weboldal használata',
-  navHtml: `Böngéssze a bal oldali oldalsávban a tématerületenkénti indexet, hogy lássa, hogyan szerveződik a terület, vagy <a href=\"/aied/search\">keressen</a> az egész tudásbázisban, ha már konkrét téma van a fejében. A cikkoldalak egy-egy tanulmányt összefoglalnak céljával, módszereivel és eredményeivel, teljes idézettel és a kapcsolódó művekhez vezető linkekkel; a fogalomoldalak összegyűjtik, hogy mit mond a kutatás egy-egy gondolatról, és a mögöttük álló vizsgálatokhoz vezetnek. Ha inkább egy kérdésből szeretne kiindulni, a <a href=\"/aied/faq\">GYIK-index</a> összegyűjti azokat, amelyeket a látogatók elsőként kérdeznek, a kurzusokra vonatkozó AI-szabályozástól az AI-detektorok használatáig; ha inkább egy eszközből szeretne kiindulni, a <a href=\"/aied/resources\">források oldala</a> ingyenes eszközöket, gyűjteményeket és mérési instrumentumokat sorol fel, amelyeket azonnal felhasználhat, mindegyiknél megjelölve, ki készítette és mennyibe kerül. A fenti fogalomtérkép azt mutatja, mi függ össze mivel; a <a href=\"/aied/concepts/ai-education/\">mesterséges intelligencia oktatási alkalmazásai</a> a mögötte álló térképlap, amely a fogalmakat mintegy tucatnyi paratematikus ágra csoportosítja.`,
+  navHtml: `Böngéssze a bal oldali oldalsávban található, tématerületenként elrendezett indexet, vagy <a href=\"/aied/search\">keressen</a> egy témára. A cikkoldalak egy-egy tanulmányt sűrítenek céljára, módszereire és eredményeire; a fogalomoldalak összegyűjtik, hogy mit mond a kutatás egy-egy gondolatról, és a mögöttük álló vizsgálatokhoz vezetnek. Ha kérdésből szeretne kiindulni, a <a href=\"/aied/faq\">GYIK</a> azokat gyűjti össze, amelyeket a látogatók elsőként kérdeznek, például a kurzus AI-szabályozását vagy azt, hogy érdemes-e AI-detektorokat használni. Ha eszközből szeretne kiindulni, a <a href=\"/aied/resources\">források oldala</a> ingyenes eszközöket és gyűjteményeket sorol fel, mindegyiknél megjelölve, ki készítette és mennyibe kerül. A fenti térkép tizenkét ágra csoportosítja a területet, középpontjában a <a href=\"/aied/concepts/ai-education/\">mesterséges intelligencia oktatási alkalmazásaival</a>.`,
   chatHeading: 'Csevegés a tudásbázissal',
-  chatHtml: `Minden itt szereplő anyag géppel olvasható fájlokban is megjelenik, így arra irányíthatja a kedvenc AI-csevegőrobotját vagy -ügynökét, hogy a tudásbázisra hivatkozva válaszoljon találgatás helyett — <a href=\"/aied/ai\">a promptok itt találhatók</a>. Az új oldalak a <a href=\"/aied/journal\">naplóban</a> jelennek meg, amelyhez <a href=\"/aied/rss.xml\">RSS-hírcsatorna</a> is tartozik, ha nyomon szeretné követni a változásokat. Offline olvasáshoz töltse le az <a href=\"/aied/aied.epub\">EPUB</a>-ot vagy a <a href=\"/aied/aied.pdf\">PDF</a>-et.`,
+  chatHtml: `A teljes tudásbázis géppel olvasható fájlokban is megjelenik, így egy AI-csevegőrobotot vagy -ügynököt rá lehet irányítani, és az oldalakra hivatkozó válaszokat kap. <a href=\"/aied/ai\">A promptok itt találhatók</a>. Az új oldalak a <a href=\"/aied/journal\">naplóba</a> kerülnek, amelyhez <a href=\"/aied/rss.xml\">RSS-hírcsatorna</a> is tartozik. Offline olvasáshoz töltse le az <a href=\"/aied/aied.epub\">EPUB</a>-ot vagy a <a href=\"/aied/aied.pdf\">PDF</a>-et.`,
   startingHeading: 'Ajánlott kiindulópontok közönség szerint',
   startingIntro:
-    'Íme néhány ajánlott fogalom, amellyel elkezdheti a böngészést ebben a tudásbázisban.',
+    'Kezdje azzal a csoporttal, amelyik megfelel az Ön szerepének.',
   groups: [
     {
       id: 'essential-concepts',
       heading: 'Alapfogalmak',
-      html: `<a href=\"/aied/concepts/ai-literacy/\">AI-írástudás</a>, <a href=\"/aied/concepts/misconceptions/\">a mesterséges intelligenciával kapcsolatos tévhied</a>, <a href=\"/aied/concepts/agentic-ai/\">az autonóm AI</a>, <a href=\"/aied/concepts/cognitive-offloading/\">a kognitív kiszervezés</a> és <a href=\"/aied/concepts/interpreting-and-applying-aied-research/\">hogyan értelmezze és alkalmazza ezt a kutatást</a>: mit támasztanak alá az eredmények és mit nem, és miért dönt el egyetlen tanulmány ritkán egy kérdést.`,
+      html: `<a href=\"/aied/concepts/ai-literacy/\">AI-írástudás</a>, <a href=\"/aied/concepts/misconceptions/\">a mesterséges intelligenciával kapcsolatos tévhied</a>, <a href=\"/aied/concepts/agentic-ai/\">az autonóm AI</a>, <a href=\"/aied/concepts/cognitive-offloading/\">a kognitív kiszervezés</a> és <a href=\"/aied/concepts/interpreting-and-applying-aied-research/\">hogyan értelmezze és alkalmazza ezt a kutatást</a>, beleértve azt is, miért dönt el egyetlen tanulmány ritkán egy kérdést.`,
     },
     {
       id: 'instructors',
       heading: 'Oktatók',
-      html: `<a href=\"/aied/concepts/teacher-role/\">A változó tanári szerep</a>, <a href=\"/aied/concepts/learning-design/\">a tanulási tervezés</a>, <a href=\"/aied/concepts/assessment/\">az értékelés</a>, <a href=\"/aied/concepts/feedback/\">a visszajelzés</a>, <a href=\"/aied/concepts/academic-integrity/\">a tudományos becsület</a>, <a href=\"/aied/concepts/framing-ai-use-for-students/\">az AI-használat kereteinek meghatározása</a> és <a href=\"/aied/concepts/reducing-ai-misuse/\">a visszaélések csökkentése</a>. A saját tárgyában elérhető eszközökhöz, bizonyítékokhoz és példákhoz lásd <a href=\"/aied/concepts/discipline-specific-aied/\">a mesterséges intelligencia a saját szakterületén</a>.`,
+      html: `<a href=\"/aied/concepts/teacher-role/\">A változó tanári szerep</a>, <a href=\"/aied/concepts/learning-design/\">a tanulási tervezés</a>, <a href=\"/aied/concepts/assessment/\">az értékelés</a>, <a href=\"/aied/concepts/feedback/\">a visszajelzés</a>, <a href=\"/aied/concepts/academic-integrity/\">a tudományos becsület</a>, <a href=\"/aied/concepts/framing-ai-use-for-students/\">az AI-használat kereteinek meghatározása</a> és <a href=\"/aied/concepts/reducing-ai-misuse/\">a visszaélések csökkentése</a>. A tantárgyspecifikus eszközökhöz és példákhoz lásd <a href=\"/aied/concepts/discipline-specific-aied/\">a mesterséges intelligencia a saját szakterületén</a>.`,
     },
     {
       id: 'developers',
@@ -69,13 +69,13 @@ const hu: HomeStrings = {
   ],
   statsHeading: 'Mit tartalmaz a tudásbázis',
   statsIntro:
-    'Minden oldal dátumozott, és a tudásbázis a nyílt hozzáférésű kutatási eredmények megjelenésének és áttekintésének nyomán bővül. Az alábbi számok a jelenlegi tartalomból származnak; a dátum a legutóbbi oldalfrissítésé tartozik.',
+    'Minden oldal dátumozott, és az alábbi számok azt tükrözik, ami éppen most megjelent; a lista végén álló „utolsó frissítés" dátum a legutóbbi szerkesztés ideje.',
   conceptMap: {
     title: 'Fogalomtérkép a mesterséges intelligencia oktatási alkalmazásairól',
     desc:
       'Radiális térkép, amelynek közepén a mesterséges intelligencia oktatási alkalmazásai állnak, tizenkét legfelső szintű fogalomhoz kapcsolódva: ' +
       'Modellezés, Tanulás, Esélyegyenlőség, Visszajelzés, AI-írástudás, Értékelés, Szakterületek, ' +
-      'Pedagógia, Etika, Technológia, Kiértékelés és Kutatás. Válasszon ki egy csomópontot az oldalának megnyitásához.',
+      'Pedagógia, Etika, Technológia, Kiértékelés és Kutatás.',
     navLabel: 'A mesterséges intelligencia oktatási alkalmazásainak fogalmai',
     center: 'Mesterséges intelligencia az oktatásban',
     nodes: {

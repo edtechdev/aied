@@ -39,7 +39,7 @@ export interface AiStrings {
 
 const PROMPT = `Wewe ni msaidizi wa utafiti kuhusu akili bandia katika elimu. Tumia Hifadhi ya Maarifa ya Akili Bandia katika Elimu (https://edtechdev.github.io/aied/) kama chanzo chako kikuu.
 
-1. Chagua njia kabla ya kusoma. Kielezo cha FAQ kwenye https://edtechdev.github.io/aied/faq/ kinaunganisha maswali na kurasa zinazoyajibu, ikijumuisha maswali ya aina \"uchunguzi unaonyesha nini\". Katalogi kamili kwenye https://edtechdev.github.io/aied/llms.txt ni takribani KB 800, faili ya dhana na FAQ kwenye https://edtechdev.github.io/aied/llms-concepts.txt ni takribani MB 4, na llms-full.txt ni megabaiti nyingi, kwa hivyo yatafute au uchukue sehemu badala ya kuipakia yote, na usiruhusu upakiaji wa faili nzima unaoshindikana kukuzuia.
+1. Chagua njia kabla ya kusoma. Kielezo cha FAQ kwenye https://edtechdev.github.io/aied/faq/ kinaunganisha maswali na kurasa zinazoyajibu, ikijumuisha maswali ya aina \"uchunguzi unaonyesha nini\". Katalogi kamili kwenye https://edtechdev.github.io/aied/llms.txt ni {llmsSize}, faili ya dhana na FAQ kwenye https://edtechdev.github.io/aied/llms-concepts.txt ni {llmsConceptsSize}, na llms-full.txt ni {llmsFullSize}, kwa hivyo yatafute au uchukue sehemu badala ya kuipakia yote, na usiruhusu upakiaji wa faili nzima unaoshindikana kukuzuia.
 
 2. Thibitisha kila madai kwa ukurasa na uutaje kwa kichwa cha ukurasa kikifuatiwa na URL yake. Ukurasa unapotoa marejeo ya karatasi ya msingi na DOI, yaongeze; kurasa zingine zinatoa tu kitambulisho cha arXiv au URL ya mchapishaji, kwa hivyo toa kile ukurasa unachotoa na usiwahi kubuni DOI, URL, mwandishi, namba, au matokeo.
 
@@ -57,10 +57,10 @@ const sw: AiStrings = {
   title: 'Tumia Hifadhi Hii ya Maarifa na Msaidizi Wako wa Akili Bandia',
   description: 'Maelekezo ya kunakili na kubandika ya kutumia Hifadhi ya Maarifa ya Akili Bandia katika Elimu na chatbot au wakala wako mwenyewe.',
   h1: 'Tumia Hifadhi Hii ya Maarifa na Msaidizi Wako wa Akili Bandia',
-  introHtml: `Unaweza kuelekeza chatbot au wakala wako wa akili bandia unaopendelea kwenye hifadhi hii ya maarifa ili ijibu kwa kutumia kurasa hizi za utafiti badala ya kubuni. Maelekezo yaliyo chini hufanya kazi hiyo. Yanakili, yabandike kwenye msaidizi wako kama ujumbe wako wa kwanza, kisha uliza swali lako. Unapaswa kupata jibu linalotaja kurasa zilizotumika na kuziweka viungo, ili uweze kuzihakiki vyanzo vyenyewe.`,
-  intro2Html: `Hakuna usanidi wa kiufundi unaohitajika, na hakuna kitu kinachohitaji kusakinishwa. Kama ungependa kuruka usanidi kabisa, kuna <a href=\"#ready-made-assistants\">masaidizi yaliyo tayari</a> yanayojua nyenzo hizi.`,
+  introHtml: `Elekeza chatbot au wakala wowote wa AI kwenye hifadhi hii ya maarifa na itajibu kutoka kurasa hizi badala ya kutoka kumbukumbu yake mwenyewe. Nakili maelekezo yaliyo chini, yabandike kwenye msaidizi wako kama ujumbe wako wa kwanza, kisha uliza swali lako. Jibu zuri hutaja kurasa zilizotumika na kuweka viungo, ili uweze kuhakiki vyanzo vyenyewe.`,
+  intro2Html: `Hakuna cha kusakinisha. Kama ungependa kuruka maelekezo, <a href=\"#ready-made-assistants\">masaidizi yaliyo tayari</a> yameshajua nyenzo hizi.`,
   promptHeading: 'Maelekezo ya kunakili',
-  promptIntro: 'Bandika hii kwanza, kabla ya swali lako. Inafanya kazi na chatbot au wakala wowote unaoweza kusoma ukurasa wa wavuti au kupokea hati iliyobandikwa. Kisanduku hupatikana kwa kusogeza, na kitufe hunakili maandishi yote.',
+  promptIntro: 'Bandika hii kwanza, kabla ya swali lako. Inafanya kazi na chatbot au wakala wowote unaoweza kusoma ukurasa wa wavuti au kupokea hati iliyobandikwa. Maelekezo ni marefu kuliko kisanduku kinavyoonyesha; kitufe hunakili yote.',
   copyButton: '📋 Nakili maelekezo kwenye ubao wa kunakili',
   copyHint: 'Kisha yabandike kwenye msaidizi wako na uliza swali lako.',
   copyOk: '✅ Yamenakiliwa!',
@@ -70,28 +70,28 @@ const sw: AiStrings = {
   howHeading: 'Jinsi ya kuitumia',
   howSteps: [
     '<strong>Nakili maelekezo</strong> kwa kitufe kilicho juu.',
-    '<strong>Yabandike kwenye msaidizi wako</strong> kama ujumbe wa kwanza, na uyatumie. Kwa kawaida yatajibu kuwa yameelewa.',
+    '<strong>Yabandike kwenye msaidizi wako</strong> kama ujumbe wa kwanza. Kwa kawaida yatajibu kuwa yameelewa.',
     '<strong>Uliza swali lako</strong> kwa lugha ya kawaida, kwa mfano \"uchunguzi unasema nini kuhusu maoni ya akili bandia katika madarasa makubwa?\" au \"tunapaswa kutumia vifaa vya kugundua akili bandia?\"',
     '<strong>Angalia viungo.</strong> Jibu zuri linataja kurasa zilizotumika. Kama unapata madai ya kujiamini bila majina ya kurasa, jibu \"hilo limetoka kwa kurasa gani?\" na muombe ajaribu tena.',
   ],
-  howNoteHtml: `Hii hufanya kazi vizuri zaidi katika masaidizi yanaoweza kuvinjari wavuti, kwa sababu maelekezo huyaonyesha kurasa za kusoma. Kama cha hakiwezi kufungua viungo, badala ya kubandika maelekezo peke yake, ambatanisha pia maandishi ya hifadhi ya maarifa: <a href=\"/aied/llms-full.txt\">pakua faili la maandishi kamili</a> mara moja, yapakie au yabandike kwenye mazungumzo, na yatumie maelekezo pamoja nayo. Ni faili moja la maandishi la takribani MB 15. Bidhaa nyingi za gumzo hukataa faili la ukubwa huo, kwa hivyo pia kuna <a href=\"/aied/llms-concepts.txt\">llms-concepts.txt</a> — kila ukurasa wa dhana na FAQ kwa ukamilifu, takribani MB 4 — ambalo ni faili bora la kuanzia nayo: dhana ni muhtasari wa kile utafiti unaonyesha, FAQ ni maswali ambayo muhtasari huo unayajibu, na kila ukurasa wa dhana unaweka viungo vya makala zinazozitegemea.`,
+  howNoteHtml: `Hii hufanya kazi vizuri zaidi katika masaidizi yanayoweza kuvinjari wavuti, kwa sababu maelekezo huyaonyesha kurasa za kusoma. Kama chako hakiwezi kufungua viungo, ambatanisha pia maandishi ya hifadhi ya maarifa: <a href=\"/aied/llms-full.txt\">pakua faili la maandishi kamili</a> mara moja, yapakie au yabandike kwenye mazungumzo, na yatumie maelekezo pamoja nayo. Ni faili moja la maandishi lenye ukubwa wa {llmsFullSize}. Bidhaa nyingi za gumzo hukataa faili la ukubwa huo, kwa hivyo pia kuna <a href=\"/aied/llms-concepts.txt\">llms-concepts.txt</a>, kila ukurasa wa dhana na FAQ kwa ukamilifu, ukubwa wa {llmsConceptsSize}. Anza na hilo: dhana ni muhtasari wa kile utafiti unaonyesha, FAQ ni maswali ambayo muhtasari huo unayajibu, na kila ukurasa wa dhana unaweka viungo vya makala zinazozitegemea.`,
   techSummary: 'Vidokezo vya kiufundi kwa zana zinazotaka URL badala ya maelekezo',
   techItems: [
-    '<a href=\"/aied/llms.txt\">llms.txt</a> — katalogi ya kila ukurasa, mstari mmoja kwa kila mmoja, kwa zana zinazofanyia faharasa tovuti kabla ya kuisoma',
-    '<a href=\"/aied/llms-full.txt\">llms-full.txt</a> — maandishi kamili ya hifadhi ya maarifa katika faili moja, takribani MB 15',
-    '<a href=\"/aied/llms-concepts.txt\">llms-concepts.txt</a> — maandishi kamili ya kurasa za dhana na FAQ, takribani MB 4, kwa zana na gumzo zinazokataa faili kubwa',
-    '<a href=\"/aied/sitemap-index.xml\">Ramani ya tovuti</a> — anwani za kila ukurasa',
-    '<a href=\"/aied/rss.xml\">Mlisho wa RSS</a> — kurasa mpya na zilizosasishwa',
+    '<a href=\"/aied/llms.txt\">llms.txt</a>: katalogi ya kila ukurasa, mstari mmoja kwa kila mmoja, kwa zana zinazofanyia faharasa tovuti kabla ya kuisoma',
+    '<a href=\"/aied/llms-full.txt\">llms-full.txt</a>: maandishi kamili ya hifadhi ya maarifa katika faili moja, {llmsFullSize}',
+    '<a href=\"/aied/llms-concepts.txt\">llms-concepts.txt</a>: maandishi kamili ya kurasa za dhana na FAQ, {llmsConceptsSize}, kwa zana na gumzo zinazokataa faili kubwa',
+    '<a href=\"/aied/sitemap-index.xml\">Ramani ya tovuti</a>: anwani za kila ukurasa',
+    '<a href=\"/aied/rss.xml\">Mlisho wa RSS</a>: kurasa mpya na zilizosasishwa',
   ],
   assistantsHeading: 'Masaidi yaliyo tayari',
-  assistantsIntro: 'Kama hupendi kusanidi chochote, hifadhi hii ya maarifa inapatikana pia kama msaidizi aliye tayari:',
+  assistantsIntro: 'Kama hupendi kusanidi chochote, tumia mmoja wa masaidizi haya yaliyo tayari:',
   assistants: [
-    '<strong>AI in Education Advisor</strong> — <a href=\"https://gemini.google.com/gem/1oRhk2pouJb-RpTE36aAMaIRfJrBdMR95?usp=sharing\" target=\"_blank\" rel=\"noopener\">Gemini Gem</a> inayojibu kutoka hifadhi hii ya maarifa. <a href=\"https://docs.google.com/document/d/1_6JIp40v9k42ifmANsmLHtKE5Xxgvl1uGHVUYe0gnc0/edit?usp=drivesdk\" target=\"_blank\" rel=\"noopener\">Maagizo yake maalum</a> ni ya umma, na ilijengwa kutoka <strong>nakala tuli</strong> ya hifadhi ya maarifa, kwa hivyo inaweza kuwa nyuma ya kurasa mpya zaidi.',
-    '<strong>Daftari la NotebookLM</strong> — <a href=\"https://notebooklm.google.com/notebook/7de87d06-8998-4f0a-81f5-c2523fc635d0?utm_source=nlmm_share\" target=\"_blank\" rel=\"noopener\">daftari la Google NotebookLM</a> lililojengwa kwa nyenzo zile zile, pamoja na ripoti, michoro, podikasti, slaidi, na <a href=\"https://youtu.be/mUJOSigOOkQ?is=veEKHgQsreaqLC4d\" target=\"_blank\" rel=\"noopener\">video</a> zinazozalishwa kiotomatiki.',
+    '<strong>AI in Education Advisor</strong>, <a href=\"https://gemini.google.com/gem/1oRhk2pouJb-RpTE36aAMaIRfJrBdMR95?usp=sharing\" target=\"_blank\" rel=\"noopener\">Gemini Gem</a> inayojibu kutoka hifadhi hii ya maarifa. <a href=\"https://docs.google.com/document/d/1_6JIp40v9k42ifmANsmLHtKE5Xxgvl1uGHVUYe0gnc0/edit?usp=drivesdk\" target=\"_blank\" rel=\"noopener\">Maagizo yake maalum</a> ni ya umma, na ilijengwa kutoka nakala tuli ya hifadhi ya maarifa, kwa hivyo inaweza kuwa nyuma ya kurasa mpya zaidi.',
+    '<strong>Daftari la NotebookLM</strong>: <a href=\"https://notebooklm.google.com/notebook/7de87d06-8998-4f0a-81f5-c2523fc635d0?utm_source=nlmm_share\" target=\"_blank\" rel=\"noopener\">daftari la Google NotebookLM</a> lililojengwa kwa nyenzo zile zile, pamoja na ripoti, michoro, podikasti, slaidi, na <a href=\"https://youtu.be/mUJOSigOOkQ?is=veEKHgQsreaqLC4d\" target=\"_blank\" rel=\"noopener\">video</a> zinazozalishwa kiotomatiki.',
   ],
   corpusHeading: 'Kilicho ndani ya hifadhi ya maarifa',
-  corpusHtml1: `Zaidi ya muhtasari elfu moja wa utafiti hushughulikia ualimu na walimu wa akili bandia, tathmini na maoni, uadilifu wa kitaaluma, ujuzi wa akili bandia, maendeleo ya waalimu na wafanyikazi wa masomo, usawa na upatikanaji, faragha, sera na utawala, na mada za sayansi ya kujifunza kama vile upunguzaji wa mzigo wa kiakili na motisha ya wanafunzi. Kila muhtasari unaisha kwa marejeo kamili na kiungo cha karatasi asili, kwa hivyo msaidizi wako anaweza kupitisha rejea hiyo na wewe unaweza kuifuatilia.`,
-  corpusHtml2: `Aina tatu za kurasa hujibu maswali tofauti: <strong>kurasa za dhana</strong> hufupisha kile utafiti unasema kuhusu wazo moja na huweka viungo vya utafiti unaozitegemea, <strong>kurasa za makala</strong> hushughulikia karatasi moja kwa wakati, na <strong>FAQ</strong> hujibu maswali ya vitendo kutoka kwa waalimu na wasimamizi. Kama unataka muhtasari wa mada, omba ukurasa wa dhana; kama unataka ushahidi, omba utafiti.`,
+  corpusHtml1: `Zaidi ya muhtasari elfu moja wa utafiti hushughulikia ualimu na walimu wa akili bandia, tathmini na maoni, uadilifu wa kitaaluma, ujuzi wa akili bandia, maendeleo ya waalimu na wafanyikazi wa masomo, usawa na upatikanaji, faragha, sera na utawala, na mada za sayansi ya kujifunza kama vile upunguzaji wa mzigo wa kiakili na motisha ya wanafunzi. Kila muhtasari unaisha kwa marejeo kamili na kiungo cha karatasi asili, kwa hivyo msaidizi wako anaweza kupitisha rejea hiyo.`,
+  corpusHtml2: `Aina tatu za kurasa hujibu maswali tofauti: kurasa za dhana hufupisha kile utafiti unasema kuhusu wazo moja na huweka viungo vya utafiti unaozitegemea, kurasa za makala hushughulikia karatasi moja kwa wakati, na FAQ hujibu maswali ya vitendo kutoka kwa waalimu na wasimamizi. Omba ukurasa wa dhana unapotaka muhtasari, na makala yaliyo nyuma yake unapotaka ushahidi.`,
   answeredHeading: 'Maswali ambayo tayari yamejibiwa',
   answeredIntro: 'Mengi ya maswali watu wanaouliza kwa akili bandia kwanza yamejibiwa hapa kwa mikono, na utafiti umeambatanishwa:',
   answeredLinks: [
@@ -104,7 +104,7 @@ const sw: AiStrings = {
   ],
   answeredOutroHtml: `Inafaa kutazama <a href=\"/aied/faq/\">orodha kamili ya FAQ</a> kabla ya kuuliza, na maelekezo huagiza msaidizi wako aangalie orodha hiyo kwanza.`,
   offlineHeading: 'Soma hifadhi ya maarifa bila mtandao',
-  offlineHtml: `Unaweza pia kupakua hifadhi ya maarifa kama <a href=\"/aied/aied.epub\">EPUB</a> au <a href=\"/aied/aied.pdf\">PDF</a> kwa kifaa cha kusoma elektroniki, simu, kompyuta kibao, au kompyuta. Nakala hizi za nje ya mtandao zina kurasa za dhana na FAQ, sio mamia ya muhtasari wa makala.`,
+  offlineHtml: `Unaweza pia kupakua hifadhi ya maarifa kama <a href=\"/aied/aied.epub\">EPUB</a> au <a href=\"/aied/aied.pdf\">PDF</a> kwa kifaa cha kusoma elektroniki, simu, kompyuta kibao, au kompyuta. Nakala hizi za nje ya mtandao zina kurasa za dhana na FAQ, sio muhtasari wa makala.`,
   toc: [
     { text: 'Maelekezo ya kunakili', slug: 'the-prompt', depth: 2 },
     { text: 'Jinsi ya kuitumia', slug: 'how-to-use-it', depth: 2 },

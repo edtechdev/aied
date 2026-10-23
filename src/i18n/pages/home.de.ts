@@ -32,23 +32,23 @@ export interface HomeStrings {
 const de: HomeStrings = {
   title: 'Startseite',
   h1: 'Wissensbasis zu KI in der Bildung',
-  introHtml: `Willkommen in der <strong>Wissensbasis zu KI in der Bildung</strong> – einer freien, gemeinfreien Ressource über <a href="/aied/concepts/ai-education/">künstliche Intelligenz in der Bildung</a>, für alle, die sie lehren, studieren, gestalten oder verwalten. Sie verdichtet aktuelle Open-Access-Forschung zu kurzen, strukturierten Seiten, die Sie lesen und direkt nutzen können. Ein Hinweis zur Entstehung: Die Seiten werden von einem KI-Agenten erstellt und aktualisiert, mit redaktioneller Begleitung durch den Entwickler der Website. Jede Aussage nennt die dahinterstehende Arbeit, sodass sich die Quellen nachprüfen lassen.`,
+  introHtml: `Willkommen in der Wissensbasis zu KI in der Bildung, einer freien, gemeinfreien Ressource über <a href="/aied/concepts/ai-education/">künstliche Intelligenz in der Bildung</a> für alle, die sie lehren, studieren, gestalten oder verwalten. Sie fasst aktuelle bildungswissenschaftliche Open-Access-Forschung zusammen und synthetisiert sie. Ein KI-Agent schreibt und aktualisiert die Seiten mit redaktioneller Begleitung durch den Entwickler der Website.`,
   navHeading: 'Orientierung auf der Website',
-  navHtml: `Blättern Sie in der linken Seitenleiste durch den nach Strängen gegliederten Index, um zu sehen, wie das Feld aufgebaut ist, oder <a href="/aied/search">durchsuchen Sie die gesamte Wissensbasis</a>, wenn Sie bereits ein Thema im Kopf haben. Artikelseiten verdichten eine Arbeit auf ihren Zweck, ihre Methoden und ihre Ergebnisse, mit vollständiger Quellenangabe und Links zu verwandter Forschung; Konzeptseiten bündeln, was die Forschung zu einer Idee sagt, und verlinken die dahinterstehenden Studien. Wenn Sie lieber von einer Frage ausgehen, sammelt der <a href="/aied/faq">FAQ-Index</a> die Fragen, die Besucher zuerst stellen – von der KI-Richtlinie für einen Kurs bis zur Frage, ob man KI-Detektoren einsetzen sollte; wenn Sie lieber von einem Werkzeug ausgehen, listet die <a href="/aied/resources">Ressourcenseite</a> kostenlose Werkzeuge, Sammlungen und Instrumente auf, die Sie direkt nutzen können, jeweils mit der Angabe, wer sie erstellt hat und was sie kosten. Die Konzeptkarte oben zeigt, was womit zusammenhängt; <a href="/aied/concepts/ai-education/">KI in der Bildung</a> ist die dahinterliegende Kartenseite, die die Konzepte in etwa einem Dutzend übergreifender Stränge gruppiert.`,
+  navHtml: `Blättern Sie in der linken Seitenleiste durch den Index, der nach Strängen gegliedert ist, oder <a href="/aied/search">suchen Sie</a> nach einem Thema. Artikelseiten verdichten eine Arbeit auf ihren Zweck, ihre Methoden und ihre Ergebnisse; Konzeptseiten bündeln, was die Forschung zu einer Idee sagt, und verlinken die dahinterstehenden Studien. Wenn Sie von einer Frage ausgehen möchten, deckt die <a href="/aied/faq">FAQ</a> ab, was Besucher zuerst fragen, etwa die KI-Richtlinie für einen Kurs oder die Frage, ob KI-Detektoren eingesetzt werden sollten. Wenn Sie von einem Werkzeug ausgehen möchten, listet die <a href="/aied/resources">Ressourcenseite</a> kostenlose Werkzeuge und Sammlungen auf, mit der Angabe, wer sie erstellt hat und was sie kosten. Die Karte oben gruppiert das Feld in zwölf Stränge, mit <a href="/aied/concepts/ai-education/">KI in der Bildung</a> als zentralem Knoten.`,
   chatHeading: 'Mit der Wissensbasis chatten',
-  chatHtml: `Alle Inhalte werden zusätzlich als maschinenlesbare Dateien veröffentlicht, sodass Sie Ihren bevorzugten KI-Chatbot oder Agenten auf die Wissensbasis richten und Antworten erhalten können, die sie zitieren, statt zu raten – <a href="/aied/ai">die Prompts finden Sie hier</a>. Neue Seiten erscheinen im <a href="/aied/journal">Journal</a>, das einen <a href="/aied/rss.xml">RSS-Feed</a> hat, wenn Sie mitlesen möchten. Für das Lesen offline nehmen Sie die <a href="/aied/aied.epub">EPUB</a>- oder die <a href="/aied/aied.pdf">PDF</a>-Ausgabe.`,
+  chatHtml: `Die gesamte Wissensbasis wird zusätzlich als maschinenlesbare Dateien veröffentlicht, sodass Sie einen KI-Chatbot oder Agenten darauf richten und Antworten erhalten, die die Seiten zitieren. <a href="/aied/ai">Die Prompts finden Sie hier</a>. Neue Seiten erscheinen im <a href="/aied/journal">Journal</a>, das einen <a href="/aied/rss.xml">RSS-Feed</a> hat. Für das Lesen offline laden Sie die <a href="/aied/aied.epub">EPUB</a>- oder die <a href="/aied/aied.pdf">PDF</a>-Ausgabe herunter.`,
   startingHeading: 'Empfohlene Einstiegspunkte nach Zielgruppe',
-  startingIntro: 'Im Folgenden finden Sie einige empfohlene Konzepte für den Einstieg in diese Wissensbasis.',
+  startingIntro: 'Beginnen Sie mit der Gruppe, die zu Ihrer Rolle passt.',
   groups: [
     {
       id: 'essential-concepts',
       heading: 'Zentrale Konzepte',
-      html: `<a href="/aied/concepts/ai-literacy/">KI-Kompetenz</a>, <a href="/aied/concepts/misconceptions/">Missverständnisse über KI</a>, <a href="/aied/concepts/agentic-ai/">agentische KI</a>, <a href="/aied/concepts/cognitive-offloading/">kognitive Entlastung</a> und <a href="/aied/concepts/interpreting-and-applying-aied-research/">wie man diese Forschung liest und anwendet</a>: was die Ergebnisse stützen können und was nicht, und warum eine einzelne Studie eine Frage selten klärt.`,
+      html: `<a href="/aied/concepts/ai-literacy/">KI-Kompetenz</a>, <a href="/aied/concepts/misconceptions/">Missverständnisse über KI</a>, <a href="/aied/concepts/agentic-ai/">agentische KI</a>, <a href="/aied/concepts/cognitive-offloading/">kognitive Entlastung</a> und <a href="/aied/concepts/interpreting-and-applying-aied-research/">wie man diese Forschung liest und anwendet</a>, einschließlich der Frage, warum eine einzelne Studie eine Frage selten klärt.`,
     },
     {
       id: 'instructors',
       heading: 'Lehrende',
-      html: `<a href="/aied/concepts/teacher-role/">Die sich wandelnde Rolle der Lehre</a>, <a href="/aied/concepts/learning-design/">Lerndesign</a>, <a href="/aied/concepts/assessment/">Prüfen und Bewerten</a>, <a href="/aied/concepts/feedback/">Feedback</a>, <a href="/aied/concepts/academic-integrity/">akademische Integrität</a>, <a href="/aied/concepts/framing-ai-use-for-students/">die KI-Nutzung für Studierende einordnen</a> und <a href="/aied/concepts/reducing-ai-misuse/">Missbrauch reduzieren</a>. Zu Werkzeugen, Belegen und Beispielen in Ihrem eigenen Fach siehe <a href="/aied/concepts/discipline-specific-aied/">KI in Ihrem eigenen Fach</a>.`,
+      html: `<a href="/aied/concepts/teacher-role/">Die sich wandelnde Rolle der Lehre</a>, <a href="/aied/concepts/learning-design/">Lerndesign</a>, <a href="/aied/concepts/assessment/">Prüfen und Bewerten</a>, <a href="/aied/concepts/feedback/">Feedback</a>, <a href="/aied/concepts/academic-integrity/">akademische Integrität</a>, <a href="/aied/concepts/framing-ai-use-for-students/">die KI-Nutzung für Studierende einordnen</a> und <a href="/aied/concepts/reducing-ai-misuse/">Missbrauch reduzieren</a>. Zu fachspezifischen Werkzeugen und Beispielen siehe <a href="/aied/concepts/discipline-specific-aied/">KI in Ihrem eigenen Fach</a>.`,
     },
     {
       id: 'developers',
@@ -68,14 +68,13 @@ const de: HomeStrings = {
   ],
   statsHeading: 'Was in der Wissensbasis enthalten ist',
   statsIntro:
-    'Jede Seite ist datiert, und die Wissensbasis wächst, während neue Open-Access-Forschung veröffentlicht und geprüft wird. Die Zahlen unten stammen aus dem aktuellen Bestand; das Datum ist die jüngste Aktualisierung einer Seite.',
+    'Jede Seite ist datiert, und die Zahlen unten spiegeln wider, was gerade veröffentlicht ist; das Datum „zuletzt aktualisiert“ am Ende der Liste ist die jüngste Bearbeitung.',
   conceptMap: {
     title: 'Konzeptkarte zu KI in der Bildung',
     desc:
       'Eine radiale Karte mit KI in der Bildung im Zentrum, verbunden mit zwölf übergeordneten ' +
       'Konzepten: Modellierung, Lernen, Gerechtigkeit, Feedback, KI-Kompetenz, Assessment, ' +
-      'Fächer, Pädagogik, Ethik, Technologien, Evaluation und Forschung. Wählen Sie einen ' +
-      'beliebigen Knoten aus, um seine Seite zu öffnen.',
+      'Fächer, Pädagogik, Ethik, Technologien, Evaluation und Forschung.',
     navLabel: 'Konzepte zu KI in der Bildung',
     center: 'KI in der Bildung',
     nodes: {

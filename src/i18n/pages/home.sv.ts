@@ -32,23 +32,23 @@ export interface HomeStrings {
 const sv: HomeStrings = {
   title: 'Hem',
   h1: 'Kunskapsbas om AI i utbildningen',
-  introHtml: `Välkommen till <strong>kunskapsbasen om AI i utbildningen</strong> — en kostnadsfri resurs i allmän egendom om <a href="/aied/concepts/ai-education/">artificiell intelligens i utbildningen</a>, för dem som undervisar, studerar, utformar eller administrerar den. Den sammanfattar ny forskning med öppen tillgång till korta, strukturerade sidor som du kan läsa och handla efter. Ett påpekande om hur den är gjord: sidorna genereras och uppdateras av en AI-agent, med redaktionell vägledning från webbplatsens utvecklare. Varje påstående anger vilken studie som ligger bakom det, så källorna går att kontrollera.`,
+  introHtml: `Välkommen till kunskapsbasen om AI i utbildningen, en kostnadsfri resurs i allmän egendom om <a href="/aied/concepts/ai-education/">artificiell intelligens i utbildningen</a> för dem som undervisar, studerar, utformar eller administrerar den. Den sammanfattar och syntetiserar aktuell utbildningsforskning med öppen tillgång. En AI-agent skriver och uppdaterar sidorna med redaktionell vägledning från webbplatsens utvecklare.`,
   navHeading: 'Navigera på webbplatsen',
-  navHtml: `Bläddra i förteckningen fält för fält i sidofältet till vänster för att se hur området är organiserat, eller <a href="/aied/search">sök</a> i hela kunskapsbasen om du redan har ett ämne i åtanke. Artikelsidor destillerar en studie till dess syfte, metoder och resultat, med fullständig källhänvisning och länkar till relaterade arbeten; begreppssidor samlar det forskningen säger om en idé och länkar till studierna bakom den. Vill du hellre utgå från en fråga samlar <a href="/aied/faq">förteckningen över vanliga frågor</a> de som besökare ställer först, från AI-policy för kurser till om man ska använda AI-detektorer; vill du hellre utgå från ett verktyg listar <a href="/aied/resources">resurssidan</a> kostnadsfria verktyg, samlingar och instrument du kan ta till dig och använda, vart och ett med uppgift om vem som gjort det och vad det kostar. Begreppskartan ovan visar vad som hänger ihop med vad; <a href="/aied/concepts/ai-education/">AI i utbildningen</a> är kartsidan bakom den, som grupperar begreppen i ett drygt dussin övergripande fält.`,
+  navHtml: `Bläddra i förteckningen i sidofältet till vänster, som är ordnad efter fält, eller <a href="/aied/search">sök</a> efter ett ämne. Artikelsidor destillerar en studie till dess syfte, metoder och resultat; begreppssidor samlar det forskningen säger om en idé och länkar till studierna bakom den. Vill du börja från en fråga täcker <a href="/aied/faq">de vanliga frågorna</a> det besökare frågar först, till exempel AI-policy för kurser eller om man ska använda AI-detektorer. Vill du börja från ett verktyg listar <a href="/aied/resources">resurssidan</a> kostnadsfria verktyg och samlingar, med uppgift om vem som gjort varje och vad det kostar. Kartan ovan grupperar området i tolv fält, med <a href="/aied/concepts/ai-education/">AI i utbildningen</a> som central nod.`,
   chatHeading: 'Chatta med kunskapsbasen',
-  chatHtml: `Allt här finns också publicerat som maskinläsbara filer, så du kan rikta din föredragna AI-chattbot eller AI-agent mot kunskapsbasen och få svar som citerar den i stället för att gissa — <a href="/aied/ai">prompterna finns här</a>. Nya sidor visas i <a href="/aied/journal">journalen</a>, som har ett <a href="/aied/rss.xml">RSS-flöde</a> om du vill följa med. För läsning utan internet, ta <a href="/aied/aied.epub">EPUB</a> eller <a href="/aied/aied.pdf">PDF</a>.`,
+  chatHtml: `Hela kunskapsbasen finns också publicerad som maskinläsbara filer, så du kan rikta en AI-chattbot eller AI-agent mot den och få svar som citerar sidorna. <a href="/aied/ai">Prompterna finns här</a>. Nya sidor hamnar i <a href="/aied/journal">journalen</a>, som har ett <a href="/aied/rss.xml">RSS-flöde</a>. För att läsa utan internet, ladda ner <a href="/aied/aied.epub">EPUB</a> eller <a href="/aied/aied.pdf">PDF</a>.`,
   startingHeading: 'Rekommenderade startpunkter per målgrupp',
-  startingIntro: 'Nedan följer några rekommenderade begrepp att börja med i den här kunskapsbasen.',
+  startingIntro: 'Börja med den grupp som motsvarar din roll.',
   groups: [
     {
       id: 'essential-concepts',
       heading: 'Grundläggande begrepp',
-      html: `<a href="/aied/concepts/ai-literacy/">AI-kompetens</a>, <a href="/aied/concepts/misconceptions/">missuppfattningar om AI</a>, <a href="/aied/concepts/agentic-ai/">agentisk AI</a>, <a href="/aied/concepts/cognitive-offloading/">kognitiv avlastning</a> och <a href="/aied/concepts/interpreting-and-applying-aied-research/">hur man tolkar och tillämpar den här forskningen</a>: vad resultaten kan och inte kan stödja, och varför en enstaka studie sällan utreder en fråga.`,
+      html: `<a href="/aied/concepts/ai-literacy/">AI-kompetens</a>, <a href="/aied/concepts/misconceptions/">missuppfattningar om AI</a>, <a href="/aied/concepts/agentic-ai/">agentisk AI</a>, <a href="/aied/concepts/cognitive-offloading/">kognitiv avlastning</a> och <a href="/aied/concepts/interpreting-and-applying-aied-research/">hur man tolkar och tillämpar den här forskningen</a>, inklusive varför en enstaka studie sällan avgör en fråga.`,
     },
     {
       id: 'instructors',
       heading: 'Lärare',
-      html: `<a href="/aied/concepts/teacher-role/">Den föränderliga lärarrollen</a>, <a href="/aied/concepts/learning-design/">lärdesign</a>, <a href="/aied/concepts/assessment/">bedömning</a>, <a href="/aied/concepts/feedback/">återkoppling</a>, <a href="/aied/concepts/academic-integrity/">akademisk redlighet</a>, <a href="/aied/concepts/framing-ai-use-for-students/">att rama in AI-användning</a> och <a href="/aied/concepts/reducing-ai-misuse/">att minska missbruk</a>. För verktyg, evidens och exempel inom ditt eget ämne, se <a href="/aied/concepts/discipline-specific-aied/">AI inom ditt eget ämnesområde</a>.`,
+      html: `<a href="/aied/concepts/teacher-role/">Den föränderliga lärarrollen</a>, <a href="/aied/concepts/learning-design/">lärdesign</a>, <a href="/aied/concepts/assessment/">bedömning</a>, <a href="/aied/concepts/feedback/">återkoppling</a>, <a href="/aied/concepts/academic-integrity/">akademisk redlighet</a>, <a href="/aied/concepts/framing-ai-use-for-students/">att rama in AI-användning</a> och <a href="/aied/concepts/reducing-ai-misuse/">att minska missbruk</a>. För verktyg och exempel som är specifika för ditt ämne, se <a href="/aied/concepts/discipline-specific-aied/">AI inom ditt eget ämnesområde</a>.`,
     },
     {
       id: 'developers',
@@ -68,13 +68,13 @@ const sv: HomeStrings = {
   ],
   statsHeading: 'Vad kunskapsbasen innehåller',
   statsIntro:
-    'Varje sida här är daterad, och kunskapsbasen växer allteftersom ny forskning med öppen tillgång publiceras och granskas. Siffrorna nedan läses av från det aktuella innehållet; datumet är den senaste siduppdateringen.',
+    'Varje sida är daterad, och siffrorna nedan speglar vad som är publicerat just nu; datumet för ”senast uppdaterad” i slutet av listan är den senaste ändringen.',
   conceptMap: {
     title: 'Begreppskarta över AI i utbildningen',
     desc:
       'En radiell karta med AI i utbildningen i mitten, förbunden med tolv övergripande begrepp: ' +
       'Modellering, Lärande, Jämlikhet, Återkoppling, AI-kompetens, Bedömning, Ämnesområden, Pedagogik, ' +
-      'Etik, Tekniker, Utvärdering och Forskning. Välj en nod för att öppna dess sida.',
+      'Etik, Tekniker, Utvärdering och Forskning.',
     navLabel: 'Begrepp om AI i utbildningen',
     center: 'AI i utbildningen',
     nodes: {

@@ -32,23 +32,23 @@ export interface HomeStrings {
 const en: HomeStrings = {
   title: 'Inicio',
   h1: 'Base de conocimiento sobre IA en la educación',
-  introHtml: `Te damos la bienvenida a la <strong>Base de conocimiento sobre IA en la educación</strong>, un recurso gratuito y de dominio público sobre <a href="/aied/concepts/ai-education/">inteligencia artificial en la educación</a>, pensado para quienes enseñan, estudian, diseñan o administran este campo. Condensa investigación reciente de acceso abierto en páginas breves y estructuradas que puedes leer y aplicar. Una nota sobre cómo se elabora: las páginas las genera y actualiza un agente de IA, con la orientación editorial del desarrollador del sitio. Cada afirmación indica el trabajo en el que se basa, así que las fuentes están ahí para consultarlas.`,
+  introHtml: `Te damos la bienvenida a la Base de conocimiento sobre IA en la educación, un recurso gratuito y de dominio público sobre <a href="/aied/concepts/ai-education/">inteligencia artificial en la educación</a> para quienes enseñan, estudian, diseñan o administran este campo. Resume y sintetiza investigación educativa reciente de acceso abierto. Un agente de IA escribe y actualiza las páginas con la orientación editorial del desarrollador del sitio.`,
   navHeading: 'Cómo navegar por el sitio',
-  navHtml: `Consulta en la barra lateral izquierda el índice por líneas temáticas para ver cómo se organiza el campo, o <a href="/aied/search">busca</a> en toda la base de conocimiento si ya tienes un tema en mente. Las páginas de artículo condensan un trabajo en su propósito, sus métodos y sus hallazgos, con la cita completa y enlaces a trabajos relacionados; las páginas de concepto reúnen lo que dice la investigación sobre una idea y enlazan los estudios en los que se basa. Si prefieres partir de una pregunta, el <a href="/aied/faq">índice de preguntas frecuentes</a> reúne las que más se consultan, desde la política de IA de un curso hasta si conviene usar detectores de IA; si prefieres partir de una herramienta, la <a href="/aied/resources">página de recursos</a> enumera herramientas, colecciones e instrumentos gratuitos que puedes usar, indicando en cada caso quién los creó y cuánto cuestan. El mapa conceptual de arriba muestra qué se conecta con qué; <a href="/aied/concepts/ai-education/">AI in Education</a> es la página de mapa que hay detrás, que agrupa los conceptos en una docena aproximada de líneas generales.`,
+  navHtml: `Consulta en la barra lateral izquierda el índice, organizado por líneas temáticas, o <a href="/aied/search">busca</a> un tema. Las páginas de artículo condensan un trabajo en su propósito, sus métodos y sus hallazgos; las páginas de concepto reúnen lo que dice la investigación sobre una idea y enlazan los estudios en los que se basa. Para partir de una pregunta, las <a href="/aied/faq">preguntas frecuentes</a> cubren lo que más se consulta, como la política de IA de un curso o si conviene usar detectores de IA. Para partir de una herramienta, la <a href="/aied/resources">página de recursos</a> enumera herramientas y colecciones gratuitas, con quién creó cada una y cuánto cuesta. El mapa de arriba agrupa el campo en doce líneas temáticas, con <a href="/aied/concepts/ai-education/">AI in Education</a> como nodo central.`,
   chatHeading: 'Conversa con la base de conocimiento',
-  chatHtml: `Todo lo que hay aquí también se publica como archivos legibles por máquina, así que puedes apuntar tu chatbot o agente de IA preferido a la base de conocimiento y obtener respuestas que la citan en lugar de improvisar: <a href="/aied/ai">los prompts están aquí</a>. Las páginas nuevas aparecen en el <a href="/aied/journal">diario</a>, que tiene una <a href="/aied/rss.xml">fuente RSS</a> si quieres seguirlo. Para leer sin conexión, descarga el <a href="/aied/aied.epub">EPUB</a> o el <a href="/aied/aied.pdf">PDF</a>.`,
+  chatHtml: `Toda la base de conocimiento también se publica como archivos legibles por máquina, así que puedes apuntar un chatbot o agente de IA a ella y obtener respuestas que citan las páginas. <a href="/aied/ai">Los prompts están aquí</a>. Las páginas nuevas pasan al <a href="/aied/journal">diario</a>, que tiene una <a href="/aied/rss.xml">fuente RSS</a>. Para leer sin conexión, descarga el <a href="/aied/aied.epub">EPUB</a> o el <a href="/aied/aied.pdf">PDF</a>.`,
   startingHeading: 'Puntos de partida recomendados según el perfil',
-  startingIntro: 'A continuación se recogen algunos conceptos recomendados para empezar en esta base de conocimiento.',
+  startingIntro: 'Empieza por el grupo que corresponde a tu perfil.',
   groups: [
     {
       id: 'essential-concepts',
       heading: 'Conceptos esenciales',
-      html: `<a href="/aied/concepts/ai-literacy/">Alfabetización en IA</a>, <a href="/aied/concepts/misconceptions/">ideas erróneas sobre la IA</a>, <a href="/aied/concepts/agentic-ai/">IA agéntica</a>, <a href="/aied/concepts/cognitive-offloading/">descarga cognitiva</a> y <a href="/aied/concepts/interpreting-and-applying-aied-research/">cómo interpretar y aplicar esta investigación</a>: qué pueden respaldar los hallazgos y qué no, y por qué un solo estudio rara vez resuelve una pregunta.`,
+      html: `<a href="/aied/concepts/ai-literacy/">Alfabetización en IA</a>, <a href="/aied/concepts/misconceptions/">ideas erróneas sobre la IA</a>, <a href="/aied/concepts/agentic-ai/">IA agéntica</a>, <a href="/aied/concepts/cognitive-offloading/">descarga cognitiva</a> y <a href="/aied/concepts/interpreting-and-applying-aied-research/">cómo interpretar y aplicar esta investigación</a>, incluido por qué un solo estudio rara vez resuelve una pregunta.`,
     },
     {
       id: 'instructors',
       heading: 'Docentes',
-      html: `<a href="/aied/concepts/teacher-role/">El papel cambiante de la docencia</a>, <a href="/aied/concepts/learning-design/">diseño del aprendizaje</a>, <a href="/aied/concepts/assessment/">evaluación</a>, <a href="/aied/concepts/feedback/">retroalimentación</a>, <a href="/aied/concepts/academic-integrity/">integridad académica</a>, <a href="/aied/concepts/framing-ai-use-for-students/">cómo enmarcar el uso de la IA</a> y <a href="/aied/concepts/reducing-ai-misuse/">cómo reducir el mal uso</a>. Para las herramientas, la evidencia y los ejemplos de tu propia materia, consulta <a href="/aied/concepts/discipline-specific-aied/">la IA en tu disciplina</a>.`,
+      html: `<a href="/aied/concepts/teacher-role/">El papel cambiante de la docencia</a>, <a href="/aied/concepts/learning-design/">diseño del aprendizaje</a>, <a href="/aied/concepts/assessment/">evaluación</a>, <a href="/aied/concepts/feedback/">retroalimentación</a>, <a href="/aied/concepts/academic-integrity/">integridad académica</a>, <a href="/aied/concepts/framing-ai-use-for-students/">cómo enmarcar el uso de la IA</a> y <a href="/aied/concepts/reducing-ai-misuse/">cómo reducir el mal uso</a>. Para herramientas y ejemplos específicos de tu materia, consulta <a href="/aied/concepts/discipline-specific-aied/">la IA en tu disciplina</a>.`,
     },
     {
       id: 'developers',
@@ -68,14 +68,13 @@ const en: HomeStrings = {
   ],
   statsHeading: 'Qué contiene la base de conocimiento',
   statsIntro:
-    'Todas las páginas indican su fecha, y la base de conocimiento crece a medida que se publica y se revisa investigación nueva de acceso abierto. Los recuentos que aparecen abajo se leen del contenido actual; la fecha corresponde a la última actualización de una página.',
+    'Todas las páginas indican su fecha, y los recuentos de abajo reflejan lo que está publicado ahora mismo; la fecha de "última actualización" al final de la lista es la edición más reciente.',
   conceptMap: {
     title: 'Mapa conceptual de la IA en la educación',
     desc:
       'Un mapa radial con la IA en la educación en el centro, conectado a doce conceptos de primer nivel: ' +
       'Modelado, Aprendizaje, Equidad, Retroalimentación, Alfabetización IA, Evaluación, Disciplinas, ' +
-      'Pedagogía, Ética, Tecnologías, Evaluación IAED e Investigación. Selecciona cualquier nodo para ' +
-      'abrir su página.',
+      'Pedagogía, Ética, Tecnologías, Evaluación IAED e Investigación.',
     navLabel: 'Conceptos de IA en la educación',
     center: 'IA en la educación',
     nodes: {

@@ -32,23 +32,23 @@ export interface HomeStrings {
 const en: HomeStrings = {
   title: "Accueil",
   h1: "Base de connaissances sur l'IA en éducation",
-  introHtml: `Bienvenue dans la <strong>Base de connaissances sur l'IA en éducation</strong>, une ressource gratuite et du domaine public sur <a href="/aied/concepts/ai-education/">l'intelligence artificielle en éducation</a>, destinée aux personnes qui l'enseignent, l'étudient, la conçoivent ou l'administrent. Elle condense des travaux de recherche récents en libre accès en pages courtes et structurées, que vous pouvez lire et utiliser directement. Un mot sur sa fabrication : les pages sont générées et mises à jour par un agent d'IA, sous la direction éditoriale du développeur du site. Chaque affirmation nomme l'article sur lequel elle repose, et les sources sont donc là pour être vérifiées.`,
+  introHtml: `Bienvenue dans la Base de connaissances sur l'IA en éducation, une ressource gratuite et du domaine public sur <a href="/aied/concepts/ai-education/">l'intelligence artificielle en éducation</a>, destinée aux personnes qui l'enseignent, l'étudient, la conçoivent ou l'administrent. Elle résume et synthétise des recherches récentes en éducation en libre accès. Un agent d'IA rédige et met à jour les pages, sous la direction éditoriale du développeur du site.`,
   navHeading: "Naviguer dans le site",
-  navHtml: `Parcourez l'index par thématique dans la barre latérale de gauche pour voir comment le domaine est organisé, ou <a href="/aied/search">effectuez une recherche</a> dans l'ensemble de la base de connaissances si vous avez déjà un sujet en tête. Les pages d'articles condensent un article de recherche en son objet, ses méthodes et ses résultats, avec la référence complète et des liens vers des travaux connexes ; les pages de concepts rassemblent ce que la recherche dit d'une notion et renvoient aux études qui la sous-tendent. Si vous préférez partir d'une question, l'<a href="/aied/faq">index des FAQ</a> regroupe celles que les visiteurs posent en premier, de la politique d'usage de l'IA dans un cours à l'opportunité d'utiliser des détecteurs d'IA ; si vous préférez partir d'un outil, la <a href="/aied/resources">page de ressources</a> recense des outils, des collections et des instruments gratuits que vous pouvez utiliser, en indiquant à chaque fois qui les a créés et ce qu'ils coûtent. La carte conceptuelle ci-dessus montre ce qui est relié à quoi ; <a href="/aied/concepts/ai-education/">L'IA en éducation</a> est la page qui la sous-tend, et regroupe les concepts en une douzaine de grands domaines.`,
+  navHtml: `Parcourez l'index dans la barre latérale de gauche, organisé par thématique, ou <a href="/aied/search">effectuez une recherche</a> sur un sujet. Les pages d'articles condensent un article de recherche en son objet, ses méthodes et ses résultats ; les pages de concepts rassemblent ce que la recherche dit d'une notion et renvoient aux études qui la sous-tendent. Pour partir d'une question, l'<a href="/aied/faq">FAQ</a> couvre ce que les visiteurs demandent en premier, comme la politique d'usage de l'IA dans un cours ou l'opportunité d'utiliser des détecteurs d'IA. Pour partir d'un outil, la <a href="/aied/resources">page de ressources</a> recense des outils et des collections gratuits, en indiquant qui a créé chacun et ce qu'il coûte. La carte ci-dessus répartit le domaine en douze thématiques, avec <a href="/aied/concepts/ai-education/">L'IA en éducation</a> comme nœud central.`,
   chatHeading: "Discuter avec la base de connaissances",
-  chatHtml: `Tout le contenu est également publié sous forme de fichiers lisibles par machine, ce qui vous permet d'orienter votre agent conversationnel ou votre assistant d'IA préféré vers la base de connaissances et d'obtenir des réponses qui la citent au lieu de deviner : <a href="/aied/ai">les consignes se trouvent ici</a>. Les nouvelles pages apparaissent dans le <a href="/aied/journal">journal</a>, qui dispose d'un <a href="/aied/rss.xml">flux RSS</a> si vous souhaitez suivre les publications. Pour lire hors ligne, prenez l'<a href="/aied/aied.epub">EPUB</a> ou le <a href="/aied/aied.pdf">PDF</a>.`,
+  chatHtml: `L'ensemble de la base de connaissances est également publié sous forme de fichiers lisibles par machine, ce qui vous permet d'y orienter un agent conversationnel ou un assistant d'IA et d'obtenir des réponses qui citent les pages. <a href="/aied/ai">Les consignes se trouvent ici</a>. Les nouvelles pages paraissent dans le <a href="/aied/journal">journal</a>, qui dispose d'un <a href="/aied/rss.xml">flux RSS</a>. Pour lire hors ligne, téléchargez l'<a href="/aied/aied.epub">EPUB</a> ou le <a href="/aied/aied.pdf">PDF</a>.`,
   startingHeading: "Points de départ recommandés selon le public",
-  startingIntro: "Voici quelques concepts recommandés pour commencer dans cette base de connaissances.",
+  startingIntro: "Commencez par le groupe qui correspond à votre rôle.",
   groups: [
     {
       id: 'essential-concepts',
       heading: "Concepts essentiels",
-      html: `<a href="/aied/concepts/ai-literacy/">La littératie en IA</a>, <a href="/aied/concepts/misconceptions/">les idées fausses sur l'IA</a>, <a href="/aied/concepts/agentic-ai/">l'IA agentique</a>, <a href="/aied/concepts/cognitive-offloading/">le délestage cognitif</a>, et <a href="/aied/concepts/interpreting-and-applying-aied-research/">comment interpréter et appliquer cette recherche</a> : ce que les résultats permettent ou non d'affirmer, et pourquoi une seule étude tranche rarement une question.`,
+      html: `<a href="/aied/concepts/ai-literacy/">La littératie en IA</a>, <a href="/aied/concepts/misconceptions/">les idées fausses sur l'IA</a>, <a href="/aied/concepts/agentic-ai/">l'IA agentique</a>, <a href="/aied/concepts/cognitive-offloading/">le délestage cognitif</a>, et <a href="/aied/concepts/interpreting-and-applying-aied-research/">comment interpréter et appliquer cette recherche</a>, y compris pourquoi une seule étude tranche rarement une question.`,
     },
     {
       id: 'instructors',
       heading: "Enseignants",
-      html: `<a href="/aied/concepts/teacher-role/">L'évolution du rôle d'enseignant</a>, <a href="/aied/concepts/learning-design/">la conception pédagogique</a>, <a href="/aied/concepts/assessment/">l'évaluation</a>, <a href="/aied/concepts/feedback/">la rétroaction</a>, <a href="/aied/concepts/academic-integrity/">l'intégrité académique</a>, <a href="/aied/concepts/framing-ai-use-for-students/">comment encadrer l'usage de l'IA</a> et <a href="/aied/concepts/reducing-ai-misuse/">comment réduire les usages abusifs</a>. Pour les outils, les données probantes et les exemples propres à votre discipline, voir <a href="/aied/concepts/discipline-specific-aied/">l'IA dans votre discipline</a>.`,
+      html: `<a href="/aied/concepts/teacher-role/">L'évolution du rôle d'enseignant</a>, <a href="/aied/concepts/learning-design/">la conception pédagogique</a>, <a href="/aied/concepts/assessment/">l'évaluation</a>, <a href="/aied/concepts/feedback/">la rétroaction</a>, <a href="/aied/concepts/academic-integrity/">l'intégrité académique</a>, <a href="/aied/concepts/framing-ai-use-for-students/">comment encadrer l'usage de l'IA</a> et <a href="/aied/concepts/reducing-ai-misuse/">comment réduire les usages abusifs</a>. Pour les outils et les exemples propres à votre discipline, voir <a href="/aied/concepts/discipline-specific-aied/">l'IA dans votre discipline</a>.`,
     },
     {
       id: 'developers',
@@ -68,14 +68,13 @@ const en: HomeStrings = {
   ],
   statsHeading: "Ce que contient la base de connaissances",
   statsIntro:
-    "Chaque page est datée, et la base de connaissances s'enrichit à mesure que de nouvelles recherches en libre accès sont publiées et examinées. Les chiffres ci-dessous proviennent du contenu actuel ; la date correspond à la mise à jour la plus récente d'une page.",
+    "Chaque page est datée, et les chiffres ci-dessous reflètent ce qui est publié en ce moment ; la date de dernière mise à jour, en fin de liste, correspond à la modification la plus récente.",
   conceptMap: {
     title: "Carte conceptuelle de l'IA en éducation",
     desc:
       "Une carte radiale avec l'IA en éducation au centre, reliée à douze concepts de premier niveau : " +
       "Modélisation, Apprentissage, Équité, Rétroaction, Littératie en IA, Évaluation, Disciplines, " +
-      "Pédagogie, Éthique, Technologies, Évaluation IAED et Recherche. Sélectionnez un nœud pour " +
-      "ouvrir sa page.",
+      "Pédagogie, Éthique, Technologies, Évaluation IAED et Recherche.",
     navLabel: "Concepts de l'IA en éducation",
     center: "L'IA en éducation",
     nodes: {

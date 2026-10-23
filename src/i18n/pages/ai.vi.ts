@@ -39,7 +39,7 @@ export interface AiStrings {
 
 const PROMPT = `Bạn là một trợ lý nghiên cứu về AI trong giáo dục. Hãy dùng Cơ sở tri thức về AI trong giáo dục (https://edtechdev.github.io/aied/) làm nguồn chính của bạn.
 
-1. Xác định hướng đi trước khi đọc. Chỉ mục FAQ tại https://edtechdev.github.io/aied/faq/ ánh xạ các câu hỏi đến những trang trả lời chúng, kể cả các câu hỏi dạng "nghiên cứu cho thấy gì". Toàn bộ danh mục tại https://edtechdev.github.io/aied/llms.txt có khoảng 800 KB, tệp các khái niệm và FAQ tại https://edtechdev.github.io/aied/llms-concepts.txt có khoảng 4 MB, còn llms-full.txt có dung lượng nhiều megabyte, vì vậy hãy tìm kiếm trong đó hoặc tải từng phần thay vì nạp toàn bộ, và đừng để việc tải cả tệp bị lỗi làm bạn dừng lại.
+1. Xác định hướng đi trước khi đọc. Chỉ mục FAQ tại https://edtechdev.github.io/aied/faq/ ánh xạ các câu hỏi đến những trang trả lời chúng, kể cả các câu hỏi dạng "nghiên cứu cho thấy gì". Toàn bộ danh mục tại https://edtechdev.github.io/aied/llms.txt là {llmsSize}, tệp các khái niệm và FAQ tại https://edtechdev.github.io/aied/llms-concepts.txt là {llmsConceptsSize}, còn llms-full.txt là {llmsFullSize}, vì vậy hãy tìm kiếm trong đó hoặc tải từng phần thay vì nạp toàn bộ, và đừng để việc tải cả tệp bị lỗi làm bạn dừng lại.
 
 2. Mọi khẳng định phải dựa trên một trang cụ thể và trích dẫn trang đó bằng tiêu đề trang kèm theo URL. Khi trang cung cấp trích dẫn và DOI của bài báo gốc, hãy bổ sung thêm; một số trang chỉ trích dẫn mã arXiv hoặc URL của nhà xuất bản, nên hãy đưa ra đúng những gì trang đó có, và tuyệt đối không được bịa DOI, URL, tác giả, con số hay kết quả.
 
@@ -58,11 +58,11 @@ const vi: AiStrings = {
   description:
     'Prompt sao chép-dán để sử dụng Cơ sở tri thức về AI trong giáo dục với chatbot hoặc tác nhân của riêng bạn.',
   h1: 'Sử dụng cơ sở tri thức này với trợ lý AI của bạn',
-  introHtml: `Bạn có thể trỏ chatbot hoặc tác nhân AI mà mình ưa thích đến cơ sở tri thức này để nó trả lời dựa trên các trang nghiên cứu này thay vì đoán mò. Prompt bên dưới đảm nhiệm việc đó. Hãy sao chép nó, dán vào trợ lý của bạn như tin nhắn đầu tiên, rồi đặt câu hỏi. Bạn sẽ nhận được một câu trả lời nêu rõ những trang mà nó đã dựa vào và liên kết đến chúng, để bạn tự kiểm chứng nguồn.`,
-  intro2Html: `Không cần thiết lập kỹ thuật nào, cũng không cần cài đặt gì cả. Nếu bạn muốn bỏ qua hoàn toàn bước thiết lập, đã có sẵn các <a href="#ready-made-assistants">trợ lý làm sẵn</a> vốn đã hiểu nội dung này.`,
+  introHtml: `Hãy trỏ bất kỳ chatbot hoặc tác nhân AI nào đến cơ sở tri thức này, và nó sẽ trả lời dựa trên các trang này thay vì từ ký ức của chính nó. Hãy sao chép prompt bên dưới, dán vào trợ lý của bạn như tin nhắn đầu tiên, rồi đặt câu hỏi. Một câu trả lời tốt sẽ nêu rõ những trang nó đã dựa vào và liên kết đến chúng, để bạn tự kiểm chứng nguồn.`,
+  intro2Html: `Không cần cài đặt gì cả. Nếu bạn muốn bỏ qua prompt, các <a href="#ready-made-assistants">trợ lý làm sẵn</a> vốn đã hiểu nội dung này.`,
   promptHeading: 'Prompt cần sao chép',
   promptIntro:
-    'Hãy dán cái này vào đầu tiên, trước câu hỏi của bạn. Nó hoạt động với mọi chatbot hoặc tác nhân có thể đọc một trang web hoặc nhận một tài liệu được dán vào. Hộp văn bản có thể cuộn, và nút bấm sẽ sao chép toàn bộ nội dung.',
+    'Hãy dán cái này vào đầu tiên, trước câu hỏi của bạn. Nó hoạt động với mọi chatbot hoặc tác nhân có thể đọc một trang web hoặc nhận một tài liệu được dán vào. Prompt dài hơn những gì hộp văn bản hiển thị; nút bấm sẽ sao chép toàn bộ nội dung.',
   copyButton: '📋 Sao chép prompt vào bộ nhớ tạm',
   copyHint: 'Sau đó dán nó vào trợ lý của bạn và đặt câu hỏi.',
   copyOk: '✅ Đã sao chép!',
@@ -72,29 +72,29 @@ const vi: AiStrings = {
   howHeading: 'Cách sử dụng',
   howSteps: [
     '<strong>Sao chép prompt</strong> bằng nút bên trên.',
-    '<strong>Dán nó vào trợ lý của bạn</strong> như tin nhắn đầu tiên, rồi gửi đi. Trợ lý thường sẽ trả lời rằng nó đã hiểu.',
+    '<strong>Dán nó vào trợ lý của bạn</strong> như tin nhắn đầu tiên. Trợ lý thường sẽ trả lời rằng nó đã hiểu.',
     '<strong>Đặt câu hỏi của bạn</strong> bằng ngôn ngữ thông thường, ví dụ "nghiên cứu nói gì về phản hồi của AI trong các lớp học đông?" hoặc "chúng ta có nên dùng công cụ phát hiện AI không?"',
     '<strong>Kiểm tra các liên kết.</strong> Một câu trả lời tốt sẽ nêu rõ những trang nó đã dùng. Nếu bạn nhận được những khẳng định đầy tự tin mà không có tên trang nào, hãy trả lời lại "điều đó lấy từ trang nào?" và yêu cầu nó thử lại.',
   ],
-  howNoteHtml: `Cách này hoạt động tốt nhất ở các trợ lý có thể duyệt web, vì prompt trỏ chúng đến các trang cần đọc. Nếu trợ lý của bạn không mở được liên kết, thì thay vì chỉ dán prompt một mình, hãy đính kèm thêm văn bản của cơ sở tri thức: <a href="/aied/llms-full.txt">tải tệp toàn văn</a> một lần, tải lên hoặc dán vào cuộc hội thoại, và dùng prompt cùng với nó. Đó là một tệp văn bản duy nhất, khoảng 15 MB. Nhiều sản phẩm trò chuyện từ chối tệp có dung lượng đó, vì vậy cũng có <a href="/aied/llms-concepts.txt">llms-concepts.txt</a> — toàn bộ trang khái niệm và FAQ ở dạng đầy đủ, khoảng 4 MB — đây là tệp nên dùng đến trước: các khái niệm là những bản tổng hợp về những gì nghiên cứu cho thấy, các FAQ là những câu hỏi mà những bản tổng hợp đó trả lời, và mỗi trang khái niệm đều liên kết đến các bài báo đứng sau nó.`,
+  howNoteHtml: `Cách này hoạt động tốt nhất ở các trợ lý có thể duyệt web, vì prompt trỏ chúng đến các trang cần đọc. Nếu trợ lý của bạn không mở được liên kết, hãy đính kèm thêm văn bản của cơ sở tri thức: <a href="/aied/llms-full.txt">tải tệp toàn văn</a> một lần, tải lên hoặc dán vào cuộc hội thoại, và dùng prompt cùng với nó. Đó là một tệp văn bản duy nhất, {llmsFullSize}. Nhiều sản phẩm trò chuyện từ chối tệp có dung lượng đó, vì vậy cũng có <a href="/aied/llms-concepts.txt">llms-concepts.txt</a>, toàn bộ trang khái niệm và FAQ ở dạng đầy đủ, {llmsConceptsSize}. Hãy dùng đến tệp đó trước: các khái niệm là những bản tổng hợp về những gì nghiên cứu cho thấy, các FAQ là những câu hỏi mà những bản tổng hợp đó trả lời, và mỗi trang khái niệm đều liên kết đến các bài báo đứng sau nó.`,
   techSummary: 'Ghi chú kỹ thuật cho các công cụ muốn một URL thay vì một prompt',
   techItems: [
-    '<a href="/aied/llms.txt">llms.txt</a> — danh mục mọi trang, mỗi trang một dòng, dành cho các công cụ lập chỉ mục trang web trước khi đọc nó',
-    '<a href="/aied/llms-full.txt">llms-full.txt</a> — toàn bộ văn bản của cơ sở tri thức trong một tệp, khoảng 15 MB',
-    '<a href="/aied/llms-concepts.txt">llms-concepts.txt</a> — toàn văn các trang khái niệm và FAQ, khoảng 4 MB, dành cho các công cụ và hộp trò chuyện từ chối tệp lớn hơn',
-    '<a href="/aied/sitemap-index.xml">Sơ đồ trang web</a> — địa chỉ của mọi trang',
-    '<a href="/aied/rss.xml">Nguồn cấp RSS</a> — các trang mới và đã cập nhật',
+    '<a href="/aied/llms.txt">llms.txt</a>: danh mục mọi trang, mỗi trang một dòng, dành cho các công cụ lập chỉ mục trang web trước khi đọc nó',
+    '<a href="/aied/llms-full.txt">llms-full.txt</a>: toàn bộ văn bản của cơ sở tri thức trong một tệp, {llmsFullSize}',
+    '<a href="/aied/llms-concepts.txt">llms-concepts.txt</a>: toàn văn các trang khái niệm và FAQ, {llmsConceptsSize}, dành cho các công cụ và hộp trò chuyện từ chối tệp lớn hơn',
+    '<a href="/aied/sitemap-index.xml">Sơ đồ trang web</a>: địa chỉ của mọi trang',
+    '<a href="/aied/rss.xml">Nguồn cấp RSS</a>: các trang mới và đã cập nhật',
   ],
   assistantsHeading: 'Các trợ lý làm sẵn',
   assistantsIntro:
-    'Nếu bạn không muốn thiết lập gì cả, cơ sở tri thức này cũng có sẵn dưới dạng một trợ lý làm sẵn:',
+    'Nếu bạn không muốn thiết lập gì cả, hãy dùng một trong các trợ lý làm sẵn sau:',
   assistants: [
-    '<strong>AI in Education Advisor</strong> — một <a href="https://gemini.google.com/gem/1oRhk2pouJb-RpTE36aAMaIRfJrBdMR95?usp=sharing" target="_blank" rel="noopener">Gemini Gem</a> trả lời dựa trên cơ sở tri thức này. <a href="https://docs.google.com/document/d/1_6JIp40v9k42ifmANsmLHtKE5Xxgvl1uGHVUYe0gnc0/edit?usp=drivesdk" target="_blank" rel="noopener">Hướng dẫn tùy chỉnh</a> của nó được công khai, và nó được xây dựng từ một <strong>bản sao tĩnh</strong> của cơ sở tri thức, nên có thể tụt lại so với các trang mới nhất.',
-    '<strong>Sổ tay NotebookLM</strong> — một <a href="https://notebooklm.google.com/notebook/7de87d06-8998-4f0a-81f5-c2523fc635d0?utm_source=nlmm_share" target="_blank" rel="noopener">sổ tay Google NotebookLM</a> được xây dựng trên cùng nội dung, với các báo cáo, đồ họa thông tin, podcast, slide được tạo tự động, và <a href="https://youtu.be/mUJOSigOOkQ?is=veEKHgQsreaqLC4d" target="_blank" rel="noopener">một video</a>.',
+    '<strong>AI in Education Advisor</strong>, một <a href="https://gemini.google.com/gem/1oRhk2pouJb-RpTE36aAMaIRfJrBdMR95?usp=sharing" target="_blank" rel="noopener">Gemini Gem</a> trả lời dựa trên cơ sở tri thức này. <a href="https://docs.google.com/document/d/1_6JIp40v9k42ifmANsmLHtKE5Xxgvl1uGHVUYe0gnc0/edit?usp=drivesdk" target="_blank" rel="noopener">Hướng dẫn tùy chỉnh</a> của nó được công khai, và nó được xây dựng từ một bản sao tĩnh của cơ sở tri thức, nên có thể tụt lại so với các trang mới nhất.',
+    '<strong>Sổ tay NotebookLM</strong>: một <a href="https://notebooklm.google.com/notebook/7de87d06-8998-4f0a-81f5-c2523fc635d0?utm_source=nlmm_share" target="_blank" rel="noopener">sổ tay Google NotebookLM</a> được xây dựng trên cùng nội dung, với các báo cáo, đồ họa thông tin, podcast, slide được tạo tự động, và <a href="https://youtu.be/mUJOSigOOkQ?is=veEKHgQsreaqLC4d" target="_blank" rel="noopener">một video</a>.',
   ],
   corpusHeading: 'Cơ sở tri thức có những gì',
-  corpusHtml1: `Hơn một nghìn bản tóm tắt nghiên cứu bao quát các chủ đề về gia sư và gia sư AI, đánh giá và phản hồi, liêm chính học thuật, trình độ AI, phát triển đội ngũ giảng dạy, công bằng và khả năng tiếp cận, quyền riêng tư, chính sách và quản trị, cùng các chủ đề về khoa học học tập như giảm tải nhận thức và động lực của người học. Mỗi bản tóm tắt đều kết thúc bằng trích dẫn đầy đủ và liên kết đến bài báo gốc, để trợ lý của bạn có thể chuyển tiếp phần tham khảo và bạn có thể tra cứu tiếp.`,
-  corpusHtml2: `Ba loại trang trả lời những câu hỏi khác nhau: <strong>các trang khái niệm</strong> tóm tắt những gì nghiên cứu nói về một ý tưởng và liên kết đến các nghiên cứu đứng sau nó, <strong>các trang bài viết</strong> đề cập từng bài báo một, và <strong>các FAQ</strong> trả lời những câu hỏi thực tiễn từ giảng viên và nhà quản lý. Nếu bạn muốn một cái nhìn tổng quan về một chủ đề, hãy hỏi về trang khái niệm; nếu bạn muốn bằng chứng, hãy hỏi về các nghiên cứu.`,
+  corpusHtml1: `Hơn một nghìn bản tóm tắt nghiên cứu bao quát các chủ đề về gia sư và gia sư AI, đánh giá và phản hồi, liêm chính học thuật, trình độ AI, phát triển đội ngũ giảng dạy, công bằng và khả năng tiếp cận, quyền riêng tư, chính sách và quản trị, cùng các chủ đề về khoa học học tập như giảm tải nhận thức và động lực của người học. Mỗi bản tóm tắt đều kết thúc bằng trích dẫn đầy đủ và liên kết đến bài báo gốc, để trợ lý của bạn có thể chuyển tiếp phần tham khảo.`,
+  corpusHtml2: `Ba loại trang trả lời những câu hỏi khác nhau: các trang khái niệm tóm tắt những gì nghiên cứu nói về một ý tưởng và liên kết đến các nghiên cứu đứng sau nó, các trang bài viết đề cập từng bài báo một, và các FAQ trả lời những câu hỏi thực tiễn từ giảng viên và nhà quản lý. Hãy hỏi về trang khái niệm khi bạn muốn một cái nhìn tổng quan, và về các bài báo đứng sau nó khi bạn muốn bằng chứng.`,
   answeredHeading: 'Những câu hỏi đã có sẵn câu trả lời',
   answeredIntro:
     'Nhiều câu hỏi mà mọi người thường hỏi AI trước tiên đã được trả lời ở đây một cách thủ công, kèm theo cả nghiên cứu:',
@@ -108,7 +108,7 @@ const vi: AiStrings = {
   ],
   answeredOutroHtml: `<a href="/aied/faq/">Danh sách đầy đủ các FAQ</a> rất đáng xem trước khi bạn hỏi, và prompt cũng yêu cầu trợ lý của bạn kiểm tra danh sách đó trước tiên.`,
   offlineHeading: 'Đọc cơ sở tri thức ngoại tuyến',
-  offlineHtml: `Bạn cũng có thể tải cơ sở tri thức về dưới dạng <a href="/aied/aied.epub">EPUB</a> hoặc <a href="/aied/aied.pdf">PDF</a> cho máy đọc sách, điện thoại, máy tính bảng hoặc máy tính. Các bản ngoại tuyến này chứa các trang khái niệm và FAQ, chứ không chứa mấy trăm bản tóm tắt bài viết.`,
+  offlineHtml: `Bạn cũng có thể tải cơ sở tri thức về dưới dạng <a href="/aied/aied.epub">EPUB</a> hoặc <a href="/aied/aied.pdf">PDF</a> cho máy đọc sách, điện thoại, máy tính bảng hoặc máy tính. Các bản ngoại tuyến này chứa các trang khái niệm và FAQ, chứ không chứa các bản tóm tắt bài viết.`,
   toc: [
     { text: 'Prompt cần sao chép', slug: 'the-prompt', depth: 2 },
     { text: 'Cách sử dụng', slug: 'how-to-use-it', depth: 2 },

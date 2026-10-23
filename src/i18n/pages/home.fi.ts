@@ -32,24 +32,24 @@ export interface HomeStrings {
 const fi: HomeStrings = {
   title: 'Etusivu',
   h1: 'Tekoäly koulutuksessa -tietopankki',
-  introHtml: `Tervetuloa <strong>Tekoäly koulutuksessa -tietopankkiin</strong> — ilmaiseen, yleisön käytössä olevaan aineistoon <a href=\"/aied/concepts/ai-education/\">tekoälystä koulutuksessa</a>. Se on tarkoitettu niille, jotka opettavat, opiskelevat, suunnittelevat tai hallinnoivat koulutusta. Se tiivistää tuoreen avoimen tieteen tutkimuksen lyhyiksi ja jäsennellyiksi sivuiksi, jotka voi lukea ja joiden pohjalta voi toimia. Huomio siitä, miten aineisto on tehty: sivut luo ja päivittää tekoälyagentti sivuston kehittäjän toimittaman toimituksellisen ohjauksen pohjalta. Jokainen väite nimeää takanaan olevan tutkimuksen, joten lähteet voi tarkistaa.`,
+  introHtml: `Tervetuloa Tekoäly koulutuksessa -tietopankkiin, ilmaiseen ja yleisön käytössä olevaan aineistoon <a href="/aied/concepts/ai-education/">tekoälystä koulutuksessa</a> niille, jotka opettavat, opiskelevat, suunnittelevat tai hallinnoivat koulutusta. Se tiivistää ja yhdistää tuoretta avointa koulutustutkimusta. Tekoälyagentti kirjoittaa ja päivittää sivut sivuston kehittäjän toimituksellisella ohjauksella.`,
   navHeading: 'Suunnistaminen sivustolla',
-  navHtml: `Selaa vasemmassa sivupalkissa olevaa osastoittaista hakemistoa nähdäksesi, miten ala on järjestetty, tai <a href=\"/aied/search\">hae koko tietopankista</a>, jos aihe on jo mielessäsi. Artikkelisivut tiivistävät yhteen tutkimukseen sen tarkoituksen, menetelmät ja tulokset, mukaan lukien täyden lähdeviitteen ja linkit aiheeseen liittyvään tutkimukseen; käsitesivut kokoavat yhteen sen, mitä tutkimus sanoo yhdestä ideasta, ja linkittävät niiden taustalla oleviin tutkimuksiin. Jos haluat lähteä liikkeelle kysymyksestä, <a href=\"/aied/faq\">UKK-hakemisto</a> kerää kysymykset, jotka kävijät esittävät ensimmäisenä, kurssin tekoälykäytännöistä siihen, kannattaako tekoälytunnistimia käyttää; jos haluat lähteä liikkeelle työkalusta, <a href=\"/aied/resources\">resurssisivu</a> listaa ilmaiset työkalut, kokoelmat ja mittarit, joita voi heti käyttää, ja kertoo kunkin tekijän sekä kustannukset. Yllä oleva käsitekartta näyttää, mikä liittyy mihinkin; <a href=\"/aied/concepts/ai-education/\">AI koulutuksessa</a> on sen taustalla oleva karttasivu, joka jakaa käsitteet noin kymmeneen kokonaisuuteen.`,
+  navHtml: `Selaa vasemmassa sivupalkissa olevaa hakemistoa, joka on järjestetty osastoittain, tai <a href="/aied/search">hae</a> aihetta. Artikkelisivut tiivistävät yhteen tutkimukseen sen tarkoituksen, menetelmät ja tulokset; käsitesivut kokoavat yhteen sen, mitä tutkimus sanoo yhdestä ideasta, ja linkittävät niiden taustalla oleviin tutkimuksiin. Jos haluat lähteä liikkeelle kysymyksestä, <a href="/aied/faq">UKK</a> kattaa kysymykset, jotka kävijät esittävät ensimmäisenä, kuten kurssin tekoälykäytännöt tai sen, kannattaako tekoälytunnistimia käyttää. Jos haluat lähteä liikkeelle työkalusta, <a href="/aied/resources">resurssisivu</a> listaa ilmaiset työkalut ja kokoelmat sekä kertoo, kuka kunkin teki ja mitä se maksaa. Yllä oleva kartta jakaa alan kahteentoista kokonaisuuteen, ja <a href="/aied/concepts/ai-education/">AI koulutuksessa</a> on sen keskeisin solmu.`,
   chatHeading: 'Keskustele tietopankin kanssa',
-  chatHtml: `Koko aineisto on julkaistu myös koneellisesti luettavina tiedostoina, joten voit suunnata haluamasi tekoälykeskustelubotin tai -agentin tietopankkiin ja saada vastauksia, jotka siteeraavat sitä arvailun sijaan — <a href=\"/aied/ai\">kehoitteet löytyvät täältä</a>. Uudet sivut ilmestyvät <a href=\"/aied/journal\">päiväkirjaan</a>, jolla on <a href=\"/aied/rss.xml\">RSS-syöte</a>, jos haluat seurata päivityksiä. Jos haluat lukea ilman verkkoyhteyttä, ota <a href=\"/aied/aied.epub\">EPUB</a> tai <a href=\"/aied/aied.pdf\">PDF</a>.`,
+  chatHtml: `Koko aineisto on julkaistu myös koneellisesti luettavina tiedostoina, joten voit suunnata tekoälykeskustelubotin tai -agentin siihen ja saada vastauksia, jotka siteeraavat sivuja. <a href="/aied/ai">Kehotteet löytyvät täältä</a>. Uudet sivut menevät <a href="/aied/journal">päiväkirjaan</a>, jolla on <a href="/aied/rss.xml">RSS-syöte</a>. Jos haluat lukea ilman verkkoyhteyttä, lataa <a href="/aied/aied.epub">EPUB</a> tai <a href="/aied/aied.pdf">PDF</a>.`,
   startingHeading: 'Suositellut lähtökohdat yleisöryhmittäin',
   startingIntro:
-    'Alla on joitakin suositeltuja käsitteitä, joista kannattaa aloittaa tässä tietopankissa.',
+    'Aloita ryhmästä, joka vastaa omaa rooliasi.',
   groups: [
     {
       id: 'essential-concepts',
       heading: 'Keskeiset käsitteet',
-      html: `<a href=\"/aied/concepts/ai-literacy/\">tekoälylukutaito</a>, <a href=\"/aied/concepts/misconceptions/\">väärinkäsitykset tekoälystä</a>, <a href=\"/aied/concepts/agentic-ai/\">agenttinen tekoäly</a>, <a href=\"/aied/concepts/cognitive-offloading/\">kognitiivinen ulkoistaminen</a> sekä <a href=\"/aied/concepts/interpreting-and-applying-aied-research/\">miten tätä tutkimusta tulkitaan ja sovelletaan</a>: mitä tulokset voivat ja eivät voi tukea ja miksi yksittäinen tutkimus harvoin ratkaisee kysymyksen.`,
+      html: `<a href="/aied/concepts/ai-literacy/">tekoälylukutaito</a>, <a href="/aied/concepts/misconceptions/">väärinkäsitykset tekoälystä</a>, <a href="/aied/concepts/agentic-ai/">agenttinen tekoäly</a>, <a href="/aied/concepts/cognitive-offloading/">kognitiivinen ulkoistaminen</a> sekä <a href="/aied/concepts/interpreting-and-applying-aied-research/">miten tätä tutkimusta tulkitaan ja sovelletaan</a>, mukaan lukien se, miksi yksittäinen tutkimus harvoin ratkaisee kysymyksen.`,
     },
     {
       id: 'instructors',
       heading: 'Opettajat',
-      html: `<a href=\"/aied/concepts/teacher-role/\">muuttuva opettajan rooli</a>, <a href=\"/aied/concepts/learning-design/\">oppimissuunnittelu</a>, <a href=\"/aied/concepts/assessment/\">arviointi</a>, <a href=\"/aied/concepts/feedback/\">palaute</a>, <a href=\"/aied/concepts/academic-integrity/\">akateeminen rehellisyys</a>, <a href=\"/aied/concepts/framing-ai-use-for-students/\">tekoälyn käytön viitoittaminen</a> ja <a href=\"/aied/concepts/reducing-ai-misuse/\">väärinkäytön vähentäminen</a>. Oman aineesi työkalut, todisteet ja esimerkit löydät osoitteesta <a href=\"/aied/concepts/discipline-specific-aied/\">tekoäly omalla tieteenalallasi</a>.`,
+      html: `<a href="/aied/concepts/teacher-role/">muuttuva opettajan rooli</a>, <a href="/aied/concepts/learning-design/">oppimissuunnittelu</a>, <a href="/aied/concepts/assessment/">arviointi</a>, <a href="/aied/concepts/feedback/">palaute</a>, <a href="/aied/concepts/academic-integrity/">akateeminen rehellisyys</a>, <a href="/aied/concepts/framing-ai-use-for-students/">tekoälyn käytön viitoittaminen</a> ja <a href="/aied/concepts/reducing-ai-misuse/">väärinkäytön vähentäminen</a>. Ainekohtaiset työkalut ja esimerkit löydät kohdasta <a href="/aied/concepts/discipline-specific-aied/">tekoäly omalla tieteenalallasi</a>.`,
     },
     {
       id: 'developers',
@@ -69,13 +69,13 @@ const fi: HomeStrings = {
   ],
   statsHeading: 'Mitä tietopankki sisältää',
   statsIntro:
-    'Jokainen sivu on päivätty, ja tietopankki kasvaa sitä mukaa kuin uutta avointa tutkimusta julkaistaan ja tarkistetaan. Alla olevat luvut luetaan nykyisestä sisällöstä; päivämäärä on uusimman sivupäivityksen aika.',
+    'Jokainen sivu on päivätty, ja alla olevat luvut kertovat, mitä on julkaistu juuri nyt; listan lopussa oleva "viimeksi päivitetty" -päivämäärä on uusin muokkaus.',
   conceptMap: {
     title: 'Käsitekartta: AI koulutuksessa',
     desc:
       'Säteittäinen kartta, jonka keskellä on AI koulutuksessa, yhteydessä kahteentoista päätason käsitteeseen: ' +
       'mallintaminen, oppiminen, tasa-arvo, palaute, tekoälylukutaito, arviointi, tieteenalat, pedagogiikka, ' +
-      'etiikka, teknologiat, arviointi ja tutkimus. Valitse jokin solmu avataksesi sen sivun.',
+      'etiikka, teknologiat, arviointi ja tutkimus.',
     navLabel: 'AI koulutuksessa -käsitteet',
     center: 'AI koulutuksessa',
     nodes: {

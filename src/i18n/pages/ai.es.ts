@@ -39,7 +39,7 @@ export interface AiStrings {
 
 const PROMPT = `Eres un asistente de investigación sobre IA en la educación. Usa la AI in Education Knowledge Base (https://edtechdev.github.io/aied/) como fuente principal.
 
-1. Elige la ruta antes de leer. El índice de preguntas frecuentes en https://edtechdev.github.io/aied/faq/ asigna cada pregunta a las páginas que la responden, incluidas las preguntas del tipo "qué muestra la investigación". El catálogo completo en https://edtechdev.github.io/aied/llms.txt ocupa unos {llmsSize}, el archivo de conceptos y preguntas frecuentes en https://edtechdev.github.io/aied/llms-concepts.txt ocupa unos {llmsConceptsSize}, y llms-full.txt ocupa varios megabytes, así que búscalos o descarga partes en lugar de cargarlos enteros, y no dejes que un intento fallido de descargar el archivo completo te detenga.
+1. Elige la ruta antes de leer. El índice de preguntas frecuentes en https://edtechdev.github.io/aied/faq/ asigna cada pregunta a las páginas que la responden, incluidas las preguntas del tipo "qué muestra la investigación". El catálogo completo en https://edtechdev.github.io/aied/llms.txt ocupa unos {llmsSize}, el archivo de conceptos y preguntas frecuentes en https://edtechdev.github.io/aied/llms-concepts.txt ocupa unos {llmsConceptsSize}, y llms-full.txt ocupa {llmsFullSize}, así que búscalos o descarga partes en lugar de cargarlos enteros, y no dejes que un intento fallido de descargar el archivo completo te detenga.
 
 2. Fundamenta cada afirmación en una página y cítala con el título de la página seguido de su URL. Cuando la página incluya la cita del trabajo original y su DOI, añádelos; algunas páginas solo citan un identificador de arXiv o una URL de la editorial, así que da lo que da la página y nunca inventes un DOI, una URL, un autor, una cifra ni un hallazgo.
 
@@ -57,10 +57,10 @@ const en: AiStrings = {
   title: 'Usa esta base de conocimiento con tu propio asistente de IA',
   description: 'Prompt para copiar y pegar que permite usar la AI in Education Knowledge Base con tu propio chatbot o agente.',
   h1: 'Usa esta base de conocimiento con tu propio asistente de IA',
-  introHtml: `Puedes apuntar tu chatbot o agente de IA preferido a esta base de conocimiento para que responda a partir de estas páginas de investigación en lugar de improvisar. El prompt que aparece abajo cumple esa función. Cópialo, pégalo en tu asistente como primer mensaje y haz tu pregunta. Deberías obtener una respuesta que nombra las páginas en las que se ha basado y enlaza a ellas, para que puedas comprobar las fuentes por tu cuenta.`,
-  intro2Html: `No hace falta ninguna configuración técnica ni instalar nada. Si prefieres saltarte la configuración por completo, hay <a href="#ready-made-assistants">asistentes ya preparados</a> que conocen este material.`,
+  introHtml: `Apunta cualquier chatbot o agente de IA a esta base de conocimiento y responderá a partir de estas páginas en lugar de hacerlo desde su propia memoria. Copia el prompt que aparece abajo, pégalo en tu asistente como primer mensaje y haz tu pregunta. Una buena respuesta nombra las páginas en las que se ha basado y enlaza a ellas, para que puedas comprobar las fuentes por tu cuenta.`,
+  intro2Html: `No hay nada que instalar. Si prefieres saltarte el prompt, los <a href="#ready-made-assistants">asistentes ya preparados</a> conocen este material.`,
   promptHeading: 'El prompt que hay que copiar',
-  promptIntro: 'Pega esto primero, antes de tu pregunta. Funciona con cualquier chatbot o agente que pueda leer una página web o aceptar un documento pegado. El cuadro tiene barra de desplazamiento y el botón copia todo el texto.',
+  promptIntro: 'Pega esto primero, antes de tu pregunta. Funciona con cualquier chatbot o agente que pueda leer una página web o aceptar un documento pegado. El prompt es más largo de lo que muestra el cuadro y el botón lo copia entero.',
   copyButton: '📋 Copiar el prompt al portapapeles',
   copyHint: 'Después pégalo en tu asistente y haz tu pregunta.',
   copyOk: '✅ ¡Copiado!',
@@ -70,28 +70,28 @@ const en: AiStrings = {
   howHeading: 'Cómo usarlo',
   howSteps: [
     '<strong>Copia el prompt</strong> con el botón de arriba.',
-    '<strong>Pégalo en tu asistente</strong> como primer mensaje y envíalo. Lo normal es que responda que lo ha entendido.',
+    '<strong>Pégalo en tu asistente</strong> como primer mensaje. Lo normal es que responda que lo ha entendido.',
     '<strong>Haz tu pregunta</strong> en lenguaje sencillo, por ejemplo "¿qué dice la investigación sobre la retroalimentación con IA en clases numerosas?" o "¿deberíamos usar detectores de IA?"',
     '<strong>Comprueba los enlaces.</strong> Una buena respuesta nombra las páginas que ha usado. Si recibes afirmaciones tajantes sin ninguna página, responde "¿de qué página sale eso?" y pídele que lo intente de nuevo.',
   ],
-  howNoteHtml: `Esto funciona mejor en asistentes que pueden navegar por la web, porque el prompt les indica páginas que leer. Si el tuyo no puede abrir enlaces, en lugar de pegar el prompt solo, adjunta también el texto de la base de conocimiento: <a href="/aied/llms-full.txt">descarga el archivo de texto completo</a> una vez, súbelo o pégalo en la conversación y usa el prompt junto con él. Es un único archivo de texto de unos 15 MB. Muchos productos de chat rechazan un archivo de ese tamaño, así que también existe <a href="/aied/llms-concepts.txt">llms-concepts.txt</a>, con todas las páginas de concepto y de preguntas frecuentes completas, unos {llmsConceptsSize}, que es el archivo al que conviene recurrir primero: los conceptos son las síntesis de lo que muestra la investigación, las preguntas frecuentes son las preguntas que esas síntesis responden, y cada página de concepto enlaza los trabajos en los que se basa.`,
+  howNoteHtml: `Esto funciona mejor en asistentes que pueden navegar por la web, porque el prompt les indica páginas que leer. Si el tuyo no puede abrir enlaces, adjunta también el texto de la base de conocimiento: <a href="/aied/llms-full.txt">descarga el archivo de texto completo</a> una vez, súbelo o pégalo en la conversación y usa el prompt junto con él. Es un único archivo de texto de {llmsFullSize}. Muchos productos de chat rechazan un archivo de ese tamaño, así que también existe <a href="/aied/llms-concepts.txt">llms-concepts.txt</a>, con todas las páginas de concepto y de preguntas frecuentes completas, {llmsConceptsSize}. Recurre primero a ese: los conceptos son las síntesis de lo que muestra la investigación, las preguntas frecuentes son las preguntas que esas síntesis responden, y cada página de concepto enlaza los trabajos en los que se basa.`,
   techSummary: 'Notas técnicas para herramientas que prefieren una URL en lugar de un prompt',
   techItems: [
     '<a href="/aied/llms.txt">llms.txt</a>: un catálogo de todas las páginas, con una línea por página, para herramientas que indexan un sitio antes de leerlo',
-    '<a href="/aied/llms-full.txt">llms-full.txt</a>: el texto completo de la base de conocimiento en un solo archivo, unos 15 MB',
+    '<a href="/aied/llms-full.txt">llms-full.txt</a>: el texto completo de la base de conocimiento en un solo archivo, {llmsFullSize}',
     '<a href="/aied/llms-concepts.txt">llms-concepts.txt</a>: el texto completo de las páginas de concepto y de preguntas frecuentes, unos {llmsConceptsSize}, para herramientas y chats que rechazan el archivo más grande',
     '<a href="/aied/sitemap-index.xml">Mapa del sitio</a>: todas las direcciones de las páginas',
     '<a href="/aied/rss.xml">Fuente RSS</a>: páginas nuevas y actualizadas',
   ],
   assistantsHeading: 'Asistentes ya preparados',
-  assistantsIntro: 'Si prefieres no configurar nada, esta base de conocimiento también está disponible como asistente ya preparado:',
+  assistantsIntro: 'Si prefieres no configurar nada, usa uno de estos asistentes ya preparados:',
   assistants: [
-    '<strong>AI in Education Advisor</strong>, un <a href="https://gemini.google.com/gem/1oRhk2pouJb-RpTE36aAMaIRfJrBdMR95?usp=sharing" target="_blank" rel="noopener">Gemini Gem</a> que responde a partir de esta base de conocimiento. Sus <a href="https://docs.google.com/document/d/1_6JIp40v9k42ifmANsmLHtKE5Xxgvl1uGHVUYe0gnc0/edit?usp=drivesdk" target="_blank" rel="noopener">instrucciones personalizadas</a> son públicas, y se creó a partir de una <strong>copia estática</strong> de la base de conocimiento, así que puede ir por detrás de las páginas más recientes.',
-    '<strong>Cuaderno de NotebookLM</strong>, un <a href="https://notebooklm.google.com/notebook/7de87d06-8998-4f0a-81f5-c2523fc635d0?utm_source=nlmm_share" target="_blank" rel="noopener">cuaderno de Google NotebookLM</a> creado con el mismo material, con informes, infografías, un pódcast y diapositivas generados automáticamente, y <a href="https://youtu.be/mUJOSigOOkQ?is=veEKHgQsreaqLC4d" target="_blank" rel="noopener">un vídeo</a>.',
+    '<strong>AI in Education Advisor</strong>, un <a href="https://gemini.google.com/gem/1oRhk2pouJb-RpTE36aAMaIRfJrBdMR95?usp=sharing" target="_blank" rel="noopener">Gemini Gem</a> que responde a partir de esta base de conocimiento. Sus <a href="https://docs.google.com/document/d/1_6JIp40v9k42ifmANsmLHtKE5Xxgvl1uGHVUYe0gnc0/edit?usp=drivesdk" target="_blank" rel="noopener">instrucciones personalizadas</a> son públicas, y se creó a partir de una copia estática de la base de conocimiento, así que puede ir por detrás de las páginas más recientes.',
+    '<strong>Cuaderno de NotebookLM</strong>: un <a href="https://notebooklm.google.com/notebook/7de87d06-8998-4f0a-81f5-c2523fc635d0?utm_source=nlmm_share" target="_blank" rel="noopener">cuaderno de Google NotebookLM</a> creado con el mismo material, con informes, infografías, un pódcast y diapositivas generados automáticamente, y <a href="https://youtu.be/mUJOSigOOkQ?is=veEKHgQsreaqLC4d" target="_blank" rel="noopener">un vídeo</a>.',
   ],
   corpusHeading: 'Qué contiene la base de conocimiento',
-  corpusHtml1: `Más de mil resúmenes de investigación abarcan la tutoría y los tutores de IA, la evaluación y la retroalimentación, la integridad académica, la alfabetización en IA, el desarrollo profesional del profesorado, la equidad y la accesibilidad, la privacidad, las políticas y la gobernanza, y temas de ciencias del aprendizaje como la descarga cognitiva y la motivación del estudiantado. Cada resumen termina con la cita completa y un enlace al trabajo original, de modo que tu asistente puede transmitir la referencia y tú puedes consultarla.`,
-  corpusHtml2: `Tres tipos de página responden a preguntas distintas: las <strong>páginas de concepto</strong> resumen lo que dice la investigación sobre una idea y enlazan los estudios en los que se basa, las <strong>páginas de artículo</strong> tratan un trabajo cada una, y las <strong>preguntas frecuentes</strong> responden a dudas prácticas del profesorado y de la administración. Si quieres una visión general de un tema, pide una página de concepto; si quieres la evidencia, pide los estudios.`,
+  corpusHtml1: `Más de mil resúmenes de investigación abarcan la tutoría y los tutores de IA, la evaluación y la retroalimentación, la integridad académica, la alfabetización en IA, el desarrollo profesional del profesorado, la equidad y la accesibilidad, la privacidad, las políticas y la gobernanza, y temas de ciencias del aprendizaje como la descarga cognitiva y la motivación del estudiantado. Cada resumen termina con la cita completa y un enlace al trabajo original, de modo que tu asistente puede transmitir la referencia.`,
+  corpusHtml2: `Tres tipos de página responden a preguntas distintas: las páginas de concepto resumen lo que dice la investigación sobre una idea y enlazan los estudios en los que se basa, las páginas de artículo tratan un trabajo cada una, y las preguntas frecuentes responden a dudas prácticas del profesorado y de la administración. Pide una página de concepto cuando quieras una visión general, y los artículos en los que se basa cuando quieras la evidencia.`,
   answeredHeading: 'Preguntas que ya tienen respuesta',
   answeredIntro: 'Muchas de las preguntas que la gente plantea primero a una IA ya están respondidas aquí a mano, con la investigación adjunta:',
   answeredLinks: [
@@ -104,7 +104,7 @@ const en: AiStrings = {
   ],
   answeredOutroHtml: `Merece la pena consultar la <a href="/aied/faq/">lista completa de preguntas frecuentes</a> antes de preguntar, y el prompt indica a tu asistente que revise esa lista primero.`,
   offlineHeading: 'Leer la base de conocimiento sin conexión',
-  offlineHtml: `También puedes descargar la base de conocimiento en <a href="/aied/aied.epub">EPUB</a> o <a href="/aied/aied.pdf">PDF</a> para un lector de libros electrónicos, un teléfono, una tableta o un ordenador. Estas ediciones sin conexión contienen las páginas de concepto y las preguntas frecuentes, no los varios cientos de resúmenes de artículos.`,
+  offlineHtml: `También puedes descargar la base de conocimiento en <a href="/aied/aied.epub">EPUB</a> o <a href="/aied/aied.pdf">PDF</a> para un lector de libros electrónicos, un teléfono, una tableta o un ordenador. Estas ediciones sin conexión contienen las páginas de concepto y las preguntas frecuentes, no los resúmenes de artículos.`,
   toc: [
     { text: 'El prompt que hay que copiar', slug: 'the-prompt', depth: 2 },
     { text: 'Cómo usarlo', slug: 'how-to-use-it', depth: 2 },

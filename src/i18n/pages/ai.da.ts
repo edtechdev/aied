@@ -39,7 +39,7 @@ export interface AiStrings {
 
 const PROMPT = `Du er en forskningsassistent for AI i uddannelse. Brug vidensbasen om kunstig intelligens i uddannelse (https://edtechdev.github.io/aied/) som din primære kilde.
 
-1. Find frem, før du læser. FAQ-indekset på https://edtechdev.github.io/aied/faq/ knytter spørgsmål til de sider, der besvarer dem, herunder spørgsmål af typen »hvad viser forskningen«. Det fulde katalog på https://edtechdev.github.io/aied/llms.txt er på ca. 800 KB, filen med begreber og FAQ på https://edtechdev.github.io/aied/llms-concepts.txt er på ca. 4 MB, og llms-full.txt er mange megabyte — så søg i dem eller hent dele frem for at indlæse dem hele, og lad et mislykket hent af en hel fil ikke stoppe dig.
+1. Find frem, før du læser. FAQ-indekset på https://edtechdev.github.io/aied/faq/ knytter spørgsmål til de sider, der besvarer dem, herunder spørgsmål af typen »hvad viser forskningen«. Det fulde katalog på https://edtechdev.github.io/aied/llms.txt er {llmsSize}, filen med begreber og FAQ på https://edtechdev.github.io/aied/llms-concepts.txt er {llmsConceptsSize}, og llms-full.txt er {llmsFullSize}, så søg i dem eller hent dele frem for at indlæse dem hele, og lad et mislykket hent af en hel fil ikke stoppe dig.
 
 2. Underbyg hver påstand med en side, og citér den som sidens titel efterfulgt af dens URL. Når siden angiver den underliggende artikels kildeangivelse og DOI, så tilføj dem; nogle sider citerer kun et arXiv-ID eller en forlags-URL, så angiv det, siden angiver, og opfind aldrig et DOI, en URL, en forfatter, et tal eller et resultat.
 
@@ -57,10 +57,10 @@ const da: AiStrings = {
   title: 'Brug denne vidensbase med din egen AI-assistent',
   description: 'Kopiér-og-indsæt-prompt til at bruge vidensbasen om kunstig intelligens i uddannelse med din egen chatbot eller agent.',
   h1: 'Brug denne vidensbase med din egen AI-assistent',
-  introHtml: `Du kan pege din foretrukne AI-chatbot eller -agent på denne vidensbase, så den svarer ud fra disse forskningssider i stedet for at gætte. Prompten nedenfor gør den gerning. Kopiér den, indsæt den i din assistent som din første besked, og stil så dit spørgsmål. Du bør få et svar, der nævner og linker til de sider, den trak på, så du selv kan kontrollere kilderne.`,
-  intro2Html: `Der er ingen teknisk opsætning involveret, og der er ikke noget, der skal installeres. Vil du springe opsætningen helt over, er der <a href=\"#ready-made-assistants\">færdige assistenter</a>, der allerede kender dette materiale.`,
+  introHtml: `Peg en hvilken som helst AI-chatbot eller -agent på denne vidensbase, og den svarer ud fra disse sider i stedet for ud fra sin egen hukommelse. Kopiér prompten nedenfor, indsæt den i din assistent som din første besked, og stil så dit spørgsmål. Et godt svar nævner og linker til de sider, det trak på, så du selv kan kontrollere kilderne.`,
+  intro2Html: `Intet skal installeres. Vil du springe prompten over, kender <a href=\"#ready-made-assistants\">de færdige assistenter</a> allerede dette materiale.`,
   promptHeading: 'Promten, du skal kopiere',
-  promptIntro: 'Indsæt den først, før dit spørgsmål. Den virker med enhver chatbot eller agent, der kan læse en webside eller modtage et indsat dokument. Boksen kan rulles, og knappen kopierer hele indholdet.',
+  promptIntro: 'Indsæt den først, før dit spørgsmål. Den virker med enhver chatbot eller agent, der kan læse en webside eller modtage et indsat dokument. Prompten er længere, end boksen viser, og knappen kopierer det hele.',
   copyButton: '📋 Kopiér prompten til udklipsholderen',
   copyHint: 'Indsæt den derefter i din assistent, og stil dit spørgsmål.',
   copyOk: '✅ Kopieret!',
@@ -70,28 +70,28 @@ const da: AiStrings = {
   howHeading: 'Sådan bruger du den',
   howSteps: [
     '<strong>Kopiér prompten</strong> med knappen ovenfor.',
-    '<strong>Indsæt den i din assistent</strong> som den første besked, og send den. Den vil som regel svare, at den har forstået den.',
+    '<strong>Indsæt den i din assistent</strong> som den første besked. Den vil som regel svare, at den har forstået den.',
     '<strong>Stil dit spørgsmål</strong> i almindeligt sprog, for eksempel »hvad siger forskningen om AI-feedback i store klasser?« eller »bør vi bruge AI-detektorer?«',
     '<strong>Tjek linksene.</strong> Et godt svar nævner de sider, det brugte. Får du selvsikre påstande udne sidenavne, så svar »hvilken side kommer det fra?«, og bed den om at prøve igen.',
   ],
-  howNoteHtml: `Det fungerer bedst i assistenter, der kan søge på nettet, da prompten peger på sider, de skal læse. Kan din ikke åbne links, så vedlæg i stedet for blot prompten også tekstet til vidensbasen: <a href=\"/aied/llms-full.txt\">hent fuldtekstfilen</a> én gang, upload eller indsæt den i samtalen, og brug prompten sammen med den. Det er én tekstfil på omkring 15 MB. Mange chatprodukter afviser en fil af den størrelse, så der er også <a href=\"/aied/llms-concepts.txt\">llms-concepts.txt</a> — alle begrebs- og FAQ-sider i fuld tekst, omkring 4 MB — som er den bedste fil at tage fat på først: begreberne er synteserne af, hvad forskningen viser, FAQ\'erne er de spørgsmål, disse synteser svarer på, og hver begrebsside linker til artiklerne bag den.`,
+  howNoteHtml: `Det fungerer bedst i assistenter, der kan søge på nettet, da prompten peger dem på sider, de skal læse. Kan din ikke åbne links, så vedlæg også teksten til vidensbasen: <a href=\"/aied/llms-full.txt\">hent fuldtekstfilen</a> én gang, upload eller indsæt den i samtalen, og brug prompten sammen med den. Det er én tekstfil på {llmsFullSize}. Mange chatprodukter afviser en fil af den størrelse, så der er også <a href=\"/aied/llms-concepts.txt\">llms-concepts.txt</a>, alle begrebs- og FAQ-sider i fuld tekst på {llmsConceptsSize}. Tag den først: begreberne er synteserne af, hvad forskningen viser, FAQ\'erne er de spørgsmål, disse synteser svarer på, og hver begrebsside linker til artiklerne bag den.`,
   techSummary: 'Tekniske noter til værktøjer, der vil have en URL i stedet for en prompt',
   techItems: [
-    '<a href=\"/aied/llms.txt\">llms.txt</a> — et katalog over hver side, én linje pr. side, til værktøjer, der indekserer et site, før de læser det',
-    '<a href=\"/aied/llms-full.txt\">llms-full.txt</a> — hele vidensbasens tekst i én fil, omkring 15 MB',
-    '<a href=\"/aied/llms-concepts.txt\">llms-concepts.txt</a> — fuld tekst for begrebs- og FAQ-siderne, omkring 4 MB, til værktøjer og chats, der afviser den store fil',
-    '<a href=\"/aied/sitemap-index.xml\">Sitemap</a> — adressen på hver side',
-    '<a href=\"/aied/rss.xml\">RSS-feed</a> — nye og opdaterede sider',
+    '<a href=\"/aied/llms.txt\">llms.txt</a>: et katalog over hver side, én linje pr. side, til værktøjer, der indekserer et site, før de læser det',
+    '<a href=\"/aied/llms-full.txt\">llms-full.txt</a>: hele vidensbasens tekst i én fil, {llmsFullSize}',
+    '<a href=\"/aied/llms-concepts.txt\">llms-concepts.txt</a>: fuld tekst for begrebs- og FAQ-siderne, {llmsConceptsSize}, til værktøjer og chats, der afviser den store fil',
+    '<a href=\"/aied/sitemap-index.xml\">Sitemap</a>: adressen på hver side',
+    '<a href=\"/aied/rss.xml\">RSS-feed</a>: nye og opdaterede sider',
   ],
   assistantsHeading: 'Færdige assistenter',
-  assistantsIntro: 'Vil du helt undgå at sætte noget op, er denne vidensbase også tilgængelig som en færdig assistant:',
+  assistantsIntro: 'Vil du helst ikke sætte noget op, så brug en af disse færdige assistenter:',
   assistants: [
-    '<strong>AI in Education Advisor</strong> — en <a href=\"https://gemini.google.com/gem/1oRhk2pouJb-RpTE36aAMaIRfJrBdMR95?usp=sharing\" target=\"_blank\" rel=\"noopener\">Gemini Gem</a>, der svarer ud fra denne vidensbase. Dets <a href=\"https://docs.google.com/document/d/1_6JIp40v9k42ifmANsmLHtKE5Xxgvl1uGHVUYe0gnc0/edit?usp=drivesdk\" target=\"_blank\" rel=\"noopener\">tilpassede instruktioner</a> er offentlige, og den er bygget på en <strong>statisk kopi</strong> af vidensbasen, så den kan halte bagefter de nyeste sider.',
-    '<strong>NotebookLM-notesbog</strong> — en <a href=\"https://notebooklm.google.com/notebook/7de87d06-8998-4f0a-81f5-c2523fc635d0?utm_source=nlmm_share\" target=\"_blank\" rel=\"noopener\">Google NotebookLM-notesbog</a> bygget på det samme materiale, med autogenererede rapporter, infografik, en podcast, slides og <a href=\"https://youtu.be/mUJOSigOOkQ?is=veEKHgQsreaqLC4d\" target=\"_blank\" rel=\"noopener\">en video</a>.',
+    '<strong>AI in Education Advisor</strong>, en <a href=\"https://gemini.google.com/gem/1oRhk2pouJb-RpTE36aAMaIRfJrBdMR95?usp=sharing\" target=\"_blank\" rel=\"noopener\">Gemini Gem</a>, der svarer ud fra denne vidensbase. Dets <a href=\"https://docs.google.com/document/d/1_6JIp40v9k42ifmANsmLHtKE5Xxgvl1uGHVUYe0gnc0/edit?usp=drivesdk\" target=\"_blank\" rel=\"noopener\">tilpassede instruktioner</a> er offentlige, og den er bygget på en statisk kopi af vidensbasen, så den kan halte bagefter de nyeste sider.',
+    '<strong>NotebookLM-notesbog</strong>: en <a href=\"https://notebooklm.google.com/notebook/7de87d06-8998-4f0a-81f5-c2523fc635d0?utm_source=nlmm_share\" target=\"_blank\" rel=\"noopener\">Google NotebookLM-notesbog</a> bygget på det samme materiale, med autogenererede rapporter, infografik, en podcast, slides og <a href=\"https://youtu.be/mUJOSigOOkQ?is=veEKHgQsreaqLC4d\" target=\"_blank\" rel=\"noopener\">en video</a>.',
   ],
   corpusHeading: 'Hvad vidensbasen indeholder',
-  corpusHtml1: `Over tusinde forskningsresuméer dækker vejledning og AI-vejledere, vurdering og feedback, akademisk redelighed, AI-dannelse, underviser- og fakultetsudvikling, ligestilling og tilgængelighed, privatliv, politik og styring samt læringsvidenskabelige emner som kognitiv udflytning og den studerendes motivation. Hvert resumé slutter med den fulde kildeangivelse og et link til originalen, så din assistent kan videregive kilden, og du kan følge den op.`,
-  corpusHtml2: `Tre slags sider besvarer forskellige spørgsmål: <strong>begrebssider</strong> sammenfatter, hvad forskningen siger om én idé, og linker til undersøgelserne bag den, <strong>artikelsider</strong> dækker én artikel ad gangen, og <strong>FAQ\'erne</strong> besvarer praktiske spørgsmål fra undervisere og administratorer. Vil du have et overblik over et emne, så bed om en begrebsside; vil du have evidensen, så bed om undersøgelserne.`,
+  corpusHtml1: `Over tusinde forskningsresuméer dækker vejledning og AI-vejledere, vurdering og feedback, akademisk redelighed, AI-dannelse, underviser- og fakultetsudvikling, ligestilling og tilgængelighed, privatliv, politik og styring samt læringsvidenskabelige emner som kognitiv udflytning og den studerendes motivation. Hvert resumé slutter med den fulde kildeangivelse og et link til originalen, så din assistent kan videregive kilden.`,
+  corpusHtml2: `Tre slags sider besvarer forskellige spørgsmål: begrebssider sammenfatter, hvad forskningen siger om én idé, og linker til undersøgelserne bag den, artikelsider dækker én artikel ad gangen, og FAQ\'erne besvarer praktiske spørgsmål fra undervisere og administratorer. Bed om en begrebsside, når du vil have et overblik, og om artiklerne bag den, når du vil have evidensen.`,
   answeredHeading: 'Spørgsmål, der allerede er besvaret',
   answeredIntro: 'Mange af de spørgsmål, folk stiller til en AI først, er allerede besvaret her fra hånden, med forskningen vedhæftet:',
   answeredLinks: [
@@ -104,7 +104,7 @@ const da: AiStrings = {
   ],
   answeredOutroHtml: `Det kan betale sig at kigge i <a href=\"/aied/faq/\">den fulde liste over FAQ</a>, før du spørger, og prompten fortæller din assistent at tjekke den liste først.`,
   offlineHeading: 'Læs vidensbasen uden net',
-  offlineHtml: `Du kan også downloade vidensbasen som <a href=\"/aied/aied.epub\">EPUB</a> eller <a href=\"/aied/aied.pdf\">PDF</a> til en e-bogslæser, telefon, tablet eller computer. Disse offlineudgaver indeholder begrebssider og FAQ, ikke de flere hundrede artikelresuméer.`,
+  offlineHtml: `Du kan også downloade vidensbasen som <a href=\"/aied/aied.epub\">EPUB</a> eller <a href=\"/aied/aied.pdf\">PDF</a> til en e-bogslæser, telefon, tablet eller computer. Disse offlineudgaver indeholder begrebssider og FAQ, ikke artikelresuméerne.`,
   toc: [
     { text: 'Promten, du skal kopiere', slug: 'the-prompt', depth: 2 },
     { text: 'Sådan bruger du den', slug: 'how-to-use-it', depth: 2 },

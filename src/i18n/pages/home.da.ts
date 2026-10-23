@@ -32,23 +32,23 @@ export interface HomeStrings {
 const da: HomeStrings = {
   title: 'Forside',
   h1: 'Vidensbase om kunstig intelligens i uddannelse',
-  introHtml: `Velkommen til <strong>vidensbasen om kunstig intelligens i uddannelse</strong> — en gratis ressource i det offentlige domæne om <a href=\"/aied/concepts/ai-education/\">kunstig intelligens i uddannelse</a>, til de mennesker, der underviser i, studerer, designer eller administrerer det. Den destillerer ny, åben adgangsforskning til korte, strukturerede sider, du kan læse og handle ud fra. En bemærkning om, hvordan den er lavet: siderne genereres og opdateres af en AI-agent med redaktionel vejledning fra udvikleren bag hjemmesiden. Hvert påstand nævner den artikel, den bygger på, så kilderne er til at kontrollere.`,
+  introHtml: `Velkommen til vidensbasen om kunstig intelligens i uddannelse, en gratis ressource i det offentlige domæne om <a href=\"/aied/concepts/ai-education/\">kunstig intelligens i uddannelse</a> for de mennesker, der underviser i, studerer, designer eller administrerer det. Den sammenfatter og syntetiserer ny forskning i uddannelse med åben adgang. En AI-agent skriver og opdaterer siderne med redaktionel vejledning fra udvikleren bag hjemmesiden.`,
   navHeading: 'Sådan finder du rundt på hjemmesiden',
-  navHtml: `Gennemse det trinvise indeks i sidepanelet til venstre for at se, hvordan feltet er organiseret, eller <a href=\"/aied/search\">søg</a> i hele vidensbasen, hvis du allerede har et emne i tankerne. Artikelsider gengiver én artikel i dens formål, metoder og resultater med en fuld kildeangivelse og links til relateret arbejde; begrebssider samler, hvad forskningen siger om én idé, og linker til de undersøgelser, der ligger bag. Vil du hellere starte med et spørgsmål, samler <a href=\"/aied/faq\">FAQ-indekset</a> dem, besøgende stiller først, fra AI-politik i et enkelt kursus til, om man skal bruge AI-detektorer; vil du hellere starte med et værktøj, opregner <a href=\"/aied/resources\">ressourcesiden</a> gratis værktøjer, samlinger og instrumenter, du kan gå i gang med at bruge, hvor hvert viser, hvem der har lavet det, og hvad det koster. Begrebskortet ovenfor viser, hvad der hænger sammen med hvad; <a href=\"/aied/concepts/ai-education/\">AI i uddannelse</a> er kortets bagvedliggende side, der grupperer begreberne i omkring en snes overordnede spor.`,
+  navHtml: `Gennemse indekset i sidepanelet til venstre, som er ordnet efter spor, eller <a href=\"/aied/search\">søg</a> efter et emne. Artikelsider gengiver én artikel i dens formål, metoder og resultater; begrebssider samler, hvad forskningen siger om én idé, og linker til de undersøgelser, der ligger bag. Vil du starte med et spørgsmål, dækker <a href=\"/aied/faq\">FAQ</a> det, besøgende spørger om først, for eksempel AI-politik i et kursus eller om man skal bruge AI-detektorer. Vil du starte med et værktøj, opregner <a href=\"/aied/resources\">ressourcesiden</a> gratis værktøjer og samlinger med, hvem der har lavet hvert enkelt, og hvad det koster. Kortet ovenfor grupperer feltet i tolv spor med <a href=\"/aied/concepts/ai-education/\">AI i uddannelse</a> som den centrale knude.`,
   chatHeading: 'Chat med vidensbasen',
-  chatHtml: `Alt her er også udgivet som maskinlæsbare filer, så du kan pege din foretrukne AI-chatbot eller -agent på vidensbasen og få svar, der citerer den, i stedet for at gætte — <a href=\"/aied/ai\">prompterne står her</a>. Nye sider dukker op i <a href=\"/aied/journal\">journalen</a>, som har et <a href=\"/aied/rss.xml\">RSS-feed</a>, hvis du vil følge med. Vil du læse uden net, kan du tage <a href=\"/aied/aied.epub\">EPUB-udgaven</a> eller <a href=\"/aied/aied.pdf\">PDF-udgaven</a>.`,
+  chatHtml: `Hele vidensbasen er også udgivet som maskinlæsbare filer, så du kan pege en AI-chatbot eller -agent på den og få svar, der citerer siderne. <a href=\"/aied/ai\">Prompterne står her</a>. Nye sider kommer i <a href=\"/aied/journal\">journalen</a>, som har et <a href=\"/aied/rss.xml\">RSS-feed</a>. Vil du læse uden net, kan du downloade <a href=\"/aied/aied.epub\">EPUB-udgaven</a> eller <a href=\"/aied/aied.pdf\">PDF-udgaven</a>.`,
   startingHeading: 'Anbefalede startpunkter efter målgruppe',
-  startingIntro: 'Nedenfor er der nogle anbefalede begreber at starte med i denne vidensbase.',
+  startingIntro: 'Start med den gruppe, der passer til din rolle.',
   groups: [
     {
       id: 'essential-concepts',
       heading: 'Grundlæggende begreber',
-      html: `<a href=\"/aied/concepts/ai-literacy/\">AI-dannelse</a>, <a href=\"/aied/concepts/misconceptions/\">misforståelser om AI</a>, <a href=\"/aied/concepts/agentic-ai/\">agentisk AI</a>, <a href=\"/aied/concepts/cognitive-offloading/\">kognitiv udflytning</a> og <a href=\"/aied/concepts/interpreting-and-applying-aied-research/\">hvordan man fortolker og anvender denne forskning</a>: hvad resultaterne kan og ikke kan bære, og hvorfor en enkelt undersøgelse sjældent afgør et spørgsmål.`,
+      html: `<a href=\"/aied/concepts/ai-literacy/\">AI-dannelse</a>, <a href=\"/aied/concepts/misconceptions/\">misforståelser om AI</a>, <a href=\"/aied/concepts/agentic-ai/\">agentisk AI</a>, <a href=\"/aied/concepts/cognitive-offloading/\">kognitiv udflytning</a> og <a href=\"/aied/concepts/interpreting-and-applying-aied-research/\">hvordan man fortolker og anvender denne forskning</a>, herunder hvorfor en enkelt undersøgelse sjældent afgør et spørgsmål.`,
     },
     {
       id: 'instructors',
       heading: 'Undervisere',
-      html: `<a href=\"/aied/concepts/teacher-role/\">Den skiftende underviserrolle</a>, <a href=\"/aied/concepts/learning-design/\">læringsdesign</a>, <a href=\"/aied/concepts/assessment/\">vurdering</a>, <a href=\"/aied/concepts/feedback/\">feedback</a>, <a href=\"/aied/concepts/academic-integrity/\">akademisk redelighed</a>, <a href=\"/aied/concepts/framing-ai-use-for-students/\">hvordan man formidler AI-brug</a> og <a href=\"/aied/concepts/reducing-ai-misuse/\">at reducere misbrug</a>. Vil du have værktøjerne, evidensen og eksemplerne inden for dit eget fag, se <a href=\"/aied/concepts/discipline-specific-aied/\">AI i dit eget fag</a>.`,
+      html: `<a href=\"/aied/concepts/teacher-role/\">Den skiftende underviserrolle</a>, <a href=\"/aied/concepts/learning-design/\">læringsdesign</a>, <a href=\"/aied/concepts/assessment/\">vurdering</a>, <a href=\"/aied/concepts/feedback/\">feedback</a>, <a href=\"/aied/concepts/academic-integrity/\">akademisk redelighed</a>, <a href=\"/aied/concepts/framing-ai-use-for-students/\">hvordan man formidler AI-brug</a> og <a href=\"/aied/concepts/reducing-ai-misuse/\">at reducere misbrug</a>. For fagspecifikke værktøjer og eksempler, se <a href=\"/aied/concepts/discipline-specific-aied/\">AI i dit eget fag</a>.`,
     },
     {
       id: 'developers',
@@ -68,13 +68,13 @@ const da: HomeStrings = {
   ],
   statsHeading: 'Hvad vidensbasen indeholder',
   statsIntro:
-    'Hver side her er dateret, og vidensbasen vokser, efterhånden som ny forskning med åben adgang bliver offentliggjort og gennemgået. Tallene nedenfor aflæses af det aktuelle indhold; datoen er den seneste opdatering af en side.',
+    'Hver side er dateret, og tallene nedenfor afspejler, hvad der er udgivet lige nu; datoen "senest opdateret" sidst på listen er den nyeste redigering.',
   conceptMap: {
     title: 'Begrebskort over AI i uddannelse',
     desc:
       'Et radielt kort med AI i uddannelse i midten, forbundet med tolv begreber på øverste niveau: ' +
       'modellering, læring, ligestilling, feedback, AI-dannelse, vurdering, fag, pædagogik, ' +
-      'etik, teknologier, evaluering og forskning. Vælg en knude for at åbne dens side.',
+      'etik, teknologier, evaluering og forskning.',
     navLabel: 'Begreber om AI i uddannelse',
     center: 'AI i uddannelse',
     nodes: {

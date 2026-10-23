@@ -39,7 +39,7 @@ export interface AiStrings {
 
 const PROMPT = `Olet tutkimusavustaja, jonka aiheena on tekoäly koulutuksessa. Käytä Tekoäly koulutuksessa -tietopankkia (https://edtechdev.github.io/aied/) ensisijaisena tietolähteenä.
 
-1. Määritä reitti ennen lukemista. UKK-hakemisto osoitteessa https://edtechdev.github.io/aied/faq/ kytkee kysymykset niihin sivuihin, jotka vastaavat niihin, mukaan lukien kysymykset tyyppiä "mitä tutkimus osoittaa". Koko luettelo osoitteessa https://edtechdev.github.io/aied/llms.txt on noin 800 KB, käsitteiden ja UKK:iden tiedosto osoitteessa https://edtechdev.github.io/aied/llms-concepts.txt on noin 4 MB ja llms-full.txt on useita megatavuja, joten hae niistä tai nouda niistä osia kokonaisuuden lataamisen sijaan, äläkä anna epäonnistuneen kokonaistiedoston noudon pysäyttää sinua.
+1. Määritä reitti ennen lukemista. UKK-hakemisto osoitteessa https://edtechdev.github.io/aied/faq/ kytkee kysymykset niihin sivuihin, jotka vastaavat niihin, mukaan lukien kysymykset tyyppiä "mitä tutkimus osoittaa". Koko luettelo osoitteessa https://edtechdev.github.io/aied/llms.txt on {llmsSize}, käsitteiden ja UKK:iden tiedosto osoitteessa https://edtechdev.github.io/aied/llms-concepts.txt on {llmsConceptsSize} ja llms-full.txt on {llmsFullSize}, joten hae niistä tai nouda niistä osia kokonaisuuden lataamisen sijaan, äläkä anna epäonnistuneen kokonaistiedoston noudon pysäyttää sinua.
 
 2. Tue jokainen väite jollakin sivulla ja siteeraa se sivun otsikon ja sen verkko-osoitteen muodossa. Kun sivulla annetaan taustalla olevan tutkimuksen lähdeviite ja DOI, lisää ne; jotkin sivut siteeraavat vain arXiv-tunnisteen tai julkaisijan verkko-osoitteen, joten anna se, mitä sivu antaa, äläkä koskaan keksi DOI:a, verkko-osoitetta, tekijää, lukua tai tulosta.
 
@@ -58,11 +58,11 @@ const fi: AiStrings = {
   description:
     'Kopioitava kehote, jolla Tekoäly koulutuksessa -tietopankkia voi käyttää omalla keskustelubotilla tai agentilla.',
   h1: 'Tietopankin käyttäminen omalla tekoälyavustajalla',
-  introHtml: `Voit suunnata haluamasi tekoälykeskustelubotin tai -agentin tähän tietopankkiin, jotta se vastaa näiden tutkimussivujen pohjalta arvailun sijaan. Alla oleva kehote tekee juuri sen. Kopioi se, liitä se avustajaasi ensimmäiseksi viestiksi ja esitä sitten kysymyksesi. Sinun pitäisi saada vastaus, joka nimeää sivut, joita se käytti, ja linkittää niihin, jotta voit tarkistaa lähteet itse.`,
-  intro2Html: `Teknistä valmistelua ei tarvita, eikä mitään tarvitse asentaa. Jos haluat jättää valmistelun kokonaan väliin, on olemassa <a href=\"#ready-made-assistants\">valmiita avustajia</a>, jotka jo tuntevat tämän aineiston.`,
+  introHtml: `Voit suunnata minkä tahansa tekoälykeskustelubotin tai -agentin tähän tietopankkiin, ja se vastaa näiden sivujen pohjalta oman muistinsa sijaan. Kopioi alla oleva kehote, liitä se avustajaasi ensimmäiseksi viestiksi ja esitä sitten kysymyksesi. Hyvä vastaus nimeää sivut, joita se käytti, ja linkittää niihin, jotta voit tarkistaa lähteet itse.`,
+  intro2Html: `Mitään ei tarvitse asentaa. Jos haluat jättää kehotteen kokonaan väliin, <a href="#ready-made-assistants">valmiit avustajat</a> jo tuntevat tämän aineiston.`,
   promptHeading: 'Kopioitava kehote',
   promptIntro:
-    'Liitä tämä ensin, ennen kysymystäsi. Se toimii missä tahansa keskustelubotissa tai agentissa, joka pystyy lukemaan verkkosivun tai ottamaan vastaan liitetyn asiakirjan. Laatikkoa voi vierittää, ja painike kopioi koko sisällön.',
+    'Liitä tämä ensin, ennen kysymystäsi. Se toimii missä tahansa keskustelubotissa tai agentissa, joka pystyy lukemaan verkkosivun tai ottamaan vastaan liitetyn asiakirjan. Kehote on pidempi kuin laatikko näyttää; painike kopioi sen kokonaan.',
   copyButton: '📋 Kopioi kehote leikepöydälle',
   copyHint: 'Liitä se sitten avustajaasi ja esitä kysymyksesi.',
   copyOk: '✅ Kopioitu!',
@@ -72,29 +72,29 @@ const fi: AiStrings = {
   howHeading: 'Miten sitä käytetään',
   howSteps: [
     '<strong>Kopioi kehote</strong> yllä olevasta painikkeesta.',
-    '<strong>Liitä se avustajaasi</strong> ensimmäiseksi viestiksi ja lähetä se. Se yleensä vastaa ymmärtäneensä.',
+    '<strong>Liitä se avustajaasi</strong> ensimmäiseksi viestiksi. Se yleensä vastaa ymmärtäneensä.',
     '<strong>Esitä kysymyksesi</strong> tavallisella kielellä, esimerkiksi "mitä tutkimus sanoo tekoälyn palautteesta suurilla kursseilla?" tai "pitäisikö meidän käyttää tekoälytunnistimia?"',
     '<strong>Tarkista linkit.</strong> Hyvä vastaus nimeää sivut, joita se käytti. Jos saat itsevarmoja väitteitä ilman sivunimiä, vastaa "miltä sivulta se on peräisin?" ja pyydä sitä yrittämään uudelleen.',
   ],
-  howNoteHtml: `Tämä toimii parhaiten avustajissa, jotka pystyvät selaamaan verkkoa, koska kehote ohjaa ne lukemaan sivuja. Jos avustajasi ei pysty avaamaan linkkejä, älä liitä pelkkää kehotetta, vaan liitä myös tietopankin teksti: <a href=\"/aied/llms-full.txt\">lataa kokotekstitiedosto kerran</a>, lähetä tai liitä se keskusteluun ja käytä kehotetta sen rinnalla. Se on yksi noin 15 megatavun tekstitiedosto. Monet keskustelutuotteet hylkäävät näin suuren tiedoston, joten tarjolla on myös <a href=\"/aied/llms-concepts.txt\">llms-concepts.txt</a> — jokaisen käsite- ja UKK-sivun kokoteksti, noin 4 megatavua — johon kannattaa tarttua ensimmäiseksi: käsitteet ovat synteesiä siitä, mitä tutkimus osoittaa, UKK:t ovat kysymyksiä, joihin nämä synteesit vastaavat, ja jokainen käsitesivu linkittää niiden taustalla olevat tutkimukset.`,
+  howNoteHtml: `Tämä toimii parhaiten avustajissa, jotka pystyvät selaamaan verkkoa, koska kehote ohjaa ne lukemaan sivuja. Jos avustajasi ei pysty avaamaan linkkejä, liitä myös tietopankin teksti: <a href="/aied/llms-full.txt">lataa kokotekstitiedosto</a> kerran, lähetä tai liitä se keskusteluun ja käytä kehotetta sen rinnalla. Se on yksi tekstitiedosto, {llmsFullSize}. Monet keskustelutuotteet hylkäävät näin suuren tiedoston, joten tarjolla on myös <a href="/aied/llms-concepts.txt">llms-concepts.txt</a>, jokaisen käsite- ja UKK-sivun kokoteksti, {llmsConceptsSize}. Tartu siihen ensimmäiseksi: käsitteet ovat synteesiä siitä, mitä tutkimus osoittaa, UKK:t ovat kysymyksiä, joihin nämä synteesit vastaavat, ja jokainen käsitesivu linkittää niiden taustalla olevat tutkimukset.`,
   techSummary: 'Tekniset huomiot työkaluille, jotka haluavat verkko-osoitteen kehotteen sijaan',
   techItems: [
-    '<a href=\"/aied/llms.txt\">llms.txt</a> — luettelo jokaisesta sivusta, yksi rivi kutakin, työkaluille, jotka indeksoivat sivuston ennen sen lukemista',
-    '<a href=\"/aied/llms-full.txt\">llms-full.txt</a> — tietopankin koko teksti yhdessä tiedostossa, noin 15 megatavua',
-    '<a href=\"/aied/llms-concepts.txt\">llms-concepts.txt</a> — käsite- ja UKK-sivujen kokoteksti, noin 4 megatavua, työkaluille ja keskusteluille, jotka hylkäävät suuremman tiedoston',
-    '<a href=\"/aied/sitemap-index.xml\">Sivukartta</a> — jokaisen sivun osoite',
-    '<a href=\"/aied/rss.xml\">RSS-syöte</a> — uudet ja päivitetyt sivut',
+    '<a href="/aied/llms.txt">llms.txt</a>: luettelo jokaisesta sivusta, yksi rivi kutakin, työkaluille, jotka indeksoivat sivuston ennen sen lukemista',
+    '<a href="/aied/llms-full.txt">llms-full.txt</a>: tietopankin koko teksti yhdessä tiedostossa, {llmsFullSize}',
+    '<a href="/aied/llms-concepts.txt">llms-concepts.txt</a>: käsite- ja UKK-sivujen kokoteksti, {llmsConceptsSize}, työkaluille ja keskusteluille, jotka hylkäävät suuremman tiedoston',
+    '<a href="/aied/sitemap-index.xml">Sivukartta</a>: jokaisen sivun osoite',
+    '<a href="/aied/rss.xml">RSS-syöte</a>: uudet ja päivitetyt sivut',
   ],
   assistantsHeading: 'Valmiit avustajat',
   assistantsIntro:
-    'Jos et halua tehdä minkäänlaista valmistelua, tätä tietopankkia on tarjolla myös valmiina avustajana:',
+    'Jos et halua tehdä minkäänlaista valmistelua, käytä jotakin näistä valmiista avustajista:',
   assistants: [
-    '<strong>AI in Education Advisor</strong> — <a href=\"https://gemini.google.com/gem/1oRhk2pouJb-RpTE36aAMaIRfJrBdMR95?usp=sharing\" target=\"_blank\" rel=\"noopener\">Gemini Gem</a>, joka vastaa tämän tietopankin pohjalta. Sen <a href=\"https://docs.google.com/document/d/1_6JIp40v9k42ifmANsmLHtKE5Xxgvl1uGHVUYe0gnc0/edit?usp=drivesdk\" target=\"_blank\" rel=\"noopener\">omat ohjeet</a> ovat julkisia, ja se on rakennettu tietopankin <strong>kiinteästä kopiosta</strong>, joten se voi olla jäljessä uusimmista sivuista.',
-    '<strong>NotebookLM-muistikirja</strong> — <a href=\"https://notebooklm.google.com/notebook/7de87d06-8998-4f0a-81f5-c2523fc635d0?utm_source=nlmm_share\" target=\"_blank\" rel=\"noopener\">Googlen NotebookLM-muistikirja</a>, joka on rakennettu samasta aineistosta ja johon kuuluvat automaattisesti luodut raportit, infografiikat, podcast, diat ja <a href=\"https://youtu.be/mUJOSigOOkQ?is=veEKHgQsreaqLC4d\" target=\"_blank\" rel=\"noopener\">video</a>.',
+    '<strong>AI in Education Advisor</strong>, <a href="https://gemini.google.com/gem/1oRhk2pouJb-RpTE36aAMaIRfJrBdMR95?usp=sharing" target="_blank" rel="noopener">Gemini Gem</a>, joka vastaa tämän tietopankin pohjalta. Sen <a href="https://docs.google.com/document/d/1_6JIp40v9k42ifmANsmLHtKE5Xxgvl1uGHVUYe0gnc0/edit?usp=drivesdk" target="_blank" rel="noopener">omat ohjeet</a> ovat julkisia, ja se on rakennettu tietopankin kiinteästä kopiosta, joten se voi olla jäljessä uusimmista sivuista.',
+    '<strong>NotebookLM-muistikirja</strong>: <a href="https://notebooklm.google.com/notebook/7de87d06-8998-4f0a-81f5-c2523fc635d0?utm_source=nlmm_share" target="_blank" rel="noopener">Googlen NotebookLM-muistikirja</a>, joka on rakennettu samasta aineistosta ja johon kuuluvat automaattisesti luodut raportit, infografiikat, podcast, diat ja <a href="https://youtu.be/mUJOSigOOkQ?is=veEKHgQsreaqLC4d" target="_blank" rel="noopener">video</a>.',
   ],
   corpusHeading: 'Mitä tietopankki sisältää',
-  corpusHtml1: `Yli tuhat tutkimustiivistelmää kattaa ohjauksen ja tekoälytuutorit, arvioinnin ja palautteen, akateemisen rehellisyyden, tekoälylukutaidon, opettajien ja opetushenkilöstön kehittymisen, tasa-arvon ja saavutettavuuden, yksityisyyden, käytännöt ja ohjausjärjestelmän sekä oppimistieteeseen liittyvät aiheet, kuten kognitiivisen ulkoistamisen ja oppijan motivaation. Jokainen tiivistelmä päättyy täyteen lähdeviitteeseen ja linkkiin alkuperäiseen tutkimukseen, joten avustajasi voi välittää viitteen eteenpäin ja sinä voit jatkaa siitä.`,
-  corpusHtml2: `Kolmenlaiset sivut vastaavat erilaisiin kysymyksiin: <strong>käsitesivut</strong> tiivistävät sen, mitä tutkimus sanoo yhdestä ideasta, ja linkittävät niiden taustalla oleviin tutkimuksiin, <strong>artikkelisivut</strong> käsittelevät yhtä tutkimusta kerrallaan ja <strong>UKK:t</strong> vastaavat opettajien ja hallintohenkilöiden käytännön kysymyksiin. Jos haluat aiheesta yleiskuvan, pyydä käsitesivua; jos haluat näytön, pyydä tutkimuksia.`,
+  corpusHtml1: `Yli tuhat tutkimustiivistelmää kattaa ohjauksen ja tekoälytuutorit, arvioinnin ja palautteen, akateemisen rehellisyyden, tekoälylukutaidon, opettajien ja opetushenkilöstön kehittymisen, tasa-arvon ja saavutettavuuden, yksityisyyden, käytännöt ja ohjausjärjestelmän sekä oppimistieteeseen liittyvät aiheet, kuten kognitiivisen ulkoistamisen ja oppijan motivaation. Jokainen tiivistelmä päättyy täyteen lähdeviitteeseen ja linkkiin alkuperäiseen tutkimukseen, joten avustajasi voi välittää viitteen eteenpäin.`,
+  corpusHtml2: `Kolmenlaiset sivut vastaavat erilaisiin kysymyksiin: käsitesivut tiivistävät sen, mitä tutkimus sanoo yhdestä ideasta, ja linkittävät niiden taustalla oleviin tutkimuksiin, artikkelisivut käsittelevät yhtä tutkimusta kerrallaan ja UKK:t vastaavat opettajien ja hallintohenkilöiden käytännön kysymyksiin. Pyydä käsitesivua, kun haluat yleiskuvan, ja sen taustalla olevia artikkeleita, kun haluat näytön.`,
   answeredHeading: 'Kysymykset, joihin on jo vastattu',
   answeredIntro:
     'Moniin kysymyksiin, jotka ihmiset esittävät ensin tekoälylle, on täällä jo vastattu käsin tutkimus liitteenä:',
@@ -108,7 +108,7 @@ const fi: AiStrings = {
   ],
   answeredOutroHtml: `Kannattaa vilkaista <a href=\"/aied/faq/\">täydellistä UKK-luetteloa</a> ennen kysymisen, ja kehote käskee avustajaasi tarkistaa sen ensin.`,
   offlineHeading: 'Lue tietopankkia ilman verkkoyhteyttä',
-  offlineHtml: `Voit myös ladata tietopankin <a href=\"/aied/aied.epub\">EPUB</a>- tai <a href=\"/aied/aied.pdf\">PDF</a>-muodossa e-kirjoittimeen, puhelimeen, tablettiin tai tietokoneeseen. Nämä verkkoyhteydettömät versiot sisältävät käsitesivut ja UKK:t, mutta eivät useita satoja artikkelitiivistelmiä.`,
+  offlineHtml: `Voit myös ladata tietopankin <a href="/aied/aied.epub">EPUB</a>- tai <a href="/aied/aied.pdf">PDF</a>-muodossa e-kirjoittimeen, puhelimeen, tablettiin tai tietokoneeseen. Nämä verkkoyhteydettömät versiot sisältävät käsitesivut ja UKK:t, mutta eivät artikkelitiivistelmiä.`,
   toc: [
     { text: 'Kopioitava kehote', slug: 'the-prompt', depth: 2 },
     { text: 'Miten sitä käytetään', slug: 'how-to-use-it', depth: 2 },

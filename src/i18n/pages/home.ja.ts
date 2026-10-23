@@ -32,24 +32,24 @@ export interface HomeStrings {
 const ja: HomeStrings = {
   title: 'ホーム',
   h1: '教育におけるAIナレッジベース',
-  introHtml: `<strong>教育におけるAIナレッジベース</strong>へようこそ。これは<a href="/aied/concepts/ai-education/">教育における人工知能</a>に関する無料のパブリックドメインのリソースで、教育・学習・設計・運営に携わる方々に向けたものです。近年のオープンアクセス研究を、読んですぐに役立てられる短く構造化されたページにまとめています。作り方について少しお話しします。ページはAIエージェントが生成・更新し、サイト開発者が編集面で助言しています。すべての記述には根拠となる論文名を挙げているので、出典はご自分で確認できます。`,
+  introHtml: `教育におけるAIナレッジベースへようこそ。これは<a href="/aied/concepts/ai-education/">教育における人工知能</a>に関する無料のパブリックドメインのリソースで、教育・学習・設計・運営に携わる方々に向けたものです。近年のオープンアクセス教育研究を要約し、統合しています。ページはAIエージェントが、サイト開発者の編集上の助言を得ながら執筆・更新しています。`,
   navHeading: 'サイトの見方',
-  navHtml: `左のサイドバーにある分野ごとの索引を見れば、この分野がどのように整理されているかがわかります。すでに知りたいテーマがある場合は、<a href="/aied/search">ナレッジベース全体を検索</a>してください。記事ページは1本の論文を目的・手法・知見に凝縮し、完全な書誌情報と関連研究へのリンクを添えています。概念ページは1つの考えについて研究が述べていることを集め、その根拠となる研究にリンクしています。質問から始めたい場合は、<a href="/aied/faq">FAQ索引</a>が、コースのAIポリシーからAI検出ツールを使うべきかどうかまで、訪問者がまず尋ねる疑問を集めています。ツールから始めたい場合は、<a href="/aied/resources">リソースページ</a>に、そのまま使える無料のツール・コレクション・計測手法が並んでおり、それぞれ誰が作ったか、いくらかかるかが書かれています。上の概念マップは何と何がつながっているかを示しています。<a href="/aied/concepts/ai-education/">教育におけるAI</a>はその背後にあるマップのページで、概念を十数ほどの大きな分野にまとめています。`,
+  navHtml: `左のサイドバーにある分野ごとの索引をたどるか、テーマがあれば<a href="/aied/search">検索</a>してください。記事ページは1本の論文を目的・手法・知見に凝縮し、概念ページは1つの考えについて研究が述べていることを集めて、その根拠となる研究にリンクしています。質問から始めたい場合は、<a href="/aied/faq">FAQ</a>が、コースのAIポリシーやAI検出ツールを使うべきかどうかなど、訪問者がまず尋ねることを扱っています。ツールから始めたい場合は、<a href="/aied/resources">リソースページ</a>に無料のツールとコレクションが並んでおり、それぞれ誰が作り、いくらかかるかが書かれています。上のマップはこの分野を12のまとまりに分けており、<a href="/aied/concepts/ai-education/">教育におけるAI</a>が中心のノードです。`,
   chatHeading: 'ナレッジベースとチャットする',
-  chatHtml: `ここにあるものはすべて機械可読なファイルとしても公開されていますので、お使いのAIチャットボットやエージェントをこのナレッジベースに向ければ、推測ではなく出典を示した答えを得られます。<a href="/aied/ai">プロンプトはこちら</a>にあります。新しいページは<a href="/aied/journal">ジャーナル</a>に掲載され、フォローしたい場合は<a href="/aied/rss.xml">RSSフィード</a>もあります。オフラインで読むなら、<a href="/aied/aied.epub">EPUB</a>または<a href="/aied/aied.pdf">PDF</a>をご利用ください。`,
+  chatHtml: `ナレッジベース全体は機械可読なファイルとしても公開されているので、AIチャットボットやエージェントをそこに向ければ、ページを出典として示す答えが得られます。<a href="/aied/ai">プロンプトはこちら</a>にあります。新しいページは<a href="/aied/journal">ジャーナル</a>に追加され、<a href="/aied/rss.xml">RSSフィード</a>もあります。オフラインで読むなら、<a href="/aied/aied.epub">EPUB</a>または<a href="/aied/aied.pdf">PDF</a>をダウンロードしてください。`,
   startingHeading: '対象読者別のおすすめの出発点',
   startingIntro:
-    'このナレッジベースで最初に読むことをおすすめする概念を、以下にいくつか挙げます。',
+    'ご自身の役割に合ったグループから始めてください。',
   groups: [
     {
       id: 'essential-concepts',
       heading: '必須の概念',
-      html: `<a href="/aied/concepts/ai-literacy/">AIリテラシー</a>、<a href="/aied/concepts/misconceptions/">AIに関する誤解</a>、<a href="/aied/concepts/agentic-ai/">エージェント型AI</a>、<a href="/aied/concepts/cognitive-offloading/">認知のオフローディング</a>、そして<a href="/aied/concepts/interpreting-and-applying-aied-research/">この研究をどう解釈し応用するか</a>。知見が支えられることと支えられないこと、そして1つの研究だけでは問いに決着がつかない理由を扱います。`,
+      html: `<a href="/aied/concepts/ai-literacy/">AIリテラシー</a>、<a href="/aied/concepts/misconceptions/">AIに関する誤解</a>、<a href="/aied/concepts/agentic-ai/">エージェント型AI</a>、<a href="/aied/concepts/cognitive-offloading/">認知のオフローディング</a>、そして<a href="/aied/concepts/interpreting-and-applying-aied-research/">この研究をどう解釈し応用するか</a>。1つの研究だけでは問いに決着がつかない理由も含みます。`,
     },
     {
       id: 'instructors',
       heading: '教員',
-      html: `<a href="/aied/concepts/teacher-role/">変化する教える役割</a>、<a href="/aied/concepts/learning-design/">学習設計</a>、<a href="/aied/concepts/assessment/">評価</a>、<a href="/aied/concepts/feedback/">フィードバック</a>、<a href="/aied/concepts/academic-integrity/">学問的誠実性</a>、<a href="/aied/concepts/framing-ai-use-for-students/">AI利用の位置づけ</a>、<a href="/aied/concepts/reducing-ai-misuse/">不正利用の削減</a>。ご自身の教科におけるツール・根拠・事例については、<a href="/aied/concepts/discipline-specific-aied/">自分の専門分野におけるAI</a>をご覧ください。`,
+      html: `<a href="/aied/concepts/teacher-role/">変化する教える役割</a>、<a href="/aied/concepts/learning-design/">学習設計</a>、<a href="/aied/concepts/assessment/">評価</a>、<a href="/aied/concepts/feedback/">フィードバック</a>、<a href="/aied/concepts/academic-integrity/">学問的誠実性</a>、<a href="/aied/concepts/framing-ai-use-for-students/">AI利用の位置づけ</a>、<a href="/aied/concepts/reducing-ai-misuse/">不正利用の削減</a>。ご自身の教科のツールと事例については、<a href="/aied/concepts/discipline-specific-aied/">自分の専門分野におけるAI</a>をご覧ください。`,
     },
     {
       id: 'developers',
@@ -69,13 +69,13 @@ const ja: HomeStrings = {
   ],
   statsHeading: 'ナレッジベースに含まれるもの',
   statsIntro:
-    'ここにあるページにはすべて日付が付いており、新しいオープンアクセス研究が発表・レビューされるにつれてナレッジベースは成長します。以下の件数は現在の内容から読み取ったもので、日付は最も新しいページ更新日です。',
+    'ページにはすべて日付が付いており、以下の件数は今公開されている内容を反映しています。リストの末尾にある「最終更新」の日付が、最も新しい更新日です。',
   conceptMap: {
     title: '教育におけるAIの概念マップ',
     desc:
       '教育におけるAIを中心に据え、12の最上位概念：' +
       'モデリング、学習、公平性、フィードバック、AIリテラシー、評価、専門分野、教授法、' +
-      '倫理、技術、検証、研究をつないだ放射状のマップです。任意のノードを選ぶと、そのページが開きます。',
+      '倫理、技術、検証、研究をつないだ放射状のマップです。',
     navLabel: '教育におけるAIの概念',
     center: '教育におけるAI',
     nodes: {
