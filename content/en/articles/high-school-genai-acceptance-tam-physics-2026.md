@@ -14,7 +14,7 @@ technology: [generative-ai, technology-acceptance-model]
 pedagogy: [motivation, self-efficacy]
 contributors: [editor]
 ai_assist:
-  - model: deepseek/deepseek-v4.1-flash
+  - model: deepseek/deepseek-v4.1-flash-1017
     role: drafting
     date: "2026-10-23"
     agent: hermes-agent
