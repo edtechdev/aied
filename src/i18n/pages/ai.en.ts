@@ -39,7 +39,7 @@ export interface AiStrings {
 
 const PROMPT = `You are a research assistant for AI in education. Use the AI in Education Knowledge Base (https://edtechdev.github.io/aied/) as your primary source.
 
-1. Route before you read. The FAQ index at https://edtechdev.github.io/aied/faq/ maps questions to the pages that answer them, including "what does the research show" questions. The full catalog at https://edtechdev.github.io/aied/llms.txt is about 800 KB, the concepts-and-FAQs file at https://edtechdev.github.io/aied/llms-concepts.txt is about 4 MB, and llms-full.txt is many megabytes, so search them or fetch parts rather than loading them whole, and do not let a failed whole-file fetch stop you.
+1. Route before you read. The FAQ index at https://edtechdev.github.io/aied/faq/ maps questions to the pages that answer them, including "what does the research show" questions. The full catalog at https://edtechdev.github.io/aied/llms.txt is {llmsSize}, the concepts-and-FAQs file at https://edtechdev.github.io/aied/llms-concepts.txt is {llmsConceptsSize}, and llms-full.txt is {llmsFullSize}, so search them or fetch parts rather than loading them whole, and do not let a failed whole-file fetch stop you.
 
 2. Ground every claim in a page and cite it as the page title followed by its URL. When the page gives the underlying paper's citation and DOI, add them; some pages cite only an arXiv ID or a publisher URL, so give what the page gives and never invent a DOI, URL, author, number, or finding.
 
@@ -74,12 +74,12 @@ const en: AiStrings = {
     '<strong>Ask your question</strong> in plain language, for example "what does the research say about AI feedback in large classes?" or "should we use AI detectors?"',
     '<strong>Check the links.</strong> A good answer names the pages it used. If you get confident claims with no page names, reply "which page did that come from?" and ask it to try again.',
   ],
-  howNoteHtml: `This works best in assistants that can browse the web, since the prompt points them at pages to read. If yours cannot open links, attach the text of the knowledge base as well: <a href="/aied/llms-full.txt">download the full-text file</a> once, upload or paste it into the conversation, and use the prompt alongside it. It is a single text file of roughly 15 MB. Many chat products refuse a file that size, so there is also <a href="/aied/llms-concepts.txt">llms-concepts.txt</a>, every concept and FAQ page in full at about 4 MB. Reach for that one first: the concepts are the syntheses of what the research shows, the FAQs are the questions those syntheses answer, and each concept page links the papers behind it.`,
+  howNoteHtml: `This works best in assistants that can browse the web, since the prompt points them at pages to read. If yours cannot open links, attach the text of the knowledge base as well: <a href="/aied/llms-full.txt">download the full-text file</a> once, upload or paste it into the conversation, and use the prompt alongside it. It is a single text file of {llmsFullSize}. Many chat products refuse a file that size, so there is also <a href="/aied/llms-concepts.txt">llms-concepts.txt</a>, every concept and FAQ page in full at {llmsConceptsSize}. Reach for that one first: the concepts are the syntheses of what the research shows, the FAQs are the questions those syntheses answer, and each concept page links the papers behind it.`,
   techSummary: 'Technical notes for tools that want a URL instead of a prompt',
   techItems: [
     '<a href="/aied/llms.txt">llms.txt</a>: a catalog of every page, one line each, for tools that index a site before reading it',
-    '<a href="/aied/llms-full.txt">llms-full.txt</a>: the complete text of the knowledge base in one file, about 15 MB',
-    '<a href="/aied/llms-concepts.txt">llms-concepts.txt</a>: full text of the concept and FAQ pages, about 4 MB, for tools and chats that reject the larger file',
+    '<a href="/aied/llms-full.txt">llms-full.txt</a>: the complete text of the knowledge base in one file, {llmsFullSize}',
+    '<a href="/aied/llms-concepts.txt">llms-concepts.txt</a>: full text of the concept and FAQ pages, {llmsConceptsSize}, for tools and chats that reject the larger file',
     '<a href="/aied/sitemap-index.xml">Sitemap</a>: every page address',
     '<a href="/aied/rss.xml">RSS feed</a>: new and updated pages',
   ],
