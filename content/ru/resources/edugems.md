@@ -18,7 +18,7 @@ confidence: high
 connected_resources: [teacherserver, id-toolbox]
 reviewed_by: [editor]
 translation_of: resources/edugems
-source_updated: "2026-09-20T13:49:11-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "Автоматический перевод данной английской страницы, не проверенный носителем языка."
 contributors: [editor]
 ai_assist:
@@ -41,4 +41,6 @@ ai_assist:
 Курирует Эрик Кёртс, который публикует сопроводительное видеоурок, рассылку и более широкие образовательные технологии на сайте Control Alt Achieve. Чтобы сделать копию Gem, нужен аккаунт Google, а условия использования Gemini действуют вместе с ним, поэтому это библиотека, которую следует оценить, прежде чем направлять студентов к ней, а не инструмент, которым можно пользоваться анонимно.
 
 ## Связанные концепции
-[[prompt-engineering]], [[generative-ai]], [[ai-literacy]], [[learning-design]], [[online-teaching-and-learning]]
+
+[[prompt-engineering]], [[generative-ai]], [[ai-literacy]], [[learning-design]], [[online-teaching-and-learning]], [[teacher-ai-competency]]
+

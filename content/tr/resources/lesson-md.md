@@ -18,7 +18,7 @@ confidence: high
 connected_resources: [id-toolbox, liascript]
 reviewed_by: [editor]
 translation_of: resources/lesson-md
-source_updated: "2026-09-20T13:49:11-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -41,4 +41,6 @@ Dersi herhangi bir metin düzenleyicide yazın ve biçimi destekleyen herhangi b
 İçeriğinin bir araç değişikliğinden sağ çıkmasını isteyen öğretim tasarımcıları ve kurs oluşturucuları, kullanıcılarının çoktan anladığı bir içe ve dışa aktarma biçimi isteyen eLearning satıcıları ve okunabilir bir biçim üzerine YZ destekli yazım kuran herkes. Katkıda bulunanlar arasında LXD Integral'den Dan Bashaw var ve biçimin v1.8'e kadar uzanan herkese açık bir değişiklik günlüğü bulunuyor.
 
 ## Bağlı kavramlar
-[[learning-design]], [[open-source]], [[online-teaching-and-learning]], [[multimodal]], [[educational-technology-developers]]
+
+[[learning-design]], [[open-source]], [[online-teaching-and-learning]], [[multimodal]], [[educational-technology-developers]], [[assessment]], [[edtech-platform]]
+

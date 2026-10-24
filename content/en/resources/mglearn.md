@@ -1,7 +1,7 @@
 ---
 title: "mglearn Classroom Resources"
 created: "2026-09-23T17:45:00-04:00"
-updated: "2026-09-23T17:45:00-04:00"
+updated: "2026-10-24T08:37:08-04:00"
 type: resource
 summary: "A large set of free, browser-based classroom activity suites and print-ready materials from TCEA, including Gen AI literacy and digital citizenship modules."
 url: https://mglearn.github.io/
@@ -43,4 +43,6 @@ It is aimed at K–12 teachers and the professional developers who train them, w
 Content is licensed CC BY-NC 4.0 and the underlying code MIT: classroom use, local hosting, and adaptation are permitted with credit, while selling the materials or bundling them into paid training requires written permission from TCEA. Works by other people are excluded from the license, and literature activities reproduce no text from copyrighted works. The project states that content and translations were produced with generative AI under editorial review, and that translations are machine-assisted and flagged for local educator review before classroom use, which is worth taking seriously before a district adopts them at scale. Every activity runs in the student's browser with no logins and no data collection.
 
 ## Connected Concepts
-[[ai-literacy]], [[inclusive-learning]], [[multilingual-learning]], [[teacher-ai-competency]]
+
+[[ai-literacy]], [[inclusive-learning]], [[multilingual-learning]], [[teacher-ai-competency]], [[language-learning]]
+

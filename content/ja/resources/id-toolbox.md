@@ -1,7 +1,7 @@
 ---
 title: "The ID Toolbox"
 created: "2026-10-10T22:03:49-04:00"
-updated: "2026-10-10T22:03:49-04:00"
+updated: "2026-10-24T08:38:48-04:00"
 type: resource
 summary: "インストラクショナルデザイナー向けの 50 種類以上の無料・単一用途ブラウザユーティリティ。範囲設定、工数見積り、字幕・翻訳ツール、可読性と一貫性のチェックができます。"
 url: https://nextgenailearning.com/
@@ -18,7 +18,7 @@ audience: [instructional designers, faculty developers, educational technology d
 confidence: high
 connected_resources: [drawsplat, lesson-md, edugems]
 translation_of: resources/id-toolbox
-source_updated: "2026-09-20T13:49:11-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -42,4 +42,5 @@ ai_assist:
 
 ## 関連する概念
 
-[[learning-design]], [[online-teaching-and-learning]], [[formative-assessment]], [[educational-technology-developers]]
+[[learning-design]], [[online-teaching-and-learning]], [[formative-assessment]], [[educational-technology-developers]], [[accessibility]]
+

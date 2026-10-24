@@ -1,7 +1,7 @@
 ---
 title: "The ID Toolbox"
 created: "2026-09-20T13:49:11-04:00"
-updated: "2026-10-10T04:00:00-04:00"
+updated: "2026-10-24T08:38:48-04:00"
 type: resource
 summary: "Plus de cinquante utilitaires gratuits à finalité unique dans le navigateur pour les concepteurs pédagogiques : cadrage, estimation, outillage de sous-titrage et de traduction, contrôles de lisibilité et de cohérence."
 url: https://nextgenailearning.com/
@@ -18,7 +18,7 @@ audience: [instructional designers, faculty developers, educational technology d
 confidence: high
 connected_resources: [drawsplat, lesson-md, edugems]
 translation_of: resources/id-toolbox
-source_updated: "2026-09-20T13:49:11-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -41,4 +41,6 @@ Avant de construire : choisir entre des outils de création selon des critères 
 Curt Zilbersher, qui conçoit de la formation en entreprise depuis vingt-huit ans, décrit les mêmes petits problèmes non résolus qui reviennent au long de sa carrière — compter les mots de la narration, trouver l'actif qui a poussé un cours au-delà d'une limite d'[[edtech-platform|LMS]], auditer à la main la couverture des sous-titres — et il construit les correctifs et les donne. Le site mène aussi une enquête annuelle gratuite sur la manière dont les concepteurs pédagogiques passent réellement leur semaine.
 
 ## Concepts liés
-[[learning-design]], [[online-teaching-and-learning]], [[formative-assessment]], [[educational-technology-developers]]
+
+[[learning-design]], [[online-teaching-and-learning]], [[formative-assessment]], [[educational-technology-developers]], [[accessibility]]
+

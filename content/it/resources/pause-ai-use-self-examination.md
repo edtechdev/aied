@@ -19,7 +19,7 @@ confidence: high
 connected_resources: [pressing-prompts]
 reviewed_by: [editor]
 translation_of: resources/pause-ai-use-self-examination
-source_updated: "2026-09-20T13:49:11-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -46,4 +46,6 @@ A studenti, insegnanti e ricercatori che vogliono uno stimolo privato per esamin
 Scritto da Mahbub Ul Alam (SciLifeLab Data Centre, Uppsala University); la logica progettuale e i limiti di validazione sono documentati in un preprint di accompagnamento, e il codice sorgente è pubblico.
 
 ## Concetti collegati
-[[cognitive-offloading]], [[critical-thinking]], [[ai-literacy]], [[self-regulated-learning]], [[metacognition]], [[privacy]]
+
+[[cognitive-offloading]], [[critical-thinking]], [[ai-literacy]], [[self-regulated-learning]], [[metacognition]], [[privacy]], [[cognitive-surrender]]
+

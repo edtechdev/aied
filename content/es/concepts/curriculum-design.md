@@ -120,14 +120,14 @@ El diseño curricular conecta directamente con el [[learning-design|diseño del 
 ## Artículos conectados
 - [[genai-curriculum-analytics-mapping-higher-ed-2026]] — Mapeo de habilidades ponderado y validado por expertos para la acreditación
 - [[mcinnes-salvaging-constructive-alignment-genai-2026]] — Análisis crítico del discurso de las orientaciones sobre IA generativa para la alineación constructiva (McInnes et al. 2026)
-- [[icet-ml-education-trust-2026]] — Addressing Trust in AI Systems through Education: A Didactic Perspective
+- [[icet-ml-education-trust-2026]] — Abordar la confianza en los sistemas de IA a través de la educación: una perspectiva didáctica
 - [[refrain-amplify-genai-curriculum-2026]] — Marco curricular de abstenerse y luego amplificar para secuenciar la IA generativa (Torres-Sahli et al. 2026)
 - [[mechanical-engineering-ai-curriculum-2026]] — Project-Based AI Education Curriculum in Thermal Engineering
 - [[ying-genai-journalism-assessment-2026]]
 - [[rook-plumb-genai-curricula-student-insights-2026]]
 - [[zhou-constructive-alignment-genai-business-2026]]
 - [[workforce-readiness-smart-manufacturing-wrl-2026]] — Marco de niveles de preparación laboral para la fabricación inteligente en la era de la IA
-- [[rewriting-curriculum-genai-pedagogy-2026]] — Rewriting the curriculum: GenAI-driven pedagogical change
+- [[rewriting-curriculum-genai-pedagogy-2026]] — Reescribir el currículo: cambio pedagógico impulsado por la IA generativa
 - [[critical-media-literacy-education-2026]]
 - [[reshaping-cs-education-genai]]
 - [[ase-26-agentic-software-engineering-curriculum]]
@@ -139,11 +139,11 @@ El diseño curricular conecta directamente con el [[learning-design|diseño del 
 - [[hingle-collaborative-ai-literacy-2025]]
 - [[ithaka-sr-ai-skills-college-graduates-2026]] — Marco de habilidades en IA: 26 habilidades evaluables para el mapeo curricular
 - [[learnai-just-in-time-ai-cocreation-university-2026]] — LearnAI: Just-in-Time AI Co-Creation Across Disciplines
-- [[ai-video-dual-gatekeeping-2026]] — When Saying No Makes Better Videos: Dual Gatekeeping for Pedagogically Grounded AI Content Creation
-- [[niri-steam-ai-literacy-review-2026]] — STEAM education for AI literacy: systematic review
-- [[caruana-pre-university-ai-education-slr-2026]] — Preparing learners and teachers for an AI-driven future: SLR of pre-university AI education (Caruana et al. 2026)
+- [[ai-video-dual-gatekeeping-2026]] — Cuando decir no produce mejores vídeos: doble filtro para una creación de contenidos con IA pedagógicamente fundamentada
+- [[niri-steam-ai-literacy-review-2026]] — Educación STEAM para la alfabetización en IA: revisión sistemática
+- [[caruana-pre-university-ai-education-slr-2026]] — Preparar al estudiantado y al profesorado para un futuro impulsado por la IA: revisión sistemática de la educación preuniversitaria en IA (Caruana et al. 2026)
 - [[ai-modeling-problem-generation-platform-2026]] — Plataforma impulsada por IA que genera problemas de modelado matemático (ADDIE, RAG)
 - [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
 - [[karaismailoglu-ai-lesson-plans-science-experts-2026]]
-- [[ai-particle-physics-education-redesign-2026]] — AI in Particle Physics Education: Research Problems and Foundational Skills
-- [[computing-assessment-genai-workshop-report-2026]] — AI Can Do Your Homework. Now What? Report from an online workshop on computing assessment in the age of generative AI
+- [[ai-particle-physics-education-redesign-2026]] — La IA en la educación en física de partículas: problemas de investigación y habilidades fundamentales
+- [[computing-assessment-genai-workshop-report-2026]] — La IA puede hacer tus tareas. ¿Y ahora qué? Informe de un taller en línea sobre la evaluación en computación en la era de la IA generativa

@@ -1,7 +1,7 @@
 ---
 title: "EduGems"
 created: "2026-09-20T13:49:11-04:00"
-updated: "2026-09-20T13:49:11-04:00"
+updated: "2026-10-24T08:38:48-04:00"
 type: resource
 summary: "Google Gemini의 사전 제작 '젬(Gems)' 라이브러리가 계속 늘어나고 있습니다. 계획, 피드백, 설문, 이미지, AI 사용 성찰을 위한 공유 가능한 사전 작성 프롬프트를 제공합니다."
 url: https://www.edugems.ai/
@@ -18,7 +18,7 @@ audience: [instructors, curriculum designers, learners]
 confidence: high
 connected_resources: [teacherserver, id-toolbox]
 translation_of: resources/edugems
-source_updated: "2026-09-20T13:49:11-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -42,4 +42,5 @@ Eric Curts가 큐레이팅하며, 그가 Control Alt Achieve에서 함께 제공
 
 ## 연결된 개념
 
-[[prompt-engineering]], [[generative-ai]], [[ai-literacy]], [[learning-design]], [[online-teaching-and-learning]]
+[[prompt-engineering]], [[generative-ai]], [[ai-literacy]], [[learning-design]], [[online-teaching-and-learning]], [[teacher-ai-competency]]
+

@@ -1,7 +1,7 @@
 ---
 title: Agente pedagógico
 created: "2026-09-28T19:10:59-04:00"
-updated: "2026-10-22T09:13:53-04:00"
+updated: "2026-10-24T08:21:10-04:00"
 connected_faqs: [ai-agents-support-students-instructors]
 type: concept
 pedagogy: [scaffolding, student-ai-interaction]
@@ -11,7 +11,7 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: medium
 translation_of: concepts/pedagogical-agent
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-24T06:24:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -60,6 +60,8 @@ Un uso complementario de los agentes basados en roles se dirige a la práctica d
 
 **Evaluación y puntos de referencia.** Medir un agente pedagógico exige poner a prueba la pedagogía, no el contenido. [[teaching-monster-pck-benchmark-2026|El Teaching Monster Challenge]] evalúa el conocimiento pedagógico del contenido pidiendo a los agentes que adapten una lección a un perfil de estudiante especificado, y encuentra sistemas fuertes en contenido pero débiles al adaptarlo, además de revelar que los jueces LLM clasifican mal a los sistemas sólidos. [[chen-teacharena-language-agents-realistic-teaching-2026|EduAgentBench]] evalúa a los agentes en juicio pedagógico profesional, tutoría multiturno [[situated-learning|situada]] y finalización de flujos de trabajo tipo lienzo, y muestra que los modelos se quedan cortos respecto a los estándares profesionales de enseñanza. [[ai-generated-interactive-fiction-education-2026|La ficción interactiva generada por IA]] añade un ángulo de evaluación de diseño: lo que limita su utilidad para la [[student-experience|experiencia del estudiantado]] es la coherencia y la integración de cuestionarios, no la capacidad de generación.
 **Poner a prueba la robustez de la persona a lo largo de varios turnos.** [[adversarial-stress-testing-role-playing-agents|Shouqi et al. (2026)]] lanzaron seis ataques de intensidad creciente contra agentes de juego de roles con un juez automatizado: las pruebas con múltiples estrategias redujeron la robustez en 0,17–0,20 frente a una línea base de una sola estrategia, y los fallos críticos se concentraron después del turno 5–6, así que las evaluaciones cortas o de un solo turno sobreestiman la estabilidad de la persona y la adherencia ética.
+
+**Un agente par cuyas sugerencias falibles son justamente el punto.** Copa combina recuperación contextualizada por el registro con GPT-4o y una base de conocimiento específica de la tarea de quince fragmentos, y resume de forma agéntica cada segmento del estudiantado: compara el modelo del estudiante con una versión experta, diagnostica el problema expresado y nombra qué recuperar. En un estudio de aula con 16 estudiantes y dos grupos focales, todas las personas participantes dijeron que su orientación apoyaba su resolución del problema y era precisa, y todas volverían a usarlo. Varias pidieron además respuestas directas, y algunas dieron por correcta una sugerencia hasta que su modelo empeoró. Los autores lo leen como el coste de diseñar un agente para provocar la evaluación y no para responder ([[cohn-lc-rag-log-contextualized-retrieval-2025|Cohn et al., 2025]]).
 
 ## Orientaciones prácticas
 

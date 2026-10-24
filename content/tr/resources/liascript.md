@@ -29,7 +29,7 @@ ai_assist:
     agent: hermes-agent
 reviewed_by: [editor]
 translation_of: resources/liascript
-source_updated: "2026-09-24T04:57:47-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 ---
 
@@ -50,4 +50,6 @@ Proje ayrıca LiaScript kursları yazmak için, Boost Software License 1.0 altı
 LiaScript ücretsizdir, ücretli katman ve hesap zorunluluğu yoktur ve BSD-3-Clause altında açık geliştirilir; böylece kurumlar kendi sunucularında barındırabilir ve değiştirebilir. Live Classroom özelliği, gerçek zamanlı eşzamanlamanın tamamen yerel görselleştirme yerine paylaşılan bir hizmet kullandığından, geniş ölçekte güvenmeden önce bir bakışa değer. Öğretim ajanı genç ve az benimsenmiştir; desteklenen bir ürün yerine çalışan bir prototip olarak ele alın.
 
 ## Bağlı kavramlar
-[[learning-design]], [[open-source]], [[online-teaching-and-learning]], [[active-learning]]
+
+[[learning-design]], [[open-source]], [[online-teaching-and-learning]], [[active-learning]], [[cs-education]], [[edtech-platform]]
+

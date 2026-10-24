@@ -1,7 +1,7 @@
 ---
 title: AI Feedback Quality
 created: "2026-08-09T07:47:05-04:00"
-updated: '2026-10-24T08:05:00-04:00'
+updated: '2026-10-24T08:53:00-04:00'
 connected_faqs: [ai-save-instructor-time, ai-feedback-at-scale, checking-whether-educational-ai-works]
 type: concept
 foundations: [ai-literacy]
@@ -104,6 +104,7 @@ AI feedback quality spans multiple dimensions captured in the knowledge base:
 - **Field-level coverage is uneven.** A synthesis of 68 studies of AI-generated feedback finds the evidence clusters on whether feedback is accurate and grounded (47 studies) and whether it helps the learner (58), while rubric and task alignment — whether the feedback responds to the task's own requirements — appears in only 19 ([[evidence-grounded-framework-ai-generated-educational-feedback-2026|Yang (2026)]]).
 - **Criterion-level ratings diverge within one message set.** Six reviewers scoring 157 messages rated practice exercises strongest (95.5%) while diagnostic specificity (41.1%) and clarity and tone (33.4%) lagged, and instructors rated actionability more generously than other reviewers (84.5% vs 59.9%) ([[llm-feedback-handwritten-mathematics-exam-performance-2026|Vanhoyweghen et al. (2026)]]).
 - **The reader's side of the same dimensions.** Twenty-four university writing professors described output that was complicated, overly long, vague or impractical, and two found it praising strengths unless told to look for weaknesses first ([[wu-lam-genai-writing-assessment-professors-2026|Wu and Lam (2026)]]). Seven said reaching acceptable feedback took repeated prompting, which spends the time the workload gain was meant to save.
+- **Length out-predicted every other measured property of the message.** Across three deployments of an LLM hint system in a live programming course, each standard deviation of 204.9 characters predicted lower next-submission correctness (−0.733), more remaining attempts (0.187) and a longer wait before resubmitting (0.226), while Flesch-Kincaid grade was uncertain for the first two ([[mihaylova-llm-feedback-live-programming-course-2026|Mihaylova et al., 2026]]). Format mattered as well, but as a trade-off: diagnostic hints produced correct next submissions more often and fewer attempts, and slower resubmission.
 
 ### Connection to broader concepts
 
@@ -131,6 +132,7 @@ The corpus behind those quality claims is thinner than the claims suggest. Acros
 
 ## Connected Articles
 
+- [[mihaylova-llm-feedback-live-programming-course-2026]] — Longer LLM hints predicted worse immediate outcomes; format traded fewer attempts for slower resubmission
 - [[wu-lam-genai-writing-assessment-professors-2026]] — Professors on AI feedback quality: flattering by default, long, vague, and slow to refine
 - [[genai-l2-written-feedback-scoping-review-2026]] — Only 27 of 51 studies reported their prompts; 16 experiments lacked a control group
 - [[ai-feedback-violin-intonation-2026]] — AI feedback on intonation checked against 2,208 machine-measured pitch deviations (Aksoy 2026)

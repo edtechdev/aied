@@ -1,7 +1,7 @@
 ---
 title: Pedagogía culturalmente relevante
 created: "2026-09-28T18:18:41-04:00"
-updated: "2026-10-02T21:34:05-04:00"
+updated: "2026-10-24T08:21:18-04:00"
 type: concept
 foundations: [ai-literacy, curriculum-design]
 technology: [generative-ai, intelligent-tutoring, llm]
@@ -10,7 +10,7 @@ audience: [learners]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/culturally-relevant-pedagogy
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-23T22:38:41-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -67,6 +67,7 @@ A partir de los propios artículos de la base de conocimiento, el profesorado y 
 - **Incorporar el contexto demográfico y cultural en los prompts y las herramientas.** CulturAIEd y [[connected-ai-lesson-planning-vietnam|ConnectED]] (un sistema vietnamita de planificación de clases alineado con el currículo) muestran que las plantillas de prompt estructuradas y localmente fundamentadas, junto con controles de validación docente, mejoran el encaje cultural frente a la generación genérica.
 - **Centrar el conocimiento de la comunidad como estándar evaluativo.** Siguiendo el aprendizaje con IA basado en la comunidad, haz que el estudiantado juzgue las salidas de la IA con criterios de relevancia, daño y utilidad fundamentados localmente, y respeta los contextos en los que rechazar o no usar la IA es la decisión correcta.
 - **Adoptar y evaluar conjuntos de datos culturalmente fundamentados.** IKS-Instruct y NSMQ Riddles ilustran que los datos [[discipline-specific-aied|específicos de dominio]] y no occidentales mejoran de forma significativa tanto la relevancia como una evaluación honesta.
+- **Haga que la IA entreviste al docente antes de redactar.** [[zhai-science-literacy-generative-ai-coherence-2026|Zhai et al. (2026)]] describen un planificador de clases culturalmente receptivo cuya arquitectura de prompts interactiva y semiautomatizada pregunta primero por el contexto y la cultura, y después redacta a partir de las propias respuestas del docente en lugar de producir un plan genérico.
 
 ## Conceptos conectados
 
@@ -87,6 +88,7 @@ A partir de los propios artículos de la base de conocimiento, el profesorado y 
 
 ## Artículos conectados
 
+- [[zhai-science-literacy-generative-ai-coherence-2026]] — Planificador de clases que entrevista al profesorado sobre el contexto cultural antes de redactar (Zhai et al. 2026)
 - [[llm-cultural-relevance-k12]] — LLM para una pedagogía culturalmente relevante en K-12
 - [[civic-education-ai-lesson-plans]] — Planes de clase generados por IA en la educación cívica
 - [[ojeda-ramirez-community-based-ai-learning]] — Aprendizaje con IA basado en la comunidad

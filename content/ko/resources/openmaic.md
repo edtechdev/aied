@@ -1,7 +1,7 @@
 ---
 title: "OpenMAIC"
 created: "2026-09-20T17:30:00-04:00"
-updated: "2026-09-20T17:30:00-04:00"
+updated: "2026-10-24T08:38:48-04:00"
 type: resource
 summary: "MAIC의 오픈소스 공개 버전: 주제나 문서를 슬라이드, 퀴즈, 인터랙티브 시뮬레이션, 프로젝트 기반 활동으로 바꾸어 AI 교사와 AI 급우가 전달하는 다중 에이전트 교실입니다."
 url: https://github.com/THU-MAIC/OpenMAIC
@@ -19,7 +19,7 @@ audience: [instructors, curriculum designers, instructional designers, learners,
 confidence: high
 connected_resources: [deeptutor, lesson-md]
 translation_of: resources/openmaic
-source_updated: "2026-09-20T17:30:00-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -47,4 +47,5 @@ MIT 라이선스이며, 영어와 중국어 사용자 가이드와 Discord 및 F
 
 ## 연결된 개념
 
-[[agentic-ai]], [[generative-ai]], [[llm]], [[open-source]], [[project-based-learning]], [[online-teaching-and-learning]], [[personalized-learning]], [[teacher-role]]
+[[agentic-ai]], [[generative-ai]], [[llm]], [[open-source]], [[project-based-learning]], [[online-teaching-and-learning]], [[personalized-learning]], [[teacher-role]], [[intelligent-tutoring]], [[simulation]]
+

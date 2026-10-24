@@ -29,7 +29,7 @@ ai_assist:
     agent: hermes-agent
 reviewed_by: [editor]
 translation_of: resources/onmicro-ai
-source_updated: "2026-09-23T17:45:00-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 ---
 
@@ -50,4 +50,6 @@ Sınırlandırılmış, tekrarlanabilir etkileşimler isteyen eğitmenler ve ö�
 Ücretsiz katman 10.000 YZ kredisi ve üç uygulamayla sınırlıdır; sınırsız uygulama ve gelişmiş modeller Pro katmanında başlar, LTI entegrasyonu, tek oturum açma ve gelişmiş analitik ise Enterprise katmanında listelenir; böylece bir kurumun en çok ihtiyaç duyduğu özellikler ücretli olanlardır. Depo, `LICENSE` dosyasına göre **AGPL-3.0** ile lisanslıdır; bu, kendi sunucusunda barındırmayı veya değiştirmeyi düşünen herkes için önemlidir ve README’sinde hâlâ bu değişiklikten önceki LGPL yazmaktadır — bu nedenle README yerine lisans dosyasını okuyun. Kurumlar ayrıca, öğrenci çalışmalarını barındırılmış üçüncü taraf bir hizmet üzerinden yönlendirmeden önce kendi veri işleme koşullarını teyit etmelidir.
 
 ## Bağlı kavramlar
-[[teacher-ai-competency]], [[learning-design]], [[open-source]], [[intelligent-tutoring]], [[scaffolding]]
+
+[[teacher-ai-competency]], [[learning-design]], [[open-source]], [[intelligent-tutoring]], [[scaffolding]], [[ai-literacy]], [[edtech-platform]]
+

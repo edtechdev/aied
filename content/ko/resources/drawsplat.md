@@ -1,7 +1,7 @@
 ---
 title: "DrawSplat"
 created: "2026-09-20T13:49:11-04:00"
-updated: "2026-09-22T04:25:00-04:00"
+updated: "2026-10-24T08:38:48-04:00"
 type: resource
 summary: "작은 교수 도구들로 이루어진 무료 브라우저 플랫폼입니다: 화이트보드, 스프레드시트, 슬라이드, 문서, 목록, 개념도, 퀴즈, 차트, 이미지, 영상을 제공합니다."
 url: https://drawsplat.org/
@@ -19,7 +19,7 @@ audience: [instructors, learners]
 confidence: high
 connected_resources: [id-toolbox]
 translation_of: resources/drawsplat
-source_updated: "2026-09-22T04:25:00-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -51,4 +51,5 @@ ai_assist:
 
 ## 연결된 개념
 
-[[visualization]], [[multimodal]], [[formative-assessment]], [[project-based-learning]]
+[[visualization]], [[multimodal]], [[formative-assessment]], [[project-based-learning]], [[accessibility]], [[privacy]]
+

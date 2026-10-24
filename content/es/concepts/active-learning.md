@@ -111,7 +111,7 @@ El aprendizaje activo es una de las palancas más fuertes sobre las [[learning-g
 
 ## Artículos conectados
 
-- [[kestin-ai-tutoring-outperforms-active-learning-rct-2025]] — AI tutoring outperforms in-class active learning: an RCT introducing a novel research-based design in an authentic educational setting (Kestin et al. 2025)
+- [[kestin-ai-tutoring-outperforms-active-learning-rct-2025]] — La tutoría con IA supera al aprendizaje activo en clase: un ensayo aleatorizado que introduce un diseño novedoso basado en investigación en un contexto educativo auténtico (Kestin et al. 2025)
 - [[ai-pbl-computational-thinking-2026]]
 - [[beck-genai-literacy-economics-hands-on]] — Active-learning GenAI framework for economics (Beck & Brodersen 2025)
 - [[lak2026-hint-button-unproductive-use]]
@@ -122,8 +122,8 @@ El aprendizaje activo es una de las palancas más fuertes sobre las [[learning-g
 - [[curiobot-llm-tutoring-exploratory-learning]]
 - [[genai-assisted-problem-posing-physics-2026]]
 - [[ai-assisted-learning-modes-eeg]] — EEG study of AI interaction modes (interactive > auto)
-- [[supplynet-visual-exploratory-learning]] — SupplyNet: visual exploratory learning via multi-agent simulation
+- [[supplynet-visual-exploratory-learning]] — SupplyNet: aprendizaje exploratorio visual mediante simulación multiagente
 - [[knowloop-confusion-to-consolidation-2026]] — KnowLoop: staged conversational post-lecture review
-- [[academic-league-of-ai-2026]] — Academic League of AI: project-based active learning
-- [[mujib-ai-ibl-creative-math-2026]] — AI-supported IBL and creative mathematical performance
+- [[academic-league-of-ai-2026]] — Liga Académica de IA: aprendizaje activo basado en proyectos
+- [[mujib-ai-ibl-creative-math-2026]] — Aprendizaje basado en indagación con apoyo de IA y desempeño matemático creativo
 - [[tts-dialogue-lessons-learner-characteristics-2026]] — Learner characteristics × TTS dialogue-format interactions

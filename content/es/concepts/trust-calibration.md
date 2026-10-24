@@ -1,7 +1,7 @@
 ---
 title: Calibración de la confianza
 created: "2026-09-28T19:11:03-04:00"
-updated: "2026-10-22T07:34:12-04:00"
+updated: "2026-10-24T08:21:12-04:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading, human-ai-collaboration]
 pedagogy: [metacognition]
@@ -16,7 +16,7 @@ ai_assist:
     date: "2026-09-28"
     agent: hermes-agent
 translation_of: concepts/trust-calibration
-source_updated: "2026-10-19T09:40:00-04:00"
+source_updated: "2026-10-24T06:26:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 ---
 
@@ -60,6 +60,8 @@ La investigación sobre calibración suele tratar la confianza como un único ju
 Las percepciones sociales sobre el agente, y no su exactitud, construyeron la credibilidad de la retroalimentación para [[chatgpt-feedback-credibility-perceived-learning|Pérez-López et al. (2026)]]: la competencia percibida llegaba directamente a la credibilidad, mientras que la calidez percibida solo operaba a través de la empatía de tipo humano (SEM, 230 estudiantes).
 
 [[du-yuan-epistemic-dependence-2026|Du y Yuan (2026)]] separan la *confianza depositada productiva* de la *dependencia dañina* mediante seis criterios diagnósticos —contestabilidad, recuperabilidad, transferencia, trazabilidad, responsabilidad distribuida y pluralidad epistémica— y distinguen la asistencia instrumental (ayudar a producir una salida) de la asistencia que conlleva juicio (aportar los criterios con los que se juzga la salida), esta última donde la confianza depositada se vuelve educativamente consecuente.
+
+- **El estudiantado puede leer la falibilidad deliberada de un agente par como un fallo.** En el estudio de Copa, se dijo al estudiantado que el agente podía equivocarse y se le pidió evaluar sus sugerencias. Cuando una sugerencia degradó su modelo, varios concluyeron que el agente había dado información incorrecta y pasaron al ensayo y error en lugar de reexaminar el razonamiento. Un diseño que protege la agencia epistémica reteniendo las respuestas presupone, por tanto, una habilidad de calibración que el estudiantado de este estudio todavía no tenía, lo que es una restricción más fuerte para los diseños con agentes pares que para los agentes de tutoría ([[cohn-lc-rag-log-contextualized-retrieval-2025|Cohn et al., 2025]]).
 
 ### La calibración como problema de diseño
 

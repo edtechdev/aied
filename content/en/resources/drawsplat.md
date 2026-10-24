@@ -1,7 +1,7 @@
 ---
 title: "DrawSplat"
 created: "2026-09-20T13:49:11-04:00"
-updated: "2026-09-22T04:25:00-04:00"
+updated: "2026-10-24T08:37:08-04:00"
 type: resource
 summary: "A free browser platform of small teaching tools: whiteboard, spreadsheets, slides, documents, lists, concept maps, quizzes, charts, images and video."
 url: https://drawsplat.org/
@@ -37,4 +37,6 @@ Teachers and students who need a tool quickly and cannot wait for a district lic
 The product site names no individual author and routes requests to a project inbox; DrawSplat is built by Miguel Guhlin, whose site documents its launches. The code is free in the license sense, not only the price sense: the whiteboard is GNU AGPL-3.0-or-later and the SplatWorks apps are GPL-3.0-only, with no per-seat license on student devices. Tools that read your files run locally in the browser, while cloud save and any professional-learning request do send data, so check the storage inventory page before using it with student work.
 
 ## Connected Concepts
-[[visualization]], [[multimodal]], [[formative-assessment]], [[project-based-learning]]
+
+[[visualization]], [[multimodal]], [[formative-assessment]], [[project-based-learning]], [[accessibility]], [[privacy]]
+

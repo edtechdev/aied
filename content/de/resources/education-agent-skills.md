@@ -1,7 +1,7 @@
 ---
 title: "Education Agent Skills"
 created: "2026-09-23T21:05:00-04:00"
-updated: "2026-10-10T09:50:22-04:00"
+updated: "2026-10-24T08:38:48-04:00"
 type: resource
 summary: "Eine Bibliothek von 165 evidenzbasierten Agent Skills zu Pädagogik, Lernwissenschaft, Curriculum und Assessment, verpackt für Claude, Codex und Hermes."
 url: https://github.com/GarethManning/education-agent-skills
@@ -19,7 +19,7 @@ level: [k 12, higher ed]
 confidence: high
 connected_resources: [claw-ed]
 translation_of: resources/education-agent-skills
-source_updated: "2026-09-23T21:05:00-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -45,4 +45,5 @@ Die Bildungs-Skills, die Dokumentation und die Curriculum-Materialien stehen unt
 
 ## Verbundene Konzepte
 
-[[learning-design]], [[ai-literacy]], [[active-learning]], [[online-teaching-and-learning]], [[open-source]]
+[[learning-design]], [[ai-literacy]], [[active-learning]], [[online-teaching-and-learning]], [[open-source]], [[educational-development]]
+

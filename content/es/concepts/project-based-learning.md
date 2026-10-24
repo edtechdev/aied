@@ -82,7 +82,7 @@ El ABP se conecta con el [[active-learning|aprendizaje activo]], el [[experienti
 - [[chen-pbl-pjbl-genai-meta-analysis-2026]] — El aprendizaje basado en problemas y basado en proyectos como marcos prometedores para la educación apoyada por IA generativa: evidencia emergente de una revisión sistemática y un metaanálisis de tres niveles
 - [[pbl-structural-conditions-ai-2026]]
 - [[genai-counter-learner-groupthink-2025]]
-- [[bots-blocks-project-based-robotics-education-2026]] — Bots and Blocks
+- [[bots-blocks-project-based-robotics-education-2026]] — Bots y bloques
 - [[game-based-gamified-robotics-education-review-2026]] — Educación en robótica basada en juegos y gamificada
 - [[genai-literacy-training-teacher-education-dbr-2026]] — Formación en alfabetización en IA para el profesorado
 - [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly Studio

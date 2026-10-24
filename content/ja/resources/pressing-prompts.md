@@ -1,7 +1,7 @@
 ---
 title: "Pressing Prompts"
 created: "2026-10-10T21:52:22-04:00"
-updated: "2026-10-10T21:52:22-04:00"
+updated: "2026-10-24T08:38:48-04:00"
 type: resource
 summary: "AI について突きつけるべき重要な問いを扱う、高等教育向けの自由にアクセスできる活動と資料。3 つのテーマ別クラスターに整理されています。"
 url: https://pressingprompts.org/
@@ -19,7 +19,7 @@ audience: [instructors, librarians]
 confidence: high
 connected_resources: [pause-ai-use-self-examination]
 translation_of: resources/pressing-prompts
-source_updated: "2026-09-20T13:49:11-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -42,4 +42,6 @@ ai_assist:
 2024 年から 2025 年にかけて Duke University で AI Ethics Learning Toolkit として始まり、Center for Teaching and Learning と Duke Libraries の学部生、司書、教員、技術者によって共同設計され、フィードバックと再設計を経て Hannah Rozear、Remi Kalir、Aria Chernik によって再出発しました。
 
 ## 関連する概念
-[[critical-pedagogy]], [[inquiry-based-learning]], [[ai-literacy]], [[critical-thinking]], [[sustainability]], [[digital-divide]]
+
+[[critical-pedagogy]], [[inquiry-based-learning]], [[ai-literacy]], [[critical-thinking]], [[sustainability]], [[digital-divide]], [[higher-ed]]
+

@@ -1,7 +1,7 @@
 ---
 title: "Pressing Prompts"
 created: "2026-09-20T13:49:11-04:00"
-updated: "2026-09-20T13:49:11-04:00"
+updated: "2026-10-24T08:37:08-04:00"
 type: resource
 summary: "Openly accessible higher-education activities and resources for pressing critical questions about AI, organised into three thematic clusters."
 url: https://pressingprompts.org/
@@ -30,4 +30,6 @@ Each topic carries a framing question, conversation starters, structured activit
 It began at Duke University in 2024–2025 as the AI Ethics Learning Toolkit, co-designed by undergraduates, librarians, faculty and technologists across the Center for Teaching and Learning and Duke Libraries, and relaunched after feedback and redesign by Hannah Rozear, Remi Kalir and Aria Chernik.
 
 ## Connected Concepts
-[[critical-pedagogy]], [[inquiry-based-learning]], [[ai-literacy]], [[critical-thinking]], [[sustainability]], [[digital-divide]]
+
+[[critical-pedagogy]], [[inquiry-based-learning]], [[ai-literacy]], [[critical-thinking]], [[sustainability]], [[digital-divide]], [[higher-ed]]
+

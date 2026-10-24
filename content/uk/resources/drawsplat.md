@@ -19,7 +19,7 @@ confidence: high
 connected_resources: [id-toolbox]
 reviewed_by: [editor]
 translation_of: resources/drawsplat
-source_updated: "2026-09-22T04:25:00-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови."
 contributors: [editor]
 ai_assist:
@@ -50,4 +50,5 @@ ai_assist:
 
 ## Пов’язані поняття
 
-[[visualization]], [[multimodal]], [[formative-assessment]], [[project-based-learning]]
+[[visualization]], [[multimodal]], [[formative-assessment]], [[project-based-learning]], [[accessibility]], [[privacy]]
+

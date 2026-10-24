@@ -2,7 +2,7 @@
 connected_resources: [teacherserver]
 title: Educación especial
 created: "2026-09-28T19:11:16-04:00"
-updated: "2026-10-22T07:28:42-04:00"
+updated: "2026-10-24T08:21:18-04:00"
 type: concept
 foundations: [ai-education]
 ethics: [equity-in-ai-education, inclusive-learning, neurodiversity]
@@ -10,7 +10,7 @@ connected_faqs: [ai-disabled-neurodivergent-learners]
 level: [special education, k 12, higher ed]
 confidence: high
 translation_of: concepts/special-education
-source_updated: "2026-10-21T10:45:00-04:00"
+source_updated: "2026-10-23T09:20:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -51,6 +51,8 @@ La educación especial es un ámbito en el que la capacidad de personalización 
 
 [[vlm-task-planning-humanoid-robot-autism-education-2026|Kudláčková (2026)]] parte de los materiales y no de la conversación: un modelo de visión-lenguaje lee fotografías de Shoebox Tasks —diseñadas de modo que el objetivo sea visible en los propios objetos— y las convierte en un plan que un humanoide Nao ejecuta o demuestra, informando de la precisión del plan en seis tareas y sin datos de estudiantado.
 
+- **La conducta desafiante es donde se detienen los puntos de referencia de tutoría.** De 923 diálogos basados en casos extraídos de la literatura de educación especial y de psicología educativa, el mejor de 11 modelos satisfizo una intervención documentada en el 55,8% de los casos abiertos y en el 43,3% de los planes a largo plazo ([[tutor-case-bench-challenging-behaviors-2026|Park et al. (2026)]]).
+
 ## Implicaciones para el profesorado de educación especial
 
 - **Codiseñe la IA con el estudiantado destinatario y su comunidad.** [[llm-question-generation-deaf-hard-of-hearing-2026|La generación de preguntas para estudiantes sordos y con dificultades auditivas]] muestra el valor de refinar la IA iterativamente con la comunidad para salvar la brecha entre los prompts basados en texto y las lenguas de signos como primeras lenguas: implique al estudiantado y a sus comunidades en el diseño en lugar de dar por hecho que la IA les encaja.
@@ -77,6 +79,7 @@ La educación especial es un ámbito en el que la capacidad de personalización 
 - [[discipline-specific-aied]]
 
 ## Artículos conectados
+- [[tutor-case-bench-challenging-behaviors-2026]] — TutorCaseBench: evaluación de tutores LLM con estudiantado de conducta desafiante (Park et al. 2026)
 - [[seung-basham-cognitive-offloading-swld-2026]] — Delegación cognitiva de la IA generativa para estudiantes con dificultades de aprendizaje
 - [[special-r1-rl-special-education]]
 - [[dyslexlens-dyslexic-learners-ai]]

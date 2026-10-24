@@ -18,7 +18,7 @@ confidence: high
 connected_resources: [id-toolbox, liascript]
 reviewed_by: [editor]
 translation_of: "resources/lesson-md"
-source_updated: "2026-09-20T13:49:11-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -38,4 +38,6 @@ Scrivere una lezione in qualsiasi editor di testo e importarla in qualsiasi stru
 Progettisti didattici e creatori di corsi che vogliono che i propri contenuti sopravvivano a un cambio di strumento, fornitori di eLearning che desiderano un formato di importazione ed esportazione che i loro utenti già comprendono, e chiunque costruisca authoring assistito dall'IA sopra un formato leggibile. Tra i contributori c'è Dan Bashaw di LXD Integral, e il formato ha un changelog pubblico fino alla v1.8.
 
 ## Concetti collegati
-[[learning-design]], [[open-source]], [[online-teaching-and-learning]], [[multimodal]], [[educational-technology-developers]]
+
+[[learning-design]], [[open-source]], [[online-teaching-and-learning]], [[multimodal]], [[educational-technology-developers]], [[assessment]], [[edtech-platform]]
+

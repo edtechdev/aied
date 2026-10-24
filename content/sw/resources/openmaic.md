@@ -19,7 +19,7 @@ confidence: high
 connected_resources: [deeptutor, lesson-md]
 reviewed_by: [editor]
 translation_of: resources/openmaic
-source_updated: "2026-09-20T17:30:00-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -46,4 +46,6 @@ Waalimu na timu za kozi wanaotaka nyenzo zilizozalishwa ambao bado wanaweza kuzi
 Imepewa leseni ya MIT, ikiwa na mwongozo wa mtumiaji wa Kiingereza na Kichina na jamii inayofanya kazi kwenye Discord na Feishu. Ni ya kujitegemea kwa mifano: unatoa angalau funguo moja ya mtoa huduma wa LLM, na sehemu za hiari za ndani (Lemonade kwa mifano ya ndani, FunASR kwa utambuzi wa usemi) hukuruhusu kuendesha sehemu kubwa ya mfumo bila mtandao — hivyo "free" inaelezea programu, si bili ya inference. Karatasi iliyoihitimisha ilitangazwa katika *Journal of Computer Science and Technology* (2026, DOI 10.1007/s11390-025-6000-0), na hifadhi ya kanzi ilikuwa na nyota zaidi ya 38,000 ifikapo Septemba 2026.
 
 ## Dhana Zilizounganishwa
-[[agentic-ai]], [[generative-ai]], [[llm]], [[open-source]], [[project-based-learning]], [[online-teaching-and-learning]], [[personalized-learning]], [[teacher-role]]
+
+[[agentic-ai]], [[generative-ai]], [[llm]], [[open-source]], [[project-based-learning]], [[online-teaching-and-learning]], [[personalized-learning]], [[teacher-role]], [[intelligent-tutoring]], [[simulation]]
+

@@ -1,14 +1,14 @@
 ---
 title: Colaboración humano-IA
 created: "2026-09-28T18:15:22-04:00"
-updated: "2026-10-22T09:13:53-04:00"
+updated: "2026-10-24T08:21:10-04:00"
 type: concept
 confidence: medium
 foundations: [human-ai-collaboration, ai-literacy]
 technology: [generative-ai, llm]
 pedagogy: [student-ai-interaction]
 translation_of: concepts/human-ai-collaboration
-source_updated: "2026-10-16T08:47:09-04:00"
+source_updated: "2026-10-23T22:48:50-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -85,6 +85,8 @@ Esto convierte la colaboración humano-IA en un constructo *pedagógico* tanto c
 
 - **Los tipos de entrelazamiento difieren en lo que exigen del estudiante, y por eso algunos siguen siendo raros.** [[sun-student-genai-entanglement-literacy-demands-2026|Sun, Dohn y Rehm (2026)]] clasifican 102 estudios de educación superior según cómo se reparte el trabajo epistémico entre el estudiante y el sistema (Asistente, Facilitador, Sintetizador, Generador, Reimaginador) y encuentran que las dos formas que mantienen la competencia atribuible a cada estudiante representan el 42,16% del corpus cada una, mientras que las formas que distribuyen la autoría siguen siendo marginales. Su explicación es institucional más que técnica: los tipos raros piden al estudiantado asumir responsabilidad epistémica por resultados que no produjo mientras se le sigue evaluando como autor individual, y es esa contradicción —y no la división del trabajo en sí— la que los mantiene fuera de la práctica. La respuesta de diseño es hacer explícita la distribución del trabajo epistémico, secuenciar actividades a lo largo del espectro y construir reflexión sobre cómo se compartió la responsabilidad.
 
+- **Guiar en lugar de decir exige su propio criterio para juzgar a un agente.** Un caso de diseño que se proponía replicar la facilitación docente encontró que un agente de conocimiento acotado a una base curada podía juzgarse por su exactitud, mientras que un agente pensado para llevar al estudiantado hacia sus propias respuestas no ([[humburg-scistory-ai-supported-inquiry-science-learning-games-2025|Humburg et al., 2025]]).
+
 - **La complementariedad es condicional, no una propiedad por defecto de los equipos.** [[tuo-armada-multi-agent-debate-overreliance-2026|Tuo et al. (2026)]] encontraron que los equipos humano-IA superaron tanto a las personas como a la IA por separado en solo una de seis condiciones —los casos difíciles en los que la IA era *menos* precisa que las personas— y no informaron de ninguna ventaja consistente del equipo en el resto, así que añadir un socio de IA no es por sí mismo una vía hacia el rendimiento complementario.
 - **Los programas profesionales reorientan la formación desde la producción rutinaria hacia las competencias de colaboración (un protocolo de diseño):** [[wang-agentic-translation-education-2026|Wang (2026)]] propone un marco basado en el diseño para la formación de traductores, construido en torno a un inventario de desplazamiento de tareas (18 subtareas valoradas por su probabilidad de desplazamiento por IA, con etiquetas de procedencia [E]/[P]) y cuatro competencias reorientadas: conocimiento interdisciplinar, orquestación de la IA, juicio estratégico y evaluación crítica de la IA. El marco es un protocolo preregistrado sin datos empíricos aún; su contribución es el método —un análisis de desplazamiento auditable más una vía de codiseño para la reforma curricular—, que se traslada a cualquier programa profesional cuyas tareas rutinarias los sistemas agénticos realizan cada vez más.
 
@@ -115,6 +117,7 @@ La colaboración humano-IA conecta con [[human-in-the-loop-ai]] (supervisión), 
 - [[agentic-ai]] — autonomía
 - [[productive-failure]]
 ## Artículos conectados
+- [[humburg-scistory-ai-supported-inquiry-science-learning-games-2025]] — Tres roles de agente en un juego narrativo de ciencias, y qué criterio de evaluación necesita cada uno (Humburg et al. 2025)
 - [[bjet-many-hands-make-light-work-2026]] — El trabajo en parejas con un sistema multiagente de IA generativa ganó el proyecto de diseño mientras la conciencia de pensamiento crítico solo aumentó en quienes trabajaron solos (Chu et al. 2026)
 - [[tuo-armada-multi-agent-debate-overreliance-2026]] — El debate multiagente con la respuesta preferida oculta redujo la deferencia hacia consejos incorrectos de la IA, pero no de forma correctiva
 - [[dang-human-ai-collaboration-competency-2026]] — HACC: la competencia de colaboración como configuración dinámica de dominio, IA y competencia metacognitiva, con la agencia de quien aprende como cualidad emergente (Dang et al. 2026)

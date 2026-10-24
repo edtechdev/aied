@@ -29,7 +29,7 @@ ai_assist:
     agent: hermes-agent
 reviewed_by: [editor]
 translation_of: resources/onmicro-ai
-source_updated: "2026-09-23T17:45:00-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 ---
 
@@ -50,4 +50,4 @@ translation_note: "ترجمة آلية للصفحة الإنجليزية، لم 
 المستوى المجاني محدود بـ10,000 رصيد ذكاء اصطناعي وثلاثة تطبيقات؛ والتطبيقات غير المحدودة والنماذج المتقدمة تبدأ من مستوى Pro، وتُدرج تكامل LTI وتسجيل الدخول الموحد والتحليلات المتقدمة في مستوى Enterprise، فالميزات التي تحتاجها المؤسسة أكثر هي التي تحمل ثمنًا. والمستودع مرخّص بـ**AGPL-3.0** وفق ملف `LICENSE` لديه، وهو ما يهم كل من ينوي استضافته ذاتيًا أو تعديله، ويقول ملف README لديه حتى الآن LGPL من قبل ذلك التغيير، فاقرأ ملف الترخيص لا ملف README. وينبغي أن تؤكد المؤسسات أيضًا شروط معالجة بياناتها الخاصة قبل تمرير عمل الطلاب عبر خدمة طرف ثالث مستضافة.
 
 ## المفاهيم المرتبطة
-[[teacher-ai-competency]]، [[learning-design]]، [[open-source]]، [[intelligent-tutoring]]، [[scaffolding]]
+[[teacher-ai-competency]]، [[learning-design]]، [[open-source]]، [[intelligent-tutoring]]، [[scaffolding]]، [[ai-literacy]]، [[edtech-platform]]

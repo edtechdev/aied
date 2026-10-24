@@ -1,7 +1,7 @@
 ---
 title: Búsqueda de ayuda
 created: "2026-09-28T20:10:39-04:00"
-updated: "2026-10-03T02:57:43-04:00"
+updated: "2026-10-24T08:28:15-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [help-seeking, metacognition, scaffolding, self-regulated-learning]
@@ -11,7 +11,7 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/help-seeking
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-24T08:52:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -86,10 +86,14 @@ Más que eliminar la ayuda, la investigación recomienda rediseñar cómo se ofr
 
 - **Disponibilidad retrasada de las pistas** — exigir un tiempo mínimo de implicación o intentos de solución antes de que las pistas (especialmente las finales) sean accesibles.([[lak2026-hint-button-unproductive-use]])
 - **Pasar de *si* a *cómo*** — la pregunta clave de diseño es cómo estructurar la entrega de pistas conforme a los principios del esfuerzo productivo, y no si se deben ofrecer pistas.([[lak2026-hint-button-unproductive-use]])
+- **La longitud del mensaje es la palanca que la investigación sobre la entrega de ayuda ha medido de verdad.** En un curso de programación en vivo, las pistas de LLM más largas predijeron una peor corrección en el siguiente envío, más intentos restantes y un reenvío más lento, por cada desviación estándar de 204,9 caracteres en 14.809 pares estudiante-ejercicio ([[mihaylova-llm-feedback-live-programming-course-2026|Mihaylova et al., 2026]]). La legibilidad apenas movió ningún resultado, así que pesó más el volumen que la dificultad.
+- **Las pistas previas sobre la misma parte del curso se asociaron con menos éxito en el paso integrador.** El estudiantado que recibió retroalimentación en pasos anteriores de un proyecto resolvió su paso final el 95,6% de las veces frente al 98,1% de quienes no la recibieron, un coeficiente de log-odds de −1,096 ([[mihaylova-llm-feedback-live-programming-course-2026|Mihaylova et al., 2026]]). Los autores no lo leen como un daño, porque quien busca pistas es verosímilmente quien tendría dificultades allí de todos modos, que es la pregunta sobre [[self-regulated-learning|monitorización]] que plantea esta página.
 
 ### El problema de la adopción en los tutores basados en LLM
 
 En contextos reales, el estudiantado con frecuencia **se salta el [[scaffolding|andamiaje]] de un [[conversational-ai|chatbot]]**, no necesariamente de forma perjudicial, sino a menudo porque hay un desajuste entre el encuadre pedagógico del chatbot y los propios objetivos de aprendizaje del estudiante. Por eso las canalizaciones de evaluación deben medir no solo si un tutor ofrece andamiaje, sino si el estudiantado *adopta* ese andamiaje, en lugar de dar por supuesto que lo hará.([[rethinking-scaffolding-llm-tutors]])
+
+- **Un botón de ayuda opcional no se pulsa.** En tres aulas de quinto curso, el estudiantado rara vez invocaba a un agente de ayuda que el diseño había dejado deliberadamente opcional para proteger la agencia, y llamaba a una persona docente mientras la confusión para la que se había construido persistía ([[humburg-scistory-ai-supported-inquiry-science-learning-games-2025|Humburg et al., 2025]]).
 
 ## Búsqueda de ayuda y aprendizaje autorregulado
 
@@ -136,6 +140,8 @@ En la [[english-education|composición]] totalmente en línea, la disponibilidad
 - [[student-support-and-success]] — Divulgación y asignación de apoyos institucionales, más allá de la búsqueda de ayuda dentro del curso
 
 ## Artículos conectados
+- [[mihaylova-llm-feedback-live-programming-course-2026]] — La longitud de las pistas medida frente a la corrección del siguiente envío, los intentos y el tiempo, en un curso de programación en vivo
+- [[humburg-scistory-ai-supported-inquiry-science-learning-games-2025]] — Un agente de ayuda que nadie pidió (Humburg et al. 2025)
 
 - [[penquiry-pen-based-llm-qa-2026]] — Penquiry: un sistema interactivo de preguntas y respuestas in situ con lápiz óptico que aprovecha los LLM
 - [[tutortrace-learner-behavioral-states-2026]]

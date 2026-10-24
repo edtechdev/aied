@@ -18,7 +18,7 @@ confidence: high
 connected_resources: [id-toolbox, liascript]
 reviewed_by: [editor]
 translation_of: resources/lesson-md
-source_updated: "2026-09-20T13:49:11-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -41,4 +41,6 @@ Andika somo katika kihariri chochote cha maandishi na kuingiza katika zana yoyot
 Wabuni wa mafunzo na waundaji wa kozi wanaotaka maudhui yao yadumu mabadiliko ya zana, wauzaji wa eLearning wanaotaka muundo wa kuingiza na kutoa ambao watumiaji wao tayari wanauelewa, na mtu yeyote anayejenga uandishi unaosaidiwa na AI juu ya muundo unaosomeka. Wachangiaji ni pamoja na Dan Bashaw wa LXD Integral, na muundo una dira ya umma hadi v1.8.
 
 ## Dhana Zilizounganishwa
-[[learning-design]], [[open-source]], [[online-teaching-and-learning]], [[multimodal]], [[educational-technology-developers]]
+
+[[learning-design]], [[open-source]], [[online-teaching-and-learning]], [[multimodal]], [[educational-technology-developers]], [[assessment]], [[edtech-platform]]
+

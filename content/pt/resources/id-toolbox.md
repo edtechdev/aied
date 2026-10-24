@@ -1,7 +1,7 @@
 ---
 title: "A Caixa de Ferramentas de ID"
 created: "2026-09-20T13:49:11-04:00"
-updated: "2026-09-20T13:49:11-04:00"
+updated: "2026-10-24T08:38:48-04:00"
 type: resource
 summary: "Mais de cinquenta utilitários gratuitos de propósito único para navegador, feitos para designers instrucionais: escopo, estimativa, ferramentas de legenda e tradução, verificações de legibilidade e consistência."
 url: https://nextgenailearning.com/
@@ -18,7 +18,7 @@ audience: [instructional designers, faculty developers, educational technology d
 confidence: high
 connected_resources: [drawsplat, lesson-md, edugems]
 translation_of: resources/id-toolbox
-source_updated: "2026-09-20T13:49:11-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -39,4 +39,6 @@ Antes de construir: escolher entre ferramentas de autoria segundo critérios pon
 Curt Zilbersher, que projeta treinamento corporativo há vinte e oito anos, descreve os mesmos pequenos problemas não resolvidos se repetindo ao longo de sua carreira — contar palavras da narração, encontrar o recurso que fez um curso estourar um limite de [[edtech-platform|LMS]], auditar a cobertura de legendas à mão — e está construindo as soluções e distribuindo de graça. O site também realiza uma pesquisa anual gratuita sobre como os designers instrucionais realmente passam sua semana.
 
 ## Conceitos conectados
-[[learning-design]], [[online-teaching-and-learning]], [[formative-assessment]], [[educational-technology-developers]]
+
+[[learning-design]], [[online-teaching-and-learning]], [[formative-assessment]], [[educational-technology-developers]], [[accessibility]]
+

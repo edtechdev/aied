@@ -18,7 +18,7 @@ level: [higher ed, k 12]
 confidence: high
 connected_resources: [onmicro-ai]
 translation_of: resources/vibes-diy
-source_updated: "2026-09-23T17:45:00-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
@@ -51,4 +51,4 @@ reviewed_by: [editor]
 
 ## مفاهيم مترابطة
 
-[[ai-literacy|ثقافة الذكاء الاصطناعي]]، [[open-source|المفتوح المصدر]]، [[design-thinking|التفكير التصميمي]]، [[constructivist|البنائية]]، [[learning-design|تصميم التعلّم]]
+[[ai-literacy|ثقافة الذكاء الاصطناعي]]، [[open-source|المفتوح المصدر]]، [[design-thinking|التفكير التصميمي]]، [[constructivist|البنائية]]، [[learning-design|تصميم التعلّم]]، [[vibe-coding]]

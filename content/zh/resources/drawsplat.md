@@ -1,7 +1,7 @@
 ---
 title: "DrawSplat"
 created: "2026-09-20T13:49:11-04:00"
-updated: "2026-10-09T19:11:13-04:00"
+updated: "2026-10-24T08:38:48-04:00"
 type: resource
 summary: "一个免费浏览器端的小型教学工具平台：白板、电子表格、幻灯片、文档、清单、概念图、测验、图表、图片与视频。"
 url: https://drawsplat.org/
@@ -19,7 +19,7 @@ audience: [instructors, learners]
 confidence: high
 connected_resources: [id-toolbox]
 translation_of: resources/drawsplat
-source_updated: "2026-09-22T04:25:00-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -51,4 +51,5 @@ ai_assist:
 
 ## 关联概念
 
-[[visualization]], [[multimodal]], [[formative-assessment]], [[project-based-learning]]
+[[visualization]], [[multimodal]], [[formative-assessment]], [[project-based-learning]], [[accessibility]], [[privacy]]
+

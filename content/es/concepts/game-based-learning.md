@@ -70,8 +70,8 @@ El GBL y la gamificación se conectan en conjunto con la [[educational-robotics]
 - [[game-based-gamified-robotics-education-review-2026]] — Educación en robótica basada en juegos y gamificada
 - [[remind-robot-mediated-roleplay-antibullying-2026]] — REMind
 - [[motibo-digital-storytelling-robots-motivation-2026]] — MotiBo
-- [[bots-blocks-project-based-robotics-education-2026]] — Bots and Blocks
-- [[white-wu-robotics-ai-education-2026]] — Robotics and AI in Education
+- [[bots-blocks-project-based-robotics-education-2026]] — Bots y bloques
+- [[white-wu-robotics-ai-education-2026]] — Robótica e IA en la educación
 - [[genai-motivation-engagement-2026]] — IA generativa, motivación e implicación
 - [[nasa-tlx-workload-gamified-ai-2026]] — Carga de trabajo NASA-TLX en condiciones gamificadas y con IA
 - [[arcs-motivational-ergonomics-gamified-ai-2026]] — Motivación ARCS y gamificación apoyada por IA

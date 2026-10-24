@@ -29,7 +29,7 @@ ai_assist:
     agent: hermes-agent
 reviewed_by: [editor]
 translation_of: resources/liascript
-source_updated: "2026-09-24T04:57:47-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 
 ---
@@ -51,4 +51,6 @@ translation_note: "תרגום אוטומטי של העמוד באנגלית, ש�
 LiaScript הוא חופשי, בלי רמה בתשלום ובלי דרישת חשבון, ומפותח בגלוי תחת BSD-3-Clause, ולכן מוסדות יכולים לארח אותו בעצמם ולשנות אותו. תכונת Live Classroom ראויה למבט לפני שסומכים עליה בקנה מידה, מכיוון שסנכרון בזמן-אמת משתמש בשירות משותף ולא בעיבוד מקומי בלבד. סוכן ההוראה הוא צעיר ובאימוץ קל, ולכן יש להתייחס אליו כפרוטוטיפ עובד ולא כמוצר נתמך.
 
 ## מושגים מחוברים
-[[learning-design]], [[open-source]], [[online-teaching-and-learning]], [[active-learning]]
+
+[[learning-design]], [[open-source]], [[online-teaching-and-learning]], [[active-learning]], [[cs-education]], [[edtech-platform]]
+

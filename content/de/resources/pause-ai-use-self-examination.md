@@ -1,7 +1,7 @@
 ---
 title: "PAUSE: Patterns of AI Use Self-Examination"
 created: "2026-09-20T13:49:11-04:00"
-updated: "2026-10-10T09:50:22-04:00"
+updated: "2026-10-24T08:38:48-04:00"
 type: resource
 summary: "Ein zehnminütiger, rein browserbasierter Selbstcheck dazu, was Sie an KI auslagern, wobei jeder Punkt auf die Forschungsarbeit dahinter zurückgeführt ist."
 url: https://anondo1969.github.io/pause/
@@ -19,7 +19,7 @@ audience: [learners, instructors, researchers]
 confidence: high
 connected_resources: [pressing-prompts]
 translation_of: resources/pause-ai-use-self-examination
-source_updated: "2026-09-20T13:49:11-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -47,4 +47,5 @@ Geschrieben von Mahbub Ul Alam (SciLifeLab Data Centre, Uppsala University); die
 
 ## Verbundene Konzepte
 
-[[cognitive-offloading]], [[critical-thinking]], [[ai-literacy]], [[self-regulated-learning]], [[metacognition]], [[privacy]]
+[[cognitive-offloading]], [[critical-thinking]], [[ai-literacy]], [[self-regulated-learning]], [[metacognition]], [[privacy]], [[cognitive-surrender]]
+

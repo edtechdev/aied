@@ -19,7 +19,7 @@ confidence: high
 connected_resources: [deeptutor, lesson-md]
 reviewed_by: [editor]
 translation_of: resources/openmaic
-source_updated: "2026-09-20T17:30:00-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
@@ -46,4 +46,6 @@ ai_assist:
 مرخّص بـMIT، مع دليل استخدام بالإنجليزية والصينية ومجتمع نشط على Discord وFeishu. وهو محايد تجاه النماذج: أنت تزوّد مفتاح مزوّد LLM واحدًا على الأقل، والمكوّنات المحلية الاختيارية (Lemonade للنماذج المحلية، وFunASR للتعرف على الكلام) تتيح لك تشغيل المزيد من حزمة التقنيات دون اتصال — لذا فإن "مجاني" يصف البرنامج لا فاتورة الاستدلال. وظهرت الورقة التي تقوم عليها في *Journal of Computer Science and Technology* (2026, DOI 10.1007/s11390-025-6000-0)، وكان المستودع قد تجاوز 38,000 نجمة بحلول سبتمبر 2026.
 
 ## Connected Concepts
-[[agentic-ai]], [[generative-ai]], [[llm]], [[open-source]], [[project-based-learning]], [[online-teaching-and-learning]], [[personalized-learning]], [[teacher-role]]
+
+[[agentic-ai]], [[generative-ai]], [[llm]], [[open-source]], [[project-based-learning]], [[online-teaching-and-learning]], [[personalized-learning]], [[teacher-role]], [[intelligent-tutoring]], [[simulation]]
+

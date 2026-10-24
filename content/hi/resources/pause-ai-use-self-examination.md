@@ -1,7 +1,7 @@
 ---
 title: "पॉज़: एआई उपयोग के पैटर्नों की आत्म-जाँच"
 created: "2026-09-20T13:49:11-04:00"
-updated: "2026-10-16T09:00:00-04:00"
+updated: "2026-10-24T08:38:48-04:00"
 type: resource
 summary: "एआई पर आप क्या ऑफ़लोड करते हैं, इस पर दस मिनट की केवल-ब्राउज़र आत्म-जाँच, जिसमें हर मद्द को उसके पीछे के शोध-पत्र से जोड़ा गया है।"
 url: https://anondo1969.github.io/pause/
@@ -19,7 +19,7 @@ audience: [learners, instructors, researchers]
 confidence: high
 connected_resources: [pressing-prompts]
 translation_of: resources/pause-ai-use-self-examination
-source_updated: "2026-09-20T13:49:11-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 contributors: [editor]
 ai_assist:
@@ -47,4 +47,5 @@ ai_assist:
 
 ## संबद्ध अवधारणाएँ
 
-[[cognitive-offloading]], [[critical-thinking]], [[ai-literacy]], [[self-regulated-learning]], [[metacognition]], [[privacy]]
+[[cognitive-offloading]], [[critical-thinking]], [[ai-literacy]], [[self-regulated-learning]], [[metacognition]], [[privacy]], [[cognitive-surrender]]
+

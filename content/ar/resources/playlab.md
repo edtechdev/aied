@@ -17,7 +17,7 @@ audience: [instructors, instructional designers, educational technology develope
 confidence: high
 connected_resources: [teacherserver, edugems]
 reviewed_by: [editor]
-source_updated: "2026-09-20T16:45:00-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_of: resources/playlab
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
@@ -45,4 +45,6 @@ ai_assist:
 النفاذ إلى الباني مقيَّد: تطلب صفحة البدء عنوان بريد إلكتروني ومقعدًا في ورشة إعداد، أو رمز دعوة. ودعاوى الامتثال لديها (FERPA وCOPPA وGDPR وCCPA وSOC 2 Type II)، والوعد بأن عملك لا يُدرّب نماذج خارجية أبدًا، وإسناد حقوق المخرجات إلى المنشئ، تنتمي كلها إلى اتفاقية معالجة البيانات لا إلى صفحة التسويق وحدها؛ ومقارنتها للقدرات مع MagicSchool وروبوتات الدردشة الكبرى من Playlab نفسها، ومؤرَّخة بمنتصف 2026. ونشأت من أعمال البرمجة للمستخدم النهائي المرتبطة بـ Scratch ومختبر MIT Media Lab.
 
 ## المفاهيم المرتبطة
-[[ai-literacy]], [[learning-design]], [[generative-ai]], [[rag]], [[human-in-the-loop-ai]], [[privacy]], [[guardrails]]
+
+[[ai-literacy]], [[learning-design]], [[generative-ai]], [[rag]], [[human-in-the-loop-ai]], [[privacy]], [[guardrails]], [[educational-technology-developers]], [[teacher-ai-competency]]
+

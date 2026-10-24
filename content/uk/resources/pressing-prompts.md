@@ -19,7 +19,7 @@ confidence: high
 connected_resources: [pause-ai-use-self-examination]
 reviewed_by: [editor]
 translation_of: resources/pressing-prompts
-source_updated: "2026-09-20T13:49:11-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови."
 contributors: [editor]
 ai_assist:
@@ -42,4 +42,6 @@ ai_assist:
 Проєкт розпочався в Університеті Дьюка в 2024–2025 роках як AI Ethics Learning Toolkit, спроєктований спільно студентами бакалаврату, бібліотекарями, факультетом і технологами з Center for Teaching and Learning та Duke Libraries, і перезапущений після відгуків і редизайну Ханною Роузір, Ремі Каліром і Арією Чернік.
 
 ## Пов’язані поняття
-[[critical-pedagogy]], [[inquiry-based-learning]], [[ai-literacy]], [[critical-thinking]], [[sustainability]], [[digital-divide]]
+
+[[critical-pedagogy]], [[inquiry-based-learning]], [[ai-literacy]], [[critical-thinking]], [[sustainability]], [[digital-divide]], [[higher-ed]]
+

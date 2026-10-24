@@ -1,7 +1,7 @@
 ---
 title: "DrawSplat"
 created: "2026-09-20T13:49:11-04:00"
-updated: "2026-09-22T04:25:00-04:00"
+updated: "2026-10-24T08:38:48-04:00"
 type: resource
 summary: "Uma plataforma gratuita no navegador com pequenas ferramentas de ensino: quadro branco, planilhas, slides, documentos, listas, mapas conceituais, questionários, gráficos, imagens e vídeo."
 url: https://drawsplat.org/
@@ -19,7 +19,7 @@ audience: [instructors, learners]
 confidence: high
 connected_resources: [id-toolbox]
 translation_of: resources/drawsplat
-source_updated: "2026-09-22T04:25:00-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -50,4 +50,6 @@ Professores e estudantes que precisam de uma ferramenta rapidamente e não podem
 O site do produto não nomeia nenhum autor individual e encaminha solicitações para uma caixa de entrada do projeto; o DrawSplat é construído por Miguel Guhlin, cujo site documenta seus lançamentos. O código é livre no sentido da licença, e não apenas no sentido do preço: o quadro branco é GNU AGPL-3.0-or-later e os aplicativos SplatWorks são GPL-3.0-only, sem licença por assento nos dispositivos dos estudantes. As ferramentas que leem seus arquivos rodam localmente no navegador, enquanto o salvamento em nuvem e qualquer solicitação de formação profissional enviam dados, então consulte a página de inventário de armazenamento antes de usá-lo com trabalho de estudantes.
 
 ## Recursos conectados
-[[visualization]], [[multimodal]], [[formative-assessment]], [[project-based-learning]]
+
+[[visualization]], [[multimodal]], [[formative-assessment]], [[project-based-learning]], [[accessibility]], [[privacy]]
+

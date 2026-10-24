@@ -1,7 +1,7 @@
 ---
 title: "Playlab"
 created: "2026-10-10T21:52:22-04:00"
-updated: "2026-10-10T21:52:22-04:00"
+updated: "2026-10-24T08:38:48-04:00"
 type: resource
 summary: "教育者が自分の AI アプリを構築・共有・評価できる非営利の創作プラットフォーム。カリキュラムに根ざし、好みのモデルで動作し、教師の可視性が組み込まれています。"
 url: https://www.playlab.ai/
@@ -18,7 +18,7 @@ audience: [instructors, instructional designers, educational technology develope
 confidence: high
 connected_resources: [teacherserver, edugems]
 translation_of: resources/playlab
-source_updated: "2026-09-20T16:45:00-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -45,4 +45,6 @@ ai_assist:
 ビルダーへのアクセスは制限されています。get-started ページではメールアドレスとオンボーディングワークショップの席、または招待コードが求められます。コンプライアンスの主張（FERPA、COPPA、GDPR、CCPA、SOC 2 Type II）、成果物が外部モデルの訓練に使われないという約束、出力の権利が作成者に帰属するという点は、マーケティングページだけでなくデータ処理契約に属するものです。MagicSchool や主要なチャットボットとの機能比較は Playlab 自身によるもので、2026 年半ばのものです。Scratch や MIT Media Lab に関連するエンドユーザープログラミングの研究から生まれました。
 
 ## 関連する概念
-[[ai-literacy]], [[learning-design]], [[generative-ai]], [[rag]], [[human-in-the-loop-ai]], [[privacy]], [[guardrails]]
+
+[[ai-literacy]], [[learning-design]], [[generative-ai]], [[rag]], [[human-in-the-loop-ai]], [[privacy]], [[guardrails]], [[educational-technology-developers]], [[teacher-ai-competency]]
+

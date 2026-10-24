@@ -75,4 +75,4 @@ La calificación basada en estándares es la contraparte evaluativa del aprendiz
 - [[neural-symbolic-knowledge-tracing]] — Inyectar reglas de dominio y no dominio en el aprendizaje profundo para un modelado responsable e interpretable de quien aprende
 - [[mesny-innovative-assessment-grading-management-2026]]
 - [[crediting-assisted-work-inflates-mastery-2026]] — Acreditar el trabajo asistido infla el dominio: qué regla de evidencia decide quién es declarado con dominio (Srivastava 2026)
-- [[noh-simulating-task-selection-2026]] — Simulating learners' task-selection strategies and system constraints in mastery learning (Noh et al. 2026)
+- [[noh-simulating-task-selection-2026]] — Simulación de las estrategias de selección de tareas del estudiantado y las restricciones del sistema en el aprendizaje por dominio (Noh et al. 2026)

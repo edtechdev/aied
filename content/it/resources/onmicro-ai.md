@@ -29,7 +29,7 @@ ai_assist:
     agent: hermes-agent
 reviewed_by: [editor]
 translation_of: "resources/onmicro-ai"
-source_updated: "2026-09-23T17:45:00-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 ---
 
@@ -50,4 +50,6 @@ Si adatta a docenti e progettisti dell'apprendimento che desiderano interazioni 
 Il piano gratuito è limitato a 10.000 crediti AI e a tre app; app illimitate e modelli avanzati partono dal piano Pro, mentre integrazione LTI, single sign-on e analisi avanzate sono elencate nel piano Enterprise, quindi le funzionalità di cui un'istituzione ha più bisogno sono quelle a pagamento. Il repository è sotto licenza **AGPL-3.0** secondo il suo file `LICENSE`, il che conta per chi intenda ospitarlo o modificarlo in autonomia, e il suo README riporta ancora la licenza LGPL precedente a quel cambio: leggete il file di licenza anziché il README. Le istituzioni dovrebbero inoltre verificare i propri termini di trattamento dei dati prima di far transitare il lavoro degli studenti attraverso un servizio terzo ospitato.
 
 ## Concetti collegati
-[[teacher-ai-competency]], [[learning-design]], [[open-source]], [[intelligent-tutoring]], [[scaffolding]]
+
+[[teacher-ai-competency]], [[learning-design]], [[open-source]], [[intelligent-tutoring]], [[scaffolding]], [[ai-literacy]], [[edtech-platform]]
+

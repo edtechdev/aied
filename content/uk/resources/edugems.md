@@ -24,7 +24,7 @@ ai_assist:
     agent: hermes-agent
 reviewed_by: [editor]
 translation_of: resources/edugems
-source_updated: "2026-09-20T13:49:11-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови."
 ---
 
@@ -41,4 +41,6 @@ translation_note: "Автоматичний переклад цієї англі
 Куратор — Ерік Куртс, який публікує супутнє навчальне відео, розсилку та ширші edtech-ресурси на Control Alt Achieve. Щоб зробити копію Gems, потрібен обліковий запис Google, і разом із ним постачаються умови Gemini, тому це бібліотека, яку варто оцінити, перш ніж спрямовувати на неї студентів, а не інструмент, яким можна користуватися анонімно.
 
 ## Connected Concepts
-[[prompt-engineering]], [[generative-ai]], [[ai-literacy]], [[learning-design]], [[online-teaching-and-learning]]
+
+[[prompt-engineering]], [[generative-ai]], [[ai-literacy]], [[learning-design]], [[online-teaching-and-learning]], [[teacher-ai-competency]]
+

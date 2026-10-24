@@ -189,8 +189,8 @@ La IA en la educación se conecta con todos los conceptos de la base de conocimi
 
 Revisiones sobre la IA en la educación a escala de todo el campo, es decir, los estudios que examinan todo el campo o todo un nivel educativo en lugar de un solo tema:
 
-- [[rismanchian-ai-education-four-decades-aixed-2026]] — The evolution of AI-and-education research across four decades (AIxEd framework)
-- [[mishra-control-vs-agency-history-2025]] — Control vs. agency: a history of AI in education
-- [[genai-higher-education-systematic-review-2026]] — Generative AI in higher education: systematic review of 125 studies
-- [[stanford-evidence-base-ai-k12-2026]] — The evidence base on AI in K-12: a review of 818 papers
-- [[genai-educational-outcomes-meta-analysis]] — Generative AI and educational outcomes: comprehensive meta-analysis
+- [[rismanchian-ai-education-four-decades-aixed-2026]] — La evolución de la investigación en IA y educación a lo largo de cuatro décadas (marco AIxEd)
+- [[mishra-control-vs-agency-history-2025]] — Control frente a agencia: una historia de la IA en la educación
+- [[genai-higher-education-systematic-review-2026]] — IA generativa en educación superior: revisión sistemática de 125 estudios
+- [[stanford-evidence-base-ai-k12-2026]] — La base de evidencia sobre IA en infantil, primaria y secundaria: una revisión de 818 trabajos
+- [[genai-educational-outcomes-meta-analysis]] — IA generativa y resultados educativos: metanálisis integral

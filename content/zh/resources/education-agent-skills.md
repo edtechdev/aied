@@ -1,7 +1,7 @@
 ---
 title: "Education Agent Skills"
 created: "2026-09-23T21:05:00-04:00"
-updated: "2026-10-09T19:11:14-04:00"
+updated: "2026-10-24T08:38:48-04:00"
 type: resource
 summary: "一个包含 165 个基于证据的 agent skill 的库，覆盖教学法、学习科学、课程与评估，已为 Claude、Codex 与 Hermes 打包。"
 url: https://github.com/GarethManning/education-agent-skills
@@ -20,7 +20,7 @@ confidence: high
 connected_resources: [claw-ed]
 contributors: [editor]
 translation_of: resources/education-agent-skills
-source_updated: "2026-09-23T21:05:00-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 ai_assist:
   - model: stepfun/step-5-preview:free
@@ -44,4 +44,6 @@ Skills 可以安装到 Claude Code、Codex 和 Hermes 中，既可以作为插�
 教育类 skill、文档和课程材料采用 CC BY-SA 4.0 许可，因此可以自由复用和改编，但衍生作品必须采用相同的许可。如果你要部署它，有两处运维细节值得注意。托管的 MCP 端点需要令牌，而不是对任何人开放；并且由于服务器提供的是已提交的快照而非 SKILL.md 文件，你在未重新构建并提交 bundle 的情况下新增的 skill，即使重新部署也不会出现在线上服务器上。该库由教育者兼课程设计者 Gareth Manning 构建，许可条款专门适用于其中的教育内容。
 
 ## 关联概念
-[[learning-design]], [[ai-literacy]], [[active-learning]], [[online-teaching-and-learning]], [[open-source]]
+
+[[learning-design]], [[ai-literacy]], [[active-learning]], [[online-teaching-and-learning]], [[open-source]], [[educational-development]]
+

@@ -2,7 +2,7 @@
 connected_resources: [liascript]
 title: Enseñanza de la informática
 created: "2026-09-28T19:11:56-04:00"
-updated: "2026-10-22T09:13:53-04:00"
+updated: "2026-10-24T08:28:15-04:00"
 type: concept
 foundations: [ai-literacy, computational-thinking]
 technology: [generative-ai, llm, prompt-engineering]
@@ -11,7 +11,7 @@ discipline: [stem education, cs education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/cs-education
-source_updated: "2026-10-21T12:05:00-04:00"
+source_updated: "2026-10-24T08:54:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -45,6 +45,7 @@ ai_assist:
 - **Generación y completado de código:** [[code-review-genai-cs1|la revisión de código de CS1]], [[dura-llm-cs2|DURA para CS2]] y [[prompt-problems-nl-programming-mistakes|los errores de programación en lenguaje natural]] examinan cómo el estudiantado usa la IA para generar código y qué aprende de ello.
 - **Agentes conversacionales para principiantes ([[meta-analysis-systematic-review|revisión de alcance]]):** [[conversational-agents-novice-programmers-scoping-2025|Barzanji y Loitsch (2025)]] mapean 23 estudios (2019–junio de 2024) sobre [[conversational-ai|agentes conversacionales]] para programadores principiantes y documentan un giro desde los chatbots basados en reglas hacia agentes basados en [[llm|LLM]] y en [[rag|RAG]] (con la [[rag|generación aumentada por recuperación]] reduciendo la [[hallucination-risk|alucinación]]) y hacia el apoyo a la tutoría personalizada (por ejemplo, InfoBot, ProbSol-Bot, Lint Bot, Profe Alex). Destaca que solo 4 de los 23 estudios fundamentan su diseño en la [[learning-theories|teoría del aprendizaje]] y que 17 de los 23 prototipos son solo en inglés pese a que la mayor parte de la investigación proviene de países no anglófonos, lo que señala una base [[pedagogy|pedagógica]] débil y una brecha de inclusión para el diseño futuro de agentes conversacionales en la programación introductoria.
 - **Apoyo a la depuración:** [[debugtracker-classroom-debugging|las herramientas de depuración]], [[chat-debugging-human-ai-collaboration-circuits|la colaboración humano-IA para la depuración]] y [[golrang-propact-pair-programming-2026|el modelado diádico de la programación en parejas]] aprovechan la IA para identificar y reparar errores.
+- **Un despliegue en un curso real encontró que la longitud de la pista, y no la elección de modelo, era la variable accionable.** Tres despliegues consecutivos en un curso introductorio de desarrollo web (o3-mini, GPT-5-mini y GPT-5.5 en 79.438, 83.374 y 10.420 envíos registrados) asociaron las pistas con mejores resultados inmediatos en varias comparaciones. Los mensajes más largos predijeron una peor corrección en el siguiente envío, más intentos y un reenvío más lento, y el estudiantado que había recibido pistas en pasos anteriores del proyecto resolvió el paso final con menos frecuencia, el 95,6% frente al 98,1% ([[mihaylova-llm-feedback-live-programming-course-2026|Mihaylova et al., 2026]]).
 - **Un tutor residente en el navegador y aumentado con herramientas es la arquitectura hacia la que converge el campo.** Un diseño de SLM aumentado con herramientas combina un planificador pequeño ajustado finamente (1B–7B) con cuatro herramientas deterministas —ejecutor de código, ejecutor de pruebas, recuperador de documentación y módulo de [[knowledge-tracing|trazado del conocimiento]]— detrás de una política de escalado de cuatro niveles (primero las herramientas, después el SLM en el dispositivo, luego el LLM en la nube con consentimiento y, por último, el docente), lo que desplaza el control pedagógico del modelo a la política auditable; un modelo de completado preliminar de unos 150M alcanza un 10,97% de pass@1 en HumanEval, por encima de varias líneas base de código de 100M–150M ([[browser-sized-agents-slm-webllm-tutor-2026|Suvernev et al. (2026)]]).
 - **Un tutor pequeño con ajuste fino puede superar en andamiaje a un modelo general más grande.** El ajuste fino de Qwen2.5-Coder-7B-Instruct sobre 1.213 diálogos de tutoría sintéticos redujo la divulgación prematura de la solución del 7,43% al 1,88% de los turnos del tutor y elevó la calidad del andamiaje por pasos y de las preguntas de depuración por encima de la de GPT-4o, aunque la generación fiable de planes pedagógicos siguió siendo el problema abierto ([[socraticrepair-program-debugging-2026|Kopytskyi et al. (2026)]]).
 - **Evaluación automatizada:** [[automated-grading-linux-bash-examinations-large-language-models|la calificación de Linux Bash]], [[llm-automated-grading-programming-comparison-2026|una comparación de calificación a gran escala con 18 modelos]] y [[llm-intervention-design-cs-review|la revisión de intervenciones con LLM]] evalúan la evaluación automática de código. La seguridad de ese flujo de trabajo es una cuestión aparte: [[humble-prompt-injection-ai-grading-red-team-2026|Humble (2026)]] hizo un ejercicio de equipo rojo sobre una tarea rutinaria de calificación con IA y encontró que las instrucciones ocultas dentro de un archivo entregado elevaron la nota de un ensayo suspenso sin ninguna advertencia visible, en 9 de 9 iteraciones con una estrategia y en 17 de 18 con otra, evidencia de que la robustez de quien califica pertenece a la lista de comprobación de la [[assessment-validity|validez de la evaluación]] junto con la precisión.
@@ -162,6 +163,7 @@ La enseñanza de la informática se conecta con [[computational-thinking|el pens
 - [[assessment-validity]]
 
 ## Artículos conectados
+- [[mihaylova-llm-feedback-live-programming-course-2026]] — Tres despliegues y tres modelos en un curso de programación en vivo: cómo se comportó la ayuda en un curso real
 - [[browser-sized-agents-slm-webllm-tutor-2026]] — Agentes del tamaño del navegador: modelos de lenguaje pequeños y WebLLM para la educación en programación asistida por IA y aumentada con herramientas
 - [[kumar-genai-computing-education-systematic-review-2026]] — Revisión sistemática de 72 estudios: ganancias de eficiencia que no se transfieren, y el marco VIE
 - [[vibe-coding-writing-cs-achievement-2026]] — El rendimiento en informática y las habilidades de escritura predicen la competencia en programación por instinto (CHI 2026)

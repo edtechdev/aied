@@ -1,7 +1,7 @@
 ---
 title: "प्लेलैब"
 created: "2026-09-20T16:45:00-04:00"
-updated: "2026-10-16T09:00:00-04:00"
+updated: "2026-10-24T08:38:48-04:00"
 type: resource
 summary: "एक non-profit निर्माता प्लेटफ़ॉर्म जहाँ शिक्षक अपने स्वयं के AI ऐप बनाते, साझा करते और उनका मूल्यांकन करते हैं — अपने ही पाठ्यक्रम में आधारित, अपनी पसंद के मॉडल पर चलने वाले, और शिक्षकों की दृश्यता अंतर्निहित।"
 url: https://www.playlab.ai/
@@ -18,7 +18,7 @@ audience: [instructors, instructional designers, educational technology develope
 confidence: high
 connected_resources: [teacherserver, edugems]
 translation_of: resources/playlab
-source_updated: "2026-09-20T16:45:00-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 contributors: [editor]
 ai_assist:
@@ -42,4 +42,6 @@ ai_assist:
 बिल्डर तक पहुँच सीमित है: get-started पेज एक ईमेल पता और एक onboarding कार्यशाला में स्थान, या एक invite code माँगता है। इसके अनुपालन दावे (FERPA, COPPA, GDPR, CCPA, SOC 2 Type II), यह वादा कि आपका कार्य बाहरी मॉडलों को कभी प्रशिक्षित नहीं करता, तथा आउटपुट अधिकारों का निर्माता को सौंपना — ये सब डेटा प्रोसेसिंग समझौते में होना चाहिए, केवल मार्केटिंग पेज पर नहीं; MagicSchool और प्रमुख चैटबॉट्स के साथ इसकी क्षमता तुलना प्लेलैब की अपनी है, जिसकी तिथि 2026 के मध्य है। यह Scratch और MIT Media Lab से जुड़े end-user प्रोग्रामिंग कार्य से निकली है।
 
 ## जुड़ी अवधारणाएँ
-[[ai-literacy]], [[learning-design]], [[generative-ai]], [[rag]], [[human-in-the-loop-ai]], [[privacy]], [[guardrails]]
+
+[[ai-literacy]], [[learning-design]], [[generative-ai]], [[rag]], [[human-in-the-loop-ai]], [[privacy]], [[guardrails]], [[educational-technology-developers]], [[teacher-ai-competency]]
+

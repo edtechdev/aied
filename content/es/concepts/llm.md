@@ -76,16 +76,16 @@ Los LLM también afirman de forma preferente: en 11 modelos, las respuestas de l
 - [[ai-technologies]] — Marco: tecnologías y técnicas de IA (modelos, entrenamiento de LLM, robótica, RAG, agentes)
 
 ## Artículos conectados
-- [[assessing-quality-ai-generated-exams-field-2025]] — Assessing the quality of AI-generated exams: a large-scale field study
+- [[assessing-quality-ai-generated-exams-field-2025]] — Evaluar la calidad de los exámenes generados por IA: un estudio de campo a gran escala
 - [[educational-llm-alignment]]
 - [[cstutorbench-slm-tutors]]
 - [[hazra-safetutors-pedagogical-safety-2026]]
 - [[llm-item-difficulty-prediction]]
 - [[eduguard-safe-rag-llm-tutor]]
 - [[llm-difficulty-calibration-programming-exams-2026]]
-- [[lopez-pernas-llm-appropriate-student-support-2026]] — Can AI deliver appropriate support for diverse student profiles? A large-scale evaluation
-- [[yasar-llms-iterative-pedagogical-design-2026]] — LLMs as agents of iterative pedagogical design
-- [[razavi-powers-item-difficulty-llm-2026]] — Estimating item difficulty using LLMs and tree-based ML
+- [[lopez-pernas-llm-appropriate-student-support-2026]] — ¿Puede la IA ofrecer un apoyo adecuado a perfiles estudiantiles diversos? Una evaluación a gran escala
+- [[yasar-llms-iterative-pedagogical-design-2026]] — Los LLM como agentes del diseño pedagógico iterativo
+- [[razavi-powers-item-difficulty-llm-2026]] — Estimar la dificultad de los ítems con LLM y aprendizaje automático basado en árboles
 - [[auto-marking-short-answer-science-2026]]
 - [[reddig-maclellan-personalized-feedback-llm-2026]]
 - [[oppenheimer-llms-collaborative-learning-partners-2026]]
@@ -94,7 +94,7 @@ Los LLM también afirman de forma preferente: en 11 modelos, las respuestas de l
 - [[falahat-chatgpt-grading-pharmacy-exams-2026]]
 - [[olvet-genai-scoring-open-ended-medical-2026]]
 - [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — Student Use of LLMs and the Limits of AI-Generated Question Difficulty in Data Science Courses
-- [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors: Assertion-based Schemas for Auditable Coding of Educational Dialogues
+- [[student-llm-use-ai-question-difficulty-data-science-2026]] — Uso de LLM por parte del estudiantado y los límites de la dificultad de preguntas generadas por IA en cursos de ciencia de datos
+- [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors: esquemas basados en aserciones para una codificación auditable de diálogos educativos
 
 - [[ai-personal-coach-review-benefits-risks-2026]] — Adulación en 11 LLM: la IA afirmó a las personas usuarias un 49% más que las respuestas humanas, elevando la confianza y el uso continuado

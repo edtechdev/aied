@@ -45,7 +45,7 @@ The coherence claim has teeth because the layers are interdependent. Data that e
 
 ## The framework in practice
 
-The three prototypes are the chapter's evidence that the architecture is buildable, and they differ in what they automate. In the lesson planner, the AI's first move is interrogation: it asks the teacher about content, students' cultural assets and classroom context, then drafts from those answers, which turns [[scaffolding|scaffolding]] of the teacher's design judgment into the product rather than the by-product. In the scorer, AI handles the fine-grained analysis of a hands-on task and a teacher decides what to do with the result, guarding the judgment step explicitly. The inquiry [[learning-analytics|analytics]] are the least formed of the three and the most dependent on the human loop, since segmenting behavior only helps if the teacher can interpret the segments.
+The three prototypes are the chapter's evidence that the architecture is buildable, and they differ in what they automate. In the lesson planner, the AI's first move is interrogation: it asks the teacher about content, students' cultural assets and classroom context, then drafts from those answers, which turns [[scaffolding]] of the teacher's design judgment into the product rather than the by-product. In the scorer, AI handles the fine-grained analysis of a hands-on task and a teacher decides what to do with the result, guarding the judgment step explicitly. The inquiry [[learning-analytics|analytics]] are the least formed of the three and the most dependent on the human loop, since segmenting behavior only helps if the teacher can interpret the segments.
 
 ## What this means for practice
 

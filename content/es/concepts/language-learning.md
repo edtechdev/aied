@@ -2,7 +2,7 @@
 connected_resources: [mglearn]
 title: Aprendizaje de lenguas
 created: "2026-09-28T20:12:29-04:00"
-updated: "2026-10-22T09:13:53-04:00"
+updated: "2026-10-24T08:21:18-04:00"
 type: concept
 foundations: [ai-education]
 technology: [generative-ai]
@@ -11,7 +11,7 @@ discipline: [language learning, writing education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/language-learning
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-23T09:14:19-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -52,7 +52,7 @@ Una comparación de 52 tareas de evaluación de inglés como lengua extranjera v
 
 **La evaluación automatizada de la escritura para quienes aprenden L2** valora la capacidad de la IA para evaluar escritura no nativa. **[[self-referential-l2-writing-llm-assessment|Bannò et al.]]** propusieron un enfoque autorreferencial que compara la escritura del estudiantado con su propio trabajo anterior en lugar de con normas de hablantes nativos. **[[ai-scoring-language-bias-physics|Feser y Tschisgale]]** encontraron que la puntuación con IA subestima de forma sistemática al estudiantado lingüísticamente débil, un hallazgo que conecta con las preocupaciones sobre la [[assessment-validity|validez de la evaluación]] y la [[bias-mitigation|mitigación del sesgo]]. **[[genai-linguistic-diversity-academic-writing|La diversidad lingüística en la escritura académica]]** explora cómo afecta la IA a la diversidad lingüística en contextos académicos.
 
- Un sistema a nivel de discurso va más allá y nombra el defecto en lugar de puntuar el texto: la clasificación de relaciones entre pares de oraciones localizó rupturas de coherencia —saltos lógicos, conectores ausentes, referencia ambigua— y la adopción, juzgada por docentes, de su retroalimentación generada osciló entre el 71,2% y el 88,4% ([[bert-discourse-english-teaching-2026|Wang et al., 2026]]).
+Un sistema a nivel de discurso va más allá y nombra el defecto en lugar de puntuar el texto: la clasificación de relaciones entre pares de oraciones localizó rupturas de coherencia —saltos lógicos, conectores ausentes, referencia ambigua— y la adopción, juzgada por docentes, de su retroalimentación generada osciló entre el 71,2% y el 88,4% ([[bert-discourse-english-teaching-2026|Wang et al., 2026]]).
 
 **La [[accessibility|accesibilidad]] para quienes aprenden lenguas** conecta con el [[inclusive-learning|aprendizaje inclusivo]]: **[[dyslexlens-dyslexic-learners-ai|DysLexLens]]** analizó cómo usa la IA el estudiantado con dislexia para apoyar la alfabetización, y **[[ai-tools-arab-english-classrooms|las herramientas de IA en aulas árabe-inglés]]** exploraron contextos de aula árabe-inglés. Estos estudios conectan el aprendizaje de lenguas con la [[equity-in-ai-education|equidad en la IA educativa]] y la [[special-education|educación especial]].
 
@@ -85,6 +85,8 @@ La calidad del diseño, y no la frecuencia de uso, fue lo que sostuvo el efecto 
 - **Cuatro perfiles de interacción en una tarea bilingüe de alta presión.** [[student-ai-interaction-consecutive-interpreting-2026|Kuang, Li y Weng (2026)]] usaron seguimiento ocular, registro con lápiz y grabación de voz con 22 estudiantes de interpretación para mostrar que el estudiantado reparte la atención entre la salida de la IA y sus propias notas de cuatro formas distintas —implicados intensivos, escáneres rápidos, tradicionalistas y cambiadores frecuentes— y que el 58,3% de las observaciones a nivel de etapa cambiaron de perfil entre las etapas de comprensión y de producción de una misma tarea. Solo los patrones de la etapa de comprensión predijeron la calidad del producto, y el grupo más dependiente de la IA obtuvo la peor puntuación en fluidez de la entrega y calidad de la lengua meta, lo que aboga por enseñar al estudiantado a describir y reflexionar sobre su propia estrategia en lugar de prescribir una única forma de trabajar con la herramienta.
 - **Ordene el bucle completo de las cuatro destrezas en torno al coste y la conectividad.** [[llmersion-local-first-language-learning-2026|Guo et al. (2026)]] publican LLMersion-1, un prototipo local primero que trabaja la comprensión auditiva, la lectura, la expresión oral y la escritura sobre el propio documento de quien aprende en hardware de consumo: un tutor de 1B se cuantiza a 808 MB y toda la pila residente se mantiene por debajo de 4 GB, y calcula cinco años de práctica diaria en unos \$18 de electricidad, frente a \$1.200 de una suscripción en la nube. No se informan resultados de aprendizaje y la retroalimentación de pronunciación es solo segmental.
 
+- **La evidencia sobre las ganancias de la conversación con chatbots es desigual según la característica.** En la única síntesis sistemática de la cuestión, diez estudios de 2021 a 2024 mejoraron con más fiabilidad la variedad y la inteligibilidad, mientras que la coherencia se examinó una sola vez y la interacción casi nunca; cuatro de los diez informaron de una única puntuación holística ([[chatbots-oral-proficiency-efl-systematic-review|Soriano-Gonzalez y Belda-Medina (2026)]]).
+
 ## Conceptos conectados
 
 - [[eportfolio]]
@@ -106,6 +108,7 @@ La calidad del diseño, y no la frecuencia de uso, fue lo que sostuvo el efecto 
 
 ## Artículos conectados
 
+- [[chatbots-oral-proficiency-efl-systematic-review]] — Las ganancias de los chatbots en competencia oral se concentran en la variedad y la inteligibilidad
 - [[student-ai-interaction-consecutive-interpreting-2026]] — La interacción estudiante-IA en la interpretación consecutiva asistida por ordenador
 - [[wu-psychological-adaptation-ai-japanese-learning-2026]] — Perfiles y transiciones de la adaptación psicológica en el aprendizaje del japonés asistido por IA
 - [[llm-agents-5e-esl-grammar-2026]] — Agentes LLM con el marco 5E para la adquisición de gramática en inglés como segunda lengua (Yang, Weng y Yang 2026)

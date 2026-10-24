@@ -1,7 +1,7 @@
 ---
 title: Descarga cognitiva
 created: "2026-09-25T03:07:36-04:00"
-updated: "2026-10-22T09:13:53-04:00"
+updated: "2026-10-24T08:22:10-04:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [metacognition, self-regulated-learning]
@@ -12,7 +12,7 @@ connected_faqs: [top-10-findings-ai-education-instructors, does-ai-help-students
 confidence: high
 connected_resources: [pause-ai-use-self-examination, student-guide-to-ai]
 translation_of: concepts/cognitive-offloading
-source_updated: "2026-10-21T11:40:00-04:00"
+source_updated: "2026-10-23T09:20:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -96,7 +96,7 @@ Los artículos de la base de conocimiento documentan la descarga cognitiva en va
 
 - **La descarga es una toma de decisiones basada en valores, y parte del estudiantado es más vulnerable que otra.** [[seung-basham-cognitive-offloading-swld-2026|Seung y Basham (2026)]], una revisión conceptual en *Learning Disability Quarterly*, sintetizan la ciencia cognitiva, la [[special-education|educación especial]] y la tecnología educativa para modelar la descarga con IA generativa como una decisión de coste y beneficio modelada por las metas de rendimiento, la dificultad de la tarea, la autoeficacia académica y las percepciones de la herramienta. Sostienen que **el estudiantado con dificultades de aprendizaje (SWLD)** es especialmente vulnerable a una descarga subóptima, porque una mayor carga cognitiva, metas de rendimiento que evitan el esfuerzo, una menor autoeficacia académica y expectativas infladas hacia la IA generativa hacen más probable una delegación prematura o excesiva. La IA generativa se enmarca como **ayuda compensatoria o atajo según cómo interactúen las decisiones de descarga con los perfiles de quien aprende y el [[learning-design|diseño instruccional]]**, con las [[guardrails|barreras de seguridad]] instruccionales como factor moderador clave (enseñar autorregulación metacognitiva, construir [[ai-literacy|alfabetización en IA]] para calibrar la confianza en la herramienta, secuenciar experiencias de dominio y evaluar el proceso y no solo el producto). Esto amplía la dimensión de equidad de la descarga: la misma herramienta que reduce barreras de acceso puede, sin salvaguardas, sustituir la práctica que ese estudiantado más necesita.
 
-- **El riesgo de descarga es evolutivo.** [[niu-genai-children-creative-thinking-cognitive-development-review-2026|Niu et al. (2026)]] revisaron 24 fuentes de evidencia sobre la [[generative-ai|IA generativa]] y el [[creativity|pensamiento creativo]] infantil y encontraron la [[cognitive-offloading|dependencia excesiva]] y la dependencia de las indicaciones entre los riesgos recurrentes, más fuertes en los cursos inferiores, junto con el pensamiento basado en plantillas y la dificultad infantil para juzgar si una sugerencia de la IA era original; una comparación con fMRI registró una menor implicación de las redes de control cognitivo y atención durante la interacción de niños con ChatGPT que en una conversación humana. Como los niños más pequeños carecían de las habilidades lingüísticas y metacognitivas que exige la formulación de indicaciones basadas en texto, las autorías recomiendan mantener la [[ai-literacy|alfabetización en IA]], la autoría y la generación de ideas sin ayuda dentro de la propia actividad y medir la creatividad independiente por separado del resultado asistido por IA. Esto añade una dimensión de edad a los patrones de vulnerabilidad anteriores.
+- **El riesgo de descarga es evolutivo.** [[niu-genai-children-creative-thinking-cognitive-development-review-2026|Niu et al. (2026)]] revisaron 24 fuentes de evidencia sobre la [[generative-ai|IA generativa]] y el [[creativity|pensamiento creativo]] infantil y encontraron la dependencia excesiva y la dependencia de las indicaciones entre los riesgos recurrentes, más fuertes en los cursos inferiores, junto con el pensamiento basado en plantillas y la dificultad infantil para juzgar si una sugerencia de la IA era original; una comparación con fMRI registró una menor implicación de las redes de control cognitivo y atención durante la interacción de niños con ChatGPT que en una conversación humana. Como los niños más pequeños carecían de las habilidades lingüísticas y metacognitivas que exige la formulación de indicaciones basadas en texto, las autorías recomiendan mantener la [[ai-literacy|alfabetización en IA]], la autoría y la generación de ideas sin ayuda dentro de la propia actividad y medir la creatividad independiente por separado del resultado asistido por IA. Esto añade una dimensión de edad a los patrones de vulnerabilidad anteriores.
 - **La pregunta de «pensar menos frente a aprender de otro modo» es condicional.** [[nesnin-cognitive-offloading-ai-students-2026|Nesnin et al. (2026)]] ofrecen una revisión analítica más amplia que concluye que la IA **no necesariamente hace que el estudiantado piense menos, sino que transforma cómo aprende**: el resultado depende del uso. La IA que aclara, verifica y guía mejora el aprendizaje; la IA que reemplaza el pensamiento independiente produce una dependencia pasiva. Esto converge con la omnipresente frontera entre «andamiar y sustituir» y con la visión condicional del daño de la descarga.
 
 - **La descarga es sensible a las capas: importa la profundidad de la delegación y no solo su presencia.** [[layer-sensitive-cognitive-offloading-writing-2026|Chen (2026)]] introduce una explicación sensible a las capas para la [[writing-education|escritura académica]]: superficial (gramática y vocabulario), estructural (esquema y secuenciación), de ideas (afirmaciones y contenido) y de razonamiento (garantías, contraargumentos y lógica argumentativa). En un cuasiexperimento de ocho semanas, la colaboración abierta con IA produjo la mejor escritura *apoyada* pero los peores resultados independientes sin IA, con las capas de descarga más profundas mostrando la asociación negativa más fuerte con el pensamiento de orden superior independiente en [[higher-ed|educación superior]] (descarga de razonamiento indirecta ab = −0,34 frente a −0,08 en la superficial). La [[self-regulated-learning|escritura autorregulada]] atenuó el daño pero no lo eliminó. Esto afina la frontera entre andamiar y sustituir: algunas capas de delegación andamian, mientras que las capas más profundas sustituyen la cognición que construye el [[critical-thinking|pensamiento crítico]].
@@ -124,6 +124,8 @@ los riesgos más importantes de la IA en la educación:
 - **El problema de la agencia:** [[aied-unfinished-mission-bypass|la misión inacabada de la AIED]] enmarca la dependencia excesiva como una crisis de agencia y de motivación: el estudiantado se salta el aprendizaje no porque la IA sea irresistible, sino porque las tareas de aprendizaje parecen no tener sentido cuando la IA puede completarlas sin esfuerzo.
 - **Erosión de la motivación:** la [[ai-availability-student-motivation|investigación sobre la motivación del estudiantado]] encuentra que saber que la IA está disponible reduce el valor percibido de aprender la habilidad por uno mismo, un cálculo motivacional que afecta especialmente a quien aprende y es novato.
 - **La persistencia también se erosiona, y rápido.** Tras unos diez minutos con un asistente que respondía a petición, quienes participaban se saltaron 0,20 de los problemas sin ayuda frente a 0,11 del grupo de control y resolvieron 0,57 frente a 0,73, replicándose en la comprensión lectora ([[liu-ai-assistance-reduces-persistence-2026|Liu et al., 2026]]).
+- **Las ganancias en los deberes con apoyo no sobrevivieron a un examen sin apoyo.** Al asignar al azar a 153 estudiantes de un curso de demostración a un acceso más temprano a la IA, las notas de deberes subieron 2,56 puntos y el Examen 2 de mitad de semestre quedó indistinguible de cero, mientras que una herramienta de retroalimentación que exige intentar primero no recibió penalización y un chatbot abierto se situó 3,02 puntos por debajo por cada 100 mensajes ([[ai-proof-learning-cognitive-offloading-2026|Chen et al. (2026)]]).
+- **Una entrega no es prueba de lo que se descargó.** En 59 registros de chat de 23 estudiantes de álgebra lineal, 27 de los 30 que se guiaron por explicar o comprobar acabaron aun así cerca del producto del modelo, así que la descarga debe leerse prompt a prompt ([[llm-math-homework-offloading-traces-2026|Kontorovich y Wallach (2026)]]).
 - **Deuda de alfabetización:** la [[agentic-literacy-debt|deuda de alfabetización agéntica]] describe el déficit acumulativo de habilidades que se desarrolla cuando el estudiantado depende habitualmente de la IA en lugar de desarrollar sus propias competencias, de forma análoga a la deuda técnica en el software.
 - **Ciclos de fatiga:** la [[ai-fatigue-academic-contexts|investigación sobre la fatiga ante la IA]] identifica una paradoja en la que la dependencia excesiva conduce a una fatiga cognitiva por la gestión constante de la interacción con la IA, que a su vez impulsa MÁS dependencia, un círculo vicioso.
 - **La regla de la ubicación:** [[brcic-effortless-trap-productive-struggle-2026|la trampa sin esfuerzo]] reencuadra el debate entre permitir y prohibir como una cuestión de ubicación: una ayuda de IA sin salvaguardas dejó al estudiantado de secundaria un 17% peor en un examen sin ayuda, mientras que el mismo modelo reconstruido para retener las respuestas eliminó el daño. Su diagnóstico, *«si dejar entrar a la IA hace que la tarea se sienta sin esfuerzo, está en el lugar equivocado»*, asegura el primer intento difícil y la comprobación final sin ayuda como los momentos en los que la dependencia excesiva se oculta más fácilmente como una «ilusión de aprendizaje».
@@ -189,43 +191,45 @@ La misma lógica convierte el moldeado de recompensas en una herramienta de dise
 - [[cognitive-surrender]]
 
 ## Artículos conectados
+- [[ai-proof-learning-cognitive-offloading-2026]] — ¿Apoyar o reemplazar el razonamiento del estudiantado? La descarga cognitiva en el aprendizaje de demostraciones asistido por IA (Chen et al. 2026)
+- [[llm-math-homework-offloading-traces-2026]] — Lo que la entrega no muestra: la descarga cognitiva complejizadora en el trabajo matemático del estudiantado con LLM (Kontorovich y Wallach 2026)
 - [[caeai-ai-scaffolding-inquiry-profiles-middle-school-2026]] — Grupos que empezaron iguales divergieron: 74,1% de adopción del modelo en un perfil frente a 80,8% de descarga y bloqueo en otro (Kilinc et al. 2026)
 - [[liu-ai-assistance-reduces-persistence-2026]] — La asistencia de IA redujo la persistencia y el desempeño sin ayuda en tres ECA (Liu et al. 2026)
 - [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025]] — ChatGPT como muleta cognitiva: un ensayo controlado aleatorizado sobre la retención de conocimientos 45 días después (Barcaui 2025)
-- [[yan-cognitive-outsourcing-genai-assessments-2026]] — From cognitive outsourcing to reallocation: 3P analysis of student–GenAI engagement in unsupervised assessments (Yan et al. 2026)
-- [[family-school-autonomy-support-genai-2026]] — Family-School Autonomy Support for Children's Responsible Use of Generative AI
-- [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — Excess vs beneficial friction: why AI offloading differs from earlier tools
-- [[thermomix-genai-education-analogy-2026]] — With a Thermomix You Lose the Ability to Cook: a kitchen-machine analogy for generative AI in education (Rummel, Nachtigall & Panadero 2026)
-- [[cognitive-washout-ai-skill-decay-2026]] — cognitive washout: post-withdrawal dynamics of AI-induced skill decay
-- [[yan-conversational-ai-engagement-dependence-synthesis-2026]] — A Critical Narrative Synthesis of Conversational AI Engagement and Dependence
+- [[yan-cognitive-outsourcing-genai-assessments-2026]] — De la externalización cognitiva a la reasignación: análisis 3P del compromiso del estudiantado con la IA generativa en evaluaciones no supervisadas (Yan et al. 2026)
+- [[family-school-autonomy-support-genai-2026]] — Apoyo a la autonomía desde la familia y la escuela para el uso responsable de la IA generativa en la infancia
+- [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — Fricción excesiva frente a fricción beneficiosa: por qué la descarga a la IA difiere de las herramientas anteriores
+- [[thermomix-genai-education-analogy-2026]] — Con un Thermomix se pierde la capacidad de cocinar: una analogía de la máquina de cocina para la IA generativa en educación (Rummel, Nachtigall y Panadero 2026)
+- [[cognitive-washout-ai-skill-decay-2026]] — desvanecimiento cognitivo: dinámicas del deterioro de habilidades inducido por la IA tras retirarla
+- [[yan-conversational-ai-engagement-dependence-synthesis-2026]] — Una síntesis narrativa crítica del compromiso y la dependencia en la IA conversacional
 - [[layer-sensitive-cognitive-offloading-writing-2026]] — Layer-sensitive cognitive offloading in GenAI-assisted writing (Chen 2026)
-- [[du-yuan-epistemic-dependence-2026]] — Epistemic dependence in AI-mediated learning: six diagnostic criteria separating productive reliance from harmful dependence (Du & Yuan 2026)
-- [[seung-basham-cognitive-offloading-swld-2026]] — GenAI cognitive offloading for students with learning disabilities
-- [[lodge-loble-cognitive-offloading-2026]] — AI, cognitive offloading and implications for education
-- [[cognitive-offloading-metacognitive-review-2026]] — Meta-cognitive insights into cognitive offloading (Guo & Ye 2026)
+- [[du-yuan-epistemic-dependence-2026]] — Dependencia epistémica en el aprendizaje mediado por IA: seis criterios diagnósticos que separan la confianza productiva de la dependencia dañina (Du y Yuan 2026)
+- [[seung-basham-cognitive-offloading-swld-2026]] — Descarga cognitiva a la IA generativa en estudiantado con dificultades de aprendizaje
+- [[lodge-loble-cognitive-offloading-2026]] — IA, descarga cognitiva e implicaciones para la educación
+- [[cognitive-offloading-metacognitive-review-2026]] — Aportaciones metacognitivas al estudio de la descarga cognitiva (Guo y Ye 2026)
 - [[metacognitive-training-optimal-cognitive-offloading-2026]] — Metacognitive training facilitates optimal cognitive offloading (Ngai & Gilbert 2026)
-- [[critical-thinking-paradox-genai-learning-2026]] — The critical-thinking paradox in GenAI-integrated learning
-- [[cognitive-offloading-speedup-illusion]] — The speedup illusion of AI-assisted work
-- [[misiejuk-cognitive-offloading-prompting-2026]] — Co-occurrence network analysis of prompt patterns
-- [[shaw-nave-cognitive-surrender-2026]] — Tri-System Theory and cognitive surrender: how AI reshapes human reasoning (Shaw & Nave 2026)
+- [[critical-thinking-paradox-genai-learning-2026]] — La paradoja del pensamiento crítico en el aprendizaje integrado con IA generativa
+- [[cognitive-offloading-speedup-illusion]] — La ilusión de aceleración del trabajo asistido por IA
+- [[misiejuk-cognitive-offloading-prompting-2026]] — Análisis de redes de coocurrencia de patrones de prompts
+- [[shaw-nave-cognitive-surrender-2026]] — Teoría de los tres sistemas y rendición cognitiva: cómo la IA reconfigura el razonamiento humano (Shaw y Nave 2026)
 - [[young-people-learning-generative-ai-rapid-review-2026]] — Surrender-offloading-agency continuum for GenAI
-- [[ai-making-us-stupid]] — Research on AI's cognitive effects and learning displacement
-- [[brcic-effortless-trap-productive-struggle-2026]] — The Effortless Trap: AI replacing cognitive work (Brcic & Frljic 2026)
+- [[ai-making-us-stupid]] — Investigación sobre los efectos cognitivos de la IA y el desplazamiento del aprendizaje
+- [[brcic-effortless-trap-productive-struggle-2026]] — La trampa sin esfuerzo: la IA sustituye el trabajo cognitivo (Brcic y Frljic 2026)
 - [[genai-thoughtless-use-self-directed-learning-2026]] — Thoughtless AI use erodes self-directed learning
 - [[generative-ai-guardrails-harm-learning]] — High-school math RCTs on unguarded GenAI
-- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — The generative AI learning penalty: homework outsourcing harms learning
-- [[coach-not-crutch-ai-writing]] — AI can work less and learn more (Lira et al. 2025)
+- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — La penalización de aprendizaje de la IA generativa: externalizar los deberes perjudica el aprendizaje
+- [[coach-not-crutch-ai-writing]] — La IA puede trabajar menos y aprender más (Lira et al. 2025)
 - [[making-ai-tutoring-productive-mastery-math-2026]] — Making AI tutoring productive: mastery-based math practice
-- [[cognitive-commons-ai-expertise-regeneration]] — The tragedy of the cognitive commons: AI and expertise regeneration
+- [[cognitive-commons-ai-expertise-regeneration]] — La tragedia de los bienes comunes cognitivos: la IA y la regeneración de la pericia
 - [[pause-ai-cognitive-offloading-self-reflection-2026]] — PAUSE: A Privacy-Preserving Self-Reflection Tool for AI-Associated Cognitive Offloading
-- [[chatgpt-writing-cognitive-impact-2026]] — a writing-to-learn experiment in which ChatGPT-assisted writing produced less knowledge gain than an unaided control
-- [[student-cognitive-offloading-ai-higher-ed-2026]] — Patterns of student cognitive offloading to AI in higher education: naturalistic ChatGPT message-level evidence (Piatnitckaia et al. 2026)
+- [[chatgpt-writing-cognitive-impact-2026]] — un experimento de escritura para aprender en el que escribir con ayuda de ChatGPT produjo menos ganancia de conocimiento que un grupo de control sin ayuda
+- [[student-cognitive-offloading-ai-higher-ed-2026]] — Patrones de descarga cognitiva del estudiantado hacia la IA en educación superior: evidencia naturalista a nivel de mensaje en ChatGPT (Piatnitckaia et al. 2026)
 - [[metacognitive-feedback-anti-deskilling-offloading-2026]] — Designing Against Deskilling: Metacognitive Feedback Reduces Cognitive Offloading to LLM Assistants
-- [[chatgpt-programming-performance-retention-ownership-2026]] — Your Programming Students' Cognition with ChatGPT: Higher Performance, Lower Retention, and Reduced Ownership
-- [[davor-ai-supported-learning-higher-order-outcomes-2026]] — Offloading tendency and verification literacy predicting higher-order outcomes through metacognitive self-regulation (Davor et al. 2026)
-- [[ren-metacognitive-awareness-genai-reliance-2026]] — A reflection prompt reduces acceptance of incorrect AI advice and improves awareness calibration (Ren 2026)
-- [[shojaei-genai-dependence-critical-thinking-employability-2026]] — GenAI dependence as a boundary condition on critical-thinking disposition and self-perceived employability (Shojaei et al. 2026)
-- [[niu-genai-children-creative-thinking-cognitive-development-review-2026]] — GenAI and children's creative thinking: over-reliance and prompt dependence in a scoping review (Niu et al. 2026)
-- [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] - Children showed weaker frontoparietal, salience and dorsal attention connectivity than adults while talking with ChatGPT, at matched creativity scores
+- [[chatgpt-programming-performance-retention-ownership-2026]] — La cognición de tu estudiantado de programación con ChatGPT: mayor desempeño, menor retención y menor apropiación
+- [[davor-ai-supported-learning-higher-order-outcomes-2026]] — La tendencia a la descarga y la alfabetización de verificación como predictoras de resultados de orden superior mediante la autorregulación metacognitiva (Davor et al. 2026)
+- [[ren-metacognitive-awareness-genai-reliance-2026]] — Un prompt de reflexión reduce la aceptación de consejos incorrectos de la IA y mejora la calibración de la conciencia (Ren 2026)
+- [[shojaei-genai-dependence-critical-thinking-employability-2026]] — La dependencia de la IA generativa como condición límite de la disposición al pensamiento crítico y la empleabilidad autopercibida (Shojaei et al. 2026)
+- [[niu-genai-children-creative-thinking-cognitive-development-review-2026]] — IA generativa y pensamiento creativo infantil: dependencia excesiva y dependencia de los prompts en una revisión de alcance (Niu et al. 2026)
+- [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] - La infancia mostró una conectividad frontoparietal, de saliencia y de atención dorsal más débil que las personas adultas al conversar con ChatGPT, con puntuaciones de creatividad equiparables
 - [[genai-support-threaten-learning-k20-expert-consensus-2026]] — Un consenso de 30 personas expertas sobre 65 procesos de aprendizaje: descarga en ambos extremos de la secuencia de aprendizaje
 - [[rented-self-decoupling-performance-becoming-2026]] — El yo alquilado: la descarga que cuesta el yo disciplinar de quien aprende, no solo la habilidad

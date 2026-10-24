@@ -1,7 +1,7 @@
 ---
 title: Motivación
 created: "2026-09-28T18:17:50-04:00"
-updated: "2026-10-22T09:13:53-04:00"
+updated: "2026-10-24T08:21:10-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [motivation, self-determination-theory, student-engagement]
@@ -10,7 +10,7 @@ connected_faqs: [ai-anxiety-wellbeing, asynchronous-online-courses-ai]
 audience: [learners]
 confidence: high
 translation_of: concepts/motivation
-source_updated: "2026-10-17T07:38:51-04:00"
+source_updated: "2026-10-23T08:03:41-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -78,6 +78,8 @@ Una intervención de valor de utilidad no es uniformemente beneficiosa: una vers
 
 **La literatura mide la motivación sin una teoría de ella.** Una revisión de alcance de 156 estudios de 2003 a 2025 encontró que 133 (85,3%) no se guiaban por ninguna teoría motivacional específica, la variable más común era una motivación académica generalizada (n = 89) y 88 estudios (56,4%) procedían de un único contexto nacional ([[ai-student-motivation-scoping-review-2026|Li et al., 2026]]).
 
+La motivación también opera antes de la percepción de la tecnología, y no solo junto a ella. En una muestra de 340 estudiantes de física, el valor de utilidad predijo la utilidad percibida (β = 0,43) y el valor intrínseco predijo la actitud (β = 0,20), mientras que el coste percibido redujo la facilidad de uso (β = −0,16) y la actitud (β = −0,27) sin una ruta directa hacia la intención ([[high-school-genai-acceptance-tam-physics-2026|Xue, Xu, Qi y Lu (2026)]]).
+
 ## Conexiones con conceptos relacionados
 
 La motivación es el constructo padre de la [[self-determination-theory|teoría de la autodeterminación]], que especifica las necesidades psicológicas (autonomía, competencia, relación con los demás) que sostienen la motivación intrínseca. Se conecta con la [[student-experience|experiencia del estudiante]] como capa vivencial de la implicación motivada, con la [[student-engagement|implicación del estudiante]] como su dimensión medible y con la [[affective-computing|computación afectiva]] por los mecanismos emocionales que configuran la motivación. La motivación también se conecta con la [[cognitive-offloading|dependencia excesiva]] (la IA que reduce el [[desirable-difficulties|esfuerzo productivo]]), con el [[self-regulated-learning|aprendizaje autorregulado]] (quienes están motivados se autorregulan) y con el [[teacher-role|papel docente]] (la motivación se aplica a los educadores tanto como al estudiantado).
@@ -100,6 +102,7 @@ La motivación es el constructo padre de la [[self-determination-theory|teoría 
 
 ## Artículos conectados
 
+- [[high-school-genai-acceptance-tam-physics-2026]] — Las creencias de expectativa-valor como antecedentes de la aceptación de la IAG
 - [[liu-ai-assistance-reduces-persistence-2026]] — El uso breve de la IA redujo la persistencia en problemas posteriores sin ayuda (Liu et al. 2026)
 - [[jansen-argumentative-writing-feedback-receptivity-2026]] — Retroalimentación automatizada en la escritura argumentativa: el papel de la receptividad y la percepción de la retroalimentación en estudiantes de secundaria
 - [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — La paradoja del esfuerzo y el círculo vicioso de la asistencia sin fricción

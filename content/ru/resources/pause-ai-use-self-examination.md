@@ -19,7 +19,7 @@ confidence: high
 connected_resources: [pressing-prompts]
 reviewed_by: [editor]
 translation_of: resources/pause-ai-use-self-examination
-source_updated: "2026-09-20T13:49:11-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "Автоматический перевод данной английской страницы, не проверенный носителем языка."
 contributors: [editor]
 ai_assist:
@@ -46,4 +46,6 @@ ai_assist:
 Автор — Mahbub Ul Alam (SciLifeLab Data Centre, Uppsala University); обоснование дизайна и пределы валидации описаны в сопроводительном препринте, а исходный код открыт.
 
 ## Связанные концепции
-[[cognitive-offloading]], [[critical-thinking]], [[ai-literacy]], [[self-regulated-learning]], [[metacognition]], [[privacy]]
+
+[[cognitive-offloading]], [[critical-thinking]], [[ai-literacy]], [[self-regulated-learning]], [[metacognition]], [[privacy]], [[cognitive-surrender]]
+

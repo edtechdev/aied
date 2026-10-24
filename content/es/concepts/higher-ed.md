@@ -141,7 +141,7 @@ Una tercera vía endurece la propia tarea: presentar los enunciados como imágen
 - [[assessing-quality-ai-generated-exams-field-2025]] — Evaluar la calidad de los exámenes generados por IA: un estudio de campo a gran escala
 - [[fenton-oral-exams-ai-authentic-assessment-2025]] — Reconsiderar las pruebas orales como evaluación auténtica y resistente a la IA
 - [[roe-assessment-twins-2026]] — Gemelos de evaluación para reforzar la validez de la evaluación en la era de la IA generativa
-- [[student-perceptions-ai-study-productivity-2026]] — Students' Perceptions of Artificial Intelligence Tools for Study Productivity and Learning: An Exploratory Survey Study
+- [[student-perceptions-ai-study-productivity-2026]] — Percepciones del estudiantado sobre las herramientas de inteligencia artificial para la productividad de estudio y el aprendizaje: un estudio exploratorio por encuesta
 - [[stenalt-good-education-teacher-ai-conceptions-2026]] — Estudio fenomenográfico de las concepciones del profesorado universitario sobre la IA
 - [[ai-digital-transformation-liberal-arts-lingnan-2026]] — Transformación digital de una universidad de artes liberales hacia un modelo de intensa actividad investigadora en la era de la IA generativa (Qin 2026)
 - [[alsheikh-mapping-ai-integration-higher-education-2026]] — Revisión sistemática que mapea la integración de la IA en la educación superior mediante los marcos FACETS y SAMR (AlSheikh et al. 2026)

@@ -1,7 +1,7 @@
 ---
 title: La docencia
 created: "2026-09-25T03:07:36-04:00"
-updated: "2026-10-22T09:13:53-04:00"
+updated: "2026-10-24T08:24:35-04:00"
 type: concept
 foundations: [ai-literacy, educational-development, learning-design, teacher-ai-competency]
 pedagogy: [scaffolding]
@@ -11,7 +11,7 @@ level: [k 12, higher ed]
 connected_faqs: [top-10-findings-ai-education-instructors, ai-save-instructor-time, faculty-ai-competencies, faculty-development-ai, asynchronous-online-courses-ai, making-simulated-students-behave-like-learners]
 confidence: high
 translation_of: concepts/teacher-role
-source_updated: "2026-10-15T08:25:00-04:00"
+source_updated: "2026-10-22T12:02:21-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -135,6 +135,7 @@ La integridad académica con IA es un problema de *diseño*, no de vigilancia. E
 - **Usando la declaración y el encuadre.** [[framing-ai-use-for-students|Cómo se enmarca el uso de la IA ante el estudiantado]] (como muleta o como herramienta legítima) determina si lo declaran. Las normas de [[explainable-ai|transparencia]] (por ejemplo, declarar el uso de IA) reducen el incentivo a ocultarlo.
 - **Diseñando para eliminar el incentivo de hacer trampas.** Las evaluaciones auténticas, basadas en el proceso y presenciales (exámenes orales, [[eportfolio|portafolios]], [[problem-solving|resolución de problemas]] observada) hacen que externalizar resulte menos atractivo que las herramientas de detección de IA. Las [[ai-assessment-scale-reform|escalas de evaluación]] y la [[authentic-assessment|evaluación auténtica]] son la alternativa constructiva a las carreras armamentísticas de [[ai-detection|detección]].
 - **La [[regulation|regulación]] a nivel de tarea es como el profesorado gobierna de verdad la IA.** [[chirikov-regulate-ai-syllabi-2026|el estudio de Chirikov (2026)]] sobre más de 31.000 programas de asignaturas muestra que el profesorado actúa cada vez más como *regulador a nivel de tarea* en lugar de aplicar reglas generales: restringe la IA para redactar y revisar (79% de las asignaturas) y para razonar y resolver problemas (65%), la permite para editar y corregir (83%) y para el apoyo al estudio (80%), y deja la ideación y la planificación como lo más disputado (46% la permite y 54% la restringe). Esta diferenciación, construida sobre qué tareas desplaza la IA y cuáles potencia, es una alternativa concreta y liderada por el profesorado a la política de adoptar o prohibir, y da al rol docente un lugar central en la formación de la [[educational-policy-ai|política]].
+- **El personal con contrato temporal carga con la corrección sin el mandato.** Veinte docentes ocasionales, algunos enseñando en tres o más instituciones a la vez, describieron cómo detectaban la mala conducta mediante un oficio no formado mientras no tenían autoridad curricular ni de política ([[sessional-academics-contract-cheating-digital-misconduct-2026|Andriamora y Andriamora, 2026]]).
 
 ## Conectar la docencia con el diseño del aprendizaje
 
@@ -190,42 +191,43 @@ El rol docente y la [[learner-identity|identidad del estudiantado]] son caras re
 
 ## Artículos conectados
 
+- [[sessional-academics-contract-cheating-digital-misconduct-2026]] — El personal académico ocasional asume el trabajo de integridad sin la autoridad
 - [[caeo-navigating-ai-educational-future-scenarios-2026]] — La paradoja de lo más humano: los escenarios expertos para 2030 encuentran que la saturación de la IA intensifica el trabajo pedagógico humano en lugar de desplazarlo (Malyn-Smith et al. 2026)
 - [[teachers-instrumental-orchestration-ai-math-2026]] — Seis clases de matemáticas de secundaria observadas amplían la orquestación instrumental con tres tipos nuevos (Noh y Kim 2026)
 - [[ai-emotional-alerts-teachers-mathematics-classroom-2026]] — Responder a las alertas emocionales generadas por IA: la intervención del profesorado y la implicación del estudiantado en el aula de matemáticas
 
-- [[edustories-classroom-case-studies-2026]] — Edustories: A Collection of Real-world Case Studies from Classroom Practices
-- [[reichert-human-centered-llm-chatbot-design-teachers-2026]] — Teachers design classroom chatbots as bounded experts and retain authority
+- [[edustories-classroom-case-studies-2026]] — Edustories: una colección de estudios de caso reales de prácticas de aula
+- [[reichert-human-centered-llm-chatbot-design-teachers-2026]] — El profesorado diseña chatbots de aula como expertos acotados y conserva la autoridad
 - [[dai-genai-frenemy-teaching-autonomy-2026]] — GenAI as "frenemy": teachers prefer semi-autonomy, usefulness drives adoption, risk aversion targets students' use (Dai et al. 2026)
 - [[ai-supported-lecturer-decision-making-2026]] — AI-Supported Lecturer Decision-Making in Higher Education
-- [[chirikov-regulate-ai-syllabi-2026]] — How instructors regulate AI across 31.000 course syllabi; task-level regulation (Chirikov 2026)
-- [[ai-teaching-innovation-ai-tpack-2026]] — AI teaching innovation behavior among college teachers (AI-TPACK SEM; Bai & Hsieh 2026)
+- [[chirikov-regulate-ai-syllabi-2026]] — Cómo regula el profesorado la IA en 31.000 programas de curso; regulación a nivel de tarea (Chirikov 2026)
+- [[ai-teaching-innovation-ai-tpack-2026]] — Conducta de innovación docente con IA entre profesorado universitario (SEM con AI-TPACK; Bai y Hsieh 2026)
 - [[teacher-ai-teaming-five-levels]]
 - [[teacher-student-agency-orchestration]]
 - [[ai-changing-teaching-workflows]]
 - [[teacher-authored-prompts-student-ai-dialogue]]
-- [[laidlaw-genai-identity-crisis-faculty-2026]] — GenAI as identity crisis, not skills gap
-- [[lodge-loble-cognitive-offloading-2026]] — AI, cognitive offloading and implications for education (Lodge & Loble 2026)
-- [[kibar-ilgaz-ai-instructional-design-review-2026]] — AI and Instructional Design Practice: A Systematic Review (Kibar & Ilgaz 2026)
-- [[lopez-pernas-llm-appropriate-student-support-2026]] — Can AI deliver appropriate support for diverse student profiles? A large-scale evaluation
-- [[bozkurt-ghost-students-agentic-ai-2026]] — Ghost students and agentic AI in assessment
-- [[wang-teacher-ai-co-design-review-2026]] — Teacher–AI co-design of learning tasks: trends and perspectives (Wang et al. 2026)
-- [[farazouli-navigating-uncertainty-teachers-genai-2026]] — University teachers' experiences and perceptions of GAI: vulnerability, rethinking assessment, student learning at risk (Farazouli et al. 2026)
-- [[luo-dawson-value-judgments-grading-2026]] — Value judgments in grading GenAI-assisted work: honesty, trust, validity, and two-way transparency (Luo & Dawson 2026)
+- [[laidlaw-genai-identity-crisis-faculty-2026]] — La IA generativa como crisis de identidad y no como brecha de habilidades
+- [[lodge-loble-cognitive-offloading-2026]] — IA, descarga cognitiva e implicaciones para la educación (Lodge y Loble 2026)
+- [[kibar-ilgaz-ai-instructional-design-review-2026]] — IA y práctica del diseño instruccional: una revisión sistemática (Kibar e Ilgaz 2026)
+- [[lopez-pernas-llm-appropriate-student-support-2026]] — ¿Puede la IA ofrecer un apoyo adecuado a perfiles estudiantiles diversos? Una evaluación a gran escala
+- [[bozkurt-ghost-students-agentic-ai-2026]] — Estudiantes fantasma e IA agéntica en la evaluación
+- [[wang-teacher-ai-co-design-review-2026]] — Codiseño profesorado–IA de tareas de aprendizaje: tendencias y perspectivas (Wang et al. 2026)
+- [[farazouli-navigating-uncertainty-teachers-genai-2026]] — Experiencias y percepciones del profesorado universitario sobre la IA generativa: vulnerabilidad, repensar la evaluación y aprendizaje del estudiantado en riesgo (Farazouli et al. 2026)
+- [[luo-dawson-value-judgments-grading-2026]] — Juicios de valor al calificar trabajo asistido por IA generativa: honestidad, confianza, validez y transparencia bidireccional (Luo y Dawson 2026)
 - [[mejia-domenzain-ml-findings-teachers-blended-2026]] — Making ML findings accessible to teachers in blended classrooms
-- [[li-language-educators-genai-review-2026]] — Language educators' practices and development with GenAI
+- [[li-language-educators-genai-review-2026]] — Prácticas y desarrollo del profesorado de idiomas con IA generativa
 - [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
 - [[breideband-community-builder-cobi-2026]]
 - [[zhuang-zhang-chatgpt-math-teacher-education-2026]]
 - [[xai-teachers-trust-edtech-recommendations-2026]]
 - [[karaismailoglu-ai-lesson-plans-science-experts-2026]]
 - [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]
-- [[ai-integrated-teaching-identity-tensions]] — Identity tensions and principled selectivity in AI-integrated teaching (Adiozaman & Segar 2026)
-- [[teacher-intervention-k12-ai-based-instruction-2026]] — Teacher intervention in K-12 AI-based instruction: a systematic review
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Academic developers as digital mediators: role reconfiguration, affective labor and judgment in South African HDIs
+- [[ai-integrated-teaching-identity-tensions]] — Tensiones identitarias y selectividad fundamentada en la enseñanza integrada con IA (Adiozaman y Segar 2026)
+- [[teacher-intervention-k12-ai-based-instruction-2026]] — La intervención docente en la instrucción con IA en K-12: una revisión sistemática
+- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Desarrolladores académicos como mediadores digitales: reconfiguración de roles, trabajo afectivo y juicio en instituciones sudafricanas históricamente desfavorecidas
 - [[where-ai-enters-teacher-work-2026]] — Where Artificial Intelligence Enters Teacher Work
 - [[rodrigues-aied-unplugged-numeracy-2026]] — AIED unplugged: el profesorado como proxy entre quien aprende y la IA, cuasiexperimento de 19 clases en el que la formación y la reducción indirecta del esfuerzo impulsan las mejoras (Rodrigues et al. 2026)
-- [[instructional-governance-design-computing-education-2026]] — Instructional Governance by Design: A Framework for AI in Computing Education
+- [[instructional-governance-design-computing-education-2026]] — Gobernanza instruccional por diseño: un marco para la IA en la enseñanza de la informática
 
 - [[teachers-configure-educational-chatbots-2026]] — ¿Enseñará como estaba previsto? Cómo configura el profesorado los chatbots educativos de IA
 - [[canonigo-teacher-mediation-generative-ai-mathematics-2026]] — La mediación docente en matemáticas: cinco prácticas de mediación crítica, el desplazamiento de la autoridad y la brecha algorítmica entre la versión gratuita y la premium

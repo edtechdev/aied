@@ -19,7 +19,7 @@ confidence: high
 connected_resources: [edugems]
 reviewed_by: [editor]
 translation_of: resources/teacherserver
-source_updated: "2026-09-22T06:42:37-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
@@ -42,4 +42,4 @@ ai_assist:
 يزعم المشروع خادم ذكاء اصطناعي مُثبَّت محليًا من أجل السرعة وأن البيانات تُعالَج محليًا ولا تُخزَّن أبدًا، بالإضافة إلى امتثال إرشادات وزارة التعليم؛ وتُسمّي [صفحة الفريق](https://teacherserver.com/index-team.php) ظافر أونال، أستاذًا في جامعة جنوب فلوريدا، كمؤسّس ومطوّر، إلى جانب مجلس استشاري من أربعة أعضاء هيئة تدريس من جامعات أخرى. وهذه الادّعاءات لا تزال تستحق التحقّق قبل الاستخدام مع أعمال الطلاب. والوصول يقتضي التسجيل، وهناك منصة مكافئة مدفوعة لاحقًا لبناء أدواتك الخاصة.
 
 ## المفاهيم المرتبطة
-[[generative-ai]]، [[llm]]، [[formative-assessment]]، [[teacher-ai-competency]]، [[online-teaching-and-learning]]
+[[generative-ai]]، [[llm]]، [[formative-assessment]]، [[teacher-ai-competency]]، [[online-teaching-and-learning]]، [[higher-ed]]، [[special-education]]، [[automated-question-generation]]

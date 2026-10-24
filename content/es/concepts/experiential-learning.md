@@ -65,7 +65,7 @@ La experiencia integrada en el trabajo puede ser la condición vinculante para u
 - [[workforce-readiness-smart-manufacturing-wrl-2026]] — Marco de Nivel de Preparación Laboral para la fabricación inteligente en la era de la IA
 - [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Fomentar el aprendizaje sostenible mediante la inteligencia corporeizada (E3-HOT)
 - [[genai-cybersecurity-ocr-multimodal-instruction-2025]] — IA generativa en la educación en ciberseguridad
-- [[bots-blocks-project-based-robotics-education-2026]] — Bots and Blocks
+- [[bots-blocks-project-based-robotics-education-2026]] — Bots y bloques
 - [[edusim-llm-robotic-simulation-education-2026]] — EduSim-LLM
 - [[white-wu-robotics-ai-education-2026]] — Robótica e IA en la educación
 - [[ai-lms-middle-school-longitudinal]] — Estudio longitudinal de un LMS integrado con IA

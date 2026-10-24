@@ -1,7 +1,7 @@
 ---
 title: Aprendizaje autorregulado
 created: "2026-09-25T03:07:36-04:00"
-updated: "2026-10-22T09:13:53-04:00"
+updated: "2026-10-24T08:21:53-04:00"
 type: concept
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
 technology: [generative-ai, llm, personalized-learning]
@@ -11,7 +11,7 @@ audience: [learners]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/self-regulated-learning
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-24T06:38:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 connected_resources: [process-feedback]
 contributors: [editor]
@@ -111,6 +111,8 @@ Las herramientas de IA pueden entrar en este bucle en distintos puntos:
 
 Clasifique antes de delegar: [[scan-framework-task-assignment-generative-ai-2025|Tsim y Gutoreva (2025)]] convierten la autorregulación en un protocolo por tarea —etiquetar cada subtarea como Sustituir, Complementar, Ayudar o No negociable, justificarlo en una breve nota metacognitiva y mantener un rastro de auditoría de prompts, borradores y revisiones humanas—, con el ciclo repitiéndose de modo que la asignación de una tarea informa a la siguiente.
 
+**Cada prompt como traza regulatoria.** Leer 429 prompts de 23 estudiantes como eventos de aprendizaje autorregulado mostró que la mezcla de estructura cambiaba con el diseño de la tarea, mientras que 53 de 59 entregas se mantuvieron cerca de la salida del modelo, lo que sitúa la regulación en el intercambio y no en el artefacto ([[llm-math-homework-offloading-traces-2026|Kontorovich y Wallach (2026)]]).
+
 **La interacción misma como objeto de regulación.** [[brunnstrom-ai-interaction-literacy-srl-2026|Brunnström y Palmqvist (2026)]] documentan la misma exigencia de regulación desde la dirección opuesta: en una demostración de ocho rondas con un chatbot para preparar la respuesta a un [[summative-assessment|examen]] para llevar a casa, la salida por defecto de la IA se mantuvo en el extremo *[[quantitative-research|cuantitativo]]* y multiestructural de la taxonomía SOLO, pulida, lista para entregar y pedagógicamente delgada, y solo alcanzó un bucle de aprendizaje utilizable de tres pasos tras repetidas intervenciones de nivel meta («esto es abrumador, ¿puedes condensarlo?»). Su conclusión es que el uso productivo exigía «las mismas habilidades autorreguladoras que la herramienta debía sostener»: quien aprende debe fijar metas incrementales, solicitar ajustes de dificultad y reflexionar sobre lo que todavía no comprende, además del contenido disciplinar mismo. Dan a esta capacidad el nombre de [[ai-literacy|alfabetización en la interacción con IA]] y tratan desvincularse de la herramienta como una decisión regulatoria legítima y no como un fallo de persistencia ([[metacognition]]).
 
 - **La satisfacción no es autorregulación.** [[aigc-affordance-student-self-regulation-2026|Liang et al. (2026)]] encuestaron a 689 estudiantes de grado en programas de integración industria-educación y probaron un modelo de mediación serial en el que las posibilidades percibidas del contenido generado por IA elevan la [[self-efficacy|autoeficacia]] frente al AIGC (beta = 0,583) y, a través de ella, la [[motivation|motivación]] para aprender (beta = 0,565) y el aprendizaje autorregulado (beta = 0,250), con la motivación como el predictor individual más fuerte del AAR (beta = 0,527). Los resultados negativos que sostienen el argumento conviven con esas rutas: la calidad de la retroalimentación de la evaluación con IA predijo fuertemente la satisfacción (beta = 0,712), pero no la autoeficacia (beta = 0,131), y la satisfacción no tuvo un efecto significativo en el aprendizaje autorregulado (beta = 0,032). Un asistente apreciado y que funciona bien no es, por tanto, evidencia de que la regulación haya mejorado: el mecanismo pasa por la confianza y la motivación, no por la experiencia que quien aprende tiene de la herramienta.
@@ -141,6 +143,8 @@ Por ejemplo:
 - **El uso reflexivo se asocia con el pensamiento crítico, no con la ganancia de conocimiento.** [[melanou-genai-learning-dynamics-longitudinal-2026|Melanou et al. (2026)]] siguieron tres clases paralelas de estudiantes de informática empresarial (N = 87) a lo largo de un curso de nueve semanas, con un aumento del conocimiento en todos los grupos (F(1, 50) = 29,87, p < 0,001, η²p = 0,374) y sin ventaja de la IA, sin interacción Tiempo × Grupo y sin efecto Mateo (F(1, 48) = 2,46, p = 0,124; BF01 = 8,70). El uso reflexivo (comprobar las fuentes y verificar la salida de la IA antes de adoptarla) fue notablemente mayor en la condición con IA (3,72 frente a 2,82; F(1, 40) = 20,21, p < 0,001) y predijo el pensamiento crítico (β = 0,43, p < 0,001), pero no la ganancia de conocimiento, que sí predijo la carga cognitiva pertinente (β = 0,51, p = 0,001). La lectura práctica es que el acceso a la IA no es una intervención en sí mismo y que su rédito metacognitivo aparece antes en la calidad del razonamiento que en las puntuaciones de las pruebas.
 
 - **La estructura, y no la IA por sí sola, impulsa las ganancias de AAR.** Mapear las fases de Zimmerman sobre la instrucción híbrida basada en proyectos con la IA como [[scaffolding|andamiaje metacognitivo]] produjo una N-Ganancia de 0,72 frente a 0,28 para la instrucción convencional (t = 8,47, p < 0,001, [[ai-project-hybrid-learning-self-regulated-2026|Priyambudi et al. (2026)]]), quienes sostienen que la IA fortalece la autorregulación solo dentro de la estructura de la tarea: el uso no estructurado corre el riesgo de provocar pereza metacognitiva.
+
+- **El andamiaje emocional mueve fases del AAR medidas por trazas que el andamiaje cognitivo por sí solo no mueve, y el autoinforme apenas lo capta.** Un experimento prerregistrado con 144 estudiantes de secundaria comparó un ChatGPT simple, un agente de andamiaje del AAR y una versión emocional que preguntaba por los sentimientos en tres momentos y adaptaba el tono y el desafío conforme a la teoría control-valor. La codificación de trazas encontró efectos grandes de condición en las tres fases (ε2 = 0,44 previsión, 0,34 desempeño, 0,34 autorreflexión). Las indicaciones de AAR por sí solas elevaron la fijación de metas y la planificación al nivel de la versión emocional, mientras que la capa emocional añadió más actividad en la fase de desempeño (r = 0,22) y de autorreflexión (r = 0,31). El AAR autoinformado solo separó las condiciones en la fase de desempeño; las correlaciones entre traza y autoinforme fueron de 0,313 allí, 0,22 en la previsión y 0,04 en la autorreflexión. Los autores leen las diferencias de trazas como una puesta en acto corregulada y no como capacidad regulatoria independiente ([[diordiev-emotional-scaffolding-genai-srl-2026|Diordiev, Stenberdt y Makransky, 2026]]).
 
 ## El AAR mediado por LLM: ¿andamiaje, atajo o socio?
 
@@ -174,6 +178,9 @@ Qué apoyo está en juego decide qué mediador carga la asociación: entre 3.003
 - **Tres modos de fallo explican dónde se rompe la transferencia.** (1) La resolución de conceptos en su acepción cotidiana en lugar de la acepción propia del dominio —«cancel» frente al «kürzen» de la química— rompe la clasificación enactiva. (2) La antropomorfización: el estudiantado alemán no familiarizado con un tutor muy andamiado se dirigió a él como a una persona, lo que produjo enunciados fuera de distribución; la transferencia fue mejor en plataformas menos andamiadas. (3) La ambigüedad entre la lectura de pistas y la formulación de planes: los modelos no pueden distinguir la lectura de una pista metacognitiva de la planificación sin datos de registro. Darse cuenta de los errores es robusto en todas las condiciones: notar que uno se equivoca es independiente del contexto. Soluciones: diccionarios de personas expertas o ajuste fino para los términos del dominio; datos de registro para las pistas. ([[borchers-srl-language-generalization-2025]])
 - **Las señales superficiales sobre-atribuyen autorregulación en el mapeo curricular.** Dadas las descripciones de evaluación, GPT-o3-mini leyó las menciones a plazos o a la programación de tareas como evidencia de una habilidad autorreguladora; la Autogestión se sobre-identificó de este modo, con su acuerdo frente a los pesos expertos entre 0,53 y −0,03 ([[genai-curriculum-analytics-mapping-higher-ed-2026|Jayalath et al., 2026]]).
 
+- **La detección a nivel de grupo sigue la misma división, y el habla aporta más que los registros.** En díadas que modelaban el movimiento de un camión en C2STEM, se etiquetaron 394 segmentos de contexto de tarea de 36 estudiantes de secundaria con siete códigos de regulación socialmente compartida y se predijeron a partir de resúmenes del LLM de cada segmento: los embeddings solo de texto alcanzaron un AUC medio de 0,650, mientras que los rasgos derivados de registros por sí solos alcanzaron 0,526, cerca del azar para un constructo en buena medida social. La planificación era invisible dentro de un único segmento (0,5036) y se volvió detectable al concatenar los dos segmentos contiguos (0,6711), mientras que la reflexión fue mejor al añadir los registros (0,5862), la misma ambigüedad entre leer pistas y planificar que esta sección registra para quien aprende individualmente ([[zhang-llm-detection-ssrl-collaborative-modeling-2026|Zhang et al., 2026]]).
+- **Las etiquetas automáticas de AAR se sostienen en la puesta en acto y fallan en la planificación.** En una clase de ciencias de cuarto curso con realidad mixta, una cadena que fusionaba mirada, gesto, habla y registros del juego etiquetó 75 segmentos verificados por personas con un 74,67 % global, desde un 93,3 % en la puesta en acto y la interacción hasta un 46,7 % en la planificación ([[fonteles-embodied-learning-human-in-the-loop-multimodal-2026|Fonteles et al., 2026]]).
+
 ## Conceptos conectados
 
 - [[learners]] — El estudiantado: el paraguas de los conceptos del lado de quien aprende
@@ -199,10 +206,12 @@ Qué apoyo está en juego decide qué mediador carga la asociación: entre 3.003
 - [[cognitive-surrender]]
 
 ## Artículos conectados
+- [[fonteles-embodied-learning-human-in-the-loop-multimodal-2026]] — Precisión por categoría del AAR segmentado por LLM en un aula corporal (Fonteles et al. 2026)
+- [[llm-math-homework-offloading-traces-2026]] — Lo que la entrega no muestra: la descarga cognitiva complejizadora en el trabajo matemático del estudiantado con LLM (Kontorovich y Wallach 2026)
 - [[genai-curriculum-analytics-mapping-higher-ed-2026]] — Sobre-atribución por parte del modelo de la autorregulación a partir de señales superficiales en el mapeo curricular (Jayalath et al. 2026)
 - [[borchers-srl-language-generalization-2025]] — Los grandes modelos de lenguaje generalizan la predicción del AAR a nuevos idiomas dentro de un mismo dominio, pero no entre dominios (Borchers et al. 2025)
 - [[ai-project-hybrid-learning-self-regulated-2026]] — Un modelo de aprendizaje híbrido basado en proyectos que utiliza la inteligencia artificial para mejorar el aprendizaje autorregulado del estudiantado
-- [[aigc-affordance-student-self-regulation-2026]] — AIGC Affordance and Student Self-Regulation
+- [[aigc-affordance-student-self-regulation-2026]] — Afordancias de la IA generativa de contenidos y autorregulación del estudiantado
 - [[brunnstrom-ai-interaction-literacy-srl-2026]] — Alfabetización en la interacción con IA: dirigir un chatbot exigía el AAR que debía sostener (Brunnström y Palmqvist 2026)
 - [[5p-reflection-model-genai-2026]] — El modelo de reflexión 5P para la era de la IA generativa (Kadel et al. 2026)
 - [[layer-sensitive-cognitive-offloading-writing-2026]] — La descarga cognitiva sensible a las capas en la escritura asistida por IA generativa (Chen 2026)
@@ -222,7 +231,7 @@ Qué apoyo está en juego decide qué mediador carga la asociación: entre 3.003
 - [[decreasing-digital-distraction-college-online-learning-2026]] — El AAR y una menor distracción digital en el aprendizaje en línea (Shi et al. 2026)
 - [[mejia-domenzain-ml-findings-teachers-blended-2026]] — Hacer accesibles al profesorado los hallazgos del aprendizaje automático en aulas semipresenciales
 - [[scan-framework-task-assignment-generative-ai-2025]] — SCAN: un bucle orientado a quien aprende para identificar la tarea, justificarla y reflexionar después
-- [[learning-analytics-genai-secondary-writing-2026]] — Using Learning Analytics to Support Secondary School Students' Writing with Generative AI
+- [[learning-analytics-genai-secondary-writing-2026]] — Uso de analíticas de aprendizaje para apoyar la escritura del alumnado de secundaria con IA generativa
 - [[alatoai-ai-learning-environments-self-regulation-2026]] — Un instrumento validado para la autorregulación apoyada por IA en el aprendizaje adaptativo en STEM, con la conciencia metacognitiva como el predictor más fuerte
 - [[iqbal-human-genai-support-essay-revision-2026]] — La condición de apoyo, y no el juicio metacognitivo, decidió la elección de estrategia de revisión en un experimento de revisión de ensayos
 - [[melanou-genai-learning-dynamics-longitudinal-2026]] — Estudio longitudinal: el uso reflexivo de la IA predijo el pensamiento crítico, pero no la ganancia de conocimiento, sin efecto Mateo

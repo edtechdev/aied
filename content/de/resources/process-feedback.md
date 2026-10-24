@@ -1,7 +1,7 @@
 ---
 title: "Process Feedback"
 created: "2026-09-23T17:45:00-04:00"
-updated: "2026-10-10T09:50:22-04:00"
+updated: "2026-10-24T08:38:48-04:00"
 type: resource
 summary: "Eine kostenlose, prozessbasierte Alternative zur KI-Erkennung: Sie erfasst, wie ein Text entstanden ist, und macht daraus einen Bericht für ein Gespräch über das Lernen statt ein Urteil."
 url: https://processfeedback.org/
@@ -17,7 +17,7 @@ level: [higher ed, k 12]
 confidence: high
 connected_resources: [pause-ai-use-self-examination]
 translation_of: resources/process-feedback
-source_updated: "2026-09-23T17:45:00-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -45,4 +45,5 @@ Es zielt auf einzelne Lehrkräfte und Lernende, die es ohne institutionelle Vere
 
 ## Verbundene Konzepte
 
-[[academic-integrity]], [[metacognition]], [[writing-education]], [[self-regulated-learning]], [[formative-assessment]]
+[[academic-integrity]], [[metacognition]], [[writing-education]], [[self-regulated-learning]], [[formative-assessment]], [[ai-detection]], [[process-oriented-assessment]]
+

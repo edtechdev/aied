@@ -1,7 +1,7 @@
 ---
 title: Educación en física
 created: "2026-09-28T20:10:55-04:00"
-updated: "2026-10-22T07:31:04-04:00"
+updated: "2026-10-24T08:21:18-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [socratic-method]
@@ -11,7 +11,7 @@ audience: [learners, instructors]
 level: [higher ed]
 confidence: high
 translation_of: concepts/physics-education
-source_updated: "2026-10-21T12:05:00-04:00"
+source_updated: "2026-10-23T08:03:41-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -49,6 +49,8 @@ La [[research-methods-aied|investigación]] sobre educación en física se ha co
 **La adopción y la confianza del estudiantado en la IA** explora cómo usa realmente el estudiantado de física las herramientas de IA. **[[fouad-bentley-trust-utility-gap-physics-2026|Fouad y Bentley]]** encontraron una brecha de 50 puntos entre confianza y utilidad: el 91% usa la IA para el trabajo de curso, pero solo el 41% confía en ella, y el estudiantado identificó espontáneamente modos de fallo de la IA en el razonamiento visual-espacial y en los circuitos. **[[becker-chatgpt-typology-physics-2026|Becker et al.]]** desarrollaron una tipología de dos perfiles —70% «usuarios pragmáticos» y 30% «no usuarios escépticos»— a partir de 1.189 respuestas de encuesta, mostrando que ambos grupos hacen concesiones calculadas entre riesgo y utilidad. Estos estudios hacen avanzar la investigación sobre [[ai-literacy|alfabetización en IA]] y [[trust-calibration|calibración de la confianza]], y cuestionan las [[educational-policy-ai|políticas de IA]] uniformes para todos.
 
 **Las creencias epistemológicas se corresponden con la preferencia de comportamiento del chatbot.** En un curso grande basado en cálculo, el 52% del estudiantado prefirió un chatbot que comenzara con indagación guiada y respondiera solo cuando se le preguntara, y obtuvo puntuaciones más altas en el total de EBAPS (p = 0,029) —diferencias que no sobrevivieron a una corrección de Bonferroni, lo que hace que la asociación sea sugerente y no concluyente— ([[physics-chatbot-epistemological-beliefs-2026|Sirnoorkar y Mamidpalliwar (2026)]]).
+
+La aceptación se ha modelado ya, y no solo descrito: un estudio de ecuaciones estructurales con 340 estudiantes de clases de física de décimo curso en Hangzhou explica el 58% de la varianza en la intención de usar DeepSeek. Su resultado destacable es que las creencias sobre la física (el valor de utilidad, la expectativa, el coste) predicen cuán útil y cuán fácil parece la herramienta, y no solo si el estudiantado tiene intención de usarla ([[high-school-genai-acceptance-tam-physics-2026|Xue, Xu, Qi y Lu (2026)]]).
 
 **Cambio de percepción sin cambio de conducta** es lo que [[physics-students-llm-perceptions-instruction-2026|O'Brien et al. (2026)]] añaden a este panorama. Una lección reflexiva sobre cómo funcionan los LLM, impartida en un curso obligatorio de primer año para estudiantes de física, elevó notablemente el escepticismo —el acuerdo con que los LLM pueden dejar al estudiantado con una falsa sensación de confianza subió del 58% al 88%, y la creencia de que un LLM supera al estudiante medio de física bajó del 54% al 32%—, mientras que la comodidad (71% de acuerdo) y la presión de los plazos (65%) siguieron siendo los motivos dominantes de uso. Los límites de la lección son tan informativos como su efecto: la enseñanza de [[ai-literacy|alfabetización en IA]] cambió lo que el estudiantado decía sobre estas herramientas y no las presiones que le llevan a recurrir a una, y por eso una intervención de este tipo acompaña al diseño de problemas y políticas en lugar de sustituirlo.
 
@@ -123,6 +125,7 @@ La educación en física se sitúa dentro del dominio más amplio de la [[stem-e
 
 ## Artículos conectados
 
+- [[high-school-genai-acceptance-tam-physics-2026]] — La aceptación de la IA generativa modelada en física de décimo curso
 - [[genai-video-engineering-physics-workflow-2026]] — De los prompts a las leyes físicas: un flujo de trabajo con IA generativa para la educación en física de ingeniería
 - [[wang-teacher-student-centered-agents-physics-2026]] — Agentes de física diseñados por prompt centrados en el docente frente a centrados en el estudiante (Wang et al. 2026)
 - [[omniphys-multimodal-physics-benchmark-2026]]

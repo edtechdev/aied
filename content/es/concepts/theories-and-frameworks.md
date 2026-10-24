@@ -1,7 +1,7 @@
 ---
 title: Teorías y marcos
 created: "2026-09-28T18:22:10-04:00"
-updated: "2026-10-22T09:13:53-04:00"
+updated: "2026-10-24T08:21:10-04:00"
 type: concept
 foundations: [ai-education, theory-development-aied, philosophy-of-ai-in-education]
 pedagogy: [learning-theories]
@@ -9,7 +9,7 @@ assessment: [assessment-validity, item-response-theory]
 methods: [research-methods-aied]
 confidence: high
 translation_of: concepts/theories-and-frameworks
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-23T09:49:58-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -49,6 +49,7 @@ Estas explican mecanismos: nombran las piezas que hacen el trabajo y predicen qu
 - **[[self-determination-theory|Teoría de la autodeterminación]]** — autonomía, competencia y relación como precondiciones motivacionales. Suele ser la explicación que se ofrece cuando el uso de IA eleva la implicación sin elevar el aprendizaje.
 - **[[cognitive-psychology|Cognitivismo]]** — procesamiento de información, memoria de trabajo y la divergencia entre la sensación de aprender y el aprendizaje real.
 - **Teoría de la percepción social (calidez y competencia)** — importada de la cognición social y de la investigación en robots de servicio, enmarca cómo juzga quien usa un agente de IA su credibilidad: la competencia percibida predijo directamente la credibilidad de la retroalimentación de ChatGPT, mientras que la calidez operó solo a través de la empatía similar a la humana (SEM, 230 estudiantes; [[chatgpt-feedback-credibility-perceived-learning|Pérez-López et al. (2026)]]).
+- **Se propuso una cuarta categoría de posibilidades, sin ponerla a prueba.** Al codificar 24 estudios con un esquema de posibilidades de tres partes, quienes revisaron encontraron que la implicación, la seguridad y la autoeficacia no encajaban en las categorías tecnológica, pedagógica o social, y propusieron posibilidades emocionales fundamentadas en el determinismo recíproco de Bandura ([[genai-chatbots-language-learning-affordances-review-2026|Lopez y Arabadzhy (2026)]]).
 
 ## Modelos de quien aprende y del proceso de aprendizaje
 
@@ -130,6 +131,7 @@ La alineación entre mecanismo y teoría puede ser, aun así, decisiva: una sín
 - [[research-methods-aied]] — cómo se pone a prueba la teoría
 
 ## Artículos conectados
+- [[genai-chatbots-language-learning-affordances-review-2026]] — Las posibilidades emocionales propuestas como cuarta categoría de una taxonomía de posibilidades
 - [[ai-game-based-learning-systematic-review-2026]] — La alineación entre mecanismo y teoría, y no la sofisticación algorítmica, determinó la eficacia en 55 estudios sobre aprendizaje basado en juegos con IA
 
 - [[rismanchian-ai-education-four-decades-aixed-2026]] — cuatro décadas de AIED a través del marco IA×Ed

@@ -18,7 +18,7 @@ confidence: high
 connected_resources: [drawsplat, lesson-md, edugems]
 reviewed_by: [editor]
 translation_of: resources/id-toolbox
-source_updated: "2026-09-20T13:49:11-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
@@ -41,4 +41,6 @@ ai_assist:
 Curt Zilbersher, שמתכנן הדרכת ארגון כבר עשרים ושמונה שנים, מתאר את אותה קבוצה קטנה של בעיות בלתי-פתורות החוזרות לאורך הקריירה שלו — ספירת מילות קריינות, מציאת הנכס שדחף קורס מעבר למגבלת [[edtech-platform|LMS]], ביקור ידני של כיסוי הכתוביות — והוא בונה את הפתרונות ונותן אותם חינם. האתר מנהל גם סקר שנתי חופשי על כיצד עיצובי הוראה מבלים למעשה את השבוע שלהם.
 
 ## מושגים מקושרים
-[[learning-design]], [[online-teaching-and-learning]], [[formative-assessment]], [[educational-technology-developers]]
+
+[[learning-design]], [[online-teaching-and-learning]], [[formative-assessment]], [[educational-technology-developers]], [[accessibility]]
+

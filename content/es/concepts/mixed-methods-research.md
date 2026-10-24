@@ -81,5 +81,5 @@ Los métodos mixtos se sitúan entre las tradiciones [[quantitative-research|cua
 - [[genai-feedback-design-multisite-experiment]] — Diseño de retroalimentación con IA generativa centrado en las personas (multisitio)
 - [[hazra-safetutors-pedagogical-safety-2026]] — Seguridad de los tutores de IA y daños pedagógicos
 - [[becker-chatgpt-typology-physics-2026]] — Una tipología cualitativa de la adopción de ChatGPT en física
-- [[edtech-privacy-deferral-2026]] — «We'll Fix It Later»: Education, AI, and the Deferral of Student Privacy in EdTech
+- [[edtech-privacy-deferral-2026]] — «Ya lo arreglaremos después»: educación, IA y la postergación de la privacidad del estudiantado en las tecnologías educativas
 - [[bluesky-aied-discourse-social-media-analysis-2026]] — VADER y un RoBERTa ajustado asignaron valencias opuestas a la misma publicación de Bluesky (Geraili Meykola et al., 2026)

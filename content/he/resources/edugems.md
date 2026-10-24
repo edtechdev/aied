@@ -18,7 +18,7 @@ confidence: high
 connected_resources: [teacherserver, id-toolbox]
 reviewed_by: [editor]
 translation_of: resources/edugems
-source_updated: "2026-09-20T13:49:11-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
@@ -39,4 +39,4 @@ ai_assist:
 נאסף על ידי Eric Curts, המפרסם את סרטון ההדרכה הנלווה, את הניוזלטר ומשאבי הטכנולוגיה-החינוכית הרחבים יותר ב-Control Alt Achieve. הכנת עותק של Gem דורשת חשבון Google, ותנאי Gemini באים איתו, ולכן זו ספרייה להערכה לפני הפניית סטודנטים אליה, לא כלי שניתן להשתמש בו באופן אנונימי.
 
 ## מושגים מחוברים
-[[prompt-engineering|הנדסת הנחיות]], [[generative-ai|בינה מלאכותית יוצרת]], [[ai-literacy|אוריינות AI]], [[learning-design|עיצוב למידה]], [[online-teaching-and-learning|הוראה ולמידה מקוונות]]
+[[prompt-engineering|הנדסת הנחיות]], [[generative-ai|בינה מלאכותית יוצרת]], [[ai-literacy|אוריינות AI]], [[learning-design|עיצוב למידה]], [[online-teaching-and-learning|הוראה ולמידה מקוונות]], [[teacher-ai-competency|כושר AI של המורה]]

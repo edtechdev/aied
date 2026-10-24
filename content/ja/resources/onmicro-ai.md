@@ -1,7 +1,7 @@
 ---
 title: "OnMicro.AI"
 created: "2026-10-10T21:54:25-04:00"
-updated: "2026-10-10T21:54:25-04:00"
+updated: "2026-10-24T08:38:48-04:00"
 type: resource
 summary: "教育者が焦点を絞った AI アプリを作成し、リンクで公開し、LTI を通じて LMS に埋め込み、学生がどのように使っているかを確認できるノーコードビルダー。"
 url: https://onmicro.ai/
@@ -19,7 +19,7 @@ level: [higher ed]
 confidence: high
 connected_resources: [vibes-diy]
 translation_of: resources/onmicro-ai
-source_updated: "2026-09-23T17:45:00-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -46,4 +46,6 @@ ai_assist:
 無料枠は AI クレジット 10,000 とアプリ 3 件に制限されています。無制限のアプリと高度なモデルは Pro 枠から始まり、LTI 連携、シングルサインオン、高度な分析は Enterprise 枠に位置づけられているため、教育機関が最も必要とする機能こそが有料のものです。リポジトリは `LICENSE` ファイルに基づき **AGPL-3.0** でライセンスされていますが、これは自己ホストや改変を意図する人にとって重要な点であり、README にはその変更前の LGPL という記述が残っているため、README ではなくライセンスファイルを読む必要があります。教育機関はまた、学生の提出物をホスト型の外部サービスに通す前に、自らのデータ処理条件を確認すべきです。
 
 ## 関連する概念
-[[teacher-ai-competency]], [[learning-design]], [[open-source]], [[intelligent-tutoring]], [[scaffolding]]
+
+[[teacher-ai-competency]], [[learning-design]], [[open-source]], [[intelligent-tutoring]], [[scaffolding]], [[ai-literacy]], [[edtech-platform]]
+

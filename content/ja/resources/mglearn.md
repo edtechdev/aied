@@ -1,7 +1,7 @@
 ---
 title: "mglearn Classroom Resources"
 created: "2026-10-10T21:54:25-04:00"
-updated: "2026-10-10T21:54:25-04:00"
+updated: "2026-10-24T08:38:48-04:00"
 type: resource
 summary: "TCEA による、ブラウザベースの教室活動スイートと印刷可能な教材を大規模に無料提供するコレクション。生成 AI リテラシーとデジタルシチズンシップのモジュールを含みます。"
 url: https://mglearn.github.io/
@@ -20,7 +20,7 @@ discipline: [language learning]
 confidence: high
 connected_resources: [pressing-prompts]
 translation_of: resources/mglearn
-source_updated: "2026-09-23T17:45:00-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -47,4 +47,6 @@ K-12 の教師と、その教師を育成する専門的な研修の担い手を
 コンテンツは CC BY-NC 4.0、基盤となるコードは MIT でライセンスされています。出典を明記すれば、教室での利用、ローカルホスティング、翻案は認められていますが、教材を販売したり有料研修に組み込んだりするには TCEA の書面による許可が必要です。他者が作成した著作物はライセンスの対象外であり、読書活動は著作権で保護された作品の本文を一切複製していません。プロジェクトは、コンテンツと翻訳が編集者のレビューを経た生成 AI によって作成されたこと、翻訳は機械支援によるもので教室での使用前に地域の教育者によるレビューが求められることを明示しており、学区が大規模に採用する前にはこの点を真剣に受け止める価値があります。すべての活動は学生のブラウザ上で動作し、ログインもデータ収集もありません。
 
 ## 関連する概念
-[[ai-literacy]], [[inclusive-learning]], [[multilingual-learning]], [[teacher-ai-competency]]
+
+[[ai-literacy]], [[inclusive-learning]], [[multilingual-learning]], [[teacher-ai-competency]], [[language-learning]]
+

@@ -1,7 +1,7 @@
 ---
 title: "PAUSE：AI 活用パターンの自己内省"
 created: "2026-10-10T21:52:22-04:00"
-updated: "2026-10-10T21:52:22-04:00"
+updated: "2026-10-24T08:38:48-04:00"
 type: resource
 summary: "AI に何を委ねているかを調べる、ブラウザだけで完結する 10 分間の自己診断。各項目は背後にある研究論文に由来します。"
 url: https://anondo1969.github.io/pause/
@@ -19,7 +19,7 @@ audience: [learners, instructors, researchers]
 confidence: high
 connected_resources: [pressing-prompts]
 translation_of: resources/pause-ai-use-self-examination
-source_updated: "2026-09-20T13:49:11-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -46,4 +46,6 @@ ai_assist:
 Mahbub Ul Alam（SciLifeLab Data Centre, Uppsala University）によって書かれました。設計の根拠と検証の限界は付随するプレプリントに記述されており、ソースコードは公開されています。
 
 ## 関連する概念
-[[cognitive-offloading]], [[critical-thinking]], [[ai-literacy]], [[self-regulated-learning]], [[metacognition]], [[privacy]]
+
+[[cognitive-offloading]], [[critical-thinking]], [[ai-literacy]], [[self-regulated-learning]], [[metacognition]], [[privacy]], [[cognitive-surrender]]
+

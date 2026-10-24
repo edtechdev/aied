@@ -1,7 +1,7 @@
 ---
 title: "Vibes DIY"
 created: "2026-09-23T17:45:00-04:00"
-updated: "2026-10-09T19:11:14-04:00"
+updated: "2026-10-24T08:38:48-04:00"
 type: resource
 summary: "一个用大白话构建应用的工具：用文字描述一个小工具，就能得到一个可用的、可分享的 Web 应用，其底层的 React 包与 CLI 以 Apache-2.0 许可发布。"
 url: https://vibes.diy/
@@ -19,7 +19,7 @@ level: [higher ed, k 12]
 confidence: high
 connected_resources: [onmicro-ai]
 translation_of: resources/vibes-diy
-source_updated: "2026-09-23T17:45:00-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -46,4 +46,6 @@ ai_assist:
 该平台有免费档，但它是基于额度的：账号每月获得 1,000 个 AI 额度，构建、编辑、生成图片和应用内的 AI 功能都会消耗额度。订阅可以额外购买额度，这些额度不会过期。任何打算依赖该平台的课程都应查看当前条款，因为免费用量是计量的，而不是无限的，并且应把学生创建的应用视为自带数据处理问题的内容。
 
 ## 关联概念
-[[ai-literacy]], [[open-source]], [[design-thinking]], [[constructivist]], [[learning-design]]
+
+[[ai-literacy]], [[open-source]], [[design-thinking]], [[constructivist]], [[learning-design]], [[vibe-coding]]
+

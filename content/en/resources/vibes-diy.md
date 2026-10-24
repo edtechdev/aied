@@ -1,7 +1,7 @@
 ---
 title: "Vibes DIY"
 created: "2026-09-23T17:45:00-04:00"
-updated: "2026-09-23T17:45:00-04:00"
+updated: "2026-10-24T08:37:08-04:00"
 type: resource
 summary: "A plain-language app builder: describe a small tool in words and get a working, shareable web app, with the underlying React packages and CLI released under Apache-2.0."
 url: https://vibes.diy/
@@ -42,4 +42,6 @@ It is a general-purpose builder rather than an education product: it is useful t
 The platform has a free tier but it is credit-based: accounts get 1,000 AI credits a month, and building, editing, generating images, and in-app AI features all spend them. A subscription adds the option to buy more credits, which do not expire. Any course that intends to rely on the platform should check the current terms, since free usage is metered rather than unlimited, and should treat student-created apps as content with data-handling questions of its own.
 
 ## Connected Concepts
-[[ai-literacy]], [[open-source]], [[design-thinking]], [[constructivist]], [[learning-design]]
+
+[[ai-literacy]], [[open-source]], [[design-thinking]], [[constructivist]], [[learning-design]], [[vibe-coding]]
+

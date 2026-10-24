@@ -1,8 +1,8 @@
 ---
 title: "Process Feedback"
 created: "2026-09-27T03:01:03-04:00"
-updated: "2026-09-27T03:01:03-04:00"
-source_updated: "2026-09-23T17:45:00-04:00"
+updated: "2026-10-24T08:38:48-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 type: resource
 summary: "Una alternativa gratuita y basada en el proceso frente a la detección de IA: registra cómo se produjo un texto y lo convierte en un informe para una conversación sobre el aprendizaje, más que en un veredicto."
 url: https://processfeedback.org/
@@ -44,4 +44,6 @@ Está dirigido al profesorado y al estudiantado de forma individual, que pueden 
 La versión gratuita cubre los flujos de trabajo individuales de aula; los precios institucionales existen por separado y están vinculados al alcance del despliegue, el tratamiento de datos, el soporte y el cumplimiento normativo, y no a un cargo por estudiante o por docente. Como un informe muestra un proceso y no una intención, copiar y pegar por sí solo no es una falta de conducta: la propia guía del proyecto señala que un estudiante puede estar pegando su propio texto anterior y que no se debe penalizar al estudiantado solo por pegar. Las cifras de adopción y la calificación de 5,0 en Chrome Web Store son el propio marketing del proyecto; las reseñas en una tienda de extensiones no son evidencia independiente de mejoras en el aprendizaje. Lea los informes como evidencia para una conversación, que es como está diseñada la herramienta y como la describe su desarrollador.
 
 ## Conceptos conectados
-[[academic-integrity]], [[metacognition]], [[writing-education]], [[self-regulated-learning]], [[formative-assessment]]
+
+[[academic-integrity]], [[metacognition]], [[writing-education]], [[self-regulated-learning]], [[formative-assessment]], [[ai-detection]], [[process-oriented-assessment]]
+

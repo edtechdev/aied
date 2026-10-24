@@ -1,7 +1,7 @@
 ---
 title: "DrawSplat"
 created: "2026-09-27T03:01:03-04:00"
-updated: "2026-09-27T03:01:03-04:00"
+updated: "2026-10-24T08:38:48-04:00"
 type: resource
 summary: "Una plataforma gratuita de navegador con pequeñas herramientas didácticas: pizarra, hojas de cálculo, diapositivas, documentos, listas, mapas conceptuales, cuestionarios, gráficos, imágenes y vídeo."
 url: https://drawsplat.org/
@@ -18,7 +18,7 @@ level: [k 12]
 audience: [instructors, learners]
 confidence: high
 connected_resources: [id-toolbox]
-source_updated: "2026-09-22T04:25:00-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_of: resources/drawsplat
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
@@ -47,4 +47,6 @@ Profesorado y estudiantado que necesitan una herramienta con rapidez y no pueden
 El sitio del producto no nombra a ningún autor individual y dirige las solicitudes a un buzón del proyecto; DrawSplat lo construye Miguel Guhlin, cuyo sitio documenta sus lanzamientos. El código es libre en el sentido de la licencia, y no solo en el del precio: la pizarra es GNU AGPL-3.0-or-later y las aplicaciones SplatWorks son GPL-3.0-only, sin licencia por puesto en los dispositivos del estudiantado. Las herramientas que leen sus archivos se ejecutan localmente en el navegador, mientras que el guardado en la nube y cualquier solicitud de aprendizaje profesional sí envían datos, así que consulte la página del inventario de almacenamiento antes de usarla con trabajos del estudiantado.
 
 ## Conceptos conectados
-[[visualization]], [[multimodal]], [[formative-assessment]], [[project-based-learning]]
+
+[[visualization]], [[multimodal]], [[formative-assessment]], [[project-based-learning]], [[accessibility]], [[privacy]]
+

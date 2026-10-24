@@ -132,4 +132,4 @@ El apoyo estudiantil se conecta con [[student-experience]] como su contraparte o
 - [[ai-campus-wellbeing-tools]] — apoyo al bienestar en el campus entre la prevención y la intervención
 - [[coursegraph-cs-course-comparison-2026]] — equivalencia de cursos para el reconocimiento de créditos y la movilidad
 - [[credentials-carry-evidence-ai-agents-2026]] — qué significa un registro de finalización cuando un agente puede hacer el trabajo
-- [[akcapinar-ai-cheating-risk-lms-prediction-2026]] — Akçapınar (2026) — Predicting AI-assisted cheating risk early, and the threshold trade-off for low-stakes outreach
+- [[akcapinar-ai-cheating-risk-lms-prediction-2026]] — Akçapınar (2026) — Predicción temprana del riesgo de trampa asistida por IA y el equilibrio de umbrales para la intervención de bajo riesgo

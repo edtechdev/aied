@@ -1,7 +1,7 @@
 ---
 title: "OnMicro.AI"
 created: "2026-09-23T17:45:00-04:00"
-updated: "2026-09-23T17:45:00-04:00"
+updated: "2026-10-24T08:38:48-04:00"
 type: resource
 summary: "Um construtor sem código que permite educadores criar aplicativos de IA focados, publicá-los por link, embuti-los em um LMS via LTI e ver como os estudantes os usam."
 url: https://onmicro.ai/
@@ -19,7 +19,7 @@ level: [higher ed]
 confidence: high
 connected_resources: [vibes-diy]
 translation_of: resources/onmicro-ai
-source_updated: "2026-09-23T17:45:00-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -46,4 +46,6 @@ Serve a instrutores e designers de aprendizagem que querem interações delimita
 O nível gratuito é limitado a 10.000 créditos de IA e três aplicativos; aplicativos ilimitados e modelos avançados começam no nível Pro, e integração LTI, single sign-on e análises avançadas estão listadas no nível Enterprise, então as funcionalidades de que uma instituição mais precisa são as que vêm com preço. O repositório está licenciado sob **AGPL-3.0** conforme seu arquivo `LICENSE`, o que importa para quem pretende auto-hospedá-lo ou modificá-lo, e seu README ainda diz LGPL de antes dessa mudança, então leia o arquivo de licença em vez do README. Instituições também devem confirmar seus próprios termos de processamento de dados antes de rotear trabalho de estudantes por um serviço de terceiros hospedado.
 
 ## Recursos conectados
-[[teacher-ai-competency]], [[learning-design]], [[open-source]], [[intelligent-tutoring]], [[scaffolding]]
+
+[[teacher-ai-competency]], [[learning-design]], [[open-source]], [[intelligent-tutoring]], [[scaffolding]], [[ai-literacy]], [[edtech-platform]]
+

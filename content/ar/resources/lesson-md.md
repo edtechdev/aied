@@ -18,7 +18,7 @@ confidence: high
 connected_resources: [id-toolbox, liascript]
 reviewed_by: [editor]
 translation_of: resources/lesson-md
-source_updated: "2026-09-20T13:49:11-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
@@ -39,4 +39,6 @@ ai_assist:
 مصمّمو التعليم ومنشئو المقررات الذين يريدون لمحتواهم أن ينجو من تغيّر أداة، وبائعو التعلّم الإلكتروني الذين يريدون صيغة استيراد وتصدير يفهمها مستخدمونهم بالفعل، وأي أحد يبني تأليفًا معانًا بالذكاء الاصطناعي على صيغة قابلة للقراءة. ومن المساهمين Dan Bashaw من LXD Integral، وللصيغة سجل تغييرات عام حتى الإصدار v1.8.
 
 ## Connected Concepts
-[[learning-design]], [[open-source]], [[online-teaching-and-learning]], [[multimodal]], [[educational-technology-developers]]
+
+[[learning-design]], [[open-source]], [[online-teaching-and-learning]], [[multimodal]], [[educational-technology-developers]], [[assessment]], [[edtech-platform]]
+

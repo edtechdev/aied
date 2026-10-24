@@ -1,7 +1,7 @@
 ---
 title: "OnMicro.AI"
 created: "2026-09-23T17:45:00-04:00"
-updated: "2026-09-23T17:45:00-04:00"
+updated: "2026-10-24T08:37:08-04:00"
 type: resource
 summary: "A no-code builder that lets educators make focused AI apps, publish them by link, embed them in an LMS through LTI, and see how students use them."
 url: https://onmicro.ai/
@@ -42,4 +42,6 @@ It suits instructors and learning designers who want bounded, repeatable interac
 The free tier is limited to 10,000 AI credits and three apps; unlimited apps and advanced models start at the Pro tier, and LTI integration, single sign-on, and advanced analytics are listed at the Enterprise tier, so the features an institution most needs are the ones that carry a price. The repository is licensed **AGPL-3.0** according to its `LICENSE` file, which matters for anyone intending to self-host or modify it, and its README still says LGPL from before that change, so read the license file rather than the README. Institutions should also confirm their own data-processing terms before routing student work through a hosted third-party service.
 
 ## Connected Concepts
-[[teacher-ai-competency]], [[learning-design]], [[open-source]], [[intelligent-tutoring]], [[scaffolding]]
+
+[[teacher-ai-competency]], [[learning-design]], [[open-source]], [[intelligent-tutoring]], [[scaffolding]], [[ai-literacy]], [[edtech-platform]]
+

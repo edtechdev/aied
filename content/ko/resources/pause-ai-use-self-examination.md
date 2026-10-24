@@ -1,7 +1,7 @@
 ---
 title: "PAUSE: AI 사용 패턴 자기 점검"
 created: "2026-09-20T13:49:11-04:00"
-updated: "2026-09-20T13:49:11-04:00"
+updated: "2026-10-24T08:38:48-04:00"
 type: resource
 summary: "AI에 무엇을 위임하는지 살펴보는 10분 분량의 브라우저 전용 자기 점검으로, 모든 문항이 그 배경이 된 연구 논문에 연결되어 있습니다."
 url: https://anondo1969.github.io/pause/
@@ -19,7 +19,7 @@ audience: [learners, instructors, researchers]
 confidence: high
 connected_resources: [pressing-prompts]
 translation_of: resources/pause-ai-use-self-examination
-source_updated: "2026-09-20T13:49:11-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -47,4 +47,5 @@ Mahbub Ul Alam(SciLifeLab Data Centre, 웁살라 대학교)이 작성했습니�
 
 ## 연결된 개념
 
-[[cognitive-offloading]], [[critical-thinking]], [[ai-literacy]], [[self-regulated-learning]], [[metacognition]], [[privacy]]
+[[cognitive-offloading]], [[critical-thinking]], [[ai-literacy]], [[self-regulated-learning]], [[metacognition]], [[privacy]], [[cognitive-surrender]]
+

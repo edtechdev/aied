@@ -1,7 +1,7 @@
 ---
 title: Evaluación oral
 created: "2026-09-28T21:03:34-04:00"
-updated: "2026-10-22T07:28:08-04:00"
+updated: "2026-10-24T08:21:18-04:00"
 connected_faqs: [redesign-assessment-ai-era, ai-feedback-at-scale]
 type: concept
 foundations: [academic-integrity, critical-thinking]
@@ -12,8 +12,9 @@ ethics: [trust]
 audience: [instructors, administrators]
 level: [higher ed]
 confidence: medium
+connected_resources: [code-viva]
 translation_of: concepts/oral-assessment
-source_updated: "2026-10-17T03:49:06-04:00"
+source_updated: "2026-10-23T09:49:58-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -58,6 +59,8 @@ Los formatos del corpus abarcan una amplia gama de automatización y sincronía,
 
 **La evidencia oral como defensa y no como examen.** [[tool-invariant-framework-agentic-ai|Un marco de evaluación invariable respecto a la herramienta]] combina pruebas en clase sin IA con defensas orales de diez minutos de trabajos asistidos por IA a los que se han quitado los comentarios, puntuadas por comprensión del código, entendimiento del método, terminología, interpretación y verificación, con la verificación exigida para aprobar independientemente del total. El diseño se argumenta más que se valida; la propia aritmética del artículo para quince estudiantes son dos horas y media de contacto por tarea y unas veintiocho horas de contacto por semestre repartidas en once tareas defendidas.
 
+El formato de interacción decide qué puede certificar una tarea de habla mediada por IA. Las tareas de diálogo del Duolingo English Test, 713 de ellas en el piloto, exigían seleccionar respuestas y no conversar de forma reactiva, lo que según quienes revisaron el examen desalinea las exigencias cognitivas de la tarea con el constructo que el test afirma medir ([[ai-second-language-listening-speaking-assessment-2025|Goh y Aryadoust (2025)]]).
+
 ## Ansiedad, sesgo y a quién perjudica el formato
 
 Se defienden los exámenes orales por motivos de inclusión, porque una respuesta hablada es más difícil de comprar que una escrita, y se critican por los mismos motivos. [[fenton-oral-exams-ai-authentic-assessment-2025|Fenton]] cataloga los retos directamente: carga de programación, ansiedad y sesgo por género, origen étnico, lengua y velocidad de respuesta, además de los efectos de una calificación no anónima. Frente a ello, la evidencia que cita el artículo sugiere que los exámenes orales pueden ser tan inclusivos como los escritos, incluso para estudiantado con dislexia, y que es la falta de familiaridad, y no el formato en sí, lo que impulsa la mayor parte de la ansiedad declarada; el estudiantado de un estudio citado estaba menos ansioso en sus exámenes orales posteriores.
@@ -94,6 +97,8 @@ La justificación de integridad del oral también tiene fecha de caducidad: [[co
 - [[higher-ed]] — el contexto del que procede casi toda esta evidencia
 
 ## Artículos conectados
+
+- [[ai-second-language-listening-speaking-assessment-2025]] — Las tareas de diálogo con IA sin ramificación desalinean las exigencias de la tarea con el constructo de la expresión oral
 - [[corbin-ai-glasses-wearable-ai-assessment-2026]] — Las vivas en directo ya no son inmunes: gafas y auriculares de IA entregan indicaciones encubiertas en tiempo real (Corbin, Sharpe y Dawson 2026)
 
 - [[fenton-oral-exams-ai-authentic-assessment-2025]] — Reconsiderar el uso de los exámenes y las evaluaciones orales (Fenton 2025)

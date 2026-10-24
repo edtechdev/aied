@@ -1,7 +1,7 @@
 ---
 title: "mglearn Classroom Resources"
 created: "2026-09-23T17:45:00-04:00"
-updated: "2026-10-10T09:50:22-04:00"
+updated: "2026-10-24T08:38:48-04:00"
 type: resource
 summary: "Eine große Sammlung kostenloser, browserbasierter Aktivitätspakete für den Unterricht und druckfertiger Materialien von TCEA, darunter Module zu Gen-AI-Kompetenz und digitaler Bürgerschaft."
 url: https://mglearn.github.io/
@@ -20,7 +20,7 @@ discipline: [language learning]
 confidence: high
 connected_resources: [pressing-prompts]
 translation_of: resources/mglearn
-source_updated: "2026-09-23T17:45:00-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -48,4 +48,5 @@ Die Inhalte stehen unter CC BY-NC 4.0 und der zugrundeliegende Code unter MIT: N
 
 ## Verbundene Konzepte
 
-[[ai-literacy]], [[inclusive-learning]], [[multilingual-learning]], [[teacher-ai-competency]]
+[[ai-literacy]], [[inclusive-learning]], [[multilingual-learning]], [[teacher-ai-competency]], [[language-learning]]
+

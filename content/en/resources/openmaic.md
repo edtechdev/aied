@@ -1,7 +1,7 @@
 ---
 title: "OpenMAIC"
 created: "2026-09-20T17:30:00-04:00"
-updated: "2026-09-20T17:30:00-04:00"
+updated: "2026-10-24T08:37:08-04:00"
 type: resource
 summary: "The open-source release of MAIC: a multi-agent classroom that turns a topic or document into slides, quizzes, interactive simulations and project-based activities, delivered by AI teachers and classmates."
 url: https://github.com/THU-MAIC/OpenMAIC
@@ -36,4 +36,6 @@ Instructors and course teams who want generated materials they can still edit, i
 Licensed MIT, with an English and Chinese user guide and an active community on Discord and Feishu. It is model-neutral: you supply at least one LLM provider key, and optional local components (Lemonade for local models, FunASR for speech recognition) let you run more of the stack offline — so "free" describes the software, not the inference bill. The paper behind it appeared in the *Journal of Computer Science and Technology* (2026, DOI 10.1007/s11390-025-6000-0), and the repository had more than 38,000 stars by September 2026.
 
 ## Connected Concepts
-[[agentic-ai]], [[generative-ai]], [[llm]], [[open-source]], [[project-based-learning]], [[online-teaching-and-learning]], [[personalized-learning]], [[teacher-role]]
+
+[[agentic-ai]], [[generative-ai]], [[llm]], [[open-source]], [[project-based-learning]], [[online-teaching-and-learning]], [[personalized-learning]], [[teacher-role]], [[intelligent-tutoring]], [[simulation]]
+

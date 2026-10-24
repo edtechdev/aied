@@ -103,7 +103,7 @@ El seguimiento del conocimiento está estrechamente relacionado con el [[student
 - [[pradeesh-outcome-knowledge-tracing-affinity-2026]] — Seguimiento del conocimiento basado en resultados con mapeo de afinidad
 - [[schuetze-knowledge-tracing-forgetting-2026]]
 - [[exrec-exercise-recommendation-knowledge-tracing-2025]] — seguimiento fundamentado semánticamente con estados calibrados por componentes de conocimiento, usado como entorno de RL para la recomendación
-- [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn: An Agentic Tutor that Learns its Learner in a Human-AI Co-Learning Loop
+- [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn: un tutor agéntico que aprende de su estudiante en un bucle de coaprendizaje humano-IA
 - [[crediting-assisted-work-inflates-mastery-2026]] — Qué regla de evidencia decide una afirmación de dominio (Srivastava 2026)
 - [[system-one-llm-knowledge-tracing-2026]] — Un LLM de una sola pasada rastrea el conocimiento por encima de los modelos profundos entrenados con 8 personas que aprenden, a una fracción del coste (Lee y Park 2026)
 - [[knowledge-tracing-compression-math-2026]] — Comprimir el historial del estudiante en el seguimiento del conocimiento en matemáticas

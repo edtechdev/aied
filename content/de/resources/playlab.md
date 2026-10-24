@@ -1,7 +1,7 @@
 ---
 title: "Playlab"
 created: "2026-09-20T16:45:00-04:00"
-updated: "2026-10-10T09:50:22-04:00"
+updated: "2026-10-24T08:38:48-04:00"
 type: resource
 summary: "Eine gemeinnützige Schöpfungsplattform, auf der Pädagoginnen und Pädagogen eigene KI-Apps bauen, teilen und evaluieren – im eigenen Curriculum fundiert, mit dem Modell ihrer Wahl, mit eingebauter Sichtbarkeit für Lehrkräfte."
 url: https://www.playlab.ai/
@@ -18,7 +18,7 @@ audience: [instructors, instructional designers, educational technology develope
 confidence: high
 connected_resources: [teacherserver, edugems]
 translation_of: resources/playlab
-source_updated: "2026-09-20T16:45:00-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -46,4 +46,5 @@ Der Zugang zum Baukasten ist begrenzt: Die Einstiegsseite fragt nach einer E-Mai
 
 ## Verbundene Konzepte
 
-[[ai-literacy]], [[learning-design]], [[generative-ai]], [[rag]], [[human-in-the-loop-ai]], [[privacy]], [[guardrails]]
+[[ai-literacy]], [[learning-design]], [[generative-ai]], [[rag]], [[human-in-the-loop-ai]], [[privacy]], [[guardrails]], [[educational-technology-developers]], [[teacher-ai-competency]]
+

@@ -29,7 +29,7 @@ ai_assist:
     agent: hermes-agent
 reviewed_by: [editor]
 translation_of: resources/education-agent-skills
-source_updated: "2026-09-23T21:05:00-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 ---
 
@@ -48,4 +48,6 @@ translation_note: "ترجمة آلية للصفحة الإنجليزية، لم 
 المهارات التعليمية والتوثيق ومواد المناهج مرخّصة بـCC BY-SA 4.0، فإعادة الاستخدام والتكييف مفتوحة بينما يلزم أن تحمل المشتقّات الرخصة نفسها. وتفصيلان تشغيليان يهمّان إن نشرتها. فـنقطة نهاية MCP المستضافة تتطلّب رموزًا ليست مفتوحةً لأي كان، ولأن الخادم يقدّم لقطةً مُودَعة لا ملفات SKILL.md، فإن مهارةً تُضيفها دون إعادة بناء الحزمة وإيداعها لن تظهر على الخادم الحيّ حتى بعد إعادة النشر. والمكتبة يبنيها Gareth Manning، مربٍّ ومصمّم مناهج، وشروط الترخيص تنطبق على المحتوى التعليمي تحديدًا.
 
 ## المفاهيم المتصلة
-[[learning-design]], [[ai-literacy]], [[active-learning]], [[online-teaching-and-learning]], [[open-source]]
+
+[[learning-design]], [[ai-literacy]], [[active-learning]], [[online-teaching-and-learning]], [[open-source]], [[educational-development]]
+

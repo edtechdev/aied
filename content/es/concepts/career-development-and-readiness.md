@@ -1,14 +1,14 @@
 ---
 title: Desarrollo y preparación profesional
 created: "2026-09-28T21:03:34-04:00"
-updated: "2026-10-22T07:31:04-04:00"
+updated: "2026-10-24T08:23:05-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [anxiety-and-stress, professional-training]
 level: [higher ed, adult learning]
 confidence: high
 translation_of: concepts/career-development-and-readiness
-source_updated: "2026-10-16T08:47:09-04:00"
+source_updated: "2026-10-22T10:05:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -42,6 +42,7 @@ A medida que la IA transforma las ocupaciones, el papel de la educación en el d
 - **La preparación se medía por la implicación, no por el nivel de amenaza.** En [[ai-attitude-latent-profiles-career-development-2026|Song et al. (2026)]], el perfil con mayor ansiedad ante la IA seguía informando de la mayor elaboración activa de la carrera (4,222) y de la mayor empleabilidad autopercibida (3,964), junto con el perfil favorable, que no difería significativamente, de modo que el nivel de ansiedad no indexaba la preparación profesional.
 - **La alfabetización en IA es necesaria pero no suficiente.** [[ai-literacy-career-adaptability-business-2026|Testa et al.]] sostienen que la alfabetización en IA por sí sola no basta para la preparación profesional: el estudiantado también necesita adaptabilidad y autoevaluaciones positivas, lo que vincula directamente la [[ai-literacy|alfabetización en IA]] con los resultados profesionales. [[ai-literacy-graduate-employability-2026|Hendrawan y Lestari (2026)]] lo ponen a prueba cuantitativamente con 455 estudiantes de último año en Yakarta: la adaptabilidad profesional conlleva un efecto indirecto significativo (β = 0,173), y la mentalidad de crecimiento no modera en absoluto esa vía, de modo que es la adaptabilidad, y no la mentalidad, la que hace el trabajo.
 - **Perspectivas de quienes emplean y de quienes se gradúan.** [[ithaka-sr-ai-skills-college-graduates-2026|El informe de ITHAKA S+R]] (500 docentes de universidades estadounidenses de cuatro años, comparados con 200 empleadores estadounidenses) documenta una **brecha sistemática de priorización de habilidades** entre el profesorado y quienes emplean, lo que señala las demandas del mundo laboral que moldean los currículos de [[higher-ed|educación superior]]. El profesorado y quienes emplean coinciden en la importancia de solo una de 26 habilidades de IA (establecer expectativas realistas para el trabajo aumentado con IA): el profesorado prioriza una orientación hacia el *uso crítico y responsable* (atribución, responsabilidad humana, límites de la IA), mientras que quienes emplean prefieren habilidades de *flujos de trabajo, automatización y trabajo conjunto entre personas y IA*. El informe encuentra que solo tres de las 26 habilidades las enseña la mitad o más del profesorado —las categorías menos enseñadas (rediseño de flujos de trabajo, automatización, integración técnica) son precisamente donde más divergen las demandas de quienes emplean— y que la mayoría de las instituciones carece tanto de un consenso sobre cómo son las habilidades de IA como de un marco para evaluarlas. Para el desarrollo profesional, esto significa que la preparación de quienes se gradúan depende de cerrar una brecha real y medible entre lo que valoran quienes emplean y lo que enseñan los currículos, y no solo de añadir alfabetización en IA.
+- **Los filtros de contratación sin IA dejan de certificar lo que el trabajo exige.** En entrevistas con 23 estudiantes y recién graduados de ingeniería en India, todos salvo uno usaron IA para prepararse para pruebas de colocación que la excluían, mientras que quienes se graduaban describían lugares de trabajo que esperaban IA desde el primer día, de modo que, según la teoría de la señalización, una CGPA obtenida con ayuda de IA ya no separa a los candidatos por coste ([[ai-free-gates-engineering-students-india-2026|Goutham y Gu (2026)]]).
 - **La política de curso como decisión sobre competencias laborales.** El caso de diseño de [[mccorkle-aligned-genai-course-policy-2025|McCorkle (2025)]] hace explícito el compromiso a nivel de tarea: para cada paso de un proyecto de semestre, el profesorado empareja una competencia laboral emergente en [[generative-ai|IA generativa]] (prompting para objetivos, generación de imágenes, escritura de guiones, narración con texto a voz) con la necesidad de evaluar una habilidad fundacional, y permite la IA solo cuando gana la competencia, una forma concreta de incorporar a las tareas existentes las habilidades de flujo de trabajo que valoran quienes emplean ([[prompt-engineering|ingeniería de prompts]], evaluación de la salida de un [[llm|LLM]]) en lugar de añadir un curso aparte sobre IA.
 - **La IA ya media la propia preparación profesional.** [[loidl-chatgpt-career-development-2026|Loidl, Cao y Huang (2026)]] encuestaron a 102 estudiantes de grado de una universidad R1 del Medio Oeste y encontraron que alrededor del 81% había usado ChatGPT para actividades relacionadas con la empleabilidad en los 12 meses anteriores, encabezadas por los currículos (52,94%), la comunicación en el trabajo (38,24%) y las cartas de presentación (35,29%), lo que las entrevistas interpretan como un trabajo de adaptación y ensayo más que de externalización; la preparación profesional tiene por tanto que construirse sobre una preparación que la herramienta ya media, y no solo sobre las capacidades que esta página describe por lo demás.
 - **Marcos de preparación específicos de cada sector.** [[workforce-readiness-smart-manufacturing-wrl-2026|La preparación laboral para la fabricación inteligente]] y [[ai-engineering-computing-workforce-grey-literature-2026|el futuro de la fuerza laboral de ingeniería e informática]] traducen la empleabilidad general en marcos de competencias [[discipline-specific-aied|específicos de cada disciplina]].
@@ -69,6 +70,7 @@ El desarrollo y la preparación profesional se conectan con la [[professional-tr
 - [[student-support-and-success]] — los resultados que siguen a la finalización: persistencia, retención y graduación
 
 ## Artículos conectados
+- [[ai-free-gates-engineering-students-india-2026]] — De puertas sin IA a trabajo con IA desde el primer día: cómo navega el estudiantado de ingeniería en India la educación universitaria y la colocación en el campus sin directrices sobre IA
 - [[ai-literacy-graduate-employability-2026]] — Evidencia PLS-SEM de que la alfabetización en IA llega a la empleabilidad percibida a través de la adaptabilidad profesional, sin que la mentalidad de crecimiento aporte nada (Hendrawan y Lestari 2026)
 - [[mccorkle-aligned-genai-course-policy-2025]] — Compromisos entre evaluación y competencias laborales decididos tarea por tarea (McCorkle 2025)
 - [[wang-career-adapt-abilities-ai-anxiety-english-2026]] — las capacidades de adaptabilidad profesional reducen la ansiedad ante la IA
@@ -81,6 +83,5 @@ El desarrollo y la preparación profesional se conectan con la [[professional-tr
 - [[duan-ai-anxiety-career-decisions-college-2026]] — La ansiedad ante la IA perjudica las decisiones profesionales a través de la adaptabilidad profesional (mediación del 63,35%)
 - [[ustun-ai-anxiety-job-finding-anxiety-2026]] — La ansiedad y las actitudes ante la IA predicen la ansiedad por encontrar empleo (1.057 estudiantes)
 - [[dag-ai-perceptions-career-anxiety-health-2026]] — La ansiedad ante la IA predice la ansiedad por la búsqueda de empleo en ciencias de la salud (r = 0,233, 821 estudiantes)
-
 - [[ai-attitude-latent-profiles-career-development-2026]] — Cuatro perfiles de actitud ante la IA: la elaboración de carrera y la empleabilidad se relacionaban con la implicación, no con la ansiedad
 - [[sadik-ai-ready-engineering-talent-faculty-2026]] — Los pronósticos del profesorado son predicciones, no evidencia sobre el empleo

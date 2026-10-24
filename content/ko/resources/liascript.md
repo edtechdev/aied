@@ -1,7 +1,7 @@
 ---
 title: "LiaScript"
 created: "2026-09-23T20:15:00-04:00"
-updated: "2026-09-24T04:57:47-04:00"
+updated: "2026-10-24T08:38:48-04:00"
 type: resource
 summary: "평범한 텍스트 파일을 브라우저에서 퀴즈와 실행 가능한 코드를 갖춘 인터랙티브 강좌로 바꾸는 오픈 Markdown 방언이며, 강좌를 함께 만드는 다중 에이전트 도우미를 더합니다."
 url: https://liascript.github.io/
@@ -19,7 +19,7 @@ level: [higher ed, k 12]
 confidence: high
 connected_resources: [lesson-md]
 translation_of: resources/liascript
-source_updated: "2026-09-24T04:57:47-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -51,4 +51,5 @@ LiaScript은 무료이며 유료 등급도 계정 요구사항도 없고, BSD-3-
 
 ## 연결된 개념
 
-[[learning-design]], [[open-source]], [[online-teaching-and-learning]], [[active-learning]]
+[[learning-design]], [[open-source]], [[online-teaching-and-learning]], [[active-learning]], [[cs-education]], [[edtech-platform]]
+

@@ -19,7 +19,7 @@ confidence: high
 connected_resources: [claw-ed]
 contributors: [editor]
 translation_of: resources/education-agent-skills
-source_updated: "2026-09-23T21:05:00-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
@@ -49,4 +49,5 @@ Eğitim becerileri, belgeleri ve müfredat materyalleri CC BY-SA 4.0 ile lisansl
 
 ## Bağlı kavramlar
 
-[[learning-design]], [[ai-literacy]], [[active-learning]], [[online-teaching-and-learning]], [[open-source]]
+[[learning-design]], [[ai-literacy]], [[active-learning]], [[online-teaching-and-learning]], [[open-source]], [[educational-development]]
+

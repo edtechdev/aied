@@ -1,7 +1,7 @@
 ---
 title: Punto de referencia
 created: "2026-09-28T21:03:34-04:00"
-updated: "2026-10-22T09:13:53-04:00"
+updated: "2026-10-24T08:21:12-04:00"
 type: concept
 technology: [generative-ai, llm]
 assessment: [assessment]
@@ -10,7 +10,7 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation, benchmark]
 translation_of: concepts/benchmark
-source_updated: "2026-10-09T09:50:00-04:00"
+source_updated: "2026-10-23T09:35:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -49,6 +49,7 @@ Los puntos de referencia constituyen la base probatoria de la [[ai-education|inv
 - **[[teaching-feedback-classification-benchmark|Puntos de referencia de retroalimentación docente]]** evalúan la transferencia entre idiomas de la clasificación de la [[ai-feedback-quality|calidad de la retroalimentación]].
 - **[[cdpk-pedagogy-benchmark-llms|El Punto de Referencia Pedagógico (CDPK + SEND)]]** evalúa el conocimiento pedagógico —estrategias de enseñanza, [[assessment|métodos de evaluación]] y [[special-education|pedagogía de la educación especial]]— en lugar del conocimiento de contenidos, e informa de una «frontera de valor» entre coste y precisión en 97 modelos (la mayoría de los puntos de referencia generales miden conocimiento de contenidos; la pedagogía es una dimensión distinta y crítica para la educación).
 - **[[jeon-isd-agent-bench-2026|ISD-Agent-Bench]]** evalúa agentes de [[learning-design|diseño instruccional]] basados en [[llm|LLM]] en 25.795 escenarios de diseño instruccional, y muestra que los agentes híbridos fundamentados en marcos clásicos de ISD (ADDIE, Dick & Carey, prototipado rápido) superan a los puramente teóricos o puramente técnicos: un resultado de punto de referencia con implicaciones directas para el diseño de [[agentic-ai|IA agéntica]] en educación.
+- **[[tutor-case-bench-challenging-behaviors-2026|TutorCaseBench]]** fundamenta la evaluación de tutores en la literatura de casos documentada en lugar de en personas simuladas: 923 diálogos de casos de educación especial y psicología educativa, en los que el más fuerte de 11 modelos alcanzó una intervención documentada en el 55,8% de los casos abiertos.
 
 - **La adaptación al estudiantado como criterio explícito de punto de referencia.** El Teaching Monster Challenge puntúa la adaptación a una persona aprendiza especificada, pero su juez LLM automatizado solo separó una cola débil —los mejores sistemas puntuaron cerca de su techo y su clasificación discrepó de la preferencia de la multitud (ρ de Spearman = −0,17)— ([[teaching-monster-pck-benchmark-2026|Lin et al. (2026)]]).
 
@@ -98,6 +99,7 @@ Los puntos de referencia se conectan con la [[ai-ed-evaluation|evaluación de la
 - [[automated-essay-scoring]]
 
 ## Artículos conectados
+- [[tutor-case-bench-challenging-behaviors-2026]] — TutorCaseBench: evaluación de tutores con LLM ante estudiantado con conductas desafiantes (Park et al. 2026)
 - [[standardized-assessment-llm-english-proficiency-2026]] — Un punto de referencia de competencia en inglés de 624 ítems que informa de la capacidad del modelo como un nivel calibrado (Min et al. 2026)
 - [[omniphys-multimodal-physics-benchmark-2026]]
 - [[assessment-latent-structure-human-llm-2026]] — ¿Miden los instrumentos de evaluación lo mismo para los humanos y para los LLM? (Strugatski et al. 2026)

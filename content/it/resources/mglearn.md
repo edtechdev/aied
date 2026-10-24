@@ -30,7 +30,7 @@ ai_assist:
     agent: hermes-agent
 reviewed_by: [editor]
 translation_of: "resources/mglearn"
-source_updated: "2026-09-23T17:45:00-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 ---
 
@@ -51,4 +51,6 @@ L'Activities Hub raccoglie la maggior parte delle suite in un unico luogo ricerc
 I contenuti sono sotto licenza CC BY-NC 4.0 e il codice sottostante sotto licenza MIT: l'uso in classe, l'hosting locale e l'adattamento sono consentiti con attribuzione, mentre la vendita dei materiali o la loro inclusione in formazione a pagamento richiede il permesso scritto di TCEA. Le opere di altre persone sono escluse dalla licenza, e le attività di letteratura non riproducono alcun testo da opere protette da copyright. Il progetto dichiara che contenuti e traduzioni sono stati prodotti con AI generativa sotto revisione editoriale, e che le traduzioni sono assistite da macchina e segnalate per la revisione da parte di educatori locali prima dell'uso in classe, il che merita di essere preso sul serio prima che un distretto le adotti su larga scala. Ogni attività gira nel browser dello studente, senza login e senza raccolta dati.
 
 ## Concetti collegati
-[[ai-literacy]], [[inclusive-learning]], [[multilingual-learning]], [[teacher-ai-competency]]
+
+[[ai-literacy]], [[inclusive-learning]], [[multilingual-learning]], [[teacher-ai-competency]], [[language-learning]]
+

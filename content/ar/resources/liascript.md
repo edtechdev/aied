@@ -29,7 +29,7 @@ ai_assist:
     agent: hermes-agent
 reviewed_by: [editor]
 translation_of: resources/liascript
-source_updated: "2026-09-24T04:57:47-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 ---
 
@@ -50,4 +50,6 @@ translation_note: "ترجمة آلية للصفحة الإنجليزية، لم 
 LiaScript مجاني، بلا مستوى مدفوع وبلا اشتراك مطلوب، ويُطوَّر على الملأ بموجب BSD-3-Clause، لذا تستطيع المؤسسات استضافته ذاتيًا وتعديله. وتستحق ميزة Live Classroom نظرةً قبل الاعتماد عليها على نطاق واسع، إذ إن التزامن في الزمن الحقيقي يستخدم خدمة مشتركة لا عرضًا محليًا خالصًا. ووكيل التعليم حديث وخفيف التبني، فعامله كنموذج أولي عامل لا كمنتج مدعوم.
 
 ## مفاهيم مترابطة
-[[learning-design]], [[open-source]], [[online-teaching-and-learning]], [[active-learning]]
+
+[[learning-design]], [[open-source]], [[online-teaching-and-learning]], [[active-learning]], [[cs-education]], [[edtech-platform]]
+

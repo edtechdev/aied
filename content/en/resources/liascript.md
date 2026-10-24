@@ -1,7 +1,7 @@
 ---
 title: "LiaScript"
 created: "2026-09-23T20:15:00-04:00"
-updated: "2026-09-24T04:57:47-04:00"
+updated: "2026-10-24T08:37:08-04:00"
 type: resource
 summary: "An open Markdown dialect that turns a plain text file into an interactive course in the browser, with quizzes and runnable code, plus a multi-agent assistant for building courses with it."
 url: https://liascript.github.io/
@@ -42,4 +42,6 @@ The project also publishes a **[teaching agent](https://github.com/LiaScript/tea
 LiaScript is free, with no paid tier and no account requirement, and is developed in the open under BSD-3-Clause, so institutions can self-host and modify it. The Live Classroom feature deserves a look before you rely on it at scale, since real-time synchronisation uses a shared service rather than purely local rendering. The teaching agent is young and lightly adopted, so treat it as a working prototype rather than a supported product.
 
 ## Connected Concepts
-[[learning-design]], [[open-source]], [[online-teaching-and-learning]], [[active-learning]]
+
+[[learning-design]], [[open-source]], [[online-teaching-and-learning]], [[active-learning]], [[cs-education]], [[edtech-platform]]
+

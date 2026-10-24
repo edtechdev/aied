@@ -19,7 +19,7 @@ confidence: high
 connected_resources: [pause-ai-use-self-examination]
 reviewed_by: [editor]
 translation_of: resources/pressing-prompts
-source_updated: "2026-09-20T13:49:11-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -42,4 +42,6 @@ Kila mada hubeba swali la kuweka muktadha, viuanzishi vya mazungumzo, shughuli z
 Ilianza Chuo Kikuu cha Duke katika 2024–2025 kama AI Ethics Learning Toolkit, iliyobuniwa pamoja na wanafunzi wa shahada ya kwanza, wakurugenzi wa maktaba, wataalam, na wateknolojia katika Center for Teaching and Learning na Duke Libraries, na ikarejeshwa baada ya maoni na kubuni upya na Hannah Rozear, Remi Kalir na Aria Chernik.
 
 ## Dhana Zilizounganishwa
-[[critical-pedagogy]], [[inquiry-based-learning]], [[ai-literacy]], [[critical-thinking]], [[sustainability]], [[digital-divide]]
+
+[[critical-pedagogy]], [[inquiry-based-learning]], [[ai-literacy]], [[critical-thinking]], [[sustainability]], [[digital-divide]], [[higher-ed]]
+

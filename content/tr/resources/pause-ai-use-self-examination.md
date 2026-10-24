@@ -24,7 +24,7 @@ ai_assist:
     date: "2026-10-14"
     agent: hermes-agent
 translation_of: resources/pause-ai-use-self-examination
-source_updated: "2026-09-20T13:49:11-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ---
@@ -46,4 +46,6 @@ Kendi yapay zeka alışkanlıklarını incelemek için özel bir yönlendirme is
 Mahbub Ul Alam (SciLifeLab Data Centre, Uppsala University) tarafından yazılmıştır; tasarım gerekçesi ve doğrulama sınırları eşlik eden bir ön baskıda belgelenmiştir ve kaynak kodu halka açıktır.
 
 ## Bağlı kavramlar
-[[cognitive-offloading]], [[critical-thinking]], [[ai-literacy]], [[self-regulated-learning]], [[metacognition]], [[privacy]]
+
+[[cognitive-offloading]], [[critical-thinking]], [[ai-literacy]], [[self-regulated-learning]], [[metacognition]], [[privacy]], [[cognitive-surrender]]
+

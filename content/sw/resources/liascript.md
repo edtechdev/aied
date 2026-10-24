@@ -29,7 +29,7 @@ ai_assist:
     agent: hermes-agent
 reviewed_by: [editor]
 translation_of: resources/liascript
-source_updated: "2026-09-24T04:57:47-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 ---
 
@@ -50,4 +50,6 @@ Mradi huo pia huchapisha **[wakala wa kufundisha](https://github.com/LiaScript/t
 LiaScript ni bila malipo, bila kiwango cha kulipia na bila hitaji la akaunti, na inaendelezwa hadharani chini ya BSD-3-Clause, hivyo taasisi zinaweza kujipangisha na kuibadilisha. Kipengele cha Live Classroom kinastahili kuangaliwa kabla ya kutegemea kwake kwa kiwango kikubwa, kwani usawazishaji wa wakati halisi hutumia huduma ya pamoja badala ya uwasilishaji wa ndani kabisa. Wakala wa kufundisha ni mchanga na umetumika kidogo, hivyo uchukue kama kiolezo cha kazi badala ya bidhaa inayoungwa mkono.
 
 ## Dhana Zilizounganishwa
-[[learning-design]], [[open-source]], [[online-teaching-and-learning]], [[active-learning]]
+
+[[learning-design]], [[open-source]], [[online-teaching-and-learning]], [[active-learning]], [[cs-education]], [[edtech-platform]]
+

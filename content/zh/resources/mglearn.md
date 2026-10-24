@@ -1,7 +1,7 @@
 ---
 title: "mglearn Classroom Resources"
 created: "2026-09-23T17:45:00-04:00"
-updated: "2026-10-09T19:11:13-04:00"
+updated: "2026-10-24T08:38:48-04:00"
 type: resource
 summary: "来自 TCEA 的一大批免费、基于浏览器的课堂活动套件和可直接打印的材料，包含生成式 AI 素养与数字公民模块。"
 url: https://mglearn.github.io/
@@ -19,7 +19,7 @@ level: [preschool, k 12]
 discipline: [language learning]
 confidence: high
 connected_resources: [pressing-prompts]
-source_updated: "2026-09-23T17:45:00-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_of: resources/mglearn
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
@@ -47,4 +47,6 @@ Activities Hub 把大多数套件集中在一个可搜索的地方，包括 [[cr
 内容采用 CC BY-NC 4.0 许可，底层代码采用 MIT 许可：注明出处的课堂使用、本地托管和改编都是允许的，但销售这些材料或将其打包进付费培训需要获得 TCEA 的书面许可。他人的作品不在许可范围内，文学类活动不复制任何受版权保护作品的文本。项目声明内容与翻译由生成式 AI 在编辑审阅下产出，翻译为机器辅助完成，并标注需经当地教育者审阅后方可在课堂使用——一个学区在大规模采用之前应当认真对待这一点。每个活动都在学生的浏览器中运行，无需登录，也不收集数据。
 
 ## 关联概念
-[[ai-literacy]], [[inclusive-learning]], [[multilingual-learning]], [[teacher-ai-competency]]
+
+[[ai-literacy]], [[inclusive-learning]], [[multilingual-learning]], [[teacher-ai-competency]], [[language-learning]]
+

@@ -1,7 +1,7 @@
 ---
 title: Modelos de adopción tecnológica
 created: "2026-09-28T20:10:39-04:00"
-updated: "2026-10-22T09:13:53-04:00"
+updated: "2026-10-24T08:22:10-04:00"
 type: concept
 foundations: [ai-literacy]
 technology: [generative-ai, technology-acceptance-model]
@@ -10,7 +10,7 @@ level: [higher ed]
 confidence: high
 methods: [research-methods-aied]
 translation_of: concepts/technology-acceptance-model
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-23T08:03:41-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -82,6 +82,8 @@ El enfoque cognitivo del TAM también capta deficientemente las dimensiones emoc
 
 **La percepción de riesgo como ampliación específica de cada dimensión.** Una encuesta con 814 estudiantes universitarios chinos ([[risk-perception-genai-perceived-benefits-2026|Du, Ning, Shi y Chen (2026)]]) incorpora la Teoría de la Evaluación Cognitiva y la Teoría de la Motivación de Protección al TAM/UTAUT2 para preguntar no si el estudiantado adopta la [[generative-ai|IA generativa]], sino qué obtiene de ella. El supuesto de la familia de modelos de que el riesgo suprime uniformemente la adopción no sobrevive: la percepción de riesgo se divide en dimensiones informativa, de seguridad, técnica, [[ethics|ética]] y legal, que mueven los beneficios en direcciones opuestas. El riesgo de seguridad —una amenaza que el estudiantado cree poder gestionar mediante [[privacy|prácticas de privacidad]]— se asoció *positivamente* con la asistencia académica percibida y el desarrollo de habilidades, en consonancia con el afrontamiento centrado en el problema, mientras que el riesgo informativo, que quien aprende no puede verificar fácilmente, erosionó el apoyo psicológico y emocional y los beneficios para la vida diaria y el ocio a través de la evitación. Los análisis de umbral mostraron además efectos que cambian de signo más allá de puntos de corte específicos de cada dimensión, y la experiencia de uso importó de forma independiente: el estudiantado con más de un año de uso de IA generativa declaró mayores beneficios en cuatro ámbitos. La implicación práctica para la investigación sobre aceptación es que el «riesgo percibido» es un constructo demasiado grueso para modelarlo: lo que determina si el estudiantado se implica o se retira es la controlabilidad, y no la mera presencia de riesgo.
 
+Una ampliación reciente invierte la dirección habitual y sitúa las creencias motivacionales específicas de la asignatura aguas arriba de las percepciones del TAM en lugar de junto a ellas. [[high-school-genai-acceptance-tam-physics-2026|Xue, Xu, Qi y Lu (2026)]] informan de que el valor de utilidad predice la utilidad percibida con β = 0,43 y la expectativa de éxito predice la facilidad de uso con β = 0,39, mientras que las rutas centrales del TAM se atenúan pero siguen siendo significativas.
+
 El vínculo del riesgo con el uso también depende del sistema: en los 49 sistemas de TALIS 2024 que administraron los ítems, la utilidad percibida de la IA se asoció positivamente con el uso de la IA en los 49, mientras que el riesgo percibido se asoció negativamente en 40 y positivamente en nueve ([[teachers-ai-belief-profiles-talis-2024-2026|Fang y Jin (2026)]]).
 
 ## Conceptos conectados
@@ -101,6 +103,8 @@ El vínculo del riesgo con el uso también depende del sistema: en los 49 sistem
 - [[framing-ai-use-for-students]]
 
 ## Artículos conectados
+
+- [[high-school-genai-acceptance-tam-physics-2026]] — Creencias específicas de la asignatura situadas aguas arriba de las percepciones del TAM
 - [[dai-genai-frenemy-teaching-autonomy-2026]] — La IA generativa como «frenemy»: la autonomía artificial y la aversión al riesgo amplían el TAM para el profesorado (Dai et al. 2026)
 - [[akbaba-nursing-ai-experiences-tam-2026]] — Experiencias de IA en enfermería; ampliación psicosocial del TAM
 - [[saihi-ahmed-genai-adoption-personas-higher-ed-2026]] — Personas de adopción de IA generativa mediante agrupamiento

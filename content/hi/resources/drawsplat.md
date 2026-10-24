@@ -1,7 +1,7 @@
 ---
 title: "DrawSplat"
 created: "2026-09-20T13:49:11-04:00"
-updated: "2026-10-16T06:00:00-04:00"
+updated: "2026-10-24T08:38:48-04:00"
 type: resource
 summary: "छोटे शैक्षणिक उपकरणों का एक मुफ़्त ब्राउज़र प्लेटफ़ॉर्म: व्हाइटबोर्ड, स्प्रेडशीट, स्लाइड, दस्तावेज़, सूचियाँ, कॉन्सेप्ट मैप, क्विज़, चार्ट, चित्र और वीडियो।"
 url: https://drawsplat.org/
@@ -19,7 +19,7 @@ audience: [instructors, learners]
 confidence: high
 connected_resources: [id-toolbox]
 translation_of: resources/drawsplat
-source_updated: "2026-09-22T04:25:00-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 contributors: [editor]
 ai_assist:
@@ -46,4 +46,6 @@ ai_assist:
 उत्पाद साइट किसी व्यक्तिगत लेखक का नाम नहीं बताती और अनुरोधों को एक प्रोजेक्ट इनबॉक्स पर भेजती है; DrawSplat का निर्माण Miguel Guhlin ने किया है, जिनकी साइट इसके लॉन्चों का दस्तावेज़ीकरण करती है। कोड लाइसेंस की दृष्टि से मुफ़्त है, केवल कीमत की दृष्टि से नहीं: व्हाइटबोर्ड GNU AGPL-3.0-or-later है और SplatWorks ऐप्स GPL-3.0-only हैं, छात्र उपकरणों पर कोई प्रति-सीट लाइसेंस नहीं है। जो उपकरण आपकी फ़ाइलें पढ़ते हैं वे ब्राउज़र में स्थानीय रूप से चलते हैं, जबकि क्लाउड सेव और कोई भी पेशेवर-शिक्षण अनुरोध डेटा भेजते हैं, इसलिए इसे छात्र कार्य के साथ उपयोग करने से पहले संग्रहण सूची पेज देखें।
 
 ## संबंधित अवधारणाएँ
-[[visualization]], [[multimodal]], [[formative-assessment]], [[project-based-learning]]
+
+[[visualization]], [[multimodal]], [[formative-assessment]], [[project-based-learning]], [[accessibility]], [[privacy]]
+

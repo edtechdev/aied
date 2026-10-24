@@ -1,7 +1,7 @@
 ---
 title: "OpenMAIC"
 created: "2026-09-27T03:00:56-04:00"
-updated: "2026-09-27T03:00:56-04:00"
+updated: "2026-10-24T08:38:48-04:00"
 type: resource
 summary: "La versión de código abierto de MAIC: un aula multiagente que convierte un tema o un documento en diapositivas, cuestionarios, simulaciones interactivas y actividades basadas en proyectos, impartidos por profesores y compañeros de clase de IA."
 url: https://github.com/THU-MAIC/OpenMAIC
@@ -20,7 +20,7 @@ confidence: high
 connected_resources: [deeptutor, lesson-md]
 translation_of: resources/openmaic
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
-source_updated: "2026-09-20T17:30:00-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
@@ -46,4 +46,6 @@ Profesorado y equipos de curso que quieren materiales generados que todavía pue
 Tiene licencia MIT, con una guía de usuario en inglés y chino y una comunidad activa en Discord y Feishu. Es neutral respecto al modelo: usted aporta al menos una clave de proveedor de LLM, y los componentes locales opcionales (Lemonade para modelos locales, FunASR para reconocimiento de voz) permiten ejecutar sin conexión una mayor parte de la pila, de modo que «gratis» describe el software, no la factura de inferencia. El artículo que lo respalda apareció en el *Journal of Computer Science and Technology* (2026, DOI 10.1007/s11390-025-6000-0), y el repositorio tenía más de 38.000 estrellas en septiembre de 2026.
 
 ## Conceptos conectados
-[[agentic-ai]], [[generative-ai]], [[llm]], [[open-source]], [[project-based-learning]], [[online-teaching-and-learning]], [[personalized-learning]], [[teacher-role]]
+
+[[agentic-ai]], [[generative-ai]], [[llm]], [[open-source]], [[project-based-learning]], [[online-teaching-and-learning]], [[personalized-learning]], [[teacher-role]], [[intelligent-tutoring]], [[simulation]]
+

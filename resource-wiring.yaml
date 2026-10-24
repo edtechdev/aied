@@ -14,6 +14,7 @@
 - resource: code-viva
   reviewed: '2026-10-24'
   hosts:
+  - academic-integrity
   - cs-education
   - oral-assessment
   - process-oriented-assessment

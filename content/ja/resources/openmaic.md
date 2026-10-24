@@ -1,7 +1,7 @@
 ---
 title: "OpenMAIC"
 created: "2026-10-10T21:52:22-04:00"
-updated: "2026-10-10T21:52:22-04:00"
+updated: "2026-10-24T08:38:48-04:00"
 type: resource
 summary: "MAIC のオープンソース版：トピックや資料をスライド、クイズ、インタラクティブなシミュレーション、プロジェクト型学習の活動に変えるマルチエージェント教室で、AI 教師と AI クラスメートが授業を行います。"
 url: https://github.com/THU-MAIC/OpenMAIC
@@ -19,7 +19,7 @@ audience: [instructors, curriculum designers, instructional designers, learners,
 confidence: high
 connected_resources: [deeptutor, lesson-md]
 translation_of: resources/openmaic
-source_updated: "2026-09-20T17:30:00-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -46,4 +46,6 @@ ai_assist:
 MIT ライセンスで、英語と中国語のユーザーガイドと、Discord および Feishu の活発なコミュニティがあります。モデル中立であり、少なくとも 1 つの LLM プロバイダーキーを用意する必要があり、ローカルモデル用の Lemonade、音声認識用の FunASR などの任意のローカルコンポーネントにより、スタックのより多くの部分をオフラインで実行できます。つまり「無料」はソフトウェアについて言っているのであって、推論費用については言っていません。背後にある論文は *Journal of Computer Science and Technology*（2026 年、DOI 10.1007/s11390-025-6000-0）に掲載され、リポジトリは 2026 年 9 月までに 38,000 以上のスターを獲得しました。
 
 ## 関連する概念
-[[agentic-ai]], [[generative-ai]], [[llm]], [[open-source]], [[project-based-learning]], [[online-teaching-and-learning]], [[personalized-learning]], [[teacher-role]]
+
+[[agentic-ai]], [[generative-ai]], [[llm]], [[open-source]], [[project-based-learning]], [[online-teaching-and-learning]], [[personalized-learning]], [[teacher-role]], [[intelligent-tutoring]], [[simulation]]
+

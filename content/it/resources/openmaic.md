@@ -19,7 +19,7 @@ confidence: high
 connected_resources: [deeptutor, lesson-md]
 reviewed_by: [editor]
 translation_of: resources/openmaic
-source_updated: "2026-09-20T17:30:00-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -46,4 +46,6 @@ A insegnanti e team di corso che vogliono materiali generati che possano comunqu
 Con licenza MIT, con una guida utente in inglese e cinese e una comunità attiva su Discord e Feishu. È neutrale rispetto al modello: fornisci tu almeno una chiave di provider LLM, e i componenti locali opzionali (Lemonade per i modelli locali, FunASR per il riconoscimento vocale) permettono di eseguire offline una parte maggiore dello stack — quindi "gratis" descrive il software, non la bolletta dell'inferenza. L'articolo che ne è alla base è apparso sul *Journal of Computer Science and Technology* (2026, DOI 10.1007/s11390-025-6000-0), e il repository aveva superato le 38.000 stelle a settembre 2026.
 
 ## Concetti collegati
-[[agentic-ai]], [[generative-ai]], [[llm]], [[open-source]], [[project-based-learning]], [[online-teaching-and-learning]], [[personalized-learning]], [[teacher-role]]
+
+[[agentic-ai]], [[generative-ai]], [[llm]], [[open-source]], [[project-based-learning]], [[online-teaching-and-learning]], [[personalized-learning]], [[teacher-role]], [[intelligent-tutoring]], [[simulation]]
+

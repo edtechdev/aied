@@ -1,7 +1,7 @@
 ---
 title: "Vibes DIY"
 created: "2026-09-23T17:45:00-04:00"
-updated: "2026-10-10T09:50:22-04:00"
+updated: "2026-10-24T08:38:48-04:00"
 type: resource
 summary: "Ein App-Baukasten in einfacher Sprache: ein kleines Werkzeug in Worten beschreiben und eine funktionierende, teilbare Web-App bekommen, wobei die zugrundeliegenden React-Pakete und das CLI unter Apache-2.0 stehen."
 url: https://vibes.diy/
@@ -19,7 +19,7 @@ level: [higher ed, k 12]
 confidence: high
 connected_resources: [onmicro-ai]
 translation_of: resources/vibes-diy
-source_updated: "2026-09-23T17:45:00-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -47,4 +47,5 @@ Die Plattform hat eine kostenlose Stufe, die jedoch credit-basiert ist: Konten e
 
 ## Verbundene Konzepte
 
-[[ai-literacy]], [[open-source]], [[design-thinking]], [[constructivist]], [[learning-design]]
+[[ai-literacy]], [[open-source]], [[design-thinking]], [[constructivist]], [[learning-design]], [[vibe-coding]]
+

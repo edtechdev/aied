@@ -1,7 +1,7 @@
 ---
 title: "TeacherServer"
 created: "2026-09-20T13:49:11-04:00"
-updated: "2026-09-22T06:42:37-04:00"
+updated: "2026-10-24T08:37:08-04:00"
 type: resource
 summary: "A large free library of single-purpose teaching generators for K-12 teachers and college faculty: lesson plans, worksheets, IEP goals, rubrics, case studies, math problems."
 url: https://teacherserver.com/
@@ -30,4 +30,6 @@ For K-12: lesson plan, worksheet, [[special-education|IEP goal]], math word prob
 The project claims a locally installed AI server for speed and that data is processed locally and never stored, plus Department of Education guideline compliance; the [team page](https://teacherserver.com/index-team.php) names Zafer Unal, a professor at the University of South Florida, as founder and developer, alongside an advisory board of four faculty members from other universities. Those claims are still worth verifying before use with student work. Access requires registration, and there is a companion paid-later platform for building your own tools.
 
 ## Connected Concepts
-[[generative-ai]], [[llm]], [[formative-assessment]], [[teacher-ai-competency]], [[online-teaching-and-learning]]
+
+[[generative-ai]], [[llm]], [[formative-assessment]], [[teacher-ai-competency]], [[online-teaching-and-learning]], [[automated-question-generation]], [[higher-ed]], [[special-education]]
+

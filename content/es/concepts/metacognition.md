@@ -196,7 +196,7 @@ La [[agentic-ai|IA agéntica]] proactiva puede desplazar el propio bucle metacog
 - [[melanou-genai-learning-dynamics-longitudinal-2026]] — El uso reflexivo aumentó con el acceso a la IA y predijo el pensamiento crítico, no la ganancia de conocimiento (Melanou, Beege y Kimmig 2026)
 - [[alatoai-ai-learning-environments-self-regulation-2026]] — La conciencia metacognitiva como el predictor más fuerte del aprendizaje STEM adaptativo (Alatoai y Alshahri 2026)
 - [[hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026]] — Del diagnóstico al metadiagnóstico: el profesorado juzga las inferencias generadas por IA (Hoppe, Loibl y Leuders 2026)
-- [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — Open Questions Towards Skill-Sustaining Reliance in Reflective AI Engagement
+- [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — Preguntas abiertas hacia una dependencia que sostiene las habilidades en la implicación reflexiva con IA
 - [[dang-human-ai-collaboration-competency-2026]] — La metacognición, y no la pedagogía, como mecanismo de la agencia de quien aprende en la colaboración persona-IA (Dang, Hong, Doyle y Nguyen 2026)
 - [[metacognitive-ownership-human-ai-regulation-2026]] — La propiedad metacognitiva: un constructo para la gobernanza que ejerce quien aprende sobre estándares, juicios y acciones
 

@@ -19,7 +19,7 @@ confidence: high
 connected_resources: [pressing-prompts]
 reviewed_by: [editor]
 translation_of: resources/pause-ai-use-self-examination
-source_updated: "2026-09-20T13:49:11-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -46,4 +46,6 @@ Wanafunzi, wakufunzi na watafiti wanaotaka ilani ya kibinafsi ya kuchunguza mazo
 Imeandikwa na Mahbub Ul Alam (Kituo cha Data cha SciLifeLab, Chuo Kikuu cha Uppsala); mantiki ya ubini na mipaka ya uthibitishaji yameandikishwa katika nakala ya awali inayosindikiza, na msimbo wa chanzo ni wa hadharani.
 
 ## Dhana Zilizounganishwa
-[[cognitive-offloading]], [[critical-thinking]], [[ai-literacy]], [[self-regulated-learning]], [[metacognition]], [[privacy]]
+
+[[cognitive-offloading]], [[critical-thinking]], [[ai-literacy]], [[self-regulated-learning]], [[metacognition]], [[privacy]], [[cognitive-surrender]]
+

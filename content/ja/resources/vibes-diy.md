@@ -1,7 +1,7 @@
 ---
 title: "Vibes DIY"
 created: "2026-10-10T21:52:22-04:00"
-updated: "2026-10-10T21:52:22-04:00"
+updated: "2026-10-24T08:38:48-04:00"
 type: resource
 summary: "日常の言葉でアプリを作れるビルダー：小さなツールを言葉で説明すると、動いて共有できるウェブアプリが得られ、土台となる React パッケージと CLI は Apache-2.0 で公開されています。"
 url: https://vibes.diy/
@@ -19,7 +19,7 @@ level: [higher ed, k 12]
 confidence: high
 connected_resources: [onmicro-ai]
 translation_of: resources/vibes-diy
-source_updated: "2026-09-23T17:45:00-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -46,4 +46,6 @@ ai_assist:
 このプラットフォームには無料プランがありますが、クレジット制です。アカウントには月 1,000 AI クレジットが付与され、構築、編集、画像生成、アプリ内の AI 機能はすべてそれを消費します。有料プランでは、期限の切れない追加クレジットを購入できます。このプラットフォームに依存しようとする授業は、無料利用が無制限ではなく計量制であることを踏まえて現在の規約を確認すべきであり、学生が作ったアプリを、それ自体のデータ処理上の問いを伴うコンテンツとして扱うべきです。
 
 ## 関連する概念
-[[ai-literacy]], [[open-source]], [[design-thinking]], [[constructivist]], [[learning-design]]
+
+[[ai-literacy]], [[open-source]], [[design-thinking]], [[constructivist]], [[learning-design]], [[vibe-coding]]
+

@@ -1,7 +1,7 @@
 ---
 title: "Education Agent Skills"
 created: "2026-09-23T21:05:00-04:00"
-updated: "2026-09-23T21:05:00-04:00"
+updated: "2026-10-24T08:37:08-04:00"
 type: resource
 summary: "A library of 165 evidence-grounded agent skills covering pedagogy, learning science, curriculum, and assessment, packaged for Claude, Codex, and Hermes."
 url: https://github.com/GarethManning/education-agent-skills
@@ -40,4 +40,6 @@ The project's distinguishing claim is its grounding: skills cite the evidence th
 The educational skills, documentation, and curriculum materials are licensed CC BY-SA 4.0, so reuse and adaptation are open while derivatives must carry the same license. Two operational details matter if you deploy it. The hosted MCP endpoint requires tokens rather than being open to anyone, and because the server serves a committed snapshot rather than the SKILL.md files, a skill you add without rebuilding and committing the bundle will not appear on the live server even after a redeploy. The library is built by Gareth Manning, an educator and curriculum designer, and the licensing terms apply to the educational content specifically.
 
 ## Connected Concepts
-[[learning-design]], [[ai-literacy]], [[active-learning]], [[online-teaching-and-learning]], [[open-source]]
+
+[[learning-design]], [[ai-literacy]], [[active-learning]], [[online-teaching-and-learning]], [[open-source]], [[educational-development]]
+

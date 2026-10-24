@@ -123,7 +123,7 @@ Un tema definitorio es que los robots son eficaces cuando apoyan objetivos de ap
 - [[social-robot-study-companions]] — Los robots sociales como compañeros de estudio
 - [[enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen]] — Integración robot-LLM en la escritura creativa
 - [[game-based-gamified-robotics-education-review-2026]] — Educación en robótica basada en juegos y gamificada
-- [[bots-blocks-project-based-robotics-education-2026]] — Bots and Blocks
+- [[bots-blocks-project-based-robotics-education-2026]] — Bots y bloques
 - [[educational-robotics-pathways-2026]] — Itinerarios hacia el aprendizaje de la robótica educativa con IA (2026)
 - [[tsingidou-ct-robotics-kindergarten-2026]] — Pensamiento computacional mediado por robots en el jardín de infancia
 - [[ai-toys-child-development-2026]] — Juguetes habilitados con IA y desarrollo infantil

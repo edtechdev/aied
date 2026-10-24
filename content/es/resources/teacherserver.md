@@ -1,7 +1,7 @@
 ---
 title: "TeacherServer"
 created: "2026-09-27T03:01:26-04:00"
-updated: "2026-09-27T03:01:26-04:00"
+updated: "2026-10-24T08:38:48-04:00"
 type: resource
 summary: "Una amplia biblioteca gratuita de generadores didácticos de propósito único — planes de clase, hojas de trabajo, objetivos del IEP, rúbricas, estudios de caso, problemas matemáticos — para el profesorado de K-12 y el profesorado universitario."
 url: https://teacherserver.com/
@@ -20,7 +20,7 @@ confidence: high
 connected_resources: [edugems]
 translation_of: resources/teacherserver
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
-source_updated: "2026-09-22T06:42:37-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
@@ -40,4 +40,6 @@ Para K-12: generadores de planes de clase, hojas de trabajo, objetivos del [[spe
 El proyecto afirma contar con un servidor de IA instalado localmente para ganar velocidad, que los datos se procesan localmente y nunca se almacenan, y el cumplimiento de las directrices del Departamento de Educación; la [página del equipo](https://teacherserver.com/index-team.php) nombra a Zafer Unal, profesor de la Universidad del Sur de Florida, como fundador y desarrollador, junto a un consejo asesor de cuatro miembros del profesorado de otras universidades. Todavía conviene verificar esas afirmaciones antes de usarlo con trabajo del estudiantado. El acceso requiere registro, y existe una plataforma complementaria, de pago posterior, para construir sus propias herramientas.
 
 ## Conceptos conectados
-[[generative-ai]], [[llm]], [[formative-assessment]], [[teacher-ai-competency]], [[online-teaching-and-learning]]
+
+[[generative-ai]], [[llm]], [[formative-assessment]], [[teacher-ai-competency]], [[online-teaching-and-learning]], [[automated-question-generation]], [[higher-ed]], [[special-education]]
+

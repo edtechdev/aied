@@ -19,7 +19,7 @@ confidence: high
 connected_resources: [pause-ai-use-self-examination]
 reviewed_by: [editor]
 translation_of: resources/pressing-prompts
-source_updated: "2026-09-20T13:49:11-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
@@ -40,4 +40,6 @@ ai_assist:
 זה התחיל באוניברסיטת דיוק ב-2024–2025 כערכת-הכלים ללימודי אתיקת AI, שתוכנן בשיתוף על ידי סטודנטים לתואר ראשון, ספרנים, סגל וטכנולוגים ברחבי מרכז ההוראה והלמידה וספריות דיוק, והושק מחדש לאחר משוב ועיצוב מחדש על ידי Hannah Rozear, Remi Kalir ו-Aria Chernik.
 
 ## מושגים מקושרים
-[[critical-pedagogy]], [[inquiry-based-learning]], [[ai-literacy]], [[critical-thinking]], [[sustainability]], [[digital-divide]]
+
+[[critical-pedagogy]], [[inquiry-based-learning]], [[ai-literacy]], [[critical-thinking]], [[sustainability]], [[digital-divide]], [[higher-ed]]
+
