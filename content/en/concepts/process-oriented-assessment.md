@@ -10,7 +10,7 @@ assessment: [assessment, ai-detection, assessment-validity, authentic-assessment
 ethics: [equity-in-ai-education]
 level: [higher ed]
 confidence: high
-connected_resources: [process-feedback]
+connected_resources: [process-feedback, code-viva]
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash

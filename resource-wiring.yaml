@@ -11,6 +11,12 @@
   - educational-policy-ai
   - governance
   reason: Listed on the concept page(s) shown.
+- resource: code-viva
+  reviewed: '2026-10-24'
+  hosts:
+  - oral-assessment
+  - process-oriented-assessment
+  reason: Listed on the concept page(s) shown.
 - resource: clarity
   reviewed: '2026-09-28'
   hosts:
