@@ -15,6 +15,8 @@ export interface NewsStrings {
   introHtml: string;
   /** The two feeds, and how they differ. May contain inline HTML. */
   feedsHtml: string;
+  /** How to get the newsletter by email, through a feed-to-email service. */
+  emailHtml: string;
   /** Shown when no issue is published. */
   empty: string;
   /** Back-link on an issue page. */
@@ -33,6 +35,8 @@ const id: NewsStrings = {
     'Ringkasan mingguan dari <a href="/aied/">Basis Pengetahuan AI dalam Pendidikan</a> tentang apa arti riset yang terbit pekan ini bagi pengajar, pengembang, peneliti, dan administrator. Setiap terbitan menautkan makalah di balik setiap klaim, dan bagian internal di bawah memantau apa yang berubah di situs ini sendiri.',
   feedsHtml:
     'Dua feed RSS membawanya. <a href="/aied/news/rss.xml">Feed newsletter</a> hanya memuat terbitan, satu entri per pekan. <a href="/aied/rss.xml">Feed basis pengetahuan</a> memuat setiap ringkasan artikel baru begitu ditambahkan, yaitu materi yang sama dengan sumber terbitan, dengan laju yang jauh lebih tinggi.',
+  emailHtml:
+    'Agar setiap terbitan sampai ke email Anda, tempelkan feed newsletter ke <a href="https://blogtrottr.com/">Blogtrottr</a>, layanan gratis pihak ketiga yang mengirim feed ke kotak masuk sesuai jadwal yang Anda pilih. Pesannya memuat iklan.',
   empty: 'Belum ada terbitan yang diterbitkan.',
   allIssues: 'Semua terbitan',
   otherIssuesAria: 'Terbitan lain',

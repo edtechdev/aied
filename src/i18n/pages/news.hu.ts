@@ -15,6 +15,8 @@ export interface NewsStrings {
   introHtml: string;
   /** The two feeds, and how they differ. May contain inline HTML. */
   feedsHtml: string;
+  /** How to get the newsletter by email, through a feed-to-email service. */
+  emailHtml: string;
   /** Shown when no issue is published. */
   empty: string;
   /** Back-link on an issue page. */
@@ -33,6 +35,8 @@ const hu: NewsStrings = {
     'Heti összefoglaló az <a href="/aied/">AI az oktatásban tudásbázisból</a> arról, mit jelentenek a héten megjelent új kutatási eredmények az oktatók, fejlesztők, kutatók és intézményvezetők számára. Minden kiadás linkeli minden állítás mögött a tanulmányt, az alján lévő belső rész pedig azt követi, mi változott magán az oldalon.',
   feedsHtml:
     'Két RSS-hírcsatorna hordozza. A <a href="/aied/news/rss.xml">hírlevél-hírcsatorna</a> csak a kiadásokat tartalmazza, hetente egy bejegyzést. A <a href="/aied/rss.xml">tudásbázis-hírcsatorna</a> minden új cikkösszefoglalót tartalmaz, amint bekerül, ez ugyanaz az anyag, amelyből a kiadások készülnek, csak sokkal sűrűbb ütemben.',
+  emailHtml:
+    'Az egyes kiadások e-mailben történő megkapásához illessze be a hírlevél-hírcsatornát a <a href="https://blogtrottr.com/">Blogtrottr</a> szolgáltatásba, amely ingyenes, harmadik fél által üzemeltetett, és a választott ütemezés szerint küldi a hírcsatornát a postaládájába. Az üzenetei hirdetéseket tartalmaznak.',
   empty: 'Még nem jelent meg kiadás.',
   allIssues: 'Összes kiadás',
   otherIssuesAria: 'További kiadások',

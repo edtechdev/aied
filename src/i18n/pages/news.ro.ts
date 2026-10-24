@@ -15,6 +15,8 @@ export interface NewsStrings {
   introHtml: string;
   /** The two feeds, and how they differ. May contain inline HTML. */
   feedsHtml: string;
+  /** How to get the newsletter by email, through a feed-to-email service. */
+  emailHtml: string;
   /** Shown when no issue is published. */
   empty: string;
   /** Back-link on an issue page. */
@@ -33,6 +35,8 @@ const ro: NewsStrings = {
     'Un rezumat săptămânal din <a href="/aied/">baza de cunoștințe despre inteligența artificială în educație</a>, despre ce înseamnă cercetarea publicată în cursul săptămânii pentru cadrele didactice, dezvoltatori, cercetători și administratori. Fiecare număr leagă lucrarea din spatele fiecărei afirmații, iar lucrările interne de la final urmăresc ce s-a schimbat pe site.',
   feedsHtml:
     'Două fluxuri RSS o difuzează. <a href="/aied/news/rss.xml">Fluxul newsletterului</a> conține doar numerele, o intrare pe săptămână. <a href="/aied/rss.xml">Fluxul bazei de cunoștințe</a> conține fiecare rezumat nou de articol pe măsură ce este adăugat, adică același material din care provin numerele, la un ritm mult mai ridicat.',
+  emailHtml:
+    'Pentru a primi fiecare număr pe e-mail, lipește fluxul newsletterului în <a href="https://blogtrottr.com/">Blogtrottr</a>, un serviciu gratuit al unei terțe părți care trimite un flux în căsuța ta de e-mail la ritmul pe care îl alegi. Mesajele lui conțin publicitate.',
   empty: 'Nu a fost publicat încă niciun număr.',
   allIssues: 'Toate numerele',
   otherIssuesAria: 'Alte numere',

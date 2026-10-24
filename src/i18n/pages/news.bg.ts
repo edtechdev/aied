@@ -15,6 +15,8 @@ export interface NewsStrings {
   introHtml: string;
   /** The two feeds, and how they differ. May contain inline HTML. */
   feedsHtml: string;
+  /** How to get the newsletter by email, through a feed-to-email service. */
+  emailHtml: string;
   /** Shown when no issue is published. */
   empty: string;
   /** Back-link on an issue page. */
@@ -33,6 +35,8 @@ const bg: NewsStrings = {
     'Седмичен преглед от <a href="/aied/">Базата знания за AI в образованието</a> за това какво означават публикуваните през седмицата нови изследвания за преподавателите, разработчиците, изследователите и администраторите. Всеки брой свързва статията зад всяко твърдение, а вътрешната работа в края проследява какво се промени по самия сайт.',
   feedsHtml:
     'Издават го две RSS емисии. <a href="/aied/news/rss.xml">Емисията на бюлетина</a> съдържа само броевете, по един запис седмично. <a href="/aied/rss.xml">Емисията на базата знания</a> съдържа всяко ново резюме на статия при добавянето му, което е същият материал, от който се правят броевете, но с много по-висока честота.',
+  emailHtml:
+    'За да получавате всеки брой по имейл, поставете емисията на бюлетина в <a href="https://blogtrottr.com/">Blogtrottr</a>, безплатна услуга от трета страна, която изпраща емисия в пощенската ви кутия по избран от вас график. Съобщенията ѝ съдържат реклами.',
   empty: 'Още не са публикувани броеве.',
   allIssues: 'Всички броеве',
   otherIssuesAria: 'Други броеве',

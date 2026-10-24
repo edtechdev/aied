@@ -51,6 +51,7 @@ const feedsHtml = withIcon(s.feedsHtml);
 
   <p class="news-intro" set:html={introHtml} />
   <p class="news-intro" set:html={feedsHtml} />
+  <p class="news-intro" set:html={s.emailHtml} />
 
   {issues.length === 0 && <p class="news-empty">{s.empty}</p>}
 

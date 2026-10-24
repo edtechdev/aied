@@ -16,6 +16,8 @@ const fi: NewsStrings = {
     'Viikoittainen katsaus <a href="/aied/">AI koulutuksessa -tietopankista</a>: mitä viikon aikana julkaistu uusi tutkimus merkitsee opettajille, kehittäjille, tutkijoille ja hallintohenkilöille. Jokainen numero linkittää väitteidensä taustalla olevaan tutkimukseen, ja alareunan sisäinen osuus kertoo, mitä sivustolla itsessään muuttui.',
   feedsHtml:
     'Sitä välittää kaksi RSS-syötettä. <a href="/aied/news/rss.xml">Uutiskirjesyöte</a> sisältää vain numerot, yhden viikossa. <a href="/aied/rss.xml">Tietopankin syöte</a> sisältää jokaisen uuden artikkelitiivistelmän heti kun se lisätään, eli samaa aineistoa, josta numerot kootaan, paljon tiheämpään tahtiin.',
+  emailHtml:
+    'Saadaksesi jokaisen numeron sähköpostitse liitä uutiskirjesyöte <a href="https://blogtrottr.com/">Blogtrottr</a>-palveluun. Se on ilmainen kolmannen osapuolen palvelu, joka lähettää syötteen sähköpostiisi valitsemallasi aikataululla, ja sen viestit sisältävät mainoksia.',
   empty: 'Numeroita ei ole vielä julkaistu.',
   allIssues: 'Kaikki numerot',
   otherIssuesAria: 'Muut numerot',
