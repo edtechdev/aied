@@ -1,7 +1,7 @@
 ---
 title: Learning Design
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-03T02:57:43-04:00"
+updated: "2026-10-24T09:56:38-04:00"
 type: concept
 foundations: [ai-literacy, curriculum-design, educational-development, learning-design, teacher-role]
 pedagogy: [scaffolding]
@@ -40,6 +40,8 @@ Learning analytics and generative AI support different parts of design: across 1
 ### Key research themes
 
 **AI-assisted content creation** is the most directly transformative application. **[[curriculum-as-code-instructional-design-2026|Curriculum as Code]]** presents a six-phase architecture integrating Generative AI with LaTeX and Python to automate [[stem-education|STEM]] materials creation, validated across 8 modules and 28 project contexts with student quality ratings of 8.5-9.9/10. **[[instructional-agents-multi-agent-course-gen|Instructional Agents]]** uses a multi-agent framework structured around the ADDIE model, with role-based agents (Teaching Faculty, Instructional Designer, Course Coordinator) collaborating to generate complete course materials. **[[courseblueprint-adaptive-video-generation|CourseBlueprint]]** provides a structured pipeline for adaptive [[pedagogy|pedagogical]] [[video-education|video generation]] grounded in course corpora, demonstrating that explicit pedagogical structure — not just AI fluency — is essential for educational content generation. [[generative-ai|Generative AI]] platforms can also embody learning-design principles in the content they produce: [[ai-modeling-problem-generation-platform-2026|an AI-powered platform for generating mathematical modeling problems]] combined established design principles with [[prompt-engineering|retrieval-augmented generation]], developed through the ADDIE approach to produce pedagogically grounded tasks and recommendations that conventional content generators lack. Yet the payoff of such AI-assisted content and lesson generation is mediated by the teacher's own expertise: [[choi-teacher-ai-interaction-lesson-design-2026|Choi et al. (2026)]] found that experienced teachers critically adapt AI-generated lesson ideas to students and context (re-prompting and elaborating on output), whereas novices tend to accept AI suggestions directly — so the pedagogical value of AI content tools depends on the teacher's experience and AI proficiency, not the tool alone. A systematic review of [[wang-teacher-ai-co-design-review-2026|teacher–AI co-design of learning tasks]] (Wang, Liu & Islam 2026) confirms the pattern at scale across 28 studies (2015–2025): GenAI is used mainly for lesson planning, prompt generation, and creative ideation, and the dominant collaboration mode is AI as assistant/content generator rather than a fuller co-designer — with efficiency, responsiveness, [[creativity]], and [[equity-in-ai-education|equity]] recurring as affordances. [[talebzadeh-ai-group-activity-roles-2026|Talebzadeh (2026)]] sharpens the teacher-expertise finding for group activity design: experienced teachers produce richer, more synergistic, better ZPD-aligned role architectures in AI-designed cooperative activities than novices regardless of AI familiarity, framing "pedagogical prompt literacy" as the lever that turns AI output into effective [[collaborative-learning|differentiated group learning]].
+
+The Aila trial puts a planning-time number on that pattern. Teachers in its randomized primary schools spent 2.51 hours a week preparing lessons with the tool against 3.32 hours without it, yet the median teacher planned only 21% to 40% of lessons from scratch, which is the case a from-scratch tool addresses ([[roy-aila-lesson-planning-teacher-choices-2026|Roy et al., 2026]]).
 
 Where generated materials fall short is curriculum fit: seven math teachers rated AI-generated productive-failure problems close to human ones on overall quality (M = 17.19 vs 17.43 of 25) but lower on curriculum alignment (M = 2.57 vs 3.29), so generated problems still needed editing for length, reading level, and visuals ([[rhaimi-productivemath-2025|Rhaimi et al. (2025)]]).
 
@@ -120,6 +122,8 @@ Fowlin et al. (2026) add an operational move for deciding where AI enters: unbun
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 
 ## Connected Articles
+
+- [[roy-aila-lesson-planning-teacher-choices-2026]] — A measured planning-time saving alongside the finding that teachers plan only 21% to 40% of lessons from scratch
 - [[powerful-learning-with-emerging-technology-2025]] — Powerful Learning with Emerging Technology
 - [[claassen-learning-analytics-genai-learning-design-2026]] — LA and GenAI in learning design decision-making
 - [[tang-chatbots-learning-design-2026]] — Chatbot use in learning design: designers dwell on outcomes and pedagogy rather than content generation (Tang et al. 2026)

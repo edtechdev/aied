@@ -1,7 +1,7 @@
 ---
 title: RAG (Retrieval-Augmented Generation)
 created: "2026-08-09T10:44:35-04:00"
-updated: '2026-10-24T06:22:00-04:00'
+updated: "2026-10-24T09:56:38-04:00"
 type: concept
 connected_faqs: [making-ai-better-at-supporting-learning]
 technology: [generative-ai, intelligent-tutoring, knowledge-graph, llm, llm-training-and-fine-tuning, edtech-platform]
@@ -30,6 +30,7 @@ reviewed_by: [editor]
 - **Grounding is only as good as source inspection:** only 1 of 12 participants noticed a deliberately mismatched source card, so a provenance label can act as a seal of authority rather than an invitation to verify the retrieved material ([[veriforge-narrative-drafting-scaffolding-2026|Sun et al. (2026)]]).
 - **Curriculum-grounded tutoring:** [[retrieval-augmented-tutoring-algorithm-kite|KITE]] retrieves relevant curriculum materials to inform tutoring responses, ensuring alignment with course content.
 - **On-premises deployment for institutional control:** CourseChat runs a multi-course RAG tutor for undergraduate [[business-education|business education]] on local edge hosts with a local vector database and an Ollama-served 8B model, keeping course materials and student dialogue on campus infrastructure; model choice became a joint hardware-and-serving decision when larger candidates failed a latency gate ([[on-premises-rag-tutoring-business-education-2026|CourseChat]]).
+- **Curriculum-grounded retrieval did not separate itself on time.** Aila retrieves from Oak National Academy's quality-assured curriculum plans, and teachers in its trial spent 0.76 of the comparison group's lesson preparation time ([[roy-aila-lesson-planning-teacher-choices-2026|Roy et al., 2026]]). The report reads that as similar to the general ChatGPT trial's 0.69, so grounding in verified curriculum content was not what separated them.
 - **Textbook and materials indexing:** [[book-level-synthetic-textbook-organization|Synthetic textbook organization]] indexes educational content for retrieval. [[structrag-diagram-reasoning-ai-tutoring|StructRAG]] extends retrieval to structured diagrams.
 - **Training pipeline integration:** [[llm-training-and-fine-tuning|Pedagogical LLM training]] uses RAG to ground tutor training in educational best practices.
 - **Course-specific academic support:** [[course-specific-rag-help-seeking-higher-ed-2026|Beacon]] retrieves from a single programming module's approved teaching materials to serve students who hesitate to approach a lecturer, and 89% of the 15 evaluating students rated its responses highly aligned with course materials; the design point is that grounding is an institutional answer to the mismatch between general-purpose [[llm|LLMs]] and module-level expectations.
@@ -56,6 +57,8 @@ RAG serves a complementary role to [[llm]] fine-tuning — retrieval provides up
 - [[ai-technologies]] — Umbrella: AI technologies and techniques (models, LLM training, robotics, RAG, agentic)
 
 ## Connected Articles
+
+- [[roy-aila-lesson-planning-teacher-choices-2026]] — A curriculum-grounded lesson assistant whose time saving did not exceed a general chatbot's
 
 - [[eduguard-safe-rag-llm-tutor]]
 - [[eduzone-llm-safety-k12]]
