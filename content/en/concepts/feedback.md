@@ -2,7 +2,7 @@
 connected_resources: [clarity, pedagogical-promptbook, snorkl]
 title: Feedback
 created: "2026-08-15T19:02:13-04:00"
-updated: "2026-10-17T03:49:06-04:00"
+updated: "2026-10-23T22:48:50-04:00"
 type: concept
 assessment: [ai-feedback-quality, assessment, automated-assessment, feedback, feedback-literacy, formative-assessment, peer-assessment]
 connected_faqs: [developing-ai-tutor, ai-feedback-at-scale]
@@ -131,6 +131,7 @@ A two-layer model shows how the pairing can be organized around a machine withou
 Feedback is one of the most consequential and best-evidenced mechanisms in education, and AI both amplifies and complicates it. Well-architected AI feedback can match or exceed human feedback and scale across cohorts, but it demands new learner capabilities ([[feedback-literacy]], [[ai-literacy]]) and carries risks (uncritical acceptance, [[cognitive-offloading|Over-Reliance]]). As AI-generated feedback becomes ubiquitous, the knowledge base frames feedback as a whole system — quality, loop, literacy, and assessment context working together — rather than as any single component.
 
 - **Feedback can target the feedback-giver.** Tutor training is an under-explored feedback context: automated systems that sequence-label tutors' open-ended responses to flag praise types (effort-based praise — the desirable process-focused kind — vs. outcome-based vs. person-based, the least desirable trait-attributing kind) can deliver explanatory feedback that changes tutoring behavior. The binding constraint is expert-labeled data. An augmentation approach — GPT-4o generates synthetic labeled responses expanding a 13-instance low-resource set to 520, then fine-tunes GPT-3.5 — recovers most of the gap: F2 +20.5% on effort-based praise, +17.3% on outcome-based, and +16.5% on the *unseen* person-based category. The generalization test to an unseen praise type is the validity check that separates this from overfitting, and the mechanism is closer to teacher-model distillation than classical augmentation. ([[xu-automated-feedback-tutor-training-2025]])
+- **Feedback that cannot see the revision gets repeated.** In a science learning game whose agents critiqued draft arguments, students revised across multiple rounds, but a quantized 8B model returned substantially the same critique to an improved draft, so the loop that motivated revision also produced the frustration that ended it ([[humburg-scistory-ai-supported-inquiry-science-learning-games-2025|Humburg et al., 2025]]).
 
 ## Connected Concepts
 
@@ -152,6 +153,7 @@ Feedback is one of the most consequential and best-evidenced mechanisms in educa
 - [[writing-education]]
 
 ## Connected Articles
+- [[humburg-scistory-ai-supported-inquiry-science-learning-games-2025]] — Agent feedback that repeated itself across revisions (Humburg et al. 2025)
 - [[jansen-argumentative-writing-feedback-receptivity-2026]] — Automated feedback on argumentative writing: The role of secondary students' feedback receptivity and feedback perception
 - [[ai-agents-joyful-assessment-third-space-2026]] — AI agents, joyful assessment, and third space
 - [[student-perspectives-ai-writing-grading-2026]] — Student perspectives on transparent AI-assisted writing assessment (AlGhamdi 2026)

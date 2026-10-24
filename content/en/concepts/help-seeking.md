@@ -1,7 +1,7 @@
 ---
 title: Help-Seeking
 created: "2026-08-06T10:20:04-04:00"
-updated: "2026-10-03T02:57:43-04:00"
+updated: "2026-10-23T22:48:50-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [help-seeking, metacognition, scaffolding, self-regulated-learning]
@@ -80,6 +80,8 @@ Rather than removing help, research recommends re-engineering how it is delivere
 
 Real-world students frequently **bypass a [[conversational-ai|chatbot]]'s [[scaffolding]]** — not necessarily harmfully, but often because there is a mismatch between the chatbot's pedagogical framing and the student's own learning goals. Evaluation pipelines must therefore measure not just whether a tutor scaffolds, but whether students *take up* that scaffolding, rather than assuming they will.([[rethinking-scaffolding-llm-tutors]])
 
+- **An optional help button goes unclicked.** In three fifth-grade classrooms, students rarely summoned a helper agent the design had deliberately left optional to protect agency, calling a teacher instead while the confusion it was built for persisted ([[humburg-scistory-ai-supported-inquiry-science-learning-games-2025|Humburg et al., 2025]]).
+
 ## Help-seeking and self-regulated learning
 
 Help-seeking is an integral part of [[self-regulated-learning]]: productive help-seeking requires learners to monitor understanding, judge when help is needed, and select appropriate sources. In GenAI contexts, this becomes even more demanding, since students must also exercise [[agency]] over the AI and maintain epistemic vigilance rather than deferring to it. Research in this knowledge base supports the need for [[scaffolding|scaffolds]] that promote more [[agentic-ai|agentic]] and epistemically proactive AI use, and highlights the risk of [[cognitive-offloading|Over-Reliance]] and [[cognitive-offloading]] when help-seeking degrades into unconditional answer-seeking.([[regulating-ai-tutor-adolescent-srl]])([[guided-llm-scaffolding-independent-learning]])
@@ -125,6 +127,7 @@ In fully online [[english-education|composition]], availability of the tool is n
 - [[student-support-and-success]] — institutional outreach and support allocation, beyond in-course help-seeking
 
 ## Connected Articles
+- [[humburg-scistory-ai-supported-inquiry-science-learning-games-2025]] — A helper agent nobody asked for (Humburg et al. 2025)
 
 - [[penquiry-pen-based-llm-qa-2026]] — Penquiry: A Pen-based Interactive In-situ Q&A System Leveraging LLMs
 - [[tutortrace-learner-behavioral-states-2026]]
