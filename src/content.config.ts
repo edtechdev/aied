@@ -15,6 +15,10 @@ const articlesDir = contentDir(DEFAULT_LOCALE_DIR, 'articles');
 const conceptsDir = contentDir(DEFAULT_LOCALE_DIR, 'concepts');
 const faqsDir = contentDir(DEFAULT_LOCALE_DIR, 'faqs');
 const resourcesDir = contentDir(DEFAULT_LOCALE_DIR, 'resources');
+// Newsletters are English-only and are not one of the knowledge-base collections:
+// they carry no translations and no facets, so they stay out of COLLECTIONS and
+// out of the translation globs.
+const newslettersDir = contentDir(DEFAULT_LOCALE_DIR, 'newsletters');
 
 // Keep `created`/`updated` as the ORIGINAL frontmatter string (e.g.
 // "2026-08-16T20:02:54-04:00"). We must NOT pass them through `z.date()`
@@ -407,6 +411,25 @@ const resources = defineCollection({
 //
 // Collection ids stay `<locale>/<collection>/<slug>` (relative to the content root),
 // which is what the [locale] routes and `translation_of` use.
+// ==== Newsletters (2026-10-23) ====
+// One file per issue at <content>/en/newsletters/<issue-date>.md, rendered at
+// /aied/news/<issue-date>/ and listed on /aied/news/. `created` is the issue date
+// (full timestamp, like every other page, so the sidebar and journal can sort it).
+// `status` lets a draft sit in the folder without appearing on the site.
+const newsletters = defineCollection({
+  loader: glob({ pattern: '*.md', base: newslettersDir }),
+  schema: z.object({
+    title: z.string(),
+    created: timeField,
+    updated: timeField.optional().transform(v => v ?? ''),
+    issue: z.number(),
+    // One sentence for the /news listing and the feed description.
+    summary: z.string(),
+    status: z.enum(['draft', 'ready', 'published']).catch('published'),
+    spotlight: z.array(z.string()).optional(),
+  }),
+});
+
 const TRANSLATED_COLLECTIONS = COLLECTIONS.filter((name) => name !== 'articles');
 
 const translations = defineCollection({
@@ -452,4 +475,4 @@ const translations = defineCollection({
   }),
 });
 
-export const collections = { articles, concepts, faqs, resources, translations };
+export const collections = { articles, concepts, faqs, resources, newsletters, translations };

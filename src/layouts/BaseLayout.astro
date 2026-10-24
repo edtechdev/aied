@@ -21,6 +21,7 @@ import { DEFAULT_STARRED } from '../stores/stars';
 import { TRANSLATED_ROUTES, localeHref, localizeHref, setTranslationMap, translationMapFrom, taxonomyHeading } from '../i18n/config';
 import { buildNavItems } from '../lib/nav';
 import siteConfig from '../config/siteConfig';
+import { rssIcon } from '../lib/pageTypeIcons';
 import 'katex/dist/katex.min.css';
 
 const {
@@ -108,6 +109,8 @@ const concepts = await getCollection('concepts');
 const articles = await getCollection('articles');
 const faqs = await getCollection('faqs');
 const resources = await getCollection('resources');
+// Newsletter issues (English-only, so they are listed once, at /news/<date>/).
+const newsletters = (await getCollection('newsletters')).filter(n => n.data.status !== 'draft');
 
 // Titles translated for the locale being rendered, keyed `<collection>/<slug>`.
 // Empty for the default locale, so the English output is unchanged; the sidebar
@@ -186,6 +189,7 @@ const recentPages = [
   ...concepts.map(c => ({ kind: 'concept' as const, entry: c })),
   ...faqs.map(f => ({ kind: 'faq' as const, entry: f })),
   ...resources.map(r => ({ kind: 'resource' as const, entry: r })),
+  ...newsletters.map(n => ({ kind: 'newsletter' as const, entry: n })),
 ]
   .filter(p => p.entry.data.created)
   .sort((a, b) => (b.entry.data.created || '').localeCompare(a.entry.data.created || ''))
@@ -207,11 +211,12 @@ const recentConcepts = concepts
   .slice(0, 15);
 
 // Formatted item arrays for the RecentActivity component
-const SECTIONS: Record<'article' | 'concept' | 'faq' | 'resource', string> = {
+const SECTIONS: Record<'article' | 'concept' | 'faq' | 'resource' | 'newsletter', string> = {
   article: 'articles',
   concept: 'concepts',
   faq: 'faqs',
   resource: 'resources',
+  newsletter: 'newsletters',
 };
 // The sidebar's two lists enumerate the ENGLISH collections, so both the title and
 // the href must go through the locale helpers: one list that renders "Critical
@@ -222,6 +227,16 @@ const SECTIONS: Record<'article' | 'concept' | 'faq' | 'resource', string> = {
 // byte-identical.
 const recentPageItems = recentPages.map(p => {
   const slug = p.entry.id.replace('.md', '');
+  // A newsletter issue has one English URL for every locale and its title is the
+  // newsletter's name, so the list entry carries the issue number instead.
+  if (p.kind === 'newsletter') {
+    return {
+      kind: p.kind,
+      title: p.entry.data.title,
+      url: `${siteConfig.basePath}/news/${slug}/`,
+      date: fmtDateTime(p.entry.data.created),
+    };
+  }
   return {
     kind: p.kind,
     title: localizedTitle(localized, SECTIONS[p.kind], slug, p.entry.data.title),
@@ -335,6 +350,7 @@ const recentConceptItems = recentConcepts.map(c => {
   <meta name="twitter:description" content={description} />
   <meta name="twitter:image" content={`${siteConfig.url}/og-concept-map.png`} />
   <link rel="alternate" type="application/rss+xml" title={`${siteConfig.name} RSS`} href={`${siteConfig.basePath}/rss.xml`} />
+  <link rel="alternate" type="application/rss+xml" title="AIEd KB Weekly Update" href={`${siteConfig.basePath}/news/rss.xml`} />
   <link rel="stylesheet" href="/aied/vendor/pico.min.css" />
   <link href="/aied/pagefind/pagefind-component-ui.css" rel="stylesheet" />
   <style>
@@ -1418,6 +1434,14 @@ const recentConceptItems = recentConcepts.map(c => {
             <line x1="17" y1="12.5" x2="17" y2="14.5"></line>
           </svg>
         </a>
+        <a href={`${siteConfig.basePath}/news/`} class="header-icon" data-overflow-item data-priority="2" title={ui.newsletterLink} aria-label={ui.newsletterLink}>
+          <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <path d="M4 22h16a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2H8a2 2 0 0 0-2 2v16a2 2 0 0 1-4 0V6"></path>
+            <path d="M18 14h-8"></path>
+            <path d="M15 18h-5"></path>
+            <path d="M10 6h8v4h-8V6Z"></path>
+          </svg>
+        </a>
         <a href={localizeHref('/aied/journal', locale)} class="header-icon" data-overflow-item data-priority="1" title={ui.journalLink} aria-label={ui.journalLink}>
           <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
             <path d="M11.998 2.5A9.503 9.503 0 0 0 3.378 8H5.75a.75.75 0 0 1 0 1.5H2a1 1 0 0 1-1-1V4.75a.75.75 0 0 1 1.5 0v1.697A10.997 10.997 0 0 1 11.998 1C18.074 1 23 5.925 23 12s-4.926 11-11.002 11C6.014 23 1.146 18.223 1 12.275a.75.75 0 0 1 1.5-.037 9.5 9.5 0 0 0 9.498 9.262c5.248 0 9.502-4.253 9.502-9.5s-4.254-9.5-9.502-9.5Z"></path>
@@ -1526,13 +1550,14 @@ const recentConceptItems = recentConcepts.map(c => {
   <footer>
     <div class="container">
       <div class="footer-nav">
-        <a href={`${siteConfig.basePath}/`}>{chrome.home}</a> ·
-        <a href={`${siteConfig.basePath}/search`}>{chrome.search}</a> ·
-        <a href={`${siteConfig.basePath}/journal`}>{ui.journalLink}</a> ·
-        <a href={`${siteConfig.basePath}/ai`}>{chrome.useWithAi}</a> ·
-        <a href={`${siteConfig.basePath}/resources`}>{chrome.resources}</a> ·
-        <a href={siteConfig.repoUrl}>GitHub</a> ·
-        <a href={`${siteConfig.basePath}/rss.xml`}>{chrome.rss}</a>
+        <a href={`${siteConfig.basePath}/`}>{chrome.home}</a>{' | '}
+        <a href={`${siteConfig.basePath}/search`}>{chrome.search}</a>{' | '}
+        <a href={`${siteConfig.basePath}/news/`}>{ui.newsletterLink}</a>{' | '}
+        <a href={`${siteConfig.basePath}/journal`}>{ui.journalLink}</a>{' | '}
+        <a href={`${siteConfig.basePath}/ai`}>{chrome.useWithAi}</a>{' | '}
+        <a href={`${siteConfig.basePath}/resources`}>{chrome.resources}</a>{' | '}
+        <a href={siteConfig.repoUrl}>GitHub</a>{' | '}
+        <a href={`${siteConfig.basePath}/rss.xml`}><Fragment set:html={rssIcon(14)} />{chrome.rss}</a>
       </div>
     </div>
     <div class="container">
