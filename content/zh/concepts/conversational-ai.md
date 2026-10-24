@@ -1,13 +1,13 @@
 ---
 title: 对话式人工智能
 created: "2026-08-22T04:44:37-04:00"
-updated: "2026-10-09T18:39:26-04:00"
+updated: "2026-10-24T14:42:05-04:00"
 type: concept
 foundations: [ai-literacy, human-ai-collaboration]
 technology: [conversational-ai, generative-ai, intelligent-tutoring, llm, pedagogical-agent]
 confidence: medium
 translation_of: concepts/conversational-ai
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-18T10:07:01-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -45,6 +45,8 @@ ai_assist:
 **交互与协作。** 对话式智能体日益被框定为交互伙伴而非答案给予者。[[student-ai-interaction]]捕捉学习者如何在实践中提示、提问与验证 CAI。在[[collaborative-learning]]中，智能体中介参与与共享[[regulation]]；在[[language-learning]]中，它们提供实时的对话练习。[[human-ai-collaboration]]脉络考察的是这种伙伴关系何时保全、何时取代学习者的认知工作。作为批评伙伴的 LLM 具体展示了保全的一面：[[oppenheimer-llms-collaborative-learning-partners-2026|Oppenheimer、Cash 与 Connell Pensky（2025）]]让 ChatGPT、Gemini 或 Claude 在一学期内批评学生的议论文，学习者在写作、[[prompt-engineering|提示工程]]与对反馈的回应上都有进步，并评价这些交流有用、吸引人且愉快——其中对模型主张的主动反驳（87.8%）表明他们把对话伙伴批判性地对待，而非被动接受。
 
 对话式智能体被用于评分，而其评价行为与人的不同：ChatGPT 是同一批 52 个本科项目的三个评分者中最宽松的（M = 91.46，教师为 83.13），且与同伴不共享任何评分逻辑（r = 0.05），尽管学生看重其对话式交互性（[[usher-faraon-who-grades-best-2026|Usher 与 Faraon（2026）]]）。
+
+**用户以社会性的方式解读智能体的可信度。** 感知到的 ChatGPT 能力直接预测其反馈可信度，而感知到的温暖只通过类人的共情起作用（SEM，230 名学生），见[[chatgpt-feedback-credibility-perceived-learning|Pérez-López 等（2026）]]：一个对话式智能体作为社会伙伴赢得可信度，而不仅是答案来源。
 
 **为学生一侧的对话搭脚手架。** [[helpcoach-ai-help-seeking-scaffolding-2026|Jin 等（2026）]]在聊天界面中加入一个提问具体度监测器与一个修订模板，且仅在提问含糊时介入：在一项有 40 名学习 Web 编程的大学生的组间研究中，HelpCoach 用户写出的首个提问明显更具体（57.3% 对 40.5%），一周后保持的知识也更多（平均增益 1.9 对 0.3，满分 6，d = 1.100）。这一保持收益并非经由更定向的聊天机器人回复，后者不因条件而不同——使机制仍是一个开放的假设，而非一条已证实的通路。
 
@@ -107,10 +109,11 @@ ai_assist:
 
 ## 关联文章
 
-- [[mata-sustaining-ai-enabled-student-support-2026]] — 维持 AI 赋能的学生支持：一个机构聊天机器人的四年实施与影响研究（Mata、Russell 与 Page 2026）
 - [[rho-disengaged-conversational-behaviors-2026]] — 学生—AI 对话中的脱离参与行为（Rho 等 2026）
+
+- [[mata-sustaining-ai-enabled-student-support-2026]] — 维持 AI 赋能的学生支持：一个机构聊天机器人的四年实施与影响研究（Mata、Russell 与 Page 2026）
 - [[usher-faraon-who-grades-best-2026]] — 跨项目质量层级比较 ChatGPT、同伴与教师评分（Usher 与 Faraon 2026）
-- [[llm-agents-5e-esl-grammar-2026]] — LLM agents with 5E framework for ESL grammar acquisition (Yang et al. 2026)
+- [[llm-agents-5e-esl-grammar-2026]] — 用 5E 框架的 LLM 智能体促进 ESL 语法习得（Yang 等 2026）
 - [[semantic-variability-llm-conversation-assessment-2026]]
 - [[colbran-student-perspectives-genai-chatbots-2026]] — 学生对 GenAI 聊天机器人的看法（混合方法）
 - [[saihi-ahmed-genai-adoption-personas-higher-ed-2026]] — AI 聊天机器人的采纳画像
@@ -120,15 +123,16 @@ ai_assist:
 - [[stanford-evidence-base-ai-k12-2026]] — 导学专用 AI vs. 通用 AI
 - [[rethinking-scaffolding-llm-tutors]] — 重新思考 LLM 导学系统中的脚手架
 - [[conversational-agents-novice-programmers-scoping-2025]] — 面向新手程序员的对话式智能体范围综述
-- [[ba-ai-agents-cscl-review-2026]] — AI agents in computer-supported collaborative learning review
+- [[ba-ai-agents-cscl-review-2026]] — 计算机支持的协作学习中的 AI 智能体综述
 - [[lee-wu-gender-motivation-genai-achievement-2026]] — GenAI 成就中的性别与动机
 - [[liao-role-adaptive-ai-companion-book-talk-2026]] — 面向小学读书谈话的角色自适应 AI 伙伴；固定角色智能体的情感天花板（Liao 2026）
 - [[xu-genai-collaborative-space-2026]] — GenAI 作为小组动态中的智能体与协作空间（Xu 等 2026）
 - [[oppenheimer-llms-collaborative-learning-partners-2026]]
 - [[vahedian-children-attitudes-ai-chatbot-2026]]
-- [[culturally-aware-student-stress-chatbot-2026]] — An AI-Powered Culturally Aware Chatbot for Stress Detection and Wellness Support among Pakistani University Students Using NLP and Machine Learning
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: AI and human tutoring yield equivalent GRE learning gains
-- [[helpcoach-ai-help-seeking-scaffolding-2026]] — HelpCoach: Scaffolding Targeted AI Help-Seeking During Problem-Solving
+- [[culturally-aware-student-stress-chatbot-2026]] — 一个 AI 驱动的、文化感知的聊天机器人：用 NLP 与机器学习为巴基斯坦大学生的压力检测与福祉支持
+- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench：AI 与人类辅导产生相当的 GRE 学习增益
+
+- [[helpcoach-ai-help-seeking-scaffolding-2026]] — HelpCoach：在问题求解过程中为定向的 AI 求助搭建脚手架
 
 ## 引用
 

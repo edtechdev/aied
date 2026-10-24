@@ -1,6 +1,7 @@
 ---
 title: 创造力
 created: "2026-08-12T21:20:35-04:00"
+updated: "2026-10-24T14:13:55-04:00"
 type: concept
 foundations: [critical-thinking, design-thinking]
 pedagogy: [constructivist, problem-solving]
@@ -107,8 +108,8 @@ ai_assist:
 - [[bicer-genai-pd-math-creativity-2026]] — 生成式 AI 引导的专业发展如何支持教师对数学创造力、内容知识与教学内容知识的投入
 - [[incipit-axiom-grounded-scaffolding-literary-creation-2026]] — 面向文学创作的公理锚定支架：前提作为主题与文本之间的单位，仅在计划中验证（Liu & Zhao 2026）
 - [[jin-emergent-learner-agency-implicit-hai-2026]] — 隐式人—AI 协作中的涌现学习者能动性：支持性对对立人格
-- [[chatgpt-critical-creative-thinking-review]] — ChatGPT and Critical and Creative Thinking: Systematic Review
-- [[enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen]] — Robot-LLM Integration and Creative Writing
+- [[chatgpt-critical-creative-thinking-review]] — ChatGPT 与批判性和创造性思维：系统综述
+- [[enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen]] — 机器人 LLM 集成与创意写作
 - [[t2i-competence-paradox-2026]] — 艺术与设计学生中文生图 AI 的能力悖论
 - [[mujib-ai-ibl-creative-math-2026]] — AI 支持的探究本位学习与创造性数学表现
 - [[flowcode-ai-creative-coding]] — Flowcode：一个支架创造性计算中迭代的 AI 驱动环境

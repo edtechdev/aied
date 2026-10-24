@@ -1,7 +1,7 @@
 ---
 title: 生产性失败
 created: "2026-08-23T08:25:00-04:00"
-updated: "2026-10-09T18:58:08-04:00"
+updated: "2026-10-24T15:19:27-04:00"
 type: concept
 foundations: [cognitive-offloading]
 pedagogy: [desirable-difficulties, inquiry-based-learning, learning-theories, metacognition, problem-based-learning, scaffolding]
@@ -9,7 +9,7 @@ technology: [generative-ai, learning-analytics]
 assessment: [feedback, learning-gains]
 confidence: high
 translation_of: concepts/productive-failure
-source_updated: "2026-09-30T16:25:27-04:00"
+source_updated: "2026-10-17T07:38:51-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -68,6 +68,7 @@ PF 框架已通过若干相关设计得到扩展，包括**替代性失败（vic
 
 - **风险：AI 抹除挣扎。** 过于"有用"、神谕式的 AI 直接提供答案，可以消除图式建构所需的生产性挣扎，造成[[wang-safety-gap-productive-struggle-2026|Wang 与 Shan（2026）]]所称的**安全差距**——学生的 AI 协助表现与其内在的、无协助的能力之间的偏离。这与[[cognitive-offloading|认知卸载]]相关：替代努力的 AI 会侵蚀教育本要建立的那些能力。
 - **设计回应：为挣扎搭建脚手架的 AI。** [[kim-ai-productive-failure-adult-2026|Kim 等（2026）]]为支持基于生产性失败的学习的 AI 推导出五条设计原则（[[human-ai-collaboration|人机协作]]、[[usability-research|可用性]]、反思式设计、情感设计、开放知识），强调 AI 应当在提供非指示性支持的同时保全挣扎。[[puech-pedagogical-steering-llm-productive-failure-2025|Puech 等（2025）]]显示[[llm|大语言模型]]辅导系统可以被*引导*遵循生产性失败教学法（保留解法、诱发多次尝试），代价是被感知的有用性下降。CoMeT（Hou et al. 2026）为这一代价定价并定位了中间地带：其渐进升级的辅导系统比"按请求作答"的辅导系统高 0.42 个量表点的挫败感（p < .001），而比"只问问题"的那个低 0.29（p = .011），其会话中检测到苦恼的比例为 8.4%，对比保留答案辅导系统下的 16.0%，且它在 6.1% 的会话中交出了完整答案。一个在明确表示放弃而非在感到沮丧时开启的底线，出自同一设计——没有它，最需要这条要求的学习者会绕过它。
+- **保留答案的代价既不是挫败，也不是动机，而只是偏好。** 一项三臂[[rct|RCT]]发现，保留提示的辅导系统在降低挫败感上与无限制的 ChatGPT 相当，且是唯一提升内在动机的臂组，但学生认为给出答案的工具更容易（p = .003）、更有帮助（p = .004）（[[bassner-performance-learning-dissociation-ai-programming-2026|Bassner等人（2026）]]）。
 - **AI 作为 PF 设计的工具：** [[rhaimi-productivemath-2025|ProductiveMath]]用[[generative-ai|生成式 AI]]帮助教师创造高质量的 PF 问题——应对"设计生产性失败活动很费力"这一挑战。
 - **AI 生成的错误作为挑衅：**[[pedagogy-ai-mistakes|AI 错误的教学法]]刻意把 AI 错误与[[hallucination-risk|幻觉]]用作[[teacher-role|教学]]工具，把错误输出当作认知挑衅，与生产性失败的思路一致。
 
@@ -117,9 +118,10 @@ PF 框架已通过若干相关设计得到扩展，包括**替代性失败（vic
 
 ## 关联文章
 
-- [[kim-ai-productive-failure-adult-2026]] — Designing AI Systems to Support Productive-Failure-Based Learning
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pedagogical Steering of LLMs for Productive Failure
-- [[rhaimi-productivemath-2025]] — ProductiveMath: AI to Support PF Problem Design
-- [[wang-safety-gap-productive-struggle-2026]] — The Safety Gap: Restoring Productive Struggle
-- [[lukesova-clue-before-correction-2026]] — Clue Before Correction: ChatGPT for Autonomous Learning
-- [[pedagogy-ai-mistakes]] — The Pedagogy of AI Mistakes
+- [[kim-ai-productive-failure-adult-2026]] — 设计支持生产性失败式学习的 AI 系统
+- [[puech-pedagogical-steering-llm-productive-failure-2025]] — 为生产性失败引导大语言模型
+- [[rhaimi-productivemath-2025]] — ProductiveMath：支持 PF 问题设计的 AI
+- [[wang-safety-gap-productive-struggle-2026]] — 安全差距：恢复生产性挣扎
+- [[lukesova-clue-before-correction-2026]] — 线索先于纠正：面向自主学习的 ChatGPT
+- [[pedagogy-ai-mistakes]] — 人工智能错误的教学法
+- [[bassner-performance-learning-dissociation-ai-programming-2026]] — 保留解法避免了挫败代价，却在学生偏好上落败

@@ -1,7 +1,7 @@
 ---
 title: 学生—人工智能交互
 created: "2026-08-20T02:55:00-04:00"
-updated: "2026-10-09T18:39:30-04:00"
+updated: "2026-10-24T15:29:35-04:00"
 type: concept
 foundations: [cognitive-offloading]
 pedagogy: [student-ai-interaction]
@@ -10,7 +10,7 @@ audience: [learners]
 level: [higher ed]
 confidence: high
 translation_of: concepts/student-ai-interaction
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-23T09:49:58-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -79,6 +79,7 @@ Bernstein 与 Sibia（2026）记录了 CS2 学生处理生成式人工智能解�
 ## 学生—人工智能对话中的学科与认知参与
 
 - **学生—人工智能对话中与学科相关的认知参与。**Chang 与 Li（2026）用一个被试内、跨学科设计，分析了学生在 116 门课程中对人工智能的提示，表明学生—人工智能对话反映的是**与学科相关**的认知参与，而非固定的个人交互风格。总体上约 62% 的提示编码了高阶认知要求，但 Bloom 层级的画像依学科而显著不同：[[stem-education|STEM]]课程引出以“应用”为主的提示（20.8%），语言课程以“理解”为主（31.7%），社会科学课程以“创造”为主（33.8%）。被试内的配对比较确认，同一批学生在社会科学课程中产出的高阶提示显著多于 STEM 课程（合并 n = 16，p < .001），而课程层面的变异超过学生层面的变异——这有力地主张，人工智能教学助手应当结合学科情境来设计与评价。
+- **学生使用 AI 的程度并未预测他们对它的感受。**在 819 名学生中，性别、自评 AI 专业水平与使用频率在 MANOVA 中都未达到显著性（Wilks' Lambda 0.997，p = 0.551；0.990，p = 0.295）。该样本中的重度与轻度使用者持有相同的看法（[[ai-chatbots-emotional-support-human-connection-2025|Al-Zahrani（2025）]]）。
 
 ## 关联概念
 
@@ -97,6 +98,7 @@ Bernstein 与 Sibia（2026）记录了 CS2 学生处理生成式人工智能解�
 
 ## 关联文章
 
+- [[ai-chatbots-emotional-support-human-connection-2025]] — 在 819 名学生中，使用频率与自评专业水平什么都没预测到
 - [[yan-cognitive-outsourcing-genai-assessments-2026]] — 无人监督的学生—生成式人工智能评估中的认知外包对再分配（Yan 等，2026）
 - [[zou-is-this-a-trap-student-teachers-genai-2026]] — “这是个陷阱吗？”：师范生在评估中对生成式人工智能的不采用（Zou 等，2026）
 - [[tutortrace-learner-behavioral-states-2026]]

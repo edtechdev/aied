@@ -1,7 +1,7 @@
 ---
 title: "我们如何撰写并落实一项机构层面的人工智能政策？"
 created: "2026-09-22T20:06:03-04:00"
-updated: "2026-10-09T18:10:00-04:00"
+updated: "2026-10-24T15:45:50-04:00"
 weight: 65
 type: faq
 ethics: [equity-in-ai-education, ethics, privacy]
@@ -9,7 +9,7 @@ research_method: [policy analysis, literature review, delphi]
 audience: [administrators, policymakers, institutions]
 level: [higher ed]
 institutions: [change-management, educational-policy-ai, governance]
-source_updated: "2026-10-02T08:21:34-04:00"
+source_updated: "2026-10-21T14:32:00-04:00"
 translation_of: faqs/institutional-ai-policy
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
@@ -25,8 +25,6 @@ ai_assist:
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
-
-# 我们如何撰写并落实一项机构层面的人工智能政策？
 
 你是教务长、院长、治理负责人、教学中心主任或委员会主席，必须拿出或为这项政策辩护，还要回应一位同事说它太严或太含糊。直接的要点是：发布一项政策是最容易的部分，而一份文件本身什么都改变不了。多数机构已经通过发布文件回答了“要不要有政策”这个问题，而由此形成的政策版图范围广却深度浅：多为建议而非强制，集中围绕学术诚信，而在数据、公平与能力这些决定人工智能使用能否走好的问题上则很单薄。把一份站得住脚的政策与一份积灰的文件区分开来的，是一个明确的负责人、一份审阅日程、一条通向课程的转化路径，以及一套奖励你所要求的行为的评价设计。
 

@@ -1,7 +1,7 @@
 ---
 title: 技术采纳模型
 created: "2026-08-18T14:55:00-04:00"
-updated: "2026-10-09T18:58:10-04:00"
+updated: "2026-10-24T17:05:00-04:00"
 type: concept
 foundations: [ai-literacy]
 technology: [generative-ai, technology-acceptance-model]
@@ -10,7 +10,7 @@ level: [higher ed]
 confidence: high
 methods: [research-methods-aied]
 translation_of: concepts/technology-acceptance-model
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-23T08:03:41-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -22,7 +22,7 @@ ai_assist:
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
 
-**技术采纳模型**是用来解释和预测个人与机构为何接受、采用并持续使用新的[[ai-technologies|技术]]的理论框架——在 AI 教育研究中，则是解释学生、教师和组织为何采用[[generative-ai|生成式 AI]]工具。这不是单一模型，而是一族理论，共同植根于信息系统与社会心理学研究，其中**技术接受模型（TAM）**是应用最广的。知识库把这些模型放在一起处理，因为 GenAI 采纳研究惯于把它们组合起来（TAM + UTAUT、TAM + TPB、UTAUT + ARCS），也因为它们的核心构念——感知有用性、感知易用性和社会影响——几乎在每一项教育领域的 AI 接纳研究中反复出现。
+**技术采纳模型**是用来解释和预测个人与机构为何接受、采用并持续使用新的[[ai-technologies|技术]]的理论框架——在[[ai-education|AI 教育]]研究中，则是解释学生、教师和组织为何采用[[generative-ai|生成式 AI]]工具。这不是单一模型，而是一族理论，共同植根于信息系统与社会心理学研究，其中**技术接受模型（TAM）**是应用最广的。知识库把这些模型放在一起处理，因为 GenAI 采纳研究惯于把它们组合起来（TAM + UTAUT、TAM + TPB、UTAUT + ARCS），也因为它们的核心构念——感知有用性、感知易用性和社会影响——几乎在每一项教育领域的 AI 接纳研究中反复出现。
 
 ## 值得思考的问题
 
@@ -82,6 +82,8 @@ TAM 的认知取向也未能充分捕捉 AI 使用中的情绪与关系维度。
 
 **风险感知作为维度特定的扩展。** 一项针对 814 名中国大学生的调查（[[risk-perception-genai-perceived-benefits-2026|Du, Ning, Shi & Chen（2026）]]）把认知评价理论和保护动机理论折入 TAM/UTAUT2，问的不是学生是否采用[[generative-ai|生成式 AI]]，而是他们从中获得什么。模型家族关于风险一致地抑制采纳的假设并未成立：风险感知分裂为信息、安全、技术、[[ethics|伦理]]和法律等维度，它们把利益推向相反方向。安全风险——一种学生相信自己能通过[[privacy|隐私实践]]管理的威胁——与感知到的学业帮助和技能发展*正*相关，与问题中心应对一致；而信息风险——学习者无法轻易核实——经由回避侵蚀了心理与情绪支持、日常生活和休闲方面的利益。阈值分析进一步显示，效应在维度特定的临界点之外会改变符号，而使用经验独立起作用：使用 GenAI 超过一年的学生在四个领域报告更高利益。对采纳研究的实践含义是，"感知风险"这个构念太粗，不足以建模——可控性，而非风险本身的存在，才是决定学生投入还是退缩的关键。
 
+一项近期的扩展颠倒了通常的方向，把学科特定的动机信念放在 TAM 感知的*上游*而非旁边。[[high-school-genai-acceptance-tam-physics-2026|Xue、Xu、Qi 与 Lu（2026）]] 报告，效用价值以 β = 0.43 预测感知有用性，成功期望以 β = 0.39 预测感知易用性，而 TAM 的核心路径虽减弱但仍显著。
+
 风险与使用的联系还取决于系统：在实施了相关题项的 49 个 TALIS 2024 系统中，感知 AI 效用与 AI 使用在全部 49 个系统中正相关，而感知风险在 40 个系统中负相关、在 9 个中正相关（[[teachers-ai-belief-profiles-talis-2024-2026|Fang & Jin（2026）]]）。
 
 ## 关联概念
@@ -101,6 +103,7 @@ TAM 的认知取向也未能充分捕捉 AI 使用中的情绪与关系维度。
 - [[framing-ai-use-for-students]]
 
 ## 关联文章
+- [[high-school-genai-acceptance-tam-physics-2026]] — 学科特定信念被置于 TAM 感知的上游
 - [[dai-genai-frenemy-teaching-autonomy-2026]] — GenAI 作为"亦敌亦友"：人工自主性与风险规避为教师扩展了 TAM（Dai 等人 2026）
 - [[akbaba-nursing-ai-experiences-tam-2026]] — 护理领域的 AI 体验；TAM 的心理社会扩展
 - [[saihi-ahmed-genai-adoption-personas-higher-ed-2026]] — 经由聚类得到的 GenAI 采纳画像

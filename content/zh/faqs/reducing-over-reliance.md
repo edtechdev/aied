@@ -1,7 +1,7 @@
 ---
 title: "我怎样才能让学生不过度依赖人工智能？"
 created: "2026-09-22T19:50:28-04:00"
-updated: "2026-10-09T18:10:00-04:00"
+updated: "2026-10-24T14:16:08-04:00"
 weight: 80
 type: faq
 foundations: [cognitive-offloading, reducing-ai-misuse]
@@ -11,7 +11,7 @@ ethics: [trust-calibration]
 research_method: [literature review, experiment]
 audience: [instructors, instructional designers]
 level: [higher ed, secondary, k 12]
-source_updated: "2026-10-02T08:21:34-04:00"
+source_updated: "2026-10-21T14:32:00-04:00"
 translation_of: faqs/reducing-over-reliance
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
@@ -27,8 +27,6 @@ ai_assist:
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
-
-# 我怎样才能让学生不过度依赖人工智能？
 
 你手上有一些评分后的作业，读起来比学生自己所能解释的要好。他们在家完成的习题集拿了高分，考试时却一片空白。分数已经不再能预测他们真正理解了什么，而你怀疑是工具在替他们思考。
 

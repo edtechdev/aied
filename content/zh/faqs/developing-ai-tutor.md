@@ -1,8 +1,9 @@
 ---
 title: "开发有效的人工智能导师有哪些最佳实践？"
 created: "2026-09-22T19:52:49-04:00"
-updated: "2026-10-09T18:10:00-04:00"
+updated: "2026-10-24T15:35:34-04:00"
 weight: 74
+audience: [educational technology developers, software developers, instructional designers]
 type: faq
 foundations: [learner-identity]
 pedagogy: [scaffolding]
@@ -11,7 +12,7 @@ assessment: [feedback]
 discipline: [math education, writing education]
 methods: [ai-ed-evaluation]
 ethics: [pedagogical-safety]
-source_updated: "2026-10-02T08:21:34-04:00"
+source_updated: "2026-10-21T14:32:00-04:00"
 translation_of: faqs/developing-ai-tutor
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
@@ -27,8 +28,6 @@ ai_assist:
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
-
-# 开发有效的人工智能导师有哪些最佳实践？
 
 一个有效的 AI 导师应当被设计成一个**学习系统，而不是一个生成答案的[[conversational-ai|聊天机器人]]**。整个知识库中最突出的主题是：[[pedagogy|教学]]结构（诊断、脚手架、反馈、学习者能动性与评价）至少与底层模型同样重要。下面两个完整的示例（一个微积分导师和一个写作教练）展示了同一套核心架构如何必须依照学科对学习者的要求来塑造。
 

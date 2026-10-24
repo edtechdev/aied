@@ -1,7 +1,7 @@
 ---
 title: AI Use and Disclosure Statements
 created: "2026-08-27T11:17:52-04:00"
-updated: '2026-10-24T08:08:00-04:00'
+updated: "2026-10-24T08:08:00-04:00"
 type: concept
 foundations: [academic-integrity]
 technology: [generative-ai]

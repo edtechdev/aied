@@ -1,7 +1,7 @@
 ---
 title: "关于教育中人工智能的研究文献有哪些值得注意的空白？"
 created: "2026-09-22T19:50:48-04:00"
-updated: "2026-10-09T18:10:00-04:00"
+updated: "2026-10-24T15:47:23-04:00"
 weight: 45
 type: faq
 foundations: [limitations-in-aied-research]
@@ -10,9 +10,10 @@ assessment: [learning-gains]
 ethics: [equity-in-ai-education, differential-effects-across-learner-groups]
 research_method: [literature review]
 level: [higher ed]
+audience: [researchers, instructors]
 page_kind: [evaluation]
 methods: [ai-ed-evaluation, research-methods-aied]
-source_updated: "2026-10-02T08:21:34-04:00"
+source_updated: "2026-10-21T14:32:00-04:00"
 translation_of: faqs/research-gaps-aied
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
@@ -28,8 +29,6 @@ ai_assist:
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
-
-# 关于教育中人工智能的研究文献有哪些值得注意的空白？
 
 教育中人工智能（AIED）领域最关键的空白在于：**特定的教育设计是否会产生持久的好处、对谁产生、通过哪些机制、在什么条件下产生，而不只是人工智能能否完成教育任务**。本知识库在记录有前景的干预的同时，也记录了在测量、因果推断、可推广性、实施与可复现性方面持续存在的薄弱之处。这些往往不是完全没有研究，而是证据在*强度、具体性或适用性*上的空白。参见[[limitations-in-aied-research|人工智能教育研究中的局限]]。
 

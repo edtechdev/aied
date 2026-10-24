@@ -1,7 +1,7 @@
 ---
 title: 管理者
 created: "2026-05-09T10:44:35-04:00"
-updated: "2026-10-09T18:58:10-04:00"
+updated: "2026-10-24T14:45:19-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [scaffolding]
@@ -13,7 +13,7 @@ level: [higher ed]
 confidence: medium
 institutions: [educational-policy-ai]
 translation_of: concepts/administrator
-source_updated: "2026-10-01T20:35:10-04:00"
+source_updated: "2026-10-16T08:47:09-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -39,6 +39,8 @@ ai_assist:
 ## 引言
 
 教育中的 AI 采纳不纯粹是课堂决定，同时也是制度决定。管理者——教务长、院长、首席信息官和机构领导者——决定了师生使用 AI 的条件，在教学机会与治理、资源和风险之间进行平衡。
+
+[[students-at-stake-ai-deployment-risks-2026|Student Defense（2026）]]为管理者所面对的决定提供了一套可移植的采购筛查：在部署某个 AI 产品之前，先问正在解决的是什么问题、机构是否具备治理能力、机构是否对学生保持透明，以及这次部署是否为学生创造价值——把这一选择框定为关于学生权利、选择、财务与未来的问题，而非一桩采购交易。
 
 ### 管理者视角在研究中如何呈现
 
@@ -83,3 +85,4 @@ ai_assist:
 - [[genai-policies-higher-ed-computing]] — 计算学科中的机构 GenAI 政策
 - [[institutional-change-framework-ai]] — AI 的机构变革框架
 - [[edtech-privacy-deferral-2026]] — "We'll Fix It Later"：教育、AI 与 EdTech 中学生隐私的延迟
+- [[students-at-stake-ai-deployment-risks-2026]] — 一套四问采购筛查，框定为学生的权利而非风险管理

@@ -1,7 +1,7 @@
 ---
 title: 过程导向评估
 created: "2026-09-26T06:54:53-04:00"
-updated: "2026-10-09T19:06:59-04:00"
+updated: "2026-10-24T14:16:08-04:00"
 type: concept
 foundations: [academic-integrity]
 pedagogy: [self-regulated-learning]
@@ -10,10 +10,10 @@ assessment: [assessment, ai-detection, assessment-validity, authentic-assessment
 ethics: [equity-in-ai-education]
 level: [higher ed]
 confidence: high
-connected_resources: [process-feedback]
+connected_resources: [process-feedback, code-viva]
 contributors: [editor]
 translation_of: concepts/process-oriented-assessment
-source_updated: "2026-10-14T11:15:00-04:00"
+source_updated: "2026-10-16T19:45:37-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 ai_assist:
   - model: stepfun/step-5-preview:free
@@ -53,6 +53,8 @@ ai_assist:
 实践者与框架记述填补了成果物的细节。Uden 与 Hwang（2026）的 LEARN 框架面向 [[problem-based-learning|问题式学习]] [[assessment|评估]]，要求过程导向的评分规则、口头论证、分阶段提交与带 [[ai-use-disclosure|AI 使用披露]]的推理轨迹，并把经由学习日志与出声思维协议的反思视为该序列的 [[metacognition|元认知]]引擎。Moganadas 等（2026）把 AI 透明的过程导向评估列为五个可研究命题之一，要求文档、核验与反思性论证，而非禁止或检测器使用。Padhy（2026）建议捕捉修订历史、交互模式与任务用时，并配以透明披露。Goldstein、Marae-Haj 与 Zidan（2026）报告了同样的成果物在 [[trust|信任]]危机后从实践中浮现：提示记录、文档版本历史、受监控的小组贡献，以及记在纸质笔记本中的反思性"旅程日志"——连同那个平实的发现：课后书面作业已无法再证明学习。
 
 具体的工具正在浮现：[[stepwise-teacher-diagnosis-math-2026|Kim 等（2026）]]把问题求解操作化为四个阶段与八个诊断性子技能，使一个大语言模型能生成针对特定阶段的问题与评分规则；五位教师与 64 名学生用该系统处理了 90 道题目与 720 个子问题，平均系统可用性量表得分为 83.5。
+
+要求的文档记录被证明在课程规模上可行：在六个学期的六周异步研究生研究方法课程中，约 440 名 K-12 教师的检查点提交平均完成率为 96%，而后来加入显式提示模板的迭代产生了更长、且明显更实质性的反思（[[packard-thinking-partner-framework-adult-learners-2026|Packard 等（2026）]]）。
 
 ## 一条不同于真实性、也不同于批改的轴
 
@@ -109,3 +111,4 @@ Thapa 与 Lewis 的记述是概念性的：没有参与者、没有数据收集�
 - [[drafttrace-ai-writing-analytics-2026]] — DraftTrace：一个面向 AI 整合写作的多视图分析环境
 - [[epistemic-ownership-ai-mediated-education-2026]] — 相同的表现，不同的过程：AI 中介教育中的认识论所有权
 - [[stepwise-teacher-diagnosis-math-2026]] — STEPwise：通过大语言模型生成的问题支持教师诊断学生的数学问题求解技能
+- [[packard-thinking-partner-framework-adult-learners-2026]] — 六个学期、约 440 名教师中，对 AI 对话的检查点文档记录保持 96% 的完成率

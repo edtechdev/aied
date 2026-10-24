@@ -1,7 +1,7 @@
 ---
 title: AI 素养
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-10-09T18:39:21-04:00"
+updated: "2026-10-24T14:25:00-04:00"
 type: concept
 foundations: [academic-integrity, ai-education, ai-literacy, educational-development]
 technology: [generative-ai, llm]
@@ -9,9 +9,9 @@ audience: [faculty developers, instructors, learners]
 level: [higher ed, k 12]
 connected_faqs: [incorporating-ai-literacy, ai-literacy-evidence, faculty-ai-competencies, addressing-common-misconceptions-ai-education, ai-guidance-children-under-13, verify-ai-output]
 confidence: high
-connected_resources: [education-agent-skills, edugems, mglearn, onmicro-ai, playlab, pressing-prompts, student-guide-to-ai, vibes-diy]
+connected_resources: [education-agent-skills, edugems, mglearn, onmicro-ai, playlab, pressing-prompts, student-guide-to-ai, vibes-diy, fpds-apps-and-resources]
 translation_of: concepts/ai-literacy
-source_updated: "2026-10-15T08:25:00-04:00"
+source_updated: "2026-10-23T09:20:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -56,6 +56,8 @@ ai_assist:
 
 **伦理与机构意识：** 理解 AI 更广泛的意涵 —— 从 [[academic-integrity|学术诚信]] 到 [[equity-in-ai-education|AI 教育中的公平]] 再到 [[privacy|隐私]]。机构层面的 AI 素养涉及政策制定、[[educational-development|教育发展]] 与 [[governance|治理框架]] —— 机构 AI 素养既是教学问题，也是 [[educational-policy-ai|政策]] 问题。[[sangwa-epiq-ai-faculty-readiness-2026|EPIQ-AI 框架]] 把机构 AI 素养框定为一项社会技术对齐挑战，而非仅仅是个体培训。
 
+**安全是素养自有的一片领域。** Yocam、Vaidyan 与 Kalathas（2026）论证，无论是 AI 素养框架还是网络安全框架，都没有把在 AI 中介的学校中安全运作当作一项自有其权利的能力，而只有 34.5% 的美国教师报告其学校有 AI 政策（[[ai-security-literacy-k12-framework-2026]]）。
+
 - **AI 素养作为促进可持续发展的治理能力。** [[ai-literacy-sdg-governance-framework-2026|Islam、Morshed 与 Islam（2026）]] 把 AI 素养重新概念化为一种面向治理的能力，而非纯粹的教育或技术技能，并将其联结到全部十七项联合国可持续发展目标。他们的六级 **AIRE 分类法**（识别 → 理解 → 应用 → 分析 → 整合 → 治理）在布鲁姆层级之上增补伦理综合与战略远见，把高阶能力（分析—治理）定位为从基础素养通向机构与政策层治理的路径 —— 一个把素养当作横贯性认知与伦理桥梁的“第 18 项 SDG”启发式。一项对 300 名本国从业者的调查发现了强烈的技术觉察，但伦理与治理准备不足，且 **伦理推理与反思性思维是可持续、可信 AI 使用最强的预测因子**，治理素养则是 AI—SDG 关联觉察最强的预测因子（β = 0.64）。这在经验上为本知识库对批判性使用素养的强调提供了依据，并把 AI 素养直接系于 [[sustainability|可持续性]] 与 [[educational-policy-ai|政策]] 整合。
 **框架供给本身如今成了问题。** [[ai-competence-framework-landscape-2026|Fitsilis（2026）]] 比较了 16 个获机构背书的 AI 能力框架（面向教育与劳动力发展），发现共享的核心只有十个能力领域，但结构、进阶与实施指引差异极大 —— 实际的困难是在它们之间做选择，而不是供给不足。
 
@@ -66,6 +68,8 @@ ai_assist:
 **[[writing-education|写作]] 从亲身经验出发 —— 但概念深度需要支架。** [[burriss-multimodal-composition-critical-ai-literacy-2026|Burriss 等人（2026）]] 发现，青少年把抽象的 AI [[ethics|伦理]] 原则锚定于他们日常遇到的系统 —— 电子“出门条”、受学校管控的笔记本电脑、查重检测器 —— 其中一个小组解释说，学校里的 AI“对全组成员都是个人的事”，18 份单元末调查回应中有 15 份报告说制作视频改变了他们对 AI 伦理的理解。作者对限度直言不讳：作文本身并不保证概念扎根 —— “知情同意”被译成了“我们得批准”，某些术语（如“故障保险”）从未被解释，这促使他们在后续迭代中规划更深入的概念工作。[[creativity|创造性]] 产出在伴随明确的概念 [[scaffolding|支架]] 时最能发展 AI 素养，而不能假定它会自行从制作中浮现。
 
 **AI 直觉作为素养的体验性补充。** 一个反复出现的缺口是：K-12 框架假设学习者经由陈述性、基于规则的知识接近 AI，而实践中他们先发展出对 AI 如何回应的一种实践“手感” —— 试验提示、观察行为、调整策略 —— 然后才谈得上正式原则。[[ai-intuition-ai-literacy-k12-2026|Beau & Lazar（2026）]] 将其形式化为 **AI 直觉**：一种体验性、归纳性、常为默会的理解，经由与 AI 系统的迭代互动而发展，支持不确定性下的情境敏感判断。他们的 **双重框架** 把 AI 素养（结构化、大部分静态的能力）与 AI 直觉（动态学习过程）并置，将两者映射到标准维度之上 —— 理解概念、使用工具、批判性评估、伦理应用、反思 —— 使学习者把概念清晰度与 [[guardrails|护栏]]（素养）同“信任但验证”以及知道何时该抽身的实践智慧（直觉）结合起来。由于直觉培育对 AI 的“专家观察”（例如压力测试提示以找出模型失效之处），作者论证它是抵御 [[cognitive-offloading|过度依赖]] 与批判性思维侵蚀的一道保障；它区别于 [[prompt-engineering|提示工程]]（后者优化输出）之处，在于把 *认识论判断* 放在前台。这把素养联结到 [[experiential-learning|体验式学习]]、[[constructivist|建构主义]] 与发展上适切的课堂实践，并把教师准备引向 facilitator 归纳式探索，而非只传递概念。
+
+**对年幼儿童而言，素养是嵌套的，而非基础的。** 一项对 86 项资源的综述把 AI 素养放进一个五领域的能力集合中，其中执行功能与学习倾向承担协调作用，并论证对 0 至 8 岁的儿童而言它“无法独立存在”（[[early-childhood-ai-holistic-competencies-review-2026|Pei（2026）]]）。
 
 **动机是前提，不只是结果。** [[liang-ai-learning-motivation-sdt-2026|Liang 等人（2026）]] 在一项为期一年的 AI 课程中对 2,086 名中学生进行追踪，发现转入或维持在 *自我决定* [[motivation|动机]] 画像（高自主、胜任与关系需求的满足）的学生 **AI 素养增益最大**。AI 素养经由持续投入而发展，而这种投入本身受动机与心理需求支持所塑造 —— 因此有效的 AI 素养教学应关照学习者的动机，而不只是其技能。
 
@@ -126,6 +130,7 @@ AI 素养最发达的学科证据基础来自 STEM 教育，[[hallstrom-ai-liter
 - **“抵抗 AI”作为一种素养姿态。** 批判性 AI 素养（CAIL）可以包含 *抵抗 AI* —— 拒绝主流话语的不必然性与技术解决主义，并通过对话式、协作式教学法培育集体能动性。([[li-mroziak-reorienting-critical-ai-literacy]]) 这把教育定位为一个共同体想象并建造替代性未来、而非 merely 适应给定技术秩序的空间。
 - **基于共同体的认识论。** 基于共同体的 AI 学习把 AI 参与扎根于学习者切身且基于共同体的认知方式，通过认识论微调、权威再分配与情境化 discernment 重新分配 AI 的认识权威。([[ojeda-ramirez-community-based-ai-learning]])
 - **批判性与女性主义框架。** 批判性、女性主义学术论证，AI 素养应被框定在正义、抵抗与文化的 [[sustainability|可持续性]] 的教学法之内 —— 追问 AI 生产谁的知识、谁受益、系统失灵时谁负责。([[avraamidou-ai-colonization-science-education]])
+- **素养要求本身可能成为一种规训。** [[wang-jin-anthropocentrism-learnification-ai-education-2026|Wang & Jin（2026）]] 论证，“学习关于 AI”这一要求把一种学习当作自然的，并使那些拒绝它的人、以及那些主张把 AI 素养排除在年幼儿童课程之外的人，要为自己被边缘化负责。
 - **情境化课程器具。** AI 素养可以经由 [[situated-learning|情境化的]]、主动的教学工具（如“情境学习片段”）逐层建立，而非经由抽象教学。([[panciroli-ai-literacy-episodes-situated-learning]])
 - **创造性作文作为批判性 AI 素养教学法。** 与其把 AI 素养当作技术知识或个人能力，不如为学习者设计面向真实受众创作关于 AI 的信息的机会 —— 一个 [[multimodal|多模态]] 制品（如公共服务公告）在传达的同时演示了批判性能力。在 [[burriss-multimodal-composition-critical-ai-literacy-2026|Burriss 等人（2026）]] 的课堂研究中，22 名十一年级学生自选 AI [[ethics|伦理]] 议题，就校园监控、[[privacy|知情同意]] 与算法指控制作了视频 PSA；在全部七部影片中，伤害都源于人—机纠缠而非一个反派式工具，情节仍收束于希望与 [[agency|能动性]]，作者把 [[storytelling-in-education|讲故事]] 与倡导（抗拒传统评估）定位为以 [[learner-identity|学生身份]]、选择与声音为中心的 [[critical-pedagogy|批判性 AI 素养教学法]] 的核心。([[burriss-multimodal-composition-critical-ai-literacy-2026]])
 - **调节能力，而非接受。** Kim（2026）把 [[higher-ed|高等教育]] 中的 AI 素养重构为 *[[regulation|调节能力]]* —— 在学业工作中验证、修改、选择性采纳或拒绝 AI 输出的被 enact 的实践 —— 表明评估性能力与伦理意识（而非单纯的使用意愿）预测主动的、[[student-engagement|批判性参与]]。([[ai-anxiety-strategic-regulation-writing-2026]])
@@ -223,6 +228,8 @@ AI 素养对过度依赖是 **双刃的**：[[student-dependency-on-ai-literacy-
 - [[career-development-and-readiness]] — AI 素养被论证要建立的就业回报
 - [[ai-education]] — 更广阔的领域
 ## 关联文章
+- [[early-childhood-ai-holistic-competencies-review-2026]] — 在 AI 时代塑造幼儿：能力、教学法与生态支持（Pei 2026）
+- [[ai-security-literacy-k12-framework-2026]] — AI 安全素养：基于生态系统的能力框架与 K-12 学习平台
 - [[mu-ai-competence-ethical-awareness-anxiety-2026]] - 抬高素养的伦理维度而缺乏应对框架，可能让学生更焦虑
 - [[caeai-digital-literacy-frameworks-review-2026]] — 80 个经验证的框架显示 AI 正把数字素养推向伦理，而教育者的人—AI 协作仍被规定不足（Guo 等人 2026）
 - [[ai-literacies-young-adults-2025]] — 面向公共服务媒体的六个能力领域、五个价值观与三个进阶层级
@@ -270,3 +277,4 @@ AI 素养对过度依赖是 **双刃的**：[[student-dependency-on-ai-literacy-
 - [[faculty-ai-well-being-social-supports-2026]] — 教师 AI 幸福感、社会支持与 AI 素养的结构方程模型
 - [[bozkurt-3wai-literacy-scale-2026]] — 经验证的 17 项自评量表，含三个不同的 AI 素养因子（Know What/How/Why）；Know-How 与 Know-Why 关联最强（HTMT = 0.544）
 - [[hallstrom-ai-literacy-stem-education-frontiers-2026]] — STEM 教育中十篇被引最多的 AI 素养研究综合（Hallström 等，2026）
+- [[wang-jin-anthropocentrism-learnification-ai-education-2026]] — “学习关于 AI”这一要求被读作一种规训性话语（Wang & Jin 2026）

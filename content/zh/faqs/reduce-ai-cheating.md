@@ -1,11 +1,12 @@
 ---
 title: "我怎样才能减少课程中的人工智能作弊？"
 created: "2026-09-22T19:51:00-04:00"
-updated: "2026-10-09T18:10:00-04:00"
+updated: "2026-10-24T15:45:50-04:00"
 weight: 88
+audience: [instructors, assessment designers]
 foundations: [academic-integrity, ai-literacy, reducing-ai-misuse]
 assessment: [assessment]
-source_updated: "2026-10-02T08:21:34-04:00"
+source_updated: "2026-10-21T14:32:00-04:00"
 translation_of: faqs/reduce-ai-cheating
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
@@ -21,8 +22,6 @@ ai_assist:
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
-
-# 我怎样才能减少课程中的人工智能作弊？
 
 **知识库中最有力的方向，是少依赖检测，多依赖结构性的[[assessment|评价设计]]、明确的期望、学习验证与[[ai-literacy|人工智能素养]]。** [[academic-integrity|学术诚信]]这一综合梳理报告称，人工智能文本检测存在重大局限，并主张在[[generative-ai|生成式人工智能]]时代，学术诚信越来越是一个评价设计问题，而不只是检测问题。检测工具既不可靠，在程序上也不公平。在一项对 642 篇已发表英文摘要的对照研究中，两款商业检测工具把符合指南的轻度人工智能*编辑*判为可疑的比例为 38–80%，把未经修改的 2023–25 年原创文本判为可疑的比例为 9–15%（非[[stem-education|STEM]] 领域远高于 STEM，p<0.001）；而在人工智能“人性化”处理之后，被标为人工智能改写的文本中只有不到 4% 被查出。这是一种诚信上的 catch-22：它惩罚诚实的帮助，却为刻意的规避开了口子。([[karr-ai-detection-humanization-2026]]) 在一项隐蔽现场研究中，注入五门心理学模块在线考试的全由人工智能生成的提交中有 94% 未被发现，而且人工智能作业的平均得分还高于真实学生；范德堡大学在无法验证其宣传的 1% 误报率之后停用了已授权的检测工具，那个误报率意味着大约有 750 名学生被错误标记，而每年有 75,000 份提交。([[teichmann-detecting-undetectable-misconduct-2026]]) 因此，单靠检测是一个很弱的杠杆；更强的杠杆是[[redesign-assessment-ai-era]]中完整阐述的那套评价设计论证。以下是一些具体、可操作的做法，大致按证据强度排序。
 

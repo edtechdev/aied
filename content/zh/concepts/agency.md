@@ -1,7 +1,7 @@
 ---
 title: 学习者自主性
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-10-09T18:39:26-04:00"
+updated: "2026-10-24T14:48:33-04:00"
 type: concept
 foundations: [agency, cognitive-offloading, human-ai-collaboration]
 pedagogy: [motivation, self-regulated-learning]
@@ -10,7 +10,7 @@ connected_faqs: [group-work-ai]
 audience: [learners]
 confidence: high
 translation_of: concepts/agency
-source_updated: "2026-10-04T02:59:54-04:00"
+source_updated: "2026-10-16T07:28:51-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -47,6 +47,7 @@ ai_assist:
 
 - **机器人与[[educational-robotics|人机交互]]：** [[roboblockly-conversational-block-robotics-ct-2026|RoboBlockly Studio]]被明确设计来保全[[computational-thinking|计算思维]]中的学习者自主性；[[human-autonomy-agency-hri-review-2025|一项系统综述]]考察人机交互如何影响人的自主与能动感，这对[[well-being]]与[[governance]]争论是核心的。
 - **[[collaborative-learning|协作学习]]：** [[human-ai-collaboration]][[research-methods-aied|研究]]考察认知任务如何在学习者与 AI 之间分担，而自主性决定由人还是由 AI 来主导交互。
+- **共享认识自主性延伸到学生与 GAI 的交互。** 一项用 14 类编码方案对 6,788 个 ChatGPT 辅助轮次进行编码的研究，把 59% 的七年级学生轮次置于共享认识自主性；作者主张这一构念（此前主要在同伴协作中被研究）必须拓宽，纳入认知与元认知维度（[[chang-shared-epistemic-agency-gai-scientific-writing-2026|Chang 等，2026]]）。
 - **批判性的[[student-engagement|投入]]：** [[cognitive-offloading|认知卸载]]研究表明，把解读交给 AI 的学生会失去对自身推理的自主性；批判性与[[metacognition|元认知]]的路径旨在保全它。
 
 **在十个模型上做基准测试，支持自主性是它们在学习之外做得最差的地方。** ImpactBench 在正向判据上测得"自主性与目的"为 56.0%（95% CI [49.2, 62.5]），在负向判据上为 43.9%（[36.9, 50.8]），在 14 个子领域中倒数第二，而其保全自主的协助判据问的是，一个模型是否提供语境与取舍，而非开出一个行动的处方（[[impactbench-ai-impact-on-humans-2026|ImpactBench（2026）]]）。模型在避免伤害上的一致性也远低于在提供帮助上：分别为 38.6 个百分点与 15.9 个百分点的落差。
@@ -123,8 +124,8 @@ ai_assist:
 
 ## 关联概念
 
-- [[learners]] — Learners: the umbrella for the learner-side concepts
-- [[pedagogical-partnerships]] — Pedagogical Partnerships
+- [[learners]] — 学习者：学习者一侧概念的总括
+- [[pedagogical-partnerships]] — 教学伙伴关系
 - [[learner-identity]] — 演化的学科性、专业性、创造性与学术性学习者身份
 - [[self-directed-learning]]
 - [[self-regulated-learning]]
@@ -139,8 +140,8 @@ ai_assist:
 - [[framing-ai-use-for-students]]
 - [[human-ai-collaboration]] — AI 中介交互的共享方向
 - [[agentic-ai]] — 能在小组中重新分配自主性的自主 AI
-- [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
-- [[social-emotional-learning]] — Social-Emotional Learning
+- [[chemistry-education]] — 化学教育与 AI：实验、形成性评估、LLM 的限度、实验哲学
+- [[social-emotional-learning]] — 社会情感学习
 - [[cognitive-surrender]]
 
 ## 关联文章
@@ -151,36 +152,37 @@ ai_assist:
 - [[dang-human-ai-collaboration-competency-2026]] — 学习者自主性作为协调领域、AI 与元认知能力的涌现性质，而非一个独立节点（Dang 等 2026）
 
 - [[learner-agency-ai-simulation-2026]] — 有选择可及 vs. 被施行的自主性：滑块、一个可选的 AI 智能体与集群模拟中的学习
-- [[guarded-adoption-genai-higher-education-2026]] — Guarded Adoption of Generative AI in Higher Education
-- [[ai-agents-joyful-assessment-third-space-2026]] — AI agents, joyful assessment, and third space
-- [[ai-mediated-research-agency-formation-2026]] — AI-mediated research agency formation in early-career scientific training
-- [[layer-sensitive-cognitive-offloading-writing-2026]] — Layer-sensitive cognitive offloading in GenAI-assisted writing (Chen 2026)
+- [[guarded-adoption-genai-higher-education-2026]] — 对高等教育中生成式 AI 的审慎采纳
+- [[ai-agents-joyful-assessment-third-space-2026]] — AI 智能体、快乐评估与第三空间
+- [[ai-mediated-research-agency-formation-2026]] — 早期科研训练中 AI 中介的研究自主性形成
+- [[layer-sensitive-cognitive-offloading-writing-2026]] — GenAI 辅助写作中分层敏感的认知卸载（Chen 2026）
 - [[school-ai-education-readiness-gaps-agency-2026]] — 学校 AI 教育收窄心理上的而非认知上的准备度差距
 - [[reclaiming-epistemic-agency-co-agency-2026]]
 - [[du-yuan-epistemic-dependence-2026]] — 关系性认识自主性与六项区分生产性依赖与有害依赖的判据（Du 与 Yuan 2026）
 - [[ai-pedagogical-accompaniment-amico]] — 支持 STEM 身份的 AI 赋能教学陪伴
-- [[t2i-competence-paradox-2026]] — The competence paradox: creative identity in text-to-image GenAI use
+- [[t2i-competence-paradox-2026]] — 胜任力悖论：文生图 GenAI 使用中的创造性身份
 - [[jin-emergent-learner-agency-implicit-hai-2026]] — 隐含人—AI 协作中涌现的学习者自主性：支持型 vs. 唱反调型人格
-- [[de-barba-srl-genai-2026]] — Learner agency across scales: regulation, integration, positioning
-- [[mishra-control-vs-agency-history-2025]] — Control vs. agency as the essential tension in AIED history
-- [[daoism-ai-education-philosophy-2026]] — Alternative AI Philosophy: Daoism as Method for AI in Education
-- [[human-autonomy-agency-hri-review-2025]] — Human Autonomy and Agency in HRI
+- [[de-barba-srl-genai-2026]] — 跨尺度的学习者自主性：调节、整合与定位
+- [[mishra-control-vs-agency-history-2025]] — 控制与自主性作为 AIED 历史中的根本张力
+- [[daoism-ai-education-philosophy-2026]] — 另一种 AI 哲学：作为教育 AI 方法的道家思想
+- [[human-autonomy-agency-hri-review-2025]] — HRI 中的人类自主性与自主感
 - [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly Studio
 - [[teachy-mini-generative-social-robot-higher-ed-2026]] — Teachy Mini
-- [[knowledge-based-design-generative-social-robots-2026]] — Knowledge-Based Design for Generative Social Robots
-- [[young-people-learning-generative-ai-rapid-review-2026]] — Foster student agency in learning-relevant work
-- [[shaw-nave-cognitive-surrender-2026]] — Tri-System Theory and cognitive surrender: how AI reshapes human reasoning (Shaw & Nave 2026)
-- [[preservice-teacher-agency-genai-design-learning-2026]] — Pre-service teacher agency during GenAI interactions in design for learning (Krushinskaia, Elen & Raes 2026)
-- [[emancipatory-ai-learner-flourishing-2026]] — Emancipatory vision: agency as zero-sum with tool agency
+- [[knowledge-based-design-generative-social-robots-2026]] — 面向生成式社交机器人的基于知识的设计
+- [[young-people-learning-generative-ai-rapid-review-2026]] — 在学习相关工作中培育学生自主性
+- [[shaw-nave-cognitive-surrender-2026]] — 三系统理论与认知投降：AI 如何重塑人类推理（Shaw 与 Nave 2026）
+- [[preservice-teacher-agency-genai-design-learning-2026]] — 在设计学习中 GenAI 交互期间的职前教师自主性（Krushinskaia、Elen 与 Raes 2026）
+- [[emancipatory-ai-learner-flourishing-2026]] — 解放性愿景：自主性与工具自主性零和
 - [[chen-zou-genai-group-assessment-agency-2026]] — GenAI 中介的小组评估中自主性的三种模式：强化、约束与未施行
-- [[ai-integrated-teaching-identity-tensions]] — Principled selectivity as teacher agency in AI-integrated teaching (Adiozaman & Segar 2026)
+- [[ai-integrated-teaching-identity-tensions]] — 原则性选择作为 AI 整合教学中的教师自主性（Adiozaman 与 Segar 2026）
 - [[ai-refusal-higher-education-diagnostic-non-use-2026]] — 拒绝作为诊断证据：非使用作为一种情境性关系与不均等的拒绝 AI 之权（Zagami 2026）
-- [[obyrne-co-constructing-ai-boundaries-agency-judgment-2026]] — epistemic authority asserted through interruption, correction and refusal rather than maximal tool use
-- [[genai-higher-ed-agency-responsibility-discourse-2026]] — Who Acts, Who Knows, Who Answers? A Corpus-Assisted Discourse Analysis of Agency, Epistemic Responsibility, and Accountability in Generative AI Higher Education Research
-- [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — Open Questions Towards Skill-Sustaining Reliance in Reflective AI Engagement
+- [[obyrne-co-constructing-ai-boundaries-agency-judgment-2026]] — 认识论权威通过打断、纠正与拒绝来主张，而非通过最大化的工具使用
+- [[genai-higher-ed-agency-responsibility-discourse-2026]] — 谁行动、谁知道、谁回答？生成式 AI 高等教育研究中自主性、认识责任与问责的语料库辅助话语分析
+- [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — 迈向反思性 AI 投入中技能保全性依赖的开放问题
 - [[fagerlund-competency-agency-purposes-ai-education-2026]] — 能力 vs. 自主性作为 AI 教育的目的，以及"有据的 AI 自主性"启发式（Fagerlund 等 2026）
 - [[canonigo-teacher-mediation-generative-ai-mathematics-2026]] — 教师中介作为让 GenAI 保持为供批评的工件而非权威的条件（Canonigo 2026）
 - [[charles-teacher-readiness-by-design-ai-rich-2026]] — 教师自主性作为一种通过设计动员的资源，准备度以工件而非使用量来判断（Charles 2026）
 - [[yang-balancing-teacher-student-agency-2026]] — 在实时动态配对的共同编排工具中平衡教师与学生能动性（Yang 等 2026）
 - [[porath-interpretive-authority-2026]] — 解释性权威矩阵与生态权威整合模型：谁在解释的四种构型，以及使之移动的生态层级
 - [[gyekye-selves-apprenticeship-2026]] — 学徒制项目中的有色人种学生通过拒绝、协商与承认经由 AI 书写自身（文化扁平性）；机构 AI 素养与承认带宽
+- [[chang-shared-epistemic-agency-gai-scientific-writing-2026]] — 中学生科学写作中 6,788 个 ChatGPT 辅助轮次的共享认识自主性（Chang 等 2026）

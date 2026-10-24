@@ -1,7 +1,7 @@
 ---
 title: 幼儿教育
 created: "2026-08-25T13:30:00-04:00"
-updated: "2026-10-09T19:08:02-04:00"
+updated: "2026-10-24T15:15:15-04:00"
 type: concept
 foundations: [ai-education, ai-literacy, computational-thinking]
 pedagogy: [well-being]
@@ -10,7 +10,7 @@ level: [k 12, preschool]
 confidence: high
 reviewed_by: [editor]
 translation_of: concepts/early-childhood-elementary-ai-education
-source_updated: "2026-10-15T10:00:00-04:00"
+source_updated: "2026-10-23T09:20:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -49,6 +49,7 @@ ai_assist:
 - **儿童对适龄聊天机器人的态度。** [[vahedian-children-attitudes-ai-chatbot-2026|Vahedian Movahed 与 Martin（2025）]]部署了"Ask Me Anything"（AMA），一个按年龄通过[[prompt-engineering|提示工程]]定制的、话题受限的聊天机器人（天文学、球鞋、恐龙），面向 63 名儿童（6–14 岁），揭示出儿童—[[student-ai-interaction|AI 互动]]的三种模式——惊奇与好奇、试探信任与建立信心、通过拟人化建立关系——以及把 AI 作为信息来源时的广泛开放与高度信任。他们呼吁适龄设计并明确[[teacher-role|教授]][[privacy|数字安全]]与数据使用概念，这强化了本概念核心的发展与[[pedagogical-safety|安全]]关切。
 - **小学科目学习。** 小学分数中的[[ai-powered-personalized-learning-elementary-fractions-2026|AI 驱动个性化学习]]与小学数学中的[[awareness-technological-isomorphism|AI]]（包括对"技术同构"——学生模仿 AI 输出而不求理解——的关切）既展示了 AI 在早期科目教学中的前景，也展示了其陷阱。[[elementary-writing-genai-systematic-review-2026|一项关于小学写作与生成式 AI 的系统综述]]梳理了[[generative-ai|生成式 AI]]如何在低年级重塑[[writing-education|写作教学]]。
 - **机器人与幼儿。** [[tsingidou-ct-robotics-kindergarten-2026|幼儿园中的机器人]]通过[[educational-robotics|教育机器人]]支持计算思维，而[[icub-humanoid-storytelling-llm-hri-2025|由 LLM 驱动的人形机器人讲故事]]探究家长是否会接受机器人作为孩子叙事游戏的伙伴——把[[trust]]与成人态度置于前景。
+- **一套能力集合，而非 AI 素养课程。** 一项对 86 项资源的综述认为，AI 素养对于 0 至 8 岁儿童"不能独立存在"，应把它嵌在执行功能、幸福感、学习倾向与基础技能之中，尽管 86 项资源中只有 26 项是实证性的（[[early-childhood-ai-holistic-competencies-review-2026|Pei (2026)]]）。
 - **一个面向 AI 代理与机器人的"创造性项目方法"框架。** [[creative-project-approach-ai-early-childhood-2025|Yang、Li 与 Lee（2025）]]提出了一个五步教学框架，把[[generative-ai|生成式 AI]]代理与机器人整合进项目方法，以促进幼儿的[[creativity|创造性学习]]。他们论证实体代理比屏幕更适合幼儿，并把两个互补范式与各自的[[learning-theories|学习理论]]配对——**编程机器人**（Papert 的[[constructivist|建构主义]]；用 Matatalab 与 KIBO 等工具通过可触摸的编程实现[[computational-thinking|计算思维]]）与**生成式社交机器人**（儿童最近发展区内的[[sociocultural-learning|维果茨基式]]支架，充当对话同伴或辅导者）。这五个步骤——识别学习需求、促进教师引导的儿童—机器人互动、把 AI 置于具体情境、校准自动化／创造力的平衡、评估结果——为设计师与 ECE 实践者提供了一条具体路径，用以在保留教师促进作用与儿童[[agency]]的同时，把[[agentic-ai|AI 代理]]与[[educational-robotics|机器人]]嵌入以游戏为基础、以项目为基础的课堂。
 - **以游戏为中心的 AI 素养课程。** Lee（2026）报告了 Play With AI（PL-AI）的[[design-based-research|基于设计的研究]]，这是一门发展上恰当的[[curriculum-design|课程]]，其中两名学前班与两名幼儿园教师共同设计了七个有序活动，混合了不插电游戏（编写并测试"如何做"算法）、可触摸编程（Bee-Bot、Ozobot）以及和一个社交 AI 机器人的引导式对话。[[formative-assessment|形成性]]证据显示教师信心与[[pedagogy|教学]]能动性有显著增长，并浮现出四条设计原则——**具身游戏、可触摸编程、引导式对话、教师共同设计**——与 AI4K12 倡议及 NAEYC 框架相一致。这是一个[[educational-robotics|机器人与可触摸工具]]如何嵌入以游戏为基础、由教师主导的最年幼学习者[[ai-literacy|AI 素养]]的范例。
 - **为儿童 STEAM 艺术教师提供的 AI 辅助备课。** 一项针对儿童美术教师的实验研究（[[luo-tahir-chatgpt-steam-lesson-planning-2026|Luo 与 Tahir，2025]]）发现，由六位专家教授评定，ChatGPT 辅助的备课在质量上显著高于教师自拟方案（中位数 20.5 对 17.6，p = .002，大效应），同时梳理了教师的委派方式——最常见（60%）是为自拟大纲的课时填补内容空白，而非生成整份方案。教师主要把 AI 视为灵感与发现空白之用的工具，用于跨学科[[stem-education|STEAM]]整合与更快的选题，但也指出其输出对真实课堂不切实际、忽视儿童安全约束（例如给幼儿使用雕刻刀），并带有西方中心的文化偏见——这是面向幼儿使用[[generative-ai|生成式 AI]]的具体、立足于发展阶段的告诫，而一个 Role–Instructions–End Goal 提示框架正是为缓解它而构建的。
@@ -86,6 +87,7 @@ ai_assist:
 - [[parents-and-families]]
 ## 关联文章
 
+- [[early-childhood-ai-holistic-competencies-review-2026]] — 在 AI 时代塑造幼儿期：素养、教学与生态化支持（Pei，2026）
 - [[preservice-early-childhood-genai-magnetism-2026]] — 职前幼儿教育者在科学活动设计中与生成式 AI 的互动：以磁学为案例
 - [[clara-developmental-appropriateness-children-stories-2026]] — CLARA：AI 能否评估儿童故事的发展适切性？
 - [[preschool-teachers-ai-behavioral-intention-2026]] — 学前教师在幼教场景中使用 AI 的行为意向（Duan 等，2026）

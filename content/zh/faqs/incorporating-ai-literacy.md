@@ -1,12 +1,13 @@
 ---
 title: "我应当如何把人工智能素养融入我的课程？"
 created: "2026-09-22T19:48:12-04:00"
-updated: "2026-10-09T18:10:00-04:00"
+updated: "2026-10-24T15:45:50-04:00"
 weight: 86
 foundations: [ai-literacy, cognitive-offloading, learning-design]
 assessment: [assessment]
 level: [higher ed]
-source_updated: "2026-10-02T08:21:34-04:00"
+audience: [instructors, instructional designers]
+source_updated: "2026-10-21T14:32:00-04:00"
 translation_of: faqs/incorporating-ai-literacy
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
@@ -22,8 +23,6 @@ ai_assist:
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
-
-# 我应当如何把人工智能素养融入我的课程？
 
 最有力的做法是把**[[ai-literacy|人工智能素养]]视为学科学习的一部分**，而不是把它当作一节讲如何使用 ChatGPT 的独立课程。当学生反复**在真实的课程任务中使用、质疑、验证、批判人工智能并据此作出决策**，而不是仅仅学习提示技巧或参加一次性的入门培训时，他们会形成更有用的人工智能素养。有效的教学把实际能力与批判性评价、伦理意识、[[metacognition]]结合起来，并且关注人工智能在何时*不*应被信任或使用。
 

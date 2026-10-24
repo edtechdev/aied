@@ -1,7 +1,7 @@
 ---
 title: 信任校准
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-10-09T18:39:25-04:00"
+updated: "2026-10-24T14:16:08-04:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading, human-ai-collaboration]
 pedagogy: [metacognition]
@@ -10,7 +10,7 @@ audience: [learners]
 confidence: high
 connected_faqs: [addressing-common-misconceptions-ai-education, reducing-over-reliance, verify-ai-output, study-with-ai]
 translation_of: concepts/trust-calibration
-source_updated: "2026-10-09T01:55:00-04:00"
+source_updated: "2026-10-24T06:26:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -57,7 +57,11 @@ ai_assist:
 
 校准研究通常把信任当作单一判断。[[bounded-reliance-ai-writing-feedback-2026|Serpil 与 Mor（2026）]] 表明，这一评估会分裂成若干约束力并不相等的维度。他们在访谈了 17 名使用 GROK 一个学期来获得写作反馈的英语作为外语的本科生后发现，被感知的*专业能力*很高——学生认可该工具在词汇、语法、结构与连贯性上的改进，并把其对修改建议的解释视为能力的证据——而*可信赖性*（主要涉及他们的数据遭遇了什么）与*善意*（反馈被体验为没有人情味，有时还令人沮丧）仍然很低。依赖跟随的是弱维度而非强维度：学生授权该工具处理宽泛的语言反馈，而把个性化的、关系性的指导留给教师。这对校准的含义是：提升准确率并不会抬高使用的天花板；数据透明度与围绕工具的教学框架，本身就是校准干预。
 
+建立反馈可信度的并非准确率，而是与智能体相关的社会感知：对于[[chatgpt-feedback-credibility-perceived-learning|Pérez-López 等（2026）]]，被感知的能力直接抵达可信度，而被感知的亲和力只通过类人的共情起作用（SEM，230 名学生）。
+
 [[du-yuan-epistemic-dependence-2026|Du 与 Yuan（2026）]] 用六个诊断标准——可争辩性、可恢复性、可迁移性、可追溯性、分布式责任与认识多元性——把*生产性依赖*与*有害依赖*区分开来，并把工具性协助（帮助产出输出）与承载判断的协助（提供据以评判输出的标准）区分开来，后者正是依赖变得具有教育后果的地方。
+
+- **学生可能把同伴智能体刻意的可错性读成故障。** 在 Copa 研究中，学生被告知该智能体可能出错，并被要求评估它的建议。当某条建议使他们的模型变差时，有几位学生断定智能体给出了错误信息，转而采用试错法，而不是重新审视推理。因此，一种通过扣住答案来保护认识能动性的设计，假定了这些学生在研究中尚不具备的校准技能，这对同伴智能体设计的约束强于对辅导智能体的约束（[[cohn-lc-rag-log-contextualized-retrieval-2025|Cohn 等，2025]]）。
 
 ### 校准作为一个设计问题
 
@@ -65,9 +69,14 @@ ai_assist:
 
 其设计含义是一个二维的使用者类型学——验证 [[conversational-ai|聊天机器人]]输出的*能力*与这样做的*动机*——它预测了哪类使用者会在哪个方向上校准失当。作者把它与两类必须协同运作的干预配对：[[explainable-ai|可解释性]]设计（理由、引用、不确定性信号）使评估成为可能，以及参与机制使评估真正发生，再通过 Reason 的瑞士奶酪模型层叠为八项可检验的命题。[[ai-literacy]] 被定位为两者之下持久的层次，让使用者在类型学各单元之间移动。这种重新框定对教育很重要，因为它转移了责任：如果普通人群根本不点击透明的引用，那么仅仅让学生接触 AI 的解释并不能校准他们——该设计必须被设计得能迫使人去核查。
 
+第三个杠杆作用于互动结构本身：把单一推荐替换为一场[[tuo-armada-multi-agent-debate-overreliance-2026|隐瞒其总体立场的多智能体辩论（Tuo 等，2026）]]，把 186 名参与者转向错误 AI 立场的损害性切换从 42–60.5% 降到 5.7–8.2%。这一杠杆是保护性的，而非纠正性的：一开始判断错误的参与者在只有 30.6% 和 24.7% 的试验中恢复了正确决策，低于二选一情境下的随机水平。
+
 [[calibrating-trustworthiness-llm-education-2026|Coscia et al.（2026）]] 提供了一个确实推动了校准的设计杠杆：让评审者在比较 LLM 回应时看到共同设计的可信赖性标准，使评分者间一致性从 Krippendorff's alpha 0.3987 提升到 0.4931，尽管合并后的一致性仍低于 0.67，且额外的措施带来了额外开销。
+对儿童来说，设计杠杆可能就是智能体自身的语域：在一项以 12 名 8–10 岁儿童为对象的游戏化探测中，[[children-verification-ai-suggestions-game-2026|Liu 等（2026）]]发现，伙伴式的措辞把他们引向直接质疑 AI，而工具式的措辞则把他们引向寻找证据。*设计*聊天机器人的儿童在另一种语域中显示出同一模式：在 115 名 8–18 岁的学习者中，年幼的学生设定了显著更高的置信度，还有些刻意建造了会给出错误答案、却仍被评为可信赖的机器人（[[children-design-trustworthy-ai-chatbots-2026|Ozturk 等（2026）]]）。
 
 随着自主智能体的出现，校准的对象发生了变化。[[agentic-literacy-debt|Nama（2026）]] 论证说，使用者变成了一个委托人，把权力授予了一个行为基本不被观察且不可逆转的系统，于是所需能力从"评判输出"转向"理解被授权了什么、监督它，并在伤害发生时归因问责"。
+
+一旦 AI 触及评分或认证，来源就被当作一等要求：机构必须重建重大决策是如何做出的、谁持有确认它们的权力，而一个联盟区块链设计把教育事件、AI 输出、评分动作与证书锚定为防篡改的记录（[[large-language-models-teaching-learning-higher-ed|Li 等，2026]]）。
 
 ### 关联
 
@@ -108,31 +117,34 @@ ai_assist:
 - [[cognitive-surrender]]
 
 ## 关联文章
+- [[children-verification-ai-suggestions-game-2026]] — 游戏化人机协作中儿童的核查行为
 - [[student-perspectives-ai-writing-grading-2026]] — 学生对透明的 AI 辅助写作评估的看法（AlGhamdi 2026）
+- [[tuo-armada-multi-agent-debate-overreliance-2026]] — 重新框定校准：扣住系统立场是保护性的，而非纠正性的
 - [[du-yuan-epistemic-dependence-2026]] — 区分生产性依赖与有害依赖的六项诊断标准（Du & Yuan 2026）
-- [[icet-ml-education-trust-2026]] — Addressing Trust in AI Systems through Education: A Didactic Perspective
+- [[icet-ml-education-trust-2026]] — Addressing Trust in AI Systems through Education: A Didactic Perspective：通过教育应对 AI 系统中的信任：教学论视角
 - [[pearls-epistemic-verification-2026]] — PEARLS：认识能动性与验证 AI 输出的框架（Wang 2026）
 - [[fouad-bentley-trust-utility-gap-physics-2026]]
 - [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]]
 - [[agentic-literacy-debt]] — 智能体素养债：自主智能体带来的结构性 AI 素养缺口（Nama 2026）
-- [[trust-reliance-ai-education-2026]] — Trust and Reliance on AI in Education
-- [[calibrating-trustworthiness-llm-education-2026]] — Calibrating Trustworthiness: Co-Designing Metrics for LLMs in Education
-- [[llm-fallacy-misattribution]] — The LLM Fallacy and Misattribution of Competence
-- [[ai-partner-science-epistemic-vigilance]] — Epistemic Vigilance as the Key to Productive Augmentation
+- [[trust-reliance-ai-education-2026]] — 教育中对 AI 的信任与依赖
+- [[calibrating-trustworthiness-llm-education-2026]] — Calibrating Trustworthiness: Co-Designing Metrics for LLMs in Education：校准可信度：为教育中的大语言模型共同设计度量
+- [[llm-fallacy-misattribution]] — LLM 谬误与能力的误归因
+- [[ai-partner-science-epistemic-vigilance]] — 认识警觉是生产性增强的关键
 - [[ai-advice-suppresses-ikt-suspension-2026]]
 - [[ai-overreliance-complex-adaptive-system-2026]] — 作为复杂适应系统建模的 AI 过度依赖
 - [[xai-teachers-trust-edtech-recommendations-2026]]
-- [[student-reception-genai-analogies-computing-2026]] — Flawed but Memorable: Student Critical Reception of Interest-Personalized GenAI Analogies in Computing Education
+- [[student-reception-genai-analogies-computing-2026]] — 有缺陷但令人难忘：计算教育中学生对兴趣个性化 GenAI 类比的批判性接受
 - [[trust-calibration-chatbots-design-problem-2026]] — 信任校准被重新框定为设计问题：一个二维使用者类型学与八项设计命题（Jaidka & Cai 2026）
 - [[humble-prompt-injection-ai-grading-red-team-2026]] — AI 中介评分中的提示注入：一个先压制、后自相矛盾地发出警告的工具（Humble 2026）
 - [[li-explainable-trustworthy-llm-teacher-assessment-2025]] — 受信任门控的推理与"可解释即设计"的评估，其中信任未被测量（Li et al. 2025）
 - [[gpt4-handwritten-math-exam-grading-2026]] — AI 成绩的置信度过滤及其假阳性率
-- [[bounded-reliance-ai-writing-feedback-2026]] — Bounded Reliance: A Source Credibility Perspective on EFL Students' Engagement with AI-Generated Writing Feedback
+- [[bounded-reliance-ai-writing-feedback-2026]] — 有界的依赖：来源可信度视角下 EFL 学生对 AI 生成写作反馈的参与
 - [[abramson-trust-interaction-design-ai-enabled-systems-review-2026]] — AI 使能系统中的信任：33 项实证研究中的定义、测量与设计因素（Abramson et al. 2026）
 - [[hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026]] — 从诊断到元诊断：教师评估 AI 生成的诊断性推断（Hoppe et al. 2026）
 - [[ren-metacognitive-awareness-genai-reliance-2026]] — 一段反思提示降低了对不正确 AI 建议的接受率（Ren 2026）
 - [[trust-calibration-genai-collaborative-regulation-2026]] — 信任校准作为从情境支持到感知迁移增益链条中的中介（Bu & Li 2026）
 - [[hu-psychological-predictors-continued-chatgpt-use-2026]] — 信任作为从 AI 素养到持续使用的枢轴，并被 AI 焦虑削弱（Hu 2026）
 - [[kenzhebayeva-ai-role-rotation-pedagogical-model-2026]] — 角色轮换作为批判性处理 AI 建议的结构（Kenzhebayeva et al. 2026）
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — Student Use of LLMs and the Limits of AI-Generated Question Difficulty in Data Science Courses
+- [[student-llm-use-ai-question-difficulty-data-science-2026]] — 数据科学课程中学生对 LLM 的使用与 AI 生成题目难度的局限
 - [[nazaretsky-trust-instrument-ai-edtech-2025]] — 面向学生的量表：把 AI-EdTech 中的信任验证为四个因素，且信任位于感知有用性的上游（Nazaretsky et al. 2025）
+- [[children-design-trustworthy-ai-chatbots-2026]] — 儿童如何设计并思考可信赖的 AI 聊天机器人

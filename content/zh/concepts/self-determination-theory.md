@@ -1,7 +1,7 @@
 ---
 title: 自我决定理论
 created: "2026-08-10T17:38:45-04:00"
-updated: "2026-10-09T18:58:09-04:00"
+updated: "2026-10-24T15:57:18-04:00"
 type: concept
 foundations: [ai-education, teacher-ai-competency]
 pedagogy: [motivation, self-determination-theory]
@@ -9,7 +9,7 @@ technology: [affective-computing]
 audience: [learners]
 confidence: high
 translation_of: concepts/self-determination-theory
-source_updated: "2026-09-30T12:53:22-04:00"
+source_updated: "2026-10-17T07:38:51-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -44,6 +44,8 @@ SDT 在教育中的 AI [[research-methods-aied|研究]] 中日益被用作一面
 
 一个对照的课堂结果显示，这些需求并不一起移动：在 2,464 名初中生中，ChatGPT 支持的能力本位学习提高了自主支持与胜任满足，却产出了更大份额的低质量动机画像，而关联满足弱于非 AI 的能力本位学习（[[student-motivation-need-satisfaction-genai-sdt-2026|Schweder, Hagenauer 与 Raufelder（2026）]]）。
 
+在这里，承载动机增益的是自主，而不是轻松。一项三臂 [[rct|RCT]] 发现，一个保留提示的辅导工具——它让学习者继续构建自己的解答——是唯一提高内在动机的臂（2.82 对 2.42），而直接给出答案的无限制 ChatGPT 则没有（2.64，p = .076）（[[bassner-performance-learning-dissociation-ai-programming-2026|Bassner 等人（2026）]]）。
+
 一个组态式检验把这一点说得更锐利：在 498 名医学本科生中，GAI 使用与需求满足只有弱关联（β = 0.155），且被证明对高投入并不必要，而胜任需求满足是最强组态中的核心条件（[[genai-learning-engagement-medical-undergraduates-2026|He 等人（2026）]]）。
 
 **从学习气候到 AI 使用的双路径。** [[dual-ai-learning-pathways-sdt-2026|Shen 与 Arunrugstichai（2026）]] 把 SDT 与行为投入的 Hook 模型整合，解释为什么 GenAI 使用从建设性支持一直延伸到强迫性依赖。来自 **508 名大学生**、具有不同高中背景与当前情境（中国与泰国）的横断面调查数据中，对**高中压力 vs. 自主支持** 的回溯报告差异性地预测了学生进入大学后所走的两条路径——一条走向建设性、自主的 GenAI 使用，另一条走向强迫性依赖——结果在跨情境的多组分析中一致。该模型把 SDT 动机过程与 AI 支持学习的感知质量相连，把自主支持框定为引导学生走向生产性而非依赖性 AI 使用的杠杆。
@@ -77,17 +79,18 @@ SDT 直接与 [[motivation]] 相连（作为其母构念），与 [[affective-co
 - [[ai-education]]
 - [[learning-theories]]
 ## 关联文章
-- [[family-school-autonomy-support-genai-2026]] — Family-School Autonomy Support for Children's Responsible Use of Generative AI
-- [[dual-ai-learning-pathways-sdt-2026]] — High-school pressure/autonomy support and dual AI learning pathways (Shen & Arunrugstichai 2026)
+- [[family-school-autonomy-support-genai-2026]] — 面向儿童负责任使用生成式 AI 的家校自主支持
+- [[dual-ai-learning-pathways-sdt-2026]] — 高中压力／自主支持与双 AI 学习路径（Shen & Arunrugstichai 2026）
 - [[reclaiming-epistemic-agency-co-agency-2026]]
-- [[claassen-learning-analytics-genai-learning-design-2026]] — LA and GenAI in learning design decision-making
+- [[claassen-learning-analytics-genai-learning-design-2026]] — 学习分析与 GenAI 在学习设计决策中
 - [[teacher-education-ai-literacy-sdt-2026]]
 - [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]]
 - [[ai-availability-student-motivation]]
-- [[chatgpt-english-language-learning-malaysia]] — Students' ChatGPT experiences in English language learning
-- [[tts-dialogue-lessons-learner-characteristics-2026]] — Learner characteristics × TTS dialogue-format interactions
-- [[liang-ai-learning-motivation-sdt-2026]] — SDT latent transition analysis of students' AI learning motivation (2,086 secondary students)
-- [[student-motivation-need-satisfaction-genai-sdt-2026]] — Student motivation and need satisfaction in GenAI classrooms (Schweder, Hagenauer & Raufelder 2026)
+- [[chatgpt-english-language-learning-malaysia]] — 学生在英语学习中的 ChatGPT 体验
+- [[tts-dialogue-lessons-learner-characteristics-2026]] — 学习者特征 × TTS 对话形式的交互
+- [[liang-ai-learning-motivation-sdt-2026]] — 学生 AI 学习动机的 SDT 潜类别转变分析（2,086 名中学生）
+- [[student-motivation-need-satisfaction-genai-sdt-2026]] — GenAI 课堂中的学生动机与需求满足（Schweder, Hagenauer & Raufelder 2026）
 
-- [[genai-learning-engagement-medical-undergraduates-2026]] — GAI use is weakly tied to need satisfaction and unnecessary for high engagement (He et al. 2026)
-- [[teacher-ai-collaboration-work-engagement-2026]] — Dual pathways from teacher–AI collaboration to work engagement, moderated by digital competency
+- [[genai-learning-engagement-medical-undergraduates-2026]] — GAI 使用与需求满足只有弱关联，且对高投入并不必要（He 等人 2026）
+- [[teacher-ai-collaboration-work-engagement-2026]] — 从教师—AI 协作到工作投入的双路径，受数字胜任力调节
+- [[bassner-performance-learning-dissociation-ai-programming-2026]] — 保留提示在给出答案未能做到之处保住了自主

@@ -1,17 +1,17 @@
 ---
 title: 形式性评估
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-10-09T18:39:26-04:00"
+updated: "2026-10-24T15:58:16-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [scaffolding]
 technology: [adaptive-learning, generative-ai, human-in-the-loop-ai, learning-analytics, llm, personalized-learning]
 assessment: [ai-feedback-quality, assessment, automated-assessment, feedback, formative-assessment]
 connected_faqs: [ai-feedback-at-scale]
-connected_resources: [snorkl]
+connected_resources: [snorkl, ai-infused-assignment-playbook]
 confidence: high
 translation_of: concepts/formative-assessment
-source_updated: "2026-10-15T08:25:00-04:00"
+source_updated: "2026-10-17T03:49:06-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -109,6 +109,8 @@ AI 教育中的形式性评估与学习过程本身相连：
 
 形式性评估系统可能从学习支持工具转变为行为监控的基础设施。使自适应导学成为可能的同一批数据流，在[[governance]]薄弱时也能使惩罚性追踪成为可能。这关联到[[privacy]]与[[well-being|学生福祉]]，并论证形式性系统应当支持学习，而非监控它。
 
+可以在没有监控的情况下为可观察性而设计：它是评估实际产生的、用于对学习作出可辩护判断的证据，被当作一项设计优先事项，其成本以可行性而非伦理支付（[[assessment-feedback-trilemma-model-2026|Pedlow 等人（2026）]]）。
+
 ## 对教育中的人工智能的启示
 
 - **让题型匹配 AI 的可靠性：** 在可验证的维度（概念对齐、正确性）上用 AI，在教学判断的维度（干扰项质量、反馈深度）上保留人的判断。
@@ -145,8 +147,8 @@ AI 教育中的形式性评估与学习过程本身相连：
 ## 关联文章
 
 - [[llm-multi-agent-conversation-assessment-2025]] — 一个用于对话型评估的四智能体架构，其评分者向中间类别折中（Hou 等 2025）
-- [[causal-modeling-competency-assessment-2026]] — Causal Modeling of Support Interventions for Student Competency Assessment
-- [[nicola-richmond-programwide-assessment-genai-2025]] — Program-wide approaches to redesigning assessment in the GenAI era
+- [[causal-modeling-competency-assessment-2026]] — 学生能力评估中支持干预的因果建模
+- [[nicola-richmond-programwide-assessment-genai-2025]] — GenAI 时代重新设计评估的全项目路径
 - [[ai-feedback-enactment-workflow-2026]] — 让 AI 生成的反馈要紧起来：从供给到践行
 - [[care-full-feedback-genai]] — GenAI 时代悉心反馈的手艺
 - [[feedback-futures-genai]] — 反馈的未来：超越人与 GenAI 能力的极限
@@ -161,7 +163,7 @@ AI 教育中的形式性评估与学习过程本身相连：
 - [[genai-teacher-feedback-comparison]] — GenAI 与教师反馈的比较
 - [[chatgpt-feedback-engagement-genai]] — ChatGPT 反馈与投入
 - [[code-gen]] — CODE-GEN：经验证的多选题生成
-- [[responsible-assessment-ai-era-stanford-2026]] — Responsible assessment in the AI era
+- [[responsible-assessment-ai-era-stanford-2026]] — AI 时代负责任的评估
 - [[zhan-boud-du-authentic-assessment-scoping-review-2025]] — 为真实性评估而设计
 - [[automated-grading-linux-bash-examinations-large-language-models]] — Linux/bash 考试的自动评分
 - [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — ChatGPT 增强的形式性评估中的教师与 AI 角色
@@ -181,6 +183,7 @@ AI 教育中的形式性评估与学习过程本身相连：
 - [[hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026]] — AI 支持的形式性评估中教师的诊断技能：从诊断到元诊断
 - [[mendonca-llm-feedback-perceived-usefulness-programming-2026]] — 跨三个教育层级的编程中 LLM 生成反馈的感知有用性与使用意愿
 - [[zhu-adaptive-teaching-assistance-genai-big-data-2026]] — 音乐教育中结合生成式 AI 与大数据分析的自适应教学辅助
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — Student Use of LLMs and the Limits of AI-Generated Question Difficulty in Data Science Courses
+- [[student-llm-use-ai-question-difficulty-data-science-2026]] — 学生对 LLM 的使用与数据科学课程中 AI 生成题目难度的局限
 - [[mcnamara-aim-cai-continuous-assessment-2026]] — AI 中介的持续评估基础设施（AIM-CAI）：跨语境与时间连接学习证据（McNamara 与 Hasnine 2026）
 - [[etq-ai-conversational-teacher-training-2026]] — 用于教学误解的会话式 AI 诊断：基于证据的对话（Miranda 与 Calvani 2026）
+- [[assessment-feedback-trilemma-model-2026]] — 对监控风险的正面对应物：把可观察性当作证据设计，而非监控

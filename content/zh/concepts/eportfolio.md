@@ -66,11 +66,11 @@ ai_assist:
 
 ## 关联文章
 
-- [[ni-lam-multiliteracies-ai-portfolio-2026]] — Students' perceptions of multiliteracies development using AI-assisted portfolio assessment (Ni & Lam 2026)
-- [[sutama-chatgpt-eportfolio-speaking-2026]] — ChatGPT aligned with e-portfolio assessment for EFL speaking and feedback literacy (Laksana et al. 2026)
-- [[responsible-assessment-ai-era-stanford-2026]] — Portfolio- and competency-based assessment in the AI era
-- [[zhan-boud-du-authentic-assessment-scoping-review-2025]] — Authentic assessment robust to generative AI, incl. social contribution portfolios
-- [[beyond-detection-authentic-assessment-ai-2025]] — Annotated portfolios / oral defenses as AI-resistant assessment
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]] — The Symbiotic Portfolio for hybrid learners
-- [[pbl-structural-conditions-ai-2026]] — Portfolios as partial answers to assessment at scale
-- [[learn-framework-responsible-genai-pbl-2026]] — Personal learning portfolios as assessable learning traces
+- [[ni-lam-multiliteracies-ai-portfolio-2026]] — 学生对使用 AI 辅助档案袋评价发展多元素养的看法（Ni 与 Lam 2026）
+- [[sutama-chatgpt-eportfolio-speaking-2026]] — ChatGPT 与 EFL 口语及反馈素养的电子档案袋评价对齐（Laksana 等 2026）
+- [[responsible-assessment-ai-era-stanford-2026]] — AI 时代的档案袋式与能力本位评价
+- [[zhan-boud-du-authentic-assessment-scoping-review-2025]] — 对生成式 AI 稳健的真实性评价，含社会贡献档案袋
+- [[beyond-detection-authentic-assessment-ai-2025]] — 带注释的档案袋与口头答辩作为抗 AI 的评价
+- [[elsayed-pedagogical-symbiosis-posthuman-learner]] — 面向混合学习者的共生档案袋
+- [[pbl-structural-conditions-ai-2026]] — 档案袋作为大规模评价的部分答案
+- [[learn-framework-responsible-genai-pbl-2026]] — 个人学习档案袋作为可评估的学习痕迹

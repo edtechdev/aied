@@ -1,7 +1,7 @@
 ---
 title: 利益相关者
 created: "2026-08-19T17:50:00-04:00"
-updated: "2026-10-09T18:58:11-04:00"
+updated: "2026-10-24T14:13:55-04:00"
 type: concept
 foundations: [ai-literacy, learning-design, teacher-role]
 audience: [instructors, learners, administrators]
@@ -105,4 +105,4 @@ ai_assist:
 - [[student-rationalization-ai-writing]] — 学生在学术写作中对 AI 使用的合理化
 - [[ai-changing-teaching-workflows]] — AI 如何改变教学工作流
 - [[beyond-hype-stakeholder-perceptions-genai-2026]] — 高等教育中对 GenAI 的利益相关者认知（Humble & Mozelius 2026）
-- [[edtech-privacy-deferral-2026]] — "We'll Fix It Later": Education, AI, and the Deferral of Student Privacy in EdTech
+- [[edtech-privacy-deferral-2026]] — "我们以后再修"：教育技术中的教育、人工智能与学生隐私拖延

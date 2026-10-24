@@ -78,7 +78,7 @@ IBL 由问题驱动、聚焦过程的结构，是富有成效的 AI 使用的天
 - [[collaborative-learning]]
 - [[higher-ed]]
 - [[k-12]]
-- [[productive-failure]] — Productive Failure
+- [[productive-failure]] — 生产性失败
 
 ## 关联文章
 
@@ -87,11 +87,11 @@ IBL 由问题驱动、聚焦过程的结构，是富有成效的 AI 使用的天
 - [[luo-ibl-patterns-llm-bloom-2026]] — 大语言模型驱动环境中的 IBL 模式（Bloom 视角）
 - [[mujib-ai-ibl-creative-math-2026]] — AI 支持的 IBL 与创造性数学表现
 - [[zhao-genai-higher-order-thinking-meta-2026]] — 生成式 AI 与高阶思维元分析
-- [[niri-steam-ai-literacy-review-2026]] — STEAM education for AI literacy
-- [[kim-ai-productive-failure-adult-2026]] — Designing AI Systems to Support Productive-Failure-Based Learning
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pedagogical Steering of LLMs for Productive Failure
-- [[lukesova-clue-before-correction-2026]] — Clue Before Correction: ChatGPT for Autonomous Language Learning
+- [[niri-steam-ai-literacy-review-2026]] — 面向 AI 素养的 STEAM 教育：系统综述
+- [[kim-ai-productive-failure-adult-2026]] — 设计支持生产性失败式学习的 AI 系统
+- [[puech-pedagogical-steering-llm-productive-failure-2025]] — 面向生产性失败的 LLM 教学性引导
+- [[lukesova-clue-before-correction-2026]] — 纠正之前先给线索：用于自主语言学习的 ChatGPT
 - [[ai-supported-inquiry-photosynthesis-respiration-2026]] — 光合作用与呼吸中的 AI 支持引导式探究（科学教师教育）
 - [[ai-information-extraction-undergraduate-thesis-2026]] — AI 驱动的信息抽取支持本科论文与研究型学习（An et al. 2026）
-- [[ai-assisted-inquiry-ssi-climate]] — AI-Assisted Inquiry in Socio-Scientific Issues on Climate Change
+- [[ai-assisted-inquiry-ssi-climate]] — AI 辅助的社会性科学议题探究：气候变化
 - [[geoscience-field-learning-genai-2026]] — 一个防止生成式 AI 预先建构学习者所注意之物的"田野优先"教学模型（Choi 2026）

@@ -1,13 +1,13 @@
 ---
 title: 分布式认知
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-10-09T18:58:10-04:00"
+updated: "2026-10-24T14:46:00-04:00"
 type: concept
 foundations: [agency, cognitive-offloading, human-ai-collaboration]
 pedagogy: [distributed-cognition, embodied-learning, learning-theories, metacognition, situated-learning]
 confidence: high
 translation_of: concepts/distributed-cognition
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-21T11:40:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -38,7 +38,8 @@ ai_assist:
 生成式与交互式 AI 系统以早先工具不曾有过的方式重新分配认知工作。知识库记录了这一转变的几个维度：
 
 - **AI 作为认知伙伴与共同调节者。** AI 可以充当 [[scaffolding|支架]]、元认知支持、外部记忆系统，以及在思维与学习的共同[[regulation]]中的决策伙伴。([[ai-cognitive-partner-co-regulation-learning]]) 这使认知被定位为在学习者与系统之间共同调节，而非由个体独自管理。
-- **能动性与责任的重新分配。** **合奏认知**（ensemble cognition）等框架把思维重新概念化为从人与 [[student-ai-interaction|AI 互动]]中动态涌现，区分了 AI 的*功能性能动性*（它在无意识的情况下影响结果的能力）与*道德责任*（这始终属于人）。([[ensemble-cognition-philosophy-ai-education]]) 分布式认知由此重新框定了谁该为学习负责。
+
+- **AI 使用量并不能揭示正在发生的是哪种形式的分布式工作：** [[cognitive-offloading-llm-synthesis-writing|Poquet 等（2026）]] 发现，97 名学习者基于用量的画像在先备知识与作者身份上存在差异，但在主动角色或理解层级的提示上并无差异，因此共同活动与劳动分工可能伴随相同的用量而出现。- **能动性与责任的重新分配。** **合奏认知**（ensemble cognition）等框架把思维重新概念化为从人与 [[student-ai-interaction|AI 互动]]中动态涌现，区分了 AI 的*功能性能动性*（它在无意识的情况下影响结果的能力）与*道德责任*（这始终属于人）。([[ensemble-cognition-philosophy-ai-education]]) 分布式认知由此重新框定了谁该为学习负责。
 - **效率—调节张力。** 实证研究显示了一种权衡：最高效地分配推理的人—AI 系统（例如通过委托推理）取得了更高的任务表现，但可能降低学习者的自我调节性 [[student-engagement|参与]]。([[hao-human-ai-collaborative-problem-solving-cognition]]) 这正是知识库所记录的 [[cognitive-offloading]] 与 [[cognitive-offloading|过度依赖]]风险的实证面孔。
 - **协作中的中介。** AI 可以充当 [[pedagogy|教学法]]意义上的*中介者*，在 [[collaborative-learning|协作学习]]中编排互动、认识论意义上的意义建构与调节过程，把能动性、权威与责任重新分配给人类与非人类行动者。([[niari-ai-pedagogical-mediator-collaborative-learning]])
 - **访问配置在群体内部分配认知。** [[xu-genai-collaborative-space-2026|Xu 等（2026）]]表明，一个团队*如何*共享 GenAI 决定了认知的分布：在单一共享界面上同步工作维持着共同的认知模型（集体提示、共享的外部记忆），而异步的私人使用会使之碎片化，输出被选择性重新标注后才共享。GenAI 由此既是分布式的认知参与者，也是一个交互式协作空间，其渗透性必须加以设计（共享情境流入，私人洞见不会自动回流）。

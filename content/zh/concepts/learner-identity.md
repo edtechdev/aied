@@ -50,7 +50,7 @@ ai_assist:
 
 - **创造身份：** **[[t2i-competence-paradox-2026|T2I 能力悖论]]**捕捉了易用性如何侵蚀艺术与设计学生的基于技艺的身份。
 - **感知的作者身份可以与实际原创性脱钩。** 用 AI 建网站的设计学生把自己作品的作者身份评得很高（67/100，满意度 6.4/7，感知质量 6.1/7），然而这些评分与任何可测的东西都不相关：他们的设计比不用 AI 时更同质，且感知作者身份与测量的原创性的相关性仅为 r ≤ +0.13（[[vibe-coding-design-diversity-2026|Boussioux 等，2026]]）。
-- **职业身份：** 多项研究处理 AI 对**职业身份**的影响 —— 例如，**[[lodge-adaptive-capabilities-genai-future-2026|Lodge 等（2026）]]**主张，毕业生需要*自适应能力*（[[ai-literacy]]、[[distributed-cognition]]、[[metacognition]]），正是为了在 AI 融入的未来中维持一个可行的职业身份，而不是被他们的工具定义 —— 或被其排除。
+- **职业身份：** 多项研究处理 AI 对**职业身份**的影响 —— 例如，**[[lodge-adaptive-capabilities-genai-future-2026|Lodge 等（2026）]]**主张，毕业生需要*自适应能力*（[[ai-literacy]]、[[distributed-cognition]]、[[metacognition]]），正是为了在 AI 融入的未来中维持一个可行的职业身份，而不是被他们的工具定义 —— 或被其排除。生成式人工智能的判断也可以依时间情境以及作者身份而分裂：受访者认为人工智能用于学习是不恰当的，却在未来职业工作中合法或可预期 —— “As a student I must learn, as a professional I must produce”（[[sun-governing-genai-policy-cross-national-2026|Sun 等（2026）]]）。
 - **后人类与混合身份：** **[[elsayed-pedagogical-symbiosis-posthuman-learner|Elsayed（2026）]]**构想**后人类学习者**，其认知真正地混合并分布于[[biology-education|生物]]与人工系统之间 —— 在认知 AI 时代对身份形成本身的重构。
 - **学生与学术身份：** **[[zhan-boud-du-authentic-assessment-scoping-review-2025|真实评估]]**[[research-methods-aied|研究]]与身份相关，因为要求真实、个人化表现的[[assessment]]任务帮助学生把自己看作有能力的从业者；**[[paternalistic-filter-llm-history-education|历史教育研究]]**展示了家长式的 AI 使用如何塑造学生作为学科探究者的身份建构。
 - **学生如何框定工具，塑造了他们的职业生成。** 仅把生成式 AI 当作社会情感伙伴的学生，对其专业学习产出的反思不如那些同时也把它框定为技术、学习材料或结构的学生那样有区分度（[[genai-professionalization-metaphors-2026|Bohmer 等，2026]]）。
@@ -96,17 +96,17 @@ ai_assist:
 
 ## 关联文章
 
-- [[guarded-adoption-genai-higher-education-2026]] —— Guarded Adoption of Generative AI in Higher Education
-- [[t2i-competence-paradox-2026]] —— The competence paradox: creative identity in text-to-image GenAI use
-- [[shame-guilt-ai-regulation-computing-education]] —— Shame and guilt as social regulators of AI use
-- [[lodge-adaptive-capabilities-genai-future-2026]] —— Adaptive capabilities for a viable professional identity in a GenAI future
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]] —— Pedagogical symbiosis and the post-human learner
-- [[ai-pedagogical-accompaniment-amico]] —— AI-enabled pedagogical accompaniment supporting STEM identity
-- [[zhan-boud-du-authentic-assessment-scoping-review-2025]] —— Designing for authentic assessment
-- [[paternalistic-filter-llm-history-education]] —— Paternalistic AI use and student identity in history education
-- [[laidlaw-genai-identity-crisis-faculty-2026]] —— GenAI as identity crisis for faculty (teacher identity)
-- [[teaching-the-teachers-genai-tpk-review-2026]] —— TPK-based teacher training and professional identity
-- [[genai-professionalization-metaphors-2026]] —— GenAI conceptualizations and student professional identity
+- [[guarded-adoption-genai-higher-education-2026]] —— 对高等教育中生成式 AI 的有界采纳
+- [[t2i-competence-paradox-2026]] —— 胜任力悖论：文生图 GenAI 使用中的创意身份
+- [[shame-guilt-ai-regulation-computing-education]] —— 羞耻与内疚作为 AI 使用的社会调节器
+- [[lodge-adaptive-capabilities-genai-future-2026]] —— 面向 GenAI 未来可行专业身份的自适应能力
+- [[elsayed-pedagogical-symbiosis-posthuman-learner]] —— 教学共生与后人类学习者
+- [[ai-pedagogical-accompaniment-amico]] —— 支持 STEM 身份的 AI 使能教学陪伴
+- [[zhan-boud-du-authentic-assessment-scoping-review-2025]] —— 为真实性评价而设计
+- [[paternalistic-filter-llm-history-education]] —— 家长式 AI 使用与历史教育中的学生身份
+- [[laidlaw-genai-identity-crisis-faculty-2026]] —— GenAI 作为教师的身份危机（教师身份）
+- [[teaching-the-teachers-genai-tpk-review-2026]] —— 基于 TPK 的教师培训与专业身份
+- [[genai-professionalization-metaphors-2026]] —— GenAI 概念化与学生专业化
 
-- [[synthetic-position-self-authorship-2026]] —— Authorial suspension: delegated authorship as a self densely voiced yet un-authored (conceptual analysis)
-- [[vibe-coding-design-diversity-2026]] —— One Tool, One Taste? How Vibe Coding Trades Collective Diversity for Individual Creativity
+- [[synthetic-position-self-authorship-2026]] —— 作者身份悬置：被委派的作者身份作为一个声音稠密却未被署名的自我（概念分析）
+- [[vibe-coding-design-diversity-2026]] —— 一种工具，一种品味？Vibe Coding 如何以集体多样性换取个体创造力

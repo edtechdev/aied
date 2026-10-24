@@ -1,7 +1,7 @@
 ---
 title: 提示工程
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-10-09T18:39:21-04:00"
+updated: "2026-10-24T15:22:00-04:00"
 type: concept
 connected_faqs: [making-ai-better-at-supporting-learning, training-ai-tutors-to-guide-rather-than-answer]
 foundations: [ai-literacy]
@@ -12,7 +12,7 @@ level: [higher ed]
 confidence: high
 connected_resources: [edugems, matt-pocock-skills, pedagogical-promptbook, writing-rhetoric-studies-in-the-loop]
 translation_of: concepts/prompt-engineering
-source_updated: "2026-10-14T11:15:00-04:00"
+source_updated: "2026-10-16T20:19:49-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -50,6 +50,7 @@ ai_assist:
 - **提示认知追踪学科，而非学生。**[[student-ai-conversations-cognitive-engagement-2026|Chang 与 Li（2026）]]对 116 门课程的 60,087 条提示做了分类，发现 Bloom 层级画像因学科而异——STEM 以"应用"为主（20.8%），社会科学以"创造"为主（33.8%）——课程层面的方差超过学生层面的方差。
 - **提示作为素养：**[[tracing-genai-literacy-interaction-patterns|追踪生成式人工智能素养]]与[[aaai2026-prompting-literacy-k12|K-12 提示素养]]研究把提示框定为[[ai-literacy]]的核心组件
 - **新手默认试错，并把责任推给模型。**在一门文本语言学研讨课上，十位生成式人工智能新手靠试错来精炼提示，很少使用上下文中的范例，并把糟糕的输出压倒性地归因于大语言模型，而非自己的提示措辞（[[llms-text-linguistics-teaching-2026|Brocca 与 Garassino（2026）]]）。
+- **含糊的提示会在对话中留下痕迹。**低质量组的标志是一个自我重复的澄清循环（IC→IC，Z = 3.25），可追溯到含糊的提示与人工智能的误读，并带有该研究中最大的挫败感差距（2.12 对 3.82）；在真实日志上做提示调试，可以在它发生时就针对它（[[fang-human-ai-collaboration-patterns-instructional-design-2026|Fang 等（2026）]]）。
 - **当讲师示范提示时，学生逐字复用它。**在来自十二个中学 STEAM 小组的 310 条被记录的提示中，逐字照抄讲师指令是最常见的学生姿态，占 47.1%，高于自发提问的 28.7%（[[middle-school-genai-steam-interactions-2026|Zhao 与 Li（2026）]]）。
 - **一个调节性的循环胜过一个提示公式。**在一项有 42 名本科生的准实验试点中，被教授 IDEA 循环（意图 Intent、解构 Deconstruction、表达 Expression、适应 Adaptation）的学生，在所有五类任务中都产出了比被教授"角色–任务–语境–格式"提示法的同伴更高质量的提示与输出（调整后的提示增益为 +11.77 到 +29.19 分）（[[idea-framework-metacognitive-genai-2026|Wang 等，2026]]）。
 - **提示作为系统设计：**[[cotal-formative-assessment-scoring-2026|CoTAL]]把[[human-in-the-loop-ai|人在环路]]的提示工程用于[[formative-assessment|形成性评估]]评分；[[choi-anchor-aes-prompting-2025|基于锚点的提示]]改善了[[automated-essay-scoring|自动化作文评分]]
@@ -106,7 +107,7 @@ ai_assist:
 - [[llm-interaction-depth-task-quality-recall-2026]] — 学生问什么要紧：大语言模型互动深度、任务质量与即时回忆（Tsiligkiris，2026）
 - [[ye-arpg-real-time-coaching-llm-prompting-2026]] — ARPG+：面向教育性大语言模型提示的实时教练
 - [[dierickx-taxonomy-llm-tasks-critical-ai-literacy-journalism-2026]] — 面向新闻学批判性人工智能素养的大语言模型任务分类法
-- [[prompt-privilege-equitable-ai-access-2026]] — Prompt Privilege: measuring & mitigating accessibility disparities in LLM access
+- [[prompt-privilege-equitable-ai-access-2026]] — Prompt Privilege: measuring & mitigating accessibility disparities in LLM access：提示特权：测量并缓解 LLM 获取中的可及性差异
 - [[principal-trait-analysis-human-ai-skills-2026]] — 主特质分析：人机协作的数据驱动特质
 - [[llms-text-linguistics-teaching-2026]] — 文本语言学教学中的大语言模型
 - [[idea-framework-metacognitive-genai-2026]] — 面向元认知受调节的生成式人工智能使用的 IDEA 框架
@@ -125,7 +126,8 @@ ai_assist:
 - [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
 - [[miles-prompt-literacy-human-centered-genai-framework-2026]] — 提示工程对提示素养：一个五阶段的以人为本生成式人工智能投入框架，含五步提示素养循环（Miles、Haber-Curran 与 Arar，2026）
 - [[teacher-ai-literacy-prompt-feedback-quality-2026]] — 提示工程与模型选择作为人工智能反馈质量的预测因子（Jacobsen 等，2026）
-- [[llm-feedback-focus-adaptivity-student-writing-2026]] — Evaluating Feedback Focus and Pedagogical Adaptivity in LLM-Generated Feedback on Student Writing
+- [[llm-feedback-focus-adaptivity-student-writing-2026]] — 评估 LLM 生成的学生写作反馈中的反馈焦点与教学适应性
 
 - [[middle-school-genai-steam-interactions-2026]] — 中学 STEAM 小组在 47.1% 的提示中逐字照抄了讲师的指令
 - [[ecd-prompts-automated-essay-scoring-2026]] — 以证据为中心的设计引导测量中的提示工程：以自动作文评分为例
+- [[fang-human-ai-collaboration-patterns-instructional-design-2026]] — 含糊的提示产生了自我重复的澄清循环，并带来最大的挫败感差距

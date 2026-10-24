@@ -2,7 +2,7 @@
 connected_resources: [pressing-prompts, teacherserver]
 title: 高等教育
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-09T18:39:26-04:00"
+updated: "2026-10-24T14:21:23-04:00"
 type: concept
 foundations: [academic-integrity, ai-education, educational-development]
 technology: [generative-ai]
@@ -11,7 +11,7 @@ level: [higher ed]
 connected_faqs: [incorporating-ai-literacy, ai-literacy-evidence]
 confidence: high
 translation_of: concepts/higher-ed
-source_updated: "2026-10-13T11:30:00-04:00"
+source_updated: "2026-10-21T12:05:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -40,7 +40,7 @@ ai_assist:
 
 ## 引言
 
-高等教育中的AI研究横跨大学的每一项职能：从[[intelligent-tutoring|AI辅导]]与[[automated-assessment|自动评分]]到教师发展、学术诚信、[[governance|机构治理]]与学生支持。本知识库的高等教育文章围绕若干关键主题聚集——机构转型、大规模的学生体验、教师与教学、评估与诚信，以及政策与实践的快速变迁。
+高等教育中的AI研究横跨大学的每一项职能：从[[intelligent-tutoring|AI辅导]]与[[automated-assessment|自动评分]]到教师发展、学术诚信、[[governance|机构治理]]与学生支持。本知识库的高等教育文章围绕若干关键主题聚集——机构转型、大规模的学生体验、教师与教学、评估与诚信，以及政策与实践的快速变迁。在这项综述的 394 项 GenAI 高等教育研究中，参与者聚焦于学生的有 352 项、教师的有 15 项、两者兼顾的有 26 项、多个利益相关群体的一项，因此关于认知与教学实践的证据基础压倒性地以学生为主（[[mapping-genai-higher-ed-scoping-review|Lin et al. (2026)]]）。
 
 ### 机构转型
 
@@ -52,11 +52,15 @@ ai_assist:
 
 一个机构已经把哪些形式的GenAI使用正当化，这本身是可测量的。[[sun-student-genai-entanglement-literacy-demands-2026|Sun, Dohn and Rehm (2026)]] 按认识论工作在学生与系统之间如何分布，对 102 项经验性高等教育研究做了分类，发现助手（Assistant，42.16%）与使能者（Enabler，42.16%）应用占主导，而生成者、再想象者与综合者合计不到语料的五分之一——这不是因为模型做不到其余的，而是因为边缘形式以大学个人能力逻辑尚未承认的方式分配作者身份。按他们的说法，高等教育中GenAI的约束性因素是机构正当性而非技术能力，这把问题径直放进与 [[academic-integrity|诚信]] 与 [[assessment]] 改革相同的政策与评估再设计领域。
 
+[[ranieri-biagini-ai-higher-education-taxonomy-review-2026|Ranieri and Biagini（2026）]]把 2019 年的四分类高等教育分类法对照 2019–2026 年的 228 篇出版物做了检验，发现 154 项可分类的应用中有 58.4% 落在该分类法之外，并把 AI 支持的学生服务、内容与教学设计以及机构[[learning-analytics|分析]]补充为功能领域。
+
 课堂之外的AI部署已变成一个消费者保护问题，而学生侧对其的盘点很单薄。[[students-at-stake-ai-deployment-risks-2026|Student Defense 的 SHAPE AI 报告（2026）]] 把机构AI使用映射到招生、招聘与助学金、学生成功服务（咨询、辅导、福利获取、学分转移）以及教育交付——来自 Canvas、Blackboard 与 D2L Brightspace 的LMS嵌入功能、全机构的GenAI [[edtech-platform|平台]]、辅导与反馈系统、检测与监考——并论证采纳正在跑在保护前面。它的六个跨领域关切（学生是否得到所付费用对应的东西、学习共同体的丧失、披露与透明度、数据隐私、偏见，以及校准的人类监督）与一个四问采购筛查相连：要解决什么问题、是否存在治理能力、机构是否透明、部署是否为学生创造价值。报告的立场是，各州、认证机构与联邦教育部尚不具备捕捉这些风险的条件，因此机构自身的成文政策是切实的保护，并直接点出这一失效模式：一所大学把教师主导的项目作为卖点，而教学或[[learning-design|课程设计]]却外包给AI或第三方供应商，就是以自己的名义出售另一种产品。
 
 ### 大规模的学生体验
 
 对[[ai-in-the-wild-college|真实学生AI使用]]与[[genai-availability-grades-satisfaction|GenAI可得性与满意度]]的大规模研究记录了学生实际如何使用AI——揭示出机构政策与日常实践之间的落差。[[genai-student-experiences-uk-he-survey-2026|调查研究]]捕捉学生如何在AI图景中导航，而对[[generative-ai-reduced-study-time-math|学习时间]]、[[ithaka-sr-ai-skills-college-graduates-2026|毕业生的AI技能]]与[[student-perceptions-ai-study-productivity-2026|学生对AI工具的看法]]的研究表明，学生的AI体验是混合的——高效但往往更浅。如今这类大学学习多发生在线上，[[online-teaching-and-learning|线上教学与学习]]同时塑造了AI对大学生的好处（可扩展的个性化、随时可得的支持）与风险（[[academic-integrity|学术诚信]]、[[cognitive-offloading|认知卸载]]）。一项使用SHAP分析的探索性机器学习方法考察了学生的看法与人口学特征如何关联到预期的学术性ChatGPT使用，优先考虑 [[explainable-ai|可解释性]]（[[determinants-chatgpt-use-higher-education-2026]]）。在艺术与[[design-education|设计教育]]中，生成式AI挑战了人类[[creativity|创造力]]的价值，一个以[[storytelling-in-education|数字叙事]]为核心的[[project-based-learning|项目式学习]]模型培养了AI所缺乏的情感、文化与叙事能力——通过一项为期 15 周的嵌入式案例研究评估，426 名中国本科生把本地文化遗产转译成了 [[multimodal|多模态]]叙事（[[project-based-digital-storytelling-art-design-2026]]）。GenAI的辅助性与包容性使用也在重塑 [[special-education|残障学习者]]的学生体验：[[khlaif-assistive-genai-visually-impaired-2026|Khlaif et al. (2026)]]——一项对三所巴勒斯坦大学中 21 名视障本科生的 [[qualitative-research|定性]]案例研究——发现GenAI使节奏、内容与交付适配个人画像，简化复杂文本，并在模态间转换内容，给学习者带来课堂参与中的 [[agency|自主感]]与信心，同时被视为补充而非取代教师。
+
+一项对 303 名本科生的层次回归发现，感知资源与教师支持解释了 AI 素养方差的 29%，先前的数字能力为 3%，心理阻碍为 6%（总 R² = 0.39）；技术[[anxiety-and-stress|焦虑]]在完整模型中关联反转为正，仅出现在批判性评价与伦理能力上（[[ai-literacy-determinants-university-students-2026|Chow et al. (2026)]]）。
 
 在课堂之外，AI经由机构本身触达学生——咨询、外展、转介与稀缺支持的分配——这由 [[student-support-and-success|学生支持与成功]] 作为独立的一组证据收集起来。它对规模的核心告诫来自一项为期四年的随机评估（N = 8,708）：注册提醒把一个截止日期推移了 34 个百分点，而毕业、学分与GPA完全没动。
 
@@ -72,16 +76,23 @@ ai_assist:
 
 [[educational-development]]研究考察教师如何采纳、抵制或适应AI。[[teacher-ai-adoption-confidence|教师AI采纳研究]]识别信心、支持与态度为关键预测因子。[[ai-assistance-discretionary-feedback|AI辅助的裁量性反馈]]研究探索AI是否提升教师的 [[ai-feedback-quality|反馈质量]]与数量，而 [[luo-eaton-ai-student-feedback-ethics-2026|伦理研究]]权衡教师是否应当为反馈使用AI。[[enright-staff-perspectives-genai-2026|教职员视角研究]]与 [[stenalt-good-education-teacher-ai-conceptions-2026|教师AI概念的现象图志学研究]]探究教育者如何理解自己正在变化的角色。在大班环境中，AI现在能承担日益增多的反馈负荷：一项在本科宏观经济学导修中进行的学期长实地实验（[[gpt4-feedback-student-activation-2026|Geschwind et al., 2026]]）发现，个体化的GPT-4反馈在八个开放式任务上维持了最高的参与度，并产生了最大的内容 [[learning-gains|学习增益]]，把AI反馈定位为讲师反馈的可扩展补充与不可靠的 [[peer-assessment|同伴反馈]]的替代。面向大型本科 [[stem-education|STEM]]班级的一条互补路线是一个诊断性助教系统：[[yin-arthur-ai-teaching-assistant-engineering-econ-2026|Arthur（Yin et al. 2026）]] 用一个逐题的 [[machine-learning|ML]]骨干，为工程经济学计算类公式题提供实时、个性化的反馈——这是一个手写解答此前阻挡了AI支持的领域——经由一个平衡反馈准确性与采集效率的、基于对话的题库网页界面。[[farazouli-navigating-uncertainty-teachers-genai-2026|Farazouli et al. (2026)]] 捕捉了这一变化的 *情感* 维度：24 位瑞典大学教师把GAI的出现体验为令人警觉与压倒性的，报告了一种"脆弱状态"（低信心、不安全感、害怕"跟不上学生"），并感觉在乌托邦与反乌托邦话语之间"卡住"——同时重新思考 [[assessment]] 并把优先级重新评估转向 [[critical-thinking|批判性思维]]与合乎伦理的GAI使用。
 
+在一项覆盖 2,469 次会话、2,383 名成人的研究中，一小时的 AI 辅导在 GRE 学习增益上与真人专家辅导在统计上等价，而其中一个模型以低 918 倍的每百分点成本达到了同等水平（[[studentbench-ai-human-tutoring-gre-2026|Northcutt et al. (2026)]]）。
+
 ### 评估与诚信
 
 [[academic-integrity]]与[[ai-assessment-scale-reform|AI评估改革]]研究着力于大学应如何为一个具备AI能力的学生群体重新设计评价。以 [[ai-detection|检测为中心]]的方法正让位于 [[authentic-assessment]] 与基于过程的评价，包括 [[fenton-oral-exams-ai-authentic-assessment-2025|口试]]、[[roe-assessment-twins-2026|评估孪生]]与 [[beyond-detection-authentic-assessment-ai-2025|真实性评估再设计]]。这一转变反映了一个更深的关切：[[ai-tools-academic-work-cheating-2026|学生与机构如何定义作弊]]与AI，以及 [[assessing-quality-ai-generated-exams-field-2025|AI生成的评估材料的质量]]。评分本身的自动化正为开放式大学作业而成熟：[[pecuchova-automated-grading-open-ended-genai-2026|Pecuchova, Benko & Drlik (2025)]] 在 1,885 个针对 24 道软件工程考题的作答上基准测试了十一个GenAI与句子嵌入模型，发现仅 GPTo1 达到与两位专家人类评分者近乎完美的一致性（Fleiss' Kappa 0.82），上下文敏感模型优于参照式模型——但其专有API成本使作者建议资源受限的机构采用混合的人在回路部署。在专业项目层面，[[olvet-genai-scoring-open-ended-medical-2026|Olvet et al. (2026)]] 表明，[[llm]]（GPT-4）对临床见习前 [[medical-education|医学]]开放式考题的评分，在迭代式人工评分量表细化后可以达到与教师评分者从实质到近乎完美的一致（加权kappa最高 0.94），而作者仍建议保留人在回路以裁决残余分歧。补充这一模型级证据，[[falahat-chatgpt-grading-pharmacy-exams-2026|Falahat, Das, Bhaumik & Thambi (2026)]] 用 ChatGPT-5 给一份 21 题的大学药学考试评分，发现客观题上与教师近乎完美一致（CCC 0.935–1.000），但简答与论述题上一致性不可靠，提供评分量表也未能一致地改善表现——强化了大学评估中 [[human-in-the-loop-ai|混合、人在回路]]评分的理由。
 
+第三条路线是把作业本身做得更硬：把提示渲染成扰动图像，使 LLM 完成作业的失败率从 7.4% 升至 55.6%，并把 Tesseract 提取错误推到 100.0%，从而把诚信重新框定为补充而非替代检测的内容设计（[[airri-machine-resistant-reading-interface-2026|Salaun et al., 2026]]）。
+
 ## 对高等教育教师的启示
 
 - **为一个具备AI能力的学生群体设计评估。** 以检测为中心的诚信方法正让位于 [[authentic-assessment|真实性]]与基于过程的评价（[[beyond-detection-authentic-assessment-ai-2025|超越检测]]、[[ai-assessment-scale-reform|评估改革]]）——重新设计你评估的东西，而不只是你如何监管它。
+- **不要把考场内的禁令当作保证。** 智能眼镜与 AI 增强助听器是双重透明的：没有目光下垂或姿态变化可供检测，因此监考考试或口试再也无法通过物理隔离买来证据上的信心（[[corbin-ai-glasses-wearable-ai-assessment-2026|Corbin et al., 2026]]）。
 - **重新设计"学生仍应亲手学会什么？"这个问题。** 正如在计算领域，决定哪些技能必须被保留（验证、判断、过程），并把它们作为被评估的核心，而非假定AI技能会自动迁移。
 - **把教师准备度当作社会技术的而非仅技术的。** [[sangwa-epiq-ai-faculty-readiness-2026|EPIQ-AI]] 在认识论、教学法、机构与质量领域框定准备度——把你的 [[pedagogy|教学实践]]与机构治理对齐，而不只是工具熟练。
+- **为教师资助 AI 素养，而不只是工具熟练度。** [[faculty-ai-well-being-social-supports-2026|Liu et al. (2026)]] 发现，社会与组织支持仅通过 AI 素养间接地抵达高校教师的 AI 幸福感（β = 0.713），因此培养概念性、伦理性与教学性理解的项目，比单纯动手熟练度对教师更有益。
 - **处理政策—实践落差。** 大规模研究（[[ai-in-the-wild-college|AI in the wild]]）显示学生以机构政策未曾预期的方式使用AI——把你的期望与真实使用对齐，并明确地教授 [[ai-literacy]]。
+- **写针对具体方法的指引，而不是一份全校统一的 AI 政策。** 该研究访谈了 25 位大学语言教师，提炼出 20 种伦理张力（每种在线方法四种），分为学习的真实性（11）、权威挑战（4）与协作动态（5），并论证通用的、不分方法的政策无法应对每种在线方法施加于诚信与[[collaborative-learning|协作]]的独特压力（[[ai-ethics-tensions-online-pedagogy-2026|Baoyi & Khan (2026)]]）。
 - **用AI提升反馈的质量与数量。** [[ai-assistance-discretionary-feedback|AI辅助反馈]]可以增加教师交付的反馈；把它与 [[human-in-the-loop-ai|人类判断]]配对，使其改善学习而不只是自动化。
 - **审慎地参与评分与评估创新。** [[mesny-innovative-assessment-grading-management-2026|Mesny, Roberge-Maltais & Galy (2026)]] 论证 [[assessment]] 与评分是塑造高等教育学习最具影响力的因素之一，却在[[business-education|管理教育]]等领域研究不足（20年间四本顶尖期刊仅 58 篇文章）。传统的、偏[[summative-assessment|总结性]]的方法在生成式AI时代损害深度学习、[[well-being|福祉]]、公平与 [[academic-integrity|诚信]]；作者敦促教师更主动、更互惠地参与五种创新实践（真实性评估、自评与同伴评估、重评、基于标准的评分、不评分），并指出实施需要机构与文化支持以及渐进式实验。
 - **把研究训练与督导本身当作一个AI素养场所。** [[dai-chan-responsible-genai-research-ai-literacy-2026|研究生]]把 [[ai-literacy]] 践行为一門 [[situated-learning|情境化的]]实践而非静态的技能集合，而机构指引大抵止于教学与评估。论文、学位论文与发表工作的指引应当为每一个AI素养维度具体地 [[scaffolding|支撑]]验证、署名与披露——而 [[engagement-intensity-learner-modeling|简单的教学前信号]]可以在研究伦理课程中定位这种支持——而不是发布二元规则。
@@ -140,6 +151,11 @@ ai_assist:
 - [[engagement-intensity-learner-modeling]] — 作为自适应AI伦理教学的学习者建模信号的参与强度（Oh, Talton & Bui 2026）
 - [[ai-assisted-writing-research-teams]] — AI辅助写作把研究团队推向更小、更偏初级、高被引的协作（Wang et al. 2026）
 - [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench：AI与人类辅导产生同等的GRE学习增益
-- [[nlp-student-evaluation-teaching-scoping-review-2026]] — 从情感分类到可行动且负责任的反馈：NLP在教学学生评价中的范围综述与证据图谱，2015–2026
 - [[sun-student-genai-entanglement-literacy-demands-2026]] — 助手与使能者形式主导高等教育GenAI研究；边缘的纠缠类型因机构而非技术原因保持罕见（Sun, Dohn & Rehm 2026）
 - [[students-at-stake-ai-deployment-risks-2026]] — 跨招生、助学金、学生服务与教育交付的AI部署学生侧地图，附四问采购筛查（Student Defense 2026）
+- [[airri-machine-resistant-reading-interface-2026]] — 扰动图像作业把 LLM 完成失败率从 7.4% 提高到 55.6%：把内容设计当作诚信路线
+- [[corbin-ai-glasses-wearable-ai-assessment-2026]] — AI 眼镜与助听器击败了考场内禁令：双重透明，没有目光或姿态线索
+- [[ranieri-biagini-ai-higher-education-taxonomy-review-2026]] — 一个按功能领域划分的高等教育 AI 应用分类法，其中 58.4% 落在 2019 年类别之外
+- [[ai-ethics-tensions-online-pedagogy-2026]] — 写针对具体方法的指引，而不是一份全校统一的 AI 政策
+- [[ai-literacy-determinants-university-students-2026]] — 感知资源与教师支持解释了 AI 素养方差的 29%；人口学变量没有解释
+- [[faculty-ai-well-being-social-supports-2026]] — 为教师资助 AI 素养，而不只是工具熟练度

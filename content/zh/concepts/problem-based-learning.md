@@ -85,7 +85,7 @@ PBL 与[[project-based-learning|项目导向学习]]密切相关——两者都�
 - [[higher-ed]]
 - [[productive-failure]] — 生产性失败
 ## 关联文章
-- [[chen-pbl-pjbl-genai-meta-analysis-2026]] — Problem-based and project-based learning as promising frameworks for generative AI-supported education: Emerging evidence from a systematic review and three-level meta-analysis
+- [[chen-pbl-pjbl-genai-meta-analysis-2026]] — 问题导向学习与项目导向学习作为生成式 AI 支持教育的有前景框架：来自系统综述与三层元分析的新兴证据
 
 - [[pbl-structural-conditions-ai-2026]] — PBL 与有生产性的 AI 整合的结构条件（Rowe 2026）
 - [[educators-engagement-ai-pbl-review-2026]] — 教育者在 PBL 中与 AI 交互的系统综述（Amdan 等人 2026）

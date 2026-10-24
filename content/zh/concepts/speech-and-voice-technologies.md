@@ -1,7 +1,7 @@
 ---
 title: 语音与语音技术
 created: "2026-09-16T14:29:36-04:00"
-updated: "2026-10-09T19:06:57-04:00"
+updated: "2026-10-24T15:29:35-04:00"
 type: concept
 technology: [generative-ai, multimodal]
 assessment: [assessment]
@@ -11,7 +11,7 @@ audience: [instructors, learners, researchers, instructional designers]
 level: [k 12, higher ed, adult learning]
 discipline: [language learning]
 translation_of: concepts/speech-and-voice-technologies
-source_updated: "2026-09-28T21:37:06-04:00"
+source_updated: "2026-10-23T09:14:19-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -50,6 +50,8 @@ ASR 研究中最一致的信息是：工具本身不是处理变量 —— 反�
 
 ASR 在课堂中还有第二种角色 —— 把口语输入转化为学习者阅读的文本。[[ai-mediated-input-medical-english-asr-2026|Stanchev（2026）]]将一篇 2,692 词的医学英语课本关于蛋白质的段落用一种文本转语音声音（15:27，加拿大女声）渲染，并把同一段音频提交给四个在线 ASR 服务，同时测量词错误率（WER）与**覆盖率**（返回词数占参考文本的比例）。两个免费服务返回了近乎完整的转写（覆盖率 87.96% 与 88.34%，WER 为 15.23% 与 15.00%），而两个付费服务只导出预览（覆盖率 32.76% 与 55.35%，WER 为 73.21% 与 48.77%）。测量要点在于：仅看 WER 会把"无法获得的文本"与"不准确的文本"混为一谈，从而把导出限制误判为转写失败，因此覆盖率应当与错误率并列呈现。删除错误在每个服务中都占主导，并聚集在图表引用、页码等结构性标记上，但有少数改变含义的替换 —— imino → amino、cystine → cysteine、protonated → protonatid、pH → phase —— 每一处都颠倒了一个生化事实。这就是为什么作者建议在转写文本到达学习者之前执行三阶段工作流（生成输入、导出完整转写、核验领域术语），而术语核查是医学英语中最廉价的护栏。
 
+准确率的提升似乎是专门构建的系统的属性，而非语音通道本身的属性。在十项研究中，只有为语言学习设计的聊天机器人（Andy English bot 与 Xiaoying）提升了准确率，其中一个对照组错误减少 14%，而处理组为 38%（[[chatbots-oral-proficiency-efl-systematic-review|Soriano-Gonzalez 与 Belda-Medina（2026）]]）。同一综述记录了 ASR 在带口音的语音与非英语姓名上的失败，包括一个即使发音准确也无法识别越南语姓名的机器人。
+
 ## TTS 与语音生成的教学
 
 生成式朗读证明可以替代录制的教师，而有趣的差异存在于格式内部，而非人与机器之间。[[llm-tts-dialogue-lesson-generation]]构建了一条三阶段、[[human-in-the-loop-ai|人在环路]]的流水线：[[llm]]起草幻灯片与为 TTS 优化的讲解，而教育者在每个阶段进行事实核查，随后在一所日本县立高中对 245 名一年级学生进行了被试内研究，比较教师配音视频、单人 TTS 与专家-新手对话 TTS。三者在理解度、专注度与总体评价上没有显著差异（p > .14，r < 0.11），等值检验把三者都保持在 ±0.5 的界内：合成朗读没有损害体验。对话式朗读在理解度（p = .006，r = .130）、被报告的思考深化（p = .019，r = .121）以及能够向朋友解释内容（p = .004，r = .152）上更优，且 66.9% 的人认为它最令人愉快。两点保留：对话音频的自然度显著更低（r = −.238），与多人说话带来的额外负荷一致；且对话组入组时的[[prior-knowledge|先前知识]]更少（66.0% 报告"完全不了解"，对照组为 34.1%），这使其优势成为保守估计。
@@ -67,6 +69,8 @@ ASR 在课堂中还有第二种角色 —— 把口语输入转化为学习者�
 对口语支持工具的重度使用并不自动地更好。[[student-ai-interaction-consecutive-interpreting-2026|Kuang、Li 与 Weng（2026）]]让 22 名口译学员在基于 ASR 与机器翻译构建的系统中完成双向的计算机辅助交替传译任务，记录眼动、笔头笔记与语音输出。涌现出四种交互画像 —— 重度投入者、快速扫描者、传统主义者、频繁切换者 —— 且 58.3% 的阶段级观察在理解源语与产出译语之间改变了画像。只有理解阶段的模式预测产出质量，而 AI 使用最重的簇在表达流利度（5.46，对比 6.17–6.46）与目标语质量（5.70，对比 6.35–6.67）上得分最低。花在阅读 AI 转写上的注意力，就是没有花在构建自身表征上的注意力；作者建议教会学习者反思自己的策略，而不是规定一种策略，因为该模式除非被浮现出来，否则是不可见的。
 
 一项预注册的随机实地实验在同一个辅导系统内比较语音通道与打字文本，发现学习发生在辅导之中，而不在声音之中。[[ai-tutor-modality-randomized-field-experiment-2026|Yang、Van Alstyne 与 Dellarocas（2026）]]将一门在线 MBA 公司金融模块中的 86 名学生随机分配到一个基于课程材料构建的结构化辅导组和一个留出组，然后每周在接受辅导的学生之间轮换语音与文本通道，使比较在每个学生内部被识别：每周掌握度相差 −0.01 分（满分 11，p = .98），两个单侧检验排除了任何大于 ±0.3 SD 的真实差异。声音改变的是过程而非结果 —— 语音每周 1.34 个对话轮次，文本为 0.75；提问数 11.3 对 4.6 —— 而思考停顿被压缩了（从导师到学生回复的中位间隔，语音为 27 秒，文本为 54 秒，其中打字轮次在第一次击键前花 25.9 秒、另花 13.9 秒写作），并且语音通道的交付成本高出 2.8 倍：每语音分钟 \\$0.22，对比每条文本消息 \\$0.0165（52 个座位五周共 \\$413.46 对 \\$149.13）。就这一证据而言，语音是一个采纳与投入杠杆，而非编码杠杆 —— 而这正是任何增设语音通道的机构必须为其定价的权衡。
+
+同一套语音技术栈现在被提议用于相反方向：[[voice-based-ai-feedback-interviews-higher-ed-2026|Tamme、Schilling 与 Hantel（2026）]]计划一个基于 ElevenLabs 的电话智能体，以 5–7 分钟的对话配合适应性追问来访谈学生关于一门课程的情况。他们已完成的慕尼黑试点确立了可行性；计划中的实地研究在一门约 60 名学生的 MIT Sloan 课程中进行，尚未报告结果。
 
 ## AI 在口语与口头评价中的应用
 
@@ -103,6 +107,8 @@ AkoVoice 增添了很少同时浮现的两项公平考量。第一是数据：�
 
 ## 关联文章
 
+- [[chatbots-oral-proficiency-efl-systematic-review]] — 准确率提升只来自语言学习聊天机器人，以及 ASR 在带口音姓名上的失败
+- [[voice-based-ai-feedback-interviews-higher-ed-2026]] — 一个电话语音智能体把反馈通道本身打开了
 - [[asr-english-speaking-feedback-metacognition-2026]] — ASR 口语反馈：质量胜过数量，且熟练度调节谁受益（Chen 等 2026）
 - [[genai-pronunciation-feedback-wtc-2026]] — 发音自我效能感中介 GenAI 发音反馈与交际意愿（1,701 名 EFL 学习者）
 - [[llm-tts-dialogue-lesson-generation]] — LLM + TTS 课程流水线：合成朗读与教师声音相当；对话帮助理解
@@ -118,5 +124,5 @@ AkoVoice 增添了很少同时浮现的两项公平考量。第一是数据：�
 - [[multimodal-embodied-cognition-oral-explanations-2026]] — 手势加语音：为什么纯语音的口头评价漏掉理解证据
 - [[ai-guided-learning-audiovideo-2026]] — 自适应音频速度、保留音色的视频摘要与无标注发音反馈
 - [[llm-question-generation-deaf-hard-of-hearing-2026]] — 面向听障与重听学习者的 LLM 出题
-- [[ai-tutor-modality-randomized-field-experiment-2026]] — When AI Tutors Speak: Evidence from a Randomized Field Experiment
-- [[ai-mediated-input-medical-english-asr-2026]] — AI-Mediated Input Transformation in Medical English: Speech Recognition and Transcript Reliability
+- [[ai-tutor-modality-randomized-field-experiment-2026]] — 当 AI 导学系统开口说话：来自一项随机实地实验的证据
+- [[ai-mediated-input-medical-english-asr-2026]] — 医学英语中的 AI 中介输入转换：语音识别与转写可靠性

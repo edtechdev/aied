@@ -1,7 +1,7 @@
 ---
 title: 远程监考
 created: "2026-08-20T04:50:00-04:00"
-updated: "2026-10-09T19:07:00-04:00"
+updated: "2026-10-24T15:22:00-04:00"
 type: concept
 foundations: [academic-integrity]
 pedagogy: [online-teaching-and-learning]
@@ -10,7 +10,7 @@ ethics: [equity-in-ai-education, privacy]
 level: [higher ed]
 confidence: high
 translation_of: concepts/remote-proctoring
-source_updated: "2026-10-03T01:40:50-04:00"
+source_updated: "2026-10-15T21:52:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -54,6 +54,7 @@ ai_assist:
 - **诚信理由未能通过最大规模的检验。** 在跨越四波、105 门课程、1,760 名学生的研究中，监考提升了考试焦虑（β = 0.60, p < 0.001），但对作弊诱惑、感知难度或成绩均无影响，因此监控的代价没有被威慑收益抵消（[[conijn-fear-big-brother-proctored-exams-2022|Conijn 等（2022）]]）。
 - **公平与数字鸿沟。** 对设备的依赖、网络不稳、光照与硬件差异对农村及低带宽学生造成了不成比例的劣势；模型准确率会因人群与环境而异，带来不公平标记的风险。([[digital-divide]]), [[equity-in-ai-education]] 一项对 [[nursing-education|nursing]] 评估中监考的范围综述表明，这不是边缘案例：其纳入的六项研究中有四项报告了网络连接问题，一项报告了限电与流量套餐受限并存，而设备不兼容、浏览器扩展故障与环境扫描失败是常态——因此决定谁能被评估的，不只是模型偏见，还有基础设施上的不平等。([[harerimana-remote-proctoring-nursing-scoping-2026]])
 - **检测缺口与军备竞赛。** 身份伪造（照片/视频蒙蔽）、浏览器使用与复制粘贴仍难以可靠捕捉；检测准确率受数据集局限、单模型评估与可复现性缺口的制约。监考并不能彻底解决诚信问题，反而可能制造虚假的安全感。
+- 可穿戴人工智能抹去了监考所依赖的行为信号：[[corbin-ai-glasses-wearable-ai-assessment-2026|Corbin 等（2026）]]论证，AI 眼镜、耳塞与带 AI 的助听器提供隐蔽的协助，不产生目光移动、注意力转移或姿态线索，因此监考与交出设备都失去了它们所依赖的线索。
 - **治理问题。** 监控是否为正确应对，还是应当 [[authentic-assessment|assessment redesign]]（口试、过程性评估、[[eportfolio|portfolio]]），是一个开放的机构决策；远程监考是一种工具，不是完整的解决方案。([[governance]]) 当执法出错时会随之而来的风险敞口——建立在分数与事件日志之上的指控、被采集数据的保留与后续处理、以及对残障学生或非母语学生不均衡适用的规则——在 [[legal-issues-and-risks]] 上有映射。
 
 ## 证据基础
@@ -90,6 +91,8 @@ ai_assist:
 - [[higher-ed]]
 
 ## 关联文章
+
+- [[corbin-ai-glasses-wearable-ai-assessment-2026]] — 可穿戴人工智能抹去了监考所依赖的行为信号（Corbin、Sharpe 与 Dawson，2026）
 
 - [[automated-online-exam-proctoring-decade-review-2026]] — 对自动化在线考试监考的十年系统综述
 - [[academic-dishonesty-automated-proctoring-ai-2026]] — 自动化监考中学术不诚实的综合综述

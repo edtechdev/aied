@@ -90,6 +90,8 @@ ai_assist:
 
 **一个模型如何被验证，本身就是一个效度问题。** [[schuetze-knowledge-tracing-forgetting-2026|Schuetze、Yan 与 Carvalho（2025）]] 表明，流行的学习者模型（BKT、BKT-with-Forgetting、AFM）只有在回溯拟合于完整的多会话数据集时，才看似捕捉到了人类学习；在基于时间（前向滚动）的交叉验证下——从更早的会话预测未来的会话，也就是这类模型实际的部署方式——它们会高估表现、错失 [[retrieval-spacing-interleaving|间隔效应]]，并对练习条件给出错误排序。由于带遗忘与不带遗忘的模型在各会话间表现大致相当，作者得出结论：遗忘往往被吸收进学习者参数之中，而非被真正表征。对该家族的教训是，一个忠实的表征必须按其被使用的方式来验证——把即时表现与长期保持混为一谈，会产出看起来准确却歪曲学习者的模型。
 
+[[learning-style-inference-bias-student-ai-dialogues-2026|Zamanifard、Goudarzi 与 Robb（2026）]] 从分类器一侧展示了同样的失效：从 153 名本科生的问题解决对话推断学习风格维度，在准确率上看似中等，直到按类别的召回率暴露出对主导标签的预测，其中 Intuitive 与 Global 学习者被系统性地识别不足，而少样本示例有时会放大多数类的偏差。
+
 ## LLM 时代的建模
 
 近期的进展用 [[llm|LLM]] 做更丰富的建模。[[xie-hillm-cd-2026|HiLLM-CD 框架]]把学生表示为熟练度树；[[multimodal-knowledge-graph-educational-reasoning|多模态方法]]从多样数据源构建证据 grounded 的知识表征；[[inside-llm-student-simulator-reasoning-2026|LLM 如今能模拟带推理的学生]]。LLM 使模型构建得以从教育文本自动完成，并提高了 [[simulating-students|学生模拟]]的保真度，减少对专家标注的依赖——同时使上述保真度顾虑更为尖锐。学习者模型的信号也会为 LLM 推理*提供依据*：[[reddig-maclellan-personalized-feedback-llm-2026|Reddig、Arora 与 MacLellan（2025）]] 发现，把学生的贝叶斯 [[knowledge-tracing]] 技能估计连同辅导工具的界面结构一起喂给 GPT-4，显著改善了它的错误诊断（因式分解上逻辑错误识别从 40% 升到 81%；整体约 87.8%），而多步问题与包含多个错误的回答仍是最弱的情形——这表明把一个正式的学习者模型耦合到 LLM 上，能强化（但无法保证）对真实学生的可靠推断。[[colearn-agentic-tutor-co-learning-loop-2026|CoLearn（He et al.，2026）]] 展示了这种耦合的持久版本长什么样：掌握与被挖掘的误解按（学习者，学科）存储，而非作为每会话的日志，使证据能跨会话累积；该记忆由一个 LLM 评分的观察函数写入，同时通过掌握度条与一个标明每道生成题目被选来探测什么的标签，对学习者保持可检视。它的对照使写入这一步变得显式——在读取记忆但不再更新时，指向真正薄弱技能的条目占比从 0.72 降到 0.57——并且它使本页的限定保持完好：被存储的掌握度是智能体对学习者的信念，而非对其知识的测量。
@@ -133,8 +135,8 @@ ai_assist:
 
 ## 关联文章
 - [[deceptive-overgeneralization-adaptive-learning-2026]] — 欺骗性过度泛化：自适应掌握可能在学习者知道何时克制一个行动之前就停止练习（An、McLaren 与 Stamper 2026）
-- [[causal-modeling-competency-assessment-2026]] — Causal Modeling of Support Interventions for Student Competency Assessment
-- [[turano-ai-tutoring-not-a-monolith-2026]] — AI Tutoring is Not a Monolith: What We Actually Know（斯坦福 SCALE／NSSA 简报）
+- [[causal-modeling-competency-assessment-2026]] — 面向学生能力评估的支持干预的因果建模
+- [[turano-ai-tutoring-not-a-monolith-2026]] — AI 辅导并非铁板一块：我们实际知道什么（斯坦福 SCALE／NSSA 简报）
 - [[learning-context-framework-context-aware-ai-education-2026]]
 - [[yasir-llm-tutoring-agents-2026]] — LLM 辅导工具过度拒绝有效替代方案、过度认可不正确方案（Yasir et al. 2026）
 - [[haiml-human-centered-ai-metacognitive-model-2026]]
@@ -147,17 +149,18 @@ ai_assist:
 - [[xie-hillm-cd-2026]]
 - [[inside-llm-student-simulator-reasoning-2026]]
 - [[trace-course-grade-prediction-2026]]
-- [[sc2r-counterfactual-recourse-educational-2026]] — From Student Risk Prediction to SC2R: Counterfactual Recourse
-- [[graph-its-adaptive-algorithms-2026]] — Graph-Based Intelligent Tutoring for Dynamic Domains (2026)
-- [[distilling-self-explaining-lm-learning-analytics-2026]] — Distilling self-explaining LM for learning analytics
-- [[studentsim-llm-student-simulators]] — StudentSim: Training LLM-based Student Simulators
-- [[predicting-attrition-competitive-programming]] — Predicting Student Attrition in Competitive Programming
+- [[sc2r-counterfactual-recourse-educational-2026]] — 从学生风险预测到 SC2R：反事实追索
+- [[graph-its-adaptive-algorithms-2026]] — 面向动态领域的基于图智能辅导（2026）
+- [[distilling-self-explaining-lm-learning-analytics-2026]] — 为学习分析蒸馏自我解释 LM
+- [[studentsim-llm-student-simulators]] — StudentSim：训练基于 LLM 的学生模拟器
+- [[predicting-attrition-competitive-programming]] — 预测竞争性编程中的学生流失
 - [[pradeesh-outcome-knowledge-tracing-affinity-2026]] — 基于亲和映射的结果导向知识追踪
 - [[an-goel-self-directed-modeling-2026]]
 - [[reddig-maclellan-personalized-feedback-llm-2026]]
 - [[schuetze-knowledge-tracing-forgetting-2026]]
 - [[zhang-ml-student-progress-programming-2026]]
-- [[process-grounded-language-cognitive-diagnosis-2026]] — Beyond ID Embeddings: Process-Grounded Language Modeling for Cognitive Diagnosis
+- [[process-grounded-language-cognitive-diagnosis-2026]] — 超越 ID 嵌入：面向认知诊断的过程锚定语言建模
 - [[exrec-exercise-recommendation-knowledge-tracing-2025]] — 把紧凑的学习者状态与校准过的追踪器作为推荐环境
-- [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn: An Agentic Tutor that Learns its Learner in a Human-AI Co-Learning Loop
+- [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn：一个在人机共学循环中学习其学习者的智能体式导师
 - [[ai-game-based-learning-systematic-review-2026]] — 隐性评估达到 0.848–0.913 的 AUC，但 55 项研究中偏差审计近乎缺失
+- [[learning-style-inference-bias-student-ai-dialogues-2026]] - 基于对话的学习风格推断在均衡指标上失效（Zamanifard、Goudarzi 与 Robb 2026）

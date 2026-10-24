@@ -1,14 +1,14 @@
 ---
 title: 教育中的 AI 哲学
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-10-09T19:06:58-04:00"
+updated: "2026-10-24T15:20:00-04:00"
 type: concept
 foundations: [agency, ai-education, human-ai-collaboration, philosophy-of-ai-in-education]
 pedagogy: [learning-theories]
 ethics: [ethics]
 confidence: high
 translation_of: concepts/philosophy-of-ai-in-education
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-16T07:28:51-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -44,6 +44,7 @@ ai_assist:
 - **AI 生成的科学对象的本体论。** 在化学中，AI 预测的化合物与滴定曲线占据一个"阈限的本体论空间"——在被经验证明之前既不完全假设也不完全真实——这使该学科从实在论转向一种建构主义观点，其中现实是人类与机器的合作（[[philosophy-experimentation-ai-chemistry-2026|Reyes 与 Regala（2026）]]）。
 - **认知被动性作为一种认识论伤害。** Bai 与 Costa（2026）借助阿伦特关于思维是一种内向的、不可转移的活动的论述，论证提供现成工作的 GenAI 不只是外包了思维，而是预阻了思维，而布迪厄的场域与惯习把风险定位在制度结构之中（[[genai-chinese-higher-education-integrity-2026|Bai 与 Costa（2026）]]）。
 - **价值、正义与教育的目的。** 哲学分析考察 AI 驱动的教育是否服务于人的繁盛与教育正义，抑或它把学习工具化以服务于生产力。（[[avraamidou-ai-colonization-science-education]]）这与[[critical-pedagogy]]和[[ethics]]相连。
+- **"以人为中心"是一种人类中心主义话语，而非中立的伦理。** [[wang-jin-anthropocentrism-learnification-ai-education-2026|Wang 与 Jin（2026）]] 解读 UNESCO、OECD 与《蒙特利尔宣言》文件，主张以人为中心的 AIED 承继了启蒙人文主义的排斥性，超人类主义保留了这些排斥，而这一标签可以为商业基础设施提供合法性。
 
 - **人们如何与 AI 打交道的认识论根基。** [[strydom-human-gai-paradigms-2026|Strydom（2026）]]从 Schommer 的个人认识论信念五个维度（知识的来源、确定性、组织、控制与速度）推导出七种人—生成式 AI 参与范式，并论证它们是被施行而非被拥有——因此改变学习者与 AI 打交道的方式需要改变社会技术环境，而非他们的信念。
 - **谁的哲学？该领域概念基础中的多元主义。** Xie（2026）论证，该领域的哲学争论被单一的西方架构过度决定——[[agency|认识论能动性]]作为离散主体的属性、知识被再现性地和可计算地框定、人—AI 关系被置于主客二元论之内——以致其限度成为该领域集体想象的限度。作为比较性的制衡，他重构了道家概念——"道性"、"修道"与"真人"——不是作为加到未变框架上的"东方内容"，而是作为重塑 AI 本身被理解之所经由的概念基础的资源，把它们应用于知识（认识论单一栽培与合成误信息）、认识（损害[[critical-thinking|批判性思维]]的外包）与影响（环境成本与南北半球不对称）。（[[daoism-ai-education-philosophy-2026]]）
@@ -87,5 +88,6 @@ ai_assist:
 - [[young-people-learning-generative-ai-rapid-review-2026]] — GenAI 的生态学习科学框架
 - [[philosophy-experimentation-ai-chemistry-2026]] — 化学中与 AI 共处的实验哲学
 - [[strydom-human-gai-paradigms-2026]] — 框定人—AI 动态：七种 GAI 参与范式（Strydom 2026）
+- [[wang-jin-anthropocentrism-learnification-ai-education-2026]] — "以人为中心"的 AIED 被读作一种具有商业用途的人类中心主义话语（Wang 与 Jin 2026）
 - [[daoism-ai-education-philosophy-2026]] — 替代性 AI 哲学：作为教育中 AI 之方法的道家
 - [[genai-higher-ed-agency-responsibility-discourse-2026]] — 谁行动、谁知道、谁回应？对生成式 AI 高等教育研究中能动性、认识论责任与问责的语料辅助话语分析

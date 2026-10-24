@@ -2,13 +2,13 @@
 connected_resources: [clarity, pedagogical-promptbook, snorkl]
 title: 反馈
 created: "2026-08-15T19:02:13-04:00"
-updated: "2026-10-09T18:39:21-04:00"
+updated: "2026-10-24T15:58:16-04:00"
 type: concept
 assessment: [ai-feedback-quality, assessment, automated-assessment, feedback, feedback-literacy, formative-assessment, peer-assessment]
 connected_faqs: [developing-ai-tutor, ai-feedback-at-scale]
 confidence: high
 translation_of: concepts/feedback
-source_updated: "2026-10-15T08:25:00-04:00"
+source_updated: "2026-10-23T22:48:50-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -35,7 +35,7 @@ ai_assist:
 这是知识库中所有反馈相关概念的总括概念。反馈位于评估与学习的交汇处：没有反馈，评估只能测量表现而不能改进表现；有了有效的反馈，评估本身便成为一次学习事件。知识库将反馈视为一个具有多个侧面的**系统**——反馈自身的质量（[[ai-feedback-quality]]）、弥合学习差距的回路、学习者使用反馈的能力（[[feedback-literacy]]），以及反馈所处的评估情境（[[formative-assessment]]、[[peer-assessment]]、[[automated-assessment]]）。
 
 - **[[yilmaz-genai-feedback-srl-online-higher-ed-2026|Yilmaz 等人]]**表明，学生对反馈*来源*（AI 与人类）的感知塑造了从[[generative-ai|生成式 AI]]反馈中的自我调节学习——这是对反馈有效性论断的一个关键限定。
-- **[[nazaretsky-feedback-source-bias-2025|Nazaretsky 等人（2025）]]**将来源与内容分离：472 名洛桑联邦理工学院（EPFL）学生先盲评自己作品上内容可比的人类反馈与 GPT-4.0 反馈，在来源披露后再评一次，多数人无法可靠区分两者（472 人中 287 人猜对）。标签揭示后，AI 版本评分下降而人类版本上升——在真实性（Genuineness）上差异显著（p < .01）——提供者可信度也清晰分离（人类 μ = 3.28，AI μ = 2.25，Cohen's d = 0.57）。由于两个版本在正确性与认知质量上可比，这一偏见附着于提供者而非文本。
+- **[[nazaretsky-feedback-source-bias-2025|Nazaretsky 等人（2025）]]**将来源与内容分离：472 名洛桑联邦理工学院（EPFL）学生先盲评自己作品上内容可比的人类反馈与 GPT-4.0 反馈，在来源披露后再评一次，多数人无法可靠区分两者（472 人中 287 人猜对）。标签揭示后，AI 版本评分下降而人类版本上升——在真实性（Genuineness）上差异显著（p < .01）——提供者可信度也清晰分离（人类 μ = 3.28，AI μ = 2.25，Cohen's d = 0.57）。由于两个版本在正确性与认知质量上可比，这一偏见附着于提供者而非文本。[[chatgpt-feedback-credibility-perceived-learning|Pérez-López 等人（2026）]]把反馈可信度一路传导到学习：在一篇 AI 辅助的文章之后，对 230 名商科学生而言，可信度预测了感知到的学习，其先行因素是感知能力与类人共情。
 
 ## 反馈系统
 
@@ -47,6 +47,7 @@ ai_assist:
 - **[[formative-assessment]]** —— 反馈被用于在学习仍在进行时改进学习、而非仅仅评判学习的评估情境。
 - **[[peer-assessment]]** —— [[learners|学习者]]之间交换的反馈，日益受到 AI 增强，也是培养反馈素养的场所。
 - **[[automated-assessment]]** —— AI 驱动的评分与反馈，从[[automated-essay-scoring|自动作文评分]]到置信度感知的简答评分。
+- **各部分之间相互取舍。**设计反馈意味着在可用性、来源与可持续性之间做选择，而不是把三者都最大化；[[assessment-feedback-trilemma-model-2026|Pedlow 等人（2026）]]把可持续性当作一根支点，它不得依赖任何单一个体、单一资源或单一机构条件。
 
 ### 反馈回路
 
@@ -144,6 +145,7 @@ AI 在三个有影响的方向上改变反馈，每一个都提高了其他侧�
 反馈是教育中最具影响力、证据最充分的机制之一，而 AI 既放大又复杂化它。架构良好的 AI 反馈可以比肩或超越人类反馈，并规模化到整个班级，但它要求学习者具备新能力（[[feedback-literacy]]、[[ai-literacy]]），并带来风险（不加批判的接受、[[cognitive-offloading|过度依赖]]）。随着 AI 生成的反馈变得无处不在，知识库把反馈框定为一个整体系统——质量、回路、素养与评估情境协同工作——而非任何单一组件。
 
 - **反馈可以瞄准反馈的提供者。** 导学培训是一个未被充分探索的反馈情境：自动化系统可以对导学者的开放式回答作序列标注，以标出表扬的类型（基于努力的表扬——可取的过程聚焦之一种——对基于结果的，对基于个人的，最不可取的特质归因之一种），从而提供能改变导学行为的解释性反馈。其约束条件是专家标注的数据。一种数据增强方法——GPT-4o 生成合成标注回答，把 13 个实例的低资源集扩展到 520 个，然后微调 GPT-3.5——追回了大部分差距：在基于努力的表扬上 F2 +20.5%，基于结果的 +17.3%，而在*未见过的*基于人类别上 +16.5%。对未见过表扬类型的泛化测试，是把这与过拟合作区分的效度检验，而其机制更接近教师模型蒸馏，而非经典数据增强。（[[xu-automated-feedback-tutor-training-2025]]）
+- **看不见修改的反馈会被重复。**在一个由智能体批评草稿论证的科学学习游戏中，学生跨多轮修改，但一个量化的 8B 模型对一份改进后的草稿返回了实质上相同的批评，因此驱动修改的回路也产生了终结它的挫败（[[humburg-scistory-ai-supported-inquiry-science-learning-games-2025|Humburg 等人，2025]]）。
 
 ## 关联概念
 
@@ -166,6 +168,7 @@ AI 在三个有影响的方向上改变反馈，每一个都提高了其他侧�
 
 ## 关联文章
 
+- [[humburg-scistory-ai-supported-inquiry-science-learning-games-2025]] — 跨修改重复自身的智能体反馈（Humburg 等人 2025）
 - [[jansen-argumentative-writing-feedback-receptivity-2026]] — 论证写作中的自动反馈：中学生反馈接受度与反馈感知的作用
 - [[ai-agents-joyful-assessment-third-space-2026]] — AI 智能体、愉快的评估与第三空间
 - [[student-perspectives-ai-writing-grading-2026]] — 学生对透明 AI 辅助写作评估的看法（AlGhamdi 2026）
@@ -217,3 +220,4 @@ AI 在三个有影响的方向上改变反馈，每一个都提高了其他侧�
 - [[zhao-ji-appraisal-human-ai-revisions-2026]] — 修改对写作者立场做了什么：同伴反馈使论证作文更收缩，AI 修改保持 Contract/Expand 平衡（Zhao & Ji 2026）
 - [[xu-automated-feedback-tutor-training-2025]] — 通过数据增强改进低资源情境下导学培训的自动反馈系统（Xu 等 2025）
 - [[etq-ai-conversational-teacher-training-2026]] — 用于教学误解的会话式 AI 诊断：基于证据的对话（Miranda 与 Calvani 2026）
+- [[assessment-feedback-trilemma-model-2026]] — 命名可用性、来源与可持续性之间的取舍，把可持续性作为一根设计支点

@@ -114,11 +114,11 @@ ai_assist:
 - [[ai-peer-feedback-l2-writing-engagement-2026]] — 整合式"AI 加同伴"反馈提升了全部三个投入维度与雅思写作全部四个维度
 
 - [[usher-faraon-who-grades-best-2026]] — 跨项目质量水平比较 ChatGPT、同伴与教师评分（Usher & Faraon 2026）
-- [[pairr-ai-peer-review-2025]] — Peer and AI Review + Reflection（PAIRR）
-- [[becerra-aicofe-feedback-2026]] — AI Peer Feedback Systems
-- [[ai-internal-feedback-evaluative-judgments]] — Unravelling Undergraduates' Development of Evaluative Judgments
-- [[learner-centered-feedback-ai]] — Enhancing Learner-Centered Feedback With AI
-- [[genai-linguistic-diversity-academic-writing]] — Generative AI and Linguistic Diversity in Academic Writing
+- [[pairr-ai-peer-review-2025]] — 同伴评审 + AI 评审 + 反思（PAIRR）
+- [[becerra-aicofe-feedback-2026]] — AI 同伴反馈系统
+- [[ai-internal-feedback-evaluative-judgments]] — 解开本科生评价性判断的发展
+- [[learner-centered-feedback-ai]] — 用 AI 增强以学习者为中心的反馈
+- [[genai-linguistic-diversity-academic-writing]] — 学术写作中的生成式 AI 与语言多样性
 - [[gift-ai-pairr-business-writing-2025]] — PAIRR 在商务写作课程中的应用：同伴评阅、聊天机器人反馈与反思（MacArthur et al. 2025）
 - [[scaffolding-srl-feedback-genai-human-peers]] — 生成式 AI 与人类同伴在为自我调节的反馈与反馈素养搭建脚手架上的比较（Gu et al. 2026）
 - [[irwin-muller-efl-peer-feedback-literacy]] — 生成式 AI 作为 EFL 口语同伴反馈中的培训师与综合者（Irwin & Muller 2026）

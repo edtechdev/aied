@@ -1,7 +1,7 @@
 ---
 title: AI 使用与披露声明
 created: "2026-08-27T11:17:52-04:00"
-updated: "2026-10-09T18:58:09-04:00"
+updated: "2026-10-24T14:25:00-04:00"
 type: concept
 foundations: [academic-integrity]
 technology: [generative-ai]
@@ -12,7 +12,7 @@ level: [higher ed]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: concepts/ai-use-disclosure
-source_updated: "2026-10-04T16:22:53-04:00"
+source_updated: "2026-10-24T08:08:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -77,6 +77,7 @@ AI 使用声明要求或邀请学生陈述是否以及如何在某次作业中�
 - **让披露成为形成性的，而不仅是合规性的。** 使用反思提示与结构化声明（模型/输入/评价），使披露构建 [[ai-literacy]] 与自我调节，而非充当监控。
 - **培训教师建立信任，而非依赖检测。** 披露绝不应随之以指控；教师应学会建立信任的对话，而非倚赖不可靠的 AI 检测器。
 - **为公平而设计。** 关注跨学科、语言身份与学生背景的披露差异，避免把不均等负担压在已处边缘的学习者身上的机制。
+- **披露也有反向的一面。** 这里的每一页都把披露当作学生的义务，而 [[wu-lam-genai-writing-assessment-professors-2026|Wu and Lam (2026)]] 采访的写作教授要求的恰是它的镜像：应当告知学生何时以及如何用工具评估他们的作业，并在上传作业之前征得他们的同意。使学生的 AI 使用变得可读的那种透明，同样使机构的评估实践对学生可读。
 
 ## 关联
 
@@ -103,13 +104,14 @@ AI 使用与披露位于 [[academic-integrity]]（其母关切）、[[ethics]]�
 - [[parents-and-families]]
 - [[social-norms-ai-use]] — 学习者为何选择隐藏而非披露
 ## 关联文章
+- [[wu-lam-genai-writing-assessment-professors-2026]] — 镜像的方向：告知学生 AI 何时评分他们的作业，并在上传前征得同意
 - [[kirsanov-beyond-detection-ai-online-assessments-2026]] — 超越检测：学生如何在在线评估中使用与隐藏 AI
 - [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — 学生的 AI 披露、污名与自我调节学习
 - [[vetter-hidden-cost-disclosure-genai-2026]] — 披露的隐性代价：披露与教师指控
 - [[gonsalves-student-non-compliance-ai-declarations-2025]] — 学生对 AI 使用声明的不遵从
 - [[teichmann-detecting-undetectable-misconduct-2026]] — 作为教育而非检测的声明
 - [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] — 作为评估设计阈值的诚实代价
-- [[student-perspectives-ai-writing-grading-2026]] — Who Should Grade My Work? Student Perspectives on Transparent AI-Assisted Writing Assessment in Higher Education
+- [[student-perspectives-ai-writing-grading-2026]] — 谁来给我的作业评分？高等教育中透明的 AI 辅助写作评估的学生视角
 - [[qian-governing-genai-higher-ed-policy-2026]] — 披露作为 50 所创新美国大学中帮助与虚假陈述之间的边界（Qian 2026）
 - [[gutowski-hurley-genai-policy-legal-education-2025]] — 法学院政策中披露与 AI 引用无共识（Gutowski & Hurley 2025）
 - [[ai-written-admissions-essays-penalized-2026]] — AI 写的申请文书普遍但受罚

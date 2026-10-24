@@ -10,7 +10,7 @@ technology: [adaptive-learning, generative-ai, llm, personalized-learning, edtec
 ethics: [equity-in-ai-education]
 level: [k 12, higher ed]
 confidence: high
-connected_resources: [lesson-md, liascript, onmicro-ai]
+connected_resources: [lesson-md, liascript, onmicro-ai, teacher-dev]
 translation_of: concepts/edtech-platform
 source_updated: "2026-10-03T02:57:43-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
@@ -122,7 +122,7 @@ ai_assist:
 ## 关联文章
 - [[typology-generative-ai-tools-education-2026]] — 211名教育者报告使用什么：九类中的50种工具
 - [[making-ai-tutoring-productive-mastery-math-2026]] — 让AI辅导有成效：基于掌握的数学练习
-- [[one-click-away-khanmigo-two-year-school-experiment-2026]] — One Click Away: Khanmigo in a two-year school experiment
+- [[one-click-away-khanmigo-two-year-school-experiment-2026]] — 一键之遥：Khanmigo 的两年学校实验
 - [[access-not-enough-ai-tutoring-2026]] — 采用与投入是AI辅导平台的绑定约束
 - [[oatutor-open-source-adaptive-tutor-2023]] — 用于可复现研究的开源适应性辅导平台
 - [[mooc-to-maic]] — 从MOOC走向LLM驱动的多智能体AI课堂
@@ -140,5 +140,5 @@ ai_assist:
 - [[credentials-carry-evidence-ai-agents-2026]] — 为其AI智能体工作携带证据的凭证
 - [[breideband-community-builder-cobi-2026]]
 - [[xai-teachers-trust-edtech-recommendations-2026]]
-- [[edtech-privacy-deferral-2026]] — "We'll Fix It Later": Education, AI, and the Deferral of Student Privacy in EdTech
-- [[synthetic-educational-data-structural-fidelity-2026]] — What Fidelity Metrics Miss: A Structural Check on Synthetic Educational Data
+- [[edtech-privacy-deferral-2026]] — “We'll Fix It Later”：教育、AI 与 EdTech 中学生隐私的延迟
+- [[synthetic-educational-data-structural-fidelity-2026]] — 保真度指标遗漏了什么：对合成教育数据的结构性检查

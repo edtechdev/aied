@@ -1,7 +1,7 @@
 ---
 title: 自我效能
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-10-09T18:39:21-04:00"
+updated: "2026-10-24T15:57:18-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [motivation, self-efficacy, self-regulated-learning]
@@ -10,7 +10,7 @@ connected_faqs: [ai-anxiety-wellbeing, study-with-ai]
 audience: [learners]
 confidence: high
 translation_of: concepts/self-efficacy
-source_updated: "2026-10-13T11:05:00-04:00"
+source_updated: "2026-10-23T09:20:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -49,12 +49,13 @@ ai_assist:
 - **信心并不总是杠杆。**一项对 502 名大学教师的横断面 SEM 发现，技术自我效能只是 AI 幸福感的弱预测因子（β = 0.082），而 AI 素养主导（β = 0.713），这为"信心把关 AI 结果"的主张设界：对幸福感而言，知识压过了信心（[[faculty-ai-well-being-social-supports-2026|Liu 等人（2026）]]）。
 
 - **技能可以使依赖成为可能，而效能缓冲它。**在 478 名以色列本科生中，[[ai-literacy|AI 素养]]的技能维度与 AI 依赖正相关（使用/理解 AI β = 0.404），而 AI 自我效能与之负相关（β = −0.132），因此只建立工具技能的素养训练可能增加依赖（[[student-dependency-on-ai-literacy-self-efficacy-2026|Maizel 等人（2026）]]）。
+- **低信心导向更重的 AI 使用，进而导向更低的分数。**在一门 153 名学生的证明课程中，基线自我效能每高一分预测聊天机器人消息少 39%，而自我效能每低一分对应通过聊天机器人使用少 0.62 分的考试成绩（[[ai-proof-learning-cognitive-offloading-2026|Chen 等人（2026）]]）。
 - **信任作为素养与信心之间的枢纽：**[[hu-psychological-predictors-continued-chatgpt-use-2026|Hu（2026）]]调查了 450 名已在用 ChatGPT 的大学生，发现一条有序链而非两个平行相关：[[ai-literacy|AI 素养]]与该工具的[[trust|信任]]相关（beta = 0.50），信任与学业自我效能相关（0.48），自我效能与持续使用相关，且序列间接效应显著（0.07，95% CI [0.04, 0.10]）。[[anxiety-and-stress|AI 焦虑]]削弱了素养到信任的链接（交互 beta = -0.25，简单斜率在焦虑范围内从 0.76 降到 0.25），因此同样的知识在更焦虑的学生中买到的信心更少、抵达的使用更少。因此信心是链中的下游环节，而非起点。
 
 焦虑通过 AI 辅助实践与意愿关联的路径，可随信心逆转而非衰减：条件间接关联从低口语自我效能处的 0.142 到均值处的 0.044、再到高处的 −0.054，这一效应集中于小的上尾（[[ai-speaking-practice-communicative-readiness-2026|Wang 与 Li（2026）]]）。
 - **学业自我效能的画像与谁伸手去拿 AI：**[[suria-martinez-academic-self-efficacy-motor-disabilities-2026|Suriá-Martínez 等人（2026）]]对西班牙 102 名运动障碍大学生的学业自我效能做了潜在画像分析，发现三个画像（低 29.4%，中 41.2%，高 29.4%），其报告的 AI 使用随画像层级逐步上升（均值 2.41、3.56、4.68；F(2, 99) = 27.84，p < .001，eta squared = .36），其中卓越性（Excellence，计划与目标设定维度）与 AI 使用关联最强（beta = .47）。作者把这解读为一个[[equity-in-ai-education|公平]]问题：如果信心与采纳同步，自我效能较低的学生可能最不可能伸手去拿本可减少[[accessibility|获取]]障碍的 AI 支持，因此对学业自我效能的支持属于[[inclusive-learning|包容]]框架之内。
 - **AI 使用模式与自我效能：**[[stamatoulis-genai-use-patterns-2026|Stamatoulis 等人（2026）]]发现，用[[generative-ai|生成式 AI]]*支持理解*（评价性整合）在其与表现的关联中被学业自我效能完全中介——面向理解的 AI 使用建立信心——而捷径式使用（低核验的接纳）部分独立于自我效能地预测更差结果。因此自我效能既是生产性 AI 使用借以帮助的路径，也是捷径式使用可能未能建立的因素。
-- **归因塑造效能是否增长。**把成功归功于 AI 而非自己的努力，会约束[[self-efficacy]]增长并强化捷径模式，因此把复杂活动排序为让学生把进步归因于自己策略的步骤，比工具更重要（[[oby-chatgpt-use-learning-framework-2026|Øby，2026]]）。
+- **归因塑造效能是否增长。**把成功归功于 AI 而非自己的努力，会约束自我效能增长并强化捷径模式，因此把复杂活动排序为让学生把进步归因于自己策略的步骤，比工具更重要（[[oby-chatgpt-use-learning-framework-2026|Øby，2026]]）。
 - **机器人与[[experiential-learning|动手学习]]：**[[remind-robot-mediated-roleplay-antibullying-2026|REMind]]的机器人中介角色扮演建立了儿童在反霸凌干预中的自我效能；机器人与[[embodied-learning|具身学习]]一般通过把任务扎根于可观察的结果来建立信心。
 - **儿童的创造性自我效能：**[[niu-genai-children-creative-thinking-cognitive-development-review-2026|Niu 等人（2026）]]在一项对 22 项 6 至 15 岁儿童生成式 AI 初级研究的系统范围综述中报告，创造性自我效能的增益与发散思维及叙事创造力聚集，主要通过降低想法与工件之间门槛的文生图工具。他们未声称效力：设计异质，综述未做严格评估，且语料对残障、低连通与服务不足的学习者几乎沉默，因此创造信心是一个被报告为上升的结果，而非该领域已确认的。
 - **教师自我效能：**[[teacher-ai-competency|教师 AI 能力]]研究考察[[educational-development|专业发展]]如何建立教师使用 AI 的信心，这影响采纳与整合。[[ai-supported-ementoring-efl-preservice-2026|Ismael、Luo 与 Li（2026）]]补充了准实验证据：一个 AI 支持的电子辅导模型在实习期间提升 EFL 职前教师的自我效能与情商——实验组在两项测量上都比对照组获益大得多，效应大，且增益遍及自我效能的所有子域——作者把它们归因于在结构化反思循环内经 AI 中介的辅导，而非 AI 本身。
@@ -86,22 +87,23 @@ ai_assist:
 
 ## 关联文章
 
+- [[ai-proof-learning-cognitive-offloading-2026]] — 支持还是取代学生的推理？AI 辅助证明学习中的认知卸载（Chen 等人 2026）
 - [[confident-but-absent-ai-use-absenteeism-2026]] — 一般 AI 使用与更高自我效能和更高缺勤相随，但自我效能未预测出勤（Franco 等人 2026）
 - [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026]] — 高等教育中的 AI 聊天机器人：比较预期与证据（Thoeni & Fryer 2026）
 - [[genai-performance-vs-learning]] — 信心上升而技术依赖增长：自我效能作为 AI 时代误导性的结果（Yan 等人 2025）
 - [[ai-supported-ementoring-efl-preservice-2026]] — AI 支持的电子辅导提升 EFL 职前教师的自我效能与情商（准实验）
-- [[aigc-affordance-student-self-regulation-2026]] — AIGC Affordance and Student Self-Regulation
+- [[aigc-affordance-student-self-regulation-2026]] — AIGC 可供性与学生自我调节
 - [[oby-chatgpt-use-learning-framework-2026]]
-- [[ai-literacy-career-adaptability-business-2026]] — AI Literacy, AI Readiness, and Career Adaptability
+- [[ai-literacy-career-adaptability-business-2026]] — AI 素养、AI 准备度与职业适应性
 - [[remind-robot-mediated-roleplay-antibullying-2026]] — REMind
-- [[teacher-education-ai-literacy-sdt-2026]] — Teacher Education for AI Literacy (SDT)
-- [[social-robot-study-companions]] — Social Robots as Study Companions
+- [[teacher-education-ai-literacy-sdt-2026]] — 面向 AI 素养的教师教育（SDT）
+- [[social-robot-study-companions]] — 作为学习同伴的社交机器人
 - [[hcap-human-centric-ai-pedagogy-framework-2026]] — HCAP Framework
 - [[student-dependency-on-ai-literacy-self-efficacy-2026]]
 - [[stamatoulis-genai-use-patterns-2026]] — 生成式 AI 使用模式与学业自我效能
 - [[ai-literacy-course-satisfaction-pbl-scale-2026]] — AI-PBLS 量表；赋能与伦理意识中介 AI 素养课程中从项目本位学习到满意度的路径（Zhu & Kong 2026）
-- [[predicting-attrition-competitive-programming]] — Predicting Student Attrition in Competitive Programming
-- [[genai-xr-architectural-design-education-2026]] — Generative AI and Extended Reality in Collaborative Architectural Design Education: An Exploratory Studio Study
+- [[predicting-attrition-competitive-programming]] — 预测竞技编程中的学生流失
+- [[genai-xr-architectural-design-education-2026]] — 生成式 AI 与扩展现实在协作式建筑设计教育中：一项探索性工作室研究
 - [[hu-psychological-predictors-continued-chatgpt-use-2026]] — 通往持续 ChatGPT 使用的序列链中的 AI 素养、信任与学业自我效能
 - [[suria-martinez-academic-self-efficacy-motor-disabilities-2026]] — 运动障碍大学生中学业自我效能画像与报告的 AI 使用
 - [[niu-genai-children-creative-thinking-cognitive-development-review-2026]] — 儿童中生成式 AI 报告的创造性自我效能增益（范围综述）

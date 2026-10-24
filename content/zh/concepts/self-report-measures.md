@@ -1,7 +1,7 @@
 ---
 title: 自我报告测量
 created: "2026-09-12T11:05:00-04:00"
-updated: "2026-10-09T18:39:30-04:00"
+updated: "2026-10-24T15:28:16-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [self-efficacy, student-engagement]
@@ -14,7 +14,7 @@ connected_faqs: [evaluating-ai-interventions-methods, does-ai-help-students-lear
 confidence: high
 methods: [quantitative-research, research-methods-aied, qualitative-research]
 translation_of: concepts/self-report-measures
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-23T08:03:41-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -48,7 +48,7 @@ ai_assist:
 
 ## 自我报告能确立什么、不能确立什么
 
-自我报告很适合态度、信念、意图、对工具的感受、情感状态，以及自我判断的信心或难度。它不适合行为，而且它完全无法测量学习：一个人相信自己学到了什么，这本身是一种感受，而本知识库把知觉到的学习当作与[[learning-gains|学习增益]]不同的量来处理。
+自我报告很适合态度、信念、意图、对工具的感受、情感状态，以及自我判断的信心或难度。一项对 394 项 GenAI 高等教育研究的范围综述发现，调查量表是最常被报告的评估方法（269 项研究，68.3%），多于测验/小测/评分细则（185，47.0%）与制品分析（167，42.4%）（[[mapping-genai-higher-ed-scoping-review|Lin 等（2026）]]）。它不适合行为，而且它完全无法测量学习：一个人相信自己学到了什么，这本身是一种感受，而本知识库把知觉到的学习当作与[[learning-gains|学习增益]]不同的量来处理。
 
 其后果是一组在结果部分看起来相似、强度却不同的主张：
 
@@ -69,6 +69,10 @@ ai_assist:
 
 本知识库中最强的自我报告发现，并非自我报告总体上有偏差，而是所报告的行为与被观察的行为以具体的、有记录的方式分道扬镳。
 
+由自我报告导出的画像行为方式相同。[[najem-behavioral-clustering-adaptive-learning-recommendation-2026|Najem 等（2026）]]以自我报告的行为与心理代理变量而非 LMS 交互轨迹对 14,003 条学生记录聚类，所得六个画像在最终成绩上分离得很锐利（η² = 0.770），而作者提醒这一分离部分是学生所报告内容的重述。
+
+行为轨迹能区分自我报告量表无法区分的学习者：[[cognitive-offloading-llm-synthesis-writing|Poquet 等（2026）]]发现，在论文写作授权比例从 80% 到 2% 的卸载画像之间，自我报告的认知负荷并无显著差异，而卸载最重的学习者仍报告了最高的心理需求。
+
 [[ai-literacy-assessment-misalignment|一项为教师人工智能素养建立平行的自我报告与客观测量的研究]]在 288 名教师的样本中发现了**自我报告因子与客观因子之间的弱一致性（r = 0.07 到 r = 0.24）**，验证性因子分析支持两种测量的构念效度，同时显示出**自我报告因子与客观因子之间的低相关**。两件工具都可信；它们只是测量了不同的东西。在 288 名教师的完整样本中，客观因子与自我报告因子之间的相关性从 r = 0.07 到 r = 0.24，而潜在剖面分析发现 43 名教师自评高而在客观测量上得分较低，另有 59 名呈现出相反的模式。
 
 [[jin-glat-genai-literacy-assessment|GLAT]]从另一方向得出同一结论：其 20 项基于表现的测验，在一项 83 名学生的被试内研究中预测了在[[generative-ai|生成式人工智能]]支持的学习任务上的表现，**而自我报告的 ChatGPT 素养则没有**。作者的表述直白——这一领域的工具绝大多数依赖自我报告的调查，“它们捕捉到的是知觉到的而非实际的能力，并易于偏差与高估”。
@@ -79,9 +83,13 @@ ai_assist:
 
 一项 2026 年的结构化综述与探索性[[meta-analysis-systematic-review|元分析]]（关于胜任地使用[[generative-ai|生成式人工智能]]的测量）从另一方向为这一差距给出了一个合并的数字：合并三项直接报告的同一样本主观—客观相关性（合计报告 N = 2,765）得到 r = .055（Hartung–Knapp 95% CI [−.047, .156]），加入第四项研究的跨因子相关性也只达到 r = .079。三项主要效应全部来自同一个研究项目，贡献最大者所报告的相关性与 p 值无法对账，而综述得出结论：自我报告不能替代客观表现分数——同时指出，表现工具本身是狭窄的，覆盖基础知识而非在工作中真正重要的监督与依赖行为（[[competent-generative-ai-use-measures-review-2026|Verí（2026）]]）。
 
+一项两阶段的系统综述在结论层面为这一分歧给出了比率：在来自 47 份报告的 51 个同构念配对中，30 个一致、11 个不一致、10 个混合。分歧两个方向都有：五个对照把自我报告的零结果与表现的阳性结果配对，反向的只有两个（[[same-construct-same-conclusion-self-report-vs-performance-2026|Fan 等（2026）]]）。
+
 工具文献本身可以被读作这一差距规模的证据。[[assessing-teachers-ai-literacy-measurement-tools-2026|Zainal、Mohd Matore 与 Maat（2026）]]评估了 33 件教师人工智能素养工具，发现 31 件（93.9%）是知觉到的信心的自我报告量表，只有 2 件（6.1%）客观地测试了知识，且在 2019 至 2025 年间没有一件使用基于表现的任务。他们的结论正是本页从其他方向反复抵达的那个：自我报告分数索引的是信心，而非能力，因此在比较群体或项目时，它们不能代替胜任力。
 
 结果测量继承同样的差距。[[pramod-agentic-ai-motivational-pathways-2026|Pramod 与 Patil（2026）]]用 0.671 的系数建模了从[[agentic-ai|智能体式人工智能]]经动机与社会存在、到他们标记为学习表现的路径——这是研究中最强的关系——而他们自己的局限部分声明，这个因变量反映的是学习者的感受，而非考试结果、作业表现或学习分析。那是在路径模型中要仔细阅读的模式：一个知觉到的结果上的大系数，量化的是学生认为某物有帮助的一致性有多高，而关于它是否真的有帮助，还没有说出任何东西。
+
+意图是这一差距最尖锐的情形，因为一个意图分数可以涵盖相反的行为。[[high-school-genai-acceptance-tam-physics-2026|Xue、Xu、Qi 与 Lu（2026）]]对 340 名学生中的 68 名重新施测题目并访谈了八人，发现同一份声称的意图涵盖了以学习为导向、以走捷径为导向以及混合的使用，而走捷径者援引的是信心不足而非缺乏兴趣。
 
 ## 满意度与知觉到的学习作为结果
 
@@ -116,6 +124,8 @@ ai_assist:
 自我选择使这一点复合。[[chatgpt-inoculation-training-verification-2026|一项接种研究]]招募了 782 名参与者，从一个自我报告的 ChatGPT 使用者的便利样本中保留了 100 个有效个案；[[genai-assisted-problem-posing-physics-2026|一项物理研究]]让学生自选进入一项加分任务，可能把看法向随和者倾斜并排除怀疑者。
 
 还有两类自我报告特有的错误反复出现。**内省局限与社会期望偏差**在[[engagement-assessment-video|关于参与度评估的工作]]和[[ccct-cooperative-learning-technique|那些质性数据依赖自我报告的研究]]中被指认为自我报告的内在属性。**共同方法方差**出现在预测变量与结果来自同一批受访者、同一时间之时：[[ai-use-critical-thinking-medical-students-2026|一项关于人工智能使用与批判性思维的受调节中介研究]]在单一时间点通过标准化的自我报告工具操作化了使用、认知负荷与[[self-regulated-learning|自我调节学习]]，并把共同方法偏差作为一个后果提出；[[genai-motivation-engagement-2026|一项关于动机与参与的 PLS-SEM 研究]]同样完全依赖自我报告，无法确立其中介变量之间的时间顺序。
+
+施测方式是语料尚未统计的第二种威胁。[[voice-based-ai-feedback-interviews-higher-ed-2026|Tamme、Schilling 与 Hantel（2026）]]提议以 AI 施测的电话访谈取代书面课程调查，并汇集了正反两面的模式效应证据：语音回答更长、覆盖更多主题，而一项 634 名受访者的随机比较发现文本回答更分化、更坦率。
 
 ## 补救：加入非自我报告的证据
 
@@ -156,6 +166,8 @@ ai_assist:
 
 ## 关联文章
 
+- [[high-school-genai-acceptance-tam-physics-2026]] — 一个意图分数，两种相反的使用
+- [[voice-based-ai-feedback-interviews-higher-ed-2026]] — 一件自我报告工具的施测方式改变了它所测量的东西
 - [[capability-decision-model-teacher-readiness-2026]] — 区分自我报告的人工智能能力与效能信念的判别效度标准
 
 - [[pramod-agentic-ai-motivational-pathways-2026]] — 参与预测的是知觉到的而非被测量的表现：一个智能体式人工智能路径模型（Pramod 与 Patil，2026）
@@ -178,3 +190,5 @@ ai_assist:
 - [[pause-ai-cognitive-offloading-self-reflection-2026]] — PAUSE：一个面向人工智能相关认知卸载的隐私保护自我反思工具
 - [[ai-literacy-self-assessment-questionnaire-primary-2025]] — 一个面向高小学生的 15 项自评工具，对知觉到的能力能确立什么直言不讳
 - [[assessing-teachers-ai-literacy-measurement-tools-2026]] — 发现 33 件教师人工智能素养工具中有 31 件为自我报告、且没有一件基于表现的综述
+- [[najem-behavioral-clustering-adaptive-learning-recommendation-2026]] — 由自我报告导出的画像行为方式相同
+- [[same-construct-same-conclusion-self-report-vs-performance-2026]] — 一项两阶段综述为同构念自我报告与表现的分歧给出比率（Fan 等，2026）

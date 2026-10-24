@@ -85,9 +85,9 @@ CoI 起源于[[online-teaching-and-learning]]，并仍与之最紧密地关联�
 
 ## 关联文章
 
-- [[genai-social-annotation-epistemic-network-analysis-2026]] —— Unpacking student interactions in GenAI-assisted social annotation: An epistemic network analysis of cognitive and social presence
+- [[genai-social-annotation-epistemic-network-analysis-2026]] — 拆解 GenAI 辅助社会性批注中的学生互动：认知临场与社会临场的认识网络分析
 
-- [[reconceptualizing-community-inquiry-generative-ai]] —— Reconceptualizing CoI in the age of generative AI
-- [[ai-communities-of-inquiry-2026]] —— AI in communities of inquiry
-- [[ai-online-education-engagement-satisfaction-2026]] —— AI and online education engagement
-- [[reflective-triangle-model-teacher-ai-2026]] —— Reflective Triangle Model: AI as cognitive mediator
+- [[reconceptualizing-community-inquiry-generative-ai]] — 在生成式 AI 时代重新构想探究共同体
+- [[ai-communities-of-inquiry-2026]] — 探究共同体中的 AI
+- [[ai-online-education-engagement-satisfaction-2026]] — AI 与在线教育投入
+- [[reflective-triangle-model-teacher-ai-2026]] — 反思三角模型：作为认知中介的 AI

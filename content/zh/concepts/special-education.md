@@ -2,7 +2,7 @@
 connected_resources: [teacherserver]
 title: 特殊教育
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-09T18:58:09-04:00"
+updated: "2026-10-24T15:29:16-04:00"
 type: concept
 foundations: [ai-education]
 ethics: [equity-in-ai-education, inclusive-learning, neurodiversity]
@@ -10,7 +10,7 @@ connected_faqs: [ai-disabled-neurodivergent-learners]
 level: [special education, k 12, higher ed]
 confidence: high
 translation_of: concepts/special-education
-source_updated: "2026-09-30T08:39:04-04:00"
+source_updated: "2026-10-23T09:20:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -49,6 +49,9 @@ ai_assist:
 **学习障碍学生（SWLD）的认知卸载。** [[seung-basham-cognitive-offloading-swld-2026|Seung & Basham (2026)]] 是 *Learning Disability Quarterly* 一期"AI 与 LD 学生"专辑中的概念性综述，透过 [[cognitive-offloading]] 透镜重构了生成式 [[generative-ai|AI]] 在 SWLD 中的使用。他们论证，生成式 AI 可以是一种**补偿性辅助或一条捷径**，取决于卸载决策如何与 SWLD 的认知与 [[motivation|动机]]画像（执行功能与工作记忆的挑战、升高的认知负荷、回避努力的表现目标、较低的学业自我效能感、以及对生成式 AI 的膨胀期望）及教学设计互动。对阅读与写作，生成式 AI 可以支架式地打开通道（文本分级、摘要、[[multimodal]] 输出、规划、起草、修改反馈），同时保全更高阶的 [[student-engagement|参与]]——但过度卸载有绕过理解、规划与监控过程的风险，而这对这些学习者本就脆弱，会助长"[[metacognition|元认知]]懒惰"并跨领域加重读写困难。该论文把**教学 [[guardrails]]** 定位为关键的调节因素，并建议 [[teacher-role|教授]]策略性卸载、构建 [[ai-literacy]] 以校准工具信任、编排掌控体验以建立 [[self-efficacy]]、以及使任务与评估对齐于优先技能发展而非替代的 IEP 目标。这扩展了本知识库对特殊教育的覆盖至卸载的公平维度：同一把降低准入门槛的工具，若无护栏，会替代 SWLD 最需要的练习。
 **AI 生成的干预内容需要预生成控制，而不只是审查。** [[adapted-stories-social-story-intervention-2026|Enkhjargal et al. (2026)]] 发现，从业者对共同设计的 Social Story 工具给出很高的可用性评价（SUS 86.8），却指出其图像泛西式、其行为追踪器与目标挂钩的临床判断不匹配——这些是他们本会在生成前就设下的约束。
 
+[[vlm-task-planning-humanoid-robot-autism-education-2026|Kudláčková（2026）]]从材料而非对话出发：一个视觉-语言模型读取 Shoebox Tasks 的照片（其设计使目标在物体中可见），并把它们转化为一个由 Nao 人形机器人执行或演示的计划，报告了跨六项任务的计划准确率，且没有学习者数据。
+- **挑战性行为是辅导者基准止步之处。**在取自特殊教育与教育心理学文献的 923 段基于案例的对话中，11 个模型中最好的一个在 55.8% 的开放式案例与 43.3% 的长期计划中满足了一项有记录的干预（[[tutor-case-bench-challenging-behaviors-2026|Park 等（2026）]]）。
+
 ## 对特殊教育教师的启示
 
 - **与目标学习者及其社群共同设计 AI。** [[llm-question-generation-deaf-hard-of-hearing-2026|面向聋人/重听学习者的题目生成]]显示了与社群迭代细化 AI 以弥合文本型提示与手语第一语言之间鸿沟的价值——让学习者及其社群参与设计，而非假定 AI 适合他们。
@@ -76,13 +79,15 @@ ai_assist:
 
 ## 关联文章
 
-- [[seung-basham-cognitive-offloading-swld-2026]] — GenAI cognitive offloading for students with learning disabilities
+- [[tutor-case-bench-challenging-behaviors-2026]] — TutorCaseBench：对有挑战行为的学生评价 LLM 辅导者（Park 等 2026）
+- [[seung-basham-cognitive-offloading-swld-2026]] — 面向学习障碍学生的 GenAI 认知卸载
 - [[special-r1-rl-special-education]]
 - [[dyslexlens-dyslexic-learners-ai]]
-- [[llm-question-generation-deaf-hard-of-hearing-2026]] — LLM-powered question generation for Deaf and Hard of Hearing learners
+- [[llm-question-generation-deaf-hard-of-hearing-2026]] — 面向聋人与重听学习者的 LLM 驱动出题
 - [[neurodivergent-computing-students]]
 - [[adhd-video-segmentation-computing-education]]
 - [[genai-minoritized-knowledges-disability]]
 - [[embodied-string-learning-blindness-low-vision-musicians]]
-- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — Generative AI, virtual reality, and beyond: A scoping review of digital assistive technologies for neurodivergent students in higher education
-- [[adapted-stories-social-story-intervention-2026]] — AI-Assisted Social Story Intervention for Special Education: The Design of AdaptED Stories
+- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — 生成式 AI、虚拟现实及其他：面向高等教育中神经多样学生的数字辅助技术范围综述
+- [[adapted-stories-social-story-intervention-2026]] — 面向特殊教育的 AI 辅助 Social Story 干预：AdaptED Stories 的设计
+- [[vlm-task-planning-humanoid-robot-autism-education-2026]] — 一个视觉-语言模型为 Nao 机器人规划 Shoebox Tasks（Kudláčková 2026）

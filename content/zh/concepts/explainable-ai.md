@@ -1,7 +1,7 @@
 ---
 title: 可解释 AI
 created: "2026-09-07T10:15:00-04:00"
-updated: "2026-10-09T18:58:10-04:00"
+updated: "2026-10-24T15:58:16-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [metacognition]
@@ -11,7 +11,7 @@ ethics: [bias-mitigation, trust-calibration, pedagogical-safety]
 audience: [learners, researchers, instructional designers, instructors]
 confidence: high
 translation_of: concepts/explainable-ai
-source_updated: "2026-09-30T14:23:52-04:00"
+source_updated: "2026-10-16T06:45:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -77,6 +77,8 @@ XAI-ED 框架编目了主要的解释模态：**视觉式**（热力图、决策
 
 解释并不总是一种拉平器。在一项有 250 名七年级学生参与的 2 × 2 情境实验中，为数学分数提供的书面理由在两种条件下都提高了接受度和感知公平性，却扩大而非缩小了[[teacher-role|教师]]评分与 AI 评分之间的差距（[[decision-making-agent-student-decision-acceptance-2026|Zhang 等人（2026）]]）。
 
+引用表现为一种可信度线索，而非正确性的证据：把引用与权威信号附加到一个辩论界面上，使放弃正确判断而采纳 AI 立场的比例从 15.0% 升至 31.8%，且被引用的案例有时被误归属或是虚构的（[[tuo-armada-multi-agent-debate-overreliance-2026|Tuo 等人，2026]]）。
+
 两条进一步的告诫把这一点说得更尖锐，两者都被本 wiki 关于该主题最新的贡献置于核心位置。第一，解释机制本身并不中立：LIME 和 SHAP 之类的事后方法可能对模型的实际行为不忠实，因此一个技术上存在的解释可能误导而非提供信息（[[lund-socially-accountable-data-science-xai-2026|Lund 等人 2026]]，承袭 Chuan 等人 2024）。第二，**解释不等于问责**。一份关于哪些特征驱动了预测的说明，并不能揭示这些特征是否适合使用、训练数据是否具代表性、或者系统的设计是否反映了健全的判断；解释可以制造出透明性的表象，却让产生某项决策的结构性条件原封不动（Mittelstadt 等人 2019）。对教育而言，这意味着要不断追问的问题不是有没有产生解释，而是收到解释的那个人——学生、教师、导师——能否理解它、能否据此行动、能否对背后的决定提出异议。同样的可读性失灵出现在[[automated-assessment|自动评价]]的安全侧：[[humble-prompt-injection-ai-grading-red-team-2026|Humble（2026）对一个 AI 评分工具的红队测试]]发现，它在拦截一次提示注入之后静默地禁用了聊天功能，并——在宣布自己绝不会遵循嵌入指令之后——又在同一文件上于另外六次运行中遵循了它们，让用户没有任何可靠信号可供依赖。
 
 **设计即可解释**是对事后方法不忠实问题的一种回答。[[li-explainable-trustworthy-llm-teacher-assessment-2025|Li, Yang 和 Fang（2025）]]用一个与决定[[assessment]]判断的融合表征和预测分数相同的表征来参数化一个解释解码器，使得[[formative-assessment|形成性]]提问上的低分能产出一份指明提问不足的理由，并配以跨课程标准与学科特定评分量规动作的双透镜注意力。注意力与量规的对齐度达到 78.0%，而 GPT-4 零样本为 41.7%、BERT 为 32.1%；忠实性则通过对量规关键片段的反事实删除，加上在量规锚定清单上的人工评分来检验，得到 0.78 的解释可信度分数——比 BERT-base 提高 0.31。审计也显示出架构主张在何处变薄：在情绪线索上，模型分配了 28.4% 的注意力权重，而专家为 15.2%（对齐度 0.53），其中一个失败案例把 28% 的权重给了 token "frustrated"，作者把这解读为对情绪的过拟合、而非教学，并列为需要改进的领域。把解释嵌入决策路径使它们比事后理由更忠实；但这并不使它们正确。
@@ -125,6 +127,7 @@ XAI-ED 框架编目了主要的解释模态：**视觉式**（热力图、决策
 - [[bloom-classifier-ai-assisted-questions-2026]] — 对预训练模型在新型 AI 辅助教育问题的教学性评价上的评估
 
 - [[decision-making-agent-student-decision-acceptance-2026]] — 教师评分与 AI 评分的决策：一份书面理由扩大了公平性差距
+- [[tuo-armada-multi-agent-debate-overreliance-2026]] — 引用与权威信号提高了对不正确输出的遵从，部分引用被误归属或是虚构的
 ## Citation
 
 Khosravi, H., Buckingham Shum, S., Chen, G., Conati, C., Tsai, Y.-S., Kay, J., Knight, S., Martinez-Maldonado, R., Sadiq, S., & Gašević, D. (2022). [*Explainable Artificial Intelligence in education*](https://doi.org/10.1016/j.caeai.2022.100074). *Computers and Education: Artificial Intelligence*, 100074.

@@ -91,5 +91,5 @@ ai_assist:
 - [[fair-explainable-edu-recommendations]] — 公平且可解释的教育推荐
 - [[hybrid-cf-kg-recommendation-multimodal-teaching-2026]] — 面向多模态教学资源的混合CF–KG跨域推荐
 - [[xie-hillm-cd-2026]] — HiLLM-CD：LLM驱动的认知诊断
-- [[graph-its-adaptive-algorithms-2026]] — Graph-Based Intelligent Tutoring for Dynamic Domains (2026)
+- [[graph-its-adaptive-algorithms-2026]] — Graph-Based Intelligent Tutoring for Dynamic Domains (2026)：面向动态领域的基于图的智能辅导
 - [[cogevol-learning-environment-generation-2026]] — CogEvol：学习环境生成

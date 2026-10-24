@@ -1,7 +1,7 @@
 ---
 title: 在线教学与学习
 created: "2026-08-20T04:20:00-04:00"
-updated: "2026-10-09T18:58:09-04:00"
+updated: "2026-10-24T14:16:08-04:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, learning-design]
 pedagogy: [online-teaching-and-learning, pedagogy]
@@ -11,7 +11,7 @@ confidence: high
 connected_resources: [claw-ed, id-toolbox, liascript]
 connected_faqs: [asynchronous-online-courses-ai]
 translation_of: concepts/online-teaching-and-learning
-source_updated: "2026-09-30T16:25:27-04:00"
+source_updated: "2026-10-16T19:45:37-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -106,6 +106,7 @@ ai_assist:
 - **主动与互动学习。** 优先选择让学生做事并思考的策略，而非被动接收——[[active-learning]]、互动练习与 [[socratic-method|苏格拉底式]]对话。促使学生推理（而非提供答案）的 AI 保留了构建持久学习的富有成效的挣扎与 [[desirable-difficulties]]。
 - **有支架、有引导的支持。** 使用随学习者进步而淡出的 [[scaffolding]]，并设计 [[self-regulated-learning]] 支持，使学习者主导自己的学习而非依赖工具。
 - **协作与讨论式学习。** 有意地构建在线讨论与小组工作；使用 [[collaborative-learning]] 活动，并在 AI 参与时校准其促进方式及其同伴角色。
+- **角色设计才是干预，而不是工具。** 在一门在线研究生课程中，把轮换的主持人、分析者与辩驳者角色指派给[[learners]]和一个生成式 AI 伙伴，使小组思维导图的内容分数在 1-5 的 SOLO 量表上从 M = 3.65 升到 M = 4.59（z = 3.771，p < 0.001），而节点与分支数在统计上保持不变（[[cheng-symbiotic-role-design-human-genai-collaboration-2026|Cheng 等（2026）]]）。
 - **真实、过程揭示的评估。** 转向 [[authentic-assessment]] 与捕捉过程的评估——草稿、口头答辩、自我解释、反思性 [[eportfolio|档案袋]]——它们更抗 AI 且揭示真实理解。
 - **个性化与自适应路径。** 使用 AI 赋能的 [[personalized-learning|个性化]]与 [[adaptive-learning|自适应]]活动来定制节奏与难度，同时保持个性化的深度（任务排序、难度校准）而非停留在表面（自定义示例）。
 - **社会临场感与社群建设。** 有意地培养社会临场感与 [[collaborative-learning|社群]]——[[community-of-inquiry]] 框架的核心——通过伴随式 AI、同步检查与同伴互动，因为在线孤立是 [[student-engagement|参与]]与归属感的关键障碍。在 AI 时代，这意味着在机器生成的话语使"谁在临场"变得复杂之际，仍然精心培育三种临场感（认知、社会、教学）（见 [[community-of-inquiry]]）。
@@ -122,6 +123,7 @@ ai_assist:
 - **把 AI 嵌入学习环境，而非作为外部附加。** 嵌入课程的、情境调优的专用助手（如 [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of|AIDA]]）优于通用外部聊天机器人，并提高接受度。
 - **将 AI 促进校准到人类的谨慎。** 用 AI 主持讨论时，偏好少介入的设置（[[llm-facilitation-timing-online-discussions|Tsirmpas et al.]]）。
 - **为成人的生活约束而设计。** 对成人与远程学习者，优先移动接入、离线能力与异步可用性（[[ai-adult-learning-guidelines-dis2026|AI-ALOE 指南]]）。
+- **压缩的形式需要的是重新设计，而不是压缩。** 面向在职教师的六周异步研究生课程是一种机构约束，要求有目的地重新设计，而不是把十五周的课程压缩起来；而 AI 对话把教学临场感带进教师无法值守的深夜时段（[[packard-thinking-partner-framework-adult-learners-2026|Packard 等（2026）]]）。
 - **与学生和教师共同设计，并建设治理。** 参与式开发、高层支持、跨单位协作与健全的 [[governance]] 是负责任采纳生成式 AI 的使能因素。
 - **假定智能体会尝试每一项无监考活动，并以此假设出发设计。** 三问测试很快，能暴露薄弱活动：一个 AI 系统能否在学生不理解材料的情况下完成它；本应产生学习的认知活动是什么；什么证据将表明学生执行了它。当第一个答案是"是"而另两问难以回答时，问题在于学习设计，而非 AI 政策。
 - **让验证与风险相称。** 在必须认证能力之处，宁愿用孪生任务、异步口头答辩或简短的理解检查，而非全面监控；让课程的其余部分对依赖这种灵活性的学习者保持灵活。
@@ -167,18 +169,20 @@ ai_assist:
 - [[song-genai-learning-partner-srl-over-time-2026]] — 自我调节学习作为稳定特质与波动状态；元认知与幸福感在一个学期内下降
 - [[genai-marketing-education-roles-2026]] — AI 作为辅导者、队友与工具：角色及其对临场感的影响
 - [[kirsanov-beyond-detection-ai-online-assessments-2026]] — 超越检测：面向在线情境的评估设计
-- [[reconceptualizing-community-inquiry-generative-ai]] — Reconceptualizing Community of Inquiry in the age of generative AI
+- [[reconceptualizing-community-inquiry-generative-ai]] — 在生成式 AI 时代重新构想探究共同体
 - [[lock-integrating-ai-online-learning-higher-ed-2025]] — 将 AI 整合进高等教育在线学习：一项四主题批判性文献综述
 - [[mooc-to-maic]] — 从 MOOC 到 MAIC：通过 LLM 驱动的智能体重塑在线教学与学习
 - [[learnmate2-llm-adaptive-learning]] — LearnMate²：面向在线学习的个性化与自适应支持系统
-- [[llm-facilitation-timing-online-discussions]] — Human and LLM Facilitator Tendencies in Online Discussions
-- [[elevate-genai-virtual-tutors]] — ELEVATE: Human-Centered GenAI Virtual Tutors
-- [[conversational-ai-tutors-framework]] — The Path to Conversational AI Tutors
+- [[llm-facilitation-timing-online-discussions]] — 在线讨论中人类与 LLM 促进者的倾向
+- [[elevate-genai-virtual-tutors]] — ELEVATE: Human-Centered GenAI Virtual Tutors：以人为中心的生成式 AI 虚拟导师
+- [[conversational-ai-tutors-framework]] — 通向对话式 AI 辅导者之路
 - [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of]] — 在开放大学实施 AIDA
 - [[ai-adult-learning-guidelines-dis2026]] — 设计支持成人学习的 AI 技术指南
-- [[deeptutor]] — DeepTutor: Toward Agentic Personalized Tutoring
+- [[deeptutor]] — DeepTutor: Toward Agentic Personalized Tutoring：迈向智能体化的个性化辅导
 - [[mejia-domenzain-ml-findings-teachers-blended-2026]] — 让教师理解混合课堂中的机器学习发现
 - [[zhang-ml-student-progress-programming-2026]]
 - [[personalized-ai-generated-videos-preference-2026]] — 学生更偏好个性化的 AI 生成视频而非非个性化的人类录制视频（Tomlinson et al. 2026）
 - [[hao-peer-exposure-bridging-social-capital-ai-summaries-2026]] — AI 生成摘要驱动的在线讨论论坛学习设计
 - [[ai-training-science-teacher-tpack-distance-2026]] — 校园型师范生报告的 AI 整合科学教学 TPACK 高于远程教育同伴（64.0% 对 47.4%）
+- [[cheng-symbiotic-role-design-human-genai-collaboration-2026]] — 角色设计才是干预，而不是工具
+- [[packard-thinking-partner-framework-adult-learners-2026]] — 面向在职教师的六周异步研究生课程：重新设计形式，而不是压缩它

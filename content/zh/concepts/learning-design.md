@@ -1,7 +1,7 @@
 ---
 title: 学习设计
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-09T18:39:23-04:00"
+updated: "2026-10-24T15:24:00-04:00"
 type: concept
 foundations: [ai-literacy, curriculum-design, educational-development, learning-design, teacher-role]
 pedagogy: [scaffolding]
@@ -10,9 +10,9 @@ audience: [instructors, faculty developers]
 level: [higher ed]
 connected_faqs: [top-10-findings-ai-education-instructors, incorporating-ai-literacy, designing-ai-into-learning, designing-educational-ai-software, asynchronous-online-courses-ai]
 confidence: high
-connected_resources: [claw-ed, education-agent-skills, edugems, id-toolbox, idstack, lesson-md, liascript, master-instructional-design, onmicro-ai, pedagogical-promptbook, playlab, vibes-diy]
+connected_resources: [claw-ed, education-agent-skills, edugems, id-toolbox, idstack, lesson-md, liascript, master-instructional-design, onmicro-ai, pedagogical-promptbook, playlab, vibes-diy, intelligent-textbooks, learning-design-wiki]
 translation_of: concepts/learning-design
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-24T09:56:38-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -45,6 +45,8 @@ ai_assist:
 ### 关键研究主题
 
 **人工智能辅助的内容创建**是最直接具有变革性的应用。**[[curriculum-as-code-instructional-design-2026|Curriculum as Code]]**提出一个把生成式人工智能与 LaTeX 和 Python 整合以自动化[[stem-education|STEM]]材料创建的六阶段架构，在 8 个模块与 28 个项目情境上验证，学生质量评分 8.5–9.9/10。**[[instructional-agents-multi-agent-course-gen|Instructional Agents]]**使用一个围绕 ADDIE 模型结构化的多代理框架，由基于角色的代理（教学教师、教学设计者、课程协调者）协作生成完整课程材料。**[[courseblueprint-adaptive-video-generation|CourseBlueprint]]**提供一个结构化的流水线，用于基于课程语料的适应性[[pedagogy|教学]][[video-education|视频生成]]，表明显性的教学结构 — 而非只是人工智能熟练度 — 对教育内容生成至关重要。[[generative-ai|生成式人工智能]]平台还能在其产出的内容中体现学习设计原则：[[ai-modeling-problem-generation-platform-2026|一个生成数学建模问题的人工智能平台]]把既定设计原则与[[prompt-engineering|检索增强生成]]相结合，通过 ADDIE 方法开发出有教学依据的任务与推荐，这是常规内容生成器所缺乏的。然而，这类人工智能辅助内容与课程生成的回报受教师自身专长所中介：[[choi-teacher-ai-interaction-lesson-design-2026|Choi 等人（2026）]]发现，经验丰富的教师批判性地把人工智能生成的课程想法适配于学生与情境（重新提问并扩充输出），而新手倾向于直接接受人工智能的建议 — 因此人工智能内容工具的教学价值取决于教师的经验与人工智能熟练度，而非工具本身。对[[wang-teacher-ai-co-design-review-2026|教师—人工智能协同设计学习任务]]（Wang、Liu 与 Islam 2026）的系统综述在 28 项研究（2015–2025）上于规模层面确认了这一模式：GenAI 主要用于课程规划、提示生成与创意构想，而主导的协作模式是人工智能作为助手/内容生成者，而非更完整的共同设计者 — 其中效率、响应性、[[creativity]]与[[equity-in-ai-education|公平]]反复作为可供性出现。[[talebzadeh-ai-group-activity-roles-2026|Talebzadeh（2026）]]为小组活动设计锐化了教师专长发现：无论对人工智能熟悉程度如何，经验丰富的教师在人工智能设计的合作活动中比新手产出更丰富、更具协同、更对齐 ZPD 的角色架构，把“教学提示素养”框定为把人工智能输出转化为有效[[collaborative-learning|差异化小组学习]]的杠杆。
+
+Aila 试验为这一模式给出了一个备课时间的数字。在其随机化的小学中，教师用该工具备每周课花 2.51 小时，而不用则花 3.32 小时，然而中位教师只有 21% 到 40% 的课程是从零开始设计的，而这正是从零开始的工具所针对的情形（[[roy-aila-lesson-planning-teacher-choices-2026|Roy 等，2026]]）。
 
 生成材料不足之处在于课程契合：七名数学教师给人工智能生成的生产性失败问题在总体质量上接近人类出的题（M = 17.19 对 17.43/25），但在课程对齐上更低（M = 2.57 对 3.29），因此生成的问题仍需在长度、阅读水平与视觉上编辑（[[rhaimi-productivemath-2025|Rhaimi 等人（2025）]]）。
 
@@ -127,8 +129,8 @@ Fowlin 等人（2026）为决定人工智能在哪里进场增加了一个操作
 - [[stakeholders]] — 总括：人工智能教育中的人与受众（学习者、教师、设计者、管理者、政策制定者）
 
 ## 关联文章
-
-- [[powerful-learning-with-emerging-technology-2025]] — Powerful Learning with Emerging Technology
+- [[roy-aila-lesson-planning-teacher-choices-2026]] — 一个可测量的备课时间节省，同时发现教师只 21% 到 40% 的课程从零开始设计
+- [[powerful-learning-with-emerging-technology-2025]] — 与新兴技术共同的有力学习
 - [[claassen-learning-analytics-genai-learning-design-2026]] — 学习设计决策中的 LA 与 GenAI
 - [[tang-chatbots-learning-design-2026]] — 学习设计中的聊天机器人使用：设计者沉溺于成果与教学法而非内容生成（Tang 等人 2026）
 - [[choi-teacher-ai-interaction-lesson-design-2026]] — 跨经验与人工智能熟练度的课程设计中的教师—人工智能互动模式（Choi 等人 2026）
@@ -146,18 +148,18 @@ Fowlin 等人（2026）为决定人工智能在哪里进场增加了一个操作
 - [[pchl-he-framework-genai-content-creation-2026]]
 - [[jeon-isd-agent-bench-2026]]
 - [[ai-web-agents-lesson-design-2025]] — AI Web Agents：自主网络代理在学生在场前评价课程设计并预测学生流失（Wang, Mitchell & Piech 2025）
-- [[airis-cognitively-activated-ai-physics-2026]] — AIRIS: A Framework for Cognitively Activated AI Augmentation in Physics
+- [[airis-cognitively-activated-ai-physics-2026]] — AIRIS：面向物理学中认知激活的人工智能增强框架
 - [[wang-multi-agent-systems-learning-designers-2025]]
 - [[ai-tpack-teacher-multi-agent-workflow]]
-- [[halani-designing-for-reach-2026]] — Designing for Reach: Seven Levers and the Student Alone with AI
+- [[halani-designing-for-reach-2026]] — 为触及而设计：七个杠杆与独自面对人工智能的学生
 - [[fowlin-operationalizing-learning-principles-ai]]
-- [[ai-video-dual-gatekeeping-2026]] — When Saying No Makes Better Videos: Dual Gatekeeping for Pedagogically Grounded AI Content Creation
-- [[rhaimi-productivemath-2025]] — ProductiveMath: AI to Support Productive Failure Problem Design
-- [[kibar-ilgaz-ai-instructional-design-review-2026]] — AI and Instructional Design Practice: A Systematic Review（Kibar & Ilgaz 2026）
-- [[graph-its-adaptive-algorithms-2026]] — Graph-Based Intelligent Tutoring for Dynamic Domains (2026)
-- [[making-ai-annoying-constrained-writing-2026]] — Making AI annoying on purpose: constraint in AI-supported writing（Konradt, Boote & Taub 2026）
+- [[ai-video-dual-gatekeeping-2026]] — 说“不”如何做出更好的视频：面向有教学依据的 AI 内容创作的双重把关
+- [[rhaimi-productivemath-2025]] — ProductiveMath：支持生产性失败问题设计的人工智能
+- [[kibar-ilgaz-ai-instructional-design-review-2026]] — 人工智能与教学设计实践：一项系统综述（Kibar & Ilgaz 2026）
+- [[graph-its-adaptive-algorithms-2026]] — 面向动态领域的图式智能辅导（2026）
+- [[making-ai-annoying-constrained-writing-2026]] — 故意把 AI 做得烦人：AI 支持写作中的约束（Konradt, Boote & Taub 2026）
 - [[instructional-design-proficiency-masters-math-2026]] — 智慧课堂模型与 D-T-E 循环改善数学教育硕士的教学设计熟练度（Zhu 等人 2026）
 - [[ai-modeling-problem-generation-platform-2026]] — 生成数学建模问题的人工智能平台（ADDIE、RAG）
 - [[wang-teacher-ai-co-design-review-2026]] — 教师—人工智能协同设计学习任务：趋势与视角（Wang 等人 2026）
 - [[talebzadeh-ai-group-activity-roles-2026]] — 人工智能设计的差异化小组活动中的角色架构（Talebzadeh 2026）
-- [[yasar-llms-iterative-pedagogical-design-2026]] — LLMs as agents of iterative pedagogical design
+- [[yasar-llms-iterative-pedagogical-design-2026]] — 作为迭代教学设计代理的 LLM

@@ -1,7 +1,7 @@
 ---
 title: 理论与框架
 created: "2026-09-19T05:40:00-04:00"
-updated: "2026-10-09T19:06:58-04:00"
+updated: "2026-10-24T17:15:00-04:00"
 type: concept
 foundations: [ai-education, theory-development-aied, philosophy-of-ai-in-education]
 pedagogy: [learning-theories]
@@ -9,7 +9,7 @@ assessment: [assessment-validity, item-response-theory]
 methods: [research-methods-aied]
 confidence: high
 translation_of: concepts/theories-and-frameworks
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-23T09:49:58-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -48,6 +48,8 @@ ai_assist:
 - **[[community-of-inquiry|探究共同体]]** —— 使在线体验得以运作的社会、认知与教学三种存在；既是关于体验的理论，也是设计框架。
 - **[[self-determination-theory|自我决定理论]]** —— 自主、胜任与关联作为动机前提。当 AI 使用提升了参与却未提升学习时，常被拿出来作为解释。
 - **[[cognitive-psychology|认知主义]]** —— 信息加工、工作记忆，以及"学到了的感觉"与实际学习之间的分歧。
+- **社会知觉理论（温暖与胜任）** —— 从社会认知与服务机器人研究中引入，它框定用户如何评判一个人工智能智能体的可信度：感知到的胜任直接预测 ChatGPT 反馈的可信度，而温暖只经由类人共情起作用（SEM，230 名学生；[[chatgpt-feedback-credibility-perceived-learning|Pérez-López 等人（2026）]]）。
+- **第四类可供性被提出，但未被检验。**把 24 项研究对照一套三部分的可供性方案编码后，综述者发现参与、安全与自我效能并不契合技术的、教学的或社会的类别，于是提出了植根于班杜拉交互决定论的情感可供性（[[genai-chatbots-language-learning-affordances-review-2026|Lopez 与 Arabadzhy（2026）]]）。
 
 ## 关于学习者与学习过程的模型
 
@@ -129,6 +131,7 @@ ai_assist:
 - [[research-methods-aied]] — 理论如何被检验
 
 ## 关联文章
+- [[genai-chatbots-language-learning-affordances-review-2026]] — 在一项 24 项研究的系统综述中，情感可供性被提议为第四类
 - [[ai-game-based-learning-systematic-review-2026]] — 在 55 项 AI 游戏化学习研究中，机制—理论一致性而非算法复杂度驱动了有效性
 
 - [[rismanchian-ai-education-four-decades-aixed-2026]] — 通过 AI×Ed 框架看 AIED 的四十年

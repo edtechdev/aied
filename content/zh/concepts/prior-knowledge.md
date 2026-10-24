@@ -64,7 +64,7 @@ ai_assist:
 
 ## 关联概念
 
-- [[learners]] — Learners: the umbrella for the learner-side concepts
+- [[learners]] — 学习者：学习者侧概念的总括
 - [[constructivist]]
 - [[personalized-learning]]
 - [[student-modeling]]
@@ -78,16 +78,16 @@ ai_assist:
 - [[cognitive-offloading]]
 - [[desirable-difficulties]]
 - [[learning-theories]]
-- [[productive-failure]] — Productive Failure
-- [[retrieval-spacing-interleaving]] — how what a learner already knows determines what retrieval practice can do
+- [[productive-failure]] — 生产性失败
+- [[retrieval-spacing-interleaving]] — 学习者已有的知识如何决定检索练习能起什么作用
 
 ## 关联文章
 
-- [[agentic-ai-pedagogical-best-practice-2026]] — The tension between automation and learning (prior knowledge activation risk)
-- [[genai-mindtool-generative-learning]] — GenAI as a mindtool: priming and activating prior knowledge
-- [[nie-personavlm-long-term-personalization-2026]] — LLM student modeling and memory
-- [[lodge-loble-cognitive-offloading-2026]] — Lodge & Loble on cognitive offloading
-- [[cognitive-offloading-llm-synthesis-writing]] — Cognitive offloading in LLM synthesis writing
-- [[bridging-instructional-design-framework-math]] — An instructional-design framework for math
-- [[knowledge-building-tutor-learning-2026]] — knowledge-building rather than prior knowledge predicts tutor learning, and low-prior tutors who build knowledge catch up
+- [[agentic-ai-pedagogical-best-practice-2026]] — 自动化与学习之间的张力（先备知识被激活的风险）
+- [[genai-mindtool-generative-learning]] — 作为支持学习者建构之思维工具的 GenAI
+- [[nie-personavlm-long-term-personalization-2026]] — LLM 学生建模与记忆
+- [[lodge-loble-cognitive-offloading-2026]] — AI、认知卸载及其对教育的意涵（Lodge 与 Loble 2026）
+- [[cognitive-offloading-llm-synthesis-writing]] — 当 AI 为学习者综合来源时，学习者外包了什么
+- [[bridging-instructional-design-framework-math]] — 面向数学教育者的教学设计框架
+- [[knowledge-building-tutor-learning-2026]] — 知识建构式回应而非先前知识预测辅导者的学习
 - [[rachatasumrit-example-problem-ratio-2026]]

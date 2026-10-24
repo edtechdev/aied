@@ -1,7 +1,7 @@
 ---
 title: 护栏
 created: "2026-08-25T08:30:00-04:00"
-updated: "2026-10-09T18:58:08-04:00"
+updated: "2026-10-24T14:53:17-04:00"
 type: concept
 technology: [human-in-the-loop-ai, llm, prompt-engineering, rag, reinforcement-learning]
 ethics: [ai-sycophancy, bias-mitigation, pedagogical-safety]
@@ -9,7 +9,7 @@ level: [k 12]
 confidence: high
 connected_faqs: [asynchronous-online-courses-ai]
 translation_of: concepts/guardrails
-source_updated: "2026-09-30T09:53:03-04:00"
+source_updated: "2026-10-22T10:05:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -70,6 +70,8 @@ ai_assist:
 
 护栏本身并非中立：[[paternalistic-filter-llm-history-education|"家长式过滤器"（Paternalistic Filter）]]审计显示，拒绝与软化的回答按学生身份与话题敏感度而形成模式，一边"保护"一边复制认知不公。安全的护栏必须接受差别对待审计——这是[[bias-mitigation|偏见缓解]]与[[equity-in-ai-education|AI 教育中的公平]]在[[governance|治理]]与[[regulation|监管]]中的直接依据。
 
+**分类器护栏的阈值是一项政策决定。** 把毒性截断点从 0.3 移到 0.7，被标记的提示就从 35.62% 降到 12.4%；在一个诈骗检测器上，它把 15 次误报和 18 次漏检换成 2 次和 36 次，没有任何截断点能同时消除两者，而一个鲁棒性数字若脱离其攻击便意义甚微（[[ai-security-literacy-k12-framework-2026|Yocam、Vaidyan 与 Kalathas（2026）]]）。
+
 ## 护栏与教学安全之别
 
 - **[[pedagogical-safety|教学安全]]**是*原则／目标*——AI 教育系统保护学习者免受伤害（内容、偏见、不安全建议、操纵）。
@@ -115,20 +117,21 @@ ai_assist:
 
 ## 关联文章
 
-- [[reflection-agent-fidelity-career-2026]] — Faithful Where It Can Be Checked: Auditing a Reflection Agent Against Its System Prompt in a Randomized Trial
-- [[scaffolding-student-ai-dialogue-framework-2026]] — The SCAFFOLD framework for steering students-AI dialogue, with its classroom pilot
-- [[generative-ai-guardrails-harm-learning]] — the canonical field RCT on guardrails
-- [[eduzone-llm-safety-k12]] — K-12 LLM safety framework
-- [[eduguard-safe-rag-llm-tutor]] — RAG-based safety for tutors
-- [[paternalistic-filter-llm-history-education]] — auditing guardrails for bias
-- [[singh-eduqwen-pedagogical-rl-2026]] — RL-aligned guided learning
-- [[tact-pedagogically-adaptive-esl-tutoring]] — taxonomy-aligned post-training
-- [[eduframetrap-llm-sycophancy-educational-safety]] — sycophancy as a safety risk
-- [[ai-tutor-authoring-promptdecipher]] — teacher-driven QA
-- [[llm-unlearning-math-privacy]] — model-level unlearning
-- [[pedagogical-safety-rl]] — reward shaping for pedagogical safety
-- [[residencyrl-clinical-rl-training-2026]] — safety-aligned RL in clinical training
-- [[rule-integrated-llm-tutoring-primary-math-2026]] — Rule-guided vs ad-hoc scaffolding in an LLM tutoring system for primary mathematics (Looi et al. 2026)
-- [[instructional-governance-design-computing-education-2026]] — Instructional Governance by Design: A Framework for AI in Computing Education
-- [[guardrails-ai-teaching-assistants-programming-2026]] — Guardrails or Roadblocks? Effects of Pedagogical Style and Context Awareness in AI Teaching Assistants for Programming
+- [[ai-security-literacy-k12-framework-2026]] — AI 安全素养：基于生态系统的能力框架与 K-12 学习平台
+- [[reflection-agent-fidelity-career-2026]] — 可核查处即忠实：在随机试验中依据系统提示审计反思智能体
+- [[scaffolding-student-ai-dialogue-framework-2026]] — 用于引导"学生与 AI"对话的 SCAFFOLD 框架，及其课堂试点
+- [[generative-ai-guardrails-harm-learning]] — 护栏领域具有代表性的现场随机对照实验
+- [[eduzone-llm-safety-k12]] — EduZone：面向 K-12 的大语言模型安全框架
+- [[eduguard-safe-rag-llm-tutor]] — EduGuard：安全的基于检索增强生成的大语言模型导师护栏
+- [[paternalistic-filter-llm-history-education]] — 审计护栏中的偏见
+- [[singh-eduqwen-pedagogical-rl-2026]] — 经强化学习对齐的引导式学习
+- [[tact-pedagogically-adaptive-esl-tutoring]] — 分类法对齐的后训练，瞄准教学决策
+- [[eduframetrap-llm-sycophancy-educational-safety]] — 谄媚作为一种安全风险
+- [[ai-tutor-authoring-promptdecipher]] — 教师驱动的质量保证
+- [[llm-unlearning-math-privacy]] — 模型层上的遗忘
+- [[pedagogical-safety-rl]] — 面向教学安全的奖励塑造
+- [[residencyrl-clinical-rl-training-2026]] — 临床培训中经安全对齐的强化学习
+- [[rule-integrated-llm-tutoring-primary-math-2026]] — 面向小学数学的 LLM 辅导系统中规则引导对临时脚手架（Looi 等人 2026）
+- [[instructional-governance-design-computing-education-2026]] — 按设计进行教学治理：计算教育中 AI 的框架
+- [[guardrails-ai-teaching-assistants-programming-2026]] — 护栏还是路障？AI 编程助教的教学风格与情境感知之效应
 - [[instruction-partners-ai-in-action-learning-tour-2026]] — 20 个 AI 工具在真实课堂中，风险如何随产品类别而异

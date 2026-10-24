@@ -90,9 +90,9 @@ AES 处于[[automated-assessment]]、[[writing-education]]与[[generative-ai]]�
 ## 关联文章
 - [[reflection-level-classification-hungarian-essays-2026]] — 匈牙利学生作文中的反思水平自动分类
 - [[wraft-automated-writing-evaluation-argumentative-2026]] — WrAFT：面向论辩作文的模块化自动写作评估系统
-- [[automated-essay-scoring-critical-thinking-physics-2026]] — Educational Innovation through Automated Essay Scoring: A Multidimensional Framework for Evaluating Critical Thinking in High School Physics Essays
+- [[automated-essay-scoring-critical-thinking-physics-2026]] — Educational Innovation through Automated Essay Scoring: A Multidimensional Framework for Evaluating Critical Thinking in High School Physics Essays：面向高中物理作文的自动作文评分多维框架，用于评价批判性思维
 - [[opraise-automated-marking-ai-assessment-2026]] — OpRaise 报告：对三所英国大学 761 篇大学作文的 AI 评分
-- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — A Human-in-the-Loop Framework for AI-Assisted Scoring in Large-Scale Writing Assessment
+- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — A Human-in-the-Loop Framework for AI-Assisted Scoring in Large-Scale Writing Assessment：大规模写作评估中 AI 辅助评分的人在回路框架
 - [[zhang-races-consistent-essay-scoring-llms-2026]] — RACES：用 LLM 进行奖励对齐的一致性作文评分
 - [[ai-scoring-language-bias-physics]]
 - [[choi-anchor-aes-prompting-2025]]

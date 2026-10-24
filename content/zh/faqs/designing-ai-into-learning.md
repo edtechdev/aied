@@ -1,11 +1,12 @@
 ---
 title: "应当如何把人工智能设计进学习体验之中？"
 created: "2026-09-22T12:00:00-04:00"
-updated: "2026-10-09T18:10:00-04:00"
+updated: "2026-10-24T15:35:34-04:00"
 weight: 72
+audience: [instructional designers, instructors]
 foundations: [learning-design, reducing-ai-misuse]
 pedagogy: [active-learning, pedagogy, scaffolding]
-source_updated: "2026-10-02T08:21:34-04:00"
+source_updated: "2026-10-21T14:32:00-04:00"
 translation_of: faqs/designing-ai-into-learning
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
@@ -19,10 +20,8 @@ ai_assist:
     date: "2026-10-09"
     agent: hermes-agent
 ---
+
 *本页是英文页面的机器翻译，尚未经母语者审校。*
-
-# 应当如何把人工智能设计进学习体验之中？
-
 
 **从学习目标与学习过程出发，而不是从人工智能功能出发。** 本知识库的[[pedagogy|教学法与教学策略]]概念强调，同一套人工智能系统既可以充当脚手架，也可以充当[[socratic-method|苏格拉底式]]对话者、反馈伙伴、[[simulation]]或答案生成器，取决于教学设计如何安排。真正重要的是，这种配置是否保留了能够产生预期学习效果的那项活动。
 

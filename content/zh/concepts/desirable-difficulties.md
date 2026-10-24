@@ -102,13 +102,13 @@ TutorMoments 把可取困难的原则操作化为评价标准：[[zhang-tutormom
 - [[constructivist]]
 - [[motivation]]
 - [[learning-theories]]
-- [[productive-failure]] — Productive Failure
+- [[productive-failure]] — 生产性失败
 - [[retrieval-spacing-interleaving]] — 把这一原则实例化的操作技术：测验效应、间隔、交错
 
 ## 关联文章
 
 - [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025]] — ChatGPT 作为认知拐杖：移除可取困难的一次延迟随机检验（Barcaui 2025）
-- [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — Against frictionless AI: the inverted-U argument for preserving beneficial friction
+- [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — 反对无摩擦 AI：保留有益摩擦的倒 U 形论证
 - [[agentic-ai-pedagogical-best-practice-2026]]
 - [[structured-llm-feedback-programming]]
 - [[generative-ai-reduced-study-time-math]]
@@ -120,11 +120,11 @@ TutorMoments 把可取困难的原则操作化为评价标准：[[zhang-tutormom
 - [[critical-thinking-genai-scaffolding]]
 - [[epistemic-emotions-collaborative-problem-solving]]
 - [[young-people-learning-generative-ai-rapid-review-2026]] — 内建于 GenAI 工具的生产性摩擦支持学习
-- [[zhang-tutormoments-2026]] — When Help is Unhelpful: evaluating AI tutors for productive struggle
-- [[kim-ai-productive-failure-adult-2026]] — Designing AI Systems to Support Productive-Failure-Based Learning
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pedagogical Steering of LLMs for Productive Failure
-- [[wang-safety-gap-productive-struggle-2026]] — The Safety Gap: Restoring Productive Struggle
-- [[rhaimi-productivemath-2025]] — ProductiveMath: AI to Support PF Problem Design
-- [[making-ai-annoying-constrained-writing-2026]] — Making AI annoying on purpose: constraint in AI-supported writing (Konradt, Boote & Taub 2026)
+- [[zhang-tutormoments-2026]] — 当帮助变得无益：为生产性挣扎评价 AI 导师
+- [[kim-ai-productive-failure-adult-2026]] — 设计支持生产性失败式学习的 AI 系统
+- [[puech-pedagogical-steering-llm-productive-failure-2025]] — 面向生产性失败的 LLM 教学性引导
+- [[wang-safety-gap-productive-struggle-2026]] — 安全差距：恢复生产性挣扎
+- [[rhaimi-productivemath-2025]] — ProductiveMath：支持生产性失败问题设计的 AI
+- [[making-ai-annoying-constrained-writing-2026]] — 故意把 AI 做得烦人：AI 支持写作中的约束（Konradt, Boote & Taub 2026）
 - [[rachatasumrit-example-problem-ratio-2026]]
-- [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — Open Questions Towards Skill-Sustaining Reliance in Reflective AI Engagement
+- [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — 迈向反思性 AI 投入中技能保全性依赖的开放问题

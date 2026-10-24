@@ -1,13 +1,13 @@
 ---
 title: 具备心理测量意识的 AI
 created: "2026-07-28T16:52:03-04:00"
-updated: "2026-10-09T19:06:59-04:00"
+updated: "2026-10-24T16:00:00-04:00"
 type: concept
 technology: [llm]
 assessment: [assessment-validity, automated-assessment, educational-measurement, item-response-theory]
 confidence: medium
 translation_of: concepts/psychometrically-aware-ai
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-23T09:20:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -44,7 +44,9 @@ ai_assist:
 - **测量效度：**该概念连接到[[assessment-validity]]和[[educational-measurement]]，这两个框架定义了何为有效、可信的 AI 评估。
 - **潜在结构效度：**[[assessment-latent-structure-human-llm-2026|Strugatski et al.（2026）]]表明，具备心理测量意识的立场还必须验证一份评估在 LLM 中测量的是*同一个潜在构念*、与在人类中一样。因为 LLM 与人类在同一批工具上的反应因子结构发生分歧，即便得分良好的模型也可能并未测量考试声称要测量的构念——这是对任何借用人类效度证据的 AI 评估的一条告诫。
 - **一个标签可以测量得比它名字所暗示的更多，或更少。**把 12 个 AI 素养工具的 55 个构念和 272 个题项嵌入后，浮现出 jangle 对（同一标签、不同测量）和 jingle 对（不同标签、措辞近乎相同），信度恢复为 r = 0.49，这是一项采集前的检验，看构念区分能否存活到题项措辞（[[ai-literacy-measurement-conceptual-landscape-llm-2026|He et al.（2026）]]）。
+- **一个拒绝结果锚定的依赖量表。**四个因子——反思性使用、谨慎使用、无思使用与协作性使用——从 800 份作答中出现，并在一项形态不同的任务上保持稳定（CFI = .91），它按每个任务时刻测量行为，而不是把行为贴上好或坏的标签（[[genai-reliance-scale-problem-solving-2026|Hou et al.（2025）]]）。
 - **潜在能力流水线与标准设定：**[[human-in-the-loop-ai-scoring-national-assessment-2026|Curi et al.（2026）]]为国家考试中具备心理测量意识的评分提供了一个具体模板：评分表各题得分从不直接相加，而是输入一个[[item-response-theory|IRT]]模型，其潜在能力估计用 Bookmark 标准设定方法切分为"达标 / 接近达标 / 不足"，且通过要求至少两节"达标"、其余一节至少"接近达标"。作者把该流水线以自动化形式复现（下切线为至少正确回答 7 道评分表题的概率 67%，上切线为至少 10 道），使 AI 与人工题项得分可以对照同一套判定标准比较，而非仅凭原始一致性。
+- **均衡的指标能抓住一个只是看起来已校准的模型。**让 GPT-4o 与 Gemini 2.0 Flash 从 153 名本科生的对话推断学习风格维度，产生了中等准确率，而按类别的召回率显示那其实是主导标签预测：Intuitive 与 Global 学习者被识别不足，少样本提示有时反而放大了偏差而非消除它（[[learning-style-inference-bias-student-ai-dialogues-2026|Zamanifard、Goudarzi 与 Robb（2026）]]）。
 
 ### 关联
 
@@ -63,14 +65,16 @@ ai_assist:
 
 ## 关联文章
 
-- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — A Human-in-the-Loop Framework for AI-Assisted Scoring in Large-Scale Writing Assessment
-- [[assessment-latent-structure-human-llm-2026]] — Do assessment instruments measure the same thing for humans and LLMs? (Strugatski et al. 2026)
-- [[llm-psychometric-calibration-cdp]] — Aligning LLM assessment with psychometric calibration
-- [[llm-item-difficulty-prediction]] — LLM prediction of item difficulty
-- [[cong-confidence-asag-2026]] — Confidence-aware automatic short-answer grading
-- [[multimodal-item-parameter-estimation-2026]] — Multimodal item-parameter estimation
-- [[competency-based-education-genai-production-2026]] — Competency-based education with GenAI
-- [[ai-grading-handwritten-physics-2026]] — AI grading of handwritten physics assessments (Olympiad)
-- [[razavi-powers-item-difficulty-llm-2026]] — Estimating item difficulty using LLMs and tree-based ML
-- [[ai-literacy-measurement-conceptual-landscape-llm-2026]] — Comparing AI literacy instruments: jangle and jingle pairs across 55 constructs
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — Student Use of LLMs and the Limits of AI-Generated Question Difficulty in Data Science Courses
+- [[genai-reliance-scale-problem-solving-2026]] — 一个经过验证的量表，用于测量学生在问题解决中对生成式 AI 的依赖（Hou et al. 2025）
+- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — A Human-in-the-Loop Framework for AI-Assisted Scoring in Large-Scale Writing Assessment：大规模写作评估中 AI 辅助评分的人在回路框架
+- [[assessment-latent-structure-human-llm-2026]] — Do assessment instruments measure the same thing for humans and LLMs? (Strugatski et al. 2026)：评估工具对人类与大语言模型测量的是否是同一东西？（Strugatski 等人 2026）
+- [[llm-psychometric-calibration-cdp]] — Aligning LLM assessment with psychometric calibration：让 LLM 评价与心理测量校准对齐
+- [[llm-item-difficulty-prediction]] — LLM prediction of item difficulty：LLM 的题目难度预测
+- [[cong-confidence-asag-2026]] — Confidence-aware automatic short-answer grading：置信度感知的自动简答评分
+- [[multimodal-item-parameter-estimation-2026]] — Multimodal item-parameter estimation：多模态项目参数估计
+- [[competency-based-education-genai-production-2026]] — Competency-based education with GenAI：生成式人工智能支持的胜任力导向教育
+- [[ai-grading-handwritten-physics-2026]] — AI grading of handwritten physics assessments (Olympiad)：手写物理评估（奥赛）的 AI 评分
+- [[razavi-powers-item-difficulty-llm-2026]] — Estimating item difficulty using LLMs and tree-based ML：用大语言模型与基于树的机器学习估计题目难度
+- [[ai-literacy-measurement-conceptual-landscape-llm-2026]] — Comparing AI literacy instruments: jangle and jingle pairs across 55 constructs：测绘 AI 素养工具语料：55 个构念、jangle 与 jingle 对、基于大语言模型的编码
+- [[student-llm-use-ai-question-difficulty-data-science-2026]] — Student Use of LLMs and the Limits of AI-Generated Question Difficulty in Data Science Courses：学生对 LLM 的使用与数据科学课程中 AI 生成题目难度的局限
+- [[learning-style-inference-bias-student-ai-dialogues-2026]] — 一旦检查按类别的召回率，中等准确率其实就是主导标签预测（Zamanifard、Goudarzi 与 Robb 2026）

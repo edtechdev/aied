@@ -1,7 +1,7 @@
 ---
 title: 动机
 created: "2026-08-10T17:38:45-04:00"
-updated: "2026-10-09T18:39:20-04:00"
+updated: "2026-10-24T15:01:07-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [motivation, self-determination-theory, student-engagement]
@@ -10,7 +10,7 @@ connected_faqs: [ai-anxiety-wellbeing, asynchronous-online-courses-ai]
 audience: [learners]
 confidence: high
 translation_of: concepts/motivation
-source_updated: "2026-10-03T12:32:09-04:00"
+source_updated: "2026-10-23T08:03:41-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -47,11 +47,15 @@ ai_assist:
 
 - **不加反思的使用侵蚀动机 —— 对男性尤甚。**不加思考地使用 GenAI（未经检验地接受答案）预测了 487 名本科生中更低的动机（β = −0.54）与更低的[[self-efficacy|自我效能]]（β = −0.37），且动机效应在男性学生中显著更强，自我效能效应在女性学生中更强（[[genai-thoughtless-use-self-directed-learning-2026|Zhao 与 Gu，2026]]）。
 
+- **削减挫折不等于维持动机。**一项三臂[[rct|RCT]]发现，有脚手架的导学系统与无限制的 ChatGPT 同等地削减了挫折（3.21 与 3.13 对 4.09），但只有有脚手架的导学系统提高了内在动机（2.82 对 2.42，p < .001）；ChatGPT 没有（2.64，p = .076）（[[bassner-performance-learning-dissociation-ai-programming-2026|Bassner 等（2026）]]）。
+
 读者为何伸手去拿 AI 本身就是一个可测的变量：AIR 量表把四种 GenAI 辅助阅读的动机区分出来 —— 任务导向、求好受、翻译与低努力 —— 只有低努力（在疲倦或脱离投入时使用 AI）与认知需求负相关（r = −.18）（[[air-scale-motivations-ai-reading-2026|Brann、Etgar 与 Sidi（2026）]]）。
 
 **AI 中介参与中的动机**考察动机的*质量*（而不只是数量）如何随 AI 改变。**[[students-engagement-with-generative-ai-in-academic-learning-a-self-determination|Isaeva 等]]**把自我决定理论与[[network-analysis|认知网络分析]]结合，研究对[[generative-ai|生成式 AI]]的参与。****[[liang-ai-learning-motivation-sdt-2026|Liang 等（2026）]]**通过对一个为期一年的 AI 课程中**2,086 名[[k-12|中学]]学生**的潜在转移分析，发展性地追踪了动机，发现三个稳定画像（脱离投入、发展中、自我决定），而达到自我决定画像预示了最大的[[ai-literacy|AI 素养]]增益。****[[wang-goal-setting-ai-engagement-2026|Wang 与 Wang（2026）]]**用目标设置理论研究了**758 名[[higher-ed|大学]]英语学习者**，表明**教师支持**主要通过掌握趋近与表现趋近目标（趋近、而非回避的目标取向）驱动 AI 辅助的参与。这些研究共同表明，AI 情境中的动机既是发展性的、也是社会地获得支撑的 —— 它随时间变化，并响应教师支持与目标框定，而不只是工具设计。
 
-目标取向也为工具的使用方式导向：掌握与规范性表现目标往往支持精加工与细化，而外观表现目标使努力最小化与保护被感知的胜任力更有可能 —— 因此同一个助手是支撑还是替代思考，取决于动机氛围（[[oby-chatgpt-use-learning-framework-2026|Øby，2026]]）。
+目标取向也为工具的使用方式导向：掌握与规范性表现目标往往支持精加工与细化，而外观表现目标使努力最小化与保护被感知的胜任力更有可能 —— 因此同一个助手是支撑还是替代思考，取决于动机氛围（[[oby-chatgpt-use-learning-framework-2026|Øby，2026]]）。奖励动机会钝化 AI 反馈的触及：对[[chatgpt-feedback-credibility-perceived-learning|Pérez-López 等（2026）]]而言，随着基于成绩的奖励敏感性升高，可信度与感知学习之间的联系减弱，在低、均值与高敏感性处简单斜率分别为 b = 0.733、0.607 与 0.483。
+
+制度性的生成式[[educational-policy-ai|AI 政策]]本身就是[[learners|学习者]]评价的一个压力源：[[gai-advocacy-practice-art-education-2026|Chen（2026）]]发现，大学的 GAI 倡导与其课堂实践之间的落差，在中国艺术与设计学生中同时提高了挑战性评价与阻碍性评价，对[[creativity|创造性]]过程参与产生相反的间接效应，而路径思维只放大了挑战这一路径。
 
 一种对话格式可以在不改善总体评价的情况下提高动机：在 222 名高一学生中，教师–教师对话比教师–学生格式更能提高具体经验高的学习者的 ARCS 动机（b = 0.162，p < .001），却在总体评价上显著更低（b = -0.126，p = .005）（[[tts-dialogue-lessons-learner-characteristics-2026|Watanabe 等（2026）]]）。
 
@@ -72,6 +76,8 @@ ai_assist:
 **努力悖论与辅助的恶性循环。****[[zohar-bloom-inzlicht-against-frictionless-ai-2026|Zohar、Bloom 与 Inzlicht（2026）]]**主张，动机不只是被 AI 帮助或阻碍，而是被重新分配：人类通常走阻力最小的路，却也主动寻求努力 —— 努力悖论 —— 因为努力标示着行动有意义，也因为附于过程而非产物的奖励增加了奋斗与坚持的倾向。两条主张随之而来。第一，努力–意义关系是一个倒 U，因此动机的目标是适度的摩擦，而无摩擦 AI 的风险是越过到太少。第二，一个恶性循环：当 AI 在一个领域中替代了努力，该领域努力带来的动机益处便侵蚀，这使用户更依赖 AI，从而进一步侵蚀动机。他们还按发展阶段把补充与替代分开 —— 处于较早阶段的学习者冒着绕过建构坚持不懈之经验的风险，而技能已确立者可以用 AI 省时间（[[desirable-difficulties|合意困难]]、[[self-efficacy|自我效能]]）。
 
 **文献在没有动机理论的情况下测量动机。**一项对 2003 至 2025 年 156 项研究的范围综述发现，133 项（85.3%）不受任何特定动机理论指引，最常见的变量是一般化学业动机（n = 89），且 88 项研究（56.4%）来自同一国家情境（[[ai-student-motivation-scoping-review-2026|Li 等，2026]]）。
+
+动机也作用于技术感知的上游，而不只是与之并行。在一个 340 名学生的物理样本中，效用价值预示了感知有用性（β = 0.43），内在价值预示了态度（β = 0.20），而感知成本降低了易用性（β = −0.16）与态度（β = −0.27），且没有通往意向的直接路径（[[high-school-genai-acceptance-tam-physics-2026|Xue、Xu、Qi 与 Lu（2026）]]）。
 
 ## 与相关概念的关联
 
@@ -95,8 +101,9 @@ ai_assist:
 
 ## 关联文章
 
+- [[high-school-genai-acceptance-tam-physics-2026]] — 期望与价值信念作为 GenAI 接纳的前因
 - [[liu-ai-assistance-reduces-persistence-2026]] — 简短的 AI 使用降低了在之后无辅助问题上的坚持性（Liu 等，2026）
-- [[jansen-argumentative-writing-feedback-receptivity-2026]] — Automated feedback on argumentative writing: The role of secondary students' feedback receptivity and feedback perception
+- [[jansen-argumentative-writing-feedback-receptivity-2026]] — 论证写作中的自动反馈：中学生反馈接受度与反馈感知的作用
 - [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — 努力悖论与无摩擦辅助的恶性循环
 - [[cui-motivation-roles-metacognitive-genai-2026]] — 元认知 GenAI 参与中的动机与角色
 - [[lee-wu-gender-motivation-genai-achievement-2026]] — 性别、动机与 GenAI 成绩轨迹
@@ -111,16 +118,18 @@ ai_assist:
 - [[scheu-mobile-chatbot-journaling-motivation-2026]]
 - [[framing-5-percent-problem-teachers-persistence]]
 - [[self-efficacy-tutoring-learning]]
-- [[guillen-curriculum-genai-teacher-competence-2026]] — Assessing Teacher Digital Competence for GenAI Curriculum Design (Guillén-Gámez 2026)
-- [[motivation-shape-future-education-ai-switzerland-china]] — Motivation to shape the future of education with AI
-- [[tts-dialogue-lessons-learner-characteristics-2026]] — Learner characteristics × TTS dialogue-format interactions
-- [[student-perceptions-ai-study-productivity-2026]] — Students' Perceptions of Artificial Intelligence Tools for Study Productivity and Learning: An Exploratory Survey Study
+- [[guillen-curriculum-genai-teacher-competence-2026]] — 评估教师数字胜任力以进行 GenAI 课程设计（Guillén-Gámez 2026）
+- [[motivation-shape-future-education-ai-switzerland-china]] — 用 AI 塑造教育未来的动机
+- [[tts-dialogue-lessons-learner-characteristics-2026]] — 学习者特征 × TTS 对话格式的交互作用
+- [[student-perceptions-ai-study-productivity-2026]] — 学生对人工智能工具用于学习生产力与学习的看法：一项探索性调查研究
 - [[liang-ai-learning-motivation-sdt-2026]] — 学生 AI 学习动机的 SDT 潜在转移分析（2,086 名中学生）
 - [[wang-goal-setting-ai-engagement-2026]] — 目标设置理论：教师支持、成绩目标与 AI 辅助英语学习中的参与（758 名中国学生）
-- [[utility-value-intervention-teach-responsibly-genai-2026]] — Utility-value intervention effects in learning to teach responsibly with GenAI (Boos, Eder & Lachner 2026)
+- [[utility-value-intervention-teach-responsibly-genai-2026]] — 学习负责任地使用 GenAI 教学中的效用价值干预效应（Boos、Eder 与 Lachner，2026）
 - [[genai-writing-program-primary-l2-motivation-engagement]] — 初等 L2 GenAI 写作项目中构念特定的动机增益（Lu 等，2026）
 - [[air-scale-motivations-ai-reading-2026]] — AIR 量表：阅读时伸手取用 AI 的四种动机族
 - [[genai-math-relevance-intervention-2026]] — GenAI 相关性对话提高了作为认同的相关性，却使课程兴趣持平
 
 - [[genai-learning-motivation-meta-analysis-2026]] — GenAI 对学习动机效应的随机效应元分析（56 个效应量，6,059 名学生）
 - [[ai-student-motivation-scoping-review-2026]] — 156 项关于 AI 与学生动机的研究：85.3% 未使用动机理论，且构念、层级与国家的覆盖狭窄
+- [[gai-advocacy-practice-art-education-2026]] — GAI 倡导中的政策与实践落差充当学生评价的压力源
+- [[bassner-performance-learning-dissociation-ai-programming-2026]] — 有脚手架的导学系统在无限制的 ChatGPT 未能做到之处提高了内在动机

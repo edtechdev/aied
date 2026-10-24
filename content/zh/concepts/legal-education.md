@@ -1,7 +1,7 @@
 ---
 title: "法律教育"
 created: "2026-09-18T05:10:00-04:00"
-updated: "2026-10-09T19:06:58-04:00"
+updated: "2026-10-24T15:05:00-04:00"
 type: concept
 foundations: [academic-integrity, critical-thinking, reducing-ai-misuse]
 pedagogy: [career-development-and-readiness, experiential-learning, professional-training, socratic-method]
@@ -15,7 +15,7 @@ audience: [instructors, curriculum designers, administrators, researchers]
 page_kind: [synthesis]
 confidence: medium
 translation_of: concepts/legal-education
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-16T06:18:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -69,6 +69,8 @@ Gutowski 与 Hurley 用 0–5 分制量规从五个维度评估政策：**禁止
 
 **评价效度与专业胜任力不可分割。** 人们担心法学院期间的[[cognitive-offloading|过度依赖]]会让毕业生对需要独立法律分析与辩护的工作准备不足，而奖励流畅产出的评分无法区分学生的理解与模型的理解。因此，[[assessment-validity|效度]]问题不是书斋里的问题。
 
+在一项法律情境实验中，仲裁庭民事案件中的 186 名非专业决策者在系统不给出自身立场时，远较少地屈从于错误的 AI 立场（5.7–8.2% 对比 42.0–60.5%），但并未因此建立起可测量的判断力：这是保护性的而非纠正性的，且测量对象是非专业决策者而非法学生（[[tuo-armada-multi-agent-debate-overreliance-2026|Tuo 等，2026]]）。
+
 **披露规范尚未确定，且事关重大。** Gutowski 与 Hurley 报告了关于是否必须披露任何 AI 使用的分歧、关于学生披露表的提议，以及引注实践上并无共识——Bluebook 对如何引注生成式 AI 仍保持沉默。他们还预言，披露要求终将显得与"注明学生用了搜索引擎"一样无意义，这是对当下正在写下的规则的有效期所作的预言。
 
 **职业伦理随毕业生而行。** ABA 的技术胜任义务，以及关于保密、督导与对法庭坦诚的指引，适用于使用这些工具的执业律师，而法学院继承了教它们的职责。这就是为什么该学科直接连通知识库中关于[[ai-use-disclosure|AI 使用披露]]以及关于[[legal-issues-and-risks|法律问题与风险]]的工作——后者出现在机构治理 AI 不当时。
@@ -100,3 +102,4 @@ Gutowski 与 Hurley 用 0–5 分制量规从五个维度评估政策：**禁止
 
 - [[gutowski-hurley-genai-policy-legal-education-2025]] — 法学院生成式 AI 政策的五因素比较与一个治理框架
 - [[llm-turing-test-italian-legal-exams-2026]] — 对意大利律师、法官与公证人考试的盲测图灵测试，以专家评分作为基准
+- [[tuo-armada-multi-agent-debate-overreliance-2026]] — 在系统不给出自身立场时，非专业决策者对错误 AI 立场的屈从大幅减少

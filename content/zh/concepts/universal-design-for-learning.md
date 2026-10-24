@@ -102,9 +102,9 @@ UDL把"修补学习者"变为"修补设计"。对使用AI的教师与设计者�
 
 ## 关联文章
 - [[seung-basham-cognitive-offloading-swld-2026]] — 面向学习障碍学生的GenAI认知外包
-- [[authentic-products-authenticated-processes-2026]] — From Authentic Products to Authenticated Processes
-- [[tactile-statistical-graphs-accessibility]] — Tactile Statistical Graphs for Accessibility
-- [[neurodivergent-computing-students]] — Neurodivergent Computing Students
-- [[ai-learning-tools-engineering-education-needs]] — Designing Needs- and Attention-Aware AI Learning Tools
-- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — Generative AI, virtual reality, and beyond: A scoping review of digital assistive technologies for neurodivergent students in higher education
-- [[faculty-accessible-course-design-ai-2026]] — “AI is reducing options I had used”: exploring faculty perceptions of accessible course design in a ChatGPT world
+- [[authentic-products-authenticated-processes-2026]] — 从真实作品到经过验证的过程
+- [[tactile-statistical-graphs-accessibility]] — 面向可及性的触觉统计图表
+- [[neurodivergent-computing-students]] — 神经多样性计算学生
+- [[ai-learning-tools-engineering-education-needs]] — 设计需求与注意感知的 AI 学习工具
+- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — 生成式 AI、虚拟现实及其后：面向高等教育中神经多样性学生的数字辅助技术范围综述
+- [[faculty-accessible-course-design-ai-2026]] — 《AI is reducing options I had used》：探索教授对 ChatGPT 世界中可及课程设计的感知

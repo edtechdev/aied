@@ -1,7 +1,7 @@
 ---
 title: 学习收益
 created: "2026-08-09T16:52:03-04:00"
-updated: "2026-10-09T18:39:21-04:00"
+updated: "2026-10-24T15:00:00-04:00"
 type: concept
 assessment: [assessment]
 audience: [learners]
@@ -12,7 +12,7 @@ confidence: high
 methods: [ai-ed-evaluation]
 reviewed_by: [editor]
 translation_of: concepts/learning-gains
-source_updated: "2026-10-12T09:45:00-04:00"
+source_updated: "2026-10-16T08:47:09-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -71,6 +71,7 @@ ai_assist:
 - **感知效力与实际效力分岔。**[[ai-literacy-assessment-misalignment|自报表现与测得表现错位]]，[[absent-cognitive-baseline-2026|缺席的认知基线]]表明 AI 原住民学生高估自己的学习——因此基于自报的效力主张在没有客观结果测量时不可靠。[[self-report-measures]]汇集了报告与测得结果相分离的案例。
 
 - **收益可以来自重配教师时间，而非来自 AI 评分。**在一项横跨 178 所巴西学校（约 19,000 名高三学生）的随机实验中，AI 与人工作文评分产生相同的考试收益，但 AI 课堂多了约 35% 关于写作的一对一师生对话，且最底四分位在两种条件下都没有改善（[[ai-changing-teaching-workflows|Ler，2026]]）。
+- **在教师中介的 AI 中，移动收益的是备课，而不是工具本身。**在巴西 19 个公立学校的算术课堂中，由受过培训的教师授课的学生优于对照组，但在该培训之上加入 AIED-U 系统并未带来进一步的学习收益，且教师工作量与收益呈负相关（[[rodrigues-aied-unplugged-numeracy-2026|Rodrigues 等（2026）]]）。
 
 **要点：**证据的分量支持来自 AI 的**适度、有条件、依设计而定的学习收益**——当 AI 被结构化为教练而非答案、带护栏、并与无辅助结果测量配对时是真实的，而当它替代学习者自身努力时则缺席或为负。这就是为何学习收益作为结果必须用有效的、抗 AI 的工具测量，以及为何[[ai-ed-evaluation]]把效力主张与[[research-methods-aied|方法性]]审视配对。
 
@@ -180,9 +181,10 @@ ai_assist:
 - [[gpt4-feedback-student-activation-2026]]
 - [[rachatasumrit-example-problem-ratio-2026]]
 - [[oppenheimer-llms-collaborative-learning-partners-2026]]
-- [[weidlich-chatgpt-effect-search-cause-2025]] — ChatGPT in Education: An Effect in Search of a Cause（对收益测量的媒体比较批评）
+- [[weidlich-chatgpt-effect-search-cause-2025]] — ChatGPT 进课堂：一个尚在寻找原因的效应（对收益测量的媒体比较批评）
 - [[bartos-ai-learning-meta-meta-analysis-2026]] — 元元分析：经偏见校正的 AI 学习收益效应约为所报规模的 1/3
 - [[oneill-presumed-effective-meta-analysis-2026]] — Presumed Effective：对有缺陷的 AIED 元分析的审计
 - [[ai-supported-instruction-stem-meta-analysis-2026]] — 一项控制了相依效应量并检验了发表偏见但未做质量评估的 STEM 综合（Doğan 等人 2026）
 - [[ai-education-effects-second-order-meta-analysis-2026]] — 对 45 项教育 AI 元分析的二阶元分析，带重叠校正效应与对合成层的质量评估（Emslander 等人 2026）
 - [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench：AI 与人类辅导产生等效的 GRE 学习收益
+- [[rodrigues-aied-unplugged-numeracy-2026]] — 在教师中介的 AI 中，移动收益的是备课，而不是工具本身

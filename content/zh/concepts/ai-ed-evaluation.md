@@ -1,7 +1,7 @@
 ---
 title: 人工智能教育评价
 created: "2026-05-29T10:44:35-04:00"
-updated: "2026-10-09T18:39:23-04:00"
+updated: "2026-10-24T14:21:43-04:00"
 type: concept
 foundations: [agentic-ai, teacher-role]
 technology: [generative-ai, human-in-the-loop-ai, llm]
@@ -12,7 +12,7 @@ connected_faqs: [top-10-findings-ai-education-instructors, research-gaps-aied, d
 confidence: high
 methods: [benchmark]
 translation_of: concepts/ai-ed-evaluation
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-23T09:20:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -46,6 +46,7 @@ ai_assist:
 - **输出可靠性与基准真值：** [[ground-truth-reliability-aied|基准真值现代化]]论证，人工智能教育评价中的可靠性问题往往可追溯到参照数据本身 — 即系统被评判所依据的“基准真值”标签 — 并提出四项转向以改进可靠性与效度。[[calibrating-trustworthiness-llm-education-2026|校准可信度]]与利益相关者共同设计评价指标与可视化，使对一个人工智能工具的信任建立在可展示的、可解释的证据之上。
 - **自动评分与打分：** [[cong-confidence-asag-2026|大语言模型简答题评分]]、[[cong-confidence-asag-2026|置信度感知的 ASAG]]、[[cotal-formative-assessment-scoring-2026|CoTAL 人在环提示工程]]与[[llm-cognitive-diagnosis-handwritten-math|手写数学的认知诊断]]表明，大语言模型可以评分与诊断，但可靠性取决于[[human-in-the-loop-ai|人类监督]]、领域特定的 grounding 与置信度校准，而非原始模型规模。
 - **一个针对教学知识而非内容的基准。** [[cdpk-pedagogy-benchmark-llms|Lelièvre 等人（2025）]]用智利教师资格考题给 97 个模型打分（CDPK 28–89%），许多超过估计约 50% 的人类基线，然而静态选择题无法测试课程规划或逐轮脚手架。
+- **识别不等于生成。** 在 TutorCaseBench 上，11 个模型中最好的一个在四选项题目上有 63.0% 选出了有文献记录的策略，却只在 55.8% 的自由作答案例中满足有文献记录的干预，因此策略选择分数高估了导师的就绪度（[[tutor-case-bench-challenging-behaviors-2026|Park 等（2026）]]）。
 - **对照心理测量基准验证生成的题目。** [[assessing-quality-ai-generated-exams-field-2025|Isley 等人（2025）]]为 71 个班级生成了按课程定制的考试，并把另外 20 个对照人类编写的 AP 统计题目做基准测试，用预测试锚定跨 1,686 名学生拟合贝叶斯分层 2PL [[item-response-theory|IRT]] 模型；人工智能题目更容易但区分度更高（ᾱ = 1.3 对 1.2）。
 - **教学质量与对齐：** [[machines-misread-pedagogical-quality|机器为何误读教学质量]]记录了判断什么使教学良好时的人—机失配，而[[tutoring-effectiveness-index|辅导有效性指数]]从教学行为预测导师质量。[[responsible-assessment-ai-era-stanford-2026|人工智能时代的负责任评估]]与[[authentic-products-authenticated-processes-2026|认证过程]]论证，评价必须超越正确答案，触及当人工智能能产出学习的“产物”时评估是否仍真实、有效、可辩护。
 - **生产监控与评判者校准：** [[llm-judge-evaluation-educational-ai-2026|Rohlfs 等人（2026）]]报告了当“以大语言模型为评判者”的评价在产品规模上运行时会发生什么，依托一个每月服务数百万师生消息的 K-12 套件。随着项目成熟，假阳性开始主导评价者的标记，并使分析师注意力偏离值得产品变更的失效。三项改变 — 重复评判运行的“一致失败”评审组、按评价者选择评判模型、以及软化的评分规则 — 把确认的假阳性削减 99%，并把每条标记的精确率从 0.6% 提高到 49%（覆盖 21 个已部署评价者），而一个严重失效集保持了 100% 的捕获。对评价实践的教训是：决定一条标记是否可行动的是评价者的工作点，而非其头条准确率。
@@ -67,6 +68,8 @@ ai_assist:
 **聚合准确率掩盖了谁被服务得很差。** [[drawedumath-vlm-struggling-students-2026|对视觉语言模型在 DrawEduMath 上的评价]]表明，总体准确率掩盖了一种系统性弱点：模型恰恰在最需要教学帮助的学生作品（错误的、挣扎中的学生作品）上表现较差，因此按学生能力与错误状态拆分评价是必要的，以避免高估能力并扩大成就差距。
 
 **二元正确性掩盖了真正要紧的失效。** 在一个 10,836 个模拟配对的三向步骤诊断基准上，七个大语言模型导师以近乎完美的程度分类最优步骤（F1 94–99%），但对有效替代方案只有 F1 0–76%、对错误步骤只有 4–55% — 过度拒绝与过度验证 — 而准确的诊断仍不产生可行动的反馈（[[yasir-llm-tutoring-agents-2026|Yasir 等人（2026）]]）。
+
+- **扰动对照揭示一个模型实际使用了哪些证据。** 在 VIRA-Bench 中，11 个模型中最好的一个回答了 61.3% 的辅导视频问题，而专家参照为 91.0%；移除视频与打乱其顺序分别损害了不同的问题层级，这比另一个聚合分数是更廉价的诊断（[[vira-bench-pedagogical-contingency-tutoring-videos-2026|Wang 等（2026）]]）。
 
 - **复用人类工具来评价大语言模型需要一次潜在结构检查。** [[assessment-latent-structure-human-llm-2026|Strugatski 等人（2026）]]分别为人类与六个多模态大语言模型拟合探索性因子分析：在两个工具上，大语言模型—人类一致性都低于人类—人类基线，且平行分析保留了不同的因子个数（人类五个对大语言模型四个）。
 - **联合评价浮现出单一分数隐藏的权衡。** [[elbench-education-llm-benchmark-2026|Jiang 等人（2026）]]在同一协议下为九个面向教育的模型在能力、安全、基础教育与高阶培养上评分：前六名总体上统计不可区分，却在安全上相差 19.5 分，且安全与基础教育强烈负相关（r = −0.83）。
@@ -98,6 +101,7 @@ ai_assist:
 - **你选择的指标可能逆转你的结论。** [[zhang-platform-scores-miss-ai-teaching-agents-2026|Zhang 等人（2026）]]在[[medical-education|医学教育]]中评价人工智能教学代理时发现，一个[[edtech-platform|教育平台]]未公开的聚合分数把代理的排序几乎与一个透明的、经专家验证的八维教学质量评分规则（医学知识准确性、教学指导、知识覆盖、角色扮演质量、适应性难度、医学安全、参与度、反馈）相反。平台分数索引学生表现；评分规则索引代理的教学行为 — 选错指标决定了哪些代理被采纳或精炼。他们还发现“以大语言模型为评价者”的宽松度随模型而异（有些过于宽松而无法区分），因此自动评分需要人类校准，且在认知过程维度上最可信。
 - **错误率可能掩盖它意在捕捉的失效。** [[ai-mediated-input-medical-english-asr-2026|Stanchev（2026）]]把一段医学英语段落的语音录音发给四个[[speech-and-voice-technologies|ASR]]服务：两个免费服务返回了参照的 87.96% 与 88.34%，而两个付费服务返回 32.76% 与 55.35% 的预览，因而词错误率为 73.21% 与 48.77%。高错误率来自从未返回的词元而非被听错的词元，因此仅按错误率排名把一项导出限制当成了转写失败。只要自动指标替代学习者所见之物，覆盖率就应与错误率并列出现。
 - **把评价套件锚定于测得的学习，而非替代物。** 教学能力基准、对话教学评分规则与导师延迟应针对实际学习增益验证，而非被当作它们的替代物；而延迟本身是一条评价轴，因为它塑造学生是否根本参与（[[studentbench-ai-human-tutoring-gre-2026|Northcutt 等人（2026）]]）。
+- **一幅文献计量地图可以揭示一种评价文化所奖励的东西。** 在 1,403 篇医学教育出版物中，被引用最多的作品测量的是模型能力，尤其是 ChatGPT 在执业考试上的表现，而[[governance|治理]]研究滞后，因此作者呼吁对治理框架做实证评价，而非更多能力测试（[[sriram-ethical-ai-medical-education-bibliometric-2026|Sriram 等（2026）]]）。
 - **专家判断评价需要自己的可靠性核算。** [[bespoke-industry-personalized-lecture-videos-2026|Puech 等人（2026）]]让 25 位领域匹配的专家对照锚定于“一堂标准慕课质量”的评分规则为 92 段生成的[[video-education|讲座视频]]评分，判定 87% 达到或高于门槛（均值 3.42/5）。每段视频由一位评审者评分一次（k = 1），因此该设计以牺牲一个评分者间一致性统计为代价把评审组铺开在语料上；一个随机截距模型把约 35% 的残差方差归于评审者（ICC = 0.35），论文报告的是以评审者聚类的区间而非单一精确度数字。建立在专家判断上的评价，其强度只相当于它所发表的可靠性分析。
 
 ## 关联概念
@@ -123,6 +127,8 @@ ai_assist:
 
 ## 关联文章
 
+- [[tutor-case-bench-challenging-behaviors-2026]] — TutorCaseBench：在有挑战行为的学生身上评价大语言模型导师（Park 等 2026）
+- [[vira-bench-pedagogical-contingency-tutoring-videos-2026]] — VIRA-Bench：诊断在线辅导视频中的教学临场应对理解
 - [[zhang-platform-scores-miss-ai-teaching-agents-2026]] — 平台分数漏掉了什么：对人工智能教学代理的多维评价
 - [[assessment-latent-structure-human-llm-2026]] — 评估工具对人类与大语言模型测量的是否是同一东西？（Strugatski 等人 2026）
 - [[assessing-quality-ai-generated-exams-field-2025]] — 评估人工智能生成考试的质量：一项大规模实地研究
@@ -132,33 +138,34 @@ ai_assist:
 - [[cdpk-pedagogy-benchmark-llms]] — 对大语言模型教学知识做基准测试（CDPK + SEND）
 - [[melo-llm-classroom-observation-teach-2026]] — 大语言模型课堂观察验证：可靠性与准确性（Melo 等人 2026）
 - [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — 本地 OER 人工智能知识库助手：多维评价
-- [[ground-truth-reliability-aied]] — Modernizing Ground Truth: Four Shifts Toward Improving Reliability and Validity
-- [[calibrating-trustworthiness-llm-education-2026]] — Calibrating Trustworthiness: Co-Designing Metrics and Visualizations
-- [[teachbench-llm-teaching-evaluation]] — TeachBench: Evaluating LLM Teaching Ability
-- [[machines-misread-pedagogical-quality]] — Why Machines Misread Pedagogical Quality: Human-Machine Alignment
-- [[cong-confidence-asag-2026]] — Automatic Short Answer Grading With LLMs
-- [[cotal-formative-assessment-scoring-2026]] — CoTAL: Human-in-the-Loop Prompt Engineering for Formative Assessment
-- [[llm-cognitive-diagnosis-handwritten-math]] — Benchmarking LLMs for Diagnosing Students' Cognitive Skills
-- [[tutoring-effectiveness-index]] — The Tutoring Effectiveness Index: Predicting LLM Math Tutor Quality
-- [[jeon-isd-agent-bench-2026]] — ISD Agent Benchmark
-- [[tool-invariant-framework-agentic-ai]] — A Tool-Invariant Framework for Teaching and Assessing Computational Methods
-- [[valid-student-simulation-llm-2026]] — Toward Valid Student Simulation With Large Language Models
-- [[llm-difficulty-calibration-programming-exams-2026]] — From Evaluated Models to Evaluation Aids
-- [[socratic-tests-conversational-assessment]] — The Theoretical Foundation of Socratic Tests
-- [[responsible-assessment-ai-era-stanford-2026]] — Responsible Assessment in the AI Era
-- [[authentic-products-authenticated-processes-2026]] — From Authentic Products to Authenticated Processes
-- [[genai-educational-outcomes-meta-analysis]] — Meta-analysis of generative AI educational outcomes
-- [[zhang-tutormoments-2026]] — When Help is Unhelpful: evaluating AI tutors for productive struggle
-- [[elbench-education-llm-benchmark-2026]] — ELBench: education LLM benchmark
-- [[ai-grading-handwritten-physics-2026]] — AI grading of handwritten physics assessments (Olympiad)
-- [[distilling-self-explaining-lm-learning-analytics-2026]] — Distilling self-explaining LM for learning analytics
-- [[burneo-can-edtech-close-learning-gaps-2026]] — Meta-analytic evaluation of adaptive + AI EdTech
-- [[xiong-ai-educational-measurement-review-2026]] — AI's role across scoring, psychometrics, assessment
-- [[ai-tutoring-micro-rct-gcse-science-2026]] — Evaluating AI Tutoring at the Speed of Innovation: Practitioner-Led Micro-Randomized Trials of an AI Tutoring Platform in GCSE Science
-- [[proiqa-math-item-quality-assessment-2026]] — ProIQA: Process-Based Math Item Quality Assessment
-- [[durable-skills-measurement-ai-teammates-2026]] — Toward Scalable Measurement of Durable Skills
-- [[pivot-generative-video-tutors-stem-2026]] — From Content Generation to Learning Support: Pedagogy-Guided Generative Video Tutors for STEM Learning
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: AI and human tutoring yield equivalent GRE learning gains
-- [[synthetic-educational-data-structural-fidelity-2026]] — What Fidelity Metrics Miss: A Structural Check on Synthetic Educational Data
-- [[bloom-classifier-ai-assisted-questions-2026]] — Evaluation of pre-trained models for pedagogical assessment of novel AI-assisted educational questions
-- [[llm-judge-evaluation-educational-ai-2026]] — When Evaluators Cry Wolf: Lessons from Production LLM-as-Judge Evaluation in Educational AI
+- [[ground-truth-reliability-aied]] — 基准真值现代化：迈向更高可靠性与效度的四项转向
+- [[calibrating-trustworthiness-llm-education-2026]] — 校准可信度：与利益相关者共同设计评价指标与可视化
+- [[teachbench-llm-teaching-evaluation]] — TeachBench：评价大语言模型的教学能力
+- [[machines-misread-pedagogical-quality]] — 机器为何误读教学质量：人—机对齐
+- [[cong-confidence-asag-2026]] — 用大语言模型做简答题自动评分
+- [[cotal-formative-assessment-scoring-2026]] — CoTAL：面向形成性评估的人在回路提示工程
+- [[llm-cognitive-diagnosis-handwritten-math]] — 为诊断学生认知技能对大语言模型做基准测试
+- [[tutoring-effectiveness-index]] — 辅导有效性指数：预测大语言模型数学导师的质量
+- [[jeon-isd-agent-bench-2026]] — ISD 智能体基准
+- [[tool-invariant-framework-agentic-ai]] — 一个工具无关的框架：在智能体式 AI 时代教授与评估计算方法
+- [[valid-student-simulation-llm-2026]] — 用大语言模型走向有效的学生模拟
+- [[llm-difficulty-calibration-programming-exams-2026]] — 从被评价的模型到评价辅助手段
+- [[socratic-tests-conversational-assessment]] — 苏格拉底式测验的理论基础
+- [[responsible-assessment-ai-era-stanford-2026]] — AI 时代的负责任评估
+- [[authentic-products-authenticated-processes-2026]] — 从真实产物到经认证的过程
+- [[genai-educational-outcomes-meta-analysis]] — 生成式 AI 教育结果的元分析
+- [[zhang-tutormoments-2026]] — 当帮助变得无益：为生产性挣扎评价 AI 导师
+- [[elbench-education-llm-benchmark-2026]] — ELBench：教育大语言模型基准
+- [[ai-grading-handwritten-physics-2026]] — 手写物理评估（奥赛）的 AI 评分
+- [[distilling-self-explaining-lm-learning-analytics-2026]] — 为学习分析蒸馏自我解释的大语言模型
+- [[burneo-can-edtech-close-learning-gaps-2026]] — 自适应 + AI 教育技术的元分析评价
+- [[xiong-ai-educational-measurement-review-2026]] — AI 在评分、心理测量与评价中的跨领域角色
+- [[ai-tutoring-micro-rct-gcse-science-2026]] — 以创新的速度评价 AI 辅导：GCSE 科学中一个 AI 辅导平台的实践者主导微随机试验
+- [[proiqa-math-item-quality-assessment-2026]] — ProIQA：基于过程的数学题目质量评估
+- [[durable-skills-measurement-ai-teammates-2026]] — 迈向可持续技能的可规模化测量
+- [[pivot-generative-video-tutors-stem-2026]] — 从内容生成到学习支持：面向 STEM 学习的教学法引导式生成视频导师
+- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench：AI 与人类辅导产生相当的 GRE 学习增益
+- [[synthetic-educational-data-structural-fidelity-2026]] — 保真度指标漏掉了什么：对合成教育数据的结构性检查
+- [[bloom-classifier-ai-assisted-questions-2026]] — 用预训练模型对新型 AI 辅助教育题目做教学评价
+- [[llm-judge-evaluation-educational-ai-2026]] — 当评价者谎报狼来了：来自教育 AI 中生产环境“以大语言模型为评判者”评价的教训
+- [[sriram-ethical-ai-medical-education-bibliometric-2026]] — 一幅文献计量地图可以揭示一种评价文化所奖励的东西

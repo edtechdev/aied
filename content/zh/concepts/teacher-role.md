@@ -1,7 +1,7 @@
 ---
 title: 教学
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-09T18:39:21-04:00"
+updated: "2026-10-24T17:00:00-04:00"
 type: concept
 foundations: [ai-literacy, educational-development, learning-design, teacher-ai-competency]
 pedagogy: [scaffolding]
@@ -11,7 +11,7 @@ level: [k 12, higher ed]
 connected_faqs: [top-10-findings-ai-education-instructors, ai-save-instructor-time, faculty-ai-competencies, faculty-development-ai, asynchronous-online-courses-ai, making-simulated-students-behave-like-learners]
 confidence: high
 translation_of: concepts/teacher-role
-source_updated: "2026-10-15T08:25:00-04:00"
+source_updated: "2026-10-22T12:02:21-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -125,6 +125,7 @@ ai_assist:
 - **使用披露与框定。**[[framing-ai-use-for-students|如何为学生框定人工智能的使用]]——是拐杖还是正当工具——塑造了他们是否披露它。[[explainable-ai|透明]]规范（例如披露人工智能使用）降低了隐藏使用的动机。
 - **把作弊的激励设计掉。**真实性的、基于过程的、现场的评估（口试、[[eportfolio|作品集]]、被观察的[[problem-solving]]）比人工智能检测工具更能降低外包的吸引力。[[ai-assessment-scale-reform|评估量表]]与[[authentic-assessment]]是[[ai-detection|检测]]军备竞赛的建设性替代。
 - **任务层面的[[regulation]]是教师实际治理人工智能的方式。**[[chirikov-regulate-ai-syllabi-2026|Chirikov（2026）]]对 31,000 多份课程大纲的研究显示，教师日益扮演*任务层面的监管者*而非套用一刀切的规则：他们在起草/修改（79% 的课程）和推理/解题（65%）上限制人工智能，在编辑/校对（83%）和学习支持（80%）上允许，而构思/规划则最有争议（46% 允许 / 54% 限制）。这种差异化——建立在哪些任务被人智能取代、哪些被人智能增强之上——是一条具体的、由教师驱动的、替代"要么采纳要么禁止"政策之路，并把教师角色置于[[educational-policy-ai|政策]]形成的中心位置。
+- **临时教师承担了批改负担，却没有相应的授权。**二十名临时（casual）学者中，有些同时在三个或更多机构任教，他们描述了自己以未受训练的技艺察觉学术不端，却握有零课程或政策权威（[[sessional-academics-contract-cheating-digital-misconduct-2026|Andriamora 与 Andriamora，2026]]）。
 
 ## 把教学与学习设计相连接
 
@@ -184,6 +185,7 @@ ai_assist:
 
 - [[caeo-navigating-ai-educational-future-scenarios-2026]] — 更有人性的悖论：专家的 2030 年情景发现，人工智能的饱和是强化而非取代人类的教学工作（Malyn-Smith 等，2026）
 - [[teachers-instrumental-orchestration-ai-math-2026]] — 六节被观察的高中数学课以三种新类型扩展了工具性编排（Noh 与 Kim，2026）
+- [[sessional-academics-contract-cheating-digital-misconduct-2026]] — 临时教师以未受训练的技艺察觉不端，却没有课程或政策权威
 - [[ai-emotional-alerts-teachers-mathematics-classroom-2026]] — 回应人工智能生成的情绪告警：数学课堂中教师的干预与学生的投入
 
 - [[edustories-classroom-case-studies-2026]] — Edustories：来自课堂实践的 真实世界案例集

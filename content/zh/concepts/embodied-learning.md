@@ -1,14 +1,14 @@
 ---
 title: 具身学习
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-10-09T18:58:10-04:00"
+updated: "2026-10-24T16:40:00-04:00"
 type: concept
 foundations: [computational-thinking]
 pedagogy: [active-learning, embodied-learning, situated-learning]
 technology: [educational-robotics]
 confidence: high
 translation_of: concepts/embodied-learning
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-23T22:31:18-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -49,6 +49,7 @@ ai_assist:
 - **作为设计原则的具身 AI。****E3-HOT 框架**主张，要维持学习者的认知能动性和[[critical-thinking|高阶思维]]（而不是鼓励[[cognitive-offloading|认知外包]]），AI 应当在虚实融合的学习环境内围绕*具身智能*——情境嵌入、具身参与和认知创造——来设计。（[[zhu-e3-hot-embodied-intelligence-sustainable-learning]]）
 - **去具身[[generative-ai|生成式 AI]]的局限。** 后认知主义学术论证，当前的 GenAI 系统缺乏本体感觉、多模态能动性和具身实践，并倡导一种扎根于情境性、涌现性和感觉运动耦合的"具身 AI"，为人—[[student-ai-interaction|AI 交互]]提出一种知觉—[[affective-computing|情感]]编舞。（[[videla-embodied-ai-education-choreography]]）
 - **具身、情境性与社会建构。** 在[[science-education|科学学习]]中，AI 工具作为"中介人工物"发挥作用，使数字实践共同体和跨界成为可能，把具身的、真实的探究连接到真实世界和跨学科语境。（[[li-ai-science-situated-learning-teachers-2025]]）这把具身性连接到[[situated-learning]]和[[distributed-cognition]]。
+- **身体追踪把调节变成可测量的信号。**在一个混合现实的光合作用模拟中，运动标签让学生智能体在一个投影模型上移动，一个 LLM 流水线在 40 分钟视频中标注了 470 段自我调节行为，其中 enacting 占 66.4%（[[fonteles-embodied-learning-human-in-the-loop-multimodal-2026|Fonteles 等人，2026]]）。
 
 具身学习连接到[[educational-robotics]]、[[educational-robotics]]、[[educational-robotics]]、[[active-learning]]、[[experiential-learning]]、[[situated-learning]]、[[distributed-cognition]]、[[computational-thinking]]和[[social-emotional-learning]]。
 
@@ -66,13 +67,14 @@ ai_assist:
 - [[virtual-and-augmented-reality]] — 试图直接利用具身性的那个模态
 
 ## 关联文章
-- [[multimodal-embodied-cognition-oral-explanations-2026]] — A Multimodal Framework for Embodied Cognition in Oral Explanations
-- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Fostering Sustainable Learning via Embodied Intelligence (E3-HOT)
-- [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly Studio
-- [[motibo-digital-storytelling-robots-motivation-2026]] — MotiBo
-- [[remind-robot-mediated-roleplay-antibullying-2026]] — REMind
-- [[pepper-robot-sign-language-lis-2025]] — Pepper and Sign Language
-- [[enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen]] — Robot-LLM Integration in Creative Writing
+- [[fonteles-embodied-learning-human-in-the-loop-multimodal-2026]] — 身体追踪在混合现实中把自我调节变成可测量的信号（Fonteles 等人 2026）
+- [[multimodal-embodied-cognition-oral-explanations-2026]] — 口语解释中具身认知的多模态框架
+- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — 通过具身智能促进可持续学习（E3-HOT）
+- [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly 具身积木编程
+- [[motibo-digital-storytelling-robots-motivation-2026]] — MotiBo：交互式数字故事讲述机器人与学生动机
+- [[remind-robot-mediated-roleplay-antibullying-2026]] — 用于旁观者干预的机器人中介角色扮演游戏（应用戏剧）
+- [[pepper-robot-sign-language-lis-2025]] — 支持手语交流的 Pepper 机器人
+- [[enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen]] — 机器人 LLM 集成与创意写作
 - [[robot-assisted-language-learning-meta-analysis-2026]] — 对 AI 增强的具身机器人辅助语言学习的元分析
 - [[vargas-situated-learning-ai-review-2024]]
 - [[li-ai-science-situated-learning-teachers-2025]]

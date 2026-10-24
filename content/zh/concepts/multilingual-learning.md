@@ -2,14 +2,14 @@
 connected_resources: [mglearn]
 title: 多语言学习
 created: "2026-08-19T09:55:00-04:00"
-updated: "2026-10-09T18:58:14-04:00"
+updated: "2026-10-24T15:45:00-04:00"
 type: concept
 technology: [llm]
 ethics: [culturally-relevant-pedagogy, digital-divide, equity-in-ai-education, global-south, inclusive-learning, multilingual-learning]
 discipline: [language learning]
 confidence: medium
 translation_of: concepts/multilingual-learning
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-23T09:49:58-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -49,6 +49,8 @@ ai_assist:
 
 多语言 AI 必须超越翻译，体现[[culturally-relevant-pedagogy|文化相关教学法]]——生成在语言上和语境上都恰当的内容。对[[llm-cultural-relevance-k12|K-12 中 LLM 文化相关性]]和[[scaffolding-critical-engagement-genai-minority-students|少数族裔学生批判性地参与 GenAI]]的研究显示，语言和文化上的对齐塑造着学生是否真正受益。若不加处理，AI 中的单语偏见会加深[[digital-divide]]并损害泛[[global-south|南半球]]的[[equity-in-ai-education|公平]]。
 
+语码转换（translanguaging）是生成式聊天机器人新增的、此前的语言工具并不具备的可供性。在一项对 24 项研究的系统综述中，学习者会用自己的语言要求语境化的短语与解释，以此作为进入目标语的桥梁：综述者把这种用法归类为一种新的子可供性，而非对既有可供性的重新包装（[[genai-chatbots-language-learning-affordances-review-2026|Lopez 与 Arabadzhy（2026）]]）。
+
 ## 评价偏见
 
 多语言关切也影响[[automated-assessment|自动评价]]：[[ai-scoring-language-bias-physics|AI 评分可能表现出语言偏见]]（如在[[physics-education|物理]]中），惩罚非母语者。确保评价工具跨语言公平，是[[assessment-validity]]的一部分。
@@ -77,6 +79,7 @@ ai_assist:
 
 ## 关联文章
 
+- [[genai-chatbots-language-learning-affordances-review-2026]] — 生成式 AI 聊天机器人提供语码转换的可供性，这是此前的语言工具并不支持的用途
 - [[llm-comparative-judgment-writing-screening-2026]] — 大语言模型比较判断用于普适写作筛查的效度
 - [[multilingual-adaptive-learning-nigeria-2026]] — 面向尼日利亚的基于 AI 的自适应学习平台
 - [[bilingual-llm-lecture-companion-srl-2026]] — 双语 LLM 讲义伴侣

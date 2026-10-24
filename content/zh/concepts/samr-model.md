@@ -71,12 +71,12 @@ SAMR 最好被理解为用于规划和评估的整合深度透镜，与采纳理
 ## 关联概念
 
 - [[ai-education]] —— AI 的教育应用（伞形概念）
-- [[tpack]] —— Technological Pedagogical Content Knowledge
+- [[tpack]] —— Technological Pedagogical Content Knowledge：整合技术的学科教学知识
 - [[technology-acceptance-model]] —— 技术采纳模型
 - [[icap-framework]] —— ICAP 认知参与框架
 - [[ai-technologies]] —— AI 技术与方法
 - [[teacher-ai-competency]] —— 教师 AI 能力
-- [[educational-development]] —— Educational development
+- [[educational-development]] —— Educational development：教育（学术）发展
 - [[learning-design]] —— 学习设计
 - [[k-12]] —— K-12 教育
 - [[higher-ed]] —— 高等教育

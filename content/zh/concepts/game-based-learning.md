@@ -67,11 +67,11 @@ GBL与游戏化共同连接到[[educational-robotics]]、[[student-engagement]]�
 ## 关联文章
 - [[ai-game-based-learning-systematic-review-2026]] — 55项AI支持游戏化学习研究的系统综述：结果正面，证据基础薄弱
 
-- [[game-based-gamified-robotics-education-review-2026]] — Game-Based and Gamified Robotics Education
+- [[game-based-gamified-robotics-education-review-2026]] — 基于游戏与游戏化的机器人教育
 - [[remind-robot-mediated-roleplay-antibullying-2026]] — REMind
 - [[motibo-digital-storytelling-robots-motivation-2026]] — MotiBo
 - [[bots-blocks-project-based-robotics-education-2026]] — Bots and Blocks
-- [[white-wu-robotics-ai-education-2026]] — Robotics and AI in Education
-- [[genai-motivation-engagement-2026]] — Generative AI, Motivation, and Engagement
+- [[white-wu-robotics-ai-education-2026]] — 机器人与教育中的 AI
+- [[genai-motivation-engagement-2026]] — 生成式 AI、动机与投入
 - [[nasa-tlx-workload-gamified-ai-2026]] — 跨游戏化/AI条件的NASA-TLX负荷
 - [[arcs-motivational-ergonomics-gamified-ai-2026]] — ARCS动机与AI支持的游戏化

@@ -1,11 +1,12 @@
 ---
 title: "我该如何重新设计评价，使成绩仍然能够可靠地说明学生知道什么、能做什么？"
 created: "2026-09-22T19:50:48-04:00"
-updated: "2026-10-09T18:10:00-04:00"
+updated: "2026-10-24T15:45:50-04:00"
 weight: 84
+audience: [instructors, assessment designers]
 foundations: [academic-integrity]
 assessment: [assessment, assessment-validity, authentic-assessment]
-source_updated: "2026-10-02T08:21:34-04:00"
+source_updated: "2026-10-21T14:32:00-04:00"
 translation_of: faqs/redesign-assessment-ai-era
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
@@ -21,8 +22,6 @@ ai_assist:
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
-
-# 我该如何重新设计评价，使成绩仍然能够可靠地说明学生知道什么、能做什么？
 
 **先明确说出成绩究竟应当代表哪一项能力。** 你是在评价学生独立能完成什么、在人工智能辅助下能够恰当地完成什么、他们评价与指挥人工智能的能力，还是其中若干项的组合？本知识库的[[assessment-validity|评价效度]]把这一点当作效度问题来处理：一份打磨精致的作品，已不再足以证明学生具备该作品表面上展现的能力。这是同一论证在评价一侧的另一半；执行一侧的另一半见[[reduce-ai-cheating]]，而一般性的效度框架贯穿于[[evaluating-ai-interventions-methods]]。
 

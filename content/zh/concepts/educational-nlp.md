@@ -1,13 +1,13 @@
 ---
 title: 教育NLP
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-10-09T18:58:09-04:00"
+updated: "2026-10-24T15:15:15-04:00"
 type: concept
 confidence: medium
 technology: [educational-nlp, intelligent-tutoring, student-modeling, knowledge-tracing, adaptive-learning]
 pedagogy: [scaffolding, socratic-method]
 translation_of: concepts/educational-nlp
-source_updated: "2026-10-15T10:00:00-04:00"
+source_updated: "2026-10-23T08:05:20-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -64,6 +64,8 @@ ai_assist:
 
 教育NLP既支撑对学习者语言的分析（[[student-modeling]]、[[knowledge-tracing]]），也支撑自适应教学内容生成（[[intelligent-tutoring]]、[[scaffolding]]）。[[ai-generated-interactive-fiction-education-2026]] 展示了面向学习的NLP驱动内容生成，而 [[zerkouk-comprehensive-review-its-2025]] 把NLP置于更广的 [[intelligent-tutoring]] 图景之中。随着基于LLM的分析增长，[[rct]] 与 [[research-methods-aied]] 框架对于验证NLP衍生的洞见是否真正改善学习至关重要。
 
+嵌入也可以按表层形式而非按所教的构念来组织学生文本。在一个合成的卡诺热机题集上，同一条流水线按措辞而非按物理对陈述进行分组，[[embedding-similarity-clustering-handwritten-physics-2026|Tauschhuber & Kortemeyer (2026)]] 认为这是一种类似新手的表征，这使聚类成为一种探索工具，而非评分工具。
+
 模型压缩属于同一套工具箱：一个两阶段流水线把一个拟合好的黑盒估计器及其事后解释蒸馏成小型开放权重模型，使一个 2B 参数的"mentee"能在普通笔记本上离线返回估计与自然语言解释（[[distilling-self-explaining-lm-learning-analytics-2026]]）。
 
 ## 关联概念
@@ -82,6 +84,7 @@ ai_assist:
 - [[ai-technologies]] — 总览：AI技术与技术（模型、LLM训练、机器人、RAG、智能体）
 
 ## 关联文章
+- [[embedding-similarity-clustering-handwritten-physics-2026]] — 按措辞而非按物理组织的嵌入聚类
 - [[lee-learner-question-types-ai-education-2026]] — 用Transformer将学习者问题分类为建构主义角色（Lee, Atif & Kang 2026）
 - [[bert-discourse-english-teaching-2026]] — 用BERT为英语教学做自动话语关系分类
 - [[studychat-student-dialogues-chatgpt-ai-course-2026]] — StudyChat：AI课程中学生—LLM对话数据集

@@ -1,7 +1,7 @@
 ---
 title: 焦虑与压力
 created: "2026-08-25T09:40:00-04:00"
-updated: "2026-10-09T18:58:10-04:00"
+updated: "2026-10-24T14:35:00-04:00"
 type: concept
 foundations: [academic-integrity]
 pedagogy: [social-emotional-learning, well-being]
@@ -12,7 +12,7 @@ confidence: high
 connected_faqs: [how-ai-impacts-students, ai-anxiety-wellbeing]
 level: [adult learning]
 translation_of: concepts/anxiety-and-stress
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-24T06:36:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -66,6 +66,8 @@ AI 引发的压力中证据最充分、研究最透彻的来源是[[remote-proct
 - **预期性内疚：先于经历而来的痛苦。**[[vassallo-ai-guilt-complex-faculty-2026|Vassallo（2026）]]调查了马耳他一所高校的教职员工（109 名受访者），发现对 AI 的内疚附着在对越界的恐惧之上，而非附着于其实际经历：AI 内疚指数（α = 0.88）最强的赞同来自担心 AI 使用会损害自己的可信度（34.9%）以及感觉自己像在[[academic-integrity|作弊]]（25.7%），而使用*之后*的悔恨排在最末（9.2%）。悖论在于，少数未使用者的内疚（M = 3.25）高于任何一组使用者（M = 2.32）——因为回避者从未检验自己的恐惧，回避可以保存它本想阻止的痛苦。早期职业学者的内疚最高（M = 2.71），资深者最低（M = 2.03），且它与隐瞒而非诚实相关，与因不安而限制 AI 使用相关（r = .62）、与回避向同事披露相关（r = .50），但与正式的[[ai-use-disclosure|披露]]不相关（r = .08）。
 - **对专业价值丧失的恐惧，以及穿越它的一条路。**[[chick-faculty-development-ethical-ai-2026|Chick, Morello & Staffey（2026）]]记录了一种存在论层面而非技术层面的教育者焦虑。十位教师与职员进入一个为期六周的研修项目，把学术诚信列为首要关切（80%）、[[cognitive-offloading|过度依赖]]次之（70%），并在早期把生成式 AI 描述为"作弊机器"、"威胁"或"去人性化的力量"；一位数学教授把身份威胁说得直截了当——"I spent years developing expertise in my field. Now a machine can solve problems faster and explain solutions better than I can. What's my value anymore?"结构化、安全的实验把用词推向"好奇的助手"和"有创造力的伙伴"，并留下 90% 的人报告正面看法；作者明确指出，他们所观察到的抗拒"并非源于技术恐惧症或顽固的传统主义，而是源于对教育质量、公平和人类能动性的正当关切"——这是对把教育者焦虑读作单纯道德恐慌的直接反驳。
 
+- **评价定向的聊天机器人支持改变的是享受与无聊，而非无望感或自我效能感。** 在一项 144 名学生的实验中，比较了普通 ChatGPT、一个 SRL 支架智能体与一个情感支持型智能体：享受感上升（SRL 支架 d = 0.53，情感支持 d = 0.75），无聊感下降（d = -0.35、-0.67），且只在两个带支架的条件下发生。普通 ChatGPT 在两种情绪上都没有显著变化。无望感在包括普通 ChatGPT 在内的每个条件下都下降（d = -0.73 到 -1.02）。自我效能感（η2 = 0.001）与对聊天机器人的信任（η2 = 0.020）都不随条件而异，因此情绪设计移动了两种情绪，却让理论所预测的那项动机信念未被触及（[[diordiev-emotional-scaffolding-genai-srl-2026|Diordiev, Stenberdt & Makransky, 2026]]）。
+
 **机构支持是通过评价而非安慰来作用于焦虑的。** 一项针对 547 名中国本科生的两波调查（[[school-support-ai-learning-anxiety-control-value-2026|Jiang, Chen & Chen, 2026]]）追溯了所感知的学校支持如何通过控制—价值评价——学习者对自身能力的感知（控制）和对工具有用性的感知（价值）——与 AI 学习焦虑关联。支持直接预测了更低的焦虑，但其关联的大部分流经评价而非绕开评价：经由 AI 学习自我效能感、经由[[technology-acceptance-model|感知有用性]]，以及一条自我效能感先滋养有用性、再进而降低焦虑的序列路径。一阶模型显示，支持的各个*维度*并非独立地起作用——只有信息支持保留了一条通往自我效能感的显著路径——而人工神经网络交叉验证把自我效能感与感知有用性列为焦虑最稳定的预测因子。其含义是：针对焦虑的机构鼓励只有改变了学生关于自身能力和工具有用性的信念，才会落地；泛泛的安慰不会改变生成焦虑的那些评价。
 
 AI 也可以通过推进学习目标——而非通过安慰——来缓解学业焦虑：在一项 721 名医学学生的调查和一项 398 人参与的实验中，更高的感知助手能力预测了更大的学习目标进展，后者又预测了更低的学业焦虑和更好的心理健康（[[perceived-ai-intelligence-medical-students-mental-health-2026|Chen 等人（2026）]]）。
@@ -76,6 +78,8 @@ AI 也可以通过推进学习目标——而非通过安慰——来缓解学�
 **教师的预测作为 AI 焦虑的一种分布式形态。**[[watson-rainie-ai-challenge-faculty-survey-2026|Watson & Rainie（2026）]]对 1,057 位美国高校教师的调查，把教育者焦虑登记为预期而非症状：95% 预期生成式 AI 会增加学生对工具的过度依赖，94% 预期学术诚信问题增多，90% 预期[[critical-thinking|批判性思维]]削弱，83% 预期注意力持续时间缩短，81% 预期[[equity-in-ai-education|数字不平等]]扩大，而 39% 相信这些工具会削弱教师的角色，47% 担心其学科长期就业影响为负。同一些受访者并非一律悲观——61% 仍预期学习得到改善和定制——但 73% 亲身处理过一起涉及学生生成式 AI 使用的学术诚信案件，这正是预测转化为工作量的地方。该报告明确声明为非科学样本、不具推广性，因此它记录的是行业所表达的恐惧，而非被测量的效应。
 
 这一方向把 AI 焦虑连接到[[motivation]]、[[ai-literacy]]、[[student-experience]]和[[self-regulated-learning]]。
+
+一个类似考官的智能体可以把考试的压力一并带来：与 Replika 练习口语的学生得分显著高于与同伴练习时，却把这种互动描述为焦虑而尴尬的，而且不想再使用它，被测量的表现与所经历的压力朝相反方向移动（[[chatbots-oral-proficiency-efl-systematic-review|Soriano-Gonzalez & Belda-Medina (2026)]]）。
 
 ## 与职业相关的 AI 焦虑
 
@@ -130,7 +134,8 @@ AI 也可以通过推进学习目标——而非通过安慰——来缓解学�
 - [[social-norms-ai-use]] — 可见性的情感代价
 
 ## 关联文章
-- [[mu-ai-competence-ethical-awareness-anxiety-2026]] - Competence raises ethical awareness, ethical awareness raises AI anxiety: indirect-only mediation among 584 students
+- [[chatbots-oral-proficiency-efl-systematic-review]] — 一个类似考官的智能体同时抬高了被测量的口语表现与焦虑
+- [[mu-ai-competence-ethical-awareness-anxiety-2026]] — 能力提高伦理意识，伦理意识提高 AI 焦虑：584 名学生中的纯间接中介
 - [[ai-anxiety-strategic-regulation-writing-2026]] — AI 焦虑作为一种有生产性的策略调节信号
 - [[aivaluate-anxiety-assessment-2026]] — 学生在 AI 中介的表现性评价中的焦虑
 - [[ai-campus-wellbeing-tools]] — 用于校园幸福感的 AI 驱动工具
@@ -147,10 +152,10 @@ AI 也可以通过推进学习目标——而非通过安慰——来缓解学�
 - [[duan-ai-anxiety-career-decisions-college-2026]] — AI 焦虑经由职业适应性损害职业决策
 - [[ustun-ai-anxiety-job-finding-anxiety-2026]] — AI 焦虑与态度预测求职焦虑
 - [[dag-ai-perceptions-career-anxiety-health-2026]] — AI 焦虑预测健康科学领域的求职焦虑
-- [[farazouli-navigating-uncertainty-teachers-genai-2026]] — University teachers' experiences and perceptions of GAI: vulnerability, rethinking assessment, student learning at risk (Farazouli et al. 2026)
-- [[culturally-aware-student-stress-chatbot-2026]] — An AI-Powered Culturally Aware Chatbot for Stress Detection and Wellness Support among Pakistani University Students Using NLP and Machine Learning
+- [[farazouli-navigating-uncertainty-teachers-genai-2026]] — 大学教师对 GAI 的体验与感知：脆弱状态、重思评估与学生学习面临风险（Farazouli et al. 2026）
+- [[culturally-aware-student-stress-chatbot-2026]] — 一个 AI 驱动的文化感知聊天机器人：用 NLP 与机器学习为巴基斯坦大学生的压力检测与幸福支持
 - [[school-support-ai-learning-anxiety-control-value-2026]] — 所感知的学校支持主要经由控制—价值评价降低 AI 学习焦虑（69.5% 为中介效应）；ANN 交叉验证（Jiang, Chen & Chen 2026）
-- [[vassallo-ai-guilt-complex-faculty-2026]] — The AI Guilt Complex: anticipatory guilt exceeding post-use remorse among academic staff (Vassallo 2026)
+- [[vassallo-ai-guilt-complex-faculty-2026]] — AI 内疚情结：教职员工的预期性内疚超过使用后的悔恨（Vassallo 2026）
 - [[watson-rainie-ai-challenge-faculty-survey-2026]] — 针对 1,057 位美国教师的 AAC&U/Elon 调查：对过度依赖、诚信关切与教师角色被削弱的预测（Watson & Rainie 2026）
 - [[chick-faculty-development-ethical-ai-2026]] — 从恐惧到好奇：一个六周教师研修项目把教师带过身份威胁（Chick, Morello & Staffey 2026）
 - [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — 教学开发者在 AI 中介工作中的冒名顶替感与伦理不适，作为情感劳动

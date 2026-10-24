@@ -93,5 +93,5 @@ ai_assist:
 - [[zhang-ml-student-progress-programming-2026]]
 - [[riedmann-reinforcement-learning-education-review-2026]]
 - [[yin-arthur-ai-teaching-assistant-engineering-econ-2026]]
-- [[culturally-aware-student-stress-chatbot-2026]] — An AI-Powered Culturally Aware Chatbot for Stress Detection and Wellness Support among Pakistani University Students Using NLP and Machine Learning
-- [[synthetic-educational-data-structural-fidelity-2026]] — What Fidelity Metrics Miss: A Structural Check on Synthetic Educational Data
+- [[culturally-aware-student-stress-chatbot-2026]] — 一个面向巴基斯坦大学生的、基于 NLP 与机器学习的 AI 文化敏感聊天机器人，用于压力检测与福祉支持
+- [[synthetic-educational-data-structural-fidelity-2026]] — 保真度指标遗漏了什么：对合成教育数据的结构性核查

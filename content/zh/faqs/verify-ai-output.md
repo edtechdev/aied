@@ -1,7 +1,7 @@
 ---
 title: "我该如何教学生核查人工智能的输出？"
 created: "2026-09-22T19:41:47-04:00"
-updated: "2026-10-09T18:10:00-04:00"
+updated: "2026-10-24T15:53:02-04:00"
 weight: 65
 type: faq
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, critical-thinking]
@@ -9,7 +9,7 @@ ethics: [hallucination-risk, trust-calibration]
 research_method: [experiment, literature review, survey]
 audience: [instructors, instructional designers, learners]
 level: [higher ed, secondary]
-source_updated: "2026-10-02T08:21:34-04:00"
+source_updated: "2026-10-21T14:32:00-04:00"
 translation_of: faqs/verify-ai-output
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
@@ -25,8 +25,6 @@ ai_assist:
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
-
-# 我该如何教学生核查人工智能的输出？
 
 你已经警告过他们。聊天机器人不是搜索引擎，要核对来源，要负责任地使用。可是那些编造的引文和自信的错误答案还是照样出现在提交的作业里。这些警告之所以失效，是因为它们要求的是一种性情。细心的学生有这种性情，匆忙的学生没有，而这句话里并没有任何东西能让一个学生晚上 11 点面对屏幕上读起来毫无破绽的输出时真正照着做。
 

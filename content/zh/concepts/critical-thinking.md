@@ -2,7 +2,7 @@
 connected_resources: [pressing-prompts, student-guide-to-ai]
 title: 批判性思维
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-09T18:39:21-04:00"
+updated: "2026-10-24T14:40:00-04:00"
 type: concept
 foundations: [ai-education, ai-literacy, cognitive-offloading]
 pedagogy: [scaffolding, socratic-method]
@@ -11,7 +11,7 @@ connected_faqs: [verify-ai-output]
 level: [higher ed]
 confidence: medium
 translation_of: concepts/critical-thinking
-source_updated: "2026-10-07T15:40:00-04:00"
+source_updated: "2026-10-21T12:05:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -111,9 +111,9 @@ ai_assist:
 - [[li-mroziak-reorienting-critical-ai-literacy]] — 重新定向批判性人工智能素养
 - [[luo-ibl-patterns-llm-bloom-2026]] — 大语言模型驱动环境中的 IBL 模式（Bloom 的视角）
 - [[probing-ai-generated-physics-solutions-2026]] — 让学生为批判人工智能生成的物理解题做准备
-- [[student-reception-genai-analogies-computing-2026]] — Flawed but Memorable: Student Critical Reception of Interest-Personalized GenAI Analogies in Computing Education
-- [[daoism-ai-education-philosophy-2026]] — Alternative AI Philosophy: Daoism as Method for AI in Education
-- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Fostering Sustainable Learning via Embodied Intelligence (E3-HOT)
+- [[student-reception-genai-analogies-computing-2026]] — 有缺陷但难忘：学生对计算教育中兴趣个性化生成式 AI 类比的批判性接受
+- [[daoism-ai-education-philosophy-2026]] — 另一种 AI 哲学：道家作为教育中 AI 的方法
+- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — 通过具身智能促进可持续学习（E3-HOT）
 - [[ai-overreliance-complex-adaptive-system-2026]] — 把人工智能过度依赖建模为复杂适应系统
 - [[lu-ai-multimodal-writing-critical-thinking-2026]] — 人工智能支持的多模态写作中维度特异的批判性思维增益（Lu 等，2027）
 - [[lftutor-logical-fallacy-education-2026]] — 通过结构化多轮对话教授谬误识别
@@ -127,4 +127,3 @@ ai_assist:
 - [[melanou-genai-learning-dynamics-longitudinal-2026]] — 一学期的人工智能使用让批判性思维持平；反思性使用预测了它（Melanou 等，2026）
 - [[genai-dependence-research-creativity-2026]] — 在 1,157 名研究生中，生成式人工智能依赖与批判性思维正相关
 - [[genai-use-critical-thinking-moderation-2026]] — 经由反馈素养的生成式人工智能使用→批判性思维，且直接路径只对反思性较低的学生存在
-- [[hallstrom-ai-literacy-stem-education-frontiers-2026]] — STEM 教育中人工智能素养十篇最高被引研究的综述（Hallström 等，2026）

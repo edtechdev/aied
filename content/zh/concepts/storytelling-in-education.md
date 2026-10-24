@@ -62,4 +62,4 @@ ai_assist:
 - [[robobuddy-llm-social-robots-classroom-2025]] — RoboBuddy
 - [[icub-humanoid-storytelling-llm-hri-2025]] — iCub Narrative HRI
 - [[remind-robot-mediated-roleplay-antibullying-2026]] — REMind
-- [[white-wu-robotics-ai-education-2026]] — Robotics and AI in Education
+- [[white-wu-robotics-ai-education-2026]] — 机器人学与教育中的 AI

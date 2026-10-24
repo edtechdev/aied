@@ -1,7 +1,7 @@
 ---
 title: 教育人工智能中的理论发展
 created: "2026-08-22T07:08:19-04:00"
-updated: "2026-10-09T19:07:00-04:00"
+updated: "2026-10-24T14:16:08-04:00"
 type: concept
 foundations: [ai-education, limitations-in-aied-research]
 pedagogy: [learning-theories]
@@ -10,7 +10,7 @@ page_kind: [framework]
 confidence: medium
 methods: [research-methods-aied]
 translation_of: concepts/theory-development-aied
-source_updated: "2026-09-30T12:20:22-04:00"
+source_updated: "2026-10-16T08:47:09-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -53,6 +53,8 @@ ai_assist:
 
 - **认知共同行动性（Epistemic co-agency）。** [[learning-with-machines-toward-a-theory-of-epistemic-co-agency|Learning with Machines]] 建构了"走向认知共同行动性理论"，一个理论导向的模型，说明学习者与 GenAI 系统如何共同生产知识与理解。
 
+- **认知伙伴关系循环。** [[page-cognitive-partnership-cycle-human-ai-2026|Page（2026）]] 提出认知伙伴关系循环，一个六阶段的递归模型：人的提问、AI 的扩展、人的反思、整合、修订与新提问。它把学习定位在学习者认知位置的改变中，而非提示的精巧程度，并命名了四种失效模式，其中同一递归替代或扭曲了思考。
+
 - **缺失的认知基线（ACB）。** [[absent-cognitive-baseline-2026|The Absent Cognitive Baseline]] 对 AI 原生学生学业自我评估中的结构性缺口进行理论化——一个三维框架，解释当 AI 抬高表现时学生为何高估自己的学习。
 
 - **认知公地（The cognitive commons）。** [[cognitive-commons-ai-expertise-regeneration|Cognitive commons and expertise regeneration]] 借由公共池塘资源理论与 [[distributed-cognition|分布式认知]]，解释理性的 AI 采纳决策如何耗尽各行业更新所依赖的共享专业能力池。
@@ -78,6 +80,10 @@ ai_assist:
 另一些工作把现有理论延伸进 AI 情境，而非开创新的范式：[[critical-thinking-paradox-genai-learning-2026|critical-thinking-paradox]] 工作把 [[cognitive-offloading|cognitive-load theory]] 与减负教学整合为一个三层框架；[[dollinger-equitable-assessment-ai-2026|equitable assessment]] 在 GenAI 冲击下重新理论化 [[assessment]]。[[reconceptualizing-community-inquiry-generative-ai|Ba、Gašević、Lim 与 Anderson（2026）]] 重新概念化 [[community-of-inquiry|Community of Inquiry]] 框架本身：他们不再把 GenAI 框定为工具、对话伙伴或一个推测性的"第四存在"，而是把它重新定位为一种*认识论条件*，重新配置认知存在、社会存在与 [[teacher-role|teaching]] 存在如何被实施、被见证与被治理——把 CoI 诸存在重构为人—GenAI 装配体的社会技术成就，并提出一个基于配置的启发式方法，其中 GenAI 的参与与探究质量通过人的责任而条件性地关联。其中许多属于概念框架工作（[[drummond-genai-business-schools-framework-2026|business-school frameworks]]、[[valid-student-simulation-llm-2026|valid simulation]]），把理论操作化以服务于实践。
 
 [[metacognitive-ownership-human-ai-regulation-2026|Lin 与 Chang（2026）]] 扩展 [[self-regulated-learning]] 与人机调节，命名学习者所治理的对象——标准、评价性判断与控制授权——而不只是 AI 所做的。
+
+摩擦悖论为既有理论提供了又一项扩展：[[friction-paradox-generative-ai-education-abroad-2026|Gupta（2026）]]把 Bjork 与 Bjork 的[[desirable-difficulties|合意困难]]与 Kapur 的[[productive-failure|生产性失败]]应用于海外教育中的关系性遭遇，论证要紧的是学生把多少解释性行动性[[transfer-of-learning|迁移]]给生成式助手，而非它被使用的频率。该框架是概念性的，并把五条命题陈述为竞争性假设。
+
+[[ranieri-biagini-ai-higher-education-taxonomy-review-2026|Ranieri 与 Biagini（2026）]]推进了该领域对 Zawacki-Richter 等（2019）功能分类法的完善：在 154 篇具有可分类应用功能的出版物中，有 90 篇（58.4%）逸出其四个类别，而他们的框架把功能与 delegated control、认识论立场和嵌入的教学法交叉起来。
 
 [[deceptive-overgeneralization-adaptive-learning-2026|An、McLaren 与 Stamper（2026）]] 推进 ACT-R 与知识—学习—教学框架，对*欺骗性过度泛化*进行理论化——一种失效模式，知识编译产生了一个过度泛化的产生式，做出正确动作却遗漏一个关键的应用约束——并通过跨自适应 ITS 与一个 [[k-12]] 小数学习数据集的检测/修复程序对其做了经验验证。
 
@@ -113,6 +119,7 @@ ai_assist:
 
 ## 关联文章
 
+- [[ranieri-biagini-ai-higher-education-taxonomy-review-2026]] — 扩展功能分类法：154 篇可分类出版物中有 90 篇（58.4%）落在原来的四个类别之外（Ranieri 与 Biagini 2026）
 - [[yan-agentivism-learning-theory-ai-2026]] — 一个关于人机交互的中层学习理论，含四种机制与六个可检验命题（Yan 与 Gašević 2026）
 - [[deceptive-overgeneralization-adaptive-learning-2026]] — 欺骗性过度泛化：适应性掌握会在学习者知道何时应克制动作之前就停止练习（An、McLaren 与 Stamper 2026）
 - [[reclaiming-epistemic-agency-co-agency-2026]]
@@ -139,3 +146,5 @@ ai_assist:
 - [[synthetic-position-self-authorship-2026]] — 综合立场：一个命名合成性提升与作者悬置的对话自我主张，附交叉预测
 - [[capability-decision-model-teacher-readiness-2026]] — 含四个否证条件的可证伪、能力优先的教师准备度模型
 - [[ai-connectedness-adolescent-mental-health-2026]] — 人工智能联结性：一个含六个待检验可证伪命题的三维构念
+- [[page-cognitive-partnership-cycle-human-ai-2026]] — 认知伙伴关系循环
+- [[friction-paradox-generative-ai-education-abroad-2026]] — 把合意困难与生产性失败应用于海外教育中的解释性行动性

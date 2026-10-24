@@ -1,14 +1,14 @@
 ---
 title: 人机协作
 created: "2026-05-29T10:44:35-04:00"
-updated: "2026-10-09T18:39:20-04:00"
+updated: "2026-10-24T16:30:00-04:00"
 type: concept
 confidence: medium
 foundations: [human-ai-collaboration, ai-literacy]
 technology: [generative-ai, llm]
 pedagogy: [student-ai-interaction]
 translation_of: concepts/human-ai-collaboration
-source_updated: "2026-10-04T17:30:54-04:00"
+source_updated: "2026-10-23T22:48:50-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -49,6 +49,7 @@ ai_assist:
 - **设计原则 —— 保全学习者的生产性工作。** 纵观研究，协作是有益还是有害的最锐利预测因子是*谁生成与决定*。让人保持认知产出的安排（引导式 [[prompt-engineering|提示]]、“先思考，再咨询人工智能”、核验与评估步骤）支撑学习；把整个任务交给模型的安排则不然。互补的一招是改变模型被赋予*成为*什么。在 [[wang-genai-novice-learner-learning-by-teaching-2026|Wang et al. (2026)]] 的准实验中，68 名 [[teacher-education|职前教师]] 要么把翻转课堂概念讲给一个基于 ERNIE 3.5 构建的生成式人工智能*新手学习者*（一个被框定为好奇与欣赏、会请求解释、例子、核验推理与对立视角、并按 Bloom 分类法逐级推进的系统），要么向一个基于同一模型构建的生成式人工智能教师提问。教人工智能的学生解释得更好（定义翻转课堂 M = 4.18 对 3.29；其教学活动 M = 4.91 对 3.06，两者 p < 0.001），并生成了更多、更高质量的问题（M = 3.67 对 2.14；M = 5.67 对 3.07，两者 p < 0.001），而客观回忆在统计上无法区分（M = 23.18 对 21.57，p = 0.416），因此优势落在解释与迁移上，而非事实检索上。人工智能教师条件下的学生坦率地谈到了这笔交易：一些人承认它给出了“更准确、更详细的信息”，却报告“用过它之后，我不想独立思考了”。把模型赋予 [[learning-by-teaching|被教的学习者]] 角色，使学生成为想法的唯一来源，并消除了长期以来寻找合适同伴来教这一难题。随之而来有两个设计限度：规划与监控并未改善（M = 4.01 对 3.78，p = 0.062），因此角色反转本身并不是一项 [[metacognition|元认知]] 干预，而且作者把这一无效结果追溯到一项让学生专注于内容准确性的任务设计。在写作课堂中，该原则采取了一种具体、可教的形式。在 [[human-ai-collaboration-academic-writing-2026|Alshehri 等（2026）]] 的沙特 EFL 准实验中，学生运行一套五步例程——框定问题并设计提示、迭代起草、修改、对每一条主张与引用对照学术数据库核验、并调节自身的署名与依赖——每次作业都要求一份 [[academic-integrity|人工智能使用日志]]，记录他们接受了什么、拒绝了什么以及为什么。写作与数字 [[critical-thinking|批判性思维]] 一同上升、几乎同步移动，而学生的反思把核验与 [[hallucination-risk|幻觉]]修补例程明确地联系到批判性思维的增益上：同样是审问输出的习惯塑造了他们的写作决策。作者自己的告诫是该原则必要的补充——该工作流是偶然性的而非自足的，在薄弱的 [[scaffolding]]、低批判性思维或元认知准备（学生缺乏察觉坏输出的能力）、写作决策被逐步交出、或制度性的 [[educational-policy-ai|人工智能使用政策]] 不清晰的条件下，都会变得适得其反。
 - **有界权威本身就是高利害协作的一种设计模式。** [[reichert-human-centered-llm-chatbot-design-teachers-2026|Reichert et al. (2026)]] 中的教师并没有做开放式助手原型，而是做自由度事先固定的系统：每个设计都把聊天机器人限定在特定的课程内容上，安全性被分层为领域边界（课程特定范围，加上一个要求对话推进前至少有若干个事实或问题的“信息配额”）、带标准化拒绝的内容过滤（“抱歉，这不属于我的知识库”），它同时也会提醒教师，以及一项针对模糊情况的教师覆盖机制 —— 给出的例子是一个关于人类生殖的问题，它在所在单元内是正当的，应当路由给人而不是被自动拒绝。在那些边界*之内*，格式、体裁、节奏与复杂度的 [[personalized-learning|个性化]] 受到欢迎，而监督（完整的对话日志、实时提醒、覆盖）被框定为专业责任，而非对模型的不信任。其意涵是：在高利害情境中，劳动分工应当被规定为有界、受监控且可撤销的，而不是逐轮协商。
 - **信任必须被校准，而非被假定。** 生产性的协作取决于学习者准确校准何时依赖、何时核验人工智能的输出 —— 连接到 [[trust-calibration]] 与 [[human-in-the-loop-ai|人类监督]]，而非盲目接受或一概拒绝。
+- **一条情感提示是教师去解释的线索，而不是要服从的指令。**在一节高中几何课中，一个人工智能系统的情感提示之后出现了非常不同的教师动作，而正是那个动作——任务重构、简短的肯定，或刻意的不干预——改变了参与度，因此该提示是教师所能观察到的输入之一（[[ai-emotional-alerts-teachers-mathematics-classroom-2026|Swidan（2026）]]）。
 
 - **教师与人工智能的协作对参与而言是双刃剑，不只是对学习。** 在一项对 468 名大学教师的三波调查中，协作通过心理可得性提升了工作投入（间接 0.19），却通过工作异化降低了它（间接 −0.03）；[[teacher-ai-competency|数字胜任力]] 对两者都有调节作用，把异化斜率从 0.38 压平到 0.17（[[teacher-ai-collaboration-work-engagement-2026|Sun et al. (2026)]]）。
 
@@ -81,8 +82,11 @@ ai_assist:
 - **教师侧的共创与角色架构也是协作。** 除了面向学生的伙伴，教师还与生成式人工智能协作设计教学。[[wang-teacher-ai-co-design-review-2026|Wang et al. (2026)]] 对教师与人工智能在学习任务上的共创做了 [[meta-analysis-systematic-review|系统综述]]，描绘了教师与人工智能共同产出设计时出现的协作模式与张力（能动性、认识权威、控制）；[[talebzadeh-ai-group-activity-roles-2026|Talebzadeh (2026)]] 发现，决定人工智能设计的分组活动质量（角色丰富度、协同、层次对齐）的是教师的教学专业知识 —— 而非人工智能流畅度 —— 这把教师定位为“[[multilingual-learning|双语]] 学习设计师”。
 - **把生成式人工智能当作小组中的智能体与协作空间。** [[xu-genai-collaborative-space-2026|Xu et al. (2026)]] 观察小型 [[higher-ed]] 团队，表明生成式人工智能的角色是被协商且可配置的 —— 从从属助手到有争议的队友 —— 而同步共享使用维持共同基础，异步私下使用则割裂透明性，他们提出一种“生成式人工智能支持的协同工作”视角，把生成式人工智能同时当作智能体与互动的协作空间。
 - **课堂协作的互补两半。** 两项 2026 年研究描绘了课堂中人机协作的互补两半。MeduAI-SP（[[ai-standardized-patient-scaffolding-medical-2026|Yang et al.]]）在 [[medical-education|临床]] 教育中论证“功能互补性”：人工智能智能体处理重复的角色扮演、一致的患者 [[simulation]]、清单监控、[[socratic-method|苏格拉底式]] 提示与初步 [[formative-assessment|形成性]] 反馈，而教师与人类标准化病人提供情境解释、细腻的情感回应、个体化补救、专业性评估与就绪判断 —— 替代受到错误后果、任务不确定性、关系敏感度与可用人工复核的约束，且一个人工智能系统被明确禁止自主判定临床胜任力。在相反方向上，一场 45 名学生、3 人 3 智能体的伦理讨论（[[ethics-training-agents-group-ethics-discussion-2026|Seo et al., 2026]]）记录了一种双刃模式：智能体降低了社会障碍（参与者说得更直接，因为智能体没有情感，也不感到有填补沉默的义务），然而同样的舒适把互动从人身上引开 —— 79.7% 的问题投向智能体，而它们的可得性预测为 60%（p = .017）。值得注意的是，其他人的在场使参与者把人工智能对待得更尊重，暗示人类的共同在场本身就是校准人工智能参与的一种可供性。
+- **互补性是有条件的，而不是团队的默认属性。**[[tuo-armada-multi-agent-debate-overreliance-2026|Tuo 等人（2026）]] 发现人机团队只在六个条件中的一个里胜过人类单独与人工智能单独——即人工智能*不如*人类准确的那种有挑战性的案例——在别处没有报告一致的优势，因此增加一个人工智能伙伴本身并不是通向互补表现的路径。
 - **纠缠类型在对学生提出的要求上不同，这正是有些类型仍然罕见的原因。** [[sun-student-genai-entanglement-literacy-demands-2026|Sun, Dohn and Rehm (2026)]] 按认识工作在学生与系统之间如何分担，把 102 项高等教育研究分类（助手、使能者、综合者、生成者、再想象者），发现把能力归因于个体学生的两种形式各占语料的 42.16%，而分配作者身份的形式仍然边缘。他们的解释是制度性的而非技术性的：罕见的类型要求学生为并非自己产出的输出承担认识责任，同时仍被作为个体作者来评估，正是这一矛盾 —— 而非劳动分工本身 —— 使它们无法进入实践。设计回应是把认识工作的分配显式化、把活动在谱系上排序，并建立对责任如何分担的反思。
 - **专业项目把训练从例行生产重定向到协作胜任力（一份设计协议）：** [[wang-agentic-translation-education-2026|Wang（2026）]]提出了一份面向翻译教育的、基于设计的框架，围绕一份任务置换清单（18 个子任务按 AI 置换可能性评级，附 [E]/[P] 来源标签）与四项重定向后的胜任力：跨学科知识、AI 编排、战略判断与批判性 AI 评价。该框架是一份预注册协议，尚无经验数据；其贡献在于方法 —— 一份可审计的置换分析加上一条供课程改革用的共同设计路径 —— 它可以迁移到任何例行任务日益被智能体系统承担的专业项目。
+
+- **“引导而非告知”需要自己的评判智能体的准则。**一个旨在镜像教师引导的设计案例发现，一个被限定在精选知识库上的知识智能体可以按准确性评判，而一个旨在引导学生走向自己答案的智能体则不能（[[humburg-scistory-ai-supported-inquiry-science-learning-games-2025|Humburg 等人，2025]]）。
 
 ### 关联
 
@@ -90,8 +94,8 @@ ai_assist:
 
 ## 关联概念
 
-- [[pedagogical-partnerships]] — Pedagogical Partnerships
-- [[community-of-inquiry]] — Community of Inquiry (presences as human-GenAI sociotechnical accomplishments)
+- [[pedagogical-partnerships]] — 教学伙伴关系
+- [[community-of-inquiry]] — 探究共同体（作为人-GenAI 社会技术成就的临场感）
 - [[student-ai-interaction]]
 - [[generative-ai]]
 - [[ai-literacy]]
@@ -106,48 +110,51 @@ ai_assist:
 - [[metacognition]]
 - [[self-regulated-learning]]
 - [[creativity]]
-- [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
-- [[biology-education]] — Biology education and AI: lab teaching assistants, AI literacy in biology, critical thinking, specialized tools
-- [[human-in-the-loop-ai]] — oversight
-- [[agentic-ai]] — autonomy
+- [[chemistry-education]] — 化学教育与 AI：实验、形成性评价、LLM 的局限、实验哲学
+- [[biology-education]] — 生物教育与 AI：实验助教、生物中的 AI 素养、批判性思维、专门工具
+- [[human-in-the-loop-ai]] — 监督
+- [[agentic-ai]] — 自主性
 - [[productive-failure]]
 
 ## 关联文章
 
-- [[bjet-many-hands-make-light-work-2026]] — Paired work with a GenAI multi-agent system won the design project while critical-thinking awareness rose only for those working alone (Chu et al. 2026)
-- [[dang-human-ai-collaboration-competency-2026]] — HACC: collaboration competency as a dynamic configuration of domain, AI and metacognitive competency, with learner agency emergent (Dang et al. 2026)
-- [[reichert-human-centered-llm-chatbot-design-teachers-2026]] — Secondary teachers design classroom chatbots as bounded experts under human supervision
-- [[ai-integration-instructional-design-collaboratory-2026]] — Twelve teacher-education course implementations treat AI integration as an instructional design problem
-- [[wang-tutor-copilot-human-ai-live-tutoring-rct-2024]] — Tutor CoPilot: first RCT of human-AI scaling expertise to novice tutors
-- [[think-first-chatgpt-later-2026]] — Think First, ChatGPT Later: Independent Human Creativity
-- [[principal-trait-analysis-human-ai-skills-2026]] — Data-driven "traits" of human–AI collaboration
+- [[humburg-scistory-ai-supported-inquiry-science-learning-games-2025]] — 叙事科学游戏中的三种智能体角色，以及每种角色所需的评价准则（Humburg 等人 2025）
+- [[bjet-many-hands-make-light-work-2026]] — 与 GenAI 多智能体系统的配对协作赢得了设计项目，而批判性思维意识仅为独自工作的学生提升（Chu 等 2026）
+- [[tuo-armada-multi-agent-debate-overreliance-2026]] — 在扣留所偏好的答案的多智能体辩论中，对错误人工智能建议的顺从下降，但并非纠正性地下降
+- [[dang-human-ai-collaboration-competency-2026]] — HACC：协作胜任力作为学科、AI 与元认知胜任力的动态构型，学习者能动性由此涌现（Dang 等 2026）
+- [[reichert-human-centered-llm-chatbot-design-teachers-2026]] — 中学教师在人监督下把课堂聊天机器人设计为有边界的专家
+- [[ai-integration-instructional-design-collaboratory-2026]] — 十二项教师教育课程实施把 AI 整合视为教学设计问题
+- [[wang-tutor-copilot-human-ai-live-tutoring-rct-2024]] — Tutor CoPilot：把人-AI 扩展专长给新手导师的首项 RCT
+- [[think-first-chatgpt-later-2026]] — 先思考，再问 ChatGPT：独立的创造力
+- [[principal-trait-analysis-human-ai-skills-2026]] — 数据驱动的“人-AI 协作特质”
 - [[haiml-human-centered-ai-metacognitive-model-2026]]
-- [[choi-teacher-ai-interaction-lesson-design-2026]] — Teacher-AI interaction patterns in lesson design across experience and AI proficiency (Choi et al. 2026)
-- [[tang-chatbots-learning-design-2026]] — Designers use an embedded chatbot for alignment checks on outcomes and pedagogy, not content generation
+- [[choi-teacher-ai-interaction-lesson-design-2026]] — 课程设计中跨越经验与 AI 熟练度的教师-AI 互动模式（Choi 等 2026）
+- [[tang-chatbots-learning-design-2026]] — 设计者用嵌入式聊天机器人对目标与教学法做对齐检查，而非生成内容
 - [[student-mental-models-genai]]
 - [[spritz-ai-disciplinary-mediation-student-teams-2026]]
 - [[ojeda-ramirez-community-based-ai-learning]]
 - [[niari-ai-pedagogical-mediator-collaborative-learning]]
 - [[hao-human-ai-collaborative-problem-solving-cognition]]
-- [[substitution-to-scaffolding-ai-harm-cycle-2026]] — From Substitution to Scaffolding: Breaking the Self-Reinforcing Harm Cycle
-- [[generative-ai-mediational-agent-sociocultural-2026]] — Generative AI as a Mediational Agent
-- [[conversational-ai-agents-umbrella-review-2026]] — Umbrella review of conversational AI agents in education
-- [[ai-overreliance-complex-adaptive-system-2026]] — AI overreliance modeled as a complex adaptive system
-- [[liao-role-adaptive-ai-companion-book-talk-2026]] — Role-adaptive AI companion for elementary book talk; affective ceiling of fixed-role agents (Liao 2026)
-- [[wang-teacher-ai-co-design-review-2026]] — Teacher–AI co-design of learning tasks: trends and perspectives (Wang et al. 2026)
-- [[talebzadeh-ai-group-activity-roles-2026]] — Architecture of roles in AI-designed differentiated group activities (Talebzadeh 2026)
-- [[xu-genai-collaborative-space-2026]] — GenAI as agent and collaborative space in small-group dynamics (Xu et al. 2026)
+- [[substitution-to-scaffolding-ai-harm-cycle-2026]] — 从替代到脚手架：打破自我强化的伤害循环
+- [[generative-ai-mediational-agent-sociocultural-2026]] — 作为中介智能体的生成式 AI
+- [[conversational-ai-agents-umbrella-review-2026]] — 教育中对话式 AI 智能体的伞式综述
+- [[ai-overreliance-complex-adaptive-system-2026]] — 把 AI 过度依赖建模为复杂适应系统
+- [[liao-role-adaptive-ai-companion-book-talk-2026]] — 面向小学读书讨论的角色自适应 AI 同伴；固定角色智能体的情感上限（Liao 2026）
+- [[wang-teacher-ai-co-design-review-2026]] — 教师-AI 协作设计学习任务：趋势与前景（Wang 等 2026）
+- [[talebzadeh-ai-group-activity-roles-2026]] — AI 设计的差异化小组活动中角色的架构（Talebzadeh 2026）
+- [[xu-genai-collaborative-space-2026]] — GenAI 作为小组动态中的智能体与协作空间（Xu 等 2026）
 - [[oppenheimer-llms-collaborative-learning-partners-2026]]
-- [[ai-standardized-patient-scaffolding-medical-2026]] — Evaluating Scaffolding-Oriented Multi-Agent Large Language Model System for Clinical Interview Training
-- [[ethics-training-agents-group-ethics-discussion-2026]] — Ethics Training Agents: Facilitating Group-Based Ethics Education with Role-Playing and Discussion for Ethical Reflection and Exploration
-- [[scan-framework-task-assignment-generative-ai-2025]] — SCAN: automation, augmentation and collaboration as a continuum of task assignment
-- [[bounded-reliance-ai-writing-feedback-2026]] — Bounded Reliance: A Source Credibility Perspective on EFL Students' Engagement with AI-Generated Writing Feedback
-- [[human-ai-collaboration-academic-writing-2026]] — Five-part structured EFL writing workflow; verification and responsible-use routines drove paired writing and digital critical-thinking gains
-- [[wang-genai-novice-learner-learning-by-teaching-2026]] — Role reversal: students teach a GAI novice learner, outperforming peers who query a GAI teacher
-- [[iqbal-human-genai-support-essay-revision-2026]] — Support type shaped revision strategies and scores, but no strategy predicted gain; GenAI gains may be task-specific
-- [[kuhail-great-debaters-ai-facilitators-2026]] — Human versus AI debate moderators rated equivalently; utility versus satisfaction drive reuse differently
-- [[robinson-lesson-study-dialogic-engagement-ai-2026]] — Lesson study builds teacher educators' capacity to design dialogic AI engagement; prompt engineering as pedagogical thinking
-- [[sun-student-genai-entanglement-literacy-demands-2026]] — Five student–GenAI entanglement types, and why the ones that distribute authorship stay marginal (Sun, Dohn & Rehm 2026)
+- [[ai-standardized-patient-scaffolding-medical-2026]] — 面向临床问诊训练的脚手架取向多智能体大语言模型系统评价
+- [[ethics-training-agents-group-ethics-discussion-2026]] — 伦理训练智能体：用角色扮演与讨论促进小组伦理教育，以进行伦理反思与探索
+- [[scan-framework-task-assignment-generative-ai-2025]] — SCAN：任务分配中自动化、增强与协作的连续体
+- [[bounded-reliance-ai-writing-feedback-2026]] — 有界依赖：EFL 学生参与 AI 生成写作反馈的信源可信度视角
+- [[human-ai-collaboration-academic-writing-2026]] — 五步结构化 EFL 写作工作流；核验与负责任使用例程推动了配对写作与数字批判性思维的增益
+- [[wang-genai-novice-learner-learning-by-teaching-2026]] — 角色反转：学生教一个 GenAI 新手学习者，胜过向 GenAI 教师提问的同伴
+- [[iqbal-human-genai-support-essay-revision-2026]] — 支持类型塑造了修改策略与分数，但没有策略能预测增益；GenAI 的增益可能因任务而异
+- [[kuhail-great-debaters-ai-facilitators-2026]] — 人类与 AI 辩论主持人评价相当；效用与满意度以不同方式驱动复用
+- [[robinson-lesson-study-dialogic-engagement-ai-2026]] — 课例研究建立教师教育者设计对话式 AI 参与的能力；提示工程即教学思维
+- [[sun-student-genai-entanglement-literacy-demands-2026]] — 五种学生-GenAI 纠缠类型，以及为何分配作者身份的形态仍处边缘（Sun、Dohn 与 Rehm 2026）
 
-- [[teacher-ai-collaboration-work-engagement-2026]] — Teacher–AI collaboration's opposing pathways to work engagement via psychological availability and work alienation, bounded by digital competency
+- [[teacher-ai-collaboration-work-engagement-2026]] — 教师-AI 协作经由心理可得性与工作疏离对工作投入的对立路径，以数字胜任力为边界
 - [[wang-agentic-translation-education-2026]] — 把翻译教育重定向到 AI 编排、战略判断与批判性评价胜任力的设计协议（尚无经验数据）
+- [[ai-emotional-alerts-teachers-mathematics-classroom-2026]] — 一条情感提示是教师去解释的线索，而不是要服从的指令

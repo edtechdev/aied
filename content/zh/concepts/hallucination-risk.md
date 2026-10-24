@@ -60,6 +60,8 @@ ai_assist:
 
 **标注为不可靠降低了报告出的依赖而非提高了它。** 当 546 名参与者阅读同一个GAI对话——一段被标注为包含编造信息，另一段被标注为经核实准确——时，被标注为编造的版本产生了更低的 [[trust|信任]] 与感知可控性、更高的认知失调与挫败，同时伴随 *更低* 的依赖得分（M = 2.935 对 3.254）（[[frontiers-gai-hallucination-dependence-2026|Liu et al. (2026)]]）。这一结果对本页的过度依赖逻辑构成了限定：看到输出可能是编造的，与继续依赖它并不是一回事。
 
+**可信度线索反而会放大顺从。**当一个不可靠的输出被装扮起来时，出现了相反的动向：在 ARMADA 辩论界面上加入引注与可信度信号，把参与者从正确的初始判断转向错误的 AI 立场的比例抬高了 112%（31.8% 对 15.0%），而人工核查发现一些被引用的案例被错误归因给无关或虚构的参考文献（[[tuo-armada-multi-agent-debate-overreliance-2026|Tuo 等，2026]]）。
+
 ## 关联概念
 
 - [[cognitive-offloading]]
@@ -76,6 +78,7 @@ ai_assist:
 - [[productive-failure]]
 ## 关联文章
 - [[frontiers-gai-hallucination-dependence-2026]] — 把GAI对话标注为编造的，同时降低了信任与依赖
+- [[tuo-armada-multi-agent-debate-overreliance-2026]] — 可信度线索抬高了对 AI 输出的顺从，一些被引案例被错误归因或系虚构
 - [[ivory-psychology-assessment-integrity-2026]] — 可及格的学生作业内部出现的编造引注与自相矛盾的输出（Ivory et al. 2026）
 - [[llm-cognitive-diagnosis-handwritten-math]]
 - [[llm-fallacy-misattribution]]

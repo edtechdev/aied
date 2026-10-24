@@ -1,7 +1,7 @@
 ---
 title: 文化相关教学法
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-10-09T18:58:10-04:00"
+updated: "2026-10-24T14:35:00-04:00"
 type: concept
 foundations: [ai-literacy, curriculum-design]
 technology: [generative-ai, intelligent-tutoring, llm]
@@ -10,7 +10,7 @@ audience: [learners]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/culturally-relevant-pedagogy
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-23T22:38:41-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -67,6 +67,7 @@ AI可以帮助教师使教学更具文化回应性，但若不加提示，它的
 - **把人口学与文化背景分层进提示与工具。** CulturAIEd与[[connected-ai-lesson-planning-vietnam|ConnectED]]（一个越南的、对齐课程的大纲规划系统）表明，结构化的、本地接地的提示模板加上教师验证门，比通用生成改善文化契合。
 - **以共同体知识为评价标准。** 遵循基于共同体的AI学习，让学习者以本地接地的相关性、危害与有用性标准评判AI输出，并在拒绝或不使用才是正解之处尊重该情境。
 - **采用并评价有文化根基的数据集。** IKS-Instruct与NSMQ Riddles说明，[[discipline-specific-aied|领域专属]]的、非西方数据有意义地改善了相关性与诚实评价两者。
+- **让AI先向教师提问，再动手起草。** [[zhai-science-literacy-generative-ai-coherence-2026|Zhai等（2026）]] 描述了一个文化回应式教案规划器：其交互式半自动化提示架构先询问情境与文化问题，再依据教师自己的回答起草，而不是产出一份通用教案。
 
 ## 关联概念
 
@@ -87,11 +88,12 @@ AI可以帮助教师使教学更具文化回应性，但若不加提示，它的
 
 ## 关联文章
 
-- [[llm-cultural-relevance-k12]] — LLMs for Culturally Relevant K-12 Pedagogy
+- [[zhai-science-literacy-generative-ai-coherence-2026]] — 在起草前先向教师询问文化情境的教案规划器（Zhai等，2026）
+- [[llm-cultural-relevance-k12]] — 面向文化相关K-12教学法的LLM
 - [[civic-education-ai-lesson-plans]] — 公民教育中的AI生成教案
 - [[ojeda-ramirez-community-based-ai-learning]] — 基于共同体的AI学习
 - [[genai-minoritized-knowledges-disability]] — 生成式AI与少数派知识的边缘化
-- [[nsmq-riddles-science-math-benchmark]] — NSMQ Riddles: Ghana STEM Benchmark
+- [[nsmq-riddles-science-math-benchmark]] — NSMQ Riddles：加纳STEM基准
 - [[cross-cultural-student-perceptions-genai-computing]] — GenAI使用的跨文化感知
 - [[international-students-conversational-ai-adaptation]] — 国际学生与会话式AI
 - [[connected-ai-lesson-planning-vietnam]] — ConnectED：越南课程规划

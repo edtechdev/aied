@@ -1,7 +1,7 @@
 ---
 title: 脚手架
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-09T18:52:44-04:00"
+updated: "2026-10-24T15:22:00-04:00"
 connected_resources: [onmicro-ai]
 connected_faqs: [designing-ai-into-learning, developing-ai-tutor, asynchronous-online-courses-ai]
 type: concept
@@ -11,7 +11,7 @@ technology: [intelligent-tutoring]
 assessment: [feedback]
 confidence: high
 translation_of: concepts/scaffolding
-source_updated: "2026-10-13T11:05:00-04:00"
+source_updated: "2026-10-24T06:40:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -56,6 +56,7 @@ ai_assist:
 - **"脚手架，而非替代"作为设计原则：** [[substitution-to-scaffolding-ai-harm-cycle-2026|Favero et al.（2026）]]论证，AI 在教育中的核心风险是错位——替代人类努力的 AI 会侵蚀教育本应培养的能力——并由此推导出单一设计原则：*脚手架，而非替代*。脚手架必须是 [[ai-technologies|AI 系统]]的一等能力：知道*何时不给答案、何时提问、何时呈现不确定性、何时给出替代视角*。他们对学生作文的分析显示，学习者自己收敛于此——要求 AI"不给你任何解答，你仍然必须自己找到正确答案才能学到"。这一原则把脚手架定位为认知、[[agency]]、情感与 [[ethics]] 上自我强化的替代伤害循环的替代方案。
 - **把指导当作研究过程的脚手架。** [[scaffolding-systematic-reviews-2026|Wang et al.（2026）]]把系统综述视为一种有意的学习经验，其中指导提供整合的方法与情感脚手架，而自动化被限定于程序性负担，如摘要筛选，数据抽取、调和与综合仍由人类审阅者承担。
 - **脚手架嵌入媒介，而非外挂：** [[wang-chatgpt-comments-video-learning-scaffolding-2026|Wang、Du 与 Jin（2026）]]在一个视频播放器内落地四项脚手架原则——依 [[sociocultural-learning|ZPD]] 调整评论深度、*渐隐*脚手架（知识支持沿时间线变薄）、*分布式*脚手架（每条评论要么是知识要么是情感支持），以及由认知负荷推导的**时机**——通过计算帧级视频熵，仅在低信息区间插入评论。他们四人一组、共 20 名学习者的四条件消融发现，熵–时机模块在移除时对感知质量产生最强且最稳健的效应（Z = −2.85，r = 0.45，p = .004），这使脚手架的*排程*成为一个可测量的设计变量，而非包装细节。该研究还为自动化脚手架带上一则警示：[[generative-ai|ChatGPT]]-生成的评论一贯比教师评论更难读、词汇多样性更低、主题对齐更差，情感支持上的相关性缺口最大（[[ai-feedback-quality|反馈质量]]）。
+- **把情感脚手架作为提示层，与纯认知脚手架相对照。**在界面与课程保持不变的情况下，情感版本请学生在三个时点报告感受，并据此沿控制与价值评价调整语气、情感脚手架与认知挑战，温度设为 0.7，使这些适应起引导作用而非指令作用。在对话痕迹中，它比单独的 SRL 提示买到了更多表现阶段与自我反思的工作，以及更多的愉悦和更少的厌倦。在一次 25 分钟的会话中，它对学习增益或自我效能没有增加任何东西（[[diordiev-emotional-scaffolding-genai-srl-2026|Diordiev、Stenberdt 与 Makransky，2026]]）。
 - **被偏好的脚手架并不总是最有效的：** [[preferred-scaffolding-ai-mathematical-modeling|Zhu、Yang 与 Yang（2026）]]在组内实验中发现，学生在同伴与助教 AI 角色下表现最好（这类角色促进 [[collaborative-learning|协作]]推理），却偏好更指令化的导师与优等生角色——偏好与表现之间的分歧警告，不要把学习者偏好等同于 AI 支持数学建模中的有效脚手架。
 - **结构更强的脚手架并不自动是更具能动性的：** 一个专家设计机器人相对普通 ChatGPT 提高了互动长度与自撰提示，但协作问题求解中的能动性在两种条件下都下降，而一致赞同而非批评是所观察到的最低能动性行为（[[preservice-teacher-agency-genai-design-learning-2026|Krushinskaia et al.（2026）]]）。
 

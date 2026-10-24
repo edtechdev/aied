@@ -88,12 +88,12 @@ ai_assist:
 ## 关联文章
 - [[learner-agency-ai-simulation-2026]] — 复杂系统模拟中的参数控制与可选 AI 智能体：增益追随执行，而非可及性
 - [[benzion-ai-physics-simulations-virtual-lab]]
-- [[adaptive-virtual-patient-psychotherapy-training]] — Adaptive Virtual Patients for Psychotherapy Training
-- [[ai-enabled-serious-games]] — AI-Enabled Serious Games
-- [[anvil-ai-educational-animations]] — ANVIL: Analogies and Videos for Lecturers
-- [[astra-atco-training-simulator]] — ASTRA: ATCO Training Simulator
-- [[supplynet-visual-exploratory-learning]] — SupplyNet: Visual Exploratory Learning
-- [[medeasy-ai-standardized-patients]] — MedEASY: AI Standardized Patients
+- [[adaptive-virtual-patient-psychotherapy-training]] — 用于心理治疗训练的适应性虚拟病人
+- [[ai-enabled-serious-games]] — AI 赋能的严肃游戏
+- [[anvil-ai-educational-animations]] — ANVIL：面向讲授者的类比与视频
+- [[astra-atco-training-simulator]] — ASTRA：ATCO 训练模拟器
+- [[supplynet-visual-exploratory-learning]] — SupplyNet：视觉探究式学习
+- [[medeasy-ai-standardized-patients]] — MedEASY：AI 标准化病人
 - [[remind-robot-mediated-roleplay-antibullying-2026]] — 用于旁观者干预的机器人中介角色扮演游戏（应用戏剧）
 - [[residencyrl-clinical-rl-training-2026]]
 - [[genai-scenario-based-healthcare-education-2026]] — 情境式医疗教育中 GenAI 的系统综述（Neto et al. 2026）

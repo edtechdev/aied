@@ -1,7 +1,7 @@
 ---
 title: "我如何撰写课程人工智能政策并向学生说明？"
 created: "2026-09-22T19:42:07-04:00"
-updated: "2026-10-09T18:10:00-04:00"
+updated: "2026-10-24T15:35:34-04:00"
 weight: 70
 type: faq
 foundations: [academic-integrity, framing-ai-use-for-students, reducing-ai-misuse]
@@ -12,7 +12,7 @@ audience: [instructors, curriculum designers]
 level: [higher ed, secondary]
 methods: [qualitative-research]
 institutions: [educational-policy-ai]
-source_updated: "2026-10-02T08:21:34-04:00"
+source_updated: "2026-10-21T14:32:00-04:00"
 translation_of: faqs/course-ai-policy
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
@@ -28,8 +28,6 @@ ai_assist:
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
-
-# 我如何撰写课程人工智能政策并向学生说明？
 
 你只有一份课程大纲、一份作业说明，而教室里坐满了早已就[[generative-ai|生成式人工智能]]为自己写下私人规则的学生。你发布出去的规则，必须既对守规矩的学生公平，也对不守规矩的学生公平，而且还必须是你真能套用到四十份提交作品上、既不变成老好人也不变成警察的规则。
 

@@ -1,7 +1,7 @@
 ---
 title: 公平性
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-10-09T18:39:21-04:00"
+updated: "2026-10-24T15:58:16-04:00"
 type: concept
 foundations: [ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring]
@@ -12,7 +12,7 @@ level: [higher ed, k 12]
 confidence: high
 connected_faqs: [research-gaps-aied, designing-educational-ai-software, equity-ethics-pedagogical-safety-research, how-ai-impacts-students, ai-guidance-children-under-13, ai-disabled-neurodivergent-learners]
 translation_of: concepts/equity-in-ai-education
-source_updated: "2026-10-09T08:42:12-04:00"
+source_updated: "2026-10-18T13:41:09-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -67,6 +67,8 @@ ai_assist:
 
 ## 结果公平
 
+在一项对 394 项生成式 AI 高等教育研究的范围综述中，公平与获取是被针对得最少的结果之一，与元认知、伦理和创造力并列（[[mapping-genai-higher-ed-scoping-review|Lin 等人（2026）]]）。
+
 - **差异化影响：**若无公平透镜而设计，AI 工具可能扩大差距——[[genai-higher-education-systematic-review-2026|系统综述]]与[[ai-scoring-language-bias-physics|评分偏见研究]]显示了收益与危害在学习者群体间的不均分布。收益的合并证据带有同样的边界：[[jing-genai-learning-outcomes-higher-ed-meta-analysis-2026|Jing 等人（2026）]]在 35 项研究上估计本科生的总体中到大的收益（g=0.53, 95% CI [0.48, 0.64]），同时指出高成本工具的不公平获取是这些效应量无法捕捉的风险之一，学业表现与专业技能上显著的 Egger 检验使漏斗图不对称与小研究效应悬而未决。
 - **跨越两个数量级成本的等效学习。**StudentBench 发现 AI 辅导与专家人类辅导在统计上等效，而导师之间的成本差从每百分点学习收益 \$0.005 到 \$1.40，且一个开放模型以 918× 更低的每点成本达到人类收益（\$0.0052 对 \$4.81），使单位学习的成本成为一个获取变量而不仅是质量变量（[[studentbench-ai-human-tutoring-gre-2026|Northcutt 等人（2026）]]）。
 - **偏见放大：**AI 建议与[[ai-feedback-quality|自动反馈]]可能强化（而非挑战）既有的教师与系统性偏见。[[marked-pedagogies-linguistic-bias-writing-feedback|Marked Pedagogies]]表明，LLM 写作反馈工具在反馈按学生的种族、语言、残疾、成绩或动机个性化时，系统性地滑向符合刻板印象的赞扬与被保留的批评——即使在完全相同的作文上——使"[[personalized-learning|个性化]]"成为自动反馈中一个具体的偏见载体。
@@ -96,6 +98,8 @@ ai_assist:
 ## 语言、文化与残障包容
 
 - **语言：**多数 AI 工具优先英语，边缘化[[multilingual-learning|多语言]]学习者。[[genai-linguistic-diversity-academic-writing|学术写作中的语言多样性]]、[[structural-silence-underrepresented-language-ai-2026|代表性不足的语言]]与[[language-learning]]研究对此加以应对。
+- **检测在多语言写作者身上最容易误伤。**由于检测器依据文本可预测性而非来源进行分类，它们标记的低困惑度与公式化密度同样也是附加语言[[writing-education|写作]]的特征；已有研究发现 GPT 检测器把非母语英语使用者写的大量真实 TOEFL 作文误判，这是一种差异性影响风险，先于它是一种技术风险（[[angelier-ai-detection-pitfalls-inclusive-assessment-2026|Angelier（2026）]]）。
+- **其机制是语言润色，而非作者身份。**编辑一份非母语作者的手稿使检测器的判定双向移动：MAGE 把文本标记为 AI 的可能性降低 10.7 个百分点，LastDE+ 则升高 5.8 个百分点，且这一移动随编辑修改幅度增大而增大（[[park-style-confound-ai-detection-non-native-writing-2026|Park、Jeong 与 Kim（2026）]]）。由于作者身份未变，这些工具读到的是润色，而非机器介入。
 - **识别，而不只是获取：AI 的文化扁平作为一项公平发现：** 在一项对五名有色人种中学学徒的为期 9 个月的叙事探究中，[[gyekye-selves-apprenticeship-2026|Gyekye（2026）]]发现学生把公平等同于*可见偏见的缺席*——一种"文化扁平"，即身份特定的经验与文化标记在 AI 回应中得不到表征——并通过拒绝（不把使用作为制度对齐）与协商（使 AI 产出在制度上可读）来建构能动性。该研究的"识别带宽"概念命名了学习者在 AI 产出中看见自己的空间，而"制度 AI 素养"则是在制度期望内驾驭 AI 的能力。这是一项五名单项目质性研究；其公平贡献在于表明"作为公平的中立"本身就可以是排除机制。
 - **谁从一个 AI 导师中受益——探索性的田野证据：** 在一次全区铺开的教师中介 AI 数学平台中，[[alam-goblins-math-platform-2026|Goblins（Alam 等 2026）]]发现，有 IEP 的学生（+0.122 SD）、英语学习者（+0.191 SD）与西班牙裔学生（+0.084 SD）的成绩关联大于对照组，这与其多模态输入和七语言语音支持降低参与障碍相一致。作者明确指出，这些探索性的、功效不足的亚组无法确立无障碍特性造成了这一差异——它是一个早期的、生成假设的信号，而非一项公平发现。
 - **文化：**[[culturally-relevant-pedagogy|文化相关教学法]]与[[culturally-aware-aied-community-learning|以社区为中心的 AIED]]呼吁 AI 反映学习者的文化语境，而非强加主导规范。
@@ -107,6 +111,7 @@ ai_assist:
 - **特殊群体：**[[special-education]]、[[neurodivergent-computing-students|神经多样性学习者]]、[[dyslexlens-dyslexic-learners-ai|阅读障碍学习者]]与[[inclusive-learning|残障学习者]]代表其需求常被 AI 系统设计忽视的群体。
 - **全球南方视角：**[[suacode-african-students-motivations|非洲学生动机]]、[[connected-ai-lesson-planning-vietnam|越南 AI 课程规划]]与[[pre-service-science-teachers-ai-perceptions-2026|加纳教师接受度]]提供了西方中心 AIED 研究中常缺席的全球南方视角。在机构层面，[[adeniranye-ai-integration-nigerian-higher-education-2026|Adeniranye 等人（2026）]]表明，45 所尼日利亚大学的 AI 整合由机构年龄与地理而非治理类型驱动，强化的网络联系让连接良好的机构复合优势——证明公平差距是结构性再生产的，而非仅经由个体获取。
 - **全球能力：**证据记录了生成式 AI 收益如何不均等地分布于各国与机构，[[ai-lifelong-learning-policy|AI 与终身学习政策]]应对结构性的社会经济梯度。
+- 一项对 72 项高等教育评估研究的 PRISMA 综述发现，证据基础在地理上集中：澳大利亚与英国合计贡献了 72 项中的 31 项，且未识别出来自南美的研究（[[higher-ed-assessments-genai-systematic-review|Crompton 与 Burke（2026）]]）。
 - **残障与全球南方的交叉：**[[khlaif-assistive-genai-visually-impaired-2026|Khlaif 等人（2026）]]——一项在三所巴勒斯坦大学对 21 名视障本科生的[[qualitative-research|质性]]个案研究——表明生成式 AI 弥合数字、地理与社会经济鸿沟，同时把[[technology-acceptance-model|技术接受模型]]扩展到残障语境，其中[[usability-research|可用性]]、可负担性与无障碍性相互强化。
 - **计算中的性别公平：**面向公平的[[generative-ai|生成式 AI]]用途仍探索不足。[[all-girls-genai-makerspace-gender-equity-2026|欧洲一项全女生生成式 AI 创客空间倡议]]把两个生成式 AI 工具与女性主义教学法结合，应对女生在计算中代表性的持续性别不平等，从业者采取具体步骤支持女生的参与与投入——这是面向公平的生成式 AI 设计的一个例证。刻意性别的 AI 也能充当*干预本身*：[[ada-female-coded-chatbot-gender-stereotypes-2026|Rücker 与 Becker-Genschow（2026）]]表明，一个以女性编码、以 Ada Lovelace 人物为原型的[[discipline-specific-aied|学科特定]]数学[[conversational-ai|聊天机器人]]（既作榜样又作[[intelligent-tutoring|学习助手]]），在九年级学生中显著减少了对数学能力与[[math-education|数学]]作为男性领域的性别刻板信念——在*两种*性别中都是，且技术接受度高且性别中立。这把代表性重新框定为一种设计杠杆，而不只是待审计的偏见：系统设计的 AI 人格可以对抗而非仅仅避免再生产[[gender-bias-transfer-llm-writing|性别偏见]]。
 
@@ -114,10 +119,13 @@ ai_assist:
 
 - **公平是设计，而非事后补救：**[[bias-mitigation|偏见缓解]]与公平性感知算法必须内建于 AI 导师、评分器与推荐器，并与准确度一同接受公平性评估。
 - **基础设施就是公平：**应对[[digital-divide|数字鸿沟]]与代表性不足语言的基础设施，是公平 AI 的前提，而非次要关注。
+- **教师中介的递送触及 AI 永远接触不到的学生。**在[[digital-divide|数字鸿沟]]使每名学生一台设备不可行之处，[[rodrigues-aied-unplugged-numeracy-2026|Rodrigues 等人（2026）]]让学生继续用纸笔作答，同时教师拍摄他们的解法、AI 返回个性化的练习清单与针对具体错误的[[feedback|反馈]]，这是一项横跨 19 个巴西公立学校班级的聚类准实验。
 - **代表性在内容与评估中都重要：**AI 策划的材料与[[automated-assessment|自动评估]]必须反映而非惩罚多样的学习者、文化、语言与知识体系。
 - **把获取与支持配对：**仅提供工具不够；学习者需要技能、条件与文化相关的[[scaffolding]]才能受益。
 - **触及正规教育遗漏的受众：**[[ai-literacies-young-adults-2025|面向公共服务媒体的 AI 素养框架]]认为，除非另行设计，供给会持续只到达已处优势者，把在数字或其他方面被边缘化的年轻人命名为经由正规教育机会最少者，并提出有针对性的伙伴关系加上全国触达的供给——而非普遍发布——作为补救。
 - **政策与治理：**机构 AI 政策（[[educational-policy-ai]]、[[governance]]）必须把公平嵌入为指导原则。
+
+公平还有一个环境与计算维度：对计算密集型模型的不平等获取可能扩大学生之间以及资源丰富与资源不足机构之间的差距，而部署大模型的巨大能耗与碳足迹与高等教育的可持续性目标相冲突（[[large-language-models-teaching-learning-higher-ed|Li 等人（2026）]]）。
 
 ## 关联概念
 
@@ -187,3 +195,5 @@ ai_assist:
 - [[gurung-hybrid-human-ai-tutoring-2026]] — 通过按学生需求区分人工导学角色来改进混合人机辅导（Gurung 等 2026）
 - [[alam-goblins-math-platform-2026]] — 全区 AI 数学铺开：对 IEP、英语学习者与西班牙裔学生更大的探索性关联（多模态/多语言支持；因果性未经检验）
 - [[gyekye-selves-apprenticeship-2026]] — 有色人种学徒把公平等同于文化扁平；能动性通过拒绝与协商建构；识别带宽与制度 AI 素养
+- [[rodrigues-aied-unplugged-numeracy-2026]] — 教师中介的递送触及 AI 永远接触不到的学生
+- [[angelier-ai-detection-pitfalls-inclusive-assessment-2026]] — 检测在多语言写作者身上最容易误伤

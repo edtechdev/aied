@@ -1,7 +1,7 @@
 ---
 title: 评价性判断力
 created: "2026-09-10T05:58:00-04:00"
-updated: "2026-10-09T18:58:14-04:00"
+updated: "2026-10-24T15:58:16-04:00"
 type: concept
 foundations: [academic-integrity, critical-thinking]
 pedagogy: [metacognition, self-regulated-learning]
@@ -10,7 +10,7 @@ audience: [instructors, learners, assessment designers]
 level: [higher ed]
 confidence: high
 translation_of: concepts/evaluative-judgment
-source_updated: "2026-09-30T16:25:27-04:00"
+source_updated: "2026-10-24T08:06:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -74,10 +74,14 @@ ai_assist:
 - **评价可以被设计为奖励判断而非产出。** [[mohamed-temimi-assessment-imperfect-information-disclosure-2026|响应域模型]]形式化了原因：重新设计降低隐藏外包的收益，提高可见推理、解释与批评的价值。让学生解释他们接受和拒绝了哪些 AI 建议，就把决策本身变成了可评估的证据。
 - **机构自身的判断缺乏它要求学生达到的标准。** [[munoz-misconduct-allegation-evidence-2026|Munoz 等（2026）]]评定了 1,162 起生成式 AI 不端指控中 1,855 项证据的证明价值，发现证据质量与案件结果之间没有可靠关系，因为流程的任何阶段都没有设定最低证据门槛，也没有要求调查者在推进一项指控前衡量证明价值——评审小组靠非结构化的职业判断来衡量证据。检测器输出是这批材料中最弱的一类（单独的检测器输出可信度极低），而[[hadra-ai-detector-accuracy-efl-2026|Hadra 等（2026）]]显示该工具根本无法确立其结论所断言的事实——192 篇文本上宏观准确率 0.69 和 0.61，在人机混合作文上近乎全面失败，对 EFL 写作者还存在边缘性的偏见隐忧——这正是作者自己的建议是人的判断、更清晰的[[educational-policy-ai|政策]]和更明确的任务规定，而非监控。更明确的任务规定有其双倍的分量：[[wright-transcription-not-generation-2026|Wright（2026）]]论证，按平台身份而非功能书写的规则在定义上必然过宽，会惩罚一个并没有做该规则旨在防止之事的的学生，因此评估者的判断必须施于工具做了什么，而不是用了哪个平台。没有共享标准的判断无法被教授、校准或审计——这就是本页为学生们报告的同一性问题，只不过它出现在机构层面。评估者的判断本身还带有可测的方向性：五位招生官区分 50 篇人类与 50 篇 AI 招生文书，达到 AUC 0.70（95% CI [0.65, 0.75]），且他们的质量评分随感知的 AI 可能性上升而下降，这一关联在校正机器评定的质量、实际已证实的来源与申请者特征后依然成立（−0.109, p < .05）。由于没有人对提交材料做筛查，那种无辅助的判断就是整个执行机制，而每篇被标记的文书带有 1.5 个百分点的更低录取概率，在控制文书质量后为 2.6（[[ai-written-admissions-essays-penalized-2026|Isley, Gaebler and Goel 2026]]）。
 - **正在提出课堂层面的判断力代理指标。** [[austin-ai-agents-assignment-redesign-2026|Austin（2026）]]在一套重新设计的作业序列上增加两个行为信号：UnBlooms™ *洞察率（Discernment Rate）*，即学习者审视、质疑或修改而非直接接受的 AI 输出所占份额，以及*首次接受率（First-Pass Acceptance Rate）*。两者都未经检验——都是作为廉价的分作业诊断而提出的——但它们使这一构念在常规评分之内可观察，其中多次作业中接近零的洞察率应读作任务设计信号，而非个体缺陷。
+- **当判断力与修改相连，而不仅是存在时，它才显现。**在 67 名用 GenAI 设计教案的职前教师中，低质量组几乎没有显式评价（0.67 对 0.00）；区分质量的是评价与修改之间双向的循环（CE→RE Z = 2.80，RE→CE Z = 2.50）以及一个修改自循环（RE→RE Z = 4.24）（[[fang-human-ai-collaboration-patterns-instructional-design-2026|Fang 等人（2026）]]）。
+- **教师的评价标准可以通过修改 AI 输出而外在化。**[[valiassist-programming-feedback-validation-by-demonstration-2026|Tang 等人（2026）]]从 16 名教师对 LLM 生成的编程反馈的编辑中推断出可复用的验证规则，并把与其教学意图的一致度从 57% 提高到 91%，使默会的标准变得可检视，而不是任其不被言明。
 
 ## 误用如何取代判断
 
 最清晰的风险是取代，而它是在反馈文献中被证实的，而非只是理论。当工具同时提供了量规、反馈和监控，学习者的[[metacognition|元认知]]与评价实践就被取代而非被支持——评价变成了一场学生从未真正行使过的判断表演，与[[cognitive-offloading|认知外包]]是同一失效模式，只是表现在评价层面。多点实验中的直接 GenAI 反馈正是把学生推向这种被动外包。评分压力还会叠加：当自我评价或对 AI 使用的反思本身要被评分时，学生可以制造出量规想要的那种反思，而非真正的推理，所以真正的判断要求这项练习有实质后果——一个会在后续作业中显形的决定、一次口头解释、一份被审阅的记录下来的理由。
+
+取代还有一个教师侧的版本，而正是它使若干写作教授彻底反对把评分外包出去。二十四人中有五人说，评分是教师得以理解学习者的方式，因此把评分交出去所损失的正是那份理解，而不只是工时（[[wu-lam-genai-writing-assessment-professors-2026|Wu 与 Lam（2026）]]）。二十四人中有十八人把人的判断视为能抓住工具错误并为之承担责任的东西。
 
 ## 对实践的启示
 
@@ -110,6 +114,7 @@ ai_assist:
 - [[higher-ed]]
 
 ## 关联文章
+- [[wu-lam-genai-writing-assessment-professors-2026]] — 为什么写作教授拒绝把评分外包：那是他们了解学生的方式
 - [[chatgpt-peer-feedback-evaluative-judgement-2025]] — ChatGPT 与同伴反馈作为评价性判断力不同维度的训练场
 
 - [[ai-internal-feedback-evaluative-judgments]] — AI 支持的内反馈如何发展评价性判断力，以及推理在何处仍然单薄
@@ -134,3 +139,5 @@ ai_assist:
 - [[authentic-assessments-generative-ai-pilot-2026]] — 用生成式 AI 设计真实性评价：高等教育中评价真实性认证的试点研究
 - [[obyrne-co-constructing-ai-boundaries-agency-judgment-2026]] — 结构化每一次 AI 互动的主体性检查（可信、相关、可接受、细致）
 - [[judgment-centred-software-engineering-education-2026]] — AI 增强软件工程教育的热潮后回顾与框架
+- [[fang-human-ai-collaboration-patterns-instructional-design-2026]] — 判断力只有与修改相连时才区分质量（Z = 2.80 与 2.50）
+- [[valiassist-programming-feedback-validation-by-demonstration-2026]] — 教师的修改成为可复用的验证标准（Tang 等 2026）

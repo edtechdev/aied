@@ -13,6 +13,7 @@ level: [higher ed]
 page_kind: [synthesis]
 connected_faqs: [making-simulated-students-behave-like-learners, how-can-ai-assist-with-educational-research]
 confidence: medium
+connected_resources: [learning-design-wiki]
 contributors: [editor]
 translation_of: concepts/ai-assisted-educational-research
 source_updated: "2026-10-22T09:11:45-04:00"

@@ -2,7 +2,7 @@
 connected_resources: [student-guide-to-ai]
 title: 元认知
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-10-09T18:39:23-04:00"
+updated: "2026-10-24T15:01:00-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
@@ -13,7 +13,7 @@ audience: [learners]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/metacognition
-source_updated: "2026-10-15T10:00:00-04:00"
+source_updated: "2026-10-18T10:07:01-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -81,6 +81,8 @@ ai_assist:
 - **为每个任务分配一个使用层级。** HAIML 把它的三个层次与四个使用层级 — 从不用人工智能，到头脑风暴，到人工智能协同与带输出评估的人工智能整合创作 — 配对，因此教师为任务设定层级，并在每个层级上都把元认知反思置于中心（[[haiml-human-centered-ai-metacognitive-model-2026|Reardon，2026]]）。
 - Scheu 等人的[[conversational-ai|聊天机器人]]课程中的**示例**即使在[[llm]]助手单独未产生效果时也提高了**感知能力**（一种元认知[[self-assessment]]）
 - **一个新兴的框架把系统而不只是个体置于环中。** 一项对 135 项 STEM 课堂研究（24 项核心研究）的书目计量—系统综述发现一个后人类主义框架正在浮现，它把人工智能定位为学习的共同调节者，把分析单位从个体反思转向系统层面的[[regulation]]与[[distributed-cognition|分布式认知]]（[[ai-metacognition-stem-review|Tsakeni 等人（2025）]]）。
+
+**元认知是被研究最少的结果之一。** 在一项对 394 项 GenAI 高等教育研究的范围综述中，元认知与自我调节学习是和伦理、创造力并列被针对最少的结果（[[mapping-genai-higher-ed-scoping-review|Lin 等人（2026）]]）。
 
 - **浮现出学习者看不见的互动模式。** [[student-ai-interaction-consecutive-interpreting-2026|Kuang、Li 与 Weng（2026）]]在 22 名口译学员使用语音识别与机器翻译系统时追踪了眼球运动、笔记与语音，发现学生在人工智能输出与自己的笔记之间分配[[cognitive-psychology|注意力]]的方式对他们自己不可见：58.3% 的人在任务阶段之间改变了策略，而人工智能输出读得最重者在表达流畅性与目标语言质量上得分最低。其教学后果是反思必须由外部证据来搭建支架，因为学习者的策略不是内省可及的 — 作者主张引导学生描述并评价他们在每个阶段为何以某种方式工作。
 - **过程证据依渠道而有条件。** 在 79 名使用[[generative-ai|生成式人工智能]]的本科生中，更深的监控与规划在出声思维单元中出现得更频繁，而更深的调节在互动日志中出现得更频繁，因此单一记录会低估某些过程（[[metacognitive-processes-genai-interaction-logs-2026|Li 与 Liu（2026）]]）。
@@ -158,7 +160,7 @@ Scheu 等人（2026）发现了一个关键的分裂：
 ## 关联文章
 
 - [[clerc-ai-literacy-workshop-llm-regulation-2026]] — 两小时的人工智能素养工作坊改变了初中学生的大语言模型互动调节，而他们自报的元认知没有（Clerc 等人 2026）
-- [[student-ai-interaction-consecutive-interpreting-2026]] — Student-AI Interaction in Computer-Assisted Consecutive Interpreting
+- [[student-ai-interaction-consecutive-interpreting-2026]] — Student-AI Interaction in Computer-Assisted Consecutive Interpreting：计算机辅助交替传译中的学生与 AI 互动
 - [[du-yuan-epistemic-dependence-2026]] — 人工智能中介学习中的认识论依赖（Du & Yuan 2026）
 - [[llm-interaction-depth-task-quality-recall-2026]] — 学生问什么要紧：大语言模型互动深度、任务质量与即时回忆（Tsiligkiris 2026）
 - [[layer-sensitive-cognitive-offloading-writing-2026]] — GenAI 协助写作中的层次敏感认知外包（Chen 2026）
@@ -176,9 +178,9 @@ Scheu 等人（2026）发现了一个关键的分裂：
 - [[agentic-ai-pedagogical-best-practice-2026]] — 代理式人工智能与教学最佳实践：自动化与学习之间的张力
 - [[cognitive-offloading-speedup-illusion]] — 人机互动中的认知外包与加速错觉
 - [[lodge-loble-cognitive-offloading-2026]] — 人工智能、认知外包及其教育含义（Lodge & Loble 2026）
-- [[pedagogy-ai-mistakes]] — The Pedagogy of AI Mistakes: Fostering Higher-Order Thinking（Hosseini 2026）
+- [[pedagogy-ai-mistakes]] — 人工智能错误的教学法：培养高阶思维（Hosseini 2026）
 - [[kim-ai-productive-failure-adult-2026]] — 设计支持基于生产性失败学习的人工智能系统
-- [[lukesova-clue-before-correction-2026]] — Clue Before Correction: ChatGPT for Autonomous Language Learning
+- [[lukesova-clue-before-correction-2026]] — Clue Before Correction: ChatGPT for Autonomous Language Learning：先给线索再纠正：ChatGPT 用于自主语言学习
 - [[miles-prompt-literacy-human-centered-genai-framework-2026]] — 提示素养循环中对提示过程的反思与作者身份发展（Miles, Haber-Curran & Arar 2026）
 - [[ren-metacognitive-awareness-genai-reliance-2026]] — 一条反思提示降低了对不正确人工智能建议的接受并改善了觉察校准（Ren 2026）
 - [[chen-automated-scoring-interpreting-self-regulated-learning-2026]] — 自动评分强化了监控而非规划，而自报的反思仍无生产性（Chen & Liu 2026）
@@ -188,7 +190,7 @@ Scheu 等人（2026）发现了一个关键的分裂：
 - [[melanou-genai-learning-dynamics-longitudinal-2026]] — 反思性使用随人工智能可得而上升并预测批判性思维而非知识增长（Melanou, Beege & Kimmig 2026）
 - [[alatoai-ai-learning-environments-self-regulation-2026]] — 元认知觉察作为适应性 STEM 学习最强的预测因子（Alatoai & Alshahri 2026）
 - [[hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026]] — 从诊断到元诊断：教师评判人工智能生成的推断（Hoppe, Loibl & Leuders 2026）
-- [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — Open Questions Towards Skill-Sustaining Reliance in Reflective AI Engagement
+- [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — Open Questions Towards Skill-Sustaining Reliance in Reflective AI Engagement：迈向反思性 AI 投入中技能保全性依赖的开放问题
 - [[dang-human-ai-collaboration-competency-2026]] — 元认知而非教学法，作为人机协同中学习者自主性的机制（Dang, Hong, Doyle & Nguyen 2026）
 - [[metacognitive-ownership-human-ai-regulation-2026]] — 元认知所有权：一个学习者对标准、判断与行动的治理的构念
 

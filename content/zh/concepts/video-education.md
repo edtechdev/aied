@@ -1,7 +1,7 @@
 ---
 title: 教育中的视频
 created: "2026-09-05T01:05:00-04:00"
-updated: "2026-10-09T19:08:48-04:00"
+updated: "2026-10-24T14:16:08-04:00"
 type: concept
 pedagogy: [online-teaching-and-learning, student-engagement, video-education]
 technology: [adaptive-learning, generative-ai, learning-analytics, llm, multimodal, personalized-learning]
@@ -9,7 +9,7 @@ audience: [instructors, instructional designers]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/video-education
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-18T10:07:01-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -41,6 +41,7 @@ ai_assist:
 - **自适应与结构化视频生成。** [[courseblueprint-adaptive-video-generation|CourseBlueprint]]提供一条结构化流水线，基于课程语料生成有自适应教学性的视频，表明驱动有效 AI 视频的是明确的教学结构——而不只是[[ai-literacy|AI 流畅度]]。[[bespoke-industry-personalized-lecture-videos-2026|Bespoke]]把同一逻辑应用于整场讲座的规模：从 31 场研究生讲座生成 209 个视频，面向医疗、金融、能源与通用受众，25 位领域匹配的专家对其中的 92 个评分，把 87% 放在或高于"一堂标准 MOOC 讲座的质量"这一中点之上（5 分制均值 3.42），每分钟 API 成本约 \\$0.22——语音、幻灯片时机与版式是反复出现的缺陷。
 - **一个学习闭环胜过更好的渲染。** [[pivot-generative-video-tutors-stem-2026|Ma 等（2026）]]把每个视频规划为一张故事板：目标、先修激活、讲解示例与诊断性探针，配一个刻意避开视频示例的测验和每个错误选项的补救；32 位教师中有 96.9% 判断该闭环比单个视频更有效。
 - **视频学习分析与注意力。** 对视频加以仪器化，能揭示学习者如何投入。[[engagement-assessment-video|视频学习中的参与度评估]]与[[savvy-student-attention-video-learning|SAVVY]]可视化学生在视频学习期间的注意力，支持[[learning-analytics|学习分析]]、[[self-regulated-learning|自我调节]]与脱离投入的早期预警。分段工作（例如[[adhd-video-segmentation-computing-education|时序视频分段]]）把视频裁剪到个体差异。
+- **对视频编码的神经读出。** 对所观看视频帧的 EEG 重建，在问题被正确回答时（M = 71.43）比被错误回答时（M = 62.30，p < .001）更具语义相似性；而系统性的时间错位——重建结果更像更早的帧——可被量化为一个与表现相关的离散度指标（[[seeing-cognitive-representations-eeg-reconstruction|Su 等（2026）]]）。
 - **化身与在场。** AI 化身——虚拟主讲者与教学智能体——提出关于身份、[[community-of-inquiry|社会性在场]]与信任的问题。[[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning|化身身份与认识论信任]]检视主讲者的表面身份如何塑造学习者的信任，而[[ai-psychotherapy-training-avatars|培训中的 AI 化身]]把这一模式延伸到专业实践。
 - **视频内支架评论——以及 AI 仍会出错之处。** [[wang-chatgpt-comments-video-learning-scaffolding-2026|Wang、Du 与 Jin（2026）]]生成 *i-Comments*——渲染在视频画面内、与内容同步的[[scaffolding|支架]]消息——方法是计算帧级熵，只在低信息区间插入支持。以资深教师的 120 条评论为基准，ChatGPT 的 1,000 条评论更密集、结构多样性远低（POS 三元语法多样性 5.5–6.2% 对 25.1–38.5%）、在每个可读性指数上都更难读、主题对齐更差（情感支持 BERTScore 0.317 对 0.574）；40 位学习者在时机与有用性上给人类评论显著更高的评分，尽管一个更新的模型缩小了这一差距。这是一个设计论证，与自动化论证同样重要：嵌入媒介的支持，避免了为查询一个独立[[conversational-ai|聊天机器人]]而暂停所带来的注意力与认知代价（[[ai-feedback-quality|反馈质量]]、[[social-emotional-learning|情感支持]]）。
 - **对讲座视频消费的 AI 支持。** 在生成之外，AI 帮助学习者与教师处理既有视频：[[bilingual-llm-lecture-companion-srl-2026|双语 LLM 讲座伴侣]]以录制讲座支持自我调节学习，[[gemini-lualatex-physics-video-transcription-2026|转写流水线]]把讲座视频转为可及的文本。

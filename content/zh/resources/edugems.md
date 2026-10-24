@@ -3,7 +3,7 @@ title: "EduGems"
 created: "2026-09-20T13:49:11-04:00"
 updated: "2026-10-24T08:38:48-04:00"
 type: resource
-summary: "一个不断扩充的现成 Google Gemini 'Gems' 库——可分享的预制提示，覆盖教学计划、反馈、表单、图像与 AI 使用反思。"
+summary: "一个不断扩充的现成 Google Gemini Gems 库——可分享的预制提示，覆盖教学计划、反馈、表单、图像与 AI 使用反思。"
 url: https://www.edugems.ai/
 author: "Eric Curts"
 author_url: https://www.controlaltachieve.com/

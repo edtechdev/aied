@@ -1,7 +1,7 @@
 ---
 title: 医学与卫生专业教育
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-10-09T18:58:09-04:00"
+updated: "2026-10-24T15:01:00-04:00"
 type: concept
 foundations: [teacher-role]
 technology: [adaptive-learning, simulation]
@@ -11,7 +11,7 @@ audience: [learners, instructors]
 level: [higher ed]
 confidence: high
 translation_of: concepts/medical-education
-source_updated: "2026-09-30T11:35:26-04:00"
+source_updated: "2026-10-22T10:05:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -47,6 +47,7 @@ AI 在医学与卫生专业教育中，是知识库学科覆盖中日益增长�
 - **护理中的 AI 驱动模拟。** [[jiang-ai-powered-simulation-nursing-education-2026|Jiang 等人（2026）]] 对 19 项研究（N = 1,253）的 [[mixed-methods-research|混合方法]] [[meta-analysis-systematic-review|系统综述]]发现，AI 驱动的 [[simulation|模拟]]（GenAI/LLM、虚拟患者/模拟人、AI 增强的 VR/MR，以及 [[conversational-ai|聊天机器人]]）在最强的设计中显著改善认知知识与 [[affective-computing|情感性]] 结果（[[self-efficacy]]、沟通信心），但对复杂的心理运动技能效果不一致——一项 [[rct]] 发现 AI 辅助的模拟*劣于* 标准化患者。他们的**「真实性差距（authenticity gap）」** 概念——学习者在情感共鸣、非语言线索与触觉检查上感知到的欠缺——解释了为什么 AI 最适合高度结构化的目标（基础沟通、病史采集），并应当处在一个**阶梯式模拟连续谱**中，与人类标准化患者和临床实习并行而非替代它们。这是对该领域 [[simulation]] 线索的一种独特、以证据为锚的精炼，并与学习者偏爱被视为「善意」的人类反馈而非仅仅「胜任」的 AI 这一接受-信任发现相平行。
 - **LLM 与护理中 [[learner-identity|专业身份]] 的重构（2026）。** [[sun-llm-nursing-education-professional-identity-2026|Sun 等人（2026）]] 对 47 个国家 489 项研究的批判性整合综述（Whittemore & Knafl 框架），把问题从 [[llm|LLM]] 在护理教育中能做什么，转向它们的融入对一名护士形成过程中的*发展进程*做了什么。经由 Benner 的技能习得、认知负荷理论、自动化偏见与 Wenger 的身份形成框架，他们发现同一技术既增强也侵蚀能力，取决于被置换的认知工作对目标能力而言是外在的还是构成性的——无结构的依赖在伦理推理与临床判断上产生了可测量的缺陷。他们的**专业身份张力模型** 把支持专业形成的 LLM 融入与悄然替代之的融入区分开来，而**结构性共情抑制** 把 AI 在关系性指标上的表面「胜过人」重构为系统性过度劳累的症状而非真正的 AI 共情。一张证据差距图显示，政策后果最高的领域（专业身份、关系性/伦理性能力、长期结果）建立在最稀薄的严谨证据之上——这是对护理教育中自信部署主张的一个告诫。
 - **临床问诊训练中的多智能体 AI 标准化患者。** 在一项含 95 名受分析医学生的 2026 年 [[rct|随机对照试验]] 中（[[ai-standardized-patient-scaffolding-medical-2026|Yang 等人]]），多智能体 AI 标准化患者训练把最终 OSCE 对齐的考试分数提高到高于一个结构化的非 LLM 渐进披露对照组（71.8% 对 55.6%；β = 16.4 个百分点；P = 3.30e-4），而二元诊断准确率在统计上无差异（84% 对 86%；P = 1.000）。这一分离表明，早期临床训练的增益可首先出现在问诊过程质量上——沟通（1–5 的 OSCE 量表上均值 3.53 对 2.64；P = 4.50e-4）、共情表达（「表达共情」清单项上 +31 个百分点）以及选定的病史采集行为——而后才出现在诊断终点上，并且 AI 患者仍需要人类评定者与教师来做专业性与就绪判断。
+- **标准级评分定位了 AI 患者做不到什么。** 在三个韩国 OSCE 病例中，四个骨干里有三个在可理解性、一致性与无幻觉上落在专家参照的 0.5 个 Likert 点之内，但弱点集中于临床推理与患者教育，以及韩语否定式对流畅度的惩罚（[[virtual-standardized-patients-osce-evaluation-2026|Yi, Park 与 Kim（2026）]]）。
 - **学生默认把 AI 患者当作可搜索的数据库。** 在一项 [[problem-based-learning|PBL]] 先导中对 genAI 化身做语音问诊，学生提出封闭式的、以效率为中心的问题——有一人问 AI 是否「就只是一个题库」——且问诊耗时 55–65 分钟，而旧模块为 36–39 分钟（[[genai-simulate-patient-history-pbl-2026|Mool 等人，2026]]）。
 - **任务分配与 SCAN 框架。** [[ai-teammate-task-distribution-medical-training-2026|Tsim 等人]] 把 AI 融入从学习者的「误用」重构为*误分类*——实时 [[metacognition|元认知]] 评估的失败。他们的 SCAN 框架（Substitute, Complement, Aid, Non-Negotiable）以 Vygotsky 的 [[sociocultural-learning|最近发展区]] 为基础，按个体学习者的发展状态分配 [[generative-ai|生成式 AI]] 任务，并把 AI 脚手架任务中的被动投入识别为一条通向技能错配的隐藏路径，它需要被从 AI 重新识别为专家协助，并配以人类 [[human-in-the-loop-ai|认识论审计者]]。
 - **人类在环的教学资产生成。** [[gen-mentor-dental-radiography-2026|Gen-Mentor]]（Dong 等人，2026）把一个视觉-语言模型骨干整合进牙科影像工作流：Faster R-CNN 定位四个目标发现（Filling, Implant, Impacted Tooth, Cavity），一个条件扩散模型生成类别特定的合成 ROI 候选，一个 VLM 产出与证据相连的说明文字，再由一个 [[llm]] 重排成病例描述、对比与测验提示——这一切都在结构化专家审查之前完成。以 45 名牙科学生评估（mean SUS 72.7），它展示了 [[human-in-the-loop-ai|人类在环]] 对 AI 生成教学资产的审查，如何在保留专家对学生所见内容的监督的同时，扩展病例多样性与即时反馈支持。
@@ -54,6 +55,7 @@ AI 在医学与卫生专业教育中，是知识库学科覆盖中日益增长�
 - **一个经验证的临床沟通 LLM 评判器。** [[sophie-clinical-communication-ai-assessment-2026|Hasan 等人（2026）]] 仅从转录文本就对 3E 沟通技能打分，其评判器对人类评定者共识达到 Pearson 0.759 与 ICC(A,1) 0.746，落在单个人类评定者的散布范围之内，尽管其最弱的维度（Be Explicit）并未随问诊次数改善。
 - **基于情境的卫生教育中的 GenAI。** [[genai-scenario-based-healthcare-education-2026|Neto 与同事（2026）]] 系统综述了卫生教育中跨基于情境、案例、问题与模拟的学习里 GenAI 的 23 项研究（PRISMA 2020）。其核心发现是 **[[prompt-engineering|提示设计]] 充当教学规约**——把专家编写中隐含的认知目标与质量标准编码出来——但只有 34.8% 的研究让生成内容与教学框架对齐，也只有 34.8% 的研究报告了足以复现的提示细节。GPT-4 主导了实现（44.4%），混合式 [[human-ai-collaboration|人机协作]] 胜过全自动方法，而证据对高阶认知技能最强、在其他地方则不一致。这为医学教育中的 [[simulation|情境/模拟式]] 与 [[problem-based-learning|问题式]] [[pedagogy]] 提供了验证与整合质量上的 [[benchmark|基准]]。
 - **开放式考试题的 AI 评分。** [[olvet-genai-scoring-open-ended-medical-2026|Olvet 等人（2026）]] 测试 [[generative-ai|GPT-4]] 能否在两所美国医学院校可靠地为临床前 [[assessment|评估]] 中的开放式问题打分。经教师跨三轮错误模式分析迭代精炼评分标准后，AI–教师的评分者间信度在四题中的三题达到实质到近乎完美的一致（weighted kappa 最高 0.94），但在整体评分标准题上仅为中等（κw = 0.54）；分歧可追溯到双方（GPT-4 对多答案或无评分标准词汇的回答打分过高；教师过于宽松），偶发的反馈不准确也使 [[human-in-the-loop-ai|人类留在环内]]。作者认为，自动 OEQ 评分的理由得到了加强，因为美国约 82% 的医学院校对临床前作业采用通过/不通过评定，那里并不总是要求 AI 分数精确一致。
+- **重跑并不能复现同一个分数。** 在一门硕士层次的公共卫生课程中，四个通用 [[llm|LLM]] 与两位人类考官给同样的 32 份匿名论述提交评分；思考模式下的 ChatGPT 达到加权 kappa 0.718，但在五个不同日子对相同提交重新评分只达到 Krippendorff's alpha 0.625（[[llm-grading-assistants-public-health-2026|Brevik 等人（2026）]]）。作者建议在高风险使用中取多次评估的平均。
 - **[[ai-ed-evaluation|评估 AI]] 教学智能体，而不只是部署它们。** [[zhang-platform-scores-miss-ai-teaching-agents-2026|Zhang 等人（2026）]] 在一门内分泌 [[curriculum-design|课程]] 中跨四种角色扮演范式（患者、学生、专家、家属）部署了八个 LLM 教学智能体，并用一个 8 维教学质量标准为 167 段学生对话打分。平台分数与标准质量严重背离；智能体在知识维度上差异最大、在角色扮演上差异最小；自适应难度校准是一个共同的弱项；而强化一个智能体的共情提升了角色扮演质量却没有改善知识覆盖。「角色扮演范式可以相互分离（超越默认的医生-患者脚本）」这一发现，指向针对显式教学维度来设计与评估智能体。
 - **该领域自身文献的形状。** [[sriram-ethical-ai-medical-education-bibliometric-2026|Sriram, Nichols, Ganti 与 Gue（2026）]] 绘制了医学教育中伦理 AI 文献本身的地图：1995 至 2026 年间 Web of Science 上 1,403 篇出版物，前二十年可忽略不计，随后 2023 年 113 篇、2024 年 256 篇、2025 年 500 篇；39 个国家超过作者数门槛，由美国（533 篇）领先于中国（189）与英格兰（95）；而引用最多的作品是能力测试——首推 ChatGPT 在医学执照考试上的表现——而非治理学术。他们的解读是：该领域增长得很快，却没有均衡地成长，而对 [[governance|治理]] 框架的实证评估正是引用记录没有奖励的那项工作。对于任何把已发表的 AI-医学教育研究之体量当作其安全使用问题已被回答之证据的人，这是一个有用的告诫。
 
@@ -92,23 +94,24 @@ HPE 是一个高风险、以能力为基础的领域，AI 的好处（可扩展�
 - [[virtual-and-augmented-reality]] — 沉浸式与 AR 临床培训
 
 ## 关联文章
+- [[virtual-standardized-patients-osce-evaluation-2026]] — 用已部署的数据生成平台对基于大语言模型的虚拟标准化患者做分层多评定者评估
 - [[genai-medical-education-transformation-review-2026]] — 对 153 份医学教育 GenAI 报告的范围综述：模拟领先，持久性与患者结果未被测量
-
-- [[ai-standardized-patient-scaffolding-medical-2026]] — Evaluating Scaffolding-Oriented Multi-Agent Large Language Model System for Clinical Interview Training
+- [[ai-standardized-patient-scaffolding-medical-2026]] — 面向临床问诊训练的脚手架式多智能体大语言模型系统评估
 - [[zhang-platform-scores-miss-ai-teaching-agents-2026]] — 用 8 维标准评估医学教育中的 AI 教学智能体
-- [[sun-llm-nursing-education-professional-identity-2026]] — LLMs, nursing education structural gaps, and the reconstitution of professional identity (Sun et al. 2026)
-- [[ai-teammate-task-distribution-medical-training-2026]] — SCAN framework: rethinking AI task distribution in medical training (Tsim et al. 2026)
+- [[sun-llm-nursing-education-professional-identity-2026]] — 大语言模型、护理教育的结构性缺口与专业身份的重构（Sun 等人 2026）
+- [[ai-teammate-task-distribution-medical-training-2026]] — SCAN 框架：重新思考医学训练中的 AI 任务分配（Tsim 等人 2026）
 - [[genai-simulate-patient-history-pbl-2026]]
-- [[fowlin-operationalizing-learning-principles-ai]] — Operationalizing experiential, situated, and distributed cognition with AI in health-professions education
-- [[residencyrl-clinical-rl-training-2026]] — Reinforcement-learning training for clinical skills in residency
-- [[medgame-llm-medical-education-gamification]] — Gamified LLM-based learning for medical education
-- [[hdr-brachytherapy-agentic-ai-simulation-2026]] — Agentic AI simulation for brachytherapy training
-- [[alrazeeni-transforming-nursing-education-ai-2026]] — Transforming nursing education with AI
-- [[jiang-ai-powered-simulation-nursing-education-2026]] — AI-powered simulation in nursing: mixed methods systematic review
-- [[wang-safety-gap-productive-struggle-2026]] — The Safety Gap: Restoring Productive Struggle
-- [[gen-mentor-dental-radiography-2026]] — Gen-Mentor: human-in-the-loop dental radiography instruction (Dong et al. 2026)
-- [[genai-scenario-based-healthcare-education-2026]] — Systematic review of GenAI in scenario-based healthcare education (Neto et al. 2026)
+- [[fowlin-operationalizing-learning-principles-ai]] — 在卫生专业教育中用 AI 落实经验式、情境式与分布式认知
+- [[residencyrl-clinical-rl-training-2026]] — 用于住院医师临床技能训练的强化学习训练
+- [[medgame-llm-medical-education-gamification]] — 面向医学教育的游戏化大语言模型学习
+- [[hdr-brachytherapy-agentic-ai-simulation-2026]] — 近距离放射治疗训练中的智能体 AI 模拟
+- [[alrazeeni-transforming-nursing-education-ai-2026]] — 用 AI 变革护理教育
+- [[jiang-ai-powered-simulation-nursing-education-2026]] — 护理中的 AI 驱动模拟：混合方法系统综述
+- [[wang-safety-gap-productive-struggle-2026]] — 安全差距：恢复建设性的挣扎
+- [[gen-mentor-dental-radiography-2026]] — Gen-Mentor：人类在环的牙科影像教学（Dong 等人 2026）
+- [[genai-scenario-based-healthcare-education-2026]] — 基于情境的卫生教育中 GenAI 的系统综述（Neto 等人 2026）
 - [[falahat-chatgpt-grading-pharmacy-exams-2026]]
 - [[olvet-genai-scoring-open-ended-medical-2026]]
-- [[sophie-clinical-communication-ai-assessment-2026]] — Scalable AI-based clinical communication training and automated assessment
-- [[sriram-ethical-ai-medical-education-bibliometric-2026]] — Bibliometric map of AI ethics in medical education: output rose 113 (2023) to 500 (2025), 39 countries, and citations reward capability testing over governance (Sriram et al. 2026)
+- [[sophie-clinical-communication-ai-assessment-2026]] — 可扩展的基于 AI 的临床沟通训练与自动评估
+- [[sriram-ethical-ai-medical-education-bibliometric-2026]] — 医学教育中 AI 伦理的书目计量地图：产出从 113（2023）升至 500（2025），39 个国家，引用奖励能力测试而非治理（Sriram 等人 2026）
+- [[llm-grading-assistants-public-health-2026]] — 重跑并不能复现同一个分数

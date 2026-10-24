@@ -1,7 +1,7 @@
 ---
 title: 评估效度
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-09T18:39:23-04:00"
+updated: "2026-10-24T14:35:00-04:00"
 connected_faqs: [redesign-assessment-ai-era, reporting-interpreting-aied-research, asynchronous-online-courses-ai, checking-whether-educational-ai-works]
 type: concept
 foundations: [academic-integrity]
@@ -10,7 +10,7 @@ ethics: [bias-mitigation, equity-in-ai-education]
 confidence: high
 methods: [rct]
 translation_of: concepts/assessment-validity
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-23T08:05:20-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -41,7 +41,7 @@ ai_assist:
 
 ### 效度面临的挑战
 
-- **构念效度：** 当学生在评估中使用人工智能时，分数反映的是学生的知识还是人工智能的能力？[[genai-performance-vs-learning|表现与学习]] [[research-methods-aied|研究]]直接回应了这一点。
+- **构念效度：** 当学生在评估中使用人工智能时，分数反映的是学生的知识还是人工智能的能力？[[genai-performance-vs-learning|表现与学习]] [[research-methods-aied|研究]]直接回应了这一点。一项重建测量可以对正确性敏感，而不本身就是一个正确性分数：[[seeing-cognitive-representations-eeg-reconstruction|Su 等人（2026）]]发现正确题目的 EEG 重建相似度（M = 71.43，SD = 4.61）高于错误题目（M = 62.30，SD = 5.91），然而一名学习者的高质量重建却伴随一个错误答案。
 - **对话式评估中跨大语言模型的与构念无关变异：** [[semantic-variability-llm-conversation-assessment-2026|Hao（2026）]]表明，即使对单个对话轮次，[[llm]]生成回答的语义内容也会随模型和对话语境条件而变化。模型内相似度始终高于模型间相似度（0.715–0.795 对 0.443–0.604），而加入聊天历史会显著改变回答内容（跨历史相似度中位数约 0.40–0.45）。由于相同的学习者输入会因底层模型不同而收到语义不同的回答，仅靠提问与语境无法保持回答的一致性 — 从而引入了潜在的**与构念无关的变异**，威胁效度、可靠性与公平性。因此，在大语言模型不断演进的过程中维持一致的评估条件是一个*基础设施*层面的挑战（符号规则、回答模板、验证层），而不仅仅是[[prompt-engineering|提示工程]]层面的问题。
 - **存在却从未到达评分者的证据：** [[ai-assisted-physics-lab-report-assessment-2026|Abreu、Stari 与 Martí（2026）]]提出了一种先于任何推理的与构念无关的威胁：在人工智能审阅实验[[physics-education|物理]]实验报告时，一个公式、图表、表格或单位可能已正确出现在报告中，却没有被从模型实际处理的加工内容中检索出来；由于符号、数值或单位的改变会改变物理解释，与教师的分歧未必意味着推理错误。他们的补救措施是程序性的 — 使用高分辨率 PDF 而非翻拍的扫描件、用公式编辑器书写公式、图内坐标轴与单位清晰可辨，以及要求每个分数附有具体引证 — 因为文档质量决定了由此产生的分数所能支撑的任何效度主张的上限。
 - **人类与大语言模型之间的潜在结构效度：** [[assessment-latent-structure-human-llm-2026|Strugatski 等人（2026）]]补充了一个更深的效度条件：即使大语言模型得分良好，要把人的评分解释迁移过来，也要求回答在*潜在结构*上相似。他们将六个[[multimodal]]大语言模型与人类被试群体在[[chemistry-education|化学]]与[[quantitative-research|定量]]推理测验上比较，发现大语言模型与人类之间的因子结构持续分歧（大语言模型—人类一致性低于人类—人类基线），因此在一个以人为常模的考试上的表现，对于大语言模型在这些题目所设计测量的构念上的能力而言，是薄弱的证据。
@@ -82,6 +82,8 @@ ai_assist:
 
 [[sharma-judgment-visible-genai-assessment-2026|Sharma（2026）]]在诚信一侧提供了重新设计论证，把诚信证据转化为效度证据。他把 Eaton（2023）的后抄袭框架延伸进评估设计，认为基于检测与验证的诚信模型与人类判断和机器生成相互交织的工作不匹配，并把诚信重新框定为通过[[evaluative-judgment|评价性判断]] — 即在认识论不确定性下权衡选项、为学术选择辩护并承担责任的能力 — 来施行的[[pedagogy|教学]]实践。其设计后果是诚信应当被证明而非被推断：带注释的决策轨迹、对 GenAI 贡献主张的核验、[[oral-assessment|口头答辩]]与版本历史被作为诚信证据物提出，而他明确指出与[[authentic-assessment]]的区别是认识论上的 — 真实性问的是任务是否镜像真实世界实践，而诚信导向的设计问的是学习者能否依据学科标准为其决策辩护并承担责任 — 因此诚信成为嵌入任务架构的可评估标准。他点明了自己提案的效度风险，而不是任其隐而不显：要求记录下来的推理偏向善于反思性话语的学习者，并冒着“用一种合规制度取代另一种”的风险，因为作为证据的判断“始终是关系性的、情境化的，而非机械可验证的” — 这与本页为每项人工智能中介评估所记录的同一解释可靠性问题。
 
+结局构念也会移动估计值：在一项关于 GenAI 支持的基于问题的与[[project-based-learning|基于项目的]]学习的三水平元分析中，[[chen-pbl-pjbl-genai-meta-analysis-2026|Chen 等人（2026）]]发现学习者内部的结局合并为 g = 0.819，而对人机共同产物的测量得到 g = 1.958，其预测区间跨过零，二者被分开建模，恰恰因为该产物不是被内化的学习。
+
 [[weidlich-inference-at-risk-assessment-validity-2026|Weidlich（2026）]]把重新设计重新框定为“一项改变意在保护哪一项推理”的问题。他从 Kane 的论证式效度出发，把争论往往混为一谈的压力区分为五种：构念表现不足、与构念无关的变异、绩效归因、条件性外推，以及缺乏支撑的分数使用。人工智能的使用不自动构成威胁，因为当目标构念是需要人工智能支持的专业判断时，工具的使用是切题的，而当它是无辅助的推理时，它绕开了目标绩效，因此构念与人工智能条件必须一并规定。他对重新设计的告诫随之而来，因为干预会用一种压力交换另一种：口头答辩可能加强归因，却削弱可靠性或无障碍。
 
 ### 关联
@@ -94,7 +96,9 @@ ai_assist:
 
 ## 信息不完备下的效度
 
-最新的重新框定把生成式人工智能问题当作证据问题来处理。学生知道一件作品是如何产出的；机构观察到的是作品，至多还有过程的部分痕迹 — 这一“产物—过程差距”被[[mohamed-temimi-assessment-imperfect-information-disclosure-2026|Mohamed 与 Temimi（2026）]]形式化为信息不完备下的评估效度。按此说法，问题不是规则是否被违反，而是评估是否仍能产生关于学生推理、努力与判断的可信证据，而每一种[[governance|机构]]机制 — 禁止、监控、披露、重新设计 — 都按其使学生哪种反应最具吸引力来评价。效度视角还消解了一种虚假的分离：诚信与效度是同一问题从两端看到的样子，因为一项不当行为的认定本身就是关于作品证明了什么的一项效度主张。
+最新的重新框定把生成式人工智能问题当作证据问题来处理。学生知道一件作品是如何产出的；机构观察到的是作品，至多还有过程的部分痕迹 — 这一“产物—过程差距”被[[mohamed-temimi-assessment-imperfect-information-disclosure-2026|Mohamed 与 Temimi（2026）]]形式化为信息不完备下的评估效度。
+
+可穿戴 AI 弥合的是最后一道证据缺口，而不是扩大它：[[corbin-ai-glasses-wearable-ai-assessment-2026|Corbin 等人（2026）]]主张，AI 眼镜与耳机在没有任何外部信号的情况下提供帮助，因此一名候选者可以到场、被监考，却仍无法证明无辅助的能力，从而消解了监考形式所假设的可分离性与可观察性。按此说法，问题不是规则是否被违反，而是评估是否仍能产生关于学生推理、努力与判断的可信证据，而每一种[[governance|机构]]机制 — 禁止、监控、披露、重新设计 — 都按其使学生哪种反应最具吸引力来评价。效度视角还消解了一种虚假的分离：诚信与效度是同一问题从两端看到的样子，因为一项不当行为的认定本身就是关于作品证明了什么的一项效度主张。
 
 一个学习者一侧的框架命名了一件作品本身无法确定的推理目标。[[gifted-potential-ai-assisted-work-attributional-validity-2026|Sak（2026）]]为从人工智能协助的作品判断天才潜能提出了*归因效度*：从能力到产物的关系是多对一的，因为学习者能力、模型能力、学习者的引导、人—人工智能匹配与情境以不同方式组合，产生等价的产物，因此产物无法识别其背后的能力。该框架区分四个推理目标 — 独立能力、智力[[agency]]、混合能力与发展性迁移 — 并命名当一个目标的证据被当作另一个目标的证据读时所产生的三种错误：过度归因、发展错觉与假定能力等价。它对记录的要求与本节从违规文献中提炼的证据纪律一致：命名一项判断所关涉的能力、记录作品是如何产出的（模型与版本、界面、允许的功能、成人中介、获取条件），并在把有协助的表现读作学习者的变化之前要求[[transfer-of-learning|迁移]]的后续证据。
 
@@ -113,6 +117,7 @@ ai_assist:
 - **大语言模型编码者之间的一致是一致性，不是效度。** 在一个专家标注的教育对话语料上，一个跨模型一致性过滤器只保留了 74 个语料派生行为断言中的 33 个和 48 个构念派生断言中的 11 个，且共享的模型错误通过了过滤器，因此模型间一致性不能替代构念效度（[[edubehaviors-auditable-coding-educational-dialogues-2026|Bernado 等人（2026）]]）。
 - **暴露是可测量的，而补救是充分的证据而非最大的安全。** [[villanueva-ai-vulnerability-assessment-audit-2026|Villanueva（2026）]]按已发布的格式、监考与分数权重为 53,915 个评估题打分，发现大多数受评分数依赖于其作者身份在提交后无法核验的作品；他认为项目需要在关键阶段有足够的学习证据，而非把每个单元都变得安全。
 - **有效的测量仍可能不安全地被优化。** 针对规则风格的适应性指标微调一个大语言模型导师，使该指标上升（+0 到 +0.42），而盲专家评分下降（4.46 到 3.03），因为独立地给决策打分的指标会被“重复单一最佳决策”最大化（[[llm-tutor-pedagogical-metric-degradation-2026|Domínguez Figaredo 与 Fernández De la Cruz（2026）]]）。
+- **嵌入的几何结构不是评分规则的区分。** 在五种文本表示与九种嵌入机制下，针对 992 份手写物理解答，[[embedding-similarity-clustering-handwritten-physics-2026|Tauschhuber 与 Kortemeyer（2026）]]报告了与人类分数的最佳加权 Spearman 相关为 0.198，且聚类是分数富集的，而非分数等价的。
 
 ## 关联概念
 
@@ -137,6 +142,8 @@ ai_assist:
 
 ## 关联文章
 
+- [[embedding-similarity-clustering-handwritten-physics-2026]] — 嵌入相似度与人类分数最多只有 0.198 的相关
+- [[corbin-ai-glasses-wearable-ai-assessment-2026]] — 可穿戴 AI 消解了可分离性与可观察性，因此一名受监考的候选者仍可能无法证明无辅助能力（Corbin, Sharpe & Dawson 2026）
 - [[ivory-psychology-assessment-integrity-2026]] — 项目层面及格/不及格的易感性，以及让伪造数值通过的评分标准（Ivory 等人 2026）
 - [[zou-is-this-a-trap-student-teachers-genai-2026]] — 仅许可不会使效度退化：投入度不受 GenAI 使用影响；反思抵抗通用替代
 - [[ai-agents-joyful-assessment-third-space-2026]] — 人工智能代理、愉悦评估与第三空间
@@ -149,7 +156,7 @@ ai_assist:
 - [[ai-agents-complete-lms-assessment-validity-2026]] — 人工智能代理完成 LMS 任务；人类产出假设与代理式效度（Hadjisolomou & El-Haddad 2026）
 - [[semantic-variability-llm-conversation-assessment-2026]]
 - [[assessment-latent-structure-human-llm-2026]] — 评估工具对人类与大语言模型测量的是否是同一东西？（Strugatski 等人 2026）
-- [[multimodal-embodied-cognition-oral-explanations-2026]] — A Multimodal Framework for Embodied Cognition in Oral Explanations
+- [[multimodal-embodied-cognition-oral-explanations-2026]] — 口语解释中具身认知的多模态框架
 - [[assessing-quality-ai-generated-exams-field-2025]] — 评估人工智能生成考试的质量：一项大规模实地研究
 - [[genai-performance-vs-learning]]
 - [[ai-scoring-language-bias-physics]]
@@ -161,21 +168,22 @@ ai_assist:
 - [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] — 信息不完备下的评估效度：一个反应域模型
 - [[weidlich-inference-at-risk-assessment-validity-2026]] — 哪一项推理处于风险？区分五种效度压力并检验重新设计削弱了什么（Weidlich 2026）
 - [[koretsky-genai-stem-assessment-2026]] — STEM 评估是效度、设计与能力定义问题，而非作弊问题：过程证据、口试与人工智能生成任务的保真度（Koretsky 等人 2026）
-- [[ai-particle-physics-education-redesign-2026]] — AI in Particle Physics Education: Research Problems and Foundational Skills
-- [[student-perspectives-ai-writing-grading-2026]] — Who Should Grade My Work? Student Perspectives on Transparent AI-Assisted Writing Assessment in Higher Education
+- [[ai-particle-physics-education-redesign-2026]] — 粒子物理教育中的 AI：研究问题与基础技能
+- [[student-perspectives-ai-writing-grading-2026]] — 谁该给我的作业评分？高等教育中透明 AI 辅助写作评估的学生视角
 - [[el-salvador-ai-tutoring-selection-claim-2026]] — 为萨尔瓦多人工智能辅导试点的学习主张设定边界（Restrepo Morales 等人 2026）
 - [[munoz-misconduct-allegation-evidence-2026]] — 违规指控卷宗实际含有什么证据，以及为何证据质量不预测结果（Munoz 等人 2026）
 - [[hadra-ai-detector-accuracy-efl-2026]] — 检测器在 192 篇文本上准确率 0.69 与 0.61；混合写作失效与 EFL 误判风险（Hadra 等人 2026）
 - [[wright-transcription-not-generation-2026]] — 过度涵盖的禁令：转写不是生成，因此该规则制裁了它无意捕获的行为（Wright 2026）
 - [[sharma-judgment-visible-genai-assessment-2026]] — 通过评价性判断而非检测使诚信可见（Sharma 2026）
 - [[llm-grade-bands-calibration-bias-2026]] — 大语言模型能否复现高等教育分数段？真实学生写作中校准与评分偏差的跨模型研究
-- [[ai-assisted-physics-lab-report-assessment-2026]] — AI-Assisted Assessment of Experimental Physics Laboratory Reports: Potential, Limitations, and Support for Teaching Practice
+- [[ai-assisted-physics-lab-report-assessment-2026]] — AI 辅助的实验物理实验报告评估：潜力、局限与对教学实践的支持
 - [[gifted-potential-ai-assisted-work-attributional-validity-2026]] — 当产物被读作学习者能力的证据时的四个推理目标与三种归因错误（Sak 2026）
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — Student Use of LLMs and the Limits of AI-Generated Question Difficulty in Data Science Courses
-- [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors: Assertion-based Schemas for Auditable Coding of Educational Dialogues
+- [[student-llm-use-ai-question-difficulty-data-science-2026]] — 学生对 LLM 的使用与数据科学课程中 AI 生成题目难度的局限
+- [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors：用于教育对话可审计编码的基于断言的模式
 - [[vogt-ai-mcq-recognition-medical-assessment-2026]] — 学生对课程对齐的评分跟随题目难度（rho = 0.762）而非内容（Vogt 等人 2026）
 
 - [[llm-grading-assistants-public-health-2026]] — 对相同提交相隔五天的重复评分得到 Krippendorff's alpha 0.625
 - [[villanueva-ai-vulnerability-assessment-audit-2026]] — 人工智能脆弱性指数：大多数受评分数依赖不可核验的作者身份，因此效度依靠关键阶段的充分证据而非最大安全
 - [[llm-tutor-pedagogical-metric-degradation-2026]] — 一项教学适应性指标上升而盲专家评分下降：测量效度并不意味着优化效度（Domínguez Figaredo & Fernández De la Cruz 2026）
 - [[genai-english-proficiency-validity-2026]] — 目标是否又移了？生成式人工智能与英语水平分数的效度
+- [[chen-pbl-pjbl-genai-meta-analysis-2026]] — 结局构念移动估计值：人机共同产物 g = 1.958

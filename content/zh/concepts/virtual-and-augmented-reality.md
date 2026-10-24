@@ -102,6 +102,6 @@ VR/AR 最强的证据是比较性的且 [[discipline-specific-aied|学科特定]
 - [[mixed-reality-engineering-learning]] — 工程力学中混合现实应用 vs. 实体工具包 vs. 课堂；参与度上升，复杂可视化仍难
 - [[medgame-llm-medical-education-gamification]] — 带 AI 的游戏化医学训练
 - [[tech-enhanced-tabletop-cybersecurity-education]] — 网络安全教育中的增强桌面场景
-- [[genai-xr-architectural-design-education-2026]] — Generative AI and Extended Reality in Collaborative Architectural Design Education: An Exploratory Studio Study
+- [[genai-xr-architectural-design-education-2026]] — 生成式 AI 与扩展现实在协作式建筑工作室教学中的应用：一项探索性研究
 - [[ai-ive-pbl-vocational-design-creativity-2026]] — AI-IVE-PBL：配有 LLM 支持教学助手的沉浸式 VR 设计工作室，与常规 PBL 对比评估（Jin 等，2026）
 - [[luminote-llm-vr-stage-lighting-education-2026]] — LumiNote：VR 舞台灯光教育中的 LLM 辅助多模态教学，以及落地在哪里失效（Liang 等，2026）

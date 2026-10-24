@@ -117,7 +117,7 @@ ai_assist:
 
 - [[yan-agentivism-learning-theory-ai-2026]] — 一个面向人机交互的中层学习理论，含四种机制与六个可检验命题（Yan 与 Gašević，2026）
 - [[deceptive-overgeneralization-adaptive-learning-2026]] — 欺骗性过度泛化：自适应掌握可能在学生知道何时克制行动之前就停止练习（An、McLaren 与 Stamper，2026）
-- [[airis-hybrid-human-ai-cognition-2026]] — AI-Augmented Inquiry and Regulation in Hybrid Systems (AIRIS)
+- [[airis-hybrid-human-ai-cognition-2026]] — AI-Augmented Inquiry and Regulation in Hybrid Systems (AIRIS)：混合系统中的 AI 增强探究与调节
 - [[voicu-ai-interpretive-cognition-ssh-2026]]
 - [[ai-cognitive-partner-co-regulation-learning]] — 把人机共同调节中的人工智能定位为认知伙伴；贯穿一生的发展性框架
 - [[ensemble-cognition-philosophy-ai-education]] — Ensemble Cognition：把思维重新概念化为人机互动的哲学框架
@@ -127,8 +127,8 @@ ai_assist:
 - [[genai-educational-outcomes-meta-analysis]]
 - [[elsayed-pedagogical-symbiosis-posthuman-learner]]
 - [[videla-embodied-ai-education-choreography]]
-- [[generative-ai-mediational-agent-sociocultural-2026]] — Generative AI as a Mediational Agent
+- [[generative-ai-mediational-agent-sociocultural-2026]] — Generative AI as a Mediational Agent：作为中介智能体的生成式 AI
 - [[kim-ai-productive-failure-adult-2026]] — 设计支持有成效失败（productive-failure）学习的人工智能系统
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pedagogical Steering of LLMs for Productive Failure
-- [[lukesova-clue-before-correction-2026]] — Clue Before Correction: ChatGPT for Autonomous Language Learning
+- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pedagogical Steering of LLMs for Productive Failure：为生产性失败而作的 LLM 教学法引导
+- [[lukesova-clue-before-correction-2026]] — Clue Before Correction: ChatGPT for Autonomous Language Learning：先给线索再纠正：ChatGPT 用于自主语言学习
 - [[rachatasumrit-example-problem-ratio-2026]]

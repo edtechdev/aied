@@ -96,11 +96,11 @@ ai_assist:
 - [[skill-acquisition-without-temporal-info]]
 - [[xie-hillm-cd-2026]]
 - [[zerkouk-comprehensive-review-its-2025]]
-- [[graph-its-adaptive-algorithms-2026]] — Graph-Based Intelligent Tutoring for Dynamic Domains (2026)
+- [[graph-its-adaptive-algorithms-2026]] — Graph-Based Intelligent Tutoring for Dynamic Domains (2026)：面向动态领域的图基智能辅导
 - [[pradeesh-outcome-knowledge-tracing-affinity-2026]] — 基于结果的知识追踪与亲缘映射
 - [[schuetze-knowledge-tracing-forgetting-2026]]
 - [[exrec-exercise-recommendation-knowledge-tracing-2025]] — 语义扎根的追踪与 KC 校准状态，用作推荐的强化学习环境
-- [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn: An Agentic Tutor that Learns its Learner in a Human-AI Co-Learning Loop
+- [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn：一个人机协同学习循环中了解自己学习者的智能辅导者
 - [[crediting-assisted-work-inflates-mastery-2026]] — 哪条证据规则决定掌握断言（Srivastava，2026）
 - [[system-one-llm-knowledge-tracing-2026]] — 单次前向的大语言模型在 8 名学习者上超过深度训练模型的知识追踪，成本仅其零头（Lee 与 Park，2026）
 - [[knowledge-tracing-compression-math-2026]] — 压缩数学知识追踪中的学生历史

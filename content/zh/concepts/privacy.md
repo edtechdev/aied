@@ -2,7 +2,7 @@
 connected_resources: [drawsplat]
 title: 隐私
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-09T18:39:20-04:00"
+updated: "2026-10-24T15:50:00-04:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, ai-guidance-children-under-13, institutional-ai-policy]
 type: concept
 technology: [learning-analytics, personalized-learning]
@@ -12,7 +12,7 @@ confidence: high
 institutions: [educational-policy-ai, governance, regulation]
 reviewed_by: [editor]
 translation_of: concepts/privacy
-source_updated: "2026-10-14T14:35:00-04:00"
+source_updated: "2026-10-22T09:11:45-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -50,10 +50,12 @@ ai_assist:
 - **同意与透明度。**学生与[[parents-and-families|家庭]]很少理解一个 AI 工具收集了什么数据、如何使用、存于何处。机构与[[learners|学习者]]之间的这种权力不平衡是一个反复出现的主题 —— 学生可能没有有意义的选择而只能使用被指定的平台，使“同意”流于名义而非知情。本知识库把这一点连接到[[trust-calibration|信任]]与[[ai-use-disclosure|披露]]：学习者对 AI 的使用与机构对学习者数据的使用，都依赖关于收集什么、为何收集的透明度。
 
 - **作为一种隐私机制（而非只是披露）的委派。****[[agentic-literacy-debt|Nama（2026）]]**主张，自主智能体跨会话继承权限、且很少撤销它们，因此每一次不透明的委派都使习惯于不加审视地授予访问 —— 使关于*何时是智能体而非人在行动*的知情同意成为隐私设计的一部分。
+- **自主性拓宽了数据面。**一个智能体式表单填写系统跨机构服务维护着一个多模态的个人知识库，其评估基于从 44 家公司招聘网站抽取的 1,301 个唯一字段，作者把隐私保全的知识管理、访问控制与人工确认列为尚未解决的部署要求（[[large-language-models-teaching-learning-higher-ed|Li 等（2026）]]）。
 
 - **安全、匿名化与数据来源。**即便是正当的数据，一旦泄露或被误处理也会造成伤害。隐私保全技术遍布本知识库 —— [[teachlm-post-training-llms-education|TeachLM]]展示了一个严格的流水线：每次会话的同意、内部服务器上的个人身份信息（PII）移除，以及用真实数据后训练导学模型的企业级保密，表明合乎伦理来源的学习者数据既可能、也是高质量导学的前提。[[ai-lms-middle-school-longitudinal|联邦式与边缘 AI 架构]]把数据留在本地，减少集中收集。浏览器驻留推理把这一点推到最远：一个 WebLLM 导学系统以静态站点运行、权重缓存在 IndexedDB 中，因此学生代码、提示与转录从不离开设备，也不需要 API 密钥或按次计费——尽管其[[equity-in-ai-education|公平]]代价是一种新的硬件能力鸿沟，因为快速、无缝的生成依赖一个有能力的客户端 GPU（[[browser-sized-agents-slm-webllm-tutor-2026|Suvernev 等人（2026）]]）。[[ai-detection|检测]]工具增加了一个平行的数据处理案例：**[[bassett-ai-detectors-education-2026|Bassett 等（2026）]]**指出，检测器供应商把学生作品存于第三方服务器、有时在隐私标准更弱的海外，同时存在泄露风险与学生写作被商业利用的可能。
 
 - **监视与监视–隐私张力。**持续的 AI 监控 —— 即便出于善意 —— 也会令人感到侵入。关于[[ai-fatigue-academic-contexts|AI 疲劳]]、[[remote-proctoring|远程监考]]与[[cognitive-offloading|过度依赖]]的研究，把隐私连接到学生[[well-being|福祉]]：当 AI 持续观察与追踪时，它塑造的是行为与焦虑，而不只是数据流。**[[harerimana-remote-proctoring-nursing-scoping-2026|Harerimana 等（2026）]]**编目了[[remote-proctoring|监考]]系统实际捕捉了什么 —— 面部图像、身份证件、包括 360 度环视的房间扫描、麦克风音频、面部识别、屏幕录制、锁定事件，以及击键与鼠标追踪，而移动监考还加上 GPS 与自拍核查 —— 并发现在满足其纳入标准的六项研究中，隐私与算法问责基本缺席，改由邻近研究补足：一项被引调查中 83% 的受访者表达了监视恐惧，58% 感到不适，72% 担忧数据隐私，而跨境供应商合同使 GDPR 与南非 POPIA 等工具提供的控制有限。保留并处理这些数据所引出的法律暴露 —— 谁是控制者、数据保存多久、谁可访问、同意是否真正自愿 —— 映射在[[legal-issues-and-risks|法律问题与风险]]上。
+- **EEG 解码暴露注意。**神经解码把隐私问题扩展到行为日志之外：[[seeing-cognitive-representations-eeg-reconstruction|Su 等（2026）]]在视频教学期间从学习者的 EEG 重建了他们正在观看的内容，使被解码的表征具有异常的揭示性，并让敏感神经数据的治理处于未定状态。
 
 - **个性化–隐私的权衡。**[[personalized-learning|个性化学习]]需要详尽的学习者数据才能运作，与隐私形成结构性张力。本知识库探索平衡个性化与数据最小化的路径 —— 足够调适的数据，而不多到使学习者完全暴露。这是“多少才相称？”问题的实践形式。
 
@@ -108,9 +110,9 @@ ai_assist:
 - [[child-safety-genai]]
 - [[eduzone-llm-safety-k12]]
 - [[spritz-ai-disciplinary-mediation-student-teams-2026]]
-- [[teachlm-post-training-llms-education]] — TeachLM: anonymization and consent for authentic learning data
-- [[bassett-ai-detectors-education-2026]] — Heads we win, tails you lose: AI detectors in education (Bassett et al. 2026)
+- [[teachlm-post-training-llms-education]] — TeachLM：面向真实学习数据的匿名化与同意
+- [[bassett-ai-detectors-education-2026]] — 正面我赢、反面你输：教育中的 AI 检测器（Bassett et al. 2026）
 - [[privacy-preserving-multi-llm-federated-cognitive-diagnosis-2026]] — 隐私保全的联邦式 LLM 认知诊断
 - [[agarwal-ethical-values-norms-aied-2026]] — AI 教育的伦理价值与规范
 - [[harerimana-remote-proctoring-nursing-scoping-2026]] — 监考系统捕捉了什么，以及隐私文献在证据基础中的缺席
-- [[edtech-privacy-deferral-2026]] — "We'll Fix It Later": Education, AI, and the Deferral of Student Privacy in EdTech
+- [[edtech-privacy-deferral-2026]] — 《We'll Fix It Later》：教育、AI 与 EdTech 中学生隐私的延迟

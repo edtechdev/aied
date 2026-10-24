@@ -108,7 +108,7 @@ AI 赋能的主动学习在本知识库中以多种形式呈现：让学生参�
 
 - [[kestin-ai-tutoring-outperforms-active-learning-rct-2025]] — AI 辅导胜过课堂主动学习：一项在真实教育情境中引入新型基于研究设计的 RCT（Kestin et al. 2025）
 - [[ai-pbl-computational-thinking-2026]]
-- [[beck-genai-literacy-economics-hands-on]] — Active-learning GenAI framework for economics (Beck & Brodersen 2025)
+- [[beck-genai-literacy-economics-hands-on]] — 经济学的主动学习 GenAI 框架（Beck & Brodersen 2025）
 - [[lak2026-hint-button-unproductive-use]]
 - [[efficiency-gain-illusion-ai-overreliance]]
 - [[neurodivergent-computing-students]]
@@ -116,9 +116,9 @@ AI 赋能的主动学习在本知识库中以多种形式呈现：让学生参�
 - [[test-driven-ai-assisted-learning]]
 - [[curiobot-llm-tutoring-exploratory-learning]]
 - [[genai-assisted-problem-posing-physics-2026]]
-- [[ai-assisted-learning-modes-eeg]] — EEG study of AI interaction modes (interactive > auto)
-- [[supplynet-visual-exploratory-learning]] — SupplyNet: visual exploratory learning via multi-agent simulation
-- [[knowloop-confusion-to-consolidation-2026]] — KnowLoop: staged conversational post-lecture review
-- [[academic-league-of-ai-2026]] — Academic League of AI: project-based active learning
-- [[mujib-ai-ibl-creative-math-2026]] — AI-supported IBL and creative mathematical performance
-- [[tts-dialogue-lessons-learner-characteristics-2026]] — Learner characteristics × TTS dialogue-format interactions
+- [[ai-assisted-learning-modes-eeg]] — AI 互动模式的 EEG 研究（互动 > 自动）
+- [[supplynet-visual-exploratory-learning]] — SupplyNet：经由多智能体模拟的视觉探究式学习
+- [[knowloop-confusion-to-consolidation-2026]] — KnowLoop：分阶段的对话式课后复习
+- [[academic-league-of-ai-2026]] — Academic League of AI：基于项目的主动学习
+- [[mujib-ai-ibl-creative-math-2026]] — AI 支持的探究式学习与创造性数学表现
+- [[tts-dialogue-lessons-learner-characteristics-2026]] — 学习者特征与 TTS 对话形式的交互

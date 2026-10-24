@@ -38,7 +38,7 @@ ai_assist:
 
 ## 引言
 
-评估之所以是教育中人工智能的核心，有两个原因。首先，人工智能本身被用来评估学生——大规模批改作文、代码、简答与考试。其次，课堂中的人工智能改变了评估能有效测量的东西，因为学生可能使用[[generative-ai|生成式人工智能]]来产出作业。因此，这一领域同时横跨自动化评估的*工具*，以及人工智能提出的*效度与诚信*问题。
+评估之所以是教育中人工智能的核心，有两个原因。首先，人工智能本身被用来评估学生——大规模批改作文、代码、简答与考试。其次，课堂中的人工智能改变了评估能有效测量的东西，因为学生可能使用[[generative-ai|生成式人工智能]]来产出作业。因此，这一领域同时横跨自动化评估的*工具*，以及人工智能提出的*效度与诚信*问题。一项涵盖 72 项高等教育评估研究的 PRISMA 综述发现，教育者在整个评估周期中使用生成式人工智能（创建评估、练习、评分、学习透明度与反馈），其中创建评估与反馈是最常被识别的可供性（[[higher-ed-assessments-genai-systematic-review|Crompton 与 Burke（2026）]]）。
 
 ## 人工智能在评估中的使用
 
@@ -55,6 +55,7 @@ ai_assist:
 人工智能提出根本的[[assessment-validity|效度]]问题：人工智能评分的评估测量的是学生的学习还是[[prompt-engineering|人工智能提示技能]]？学生对人工智能的使用是否使传统评估失效？关键挑战包括：
 
 - **构念效度：**[[competency-based-education-genai-production-2026|关于基于胜任力之教育的研究]]表明，生成式人工智能切断了表现与底层能力之间的推论——一个学习者可能交付没有工具就无法复现的专业水准作业。这推动了重新概念化所评估的胜任力是什么。
+- **重新对齐评估的三顶点框架。**[[koretsky-genai-stem-assessment-2026|Koretsky 等（2026）]]把无处不在的生成式人工智能视为一个效度与胜任力界定的问题，而不是作弊问题，主张评估三角的三个顶点（认知、观察与解释）必须一并重新对齐，而不能一次只修补一个。
 - **共同作者身份与诚信：**[[coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene|共同作者诚信]]提出了一种新的效度证据来源，当学生提交自己并不理解的人工智能生成内容时，它就被违反，并探索了对话式“人工智能口试”作为一种回应。
 - **心理测量学质量：**[[psychometrically-aware-ai|心理测量学感知的人工智能]]与[[automated-assessment|置信感知评估]]的工作，致力于让人工智能评分保持可靠、无偏且可解释。
 - **对人工智能评估者的评价：**[[ai-ed-evaluation|人工智能教育评价]]提供了方法与[[benchmark|基准]]，用以判定自动评估者是否真的奏效——在可靠性、[[pedagogy|教学法]]与[[equity-in-ai-education|公平]]上——而不只是头条准确率。
@@ -143,3 +144,4 @@ ai_assist:
 - [[olvet-genai-scoring-open-ended-medical-2026]]
 - [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]
 - [[computing-assessment-genai-workshop-report-2026]] — 人工智能能做你的作业。现在怎么办？关于生成式人工智能时代计算评估的在线工作坊报告
+- [[koretsky-genai-stem-assessment-2026]] — A three-vertex frame for realigning assessment：重新对齐评估的三顶点框架
