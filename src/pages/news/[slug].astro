@@ -7,6 +7,7 @@
 import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import PageTypeIcon from '../../components/PageTypeIcon.astro';
+import SourceButtons from '../../components/SourceButtons.astro';
 import { renderMarkdown } from '../../lib/markdown';
 import siteConfig from '../../config/siteConfig';
 
@@ -85,6 +86,11 @@ const base = siteConfig.basePath;
     )}
   </nav>
 
+  {/* Same Source / History / Edit / Chat / Embed pills the article and concept
+      pages carry, pointing at this issue's markdown in the repository. */}
+  {/* issue.id is the slug without its extension in the content layer. */}
+  <SourceButtons filePath={`content/en/newsletters/${issue.id}.md`} locale="en" />
+
   <style>
     .news-issue-meta {
       display: flex;
@@ -104,7 +110,7 @@ const base = siteConfig.basePath;
       text-decoration: underline;
     }
     /* The issue date sits with the title, after the issue number, so the heading
-       reads "AIEd KB Weekly Update #1  October 24, 2026" on its own. */
+       reads "AIEd Research Weekly Update #1  October 24, 2026" on its own. */
     .news-issue-h1-date {
       display: inline-block;
       margin-inline-start: 0.5rem;
