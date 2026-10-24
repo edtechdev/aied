@@ -17,7 +17,7 @@ export interface ConceptSection {
 export const conceptIndex: ConceptSection[] = [
   {
     heading: 'Foundations of AI in education',
-    blurb: 'The umbrella view of the field itself — what AI in education is, how it evolved, and the cross-cutting themes (AI literacy, human–AI collaboration, agency) that shape every other strand.',
+    blurb: 'The umbrella view of the field itself: what AI in education is, how it evolved, and the cross-cutting themes (AI literacy, human-AI collaboration, agency) that shape every other strand.',
     groups: [
       { label: 'Essentials', items: ['ai-education', 'ai-literacy', 'agentic-ai', 'cognitive-offloading', 'cognitive-surrender', 'framing-ai-use-for-students', 'reducing-ai-misuse', 'academic-integrity', 'teacher-role', 'teacher-ai-competency', 'learning-design', 'educational-development'] },
       { label: 'The field', items: ['history-of-aied', 'interpreting-and-applying-aied-research', 'limitations-in-aied-research', 'philosophy-of-ai-in-education', 'theories-and-frameworks', 'theory-development-aied'] },
@@ -27,7 +27,7 @@ export const conceptIndex: ConceptSection[] = [
   },
   {
     heading: 'Learning and instruction',
-    blurb: 'How AI supports teaching and learning — the pedagogies, learning theories, and learner-facing processes AI operates within.',
+    blurb: 'How AI supports teaching and learning, through the pedagogies, learning theories, and learner-facing processes AI operates within.',
     groups: [
       { label: 'Core pedagogies', items: ['pedagogy', 'pedagogical-patterns', 'active-learning', 'collaborative-learning', 'project-based-learning', 'problem-based-learning', 'productive-failure', 'inquiry-based-learning', 'experiential-learning', 'game-based-learning', 'learning-by-teaching', 'scaffolding', 'socratic-method', 'critical-pedagogy', 'pedagogical-partnerships', 'storytelling-in-education', 'online-teaching-and-learning', 'video-education'] },
       { label: 'Learning theories and processes', items: ['learning-theories', 'behaviorism', 'constructivist', 'cognitive-psychology', 'sociocultural-learning', 'distributed-cognition', 'situated-learning', 'embodied-learning', 'community-of-inquiry', 'self-regulated-learning', 'self-determination-theory', 'motivation', 'self-efficacy', 'self-directed-learning', 'metacognition', 'desirable-difficulties', 'transfer-of-learning', 'prior-knowledge', 'icap-framework', 'misconceptions', 'refutation-text', 'activity-theory-aied', 'retrieval-spacing-interleaving'] },
@@ -46,7 +46,7 @@ export const conceptIndex: ConceptSection[] = [
   },
   {
     heading: 'AI in the disciplines',
-    blurb: 'How AI is applied across academic subjects and educational levels — the field\u2019s subject-area coverage.',
+    blurb: 'How AI is applied across academic subjects and educational levels: the field\u2019s subject-area coverage.',
     groups: [
       { label: 'Subject areas', items: ['discipline-specific-aied', 'math-education', 'physics-education', 'chemistry-education', 'biology-education', 'cs-education', 'engineering-education', 'stem-education', 'science-education', 'writing-education', 'language-learning', 'english-education', 'environmental-education', 'business-education', 'humanities-education', 'arts-design-and-media-education', 'design-education', 'medical-education', 'nursing-education', 'legal-education', 'information-technology'] },
       { label: 'Research fields', items: ['learning-sciences'] },
