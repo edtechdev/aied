@@ -7,6 +7,7 @@ discipline: [science education, stem education]
 confidence: medium
 created: "2026-08-29T12:55:12-04:00"
 updated: "2026-10-23T22:38:41-04:00"
+connected_resources: [teacher-dev]
 reviewed_by: [editor]
 ---
 

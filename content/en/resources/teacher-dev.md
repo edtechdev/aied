@@ -17,6 +17,7 @@ technology: [edtech-platform]
 ethics: [accessibility]
 audience: [instructors, learners]
 level: [k 12]
+discipline: [math education, science education, chemistry education, physics education, stem education, english education]
 confidence: high
 connected_resources: [fpds-apps-and-resources]
 contributors: [editor]
@@ -30,7 +31,7 @@ reviewed_by: [editor]
 
 **teacher.dev** is a 501(c)(3) education non-profit, formerly BX Coding, that ships one small app for teachers every day and posts the build. As of October 24, 2026 the streak stood at 53 days and the gallery listed 34 free apps built with classroom teachers, most made in a single day and many local-first, with no account and no student data leaving the device.
 
-The narrowness is the value. A [[game-based-learning|review game]] where one student takes on the class, printable generators for grids, number lines and figures in mathematics, chemistry and physics, a word-building tool for prefixes, bases and suffixes, a First/Then board for [[special-education|special education]], a hall pass tracker, and a quiet-time safari where shy animals emerge as a class settles. The gallery spans ten subjects, with about 23 apps student-facing and 20 built for teachers.
+The narrowness is the value. A [[game-based-learning|review game]] where one student takes on the class, printable generators for grids, number lines and figures in [[math-education|mathematics]], [[chemistry-education|chemistry]] and [[physics-education|physics]], a word-building tool for prefixes, bases and suffixes aimed at [[english-education|reading and writing]], a First/Then board for [[special-education|special education]], a hall pass tracker, and a quiet-time safari where shy animals emerge as a class settles. The gallery spans ten subjects, with about 23 apps student-facing and 20 built for teachers.
 
 ## What you can do with it
 
@@ -45,4 +46,4 @@ K-12 teachers who want a tool for a specific problem without a subscription, a s
 The pace is both the pitch and the risk. One-day builds target a real classroom problem, not a research question, so nothing here carries an evaluation and a claim about what an app does should be tested in the classroom. Thirty-two public repositories sit in the GitHub organization while the gallery lists 34, all Apache-2.0 with source available, so an app can be read and self-hosted. Local-first design is a claim to verify per app, and a teacher should confirm before putting any student-facing tool in front of a class.
 
 ## Connected Concepts
-[[edtech-platform]], [[accessibility]], [[game-based-learning]], [[student-engagement]], [[special-education]], [[student-ai-interaction]]
+[[edtech-platform]], [[accessibility]], [[game-based-learning]], [[student-engagement]], [[special-education]], [[student-ai-interaction]], [[math-education]], [[science-education]], [[physics-education]], [[chemistry-education]], [[stem-education]], [[english-education]]

@@ -10,6 +10,7 @@ discipline: [physics education, stem education]
 audience: [learners, instructors]
 level: [higher ed]
 confidence: high
+connected_resources: [teacher-dev]
 reviewed_by: [editor]
 ---
 
