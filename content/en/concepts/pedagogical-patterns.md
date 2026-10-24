@@ -10,6 +10,7 @@ audience: [instructors, instructional designers, faculty developers]
 level: [higher ed, k 12]
 confidence: high
 connected_faqs: [designing-ai-into-learning]
+connected_resources: [learning-design-wiki]
 reviewed_by: [editor]
 contributors: [editor]
 ai_assist:

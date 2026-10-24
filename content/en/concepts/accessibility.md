@@ -1,5 +1,5 @@
 ---
-connected_resources: [drawsplat, fpds-apps-and-resources, id-toolbox, idstack]
+connected_resources: [drawsplat, fpds-apps-and-resources, id-toolbox, idstack, teacher-dev]
 title: Accessibility
 created: "2026-08-23T12:00:00-04:00"
 updated: "2026-10-15T10:00:00-04:00"
