@@ -780,6 +780,52 @@ def built_group_headings(stem):
     return out
 
 
+def _unlist_h3(txt):
+    """Mark every H3 in a front-matter chapter {.unlisted} (see the call site)."""
+    return re.sub(r'(?m)^(### .+)$', r'\1 {.unlisted}', txt)
+
+
+# Two headings can carry the same text: an umbrella chapter label and a concept
+# page title, in any locale. The hierarchical numbers tell them apart, but the
+# bare text does not, so a reader skimming the TOC cannot. Qualify the later of
+# any repeated heading with its parent heading's text, which is already
+# translated and needs no new copy. Only headings pandoc will list are touched:
+# the editions build with --toc-depth=3, so H4 and below are never TOC entries,
+# and disambiguating them would only churn body headings.
+def _disambiguate_repeated_headings(text, max_level=3):
+    seen = set()
+    stack = []
+    out = []
+    for line in text.split('\n'):
+        m = re.match(r'^(#{1,6})\s+(.*?)\s*$', line)
+        if not m:
+            out.append(line)
+            continue
+        level, rest = len(m.group(1)), m.group(2)
+        anchor = ''
+        am = re.search(r'\{#([^}]*)\}\s*$', rest)
+        if am:
+            anchor = ' {#' + am.group(1) + '}'
+            rest = rest[:am.start()].rstrip()
+        unlisted = rest.endswith('{.unlisted}')
+        if unlisted:
+            rest = rest[:-len('{.unlisted}')].rstrip()
+        plain = rest.strip()
+        while stack and stack[-1][0] >= level:
+            stack.pop()
+        parent = stack[-1][1] if stack else None
+        shown = plain
+        listed = level <= max_level and not unlisted
+        if listed and plain.casefold() in seen and parent and parent != plain:
+            shown = f'{plain} ({parent})'
+        if listed:
+            seen.add(plain.casefold())
+        stack.append((level, plain))
+        out.append('#' * level + ' ' + shown + anchor
+                   + (' {.unlisted}' if unlisted else ''))
+    return '\n'.join(out)
+
+
 # Front-matter chapters are built from the live site pages so the EPUB stays in
 # sync with the site (no hardcoded copies to drift). A translated edition reads
 # that locale's built pages under dist/<locale>/ and takes each chapter title
@@ -803,7 +849,14 @@ else:
     AI_H1 = _first_h1(_ai_region) or 'Use This Knowledge Base with Your Own AI Assistant'
     AI_ANCHOR = AI_CHAPTER_ANCHOR
 AI_CHAPTER_LINE = AI_H1 + (f' {{#{AI_ANCHOR}}}' if AI_ANCHOR else '')
-parts.append(astro_body_markdown(INDEX_ASTRO, INDEX_H1, locale=LOCALE))
+# The home page's "recommended starting concepts" groups render as <h3> under the
+# starting-points <h2> (src/components/pages/HomePage.astro). They are
+# navigational sub-labels, not book sections, and as headings they entered the
+# TOC where they duplicated chapter and page titles -- in Chinese, 核心概念 was
+# both a starting-point group and the Essentials chapter, and 管理者 both a
+# group and the administrator page. Unlisted, pandoc's --toc omits them while
+# the body keeps the labels and their link lists.
+parts.append(_unlist_h3(astro_body_markdown(INDEX_ASTRO, INDEX_H1, locale=LOCALE)))
 parts.append(astro_body_markdown(AI_ASTRO, AI_H1, locale=LOCALE, anchor=AI_ANCHOR))
 
 # Concepts organized by umbrella groups
@@ -986,6 +1039,9 @@ def _unlist_use(m):
     body = re.sub(r'(?m)^(## .+)$', r'\1 {.unlisted}', m.group(2))
     return m.group(1) + body
 combined = use_chap.sub(_unlist_use, combined)
+
+# Last, disambiguate any heading text that would otherwise repeat in the TOC.
+combined = _disambiguate_repeated_headings(combined)
 
 # A bare `---` line (a page's <hr>) is read by pandoc as the START of a YAML
 # metadata block, so the following prose is then parsed as YAML and the build
