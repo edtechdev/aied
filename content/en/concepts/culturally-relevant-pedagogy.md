@@ -1,7 +1,7 @@
 ---
 title: Culturally Relevant Pedagogy
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-09-30T09:59:35-04:00"
+updated: "2026-10-23T22:38:41-04:00"
 type: concept
 foundations: [ai-literacy, curriculum-design]
 technology: [generative-ai, intelligent-tutoring, llm]
@@ -57,6 +57,7 @@ Grounded in the knowledge base's own articles, educators and designers can apply
 - **Layer demographic and cultural context into prompts and tools.** CulturAIEd and [[connected-ai-lesson-planning-vietnam|ConnectED]] (a Vietnamese, curriculum-aligned lesson-planning system) show that structured, locally grounded prompt templates plus teacher validation gates improve cultural fit over generic generation.
 - **Center community knowledge as the evaluative standard.** Following community-based AI learning, have learners judge AI outputs against locally grounded criteria of relevance, harm, and usefulness, and honor context where refusal or non-use is the right call.
 - **Adopt and evaluate culturally grounded datasets.** IKS-Instruct and NSMQ Riddles illustrate that [[discipline-specific-aied|domain-specific]], non-Western data meaningfully improves both relevance and honest evaluation.
+- **Have the AI interview the teacher before it drafts.** [[zhai-science-literacy-generative-ai-coherence-2026|Zhai et al. (2026)]] describe a culturally responsive lesson planner whose interactive semi-automated prompt architecture asks context and culture questions first, then drafts from the teacher's own answers rather than producing a generic plan.
 
 ## Connected Concepts
 
@@ -76,6 +77,7 @@ Grounded in the knowledge base's own articles, educators and designers can apply
 - [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
 
 ## Connected Articles
+- [[zhai-science-literacy-generative-ai-coherence-2026]] — Lesson planner that interviews teachers about cultural context before drafting (Zhai et al. 2026)
 
 - [[llm-cultural-relevance-k12]] — LLMs for Culturally Relevant K-12 Pedagogy
 - [[civic-education-ai-lesson-plans]] — AI-Generated Lesson Plans in Civic Education

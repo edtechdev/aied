@@ -6,7 +6,7 @@ technology: [generative-ai]
 discipline: [science education, stem education]
 confidence: medium
 created: "2026-08-29T12:55:12-04:00"
-updated: "2026-10-21T12:05:00-04:00"
+updated: "2026-10-23T22:38:41-04:00"
 reviewed_by: [editor]
 ---
 
@@ -59,6 +59,8 @@ Teacher readiness is decisive. [[pre-service-science-teachers-ai-perceptions-202
 
 In a 42-study meta-analysis of GenAI and motivation, the smallest subject-domain effect was in science (g = 0.109, 95% CI [−0.107, 0.325], k = 3), the only domain whose interval crossed zero, so the pooled evidence does not support a [[motivation|motivational]] case for GenAI specifically in science ([[genai-learning-motivation-meta-analysis-2026|Fang et al. (2026)]]).
 
+As a framework rather than a study, [[zhai-science-literacy-generative-ai-coherence-2026|Zhai et al. (2026)]] reframe the target: Vision I science literacy for competence in science careers, Vision II for science in everyday and civic life, and Vision III for knowledge and action at community and societal scale. They argue that [[generative-ai|generative AI]] earns its place in science classrooms only when it makes curriculum, instruction and assessment cohere with one of those visions, and that the field's persistent problem is tests that reward terminology recall while standards ask for explanation and investigation.
+
 ## Connected Concepts
 
 - [[stem-education]]
@@ -71,6 +73,7 @@ In a 42-study meta-analysis of GenAI and motivation, the smallest subject-domain
 - [[generative-ai]]
 
 ## Connected Articles
+- [[zhai-science-literacy-generative-ai-coherence-2026]] — Framework chapter on science literacy as coherence across curriculum, instruction and assessment (Zhai et al. 2026)
 
 - [[ai-methodologies-science-education-research-2026]] — Seven-phase epistemic-iteration framework for reflecting on how AI methodologies may transform science education research (Martin et al., 2026)
 - [[ai-science-chemistry-education-systematic-review-2025]] — Systematic review of AI in science and chemistry education
