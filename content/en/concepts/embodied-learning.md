@@ -1,7 +1,7 @@
 ---
 title: Embodied Learning
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-09-30T09:59:35-04:00"
+updated: "2026-10-23T22:31:18-04:00"
 type: concept
 foundations: [computational-thinking]
 pedagogy: [active-learning, embodied-learning, situated-learning]
@@ -41,6 +41,7 @@ A second, more theoretical strand of the knowledge base's embodiment research co
 - **Embodiment, situatedness, and social construction.** In [[science-education|science learning]], AI tools function as "mediational artifacts" that enable digital communities of practice and boundary-crossing, connecting embodied, authentic inquiry to real-world and interdisciplinary contexts.([[li-ai-science-situated-learning-teachers-2025]]) This ties embodiment to [[situated-learning]] and [[distributed-cognition]].
 
 Embodied learning connects to [[educational-robotics]], [[educational-robotics]], [[educational-robotics]], [[active-learning]], [[experiential-learning]], [[situated-learning]], [[distributed-cognition]], [[computational-thinking]], and [[social-emotional-learning]].
+- **Body tracking turns regulation into a measurable signal.** In a mixed-reality photosynthesis simulation where motion tags moved student agents across a projected model, an LLM pipeline labeled 470 segments of self-regulated behavior in 40 minutes of video, enacting dominating at 66.4% ([[fonteles-embodied-learning-human-in-the-loop-multimodal-2026|Fonteles et al., 2026]]).
 
 ## Connected Concepts
 - [[educational-robotics]]
@@ -56,6 +57,7 @@ Embodied learning connects to [[educational-robotics]], [[educational-robotics]]
 - [[virtual-and-augmented-reality]] — the modality that tries to exploit embodiment directly
 
 ## Connected Articles
+- [[fonteles-embodied-learning-human-in-the-loop-multimodal-2026]] — Motion-tracked photosynthesis simulation analyzed with an LLM pipeline (Fonteles et al. 2026)
 - [[multimodal-embodied-cognition-oral-explanations-2026]] — A Multimodal Framework for Embodied Cognition in Oral Explanations
 - [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Fostering Sustainable Learning via Embodied Intelligence (E3-HOT)
 - [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly Studio
