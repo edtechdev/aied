@@ -140,6 +140,9 @@ build:
     # was written down in AGENTS.md and still got broken (a second store appeared under
     # `raw/pdfs/`), so this checks the filesystem rather than trusting the prose.
     - python3 tooling/scripts/check-pdf-store.py
+    # A weave that leaves `updated` alone is invisible: the right sidebar and the RSS feeds
+    # sort by that stamp, so the page gains a finding while the site says nothing changed.
+    - python3 tooling/scripts/check-concept-updated-bump.py --changed
   site: npm run build             # Astro + Pagefind + PWA service worker
   llms: python3 tooling/scripts/generate-llms-files.py
   # Offline books are LOCAL committed artefacts, rebuilt ONLY on explicit

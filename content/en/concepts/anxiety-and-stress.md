@@ -1,7 +1,7 @@
 ---
 title: Anxiety and Stress
 created: "2026-08-25T09:40:00-04:00"
-updated: "2026-10-23T09:14:19-04:00"
+updated: '2026-10-24T06:36:00-04:00'
 type: concept
 foundations: [academic-integrity]
 pedagogy: [social-emotional-learning, well-being]
