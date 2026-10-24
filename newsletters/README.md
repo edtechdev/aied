@@ -1,4 +1,4 @@
-# AIEd KB Weekly Update
+# AIEd Research Weekly Update
 
 Editorial guide for the site's weekly newsletter. The issues themselves live in
 `content/en/newsletters/`, one markdown file per issue, because they are part of the site now:
@@ -24,7 +24,7 @@ This folder holds only this guide, so nothing here reaches a build.
 
 ```yaml
 ---
-title: "AIEd KB Weekly Update"
+title: "AIEd Research Weekly Update"
 issue: 1
 created: "2026-10-24T08:00:00-04:00"   # the issue date, a full timestamp like every page
 summary: "One sentence for the /news listing and the feed item."
@@ -36,11 +36,11 @@ spotlight: [language-learning, intelligent-tutoring, self-report-measures, gover
 `status: draft` keeps an issue out of the listing, the journal, the sidebar and the feed while it is
 being written. The file name is the issue date, so the folder and the URLs sort chronologically.
 
-`title` carries the issue number: `AIEd KB Weekly Update #1`, `#2`, and so on. Every consumer prints that
+`title` carries the issue number: `AIEd Research Weekly Update #1`, `#2`, and so on. Every consumer prints that
 title verbatim (page heading, archive entry, journal row, right rail, feed item), so nothing else appends
 ", issue 1" to it and the markdown must not repeat the heading in its body. The issue page prints the
 date after the title, and the archive entry prints it beside the title, so the heading reads
-"AIEd KB Weekly Update #1  October 24, 2026".
+"AIEd Research Weekly Update #1  October 24, 2026".
 
 ## Masthead
 
