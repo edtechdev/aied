@@ -1,7 +1,7 @@
 ---
 title: "Notation automatisée de dissertations"
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-10T03:05:33-04:00"
+updated: "2026-10-24T10:38:23-04:00"
 type: concept
 foundations: [ai-literacy]
 technology: [generative-ai, llm, prompt-engineering]
@@ -97,11 +97,11 @@ Les systèmes ouverts font aussi partie de ce tableau : AiAWE note des dissertat
 - [[automated-essay-scoring-critical-thinking-physics-2026]] — Educational Innovation through Automated Essay Scoring: A Multidimensional Framework for Evaluating Critical Thinking in High School Physics Essays
 - [[opraise-automated-marking-ai-assessment-2026]] — Rapport OpRaise : notation par IA de 761 dissertations universitaires dans trois universités britanniques
 - [[human-in-the-loop-ai-scoring-national-assessment-2026]] — A Human-in-the-Loop Framework for AI-Assisted Scoring in Large-Scale Writing Assessment
-- [[zhang-races-consistent-essay-scoring-llms-2026]] — RACES: reward-aligned consistent essay scoring with LLMs
+- [[zhang-races-consistent-essay-scoring-llms-2026]] — RACES : une notation de dissertations cohérente et alignée sur la récompense avec les LLM
 - [[ai-scoring-language-bias-physics]]
 - [[choi-anchor-aes-prompting-2025]]
 - [[icle-plus-plus-essay-scoring]]
-- [[llms-do-not-grade-essays-like-humans-2026]] — LLMs do not grade essays like humans (Mathew et al. 2026)
+- [[llms-do-not-grade-essays-like-humans-2026]] — Les LLM ne notent pas les dissertations comme les humains (Mathew et al. 2026)
 - [[psyscore-essay-scoring-zpd-feedback]]
 - [[self-referential-l2-writing-llm-assessment]]
 - [[aiawe-automated-writing-evaluation]]
@@ -109,5 +109,5 @@ Les systèmes ouverts font aussi partie de ce tableau : AiAWE note des dissertat
 - [[llm-essay-scoring-feature-weighting-2026]] — Feature weighting patterns in LLM-based essay scoring (Wang et al. 2026)
 - [[llm-essay-assessment-framework-reliability-2026]] — Framework for evaluating LLMs in essay assessment (Liu, Ye & Yan 2026)
 - [[falahat-chatgpt-grading-pharmacy-exams-2026]]
-- [[know-when-to-trust-ai-scoring-reliability-2026]] — Know When to Trust: self-confidence, weighted probabilistic scoring and ensembling improve LLM scoring agreement
+- [[know-when-to-trust-ai-scoring-reliability-2026]] — Savoir quand faire confiance : la confiance du modèle, la notation probabiliste pondérée et la combinaison de modèles améliorent l'accord de notation des LLM
 - [[swim-student-writing-simulation-2026]] — un vérificateur d'AES gelé utilisé comme récompense d'entraînement dense pour un générateur d'écriture

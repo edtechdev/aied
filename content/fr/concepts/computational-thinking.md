@@ -1,7 +1,7 @@
 ---
 title: "Pensée informatique"
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-10T03:05:33-04:00"
+updated: "2026-10-24T10:43:33-04:00"
 type: concept
 foundations: [ai-literacy]
 technology: [adaptive-learning, generative-ai, llm, prompt-engineering]
@@ -110,9 +110,9 @@ La pensée informatique est le fondement cognitif partagé qui sous-tend l'[[ai-
 - [[game-based-gamified-robotics-education-review-2026]]
 - [[solving-vs-evaluating-genai-solutions]]
 - [[zhang-ct-ai-training-test-2026]] — Computational Thinking in AI Training Test (CTAT)
-- [[computational-thinking-aica-2026]] — Computational Thinking Levels and AI Coding Assistants (2026)
-- [[ai-writes-code-student-writes-model-2026]] — Model authorship: theory & measurement for learning-by-construction with GenAI
+- [[computational-thinking-aica-2026]] — Niveaux de pensée informatique et assistants de codage IA (2026)
+- [[ai-writes-code-student-writes-model-2026]] — Paternité du modèle : théorie et mesure pour l'apprentissage par construction avec l'IA générative
 - [[code-to-learn-genai-artifact-construction-2026]] — CtL-GenAI: constructionism framework for artifact construction
-- [[astor-computational-thinking-meta-review-2026]] — CT meta-review of 128 systematic reviews
+- [[astor-computational-thinking-meta-review-2026]] — Méta-revue de 128 revues systématiques sur la pensée informatique
 - [[tsingidou-ct-robotics-kindergarten-2026]] — Revue systématique de la pensée informatique par la robotique à la maternelle
 - [[praise-non-programmer-ai-model-implementation-2026]] — PRAISE: A Reproducible Workflow for Non-Programmer Scientists to Implement Published AI Models

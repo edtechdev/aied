@@ -1,7 +1,7 @@
 ---
 title: Simulation d'étudiants
 created: "2026-08-12T22:10:30-04:00"
-updated: "2026-10-10T03:41:06-04:00"
+updated: "2026-10-24T10:43:48-04:00"
 type: concept
 connected_faqs: [checking-whether-educational-ai-works, making-simulated-students-behave-like-learners, how-can-ai-assist-with-educational-research]
 foundations: [agentic-ai, teacher-role]
@@ -9,7 +9,7 @@ technology: [cognitive-diagnosis, generative-ai, intelligent-tutoring, knowledge
 audience: [instructors]
 confidence: high
 translation_of: concepts/simulating-students
-source_updated: "2026-10-10T14:20:00-04:00"
+source_updated: "2026-10-19T09:40:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -64,6 +64,8 @@ L'échec inverse se produit aussi : dans une étude en aveugle, des annotateurs 
 
 Conditionner la génération à un modèle de comportement prédit fonctionne sans affinage : un cadre sans entraînement construit le prototype cognitif de chaque étudiant à partir d'un [[knowledge-graph|graphe de connaissances]] et note les candidats issus de la recherche par faisceaux contre ce prototype, en rendant compte d'une amélioration de 100% de l'exactitude de la simulation ([[simulating-students-diverse-cognitive-levels-2025|Wu et coll. (2025)]]). Sa qualité s'élève avec le niveau cognitif de l'étudiant, de sorte que les apprenants plus faibles demeurent le cas le plus difficile à simuler.
 
+- **Prédire l'apprenant plutôt que jouer son rôle.** [[hachimi-ii-learner-behavior-modeling-student-simulation-2026|Jiang et coll. (2026)]] reconfigurent la simulation en prédiction à la troisième personne : un modèle d'étudiant construit à partir de l'historique de l'apprenant fournit un a priori, un état d'apprenant inféré contraint l'action suivante, et la distribution de compétence simulée se rapproche de 2,4 à 8,4 fois de la réelle selon la distance de Wasserstein-1.
+
 CogEvolution modélise une dynamique cognitive plutôt qu'un profil statique — un perceptron de profondeur ICAP fixe l'ampleur de chaque mise à jour d'état, et une mise à jour évolutionnaire reste dans un rayon de zone de développement proximal — atteignant R²LC = 0,92 là où les agents statiques atteignent 0,45, et retombant à 0,58 sans le module ICAP ([[cogevolution-student-cognitive-evolution-agent-2026|Zhang et coll. (2026)]]).
 
 ### La fidélité avant le réalisme de surface
@@ -108,6 +110,8 @@ L'architecture peut imposer ce que le prompting ne peut pas : un simulateur neur
 
 Au-delà de l'évaluation de la pédagogie, les étudiants simulés servent de **harnais de test pour auditer les systèmes d'IA eux-mêmes** — une manière contrôlée de sonder le comportement d'une IA sur des profils d'apprenants divers avant qu'elle ne touche de vrais étudiants. [[lopez-pernas-llm-appropriate-student-support-2026|López-Pernas et coll. (2026)]] l'illustrent : ils ont généré 4 500 vignettes d'étudiants synthétiques avec trois LLM pour auditer si les [[llm|grands modèles de langage]] actuels peuvent agir comme recommandateurs prescriptifs d'[[learning-analytics|analytique de l'apprentissage]], constatant une sensibilité limitée au besoin de l'étudiant et une vive incohérence entre modèles. L'usage de cohortes simulées pour soumettre à l'épreuve les recommandations d'une IA (plutôt que seulement pour entraîner ou évaluer des tuteurs) est un rôle croissant du paradigme, étroitement lié à l'[[ai-ed-evaluation|évaluation de l'IA dans l'éducation]] et à l'[[equity-in-ai-education|équité dans l'IA éducative]] lorsque l'audit vise à faire apparaître un traitement disparate selon les types d'apprenants.
 
+Un test de validité plus exigeant demande si un modèle reproduit tout simplement le *choix* humain : dans un jeu d'apprentissage autodirigé adapté, cinq modèles de pointe ont exploité une solution unique là où 175 participants humains exploraient à travers plusieurs objectifs, si bien qu'un modèle tenant lieu d'apprenants abandonnait le comportement même que la simulation existe pour reproduire ([[llm-goal-selection-self-directed-learning-2026|Molinaro et coll. (2026)]]).
+
 La simulation peut aussi pré-tester les choix de l'apprenant : [[simulating-learner-task-selection|Noh et coll. (2026)]] ont ajusté un modèle à facteurs additifs et un [[knowledge-tracing|traçage bayésien des connaissances]] à deux jeux de données réels de tutorat, et ont laissé 1 000 apprenants simulés choisir des compétences selon huit stratégies, où une règle averse au risque a produit environ trente fois la sur-pratique des autres, et une contrainte de juste-en-dessous-de-la-maîtrise l'a ramenée à 1,8×.
 
 Un second registre d'audit est [[metacognition|métacognitif]] et affectif. [[meds-math-education-digital-shadows-2026|MEDS (Esposito et coll., 2026)]] est un jeu de données de 28 000 enregistrements — 2 000 profils synthétiques pour chacun des 14 [[llm|modèles]], chacun exécuté à la fois comme profil humain et comme assistant de référence — qui enregistre l'exactitude sur 18 problèmes de [[problem-solving|mathématiques]] de lycée, parallèlement à la confiance [[self-report-measures|auto-déclarée]] et aux scores d'[[self-efficacy|auto-efficacité]] et d'[[anxiety-and-stress|anxiété en mathématiques]] que rendraient les apprenants à la place desquels il se tient. Son signal d'audit est l'écart de calibrage : la famille Qwen et Ministral 3B ont affirmé une confiance supérieure à 0,90 tandis que l'exactitude stagnait près de 0,55, tandis que Grok 4.1 Fast, DeepSeek Chat et plusieurs variantes de Mistral Small étaient sous-confiantes, et que Ministral 14B et Anita 24B sont demeurés raisonnablement alignés. Les mêmes exécutions exposent un échec plus discret de fidélité : les profils en mode humain ont produit des distributions de scores larges et plausibles, mais les assistants de référence ont rendu des réponses quasi identiques, confiantes et peu anxieuses — un autoportrait par défaut plutôt qu'un apprenant simulé. Cela étend l'audit des recommandations ci-dessus en sondant ce qu'un modèle affirme de sa propre compétence et de son propre affect, et cela aiguise d'une direction inattendue l'avertissement de validité de la page : parce que les profils de MEDS sont pondérés par construction plutôt qu'échantillonnés dans une population réelle, ses auteurs présentent le jeu de données comme une ressource observationnelle pour auditer le comportement conditionné par prompt de l'[[generative-ai|IA générative]], et explicitement pas comme un substitut à de véritables données d'[[student-experience|expérience étudiante]].
@@ -139,6 +143,7 @@ L'entraînement contre un simulateur peut aussi se transférer : l'agent d'appre
 - [[teacher-role]]
 
 ## Articles liés
+- [[hachimi-ii-learner-behavior-modeling-student-simulation-2026]] — HACHIMI-II : du jeu de rôle à la modélisation du comportement de l'apprenant pour une simulation fidèle des étudiants
 - [[tutorloop-sensor-cognitive-feedback-2026]] — Un tuteur par apprentissage par renforcement entraîné sur simulateur, transféré hors ligne à une nouvelle tâche réelle (Xu et Zhang 2026)
 
 - [[llm-student-simulation-teacher-insights]] — Les LLM peuvent-ils simuler des apprenants humains ? Le point de vue des enseignants
@@ -170,3 +175,4 @@ L'entraînement contre un simulateur peut aussi se transférer : l'agent d'appre
 - [[student-development-agent-risk-free-simulation-2025]] — prédire les résultats développementaux d'après-cours des étudiants sur une plateforme multi-agents sans les exposer à l'intervention
 - [[preservice-teachers-noticing-ai-simulations-2026]] — trois semaines d'attention, d'interprétation et de façonnage chez des enseignants en formation initiale dans une simulation d'agent conversationnel sur le signe égal, et comment la conception oriente ce qu'ils remarquent
 - [[beagle-grounded-learner-emulation-2026]] — un simulateur neuro-symbolique qui impose architecturalement une structure d'apprentissage autorégulé plutôt que par prompting, et passe un test de Turing humain
+- [[llm-goal-selection-self-directed-learning-2026]] — La sélection de buts par les modèles de langue diffère de celle des humains dans une tâche d'apprentissage autodirigé

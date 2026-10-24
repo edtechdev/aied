@@ -1,7 +1,7 @@
 ---
 title: "Apprentissage par le jeu"
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-10-10T03:05:32-04:00"
+updated: "2026-10-24T10:38:02-04:00"
 type: concept
 pedagogy: [active-learning, game-based-learning, motivation, student-engagement]
 technology: [educational-robotics]
@@ -71,8 +71,8 @@ Le GBL et la ludification se relient ensemble à la [[educational-robotics|robot
 - [[game-based-gamified-robotics-education-review-2026]] — Enseignement de la robotique par le jeu et ludifié
 - [[remind-robot-mediated-roleplay-antibullying-2026]] — REMind
 - [[motibo-digital-storytelling-robots-motivation-2026]] — MotiBo
-- [[bots-blocks-project-based-robotics-education-2026]] — Bots and Blocks
-- [[white-wu-robotics-ai-education-2026]] — Robotics and AI in Education
-- [[genai-motivation-engagement-2026]] — Generative AI, Motivation, and Engagement
+- [[bots-blocks-project-based-robotics-education-2026]] — Bots et blocs : un cours de robotique par projets
+- [[white-wu-robotics-ai-education-2026]] — La robotique et l'IA en éducation
+- [[genai-motivation-engagement-2026]] — L'IA générative, la motivation et l'engagement
 - [[nasa-tlx-workload-gamified-ai-2026]] — Charge NASA-TLX dans les conditions ludifiées/IA
 - [[arcs-motivational-ergonomics-gamified-ai-2026]] — ARCS : motivation et ludification assistée par IA

@@ -1,7 +1,7 @@
 ---
 title: "Quelles sont les bonnes pratiques pour rapporter et interpréter la recherche sur l'IA en éducation ?"
 created: "2026-09-22T19:14:36-04:00"
-updated: "2026-10-09T18:10:00-04:00"
+updated: "2026-10-24T10:45:59-04:00"
 weight: 65
 type: faq
 foundations: [limitations-in-aied-research, interpreting-and-applying-aied-research]
@@ -11,7 +11,7 @@ research_method: [literature review]
 audience: [researchers]
 page_kind: [evaluation]
 methods: [ai-ed-evaluation, benchmark, meta-analysis-systematic-review, research-methods-aied]
-source_updated: "2026-10-02T08:21:34-04:00"
+source_updated: "2026-10-21T14:32:00-04:00"
 translation_of: faqs/reporting-interpreting-aied-research
 translation_note: "Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle."
 contributors: [editor]
@@ -27,8 +27,6 @@ ai_assist:
 ---
 
 *Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle.*
-
-# Quelles sont les bonnes pratiques pour rapporter et interpréter la recherche sur l'IA en éducation ?
 
 Vous rédigez une étude sur l'IA en éducation dont l'affirmation est déjà en avance sur sa conception, ou vous en relisez une et cherchez à savoir si le chiffre mis en avant signifie quoi que ce soit. Dans les deux cas, les mêmes six omissions décident du résultat : quel système d'IA a réellement été utilisé, comment il était configuré, quel rôle pédagogique il jouait, si des humains ont conçu ou relu ses productions, ce que la mesure de résultat capturait vraiment, et ce que les auteurs ont fait des biais, des coûts et des limites. Un auteur qui les omet soumet une étude qui ne peut pas être évaluée ; un relecteur qui ne les cherche pas ne peut distinguer une intervention conçue d'une démonstration d'outil recyclée. « Non évaluable », et non « confirmé » ni « réfuté », est le verdict honnête lorsqu'elles manquent.
 

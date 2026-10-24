@@ -1,7 +1,7 @@
 ---
 title: "Théories et cadres"
 created: "2026-09-19T05:40:00-04:00"
-updated: "2026-10-10T03:41:12-04:00"
+updated: "2026-10-24T10:38:14-04:00"
 type: concept
 foundations: [ai-education, theory-development-aied, philosophy-of-ai-in-education]
 pedagogy: [learning-theories]
@@ -9,7 +9,7 @@ assessment: [assessment-validity, item-response-theory]
 methods: [research-methods-aied]
 confidence: high
 translation_of: concepts/theories-and-frameworks
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-23T09:49:58-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -48,6 +48,8 @@ Celles-ci expliquent des mécanismes : elles nomment les pièces qui font le tra
 - **La [[community-of-inquiry|communauté d'enquête]]** — les présences sociale, cognitive et pédagogique qui font fonctionner une expérience en ligne ; à la fois une théorie de l'expérience et un cadre de conception.
 - **La [[self-determination-theory|théorie de l'autodétermination]]** — l'autonomie, la compétence et le lien avec autrui comme préconditions motivationnelles. Souvent l'explication avancée lorsque l'usage de l'IA élève l'engagement sans élever l'apprentissage.
 - **Le [[cognitive-psychology|cognitivisme]]** — le traitement de l'information, la mémoire de travail, et la divergence entre le sentiment d'apprendre et l'apprentissage réel.
+- **La théorie de la perception sociale (chaleur et compétence)** — importée de la cognition sociale et de la recherche sur les robots de service, elle cadre la manière dont les usagers jugent la crédibilité d'un agent d'IA : la compétence perçue prédisait directement la crédibilité de la rétroaction de ChatGPT, tandis que la chaleur n'agissait qu'à travers une empathie quasi humaine (MES, 230 étudiants ; [[chatgpt-feedback-credibility-perceived-learning|Pérez-López et al. (2026)]]).
+- **Une quatrième catégorie d'affordances a été proposée, pas testée.** En codant 24 études à l'aune d'un schéma d'affordances en trois parties, les auteurs de la revue ont constaté que l'engagement, la sécurité et l'auto-efficacité ne se rangeaient dans les catégories technologique, pédagogique ni sociale, et ont proposé des affordances émotionnelles ancrées dans le déterminisme réciproque de Bandura ([[genai-chatbots-language-learning-affordances-review-2026|Lopez & Arabadzhy (2026)]]).
 
 ## Modèles de l'apprenant et du processus d'apprentissage
 
@@ -130,6 +132,7 @@ L'alignement du mécanisme sur la théorie peut néanmoins être décisif : une 
 
 ## Articles liés
 
+- [[genai-chatbots-language-learning-affordances-review-2026]] — Les affordances émotionnelles proposées comme quatrième catégorie d'une taxonomie d'affordances
 - [[ai-game-based-learning-systematic-review-2026]] — L'alignement du mécanisme sur la théorie, et non la sophistication algorithmique, a déterminé l'efficacité dans 55 études sur l'apprentissage par le jeu soutenu par l'IA
 - [[rismanchian-ai-education-four-decades-aixed-2026]] — Quatre décennies d'AIED à travers le cadre AI×Ed
 - [[educating-minds-generative-ai-2026]] — Synthèse fortement théorique de l'IA générative et de l'apprentissage

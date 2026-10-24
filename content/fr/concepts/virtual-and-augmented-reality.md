@@ -1,7 +1,7 @@
 ---
 title: "Réalité virtuelle et augmentée"
 created: "2026-09-13T09:52:00-04:00"
-updated: "2026-10-10T03:26:18-04:00"
+updated: "2026-10-24T10:46:40-04:00"
 type: concept
 pedagogy: [embodied-learning, professional-training]
 technology: [generative-ai, multimodal, simulation]
@@ -102,6 +102,6 @@ La même logique explique pourquoi la présence n'est pas automatiquement bonne.
 - [[mixed-reality-engineering-learning]] — applications de réalité mixte vs mallettes physiques vs classe en mécanique de l'ingénieur ; engagement en hausse, visualisation complexe toujours difficile
 - [[medgame-llm-medical-education-gamification]] — formation médicale ludifiée avec IA
 - [[tech-enhanced-tabletop-cybersecurity-education]] — scénarios de table augmentés en éducation à la cybersécurité
-- [[genai-xr-architectural-design-education-2026]] — Generative AI and Extended Reality in Collaborative Architectural Design Education: An Exploratory Studio Study
+- [[genai-xr-architectural-design-education-2026]] — IA générative et réalité étendue dans l'enseignement collaboratif de la conception architecturale : une étude de studio exploratoire
 - [[ai-ive-pbl-vocational-design-creativity-2026]] — AI-IVE-PBL : studio de design immersif en RV avec un assistant d'enseignement adossé à un LLM, évalué par rapport à un apprentissage par projets traditionnel (Jin et al. 2026)
 - [[luminote-llm-vr-stage-lighting-education-2026]] — LumiNote : enseignement multimodal assisté par LLM en RV dans l'éducation à l'éclairage de scène, et là où l'ancrage s'est rompu (Liang et al. 2026)

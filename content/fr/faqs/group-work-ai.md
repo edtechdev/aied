@@ -1,7 +1,7 @@
 ---
 title: "Comment gérer l'IA dans les travaux de groupe et collaboratifs ?"
 created: "2026-09-22T19:10:56-04:00"
-updated: "2026-10-09T18:10:00-04:00"
+updated: "2026-10-24T10:37:22-04:00"
 weight: 60
 type: faq
 foundations: [academic-integrity, agency]
@@ -11,7 +11,7 @@ methods: [meta-analysis-systematic-review, mixed-methods-research]
 research_method: [interviews]
 audience: [instructors, instructional designers, assessment designers]
 level: [higher ed, secondary]
-source_updated: "2026-10-02T08:21:34-04:00"
+source_updated: "2026-10-21T14:32:00-04:00"
 translation_of: faqs/group-work-ai
 translation_note: "Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle."
 contributors: [editor]
@@ -27,8 +27,6 @@ ai_assist:
 ---
 
 *Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle.*
-
-# Comment gérer l'IA dans les travaux de groupe et collaboratifs ?
 
 Vous donnez un travail de groupe, et deux modes d'échec arrivent avec les copies : un artefact soigné et cohérent que personne dans le groupe ne peut expliquer, et une équipe où un étudiant a fait passer le travail par l'[[generative-ai|IA générative]] pendant que trois autres se reposaient sur la note commune. Rien dans le fichier ne vous dit de quel cas il s'agit.
 

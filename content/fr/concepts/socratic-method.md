@@ -2,7 +2,7 @@
 connected_resources: [matt-pocock-skills]
 title: "La méthode socratique"
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-10T03:41:12-04:00"
+updated: "2026-10-24T10:38:02-04:00"
 type: concept
 foundations: [ai-education, critical-thinking]
 pedagogy: [metacognition, scaffolding]
@@ -12,7 +12,7 @@ audience: [learners]
 level: [higher ed]
 confidence: high
 translation_of: concepts/socratic-method
-source_updated: "2026-10-15T08:25:00-04:00"
+source_updated: "2026-10-19T09:40:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -52,7 +52,7 @@ Les rétroactions socratique et directive ont fait évoluer des choses différen
 - **Font émerger les [[misconceptions]]** — par le biais de contre-exemples soigneusement choisis
 - **Guident vers la prise de conscience** — sans dévoiler la réponse
 
-L'approche socratique incarne directement le principe énoncé par [[llm-training-and-fine-tuning|EduQwen]] : **récompenser le « guidage » plutôt que la « réponse »**. Cependant, le calibrage socratique en temps réel est plus difficile qu'une pédagogie validée sur un corpus fermé : EduQwen optimise le guidage correct sur un [[benchmark]] à choix multiples, tandis qu'un tuteur socratique en situation réelle doit décider *quand* guider, *quand* donner un indice et *quand* répondre — en s'appuyant sur les signaux en temps réel de l'étudiant. L'[[affective-tutoring|état affectif]] est un modérateur critique : un étudiant frustré peut avoir besoin d'une brève réponse directe avant de revenir au mode socratique.
+L'approche socratique incarne directement le principe énoncé par [[llm-training-and-fine-tuning|EduQwen]] : **récompenser le « guidage » plutôt que la « réponse »**. Cependant, le calibrage socratique en temps réel est plus difficile qu'une pédagogie validée sur un corpus fermé : EduQwen optimise le guidage correct sur un [[benchmark]] à choix multiples, tandis qu'un tuteur socratique en situation réelle doit décider *quand* guider, *quand* donner un indice et *quand* répondre — en s'appuyant sur les signaux en temps réel de l'étudiant. L'[[affective-tutoring|état affectif]] est un modérateur critique : un étudiant frustré peut avoir besoin d'une brève réponse directe avant de revenir au mode socratique. Une variante plus stricte supprime tout à fait l'enseignement : un agent de physique d'introduction qui ne fait que sonder demande aux étudiants de défendre une prédiction correcte face à une variable modifiée (détection de la grotte, ou *cave detection*) et garde le message suivant une réponse correcte indiscernable de celui qui suit une réponse erronée ([[socratic-probing-agent-physics-cave-detection-2026|Cho (2026)]]).
 
 ## Preuves d'efficacité
 
@@ -156,12 +156,13 @@ La méthode socratique est étroitement liée au [[scaffolding|étayage]] (fourn
 - [[prober-ai-inquiry-writing]]
 - [[generative-ai-guardrails-harm-learning]]
 - [[stanford-evidence-base-ai-k12-2026]] — Structured Socratic hints vs. open-ended general-purpose Q&A
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pedagogical Steering of LLMs for Productive Failure
-- [[wang-safety-gap-productive-struggle-2026]] — The Safety Gap: Restoring Productive Struggle
+- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pilotage pédagogique des LLM pour l'échec productif
+- [[wang-safety-gap-productive-struggle-2026]] — L'écart de sécurité : restaurer la lutte productive
 - [[rhaimi-productivemath-2025]] — ProductiveMath: AI to Support PF Problem Design
 - [[lukesova-clue-before-correction-2026]] — Clue Before Correction: ChatGPT for Autonomous Language Learning
 - [[socratic-nuclear-ai-learning]] — Socrates went Nuclear: Comparing Interaction Strategies for AI in Learning
 - [[lftutor-logical-fallacy-education-2026]] — Questionnement socratique et argumentation critique dans un cadre de tutorat des sophismes en quatre étapes
-- [[guardrails-ai-teaching-assistants-programming-2026]] — Guardrails or Roadblocks? Effects of Pedagogical Style and Context Awareness in AI Teaching Assistants for Programming
-- [[genai-socratic-tutor-biology-argumentation-2026]] — Enhancing PISA-aligned argumentation skills of prospective biology teachers through generative artificial intelligence
+- [[guardrails-ai-teaching-assistants-programming-2026]] — Garde-fous ou obstacles ? Les effets du style pédagogique et de la conscience du contexte dans les assistants pédagogiques d'IA pour la programmation
+- [[genai-socratic-tutor-biology-argumentation-2026]] — Améliorer les compétences d'argumentation alignées sur PISA des futurs enseignants de biologie grâce à l'intelligence artificielle générative
 - [[etq-ai-conversational-teacher-training-2026]] — Diagnostic conversationnel par IA des conceptions erronées en enseignement, par un dialogue fondé sur les preuves (Miranda & Calvani 2026)
+- [[socratic-probing-agent-physics-cave-detection-2026]] — Concevoir un agent d'IA qui ne fait pas de tutorat : règles de conception pour le questionnement socratique en physique d'introduction

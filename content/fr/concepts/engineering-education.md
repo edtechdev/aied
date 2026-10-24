@@ -1,7 +1,7 @@
 ---
 title: "Enseignement de l'ingénierie"
 created: "2026-08-17T10:45:00-04:00"
-updated: "2026-10-10T03:24:44-04:00"
+updated: "2026-10-24T10:43:48-04:00"
 type: concept
 foundations: [ai-literacy, educational-development]
 assessment: [assessment]
@@ -12,7 +12,7 @@ audience: [learners, instructors, faculty developers]
 level: [higher ed]
 confidence: high
 translation_of: concepts/engineering-education
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-21T12:05:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -64,6 +64,8 @@ L'enseignement de l'ingénierie se situe au sein des [[stem-education|STIM]] et 
 
 La couverture de l'enseignement de l'ingénierie par la base de connaissances est encore en développement. Les sous-domaines qui gagneraient à recevoir des articles supplémentaires incluent les **[[discipline-specific-aied|pédagogies propres à des]] branches [[pedagogy|disciplinaires]] de l'ingénierie** (génie mécanique, civil, chimique, électrique, logiciel et bio-ingénierie), le **[[design-education|conception]] et l'éducation par la fabrication**, le **projet de synthèse et l'[[project-based-learning|apprentissage par projets]]**, et l'**éducation à l'éthique de l'ingénierie** — là où le rôle de l'IA est susceptible d'être particulièrement décisif.
 
+Cette lacune n'est plus vide dans un domaine : un programme de trois ans en génie biomédical a fait fonctionner l'IA générative comme un étayage encadré de résumé de connaissances et de programmation à l'intérieur d'une séquence d'apprentissage par projets à quatre modules (outils approuvés, aucune donnée de patient, journaux de divulgation) et a rapporté des taux de A de 66,4 % contre 39,1 % pour les cohortes d'avant l'IA ([[pbl-biomedical-engineering-genai-2026|Nnamdi et al. (2026)]]).
+
 ## Implications pour les enseignants d'ingénierie
 
 - **Bâtissez un langage partagé et exact sur l'IA.** La [[engineering-faculty-metaphors-ai-understanding-2026|recherche sur les métaphores du corps professoral]] montre que les enseignants ont des modèles mentaux fondamentalement différents (agent contre outil) ; alignez la compréhension départementale avant de faire une politique.
@@ -100,7 +102,6 @@ La couverture de l'enseignement de l'ingénierie par la base de connaissances es
 - [[multimodal-embodied-cognition-oral-explanations-2026]] — Un cadre multimodal pour la cognition incarnée dans les explications orales
 - [[ai-engineering-computing-workforce-grey-literature-2026]] — L'IA et l'avenir de la main-d'œuvre de l'ingénierie et de l'informatique
 - [[ai-engineering-education-balancing-act]] — Utiliser l'IA dans l'enseignement de l'ingénierie : un exercice d'équilibre
-- [[ai-learning-tools-engineering-education-needs]] — Concevoir des outils d'apprentissage par l'IA sensibles aux besoins et à l'attention pour l'enseignement de l'ingénierie
 - [[structured-ai-demonstrations-engineering-mechanics]] — Démonstrations structurées d'IA en mécanique de l'ingénierie
 - [[isaza-chatgpt-engineering-prompting-2026]] — ChatGPT dans l'enseignement de l'ingénierie
 - [[liu-ai-sustainable-engineering-education-2026]] — Le cadre AI-SEE pour un enseignement de l'ingénierie durable (Liu et al. 2026)

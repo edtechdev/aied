@@ -1,7 +1,7 @@
 ---
 title: "Confiance"
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-10-10T03:05:58-04:00"
+updated: "2026-10-24T10:59:00-04:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, human-ai-collaboration]
 technology: [educational-robotics, intelligent-tutoring]
@@ -53,10 +53,14 @@ La manière dont un système est explicable — et en quels termes — façonne 
 
 La confiance envers l'IA se comporte comme un cheminement allant de l'évaluation à la dépendance plutôt que comme une attitude unique : l'autonomisation perçue liée à l'IA et la menace perçue liée à l'IA étaient presque indépendantes (r = 0,030) mais faisaient pourtant évoluer la confiance dans des directions opposées (β = 0,576 et β = −0,328), et la confiance portait des associations indirectes significatives avec la dépendance à l'IA générative dans les deux sens ([[ai-empowerment-threat-genai-dependence-2026|Zhu et al. (2026)]]).
 
+Un modèle structural donne à ce rôle de pont un test empirique. Dans l'enquête de [[trust-calibration-genai-collaborative-regulation-2026|Bu & Li (2026)]] auprès de 642 étudiants universitaires, le soutien contextuel prédisait la calibration de la confiance (β = 0,56), la calibration de la confiance prédisait la [[regulation|régulation]] [[collaborative-learning|collaborative]] (β = 0,49) et les gains de [[transfer-of-learning|transfert]] perçus (β = 0,22), et le chemin direct du soutien contextuel vers les gains n'était pas significatif.
+
 [[student-perspectives-ai-writing-grading-2026|AlGhamdi (2026)]] soutient une conception de la confiance dans les algorithmes **propre à chaque fonction plutôt que globale** : ni l'aversion pour les algorithmes ni l'appréciation pour les algorithmes ne décrivaient ces 13 étudiants, qui faisaient simultanément confiance à ChatGPT pour une rétroaction de surface et s'en méfiaient comme correcteur. Leur confiance était conditionnée par la supervision de l'enseignant, et leur scepticisme provenait des limites contextuelles de l'IA — la mauvaise lecture d'une écriture manuscrite numérisée (« it spelled my last name wrong and it thinks I made mistakes in my spelling when I didn't »), l'ignorance du barème de l'enseignant, et un optimisme chronique — plutôt que d'une technophobie, ce qui suggère que les mesures de confiance devraient être décomposées selon la fonction qu'une IA remplit et les enjeux qui s'y rattachent.
 
 
 Les trois dimensions de la crédibilité de la source peuvent se dissocier : dix-sept étudiants de premier cycle en anglais langue étrangère ont accordé à un assistant d'écriture IA une large expertise, ont douté surtout de sa fiabilité quant à ce que la plateforme conservait, et ont jugé sa bienveillance la plus faible — le plafond de leur dépendance résidait dans le soin, non dans la compétence ([[bounded-reliance-ai-writing-feedback-2026|Serpil & Mor, 2026)]]).
+
+Les indices de crédibilité peuvent accroître la dépendance à l'égard de réponses fausses : l'ajout de citations et de signaux d'autorité à une interface de débat a fait passer l'abandon d'un jugement correct au profit de la position de l'IA de 15,0 % à 31,8 %, tandis que le fait de retenir une position recommandée ramenait ce basculement à 5,7–8,2 % ([[tuo-armada-multi-agent-debate-overreliance-2026|Tuo et al., 2026]]).
 
 ## La confiance envers l'IA suit l'état psychologique, et non la catégorie démographique
 
@@ -117,9 +121,11 @@ La calibration est aussi mise à l'épreuve par les incitations du système auqu
 - [[mejia-domenzain-ml-findings-teachers-blended-2026]] — Rendre les résultats de l'apprentissage automatique accessibles aux enseignants en classe hybride
 - [[xai-teachers-trust-edtech-recommendations-2026]]
 - [[vahedian-children-attitudes-ai-chatbot-2026]]
-- [[student-perspectives-ai-writing-grading-2026]] — Who Should Grade My Work? Student Perspectives on Transparent AI-Assisted Writing Assessment in Higher Education
+- [[student-perspectives-ai-writing-grading-2026]] — Qui devrait noter mon travail ? Le point de vue des étudiants sur une évaluation transparente de l'écriture assistée par l'IA dans l'enseignement supérieur
 - [[trust-in-ai-psychological-profiles-ml-2026]] — Trois profils d'étudiants où la confiance envers l'IA suit la résilience et le stress plutôt que la démographie (Kumar et al. 2026)
-- [[bounded-reliance-ai-writing-feedback-2026]] — Bounded Reliance: A Source Credibility Perspective on EFL Students' Engagement with AI-Generated Writing Feedback
+- [[bounded-reliance-ai-writing-feedback-2026]] — Une confiance bornée : l'engagement des étudiants d'anglais langue étrangère avec la rétroaction d'écriture générée par l'IA, du point de vue de la crédibilité de la source
 
 - [[ai-empowerment-threat-genai-dependence-2026]] — Les évaluations d'autonomisation et de menace faisaient évoluer la confiance dans des directions opposées, portant la dépendance à l'IA générative
+- [[tuo-armada-multi-agent-debate-overreliance-2026]] — Les indices de crédibilité augmentaient le basculement vers une position incorrecte de l'IA ; retenir une recommandation le supprimait
+- [[trust-calibration-genai-collaborative-regulation-2026]] — Un modèle structural donne à ce rôle de pont un test empirique
 - [[observer-perceptions-genai-interpersonal-trust-2026]] — L'usage de l'IA générative par les pairs abaisse la confiance interpersonnelle via la chaleur et la compétence perçues, atténué par la littératie en IA

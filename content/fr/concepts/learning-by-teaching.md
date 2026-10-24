@@ -1,7 +1,7 @@
 ---
 title: "Apprendre en enseignant"
 created: "2026-08-14T10:45:34-04:00"
-updated: "2026-10-10T03:41:06-04:00"
+updated: "2026-10-24T10:51:33-04:00"
 type: concept
 pedagogy: [active-learning, learning-by-teaching, scaffolding, self-regulated-learning]
 technology: [generative-ai, intelligent-tutoring]
@@ -108,7 +108,7 @@ La [[research-methods-aied|recherche]] ci-dessus converge vers quelques patrons 
 
 ## Concepts liés
 
-- [[pedagogical-patterns]] — Explaining to an AI tutee: the best-evidenced sequence in the knowledge base
+- [[pedagogical-patterns]] — Expliquer à un élève-IA : la séquence la mieux étayée de la base de connaissances
 - [[generative-ai]]
 - [[active-learning]]
 - [[constructivist]]
@@ -121,16 +121,16 @@ La [[research-methods-aied|recherche]] ci-dessus converge vers quelques patrons 
 - [[collaborative-learning]]
 - [[intelligent-tutoring]]
 - [[pedagogical-agent]]
-- [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
+- [[pedagogy]] — Parapluie : pédagogies et stratégies d'enseignement dans l'éducation à l'IA
 
 ## Articles liés
 
-- [[chatgpt-teachable-agent-programming-lbt-2024]] — ChatGPT as a teachable agent in programming
+- [[chatgpt-teachable-agent-programming-lbt-2024]] — ChatGPT comme agent enseignable en programmation
 - [[explique-teachable-agent-algorithms-546-students-2026]] — Explique: teachable agent for 546 students
 - [[prompting-teachability-novice-personas-lbt-2026]] — Designing novice personas for teachability
-- [[socrates-students-instructors-llms-lbt-2025]] — Students as instructors of LLMs (Socrates)
-- [[teaching-ai-vocabulary-lbt-llms-2026]] — Vocabulary learning by teaching AI
+- [[socrates-students-instructors-llms-lbt-2025]] — Les étudiants comme instructeurs de LLM (Socrates)
+- [[teaching-ai-vocabulary-lbt-llms-2026]] — Apprentissage du vocabulaire en enseignant à l'IA
 - [[knowloop-confusion-to-consolidation-2026]] — Teach-back consolidation in a conversational review system
-- [[simulating-novice-students-machine-unlearning-2026]] — machine unlearning to hold a tutee at a novice knowledge level, and relearning through teaching dialogue
-- [[simulating-students-java-programming-errors-llms]] — Simulating student errors with LLMs
-- [[knowledge-building-tutor-learning-2026]] — knowledge-building responses, not prior knowledge, predict tutor learning
+- [[simulating-novice-students-machine-unlearning-2026]] — désapprentissage automatique pour maintenir un tutoré à un niveau de connaissance novice, et réapprentissage par le dialogue d'enseignement
+- [[simulating-students-java-programming-errors-llms]] — Simuler les erreurs d'étudiants avec des LLM
+- [[knowledge-building-tutor-learning-2026]] — les réponses de construction des connaissances, et non les connaissances préalables, prédisent l'apprentissage du tuteur

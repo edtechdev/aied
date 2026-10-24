@@ -1,7 +1,7 @@
 ---
 title: "La créativité"
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-10-10T03:05:32-04:00"
+updated: "2026-10-24T10:45:55-04:00"
 type: concept
 foundations: [critical-thinking, design-thinking]
 pedagogy: [constructivist, problem-solving]
@@ -107,15 +107,15 @@ La créativité se rattache à la [[critical-thinking]] et à l'apprentissage [[
 - [[bicer-genai-pd-math-creativity-2026]] — Comment le développement professionnel guidé par l'IA générative soutient l'engagement des enseignants avec la créativité mathématique, la connaissance du contenu et la connaissance pédagogique du contenu
 - [[incipit-axiom-grounded-scaffolding-literary-creation-2026]] — Étayage fondé sur les axiomes pour la création littéraire : les prémisses comme unité entre thème et texte, validée seulement en projet (Liu & Zhao 2026)
 - [[jin-emergent-learner-agency-implicit-hai-2026]] — Autonomie émergente de l'apprenant dans la collaboration humain-IA implicite : personas bienveillants ou contestataires
-- [[chatgpt-critical-creative-thinking-review]] — ChatGPT and Critical and Creative Thinking: Systematic Review
-- [[enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen]] — Robot-LLM Integration and Creative Writing
-- [[t2i-competence-paradox-2026]] — The competence paradox of text-to-image AI among art and design students
-- [[mujib-ai-ibl-creative-math-2026]] — AI-supported inquiry-based learning and creative mathematical performance
+- [[chatgpt-critical-creative-thinking-review]] — ChatGPT, pensée critique et pensée créative : revue systématique
+- [[enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen]] — Intégration robot-LLM et écriture créative
+- [[t2i-competence-paradox-2026]] — Le paradoxe de compétence de l'IA texte-image chez les étudiants en art et en design
+- [[mujib-ai-ibl-creative-math-2026]] — Apprentissage par investigation soutenu par l'IA et performance mathématique créative
 - [[flowcode-ai-creative-coding]] — Flowcode: an AI-powered environment scaffolding iteration in creative computing
-- [[trikonet-trivalence-co-creativity-2026]] — TriKoNet: trivalence model of potential co-creativity in socio-technical networks
-- [[genai-creativity-k12-scoping-review-2026]] — PRISMA scoping review of 45 K–12 studies: four GenAI uses for creativity, homogenization, and the measurement gap
+- [[trikonet-trivalence-co-creativity-2026]] — TriKoNet : modèle de trivalence de la co-créativité potentielle dans les réseaux sociotechniques
+- [[genai-creativity-k12-scoping-review-2026]] — Revue de portée PRISMA de 45 études du primaire au secondaire : quatre usages de l'IA générative pour la créativité, l'homogénéisation et la lacune de mesure
 
-- [[genai-dependence-research-creativity-2026]] — Functional versus existential GenAI dependence and research creativity in 1,157 graduate students
+- [[genai-dependence-research-creativity-2026]] — Dépendance fonctionnelle ou existentielle à l'IA générative et créativité de recherche chez 1 157 étudiants de troisième cycle
 - [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] — Créativité égale, engagement neural divergent : enfants et adultes conversationnant avec ChatGPT dans un scanner d'IRM
-- [[ai-dependence-creativity-motivation-literacy-2026]] — AI dependence and four motivations for use relate divergently to self-reported creativity (Hou et al. 2026)
+- [[ai-dependence-creativity-motivation-literacy-2026]] — La dépendance à l'IA et quatre motivations d'usage se rapportent de façon divergente à la créativité auto-déclarée (Hou et al. 2026)
 - [[ai-exemplar-attribution-creativity-education-2026]] — Soutenir l'éducation à la créativité à l'ère de l'IA : le rôle de la source perçue de l'exemple

@@ -1,7 +1,7 @@
 ---
 title: La motivation
 created: "2026-08-10T17:38:45-04:00"
-updated: "2026-10-10T03:05:32-04:00"
+updated: "2026-10-24T10:43:48-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [motivation, self-determination-theory, student-engagement]
@@ -10,7 +10,7 @@ connected_faqs: [ai-anxiety-wellbeing, asynchronous-online-courses-ai]
 audience: [learners]
 confidence: high
 translation_of: concepts/motivation
-source_updated: "2026-10-03T12:32:09-04:00"
+source_updated: "2026-10-23T08:03:41-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -47,11 +47,15 @@ Une méta-analyse de 42 études (56 tailles d'effet, 6 059 étudiants) a montré
 
 - **L'usage non réflexif érode la motivation — davantage chez les hommes.** L'usage irréfléchi de l'IA générative (accepter les réponses sans examen) prédisait une motivation plus faible (β = −0,54) et une [[self-efficacy|auto-efficacité]] plus faible (β = −0,37) chez 487 étudiants de premier cycle, et l'effet sur la motivation était significativement plus fort chez les étudiants de sexe masculin tandis que l'effet sur l'auto-efficacité était plus fort chez les étudiantes ([[genai-thoughtless-use-self-directed-learning-2026|Zhao & Gu, 2026]]).
 
+- **Réduire la frustration n'équivaut pas à soutenir la motivation.** Un [[rct|essai contrôlé randomisé]] à trois bras a montré qu'un tuteur étayé et ChatGPT sans restriction réduisaient la frustration à égalité (3,21 et 3,13 contre 4,09), mais seul le tuteur étayé élevait la motivation intrinsèque (2,82 contre 2,42, p < .001) ; ChatGPT ne le faisait pas (2,64, p = .076) ([[bassner-performance-learning-dissociation-ai-programming-2026|Bassner et al. (2026)]]).
+
 La raison pour laquelle un lecteur recourt à l'IA est elle-même une variable mesurable : l'échelle AIR identifie quatre mobiles de lecture assistée par IA générative — orientée vers la tâche, Feel-good, traduction et faible effort — et seul le faible effort, utiliser l'IA lorsqu'on est fatigué ou désengagé, était négativement lié au besoin de cognition (r = −.18) ([[air-scale-motivations-ai-reading-2026|Brann, Etgar et Sidi (2026)]]).
 
 **La motivation dans l'engagement médié par l'IA** examine comment la qualité motivationnelle (et pas seulement la quantité) change avec l'IA. **[[students-engagement-with-generative-ai-in-academic-learning-a-self-determination|Isaeva et al.]]** ont combiné la théorie de l'autodétermination avec l'[[network-analysis|analyse de réseaux épistémiques]] pour étudier l'engagement envers l'[[generative-ai|IA générative]]. **[[liang-ai-learning-motivation-sdt-2026|Liang et al. (2026)]]** ont retracé la motivation développementalement via une analyse latente de transition auprès de **2 086 élèves du [[k-12|secondaire]]** dans un programme d'IA d'un an, trouvant trois profils stables (Désengagé, En développement, Autodéterminé) et constatant qu'atteindre le profil Autodéterminé prédisait les plus grands gains de [[ai-literacy|littératie de l'IA]]. **[[wang-goal-setting-ai-engagement-2026|Wang & Wang (2026)]]** ont utilisé la théorie de la fixation de buts auprès de **758 apprenants d'anglais de l'[[higher-ed|université]]**, montrant que le **soutien des enseignants** pilote l'engagement assisté par l'IA principalement par le biais des buts de maîtrise-approche et de performance-approche (les orientations d'approche, non d'évitement). Ensemble, ces études montrent que la motivation dans les contextes d'IA est à la fois développementale et socialement étayée — elle évolue dans le temps et répond au soutien des enseignants et au cadrage des buts, et pas seulement à la conception de l'outil.
 
-L'orientation vers les buts oriente aussi l'usage de l'outil : les buts de maîtrise et de performance normative tendent à soutenir l'élaboration et l'affinement, tandis que les buts de performance d'apparence rendent plus probable la minimisation de l'effort et la protection de la compétence perçue — le même assistant étaye ou remplace donc la pensée selon le climat motivationnel ([[oby-chatgpt-use-learning-framework-2026|Øby, 2026]]).
+L'orientation vers les buts oriente aussi l'usage de l'outil : les buts de maîtrise et de performance normative tendent à soutenir l'élaboration et l'affinement, tandis que les buts de performance d'apparence rendent plus probable la minimisation de l'effort et la protection de la compétence perçue — le même assistant étaye ou remplace donc la pensée selon le climat motivationnel ([[oby-chatgpt-use-learning-framework-2026|Øby, 2026]]). La motivation de récompense peut émousser la portée de la rétroaction de l'IA : pour [[chatgpt-feedback-credibility-perceived-learning|Pérez-López et al. (2026)]], le lien entre crédibilité et apprentissage perçu s'affaiblissait à mesure que la sensibilité à la récompense fondée sur la note augmentait, avec des pentes simples de b = 0,733, 0,607 et 0,483 pour une sensibilité faible, moyenne et élevée.
+
+La [[educational-policy-ai|politique institutionnelle d'IA générative]] est elle-même un stresseur que les [[learners|apprenants]] évaluent : [[gai-advocacy-practice-art-education-2026|Chen (2026)]] a constaté que l'écart entre la promotion de l'IA générative par les universités et leur pratique réelle en classe élevait à la fois les évaluations de défi et d'entrave chez des étudiants chinois en art et en design, avec des effets indirects opposés sur l'engagement dans le processus [[creativity|créatif]], tandis que la pensée des voies possibles n'amplifiait que la voie du défi.
 
 Un format dialogué peut élever la motivation sans améliorer l'évaluation d'ensemble : chez 222 élèves de première année de lycée, le dialogue enseignant–enseignant a élevé la motivation ARCS davantage que le format enseignant–élève pour les apprenants riches en expérience concrète (b = 0,162, p < .001), tout en obtenant un score significativement plus faible sur l'évaluation d'ensemble (b = -0,126, p = .005) ([[tts-dialogue-lessons-learner-characteristics-2026|Watanabe et al. (2026)]]).
 
@@ -73,6 +77,8 @@ Une intervention de valeur d'utilité n'est pas uniformément bénéfique : une 
 
 **La littérature mesure la motivation sans théorie de celle-ci.** Une revue de cadrage portant sur 156 études de 2003 à 2025 a montré que 133 (85,3 %) n'étaient guidées par aucune théorie motivationnelle spécifique, que la variable la plus courante était une motivation académique généralisée (n = 89), et que 88 études (56,4 %) provenaient d'un même contexte national ([[ai-student-motivation-scoping-review-2026|Li et al., 2026]]).
 
+La motivation opère aussi en amont de la perception de la technologie, et pas seulement à côté d'elle. Dans un échantillon de 340 étudiants de physique, la valeur d'utilité prédisait l'utilité perçue (β = 0,43) et la valeur intrinsèque prédisait l'attitude (β = 0,20), tandis que le coût perçu abaissait la facilité d'usage (β = −0,16) et l'attitude (β = −0,27), sans voie directe vers l'intention ([[high-school-genai-acceptance-tam-physics-2026|Xue, Xu, Qi & Lu (2026)]]).
+
 ## Connexions avec les concepts liés
 
 La motivation est le construit parent de l'[[self-determination-theory|autodétermination]], qui spécifie les besoins psychologiques (autonomie, compétence, liens sociaux) qui soutiennent la motivation intrinsèque. Elle se relie à l'[[student-experience|expérience étudiante]] comme couche expérientielle de l'engagement motivé, à l'[[student-engagement|engagement des élèves]] comme sa dimension mesurable, et à l'[[affective-computing|informatique affective]] pour les mécanismes émotionnels qui façonnent la motivation. La motivation se relie aussi à la [[cognitive-offloading|sur-dépendance]] (l'IA réduisant les [[desirable-difficulties|difficultés productives]]), à l'[[self-regulated-learning|apprentissage autorégulé]] (les apprenants motivés s'autorégulent) et au [[teacher-role|rôle de l'enseignant]] (la motivation vaut pour les éducateurs comme pour les élèves).
@@ -93,8 +99,9 @@ La motivation est le construit parent de l'[[self-determination-theory|autodéte
 - [[framing-ai-use-for-students]]
 - [[social-emotional-learning]] — Apprentissage socio-émotionnel
 ## Articles liés
+- [[high-school-genai-acceptance-tam-physics-2026]] — Les croyances d'attente-valeur comme antécédents de l'acceptation de l'IA générative
 - [[liu-ai-assistance-reduces-persistence-2026]] — Un bref usage de l'IA a réduit la persistance sur des problèmes ultérieurs sans assistance (Liu et al. 2026)
-- [[jansen-argumentative-writing-feedback-receptivity-2026]] — Automated feedback on argumentative writing: The role of secondary students' feedback receptivity and feedback perception
+- [[jansen-argumentative-writing-feedback-receptivity-2026]] — Rétroaction automatisée sur l'écriture argumentative : le rôle de la réceptivité et de la perception de la rétroaction chez les élèves du secondaire
 - [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — Le paradoxe de l'effort et le cercle vicieux de l'assistance sans friction
 - [[cui-motivation-roles-metacognitive-genai-2026]] — Motivation et rôles dans l'engagement métacognitif avec l'IA générative
 - [[lee-wu-gender-motivation-genai-achievement-2026]] — Sexe, motivation et trajectoires de réussite avec l'IA générative
@@ -112,7 +119,7 @@ La motivation est le construit parent de l'[[self-determination-theory|autodéte
 - [[guillen-curriculum-genai-teacher-competence-2026]] — Assessing Teacher Digital Competence for GenAI Curriculum Design (Guillén-Gámez 2026)
 - [[motivation-shape-future-education-ai-switzerland-china]] — La motivation à façonner l'avenir de l'éducation avec l'IA
 - [[tts-dialogue-lessons-learner-characteristics-2026]] — Caractéristiques des apprenants × interactions avec le format dialogué en synthèse vocale
-- [[student-perceptions-ai-study-productivity-2026]] — Students' Perceptions of Artificial Intelligence Tools for Study Productivity and Learning: An Exploratory Survey Study
+- [[student-perceptions-ai-study-productivity-2026]] — Perceptions des étudiants à l'égard des outils d'intelligence artificielle pour la productivité d'étude et l'apprentissage : une enquête exploratoire
 - [[liang-ai-learning-motivation-sdt-2026]] — Analyse latente de transition selon la théorie de l'autodétermination sur la motivation des élèves à l'égard de l'apprentissage par IA (2 086 élèves du secondaire)
 - [[wang-goal-setting-ai-engagement-2026]] — Théorie de la fixation de buts : soutien des enseignants, buts de réussite et engagement dans l'apprentissage de l'anglais assisté par l'IA (758 étudiants chinois)
 - [[utility-value-intervention-teach-responsibly-genai-2026]] — Effets d'une intervention de valeur d'utilité dans l'apprentissage de l'enseignement responsable avec l'IA générative (Boos, Eder & Lachner 2026)
@@ -122,3 +129,5 @@ La motivation est le construit parent de l'[[self-determination-theory|autodéte
 
 - [[genai-learning-motivation-meta-analysis-2026]] — Méta-analyse à effets aléatoires de l'effet de l'IA générative sur la motivation à apprendre (56 tailles d'effet, 6 059 étudiants)
 - [[ai-student-motivation-scoping-review-2026]] — 156 études sur l'IA et la motivation des élèves : 85,3 % n'ont utilisé aucune théorie motivationnelle, et la couverture est étroite en construit, en niveau et en pays
+- [[gai-advocacy-practice-art-education-2026]] — Les écarts entre politique et pratique dans la promotion de l'IA générative agissent comme un stresseur que les étudiants évaluent
+- [[bassner-performance-learning-dissociation-ai-programming-2026]] — Un tuteur étayé a élevé la motivation intrinsèque là où ChatGPT sans restriction ne le faisait pas

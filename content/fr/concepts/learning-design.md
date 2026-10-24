@@ -1,7 +1,7 @@
 ---
 title: "Conception pédagogique"
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-10T03:30:24-04:00"
+updated: "2026-10-24T10:51:33-04:00"
 type: concept
 foundations: [ai-literacy, curriculum-design, educational-development, learning-design, teacher-role]
 pedagogy: [scaffolding]
@@ -10,14 +10,14 @@ audience: [instructors, faculty developers]
 level: [higher ed]
 connected_faqs: [top-10-findings-ai-education-instructors, incorporating-ai-literacy, designing-ai-into-learning, designing-educational-ai-software, asynchronous-online-courses-ai]
 confidence: high
-connected_resources: [claw-ed, education-agent-skills, edugems, id-toolbox, idstack, lesson-md, liascript, master-instructional-design, onmicro-ai, pedagogical-promptbook, playlab, vibes-diy]
+connected_resources: [claw-ed, education-agent-skills, edugems, id-toolbox, idstack, lesson-md, liascript, master-instructional-design, onmicro-ai, pedagogical-promptbook, playlab, vibes-diy, intelligent-textbooks]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
 translation_of: concepts/learning-design
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-24T09:56:38-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ---
@@ -45,6 +45,8 @@ Les analytiques de l'apprentissage et l'IA générative soutiennent différentes
 ### Thèmes de recherche clés
 
 **La création de contenus assistée par l'IA** est l'application la plus directement transformative. **[[curriculum-as-code-instructional-design-2026|Curriculum as Code]]** présente une architecture en six phases intégrant l'IA générative avec LaTeX et Python pour automatiser la création de matériels [[stem-education|STIM]], validée sur 8 modules et 28 contextes de projet avec des notes de qualité par les étudiants de 8.5-9.9/10. **[[instructional-agents-multi-agent-course-gen|Instructional Agents]]** emploie un cadre multi-agents structuré autour du modèle ADDIE, avec des agents fondés sur les rôles (Teaching Faculty, Instructional Designer, Course Coordinator) collaborant pour générer des matériels de cours complets. **[[courseblueprint-adaptive-video-generation|CourseBlueprint]]** fournit un pipeline structuré pour la [[pedagogy|pédagogie]] de [[video-education|génération de vidéos]] adaptatives ancrée dans des corpus de cours, démontrant que la structure pédagogique explicite — et pas seulement l'aisance avec l'IA — est essentielle pour la génération de contenus éducatifs. Les plateformes d'[[generative-ai|IA générative]] peuvent aussi incarner les principes de conception pédagogique dans les contenus qu'elles produisent : [[ai-modeling-problem-generation-platform-2026|une plateforme d'IA pour générer des problèmes de modélisation mathématique]] a combiné des principes de conception établis avec la [[prompt-engineering|génération augmentée par la recherche documentaire]], développée selon l'approche ADDIE pour produire des tâches et des recommandations pédagogiquement fondées dont les générateurs de contenus conventionnels sont dépourvus. Pourtant, le bénéfice d'une telle génération de contenus et de leçons assistée par l'IA est médiatisé par l'expertise propre de l'enseignant : [[choi-teacher-ai-interaction-lesson-design-2026|Choi et al. (2026)]] ont trouvé que les enseignants expérimentés adaptaient de manière critique les idées de leçons générées par l'IA aux étudiants et au contexte (en réinvitant et en élaborant sur la production), alors que les novices tendaient à accepter directement les suggestions de l'IA — si bien que la valeur pédagogique des outils de contenus d'IA dépend de l'expérience de l'enseignant et de sa compétence en IA, et non du seul outil. Une revue systématique de [[wang-teacher-ai-co-design-review-2026|la co-conception enseignant-IA de tâches d'apprentissage]] (Wang, Liu & Islam 2026) confirme ce schéma à l'échelle sur 28 études (2015–2025) : l'IA générative est employée principalement pour la planification de leçons, la génération d'invites et l'idéation créative, et le mode de collaboration dominant est l'IA comme assistant/générateur de contenus plutôt qu'un co-concepteur plus complet — l'efficience, la réactivité, la [[creativity|créativité]] et l'[[equity-in-ai-education|équité]] revenant comme affordances. [[talebzadeh-ai-group-activity-roles-2026|Talebzadeh (2026)]] affine le constat sur l'expertise enseignante pour la conception d'activités de groupe : les enseignants expérimentés produisent des architectures de rôles plus riches, plus synergiques et mieux alignées sur la ZPD dans les activités coopératives conçues par l'IA que les novices, quelle que soit leur familiarité avec l'IA, en formulant la « littératie en invites pédagogiques » comme le levier qui transforme la production de l'IA en [[collaborative-learning|apprentissage de groupe différencié]] efficace.
+
+L'essai Aila donne un chiffre de temps de planification à ce schéma. Les enseignants de ses écoles primaires randomisées consacraient 2,51 heures par semaine à préparer leurs leçons avec l'outil, contre 3,32 heures sans lui, et pourtant l'enseignant médian ne planifiait de zéro que 21 % à 40 % de ses leçons, cas que traite précisément un outil de planification à partir de zéro ([[roy-aila-lesson-planning-teacher-choices-2026|Roy et al., 2026]]).
 
 Là où les matériels générés pèchent, c'est l'adéquation au curriculum : sept enseignants de mathématiques ont noté les problèmes d'échec productif générés par l'IA proches de ceux conçus par des humains sur la qualité globale (M = 17.19 contre 17.43 sur 25) mais inférieurs sur l'alignement au curriculum (M = 2.57 contre 3.29), si bien que les problèmes générés exigeaient encore des retouches de longueur, de niveau de lecture et de visuels ([[rhaimi-productivemath-2025|Rhaimi et al. (2025)]]).
 
@@ -100,7 +102,7 @@ Fowlin et al. (2026) ajoutent un geste opérationnel pour décider où l'IA inte
 
 - [[interpreting-and-applying-aied-research]]
 - [[pedagogical-partnerships]] — Pedagogical Partnerships
-- [[online-teaching-and-learning]] — Online Teaching and Learning
+- [[online-teaching-and-learning]] — Enseignement et apprentissage en ligne
 - [[curriculum-design]]
 - [[scaffolding]]
 - [[educational-development]]
@@ -121,16 +123,17 @@ Fowlin et al. (2026) ajoutent un geste opérationnel pour décider où l'IA inte
 - [[learning-gains]]
 - [[behaviorism]]
 - [[educational-technology-developers]]
-- [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
-- [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
+- [[pedagogy]] — Parapluie : pédagogies et stratégies d'enseignement dans l'éducation à l'IA
+- [[stakeholders]] — Parapluie : personnes et publics de l'éducation à l'IA (apprenants, enseignants, concepteurs, administrateurs, décideurs)
 
 ## Articles liés
 
-- [[powerful-learning-with-emerging-technology-2025]] — Powerful Learning with Emerging Technology
-- [[claassen-learning-analytics-genai-learning-design-2026]] — LA and GenAI in learning design decision-making
-- [[tang-chatbots-learning-design-2026]] — Chatbot use in learning design: designers dwell on outcomes and pedagogy rather than content generation (Tang et al. 2026)
-- [[choi-teacher-ai-interaction-lesson-design-2026]] — Teacher-AI interaction patterns in lesson design across experience and AI proficiency (Choi et al. 2026)
-- [[long-ai-higher-ed-engagement-teaching-methods-2026]] — AI in higher ed: engagement + mediating role of teaching methods
+- [[roy-aila-lesson-planning-teacher-choices-2026]] — Une économie de temps de planification mesurée, accompagnée du constat que les enseignants ne planifient de zéro que 21 % à 40 % des leçons
+- [[powerful-learning-with-emerging-technology-2025]] — Un apprentissage puissant avec les technologies émergentes
+- [[claassen-learning-analytics-genai-learning-design-2026]] — Analytique de l'apprentissage et IA générative dans la prise de décision en conception pédagogique
+- [[tang-chatbots-learning-design-2026]] — Usage des agents conversationnels en conception pédagogique : les concepteurs s'attardent sur les résultats et la pédagogie plutôt que sur la génération de contenus (Tang et al. 2026)
+- [[choi-teacher-ai-interaction-lesson-design-2026]] — Schémas d'interaction enseignant-IA dans la conception de leçons selon l'expérience et l'aisance avec l'IA (Choi et al. 2026)
+- [[long-ai-higher-ed-engagement-teaching-methods-2026]] — L'IA dans l'enseignement supérieur : engagement et rôle médiateur des méthodes d'enseignement
 - [[curriculum-as-code-instructional-design-2026]]
 - [[dohn-boundary-object-classifying-genai-learning-activities-2026]] — Taxonomy (boundary object) for classifying GenAI learning activities
 - [[instructional-agents-multi-agent-course-gen]]
@@ -143,19 +146,19 @@ Fowlin et al. (2026) ajoutent un geste opérationnel pour décider où l'IA inte
 - [[ludia-udl-ai-thought-partner-2026]]
 - [[pchl-he-framework-genai-content-creation-2026]]
 - [[jeon-isd-agent-bench-2026]]
-- [[ai-web-agents-lesson-design-2025]] — AI Web Agents: autonomous web agent evaluates lesson designs and predicts student dropout before students engage (Wang, Mitchell & Piech 2025)
+- [[ai-web-agents-lesson-design-2025]] — Agents web d'IA : un agent web autonome évalue des conceptions de leçons et prédit le décrochage des étudiants avant qu'ils ne s'engagent (Wang, Mitchell & Piech 2025)
 - [[airis-cognitively-activated-ai-physics-2026]] — AIRIS: A Framework for Cognitively Activated AI Augmentation in Physics
 - [[wang-multi-agent-systems-learning-designers-2025]]
 - [[ai-tpack-teacher-multi-agent-workflow]]
-- [[halani-designing-for-reach-2026]] — Designing for Reach: Seven Levers and the Student Alone with AI
+- [[halani-designing-for-reach-2026]] — Concevoir pour la portée : sept leviers et l'étudiant seul avec l'IA
 - [[fowlin-operationalizing-learning-principles-ai]]
-- [[ai-video-dual-gatekeeping-2026]] — When Saying No Makes Better Videos: Dual Gatekeeping for Pedagogically Grounded AI Content Creation
+- [[ai-video-dual-gatekeeping-2026]] — Quand dire non produit de meilleures vidéos : double contrôle pour une création de contenus par IA pédagogiquement fondée
 - [[rhaimi-productivemath-2025]] — ProductiveMath: AI to Support Productive Failure Problem Design
-- [[kibar-ilgaz-ai-instructional-design-review-2026]] — AI and Instructional Design Practice: A Systematic Review (Kibar & Ilgaz 2026)
+- [[kibar-ilgaz-ai-instructional-design-review-2026]] — L'IA et la pratique de la conception pédagogique : une revue systématique (Kibar & Ilgaz 2026)
 - [[graph-its-adaptive-algorithms-2026]] — Graph-Based Intelligent Tutoring for Dynamic Domains (2026)
 - [[making-ai-annoying-constrained-writing-2026]] — Making AI annoying on purpose: constraint in AI-supported writing (Konradt, Boote & Taub 2026)
-- [[instructional-design-proficiency-masters-math-2026]] — Smart-classroom model and D-T-E loop improving M.Ed. instructional design proficiency in mathematics (Zhu et al. 2026)
+- [[instructional-design-proficiency-masters-math-2026]] — Modèle de classe intelligente et boucle D-T-E améliorant la maîtrise de la conception pédagogique des étudiants en M.Ed. en mathématiques (Zhu et al. 2026)
 - [[ai-modeling-problem-generation-platform-2026]] — AI-powered platform generating mathematical modeling problems (ADDIE, RAG)
-- [[wang-teacher-ai-co-design-review-2026]] — Teacher–AI co-design of learning tasks: trends and perspectives (Wang et al. 2026)
-- [[talebzadeh-ai-group-activity-roles-2026]] — Architecture of roles in AI-designed differentiated group activities (Talebzadeh 2026)
-- [[yasar-llms-iterative-pedagogical-design-2026]] — LLMs as agents of iterative pedagogical design
+- [[wang-teacher-ai-co-design-review-2026]] — Co-conception enseignant-IA de tâches d'apprentissage : tendances et perspectives (Wang et al. 2026)
+- [[talebzadeh-ai-group-activity-roles-2026]] — Architecture des rôles dans des activités de groupe différenciées conçues par l'IA (Talebzadeh 2026)
+- [[yasar-llms-iterative-pedagogical-design-2026]] — Les LLM comme agents de conception pédagogique itérative

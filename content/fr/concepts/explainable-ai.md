@@ -1,7 +1,7 @@
 ---
 title: "IA explicable"
 created: "2026-09-07T10:15:00-04:00"
-updated: "2026-10-10T03:41:06-04:00"
+updated: "2026-10-24T10:37:47-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [metacognition]
@@ -11,7 +11,7 @@ ethics: [bias-mitigation, trust-calibration, pedagogical-safety]
 audience: [learners, researchers, instructional designers, instructors]
 confidence: high
 translation_of: concepts/explainable-ai
-source_updated: "2026-09-30T14:23:52-04:00"
+source_updated: "2026-10-16T06:45:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -77,6 +77,8 @@ La qualité de l'explication a aussi une dimension d'équité : une explication 
 
 L'explication n'est pas toujours un facteur d'égalisation. Dans une expérience par vignettes 2 × 2 menée auprès de 250 élèves de septième, une justification écrite d'une note de mathématiques a augmenté l'acceptation et l'équité perçue dans les deux conditions, mais a élargi plutôt que réduit l'écart entre les décisions prises par un [[teacher-role|enseignant]] et celles prises par l'IA ([[decision-making-agent-student-decision-acceptance-2026|Zhang et coll. (2026)]]).
 
+Les citations fonctionnent comme un indice de crédibilité plutôt que comme une preuve d'exactitude : l'ajout de citations et de signaux d'autorité à une interface de débat a fait passer l'abandon d'un jugement correct au profit de la position de l'IA de 15.0% à 31.8%, et les cas cités étaient parfois mal attribués ou fictifs ([[tuo-armada-multi-agent-debate-overreliance-2026|Tuo et coll., 2026]]).
+
 Deux mises en garde aiguisent encore ce constat, que la contribution la plus récente du wiki sur le sujet place au centre. Premièrement, la machinerie d'explication n'est pas elle-même neutre : des méthodes a posteriori comme LIME et SHAP peuvent être infidèles au comportement réel du modèle, de sorte qu'une explication techniquement présente peut tromper plutôt qu'informer ([[lund-socially-accountable-data-science-xai-2026|Lund et coll. 2026]], s'appuyant sur Chuan et coll. 2024). Deuxièmement, **l'explication n'est pas la reddition de comptes**. Un exposé des variables qui ont piloté une prédiction ne révèle ni si ces variables étaient appropriées à l'usage, ni si les données d'entraînement étaient représentatives, ni si la conception du système traduisait un jugement solide ; les explications peuvent créer l'apparence de la transparence tout en laissant intactes les conditions structurelles qui ont produit une décision (Mittelstadt et coll. 2019). Pour l'éducation, cela signifie que la question à continuer de poser n'est pas de savoir si une explication a été produite, mais si la personne qui la reçoit — un étudiant, un enseignant, un conseiller — pouvait la comprendre, agir en conséquence, ou contester la décision qui la sous-tend. La même défaillance de lisibilité apparaît du côté de la sécurité de l'[[automated-assessment|évaluation automatisée]] : [[humble-prompt-injection-ai-grading-red-team-2026|le test d'intrusion mené par Humble (2026) sur un outil de notation par IA]] a montré que celui-ci désactivait silencieusement le dialogue après avoir bloqué une injection d'invite et — bien qu'il eût annoncé qu'il ne suivrait jamais les instructions embarquées — les suivait dans six exécutions supplémentaires sur le même fichier, ne laissant à l'utilisateur aucun signal fiable sur lequel fonder sa confiance.
 
 **L'explicabilité par la conception** est une réponse au problème de fidélité des méthodes a posteriori. [[li-explainable-trustworthy-llm-teacher-assessment-2025|Li, Yang et Fang (2025)]] paramètrent un décodeur d'explication par la même représentation fusionnée et la même note prédite qui décident de l'[[assessment|évaluation]], de sorte qu'une note faible sur un questionnement [[formative-assessment|formatif]] produit une justification nommant l'insuffisance des questions de sondage, et l'associent à une attention à double volet portant sur les références des programmes et sur les gestes propres à la grille disciplinaire. L'alignement de l'attention sur la grille atteint 78.0% contre 41.7% pour GPT-4 en zero-shot et 32.1% pour BERT, et la fidélité est sondée par suppression contrefactuelle des passages critiques pour la grille, parallèlement à des évaluations humaines sur une liste de contrôle ancrée dans la grille, ce qui donne un score de crédibilité de l'explication de 0.78 — une augmentation de 0.31 par rapport à BERT-base. L'audit montre aussi où l'affirmation architecturale s'amincit : sur les indices émotionnels, le modèle alloue 28.4% du poids d'attention contre 15.2% pour un expert (alignement 0.53), avec un cas d'échec attribuant 28% au token « frustrated », ce que les auteurs lisent comme un surajustement à l'affect plutôt qu'à la pédagogie, et qu'ils désignent comme un axe d'amélioration. Intégrer les explications dans le chemin de décision les rend plus fidèles que les justifications a posteriori ; cela ne les rend pas correctes.
@@ -109,25 +111,26 @@ Pour l'explicabilité spécifiquement, les travaux qui comptent sont ceux qui fo
 
 ## Articles liés
 
-- [[lund-socially-accountable-data-science-xai-2026]] — A four-pillar framework (answerability, responsibility, enforcement, reflexivity) for teaching XAI as accountability practice (Lund et al. 2026)
-- [[ko-hughes-vsd-student-centered-its-2026]] — Value-sensitive design of student-centered ITS (collaborative vs. raw explanations)
-- [[xai-education-framework]] — XAI-ED: the foundational framework for explainable AI in education (Khosravi et al. 2022)
-- [[xai-teachers-trust-edtech-recommendations-2026]] — Domain-specific explanations build teachers' trust and acceptance (Feldman-Maggor et al. 2025)
-- [[student-perspectives-ai-writing-grading-2026]] — Student perspectives on transparent AI-assisted assessment (AlGhamdi 2026)
-- [[huang-interpretable-knowledge-tracing-2026]] — Interpretable knowledge tracing
-- [[explainable-probabilistic-kt]] — Explainable knowledge tracing via probabilistic embeddings
-- [[neural-symbolic-knowledge-tracing]] — Neural-symbolic knowledge tracing
-- [[distilling-self-explaining-lm-learning-analytics-2026]] — Distilling black-box models into self-explaining LMs for learning analytics
-- [[villegas-ch-federated-explainable-learning-analytics-2026]] — Federated and explainable learning analytics for privacy-preserving risk modeling
-- [[sc2r-counterfactual-recourse-educational-2026]] — Semantics-constrained counterfactual recourse for educational decision support
-- [[fair-explainable-edu-recommendations]] — Fair and explainable educational recommendations
-- [[multimodal-affective-its-presentation]] — Interpretable closed-loop ITS for multimodal affective feedback
-- [[jacome-vasconez-chatgpt-adoption-xai-2026]] — Explaining ChatGPT adoption in higher education
-- [[li-explainable-trustworthy-llm-teacher-assessment-2025]] — Explainable-by-design LLM framework: dual-lens attention and score-parameterized explanations for automated teacher assessment (Li et al. 2025)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — Prompt injection in AI-mediated grading, where detection was never reported to the user (Humble 2026)
-- [[bloom-classifier-ai-assisted-questions-2026]] — Evaluation of pre-trained models for pedagogical assessment of novel AI-assisted educational questions
+- [[lund-socially-accountable-data-science-xai-2026]] — Un cadre à quatre piliers (réponse, responsabilité, application, réflexivité) pour enseigner l'XAI comme pratique de reddition de comptes (Lund et coll. 2026)
+- [[ko-hughes-vsd-student-centered-its-2026]] — Conception sensible aux valeurs d'un ITS centré sur l'étudiant (explications collaboratives ou brutes)
+- [[xai-education-framework]] — XAI-ED : le cadre fondateur de l'IA explicable en éducation (Khosravi et coll. 2022)
+- [[xai-teachers-trust-edtech-recommendations-2026]] — Des explications propres au domaine renforcent la confiance et l'acceptation des enseignants (Feldman-Maggor et coll. 2025)
+- [[student-perspectives-ai-writing-grading-2026]] — Perspectives des étudiants sur l'évaluation transparente assistée par l'IA (AlGhamdi 2026)
+- [[huang-interpretable-knowledge-tracing-2026]] — Traçage des connaissances interprétable
+- [[explainable-probabilistic-kt]] — Traçage des connaissances explicable par plongements probabilistes
+- [[neural-symbolic-knowledge-tracing]] — Traçage des connaissances neuro-symbolique
+- [[distilling-self-explaining-lm-learning-analytics-2026]] — Distiller des modèles boîtes noires en LM auto-explicatifs pour l'analytique de l'apprentissage
+- [[villegas-ch-federated-explainable-learning-analytics-2026]] — Analytique de l'apprentissage fédérée et explicable pour une modélisation des risques respectueuse de la vie privée
+- [[sc2r-counterfactual-recourse-educational-2026]] — Recours contrefactuel à sémantique contrainte pour l'aide à la décision éducative
+- [[fair-explainable-edu-recommendations]] — Recommandations éducatives équitables et explicables
+- [[multimodal-affective-its-presentation]] — ITS interprétable en boucle fermée pour une rétroaction affective multimodale
+- [[jacome-vasconez-chatgpt-adoption-xai-2026]] — Expliquer l'adoption de ChatGPT dans l'enseignement supérieur
+- [[li-explainable-trustworthy-llm-teacher-assessment-2025]] — Cadre LLM explicable par conception : attention à double volet et explications paramétrées par la note pour l'évaluation automatisée des enseignants (Li et coll. 2025)
+- [[humble-prompt-injection-ai-grading-red-team-2026]] — Injection d'invites dans la notation assistée par l'IA, où la détection n'a jamais été signalée à l'utilisateur (Humble 2026)
+- [[bloom-classifier-ai-assisted-questions-2026]] — Évaluation de modèles pré-entraînés pour l'évaluation pédagogique de nouvelles questions éducatives assistées par l'IA
 
-- [[decision-making-agent-student-decision-acceptance-2026]] — Teacher- versus AI-made grading decisions: a written rationale widened the fairness gap
+- [[decision-making-agent-student-decision-acceptance-2026]] — Décisions de notation prises par l'enseignant ou par l'IA : une justification écrite a élargi l'écart d'équité
+- [[tuo-armada-multi-agent-debate-overreliance-2026]] — Les citations et les signaux d'autorité ont accru la déférence envers une sortie incorrecte, certaines références étant mal attribuées ou fictives
 
 ## Citation
 

@@ -1,7 +1,7 @@
 ---
 title: Recherche qualitative
 created: "2026-08-24T02:00:00-04:00"
-updated: "2026-10-10T03:24:46-04:00"
+updated: "2026-10-24T10:37:28-04:00"
 type: concept
 research_method: [interviews, case study]
 confidence: high
@@ -103,19 +103,19 @@ Les méthodes qualitatives et quantitatives sont complémentaires, et non rivale
 ## Articles liés
 - [[chain-behind-claim-warrantability-2026]] — la norme de warrantability pour l'analyse qualitative assistée par l'IA
 - [[liu-tool-tutor-crutch-programming-2026]] — Tool, Tutor, or Crutch : une théorie ancrée de la programmation assistée par l'IA
-- [[trio-ethnography-llm-programming-education]] — A trio-ethnography of interpretation evolution in LLM-supported programming
+- [[trio-ethnography-llm-programming-education]] — Une trio-ethnographie de l'évolution de l'interprétation en programmation assistée par LLM
 - [[absent-cognitive-baseline-2026]] — Theorizing a structural gap in AI-native students' self-assessment
-- [[t2i-competence-paradox-2026]] — The competence paradox in text-to-image GenAI use
+- [[t2i-competence-paradox-2026]] — Le paradoxe de compétence dans l'usage de l'IA générative texte-image
 - [[fouad-bentley-trust-utility-gap-physics-2026]] — Trust–utility gap in physics education
-- [[genai-teacher-feedback-comparison]] — Comparing GenAI and teacher feedback: student perceptions
-- [[hazra-safetutors-pedagogical-safety-2026]] — AI tutor safety and pedagogical harms
-- [[zha-ai-literacy-biology-case-study]] — Case study of AI-literacy integration in a biology class
-- [[becker-chatgpt-typology-physics-2026]] — A qualitative typology of ChatGPT adoption in physics
+- [[genai-teacher-feedback-comparison]] — Comparer la rétroaction de l'IA générative et celle de l'enseignant : perceptions des étudiants
+- [[hazra-safetutors-pedagogical-safety-2026]] — Sécurité des tuteurs d'IA et préjudices pédagogiques
+- [[zha-ai-literacy-biology-case-study]] — Étude de cas d'une intégration de la littératie en IA dans un cours de biologie
+- [[becker-chatgpt-typology-physics-2026]] — Une typologie qualitative de l'adoption de ChatGPT en physique
 - [[scaffolding-critical-engagement-genai-minority-students]] — Collaborative discourse in prompt engineering among ethnic-minority students
-- [[human-vs-llm-ordered-coding]] — Comparing human and LLM ordered coding of qualitative data
-- [[agreement-not-quality-llm-coding-verification]] — Agreement is not quality in LLM qualitative coding
-- [[same-ai-different-pathways]] — Unpacking mechanisms of AI-mediated learning across contexts
-- [[drummond-genai-business-schools-framework-2026]] — Student-informed GenAI framework via case study
-- [[favero-critical-ai-tutors-empower-enslave-2025]] — Critical AI tutors: empower or enslave
-- [[genai-runaway-object-math-higher-ed]] — GenAI as a runaway object in higher-education mathematics
+- [[human-vs-llm-ordered-coding]] — Comparer le codage ordonné humain et par LLM de données qualitatives
+- [[agreement-not-quality-llm-coding-verification]] — L'accord n'est pas la qualité dans le codage qualitatif par LLM
+- [[same-ai-different-pathways]] — Démonter les mécanismes de l'apprentissage médié par l'IA selon les contextes
+- [[drummond-genai-business-schools-framework-2026]] — Un cadre d'IA générative informé par les étudiants par étude de cas
+- [[favero-critical-ai-tutors-empower-enslave-2025]] — Tuteurs critiques en IA : émanciper ou asservir
+- [[genai-runaway-object-math-higher-ed]] — L'IA générative comme objet emballé dans les mathématiques de l'enseignement supérieur
 - [[khlaif-assistive-genai-visually-impaired-2026]] — Assistive GenAI for visually impaired learners

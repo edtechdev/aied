@@ -1,7 +1,7 @@
 ---
 title: "Enseignement du droit"
 created: "2026-09-18T05:10:00-04:00"
-updated: "2026-10-10T04:00:01-04:00"
+updated: "2026-10-24T10:44:49-04:00"
 type: concept
 foundations: [academic-integrity, critical-thinking, reducing-ai-misuse]
 pedagogy: [career-development-and-readiness, experiential-learning, professional-training, socratic-method]
@@ -15,7 +15,7 @@ audience: [instructors, curriculum designers, administrators, researchers]
 page_kind: [synthesis]
 confidence: medium
 translation_of: concepts/legal-education
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-16T06:18:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -69,6 +69,8 @@ Trois choses font de l'enseignement du droit plus qu'un domaine disciplinaire de
 
 **La validité de l'évaluation est indissociable de la compétence professionnelle.** On craint que la [[cognitive-offloading|dépendance excessive]] pendant les études de droit ne laisse des diplômés mal préparés à un travail qui exige une analyse et une plaidoirie juridiques indépendantes, et qu'une notation récompensant la fluidité de la production ne puisse distinguer la compréhension d'un étudiant de celle d'un modèle. La question de la [[assessment-validity|validité]] n'est donc pas purement académique.
 
+Dans une expérience en contexte juridique, 186 décideurs profanes statuant sur des affaires civiles de tribunal se sont alignés bien moins souvent sur une position erronée de l'IA lorsque le système retenait sa propre position (5.7–8.2% contre 42.0–60.5%), sans pour autant construire de jugement mesurable : protecteur plutôt que correctif, et mesuré chez des décideurs profanes, non chez des étudiants en droit ([[tuo-armada-multi-agent-debate-overreliance-2026|Tuo et al., 2026]]).
+
 **Les normes de divulgation sont incertaines et ont des conséquences.** Gutowski et Hurley rapportent un désaccord sur le point de savoir si tout usage de l'IA doit être divulgué, des propositions de formulaires de divulgation par les étudiants, et l'absence de consensus sur les pratiques de citation, le Bluebook restant silencieux sur la citation de l'IA générative. Ils prévoient aussi que les exigences de divulgation finiront par paraître aussi futiles que mentionner qu'un étudiant a utilisé un moteur de recherche, ce qui est une prédiction sur la durée de vie des règles en train d'être écrites.
 
 **La déontologie professionnelle accompagne le diplômé.** Le devoir de compétence technologique de l'ABA et ses orientations sur la confidentialité, la supervision et la franchise envers le tribunal s'appliquent aux juristes en exercice qui utilisent ces outils, et les écoles de droit héritent de la charge de les enseigner. C'est pourquoi la discipline rejoint directement le travail de la base de connaissances sur l'[[ai-use-disclosure|divulgation des usages de l'IA]] et sur les [[legal-issues-and-risks|questions juridiques et les risques]] qui apparaissent lorsque les institutions gouvernent mal l'IA.
@@ -100,3 +102,4 @@ Trois choses font de l'enseignement du droit plus qu'un domaine disciplinaire de
 
 - [[gutowski-hurley-genai-policy-legal-education-2025]] — Comparaison à cinq facteurs des politiques d'IA générative des écoles de droit et cadre de gouvernance
 - [[llm-turing-test-italian-legal-exams-2026]] — Test de Turing en aveugle sur les examens italiens du barreau, de magistrature et de notaire, comparés à une correction par des experts
+- [[tuo-armada-multi-agent-debate-overreliance-2026]] — Retenir la position du système supprime la dépendance excessive dans les décisions en contexte juridique sans construire de jugement (décideurs profanes, non étudiants en droit)

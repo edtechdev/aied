@@ -1,8 +1,8 @@
 ---
-connected_resources: [liascript]
+connected_resources: [liascript, code-viva]
 title: "L'enseignement de l'informatique"
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-10T03:05:54-04:00"
+updated: "2026-10-24T10:38:23-04:00"
 type: concept
 foundations: [ai-literacy, computational-thinking]
 technology: [generative-ai, llm, prompt-engineering]
@@ -11,7 +11,7 @@ discipline: [stem education, cs education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/cs-education
-source_updated: "2026-10-14T14:35:00-04:00"
+source_updated: "2026-10-24T08:54:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -45,6 +45,7 @@ ai_assist:
 - **Génération et complétion de code :** la [[code-review-genai-cs1|revue de code en CS1]], [[dura-llm-cs2|DURA pour CS2]], et les [[prompt-problems-nl-programming-mistakes|erreurs de programmation en langage naturel]] examinent comment les étudiants utilisent l'IA pour générer du code et ce qu'ils en apprennent.
 - **Agents conversationnels pour les débutants ([[meta-analysis-systematic-review|revue de portée]]) :** [[conversational-agents-novice-programmers-scoping-2025|Barzanji & Loitsch (2025)]] cartographient 23 études (2019–juin 2024) portant sur des [[conversational-ai|agents conversationnels]] destinés aux programmeurs débutants, documentant un passage des chatbots à base de règles à des agents fondés sur les [[llm|LLM]] et la [[rag|RAG (génération augmentée par récupération)]] (avec une [[rag|génération augmentée par la recherche documentaire]] réduisant le [[hallucination-risk|risque d'hallucination]]) et à un soutien tutoriel personnalisé (par ex. InfoBot, ProbSol-Bot, Lint Bot, Profe Alex). Fait notable, seules 4 études sur 23 fondent leur conception sur des [[learning-theories|théories de l'apprentissage]], et 17 prototypes sur 23 sont uniquement en anglais alors que la plupart des recherches proviennent de pays non anglophones — ce qui signale un ancrage [[pedagogy|pédagogique]] faible et un déficit d'inclusivité pour la conception future d'agents conversationnels en programmation introductive.
 - **Soutien au débogage :** les [[debugtracker-classroom-debugging|outils de débogage]], la [[chat-debugging-human-ai-collaboration-circuits|collaboration humain-IA au débogage]], et la [[golrang-propact-pair-programming-2026|modélisation dyadique en programmation en binôme]] exploitent l'IA pour l'identification et la réparation des erreurs.
+- **Un déploiement de cours en direct a montré que la longueur de l'indice, et non le choix du modèle, constituait la variable actionnable.** Trois déploiements consécutifs dans un cours d'introduction au développement web (o3-mini, GPT-5-mini et GPT-5.5 sur 79 438, 83 374 et 10 420 soumissions journalisées) ont associé les indices à de meilleurs résultats immédiats dans plusieurs comparaisons. Les messages plus longs prédisaient une moins bonne correction à la soumission suivante, davantage de tentatives et une resoumission plus lente, et les étudiants ayant reçu des indices sur les étapes antérieures du projet résolvaient moins souvent l'étape finale, à 95,6 % contre 98,1 % ([[mihaylova-llm-feedback-live-programming-course-2026|Mihaylova et al., 2026]]).
 - **Un tuteur augmenté d'outils et résidant dans le navigateur est l'architecture vers laquelle le domaine converge.** Une conception de SLM augmenté d'outils associe un petit planificateur affiné (1B–7B) à quatre outils déterministes — exécuteur de code, lanceur de tests, récupérateur de documentation, module de [[knowledge-tracing|traçage des connaissances]] — derrière une politique d'escalade à quatre niveaux (outils d'abord, SLM sur l'appareil, LLM infonuagique avec consentement, enseignant), déplaçant le contrôle pédagogique du modèle vers la politique auditable ; un modèle de complétion préliminaire d'environ 150 M atteint 10,97 % de réussite HumanEval pass@1, au-dessus de plusieurs références de code de 100 M à 150 M ([[browser-sized-agents-slm-webllm-tutor-2026|Suvernev et al. (2026)]]).
 - **Un petit tuteur affiné peut mieux étayer qu'un modèle généraliste plus grand.** L'ajustement fin de Qwen2.5-Coder-7B-Instruct sur 1 213 dialogues tutoriels synthétiques a fait tomber la divulgation prématurée de la solution de 7,43 % à 1,88 % des tours du tuteur et a élevé la qualité de l'étayage pas-à-pas et des questions de débogage au-dessus de celle de GPT-4o, bien que la génération fiable de plans pédagogiques soit restée le problème ouvert ([[socraticrepair-program-debugging-2026|Kopytskyi et al. (2026)]]).
 - **Évaluation automatisée :** la [[automated-grading-linux-bash-examinations-large-language-models|notation de commandes Linux Bash]], [[llm-automated-grading-programming-comparison-2026|une comparaison de notation à 18 modèles à grande échelle]], et la [[llm-intervention-design-cs-review|revue des interventions par LLM]] évaluent l'évaluation automatisée du code. La sécurité de ce flux de travail est une question distincte : [[humble-prompt-injection-ai-grading-red-team-2026|Humble (2026)]] a soumis une tâche de notation par IA de routine à un exercice d'équipe rouge et a constaté que des instructions cachées dans un fichier soumis faisaient monter la note d'une dissertation initialement insuffisante, sans avertissement visible, dans 9 itérations sur 9 pour une stratégie et 17 sur 18 pour une autre — la preuve que la robustesse du correcteur appartient à la liste de contrôle de la [[assessment-validity|validité de l'évaluation]] au même titre que la précision.
@@ -160,6 +161,7 @@ L'enseignement de l'informatique se relie à la [[computational-thinking|pensée
 - [[assessment-validity]]
 
 ## Articles liés
+- [[mihaylova-llm-feedback-live-programming-course-2026]] — Trois déploiements, trois modèles, 173k soumissions : à quoi ressemblait le comportement des indices dans un cours réel
 - [[kumar-genai-computing-education-systematic-review-2026]] — Revue systématique de 72 études : des gains d'efficacité qui ne se transfèrent pas, et le cadre VIE
 - [[vibe-coding-writing-cs-achievement-2026]] — La réussite en informatique et les compétences rédactionnelles prédisent la compétence en vibe coding (CHI 2026)
 - [[tutortrace-learner-behavioral-states-2026]]
@@ -191,7 +193,6 @@ L'enseignement de l'informatique se relie à la [[computational-thinking|pensée
 - [[roboblockly-conversational-block-robotics-ct-2026]] — programmation par blocs incarnée avec RoboBlockly
 - [[edusim-llm-robotic-simulation-education-2026]] — pilotage de robots en langage naturel avec EduSim-LLM
 - [[llm-computational-thinking-physics-2026]] — soutien des LLM à la pensée computationnelle en physique
-- [[studychat-student-dialogues-chatgpt-ai-course-2026]] — Le jeu de données StudyChat des dialogues entre étudiants et LLM dans un cours d'IA
 - [[student-ai-inquiry-types-cs2-2026]] — Analyse des types de requêtes dans l'interaction étudiant-IA
 - [[chatgpt-qiskit-homework-autogradable-2026]] — ChatGPT résout les devoirs Qiskit ; conception notable automatiquement
 - [[llm-adaptive-programming-error-explanations-2026]] — Explications adaptatives par LLM des erreurs de programmation

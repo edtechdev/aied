@@ -1,7 +1,7 @@
 ---
 title: Échec productif
 created: "2026-08-23T08:25:00-04:00"
-updated: "2026-10-10T03:41:06-04:00"
+updated: "2026-10-24T10:45:40-04:00"
 type: concept
 foundations: [cognitive-offloading]
 pedagogy: [desirable-difficulties, inquiry-based-learning, learning-theories, metacognition, problem-based-learning, scaffolding]
@@ -9,7 +9,7 @@ technology: [generative-ai, learning-analytics]
 assessment: [feedback, learning-gains]
 confidence: high
 translation_of: concepts/productive-failure
-source_updated: "2026-09-30T16:25:27-04:00"
+source_updated: "2026-10-17T07:38:51-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -68,6 +68,7 @@ Un thème majeur des [[research-methods-aied|recherches]] de la base de connaiss
 
 - **Le risque : l'IA efface la lutte.** Une IA trop « utile », de type Oracle, qui fournit directement les réponses, peut éliminer la lutte productive nécessaire à la construction des schémas, créant ce que [[wang-safety-gap-productive-struggle-2026|Wang et Shan (2026)]] appellent le **Safety Gap** — la divergence entre la performance d'un étudiant assistée par l'IA et sa capacité interne, sans assistance. Cela rejoint la [[cognitive-offloading|décharge cognitive]] : une IA qui se substitue à l'effort érode les capacités mêmes que l'éducation construit.
 - **La réponse de conception : une IA qui étaye la lutte.** [[kim-ai-productive-failure-adult-2026|Kim et coll. (2026)]] déduisent cinq principes de conception pour une IA soutenant l'apprentissage fondé sur l'échec productif ([[human-ai-collaboration|collaboration humain-IA]], [[usability-research|utilisabilité]], conception réflexive, conception émotionnelle, connaissance ouverte), en soulignant que l'IA devrait préserver la lutte tout en offrant un soutien non directif. [[puech-pedagogical-steering-llm-productive-failure-2025|Puech et coll. (2025)]] montrent que des tuteurs [[llm|fondés sur les LLM]] peuvent être *pilotés* pour suivre la pédagogie de l'échec productif (retenir les solutions, susciter de multiples tentatives), au prix d'une utilité perçue moindre. CoMeT (Hou et coll. 2026) chiffre ce coût et situe le juste milieu : son tuteur à intervention croissante était de 0,42 point d'échelle plus frustrant que le tuteur qui répondait sur demande (p < 0,001) et de 0,29 moins frustrant que celui qui ne posait que des questions (p = 0,011), avec une détresse relevée dans 8,4% de ses séances contre 16,0% sous le tuteur qui retenait les réponses, et il rendait la réponse complète dans 6,1% des séances. Un seuil qui s'ouvre sur une déclaration explicite d'abandon plutôt que sur la frustration découle de la même conception — sans lui, les apprenants qui en ont le plus besoin contournent l'exigence.
+- **Retenir les réponses n'a coûté ni frustration ni motivation, seulement la préférence.** Un [[rct|essai contrôlé randomisé]] à trois bras a constaté qu'un tuteur retenant les indices égalait ChatGPT sans restriction sur la réduction de la frustration et était le seul bras à élever la motivation intrinsèque, pourtant les étudiants jugeaient l'outil qui donnait les réponses plus facile (p = 0,003) et plus utile (p = 0,004) ([[bassner-performance-learning-dissociation-ai-programming-2026|Bassner et coll. (2026)]]).
 - **L'IA comme outil de conception du PF :** [[rhaimi-productivemath-2025|ProductiveMath]] utilise l'[[generative-ai|IA générative]] pour aider les enseignants à créer des problèmes d'échec productif de haute qualité — répondant au défi que représente le caractère laborieux de la conception d'activités d'échec productif.
 - **Les erreurs générées par l'IA comme provocations :** la [[pedagogy-ai-mistakes|pédagogie des erreurs de l'IA]] exploite délibérément les erreurs de l'IA et les [[hallucination-risk|hallucinations]] comme outils [[teacher-role|d'enseignement]], en s'alignant sur la pensée de l'échec productif par le traitement de la production erronée comme provocation cognitive.
 
@@ -123,3 +124,4 @@ L'échec productif se relie aux [[learning-theories|théories de l'apprentissage
 - [[wang-safety-gap-productive-struggle-2026]] — Le Safety Gap : restaurer la lutte productive
 - [[lukesova-clue-before-correction-2026]] — Clue Before Correction : ChatGPT pour l'apprentissage autonome
 - [[pedagogy-ai-mistakes]] — La pédagogie des erreurs de l'IA
+- [[bassner-performance-learning-dissociation-ai-programming-2026]] — Retenir les solutions évitait le coût de la frustration mais perdait sur la préférence des étudiants

@@ -1,7 +1,7 @@
 ---
 title: Apprentissage par projets
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-10-10T03:41:06-04:00"
+updated: "2026-10-24T10:48:44-04:00"
 type: concept
 pedagogy: [active-learning, collaborative-learning, project-based-learning]
 technology: [educational-robotics]
@@ -81,7 +81,7 @@ Le PjBL se relie à l'[[active-learning|apprentissage actif]], à l'[[experienti
 - [[chen-pbl-pjbl-genai-meta-analysis-2026]] — L'apprentissage par problèmes et par projets comme cadres prometteurs pour l'éducation soutenue par l'IA générative : données émergentes d'une revue systématique et d'une méta-analyse à trois niveaux
 - [[pbl-structural-conditions-ai-2026]]
 - [[genai-counter-learner-groupthink-2025]]
-- [[bots-blocks-project-based-robotics-education-2026]] — Bots and Blocks
+- [[bots-blocks-project-based-robotics-education-2026]] — Bots et blocs : un cours de robotique par projets
 - [[game-based-gamified-robotics-education-review-2026]] — Enseignement de la robotique par le jeu et ludifié
 - [[genai-literacy-training-teacher-education-dbr-2026]] — Formation à la littératie en IA pour les enseignants
 - [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly Studio

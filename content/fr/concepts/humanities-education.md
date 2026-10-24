@@ -1,7 +1,7 @@
 ---
 title: "Lettres et sciences humaines"
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-10-10T03:41:06-04:00"
+updated: "2026-10-24T10:37:31-04:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, history-of-aied, philosophy-of-ai-in-education]
 level: [higher ed]
@@ -70,8 +70,8 @@ L'enseignement des SSH met au premier plan les capacités mêmes que l'IA géné
 
 ## Articles liés
 
-- [[voicu-ai-interpretive-cognition-ssh-2026]] — A developmental-critical model of interpretive cognition for SSH education
-- [[paternalistic-filter-llm-history-education]] — LLM use and historical reasoning in history education
-- [[genai-impact-chinese-students-hss]] — GenAI's impact on humanities and social science students
-- [[acceptance-ai-english-tools-2026]] — AI acceptance among language and humanities learners
-- [[villanueva-ai-vulnerability-assessment-audit-2026]] — Computational audit of 15,587 Go8 Arts and Humanities units: 58.6% of 2026 assessment items highly AI-exposed, concentrated in essays and reports
+- [[voicu-ai-interpretive-cognition-ssh-2026]] — Un modèle développemental-critique de la cognition interprétative pour l'enseignement en sciences humaines et sociales
+- [[paternalistic-filter-llm-history-education]] — Usage des LLM et raisonnement historique en enseignement de l'histoire
+- [[genai-impact-chinese-students-hss]] — L'effet de l'IA générative sur les étudiants en sciences humaines et sociales
+- [[acceptance-ai-english-tools-2026]] — Acceptation de l'IA chez les apprenants en langues et en sciences humaines
+- [[villanueva-ai-vulnerability-assessment-audit-2026]] — Audit computationnel de 15,587 unités d'arts et de sciences humaines du Go8 : 58.6% des items d'évaluation de 2026 fortement exposés à l'IA, concentrés dans les dissertations et les rapports

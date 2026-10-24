@@ -2,7 +2,7 @@
 connected_resources: [clarity, writing-rhetoric-studies-in-the-loop]
 title: "L'écriture"
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-10T03:05:54-04:00"
+updated: "2026-10-24T10:43:38-04:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading]
 pedagogy: [metacognition]
@@ -12,7 +12,7 @@ level: [higher ed]
 connected_faqs: [writing-instruction-ai-best-practices, developing-ai-tutor]
 confidence: high
 translation_of: concepts/writing-education
-source_updated: "2026-10-06T02:05:50-04:00"
+source_updated: "2026-10-24T08:07:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -43,11 +43,14 @@ ai_assist:
 
 - **La notation automatisée de productions écrites :** des systèmes d'[[automated-essay-scoring|évaluation automatisée de l'écriture]] comme la [[choi-anchor-aes-prompting-2025|notation AES fondée sur des ancres]] et [[aiawe-automated-writing-evaluation|AIAWE]] évaluent les écrits d'étudiants à grande échelle, soulevant des questions de [[assessment-validity|validité de construit]] et de réduction de l'écriture à des caractéristiques mesurables. Pour des textes argumentatifs courts (environ 150–200 mots) en espagnol, l'accord de la notation par l'IA varie fortement selon la dimension du barème ([[human-in-the-loop-ai-scoring-national-assessment-2026|Curi et al., 2026]]) : les items orientés vers la structure et le registre — introduction, conclusion, registre, accord nominal, accord sujet-verbe — ont atteint un accord modéré corrigé du hasard avec les évaluateurs humains dans l'édition 2025, tandis que les items linguistiques au niveau micro (vocabulaire, syntaxe, ponctuation, connecteurs, argumentation) sont restés dans la fourchette allant de passable à faible. Cela suggère que l'assistance par LLM se défend surtout pour les traits discursifs macro, et que les conventions linguistiques de bas niveau devraient conserver une chaîne d'outils déterministe ou une [[human-in-the-loop-ai|revue humaine]].
 
+- **Un biais dépendant de la qualité.** Les correcteurs GPT et Llama employés tels quels s'accordaient faiblement avec les évaluateurs humains (QWK 0,17–0,28 contre 0,72 entre deux humains), surévaluant les dissertations courtes et peu développées et sous-évaluant les plus longues et les meilleures pour des erreurs de surface mineures ([[llms-do-not-grade-essays-like-humans-2026|Mathew et al. (2026)]]).
+
 - **Noter plus d'échantillons, pas des modèles plus gros.** Dans une étude de dépistage universel menée du CM1 à la 6e (Grades 3–6), les scores obtenus par jugement comparatif de LLM ont convergé avec les barèmes des chercheurs (r = .59–.73), et la moyenne des trois vagues de dépistage a élevé la validité critériée (β = .68–.74 pour l'échelle ELA, AUC = .82–.86 pour la maîtrise), tandis qu'une plus grande capacité ou un coût de modèle plus élevé n'apportait que peu ([[llm-comparative-judgment-writing-screening-2026|Mercer & Reed (2026)]]).
 
 L'accord est une propriété du corpus, non du correcteur : [[automated-scoring-marketing-posts-agreement-2026|Li (2026)]] a noté 60 publications marketing d'étudiants avec des règles déterministes, un [[llm|LLM]] et un hybride à pondération égale — le LLM arrivait en tête à ICC(2,1) = .435 tandis que le .266 de l'hybride conservait le biais négatif des règles — et l'ajout de 15 ancres de faible qualité portait le LLM à .846.
 
 - **La rétroaction sur l'écriture :** les recherches sur la [[ai-feedback-quality|qualité de la rétroaction produite par l'IA]] ([[genai-teacher-feedback-comparison|IA générative contre rétroaction de l'enseignant]], [[care-full-feedback-genai|rétroaction « care-full »]], [[repeated-ai-writing-feedback-semester|rétroaction répétée de l'IA]]) examinent si la rétroaction de l'IA améliore l'écriture et comment elle se compare à la rétroaction humaine. Le modèle PAIRR ([[pairr-ai-peer-review-2025|évaluation par les pairs et par l'IA + réflexion]]) associe l'IA à l'[[peer-assessment|évaluation par les pairs]] et conclut que la rétroaction de l'IA est surtout utile au sein d'un processus centré sur l'humain. Une quasi-expérience de huit semaines menée auprès de 61 rédacteurs chinois en L2 ([[teacher-vs-ai-peer-feedback-l2-writing-2026|Tang et al., 2026]]) donne une forme concrète à cette affirmation : la rétroaction de l'enseignant a livré bien plus d'items (316 contre 185 lors de la première tâche) et s'est réorientée vers l'organisation et l'argumentation, mais son avantage après révision s'est effrité de 4,06 à 2,73 points dès qu'une seconde tâche exigeait un changement structurel, tandis que la [[peer-assessment|rétroaction par les pairs assistée par l'IA]] conservait un ciblage plus étroit et plus stable et prenait légèrement l'avantage (3,89 points, avec une moyenne de révision de 89,82 à la tâche 2 contre 88,35 pour le contrôle — une faible différence qui n'a pas atteint la signification). Aucun des deux modes n'a fait évoluer la complexité syntaxique, si bien que les auteurs plaident pour une division du travail hybride « IA-Pairs-Enseignant » : l'IA pour le marquage des erreurs et l'orientation du contenu, les pairs pour la négociation des révisions, les enseignants pour la syntaxe complexe et l'argumentation.
+- **Associer l'IA à la rétroaction par les pairs accroît l'engagement et les scores d'écriture.** Dans un cours chinois d'EFL de 10 semaines, l'ajout d'une rétroaction de ChatGPT avant la révision par les pairs a élevé l'engagement comportemental, affectif et cognitif (η² partiel de 0,28 à 0,32) et amélioré les quatre dimensions de l'écriture IELTS, surtout la [[learning-gains|réussite]] de la tâche (d = 1,41) et la ressource lexicale (d = 1,28) ([[ai-peer-feedback-l2-writing-engagement-2026|Liu (2026)]]).
 
 - **La rétroaction de l'IA ne s'adapte pas aux étapes de l'écriture comme le fait l'enseignant.** [[llm-feedback-focus-adaptivity-student-writing-2026|Almousa et al. (2026)]] ont constaté que l'enseignant variait significativement sur cinq types de focalisation de la rétroaction entre les étapes du brouillon — les louanges passant de 26,9 % au départ à 84,9 % dans les versions finales — tandis que le modèle le plus proche variait sur trois types et le plus petit sur aucun, et qu'aucun modèle ne reproduisait la différenciation par l'enseignant des étudiants les plus et les moins performants.
 
@@ -65,11 +68,14 @@ L'accord est une propriété du corpus, non du correcteur : [[automated-scoring-
 
 - **Les politiques divergent d'un site à l'autre.** Interrogeant 20 étudiants de premier cycle, Kim et ses collègues identifient cinq sites distincts de la politique sur l'IA — l'intention de l'enseignant, la politique formelle, l'interprétation de l'étudiant, l'auto-politique et la pratique — et répertorient 23 rationalisations, pour la plupart ad hoc et a posteriori, expliquant pourquoi les règles d'un site façonnent rarement le comportement dans un autre ([[student-rationalization-ai-writing|Kim et al., 2026]]).
 
+- **La notation est le point où le guidage s'arrête.** Lors d'entretiens avec 24 professeurs d'écriture universitaires de Chine continentale, de Hong Kong, de Macao et de Singapour, six ont déclaré n'avoir aucune règle institutionnelle sur la possibilité même de noter les travaux des étudiants avec l'IA, et la conséquence était que des collègues qui refusent par principe siégeaient à côté de collègues qui le font déjà ([[wu-lam-genai-writing-assessment-professors-2026|Wu et Lam (2026)]]).
 - **La conformité peut masquer une absence d'investigation intellectuelle (effacement académique).** À partir de 49 récits d'enseignants, [[academic-erasure-complexity-ai-writing-2026|Nwagboso & Atuba (2026)]] nomment *academic erasure* — une fluidité qui satisfait tous les critères de surface tout en contournant le travail épistémique de l'argumentation — et en attribuent le moteur à la culture d'évaluation, où les barèmes récompensant le poli font de l'usage de l'IA une réponse rationnelle plutôt qu'une faute.
 
 ### L'écriture comme pensée
 
 Parce qu'écrire est un processus cognitif, les recherches sur l'IA et l'écriture se relient au [[cognitive-offloading|délaissement cognitif]] (le soutien à l'écriture par l'IA contourne-t-il la pensée ?), à la [[metacognition|métacognition]] (la rétroaction de l'IA améliore-t-elle l'[[self-assessment|auto-évaluation]] ?), à l'[[self-regulated-learning|apprentissage autorégulé]] (les étudiants régulent-ils leur usage de la rétroaction de l'IA ?), et à l'[[ai-literacy|littératie en IA]] (les étudiants peuvent-ils évaluer de façon critique un texte produit par l'IA ?). Les recherches sur l'[[critical-thinking-genai-scaffolding|étayage de la pensée critique]] et sur l'[[ai-feedback-critical-thinking-writing-2026|IA comme rétroaction pour la pensée critique]] montrent que la valeur [[pedagogy|pédagogique]] de l'IA dans l'écriture dépend de ce qu'elle suscite la réflexion et le jugement plutôt que le remplacement des réponses.
+
+Dans une tâche de synthèse, la part du texte réellement écrite par l'apprenant suivait le volume d'invites : 80 % du texte dans le groupe à sollicitation minimale, contre 2 % dans le groupe le plus sollicitant, tandis que la densité de connecteurs corrélait négativement avec les connaissances antérieures plutôt qu'avec le nombre d'invites (r = -0,30, p = 0,007 ; [[cognitive-offloading-llm-synthesis-writing|Poquet et al., 2026]]).
 
 Une validation en deux vagues menée auprès d'apprenants chinois d'EFL (AEF N = 305 ; AFC N = 342) distingue six dimensions régulatrices et ajoute la *régulation environnementale* — vérifier le contenu généré, filtrer les ressources proposées et limiter la dépendance — une facette que les échelles existantes sur l'écriture en L2 ne comportaient pas ([[genai-srl-l2-writing-scale-2026|Wang, Zhang et Zhang (2026)]]).
 
@@ -95,6 +101,8 @@ Parce que l'écriture n'a pas de réponse unique correcte, les outils d'écritur
 
 Deux synthèses récentes nuancent la mesure dans laquelle ces recommandations de conception sont suivies dans la pratique. Une revue de 23 études empiriques de personnalisation ([[customizing-ai-writing-pedagogy-systematic-review-2026|Luo, 2026]]) constate que, bien que les objectifs se soient déplacés vers les processus d'écriture et les compétences d'ordre supérieur, la voie technique dominante reste l'[[prompt-engineering|ingénierie des invites]] (13 études sur 23) visant à optimiser la qualité de la production, avec les [[learning-theories|théories de l'apprentissage]] confinées à l'interface, si bien que le système se comporte comme « largement agnostique à la théorie » — un décalage qui aide à expliquer la [[cognitive-offloading|dépendance excessive]] et la révision superficielle que ces mêmes études rapportent. Son recadrage consiste à traiter la personnalisation comme une architecture plutôt qu'une formulation : séquencer les étapes, retenir les réponses et intégrer des boucles de révision. Un flux de travail structuré en cinq parties, testé sur 11 semaines auprès de 53 étudiants saoudiens d'EFL de premier cycle ([[human-ai-collaboration-academic-writing-2026|Alshehri et al., 2026]]), montre l'alternative en pratique — les étudiants cadrent les problèmes et conçoivent les invites, rédigent, révisent, vérifient les affirmations et les citations contre des bases de données savantes, et régulent leur propre dépendance, en consignant ce qu'ils acceptent ou rejettent et pourquoi. La compétence rédactionnelle et la [[critical-thinking|pensée critique]] numérique ont progressé ensemble dans cette condition (15,23 contre 11,91 et 89,84 contre 56,18 au post-test) tandis que le contrôle sans IA bougeait à peine, bien que le résultat, mono-site et partiellement fondé sur des [[self-report-measures|données auto-déclarées]], constitue une borne supérieure préliminaire plutôt qu'un effet établi.
 
+Un examen de portée portant sur 51 études de rétroaction par IA générative en langue seconde a constaté que les mesures de qualité de l'écriture étaient souvent sans rapport avec la rétroaction que le modèle avait été chargé de produire, et que l'association de l'IA à la rétroaction de l'enseignant surpassait l'une ou l'autre source employée seule ([[genai-l2-written-feedback-scoping-review-2026|Crosthwaite & Sun (2026)]]). Le même corpus est très majoritairement anglophone, avec 46 études sur 51, le chinois et l'arabe étant les premières langues d'apprentissage dominantes.
+
 Cette posture « accompagner plutôt que rédiger » est l'expression, dans le domaine de l'écriture, de la frontière générale que la base de connaissances énonce comme « [[coach-not-crutch-ai-writing|un coach plutôt qu'une béquille]] » : identifier l'activité cognitive qui produit l'apprentissage (planifier, rédiger, évaluer, réviser) et concevoir l'IA pour la soutenir sans la retirer à l'apprenant.
 
 ### Connexions
@@ -105,6 +113,7 @@ L'enseignement de l'écriture se relie à l'[[automated-essay-scoring|évaluatio
 
 - **Présenter l'IA comme un complément, et non un remplacement, du processus d'écriture.** Les recherches de la base de connaissances traitent systématiquement l'IA comme un étayage pour la rédaction, la révision et la rétroaction, tout en protégeant le travail cognitif et le public humain qui font de l'écriture une activité d'apprentissage — [[coach-not-crutch-ai-writing|un coach plutôt qu'une béquille]].
 - **Utiliser la rétroaction de l'IA au sein d'un processus centré sur l'humain.** [[pairr-ai-peer-review-2025|PAIRR]] conclut que la rétroaction de l'IA est surtout utile combinée à l'évaluation par les pairs et à la réflexion ; concevez des boucles de rétroaction qui gardent l'enseignant et le public des pairs au centre.
+- **Les étudiants veulent l'humain là où l'enjeu est élevé.** [[when-students-prefer-ai-scoring-feedback-2026|Yildirim-Erbasli et al. (2026)]] ont constaté que 81,7 pour cent de 93 étudiants de premier cycle préféraient une notation humaine pour une dissertation finale valant 40 pour cent de la note, faisaient confiance à l'IA pour la grammaire et la mécanique mais pas pour l'écriture [[creativity|créative]], et souhaitaient que la notation par l'IA soit revue par un humain.
 - **Auditer la rétroaction automatisée pour y déceler des biais.** [[marked-pedagogies-linguistic-bias-writing-feedback|Marked Pedagogies]] montre que la rétroaction des LLM s'infléchit de manière conforme aux stéréotypes lorsqu'elle est personnalisée par des attributs d'étudiants — surveillez les biais positifs et de rétention, et dites explicitement que la personnalisation peut être un vecteur de biais.
 - **Protéger le travail cognitif de l'écriture.** Surveillez la [[cognitive-offloading|dépendance excessive]] qui contourne la planification, la révision et l'auto-évaluation ; utilisez l'IA à des étapes choisies ([[ai-writing-support-stage-ownership-2026|appropriation selon les étapes]]) pour protéger l'autonomie de l'étudiant.
 
@@ -137,11 +146,13 @@ L'enseignement de l'écriture se relie à l'[[automated-essay-scoring|évaluatio
 - [[agency]]
 
 ## Articles liés
+
+- [[wu-lam-genai-writing-assessment-professors-2026]] — 24 professeurs d'écriture sur la notation avec l'IA : bénéfices pour la rétroaction, dérive des scores, aucune règle institutionnelle
+- [[genai-l2-written-feedback-scoping-review-2026]] — Revue de portée de 51 études : angles morts sur la transparence des invites et pourquoi l'IA avec l'enseignant bat chacun seul
 - [[nash-preservice-teachers-classroom-ai-policies-2026]] — Politiques d'IA en classe des enseignants en formation initiale : tensions et enchevêtrements
 - [[human-in-the-loop-ai-scoring-national-assessment-2026]] — Un cadre d'intervention humaine pour la notation assistée par IA dans l'évaluation de l'écriture à grande échelle
 - [[llm-comparative-judgment-writing-screening-2026]] — Validité du jugement comparatif par grands modèles de langue pour le dépistage universel en écriture
 - [[layer-sensitive-cognitive-offloading-writing-2026]] — Délaissement cognitif sensible aux couches dans l'écriture assistée par IA générative (Chen 2026)
-- [[your-brain-on-chatgpt-cognitive-debt-essay-writing]]
 - [[coach-not-crutch-ai-writing]] — Les outils d'écriture IA peuvent améliorer la compétence rédactionnelle tout en réduisant l'effort (Lira et al. 2025)
 - [[llms-do-not-grade-essays-like-humans-2026]] — Les LLM ne notent pas les dissertations comme les humains (Mathew et al. 2026)
 - [[pairr-ai-peer-review-2025]] — Évaluation par les pairs et par l'IA + réflexion (PAIRR)
@@ -156,12 +167,10 @@ L'enseignement de l'écriture se relie à l'[[automated-essay-scoring|évaluatio
 - [[self-referential-l2-writing-llm-assessment]] — Évaluation autoréférentielle de l'écriture en L2
 - [[becerra-aicofe-feedback-2026]] — Systèmes de rétroaction par les pairs fondés sur l'IA
 - [[repeated-ai-writing-feedback-semester]] — Évaluation par les étudiants d'une rétroaction répétée de l'IA
-- [[veriforge-narrative-drafting-scaffolding-2026]] — VeriForge : étayage de la rédaction narrative
 - [[ai-feedback-critical-thinking-writing-2026]] — Utiliser la rétroaction générée par l'IA pour améliorer la pensée critique
 - [[marked-pedagogies-linguistic-bias-writing-feedback]] — Marked Pedagogies : biais linguistiques dans la rétroaction personnalisée automatisée sur l'écriture
 - [[bassett-ai-detectors-education-2026]] — Pile je gagne, face tu perds : les détecteurs d'IA dans l'éducation (Bassett et al. 2026)
 - [[academic-erasure-complexity-ai-writing-2026]] — Effacement académique : la disparition de la complexité sous l'écriture assistée par IA
-- [[making-ai-annoying-constrained-writing-2026]] — Rendre l'IA agaçante exprès : la contrainte dans l'écriture assistée par IA (Konradt, Boote & Taub 2026)
 - [[lu-ai-multimodal-writing-critical-thinking-2026]] — Composition multimodale assistée par IA et pensée critique dans l'écriture au primaire (Lu et al. 2027)
 - [[student-genai-use-views-writing]] — Usage de l'IA générative par les étudiants et points de vue sur l'écriture (Kuznetsov, Sheely & Baker 2026)
 - [[genai-writing-program-primary-l2-motivation-engagement]] — Un programme d'écriture assisté par IA générative pour la motivation, l'engagement et la performance en L2 au primaire (Lu et al. 2026)
@@ -175,3 +184,5 @@ L'enseignement de l'écriture se relie à l'[[automated-essay-scoring|évaluatio
 - [[zhao-ji-appraisal-human-ai-revisions-2026]] — Les révisions humaines et les révisions par l'IA d'un même brouillon adoptent des postures dialogiques différentes : la rétroaction par les pairs referme l'espace dialogique, la révision par l'IA le garde équilibré (Zhao & Ji 2026)
 - [[engage-to-unlock-productive-friction-genai-2026]] — Engage-to-Unlock : conditionner la sortie de l'IA à un engagement préalable a redistribué l'effort vers l'écriture sans coûter de temps ni de précision (N = 398)
 - [[genai-srl-l2-writing-scale-2026]] — Une échelle d'apprentissage autorégulé assisté par IA générative à six dimensions pour l'écriture en L2, avec la régulation environnementale (gouvernance des outils) comme dimension distincte
+- [[ai-peer-feedback-l2-writing-engagement-2026]] — Associer l'IA à la rétroaction par les pairs accroît l'engagement et les scores d'écriture
+- [[when-students-prefer-ai-scoring-feedback-2026]] — Les étudiants veulent l'humain là où l'enjeu est élevé

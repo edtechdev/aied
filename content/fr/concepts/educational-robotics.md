@@ -1,7 +1,7 @@
 ---
 title: "Les robots en éducation"
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-10-10T03:24:44-04:00"
+updated: "2026-10-24T10:38:02-04:00"
 type: concept
 foundations: [computational-thinking]
 pedagogy: [embodied-learning]
@@ -11,7 +11,7 @@ discipline: [stem education, cs education]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/educational-robotics
-source_updated: "2026-10-01T09:59:02-04:00"
+source_updated: "2026-10-21T10:45:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -62,6 +62,7 @@ L'**interaction humain-robot (IHR)** est l'étude interdisciplinaire de la mani�
 - **La programmation tangible et les robots sociaux dans la [[ai-literacy|littératie en IA]] de la maternelle.** Lee (2026) intègre le jeu débranché, la programmation tangible (Bee-Bot, Ozobot) et le dialogue guidé avec un robot social doté d'IA dans le programme Play With AI (PL-AI) destiné à la maternelle et au jardin d'enfants. La [[design-based-research|recherche fondée sur la conception]] documente la manière dont ces activités de robotique incarnées et tangibles soutiennent le raisonnement émergent des enfants sur les concepts d'IA, avec quatre principes de conception — jeu incarné, programmation tangible, dialogue guidé et co-conception avec l'enseignant — offrant un modèle adapté au développement pour la robotique et l'éducation à l'IA à l'[[early-childhood-elementary-ai-education|éducation de la petite enfance]].
 - **Deux paradigmes pour les jeunes apprenants : les robots de programmation et les robots sociaux génératifs.** [[creative-project-approach-ai-early-childhood-2025|Yang, Li et Lee (2025)]] cadrent la robotique de la petite enfance comme l'appariement de deux paradigmes [[pedagogy|pédagogiques]], dotés chacun d'une base théorique distincte. Les **robots de programmation** (Bee-Bot, KIBO, Matatalab) descendent du LOGO de Papert et incarnent le [[constructivist|constructionnisme]] — les enfants apprennent en fabriquant et construisent la [[computational-thinking|pensée informatique]] par la programmation tangible. Les **robots sociaux génératifs**, alimentés par l'[[generative-ai|IA générative]], sont ancrés dans le [[sociocultural-learning|constructivisme social]] : ils agissent comme des pairs ou des tuteurs conversationnels qui [[scaffolding|étayent]] l'apprentissage au sein de la zone proximale de développement de l'enfant et soutiennent le développement socioémotionnel. Leur **Creative Project Approach** en cinq étapes, pour intégrer les deux types de robots à la Project Approach, maintient les enseignants dans un rôle de facilitateurs qui guident l'interaction enfant-robot, équilibrent l'automatisation et la [[creativity|créativité]], et préservent l'[[agency]] de l'enfant.
 - **Ce que la robotique de pensée informatique à la maternelle fait réellement.** Une revue systématique de 53 études a montré que l'apprentissage par problèmes, la narration et l'étayage étaient les stratégies les plus fréquemment employées, la plupart des études ne nommant aucun cadre de pensée informatique et utilisant des outils d'évaluation ad hoc plutôt qu'un instrument validé tel que TechCheck-K ([[tsingidou-ct-robotics-kindergarten-2026|Tsingidou & Sapounidis (2026)]]).
+- **La planification par LLM plutôt que la conversation.** [[vlm-task-planning-humanoid-robot-autism-education-2026|Kudláčková (2026)]] emploie un modèle vision-langage pour convertir des photographies de Shoebox Tasks, des activités visuellement structurées employées auprès d'apprenants du spectre de l'autisme, en un problème PDDL qu'un humanoïde Nao exécute ou démontre, l'exactitude du plan étant notée sur six tâches plutôt que sur un résultat d'apprentissage.
 
 ### Incarnation et pédagogie
 
@@ -113,7 +114,7 @@ Un thème définitoire est que les robots sont efficaces lorsqu'ils soutiennent 
 - [[social-robot-study-companions]] — Les robots sociaux comme compagnons d'étude
 - [[enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen]] — L'intégration robot-LLM en écriture créative
 - [[game-based-gamified-robotics-education-review-2026]] — L'apprentissage par le jeu et la gamification en robotique éducative
-- [[bots-blocks-project-based-robotics-education-2026]] — Bots and Blocks
+- [[bots-blocks-project-based-robotics-education-2026]] — Bots et blocs : un cours de robotique par projets
 - [[educational-robotics-pathways-2026]] — Les voies vers l'apprentissage de la robotique éducative alimentée par l'IA (2026)
 - [[tsingidou-ct-robotics-kindergarten-2026]] — La pensée informatique médiée par robot à la maternelle
 - [[ai-toys-child-development-2026]] — Les jouets dotés d'IA et le développement de l'enfant
@@ -122,3 +123,4 @@ Un thème définitoire est que les robots sont efficaces lorsqu'ils soutiennent 
 - [[arc-hubs-k12-ai-robotics-rural-2026]] — ARC : un cadre fondé sur les plaques tournantes qui traite la capacité de mentorat technique et la géographie des plaques tournantes, et non le matériel, comme la contrainte des programmes ruraux de robotique de la maternelle à la terminale (Jacobson et al. 2026)
 - [[teaching-rl-humanoid-robotics-high-school-2026]] — Enseigner l'apprentissage par renforcement et la robotique humanoïde à des élèves de lycée : une conception de programme validée par des experts sur une plateforme ouverte à faible coût
 - [[aifred-desk-robotic-ai-guidance-2026]] — Un projecteur robotique fixé sur bureau : un guidage colocalisé a préservé le transfert là où ChatGPT sur ordinateur portable l'a perdu
+- [[vlm-task-planning-humanoid-robot-autism-education-2026]] — Un modèle vision-langage planifie des Shoebox Tasks pour un robot Nao (Kudláčková 2026)

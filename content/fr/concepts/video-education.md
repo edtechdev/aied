@@ -1,7 +1,7 @@
 ---
 title: "La vidéo en éducation"
 created: "2026-09-05T01:05:00-04:00"
-updated: "2026-10-10T03:41:12-04:00"
+updated: "2026-10-24T10:37:28-04:00"
 type: concept
 pedagogy: [online-teaching-and-learning, student-engagement, video-education]
 technology: [adaptive-learning, generative-ai, learning-analytics, llm, multimodal, personalized-learning]
@@ -9,7 +9,7 @@ audience: [instructors, instructional designers]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/video-education
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-18T10:07:01-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -41,6 +41,7 @@ La vidéo est une pierre angulaire de l'éducation contemporaine — en particul
 - **La génération vidéo adaptative et structurée.** [[courseblueprint-adaptive-video-generation|CourseBlueprint]] offre un pipeline structuré qui génère une vidéo pédagogique adaptative ancrée dans les corpus de cours, montrant qu'une structure pédagogique explicite — et pas seulement la [[ai-literacy|fluidité en IA]] — pilote une vidéo IA efficace. [[bespoke-industry-personalized-lecture-videos-2026|Bespoke]] applique la même logique à l'échelle du cours entier : à partir de 31 cours magistraux de deuxième cycle, il a généré 209 vidéos pour des publics de la santé, de la finance, de l'énergie et un public générique, et 25 experts appariés au domaine en notant 92 ont placé 87% au niveau ou au-dessus du point médian formulé comme « la qualité d'un cours MOOC standard » (moyenne 3.42 sur 5), pour un coût d'API d'environ \$0.22 par minute — la voix, le minutage des diapositives et la mise en page étant les défauts récurrents.
 - **Une boucle d'apprentissage bat un meilleur rendu.** [[pivot-generative-video-tutors-stem-2026|Ma et al. (2026)]] planifient chaque vidéo comme un storyboard d'objectifs, d'activation des prérequis, d'exemples travaillés et de sondages diagnostiques, associé à un quiz évitant les exemples de la vidéo et à une remédiation pour chaque mauvaise option ; 96.9% des 32 enseignants ont jugé la boucle plus efficace qu'une vidéo autonome.
 - **Les analytiques vidéo et l'attention.** Instrumenter la vidéo révèle la manière dont les apprenants s'engagent. L'[[engagement-assessment-video|évaluation de l'engagement dans l'apprentissage vidéo]] et [[savvy-student-attention-video-learning|SAVVY]] visualisent l'attention des étudiants pendant l'apprentissage fondé sur la vidéo, soutenant les [[learning-analytics|analytiques de l'apprentissage]], l'[[self-regulated-learning|autorégulation]] et l'alerte précoce en cas de désengagement. Les travaux de segmentation (par exemple la [[adhd-video-segmentation-computing-education|segmentation vidéo temporelle]]) ajustent la vidéo aux différences individuelles.
+- **Une lecture neuronale de l'encodage vidéo.** Les reconstructions EEG d'images vidéo visionnées étaient sémantiquement plus similaires pour les questions répondues correctement (M = 71.43) que pour les questions incorrectes (M = 62.30, p < .001), et un désalignement temporel systématique, des reconstructions ressemblant à des images antérieures, était quantifiable comme mesure de dispersion associée à la performance ([[seeing-cognitive-representations-eeg-reconstruction|Su et al. (2026)]]).
 - **Les avatars et la présence.** Les avatars IA — présentateurs virtuels et agents pédagogiques — soulèvent des questions d'identité, de [[community-of-inquiry|présence sociale]] et de confiance. [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning|L'identité de l'avatar et la confiance épistémique]] examine comment l'identité apparente d'un présentateur façonne la confiance des apprenants, tandis que les [[ai-psychotherapy-training-avatars|avatars IA en formation]] prolongent le schéma à la pratique professionnelle.
 - **Les commentaires d'étayage dans la vidéo — et ce que l'IA rate encore.** [[wang-chatgpt-comments-video-learning-scaffolding-2026|Wang, Du et Jin (2026)]] génèrent des *i-Comments*, des messages d'[[scaffolding|étayage]] rendus à l'intérieur du cadre vidéo et synchronisés sur le contenu, en calculant l'entropie au niveau de l'image et en insérant du soutien uniquement dans les intervalles à faible information. Comparés aux commentaires de 120 commentaires d'enseignants expérimentés, les 1,000 commentaires de ChatGPT étaient plus denses, bien moins variés sur le plan structurel (diversité des POS 3-grammes de 5.5–6.2% contre 25.1–38.5%), plus difficiles à lire sur tous les indices de lisibilité, et moins alignés sur le plan thématique (BERTScore de soutien émotionnel 0.317 contre 0.574) ; 40 apprenants ont noté les commentaires humains significativement plus élevés sur le minutage et l'utilité, bien qu'un modèle plus récent ait réduit cet écart. L'argument est autant un argument de conception qu'un argument d'automatisation : le soutien intégré au média évite le coût attentionnel et cognitif de la mise en pause pour interroger un [[conversational-ai|agent conversationnel]] distinct ([[ai-feedback-quality|qualité de la rétroaction]], soutien [[social-emotional-learning|socioémotionnel]]).
 - **Le soutien de l'IA à la consommation des vidéos de cours.** Au-delà de la génération, l'IA aide les apprenants et les enseignants à travailler avec la vidéo existante : les [[bilingual-llm-lecture-companion-srl-2026|compagnons de cours LLM bilingues]] soutiennent l'apprentissage autorégulé avec les cours enregistrés, et les [[gemini-lualatex-physics-video-transcription-2026|pipelines de transcription]] convertissent la vidéo de cours en texte accessible.
@@ -68,17 +69,17 @@ Produire une vidéo IA efficace exige une structure pédagogique et une supervis
 
 ## Articles liés
 
-- [[bespoke-industry-personalized-lecture-videos-2026]] — Bespoke: generating MOOC-quality industry-personalized lecture videos at scale (Puech et al. 2026)
+- [[bespoke-industry-personalized-lecture-videos-2026]] — Bespoke : générer à l'échelle des vidéos de cours personnalisées par secteur et de qualité MOOC (Puech et al. 2026)
 - [[wang-chatgpt-comments-video-learning-scaffolding-2026]] — ChatGPT-generated in-video comments: entropy timing, quality gaps vs. human comments (Wang, Du & Jin 2026)
 - [[personalized-ai-generated-videos-preference-2026]] — Students prefer personalized AI-generated videos over non-personalized human-recorded ones (Tomlinson et al. 2026)
-- [[ai-generated-instructional-videos-computing-ed]] — Student perceptions/preferences of AI-generated instructional video in computing education
+- [[ai-generated-instructional-videos-computing-ed]] — Perceptions et préférences des étudiants à l'égard des vidéos pédagogiques générées par IA en enseignement de l'informatique
 - [[ai-video-dual-gatekeeping-2026]] — Dual gatekeeping for pedagogically grounded AI video creation
 - [[courseblueprint-adaptive-video-generation]] — CourseBlueprint: adaptive pedagogical video generation
 - [[engagement-assessment-video]] — Engagement assessment in video learning
 - [[savvy-student-attention-video-learning]] — Student attention visualization for video-based learning
-- [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]] — How avatar identity shapes epistemic trust in AI-mediated learning
+- [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]] — Comment l'identité de l'avatar façonne la confiance épistémique dans l'apprentissage médié par l'IA
 - [[bilingual-llm-lecture-companion-srl-2026]] — Bilingual LLM lecture companions for self-regulated learning
 - [[adhd-video-segmentation-computing-education]] — Temporal video segmentation for individual differences
 - [[ai-psychotherapy-training-avatars]] — AI avatars in psychotherapy training
-- [[gemini-lualatex-physics-video-transcription-2026]] — Transcribing physics lecture video into accessible text
-- [[pivot-generative-video-tutors-stem-2026]] — From Content Generation to Learning Support: Pedagogy-Guided Generative Video Tutors for STEM Learning
+- [[gemini-lualatex-physics-video-transcription-2026]] — Transcrire une vidéo de cours de physique en texte accessible
+- [[pivot-generative-video-tutors-stem-2026]] — De la génération de contenus au soutien à l'apprentissage : des tuteurs vidéo génératifs guidés par la pédagogie pour l'apprentissage STIM

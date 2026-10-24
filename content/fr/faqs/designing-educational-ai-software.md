@@ -1,12 +1,13 @@
 ---
 title: "Quelles sont les bonnes pratiques et les conseils pour concevoir un logiciel éducatif d'IA efficace ?"
 created: "2026-09-22T19:14:36-04:00"
-updated: "2026-10-09T18:10:00-04:00"
+updated: "2026-10-24T10:46:40-04:00"
 weight: 64
+audience: [educational technology developers, software developers, instructional designers]
 foundations: [learning-design]
 ethics: [accessibility, equity-in-ai-education, pedagogical-safety]
 technology: [edtech-platform]
-source_updated: "2026-10-02T08:21:34-04:00"
+source_updated: "2026-10-21T14:32:00-04:00"
 translation_of: faqs/designing-educational-ai-software
 translation_note: "Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle."
 contributors: [editor]
@@ -22,8 +23,6 @@ ai_assist:
 ---
 
 *Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle.*
-
-# Quelles sont les bonnes pratiques et les conseils pour concevoir un logiciel éducatif d'IA efficace ?
 
 **Un système d'IA éducatif doit être conçu comme un système pédagogique, et non comme un simple modèle généraliste doté d'une interface éducative.** La recherche récente en conception rassemblée dans la base de connaissances précise cette affirmation : les systèmes les plus solides sont construits comme des **experts à périmètre borné et sous supervision humaine**, co-conçus avec les enseignants et les apprenants qui les utiliseront, et ancrés dans un contenu vérifiable plutôt que dans la mémoire d'un modèle. Voici un ensemble de règles de conception pratiques :
 

@@ -1,7 +1,7 @@
 ---
 title: "Risque d'hallucination"
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-10T03:41:06-04:00"
+updated: "2026-10-24T10:41:58-04:00"
 type: concept
 foundations: [cognitive-offloading]
 technology: [generative-ai, human-in-the-loop-ai, llm]
@@ -61,6 +61,8 @@ Les **approches d'atténuation** incluent les conceptions d'[[human-in-the-loop-
 
 **Un étiquetage de la non-fiabilité a abaissé la dépendance déclarée plutôt que de l'augmenter.** Lorsque 546 participantes et participants ont lu le même dialogue d'IAG étiqueté soit comme contenant des informations fabriquées, soit comme vérifié exact, l'étiquette « fabriqué » a produit une [[trust|confiance]] et un contrôle perçu plus faibles, ainsi qu'une dissonance cognitive et une frustration plus élevées, accompagnées de scores de dépendance *plus faibles* (M = 2.935 contre 3.254) ([[frontiers-gai-hallucination-dependence-2026|Liu et al. (2026)]]). Le résultat nuance la logique de dépendance excessive de cette page : voir qu'une production peut être fabriquée n'est pas la même chose que continuer de s'y appuyer.
 
+**Les indices de crédibilité peuvent au contraire amplifier la déférence.** Le mouvement inverse apparaît lorsqu'une production peu fiable est habillée : ajouter des citations et des signaux de crédibilité à l'interface de débat ARMADA a fait grimper de 112% la proportion de participants abandonnant un jugement initial correct pour une position incorrecte de l'IA (31.8% contre 15.0%), et une vérification manuelle a trouvé que certains cas cités étaient attribués à des références hors sujet ou fictives ([[tuo-armada-multi-agent-debate-overreliance-2026|Tuo et al., 2026]]).
+
 ## Concepts liés
 
 - [[cognitive-offloading]]
@@ -79,7 +81,8 @@ Les **approches d'atténuation** incluent les conceptions d'[[human-in-the-loop-
 ## Articles liés
 
 - [[frontiers-gai-hallucination-dependence-2026]] — Étiqueter un dialogue d'IAG comme fabriqué a abaissé à la fois la confiance et la dépendance
-- [[ivory-psychology-assessment-integrity-2026]] — Fabricated citations and self-contradicting outputs inside passable student work (Ivory et al. 2026)
+- [[tuo-armada-multi-agent-debate-overreliance-2026]] — Les indices de crédibilité ont accru la déférence envers la production de l'IA, certains cas cités étant mal attribués ou fictifs
+- [[ivory-psychology-assessment-integrity-2026]] — Citations fabriquées et productions auto-contradictoires dans des travaux d'étudiants acceptables (Ivory et al. 2026)
 - [[llm-cognitive-diagnosis-handwritten-math]]
 - [[llm-fallacy-misattribution]]
 - [[yasir-llm-tutoring-agents-2026]]
@@ -89,7 +92,7 @@ Les **approches d'atténuation** incluent les conceptions d'[[human-in-the-loop-
 - [[veriforge-narrative-drafting-scaffolding-2026]]
 - [[genai-higher-education-systematic-review-2026]]
 - [[sidorkin-ai-generated-course-readings-2026]]
-- [[milicevic-socratic-trap-strategic-misconceptions-2026]] — SocraticTrap-CS: fluently plausible explanations that are wrong at the conceptual level (Miličević et al. 2026)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — Hidden prompt injections raise AI-graded marks undetected, and detected attacks go unreported (Humble 2026)
+- [[milicevic-socratic-trap-strategic-misconceptions-2026]] — SocraticTrap-CS : des explications fluides et plausibles mais fausses au niveau conceptuel (Miličević et al. 2026)
+- [[humble-prompt-injection-ai-grading-red-team-2026]] — Des injections d'invites cachées relèvent les notes attribuées par l'IA sans être détectées, et les attaques détectées ne sont pas signalées (Humble 2026)
 
-- [[authentic-assessments-generative-ai-pilot-2026]] — Designing Authentic Assessments with Generative AI: A Pilot Study of Assessment Authentifire in Higher Education
+- [[authentic-assessments-generative-ai-pilot-2026]] — Concevoir des évaluations authentiques avec l'IA générative : une étude pilote d'Assessment Authentifire dans l'enseignement supérieur

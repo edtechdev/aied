@@ -1,7 +1,7 @@
 ---
 title: "Entraînement et ajustement fin des grands modèles de langue"
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-10-10T04:00:01-04:00"
+updated: "2026-10-24T10:43:16-04:00"
 type: concept
 connected_faqs: [making-ai-better-at-supporting-learning, training-ai-tutors-to-guide-rather-than-answer, checking-whether-educational-ai-works]
 foundations: [ai-education]
@@ -13,7 +13,7 @@ confidence: high
 methods: [benchmark]
 ethics: [pedagogical-safety]
 translation_of: concepts/llm-training-and-fine-tuning
-source_updated: "2026-10-02T08:08:45-04:00"
+source_updated: "2026-10-16T08:47:09-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -74,6 +74,7 @@ Lorsqu'un modèle généraliste ne peut pas être amené à tenir une propriét�
 Le schéma se répète sur des tâches très différentes :
 
 - **Ancrage au programme.** Un jeu de données d'instructions multilingue de 24 795 exemples ancré dans les Indian Knowledge Systems a produit un ajustement de 7B obtenant **6,39** auprès d'un panel externe de cinq juges (médiane sur 1 201 items stratifiés). C'est à **0,15** près d'un fort modèle de référence généraliste, pour une fraction du coût de déploiement — alors que le même modèle de base obtenait un score **proche de zéro sur les dimensions propres aux IKS** sans l'ajustement fin ([[iks-instruct-dataset-indian-knowledge]]). Cet écart entre « compétent en général » et « compétent ici » constitue tout l'argument en faveur de l'adaptation au domaine. Notez aussi le détail contre-intuitif que rapportent les auteurs : la qualité n'a **pas** augmenté de manière monotone avec la curation des données.
+- **Des données structurées par le [[curriculum-design|programme]] sont économes en échantillons.** À budget comparable, environ 2 300 échantillons, l'ajustement fin sur des paires question-réponse dérivées d'un [[knowledge-graph|graphe de connaissances]] K-12 de manuels des People's Education Press a battu des tranches de taille égale issues de huit corpus d'instructions courants, et les gains se sont transférés au-delà des matières entraînées, preuve que la structure curriculaire est ce qui distingue les données éducatives d'entraînement ([[liang-k12-kgraph-curriculum-knowledge-graph-2026|Liang et al. (2026)]]).
 - **Fiabilité de l'évaluation, à peu de frais.** Un seul adaptateur LoRA entraîné sur environ **3 900** exemples notés regroupés a amené cinq petits modèles ouverts (4B–30B) à la parité ou au-delà d'un correcteur humain sur deux examens d'informatique, et a presque effacé la sensibilité à la persona (dérive ≤ 0,32 MAE) ([[llm-graders-computer-science-exams-2026]]). Un adaptateur, un jeu de données, plusieurs modèles de base — voilà la forme d'un déploiement pratique.
 - **Automatisation sélective.** La confiance était un prédicteur fiable de l'erreur de notation (β = −0,602, p < ,001). Acheminer les **20 %** de réponses les moins sûres vers une revue humaine faisait passer un modèle GPT-3.5 ajusté de r = 0,781 à **r = 0,822** (RMSE 0,5990 → 0,5544) tout en réduisant le travail manuel de notation d'environ **80 %** ([[know-when-to-trust-ai-scoring-reliability-2026]]). L'ajustement fin ne remplace pas ici l'humain ; il rend l'attention de l'humain abordable.
 - **Mesurer des construits que vous évalueriez sinon à la main.** Des transformateurs hongrois ajustés (hubert-base-cc, PULI-BERT-Large) ont été évalués comparativement contre des caractéristiques TF-IDF et des plongements Qwen3 pour noter des écrits réflexifs dans la [[teacher-education|formation des enseignants]] ([[reflection-level-classification-hungarian-essays-2026]]), et un modèle multimodal ajusté (fondé sur Qwen3.5) a montré qu'il pouvait reconstruire des courbes caractéristiques d'items pour des items à choix multiples, apprenant les régularités de réponse encodées dans les courbes 3PL et MCM plutôt qu'on ne les lui enseignait ([[multimodal-item-parameter-estimation-2026]]).
@@ -220,3 +221,4 @@ Cette page est le pendant *comment un modèle est fabriqué* de la page [[llm]],
 - [[simulated-students-tutoring-dialogues-2026]] — la question de savoir si les étudiants simulés se comportent comme des étudiants
 - [[inside-llm-student-simulator-reasoning-2026]] — ajuster finement un modèle pour agir et penser comme un étudiant
 - [[history-aware-student-simulation]] — la simulation conditionnée à la trajectoire d'un apprenant
+- [[liang-k12-kgraph-curriculum-knowledge-graph-2026]] — des données structurées par le programme sont économes en échantillons

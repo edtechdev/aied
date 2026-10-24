@@ -1,7 +1,7 @@
 ---
 title: "Communauté d'enquête"
 created: "2026-08-23T15:30:00-04:00"
-updated: "2026-10-10T03:05:33-04:00"
+updated: "2026-10-24T10:57:00-04:00"
 type: concept
 foundations: [critical-thinking]
 pedagogy: [online-teaching-and-learning, pedagogy]
@@ -86,7 +86,7 @@ Les auteurs mêmes du cadre fournissent une taxonomie des rôles pour cette cond
 ## Articles liés
 
 - [[genai-social-annotation-epistemic-network-analysis-2026]] — Déballer les interactions des étudiants dans l'annotation sociale assistée par IA générative : une analyse de réseaux épistémiques de la présence cognitive et sociale
-- [[reconceptualizing-community-inquiry-generative-ai]] — Reconceptualizing CoI in the age of generative AI
-- [[ai-communities-of-inquiry-2026]] — AI in communities of inquiry
+- [[reconceptualizing-community-inquiry-generative-ai]] — Repenser la communauté d'enquête à l'ère de l'IA générative
+- [[ai-communities-of-inquiry-2026]] — L'IA dans les communautés d'enquête
 - [[ai-online-education-engagement-satisfaction-2026]] — L'IA et l'engagement dans l'éducation en ligne
-- [[reflective-triangle-model-teacher-ai-2026]] — Reflective Triangle Model: AI as cognitive mediator
+- [[reflective-triangle-model-teacher-ai-2026]] — Le modèle du triangle réflexif : l'IA comme médiateur cognitif

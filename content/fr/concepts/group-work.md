@@ -1,7 +1,7 @@
 ---
 title: "Travail en groupe"
 created: "2026-09-10T05:34:38-04:00"
-updated: "2026-10-10T03:41:06-04:00"
+updated: "2026-10-24T10:37:22-04:00"
 type: concept
 foundations: [academic-integrity, agency]
 pedagogy: [collaborative-learning]
@@ -125,19 +125,19 @@ Une seconde lignée de recherche traite l'IA comme un participant plutôt que co
 
 ## Articles liés
 
-- [[chen-zou-genai-group-assessment-agency-2026]] — Three patterns of student agency in GenAI-mediated group assessment
-- [[jin-emergent-learner-agency-implicit-hai-2026]] — Emergent learner agency when AI joins a group: supportive vs. contrarian personas
-- [[genai-counter-learner-groupthink-2025]] — An AI agent that injects controversy to counter groupthink in PBL teams
+- [[chen-zou-genai-group-assessment-agency-2026]] — Trois schémas d'agentivité des étudiants dans l'évaluation de groupe médiée par l'IA générative
+- [[jin-emergent-learner-agency-implicit-hai-2026]] — L'agentivité émergente des apprenants quand l'IA rejoint un groupe : personae soutenantes ou contraires
+- [[genai-counter-learner-groupthink-2025]] — Un agent d'IA qui injecte de la controverse pour contrer la pensée de groupe dans les équipes d'APP
 - [[xu-genai-collaborative-space-2026]] — Shared versus private GenAI access across a team
-- [[hao-human-ai-collaborative-problem-solving-cognition]] — Collaboration modes and the task-performance versus self-regulation trade-off
-- [[golrang-propact-pair-programming-2026]] — ProPACT: treating the dyad as the unit of analysis in pair programming
-- [[spritz-ai-disciplinary-mediation-student-teams-2026]] — AI mediation of assumption-surfacing in interdisciplinary student teams
-- [[oppenheimer-llms-collaborative-learning-partners-2026]] — LLMs as critique partners: active rebuttal preserves cognitive conflict
+- [[hao-human-ai-collaborative-problem-solving-cognition]] — Modes de collaboration et arbitrage entre performance de la tâche et autorégulation
+- [[golrang-propact-pair-programming-2026]] — ProPACT : traiter la dyade comme unité d'analyse en programmation en binôme
+- [[spritz-ai-disciplinary-mediation-student-teams-2026]] — Médiation par l'IA de la mise au jour des présupposés dans des équipes étudiantes interdisciplinaires
+- [[oppenheimer-llms-collaborative-learning-partners-2026]] — Les LLM comme partenaires critiques : la réfutation active préserve le conflit cognitif
 - [[polished-artifacts-fragile-engagement-2026]] — Polished artifacts, fragile epistemic engagement
 - [[breideband-community-builder-cobi-2026]] — Classroom-level discourse analytics for group collaboration
-- [[niari-ai-pedagogical-mediator-collaborative-learning]] — AI as pedagogical mediator of collaboration
+- [[niari-ai-pedagogical-mediator-collaborative-learning]] — L'IA comme médiateur pédagogique de la collaboration
 - [[neurodivergent-computing-students]] — Neurodivergent students' requirements for collaborative learning
-- [[academic-league-of-ai-2026]] — Democratic student governance and project teams for AI education
-- [[teacher-student-agency-orchestration]] — Co-orchestration of teacher and student agency in real time
-- [[dollinger-equitable-assessment-ai-2026]] — Equitable assessment in the AI era
-- [[ethics-training-agents-group-ethics-discussion-2026]] — Ethics Training Agents: Facilitating Group-Based Ethics Education with Role-Playing and Discussion for Ethical Reflection and Exploration
+- [[academic-league-of-ai-2026]] — Gouvernance étudiante démocratique et équipes de projet pour l'éducation à l'IA
+- [[teacher-student-agency-orchestration]] — Co-orchestration en temps réel de l'agentivité de l'enseignant et des étudiants
+- [[dollinger-equitable-assessment-ai-2026]] — Évaluation équitable à l'ère de l'IA
+- [[ethics-training-agents-group-ethics-discussion-2026]] — Agents de formation à l'éthique : faciliter une éducation éthique de groupe par le jeu de rôle et la discussion pour la réflexion et l'exploration éthiques

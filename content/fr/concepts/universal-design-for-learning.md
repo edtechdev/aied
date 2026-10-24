@@ -1,7 +1,7 @@
 ---
 title: "Conception universelle de l'apprentissage"
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-10-10T03:05:58-04:00"
+updated: "2026-10-24T10:43:33-04:00"
 type: concept
 foundations: [learning-design]
 ethics: [equity-in-ai-education, inclusive-learning]
@@ -102,9 +102,9 @@ L'UDL transforme « réparer l'apprenant » en « réparer la conception ». Pou
 
 ## Articles liés
 - [[seung-basham-cognitive-offloading-swld-2026]] — Délestage cognitif de l'IA générative chez les élèves ayant des troubles de l'apprentissage
-- [[authentic-products-authenticated-processes-2026]] — From Authentic Products to Authenticated Processes
+- [[authentic-products-authenticated-processes-2026]] — Des produits authentiques aux processus authentifiés
 - [[tactile-statistical-graphs-accessibility]] — Tactile Statistical Graphs for Accessibility
 - [[neurodivergent-computing-students]] — Neurodivergent Computing Students
-- [[ai-learning-tools-engineering-education-needs]] — Designing Needs- and Attention-Aware AI Learning Tools
-- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — Generative AI, virtual reality, and beyond: A scoping review of digital assistive technologies for neurodivergent students in higher education
-- [[faculty-accessible-course-design-ai-2026]] — “AI is reducing options I had used”: exploring faculty perceptions of accessible course design in a ChatGPT world
+- [[ai-learning-tools-engineering-education-needs]] — Concevoir des outils d'apprentissage IA conscients des besoins et de l'attention
+- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — IA générative, réalité virtuelle et au-delà : une revue exploratoire des technologies d'assistance numériques pour les étudiants neurodivergents dans l'enseignement supérieur
+- [[faculty-accessible-course-design-ai-2026]] — « L'IA réduit des options que j'utilisais » : explorer les perceptions des enseignants sur la conception de cours accessibles à l'ère de ChatGPT

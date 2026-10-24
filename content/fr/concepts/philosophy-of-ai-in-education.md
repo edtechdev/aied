@@ -1,14 +1,14 @@
 ---
 title: Philosophie de l'IA en éducation
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-10-10T03:24:46-04:00"
+updated: "2026-10-24T10:43:33-04:00"
 type: concept
 foundations: [agency, ai-education, human-ai-collaboration, philosophy-of-ai-in-education]
 pedagogy: [learning-theories]
 ethics: [ethics]
 confidence: high
 translation_of: concepts/philosophy-of-ai-in-education
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-16T07:28:51-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -44,6 +44,7 @@ Ceci est une page de concept portant sur les fondements philosophiques et théor
 - **L'ontologie des objets scientifiques générés par l'IA.** En chimie, les composés et les courbes de titrage prédits par l'IA occupent un « espace ontologique liminal » — ni tout à fait hypothétiques ni pleinement réels jusqu'à ce qu'ils soient empiriquement prouvés — ce qui déplace la discipline du réalisme vers une vision constructiviste dans laquelle la réalité est une collaboration de l'humain et de la machine ([[philosophy-experimentation-ai-chemistry-2026|Reyes et Regala (2026)]]).
 - **La passivité cognitive comme préjudice épistémique.** Bai et Costa (2026) s'appuient sur la conception arendtienne de la pensée comme activité intérieure et intransférable pour soutenir que l'IA générative qui fournit le travail ne se contente pas de délester la pensée mais l'entrave, la théorie du champ et de l'habitus de Bourdieu situant le risque dans les structures institutionnelles ([[genai-chinese-higher-education-integrity-2026|Bai & Costa (2026)]]).
 - **Valeurs, justice et finalité de l'éducation.** L'analyse philosophique examine si l'éducation pilotée par l'IA sert l'épanouissement humain et la justice éducative, ou si elle instrumentalise l'apprentissage au service de la productivité. ([[avraamidou-ai-colonization-science-education]]) Cela rejoint la [[critical-pedagogy|pédagogie critique]] et l'[[ethics|éthique]].
+- **« Centré sur l'humain » comme discours anthropocentrique, et non comme éthique neutre.** [[wang-jin-anthropocentrism-learnification-ai-education-2026|Wang et Jin (2026)]] lisent les documents de l'UNESCO, de l'OCDE et de la Déclaration de Montréal pour soutenir que l'IAEd centrée sur l'humain hérite des exclusions de l'humanisme des Lumières, que le transhumanisme les préserve, et que cette étiquette peut légitimer une infrastructure commerciale.
 
 - **Fondement épistémologique de la manière dont les gens s'engagent avec l'IA.** [[strydom-human-gai-paradigms-2026|Strydom (2026)]] dérive sept paradigmes d'engagement humain avec l'IA générative des cinq dimensions de la croyance épistémologique personnelle de Schommer (source, certitude, organisation, contrôle et rapidité de la connaissance) et soutient qu'ils sont enactés plutôt que possédés — si bien que changer la manière dont les apprenants s'engagent avec l'IA requiert de modifier l'environnement sociotechnique, et non leurs croyances.
 - **La philosophie de qui ? Le pluralisme dans les fondements conceptuels du domaine.** Xie (2026) soutient que le débat philosophique du domaine est surdéterminé par une unique architecture occidentale — l'[[agency|agence épistémique]] comme propriété de sujets discrets, la connaissance pensée de manière représentationnelle et calculatoire, et la relation humain–IA située dans un dualisme sujet–objet — si bien que ses limites deviennent les limites de l'imagination collective du domaine. Comme contrepoids comparatif, il reconstruit des concepts daoïstes — la « nature du Dao » (道性), la culture de soi (修道) et le « Zhenren » (真人) — non comme des « contenus orientaux » ajoutés à un cadre inchangé, mais comme des ressources qui remodèlent les fondements conceptuels à travers lesquels l'IA elle-même est comprise, en les appliquant à la connaissance (monoculture épistémique et désinformation synthétique), au connaître (le délestage qui dégrade la [[critical-thinking|pensée critique]]) et à l'impact (coûts environnementaux et asymétries entre Nord et Sud globaux). ([[daoism-ai-education-philosophy-2026]])
@@ -75,14 +76,15 @@ La philosophie de l'IA en éducation et le [[theory-development-aied|développem
 ## Articles liés
 - [[genai-chinese-higher-education-integrity-2026]] — L'IA générative dans l'enseignement supérieur chinois : intégrité et engagement
 - [[ensemble-cognition-philosophy-ai-education]] — Ensemble Cognition : un cadre philosophique pour la cognition humain–IA
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]] — Pedagogical Symbiosis and the Post-Human Learner
+- [[elsayed-pedagogical-symbiosis-posthuman-learner]] — Symbiose pédagogique et apprenant post-humain
 - [[videla-embodied-ai-education-choreography]] — Une critique incarnée et post-cognitiviste de l'IA désincarnée en éducation
 - [[voicu-ai-interpretive-cognition-ssh-2026]] — Modèle développemental-critique de la cognition interprétative en sciences humaines
 - [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — La co-agence épistémique comme philosophie de l'apprentissage avec les machines
 - [[avraamidou-ai-colonization-science-education]] — Une philosophie critique-féministe interrogeant la colonisation de l'éducation par l'IA
-- [[generative-ai-mediational-agent-sociocultural-2026]] — Generative AI as a Mediational Agent
+- [[generative-ai-mediational-agent-sociocultural-2026]] — L'IA générative comme agent médiationnel
 - [[young-people-learning-generative-ai-rapid-review-2026]] — Un cadrage en sciences de l'apprentissage de l'IA générative
-- [[philosophy-experimentation-ai-chemistry-2026]] — Philosophy of experimentation in chemistry with AI
+- [[philosophy-experimentation-ai-chemistry-2026]] — Philosophie de l'expérimentation en chimie avec l'IA
 - [[strydom-human-gai-paradigms-2026]] — Cadrer les dynamiques humain–IA : sept paradigmes d'engagement avec l'IA générative (Strydom 2026)
-- [[daoism-ai-education-philosophy-2026]] — Alternative AI Philosophy: Daoism as Method for AI in Education
-- [[genai-higher-ed-agency-responsibility-discourse-2026]] — Who Acts, Who Knows, Who Answers? A Corpus-Assisted Discourse Analysis of Agency, Epistemic Responsibility, and Accountability in Generative AI Higher Education Research
+- [[daoism-ai-education-philosophy-2026]] — Philosophie alternative de l'IA : le taoïsme comme méthode pour l'IA en éducation
+- [[genai-higher-ed-agency-responsibility-discourse-2026]] — Qui agit, qui sait, qui répond ? Une analyse de discours assistée par corpus de l'agence, de la responsabilité épistémique et de la redevabilité dans la recherche sur l'IA générative dans l'enseignement supérieur
+- [[wang-jin-anthropocentrism-learnification-ai-education-2026]] — L'IAEd « centrée sur l'humain » lue comme un discours anthropocentrique aux usages commerciaux (Wang et Jin 2026)

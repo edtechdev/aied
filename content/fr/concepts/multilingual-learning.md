@@ -2,14 +2,14 @@
 title: "Apprentissage multilingue"
 connected_resources: [mglearn]
 created: "2026-08-19T09:55:00-04:00"
-updated: "2026-10-10T04:00:01-04:00"
+updated: "2026-10-24T10:43:44-04:00"
 type: concept
 technology: [llm]
 ethics: [culturally-relevant-pedagogy, digital-divide, equity-in-ai-education, global-south, inclusive-learning, multilingual-learning]
 discipline: [language learning]
 confidence: medium
 translation_of: concepts/multilingual-learning
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-23T09:49:58-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -49,6 +49,8 @@ L'apprentissage multilingue est une dimension d'équité centrale de l'[[ai-educ
 
 L'IA multilingue doit aller au-delà de la traduction pour refléter la [[culturally-relevant-pedagogy|pédagogie culturellement pertinente]] — en générant un contenu linguistiquement et contextuellement approprié. Des études sur la [[llm-cultural-relevance-k12|pertinence culturelle des grands modèles de langue dans le primaire et le secondaire]] et sur l'[[scaffolding-critical-engagement-genai-minority-students|engagement critique envers l'IA générative chez les étudiants issus de minorités]] montrent que l'alignement linguistique et culturel détermine si les étudiants en bénéficient réellement. Non traité, le biais monolingue dans l'IA creuse la [[digital-divide|fracture numérique]] et sape l'[[equity-in-ai-education|équité]] dans les pays du [[global-south|Sud global]].
 
+Le translanguaging est une affordance que les agents conversationnels génératifs ajoutent et que les outils linguistiques antérieurs n'offraient pas. Dans une revue systématique de 24 études, les apprenants demandaient des expressions contextualisées et des explications dans leur propre langue comme passerelle vers la langue cible, un usage que les auteurs de la revue classent comme une nouvelle sous-affordance plutôt que comme un simple réagencement de l'existant ([[genai-chatbots-language-learning-affordances-review-2026|Lopez & Arabadzhy (2026)]]).
+
 ## Biais d'évaluation
 
 Les préoccupations multilingues affectent aussi l'[[automated-assessment|évaluation automatisée]] : [[ai-scoring-language-bias-physics|la notation par IA peut présenter un biais linguistique]] (par exemple, en [[physics-education|physique]]), pénalisant les locuteurs non natifs. Garantir que les outils d'évaluation sont équitables entre les langues fait partie de l'[[assessment-validity|évaluation de la validité]].
@@ -77,6 +79,7 @@ Le jugement comparatif fondé sur les grands modèles de langue est un cas où l
 
 ## Articles liés
 
+- [[genai-chatbots-language-learning-affordances-review-2026]] — Les agents conversationnels d'IAG offrent le translanguaging, un usage que les outils linguistiques antérieurs ne permettaient pas
 - [[llm-comparative-judgment-writing-screening-2026]] — Validité du jugement comparatif par grands modèles de langue pour le dépistage universel en écriture
 - [[multilingual-adaptive-learning-nigeria-2026]] — Plateforme d'apprentissage adaptatif fondée sur l'IA pour le Nigeria
 - [[bilingual-llm-lecture-companion-srl-2026]] — Compagnon de cours bilingue fondé sur les grands modèles de langue

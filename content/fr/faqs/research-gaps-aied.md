@@ -1,7 +1,7 @@
 ---
 title: "Quelles lacunes notables existe-t-il dans la littérature de recherche sur l'IA en éducation ?"
 created: "2026-09-22T19:10:56-04:00"
-updated: "2026-10-09T18:10:00-04:00"
+updated: "2026-10-24T10:43:48-04:00"
 weight: 45
 type: faq
 foundations: [limitations-in-aied-research]
@@ -10,9 +10,10 @@ assessment: [learning-gains]
 ethics: [equity-in-ai-education, differential-effects-across-learner-groups]
 research_method: [literature review]
 level: [higher ed]
+audience: [researchers, instructors]
 page_kind: [evaluation]
 methods: [ai-ed-evaluation, research-methods-aied]
-source_updated: "2026-10-02T08:21:34-04:00"
+source_updated: "2026-10-21T14:32:00-04:00"
 translation_of: faqs/research-gaps-aied
 translation_note: "Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle."
 contributors: [editor]
@@ -28,8 +29,6 @@ ai_assist:
 ---
 
 *Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle.*
-
-# Quelles lacunes notables existe-t-il dans la littérature de recherche sur l'IA en éducation ?
 
 Les lacunes les plus lourdes de conséquences en IA en éducation (AIED) concernent **la question de savoir si des conceptions pédagogiques particulières produisent des bénéfices durables, pour qui, par quels mécanismes et sous quelles conditions, et non simplement si l'IA peut accomplir des tâches éducatives**. La base de connaissances documente des interventions prometteuses en même temps que des faiblesses persistantes en matière de mesure, d'inférence causale, de généralisabilité, de mise en œuvre et de reproductibilité. Il s'agit souvent de lacunes dans la *force, la spécificité ou l'applicabilité* des preuves plutôt que d'une absence totale de recherche. Voir [[limitations-in-aied-research|Limitations de la recherche en IAED]].
 

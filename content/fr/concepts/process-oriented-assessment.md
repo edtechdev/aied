@@ -1,7 +1,7 @@
 ---
 title: Évaluation orientée sur le processus
 created: "2026-09-26T06:54:53-04:00"
-updated: "2026-10-10T03:41:06-04:00"
+updated: "2026-10-24T10:46:40-04:00"
 type: concept
 foundations: [academic-integrity]
 pedagogy: [self-regulated-learning]
@@ -10,9 +10,9 @@ assessment: [assessment, ai-detection, assessment-validity, authentic-assessment
 ethics: [equity-in-ai-education]
 level: [higher ed]
 confidence: high
-connected_resources: [process-feedback]
+connected_resources: [process-feedback, code-viva]
 translation_of: concepts/process-oriented-assessment
-source_updated: "2026-10-14T11:15:00-04:00"
+source_updated: "2026-10-16T19:45:37-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -53,6 +53,8 @@ Le canal choisi pour les preuves de processus change ce qui peut être attesté 
 Les récits de praticiens et les cadres comblent le reste du tableau des artefacts. Le cadre LEARN d'Uden et Hwang (2026), visant l'[[assessment|évaluation]] en [[problem-based-learning|apprentissage par problèmes]], réclame des grilles d'évaluation centrées sur le processus, des justifications orales, des remises échelonnées et des traces de raisonnement accompagnées d'[[ai-use-disclosure|une divulgation de l'usage de l'IA]], et traite la réflexion à travers les journaux d'apprentissage et les protocoles de pensée à voix haute comme le moteur [[metacognition|métacognitif]] de la séquence. Moganadas et collègues (2026) font de l'évaluation transparente à l'égard de l'IA et orientée sur le processus l'une des cinq propositions recherchables, exigeant documentation, vérification et justification réflexive plutôt qu'interdiction ou recours à des détecteurs. Padhy (2026) recommande de saisir l'historique des révisions, les schémas d'interaction et le temps passé sur la tâche, associés à une divulgation transparente. Goldstein, Marae-Haj et Zidan (2026) rapportent les mêmes artefacts émergeant de la pratique après une crise de [[trust|confiance]] : relevés de prompts, historique des versions de documents, contributions de groupe suivies, et « journaux de parcours » réflexifs tenus dans des carnets physiques — outre le constat brutal que les travaux écrits à domicile ne pouvaient plus attester d'un apprentissage.
 
 Un outillage concret émerge : [[stepwise-teacher-diagnosis-math-2026|Kim et coll. (2026)]] opérationnalisent la résolution de problèmes en quatre étapes et huit sous-compétences diagnostiques afin qu'un grand modèle de langue puisse générer des questions et des grilles propres à chaque étape ; cinq enseignants et 64 étudiants ont utilisé le système sur 90 problèmes et 720 sous-questions, avec un score moyen de 83,5 à l'échelle d'utilisabilité des systèmes (System Usability Scale).
+
+La documentation exigée s'est révélée faisable à l'échelle d'un cours : sur six semestres de cours asynchrones de six semaines en méthodes de recherche de cycle supérieur servant environ 440 enseignants du primaire et du secondaire, les remises aux points de contrôle ont atteint en moyenne 96 % d'achèvement, et les itérations ultérieures qui ajoutaient des modèles d'invite explicites ont produit des réflexions plus longues et visiblement plus substantielles [[packard-thinking-partner-framework-adult-learners-2026|Packard et coll. (2026)]].
 
 ## Un axe différent de l'authenticité, et de la correction
 
@@ -107,3 +109,4 @@ Le récit de Thapa et Lewis est conceptuel : ni participants, ni collecte de don
 - [[drafttrace-ai-writing-analytics-2026]] — DraftTrace : un environnement d'analyse à vues multiples pour l'écriture intégrant l'IA
 - [[epistemic-ownership-ai-mediated-education-2026]] — Même performance, processus différent : propriété épistémique dans l'éducation médiatisée par l'IA
 - [[stepwise-teacher-diagnosis-math-2026]] — STEPwise : accompagner les enseignants dans le diagnostic des compétences de résolution de problèmes mathématiques des étudiants par des questions générées par grand modèle de langue
+- [[packard-thinking-partner-framework-adult-learners-2026]] — La documentation des points de contrôle du dialogue avec l'IA a tenu à 96 % d'achèvement sur six semestres et environ 440 enseignants

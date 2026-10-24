@@ -1,13 +1,13 @@
 ---
 title: "Quel est l'impact de l'IA sur les étudiants ?"
 created: "2026-09-22T19:14:32-04:00"
-updated: "2026-10-09T18:10:00-04:00"
+updated: "2026-10-24T10:41:17-04:00"
 weight: 82
 foundations: [ai-literacy, cognitive-offloading, learner-identity]
 pedagogy: [well-being]
 ethics: [equity-in-ai-education]
 audience: [learners]
-source_updated: "2026-10-02T08:21:34-04:00"
+source_updated: "2026-10-21T14:32:00-04:00"
 translation_of: faqs/how-ai-impacts-students
 translation_note: "Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle."
 contributors: [editor]
@@ -23,8 +23,6 @@ ai_assist:
 ---
 
 *Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle.*
-
-# Quel est l'impact de l'IA sur les étudiants ?
 
 **L'IA a un impact sur les étudiants dans un sens à la fois positif et négatif, et généralement les deux en même temps.** Le même outil peut étayer l'apprentissage d'un étudiant tout en l'invitant à une dépendance excessive, augmenter la motivation tout en érodant l'autonomie, ou soutenir le sentiment d'appartenance tout en menaçant la paternité du travail. La recherche sur l'[[student-experience|expérience étudiante]] met en évidence des impacts positifs et négatifs récurrents sur plusieurs dimensions, et le sens de ces impacts dépend fortement de la manière dont l'IA est conçue et dont les étudiants l'utilisent.
 

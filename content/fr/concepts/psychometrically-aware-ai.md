@@ -1,13 +1,13 @@
 ---
 title: IA psychométriquement informée
 created: "2026-07-28T16:52:03-04:00"
-updated: "2026-10-10T03:41:06-04:00"
+updated: "2026-10-24T10:37:22-04:00"
 type: concept
 technology: [llm]
 assessment: [assessment-validity, automated-assessment, educational-measurement, item-response-theory]
 confidence: medium
 translation_of: concepts/psychometrically-aware-ai
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-23T09:20:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -44,7 +44,9 @@ ai_assist:
 - **Validité de la mesure :** le concept se relie à l'[[assessment-validity|évaluation de la validité]] et à l'[[educational-measurement|évaluation éducative]], les cadres qui définissent à quoi ressemble une évaluation par l'IA valide et fidèle.
 - **Validité de la structure latente :** [[assessment-latent-structure-human-llm-2026|Strugatski et coll. (2026)]] montrent qu'une posture psychométriquement informée doit aussi vérifier qu'une évaluation mesure le *même construit latent* chez les LLM que chez les humains. Parce que les structures factorielles des réponses des LLM et des humains divergent sur les mêmes instruments, même des modèles qui notent bien peuvent ne pas mesurer le construit que l'examen prétend mesurer — une réserve pour toute évaluation par l'IA qui emprunte des preuves de validité établies sur des humains.
 - **Une étiquette peut mesurer plus, ou moins, que ce qu'elle nomme.** La vectorisation des 55 construits et 272 items de 12 instruments de littératie en IA a fait apparaître des paires jangle (même étiquette, mesure différente) et des paires jingle (étiquettes différentes, formulations quasi identiques), retrouvant la fidélité à r = 0,49 — un contrôle pré-collecte montrant que les distinctions de construits survivent jusque dans la formulation des items ([[ai-literacy-measurement-conceptual-landscape-llm-2026|He et coll. (2026)]]).
+- **Une échelle de dépendance qui refuse l'ancrage sur les résultats.** Quatre facteurs (usage réflexif, prudent, irréfléchi et collaboratif) ont émergé de 800 réponses et se maintenaient sur une tâche de forme différente (CFI = .91), mesurant le comportement à chaque instant de la tâche plutôt que de l'étiqueter comme bon ou mauvais ([[genai-reliance-scale-problem-solving-2026|Hou et coll. (2025)]]).
 - **Chaînes de traitement des capacités latentes et fixation des seuils :** [[human-in-the-loop-ai-scoring-national-assessment-2026|Curi et coll. (2026)]] fournissent un modèle concret de notation psychométriquement informée dans un examen national : les scores des items de la grille ne sont jamais sommés directement, mais introduits dans un modèle [[item-response-theory|IRT]] dont les estimations de capacité latente sont découpées par la méthode de fixation des seuils Bookmark en Proficient / Close to Proficiency / Insufficient, la réussite exigeant au moins deux sections Proficient et la restante au moins Close to Proficiency. Les auteurs ont reproduit cette chaîne de traitement sous forme automatisée (une probabilité de 67% de répondre correctement à au moins 7 items de la grille pour le seuil inférieur et à au moins 10 pour le seuil supérieur), permettant de comparer les scores des items produits par l'IA et par des humains au regard de critères de décision identiques plutôt que sur le seul accord brut.
+- **Des métriques équilibrées démasquent un modèle qui ne fait que sembler calibré.** Demander à GPT-4o et Gemini 2.0 Flash d'inférer des dimensions de style d'apprentissage à partir des dialogues de 153 étudiants de premier cycle a produit une exactitude modérée que le rappel par classe a révélée comme une prédiction de l'étiquette dominante, les apprenants Intuitifs et Globaux étant sous-identifiés et le prompting few-shot amplifiant parfois le biais au lieu de le supprimer ([[learning-style-inference-bias-student-ai-dialogues-2026|Zamanifard, Goudarzi et Robb (2026)]]).
 
 ### Connexions
 
@@ -62,6 +64,7 @@ L'IA psychométriquement informée se situe à l'intersection de l'[[educational
 - [[ai-education]]
 
 ## Articles liés
+- [[genai-reliance-scale-problem-solving-2026]] — Une échelle validée de la dépendance des étudiants à l'IA générative pendant la résolution de problèmes (Hou et al. 2025)
 - [[human-in-the-loop-ai-scoring-national-assessment-2026]] — Un cadre humain dans la boucle pour la notation assistée par IA dans l'évaluation de l'écrit à grande échelle
 - [[assessment-latent-structure-human-llm-2026]] — Les instruments d'évaluation mesurent-ils la même chose pour les humains et les LLM ? (Strugatski et coll. 2026)
 - [[llm-psychometric-calibration-cdp]] — Aligner l'évaluation par LLM sur le calibrage psychométrique
@@ -73,3 +76,4 @@ L'IA psychométriquement informée se situe à l'intersection de l'[[educational
 - [[razavi-powers-item-difficulty-llm-2026]] — Estimer la difficulté des items à l'aide de LLM et d'apprentissage automatique arborescent
 - [[ai-literacy-measurement-conceptual-landscape-llm-2026]] — Comparer les instruments de littératie en IA : paires jangle et jingle parmi 55 construits
 - [[student-llm-use-ai-question-difficulty-data-science-2026]] — L'usage des LLM par les étudiants et les limites de la difficulté des questions générées par l'IA dans les cours de science des données
+- [[learning-style-inference-bias-student-ai-dialogues-2026]] — Une exactitude modérée se révélait être une prédiction de la classe majoritaire une fois le rappel par classe vérifié (Zamanifard, Goudarzi & Robb 2026)

@@ -1,7 +1,7 @@
 ---
 title: "Anxiété et stress"
 created: "2026-08-25T09:40:00-04:00"
-updated: "2026-10-10T02:17:25-04:00"
+updated: "2026-10-24T10:44:10-04:00"
 type: concept
 foundations: [academic-integrity]
 pedagogy: [social-emotional-learning, well-being]
@@ -12,7 +12,7 @@ confidence: high
 connected_faqs: [how-ai-impacts-students, ai-anxiety-wellbeing]
 level: [adult learning]
 translation_of: concepts/anxiety-and-stress
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-24T06:36:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -66,6 +66,7 @@ Ce recadrage a une frontière dans la prise de parole : parmi 708 apprenants d'a
 - **La version du développeur : sentiment d'imposteur et inconfort éthique.** Des développeurs académiques de deux institutions sud-africaines étaient censés incarner la confiance institutionnelle dans des outils dont ils étaient encore en train de cerner les implications (« I feel like an impostor... »), tout en animant des technologies dont ils doutaient qu'elles soient appropriées — un travail affectif que l'article traite comme constitutif, et non accessoire ([[beyond-the-algorithm-academic-developers-digital-mediators-2026|Sithole, 2026]]).
 - **La culpabilité anticipée : une détresse qui précède l'expérience.** [[vassallo-ai-guilt-complex-faculty-2026|Vassallo (2026)]] a interrogé le personnel académique d'une université maltaise (109 répondants) et a constaté que la culpabilité liée à l'IA s'attache à la crainte de la transgression plutôt qu'à son expérience : l'indice de culpabilité liée à l'IA (α = 0.88) tirait son adhésion la plus forte de l'inquiétude que l'usage de l'IA nuise à sa propre crédibilité (34.9%) et du sentiment de [[academic-integrity|tricher]] (25.7%), le remords *après* usage venant en dernier (9.2%). Le paradoxe est que le petit groupe des non-utilisateurs rapportait une culpabilité plus élevée (M = 3.25) que n'importe quel groupe d'utilisateurs (M = 2.32) — parce que ceux qui évitent ne mettent jamais leurs craintes à l'épreuve, l'évitement peut préserver la détresse qu'il était censé prévenir. La culpabilité était la plus élevée parmi les universitaires en début de carrière (M = 2.71) et la plus faible parmi les plus anciens (M = 2.03), et elle suivait la dissimulation plutôt que l'honnêteté, corrélant avec le fait de limiter son usage de l'IA par malaise (r = .62) et avec le fait d'éviter la divulgation à ses collègues (r = .50), mais pas avec la [[ai-use-disclosure|divulgation]] formelle (r = .08).
 - **La crainte d'une perte de valeur professionnelle, et une voie pour en sortir.** [[chick-faculty-development-ethical-ai-2026|Chick, Morello & Staffey (2026)]] documentent une anxiété d'éducateur qui est existentielle plutôt que technique. Dix enseignants et membres du personnel sont entrés dans un institut de six semaines, avec l'intégrité académique comme première préoccupation (80%) et le [[cognitive-offloading|recours excessif]] en deuxième (70%), décrivant l'IA générative au début comme une « machine à tricher », une « menace » ou une « force déshumanisante » ; un professeur de mathématiques a énoncé sans détour la menace identitaire — « J'ai passé des années à développer une expertise dans mon domaine. Maintenant une machine peut résoudre des problèmes plus vite et expliquer les solutions mieux que moi. Quelle est ma valeur, désormais ? » Une expérimentation structurée et sûre a déplacé le vocabulaire vers « assistant curieux » et « partenaire créatif », et a laissé 90% des participants rapportant des perceptions positives, les auteurs étant explicites sur le fait que la résistance qu'ils ont observée « ne découle pas d'une technophobie ni d'un traditionalisme buté, mais de préoccupations légitimes quant à la qualité éducative, à l'équité et à l'autonomie humaine » — un contre-poids direct à la lecture de l'anxiété des éducateurs comme une simple panique morale.
+- **Un soutien de l'agent conversationnel ciblant l'appréciation déplace le plaisir et l'ennui, pas le désespoir ni le sentiment d'efficacité personnelle.** Dans une expérience auprès de 144 étudiants comparant ChatGPT seul à un agent d'étayage de l'autorégulation et à un agent de soutien émotionnel, le plaisir a augmenté (d = 0.53 avec l'étayage de l'autorégulation, 0.75 avec le soutien émotionnel) et l'ennui a reculé (d = -0.35, -0.67) uniquement dans les deux conditions étayées. ChatGPT seul n'a montré aucun changement significatif pour l'une ou l'autre émotion. Le désespoir a reculé dans toutes les conditions, y compris avec ChatGPT seul (d = -0.73 à -1.02). Ni le sentiment d'efficacité personnelle (η2 = 0.001) ni la confiance dans l'agent conversationnel (η2 = 0.020) ne différaient selon la condition, si bien que la conception émotionnelle a déplacé deux émotions et laissé intacte la croyance motivationnelle que la théorie prédisait ([[diordiev-emotional-scaffolding-genai-srl-2026|Diordiev, Stenberdt & Makransky, 2026]]).
 
 **Le soutien institutionnel agit sur l'anxiété par les appréciations, et non par la réassurance.** Une enquête à deux vagues menée auprès de 547 étudiants de premier cycle chinois
 ([[school-support-ai-learning-anxiety-control-value-2026|Jiang, Chen & Chen, 2026]]) a retracé la manière dont le soutien scolaire perçu se relie à
@@ -88,6 +89,8 @@ La compétence n'est pas un tampon complet, cependant : parmi 551 étudiants chi
 **Les prévisions des enseignants comme forme distribuée d'anxiété face à l'IA.** L'enquête de [[watson-rainie-ai-challenge-faculty-survey-2026|Watson & Rainie (2026)]] menée auprès de 1,057 enseignants d'universités et de colleges américains enregistre l'anxiété des éducateurs comme des attentes plutôt que comme des symptômes : 95% s'attendaient à ce que l'IA générative accroisse le recours excessif des étudiants aux outils, 94% à davantage de préoccupations d'intégrité académique, 90% à une [[critical-thinking|pensée critique]] diminuée, 83% à des durées d'attention plus courtes et 81% à des [[equity-in-ai-education|iniquités numériques]] plus larges, tandis que 39% croyaient que les outils diminueraient le rôle du corps professoral et 47% craignaient que l'impact à long terme sur l'emploi dans leurs disciplines soit négatif. Les mêmes répondants n'étaient pas uniformément pessimistes — 61% s'attendaient toujours à un apprentissage amélioré et personnalisé — mais 73% avaient personnellement traité une affaire d'intégrité académique impliquant l'usage de l'IA générative par des étudiants, ce qui est le lieu où une prévision devient une charge de travail. Le rapport est explicitement un échantillon non scientifique qui n'est pas généralisable, si bien qu'il documente les craintes exprimées par le secteur plutôt que des effets mesurés.
 
 Cette direction relie l'anxiété face à l'IA à la [[motivation|motivation]], à l'[[ai-literacy|littératie en IA]], à l'[[student-experience|expérience étudiante]] et à l'[[self-regulated-learning|autorégulation]].
+
+Un agent qui ressemble à un examinateur peut transporter avec lui la pression de l'examen. Les étudiants qui s'entraînaient à l'oral avec Replika obtenaient des scores significativement supérieurs à ceux obtenus avec des pairs, mais décrivaient l'interaction comme anxiogène et gênante et ne souhaitaient pas la réutiliser, la performance mesurée et le stress éprouvé évoluant en sens inverse ([[chatbots-oral-proficiency-efl-systematic-review|Soriano-Gonzalez & Belda-Medina (2026)]]).
 
 ## L'anxiété liée à la carrière
 
@@ -144,6 +147,8 @@ Le [[well-being|bien-être]] est l'état positif large (santé émotionnelle, ps
 - [[social-norms-ai-use]] — le coût affectif de la visibilité
 
 ## Articles liés
+
+- [[chatbots-oral-proficiency-efl-systematic-review]] — Un agent ressemblant à un examinateur a élevé en même temps la performance à l'oral et l'anxiété
 - [[mu-ai-competence-ethical-awareness-anxiety-2026]] - La compétence élève la conscience éthique, la conscience éthique élève l'anxiété face à l'IA : médiation exclusivement indirecte parmi 584 étudiants
 - [[ai-anxiety-strategic-regulation-writing-2026]] — L'anxiété face à l'IA comme signal productif de régulation stratégique
 - [[aivaluate-anxiety-assessment-2026]] — L'anxiété des étudiants dans l'évaluation de performance médiée par l'IA

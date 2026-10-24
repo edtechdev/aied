@@ -1,7 +1,7 @@
 ---
 title: Recherche quantitative
 created: "2026-08-24T02:05:00-04:00"
-updated: "2026-10-10T03:24:46-04:00"
+updated: "2026-10-24T10:38:02-04:00"
 type: concept
 assessment: [educational-measurement]
 research_method: [survey, experiment]
@@ -49,6 +49,7 @@ Les expériences assignent aléatoirement des apprenants à des conditions (par 
 
 - **Forces :** l'inférence causale la plus forte ; une mesure nette des résultats ; le soutien à l'estimation des tailles d'effet et aux affirmations d'efficience.
 - **Limites :** coûteuses et lentes ; des conditions artificielles réduisent la validité écologique ; des outils d'IA évoluant rapidement datent rapidement les expériences ; de petits échantillons sous-alimentent la détection d'effets ; des contraintes éthiques sur le retrait d'outils utiles.
+- **Un essai randomisé par groupes sur l'accès exige une vérification de l'appropriation.** Avec environ 15% des étudiants des classes traitées qui ont un jour utilisé le tuteur, l'estimation en intention de traiter de l'étude reflète l'effet d'avoir introduit l'outil, permission et substitution comprises, plutôt que l'effet isolé des séances individuelles ([[liu-course-integrated-ai-tutoring-rct-2026|Liu et al. (2026)]]).
 
 ### La recherche longitudinale
 Les conceptions longitudinales suivent les mêmes apprenants dans le temps, captant le changement, la croissance et l'apprentissage durable que la mesure à un instant unique manque. [[ai-lms-middle-school-longitudinal|Une étude longitudinale sur un LMS]] suit des étudiants sur une année scolaire. Les conceptions longitudinales sont essentielles pour distinguer la performance gonflée par l'IA de l'[[genai-performance-vs-learning|apprentissage durable]].
@@ -58,6 +59,8 @@ Les comparaisons entre jeux de données ont besoin d'un point de travail fixe : 
 
 ### La quantification computationnelle et psychométrique
 Les méthodes quantitatives incluent aussi la mesure directe des construits par des instruments — le domaine de l'[[educational-measurement]] et de l'[[item-response-theory]]. Le [[jin-glat-genai-literacy-assessment|GLAT]] de la base de connaissances est un instrument quantitatif de 20 items validé par la TRI ; les [[educational-measurement|instruments de mesure]] portant sur l'[[ai-literacy|littératie en IA]], l'acceptation et l'auto-efficacité fournissent les échelles validées dont dépendent la recherche par enquête et par expérience.
+
+L'analyse bibliométrique est une autre famille quantitative : [[sriram-ethical-ai-medical-education-bibliometric-2026|Sriram et al. (2026)]] cartographient 1,403 publications en [[medical-education|éducation médicale]] à travers des réseaux de cooccurrence de pays, d'institutions et de mots-clés, lisant la forme d'une littérature plutôt que d'en évaluer les études, ce qui fait de leur conclusion, selon laquelle la recherche sur la [[governance|gouvernance]] n'a pas suivi le rythme des tests de capacités, une affirmation sur le champ et non sur l'apprentissage.
 
 ## Comment la recherche quantitative apparaît dans la base de connaissances
 
@@ -101,4 +104,6 @@ Les méthodes quantitatives et [[qualitative-research|qualitatives]] sont compl�
 - [[jin-glat-genai-literacy-assessment]] — GLAT : un test de littératie en IA générative validé par la TRI
 - [[ai-lms-middle-school-longitudinal]] — Une étude longitudinale sur un LMS intégrant l'IA au collège
 - [[adaptive-pretesting-retention]] — Le pré-test adaptatif et la rétention
-- [[synthetic-educational-data-structural-fidelity-2026]] — What Fidelity Metrics Miss: A Structural Check on Synthetic Educational Data
+- [[synthetic-educational-data-structural-fidelity-2026]] — Ce que les métriques de fidélité manquent : une vérification structurelle des données éducatives synthétiques
+- [[liu-course-integrated-ai-tutoring-rct-2026]] — Un essai randomisé par groupes sur l'accès exige une vérification de l'appropriation
+- [[sriram-ethical-ai-medical-education-bibliometric-2026]] — L'analyse bibliométrique comme autre famille quantitative : Sriram et al.

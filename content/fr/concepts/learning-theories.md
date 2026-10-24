@@ -1,7 +1,7 @@
 ---
 title: "Théories de l'apprentissage"
 created: "2026-08-16T03:36:31-04:00"
-updated: "2026-10-10T03:41:10-04:00"
+updated: "2026-10-24T10:43:44-04:00"
 type: concept
 foundations: [learning-design]
 pedagogy: [behaviorism, learning-theories, metacognition, self-regulated-learning]
@@ -117,7 +117,7 @@ La **Symbiose pédagogique** d'[[elsayed-pedagogical-symbiosis-posthuman-learner
 
 - [[yan-agentivism-learning-theory-ai-2026]] — Une théorie de l'apprentissage de portée moyenne pour l'interaction humain-IA, avec quatre mécanismes et six propositions testables (Yan et Gašević 2026)
 - [[deceptive-overgeneralization-adaptive-learning-2026]] — Sur-généralisation trompeuse : la maîtrise adaptative peut arrêter la pratique avant que les apprenants ne sachent quand s'abstenir d'une action (An, McLaren et Stamper 2026)
-- [[airis-hybrid-human-ai-cognition-2026]] — AI-Augmented Inquiry and Regulation in Hybrid Systems (AIRIS)
+- [[airis-hybrid-human-ai-cognition-2026]] — Enquête et régulation augmentées par l'IA dans les systèmes hybrides (AIRIS)
 - [[voicu-ai-interpretive-cognition-ssh-2026]]
 - [[ai-cognitive-partner-co-regulation-learning]] — Positionne l'IA comme partenaire cognitif dans la corégulation humain-IA ; cadre développemental sur l'ensemble de la vie
 - [[ensemble-cognition-philosophy-ai-education]] — Ensemble Cognition : un cadre philosophique qui reconceptualise la pensée comme interaction humain–IA
@@ -127,8 +127,8 @@ La **Symbiose pédagogique** d'[[elsayed-pedagogical-symbiosis-posthuman-learner
 - [[genai-educational-outcomes-meta-analysis]]
 - [[elsayed-pedagogical-symbiosis-posthuman-learner]]
 - [[videla-embodied-ai-education-choreography]]
-- [[generative-ai-mediational-agent-sociocultural-2026]] — Generative AI as a Mediational Agent
-- [[kim-ai-productive-failure-adult-2026]] — Designing AI Systems to Support Productive-Failure-Based Learning
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pedagogical Steering of LLMs for Productive Failure
-- [[lukesova-clue-before-correction-2026]] — Clue Before Correction: ChatGPT for Autonomous Language Learning
+- [[generative-ai-mediational-agent-sociocultural-2026]] — L'IA générative comme agent médiationnel
+- [[kim-ai-productive-failure-adult-2026]] — Concevoir des systèmes d'IA pour soutenir un apprentissage fondé sur l'échec productif
+- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Le pilotage pédagogique des LLM pour l'échec productif
+- [[lukesova-clue-before-correction-2026]] — L'indice avant la correction : ChatGPT pour l'apprentissage autonome des langues
 - [[rachatasumrit-example-problem-ratio-2026]]

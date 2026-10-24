@@ -1,7 +1,7 @@
 ---
 title: "Comment apprendre aux étudiants à vérifier les productions de l'IA ?"
 created: "2026-09-22T19:10:56-04:00"
-updated: "2026-10-09T18:10:00-04:00"
+updated: "2026-10-24T10:43:33-04:00"
 weight: 65
 type: faq
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, critical-thinking]
@@ -9,7 +9,7 @@ ethics: [hallucination-risk, trust-calibration]
 research_method: [experiment, literature review, survey]
 audience: [instructors, instructional designers, learners]
 level: [higher ed, secondary]
-source_updated: "2026-10-02T08:21:34-04:00"
+source_updated: "2026-10-21T14:32:00-04:00"
 translation_of: faqs/verify-ai-output
 translation_note: "Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle."
 contributors: [editor]
@@ -25,8 +25,6 @@ ai_assist:
 ---
 
 *Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle.*
-
-# Comment apprendre aux étudiants à vérifier les productions de l'IA ?
 
 Vous les avez avertis. L'agent conversationnel n'est pas un moteur de recherche, vérifiez les sources, utilisez-le de façon responsable, et les mêmes citations fabriquées et réponses fausses mais assurées continuent d'arriver dans les travaux. Les avertissements échouent parce qu'ils demandent une disposition. Les étudiants prudents l'ont, les pressés ne l'ont pas, et il n'y a rien dans cette phrase sur quoi un étudiant puisse agir à 11 h du soir avec une production à l'écran qui se lit parfaitement bien.
 

@@ -1,7 +1,7 @@
 ---
 title: "Déclarations d'utilisation et de divulgation de l'IA"
 created: "2026-08-27T11:17:52-04:00"
-updated: "2026-10-10T02:07:53-04:00"
+updated: "2026-10-24T10:46:40-04:00"
 type: concept
 foundations: [academic-integrity]
 technology: [generative-ai]
@@ -12,7 +12,7 @@ level: [higher ed]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: concepts/ai-use-disclosure
-source_updated: "2026-10-04T16:22:53-04:00"
+source_updated: "2026-10-24T08:08:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -77,6 +77,7 @@ En passant en revue les recommandations sur l'IA générative des 50 université
 - **Rendre la divulgation formative, et pas seulement conforme.** Utiliser des consignes de réflexion et des déclarations structurées (modèle/entrée/évaluation) afin que la divulgation développe l'[[ai-literacy|littératie en IA]] et l'auto-régulation au lieu de fonctionner comme une surveillance.
 - **Former les enseignants à instaurer la confiance, plutôt qu'à s'appuyer sur la détection.** Une divulgation ne devrait jamais être suivie d'une accusation ; les enseignants devraient apprendre à mener des conversations qui instaurent la confiance, au lieu de s'appuyer sur des détecteurs d'IA peu fiables.
 - **Concevoir en tenant compte de l'équité.** Prêter attention aux différences de divulgation selon les disciplines, le statut linguistique et les origines des étudiants, et éviter les mécanismes qui font peser une charge inégale sur des apprenants déjà marginalisés.
+- **La divulgation va aussi dans l'autre sens.** Chaque page de ce corpus traite la divulgation comme une obligation de l'étudiant, et les enseignantes d'écriture interrogées par [[wu-lam-genai-writing-assessment-professors-2026|Wu et Lam (2026)]] en demandent le miroir : les étudiants devraient être informés du moment et de la manière dont un outil est utilisé pour évaluer leur travail, et leur consentement devrait être demandé avant que le travail ne soit téléversé. La même transparence qui rend l'usage étudiant lisible est celle qui rend la pratique d'évaluation d'une institution lisible pour l'étudiant.
 
 ## Connexions
 
@@ -105,13 +106,14 @@ L'usage et la divulgation de l'IA se situent à l'intersection de l'[[academic-i
 
 ## Articles liés
 
-- [[kirsanov-beyond-detection-ai-online-assessments-2026]] — Beyond detection: how students use and hide AI in online assessments
+- [[wu-lam-genai-writing-assessment-professors-2026]] — Le sens miroir : dire aux étudiants quand l'IA note leur travail, et demander leur accord avant de le téléverser
+- [[kirsanov-beyond-detection-ai-online-assessments-2026]] — Au-delà de la détection : comment les étudiants utilisent et dissimulent l'IA dans les évaluations en ligne
 - [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — Divulgation de l'IA par les étudiants, stigmatisation et apprentissage auto-régulé
 - [[vetter-hidden-cost-disclosure-genai-2026]] — Le coût caché de la divulgation : divulgation et accusations du corps enseignant
 - [[gonsalves-student-non-compliance-ai-declarations-2025]] — Non-conformité des étudiants aux déclarations d'usage de l'IA
 - [[teichmann-detecting-undetectable-misconduct-2026]] — Les déclarations comme éducation plutôt que comme détection
 - [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] — Le coût de l'honnêteté comme seuil de conception dans l'évaluation
-- [[student-perspectives-ai-writing-grading-2026]] — Who Should Grade My Work? Student Perspectives on Transparent AI-Assisted Writing Assessment in Higher Education
+- [[student-perspectives-ai-writing-grading-2026]] — Qui devrait noter mon travail ? Perspectives étudiantes sur une évaluation transparente de l'écriture assistée par l'IA dans l'enseignement supérieur
 - [[qian-governing-genai-higher-ed-policy-2026]] — La divulgation comme frontière entre assistance et fausse déclaration dans 50 universités américaines innovantes (Qian 2026)
 - [[gutowski-hurley-genai-policy-legal-education-2025]] — Absence de consensus sur la divulgation et la citation de l'IA dans les politiques des facultés de droit (Gutowski & Hurley 2025)
 - [[ai-written-admissions-essays-penalized-2026]] — Les dissertations de candidature rédigées par l'IA sont répandues mais pénalisées

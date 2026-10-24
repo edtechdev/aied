@@ -1,7 +1,7 @@
 ---
 title: Pédagogies et stratégies d'enseignement
 created: "2026-08-19T17:45:00-04:00"
-updated: "2026-10-10T03:24:46-04:00"
+updated: "2026-10-24T10:51:33-04:00"
 connected_faqs: [designing-ai-into-learning]
 type: concept
 foundations: [ai-education, learning-design]
@@ -9,7 +9,7 @@ pedagogy: [pedagogy]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/pedagogy
-source_updated: "2026-09-30T16:25:27-04:00"
+source_updated: "2026-10-16T08:47:09-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -80,6 +80,8 @@ Différentes stratégies pédagogiques produisent différents types et différen
 
 Le constat transversal essentiel, cohérent avec la recherche sur les [[learning-gains]] menée par la base de connaissances, est que **l'effet d'une stratégie sur l'apprentissage dépend davantage de la manière dont elle préserve l'effort de l'apprenant et la lutte productive que de l'étiquette qu'elle porte** — toute pédagogie, même une pédagogie « bonne », échoue si l'IA est configurée pour contourner le travail cognitif qu'elle était censée susciter (voir [[cognitive-offloading]], [[desirable-difficulties]]).
 
+Le rapport étudiant–[[student-ai-interaction|IA]] se lit mieux comme un processus mouvant de distribution cognitive que comme une dépendance fixe : sur 53 conversations ChatGPT issues d'un cours transdisciplinaire d'[[engineering-education|ingénierie]], l'extension (une co-pensée serrée et itérative) était le type d'interaction le plus fréquent, avec 53,3 % des 321 codes au niveau des invites, devant l'externalisation à 29,6 % ([[cognitive-distribution-student-genai-interaction-2026|Willcox, Lane & Arikan (2026)]]).
+
 Cet accent mis sur l'effort préservé n'est pas absolu : une conception [[mixed-methods-research|mixte]] en quatre études (N = 912) a constaté que le fait de cadrer l'IA générative comme un partenaire pédagogique activait à la fois une vigilance critique et un délestage stratégique, le délestage au-delà d'un seuil libérant des capacités pour la réflexion d'ordre supérieur plutôt qu'il ne l'érodeait ([[wang-zhang-pedagogical-partnerships-genai-2026|Wang et Zhang (2026)]]).
 
 ## Implications pour l'IA en éducation
@@ -91,7 +93,7 @@ Cet accent mis sur l'effort préservé n'est pas absolu : une conception [[mixed
 
 ## Concepts liés
 - [[pedagogical-partnerships]] — Pedagogical Partnerships
-- [[online-teaching-and-learning]] — Online Teaching and Learning
+- [[online-teaching-and-learning]] — Enseignement et apprentissage en ligne
 - [[learning-theories]]
 - [[learning-sciences]]
 - [[learning-gains]]
@@ -129,3 +131,4 @@ Cet accent mis sur l'effort préservé n'est pas absolu : une conception [[mixed
 - [[fowlin-operationalizing-learning-principles-ai]] — Opérationnaliser les principes de l'apprentissage avec l'IA
 - [[kibar-ilgaz-ai-instructional-design-review-2026]] — L'IA et la pratique de la conception pédagogique : une revue systématique (Kibar & Ilgaz 2026)
 - [[liu-ai-literacy-interventions-meta-analysis-2026]] — Les approches pédagogiques dans les interventions de littératie IA
+- [[cognitive-distribution-student-genai-interaction-2026]] — L'interaction étudiant-IA comme distribution cognitive mouvante, et non comme dépendance fixe (53,3 % d'extension)

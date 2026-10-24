@@ -1,7 +1,7 @@
 ---
 title: "L'ingénierie des invites"
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-10-10T03:05:31-04:00"
+updated: "2026-10-24T10:43:44-04:00"
 type: concept
 connected_faqs: [making-ai-better-at-supporting-learning, training-ai-tutors-to-guide-rather-than-answer]
 foundations: [ai-literacy]
@@ -12,7 +12,7 @@ level: [higher ed]
 confidence: high
 connected_resources: [edugems, matt-pocock-skills, pedagogical-promptbook, writing-rhetoric-studies-in-the-loop]
 translation_of: concepts/prompt-engineering
-source_updated: "2026-10-14T11:15:00-04:00"
+source_updated: "2026-10-16T20:19:49-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -50,6 +50,7 @@ L'ingénierie des invites est centrale pour un usage efficace de l'[[generative-
 - **La cognition liée à la formulation suit la discipline, pas l'étudiant.** [[student-ai-conversations-cognitive-engagement-2026|Chang et Li (2026)]] ont classé 60 087 invites issues de 116 cours et constaté que les profils de niveau de Bloom différaient selon la discipline — prévalence de l'application en STIM (20,8%), prévalence de la création en sciences sociales (33,8%) — la variance au niveau du cours excédant la variance au niveau de l'étudiant.
 - **La formulation comme littératie :** les recherches [[tracing-genai-literacy-interaction-patterns|Tracing GenAI literacy]] et [[aaai2026-prompting-literacy-k12|K-12 prompting literacy]] cadrent la formulation comme une composante centrale de l'[[ai-literacy|IA littératie]]
 - **Les novices se rabattent par défaut sur l'essai-erreur, et accusent le modèle.** Dans un séminaire de linguistique textuelle, dix novices en IA générative ont affiné leurs invites par essai-erreur, ont rarement recouru à des exemples en contexte, et ont très majoritairement attribué la médiocrité des sorties au grand modèle de langue plutôt qu'à leur propre formulation ([[llms-text-linguistics-teaching-2026|Brocca et Garassino (2026)]]).
+- **Des invites vagues laissent une trace dans le dialogue.** La signature du groupe de moindre qualité était une boucle d'éclaircissement qui se répétait (IC→IC, Z = 3.25), imputée à des invites vagues et à des contresens de l'IA, et portant l'écart de frustration le plus important de l'étude (2.12 contre 3.82) ; le débogage des invites sur des journaux authentiques la cible au moment où elle se produit ([[fang-human-ai-collaboration-patterns-instructional-design-2026|Fang et al. (2026)]]).
 
 - **Quand l'enseignant modélise l'invite, les étudiants la réutilisent mot pour mot.** Sur 310 invites enregistrées issues de douze groupes STEAM de collège, la copie exacte de la consigne de l'enseignant était la position la plus fréquente des étudiants à 47,1%, devant l'enquête spontanée à 28,7% ([[middle-school-genai-steam-interactions-2026|Zhao et Li (2026)]]).
 
@@ -131,3 +132,4 @@ L'ingénierie des invites se rattache au [[scaffolding|scaffolding]] — des inv
 
 - [[middle-school-genai-steam-interactions-2026]] — Les groupes STEAM de collège ont copié mot pour mot la consigne de l'enseignant dans 47,1% des invites
 - [[ecd-prompts-automated-essay-scoring-2026]] — Employer la conception centrée sur les données probantes pour guider l'ingénierie des invites dans la mesure : une illustration avec la notation automatisée de dissertations
+- [[fang-human-ai-collaboration-patterns-instructional-design-2026]] — Des invites vagues produisaient des boucles d'éclaircissement qui se répétaient, avec l'écart de frustration le plus important

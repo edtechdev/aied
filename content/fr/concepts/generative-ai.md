@@ -1,14 +1,14 @@
 ---
 title: L'IA générative
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-10T03:05:35-04:00"
+updated: "2026-10-24T10:38:23-04:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 technology: [intelligent-tutoring, llm, prompt-engineering, rag]
 ethics: [hallucination-risk]
 confidence: high
 translation_of: concepts/generative-ai
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-16T08:47:09-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -50,15 +50,19 @@ Un recensement de l'usage des outils par les éducateurs montre une attention co
 
 ### La couverture de l'IA générative dans la base de connaissances
 
-Avec plus de 80 articles, l'IA générative constitue le fil technologique le plus important de la base de connaissances. La recherche couvre les études d'efficacité (des [[genai-meta-analysis-programming-learning|méta-analyses]]), les préoccupations de sécurité ([[hazra-safetutors-pedagogical-safety-2026|préjudices des tuteurs]], [[eduguard-safe-rag-llm-tutor|garde-fous]]) et les principes de conception ([[instructional-guidance-genai-learning|l'accompagnement pédagogique]]).
+Avec plus de 80 articles, l'IA générative constitue le fil technologique le plus important de la base de connaissances. Sur ses 394 études, ChatGPT sans version précisée apparaissait dans 94, la famille ChatGPT-3/3.5 dans 66 et la famille ChatGPT-4 dans 52, si bien que nombre des capacités rapportées décrivent des générations de modèles depuis dépassées ([[mapping-genai-higher-ed-scoping-review|Lin et al. (2026)]]). La recherche couvre les études d'efficacité (des [[genai-meta-analysis-programming-learning|méta-analyses]]), les préoccupations de sécurité ([[hazra-safetutors-pedagogical-safety-2026|préjudices des tuteurs]], [[eduguard-safe-rag-llm-tutor|garde-fous]]) et les principes de conception ([[instructional-guidance-genai-learning|l'accompagnement pédagogique]]).
 
 Regroupées sur 53 études, les pratiques éducatives assistées par l'IAG ont surpassé les approches sans IAG sur la réussite (g = 0.40), la pensée d'ordre supérieur (g = 0.72), la motivation (g = 0.81) et l'écriture (g = 0.76), bien que l'IAG assistée par le jeu n'ait apporté aucun bénéfice significatif (g = 0.24) ([[genai-educational-outcomes-meta-analysis|Dong (2026)]]).
+
+Une méta-analyse à trois niveaux portant sur 22 études constate que l'apprentissage par problèmes et par [[project-based-learning|projets]] soutenu par l'IAG produit un effet regroupé important sur les résultats internes à l'apprenant (g = 0.819), qu'une correction PET-PEESE ramène toutefois à g = 0.378 ; l'enchâssement comptait aussi, les agents conversationnels génériques se regroupant à g = 0.970 contre g = 0.455 pour les systèmes personnalisés ou fondés sur une API ([[chen-pbl-pjbl-genai-meta-analysis-2026|Chen (2026)]]).
 
 Une méta-analyse distincte portant sur 42 études consacrées à la seule motivation situe l'effet regroupé plus bas (g = 0.764) et rapporte un intervalle de prédiction à 95% s'étendant de [−0.689, 2.217], si bien que l'avantage motivationnel n'est pas de manière fiable positif dans un nouveau contexte ([[genai-learning-motivation-meta-analysis-2026|Fang et al. (2026)]]).
 
 L'interface utilisateur générative est la capacité la plus récente de ce fil : des modèles qui produisent un artefact interactif fonctionnel — curseurs, simulations manipulables — plutôt que de la prose. [[generative-ui-education-learning-interactives-2026|Kovshov et al. (2026)]], une équipe de Google Research, rapportent que l'interface utilisateur générative disponible sur étagère n'est pas encore assez précise sur le plan pédagogique pour des construits complexes, mais que décomposer un objectif d'apprentissage en niveaux progressifs et envelopper la génération dans des boucles de critique et d'auto-amélioration produit des objets interactifs que des enseignants experts jugent acceptables. La leur est une conception orchestrée : les enseignants énoncent les objectifs, les approuvent et choisissent parmi les simulations candidates, de sorte que la contrainte déterminante pour la production de [[simulation|supports d'apprentissage interactifs]] sur mesure se déplace de la production vers la spécification, et que les [[guardrails|garde-fous pédagogiques]] sont intégrés au pipeline de génération plutôt que laissés à la vigilance de l'enseignant après coup.
 
 Au-delà de ces fils centraux, des travaux récents étendent la base de preuves aux contextes [[governance|institutionnels]], interactionnels et disciplinaires. Qin (2026) documente la manière dont l'université Lingnan a institutionnalisé la littératie en IA générative pour l'ensemble des étudiants de premier cycle dans le cadre d'une transformation numérique en arts libéraux. Chang et Li (2026) montrent que les conversations étudiants-IA encodent l'[[student-engagement|engagement]] cognitif associé à la discipline, environ 62% des consignes reflétant une demande cognitive d'ordre supérieur. Neto et ses collègues (2026) [[meta-analysis-systematic-review|passent systématiquement en revue]] l'IAG dans l'enseignement aux soins de santé par scénarios, et constatent que la [[prompt-engineering|conception des consignes]] fonctionne comme une spécification pédagogique mais qu'elle est rarement alignée sur des cadres pédagogiques (34.8%) ou rapportée de manière reproductible (34.8%). L'IAG alimente aussi des simulations de jeux de rôle d'apprenants pour la [[teacher-education|formation des enseignants]] fondée sur la pratique : [[zhuang-zhang-chatgpt-math-teacher-education-2026|Zhuang and Zhang (2025)]] ont construit *Student GPT*, un chatbot ChatGPT personnalisé simulant un élève de [[k-12|collège]] porteur d'[[misconceptions|idées fausses]] courantes en matière de raisonnement sur les rapports, offrant aux enseignants de mathématiques en formation initiale une pratique abordable et propre au contenu du diagnostic de la pensée des étudiants — la preuve que la conception des consignes (une consigne fondée sur la littérature suscitait de manière fiable les erreurs conceptuelles visées, 0.98 contre 0.40) peut orienter un modèle génératif disponible sur étagère vers un persona pédagogique utile.
+
+Une étude de cas de développement professionnel en mathématiques guidée par l'IAG, portant sur huit enseignants en exercice de districts ruraux et mal dotés, a amené [[bicer-genai-pd-math-creativity-2026|Bicer et al. (2026)]] à engager la [[creativity|créativité]] mathématique, les connaissances disciplinaires et les connaissances pédagogiques disciplinaires comme un raisonnement interconnecté sur dix modules, en attribuant ces effets au retrait progressif de l'étayage et à la simulation du raisonnement des élèves ; ils rapportent des schémas d'engagement, non des gains mesurables.
 
 Une [[li-language-educators-genai-review-2026|revue systématique portant sur les enseignants de langues]] (Li et al. 2026) constate que les éducateurs valorisent le plus l'IAG pour les travaux de préparation de contenus — planification des cours, création de supports et appui à l'écriture — tout en hésitant sur l'usage en classe, avec des préoccupations centrées sur l'[[academic-integrity|intégrité académique]] (plagiat et [[assessment-validity|validité de l'évaluation]]), le déplacement professionnel et le technostress ; l'adoption est façonnée par des facteurs d'identité professionnelle, pédagogiques, techniques, institutionnels et d'intégrité, et les écarts de compétences se répartissent selon l'episteme, la techne et la phronesis.
 
@@ -108,3 +112,5 @@ Une revue systématique interdisciplinaire de 2026 (Dabaghi, D'Urso & Sciarrone,
 - [[falahat-chatgpt-grading-pharmacy-exams-2026]]
 - [[olvet-genai-scoring-open-ended-medical-2026]]
 - [[bloom-classifier-ai-assisted-questions-2026]] — Évaluation de modèles pré-entraînés pour l'évaluation pédagogique de nouvelles questions éducatives assistées par l'IA
+- [[bicer-genai-pd-math-creativity-2026]] — Une étude de cas de développement professionnel en mathématiques guidée par l'IAG avec huit enseignants en exercice de zones rurales
+- [[chen-pbl-pjbl-genai-meta-analysis-2026]] — Un g regroupé de 0.819 ramené à 0.378 par PET-PEESE ; les outils personnalisés (0.455) sous-performent face aux agents conversationnels (0.970)

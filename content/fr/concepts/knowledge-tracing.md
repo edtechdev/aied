@@ -1,7 +1,7 @@
 ---
 title: "Traçage des connaissances"
 created: "2026-06-23T10:44:35-04:00"
-updated: "2026-10-10T03:41:06-04:00"
+updated: "2026-10-24T10:45:59-04:00"
 type: concept
 connected_faqs: [making-simulated-students-behave-like-learners]
 technology: [adaptive-learning, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, personalized-learning, student-modeling]
@@ -72,7 +72,7 @@ Le traçage des connaissances est étroitement lié à la [[student-modeling|mod
 
 ## Concepts liés
 
-- [[learners]] — Learners: the umbrella for the learner-side concepts
+- [[learners]] — Apprenants : le concept parapluie pour les notions du côté de l'apprenant
 - [[student-modeling]]
 - [[knowledge-graph]]
 - [[adaptive-learning]]
@@ -88,21 +88,21 @@ Le traçage des connaissances est étroitement lié à la [[student-modeling|mod
 - [[llm]]
 - [[simulating-students]]
 - [[recommender-systems-and-learning-paths]]
-- [[student-support-and-success]] — fine-grained mastery estimation feeding support decisions
+- [[student-support-and-success]] — une estimation fine de la maîtrise qui alimente les décisions de soutien
 
 ## Articles liés
 
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — Deceptive overgeneralization: adaptive mastery can stop practice before learners know when to withhold an action (An, McLaren & Stamper 2026)
+- [[deceptive-overgeneralization-adaptive-learning-2026]] — Surgénéralisation trompeuse : l'adaptation fondée sur la maîtrise peut interrompre la pratique avant que les apprenants ne sachent quand s'abstenir d'agir (An, McLaren & Stamper 2026)
 - [[huang-interpretable-knowledge-tracing-2026]]
 - [[thymen-temporal-hypergraph-knowledge-tracing-2026]]
 - [[skill-acquisition-without-temporal-info]]
 - [[xie-hillm-cd-2026]]
 - [[zerkouk-comprehensive-review-its-2025]]
-- [[graph-its-adaptive-algorithms-2026]] — Graph-Based Intelligent Tutoring for Dynamic Domains (2026)
-- [[pradeesh-outcome-knowledge-tracing-affinity-2026]] — Outcome-based knowledge tracing with affinity mapping
+- [[graph-its-adaptive-algorithms-2026]] — Tutorat intelligent fondé sur des graphes pour des domaines dynamiques (2026)
+- [[pradeesh-outcome-knowledge-tracing-affinity-2026]] — Traçage des connaissances fondé sur les résultats, avec cartographie d'affinité
 - [[schuetze-knowledge-tracing-forgetting-2026]]
-- [[exrec-exercise-recommendation-knowledge-tracing-2025]] — semantically grounded tracing with KC-calibrated states, used as an RL environment for recommendation
-- [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn: An Agentic Tutor that Learns its Learner in a Human-AI Co-Learning Loop
+- [[exrec-exercise-recommendation-knowledge-tracing-2025]] — un traçage ancré sémantiquement, avec des états calibrés sur les composantes de connaissance, utilisé comme environnement d'apprentissage par renforcement pour la recommandation
+- [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn : un tuteur agentique qui apprend son apprenant dans une boucle de co-apprentissage humain-IA
 - [[crediting-assisted-work-inflates-mastery-2026]] — Which evidence rule decides a mastery claim (Srivastava 2026)
-- [[system-one-llm-knowledge-tracing-2026]] — A single-pass LLM traces knowledge above deep models trained on 8 learners, at a fraction of the cost (Lee & Park 2026)
+- [[system-one-llm-knowledge-tracing-2026]] — Un LLM à passe unique trace les connaissances mieux que des modèles profonds entraînés sur 8 apprenants, pour une fraction du coût (Lee & Park 2026)
 - [[knowledge-tracing-compression-math-2026]] — Compressing student history in mathematics knowledge tracing

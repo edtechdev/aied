@@ -1,7 +1,7 @@
 ---
 title: Apprentissage personnalisé
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-10-10T03:05:30-04:00"
+updated: "2026-10-24T10:37:47-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [scaffolding]
@@ -122,12 +122,12 @@ Un problème récurrent est que l'« apprentissage personnalisé » est un terme
 - [[generative-ai]] — Personnalisation conversationnelle fondée sur les LLM
 - [[edtech-platform]] — Plateformes qui dispensent l'apprentissage personnalisé à grande échelle
 - [[higher-ed]] — Contexte d'enseignement supérieur pour la personnalisation
-- [[online-teaching-and-learning]] — Online Teaching and Learning
+- [[online-teaching-and-learning]] — Enseignement et apprentissage en ligne
 - [[recommender-systems-and-learning-paths]]
 ## Articles liés
 - [[bespoke-industry-personalized-lecture-videos-2026]] — Régénération de vidéos de cours personnalisées par industrie à partir d'une transcription source : adaptation au niveau de l'audience, notée par des experts du domaine (Puech et al. 2026)
 - [[prompt-engineering-personalization-ai-teaching-assistant-2026]] — Micro-personnalisation par ingénierie d'invites d'un assistant d'enseignement IA (Basu, Kakar & Goel 2026)
-- [[turano-ai-tutoring-not-a-monolith-2026]] — AI Tutoring is Not a Monolith: What We Actually Know (note du Stanford SCALE/NSSA)
+- [[turano-ai-tutoring-not-a-monolith-2026]] — Le tutorat par IA n'est pas monolithique : ce que nous savons réellement (note du Stanford SCALE/NSSA)
 - [[mishra-control-vs-agency-history-2025]] — Distingue deux formes de personnalisation (résultats uniformes contre diversifiés)
 - [[khalifeh-redefining-personalized-learning-ai-2026]] — Redefining personalized learning : revue systématique
 - [[deeptutor]] — Socle de personnalisation natif pour agents appliqué au tutorat
@@ -136,11 +136,11 @@ Un problème récurrent est que l'« apprentissage personnalisé » est un terme
 - [[ai-coaching-rl-skill-development]] — Encadrement par apprentissage par renforcement pour le développement de compétences
 - [[personalized-ai-generated-videos-preference-2026]] — Les étudiants préfèrent les vidéos personnalisées générées par IA aux vidéos humaines non personnalisées (Tomlinson et al. 2026)
 - [[bayesian-cognitive-diagnosis-personalized-learning-paths]] — Diagnostic cognitif bayésien pour des parcours d'apprentissage personnalisés
-- [[graph-its-adaptive-algorithms-2026]] — Graph-Based Intelligent Tutoring for Dynamic Domains (2026)
+- [[graph-its-adaptive-algorithms-2026]] — Tutorat intelligent fondé sur des graphes pour des domaines dynamiques (2026)
 - [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — Rôles de l'enseignant et de l'IA dans l'évaluation formative augmentée par ChatGPT
 - [[marked-pedagogies-linguistic-bias-writing-feedback]] — Marked Pedagogies : biais dans les retours automatisés personnalisés
 - [[alsheikh-mapping-ai-integration-higher-education-2026]] — Revue systématique : les parcours adaptatifs et les systèmes de recommandation sont un cas d'usage majeur d'intégration de l'IA dans l'enseignement supérieur
 - [[riedmann-reinforcement-learning-education-review-2026]]
-- [[student-reception-genai-analogies-computing-2026]] — Flawed but Memorable: Student Critical Reception of Interest-Personalized GenAI Analogies in Computing Education
+- [[student-reception-genai-analogies-computing-2026]] — Imparfaites mais mémorables : réception critique par les étudiants des analogies de GenAI personnalisées selon les intérêts en enseignement de l'informatique
 - [[personalization-paradox-adaptive-learning-emotions-2026]] — Paradoxe de la personnalisation : la personnalisation adaptative perçue est liée à un apprentissage autorégulé plus faible via les émotions académiques, amorti par la littératie en IA (Li, Lin & Qiu 2026)
 - [[personapath-personalized-learning-paths-2026]] — PersonaPath : les planificateurs LLM atteignent 90,9 % de validité mais aucun modèle ne dépasse 44,7 % d'adaptativité dans la personnalisation de parcours vers un objectif d'apprenant énoncé (Liu et al. 2026)

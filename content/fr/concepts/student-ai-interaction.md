@@ -1,7 +1,7 @@
 ---
 title: "L'interaction élève-IA"
 created: "2026-08-20T02:55:00-04:00"
-updated: "2026-10-10T03:24:45-04:00"
+updated: "2026-10-24T10:37:22-04:00"
 type: concept
 foundations: [cognitive-offloading]
 pedagogy: [student-ai-interaction]
@@ -10,7 +10,7 @@ audience: [learners]
 level: [higher ed]
 confidence: high
 translation_of: concepts/student-ai-interaction
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-23T09:49:58-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -79,6 +79,7 @@ Le non-usage est lui-même un schéma d'interaction que la [[pedagogy|pédagogie
 ## La discipline et l'engagement cognitif dans la conversation élève-IA
 
 - **Engagement cognitif associé à la discipline dans la conversation élève-IA.** Chang et Li (2026) analysent les invites des élèves à l'IA dans 116 cours selon un devis intra-personne et interdisciplinaire, montrant que les conversations élève-IA traduisent un engagement cognitif **associé à la discipline** plutôt que des styles d'interaction individuels fixes. Environ 62% des invites encodaient une demande cognitive d'ordre supérieur dans l'ensemble, mais les profils selon les niveaux de Bloom différaient fortement par discipline : les cours de [[stem-education|STIM]] suscitaient des invites à prédominance « Appliquer » (20.8%), les cours de langue à prédominance « Comprendre » (31.7%), et les cours de sciences sociales à prédominance « Créer » (33.8%). Des comparaisons appariées intra-personne ont confirmé que les mêmes étudiants produisaient significativement plus d'invites d'ordre supérieur dans les cours de sciences sociales que dans les cours de STIM (n groupé = 16, p < .001), et la variation au niveau du cours excédait la variation au niveau de l'étudiant — un argument fort pour que les assistants d'enseignement par IA soient conçus et évalués en tenant compte du contexte disciplinaire.
+- **L'intensité de l'usage de l'IA par les étudiants ne prédisait pas ce qu'ils en ressentaient.** Parmi 819 étudiants, le genre, l'expertise en IA auto-évaluée et la fréquence d'usage n'atteignaient tous pas le seuil de signification dans une MANOVA (Lambda de Wilks 0.997, p = 0.551 ; 0.990, p = 0.295). Les utilisateurs intensifs et occasionnels de cet échantillon partageaient les mêmes opinions ([[ai-chatbots-emotional-support-human-connection-2025|Al-Zahrani (2025)]]).
 
 ## Concepts liés
 - [[learners]] — Les apprenants : le parapluie des concepts du côté de l'apprenant
@@ -95,10 +96,11 @@ Le non-usage est lui-même un schéma d'interaction que la [[pedagogy|pédagogie
 - [[ai-literacy]]
 
 ## Articles liés
+- [[ai-chatbots-emotional-support-human-connection-2025]] — La fréquence d'usage et l'expertise auto-évaluée ne prédisaient rien chez 819 étudiants
 - [[yan-cognitive-outsourcing-genai-assessments-2026]] — Délégation cognitive contre réallocation cognitive dans les évaluations élève-IA générative sans surveillance (Yan et al. 2026)
 - [[zou-is-this-a-trap-student-teachers-genai-2026]] — « Is this a trap? » : le non-adoption de l'IA générative dans les évaluations par les étudiants en enseignement (Zou et al. 2026)
 - [[tutortrace-learner-behavioral-states-2026]]
-- [[student-ai-inquiry-types-cs2-2026]] — Analysis of Types of Inquiries in Student-AI Interaction
+- [[student-ai-inquiry-types-cs2-2026]] — Analyse des types de questions dans l'interaction élève-IA
 - [[student-llm-interaction-taxonomy-review-2026]] — Student-LLM Interaction Taxonomy Review
 - [[teacher-authored-prompts-student-ai-dialogue]] — Teacher-Authored Prompts in Student-AI Dialogue
 - [[constructing-epistemic-ai-literacy-student-ai-co-programming]] — Constructing Epistemic AI Literacy
@@ -108,8 +110,8 @@ Le non-usage est lui-même un schéma d'interaction que la [[pedagogy|pédagogie
 - [[breideband-community-builder-cobi-2026]]
 - [[oppenheimer-llms-collaborative-learning-partners-2026]]
 - [[vahedian-children-attitudes-ai-chatbot-2026]]
-- [[student-reception-genai-analogies-computing-2026]] — Flawed but Memorable: Student Critical Reception of Interest-Personalized GenAI Analogies in Computing Education
-- [[naim-bypass-offload-scaffold-llm-learning-2026]] — Bypass, Offload, or Scaffold: A Conceptual Model of How Large Language Models Shape Learning
-- [[ai-tutor-modality-randomized-field-experiment-2026]] — When AI Tutors Speak: Evidence from a Randomized Field Experiment
+- [[student-reception-genai-analogies-computing-2026]] — Imparfaites mais mémorables : la réception critique par les étudiants des analogies d'IA générative personnalisées selon les intérêts en enseignement de l'informatique
+- [[naim-bypass-offload-scaffold-llm-learning-2026]] — Contourner, déléguer ou étayer : un modèle conceptuel de la manière dont les grands modèles de langue façonnent l'apprentissage
+- [[ai-tutor-modality-randomized-field-experiment-2026]] — Quand les tuteurs d'IA parlent : données probantes d'une expérience de terrain randomisée
 - [[context-prompts-physics-assignments-2026]] — Devoirs de physique générés par l'IA à l'aide d'invites contextuelles
 - [[three-pathways-student-ai-interaction-2026]] — Typologie Three Pathways de l'interaction élève-IA : 46% Passive Review, 18% Direct Question, 36% Strategic Dialogue

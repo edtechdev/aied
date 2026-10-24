@@ -1,14 +1,14 @@
 ---
 title: "L'enseignement des sciences"
 created: "2026-08-29T12:55:12-04:00"
-updated: "2026-10-10T03:24:45-04:00"
+updated: "2026-10-24T10:43:42-04:00"
 type: concept
 pedagogy: [inquiry-based-learning]
 technology: [generative-ai]
 discipline: [science education, stem education]
 confidence: medium
 translation_of: concepts/science-education
-source_updated: "2026-10-05T10:25:44-04:00"
+source_updated: "2026-10-23T22:38:41-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -37,6 +37,8 @@ L'enseignement des sciences est le lieu où la promesse de l'IA et ses limites s
 
 Une évaluation randomisée de quatre semaines d'une plateforme de révision par IA en sciences au niveau GCSE donne à ce tableau une estimation causale — g de Hedges = 0.33, sans preuve que l'effet diffère selon la matière ou le désavantage — mesurée contre un contre-faituel déjà riche en technologies, si bien que ce chiffre représente une valeur ajoutée et non l'IA opposée à rien ([[ai-tutoring-micro-rct-gcse-science-2026|Harrison et al. (2026)]]).
 
+C'est l'accès structuré, et non l'accès en soi, qui produit le gain : la progression rapportée par les équipes a atteint en moyenne 17% en accès individuel illimité, mais 34% et 31% lorsque l'accès était structuré, ce qui a également préservé davantage de discussions entre pairs ([[ai-university-physics-education-review-2026|Malikova et al., 2026]]).
+
 Ces constats au niveau de la classe s'inscrivent dans une question méthodologique plus vaste. [[ai-methodologies-science-education-research-2026|Martin, Rost, Koenen et Graulich (2026)]] soutiennent que la recherche en enseignement des sciences traverse peut-être actuellement une itération épistémique, en s'appuyant sur le récit par Hasok Chang (2004) d'étapes successives de connaissance qui se construisent de façon itérative vers des objectifs épistémiques spécifiques. Dans leur lecture, les méthodologies d'IA pourraient transformer non seulement la manière dont le champ analyse l'apprentissage des élèves, mais aussi les objectifs, critères et pratiques épistémiques qu'il privilégie. Ils proposent un cadre réflexif en sept phases (cadrage du problème ; instrumentation et mesure ; expérimentation et inférence fondée sur les preuves ; comparaisons et réplication ; construction de normes et de consensus ; mise en œuvre et ses conséquences ; et raffinement continu), illustré par le développement de la thermométrie sur environ 150 ans, et le présentent comme un instrument réflexif plutôt que comme une méthode validée ou un constat empirique.
 
 ### Laboratoires virtuels et simulations
@@ -46,6 +48,8 @@ L'IA abaisse considérablement la barrière à la création d'instrumentation sc
 ### Tuteurs IA et apprentissage par investigation
 
 L'apprentissage par investigation est un thème central. La [[meta-analysis-systematic-review|revue systématique]] de [[jiang-chatgpt-inquiry-steam-review-2026|Jiang et al.]] portant sur 24 études positionne ChatGPT comme un « co-chercheur alimenté par l'IA » (AI-powered co-inquirer) utilisé principalement dans les phases de conceptualisation, d'investigation et de discussion de la [[inquiry-based-learning|démarche d'investigation STIM]], améliorant la performance, la [[critical-thinking|pensée critique]] et l'engagement — tout en comportant des risques de dépendance excessive, d'hallucination et de conclusions superficielles lorsque les productions sont traitées comme faisant autorité. [[ai-supported-inquiry-photosynthesis-respiration-2026|Aydın]] a constaté que huit semaines de démarche d'investigation guidée assistée par IA ont produit d'importants gains dans la compréhension conceptuelle de la photosynthèse et de la respiration chez des enseignants en formation initiale, alors que la [[ai-literacy|littératie en IA]] et la [[computational-thinking|pensée computationnelle]] n'ont montré aucun changement significatif — ce qui suggère que l'apprentissage disciplinaire peut progresser même lorsque des compétences plus larges exigent un enseignement plus long ou plus explicite. [[embodied-inquiry-ai-facilitator-physics-2026|Tufino & Damiani]] montrent que l'IA peut étayer le cœur épistémique de la démarche d'investigation ISLE tout en restant confinée au canal verbal, mais ont trouvé la facilitation fragile : sous la pression des élèves, l'IA a « inventé » des valeurs de masse que personne n'avait mesurées, soulignant le [[hallucination-risk|risque d'hallucination]] et la nécessité de vérifier plutôt que de présumer la fidélité de l'IA. [[airis-cognitively-activated-ai-physics-2026|Kuhn et al.]] proposent le cadre AIRIS (Activate–Inquire–Reflect) pour garder la prédiction, l'interprétation et l'évaluation comme des tâches humaines non délégables, et appellent à des expériences en « condition de retrait » (withdrawal condition) testant si l'apprentissage survit au retrait de l'IA — une réponse directe au « problème de la grenouille qui bout » (boiling frog problem) que constitue l'érosion de la pratique épistémique. Le jugement d'experts sur des plans de cours générés par l'IA étend cette leçon de conception aux sciences alignées sur le [[curriculum-design|programme]] : [[karaismailoglu-ai-lesson-plans-science-experts-2026|Karaismailoglu, Surmeli et Yildirim (2026)]] ont demandé à onze spécialistes turcs de l'enseignement des sciences d'évaluer ChatGPT-4 et un outil centré sur l'éducation (Teacher's Buddy) sur des plans de sixième pour une unité « Sustainable Living and Biodiversity » alignée sur le modèle Engineering [[design-based-research|fondée sur la conception]] Learning (EDBL). Les deux plateformes ont obtenu les meilleurs scores sur « Presenting the solution » mais les plus faibles sur les Engineering Skills (outil généraliste x̄ = 37.45 ; outil centré sur l'éducation x̄ = 41.45) — une faiblesse commune dans la simulation des étapes itératives et processuelles (prototypage, analyse des échecs, révision, nouveau test réflexif) qui définissent l'apprentissage fondé sur la conception — et seulement 3 des 11 experts ont jugé l'un ou l'autre plan directement « Applicable », 7 les notant « Can be applied by correction ».
+
+Pour isoler la contribution de l'IA dans une étude socio-scientifique sur le climat à trois groupes, les élèves dont la démarche d'investigation structurée incluait un partenaire IA ont devancé leurs pairs en démarche d'investigation seule sur la prise de décision (d = 0.69), les gains les plus importants portant sur le suivi et la gestion adaptative, tandis que la collecte de données s'améliorait autant dans toutes les conditions ([[ai-assisted-inquiry-ssi-climate|Gousopoulos (2026)]]).
 
 Un examen conceptuel fonde théoriquement le canal matériel : la science est un système ouvert qui réexamine les affirmations au regard des preuves physiques, tandis qu'un modèle de langue est opérationnellement fermé aux preuves au moment de l'inférence ([[nature-of-science-generative-ai-2026|Muminova & Mamatkulov, 2026]]).
 
@@ -63,6 +67,10 @@ La préparation des enseignants est décisive. [[pre-service-science-teachers-ai
 
 [[llm-benchmark-secondary-science-topics-2026|Schroeder et al. (2026)]] se demandent dans quelle mesure les modèles généraux traitent le contenu scientifique lui-même : sur des ensembles d'items alignés sur les normes NGSS pour le collège (1,078 items) et le lycée (1,150 items), neuf modèles à poids ouverts ont pour la plupart dépassé les 90%, la taille du modèle n'étant pas liée à l'exactitude, et un enseignant de sciences a jugé 236 items sur 240 échantillonnés (98.3%) alignés tout en signalant l'absence de schémas, d'interprétation de données et de représentation mathématique — les items purement textuels ne peuvent exercer toutes les attentes de performance des NGSS. La difficulté élevée des items et leur faible pouvoir discriminant laissent ouverte la question de savoir si ce sont les items qui doivent être améliorés ou si l'enseignement des sciences au secondaire est devenu accessible pour cette classe de modèles, et les auteurs considèrent la rétroaction multitour fondée sur les preuves comme la norme manquante.
 
+Dans une méta-analyse de 42 études sur l'IA générative et la motivation, le plus faible effet par domaine disciplinaire se situe en sciences (g = 0.109, IC à 95% [−0.107, 0.325], k = 3), le seul domaine dont l'intervalle traverse zéro, si bien que les données regroupées n'étayent pas un argumentaire [[motivation|motivationnel]] en faveur de l'IA générative spécifiquement en sciences ([[genai-learning-motivation-meta-analysis-2026|Fang et al. (2026)]]).
+
+En tant que cadre plutôt qu'étude, [[zhai-science-literacy-generative-ai-coherence-2026|Zhai et al. (2026)]] redéfinissent la cible : la vision I de la littératie scientifique pour la compétence dans les carrières scientifiques, la vision II pour la science dans la vie quotidienne et citoyenne, et la vision III pour la connaissance et l'action à l'échelle communautaire et sociétale. Ils soutiennent que l'[[generative-ai|IA générative]] mérite sa place dans les classes de sciences seulement lorsqu'elle fait converger programme, enseignement et évaluation avec l'une de ces visions, et que le problème persistant du champ tient aux épreuves qui récompensent le rappel de terminologie alors que les normes exigent explication et investigation.
+
 ## Concepts liés
 
 - [[stem-education]]
@@ -75,6 +83,8 @@ La préparation des enseignants est décisive. [[pre-service-science-teachers-ai
 - [[generative-ai]]
 
 ## Articles liés
+
+- [[zhai-science-literacy-generative-ai-coherence-2026]] — Chapitre de cadrage sur la littératie scientifique comme cohérence entre programme, enseignement et évaluation (Zhai et al. 2026)
 
 - [[ai-methodologies-science-education-research-2026]] — Cadre en sept phases d'itération épistémique pour réfléchir à la manière dont les méthodologies d'IA peuvent transformer la recherche en enseignement des sciences (Martin et al., 2026)
 - [[ai-science-chemistry-education-systematic-review-2025]] — Revue systématique de l'IA dans l'enseignement des sciences et de la chimie
@@ -89,6 +99,8 @@ La préparation des enseignants est décisive. [[pre-service-science-teachers-ai
 - [[an-goel-self-directed-modeling-2026]]
 - [[cvengros-grading-handwritten-chemistry-ai-2026]]
 - [[karaismailoglu-ai-lesson-plans-science-experts-2026]]
-- [[ai-tutoring-micro-rct-gcse-science-2026]] — Evaluating AI Tutoring at the Speed of Innovation: Practitioner-Led Micro-Randomized Trials of an AI Tutoring Platform in GCSE Science
-- [[llm-benchmark-secondary-science-topics-2026]] — A Benchmark for LLM's Understanding of Middle School and High School Science Topics
-- [[nature-of-science-generative-ai-2026]] — The nature of science in the age of generative artificial intelligence: Epistemic authority, materiality, and a synergetic response
+- [[ai-tutoring-micro-rct-gcse-science-2026]] — Évaluer le tutorat par IA au rythme de l'innovation : essais randomisés micro et menés par les praticiens d'une plateforme de tutorat par IA en sciences au GCSE
+- [[llm-benchmark-secondary-science-topics-2026]] — Un benchmark pour la compréhension par les LLM des contenus scientifiques du collège et du lycée
+- [[nature-of-science-generative-ai-2026]] — La nature de la science à l'ère de l'intelligence artificielle générative : autorité épistémique, matérialité et réponse synergique
+- [[ai-university-physics-education-review-2026]] — L'accès structuré en équipe surpasse l'accès individuel illimité dans une revue sur l'IA en physique universitaire
+- [[genai-learning-motivation-meta-analysis-2026]] — Le seul domaine dont l'intervalle motivationnel traverse zéro (g = 0.109, k = 3)

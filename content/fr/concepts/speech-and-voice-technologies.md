@@ -1,7 +1,7 @@
 ---
 title: "Les technologies de la parole et de la voix"
 created: "2026-09-16T14:29:36-04:00"
-updated: "2026-10-10T03:24:45-04:00"
+updated: "2026-10-24T10:39:45-04:00"
 type: concept
 technology: [generative-ai, multimodal]
 assessment: [assessment]
@@ -11,7 +11,7 @@ audience: [instructors, learners, researchers, instructional designers]
 level: [k 12, higher ed, adult learning]
 discipline: [language learning]
 translation_of: concepts/speech-and-voice-technologies
-source_updated: "2026-09-28T21:37:06-04:00"
+source_updated: "2026-10-23T09:14:19-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -50,6 +50,8 @@ La rétroaction automatisée sur la prononciation peut aussi être construite sa
 
 L'ASR sert aussi la classe dans un second rôle — convertir la parole en texte que les apprenants lisent. [[ai-mediated-input-medical-english-asr-2026|Stanchev (2026)]] a produit un passage de manuel d'anglais médical de 2,692 mots sur les protéines avec une seule voix de synthèse vocale (15:27, locutrice canadienne), puis a soumis l'audio identique à quatre services d'ASR en ligne, avant de mesurer à la fois le taux d'erreur par mot (WER) et la **couverture** (coverage : les mots restitués en part de la référence). Les deux services gratuits ont restitué des transcriptions quasi complètes (87.96% et 88.34% de couverture, WER de 15.23% et 15.00%), tandis que les deux services payants n'exportaient que des aperçus (32.76% et 55.35% de couverture, WER de 73.21% et 48.77%). Le point de mesure est que le WER seul confond le texte indisponible avec le texte inexact et classerait une restriction d'exportation comme un échec de transcription, si bien que la couverture doit figurer à côté du taux d'erreur. Les omissions dominaient dans chaque service et se concentraient sur des marqueurs structurels comme les renvois de figures et les numéros de page, mais une poignée de substitutions altérant le sens — imino → amino, cystine → cysteine, protonated → protonatid, pH → phase — inversaient chacune un fait biochimique, ce pourquoi les auteurs proposent un flux de travail en trois étapes (générer l'entrée, exporter la transcription complète, vérifier la terminologie du domaine) avant qu'une transcription n'atteigne les apprenants, et pourquoi une passe terminologique est la garde-fou la moins coûteuse pour l'anglais médical.
 
+Les gains d'exactitude semblent tenir à des systèmes conçus à cette fin plutôt qu'au canal parlé lui-même. Sur dix études, seuls les chatbots conçus pour l'apprentissage des langues, Andy English bot et Xiaoying, amélioraient l'exactitude, avec une baisse d'erreur de 14% dans un groupe témoin contre 38% dans le groupe de traitement ([[chatbots-oral-proficiency-efl-systematic-review|Soriano-Gonzalez & Belda-Medina (2026)]]). La même revue documente des défaillances de l'ASR sur la parole accentuée et sur les noms non anglophones, dont un bot incapable de reconnaître des noms vietnamiens même lorsque la prononciation était exacte.
+
 ## TTS et enseignement généré par la voix
 
 La narration générée s'avère un substitut viable à un enseignant enregistré, et la variation intéressante se situe à l'intérieur du format plutôt qu'entre l'humain et la machine. [[llm-tts-dialogue-lesson-generation|Kumoi et al. (2026)]] ont construit un pipeline en trois étapes [[human-in-the-loop-ai|avec un humain dans la boucle]], dans lequel un [[llm|LLM]] rédige les diapositives et une narration optimisée pour la synthèse vocale tandis que l'enseignant vérifie les faits à chaque étape, puis ont mené une étude intra-sujet avec 245 élèves de première année d'un lycée public préfectoral japonais, comparant une vidéo à la voix de l'enseignant, une narration TTS à locuteur unique, et une narration TTS au format dialogue Expert-×-Novice. La compréhension, la concentration et l'évaluation globale ne différaient pas significativement entre les trois (p > .14, r < 0.11), et les tests d'équivalence maintenaient les trois à l'intérieur d'une marge de ±0.5 : la narration synthétique ne dégradait pas l'expérience. La narration dialoguée était meilleure sur la compréhension (p = .006, r = .130), sur l'approfondissement de la réflexion déclaré (p = .019, r = .121), et sur la capacité d'expliquer le contenu à un ami (p = .004, r = .152), et 66.9% la préféraient comme la plus agréable. Deux réserves : l'audio dialogué a été jugé significativement moins naturel (r = −.238), ce qui est cohérent avec la charge supplémentaire de plusieurs locuteurs, et le groupe dialogué arrivait avec moins de [[prior-knowledge|connaissances préalables]] (66.0% déclarant ne rien connaître du tout contre 34.1%), ce qui fait de son avantage une estimation conservatrice.
@@ -67,6 +69,8 @@ L'accent, quant à lui, est une variable de conception à conséquences sociales
 Un usage plus intensif d'un outil de soutien parlé n'est pas automatiquement meilleur. [[student-ai-interaction-consecutive-interpreting-2026|Kuang, Li et Weng (2026)]] ont fait accomplir à 22 stagiaires en interprétation des tâches d'interprétation consécutive assistée par ordinateur dans les deux sens, dans des systèmes fondés sur l'ASR et la traduction automatique, en captant les mouvements oculaires, les notes au stylo et la production vocale. Quatre profils d'interaction ont émergé — Intensive Engagers, Fast Scanners, Traditionalists et Frequent Switchers — et 58.3% des observations au niveau de l'étape changeaient de profil entre la compréhension de la source et la production de la cible. Seuls les schémas de l'étape de compréhension prédisaient la qualité du produit, et la grappe la plus dépendante de l'IA obtenait les scores les plus bas sur la fluidité de l'élocution (5.46 contre 6.17–6.46) et sur la qualité de la langue cible (5.70 contre 6.35–6.67). L'attention consacrée à lire une transcription produite par l'IA est une attention qui n'est pas consacrée à construire sa propre représentation ; les auteurs recommandent d'apprendre aux apprenants à réfléchir à leur propre stratégie plutôt que d'en prescrire une, puisque le schéma est invisible à moins d'être rendu visible.
 
 Une expérience de terrain randomisée et préenregistrée teste le canal parlé contre le texte tapé au sein d'un même tuteur, et conclut que l'apprentissage réside dans le tutorat plutôt que dans la voix. [[ai-tutor-modality-randomized-field-experiment-2026|Yang, Van Alstyne et Dellarocas (2026)]] ont randomisé 86 étudiants d'un module de finance d'entreprise d'un MBA en ligne entre un tuteur structuré ancré dans les supports de cours et un groupe de retenue, puis ont alterné chaque semaine le canal de chaque étudiant tutoré entre la voix et le texte, de sorte que la comparaison est identifiée à l'intérieur de chaque étudiant : la maîtrise hebdomadaire différait de −0.01 point sur 11 (p = .98), et deux tests unilatéraux rejetaient toute différence réelle supérieure à ±0.3 écart-type. La voix transformait le processus à la place — 1.34 tours de dialogue par minute contre 0.75 durant les semaines de texte, et 11.3 questions contre 4.6 — tandis que la pause de réflexion s'effondrait (délai médian de réponse du tuteur à l'étudiant de 27 secondes pour la voix contre 54 pour le texte, où les tours tapés passaient 25.9 secondes avant la première frappe plus 13.9 secondes de rédaction) et le canal vocal coûtait 2.8× plus cher à livrer, à \\$0.22 par minute vocale contre \\$0.0165 par message texte (\\$413.46 pour la voix et \\$149.13 pour le texte sur cinq semaines pour 52 places). Sur ces données, la voix est un levier d'adoption et d'engagement, non un levier d'encodage — ce qui est exactement le compromis que toute institution ajoutant un canal parlé doit chiffrer.
+
+La même pile vocale est désormais proposée dans l'autre sens : [[voice-based-ai-feedback-interviews-higher-ed-2026|Tamme, Schilling et Hantel (2026)]] prévoient un agent téléphonique fondé sur ElevenLabs qui interroge les étudiants sur un cours au fil de conversations de 5 à 7 minutes avec des relances adaptatives. Leur pilote munichois achevé a établi la faisabilité ; l'étude de terrain prévue, dans un cours de la MIT Sloan School avec environ 60 étudiants, n'a rapporté aucun résultat.
 
 ## L'IA dans l'évaluation orale et parlée
 
@@ -103,6 +107,8 @@ Presque chaque affirmation forte ici repose sur une seule étude courte. Les deu
 
 ## Articles liés
 
+- [[chatbots-oral-proficiency-efl-systematic-review]] — Les gains d'exactitude ne viennent que des chatbots d'apprentissage des langues, et l'ASR échoue sur les noms accentués
+- [[voice-based-ai-feedback-interviews-higher-ed-2026]] — Un agent vocal téléphonique braqué sur le canal de rétroaction lui-même
 - [[asr-english-speaking-feedback-metacognition-2026]] — Rétroaction ASR sur l'expression orale : la qualité bat la quantité, et la maîtrise module qui en bénéficie (Chen et al. 2026)
 - [[genai-pronunciation-feedback-wtc-2026]] — L'auto-efficacité en prononciation médiatise la rétroaction sur la prononciation par IA générative et la volonté de communiquer (1,701 apprenants d'anglais langue étrangère)
 - [[llm-tts-dialogue-lesson-generation]] — Pipeline de leçons LLM + TTS : la narration synthétique égalait la voix de l'enseignant ; le dialogue aidait la compréhension
@@ -118,5 +124,5 @@ Presque chaque affirmation forte ici repose sur une seule étude courte. Les deu
 - [[multimodal-embodied-cognition-oral-explanations-2026]] — Geste et parole : pourquoi une évaluation orale fondée sur la seule parole manque les preuves de la compréhension
 - [[ai-guided-learning-audiovideo-2026]] — Vitesse audio adaptative, résumés vidéo préservant la voix et rétroaction sur la prononciation sans étiquettes
 - [[llm-question-generation-deaf-hard-of-hearing-2026]] — Génération de questions par LLM pour des apprenants sourds et malentendants
-- [[ai-tutor-modality-randomized-field-experiment-2026]] — When AI Tutors Speak: Evidence from a Randomized Field Experiment
-- [[ai-mediated-input-medical-english-asr-2026]] — AI-Mediated Input Transformation in Medical English: Speech Recognition and Transcript Reliability
+- [[ai-tutor-modality-randomized-field-experiment-2026]] — Quand les tuteurs IA parlent : données d'une expérience de terrain randomisée
+- [[ai-mediated-input-medical-english-asr-2026]] — Transformation de l'entrée médiée par l'IA en anglais médical : reconnaissance de la parole et fiabilité des transcriptions

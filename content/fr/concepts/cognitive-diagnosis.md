@@ -1,7 +1,7 @@
 ---
 title: "Diagnostic cognitif"
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-10-10T03:05:33-04:00"
+updated: "2026-10-24T10:43:48-04:00"
 type: concept
 technology: [intelligent-tutoring, knowledge-tracing, learning-analytics, student-modeling]
 assessment: [assessment, educational-measurement, psychometrically-aware-ai]
@@ -81,11 +81,11 @@ Le diagnostic cognitif rejoint le [[knowledge-tracing|traçage des connaissances
 
 - [[llm-cognitive-diagnosis-handwritten-math]] — Référentiel pour les LLM en diagnostic des compétences cognitives à partir d'écrits mathématiques manuscrits
 - [[correct-answer-trap-misconceptions]] — Le piège de la bonne réponse
-- [[llm-misconception-difficulty-easy-trap]] — The Easy Trap: Why LLMs Underestimate Misconception-Driven Difficulty
+- [[llm-misconception-difficulty-easy-trap]] — Le piège facile : pourquoi les LLM sous-estiment la difficulté portée par les conceptions erronées
 - [[llm-student-misconception-identification]] — Identification par LLM des idées fausses des étudiants
 - [[student-math-competence-clustering]] — Regroupement pour la modélisation de la compétence mathématique des étudiants
 - [[moon-cognitive-agent-compilation-problem-solver-modeling-2026]] — Cognitive Agent Compilation for Explicit Problem Solver Modeling
-- [[educlaw-bench-pedagogical-llm-agents-2026]] — EduClaw-Bench: diagnosing from simulated learners
+- [[educlaw-bench-pedagogical-llm-agents-2026]] — EduClaw-Bench : diagnostiquer à partir d'apprenants simulés
 - [[huang-interpretable-knowledge-tracing-2026]] — Traçage des connaissances interprétable
 - [[xie-hillm-cd-2026]] — HiLLM-CD: LLM concept trees + hierarchical proficiency inference
 - [[yasir-llm-tutoring-agents-2026]] — Séparer le diagnostic de la rétroaction dans les tuteurs LLM
@@ -94,12 +94,12 @@ Le diagnostic cognitif rejoint le [[knowledge-tracing|traçage des connaissances
 - [[personalized-neural-cognitive-architecture-search-2026]] — AutoML personalized neural cognitive architecture search for learner profiles
 - [[pradeesh-outcome-knowledge-tracing-affinity-2026]] — Traçage des connaissances fondé sur les résultats avec correspondance d'affinité
 - [[privacy-preserving-multi-llm-federated-cognitive-diagnosis-2026]] — Diagnostic fédéré préservant la vie privée sur plusieurs LLM hétérogènes
-- [[llm-common-modeling-mistakes-formalisms-2026]] — Mining common modeling mistakes at scale with LLM-generated, algorithmically validated bug-fixing transformations (Killich et al. 2026)
-- [[mechanics-cognitive-diagnostic-physics-2026]] — Mechanics Cognitive Diagnostic: DINA-based diagnosis of 14 learning objectives from existing physics concept inventories (Le et al. 2026)
+- [[llm-common-modeling-mistakes-formalisms-2026]] — Explorer les erreurs de modélisation courantes à grande échelle avec des transformations de correction de bogues générées par LLM et validées algorithmiquement (Killich et al. 2026)
+- [[mechanics-cognitive-diagnostic-physics-2026]] — Diagnostic cognitif en mécanique : diagnostic de type DINA de 14 objectifs d'apprentissage à partir d'inventaires de concepts de physique existants (Le et al. 2026)
 - [[exrec-exercise-recommendation-knowledge-tracing-2025]] — Annotation des concepts de connaissance par LLM et états de connaissance calibrés au niveau des concepts
 - [[llm-distractor-generation-student-reasoning-2026]] — les distracteurs fondés sur les idées fausses comme tâche de conception d'items diagnostiques
 - [[misconception-acquisition-dynamics-llms-2026]] — l'endroit où l'erreur entre dans la solution est le goulot d'étranglement du diagnostic
-- [[pivot-generative-video-tutors-stem-2026]] — From Content Generation to Learning Support: Pedagogy-Guided Generative Video Tutors for STEM Learning
-- [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn: An Agentic Tutor that Learns its Learner in a Human-AI Co-Learning Loop
-- [[omniedu-open-educational-foundation-models-2026]] — OmniEdu: Open Foundation Models for Learning and Teaching
+- [[pivot-generative-video-tutors-stem-2026]] — De la génération de contenu au soutien à l'apprentissage : tuteurs vidéo génératifs guidés par la pédagogie pour l'apprentissage des STIM
+- [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn : un tuteur agentique qui apprend son apprenant dans une boucle de co-apprentissage humain-IA
+- [[omniedu-open-educational-foundation-models-2026]] — OmniEdu : modèles de fondation ouverts pour l'apprentissage et l'enseignement
 - [[culturally-embedded-ai-diagnostic-assessment-2026]] — Recherche AutoML d'architecture neuronale cognitive personnalisée pour les profils d'apprenants

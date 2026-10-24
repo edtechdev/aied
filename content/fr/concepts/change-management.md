@@ -1,7 +1,7 @@
 ---
 title: "Conduite du changement"
 created: "2026-08-29T12:55:12-04:00"
-updated: "2026-10-10T03:05:33-04:00"
+updated: "2026-10-24T10:45:59-04:00"
 type: concept
 foundations: [ai-education]
 connected_faqs: [institutional-ai-policy, faculty-development-ai]
@@ -65,6 +65,8 @@ Dans les établissements où la stratégie devance les infrastructures, le trava
 
 Une étude de cas institutionnelle retrace un arc de diffusion de dix ans en mathématiques de premier cycle, allant de l'initiative individuelle et des ateliers entre pairs à l'acquisition conjointe de licences par le corps enseignant et au financement central ([[flipped-classroom-ai-assessment-math-2026|Law, 2026]]).
 
+La refonte d'un cours a un coût que les établissements devraient budgéter plutôt que présumer : adopter un cours intégrant l'IA représentait environ 15 à 20 heures de travail de refonte par cours avant tout ajustement continu [[packard-thinking-partner-framework-adult-learners-2026|Packard et al. (2026)]].
+
 ## Connections to other concepts
 
 La conduite du changement est le complément institutionnel de l'intégration au niveau de la classe. Elle opérationnalise les conditions systémiques — gouvernance, développement du corps enseignant, [[student-engagement|engagement]] des parties prenantes et garde-fous en matière d'équité — qui permettent à l'innovation pédagogique de prendre racine, reliant la conception des politiques de l'[[educational-policy-ai|IA dans l'éducation]] à la [[governance|gouvernance]], à l'[[educational-development|développement pédagogique]] et aux résultats en matière d'[[equity-in-ai-education|équité]].
@@ -92,9 +94,10 @@ La conduite du changement est le complément institutionnel de l'intégration au
 - [[ai-uk-higher-education-policy-2026]] — intention politique nationale contre capacité institutionnelle dans l'enseignement supérieur britannique
 - [[alrahmi-org-drivers-ai-adoption-he-2026]] — moteurs organisationnels et technologiques de l'adoption de l'IA
 - [[adarkwah-genai-unesco-policy-2026]] — analyse du cadre UNESCO appliquée aux politiques institutionnelles d'IA générative
-- [[ai-digital-transformation-liberal-arts-lingnan-2026]] — Digital transformation of a liberal arts university toward a research-intensive model in the GenAI era (Qin 2026)
+- [[ai-digital-transformation-liberal-arts-lingnan-2026]] — Transformation numérique d'une université de lettres vers un modèle axé sur la recherche à l'ère de l'IA générative (Qin 2026)
 - [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Des médiateurs numériques traduisant la stratégie institutionnelle d'IA en pratique ancrée dans le réel, sous la rareté des infrastructures
-- [[computing-assessment-genai-workshop-report-2026]] — AI Can Do Your Homework. Now What? Report from an online workshop on computing assessment in the age of generative AI
+- [[computing-assessment-genai-workshop-report-2026]] — L'IA peut faire vos devoirs. Et maintenant ? Rapport d'un atelier en ligne sur l'évaluation en informatique à l'ère de l'IA générative
 - [[instruction-partners-ai-in-action-learning-tour-2026]] — travail de terrain intersystèmes sur la manière dont la mise en œuvre et les actions des enseignants décident de l'utilité d'un produit d'IA
 - [[dot-framework-survey-2026]] — données d'enquête montrant que le développement professionnel doit couvrir un cycle de conception complet plutôt que le seul usage des outils
-- [[flipped-classroom-ai-assessment-math-2026]] — A decade-long diffusion arc from individual initiative to central funding in undergraduate mathematics (Law 2026)
+- [[flipped-classroom-ai-assessment-math-2026]] — Un arc de diffusion sur une décennie, de l'initiative individuelle au financement central en mathématiques de premier cycle (Law 2026)
+- [[packard-thinking-partner-framework-adult-learners-2026]] — Budgéter 15 à 20 heures de refonte par cours intégrant l'IA avant tout ajustement continu

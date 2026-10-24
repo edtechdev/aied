@@ -2,7 +2,7 @@
 connected_resources: [idstack, lesson-md, master-instructional-design]
 title: "Évaluation"
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-10T02:17:25-04:00"
+updated: "2026-10-24T10:49:43-04:00"
 connected_faqs: [redesign-assessment-ai-era, reduce-ai-cheating, course-ai-policy, group-work-ai, asynchronous-online-courses-ai]
 type: concept
 foundations: [academic-integrity]
@@ -38,7 +38,7 @@ ai_assist:
 
 ## Introduction
 
-L'évaluation est centrale pour l'IA en éducation pour deux raisons. Premièrement, l'IA elle-même sert à évaluer les étudiants — noter des dissertations, du code, des réponses brèves et des examens à grande échelle. Deuxièmement, l'IA dans la classe change ce que les évaluations peuvent valablement mesurer, puisque les étudiants peuvent utiliser l'[[generative-ai|IA générative]] pour produire un travail. Le champ couvre donc à la fois les *outils* qui automatisent l'évaluation et les questions de *validité et d'intégrité* que l'IA soulève.
+L'évaluation est centrale pour l'IA en éducation pour deux raisons. Premièrement, l'IA elle-même sert à évaluer les étudiants — noter des dissertations, du code, des réponses brèves et des examens à grande échelle. Deuxièmement, l'IA dans la classe change ce que les évaluations peuvent valablement mesurer, puisque les étudiants peuvent utiliser l'[[generative-ai|IA générative]] pour produire un travail. Le champ couvre donc à la fois les *outils* qui automatisent l'évaluation et les questions de *validité et d'intégrité* que l'IA soulève. Une revue PRISMA de 72 études sur l'évaluation dans l'enseignement supérieur a constaté que les éducateurs recouraient à GenAI sur l'ensemble du cycle d'évaluation, de la création d'évaluations à la pratique, à la notation, à la transparence de l'apprentissage et à la rétroaction, la création d'évaluations et la rétroaction étant les affordances les plus fréquemment identifiées ([[higher-ed-assessments-genai-systematic-review|Crompton et Burke (2026)]]).
 
 ## Comment l'IA est employée dans l'évaluation
 
@@ -55,6 +55,7 @@ L'évaluation est centrale pour l'IA en éducation pour deux raisons. Premièrem
 L'IA soulève des questions fondamentales de [[assessment-validity|validité]] : les évaluations notées par l'IA mesurent-elles l'apprentissage des étudiants ou la [[prompt-engineering|compétence à rédiger des invites pour l'IA]] ? L'usage de l'IA par les étudiants invalide-t-il les évaluations traditionnelles ? Les défis clés incluent :
 
 - **Validité de construit :** la [[competency-based-education-genai-production-2026|recherche sur l'éducation par les compétences]] montre que l'IA générative a rompu l'inférence entre performance et capacité sous-jacente — un apprenant peut livrer un travail de qualité professionnelle qu'il ne peut reproduire sans l'outil. Cela motive une reconceptualisation des compétences évaluées.
+- **Un cadre à trois sommets pour réaligner l'évaluation :** [[koretsky-genai-stem-assessment-2026|Koretsky et al. (2026)]] traitent une GenAI omniprésente comme un problème de validité et de définition des capacités plutôt que de triche, et soutiennent que les trois sommets du triangle de l'évaluation (cognition, observation et interprétation) doivent être réalignés ensemble plutôt que réparés un à un.
 - **Coautorature et intégrité :** la [[coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene|coautorature et l'intégrité]] propose une nouvelle source de preuve de validité, violée lorsque les étudiants soumettent des contenus générés par l'IA qu'ils ne comprennent pas, et explore les « AI Vivas » conversationnelles comme réponse.
 - **Qualité psychométrique :** l'[[psychometrically-aware-ai|IA consciente de la psychométrie]] et l'[[automated-assessment|évaluation consciente de la confiance]] œuvrent à maintenir la notation par l'IA fiable, non biaisée et interprétable.
 - **Évaluation des évaluateurs d'IA :** l'[[ai-ed-evaluation|évaluation d'une intervention d'IA en éducation]] fournit les méthodes et les [[benchmark|repères de référence]] permettant de déterminer si les évaluateurs automatisés fonctionnent réellement — sur la fiabilité, la [[pedagogy|pédagogie]] et l'[[equity-in-ai-education|équité]] — plutôt que sur la seule exactitude phare.
@@ -139,3 +140,4 @@ Une proposition de cette littérature pousse au-delà de la refonte à l'intéri
 - [[olvet-genai-scoring-open-ended-medical-2026]]
 - [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]
 - [[computing-assessment-genai-workshop-report-2026]] — L'IA peut faire vos devoirs. Et maintenant ? Rapport d'un atelier en ligne sur l'évaluation en informatique à l'ère de l'IA générative
+- [[koretsky-genai-stem-assessment-2026]] — Un cadre à trois sommets pour réaligner l'évaluation

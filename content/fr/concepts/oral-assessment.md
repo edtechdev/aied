@@ -1,9 +1,10 @@
 ---
 title: "Évaluation orale"
 created: "2026-09-23T08:35:38-04:00"
-updated: "2026-10-10T04:00:01-04:00"
+updated: "2026-10-24T10:55:12-04:00"
 connected_faqs: [redesign-assessment-ai-era, ai-feedback-at-scale]
 type: concept
+connected_resources: [code-viva]
 foundations: [academic-integrity, critical-thinking]
 pedagogy: [scaffolding, metacognition]
 technology: [generative-ai, llm, speech-and-voice-technologies]
@@ -14,7 +15,7 @@ level: [higher ed]
 confidence: medium
 contributors: [editor]
 translation_of: concepts/oral-assessment
-source_updated: "2026-09-30T16:25:27-04:00"
+source_updated: "2026-10-23T09:49:58-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 ai_assist:
   - model: stepfun/step-5-preview:free
@@ -58,6 +59,8 @@ Les formats du corpus s'étendent sur un large éventail d'automatisation et de 
 
 **La preuve orale comme défense plutôt que comme examen.** [[tool-invariant-framework-agentic-ai|Un cadre d'évaluation invariant à l'outil]] associe des quiz en classe sans IA à des défenses orales de dix minutes de travaux assistés par l'IA dont les commentaires ont été retirés, notées sur la compréhension du code, la compréhension de la méthode, la terminologie, l'interprétation et la vérification, la vérification étant exigée pour réussir quel que soit le total. La conception est argumentée plutôt que validée ; l'arithmétique propre à l'article pour quinze étudiants est de deux heures et demie de contact par devoir et d'environ vingt-huit heures de contact par semestre sur onze devoirs défendus.
 
+Le format de l'interaction décide de ce qu'une tâche d'expression médiée par l'IA peut certifier. Les tâches de dialogue du Duolingo English Test, au nombre de 713 dans le pilote, exigeaient de sélectionner une réponse plutôt que de produire un échange réactif, ce que les évaluateurs jugent en décalage entre les exigences cognitives de la tâche et le construit que le test prétend mesurer ([[ai-second-language-listening-speaking-assessment-2025|Goh & Aryadoust (2025)]]).
+
 ## Anxiété, biais, et qui le format désavantage
 
 Les oraux sont plaidés sur des bases d'inclusion, parce qu'une réponse parlée est plus difficile à acheter qu'une réponse écrite, et contestés sur les mêmes bases. [[fenton-oral-exams-ai-authentic-assessment-2025|Fenton]] catalogue directement les défis : la charge de planification, l'anxiété, et les biais selon le genre, l'origine ethnique, la langue et la vitesse de réponse, ainsi que les effets de la notation non anonyme. En face, les preuves que cite l'article suggèrent que les oraux peuvent être aussi inclusifs que les examens écrits, y compris pour les étudiants dyslexiques, et que c'est l'inhabituel, plutôt que le format lui-même, qui alimente l'essentiel de l'anxiété rapportée ; les étudiants d'une étude citée étaient moins anxieux à leurs examens oraux ultérieurs.
@@ -71,6 +74,10 @@ Ce qui compte comme preuve orale est aussi plus étroit qu'il n'y paraît. [[mul
 Trois constats militent contre la lecture des scores oraux comme des gains d'apprentissage. [[asynchronous-oral-assessment-2026|L'étude du format asynchrone]] se défend d'attribuer des gains d'apprentissage à son propre avantage de score, et rapporte un accord de renotation entre enseignant et modèle de CCI 0,73 à mi-parcours et 0,60 à la finale, ce qui borne la confiance qu'on peut accorder à la notation par machine. Dans [[ai-standardized-patient-scaffolding-medical-2026|un ECR portant sur cent étudiants en médecine de troisième année]] comparant un système de patient simulé à des matériels de cas à divulgation progressive, la performance à l'examen final a augmenté (71,8 contre 55,6 pour cent, g de Hedges = −0,81) et les notations de communication à l'ECOS ont augmenté (3,53 contre 2,64 sur une échelle en cinq points), tandis que l'exactitude diagnostique binaire était statistiquement identique (84 contre 86 pour cent, P = 1,000). Une lecture centrée sur la seule exactité qualifierait l'intervention de nulle ; une lecture centrée sur la seule communication la qualifierait de transformative.
 
 La contrainte déterminante est le personnel et le matériel plutôt que la pédagogie, et le corpus est exceptionnellement franc sur l'arithmétique : vingt-huit heures de contact par semestre pour quinze étudiants, onze assistants d'enseignement pour une classe de plus de cent dans la conception CS1, et un ordinateur portable servant douze apprenants simultanés dans le déploiement professionnel hors ligne. Aucun essai randomisé comparant l'oral à l'écrit n'existe dans l'ensemble de ces travaux, et chaque étude qui mesure la différence est une conception mono-institution sans groupe témoin. L'évaluation orale est bien étayée comme réponse à la substitution assistée par l'IA, et faiblement étayée comme amélioration de l'apprentissage.
+
+Aucun format n'occupe une position fixe dans ce compromis : l'observabilité de l'évaluation orale est un choix de conception, et son coût de faisabilité est un coût qu'un programme répartit plutôt qu'il n'accepte, car la faisabilité est une priorité éducative, et non la contrainte qui érode les bonnes pratiques ([[assessment-feedback-trilemma-model-2026|Pedlow et coll. (2026)]]).
+
+L'argument d'intégrité de l'oral est aussi limité dans le temps : [[corbin-ai-glasses-wearable-ai-assessment-2026|Corbin et coll. (2026)]] soutiennent que des lunettes et des écouteurs d'IA peuvent fournir des suggestions en temps réel et de façon dissimulée pendant une soutenance en direct, parce que l'IA portable ne produit aucun déplacement du regard ni signal détectable, de sorte que les oraux interactifs n'en sont plus protégés.
 
 - **Le plafond d'échelle est la contrainte de conception.** Dans un atelier réunissant 73 éducateurs en [[cs-education|informatique]], l'évaluation orale et interactive a été rapportée comme la meilleure preuve disponible de la compréhension individuelle et le remède le moins extensible ; les atténuations que les participants décrivaient étaient la distribution et l'échantillonnage — des viviers partagés d'assistants d'enseignement, une évaluation par les pairs pondérée sous un examen final, et le fait d'interpeller un sous-ensemble tournant d'étudiants ([[computing-assessment-genai-workshop-report-2026|Akbar et al., 2026]]).
 
@@ -91,6 +98,8 @@ La contrainte déterminante est le personnel et le matériel plutôt que la péd
 
 ## Articles liés
 
+- [[ai-second-language-listening-speaking-assessment-2025]] — Des tâches de dialogue d'IA non ramifiées décalent les exigences de la tâche par rapport au construit de l'expression orale
+- [[corbin-ai-glasses-wearable-ai-assessment-2026]] — Les soutenances en direct n'en sont plus protégées : des lunettes et des écouteurs d'IA délivrent des suggestions en temps réel et dissimulées (Corbin, Sharpe & Dawson 2026)
 - [[fenton-oral-exams-ai-authentic-assessment-2025]] — Reconsidérer l'usage des examens et évaluations oraux (Fenton 2025)
 - [[asynchronous-oral-assessment-2026]] — Évaluations orales asynchrones : intégrité, engagement et communication professionnelle
 - [[ai-supported-oral-assessment-tvet-2026]] — Concevoir l'évaluation orale assistée par l'IA dans l'enseignement professionnel
@@ -102,3 +111,4 @@ La contrainte déterminante est le personnel et le matériel plutôt que la péd
 - [[ai-standardized-patient-scaffolding-medical-2026]] — Les entretiens cliniques oraux sous un système de patient simulé
 - [[pgr-students-genai-uses-qualitative-2026]] — La soutenance doctorale à l'ère de l'IA générative
 - [[computing-assessment-genai-workshop-report-2026]] — L'IA peut faire vos devoirs. Et maintenant ? Compte rendu d'un atelier en ligne sur l'évaluation en informatique à l'ère de l'IA générative
+- [[assessment-feedback-trilemma-model-2026]] — Refuse toute position fixe à un format et recadre la faisabilité comme une priorité éducative

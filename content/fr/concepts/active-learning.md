@@ -1,7 +1,7 @@
 ---
 title: "L'apprentissage actif"
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-10T02:07:49-04:00"
+updated: "2026-10-24T10:37:31-04:00"
 connected_faqs: [does-ai-help-students-learn, designing-ai-into-learning]
 type: concept
 foundations: [ai-education, learning-design]

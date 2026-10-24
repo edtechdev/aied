@@ -1,7 +1,7 @@
 ---
 title: "Éducation spécialisée"
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-10T03:05:58-04:00"
+updated: "2026-10-24T10:50:00-04:00"
 type: concept
 foundations: [ai-education]
 ethics: [equity-in-ai-education, inclusive-learning, neurodiversity]
@@ -9,7 +9,7 @@ connected_faqs: [ai-disabled-neurodivergent-learners]
 level: [special education, k 12, higher ed]
 confidence: high
 translation_of: concepts/special-education
-source_updated: "2026-09-30T08:39:04-04:00"
+source_updated: "2026-10-23T09:20:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -49,6 +49,9 @@ L'éducation spécialisée est un domaine où la capacité de l'IA à personnali
 
 **Le contenu d'intervention généré par l'IA a besoin de contrôles en amont de la génération, et pas seulement d'une relecture.** [[adapted-stories-social-story-intervention-2026|Enkhjargal et al. (2026)]] ont constaté que les praticiens jugeaient l'outil Social Story co-conçu très utilisable (SUS 86,8) tout en qualifiant ses images de génériquement occidentales et son suivi comportemental de déconnecté du jugement clinique rattaché aux objectifs — des contraintes qu'ils auraient posées avant la génération.
 
+[[vlm-task-planning-humanoid-robot-autism-education-2026|Kudláčková (2026)]] part du matériel plutôt que de la conversation : un modèle vision-langage lit des photographies de Shoebox Tasks, conçues pour que l'objectif soit visible dans les objets, et les transforme en un plan qu'un humanoïde Nao exécute ou démontre, en rapportant l'exactitude du plan sur six tâches et aucune donnée d'apprenant.
+- **Les comportements difficiles sont là où les bancs d'essai de tuteurs s'arrêtent.** Sur 923 dialogues ancrés dans des cas issus de la littérature en éducation spécialisée et en psychologie de l'éducation, le meilleur de 11 modèles satisfaisait une intervention documentée dans 55.8% des cas ouverts et 43.3% des plans à long terme ([[tutor-case-bench-challenging-behaviors-2026|Park et al. (2026)]]).
+
 ## Implications pour les enseignants du spécialisé
 
 - **Co-concevoir l'IA avec les apprenants cibles et leur communauté.** La [[llm-question-generation-deaf-hard-of-hearing-2026|génération de questions pour les apprenants sourds et malentendants]] montre l'intérêt d'affiner itérativement l'IA avec la communauté pour combler le fossé entre les prompts fondés sur le texte et les premières langues fondées sur le signe — impliquez les apprenants et leurs communautés dans la conception plutôt que de supposer que l'IA leur convient.
@@ -75,6 +78,7 @@ L'éducation spécialisée est un domaine où la capacité de l'IA à personnali
 - [[discipline-specific-aied]]
 
 ## Articles liés
+- [[tutor-case-bench-challenging-behaviors-2026]] — TutorCaseBench : évaluer les tuteurs LLM auprès d'élèves aux comportements difficiles (Park et al. 2026)
 - [[seung-basham-cognitive-offloading-swld-2026]] — Délestage cognitif de l'IA générative chez les élèves ayant des troubles de l'apprentissage
 - [[special-r1-rl-special-education]]
 - [[dyslexlens-dyslexic-learners-ai]]
@@ -83,5 +87,6 @@ L'éducation spécialisée est un domaine où la capacité de l'IA à personnali
 - [[adhd-video-segmentation-computing-education]]
 - [[genai-minoritized-knowledges-disability]]
 - [[embodied-string-learning-blindness-low-vision-musicians]]
-- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — Generative AI, virtual reality, and beyond: A scoping review of digital assistive technologies for neurodivergent students in higher education
-- [[adapted-stories-social-story-intervention-2026]] — AI-Assisted Social Story Intervention for Special Education: The Design of AdaptED Stories
+- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — L'IA générative, la réalité virtuelle et au-delà : une revue de cadrage des technologies d'assistance numériques pour les étudiants neurodivergents dans l'enseignement supérieur
+- [[adapted-stories-social-story-intervention-2026]] — Intervention assistée par l'IA sur les histoires sociales en éducation spécialisée : la conception d'AdaptED Stories
+- [[vlm-task-planning-humanoid-robot-autism-education-2026]] — Un modèle vision-langage planifie des Shoebox Tasks pour un robot Nao (Kudláčková 2026)

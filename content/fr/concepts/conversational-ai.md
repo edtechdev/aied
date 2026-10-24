@@ -1,13 +1,13 @@
 ---
 title: "L'IA conversationnelle"
 created: "2026-08-22T04:44:37-04:00"
-updated: "2026-10-10T03:24:44-04:00"
+updated: "2026-10-24T10:41:20-04:00"
 type: concept
 foundations: [ai-literacy, human-ai-collaboration]
 technology: [conversational-ai, generative-ai, intelligent-tutoring, llm, pedagogical-agent]
 confidence: medium
 translation_of: concepts/conversational-ai
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-18T10:07:01-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -45,6 +45,7 @@ Les repères de référence peuvent surestimer la mesure dans laquelle l'étayag
 **Interaction et collaboration.** Les agents conversationnels sont de plus en plus envisagés comme des partenaires d'interaction plutôt que comme des donneurs de réponses. [[student-ai-interaction]] rend compte de la manière dont les apprenants formulent des invites, questionnent et vérifient avec l'IAC dans la pratique. Dans l'[[collaborative-learning|apprentissage collaboratif]], les agents servent de médiateurs à la participation et à la [[regulation]] partagées, et dans l'[[language-learning|apprentissage des langues]] ils offrent une pratique conversationnelle en temps réel. Le fil de l'[[human-ai-collaboration]] examine à quelles conditions ce partenariat préserve le travail cognitif de l'apprenant au lieu de s'y substituer. Les LLM comme partenaires de critique illustrent concrètement le versant de la préservation : [[oppenheimer-llms-collaborative-learning-partners-2026|Oppenheimer, Cash & Connell Pensky (2025)]] ont fait critiquer par ChatGPT, Gemini ou Claude les essais argumentatifs d'étudiants sur un semestre entier, et les apprenants ont progressé en écriture, en [[prompt-engineering|ingénierie des invites]] et en réponse à la rétroaction, tout en jugeant les échanges utiles, engageants et agréables — la réfutation active des affirmations du modèle (87.8%) montrant qu'ils traitaient le partenaire conversationnel de manière critique plutôt que passive.
 
 Les agents conversationnels sont aussi utilisés pour noter, et leur comportement évaluatif diverge de celui des humains : ChatGPT a été le plus indulgent des trois évaluateurs des mêmes 52 projets de premier cycle (M = 91.46 contre 83.13 pour l'enseignant) et n'a partagé aucune logique de notation avec ses pairs (r = 0.05), bien que les étudiants aient apprécié son interactivité dialogique ([[usher-faraon-who-grades-best-2026|Usher & Faraon (2026)]]).
+**Les utilisateurs lisent la crédibilité de l'agent socialement.** La compétence perçue de ChatGPT prédisait directement la crédibilité de sa rétroaction, tandis que la chaleur perçue n'agissait qu'à travers l'empathie de type humain (modèle d'équations structurelles, 230 étudiants), pour [[chatgpt-feedback-credibility-perceived-learning|Pérez-López et coll. (2026)]] : un agent conversationnel acquiert de la crédibilité comme partenaire social, et pas seulement comme source de réponses.
 
 **Étayer le versant étudiant de la conversation.** [[helpcoach-ai-help-seeking-scaffolding-2026|Jin et al. (2026)]] ajoutent à une interface de conversationnalité un moniteur de spécificité des questions et un modèle de révision, et n'interviennent que sur les questions vagues : dans une étude entre sujets portant sur 40 étudiants universitaires apprenant la programmation web, les utilisateurs de HelpCoach ont rédigé des premières questions significativement plus spécifiques (57.3% contre 40.5%) et ont retenu davantage de connaissances une semaine plus tard (gain moyen de 1.9 contre 0.3 sur 6, d = 1.100). Le bénéfice en matière de rétention ne passait pas par des réponses de chatbot plus ciblées, qui ne différaient pas selon la condition — laissant le mécanisme à l'état d'hypothèse ouverte plutôt que de voie démontrée.
 

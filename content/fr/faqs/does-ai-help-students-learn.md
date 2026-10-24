@@ -1,14 +1,15 @@
 ---
 title: "Utiliser l'IA aide-t-il réellement mes étudiants à apprendre ?"
 created: "2026-09-22T19:14:45-04:00"
-updated: "2026-10-09T18:10:00-04:00"
+updated: "2026-10-24T10:46:20-04:00"
 weight: 90
+audience: [instructors]
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [active-learning]
 assessment: [assessment, self-report-measures]
 page_kind: [evaluation]
 methods: [ai-ed-evaluation]
-source_updated: "2026-10-02T08:21:34-04:00"
+source_updated: "2026-10-21T14:32:00-04:00"
 translation_of: faqs/does-ai-help-students-learn
 translation_note: "Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle."
 contributors: [editor]
@@ -24,8 +25,6 @@ ai_assist:
 ---
 
 *Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle.*
-
-# Utiliser l'IA aide-t-il réellement mes étudiants à apprendre ?
 
 **Oui, elle le peut, mais un meilleur travail produit avec l'IA n'est pas nécessairement la preuve d'un meilleur apprentissage.** La recherche documente de véritables bénéfices d'apprentissage, des effets négligeables et des préjudices pour l'apprentissage. La question importante n'est pas simplement de savoir si les étudiants utilisent l'IA, mais **ce que l'IA les aide à faire, quel travail de réflexion reste de leur responsabilité et ce qu'ils savent faire ensuite**.
 

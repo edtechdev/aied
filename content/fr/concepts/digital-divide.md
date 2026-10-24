@@ -1,7 +1,7 @@
 ---
 title: "La fracture numérique"
 created: "2026-08-13T18:07:54-04:00"
-updated: "2026-10-10T03:05:32-04:00"
+updated: "2026-10-24T10:46:40-04:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, ai-guidance-children-under-13]
 type: concept
 foundations: [ai-education, ai-literacy]
@@ -95,22 +95,22 @@ La fracture numérique est une préoccupation centrale de la recherche sur l'[[e
 ## Articles liés
 - [[adeniranye-ai-integration-nigerian-higher-education-2026]] — Structures institutionnelles, inégalité numérique et intégration de l'IA dans l'enseignement supérieur nigérian
 - [[ai-divide-ses-personality-primary-education-2026]] — SES, personality, and AI divides in primary education (Wang et al. 2026)
-- [[rodrigues-aied-unplugged-numeracy-2026]] — AIED unplugged: teacher-as-proxy tutoring reaches students with no device (Rodrigues et al. 2026)
-- [[school-ai-education-readiness-gaps-agency-2026]] — School AI education narrows psychological but not cognitive readiness gaps
+- [[rodrigues-aied-unplugged-numeracy-2026]] — AIED sans appareil : le tutorat par l'enseignant atteint les élèves qui n'ont aucun appareil (Rodrigues et al. 2026)
+- [[school-ai-education-readiness-gaps-agency-2026]] — L'enseignement scolaire de l'IA réduit les écarts psychologiques mais non les écarts cognitifs de préparation
 - [[prompt-privilege-equitable-ai-access-2026]] — Prompt Privilege: measuring & mitigating accessibility disparities in LLM access
-- [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]] — The Scaffolded AI literacy (SAIL) framework
+- [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]] — Le cadre de littératie en IA étayée (SAIL)
 - [[oecd-digital-education-outlook-2026]] — OECD Digital Education Outlook 2026
-- [[aaai2026-prompting-literacy-k12]] — Teaching Responsible Use of AI Chatbots to K-12 Students
-- [[structural-silence-underrepresented-language-ai-2026]] — Structural Silence and Underrepresented Languages
+- [[aaai2026-prompting-literacy-k12]] — Enseigner l'usage responsable des agents conversationnels d'IA aux élèves de la maternelle au secondaire
+- [[structural-silence-underrepresented-language-ai-2026]] — Silence structurel et langues sous-représentées
 - [[sec-ai-literacy-narrative-review-2026]] — Social-Emotional Competence in AI Literacy
 - [[bilingual-llm-lecture-companion-srl-2026]]
 - [[multilingual-adaptive-learning-nigeria-2026]] — AI-Based Adaptive Learning Platform for Multilingual Low-Resource Contexts
-- [[ai-science-chemistry-education-systematic-review-2025]] — Systematic review of AI in science/chemistry education
+- [[ai-science-chemistry-education-systematic-review-2025]] — Revue systématique de l'IA dans l'enseignement des sciences et de la chimie
 - [[unesco-ai-guidelines-chemical-education-2026]] — UNESCO AI guidelines translated to chemical education; epistemic drift
-- [[lodge-loble-cognitive-offloading-2026]] — AI, cognitive offloading and implications for education (Lodge & Loble 2026)
+- [[lodge-loble-cognitive-offloading-2026]] — IA, déchargement cognitif et implications pour l'éducation (Lodge & Loble 2026)
 - [[mechanical-compliance-human-flourishing-ai-literacy-2026]] — Socialist humanist AI literacy + fair use
-- [[arc-hubs-k12-ai-robotics-rural-2026]] — ARC: rural robotics access follows mentorship geography, not device access (Jacobson et al. 2026)
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Digital inequality as distributive problem vs. algorithmic coloniality as epistemic one, in South African HDIs
+- [[arc-hubs-k12-ai-robotics-rural-2026]] — ARC : l'accès à la robotique en milieu rural suit la géographie du mentorat, non l'accès aux appareils (Jacobson et al. 2026)
+- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — L'inégalité numérique comme problème distributif et la colonialité algorithmique comme problème épistémique, dans des institutions sud-africaines historiquement défavorisées
 
 - [[llmersion-local-first-language-learning-2026]] — LLMersion: A Local-First AI Agent Framework for Low-Cost Home Language Learning toward Educational Equity
-- [[caee-digital-twins-stem-education-systematic-review-2026]] — Digital twin labs carry an equipment bill that bounds concurrent access
+- [[caee-digital-twins-stem-education-systematic-review-2026]] — Les laboratoires de jumeaux numériques portent une facture d'équipement qui plafonne l'accès simultané

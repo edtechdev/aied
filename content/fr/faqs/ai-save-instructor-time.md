@@ -1,12 +1,12 @@
 ---
 title: "Comment l'IA peut-elle me faire gagner du temps en tant qu'enseignant ?"
 created: "2026-09-22T19:16:30-04:00"
-updated: "2026-10-09T18:10:00-04:00"
+updated: "2026-10-24T11:05:00-04:00"
 weight: 78
 foundations: [ai-literacy, educational-development, teacher-role]
 assessment: [ai-feedback-quality]
 audience: [instructors, faculty developers]
-source_updated: "2026-10-02T08:21:34-04:00"
+source_updated: "2026-10-21T14:32:00-04:00"
 translation_of: faqs/ai-save-instructor-time
 translation_note: "Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle."
 contributors: [editor]
@@ -22,8 +22,6 @@ ai_assist:
 ---
 
 *Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle.*
-
-# Comment l'IA peut-elle me faire gagner du temps en tant qu'enseignant ?
 
 **L'IA convient le mieux au travail répétable de rédaction et de transformation à enjeu modéré, tandis que le jugement pédagogique lourd de conséquences reste à l'enseignant.** Les usages productifs comprennent les premières versions de supports de cours, des exemples, des questions de discussion, des questionnaires [[formative-assessment|formatifs]], des explications alternatives, des grilles d'évaluation, des suggestions de rétroaction, des résumés, des versions différenciées des supports et la rédaction administrative courante. Le mécanisme clé est la **réaffectation, et non la réduction** : l'IA libère du temps que les enseignants redirigent vers un travail pédagogique de plus grande valeur, et ce même temps achète ensuite davantage d'interactions individuelles avec les étudiants, une rétroaction plus approfondie et un enseignement d'ordre supérieur.
 

@@ -2,7 +2,7 @@
 connected_resources: [mglearn]
 title: "Apprentissage des langues"
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-10T03:05:35-04:00"
+updated: "2026-10-24T10:43:33-04:00"
 type: concept
 foundations: [ai-education]
 technology: [generative-ai]
@@ -11,7 +11,7 @@ discipline: [language learning, writing education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/language-learning
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-23T09:14:19-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -78,8 +78,11 @@ La qualité de la conception, et non la fréquence d'usage, a porté l'effet mot
 - **Les enseignants prisent l'IA générative pour le travail préparatoire, non pour l'usage direct en classe.** Une [[li-language-educators-genai-review-2026|revue systématique PRISMA de 23 études]] (Li et al. 2026) constate que les enseignants de langue prisent surtout l'IA générative pour la préparation en coulisses — [[curriculum-design|planification de leçons]], création de supports et soutien à l'écriture et rétroaction — tout en restant hésitants quant à une mise en œuvre directe face à la classe, ce qui reflète un écart entre théorie et pratique entre approuver l'IA en principe et l'utiliser en direct. L'adoption est façonnée par des facteurs d'identité professionnelle, pédagogiques, techniques, [[governance|institutionnels]] et d'[[academic-integrity]], les enseignants se répartissant sur un spectre allant de la non-adoption à l'intégration complète ; les attitudes tendent à évoluer d'une insécurité initiale vers un usage confiant et sélectif avec l'exposition.
 - **Préparer la [[ai-literacy|littératie en IA]] des enseignants de langue.** Des [[governing-unseen-ai-literacy-language-teachers-2026|revues systématiques]] constatent que la littératie en IA chez les enseignants de langue constitue une lacune clé — investissez dans le [[educational-development|développement professionnel]] des enseignants parallèlement à l'adoption des outils. À mesure que l'IA reconfigure l'éducation langagière, la littératie en IA est aussi cruciale pour que les enseignants s'engagent de manière critique avec la technologie : l'échelle de littératie en IA des enseignants (TAILS) a été élaborée pour la [[teacher-education|formation des enseignants de langue]], en opérationnalisant le cadre ED-AI à six dimensions (connaissances, évaluation, collaboration, contextualisation, [[agency|autonomie]], [[ethics]]) et en la validant auprès d'enseignants d'anglais langue étrangère en formation initiale.
 
+- **Étendre l'[[scaffolding|étayage]] de l'IA à la lecture collaborative.** Dans une étude d'annotation sociale assistée par l'IA générative menée auprès de 63 étudiants chinois en licence d'anglais, [[genai-social-annotation-epistemic-network-analysis-2026|Pan et coll. (2026)]] ont constaté que le chatbot élevait l'engagement cognitif et émotionnel ainsi que la performance en lecture, et reliait la [[community-of-inquiry|présence sociale]] à l'intégration et à la résolution, bien que les groupes les plus performants aient eu bien davantage recours à l'étayage.
+- **La préparation, et non la performance observée.** Chez 708 apprenants, une pratique de l'oral assistée par l'IA plus soutenue allait de pair avec une volonté de communiquer dirigée vers l'humain plus élevée (β = 0,384) et une [[anxiety-and-stress|anxiété]] d'expression orale en langue étrangère plus faible (β = −0,416), tandis que les scénarios avec assistant vocal d'IA abaissaient encore l'anxiété anticipée ; aucune des deux études n'a observé de prise de parole humaine réelle ([[ai-speaking-practice-communicative-readiness-2026|Wang & Li (2026)]]).
 - **Quatre profils d'interaction dans une tâche bilingue à forte pression.** [[student-ai-interaction-consecutive-interpreting-2026|Kuang, Li et Weng (2026)]] ont utilisé l'oculométrie, l'enregistrement au stylo et l'enregistrement vocal auprès de 22 stagiaires en interprétation pour montrer que les élèves répartissent leur attention entre les sorties de l'IA et leur propre prise de notes de quatre manières distinctes — Engagers intensifs, Scanners rapides, Traditionalistes et Basculeurs fréquents — et que 58.3% des observations au niveau de l'étape changeaient de profil entre les étapes de compréhension et de production de la même tâche. Seuls les profils de l'étape de compréhension prédisaient la qualité du produit, et le groupe le plus dépendant de l'IA obtenait les scores les plus faibles en fluidité de la prestation et en qualité de la langue cible, ce qui plaide pour apprendre aux apprenants à décrire leur propre stratégie et à réfléchir à son sujet, plutôt que pour prescrire une seule manière de travailler avec l'outil.
 - **Faire passer l'ensemble de la boucle des quatre compétences par le coût et la connectivité.** [[llmersion-local-first-language-learning-2026|Guo et al. (2026)]] publient LLMersion-1, un prototype fonctionnant d'abord en local, qui travaille la compréhension orale, la lecture, l'expression orale et l'écriture sur le document propre de l'apprenant, sur du matériel grand public — un tuteur de 1B se quantise en 808 Mo et l'ensemble de la pile résidente reste sous 4 Go — et chiffre cinq ans de pratique quotidienne à environ 18 $ d'électricité, contre 1,200 $ pour un abonnement infonuagique. Aucun résultat d'apprentissage n'est rapporté et la rétroaction sur la prononciation est seulement segmentale.
+- **Les données probantes sur les gains d'expression orale avec les chatbots sont inégales selon les fonctionnalités.** Dans la seule synthèse systématique de la question, dix études menées de 2021 à 2024 ont amélioré l'étendue et l'intelligibilité de la manière la plus fiable, tandis que la cohérence n'a été examinée qu'une fois et l'interaction presque jamais ; quatre des dix rapportaient un score holistique unique ([[chatbots-oral-proficiency-efl-systematic-review|Soriano-Gonzalez et Belda-Medina (2026)]]).
 
 ## Concepts liés
 
@@ -102,15 +105,12 @@ La qualité de la conception, et non la fréquence d'usage, a porté l'effet mot
 
 ## Articles liés
 
+- [[chatbots-oral-proficiency-efl-systematic-review]] — Les gains des chatbots en expression orale se concentrent sur l'étendue et l'intelligibilité
 - [[student-ai-interaction-consecutive-interpreting-2026]] — Student-AI Interaction in Computer-Assisted Consecutive Interpreting
 - [[wu-psychological-adaptation-ai-japanese-learning-2026]] — Profils et transitions de l'adaptation psychologique dans l'apprentissage du japonais assisté par l'IA
 - [[llm-agents-5e-esl-grammar-2026]] — Agents LLM avec le cadre 5E pour l'acquisition de la grammaire anglaise ESLE (Yang, Weng & Yang 2026)
 - [[gpt-item-generation-l2-listening-2026]] — Sollicitation et ajustement fin de GPT pour la génération d'items de compréhension orale en L2 (Aryadoust & Wong 2026)
 - [[bert-discourse-english-teaching-2026]] — Classification du discours par BERT pour l'enseignement de l'anglais
-- [[alharbi-ethical-genai-eap-2026]]
-- [[sutama-chatgpt-eportfolio-speaking-2026]]
-- [[ni-lam-multiliteracies-ai-portfolio-2026]]
-- [[llms-text-linguistics-teaching-2026]] — Les LLM dans l'enseignement de la linguistique textuelle
 - [[ai-vs-human-assessment-efl-tpck-2026]] — Tâches d'évaluation générées par l'IA et élaborées par des humains en anglais langue étrangère
 - [[governing-unseen-ai-literacy-language-teachers-2026]] — Governing the unseen : la littératie en IA chez les enseignants de langue
 - [[ai-guided-learning-audiovideo-2026]]
@@ -123,10 +123,9 @@ La qualité de la conception, et non la fréquence d'usage, a porté l'effet mot
 - [[tact-pedagogically-adaptive-esl-tutoring]]
 - [[ai-tools-arab-english-classrooms]]
 - [[structural-silence-underrepresented-language-ai-2026]]
-- [[instructor-designed-ai-tutors-foreign-language-sdt-2026]] — Instructor-Designed AI Tutors in University Foreign Language Education: A Mixed-Methods Study of Learner Motivation and Reflective Learning Experience Based on Self-Determination Theory
+- [[instructor-designed-ai-tutors-foreign-language-sdt-2026]] — Tuteurs IA conçus par les enseignants dans l'enseignement universitaire des langues étrangères : une étude à méthodes mixtes de la motivation des apprenants et de l'expérience d'apprentissage réflexive fondée sur la théorie de l'autodétermination
 - [[lukesova-clue-before-correction-2026]] — Clue Before Correction: ChatGPT for Autonomous Language Learning
 - [[chatgpt-english-language-learning-malaysia]] — Students' ChatGPT experiences in English language learning
-- [[tts-dialogue-lessons-learner-characteristics-2026]] — Caractéristiques des apprenants × interactions sur le format de dialogue en synthèse vocale
 - [[liu-emerging-tech-tefl-review-2026]] — Méta-analyse des technologies émergentes pour l'anglais langue étrangère
 - [[wang-goal-setting-ai-engagement-2026]] — Théorie de la fixation d'objectifs : soutien de l'enseignant, objectifs de réussite et engagement dans l'apprentissage de l'anglais assisté par l'IA (758 étudiants chinois)
 - [[li-language-educators-genai-review-2026]] — Pratiques et développement des enseignants de langue avec l'IA générative
@@ -136,3 +135,5 @@ La qualité de la conception, et non la fréquence d'usage, a porté l'effet mot
 - [[llmersion-local-first-language-learning-2026]] — LLMersion: A Local-First AI Agent Framework for Low-Cost Home Language Learning toward Educational Equity
 
 - [[ai-ethics-tensions-online-pedagogy-2026]] — Cécité pragmatique : une sortie langagière de l'IA peut être grammaticalement correcte mais culturellement erronée
+- [[ai-speaking-practice-communicative-readiness-2026]] — La préparation, et non la performance observée
+- [[genai-social-annotation-epistemic-network-analysis-2026]] — Étendre l'étayage de l'IA à la lecture collaborative
