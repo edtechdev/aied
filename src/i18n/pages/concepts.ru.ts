@@ -14,6 +14,12 @@ export interface ConceptsStrings {
   browseHtml: string;
   /** Count line above the sections. `{count}` and `{strands}` are substituted. */
   countTemplate: string;
+  /**
+   * The one-sentence description under each section heading, keyed by the
+   * section's English heading as it appears in src/data/conceptIndex.ts.
+   * Sections with no blurb are omitted.
+   */
+  strandBlurbs: Record<string, string>;
   /** Shown when the registry yields no concepts. */
   empty: string;
 }
@@ -26,6 +32,20 @@ const ru: ConceptsStrings = {
   browseHtml:
     'Страницы концепций также выходят в виде <a href="/aied/aied.epub">EPUB</a> или <a href="/aied/aied.pdf">PDF</a> для чтения офлайн. Чтобы начать с вопроса, статьи, инструмента, поиска или собственного ассистента, см. <a href="/aied/faq">FAQ</a>, <a href="/aied/journal">журнал</a>, <a href="/aied/resources">ресурсы</a>, <a href="/aied/search">поиск</a> или <a href="/aied/ai">страницу об ИИ</a>.',
   countTemplate: '{count} страниц концепций, разбитых на {strands} разделов.',
+  strandBlurbs: {
+    'Foundations of AI in education':
+      'Общий взгляд на саму область: что такое ИИ в образовании, как она развивалась и какие сквозные темы (грамотность в области ИИ, сотрудничество человека и ИИ, субъектность) формируют все остальные разделы.',
+    'Learning and instruction':
+      'Как ИИ поддерживает обучение и преподавание через педагогические подходы, теории обучения и процессы, ориентированные на обучающегося, в рамках которых работает ИИ.',
+    'Technologies and techniques':
+      'Технический уровень: модели и методы ИИ, на которых держится образовательная технология, и построенные на них системы моделирования обучающегося и тьюторские системы.',
+    'AI in the disciplines':
+      'Как ИИ применяется в учебных дисциплинах и на разных уровнях образования: предметный охват области.',
+    'Assessment and measurement':
+      'Как ИИ оценивает обучающихся и одновременно меняет то, как мы оцениваем системы ИИ и их влияние.',
+    'Equity, ethics, and responsible use':
+      'Справедливость, доступ и ответственность принципиальны для ИИ в образовании.',
+  },
   empty: 'Страниц концепций пока нет.',
 };
 

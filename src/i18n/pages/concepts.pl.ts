@@ -14,6 +14,12 @@ export interface ConceptsStrings {
   browseHtml: string;
   /** Count line above the sections. `{count}` and `{strands}` are substituted. */
   countTemplate: string;
+  /**
+   * The one-sentence description under each section heading, keyed by the
+   * section's English heading as it appears in src/data/conceptIndex.ts.
+   * Sections with no blurb are omitted.
+   */
+  strandBlurbs: Record<string, string>;
   /** Shown when the registry yields no concepts. */
   empty: string;
 }
@@ -26,6 +32,20 @@ const pl: ConceptsStrings = {
   browseHtml:
     'Strony pojęć są też dostępne jako <a href="/aied/aied.epub">EPUB</a> lub <a href="/aied/aied.pdf">PDF</a> do czytania offline. Aby zacząć od pytania, artykułu, narzędzia, wyszukiwania lub własnego asystenta, zobacz <a href="/aied/faq">FAQ</a>, <a href="/aied/journal">dziennik</a>, <a href="/aied/resources">zasoby</a>, <a href="/aied/search">wyszukiwanie</a> lub <a href="/aied/ai">stronę AI</a>.',
   countTemplate: '{count} stron pojęć, pogrupowanych w {strands} działach.',
+  strandBlurbs: {
+    'Foundations of AI in education':
+      'Całościowe spojrzenie na samą dziedzinę: czym jest AI w edukacji, jak się rozwijała i jakie tematy przekrojowe (kompetencje w zakresie AI, współpraca człowieka z AI, sprawczość) kształtują wszystkie pozostałe nurty.',
+    'Learning and instruction':
+      'Jak AI wspiera uczenie się i nauczanie, poprzez pedagogiki, teorie uczenia się i procesy ukierunkowane na uczącego się, w których AI funkcjonuje.',
+    'Technologies and techniques':
+      'Warstwa techniczna: modele i metody AI, które napędzają technologie edukacyjne, oraz oparte na nich systemy modelowania ucznia i systemy tutorskie.',
+    'AI in the disciplines':
+      'Jak AI jest stosowana w różnych przedmiotach i na różnych poziomach kształcenia: zakres przedmiotowy tej dziedziny.',
+    'Assessment and measurement':
+      'Jak AI ocenia uczących się i jednocześnie zmienia sposób, w jaki oceniamy systemy AI i ich wpływ.',
+    'Equity, ethics, and responsible use':
+      'Równość, dostęp i odpowiedzialność są kluczowe dla AI w edukacji.',
+  },
   empty: 'Brak jeszcze stron pojęć.',
 };
 

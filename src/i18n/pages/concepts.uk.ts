@@ -14,6 +14,12 @@ export interface ConceptsStrings {
   browseHtml: string;
   /** Count line above the sections. `{count}` and `{strands}` are substituted. */
   countTemplate: string;
+  /**
+   * The one-sentence description under each section heading, keyed by the
+   * section's English heading as it appears in src/data/conceptIndex.ts.
+   * Sections with no blurb are omitted.
+   */
+  strandBlurbs: Record<string, string>;
   /** Shown when the registry yields no concepts. */
   empty: string;
 }
@@ -26,6 +32,20 @@ const uk: ConceptsStrings = {
   browseHtml:
     "Сторінки концепцій також виходять як <a href=\"/aied/aied.epub\">EPUB</a> або <a href=\"/aied/aied.pdf\">PDF</a> для читання офлайн. Щоб натомість почати з питання, статті, інструменту, пошуку чи власного помічника, дивіться <a href=\"/aied/faq\">поширені питання</a>, <a href=\"/aied/journal\">журнал</a>, <a href=\"/aied/resources\">ресурси</a>, <a href=\"/aied/search\">пошук</a> або <a href=\"/aied/ai\">сторінку про ШІ</a>.",
   countTemplate: '{count} сторінок концепцій, згрупованих у {strands} напрямів.',
+  strandBlurbs: {
+    'Foundations of AI in education':
+      "Загальний огляд самого поля: що таке ШІ в освіті, як він розвивався, і наскрізні теми (ШІ-грамотність, співпраця людини зі ШІ, суб'єктність), які формують кожен інший напрям.",
+    'Learning and instruction':
+      'Як ШІ підтримує навчання та викладання через педагогічні підходи, теорії навчання й орієнтовані на учня процеси, у яких він працює.',
+    'Technologies and techniques':
+      'Технічний рівень: моделі й методи ШІ, на яких тримається освітня технологія, та системи моделювання учня й тьюторські системи, збудовані на них.',
+    'AI in the disciplines':
+      'Як ШІ застосовують у навчальних предметах і на різних рівнях освіти: те, які предметні галузі охоплює це поле.',
+    'Assessment and measurement':
+      'Як ШІ і оцінює тих, хто навчається, і змінює те, як ми оцінюємо системи ШІ та їхній вплив.',
+    'Equity, ethics, and responsible use':
+      'Справедливість, доступ і відповідальність мають центральне значення для ШІ в освіті.',
+  },
   empty: 'Сторінок концепцій ще немає.',
 };
 

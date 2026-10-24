@@ -72,7 +72,9 @@ const toc = sections.map((section) => ({
   {sections.map((section) => (
     <section>
       <h2 id={anchor(section.heading)}>{taxonomyHeading(section.heading, locale)}</h2>
-      {section.blurb && <p class="strand-blurb">{section.blurb}</p>}
+      {(s.strandBlurbs?.[section.heading] ?? section.blurb) && (
+        <p class="strand-blurb">{s.strandBlurbs?.[section.heading] ?? section.blurb}</p>
+      )}
       {section.groups.map((group) => (
         <div class="concept-group">
           <h3>{taxonomyHeading(group.label, locale)}</h3>
