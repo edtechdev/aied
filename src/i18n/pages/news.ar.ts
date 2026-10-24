@@ -15,6 +15,8 @@ export interface NewsStrings {
   introHtml: string;
   /** The two feeds, and how they differ. May contain inline HTML. */
   feedsHtml: string;
+  /** How to get the newsletter by email, through a feed-to-email service. */
+  emailHtml: string;
   /** Shown when no issue is published. */
   empty: string;
   /** Back-link on an issue page. */
@@ -33,6 +35,8 @@ const ar: NewsStrings = {
     'موجز أسبوعي من <a href="/aied/">قاعدة المعارف للذكاء الاصطناعي في التعليم</a> عن معنى ما نُشر من بحوث خلال الأسبوع للمعلّمين والمطوّرين والباحثين والإداريين. كل عدد يربط الورقة البحثية التي يقف خلفها كل ادعاء، ويتتبّع العمل الداخلي في أسفله ما تغيّر على الموقع نفسه.',
   feedsHtml:
     'تحمله خلاصتان RSS. تحمل <a href="/aied/news/rss.xml">خلاصة النشرة</a> الأعداد وحدها، مدخلًا واحدًا في الأسبوع. وتحمل <a href="/aied/rss.xml">خلاصة قاعدة المعارف</a> كل ملخّص مقال جديد عند إضافته، وهي المادة نفسها التي تُستقى منها الأعداد، لكن بمعدل أعلى بكثير.',
+  emailHtml:
+    'للحصول على كل عدد عبر البريد الإلكتروني، الصق خلاصة النشرة في <a href="https://blogtrottr.com/">Blogtrottr</a>، وهي خدمة مجانية من طرف ثالث ترسل خلاصة إلى بريدك الإلكتروني وفق جدول تختاره. وتتضمّن رسائلها إعلانات.',
   empty: 'لم تُنشر أي أعداد بعد.',
   allIssues: 'كل الأعداد',
   otherIssuesAria: 'أعداد أخرى',

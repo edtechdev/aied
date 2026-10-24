@@ -15,6 +15,8 @@ export interface NewsStrings {
   introHtml: string;
   /** The two feeds, and how they differ. May contain inline HTML. */
   feedsHtml: string;
+  /** How to get the newsletter by email, through a feed-to-email service. */
+  emailHtml: string;
   /** Shown when no issue is published. */
   empty: string;
   /** Back-link on an issue page. */
@@ -33,6 +35,8 @@ const pt: NewsStrings = {
     'Um resumo semanal da <a href="/aied/">base de conhecimento sobre IA na educação</a> sobre o que as pesquisas publicadas na semana significam para professores, desenvolvedores, pesquisadores e administradores. Cada edição linka o artigo por trás de cada afirmação, e o trabalho interno no final acompanha o que mudou no próprio site.',
   feedsHtml:
     'Dois feeds RSS a distribuem. O <a href="/aied/news/rss.xml">feed da newsletter</a> traz apenas as edições, uma entrada por semana. O <a href="/aied/rss.xml">feed da base de conhecimento</a> traz cada novo resumo de artigo assim que é adicionado, ou seja, o mesmo material de onde saem as edições, a um ritmo muito maior.',
+  emailHtml:
+    'Para receber cada edição por e-mail, cole o feed da newsletter no <a href="https://blogtrottr.com/">Blogtrottr</a>, um serviço gratuito de terceiros que envia um feed para a sua caixa de entrada no ritmo que você escolher. As mensagens dele trazem publicidade.',
   empty: 'Nenhuma edição foi publicada ainda.',
   allIssues: 'Todas as edições',
   otherIssuesAria: 'Outras edições',

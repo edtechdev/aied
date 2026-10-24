@@ -15,6 +15,8 @@ export interface NewsStrings {
   introHtml: string;
   /** The two feeds, and how they differ. May contain inline HTML. */
   feedsHtml: string;
+  /** How to get the newsletter by email, through a feed-to-email service. */
+  emailHtml: string;
   /** Shown when no issue is published. */
   empty: string;
   /** Back-link on an issue page. */
@@ -33,6 +35,8 @@ const pl: NewsStrings = {
     'Cotygodniowe podsumowanie z <a href="/aied/">bazy wiedzy o AI w edukacji</a> o tym, co badania opublikowane w danym tygodniu znaczą dla wykładowców, deweloperów, badaczy i administracji. Każdy numer linkuje artykuł stojący za każdym twierdzeniem, a prace wewnętrzne na dole śledzą, co zmieniło się na samej stronie.',
   feedsHtml:
     'Dwa kanały RSS ją dostarczają. <a href="/aied/news/rss.xml">Kanał newslettera</a> zawiera tylko numery, po jednym wpisie na tydzień. <a href="/aied/rss.xml">Kanał bazy wiedzy</a> zawiera każde nowe streszczenie artykułu w chwili dodania, czyli ten sam materiał, z którego powstają numery, w znacznie szybszym tempie.',
+  emailHtml:
+    'Aby otrzymywać każdy numer e-mailem, wklej kanał newslettera do <a href="https://blogtrottr.com/">Blogtrottr</a>, darmowej zewnętrznej usługi, która wysyła kanał na Twoją skrzynkę z wybraną przez Ciebie częstotliwością. Jej wiadomości zawierają reklamy.',
   empty: 'Nie opublikowano jeszcze żadnego numeru.',
   allIssues: 'Wszystkie numery',
   otherIssuesAria: 'Inne numery',

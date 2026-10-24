@@ -14,6 +14,8 @@ export interface NewsStrings {
   introHtml: string;
   /** The two feeds, and how they differ. May contain inline HTML. */
   feedsHtml: string;
+  /** How to get the newsletter by email, through a feed-to-email service. */
+  emailHtml: string;
   /** Shown when no issue is published. */
   empty: string;
   /** Back-link on an issue page. */
@@ -32,6 +34,8 @@ const el: NewsStrings = {
     'Μια εβδομαδιαία σύνοψη από τη <a href="/aied/">βάση γνώσης για την AI στην εκπαίδευση</a>, για το τι σημαίνει η νέα έρευνα που δημοσιεύτηκε την εβδομάδα για εκπαιδευτικούς, προγραμματιστές, ερευνητές και διοικητικά στελέχη. Κάθε τεύχος συνδέει τη δημοσίευση πίσω από κάθε ισχυρισμό, και η εσωτερική εργασία στο τέλος καταγράφει τι άλλαξε στον ίδιο τον ιστότοπο.',
   feedsHtml:
     'Δύο ροές RSS τη μεταφέρουν. Η <a href="/aied/news/rss.xml">ροή του ενημερωτικού δελτίου</a> περιέχει μόνο τα τεύχη, μία καταχώριση την εβδομάδα. Η <a href="/aied/rss.xml">ροή της βάσης γνώσης</a> περιέχει κάθε νέα σύνοψη άρθρου καθώς προστίθεται, δηλαδή το ίδιο υλικό από το οποίο αντλούνται τα τεύχη, με πολύ υψηλότερο ρυθμό.',
+  emailHtml:
+    'Για να λαμβάνετε κάθε τεύχος με email, επικολλήστε τη ροή του ενημερωτικού δελτίου στο <a href="https://blogtrottr.com/">Blogtrottr</a>, μια δωρεάν υπηρεσία τρίτου μέρους που στέλνει μια ροή στα εισερχόμενά σας με το πρόγραμμα που επιλέγετε. Τα μηνύματά της περιέχουν διαφημίσεις.',
   empty: 'Δεν έχουν δημοσιευτεί ακόμη τεύχη.',
   allIssues: 'Όλα τα τεύχη',
   otherIssuesAria: 'Άλλα τεύχη',

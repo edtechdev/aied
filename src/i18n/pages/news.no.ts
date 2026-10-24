@@ -16,6 +16,8 @@ const no: NewsStrings = {
     'En ukentlig oppsummering fra <a href="/aied/">kunnskapsbasen AI i utdanning</a> om hva forskning publisert i løpet av uken betyr for instruktører, utviklere, forskere og administratorer. Hvert nummer lenker til artikkelen bak hver påstand, og det interne arbeidet nederst følger hva som er endret på selve nettstedet.',
   feedsHtml:
     'To RSS-strømmer fører den. <a href="/aied/news/rss.xml">Nyhetsbrevstrømmen</a> inneholder bare numrene, ett innslag i uken. <a href="/aied/rss.xml">Kunnskapsbasestrømmen</a> inneholder hvert nytt artikkelsammendrag etter hvert som det legges til, det samme materialet som numrene hentes fra, i et mye høyere tempo.',
+  emailHtml:
+    'Du får hvert nummer på e-post ved å lime nyhetsbrevstrømmen inn i <a href="https://blogtrottr.com/">Blogtrottr</a>, en gratis tjeneste fra en tredjepart som sender en strøm til innboksen din etter en tidsplan du velger. Meldingene inneholder annonser.',
   empty: 'Ingen numre er publisert ennå.',
   allIssues: 'Alle numre',
   otherIssuesAria: 'Andre numre',

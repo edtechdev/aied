@@ -15,6 +15,8 @@ export interface NewsStrings {
   introHtml: string;
   /** The two feeds, and how they differ. May contain inline HTML. */
   feedsHtml: string;
+  /** How to get the newsletter by email, through a feed-to-email service. */
+  emailHtml: string;
   /** Shown when no issue is published. */
   empty: string;
   /** Back-link on an issue page. */
@@ -33,6 +35,8 @@ const bn: NewsStrings = {
     '<a href="/aied/">শিক্ষায় কৃত্রিম বুদ্ধিমত্তা নলেজ বেস</a> থেকে সাপ্তাহিক সংক্ষিপ্তসার, সপ্তাহে প্রকাশিত নতুন গবেষণা শিক্ষক, ডেভেলপার, গবেষক ও প্রশাসকদের জন্য কী বোঝায় তা নিয়ে। প্রতিটি সংখ্যা প্রতিটি দাবির পেছনের গবেষণাপত্রে লিঙ্ক দেয়, আর নিচের অভ্যন্তরীণ কাজ সাইটেই কী বদলেছে তা অনুসরণ করে।',
   feedsHtml:
     'এটি বহন করে দুটি RSS ফিড। <a href="/aied/news/rss.xml">নিউজলেটার ফিড</a> শুধু সংখ্যাগুলো রাখে, সপ্তাহে একটি এন্ট্রি। <a href="/aied/rss.xml">নলেজ বেস ফিড</a> প্রতিটি নতুন নিবন্ধের সারসংক্ষেপ যোগ হওয়ামাত্র রাখে, যা একই উপাদান যেখান থেকে সংখ্যাগুলো নেওয়া হয়, তবে অনেক বেশি হারে।',
+  emailHtml:
+    'প্রতিটি সংখ্যা ইমেইলে পেতে নিউজলেটার ফিডটি <a href="https://blogtrottr.com/">Blogtrottr</a> নামের বিনামূল্যের তৃতীয় পক্ষের পরিষেবায় পেস্ট করুন, যা আপনার বেছে নেওয়া সময়সূচি অনুযায়ী ফিডটি আপনার ইনবক্সে পাঠায়। এর বার্তাগুলোতে বিজ্ঞাপন থাকে।',
   empty: 'এখনো কোনো সংখ্যা প্রকাশিত হয়নি।',
   allIssues: 'সব সংখ্যা',
   otherIssuesAria: 'অন্য সংখ্যা',
