@@ -14,6 +14,12 @@ export interface ConceptsStrings {
   browseHtml: string;
   /** Count line above the sections. `{count}` and `{strands}` are substituted. */
   countTemplate: string;
+  /**
+   * The one-sentence description under each section heading, keyed by the
+   * section's English heading as it appears in src/data/conceptIndex.ts.
+   * Sections with no blurb are omitted.
+   */
+  strandBlurbs: Record<string, string>;
   /** Shown when the registry yields no concepts. */
   empty: string;
 }
@@ -26,6 +32,20 @@ const pt: ConceptsStrings = {
   browseHtml:
     'As páginas de conceito também estão disponíveis como <a href="/aied/aied.epub">EPUB</a> ou <a href="/aied/aied.pdf">PDF</a> para leitura offline. Para começar por uma pergunta, um artigo, uma ferramenta, uma busca ou o seu próprio assistente, veja o <a href="/aied/faq">FAQ</a>, o <a href="/aied/journal">diário</a>, os <a href="/aied/resources">recursos</a>, a <a href="/aied/search">busca</a> ou a <a href="/aied/ai">página de IA</a>.',
   countTemplate: '{count} páginas de conceito, agrupadas em {strands} seções.',
+  strandBlurbs: {
+    'Foundations of AI in education':
+      'A visão de conjunto do próprio campo: o que é a IA na educação, como evoluiu e os temas transversais (letramento em IA, colaboração humano-IA, agência) que moldam todas as outras seções.',
+    'Learning and instruction':
+      'Como a IA apoia a aprendizagem e o ensino, por meio das pedagogias, teorias de aprendizagem e processos voltados ao estudante em que a IA atua.',
+    'Technologies and techniques':
+      'A camada técnica: os modelos e métodos de IA que movem a tecnologia educacional, e os sistemas de modelagem do estudante e de tutoria construídos sobre eles.',
+    'AI in the disciplines':
+      'Como a IA é aplicada nas diversas disciplinas e níveis educacionais: a cobertura temática do campo.',
+    'Assessment and measurement':
+      'Como a IA avalia os estudantes e, ao mesmo tempo, reformula como avaliamos os sistemas de IA e seu impacto.',
+    'Equity, ethics, and responsible use':
+      'Equidade, acesso e responsabilidade são centrais para a IA na educação.',
+  },
   empty: 'Ainda não há páginas de conceito.',
 };
 

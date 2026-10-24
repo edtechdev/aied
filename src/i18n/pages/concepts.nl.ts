@@ -14,6 +14,12 @@ export interface ConceptsStrings {
   browseHtml: string;
   /** Count line above the sections. `{count}` and `{strands}` are substituted. */
   countTemplate: string;
+  /**
+   * The one-sentence description under each section heading, keyed by the
+   * section's English heading as it appears in src/data/conceptIndex.ts.
+   * Sections with no blurb are omitted.
+   */
+  strandBlurbs: Record<string, string>;
   /** Shown when the registry yields no concepts. */
   empty: string;
 }
@@ -26,6 +32,20 @@ const nl: ConceptsStrings = {
   browseHtml:
     'De conceptpagina\'s zijn er ook als <a href="/aied/aied.epub">EPUB</a> of <a href="/aied/aied.pdf">PDF</a> om offline te lezen. Wil je liever beginnen bij een vraag, een artikel, een tool, een zoekopdracht of je eigen assistent, kijk dan bij de <a href="/aied/faq">FAQ</a>, het <a href="/aied/journal">journaal</a>, de <a href="/aied/resources">bronnen</a>, <a href="/aied/search">zoeken</a> of de <a href="/aied/ai">AI-pagina</a>.',
   countTemplate: '{count} conceptpagina\'s, gegroepeerd in {strands} secties.',
+  strandBlurbs: {
+    'Foundations of AI in education':
+      'De brede blik op het vakgebied zelf: wat AI in het onderwijs is, hoe het zich ontwikkelde, en de overkoepelende thema\'s (AI-geletterdheid, samenwerking tussen mens en AI, agency) die elke andere sectie vormgeven.',
+    'Learning and instruction':
+      'Hoe AI leren en onderwijzen ondersteunt, via de didactiek, de leertheorieën en de processen gericht op de lerende waarbinnen AI opereert.',
+    'Technologies and techniques':
+      'De technische laag: de AI-modellen en -methoden die onderwijstechnologie aandrijven, en de leermodellering en tutorsystemen die daarop zijn gebouwd.',
+    'AI in the disciplines':
+      'Hoe AI wordt toegepast in de vakgebieden en op de verschillende onderwijsniveaus: de breedte van de onderwerpen die het veld bestrijkt.',
+    'Assessment and measurement':
+      'Hoe AI zowel leerlingen beoordeelt als verandert hoe we AI-systemen en hun impact evalueren.',
+    'Equity, ethics, and responsible use':
+      'Gelijkheid, toegang en verantwoordelijkheid staan centraal in AI in het onderwijs.',
+  },
   empty: 'Nog geen conceptpagina\'s.',
 };
 

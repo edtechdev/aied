@@ -14,6 +14,12 @@ export interface ConceptsStrings {
   browseHtml: string;
   /** Count line above the sections. `{count}` and `{strands}` are substituted. */
   countTemplate: string;
+  /**
+   * The one-sentence description under each section heading, keyed by the
+   * section's English heading as it appears in src/data/conceptIndex.ts.
+   * Sections with no blurb are omitted.
+   */
+  strandBlurbs: Record<string, string>;
   /** Shown when the registry yields no concepts. */
   empty: string;
 }
@@ -26,6 +32,20 @@ const he: ConceptsStrings = {
   browseHtml:
     'עמודי המושגים מופיעים גם כ<a href="/aied/aied.epub">EPUB</a> או <a href="/aied/aied.pdf">PDF</a> לקריאה לא מקוונת. כדי להתחיל במקום זאת משאלה, ממאמר, מכלי, מחיפוש או מהעוזר שלכם, ראו <a href="/aied/faq">שאלות נפוצות</a>, <a href="/aied/journal">יומן</a>, <a href="/aied/resources">משאבים</a>, <a href="/aied/search">חיפוש</a> או <a href="/aied/ai">עמוד הבינה המלאכותית</a>.',
   countTemplate: '{count} עמודי מושגים, המחולקים ל-{strands} אשכולות.',
+  strandBlurbs: {
+    'Foundations of AI in education':
+      'המבט הכולל על התחום עצמו: מהי בינה מלאכותית בחינוך, כיצד התפתחה, ואילו נושאים חוצי תחומים (אוריינות בינה מלאכותית, שיתוף פעולה בין אדם לבינה מלאכותית, יכולת פעולה) מעצבים כל אשכול אחר.',
+    'Learning and instruction':
+      'כיצד בינה מלאכותית תומכת בלמידה ובהוראה, דרך הגישות הפדגוגיות, תאוריות הלמידה והתהליכים הממוקדים בלומד שבתוכם היא פועלת.',
+    'Technologies and techniques':
+      'השכבה הטכנית: מודלי הבינה המלאכותית והשיטות שמפעילים את טכנולוגיית החינוך, ומערכות מידול הלומד והנחיה אישית שנבנו עליהן.',
+    'AI in the disciplines':
+      'כיצד בינה מלאכותית מיושמת במקצועות הלימוד וברמות החינוך השונות: היקף הכיסוי של התחום על פני תחומי לימוד.',
+    'Assessment and measurement':
+      'כיצד בינה מלאכותית גם מעריכה לומדים וגם מעצבת מחדש את האופן שבו אנו מעריכים מערכות בינה מלאכותית ואת השפעתן.',
+    'Equity, ethics, and responsible use':
+      'שוויון, נגישות ואחריות הם בליבה של הבינה המלאכותית בחינוך.',
+  },
   empty: 'אין עדיין עמודי מושגים.',
 };
 
