@@ -79,4 +79,4 @@ Una revisión de alcance de 2026 sobre las [[ai-technologies|tecnologías]] asis
 - [[llm-question-generation-deaf-hard-of-hearing-2026]] — Generación de preguntas con LLM para estudiantes sordos y con dificultades auditivas
 - [[gemini-lualatex-physics-video-transcription-2026]] — Transcripción de vídeos de física con matemáticas accesibles mediante Gemini+LuaLaTeX
 - [[khlaif-assistive-genai-visually-impaired-2026]] — IA generativa de asistencia para estudiantes con discapacidad visual
-- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — Generative AI, virtual reality, and beyond: A scoping review of digital assistive technologies for neurodivergent students in higher education
+- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — IA generativa, realidad virtual y más allá: una revisión de alcance de las tecnologías de asistencia digitales para estudiantado neurodivergente en educación superior

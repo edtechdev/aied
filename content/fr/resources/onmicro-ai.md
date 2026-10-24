@@ -1,7 +1,7 @@
 ---
 title: "OnMicro.AI"
 created: "2026-09-23T17:45:00-04:00"
-updated: "2026-10-10T04:00:00-04:00"
+updated: "2026-10-24T08:38:48-04:00"
 type: resource
 summary: "Un constructeur sans code qui permet aux enseignants de créer des applications d'IA ciblées, de les publier par lien, de les intégrer dans un LMS via LTI, et d'observer comment les élèves les utilisent."
 url: https://onmicro.ai/
@@ -19,7 +19,7 @@ level: [higher ed]
 confidence: high
 connected_resources: [vibes-diy]
 translation_of: resources/onmicro-ai
-source_updated: "2026-09-23T17:45:00-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -46,4 +46,6 @@ Il convient aux enseignants et concepteurs d'apprentissage qui veulent des inter
 L'offre gratuite est limitée à 10 000 crédits d'IA et trois applications ; les applications illimitées et les modèles avancés commencent à l'offre Pro, et l'intégration LTI, l'authentification unique et l'analytique avancée sont listées à l'offre Enterprise, si bien que les fonctionnalités dont une institution a le plus besoin sont celles qui ont un prix. Le dépôt est sous licence **AGPL-3.0** selon son fichier `LICENSE`, ce qui compte pour quiconque entend l'auto-héberger ou le modifier, et son README dit encore LGPL depuis avant ce changement ; lisez donc le fichier de licence plutôt que le README. Les institutions devraient aussi vérifier leurs propres conditions de traitement des données avant d'acheminer des travaux d'élèves par un service tiers hébergé.
 
 ## Concepts liés
-[[teacher-ai-competency]], [[learning-design]], [[open-source]], [[intelligent-tutoring]], [[scaffolding]]
+
+[[teacher-ai-competency]], [[learning-design]], [[open-source]], [[intelligent-tutoring]], [[scaffolding]], [[ai-literacy]], [[edtech-platform]]
+

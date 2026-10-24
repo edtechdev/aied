@@ -18,7 +18,7 @@ confidence: high
 connected_resources: [teacherserver, edugems]
 reviewed_by: [editor]
 translation_of: resources/playlab
-source_updated: "2026-09-20T16:45:00-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -45,4 +45,6 @@ Agli insegnanti K-12 e ai distretti che vogliono controlli in classe e ancoraggi
 L'accesso allo strumento di creazione è a invito: la pagina di inizio chiede un indirizzo email e un posto in un workshop di onboarding, oppure un codice di invito. Le sue dichiarazioni di conformità (FERPA, COPPA, GDPR, CCPA, SOC 2 Type II), la promessa che il tuo lavoro non addestri mai modelli esterni e l'attribuzione dei diritti sugli output al creatore appartengono all'accordo sul trattamento dei dati, non solo alla pagina di marketing; il suo confronto delle funzionalità con MagicSchool e i principali chatbot è proprio di Playlab, datato metà 2026. È nata da lavori sulla programmazione per utenti finali legati a Scratch e al MIT Media Lab.
 
 ## Concetti collegati
-[[ai-literacy]], [[learning-design]], [[generative-ai]], [[rag]], [[human-in-the-loop-ai]], [[privacy]], [[guardrails]]
+
+[[ai-literacy]], [[learning-design]], [[generative-ai]], [[rag]], [[human-in-the-loop-ai]], [[privacy]], [[guardrails]], [[educational-technology-developers]], [[teacher-ai-competency]]
+

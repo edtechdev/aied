@@ -1,7 +1,7 @@
 ---
 title: "EduGems"
 created: "2026-09-20T13:49:11-04:00"
-updated: "2026-10-09T19:11:12-04:00"
+updated: "2026-10-24T08:38:48-04:00"
 type: resource
 summary: "一个不断扩充的现成 Google Gemini 'Gems' 库——可分享的预制提示，覆盖教学计划、反馈、表单、图像与 AI 使用反思。"
 url: https://www.edugems.ai/
@@ -18,7 +18,7 @@ audience: [instructors, curriculum designers, learners]
 confidence: high
 connected_resources: [teacherserver, id-toolbox]
 translation_of: resources/edugems
-source_updated: "2026-09-20T13:49:11-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -42,4 +42,5 @@ ai_assist:
 
 ## 关联概念
 
-[[prompt-engineering]], [[generative-ai]], [[ai-literacy]], [[learning-design]], [[online-teaching-and-learning]]
+[[prompt-engineering]], [[generative-ai]], [[ai-literacy]], [[learning-design]], [[online-teaching-and-learning]], [[teacher-ai-competency]]
+

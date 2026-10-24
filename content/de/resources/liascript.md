@@ -1,7 +1,7 @@
 ---
 title: "LiaScript"
 created: "2026-09-23T20:15:00-04:00"
-updated: "2026-10-10T09:50:22-04:00"
+updated: "2026-10-24T08:38:48-04:00"
 type: resource
 summary: "Ein offener Markdown-Dialekt, der eine einfache Textdatei in einen interaktiven Kurs im Browser verwandelt, mit Quiz und lauffähigem Code, dazu ein Multi-Agent-Assistent zum Bauen von Kursen damit."
 url: https://liascript.github.io/
@@ -19,7 +19,7 @@ level: [higher ed, k 12]
 confidence: high
 connected_resources: [lesson-md]
 translation_of: resources/liascript
-source_updated: "2026-09-24T04:57:47-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -47,4 +47,5 @@ LiaScript ist kostenlos, ohne kostenpflichtige Stufe und ohne Kontopflicht, und 
 
 ## Verbundene Konzepte
 
-[[learning-design]], [[open-source]], [[online-teaching-and-learning]], [[active-learning]]
+[[learning-design]], [[open-source]], [[online-teaching-and-learning]], [[active-learning]], [[cs-education]], [[edtech-platform]]
+

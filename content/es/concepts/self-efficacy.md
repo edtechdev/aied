@@ -1,6 +1,7 @@
 ---
 title: Autoeficacia
 created: "2026-09-28T19:11:56-04:00"
+updated: "2026-10-24T08:21:10-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [motivation, self-efficacy, self-regulated-learning]
@@ -10,7 +11,7 @@ audience: [learners]
 confidence: high
 reviewed_by: [editor]
 translation_of: concepts/self-efficacy
-source_updated: "2026-10-13T11:05:00-04:00"
+source_updated: "2026-10-23T09:20:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -51,12 +52,13 @@ La autoeficacia es distinta de la competencia real: es una creencia sobre la cap
 - **Autoeficacia en IA y preparación para la carrera:** la [[ai-literacy-career-adaptability-business-2026|investigación sobre la preparación en IA]] muestra que la autoeficacia en IA modera la relación entre la alfabetización en IA y la preparación en IA: la alfabetización se traduce en preparación solo cuando quienes aprenden tienen confianza en el uso de la IA, y la autoeficacia predice directamente la [[career-development-and-readiness|adaptabilidad profesional]].
 - **La confianza no siempre es la palanca.** Un modelo de ecuaciones estructurales transversal de 502 docentes universitarios encontró que la autoeficacia tecnológica era un predictor pequeño del bienestar con la IA (β = 0,082), mientras que la alfabetización en IA dominaba (β = 0,713), acotando la afirmación de que la confianza condiciona los resultados con la IA: para el bienestar, el conocimiento pesó más que la confianza ([[faculty-ai-well-being-social-supports-2026|Liu et al., 2026]]).
 - **Las habilidades pueden posibilitar la dependencia mientras la autoeficacia la amortigua.** Entre 478 estudiantes de grado israelíes, las dimensiones de habilidad de la [[ai-literacy|alfabetización en IA]] se asociaron positivamente con la dependencia de la IA (usar/comprender la IA, β = 0,404), mientras que la autoeficacia en IA se asoció negativamente (β = −0,132), por lo que una formación en alfabetización que desarrolle solo la habilidad con la herramienta puede aumentar la dependencia ([[student-dependency-on-ai-literacy-self-efficacy-2026|Maizel et al., 2026]]).
+- **Una confianza baja conduce a un uso más intenso de la IA y después a puntuaciones más bajas.** En un curso de demostraciones con 153 estudiantes, un punto más de autoeficacia de partida predecía un 39 % menos de mensajes al chatbot, y un punto menos de autoeficacia correspondía a 0,62 puntos menos de examen por la vía del uso del chatbot ([[ai-proof-learning-cognitive-offloading-2026|Chen et al. (2026)]]).
 - **La confianza como pivote entre la alfabetización y la confianza:** [[hu-psychological-predictors-continued-chatgpt-use-2026|Hu (2026)]] encuestó a 450 estudiantes universitarios que ya usan ChatGPT y encontró una cadena ordenada en lugar de dos correlatos paralelos: la [[ai-literacy|alfabetización en IA]] se relacionaba con la [[trust]] en la herramienta (beta = 0,50), la confianza con la autoeficacia académica (0,48), y la autoeficacia con el uso continuado, con un efecto indirecto en serie significativo (0,07, IC del 95 % [0,04, 0,10]). La [[anxiety-and-stress|ansiedad ante la IA]] debilitó el vínculo entre alfabetización y confianza (interacción beta = −0,25, con pendientes simples que caen de 0,76 a 0,25 a lo largo del rango de ansiedad), por lo que el mismo conocimiento compraba menos confianza, y alcanzaba menos uso, entre el estudiantado más ansioso. La confianza es así un eslabón descendente de la cadena más que un punto de partida.
 
 La ruta de la ansiedad a través de la cual la práctica asistida por IA se relaciona con la disposición puede invertirse en lugar de atenuarse con la confianza: la asociación indirecta condicional cayó de 0,142 con una baja autoeficacia en la expresión oral a 0,044 en la media y −0,054 con una autoeficacia alta, un efecto concentrado en una pequeña cola superior ([[ai-speaking-practice-communicative-readiness-2026|Wang y Li, 2026]]).
 - **Perfiles de autoeficacia académica y quién recurre a la IA:** [[suria-martinez-academic-self-efficacy-motor-disabilities-2026|Suriá-Martínez et al. (2026)]] realizaron un análisis de perfiles latentes de la autoeficacia académica entre 102 estudiantes universitarios con discapacidad motriz en España y encontraron tres perfiles (bajo 29,4 %, moderado 41,2 %, alto 29,4 %) cuyo uso reportado de la IA crecía escalonadamente con el nivel del perfil (medias 2,41, 3,56, 4,68; F(2, 99) = 27,84, p < 0,001, eta al cuadrado = 0,36), con la Excelencia, la dimensión de planificación y fijación de metas, como la más fuertemente asociada al uso de la IA (beta = 0,47). Los autores lo leen como un problema de [[equity-in-ai-education|equidad]]: si la confianza va pareja con la adopción, el estudiantado con menor autoeficacia puede ser el menos propenso a recurrir al apoyo de la IA que podría reducir las barreras de [[accessibility|acceso]], por lo que el apoyo a la autoeficacia académica pertenece al interior de los marcos de [[inclusive-learning|inclusión]].
 - **Patrones de uso de la IA y autoeficacia:** [[stamatoulis-genai-use-patterns-2026|Stamatoulis et al. (2026)]] encontraron que usar la [[generative-ai|IA generativa]] para *apoyar la comprensión* (integración evaluativa) estaba totalmente mediado por la autoeficacia académica en su asociación con el rendimiento —el uso de la IA orientado a la comprensión construye confianza—, mientras que el uso como atajo (adopción con poca verificación) predecía peores resultados en parte con independencia de la autoeficacia. La autoeficacia es así tanto una vía a través de la cual el uso productivo de la IA ayuda como un factor que el uso como atajo puede no construir.
-- **La atribución moldea si la autoeficacia crece.** Atribuir el éxito a la IA en lugar de al propio esfuerzo limita el crecimiento de la [[self-efficacy]] y refuerza los patrones de atajo, por lo que secuenciar las actividades complejas en pasos donde el estudiantado atribuya el progreso a sus propias estrategias importa más que la herramienta ([[oby-chatgpt-use-learning-framework-2026|Øby, 2026]]).
+- **La atribución moldea si la autoeficacia crece.** Atribuir el éxito a la IA en lugar de al propio esfuerzo limita el crecimiento de la autoeficacia y refuerza los patrones de atajo, por lo que secuenciar las actividades complejas en pasos donde el estudiantado atribuya el progreso a sus propias estrategias importa más que la herramienta ([[oby-chatgpt-use-learning-framework-2026|Øby, 2026]]).
 - **Robótica y [[experiential-learning|aprendizaje práctico]]:** el juego de roles mediado por robot de [[remind-robot-mediated-roleplay-antibullying-2026|REMind]] construyó la autoeficacia de los niños en la intervención contra el acoso escolar; la robótica y el [[embodied-learning|aprendizaje corporeizado]] construyen en general la confianza al fundamentar las tareas en resultados observables.
 - **Autoeficacia creativa en la infancia:** [[niu-genai-children-creative-thinking-cognitive-development-review-2026|Niu et al. (2026)]] reportan, en una revisión de alcance sistemática de 22 estudios primarios sobre IA generativa con niños de 6 a 15 años, que las ganancias en autoeficacia creativa se agrupan con el pensamiento divergente y la creatividad narrativa, en su mayoría a través de herramientas de texto a imagen que rebajan la barrera entre la idea y el artefacto. Se abstienen de afirmar la eficacia: los diseños son heterogéneos, la revisión no realizó ninguna valoración crítica, y el corpus es casi silencioso sobre la discapacidad, la baja conectividad y quienes aprenden en situación de desventaja, por lo que la confianza creativa es un resultado reportado como al alza más que uno que el campo haya confirmado.
 - **Autoeficacia del profesorado:** la investigación sobre la [[teacher-ai-competency|competencia del profesorado en IA]] examina cómo el [[educational-development|desarrollo profesional]] construye la confianza del profesorado en el uso de la IA, lo que afecta a la adopción y la integración. [[ai-supported-ementoring-efl-preservice-2026|Ismael, Luo y Li (2026)]] añaden evidencia cuasiexperimental de que un modelo de e-mentoría con apoyo de la IA eleva la autoeficacia y la inteligencia emocional del profesorado de inglés como lengua extranjera en formación durante las prácticas: el grupo experimental ganó sustancialmente más que los controles en ambas medidas, con un efecto entre grupos grande y ganancias en todos los subdominios de la autoeficacia —y los autores lo atribuyen a la mentoría con mediación de la IA dentro de ciclos reflexivos estructurados más que a la IA por sí sola—.
@@ -88,25 +90,26 @@ La autoeficacia se conecta con la [[motivation]], el [[self-regulated-learning]]
 
 ## Artículos conectados
 
-- [[confident-but-absent-ai-use-absenteeism-2026]] — General AI use tracked with higher self-efficacy and higher absenteeism, yet self-efficacy did not predict attendance (Franco et al. 2026)
-- [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026]] — AI chatbots in higher education: comparing expectations to evidence (Thoeni & Fryer 2026)
+- [[ai-proof-learning-cognitive-offloading-2026]] — ¿Apoyar o sustituir el razonamiento del estudiantado? La carga cognitiva en el aprendizaje de demostraciones asistido por IA (Chen et al. 2026)
+- [[confident-but-absent-ai-use-absenteeism-2026]] — El uso general de IA se asoció con mayor autoeficacia y mayor absentismo, aunque la autoeficacia no predijo la asistencia (Franco et al. 2026)
+- [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026]] — Chatbots de IA en la educación superior: comparar las expectativas con la evidencia (Thoeni y Fryer 2026)
 - [[genai-performance-vs-learning]] — confidence rising while technological dependence grows: self-efficacy as a misleading AI-era outcome (Yan et al. 2025)
-- [[ai-supported-ementoring-efl-preservice-2026]] — AI-supported e-mentoring raises EFL pre-service teachers' self-efficacy and emotional intelligence (quasi-experimental)
-- [[aigc-affordance-student-self-regulation-2026]] — AIGC Affordance and Student Self-Regulation
+- [[ai-supported-ementoring-efl-preservice-2026]] — La mentoría electrónica con apoyo de IA eleva la autoeficacia y la inteligencia emocional del profesorado de inglés en formación (cuasiexperimental)
+- [[aigc-affordance-student-self-regulation-2026]] — Afordancias de la IA generativa de contenidos y autorregulación del estudiantado
 - [[oby-chatgpt-use-learning-framework-2026]]
 - [[ai-literacy-career-adaptability-business-2026]] — AI Literacy, AI Readiness, and Career Adaptability
 - [[remind-robot-mediated-roleplay-antibullying-2026]] — REMind
-- [[teacher-education-ai-literacy-sdt-2026]] — Teacher Education for AI Literacy (SDT)
-- [[social-robot-study-companions]] — Social Robots as Study Companions
+- [[teacher-education-ai-literacy-sdt-2026]] — Formación docente para la alfabetización en IA (teoría de la autodeterminación)
+- [[social-robot-study-companions]] — Robots sociales como compañeros de estudio
 - [[hcap-human-centric-ai-pedagogy-framework-2026]] — HCAP Framework
 - [[student-dependency-on-ai-literacy-self-efficacy-2026]]
 - [[stamatoulis-genai-use-patterns-2026]] — Patterns of GenAI use and academic self-efficacy
-- [[ai-literacy-course-satisfaction-pbl-scale-2026]] — AI-PBLS scale; empowerment and ethical awareness mediating PBL-to-satisfaction in AI literacy courses (Zhu & Kong 2026)
+- [[ai-literacy-course-satisfaction-pbl-scale-2026]] — Escala AI-PBLS; el empoderamiento y la conciencia ética median la relación entre el ABP y la satisfacción en cursos de alfabetización en IA (Zhu y Kong 2026)
 - [[predicting-attrition-competitive-programming]] — Predicting Student Attrition in Competitive Programming
-- [[genai-xr-architectural-design-education-2026]] — Generative AI and Extended Reality in Collaborative Architectural Design Education: An Exploratory Studio Study
-- [[hu-psychological-predictors-continued-chatgpt-use-2026]] — AI literacy, trust and academic self-efficacy in a serial chain to continued ChatGPT use
-- [[suria-martinez-academic-self-efficacy-motor-disabilities-2026]] — Academic self-efficacy profiles and reported AI use among university students with motor disabilities
-- [[niu-genai-children-creative-thinking-cognitive-development-review-2026]] — Reported creative self-efficacy gains from generative AI in children (scoping review)
-- [[ai-speaking-practice-communicative-readiness-2026]] — Speaking self-efficacy reverses the anxiety pathway from AI-assisted practice to willingness
-- [[faculty-ai-well-being-social-supports-2026]] — Faculty SEM: technological self-efficacy a weak predictor of AI well-being
-- [[cen-self-efficacy-favorability-2026]] — Self-efficacy and favorability shape learning from tutoring systems and paper practice (Cen et al. 2026)
+- [[genai-xr-architectural-design-education-2026]] — IA generativa y realidad extendida en la educación colaborativa del diseño arquitectónico: un estudio exploratorio de taller
+- [[hu-psychological-predictors-continued-chatgpt-use-2026]] — Alfabetización en IA, confianza y autoeficacia académica en una cadena serial hacia el uso continuado de ChatGPT
+- [[suria-martinez-academic-self-efficacy-motor-disabilities-2026]] — Perfiles de autoeficacia académica y uso declarado de IA en estudiantes universitarios con discapacidad motora
+- [[niu-genai-children-creative-thinking-cognitive-development-review-2026]] — Ganancias declaradas de autoeficacia creativa por el uso de IA generativa en la infancia (revisión de alcance)
+- [[ai-speaking-practice-communicative-readiness-2026]] — La autoeficacia para hablar invierte la ruta de ansiedad desde la práctica asistida por IA hasta la disposición a comunicarse
+- [[faculty-ai-well-being-social-supports-2026]] — MEE con profesorado: la autoeficacia tecnológica predice débilmente el bienestar relacionado con la IA
+- [[cen-self-efficacy-favorability-2026]] — La autoeficacia y la favorabilidad moldean el aprendizaje con sistemas de tutoría y con práctica en papel (Cen et al. 2026)

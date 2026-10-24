@@ -1,7 +1,7 @@
 ---
 title: "Playlab"
 created: "2026-09-22T12:00:00-04:00"
-updated: "2026-09-22T12:00:00-04:00"
+updated: "2026-10-24T08:38:48-04:00"
 type: resource
 summary: "A nonprofit creator platform where educators build, share and evaluate their own AI apps — grounded in their curriculum, run on the model of their choice, with teacher visibility built in."
 url: https://www.playlab.ai/
@@ -17,7 +17,7 @@ level: [k 12, higher ed]
 audience: [instructors, instructional designers, educational technology developers]
 confidence: high
 connected_resources: [teacherserver, edugems]
-source_updated: "2026-09-20T16:45:00-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_of: resources/playlab
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
@@ -42,4 +42,6 @@ ai_assist:
 构建器的使用是受限的：入门页面要求留下电子邮件地址并参加一次入门工作坊，或者需要邀请码。它的合规声明（FERPA、COPPA、GDPR、CCPA、SOC 2 Type II）、你的作品不会用于训练外部模型的承诺，以及将输出权利归属于创作者的做法，都应当写入数据处理协议，而不仅仅出现在营销页面上；它与 MagicSchool 及各大聊天机器人的能力对比出自 Playlab 自身，时间为 2026 年年中。它源自与 Scratch 和 MIT 媒体实验室相关的最终用户编程研究。
 
 ## 关联概念
-[[ai-literacy]], [[learning-design]], [[generative-ai]], [[rag]], [[human-in-the-loop-ai]], [[privacy]], [[guardrails]]
+
+[[ai-literacy]], [[learning-design]], [[generative-ai]], [[rag]], [[human-in-the-loop-ai]], [[privacy]], [[guardrails]], [[educational-technology-developers]], [[teacher-ai-competency]]
+

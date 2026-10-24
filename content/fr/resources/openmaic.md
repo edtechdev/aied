@@ -1,7 +1,7 @@
 ---
 title: "OpenMAIC"
 created: "2026-09-20T17:30:00-04:00"
-updated: "2026-10-10T04:00:00-04:00"
+updated: "2026-10-24T08:38:48-04:00"
 type: resource
 summary: "La publication open source de MAIC : une classe multi-agents qui transforme un sujet ou un document en diapositives, quiz, simulations interactives et activités par projet, animée par des enseignants et des camarades d'IA."
 url: https://github.com/THU-MAIC/OpenMAIC
@@ -19,7 +19,7 @@ audience: [instructors, curriculum designers, instructional designers, learners,
 confidence: high
 connected_resources: [deeptutor, lesson-md]
 translation_of: resources/openmaic
-source_updated: "2026-09-20T17:30:00-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -46,4 +46,6 @@ Aux enseignants et équipes de cours qui veulent des matériels générés qu'il
 Sous licence MIT, avec un guide utilisateur en anglais et en chinois et une communauté active sur Discord et Feishu. Elle est neutre du point de vue des modèles : vous fournissez au moins une clé de fournisseur de LLM, et des composants locaux optionnels (Lemonade pour les modèles locaux, FunASR pour la reconnaissance vocale) vous permettent de faire tourner une plus grande partie de la pile hors ligne — si bien que « gratuit » décrit le logiciel, pas la facture d'inférence. L'article qui la sous-tend est paru dans le *Journal of Computer Science and Technology* (2026, DOI 10.1007/s11390-025-6000-0), et le dépôt comptait plus de 38 000 étoiles en septembre 2026.
 
 ## Concepts liés
-[[agentic-ai]], [[generative-ai]], [[llm]], [[open-source]], [[project-based-learning]], [[online-teaching-and-learning]], [[personalized-learning]], [[teacher-role]]
+
+[[agentic-ai]], [[generative-ai]], [[llm]], [[open-source]], [[project-based-learning]], [[online-teaching-and-learning]], [[personalized-learning]], [[teacher-role]], [[intelligent-tutoring]], [[simulation]]
+

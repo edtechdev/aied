@@ -1,7 +1,7 @@
 ---
 title: "Vibes DIY"
 created: "2026-09-27T03:01:09-04:00"
-updated: "2026-09-27T03:01:09-04:00"
+updated: "2026-10-24T08:38:48-04:00"
 type: resource
 summary: "Un constructor de aplicaciones en lenguaje sencillo: describa una herramienta pequeña con palabras y obtenga una aplicación web funcional y compartible, con los paquetes de React y la CLI subyacentes publicados bajo Apache-2.0."
 url: https://vibes.diy/
@@ -18,7 +18,7 @@ audience: [instructors, learners, software developers]
 level: [higher ed, k 12]
 confidence: high
 connected_resources: [onmicro-ai]
-source_updated: "2026-09-23T17:45:00-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_of: resources/vibes-diy
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
@@ -43,4 +43,6 @@ Es un constructor de propósito general y no un producto educativo: resulta úti
 La plataforma tiene un nivel gratuito, pero se basa en créditos: las cuentas reciben 1.000 créditos de IA al mes, y construir, editar, generar imágenes y las funciones de IA integradas en la aplicación los consumen todos. Una suscripción añade la opción de comprar más créditos, que no caducan. Cualquier curso que pretenda apoyarse en la plataforma debería comprobar las condiciones vigentes, ya que el uso gratuito está medido y no es ilimitado, y debería tratar las aplicaciones creadas por el estudiantado como contenido con sus propias cuestiones de tratamiento de datos.
 
 ## Conceptos conectados
-[[ai-literacy]], [[open-source]], [[design-thinking]], [[constructivist]], [[learning-design]]
+
+[[ai-literacy]], [[open-source]], [[design-thinking]], [[constructivist]], [[learning-design]], [[vibe-coding]]
+

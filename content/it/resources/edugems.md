@@ -18,7 +18,7 @@ confidence: high
 connected_resources: [teacherserver, id-toolbox]
 reviewed_by: [editor]
 translation_of: resources/edugems
-source_updated: "2026-09-20T13:49:11-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -41,4 +41,5 @@ Curata da Eric Curts, che pubblica il video tutorial di accompagnamento, la news
 
 ## Concetti collegati
 
-[[prompt-engineering]], [[generative-ai]], [[ai-literacy]], [[learning-design]], [[online-teaching-and-learning]]
+[[prompt-engineering]], [[generative-ai]], [[ai-literacy]], [[learning-design]], [[online-teaching-and-learning]], [[teacher-ai-competency]]
+

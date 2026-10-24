@@ -18,7 +18,7 @@ confidence: high
 connected_resources: [teacherserver, id-toolbox]
 reviewed_by: [editor]
 translation_of: resources/edugems
-source_updated: "2026-09-20T13:49:11-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
@@ -39,4 +39,4 @@ ai_assist:
 منسَّقة من Eric Curts، الذي ينشر فيديو التعليم المرافق والنشرة الأوسع وموارد التقنيات التعليمية في Control Alt Achieve. وعمل نسخة من Gem يقتضي حساب Google وشروط Gemini تأتي معه، فهذه مكتبة تُقيَّم قبل توجيه الطلاب إليها، لا أداة يمكن استخدامها مجهولة الهوية.
 
 ## المفاهيم المتصلة
-[[prompt-engineering]]، [[generative-ai]]، [[ai-literacy]]، [[learning-design]]، [[online-teaching-and-learning]]
+[[prompt-engineering]]، [[generative-ai]]، [[ai-literacy]]، [[learning-design]]، [[online-teaching-and-learning]]، [[teacher-ai-competency]]

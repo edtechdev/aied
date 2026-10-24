@@ -30,7 +30,7 @@ ai_assist:
     agent: hermes-agent
 reviewed_by: [editor]
 translation_of: resources/mglearn
-source_updated: "2026-09-23T17:45:00-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 ---
 
@@ -51,4 +51,6 @@ K–12 öğretmenlerini ve onları eğiten mesleki gelişim uygulayıcılarını
 İçerik CC BY-NC 4.0, altta yatan kod ise MIT lisanslıdır: kaynak belirtilmek koşuluyla sınıf kullanımı, yerel barındırma ve uyarlamaya izin verilir; materyallerin satılması veya ücretli eğitim paketlerine katılması ise TCEA’dan yazılı izin gerektirir. Başkalarına ait eserler lisansın dışındadır ve edebiyat etkinlikleri telif hakkıyla korunan eserlerden hiçbir metni çoğaltmaz. Proje, içerik ve çevirilerin editöryel gözden geçirme altında üretici yapay zeka ile üretildiğini ve çevirilerin makine destekli olduğunu, sınıf kullanımından önce yerel eğitimcilerin gözden geçirmesi için işaretlendiğini belirtir; bu, bir ilçenin materyalleri büyük ölçekte benimsemesinden önce ciddiye alınması gereken bir bilgidir. Her etkinlik, giriş yapmaya ve veri toplamaya gerek kalmaksızın öğrencinin tarayıcısında çalışır.
 
 ## Bağlı kavramlar
-[[ai-literacy]], [[inclusive-learning]], [[multilingual-learning]], [[teacher-ai-competency]]
+
+[[ai-literacy]], [[inclusive-learning]], [[multilingual-learning]], [[teacher-ai-competency]], [[language-learning]]
+

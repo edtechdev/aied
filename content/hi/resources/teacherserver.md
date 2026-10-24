@@ -1,7 +1,7 @@
 ---
 title: "टीचरसर्वर (TeacherServer)"
 created: "2026-09-20T13:49:11-04:00"
-updated: "2026-10-16T10:00:00-04:00"
+updated: "2026-10-24T08:38:48-04:00"
 type: resource
 summary: "कक्षा 9-12 के शिक्षकों और महाविद्यालय के संकाय के लिए एक-उद्देश्यीय शिक्षण जनरेटरों की एक बड़ी मुफ़्त लाइब्रेरी — पाठ योजनाएँ, कार्यपत्रक, IEP लक्ष्य, रूब्रिक, केस स्टडी, गणित की समस्याएँ।"
 url: https://teacherserver.com/
@@ -19,7 +19,7 @@ audience: [instructors, faculty developers]
 confidence: high
 connected_resources: [edugems]
 translation_of: resources/teacherserver
-source_updated: "2026-09-22T06:42:37-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 contributors: [editor]
 ai_assist:
@@ -40,4 +40,6 @@ ai_assist:
 परियोजना का दावा है कि गति के लिए एक स्थानीय रूप से स्थापित AI सर्वर है और डेटा को स्थानीय रूप से संसाधित किया जाता है और कभी संग्रहीत नहीं किया जाता, इसके साथ-साथ शिक्षा विभाग की दिशानिर्देशों का अनुपालन; [टीम पेज](https://teacherserver.com/index-team.php) ज़ाफ़र उनाल (Zafer Unal), यूनिवर्सिटी ऑफ़ साउथ फ़्लोरिडा के एक प्रोफ़ेसर, को संस्थापक और डेवलपर के रूप में नामित करता है, अन्य विश्वविद्यालयों के चार संकाय सदस्यों के सलाहकार बोर्ड के साथ। छात्र कार्य के साथ उपयोग से पहले इन दावों को सत्यापित करना अभी भी उचित है। पहुँच के लिए पंजीकरण आवश्यक है, और अपने स्वयं के उपकरण बनाने के लिए एक साथी भुगतान-बाद में प्लैटफ़ॉर्म है।
 
 ## संबंधित अवधारणाएँ
-[[generative-ai]], [[llm]], [[formative-assessment]], [[teacher-ai-competency]], [[online-teaching-and-learning]]
+
+[[generative-ai]], [[llm]], [[formative-assessment]], [[teacher-ai-competency]], [[online-teaching-and-learning]], [[automated-question-generation]], [[higher-ed]], [[special-education]]
+

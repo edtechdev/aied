@@ -1,7 +1,7 @@
 ---
 title: "OnMicro.AI"
 created: "2026-09-23T17:45:00-04:00"
-updated: "2026-10-09T19:11:12-04:00"
+updated: "2026-10-24T08:38:48-04:00"
 type: resource
 summary: "一个无代码构建器，让教育者制作聚焦的 AI 应用、以链接发布、通过 LTI 嵌入 LMS，并观察学生的使用情况。"
 url: https://onmicro.ai/
@@ -19,7 +19,7 @@ level: [higher ed]
 confidence: high
 connected_resources: [vibes-diy]
 translation_of: resources/onmicro-ai
-source_updated: "2026-09-23T17:45:00-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -47,4 +47,5 @@ ai_assist:
 
 ## 关联概念
 
-[[teacher-ai-competency]], [[learning-design]], [[open-source]], [[intelligent-tutoring]], [[scaffolding]]
+[[teacher-ai-competency]], [[learning-design]], [[open-source]], [[intelligent-tutoring]], [[scaffolding]], [[ai-literacy]], [[edtech-platform]]
+

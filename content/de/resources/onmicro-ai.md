@@ -1,7 +1,7 @@
 ---
 title: "OnMicro.AI"
 created: "2026-09-23T17:45:00-04:00"
-updated: "2026-10-10T09:50:22-04:00"
+updated: "2026-10-24T08:38:48-04:00"
 type: resource
 summary: "Ein No-Code-Baukasten, mit dem Pädagoginnen und Pädagogen fokussierte KI-Apps bauen, per Link veröffentlichen, über LTI in ein LMS einbetten und sehen können, wie Lernende sie nutzen."
 url: https://onmicro.ai/
@@ -19,7 +19,7 @@ level: [higher ed]
 confidence: high
 connected_resources: [vibes-diy]
 translation_of: resources/onmicro-ai
-source_updated: "2026-09-23T17:45:00-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -47,4 +47,5 @@ Die kostenlose Stufe ist auf 10.000 AI-Credits und drei Apps begrenzt; unbegrenz
 
 ## Verbundene Konzepte
 
-[[teacher-ai-competency]], [[learning-design]], [[open-source]], [[intelligent-tutoring]], [[scaffolding]]
+[[teacher-ai-competency]], [[learning-design]], [[open-source]], [[intelligent-tutoring]], [[scaffolding]], [[ai-literacy]], [[edtech-platform]]
+

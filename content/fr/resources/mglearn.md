@@ -1,7 +1,7 @@
 ---
 title: "mglearn Classroom Resources"
 created: "2026-09-23T17:45:00-04:00"
-updated: "2026-10-10T04:00:00-04:00"
+updated: "2026-10-24T08:38:48-04:00"
 type: resource
 summary: "Un vaste ensemble de suites d'activités de classe gratuites et accessibles dans le navigateur, ainsi que de matériels prêts à imprimer, issus de la TCEA, comprenant des modules de culture de l'IA générative et de citoyenneté numérique."
 url: https://mglearn.github.io/
@@ -20,7 +20,7 @@ discipline: [language learning]
 confidence: high
 connected_resources: [pressing-prompts]
 translation_of: resources/mglearn
-source_updated: "2026-09-23T17:45:00-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -47,4 +47,6 @@ Il vise les enseignants de la maternelle au secondaire et les développeurs prof
 Le contenu est sous licence CC BY-NC 4.0 et le code sous-jacent sous MIT : l'usage en classe, l'hébergement local et l'adaptation sont permis avec mention de source, tandis que la vente des matériels ou leur intégration dans une formation payante exigent une permission écrite de la TCEA. Les œuvres d'autres personnes sont exclues de la licence, et les activités de littérature ne reproduisent aucun texte d'œuvres protégées. Le projet déclare que le contenu et les traductions ont été produits avec de l'IA générative sous révision éditoriale, et que les traductions sont assistées par machine et signalées pour examen par des éducateurs locaux avant usage en classe, ce qui mérite d'être pris au sérieux avant qu'un district ne les adopte à grande échelle. Chaque activité s'exécute dans le navigateur de l'élève, sans connexion ni collecte de données.
 
 ## Concepts liés
-[[ai-literacy]], [[inclusive-learning]], [[multilingual-learning]], [[teacher-ai-competency]]
+
+[[ai-literacy]], [[inclusive-learning]], [[multilingual-learning]], [[teacher-ai-competency]], [[language-learning]]
+

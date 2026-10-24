@@ -19,7 +19,7 @@ confidence: high
 connected_resources: [edugems]
 reviewed_by: [editor]
 translation_of: resources/teacherserver
-source_updated: "2026-09-22T06:42:37-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -42,4 +42,6 @@ Kwa K-12: vizalishaji vya mpango wa somo, karatasi ya kazi, lengo la [[special-e
 Mradi unadai kuwa una seva ya AI iliyosakinishwa kwa ndani kwa ajili ya kasi, kwamba data inachakatwa kwa ndani na haihifadhiwi kamwe, na kwamba unazingatia miongozo ya Idara ya Elimu; ukurasa wa [timu](https://teacherserver.com/index-team.php) unataja Zafer Unal, profesa katika Chuo Kikuu cha Florida Kusini, kama mwanzilishi na msanidi programu, pamoja na bodi ya ushauri ya wanachuo wanne kutoka vyuo vikuu vingine. Madai hayo bado yanastahili kuthibitishwa kabla ya matumizi na kazi za wanafunzi. Upatikanaji unahitaji usajili, na kuna jukwaa la malipo-baadaye linaloweza kutumika kujenga zana zako mwenyewe.
 
 ## Dhana Zilizounganishwa
-[[generative-ai]], [[llm]], [[formative-assessment]], [[teacher-ai-competency]], [[online-teaching-and-learning]]
+
+[[generative-ai]], [[llm]], [[formative-assessment]], [[teacher-ai-competency]], [[online-teaching-and-learning]], [[automated-question-generation]], [[higher-ed]], [[special-education]]
+

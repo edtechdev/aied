@@ -1,7 +1,7 @@
 ---
 title: "LiaScript"
 created: "2026-10-10T22:03:49-04:00"
-updated: "2026-10-10T22:03:49-04:00"
+updated: "2026-10-24T08:38:48-04:00"
 type: resource
 summary: "プレーンテキストファイルをブラウザ上の対話型コースに変えるオープンな Markdown 方言。クイズと実行可能なコードを備え、それでコースを構築するためのマルチエージェントアシスタントも提供します。"
 url: https://liascript.github.io/
@@ -19,7 +19,7 @@ level: [higher ed, k 12]
 confidence: high
 connected_resources: [lesson-md]
 translation_of: resources/liascript
-source_updated: "2026-09-24T04:57:47-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -47,4 +47,5 @@ LiaScript は無料で、有料プランもアカウント要件もなく、BSD-
 
 ## 関連する概念
 
-[[learning-design]], [[open-source]], [[online-teaching-and-learning]], [[active-learning]]
+[[learning-design]], [[open-source]], [[online-teaching-and-learning]], [[active-learning]], [[cs-education]], [[edtech-platform]]
+

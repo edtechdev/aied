@@ -18,7 +18,7 @@ confidence: high
 connected_resources: [id-toolbox, liascript]
 reviewed_by: [editor]
 translation_of: resources/lesson-md
-source_updated: "2026-09-20T13:49:11-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови."
 contributors: [editor]
 ai_assist:
@@ -41,4 +41,6 @@ ai_assist:
 Дизайнери навчання та автори курсів, які хочуть, щоб їхній контент пережив зміну інструмента; постачальники електронного навчання, яким потрібен формат імпорту та експорту, зрозумілий уже їхнім користувачам; і всі, хто будує авторствування з підтримкою ШІ на основі придатного для читання формату. Серед учасників — Dan Bashaw із LXD Integral, а формат має публічний журнал змін аж до версії v1.8.
 
 ## Пов’язані поняття
-[[learning-design]], [[open-source]], [[online-teaching-and-learning]], [[multimodal]], [[educational-technology-developers]]
+
+[[learning-design]], [[open-source]], [[online-teaching-and-learning]], [[multimodal]], [[educational-technology-developers]], [[assessment]], [[edtech-platform]]
+

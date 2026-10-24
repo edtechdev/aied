@@ -145,32 +145,32 @@ La observabilidad puede diseñarse sin vigilancia: es la evidencia que una evalu
 
 ## Artículos conectados
 - [[llm-multi-agent-conversation-assessment-2025]] — Una arquitectura de cuatro agentes para la evaluación basada en conversación cuyo evaluador se inclina hacia la categoría intermedia (Hou et al. 2025)
-- [[causal-modeling-competency-assessment-2026]] — Causal Modeling of Support Interventions for Student Competency Assessment
-- [[nicola-richmond-programwide-assessment-genai-2025]] — Program-wide approaches to redesigning assessment in the GenAI era
-- [[ai-feedback-enactment-workflow-2026]] — Making AI-generated feedback matter: from provision to enactment
-- [[care-full-feedback-genai]] — The care-full craft of feedback in an age of GenAI
-- [[feedback-futures-genai]] — Feedback futures: beyond the limits of human and GenAI capacities
-- [[sequenced-ai-feedback-learning]] — Impact and pathways of sequenced AI feedback
-- [[learner-centered-feedback-ai]] — Enhancing learner-centered feedback with AI
+- [[causal-modeling-competency-assessment-2026]] — Modelado causal de intervenciones de apoyo para la evaluación de competencias del estudiantado
+- [[nicola-richmond-programwide-assessment-genai-2025]] — Enfoques a escala de programa para rediseñar la evaluación en la era de la IA generativa
+- [[ai-feedback-enactment-workflow-2026]] — Hacer que la retroalimentación generada por IA importe: de la provisión a la puesta en práctica
+- [[care-full-feedback-genai]] — El oficio cuidadoso de la retroalimentación en la era de la IA generativa
+- [[feedback-futures-genai]] — Futuros de la retroalimentación: más allá de los límites de las capacidades humanas y de la IA generativa
+- [[sequenced-ai-feedback-learning]] — Impacto y trayectorias de la retroalimentación secuenciada con IA
+- [[learner-centered-feedback-ai]] — Mejorar la retroalimentación centrada en el estudiantado con IA
 - [[automated-scoring-learning-diagnosis-mechanism-2026]] — De la puntuación automatizada al diagnóstico del aprendizaje: un estudio de mecanismo de la evaluación formativa apoyada por IA en la escritura en inglés
-- [[ai-internal-feedback-evaluative-judgments]] — Developing evaluative judgments through AI-supported internal feedback
-- [[cotal-formative-assessment-scoring-2026]] — CoTAL: formative assessment scoring with human-in-the-loop prompting
+- [[ai-internal-feedback-evaluative-judgments]] — Desarrollar juicios evaluativos mediante la retroalimentación interna asistida por IA
+- [[cotal-formative-assessment-scoring-2026]] — CoTAL: puntuación de evaluación formativa con indicaciones e intervención humana
 - [[automated-formative-assessments-a-level-sciences]] — High-frequency automated formative assessment
-- [[ai-generated-feedback-higher-ed]] — AI-generated feedback in higher education
+- [[ai-generated-feedback-higher-ed]] — Retroalimentación generada por IA en la educación superior
 - [[ai-learning-tools-engineering-education-needs]] — LearnLens: curriculum-grounded AI feedback
-- [[genai-teacher-feedback-comparison]] — GenAI vs. teacher feedback comparison
-- [[chatgpt-feedback-engagement-genai]] — ChatGPT feedback and engagement
+- [[genai-teacher-feedback-comparison]] — Comparación entre la retroalimentación de IA generativa y la del profesorado
+- [[chatgpt-feedback-engagement-genai]] — Retroalimentación de ChatGPT y compromiso
 - [[code-gen]] — CODE-GEN: validated MCQ generation
-- [[responsible-assessment-ai-era-stanford-2026]] — Responsible assessment in the AI era
+- [[responsible-assessment-ai-era-stanford-2026]] — Evaluación responsable en la era de la IA
 - [[zhan-boud-du-authentic-assessment-scoping-review-2025]] — Designing for authentic assessment
-- [[automated-grading-linux-bash-examinations-large-language-models]] — Automated grading of Linux/bash exams
-- [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — Instructor and AI roles in ChatGPT-enhanced formative assessment
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — Reconsidering oral exams as authentic, AI-resistant assessment
-- [[roe-assessment-twins-2026]] — Assessment twins for strengthening assessment validity in the age of GenAI (Roe, Perkins & Giray 2026)
+- [[automated-grading-linux-bash-examinations-large-language-models]] — Calificación automatizada de exámenes de Linux/bash
+- [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — Roles del profesorado y de la IA en la evaluación formativa mejorada con ChatGPT
+- [[fenton-oral-exams-ai-authentic-assessment-2025]] — Reconsiderar los exámenes orales como evaluación auténtica y resistente a la IA
+- [[roe-assessment-twins-2026]] — Gemelos de evaluación para reforzar la validez de la evaluación en la era de la IA generativa (Roe, Perkins y Giray 2026)
 - [[harmogen-ai-assessment-rubric-generation]] — HARMOGEN-R: AI assessment rubric generation
-- [[ai-assisted-instructor-supervised-grading-feedback]] — AI-assisted instructor-supervised grading and feedback
-- [[adaptive-scaffolding-cognitive-engagement-its]] — Adaptive ICAP scaffolding in an ITS (BKT vs DRL)
-- [[yasar-llms-iterative-pedagogical-design-2026]] — LLMs as agents of iterative pedagogical design
+- [[ai-assisted-instructor-supervised-grading-feedback]] — Calificación y retroalimentación asistidas por IA y supervisadas por el profesorado
+- [[adaptive-scaffolding-cognitive-engagement-its]] — Andamiaje ICAP adaptativo en un sistema de tutoría inteligente (BKT frente a DRL)
+- [[yasar-llms-iterative-pedagogical-design-2026]] — Los LLM como agentes del diseño pedagógico iterativo
 - [[auto-marking-short-answer-science-2026]]
 - [[gpt4-feedback-student-activation-2026]]
 - [[yin-arthur-ai-teaching-assistant-engineering-econ-2026]]
@@ -178,10 +178,10 @@ La observabilidad puede diseñarse sin vigilancia: es la evidencia que una evalu
 - [[assessment-feedback-trilemma-model-2026]] — Contraparte positiva del riesgo de vigilancia: la observabilidad como diseño de evidencia, no como monitorización
 - [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]
 - [[ai-feedback-adaptivity-children-plans-2026]] — Adaptivity makes feedback effective: evidence from AI-generated feedback on children's plans
-- [[chen-automated-scoring-interpreting-self-regulated-learning-2026]] — Automated scoring, interpreting performance, and self-regulated learning (Chen & Liu 2026)
-- [[hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026]] — Teachers' diagnostic skills in AI-supported formative assessment: from diagnosis to meta-diagnosis
-- [[mendonca-llm-feedback-perceived-usefulness-programming-2026]] — Perceived usefulness and intention to use LLM-generated feedback in programming across three educational levels
-- [[zhu-adaptive-teaching-assistance-genai-big-data-2026]] — Adaptive teaching assistance combining generative AI and big data analytics in music education
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — Student Use of LLMs and the Limits of AI-Generated Question Difficulty in Data Science Courses
+- [[chen-automated-scoring-interpreting-self-regulated-learning-2026]] — Puntuación automatizada, interpretación del desempeño y aprendizaje autorregulado (Chen y Liu 2026)
+- [[hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026]] — Habilidades diagnósticas del profesorado en la evaluación formativa con apoyo de IA: del diagnóstico al metadiagnóstico
+- [[mendonca-llm-feedback-perceived-usefulness-programming-2026]] — Utilidad percibida e intención de uso de la retroalimentación generada por LLM en programación en tres niveles educativos
+- [[zhu-adaptive-teaching-assistance-genai-big-data-2026]] — Asistencia docente adaptativa que combina IA generativa y analítica de macrodatos en educación musical
+- [[student-llm-use-ai-question-difficulty-data-science-2026]] — Uso estudiantil de los LLM y los límites de la dificultad de las preguntas generadas por IA en cursos de ciencia de datos
 - [[mcnamara-aim-cai-continuous-assessment-2026]] — Infraestructura de evaluación continua mediada por IA (AIM-CAI): conectar la evidencia de aprendizaje a través de contextos y del tiempo (McNamara y Hasnine 2026)
 - [[etq-ai-conversational-teacher-training-2026]] — Diagnóstico conversacional de IA para las concepciones erróneas docentes mediante diálogo fundamentado en la evidencia (Miranda y Calvani 2026)

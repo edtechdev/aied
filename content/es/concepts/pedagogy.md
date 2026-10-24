@@ -132,6 +132,6 @@ Ese énfasis en preservar el esfuerzo no es absoluto: un diseño [[mixed-methods
 - [[jeon-isd-agent-bench-2026]] — Fundamentar los agentes en la teoría del diseño instruccional
 - [[ai-learning-tools-engineering-education-needs]] — Herramientas de aprendizaje con IA en la educación en ingeniería
 - [[fowlin-operationalizing-learning-principles-ai]] — Operacionalizar los principios del aprendizaje con IA
-- [[kibar-ilgaz-ai-instructional-design-review-2026]] — AI and Instructional Design Practice: A Systematic Review (Kibar & Ilgaz 2026)
+- [[kibar-ilgaz-ai-instructional-design-review-2026]] — IA y práctica del diseño instruccional: una revisión sistemática (Kibar e Ilgaz 2026)
 - [[liu-ai-literacy-interventions-meta-analysis-2026]] — Enfoques instruccionales en las intervenciones de alfabetización en IA
 - [[cognitive-distribution-student-genai-interaction-2026]] — La interacción estudiantado-IA como distribución cognitiva cambiante y no como dependencia fija (53,3% de extensión)

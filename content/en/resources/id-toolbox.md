@@ -1,7 +1,7 @@
 ---
 title: "The ID Toolbox"
 created: "2026-09-20T13:49:11-04:00"
-updated: "2026-09-20T13:49:11-04:00"
+updated: "2026-10-24T08:37:08-04:00"
 type: resource
 summary: "More than fifty free single-purpose browser utilities for instructional designers: scoping, estimation, caption and translation tooling, readability and consistency checks."
 url: https://nextgenailearning.com/
@@ -29,4 +29,6 @@ Before you build: choose between authoring tools against weighted criteria, test
 Curt Zilbersher, who has designed corporate training for twenty-eight years, describes the same small unsolved problems recurring across his career — counting narration words, finding the asset that pushed a course past an [[edtech-platform|LMS]] limit, auditing caption coverage by hand — and is building the fixes and giving them away. The site also runs a free annual survey on how instructional designers actually spend their week.
 
 ## Connected Concepts
-[[learning-design]], [[online-teaching-and-learning]], [[formative-assessment]], [[educational-technology-developers]]
+
+[[learning-design]], [[online-teaching-and-learning]], [[formative-assessment]], [[educational-technology-developers]], [[accessibility]]
+

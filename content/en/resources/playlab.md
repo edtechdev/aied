@@ -1,7 +1,7 @@
 ---
 title: "Playlab"
 created: "2026-09-20T16:45:00-04:00"
-updated: "2026-09-20T16:45:00-04:00"
+updated: "2026-10-24T08:37:08-04:00"
 type: resource
 summary: "A nonprofit creator platform where educators build, share and evaluate their own AI apps, grounded in their curriculum, run on the model of their choice, with teacher visibility built in."
 url: https://www.playlab.ai/
@@ -32,4 +32,6 @@ K-12 teachers and districts wanting classroom controls and curriculum grounding 
 Access to the builder is gated: the get-started page asks for an email address and a spot in an onboarding workshop, or an invite code. Its compliance claims (FERPA, COPPA, GDPR, CCPA, SOC 2 Type II), the promise that your work never trains outside models and the assignment of output rights to the creator belong in the data processing agreement, not only the marketing page; its capability comparison against MagicSchool and the major chatbots is Playlab's own, dated mid-2026. It grew out of end-user programming work linked to Scratch and the MIT Media Lab.
 
 ## Connected Concepts
-[[ai-literacy]], [[learning-design]], [[generative-ai]], [[rag]], [[human-in-the-loop-ai]], [[privacy]], [[guardrails]]
+
+[[ai-literacy]], [[learning-design]], [[generative-ai]], [[rag]], [[human-in-the-loop-ai]], [[privacy]], [[guardrails]], [[educational-technology-developers]], [[teacher-ai-competency]]
+

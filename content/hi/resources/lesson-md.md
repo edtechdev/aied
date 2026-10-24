@@ -1,7 +1,7 @@
 ---
 title: "LESSON.md"
 created: "2026-09-20T13:49:11-04:00"
-updated: "2026-10-16T08:00:00-04:00"
+updated: "2026-10-24T08:38:48-04:00"
 type: resource
 summary: "ब्लॉक-आधारित ई-लर्निंग पाठों के लिए एक खुला, सादे-पाठ प्रारूप, साथ ही एक एजेंट कौशल जो उसी प्रारूप में पाठ, मूल्यांकन और पूरे पाठ्यक्रम बंडल लिखती है।"
 url: https://lesson.md/
@@ -18,7 +18,7 @@ audience: [instructional designers, curriculum designers, software developers, e
 confidence: high
 connected_resources: [id-toolbox, liascript]
 translation_of: resources/lesson-md
-source_updated: "2026-09-20T13:49:11-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 contributors: [editor]
 ai_assist:
@@ -39,4 +39,6 @@ ai_assist:
 शैक्षणिक डिज़ाइनर और पाठ्यक्रम निर्माता जो चाहते हैं कि उनकी सामग्री उपकरण परिवर्तन में भी बची रहे, ई-लर्निंग विक्रेता जो एक ऐसा आयात और निर्यात प्रारूप चाहते हैं जिसे उनके उपयोगकर्ता पहले से समझते हों, और जो कोई भी पठनीय प्रारूप के ऊपर AI-सहायित लेखन बना रहा है। योगदानकर्ताओं में LXD Integral के Dan Bashaw शामिल हैं, और इस प्रारूप का एक सार्वजनिक चेंजलॉग v1.8 तक है।
 
 ## संबंधित संकल्पनाएँ
-[[learning-design]], [[open-source]], [[online-teaching-and-learning]], [[multimodal]], [[educational-technology-developers]]
+
+[[learning-design]], [[open-source]], [[online-teaching-and-learning]], [[multimodal]], [[educational-technology-developers]], [[assessment]], [[edtech-platform]]
+

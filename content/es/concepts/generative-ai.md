@@ -93,24 +93,24 @@ Una revisión sistemática interdisciplinar de 2026 (Dabaghi, D'Urso y Sciarrone
 ## Artículos conectados
 - [[genai-learning-motivation-meta-analysis-2026]] — Metaanálisis del efecto de la IA generativa sobre la motivación para aprender, con un intervalo de predicción que abarca del daño al beneficio
 
-- [[typology-generative-ai-tools-education-2026]] — Typology of Generative AI Tools for Education
-- [[generative-ui-education-learning-interactives-2026]] — Harnessing Generative UI for Education: Tailored Learning Interactives
+- [[typology-generative-ai-tools-education-2026]] — Tipología de herramientas de IA generativa para la educación
+- [[generative-ui-education-learning-interactives-2026]] — Aprovechar la interfaz generativa para la educación: interactivos de aprendizaje a medida
 - [[ai-standardized-patient-scaffolding-medical-2026]] — Evaluating Scaffolding-Oriented Multi-Agent Large Language Model System for Clinical Interview Training
-- [[ssail-safe-sound-ai-learning-2026]] — SSAIL: A Design Framework for Safe and Sound AI for Learning
-- [[genai-educational-outcomes-meta-analysis]] — Meta-analysis of GenAI learning outcomes
-- [[genai-meta-analysis-programming-learning]] — Meta-analysis of GenAI in programming learning
-- [[genai-performance-vs-learning]] — Performance vs. learning with GenAI
-- [[hazra-safetutors-pedagogical-safety-2026]] — Harms of AI tutoring agents
+- [[ssail-safe-sound-ai-learning-2026]] — SSAIL: un marco de diseño para una IA segura y sólida para el aprendizaje
+- [[genai-educational-outcomes-meta-analysis]] — Metanálisis de los resultados de aprendizaje con IA generativa
+- [[genai-meta-analysis-programming-learning]] — Metanálisis de la IA generativa en el aprendizaje de programación
+- [[genai-performance-vs-learning]] — Desempeño frente a aprendizaje con IA generativa
+- [[hazra-safetutors-pedagogical-safety-2026]] — Daños de los agentes de tutoría con IA
 - [[eduguard-safe-rag-llm-tutor]] — Guardrailing a safe RAG LLM tutor
 - [[cogevol-learning-environment-generation-2026]] — CogEvol: Learning Environment Generation
 - [[khlaif-assistive-genai-visually-impaired-2026]] — Assistive GenAI for visually impaired learners
-- [[li-language-educators-genai-review-2026]] — Language educators' practices and development with GenAI
+- [[li-language-educators-genai-review-2026]] — Prácticas y desarrollo profesional del profesorado de lenguas con IA generativa
 - [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
 - [[zhuang-zhang-chatgpt-math-teacher-education-2026]]
 - [[pecuchova-automated-grading-open-ended-genai-2026]]
 - [[karaismailoglu-ai-lesson-plans-science-experts-2026]]
 - [[falahat-chatgpt-grading-pharmacy-exams-2026]]
 - [[olvet-genai-scoring-open-ended-medical-2026]]
-- [[bloom-classifier-ai-assisted-questions-2026]] — Evaluation of pre-trained models for pedagogical assessment of novel AI-assisted educational questions
+- [[bloom-classifier-ai-assisted-questions-2026]] — Evaluación de modelos preentrenados para la valoración pedagógica de preguntas educativas novedosas asistidas por IA
 - [[bicer-genai-pd-math-creativity-2026]] — Un estudio de caso de desarrollo profesional en matemáticas guiado por IA generativa con ocho docentes rurales en ejercicio
 - [[chen-pbl-pjbl-genai-meta-analysis-2026]] — g agrupada = 0,819 que baja a 0,378 con PET-PEESE; las herramientas personalizadas (0,455) rindieron por debajo de los chatbots (0,970)

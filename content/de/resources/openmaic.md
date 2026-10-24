@@ -1,7 +1,7 @@
 ---
 title: "OpenMAIC"
 created: "2026-09-20T17:30:00-04:00"
-updated: "2026-10-10T09:50:22-04:00"
+updated: "2026-10-24T08:38:48-04:00"
 type: resource
 summary: "Die Open-Source-Veröffentlichung von MAIC: ein Multi-Agent-Klassenzimmer, das ein Thema oder Dokument in Folien, Quiz, interaktive Simulationen und projektbasierte Aktivitäten verwandelt, vorgetragen von KI-Lehrkräften und KI-Mitschülern."
 url: https://github.com/THU-MAIC/OpenMAIC
@@ -19,7 +19,7 @@ audience: [instructors, curriculum designers, instructional designers, learners,
 confidence: high
 connected_resources: [deeptutor, lesson-md]
 translation_of: resources/openmaic
-source_updated: "2026-09-20T17:30:00-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -47,4 +47,5 @@ Lizenziert unter MIT, mit einem englischen und chinesischen Nutzerleitfaden und 
 
 ## Verbundene Konzepte
 
-[[agentic-ai]], [[generative-ai]], [[llm]], [[open-source]], [[project-based-learning]], [[online-teaching-and-learning]], [[personalized-learning]], [[teacher-role]]
+[[agentic-ai]], [[generative-ai]], [[llm]], [[open-source]], [[project-based-learning]], [[online-teaching-and-learning]], [[personalized-learning]], [[teacher-role]], [[intelligent-tutoring]], [[simulation]]
+

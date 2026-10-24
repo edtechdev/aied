@@ -1,7 +1,7 @@
 ---
 title: "LESSON.md"
 created: "2026-09-20T13:49:11-04:00"
-updated: "2026-09-20T13:49:11-04:00"
+updated: "2026-10-24T08:37:08-04:00"
 type: resource
 summary: "An open, plain-text format for block-based eLearning lessons, plus an agent skill that writes lessons, assessments and whole course bundles in that format."
 url: https://lesson.md/
@@ -29,4 +29,6 @@ Write a lesson in any text editor and import it into any tool that supports the 
 Instructional designers and course creators who want their content to survive a tool change, eLearning vendors who want an import and export format their users already understand, and anyone building AI-assisted authoring on top of a readable format. Contributors include Dan Bashaw of LXD Integral, and the format has a public changelog up to v1.8.
 
 ## Connected Concepts
-[[learning-design]], [[open-source]], [[online-teaching-and-learning]], [[multimodal]], [[educational-technology-developers]]
+
+[[learning-design]], [[open-source]], [[online-teaching-and-learning]], [[multimodal]], [[educational-technology-developers]], [[assessment]], [[edtech-platform]]
+

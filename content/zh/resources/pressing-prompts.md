@@ -1,7 +1,7 @@
 ---
 title: "Pressing Prompts"
 created: "2026-09-20T13:49:11-04:00"
-updated: "2026-10-09T19:11:13-04:00"
+updated: "2026-10-24T08:38:48-04:00"
 type: resource
 summary: "面向高等教育、围绕人工智能的关键批判性问题而设的开放可及的活动与资源，分为三大主题簇。"
 url: https://pressingprompts.org/
@@ -20,7 +20,7 @@ confidence: high
 connected_resources: [pause-ai-use-self-examination]
 contributors: [editor]
 translation_of: resources/pressing-prompts
-source_updated: "2026-09-20T13:49:11-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 ai_assist:
   - model: stepfun/step-5-preview:free
@@ -43,4 +43,5 @@ ai_assist:
 
 ## 关联概念
 
-[[critical-pedagogy]], [[inquiry-based-learning]], [[ai-literacy]], [[critical-thinking]], [[sustainability]], [[digital-divide]]
+[[critical-pedagogy]], [[inquiry-based-learning]], [[ai-literacy]], [[critical-thinking]], [[sustainability]], [[digital-divide]], [[higher-ed]]
+

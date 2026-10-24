@@ -98,4 +98,4 @@ La supervisión remota existe en un espectro. La **supervisión en línea** impl
 - [[conijn-fear-big-brother-proctored-exams-2022]] — El miedo al Gran Hermano: efectos secundarios negativos de la supervisión sobre la ansiedad ante los exámenes
 - [[biology-degree-integrity-genai-cheating-2026]] — ¿Puede el estudiantado hacer trampas hasta obtener un título de biología? Estudio de caso de la vulnerabilidad de las notas de los cursos de biología a la deshonestidad académica en la era de la IA generativa
 - [[harerimana-remote-proctoring-nursing-scoping-2026]] — Bajo vigilancia: trazar las prácticas de supervisión remota en la evaluación del estudiantado de enfermería
-- [[akcapinar-ai-cheating-risk-lms-prediction-2026]] — Akçapınar (2026) — 44.2% of students labeled high-risk in a proctored, face-to-face exam, with the risk predicted from early-semester LMS traces
+- [[akcapinar-ai-cheating-risk-lms-prediction-2026]] — Akçapınar (2026): el 44,2 % del estudiantado quedó etiquetado de alto riesgo en un examen presencial supervisado, con el riesgo predicho a partir de rastros del LMS de inicio de semestre

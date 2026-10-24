@@ -1,7 +1,7 @@
 ---
 title: "प्रेसिंग प्रॉम्प्ट्स"
 created: "2026-09-20T13:49:11-04:00"
-updated: "2026-10-16T10:00:00-04:00"
+updated: "2026-10-24T08:38:48-04:00"
 type: resource
 summary: "एआई पर महत्वपूर्ण प्रश्नों को उठाने के लिए खुली पहुँच वाली उच्च शिक्षा की गतिविधियाँ और संसाधन, तीन विषयगत समूहों में व्यवस्थित।"
 url: https://pressingprompts.org/
@@ -19,7 +19,7 @@ audience: [instructors, librarians]
 confidence: high
 connected_resources: [pause-ai-use-self-examination]
 translation_of: resources/pressing-prompts
-source_updated: "2026-09-20T13:49:11-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 contributors: [editor]
 ai_assist:
@@ -43,4 +43,5 @@ ai_assist:
 
 ## संबद्ध संकल्पनाएँ
 
-[[critical-pedagogy]], [[inquiry-based-learning]], [[ai-literacy]], [[critical-thinking]], [[sustainability]], [[digital-divide]]
+[[critical-pedagogy]], [[inquiry-based-learning]], [[ai-literacy]], [[critical-thinking]], [[sustainability]], [[digital-divide]], [[higher-ed]]
+

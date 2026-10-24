@@ -1,7 +1,7 @@
 ---
 title: "TeacherServer"
 created: "2026-09-20T13:49:11-04:00"
-updated: "2026-10-09T19:11:13-04:00"
+updated: "2026-10-24T08:38:48-04:00"
 type: resource
 summary: "一个庞大的免费单一用途教学生成器库——教案、练习纸、IEP 目标、评分量规、案例研究、数学题——面向 K-12 教师和高校教师。"
 url: https://teacherserver.com/
@@ -19,7 +19,7 @@ audience: [instructors, faculty developers]
 confidence: high
 connected_resources: [edugems]
 translation_of: resources/teacherserver
-source_updated: "2026-09-22T06:42:37-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -43,4 +43,5 @@ K-12 方面：教案、练习纸、[[special-education|IEP 目标]]、数学应�
 
 ## 关联概念
 
-[[generative-ai]], [[llm]], [[formative-assessment]], [[teacher-ai-competency]], [[online-teaching-and-learning]]
+[[generative-ai]], [[llm]], [[formative-assessment]], [[teacher-ai-competency]], [[online-teaching-and-learning]], [[automated-question-generation]], [[higher-ed]], [[special-education]]
+

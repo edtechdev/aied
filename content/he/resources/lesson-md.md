@@ -18,7 +18,7 @@ confidence: high
 connected_resources: [id-toolbox, liascript]
 reviewed_by: [editor]
 translation_of: resources/lesson-md
-source_updated: "2026-09-20T13:49:11-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
@@ -43,4 +43,5 @@ ai_assist:
 
 ## מושגים מקושרים
 
-[[learning-design]], [[open-source]], [[online-teaching-and-learning]], [[multimodal]], [[educational-technology-developers]]
+[[learning-design]], [[open-source]], [[online-teaching-and-learning]], [[multimodal]], [[educational-technology-developers]], [[assessment]], [[edtech-platform]]
+

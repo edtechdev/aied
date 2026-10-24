@@ -1,7 +1,7 @@
 ---
 title: "द आईडी टूलबॉक्स"
 created: "2026-09-20T13:49:11-04:00"
-updated: "2026-10-16T07:00:00-04:00"
+updated: "2026-10-24T08:38:48-04:00"
 type: resource
 summary: "इंस्ट्रक्शनल डिज़ाइनरों के लिए पचास से अधिक मुफ़्त एकल-उद्देश्य ब्राउज़र यूटिलिटीज़: स्कोपिंग, अनुमान, कैप्शन और अनुवाद उपकरण, पठनीयता और संगति जाँच।"
 url: https://nextgenailearning.com/
@@ -18,7 +18,7 @@ audience: [instructional designers, faculty developers, educational technology d
 confidence: high
 connected_resources: [drawsplat, lesson-md, edugems]
 translation_of: resources/id-toolbox
-source_updated: "2026-09-20T13:49:11-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 contributors: [editor]
 ai_assist:
@@ -39,5 +39,6 @@ ai_assist:
 Curt Zilbersher, जिन्होंने अट्ठाइस वर्षों तक कॉर्पोरेट प्रशिक्षण डिज़ाइन किया है, समान छोटी अनसुलझी समस्याओं का अपने करियर में बार-बार सामना करना बताते हैं — नैरेशन के शब्द गिनना, वह एसेट खोजना जिसने कोर्स को [[edtech-platform|LMS]] सीमा के पार पहुँचा दिया, कैप्शन कवरेज का हाथ से ऑडिट करना — और वे इन समाधान बनाकर निःशुल्क उपलब्ध करा रहे हैं। साइट यह भी एक मुफ़्त वार्षिक सर्वे करती है कि इंस्ट्रक्शनल डिज़ाइनर असल में अपना सप्ताह कैसे बिताते हैं।
 
 ## कनेक्टेड कॉन्सेप्ट्स
-[[learning-design]], [[online-teaching-and-learning]], [[formative-assessment]], [[educational-technology-developers]]
+
+[[learning-design]], [[online-teaching-and-learning]], [[formative-assessment]], [[educational-technology-developers]], [[accessibility]]
 

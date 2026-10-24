@@ -19,7 +19,7 @@ confidence: high
 connected_resources: [edugems]
 reviewed_by: [editor]
 translation_of: resources/teacherserver
-source_updated: "2026-09-22T06:42:37-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
@@ -43,4 +43,5 @@ ai_assist:
 
 ## מושגים מחוברים
 
-[[generative-ai]], [[llm]], [[formative-assessment]], [[teacher-ai-competency]], [[online-teaching-and-learning]]
+[[generative-ai]], [[llm]], [[formative-assessment]], [[teacher-ai-competency]], [[online-teaching-and-learning]], [[automated-question-generation]], [[higher-ed]], [[special-education]]
+

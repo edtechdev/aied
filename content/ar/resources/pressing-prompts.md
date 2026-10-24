@@ -19,7 +19,7 @@ confidence: high
 connected_resources: [pause-ai-use-self-examination]
 reviewed_by: [editor]
 translation_of: resources/pressing-prompts
-source_updated: "2026-09-20T13:49:11-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
@@ -40,4 +40,6 @@ ai_assist:
 بدأ في جامعة Duke في 2024–2025 كحزمة تعلُّم أخلاقيات الذكاء الاصطناعي، صُممت بشكل مشترك من طلاب جامعيين وأمناء مكتبات وأعضاء هيئة تدريس وخبراء تقنية عبر مركز التعليم والتعلم ومكتبات Duke، وأُعيد إطلاقها بعد التغذية الراجعة وإعادة التصميم من Hannah Rozear وRemi Kalir وAria Chernik.
 
 ## المفاهيم المرتبطة
-[[critical-pedagogy]], [[inquiry-based-learning]], [[ai-literacy]], [[critical-thinking]], [[sustainability]], [[digital-divide]]
+
+[[critical-pedagogy]], [[inquiry-based-learning]], [[ai-literacy]], [[critical-thinking]], [[sustainability]], [[digital-divide]], [[higher-ed]]
+

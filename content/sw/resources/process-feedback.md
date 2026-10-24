@@ -27,7 +27,7 @@ ai_assist:
     agent: hermes-agent
 reviewed_by: [editor]
 translation_of: resources/process-feedback
-source_updated: "2026-09-23T17:45:00-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 ---
 
@@ -48,4 +48,6 @@ Imelengwa kwa wataalamu binafsi na wanafunzi, ambao wanaweza kuitumia bila makub
 Bila malipo inashughulikia mtiririko wa kazi wa darasa la mwanafunzi mmoja; bei ya taasisi ipo kando na inahusishwa na wigo wa utekelezaji, usimamizi wa data, msaada, na utiifu badala ya malipo kwa kila mwanafunzi au kwa kila mwalimu. Kwa sababu ripoti inaonyesha mchakato badala ya nia, kunakili na kubandika peke yake si kosa ya kitaaluma — mwongozo wa mradi yenyewe unasema mwanafunzi anaweza kuwa anabandika maandishi yake ya awali, na kuwa wanafunzi hawapaswi adhibiwa kwa kubandika tu. Namba za kupitishwa na ukadiriaji wa 5.0 wa Chrome Web Store ni matangazo ya mradi yenyewe; mapitio katika duka la viendelezi si ushahidi huru wa matokeo ya kujifunza. Soma ripoti kama ushahidi kwa mazungumzo, ambayo ndivyo zana ilivyobuniwa na ambavyo msanidi programu anaelezea.
 
 ## Dhana Zilizounganishwa
-[[academic-integrity]], [[metacognition]], [[writing-education]], [[self-regulated-learning]], [[formative-assessment]]
+
+[[academic-integrity]], [[metacognition]], [[writing-education]], [[self-regulated-learning]], [[formative-assessment]], [[ai-detection]], [[process-oriented-assessment]]
+

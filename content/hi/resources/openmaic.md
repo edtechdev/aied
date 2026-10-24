@@ -1,7 +1,7 @@
 ---
 title: "ओपनएमएआईसी (OpenMAIC)"
 created: "2026-09-20T17:30:00-04:00"
-updated: "2026-10-16T09:00:00-04:00"
+updated: "2026-10-24T08:38:48-04:00"
 type: resource
 summary: "MAIC का ओपन-सोर्स संस्करण: एक मल्टी-एजेंट कक्षा जो किसी विषय या दस्तावेज़ को स्लाइड, क्विज़, इंटरैक्टिव सिमुलेशन और प्रोजेक्ट-आधारित गतिविधियों में बदल देती है, और इन्हें AI शिक्षकों तथा AI सहपाठियों के माध्यम से प्रस्तुत करती है।"
 url: https://github.com/THU-MAIC/OpenMAIC
@@ -19,7 +19,7 @@ audience: [instructors, curriculum designers, instructional designers, learners,
 confidence: high
 connected_resources: [deeptutor, lesson-md]
 translation_of: resources/openmaic
-source_updated: "2026-09-20T17:30:00-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 contributors: [editor]
 ai_assist:
@@ -47,4 +47,5 @@ ai_assist:
 
 ## संबद्ध संकल्पनाएँ
 
-[[agentic-ai]], [[generative-ai]], [[llm]], [[open-source]], [[project-based-learning]], [[online-teaching-and-learning]], [[personalized-learning]], [[teacher-role]]
+[[agentic-ai]], [[generative-ai]], [[llm]], [[open-source]], [[project-based-learning]], [[online-teaching-and-learning]], [[personalized-learning]], [[teacher-role]], [[intelligent-tutoring]], [[simulation]]
+

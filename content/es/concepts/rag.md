@@ -1,7 +1,7 @@
 ---
 title: RAG (Generación Aumentada por Recuperación)
 created: "2026-09-28T18:15:22-04:00"
-updated: "2026-10-09T17:40:00-04:00"
+updated: "2026-10-24T08:21:10-04:00"
 connected_faqs: [making-ai-better-at-supporting-learning]
 type: concept
 technology: [generative-ai, intelligent-tutoring, knowledge-graph, llm, llm-training-and-fine-tuning, edtech-platform]
@@ -9,7 +9,7 @@ ethics: [hallucination-risk, pedagogical-safety]
 confidence: high
 connected_resources: [gemini-notebook]
 translation_of: concepts/rag
-source_updated: "2026-10-05T11:00:00-04:00"
+source_updated: "2026-10-24T06:22:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -48,6 +48,7 @@ ai_assist:
 - **Apoyo académico específico de cada curso:** [[course-specific-rag-help-seeking-higher-ed-2026|Beacon]] recupera de los materiales didácticos aprobados de un único módulo de programación para atender a estudiantes que dudan en acudir a un docente, y el 89% de los 15 estudiantes evaluadores calificó sus respuestas como muy alineadas con los materiales del curso; el punto de diseño es que la fundamentación es una respuesta institucional al desajuste entre los [[llm|LLM]] de propósito general y las expectativas a nivel de módulo.
 - **Estructura en el momento de la ingesta frente a recuperación en el momento de la consulta:** [[wiki-llm-indexing-ml-classes-2026|Wright (2026)]] compiló el mismo corpus del curso de aprendizaje automático DS3001 en siete páginas wiki de conceptos interconectadas con citas de fuentes, y lo contrastó con una línea base de RAG vectorial ajustada, basada en recuperación por fragmentos con embeddings. Sobre 59 preguntas escritas por personas, el wiki compilado respondió mejor que el índice ajustado (9,95 frente a 9,05 de 10, con un intervalo de confianza bootstrap de la diferencia que excluye el cero) y estuvo más a menudo fundamentado en el material que quien respondía realmente veía (98% frente a 81%), con ambas brechas casi triplicándose en las preguntas que necesitaban material de más de una página (puntuaciones entre páginas de 9,93 frente a 8,14, donde la tasa de fundamentación de RAG cayó del 87% al 64%). La brecha de fundamentación no fue un fallo de recuperación: solo 2 de las 11 respuestas no fundamentadas del RAG vectorial fueron fallos de recuperación, mientras que las otras 9 tenían los extractos relevantes en contexto y aun así añadieron detalle no respaldado —evidencia de que la estructura en la ingesta restringe la elaboración, no solo el acceso.
 - **Despliegue local para el control institucional:** CourseChat ejecuta un tutor RAG multidcurso para la educación empresarial de grado ([[business-education|negocios]]) en servidores edge locales, con una base de datos vectorial local y un modelo de 8B servido por Ollama, manteniendo los materiales del curso y el diálogo del estudiantado en la infraestructura del campus; la elección del modelo se convirtió en una decisión conjunta de hardware y servicio cuando los candidatos mayores no superaron un umbral de latencia ([[on-premises-rag-tutoring-business-education-2026|CourseChat]]).
+- **Recuperar sobre un resumen en lugar de sobre las palabras del estudiante (LC-RAG).** La conversación colaborativa a menudo no tiene vínculo semántico con la base de conocimiento: el estudiantado dice «pon ese bloque de posición ahí», de modo que un recuperador basado solo en el discurso devuelve fragmentos sin relación, y el ejemplo de los autores es un pasaje sobre un dibujo animado de los años noventa extraído de un libro de texto de física e informática. La RAG contextualizada por el registro hace que un LLM resuma cada segmento de trabajo a partir de su discurso más el registro del entorno (qué componente del modelo se está editando), y después recupera sobre ese resumen. A lo largo de 216 segmentos de modelización colaborativa y cinco modelos de embeddings juzgados por GPT-4o, superó la línea base de discurso en cuatro modelos, con tasas de victoria de 0,403 a 0,620, y recuperó un conjunto más ajustado de fragmentos (167 únicos frente a 267 de 7.386). Perdió en un modelo porque los resúmenes se volvieron más específicos de la tarea de lo que era el corpus general del libro de texto: el alcance de la consulta y el alcance del corpus tienen que emparejarse de forma deliberada ([[cohn-lc-rag-log-contextualized-retrieval-2025|Cohn et al., 2025]]).
 
 ### RAG frente al ajuste fino
 

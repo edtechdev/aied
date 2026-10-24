@@ -1,7 +1,7 @@
 ---
 title: "Pressing Prompts"
 created: "2026-09-20T13:49:11-04:00"
-updated: "2026-10-10T04:00:00-04:00"
+updated: "2026-10-24T08:38:48-04:00"
 type: resource
 summary: "Des activités et ressources librement accessibles pour l'enseignement supérieur, pour poser des questions critiques pressantes sur l'IA, organisées en trois grappes thématiques."
 url: https://pressingprompts.org/
@@ -19,7 +19,7 @@ audience: [instructors, librarians]
 confidence: high
 connected_resources: [pause-ai-use-self-examination]
 translation_of: resources/pressing-prompts
-source_updated: "2026-09-20T13:49:11-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -42,4 +42,6 @@ Chaque sujet porte une question cadrante, des amorceurs de conversation, des act
 Cela a commencé à l'université Duke en 2024-2025 comme AI Ethics Learning Toolkit, co-conçu par des étudiants de premier cycle, des bibliothécaires, des enseignants et des technologues du Center for Teaching and Learning et des Duke Libraries, puis relancé après retours et refonte par Hannah Rozear, Remi Kalir et Aria Chernik.
 
 ## Concepts liés
-[[critical-pedagogy]], [[inquiry-based-learning]], [[ai-literacy]], [[critical-thinking]], [[sustainability]], [[digital-divide]]
+
+[[critical-pedagogy]], [[inquiry-based-learning]], [[ai-literacy]], [[critical-thinking]], [[sustainability]], [[digital-divide]], [[higher-ed]]
+

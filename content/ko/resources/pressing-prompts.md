@@ -1,7 +1,7 @@
 ---
 title: "프레싱 프롬프트"
 created: "2026-09-20T13:49:11-04:00"
-updated: "2026-09-20T13:49:11-04:00"
+updated: "2026-10-24T08:38:48-04:00"
 type: resource
 summary: "AI에 관한 중요한 질문을 다루기 위한 공개 접근 고등교육 활동과 자료를, 세 개의 주제 군집으로 묶어 제공합니다."
 url: https://pressingprompts.org/
@@ -19,7 +19,7 @@ audience: [instructors, librarians]
 confidence: high
 connected_resources: [pause-ai-use-self-examination]
 translation_of: resources/pressing-prompts
-source_updated: "2026-09-20T13:49:11-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -43,4 +43,5 @@ ai_assist:
 
 ## 연결된 개념
 
-[[critical-pedagogy]], [[inquiry-based-learning]], [[ai-literacy]], [[critical-thinking]], [[sustainability]], [[digital-divide]]
+[[critical-pedagogy]], [[inquiry-based-learning]], [[ai-literacy]], [[critical-thinking]], [[sustainability]], [[digital-divide]], [[higher-ed]]
+

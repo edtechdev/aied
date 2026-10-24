@@ -1,7 +1,7 @@
 ---
 title: "DrawSplat"
 created: "2026-09-20T13:49:11-04:00"
-updated: "2026-10-10T04:00:00-04:00"
+updated: "2026-10-24T08:38:48-04:00"
 type: resource
 summary: "Une plateforme gratuite dans le navigateur réunissant de petits outils pédagogiques : tableau blanc, tableurs, diapositives, documents, listes, cartes conceptuelles, quiz, graphiques, images et vidéo."
 url: https://drawsplat.org/
@@ -19,7 +19,7 @@ audience: [instructors, learners]
 confidence: high
 connected_resources: [id-toolbox]
 translation_of: resources/drawsplat
-source_updated: "2026-09-22T04:25:00-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -49,4 +49,6 @@ Aux enseignants et aux élèves qui ont besoin rapidement d'un outil et ne peuve
 Le site du produit ne nomme aucun auteur individuel et oriente les demandes vers une boîte de réception de projet ; DrawSplat est construit par Miguel Guhlin, dont le site documente ses lancements. Le code est libre au sens de la licence, et pas seulement au sens du prix : le tableau blanc est sous GNU AGPL-3.0-or-later et les applications SplatWorks sont sous GPL-3.0-only, sans licence par poste sur les appareils des élèves. Les outils qui lisent vos fichiers s'exécutent localement dans le navigateur, tandis que l'enregistrement dans le nuage et toute demande de formation professionnelle envoient bien des données ; consultez donc la page d'inventaire de stockage avant de l'utiliser avec des travaux d'élèves.
 
 ## Concepts liés
-[[visualization]], [[multimodal]], [[formative-assessment]], [[project-based-learning]]
+
+[[visualization]], [[multimodal]], [[formative-assessment]], [[project-based-learning]], [[accessibility]], [[privacy]]
+

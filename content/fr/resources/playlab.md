@@ -1,7 +1,7 @@
 ---
 title: "Playlab"
 created: "2026-09-22T12:00:00-04:00"
-updated: "2026-09-22T12:00:00-04:00"
+updated: "2026-10-24T08:38:48-04:00"
 type: resource
 summary: "A nonprofit creator platform where educators build, share and evaluate their own AI apps — grounded in their curriculum, run on the model of their choice, with teacher visibility built in."
 url: https://www.playlab.ai/
@@ -17,7 +17,7 @@ level: [k 12, higher ed]
 audience: [instructors, instructional designers, educational technology developers]
 confidence: high
 connected_resources: [teacherserver, edugems]
-source_updated: "2026-09-20T16:45:00-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_of: resources/playlab
 translation_note: "Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle."
 contributors: [editor]
@@ -42,4 +42,6 @@ Les enseignants et les districts de la maternelle au lycée qui veulent des cont
 L'accès au générateur d'applications est restreint : la page de démarrage demande une adresse électronique et une place dans un atelier d'initiation, ou un code d'invitation. Ses déclarations de conformité (FERPA, COPPA, RGPD, CCPA, SOC 2 Type II), la promesse que votre travail ne sert jamais à entraîner de modèles externes et l'attribution des droits sur les productions au créateur doivent figurer dans l'accord de traitement des données, et pas seulement sur la page marketing ; sa comparaison de fonctionnalités avec MagicSchool et les principaux agents conversationnels est celle de Playlab, datée de la mi-2026. Elle est issue de travaux sur la programmation par les utilisateurs finaux, liés à Scratch et au MIT Media Lab.
 
 ## Concepts liés
-[[ai-literacy]], [[learning-design]], [[generative-ai]], [[rag]], [[human-in-the-loop-ai]], [[privacy]], [[guardrails]]
+
+[[ai-literacy]], [[learning-design]], [[generative-ai]], [[rag]], [[human-in-the-loop-ai]], [[privacy]], [[guardrails]], [[educational-technology-developers]], [[teacher-ai-competency]]
+

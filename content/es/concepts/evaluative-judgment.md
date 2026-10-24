@@ -1,7 +1,7 @@
 ---
 title: Juicio evaluativo
 created: "2026-09-28T20:10:47-04:00"
-updated: "2026-10-22T09:13:53-04:00"
+updated: "2026-10-24T08:21:16-04:00"
 type: concept
 foundations: [academic-integrity, critical-thinking]
 pedagogy: [metacognition, self-regulated-learning]
@@ -10,7 +10,7 @@ audience: [instructors, learners, assessment designers]
 level: [higher ed]
 confidence: high
 translation_of: concepts/evaluative-judgment
-source_updated: "2026-10-21T10:45:00-04:00"
+source_updated: "2026-10-24T08:06:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -82,6 +82,8 @@ La literatura de la base de conocimiento sobre el aprendizaje [[collaborative-le
 
 El riesgo más claro es el desplazamiento, y está evidenciado en la literatura sobre retroalimentación y no solo teorizado. Cuando la herramienta aporta la rúbrica, la retroalimentación y el seguimiento, la práctica [[metacognition|metacognitiva]] y evaluativa de quien aprende se desplaza en lugar de recibir apoyo: la evaluación se convierte en una representación del juicio que el estudiante nunca ejerció, el mismo modo de fallo que la [[cognitive-offloading|dependencia cognitiva]] expresado en el registro de la evaluación. La retroalimentación directa de la IA generativa en el experimento multisitio empujó exactamente hacia esa externalización pasiva. La presión de la calificación lo agrava: cuando la autoevaluación o la reflexión sobre el uso de la IA se califican, el estudiantado puede producir la reflexión que la rúbrica quiere en lugar del razonamiento, de modo que un juicio genuino exige hacer consecuente el ejercicio — una decisión que se manifiesta en trabajo posterior, una explicación oral o una justificación documentada que a su vez se examina.
 
+El desplazamiento tiene una versión del lado docente, y es lo que llevó a varios profesores de escritura a rechazar por completo la externalización de la calificación. Cinco de los veinticuatro dijeron que calificar es como un docente llega a comprender a su estudiantado, así que delegarlo cuesta esa comprensión y no solo las horas ([[wu-lam-genai-writing-assessment-professors-2026|Wu y Lam (2026)]]). Dieciocho de los veinticuatro consideraron el juicio humano como lo que atrapa los errores de la herramienta y asume la responsabilidad por ellos.
+
 ## Implicaciones para la práctica
 
 - **Declararlo como resultado.** Si lo que importa es valorar la calidad del trabajo — incluida la salida de la IA —, escríbalo en los [[learning-gains|resultados de aprendizaje]] y evalúelo, en lugar de dejarlo como subproducto de la tarea.
@@ -114,6 +116,7 @@ El riesgo más claro es el desplazamiento, y está evidenciado en la literatura 
 - [[higher-ed]]
 
 ## Artículos conectados
+- [[wu-lam-genai-writing-assessment-professors-2026]] — Por qué el profesorado de escritura se niega a externalizar la calificación: así es como conoce a su estudiantado
 - [[chatgpt-peer-feedback-evaluative-judgement-2025]] — ChatGPT frente a la retroalimentación entre pares como terreno de entrenamiento para distintas dimensiones del juicio evaluativo
 
 - [[ai-internal-feedback-evaluative-judgments]] — Cómo la retroalimentación interna apoyada en IA desarrolla los juicios evaluativos, y dónde el razonamiento sigue siendo escaso

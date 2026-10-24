@@ -1,7 +1,7 @@
 ---
 title: "Education Agent Skills"
 created: "2026-10-10T21:54:25-04:00"
-updated: "2026-10-10T21:54:25-04:00"
+updated: "2026-10-24T08:38:48-04:00"
 type: resource
 summary: "教育学、学習科学、カリキュラム、評価を網羅する 165 件のエビデンスに基づくエージェントスキルのライブラリ。Claude、Codex、Hermes 向けにパッケージ化されています。"
 url: https://github.com/GarethManning/education-agent-skills
@@ -19,7 +19,7 @@ level: [k 12, higher ed]
 confidence: high
 connected_resources: [claw-ed]
 translation_of: resources/education-agent-skills
-source_updated: "2026-09-23T21:05:00-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -44,4 +44,6 @@ ai_assist:
 教育スキル、ドキュメント、カリキュラム資料は CC BY-SA 4.0 でライセンスされているため、再利用と翻案は開かれていますが、派生物には同じライセンスを付す必要があります。デプロイする場合に重要な運用上の詳細が 2 つあります。ホストされた MCP エンドポイントは誰にでも開かれているわけではなくトークンを必要とし、サーバーは SKILL.md ファイルではなくコミット済みのスナップショットを提供するため、バンドルを再ビルドしてコミットせずに追加したスキルは、再デプロイしてもライブサーバーには現れません。このライブラリは、教育者でありカリキュラム設計者でもある Gareth Manning によって構築されており、ライセンス条件は特に教育コンテンツに適用されます。
 
 ## 関連する概念
-[[learning-design]], [[ai-literacy]], [[active-learning]], [[online-teaching-and-learning]], [[open-source]]
+
+[[learning-design]], [[ai-literacy]], [[active-learning]], [[online-teaching-and-learning]], [[open-source]], [[educational-development]]
+

@@ -1,7 +1,7 @@
 ---
 title: "OpenMAIC"
 created: "2026-09-20T17:30:00-04:00"
-updated: "2026-10-09T19:11:13-04:00"
+updated: "2026-10-24T08:38:48-04:00"
 type: resource
 summary: "MAIC 的开源版本：一个多智能体教室，能把一个主题或文档转化为幻灯片、测验、交互式模拟和基于项目的活动，由 AI 教师和 AI 同学授课。"
 url: https://github.com/THU-MAIC/OpenMAIC
@@ -19,7 +19,7 @@ audience: [instructors, curriculum designers, instructional designers, learners,
 confidence: high
 connected_resources: [deeptutor, lesson-md]
 translation_of: resources/openmaic
-source_updated: "2026-09-20T17:30:00-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -47,4 +47,5 @@ ai_assist:
 
 ## 关联概念
 
-[[agentic-ai]], [[generative-ai]], [[llm]], [[open-source]], [[project-based-learning]], [[online-teaching-and-learning]], [[personalized-learning]], [[teacher-role]]
+[[agentic-ai]], [[generative-ai]], [[llm]], [[open-source]], [[project-based-learning]], [[online-teaching-and-learning]], [[personalized-learning]], [[teacher-role]], [[intelligent-tutoring]], [[simulation]]
+

@@ -1,7 +1,7 @@
 ---
 title: Tutoría inteligente
 created: "2026-09-25T03:07:36-04:00"
-updated: "2026-10-22T07:31:04-04:00"
+updated: "2026-10-24T08:21:12-04:00"
 connected_faqs: [ai-agents-support-students-instructors, developing-ai-tutor, training-ai-tutors-to-guide-rather-than-answer, checking-whether-educational-ai-works, making-simulated-students-behave-like-learners]
 type: concept
 pedagogy: [scaffolding]
@@ -12,7 +12,7 @@ level: [higher ed, k 12]
 confidence: high
 reviewed_by: [editor]
 translation_of: concepts/intelligent-tutoring
-source_updated: "2026-10-20T09:40:00-04:00"
+source_updated: "2026-10-23T09:35:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 connected_resources: [deeptutor, openmaic]
 contributors: [editor]
@@ -61,6 +61,9 @@ La irrupción de los [[llm|LLM]] ha creado una tensión productiva en el campo d
 Entrenar la pedagogía en el modelo es una vía distinta de la de darle prompts: LearnLM mezcló datos pedagógicos en el [[llm-training-and-fine-tuning|post-entrenamiento]] de Gemini, fue preferido por personas expertas en educación por delante de GPT-4o (+31%), Claude 3.5 Sonnet (+11%) y el Gemini 1.5 Pro base (+13%), y — dado que se co-entrenó en lugar de ajustarse con fine-tuning después — las ganancias sobreviven a las futuras versiones del modelo base ([[learnlm-improving-gemini-learning|LearnLM Team (2025)]]).
 
 TeachLM sostiene que el ingrediente escaso es la interacción auténtica entre estudiante y tutor: ajustado con 100.000 horas de tutoría individualizada, duplicó aproximadamente el tiempo de habla del estudiantado y aumentó las intervenciones del diálogo en un 50%, después de que un tutor previo construido solo con prompt engineering no lograra cerrar la brecha con los tutores humanos ([[teachlm-post-training-llms-education|Perczel, Chow y Demszky (2025)]]).
+
+- **Proporcionar estrategias de referencia eleva a los tutores débiles, no a los fuertes.** Dar a los modelos la estrategia documentada en la literatura de casos elevó el éxito de respuesta inmediata en 10 de 11 modelos una media de 9,9 puntos, con Llama 4 Maverick pasando del 41,0% al 64,8%, mientras que el modelo más fuerte quedó sin cambios en el 71,3% ([[tutor-case-bench-challenging-behaviors-2026|Park et al. (2026)]]).
+- **Tener acceso a un tutor no es lo mismo que aprender con él.** Aleatorizar a 153 estudiantes de un curso de demostración a un acceso más temprano a un chatbot y a una interfaz de retroalimentación elevó las puntuaciones de los deberes en 2,56 puntos y dejó sin cambios el examen sin apoyo, con cada 100 mensajes al chatbot asociados a 3,02 puntos menos ([[ai-proof-learning-cognitive-offloading-2026|Chen et al. (2026)]]).
 
 Los sistemas de tutoría inteligente representan una de las áreas más antiguas y más investigadas de la [[ai-education|IA en la educación]]. A diferencia de los tutores con LLM de propósito general, los ITS emplean tradicionalmente enfoques estructurados: modelos de dominio (qué enseñar), [[student-modeling|modelos del estudiante]] (qué sabe quien aprende) y modelos pedagógicos (cómo enseñar). Estos componentes permiten un seguimiento detallado del progreso del estudiantado, el diagnóstico de ideas erróneas y la secuenciación adaptativa.
 
@@ -185,6 +188,8 @@ La tutoría eficaz exige una adaptación continua: [[zhang-tutormoments-2026|Zha
 - [[k-12]]
 - [[speech-and-voice-technologies]]
 ## Artículos conectados
+- [[ai-proof-learning-cognitive-offloading-2026]] — ¿Apoyar o sustituir el razonamiento del estudiantado? La descarga cognitiva en el aprendizaje de demostraciones asistido por IA (Chen et al. 2026)
+- [[tutor-case-bench-challenging-behaviors-2026]] — TutorCaseBench: evaluación de tutores con LLM ante estudiantado con conductas desafiantes (Park et al. 2026)
 - [[visual-access-proactive-ai-tutoring-handwritten-math-2026]] — Una cámara sobre el trabajo manuscrito: acceso visual y reparación proactiva (Kotalwar et al. 2026)
 
 - [[rho-disengaged-conversational-behaviors-2026]] — Comportamientos conversacionales de desvinculación y aprendizaje en los diálogos entre estudiante e IA (Rho et al. 2026)

@@ -2,7 +2,7 @@
 connected_resources: [clarity, writing-rhetoric-studies-in-the-loop]
 title: Escritura
 created: "2026-09-28T19:10:33-04:00"
-updated: "2026-10-22T09:13:53-04:00"
+updated: "2026-10-24T08:21:12-04:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading]
 pedagogy: [metacognition]
@@ -12,7 +12,7 @@ level: [higher ed]
 connected_faqs: [writing-instruction-ai-best-practices, developing-ai-tutor]
 confidence: high
 translation_of: concepts/writing-education
-source_updated: "2026-10-21T12:05:00-04:00"
+source_updated: "2026-10-24T08:07:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -70,6 +70,7 @@ La concordancia es una propiedad del corpus, no de quien califica: [[automated-s
 - **Integridad académica:** la evidencia de encuesta complica directamente el encuadre de vigilancia: entre 504 estudiantes de sociología ([[student-genai-use-views-writing|Kuznetsov et al., 2026]]), el 65 por ciento había usado IA generativa para trabajos de curso, pero solo el 3 por ciento para generar el texto de una tarea y el 2 por ciento para producir un borrador completo, mientras que el miedo a cometer una falta académica fue la segunda preocupación más común (28 por ciento) y alrededor de una cuarta parte informó de no haber recibido ninguna orientación (19 por ciento) o de haber recibido una que le pareció poco clara. Con esta evidencia, el problema de la educación de la escritura es la ambigüedad sobre el uso permitido, y no la generación de texto generalizada. [[nash-preservice-teachers-classroom-ai-policies-2026|Nash y Burriss (2026)]] muestran cómo se produce esa ambigüedad en el aula. Al codificar las [[educational-policy-ai|políticas sobre IA]] de aula de 27 docentes de artes del lenguaje en [[teacher-education|formación]], encontraron que 26 de 27 permitían algún uso de [[generative-ai|IA generativa]], pero abrumadoramente en términos especificados por el docente, con 22 de 27 permitiendo la IA para la ideación y la lluvia de ideas y prohibiéndola para componer frases, párrafos o trabajos. Los límites rara vez se operacionalizaban — una participante permitía la IA «para poner en marcha tu pensamiento» y declaraba «aquí es donde debe trazarse la línea» sin decir dónde —, y muchas políticas prohibían a la vez entregar texto de IA y hacían al estudiantado responsable del texto de IA que entregaba, una contradicción que deja al estudiantado sin poder cumplir. Veintidós de las 27 políticas guardaban silencio sobre la lectura en su conjunto, dejando el trabajo de comprensión asistido por IA sin ninguna orientación.
 
 - **La política diverge en cinco sitios.** Al entrevistar a 20 estudiantes de grado, Kim y sus colegas localizan cinco sitios distintos de política sobre IA —la intención del profesorado, la política formal, la interpretación del estudiantado, la autopolítica y la práctica— y catalogan 23 racionalizaciones, en su mayoría ad hoc y a posteriori, que explican por qué las reglas de un sitio rara vez moldean la conducta en otro ([[student-rationalization-ai-writing|Kim et al. (2026)]]).
+- **La calificación es donde la orientación se agota.** En entrevistas con 24 profesores universitarios de escritura de China continental, Hong Kong, Macao y Singapur, seis declararon que no había ninguna norma institucional sobre si pueden calificar el trabajo del estudiantado con IA, y la consecuencia fue tener colegas que se niegan por principio junto a colegas que ya lo hacen ([[wu-lam-genai-writing-assessment-professors-2026|Wu y Lam (2026)]]).
 - **El cumplimiento puede enmascarar la ausencia de indagación (borrado académico).** A partir de 49 relatos de educadores, [[academic-erasure-complexity-ai-writing-2026|Nwagboso y Atuba (2026)]] nombran el *borrado académico* —una fluidez que satisface todos los criterios superficiales mientras elude el trabajo epistémico de la argumentación— y rastrean su causa hasta la cultura de la evaluación, donde las rúbricas que premian el pulido hacen del uso de la IA la respuesta racional y no una falta de conducta.
 
 ### La escritura como pensamiento
@@ -101,6 +102,8 @@ Como la escritura no tiene una única respuesta correcta, las herramientas de es
 - **Preservar la voz autoral y proteger frente a la homogeneización.** El acompañante debería distinguir errores, problemas de claridad, elecciones retóricas y preferencias de estilo, y no «corregir» automáticamente estas últimas, sobre todo en el caso de quienes escriben de forma [[multilingual-learning|multilingüe]] y de estilos retóricos no estándar.
 
 Dos síntesis recientes matizan hasta qué punto se sigue esta orientación de diseño en la práctica. Una revisión de 23 estudios empíricos de personalización ([[customizing-ai-writing-pedagogy-systematic-review-2026|Luo, 2026]]) encuentra que, aunque los objetivos se han desplazado hacia los procesos de escritura y las habilidades de orden superior, la vía técnica dominante sigue siendo la [[prompt-engineering|ingeniería de prompts]] (13 de 23 estudios) orientada a optimizar la calidad de la salida, con la [[learning-theories|teoría del aprendizaje]] confinada a la interfaz, de modo que el sistema se comporta «en gran medida de forma ajena a la teoría»: un desajuste que ayuda a explicar la [[cognitive-offloading|dependencia excesiva]] y la revisión superficial que notifican esos mismos estudios. Su reformulación consiste en tratar la personalización como arquitectura y no como redacción: secuenciar etapas, retener respuestas e incorporar bucles de revisión. Un flujo de trabajo estructurado en cinco partes, probado durante 11 semanas con 53 estudiantes saudíes de grado de inglés como lengua extranjera ([[human-ai-collaboration-academic-writing-2026|Alshehri et al., 2026]]), muestra la alternativa en la práctica: el estudiantado enmarca problemas y diseña prompts, redacta, revisa, verifica afirmaciones y citas contra bases de datos académicas y regula su propia dependencia, registrando qué acepta o rechaza y por qué. La competencia en escritura y el [[critical-thinking|pensamiento crítico]] digital subieron juntos en esa condición (15,23 frente a 11,91 y 89,84 frente a 56,18 en la posprueba), mientras que el grupo de control sin IA apenas se movió, aunque el resultado de una sola sede y en parte [[self-report-measures|autoinformado]] es un límite superior preliminar y no un efecto establecido.
+
+Una revisión de alcance de 51 estudios de retroalimentación con IA generativa en segunda lengua encontró que las medidas de calidad de la escritura a menudo no guardaban relación con la retroalimentación que se había pedido al modelo, y que emparejar la IA con la retroalimentación del profesorado superaba a cualquiera de las dos fuentes por separado ([[genai-l2-written-feedback-scoping-review-2026|Crosthwaite y Sun (2026)]]). El mismo corpus es abrumadoramente anglófono, con 46 de los 51 estudios, y el chino y el árabe como primeras lenguas dominantes del estudiantado.
 
 Esta postura de acompañar y no redactar es la expresión en el dominio de la escritura del límite general de la base de conocimiento, «[[coach-not-crutch-ai-writing|acompañar en lugar de servir de muleta]]»: identificar la actividad cognitiva que produce aprendizaje (planificar, redactar, evaluar, revisar) y diseñar la IA para sostenerla sin quitársela a quien aprende.
 
@@ -146,6 +149,8 @@ La educación de la escritura se conecta con la [[automated-essay-scoring|evalua
 - [[agency]]
 
 ## Artículos conectados
+- [[wu-lam-genai-writing-assessment-professors-2026]] — 24 profesores de escritura sobre calificar con IA: beneficios para la retroalimentación, deriva en las puntuaciones, ninguna norma institucional
+- [[genai-l2-written-feedback-scoping-review-2026]] — Revisión de alcance de 51 estudios: lagunas de transparencia en los prompts y por qué la IA más el profesorado supera a cada uno por separado
 - [[nash-preservice-teachers-classroom-ai-policies-2026]] — Políticas de aula sobre IA de docentes en formación: tensiones y entrelazamientos
 - [[human-in-the-loop-ai-scoring-national-assessment-2026]] — Un marco con intervención humana para la calificación asistida por IA en la evaluación de escritura a gran escala
 - [[llm-comparative-judgment-writing-screening-2026]] — Validez del juicio comparativo con grandes modelos de lenguaje para el cribado universal de escritura

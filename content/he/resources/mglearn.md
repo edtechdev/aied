@@ -29,7 +29,7 @@ ai_assist:
     date: "2026-10-12"
     agent: hermes-agent
 translation_of: resources/mglearn
-source_updated: "2026-09-23T17:45:00-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 reviewed_by: [editor]
 ---
@@ -51,4 +51,6 @@ reviewed_by: [editor]
 התוכן ברישיון CC BY-NC 4.0 והקוד שמתחת MIT: שימוש כיתתי, אירוח מקומי והתאמה מותרים עם ייחוס, בעוד שמכירת החומרים או אריזתם באימון בתשלום דורשת אישור בכתב מ-TCEA. יצירות של אנשים אחרים מוחרגות מהרישיון, ופעילויות ספרותיות אינן משחזרות טקסט מיצירות מוגנות. הפרויקט מצהיר שתוכן ותרגומים יוצרו עם בינה מלאכותית יצירתית תחת סקירה עריכתית, ושהתרגומים בסיוע-מכונה ומסומנים לסקירת מחנך מקומית לפני שימוש כיתתי, מה שכדאי לקחת ברצינות לפני שמחלה מאמצת אותם בקנה מידה. כל פעילות רצה בדפדפן של הסטודנט ללא התחברויות וללא איסוף נתונים.
 
 ## מושגים מחוברים
-[[ai-literacy]], [[inclusive-learning]], [[multilingual-learning]], [[teacher-ai-competency]]
+
+[[ai-literacy]], [[inclusive-learning]], [[multilingual-learning]], [[teacher-ai-competency]], [[language-learning]]
+

@@ -18,7 +18,7 @@ confidence: high
 connected_resources: [drawsplat, lesson-md, edugems]
 reviewed_by: [editor]
 translation_of: resources/id-toolbox
-source_updated: "2026-09-20T13:49:11-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -40,4 +40,6 @@ Prima di costruire: scegliere tra strumenti di authoring sulla base di criteri p
 Curt Zilbersher, che progetta formazione aziendale da ventotto anni, descrive gli stessi piccoli problemi irrisolti che ricorrono lungo tutta la sua carriera — contare le parole della narrazione, trovare la risorsa che ha spinto un corso oltre il limite di un [[edtech-platform|LMS]], verificare a mano la copertura dei sottotitoli — e sta costruendo le soluzioni e regalandole. Il sito ospita anche un'indagine annuale gratuita su come i progettisti didattici trascorrono effettivamente la loro settimana.
 
 ## Concetti collegati
-[[learning-design]], [[online-teaching-and-learning]], [[formative-assessment]], [[educational-technology-developers]]
+
+[[learning-design]], [[online-teaching-and-learning]], [[formative-assessment]], [[educational-technology-developers]], [[accessibility]]
+

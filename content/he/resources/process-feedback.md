@@ -27,7 +27,7 @@ ai_assist:
     agent: hermes-agent
 reviewed_by: [editor]
 translation_of: resources/process-feedback
-source_updated: "2026-09-23T17:45:00-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 ---
 
@@ -49,4 +49,5 @@ translation_note: "תרגום אוטומטי של העמוד באנגלית, ש�
 
 ## מושגים מחוברים
 
-[[academic-integrity]], [[metacognition]], [[writing-education]], [[self-regulated-learning]], [[formative-assessment]]
+[[academic-integrity]], [[metacognition]], [[writing-education]], [[self-regulated-learning]], [[formative-assessment]], [[ai-detection]], [[process-oriented-assessment]]
+

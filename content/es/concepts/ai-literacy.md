@@ -1,7 +1,7 @@
 ---
 title: Alfabetización en IA
 created: "2026-09-25T03:07:36-04:00"
-updated: "2026-10-22T09:13:53-04:00"
+updated: "2026-10-24T08:21:18-04:00"
 type: concept
 foundations: [academic-integrity, ai-education, ai-literacy, educational-development]
 technology: [generative-ai, llm]
@@ -11,7 +11,7 @@ connected_faqs: [incorporating-ai-literacy, ai-literacy-evidence, faculty-ai-com
 confidence: high
 connected_resources: [education-agent-skills, edugems, mglearn, onmicro-ai, playlab, pressing-prompts, student-guide-to-ai, vibes-diy]
 translation_of: concepts/ai-literacy
-source_updated: "2026-10-16T07:28:51-04:00"
+source_updated: "2026-10-23T09:20:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -68,6 +68,8 @@ Disciplinar la verificación eleva aún más el listón. [[vega-baudrit-genai-un
 
 **Conciencia ética e institucional:** entender las implicaciones más amplias de la IA, desde la [[academic-integrity]] hasta la [[equity-in-ai-education]] y la [[privacy]]. La alfabetización en IA en el plano institucional implica el desarrollo de políticas, el [[educational-development]] y los [[governance|marcos de gobernanza]]: la alfabetización institucional en IA es una cuestión de [[educational-policy-ai|política]] tanto como de pedagogía. El [[sangwa-epiq-ai-faculty-readiness-2026|marco EPIQ-AI]] enmarca la alfabetización institucional en IA como un desafío de alineación sociotécnica, y no solo como formación individual.
 
+**La seguridad es un dominio de alfabetización propio.** Yocam, Vaidyan y Kalathas (2026) sostienen que ni los marcos de alfabetización en IA ni los de ciberseguridad tratan el funcionamiento seguro en un centro mediado por IA como una competencia por derecho propio, y que solo el 34,5% del profesorado estadounidense declara que su centro tiene una política sobre IA ([[ai-security-literacy-k12-framework-2026]]).
+
 - **La alfabetización en IA como capacidad de gobernanza para el desarrollo sostenible.** [[ai-literacy-sdg-governance-framework-2026|Islam, Morshed e Islam (2026)]] reconceptualizan la alfabetización en IA como una capacidad orientada a la gobernanza y no como una habilidad puramente educativa o técnica, y la vinculan a los diecisiete Objetivos de Desarrollo Sostenible de la ONU. Su **taxonomía AIRE** de seis niveles (Reconocer → Comprender → Aplicar → Analizar → Integrar → Gobernar) amplía la jerarquía de Bloom añadiendo la síntesis ética y la previsión estratégica, y sitúa las competencias avanzadas (Analizar-Gobernar) como la vía desde la alfabetización fundacional hasta la gobernanza institucional y de políticas: una heurística del «18.º ODS» que trata la alfabetización como un puente cognitivo y ético transversal. Una encuesta a 300 profesionales en un contexto nacional encontró una fuerte conciencia técnica pero una preparación ética y de gobernanza limitada, con el **razonamiento ético y el pensamiento reflexivo como los predictores más fuertes de un uso sostenible y fiable de la IA** y la alfabetización en gobernanza como el predictor más fuerte de la conciencia del nexo IA-ODS (β = 0,64). Esto fundamenta empíricamente el énfasis de la base de conocimiento en la alfabetización para el uso crítico y vincula directamente la alfabetización en IA con la [[sustainability]] y con la integración de [[educational-policy-ai|políticas]].
 **La oferta de marcos es ahora un problema en sí mismo.** [[ai-competence-framework-landscape-2026|Fitsilis (2026)]] comparó 16 marcos de competencia en IA respaldados institucionalmente para la educación y el desarrollo de la fuerza laboral y encontró un núcleo compartido de diez áreas de competencia, pero una amplia variación en la estructura, la progresión y la orientación para la implementación: la dificultad práctica es elegir entre ellos, no la escasez.
 
@@ -78,6 +80,8 @@ La investigación señala los enfoques [[collaborative-learning|colaborativos]] 
 **La [[writing-education|composición]] parte de la experiencia vivida, pero la profundidad conceptual necesita andamiaje.** [[burriss-multimodal-composition-critical-ai-literacy-2026|Burriss et al. (2026)]] encontraron que los jóvenes anclaban principios abstractos de [[ethics|ética]] de la IA en sistemas con los que se encuentran a diario (los «pases» electrónicos para salir del aula, los portátiles regulados por el centro, los detectores de plagio), y uno de los grupos explicó que la IA en los centros «era algo personal para todos los miembros del grupo», mientras que 15 de las 18 respuestas de la encuesta de final de unidad indicaron que hacer el vídeo había cambiado su comprensión de la ética de la IA. Los autores son explícitos sobre el límite: componer no garantizaba por sí solo una base conceptual; «consentimiento informado» se tradujo como «hay que aprobarlo», y algunos términos (por ejemplo, «a prueba de fallos») nunca se explicaron, lo que los llevó a planificar un trabajo conceptual más profundo en iteraciones posteriores. La producción [[creativity|creativa]] desarrolla mejor la alfabetización en IA cuando un [[scaffolding|andamiaje]] conceptual explícito acompaña a la creación, en lugar de dar por supuesto que esta emergerá de ella.
 
 **La intuición sobre la IA como complemento experiencial de la alfabetización.** Una carencia recurrente es que los marcos para K-12 suponen que quien aprende se aproxima a la IA desde un conocimiento declarativo y basado en reglas, cuando en la práctica lo primero que desarrolla es una «sensación» práctica de cómo responde la IA (experimentar con prompts, observar su comportamiento, adaptar estrategias) antes de poder articular principios formales. [[ai-intuition-ai-literacy-k12-2026|Beau y Lazar (2026)]] formalizan esto como **intuición sobre la IA**: una comprensión experiencial, inductiva y a menudo tácita que se desarrolla mediante la interacción iterativa con sistemas de IA y que sostiene el juicio sensible al contexto bajo incertidumbre. Su **doble marco** sitúa la alfabetización en IA (competencias estructuradas y en gran medida estáticas) junto a la intuición sobre la IA (un proceso de aprendizaje dinámico) y mapea ambas a través de las dimensiones habituales (comprender conceptos, usar herramientas, evaluar críticamente, aplicar éticamente, reflexionar), de modo que quien aprende combina la claridad conceptual y las [[guardrails|barreras de seguridad]] (la alfabetización) con la sabiduría práctica de confiar pero verificar y decidir cuándo desconectar (la intuición). Como la intuición cultiva la «observación experta» de la IA (por ejemplo, someter los prompts a prueba de estrés para encontrar dónde falla un modelo), los autores sostienen que es una salvaguarda frente a la [[cognitive-offloading|dependencia excesiva]] y la erosión del pensamiento crítico; se distingue de la [[prompt-engineering]] (que optimiza los resultados) porque pone en primer plano el *juicio epistémico*. Esto conecta la alfabetización con el [[experiential-learning]], el [[constructivist|constructivismo]] y una práctica de aula fundamentada en el desarrollo, y orienta la formación del profesorado hacia facilitar la exploración inductiva y no solo hacia transmitir conceptos.
+
+**Para la infancia temprana, la alfabetización está anidada y no es fundacional.** Una revisión de 86 recursos sitúa la alfabetización en IA dentro de un conjunto de cinco dominios de competencia en el que las funciones ejecutivas y las disposiciones de aprendizaje ejercen la coordinación, y sostiene que «no puede ser autónoma» para niños y niñas de 0 a 8 años ([[early-childhood-ai-holistic-competencies-review-2026|Pei (2026)]]).
 
 **La motivación es una precondición, no solo un resultado.** [[liang-ai-learning-motivation-sdt-2026|Liang et al. (2026)]] encontraron, en 2.086 estudiantes de secundaria que siguieron un currículo de IA de un año, que quienes pasaron a un perfil [[motivation|motivacional]] *autodeterminado* o permanecieron en él (con alta satisfacción de las necesidades de autonomía, competencia y relación) mostraron las **mayores ganancias en alfabetización en IA**. La alfabetización en IA se desarrolla mediante una implicación sostenida, y esa implicación está a su vez modelada por la motivación y el apoyo a las necesidades psicológicas, por lo que una instrucción eficaz en alfabetización en IA debe atender a la motivación de quien aprende y no solo a sus capacidades.
 
@@ -239,9 +243,11 @@ La alfabetización en IA es **de doble filo** en relación con la dependencia ex
 - [[ai-assisted-educational-research]] — Investigación educativa asistida por IA
 
 ## Artículos conectados
+- [[early-childhood-ai-holistic-competencies-review-2026]] — Configurar la primera infancia en la era de la IA: competencias, pedagogía y apoyo ecológico (Pei 2026)
+- [[ai-security-literacy-k12-framework-2026]] — Alfabetización en seguridad de la IA: marco de competencias basado en el ecosistema y plataforma de aprendizaje para K-12
 - [[caeai-digital-literacy-frameworks-review-2026]] — 80 marcos validados muestran que la IA amplía la alfabetización digital hacia la ética mientras la colaboración entre el profesorado y la IA sigue poco especificada (Guo et al. 2026)
 - [[ai-literacies-young-adults-2025]] — Seis áreas de competencia, cinco valores y tres niveles de progresión para los medios de servicio público
-- [[ai-literacy-heptagon-2026]] — The AI Literacy Heptagon
+- [[ai-literacy-heptagon-2026]] — El heptágono de la alfabetización en IA
 - [[ai-literacy-continuum-higher-education]] — Un continuo práctico de cinco etapas para la alfabetización en IA
 - [[ai-literacy-measurement-conceptual-landscape-llm-2026]] — Cartografiar el corpus de instrumentos de alfabetización en IA: 55 constructos, pares de jangle y jingle, codificación basada en LLM
 - [[ai-literacy-instrument-development-systematic-review-2026]] — Evaluación COSMIN de 58 estudios y 47 instrumentos de alfabetización en IA: la evidencia de validez se agrupa en torno a la estructura interna mientras la evidencia de criterio, contenido e invariancia sigue faltando en gran medida (Jin et al. 2026)
@@ -249,13 +255,13 @@ La alfabetización en IA es **de doble filo** en relación con la dependencia ex
 - [[jin-glat-genai-literacy-assessment]] — GLAT: una prueba validada de evaluación de la alfabetización en IA generativa
 - [[ai-literacy-assessment-misalignment]] — Evaluación de la alfabetización en IA: desalineación entre el autoinforme y el desempeño
 - [[genai-assessment-literacy-scale-2026]] — GAA-LS: escala validada de alfabetización en evaluación con IA generativa para estudiantado de educación superior (Nie et al. 2026)
-- [[competent-generative-ai-use-measures-review-2026]] — Beyond AI Literacy: A Structured Review and Exploratory Meta-Analysis of Measures for Competent Generative-AI Use
+- [[competent-generative-ai-use-measures-review-2026]] — Más allá de la alfabetización en IA: revisión estructurada y metaanálisis exploratorio de las medidas del uso competente de la IA generativa
 - [[ai-literacy-correlates-affective-behavioral-cognitive-2025]] — revisión sistemática de con qué correlaciona la alfabetización en IA
 - [[assessing-teachers-ai-literacy-measurement-tools-2026]] — revisión sistemática de los instrumentos que miden la alfabetización en IA del profesorado
 - [[ai-literacy-self-assessment-questionnaire-primary-2025]] — cuestionario de autoevaluación para estudiantado de primaria superior
 - [[metacognitive-ai-literacy-beyond-skills-gap-2026]] — la alfabetización en IA como práctica social metacognitiva
 - [[liu-ai-literacy-interventions-meta-analysis-2026]] — metaanálisis de los efectos de las intervenciones de alfabetización en IA
-- [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]] — The Scaffolded AI Literacy (SAIL) Framework
+- [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]] — El marco de alfabetización en IA con andamiaje (SAIL)
 - [[age-tiered-ai-literacy-guidebooks-2026]] — Guías de alfabetización en IA adaptadas por edades, evaluadas con 794 estudiantes y 37 docentes: estructura de aceptación de cuatro factores invariante entre las ediciones de 9-12 y 13-18 años, con quienes aprenden más jóvenes por encima en todos los constructos
 - [[li-mroziak-reorienting-critical-ai-literacy]] — Alfabetización crítica en IA: poder, resistencia, agencia
 - [[miles-prompt-literacy-human-centered-genai-framework-2026]] — La alfabetización en prompts como alfabetización fundacional distinta de la ingeniería de prompts: el modelo de implicación con IA generativa centrado en las personas en cinco fases (Miles, Haber-Curran y Arar 2026)
@@ -273,14 +279,13 @@ La alfabetización en IA es **de doble filo** en relación con la dependencia ex
 - [[zhi-modeling-measuring-graduate-genai-literacy-2026]] — Modelo de cinco dimensiones fundamentado en Marzano y escala de autoinforme de 15 ítems para la alfabetización en IA generativa en el posgrado (Zhi et al. 2026)
 - [[pinto-ai-initial-teacher-training-mathematics-review-2026]] — Once estudios sobre la IA en la formación inicial del profesorado de matemáticas, en su mayoría de corta duración y con la ética abordada solo en tres (Pinto et al. 2026)
 - [[vega-baudrit-genai-university-chemistry-education-review-2026]] — Integración de la IA generativa centrada en la verificación en la química universitaria, con la traducción representacional como exigencia central de alfabetización en IA (Vega-Baudrit y Rivera Alvarez 2026)
-- [[genai-higher-ed-agency-responsibility-discourse-2026]] — Who Acts, Who Knows, Who Answers? A Corpus-Assisted Discourse Analysis of Agency, Epistemic Responsibility, and Accountability in Generative AI Higher Education Research
+- [[genai-higher-ed-agency-responsibility-discourse-2026]] — ¿Quién actúa, quién sabe, quién responde? Un análisis del discurso asistido por corpus de la agencia, la responsabilidad epistémica y la rendición de cuentas en la investigación sobre IA generativa en educación superior
 - [[elsayary-ai-literacy-employability-competencies-2026]] — La alfabetización en IA autoinformada explicó el 60,8% de la preparación para la empleabilidad percibida, con las dimensiones evaluativa y afectiva como las más fuertes (ElSayary y Ragab 2026)
 - [[fagerlund-competency-agency-purposes-ai-education-2026]] — Los propósitos del profesorado para la educación en IA leídos a través de la cualificación, la socialización y la subjetivación de Biesta, y la heurística de la agencia informada en IA (Fagerlund et al. 2026)
 - [[charles-teacher-readiness-by-design-ai-rich-2026]] — La preparación docente como calidad del diseño y no como adopción o confianza, con la autoeficacia como recurso y la no utilización como algo que no implica falta de preparación (Charles 2026)
 - [[yu-k12-ai-education-ai-literacy-meta-analysis-2026]] — La educación en IA en K-12 elevó la alfabetización en IA con una g agrupada = 0,892 en 57 efectos positivos, y el desacuerdo en la medición explica la heterogeneidad (Yu et al. 2026)
 - [[sun-student-genai-entanglement-literacy-demands-2026]] — Las exigencias de alfabetización difieren según el tipo de entrelazamiento entre el estudiantado y la IA generativa; las formas de Asistente y Habilitador dominan mientras las demás siguen marginales por razones institucionales (Sun, Dohn y Rehm 2026)
 - [[ai-competence-framework-landscape-2026]] — Análisis comparativo de 16 marcos de competencia en IA para la educación y el desarrollo de la fuerza laboral
-
 - [[ai-literacy-determinants-university-students-2026]] — Recursos externos, competencia digital y perfil psicológico como determinantes conjuntos, con una inversión de signo de la ansiedad tecnológica
 - [[sfailq-six-facet-ai-literacy-questionnaire-2026]] — Instrumento de seis facetas que añade el uso responsable y el autodesarrollo, invariante a escala entre adolescentes, adultos jóvenes y adultos de mediana edad
 - [[faculty-ai-well-being-social-supports-2026]] — Modelo de ecuaciones estructurales del bienestar docente con la IA, los apoyos sociales y la alfabetización en IA

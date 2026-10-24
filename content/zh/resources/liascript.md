@@ -1,7 +1,7 @@
 ---
 title: "LiaScript"
 created: "2026-09-23T20:15:00-04:00"
-updated: "2026-10-09T19:11:12-04:00"
+updated: "2026-10-24T08:38:48-04:00"
 type: resource
 summary: "一种开放的 Markdown 方言，能把一个纯文本文件变成浏览器中的交互式课程，内含测验与可运行代码，并配有用于构建课程的多智能体助手。"
 url: https://liascript.github.io/
@@ -19,7 +19,7 @@ level: [higher ed, k 12]
 confidence: high
 connected_resources: [lesson-md]
 translation_of: resources/liascript
-source_updated: "2026-09-24T04:57:47-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -47,4 +47,5 @@ LiaScript 免费，没有付费层级，也不需要账户，并在 BSD-3-Clause
 
 ## 关联概念
 
-[[learning-design]], [[open-source]], [[online-teaching-and-learning]], [[active-learning]]
+[[learning-design]], [[open-source]], [[online-teaching-and-learning]], [[active-learning]], [[cs-education]], [[edtech-platform]]
+

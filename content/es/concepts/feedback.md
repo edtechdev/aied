@@ -1,13 +1,13 @@
 ---
 title: Retroalimentación
 created: "2026-09-25T03:54:18-04:00"
-updated: "2026-10-22T09:13:53-04:00"
+updated: "2026-10-24T08:21:58-04:00"
 type: concept
 assessment: [ai-feedback-quality, assessment, automated-assessment, feedback, feedback-literacy, formative-assessment, peer-assessment]
 connected_faqs: [developing-ai-tutor, ai-feedback-at-scale]
 confidence: high
 translation_of: concepts/feedback
-source_updated: "2026-10-17T03:49:06-04:00"
+source_updated: "2026-10-23T22:48:50-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 connected_resources: [clarity, pedagogical-promptbook, snorkl]
 contributors: [editor]
@@ -134,6 +134,7 @@ Una fuente puede diferenciarse en cómo calibra, no en cuán bien puntúa: en un
 Un modelo de dos capas muestra cómo el emparejamiento puede organizarse en torno a una máquina sin delegar en ella el juicio. En el [[ai-agents-joyful-assessment-third-space-2026|ejemplo práctico de El Khoury y Ma]], un [[agentic-ai|agente]] produce un borrador de informe de evidencias basado en la rúbrica sobre cada transcripción, con cada valoración ligada a extractos citados, y después el profesorado revisa el informe, dirige una puesta en común y decide qué significan las evidencias para ese estudiante, una división que los autores resumen como que la IA organiza las evidencias mientras el profesorado las interpreta. Su afirmación sobre el aprovechamiento se basa en la valoración: la retroalimentación y la iteración fuera de las jerarquías sociales que el estudiantado navega con sus pares y con el profesorado son más fáciles de intentar, y ensayar al ritmo propio del estudiante es, sostienen, lo que convierte una confianza ocasional en un hábito asentado de implicarse con la retroalimentación.
 
 - **La retroalimentación puede dirigirse a quien la emite.** La formación de tutores es un contexto de retroalimentación poco explorado: los sistemas automatizados que etiquetan por secuencias las respuestas abiertas de los tutores para señalar los tipos de elogio (elogio al esfuerzo, el tipo deseable centrado en el proceso, frente al elogio al resultado y al elogio a la persona, el tipo menos deseable porque atribuye rasgos) pueden ofrecer una retroalimentación explicativa que cambia la conducta de tutoría. La restricción vinculante son los datos etiquetados por personas expertas. Un enfoque de aumento —GPT-4o genera respuestas etiquetadas sintéticas que amplían un conjunto de bajos recursos de 13 instancias a 520, y después se ajusta GPT-3.5— recupera la mayor parte de la brecha: F2 +20,5% en el elogio al esfuerzo, +17,3% en el elogio al resultado y +16,5% en la categoría *no vista* de elogio a la persona. La prueba de generalización sobre un tipo de elogio no visto es la comprobación de validez que separa esto del sobreajuste, y el mecanismo está más cerca de la destilación de un modelo docente que del aumento clásico. ([[xu-automated-feedback-tutor-training-2025]])
+- **La retroalimentación que no ve la revisión se repite.** En un juego de aprendizaje de ciencias cuyos agentes criticaban borradores de argumentos, el estudiantado revisó a lo largo de varias rondas, pero un modelo de 8B cuantizado devolvió sustancialmente la misma crítica a un borrador mejorado, así que el bucle que motivaba la revisión produjo también la frustración que la terminó ([[humburg-scistory-ai-supported-inquiry-science-learning-games-2025|Humburg et al., 2025]]).
 
 ### Por qué importa la retroalimentación para la IA en la educación
 
@@ -159,6 +160,7 @@ La retroalimentación es uno de los mecanismos más determinantes y mejor docume
 - [[writing-education]]
 
 ## Artículos conectados
+- [[humburg-scistory-ai-supported-inquiry-science-learning-games-2025]] — Retroalimentación de agentes que se repetía entre revisiones (Humburg et al. 2025)
 - [[jansen-argumentative-writing-feedback-receptivity-2026]] — Retroalimentación automatizada en la escritura argumentativa: el papel de la receptividad y la percepción de la retroalimentación en el estudiantado de secundaria
 - [[ai-agents-joyful-assessment-third-space-2026]] — Agentes de IA, evaluación gozosa y tercer espacio
 - [[student-perspectives-ai-writing-grading-2026]] — Perspectivas del estudiantado sobre la evaluación transparente de la escritura asistida por IA (AlGhamdi 2026)
@@ -192,7 +194,7 @@ La retroalimentación es uno de los mecanismos más determinantes y mejor docume
 - [[marked-pedagogies-linguistic-bias-writing-feedback]] — Pedagogías marcadas: sesgo en la retroalimentación automatizada de la escritura
 - [[shap-llm-rationales-teaching-quality-assessment]] — SHAP frente a justificaciones de LLM para la retroalimentación docente basada en rúbricas
 - [[llm-adaptive-programming-error-explanations-2026]] — Explicaciones adaptativas de errores de programación con LLM
-- [[student-perceptions-ai-study-productivity-2026]] — Students' Perceptions of Artificial Intelligence Tools for Study Productivity and Learning: An Exploratory Survey Study
+- [[student-perceptions-ai-study-productivity-2026]] — Percepciones del estudiantado sobre las herramientas de inteligencia artificial para la productividad de estudio y el aprendizaje: un estudio exploratorio por encuesta
 - [[yasar-llms-iterative-pedagogical-design-2026]] — Los LLM como agentes de diseño pedagógico iterativo
 - [[gpt4-feedback-student-activation-2026]]
 - [[reddig-maclellan-personalized-feedback-llm-2026]]
@@ -201,10 +203,10 @@ La retroalimentación es uno de los mecanismos más determinantes y mejor docume
 - [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]
 - [[tripartite-feedback-framework-ai-assessment-2026]] — Marco tripartito: clasificar la retroalimentación por su estatus epistémico y los cinco principios límite para la implicación de la IA (Venetsanos 2026)
 - [[structured-reflection-ai-explanatory-feedback-2026]] — ¿Beneficio o cuello de botella? La reflexión estructurada sobre la retroalimentación explicativa de la IA (Asher, Gold y Carvalho 2025)
-- [[bounded-reliance-ai-writing-feedback-2026]] — Bounded Reliance: A Source Credibility Perspective on EFL Students' Engagement with AI-Generated Writing Feedback
-- [[pivot-generative-video-tutors-stem-2026]] — From Content Generation to Learning Support: Pedagogy-Guided Generative Video Tutors for STEM Learning
-- [[llm-feedback-focus-adaptivity-student-writing-2026]] — Evaluating Feedback Focus and Pedagogical Adaptivity in LLM-Generated Feedback on Student Writing
-- [[nlp-student-evaluation-teaching-scoping-review-2026]] — From Sentiment Classification to Actionable and Responsible Feedback: A Scoping Review and Evidence Map of NLP in Student Evaluation of Teaching, 2015–2026
+- [[bounded-reliance-ai-writing-feedback-2026]] — Confianza acotada: una perspectiva de credibilidad de la fuente sobre el compromiso del estudiantado de inglés como lengua extranjera con la retroalimentación de escritura generada por IA
+- [[pivot-generative-video-tutors-stem-2026]] — De la generación de contenido al apoyo al aprendizaje: tutores de vídeo generativos guiados por la pedagogía para el aprendizaje STEM
+- [[llm-feedback-focus-adaptivity-student-writing-2026]] — Evaluación del enfoque de la retroalimentación y la adaptatividad pedagógica en la retroalimentación generada por LLM sobre la escritura del estudiantado
+- [[nlp-student-evaluation-teaching-scoping-review-2026]] — De la clasificación de sentimiento a la retroalimentación accionable y responsable: una revisión de alcance y un mapa de evidencia del PLN en la evaluación docente por el estudiantado, 2015-2026
 - [[nazaretsky-feedback-source-bias-2025]] — Quién da la retroalimentación importa: las etiquetas de fuente desplazan las valoraciones cuando el texto se mantiene comparable (Nazaretsky et al. 2025)
 - [[ai-powered-writing-feedback-awe-review-2026]] — Sistema de retroalimentación de escritura impulsado por IA: una revisión de las herramientas de evaluación automatizada de la escritura (AWE)
 - [[zhao-ji-appraisal-human-ai-revisions-2026]] — Qué hace una revisión a la postura de quien escribe: la retroalimentación entre pares vuelve más contractivos los ensayos argumentativos y la revisión con IA mantiene el equilibrio Contract/Expand (Zhao y Ji 2026)

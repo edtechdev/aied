@@ -1,7 +1,7 @@
 ---
 title: Declaraciones de uso y divulgación de la IA
 created: "2026-09-28T18:15:33-04:00"
-updated: "2026-10-04T17:13:09-04:00"
+updated: "2026-10-24T08:22:10-04:00"
 type: concept
 foundations: [academic-integrity]
 technology: [generative-ai]
@@ -12,7 +12,7 @@ level: [higher ed]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: concepts/ai-use-disclosure
-source_updated: "2026-10-04T16:22:53-04:00"
+source_updated: "2026-10-24T08:08:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -81,6 +81,7 @@ Al examinar las orientaciones sobre IA generativa de las 50 universidades estado
 - **Haga que la divulgación sea formativa, no solo cumplimiento.** Use consignas de reflexión y declaraciones estructuradas (modelo/entrada/evaluación) para que la divulgación construya [[ai-literacy|alfabetización en IA]] y autorregulación en lugar de funcionar como vigilancia.
 - **Forme al profesorado para construir confianza, no para depender de la detección.** La divulgación nunca debería ir seguida de una acusación; el profesorado debería aprender conversaciones que construyen confianza en lugar de apoyarse en detectores de IA poco fiables.
 - **Diseñe para la equidad.** Atienda a las diferencias de divulgación entre disciplinas, estatus lingüístico y bagajes del estudiantado, y evite mecanismos que impongan cargas desiguales a quienes aprenden y ya están marginados.
+- **La divulgación también funciona en la dirección contraria.** Todas las páginas de este sitio tratan la divulgación como una obligación del estudiantado, y el profesorado de escritura entrevistado por [[wu-lam-genai-writing-assessment-professors-2026|Wu y Lam (2026)]] pidió su reflejo: debería decirse al estudiantado cuándo y cómo se usa una herramienta para evaluar su trabajo, y pedirle consentimiento antes de subir ese trabajo. La misma transparencia que hace legible el uso del estudiantado es la que hace legible para el estudiantado la práctica evaluadora de una institución.
 
 ## Conexiones
 
@@ -107,6 +108,7 @@ El uso y la divulgación de la IA se sitúan en la intersección de la [[academi
 - [[parents-and-families]]
 - [[social-norms-ai-use]] — por qué quien aprende elige ocultar en lugar de divulgar
 ## Artículos conectados
+- [[wu-lam-genai-writing-assessment-professors-2026]] — La dirección inversa: decir al estudiantado cuándo la IA califica su trabajo y preguntar antes de subirlo
 - [[kirsanov-beyond-detection-ai-online-assessments-2026]] — Más allá de la detección: cómo el estudiantado usa y oculta la IA en las evaluaciones en línea
 - [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — Divulgación de la IA por parte del estudiantado, estigma y aprendizaje autorregulado
 - [[vetter-hidden-cost-disclosure-genai-2026]] — El coste oculto de la divulgación: la divulgación y las acusaciones del profesorado

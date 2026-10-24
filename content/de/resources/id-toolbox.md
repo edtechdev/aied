@@ -1,7 +1,7 @@
 ---
 title: "Die ID Toolbox"
 created: "2026-09-20T13:49:11-04:00"
-updated: "2026-10-10T09:50:22-04:00"
+updated: "2026-10-24T08:38:48-04:00"
 type: resource
 summary: "Über fünfzig kostenlose, zweckgebundene Browser-Werkzeuge für Instructional Designer: Scoping, Aufwandsschätzung, Untertitel- und Übersetzungswerkzeuge, Lesbarkeits- und Konsistenzprüfungen."
 url: https://nextgenailearning.com/
@@ -18,7 +18,7 @@ audience: [instructional designers, faculty developers, educational technology d
 confidence: high
 connected_resources: [drawsplat, lesson-md, edugems]
 translation_of: resources/id-toolbox
-source_updated: "2026-09-20T13:49:11-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -42,4 +42,5 @@ Curt Zilbersher, der seit achtundzwanzig Jahren betriebliche Weiterbildung gesta
 
 ## Verbundene Konzepte
 
-[[learning-design]], [[online-teaching-and-learning]], [[formative-assessment]], [[educational-technology-developers]]
+[[learning-design]], [[online-teaching-and-learning]], [[formative-assessment]], [[educational-technology-developers]], [[accessibility]]
+

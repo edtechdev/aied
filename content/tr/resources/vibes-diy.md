@@ -29,7 +29,7 @@ ai_assist:
     agent: hermes-agent
 reviewed_by: [editor]
 translation_of: resources/vibes-diy
-source_updated: "2026-09-23T17:45:00-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 ---
 
@@ -51,4 +51,5 @@ Platformun ücretsiz bir katmanı vardır ancak kredi temellidir: hesaplar ayda 
 
 ## Bağlı kavramlar
 
-[[ai-literacy]], [[open-source]], [[design-thinking]], [[constructivist]], [[learning-design]]
+[[ai-literacy]], [[open-source]], [[design-thinking]], [[constructivist]], [[learning-design]], [[vibe-coding]]
+

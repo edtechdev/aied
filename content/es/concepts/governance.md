@@ -1,7 +1,7 @@
 ---
 title: Gobernanza de la IA
 created: "2026-09-25T04:32:03-04:00"
-updated: "2026-10-22T09:13:53-04:00"
+updated: "2026-10-24T08:21:18-04:00"
 type: concept
 foundations: [ai-education]
 ethics: [ethics, privacy]
@@ -9,9 +9,9 @@ connected_faqs: [ai-guidance-children-under-13, institutional-ai-policy]
 level: [higher ed]
 confidence: high
 institutions: [change-management, educational-policy-ai, regulation]
-connected_resources: [institutional-ai-readiness-pack, campus-ai-framework]
+connected_resources: [institutional-ai-readiness-pack, campus-ai-framework, campus-ai-development]
 translation_of: concepts/governance
-source_updated: "2026-10-16T07:28:51-04:00"
+source_updated: "2026-10-23T09:20:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -64,6 +64,8 @@ La gobernanza de la IA en la educación es cada vez más urgente porque la [[gen
 - **Ambigüedad de las políticas y experiencia del estudiantado:** [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination|La implicación del estudiantado con la IA generativa]] encontró que 12/23 estudiantes señalaban la falta de políticas institucionales explícitas sobre IA («la universidad todavía no tiene una política clara y unificada»), y sostiene que la ambigüedad de la gobernanza moldea las prácticas, las normas y la [[self-regulated-learning|autorregulación]] del estudiantado, lo que respalda un giro hacia orientaciones institucionales transparentes.
 
 - **La alfabetización en IA como capacidad de gobernanza («el 18.º ODS»):** [[ai-literacy-sdg-governance-framework-2026|Islam, Morshed e Islam (2026)]] reconceptualizan la alfabetización en IA como un mecanismo sistémico de gobernanza y no como una habilidad de aula, y proponen una taxonomía AIRE de seis niveles (Reconocer → Comprender → Aplicar → Analizar → Integrar → Gobernar) que amplía la jerarquía de Bloom con la síntesis ética y la previsión estratégica, junto con un nexo IA-ODS que mapea las competencias de alfabetización sobre los diecisiete [[sustainability|Objetivos de Desarrollo Sostenible]]. Al enmarcar la alfabetización en IA como una heurística del «18.º ODS», es decir, una capacidad transversal que canaliza el aprendizaje hacia la gobernanza y el desarrollo sostenible, la encuesta del estudio a 300 profesionales encontró que la alfabetización en gobernanza era el predictor más fuerte de la conciencia del nexo IA-ODS (β = 0,64, r = 0,67 con la conciencia del nexo) e identificó el razonamiento ético y el pensamiento reflexivo como los predictores más fuertes de un uso fiable de la IA. Esto vincula la gobernanza institucional con el cultivo de la [[ai-literacy|alfabetización en IA]] pública, y se hace eco del hallazgo de la base de conocimiento de que una alineación responsable de la IA exige [[stakeholders|responsables de políticas]] y ciudadanía capaces de interpretar críticamente los sistemas algorítmicos, y no solo un control técnico orientado al cumplimiento.
+
+- **La mayor parte de la gobernanza educativa es orientación y no ley.** En 160 documentos en inglés, solo 4 adoptaron una forma jurídica o regulatoria formal, mientras que 92 eran orientaciones, marcos o conjuntos de herramientas, y la rendición de cuentas apareció en 146 documentos pero emparejada con un actor de supervisión nombrado en 100 ([[generative-ai-governance-education-scoping-review-2026|Elmahjub et al. (2026)]]).
 
 - **Integridad académica y evaluación:** la gobernanza es central en cómo las instituciones abordan las preocupaciones de [[academic-integrity|integridad académica]] relacionadas con la IA y rediseñan la [[assessment|evaluación]], pasando de la prohibición y la vigilancia a las orientaciones, la alfabetización en IA y los diseños orientados al proceso, como se ve en la investigación sobre la [[student-rationalization-ai-writing|racionalización del estudiantado]] y el [[beyond-detection-authentic-assessment-ai-2025|rediseño de la evaluación auténtica]].
 
@@ -140,6 +142,7 @@ La gobernanza es distinta de la [[educational-policy-ai|política educativa sobr
 - [[student-support-and-success]] — supervisión de los sistemas institucionales de apoyo con IA
 
 ## Artículos conectados
+- [[generative-ai-governance-education-scoping-review-2026]] — Gobernanza de la IA generativa en la educación: una revisión de alcance de principios, mecanismos y riesgos (Elmahjub et al. 2026)
 - [[ai-literacy-sdg-governance-framework-2026]] — La alfabetización en IA como capacidad de gobernanza para el desarrollo sostenible: la taxonomía AIRE y el nexo IA-ODS (Islam, Morshed e Islam 2026)
 - [[tan-aigem-ai-educational-management-2026]] — El marco AIGEM para la gobernanza de la IA en la gestión educativa
 - [[institutional-ai-policy-health-informatics-2026]] — Documentos de política y orientación sobre IA en 48 programas de informática de la salud acreditados por CAHIIM: la gobernanza como orientación no vinculante centrada en la integridad (Eldredge et al. 2026)
@@ -158,7 +161,7 @@ La gobernanza es distinta de la [[educational-policy-ai|política educativa sobr
 - [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of]] — La implementación de AIDA en la Open University
 - [[leveraging-complex-systems-leading-for-transformative-change]] — SPARK: liderar para un cambio transformador
 - [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]] — La implicación del estudiantado con la IA generativa (TAD)
-- [[beyond-detection-authentic-assessment-ai-2025]] — Beyond Detection: Authentic Assessment Redesign
+- [[beyond-detection-authentic-assessment-ai-2025]] — Más allá de la detección: rediseño de la evaluación auténtica
 - [[genai-policies-higher-ed-computing]] — Políticas institucionales de IA generativa en informática
 - [[genai-declaration-frameworks-higher-education]] — Marcos de declaración de IA
 - [[genai-assessment-governance]] — Gobernanza de la evaluación con IA generativa
@@ -168,8 +171,8 @@ La gobernanza es distinta de la [[educational-policy-ai|política educativa sobr
 - [[policy-deficit-ai-sel-2026]] — El déficit de política en la investigación sobre IA y aprendizaje socioemocional
 - [[agarwal-ethical-values-norms-aied-2026]] — Valores y normas éticas para la IA en la educación
 - [[perrotta-zero-shot-governance-2026]] — La gobernanza zero-shot: la IA de propósito general en las políticas (Perrotta 2026)
-- [[genai-higher-ed-agency-responsibility-discourse-2026]] — Who Acts, Who Knows, Who Answers? A Corpus-Assisted Discourse Analysis of Agency, Epistemic Responsibility, and Accountability in Generative AI Higher Education Research
-- [[instructional-governance-design-computing-education-2026]] — Instructional Governance by Design: A Framework for AI in Computing Education
+- [[genai-higher-ed-agency-responsibility-discourse-2026]] — ¿Quién actúa, quién sabe, quién responde? Un análisis del discurso asistido por corpus de la agencia, la responsabilidad epistémica y la rendición de cuentas en la investigación sobre IA generativa en educación superior
+- [[instructional-governance-design-computing-education-2026]] — Gobernanza instruccional por diseño: un marco para la IA en la enseñanza de la informática
 - [[genai-governance-australian-higher-ed-2026]] — Trazar la frontera autorizada: un estudio comparativo de política y viñetas sobre la gobernanza de la IA generativa en la educación superior australiana
 - [[wong-sun-agentic-ai-assessment-governance-2026]] — Delegación, evidencia y acceso: qué cambia la IA agéntica en la gobernanza de la evaluación universitaria (Wong y Sun 2026)
 - [[williamson-experimental-futuring-ai-prototyping-governance-2026]] — Prototipos de IA y pilotos escolares como maquinaria de gobernanza que prefigura un futuro elegido (Williamson et al., 2026)

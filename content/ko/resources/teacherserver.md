@@ -1,7 +1,7 @@
 ---
 title: "TeacherServer"
 created: "2026-09-20T13:49:11-04:00"
-updated: "2026-09-22T06:42:37-04:00"
+updated: "2026-10-24T08:38:48-04:00"
 type: resource
 summary: "K-12 교사와 대학 교수를 위한 단일 목적 수업 자료 생성기의 대규모 무료 라이브러리입니다: 수업 계획, 학습지, IEP 목표, 루브릭, 사례 연구, 수학 문제 등을 제공합니다."
 url: https://teacherserver.com/
@@ -19,7 +19,7 @@ audience: [instructors, faculty developers]
 confidence: high
 connected_resources: [edugems]
 translation_of: resources/teacherserver
-source_updated: "2026-09-22T06:42:37-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다." 
 contributors: [editor]
 ai_assist:
@@ -43,4 +43,5 @@ K-12용: 수업 계획, 학습지, [[special-education|IEP 목표]], 수학 서�
 
 ## 연결된 개념
 
-[[generative-ai]], [[llm]], [[formative-assessment]], [[teacher-ai-competency]], [[online-teaching-and-learning]]
+[[generative-ai]], [[llm]], [[formative-assessment]], [[teacher-ai-competency]], [[online-teaching-and-learning]], [[automated-question-generation]], [[higher-ed]], [[special-education]]
+

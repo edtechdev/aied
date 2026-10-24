@@ -1,7 +1,7 @@
 ---
 title: "TeacherServer"
 created: "2026-09-20T13:49:11-04:00"
-updated: "2026-09-22T06:42:37-04:00"
+updated: "2026-10-24T08:38:48-04:00"
 type: resource
 summary: "Uma grande biblioteca gratuita de geradores de ensino de propósito único — planos de aula, planilhas, metas de IEP, rubricas, estudos de caso, problemas de matemática — para professores da educação básica e docentes do ensino superior."
 url: https://teacherserver.com/
@@ -19,7 +19,7 @@ audience: [instructors, faculty developers]
 confidence: high
 connected_resources: [edugems]
 translation_of: resources/teacherserver
-source_updated: "2026-09-22T06:42:37-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -40,4 +40,6 @@ Para a educação básica: geradores de plano de aula, planilha, [[special-educa
 O projeto afirma ter um servidor de IA instalado localmente para velocidade e que os dados são processados localmente e nunca armazenados, além de conformidade com as diretrizes do Departamento de Educação; a [página da equipe](https://teacherserver.com/index-team.php) nomeia Zafer Unal, professor da University of South Florida, como fundador e desenvolvedor, ao lado de um conselho consultivo de quatro docentes de outras universidades. Essas afirmações ainda valem verificação antes do uso com trabalhos de estudantes. O acesso exige cadastro, e existe uma plataforma companheira paga para construir suas próprias ferramentas.
 
 ## Conceitos conectados
-[[generative-ai]], [[llm]], [[formative-assessment]], [[teacher-ai-competency]], [[online-teaching-and-learning]]
+
+[[generative-ai]], [[llm]], [[formative-assessment]], [[teacher-ai-competency]], [[online-teaching-and-learning]], [[automated-question-generation]], [[higher-ed]], [[special-education]]
+

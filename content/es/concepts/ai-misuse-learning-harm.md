@@ -96,19 +96,19 @@ La literatura sobre el gaming the system (abuso de pistas, adivinación sistemá
 
 ## Artículos conectados
 
-- [[rho-disengaged-conversational-behaviors-2026]] — Disengaged conversational behaviors and learning in student-AI dialogues (Rho et al. 2026)
+- [[rho-disengaged-conversational-behaviors-2026]] — Conductas conversacionales desvinculadas y aprendizaje en diálogos entre estudiantado e IA (Rho et al. 2026)
 
 - [[genai-thoughtless-use-self-directed-learning-2026]]
 - [[generative-ai-guardrails-harm-learning]] — GenAI Without Guardrails Can Harm Learning
-- [[genai-performance-vs-learning]] — Distinguishing Performance Gains from Learning
-- [[ai-availability-student-motivation]] — AI Availability and Student Motivation
-- [[genai-skill-bypass-literacy]] — GenAI Skill Bypass and Literacy
+- [[genai-performance-vs-learning]] — Distinguir las ganancias de desempeño del aprendizaje
+- [[ai-availability-student-motivation]] — Disponibilidad de la IA y motivación del estudiantado
+- [[genai-skill-bypass-literacy]] — Elusión de habilidades por la IA generativa y alfabetización
 - [[cognitive-shift-ai-education]] — Cognitive Shift in AI Education
 - [[misiejuk-cognitive-offloading-prompting-2026]] — Cognitive Offloading in Student–AI Collaboration
-- [[cognitive-commons-ai-expertise-regeneration]] — The tragedy of the cognitive commons: AI and expertise regeneration
-- [[lodge-loble-cognitive-offloading-2026]] — AI, cognitive offloading and implications for education (Lodge & Loble 2026)
-- [[ai-overreliance-complex-adaptive-system-2026]] — AI overreliance modeled as a complex adaptive system
-- [[academic-erasure-complexity-ai-writing-2026]] — Academic erasure: the disappearance of complexity under AI-supported writing
-- [[ai-dependency-self-efficacy-teacher-support-burnout-2026]] — AI dependency fully mediates the path from self-efficacy and teacher support to learning burnout (Huang et al. 2026)
-- [[uneven-impact-generative-ai-student-learning-2026]] — Early reliance predicts negative impact while cognitive reliance predicts positive impact, and evaluation literacy strengthens rather than buffers the harm of consulting AI first (Manikonda et al. 2026)
-- [[this-is-how-we-ai-teaching-guide-2026]] — This is How We AI: A Practical Approach to Teaching with Artificial Intelligence
+- [[cognitive-commons-ai-expertise-regeneration]] — La tragedia de los bienes cognitivos comunes: la IA y la regeneración de la pericia
+- [[lodge-loble-cognitive-offloading-2026]] — IA, descarga cognitiva e implicaciones para la educación (Lodge y Loble 2026)
+- [[ai-overreliance-complex-adaptive-system-2026]] — La dependencia excesiva de la IA modelada como sistema adaptativo complejo
+- [[academic-erasure-complexity-ai-writing-2026]] — Borrado académico: la desaparición de la complejidad en la escritura asistida por IA
+- [[ai-dependency-self-efficacy-teacher-support-burnout-2026]] — La dependencia de la IA media por completo la ruta desde la autoeficacia y el apoyo docente hacia el agotamiento académico (Huang et al. 2026)
+- [[uneven-impact-generative-ai-student-learning-2026]] — La dependencia temprana predice un impacto negativo y la dependencia cognitiva un impacto positivo, y la alfabetización evaluativa refuerza en lugar de amortiguar el daño de consultar primero a la IA (Manikonda et al. 2026)
+- [[this-is-how-we-ai-teaching-guide-2026]] — Así usamos la IA: un enfoque práctico para enseñar con inteligencia artificial

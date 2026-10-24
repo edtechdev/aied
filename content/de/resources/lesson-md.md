@@ -1,7 +1,7 @@
 ---
 title: "LESSON.md"
 created: "2026-09-20T13:49:11-04:00"
-updated: "2026-10-10T09:50:22-04:00"
+updated: "2026-10-24T08:38:48-04:00"
 type: resource
 summary: "Ein offenes Klartext-Format für blockbasierte eLearning-Lektionen, dazu ein Agent Skill, der Lektionen, Assessments und ganze Kursbündel in diesem Format schreibt."
 url: https://lesson.md/
@@ -18,7 +18,7 @@ audience: [instructional designers, curriculum designers, software developers, e
 confidence: high
 connected_resources: [id-toolbox, liascript]
 translation_of: resources/lesson-md
-source_updated: "2026-09-20T13:49:11-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -42,4 +42,5 @@ Instructional Designer und Kurserstellende, die wollen, dass ihre Inhalte einen 
 
 ## Verbundene Konzepte
 
-[[learning-design]], [[open-source]], [[online-teaching-and-learning]], [[multimodal]], [[educational-technology-developers]]
+[[learning-design]], [[open-source]], [[online-teaching-and-learning]], [[multimodal]], [[educational-technology-developers]], [[assessment]], [[edtech-platform]]
+

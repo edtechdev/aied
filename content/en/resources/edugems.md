@@ -1,7 +1,7 @@
 ---
 title: "EduGems"
 created: "2026-09-20T13:49:11-04:00"
-updated: "2026-09-20T13:49:11-04:00"
+updated: "2026-10-24T08:37:08-04:00"
 type: resource
 summary: "A growing library of pre-made Google Gemini 'Gems': shareable, pre-written prompts for planning, feedback, forms, images and AI-use reflection."
 url: https://www.edugems.ai/
@@ -29,4 +29,6 @@ The library covers planning and classroom work (career caricatures, [[formative-
 Curated by Eric Curts, who publishes the accompanying tutorial video, newsletter and wider edtech resources at Control Alt Achieve. Making a copy of a Gem requires a Google account and the Gemini terms come with it, so this is a library to evaluate before pointing students at it, not a tool that can be used anonymously.
 
 ## Connected Concepts
-[[prompt-engineering]], [[generative-ai]], [[ai-literacy]], [[learning-design]], [[online-teaching-and-learning]]
+
+[[prompt-engineering]], [[generative-ai]], [[ai-literacy]], [[learning-design]], [[online-teaching-and-learning]], [[teacher-ai-competency]]
+

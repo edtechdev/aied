@@ -1,7 +1,7 @@
 ---
 title: "LESSON.md"
 created: "2026-09-20T13:49:11-04:00"
-updated: "2026-10-09T19:11:14-04:00"
+updated: "2026-10-24T08:38:48-04:00"
 type: resource
 summary: "一种开放的纯文本格式，用于基于区块的 eLearning 课程，另附一个能以该格式编写课程、测验与整套课程包的 agent skill。"
 url: https://lesson.md/
@@ -18,7 +18,7 @@ audience: [instructional designers, curriculum designers, software developers, e
 confidence: high
 connected_resources: [id-toolbox, liascript]
 translation_of: resources/lesson-md
-source_updated: "2026-09-20T13:49:11-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -41,4 +41,6 @@ ai_assist:
 面向希望内容在更换工具后仍然存续的教学设计者和课程创作者；面向希望提供用户已经理解的导入导出格式的 eLearning 厂商；以及任何在可读格式之上构建 AI 辅助编写能力的人。贡献者包括 LXD Integral 的 Dan Bashaw，该格式有公开的更新日志，目前已到 v1.8。
 
 ## 关联概念
-[[learning-design]], [[open-source]], [[online-teaching-and-learning]], [[multimodal]], [[educational-technology-developers]]
+
+[[learning-design]], [[open-source]], [[online-teaching-and-learning]], [[multimodal]], [[educational-technology-developers]], [[assessment]], [[edtech-platform]]
+

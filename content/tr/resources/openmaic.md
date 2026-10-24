@@ -24,7 +24,7 @@ ai_assist:
     date: "2026-10-14"
     agent: hermes-agent
 translation_of: resources/openmaic
-source_updated: "2026-09-20T17:30:00-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ---
@@ -46,4 +46,6 @@ Düzenlemeye devam edebilecekleri üretilmiş materyaller isteyen eğitmenler ve
 MIT lisanslıdır; İngilizce ve Çince kullanıcı kılavuzu ve Discord ile Feishu üzerinde etkin bir topluluğu vardır. Modele tarafsızdır: en az bir LLM sağlayıcı anahtarı sağlarsınız ve isteğe bağlı yerel bileşenler (yerel modeller için Lemonade, konuşma tanıma için FunASR) yığının daha fazlasını çevrimdışı çalıştırmanızı sağlar — bu nedenle "ücretsiz" ifadesi yazılımı tanımlar, çıkarım (inference) faturasını değil. Ardındaki makale *Journal of Computer Science and Technology* dergisinde yayımlandı (2026, DOI 10.1007/s11390-025-6000-0) ve depo Eylül 2026'ya kadar 38.000'den fazla yıldız topladı.
 
 ## Bağlı kavramlar
-[[agentic-ai]], [[generative-ai]], [[llm]], [[open-source]], [[project-based-learning]], [[online-teaching-and-learning]], [[personalized-learning]], [[teacher-role]]
+
+[[agentic-ai]], [[generative-ai]], [[llm]], [[open-source]], [[project-based-learning]], [[online-teaching-and-learning]], [[personalized-learning]], [[teacher-role]], [[intelligent-tutoring]], [[simulation]]
+

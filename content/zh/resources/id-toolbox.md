@@ -1,7 +1,7 @@
 ---
 title: "The ID Toolbox"
 created: "2026-09-20T13:49:11-04:00"
-updated: "2026-10-09T19:11:13-04:00"
+updated: "2026-10-24T08:38:48-04:00"
 type: resource
 summary: "五十多个面向教学设计者的免费单用途浏览器工具：范围界定、估算、字幕与翻译工具、可读性与一致性检查。"
 url: https://nextgenailearning.com/
@@ -17,7 +17,7 @@ level: [higher ed]
 audience: [instructional designers, faculty developers, educational technology developers]
 confidence: high
 connected_resources: [drawsplat, lesson-md, edugems]
-source_updated: "2026-09-20T13:49:11-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_of: resources/id-toolbox
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
@@ -41,4 +41,6 @@ ai_assist:
 Curt Zilbersher 做了二十八年企业培训设计，他描述了同一批小问题在他职业生涯中反复出现——统计解说词字数、找出让课程超出 [[edtech-platform|LMS]] 限额的那个素材、手工核对字幕覆盖率——于是他一边做这些修复工具，一边免费提供给大家。网站还每年免费做一次调查，了解教学设计者们实际如何度过自己的一周。
 
 ## 关联概念
-[[learning-design]], [[online-teaching-and-learning]], [[formative-assessment]], [[educational-technology-developers]]
+
+[[learning-design]], [[online-teaching-and-learning]], [[formative-assessment]], [[educational-technology-developers]], [[accessibility]]
+

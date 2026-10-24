@@ -19,7 +19,7 @@ confidence: high
 connected_resources: [edugems]
 reviewed_by: [editor]
 translation_of: resources/teacherserver
-source_updated: "2026-09-22T06:42:37-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови."
 contributors: [editor]
 ai_assist:
@@ -42,4 +42,6 @@ ai_assist:
 Проєкт стверджує, що має локально встановлений сервер ШІ для швидкості, що дані обробляються локально і ніколи не зберігаються, а також що відповідає настановам Міністерства освіти; на [сторінці команди](https://teacherserver.com/index-team.php) Зафер Унал, професор Університету Південної Флориди, названий засновником і розробником, поруч із консультативною радою з чотирьох представників факультету інших університетів. Ці заяви варто перевірити перед використанням із студентськими роботами. Доступ вимагає реєстрації, і існує супутня платформа-пізніше для створення власних інструментів.
 
 ## Пов’язані поняття
-[[generative-ai]], [[llm]], [[formative-assessment]], [[teacher-ai-competency]], [[online-teaching-and-learning]]
+
+[[generative-ai]], [[llm]], [[formative-assessment]], [[teacher-ai-competency]], [[online-teaching-and-learning]], [[automated-question-generation]], [[higher-ed]], [[special-education]]
+

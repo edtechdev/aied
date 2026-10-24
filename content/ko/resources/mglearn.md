@@ -1,7 +1,7 @@
 ---
 title: "mglearn Classroom Resources"
 created: "2026-09-23T17:45:00-04:00"
-updated: "2026-09-23T17:45:00-04:00"
+updated: "2026-10-24T08:38:48-04:00"
 type: resource
 summary: "TCEA에서 제공하는 방대한 무료 브라우저 기반 교실 활동 모음집과 인쇄용 자료로, 생성형 AI 리터러시와 디지털 시민의식 모듈이 포함되어 있습니다."
 url: https://mglearn.github.io/
@@ -20,7 +20,7 @@ discipline: [language learning]
 confidence: high
 connected_resources: [pressing-prompts]
 translation_of: resources/mglearn
-source_updated: "2026-09-23T17:45:00-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -51,4 +51,6 @@ K–12 교사와 이들을 훈련하는 전문성 개발 담당자를 대상으�
 콘텐츠는 CC BY-NC 4.0으로, 기반 코드는 MIT로 라이선스되어 있어 출처를 표시하면 교실 사용, 로컬 호스팅, 개작이 허용되지만, 자료를 판매하거나 유료 교육에 묶으려면 TCEA의 서면 허가가 필요합니다. 다른 사람의 저작물은 라이선스에서 제외되며, 문학 활동은 저작권이 있는 작품의 본문을 재현하지 않습니다. 이 프로젝트는 콘텐츠와 번역이 편집 검토 아래 생성형 AI로 제작되었으며, 번역은 기계 지원으로 이루어져 교실에서 사용하기 전에 현지 교육자의 검토를 받도록 표시되어 있다고 밝힙니다. 이는 교육구가 이를 대규모로 도입하기 전에 진지하게 고려할 가치가 있습니다. 모든 활동은 학생의 브라우저에서 로그인 없이, 데이터 수집 없이 실행됩니다.
 
 ## 연결된 개념
-[[ai-literacy]], [[inclusive-learning]], [[multilingual-learning]], [[teacher-ai-competency]]
+
+[[ai-literacy]], [[inclusive-learning]], [[multilingual-learning]], [[teacher-ai-competency]], [[language-learning]]
+

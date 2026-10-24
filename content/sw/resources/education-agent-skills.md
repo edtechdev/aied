@@ -29,7 +29,7 @@ ai_assist:
     agent: hermes-agent
 reviewed_by: [editor]
 translation_of: resources/education-agent-skills
-source_updated: "2026-09-23T21:05:00-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 ---
 
@@ -48,4 +48,6 @@ Dai maalum la mradi huu ni msingi wake: ujuzi unataja ushahidi ambao unategemea,
 Ujuzi wa kielimu, nyaraka, na nyenzo za mtaala zimepewa leseni CC BY-SA 4.0, hivyo matumizi tena na kubadilisha ni wazi huku vilivyotokana navyo vikilazimika kubeba leseni ile ile. Maelezo mawili ya uendeshaji ni muhimu ikiwa utaitekeleza. Kituo cha MCP kinachopangishwa kinahitaji tokeni badala ya kuwa wazi kwa mtu yeyote, na kwa sababu seva inaitumikia picha iliyohifadhiwa badala ya faili za SKILL.md, ujuzi unaouongeza bila kujenga upya na kuhifadhi kifurushi hautajitokeza kwenye seva hai hata baada ya kupeleka mtandaoni tena. Maktaba hii imejengwa na Gareth Manning, mwalimu na mbunifu wa mitaala, na masharti ya leseni yanatumika kwa maudhui ya kielimu mahususi.
 
 ## Dhana Zilizounganishwa
-[[learning-design]], [[ai-literacy]], [[active-learning]], [[online-teaching-and-learning]], [[open-source]]
+
+[[learning-design]], [[ai-literacy]], [[active-learning]], [[online-teaching-and-learning]], [[open-source]], [[educational-development]]
+

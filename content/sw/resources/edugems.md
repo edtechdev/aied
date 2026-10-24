@@ -18,7 +18,7 @@ confidence: high
 connected_resources: [teacherserver, id-toolbox]
 reviewed_by: [editor]
 translation_of: resources/edugems
-source_updated: "2026-09-20T13:49:11-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -41,4 +41,6 @@ Maktaba inashughulikia upangaji na kazi ya darasa (vielelezo vya taaluma, shughu
 Imekusanywa na Eric Curts, anayechapisha video ya mafunzo inayoambatana, jarida na nyenzo zaidi za teknolojia ya elimu katika Control Alt Achieve. Kutengeneza nakala ya Gem kunahitaji akaunti ya Google na masharti ya Gemini yanakuja pamoja nayo, hivyo hii ni maktaba ya kutathmini kabla ya kuelekeza wanafunzi kwake, si zana inayoweza kutumika bila kitambulisho.
 
 ## Dhana Zilizounganishwa
-[[prompt-engineering]], [[generative-ai]], [[ai-literacy]], [[learning-design]], [[online-teaching-and-learning]]
+
+[[prompt-engineering]], [[generative-ai]], [[ai-literacy]], [[learning-design]], [[online-teaching-and-learning]], [[teacher-ai-competency]]
+

@@ -1,7 +1,7 @@
 ---
 title: "PAUSE: Patterns of AI Use Self-Examination"
 created: "2026-09-20T13:49:11-04:00"
-updated: "2026-09-20T13:49:11-04:00"
+updated: "2026-10-24T08:37:08-04:00"
 type: resource
 summary: "A ten-minute, browser-only self-check on what you offload to AI, with every item traced to the research paper behind it."
 url: https://anondo1969.github.io/pause/
@@ -33,4 +33,6 @@ Students, instructors and researchers who want a private prompt to examine their
 Written by Mahbub Ul Alam (SciLifeLab Data Centre, Uppsala University); the design rationale and validation limits are documented in an accompanying preprint, and the source code is public.
 
 ## Connected Concepts
-[[cognitive-offloading]], [[critical-thinking]], [[ai-literacy]], [[self-regulated-learning]], [[metacognition]], [[privacy]]
+
+[[cognitive-offloading]], [[critical-thinking]], [[ai-literacy]], [[self-regulated-learning]], [[metacognition]], [[privacy]], [[cognitive-surrender]]
+

@@ -1,7 +1,7 @@
 ---
 title: Validez de la evaluación
 created: "2026-09-25T04:31:09-04:00"
-updated: "2026-10-22T09:13:53-04:00"
+updated: "2026-10-24T08:21:12-04:00"
 connected_faqs: [redesign-assessment-ai-era, reporting-interpreting-aied-research, asynchronous-online-courses-ai, checking-whether-educational-ai-works]
 type: concept
 foundations: [academic-integrity]
@@ -10,7 +10,7 @@ ethics: [bias-mitigation, equity-in-ai-education]
 confidence: high
 methods: [rct]
 translation_of: concepts/assessment-validity
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-23T08:05:20-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -130,6 +130,7 @@ La estabilidad entre ejecuciones no está garantizada, sin embargo: repetir la m
 
 - **La exposición es medible, y el remedio es evidencia suficiente y no seguridad máxima.** [[villanueva-ai-vulnerability-assessment-audit-2026|Villanueva (2026)]] puntuó 53.915 ítems de evaluación según su formato publicado, su supervisión y el peso de la nota, y encontró que la mayoría de las notas evaluadas reposan sobre trabajo cuya autoría no puede verificarse tras la entrega; sostiene que los programas necesitan evidencia suficiente de aprendizaje en las etapas clave, y no que cada unidad se vuelva segura.
 - **Una medida válida puede seguir siendo insegura de optimizar.** El ajuste fino de un tutor con LLM contra una métrica de adaptatividad de tipo rúbrica elevó la métrica (de +0,05 a +0,42) mientras las valoraciones ciegas de expertos caían (de 4,46 a 3,03), porque una métrica que puntúa las decisiones de forma independiente se maximiza repitiendo la única mejor decisión ([[llm-tutor-pedagogical-metric-degradation-2026|Domínguez Figaredo y Fernández De la Cruz, 2026)]]).
+- **La geometría de un embedding no son las distinciones de una rúbrica.** Frente a 992 soluciones de física manuscritas bajo cinco representaciones textuales y nueve mecanismos de embedding, [[embedding-similarity-clustering-handwritten-physics-2026|Tauschhuber y Kortemeyer (2026)]] informan de una mejor correlación de Spearman ponderada con las puntuaciones humanas de 0,198, con los grupos enriquecidos en puntuación en lugar de equivalentes en puntuación.
 
 ## Conceptos conectados
 
@@ -154,46 +155,48 @@ La estabilidad entre ejecuciones no está garantizada, sin embargo: repetir la m
 
 ## Artículos conectados
 
+- [[embedding-similarity-clustering-handwritten-physics-2026]] — La similitud de embedding correlacionó con las puntuaciones humanas como máximo en 0,198
 - [[corbin-ai-glasses-wearable-ai-assessment-2026]] — La IA portátil disuelve la separabilidad y la observabilidad, así que una persona examinada y supervisada puede no demostrar capacidad sin ayuda (Corbin, Sharpe y Dawson 2026)
-- [[ivory-psychology-assessment-integrity-2026]] — Program-level pass/fail susceptibility and the marking criteria that let fabricated values pass (Ivory et al. 2026)
-- [[zou-is-this-a-trap-student-teachers-genai-2026]] — Permission alone doesn't degrade validity: engagement unaffected by GenAI use; reflection resists generic substitution
-- [[ai-agents-joyful-assessment-third-space-2026]] — AI agents, joyful assessment, and third space
-- [[opraise-automated-marking-ai-assessment-2026]] — OpRaise report: AI marking of 761 university essays across three UK universities
-- [[kumar-genai-computing-education-systematic-review-2026]] — When AI generates the graded artifact: computing education's validity problem and redesign evidence
-- [[brunnstrom-ai-interaction-literacy-srl-2026]] — Take-home exams: assess the qualitative phase, move recall in-class (Brunnström & Palmqvist 2026)
-- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — HITL AI-assisted scoring in a large-scale national writing assessment (Curi et al. 2026)
+- [[ivory-psychology-assessment-integrity-2026]] — Susceptibilidad aprobado/suspendido a nivel de programa y los criterios de calificación que dejan pasar valores fabricados (Ivory et al. 2026)
+- [[zou-is-this-a-trap-student-teachers-genai-2026]] — El permiso por sí solo no degrada la validez: la implicación no se ve afectada por el uso de IA generativa y la reflexión resiste la sustitución genérica
+- [[ai-agents-joyful-assessment-third-space-2026]] — Agentes de IA, evaluación gozosa y tercer espacio
+- [[opraise-automated-marking-ai-assessment-2026]] — Informe OpRaise: calificación con IA de 761 ensayos universitarios en tres universidades del Reino Unido
+- [[kumar-genai-computing-education-systematic-review-2026]] — Cuando la IA genera el artefacto calificado: el problema de validez de la educación en computación y la evidencia de rediseño
+- [[brunnstrom-ai-interaction-literacy-srl-2026]] — Exámenes para llevar a casa: evaluar la fase cualitativa y trasladar el recuerdo al aula (Brunnström y Palmqvist 2026)
+- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — Calificación asistida por IA con el humano en el circuito en una evaluación nacional de escritura a gran escala (Curi et al. 2026)
 - [[varia-construct-equivalent-assessment-variant-generation-2026]] — Construct-equivalent assessment variant generation (Lee 2026)
-- [[chirikov-ai-grade-inflation-2026]] — AI task displacement as a mechanism of grade inflation (Chirikov 2026)
+- [[chirikov-ai-grade-inflation-2026]] — El desplazamiento de tareas por IA como mecanismo de inflación de notas (Chirikov 2026)
 - [[ai-agents-complete-lms-assessment-validity-2026]] — AI agents completing LMS tasks; human-production assumption & agentic validity (Hadjisolomou & El-Haddad 2026)
 - [[semantic-variability-llm-conversation-assessment-2026]]
 - [[assessment-latent-structure-human-llm-2026]] — Do assessment instruments measure the same thing for humans and LLMs? (Strugatski et al. 2026)
 - [[multimodal-embodied-cognition-oral-explanations-2026]] — A Multimodal Framework for Embodied Cognition in Oral Explanations
-- [[assessing-quality-ai-generated-exams-field-2025]] — Assessing the quality of AI-generated exams: a large-scale field study
+- [[assessing-quality-ai-generated-exams-field-2025]] — Evaluar la calidad de los exámenes generados por IA: un estudio de campo a gran escala
 - [[genai-performance-vs-learning]]
 - [[ai-scoring-language-bias-physics]]
 - [[end-of-assessment-ai-disruption-transformation-2026]]
 - [[can-ai-evaluate-assessment-llm-meta-assessment-2026]]
-- [[luo-dawson-value-judgments-grading-2026]] — Value judgments in grading GenAI-assisted work: honesty, trust, validity, and two-way transparency (Luo & Dawson 2026)
+- [[luo-dawson-value-judgments-grading-2026]] — Juicios de valor al calificar trabajo asistido por IA generativa: honestidad, confianza, validez y transparencia bidireccional (Luo y Dawson 2026)
 - [[falahat-chatgpt-grading-pharmacy-exams-2026]]
 - [[teichmann-detecting-undetectable-misconduct-2026]] — The misconduct procedure as a validity problem
-- [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] — Assessment validity under imperfect information: a response-region model
-- [[weidlich-inference-at-risk-assessment-validity-2026]] — Which inference is at risk? Separating five validity pressures and checking what a redesign weakens (Weidlich 2026)
-- [[koretsky-genai-stem-assessment-2026]] — STEM assessment as a validity, design and capability-definition problem, not a cheating one: process evidence, oral exams and the fidelity of AI-generated tasks (Koretsky et al. 2026)
-- [[ai-particle-physics-education-redesign-2026]] — AI in Particle Physics Education: Research Problems and Foundational Skills
-- [[student-perspectives-ai-writing-grading-2026]] — Who Should Grade My Work? Student Perspectives on Transparent AI-Assisted Writing Assessment in Higher Education
-- [[el-salvador-ai-tutoring-selection-claim-2026]] — Bounding the learning claim of El Salvador's AI tutoring pilot (Restrepo Morales et al. 2026)
-- [[munoz-misconduct-allegation-evidence-2026]] — What misconduct allegation files actually contain as evidence, and why evidence quality does not predict outcomes (Munoz et al. 2026)
-- [[hadra-ai-detector-accuracy-efl-2026]] — Detector accuracy 0.69 and 0.61 on 192 texts; hybrid-writing failure and EFL misclassification risk (Hadra et al. 2026)
-- [[wright-transcription-not-generation-2026]] — Over-inclusive prohibitions: transcription is not generation, so the rule sanctions what it was not designed to catch (Wright 2026)
-- [[sharma-judgment-visible-genai-assessment-2026]] — Integrity made visible through evaluative judgment rather than detection (Sharma 2026)
-- [[llm-grade-bands-calibration-bias-2026]] — Can large language models reproduce higher education grade bands? Cross-model study of calibration and grading bias in authentic student writing
-- [[ai-assisted-physics-lab-report-assessment-2026]] — AI-Assisted Assessment of Experimental Physics Laboratory Reports: Potential, Limitations, and Support for Teaching Practice
-- [[gifted-potential-ai-assisted-work-attributional-validity-2026]] — Four targets of inference and three attribution errors when a product is read as evidence of learner capacity (Sak 2026)
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — Student Use of LLMs and the Limits of AI-Generated Question Difficulty in Data Science Courses
-- [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors: Assertion-based Schemas for Auditable Coding of Educational Dialogues
-- [[vogt-ai-mcq-recognition-medical-assessment-2026]] — Student ratings of curricular alignment track item difficulty (rho = 0.762) rather than content (Vogt et al. 2026)
+- [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] — La validez de la evaluación con información imperfecta: un modelo de región de respuesta
+- [[weidlich-inference-at-risk-assessment-validity-2026]] — ¿Qué inferencia está en riesgo? Separar cinco presiones de validez y comprobar qué debilita un rediseño (Weidlich 2026)
+- [[koretsky-genai-stem-assessment-2026]] — La evaluación STEM como problema de validez, diseño y definición de capacidades, no de fraude: evidencia de proceso, exámenes orales y la fidelidad de las tareas generadas por IA (Koretsky et al. 2026)
+- [[ai-particle-physics-education-redesign-2026]] — IA en la educación en física de partículas: problemas de investigación y competencias fundamentales
+- [[student-perspectives-ai-writing-grading-2026]] — ¿Quién debería calificar mi trabajo? Perspectivas del estudiantado sobre la evaluación transparente de la escritura asistida por IA en la educación superior
+- [[el-salvador-ai-tutoring-selection-claim-2026]] — Acotar la afirmación de aprendizaje del piloto de tutoría con IA de El Salvador (Restrepo Morales et al. 2026)
+- [[munoz-misconduct-allegation-evidence-2026]] — Qué contienen realmente como evidencia los expedientes de acusaciones de mala conducta, y por qué la calidad de la evidencia no predice los resultados (Munoz et al. 2026)
+- [[hadra-ai-detector-accuracy-efl-2026]] — Precisión del detector de 0,69 y 0,61 en 192 textos; fallo con escritura híbrida y riesgo de clasificación errónea en EFL (Hadra et al. 2026)
+- [[wright-transcription-not-generation-2026]] — Prohibiciones demasiado amplias: transcribir no es generar, así que la norma sanciona lo que no fue diseñada para detectar (Wright 2026)
+- [[sharma-judgment-visible-genai-assessment-2026]] — La integridad hecha visible mediante el juicio evaluativo y no mediante la detección (Sharma 2026)
+- [[llm-grade-bands-calibration-bias-2026]] — ¿Pueden los grandes modelos de lenguaje reproducir las bandas de calificación de la educación superior? Estudio entre modelos de calibración y sesgo de calificación en escritura auténtica del estudiantado
+- [[ai-assisted-physics-lab-report-assessment-2026]] — Evaluación asistida por IA de informes de laboratorio de física experimental: potencial, limitaciones y apoyo a la práctica docente
+- [[gifted-potential-ai-assisted-work-attributional-validity-2026]] — Cuatro objetivos de inferencia y tres errores de atribución cuando un producto se lee como evidencia de la capacidad de quien aprende (Sak 2026)
+- [[student-llm-use-ai-question-difficulty-data-science-2026]] — Uso de LLM por parte del estudiantado y los límites de la dificultad de preguntas generadas por IA en cursos de ciencia de datos
+- [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors: esquemas basados en aserciones para una codificación auditable de diálogos educativos
+- [[vogt-ai-mcq-recognition-medical-assessment-2026]] — Las valoraciones del estudiantado sobre la alineación curricular siguen la dificultad del ítem (rho = 0,762) y no el contenido (Vogt et al. 2026)
 
-- [[llm-grading-assistants-public-health-2026]] — Five-day repeat grading of identical submissions gave Krippendorff's alpha 0.625
-- [[villanueva-ai-vulnerability-assessment-audit-2026]] — AI Vulnerability Index: most assessed marks rest on unverifiable authorship, so validity rests on sufficient evidence at key stages rather than maximum security- [[llm-tutor-pedagogical-metric-degradation-2026]] — A pedagogical-adaptivity metric rose while blind expert ratings fell: measurement validity does not imply optimization validity (Domínguez Figaredo & Fernández De la Cruz 2026)
-- [[genai-english-proficiency-validity-2026]] — Has the Target Moved Again? GenAI and the Validity of English Proficiency Scores
+- [[llm-grading-assistants-public-health-2026]] — Cinco días de calificación repetida de entregas idénticas dieron un alfa de Krippendorff de 0,625
+- [[villanueva-ai-vulnerability-assessment-audit-2026]] — Índice de vulnerabilidad ante la IA: la mayoría de las calificaciones evaluadas se apoya en una autoría no verificable, así que la validez depende de pruebas suficientes en momentos clave y no de la máxima seguridad
+- [[llm-tutor-pedagogical-metric-degradation-2026]] — A pedagogical-adaptivity metric rose while blind expert ratings fell: measurement validity does not imply optimization validity (Domínguez Figaredo & Fernández De la Cruz 2026)
+- [[genai-english-proficiency-validity-2026]] — ¿Se ha movido otra vez el objetivo? La IA generativa y la validez de las puntuaciones de dominio del inglés
 - [[chen-pbl-pjbl-genai-meta-analysis-2026]] — El constructo de resultado mueve la estimación: g = 1,958 para el producto conjunto humano–IA

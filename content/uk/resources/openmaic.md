@@ -24,7 +24,7 @@ ai_assist:
     date: "2026-10-13"
     agent: hermes-agent
 translation_of: resources/openmaic
-source_updated: "2026-09-20T17:30:00-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови."
 contributors: [editor]
 ---
@@ -46,4 +46,6 @@ contributors: [editor]
 Ліцензія MIT, з посібником користувача англійською та китайською та активною спільнотою в Discord і Feishu. Він нейтральний до моделей: ви надаєте щонайменше один ключ постачальника LLM, а додаткові локальні компоненти (Lemonade для локальних моделей, FunASR для розпізнавання мови) дозволяють запускати більшу частину стека офлайн — тож «безкоштовно» стосується програмного забезпечення, а не рахунку за інференс. Стаття, що стоїть за ним, вийшла в *Journal of Computer Science and Technology* (2026, DOI 10.1007/s11390-025-6000-0), і до вересня 2026 репозиторій мав понад 38 000 зірочок.
 
 ## Пов’язані поняття
-[[agentic-ai]], [[generative-ai]], [[llm]], [[open-source]], [[project-based-learning]], [[online-teaching-and-learning]], [[personalized-learning]], [[teacher-role]]
+
+[[agentic-ai]], [[generative-ai]], [[llm]], [[open-source]], [[project-based-learning]], [[online-teaching-and-learning]], [[personalized-learning]], [[teacher-role]], [[intelligent-tutoring]], [[simulation]]
+

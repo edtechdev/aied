@@ -12,7 +12,8 @@ connected_faqs: [asynchronous-online-courses-ai]
 methods: [ai-ed-evaluation]
 reviewed_by: [editor]
 translation_of: concepts/learning-analytics
-source_updated: "2026-10-20T09:40:00-04:00"
+source_updated: "2026-10-24T06:12:00-04:00"
+updated: "2026-10-24T08:21:25-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -91,6 +92,7 @@ Los métodos de redes son centrales para la analítica del aprendizaje: el [[net
 
 - **Análisis de secuencias y de cadenas de Markov de la conducta autodirigida.** [[an-goel-self-directed-modeling-2026|An, Hammock y Goel (2025)]] combinaron el análisis de secuencias de actividad, la agrupación jerárquica y modelos de cadenas de Markov sobre los flujos de clics de 315 estudiantes en línea que construyeron 822 modelos ecológicos en VERA, destilando nueve clústeres conductuales finos basados en transiciones en tres patrones más amplios (observación, construcción y exploración). Su trabajo demuestra que combinar el análisis de secuencias con el modelado de cadenas de Markov puede descubrir conducta significativa en tareas no estructuradas y [[self-directed-learning|autodirigidas]], incluso en ausencia total de datos demográficos o contextuales.
 - **La analítica del aprendizaje y la IA generativa dan forma al diseño del aprendizaje de maneras distintas (2026).** [[claassen-learning-analytics-genai-learning-design-2026|Claassen et al. (2026)]] usaron ENA sobre 11 grupos focales de docentes para comparar cómo la analítica del aprendizaje y la [[generative-ai]] informan la toma de decisiones de [[learning-design]]. Las discusiones sobre analítica del aprendizaje se centraron en información contextual, el diseño a nivel de curso y la [[problem-solving]] creativa (la analítica para diagnosticar la implicación y focalizar el apoyo), mientras que las discusiones sobre IA generativa se centraron en el [[assessment|diseño de la evaluación]] y en diseñar para la [[self-determination-theory|autodeterminación]] del estudiantado (la IA generativa para la ideación y el desarrollo de evaluaciones). El contexto y la [[creativity]] fueron centrales en ambas —un recordatorio de que la analítica informa el diseño solo dentro de un contexto [[pedagogy|pedagógico]] y de la autonomía del profesorado—.
+- **El habla supera a la fusión cuando el constructo es social, y la mejor fuente depende de cada constructo.** En lugar de maximizar las modalidades, una comparación de LAK26 de cinco configuraciones de rasgos sobre segmentos de modelado colaborativo encontró que los embeddings solo de texto eran los más fuertes en conjunto (AUC ROC media de 0,650, IC del 95 % [0,615, 0,685]) frente a texto más registros (0,613) y texto más registros con una ventana de contexto (0,623). Los registros por sí solos midieron 0,526, cerca del azar para un constructo social, y aun así fueron la única fuente que mejoró la detección de la reflexión (0,5862), mientras que la planificación dependió del habla circundante y no de las trazas del entorno. La elección de rasgos es una afirmación sobre el constructo, no una decisión de presupuesto ([[zhang-llm-detection-ssrl-collaborative-modeling-2026|Zhang et al., 2026]]).
 - **Las trazas conductuales no son medidas del estado cognitivo, especialmente en quienes tienen necesidades especiales.** [[vasileiou-ai-cognitive-scaffolding-executive-functioning-sen-2026|Vasileiou et al. (2026)]] advierten que las trazas de interacción (tiempo en la tarea, errores repetidos, [[help-seeking|búsqueda de ayuda]], progreso irregular) pueden ayudar al profesorado a localizar dónde necesita apoyo quien aprende, pero no son medidas transparentes de estados internos: una respuesta lenta puede reflejar pensamiento cuidadoso, procesamiento del lenguaje, distracción, diseño inaccesible o dificultad técnica. «Los algoritmos no deberían inferir un déficit ejecutivo o un estatus diagnóstico solo a partir de datos conductuales» —las analíticas son defendibles como una fuente de información más dentro de la evaluación profesional y del diálogo con quien aprende—.
 - **Analítica del diseño: minar secuencias de actividad planificadas en lugar de trazas (2026).** [[learning-paths-patterns-learning-design-2026|Divjak, Svetec y Horvat (2026)]] aplicaron cadenas de Markov y minería de patrones secuenciales a la secuencia *diseñada* de 29.064 actividades de enseñanza y aprendizaje en 554 cursos planificados en una herramienta abierta de diseño del aprendizaje. La matriz de transición alcanzó su máximo en la transición de evaluación a discusión (0,332), las autotransiciones dominaron la práctica (0,317) y la adquisición (0,292), y la regla consecutiva más fuerte fue adquisición, evaluación, práctica y práctica (confianza 0,743, lift 1,449), mientras que la ruta de cuatro pasos más frecuente fue adquisición, práctica, práctica, evaluación (120 apariciones). La discusión y la evaluación fueron los tipos más alcanzables y la producción el más distante y esporádico. El estudio recuerda que la analítica del aprendizaje no tiene por qué empezar con trazas del LMS: los datos de diseño pueden exponer la gramática pedagógica de un curso antes de que llegue ningún estudiante, aunque los autores insisten en que el parecido con diseños invertidos, basados en la indagación o [[project-based-learning|basados en proyectos]] no es prueba de intención.
 - **LLM destilados que se autoexplican (2026):** una cadena de dos etapas destila un estimador de analítica del aprendizaje de caja negra y su interpretación posterior al hecho en un [[llm]] pequeño y de pesos abiertos que devuelve tanto una estimación a nivel individual como una explicación en lenguaje natural. Una auditoría centrada primero en la fidelidad evalúa si las narraciones coinciden con las atribuciones que describen; la [[simulation]] muestra una recuperación casi sin pérdidas (r > 0,90) con un mentor oráculo, ofreciendo una vía más transparente y desplegable para la analítica ([[distilling-self-explaining-lm-learning-analytics-2026]]).
@@ -135,12 +137,12 @@ La instrumentación a nivel de proceso es el siguiente escalón hacia abajo de l
 ## Artículos conectados
 
 - [[ai-integrated-math-argumentation-teacher-noticing-2026]] — Notar y orquestar los análisis de IA en la argumentación colectiva (Lee, Park y Lee 2026)
-- [[factria-responsible-institutional-analytics-2026]] — Responsible Institutional Analytics: Interpreting Bias with AI Support
+- [[factria-responsible-institutional-analytics-2026]] — Analítica institucional responsable: interpretar el sesgo con apoyo de IA
 - [[ai-supported-lecturer-decision-making-2026]] — AI-Supported Lecturer Decision-Making in Higher Education
-- [[villegas-ch-federated-explainable-learning-analytics-2026]] — Federated and explainable learning analytics for privacy-preserving academic risk modeling (Villegas-Ch et al. 2026)
-- [[llm-interaction-depth-task-quality-recall-2026]] — What students ask matters: LLM interaction depth, task quality, and immediate recall (Tsiligkiris 2026)
-- [[learning-analytics-to-educational-interventions-2026]] — From learning analytics to educational interventions: enablers of trustworthy LA-based interventions (Svetec, Divjak & Kadoić 2026)
-- [[claassen-learning-analytics-genai-learning-design-2026]] — LA and GenAI in learning design decision-making
+- [[villegas-ch-federated-explainable-learning-analytics-2026]] — Analítica del aprendizaje federada y explicable para modelar el riesgo académico preservando la privacidad (Villegas-Ch et al. 2026)
+- [[llm-interaction-depth-task-quality-recall-2026]] — Lo que pregunta el estudiantado importa: profundidad de interacción con el LLM, calidad de la tarea y recuerdo inmediato (Tsiligkiris 2026)
+- [[learning-analytics-to-educational-interventions-2026]] — De la analítica del aprendizaje a las intervenciones educativas: facilitadores de intervenciones fiables basadas en analítica (Svetec, Divjak y Kadoić 2026)
+- [[claassen-learning-analytics-genai-learning-design-2026]] — Analítica del aprendizaje y IA generativa en la toma de decisiones de diseño de aprendizaje
 - [[at-risk-students-ml-prediction]]
 - [[engagement-intensity-learner-modeling]]
 - [[misiejuk-cognitive-offloading-prompting-2026]]
@@ -151,22 +153,22 @@ La instrumentación a nivel de proceso es el siguiente escalón hacia abajo de l
 - [[sc2r-counterfactual-recourse-educational-2026]] — From Student Risk Prediction to SC2R: Counterfactual Recourse
 - [[bayesian-cognitive-diagnosis-personalized-learning-paths]] — Bayesian cognitive diagnosis for personalized learning paths
 - [[distilling-self-explaining-lm-learning-analytics-2026]] — Distilling self-explaining LM for learning analytics
-- [[lopez-pernas-llm-appropriate-student-support-2026]] — Can AI deliver appropriate support for diverse student profiles? A large-scale evaluation
-- [[llm-agents-collaborative-problem-solving-simulation-2026]] — Fine-tuned participant-specific LLM agents reproducing collaborative problem solving dialogues (Fang 2026)
-- [[astra-multi-agent-tutoring-benchmark-2026]] — ASTRA synthetic benchmark for multi-agent tutoring and participation-balanced collaboration
-- [[determinants-chatgpt-use-higher-education-2026]] — ML/SHAP determinants of future ChatGPT use in higher education
+- [[lopez-pernas-llm-appropriate-student-support-2026]] — ¿Puede la IA ofrecer un apoyo adecuado a perfiles estudiantiles diversos? Una evaluación a gran escala
+- [[llm-agents-collaborative-problem-solving-simulation-2026]] — Agentes LLM ajustados a cada participante que reproducen diálogos de resolución colaborativa de problemas (Fang 2026)
+- [[astra-multi-agent-tutoring-benchmark-2026]] — ASTRA: banco de pruebas sintético para la tutoría multiagente y la colaboración con participación equilibrada
+- [[determinants-chatgpt-use-higher-education-2026]] — Determinantes ML/SHAP del uso futuro de ChatGPT en educación superior
 - [[mejia-domenzain-ml-findings-teachers-blended-2026]] — Making ML findings accessible to teachers in blended classrooms
-- [[pradeesh-outcome-knowledge-tracing-affinity-2026]] — Outcome-based knowledge tracing with affinity mapping
+- [[pradeesh-outcome-knowledge-tracing-affinity-2026]] — Trazado de conocimiento basado en resultados con mapeo de afinidad
 - [[an-goel-self-directed-modeling-2026]]
 - [[schuetze-knowledge-tracing-forgetting-2026]]
 - [[zhang-ml-student-progress-programming-2026]]
 - [[learning-paths-patterns-learning-design-2026]] — Markov chain and pattern mining of 29,064 planned activities in 554 courses, revealing a design grammar led by Acquisition and consolidating Practice
-- [[pulla-parsons-problem-tool-2026]] — Pulla: process-level behavioral tracing and instructor-facing difficulty analysis in Parsons problems (Prol et al. 2026)
+- [[pulla-parsons-problem-tool-2026]] — Pulla: trazado conductual a nivel de proceso y análisis de dificultades para el profesorado en problemas de Parsons (Prol et al. 2026)
 - [[a4l-analytics-pipeline]]
 - [[league-ethical-governance-student-data-2026]]
-- [[learning-analytics-genai-secondary-writing-2026]] — Using Learning Analytics to Support Secondary School Students' Writing with Generative AI
-- [[edtech-privacy-deferral-2026]] — "We'll Fix It Later": Education, AI, and the Deferral of Student Privacy in EdTech
-- [[synthetic-educational-data-structural-fidelity-2026]] — What Fidelity Metrics Miss: A Structural Check on Synthetic Educational Data
-- [[akcapinar-ai-cheating-risk-lms-prediction-2026]] — Akçapınar (2026) — Predicting AI-assisted cheating risk from early-semester LMS traces (AUC 0,763)
-- [[thomas-breaking-learning-system-wall-2026]] — Towards breaking the learning system wall using multimodal tutoring transcriptions (Thomas et al. 2026)
+- [[learning-analytics-genai-secondary-writing-2026]] — Uso de la analítica del aprendizaje para apoyar la escritura del alumnado de secundaria con IA generativa
+- [[edtech-privacy-deferral-2026]] — «Lo arreglaremos después»: educación, IA y la postergación de la privacidad del estudiantado en la tecnología educativa
+- [[synthetic-educational-data-structural-fidelity-2026]] — Lo que las métricas de fidelidad no captan: una verificación estructural de los datos educativos sintéticos
+- [[akcapinar-ai-cheating-risk-lms-prediction-2026]] — Akçapınar (2026) — Predicción del riesgo de trampa asistida por IA a partir de trazas del LMS de inicio de semestre (AUC 0,763)
+- [[thomas-breaking-learning-system-wall-2026]] — Hacia la superación de la barrera de los sistemas de aprendizaje mediante transcripciones multimodales de tutoría (Thomas et al. 2026)
 - [[liu-course-integrated-ai-tutoring-rct-2026]] — Los porcentajes de finalización pueden ocultar un colapso de la implicación

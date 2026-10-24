@@ -101,4 +101,4 @@ El [[productive-failure|fracaso productivo (FP)]] comparte con el ABP su núcleo
 - [[rhaimi-productivemath-2025]] — ProductiveMath: IA para apoyar el diseño de problemas de FP
 - [[genai-scenario-based-healthcare-education-2026]] — Revisión sistemática de la IA generativa en la educación sanitaria basada en escenarios (Neto et al. 2026)
 - [[chen-osman-preservice-physics-tpack-ctd-pbl-2026]] — Módulo CTD-PBL apoyado en IA con 130 futuros docentes de física: TPACK y resolución colaborativa de problemas (Chen y Osman 2026)
-- [[facilitator-vs-ai-mediated-pbl-pharmacology-2026]] — Facilitator-Mediated Versus AI-Mediated Problem-Based Learning in Pharmacology Education: A Quasi-Experimental Study Among Second Year Medical Students
+- [[facilitator-vs-ai-mediated-pbl-pharmacology-2026]] — Aprendizaje basado en problemas mediado por una persona facilitadora frente a mediado por IA en la educación en farmacología: un estudio cuasiexperimental con estudiantes de segundo año de medicina

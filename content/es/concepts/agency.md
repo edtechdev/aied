@@ -157,7 +157,7 @@ Un encuadre estrechamente relacionado es el de la **agencia epistémica relacion
 - [[dang-human-ai-collaboration-competency-2026]] — La agencia de quien aprende como cualidad emergente de coordinar las competencias de dominio, de IA y metacognitiva, y no como un nodo independiente (Dang et al. 2026)
 
 - [[learner-agency-ai-simulation-2026]] — Tener acceso a la elección frente a la agencia puesta en acto: deslizadores, un agente de IA opcional y el aprendizaje en una simulación de bandadas
-- [[guarded-adoption-genai-higher-education-2026]] — Guarded Adoption of Generative AI in Higher Education
+- [[guarded-adoption-genai-higher-education-2026]] — Adopción cautelosa de la IA generativa en la educación superior
 - [[ai-agents-joyful-assessment-third-space-2026]] — Agentes de IA, evaluación gozosa y tercer espacio
 - [[ai-mediated-research-agency-formation-2026]] — La formación de la agencia investigadora mediada por IA en la formación científica en etapas tempranas
 - [[layer-sensitive-cognitive-offloading-writing-2026]] — La descarga cognitiva sensible a las capas en la escritura asistida por IA generativa (Chen 2026)
@@ -169,11 +169,11 @@ Un encuadre estrechamente relacionado es el de la **agencia epistémica relacion
 - [[jin-emergent-learner-agency-implicit-hai-2026]] — La agencia emergente de quien aprende en la colaboración implícita entre personas y IA: personas de apoyo frente a personas contrarias
 - [[de-barba-srl-genai-2026]] — La agencia de quien aprende a través de escalas: regulación, integración y posicionamiento
 - [[mishra-control-vs-agency-history-2025]] — El control frente a la agencia como tensión esencial en la historia de la AIED
-- [[daoism-ai-education-philosophy-2026]] — Alternative AI Philosophy: Daoism as Method for AI in Education
-- [[human-autonomy-agency-hri-review-2025]] — Human Autonomy and Agency in HRI
+- [[daoism-ai-education-philosophy-2026]] — Filosofía alternativa de la IA: el daoísmo como método para la IA en educación
+- [[human-autonomy-agency-hri-review-2025]] — Autonomía y agencia humana en la interacción humano-robot
 - [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly Studio
 - [[teachy-mini-generative-social-robot-higher-ed-2026]] — Teachy Mini
-- [[knowledge-based-design-generative-social-robots-2026]] — Knowledge-Based Design for Generative Social Robots
+- [[knowledge-based-design-generative-social-robots-2026]] — Diseño basado en conocimiento para robots sociales generativos
 - [[young-people-learning-generative-ai-rapid-review-2026]] — Fomentar la agencia del estudiantado en el trabajo relevante para el aprendizaje
 - [[shaw-nave-cognitive-surrender-2026]] — La teoría de los tres sistemas y la rendición cognitiva: cómo la IA reconfigura el razonamiento humano (Shaw y Nave 2026)
 - [[preservice-teacher-agency-genai-design-learning-2026]] — La agencia del profesorado en formación durante sus interacciones con la IA generativa al diseñar para el aprendizaje (Krushinskaia, Elen y Raes 2026)
@@ -182,11 +182,11 @@ Un encuadre estrechamente relacionado es el de la **agencia epistémica relacion
 - [[ai-integrated-teaching-identity-tensions]] — La selectividad fundamentada como agencia docente en la enseñanza integrada con IA (Adiozaman y Segar 2026)
 - [[ai-refusal-higher-education-diagnostic-non-use-2026]] — El rechazo como prueba diagnóstica: el no uso como relación situada y el derecho desigual a rechazar la IA (Zagami 2026)
 - [[obyrne-co-constructing-ai-boundaries-agency-judgment-2026]] — la autoridad epistémica afirmada mediante la interrupción, la corrección y el rechazo más que mediante el uso máximo de la herramienta
-- [[genai-higher-ed-agency-responsibility-discourse-2026]] — Who Acts, Who Knows, Who Answers? A Corpus-Assisted Discourse Analysis of Agency, Epistemic Responsibility, and Accountability in Generative AI Higher Education Research
+- [[genai-higher-ed-agency-responsibility-discourse-2026]] — ¿Quién actúa, quién sabe, quién responde? Un análisis del discurso asistido por corpus de la agencia, la responsabilidad epistémica y la rendición de cuentas en la investigación sobre IA generativa en educación superior
 - [[yang-balancing-teacher-student-agency-2026]] — Equilibrar la agencia docente y estudiantil en herramientas de co-orquestación para el emparejamiento dinámico en tiempo real (Yang et al. 2026)
 - [[porath-interpretive-authority-2026]] — Matriz de Autoridad Interpretativa y Modelo de Integración Ecológica de la Autoridad: cuatro configuraciones de quién interpreta y las capas ecológicas que las desplazan
 - [[gyekye-selves-apprenticeship-2026]] — Estudiantes de color en programas de aprendizaje de oficio se autorizaron a través de la IA mediante el rechazo, la negociación y el reconocimiento («planitud cultural»); Alfabetización en IA Institucional y Ancho de Banda de Reconocimiento
-- [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — Open Questions Towards Skill-Sustaining Reliance in Reflective AI Engagement
+- [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — Preguntas abiertas hacia una dependencia que sostiene las habilidades en la implicación reflexiva con IA
 - [[fagerlund-competency-agency-purposes-ai-education-2026]] — La competencia frente a la agencia como propósitos de la educación en IA, y el heurístico de la agencia informada en IA (Fagerlund et al. 2026)
 - [[canonigo-teacher-mediation-generative-ai-mathematics-2026]] — La mediación docente como la condición que mantiene la IA generativa como artefacto para la crítica y no como autoridad (Canonigo 2026)
 - [[charles-teacher-readiness-by-design-ai-rich-2026]] — La agencia docente como recurso movilizado mediante el diseño, con la preparación juzgada por los artefactos y no por el uso (Charles 2026)

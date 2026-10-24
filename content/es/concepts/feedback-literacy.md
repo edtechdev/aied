@@ -1,7 +1,7 @@
 ---
 title: Alfabetización en retroalimentación
 created: "2026-09-28T19:12:31-04:00"
-updated: "2026-10-22T07:28:08-04:00"
+updated: "2026-10-24T08:21:42-04:00"
 type: concept
 connected_faqs: [writing-instruction-ai-best-practices, ai-feedback-at-scale]
 foundations: [ai-literacy]
@@ -10,7 +10,7 @@ assessment: [ai-feedback-quality, feedback, feedback-literacy, formative-assessm
 discipline: [writing education]
 confidence: high
 translation_of: concepts/feedback-literacy
-source_updated: "2026-10-20T09:40:00-04:00"
+source_updated: "2026-10-23T09:20:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -57,6 +57,8 @@ La alfabetización en retroalimentación se enmarca ampliamente como un conjunto
 - **La alfabetización en retroalimentación como vía del uso de IA generativa al pensamiento crítico:** en 421 estudiantes universitarios chinos, la asociación entre el uso de IA generativa y el pensamiento crítico [[self-report-measures|autoinformado]] pasó casi por completo por la alfabetización en retroalimentación con IA generativa (β=0,185, 71,98% del efecto total), y esa vía se fortaleció a medida que aumentaba el pensamiento reflexivo (índice de mediación moderada = 0,030) ([[genai-use-critical-thinking-moderation-2026|Yan et al. (2026)]]).
 
 - **La alfabetización en retroalimentación predice el aprendizaje en la escritura asistida por IA:** [[hawkins-feedback-literacy-ai-essay-writing|Hawkins et al. (2026)]] encuentran que la alfabetización en retroalimentación fue el único predictor positivo significativo de la nota del ensayo en una tarea de escritura de ensayos mejorada con IA, mientras que [[liu-deris-ai-feedback-literacy-uptake|Liu y Deris (2025)]] desarrollan y validan una escala de Alfabetización en Retroalimentación con IA (AIFL) y muestran que predice la incorporación de la retroalimentación.
+
+- **El bucle entre alfabetización e implicación funciona en ambos sentidos.** Un panel de intercepto aleatorio de tres olas con 399 estudiantes universitarios chinos encontró que la alfabetización en retroalimentación con IA predecía la implicación agéntica posterior (β = 0,222) y que la vía inversa era igual de fuerte (β = 0,263), sin que una prueba de Wald pudiera separar sus magnitudes ([[ai-feedback-literacy-agentic-engagement-panel-2026|Xu (2026)]]).
 
 **Una disposición rival: la sensibilidad a la recompensa.** La sensibilidad a la recompensa basada en la nota debilitó el vínculo credibilidad–aprendizaje percibido en [[chatgpt-feedback-credibility-perceived-learning|Pérez-López et al. (2026)]] (pendientes simples 0,733, 0,607 y 0,483 con sensibilidad baja, media y alta), lo que sitúa la orientación instrumental del estudiantado hacia las calificaciones justo donde la investigación sobre alfabetización en retroalimentación sitúa una disposición cultivable a usar la retroalimentación.
 - **La comprensión, y no la accionabilidad, cargó con el rédito de la revisión.** A lo largo de tres ciclos de retroalimentación y revisión de escritura en dos clases intactas de 48 estudiantes cada una, la comprensión fue la dimensión más asociada con la calidad de la revisión (r = 0,501), por delante de la accionabilidad (r = 0,480) y de la precisión diagnóstica (r = 0,445); lo que añadía la condición diagnóstica era una hoja de interpretación leída antes de la revisión independiente ([[automated-scoring-learning-diagnosis-mechanism-2026|Yao y Fan (2026)]]).
@@ -107,6 +109,7 @@ Actuar sobre la retroalimentación no es lo mismo que mejorar el artefacto. Entr
 - [[higher-ed]]
 
 ## Artículos conectados
+- [[ai-feedback-literacy-agentic-engagement-panel-2026]] — Alfabetización en retroalimentación con IA e implicación agéntica: un panel de intercepto aleatorio de tres olas (Xu 2026)
 - [[ai-feedback-literacy-assessment-as-learning-2026]] — Generar muestras de trabajo calificadas con rúbrica para enseñar alfabetización en retroalimentación (Pennington y Hock 2026)
 - [[brunnstrom-ai-interaction-literacy-srl-2026]] — La retroalimentación con IA sin el encuadre del docente eleva el listón de la alfabetización en retroalimentación (Brunnström y Palmqvist 2026)
 - [[sutama-chatgpt-eportfolio-speaking-2026]]

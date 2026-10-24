@@ -2,7 +2,7 @@
 connected_resources: [liascript, code-viva]
 title: CS Education
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-21T12:05:00-04:00"
+updated: '2026-10-24T08:54:00-04:00'
 type: concept
 foundations: [ai-literacy, computational-thinking]
 technology: [generative-ai, llm, prompt-engineering]
@@ -31,6 +31,7 @@ reviewed_by: [editor]
 - **Code generation and completion:** [[code-review-genai-cs1|CS1 code review]], [[dura-llm-cs2|DURA for CS2]], and [[prompt-problems-nl-programming-mistakes|NL programming mistakes]] examine how students use AI for code generation and what they learn from it.
 - **Conversational agents for novices ([[meta-analysis-systematic-review|scoping review]]):** [[conversational-agents-novice-programmers-scoping-2025|Barzanji & Loitsch (2025)]] map 23 studies (2019–June 2024) of [[conversational-ai|conversational agents]] for novice programmers, documenting a shift from rule-based chatbots to [[llm]]- and [[rag]]-based agents (with [[rag|retrieval-augmented generation]] reducing [[hallucination-risk|hallucination]]) and personalized tutoring support (e.g., InfoBot, ProbSol-Bot, Lint Bot, Profe Alex). Notably, only 4 of 23 studies ground design in [[learning-theories|learning theory]], and 17 of 23 prototypes are English-only despite most research originating outside English-speaking countries — flagging weak [[pedagogy|pedagogical]] grounding and an inclusivity gap for future CA design in introductory programming.
 - **Debugging support:** [[debugtracker-classroom-debugging|Debugging tools]], [[chat-debugging-human-ai-collaboration-circuits|human-AI debugging collaboration]], and [[golrang-propact-pair-programming-2026|dyadic pair-programming modeling]] leverage AI for error identification and repair.
+- **A live course deployment found hint length, not model choice, to be the actionable variable.** Three consecutive deployments in an introductory web development course (o3-mini, GPT-5-mini and GPT-5.5 across 79,438, 83,374 and 10,420 logged submissions) associated hints with better immediate outcomes in several comparisons. Longer messages predicted worse next-submission correctness, more attempts and slower resubmission, and students who had received hints on earlier project steps solved the final step less often, at 95.6% against 98.1% ([[mihaylova-llm-feedback-live-programming-course-2026|Mihaylova et al., 2026]]).
 - **A browser-resident tool-augmented tutor is the architecture the field is converging on.** A tool-augmented SLM design pairs a small fine-tuned planner (1B–7B) with four deterministic tools — code executor, test runner, documentation retriever, [[knowledge-tracing]] module — behind a four-tier escalation policy (tools first, on-device SLM, consent-gated cloud LLM, instructor), shifting pedagogical control from the model to the auditable policy; a preliminary ~150M completion model reaches 10.97% HumanEval pass@1, above several 100M–150M code baselines ([[browser-sized-agents-slm-webllm-tutor-2026|Suvernev et al. (2026)]]).
 - **A small fine-tuned tutor can out-scaffold a larger general model.** Fine-tuning Qwen2.5-Coder-7B-Instruct on 1,213 synthetic tutoring dialogues cut premature solution disclosure from 7.43% to 1.88% of tutor turns and raised stepwise scaffolding and debugging-question quality above GPT-4o's, though reliable pedagogical plan generation stayed the open problem ([[socraticrepair-program-debugging-2026|Kopytskyi et al. (2026)]]).
 - **Automated assessment:** [[automated-grading-linux-bash-examinations-large-language-models|Linux Bash grading]], [[llm-automated-grading-programming-comparison-2026|a large-scale 18-model grading comparison]], and [[llm-intervention-design-cs-review|LLM intervention review]] evaluate automated code assessment. The security of that workflow is a separate question: [[humble-prompt-injection-ai-grading-red-team-2026|Humble (2026)]] red-teamed a routine AI grading task and found that instructions hidden inside a submitted file raised a failing essay's grade with no visible warning, in 9 of 9 iterations for one strategy and 17 of 18 for another — evidence that grader robustness belongs on the [[assessment-validity]] checklist alongside accuracy.
@@ -147,6 +148,7 @@ CS education connects to [[computational-thinking]], [[stem-education]], [[autom
 - [[assessment-validity]]
 
 ## Connected Articles
+- [[mihaylova-llm-feedback-live-programming-course-2026]] — Three deployments, three models, 173k submissions: what hint behaviour looked like in a real course
 - [[kumar-genai-computing-education-systematic-review-2026]] — Systematic review of 72 studies: efficiency gains that do not transfer, and the VIE framework
 - [[vibe-coding-writing-cs-achievement-2026]] — CS achievement and writing skills predict vibe-coding proficiency (CHI 2026)
 - [[tutortrace-learner-behavioral-states-2026]]

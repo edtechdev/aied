@@ -1,7 +1,7 @@
 ---
 title: "EduGems"
 created: "2026-10-10T22:10:00-04:00"
-updated: "2026-10-10T22:10:00-04:00"
+updated: "2026-10-24T08:38:48-04:00"
 type: resource
 summary: "「着実に増えている、作り置きの Google Gemini 用『Gems』ライブラリ」— 企画、フィードバック、フォーム、画像、AI 利用の振り返りのための、共有できて書き上がったプロンプト集。"
 url: https://www.edugems.ai/
@@ -18,7 +18,7 @@ audience: [instructors, curriculum designers, learners]
 confidence: high
 connected_resources: [teacherserver, id-toolbox]
 translation_of: resources/edugems
-source_updated: "2026-09-20T13:49:11-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -41,4 +41,6 @@ ai_assist:
 エリック・カーツ（Eric Curts）が選定しており、解説動画、ニュースレター、そして Control Alt Achieve でより広い edtech 資料を公開しています。Gem のコピーを作るには Google アカウントが必要で、それに伴い Gemini の利用規約が適用されます。したがってこれは学生に向ける前に評価すべきライブラリであり、匿名で使えるツールではありません。
 
 ## 関連する概念
-[[prompt-engineering]], [[generative-ai]], [[ai-literacy]], [[learning-design]], [[online-teaching-and-learning]]
+
+[[prompt-engineering]], [[generative-ai]], [[ai-literacy]], [[learning-design]], [[online-teaching-and-learning]], [[teacher-ai-competency]]
+

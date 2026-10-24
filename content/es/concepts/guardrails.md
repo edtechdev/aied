@@ -1,7 +1,7 @@
 ---
 title: Salvaguardas
 created: "2026-09-28T21:08:00-04:00"
-updated: "2026-10-02T22:24:42-04:00"
+updated: "2026-10-24T08:24:05-04:00"
 type: concept
 technology: [human-in-the-loop-ai, llm, prompt-engineering, rag, reinforcement-learning]
 ethics: [ai-sycophancy, bias-mitigation, pedagogical-safety]
@@ -9,7 +9,7 @@ level: [k 12]
 confidence: high
 connected_faqs: [asynchronous-online-courses-ai]
 translation_of: concepts/guardrails
-source_updated: "2026-09-30T09:53:03-04:00"
+source_updated: "2026-10-22T10:05:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -71,6 +71,8 @@ La [[rag|generación aumentada por recuperación]] ancla las respuestas del tuto
 
 Las salvaguardas no son neutrales: la auditoría de [[paternalistic-filter-llm-history-education|el filtro paternalista]] muestra que los rechazos y las respuestas suavizadas siguen patrones ligados a la identidad del estudiante y a la sensibilidad del tema, reproduciendo la injusticia epistémica incluso mientras «protegen». Las salvaguardas seguras deben auditarse en busca de trato diferencial, un caso directo para la [[bias-mitigation|mitigación de sesgos]] y la [[equity-in-ai-education|equidad en la IA educativa]] en la [[governance|gobernanza]] y la [[regulation|regulación]].
 
+**El umbral de una salvaguarda clasificadora es una decisión de política.** Mover un corte de toxicidad de 0,3 a 0,7 redujo los prompts etiquetados del 35,62% al 12,4%; en un detector de estafas, ese cambio intercambió 15 falsas alarmas y 18 estafas no detectadas por 2 y 36, ningún umbral elimina ambas cosas, y una cifra de robustez significa poco sin el ataque que la acompaña ([[ai-security-literacy-k12-framework-2026|Yocam, Vaidyan y Kalathas (2026)]]).
+
 ## Salvaguardas frente a seguridad pedagógica
 
 - **[[pedagogical-safety|La seguridad pedagógica]]** es el *principio y el objetivo*: que los sistemas de IA educativa protejan a quienes aprenden de daños (contenido, sesgo, consejos inseguros, manipulación).
@@ -114,6 +116,7 @@ Los dos están estrechamente acoplados: casi todas las técnicas de salvaguarda 
 
 ## Artículos conectados
 
+- [[ai-security-literacy-k12-framework-2026]] — Alfabetización en seguridad de la IA: marco de competencias basado en el ecosistema y plataforma de aprendizaje para K-12
 - [[reflection-agent-fidelity-career-2026]] — Fiel donde puede comprobarse: auditar un agente de reflexión frente a su prompt de sistema en un ensayo aleatorizado
 - [[scaffolding-student-ai-dialogue-framework-2026]] — El marco SCAFFOLD para dirigir el diálogo entre estudiantado e IA, con su piloto de aula
 - [[generative-ai-guardrails-harm-learning]] — el ensayo de campo aleatorizado canónico sobre salvaguardas

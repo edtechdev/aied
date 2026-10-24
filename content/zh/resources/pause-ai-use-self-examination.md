@@ -1,7 +1,7 @@
 ---
 title: "PAUSE：AI 使用模式自我检视"
 created: "2026-09-20T13:49:11-04:00"
-updated: "2026-10-09T19:11:14-04:00"
+updated: "2026-10-24T08:38:48-04:00"
 type: resource
 summary: "一个十分钟、纯浏览器端运行的自我检查，检视你把什么任务交给了 AI，每个条目都可追溯到其背后的研究论文。"
 url: https://anondo1969.github.io/pause/
@@ -19,7 +19,7 @@ audience: [learners, instructors, researchers]
 confidence: high
 connected_resources: [pressing-prompts]
 translation_of: resources/pause-ai-use-self-examination
-source_updated: "2026-09-20T13:49:11-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -46,4 +46,6 @@ ai_assist:
 作者是 Mahbub Ul Alam（SciLifeLab Data Centre, Uppsala University）；设计理据与验证局限记录在一份配套的预印本中，源代码是公开的。
 
 ## 关联概念
-[[cognitive-offloading]], [[critical-thinking]], [[ai-literacy]], [[self-regulated-learning]], [[metacognition]], [[privacy]]
+
+[[cognitive-offloading]], [[critical-thinking]], [[ai-literacy]], [[self-regulated-learning]], [[metacognition]], [[privacy]], [[cognitive-surrender]]
+

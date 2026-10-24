@@ -1,7 +1,7 @@
 ---
 title: "Code Viva"
 created: "2026-10-24T05:33:18-04:00"
-updated: "2026-10-24T05:33:18-04:00"
+updated: "2026-10-24T08:37:08-04:00"
 type: resource
 summary: "A free browser tool that runs a written, timed version of an oral code defense for every student in a programming course, proposing scores with quoted evidence for the instructor to approve."
 url: https://code-viva.netlify.app/
@@ -59,6 +59,5 @@ kilobytes, long enough to wrap in a learning management message box.
 
 ## Connected Concepts
 
-- [[oral-assessment]]
-- [[process-oriented-assessment]]
-- [[academic-integrity]]
+[[oral-assessment]], [[process-oriented-assessment]], [[academic-integrity]], [[cs-education]]
+

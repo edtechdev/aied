@@ -24,7 +24,7 @@ ai_assist:
     date: "2026-10-14"
     agent: hermes-agent
 translation_of: resources/drawsplat
-source_updated: "2026-09-22T04:25:00-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ---
@@ -49,4 +49,6 @@ Hızlı bir araç ihtiyacı olup bir bölge lisansı için bekleyemeyen öğretm
 Ürün sitesi hiçbir bireysel yazar adı belirtmez ve istekleri bir proje gelen kutusuna yönlendirir; DrawSplat, lansmanlarını belgeleyen kendi sitesi olan Miguel Guhlin tarafından yapılır. Kod lisans anlamında özgürdür, yalnızca fiyat anlamında değil: beyaz tahta GNU AGPL-3.0-or-later, SplatWorks uygulamaları ise GPL-3.0-only’dir ve öğrenci cihazlarında koltuk başına lisans yoktur. Dosyalarınızı okuyan araçlar tarayıcıda yerel olarak çalışır, oysa bulut kaydı ve herhangi bir mesleki gelişim isteği veri gönderir; bu nedenle öğrenci çalışmalarıyla kullanmadan önce depolama envanteri sayfasını kontrol edin.
 
 ## Bağlı kavramlar
-[[visualization]], [[multimodal]], [[formative-assessment]], [[project-based-learning]]
+
+[[visualization]], [[multimodal]], [[formative-assessment]], [[project-based-learning]], [[accessibility]], [[privacy]]
+

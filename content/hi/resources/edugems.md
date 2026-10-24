@@ -1,7 +1,7 @@
 ---
 title: "EduGems"
 created: "2026-09-20T13:49:11-04:00"
-updated: "2026-10-16T07:00:00-04:00"
+updated: "2026-10-24T08:38:48-04:00"
 type: resource
 summary: "पूर्व-तैयार Google Gemini 'जेम्स' (Gems) की बढ़ती लाइब्रेरी — योजना बनाने, प्रतिपुष्टि, फ़ॉर्म, चित्र और AI-उपयोग पर विचार के लिए साझा करने योग्य, पूर्व-लिखे गए संकेत (prompts)।"
 url: https://www.edugems.ai/
@@ -18,7 +18,7 @@ audience: [instructors, curriculum designers, learners]
 confidence: high
 connected_resources: [teacherserver, id-toolbox]
 translation_of: resources/edugems
-source_updated: "2026-09-20T13:49:11-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 contributors: [editor]
 ai_assist:
@@ -39,4 +39,6 @@ ai_assist:
 इसका संकलन Eric Curts ने किया है, जो Control Alt Achieve पर सहायक ट्यूटोरियल वीडियो, न्यूज़लेटर और व्यापक edtech संसाधन प्रकाशित करता है। किसी जेम की प्रति बनाने के लिए Google खाता आवश्यक है और उसके साथ Gemini की शर्तें भी लागू होती हैं, इसलिए यह एक ऐसी लाइब्रेरी है जिसे छात्रों की ओर इंगित करने से पहले मूल्यांकित किया जाना चाहिए, न कि गुमनाम रूप से उपयोग की जा सकने वाली सामग्री।
 
 ## जुड़ी अवधारणाएँ
-[[prompt-engineering]], [[generative-ai]], [[ai-literacy]], [[learning-design]], [[online-teaching-and-learning]]
+
+[[prompt-engineering]], [[generative-ai]], [[ai-literacy]], [[learning-design]], [[online-teaching-and-learning]], [[teacher-ai-competency]]
+

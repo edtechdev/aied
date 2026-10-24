@@ -19,7 +19,7 @@ confidence: high
 connected_resources: [id-toolbox]
 reviewed_by: [editor]
 translation_of: resources/drawsplat
-source_updated: "2026-09-22T04:25:00-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "Автоматический перевод данной английской страницы, не проверенный носителем языка."
 contributors: [editor]
 ai_assist:
@@ -47,4 +47,6 @@ ai_assist:
 Сайт продукта не называет отдельного автора и направляет запросы в проектный почтовый ящик; DrawSplat создан Мигелем Гулином, чей сайт документирует его выпуски. Код свободен в смысле лицензии, а не только в смысле цены: интерактивная доска распространяется под GNU AGPL-3.0-or-later, а приложения SplatWorks — под GPL-3.0-only, без лицензии на одно рабочее место на устройствах студентов. Инструменты, которые читают ваши файлы, работают локально в браузере, тогда как облачное сохранение и любые запросы профессионального обучения передают данные, поэтому проверьте страницу инвентаризации хранилища перед использованием с работами студентов.
 
 ## Связанные концепции
-[[visualization]], [[multimodal]], [[formative-assessment]], [[project-based-learning]]
+
+[[visualization]], [[multimodal]], [[formative-assessment]], [[project-based-learning]], [[accessibility]], [[privacy]]
+

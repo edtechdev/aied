@@ -19,7 +19,7 @@ confidence: high
 connected_resources: [edugems]
 reviewed_by: [editor]
 translation_of: resources/teacherserver
-source_updated: "2026-09-22T06:42:37-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -40,4 +40,6 @@ Per la K-12: generatori di piano di lezione, di scheda di lavoro, di [[special-e
 Il progetto dichiara di disporre di un server di IA installato localmente per la velocità, che i dati sono elaborati localmente e non vengono mai memorizzati, oltre alla conformità alle linee guida del Dipartimento dell'Istruzione; la [pagina del team](https://teacherserver.com/index-team.php) indica Zafer Unal, professore alla University of South Florida, come fondatore e sviluppatore, insieme a un comitato consultivo di quattro membri del corpo docente di altre università. Queste affermazioni meritano comunque di essere verificate prima dell'uso con i lavori degli studenti. L'accesso richiede la registrazione, ed esiste una piattaforma complementare, a pagamento in un secondo momento, per costruire i propri strumenti.
 
 ## Concetti collegati
-[[generative-ai]], [[llm]], [[formative-assessment]], [[teacher-ai-competency]], [[online-teaching-and-learning]]
+
+[[generative-ai]], [[llm]], [[formative-assessment]], [[teacher-ai-competency]], [[online-teaching-and-learning]], [[automated-question-generation]], [[higher-ed]], [[special-education]]
+

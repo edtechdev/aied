@@ -18,7 +18,7 @@ confidence: high
 connected_resources: [drawsplat, lesson-md, edugems]
 reviewed_by: [editor]
 translation_of: resources/id-toolbox
-source_updated: "2026-09-20T13:49:11-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -42,4 +42,5 @@ Yirmi sekiz yıldır kurumsal eğitim tasarlayan Curt Zilbersher, kariyeri boyun
 
 ## Bağlı kavramlar
 
-[[learning-design]], [[online-teaching-and-learning]], [[formative-assessment]], [[educational-technology-developers]]
+[[learning-design]], [[online-teaching-and-learning]], [[formative-assessment]], [[educational-technology-developers]], [[accessibility]]
+

@@ -1,7 +1,7 @@
 ---
 title: "LESSON.md"
 created: "2026-09-20T13:49:11-04:00"
-updated: "2026-09-20T13:49:11-04:00"
+updated: "2026-10-24T08:38:48-04:00"
 type: resource
 summary: "Um formato aberto em texto puro para aulas de eLearning baseadas em blocos, mais uma habilidade de agente que escreve aulas, avaliações e pacotes de curso inteiros nesse formato."
 url: https://lesson.md/
@@ -18,7 +18,7 @@ audience: [instructional designers, curriculum designers, software developers, e
 confidence: high
 connected_resources: [id-toolbox, liascript]
 translation_of: resources/lesson-md
-source_updated: "2026-09-20T13:49:11-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -39,4 +39,6 @@ Escreva uma aula em qualquer editor de texto e importe-a em qualquer ferramenta 
 Designers instrucionais e criadores de curso que querem que seu conteúdo sobreviva a uma troca de ferramenta, fornecedores de eLearning que querem um formato de importação e exportação que seus usuários já entendam, e qualquer pessoa que construa autoria assistida por IA sobre um formato legível. Entre os colaboradores está Dan Bashaw, da LXD Integral, e o formato tem um changelog público até a v1.8.
 
 ## Conceitos conectados
-[[learning-design]], [[open-source]], [[online-teaching-and-learning]], [[multimodal]], [[educational-technology-developers]]
+
+[[learning-design]], [[open-source]], [[online-teaching-and-learning]], [[multimodal]], [[educational-technology-developers]], [[assessment]], [[edtech-platform]]
+

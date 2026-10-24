@@ -18,7 +18,7 @@ confidence: high
 connected_resources: [teacherserver, edugems]
 reviewed_by: [editor]
 translation_of: resources/playlab
-source_updated: "2026-09-20T16:45:00-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови."
 contributors: [editor]
 ai_assist:
@@ -45,4 +45,6 @@ ai_assist:
 Доступ до конструктора обмежений: сторінка «з чого почати» просить адресу електронної пошти й місце на вступному семінарі або код-запрошення. Заяви про відповідність (FERPA, COPPA, GDPR, CCPA, SOC 2 Type II), обіцянку, що ваша робота ніколи не тренує зовнішні моделі, і передання прав на результати творцеві належить шукати в угоді про обробку даних, а не лише на маркетинговій сторінці; порівняння можливостей із MagicSchool і провідними чатботами належить самому Playlab і датоване серединою 2026 року. Проєкт виріс із роботи з кінцевим програмуванням користувачів, пов’язаної зі Scratch і MIT Media Lab.
 
 ## Пов’язані поняття
-[[ai-literacy]], [[learning-design]], [[generative-ai]], [[rag]], [[human-in-the-loop-ai]], [[privacy]], [[guardrails]]
+
+[[ai-literacy]], [[learning-design]], [[generative-ai]], [[rag]], [[human-in-the-loop-ai]], [[privacy]], [[guardrails]], [[educational-technology-developers]], [[teacher-ai-competency]]
+

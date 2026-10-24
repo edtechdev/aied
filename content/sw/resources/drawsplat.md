@@ -19,7 +19,7 @@ confidence: high
 connected_resources: [id-toolbox]
 reviewed_by: [editor]
 translation_of: resources/drawsplat
-source_updated: "2026-09-22T04:25:00-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -47,4 +47,6 @@ Walimu na wanafunzi wanaohitaji zana haraka na hawanawezi kusubiri leseni ya wil
 Tovuti ya bidhaa haitaji mwandishi binafsi na inaelekeza maombi kwa kikasha cha mradi; DrawSplat imejengwa na Miguel Guhlin, ambaye tovuti yake hurekodi uzinduzi wake. Kodi ni bure kwa maana ya leseni, si kwa maana ya bei tu: ubao mweupe ni GNU AGPL-3.0-or-later na programu za SplatWorks ni GPL-3.0-only, bila leseni kwa kila kiti kwenye vifaa vya wanafunzi. Zana zinazosoma faili zako hufanya kazi kwa ndani kwenye kivinjari, huku kuhifadhi kwenye wingu na ombi lolote la kujifunza kitaalamu likituma data, hivyo angalia ukurasa wa hesabu ya hifadhi kabla ya kuitumia na kazi ya wanafunzi.
 
 ## Dhana Zilizounganishwa
-[[visualization]], [[multimodal]], [[formative-assessment]], [[project-based-learning]]
+
+[[visualization]], [[multimodal]], [[formative-assessment]], [[project-based-learning]], [[accessibility]], [[privacy]]
+

@@ -2,14 +2,14 @@
 connected_resources: [mglearn]
 title: Aprendizaje multilingüe
 created: "2026-09-28T19:10:33-04:00"
-updated: "2026-10-02T21:36:16-04:00"
+updated: "2026-10-24T08:24:35-04:00"
 type: concept
 technology: [llm]
 ethics: [culturally-relevant-pedagogy, digital-divide, equity-in-ai-education, global-south, inclusive-learning, multilingual-learning]
 discipline: [language learning]
 confidence: medium
 translation_of: concepts/multilingual-learning
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-23T09:49:58-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -49,6 +49,8 @@ El aprendizaje multilingüe es una dimensión de equidad central de la [[ai-educ
 
 La IA multilingüe debe ir más allá de la traducción para reflejar una [[culturally-relevant-pedagogy|pedagogía culturalmente relevante]]: generar contenido que sea lingüística y contextualmente apropiado. Los estudios sobre la [[llm-cultural-relevance-k12|relevancia cultural de los LLM en K-12]] y sobre el [[scaffolding-critical-engagement-genai-minority-students|compromiso crítico con la IA generativa entre estudiantes de minorías]] muestran que la alineación lingüística y cultural determina si el estudiantado se beneficia de verdad. Si no se atiende, el sesgo monolingüe de la IA profundiza la [[digital-divide|brecha digital]] y socava la [[equity-in-ai-education|equidad]] en todo el [[global-south|Sur global]].
 
+El translenguaje es una posibilidad que los chatbots generativos añaden y que las herramientas lingüísticas anteriores no ofrecían. En una revisión sistemática de 24 estudios, quienes aprendían pedían frases y explicaciones contextualizadas en su propia lengua como puente hacia la lengua meta, un uso que los revisores clasifican como una subcapacidad nueva y no como otra reempaquetada ([[genai-chatbots-language-learning-affordances-review-2026|Lopez y Arabadzhy (2026)]]).
+
 ## Sesgo en la evaluación
 
 Las preocupaciones multilingües también afectan a la [[automated-assessment|evaluación automatizada]]: [[ai-scoring-language-bias-physics|la calificación con IA puede mostrar sesgo lingüístico]] (por ejemplo, en [[physics-education|física]]), penalizando a quienes no son hablantes nativos. Garantizar que las herramientas de evaluación sean justas entre lenguas forma parte de la [[assessment-validity|validez de la evaluación]].
@@ -77,6 +79,7 @@ El juicio comparativo basado en LLM es un caso en el que el sesgo siguió la lí
 
 ## Artículos conectados
 
+- [[genai-chatbots-language-learning-affordances-review-2026]] — Los chatbots de IA generativa permiten el translenguaje, un uso que las herramientas lingüísticas anteriores no admitían
 - [[llm-comparative-judgment-writing-screening-2026]] — Validez del juicio comparativo con modelos de lenguaje grandes para el cribado universal de escritura
 - [[multilingual-adaptive-learning-nigeria-2026]] — Plataforma de aprendizaje adaptativo basada en IA para Nigeria
 - [[bilingual-llm-lecture-companion-srl-2026]] — Compañero de clase bilingüe con LLM

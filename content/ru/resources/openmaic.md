@@ -19,7 +19,7 @@ confidence: high
 connected_resources: [deeptutor, lesson-md]
 reviewed_by: [editor]
 translation_of: resources/openmaic
-source_updated: "2026-09-20T17:30:00-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "Автоматический перевод данной английской страницы, не проверенный носителем языка."
 contributors: [editor]
 ai_assist:
@@ -46,4 +46,6 @@ ai_assist:
 Лицензия MIT, есть руководство пользователя на английском и китайском языках и активное сообщество в Discord и Feishu. Система нейтральна к моделям: вы предоставляете как минимум один ключ провайдера LLM, а необязательные локальные компоненты (Lemonade для локальных моделей, FunASR для распознавания речи) позволяют запускать большую часть стека офлайн — поэтому «бесплатно» относится к программному обеспечению, а не к счёту за инференс. Статья, лежащая в основе, вышла в *Journal of Computer Science and Technology* (2026, DOI 10.1007/s11390-025-6000-0), и к сентябрю 2026 года репозиторий набрал более 38 000 звёзд.
 
 ## Связанные концепции
-[[agentic-ai]], [[generative-ai]], [[llm]], [[open-source]], [[project-based-learning]], [[online-teaching-and-learning]], [[personalized-learning]], [[teacher-role]]
+
+[[agentic-ai]], [[generative-ai]], [[llm]], [[open-source]], [[project-based-learning]], [[online-teaching-and-learning]], [[personalized-learning]], [[teacher-role]], [[intelligent-tutoring]], [[simulation]]
+

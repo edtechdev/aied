@@ -1,7 +1,7 @@
 ---
 title: IA con intervención humana (HITL)
 created: "2026-09-25T04:31:15-04:00"
-updated: "2026-10-22T09:13:53-04:00"
+updated: "2026-10-24T08:22:32-04:00"
 connected_faqs: [ai-agents-support-students-instructors, designing-educational-ai-software, ai-feedback-at-scale]
 type: concept
 foundations: [ai-education]
@@ -13,7 +13,7 @@ methods: [benchmark]
 ethics: [pedagogical-safety]
 reviewed_by: [editor]
 translation_of: concepts/human-in-the-loop-ai
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-24T06:14:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -110,6 +110,9 @@ El diseño con intervención humana se ha vuelto central en los debates de esta 
 - **Generación de preguntas y de contenido:** más allá de CODE-GEN, la HITL guía la generación de preguntas para la evaluación y el [[scaffolding]] ([[code-gen]], [[llm-difficulty-calibration-programming-exams-2026]]).
 - **Sistemas agénticos y multiagente:** a medida que la IA se vuelve más autónoma, la supervisión HITL es una [[agentic-ai|barrera de diseño]] nuclear ([[agentic-ai-pedagogical-best-practice-2026]], [[guided-llm-scaffolding-independent-learning]]).
 - **Enrutar por la consecuencia de la decisión, no por la incertidumbre del modelo (2026).** [[human-in-the-loop-ai-scoring-national-assessment-2026|Un estudio operativo de 2026]] sobre la prueba nacional de acreditación Acredita EB de Uruguay (dos ediciones, de unos 5.000 a 6.000 candidatos cada una) muestra qué aspecto tiene el diseño con intervención humana cuando lo guía la consecuencia de la decisión y no la incertidumbre del modelo. Un calificador GPT-5 coincidió con los evaluadores expertos en el 60%–80% de los 15 ítems de la rúbrica, pero fue sistemáticamente conservador, y produjo discrepancias de apto humano y no apto de la IA en el 15,3% (2024) y el 16,5% (2025) de las comparaciones de apto o no apto, y casi nunca a la inversa. El marco, por tanto, acepta los resultados de apto de la IA tal cual y remite a revisión experta todos los resultados de no apto de la IA que podrían cambiar el resultado de un candidato, tras descartar primero a los candidatos cuyo apto o no apto no puede depender de la sección de escritura, lo que reduce en al menos un 50% las respuestas que necesitan una calificación humana completa. Un segundo diseño de 2026 traza la frontera desde el otro lado: en una plataforma multiagente de pacientes estandarizados con IA ([[ai-standardized-patient-scaffolding-medical-2026|Yang et al.]]), la supervisión humana se reserva para aquello que se juzga que la IA no es apta para decidir, con el profesorado y pacientes estandarizados humanos aportando la interpretación contextual, la remediación y los juicios de preparación, y el sistema no puede determinar de forma autónoma la competencia [[medical-education|clínica]].
+- **Instrumentación de la investigación: las personas validan etiquetas, no puntuaciones.** Codificadores de ciencias del aprendizaje y de informática juzgaron segmentos de conducta generados por LLM sobre una línea temporal sincronizada con κ = 0,703, y sus desacuerdos se convirtieron en el propio análisis de errores del estudio ([[fonteles-embodied-learning-human-in-the-loop-multimodal-2026|Fonteles et al., 2026]]).
+- **El modelo resume y quien investiga etiqueta.** Un estudio de modelado colaborativo usó GPT-3.5-Turbo para escribir un resumen sensible al contexto de la tarea de cada uno de los 394 segmentos de discurso, hizo que quienes investigaban verificaran cada resumen y los codificaran hasta κ ≥ 0,7, y entrenó los detectores con esas etiquetas, de modo que el modelo nunca hizo el juicio por sí mismo. La supervisión se desplazó entonces hacia fuera: cuatro docentes con experiencia revisaron un segmento etiquetado, tres reconocieron las conductas y uno sostuvo que dos etiquetas sobre un mismo segmento oscurecían lo que el estudiantado estaba haciendo, una objeción de usabilidad que los autores registraron en lugar de resolver ([[zhang-llm-detection-ssrl-collaborative-modeling-2026|Zhang et al., 2026]]).
+- **La HITL como arquitectura de toda una disciplina, no de un solo flujo de trabajo.** [[zhai-science-literacy-generative-ai-coherence-2026|Zhai et al. (2026)]] especifican cuatro capas interconectadas, infraestructura de datos, desarrollo de modelos, interfaz pedagógica y gobernanza humana, sostenidas por tres principios: supervisión y agencia humanas, inteligencia coadaptativa y capacidad de respuesta al contexto.
 
 ## Síntesis
 
@@ -144,6 +147,8 @@ El diseño con intervención humana no es meramente una medida de seguridad: es 
 - [[student-support-and-success]] — el juicio humano dentro de un flujo de apoyo automatizado
 
 ## Artículos conectados
+- [[zhai-science-literacy-generative-ai-coherence-2026]] — Arquitectura HITL de cuatro capas para la IA generativa en la educación científica (Zhai et al. 2026)
+- [[fonteles-embodied-learning-human-in-the-loop-multimodal-2026]] — Codificadores que validan segmentos de conducta de LLM como instrumentación de investigación (Fonteles et al. 2026)
 - [[lee-learner-question-types-ai-education-2026]] — Clasificación de preguntas etiquetada por personas expertas: las personas gobiernan el etiquetado, el aumento de datos y el análisis de errores (Lee, Atif y Kang 2026)
 - [[ilieva-agentic-genai-higher-education-2026]] — La supervisión y la gobernanza humanas como tercera capa del diseño de cursos con IA generativa agéntica (Ilieva et al. 2026)
 - [[ko-hughes-vsd-student-centered-its-2026]] — Diseño sensible a los valores de un ITS centrado en el estudiante (quien aprende en el bucle de tutoría)
@@ -158,7 +163,7 @@ El diseño con intervención humana no es meramente una medida de seguridad: es 
 - [[llm-difficulty-calibration-programming-exams-2026]]
 - [[llms-do-not-grade-essays-like-humans-2026]] — LLMs do not grade essays like humans (Mathew et al. 2026)
 - [[kim-ai-andragogy-2026]] — AI Applications in Supporting Andragogy (Kim et al. 2026)
-- [[scaffolding-systematic-reviews-2026]] — Scaffolding Systematic Reviews with Mentoring and AI (Wang 2026)
+- [[scaffolding-systematic-reviews-2026]] — Andamiar revisiones sistemáticas con mentoría e IA (Wang 2026)
 - [[ai-assisted-instructor-supervised-grading-feedback]] — Calificación y retroalimentación asistidas por IA y supervisadas por el profesorado
 - [[lopez-pernas-llm-appropriate-student-support-2026]] — ¿Puede la IA ofrecer un apoyo adecuado a perfiles de estudiantado diversos? Una evaluación a gran escala
 - [[breideband-community-builder-cobi-2026]]
@@ -167,12 +172,12 @@ El diseño con intervención humana no es meramente una medida de seguridad: es 
 - [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]
 - [[ai-standardized-patient-scaffolding-medical-2026]] — Evaluating Scaffolding-Oriented Multi-Agent Large Language Model System for Clinical Interview Training
 - [[tripartite-feedback-framework-ai-assessment-2026]] — Marco tripartito: clasificar la retroalimentación por su estatus epistémico y los cinco principios de frontera para la implicación de la IA (Venetsanos 2026)
-- [[adapted-stories-social-story-intervention-2026]] — AI-Assisted Social Story Intervention for Special Education: The Design of AdaptED Stories
-- [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors: Assertion-based Schemas for Auditable Coding of Educational Dialogues
-- [[nlp-student-evaluation-teaching-scoping-review-2026]] — From Sentiment Classification to Actionable and Responsible Feedback: A Scoping Review and Evidence Map of NLP in Student Evaluation of Teaching, 2015–2026
+- [[adapted-stories-social-story-intervention-2026]] — Intervención con historias sociales asistida por IA para educación especial: el diseño de AdaptED Stories
+- [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors: esquemas basados en aserciones para una codificación auditable de diálogos educativos
+- [[nlp-student-evaluation-teaching-scoping-review-2026]] — De la clasificación de sentimiento a la retroalimentación accionable y responsable: revisión de alcance y mapa de evidencia del PLN en la evaluación del profesorado por el estudiantado, 2015–2026
 
 - [[llm-grading-assistants-public-health-2026]] — Recalificaciones idénticas con LLM en días distintos reproducen solo un alfa de Krippendorff de 0,625
 - [[when-students-prefer-ai-scoring-feedback-2026]] — El estudiantado de grado prefiere la calificación humana para el trabajo de altas consecuencias y la IA como asistente, no como sustituto
-- [[student-query-demand-hybrid-ai-support-2026]] — What Students Actually Ask: Demand Structure and Automation Potential in a Hybrid Support System
-- [[in-the-loop-educational-ai-learning-sciences-2026]] — Rethinking "In-The-Loop" Approaches in Educational AI: A Learning Sciences Perspective
+- [[student-query-demand-hybrid-ai-support-2026]] — Qué pregunta realmente el estudiantado: estructura de la demanda y potencial de automatización en un sistema de apoyo híbrido
+- [[in-the-loop-educational-ai-learning-sciences-2026]] — Repensar los enfoques «in-the-loop» en la IA educativa: una perspectiva de las ciencias del aprendizaje
 - [[tuo-armada-multi-agent-debate-overreliance-2026]] — Retener la respuesta preferida por el sistema redujo la deferencia hacia consejos de IA incorrectos, de forma protectora y no correctiva

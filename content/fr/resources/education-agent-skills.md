@@ -1,7 +1,7 @@
 ---
 title: "Education Agent Skills"
 created: "2026-09-23T21:05:00-04:00"
-updated: "2026-10-10T04:00:00-04:00"
+updated: "2026-10-24T08:38:48-04:00"
 type: resource
 summary: "Une bibliothèque de 165 compétences d'agent fondées sur des preuves couvrant la pédagogie, les sciences de l'apprentissage, les programmes et l'évaluation, empaquetées pour Claude, Codex et Hermes."
 url: https://github.com/GarethManning/education-agent-skills
@@ -19,7 +19,7 @@ level: [k 12, higher ed]
 confidence: high
 connected_resources: [claw-ed]
 translation_of: resources/education-agent-skills
-source_updated: "2026-09-23T21:05:00-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -44,4 +44,6 @@ La revendication distinctive du projet est son ancrage : les compétences citent
 Les compétences éducatives, la documentation et les supports de programme sont sous licence CC BY-SA 4.0, si bien que la réutilisation et l'adaptation sont ouvertes tandis que les œuvres dérivées doivent porter la même licence. Deux détails opérationnels comptent si vous la déployez. Le point de terminaison MCP hébergé exige des jetons plutôt que d'être ouvert à tous, et parce que le serveur sert un instantané validé plutôt que les fichiers SKILL.md, une compétence que vous ajoutez sans reconstruire et valider le paquet n'apparaîtra pas sur le serveur actif, même après un redéploiement. La bibliothèque est construite par Gareth Manning, enseignant et concepteur de programmes, et les conditions de licence s'appliquent spécifiquement au contenu éducatif.
 
 ## Concepts liés
-[[learning-design]], [[ai-literacy]], [[active-learning]], [[online-teaching-and-learning]], [[open-source]]
+
+[[learning-design]], [[ai-literacy]], [[active-learning]], [[online-teaching-and-learning]], [[open-source]], [[educational-development]]
+

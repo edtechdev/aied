@@ -1,7 +1,7 @@
 ---
 title: Evaluación de la IA en educación
 created: "2026-09-28T19:10:33-04:00"
-updated: "2026-10-22T07:28:42-04:00"
+updated: "2026-10-24T08:21:18-04:00"
 type: concept
 foundations: [agentic-ai, teacher-role]
 technology: [generative-ai, human-in-the-loop-ai, llm]
@@ -12,7 +12,7 @@ connected_faqs: [top-10-findings-ai-education-instructors, research-gaps-aied, d
 confidence: high
 methods: [benchmark]
 translation_of: concepts/ai-ed-evaluation
-source_updated: "2026-10-16T08:47:09-04:00"
+source_updated: "2026-10-23T09:20:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -53,6 +53,8 @@ El arco de una década de este campo es en sí mismo un marco: [[xiong-ai-educat
 
 - **Un punto de referencia para el conocimiento pedagógico, y no para el contenido.** [[cdpk-pedagogy-benchmark-llms|Lelièvre et al. (2025)]] puntúan 97 modelos con ítems del examen docente chileno (CDPK 28–89%), y muchos superan una línea base humana estimada de ~50%, pero los ítems estáticos de opción múltiple no pueden evaluar la planificación de clases ni el andamiaje turno a turno.
 
+- **Reconocer no es generar.** En TutorCaseBench, el mejor de 11 modelos eligió una estrategia documentada en el 63,0% de los ítems de cuatro opciones, pero satisfizo una intervención documentada solo en el 55,8% de los casos de respuesta libre, de modo que las puntuaciones de selección de estrategia sobreestiman la preparación del tutor ([[tutor-case-bench-challenging-behaviors-2026|Park et al. (2026)]]).
+
 - **Validar ítems generados contra un punto de referencia psicométrico.** [[assessing-quality-ai-generated-exams-field-2025|Isley et al. (2025)]] generaron exámenes adaptados a cada curso para 71 clases y compararon 20 más con ítems de Estadística AP escritos por personas, ajustando un modelo [[item-response-theory|TRI]] 2PL jerárquico bayesiano con anclajes previos al test en 1.686 estudiantes; los ítems de IA fueron más fáciles pero más discriminativos (ᾱ = 1,3 frente a 1,2).
 
 - **Calidad pedagógica y alineación:** [[machines-misread-pedagogical-quality|Por qué las máquinas malinterpretan la calidad pedagógica]] documenta el desalineamiento entre personas y máquinas al juzgar qué hace buena a la instrucción, y [[tutoring-effectiveness-index|el Índice de Eficacia de la Tutoría]] predice la calidad del tutor a partir de su conducta docente. [[responsible-assessment-ai-era-stanford-2026|La evaluación responsable en la era de la IA]] y los [[authentic-products-authenticated-processes-2026|procesos autenticados]] sostienen que la evaluación debe ir más allá de las respuestas correctas y preguntarse si la evaluación sigue siendo auténtica, válida y defendible cuando la IA puede producir los «productos» del aprendizaje.
@@ -76,6 +78,8 @@ La evaluación de estudiantes simulados se enfrenta al mismo estándar: un simul
 
 **La precisión agregada oculta a quién se atiende mal.** [[drawedumath-vlm-struggling-students-2026|Las evaluaciones de modelos de visión y lenguaje en DrawEduMath]] muestran que la precisión global oculta una debilidad sistemática: los modelos rinden peor precisamente con el trabajo del estudiantado que más ayuda pedagógica necesita (trabajo erróneo, de estudiantes con dificultades), así que desagregar la evaluación por competencia del estudiante y estado de error es necesario para no exagerar la capacidad y no ampliar las brechas de rendimiento.
 **La corrección binaria oculta los fallos que importan.** En un punto de referencia de diagnóstico de pasos con tres clases y 10.836 pares simulados, siete tutores LLM clasificaron los pasos óptimos casi a la perfección (F1 94–99%), pero las alternativas válidas solo a F1 0–76% y los pasos incorrectos a 4–55% —rechazo en exceso y validación en exceso—, y un diagnóstico preciso seguía sin producir retroalimentación accionable ([[yasir-llm-tutoring-agents-2026|Yasir et al. (2026)]]).
+
+- **Los controles por perturbación muestran qué evidencia usa realmente un modelo.** En VIRA-Bench, el mejor de 11 modelos respondió al 61,3% de las preguntas sobre vídeos de tutoría frente a una referencia experta del 91,0%, y eliminar el vídeo o barajar su orden degradó capas de preguntas distintas, un diagnóstico más barato que otra puntuación agregada ([[vira-bench-pedagogical-contingency-tutoring-videos-2026|Wang et al. (2026)]]).
 
 - **Reutilizar instrumentos humanos para evaluar LLM exige una comprobación de la estructura latente.** [[assessment-latent-structure-human-llm-2026|Strugatski et al. (2026)]] ajustaron un análisis factorial exploratorio por separado para personas y seis LLM multimodales: la congruencia LLM-personas se mantuvo por debajo de la línea base personas-personas en ambos instrumentos, y el análisis paralelo retuvo distinto número de factores (cinco para las personas frente a cuatro para los LLM).
 
@@ -134,6 +138,8 @@ Se necesitan puntos de referencia condicionados por el contexto: [[zhang-tutormo
 - [[agentic-ai]] — Evaluar la conducta de agentes de IA autónomos
 
 ## Artículos conectados
+- [[tutor-case-bench-challenging-behaviors-2026]] — TutorCaseBench: evaluación de tutores LLM con estudiantado de conducta desafiante (Park et al. 2026)
+- [[vira-bench-pedagogical-contingency-tutoring-videos-2026]] — VIRA-Bench: diagnóstico de la comprensión de la contingencia pedagógica en vídeos de tutoría en línea
 - [[zhang-platform-scores-miss-ai-teaching-agents-2026]] — Lo que se pierden las puntuaciones de plataforma: evaluación multidimensional de agentes de enseñanza con IA
 - [[assessment-latent-structure-human-llm-2026]] — ¿Miden lo mismo los instrumentos de evaluación para las personas y para los LLM? (Strugatski et al. 2026)
 - [[assessing-quality-ai-generated-exams-field-2025]] — Evaluar la calidad de exámenes generados por IA: un estudio de campo a gran escala

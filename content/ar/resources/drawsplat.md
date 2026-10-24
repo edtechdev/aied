@@ -19,7 +19,7 @@ confidence: high
 connected_resources: [id-toolbox]
 reviewed_by: [editor]
 translation_of: resources/drawsplat
-source_updated: "2026-09-22T04:25:00-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
@@ -47,4 +47,6 @@ ai_assist:
 لا يسمّي موقع المنتج أي مؤلف فردي ويوجّه الطلبات إلى صندوق بريد المشروع؛ وDrawSplat من بناء Miguel Guhlin، الذي يوثّق موقعه إطلاقاتها. والشيفرة حرة بمعنى الترخيص لا بمعنى السعر فقط: فالسبورة بترخيص GNU AGPL-3.0-or-later وتطبيقات SplatWorks بترخيص GPL-3.0-only، بلا ترخيص لكل مقعد على أجهزة الطلاب. والأدوات التي تقرأ ملفاتك تعمل محليًا في المتصفح، في حين أن الحفظ السحابي وأي طلب تعلّم مهني يرسلان بيانات فعلًا، فراجع صفحة جرد التخزين قبل استخدامها مع أعمال الطلاب.
 
 ## المفاهيم المرتبطة
-[[visualization]], [[multimodal]], [[formative-assessment]], [[project-based-learning]]
+
+[[visualization]], [[multimodal]], [[formative-assessment]], [[project-based-learning]], [[accessibility]], [[privacy]]
+

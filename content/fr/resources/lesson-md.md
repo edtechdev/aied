@@ -1,7 +1,7 @@
 ---
 title: "LESSON.md"
 created: "2026-09-20T13:49:11-04:00"
-updated: "2026-10-10T04:00:00-04:00"
+updated: "2026-10-24T08:38:48-04:00"
 type: resource
 summary: "Un format ouvert en texte brut pour des leçons d'eLearning à blocs, plus une compétence d'agent qui rédige des leçons, des évaluations et des paquets de cours entiers dans ce format."
 url: https://lesson.md/
@@ -18,7 +18,7 @@ audience: [instructional designers, curriculum designers, software developers, e
 confidence: high
 connected_resources: [id-toolbox, liascript]
 translation_of: resources/lesson-md
-source_updated: "2026-09-20T13:49:11-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -41,4 +41,6 @@ Rédigez une leçon dans n'importe quel éditeur de texte et importez-la dans to
 Aux concepteurs pédagogiques et créateurs de cours qui veulent que leur contenu survive à un changement d'outil, aux fournisseurs d'eLearning qui veulent un format d'import et d'export que leurs utilisateurs comprennent déjà, et à quiconque construit une création assistée par IA au-dessus d'un format lisible. Parmi les contributeurs figure Dan Bashaw de LXD Integral, et le format possède un journal des modifications public allant jusqu'à la v1.8.
 
 ## Concepts liés
-[[learning-design]], [[open-source]], [[online-teaching-and-learning]], [[multimodal]], [[educational-technology-developers]]
+
+[[learning-design]], [[open-source]], [[online-teaching-and-learning]], [[multimodal]], [[educational-technology-developers]], [[assessment]], [[edtech-platform]]
+

@@ -18,7 +18,7 @@ confidence: high
 connected_resources: [drawsplat, lesson-md, edugems]
 reviewed_by: [editor]
 translation_of: resources/id-toolbox
-source_updated: "2026-09-20T13:49:11-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -41,4 +41,6 @@ Kabla ya kujenga: chagua kati ya zana za kuandika dhidi ya vigezo vilivyo na uzi
 Curt Zilbersher, ambaye ameunda mafunzo ya kampuni kwa miaka ishirini na nane, anaeleza matatizo madogo yale yale yasiyotatuliwa yakirudia katika kazi yake yote — kuhesabu maneno ya hadithi, kupata kitu kilichosukuma kozi kupita kikomo cha [[edtech-platform|LMS]], kukagua mwendelezo wa maelezo kwa mkono — na anajenga masuluhisho na kutoa bure. Tovuti pia inaendesha uchunguzi wa bure wa kila mwaka kuhusu jinsi wabuni wa mafunzo wanavyotumia wiki yao kweli.
 
 ## Dhana Zilizounganishwa
-[[learning-design]], [[online-teaching-and-learning]], [[formative-assessment]], [[educational-technology-developers]]
+
+[[learning-design]], [[online-teaching-and-learning]], [[formative-assessment]], [[educational-technology-developers]], [[accessibility]]
+

@@ -1,7 +1,7 @@
 ---
 title: "LESSON.md"
 created: "2026-09-27T02:33:51-04:00"
-updated: "2026-09-27T02:33:51-04:00"
+updated: "2026-10-24T08:38:48-04:00"
 type: resource
 summary: "Un formato abierto y de texto plano para lecciones de aprendizaje en línea basadas en bloques, además de una habilidad de agente que escribe lecciones, evaluaciones y paquetes de curso completos en ese formato."
 url: https://lesson.md/
@@ -17,7 +17,7 @@ level: [higher ed]
 audience: [instructional designers, curriculum designers, software developers, educational technology developers]
 confidence: high
 connected_resources: [id-toolbox, liascript]
-source_updated: "2026-09-20T13:49:11-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_of: resources/lesson-md
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
@@ -39,4 +39,6 @@ Escriba una lección en cualquier editor de texto e impórtela en cualquier herr
 Diseñadores instruccionales y creadores de cursos que quieren que su contenido sobreviva a un cambio de herramienta, proveedores de aprendizaje en línea que quieren un formato de importación y exportación que sus usuarios ya entiendan, y cualquiera que construya autoría asistida por IA sobre un formato legible. Entre los colaboradores está Dan Bashaw, de LXD Integral, y el formato tiene un registro de cambios público hasta la v1.8.
 
 ## Conceptos conectados
-[[learning-design]], [[open-source]], [[online-teaching-and-learning]], [[multimodal]], [[educational-technology-developers]]
+
+[[learning-design]], [[open-source]], [[online-teaching-and-learning]], [[multimodal]], [[educational-technology-developers]], [[assessment]], [[edtech-platform]]
+

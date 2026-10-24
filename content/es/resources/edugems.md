@@ -1,7 +1,7 @@
 ---
 title: "EduGems"
 created: "2026-09-27T02:34:40-04:00"
-updated: "2026-09-27T02:34:40-04:00"
+updated: "2026-10-24T08:38:48-04:00"
 type: resource
 summary: "Una biblioteca en crecimiento de «Gems» de Google Gemini ya preparados: prompts listos y compartibles para la planificación, la retroalimentación, los formularios, las imágenes y la reflexión sobre el uso de la IA."
 url: https://www.edugems.ai/
@@ -17,7 +17,7 @@ level: [k 12]
 audience: [instructors, curriculum designers, learners]
 confidence: high
 connected_resources: [teacherserver, id-toolbox]
-source_updated: "2026-09-20T13:49:11-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_of: resources/edugems
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
@@ -39,4 +39,6 @@ La biblioteca abarca la planificación y el trabajo de aula (caricaturas de prof
 Curada por Eric Curts, que publica el vídeo tutorial, el boletín y otros recursos de tecnología educativa que la acompañan en Control Alt Achieve. Hacer una copia de un Gem requiere una cuenta de Google y trae consigo los términos de Gemini, así que es una biblioteca que conviene evaluar antes de dirigir al estudiantado hacia ella, y no una herramienta que pueda usarse de forma anónima.
 
 ## Conceptos conectados
-[[prompt-engineering]], [[generative-ai]], [[ai-literacy]], [[learning-design]], [[online-teaching-and-learning]]
+
+[[prompt-engineering]], [[generative-ai]], [[ai-literacy]], [[learning-design]], [[online-teaching-and-learning]], [[teacher-ai-competency]]
+

@@ -18,7 +18,7 @@ confidence: high
 connected_resources: [id-toolbox, liascript]
 reviewed_by: [editor]
 translation_of: resources/lesson-md
-source_updated: "2026-09-20T13:49:11-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "Автоматический перевод данной английской страницы, не проверенный носителем языка."
 contributors: [editor]
 ai_assist:
@@ -41,4 +41,6 @@ ai_assist:
 Для дизайнеров обучения и создателей курсов, которые хотят, чтобы их контент пережил смену инструмента, для поставщиков электронного обучения, которым нужен формат импорта и экспорта, понятный их пользователям, и для всех, кто строит авторство с помощью ИИ поверх читаемого формата. Среди участников — Дэн Башо из LXD Integral; формат имеет публичный журнал изменений вплоть до версии v1.8.
 
 ## Связанные концепции
-[[learning-design]], [[open-source]], [[online-teaching-and-learning]], [[multimodal]], [[educational-technology-developers]]
+
+[[learning-design]], [[open-source]], [[online-teaching-and-learning]], [[multimodal]], [[educational-technology-developers]], [[assessment]], [[edtech-platform]]
+

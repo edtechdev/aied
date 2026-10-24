@@ -1,7 +1,7 @@
 ---
 title: "플레이랩"
 created: "2026-09-20T16:45:00-04:00"
-updated: "2026-09-20T16:45:00-04:00"
+updated: "2026-10-24T08:38:48-04:00"
 type: resource
 summary: "교육자가 자신의 AI 앱을 직접 만들고, 공유하고, 평가하는 비영리 제작자 플랫폼으로, 커리큘럼에 기반하고 원하는 모델로 실행되며 교사의 가시성이 기본적으로 내장되어 있습니다."
 url: https://www.playlab.ai/
@@ -18,7 +18,7 @@ audience: [instructors, instructional designers, educational technology develope
 confidence: high
 connected_resources: [teacherserver, edugems]
 translation_of: resources/playlab
-source_updated: "2026-09-20T16:45:00-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -45,4 +45,6 @@ ai_assist:
 빌더 접근은 제한되어 있습니다. 시작 페이지에서 이메일 주소와 온보딩 워크숍 참석 자리 또는 초대 코드를 요구합니다. 이 플랫폼의 규정 준수 주장(FERPA, COPPA, GDPR, CCPA, SOC 2 Type II), 사용자의 작업물이 외부 모델 학습에 사용되지 않는다는 약속, 결과물 권리가 제작자에게 귀속된다는 점은 마케팅 페이지가 아니라 데이터 처리 계약에 명시되어야 합니다. MagicSchool 및 주요 챗봇과의 기능 비교는 Playlab 자체의 것으로, 2026년 중반 기준입니다. 이 플랫폼은 Scratch와 MIT Media Lab과 연관된 최종 사용자 프로그래밍 연구에서 성장했습니다.
 
 ## 연결된 개념
-[[ai-literacy]], [[learning-design]], [[generative-ai]], [[rag]], [[human-in-the-loop-ai]], [[privacy]], [[guardrails]]
+
+[[ai-literacy]], [[learning-design]], [[generative-ai]], [[rag]], [[human-in-the-loop-ai]], [[privacy]], [[guardrails]], [[educational-technology-developers]], [[teacher-ai-competency]]
+

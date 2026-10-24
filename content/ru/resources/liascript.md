@@ -29,7 +29,7 @@ ai_assist:
     agent: hermes-agent
 reviewed_by: [editor]
 translation_of: resources/liascript
-source_updated: "2026-09-24T04:57:47-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "Автоматический перевод данной английской страницы, не проверенный носителем языка."
 ---
 
@@ -50,4 +50,6 @@ translation_note: "Автоматический перевод данной ан
 LiaScript бесплатен, без платного тарифа и требования учётной записи, и развивается открыто под лицензией BSD-3-Clause, поэтому учебные заведения могут самостоятельно размещать и изменять его. Функцию Live Classroom стоит оценить до того, как полагаться на неё в больших масштабах, поскольку синхронизация в реальном времени использует общий сервис, а не чисто локальное отображение. Преподавательский агент молод и мало распространён, поэтому относитесь к нему как к рабочему прототипу, а не к поддерживаемому продукту.
 
 ## Связанные концепции
-[[learning-design]], [[open-source]], [[online-teaching-and-learning]], [[active-learning]]
+
+[[learning-design]], [[open-source]], [[online-teaching-and-learning]], [[active-learning]], [[cs-education]], [[edtech-platform]]
+

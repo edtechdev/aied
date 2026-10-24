@@ -1,7 +1,7 @@
 ---
 title: Calidad de la retroalimentación de la IA
 created: "2026-09-28T21:02:41-04:00"
-updated: "2026-10-22T09:13:53-04:00"
+updated: "2026-10-24T08:28:15-04:00"
 connected_faqs: [ai-save-instructor-time, ai-feedback-at-scale, checking-whether-educational-ai-works]
 type: concept
 foundations: [ai-literacy]
@@ -9,7 +9,7 @@ technology: [generative-ai]
 assessment: [ai-feedback-quality, automated-assessment, feedback, formative-assessment]
 confidence: high
 translation_of: concepts/ai-feedback-quality
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-24T08:53:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -110,10 +110,14 @@ La calidad de la retroalimentación de la IA abarca varias dimensiones recogidas
 - **La cobertura no es la alineación.** Seis LLM bajo tres estrategias de prompting produjeron cada uno la mayoría de los siete tipos de foco de retroalimentación, pero su distribución entre esos tipos divergía de la del profesorado (la mejor divergencia de Jensen-Shannon 0,134, la peor 0,270), así que la amplitud de la cobertura y el ajuste distribucional son señales de calidad distintas ([[llm-feedback-focus-adaptivity-student-writing-2026|Almousa et al., 2026]]).
 - **La cobertura por campos es desigual.** Una síntesis de 68 estudios sobre retroalimentación generada por IA encuentra que la evidencia se agrupa en torno a si la retroalimentación es precisa y está fundamentada (47 estudios) y a si ayuda a quien aprende (58), mientras que la alineación con la rúbrica y con la tarea —si la retroalimentación responde a los requisitos propios de la tarea— aparece solo en 19 ([[evidence-grounded-framework-ai-generated-educational-feedback-2026|Yang (2026)]]).
 - **Las valoraciones por criterio divergen dentro de un mismo conjunto de mensajes.** Seis personas evaluadoras que puntuaron 157 mensajes valoraron más los ejercicios de práctica (95,5%), mientras que la especificidad diagnóstica (41,1%) y la claridad y el tono (33,4%) quedaron rezagadas, y el profesorado valoró la accionabilidad con más generosidad que las demás personas evaluadoras (84,5% frente a 59,9%) ([[llm-feedback-handwritten-mathematics-exam-performance-2026|Vanhoyweghen et al. (2026)]]).
+- **El lado del lector de esas mismas dimensiones.** Veinticuatro profesores universitarios de escritura describieron una salida complicada, demasiado larga, vaga o poco práctica, y dos encontraron que elogiaba los puntos fuertes a menos que se le pidiera buscar primero las debilidades ([[wu-lam-genai-writing-assessment-professors-2026|Wu y Lam (2026)]]). Siete dijeron que llegar a una retroalimentación aceptable exigía prompts repetidos, lo que consume el tiempo que la ganancia de carga de trabajo debía ahorrar.
+- **La longitud superó como predictor a toda otra propiedad medida del mensaje.** En tres despliegues de un sistema de pistas con LLM en un curso de programación en vivo, cada desviación estándar de 204,9 caracteres predijo una menor corrección en el siguiente envío (−0,733), más intentos restantes (0,187) y una espera mayor antes de reenviar (0,226), mientras que el grado de Flesch-Kincaid fue incierto para los dos primeros ([[mihaylova-llm-feedback-live-programming-course-2026|Mihaylova et al., 2026]]). El formato también importó, pero como intercambio: las pistas diagnósticas produjeron envíos correctos con más frecuencia y menos intentos, y un reenvío más lento.
 
 ### Conexión con conceptos más amplios
 
 La calidad de la retroalimentación de la IA se conecta de forma fundamental con la [[formative-assessment|evaluación formativa]] y el [[feedback|bucle de retroalimentación]]: una retroalimentación de calidad cierra la brecha entre el desempeño actual y el deseado. Se cruza con la [[automated-assessment|calificación automatizada]] (que genera las puntuaciones en las que se basa la retroalimentación), la [[ai-literacy|alfabetización en IA]] (el estudiantado debe evaluar críticamente la calidad de la retroalimentación) y la [[cognitive-offloading|dependencia excesiva]] (la aceptación acrítica de la retroalimentación de la IA puede desplazar el aprendizaje). Para la [[writing-education|enseñanza de la escritura]], la calidad de la retroalimentación es especialmente consecuente dado el creciente papel de la IA en la evaluación de la escritura.
+
+El corpus que sostiene esas afirmaciones sobre la calidad es más delgado de lo que ellas sugieren. A lo largo de 51 estudios sobre retroalimentación escrita con IA generativa en la escritura en segunda lengua, 16 diseños experimentales no usaron grupo de control y solo 27 informaron de los prompts que emplearon, de modo que dos de cada cinco resultados no pueden reproducirse ni compararse en la variable que más determina la salida ([[genai-l2-written-feedback-scoping-review-2026|Crosthwaite y Sun (2026)]]). La evidencia sobre la calidad en esta literatura se acumula por tanto más despacio de lo que su volumen implica.
 
 ## Conceptos conectados
 
@@ -134,6 +138,9 @@ La calidad de la retroalimentación de la IA se conecta de forma fundamental con
 - [[trust-calibration]]
 
 ## Artículos conectados
+- [[mihaylova-llm-feedback-live-programming-course-2026]] — Las pistas más largas de los LLM predijeron peores resultados inmediatos; el formato cambió menos intentos por un reenvío más lento
+- [[wu-lam-genai-writing-assessment-professors-2026]] — Profesores sobre la calidad de la retroalimentación de la IA: elogiosa por defecto, larga, vaga y lenta de refinar
+- [[genai-l2-written-feedback-scoping-review-2026]] — Solo 27 de 51 estudios informaron de sus prompts; 16 experimentos carecían de grupo de control
 - [[ai-feedback-violin-intonation-2026]] — Retroalimentación de IA sobre la entonación comprobada contra 2.208 desviaciones de tono medidas por máquina (Aksoy 2026)
 - [[wraft-automated-writing-evaluation-argumentative-2026]] — WrAFT: un sistema modularizado de evaluación automatizada de la escritura para ensayos argumentativos
 - [[wang-chatgpt-comments-video-learning-scaffolding-2026]] — Evaluación de los comentarios de ChatGPT dentro de vídeos: calidad lingüística, semántica y perceptiva (Wang, Du y Jin 2026)

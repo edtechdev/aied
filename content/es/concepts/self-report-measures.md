@@ -1,7 +1,7 @@
 ---
 title: Medidas de autoinforme
 created: "2026-09-28T19:11:16-04:00"
-updated: "2026-10-22T09:13:53-04:00"
+updated: "2026-10-24T08:21:12-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [self-efficacy, student-engagement]
@@ -14,7 +14,7 @@ connected_faqs: [evaluating-ai-interventions-methods, does-ai-help-students-lear
 confidence: high
 methods: [quantitative-research, research-methods-aied, qualitative-research]
 translation_of: concepts/self-report-measures
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-23T08:03:41-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -89,6 +89,8 @@ La propia literatura sobre instrumentos puede leerse como evidencia de la magnit
 
 Las medidas de resultado heredan la misma brecha. [[pramod-agentic-ai-motivational-pathways-2026|Pramod y Patil (2026)]] modelan la ruta desde la [[agentic-ai|IA agéntica]] pasando por la motivación y la presencia social hasta lo que denominan rendimiento de aprendizaje, con un coeficiente de 0,671 —la relación más fuerte del estudio—, y su propio apartado de limitaciones afirma que esta variable dependiente refleja las percepciones del estudiantado y no los resultados de examen, el rendimiento en las tareas ni la analítica del aprendizaje. Ese es el patrón que hay que leer con cuidado en los modelos de rutas en general: un coeficiente grande sobre un resultado percibido cuantifica con qué consistencia cree el estudiantado que algo ayudó, y no dice nada todavía sobre si ayudó.
 
+La intención es el caso más agudo de esa brecha, porque una misma puntuación de intención puede cubrir conductas opuestas. Al volver a administrar los ítems a 68 de los 340 estudiantes y entrevistar a ocho, [[high-school-genai-acceptance-tam-physics-2026|Xue, Xu, Qi y Lu (2026)]] encontraron que una misma intención declarada cubría un uso orientado al aprendizaje, uno orientado al atajo y uno mixto, y que quienes usaban atajos alegaban baja confianza y no desinterés.
+
 ## La satisfacción y el aprendizaje percibido como resultados
 
 La satisfacción es el resultado autoinformado más frecuente en este corpus, presente en 63 páginas de artículo. También es el más débil como indicador del aprendizaje, y la base de conocimiento contiene argumentos explícitos en ese sentido.
@@ -122,6 +124,8 @@ Como las encuestas son baratas de administrar, los problemas de muestreo suelen 
 La autoselección agrava esto. [[chatgpt-inoculation-training-verification-2026|Un estudio de inoculación]] reclutó a 782 participantes y retuvo 100 casos válidos de una muestra de conveniencia de usuarios de ChatGPT autoinformados; [[genai-assisted-problem-posing-physics-2026|un estudio de física]] hizo que el estudiantado se autoseleccionara para una tarea de crédito extra, lo que plausiblemente sesga las opiniones hacia lo complaciente y excluye a quienes dudan.
 
 Dos errores más específicos del autoinforme se repiten. **Los límites de la introspección y el sesgo de deseabilidad social** se señalan como intrínsecos al autoinforme en [[engagement-assessment-video|el trabajo sobre evaluación de la implicación]] y en [[ccct-cooperative-learning-technique|estudios cuyos datos cualitativos dependen del autoinforme]]. **La varianza por método común** surge cuando los predictores y los resultados proceden de las mismas personas respondientes y en el mismo momento: [[ai-use-critical-thinking-medical-students-2026|un estudio de mediación moderada sobre el uso de IA y el pensamiento crítico]] operacionalizó el uso, la carga cognitiva y el [[self-regulated-learning|aprendizaje autorregulado]] todos mediante instrumentos de autoinforme estandarizados en un único momento temporal, y plantea el sesgo de método común como consecuencia; [[genai-motivation-engagement-2026|un estudio PLS-SEM sobre motivación e implicación]] se apoya igualmente del todo en el autoinforme y no puede establecer el orden temporal entre sus mediadores.
+
+El modo de administración es una segunda amenaza que el corpus todavía no ha contado. [[voice-based-ai-feedback-interviews-higher-ed-2026|Tamme, Schilling y Hantel (2026)]] proponen sustituir las encuestas de curso escritas por entrevistas telefónicas realizadas con IA, y reúnen evidencia sobre el efecto del modo que apunta en ambas direcciones: las respuestas de voz son más largas y cubren más temas, mientras que una comparación aleatorizada de 634 personas respondientes encontró que las respuestas de texto eran más diferenciadas y más sinceras.
 
 ## Remedio: añadir evidencia que no sea de autoinforme
 
@@ -162,6 +166,8 @@ Las respuestas constructivas de la base de conocimiento son consistentes, y ning
 
 ## Artículos conectados
 
+- [[high-school-genai-acceptance-tam-physics-2026]] — Una puntuación de intención, dos usos opuestos
+- [[voice-based-ai-feedback-interviews-higher-ed-2026]] — El modo de administración que emplea un instrumento de autoinforme cambia lo que mide
 - [[capability-decision-model-teacher-readiness-2026]] — Criterios de validez discriminante para separar la capacidad de IA autoinformada de las creencias de eficacia
 
 - [[pramod-agentic-ai-motivational-pathways-2026]] — La implicación predice un rendimiento percibido y no medido en un modelo de rutas de IA agéntica (Pramod y Patil 2026)

@@ -18,7 +18,7 @@ confidence: high
 connected_resources: [drawsplat, lesson-md, edugems]
 reviewed_by: [editor]
 translation_of: resources/id-toolbox
-source_updated: "2026-09-20T13:49:11-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "Автоматический перевод данной английской страницы, не проверенный носителем языка."
 contributors: [editor]
 ai_assist:
@@ -41,4 +41,6 @@ ai_assist:
 Курт Цильбершер, разрабатывающий корпоративное обучение на протяжении двадцати восьми лет, описывает одни и те же мелкие нерешённые проблемы, повторяющиеся на протяжении всей его карьеры, — подсчёт слов озвучки, поиск ресурса, из-за которого курс превысил лимит [[edtech-platform|LMS]], ручной аудит покрытия субтитрами, — и создаёт их решения и предоставляет их бесплатно. На сайте также проводится бесплатный ежегодный опрос о том, как дизайнеры обучения фактически проводят свою рабочую неделю.
 
 ## Связанные концепции
-[[learning-design]], [[online-teaching-and-learning]], [[formative-assessment]], [[educational-technology-developers]]
+
+[[learning-design]], [[online-teaching-and-learning]], [[formative-assessment]], [[educational-technology-developers]], [[accessibility]]
+

@@ -1,7 +1,7 @@
 ---
 title: "LESSON.md"
 created: "2026-10-10T22:03:49-04:00"
-updated: "2026-10-10T22:03:49-04:00"
+updated: "2026-10-24T08:38:48-04:00"
 type: resource
 summary: "ブロックベースの eラーニングレッスン向けのオープンなプレーンテキスト形式。その形式でレッスン・評価・コースバンドル全体を記述するエージェントスキルも伴います。"
 url: https://lesson.md/
@@ -18,7 +18,7 @@ audience: [instructional designers, curriculum designers, software developers, e
 confidence: high
 connected_resources: [id-toolbox, liascript]
 translation_of: resources/lesson-md
-source_updated: "2026-09-20T13:49:11-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -42,4 +42,5 @@ ai_assist:
 
 ## 関連する概念
 
-[[learning-design]], [[open-source]], [[online-teaching-and-learning]], [[multimodal]], [[educational-technology-developers]]
+[[learning-design]], [[open-source]], [[online-teaching-and-learning]], [[multimodal]], [[educational-technology-developers]], [[assessment]], [[edtech-platform]]
+

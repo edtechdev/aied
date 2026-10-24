@@ -1,14 +1,14 @@
 ---
 title: Aprendizaje encarnado
 created: "2026-09-28T18:15:36-04:00"
-updated: "2026-10-02T23:55:01-04:00"
+updated: "2026-10-24T08:21:10-04:00"
 type: concept
 foundations: [computational-thinking]
 pedagogy: [active-learning, embodied-learning, situated-learning]
 technology: [educational-robotics]
 confidence: high
 translation_of: concepts/embodied-learning
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-23T22:31:18-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -52,6 +52,8 @@ Una segunda línea, más teórica, de la investigación de la base de conocimien
 
 El aprendizaje encarnado se conecta con [[educational-robotics]], [[educational-robotics]], [[educational-robotics]], [[active-learning]], [[experiential-learning]], [[situated-learning]], [[distributed-cognition]], [[computational-thinking]] y [[social-emotional-learning]].
 
+- **El seguimiento corporal convierte la regulación en una señal medible.** En una simulación de fotosíntesis en realidad mixta donde etiquetas de movimiento desplazaban a los agentes del estudiantado por un modelo proyectado, una canalización de LLM etiquetó 470 segmentos de conducta autorregulada en 40 minutos de vídeo, y la promulgación dominó con el 66,4% ([[fonteles-embodied-learning-human-in-the-loop-multimodal-2026|Fonteles et al., 2026]]).
+
 ## Conceptos conectados
 - [[educational-robotics]]
 - [[active-learning]]
@@ -66,14 +68,15 @@ El aprendizaje encarnado se conecta con [[educational-robotics]], [[educational-
 - [[virtual-and-augmented-reality]] — la modalidad que intenta explotar la encarnación directamente
 
 ## Artículos conectados
+- [[fonteles-embodied-learning-human-in-the-loop-multimodal-2026]] — Simulación de fotosíntesis con seguimiento de movimiento analizada con una canalización de LLM (Fonteles et al. 2026)
 - [[multimodal-embodied-cognition-oral-explanations-2026]] — A Multimodal Framework for Embodied Cognition in Oral Explanations
-- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Fostering Sustainable Learning via Embodied Intelligence (E3-HOT)
+- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Fomentar el aprendizaje sostenible mediante la inteligencia encarnada (E3-HOT)
 - [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly Studio
 - [[motibo-digital-storytelling-robots-motivation-2026]] — MotiBo
 - [[remind-robot-mediated-roleplay-antibullying-2026]] — REMind
-- [[pepper-robot-sign-language-lis-2025]] — Pepper and Sign Language
+- [[pepper-robot-sign-language-lis-2025]] — Pepper y la lengua de signos
 - [[enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen]] — Robot-LLM Integration in Creative Writing
-- [[robot-assisted-language-learning-meta-analysis-2026]] — Meta-analysis of AI-enhanced embodied robot-assisted language learning
+- [[robot-assisted-language-learning-meta-analysis-2026]] — Metanálisis del aprendizaje de lenguas asistido por robots corpóreos y mejorado con IA
 - [[vargas-situated-learning-ai-review-2024]]
 - [[li-ai-science-situated-learning-teachers-2025]]
 - [[vargas-ai-catalyst-situated-learning-2026]]

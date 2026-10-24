@@ -122,4 +122,4 @@ La creatividad se conecta con el [[critical-thinking|pensamiento crítico]] y co
 - [[genai-dependence-research-creativity-2026]] — Dependencia funcional frente a existencial de la IA generativa y creatividad investigadora en 1.157 estudiantes de posgrado
 - [[ai-dependence-creativity-motivation-literacy-2026]] — La dependencia de la IA y cuatro motivaciones de uso se relacionan de forma divergente con la creatividad autodeclarada (Hou et al. 2026)
 - [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] — Creatividad equivalente, activación neuronal divergente: la infancia frente a las personas adultas conversando con ChatGPT en un escáner de resonancia magnética funcional
-- [[ai-exemplar-attribution-creativity-education-2026]] — Supporting creativity education in the age of AI: The role of perceived exemplar source
+- [[ai-exemplar-attribution-creativity-education-2026]] — Apoyar la educación creativa en la era de la IA: el papel de la fuente percibida de los ejemplos

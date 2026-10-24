@@ -1,7 +1,7 @@
 ---
 title: "DrawSplat"
 created: "2026-10-10T22:09:00-04:00"
-updated: "2026-10-10T22:09:00-04:00"
+updated: "2026-10-24T08:38:48-04:00"
 type: resource
 summary: "小さな教学ツールを集めた無料のブラウザプラットフォーム。ホワイトボード、表計算、スライド、文書、リスト、コンセプトマップ、クイズ、グラフ、画像、動画が使えます。"
 url: https://drawsplat.org/
@@ -19,7 +19,7 @@ audience: [instructors, learners]
 confidence: high
 connected_resources: [id-toolbox]
 translation_of: resources/drawsplat
-source_updated: "2026-09-22T04:25:00-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -49,4 +49,6 @@ ai_assist:
 製品サイトには個人名の著者は記載されておらず、問い合わせはプロジェクトの受信箱に案内されます。DrawSplat はミゲル・グーリン（Miguel Guhlin）が構築したもので、彼のサイトに公開の記録があります。コードは価格の面だけでなく、ライセンスの面でも自由です。ホワイトボードは GNU AGPL-3.0-or-later、SplatWorks の各アプリは GPL-3.0-only で、学生の端末に座席ごとのライセンスはかかりません。ファイルを読み取るツールはブラウザ内でローカルに動作しますが、クラウド保存と専門的学習に関する問い合わせはデータを送信するため、学生の課題に使う前にストレージの一覧ページを確認してください。
 
 ## 関連する概念
-[[visualization]], [[multimodal]], [[formative-assessment]], [[project-based-learning]]
+
+[[visualization]], [[multimodal]], [[formative-assessment]], [[project-based-learning]], [[accessibility]], [[privacy]]
+

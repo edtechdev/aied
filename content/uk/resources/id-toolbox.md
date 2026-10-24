@@ -24,7 +24,7 @@ ai_assist:
     agent: hermes-agent
 reviewed_by: [editor]
 translation_of: resources/id-toolbox
-source_updated: "2026-09-20T13:49:11-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови."
 ---
 
@@ -41,4 +41,6 @@ translation_note: "Автоматичний переклад цієї англі
 Курт Зілбершер, який проєктує корпоративне навчання двадцять вісім років, описує, як одні й ті самі невеликі нерозв’язані проблеми повторювалися протягом усієї його кар’єри — підрахунок слів наративу, пошук ресурсу, який вивів курс за межу [[edtech-platform|LMS]], ручний аудит покриття субтитрами, — і він створює виправлення та віддає їх безкоштовно. Сайт також проводить щорічне безкоштовне опитування про те, як інструкційні дизайнери фактично проводять свій тиждень.
 
 ## Connected Concepts
-[[learning-design]], [[online-teaching-and-learning]], [[formative-assessment]], [[educational-technology-developers]]
+
+[[learning-design]], [[online-teaching-and-learning]], [[formative-assessment]], [[educational-technology-developers]], [[accessibility]]
+

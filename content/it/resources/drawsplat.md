@@ -19,7 +19,7 @@ confidence: high
 connected_resources: [id-toolbox]
 reviewed_by: [editor]
 translation_of: resources/drawsplat
-source_updated: "2026-09-22T04:25:00-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -49,4 +49,5 @@ Il sito del prodotto non indica alcun autore individuale e indirizza le richiest
 
 ## Concetti collegati
 
-[[visualization]], [[multimodal]], [[formative-assessment]], [[project-based-learning]]
+[[visualization]], [[multimodal]], [[formative-assessment]], [[project-based-learning]], [[accessibility]], [[privacy]]
+

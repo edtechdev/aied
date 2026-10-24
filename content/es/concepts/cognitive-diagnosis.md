@@ -104,4 +104,4 @@ El diagnóstico cognitivo se conecta con [[knowledge-tracing]], [[student-modeli
 - [[pivot-generative-video-tutors-stem-2026]] — De la generación de contenido al apoyo al aprendizaje: tutores de vídeo generativos guiados por la pedagogía para el aprendizaje STEM
 - [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn: un tutor agéntico que aprende a su estudiante en un bucle de coaprendizaje humano-IA
 - [[omniedu-open-educational-foundation-models-2026]] — OmniEdu: modelos fundacionales abiertos para el aprendizaje y la enseñanza
-- [[culturally-embedded-ai-diagnostic-assessment-2026]] — Rethinking Diagnostic Assessment Through Culturally Embedded AI for Meaningful Learning
+- [[culturally-embedded-ai-diagnostic-assessment-2026]] — Repensar la evaluación diagnóstica mediante IA culturalmente situada para un aprendizaje significativo

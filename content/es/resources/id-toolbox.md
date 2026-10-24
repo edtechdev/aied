@@ -1,7 +1,7 @@
 ---
 title: "The ID Toolbox"
 created: "2026-09-27T02:33:56-04:00"
-updated: "2026-09-27T02:33:56-04:00"
+updated: "2026-10-24T08:38:48-04:00"
 type: resource
 summary: "Más de cincuenta utilidades de navegador gratuitas y de propósito único para diseñadores instruccionales: alcance, estimación, herramientas de subtítulos y traducción, y comprobaciones de legibilidad y coherencia."
 url: https://nextgenailearning.com/
@@ -17,7 +17,7 @@ level: [higher ed]
 audience: [instructional designers, faculty developers, educational technology developers]
 confidence: high
 connected_resources: [drawsplat, lesson-md, edugems]
-source_updated: "2026-09-20T13:49:11-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_of: resources/id-toolbox
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
@@ -39,4 +39,6 @@ Antes de construir: elija entre herramientas de autoría según criterios ponder
 Curt Zilbersher, que lleva veintiocho años diseñando formación corporativa, describe los mismos pequeños problemas sin resolver que se repiten a lo largo de su carrera, como contar palabras de narración, encontrar el recurso que hizo que un curso superara el límite de un [[edtech-platform|LMS]] o auditar a mano la cobertura de subtítulos, y está construyendo las soluciones y regalándolas. El sitio también realiza una encuesta anual gratuita sobre cómo los diseñadores instruccionales pasan realmente su semana.
 
 ## Conceptos conectados
-[[learning-design]], [[online-teaching-and-learning]], [[formative-assessment]], [[educational-technology-developers]]
+
+[[learning-design]], [[online-teaching-and-learning]], [[formative-assessment]], [[educational-technology-developers]], [[accessibility]]
+

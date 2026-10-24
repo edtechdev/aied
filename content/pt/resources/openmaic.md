@@ -1,7 +1,7 @@
 ---
 title: "OpenMAIC"
 created: "2026-09-20T17:30:00-04:00"
-updated: "2026-09-20T17:30:00-04:00"
+updated: "2026-10-24T08:38:48-04:00"
 type: resource
 summary: "O lançamento open-source do MAIC: uma sala de aula multiagente que transforma um tema ou documento em slides, quizzes, simulações interativas e atividades baseadas em projeto, conduzida por professores e colegas de IA."
 url: https://github.com/THU-MAIC/OpenMAIC
@@ -19,7 +19,7 @@ audience: [instructors, curriculum designers, instructional designers, learners,
 confidence: high
 connected_resources: [deeptutor, lesson-md]
 translation_of: resources/openmaic
-source_updated: "2026-09-20T17:30:00-04:00"
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -46,4 +46,6 @@ Instrutores e equipes de curso que querem materiais gerados que ainda assim poss
 Licenciado sob MIT, com guia do usuário em inglês e chinês e uma comunidade ativa no Discord e no Feishu. Ele é neutro quanto a modelo: você fornece ao menos uma chave de provedor de LLM, e componentes locais opcionais (Lemonade para modelos locais, FunASR para reconhecimento de fala) permitem rodar mais da pilha offline — de modo que "gratuito" descreve o software, não a conta de inferência. O artigo por trás dele apareceu no *Journal of Computer Science and Technology* (2026, DOI 10.1007/s11390-025-6000-0), e o repositório tinha mais de 38.000 estrelas em setembro de 2026.
 
 ## Conceitos conectados
-[[agentic-ai]], [[generative-ai]], [[llm]], [[open-source]], [[project-based-learning]], [[online-teaching-and-learning]], [[personalized-learning]], [[teacher-role]]
+
+[[agentic-ai]], [[generative-ai]], [[llm]], [[open-source]], [[project-based-learning]], [[online-teaching-and-learning]], [[personalized-learning]], [[teacher-role]], [[intelligent-tutoring]], [[simulation]]
+
