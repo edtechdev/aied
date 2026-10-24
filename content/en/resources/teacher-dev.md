@@ -1,7 +1,7 @@
 ---
 title: "teacher.dev"
 created: "2026-10-24T10:29:00-04:00"
-updated: "2026-10-24T10:29:00-04:00"
+updated: "2026-10-24T10:44:33-04:00"
 type: resource
 summary: "A non-profit studio publishing one free classroom app for every day of a public build streak, from printable figure generators to a quiet-time safari and a local-first hall pass."
 url: https://www.teacher.dev/
@@ -35,7 +35,7 @@ The narrowness is the value. A [[game-based-learning|review game]] where one stu
 
 ## What you can do with it
 
-Filter the gallery by subject or by whether an app is student-facing or a teacher tool, then use it straight from the browser. Nothing here is a platform to adopt: each app addresses one recurring classroom moment, so a teacher takes the one that fits, and the [[accessibility|accessibility]] work appears as calm visuals, large targets and printable outputs rather than a settings panel.
+Filter the gallery by subject or by whether an app is student-facing or a teacher tool, then use it straight from the browser. Nothing here is a platform to adopt: each app addresses one recurring classroom moment, so a teacher takes the one that fits, and the [[accessibility]] work appears as calm visuals, large targets and printable outputs rather than a settings panel.
 
 ## Who it is for
 
