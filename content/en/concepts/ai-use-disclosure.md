@@ -1,7 +1,7 @@
 ---
 title: AI Use and Disclosure Statements
 created: "2026-08-27T11:17:52-04:00"
-updated: "2026-10-04T16:22:53-04:00"
+updated: '2026-10-24T08:08:00-04:00'
 type: concept
 foundations: [academic-integrity]
 technology: [generative-ai]
@@ -67,6 +67,7 @@ Surveying the GenAI guidance of the 50 US universities ranked most innovative, [
 - **Make disclosure formative, not just compliance.** Use reflection prompts and structured declarations (model/input/evaluation) so disclosure builds [[ai-literacy]] and self-regulation rather than functioning as surveillance.
 - **Train faculty to build trust, not rely on detection.** Disclosure should never be followed by accusation; faculty should learn trust-building conversations instead of leaning on unreliable AI detectors.
 - **Design for equity.** Attend to differential disclosure across disciplines, language status, and student backgrounds, and avoid mechanisms that place uneven burdens on already-marginalized learners.
+- **Disclosure also runs the other way.** Every page here treats disclosure as the student's obligation, and the writing professors interviewed by [[wu-lam-genai-writing-assessment-professors-2026|Wu and Lam (2026)]] asked for the mirror of it: students should be told when and how a tool is used to assess their work, and their consent asked before the work is uploaded. The same transparency that makes student use legible is what makes an institution's assessment practice legible to the student.
 
 ## Connections
 
@@ -93,6 +94,7 @@ AI use and disclosure sits at the intersection of [[academic-integrity]] (its pa
 - [[parents-and-families]]
 - [[social-norms-ai-use]] — why learners choose to hide rather than disclose
 ## Connected Articles
+- [[wu-lam-genai-writing-assessment-professors-2026]] — The mirror direction: telling students when AI grades their work, and asking before uploading it
 - [[kirsanov-beyond-detection-ai-online-assessments-2026]] — Beyond detection: how students use and hide AI in online assessments
 - [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — Student AI disclosure, stigma, and self-regulated learning
 - [[vetter-hidden-cost-disclosure-genai-2026]] — The hidden cost of disclosure: disclosure and faculty accusations
