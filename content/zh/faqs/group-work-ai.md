@@ -1,7 +1,7 @@
 ---
 title: "我应当如何处理小组与合作作业中的人工智能？"
 created: "2026-09-22T19:50:48-04:00"
-updated: "2026-10-09T18:10:00-04:00"
+updated: "2026-10-24T15:35:01-04:00"
 weight: 60
 type: faq
 foundations: [academic-integrity, agency]
@@ -11,7 +11,7 @@ methods: [meta-analysis-systematic-review, mixed-methods-research]
 research_method: [interviews]
 audience: [instructors, instructional designers, assessment designers]
 level: [higher ed, secondary]
-source_updated: "2026-10-02T08:21:34-04:00"
+source_updated: "2026-10-21T14:32:00-04:00"
 translation_of: faqs/group-work-ai
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
@@ -27,8 +27,6 @@ ai_assist:
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
-
-# 我应当如何处理小组与合作作业中的人工智能？
 
 你布置了一项小组作业，提交上来时就带着两种失败模式：一份作品打磨得精致连贯，却没有任何成员能解释它；以及一个团队，其中一名学生把工作交给[[generative-ai|生成式人工智能]]跑了一遍，另外三人则搭了共享成绩的便车。文件里没有任何东西能告诉你到底是哪一种。
 

@@ -1,7 +1,7 @@
 ---
 title: 商科教育
 created: "2026-08-20T09:05:00-04:00"
-updated: "2026-10-09T19:06:58-04:00"
+updated: "2026-10-24T14:35:00-04:00"
 type: concept
 foundations: [ai-education, curriculum-design]
 technology: [generative-ai]
@@ -9,7 +9,7 @@ discipline: [business education]
 level: [higher ed]
 confidence: high
 translation_of: concepts/business-education
-source_updated: "2026-10-07T09:45:00-04:00"
+source_updated: "2026-10-16T08:47:09-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -45,8 +45,10 @@ ai_assist:
 - **机构采纳。** [[alrahmi-org-drivers-ai-adoption-he-2026|Al-Rahmi（2026）]]考察了[[higher-ed|高等教育]]中 AI 采纳的机构与技术驱动因素（使用 TOE + Diffusion of Innovations 框架，n=300 名教职工），与商学院及其所属机构如何采纳 AI 驱动的决策支持和智慧学习平台相关。
 - **商科[[simulation]]游戏中的对话智能体。** [[conversational-agents-business-simulation-gaming-2026|Wenzel、Geiger 与 Liening（2026）]]开发并评估了一个 AI 增强的[[conversational-ai|对话智能体]]（Lara），用于在商科模拟游戏中为体验式创业学习提供自适应教学支持。该 CAIS-GBL 框架立于[[equity-in-ai-education|公平]]优先的设计立场与[[universal-design-for-learning|通用学习设计]]之上，瞄准认知、[[motivation|动机]]、[[affective-computing|情感]]与[[sociocultural-learning|社会文化]]层面的[[student-engagement|参与]]，并在师范生与 BSG 参与者中的评估显示出对认知/[[community-of-inquiry|社会存在]]及[[self-regulated-learning]]支持的正面评价——这是在[[game-based-learning|模拟式]]商科教育中规模化[[formative-assessment|形成性]]反馈的一个样板。
 - **面向复杂应用任务的智能体式 GAI。** [[ilieva-agentic-genai-higher-education-2026|Ilieva 等人（2026）]]围绕一门**电子商务**课程开发了 AGAI-HE 框架，其学习任务要求比较商业模式、权衡市场与运营约束、为战略建议辩护——这类多步应用工作是"提示—回应"式聊天机器人支持得很差的。他们 130 名学生的感知研究发现，聊天机器人与智能体支持在学习提升、个性化、决策支持与工作流组织上都高于传统[[online-teaching-and-learning|在线学习]]，但智能体与聊天机器人之间无显著差异，而最强的认可落在三者结合上。对商科项目而言，其读法是：采纳是一个关于 AI 支持如何排序与治理的[[curriculum-design|教学设计]]问题，而不只是工具升级（[[agentic-ai]]）。
+- **一门课程自建的 [[rag|RAG]] 聊天机器人移动的是期望，而非结果。** 在一项为期一学期的[[rct|随机试验]]中，454 名市场营销原理课程的本科生参与，[[thoeni-ai-chatbots-higher-education-expectations-evidence-2026|Thoeni 与 Fryer（2026）]]发现在兴趣、[[self-efficacy]]、投入或测试表现上没有显著的组×时间效应，尽管学生平均每周登录 0.89 次、并把享受感评为 80.4。
 - **评价与评分创新研究不足。** [[mesny-innovative-assessment-grading-management-2026|Mesny、Roberge-Maltais 与 Galy（2026）]]调查了四本领先管理教育期刊（AMLE、JME、Management Learning、IJME）20 年间的 58 篇与评价相关的论文——大约每年三篇，多集中在 2010 与 2014 年的专刊——发现相对于其塑造学习的核心地位，评价与评分研究不足。自评与同伴评价主导了论述（几乎占整个语料库的一半，主要用于[[summative-assessment|总结性]]评价[[group-work|小组作业]]）；[[authentic-assessment|真实评价]]主要通过技术中介的[[simulation|模拟]]出现，且常与[[experiential-learning|体验式学习]]混为一谈；而再评价、基于标准的评分与不打分则几乎缺席。作者敦促管理教育者更主动、更互惠地参与这些创新，建议以增量实验（不打分作业、单项任务的再评价、基于标准的评分量规）为基础，辅以项目层面的协调与有据可查的 Scholarship of Teaching and Learning 证据。
 - **商科作业的自动评分需要语料特定的验证。** 在 BrandSim 模拟中 60 篇学生营销帖上，[[automated-scoring-marketing-posts-agreement-2026|Li（2026）]]发现一个[[llm|LLM]]与人工均值的一致性仅达 ICC(2,1) = .435——确定性规则为 .091，等权混合为 .266——而加入研究者撰写的锚点后 LLM 升到 .846，且未改变任何学生分数。
+- **商科教育的一种替代方案给过程打分，而非给主题打分。** 在一年级商业分析学位学徒制中，评分要求有记录的迭代与同伴[[collaborative-learning|协作]]，而使用 GenAI 的学生质疑它的反面论证，而不是把它们提交上去（[[alam-process-oriented-collaborative-essays-2026|Alam & Jackson, 2026]]）。
 - **把 AI 教学作为一流的过程设计元素。** [[ai-decision-checkpoints-bpm-education-2026|Jalali（2026）]]在一门 152 名学生的课程的六个模块中，于每个 BPM 生命周期阶段放置一个 AI 决策检查点，让学生先构建一个可运行的 LLM 受理智能体，然后在某个检查点发现真正的瓶颈是一个两人的欺诈调查队列。
 
 ## 经济与管理教育
@@ -80,7 +82,7 @@ ai_assist:
 - [[stem-education]]
 
 ## 关联文章
-- [[ai-decision-checkpoints-bpm-education-2026]] — AI-Decision Checkpoints for AI-Augmented Business Process Management: Framework and Educational Instantiation
+- [[ai-decision-checkpoints-bpm-education-2026]] — AI 增强业务流程管理的 AI 决策检查点：框架与教学实例化
 
 - [[ilieva-agentic-genai-higher-education-2026]] — AGAI-HE：电子商务课程中的智能体式 GAI 支持，感知到的收益与风险（Ilieva et al. 2026）
 - [[drummond-genai-business-schools-framework-2026]] — 面向商学院 GenAI 的以学生为据框架（Drummond & Dale 2026）
@@ -92,3 +94,5 @@ ai_assist:
 - [[mesny-innovative-assessment-grading-management-2026]]
 - [[automated-scoring-marketing-posts-agreement-2026]] — 学生营销帖自动评分中的一致性与误差
 - [[shi-genai-experiential-learning-management-education-2026]] — 重构管理教育教学法的三种生成式 AI 机制
+- [[alam-process-oriented-collaborative-essays-2026]] — 商业分析学徒制中过程导向的协作论文：给有记录的迭代打分，而非给主题打分
+- [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026]] — 一门课程自建的 RAG 聊天机器人移动的是期望，而非结果

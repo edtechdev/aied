@@ -107,7 +107,7 @@ ai_assist:
 ## 关联概念
 
 - [[pedagogical-patterns]] — 面向共享一个 AI 的小组的角色脚本
-- [[ai-education]] — AI in education（总括）
+- [[ai-education]] — 教育中的 AI（总括）
 - [[collaborative-learning]]
 - [[assessment]]
 - [[peer-assessment]]
@@ -140,4 +140,4 @@ ai_assist:
 - [[academic-league-of-ai-2026]] — AI 教育中的民主学生治理与项目团队
 - [[teacher-student-agency-orchestration]] — 教师与学生能动性的实时共同编排
 - [[dollinger-equitable-assessment-ai-2026]] — AI 时代的公平评价
-- [[ethics-training-agents-group-ethics-discussion-2026]] — Ethics Training Agents: Facilitating Group-Based Ethics Education with Role-Playing and Discussion for Ethical Reflection and Exploration
+- [[ethics-training-agents-group-ethics-discussion-2026]] — Ethics Training Agents：以角色扮演与讨论促进小组伦理教育，用于伦理反思与探索

@@ -1,7 +1,7 @@
 ---
 title: 幸福感（Well-Being）
 created: "2026-08-13T18:30:57-04:00"
-updated: "2026-10-09T18:58:17-04:00"
+updated: "2026-10-24T15:25:46-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [motivation, social-emotional-learning]
@@ -11,7 +11,7 @@ level: [higher ed]
 confidence: high
 connected_faqs: [how-ai-impacts-students, ai-anxiety-wellbeing]
 translation_of: concepts/well-being
-source_updated: "2026-10-01T20:35:10-04:00"
+source_updated: "2026-10-23T09:49:58-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -43,6 +43,7 @@ ai_assist:
 - **[[ai-literacy|AI 素养]]与社会情感学习：** [[sec-ai-literacy-narrative-review-2026|把 SEC 整合进 AI 素养的研究]]主张，培养教育者和学生的情商与幸福感，对在 AI[[sociocultural-learning|中介的学习]]环境中前行至关重要，连接到[[social-emotional-learning]]和 AI 的情感维度。
 - **AI 焦虑与学生体验：** 关于学生与 AI 互动的研究（如[[students-engagement-with-generative-ai-in-academic-learning-a-self-determination|基于 SDT 的研究]]）发现，AI 使用与焦虑、信任和信心交织，学生的幸福感受关于学术诚信、[[creativity]]和[[cognitive-offloading|过度依赖]]的担忧影响。
 - **焦虑的降低并非一致有益。** 在一项对 35 名大学预科学生的被试内平衡设计中，一个 LLM 增强的对话智能体在口头评估中降低了自报焦虑（平静感 6.50 对 5.86，p = .028），但作者提醒，中度焦虑可能有促进作用，且未记录任何成绩分数（[[aivaluate-anxiety-assessment-2026|Yusuf、Money 与 Daylamani-Zad（2026）]]）。
+- **考试焦虑被重新分配，而非被消除。** [[mulvenon-test-anxiety-ai-accountability-2026|Mulvenon (2026)]] 主张，随着 [[assessment]] 从偶发性的高风险考试转向持续的、数据驱动的评估，算法问责增加了一套新的压力系统，其机制，即即时性、可见性与数据永久性，把急性考试压力转化为弥漫的、持续的表现警觉，而后者很少被报告。
 - **高认可可以与压力并存，而 AI 任务压力会削弱收益。** 在 551 名大一学生中，82.76% 认可数字与智能内容的整合，而 69.51% 报告[[anxiety-and-stress|焦虑]]或紧张，且随着 AI 任务压力上升，AI 熟练度—适应度斜率从 0.42 降到 0.20（[[ai-enabled-course-development-first-year-adjustment-2026|Zhang 与 Yin（2026）]]）。
 - **感知到的 AI 能力可通过目标进展提升心理健康。** [[perceived-ai-intelligence-medical-students-mental-health-2026|Chen 等（2026）]]发现，从感知到的助手智能到心理健康的序列路径显著（B = 0.098），且在[[ai-literacy]]高时（0.124）强于低时（0.072），尽管所有结果都是在一次简短任务后立即测量的。
 - **情感支持的辅导并不自动对幸福感更好。** 加到代数导师上的 LLM 正念层在两个条件下都降低了数学状态焦虑，但不比纯认知的提示和反馈更有效，尽管学生把正念智能体评价为更有支持性——这是对"把感知到的关怀当作幸福感结果"的告诫（[[mindful-llm-math-tutoring-2026|Rief 等，2026]]）。
@@ -69,6 +70,8 @@ ai_assist:
 
 **摩擦、意义与孤独作为信号。** [[zohar-bloom-inzlicht-against-frictionless-ai-2026|Zohar、Bloom 与 Inzlicht（2026）]]给出了幸福感论据的机制：努力发出"我们的行动重要"的信号，因此为目标努力的人感到更能干、更看重产品、并认为它更有目的性——即便在客观上无意义的任务上，增加摩擦也会提高被评估的意义。在关系上，他们把孤独不仅当作一种折磨（与心血管疾病、痴呆、中风和早死相关），也当作一种**[[biology-education|生物学]]信号**，类似饥饿或疼痛：一种促使你主动接触、接受邀请、投入现有关系并容忍艰难对话的不适。AI 陪伴能缓解这种不适，作者认为这在某些情况下是真实进步，同时也消音了驱动连接的信号——他们按阶段缓和了论证，认为对因处境而非选择而孤立的人，拒绝他们接触此类技术"会是残酷的"（[[motivation]]、[[social-emotional-learning]]）。
 
+情感支持与联结可以在同一个样本中朝相反方向变动。在 819 名沙特高等教育学生中，对聊天机器人的满意度平均为 4.29，他们对这些工具的体验为 4.19，而担心聊天机器人削弱人际联结是评分最高的构念，为 4.36（[[ai-chatbots-emotional-support-human-connection-2025|Al-Zahrani (2025)]]）。这种担忧随经验上升，而不是随满意度下降（标准化系数为 .64 对 .11）。
+
 ## 关联概念
 
 - [[learners]] — 学习者：学习者侧概念的总括
@@ -85,6 +88,7 @@ ai_assist:
 
 ## 关联文章
 
+- [[ai-chatbots-emotional-support-human-connection-2025]] — 819 名学生对聊天机器人评价很高，却最担心失去人际联结
 - [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — 摩擦、意义与作为生物学信号的孤独
 - [[zhang-ai-anxiety-academic-motivation-emotion-2026]] — AI 焦虑与学业动机的关系
 - [[wu-psychological-adaptation-ai-japanese-learning-2026]] — AI 辅助日语学习中心理适应的画像与转变
@@ -106,3 +110,4 @@ ai_assist:
 - [[perceived-ai-intelligence-medical-students-mental-health-2026]] — 感知到的 AI 助手智能、目标进展与心理健康，以 AI 素养为调节变量
 - [[ai-emotion-regulation-sport-exercise-2026]] — 通过运动、锻炼和校园生态对 AI 支持的情绪调节的概念性重构
 - [[faculty-ai-well-being-social-supports-2026]] — 教师 AI 幸福感的结构方程模型：AI 素养压倒自我效能
+- [[mulvenon-test-anxiety-ai-accountability-2026]] — 考试焦虑被重新分配，而非被消除

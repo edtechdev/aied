@@ -1,7 +1,7 @@
 ---
 title: 解读与应用 AIEd 研究
 created: "2026-09-19T05:41:27-04:00"
-updated: "2026-10-09T19:07:10-04:00"
+updated: "2026-10-24T15:57:18-04:00"
 type: concept
 foundations: [limitations-in-aied-research]
 research_method: [literature review]
@@ -13,7 +13,7 @@ page_kind: [evaluation, framework]
 confidence: high
 connected_faqs: [reporting-interpreting-aied-research, research-gaps-aied, how-can-ai-assist-with-educational-research]
 translation_of: concepts/interpreting-and-applying-aied-research
-source_updated: "2026-10-05T11:23:36-04:00"
+source_updated: "2026-10-16T08:47:09-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -68,6 +68,7 @@ ai_assist:
 - **产品名不是教学方法。** 在审计一项著名元分析背后的比较时，[[weidlich-chatgpt-effect-search-cause-2025|Weidlich 等（2025）]]发现只有 **21%** 具有界定明确的处理、对照组和有效的学习测量 —— 而"使用 ChatGPT"报告出的优势甚至大于专门构建的[[intelligent-tutoring|智能导学系统]]（g = 0.7 对 0.66），这是一个警示信号，而不是一场胜利。
 - **有工具时的表现被例行公事地误当作学习。** 在一项[[k-12|K-12]]数学研究中，用通用[[conversational-ai|聊天机器人]]练习的学生练习成绩更好，随后在没有 AI 接入的闭卷期末考中比同龄人低了 **约 17%**（[[stanford-evidence-base-ai-k12-2026|斯坦福的 K-12 AI 证据基础]]）。
 - **该领域自己的综述也经不起审计。** [[oneill-presumed-effective-meta-analysis-2026|O'Neill（2026）]]对声称 AI 改善教育的 **14 项同行评审元分析**的审计发现，**没有一项**为其提出的论断提供了有效依据；而在随机选取的 46 项原始研究中，**61%** 存在效度问题。问题不在于某篇糟糕的论文，而在于一种报告文化。
+- **综述可以量化其自身语料中的报告偏斜。** 一项对 155 项高等教育研究的系统综述发现，117 项（75.5%）报告了成功的实施，124 项（80.0%）仅涵盖短期影响，只有 23 项（14.8%）报告了 [[ethics]]、公平或治理方面的失败——正是上述检查项所描述的那种失衡，在该综述自身的证据基础上得到测量（[[ai-higher-ed-service-delivery-systematic-review-2026|Nyamboga（2026）]]）。
 - **自我报告让每个人都显得更好。** 人们对自己[[ai-literacy|AI 技能]]的评价比表现测量显示的高出约 **40%**，这就是为什么满意度和信心调查是你能据以行动的最弱证据（[[self-report-measures|自我报告测量]]，[[educational-measurement|教育测量]]）。
 - **大多数已经在教室里的产品根本没有独立证据。** [[instruction-partners-ai-in-action-learning-tour-2026|Instruction Partners 的 2025–26 学习巡回考察]]为 20 款面向学生的 AI 产品建立了档案，发现在档案完整的 16 款中，只有七款有独立评审考察过美国各学生群体的学业成就；两款只在国外被研究过，四项研究正在进行中，三款仅依赖内部数据。作者主张，覆盖优先群体的独立因果研究应当成为所有面向学生产品的预期 —— 而它还不是学校已在使用的工具的常态。
 
@@ -171,7 +172,7 @@ ai_assist:
 
 - [[oneill-presumed-effective-meta-analysis-2026]] —— 《被假定有效》：对 14 项 AIED 元分析的法医式审计
 - [[bartos-ai-learning-meta-meta-analysis-2026]] —— 经发表偏倚校正的 AI 效应约为所报告规模的三分之一
-- [[weidlich-chatgpt-effect-search-cause-2025]] —— ChatGPT in Education: An Effect in Search of a Cause
+- [[weidlich-chatgpt-effect-search-cause-2025]] —— 教育中的 ChatGPT：一个在寻找原因的效应
 - [[ai-supported-instruction-stem-meta-analysis-2026]] —— 把纳入标准当作严格性门槛，以及随模型变化的异质性
 - [[know-when-to-trust-ai-scoring-reliability-2026]] —— 当自动评分信度遇上任务自身的测量上限
 - [[verification-quality-reliance-calibration-genai-2026]] —— 核验与依赖文献没有测量什么
@@ -180,5 +181,6 @@ ai_assist:
 - [[ai-tutoring-micro-rct-gcse-science-2026]] —— 置信区间跨零的子组效应
 - [[chick-faculty-development-ethical-ai-2026]] —— 支撑条件：政策信号、个人订阅、没有时间
 - [[ai-tutoring-quality-k12-methodologies-2026]] —— 披露了校准与实验数量的供应商指标
-- [[ai-assisted-assessment-instruction-higher-ed-2026]] —— 与模型版本绑定的发现，以及领域的churn
+- [[ai-assisted-assessment-instruction-higher-ed-2026]] —— 与模型版本绑定的发现，以及领域的高速更迭
 - [[instruction-partners-ai-in-action-learning-tour-2026]] —— 16 款已在使用的面向学生 AI 产品的独立证据计数
+- [[ai-higher-ed-service-delivery-systematic-review-2026]] —— 综述可以量化其自身语料中的报告偏斜

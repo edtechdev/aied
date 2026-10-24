@@ -1,7 +1,7 @@
 ---
 title: 教学法与教学策略
 created: "2026-08-19T17:45:00-04:00"
-updated: "2026-10-09T18:39:26-04:00"
+updated: "2026-10-24T15:30:00-04:00"
 connected_faqs: [designing-ai-into-learning]
 type: concept
 foundations: [ai-education, learning-design]
@@ -9,7 +9,7 @@ pedagogy: [pedagogy]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/pedagogy
-source_updated: "2026-09-30T16:25:27-04:00"
+source_updated: "2026-10-16T08:47:09-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -80,6 +80,8 @@ ai_assist:
 
 一项关键的横贯发现，与本知识库的[[learning-gains]]研究一致：**策略对学习的影响，更多取决于它如何保全学习者的努力与生产性挣扎，而不是它带着哪个标签**——任何教学法，即便是"好的"教学法，如果 AI 被配置成绕开它本想调动的认知工作，也会失败（见[[cognitive-offloading]]、[[desirable-difficulties]]）。
 
+学生—[[student-ai-interaction|AI 互动]]更可被读作一个认知分布的流动过程，而非固定不变的依赖：在一门跨学科[[engineering-education|工程]]课程的 53 段 ChatGPT 对话中，扩展（紧密的、迭代的共同思考）是最常见的互动类型，占 321 个提示级编码的 53.3%，高于外包的 29.6%（[[cognitive-distribution-student-genai-interaction-2026|Willcox、Lane 与 Arikan（2026）]]）。
+
 那种对保全努力的强调并非绝对：一项四项研究的[[mixed-methods-research|混合方法]]设计（N = 912）发现，把 GenAI 框定为教学法伙伴同时激活了批判性警觉与策略性卸载，卸载超过某一阈值后释放出的能力反而用于高阶反思而非侵蚀它（[[wang-zhang-pedagogical-partnerships-genai-2026|Wang 与 Zhang（2026）]]）。
 
 ## 对教育中的人工智能的启示
@@ -91,8 +93,8 @@ ai_assist:
 
 ## 关联概念
 
-- [[pedagogical-partnerships]] — Pedagogical Partnerships
-- [[online-teaching-and-learning]] — Online Teaching and Learning
+- [[pedagogical-partnerships]] — 教学伙伴关系
+- [[online-teaching-and-learning]] — 在线教与学
 - [[learning-theories]]
 - [[learning-sciences]]
 - [[learning-gains]]
@@ -121,13 +123,14 @@ ai_assist:
 
 - [[genai-didactic-pedagogical-mediator-2026]] — GenAI 作为教学论—教学法中介：教师—学生—GenAI 三元模型（Moganadas 等 2026）
 - [[pedagogy-first-technology-second-teacher-knowledge-2026]] — “Pedagogy first, technology second”——TPAIK 对学生结果的影响重于技术性 TAIK（Shen 等 2026）
-- [[wang-zhang-pedagogical-partnerships-genai-2026]] — Pedagogical partnerships with generative AI
+- [[wang-zhang-pedagogical-partnerships-genai-2026]] — 与生成式 AI 的教学伙伴关系
 - [[ai-communities-of-inquiry-2026]]
 - [[instructional-guidance-genai-learning]] — 教学引导如何塑造 GenAI 的学习效应
 - [[generative-ai-guardrails-harm-learning]] — 带护栏（只给提示不给答案）的导学消除了考试惩罚
 - [[agentic-ai-pedagogical-best-practice-2026]] — 智能体式 AI 中的自动化—学习张力
 - [[jeon-isd-agent-bench-2026]] — 把智能体锚定在教学设计理论之上
 - [[ai-learning-tools-engineering-education-needs]] — 工程教育中的 AI 学习工具
-- [[fowlin-operationalizing-learning-principles-ai]] — Operationalizing learning principles with AI
-- [[kibar-ilgaz-ai-instructional-design-review-2026]] — AI and Instructional Design Practice: A Systematic Review (Kibar & Ilgaz 2026)
-- [[liu-ai-literacy-interventions-meta-analysis-2026]] — Instructional approaches in AI literacy interventions
+- [[fowlin-operationalizing-learning-principles-ai]] — 用 AI 把学习原则操作化
+- [[kibar-ilgaz-ai-instructional-design-review-2026]] — AI 与教学设计实践：一项系统综述（Kibar 与 Ilgaz 2026）
+- [[liu-ai-literacy-interventions-meta-analysis-2026]] — AI 素养干预中的教学路径
+- [[cognitive-distribution-student-genai-interaction-2026]] — 学生—AI 互动：认知分布的过程（Willcox、Lane 与 Arikan 2026）

@@ -2,7 +2,7 @@
 connected_resources: [matt-pocock-skills]
 title: 苏格拉底方法
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-09T18:58:09-04:00"
+updated: "2026-10-24T15:29:16-04:00"
 type: concept
 foundations: [ai-education, critical-thinking]
 pedagogy: [metacognition, scaffolding]
@@ -12,7 +12,7 @@ audience: [learners]
 level: [higher ed]
 confidence: high
 translation_of: concepts/socratic-method
-source_updated: "2026-10-13T09:18:19-04:00"
+source_updated: "2026-10-19T09:40:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -52,7 +52,7 @@ ai_assist:
 - **暴露[[misconceptions|迷思]]** — 通过精心选择的反例
 - **引导走向洞见** — 而不把答案交出去
 
-苏格拉底路径直接体现了[[llm-training-and-fine-tuning|EduQwen]]的原则：**奖励"引导"而非"作答"。** 然而，实时的苏格拉底式校准比纸上谈兵的基准更难：EduQwen针对的是多选题[[benchmark|基准]]上正确的引导，而一个实时苏格拉底导师必须依据实时学生信号，决定*何时*引导、*何时*提示、*何时*作答。[[affective-tutoring|情感状态]]是一个关键的调节变量：一个受挫的学生可能需要一个简短的直接答案，然后才能回到苏格拉底模式。
+苏格拉底路径直接体现了[[llm-training-and-fine-tuning|EduQwen]]的原则：**奖励"引导"而非"作答"。** 然而，实时的苏格拉底式校准比纸上谈兵的基准更难：EduQwen针对的是多选题[[benchmark|基准]]上正确的引导，而一个实时苏格拉底导师必须依据实时学生信号，决定*何时*引导、*何时*提示、*何时*作答。[[affective-tutoring|情感状态]]是一个关键的调节变量：一个受挫的学生可能需要一个简短的直接答案，然后才能回到苏格拉底模式。一个更严格的变体把教学完全移除：一个只探测的导论物理智能体要求学生为一个正确预测辩护，使其对抗一个被改变的变量（洞穴探测），并让正确答案之后的消息与错误答案之后的消息无从区分（[[socratic-probing-agent-physics-cave-detection-2026|Cho（2026）]]）。
 
 ## 有效性的证据
 
@@ -144,7 +144,7 @@ Favero等人（2025）提醒说，即便是苏格拉底式AI，如果学生变�
 ## 关联文章
 - [[agent-type-feedback-style-self-directed-learning-2026]] — 一项2×2研究生设计研究中苏格拉底式与指导性反馈风格的对比
 
-- [[ai-standardized-patient-scaffolding-medical-2026]] — Evaluating Scaffolding-Oriented Multi-Agent Large Language Model System for Clinical Interview Training
+- [[ai-standardized-patient-scaffolding-medical-2026]] — 评价面向支架的多智能体大语言模型系统用于临床问诊训练
 - [[hashmi-socratic-physics-chatbot-2025]]
 - [[ai-agents-constructive-conflict-design-education-2026]]
 - [[syal-multimodal-dialogue-stem-2026]]
@@ -154,13 +154,14 @@ Favero等人（2025）提醒说，即便是苏格拉底式AI，如果学生变�
 - [[prober-ai-inquiry-writing]]
 - [[generative-ai-guardrails-harm-learning]]
 - [[stanford-evidence-base-ai-k12-2026]] — 结构化的苏格拉底提示 对 开放式通用问答
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pedagogical Steering of LLMs for Productive Failure
-- [[wang-safety-gap-productive-struggle-2026]] — The Safety Gap: Restoring Productive Struggle
-- [[rhaimi-productivemath-2025]] — ProductiveMath: AI to Support PF Problem Design
-- [[lukesova-clue-before-correction-2026]] — Clue Before Correction: ChatGPT for Autonomous Language Learning
-- [[socratic-nuclear-ai-learning]] — Socrates went Nuclear: Comparing Interaction Strategies for AI in Learning
+- [[puech-pedagogical-steering-llm-productive-failure-2025]] — 为有效失败而做的 LLM 教学性引导
+- [[wang-safety-gap-productive-struggle-2026]] — 安全差距：恢复生产性挣扎
+- [[rhaimi-productivemath-2025]] — ProductiveMath：支持 PF 问题设计的 AI
+- [[lukesova-clue-before-correction-2026]] — 先给线索再纠正：用于自主语言学习的 ChatGPT
+- [[socratic-nuclear-ai-learning]] — Socrates went Nuclear：比较 AI 在学习中的交互策略
 - [[lftutor-logical-fallacy-education-2026]] — 苏格拉底式提问加批判性论证：四步谬误辅导框架
 
-- [[guardrails-ai-teaching-assistants-programming-2026]] — Guardrails or Roadblocks? Effects of Pedagogical Style and Context Awareness in AI Teaching Assistants for Programming
+- [[guardrails-ai-teaching-assistants-programming-2026]] — 护栏还是路障？编程 AI 教学助手中教学风格与情境意识的影响
 - [[genai-socratic-tutor-biology-argumentation-2026]] — 通过生成式人工智能提升职前生物学教师的 PISA 对齐论证技能
 - [[etq-ai-conversational-teacher-training-2026]] — 以证据为基的对话来诊断教学误解的对话式 AI（Miranda & Calvani 2026）
+- [[socratic-probing-agent-physics-cave-detection-2026]] — 设计一个不做辅导的 AI 智能体：导论物理中苏格拉底式探测的设计规则

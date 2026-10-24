@@ -9,6 +9,7 @@ assessment: [formative-assessment, peer-assessment, ai-feedback-quality]
 audience: [instructors, instructional designers, faculty developers]
 level: [higher ed, k 12]
 confidence: high
+connected_resources: [learning-design-wiki]
 connected_faqs: [designing-ai-into-learning]
 translation_of: concepts/pedagogical-patterns
 source_updated: "2026-10-22T09:11:45-04:00"

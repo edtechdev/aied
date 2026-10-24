@@ -57,19 +57,19 @@ ai_assist:
 - [[educational-robotics]]
 - [[higher-ed]]
 - [[learning-theories]]
-- [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
+- [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education：AI 教育中教学法与教学策略的伞形概念
 - [[virtual-and-augmented-reality]] — 沉浸式练习作为刻意的经验
 
 ## 关联文章
 
 - [[genai-counter-learner-groupthink-2025]]
-- [[workforce-readiness-smart-manufacturing-wrl-2026]] — Workforce Readiness Level framework for smart manufacturing in the AI era
-- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Fostering Sustainable Learning via Embodied Intelligence (E3-HOT)
-- [[genai-cybersecurity-ocr-multimodal-instruction-2025]] — GenAI in Cybersecurity Education
-- [[bots-blocks-project-based-robotics-education-2026]] — Bots and Blocks
+- [[workforce-readiness-smart-manufacturing-wrl-2026]] — Workforce Readiness Level framework for smart manufacturing in the AI era：AI 时代智能制造的劳动力准备度水平框架
+- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Fostering Sustainable Learning via Embodied Intelligence (E3-HOT)：通过具身智能培育可持续学习
+- [[genai-cybersecurity-ocr-multimodal-instruction-2025]] — GenAI in Cybersecurity Education：网络安全教育中的生成式 AI
+- [[bots-blocks-project-based-robotics-education-2026]] — Bots and Blocks：面向项目式机器人教育的机器人与积木
 - [[edusim-llm-robotic-simulation-education-2026]] — EduSim-LLM
-- [[white-wu-robotics-ai-education-2026]] — Robotics and AI in Education
-- [[ai-lms-middle-school-longitudinal]] — AI-Integrated LMS Longitudinal Study
+- [[white-wu-robotics-ai-education-2026]] — Robotics and AI in Education：教育中的机器人与人工智能
+- [[ai-lms-middle-school-longitudinal]] — AI-Integrated LMS Longitudinal Study：AI 整合型 LMS 的纵向研究
 - [[li-ai-science-situated-learning-teachers-2025]]
 - [[ai-personas-fieldwork-experiential-learning-2026]] — AI 角色替代社区田野工作，附一个说明替代在何处失败的五指标评分标准（Elhajj et al. 2026）
 - [[hands-on-learning-necessity-age-of-ai-review-2026]] — 在 AI 支持的设计教育中区分具身动手与认知动手的主题综述（Yu, Liu & Zhu 2026）

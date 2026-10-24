@@ -1,7 +1,7 @@
 ---
 title: 学术诚信
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-09T18:45:12-04:00"
+updated: "2026-10-24T14:46:08-04:00"
 connected_faqs: [writing-instruction-ai-best-practices, should-we-use-ai-detectors, redesign-assessment-ai-era, reduce-ai-cheating, addressing-common-misconceptions-ai-education, course-ai-policy, verify-ai-output, group-work-ai, asynchronous-online-courses-ai]
 type: concept
 foundations: [ai-literacy]
@@ -9,9 +9,9 @@ assessment: [ai-detection, assessment-validity, authentic-assessment]
 level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai, regulation]
-connected_resources: [fpds-apps-and-resources, institutional-ai-readiness-pack, process-feedback, student-guide-to-ai, ai-infused-assignment-playbook]
+connected_resources: [code-viva, fpds-apps-and-resources, institutional-ai-readiness-pack, process-feedback, student-guide-to-ai, ai-infused-assignment-playbook]
 translation_of: concepts/academic-integrity
-source_updated: "2026-10-15T10:00:00-04:00"
+source_updated: "2026-10-18T10:07:01-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -135,6 +135,8 @@ ai_assist:
 学术诚信与 [[assessment-validity]]、[[ai-literacy]]、[[ai-detection]]、[[authentic-assessment]]、[[assessment]]、[[educational-policy-ai]]、[[regulation]]、[[ethics]] 和 [[equity-in-ai-education]] 相连。它是 [[ai-education|教育中的 AI]] 的伦理维度，与 [[cognitive-offloading|过度依赖]]不可分离，也与 [[generative-ai]] 如何重塑 [[higher-ed]] 与 [[k-12]] 学习这一更大问题不可分离。
 
 - **系统性综述综合。** 一项对 25 项研究的 PRISMA 综述（Balalle & Pannilage 2025）发现，AI 既是一种威胁（AI 生成写作、改写工具），又是一种检测工具（Turnitin AI 分数），检测软件对 AI 生成工作并不可靠，机构必须通过清晰政策、考核重新设计与伦理训练来建立学术诚信文化，而非仅靠 policing。([[ssaho-ai-academic-integrity-review-2025]])
+
+**诚信是核心关切，却是罕见的成果。** 在 394 项 GenAI 高等教育研究中，学术诚信与伦理是被最少针对的成果之一（[[mapping-genai-higher-ed-scoping-review|Lin et al.（2026）]]）。
 - **从 policing 到对话：学习验证。** 一项对大峡谷大学全机构框架的实践者记述（[[best-response-student-ai-dialog-2026|Mandernach 2026]]）论证，检测不可靠而正式诚信程序很少达成解决，留给教师的是"无从申诉的怀疑"。GCU 转而采纳**学习验证**——请学生在一场简短对话中展示对其提交工作的理解——把诚信从合规问题重新框定为考核问题。它恢复了教师权威，把学生从"如何不被抓到"移向真正的 [[student-engagement|参与]]，并把 AI 使用视为在学生能展示学习时可接受的；学生最初对验证的焦虑说明，以监控为重的政策会侵蚀 [[trust]]。
 
 - **GenAI 击败了自动评分作业（2026）：** ChatGPT 在刻意加固、可自动评分的 Qiskit（量子计算）作业设计的全部 150 次测试会话中通过——[[personalized-learning|个性化]]、隐藏参考文献、反思、[[simulation|模拟器]]执行——显示基于量表的评分者无法可靠区分 AI 完成与学生完成的工作，并主张直接评估理解（[[chatgpt-qiskit-homework-autogradable-2026]]）。
@@ -156,6 +158,7 @@ ai_assist:
 - **幽灵学生与智能体式 AI 的验证缺口。** [[bozkurt-ghost-students-agentic-ai-2026|Bozkurt、Crompton & Fell Kurban（2026）]]引入了**"幽灵学生"**：一种通过把 LLM（"心智"）与智能体式 AI 浏览器（"身体"）耦合而创造的数字替身，它能导航 LMS、参与内容，并以拟人模仿完成考核，使真实学习者的出席成为可选项。这创造了一个**验证缺口**，传统监考与检测在结构上无法弥合——一种随 AI 变得 [[agentic-ai|智能体式]]而增长的诚信威胁，而非仅仅生成式。
 
 对"重新设计优于检测"最清晰的学科案例来自计算教育。对计算与 [[cs-education|编程教育]]中生成式 AI 的 72 项研究的 [[meta-analysis-systematic-review|系统性综述]]（[[kumar-genai-computing-education-systematic-review-2026|Kumar、Wongsirichot 与 Nanthaamornphong 2026]]）发现，只有**三项**研究考察 AI 检测机制——这是它整合的 14 个主题中最薄的证据基础——而课程与考核重新设计则由 25 项研究支撑。该综述把这种不平衡当作诊断而非偶然：机构基本更新了政策文件，却没有重新设计考核，多数教师处于*容忍*而非*转变*的整合层级，某一国别教师样本中有 70% 明确要求就"抗 AI 考核设计"接受培训。其建议的回应很具体：在每门课程至少一项高利害考核中加入口头成分或其他使过程可见的要素，并把与 AI 产出的批判性互动（阅读、测试、修改、解释、批评）做成学生工作中被计分、可观察的成分，而非留给学生自行裁量的愿景（[[assessment-validity]]）。
+一项对 72 项高等教育评估研究的 PRISMA 综述发现，三种设计回应因 GenAI 反复出现：过程导向、真实性与口头及对话式路径；它们被框定为叠加在既有的效度、真实性与对齐原则之上，而非取代这些原则（[[higher-ed-assessments-genai-systematic-review|Crompton 与 Burke（2026）]]）。
 
 - **编造参考文献已进入已发表的计算教育记录。** [[citation-errors-hallucinations-computing-education-2026|Denny et al.（2026）]]把 ACM 数字图书馆 5,225 篇计算教育论文的 113,588 条参考文献与全部 723,930 篇出版物、15,872,533 条参考文献的语料做了比对，人工核实了 828 条可疑记录，确认 14 篇论文中有 30 条参考文献包含可证实的编造书目信息，全部发表于 2025 或 2026 年。在 SIGCSE Technical Symposium 上，核实数从 2025 年的 3 条升至 2026 年的 17 条，落在 2026 年会议论文的 2.3% 中，而幻觉参考文献在 2025 年出现在五个 SIGCSE 主办或协作的会议上。这个数字只有配上它的配重才完整：被标记的多数参考文献是良性的——229 条是 ACM 元数据不匹配而 PDF 正确，188 条是有效的书目变体——所以会议数字是一个刻意给出的下界。它落在作者身上，而不仅在 [[peer-assessment]] 身上，因为核对参考文献列表的审稿人无法核实每一条，而 [[llm]] 辅助的起草使编造一条看似可信的引用变得廉价。
 

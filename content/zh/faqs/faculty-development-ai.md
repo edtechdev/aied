@@ -1,7 +1,7 @@
 ---
 title: "应当如何为人工智能设计真正改变教学实践的教师发展项目？"
 created: "2026-09-22T19:49:53-04:00"
-updated: "2026-10-09T18:10:00-04:00"
+updated: "2026-10-24T15:35:01-04:00"
 weight: 65
 type: faq
 foundations: [educational-development, teacher-role, tpack, teacher-ai-competency]
@@ -10,7 +10,7 @@ research_method: [survey, case study]
 audience: [faculty developers, administrators]
 level: [higher ed, teacher education, k 12]
 institutions: [change-management]
-source_updated: "2026-10-02T08:21:34-04:00"
+source_updated: "2026-10-21T14:32:00-04:00"
 translation_of: faqs/faculty-development-ai
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
@@ -26,8 +26,6 @@ ai_assist:
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
-
-# 应当如何为人工智能设计真正改变教学实践的教师发展项目？
 
 如果你负责教师发展工作，你承受的压力大概是下面几种之一：教务长希望今年就上一个关于人工智能的项目；出席情况不错，但课堂里什么也没改变；或者最需要它的人根本不会来。这三者指向的是同一个设计失误。真正改变教师实践的，并不是了解一个工具能做什么，而是围绕*他们自己*课程中的某个问题投入有支持、有结构的时间，时间长到足以让新习惯取代旧习惯，并且机构明确表示支持这项实验，而不只是允许它。
 

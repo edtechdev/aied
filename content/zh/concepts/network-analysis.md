@@ -1,13 +1,13 @@
 ---
 title: 网络分析（Network Analysis）
 created: "2026-08-22T01:40:00-04:00"
-updated: "2026-10-09T18:58:17-04:00"
+updated: "2026-10-24T14:59:14-04:00"
 type: concept
 technology: [knowledge-graph, learning-analytics]
 confidence: high
 methods: [network-analysis, research-methods-aied]
 translation_of: concepts/network-analysis
-source_updated: "2026-10-04T10:50:04-04:00"
+source_updated: "2026-10-16T08:47:09-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -36,6 +36,7 @@ ai_assist:
 ## 知识库语料中使用的变体
 
 - **认知网络分析（ENA）** — 知识库中最常见的变体（约 24 篇文章中讨论）。ENA 建模话语或活动片段内编码或构念的共现，产出显示哪些观念、技能或认知行为在给定情境中倾向于相连的网络。它被用于比较不同群体（如高对低素养学习者、人对 AI 协作者）如何结构其认知。([[tracing-genai-literacy-interaction-patterns]]) ([[hao-human-ai-collaborative-problem-solving-cognition]])
+- **ENA 还映射[[teacher-role|教育者]]的能力话语。** 对新西兰（Aotearoa New Zealand）24 名高等教育教育者的访谈应用认知网络分析，建模了七个 HACC 维度之间的联系，发现首席教育者的网络在第一轴上与资深教育者（U = 10.00，p = .04）和早期职业教育者（U = 7.00，p = .01）显著不同（[[dang-human-ai-collaboration-competency-2026|Dang 等（2026）]]）。
 - **社会网络分析（SNA）** — 建模人与人（学习者、教师、智能体）之间的关系，以揭示协作结构、影响、中心性和社群。适用于研究[[collaborative-learning|协作]]与同伴学习。([[misiejuk-cognitive-offloading-prompting-2026]])
 - **转移网络分析（TNA）** — 把离散状态（如辅导会话中的学习者行为）的时间序列建模为有向网络，量化在状态间移动的概率。TNA 被用于揭示学习者—AI 互动中的行为循环、路径与采用动态。([[penny-transition-network-analysis-efl-writing-2026]])
 
@@ -96,3 +97,4 @@ ai_assist:
 - [[youtube-frames-chatgpt-education]] — YouTube 上教育 ChatGPT 框架的 ENA
 - [[agency-gap-ai-writing]] — AI 支持写作中的能动性差距（ENA）
 - [[synthetic-educational-data-structural-fidelity-2026]] — 保真度指标漏掉什么：对合成教育数据的结构性检查
+- [[dang-human-ai-collaboration-competency-2026]] — ENA 还映射教育者的能力话语

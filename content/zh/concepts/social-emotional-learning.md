@@ -118,8 +118,8 @@ SEL 与[[ai-literacy]]相连（作为使 AI 素养关系化、伦理化的补充
 ## 关联文章
 
 - [[sec-ai-literacy-narrative-review-2026]] — 把社会情感能力整合进 AI 素养
-- [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai]] — Mind the Trust Gap: Teacher-Student Views
-- [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]] — The Scaffolded AI literacy (SAIL) framework
+- [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai]] — Mind the Trust Gap: Teacher-Student Views：留意信任鸿沟：教师与学生的看法
+- [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]] — The Scaffolded AI literacy (SAIL) framework：支架式 AI 素养（SAIL）框架
 - [[teacher-education-ai-literacy-sdt-2026]] — 面向 AI 素养的教师教育（SDT）
 - [[student-dependency-on-ai-literacy-self-efficacy-2026]] — 学生对 AI 的依赖、自我效能与资源管理
 - [[self-efficacy-tutoring-learning]] — 自我效能与偏好在辅导学习中塑造结果

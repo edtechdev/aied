@@ -1,7 +1,7 @@
 ---
 title: 求助行为（Help-Seeking）
 created: "2026-08-06T10:20:04-04:00"
-updated: "2026-10-09T18:58:17-04:00"
+updated: "2026-10-24T14:53:17-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [help-seeking, metacognition, scaffolding, self-regulated-learning]
@@ -11,7 +11,7 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/help-seeking
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-24T08:52:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -85,10 +85,14 @@ ai_assist:
 
 - **延迟提示可用性** — 要求先满足最低投入时间或解题尝试次数，提示（尤其是最终提示）才可访问。([[lak2026-hint-button-unproductive-use]])
 - **从*是否*转向*如何*** — 关键的设计问题是如何组织与建设性挫折原则相一致的提示交付，而非是否提供提示。([[lak2026-hint-button-unproductive-use]])
+- **信息长度是交付研究真正测量过的杠杆。** 在一门真实的编程课程中，在 14,809 个学生练习对上（标准差 204.9 字符），更长的 LLM 提示预示着更差的下次提交正确率、更多剩余尝试与更慢的重交（[[mihaylova-llm-feedback-live-programming-course-2026|Mihaylova 等，2026]]）。可读性几乎没有改变任何结果，因此数量比难度更重要。
+- **同一课程部分上的先前提示与整合步骤上更低的成功率相关。** 在项目较早步骤中获得反馈的学生有 95.6% 解决了最终步骤，而没有获得反馈者为 98.1%，对数几率系数为 −1.096（[[mihaylova-llm-feedback-live-programming-course-2026|Mihaylova 等，2026]]）。作者并不把这解读为损害，因为寻求提示的学生很可能本来就是会在那里挣扎的人，而这正是本页提出的[[self-regulated-learning|监控]]问题。
 
 ### LLM 导师的采用问题
 
 现实中的学生经常**绕过[[conversational-ai|聊天机器人]]的[[scaffolding]]**——未必有害，但往往是因为聊天机器人的教学框架与学生自身的学习目标不匹配。因此评估流程必须测量的不只是导师是否提供脚手架，还包括学生是否*接受*了这些脚手架，而不能假定他们会接受。([[rethinking-scaffolding-llm-tutors]])
+
+- **可选的帮助按钮无人点击。** 在三个五年级课堂中，学生很少召唤一个设计者刻意留作可选以保护能动性的助手代理，而是转而呼叫教师，而该代理本为消除的困惑依旧存在（[[humburg-scistory-ai-supported-inquiry-science-learning-games-2025|Humburg 等，2025]]）。
 
 ## 求助行为与自我调节学习
 
@@ -135,6 +139,9 @@ ai_assist:
 - [[student-support-and-success]] — 机构外联与支持分配，超越课程内的求助
 
 ## 关联文章
+
+- [[mihaylova-llm-feedback-live-programming-course-2026]] — 在真实编程课程中，以提示长度对照下次提交正确率、尝试次数与用时
+- [[humburg-scistory-ai-supported-inquiry-science-learning-games-2025]] — 一个没人索要的助手代理（Humburg et al. 2025）
 
 - [[penquiry-pen-based-llm-qa-2026]] — Penquiry：基于笔的交互式原位问答系统，利用 LLM
 - [[tutortrace-learner-behavioral-states-2026]]

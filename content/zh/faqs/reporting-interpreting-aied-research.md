@@ -1,7 +1,7 @@
 ---
 title: "在人工智能教育研究中，报告与解读研究结果的最佳实践是什么？"
 created: "2026-09-22T19:49:15-04:00"
-updated: "2026-10-09T18:10:00-04:00"
+updated: "2026-10-24T15:45:50-04:00"
 weight: 65
 type: faq
 foundations: [limitations-in-aied-research, interpreting-and-applying-aied-research]
@@ -11,7 +11,7 @@ research_method: [literature review]
 audience: [researchers]
 page_kind: [evaluation]
 methods: [ai-ed-evaluation, benchmark, meta-analysis-systematic-review, research-methods-aied]
-source_updated: "2026-10-02T08:21:34-04:00"
+source_updated: "2026-10-21T14:32:00-04:00"
 translation_of: faqs/reporting-interpreting-aied-research
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
@@ -27,8 +27,6 @@ ai_assist:
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
-
-# 在人工智能教育研究中，报告与解读研究结果的最佳实践是什么？
 
 你正在撰写一项人工智能教育研究，而它的主张已经跑在了设计前面；或者你正在评审这样一项研究，需要判断那个标题数字到底有没有意义。无论哪种情况，决定性的都是同样六处遗漏：实际使用的是哪个人工智能系统、它被配置成做什么、它扮演了什么教学角色、输出是否由人设计或审核、结果测量真正捕捉到了什么，以及作者如何处理偏差、成本与局限。遗漏这些内容的作者交出的是一项无法被评估的研究；不去寻找这些内容的评审者，则无法分辨一项经过设计的干预与一次改头换面的工具演示。当这些内容缺失时，诚实的结论是“无法评估”，而不是“得到支持”，也不是“被否定”。
 

@@ -1,7 +1,7 @@
 ---
 title: "家长和教师应当如何对待 13 岁以下儿童使用人工智能？"
 created: "2026-09-22T19:42:07-04:00"
-updated: "2026-10-09T18:10:00-04:00"
+updated: "2026-10-24T15:35:34-04:00"
 weight: 75
 type: faq
 foundations: [ai-literacy]
@@ -12,7 +12,7 @@ research_method: [literature review, experiment]
 audience: [instructors, administrators, policymakers, parents and families]
 level: [preschool, primary education, k 12]
 institutions: [educational-policy-ai, governance, regulation]
-source_updated: "2026-10-02T08:21:34-04:00"
+source_updated: "2026-10-21T14:32:00-04:00"
 translation_of: faqs/ai-guidance-children-under-13
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
@@ -28,8 +28,6 @@ ai_assist:
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
-
-# 家长和教师应当如何对待 13 岁以下儿童使用人工智能？
 
 人工智能已经进入你的家里或教室里：会回话的玩具、平板里的伙伴、孩子趁你做晚饭时打开的辅导工具、同事热情推荐的写作工具。无论有没有政策，你都在决定十三岁以下的孩子可以用它做什么。
 

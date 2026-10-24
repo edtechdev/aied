@@ -33,6 +33,8 @@ ai_assist:
 
 混合方法设计把定量方法的广度、精确与因果力，与定性方法的深度、情境与意义整合起来。其价值主张是**三角互证**：当独立脉络收敛于同一结论时，信心增加；当它们分歧时，这一差异本身便是有信息量的。
 
+在 394 项 GenAI 高等教育研究中，混合方法是最常见的研究设计（213 项，54%），其后是定量（109，28%）与定性（72，18%）研究（[[mapping-genai-higher-ed-scoping-review|Lin 等（2026）]]）。
+
 ## 常见设计模式
 
 - **序贯解释式（QUAN → qual）。**先收集定量数据，再用定性数据解释或情境化出人意料或显著的定量发现。[[genai-over-reliance-learning-2026|一项关于 GenAI 与可持续学习的混合方法研究]]把三波调查与教育者访谈配对，以解释从增强到过度依赖的定量模式。
@@ -65,6 +67,8 @@ ai_assist:
 
 - **一项限界推断的聚类限制。****[[human-ai-collaboration-academic-writing-2026|Alshehri 等（2026）]]**指派两个完整班级（n = 31，n = 22），因此只有两个聚类时，所报告的 t 检验忽略了类内嵌套，而多层模型不可估计，使显著性检验对该设计能支撑的东西过于乐观。
 
+- **工具选择可以反转一条计算脉络。**VADER 与一个微调后的 RoBERTa 对同一篇帖子给出了相反的情感价（VADER 下为 0.9413 的强正面，RoBERTa 下为 −0.9209），因此一个语料库的定量解读可以取决于使用哪个分类器（[[bluesky-aied-discourse-social-media-analysis-2026|Geraili Meykola 等，2026]]）。
+
 ## 与更广的方法图景的关系
 
 混合方法居于[[quantitative-research|定量]]与[[qualitative-research|定性]]传统之间，借鉴两者的优势，同时增加了有意整合的设计纪律。它是对“AI 教育现象既有效应又富含意义”这一认识的方法论回应 —— 而该领域在广度与深度结合时前进最快（参见[[research-methods-aied|AIED 研究方法]]）。它连接到[[educational-measurement|教育测量]]（定量工具）、[[theory-development-aied|AIED 理论发展]]（定性理论建构）与[[ai-ed-evaluation|AIED 评价]]（整合结果与经验证据）。
@@ -82,11 +86,12 @@ ai_assist:
 
 ## 关联文章
 
-- [[genai-over-reliance-learning-2026]] — From enhancement to over-reliance (surveys + interviews)
-- [[t2i-competence-paradox-2026]] — The competence paradox (focus groups + survey + interviews)
-- [[fouad-bentley-trust-utility-gap-physics-2026]] — Trust–utility gap (survey + interviews)
+- [[genai-over-reliance-learning-2026]] — 从增强到过度依赖（问卷 + 访谈）
+- [[t2i-competence-paradox-2026]] — 胜任力悖论（焦点小组 + 问卷 + 访谈）
+- [[fouad-bentley-trust-utility-gap-physics-2026]] — 信任-效用差距（问卷 + 访谈）
 - [[same-ai-different-pathways]] — 跨情境下 AI 中介学习的机制
-- [[genai-feedback-design-multisite-experiment]] — Human-centered GenAI feedback design (multisite)
+- [[genai-feedback-design-multisite-experiment]] — 以人为中心的 GenAI 反馈设计（多站点）
 - [[hazra-safetutors-pedagogical-safety-2026]] — AI 导学安全与教学伤害
 - [[becker-chatgpt-typology-physics-2026]] — 物理中 ChatGPT 采纳的定性分类学
-- [[edtech-privacy-deferral-2026]] — "We'll Fix It Later": Education, AI, and the Deferral of Student Privacy in EdTech
+- [[edtech-privacy-deferral-2026]] — 《We'll Fix It Later》：教育、AI 与 EdTech 中学生隐私的延迟
+- [[bluesky-aied-discourse-social-media-analysis-2026]] — VADER 与一个微调后的 RoBERTa 对同一篇 Bluesky 帖子给出了相反的情感价（Geraili Meykola 等，2026）

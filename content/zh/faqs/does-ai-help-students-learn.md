@@ -1,14 +1,15 @@
 ---
 title: "使用人工智能真的能帮助我的学生学习吗？"
 created: "2026-09-22T19:41:09-04:00"
-updated: "2026-10-09T18:10:00-04:00"
+updated: "2026-10-24T15:35:01-04:00"
 weight: 90
+audience: [instructors]
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [active-learning]
 assessment: [assessment, self-report-measures]
 page_kind: [evaluation]
 methods: [ai-ed-evaluation]
-source_updated: "2026-10-02T08:21:34-04:00"
+source_updated: "2026-10-21T14:32:00-04:00"
 translation_of: faqs/does-ai-help-students-learn
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
@@ -24,8 +25,6 @@ ai_assist:
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
-
-# 使用人工智能真的能帮助我的学生学习吗？
 
 **是的，可以，但用人工智能产出更好的作业，并不必然意味着学习更好。** 研究记录了真实的学习收益、可忽略不计的效果，以及学习上的损害。重要的问题不只是学生是否使用人工智能，而是**人工智能帮助他们做了什么、哪些思考仍由他们负责，以及他们事后能够做什么**。
 

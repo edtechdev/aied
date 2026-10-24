@@ -1,7 +1,7 @@
 ---
 title: 成人学习者
 created: "2026-08-06T10:43:53-04:00"
-updated: "2026-10-09T18:58:10-04:00"
+updated: "2026-10-24T14:45:19-04:00"
 type: concept
 foundations: [ai-education, learning-design]
 pedagogy: [professional-training]
@@ -11,7 +11,7 @@ confidence: medium
 methods: [usability-research]
 technology: [edtech-platform]
 translation_of: concepts/adult-learning
-source_updated: "2026-09-30T08:39:04-04:00"
+source_updated: "2026-10-16T19:47:08-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -52,6 +52,7 @@ ai_assist:
 
 - **把 AI 设计为自我导向的支架，而非替代品。** 行为上不依赖工具并不能证明学习者主导了学习——要保护目标所有权、委托控制与认知可恢复性（[[andragogy-cognitive-delegation-genai-2026|成人教育 + 认知委托]]）。
 - **融入繁忙的成人生活。** 让工具异步、可移动、可离线，并把内容连接到真实世界问题（[[ai-adult-learning-guidelines-dis2026|AI-ALOE 指南]]）。
+- **面向不同程度的参与度而设计，而非假定深度。** 在职成人要在工作、家庭与课业之间分配有限的认知资源，因此一项为期六学期的框架让苏格拉底式 AI 对话比快速路线更有回报，而非强制要求（[[packard-thinking-partner-framework-adult-learners-2026|Packard 等（2026）]]）。
 - **让人类留在环中。** 把教育者定位为关系性与认知关怀的中心，尤其对边缘化与 [[neurodiversity|神经多样]]的成人学习者（[[sovereign-hive-titl-further-education-2026|Tutor-in-the-Loop]]）。
 - **解决基础数字素养与数据信任问题。** 在期待采纳之前，先建立 [[ai-literacy]] 与围绕数据隐私的 [[trust]]（[[community-centered-ai-education-adults|社区 AI 教育]]）。
 - **以学习科学与成人教育为基础，并偏好深度个性化。** 运用成人教育理论并把内容连接到真实世界问题；偏好深度个性化（任务排序、难度校准）而非表层适配。
@@ -89,15 +90,16 @@ ai_assist:
 ## 关联文章
 
 - [[ai-adult-learning-guidelines-dis2026]] — 设计支持成人学习的 AI 技术指南
-- [[andragogy-cognitive-delegation-genai-2026]] — What Remains Self-Directed? Revisiting Andragogy Through Cognitive Delegation in Generative AI-Mediated Adult Learning
+- [[andragogy-cognitive-delegation-genai-2026]] — 什么仍是自我导向的？在生成式 AI 中介的成人学习中通过认知委托重审成人教育
 - [[ai-lifelong-learning-policy]] — 终身学习中的 AI：成人教育政策中的机遇与挑战
-- [[sovereign-hive-titl-further-education-2026]] — The Sovereign Hive and the Tutor-in-the-Loop (TITL) Framework for Equity in Further Education
-- [[community-centered-ai-education-adults]] — Co-Designing Community-Centered AI Education for Adults: A Midwestern Case Study
-- [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of]] — New Systems of Learning for Distance Learning Institutions? A Six-Study Review of Implementing AIDA
-- [[institutional-governance-ai-universities]] — Policy Fragmentation or Institutional Alignment? Institutional Governance of AI in Universities and Business Schools
-- [[generative-ai-enhanced-learning-experiences-for-computational-thinking-a-systema]] — Generative AI-enhanced learning experiences for computational thinking: A systematic scoping review and design guidelines
-- [[ai-assisted-se-curriculum-syllabus-analysis-2026]] — Mapping the Emerging Curriculum for AI-Assisted Software Engineering via Syllabus Analysis
-- [[learner-ai-interaction-patterns-oop]] — Patterns of Learner-AI Interaction and Academic Performance in an Object-Oriented Programming Course
+- [[sovereign-hive-titl-further-education-2026]] — Sovereign Hive 与 Tutor-in-the-Loop（TITL）框架：面向继续教育公平的氛围调节
+- [[community-centered-ai-education-adults]] — 共同设计面向成人的以共同体为中心的 AI 教育：一个美国中西部案例研究
+- [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of]] — 远程学习机构需要新的学习系统吗？实施 AIDA 的六项研究综述
+- [[institutional-governance-ai-universities]] — 政策碎片化还是机构一致性？大学与商学院中 AI 的机构治理
+- [[generative-ai-enhanced-learning-experiences-for-computational-thinking-a-systema]] — 面向计算思维的生成式 AI 增强学习体验：系统范围综述与设计指南
+- [[ai-assisted-se-curriculum-syllabus-analysis-2026]] — 通过教学大纲分析绘制 AI 辅助软件工程的涌现课程
+- [[learner-ai-interaction-patterns-oop]] — 面向对象编程课程中学习者—AI 交互模式与学业表现
 - [[dot-framework-survey-2026]]
 - [[kim-ai-productive-failure-adult-2026]] — 设计支持生产性失败式学习的 AI 系统
 - [[kim-ai-andragogy-2026]] — AI Applications in Supporting Andragogy（Kim 等，2026）
+- [[packard-thinking-partner-framework-adult-learners-2026]] — 面向不同程度的参与度而设计：让深度的苏格拉底式对话成为更有回报的路径

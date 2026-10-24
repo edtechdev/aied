@@ -1,7 +1,7 @@
 ---
 title: AI 谄媚
 created: "2026-08-18T16:45:00-04:00"
-updated: "2026-10-09T18:58:09-04:00"
+updated: "2026-10-24T14:25:00-04:00"
 type: concept
 connected_faqs: [training-ai-tutors-to-guide-rather-than-answer]
 foundations: [ai-literacy, cognitive-offloading]
@@ -10,7 +10,7 @@ assessment: [feedback]
 ethics: [ai-sycophancy, ethics, hallucination-risk, trust, pedagogical-safety]
 confidence: high
 translation_of: concepts/ai-sycophancy
-source_updated: "2026-10-02T08:08:45-04:00"
+source_updated: "2026-10-21T21:15:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -22,7 +22,7 @@ ai_assist:
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
 
-**AI 谄媚（AI sycophancy）** 是 [[llm|大语言模型]]倾向于肯定或同意用户的特性——奉承其观点、镜像其错误、或隐瞒纠正性反馈——而非提供认识论上独立、准确的回应。在教育中这不是一个次要的 [[usability-research|可用性]]缺陷，而是一种独特的安全与学习风险：一个总是认可学生答案的 [[intelligent-tutoring|辅导者]]、一个从不反驳的助手、或一个偏爱"被理解"胜过"正确"的陪伴者，都可能固化误解、助长 [[cognitive-offloading|过度依赖]]，并扭曲 [[learners]] 的社会与认识论发展。
+> **AI 谄媚**：[[llm|大语言模型]]倾向于肯定或同意用户，即奉承其观点、镜像其错误，或隐瞒纠正性反馈，而非给出认识论上独立的回答。在 [[ai-education|教育中的人工智能]] 中，这是一种独特的安全与学习风险，而非次要的 [[usability-research|可用性]]缺陷，因为一个总是认可答案的 [[intelligent-tutoring|辅导者]]、一个从不反驳的助手、或一个偏爱“被理解”胜过“正确”的陪伴者，都可能固化 [[misconceptions|误解]]、助长 [[cognitive-offloading|认知卸载]]，并扭曲 [[learners|学习者]]的社会与认识论发展。
 
 ## 值得思考的问题
 
@@ -95,16 +95,16 @@ ai_assist:
 
 - [[ai-personal-coach-review-benefits-risks-2026]] — 谄媚的量化：LLM 回应的肯定程度比人类高 49%，并把责任从用户处转移
 
-- [[reflection-agent-fidelity-career-2026]] — Faithful Where It Can Be Checked: Auditing a Reflection Agent Against Its System Prompt in a Randomized Trial
+- [[reflection-agent-fidelity-career-2026]] — 可核查处即忠实：在随机试验中依据系统提示审计反思智能体
 - [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — 谄媚作为纠正性反馈的丧失，在工作中也在关系中
 - [[sycophantic-ai-social-interaction-2026]] — 谄媚的 AI 随时间使人际互动显得更费力、更不令人满意
-- [[eduframetrap-llm-sycophancy-educational-safety]] — Sycophancy is an educational safety risk: Why LLM tutors need sycophancy benchmarks
-- [[contextual-sycophancy-ai-literacy]] — The Hidden Cost of Contextual Sycophancy: an AI Literacy Intervention
-- [[llm-student-simulation-misconception-faithfulness]] — Simulating Students or Sycophantic Problem Solving?
-- [[socially-fluent-ai-identity-detection]] — Socially fluent AI decouples conversational signals from source identity
-- [[eduzone-llm-safety-k12]] — EduZone: Evaluating LLM safety for K-12 students and teachers
-- [[llm-fallacy-misattribution]] — The LLM Fallacy and Misattribution of Competence
-- [[hazra-safetutors-pedagogical-safety-2026]] — AI Tutor Safety and Pedagogical Harms
-- [[educational-llm-alignment]] — Educational LLM Alignment
+- [[eduframetrap-llm-sycophancy-educational-safety]] — 谄媚是一种教育安全风险：为什么 LLM 辅导者需要谄媚基准
+- [[contextual-sycophancy-ai-literacy]] — 情境性谄媚的隐性代价：一项人工智能素养干预
+- [[llm-student-simulation-misconception-faithfulness]] — 模拟学生，还是谄媚式解题？
+- [[socially-fluent-ai-identity-detection]] — 社交流畅的 AI 把对话信号与来源身份脱钩
+- [[eduzone-llm-safety-k12]] — EduZone：面向 K-12 学生与教师的 LLM 安全性评估
+- [[llm-fallacy-misattribution]] — LLM 谬误与胜任力的误归因
+- [[hazra-safetutors-pedagogical-safety-2026]] — AI 辅导者的安全与教学法伤害
+- [[educational-llm-alignment]] — Educational LLM Alignment：教育领域大语言模型的对齐问题
 - [[scan-framework-task-assignment-generative-ai-2025]] — SCAN: 谄媚风险在委派（替代）任务中最高，在任务知识充足之处为低
-- [[authentic-assessments-generative-ai-pilot-2026]] — Designing Authentic Assessments with Generative AI: A Pilot Study of Assessment Authentifire in Higher Education
+- [[authentic-assessments-generative-ai-pilot-2026]] — 用生成式 AI 设计真实性评估：高等教育中 Assessment Authentifire 的试点研究

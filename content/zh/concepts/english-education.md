@@ -1,7 +1,7 @@
 ---
 title: 英语教育（EAP / EFL / ESL）
 created: "2026-08-21T12:30:00-04:00"
-updated: "2026-10-09T19:06:59-04:00"
+updated: "2026-10-24T14:52:29-04:00"
 type: concept
 foundations: [academic-integrity]
 technology: [generative-ai]
@@ -10,8 +10,9 @@ ethics: [equity-in-ai-education]
 discipline: [english education, language learning, writing education]
 level: [higher ed, k 12]
 confidence: high
+connected_resources: [teacher-dev]
 translation_of: concepts/english-education
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-21T12:05:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -83,6 +84,8 @@ ai_assist:
 
 AI 的英语主导性是这条支线的定义性特征。因为模型在英语中、尤其在标准学术英语中最强，英语教育既受益超常（强大的 EAP 支架），也承担独特风险（单语偏见、对世界英语和多语写作者的歧视）。这里的研究连接到[[equity-in-ai-education|公平]]、[[bias-mitigation|偏见缓解]]、[[automated-assessment|自动评估]]、[[ai-feedback-quality|AI 反馈质量]]和[[academic-integrity|学术诚信]]。
 
+一项基于 Scopus 的 54 项 EFL 研究综合，把该领域被报告最多的[[limitations-in-aied-research|局限]]定位在学习者自主性上：27 项研究（50%）中存在[[cognitive-offloading|对 AI 的过度依赖]]，25 项（46%）中[[critical-thinking|批判性思维]]下降，而不可靠的 AI 生成输出在 22 项（41%）中是首要的技术问题（[[ai-limitations-efl-higher-education-review-2026|Espinoza-Celi & Vargas-Saritama（2026）]]）。
+
 ## 对英语 / EAP / EFL-ESL 教师的启示
 
 - **刻意利用 AI 在学术英语上的强项。**因为模型在英语和标准学术英语中最强，EAP 教师可以把 AI 用于基于体裁的写作、阅读材料分层（[[genai-differentiated-eap-reading-materials-2026|EAP 材料]]）和修改反馈——但应把 AI 框定为起草/反馈伙伴，而非答案引擎。
@@ -113,22 +116,22 @@ AI 的英语主导性是这条支线的定义性特征。因为模型在英语�
 
 ## 关联文章
 
-- [[alharbi-ethical-genai-eap-2026]] — Ethical Generative AI Integration in EAP within Higher Education
-- [[feedback-literacy-scripts-eap-writing]] — Feedback Literacy Scripts and a Second-Rater Mechanism in GenAI EAP Writing Revision
-- [[genai-differentiated-eap-reading-materials-2026]] — From Unified to Differentiated Materials: GenAI-Supported Adaptation of EAP Reading Materials
-- [[tact-pedagogically-adaptive-esl-tutoring]] — TACT: Taxonomy-Aligned Post-Training for Pedagogically Adaptive English Tutoring
-- [[sutama-chatgpt-eportfolio-speaking-2026]] — Aligning ChatGPT with E-Portfolio Assessment as EFL Learning Model
-- [[irwin-muller-efl-peer-feedback-literacy]] — Positioning Generative AI in EFL Peer Feedback
-- [[ai-vs-human-assessment-efl-tpck-2026]] — AI-Generated versus Human-Developed Assessment Tasks in EFL Context
-- [[acceptance-ai-english-tools-2026]] — Acceptance of AI-Assisted English Language Learning Tools in Higher Education
-- [[ai-tools-arab-english-classrooms]] — AI tools in Arab University English classrooms
-- [[self-referential-l2-writing-llm-assessment]] — Toward Self-Referential Analytic Assessment: A Profile-Based Approach to L2 Writing Evaluation with LLMs
-- [[ai-interlocutor-l2-spoken-dialogue]] — What Changes When the Interlocutor Is an AI? L2 Spoken Dialogue
-- [[genai-linguistic-diversity-academic-writing]] — Generative AI and Linguistic Diversity in Academic Writing and Publishing
-- [[governing-unseen-ai-literacy-language-teachers-2026]] — Governing the Unseen: AI Literacy among Language Teachers
-- [[structural-silence-underrepresented-language-ai-2026]] — Structural Silence: Underrepresented Languages in AI Infrastructure
-- [[liu-emerging-tech-tefl-review-2026]] — Emerging technologies for TEFL
-- [[wang-goal-setting-ai-engagement-2026]] — Goal-setting theory: teacher support, achievement goals, and engagement in AI-assisted English learning (758 Chinese students)
-- [[bird-multimodal-educational-literature-2026]] — Multimodal fusion for classifying educational literature
-- [[li-language-educators-genai-review-2026]] — Language educators' practices and development with GenAI
-- [[zhao-ji-appraisal-human-ai-revisions-2026]] — Peer and AI revisions of EFL argumentative essays differ in dialogic positioning (Zhao & Ji 2026)
+- [[alharbi-ethical-genai-eap-2026]] — EAP 高等教育中的伦理生成式 AI 整合
+- [[feedback-literacy-scripts-eap-writing]] — 反馈素养脚本与第二评分者机制：生成式 AI 的 EAP 写作修改
+- [[genai-differentiated-eap-reading-materials-2026]] — 从统一材料到分层材料：生成式 AI 支持的 EAP 阅读材料改编
+- [[tact-pedagogically-adaptive-esl-tutoring]] — TACT：面向教学适应性英语辅导的分类对齐后训练
+- [[sutama-chatgpt-eportfolio-speaking-2026]] — 将 ChatGPT 与电子档案袋评估对齐作为 EFL 学习模型
+- [[irwin-muller-efl-peer-feedback-literacy]] — 在 EFL 同伴反馈中定位生成式 AI
+- [[ai-vs-human-assessment-efl-tpck-2026]] — EFL 语境中 AI 生成与人类开发的评估任务之比
+- [[acceptance-ai-english-tools-2026]] — 高等教育中 AI 辅助英语学习工具的接受度
+- [[ai-tools-arab-english-classrooms]] — 阿拉伯大学英语课堂中的 AI 工具
+- [[self-referential-l2-writing-llm-assessment]] — 走向自参照分析性评估：基于画像的 L2 写作评估方法（使用 LLM）
+- [[ai-interlocutor-l2-spoken-dialogue]] — 当对话者是 AI 时会发生什么变化？L2 口语对话
+- [[genai-linguistic-diversity-academic-writing]] — 生成式 AI 与学术写作和出版中的语言多样性
+- [[governing-unseen-ai-literacy-language-teachers-2026]] — 治理看不见之物：语言教师中的 AI 素养
+- [[structural-silence-underrepresented-language-ai-2026]] — AI 基础设施中代表性不足的语言
+- [[liu-emerging-tech-tefl-review-2026]] — TEFL 中的新兴技术
+- [[bird-multimodal-educational-literature-2026]] — 用于教育文献分类的多模态融合
+- [[li-language-educators-genai-review-2026]] — 语言教师在 GenAI 下的实践与发展
+- [[zhao-ji-appraisal-human-ai-revisions-2026]] — 同伴与 AI 对 EFL 议论文的修改在对话定位上不同（Zhao & Ji 2026）
+- [[ai-limitations-efl-higher-education-review-2026]] — 对 AI 的过度依赖（54 项研究中的 50%）与批判性思维的下降主导了所报告的局限

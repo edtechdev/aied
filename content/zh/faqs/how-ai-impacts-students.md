@@ -1,13 +1,13 @@
 ---
 title: "人工智能正在如何影响学生？"
 created: "2026-09-22T19:45:33-04:00"
-updated: "2026-10-09T18:10:00-04:00"
+updated: "2026-10-24T15:45:50-04:00"
 weight: 82
 foundations: [ai-literacy, cognitive-offloading, learner-identity]
 pedagogy: [well-being]
 ethics: [equity-in-ai-education]
 audience: [learners]
-source_updated: "2026-10-02T08:21:34-04:00"
+source_updated: "2026-10-21T14:32:00-04:00"
 translation_of: faqs/how-ai-impacts-students
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
@@ -23,8 +23,6 @@ ai_assist:
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
-
-# 人工智能正在如何影响学生？
 
 **人工智能对学生的影响既有正面的，也有负面的，而且通常是同时发生的。** 同一件工具在为学生的学习提供脚手架的同时，也可能诱导过度依赖；在提升动机的同时，也可能侵蚀能动性；在支持归属感的同时，也可能威胁作者身份。关于[[student-experience|学生体验]]的研究指出，在多个维度上反复出现正面与负面的影响，而影响的方向在很大程度上取决于人工智能如何被设计，以及学生如何使用它。
 

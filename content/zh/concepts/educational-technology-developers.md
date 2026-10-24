@@ -2,7 +2,7 @@
 connected_resources: [playlab]
 title: "教育技术开发者"
 created: "2026-09-17T15:20:00-04:00"
-updated: "2026-10-09T19:07:00-04:00"
+updated: "2026-10-24T14:16:08-04:00"
 type: concept
 foundations: [educational-development, learning-design]
 technology: [learning-analytics, edtech-platform, open-source]
@@ -10,8 +10,9 @@ audience: [instructional designers, software developers, learning analytics desi
 page_kind: [evaluation]
 confidence: high
 methods: [design-based-research]
+reviewed_by: [editor]
 translation_of: concepts/educational-technology-developers
-source_updated: "2026-09-17T15:20:00-04:00"
+source_updated: "2026-10-16T06:45:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -61,6 +62,8 @@ ai_assist:
 
 **解释必须说教师的语言。** [[xai-teachers-trust-edtech-recommendations-2026]] 对 41 名化学教师做了一项被试内实验，使用一个 ML 推荐工具：可理解性、[[trust]] 与接受度正相关，而用课程语言书写的领域驱动解释，其可理解性、习得 [[trust-calibration|trust]] 与接受度都显著高于特征重要性解释。信任也是动态的——数位教师表示，只有课堂经验才能让它定论——而接受度取决于教学对齐与工作量削减。
 
+**可信度线索不是正确性的证据。** 在一个[[agentic-ai|多智能体]]辩论中加入引用与权威信号，把放弃正确判断转而采纳 AI 立场的比例从 15.0% 抬高到 31.8%，因此来源必须在使用的时点可被核查（[[tuo-armada-multi-agent-debate-overreliance-2026|Tuo 等，2026]]）。
+
 **机构规模的共同设计。** 开放大学的 [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of|AIDA]] 通过 18 个月内六项设计型研究构建，涉及 498 名学生与 20 名员工。约 20% 起初持怀疑态度；在动手使用之后，96% 希望保留它，而一项探索性 RCT 发现使用时长翻倍，但学习过程数据上没有显著差异。使能因素是组织性的——高层赞助、跨单位协作、数据驱动的迭代——并伴随系统思维能力上的缺口。
 
 ### 采购、开放性与资金停止之后
@@ -107,3 +110,4 @@ ai_assist:
 - [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of]]
 - [[vocabulary-difficulty-prediction]]
 - [[shen-sustainable-ai-knowledge-base-cs-education-2026]]
+- [[tuo-armada-multi-agent-debate-overreliance-2026]] — 可信度线索抬高了对不正确 AI 建议的顺从；在使用时点核查来源

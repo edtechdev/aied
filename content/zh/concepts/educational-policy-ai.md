@@ -1,7 +1,7 @@
 ---
 title: 教育人工智能政策
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-09T18:39:20-04:00"
+updated: "2026-10-24T14:49:10-04:00"
 type: concept
 foundations: [academic-integrity, educational-development]
 ethics: [equity-in-ai-education, ethics]
@@ -10,9 +10,9 @@ audience: [administrators, instructors, faculty developers]
 level: [higher ed, k 12]
 confidence: high
 institutions: [governance, regulation]
-connected_resources: [campus-ai-framework, institutional-ai-readiness-pack]
+connected_resources: [campus-ai-framework, institutional-ai-readiness-pack, campus-ai-development]
 translation_of: concepts/educational-policy-ai
-source_updated: "2026-10-09T09:50:00-04:00"
+source_updated: "2026-10-23T09:20:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -48,13 +48,17 @@ ai_assist:
 
 ### 政策成熟度差距
 
-本知识库记录到，机构的 AI 政策[[genai-policies-higher-ed-computing|落后于实际的 AI 使用]]。[[educational-development|教育发展]]项目、[[teacher-ai-competency|教师 AI 胜任力]]框架与[[regulation|监管]]都需要连贯的政策基础。大规模实地证据[[stromberg-generative-ai-learning-penalty-secondary-2026|（Strömberg、Lei 与 Wu，2026）]]表明，作业外包带来的学习损失基本未被察觉，因为个体学科教师和学生很少把下滑与 AI 使用联系起来 —— 这是一个可由循证政策（例如提高闭卷评价权重、告知学生长期代价、监控投入而非产出）加以应对的差距。
+本知识库记录到，机构的 AI 政策[[genai-policies-higher-ed-computing|落后于实际的 AI 使用]]。[[educational-development|教育发展]]项目、[[teacher-ai-competency|教师 AI 胜任力]]框架与[[regulation|监管]]都需要连贯的政策基础。大规模实地证据[[stromberg-generative-ai-learning-penalty-secondary-2026|（Strömberg、Lei 与 Wu，2026）]]表明，作业外包带来的学习损失基本未被察觉，因为个体学科教师和学生很少把下滑与 AI 使用联系起来 —— 这是一个可由循证政策（例如提高闭卷评价权重、告知学生长期代价、监控投入而非产出）加以应对的差距。一项针对四个国家 36 所大学 GenAI 政策的方面级情感分析发现，教学类陈述被正面框定，而 GenAI 与伦理类陈述被负面框定，国家效应不显著，即框定跟随的是政策维度，而非国家体系（[[sun-governing-genai-policy-cross-national-2026|Sun 等（2026）]]）。
+
+对执行这些规则的人来说，这种不一致并非学术问题：十五名 sessional 教师报告称，学生无法遵守在不同单元之间相互冲突的规则，而在缺乏更清晰指引的情况下，连使用普遍程度都无法估计（[[sessional-academics-contract-cheating-digital-misconduct-2026|Andriamora 与 Andriamora，2026]]）。
 
 在共识已形成以填补该差距之处，**[[crompton-governing-genai-higher-ed-delphi-2026|Crompton 等（2026）]]**横跨 22 个国家的 35 位专家德尔菲研究，收敛于八个治理领域 —— 以学术诚信为核心锚点 —— 外加一个六部分的审查机制（常设 GenAI 委员会、定期政策审查、专业发展、沟通、影响评价、监测），以使政策保持时效。
 
 **国家层面的 AI 准备度并不预测机构政策的强度。****[[adarkwah-genai-unesco-policy-2026|Adarkwah 等（2026）]]**依照联合国教科文组织的八成分 GenAI 框架，为来自十个高 AIPI 国家的 26 所大学打分，发现北欧与新西兰的机构覆盖得比排名更高的同行更完整，而包容、公平与可持续性是被忽视得最多的元素。
 
 **咨询性文件多于具有约束力的政策。**对某一专业领域全部经认证项目的一次普查显示，成熟度差距既是时机上的，也是形式上的。**[[institutional-ai-policy-health-informatics-2026|Eldredge 等（2026）]]**收集了美国全部 48 个 CAHIIM 认证的健康信息学与健康信息管理硕士项目的 AI 政策与指引文件，发现 40 个（83%）至少有一份公开可得的 AI 相关文件，8 个没有，但这些文件大多是指引而非可执行规则：21 份指南（53%）对 7 份正式政策（18%）。其内容集中于学术诚信与可接受使用，而隐私、知识产权与监管概念（HIPAA、FERPA、研究合规）出现得远为稀少，主题建模也返回同样的学生行为强调。文件类型与目标受众都不随授课模式而变化（Fisher 精确检验 P = .85 与 P = .71）。作者将此解读为：学术项目政策是一项区别于课程设计与劳动力胜任力发展的独立活动，并主张认证机构可通过提供整合学术诚信、数据伦理与公平准入的 AI 政策框架，来减少由此产生的差异。
+
+**法律形式比法律语言更罕见。**在一项 160 份文件的范围综述中，2.5% 的文件具有法律效力，而 57.5% 是指引或工具包，且在援引法律控制的 131 份文件中，只有 3 份本身是法律文件（[[generative-ai-governance-education-scoping-review-2026|Elmahjub 等（2026）]]）。
 
 一项英国的系统综述为同一差距增加了一个行业性层面：基础设施投资与教职员 AI 培训集中于研究密集型（罗素集团）大学，而教学主导型（post-92）机构面临能力约束，且只有少数英国机构维持官方的 AI 治理计划（**[[ai-uk-higher-education-policy-2026|Ashiq（2026）]]**）。
 
@@ -81,6 +85,8 @@ ai_assist:
 **以价值/规范矩阵作为政策基础。****[[agarwal-ethical-values-norms-aied-2026|Agarwal 等（2026）]]**是一篇对 25 篇文章的[[meta-analysis-systematic-review|系统综述]]，他们把 AIED 伦理整合为六项主要[[ethics|伦理]]价值（不歧视、数据托管、[[human-in-the-loop-ai|人工监督]]、善意、可解释性、教育适切性），并把从文献中抽取的伦理规范映射到一张利益相关者 × 价值的矩阵上。该综述把矩阵定位为构建 AIED 详细伦理框架与监管的基础，为教育机构、开发者与监管者提供实施具体价值的规范。它发现，针对监管者的善意规范远多于任何其他利益相关者群体（九条），这标示了监管者通过政策与立法确保 AIED 惠及学习者的角色 —— 这是本页所述“政策对治理”机制一个具体的、以价值为锚的起点。
 
 **走得比其限定更远的主张。**一项试点公告也是一件政策工具，其报道标准是政策的一部分。**[[el-salvador-ai-tutoring-selection-claim-2026|Restrepo Morales 等（2026）]]**分析了 2026 年 9 月的萨尔瓦多事件：一个覆盖 171 所公立学校的 AI 导学试点被报道为达到与德国和瑞典相当的结果。对照德国 PISA 2022[[math-education|数学]]平均分，国家成绩分布的前 5.5% 即便毫无学习增益也会追平该基准，且该试点的评价每校覆盖 7.0 名学生，而同年全国调查为 25.4 名，因此公布的证据无法排除选择作为解释。他们提出一项六条报道标准 —— 参与学校的基线、抽样协议（合格学生、被评学生、识别规则、参与率）、带标准差的分类分数、每项改革成分的运作日期、与具代表性的全国样本的重叠，以及在载有该主张的同一文件、帖子或段落中陈述的限定 —— 其动机来自公告自身的披露算术：承载该主张的世界银行帖子记录了约 441,000 次浏览，而承载限定的帖子在同一串帖中后四位，只有约 11,000 次。政策教训是：当一个系统用校级结果作为关于自身的证据时，披露的格式决定了哪一个陈述成为公众事实。
+
+试点本身可以成为政策机器。[[williamson-experimental-futuring-ai-prototyping-governance-2026|Williamson 等，2026]]把英格兰的 EdTech Impact Testbed（2025 年最初投入 100 万英镑给 16 家原型开发公司，随后投入 2,300 万英镑把试点扩展到 1,000 个学校站点）读作一种预期性治理：课堂成为试验台，产出用于推广的承诺性、即时证据。
 
 一项对 PISA 2022-2025 的国家层面分析发现，生成式 AI 使用越高的国家，阅读与数学的下滑越大，这一关联在控制先前表现后消失（[[genai-pisa-decline-countries-2026|Guerra 与 Aslanov，2026]]）。作者将其解读为一种警示：不应把更广泛的聊天机器人接触本身当作好处，并呼吁推广搭配纵向评价。
 
@@ -129,6 +135,8 @@ ai_assist:
 
 ## 关联文章
 
+- [[generative-ai-governance-education-scoping-review-2026]] — 教育中的生成式 AI 治理：原则、机制与风险的范围综述（Elmahjub 等，2026）
+- [[sessional-academics-contract-cheating-digital-misconduct-2026]] — 学生无法调和的单元级规则
 - [[tench-ai-policy-isnt-a-playbook-2026]] — 一项关于 AI 政策覆盖、能动性与五种课堂做法的美国教师与校长全国代表性调查（Tench、Weinstein 与 James，2026）
 - [[gai-advocacy-practice-art-education-2026]] — 当大学倡导 GAI 而实践不足时：艺术教育中的学生评价与创作过程投入
 - [[nash-preservice-teachers-classroom-ai-policies-2026]] — 职前英语教师的课堂 AI 政策：他们允许、限制与禁止了什么（Nash 与 Burriss，2026）
@@ -149,7 +157,7 @@ ai_assist:
 - [[ai-assessment-scale-reform]]
 - [[stanford-evidence-base-ai-k12-2026]]
 - [[ai-uk-higher-education-policy-2026]]
-- [[policy-deficit-ai-sel-2026]] — The Policy Deficit in AI × SEL Research
+- [[policy-deficit-ai-sel-2026]] — AI × SEL 研究中的政策赤字
 - [[agarwal-ethical-values-norms-aied-2026]] — AI 教育的伦理价值与规范
 - [[perrotta-zero-shot-governance-2026]] — 零样本治理：政策中的通用 AI（Perrotta，2026）
 - [[el-salvador-ai-tutoring-selection-claim-2026]] — 为萨尔瓦多 AI 导学试点的学习主张划定边界（Restrepo Morales 等，2026）
@@ -159,3 +167,4 @@ ai_assist:
 - [[coates-governing-academic-integrity-indicators-2025]] — 用于认证评价的 130 项治理指标，及改革所需的外部压力（Coates、Croucher 与 Calderon，2025）
 - [[genai-use-changing-institutional-policy-physics-2026]] — 政策层级对任务设计：学生在三项物理评价中用 GenAI 做了什么（Quince 与 Faulconer，2026）
 - [[genai-pisa-decline-countries-2026]] — 国家层面生成式 AI 使用越高，PISA 2022-2025 下滑越大，该相关在控制先前表现后消失（Guerra 与 Aslanov，2026）
+- [[williamson-experimental-futuring-ai-prototyping-governance-2026]] — 作为预期性治理的英格兰 EdTech Impact Testbed：产出承诺性证据的试点（Williamson 等

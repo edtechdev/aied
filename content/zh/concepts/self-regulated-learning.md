@@ -2,7 +2,7 @@
 connected_resources: [process-feedback]
 title: 自我调节学习
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-10-09T18:39:21-04:00"
+updated: "2026-10-24T15:57:11-04:00"
 type: concept
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
 technology: [generative-ai, llm, personalized-learning]
@@ -12,7 +12,7 @@ audience: [learners]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/self-regulated-learning
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-24T06:38:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -105,6 +105,7 @@ SRL 理论的一条基础原则是：自我[[regulation]]技能与[[motivation]]
 
 先分类，再委派：[[scan-framework-task-assignment-generative-ai-2025|Tsim 与 Gutoreva（2025）]]把自我调节变成一套逐任务的规程——把每个子任务标记为替代（Substitute）、补充（Complement）、辅助（Aid）或不可谈判（Non-negotiable），在一则简短的元认知说明中为其辩护，并保存提示、草稿与人工修订的审计轨迹——循环重复，使一项任务的分配为下一项提供信息。
 **把互动本身当作调节的对象。**[[brunnstrom-ai-interaction-literacy-srl-2026|Brunnström 与 Palmqvist（2026）]]从另一个方向记录了同样的调节要求：在一项八轮的演示中，学生用聊天机器人准备一项[[summative-assessment|考试]]的带回家作答，人工智能的默认输出停留在 SOLO 分类法的*[[quantitative-research|量化]]*、多结构一端——打磨得可以交卷，教学上却很单薄——只有经过反复的元层级干预（"这信息量太大了，能压缩一下吗？"）之后，才抵达一个可用的三步学习循环。他们的结论是：有成效的使用要求"恰好是这项工具本应支持的那些自我调节技能"：学习者必须设定增量目标、请求难度调整，并在学科内容之上反思自己尚未理解之处。他们把这一能力命名为[[ai-literacy|人工智能互动素养]]，并把脱离工具视为一种正当的调节决定，而非坚持力上的失败（[[metacognition]]）。
+**每一条提示都是一道调节痕迹。**把来自 23 名学生的 429 条提示当作自我调节学习事件来读，结果显示结构组合随任务设计而变化，而 59 份提交中有 53 份与模型输出贴近，从而把调节定位在交互之中，而非产物之中（[[llm-math-homework-offloading-traces-2026|Kontorovich 与 Wallach（2026）]]）。
 
 - **满意不等于自我调节。**[[aigc-affordance-student-self-regulation-2026|Liang 等（2026）]]调查了 689 名产教融合项目的本科生，检验了一个序列中介模型：人工智能生成内容的感知可供性提高 AIGC[[self-efficacy]]（beta = 0.583），并经由它提高学习[[motivation]]（beta = 0.565）与自我调节学习（beta = 0.250），其中动机是 SRL 最重的单一预测因子（beta = 0.527）。承重的负面结果与这些路径并存：人工智能评估反馈的质量强烈预测了满意度（beta = 0.712），但不预测自我效能（beta = 0.131），而满意度对自我调节学习没有显著影响（beta = 0.032）。因此，一个讨人喜欢、运转良好的助手，并不能证明调节得到了改善——机制经由信心与动机运行，而不经由学习者对工具的体验。
 ### 面向生成式人工智能的反思作为 SRL
@@ -122,6 +123,7 @@ SRL 理论的一条基础原则是：自我[[regulation]]技能与[[motivation]]
 ## 跨情境的证据
 
 - **混杂的证据与校准缺口。**一项对 PreK-12 生成式人工智能研究的快速综述发现，受支持任务中获得的元认知增益，在支持撤除后往往不能持续，且生成式人工智能能在持久学习缺席的情况下提高[[self-report-measures|感知学习]]（即校准缺口——尽管保持率更弱，学生仍偏好生成式人工智能而非记笔记）。学生需要显式的、适合其发展阶段的训练，来决定什么该委派、何时独立努力才要紧。（[[young-people-learning-generative-ai-rapid-review-2026]]）
+- **SRL 很少成为主动的目标。**一项覆盖 394 项生成式人工智能高等教育研究的综述发现，自我调节学习与反思既属于最少被付诸行动的用途，也属于最少被作为目标的结局（[[mapping-genai-higher-ed-scoping-review|Lin 等（2026）]]）。
 - **[[agentic-ai|能动性]]主动性对自我调节的张力。**[[agentic-ai-pedagogical-best-practice-2026|Woollaston 等（2026）]]指出，代理自动完成任务的部分越多，学习者所做的自我调节认知工作就越少——因此设计应让学习者控制代理的启动（动态的、渐退的支架），以保住自我调节能力，而不是把它外包出去。
 - **自我调节塑造人工智能编程助手的使用。**[[computational-thinking-aica-2026|一项对人工智能编程助手的研究]]发现，高[[computational-thinking]]的学生表现出更强的自我调节连贯性（规划–执行–自我反思），并用 AICA 来理解代码；而低 CT 学生用它即时检索答案。
 - **SRL 与[[online-teaching-and-learning|在线学习]]中更低的数字分心共现。**[[decreasing-digital-distraction-college-online-learning-2026|Shi 等（2026）]]用无监督数据挖掘考察了 530 名大学生，发现 SRL 策略——目标设定、环境结构化与时间管理——在[[higher-ed|在线学习]]中与更低的数字分心最为一贯地共现，并与"学习者–讲师"和"学习者–内容"的投入一同出现。该发现把具体的 SRL 训练定位为一项高杠杆的专注在线学习干预。
@@ -130,6 +132,7 @@ SRL 理论的一条基础原则是：自我[[regulation]]技能与[[motivation]]
 - **反思性使用追踪批判性思维，而非知识增益。**[[melanou-genai-learning-dynamics-longitudinal-2026|Melanou 等（2026）]]在为期九周的课程中跟踪了三个平行的商业信息学班级（N = 87），每组的知识都在上升（F(1, 50) = 29.87，p < 0.001，η²p = 0.374），且没有人工智能优势、没有时间×组交互、没有马太效应（F(1, 48) = 2.46，p = 0.124；BF01 = 8.70）。反思性使用（在采纳人工智能输出前核查来源并加以验证）在人工智能条件下显著更高（3.72 对 2.82；F(1, 40) = 20.21，p < 0.001），并预测批判性思维（β = 0.43，p < 0.001）而非知识增益——后者由相关认知负荷预测（β = 0.51，p = 0.001）。实践解读是：人工智能访问权本身不是一种干预，其元认知回报在推理质量上先于在测验分数上显现。
 
 - **结构，而非人工智能本身，驱动 SRL 增益。** 把 Zimmerman 的阶段映射到以 AI 作为[[scaffolding|元认知脚手架]]的项目式混合教学上，产生了 0.72 的 N-Gain，而常规教学为 0.28（t = 8.47，p < 0.001，[[ai-project-hybrid-learning-self-regulated-2026|Priyambudi 等（2026）]]），他们论证 AI 只有在任务结构之内才强化自我调节——无结构的使用有招致元认知懒惰的风险。
+- **情感支架能推动轨迹测得的 SRL 阶段，而单纯的认知支架做不到，自陈则几乎看不见它。**一项预注册实验以 144 名高中生比较了原版 ChatGPT、一个 SRL 支架代理，以及一个在三个时点询问感受、并沿控制–价值路线调整语气与挑战的情感版本。轨迹编码发现三个阶段都有大的条件效应（前思 ε2 = 0.44，表现 0.34，自我反思 0.34）。仅 SRL 提示就把目标设定与规划提到了情感版本的水平，而情感层额外增加了表现阶段的活动（r = 0.22）与自我反思（r = 0.31）。自陈的 SRL 只在表现阶段区分了各条件；轨迹与自陈的相关在那里为 0.313，前思为 0.22，自我反思为 0.04。作者把轨迹差异解读为共同调节的践行，而非独立的调节能力（[[diordiev-emotional-scaffolding-genai-srl-2026|Diordiev、Stenberdt 与 Makransky，2026]]）。
 
 - **三种失败模式解释了迁移在何处断裂。**（1）概念按日常含义而非领域含义消解——"cancel" 对化学中的 "kürzen"——破坏了 enact 分类。（2）拟人化——不熟悉重度脚手架导师的德语学生把它当作人来称呼，产生分布外语句；迁移在脚手架较轻的平台上更好。（3）读提示与制定计划的歧义——没有日志数据，模型分不清读取一条元认知提示与制定计划。认识到错误在所有条件下都是稳健的——注意到自己错了是与语境无关的。修法：领域术语用专家词典或微调；提示用日志数据。（[[borchers-srl-language-generalization-2025]]）
 
@@ -162,6 +165,12 @@ SRL 理论的一条基础原则是：自我[[regulation]]技能与[[motivation]]
 
 - **游戏中支持自我调节学习的会话代理。**Wenzel、Geiger 与 Liening（2026）表明，一款商业[[simulation]]游戏中的人工智能会话代理（Lara）可以通过基于指标的形成性（[[formative-assessment|formative]]）反馈、按需指导与结构化反思来支持自我调节学习——这针对的是模拟游戏常见的局限：提供的形成性反馈与反思提示有限。面向师范生和 BSG 参与者的评估报告了该代理在认知与[[community-of-inquiry|社会]]存在感及其自我调节支持上的积极感知。
 
+## 自动化的 SRL 检测：什么能迁移，什么不能
+
+- **浅层线索在课程映射中过度归因调节。**给定评估描述后，GPT-o3-mini 把对截止日期或排程的提及读作自我调节技能的证据；自我管理由此被过度识别，其与专家权重的吻合度从 0.53 到 −0.03 不等（[[genai-curriculum-analytics-mapping-higher-ed-2026|Jayalath 等，2026]]）。
+- **群体层面的检测遵循同样的分野，而话语承载的比日志更多。**在 C2STEM 中模拟卡车运动的同伴二人组里，来自 36 名高中生的 394 个任务情境片段被打上七种社会共享调节编码，并由每个片段的大语言模型摘要来预测：仅用文本的嵌入达到平均 AUC 0.650，而仅靠日志导出的特征只达到 0.526，对一个大体上是社会的构念来说接近随机。规划在单个片段内不可见（0.5036），一旦把两侧相邻的两个片段拼接起来就可以被检测到（0.6711），而反思在加入日志之后表现最好（0.5862），这与本节为个体学习者记录的读提示与制定计划之间的歧义相同（[[zhang-llm-detection-ssrl-collaborative-modeling-2026|Zhang 等，2026]]）。
+- **自动化 SRL 标签对 enact 成立，对规划失败。**在一堂四年级混合现实科学课上，一条融合注视、手势、语音与游戏日志的流程把 75 个人工核查过的片段标注到总体 74.67%，从 enact 与互动的 93.3% 下降到规划的 46.7%（[[fonteles-embodied-learning-human-in-the-loop-multimodal-2026|Fonteles 等，2026]]）。
+
 ## 关联概念
 
 - [[learners]] — 学习者：学习者侧概念的总括
@@ -188,6 +197,9 @@ SRL 理论的一条基础原则是：自我[[regulation]]技能与[[motivation]]
 
 ## 关联文章
 
+- [[fonteles-embodied-learning-human-in-the-loop-multimodal-2026]] — 具身课堂中大语言模型切分 SRL 的逐类准确率（Fonteles 等 2026）
+- [[llm-math-homework-offloading-traces-2026]] — 提交物没有显示的东西：复杂化学生数学作业中的大语言模型认知卸载（Kontorovich 与 Wallach 2026）
+- [[genai-curriculum-analytics-mapping-higher-ed-2026]] — 课程映射中由表层线索导致的自我调节过度归因（Jayalath 等 2026）
 - [[aigc-affordance-student-self-regulation-2026]] — AIGC Affordance 与学生自我调节
 - [[brunnstrom-ai-interaction-literacy-srl-2026]] — 人工智能互动素养：驾驭一个聊天机器人，要求它本应支持的 SRL（Brunnström 与 Palmqvist，2026）
 - [[5p-reflection-model-genai-2026]] — 面向生成式人工智能时代的 5P 反思模型（Kadel 等，2026）
@@ -209,7 +221,7 @@ SRL 理论的一条基础原则是：自我[[regulation]]技能与[[motivation]]
 - [[decreasing-digital-distraction-college-online-learning-2026]] — 在线学习中的 SRL 与更低的数字分心（Shi 等，2026）
 - [[mejia-domenzain-ml-findings-teachers-blended-2026]] — 在混合课堂中把机器学习发现变得对教师可及
 - [[scan-framework-task-assignment-generative-ai-2025]] — SCAN：一个面向学习者的任务识别、论证与任务后反思环路
-- [[learning-analytics-genai-secondary-writing-2026]] — Using Learning Analytics to Support Secondary School Students' Writing with Generative AI
+- [[learning-analytics-genai-secondary-writing-2026]] — 用学习分析支持中学生以生成式人工智能进行写作
 - [[alatoai-ai-learning-environments-self-regulation-2026]] — 一项用于自适应 STEM 学习的人工智能支持自我调节的验证工具，以元认知意识为最强预测因子
 - [[iqbal-human-genai-support-essay-revision-2026]] — 在一次论文修订实验中，支持条件而非元认知判断驱动了修订策略的选择
 - [[melanou-genai-learning-dynamics-longitudinal-2026]] — 纵向：反思性人工智能使用预测批判性思维而非知识增益，且无马太效应

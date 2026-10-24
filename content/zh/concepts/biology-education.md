@@ -1,6 +1,7 @@
 ---
 title: 生物学教育
 created: "2026-08-19T13:10:00-04:00"
+updated: "2026-10-24T14:35:00-04:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, human-ai-collaboration]
 technology: [generative-ai]
@@ -9,7 +10,7 @@ level: [higher ed, k 12]
 confidence: high
 reviewed_by: [editor]
 translation_of: concepts/biology-education
-source_updated: "2026-10-13T09:18:19-04:00"
+source_updated: "2026-10-16T09:45:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -51,6 +52,8 @@ ai_assist:
 
 **专门的 AI 工具与更广的综述。** **[[beyond-chatgpt-ai-tools-biological-education-2026|Cotton 与 Cotton]]** 综述了生物教育中 AI 工具的全景，包括用于物种识别的 **iNaturalist 与 Google Lens**、生物成像与机器学习工具、辅助技术，以及对处于风险中学生的预测建模——连同生成式 AI 在诚信、评估设计、错误信息与批判性思维上的挑战。
 
+- **LLM 的回答好于它的评分。** 在涵盖 Bloom 各层级的 336 道开放式生物统计题的 1,344 个回答上，[[llm-open-ended-questions-biology-statistics-2026|Nguyen 等人（2026）]]发现三个模型评分高于一个 20 名学生组成的群体，然而单个 LLM 评分者与一位有经验的教师一致性差到没有学生达到公平一致。
+
 **成绩中究竟有多大一部分真正暴露在外。** 把一个系 38 份核心课程大纲的每个评分类别按教师评定的脆弱性加权，33% 的课程分数处于高暴露、81% 至少部分暴露——线上分别为 41% 与 100%——只有线下监考的考试被评为极不脆弱（[[biology-degree-integrity-genai-cheating-2026|Chan 等人，2026]]）。
 
 ### 与相关概念的关联
@@ -88,10 +91,11 @@ ai_assist:
 - [[educational-policy-ai]]
 
 ## 关联文章
-- [[biology-degree-integrity-genai-cheating-2026]] — Can students cheat their way to a biology degree? A case study of the vulnerability of biology course grades to academic dishonesty in the era of generative AI
-- [[chatgpt-virtual-lab-teaching-assistant-biology-2026]] — ChatGPT as a virtual lab teaching assistant
-- [[beyond-chatgpt-ai-tools-biological-education-2026]] — Review of AI tools in biological education
-- [[critical-thinking-biological-sciences-ai-2025]] — Critical thinking in biological sciences and AI
-- [[chatgpt-math-biology-challenge-based-learning-2025]] — ChatGPT in challenge-based biology/math courses
-- [[zha-ai-literacy-biology-case-study]] — AI literacy education in a biology class
-- [[genai-socratic-tutor-biology-argumentation-2026]] — Enhancing PISA-aligned argumentation skills of prospective biology teachers through generative artificial intelligence
+- [[llm-open-ended-questions-biology-statistics-2026]] — 评估大语言模型在开放式问题上的表现：回答与评分能力
+- [[biology-degree-integrity-genai-cheating-2026]] — 学生能靠作弊拿到生物学学位吗？生成式 AI 时代生物学课程成绩易受学术不端影响的一个案例研究
+- [[chatgpt-virtual-lab-teaching-assistant-biology-2026]] — ChatGPT 作为虚拟实验助教
+- [[beyond-chatgpt-ai-tools-biological-education-2026]] — 生物教育中 AI 工具的综述
+- [[critical-thinking-biological-sciences-ai-2025]] — 生物科学与 AI 中的批判性思维
+- [[chatgpt-math-biology-challenge-based-learning-2025]] — ChatGPT 在挑战式生物/数学课程中的使用
+- [[zha-ai-literacy-biology-case-study]] — 生物课堂中的 AI 素养教育
+- [[genai-socratic-tutor-biology-argumentation-2026]] — 通过生成式人工智能提升准生物学教师的 PISA 对齐论证技能

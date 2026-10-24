@@ -1,7 +1,7 @@
 ---
 title: AIEd 研究的局限
 created: "2026-08-15T09:18:04-04:00"
-updated: "2026-10-09T18:58:11-04:00"
+updated: "2026-10-24T15:26:00-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [learning-theories]
@@ -12,7 +12,7 @@ confidence: high
 connected_faqs: [research-gaps-aied, reporting-interpreting-aied-research]
 methods: [ai-ed-evaluation, benchmark, research-methods-aied]
 translation_of: concepts/limitations-in-aied-research
-source_updated: "2026-10-07T07:20:00-04:00"
+source_updated: "2026-10-16T08:47:09-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -50,6 +50,7 @@ ai_assist:
 
 - **检索设计决定了一项综述的头条数字。** 在一项涵盖 195 项教师教育研究的范围综述中，数字素养与[[tpack|TPACK]]是显式检索词，而教学设计与评估没有对应检索词，因此所报告的 46.5% 与 1.9% 描述的是被检索到的语料，而非整个领域（[[digital-competence-ai-responsive-pedagogy-2026|Patiño Hernández 等（2026）]]）。
 - **小样本量。** 许多 AIED 研究功效不足——参与者太少，无法可靠地检测出有意义的效应，也无法支撑有时从它们身上得出的强主张。
+- **数据增强可以制造头条指标。**在一个训练分区含 83 名学生作文的自动作文评分器中，生成的水平 1 回答（模板、截断、关键词移除）把 Focus 一致性在 0.028 的基线之上提升了 +0.346 二次加权 kappa，因此最强的顺序信号建立在没有任何学生写过的文本之上（[[automated-essay-scoring-critical-thinking-physics-2026|Firdausi 等（2026）]]）。
 - **终点分数可能掩盖被研究的对象。** 在一项 PRISMA 综述的 103 项[[higher-ed|高等教育]]研究中，56% 报告的增长以支架或核查为条件，而零分的成绩差异常常伴随着过程中真实的变化——更多的调试、更多的检查循环——因此单看成绩无法判断[[generative-ai|GenAI]]是强化了实践还是掏空了它（[[hawi-genai-higher-ed-uses-outcomes-risks-2026|Hawi 与 Samaha（2026）]]）。
 
 - **验证设计可以制造头条数字。** [[eeg-familiarity-automated-assessment-2026|Nanayakkara 与 Halloluwa（2026）]]在基于 EEG 的熟悉度上对十五个模型做了基准测试，并显示标准分层交叉验证会允许时间泄漏、报告出高达 0.9853 的 F1，而试次独立的 Group K-Fold 验证把峰值降到 0.6038 F1——仍高于随机水平，但远非所引述的结果。
@@ -150,3 +151,4 @@ AI 在持续变化，从任何给定模型或系统得出的结论都可能**很
 - [[digital-competence-ai-responsive-pedagogy-2026]] — 195 项教师教育研究的范围综述：检索串设计塑造了所报告的频率
 - [[k12-teachers-genai-beliefs-five-countries-2026]] — 跨国 K-12 教师调查：机器翻译题项、单题关切测量、无不变性检验
 - [[hawi-genai-higher-ed-uses-outcomes-risks-2026]] — 103 项 GenAI 高等教育研究的系统综述：56% 的有条件收益、掩盖过程变化的成绩（Hawi & Samaha 2026）
+- [[automated-essay-scoring-critical-thinking-physics-2026]] — 数据增强可以制造头条指标

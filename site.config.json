@@ -2276,6 +2276,11 @@
     "harness": "Hermes Agent",
     "models": [
       {
+        "id": "meituan/longcat-2.5-preview:free",
+        "since": "2026-10-24",
+        "note": "current model for drafting, revision, translation, and ingest work"
+      },
+      {
         "id": "stepfun/step-5-preview:free",
         "since": "2026-10-09",
         "note": "current model for drafting, revision, translation, and ingest work"

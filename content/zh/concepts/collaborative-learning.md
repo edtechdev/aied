@@ -1,7 +1,7 @@
 ---
 title: 协作学习
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-09T18:39:20-04:00"
+updated: "2026-10-24T14:38:58-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [collaborative-learning, scaffolding]
@@ -11,7 +11,7 @@ audience: [learners]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/collaborative-learning
-source_updated: "2026-10-07T15:40:00-04:00"
+source_updated: "2026-10-16T08:47:09-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -55,6 +55,8 @@ ai_assist:
 **协作模式与效率–调节权衡。**对大学生与 AI 协同进行复杂问题解决的实证研究识别出三种不同模式 —— *委派式推理*、*协同性阐释*与*委派式精加工*。最高效的模式（委派式推理）产生最高的任务表现，却带来最低的学习者自我调节性参与，而自我调节最强的模式（协同性阐释）在任务结果上表现较差。([[hao-human-ai-collaborative-problem-solving-cognition]]) 这揭示了一个核心设计张力：协作学习环境必须在分布式人机系统的效率与学习者[[self-regulated-learning|调节]]性参与的深度之间取得平衡。
 
 关于 AI 支持的协作工作，唯一可得的元分析对比位于 GenAI 支持的问题式/项目式学习干预内部，其中同伴协作汇总为 g = 0.885，个人工作为 g = 0.416，但差异只达到边缘趋势（QM = 3.675，p = .055），且个人工作一侧只依赖两项研究 —— 因此“协作在 GenAI 下胜过独自工作”的汇总证据只是提示性的，而非已确立（[[chen-pbl-pjbl-genai-meta-analysis-2026|Chen 等，2026]]）。
+
+实地层面的绘图从另一个方向得出同一结论：一项对 2010 至 2023 年 1,048 篇"AI 应用于在线学习"文献的 BERTopic 分析发现，以社会为导向的、关于 AI 支持的协作学习与共同体发展的工作从未成为主导主题，作者把这归因于一个以个体层面的[[learning-analytics|分析]]为中心的语料（[[chen-bertopic-ai-online-learning-research-topics-2026|Chen 等（2026）]]）。
 
 一项对 18 项研究的范围综述在同一小组作业上绘制了同样的权衡：GenAI 既支持了知识发展、想法生成与沟通效率，也降低了对同伴交互、协商与集体意义建构的需求；随机证据发现了更具创新性的 AI 建议，而参与者的总体创新性却没有显著增益（[[wei-perkins-genai-student-collaboration-scoping-2026|Wei 与 Perkins（2026）]]）。
 
@@ -133,8 +135,8 @@ ai_assist:
 ## 关联文章
 
 - [[genai-support-threaten-learning-k20-expert-consensus-2026]] - 30 人专家共识发现单侧的社会风险：协作过程脆弱而无增强路径
-- [[chen-pbl-pjbl-genai-meta-analysis-2026]] — Problem-based and project-based learning as promising frameworks for generative AI-supported education: Emerging evidence from a systematic review and three-level meta-analysis
-- [[jin-emergent-learner-agency-implicit-hai-2026]] — Emergent learner agency in implicit human-AI collaboration: supportive vs. contrarian personas
+- [[chen-pbl-pjbl-genai-meta-analysis-2026]] — 问题式与项目式学习作为生成式 AI 支持教育的有前景框架：来自一项系统综述与三层元分析的新证据
+- [[jin-emergent-learner-agency-implicit-hai-2026]] — 内隐人机协作中涌现的学习者能动性：支持型对唱反调型人设
 - [[adaptive-ai-scaffold-collaborative-problem-solving-2026]]
 - [[genai-counter-learner-groupthink-2025]]
 - [[polished-artifacts-fragile-engagement-2026]]
@@ -144,17 +146,18 @@ ai_assist:
 - [[teacher-student-agency-orchestration]]
 - [[niari-ai-pedagogical-mediator-collaborative-learning]]
 - [[hao-human-ai-collaborative-problem-solving-cognition]]
-- [[golrang-propact-pair-programming-2026]] — ProPACT: proactive AI adaptive collaborative tutor for pair programming
-- [[spritz-ai-disciplinary-mediation-student-teams-2026]] — Spritz: AI disciplinary mediation in student project teams
+- [[golrang-propact-pair-programming-2026]] — ProPACT：面向结对编程的主动式 AI 自适应协作导师
+- [[spritz-ai-disciplinary-mediation-student-teams-2026]] — Spritz：学生项目团队中的 AI 学科中介
 - [[academic-league-of-ai-2026]] — AI 学术联盟：协作式、项目式的 AI 教育
 - [[icap-cognitive-engagement-llm-agents]] — 测量协作对话参与的扩展 ICAP 框架
 - [[llm-facilitation-timing-online-discussions]] — 在线协作讨论中的 LLM 促进时机
-- [[ba-ai-agents-cscl-review-2026]] — AI agents in computer-supported collaborative learning review
+- [[ba-ai-agents-cscl-review-2026]] — 计算机支持的协作学习中的 AI 智能体综述
 - [[wei-perkins-genai-student-collaboration-scoping-2026]] — GenAI 与学生小组作业：一项范围综述（Wei 与 Perkins，2026）
-- [[astra-multi-agent-tutoring-benchmark-2026]] — ASTRA synthetic benchmark for multi-agent tutoring and participation-balanced collaboration
+- [[astra-multi-agent-tutoring-benchmark-2026]] — ASTRA：面向多智能体辅导与参与平衡协作的合成基准
 - [[xu-genai-collaborative-space-2026]] — GenAI 作为小组动态中的智能体与协作空间（Xu 等，2026）
 - [[breideband-community-builder-cobi-2026]]
 - [[oppenheimer-llms-collaborative-learning-partners-2026]]
-- [[hao-peer-exposure-bridging-social-capital-ai-summaries-2026]] — AI-Generated Summary-Driven Learning Design in Online Discussion Forums
+- [[hao-peer-exposure-bridging-social-capital-ai-summaries-2026]] — 在线讨论论坛中由 AI 生成摘要驱动的学习设计
 - [[chen-zou-genai-group-assessment-agency-2026]] — GenAI 作为学生小组中的协调基础设施：加剧的、克制的与未实施的使用
-- [[ethics-training-agents-group-ethics-discussion-2026]] — Ethics Training Agents: Facilitating Group-Based Ethics Education with Role-Playing and Discussion for Ethical Reflection and Exploration
+- [[ethics-training-agents-group-ethics-discussion-2026]] — 伦理训练智能体：用角色扮演与讨论促进基于小组的伦理教育，以进行伦理反思与探索
+- [[chen-bertopic-ai-online-learning-research-topics-2026]] — 在 1,048 篇文献中，以社会为导向的 AI 协作工作从未成为主导主题

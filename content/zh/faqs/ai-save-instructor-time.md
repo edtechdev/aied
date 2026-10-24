@@ -1,12 +1,12 @@
 ---
 title: "作为教师，人工智能如何帮我节省时间？"
 created: "2026-09-22T19:42:07-04:00"
-updated: "2026-10-09T18:10:00-04:00"
+updated: "2026-10-24T15:35:34-04:00"
 weight: 78
 foundations: [ai-literacy, educational-development, teacher-role]
 assessment: [ai-feedback-quality]
 audience: [instructors, faculty developers]
-source_updated: "2026-10-02T08:21:34-04:00"
+source_updated: "2026-10-21T14:32:00-04:00"
 translation_of: faqs/ai-save-instructor-time
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
@@ -22,8 +22,6 @@ ai_assist:
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
-
-# 作为教师，人工智能如何帮我节省时间？
 
 **人工智能最适合承担可重复、风险较低的起草与转换类工作，而涉及重要后果的教育判断仍应留给教师。** 有成效的用途包括教学材料的初稿、示例、讨论问题、[[formative-assessment|形成性]]测验、替代性解释、评分量规、反馈建议、摘要、材料的分层版本，以及日常行政用语。其关键机制是**重新分配，而不是简单削减**：人工智能释放出时间，教师再把这些时间投向价值更高的教学工作，而同样的时间会换来更多一对一的师生互动、更深入的反馈和更高阶的教学。
 

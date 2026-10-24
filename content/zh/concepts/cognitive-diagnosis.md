@@ -1,13 +1,13 @@
 ---
 title: 认知诊断
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-10-09T18:58:10-04:00"
+updated: "2026-10-24T14:35:00-04:00"
 type: concept
 technology: [intelligent-tutoring, knowledge-tracing, learning-analytics, student-modeling]
 assessment: [assessment, educational-measurement, psychometrically-aware-ai]
 confidence: high
 translation_of: concepts/cognitive-diagnosis
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-15T10:00:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:

@@ -122,7 +122,7 @@ AQG 是 [[adaptive-learning|自适应]]与 [[personalized-learning|个性化]]�
 - [[razavi-powers-item-difficulty-llm-2026]] — 用 LLM 与基于树的机器学习估计题目难度
 - [[proiqa-math-item-quality-assessment-2026]] — ProIQA：基于过程的数学题目质量评估
 - [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn：在人—AI 共同学习循环中学习其学习者的代理式导师
-- [[automated-constructive-assessment-hdr-llm-2026]] — Automating Constructive Assessment with Large Language Models: Toward Scalable and Repeated Evaluation of Practical Competence
+- [[automated-constructive-assessment-hdr-llm-2026]] — 用大语言模型自动化建构性评估：走向可扩展且可重复的实践能力评价
 - [[student-llm-use-ai-question-difficulty-data-science-2026]] — 学生对 LLM 的使用与数据科学课程中 AI 生成题目难度的局限
 - [[bloom-classifier-ai-assisted-questions-2026]] — 对新型 AI 辅助教育题目作教学性评估的预训练模型评估
 - [[vogt-ai-mcq-recognition-medical-assessment-2026]] — 学生在一场评分考试中无法区分 AI 生成选择题与执业考试题目，且 18.2% 的生成题目在审阅中被剔除（Vogt 等，2026）

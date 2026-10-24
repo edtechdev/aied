@@ -1,7 +1,7 @@
 ---
 title: STEM 教育
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-09T18:39:25-04:00"
+updated: "2026-10-24T14:13:39-04:00"
 type: concept
 foundations: [computational-thinking]
 technology: [intelligent-tutoring]
@@ -9,8 +9,9 @@ assessment: [automated-assessment]
 discipline: [cs education, math education, physics education]
 level: [k 12, higher ed]
 confidence: high
+connected_resources: [teacher-dev]
 translation_of: concepts/stem-education
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-21T12:05:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -37,11 +38,14 @@ ai_assist:
 ### STEM 作为 AIED 的首要领域
 
 - **数学：** [[math-education|数学教育]]研究横跨 [[generative-ai-reduced-study-time-math|GenAI 对数学学习的影响]]、[[ai-powered-personalized-learning-elementary-fractions-2026|小学分数辅导]]与 [[student-math-competence-clustering|胜任力聚类]]。
+- **数学 ITS 的证据是有界且有条件的。**一项对 20 篇出版物（2020 年至 2026 年 4 月）的结构化叙事综述发现，最清晰的已测量优势出现在叠加在同一自适应系统上的实时诊断[[feedback|反馈]]，但其结论是：只有当有效的[[student-modeling|学习者建模]]、校准过的支架与教师中介结合起来时，智能辅导才支持数学学习，而可扩展性是技术性的，不是教育性的（[[intelligent-tutoring-mathematics-education-review-2026|Ogunsakin 等（2026）]]）。
 - **物理：** [[physics-education|物理教育]]包括 [[becker-chatgpt-typology-physics-2026|ChatGPT 类型学研究]]、[[hashmi-socratic-physics-chatbot-2025|苏格拉底式物理聊天机器人]]与 [[ai-scoring-language-bias-physics|评分偏差分析]]。
 - **计算机科学：** [[cs-education|计算机科学教育]]是被研究最多的 STEM 子领域——[[code-review-genai-cs1|代码评审]]、[[debugtracker-classroom-debugging|调试工具]]与 [[prompt-problems-nl-programming-mistakes|提示研究]]。
 - **工程：** [[concept-catalyst-engineering-scaffolds|工程支架]]、[[structured-ai-demonstrations-engineering-mechanics|力学演示]]与 [[ai-engineering-education-balancing-act|课程平衡]]把 AI 带进 [[engineering-education|工程教育]]。
 - **为本科生科研做支架：** [[ai-information-extraction-undergraduate-thesis-2026|An 及同事（2026）]] 试点了一个 AI 系统，把研究出版物转换成结构化、可比较的数据集，供四个 STEM 学院的本科生完成论文。结果（20 名学生、80 份文档）显示实验参数的提取率超过 90%，文献综述时间减少约 65%，学生识别有影响力的实验变量的能力提高 50%——这是 [[generative-ai|AI]]支架化的 [[higher-ed|本科生科研]]如何能加强 STEM 教育中研究素养与认识认知的证据。
 - **模拟支持的教学：** 在基于无人机的 STEM 教育中，[[teacher-role|教师]]与 AI 共同设计的 [[simulation]] 支架被与一门完全相同的动手 [[curriculum-design|课程]]作对照，涉及 30 名中学生，检验模拟支持的教学是否产出更优的 [[learning-gains|学习结果]]。GenAI 的角色是加速内容创作，而教师的参与保住了教学法效度与情境相关性。
+- **结果偏向支架组。**模拟组在与课程对齐的 STEM 知识上比动手组增益更大（M = 3.00 对 2.06；t(28) = 2.23，p = .034，d = 0.82），在 21 世纪胜任力上亦然（d = 1.52）（[[simulation-assisted-drone-learning-stem-2026|Yeung 等（2026）]]）。
+- **STEM 中的数字孪生：原型跑在已测量的学习之前。**一项对 11 项高等教育研究的 PRISMA 综述发现，每一项都展示了一个可运行的、与硬件同步的原型，但只有三项（27.3%）报告了统计上显著的学习增益，而开发复杂性与减少的社会互动是反复出现的障碍（[[caee-digital-twins-stem-education-systematic-review-2026|Pelayo-González 等，2026]]）。
 - **STEAM 艺术教育中 AI 辅助的规划：** 一项针对儿童 STEAM 艺术教师的实验研究（[[luo-tahir-chatgpt-steam-lesson-planning-2026|Luo 与 Tahir 2025]]）发现，ChatGPT 辅助的教案在专家评定的质量上胜过教师生成的教案（中位数 20.5 对 17.6，p = .002，效应大，六位教授评分），教师报告了在效率与跨学科整合上的增益（61% 评为 4 分及以上）。这一结果是通过教师的委派方法实现的——最有用的方式是让 ChatGPT 在一份自行勾勒的教案中填补内容缺口——强化了那个反复出现的论点：当教师构建任务并批判地评估输出，而不是把整份教案交给模型时，AI 才抬升 STEM／STEAM 的工作。
 
 ### 汇总来看，AI 支持的教学在 STEM 中的效果如何
@@ -63,6 +67,7 @@ STEM 结构化的知识表征、可验证的答案与计算思维上的对齐，
 - **STEAM 是通往 AI 素养的不平坦路径。** 一项对 39 项研究的 PRISMA 系统综述（[[niri-steam-ai-literacy-review-2026]]）发现，STEAM 的实施主要发展技术素养（基础 AI 概念、计算思维、数据素养），却对 [[ethics|伦理]]意识、创造性想象，以及用 AI 进行创造／管理／设计发展不足。技术学科领先；艺术、工程与整合式 STEAM 落后——这表明 STEM 中的 AI 素养目前偏向技术技能，而非负责任地塑造 AI。
 - **自适应的 AI 型 STEM 项目能支持深层学习。** 一项六年级科学中的整群随机试点（[[bin-bakheet-adaptive-ai-stem-deep-learning-2026]]，N = 30）发现，一个自适应的 AI 型 STEM 项目（个性化内容、基于规则的掌握、实时反馈）在解释、解读、应用与想法生成上都产出了有利于实验组的大效应量——尽管两班设计需要谨慎解读。
 - **教师的接受度是异质的，且受学科塑造。** 一项对 128 名职前教师的潜在剖面分析（[[chen-preservice-teachers-chatgpt-lpa-2026]]）发现了四种 ChatGPT 接受度剖面（务实的评估者、技术先驱、抵制的怀疑者、环境的观察者），其中 STEM 教师集中于技术先驱，非 STEM 教师集中于抵制的剖面——而抵制的怀疑者表现出高易用性但低使用意图，需要差异化的 [[ai-literacy]] 培训。
+- **教学生审问模型，而不只是使用它。**一次 45 分钟的[[prompt-engineering|提示]]与错误核查课程抬高了本科生物理后测分数（*d* = 0.814），并抹平了先前 AI 经验的优势（[[structured-genai-training-physics-problem-solving-rct-2026|Huang 等，2026]]）。
 - **AI 整合的 STEM 中的评估与认知过程。** [[zhang-ct-ai-training-test-2026|CTAT]]（34 个条目、经 IRT 验证）为在 AI 训练情境中评估 [[computational-thinking]] 提供了一份有效工具，揭示学生在数据表示、逻辑运算符排序与循环结构上最为吃力。一项关于 AI 辅助编程的扎根理论研究（[[liu-tool-tutor-crutch-programming-2026]]）表明，学习者在"领域掌握"与"工具掌握"之间经由 [[scaffolding]] 与外包循环而摆动，在常规外包下 [[metacognition|元认知]]校准被削弱——这是对"表现—学习"张力的过程性说明。
 
 ## 对 STEM 教师的启示
@@ -101,16 +106,16 @@ STEM 结构化的知识表征、可验证的答案与计算思维上的对齐，
 - [[chen-preservice-teachers-chatgpt-lpa-2026]] — 职前教师 ChatGPT 接受度剖面
 - [[zhang-ct-ai-training-test-2026]] — 计算思维在 AI 训练测试（CTAT）中的表现
 - [[liu-tool-tutor-crutch-programming-2026]] — 工具、辅导者还是拐杖：AI 辅助编程的扎根理论
-- [[workforce-readiness-smart-manufacturing-wrl-2026]] — AI 时代的智能制造劳动力就绪等级框架
 - [[becker-chatgpt-typology-physics-2026]]
 - [[ai-powered-personalized-learning-elementary-fractions-2026]]
 - [[concept-catalyst-engineering-scaffolds]]
 - [[generative-ai-reduced-study-time-math]]
 - [[avraamidou-ai-colonization-science-education]]
 - [[ai-science-chemistry-education-systematic-review-2025]] — 科学／化学教育中 AI 的系统综述
-- [[astor-computational-thinking-meta-review-2026]] — 作为 21 世纪技能、横跨 STEM 的计算思维
 - [[ai-information-extraction-undergraduate-thesis-2026]] — 支持本科论文与研究式学习的 AI 驱动信息提取（An et al. 2026）
 - [[simulation-assisted-drone-learning-stem-2026]] — 采用教师—AI 共同设计支架的模拟辅助无人机学习
 - [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
 - [[ai-supported-instruction-stem-meta-analysis-2026]] — 35 项研究中 AI 支持的 STEM 教学的合并效应，增益在高中最大（Doğan et al. 2026）
-- [[hallstrom-ai-literacy-stem-education-frontiers-2026]] — STEM 教育中人工智能素养十篇最高被引研究的综述（Hallström 等，2026）
+- [[caee-digital-twins-stem-education-systematic-review-2026]] — STEM 中的数字孪生：每项被综述的研究都交付了一个可运行的原型，很少测量学习
+- [[structured-genai-training-physics-problem-solving-rct-2026]] — 一次 45 分钟的提示与错误核查课程抬高了物理后测分数（*d* = 0.814）
+- [[intelligent-tutoring-mathematics-education-review-2026]] — 数学 ITS 的证据是有界且有条件的

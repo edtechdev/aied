@@ -1,13 +1,13 @@
 ---
 title: 自适应学习
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-09T18:39:30-04:00"
+updated: "2026-10-24T14:46:08-04:00"
 type: concept
 pedagogy: [scaffolding]
 technology: [cognitive-diagnosis, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, personalized-learning, student-modeling]
 confidence: high
 translation_of: concepts/adaptive-learning
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-16T09:45:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -63,6 +63,7 @@ ai_assist:
 ### 研究证据
 
 - **关于自适应加人工智能工具的[[meta-analysis-systematic-review|元分析]]证据。**[[burneo-can-edtech-close-learning-gaps-2026|一项世界银行的元分析]]在共同量表上合并了 14 项[[rct|RCT]]中的自适应计算机辅助学习、智能导学系统与生成式人工智能，估计平均学习增益约 0.125 个标准差，而两代技术之间没有显著差异——证据表明驱动增益的是适应机制，而非具体的工具代际。
+- **可解释评分加时间预算化路由。**[[mars-momentum-aware-adaptive-rating-assessment-2026|Sahu 等（2026）]]保留少数几个显式的学习者标量（评分敏感度、作答质量与动量），并在时间预算下路由题目，把评分更新的波动性相对固定 Elo 削减约一半，而在预测上落后于神经知识追踪（AUC 0.7532 对 GKT 的 0.8658）。
 - **在动态领域中比较自适应算法。**[[graph-its-adaptive-algorithms-2026|基于图的智能导学系统研究]]在一个基于图的知识表征框架中，为动态课程比较了多种自适应学习算法（包括贝叶斯知识传播与直觉主义模糊逻辑）。
 
 - **强化学习作为一种适应机制，经实证描摹。**[[riedmann-reinforcement-learning-education-review-2026|Riedmann、Schaper 与 Lugrin（2025）]]综合了 89 项教育中的强化学习研究，发现适应分为与内容相关的（教学排序／内容排程，n = 53）和与引导相关的（提示、[[feedback|反馈]]、活动选择，n = 36）机制——强化学习在引导性适应上对基线取得统计显著优越性的频率，高于在内容排程上。他们建议在自适应学习中使用免模型强化学习，并告诫在所综述的研究中，经典强化学习的表现优于深度强化学习。
@@ -106,6 +107,7 @@ ai_assist:
 - [[recommender-systems-and-learning-paths|推荐系统与学习路径]]
 ## 关联文章
 
+- [[mars-momentum-aware-adaptive-rating-assessment-2026]] — MARS：面向个性化评估的动量感知自适应评分系统
 - [[deceptive-overgeneralization-adaptive-learning-2026]] — 欺骗性过度泛化：自适应掌握可能在学习者知道何时克制一个行动之前就停止练习（An、McLaren 与 Stamper，2026）
 - [[turano-ai-tutoring-not-a-monolith-2026]] — 人工智能导学并非铁板一块：我们实际知道的（Stanford SCALE/NSSA 简报）
 - [[adaptive-ai-scaffold-collaborative-problem-solving-2026]]

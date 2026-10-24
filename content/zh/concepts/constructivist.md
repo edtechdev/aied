@@ -154,7 +154,7 @@ ai_assist:
 - [[ojeda-ramirez-community-based-ai-learning]]
 - [[vargas-ai-catalyst-situated-learning-2026]]
 - [[niari-ai-pedagogical-mediator-collaborative-learning]]
-- [[educational-robotics-pathways-2026]] — Pathways to Learning AI-Powered Educational Robotics (2026)
+- [[educational-robotics-pathways-2026]] — 通往 AI 支持的教育机器人学习之路（2026）
 - [[cogevolution-student-cognitive-evolution-agent-2026]] — CogEvolution：模拟学生认知演化的生成式智能体
 
 - [[synthetic-position-self-authorship-2026]] — 模拟的AI对立立场排练对话的形式，却扣留了迫使修订的反抗

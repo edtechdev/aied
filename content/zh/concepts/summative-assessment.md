@@ -44,6 +44,7 @@ ai_assist:
 - **结果一致性可以在题目评分不精确的情况下存活。** 对照经审校的官方分数，一个给 10,364 页手写物理奥林匹克和大学试卷打分的多模态 LLM，相关达 r = 0.93–0.96，并找回了同一支五人国际队，尽管题目分部的精确一致率只到 70%——评分者要由它所支持的那些决策来评判（[[ai-grading-handwritten-physics-2026|Pathak 等（2026）]]）。
 - **AI 作为逃避手段。** 因为生成式 AI 能给出书面问题的答案，未监考和居家的终结性任务失去效度：[[generative-ai-reduced-study-time-math|监考且无辅助的测量是必需的]]，因为未监考的表现被 AI 抬高，而[[generative-ai-guardrails-harm-learning|有护栏（给提示而非给答案）的工具]]可以消除不受约束的 AI 造成的考试惩罚。[[chirikov-ai-grade-inflation-2026|Chirikov（2026）]]对 500,000+ 个成绩的准实验让这一机制变得具体：ChatGPT 发布后，AI 暴露任务更多的课程中 A 级成绩占比上升 13 个百分点，且效应集中在**作业密集的课程**（三重差分估计中再加 16 pp）——这是直接证据：AI 抬高终结性结果的，是未监考的作业，而非真正的[[learning-gains|学习增益]]。
 - **AI 生成的考试。**[[assessing-quality-ai-generated-exams-field-2025|一项大规模现场研究]]和[[ai-vs-human-assessment-efl-tpck-2026|EFL 评价研究]]考察 AI 能否*生成*高质量考试和评价任务——这是 AI 在新兴的终结性设计中的用途。
+- **学生无法可靠地识别 AI 起草的题目。** 在一场计分的家庭医学考试中，[[vogt-ai-mcq-recognition-medical-assessment-2026|Vogt 等（2026）]]发现，30 道 AI 生成的多选题与 30 道执照考试多选题在来源归因上没有显著差异，正确识别率均值为 68.6% 至 77.5%，且 18.2% 的生成题目在[[human-in-the-loop-ai|人工复核]]中被剔除。
 
 ## 抗 AI 的终结性形式
 
@@ -109,3 +110,4 @@ ai_assist:
 - [[ai-grading-handwritten-physics-2026]] — 手写物理评价的 AI 评分（奥林匹克）
 - [[mesny-innovative-assessment-grading-management-2026]]
 - [[cvengros-grading-handwritten-chemistry-ai-2026]]
+- [[vogt-ai-mcq-recognition-medical-assessment-2026]] — Students cannot reliably spot AI-drafted items：学生无法可靠地识别 AI 起草的题目

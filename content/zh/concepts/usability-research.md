@@ -73,12 +73,12 @@ ai_assist:
 
 ## 关联文章
 
-- [[icub-humanoid-storytelling-llm-hri-2025]] — A usability study of an LLM-powered storytelling humanoid
-- [[rhaimi-productivemath-2025]] — ProductiveMath: usability of a generative-AI app
-- [[supplynet-visual-exploratory-learning]] — SupplyNet user study
-- [[anvil-ai-educational-animations]] — Usability of AI-generated educational animations
-- [[code-anchor-multi-view-visualization]] — Think-aloud study of multi-view code visualizations
-- [[learn-framework-responsible-genai-pbl-2026]] — LEARN framework and think-aloud evaluation
-- [[feedback-futures-genai]] — How learners process AI-generated feedback
-- [[llm-chatbots-cs-multiple-choice]] — LLM chatbots for CS multiple-choice questions
-- [[conversational-ai-agents-umbrella-review-2026]] — Umbrella review of conversational AI agents
+- [[icub-humanoid-storytelling-llm-hri-2025]] — 一项 LLM 驱动讲故事人形机器人的可用性研究
+- [[rhaimi-productivemath-2025]] — ProductiveMath：一款生成式 AI 应用的可用性
+- [[supplynet-visual-exploratory-learning]] — SupplyNet 用户研究
+- [[anvil-ai-educational-animations]] — AI 生成教育动画的可用性
+- [[code-anchor-multi-view-visualization]] — 多视图代码可视化的有声思维研究
+- [[learn-framework-responsible-genai-pbl-2026]] — LEARN 框架与有声思维评价
+- [[feedback-futures-genai]] — 学习者如何处理 AI 生成的反馈
+- [[llm-chatbots-cs-multiple-choice]] — 用于 CS 选择题的 LLM 聊天机器人
+- [[conversational-ai-agents-umbrella-review-2026]] — 对话式 AI 智能体的伞式综述

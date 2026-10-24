@@ -1,7 +1,7 @@
 ---
 title: "人工智能如何在我的课程中支持残障学习者与神经多样性学习者？"
 created: "2026-09-22T19:41:09-04:00"
-updated: "2026-10-09T18:10:00-04:00"
+updated: "2026-10-24T17:30:00-04:00"
 weight: 65
 type: faq
 methods: [meta-analysis-systematic-review]
@@ -9,7 +9,7 @@ ethics: [accessibility, assistive-technology, equity-in-ai-education, inclusive-
 research_method: [case study]
 audience: [instructors, instructional designers]
 level: [higher ed, k 12, special education]
-source_updated: "2026-10-02T08:21:34-04:00"
+source_updated: "2026-10-21T14:32:00-04:00"
 translation_of: faqs/ai-disabled-neurodivergent-learners
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]

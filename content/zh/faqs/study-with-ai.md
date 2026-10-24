@@ -1,7 +1,7 @@
 ---
 title: "我应当如何用人工智能来有效地学习？"
 created: "2026-09-22T19:50:48-04:00"
-updated: "2026-10-09T18:10:00-04:00"
+updated: "2026-10-24T14:13:55-04:00"
 weight: 60
 type: faq
 foundations: [cognitive-offloading]
@@ -11,7 +11,7 @@ research_method: [experiment, literature review, survey]
 audience: [learners, instructors]
 level: [higher ed, secondary]
 connected_resources: [gemini-notebook]
-source_updated: "2026-10-02T08:21:34-04:00"
+source_updated: "2026-10-21T14:32:00-04:00"
 translation_of: faqs/study-with-ai
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
@@ -27,8 +27,6 @@ ai_assist:
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
-
-# 我应当如何用人工智能来有效地学习？
 
 现在是晚上 11 点，你明天早上要交一份习题，还有一篇论文尚未动笔，而聊天窗口已经开着。这些工具中的每一个，几乎你问什么它都会立刻回答，用流畅得像是出自懂行之人之手的文字。正因如此，用好它们是一门技能，而不是一种便利。
 

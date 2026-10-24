@@ -1,5 +1,5 @@
 ---
-connected_resources: [drawsplat, fpds-apps-and-resources, id-toolbox, idstack]
+connected_resources: [drawsplat, fpds-apps-and-resources, id-toolbox, idstack, teacher-dev]
 title: 可及性
 created: "2026-08-23T12:00:00-04:00"
 updated: "2026-10-09T18:39:26-04:00"
@@ -112,7 +112,7 @@ ai_assist:
 - [[genai-minoritized-knowledges-disability]] — 关于 AI 与以残障为中心知识的批判视角
 - [[gemini-lualatex-physics-video-transcription-2026]] — Gemini+LuaLaTeX 数学可及的物理视频转录
 - [[khlaif-assistive-genai-visually-impaired-2026]] — 面向视障学习者的辅助性 GenAI
-- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — Generative AI, virtual reality, and beyond: A scoping review of digital assistive technologies for neurodivergent students in higher education
+- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — 生成式 AI、虚拟现实及其他：面向高等教育神经多样性学生的数字辅助技术范围综述
 - [[wright-transcription-not-generation-2026]] — 转录不是生成：过度包容的 AI 禁令及其捕获的辅助工具
 - [[airri-machine-resistant-reading-interface-2026]] — AIRRI：面向人类可读、抗机器的阅读界面
 - [[ad4edu-lecture-audio-description-2026]] — AD4EDU：跨可及性标准、指标与学习者偏好的大学讲座音频描述基准

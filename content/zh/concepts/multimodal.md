@@ -121,7 +121,7 @@ ai_assist:
 ## 关联文章
 
 - [[burriss-multimodal-composition-critical-ai-literacy-2026]] — 以视频公益广告创作作为批判性人工智能素养教学法（Burriss 等人 2026）
-- [[student-attention-estimation-fairness-2026]] — Fairness-Aware Multimodal Transformer Modeling for Real-Time Student Attention Estimation
+- [[student-attention-estimation-fairness-2026]] — 面向实时学生注意力估计的公平性感知多模态 Transformer 建模
 - [[omniphys-multimodal-physics-benchmark-2026]]
 - [[drawedumath-vlm-struggling-students-2026]] — VLM 在手写学生数学作业上的表现（DrawEduMath，Lucy 等人 2026）
 - [[multimodal-learning-genai]] — 用生成式人工智能进行多模态学习的教育者指南（MMLD-AI 模型）
@@ -138,10 +138,10 @@ ai_assist:
 - [[nuclear-diffusion-text-to-image-learning-2026]] — 核工程教育中的文本到图像学习
 - [[privacy-aware-classroom-incident-recognition-2026]] — 隐私感知的多模态课堂感知
 - [[genai-cybersecurity-ocr-multimodal-instruction-2025]] — 网络安全教育中的多模态 OCR 指导
-- [[cfes-p24-multimodal-slide-auditing-2026]] — CFES-P24: Benchmarking Multimodal LLMs for Slide Auditing
+- [[cfes-p24-multimodal-slide-auditing-2026]] — CFES-P24：多模态 LLM 幻灯片审计基准
 - [[ai-grading-handwritten-physics-2026]] — 手写物理评估的人工智能评分（奥林匹克）
 - [[lu-ai-multimodal-writing-critical-thinking-2026]] — 小学写作中的多模态人工智能创作与批判性思维（Lu 等人 2027）
 - [[cvengros-grading-handwritten-chemistry-ai-2026]]
-- [[geovad-bench-visual-chain-of-thought-geometry-2026]] — Beyond Generation and Accuracy: Diagnosing and Enhancing Visual Chain-of-Thought for Geometry Problem Solving
+- [[geovad-bench-visual-chain-of-thought-geometry-2026]] — 超越生成与准确度：诊断并增强几何解题的视觉思维链
 - [[muse-vlm-artistic-image-benchmark-2026]] — MUSE: 1,174 件艺术品上的 12 项任务显示 VLM 能力是一种维度特定的剖面，在情感解释与视点依赖的空间推理中最弱（Zhu 等人 2026）
-- [[ai-assisted-physics-lab-report-assessment-2026]] — AI-Assisted Assessment of Experimental Physics Laboratory Reports: Potential, Limitations, and Support for Teaching Practice
+- [[ai-assisted-physics-lab-report-assessment-2026]] — 实验物理实验报告的人工智能辅助评估：潜力、局限与对教学实践的支持

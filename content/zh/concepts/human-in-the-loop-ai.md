@@ -1,7 +1,7 @@
 ---
 title: 人在回路
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-10-09T18:39:21-04:00"
+updated: "2026-10-24T16:20:00-04:00"
 connected_faqs: [ai-agents-support-students-instructors, designing-educational-ai-software, ai-feedback-at-scale]
 type: concept
 foundations: [ai-education]
@@ -12,7 +12,7 @@ confidence: medium
 methods: [benchmark]
 ethics: [pedagogical-safety]
 translation_of: concepts/human-in-the-loop-ai
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-24T06:14:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -42,10 +42,11 @@ ai_assist:
 ## 引言
 
 HITL 是对完全自主的 [[ai-education|教育 AI]] 之局限与风险的回应：自动化系统能规模化生成，却缺乏教师与专家带来的情境性、[[ethics|伦理]] 与教学判断。两项近期的实现展示了不同的架构：
+- **如果人只是批准，人在回路就不够。**[[learning-analytics-genai-learning-design|Rienties、Divjak 与 Law（2026）]] 主张，有意义的能动性要求具备理解、质疑、重新设计并有时拒绝 AI 支持之建议的能力，而不只是批准那些在别处已定形的决定。
 
 处方性支持是一个日益被论证为人类监督不可缺席的领域。[[lopez-pernas-llm-appropriate-student-support-2026|López-Pernas 等人（2026）]] 测试了三个大语言模型能否依据 [[learning-analytics|学习分析]] 指标推荐学生支持方案，发现对需求的敏感性有限且跨模型不一致性显著 —— 结论是在 [[llm|大语言模型]] 的处方性建议能被安全、合乎伦理地部署之前，人在回路的判断仍是必要的。
 
-第三种架构把人类判断放在模型的 *上游* 而非其输出处。在 [[lee-learner-question-types-ai-education-2026|Lee、Atif 与 Kang（2026）]] 对学习者问题分类的研究中，三位博士级专家治理了整条管线：他们精炼了每个 [[constructivist|建构主义]] 角色的操作定义，独立标注直到经不一致消解后 Fleiss' kappa 从 0.60 升至 0.83，并验证了用于平衡训练集的回译与改写题目。
+第二种架构把人类判断放在模型的 *上游* 而非其输出处。在 [[lee-learner-question-types-ai-education-2026|Lee、Atif 与 Kang（2026）]] 对学习者问题分类的研究中，三位博士级专家治理了整条管线：他们精炼了每个 [[constructivist|建构主义]] 角色的操作定义，独立标注直到经不一致消解后 Fleiss' kappa 从 0.60 升至 0.83，并验证了用于平衡训练集的回译与改写题目。
 
 ## CODE-GEN：人在回路的选择题生成
 
@@ -103,6 +104,12 @@ Kim、Baek 与 Kwak（2026）通过 **PedaCo**（Pedagogical Co-creation，教�
 - **智能体式与多智能体系统：** 随着 AI 变得更自主，HITL 监督是核心 [[agentic-ai|设计护栏]]（[[agentic-ai-pedagogical-best-practice-2026]]、[[guided-llm-scaffolding-independent-learning]]）。
 - **按决策后果而非模型不确定性路由（2026）。** [[human-in-the-loop-ai-scoring-national-assessment-2026|一项 2026 年的操作性研究]] 对乌拉圭 Acredita EB 国家认证考试（两版，各约 5,000—6,000 名考生）的研究展示了当人在回路设计由决策后果而非模型不确定性驱动时的样子。一个 GPT-5 评分器在 15 个量规项目上与专家评分者一致的占 60—80%，但系统性偏保守，在 15.3%（2024）与 16.5%（2025）的通过/不通过比较中产生“人通过而 AI 不通过”的差异，且几乎从不反向。因此该框架对 AI 通过的结论照单全收，并把每一个可能改变考生结果的 AI 不通过结论路由给专家评审 —— 在此之前先跳过那些通过/不通过不取决于写作部分的考生 —— 把需要全量人工评分的回应削减至少 50%。另一项 2026 年的设计从另一侧划定边界：在一个多智能体 AI 标准化病人平台（[[ai-standardized-patient-scaffolding-medical-2026|Yang 等人]]）中，人类监督只为 AI 被判定不适合决定之事保留，由教师与人类标准化病人提供情境解释、补救与准备度判断，且系统被明确禁止自主判定 [[medical-education|临床]] 能力。
 
+扣留系统所偏好的答案是保护性的，而非纠正性的：在一项从不透露推荐立场的多智能体辩论中，转向错误 AI 答案的有害切换从 42.0–60.5% 降至 5.7–8.2%，而对正确建议的采纳也随之下降（[[tuo-armada-multi-agent-debate-overreliance-2026|Tuo 等人，2026]]）。
+- **研究工具：人验证的是标签，而不是分数。**学习科学与计算机科学方向的编码者在一个同步时间线上评判 LLM 生成的行为片段，κ = 0.703，他们的分歧成为该研究自身的错误分析（[[fonteles-embodied-learning-human-in-the-loop-multimodal-2026|Fonteles 等人，2026]]）。
+- **模型做摘要，研究者做标注。**一项协作建模研究用 GPT-3.5-Turbo 为 394 个话语片段各写一份任务情境感知的摘要，由研究者逐份验证并编码到 κ ≥ 0.7，再在这些标签上训练检测器，因此模型本身从不作出判断。监督随后向外移动：四位经验丰富的教师评审了一个已标注片段，其中三位识别出了这些行为，另一位则主张同一片段上的两个标签模糊了学生正在做的事，作者记录而未解决这一可用性异议（[[zhang-llm-detection-ssrl-collaborative-modeling-2026|Zhang 等人，2026]]）。
+- **把 HITL 当作一门学科的整体架构，而非单条工作流。**[[zhai-science-literacy-generative-ai-coherence-2026|Zhai 等人（2026）]] 给出四个相互咬合的层级——数据基础设施、模型开发、教学接口与人类治理——由三条原则维系：人的监督与能动性、协同适应智能，以及情境响应性。
+
+
 ## 综合
 
 人在回路设计不只是一种安全措施 —— 它是一种 **资源分配策略**。前沿问题不是 *是否* 纳入人，而是其判断在管线中何处具有最高边际价值。最有效的 HITL 系统把稀缺的人类专长集中于自动化系统最弱之处（干扰项设计、解释性反馈、边缘案例裁决、伦理判断），并自动化其余 —— 在规模化生产的同时保住质量、安全与信任。
@@ -136,6 +143,8 @@ Kim、Baek 与 Kwak（2026）通过 **PedaCo**（Pedagogical Co-creation，教�
 - [[student-support-and-success]] — 自动化支持流中的人类判断
 
 ## 关联文章
+- [[zhai-science-literacy-generative-ai-coherence-2026]] — 面向科学教育中生成式 AI 的四层 HITL 架构（Zhai 等人 2026）
+- [[fonteles-embodied-learning-human-in-the-loop-multimodal-2026]] — 编码者把 LLM 行为片段验证为研究工具（Fonteles 等人 2026）
 - [[lee-learner-question-types-ai-education-2026]] — 专家标注的问题分类：人类治理标注、增强与错误分析（Lee、Atif & Kang 2026）
 - [[ilieva-agentic-genai-higher-education-2026]] — 人类监督与治理作为智能体式生成式 AI 课程设计的第三层（Ilieva 等人 2026）
 - [[ko-hughes-vsd-student-centered-its-2026]] — 以学生为中心的智能辅导系统的价值敏感设计（学习者处于辅导回路中）
@@ -167,3 +176,4 @@ Kim、Baek 与 Kwak（2026）通过 **PedaCo**（Pedagogical Co-creation，教�
 - [[when-students-prefer-ai-scoring-feedback-2026]] — 本科生对高风险工作偏好人工评分，并把 AI 当助手而非替代
 - [[student-query-demand-hybrid-ai-support-2026]] — 学生实际问什么：混合支持系统中的需求结构与自动化潜力
 - [[in-the-loop-educational-ai-learning-sciences-2026]] — 重思教育 AI 中的“人在回路”方法：学习科学的视角
+- [[tuo-armada-multi-agent-debate-overreliance-2026]] — 扣留系统所偏好的答案降低了过度依赖（Tuo 等人 2026）

@@ -1,7 +1,7 @@
 ---
 title: 神经多样性
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-10-09T18:58:10-04:00"
+updated: "2026-10-24T14:59:14-04:00"
 type: concept
 ethics: [equity-in-ai-education, inclusive-learning, neurodiversity]
 connected_faqs: [ai-guidance-children-under-13, ai-disabled-neurodivergent-learners]
@@ -9,7 +9,7 @@ audience: [learners, instructors, instructional designers]
 level: [special education, higher ed, k 12]
 confidence: high
 translation_of: concepts/neurodiversity
-source_updated: "2026-09-30T08:05:25-04:00"
+source_updated: "2026-10-16T08:47:09-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -65,6 +65,7 @@ ai_assist:
 ## 设计告诫
 
 - **按诊断开门的支持排除了它未点名的学习者。** 范围综述的批判直接适用于AI功能的部署方式：如果一个功能由 accommodations 信函解锁，有功能差异但无诊断的学习者永远见不到它。
+- **检测驱动的流程会阻碍合法的 accommodations 使用。** 当某项语言技术充当神经多样性学习者有效的 accommodation 时，一刀切的禁令或阻碍其合法使用的检测驱动流程会引发平等议题：[[ai-detection|检测]]文献所记录的这起被撤销的不端行为案件涉及一名自闭症谱系支持项目中的学生（[[angelier-ai-detection-pitfalls-inclusive-assessment-2026|Angelier（2026）]]）。
 - **工具可以在认识论上排除人，而不只是做得差。** [[genai-minoritized-knowledges-disability|Tali-Otmani（2026）]]论证，以英语为中心、西方中心的训练数据使非霸权式的认识方式边缘化，并把残障学习者的处境置于该批判的中心 —— 这是对"包容性"AI仍可能编码"谁的知识算数"的警告。
 - **行为信号被不认识学习者的系统读取。** 在[[learning-analytics]]与[[student-modeling]]中对[[student-engagement|投入]]、挣扎或注意力的解读，假定了一种规范的反应模式；关于该假定的公平证据见[[differential-effects-across-learner-groups|不同学习者群体间的差异效应]]。
 - **依赖是设计的结果，而非学习者的失败。** 鉴于上述依赖路径，对任何AI功能应问的问题是：它是否替代了该作业存在以培养的高阶过程 —— 这正是Seung与Basham为学习障碍所提出的要点。
@@ -96,13 +97,14 @@ ai_assist:
 
 ## 关联文章
 
-- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — Generative AI, virtual reality, and beyond: a scoping review of digital assistive technologies for neurodivergent students in higher education
+- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — 生成式AI、虚拟现实及其他：高等教育中神经多样性学生数字辅助技术的范围综述
 - [[zhang-ai-students-disabilities-meta-analysis-2024]] — 29项面向残障学生的AI研究，以及一个随类别变化的效应
 - [[adhd-video-segmentation-computing-education]] — 把ADHD参与者带到平齐的时序视频分段
 - [[neurodivergent-computing-students]] — 24名神经多样性计算专业学生论结构、模糊性与协作
 - [[genai-reliance-executive-functioning-2026]] — 执行功能困难、感知有用性与通往AI依赖之路
 - [[seung-basham-cognitive-offloading-swld-2026]] — 面向学习障碍学生的GenAI认知外包
-- [[dabaghi-ai-dyslexia-education-review-2026]] — AI to help people with dyslexia in education
+- [[dabaghi-ai-dyslexia-education-review-2026]] — 帮助教育中阅读障碍者的AI
 - [[genai-minoritized-knowledges-disability]] — 生成式AI与被边缘化知识的边缘化
-- [[tactile-statistical-graphs-accessibility]] — Tactile Statistical Graphs for Accessibility
-- [[ai-learning-tools-engineering-education-needs]] — Designing Needs- and Attention-Aware AI Learning Tools
+- [[tactile-statistical-graphs-accessibility]] — 面向无障碍的触觉统计图表
+- [[ai-learning-tools-engineering-education-needs]] — 设计需求感知与注意感知的 AI 学习工具
+- [[angelier-ai-detection-pitfalls-inclusive-assessment-2026]] — 检测驱动的流程会阻碍合法的 accommodations 使用

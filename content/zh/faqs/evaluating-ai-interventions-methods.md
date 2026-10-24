@@ -1,12 +1,13 @@
 ---
 title: "教师可以用哪些测量工具与研究方法去评价与人工智能相关的干预？"
 created: "2026-09-22T19:50:48-04:00"
-updated: "2026-10-09T18:10:00-04:00"
+updated: "2026-10-24T15:35:01-04:00"
 weight: 55
+audience: [instructors, researchers, faculty developers]
 assessment: [assessment, self-report-measures]
 page_kind: [evaluation]
 methods: [ai-ed-evaluation, research-methods-aied]
-source_updated: "2026-10-02T08:21:34-04:00"
+source_updated: "2026-10-21T14:32:00-04:00"
 translation_of: faqs/evaluating-ai-interventions-methods
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
@@ -22,8 +23,6 @@ ai_assist:
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
-
-# 教师可以用哪些测量工具与研究方法去评价与人工智能相关的干预？
 
 **让方法与主张相匹配。** 如果你想知道学生*是否喜欢*某项人工智能活动，问卷可以帮上忙。如果你想知道他们*是否学到*了东西，就要使用表现性测量。问卷是一种[[self-report-measures|自陈式测量]]，对态度而言是正确的工具，对学习而言则是错误的工具，原因集中在该页面上。如果你想知道人工智能*是否导致*了改进，你需要一个可信的对照条件，最好是随机分配。
 

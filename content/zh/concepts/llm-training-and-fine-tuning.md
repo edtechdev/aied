@@ -1,7 +1,7 @@
 ---
 title: LLM 训练与微调
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-10-09T18:58:10-04:00"
+updated: "2026-10-24T15:28:00-04:00"
 type: concept
 connected_faqs: [making-ai-better-at-supporting-learning, training-ai-tutors-to-guide-rather-than-answer, checking-whether-educational-ai-works]
 foundations: [ai-education]
@@ -13,7 +13,7 @@ confidence: high
 methods: [benchmark]
 ethics: [pedagogical-safety]
 translation_of: concepts/llm-training-and-fine-tuning
-source_updated: "2026-10-02T08:08:45-04:00"
+source_updated: "2026-10-16T08:47:09-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -74,6 +74,7 @@ ai_assist:
 这一模式在截然不同的任务上重复出现：
 
 - **课程落地。** 一个扎根于印度知识体系、含 24,795 个样例的多语言指令数据集，产出的 7B 微调模型在五人外部评审组上得 **6.39**（在 1,201 个分层题目上的中位数）。这在一个通用参考模型的 **0.15** 之内，而部署成本只是其零头——而同一基座模型不经微调，在 IKS 特定维度上**接近零分**（[[iks-instruct-dataset-indian-knowledge]]）。"通才上称职"与"在此处称职"之间的这道鸿沟，正是领域适配的全部理由。还要注意作者报告的一个反直觉细节：质量并*不*随数据整理单调上升。
+- **[[curriculum-design|课程]]结构化的数据是样本高效的。**在大致 2,300 个样例的匹配预算下，在源自人民教育出版社教材的 K–12 [[knowledge-graph|知识图谱]]的问答对上做微调，胜过了八个主流指令语料中同等大小的切片，且增益迁移到受训学科之外，这证明课程结构才是教育训练数据的区分之处（[[liang-k12-kgraph-curriculum-knowledge-graph-2026|Liang 等（2026）]]）。
 - **便宜的评估可靠性。** 一个在约 **3,900** 个汇总评分样例上训练的单一 LoRA 适配器，把五个小型开源模型（4B–30B）带到与人类评分员相当或更好，横跨两场计算机考试，并几乎抹平了人格敏感性（漂移 ≤ 0.32 MAE）（[[llm-graders-computer-science-exams-2026]]）。一个适配器、一个数据集、若干个基座模型——这是实用部署的形态。
 - **选择性自动化。** 置信度是评分误差的可靠预测因子（β = −0.602，p < .001）。把最不可靠的 **20%** 回答路由给人工审阅，把一个微调过的 GPT-3.5 模型从 r = 0.781 提到 **r = 0.822**（RMSE 0.5990 → 0.5544），同时把人工评分工作量削减约 **80%**（[[know-when-to-trust-ai-scoring-reliability-2026]]）。这里的微调不是在取代人，而是让人的注意力变得可负担。
 - **测量你否则要人工打分的构念。** 微调过的匈牙利语 transformer（hubert-base-cc、PULI-BERT-Large）与 TF-IDF 特征和 Qwen3 嵌入作了基准比较，用于给 [[teacher-education|教师培训]]中的反思性写作评分（[[reflection-level-classification-hungarian-essays-2026]]）；一个微调过的多模态模型（基于 Qwen3.5）被证明可以为选择题重建题目特征曲线，学习编码在 3PL 与 MCM 曲线中的回答模式，而非被告知它们（[[multimodal-item-parameter-estimation-2026]]）。
@@ -220,3 +221,4 @@ LoRA 及其同类是大多数教育团队实际工作的地方，而文献中包
 - [[simulated-students-tutoring-dialogues-2026]] — 模拟学生是否表现得像学生
 - [[inside-llm-student-simulator-reasoning-2026]] — 微调模型使之像学生般行动与思考
 - [[history-aware-student-simulation]] — 条件设于学习者轨迹之上的模拟
+- [[liang-k12-kgraph-curriculum-knowledge-graph-2026]] — 课程结构化的数据是样本高效的

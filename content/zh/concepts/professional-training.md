@@ -100,4 +100,4 @@ ai_assist:
 - [[pinto-ai-initial-teacher-training-mathematics-review-2026]] — 小学数学初始教师培训中人工智能的综述：简短的工具导向培训不够
 - [[cigerci-primary-teachers-perceptions-ai-mathematics-2026]] — 调查把先前人工智能培训与使用频率连接到土耳其小学教师的正面看法
 - [[kenzhebayeva-ai-role-rotation-pedagogical-model-2026]] — 角色轮换作为人工智能支持的专业准备的结构机制
-- [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — Open Questions Towards Skill-Sustaining Reliance in Reflective AI Engagement
+- [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — Open Questions Towards Skill-Sustaining Reliance in Reflective AI Engagement：迈向反思性 AI 投入中技能保全性依赖的开放问题

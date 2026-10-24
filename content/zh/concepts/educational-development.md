@@ -40,6 +40,7 @@ ai_assist:
 ## 人工智能时代的教育发展
 
 - **准备度框架：**[[sangwa-epiq-ai-faculty-readiness-2026|EPIQ-AI 框架]]识别出四个准备度域：认识论、教学法、机构，以及质量与合规。教师准备度是一个社会技术对齐问题，而不只是个人技能差距。
+- **采用一个框架之前，先核对它的层级描述的是什么。** 在 16 个获机构认可的人工智能能力框架中，人工智能使用、产出评价与领域应用在全部 16 个框架中都是实质性的，而问题提出（7 个）、数据能力（9 个）与人工智能创造（8 个）则不是；而且熟练度层级描述的是学习者发展、职业角色或年级，因此不能直接相互比较（[[ai-competence-framework-landscape-2026|Fitsilis（2026）]]）。
 - **技术整合标准：**[[crompton-faculty-technology-integration-standards-2026|Crompton 等]]用[[design-based-research|基于设计的研究]]为[[higher-ed|高等教育]]机构中技术（含人工智能）的整合开发教师标准。
 - **采用与信心：**[[teacher-ai-adoption-confidence|教师人工智能采用研究]]把关切、支持、信心与态度识别为关键预测因子。教师发展项目必须同时应对这四项。
 - **课程整合：**[[institutional-change-framework-ai|机构变革框架]]与[[ai-assessment-scale-reform|评估改革]]要求教师重构课程，而不只是添加人工智能工具。
@@ -159,3 +160,4 @@ ai_assist:
 - [[physics-faculty-learning-community-ai-2026]] — 在不确定时代有效使用人工智能的系列工作坊：建设一个物理教师学习社区
 
 - [[faculty-ai-well-being-social-supports-2026]] — 教师的人工智能幸福感追随人工智能素养，而非技术自我效能
+- [[ai-competence-framework-landscape-2026]] — Check what a framework's levels describe before adopting it：采用一个框架之前，先核对它的层级描述的是什么

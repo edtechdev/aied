@@ -47,6 +47,7 @@ ai_assist:
  [[kestin-ai-tutoring-outperforms-active-learning-rct-2025|Kestin 等人（2025）]] 转而采用被试内交叉设计：每个学生对同一份物理内容见两次，一次在课堂主动学习课中，一次通过课程自带的 AI 导师，每次前后都有测试，于是每个学习者充当自己的对照，人际差异相互抵消。
 - **优势：** 最强的因果推断；干净的结果测量；支持效应量估计与效力主张。
 - **局限：** 昂贵且缓慢；人为条件降低生态效度；快速变化的 AI 工具很快使实验过时；小样本不足以检出效应；在扣留有帮助的工具上有伦理约束。
+- **一项组随机化的可得性试验需要一次采用核查。** 在处理组课堂中，大约只有 15% 的学生曾使用过该导师，因此该研究的意向性处理估计反映的是引入该工具的效应，包括它所携带的许可与替代，而非单次使用课程的孤立效应（[[liu-course-integrated-ai-tutoring-rct-2026|Liu 等人（2026）]]）。
 
 ### 纵向研究
 纵向设计追踪同一批学习者随时间的变化，捕捉单时点测量会错失的变化、成长与持久学习。[[ai-lms-middle-school-longitudinal|一项纵向学习管理系统研究]] 追踪学生一整个学年。纵向设计对区分 AI 抬高的表现与 [[genai-performance-vs-learning|持久学习]] 至关重要。
@@ -55,6 +56,8 @@ ai_assist:
 
 ### 计算与心理测量式的量化
 量化方法也包括通过工具直接测量构念 —— 这是 [[educational-measurement|教育测量]] 与 [[item-response-theory|项目反应理论]] 的领域。本知识库的 [[jin-glat-genai-literacy-assessment|GLAT]] 是一份经 IRT 验证的 20 题量化工具；跨 [[ai-literacy|AI 素养]]、接受与自我效能感的 [[educational-measurement|测量工具]] 提供了调查与实验研究所依赖的经过验证的量表。
+
+文献计量分析是又一个量化家族：[[sriram-ethical-ai-medical-education-bibliometric-2026|Sriram 等人（2026）]] 通过国家、机构与关键词共现网络梳理了 1,403 篇 [[medical-education|医学教育]] 出版物，读出的是一部文献的形状而非对其研究的评价，正是这一点使他们“[[governance|治理]]研究尚未跟上能力测试”的结论成为关于该领域而非关于学习的断言。
 
 ## 量化研究在本知识库中的出现方式
 
@@ -97,3 +100,5 @@ ai_assist:
 - [[ai-lms-middle-school-longitudinal]] — 一项纵向的 AI 整合学习管理系统研究
 - [[adaptive-pretesting-retention]] — 自适应预测试与保持
 - [[synthetic-educational-data-structural-fidelity-2026]] — 保真度指标遗漏了什么：对合成教育数据的结构检验
+- [[liu-course-integrated-ai-tutoring-rct-2026]] - 一项组随机化的可得性试验需要一次采用核查
+- [[sriram-ethical-ai-medical-education-bibliometric-2026]] - 文献计量分析是又一个量化家族：Sriram 等人

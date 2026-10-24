@@ -1,7 +1,7 @@
 ---
 title: 教育中的人工智能监管
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-09T18:39:23-04:00"
+updated: "2026-10-24T15:57:18-04:00"
 type: concept
 foundations: [academic-integrity]
 ethics: [equity-in-ai-education, ethics, privacy, pedagogical-safety]
@@ -10,7 +10,7 @@ level: [higher ed]
 confidence: high
 institutions: [educational-policy-ai, governance]
 translation_of: concepts/regulation
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-16T07:28:51-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -50,6 +50,8 @@ ai_assist:
 
 知识库记录了人工智能部署速度与监管成熟度之间的持续差距。[[institutional-change-framework-ai|机构变革框架]]与监管研究主张主动[[governance]]而非被动政策。对[[raza-farooq-aied-review-2020-2025|综合人工智能教育综述]]的研究强调，监管跨司法辖区与教育层次不均，为教师、学生与开发者创造了一致性差的操作环境。
 
+[[agentic-ai|智能体式]]系统开辟了又一个差距。在一项对 12 所大学的文件分析中，[[wong-sun-agentic-ai-assessment-governance-2026|Wong 与 Sun（2026）]]发现，没有任何对照研究涉及一个智能体登录学习管理系统、持有学生凭证或代表学生行事，而若干有智能体意识的案例设定了明确的授权与访问边界。
+
 **这一差距既是时机的也是证据的。** [[gutowski-hurley-genai-policy-legal-education-2025|Gutowski 与 Hurley（2025）]]把一个专业部门描述为在时间压力下、缺乏可依据的证据基础制定政策：大多数经美国律师协会（ABA）认证的美国[[legal-education|法学院]]采取总体禁止的立场，同时把裁量权留给个别教师，而作者报告在披露或引用实践上无共识，且对 ABA 2024 年政策调查只有约 15% 的回应率。他们的规范回应 — 无论立场如何都给出清晰指引、起草中有[[stakeholders|利益相关者]]参与、治理设计得灵活并定期复审 — 与[[crompton-governing-genai-higher-ed-delphi-2026|全球德尔菲共识]]一致，后者同样把政策维护当作经常性的机构机制而非一次性任务。[[coates-governing-academic-integrity-indicators-2025|Coates、Croucher 与 Calderon（2025）]]补充了反向依赖：他们的治理改革项目得出结论，机构发展若无来自监管、基准测试与跨机构竞争的外部可供性就不太可能兑现，使质量与监管机构 — 以及它们强制的机构间比较 — 成为内部治理改革得以扎根的条件。
 
 对 EdTech 平台隐私政策的审计给这一依赖提供了一个具体实例。在 48 个平台上，数据收集披露得相对较好（均值 1.81/2），而人工智能披露（0.90）与问责（1.07）滞后，33% 未作有意义的人工智能披露尽管有可见的人工智能功能；美国[[k-12]]平台总体得分最高（M = 7.47，对美国[[higher-ed|高等教育]]的 5.50），却未在人工智能披露或问责上有任何增益 — 作者结论，监管只提高它点名的东西，因此必须由可执行的规则与采购标准而非自愿承诺使[[privacy]]成为部署的条件（[[edtech-privacy-deferral-2026|Nair & Greenstadt（2026）]]）。
@@ -80,7 +82,7 @@ ai_assist:
 - [[ai-lifelong-learning-policy]]
 - [[ai-ethics-education-public-discourse]]
 - [[ai-uk-higher-education-policy-2026]] — 英国高等教育政策中的人工智能
-- [[oecd-digital-education-outlook-2026]] — OECD Digital Education Outlook 2026
+- [[oecd-digital-education-outlook-2026]] — OECD Digital Education Outlook 2026：OECD 数字教育展望 2026
 - [[genai-declaration-frameworks-higher-education]] — 人工智能声明框架
 - [[genai-assessment-governance]] — GenAI 下的评估治理
 - [[league-ethical-governance-student-data-2026]] — 学生数据的伦理治理
@@ -94,4 +96,5 @@ ai_assist:
 - [[humble-prompt-injection-ai-grading-red-team-2026]] — 针对人工智能评分器的提示注入攻击与标准化韧性测试的理由（Humble 2026）
 - [[coates-governing-academic-integrity-indicators-2025]] — 外部监管压力作为治理改革的条件（Coates, Croucher & Calderon 2025）
 - [[watson-rainie-ai-challenge-faculty-survey-2026]] — 87% 的教师自订规则，对照薄弱的机构政策层（Watson & Rainie 2026）
-- [[edtech-privacy-deferral-2026]] — "We'll Fix It Later": Education, AI, and the Deferral of Student Privacy in EdTech
+- [[edtech-privacy-deferral-2026]] — “以后再说”：教育、人工智能与 EdTech 中学生隐私的推迟
+- [[wong-sun-agentic-ai-assessment-governance-2026]] — 没有任何对照政策涉及人工智能智能体登录 LMS 或持有学生凭证（Wong & Sun 2026）

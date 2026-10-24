@@ -1,7 +1,7 @@
 ---
 title: "设计教育"
 created: "2026-09-17T14:04:29-04:00"
-updated: "2026-10-09T19:06:59-04:00"
+updated: "2026-10-24T14:21:43-04:00"
 type: concept
 foundations: [ai-literacy, design-thinking]
 pedagogy: [creativity, professional-training]
@@ -12,7 +12,7 @@ audience: [instructors, instructional designers, curriculum designers, faculty d
 level: [higher ed]
 confidence: high
 translation_of: concepts/design-education
-source_updated: "2026-10-02T12:40:11-04:00"
+source_updated: "2026-10-16T08:47:09-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 ai_assist:
   - model: stepfun/step-5-preview:free
@@ -58,7 +58,11 @@ ai_assist:
 
 - **学生与工具谈判，而非单纯接受。** [[t2i-competence-paradox-2026|Liu、Meng 与 Zhang（2026）]] 调查了 417 名艺术与设计学生：表现预期、社会影响、新奇价值与创意胜任力预测使用文生图工具的意图，而努力预期预测为负，被解读为捷径导向的作业使用。他们的胜任力悖论是：创意胜任力支持意图，却预测更选择性的使用，因为学生权衡作者身份与技能保存——在工作室中过程即被评估之物时，这是一个 [[assessment-validity]] 问题。[[rana-genai-design-thinking-2025|Rana 等（2025）]] 从一个 12 周 [[design-thinking]] 课程的 112 份反思得出相容的结论：收益占主导（86% 正面情绪），伦理关切驱动 62% 的负面情绪，而有脚手架支持的整合使学生从怀疑转向 72% 的正面取向。
 
+- **GenAI 可以协助一项工作流，同时削弱创造性自信。** 在一项 36 名学生的建筑设计实验中，一个 DALL-E 3 工作流在评分表现与认知负荷上与前例检索相当，然而一般创造性[[self-efficacy|自我效能]]下降了（DiD = −0.543），而任务特定的信心保持不变（[[caeai-genai-architectural-design-creative-self-efficacy-2026|Xiao 等，2026]]）。
+
 - **AI 评图可被绑定到成果物而非提示。** [[critsly-design-education-ai-critique-2026|Kadir（2026）]] 经由一个共享的设计、笔记与图钉看板及五项有边界的活动路由工作室反馈；该研究报告的是模拟的就绪度（109 个标签中 78% 处于分析级或以上），而非学习增益。
+
+- **一个过程评分标准可以把 AI 核验变成被评分的对象。** [[human-ai-collaboration-design-education-rubric-2026|Orhon 等（2026）]]提出 Merit Report，一个四项判据的评分标准（有记录的策展意志 20%、建构转译 20%、基于规则的技术验证 40%、同伴审计 20%），它评分的是学生有记录的 AI 核验过程，而非成果物的精饰，并由一个他们称之为 AI-Validation Knowledge 的[[tpack|TPACK]]扩展提供支撑。
 
 ## 专业养成与监管
 
@@ -101,3 +105,5 @@ ai_assist:
 - [[yasar-llms-iterative-pedagogical-design-2026]]
 - [[rana-genai-design-thinking-2025]]
 - [[critsly-design-education-ai-critique-2026]] — Critsly/StudioCrit：一个面向工作室反馈的、成果物感知的 AI 评图工作空间；基于模拟的就绪度研究，非学习增益
+- [[caeai-genai-architectural-design-creative-self-efficacy-2026]] — 一项建筑设计实验：一个 DALL-E 3 工作流降低了一般创造性自我效能
+- [[human-ai-collaboration-design-education-rubric-2026]] — 一个过程评分标准可以把 AI 核验变成被评分的对象

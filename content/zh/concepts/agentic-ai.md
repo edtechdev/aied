@@ -194,28 +194,28 @@ ai_assist:
 ## 关联文章
 
 - [[pramod-agentic-ai-motivational-pathways-2026]] — 自主性、胜任性、关系性与社会临场作为从智能体式 AI 到投入的通路（Pramod 与 Patil 2026）
-- [[ai-agents-joyful-assessment-third-space-2026]] — AI agents, joyful assessment, and third space
-- [[ilieva-agentic-genai-higher-education-2026]] — The AGAI-HE framework: bounded, human-supervised agentic GAI in higher education (Ilieva et al. 2026)
+- [[ai-agents-joyful-assessment-third-space-2026]] — AI 智能体、愉悦性评估与第三空间
+- [[ilieva-agentic-genai-higher-education-2026]] — AGAI-HE 框架：高等教育中有界、人类监督的生成式 AI（Ilieva 等人 2026）
 - [[beyond-agent-label-agentic-ai-governance-2026]] — 引入 AOE 证据/监督框架的批判性整合综述
-- [[sudarshan-agentic-ai-ecosystems-higher-education-2026]] — Perspective on inclusive agentic multi-agent AI ecosystems in higher education
-- [[baradziej-agentic-ai-higher-education-2026]] — Systematic review of the roles of agentic AI in higher education (48 studies; six roles; tripartite responsible-integration framework)
-- [[kostopoulos-agentic-ai-education-2025]] — Agentic AI in education: state of the art and future directions (IEEE Access survey; operational definition + taxonomy)
+- [[sudarshan-agentic-ai-ecosystems-higher-education-2026]] — 关于高等教育中包容性多智能体 AI 生态系统的视角
+- [[baradziej-agentic-ai-higher-education-2026]] — 高等教育中智能体式 AI 角色的系统综述（48 项研究；六种角色；三分式负责任整合框架）
+- [[kostopoulos-agentic-ai-education-2025]] — 教育中的智能体式 AI：研究现状与未来方向（IEEE Access 综述；操作性定义 + 分类法）
 - [[agentic-ai-education-scoping-review]] — 智能体式 AI 在教育中的范围综述（474 项研究）
 - [[agentic-ai-pedagogical-best-practice-2026]] — 自动化与学习之间的张力
-- [[tool-invariant-framework-agentic-ai]] — Teaching and assessing computational methods in the age of agentic AI
-- [[jeon-isd-agent-bench-2026]] — ISD-Agent-Bench: benchmarking instructional-design agents
-- [[adversarial-stress-testing-role-playing-agents]] — Adversarial stress testing of role-playing agents
-- [[ai-agents-constructive-conflict-design-education-2026]] — Constructive conflict AI agents in design education
-- [[ai-tpack-teacher-multi-agent-workflow]] — Teacher TPACK and multi-agent workflows
-- [[code-gen]] — Code generation agents
-- [[educlaw-bench-pedagogical-llm-agents-2026]] — Pedagogical LLM agent benchmark
-- [[guided-llm-scaffolding-independent-learning]] — Guided LLM scaffolding for independent learning
-- [[learnmate2-llm-adaptive-learning]] — LearnMate-2 adaptive learning agents
-- [[cyberagents-gamified-cybersecurity-learning-2026]] — Gamified cybersecurity learning agents
-- [[hdr-brachytherapy-agentic-ai-simulation-2026]] — Agentic AI in clinical simulation
-- [[bozkurt-ghost-students-agentic-ai-2026]] — Ghost students and the agentic-AI verification gap (Bozkurt et al. 2026)
-- [[ai-agents-complete-lms-assessment-validity-2026]] — AI agents completing LMS tasks; validity failure via the human-production assumption (Hadjisolomou & El-Haddad 2026)
-- [[ai-web-agents-lesson-design-2025]] — AI Web Agents: a describing agent as a learning-experience evaluator (predicts dropout, gives design feedback before students engage)
-- [[spec-driven-development-ai-agents-sdpbl-2026]] — SDD with AI agents in software PBL; automation vs. comprehension
-- [[ai-standardized-patient-scaffolding-medical-2026]] — Evaluating Scaffolding-Oriented Multi-Agent Large Language Model System for Clinical Interview Training
-- [[ethics-training-agents-group-ethics-discussion-2026]] — Ethics Training Agents: Facilitating Group-Based Ethics Education with Role-Playing and Discussion for Ethical Reflection and Exploration
+- [[tool-invariant-framework-agentic-ai]] — 智能体式 AI 时代计算方法的教与评
+- [[jeon-isd-agent-bench-2026]] — ISD-Agent-Bench：对教学设计智能体的基准测试
+- [[adversarial-stress-testing-role-playing-agents]] — 角色扮演智能体的对抗性压力测试
+- [[ai-agents-constructive-conflict-design-education-2026]] — 设计教育中的建设性冲突 AI 智能体
+- [[ai-tpack-teacher-multi-agent-workflow]] — 教师 TPACK 与多智能体工作流
+- [[code-gen]] — 代码生成智能体
+- [[educlaw-bench-pedagogical-llm-agents-2026]] — 教学型 LLM 智能体基准
+- [[guided-llm-scaffolding-independent-learning]] — 用于独立学习的引导式 LLM 支架
+- [[learnmate2-llm-adaptive-learning]] — LearnMate-2 自适应学习智能体
+- [[cyberagents-gamified-cybersecurity-learning-2026]] — 游戏化的网络安全学习智能体
+- [[hdr-brachytherapy-agentic-ai-simulation-2026]] — 临床模拟中的智能体式 AI
+- [[bozkurt-ghost-students-agentic-ai-2026]] — 幽灵学生与智能体式 AI 的核验缺口（Bozkurt 等人 2026）
+- [[ai-agents-complete-lms-assessment-validity-2026]] — AI 智能体完成 LMS 任务；经由"人类产出"假设的效度失败（Hadjisolomou & El-Haddad 2026）
+- [[ai-web-agents-lesson-design-2025]] — AI Web Agents：把描述型智能体用作学习体验评估者（预测辍学，在学生参与前给出设计反馈）
+- [[spec-driven-development-ai-agents-sdpbl-2026]] — 软件 PBL 中带 AI 智能体的 SDD；自动化 vs. 理解
+- [[ai-standardized-patient-scaffolding-medical-2026]] — 评估面向支架的多智能体大语言模型系统在临床问诊训练中的表现
+- [[ethics-training-agents-group-ethics-discussion-2026]] — Ethics Training Agents：以角色扮演与讨论促进小组伦理教育，用于伦理反思与探索

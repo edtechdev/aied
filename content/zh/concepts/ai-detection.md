@@ -2,7 +2,7 @@
 connected_resources: [process-feedback]
 title: 人工智能检测
 created: "2026-05-29T10:44:35-04:00"
-updated: "2026-10-09T18:39:21-04:00"
+updated: "2026-10-24T14:49:07-04:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading]
 technology: [generative-ai, llm]
@@ -14,7 +14,7 @@ confidence: high
 connected_faqs: [addressing-common-misconceptions-ai-education, should-we-use-ai-detectors, reduce-ai-cheating, ai-guidance-children-under-13]
 institutions: [educational-policy-ai]
 translation_of: concepts/ai-detection
-source_updated: "2026-10-14T11:15:00-04:00"
+source_updated: "2026-10-22T12:02:21-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -63,6 +63,7 @@ ai_assist:
 - **任务依赖性：**如自检测研究所示，准确率因任务类型而剧烈变化，因此没有单一检测器在所有评估中都可依赖。
 - **即便一个经验证的检测器也以历史基线为基：**一项为期六年的 CS2 研究对照前大语言模型基线验证了其检测器：H 分数在大语言模型公开前接近于零，到 2026 年上升到均值 11.9（[[argus-academic-integrity-genai-2026|Racovan 等（2026）]]）。
 - **被量化的诚信两难。**[[karr-ai-detection-humanization-2026|一项对 642 篇已发表摘要的对照研究（Karr 等，2026）]]显示，[[educational-policy-ai|政策]]失败不只是概念性的，而且已被测出：符合规范的轻度人工智能编辑被标记的比例为 38–80%，未经修改的近期原创文本为 9–15%（非 STEM 远高于 STEM），而经"人性化工具"处理的人工智能文本有 >96% 逃避检测。由于检测器盯的是表层文体（长词元与学术词汇密度）而非作者意图，诚实的人工智能协助招致处罚，而刻意的人性化规避却溜之大吉——作者主张，检测器分数绝不应当作独立的 misconduct（不当行为）证据。
+- **一次文字编辑就能改变判定，这把文体与作者身份区分开来。** 在 135,389 对经过编辑的手稿中保持作者、主题与内容不变，同样的编辑却把 13 个检测器在人类文本上推向相反方向：MAGE 的假阳性下降 10.7 个百分点，RADAR 下降 4.7，而 Fast-DetectGPT 上升 4.6（[[park-style-confound-ai-detection-non-native-writing-2026|Park、Jeong 与 Kim（2026）]]）。基线率在 0.0% 到 100.0% 之间，并随编辑强度变化。
 
 最新的实证评估把这些错误率变得具体而非笼统。[[hadra-ai-detector-accuracy-efl-2026|Hadra、Cambridge 与 Mesbah（2026）]]在一个由真实 EFL 课程作业、专业写作、人工智能输出与 50/50 混合文本组成的、经平衡的 192 篇语料上运行 Turnitin 与 Originality：宏平均准确率分别只有 0.69 与 0.61，两者都低于 0.55 的宏平均 F1，且对混合文本实际上毫无用处（Originality 的灵敏度为 0.02），随文本变长准确率显著下降，在科学写作上再次下降，并对正当的 EFL 学生作业表现出接近显著的误分类倾向。[[van-vlasselaer-ai-detector-reliability-2026|Van Vlasselaer、Van Droogenbroeck 与 Spruyt（2026）]]用一个有基准真相对照的 160 篇硕士论文语料测试了四款商业工具：其中三款（Turnitin、GPTZero、Copyleaks）对完全由人工智能生成的论文几乎完全失效，只有 Pangram 表现令人信服——而当它被用于 1,163 篇真实提交的论文时，标记了其中 45.5%，作者坚称这不是一个发生率，因为真实提交没有基准真相。两项研究得出同一个程序性结论：检测器分数可以提示更仔细的审查，但它不是一个发现。校准问题也反向成立：由于 GPTZero 的高置信标签在 2020–2022 年带有 0.7%、0.5% 与 1.4% 的申请人级别假阳性率，[[ai-written-admissions-essays-penalized-2026|Isley、Gaebler 与 Goel（2026）]]把它的标记解读为一个美国公共政策硕士项目六轮招生周期中的保守发生率序列——至少提交一篇被标记论文的申请人比例，在签署禁令的情况下仍从 2023 年的 21.8% 升至 2024 年的 45.1%、2025 年的 56.1%，国际申请人达 69.3%，本国申请人为 38.6%。人类审读者是更弱的工具：五位招生官区分 50 篇人类论文与 50 篇人工智能论文，达到 AUC 0.70（95% CI [0.65, 0.75]），高于随机但远低于商业检测器。
 
@@ -96,9 +97,12 @@ Bassett 等得出结论：人工智能检测是一个无法成立的问题的一
 
 另两点使实践风险更为尖锐。第一，随着模型被优化得越来越像人类散文，底层统计信号不断缩小，因此这场军备竞赛是机构无法取胜的。第二，实证的极限案例很刺眼：在一项隐蔽的现场研究中，94% 完全由人工智能生成的提交物，在五个心理学模块的实时在线[[summative-assessment|考试]]系统中未被察觉地通过，而且人工智能作业的平均得分高于真实学生。[[mohamed-temimi-assessment-imperfect-information-disclosure-2026|Mohamed 与 Temimi（2026）]]补充了那个反直觉的推论，它决定了监控何时才划得来：因为提高灵敏度会同时提高假阳与真阳，理性的威慑是*区分度*——标记隐蔽使用与标记正当作业之间的差距。当额外灵敏度带来的新假阳性多于新真阳性时，更多监控会使隐瞒相对更具吸引力，惩罚诚实学生比识别隐蔽使用者更快。其设计后果是：检测器、规则与披露程序不应被分开建设。
 
+测试时适应是那一主张遗漏的反例。面对为逐次规避每个检测器而优化的人性化提示，有监督检测崩溃了：Pangram 只捕获 27.0% 的对抗性 AI 文本；而在未标注的推理时批次上适应的正未标注（PU）方法守住了 93.3%（[[ren-test-time-adaptation-ai-text-detection-2026|Ren、Raghavan 与 Garg（2026）]]）。他们的人类漂移实验产生了本页所警告的假阳性：一个固定检测器对人类文本的召回率，在模拟的十年间从 85.9% 降到 73.4%。
+
 - **五款工具、一份手稿、互不相容的答案——以及已经停用它们的机构。**[[angelier-ai-detection-pitfalls-inclusive-assessment-2026|Angelier（2026）]]在同一天把一份人类撰写的手稿提交给五款商业检测器，得到的分类从"0% 人类"（Winston AI）一直到"人类生成"（GPTZero 的分类标签，印在它 42% 的人工智能数值旁边），Copyleaks 为 80.4% 人工智能，Originality.ai 为"81% 可能为人工智能"，第五款工具为 34% 人工智能 / 66% 人类——同一文本上，三个输出偏人工智能、两个偏人类，而把跨专有系统的多数投票当作来源证据并没有经验证的依据。同一论文还记录了机构层面的退却：Vanderbilt 于 2023 年 8 月停用了 Turnitin 的人工智能检测器，其算盘是约 75,000 篇论文上 1% 的假阳性率；Curtin University 于 2025 年宣布类似停用；University of Waterloo 在 2025 年 9 月停用 Turnitin 的人工智能检测功能，此前一次内部审计中人类撰写的作业被判为 100% 人工智能生成；University of Cape Town 自 2025 年 10 月起停用人工智能分数；University of the Free State 于 2026 年 7 月跟进；University of the Witwatersrand 报告称从未采用过此类工具；而纽约一家法院撤销了一项以检测器分数为依据的 misconduct 裁定。两项程序性发现完成了这个案例：一份严重损坏的 PDF 提取件仍返回了距干净文本结果仅五个百分点的分类；而一份存档的检测器输出能确立某个界面报告了什么，却无法复现产生它的专有模型状态。
 - **检测器输出是卷宗里最弱的证据，而证据质量并不决定案件结果。**在对 1,162 项生成式人工智能 misconduct 指控的编码中，检测器输出获得的证明力评分最低，到 2025 年降至各项目的 0.5%。证据质量与结果无关，因为该流程未设任何证据门槛（[[munoz-misconduct-allegation-evidence-2026|Munoz 等，2026]]）。
 - **学生为了在检测中存活而改动的是作业本身，而不只是答案。**该报告记录了学生为避免错误指控而把自己的答案改得平庸，以及教师一旦市售检测器被证明不可靠就退回非正式判断——他们称之为 AI-DAR（[[tench-ai-policy-isnt-a-playbook-2026|Tench、Weinstein 与 James，2026]]）。
+- **检测器被关掉，直觉成了仅剩的东西。** 在一所机构，学期制阅卷教师失去了他们的人工智能检测器，因为它标记了语法检查工具，只剩下他们去读出捏造的参考文献（二十篇中有十九篇）与与课程材料的脱节（[[sessional-academics-contract-cheating-digital-misconduct-2026|Andriamora 与 Andriamora，2026]]）。
 
 ## 超越检测：评估重构
 
@@ -136,17 +140,18 @@ Bassett 等得出结论：人工智能检测是一个无法成立的问题的一
 
 ## 关联文章
 
+- [[sessional-academics-contract-cheating-digital-misconduct-2026]] — 二十位阅卷教师谈直觉、失效的检测器与捏造的参考文献
 - [[tench-ai-policy-isnt-a-playbook-2026]] — 一项关于美国教师与校长的人工智能政策覆盖度、能动性与五种课堂打法（plays）的全国代表性调查（Tench、Weinstein 与 James，2026）
-- [[evaluation-age-ai-output-evidence-2026]] — Evaluation in the Age of AI
+- [[evaluation-age-ai-output-evidence-2026]] — 人工智能时代的评估
 - [[best-response-student-ai-dialog-2026]]
 - [[detecting-llm-generated-text-latent-prompt]] — EchoPrompt：潜在提示恢复检测器
 - [[ivory-psychology-assessment-integrity-2026]] — 检测是错误的杠杆：及格边界决定了人工智能作业是否被评为学业成就（Ivory 等，2026）
-- [[llm-detecting-llm-generated-content-education]] — Evaluating LLMs for Detecting LLM-Generated Content
-- [[beyond-detection-authentic-assessment-ai-2025]] — Beyond Detection: Authentic Assessment
-- [[responsible-assessment-ai-era-stanford-2026]] — Responsible Assessment in the AI Era
-- [[coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene]] — Coauthorship Integrity and Assessment Validity
-- [[student-rationalization-ai-writing]] — Student Rationalization of AI Writing
-- [[socially-fluent-ai-identity-detection]] — Socially Fluent AI Identity Detection
+- [[llm-detecting-llm-generated-content-education]] — 评估大语言模型检测大语言模型生成内容
+- [[beyond-detection-authentic-assessment-ai-2025]] — 超越检测：真实性评估
+- [[responsible-assessment-ai-era-stanford-2026]] — AI 时代负责任的评估
+- [[coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene]] — 共同作者诚信与评估效度
+- [[student-rationalization-ai-writing]] — 学生对 AI 写作的合理化
+- [[socially-fluent-ai-identity-detection]] — 社会性流畅的 AI 身份检测
 - [[ssaho-ai-academic-integrity-review-2025]] — 对基于人工智能的抄袭/人工智能内容检测可靠性的综述
 - [[bassett-ai-detectors-education-2026]] — 我们赢则你输：教育中的人工智能检测器（Bassett 等，2026）
 - [[teichmann-detecting-undetectable-misconduct-2026]] — 检测器输出为何不能支撑 misconduct 裁定
@@ -160,6 +165,6 @@ Bassett 等得出结论：人工智能检测是一个无法成立的问题的一
 - [[ai-written-admissions-essays-penalized-2026]] — 人工智能撰写的招生论文很普遍却受到惩罚
 - [[detecting-gpt-assisted-writing-stylometric-2026]] — 九个可解释的文体测量特征：ROC-AUC 0.870，但 18 篇独立撰写的文档中有 4 篇被标记（Kumar 等，2026）
 - [[angelier-ai-detection-pitfalls-inclusive-assessment-2026]] — 一份人类手稿、五款检测器，从"0% 人类"到"人类生成"的分类，外加有记录的机构弃用检测之举（Angelier，2026）
-- [[argus-academic-integrity-genai-2026]] — Argus: Academic Integrity in the Era of Generative AI
+- [[argus-academic-integrity-genai-2026]] — Argus：生成式 AI 时代的学术诚信
 - [[student-llm-code-detection-cs1-2026]] — 大语言模型生成的代码在约束严格的作业上收敛（每 1,000 个文件 1–14 个 AST 形态）而在自由作业上不收敛——可检测性随任务设计而定
-- [[kazakh-ai-text-detectors-2026]] — Unchecked or Falsely Accused? Evaluating AI-Generated Text Detectors on Kazakh
+- [[kazakh-ai-text-detectors-2026]] — 未受约束还是被错误指控？在哈萨克语上评估 AI 生成文本检测器

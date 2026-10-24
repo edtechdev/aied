@@ -1,7 +1,7 @@
 ---
 title: 工程教育
 created: "2026-08-17T10:45:00-04:00"
-updated: "2026-10-09T18:58:11-04:00"
+updated: "2026-10-24T16:45:00-04:00"
 type: concept
 foundations: [ai-literacy, educational-development]
 assessment: [assessment]
@@ -12,7 +12,7 @@ audience: [learners, instructors, faculty developers]
 level: [higher ed]
 confidence: high
 translation_of: concepts/engineering-education
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-21T12:05:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -65,6 +65,7 @@ ai_assist:
 
 本知识库的工程教育覆盖仍在发展中。可受益于更多文章的子领域包括**[[discipline-specific-aied|学科特定]]的工程[[pedagogy|教学法]]**（机械、土木、化工、电气、软件与生物工程教育）、**[[design-education|设计]]与创客教育**、**顶点课程与[[project-based-learning|基于项目的学习]]**，以及**工程伦理教育**——在这些领域 AI 的角色可能格外要紧。
 
+那一空白在一个领域已不再空：一个三年制生物医学工程项目把生成式人工智能当作受约束的知识摘要与编程脚手架，运行在四个模块的 PBL 序列内——限定工具、不使用患者数据、披露日志——并报告 A 级率为 66.4%，而前 AI 届别为 39.1%（[[pbl-biomedical-engineering-genai-2026|Nnamdi 等人（2026）]]）。
 ## 对工程教师的启示
 
 - **建立一套共享而准确的 AI 语言。** [[engineering-faculty-metaphors-ai-understanding-2026|教师比喻研究]]发现教师持有根本不同的心智模型（代理 vs. 工具）；在制定政策之前先对齐系内的理解。
@@ -97,13 +98,12 @@ ai_assist:
 - [[engineering-faculty-metaphors-ai-understanding-2026]] — 工程教师比喻建构（并限制）对 AI 的理解
 - [[tam-critical-use-genai-engineering-2026]] — 面向工程/计算机专业学生的、含批判性使用的扩展 TAM
 - [[socio-cognitive-genai-adoption-engineering-2026]] — 工程教育中的统一社会认知模型（孟加拉国）
-- [[ethical-use-ai-engineering-education-review-2026]] — Ethical Use of AI in Engineering Education: A Systematic Review
-- [[multimodal-embodied-cognition-oral-explanations-2026]] — A Multimodal Framework for Embodied Cognition in Oral Explanations
-- [[ai-engineering-computing-workforce-grey-literature-2026]] — AI and the Future of the Engineering and Computing Workforce
-- [[ai-engineering-education-balancing-act]] — Using AI in Engineering Education: A Balancing Act
-- [[ai-learning-tools-engineering-education-needs]] — Designing Needs- and Attention-Aware AI Learning Tools for Engineering Education
-- [[structured-ai-demonstrations-engineering-mechanics]] — Structured AI Demonstrations in Engineering Mechanics
-- [[isaza-chatgpt-engineering-prompting-2026]] — ChatGPT in engineering education
+- [[ethical-use-ai-engineering-education-review-2026]] — 工程教育中 AI 的合乎伦理使用：一项系统综述
+- [[multimodal-embodied-cognition-oral-explanations-2026]] — 口头解释中具身认知的多模态框架
+- [[ai-engineering-computing-workforce-grey-literature-2026]] — AI 与工程及计算劳动力的未来
+- [[ai-engineering-education-balancing-act]] — 在工程教育中使用 AI：一种平衡之举
+- [[structured-ai-demonstrations-engineering-mechanics]] — 工程力学中的结构化 AI 演示
+- [[isaza-chatgpt-engineering-prompting-2026]] — ChatGPT 在工程教育中的应用
 - [[liu-ai-sustainable-engineering-education-2026]] — 面向可持续工程教育的 AI-SEE 框架（Liu 等 2026）
 - [[yin-arthur-ai-teaching-assistant-engineering-econ-2026]]
-- [[genai-xr-architectural-design-education-2026]] — Generative AI and Extended Reality in Collaborative Architectural Design Education: An Exploratory Studio Study
+- [[genai-xr-architectural-design-education-2026]] — 生成式 AI 与扩展现实在协作建筑设计教育中的应用：一项探索性工作室研究

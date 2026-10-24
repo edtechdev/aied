@@ -175,7 +175,7 @@ ai_assist:
 - [[riedmann-reinforcement-learning-education-review-2026]]
 - [[weidlich-chatgpt-effect-search-cause-2025]] — ChatGPT in Education: An Effect in Search of a Cause（媒介比较批评）
 - [[bartos-ai-learning-meta-meta-analysis-2026]] — 元—元分析：经偏差调整的 AI 效应约为报告大小的 1/3
-- [[oneill-presumed-effective-meta-analysis-2026]] — Presumed Effective: forensic audit of 14 AIED meta-analyses
+- [[oneill-presumed-effective-meta-analysis-2026]] — 推定有效：对 14 项 AIED 元分析的取证式审计
 - [[teacher-intervention-k12-ai-based-instruction-2026]] — K-12 AI 教学中的教师干预：一项系统综述
 - [[chen-digital-ai-foreign-language-skills-meta-analysis-2026]] — 数字与 AI 工具用于外语技能的元分析：设计调节变量使准实验效应估计翻了一倍以上
 - [[jing-genai-learning-outcomes-higher-ed-meta-analysis-2026]] — 高等教育中 GenAI 的元分析：短干预效应随时长增长而崩塌

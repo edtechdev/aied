@@ -1,7 +1,7 @@
 ---
 title: 随机对照试验
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-09T18:58:09-04:00"
+updated: "2026-10-24T16:10:00-04:00"
 type: concept
 foundations: [ai-education]
 technology: [generative-ai]
@@ -10,7 +10,7 @@ level: [higher ed]
 confidence: high
 methods: [research-methods-aied]
 translation_of: concepts/rct
-source_updated: "2026-10-01T20:35:10-04:00"
+source_updated: "2026-10-24T09:56:38-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -40,6 +40,7 @@ ai_assist:
 
 - **微型 RCT 作为对快速变化技术的回应：** [[ai-tutoring-micro-rct-gcse-science-2026|Harrison 等人（2026）]] 主张，传统的大规模试验无法跟上在研究期间发生实质变化的辅导 [[edtech-platform|平台]]，于是采用 [[teacher-role|教师]] 主导的微观随机对照试验，跨英格兰的中学展开（929 名学生中有 644 人完成后测，g = 0.33），使因果估计保持可重复。代价写在他们的设计里：30.7% 的流失率、与 [[curriculum-design|课程]] 对齐而非独立标准化的结果，以及仅四周的随访。
 - **因果效能主张：** AIED 中的 RCT 检验一个 AI 辅导者、工具或教学处理是否改善结果。[[generative-ai-education-productivity-gaps|一项关于生成式 AI 的随机实验]] 以 1,174 名参与者发现，GenAI 大幅收窄教育基础的生产力差距，弥合了约四分之三的初始表现差异——这是对 AI 效应的一个清晰因果估计。
+- **一个在延迟之后、而非在会话结束时测量的结果。**把 120 名[[higher-ed|本科生]]随机分配到对同一主题的 AI 辅助学习或传统学习，并在 45 天后测试保持率：AI 辅助组得 57.5%，另一组 68.5%，差距约 11 个百分点（[[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025|Barcaui（2025）]]）。
 - **与金标准的比较：** [[research-methods-aied|研究方法]] 页面把 RCT 定位为内部效度最强的设计，同时指出其权衡——成本、人工条件、快速变化的 AI、功效不足的小样本，以及不向对照组提供潜在有用工具的伦理限制。
 - **一项为等价而非差异设计的试验。** [[studentbench-ai-human-tutoring-gre-2026|Northcutt 等人（2026）]] 把 2,383 名成人随机分配到 AI 辅导、真人辅导或视频对照，请前 ETS 与 Kaplan 的试题开发人员编写新的 GRE 题目以避免已出版试题的污染，把两种题型做了顺序平衡，并针对 ±0.25 SD 用两次单侧检验（two one-sided tests）来检验等价而非差异——正是这些设计选择，使「无显著差异」成为一个可解释的结果。
 - **群体随机化、低采纳率，以及此时意图处理估计意味着什么。** [[liu-course-integrated-ai-tutoring-rct-2026|Liu 等人（2026）]] 跨 13 个区块把 2,379 名本科生随机化，分配的是*教师* 而非学生，因此一个班里的每个学生都继承了该教师的条件——这一设计使多班部署试验成为可行，也正是它制造了研究随后记录下来的推断问题。处理组的处理班里只有约 15% 的学生真正用过该工具，因此报告的效应估计的是*提供* 使用机会而非使用本身；作者把干预读作它的引入所诱发的更广义 AI 使用，并把个别使用时段当作一个单独的问题。由于处理是在教师层面分配的，推断只依赖 34 个簇——在这种情形下聚类稳健标准误会高估精度——因此论文在它们之外报告了随机化推断，并发现其结论是稳健的。两项头条效应——精确匹配样本中期末成绩下降 0.37 SD、两个样本中记录的平台参与下降 0.90 SD——是班级层面的后果，是对同一工具做按学生随机化所无法隔离的，否则会在处理与对照同学之间造成污染。
@@ -55,6 +56,8 @@ ai_assist:
 - **优势：** 最强的因果推断；干净的结果测量；支持效应量估计；通过随机化平衡混杂因素。
 - **局限：** 昂贵且缓慢；人工的设置会削弱生态效度；AI 工具变化快于试验能跑的速度；小样本常功效不足，无法检出有意义的效应；不向对照组提供潜在有益的 AI 存在伦理约束。其中两项局限在分配为聚类时会改变形状：有效样本变成*簇* 的数量而非学生的数量，因此一个试验可以按人头很大而按此度量很薄——Liu 等人的 2,379 名学生只靠 34 个教师层面的簇——而当采纳是自愿且低的时，意图处理估计回答的是提供工具是否改变了结果，而不是使用它是否改变了结果。
 
+- **一个自愿的学校工具在 7% 的剂量下仍能改变工作量。**[[roy-aila-lesson-planning-teacher-choices-2026|Roy 等人（2026）]] 在学校层面把 464 名教师随机分配到 108 所英格兰小学。备课时间为对照组的 0.76（95% 置信区间 0.64 至 0.89），即便该工具只覆盖 7% 的课时、且使用量在十周内下降，因此这个估计界定的是提供该工具对工作量起到的作用，而不是完全采纳会起到的作用。
+
 关于教育中 AI 的实验设计的更完整处理——包括 RCT 何时相对准实验、调查或计算设计是恰当的——见 [[research-methods-aied]]。
 
 ## 关联概念
@@ -69,9 +72,11 @@ ai_assist:
 
 ## 关联文章
 
-- [[generative-ai-education-productivity-gaps]] — Does generative AI narrow education-based productivity gaps? Evidence from a randomized experiment
-- [[genai-can-harm-teaching-rct-2026]] — Generative AI can harm teaching: an RCT
-- [[access-not-enough-ai-tutoring-2026]] — Access is not enough: human support improves engagement with AI tutoring
-- [[ai-tutoring-micro-rct-gcse-science-2026]] — Evaluating AI Tutoring at the Speed of Innovation: Practitioner-Led Micro-Randomized Trials of an AI Tutoring Platform in GCSE Science
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: AI and human tutoring yield equivalent GRE learning gains
-- [[liu-course-integrated-ai-tutoring-rct-2026]] — Group randomization by instructor: a 0.37 SD fall in final grades and a 0.90 SD fall in platform participation, with 15% uptake and inference on 34 clusters (Liu et al. 2026)
+- [[generative-ai-education-productivity-gaps]] — 生成式 AI 能缩小教育造成的生产力差距吗？一项随机实验的证据
+- [[genai-can-harm-teaching-rct-2026]] — 生成式 AI 能损害教学：一项随机对照试验
+- [[access-not-enough-ai-tutoring-2026]] — 仅有获取并不够：人类支持改善对 AI 辅导的参与
+- [[ai-tutoring-micro-rct-gcse-science-2026]] — 以创新的速度评估 AI 辅导：GCSE 科学中 AI 辅导平台的实践者主导微观随机试验
+- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench：AI 与人类辅导产生等效的 GRE 学习收益
+- [[liu-course-integrated-ai-tutoring-rct-2026]] — 按教师整群随机分组：期末成绩下降 0.37 SD、平台参与下降 0.90 SD，采用率 15%，34 个集群上的推断（Liu et al. 2026）
+- [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025]] — 45 天后，AI 辅助组的保持率为 57.5%，对照组为 68.5%（Barcaui 2025）
+- [[roy-aila-lesson-planning-teacher-choices-2026]] — 备课时间为对照组的 0.76，尽管该工具只覆盖 7% 的课时（Roy 等人 2026）

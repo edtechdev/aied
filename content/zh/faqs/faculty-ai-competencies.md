@@ -1,12 +1,12 @@
 ---
 title: "在人工智能方面，教师需要具备哪些能力？"
 created: "2026-09-22T19:41:47-04:00"
-updated: "2026-10-09T18:10:00-04:00"
+updated: "2026-10-24T15:35:01-04:00"
 weight: 70
 foundations: [ai-literacy, educational-development, teacher-role, teacher-ai-competency]
 audience: [faculty developers, instructors]
 level: [adult learning]
-source_updated: "2026-10-02T08:21:34-04:00"
+source_updated: "2026-10-21T14:32:00-04:00"
 translation_of: faqs/faculty-ai-competencies
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
@@ -22,8 +22,6 @@ ai_assist:
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
-
-# 在人工智能方面，教师需要具备哪些能力？
 
 **教师的能力应当远远超出提示词写作。** 本知识库的[[ai-literacy|人工智能素养]]综述归纳出四个大的维度：
 

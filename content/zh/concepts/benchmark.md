@@ -1,7 +1,7 @@
 ---
 title: 基准
 created: "2026-08-09T16:52:03-04:00"
-updated: "2026-10-09T19:22:10-04:00"
+updated: "2026-10-24T14:35:00-04:00"
 type: concept
 technology: [generative-ai, llm]
 assessment: [assessment]
@@ -10,7 +10,7 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation, benchmark]
 translation_of: concepts/benchmark
-source_updated: "2026-10-09T09:50:00-04:00"
+source_updated: "2026-10-23T09:35:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -40,6 +40,8 @@ ai_assist:
 - **[[teaching-feedback-classification-benchmark|教学反馈基准]]** 评估 [[ai-feedback-quality|反馈质量]]分类的跨语言迁移。
 - **[[cdpk-pedagogy-benchmark-llms|教学法基准（CDPK + SEND）]]** 测试教学知识——教学策略、[[assessment|考核方法]]与 [[special-education|特殊教育教学法]]——而非内容知识，并在 97 个模型上报告了一条成本对准确率的"价值前沿"（多数通用基准测内容知识；教学法是一个独特的、对教育至关重要的维度）。
 - **[[jeon-isd-agent-bench-2026|ISD-Agent-Bench]]** 在 25,795 个教学设计情境上基准测试基于 [[llm]] 的 [[learning-design|教学设计]]智能体，显示扎根于经典 ISD 框架（ADDIE、Dick & Carey、快速原型）的混合智能体优于纯理论或纯技术——这是一项对 [[agentic-ai|智能体式 AI]]在教育中的设计有直接含义的基准结果。
+
+- **[[tutor-case-bench-challenging-behaviors-2026|TutorCaseBench]]** 把导师评估置于有文献记录的案例之上，而非模拟画像：来自特殊教育与教育心理学案例的 923 段对话，其中 11 个模型中最强的一个在 55.8% 的开放式案例中匹配了一项有文献记录的干预。
 
 - **学习者适配作为一条显式的基准判据。** Teaching Monster Challenge 为适配一个指定的学习者画像打分，但其自动 LLM 评判只分离出一条弱尾——顶层系统得分接近其上限，且其排名与人群偏好不一致（Spearman ρ = −0.17）（[[teaching-monster-pck-benchmark-2026|Lin et al.（2026）]]）。
 
@@ -83,6 +85,7 @@ ai_assist:
 
 ## 关联文章
 
+- [[tutor-case-bench-challenging-behaviors-2026]] — TutorCaseBench：在有挑战行为的学生上评估 LLM 导师（Park et al. 2026）
 - [[standardized-assessment-llm-english-proficiency-2026]] — 一个把模型能力报告为校准水平的 624 项英语熟练度基准（Min et al. 2026）
 - [[omniphys-multimodal-physics-benchmark-2026]]
 - [[assessment-latent-structure-human-llm-2026]] — 考核工具对人类与 LLM 测的是同一件事吗？（Strugatski et al. 2026）

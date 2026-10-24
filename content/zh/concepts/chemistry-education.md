@@ -9,6 +9,7 @@ assessment: [assessment]
 discipline: [chemistry education, stem education]
 level: [higher ed, k 12, teacher education]
 confidence: high
+connected_resources: [teacher-dev]
 translation_of: concepts/chemistry-education
 source_updated: "2026-09-03T15:00:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"

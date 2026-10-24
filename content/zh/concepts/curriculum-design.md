@@ -1,7 +1,7 @@
 ---
 title: 课程设计
 created: "2026-06-02T10:44:35-04:00"
-updated: "2026-10-09T18:39:25-04:00"
+updated: "2026-10-24T14:45:00-04:00"
 type: concept
 connected_faqs: [incorporating-ai-literacy]
 foundations: [ai-literacy, curriculum-design, learning-design, teacher-role]
@@ -11,8 +11,10 @@ discipline: [stem education]
 audience: [instructors, faculty developers]
 level: [higher ed]
 confidence: high
+connected_resources: [intelligent-textbooks]
+reviewed_by: [editor]
 translation_of: concepts/curriculum-design
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-21T13:42:59-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -46,6 +48,8 @@ ai_assist:
 把这一变革视为系统性的而非附加式的，[[rewriting-curriculum-genai-pedagogy-2026|Sabani et al.（2026）]] 把一份范围综述、对 209 条记录的文献计量映射、36 篇文章与十次学术领袖访谈三角互证，归纳出五项转变——包括知识传授让位于能力发展、局部试验让位于机构治理。
 
 **课程映射与分析**用 AI 来理解既有课程。**[[ai-assisted-se-curriculum-syllabus-analysis-2026|Geng et al.]]** 分析了 23 份来自 AI 辅助软件工程课程的教学大纲，识别出共同主题——[[prompt-engineering|提示工程]]、与 AI 一同做代码评审、[[ethics|伦理考量]]——并推导出强调"平衡工具熟练度与基础知识"的设计指引。**[[coursegraph-cs-course-comparison-2026|CourseGraph]]** 用计算方法比较各机构的计算机课程结构。
+
+权重分配会改变一份课程分析报告所报告的内容：[[genai-curriculum-analytics-mapping-higher-ed-2026|Jayalath 等（2026）]] 让 GPT-o3-mini 为 48 项评估中的每一项把 100% 分配到七项企业技能上，与专家权重相比得到 Krippendorff's alpha 0.81，但对于那些描述中从未明确陈述的技能，一致性转为负值（-0.19）。
 
 **AI 素养整合**把 AI 胜任力嵌入各学科。**[[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl|SAIL]]** 提供一个可适用于所有年龄与教育阶段的支架式 AI 素养框架，处理第二层与第三层的 [[digital-divide|数字鸿沟]]。**[[tracing-genai-literacy-interaction-patterns]]** 考察 AI 素养如何通过互动模式而发展。**[[hingle-collaborative-ai-literacy-2025]]** 探索协作式的 AI 素养课程开发路径，并与 [[collaborative-learning]] 相连。
 
@@ -96,7 +100,7 @@ K-12 机器学习活动的设计停留在表层：一项 ICE-T 框架背后的�
 课程设计直接与 [[learning-design]] 相连——课程定义教什么，教学定义如何教。它与 [[ai-literacy]] 相连，因为内嵌 AI 胜任力是一个首要的课程挑战；与 [[teacher-role]] 和 [[educational-development]] 相连，因为课程变革需要教育者做好准备；与 [[scaffolding]] 相连，因为设计良好的课程会在课程与年份之间支架化技能的发展。与 [[higher-ed]] 和 [[k-12]] 的联系，反映了课程设计在各教育层级上的相关性。
 
 ## 关联概念
-- [[pedagogical-partnerships]] — Pedagogical Partnerships
+- [[pedagogical-partnerships]] — 教学伙伴关系
 - [[business-education]]
 - [[learning-design]]
 - [[ai-literacy]]
@@ -115,10 +119,11 @@ K-12 机器学习活动的设计停留在表层：一项 ICE-T 框架背后的�
 - [[pedagogy]] — 总括：AI 教育中的教学法与教学策略
 - [[recommender-systems-and-learning-paths]]
 ## 关联文章
+- [[genai-curriculum-analytics-mapping-higher-ed-2026]] — 面向认证的、经专家验证的加权技能映射
 - [[mcinnes-salvaging-constructive-alignment-genai-2026]] — 对"GenAI 用于建构式对齐"指引的批判话语分析（McInnes et al. 2026）
-- [[icet-ml-education-trust-2026]] — Addressing Trust in AI Systems through Education: A Didactic Perspective
+- [[icet-ml-education-trust-2026]] — 通过教育应对AI系统中的信任问题：一个教学法视角
 - [[refrain-amplify-genai-curriculum-2026]] — 为 GenAI 排序的"先克制后放大"课程框架（Torres-Sahli et al. 2026）
-- [[mechanical-engineering-ai-curriculum-2026]] — Project-Based AI Education Curriculum in Thermal Engineering
+- [[mechanical-engineering-ai-curriculum-2026]] — 热力学工程中的项目式AI教育课程
 - [[ying-genai-journalism-assessment-2026]]
 - [[rook-plumb-genai-curricula-student-insights-2026]]
 - [[zhou-constructive-alignment-genai-business-2026]]
@@ -134,12 +139,12 @@ K-12 机器学习活动的设计停留在表层：一项 ICE-T 框架背后的�
 - [[finkelstein-principled-ai-education-2025]]
 - [[hingle-collaborative-ai-literacy-2025]]
 - [[ithaka-sr-ai-skills-college-graduates-2026]] — AI 技能框架：用于课程映射的 26 项可评估技能
-- [[learnai-just-in-time-ai-cocreation-university-2026]] — LearnAI: Just-in-Time AI Co-Creation Across Disciplines
-- [[ai-video-dual-gatekeeping-2026]] — When Saying No Makes Better Videos: Dual Gatekeeping for Pedagogically Grounded AI Content Creation
+- [[learnai-just-in-time-ai-cocreation-university-2026]] — LearnAI：跨学科的即时 AI 共创
+- [[ai-video-dual-gatekeeping-2026]] — 说"不"如何做出更好的视频：面向有教学依据的AI内容创作的双重把关
 - [[niri-steam-ai-literacy-review-2026]] — 面向 AI 素养的 STEAM 教育：系统综述
-- [[caruana-pre-university-ai-education-slr-2026]] — Preparing learners and teachers for an AI-driven future: SLR of pre-university AI education（Caruana et al. 2026）
+- [[caruana-pre-university-ai-education-slr-2026]] — 让学习者与教师为 AI 驱动的未来做好准备：大学前 AI 教育的系统综述（Caruana 等人 2026）
 - [[ai-modeling-problem-generation-platform-2026]] — 生成数学建模问题的 AI 驱动平台（ADDIE、RAG）
 - [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
 - [[karaismailoglu-ai-lesson-plans-science-experts-2026]]
-- [[ai-particle-physics-education-redesign-2026]] — AI in Particle Physics Education: Research Problems and Foundational Skills
-- [[computing-assessment-genai-workshop-report-2026]] — AI Can Do Your Homework. Now What? Report from an online workshop on computing assessment in the age of generative AI
+- [[ai-particle-physics-education-redesign-2026]] — 粒子物理教育中的 AI：研究问题与基础技能
+- [[computing-assessment-genai-workshop-report-2026]] — AI 能替你做作业了，然后呢？一场关于生成式 AI 时代计算评估的在线工作坊报告

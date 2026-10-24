@@ -80,12 +80,12 @@ ai_assist:
 
 - [[ai-emotional-alerts-teachers-mathematics-classroom-2026]] — 回应人工智能生成的情绪告警：数学课堂中教师的干预与学生的投入
 - [[wang-teacher-student-centered-agents-physics-2026]] — 物理学习中由提示设计的代理角色产生的共情感知（Wang 等，2026）
-- [[mindful-llm-math-tutoring-2026]] — Beyond Problem Solving: Large Language Models for Emotional and Reflective Support in Mathematics Learning
+- [[mindful-llm-math-tutoring-2026]] — 超越问题求解：面向数学学习中情绪性与反思性支持的大语言模型
 - [[emotion-aware-classroom-iot-monitoring-2026]] — 经由基于 IoT 的实时监控的情绪感知课堂质量评估（Nguyen 等，2026）
 - [[ai-campus-wellbeing-tools]]
 - [[ai-fatigue-academic-contexts]]
 - [[kar-mathbuddy-affective-math-tutoring-2025]]
 - [[sycophantic-ai-social-interaction-2026]]
-- [[aivaluate-anxiety-assessment-2026]] — AIvaluate: LLM-Augmented Assessment of Student Anxiety (2026)
-- [[socratic-nuclear-ai-learning]] — Socrates went Nuclear: Comparing Interaction Strategies for AI in Learning
+- [[aivaluate-anxiety-assessment-2026]] — AIvaluate：LLM 增强的学生焦虑评估（2026）
+- [[socratic-nuclear-ai-learning]] — 苏格拉底动用核武器：比较 AI 在学习中的互动策略
 - [[ai-emotion-regulation-sport-exercise-2026]] — 重新框定人工智能支持的情绪调节：信号需要语境，而非自主的解释

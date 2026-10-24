@@ -132,4 +132,4 @@ ai_assist:
 - [[special-r1-rl-special-education]]
 - [[gemini-lualatex-physics-video-transcription-2026]] — Gemini+LuaLaTeX 数学可及的物理视频转写
 - [[khlaif-assistive-genai-visually-impaired-2026]] — 面向视障学习者的辅助性 GenAI
-- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — Generative AI, virtual reality, and beyond: A scoping review of digital assistive technologies for neurodivergent students in higher education
+- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — Generative AI, virtual reality, and beyond: A scoping review of digital assistive technologies for neurodivergent students in higher education：超越生成式 AI 与虚拟现实：面向高等教育神经多样性学生的数字辅助技术范围综述

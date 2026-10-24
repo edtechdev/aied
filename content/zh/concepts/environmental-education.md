@@ -1,7 +1,7 @@
 ---
 title: 环境教育
 created: "2026-09-20T12:40:00-04:00"
-updated: "2026-10-09T19:06:59-04:00"
+updated: "2026-10-24T14:52:29-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [inquiry-based-learning, situated-learning, critical-pedagogy]
@@ -10,8 +10,9 @@ ethics: [sustainability, ethics, global-south]
 institutions: [educational-policy-ai, governance]
 discipline: [environmental education]
 confidence: medium
+reviewed_by: [editor]
 translation_of: concepts/environmental-education
-source_updated: "2026-09-20T12:40:00-04:00"
+source_updated: "2026-10-21T21:15:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -23,6 +24,8 @@ ai_assist:
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
 
+> **环境教育**：关于气候、可持续性与自然世界的教学，而在 [[ai-education|AI 教育]]中，它同时成了两件事：一个 AI 可以通过 [[inquiry-based-learning|探究]]和 [[situated-learning|情境]]学习来支持的学科，以及 AI 所施加的一项成本，因为每个学生笔记本上运行的耗能巨大的 [[llm|语言模型]]自身也带着环境足迹。知识库把两半放在一起处理，因为由碳密集型工具交付的 [[sustainability|可持续性]]教育提出了一个任何单一框架都无法独自回答的问题。
+
 ## 值得思考的问题
 
 - "AI 与环境教育"可以指两件非常不同的事：用 AI 来教*关于*气候与可持续性的内容，以及减少*使用 AI* 于课堂的环境成本。在你的机构里你听到的是哪一个——而哪一个有预算项目挂着？
@@ -32,7 +35,7 @@ ai_assist:
 
 ## 引言
 
-**环境教育** 发展学习者对生态系统、气候以及人与环境相互依存的理解，连同据此行动的性情与能力——在制度上常被框定为可持续发展教育（ESD）或"绿色教育"。在教育技术的语境下，这个词承载着语料库经常碰到却并不总是说出的一个张力：**AI 作为环境教育的工具**（用生成式工具教气候与可持续性内容）与 **AI 自身的环境足迹**（机构部署的模型所耗的碳、水与能源）。这是有着不同证据、不同行动者、不同补救办法的不同问题；把它们混为一谈——像几篇论文和大多数战略文件所做的那样——使得无法说清谁为什么负责。（[[daniel-ai-sustainability-scoping-review-2026]]）（[[aied-carbon-footprint-reporting]]）
+**环境教育** 发展学习者对生态系统、气候以及人与环境相互依存的理解，连同据此行动的性情与能力——在制度上常被框定为可持续发展教育（ESD）或"绿色教育"。在 AI 教育的语境下，这个词承载着语料库经常碰到却并不总是说出的一个张力：**AI 作为环境教育的工具**（用生成式工具教气候与可持续性内容）与 **AI 自身的环境足迹**（机构部署的模型所耗的碳、水与能源）。这是有着不同证据、不同行动者、不同补救办法的不同问题；把它们混为一谈——像几篇论文和大多数战略文件所做的那样——使得无法说清谁为什么负责。（[[daniel-ai-sustainability-scoping-review-2026]]）（[[aied-carbon-footprint-reporting]]）
 
 ## 被叫作"AI 环境教育"的两件事
 

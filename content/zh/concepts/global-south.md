@@ -1,7 +1,7 @@
 ---
 title: 全球南方
 created: "2026-08-18T14:55:00-04:00"
-updated: "2026-10-09T18:58:10-04:00"
+updated: "2026-10-24T14:16:08-04:00"
 type: concept
 foundations: [ai-literacy]
 technology: [generative-ai]
@@ -9,7 +9,7 @@ ethics: [culturally-relevant-pedagogy, equity-in-ai-education, global-south]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/global-south
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-21T21:15:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -21,7 +21,7 @@ ai_assist:
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
 
-**全球南方**指非洲、亚洲、拉丁美洲和大洋洲的国家，它们相对于全球北方而言常在经济、政治与历史上处于边缘地位。在 [[ai-education|AI 教育]]的 [[research-methods-aied|研究]]中，全球南方情境日益被承认为在证据基础中代表性不足，然而它们提出了关于 [[equity-in-ai-education|公平]]、[[culturally-relevant-pedagogy|文化相关性]]、资源约束，以及西方英语训练数据之认识论主导地位的独特问题。
+> **全球南方** —— 非洲、亚洲、拉丁美洲和大洋洲的国家，它们相对于全球北方而言常在经济、政治与历史上处于边缘地位。在 [[ai-education|AI 教育]]的 [[research-methods-aied|研究]]中，这些情境日益被承认为在证据基础中代表性不足，然而它们提出了关于 [[equity-in-ai-education|公平]]、[[culturally-relevant-pedagogy|文化相关性]]、资源约束，以及西方英语训练数据之认识论主导地位的独特问题。
 
 ## 值得思考的问题
 
@@ -83,10 +83,10 @@ ai_assist:
 - [[iks-instruct-dataset-indian-knowledge]] — IKS-Instruct：印度知识体系数据集
 - [[nsmq-riddles-science-math-benchmark]] — NSMQ Riddles：加纳 STEM 基准
 - [[genai-minoritized-knowledges-disability]] — 边缘化知识的边缘化
-- [[llm-cultural-relevance-k12]] — LLMs for Culturally Relevant K-12 Pedagogy
+- [[llm-cultural-relevance-k12]] — LLMs for Culturally Relevant K-12 Pedagogy：面向文化相关K-12教学法的LLM
 - [[genai-integration-constructivist-higher-ed-bangladesh-2026]] — 通过建构主义在孟加拉高等教育中整合 GenAI（Alam 等，2026）
 - [[khlaif-assistive-genai-visually-impaired-2026]] — 面向视障学习者的辅助性 GenAI
-- [[culturally-aware-student-stress-chatbot-2026]] — An AI-Powered Culturally Aware Chatbot for Stress Detection and Wellness Support among Pakistani University Students Using NLP and Machine Learning
+- [[culturally-aware-student-stress-chatbot-2026]] —— 一个 AI 驱动的文化敏感聊天机器人，用 NLP 与机器学习为巴基斯坦大学生的压力检测与心理健康提供支持
 - [[el-salvador-ai-tutoring-selection-claim-2026]] — 界定萨尔瓦多 AI 辅导试点的学习宣称（Restrepo Morales 等，2026）
 - [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — 南非 HDI 中作为数字中介的学术发展者：数字不平等 vs. 算法殖民性
 - [[ai-ethical-awareness-ghana-students-2026]] — 加纳大学生的 AI 伦理意识

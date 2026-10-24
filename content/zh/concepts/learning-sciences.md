@@ -1,7 +1,7 @@
 ---
 title: 学习科学
 created: "2026-09-17T14:12:00-04:00"
-updated: "2026-10-09T19:06:59-04:00"
+updated: "2026-10-24T14:13:04-04:00"
 type: concept
 foundations: [learning-design]
 pedagogy: [cognitive-psychology, learning-theories, pedagogy]
@@ -14,7 +14,7 @@ confidence: high
 methods: [research-methods-aied]
 reviewed_by: [editor]
 translation_of: concepts/learning-sciences
-source_updated: "2026-10-13T11:05:00-04:00"
+source_updated: "2026-10-16T08:47:09-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -48,6 +48,8 @@ ai_assist:
 ### AI 如何出现在学习科学中
 
 - **先机制，后模型。**[[deceptive-overgeneralization-adaptive-learning-2026|An、McLaren 与 Stamper（2026）]]用[[intelligent-tutoring]]系统为立直麻将跑了 11 个实验（N = 192），发现那些归纳出一个过度泛化产出的学习者——即抽掉了应用约束的动作——在第一道"不要行动"的题目上以 61.5%–100% 的比率误用它，而[[knowledge-tracing|贝叶斯知识追踪]]下预期的错误率是 12%。95% 的掌握阈值让系统在学习者遇到需要克制行动的情形之前就停止了练习，于是这个缺陷未被察觉。简短的"不要行动"练习配合指出缺失约束的[[feedback]]，把误用率降到 0.0%–23.1%（Cohen's h 1.70–2.44）；对 13 个 K-12 *Decimal Point* 数据集的二次分析在整数偏误中发现了同样的结构（比较错误的 84%–88%）。
+- **一份共识地图标出了 GenAI 在哪里帮助、在哪里损害学习。**一项预注册的、由 30 位学习科学家参与的 Delphi 研究对 65 个学习过程做了评定，并在其中 42 个上达成共识：GenAI 威胁初始习得和[[critical-thinking|高阶思维]]，但增强巩固（[[genai-support-threaten-learning-k20-expert-consensus-2026|Kendeou 等，2026]]）。
+- **反馈风格，而非智能体类型，推动了自我调节的投入。**在一项 51 名研究生参与的 2 × 2 实验中，[[socratic-method|苏格拉底式]]反馈与更强的理解监控相关，而指令性反馈带来更高的认知负荷；两种风格按固定的、非平衡的顺序运行，因此这一对比是与条件相关的，而非因果的（[[agent-type-feedback-style-self-directed-learning-2026|Han 等（2026）]]）。
 - **最优解取决于内容。**[[rachatasumrit-example-problem-ratio-2026|Rachatasumrit、Koedinger 与 Carvalho（2025）]]把例题—问题比例当作内容与处理的交互：在一项 95 人、关于几何面积材料的 2×2 实验中，纯练习训练对字面事实产生了更大的[[learning-gains|学习增益]]，而例题整合训练对可泛化技能产生了更大的增益（β = 0.41，p = .038，d = 0.38）。一个模拟学习者（Apprentice Learner）只有在被赋予 ACT-R 式[[cognitive-psychology|记忆与遗忘机制]]时，才复现出了这一交叉效应。更多练习并非一致地更好：面向记忆的内容值得检索练习，面向归纳的技能值得整合例题。
 - **把设计当作可分析的对象。**[[learning-paths-patterns-learning-design-2026|Divjak、Svetec 与 Horvat（2026）]]把[[learning-analytics]]转向[[learning-design]]本身，对一个免费课程设计工具中规划的 554 门课的 29,064 个活动做了编码。习得是最常见的学习类型，也是最常见的入口点；最强的马尔可夫转移是评估 → 讨论（0.332），置信度最高的规则是习得 → 评估 → 练习 → 练习（0.743，lift 1.45）。学习类型与预期结果层级相对应，习得类活动在 Bloom 第 1 级约占 50%，到第 6 级降到约 20%。作者强调这些是实施前的设计：与翻转课堂、[[inquiry-based-learning|探究式]]或[[project-based-learning|项目式]]序列的相似，并不构成意图的证据。
 - **审计那些做评估的模型。**[[demographic-signals-llm-student-assessment-2026|Rooein、Benedetto 与 Hovy（2026）]]在[[automated-essay-scoring|作文评分]]、[[formative-assessment|形成性反馈]]和问答任务上审计了六个[[llm|LLM]]，固定任务输入、只变化人口统计语境（192,480 次调用）。在显式人设下评分是稳定的，但 Llama-70B 在隐式对话历史下把自己的分数抬高了 1.57 分（p < 0.001），而高等教育背景引来了更不可读、更积极的回应——约四个标准差的情绪差距。可读性效应缩小而长度效应增长，一些系数在条件之间改变了符号。作者把它当作审计工具而非部署裁定，并把人口统计信号与主题信号的纠缠读作对[[assessment-validity|效度]]和[[equity-in-ai-education|公平]]的威胁。
@@ -56,6 +58,12 @@ ai_assist:
 - **人类专长的位置。**[[wang-tutor-copilot-human-ai-live-tutoring-rct-2024|Wang et al.（2024）]]报告了最清晰的分工：在一项为期两个月、约 900 名新手 K-12 教师和约 1,800 名学生的[[rct|随机对照试验]]中，从资深教师推理中提取的实时建议把话题掌握度提高了 4 个百分点（62% 到 66%，p < 0.01），对评级较低的教师提高了 9 个百分点，成本约为每名教师每年 \$20，并把辅导推向引导式提问。增益是就近的——年末测试没有变动。[[reichert-human-centered-llm-chatbot-design-teachers-2026|Reichert et al.（2026）]]发现教师通过设计抵达了同一位置：六位中学教师在设计聊天机器人原型时，都规定了有边界的专家、守住了权威边界（对学习和安全的责任不可委托）和专长边界（模型缺乏他们对个别学生的了解），并委托内容呈现、练习和纠正性[[feedback]]，同时保留目标设定和[[summative-assessment|终结性评估]]。
 - **领域层面的能力。**[[sutedjo-faculty-genai-tpack-21-2026|Sutedjo、Chowdhury 与 Liu（2026）]]用一个为生成式 AI 改编的[[tpack|TPACK]]量表调查了 127 名教师：内容知识和学科教学知识很强（M = 4.70–5.15），而技术整合知识明显更低，整体性 TPACK 最低为 2.55，内容知识与任何技术整合领域都不相关，而三个整合领域之间相关如此之高（r = .81–.91），以至于它们可能就是一个因子。[[perrotta-zero-shot-governance-2026|Perrotta（2026）]]通过一个已停用的英国公务员体系原型来解读治理层，其代码库是一个系统提示加一条在商业模型之上的检索流水线，他论证基础模型的通用性既让它能被迅速改造为[[educational-policy-ai|政策]]工具，也使异常输出成为一种只能缓解、无法根除的长期风险——监督是在回路之上俯视，而非坐在回路之中。
 - **整合缺口，已被绘出：**[[malik-bashir-reconceptualizing-learning-sciences-hybrid-intelligence-2026|Malik 与 Bashir（2026）]]将 32 项研究（PRISMA 2020，主题分析）综合为四个主题：领域内部的认识论碎片化、理论—技术矛盾（计算系统运行于预测与可测量的行为，而教育理论强调语境与社会互动）、经由分析的学习的数据化，以及作为新兴范式的混合智能。他们的混合智能框架是一个概念性综合，而非经过验证的模型——作者声明它尚待实证检验——但四主题地图对于本领域不断撞上的理论到计算的转译问题，是一面有用的审计透镜。
+- **学生如何使用生成式模型，比他们是否使用更重要。**对 50 段本科生对话的编码发现，64% 是被动复述或事务性提问，只有 36% 是策略性对话，而一个以反思为结构的作业把天平推向了对话（[[three-pathways-student-ai-interaction-2026|Zahra，2026]]）。
+- **个体内部的依赖先于[[agency]]感知到的下降。**在一门 AI 支持的[[collaborative-learning|协作]][[writing-education|写作]]课程中，来自 85 个固定小组 342 名本科生的三轮数据显示，高于平常的 GenAI 依赖预测了随后感知到的人类能动性下降，而反向路径更弱且在统计上未获支持（[[genai-reliance-human-agency-collaborative-learning-2026|Wu 与 Lu（2026）]]）。
+
+- **GenAI 使用的分布是一种制度性选择。**[[sun-student-genai-entanglement-literacy-demands-2026|Sun、Dohn 与 Rehm（2026）]]按认识性工作如何在学生与系统之间分配，对 102 项高等教育研究做了分类，发现 Assistant 和 Enabler 两种纠缠各占 42.16%、居于主导，并把这种偏斜读作制度合法性而非技术能力。
+
+- **过程证据是随渠道而定的。**用 79 名本科生对一项 GenAI 辅助的教学设计任务同时在交互日志和并发有声思维中做了编码，[[metacognitive-processes-genai-interaction-logs-2026|Li 与 Liu（2026）]]发现更深度的监控证据在有声思维记录中更常见，而更深度的[[regulation]]证据在日志中更常见，因此单独任何一种痕迹都不是[[metacognition|元认知]]主张的判据。
 
 ## 学习科学如何与相邻领域相关联
 
@@ -106,3 +114,9 @@ ai_assist:
 - [[reichert-human-centered-llm-chatbot-design-teachers-2026]] — 教师设计有边界专家的聊天机器人，对教学做选择性委托（Reichert et al. 2026）
 - [[sutedjo-faculty-genai-tpack-21-2026]] — 教师生成式 AI TPACK：内容知识强、技术整合知识弱（Sutedjo, Chowdhury & Liu 2026）
 - [[wang-tutor-copilot-human-ai-live-tutoring-rct-2024]] — Tutor CoPilot：一项大规模人机协同实时辅导的随机试验（Wang et al. 2024）
+- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — 一项 30 位专家参与的预注册 Delphi 研究，关于 GenAI 增强哪些学习过程、威胁哪些学习过程
+- [[three-pathways-student-ai-interaction-2026]] — 学生与 AI 交互的类型学：64% 为被动或事务性，36% 为策略性对话
+- [[agent-type-feedback-style-self-directed-learning-2026]] — 反馈风格，而非智能体类型，推动了自我调节的投入
+- [[metacognitive-processes-genai-interaction-logs-2026]] — 过程证据是随渠道而定的
+- [[sun-student-genai-entanglement-literacy-demands-2026]] — GenAI 使用的分布是一种制度性选择
+- [[genai-reliance-human-agency-collaborative-learning-2026]] — 个体内部的依赖先于感知到的能动性的下降

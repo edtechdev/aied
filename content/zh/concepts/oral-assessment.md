@@ -4,6 +4,7 @@ created: "2026-09-23T08:35:38-04:00"
 updated: "2026-10-09T19:06:58-04:00"
 connected_faqs: [redesign-assessment-ai-era, ai-feedback-at-scale]
 type: concept
+connected_resources: [code-viva]
 foundations: [academic-integrity, critical-thinking]
 pedagogy: [scaffolding, metacognition]
 technology: [generative-ai, llm, speech-and-voice-technologies]
@@ -13,7 +14,7 @@ audience: [instructors, administrators]
 level: [higher ed]
 confidence: medium
 translation_of: concepts/oral-assessment
-source_updated: "2026-09-30T16:25:27-04:00"
+source_updated: "2026-10-23T09:49:58-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -58,6 +59,8 @@ ai_assist:
 
 **作为辩护而非考试的口头证据。** [[tool-invariant-framework-agentic-ai|一套工具无关的考评框架]]把无 AI 的课堂小测与对剥离注释的 AI 辅助作品的十分钟口头辩护配对，按代码理解、方法理解、术语、解释与验证评分，且无论总分如何，验证为必需项。该设计是论证出来的，而非验证过的；论文自己为十五名学生算出的账是每次作业 2.5 个接触小时，十一场需辩护作业合计约每学期 28 个接触小时。
 
+互动形式决定了一项 AI 中介的口语任务能证明什么。Duolingo English Test 的对话任务在试点中有 713 个，要求的是选择答案而非反应式交谈，评审者认为这使任务的认知要求与该测验声称测量的构念错位（[[ai-second-language-listening-speaking-assessment-2025|Goh & Aryadoust（2025）]]）。
+
 ## 焦虑、偏见，以及这一形式让谁处于不利
 
 口试既以包容为由被推崇（口头答案比书面答案更难购买），又以同样的理由被反对。[[fenton-oral-exams-ai-authentic-assessment-2025|Fenton]]直接列出了这些挑战：排课负担、焦虑，以及沿性别、族裔、语言和作答速度的偏见，外加非匿名评分的影响。与之相对，该论文引用的证据表明，口试可以与笔试一样包容，包括对诵读困难学生而言；而且大多数被报告的焦虑由不熟悉而非形式本身驱动——一项被引研究中的学生在后来的口试中焦虑更低。
@@ -71,6 +74,10 @@ ai_assist:
 三项发现不利于把口试分数读作学习增益。[[asynchronous-oral-assessment-2026|异步形式研究]]否认其分数优势代表学习增益，并报告教师与模型重新评分的一致性在期中为 ICC 0.73、期末为 0.60，这限定了机器评分能被信任的程度。在[[ai-standardized-patient-scaffolding-medical-2026|一项针对一百名三年级医学生的随机试验]]中，把标准化病人系统与渐进披露的病例材料相比较，期末考试成绩上升（71.8 对 55.6 百分比，Hedges' g = −0.81），OSCE 沟通评分上升（五分量表上的 3.53 对 2.64），而二元诊断准确率在统计上完全相同（84 对 86 百分比，P = 1.000）。只读准确率的人会认为干预无效；只读沟通的人会认为它具有变革性。
 
 决定性约束是师资与硬件，而不是教学法，语料在算术上异常坦率：十五名学生每学期 28 个接触小时，CS1 设计中一百多人的班级配十一名助教，离线职业部署中一台笔记本供十二名学习者同时使用。这批研究中任何地方都不存在口试对笔试的随机试验，而每一项测量差异的研究都是无对照组的单机构设计。口试作为对 AI 辅助替代的回应有充分支持，作为学习的改善则支持薄弱。
+
+没有哪种形式在这种权衡中占据固定位置：口语考评的可观察性是一种设计选择，它的可行性代价是项目去分摊而非被动承受的：可行性是一项教育优先事项，而不是侵蚀良好实践的那种约束（[[assessment-feedback-trilemma-model-2026|Pedlow 等人（2026）]]）。
+
+口试的诚信理由也是有时间限制的：[[corbin-ai-glasses-wearable-ai-assessment-2026|Corbin 等人（2026）]] 主张，AI 眼镜与耳机可以在现场口试中传递隐蔽的实时提示，因为可穿戴 AI 不会产生目光转移或可探测的信号，所以互动式口试不再是免疫的。
 
 - **规模上限是设计约束。** 在一场有 73 名[[cs-education|计算机]]教育者参加的研讨会上，口头与互动式考评被报告为可获得的、关于个体理解的最强证据，也是最不可规模化的补救办法；参与者描述的缓解手段是分散与抽样——共享助教池、权重低于期末考试的同伴互评，以及点名轮换的学生子集（[[computing-assessment-genai-workshop-report-2026|Akbar 等人（2026）]]）。
 
@@ -91,6 +98,9 @@ ai_assist:
 
 ## 关联文章
 
+- [[ai-second-language-listening-speaking-assessment-2025]] — 非分支的 AI 对话任务使任务要求与口语构念错位
+- [[corbin-ai-glasses-wearable-ai-assessment-2026]] — 现场口试不再是免疫的：AI 眼镜与耳机传递隐蔽的实时提示（Corbin, Sharpe & Dawson 2026）
+
 - [[fenton-oral-exams-ai-authentic-assessment-2025]] — 重新考量口试与口语考评的使用（Fenton 2025）
 - [[asynchronous-oral-assessment-2026]] — 异步口试：诚信、参与与专业沟通
 - [[ai-supported-oral-assessment-tvet-2026]] — 在职业教育中设计 AI 支持的口语考评
@@ -101,4 +111,5 @@ ai_assist:
 - [[tool-invariant-framework-agentic-ai]] — 对 AI 辅助作品的口头答辩
 - [[ai-standardized-patient-scaffolding-medical-2026]] — 标准化病人系统下的临床口头访谈
 - [[pgr-students-genai-uses-qualitative-2026]] — 生成式 AI 之下的博士答辩
-- [[computing-assessment-genai-workshop-report-2026]] — AI Can Do Your Homework. Now What? Report from an online workshop on computing assessment in the age of generative AI
+- [[computing-assessment-genai-workshop-report-2026]] — 《AI Can Do Your Homework. Now What?》：一场关于生成式 AI 时代计算机考评的在线研讨会报告
+- [[assessment-feedback-trilemma-model-2026]] — 否认任何形式占据固定位置，并把可行性重新框定为一项教育优先事项

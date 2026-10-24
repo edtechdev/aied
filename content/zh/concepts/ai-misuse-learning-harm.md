@@ -96,19 +96,19 @@ AI 误用与 AI 使用是两回事。使用指的是把 AI 当作学习的补充
 
 ## 关联文章
 
-- [[rho-disengaged-conversational-behaviors-2026]] — Disengaged conversational behaviors and learning in student-AI dialogues (Rho et al. 2026)
+- [[rho-disengaged-conversational-behaviors-2026]] — 脱离投入的对话行为及其对学生与 AI 对话中学习的影响（Rho 等 2026）
 
 - [[genai-thoughtless-use-self-directed-learning-2026]]
-- [[generative-ai-guardrails-harm-learning]] — GenAI Without Guardrails Can Harm Learning
-- [[genai-performance-vs-learning]] — Distinguishing Performance Gains from Learning
-- [[ai-availability-student-motivation]] — AI Availability and Student Motivation
-- [[genai-skill-bypass-literacy]] — GenAI Skill Bypass and Literacy
-- [[cognitive-shift-ai-education]] — Cognitive Shift in AI Education
-- [[misiejuk-cognitive-offloading-prompting-2026]] — Cognitive Offloading in Student–AI Collaboration
-- [[cognitive-commons-ai-expertise-regeneration]] — The tragedy of the cognitive commons: AI and expertise regeneration
-- [[lodge-loble-cognitive-offloading-2026]] — AI, cognitive offloading and implications for education (Lodge & Loble 2026)
-- [[ai-overreliance-complex-adaptive-system-2026]] — AI overreliance modeled as a complex adaptive system
-- [[academic-erasure-complexity-ai-writing-2026]] — Academic erasure: the disappearance of complexity under AI-supported writing
-- [[ai-dependency-self-efficacy-teacher-support-burnout-2026]] — AI dependency fully mediates the path from self-efficacy and teacher support to learning burnout (Huang et al. 2026)
-- [[uneven-impact-generative-ai-student-learning-2026]] — Early reliance predicts negative impact while cognitive reliance predicts positive impact, and evaluation literacy strengthens rather than buffers the harm of consulting AI first (Manikonda et al. 2026)
-- [[this-is-how-we-ai-teaching-guide-2026]] — This is How We AI: A Practical Approach to Teaching with Artificial Intelligence
+- [[generative-ai-guardrails-harm-learning]] — 没有护栏的 GenAI 会损害学习
+- [[genai-performance-vs-learning]] — 区分表现增益与学习
+- [[ai-availability-student-motivation]] — AI 的可获得性与学生动机
+- [[genai-skill-bypass-literacy]] — GenAI 技能绕行与素养
+- [[cognitive-shift-ai-education]] — AI 教育中的认知转移
+- [[misiejuk-cognitive-offloading-prompting-2026]] — 学生与 AI 协作中的认知卸载
+- [[cognitive-commons-ai-expertise-regeneration]] — 认知公地悲剧：AI 与专长再生
+- [[lodge-loble-cognitive-offloading-2026]] — AI、认知卸载及其对教育的意涵（Lodge 与 Loble 2026）
+- [[ai-overreliance-complex-adaptive-system-2026]] — 把 AI 过度依赖建模为复杂适应系统
+- [[academic-erasure-complexity-ai-writing-2026]] — 学术擦除：AI 支持写作下复杂性的消失
+- [[ai-dependency-self-efficacy-teacher-support-burnout-2026]] — AI 依赖完全中介了从自我效能与教师支持到学习倦怠的路径（Huang 等 2026）
+- [[uneven-impact-generative-ai-student-learning-2026]] — 早期依赖预测负面影响，而认知依赖预测正面影响，且评价素养强化而非缓冲了先咨询 AI 的伤害（Manikonda 等 2026）
+- [[this-is-how-we-ai-teaching-guide-2026]] — 这就是我们的 AI 教学之道：一种实用的 AI 教学方法

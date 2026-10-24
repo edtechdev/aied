@@ -78,6 +78,6 @@ RL 支撑了现代 [[agentic-ai]] 与 [[intelligent-tutoring]] 设计的相当�
 - [[q-learning-lab-rl-teaching]]
 - [[singh-eduqwen-pedagogical-rl-2026]]
 - [[residencyrl-clinical-rl-training-2026]]
-- [[learnlm-improving-gemini-learning]] — LearnLM: RLHF for pedagogical instruction following
-- [[adaptive-scaffolding-cognitive-engagement-its]] — Adaptive ICAP scaffolding in an ITS (BKT vs DRL)
+- [[learnlm-improving-gemini-learning]] — LearnLM: RLHF for pedagogical instruction following：LearnLM 以 RLHF 改进教学指令遵循
+- [[adaptive-scaffolding-cognitive-engagement-its]] — 智能辅导系统中的自适应 ICAP 脚手架（BKT 对 DRL）
 - [[riedmann-reinforcement-learning-education-review-2026]]

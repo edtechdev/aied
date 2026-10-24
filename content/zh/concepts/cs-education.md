@@ -1,7 +1,8 @@
 ---
-connected_resources: [liascript]
+connected_resources: [liascript, code-viva]
 title: 计算机科学教育
 created: "2026-08-09T07:47:05-04:00"
+updated: "2026-10-24T14:41:30-04:00"
 type: concept
 foundations: [ai-literacy, computational-thinking]
 technology: [generative-ai, llm, prompt-engineering]
@@ -11,7 +12,7 @@ level: [higher ed, k 12]
 confidence: high
 reviewed_by: [editor]
 translation_of: concepts/cs-education
-source_updated: "2026-10-14T14:35:00-04:00"
+source_updated: "2026-10-24T08:54:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -45,6 +46,7 @@ ai_assist:
 - **代码生成与补全：** [[code-review-genai-cs1|CS1 代码评审]]、[[dura-llm-cs2|面向 CS2 的 DURA]] 与 [[prompt-problems-nl-programming-mistakes|自然语言编程失误]] 考察了学生如何用 AI 生成代码以及从中学到什么。
 - **面向新手的对话式智能体（[[meta-analysis-systematic-review|范围综述]]）：** [[conversational-agents-novice-programmers-scoping-2025|Barzanji & Loitsch（2025）]] 测绘了 23 项研究（2019—2024 年 6 月）关于面向新手程序员的 [[conversational-ai|对话式智能体]]，记录了从基于规则的聊天机器人到基于 [[llm|大语言模型]] 与 [[rag]] 的智能体的转变（[[rag|检索增强生成]] 减少了 [[hallucination-risk|幻觉]]）以及个性化辅导支持（如 InfoBot、ProbSol-Bot、Lint Bot、Profe Alex）。值得注意的是，23 项研究中只有 4 项把设计奠基于 [[learning-theories|学习理论]]，23 个原型中有 17 个只有英文，尽管多数研究源自非英语国家 —— 这 flag 了未来入门编程对话式智能体设计中薄弱的 [[pedagogy|教学性]] 根基与包容性缺口。
 - **调试支持：** [[debugtracker-classroom-debugging|调试工具]]、[[chat-debugging-human-ai-collaboration-circuits|人—AI 调试协作]] 与 [[golrang-propact-pair-programming-2026|二人结对编程建模]] 利用 AI 进行错误识别与修复。
+- **一次真实的课程部署发现，可操作的变量是提示长度，而非模型选择。**在一门入门 Web 开发课程中的三次连续部署（o3-mini、GPT-5-mini 与 GPT-5.5，分别有 79,438、83,374 与 10,420 份记录提交）在若干比较中把提示与更好的即时结果联系起来。更长的消息预测了更差的下次提交正确率、更多的尝试与更慢的重交，而在此前项目步骤中收到过提示的学生更少解出最后一步，为 95.6% 对 98.1%（[[mihaylova-llm-feedback-live-programming-course-2026|Mihaylova 等，2026]]）。
 - **常驻浏览器的工具增强导师是该领域正在收敛到的架构。** 一种工具增强的小语言模型设计把一个经过微调的小型规划器（1B–7B）与四个确定性工具 —— 代码执行器、测试运行器、文档检索器、[[knowledge-tracing|知识追踪]] 模块 —— 配对，背后是一套四级升级策略（先工具、然后端侧小语言模型、经同意门控的云端大语言模型、最后教师），把教学控制从模型转移到可审计的策略；一个初步的约 1.5 亿参数补全模型达到 10.97% 的 HumanEval pass@1，高于数个 1 亿—1.5 亿参数量级的代码基线（[[browser-sized-agents-slm-webllm-tutor-2026|Suvernev 等人（2026）]]）。
 - **一个经微调的小型导师能比更大的通用模型更好地搭支架。** 在 1,213 段合成辅导对话上微调 Qwen2.5-Coder-7B-Instruct，把过早给出答案的导师话轮从 7.43% 降到 1.88%，并把分步支架与调试提问质量提到 GPT-4o 之上，尽管可靠的教学计划生成仍是开放问题（[[socraticrepair-program-debugging-2026|Kopytskyi 等人（2026）]]）。
 - **自动评估：** [[automated-grading-linux-bash-examinations-large-language-models|Linux Bash 评分]]、[[llm-automated-grading-programming-comparison-2026|大规模 18 模型评分比较]] 与 [[llm-intervention-design-cs-review|大语言模型干预综述]] 评估自动化代码评估。该工作流的安全性是一个独立的问题：[[humble-prompt-injection-ai-grading-red-team-2026|Humble（2026）]] 红队测试了一项例行 AI 评分任务，发现藏在被提交文件中的指令能把一篇不及格作文的分数提上去且无可见警告，对一种策略 9 次中 9 次成功、对另一种 17 次中 17 次 —— 证据表明评分器的稳健性应与准确性并列列入 [[assessment-validity|评估效度]] 清单。
@@ -159,6 +161,7 @@ ai_assist:
 - [[assessment-validity]]
 
 ## 关联文章
+- [[mihaylova-llm-feedback-live-programming-course-2026]] — 三次部署、三个模型、17.3 万份提交：真实课程中的提示行为是怎样的
 - [[kumar-genai-computing-education-systematic-review-2026]] — 72 项研究的系统综述：不迁移的效率收益与 VIE 框架
 - [[vibe-coding-writing-cs-achievement-2026]] — CS 成就与写作技能预测 vibe coding 熟练度（CHI 2026）
 - [[tutortrace-learner-behavioral-states-2026]]
@@ -190,7 +193,6 @@ ai_assist:
 - [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly 具身积木编程
 - [[edusim-llm-robotic-simulation-education-2026]] — EduSim-LLM 自然语言机器人控制
 - [[llm-computational-thinking-physics-2026]] — 面向物理计算思维的大语言模型支持
-- [[studychat-student-dialogues-chatgpt-ai-course-2026]] — AI 课程中学生—大语言模型对话的 StudyChat 数据集
 - [[student-ai-inquiry-types-cs2-2026]] — 学生—AI 互动中的提问类型分析
 - [[chatgpt-qiskit-homework-autogradable-2026]] — ChatGPT 解出 Qiskit 作业；可自动评分的设计
 - [[llm-adaptive-programming-error-explanations-2026]] — 编程错误的大语言模型自适应解释

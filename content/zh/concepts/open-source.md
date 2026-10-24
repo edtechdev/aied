@@ -116,4 +116,4 @@ OmniEdu 发布的是整条流水线而非仅权重：在 69,999 例混合样本�
 - [[mooc-to-maic]] — 大语言模型驱动的课程生成与课程生产经济学的变化
 - [[agentic-ai-education-scoping-review]]
 - [[yu-academiclaw-student-challenges-ai-agents-2026]]
-- [[omniedu-open-educational-foundation-models-2026]] — OmniEdu: Open Foundation Models for Learning and Teaching
+- [[omniedu-open-educational-foundation-models-2026]] — OmniEdu：面向学与教的开放基础模型

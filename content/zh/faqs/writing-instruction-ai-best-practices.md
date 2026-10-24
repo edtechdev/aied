@@ -1,13 +1,14 @@
 ---
 title: "在人工智能语境下，写作教学的最佳实践是什么？"
 created: "2026-09-22T19:41:09-04:00"
-updated: "2026-10-09T18:10:00-04:00"
+updated: "2026-10-24T15:53:02-04:00"
 foundations: [academic-integrity, cognitive-offloading]
 assessment: [ai-feedback-quality, assessment-validity, evaluative-judgment, feedback-literacy, peer-assessment]
 ethics: [ai-use-disclosure, multilingual-learning]
 weight: 80
+audience: [instructors, instructional designers]
 discipline: [engineering education, humanities education, writing education]
-source_updated: "2026-10-02T08:21:34-04:00"
+source_updated: "2026-10-21T14:32:00-04:00"
 translation_of: faqs/writing-instruction-ai-best-practices
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]

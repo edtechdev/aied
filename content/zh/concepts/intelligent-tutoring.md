@@ -2,7 +2,7 @@
 connected_resources: [deeptutor, openmaic]
 title: 智能辅导
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-09T18:39:25-04:00"
+updated: "2026-10-24T15:57:18-04:00"
 connected_faqs: [ai-agents-support-students-instructors, developing-ai-tutor, training-ai-tutors-to-guide-rather-than-answer, checking-whether-educational-ai-works, making-simulated-students-behave-like-learners]
 type: concept
 pedagogy: [scaffolding]
@@ -12,7 +12,7 @@ discipline: [stem education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/intelligent-tutoring
-source_updated: "2026-10-14T11:15:00-04:00"
+source_updated: "2026-10-23T09:35:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -53,9 +53,11 @@ AI 辅导涵盖使用人工智能——特别是 [[llm|大语言模型]]与结�
 
 [[llm|LLM]] 的出现为辅导领域带来了一种富有成效的张力。传统智能辅导系统（ITS）提供精确性与透明性——你确切知道系统为何做出某个决定——但缺乏灵活性。LLM 辅导提供自然对话与广博知识，却可能产生幻觉、过度支架化，或完全绕过学习。现代的 [[research-methods-aied|研究]]日益探索**混合方法**，把结构化的 ITS 组件与 LLM 的灵活性结合起来。[[reddig-maclellan-personalized-feedback-llm-2026|Reddig、Arora 与 MacLellan（2025）]] 在 Apprentice Tutor 大学代数 ITS 中具体展示了这一点：在提示中提供 GPT-4 辅导器的界面结构与贝叶斯 [[knowledge-tracing]] 技能估计，把因式分解上的逻辑错误诊断从 40% 提升到 81%（整体错误识别提升到 87.8%），并产出约 66% 针对错误的提示——这直接证明把 LLM 嵌入 ITS 的结构化框架能够约束生成、抑制幻觉式诊断，并产出具备上下文感知的纠正性反馈，尽管仍有约三分之一的提示过于笼统、不正确或直接泄露答案。
 
-把教学法训练进模型是与提示模型不同的另一条路径：LearnLM 将教学法数据混入 Gemini 的后训练阶段，在教育专家偏好评测中胜过 GPT-4o（+31%）、Claude 3.5 Sonnet（+11%）与基础版 Gemini 1.5 Pro（+13%）；并且由于是共同训练而非事后微调，这些优势在未来的基础模型发布中依然保留（[[learnlm-improving-gemini-learning|LearnLM Team（2025）]]）。
+把教学法训练进模型是与提示模型不同的另一条路径：LearnLM 将教学法数据混入 Gemini 的 [[llm-training-and-fine-tuning|后训练]]阶段，在教育专家偏好评测中胜过 GPT-4o（+31%）、Claude 3.5 Sonnet（+11%）与基础版 Gemini 1.5 Pro（+13%）；并且由于是共同训练而非事后微调，这些优势在未来的基础模型发布中依然保留（[[learnlm-improving-gemini-learning|LearnLM Team（2025）]]）。
 
 TeachLM 认为稀缺的成分是真实的学习者—辅导者互动：在 100,000 小时的一对一辅导数据上微调后，它大约使学生发言时间翻倍，对话轮次增加 50%，而此前一个基于提示工程的辅导工具未能缩小与人类辅导者的差距（[[teachlm-post-training-llms-education|Perczel、Chow 与 Demszky（2025）]]）。
+- **提供参考策略能提升弱辅导工具，而非强辅导工具。** 向模型提供案例文献中记录的策略，使 11 个模型中的 10 个的即时回应成功率平均提高了 9.9 个百分点——Llama 4 Maverick 从 41.0% 升至 64.8%——而最强的模型保持在 71.3% 不变（[[tutor-case-bench-challenging-behaviors-2026|Park et al.（2026）]]）。
+- **获得辅导的机会不等于从中学习。** 将 153 名证明课程的学生随机分配到更早使用聊天机器人与反馈界面，使作业分数提高 2.56 分，却未改变无辅助的考试成绩，且每 100 条聊天机器人消息对应 3.02 分的下降（[[ai-proof-learning-cognitive-offloading-2026|Chen et al.（2026）]]）。
 
 智能辅导系统是 [[ai-education|教育中的 AI]] 中最古老、研究最充分的领域之一。与通用 LLM 辅导不同，ITS 传统上采用结构化方法：领域模型（教什么）、[[student-modeling|学生模型]]（学习者知道什么）与教学法模型（如何教）。这些组件使得细粒度地跟踪学生进度、诊断误解并自适应地排序成为可能。
 
@@ -72,8 +74,8 @@ TeachLM 认为稀缺的成分是真实的学习者—辅导者互动：在 100,0
 - **在非结构化手写解答题上诊断错误。** [[yin-arthur-ai-teaching-assistant-engineering-econ-2026|Arthur（Yin et al. 2026）]] 把 ITS 式反馈扩展到工程经济学课程中的计算类公式题——这是一个纸笔解答缺乏以往 AI 辅导工作所依赖的结构化数字数据的领域。它没有使用通用 LLM，而是为每道题配备专门的 [[machine-learning|XGBoost]]"解答诊断骨干"——在经过策划的、随机掩码增强的已批改提交数据上训练，仅从学生提交的数字预测教师评分标准中的错误标签（精确率 0.81，召回率 0.79）——并配合基于对话的交互，仅当诊断置信度低于 0.8 阈值时才迭代地请求中间答案。这是知识库原则的一个具体案例：即便无法获得完整的手写解答，知识 grounded 的分类器也能处理解答诊断。
 - **带后台评估器的轮次级自适应辅导。** MeduAI-SP [[pedagogical-agent|辅导智能体]]（[[ai-standardized-patient-scaffolding-medical-2026|Yang et al.，2026]]）示范了轮次级的自适应辅导：后台评估器将每位学生的发言对照一份 30 项与 OLDCARTS 关联的病史采集清单及沟通标准进行监测，仅在需要时才触发提示（4,815 条消息中的 24.1%）。语料分析揭示了这类支持最需要出现在哪里——学生发言中 62.2% 是现病史，但只有 4.3% 是共情／支持性沟通，2.6% 是 [[summative-assessment|体格检查]]——这表明 ITS 式的 [[medical-education|临床]]辅导应当针对使用不足的问诊环节与后期遭遇中的推理阶段，而不仅是症状采集；同时模拟病人的保真度已高到足以支撑结果研究（仅约 0.68% 的病人发言显示出明显的保真度问题）。
 - **由课程自身教学法构建的 AI 辅导工具战胜了该课程：一项与 [[active-learning|主动学习]]对比的 RCT。** 在哈佛最大的入门物理课程中开展的一项交叉 [[rct]]（194 名符合条件的学生）中，一个用与课堂授课相同的七项研究型实践定制构建的辅导工具，产生了中位数 4.5 的后测成绩，而课堂内主动学习为 3.5（基线中位数 2.75），线性回归的效应量为 0.63；在任务上花费的时间中位数为 49 分钟，课堂内为 60 分钟，报告的学习投入度（4.1 对 3.6）与动机（3.4 对 3.1）更高（[[kestin-ai-tutoring-outperforms-active-learning-rct-2025|Kestin et al.，2025]]）。作者把优势定位在课堂无法持续维持的两项实践上——按需提供的个性化反馈与自定进度——并警告说该辅导工具应当补充而非取代课堂内教学。
-- **教师中介大致使实施保真度翻倍（全学区实地证据）：** [[alam-goblins-math-platform-2026|Goblins（Alam 等人 2026）]] —— 一个向某大型亚利桑那学区全体 6—8 年级数学教师推广的教师中介多模态 AI 数学平台 —— 以每周仅 2 题的适度参与门槛触达了 6,065 名学生中的约 51%，而此前评估中 Khan Academy 与 IXL 的门槛分别为 5% 与 12%。
-- **其中剂量驱动效应（同一研究）：** 一项加权倾向得分设计将使用情况与区内 MAP 增长的 0.11 SD 相关联（国家标准条件增长指数上为 0.24 SD），并呈现清晰的剂量梯度——每周 10—19 题为 0.18 SD，20 题及以上为 0.31 SD，所有每周 3 题以上的剂量均显著（p < 0.01）。探索性亚组显示，有个别化教育计划（IEP）的学生（+0.122 SD）、英语学习者（+0.191 SD）与西班牙裔学生（+0.084 SD）的关联更大。该设计是准实验性的——使用上的自选择是作者点名的弱点——但保真度与剂量—反应直接实例化了约束条件的教训。
+- **教师中介大致使实施保真度翻倍（全学区实地证据）：** [[alam-goblins-math-platform-2026|Goblins（Alam 等人 2026）]] —— 一个向某大型亚利桑那学区全体 6—8 年级数学教师推广的教师中介 [[multimodal|多模态 AI]] 数学平台 —— 以每周仅 2 题的适度参与门槛触达了 6,065 名学生中的约 51%，而此前评估中 Khan Academy 与 IXL 的门槛分别为 5% 与 12%。
+- **其中剂量驱动效应（同一研究）：** 一项加权倾向得分设计将使用情况与区内 MAP 增长的 0.11 SD 相关联（国家标准条件增长指数上为 0.24 SD），并呈现清晰的剂量梯度——每周 10—19 题为 0.18 SD，20 题及以上为 0.31 SD，所有每周 3 题以上的剂量均显著（p < 0.01）。探索性亚组显示，有个别化教育计划（IEP）的学生（+0.122 SD）、[[multilingual-learning|英语学习者]]（+0.191 SD）与西班牙裔学生（+0.084 SD）的关联更大。该设计是准实验性的——使用上的自选择是作者点名的弱点——但保真度与剂量—反应直接实例化了约束条件的教训。
 
 - **与专家级人类辅导在统计上等效。** 在来自 2,383 名成年人的 2,469 次会话中，汇总后的 AI 辅导在 GRE [[learning-gains|学习收益]]上与真人一对一专家辅导持平（p=.015，针对 ±0.25-SD 界限；调整后的差异为 -0.58 个百分点），两者都超过视频对照组约六个百分点；十二位辅导者中有六位通过了个体等效性检验，其中 Gemma 4 31B 以低 918 倍的单百分点成本达到了与人类相当的学习收益（[[studentbench-ai-human-tutoring-gre-2026|Northcutt et al.（2026）]]）。
 
@@ -99,7 +101,7 @@ ITS 领域已产出一批里程碑式系统（Cognitive Tutors、Andes、AutoTut
 
 **评估辅导工具是否"教"，而不只是"解"。** 一个在解题排行榜上名列前茅的模型不一定是好的辅导工具——解题能力与支持学习的行为只是部分相关（r ≈ 0.42），一些模型在按教学法评分时排名会发生变化。应当**分别报告并审视解题分数与教学法分数**，优先选择在引导性提问、校准过的提示和非泄露式支架上得分的辅导工具，而不是那些快速给出答案的工具。([[measuring-llm-tutors-teach-vs-solve]])([[ai-tutoring-quality-k12-methodologies-2026]])
 
-- **教学法质量是底线，而非学习已发生的证明。** 一项对 88 项 LLM 辅导研究的结构化审计将该领域编码为五阶段循环——学习者状态推断、教学法行动、辅导工具训练、评估、学生模拟——发现教学法评估普遍存在（77/88），但只有 10 项研究报告了人类学习增益，仅 1 项涉及迁移或延迟保持（[[llm-tutors-process-synthesis-2026|Adak 等人（2026）]]）。
+- **教学法质量是底线，而非学习已发生的证明。** 一项对 88 项 LLM 辅导研究的结构化审计将该领域编码为五阶段循环——学习者状态推断、教学法行动、辅导工具训练、评估、[[simulating-students|学生模拟]]——发现教学法评估普遍存在（77/88），但只有 10 项研究报告了人类学习增益，仅 1 项涉及迁移或延迟保持（[[llm-tutors-process-synthesis-2026|Adak 等人（2026）]]）。
 - **一项大型多学科随机试验发现，一个有充分依据的辅导工具产生了不利影响。** [[liu-course-integrated-ai-tutoring-rct-2026|Liu et al.（2026）]] 将 2,379 名本科生与 30 位教师随机分组，覆盖 13 个区块和美国某公立大学 12 个学院中的 11 个，考察能否使用一个基于每位教师自身课程材料做检索增强的 GPT-4o 辅导工具，该工具嵌入 LMS 并引用幻灯片与讲课视频的时间点。在精确匹配样本中——同一门课程的不同班次——获得该工具使期末成绩下降 4.12 分（0.37 SD），GPA 尺度上的字母成绩下降 0.13 SD；而全样本未显示出显著的学业成就效应；两个样本的投入度都下降了（记录的参与 -0.90 SD，活跃天数 -0.51 至 -0.61 SD）。只有约 15% 的受处理学生使用了该工具，使用者平均约四次会话，但班级层面的行为差异很大；在 3,460 条被分类的请求中，73.8% 是直接索要答案的请求，而非练习或针对学生自己尝试的反馈。作者将其解读为技术整合与教学整合之间的落差：没有任何一个处理组的教师报告把该工具整合进作业，大多数保留了默认的直接教学模式，因此课程 grounding 与便捷访问并没有带来有效的使用。
 
 **为教学法结构而设计，而非为使用频率。** AI 辅导的教育回报取决于工具*如何*被使用和设计，而不是被使用的频率。围绕课程目标、学习者水平与经策划的知识库来限定范围的教师定制辅导工具，胜过非结构化的通用 [[conversational-ai|聊天机器人]]使用。([[instructor-designed-ai-tutors-foreign-language-sdt-2026]]) 一项预注册的随机实地实验将该论断与一个现实的替代方案（而非无 AI 的基线）做了对照：在线 MBA 公司金融模块中的 86 名学生被分配到基于该模块自身讲授、阅读材料与习题集的辅导工具，或保留标准资源且可自由使用消费级 AI 的对照组；受辅导学生多获得 55 分中的 6.63 分（95% CI [+1.95, +11.31]，p = .007），而达到关系性质量或以上的简短书面回答比例从 8% 上升到 49%，对照组为从 8% 到 27%。渠道是零差异——语音几乎使互动密度翻倍，交付成本高 2.8 倍，但每周掌握度仅相差 11 分中的 -0.01 分（p = .98）——这使得交付形式成为一个采纳与投入的杠杆，而非一种学习技术。对照组也没有缩小差距：九名报告使用外部 AI 的学生并不比八名报告未使用的学生获益更多（55 分中 +10.3 对 +12.8，p = .45）。
@@ -109,6 +111,10 @@ ITS 领域已产出一批里程碑式系统（Cognitive Tutors、Andes、AutoTut
 **支持学习者的自主性、胜任感与归属感。** 当 AI 辅导工具感觉像一个安全、结构化的练习空间，而不是答案机器时，效果最好。提供即时、不带评判的 [[feedback]]；把辅导工具限定在学习者的水平上，使胜任感可以达成；并保持学习者的能动性，让辅导工具成为其他教学的补充（而非替代）。([[instructor-designed-ai-tutors-foreign-language-sdt-2026]])
 
 **防范答案泄露。** LLM 辅导的核心失效模式是把答案直接给出，这会立即抬高表现却损害持久的学习。应使用苏格拉底式提问、校准过的提示与非泄露式支架——并在无辅助的 [[transfer-of-learning|迁移]]任务上测量结果，而不只是在工具内部的表现。([[measuring-llm-tutors-teach-vs-solve]])([[socratic-method]])
+
+- **仅含编号的引用会击败检索。** 在一门 400 人数据科学课程的双语 RAG 辅导工具中，引用"P2 Q10"的帖子检索效果很差，直到一个抽取阶段把它们改写为独立的问题，之后 97.46% 的编程引用得以解析（[[multi-sourced-ai-tutor-non-native-english-2026|Shen et al.（2026）]]）。
+
+- **视觉通道把辅导转向检查作业，把主动性转向修复。** 当手机摄像头对准页面时，正确性反馈从辅导消息的 40% 上升到 63—69%，错误识别从 20—22% 上升到 41%；而一个在 5,047 次作业分析中有 96% 都在等待的主动式辅导工具，被评为支持性（7 分中的 5.53 分）而非打断（2.45 分）（[[visual-access-proactive-ai-tutoring-handwritten-math-2026|Kotalwar et al.（2026）]]）。
 
 **把诊断与反馈分开。** LLM 辅导工具能可靠地确认正确的步骤，却会过度拒绝有效但非最优的推理，并过度认可不正确的解答——而准确的诊断并不必然产出可操作的反馈。([[yasir-llm-tutoring-agents-2026]]) 这种耦合关系也反向起作用：[[reddig-maclellan-personalized-feedback-llm-2026|Reddig et al.（2025）]] 发现，即使在误诊错误之后，GPT-4 仍有约 74% 的时候能给出相关、笼统但正确的反馈（通过重述概念或期望的答案格式），然而几乎所有事实上不正确的反馈都跟在错误诊断之后——因此错误识别仍是可操作辅导的关键。混合架构效果最好：让知识 grounded 的分类器处理解答诊断，而 LLM 专注于开放式支架与对话。
 - **公平性审计正成为辅导评估的一部分。** EduFair-Bench 固定模拟学生的条件，仅改变人口统计属性，表明辅导质量在不同学习者之间并不一致，且针对奖励的教学法调优并不能自动消除这些差异（[[edufair-bench-pedagogical-fairness-llm-tutors-2026]]）。
@@ -137,6 +143,8 @@ ITS 领域已产出一批里程碑式系统（Cognitive Tutors、Andes、AutoTut
 
 **建模学习者，而不只是对话。** 为 LLM 对话附加结构化的 [[student-modeling]] 与 [[knowledge-tracing]] 组件，使系统能够依据证据调整难度、诊断误解，而不是流畅却盲目地回应——质量同时取决于基础模型与它的适配方式。([[educlaw-bench-pedagogical-llm-agents-2026]])
 
+然而，现成的模型可能无法提供这样的证据：[[worden-foundationalassist-knowledge-tracing-dataset-2026|Worden et al.（2026）]] 在 2,548 道数学题上以 IRT 真值为基准，对四个前沿系统做了零样本测试，发现知识追踪仅以微弱优势胜过 51.3% 的全对基线，最好也只达到 56.2%。
+
 **尽可能从开放工具起步。** 开源的智能体式辅导框架（如 [[deeptutor]]）降低了构建一个可检视、可扩展的、引用有据且难度校准的辅导工具的门槛。([[deeptutor]])
 
 **依据学习曲线审计知识组件模型，再按数据所示重新设计。** 一项课堂交叉研究把 Huang 等人的数据驱动重设计过程应用于一套中学数学 ITS 的四个单元，选择标准是主题而非重设计的适配性。DataShop 中的学习曲线分析揭示了一项未被建模的插值技能以及被混同的符号处理情形；拆分这些知识组件并加入跳过已掌握步骤的聚焦练习后，任务上的有效时间变得更有成效（38.9 对 31.6 个活跃分钟，p < .001），并在相同的课堂时间内多掌握了五项技能——但学习增益没有差异。零结果由稀薄的练习剂量（两种条件下 AFM 掌握度均低于 70%）与后测缺少新拆分技能的题目来解释。给开发者的两条教训：后测必须覆盖新发现的技能，且自适应的收益受限于学生实际获得的练习量。（[[lyu-data-driven-redesign-tutoring-2026]]）
@@ -149,7 +157,7 @@ ITS 领域已产出一批里程碑式系统（Cognitive Tutors、Andes、AutoTut
 - **面向程序性领域的规则整合式 LLM 辅导。** Looi、Liu 与 Sun（2026）通过一项设计科学研究，针对小学 [[math-education|数学]]中 LLM 辅导的不一致性与教学法不透明性，构建了一个围绕三层架构——*诊断 → 意图选择 → 受约束的回应生成*——组织的规则引导系统。他们把**规则引导的支架**（由可审计、可复现的规则支配）与**临时拼凑的支架**（有帮助但难以审计或复现的做法）之间的区别形式化。经由基于角色的模拟对话与一项 40 名五年级学生的课堂试点评估，规则引导的支架改善了互动的一致性、减少了过早给出答案与过早收尾，并维持了认知投入——而课堂试点也暴露出 [[simulation]] 未能捕捉到的互动复杂性、碎片化的输入与注意力波动。这是为定义良好的程序性领域 [[guardrails|加装护栏]]的 [[llm]] 辅导工具的一份具体蓝图。
 - **[[agentic-ai|多智能体]]辅导与 [[automated-assessment|自动评估]]。** 多智能体辅导系统正被用合成的、基于轨迹的评估来测试。ASTRA 支持单独辅导、双人辅导与双人—多智能体等配置，配有社会性有别的智能体，使得在 [[cs-education|程序设计入门]]中可复现地分析互动与参与平衡。与之并行，具备上下文感知的提示能从过程数据中自动编码 [[collaborative-learning|协作式问题解决]]技能，支持大规模辅导评估。
 - **依学习者的价值观而设计，而不只是为学习者表现。** [[ko-hughes-vsd-student-centered-its-2026|价值敏感设计工作]] 与社区学院的发展性数学学生及教师合作，表明 ITS 的 [[ethics|伦理]]维度不是可分离的附加项：直接让学生与教师参与，产出了 16 项与价值对齐的功能，涵盖 [[explainable-ai|可解释性]]（理解检查的解读、学习路径的关联、传达模型的置信度）、[[human-in-the-loop-ai|学习者控制]]（对重新评估、复习、进度与 AI 辅助程度的控制）以及 [[privacy]]（数据再利用的控制、分享 [[learning-analytics|学习分析]]与 [[affective-computing|情感]]状态的许可提示）。该研究框定了一个持久的设计张力——[[agency|学生能动性]]与系统引导的支架之间——并指出多数机构完全停用了自适应辅导，因此价值知情的设计也取决于 ITS 的 AI 能力实际上如何（以及是否）被部署。
-- **可教智能体与脱离投入对话的分类：** [[rho-disengaged-conversational-behaviors-2026|Rho 等人（2026）]] 在 Math Nation（代数与几何）中运行了一个 GPT-4-Turbo 可教智能体，学生需要判断两份已完成的解答中哪一份含有误解、为纠正提供理由，并教导该智能体——一种以教为学的结构，配有一个单独的导师智能体对解释质量打分。在 6,933 个被打开的问题与 22,143 条被记录的互动之上，他们构建了一个六类别的对话脱离投入分类器（人在回路：1,682 条已标注话语、微调的 LLaMA 3、加权 F1 = 0.910、模型与人的 κ = 0.624），并用它研究了 246 名中学生。其方法论贡献与发现本身同样重要：当一个分类器标注了大部分语料时，流行率结果必须对照人工标注的子集做压力测试——而在这里，头条关联（False Answering 与 Mocking 预测更高的后测成绩）正是在这一测试下烟消云散的。
+- **可教智能体与脱离投入对话的分类：** [[rho-disengaged-conversational-behaviors-2026|Rho 等人（2026）]] 在 Math Nation（代数与几何）中运行了一个 GPT-4-Turbo 可教智能体，学生需要判断两份已完成的解答中哪一份含有误解、为纠正提供理由，并教导该智能体——一种 [[learning-by-teaching|以教为学]]结构，配有一个单独的导师智能体对解释质量打分。在 6,933 个被打开的问题与 22,143 条被记录的互动之上，他们构建了一个六类别的对话脱离投入分类器（人在回路：1,682 条已标注话语、微调的 LLaMA 3、加权 F1 = 0.910、模型与人的 κ = 0.624），并用它研究了 246 名中学生。其方法论贡献与发现本身同样重要：当一个分类器标注了大部分语料时，流行率结果必须对照人工标注的子集做压力测试——而在这里，头条关联（False Answering 与 Mocking 预测更高的后测成绩）正是在这一测试下烟消云散的。
 
 ## 关联概念
 - [[scaffolding]]
@@ -173,42 +181,47 @@ ITS 领域已产出一批里程碑式系统（Cognitive Tutors、Andes、AutoTut
 - [[k-12]]
 - [[speech-and-voice-technologies]]
 ## 关联文章
+- [[ai-proof-learning-cognitive-offloading-2026]] — 支持还是取代学生的推理？AI 辅助证明学习中的认知卸载（Chen et al. 2026）
+- [[tutor-case-bench-challenging-behaviors-2026]] — TutorCaseBench：针对有挑战行为的学生评估 LLM 辅导工具（Park et al. 2026）
+- [[visual-access-proactive-ai-tutoring-handwritten-math-2026]] — 把手写作业上的摄像头：视觉访问与主动修复（Kotalwar et al. 2026）
 - [[rho-disengaged-conversational-behaviors-2026]] — 学生—AI 对话中的脱离投入行为与学习（Rho 等人 2026）
 - [[kestin-ai-tutoring-outperforms-active-learning-rct-2025]] — AI 辅导在课堂主动学习之上表现更优：一项在真实教育情境中引入新型研究型设计的 RCT（Kestin et al. 2025）
-- [[ai-standardized-patient-scaffolding-medical-2026]] — Evaluating Scaffolding-Oriented Multi-Agent Large Language Model System for Clinical Interview Training
+- [[ai-standardized-patient-scaffolding-medical-2026]] — 评估面向支架的多智能体大语言模型系统在临床问诊训练中的应用
 - [[ko-hughes-vsd-student-centered-its-2026]] — 社区学院发展性数学中以学生为中心的 ITS 的价值敏感设计
 - [[prompt-engineering-personalization-ai-teaching-assistant-2026]] — AI 教学助手基于提示工程的微观个性化（Basu、Kakar 与 Goel 2026）
 - [[deceptive-overgeneralization-adaptive-learning-2026]] — 欺骗性过度泛化：自适应掌握可能在学习者知道何时克制一个行动之前就停止练习（An、McLaren 与 Stamper 2026）
-- [[turano-ai-tutoring-not-a-monolith-2026]] — AI Tutoring is Not a Monolith: What We Actually Know（斯坦福 SCALE／NSSA 简报）
+- [[turano-ai-tutoring-not-a-monolith-2026]] — AI 辅导并非单一整体：我们所知道的实际情形（斯坦福 SCALE／NSSA 简报）
 - [[real-time-ai-feedback-technical-skills-2026]] — 面向夸拉州教育学院技术技能习得的实时 AI 反馈：一个被定位为人员补贴的本地化辅导工具
 - [[mishra-control-vs-agency-history-2025]] — 追溯 ITS 从 1960—70 年代专家系统到认知辅导工具的谱系
 - [[making-ai-tutoring-productive-mastery-math-2026]] — 让 AI 辅导变得有效：掌握式数学练习
-- [[one-click-away-khanmigo-two-year-school-experiment-2026]] — One Click Away: Khanmigo in a two-year school experiment
+- [[one-click-away-khanmigo-two-year-school-experiment-2026]] — 一步之遥：Khanmigo 在为期两年的学校实验中
 - [[yasir-llm-tutoring-agents-2026]] — 以知识图谱真值为基准对 LLM 反馈智能体进行评测（Yasir et al. 2026）
-- [[instructor-designed-ai-tutors-foreign-language-sdt-2026]] — Instructor-Designed AI Tutors in University Foreign Language Education (Self-Determination Theory)
-- [[measuring-llm-tutors-teach-vs-solve]] — Measuring Whether LLM Tutors Teach or Solve
-- [[ai-tutoring-quality-k12-methodologies-2026]] — Methodologies for Improving the Quality of AI Tutoring in K-12 Education
-- [[zhang-tutormoments-2026]] — When Help is Unhelpful: evaluating AI tutors for productive struggle
-- [[graph-its-adaptive-algorithms-2026]] — Graph-Based Intelligent Tutoring for Dynamic Domains (2026)
+- [[instructor-designed-ai-tutors-foreign-language-sdt-2026]] — 大学外语教育中教师设计的 AI 辅导工具（自我决定理论）
+- [[measuring-llm-tutors-teach-vs-solve]] — 衡量 LLM 辅导工具是在教还是在解
+- [[ai-tutoring-quality-k12-methodologies-2026]] — 改进 K-12 教育中 AI 辅导质量的方法
+- [[zhang-tutormoments-2026]] — 当帮助无益时：评估 AI 辅导工具对有益的挣扎的支持
+- [[graph-its-adaptive-algorithms-2026]] — 面向动态领域的基于图的智能辅导（2026）
 - [[adaptive-scaffolding-cognitive-engagement-its]] — ITS 中的自适应 ICAP 支架（BKT 对 DRL）
 - [[stanford-evidence-base-ai-k12-2026]] — 面向辅导的 AI 与通用 AI：关于持久学习结果的证据
 - [[hazra-safetutors-pedagogical-safety-2026]] — SafeTutors 与教学法安全
 - [[kar-mathbuddy-affective-math-tutoring-2025]] — MathBuddy 情感式数学辅导
 - [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — 结合计算机辅助学习的虚拟辅导：一项关于采用率与学习的实验
-- [[learnlm-improving-gemini-learning]] — LearnLM: improving Gemini for learning
-- [[teachlm-post-training-llms-education]] — TeachLM: post-training LLMs with authentic learning data
+- [[learnlm-improving-gemini-learning]] — LearnLM：改进 Gemini 以服务学习
+- [[teachlm-post-training-llms-education]] — TeachLM：以真实学习数据对 LLM 进行后训练
 - [[pradeesh-outcome-knowledge-tracing-affinity-2026]] — 基于亲和映射的结果导向知识追踪
 - [[reddig-maclellan-personalized-feedback-llm-2026]]
 - [[schuetze-knowledge-tracing-forgetting-2026]]
 - [[riedmann-reinforcement-learning-education-review-2026]]
 - [[yin-arthur-ai-teaching-assistant-engineering-econ-2026]]
-- [[ai-tutoring-micro-rct-gcse-science-2026]] — Evaluating AI Tutoring at the Speed of Innovation: Practitioner-Led Micro-Randomized Trials of an AI Tutoring Platform in GCSE Science
+- [[ai-tutoring-micro-rct-gcse-science-2026]] — 以创新的速度评估 AI 辅导：GCSE 科学中 AI 辅导平台的实践者主导微观随机试验
 - [[misconception-acquisition-dynamics-llms-2026]] — 在保持正确解题能力的同时习得多种学生误解的辅导模型
 - [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench：AI 与人类辅导产生等效的 GRE 学习收益
-- [[guardrails-ai-teaching-assistants-programming-2026]] — Guardrails or Roadblocks? Effects of Pedagogical Style and Context Awareness in AI Teaching Assistants for Programming
+- [[guardrails-ai-teaching-assistants-programming-2026]] — 护栏还是路障？教学法风格与上下文感知在编程 AI 教学助手中的影响
 - [[liu-course-integrated-ai-tutoring-rct-2026]] — 一项课程 grounded、嵌入 LMS 的 AI 辅导的多学科 RCT：精确匹配样本中期末成绩下降 0.37 SD，平台参与度下降 0.90 SD，且没有教学整合（Liu et al. 2026）
 - [[guided-ai-tutor-impasse-resolution-2026]] — 引导式 AI 辅导解决学生僵局的方式存在差异，以及为何升级必须随深度变化
 - [[lyu-data-driven-redesign-tutoring-2026]] — 评估智能辅导系统的数据驱动重设计过程：任务时间更有成效且练习的技能更多，但练习剂量稀薄时学习增益无差异（Lyu 等人 2026）
 - [[regulatutor-long-term-personalized-tutoring-2026]] — RegulaTutor：一个面向长期个性化学习的理论指导框架（Li 等人 2026）
 - [[alam-goblins-math-platform-2026]] — 全学区教师中介的 AI 数学推广：约 51% 的参与保真度与从 0.11 SD（每周 2 题）到 0.31 SD（每周 20+ 题）的剂量梯度；IEP、英语学习者与西班牙裔学生的探索性关联更大
 - [[llm-tutors-process-synthesis-2026]] — LLM 辅导工具真的在教学吗？辅导循环的以过程为中心的综合
+- [[worden-foundationalassist-knowledge-tracing-dataset-2026]] — 然而现成的模型可能无法提供该证据：Worden 等人
+- [[multi-sourced-ai-tutor-non-native-english-2026]] — 面向非英语母语学生多来源 AI 辅导工具

@@ -1,7 +1,7 @@
 ---
 title: "当人工智能能够完成作业时，我们应当如何设计与促进异步在线课程？"
 created: "2026-09-22T19:41:47-04:00"
-updated: "2026-10-09T18:10:00-04:00"
+updated: "2026-10-24T14:16:08-04:00"
 weight: 68
 type: faq
 foundations: [academic-integrity, cognitive-offloading, learning-design]
@@ -12,7 +12,7 @@ methods: [meta-analysis-systematic-review, rct, mixed-methods-research, design-b
 ethics: [guardrails]
 audience: [instructors, instructional designers]
 level: [higher ed, adult learning]
-source_updated: "2026-10-02T08:21:34-04:00"
+source_updated: "2026-10-21T14:32:00-04:00"
 translation_of: faqs/asynchronous-online-courses-ai
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
@@ -28,8 +28,6 @@ ai_assist:
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
-
-# 当人工智能能够完成作业时，我们应当如何设计与促进异步在线课程？
 
 你已经做出了那个让这个问题无法回避的发现。在你的异步课程里，总有那么一项作业，它的初稿如今是免费的：一次讨论帖、一篇反思、一份案例分析、一套习题。而交上来的东西文笔流畅、切合主题，却完全不能告诉你学生实际上能做什么。你不在现场，看不到思考的过程，而过去能代替思考的那份作品，现在已经不再能代替它了。
 

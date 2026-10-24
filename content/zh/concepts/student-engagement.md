@@ -1,7 +1,7 @@
 ---
 title: 学生参与
 created: "2026-08-13T05:32:35-04:00"
-updated: "2026-10-09T18:39:20-04:00"
+updated: "2026-10-24T17:10:00-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [motivation, self-regulated-learning, student-engagement]
@@ -11,7 +11,7 @@ level: [higher ed]
 confidence: high
 connected_faqs: [asynchronous-online-courses-ai]
 translation_of: concepts/student-engagement
-source_updated: "2026-10-08T09:45:00-04:00"
+source_updated: "2026-10-23T09:20:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -42,6 +42,7 @@ ai_assist:
 - **参与作为人工智能设计的结果：** [[genai-motivation-engagement-2026|生成式人工智能动机研究]] 表明，[[generative-ai]] 支持的学习中的参与遵循基本心理需要（[[self-determination-theory|自主、胜任、关系]]）的满足 —— 参与是动机支持的下游结果，而非仅由技术可得性产生。参与常以 [[self-report-measures|自陈]] 测量，而行为参与来自互动日志，两者不可互换。
 - **在一项整群随机课堂试验中，有参与增益而无学习增益：** [[domain-specific-chatbot-stem-enthusiasm-2025|Rücker and Becker-Genschow (2025)]] 把 195 个九年级班级（实验组 102 名学生）随机分配到一个特定领域的数学聊天机器人，或分配到传统差异化材料，上一节关于用海伦公式估计平方根的课。聊天机器人条件下的情境兴趣大幅上升（M = 2.63 对 2.43，p = 0.00005，Cohen's d = 0.63），且 [[technology-acceptance-model|技术接受模型]] 全部四个维度的接受度都很高，然而前后测表现比较未发现显著的组×时间交互（F(1194) = 2.84，p = 0.094），外在认知负荷还略高。该研究是定制聊天机器人在 [[k-12|中学]] [[math-education|数学]] 中少数几项整群随机检验之一，而它分裂的结果正是要点：兴趣与 [[learning-gains|学业]] 成就在不同的时间表上移动，因此一项参与发现不是学习的证据。
 - **质量优于数量：** [[critical-engagement-code-completion|人工智能代码补全中的批判性参与]]、[[icap-cognitive-engagement-llm-agents|认知参与的话语分析]] 与 [[scaffolding-critical-engagement-genai-minority-students|支架化批判性参与]] 表明，与人工智能的*深度*（认知）参与预测学习，而*浅层*（行为）参与预测 [[cognitive-offloading|过度依赖]] 与学习取代，后者主导了本知识库的风险文献。
+- **主体性参与与人工智能反馈素养共同发展。** 在 399 名本科生身上、相隔六周的三波数据，显示了两个方向上的个体内路径（β = 0.222 与 β = 0.263），因此参与不仅是设计的结果，也是建立使用反馈之能力的一部分（[[ai-feedback-literacy-agentic-engagement-panel-2026|Xu (2026)]]）。
 - **脆弱且依赖情境：** [[polished-artifacts-fragile-engagement-2026|打磨的制品，脆弱的参与]] 与 [[genai-tutor-engagement-patterns|多机构的参与模式]] 发现参与随任务、情境与学习者变化 —— 一件让一名学生深度投入的人工智能工具，可能在另一名学生身上产出浅层的、追逐输出的行为。
 - **动机前因：** [[ai-availability-student-motivation|人工智能可得性与动机]] 表明，知道人工智能可用会降低努力型参与的被感知价值，对新手学习者尤其如此 —— 参与由期望、价值与感知胜任塑造的程度，不亚于由工具特性。**[[wang-goal-setting-ai-engagement-2026|Wang & Wang (2026)]]** 用目标设定理论的解释扩展了这一点，研究 **758 名大学 [[multilingual-learning|英语学习者]]** 在人工智能辅助学习中的情况，表明 **教师支持** 直接增强参与，并通过学生的**掌握趋近与表现趋近目标**（而非回避目标）起作用。因此，人工智能情境中的参与不只是个人或设计的结果 —— 它也被教师与学习者被鼓励采纳的目标取向**社会性地支架化**。
 
@@ -94,11 +95,11 @@ ai_assist:
 
 ## 关联概念
 
-- [[learners]] — Learners: the umbrella for the learner-side concepts
-- [[pedagogical-partnerships]] — Pedagogical Partnerships
-- [[community-of-inquiry]] — Community of Inquiry (agentic engagement as a CoI dimension)
+- [[learners]] — 学习者：学习者侧概念的总括
+- [[pedagogical-partnerships]] — 教学伙伴关系
+- [[community-of-inquiry]] — 探究共同体（把主体性参与作为一个 CoI 维度）
 - [[eportfolio]]
-- [[online-teaching-and-learning]] — Online Teaching and Learning
+- [[online-teaching-and-learning]] — 在线教学与学习
 - [[motivation]]
 - [[self-determination-theory]]
 - [[student-experience]]
@@ -112,42 +113,45 @@ ai_assist:
 - [[research-methods-aied]]
 - [[higher-ed]]
 - [[framing-ai-use-for-students]]
-- [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
+- [[stakeholders]] — 总括：AI 教育中的人与受众（学习者、教师、设计者、管理者、政策制定者）
 - [[self-report-measures]]
 - [[productive-failure]]
 
 ## 关联文章
 
-- [[assigned-ai-preclass-student-engagement-2026]] — Voice-based AI pre-class practice raised voluntary class contributions by ~31%, but only after a second use (Wang et al. 2026)
-- [[confident-but-absent-ai-use-absenteeism-2026]] — AI use tracked with greater class absenteeism while self-efficacy did not predict it, with peer influence the dominant correlate (Franco et al. 2026)
-- [[gai-advocacy-practice-art-education-2026]] — When universities advocate GAI but practice falls short: student appraisals and creative process engagement in art education
+- [[ai-feedback-literacy-agentic-engagement-panel-2026]] — AI 反馈素养与主体性参与：一个三波随机截距面板（Xu 2026）
 
-- [[e3sense-multimodal-learner-engagement-sensing-2026]] — Head-confined EEG, eye tracking, and EDA predict five-level engagement ratings, while learners' own definitions shift the mapping (Anupkrishnan et al. 2026)
-- [[student-attention-estimation-fairness-2026]] — Fairness-Aware Multimodal Transformer Modeling for Real-Time Student Attention Estimation
-- [[ai-student-engagement-online-learning-review-2025]]
-- [[long-ai-higher-ed-engagement-teaching-methods-2026]] — AI in higher ed: systematic review of engagement + mediating role of teaching methods
-- [[genai-motivation-engagement-2026]] — Impact of Generative AI on Student Motivation and Engagement
-- [[critical-engagement-code-completion]] — To Tab or Not to Tab: Measuring Critical Engagement in AI Code Completion
-- [[icap-cognitive-engagement-llm-agents]] — Measuring Cognitive Engagement in Collaborative Discourse
-- [[genai-tutor-engagement-patterns]] — Not All Students Engage Alike: Multi-Institution Patterns
-- [[polished-artifacts-fragile-engagement-2026]] — Polished Artifacts, Fragile Engagement
-- [[ai-availability-student-motivation]] — "Why Put in This Much Effort?": How AI Availability Shapes Motivation
-- [[genai-performance-vs-learning]] — Distinguishing Performance Gains From Learning
-- [[scaffolding-critical-engagement-genai-minority-students]] — Scaffolding Critical Engagement With GenAI
-- [[engagement-intensity-learner-modeling]] — Engagement Intensity as a Learner-Modeling Signal
-- [[learning-engagement-assistant-lea]] — Learning Engagement Assistant
-- [[engagement-assessment-video]] — Engagement Assessment in Video Learning
-- [[engagement-forecasting-its]] — From Heuristics to Analytics: Forecasting Effort and Progress
-- [[interactive-learning-dashboards-engagement]] — Interactive Learning Dashboards and Engagement
-- [[tts-dialogue-lessons-learner-characteristics-2026]] — Learner characteristics × TTS dialogue-format interactions
-- [[wang-goal-setting-ai-engagement-2026]] — Goal-setting theory: teacher support, achievement goals, and engagement in AI-assisted English learning (758 Chinese students)
-- [[chatbot-engagement-genai-competency-emotion-2026]] — GenAI competency and emotion as drivers of chatbot engagement (Zhao et al. 2026)
-- [[student-ai-conversations-cognitive-engagement-2026]] — Discipline-associated Bloom-level cognitive engagement in student-AI conversations (Chang & Li 2026)
-- [[gpt4-feedback-student-activation-2026]]
-- [[genai-writing-program-primary-l2-motivation-engagement]] — Dimension-specific engagement gains at the primary level (Lu et al. 2026)
-- [[ai-ive-pbl-vocational-design-creativity-2026]] — Cognitive and behavioral engagement up, affective engagement flat, in an immersive VR PBL studio (Jin et al. 2026)
-- [[domain-specific-chatbot-stem-enthusiasm-2025]] — Cluster-randomized secondary mathematics trial: situational interest rose with a customized chatbot while test performance did not (Rücker & Becker-Genschow 2025)
-- [[ai-literacy-learning-engagement-psych-capital-2026]] — AI literacy drives engagement directly and through psychological capital, amplified by professional commitment (Wang 2026)
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: AI and human tutoring yield equivalent GRE learning gains
-- [[liu-course-integrated-ai-tutoring-rct-2026]] — Access to an AI tutor lowered recorded platform participation by 0.90 SDs while homework submission held steady (Liu et al. 2026)
 - [[rho-disengaged-conversational-behaviors-2026]] — 学生—AI 对话中的脱离参与行为与学习（Rho 等 2026）
+
+- [[assigned-ai-preclass-student-engagement-2026]] — 基于语音的 AI 课前练习把课堂自愿贡献提高约 31%，但只在第二次使用之后（Wang 等 2026）
+- [[confident-but-absent-ai-use-absenteeism-2026]] — AI 使用伴随更高的课堂缺勤，而自我效能并不预测缺勤，同伴影响是主导相关因素（Franco 等 2026）
+- [[gai-advocacy-practice-art-education-2026]] — 当大学倡导 GAI 而实践不足时：艺术教育中的学生评价与创作过程投入
+
+- [[e3sense-multimodal-learner-engagement-sensing-2026]] — 局限于头部的 EEG、眼动追踪与 EDA 预测五级参与评级，而学习者自己的定义会改变该映射（Anupkrishnan 等 2026）
+- [[student-attention-estimation-fairness-2026]] — 面向实时学生注意估计的公平感知多模态 Transformer 建模
+- [[ai-student-engagement-online-learning-review-2025]]
+- [[long-ai-higher-ed-engagement-teaching-methods-2026]] — 高等教育中的 AI：参与的系统综述 + 教学法的中介作用
+- [[genai-motivation-engagement-2026]] — 生成式 AI 对学生动机与参与的影响
+- [[critical-engagement-code-completion]] — 按 Tab 还是不按 Tab：测量 AI 代码补全中的批判性参与
+- [[icap-cognitive-engagement-llm-agents]] — 测量协作话语中的认知参与
+- [[genai-tutor-engagement-patterns]] — 并非所有学生都以同样方式参与：多机构模式
+- [[polished-artifacts-fragile-engagement-2026]] — 打磨的制品，脆弱的参与
+- [[ai-availability-student-motivation]] — “为什么要投入这么多努力？”：AI 可得性如何塑造动机
+- [[genai-performance-vs-learning]] — 区分表现增益与学习
+- [[scaffolding-critical-engagement-genai-minority-students]] — 用 GenAI 支架化批判性参与
+- [[engagement-intensity-learner-modeling]] — 参与强度作为学习者建模信号
+- [[learning-engagement-assistant-lea]] — 学习参与助手
+- [[engagement-assessment-video]] — 视频学习中的参与评估
+- [[engagement-forecasting-its]] — 从启发式到分析：预测努力与进度
+- [[interactive-learning-dashboards-engagement]] — 交互式学习仪表盘与参与
+- [[tts-dialogue-lessons-learner-characteristics-2026]] — 学习者特征 × TTS 对话格式的交互作用
+- [[wang-goal-setting-ai-engagement-2026]] — 目标设定理论：教师支持、成就目标与 AI 辅助英语学习中的参与（758 名中国学生）
+- [[chatbot-engagement-genai-competency-emotion-2026]] — GenAI 胜任力与情绪作为聊天机器人参与的驱动因素（Zhao 等 2026）
+- [[student-ai-conversations-cognitive-engagement-2026]] — 学生—AI 对话中关联学科的 Bloom 层级认知参与（Chang & Li 2026）
+- [[gpt4-feedback-student-activation-2026]]
+- [[genai-writing-program-primary-l2-motivation-engagement]] — 小学阶段的维度特定参与增益（Lu 等 2026）
+- [[ai-ive-pbl-vocational-design-creativity-2026]] — 沉浸式 VR PBL 工作室中认知与行为参与上升、情感参与持平（Jin 等 2026）
+- [[domain-specific-chatbot-stem-enthusiasm-2025]] — 整群随机的中学数学试验：定制聊天机器人提升了情境兴趣而测验表现未提升（Rücker & Becker-Genschow 2025）
+- [[ai-literacy-learning-engagement-psych-capital-2026]] — AI 素养直接并通过心理资本驱动参与，被职业承诺放大（Wang 2026）
+- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench：AI 与人类辅导产生同等的 GRE 学习增益
+- [[liu-course-integrated-ai-tutoring-rct-2026]] — 接触 AI 导师使记录的平台参与下降 0.90 个标准差，而作业提交保持稳定（Liu 等 2026）

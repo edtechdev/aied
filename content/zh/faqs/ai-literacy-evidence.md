@@ -1,13 +1,14 @@
 ---
 title: "关于高等教育中的人工智能素养干预，有哪些证据？"
 created: "2026-09-22T19:41:47-04:00"
-updated: "2026-10-09T18:10:00-04:00"
+updated: "2026-10-24T15:35:34-04:00"
 weight: 50
 foundations: [ai-literacy]
 assessment: [educational-measurement]
 research_method: [literature review]
+audience: [instructors, researchers, administrators]
 level: [higher ed]
-source_updated: "2026-10-02T08:21:34-04:00"
+source_updated: "2026-10-21T14:32:00-04:00"
 translation_of: faqs/ai-literacy-evidence
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
@@ -23,8 +24,6 @@ ai_assist:
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
-
-# 关于高等教育中的人工智能素养干预，有哪些证据？
 
 **关于[[ai-literacy|人工智能素养]]干预在[[higher-ed|高等教育]]中的证据是有希望的，但在方法上仍不成熟**。在本知识库中，最一致反复出现的发现是：人工智能素养通过**与人工智能一起进行的主动、情境化实践，尤其是批评、比较、反思与协作，比仅靠工具演示或讲授发展得更有效**。与此同时，相对较少的研究测量了持久的、能够独立展示的能力；许多研究依赖[[self-regulated-learning|自我报告]]、短期干预、观察性比较或[[design-based-research|设计研究]]。
 

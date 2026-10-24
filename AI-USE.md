@@ -98,10 +98,12 @@ category.
 
 ## Model history
 
-Two models are on record as having drafted and revised this corpus:
+Four models are on record as having drafted, revised or translated this corpus, newest first:
 
 | Model | In use from |
 | --- | --- |
+| Meituan LongCat 2.5 Preview | 2026-10-24 |
+| StepFun Step 5 Preview | 2026-10-09 |
 | DeepSeek 4.1 Flash | 2026-09-11 |
 | DeepSeek 4.0 Flash 0731 | 2026-08-12 |
 

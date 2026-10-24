@@ -1,7 +1,7 @@
 ---
 title: 教学智能体
 created: "2026-08-08T11:47:01-04:00"
-updated: "2026-10-09T18:58:09-04:00"
+updated: "2026-10-24T15:25:00-04:00"
 connected_faqs: [ai-agents-support-students-instructors]
 type: concept
 pedagogy: [scaffolding, student-ai-interaction]
@@ -11,7 +11,7 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: medium
 translation_of: concepts/pedagogical-agent
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-24T06:24:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -61,6 +61,8 @@ ai_assist:
 **评估与基准。** 测量一个教学智能体必须测教学法，而非内容。[[teaching-monster-pck-benchmark-2026|Teaching Monster Challenge]]通过要求智能体把一节课调整到指定的学习者画像来基准化教学内容知识（PCK），发现系统在内容上强、在调整上弱——并揭示LLM评委会对强系统误排序。[[chen-teacharena-language-agents-realistic-teaching-2026|EduAgentBench]]在专业的教学判断、[[situated-learning|情境化]]的多轮辅导，以及画布式工作流完成三个维度上评估智能体，显示模型未达专业教学标准。[[ai-generated-interactive-fiction-education-2026|AI生成的互动小说]]增添了一个设计评估角度：限制[[student-experience|学生体验]]有用性的是连贯性与测验整合，而非生成能力。
 
 **在多轮中压力测试人格的稳健性。** [[adversarial-stress-testing-role-playing-agents|Shouqi等人（2026）]]用自动评委对角色扮演智能体实施了六轮递进的攻击：多策略测试使稳健性相对单策略基线下降0.17–0.20，且关键失败集中于第5–6轮之后，因此短的或单轮的评估会高估人格稳定性与伦理遵循度。
+
+- **一个把"可能出错的建议"当作要点的同伴智能体。** Copa 把带日志上下文的检索与 GPT-4o 及一个含十五个分块的、任务特定的知识库相配对，并以智能体方式总结每个学生片段：它把学生的模型与专家版本相比较，诊断所表达的问题，并指明应检索什么。在一项有 16 名学生与两个焦点小组的课堂研究中，所有参与者都说它的指导支持了问题解决且准确，而且都愿意再次使用它。还有几人要求直接给出答案，有些人则假定某条建议是正确的，直到自己的模型变得更糟。作者把这解读为设计一个促使学习者评价、而非直接作答的智能体所要付出的代价（[[cohn-lc-rag-log-contextualized-retrieval-2025|Cohn 等，2025]]）。
 
 ## 实践指引
 
@@ -129,12 +131,12 @@ ai_assist:
 - [[conversational-ai-agents-umbrella-review-2026]] — 教育中对话式AI智能体的总括综述
 - [[conversational-agents-novice-programmers-scoping-2025]] — 面向新手程序员的对话式智能体范围综述
 - [[ba-ai-agents-cscl-review-2026]] — 计算机支持协作学习中AI智能体综述
-- [[kim-ai-productive-failure-adult-2026]] — Designing AI Systems to Support Productive-Failure-Based Learning
+- [[kim-ai-productive-failure-adult-2026]] — Designing AI Systems to Support Productive-Failure-Based Learning：设计支持生产性失败学习的 AI 系统
 - [[preferred-scaffolding-ai-mathematical-modeling]] — AI支持数学建模中的偏好支架
 - [[llm-adaptive-programming-error-explanations-2026]] — LLM对编程错误的自适应解释
 - [[liao-role-adaptive-ai-companion-book-talk-2026]] — 面向小学读书谈的角色自适应AI陪伴体；固定角色智能体的情感天花板（Liao 2026）
-- [[ethics-training-agents-group-ethics-discussion-2026]] — Ethics Training Agents: Facilitating Group-Based Ethics Education with Role-Playing and Discussion for Ethical Reflection and Exploration
+- [[ethics-training-agents-group-ethics-discussion-2026]] — 伦理训练智能体：用角色扮演与讨论促进基于小组的伦理教育，以进行伦理反思与探索
 
-- [[teachers-configure-educational-chatbots-2026]] — Will It Teach as Intended? How Teachers Configure Educational AI Chatbots
+- [[teachers-configure-educational-chatbots-2026]] — 它会按预期施教吗？教师如何配置教育性 AI 聊天机器人
 
 - [[agent-type-feedback-style-self-directed-learning-2026]] — 定制智能体提高了反馈质量，但未提高自我调节或结果；增益优势仅在指导性反馈下出现

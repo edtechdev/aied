@@ -45,6 +45,8 @@ ai_assist:
 
 **加了护栏的 AI 工具设计（"给提示不给答案"式[[scaffolding|脚手架]]）。** 在本知识库最强的因果发现中，一项现场[[rct|随机对照实验]]显示，未加护栏的 ChatGPT 式辅导系统把有协助的练习表现提高了 **+48%**，却把无协助的考试成绩降低了 **−17%**，而加了护栏的辅导系统（给提示而非答案，外加教师编写的问题信息）完全消除了这一损害。这在机制上阻止了造成损害的"抄答案"拐杖行为。具体做法包括：给提示不给答案的辅导、在提示中植入正确解法和常见[[misconceptions|误解]]、以及要求在 AI 输出揭示之前先由学生尝试一次。
 
+**保留答案只在课堂内起保护作用，却没有建立技能。**[[tuo-armada-multi-agent-debate-overreliance-2026|Tuo 等（2026）]]在一场[[agentic-ai|多智能体]]辩论中扣留了聚合立场，把转向错误 AI 立场的比例由 42% 至 60.5% 降至 5.7% 至 8.2%，但在会话内没有发现学习效应（β = 0.03，p = 0.18）：护栏在位时保持了效果，却未改变无协助时的判断。
+
 **评估重构（抗 AI 的、无协助的测量）。** 因为滥用的损害依评估而定——它在有监考的、闭卷的、无协助的测量上显现，却在普通评分课程作业上抬高分数——改变"什么算作成就"既能阻止滥用，也能使它显形。具体做法包括：无协助的随堂考试与口头答辩、要求过程性成果（草稿、反思、带批注的推理）、奖励推理而非表层流畅、划定无 AI 区。[[ivory-psychology-assessment-integrity-2026|Ivory 等（2026）]]给过程性成果要求提供了一件具体工具：强制的版本历史与可复现的分析文档，于是一份可疑的提交物可以作为该作品如何展开的时间线来检查，而学生要生成的虚构材料的数量将远超外包所节省的。大规模现场证据强化了这一点：[[stromberg-generative-ai-learning-penalty-secondary-2026|Strömberg、Lei 与 Wu（2026）]]发现作业外包使作业分数提高 18%，却使闭卷考试分数*降低* 20%——这正是无协助、有监考的测量所要揭示的信号，而该研究建议给闭卷的现场评估更高的权重。[[leaton-gray-ai-digital-cheating-ethical-pedagogies-2025|Leaton Gray、Edsall 与 Parapadakis（2025）]]给同一逻辑给出了最明确的情境犯罪预防表述，论证失败属于那些模型能令人信服地回答的评估，而非属于学生，并报告了一个案例：25 项预防技术应用于一门澳大利亚商业顶点课程——追踪学生互动、对过于专业的作品作红旗检测、随机重编小组、每周随堂监考测试、对学生已发布的课程材料发出下架通知——据称一年内把违纪案例从 183 起降到 27 起。他们的处方是动机性的而非调查性的：提高评估的被感知目的、建立[[self-efficacy|自我效能]]、提高作弊的被感知社会成本，同时作者警告只处理三者中的一两项将会失败，并以五项学科特定的重构作支撑——把限时解题考试变成开卷的[[problem-solving|问题解决]]加一份对自身过程的书面反思，把总结性论文变成[[collaborative-learning|协作式]]档案研究项目，把[[eportfolio|档案袋]]变成迭代的、经同伴评阅的设计过程。
 
 结构性杠杆有一只执法的手臂，而其证据基础比它的覆盖面所暗示的要弱。[[munoz-misconduct-allegation-evidence-2026|Munoz 等（2026）]]编码了 1,162 起生成式 AI 违纪案例，发现在指控时点最常被引用的证据——[[ai-detection|检测器]]输出、相似度报告、AI 典型的内容模式——证明力最弱，而供认、被观察到的考试行为与经独立核实的虚构参考文献最强；由于机构程序未设定最低证据门槛，证据质量与案例结果之间没有可靠关系，而那些证据薄弱的案例中的学生主要只能诉诸申诉。[[wright-transcription-not-generation-2026|Wright（2026）]]展示了同一不精确性的第二种代价：围绕"生成式 AI"而非围绕功能写成的禁令，会把只是转换学生已经写就的作品之格式的工具一并捕获，于是纯转录式的使用也可能被当作违纪惩处——这是一种过度涵盖，对残障学生和面临[[equity-in-ai-education|公平]]风险的[[learners|学习者]]打击最重，且对[[assessment-validity|效度]]毫无帮助。[[harerimana-remote-proctoring-nursing-scoping-2026|Harerimana、Mtshali 与 Mchunu（2026）]]补充说，[[remote-proctoring|远程监考]]这一采用最广的诚信控制，其威慑论证建立在学生自称的感受上，而非建立在违纪减少之上，并带来焦虑、注意力损失和与基础设施相关的排斥，而低误用率并未被证明能回应这些问题。[[li-genai-assessment-language-equity-2026|Li（2026）]]补充了规则设计的维度：因为同一个界面既执行被许可的语言编辑、又执行被禁止的实质性起草，不加区分的生成式 AI 规则给把英语作为附加语言的学生施加了偏向特定群体的合规负担，因此更站得住的预防是基于目的的支持—替代区分、分阶段提交与短小的、与构念对齐的口头核实、以批评为基础的问题，去做检测所做不到的工作。预防还必须覆盖评分者本身：[[humble-prompt-injection-ai-grading-red-team-2026|Humble（2026）]]的红队评估发现，嵌入提交文件中的五种间接提示注入策略有两种能把一篇不及格的文章未被察觉地提升为及格，报告成功率分别为 100% 和 94%，因此在 AI 工具为学生作业打分的地方，[[human-in-the-loop-ai|人工审查]]、指令与所提交内容之间更清晰的分离以及韧性测试，属于结构性底线，而不属于可选的层级。
@@ -91,29 +93,30 @@ ai_assist:
 ## 关联文章
 
 - [[ivory-psychology-assessment-integrity-2026]] — 版本控制证据链与可复现分析文档作为滥用威慑（Ivory et al. 2026）
-- [[generative-ai-guardrails-harm-learning]] — GenAI Without Guardrails Can Harm Learning
-- [[genai-performance-vs-learning]] — Distinguishing Performance Gains from Learning
-- [[ai-assessment-scale-reform]] — The AI Assessment Scale and Assessment Reform
-- [[critical-thinking-genai-scaffolding]] — Scaffolding Critical Thinking with Generative AI
-- [[aaai2026-prompting-literacy-k12]] — Learning to Use AI for Learning (K-12 AI Literacy Module)
-- [[genai-declaration-frameworks-higher-education]] — Structuring Transparency: GenAI Declaration Frameworks
-- [[absent-cognitive-baseline-2026]] — The Absent Cognitive Baseline
-- [[ai-literacy-power-knowledge]] — AI Literacy: An Exercise in Power-Knowledge
-- [[contextual-sycophancy-ai-literacy]] — The Hidden Cost of Contextual Sycophancy: an AI Literacy Intervention
-- [[sycophantic-ai-social-interaction-2026]] — Sycophantic AI makes human interaction feel more effortful and less satisfying over time
-- [[ssaho-ai-academic-integrity-review-2025]] — Culture-building and assessment redesign over detection policing
-- [[young-people-learning-generative-ai-rapid-review-2026]] — Cognitive surrender, productive friction, and metacognitive inequity
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — Reconsidering oral exams as authentic, AI-resistant assessment
-- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — The generative AI learning penalty: homework outsourcing harms learning
-- [[ai-overreliance-complex-adaptive-system-2026]] — AI overreliance modeled as a complex adaptive system
-- [[burneo-can-edtech-close-learning-gaps-2026]] — Guardrails removed harm without improving exam scores
-- [[munoz-misconduct-allegation-evidence-2026]] — What misconduct allegation files actually contain as evidence
-- [[wright-transcription-not-generation-2026]] — Over-inclusive AI rules and the students they catch
-- [[sharma-judgment-visible-genai-assessment-2026]] — Integrity as evaluative judgment rather than compliance
-- [[mulisa-students-genai-integrity-perspectives-2026]] — Students on whether GenAI is a cheating tool or a learning partner
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] — What remote proctoring does to students, and to equity
-- [[leaton-gray-ai-digital-cheating-ethical-pedagogies-2025]] — Situational crime prevention against AI-facilitated cheating: 183 to 27 cases, and five discipline-specific redesigns (Leaton Gray, Edsall & Parapadakis 2025)
-- [[ji-student-voices-academic-integrity-scoping-2026]] — What 38 studies of student voices recommend: co-created clarity and educative reasoning over detection (Ji 2026)
-- [[li-genai-assessment-language-equity-2026]] — Where language support ends and substitution begins for EAL writers (Li 2026)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — Prompt injection as a misuse vector against AI grading (Humble 2026)
-- [[coates-governing-academic-integrity-indicators-2025]] — Governance as the binding constraint on integrity: a 130-item indicator framework (Coates, Croucher & Calderon 2025)
+- [[tuo-armada-multi-agent-debate-overreliance-2026]] — Withholding a recommendation largely prevented overreliance without building the judgment it protects：扣留推荐在很大程度上防止了过度依赖，却没有培养它所保护的判断
+- [[generative-ai-guardrails-harm-learning]] — 没有护栏的 GenAI 会损害学习
+- [[genai-performance-vs-learning]] — 区分表现增益与学习
+- [[ai-assessment-scale-reform]] — AI 评估量表与评估改革
+- [[critical-thinking-genai-scaffolding]] — 用生成式 AI 支架化批判性思维
+- [[aaai2026-prompting-literacy-k12]] — 学会用 AI 学习（K-12 AI 素养模块）
+- [[genai-declaration-frameworks-higher-education]] — 结构化透明度：GenAI 声明框架
+- [[absent-cognitive-baseline-2026]] — 缺失的认知基线
+- [[ai-literacy-power-knowledge]] — AI 素养：一次权力与知识的演练
+- [[contextual-sycophancy-ai-literacy]] — 情境性谄媚的隐性代价：一项 AI 素养干预
+- [[sycophantic-ai-social-interaction-2026]] — 谄媚的 AI 随时间推移让人际互动更费力、更不满意
+- [[ssaho-ai-academic-integrity-review-2025]] — 文化建设与评估重构，胜过检测执法
+- [[young-people-learning-generative-ai-rapid-review-2026]] — 认知投降、生产性摩擦与元认知不平等
+- [[fenton-oral-exams-ai-authentic-assessment-2025]] — 重新考量口试作为真实的、抗 AI 的评估
+- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — 生成式 AI 学习惩罚：作业外包损害学习
+- [[ai-overreliance-complex-adaptive-system-2026]] — AI 过度依赖被建模为复杂适应系统
+- [[burneo-can-edtech-close-learning-gaps-2026]] — 移除护栏造成损害却未改善考试成绩
+- [[munoz-misconduct-allegation-evidence-2026]] — 违纪指控档案中实际包含什么证据
+- [[wright-transcription-not-generation-2026]] — 过度宽泛的 AI 规则及其波及的学生
+- [[sharma-judgment-visible-genai-assessment-2026]] — 诚信作为评价性判断而非合规
+- [[mulisa-students-genai-integrity-perspectives-2026]] — 学生谈 GenAI 是作弊工具还是学习伙伴
+- [[harerimana-remote-proctoring-nursing-scoping-2026]] — 远程监考对学生与公平的影响
+- [[leaton-gray-ai-digital-cheating-ethical-pedagogies-2025]] — 针对 AI 促成作弊的情境犯罪预防：从 183 起降到 27 起，以及五项学科特定重构（Leaton Gray, Edsall & Parapadakis 2025）
+- [[ji-student-voices-academic-integrity-scoping-2026]] — 38 项学生声音研究建议什么：共创的清晰性与教育性推理胜过检测（Ji 2026）
+- [[li-genai-assessment-language-equity-2026]] — 对 EAL 写作者而言，语言支持止于何处、替代始于何处（Li 2026）
+- [[humble-prompt-injection-ai-grading-red-team-2026]] — 提示注入作为针对 AI 评分的滥用向量（Humble 2026）
+- [[coates-governing-academic-integrity-indicators-2025]] — 治理作为诚信的约束条件：一个 130 项的指标框架（Coates, Croucher & Calderon 2025）

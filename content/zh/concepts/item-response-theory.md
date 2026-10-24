@@ -1,13 +1,13 @@
 ---
 title: 项目反应理论
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-10-09T18:58:14-04:00"
+updated: "2026-10-24T15:16:55-04:00"
 type: concept
 technology: [knowledge-tracing, student-modeling]
 assessment: [assessment-validity, educational-measurement, psychometrically-aware-ai]
 confidence: medium
 translation_of: concepts/item-response-theory
-source_updated: "2026-10-05T08:24:47-04:00"
+source_updated: "2026-10-16T09:45:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -41,7 +41,9 @@ IRT 把能力（θ）和项目参数（难度、区分度，有时还有猜测�
 - **心理测量校准：**[[llm-psychometric-calibration-cdp|LLM 心理测量校准]]把基于模型的评价与基于 IRT 的测量对齐，使 AI 生成的作答保持测量属性。
 - **知识追踪与学生建模：**IRT 与[[knowledge-tracing]]和[[student-modeling]]密切相关——后者是随时间追踪学习者知识的模型——共享从可观察作答估计不可观察学习者状态的目标。
 - **从 LLM logits 读出的 IRT 量。**[[huang-interpretable-knowledge-tracing-2026|Huang 等（2026）]]从下一 token 的 logits 中提取学生能力 θ = z^GOOD − z^BAD 和辅导轮次难度 d = z^HARD − z^EASY，并在一个 1PL Rasch 预测器中把它们组合起来，使基于对话的知识追踪可解释（QATD2k 上 64.29% 准确率、65.25 AUC）。
+- **对话子任务与题目在同一量表上。**[[unified-irt-framework-question-tutoring-dialogue-2026|Duan 等（2026）]]把辅导者在对话中途抛出的子任务改写成独立的题目，并把它们放到一个共同的 1PL IRT 量表上，其难度来自题目文本，并以"挣扎后再搭脚手架"和"推动严谨性"等教学动作作为难度排序的监督信号。
 - **贝叶斯分层现场验证：**[[assessing-quality-ai-generated-exams-field-2025|Assessing AI-Generated Exams]]用一个贝叶斯分层 2PL IRT 模型（带前测锚定题，把 1,686 名学生放在共同 θ 量表上）显示，AI 生成的题目在难度和区分度上与专家编写的标准化考题相当——这是 IRT 作为[[automated-question-generation]]验证骨干的大规模演示。
+- **与标准对齐的[[benchmark]]可能饱和。**在 NGSS 对齐的[[k-12|初中]]和高中科学题集上，多数开源权重模型得分超过 90%，使经典项目指标变差：难度偏高、区分度偏低，90% 以上的单元格变得平庸，因此作者无法把弱项目与一个已经变得可处理的领域区分开（[[llm-benchmark-secondary-science-topics-2026|Schroeder 等（2026）]]）。
 - **测验信息把精度局部化。** 一份 20 题的 GenAI 素养测验以 2PL 模型验证（RMSEA = 0.03，CFI = 0.97），其信息函数峰值在 θ = −0.8，使它对低到中等素养学习者最精确，而非在全量表上均匀（[[jin-glat-genai-literacy-assessment|Jin 等（2025）]]）。
 - **用拟合人统计量区分人类与 GenAI 作答：**[[irt-human-genai-mcq-responses|Strugatski 与 Alexandron（2026）]]在 IRT 内应用拟合人统计量（PFS）来区分选择题评估中的人类与[[generative-ai]]作答。PFS 在两个真实情境（一场[[chemistry-education|化学]]测试和一场全国统考）中把 GenAI 作答标记为"异常"应答者，显示不同[[conversational-ai|聊天机器人]]产生不同的作答模式（一组异质的"智能"），并揭示较新的 GenAI 版本变得更像人——这使 IRT 成为高风险测试中[[academic-integrity|诚信]]筛查的稳健框架。
 - **同样的项目对 LLM 可能不测同一个潜在构念。**[[assessment-latent-structure-human-llm-2026|Strugatski、Zeinfeld 与 Alexandron（2026）]]用探索性因子分析和一致性匹配，比较了两个工具上人类与 LLM 的因子结构；LLM–人类相似度可靠地低于人类–人类基线，所以在人类上拟合的 IRT 参数不会自动迁移。
@@ -71,6 +73,7 @@ IRT 是[[educational-measurement]]和[[assessment-validity]]的基石，支撑[[
 - [[intelligent-tutoring]]
 
 ## 关联文章
+- [[unified-irt-framework-question-tutoring-dialogue-2026]] — 面向问题与辅导对话的统一反应框架
 - [[explaining-question-difficulty-natural-language-2026]] — 通过 IRT 与因果编辑用自然语言解释 LLM 题目难度（Cui 等 2026）
 - [[item-writing-flaws-irt-difficulty-2026]] — 命题缺陷对 IRT 难度与区分度的影响（Schmucker & Moore 2026）
 - [[causal-modeling-competency-assessment-2026]] — 学生能力评估中支持性干预的因果建模
@@ -89,3 +92,4 @@ IRT 是[[educational-measurement]]和[[assessment-validity]]的基石，支撑[[
 - [[bayesian-consensus-irt-item-banks-2026]] — 持续演化 IRT 题库的贝叶斯共识校准（Jewsbury 等 2026）
 - [[assessing-teachers-ai-literacy-measurement-tools-2026]] — 现场审计显示教师 AI 素养工具极少以 IRT/Rasch 作为首要验证证据
 - [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench：AI 与人类辅导产生同等的 GRE 学习增益
+- [[llm-benchmark-secondary-science-topics-2026]] — 与标准对齐的基准可能饱和

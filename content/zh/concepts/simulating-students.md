@@ -1,7 +1,7 @@
 ---
 title: 模拟学生
 created: "2026-08-12T22:10:30-04:00"
-updated: "2026-10-09T18:58:09-04:00"
+updated: "2026-10-24T15:28:40-04:00"
 type: concept
 connected_faqs: [checking-whether-educational-ai-works, making-simulated-students-behave-like-learners, how-can-ai-assist-with-educational-research]
 foundations: [agentic-ai, teacher-role]
@@ -9,7 +9,7 @@ technology: [cognitive-diagnosis, generative-ai, intelligent-tutoring, knowledge
 audience: [instructors]
 confidence: high
 translation_of: concepts/simulating-students
-source_updated: "2026-10-10T14:20:00-04:00"
+source_updated: "2026-10-19T09:40:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -63,6 +63,7 @@ ai_assist:
 相反方向的失败也会发生：在一项盲测研究中，专家标注者把 196 份 LLM 生成的 Java 提交中的 164 份（83.7%）误判为人类所写，因此模拟器的错误在功能上可与真实错误无从区分——尽管随问题难度上升，与真实错误的一致性下降（[[simulating-students-java-programming-errors-llms|Keramati 等人，2026]]）。
 
 以预测出的行为模型为条件生成无需微调即可奏效：一个免训练框架从 [[knowledge-graph]] 构建每个学生的认知原型，并据此为 beam-search 候选打分，报告模拟准确率提升 100%（[[simulating-students-diverse-cognitive-levels-2025|Wu 等人，2025]]）。其质量随学生的认知水平提高而上升，因此较弱的学习者仍是更难模拟的情形。
+- **预测学习者，而不是充当学习者。**[[hachimi-ii-learner-behavior-modeling-student-simulation-2026|Jiang 等（2026）]]把模拟重构为第三人称预测：一个由学习者历史构建的学生模型提供先验，一个推断出的学习者状态约束下一步行动，而模拟所得的能力分布按 Wasserstein-1 距离比真实分布近 2.4–8.4 倍。
 
 CogEvolution 建模认知动态而非静态人格——一个 ICAP 深度感知器决定每次状态更新的幅度，一次进化式更新保持在最近发展区半径之内——达到 R²LC = 0.92，而静态智能体为 0.45，去掉 ICAP 模块则坍缩到 0.58（[[cogevolution-student-cognitive-evolution-agent-2026|Zhang 等人，2026]]）。
 
@@ -108,6 +109,8 @@ CogEvolution 建模认知动态而非静态人格——一个 ICAP 深度感知�
 
 除评估教学法之外，模拟学生还充当**审计 AI 系统本身的测试装置**——一种受控方式，用于在 AI 触及真实学生之前，探测它跨多样学习者画像的行为。[[lopez-pernas-llm-appropriate-student-support-2026|López-Pernas 等人（2026）]] 示范了这一点：他们用三个 LLM 生成 4,500 份合成学生情境，审计当前的 [[llm|大语言模型]] 能否作为规定性的 [[learning-analytics]] 推荐器，发现对学生需求的敏感性有限，且跨模型不一致性显著。用模拟队列对一个 AI 的推荐做压力测试（而不只是训练或评估辅导者）是该范式日益增长的角色，与 [[ai-ed-evaluation|评估教育中的 AI]] 紧密相关；当审计意在揭示跨学习者类型的差别对待时，则与 [[equity-in-ai-education]] 相关。
 
+一项更锐利的效度检验追问的是，一个模型究竟是否复现了人类的*选择*：在一项改编的自我导向学习游戏中，五个前沿模型只利用单一解法，而 175 名人类参与者在多个目标之间探索，因此一个代替学习者的模型放弃了模拟本要复现的行为（[[llm-goal-selection-self-directed-learning-2026|Molinaro 等（2026）]]）。
+
 模拟还能预先测试学习者的选择：[[simulating-learner-task-selection|Noh 等人（2026）]] 把 Additive Factors Model 与贝叶斯 [[knowledge-tracing]] 拟合到两个真实辅导数据集，并让 1,000 个模拟学习者在八种策略下选择技能，其中一条风险规避规则产生的过度练习约为其他策略的三十倍，而一个「刚好低于掌握」的约束将其削减到 1.8×。
 
 第二种审计维度是 [[metacognition|元认知]]与情感性的。[[meds-math-education-digital-shadows-2026|MEDS（Esposito 等人，2026）]] 是一个 28,000 条记录的数据集——14 个 [[llm|模型]] 各 2,000 个合成人格，每个都分别以人类人格和基线助手两种模式运行——记录了在 18 道高中 [[problem-solving|数学问题]]上的准确率，以及 [[self-report-measures|自评]]的信心和它所替代的学习者会报告的 [[self-efficacy]] 与 [[anxiety-and-stress|数学焦虑]] 分数。其审计信号是校准差距：Qwen 系列与 Ministral 3B 声称的信心高于 0.90，而准确率停滞在 0.55 附近，而 Grok 4.1 Fast、DeepSeek Chat 与若干 Mistral Small 变体则信心不足，Ministral 14B 与 Anita 24B 保持合理的对齐。同样的运行暴露了一种更安静的保真度失败：人类模式下的人格产出宽广、似真的分数分布，而基线助手返回近乎相同、自信、低焦虑的答案——一幅默认的自我画像，而非模拟学习者的。这通过探测一个模型对自身能力与情感的主张，延伸了上述推荐器审计，并从意想不到的方向锐化了本页的效度警告：由于 MEDS 的人格是构造上加权而非从真实总体抽样，其作者把该数据集呈现为一个用于审计受提示条件化的 [[generative-ai|GenAI]] 行为的观察性资源，并明确声明它并非真实 [[student-experience|学生数据]]的替身。
@@ -139,26 +142,27 @@ CogEvolution 建模认知动态而非静态人格——一个 ICAP 深度感知�
 - [[teacher-role]]
 
 ## 关联文章
+- [[hachimi-ii-learner-behavior-modeling-student-simulation-2026]] — HACHIMI-II：从角色扮演走向学习者行为建模，以实现忠实的学生模拟
 - [[tutorloop-sensor-cognitive-feedback-2026]] — 一个以模拟器训练的强化学习辅导者离线迁移到一项新的真实任务（Xu & Zhang 2026）
 
-- [[llm-student-simulation-teacher-insights]] — Can LLMs Simulate Human Learners? Teachers' Insights
-- [[llm-student-simulation-misconception-faithfulness]] — Simulating Students or Sycophantic Problem Solving?
-- [[llm-educational-simulation-adhd]] — LLM-Based Educational Simulation and Student Persona Stability
-- [[simulating-students-java-programming-errors-llms]] — Simulating Students' Java Programming Errors
-- [[adaptive-virtual-patient-psychotherapy-training]] — Adaptive Virtual Patients for Psychotherapy Training
-- [[medeasy-ai-standardized-patients]] — MedEasy: AI Standardized Patients
-- [[simulating-students-diverse-cognitive-levels-2025]] — Embracing Imperfection: Simulating Diverse Cognitive Levels
+- [[llm-student-simulation-teacher-insights]] — LLM 能模拟人类学习者吗？来自教师的洞见
+- [[llm-student-simulation-misconception-faithfulness]] — 模拟学生，还是谄媚式解题？
+- [[llm-educational-simulation-adhd]] — 基于 LLM 的教育模拟与学生人格稳定性
+- [[simulating-students-java-programming-errors-llms]] — 模拟学生的 Java 编程错误
+- [[adaptive-virtual-patient-psychotherapy-training]] — 面向心理治疗培训的自适应虚拟病人
+- [[medeasy-ai-standardized-patients]] — MedEasy：AI 标准化病人
+- [[simulating-students-diverse-cognitive-levels-2025]] — 拥抱不完美：模拟多样的认知水平
 - [[inside-llm-student-simulator-reasoning-2026]]
 - [[teachlm-post-training-llms-education]] — TeachLM: 微调出的真实学生模型，用于合成对话
 - [[educasim-cs1-instructional-practice]] — EducaSim: 用生成式智能体为教师练习模拟一个 CS1 小班
-- [[bondurant-shaughnessy-ai-pedagogies-practice-2026]] — Responsible Integration of AI into Pedagogies of Practice in Mathematics Teacher Education
+- [[bondurant-shaughnessy-ai-pedagogies-practice-2026]] — 在数学教师教育中负责任地把 AI 融入实践教学法
 - [[cogevolution-student-cognitive-evolution-agent-2026]] — CogEvolution: 模拟学生认知演化的生成式智能体
-- [[lopez-pernas-llm-appropriate-student-support-2026]] — Can AI deliver appropriate support for diverse student profiles? A large-scale evaluation
+- [[lopez-pernas-llm-appropriate-student-support-2026]] — AI 能否为多样的学生画像提供恰当支持？一项大规模评估
 - [[llm-agents-collaborative-problem-solving-simulation-2026]] — 复现协作问题求解对话的参与者特定微调 LLM 智能体（Fang 2026）
 - [[studentsim-llm-student-simulators]] — StudentSim: 训练基于 LLM 的学生模拟器
 - [[ai-web-agents-lesson-design-2025]] — AI Web Agents: 单个描述型智能体在预测辍学与设计批评上胜过模拟一个学生分布
 - [[simulating-learner-task-selection]] — 掌握学习中模拟学习者的任务选择策略与系统约束（Noh, Chowdhary, Ooge, Aleven & Borchers 2026）
-- [[durable-skills-measurement-ai-teammates-2026]] — Toward Scalable Measurement of Durable Skills
+- [[durable-skills-measurement-ai-teammates-2026]] — 迈向可持续技能的可扩展测量
 - [[agent-based-educational-science-2026]] — Toward Agent-based Educational Science: 模拟装置作为研究仪器（Zhang, Jiang & Tang 2026）
 - [[meds-math-education-digital-shadows-2026]] — MEDS: 一项 28,000 条记录的对模拟学生与 AI 助手的数学表现、信心与焦虑的审计
 - [[swim-student-writing-simulation-2026]] — 提示与 SFT 和基于奖励的训练在构建学生写作模拟器上的比较
@@ -170,3 +174,4 @@ CogEvolution 建模认知动态而非静态人格——一个 ICAP 深度感知�
 - [[student-development-agent-risk-free-simulation-2025]] — 在多智能体平台上预测学生课程后的发展结果，而不让他们暴露于干预
 - [[preservice-teachers-noticing-ai-simulations-2026]] — 职前教师在等号聊天机器人模拟中三周的注意、解释与塑造，以及设计如何引导他们所注意的内容
 - [[beagle-grounded-learner-emulation-2026]] — 一个在架构上而非靠提示强制执行 SRL 结构的神经符号模拟器，并通过了人类图灵测试
+- [[llm-goal-selection-self-directed-learning-2026]] — 语言模型的目标选择有别于人类：一项自我导向学习任务

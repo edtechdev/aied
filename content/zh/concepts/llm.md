@@ -1,7 +1,7 @@
 ---
 title: 大语言模型（LLM）
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-09T18:40:00-04:00"
+updated: "2026-10-24T14:13:55-04:00"
 type: concept
 connected_faqs: [making-ai-better-at-supporting-learning]
 foundations: [ai-literacy]
@@ -84,16 +84,16 @@ LLM 也偏好性地肯定用户：在 11 个模型上，AI 回答对用户的肯
 - [[ai-technologies]] — 总括：AI 技术与方法（模型、LLM 训练、机器人、RAG、智能体）
 
 ## 关联文章
-- [[assessing-quality-ai-generated-exams-field-2025]] — Assessing the quality of AI-generated exams: a large-scale field study
+- [[assessing-quality-ai-generated-exams-field-2025]] — 评估人工智能生成试卷的质量：一项大规模实地研究
 - [[educational-llm-alignment]]
 - [[cstutorbench-slm-tutors]]
 - [[hazra-safetutors-pedagogical-safety-2026]]
 - [[llm-item-difficulty-prediction]]
 - [[eduguard-safe-rag-llm-tutor]]
 - [[llm-difficulty-calibration-programming-exams-2026]]
-- [[lopez-pernas-llm-appropriate-student-support-2026]] — Can AI deliver appropriate support for diverse student profiles? A large-scale evaluation
-- [[yasar-llms-iterative-pedagogical-design-2026]] — LLMs as agents of iterative pedagogical design
-- [[razavi-powers-item-difficulty-llm-2026]] — Estimating item difficulty using LLMs and tree-based ML
+- [[lopez-pernas-llm-appropriate-student-support-2026]] — 人工智能能否为不同学生画像提供恰当支持？一项大规模评估
+- [[yasar-llms-iterative-pedagogical-design-2026]] — 大语言模型作为迭代教学设计的推动者
+- [[razavi-powers-item-difficulty-llm-2026]] — 使用大语言模型与基于树的机器学习估计题目难度
 - [[auto-marking-short-answer-science-2026]]
 - [[reddig-maclellan-personalized-feedback-llm-2026]]
 - [[oppenheimer-llms-collaborative-learning-partners-2026]]
@@ -102,6 +102,6 @@ LLM 也偏好性地肯定用户：在 11 个模型上，AI 回答对用户的肯
 - [[falahat-chatgpt-grading-pharmacy-exams-2026]]
 - [[olvet-genai-scoring-open-ended-medical-2026]]
 - [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — Student Use of LLMs and the Limits of AI-Generated Question Difficulty in Data Science Courses
-- [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors: Assertion-based Schemas for Auditable Coding of Educational Dialogues
-- [[ai-personal-coach-review-benefits-risks-2026]] — Sycophancy across 11 LLMs: AI affirmed users 49% more than humans, raising trust and continued use
+- [[student-llm-use-ai-question-difficulty-data-science-2026]] — 学生对大语言模型的使用与数据科学课程中人工智能生成题目难度的局限
+- [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors：面向教育对话可审计编码的断言式模式
+- [[ai-personal-coach-review-benefits-risks-2026]] — 11 个大语言模型中的谄媚现象：AI 对用户的肯定比人多 49%，提升了信任与持续使用

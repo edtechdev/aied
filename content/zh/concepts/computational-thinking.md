@@ -112,8 +112,8 @@ CT在AI时代的一个核心目标，是让学生与教师超越对AI产出的*�
 - [[genai-oop-programming-assessments-2026]]
 - [[game-based-gamified-robotics-education-review-2026]]
 - [[solving-vs-evaluating-genai-solutions]]
-- [[zhang-ct-ai-training-test-2026]] — Computational Thinking in AI Training Test (CTAT)
-- [[computational-thinking-aica-2026]] — Computational Thinking Levels and AI Coding Assistants (2026)
+- [[zhang-ct-ai-training-test-2026]] — AI 训练测试中的计算思维（CTAT）
+- [[computational-thinking-aica-2026]] — 计算思维层级与 AI 编程助手（2026）
 - [[ai-writes-code-student-writes-model-2026]] — 模型作者身份：GenAI学习即建构的理论与测量
 - [[code-to-learn-genai-artifact-construction-2026]] — CtL-GenAI：面向成果物建构的建构主义框架
 - [[astor-computational-thinking-meta-review-2026]] — 对128篇系统综述的CT元综述

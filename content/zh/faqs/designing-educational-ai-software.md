@@ -1,12 +1,13 @@
 ---
 title: "设计有效的教育人工智能软件有哪些最佳实践与技巧？"
 created: "2026-09-22T19:51:12-04:00"
-updated: "2026-10-09T18:10:00-04:00"
+updated: "2026-10-24T14:13:55-04:00"
 weight: 64
+audience: [educational technology developers, software developers, instructional designers]
 foundations: [learning-design]
 ethics: [accessibility, equity-in-ai-education, pedagogical-safety]
 technology: [edtech-platform]
-source_updated: "2026-10-02T08:21:34-04:00"
+source_updated: "2026-10-21T14:32:00-04:00"
 translation_of: faqs/designing-educational-ai-software
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
@@ -22,8 +23,6 @@ ai_assist:
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
-
-# 设计有效的教育人工智能软件有哪些最佳实践与技巧？
 
 **教育人工智能应当被设计成一个教学系统，而不只是一个带教育界面的通用模型。** 本知识库中近期的设计研究把这一主张收得更具体：最强的系统是被建构成**处在人类监督之下的受限专家**，与将使用它们的教师和学习者共同设计，并且以可核验的内容为依据，而不是依赖模型的记忆。一套实用的设计规则如下：
 

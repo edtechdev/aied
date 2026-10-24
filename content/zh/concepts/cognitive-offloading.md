@@ -1,6 +1,7 @@
 ---
 title: 认知外包
 created: "2026-08-09T07:47:05-04:00"
+updated: "2026-10-24T14:37:21-04:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [metacognition, self-regulated-learning]
@@ -11,7 +12,7 @@ connected_faqs: [top-10-findings-ai-education-instructors, does-ai-help-students
 confidence: high
 connected_resources: [pause-ai-use-self-examination, student-guide-to-ai]
 translation_of: concepts/cognitive-offloading
-source_updated: "2026-10-13T04:43:42-04:00"
+source_updated: "2026-10-23T09:20:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -49,6 +50,8 @@ ai_assist:
 - **把自我反思工具化，而不是测量一种特质：** PAUSE（Patterns of AI Use: Self-Examination）把 2023–2026 年的外包文献转化为一份四领域的自查表 —— 推理与批判性思维、创造力与原创性、研究与学习、社交与沟通能力 —— 条目采用反向计分，每条都附文献锚点，不设综合分数，也不声称具有效度（[[pause-ai-cognitive-offloading-self-reflection-2026|Alam，2026]]）。其设计立场是：针对外包的有效干预在于促发反思，而不是作出诊断，因为还没有任何测量工具具备支撑关于某个人的重大决定的地位。
 
 - **提示模式作为外包的痕迹：** [[misiejuk-cognitive-offloading-prompting-2026|Misiejuk 等（2026）]]运用共现[[network-analysis|网络分析]]表明，反应式提示（缺少领域背景的质疑）指示更高的外包程度，而嵌入指令、富含背景的提示则反映了投入的认知。AI 使用的*方式* —— 而不只是是否使用 —— 决定了外包的程度。
+
+- **提示量并不能识别被外包的是什么：**[[cognitive-offloading-llm-synthesis-writing|Poquet 等（2026）]]按提示量把 97 名学习者聚类，发现各提示量聚类在局部对全局、主动角色提示上并无显著差异：同样的提示量既描述了有方向的委派（12.9 条提示，36% 为主动），也描述了几乎没有方向（4% 为主动）。
 
 - **自然情境下消息级的大规模证据 —— 外包是被观察到的，而非被假定的：** [[student-cognitive-offloading-ai-higher-ed-2026|Piatnitckaia 等（2026）]]使用 GPT-4o-mini（强制附带思维链推理）编码了来自一所欧洲大学 46 名本科生、横跨七周备考窗口的 3,047 条[[conversational-ai|ChatGPT]]消息，并在一名受过训练的人工评定者身上以 200 条消息验证了该流水线（问题类型的 Cohen's κ = 0.76，布鲁姆层级为 0.75）。在该分布中居首的是 Analyze，占 27.28%（831 条），其后是 Understand 的 23.76%，这是首份细粒度证据，表明自然情境下的[[student-ai-interaction|学生–AI 使用]]常规地瞄准的是更高阶的工作，而非记忆。一个包含 16 名学生、其 1,140 条消息被人工编码的子样本（附有成绩数据），提供了提示级痕迹无法提供的东西：125 段对话中有 49.6% 未出现外包，34.4% 为轻度、16.0% 为重度；该量表把*重度*保留给 AI 生成初稿并构建核心智力成果的情形。重度外包压倒性地是一种 Create 现象（20 段重度对话中的 80%，全部 Create 对话中的 42%），作者据此认为外包程度与布鲁姆层级是值得分别测量的两个维度。成绩模式仅具描述性 —— 顶层为 17.6%，中间层 17.5%，底层 5.9%（χ² = 5.80，df = 4，p = 0.215）—— 且部分依赖于一名以编程为主的学生，将其剔除后顶层比例降至 8.9%，因此作者主张学科对委派习惯的塑造强于成绩，并建议对实际使用模式提供[[metacognition|元认知]]反馈，而非加以禁止。
 
@@ -90,7 +93,7 @@ ai_assist:
 
 - **外包是基于价值的决策，而某些学生比其他人更脆弱。**[[seung-basham-cognitive-offloading-swld-2026|Seung 与 Basham（2026）]]是一篇发表于 *Learning Disability Quarterly* 的概念综述，综合认知科学、[[special-education|特殊教育]]与教育技术，把 GenAI 外包建模为由绩效目标、任务难度、学业自我效能与对工具的感知所塑造的成本–收益决策。他们认为**有学习障碍的学生（SWLDs）**尤其易受次优外包之害 —— 因为升高的认知负荷、避努力的绩效目标、较低的学业自我效能与对 GenAI 的过高期望，使过早或过度的委派更有可能。GenAI 被框定为**补偿性辅助或捷径，取决于外包决策如何与学习者画像及[[learning-design|教学设计]]互动**，而教学上的[[guardrails|护栏]]是关键调节因素（教授元认知自我调节、培养[[ai-literacy|AI 素养]]以校准对工具的信任、编排掌握经验、不仅评价成果也评价过程）。这扩展了外包的公平维度：同一个降低准入障碍的工具，若无护栏，可能替代 SWLDs 最需要的练习本身。
 
-- **外包风险是发展性的。**[[niu-genai-children-creative-thinking-cognitive-development-review-2026|Niu 等（2026）]]梳理了关于[[generative-ai|GenAI]]与儿童[[creativity|创造力]]的 24 项证据来源，发现[[cognitive-offloading|过度依赖]]与提示依赖是反复出现的风险，在较低年级最强，同时存在基于模板的思维，以及儿童难以判断某个 AI 建议是否原创的问题；一项 fMRI 比较记录到，在与 ChatGPT 互动时认知控制与注意网络的参与低于人际对话。由于更年幼的儿童缺乏文本式提示所要求的语言与元认知技能，作者建议把[[ai-literacy|AI 素养]]、作者身份与无辅助的构思保持在活动本身之内，并独立于 AI 辅助成果单独测量原创创造力。这为上述脆弱模式增加了一个年龄维度。
+- **外包风险是发展性的。**[[niu-genai-children-creative-thinking-cognitive-development-review-2026|Niu 等（2026）]]梳理了关于[[generative-ai|GenAI]]与儿童[[creativity|创造力]]的 24 项证据来源，发现过度依赖与提示依赖是反复出现的风险，在较低年级最强，同时存在基于模板的思维，以及儿童难以判断某个 AI 建议是否原创的问题；一项 fMRI 比较记录到，在与 ChatGPT 互动时认知控制与注意网络的参与低于人际对话。由于更年幼的儿童缺乏文本式提示所要求的语言与元认知技能，作者建议把[[ai-literacy|AI 素养]]、作者身份与无辅助的构思保持在活动本身之内，并独立于 AI 辅助成果单独测量原创创造力。这为上述脆弱模式增加了一个年龄维度。
 
 - **“思考更少还是学习不同”的问题是有条件的。**[[nesnin-cognitive-offloading-ai-students-2026|Nesnin 等（2026）]]提供了一篇更宽的分析综述，结论是 AI **不必然使学生思考得更少，而是改变了他们学习的方式** —— 结果取决于使用。澄清、验证与引导的 AI 增强学习，替代独立思考的 AI 则产生被动依赖。这收敛于本知识库无处不在的“脚手架对替代”边界，以及对外包危害的有条件观点。
 
@@ -129,6 +132,10 @@ AI 在教育中最重大的风险：
 - **动机侵蚀：** [[ai-availability-student-motivation|学生动机研究]]发现，知道 AI 可得会降低“自己学这项技能”的感知价值，这是一种动机算计，对新手学习者影响尤甚。
 
 - **坚持性也在迅速流失。**在一位有求必应的助手下大约十分钟之后，参与者在无辅助问题上跳过的比例为 0.20，对照组为 0.11，解出的比例为 0.57 对 0.73，并在阅读理解任务上复现了这一结果（[[liu-ai-assistance-reduces-persistence-2026|Liu 等，2026]]）。
+
+- **受支持的作业增益没能挺过无支持的考试。**把 153 名证明课学生随机分配到更早的 AI 接触，使作业成绩提高 2.56 分，而期中考试 2 与零无法区分；一个先尝试再反馈的工具未受罚，而一个开放聊天机器人每 100 条消息低 3.02 分（[[ai-proof-learning-cognitive-offloading-2026|Chen 等（2026）]]）。
+
+- **一份提交并不能作为被外包之物的证据。**在来自 23 名线性代数学生的 59 份聊天记录中，由解释或核查主导的 30 份里有 27 份最终仍接近模型的产物，因此外包必须逐条提示地读（[[llm-math-homework-offloading-traces-2026|Kontorovich 与 Wallach（2026）]]）。
 
 - **素养债务：** [[agentic-literacy-debt|智能体式素养债务]]描述了当学生习惯性地依赖 AI、而不发展自身能力时累积起来的技能赤字，类似于软件中的技术债。
 
@@ -211,17 +218,19 @@ AI 在教育中最重大的风险：
 
 ## 关联文章
 
+- [[ai-proof-learning-cognitive-offloading-2026]] — 支持还是替代学生的推理？AI 辅助证明学习中的认知外包（Chen 等 2026）
+- [[llm-math-homework-offloading-traces-2026]] — 提交所不能显示的：学生用大语言模型做数学作业时认知外包的复杂化（Kontorovich 与 Wallach 2026）
 - [[genai-support-threaten-learning-k20-expert-consensus-2026]] - 30 位专家就 65 个学习过程达成共识：学习序列两端的外包
 - [[rented-self-decoupling-performance-becoming-2026]] — 租借的自我：付出学习者领域自我（而不只是技能）的外包
 - [[caeai-ai-scaffolding-inquiry-profiles-middle-school-2026]] — 起点相同的小组走向分化：一个剖面中 74.1% 的模型采纳对另一个剖面中 80.8% 的外包与僵局（Kilinc 等，2026）
 - [[liu-ai-assistance-reduces-persistence-2026]] — AI 辅助在三个随机对照试验中降低了坚持性与无辅助表现（Liu 等，2026）
 - [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025]] — ChatGPT 作为认知拐杖：45 天后知识保持的随机对照试验（Barcaui，2025）
 - [[yan-cognitive-outsourcing-genai-assessments-2026]] — 从认知外包到再分配：无监督评价中学生–GenAI 参与的 3P 分析（Yan 等，2026）
-- [[family-school-autonomy-support-genai-2026]] — Family-School Autonomy Support for Children's Responsible Use of Generative AI
+- [[family-school-autonomy-support-genai-2026]] — 家庭与学校对儿童负责任使用生成式 AI 的自主支持
 - [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — 多余对有益摩擦：为什么 AI 外包不同于先前的工具
-- [[thermomix-genai-education-analogy-2026]] — With a Thermomix You Lose the Ability to Cook: a kitchen-machine analogy for generative AI in education (Rummel, Nachtigall & Panadero 2026)
+- [[thermomix-genai-education-analogy-2026]] — 有了 Thermomix 你就失去了烹饪能力：生成式 AI 用于教育的一个厨房机器类比（Rummel、Nachtigall 与 Panadero 2026）
 - [[cognitive-washout-ai-skill-decay-2026]] — 认知流失：AI 诱发技能衰退的撤用后动态
-- [[yan-conversational-ai-engagement-dependence-synthesis-2026]] — A Critical Narrative Synthesis of Conversational AI Engagement and Dependence
+- [[yan-conversational-ai-engagement-dependence-synthesis-2026]] — 对话式 AI 投入与依赖的一项批判性叙事综合
 - [[layer-sensitive-cognitive-offloading-writing-2026]] — GenAI 辅助写作中分层敏感的认知外包（Chen，2026）
 - [[du-yuan-epistemic-dependence-2026]] — AI 中介学习中的认知依赖：区分有成效依赖与有害依赖的六个诊断标准（Du 与 Yuan，2026）
 - [[seung-basham-cognitive-offloading-swld-2026]] — 面向学习障碍学生的 GenAI 认知外包
@@ -231,23 +240,23 @@ AI 在教育中最重大的风险：
 - [[critical-thinking-paradox-genai-learning-2026]] — GenAI 整合学习中的批判性思维悖论
 - [[cognitive-offloading-speedup-illusion]] — AI 辅助工作的加速错觉
 - [[misiejuk-cognitive-offloading-prompting-2026]] — 提示模式的共现网络分析
-- [[shaw-nave-cognitive-surrender-2026]] — Tri-System Theory and cognitive surrender: how AI reshapes human reasoning (Shaw & Nave 2026)
+- [[shaw-nave-cognitive-surrender-2026]] — Tri-System Theory 与认知投降：AI 如何重塑人类推理（Shaw 与 Nave 2026）
 - [[young-people-learning-generative-ai-rapid-review-2026]] — GenAI 的投降–外包–能动性连续体
 - [[ai-making-us-stupid]] — 关于 AI 认知效应与学习替代的研究
-- [[brcic-effortless-trap-productive-struggle-2026]] — The Effortless Trap: AI replacing cognitive work (Brcic & Frljic 2026)
+- [[brcic-effortless-trap-productive-struggle-2026]] — 毫不费力的陷阱：AI 取代认知工作（Brcic & Frljic 2026）
 - [[genai-thoughtless-use-self-directed-learning-2026]] — 不经思考的 AI 使用侵蚀自主学习
 - [[generative-ai-guardrails-harm-learning]] — 关于无护栏 GenAI 的高中数学随机对照试验
 - [[stromberg-generative-ai-learning-penalty-secondary-2026]] — 生成式 AI 学习罚分：作业外包损害学习
 - [[coach-not-crutch-ai-writing]] — AI 可以做得更少、学得更多（Lira 等，2025）
-- [[making-ai-tutoring-productive-mastery-math-2026]] — Making AI tutoring productive: mastery-based math practice
+- [[making-ai-tutoring-productive-mastery-math-2026]] — 让 AI 辅导富有成效：基于掌握的数学练习
 - [[cognitive-commons-ai-expertise-regeneration]] — 认知公地的悲剧：AI 与专长再生
-- [[pause-ai-cognitive-offloading-self-reflection-2026]] — PAUSE: A Privacy-Preserving Self-Reflection Tool for AI-Associated Cognitive Offloading
+- [[pause-ai-cognitive-offloading-self-reflection-2026]] — PAUSE：一个面向 AI 相关认知外包的隐私保护自我反思工具
 - [[chatgpt-writing-cognitive-impact-2026]] — 一项以写促学实验，其中 ChatGPT 辅助写作产生的知识增益低于无辅助对照组
 - [[student-cognitive-offloading-ai-higher-ed-2026]] — 高等教育中学生对 AI 的认知外包模式：自然情境 ChatGPT 消息级证据（Piatnitckaia 等，2026）
-- [[metacognitive-feedback-anti-deskilling-offloading-2026]] — Designing Against Deskilling: Metacognitive Feedback Reduces Cognitive Offloading to LLM Assistants
-- [[chatgpt-programming-performance-retention-ownership-2026]] — Your Programming Students' Cognition with ChatGPT: Higher Performance, Lower Retention, and Reduced Ownership
+- [[metacognitive-feedback-anti-deskilling-offloading-2026]] — 反去技能化设计：元认知反馈降低对 LLM 助手的认知外包
+- [[chatgpt-programming-performance-retention-ownership-2026]] — 用 ChatGPT 编程的学生认知：更高的表现、更低的保持与更弱的拥有感
 - [[davor-ai-supported-learning-higher-order-outcomes-2026]] — 外包倾向与核验素养经元认知自我调节预测高阶结果（Davor 等，2026）
-- [[ren-metacognitive-awareness-genai-reliance-2026]] — A reflection prompt reduces acceptance of incorrect AI advice and improves awareness calibration (Ren 2026)
+- [[ren-metacognitive-awareness-genai-reliance-2026]] — 一则反思提示降低了对错误 AI 建议的接受度并改善了意识校准（Ren 2026）
 - [[shojaei-genai-dependence-critical-thinking-employability-2026]] — GenAI 依赖作为批判性思维倾向与自感就业力的边界条件（Shojaei 等，2026）
 - [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] - 儿童在与 ChatGPT 交谈时额顶、显著性与背侧注意网络的连接弱于成人，而创造力得分相当
 - [[niu-genai-children-creative-thinking-cognitive-development-review-2026]] — GenAI 与儿童创造力：范围综述中的过度依赖与提示依赖（Niu 等，2026）

@@ -129,7 +129,7 @@ Bernstein 与 Sibia（2026）锐化了兴趣个性化与专长个性化之间的
 
 - [[bespoke-industry-personalized-lecture-videos-2026]] — 从一份种子讲稿重新生成行业个性化讲座视频：受众层面的裁剪，由领域专家评分（Puech 等，2026）
 - [[prompt-engineering-personalization-ai-teaching-assistant-2026]] — AI 教学助手的提示工程微观个性化（Basu、Kakar 与 Goel，2026）
-- [[turano-ai-tutoring-not-a-monolith-2026]] — AI Tutoring is Not a Monolith: What We Actually Know (Stanford SCALE/NSSA brief)
+- [[turano-ai-tutoring-not-a-monolith-2026]] — AI Tutoring is Not a Monolith: What We Actually Know (Stanford SCALE/NSSA brief)：AI 辅导并非铁板一块：我们实际知道什么（斯坦福 SCALE／NSSA 简报）
 - [[mishra-control-vs-agency-history-2025]] — 区分两种个性化形式（统一 对 多样的结果）
 - [[khalifeh-redefining-personalized-learning-ai-2026]] — 重新定义个性化学习：系统综述
 - [[deeptutor]] — 面向导学的智能体原生个性化基座
@@ -138,11 +138,11 @@ Bernstein 与 Sibia（2026）锐化了兴趣个性化与专长个性化之间的
 - [[ai-coaching-rl-skill-development]] — 面向技能发展的强化学习教练
 - [[personalized-ai-generated-videos-preference-2026]] — 学生偏好个性化 AI 生成视频，胜过非个性化的人类录制视频（Tomlinson 等，2026）
 - [[bayesian-cognitive-diagnosis-personalized-learning-paths]] — 面向个性化学习路径的贝叶斯认知诊断
-- [[graph-its-adaptive-algorithms-2026]] — Graph-Based Intelligent Tutoring for Dynamic Domains (2026)
+- [[graph-its-adaptive-algorithms-2026]] — Graph-Based Intelligent Tutoring for Dynamic Domains (2026)：面向动态领域的基于图的智能辅导
 - [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — ChatGPT 增强的形成性评价中的教师与 AI 角色
-- [[marked-pedagogies-linguistic-bias-writing-feedback]] — Marked Pedagogies: bias in personalized automated feedback
+- [[marked-pedagogies-linguistic-bias-writing-feedback]] — Marked Pedagogies: bias in personalized automated feedback：自动写作反馈中的偏差
 - [[alsheikh-mapping-ai-integration-higher-education-2026]] — 系统综述：自适应路径与推荐器是高等教育中首要的 AI 整合用例
 - [[riedmann-reinforcement-learning-education-review-2026]]
-- [[student-reception-genai-analogies-computing-2026]] — Flawed but Memorable: Student Critical Reception of Interest-Personalized GenAI Analogies in Computing Education
+- [[student-reception-genai-analogies-computing-2026]] — Flawed but Memorable: Student Critical Reception of Interest-Personalized GenAI Analogies in Computing Education：有缺陷但令人难忘：计算教育中学生对兴趣个性化 GenAI 类比的批判性接受
 - [[personalization-paradox-adaptive-learning-emotions-2026]] — 个性化悖论：感知到的自适应个性化经学业情绪与更低的自我调节学习相关，由 AI 素养缓冲（Li、Lin 与 Qiu，2026）
 - [[personapath-personalized-learning-paths-2026]] — PersonaPath: LLM 规划器达到 90.9% 效度，但向陈述的学习者目标个性化路径时无一模型超过 44.7% 适应性（Liu 等，2026）

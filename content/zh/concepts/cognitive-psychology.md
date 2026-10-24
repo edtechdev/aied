@@ -1,13 +1,13 @@
 ---
 title: 认知心理学
 created: "2026-08-27T10:52:12-04:00"
-updated: "2026-10-09T18:58:10-04:00"
+updated: "2026-10-24T14:37:53-04:00"
 type: concept
 pedagogy: [cognitive-psychology, learning-theories, metacognition]
 technology: [generative-ai, intelligent-tutoring, knowledge-tracing]
 confidence: high
 translation_of: concepts/cognitive-psychology
-source_updated: "2026-09-26T01:51:49-04:00"
+source_updated: "2026-10-16T20:19:49-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -34,6 +34,8 @@ ai_assist:
 
 认知心理学是这样一种学习理论传统：它把学习视为内部心理表征 —— 记忆中持有的概念、图式与程序 —— 的改变，而非可观察行为的改变。其信息处理词汇（注意、编码、提取、有限的工作记忆）既为学习困难提供了诊断语言，也为[[intelligent-tutoring]]和[[knowledge-tracing]]背后的架构提供了基础：推断学习者内部状态并对其作出适应的系统。它仍是本知识库中[[metacognition]]、[[desirable-difficulties]]与[[self-regulated-learning]]的参照框架。
 
+[[seeing-cognitive-representations-eeg-reconstruction|Su 等（2026）]]从学习者在科学视频中的 EEG 重建图像，发现表征保真度追踪测试表现（回归系数 0.8481，R² = 0.79），即内部表征的测量可以指示编码的直接证据
+
 ## 核心思想
 
 - **学习是内部心理表征的改变。** 认知主义主张，学习涉及知识在记忆中的习得、存储与重组 —— 概念、图式与程序 —— 而非仅仅是可观察反应的改变。重要的是学习者*所知所能提取*的东西，不只是他们做了什么。
@@ -51,6 +53,8 @@ ai_assist:
 ### 认知负荷与教学设计
 
 认知负荷理论（CLT）是[[learning-design|教学设计]]中应用最广的认知主义框架：它区分内在负荷（任务复杂度）、外在负荷（呈现摩擦）与关联负荷（图式建构努力）。设计良好的AI应减少外在负荷同时保留关联加工；整合不佳的AI三者全减，留下完成的任务与空洞的学习。CLT的工作记忆框架也是关于[[cognitive-offloading]]之争论的核心 —— AI究竟减少了有害的外在负荷，还是短路了产生学习的关联加工。
+
+负荷追踪的是努力如何被组织，而非付出了多少：在 67 名用 GenAI 设计教案的职前教师中，质量更高的那一组在自陈努力上没有差异（2.85 对 3.26），却报告了更低的心智需求（3.09 对 4.03）与挫折感（2.12 对 3.82）（[[fang-human-ai-collaboration-patterns-instructional-design-2026|Fang 等（2026）]]）。
 
 Mayer的多媒体学习认知理论（CTML）把同样的工作记忆假设应用于材料本身，其处方异常具体：词与图结合比只有词效果更好，当排除外在材料时、当一课被分段且由用户掌握节奏而非作为一个连续单元呈现时、当对应的词与图邻近且同时出现时、以及当叙述是对话式的且用友好的真人嗓音而非正式或机器生成时，学习者表现更好。
 
@@ -100,4 +104,5 @@ Mayer的多媒体学习认知理论（CTML）把同样的工作记忆假设应�
 - [[educlaw-bench-pedagogical-llm-agents-2026]] — 基于知识追踪的教学型LLM智能体
 - [[nie-personavlm-long-term-personalization-2026]] — LLM学生建模与记忆
 - [[ai-cognitive-partner-co-regulation-learning]] — 共同调节学习中作为认知伙伴的AI
-- [[ensemble-cognition-philosophy-ai-education]] — Ensemble Cognition: thinking as human–AI interaction
+- [[ensemble-cognition-philosophy-ai-education]] — Ensemble Cognition：作为人机交互的思维
+- [[fang-human-ai-collaboration-patterns-instructional-design-2026]] — 努力的组织方式，而非努力的量，追踪了负荷与挫折感

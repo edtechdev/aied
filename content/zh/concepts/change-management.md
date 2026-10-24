@@ -65,6 +65,8 @@ AI 教育中的变革管理兼具正面与负面含义。**正面**来看，结�
 
 一个机构案例研究追溯了本科数学中长达十年的扩散弧线，从个人倡议和同伴工作坊，到教师联合授权和中心资助（[[flipped-classroom-ai-assessment-math-2026|Law, 2026]]）。
 
+课程重设计需要机构预算，而非假定其成本：采用一门 AI 整合课程在每门课程上大约需要 15 至 20 小时的重设计工作，然后才是任何持续的调整（[[packard-thinking-partner-framework-adult-learners-2026|Packard 等人（2026）]]）。
+
 ## 与其他概念的关联
 
 变革管理是课堂层面整合的机构补充。它使系统性的条件——治理、教师发展、利益相关者 [[student-engagement|参与]]和公平保障——得以操作化，从而让教学法创新落地生根，把 [[educational-policy-ai]] 政策设计与 [[governance]]、[[educational-development]] 和 [[equity-in-ai-education]] 结果联系起来。
@@ -98,3 +100,4 @@ AI 教育中的变革管理兼具正面与负面含义。**正面**来看，结�
 - [[instruction-partners-ai-in-action-learning-tour-2026]] —— 跨系统实地工作：实施与教师行动如何决定一个 AI 产品是否有帮助
 - [[dot-framework-survey-2026]] —— 专业发展必须覆盖完整设计周期而不仅是工具使用的调查证据
 - [[flipped-classroom-ai-assessment-math-2026]] —— 本科数学中从个人倡议到中心资助的十年扩散弧线（Law 2026）
+- [[packard-thinking-partner-framework-adult-learners-2026]] - 在持续调整之前，为每一门 AI 整合课程预算 15 至 20 小时的重设计时间
