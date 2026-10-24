@@ -53,6 +53,7 @@ SCOPABLE = {
     'check-concept-screen.py': 'changed',
     'check-concept-integration.py': 'changed',
     'check-concept-prose.py': 'changed',
+    'check-concept-updated-bump.py': 'changed',
 }
 
 # Registry- and corpus-level gates: they validate a fixed artifact (the concept
