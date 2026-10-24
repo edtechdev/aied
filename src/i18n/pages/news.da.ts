@@ -16,6 +16,8 @@ export interface NewsStrings {
   feedsHtml: string;
   /** How to get the newsletter by email, through a feed-to-email service. */
   emailHtml: string;
+  /** How to follow the newsletter on LinkedIn. May contain inline HTML. */
+  linkedinHtml: string;
   /** Shown when no issue is published. */
   empty: string;
   /** Back-link on an issue page. */
@@ -36,6 +38,8 @@ const da: NewsStrings = {
     'To RSS-feeds leverer den. <a href="/aied/news/rss.xml">Nyhedsbrevets feed</a> indeholder kun numrene, ét element om ugen. <a href="/aied/rss.xml">Vidensbasens feed</a> indeholder hvert nyt artikelsammendrag, efterhånden som det tilføjes, altså det samme materiale som numrene bygger på, men med en langt højere frekvens.',
   emailHtml:
     'For at få hvert nummer på e-mail skal du indsætte nyhedsbrevets feed i <a href="https://blogtrottr.com/">Blogtrottr</a>, en gratis tredjepartstjeneste, der sender et feed til din indbakke efter en tidsplan, du selv vælger. Tjenestens mails indeholder reklamer.',
+  linkedinHtml:
+    'Du kan også følge den på <a href="https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7519570283561852928">LinkedIn</a>, hvor hvert nummer udkommer som et LinkedIn-nyhedsbrev i dit feed.',
   empty: 'Der er endnu ikke udgivet numre.',
   allIssues: 'Alle numre',
   otherIssuesAria: 'Andre numre',

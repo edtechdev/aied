@@ -18,6 +18,8 @@ const no: NewsStrings = {
     'To RSS-strømmer fører den. <a href="/aied/news/rss.xml">Nyhetsbrevstrømmen</a> inneholder bare numrene, ett innslag i uken. <a href="/aied/rss.xml">Kunnskapsbasestrømmen</a> inneholder hvert nytt artikkelsammendrag etter hvert som det legges til, det samme materialet som numrene hentes fra, i et mye høyere tempo.',
   emailHtml:
     'Du får hvert nummer på e-post ved å lime nyhetsbrevstrømmen inn i <a href="https://blogtrottr.com/">Blogtrottr</a>, en gratis tjeneste fra en tredjepart som sender en strøm til innboksen din etter en tidsplan du velger. Meldingene inneholder annonser.',
+  linkedinHtml:
+    'Du kan også følge den på <a href="https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7519570283561852928">LinkedIn</a>, der hvert nummer kommer ut som et LinkedIn-nyhetsbrev i strømmen din.',
   empty: 'Ingen numre er publisert ennå.',
   allIssues: 'Alle numre',
   otherIssuesAria: 'Andre numre',

@@ -18,6 +18,8 @@ const fr: NewsStrings = {
     "Deux flux RSS la portent. Le <a href=\"/aied/news/rss.xml\">flux de la newsletter</a> ne contient que les numéros, une entrée par semaine. Le <a href=\"/aied/rss.xml\">flux de la base de connaissances</a> contient chaque nouveau résumé d'article dès son ajout, soit la même matière que celle dont les numéros sont tirés, à un rythme bien plus élevé.",
   emailHtml:
     "Pour recevoir chaque numéro par courriel, collez le flux de la newsletter dans <a href=\"https://blogtrottr.com/\">Blogtrottr</a>, un service tiers gratuit qui envoie un flux dans votre boîte de réception au rythme que vous choisissez. Ses messages contiennent de la publicité.",
+  linkedinHtml:
+    "Vous pouvez aussi la suivre sur <a href=\"https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7519570283561852928\">LinkedIn</a>, où chaque numéro paraît en newsletter LinkedIn dans votre fil.",
   empty: "Aucun numéro n'a encore été publié.",
   allIssues: 'Tous les numéros',
   otherIssuesAria: 'Autres numéros',

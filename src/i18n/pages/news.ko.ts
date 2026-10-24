@@ -18,6 +18,8 @@ const ko: NewsStrings = {
     '이 뉴스레터는 두 개의 RSS 피드로 제공됩니다. <a href="/aied/news/rss.xml">뉴스레터 피드</a>에는 각 호만 주 1건씩 올라갑니다. <a href="/aied/rss.xml">지식베이스 피드</a>에는 새 문서 요약이 추가될 때마다 올라가며, 각 호의 재료와 같은 내용을 훨씬 높은 빈도로 전합니다.',
   emailHtml:
     '각 호를 이메일로 받으려면 뉴스레터 피드를 <a href="https://blogtrottr.com/">Blogtrottr</a>에 붙여 넣으세요. 원하는 일정에 맞춰 피드를 받은편지함으로 보내 주는 무료 제3자 서비스이며, 보내는 메시지에는 광고가 포함됩니다.',
+  linkedinHtml:
+    '이 뉴스레터는 <a href="https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7519570283561852928">LinkedIn</a>에서도 팔로우할 수 있으며, 각 호는 LinkedIn 뉴스레터로 피드에 전달됩니다.',
   empty: '아직 발행된 호가 없습니다.',
   allIssues: '전체 호',
   otherIssuesAria: '다른 호',

@@ -17,6 +17,8 @@ export interface NewsStrings {
   feedsHtml: string;
   /** How to get the newsletter by email, through a feed-to-email service. */
   emailHtml: string;
+  /** How to follow the newsletter on LinkedIn. May contain inline HTML. */
+  linkedinHtml: string;
   /** Shown when no issue is published. */
   empty: string;
   /** Back-link on an issue page. */
@@ -37,6 +39,8 @@ const hr: NewsStrings = {
     'Prate ga dva RSS feeda. <a href="/aied/news/rss.xml">Feed newslettera</a> sadrži samo izdanja, jedan zapis tjedno. <a href="/aied/rss.xml">Feed baze znanja</a> sadrži svaki novi sažetak članka čim se doda, a to je isti materijal iz kojeg se crpe izdanja, samo mnogo češće.',
   emailHtml:
     'Da biste svako izdanje primali e-poštom, zalijepite feed newslettera u <a href="https://blogtrottr.com/">Blogtrottr</a>, besplatnu uslugu treće strane koja šalje feed u vaš pretinac prema rasporedu koji odaberete. Njezine poruke sadrže oglase.',
+  linkedinHtml:
+    'Možete ga pratiti i na <a href="https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7519570283561852928">LinkedIn</a>, gdje svako izdanje izlazi kao LinkedIn newsletter u vašem feedu.',
   empty: 'Još nije objavljeno nijedno izdanje.',
   allIssues: 'Sva izdanja',
   otherIssuesAria: 'Ostala izdanja',

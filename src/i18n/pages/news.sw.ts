@@ -16,6 +16,8 @@ export interface NewsStrings {
   feedsHtml: string;
   /** How to get the newsletter by email, through a feed-to-email service. */
   emailHtml: string;
+  /** How to follow the newsletter on LinkedIn. May contain inline HTML. */
+  linkedinHtml: string;
   /** Shown when no issue is published. */
   empty: string;
   /** Back-link on an issue page. */
@@ -36,6 +38,8 @@ const sw: NewsStrings = {
     'Husambazwa kwa njia mbili za RSS. <a href="/aied/news/rss.xml">Mlisho wa jarida</a> huwa na matoleo pekee, kipengele kimoja kwa wiki. <a href="/aied/rss.xml">Mlisho wa hifadhi ya maarifa</a> huwa na kila muhtasari mpya wa makala mara unapoongezwa, ambao ni nyenzo hiyo hiyo ambayo matoleo huchotwa, kwa kasi kubwa zaidi.',
   emailHtml:
     'Kupata kila toleo kwa barua pepe, bandika mlisho wa jarida kwenye <a href="https://blogtrottr.com/">Blogtrottr</a>, huduma ya bure ya kampuni nyingine inayotuma mlisho kwenye kikasha chako kwa ratiba unayochagua. Ujumbe wake huwa na matangazo.',
+  linkedinHtml:
+    'Pia unaweza kufuata jarida hili kwenye <a href="https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7519570283561852928">LinkedIn</a>, ambapo kila toleo hutoka kama jarida la LinkedIn kwenye mlisho wako.',
   empty: 'Hakuna toleo lililochapishwa bado.',
   allIssues: 'Matoleo yote',
   otherIssuesAria: 'Matoleo mengine',

@@ -17,6 +17,8 @@ export interface NewsStrings {
   feedsHtml: string;
   /** How to get the newsletter by email, through a feed-to-email service. */
   emailHtml: string;
+  /** How to follow the newsletter on LinkedIn. May contain inline HTML. */
+  linkedinHtml: string;
   /** Shown when no issue is published. */
   empty: string;
   /** Back-link on an issue page. */
@@ -37,6 +39,8 @@ const bg: NewsStrings = {
     'Издават го две RSS емисии. <a href="/aied/news/rss.xml">Емисията на бюлетина</a> съдържа само броевете, по един запис седмично. <a href="/aied/rss.xml">Емисията на базата знания</a> съдържа всяко ново резюме на статия при добавянето му, което е същият материал, от който се правят броевете, но с много по-висока честота.',
   emailHtml:
     'За да получавате всеки брой по имейл, поставете емисията на бюлетина в <a href="https://blogtrottr.com/">Blogtrottr</a>, безплатна услуга от трета страна, която изпраща емисия в пощенската ви кутия по избран от вас график. Съобщенията ѝ съдържат реклами.',
+  linkedinHtml:
+    'Можете да го следвате и в <a href="https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7519570283561852928">LinkedIn</a>, където всеки брой излиза като бюлетин на LinkedIn в емисията ви.',
   empty: 'Още не са публикувани броеве.',
   allIssues: 'Всички броеве',
   otherIssuesAria: 'Други броеве',

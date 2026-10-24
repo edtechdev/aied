@@ -17,6 +17,8 @@ export interface NewsStrings {
   feedsHtml: string;
   /** How to get the newsletter by email, through a feed-to-email service. */
   emailHtml: string;
+  /** How to follow the newsletter on LinkedIn. May contain inline HTML. */
+  linkedinHtml: string;
   /** Shown when no issue is published. */
   empty: string;
   /** Back-link on an issue page. */
@@ -37,6 +39,8 @@ const ru: NewsStrings = {
     'Её разносят два RSS-канала. <a href="/aied/news/rss.xml">Канал рассылки</a> содержит только выпуски, одна запись в неделю. <a href="/aied/rss.xml">Канал базы знаний</a> содержит каждое новое резюме статьи по мере добавления, то есть тот же материал, из которого берутся выпуски, но гораздо чаще.',
   emailHtml:
     'Чтобы получать каждый выпуск по электронной почте, вставьте канал рассылки в <a href="https://blogtrottr.com/">Blogtrottr</a>, бесплатный сторонний сервис, который присылает канал на вашу почту с выбранной вами периодичностью. В его письмах есть реклама.',
+  linkedinHtml:
+    'Вы также можете следить за ней в <a href="https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7519570283561852928">LinkedIn</a>, где каждый выпуск выходит как новостная рассылка LinkedIn в вашей ленте.',
   empty: 'Пока не опубликовано ни одного выпуска.',
   allIssues: 'Все выпуски',
   otherIssuesAria: 'Другие выпуски',

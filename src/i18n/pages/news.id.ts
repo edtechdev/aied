@@ -17,6 +17,8 @@ export interface NewsStrings {
   feedsHtml: string;
   /** How to get the newsletter by email, through a feed-to-email service. */
   emailHtml: string;
+  /** How to follow the newsletter on LinkedIn. May contain inline HTML. */
+  linkedinHtml: string;
   /** Shown when no issue is published. */
   empty: string;
   /** Back-link on an issue page. */
@@ -37,6 +39,8 @@ const id: NewsStrings = {
     'Dua feed RSS membawanya. <a href="/aied/news/rss.xml">Feed newsletter</a> hanya memuat terbitan, satu entri per pekan. <a href="/aied/rss.xml">Feed basis pengetahuan</a> memuat setiap ringkasan artikel baru begitu ditambahkan, yaitu materi yang sama dengan sumber terbitan, dengan laju yang jauh lebih tinggi.',
   emailHtml:
     'Agar setiap terbitan sampai ke email Anda, tempelkan feed newsletter ke <a href="https://blogtrottr.com/">Blogtrottr</a>, layanan gratis pihak ketiga yang mengirim feed ke kotak masuk sesuai jadwal yang Anda pilih. Pesannya memuat iklan.',
+  linkedinHtml:
+    'Anda juga dapat mengikutinya di <a href="https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7519570283561852928">LinkedIn</a>, tempat setiap terbitan diterbitkan sebagai newsletter LinkedIn di feed Anda.',
   empty: 'Belum ada terbitan yang diterbitkan.',
   allIssues: 'Semua terbitan',
   otherIssuesAria: 'Terbitan lain',

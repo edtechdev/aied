@@ -17,6 +17,8 @@ export interface NewsStrings {
   feedsHtml: string;
   /** How to get the newsletter by email, through a feed-to-email service. */
   emailHtml: string;
+  /** How to follow the newsletter on LinkedIn. May contain inline HTML. */
+  linkedinHtml: string;
   /** Shown when no issue is published. */
   empty: string;
   /** Back-link on an issue page. */
@@ -37,6 +39,8 @@ const pt: NewsStrings = {
     'Dois feeds RSS a distribuem. O <a href="/aied/news/rss.xml">feed da newsletter</a> traz apenas as edições, uma entrada por semana. O <a href="/aied/rss.xml">feed da base de conhecimento</a> traz cada novo resumo de artigo assim que é adicionado, ou seja, o mesmo material de onde saem as edições, a um ritmo muito maior.',
   emailHtml:
     'Para receber cada edição por e-mail, cole o feed da newsletter no <a href="https://blogtrottr.com/">Blogtrottr</a>, um serviço gratuito de terceiros que envia um feed para a sua caixa de entrada no ritmo que você escolher. As mensagens dele trazem publicidade.',
+  linkedinHtml:
+    'Você também pode acompanhá-la no <a href="https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7519570283561852928">LinkedIn</a>, onde cada edição sai como uma newsletter do LinkedIn no seu feed.',
   empty: 'Nenhuma edição foi publicada ainda.',
   allIssues: 'Todas as edições',
   otherIssuesAria: 'Outras edições',

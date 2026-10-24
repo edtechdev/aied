@@ -18,6 +18,8 @@ const he: NewsStrings = {
     'שני פידי RSS נושאים אותו. <a href="/aied/news/rss.xml">פיד העלון</a> מכיל רק את הגיליונות, רשומה אחת בשבוע. <a href="/aied/rss.xml">פיד מאגר הידע</a> מכיל כל תקציר מאמר חדש עם הוספתו, אותו חומר שממנו נבנים הגיליונות, בקצב גבוה בהרבה.',
   emailHtml:
     'כדי לקבל כל גיליון בדואר אלקטרוני, הדביקו את פיד העלון ב<a href="https://blogtrottr.com/">Blogtrottr</a>, שירות צד שלישי חינמי ששולח פיד לתיבת הדואר שלכם בקצב שתבחרו. ההודעות שלו כוללות פרסומות.',
+  linkedinHtml:
+    'אפשר גם לעקוב אחריו ב<a href="https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7519570283561852928">LinkedIn</a>, שם כל גיליון מתפרסם כניוזלטר של LinkedIn בפיד שלכם.',
   empty: 'עדיין לא פורסמו גיליונות.',
   allIssues: 'כל הגיליונות',
   otherIssuesAria: 'גיליונות אחרים',

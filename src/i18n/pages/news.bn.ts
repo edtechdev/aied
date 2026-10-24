@@ -17,6 +17,8 @@ export interface NewsStrings {
   feedsHtml: string;
   /** How to get the newsletter by email, through a feed-to-email service. */
   emailHtml: string;
+  /** How to follow the newsletter on LinkedIn. May contain inline HTML. */
+  linkedinHtml: string;
   /** Shown when no issue is published. */
   empty: string;
   /** Back-link on an issue page. */
@@ -37,6 +39,8 @@ const bn: NewsStrings = {
     'এটি বহন করে দুটি RSS ফিড। <a href="/aied/news/rss.xml">নিউজলেটার ফিড</a> শুধু সংখ্যাগুলো রাখে, সপ্তাহে একটি এন্ট্রি। <a href="/aied/rss.xml">নলেজ বেস ফিড</a> প্রতিটি নতুন নিবন্ধের সারসংক্ষেপ যোগ হওয়ামাত্র রাখে, যা একই উপাদান যেখান থেকে সংখ্যাগুলো নেওয়া হয়, তবে অনেক বেশি হারে।',
   emailHtml:
     'প্রতিটি সংখ্যা ইমেইলে পেতে নিউজলেটার ফিডটি <a href="https://blogtrottr.com/">Blogtrottr</a> নামের বিনামূল্যের তৃতীয় পক্ষের পরিষেবায় পেস্ট করুন, যা আপনার বেছে নেওয়া সময়সূচি অনুযায়ী ফিডটি আপনার ইনবক্সে পাঠায়। এর বার্তাগুলোতে বিজ্ঞাপন থাকে।',
+  linkedinHtml:
+    'এছাড়া <a href="https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7519570283561852928">LinkedIn</a>-এও এটি অনুসরণ করতে পারেন, যেখানে প্রতিটি সংখ্যা আপনার ফিডে LinkedIn নিউজলেটার হিসেবে প্রকাশিত হয়।',
   empty: 'এখনো কোনো সংখ্যা প্রকাশিত হয়নি।',
   allIssues: 'সব সংখ্যা',
   otherIssuesAria: 'অন্য সংখ্যা',

@@ -16,6 +16,8 @@ export interface NewsStrings {
   feedsHtml: string;
   /** How to get the newsletter by email, through a feed-to-email service. */
   emailHtml: string;
+  /** How to follow the newsletter on LinkedIn. May contain inline HTML. */
+  linkedinHtml: string;
   /** Shown when no issue is published. */
   empty: string;
   /** Back-link on an issue page. */
@@ -36,6 +38,8 @@ const el: NewsStrings = {
     'Δύο ροές RSS τη μεταφέρουν. Η <a href="/aied/news/rss.xml">ροή του ενημερωτικού δελτίου</a> περιέχει μόνο τα τεύχη, μία καταχώριση την εβδομάδα. Η <a href="/aied/rss.xml">ροή της βάσης γνώσης</a> περιέχει κάθε νέα σύνοψη άρθρου καθώς προστίθεται, δηλαδή το ίδιο υλικό από το οποίο αντλούνται τα τεύχη, με πολύ υψηλότερο ρυθμό.',
   emailHtml:
     'Για να λαμβάνετε κάθε τεύχος με email, επικολλήστε τη ροή του ενημερωτικού δελτίου στο <a href="https://blogtrottr.com/">Blogtrottr</a>, μια δωρεάν υπηρεσία τρίτου μέρους που στέλνει μια ροή στα εισερχόμενά σας με το πρόγραμμα που επιλέγετε. Τα μηνύματά της περιέχουν διαφημίσεις.',
+  linkedinHtml:
+    'Μπορείτε επίσης να το ακολουθήσετε στο <a href="https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7519570283561852928">LinkedIn</a>, όπου κάθε τεύχος δημοσιεύεται ως ενημερωτικό δελτίο LinkedIn στη ροή σας.',
   empty: 'Δεν έχουν δημοσιευτεί ακόμη τεύχη.',
   allIssues: 'Όλα τα τεύχη',
   otherIssuesAria: 'Άλλα τεύχη',

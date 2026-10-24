@@ -16,6 +16,8 @@ export interface NewsStrings {
   feedsHtml: string;
   /** How to get the newsletter by email, through a feed-to-email service. */
   emailHtml: string;
+  /** How to follow the newsletter on LinkedIn. May contain inline HTML. */
+  linkedinHtml: string;
   /** Shown when no issue is published. */
   empty: string;
   /** Back-link on an issue page. */
@@ -36,6 +38,8 @@ const sk: NewsStrings = {
     'Prenášajú ho dva RSS kanály. <a href="/aied/news/rss.xml">Kanál newslettera</a> obsahuje len čísla, jeden záznam týždenne. <a href="/aied/rss.xml">Kanál databázy</a> obsahuje každé nové zhrnutie článku hneď, ako pribudne, čo je ten istý materiál, z ktorého čísla vychádzajú, len oveľa častejšie.',
   emailHtml:
     'Aby ste každé číslo dostali e-mailom, vložte kanál newslettera do <a href="https://blogtrottr.com/">Blogtrottr</a>, bezplatnej služby tretej strany, ktorá vám podľa vami zvoleného rozvrhu posiela kanál do schránky. Jej správy obsahujú reklamu.',
+  linkedinHtml:
+    'Môžete ho sledovať aj na <a href="https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7519570283561852928">LinkedIn</a>, kde každé číslo vychádza ako newsletter na LinkedIn vo vašom kanáli.',
   empty: 'Zatiaľ nebolo vydané žiadne číslo.',
   allIssues: 'Všetky čísla',
   otherIssuesAria: 'Ďalšie čísla',
