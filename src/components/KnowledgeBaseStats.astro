@@ -13,6 +13,7 @@
 import { getCollection } from 'astro:content';
 
 import { strings } from '../i18n';
+import { localizeHref } from '../i18n/config';
 const { heading = '', intro = '', locale = 'en' } = Astro.props;
 const chrome = strings(locale).ui.chrome;
 // Months and the numeral format follow the page's language, not the build machine's.
@@ -25,9 +26,13 @@ const [articles, concepts, faqs, resources] = await Promise.all([
   getCollection('resources'),
 ]);
 
+// Every count links to the page that lists it. The article count goes to the
+// journal, which is the only index of the article summaries: they have no landing
+// page of their own. An empty href renders a plain pill, which is what a kind with
+// no listing page keeps.
 const items = [
-  { count: articles.length, label: chrome.statsArticles, href: '' },
-  { count: concepts.length, label: chrome.statsConcepts, href: '' },
+  { count: articles.length, label: chrome.statsArticles, href: '/aied/journal' },
+  { count: concepts.length, label: chrome.statsConcepts, href: '/aied/concepts/' },
   { count: faqs.length, label: chrome.statsFaqs, href: '/aied/faq' },
   { count: resources.length, label: chrome.statsResources, href: '/aied/resources' },
 ];
@@ -53,7 +58,7 @@ const latestLabel = latestDate
   {items.map((item) => (
     <li class="kb-stat">
       {item.href ? (
-        <a href={item.href}>
+        <a href={localizeHref(item.href, locale)}>
           <strong>{item.count}</strong> {item.label}
         </a>
       ) : (
