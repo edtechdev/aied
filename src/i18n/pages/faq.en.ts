@@ -19,7 +19,7 @@ const en: FaqStrings = {
   title: 'FAQ',
   h1: 'Frequently Asked Questions',
   introHtml:
-    'This section answers common questions about <strong>AI in education</strong> — what the research says about how AI affects teaching and learning, and how educators, instructors, and instructional designers can put that evidence into practice. Each answer distills findings from the research summarized across this knowledge base, connecting the question to the relevant concepts and articles for deeper reading.',
+    'This section answers common questions about <strong>AI in education</strong> — what the research says about how AI affects teaching and learning, and how educators, instructors, and instructional designers can put that evidence into practice. Each answer distills findings from the research summarized across this knowledge base, connecting the question to the relevant <a href="/aied/concepts/">concepts</a> and articles for deeper reading.',
   assistantHtml:
     'Have a question not answered here? Ask your own AI assistant using the <a href="/aied/ai">Use This Knowledge Base with Your Own AI Assistant</a> page, which shows how to point an agent at the full catalog for grounded, cited answers.',
   empty: 'No FAQs yet.',

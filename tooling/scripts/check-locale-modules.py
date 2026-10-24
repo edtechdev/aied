@@ -130,12 +130,18 @@ def main():
     locale = sys.argv[1] if len(sys.argv) > 1 else 'ru'
     only = sys.argv[2:] if len(sys.argv) > 2 else None
     pairs = [(f'{ROOT}/src/i18n/ui.en.ts', f'{ROOT}/src/i18n/ui.{locale}.ts')]
-    for kind in ('home', 'ai', 'search', 'resources', 'journal', 'faq', 'notFound'):
+    for kind in ('home', 'ai', 'search', 'resources', 'journal', 'faq', 'concepts', 'notFound'):
         pairs.append((f'{ROOT}/src/i18n/pages/{kind}.en.ts', f'{ROOT}/src/i18n/pages/{kind}.{locale}.ts'))
     if only:
         pairs = [p for p in pairs if os.path.basename(p[0]).split('.')[0] in only]
     problems = 0
     for en_path, loc_path in pairs:
+        # A page kind with no module in this locale renders the English copy behind a
+        # translation notice, which is a state to report rather than a crash.
+        if not os.path.exists(loc_path):
+            problems += 1
+            print(f'MISSING {loc_path}: no module, the page renders the English copy')
+            continue
         en = open(en_path, encoding='utf-8').read()
         loc = open(loc_path, encoding='utf-8').read()
         en_vals, loc_vals = values(en), values(loc)

@@ -11,7 +11,7 @@ A free, linked knowledge base on artificial intelligence in education — resear
 ### What's inside
 
 - **Articles** — one page per paper: key findings, methods, and an APA citation with a linked full text.
-- **Concepts** — synthesized topic pages that connect related research (e.g. *feedback*, *assessment*, *teacher-role*), each with pre-reading questions, an introduction, and links to supporting articles.
+- **Concepts** — synthesized topic pages that connect related research (e.g. *feedback*, *assessment*, *teacher-role*), each with pre-reading questions, an introduction, and links to supporting articles. The [concept index](https://edtechdev.github.io/aied/concepts/) lists all 220 of them by section.
 - **FAQs** — curated answers to common questions, cross-linked to the concepts and articles behind them.
 - **Resources** — 🧰 free tools, collections, assessment instruments and open formats worth using, each with an access note, a last-verified date, and the concepts it serves.
 - Every page links to related pages via `[[wikilink]]`s, so you can follow a topic across the whole knowledge base.

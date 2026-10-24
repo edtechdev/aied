@@ -1,0 +1,135 @@
+---
+// Concept index (`/aied/concepts/`): every concept page, in the same strands and
+// groups as the site-wide sidebar, so "all the concepts" has an address of its
+// own instead of existing only as a navigation drawer. The list comes from
+// src/data/conceptIndex.ts (generated from concepts.registry.yaml); titles are
+// localized through the same lookup the sidebar uses, and a slug with no page is
+// dropped rather than rendered as a dead link.
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import PageTypeIcon from '../PageTypeIcon.astro';
+import TranslationNotice from '../TranslationNotice.astro';
+import { strings } from '../../i18n';
+import { localizeHref, localizeHtml, taxonomyHeading } from '../../i18n/config';
+import { localizedTitles, localizedTitle } from '../../i18n/localizedTitles';
+import { conceptIndex } from '../../data/conceptIndex';
+
+const { locale } = Astro.props;
+const s = strings(locale).concepts;
+const ui = strings(locale).ui;
+const L = (html: string) => localizeHtml(html, locale);
+
+const concepts = await getCollection('concepts');
+const titles = await localizedTitles(locale);
+const conceptMap: Record<string, string> = {};
+concepts.forEach((c) => {
+  const slug = c.id.replace(/\.md$/, '');
+  conceptMap[slug] = localizedTitle(titles, 'concepts', slug, c.data.title);
+});
+
+// Heading ids come from the English heading, not the localized label, so the
+// anchor a reader copies stays stable when they switch language.
+const anchor = (text: string) => text.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
+
+const sections = conceptIndex
+  .map((section) => ({
+    heading: section.heading,
+    blurb: section.blurb,
+    groups: section.groups
+      .map((group) => ({ label: group.label, items: group.items.filter((slug) => conceptMap[slug]) }))
+      .filter((group) => group.items.length > 0),
+  }))
+  .filter((section) => section.groups.length > 0);
+
+const total = new Set(sections.flatMap((section) => section.groups.flatMap((group) => group.items))).size;
+const countLine = s.countTemplate
+  .replace('{count}', String(total))
+  .replace('{strands}', String(sections.length));
+const toc = sections.map((section) => ({
+  text: taxonomyHeading(section.heading, locale),
+  slug: anchor(section.heading),
+  depth: 2,
+}));
+---
+
+<BaseLayout title={s.title} locale={locale} toc={toc}>
+  <TranslationNotice locale={locale} html={ui.translationNoticeHtml} />
+  <h1><PageTypeIcon kind="concept" size={32} />{s.h1}</h1>
+
+  <div class="page-intro">
+    <p set:html={L(s.introHtml)} />
+    <p set:html={L(s.structureHtml)} />
+    <p set:html={L(s.browseHtml)} />
+  </div>
+
+  <p class="concept-count">{countLine}</p>
+
+  {total === 0 && <p>{s.empty}</p>}
+
+  {sections.map((section) => (
+    <section>
+      <h2 id={anchor(section.heading)}>{taxonomyHeading(section.heading, locale)}</h2>
+      {section.blurb && <p class="strand-blurb">{section.blurb}</p>}
+      {section.groups.map((group) => (
+        <div class="concept-group">
+          <h3>{taxonomyHeading(group.label, locale)}</h3>
+          <ul class="concept-list">
+            {group.items.map((slug) => (
+              <li><a href={localizeHref(`/aied/concepts/${slug}/`, locale)}>{conceptMap[slug]}</a></li>
+            ))}
+          </ul>
+        </div>
+      ))}
+    </section>
+  ))}
+</BaseLayout>
+
+<style>
+  .page-intro {
+    line-height: 1.7;
+    color: var(--color);
+    margin-bottom: 1rem;
+  }
+  .page-intro p {
+    margin-bottom: 0.75rem;
+  }
+  .concept-count {
+    color: var(--text-muted, #64748b);
+    font-size: 0.95rem;
+    margin-bottom: 1.5rem;
+  }
+  section {
+    margin-bottom: 2rem;
+  }
+  .strand-blurb {
+    color: var(--text-muted, #64748b);
+    line-height: 1.6;
+    margin: -0.25rem 0 0.5rem;
+    max-width: 70ch;
+  }
+  .concept-group {
+    margin-bottom: 1rem;
+  }
+  .concept-group h3 {
+    font-size: 0.95rem;
+    font-weight: 600;
+    margin-bottom: 0.35rem;
+  }
+  .concept-list {
+    columns: 2;
+    column-gap: 2rem;
+    margin: 0;
+    padding-left: 1.1rem;
+    line-height: 1.6;
+    font-size: 0.95rem;
+  }
+  .concept-list li {
+    break-inside: avoid;
+    margin-bottom: 0.2rem;
+  }
+  @media (max-width: 640px) {
+    .concept-list {
+      columns: 1;
+    }
+  }
+</style>

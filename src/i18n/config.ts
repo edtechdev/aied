@@ -26,7 +26,7 @@ export const LOCALE_CODES = LOCALES.map((l) => l.code);
 export const NON_DEFAULT_LOCALES = LOCALE_CODES.filter((c) => c !== DEFAULT_LOCALE);
 
 /** Routes that exist as real page-level translations today, one route per page. */
-export const TRANSLATED_ROUTES = ['/', '/ai', '/search', '/resources', '/journal', '/faq'] as const;
+export const TRANSLATED_ROUTES = ['/', '/ai', '/search', '/resources', '/journal', '/faq', '/concepts'] as const;
 
 export type Locale = string;
 

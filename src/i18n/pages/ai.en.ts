@@ -91,7 +91,7 @@ const en: AiStrings = {
   ],
   corpusHeading: 'What is in the knowledge base',
   corpusHtml1: `Over a thousand research summaries cover tutoring and AI tutors, assessment and feedback, academic integrity, AI literacy, teacher and faculty development, equity and accessibility, privacy, policy and governance, and learning science topics such as cognitive offloading and learner motivation. Every summary ends with the full citation and a link to the original paper, so your assistant can pass the reference along.`,
-  corpusHtml2: `Three kinds of page answer different questions: concept pages summarize what the research says about one idea and link to the studies behind it, article pages cover one paper at a time, and the FAQs answer practical questions from instructors and administrators. Ask for a concept page when you want an overview, and for the articles behind it when you want the evidence.`,
+  corpusHtml2: `Three kinds of page answer different questions: <a href="/aied/concepts/">concept pages</a> summarize what the research says about one idea and link to the studies behind it, article pages cover one paper at a time, and the FAQs answer practical questions from instructors and administrators. Ask for a concept page when you want an overview, and for the articles behind it when you want the evidence.`,
   answeredHeading: 'Questions that are already answered',
   answeredIntro: 'Many of the questions people ask an AI first have already been answered here by hand, with the research attached:',
   answeredLinks: [
