@@ -4,6 +4,7 @@ created: "2026-09-23T08:35:38-04:00"
 updated: "2026-10-23T09:49:58-04:00"
 connected_faqs: [redesign-assessment-ai-era, ai-feedback-at-scale]
 type: concept
+connected_resources: [code-viva]
 foundations: [academic-integrity, critical-thinking]
 pedagogy: [scaffolding, metacognition]
 technology: [generative-ai, llm, speech-and-voice-technologies]
