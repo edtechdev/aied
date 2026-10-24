@@ -1,7 +1,7 @@
 ---
 title: AI Feedback Quality
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-23T09:42:00-04:00"
+updated: '2026-10-24T08:05:00-04:00'
 connected_faqs: [ai-save-instructor-time, ai-feedback-at-scale, checking-whether-educational-ai-works]
 type: concept
 foundations: [ai-literacy]
@@ -103,6 +103,7 @@ AI feedback quality spans multiple dimensions captured in the knowledge base:
 - **Coverage is not alignment.** Six LLMs under three prompting strategies each produced most of the seven feedback focus types, yet their distribution over those types diverged from teachers' (best Jensen-Shannon divergence 0.134, worst 0.270), so breadth of coverage and distributional fit are separate quality signals ([[llm-feedback-focus-adaptivity-student-writing-2026|Almousa et al., 2026]]).
 - **Field-level coverage is uneven.** A synthesis of 68 studies of AI-generated feedback finds the evidence clusters on whether feedback is accurate and grounded (47 studies) and whether it helps the learner (58), while rubric and task alignment — whether the feedback responds to the task's own requirements — appears in only 19 ([[evidence-grounded-framework-ai-generated-educational-feedback-2026|Yang (2026)]]).
 - **Criterion-level ratings diverge within one message set.** Six reviewers scoring 157 messages rated practice exercises strongest (95.5%) while diagnostic specificity (41.1%) and clarity and tone (33.4%) lagged, and instructors rated actionability more generously than other reviewers (84.5% vs 59.9%) ([[llm-feedback-handwritten-mathematics-exam-performance-2026|Vanhoyweghen et al. (2026)]]).
+- **The reader's side of the same dimensions.** Twenty-four university writing professors described output that was complicated, overly long, vague or impractical, and two found it praising strengths unless told to look for weaknesses first ([[wu-lam-genai-writing-assessment-professors-2026|Wu and Lam (2026)]]). Seven said reaching acceptable feedback took repeated prompting, which spends the time the workload gain was meant to save.
 
 ### Connection to broader concepts
 
@@ -130,6 +131,7 @@ The corpus behind those quality claims is thinner than the claims suggest. Acros
 
 ## Connected Articles
 
+- [[wu-lam-genai-writing-assessment-professors-2026]] — Professors on AI feedback quality: flattering by default, long, vague, and slow to refine
 - [[genai-l2-written-feedback-scoping-review-2026]] — Only 27 of 51 studies reported their prompts; 16 experiments lacked a control group
 - [[ai-feedback-violin-intonation-2026]] — AI feedback on intonation checked against 2,208 machine-measured pitch deviations (Aksoy 2026)
 - [[wraft-automated-writing-evaluation-argumentative-2026]] — WrAFT: a Modularized Automated Writing Evaluation System for Argumentative Essays

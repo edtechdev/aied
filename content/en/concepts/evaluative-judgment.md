@@ -1,7 +1,7 @@
 ---
 title: Evaluative Judgment
 created: "2026-09-10T05:58:00-04:00"
-updated: "2026-10-21T10:45:00-04:00"
+updated: '2026-10-24T08:06:00-04:00'
 type: concept
 foundations: [academic-integrity, critical-thinking]
 pedagogy: [metacognition, self-regulated-learning]
@@ -75,6 +75,8 @@ The knowledge base's [[collaborative-learning|collaborative]] and assessment lit
 
 The clearest risk is displacement, and it is evidenced in the feedback literature rather than only theorized. When the tool supplies the rubric, the feedback, and the monitoring, the learner's [[metacognition|metacognitive]] and evaluative practice is displaced rather than supported — the assessment becomes a performance of judgment the student never exercised, the same failure mode as [[cognitive-offloading|cognitive offloading]] expressed in the assessment register. Direct GenAI feedback in the multisite experiment pushed toward exactly this passive outsourcing. Grading pressure compounds it: where self-assessment or reflection on AI use is itself graded, students can produce the reflection the rubric wants rather than the reasoning, so genuine judgment requires making the exercise consequential — a decision that shows up in later work, an oral explanation, or a documented rationale that is itself examined.
 
+Displacement has a teacher-side version, and it is what turned several writing professors against outsourcing marking entirely. Five of the twenty-four said marking is how a teacher comes to understand their learners, so delegating it costs that understanding rather than only the hours ([[wu-lam-genai-writing-assessment-professors-2026|Wu and Lam (2026)]]). Eighteen of the twenty-four treated human judgment as what catches the tool's errors and owns the accountability for them.
+
 ## Implications for practice
 
 - **State it as an outcome.** If appraising work quality — including AI output — is what matters, write it into the [[learning-gains|learning outcomes]] and assess it, rather than leaving it as a by-product of the task.
@@ -107,6 +109,7 @@ The clearest risk is displacement, and it is evidenced in the feedback literatur
 - [[higher-ed]]
 
 ## Connected Articles
+- [[wu-lam-genai-writing-assessment-professors-2026]] — Why writing professors refuse to outsource marking: it is how they learn their students
 - [[chatgpt-peer-feedback-evaluative-judgement-2025]] — ChatGPT versus peer feedback as training grounds for different dimensions of evaluative judgment
 - [[ai-internal-feedback-evaluative-judgments]] — How AI-supported internal feedback develops evaluative judgments, and where reasoning stays thin
 - [[genai-feedback-design-multisite-experiment]] — Hybrid self/peer/AI feedback preserves agency and judgment better than direct AI feedback

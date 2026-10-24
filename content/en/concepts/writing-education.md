@@ -2,7 +2,7 @@
 connected_resources: [clarity, writing-rhetoric-studies-in-the-loop]
 title: Writing
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-23T09:42:00-04:00"
+updated: '2026-10-24T08:07:00-04:00'
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading]
 pedagogy: [metacognition]
@@ -55,6 +55,7 @@ Agreement is a property of the corpus, not the scorer: [[automated-scoring-marke
 - **Academic integrity:** Survey evidence complicates the policing frame directly: among 504 sociology students ([[student-genai-use-views-writing|Kuznetsov et al., 2026]]), 65 percent had used GenAI for coursework but only 3 percent to generate assignment text and 2 percent to produce a full draft, while fear of an academic offense was the second most common concern (28 percent) and roughly a quarter reported no guidance at all (19 percent) or guidance they found unclear. On this evidence the writing-education problem is ambiguity about permitted use, not widespread text generation. [[nash-preservice-teachers-classroom-ai-policies-2026|Nash and Burriss (2026)]] show how such ambiguity is produced at the classroom level. Coding 27 [[teacher-education|preservice]] English language arts teachers' own classroom [[educational-policy-ai|AI policies]], they found that 26 of 27 permitted some [[generative-ai|generative AI]] use but overwhelmingly on teacher-specified terms, with 22 of 27 allowing AI for ideation and brainstorming while disallowing AI composition of sentences, paragraphs or papers. Limits were rarely operationalized — one participant allowed AI "to get your thinking started" and declared "this is where the line should be drawn" without saying where — and many policies simultaneously prohibited submitting AI text and held students responsible for the AI text they submitted, a contradiction that leaves students unable to comply. Twenty-two of the 27 policies were silent on reading altogether, ceding AI-supported comprehension work to no guidance at all.
 
 - **Policy diverges across five sites.** Interviewing 20 undergraduates, Kim and colleagues locate five distinct sites of AI policy — faculty intention, formal policy, student interpretation, self-policy, and practice — and catalogue 23 rationalizations, mostly ad hoc and post hoc, explaining why rules at one site rarely shape behavior at another ([[student-rationalization-ai-writing|Kim et al. (2026)]]).
+- **Grading is where the guidance runs out.** In interviews with 24 university writing professors across the Chinese Mainland, Hong Kong, Macau and Singapore, six reported no institutional rule on whether they may grade student work with AI at all, and the consequence was colleagues who refuse on principle sitting beside colleagues who already do it ([[wu-lam-genai-writing-assessment-professors-2026|Wu and Lam (2026)]]).
 - **Compliance can mask absent inquiry (academic erasure).** From 49 educator accounts, [[academic-erasure-complexity-ai-writing-2026|Nwagboso & Atuba (2026)]] name *academic erasure* — fluency that satisfies every surface criterion while bypassing the epistemic labor of argument — and trace its driver to assessment culture, where rubrics rewarding polish make AI use the rational response rather than misconduct.
 
 ### Writing as thinking
@@ -141,6 +142,7 @@ Writing education connects to [[automated-essay-scoring]], [[ai-feedback-quality
 
 ## Connected Articles
 
+- [[wu-lam-genai-writing-assessment-professors-2026]] — 24 writing professors on grading with AI: benefits for feedback, drift in scores, no institutional rule
 - [[genai-l2-written-feedback-scoping-review-2026]] — 51-study scoping review: prompt transparency gaps and why AI plus teacher beats either alone
 - [[nash-preservice-teachers-classroom-ai-policies-2026]] — Preservice teachers' classroom AI policies: tensions and entanglements
 - [[human-in-the-loop-ai-scoring-national-assessment-2026]] — A Human-in-the-Loop Framework for AI-Assisted Scoring in Large-Scale Writing Assessment
