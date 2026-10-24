@@ -1,7 +1,7 @@
 ---
 title: Human AI Collaboration
 created: "2026-05-29T10:44:35-04:00"
-updated: "2026-10-16T08:47:09-04:00"
+updated: "2026-10-23T22:48:50-04:00"
 type: concept
 confidence: medium
 foundations: [human-ai-collaboration, ai-literacy]
@@ -79,6 +79,8 @@ This makes human-AI collaboration a *pedagogical* construct as much as a technic
 
 - **Entanglement types differ in what they demand of the student, and that is why some stay rare.** [[sun-student-genai-entanglement-literacy-demands-2026|Sun, Dohn and Rehm (2026)]] classify 102 higher-education studies by how epistemic work is shared between student and system (Assistant, Enabler, Synthesizer, Generator, Reimaginator) and find the two forms that keep competence attributable to the individual student accounting for 42.16% of the corpus each, while the forms that distribute authorship remain marginal. Their explanation is institutional rather than technical: the rare types ask students to take epistemic responsibility for outputs they did not produce while still being assessed as individual authors, and it is that contradiction — not the division of labor itself — that keeps them out of practice. The design response is to make the distribution of epistemic work explicit, sequence activities across the spectrum, and build reflection on how responsibility was shared.
 
+- **Guiding, not telling, needs its own criterion for judging an agent.** A design case that set out to mirror teacher facilitation found that a knowledge agent bounded to a curated base could be judged on accuracy, while an agent meant to lead students toward their own answers could not ([[humburg-scistory-ai-supported-inquiry-science-learning-games-2025|Humburg et al., 2025]]).
+
 ### Connections
 
 Human-AI collaboration connects to [[human-in-the-loop-ai]] (oversight), [[agentic-ai]] (autonomy), [[teacher-role]] (teachers' changing work), [[scaffolding]] and [[metacognition]] (how collaboration supports learning), and [[cognitive-offloading|Over-Reliance]] (the failure mode when collaboration becomes substitution). It is a core theme across [[ai-literacy]], [[self-regulated-learning]], and [[student-experience]].
@@ -106,6 +108,7 @@ Human-AI collaboration connects to [[human-in-the-loop-ai]] (oversight), [[agent
 - [[agentic-ai]] — autonomy
 - [[productive-failure]]
 ## Connected Articles
+- [[humburg-scistory-ai-supported-inquiry-science-learning-games-2025]] — Three agent roles in a narrative science game, and which evaluation criterion each needs (Humburg et al. 2025)
 - [[bjet-many-hands-make-light-work-2026]] — Paired work with a GenAI multi-agent system won the design project while critical-thinking awareness rose only for those working alone (Chu et al. 2026)
 - [[tuo-armada-multi-agent-debate-overreliance-2026]] — Multi-agent debate with the preferred answer withheld cut deferral to incorrect AI advice, but not correctively
 - [[dang-human-ai-collaboration-competency-2026]] — HACC: collaboration competency as a dynamic configuration of domain, AI and metacognitive competency, with learner agency emergent (Dang et al. 2026)
