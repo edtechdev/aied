@@ -73,7 +73,7 @@ export async function GET() {
   );
 
   return rss({
-    title: `${siteConfig.name} — AIEd KB Weekly Update`,
+    title: `${siteConfig.name} — AIEd Research Weekly Update`,
     description: `The weekly newsletter of ${siteConfig.name}: what new research means for instructors, developers, researchers, and administrators.`,
     site: siteConfig.url,
     items,
