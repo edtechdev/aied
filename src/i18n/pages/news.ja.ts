@@ -18,6 +18,8 @@ const ja: NewsStrings = {
     'このニュースレターは2つのRSSフィードで届きます。<a href="/aied/news/rss.xml">ニュースレターのフィード</a>は各号だけを週1件掲載します。<a href="/aied/rss.xml">ナレッジベースのフィード</a>は新しい記事の要約が追加されるたびに掲載し、号の素材と同じ内容をはるかに高い頻度で届けます。',
   emailHtml:
     '各号をメールで受け取るには、ニュースレターのフィードを<a href="https://blogtrottr.com/">Blogtrottr</a>に貼り付けてください。選んだスケジュールでフィードをメールボックスに届ける無料の第三者サービスで、そのメッセージには広告が含まれます。',
+  linkedinHtml:
+    '<a href="https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7519570283561852928">LinkedIn</a> でもこのニュースレターをフォローでき、各号は LinkedIn ニュースレターとしてあなたのフィードに配信されます。',
   empty: 'まだ号は公開されていません。',
   allIssues: 'すべての号',
   otherIssuesAria: 'ほかの号',

@@ -18,6 +18,8 @@ const fi: NewsStrings = {
     'Sitä välittää kaksi RSS-syötettä. <a href="/aied/news/rss.xml">Uutiskirjesyöte</a> sisältää vain numerot, yhden viikossa. <a href="/aied/rss.xml">Tietopankin syöte</a> sisältää jokaisen uuden artikkelitiivistelmän heti kun se lisätään, eli samaa aineistoa, josta numerot kootaan, paljon tiheämpään tahtiin.',
   emailHtml:
     'Saadaksesi jokaisen numeron sähköpostitse liitä uutiskirjesyöte <a href="https://blogtrottr.com/">Blogtrottr</a>-palveluun. Se on ilmainen kolmannen osapuolen palvelu, joka lähettää syötteen sähköpostiisi valitsemallasi aikataululla, ja sen viestit sisältävät mainoksia.',
+  linkedinHtml:
+    'Voit seurata sitä myös <a href="https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7519570283561852928">LinkedIn</a>issa, jossa jokainen numero julkaistaan LinkedIn-uutiskirjeenä syötteessäsi.',
   empty: 'Numeroita ei ole vielä julkaistu.',
   allIssues: 'Kaikki numerot',
   otherIssuesAria: 'Muut numerot',

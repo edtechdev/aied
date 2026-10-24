@@ -17,6 +17,8 @@ export interface NewsStrings {
   feedsHtml: string;
   /** How to get the newsletter by email, through a feed-to-email service. */
   emailHtml: string;
+  /** How to follow the newsletter on LinkedIn. May contain inline HTML. */
+  linkedinHtml: string;
   /** Shown when no issue is published. */
   empty: string;
   /** Back-link on an issue page. */
@@ -37,6 +39,8 @@ const cs: NewsStrings = {
     'Přenášejí ho dva RSS kanály. <a href="/aied/news/rss.xml">Kanál newsletteru</a> obsahuje jen čísla, jeden záznam týdně. <a href="/aied/rss.xml">Kanál znalostní báze</a> obsahuje každý nový souhrn článku, jakmile je přidán, což je stejný materiál, z něhož čísla vycházejí, jen mnohem častěji.',
   emailHtml:
     'Chcete-li každé číslo dostávat e-mailem, vložte kanál newsletteru do <a href="https://blogtrottr.com/">Blogtrottr</a>, bezplatné služby třetí strany, která vám kanál posílá do schránky podle vámi zvoleného rozvrhu. Její zprávy obsahují reklamu.',
+  linkedinHtml:
+    'Můžete ho sledovat také na <a href="https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7519570283561852928">LinkedIn</a>, kde každé číslo vychází jako newsletter na LinkedIn ve vašem feedu.',
   empty: 'Zatím nebyla vydána žádná čísla.',
   allIssues: 'Všechna čísla',
   otherIssuesAria: 'Další čísla',

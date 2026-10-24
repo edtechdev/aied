@@ -18,6 +18,8 @@ const vi: NewsStrings = {
     'Hai nguồn cấp RSS mang nội dung này. <a href="/aied/news/rss.xml">Nguồn cấp của bản tin</a> chỉ chứa các số, mỗi tuần một mục. <a href="/aied/rss.xml">Nguồn cấp của cơ sở tri thức</a> chứa mọi tóm tắt bài viết mới ngay khi được thêm vào, tức cùng nguồn tư liệu mà các số được rút ra, với tần suất cao hơn nhiều.',
   emailHtml:
     'Để nhận từng số qua email, hãy dán nguồn cấp của bản tin vào <a href="https://blogtrottr.com/">Blogtrottr</a>, một dịch vụ miễn phí của bên thứ ba gửi nguồn cấp đến hộp thư của bạn theo lịch bạn chọn. Thư của dịch vụ này có quảng cáo.',
+  linkedinHtml:
+    'Bạn cũng có thể theo dõi bản tin trên <a href="https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7519570283561852928">LinkedIn</a>, nơi mỗi số xuất hiện dưới dạng bản tin LinkedIn trên bảng tin của bạn.',
   empty: 'Chưa có số nào được xuất bản.',
   allIssues: 'Tất cả các số',
   otherIssuesAria: 'Các số khác',

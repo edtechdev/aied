@@ -16,6 +16,8 @@ export interface NewsStrings {
   feedsHtml: string;
   /** How to get the newsletter by email, through a feed-to-email service. */
   emailHtml: string;
+  /** How to follow the newsletter on LinkedIn. May contain inline HTML. */
+  linkedinHtml: string;
   /** Shown when no issue is published. */
   empty: string;
   /** Back-link on an issue page. */
@@ -36,6 +38,8 @@ const tr: NewsStrings = {
     'Bülteni iki RSS akışı taşır. <a href="/aied/news/rss.xml">Bülten akışı</a> yalnızca sayıları içerir, haftada bir kayıt. <a href="/aied/rss.xml">Bilgi tabanı akışı</a> eklenen her yeni makale özetini içerir; bu, sayıların derlendiği malzemenin aynısıdır, çok daha yüksek bir hızda.',
   emailHtml:
     'Her sayıyı e-posta ile almak için bülten akışını <a href="https://blogtrottr.com/">Blogtrottr</a> adresine yapıştırın; bu, seçtiğiniz bir programa göre akışı gelen kutunuza gönderen ücretsiz bir üçüncü taraf hizmetidir. Mesajları reklam içerir.',
+  linkedinHtml:
+    'Bülteni <a href="https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7519570283561852928">LinkedIn</a> üzerinden de takip edebilirsiniz; her sayı akışınızda LinkedIn bülteni olarak yayımlanır.',
   empty: 'Henüz hiç sayı yayımlanmadı.',
   allIssues: 'Tüm sayılar',
   otherIssuesAria: 'Diğer sayılar',

@@ -17,6 +17,8 @@ export interface NewsStrings {
   feedsHtml: string;
   /** How to get the newsletter by email, through a feed-to-email service. */
   emailHtml: string;
+  /** How to follow the newsletter on LinkedIn. May contain inline HTML. */
+  linkedinHtml: string;
   /** Shown when no issue is published. */
   empty: string;
   /** Back-link on an issue page. */
@@ -37,6 +39,8 @@ const hu: NewsStrings = {
     'Két RSS-hírcsatorna hordozza. A <a href="/aied/news/rss.xml">hírlevél-hírcsatorna</a> csak a kiadásokat tartalmazza, hetente egy bejegyzést. A <a href="/aied/rss.xml">tudásbázis-hírcsatorna</a> minden új cikkösszefoglalót tartalmaz, amint bekerül, ez ugyanaz az anyag, amelyből a kiadások készülnek, csak sokkal sűrűbb ütemben.',
   emailHtml:
     'Az egyes kiadások e-mailben történő megkapásához illessze be a hírlevél-hírcsatornát a <a href="https://blogtrottr.com/">Blogtrottr</a> szolgáltatásba, amely ingyenes, harmadik fél által üzemeltetett, és a választott ütemezés szerint küldi a hírcsatornát a postaládájába. Az üzenetei hirdetéseket tartalmaznak.',
+  linkedinHtml:
+    'A hírlevelet a <a href="https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7519570283561852928">LinkedIn</a> oldalon is követheti, ahol minden kiadás LinkedIn-hírlevélként jelenik meg a hírfolyamában.',
   empty: 'Még nem jelent meg kiadás.',
   allIssues: 'Összes kiadás',
   otherIssuesAria: 'További kiadások',
