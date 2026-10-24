@@ -1,0 +1,15 @@
+---
+// Localized concept index: one route per locale other than the default.
+// Copy comes from src/i18n/pages/concepts.<locale>.ts and falls back to English
+// (with the translation notice) where that module does not exist yet.
+import { NON_DEFAULT_LOCALES } from '../../i18n/config';
+import ConceptsPage from '../../components/pages/ConceptsPage.astro';
+
+export function getStaticPaths() {
+  return NON_DEFAULT_LOCALES.map((locale) => ({ params: { locale } }));
+}
+
+const { locale } = Astro.params;
+---
+
+<ConceptsPage locale={locale!} />

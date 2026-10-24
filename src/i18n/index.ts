@@ -17,6 +17,7 @@ import type { SearchStrings } from './pages/search.en';
 import type { ResourcesStrings } from './pages/resources.en';
 import type { JournalStrings } from './pages/journal.en';
 import type { FaqStrings } from './pages/faq.en';
+import type { ConceptsStrings } from './pages/concepts.en';
 import type { NotFoundStrings } from './pages/notFound.en';
 import type { UiStrings } from './ui.en';
 
@@ -27,13 +28,14 @@ export interface PageStrings {
   resources: ResourcesStrings;
   journal: JournalStrings;
   faq: FaqStrings;
+  concepts: ConceptsStrings;
   notFound: NotFoundStrings;
   ui: UiStrings;
 }
 
 export type PageKey = Exclude<keyof PageStrings, 'ui'>;
 
-const PAGE_KEYS: PageKey[] = ['home', 'ai', 'search', 'resources', 'journal', 'faq', 'notFound'];
+const PAGE_KEYS: PageKey[] = ['home', 'ai', 'search', 'resources', 'journal', 'faq', 'concepts', 'notFound'];
 
 /** `./pages/home.es.ts` -> kind 'home', locale 'es'. Kinds may be camelCase
  *  (`notFound.en.ts`), which is why the class includes uppercase: the kind has to
