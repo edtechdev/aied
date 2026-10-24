@@ -130,7 +130,7 @@ def main():
     locale = sys.argv[1] if len(sys.argv) > 1 else 'ru'
     only = sys.argv[2:] if len(sys.argv) > 2 else None
     pairs = [(f'{ROOT}/src/i18n/ui.en.ts', f'{ROOT}/src/i18n/ui.{locale}.ts')]
-    for kind in ('home', 'ai', 'search', 'resources', 'journal', 'faq', 'concepts', 'notFound'):
+    for kind in ('home', 'ai', 'search', 'resources', 'journal', 'faq', 'concepts', 'news', 'notFound'):
         pairs.append((f'{ROOT}/src/i18n/pages/{kind}.en.ts', f'{ROOT}/src/i18n/pages/{kind}.{locale}.ts'))
     if only:
         pairs = [p for p in pairs if os.path.basename(p[0]).split('.')[0] in only]

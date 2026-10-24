@@ -1,0 +1,128 @@
+---
+// Newsletter archive, rendered for any locale from src/i18n/pages/news.<locale>.ts.
+// The issues are English-only, so the listing links out to their English URLs and
+// only the surrounding copy and the dates follow the reader's language.
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import PageTypeIcon from '../PageTypeIcon.astro';
+import TranslationNotice from '../TranslationNotice.astro';
+import { rssIcon } from '../../lib/pageTypeIcons';
+import { strings } from '../../i18n';
+import { localizeHtml } from '../../i18n/config';
+import siteConfig from '../../config/siteConfig';
+
+const { locale } = Astro.props;
+const s = strings(locale).news;
+const ui = strings(locale).ui;
+
+const issues = (await getCollection('newsletters'))
+  .filter((n) => n.data.status !== 'draft')
+  .sort((a, b) => b.data.created.localeCompare(a.data.created));
+
+// Months and the numeral format follow the page's language, not the build machine's.
+const dateLocale = ({ zh: 'zh-CN', pt: 'pt-BR' } as Record<string, string>)[locale] || locale;
+const formatDate = (iso: string): string => {
+  const [y, m, d] = iso.split('T')[0].split('-').map(Number);
+  return new Date(y, m - 1, d).toLocaleDateString(dateLocale, {
+    year: 'numeric',
+    month: 'long',
+    day: 'numeric',
+  });
+};
+
+const base = siteConfig.basePath;
+const newsletterFeed = `${base}/news/rss.xml`;
+const siteFeed = `${base}/rss.xml`;
+
+// The feed links carry the RSS mark. The copy module holds the anchors and their
+// labels, so the icon is inserted after each opening tag rather than written into
+// every translation.
+const withIcon = (html: string): string =>
+  html.replace(new RegExp(`(<a href="${newsletterFeed}">|<a href="${siteFeed}">)`, 'g'), `$1${rssIcon(14)}`);
+// The feeds themselves are published once, in English, at fixed URLs: only the
+// knowledge base link in the intro moves into the reader's locale.
+const introHtml = localizeHtml(s.introHtml, locale);
+const feedsHtml = withIcon(s.feedsHtml);
+---
+
+<BaseLayout title={s.title} description={s.description} locale={locale}>
+  <TranslationNotice locale={locale} html={ui.translationNoticeHtml} />
+  <h1><PageTypeIcon kind="newsletter" size={32} />{s.title}</h1>
+
+  <p class="news-intro" set:html={introHtml} />
+  <p class="news-intro" set:html={feedsHtml} />
+
+  {issues.length === 0 && <p class="news-empty">{s.empty}</p>}
+
+  {issues.length > 0 && (
+    <div class="news-list">
+      {issues.map((issue) => (
+        <div class="news-entry">
+          <a href={`${base}/news/${issue.id.replace('.md', '')}/`} class="news-issue">
+            <span class="news-issue-head">
+              <span class="news-issue-title">
+                <PageTypeIcon kind="newsletter" size={16} />
+                {issue.data.title}
+              </span>
+              <span class="news-issue-date">{formatDate(issue.data.created)}</span>
+            </span>
+            <span class="news-issue-summary" set:html={issue.data.summary} />
+          </a>
+        </div>
+      ))}
+    </div>
+  )}
+</BaseLayout>
+
+<style>
+  .news-intro {
+    line-height: 1.7;
+    margin-bottom: 1rem;
+    max-width: 46rem;
+  }
+  .news-empty {
+    color: var(--muted-color);
+  }
+  .news-list {
+    margin: 1.75rem 0 0;
+  }
+  /* An issue reads like a journal entry: a line with the accent bar on the left,
+     not a boxed card. The summary is the only thing a journal row does not have,
+     so it sits under the title in muted text. */
+  .news-entry {
+    border-inline-start: 2px solid var(--primary);
+    margin: 0.3rem 0;
+    padding-block: 0.4rem;
+    padding-inline: 1.2rem 0;
+  }
+  .news-issue {
+    display: block;
+    text-decoration: none;
+    color: inherit;
+  }
+  .news-issue:hover .news-issue-title,
+  .news-issue:focus-visible .news-issue-title {
+    text-decoration: underline;
+  }
+  .news-issue-head {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: 0.6rem;
+  }
+  .news-issue-title {
+    font-weight: 600;
+    color: var(--primary);
+  }
+  .news-issue-date {
+    color: var(--muted-color);
+    font-size: 0.9rem;
+  }
+  .news-issue-summary {
+    display: block;
+    margin-top: 0.2rem;
+    line-height: 1.55;
+    color: var(--muted-color);
+    font-size: 0.95rem;
+  }
+</style>

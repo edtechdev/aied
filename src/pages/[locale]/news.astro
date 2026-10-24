@@ -1,0 +1,16 @@
+---
+// Localized newsletter archive: one route per locale other than the default.
+// Copy comes from src/i18n/pages/news.<locale>.ts and falls back to English (with
+// the translation notice) where that module does not exist. The issues themselves
+// stay English, so every entry keeps its /news/<date>/ URL.
+import { NON_DEFAULT_LOCALES } from '../../i18n/config';
+import NewsPage from '../../components/pages/NewsPage.astro';
+
+export function getStaticPaths() {
+  return NON_DEFAULT_LOCALES.map((locale) => ({ params: { locale } }));
+}
+
+const { locale } = Astro.params;
+---
+
+<NewsPage locale={locale!} />
