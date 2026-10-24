@@ -1,7 +1,7 @@
 ---
 title: Teacher AI Competency
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-10-20T09:40:00-04:00"
+updated: "2026-10-24T09:56:38-04:00"
 connected_faqs: [faculty-ai-competencies, addressing-common-misconceptions-ai-education, faculty-development-ai]
 type: concept
 foundations: [ai-literacy, educational-development, teacher-role]
@@ -79,6 +79,7 @@ The knowledge base's PD literature identifies effective approaches:
 - **Inquiry and authentic practice:** [[quest-ai-inquiry-preservice-teachers|AI-supported inquiry models]] build AI literacy and authentic performance in pre-service teachers.
 - **Context-specific readiness:** [[sangwa-epiq-ai-faculty-readiness-2026|The EPIQ-AI readiness framework]] emphasizes that faculty readiness is a sociotechnical issue requiring alignment of faculty capacity, [[governance]], and quality assurance.
 - **Support must be differentiated by experience and AI proficiency.** [[choi-teacher-ai-interaction-lesson-design-2026|Choi et al. (2026)]] found that how teachers actually interact with AI in lesson design depends on the *interplay* of teaching experience and AI proficiency, not either alone. Experienced teachers with high AI proficiency critically adapt AI output to context (re-prompting, elaboration), whereas novices — even technically fluent ones — tend to accept AI responses directly and rarely consider students and context. This argues for profiling-based PD: response-evaluation checklists and prompt templates for novices, and hands-on skill-building for experienced teachers with lower AI proficiency.
+- **The time benefit itself follows experience and confidence, not only support design.** In [[roy-aila-lesson-planning-teacher-choices-2026|Roy et al.'s (2026)]] trial of an AI lesson assistant, the workload reduction was larger for teachers with lower subject-knowledge confidence, lower pedagogical knowledge, less time in the profession, or higher confidence with technology. Proficiency and confidence are therefore part of the intervention's effect, not only part of its take-up.
 
 
 Belief configuration is a second profiling axis: among 40,680 teachers in TALIS 2024, the same non-use status masked opposite barriers — 83.3% of the Indifferent profile cited pedagogical reservations while 66.2% of Measured Endorsement cited insufficient knowledge and skills ([[teachers-ai-belief-profiles-talis-2024-2026|Fang & Jin (2026)]]). AI-related professional learning tracked profile membership more consistently than age or attainment.
@@ -143,6 +144,8 @@ The instrument landscape itself has since been reviewed. [[assessing-teachers-ai
 - [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
 
 ## Connected Articles
+
+- [[roy-aila-lesson-planning-teacher-choices-2026]] — Which teachers gained planning time: lower subject-knowledge confidence, lower pedagogical knowledge, newer to the profession or high technology confidence
 - [[ai-misconceptions-indonesian-k12-teachers-2026]] — Teachers accept AI while misunderstanding how it works (Aji et al. 2026)
 - [[manto-ai-integration-mathematics-education-systematic-review-2026]] — Teacher readiness and technological–pedagogical integration as the most frequently reported challenge across 54 mathematics-education studies (Manto et al. 2026)
 - [[multimodal-assessment-literacy-l2-teachers-genai-2026]] — Multimodal assessment literacy: a year-long program where knowledge and competence moved and values did not

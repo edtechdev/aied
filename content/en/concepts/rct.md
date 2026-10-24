@@ -1,7 +1,7 @@
 ---
 title: RCT
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-16T08:47:09-04:00"
+updated: "2026-10-24T09:56:38-04:00"
 type: concept
 foundations: [ai-education]
 technology: [generative-ai]
@@ -36,6 +36,7 @@ Randomization is what distinguishes an RCT from other designs: by randomly assig
 - **A trial designed for equivalence, not difference.** [[studentbench-ai-human-tutoring-gre-2026|Northcutt et al. (2026)]] randomized 2,383 adults to AI tutoring, live human tutoring, or a video control, wrote new GRE items with former ETS and Kaplan test developers to keep published-test contamination out, counterbalanced the two forms, and tested equivalence with two one-sided tests against ±0.25 SD rather than a difference - the design choices that make "no significant difference" an interpretable result.
 
 - **Group randomization, low uptake, and what an intent-to-treat estimate then means.** [[liu-course-integrated-ai-tutoring-rct-2026|Liu et al. (2026)]] randomized 2,379 undergraduates across 13 blocks by assigning *instructors* rather than students, so every student in a section inherited that instructor's condition — the design that makes a multi-section deployment trial feasible, and the one that creates the inference problems the study then documents. Only about 15% of students in treated sections ever used the tool, so the reported effects estimate *offering* access rather than using it; the authors read the intervention as the broader AI use its introduction induced, and treat individual sessions as a separate question. Because treatment was assigned at the instructor level, inference rests on 34 clusters — a setting in which cluster-robust standard errors overstate precision — so the paper reports randomization inference alongside them and finds its conclusions robust. The two headline effects, a 0.37 SD fall in final grades in the exact-match sample and a 0.90 SD fall in recorded platform participation in both samples, are section-level consequences that a per-student randomization of the same tool could not have isolated without contamination between treated and control classmates.
+- **A voluntary school tool can still move workload on a 7% dose.** [[roy-aila-lesson-planning-teacher-choices-2026|Roy et al. (2026)]] randomized 464 teachers across 108 English primary schools at school level. Preparation time came out at 0.76 of the comparison group's (95% CI 0.64 to 0.89) even though the tool covered 7% of lessons and use fell across the ten weeks, so the estimate bounds what offering it did for workload, not what full adoption would do.
 - **Take-up bounds what a trial can test, and engagement support is not dosage.** [[access-not-enough-ai-tutoring-2026|Robinson et al. (2026)]] ran two reading-platform RCTs in which only 60.7% and 53.3% of control students ever used the platform; an engagement tutor raised stories read by 71–80% yet produced no achievement gain, consistent with 2–5 minutes per week reached.
 - **Scale that converts nulls into evidence.** [[mata-sustaining-ai-enabled-student-support-2026|Mata et al. (2026)]] followed 8,708 students across eight semesters with power to detect effects of 0.05 SD and found large, immediate movement on dated binary tasks — 34 percentage points more registration by August 16 after a single reminder — while academic performance, persistence, and graduation showed no detectable effect. The scale is the design lesson: at this N the academic nulls are precise results rather than failures to detect, which is what licenses the conclusion that a communication tool moves what it can address and not cumulative learning outcomes.
 - **A null average can mask offsetting heterogeneity.** A pre-registered RCT randomizing 538 teachers across 24 Turkish schools at school-department level found achievement fell 0.129 SD among below-median teachers while rising 0.054 among above-median ones, and motivation fell 0.111 SD, with a ceiling-compressed exam (control mean 89.2/100) limiting power.([[genai-can-harm-teaching-rct-2026|Sungu, Lira & Duckworth (2026)]])
@@ -61,6 +62,8 @@ For the fuller treatment of experimental design in AI in education — including
 - [[student-support-and-success]] — the design behind the strongest student-support evidence
 
 ## Connected Articles
+
+- [[roy-aila-lesson-planning-teacher-choices-2026]] — Lesson planning time fell to 0.76 of the comparison group's across 108 primary schools, on a 7% dose of tool use
 
 - [[generative-ai-education-productivity-gaps]] — Does generative AI narrow education-based productivity gaps? Evidence from a randomized experiment
 - [[genai-can-harm-teaching-rct-2026]] — Generative AI can harm teaching: an RCT
