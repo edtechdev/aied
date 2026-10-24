@@ -2104,8 +2104,8 @@ concepts:
     - writing quality
 sections:
 - heading: Foundations of AI in education
-  blurb: The umbrella view of the field itself — what AI in education is, how it evolved, and the cross-cutting themes (AI
-    literacy, human–AI collaboration, agency) that shape every other strand.
+  blurb: 'The umbrella view of the field itself: what AI in education is, how it evolved, and the cross-cutting themes (AI
+    literacy, human-AI collaboration, agency) that shape every other strand.'
   groups:
   - label: Essentials
     items:
@@ -2143,8 +2143,8 @@ sections:
     - samr-model
     - tpack
 - heading: Learning and instruction
-  blurb: How AI supports teaching and learning — the pedagogies, learning theories, and learner-facing processes AI operates
-    within.
+  blurb: How AI supports teaching and learning, through the pedagogies, learning theories, and learner-facing processes AI
+    operates within.
   groups:
   - label: Core pedagogies
     items:
@@ -2255,7 +2255,7 @@ sections:
     - open-source
     - edtech-platform
 - heading: AI in the disciplines
-  blurb: How AI is applied across academic subjects and educational levels — the field\u2019s subject-area coverage.
+  blurb: 'How AI is applied across academic subjects and educational levels: the field\u2019s subject-area coverage.'
   groups:
   - label: Subject areas
     items:
