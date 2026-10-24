@@ -2,7 +2,7 @@
 connected_resources: [process-feedback]
 title: Self-Regulated Learning
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-10-23T09:20:00-04:00"
+updated: "2026-10-23T22:31:18-04:00"
 type: concept
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
 technology: [generative-ai, llm, personalized-learning]
@@ -166,6 +166,7 @@ Which support is in play decides which mediator carries the association: among 3
 - **Embedding-based SRL classifiers cross languages within a domain, but not across domains.** A study of 26 students (chemistry and formal logic; think-aloud protocols coded with the Winne-and-Hadwin model) found embedding-based models (text-embedding-3-small) trained on English classify German SRL at ~0.8 AUC with ~0.1 degradation — except enacting (~0.7). Cross-domain transfer fails: chemistry-to-logic drops to ~0.6, enacting to chance (~0.5) — the domain wall, not language, binds.
 - **Three failure modes explain where transfer breaks.** (1) Concept resolution at everyday rather than domain meaning — "cancel" vs. chemistry "kürzen" — breaks enact classification. (2) Anthropomorphization — German students unfamiliar with a heavily scaffolded tutor addressed it as a person, producing out-of-distribution utterances; transfer was better on less-scaffolded platforms. (3) Hint-reading vs. plan-formulation ambiguity — models can't tell reading a metacognitive hint from planning without log data. Realizing errors is robust across every condition — noticing you're wrong is context-independent. Fixes: expert dictionaries or fine-tuning for domain terms; log data for hints. ([[borchers-srl-language-generalization-2025]])
 - **Shallow cues over-attribute regulation in curriculum mapping.** Given assessment descriptions, GPT-o3-mini read mentions of deadlines or scheduling as evidence of a self-regulatory skill; Self-Management was over-identified this way, its agreement with expert weights ranging from 0.53 to -0.03 ([[genai-curriculum-analytics-mapping-higher-ed-2026|Jayalath et al., 2026]]).
+- **Automated SRL labels hold for enacting and fail for planning.** In a fourth-grade mixed-reality science class, a pipeline fusing gaze, gesture, speech and game logs labeled 75 human-checked segments at 74.67% overall, from 93.3% for enacting and interacting down to 46.7% for planning ([[fonteles-embodied-learning-human-in-the-loop-multimodal-2026|Fonteles et al., 2026]]).
 
 ## Connected Concepts
 
@@ -192,6 +193,7 @@ Which support is in play decides which mediator carries the association: among 3
 - [[cognitive-surrender]]
 
 ## Connected Articles
+- [[fonteles-embodied-learning-human-in-the-loop-multimodal-2026]] — Per-category accuracy of LLM-segmented SRL in an embodied classroom (Fonteles et al. 2026)
 - [[llm-math-homework-offloading-traces-2026]] — What the submission does not show: complexifying cognitive offloading in students’ mathematical work with LLMs (Kontorovich & Wallach 2026)
 - [[genai-curriculum-analytics-mapping-higher-ed-2026]] — Model over-attribution of self-regulation from shallow cues in curriculum mapping (Jayalath et al. 2026)
 - [[aigc-affordance-student-self-regulation-2026]] — AIGC Affordance and Student Self-Regulation

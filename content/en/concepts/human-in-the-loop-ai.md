@@ -1,7 +1,7 @@
 ---
 title: Human-in-the-Loop
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-10-22T09:11:45-04:00"
+updated: "2026-10-23T22:31:18-04:00"
 connected_faqs: [ai-agents-support-students-instructors, designing-educational-ai-software, ai-feedback-at-scale]
 type: concept
 foundations: [ai-education]
@@ -94,6 +94,7 @@ Human-in-the-loop design has become central to the knowledge base's [[agentic-ai
 - **Question and content generation:** beyond CODE-GEN, HITL guides question generation for assessment and [[scaffolding]] ([[code-gen]], [[llm-difficulty-calibration-programming-exams-2026]]). 
 - **Agentic and multi-agent systems:** as AI becomes more autonomous, HITL oversight is a core [[agentic-ai|design guardrail]] ([[agentic-ai-pedagogical-best-practice-2026]], [[guided-llm-scaffolding-independent-learning]]).
 - **Routing by decision consequence, not model uncertainty (2026).** [[human-in-the-loop-ai-scoring-national-assessment-2026|A 2026 operational study]] of Uruguay's Acredita EB national accreditation test (two editions, roughly 5,000-6,000 candidates each) shows what human-in-the-loop design looks like when it is driven by decision consequences rather than by model uncertainty. A GPT-5 scorer agreed with expert raters on 60-80% of the 15 rubric items but was systematically conservative, producing human-pass/AI-fail discrepancies in 15.3% (2024) and 16.5% (2025) of pass/fail comparisons and almost never the reverse. The framework therefore accepts AI-passing results at face value and routes every AI-failing result that could change a candidate's outcome to expert review — after first skipping candidates whose pass/fail cannot depend on the writing section — cutting responses needing full human scoring by at least 50%. A second 2026 design draws the boundary from the other side: in a multi-agent AI standardized-patient platform ([[ai-standardized-patient-scaffolding-medical-2026|Yang et al.]]), human oversight is reserved for what AI is judged unfit to decide, with faculty and human standardized patients supplying contextual interpretation, remediation and readiness judgments, and the system explicitly not permitted to determine [[medical-education|clinical]] competence autonomously.
+- **Research instrumentation: humans validate labels rather than scores.** Learning-science and computer-science coders judged LLM-generated behavior segments on a synchronized timeline at κ = 0.703, and their disagreements became the study's own error analysis ([[fonteles-embodied-learning-human-in-the-loop-multimodal-2026|Fonteles et al., 2026]]).
 
 ## Synthesis
 
@@ -128,6 +129,7 @@ Human-in-the-loop design is not merely a safety measure—it is a **resource-all
 - [[student-support-and-success]] — human judgment inside an automated support flow
 
 ## Connected Articles
+- [[fonteles-embodied-learning-human-in-the-loop-multimodal-2026]] — Coders validating LLM behavior segments as research instrumentation (Fonteles et al. 2026)
 - [[lee-learner-question-types-ai-education-2026]] — Expert-labeled question classification: humans govern labeling, augmentation, and error analysis (Lee, Atif & Kang 2026)
 - [[ilieva-agentic-genai-higher-education-2026]] — Human supervision and governance as the third layer of agentic GAI course design (Ilieva et al. 2026)
 - [[ko-hughes-vsd-student-centered-its-2026]] — Value-sensitive design of student-centered ITS (learners in the tutoring loop)
