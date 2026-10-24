@@ -11,13 +11,17 @@ import PageTypeIcon from '../PageTypeIcon.astro';
 import TranslationNotice from '../TranslationNotice.astro';
 import { strings } from '../../i18n';
 import { localizeHref, localizeHtml, taxonomyHeading } from '../../i18n/config';
+import { localizeArtifactLinks } from '../../lib/offlineArtifacts';
 import { localizedTitles, localizedTitle } from '../../i18n/localizedTitles';
 import { conceptIndex } from '../../data/conceptIndex';
 
 const { locale } = Astro.props;
 const s = strings(locale).concepts;
 const ui = strings(locale).ui;
-const L = (html: string) => localizeHtml(html, locale);
+// The copies point at /aied/aied.epub and /aied/aied.pdf in the default locale's
+// terms; this swaps in a locale's own edition where one exists and repoints the
+// editions at the repository, which is where they are actually served.
+const L = (html: string) => localizeArtifactLinks(localizeHtml(html, locale), locale);
 
 const concepts = await getCollection('concepts');
 const titles = await localizedTitles(locale);
@@ -58,7 +62,6 @@ const toc = sections.map((section) => ({
 
   <div class="page-intro">
     <p set:html={L(s.introHtml)} />
-    <p set:html={L(s.structureHtml)} />
     <p set:html={L(s.browseHtml)} />
   </div>
 
