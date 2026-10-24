@@ -22,6 +22,7 @@ ai_assist:
     role: drafting
     date: "2026-09-28"
     agent: hermes-agent
+connected_resources: [campus-ai-development]
 reviewed_by: [editor]
 ---
 The Campus AI Framework is a higher-education-native operating model for AI strategy and
