@@ -9,6 +9,7 @@ discipline: [math education, stem education]
 audience: [learners, instructors]
 level: [k 12, higher ed]
 confidence: high
+connected_resources: [teacher-dev]
 reviewed_by: [editor]
 ---
 

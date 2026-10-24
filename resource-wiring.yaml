@@ -228,9 +228,8 @@
   hosts:
   - feedback
   - formative-assessment
-  reason: 'Listed on the concept page(s) shown: a tool whose whole product is AI feedback
-    on student-produced explanations, and which states it is designed for formative
-    assessment rather than grading.'
+  reason: 'Listed on the concept page(s) shown: a tool whose whole product is AI feedback on student-produced
+    explanations, and which states it is designed for formative assessment rather than grading.'
 - resource: ai-infused-assignment-playbook
   reviewed: '2026-10-10'
   hosts:
@@ -243,21 +242,28 @@
   - curriculum-design
   - learning-design
   reason: Listed on the concept page(s) shown.
-
 - resource: learning-design-wiki
   reviewed: '2026-10-24'
   hosts:
   - ai-assisted-educational-research
   - learning-design
   - pedagogical-patterns
-  reason: 'A reference wiki of design principles, elements and patterns that binds each to
-    evidence codes, so the design pages are where a reader meets it; it is also itself an
-    agent-maintained knowledge base, which is the case the AI-assisted research page argues.'
+  reason: A reference wiki of design principles, elements and patterns that binds each to evidence codes,
+    so the design pages are where a reader meets it; it is also itself an agent-maintained knowledge base,
+    which is the case the AI-assisted research page argues.
 - resource: teacher-dev
   reviewed: '2026-10-24'
   hosts:
   - accessibility
+  - chemistry-education
   - edtech-platform
-  reason: 'A non-profit gallery of small free classroom apps, listed where a reader is choosing
-    classroom software and where accessibility is the deciding criterion; it is not a tutoring
-    system or an activity collection, so no pedagogy page hosts it.'
+  - english-education
+  - math-education
+  - physics-education
+  - science-education
+  - stem-education
+  reason: 'A non-profit gallery of 34 free classroom apps, most of them one subject''s tool: figure generators
+    and practice apps for mathematics, chemistry, physics and STEM, a word-building tool for reading and
+    writing, and special education supports. It is listed on the subject pages whose readers would use
+    those apps and on the two pages about choosing software, not on music, vocational or humanities pages,
+    which one app each does not justify.'

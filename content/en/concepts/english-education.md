@@ -10,6 +10,7 @@ ethics: [equity-in-ai-education]
 discipline: [english education, language learning, writing education]
 level: [higher ed, k 12]
 confidence: high
+connected_resources: [teacher-dev]
 reviewed_by: [editor]
 ---
 
