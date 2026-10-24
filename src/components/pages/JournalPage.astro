@@ -82,14 +82,23 @@ const counts = {
 
 const rssHref = localizeHref('/aied/rss.xml', locale);
 const rssHtml = `<a href="${rssHref}" style="color:var(--primary);font-weight:500;text-decoration:none;">${rssIcon(16)}${s.rssLabel}</a>`;
-// The concept count links to /concepts, the one collections index that has a
-// page of its own; the article, FAQ and resource counts stay plain because those
-// numbers already sit above their own listings.
-const conceptsHref = localizeHref('/aied/concepts/', locale);
+// Every count the intro prints is a link to the index that lists those pages, so a
+// reader who wants to browse rather than search can click the number. The article
+// count is the one exception: the journal page IS the article index, so a link to
+// itself would do nothing. Route shapes differ (the FAQ index is /faq/, its entries
+// are /faqs/<slug>/), so they are spelled out rather than derived from BASES.
+const COUNT_HREFS: Record<string, string> = {
+  concepts: '/aied/concepts/',
+  faqs: '/aied/faq/',
+  resources: '/aied/resources/',
+};
 const intro = s.introTemplate
   .replace(/\{(\w+)\}/g, (_m, k: string) => {
     if (k === 'rss') return rssHtml;
-    if (k === 'concepts') return `<a href="${conceptsHref}">${counts.concepts}</a>`;
+    const indexHref = COUNT_HREFS[k];
+    if (indexHref) {
+      return `<a href="${localizeHref(indexHref, locale)}">${(counts as any)[k]}</a>`;
+    }
     return String((counts as any)[k] ?? '');
   });
 ---
