@@ -243,3 +243,21 @@
   - curriculum-design
   - learning-design
   reason: Listed on the concept page(s) shown.
+
+- resource: learning-design-wiki
+  reviewed: '2026-10-24'
+  hosts:
+  - ai-assisted-educational-research
+  - learning-design
+  - pedagogical-patterns
+  reason: 'A reference wiki of design principles, elements and patterns that binds each to
+    evidence codes, so the design pages are where a reader meets it; it is also itself an
+    agent-maintained knowledge base, which is the case the AI-assisted research page argues.'
+- resource: teacher-dev
+  reviewed: '2026-10-24'
+  hosts:
+  - accessibility
+  - edtech-platform
+  reason: 'A non-profit gallery of small free classroom apps, listed where a reader is choosing
+    classroom software and where accessibility is the deciding criterion; it is not a tutoring
+    system or an activity collection, so no pedagogy page hosts it.'
