@@ -65,12 +65,14 @@
   - teacher-ai-competency
   reason: Listed on the concept page(s) shown.
 - resource: fpds-apps-and-resources
-  reviewed: '2026-09-28'
+  reviewed: '2026-10-24'
   hosts:
   - academic-integrity
   - accessibility
+  - ai-literacy
   - educational-development
-  reason: Listed on the concept page(s) shown.
+  reason: Listed on the concept page(s) shown. The AI literacy course and the AI Literacy Design Coach
+    it now carries are why ai-literacy is a host.
 - resource: gemini-notebook
   reviewed: '2026-09-28'
   hosts:
