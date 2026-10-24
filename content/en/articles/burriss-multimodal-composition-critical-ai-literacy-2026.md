@@ -1,7 +1,7 @@
 ---
 title: "\"Young Scholar[s] on the Beat\": Multimodal Composition as a Form of Critical AI Literacy Pedagogy"
 created: "2026-09-14T06:10:00-04:00"
-updated: "2026-09-19T12:17:22-04:00"
+updated: "2026-10-23T22:25:56-04:00"
 type: article
 foundations: [agency, ai-literacy]
 pedagogy: [creativity, critical-pedagogy, storytelling-in-education, student-engagement]
@@ -16,7 +16,7 @@ sources: ['raw/papers/burriss-multimodal-composition-critical-ai-literacy-2026.m
 confidence: high
 ---
 
-> **Synthesis:** Burriss, Eeds, Smith, Ziegler, Villanueva, and Deweese (2026) argue that [[ai-literacy|AI literacy]] should be reoriented around creative, collaborative [[writing-education|composition]] rather than narrow technical competencies, and present a classroom study in which 22 eleventh-grade students composed video public service announcements about AI [[ethics]] topics of their choosing. Grounded in [[multimodal|multimodal composition]] and Critical Posthumanist Literacy, the unit asked youth to translate abstract principles — surveillance, [[privacy|data consent]], algorithmic accusation — into emotionally resonant films using sound, image, text, and their own bodies. Analysis of seven PSA videos, 18 end-of-unit surveys, 12 daily reflections, and classwork found that students overwhelmingly portrayed AI negatively, especially school-based surveillance and punitive AI-driven accusation; depicted harm as emerging from tangled human–machine responsibility rather than from a villainous tool; and still closed with resilient messages of hope and [[agency]]. Students described composing as joyful, creative [[collaborative-learning|collaboration]] and reported that the project deepened their understanding of AI ethics, with 15 of 18 responses affirming new learning. The authors position [[storytelling-in-education|storytelling]] and advocacy — resistant to traditional assessment — as core to [[critical-pedagogy|critical AI literacy pedagogy]] that centers [[learner-identity|student identity]], choice, and voice.
+> **Synthesis:** Burriss, Smith, Ziegler, Villanueva, Deweese, and Eeds (2026) argue that [[ai-literacy|AI literacy]] should be reoriented around creative, collaborative [[writing-education|composition]] rather than narrow technical competencies, and present a classroom study in which 22 eleventh-grade students composed video public service announcements about AI [[ethics]] topics of their choosing. Grounded in [[multimodal|multimodal composition]] and Critical Posthumanist Literacy, the unit asked youth to translate abstract principles — surveillance, [[privacy|data consent]], algorithmic accusation — into emotionally resonant films using sound, image, text, and their own bodies. Analysis of seven PSA videos, 18 end-of-unit surveys, 12 daily reflections, and classwork found that students overwhelmingly portrayed AI negatively, especially school-based surveillance and punitive AI-driven accusation; depicted harm as emerging from tangled human–machine responsibility rather than from a villainous tool; and still closed with resilient messages of hope and [[agency]]. Students described composing as joyful, creative [[collaborative-learning|collaboration]] and reported that the project deepened their understanding of AI ethics, with 15 of 18 responses affirming new learning. The authors position [[storytelling-in-education|storytelling]] and advocacy — resistant to traditional assessment — as core to [[critical-pedagogy|critical AI literacy pedagogy]] that centers [[learner-identity|student identity]], choice, and voice.
 
 ## Key Findings
 
@@ -56,4 +56,4 @@ confidence: high
 
 ## Citation
 
-Burriss, S. K., Eeds, A., Smith, B. E., Ziegler, H. H., Villanueva, A., & Deweese, M. (2026). [*"Young Scholar[s] on the Beat": Multimodal composition as a form of critical AI literacy pedagogy*](https://doi.org/10.1002/jaal.70064). *Journal of Adolescent & Adult Literacy*, 70(2), e70064.
+Burriss, S. K., Smith, B. E., Ziegler, H. H., Villanueva, A., Deweese, M., & Eeds, A. (2026). [*"Young Scholar[s] on the Beat": Multimodal composition as a form of critical AI literacy pedagogy*](https://doi.org/10.1002/jaal.70064). *Journal of Adolescent & Adult Literacy*, 70(2), e70064.
