@@ -9,6 +9,7 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import PageTypeIcon from '../../components/PageTypeIcon.astro';
 import SourceButtons from '../../components/SourceButtons.astro';
 import { renderMarkdown } from '../../lib/markdown';
+import { strings } from '../../i18n';
 import siteConfig from '../../config/siteConfig';
 
 const all = (await getCollection('newsletters')).filter(n => n.data.status !== 'draft');
@@ -63,11 +64,14 @@ const html = rawHtml
   .replaceAll('{{editor.contactUrl}}', siteConfig.editor.contactUrl);
 
 const base = siteConfig.basePath;
+// The issue body is English, but the chrome around it comes from the same copy
+// module the archive uses, so a translated archive links back into it cleanly.
+const s = strings('en').news;
 ---
 
 <BaseLayout title={issue.data.title} description={issue.data.summary} toc={headings}>
   <p class="news-issue-meta">
-    <a href={`${base}/news/`}><PageTypeIcon kind="newsletter" size={14} />All issues</a>
+    <a href={`${base}/news/`}><PageTypeIcon kind="newsletter" size={14} />{s.allIssues}</a>
   </p>
 
   <h1>
@@ -79,10 +83,16 @@ const base = siteConfig.basePath;
 
   <div class="news-body" set:html={html} />
 
-  <nav class="news-issue-nav" aria-label="Other issues">
-    {older && <a href={`${base}/news/${older.id.replace('.md', '')}/`}>← Issue {older.data.issue}</a>}
+  <nav class="news-issue-nav" aria-label={s.otherIssuesAria}>
+    {older && (
+      <a href={`${base}/news/${older.id.replace('.md', '')}/`}>
+        ← {s.issueLabel.replace('{issue}', String(older.data.issue))}
+      </a>
+    )}
     {newer && (
-      <a href={`${base}/news/${newer.id.replace('.md', '')}/`} class="next">Issue {newer.data.issue} →</a>
+      <a href={`${base}/news/${newer.id.replace('.md', '')}/`} class="next">
+        {s.issueLabel.replace('{issue}', String(newer.data.issue))} →
+      </a>
     )}
   </nav>
 

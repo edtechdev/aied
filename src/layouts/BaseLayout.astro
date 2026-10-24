@@ -80,6 +80,7 @@ const PAGE_ROUTE_KIND: Record<string, PageKey> = {
   '/journal': 'journal',
   '/faq': 'faq',
   '/concepts': 'concepts',
+  '/news': 'news',
 };
 /**
  * Direction of the page's own text. A page showing fallback copy — an English
@@ -1442,7 +1443,7 @@ const recentConceptItems = recentConcepts.map(c => {
             <line x1="17" y1="12.5" x2="17" y2="14.5"></line>
           </svg>
         </a>
-        <a href={`${siteConfig.basePath}/news/`} class="header-icon" data-overflow-item data-priority="2" title={ui.newsletterLink} aria-label={ui.newsletterLink}>
+        <a href={localizeHref('/aied/news/', locale)} class="header-icon" data-overflow-item data-priority="2" title={ui.newsletterLink} aria-label={ui.newsletterLink}>
           <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
             <path d="M4 22h16a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2H8a2 2 0 0 0-2 2v16a2 2 0 0 1-4 0V6"></path>
             <path d="M18 14h-8"></path>
