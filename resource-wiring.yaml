@@ -1,3 +1,9 @@
+- resource: campus-ai-development
+  reviewed: '2026-10-24'
+  hosts:
+  - educational-policy-ai
+  - governance
+  reason: Listed on the concept page(s) shown.
 - resource: campus-ai-framework
   reviewed: '2026-09-28'
   hosts:
