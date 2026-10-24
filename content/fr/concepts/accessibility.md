@@ -2,7 +2,7 @@
 connected_resources: [drawsplat, fpds-apps-and-resources, id-toolbox, idstack]
 title: Accessibilité
 created: "2026-08-23T12:00:00-04:00"
-updated: "2026-10-10T02:07:46-04:00"
+updated: "2026-10-24T10:38:14-04:00"
 connected_faqs: [designing-educational-ai-software, equity-ethics-pedagogical-safety-research, ai-disabled-neurodivergent-learners]
 type: concept
 foundations: [learning-design]
@@ -110,7 +110,7 @@ Une vidéo dotée de sous-titres exacts et d'une transcription correctement bali
 - [[genai-minoritized-knowledges-disability]] — Perspective critique sur l'IA et les savoirs centrés sur le handicap
 - [[gemini-lualatex-physics-video-transcription-2026]] — Transcription de vidéos de physique mathématiquement accessible par Gemini et LuaLaTeX
 - [[khlaif-assistive-genai-visually-impaired-2026]] — IA générative d'assistance pour les apprenants déficients visuels
-- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — Generative AI, virtual reality, and beyond: A scoping review of digital assistive technologies for neurodivergent students in higher education
-- [[wright-transcription-not-generation-2026]] — Transcription is not generation: over-inclusive AI prohibitions and the assistive tools they capture
+- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — IA générative, réalité virtuelle et au-delà : une revue exploratoire des technologies d'assistance numériques pour les étudiants neurodivergents dans l'enseignement supérieur
+- [[wright-transcription-not-generation-2026]] — La transcription n'est pas la génération : les interdictions d'IA trop larges et les outils d'assistance qu'elles capturent
 - [[ad4edu-lecture-audio-description-2026]] — AD4EDU : évaluer la description audio des cours universitaires selon les normes d'accessibilité, les métriques et les préférences des apprenants
 - [[airri-machine-resistant-reading-interface-2026]] — AIRRI : vers une interface de lecture lisible par l'humain et résistante aux machines

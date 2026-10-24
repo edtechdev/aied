@@ -1,15 +1,16 @@
 ---
 title: "Comment aborder les idées fausses courantes sur l'IA en éducation ?"
 created: "2026-09-22T19:10:56-04:00"
-updated: "2026-10-09T18:10:00-04:00"
+updated: "2026-10-24T10:38:02-04:00"
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, reducing-ai-misuse, teacher-role, teacher-ai-competency]
 pedagogy: [misconceptions, refutation-text]
 technology: [prompt-engineering]
 assessment: [ai-detection, assessment-validity, feedback-literacy]
 ethics: [equity-in-ai-education, pedagogical-safety, trust-calibration]
 weight: 95
+audience: [instructors, instructional designers, administrators, policymakers, learners, researchers, parents and families]
 institutions: [governance]
-source_updated: "2026-10-02T08:21:34-04:00"
+source_updated: "2026-10-21T14:32:00-04:00"
 translation_of: faqs/addressing-common-misconceptions-ai-education
 translation_note: "Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle."
 contributors: [editor]

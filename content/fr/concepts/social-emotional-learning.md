@@ -1,7 +1,7 @@
 ---
 title: "L'apprentissage socioémotionnel"
 created: "2026-08-13T18:30:57-04:00"
-updated: "2026-10-10T03:24:45-04:00"
+updated: "2026-10-24T10:37:22-04:00"
 type: concept
 foundations: [ai-literacy, teacher-ai-competency]
 pedagogy: [self-regulated-learning, well-being]
@@ -112,17 +112,17 @@ Le SEL se relie à la [[ai-literacy|littératie en IA]] (comme complément qui r
 
 ## Articles liés
 
-- [[sec-ai-literacy-narrative-review-2026]] — Integrating Social-Emotional Competencies Into AI Literacy
-- [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai]] — Mind the Trust Gap: Teacher-Student Views
-- [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]] — The Scaffolded AI literacy (SAIL) framework
+- [[sec-ai-literacy-narrative-review-2026]] — Intégrer les compétences socioémotionnelles à la littératie en IA
+- [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai]] — L'écart de confiance : points de vue des enseignants et des étudiants
+- [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]] — Le cadre de littératie en IA étayée (SAIL)
 - [[teacher-education-ai-literacy-sdt-2026]] — Teacher Education for AI Literacy (SDT)
-- [[student-dependency-on-ai-literacy-self-efficacy-2026]] — Student Dependency on AI, Self-Efficacy, and Resource Management
-- [[self-efficacy-tutoring-learning]] — Self-Efficacy and Favorability Shape Learning from Tutoring
-- [[shame-guilt-ai-regulation-computing-education]] — Shame and Guilt as Social Regulators of AI Use
-- [[substitution-to-scaffolding-ai-harm-cycle-2026]] — From Substitution to Scaffolding
-- [[ai-chatbot-collective-efficacy-collaborative-learning]] — AI Chatbots and Collective Efficacy
+- [[student-dependency-on-ai-literacy-self-efficacy-2026]] — La dépendance des étudiants à l'IA, l'auto-efficacité et la gestion des ressources
+- [[self-efficacy-tutoring-learning]] — L'auto-efficacité et la favorabilité façonnent l'apprentissage par le tutorat
+- [[shame-guilt-ai-regulation-computing-education]] — La honte et la culpabilité comme régulateurs sociaux de l'usage de l'IA
+- [[substitution-to-scaffolding-ai-harm-cycle-2026]] — De la substitution à l'étayage
+- [[ai-chatbot-collective-efficacy-collaborative-learning]] — Chatbots d'IA et efficacité collective
 - [[kar-mathbuddy-affective-math-tutoring-2025]] — MathBuddy: Affective Math Tutoring
 - [[ai-campus-wellbeing-tools]] — AI-Driven Campus Well-being Tools
-- [[policy-deficit-ai-sel-2026]] — The Policy Deficit in AI × SEL Research
+- [[policy-deficit-ai-sel-2026]] — Le déficit de politique dans la recherche IA × ASE
 - [[human-ai-complementarity-social-emotional-learning-2026]] — Complémentarité humain-IA dans l'apprentissage socioémotionnel précoce (Raave et al. 2026)
 - [[parlant-emotional-micro-interventions-2026]] — Micro-interventions émotionnelles en temps réel et recueil de phrases pour les enseignants

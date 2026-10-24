@@ -1,13 +1,13 @@
 ---
 title: "Psychologie cognitive"
 created: "2026-08-27T10:52:12-04:00"
-updated: "2026-10-10T03:05:33-04:00"
+updated: "2026-10-24T10:37:47-04:00"
 type: concept
 pedagogy: [cognitive-psychology, learning-theories, metacognition]
 technology: [generative-ai, intelligent-tutoring, knowledge-tracing]
 confidence: high
 translation_of: concepts/cognitive-psychology
-source_updated: "2026-09-26T01:51:49-04:00"
+source_updated: "2026-10-16T20:19:49-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -20,6 +20,8 @@ ai_assist:
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
 
 > **La psychologie cognitive / le cognitivisme** — la famille de théories qui expliquent l'apprentissage par des processus mentaux internes — attention, perception, mémoire, raisonnement et métacognition — plutôt que par le seul comportement observable. Dans le champ de l'[[ai-education|IA en éducation]], les postulats cognitivistes sous-tendent les contributions les plus distinctives du domaine : les systèmes d'[[intelligent-tutoring|tutorat intelligent]] qui modélisent les connaissances de l'apprenant, le [[knowledge-tracing|traçage des connaissances]] et le [[cognitive-diagnosis|diagnostic cognitif]] qui suivent ce qu'un apprenant sait, les conceptions de [[feedback|rétroaction]] fondées sur le diagnostic des erreurs, et toute la famille de la [[student-modeling|modélisation de l'apprenant et de l'enseignement adaptatif]]. Le cognitivisme est le terrain médian entre le [[behaviorism|behaviorisme]] (l'apprentissage comme changement comportemental) et le [[constructivist|constructivisme]] (l'apprentissage comme construction active de sens), et c'est la lentille théorique la plus étroitement liée à la métaphore informatique de l'esprit qui a animé les débuts de l'AIED.
+
+[[seeing-cognitive-representations-eeg-reconstruction|Su et coll. (2026)]] ont reconstruit des images à partir de l'EEG d'apprenants pendant des vidéos de sciences et ont constaté que la fidélité des représentations suivait la performance au test (coefficient de régression 0.8481, R² = 0.79) : preuve directe qu'une mesure de la représentation interne peut indexer l'encodage.
 
 ## Questions à examiner
 
@@ -51,6 +53,8 @@ Le cognitivisme est sans doute la théorie la plus responsable de l'existence m�
 ### Cognitive load and the design of instruction
 
 La théorie de la charge cognitive (CLT) est le cadre cognitiviste le plus largement appliqué en [[learning-design|conception pédagogique]] : elle distingue la charge intrinsèque (complexité de la tâche), la charge extrinsèque (friction de présentation) et la charge pertinente (effort de construction de schémas). Une IA bien conçue devrait réduire la charge extrinsèque tout en préservant le traitement pertinent ; une IA mal intégrée réduit les trois, laissant des tâches achevées mais un apprentissage vide. Le cadrage par la mémoire de travail de la CLT est aussi central dans les débats sur le [[cognitive-offloading|délestage cognitif]] — la question de savoir si l'IA réduit la charge extrinsèque nocive ou court-circuite le traitement pertinent qui produit l'apprentissage.
+
+La charge reflétait l'organisation de l'effort, non son volume : parmi 67 futurs enseignants concevant des plans de cours avec l'IA générative, le groupe de meilleure qualité ne différait pas sur l'effort déclaré (2.85 contre 3.26) mais déclarait une demande mentale (3.09 contre 4.03) et une frustration (2.12 contre 3.82) plus faibles ([[fang-human-ai-collaboration-patterns-instructional-design-2026|Fang et coll. (2026)]]).
 
 La théorie cognitive de l'apprentissage multimédia (CTML) de Mayer applique les mêmes postulats sur la mémoire de travail aux matériaux eux-mêmes, et ses préconisations sont exceptionnellement concrètes : les apprenants réussissent mieux avec des mots et des images ensemble qu'avec des mots seuls, lorsque le matériel extrinsèque est exclu, lorsqu'une leçon est segmentée et au rythme de l'utilisateur plutôt que présentée comme une unité continue, lorsque les mots et les images correspondants apparaissent à proximité et au même moment, et lorsque la narration est conversationnelle et d'une voix humaine amicale plutôt que formelle ou générée par une machine.
 
@@ -100,4 +104,5 @@ L'[[generative-ai|IA générative]] étend et met au défi le cognitivisme à la
 - [[educlaw-bench-pedagogical-llm-agents-2026]] — Agents LLM pédagogiques ancrés dans le traçage des connaissances
 - [[nie-personavlm-long-term-personalization-2026]] — Modélisation et mémoire de l'étudiant par LLM
 - [[ai-cognitive-partner-co-regulation-learning]] — L'IA comme partenaire cognitif dans l'apprentissage co-régulé
-- [[ensemble-cognition-philosophy-ai-education]] — Ensemble Cognition: thinking as human–AI interaction
+- [[ensemble-cognition-philosophy-ai-education]] — Cognition d'ensemble : la pensée comme interaction humain-IA
+- [[fang-human-ai-collaboration-patterns-instructional-design-2026]] — L'organisation de l'effort, et non son volume, suivait la charge et la frustration

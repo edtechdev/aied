@@ -1,13 +1,13 @@
 ---
 title: "Apprentissage adaptatif"
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-10T02:17:25-04:00"
+updated: "2026-10-24T10:45:11-04:00"
 type: concept
 pedagogy: [scaffolding]
 technology: [cognitive-diagnosis, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, personalized-learning, student-modeling]
 confidence: high
 translation_of: concepts/adaptive-learning
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-16T09:45:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -63,6 +63,7 @@ L'apprentissage adaptatif est fréquemment confondu avec l'[[personalized-learni
 ### Données probantes de la recherche
 
 - **Données probantes [[meta-analysis-systematic-review|méta-analytiques]] sur les outils adaptatifs et d'IA.** [[burneo-can-edtech-close-learning-gaps-2026|Une méta-analyse de la Banque mondiale]] portant sur 14 [[rct|essais contrôlés randomisés]] regroupe l'apprentissage assisté par ordinateur adaptatif, le tutorat intelligent et l'IA générative sur une échelle commune, et estime un gain d'apprentissage moyen d'environ 0.125 écart-type, sans différence significative entre les deux générations de technologie — la preuve que c'est le mécanisme d'adaptation, et non la génération d'outils particulière, qui produit les gains.
+- **Une notation interprétable doublée d'un routage sous budget de temps.** [[mars-momentum-aware-adaptive-rating-assessment-2026|Sahu et al. (2026)]] conservent quelques scalaires explicites de l'apprenant (sensibilité de la notation, qualité de la réponse et élan) et orientent les questions sous une contrainte de temps, ce qui réduit de moitié environ la volatilité des mises à jour de notation par rapport à un Elo fixe, tout en restant en deçà du traçage neuronal des connaissances pour la prédiction (AUC 0.7532 contre 0.8658 pour GKT).
 - **Algorithmes adaptatifs comparés dans des domaines dynamiques.** La [[graph-its-adaptive-algorithms-2026|recherche sur les STI fondés sur les graphes]] compare plusieurs algorithmes d'apprentissage adaptatif (dont la propagation bayésienne des connaissances et la logique floue intuitionniste) dans un cadre de représentation des connaissances fondé sur les graphes pour des programmes dynamiques.
 
 - **L'apprentissage par renforcement comme mécanisme d'adaptation, cartographié empiriquement.** [[riedmann-reinforcement-learning-education-review-2026|Riedmann, Schaper & Lugrin (2025)]] synthétisent 89 études sur l'apprentissage par renforcement en éducation et constatent que l'adaptation se divise en mécanismes liés au contenu (séquençage pédagogique et planification du contenu, n = 53) et en mécanismes liés à l'accompagnement (indices, [[feedback|rétroaction]], sélection d'activités, n = 36) — l'apprentissage par renforcement montrant une supériorité statistiquement significative sur les lignes de base plus souvent pour l'adaptation liée à l'accompagnement que pour la planification du contenu. Ils recommandent l'apprentissage par renforcement sans modèle pour l'apprentissage adaptatif et mettent en garde : l'apprentissage par renforcement classique a surpassé l'apprentissage par renforcement profond dans les études examinées.
@@ -95,6 +96,7 @@ L'apprentissage adaptatif est fréquemment confondu avec l'[[personalized-learni
 - [[ai-technologies]] — Parapluie : technologies et techniques d'IA (modèles, entraînement de LLM, robotique, RAG, agentique)
 - [[recommender-systems-and-learning-paths]]
 ## Articles liés
+- [[mars-momentum-aware-adaptive-rating-assessment-2026]] — MARS : un système de notation adaptative sensible à l'élan pour l'évaluation personnalisée
 - [[deceptive-overgeneralization-adaptive-learning-2026]] — Surgénéralisation trompeuse : la maîtrise adaptative peut interrompre l'entraînement avant que les apprenants ne sachent quand retenir une action (An, McLaren & Stamper 2026)
 - [[turano-ai-tutoring-not-a-monolith-2026]] — Le tutorat par IA n'est pas un monolithe : ce que nous savons réellement (note du Stanford SCALE/NSSA)
 - [[adaptive-ai-scaffold-collaborative-problem-solving-2026]]

@@ -1,7 +1,7 @@
 ---
 title: "Recherche d'aide"
 created: "2026-08-06T10:20:04-04:00"
-updated: "2026-10-10T03:41:06-04:00"
+updated: "2026-10-24T10:51:33-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [help-seeking, metacognition, scaffolding, self-regulated-learning]
@@ -11,7 +11,7 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/help-seeking
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-24T08:52:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -85,10 +85,14 @@ Plutôt que de retirer l'aide, la recherche recommande de repenser la manière d
 
 - **La disponibilité différée des indices** — exiger un temps d'engagement minimal ou des tentatives de solution avant que les indices (en particulier les indices finals) ne soient accessibles.([[lak2026-hint-button-unproductive-use]])
 - **Passer du *s'il faut* au *comment*** — la question clé de conception est de savoir comment structurer la délivrance des indices conformément aux principes de lutte productive, et non s'il faut fournir des indices du tout.([[lak2026-hint-button-unproductive-use]])
+- **La longueur du message est le levier que la recherche sur la délivrance a réellement mesuré.** Dans un cours de programmation en direct, des indices de LLM plus longs prédisaient une moins bonne exactitude à la soumission suivante, davantage de tentatives restantes et une resoumission plus lente, par écart-type de 204.9 caractères sur 14 809 paires étudiant-exercice ([[mihaylova-llm-feedback-live-programming-course-2026|Mihaylova et al., 2026]]). La lisibilité ne déplaçait presque aucun résultat, si bien que le volume comptait plus que la difficulté.
+- **Des indices antérieurs sur la même partie du cours étaient associés à une moindre réussite à l'étape intégrative.** Les étudiants ayant reçu une rétroaction sur les étapes antérieures d'un projet résolvaient leur étape finale dans 95.6% des cas, contre 98.1% pour ceux qui n'en avaient pas reçu, avec un coefficient log-odds de −1.096 ([[mihaylova-llm-feedback-live-programming-course-2026|Mihaylova et al., 2026]]). Les auteurs ne lisent pas cela comme un préjudice, puisque les étudiants qui demandent des indices sont plausiblement ceux qui auraient de toute façon buté à cet endroit, ce qui est la question de [[self-regulated-learning|surveillance]] que cette page soulève.
 
 ### Le problème du recours dans les tuteurs à grands modèles de langue
 
 Les étudiants du monde réel **contournent fréquemment le [[scaffolding|étayage]] d'un [[conversational-ai|agent conversationnel]]** — pas nécessairement de manière nuisible, mais souvent parce qu'il existe un décalage entre le cadrage pédagogique du chatbot et les objectifs d'apprentissage propres de l'étudiant. Les pipelines d'évaluation doivent donc mesurer non seulement si un tuteur étaye, mais si les étudiants *exploitent* cet étayage, au lieu de présumer qu'ils le feront.([[rethinking-scaffolding-llm-tutors]])
+
+- **Un bouton d'aide facultatif reste sans clic.** Dans trois classes de cinquième année du primaire, les étudiants ont rarement sollicité un agent d'aide que la conception avait délibérément laissé facultatif pour protéger l'agentivité, appelant plutôt un enseignant tandis que la confusion pour laquelle il avait été conçu persistait ([[humburg-scistory-ai-supported-inquiry-science-learning-games-2025|Humburg et al., 2025]]).
 
 ## Recherche d'aide et apprentissage autorégulé
 
@@ -114,7 +118,7 @@ En [[english-education|rédaction]] entièrement en ligne, la disponibilité de 
 
 ## Concepts liés
 
-- [[learners]] — Learners: the umbrella for the learner-side concepts
+- [[learners]] — Apprenants : le parapluie des concepts du côté de l'apprenant
 - [[self-regulated-learning]]
 - [[metacognition]]
 - [[scaffolding]]
@@ -132,25 +136,27 @@ En [[english-education|rédaction]] entièrement en ligne, la disponibilité de 
 - [[feedback]]
 - [[active-learning]]
 - [[agentic-ai]]
-- [[student-support-and-success]] — institutional outreach and support allocation, beyond in-course help-seeking
+- [[student-support-and-success]] — La démarche institutionnelle et l'allocation des soutiens, au-delà de la recherche d'aide dans le cours
 
 ## Articles liés
 
-- [[penquiry-pen-based-llm-qa-2026]] — Penquiry: A Pen-based Interactive In-situ Q&A System Leveraging LLMs
+- [[mihaylova-llm-feedback-live-programming-course-2026]] — Longueur des indices mesurée à l'aune de l'exactitude de la soumission suivante, des tentatives et du temps, dans un cours de programmation en direct
+- [[humburg-scistory-ai-supported-inquiry-science-learning-games-2025]] — Un agent d'aide que personne n'a sollicité (Humburg et al. 2025)
+- [[penquiry-pen-based-llm-qa-2026]] — Penquiry : un système interactif de questions-réponses in situ au stylo exploitant les LLM
 - [[tutortrace-learner-behavioral-states-2026]]
-- [[viberg-efficiency-effectiveness-srl-llm-help-seeking-2026]] — LLM-mediated help-seeking in STEM: layered, instrumental, and verified
+- [[viberg-efficiency-effectiveness-srl-llm-help-seeking-2026]] — Recherche d'aide médiée par les LLM en STIM : stratifiée, instrumentale et vérifiée
 - [[one-click-away-khanmigo-two-year-school-experiment-2026]] — One Click Away: Khanmigo in a two-year school experiment
-- [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — Virtual tutoring with CAL: an experiment in take-up and learning
-- [[studychat-student-dialogues-chatgpt-ai-course-2026]] — The StudyChat dataset of student–LLM dialogues in an AI course
-- [[lak2026-hint-button-unproductive-use]] — Premature hint requests and superficial hint reading predict lower learning gains in an ITS
-- [[ai-fallibility-warning-help-seeking]] — Warning about AI fallibility increases help-seeking in a math tutoring system
-- [[regulating-ai-tutor-adolescent-srl]] — The intention-behavior gap in adolescent GenAI help-seeking and self-regulated learning
-- [[guided-llm-scaffolding-independent-learning]] — Guided LLM scaffolding improves reasoning-focused help-seeking and independent learning
-- [[rethinking-scaffolding-llm-tutors]] — The scaffolding/student-uptake mismatch in real-world LLM tutor deployments
-- [[uneven-impact-generative-ai-student-learning-2026]] — Early reliance: consulting GenAI before independent thought, search, or an instructor predicts both benefit and harm (Manikonda et al. 2026)
-- [[reed-resource-literacy-genai-composition-2026]] — Resource literacy in online composition: the bottleneck is recognizing when help is needed (Reed 2026)
+- [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — Tutorat virtuel avec l'apprentissage assisté par ordinateur : une expérience sur le recours et l'apprentissage
+- [[studychat-student-dialogues-chatgpt-ai-course-2026]] — Le jeu de données StudyChat des dialogues étudiant-LLM dans un cours d'IA
+- [[lak2026-hint-button-unproductive-use]] — Les demandes d'indices prématurées et la lecture superficielle des indices prédisent de moindres gains d'apprentissage dans un STI
+- [[ai-fallibility-warning-help-seeking]] — Un avertissement sur la faillibilité de l'IA accroît la recherche d'aide dans un système de tutorat en mathématiques
+- [[regulating-ai-tutor-adolescent-srl]] — L'écart entre intention et comportement dans la recherche d'aide à l'IA générative et l'apprentissage autorégulé chez les adolescents
+- [[guided-llm-scaffolding-independent-learning]] — Un étayage guidé par LLM améliore la recherche d'aide axée sur le raisonnement et l'apprentissage indépendant
+- [[rethinking-scaffolding-llm-tutors]] — Le décalage entre étayage et recours étudiant dans les déploiements réels de tuteurs à LLM
+- [[uneven-impact-generative-ai-student-learning-2026]] — Dépendance précoce : consulter l'IA générative avant toute pensée indépendante, recherche ou enseignant prédit à la fois bénéfice et préjudice (Manikonda et al. 2026)
+- [[reed-resource-literacy-genai-composition-2026]] — Littératie des ressources en rédaction en ligne : le goulot d'étranglement est de reconnaître quand une aide est nécessaire (Reed 2026)
 - [[course-specific-rag-help-seeking-higher-ed-2026]] — Reducing Barriers to Academic Support: Evaluating a Course-Specific RAG System for Addressing Help-Seeking Disparities in Higher Education
-- [[adaptive-scaffolding-contingency-comet-tutor-2026]] — Adaptive Scaffolding Needs Contingency: An AI Tutor That Escalates and Fades on What the Learner Does
+- [[adaptive-scaffolding-contingency-comet-tutor-2026]] — L'étayage adaptatif doit être contingent : un tuteur d'IA qui intensifie et s'efface selon ce que fait l'apprenant
 - [[helpcoach-ai-help-seeking-scaffolding-2026]] — HelpCoach: Scaffolding Targeted AI Help-Seeking During Problem-Solving
-- [[guided-ai-tutor-impasse-resolution-2026]] — Examining Variation in How Guided AI Tutors Resolve Student Impasses
-- [[student-query-demand-hybrid-ai-support-2026]] — What Students Actually Ask: Demand Structure and Automation Potential in a Hybrid Support System
+- [[guided-ai-tutor-impasse-resolution-2026]] — Examiner la variation dans la manière dont les tuteurs d'IA guidés résolvent les impasses des étudiants
+- [[student-query-demand-hybrid-ai-support-2026]] — Ce que les étudiants demandent réellement : structure de la demande et potentiel d'automatisation dans un système de soutien hybride

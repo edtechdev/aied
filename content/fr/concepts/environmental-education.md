@@ -1,7 +1,7 @@
 ---
 title: "Éducation à l'environnement"
 created: "2026-09-20T12:40:00-04:00"
-updated: "2026-10-10T03:41:06-04:00"
+updated: "2026-10-24T10:51:40-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [inquiry-based-learning, situated-learning, critical-pedagogy]
@@ -11,7 +11,7 @@ institutions: [educational-policy-ai, governance]
 discipline: [environmental education]
 confidence: medium
 translation_of: concepts/environmental-education
-source_updated: "2026-09-20T12:40:00-04:00"
+source_updated: "2026-10-21T21:15:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -22,6 +22,8 @@ ai_assist:
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
+
+> **L'éducation à l'environnement** — enseigner le climat, le développement durable et le monde naturel, ce qui, dans l'[[ai-education|IA en éducation]], est devenu deux choses à la fois : une matière que l'IA peut soutenir par un apprentissage [[inquiry-based-learning|par enquête]] et [[situated-learning|situé]], et un coût que l'IA impose, puisque les [[llm|grands modèles de langue]] énergivores qui tournent sur l'ordinateur portable de chaque étudiant portent une empreinte environnementale propre. La base de connaissances traite les deux moitiés ensemble, parce que l'éducation à la [[sustainability|durabilité]] dispensée par un outil à forte intensité carbone soulève une question qu'aucun cadre unique ne résout à lui seul.
 
 ## Questions à examiner
 
@@ -94,13 +96,13 @@ La [[meta-analysis-systematic-review|revue de cadrage]] qui organise cette litt�
 
 ## Articles liés
 
-- [[daniel-ai-sustainability-scoping-review-2026]] — Separates AI for sustainability from sustainable AI; Global South gap
-- [[ai-assisted-inquiry-ssi-climate]] — AI-assisted climate inquiry, d = 0.69 over inquiry alone
-- [[aied-carbon-footprint-reporting]] — AIED 2025 disclosure review plus an open-source footprint method
-- [[llm-environmental-impact-student-usage-2026]] — Eco-feedback on latency–carbon trade-offs with 89 CS students
-- [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — On-premise quantized assistant at 1.8 mWh per query
-- [[liu-ai-sustainable-engineering-education-2026]] — AI-SEE: sustainability consciousness in engineering education
-- [[riandi-teacher-ai-green-energy-education-2026]] — Practical AI use and ESD material development predict integration
-- [[talebzadeh-ai-green-education-2026]] — AI-assisted design under Sustainable Development Pedagogy constraints
-- [[alsuhaymi-sustainable-education-ai-digitalization-2026]] — AI's contribution to sustainable education as governance-mediated
-- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — "Sustainable learning" as durable cognitive agency, not an environmental claim
+- [[daniel-ai-sustainability-scoping-review-2026]] — Sépare l'IA pour la durabilité de l'IA durable ; lacune du Sud global
+- [[ai-assisted-inquiry-ssi-climate]] — Enquête climatique assistée par l'IA, d = 0.69 par rapport à l'enquête seule
+- [[aied-carbon-footprint-reporting]] — Revue des déclarations à l'AIED 2025 et méthode d'empreinte open source
+- [[llm-environmental-impact-student-usage-2026]] — Rétroaction écologique sur les compromis latence-carbone auprès de 89 étudiants en informatique
+- [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — Assistant quantifié déployé sur site à 1.8 mWh par requête
+- [[liu-ai-sustainable-engineering-education-2026]] — AI-SEE : la conscience du développement durable en éducation d'ingénierie
+- [[riandi-teacher-ai-green-energy-education-2026]] — L'usage pratique de l'IA et l'élaboration de matériels EDD prédisent l'intégration
+- [[talebzadeh-ai-green-education-2026]] — Conception assistée par l'IA sous contraintes de pédagogie du développement durable
+- [[alsuhaymi-sustainable-education-ai-digitalization-2026]] — La contribution de l'IA à une éducation durable, médiée par la gouvernance
+- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — L'« apprentissage durable » comme agentivité cognitive durable, et non comme affirmation environnementale

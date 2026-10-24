@@ -1,7 +1,7 @@
 ---
 title: Évaluation par les pairs
 created: "2026-08-13T17:54:24-04:00"
-updated: "2026-10-10T03:24:46-04:00"
+updated: "2026-10-24T10:48:30-04:00"
 type: concept
 connected_faqs: [writing-instruction-ai-best-practices, group-work-ai]
 pedagogy: [collaborative-learning, metacognition, self-regulated-learning]
@@ -112,11 +112,11 @@ Les questions ouvertes portent sur la solidité des données probantes, et pas s
 - [[ai-peer-feedback-l2-writing-engagement-2026]] — Le retour intégré IA-plus-pairs a élevé les trois dimensions d'engagement et les quatre dimensions d'écriture de l'IELTS
 
 - [[usher-faraon-who-grades-best-2026]] — Comparer la notation par ChatGPT, les pairs et l'enseignant selon les niveaux de qualité du projet (Usher & Faraon 2026)
-- [[pairr-ai-peer-review-2025]] — Peer and AI Review + Reflection (PAIRR)
+- [[pairr-ai-peer-review-2025]] — Revue par les pairs et par l'IA avec réflexion (PAIRR)
 - [[becerra-aicofe-feedback-2026]] — AI Peer Feedback Systems
-- [[ai-internal-feedback-evaluative-judgments]] — Unravelling Undergraduates' Development of Evaluative Judgments
-- [[learner-centered-feedback-ai]] — Enhancing Learner-Centered Feedback With AI
-- [[genai-linguistic-diversity-academic-writing]] — Generative AI and Linguistic Diversity in Academic Writing
+- [[ai-internal-feedback-evaluative-judgments]] — Démêler le développement du jugement évaluatif chez les étudiants de premier cycle
+- [[learner-centered-feedback-ai]] — Renforcer la rétroaction centrée sur l'apprenant avec l'IA
+- [[genai-linguistic-diversity-academic-writing]] — IA générative et diversité linguistique dans l'écriture académique
 - [[gift-ai-pairr-business-writing-2025]] — PAIRR dans un cours d'écriture commerciale : revue entre pairs, retour du chatbot, réflexion (MacArthur et al. 2025)
 - [[scaffolding-srl-feedback-genai-human-peers]] — L'IA générative face aux pairs humains pour soutenir le retour autorégulé et la littératie du retour (Gu et al. 2026)
 - [[irwin-muller-efl-peer-feedback-literacy]] — L'IA générative comme Trainer et Synthesizer dans le retour entre pairs en EFL sur la production orale (Irwin & Muller 2026)

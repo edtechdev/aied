@@ -1,7 +1,7 @@
 ---
 title: "La conception de programme d'études"
 created: "2026-06-02T10:44:35-04:00"
-updated: "2026-10-10T03:05:32-04:00"
+updated: "2026-10-24T10:45:59-04:00"
 type: concept
 connected_faqs: [incorporating-ai-literacy]
 foundations: [ai-literacy, curriculum-design, learning-design, teacher-role]
@@ -11,8 +11,9 @@ discipline: [stem education]
 audience: [instructors, faculty developers]
 level: [higher ed]
 confidence: high
+connected_resources: [intelligent-textbooks]
 translation_of: concepts/curriculum-design
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-21T13:42:59-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -46,6 +47,8 @@ La conception de programme traite du *quoi* de l'éducation au niveau du cursus,
 En examinant le changement comme systémique plutôt qu'additif, [[rewriting-curriculum-genai-pedagogy-2026|Sabani et al. (2026)]] triangulent une revue de cadrage, une cartographie bibliométrique de 209 références, 36 articles et dix entretiens de responsables académiques en cinq glissements — dont le passage de la transmission de connaissances au développement de capacités, et de l'expérimentation locale à la gouvernance institutionnelle.
 
 **La cartographie et l'analyse de programme** utilisent l'IA pour comprendre les programmes existants. **[[ai-assisted-se-curriculum-syllabus-analysis-2026|Geng et al.]]** ont analysé 23 syllabi de cours de génie logiciel assistés par l'IA, en identifiant des thèmes communs — [[prompt-engineering|l'ingénierie de prompts]], la revue de code avec l'IA, les [[ethics|considérations éthiques]] — et en dérivant des recommandations de conception qui insistent sur l'équilibre entre maîtrise des outils et connaissances fondamentales. **[[coursegraph-cs-course-comparison-2026|CourseGraph]]** applique des méthodes computationnelles pour comparer les structures de cours d'informatique entre institutions.
+
+La pondération change ce que rapporte une analyse de programme : [[genai-curriculum-analytics-mapping-higher-ed-2026|Jayalath et al. (2026)]] ont demandé à GPT-o3-mini de répartir 100 % entre sept compétences d'entreprise pour chacun de 48 travaux d'évaluation, atteignant un alpha de Krippendorff de 0,81 par rapport aux pondérations d'experts, mais l'accord devenait négatif pour les compétences que les descriptions n'énoncent jamais explicitement (-0,19).
 
 **L'intégration de la littératie en IA** intègre les compétences en IA dans toutes les disciplines. **[[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl|SAIL]]** fournit un cadre de littératie en IA étayé, applicable à tous les âges et à tous les stades éducatifs, traitant les [[digital-divide|fractures numériques]] de deuxième et de troisième niveau. **[[tracing-genai-literacy-interaction-patterns]]** examine comment la littératie en IA se développe à travers les patrons d'interaction. **[[hingle-collaborative-ai-literacy-2025]]** explore des approches collaboratives du développement de programme de littératie en IA, en lien avec l'[[collaborative-learning]].
 
@@ -113,15 +116,16 @@ La conception de programme se rattache directement à l'[[learning-design]] — 
 - [[pedagogy]] — Parapluie : les pédagogies et stratégies d'enseignement en IA éducative
 - [[recommender-systems-and-learning-paths]]
 ## Articles liés
+- [[genai-curriculum-analytics-mapping-higher-ed-2026]] — Cartographie des compétences pondérée et validée par des experts pour l'accréditation
 - [[mcinnes-salvaging-constructive-alignment-genai-2026]] — Analyse critique du discours des recommandations sur l'alignement constructif avec l'IA générative (McInnes et al. 2026)
-- [[icet-ml-education-trust-2026]] — Addressing Trust in AI Systems through Education: A Didactic Perspective
+- [[icet-ml-education-trust-2026]] — Aborder la confiance dans les systèmes d'IA par l'éducation : une perspective didactique
 - [[refrain-amplify-genai-curriculum-2026]] — Cadre curriculaire « retenir puis amplifier » pour séquencer l'IA générative (Torres-Sahli et al. 2026)
-- [[mechanical-engineering-ai-curriculum-2026]] — Project-Based AI Education Curriculum in Thermal Engineering
+- [[mechanical-engineering-ai-curriculum-2026]] — Un programme d'éducation à l'IA fondé sur des projets en génie thermique
 - [[ying-genai-journalism-assessment-2026]]
 - [[rook-plumb-genai-curricula-student-insights-2026]]
 - [[zhou-constructive-alignment-genai-business-2026]]
-- [[workforce-readiness-smart-manufacturing-wrl-2026]] — Workforce Readiness Level framework for smart manufacturing in the AI era
-- [[rewriting-curriculum-genai-pedagogy-2026]] — Rewriting the curriculum: GenAI-driven pedagogical change
+- [[workforce-readiness-smart-manufacturing-wrl-2026]] — Le cadre Workforce Readiness Level pour la fabrication intelligente à l'ère de l'IA
+- [[rewriting-curriculum-genai-pedagogy-2026]] — Réécrire le programme : le changement pédagogique porté par l'IA générative
 - [[critical-media-literacy-education-2026]]
 - [[reshaping-cs-education-genai]]
 - [[ase-26-agentic-software-engineering-curriculum]]
@@ -131,13 +135,13 @@ La conception de programme se rattache directement à l'[[learning-design]] — 
 - [[tracing-genai-literacy-interaction-patterns]]
 - [[finkelstein-principled-ai-education-2025]]
 - [[hingle-collaborative-ai-literacy-2025]]
-- [[ithaka-sr-ai-skills-college-graduates-2026]] — AI Skills Framework: 26 assessable skills for curriculum mapping
-- [[learnai-just-in-time-ai-cocreation-university-2026]] — LearnAI: Just-in-Time AI Co-Creation Across Disciplines
-- [[ai-video-dual-gatekeeping-2026]] — When Saying No Makes Better Videos: Dual Gatekeeping for Pedagogically Grounded AI Content Creation
-- [[niri-steam-ai-literacy-review-2026]] — STEAM education for AI literacy: systematic review
-- [[caruana-pre-university-ai-education-slr-2026]] — Preparing learners and teachers for an AI-driven future: SLR of pre-university AI education (Caruana et al. 2026)
+- [[ithaka-sr-ai-skills-college-graduates-2026]] — Cadre de compétences en IA : 26 compétences évaluables pour la cartographie des programmes
+- [[learnai-just-in-time-ai-cocreation-university-2026]] — LearnAI : la co-création avec l'IA juste à temps, à travers les disciplines
+- [[ai-video-dual-gatekeeping-2026]] — Quand dire non produit de meilleures vidéos : le double filtrage pour une création de contenus par l'IA ancrée dans la pédagogie
+- [[niri-steam-ai-literacy-review-2026]] — L'éducation STEAM au service de la littératie en IA : revue systématique
+- [[caruana-pre-university-ai-education-slr-2026]] — Préparer les apprenants et les enseignants à un avenir porté par l'IA : revue systématique de l'éducation à l'IA avant l'université (Caruana et al. 2026)
 - [[ai-modeling-problem-generation-platform-2026]] — Plateforme dotée d'IA générant des problèmes de modélisation mathématique (ADDIE, RAG)
 - [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
 - [[karaismailoglu-ai-lesson-plans-science-experts-2026]]
-- [[ai-particle-physics-education-redesign-2026]] — AI in Particle Physics Education: Research Problems and Foundational Skills
-- [[computing-assessment-genai-workshop-report-2026]] — AI Can Do Your Homework. Now What? Report from an online workshop on computing assessment in the age of generative AI
+- [[ai-particle-physics-education-redesign-2026]] — L'IA dans l'enseignement de la physique des particules : problèmes de recherche et compétences fondamentales
+- [[computing-assessment-genai-workshop-report-2026]] — L'IA peut faire vos devoirs. Et maintenant ? Rapport d'un atelier en ligne sur l'évaluation en informatique à l'ère de l'IA générative

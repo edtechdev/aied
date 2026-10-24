@@ -1,7 +1,7 @@
 ---
 title: "L'agence de l'apprenant"
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-10-10T02:07:46-04:00"
+updated: "2026-10-24T10:43:33-04:00"
 type: concept
 foundations: [agency, cognitive-offloading, human-ai-collaboration]
 pedagogy: [motivation, self-regulated-learning]
@@ -10,7 +10,7 @@ connected_faqs: [group-work-ai]
 audience: [learners]
 confidence: high
 translation_of: concepts/agency
-source_updated: "2026-10-04T02:59:54-04:00"
+source_updated: "2026-10-16T07:28:51-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -47,6 +47,7 @@ L'agence importe parce que l'apprentissage est le plus efficace lorsque les appr
 
 - **Robotique et [[educational-robotics|interaction humain-robot]] :** [[roboblockly-conversational-block-robotics-ct-2026|RoboBlockly Studio]] a été explicitement conçu pour préserver l'agence de l'apprenant dans la [[computational-thinking|pensée computationnelle]] ; [[human-autonomy-agency-hri-review-2025|une revue systématique]] examine comment l'interaction humain-robot affecte l'autonomie humaine et le sentiment d'agence, centraux pour les débats sur le [[well-being]] et la [[governance]].
 - **[[collaborative-learning|Apprentissage collaboratif]] :** les [[research-methods-aied|travaux de recherche]] de la [[human-ai-collaboration]] examinent comment les tâches cognitives sont partagées entre apprenants et IA, l'agence déterminant si c'est l'humain ou l'IA qui dirige l'interaction.
+- **L'agence épistémique partagée s'étend à l'interaction entre élèves et IA générative.** Un schéma à 14 catégories codant 6 788 tours assistés par ChatGPT a situé 59 % des tours d'élèves de 7e année dans une agence épistémique partagée, et les auteurs soutiennent que ce construit, jusqu'ici étudié surtout dans la collaboration entre pairs, doit s'élargir pour inclure des dimensions cognitives et métacognitives ([[chang-shared-epistemic-agency-gai-scientific-writing-2026|Chang et coll., 2026]]).
 - **[[student-engagement|engagement]] critique :** les travaux sur le [[cognitive-offloading|déchargement cognitif]] montrent comment les étudiants qui délèguent l'interprétation à l'IA peuvent perdre le contrôle sur leur propre raisonnement ; les approches critiques et [[metacognition|métacognitives]] visent à le protéger.
 
 **Évalué sur dix modèles, le soutien à l'agence est le domaine où ils performent le moins, après l'apprentissage.** ImpactBench a mesuré « Agency & Purpose » à 56.0% sur les critères positifs (IC à 95% [49.2, 62.5]) et à 43.9% sur les critères négatifs ([36.9, 50.8]), le deuxième plus faible des 14 sous-domaines, et ses critères d'assistance préservant l'autonomie demandent si un modèle propose un contexte et des compromis plutôt que de prescrire un plan d'action ([[impactbench-ai-impact-on-humans-2026|ImpactBench (2026)]]). Les modèles étaient aussi bien moins constants pour éviter de nuire que pour être utiles : un écart de 38.6 points contre 15.9 points.
@@ -149,41 +150,42 @@ Un cadrage étroitement lié est celui de l'**agence épistémique relationnelle
 
 ## Articles liés
 - [[tench-ai-policy-isnt-a-playbook-2026]] — Enquête nationale représentative des enseignants et chefs d'établissement américains sur la couverture de la politique IA, l'agence et cinq stratégies de classe (Tench, Weinstein & James 2026)
-- [[genai-reliance-human-agency-collaborative-learning-2026]] — A helping hand or a dominant partner? Individual perceptions of GenAI reliance and human agency in collaborative learning
+- [[genai-reliance-human-agency-collaborative-learning-2026]] — Une main secourable ou un partenaire dominant ? Perceptions individuelles du recours à l'IA générative et de l'agence humaine dans l'apprentissage collaboratif
 - [[yan-agentivism-learning-theory-ai-2026]] — Une théorie de l'apprentissage de portée moyenne pour l'interaction humain–IA, avec quatre mécanismes et six propositions testables (Yan and Gašević 2026)
 - [[dang-human-ai-collaboration-competency-2026]] — L'agence de l'apprenant comme qualité émergente de la coordination des compétences de domaine, d'IA et métacognitives, et non comme un nœud autonome (Dang et al. 2026)
 
 - [[learner-agency-ai-simulation-2026]] — Accès au choix vs. agence mise en acte : curseurs, agent d'IA facultatif et apprentissage dans une simulation de banc de poissons
-- [[guarded-adoption-genai-higher-education-2026]] — Guarded Adoption of Generative AI in Higher Education
-- [[ai-agents-joyful-assessment-third-space-2026]] — AI agents, joyful assessment, and third space
+- [[guarded-adoption-genai-higher-education-2026]] — Adoption prudente de l'IA générative dans l'enseignement supérieur
+- [[ai-agents-joyful-assessment-third-space-2026]] — Agents d'IA, évaluation joyeuse et tiers espace
 - [[ai-mediated-research-agency-formation-2026]] — Formation de l'agence en recherche médiatisée par l'IA dans la formation scientifique en début de carrière
 - [[layer-sensitive-cognitive-offloading-writing-2026]] — Déchargement cognitif sensible aux couches dans l'écriture assistée par GenAI (Chen 2026)
 - [[school-ai-education-readiness-gaps-agency-2026]] — L'enseignement scolaire de l'IA réduit les écarts de préparation psychologiques mais non cognitifs
 - [[reclaiming-epistemic-agency-co-agency-2026]]
 - [[du-yuan-epistemic-dependence-2026]] — Agence épistémique relationnelle et six critères distinguant la dépendance productive de la dépendance nuisible (Du & Yuan 2026)
 - [[ai-pedagogical-accompaniment-amico]] — Accompagnement pédagogique soutenu par l'IA au service de l'identité STEM
-- [[t2i-competence-paradox-2026]] — The competence paradox: creative identity in text-to-image GenAI use
+- [[t2i-competence-paradox-2026]] — Le paradoxe de la compétence : identité créative dans l'usage de l'IA générative texte-image
 - [[jin-emergent-learner-agency-implicit-hai-2026]] — Emergent learner agency in implicit human-AI collaboration: supportive vs. contrarian personas
 - [[de-barba-srl-genai-2026]] — L'agence de l'apprenant à travers les échelles : régulation, intégration, positionnement
-- [[mishra-control-vs-agency-history-2025]] — Control vs. agency as the essential tension in AIED history
-- [[daoism-ai-education-philosophy-2026]] — Alternative AI Philosophy: Daoism as Method for AI in Education
-- [[human-autonomy-agency-hri-review-2025]] — Human Autonomy and Agency in HRI
+- [[mishra-control-vs-agency-history-2025]] — Contrôle et agence comme tension essentielle dans l'histoire de l'IAEd
+- [[daoism-ai-education-philosophy-2026]] — Philosophie alternative de l'IA : le taoïsme comme méthode pour l'IA en éducation
+- [[human-autonomy-agency-hri-review-2025]] — Autonomie humaine et agence en interaction humain-robot
 - [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly Studio
 - [[teachy-mini-generative-social-robot-higher-ed-2026]] — Teachy Mini
 - [[knowledge-based-design-generative-social-robots-2026]] — Knowledge-Based Design for Generative Social Robots
 - [[young-people-learning-generative-ai-rapid-review-2026]] — Foster student agency in learning-relevant work
-- [[shaw-nave-cognitive-surrender-2026]] — Tri-System Theory and cognitive surrender: how AI reshapes human reasoning (Shaw & Nave 2026)
+- [[shaw-nave-cognitive-surrender-2026]] — Théorie à trois systèmes et capitulation cognitive : comment l'IA refaçonne le raisonnement humain (Shaw & Nave 2026)
 - [[preservice-teacher-agency-genai-design-learning-2026]] — Pre-service teacher agency during GenAI interactions in design for learning (Krushinskaia, Elen & Raes 2026)
-- [[emancipatory-ai-learner-flourishing-2026]] — Emancipatory vision: agency as zero-sum with tool agency
-- [[chen-zou-genai-group-assessment-agency-2026]] — Three patterns of agency in GenAI-mediated group assessment: intensified, restrained, and not enacted
-- [[ai-integrated-teaching-identity-tensions]] — Principled selectivity as teacher agency in AI-integrated teaching (Adiozaman & Segar 2026)
-- [[ai-refusal-higher-education-diagnostic-non-use-2026]] — Refusal as diagnostic evidence: non-use as a situated relation and the uneven right to decline AI (Zagami 2026)
-- [[obyrne-co-constructing-ai-boundaries-agency-judgment-2026]] — epistemic authority asserted through interruption, correction and refusal rather than maximal tool use
-- [[genai-higher-ed-agency-responsibility-discourse-2026]] — Who Acts, Who Knows, Who Answers? A Corpus-Assisted Discourse Analysis of Agency, Epistemic Responsibility, and Accountability in Generative AI Higher Education Research
+- [[emancipatory-ai-learner-flourishing-2026]] — Vision émancipatrice : l'agence comme jeu à somme nulle avec l'agence de l'outil
+- [[chen-zou-genai-group-assessment-agency-2026]] — Trois figures de l'agence dans l'évaluation de groupe médiée par l'IA générative : intensifiée, contenue et non mise en acte
+- [[ai-integrated-teaching-identity-tensions]] — La sélectivité de principe comme agence enseignante dans un enseignement intégrant l'IA (Adiozaman & Segar 2026)
+- [[ai-refusal-higher-education-diagnostic-non-use-2026]] — Le refus comme preuve diagnostique : le non-usage comme relation située et le droit inégal de décliner l'IA (Zagami 2026)
+- [[obyrne-co-constructing-ai-boundaries-agency-judgment-2026]] — l'autorité épistémique affirmée par l'interruption, la correction et le refus plutôt que par un usage maximal de l'outil
+- [[genai-higher-ed-agency-responsibility-discourse-2026]] — Qui agit, qui sait, qui répond ? Une analyse de discours assistée par corpus de l'agence, de la responsabilité épistémique et de la redevabilité dans la recherche sur l'IA générative dans l'enseignement supérieur
 - [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — Open Questions Towards Skill-Sustaining Reliance in Reflective AI Engagement
-- [[fagerlund-competency-agency-purposes-ai-education-2026]] — Competency vs. agency as the purposes of AI education, and the informed AI agency heuristic (Fagerlund et al. 2026)
-- [[canonigo-teacher-mediation-generative-ai-mathematics-2026]] — Teacher mediation as the condition keeping GenAI an artifact for critique rather than an authority (Canonigo 2026)
-- [[charles-teacher-readiness-by-design-ai-rich-2026]] — Teacher agency as a resource mobilized through design, with readiness judged from artifacts rather than usage (Charles 2026)
+- [[fagerlund-competency-agency-purposes-ai-education-2026]] — Compétence et agence comme finalités de l'éducation à l'IA, et l'heuristique de l'agence éclairée en IA (Fagerlund et al. 2026)
+- [[canonigo-teacher-mediation-generative-ai-mathematics-2026]] — La médiation enseignante comme condition maintenant l'IA générative comme artefact à critiquer plutôt que comme autorité (Canonigo 2026)
+- [[charles-teacher-readiness-by-design-ai-rich-2026]] — L'agence enseignante comme ressource mobilisée par la conception, la préparation étant jugée sur les artefacts plutôt que sur l'usage (Charles 2026)
 - [[yang-balancing-teacher-student-agency-2026]] — Équilibrer l'agence de l'enseignant et de l'étudiant dans les outils de co-orchestration pour l'appariement dynamique en temps réel (Yang et al. 2026)
 - [[porath-interpretive-authority-2026]] — Matrice d'autorité interprétative et modèle d'intégration écologique de l'autorité : quatre configurations de qui interprète, et les couches écologiques qui les déplacent
 - [[gyekye-selves-apprenticeship-2026]] — Des étudiants de couleur en programmes d'apprentissage se sont construits eux-mêmes par l'IA via le refus, la négociation et la reconnaissance (« platitude culturelle ») ; Institutional AI Literacy et Recognition Bandwidth
+- [[chang-shared-epistemic-agency-gai-scientific-writing-2026]] — Agence épistémique partagée dans 6 788 tours assistés par ChatGPT en écriture scientifique au secondaire (Chang et al. 2026)

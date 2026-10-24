@@ -1,7 +1,7 @@
 ---
 title: L'éthique
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-10T03:05:35-04:00"
+updated: "2026-10-24T10:37:28-04:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, institutional-ai-policy]
 type: concept
 foundations: [academic-integrity, ai-literacy]
@@ -9,7 +9,7 @@ ethics: [bias-mitigation, equity-in-ai-education, privacy, pedagogical-safety]
 confidence: high
 institutions: [governance, regulation]
 translation_of: concepts/ethics
-source_updated: "2026-10-08T10:20:00-04:00"
+source_updated: "2026-10-18T10:07:01-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -37,6 +37,8 @@ L'éthique est l'épine dorsale normative de l'IA en éducation : chaque outil d
 
 ## Les dimensions éthiques fondamentales
 
+- **Une éthique productive, pas seulement restrictive.** [[learning-analytics-genai-learning-design|Rienties, Divjak et Law (2026)]] concluent que l'aptitude éthique et la fiabilité sont constitutives de la qualité éducative : l'aptitude éthique prédit l'équilibre technico-artistique dans le travail créatif, si bien que l'éthique est une variable de conception plutôt qu'une étape finale de conformité.
+
 - **Équité et biais :** les travaux sur la [[bias-mitigation|réduction des biais]] et sur l'[[equity-in-ai-education|équité dans l'IA en éducation]] examinent si les systèmes d'IA traitent tous les apprenants de manière équitable. Le [[ai-scoring-language-bias-physics|biais lié à la langue]] et les études sur la [[bias-mitigation|réduction des biais]] documentent des iniquités réelles, et la recherche sur la [[marked-pedagogies-linguistic-bias-writing-feedback|rétroaction en écriture]] montre que personnaliser la [[ai-feedback-quality|rétroaction de l'IA]] à l'aide d'attributs des étudiants peut lui-même devenir un vecteur de biais.
 - **Vie privée et consentement :** les travaux sur la [[privacy|vie privée]] examinent la collecte de données, la surveillance des étudiants et le déséquilibre de pouvoir entre les établissements et les apprenants — une contrainte qui s'aiguise à mesure que l'analytique devient plus fine et davantage pilotée par l'IA.
 - **Transparence et [[explainable-ai|explicabilité]] :** les [[xai-education-framework|cadres d'IA explicable]] soutiennent que les étudiants et les enseignants devraient comprendre comment les systèmes d'IA prennent les décisions qui les concernent. Cela s'étend à la transparence destinée aux étudiants au sujet de leur propre usage de l'IA — les [[ai-use-disclosure|déclarations d'usage de l'IA et de divulgation]] — que la recherche montre moins façonnée par une conviction éthique que par la crainte des sanctions, la stigmatisation et une politique ambiguë (voir [[kirsanov-beyond-detection-ai-online-assessments-2026|Kirsanov et al.]], [[chang-should-i-tell-my-teacher-ai-disclosure-2026|Chang et al.]], [[vetter-hidden-cost-disclosure-genai-2026|Vetter et al.]], [[gonsalves-student-non-compliance-ai-declarations-2025|Gonsalves]]).
@@ -52,6 +54,8 @@ L'usage éthique de l'IA n'est pas seulement une affaire de principes mais aussi
 - **Étudiants et enseignants face à la préparation.** [[fekete-ethical-ai-literacy-gaps-2026|Fekete (2026)]] a constaté que les étudiants déclarent une conscience éthique plus élevée que les enseignants (4.03 contre 2.44), alors que les enseignants montrent une plus forte volonté d'utiliser l'IA — les étudiants interprètent l'éthique à travers les travaux de cours immédiats tandis que les enseignants la traitent comme une question de clarté et d'intégrité institutionnelles. Les deux groupes déclarent un soutien institutionnel faible, et la préparation se développe par des canaux différents : la conscience morale des enseignants croît avec le soutien institutionnel et social, tandis que la confiance des étudiants est corrélée à l'[[self-efficacy|auto-efficacité]] et à la collaboration plutôt qu'à l'enseignement formel.
 
 - **L'usage croît plus vite que le consensus éthique.** Sur quatre semestres dans un programme américain de formation des enseignants, l'usage de l'IAG par les étudiants est passé de 57% à 83% pour la préparation à l'évaluation et de 44% à 76% pour les révisions, tandis que les réponses éthiques « incertaines » augmentaient régulièrement et que les utilisateurs d'IA jugeaient son usage académique plus éthique que les non-utilisateurs ([[longitudinal-ai-usage-ethics-policy-teacher-education-2026|Parker et al. (2026)]]).
+
+**L'éthique est centrale pour le domaine mais rarement un résultat mesuré.** Sur 394 études sur l'IAG dans l'enseignement supérieur, l'éthique et l'intégrité académique figuraient parmi les résultats les moins ciblés, et les pratiques de gouvernance étaient sous-déclarées ([[mapping-genai-higher-ed-scoping-review|Lin et al. (2026)]]).
 
 - **Les cadres normatifs ne sont pas interchangeables.** Parmi 151 étudiants de premier cycle espagnols, l'équité morale était une condition nécessaire de l'intention d'utiliser des LLM pour la préparation aux examens (d = 0.338) mais pas un prédicteur suffisant, tandis que les jugements conséquentialiste (β = 0.350) et déontologique (β = 0.329) l'étaient — les étudiants appliquent plusieurs cadres normatifs ([[ethical-conditions-llm-exam-preparation-2026|Pérez-Portabella et al. (2026)]]).
 - **Une structure multidimensionnelle partagée.** Les six thèmes de [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026|Bilgiç & Sever]] — couvrant l'éthique des données, l'éthique des algorithmes et l'éthique pédagogique — forment une chaîne causale interconnectée allant des principes fondamentaux (transparence, responsabilité, équité, autonomie) aux résultats comportementaux, soulignant que l'usage responsable de l'IA dépend autant de feuilles de route institutionnelles claires que de la conscience individuelle.
@@ -87,6 +91,8 @@ Les articles d'éthique de la base de connaissances vont de cadres théoriques (
 Ce plaidoyer pratique est renforcé par des travaux empiriques sur la manière dont l'éthique fonctionne au sein même de la littératie en IA : Zhu et Kong (2026) montrent que la conscience éthique de l'IA — au même titre que l'autonomisation dans la [[problem-solving|résolution de problèmes]] par l'IA — médiatise la relation entre l'[[project-based-learning|apprentissage par projet]] perçu et la satisfaction à l'égard d'un cours de littératie en IA. Leur échelle AI-PBLS validée et les résultats de leur modèle d'équations structurelles (1,027 étudiants) indiquent que le travail par projet crée les conditions dans lesquelles les étudiants construisent un cadre personnel de raisonnement éthique au sujet de l'IA, ce qui renforce l'idée que l'éthique n'est pas un ajout mais un mécanisme central du développement d'une littératie en IA porteuse de sens.
 
 **Le signe de ce mécanisme dépend de ce qui le suit.** Parmi 584 étudiants de premier cycle dont la compétence en IA provenait de l'auto-apprentissage, la compétence a accru la conscience éthique de l'IA (β = 0.644, p < .001). La conscience éthique a ensuite accru l'anxiété liée à l'IA (β = 0.439, p < .001) plutôt que de la réduire — une médiation indirecte uniquement, lue par les auteurs comme une conscience éveillée sans cadre d'adaptation ([[mu-ai-competence-ethical-awareness-anxiety-2026|Mu et al. (2026)]]). Leur conclusion pour l'enseignement de l'éthique est qu'il ne peut pas s'arrêter au niveau cognitif. Une préoccupation relative à la transparence ou à la vie privée doit arriver accompagnée de la voie de gouvernance qui y répond, ce qui explique pourquoi le module qu'ils proposent se situe dans la formation juridique.
+
+La conscience éthique, le raisonnement réflexif et les pratiques responsables [[self-report-measures|autodéclarées]] se développent largement indépendamment. Sur trois vagues annuelles portant sur 350 [[higher-ed|étudiants de premier cycle]] nigérians en informatique, [[ayanwale-ethical-engagement-ai-growth-modeling-2026|Ayanwale et al. (2026)]] ont constaté que les trois progressaient nettement, mais que leurs facteurs de croissance étaient quasi non corrélés et que la conscience initiale ne prédisait pas la croissance ultérieure.
 
 ## Connexions
 
@@ -136,3 +142,4 @@ L'éthique est liée à l'[[equity-in-ai-education|équité dans l'IA en éducat
 - [[longitudinal-ai-usage-ethics-policy-teacher-education-2026]] — Usage de l'IAG, éthique et politiques dans la formation des enseignants : une étude longitudinale (Parker et al. 2026)
 - [[agarwal-ethical-values-norms-aied-2026]] — Valeurs et normes éthiques pour l'IA en éducation
 - [[genai-higher-ed-agency-responsibility-discourse-2026]] — Qui agit, qui sait, qui répond ? Une analyse de discours assistée par corpus de l'agentivité, de la responsabilité épistémique et de l'imputabilité dans la recherche sur l'IA générative dans l'enseignement supérieur
+- [[ayanwale-ethical-engagement-ai-growth-modeling-2026]] — La conscience éthique, la réflexion et les pratiques responsables déclarées ont progressé largement indépendamment sur trois vagues annuelles

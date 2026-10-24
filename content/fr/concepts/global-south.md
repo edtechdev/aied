@@ -1,7 +1,7 @@
 ---
 title: "Sud global"
 created: "2026-08-18T14:55:00-04:00"
-updated: "2026-10-10T03:41:06-04:00"
+updated: "2026-10-24T10:41:34-04:00"
 type: concept
 foundations: [ai-literacy]
 technology: [generative-ai]
@@ -9,7 +9,7 @@ ethics: [culturally-relevant-pedagogy, equity-in-ai-education, global-south]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/global-south
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-21T21:15:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -21,7 +21,7 @@ ai_assist:
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
 
-Le **Sud global** désigne les pays d'Afrique, d'Asie, d'Amérique latine et d'Océanie souvent marginalisés sur les plans économique, politique et historique par rapport au Nord global. Dans la [[research-methods-aied|recherche]] sur l'[[ai-education|IA en éducation]], les contextes du Sud global sont de plus en plus reconnus comme sous-représentés dans le corpus de données probantes, alors même qu'ils soulèvent des questions distinctes d'[[equity-in-ai-education|équité]], de [[culturally-relevant-pedagogy|pertinence culturelle]], de contraintes de ressources et de domination épistémique des données d'entraînement occidentales et anglophones.
+> **Sud global** — pays d'Afrique, d'Asie, d'Amérique latine et d'Océanie souvent marginalisés sur les plans économique, politique et historique par rapport au Nord global. Dans la [[research-methods-aied|recherche]] sur l'[[ai-education|IA en éducation]], ces contextes sont de plus en plus reconnus comme sous-représentés dans le corpus de données probantes, alors même qu'ils soulèvent des questions distinctes d'[[equity-in-ai-education|équité]], de [[culturally-relevant-pedagogy|pertinence culturelle]], de contraintes de ressources et de domination épistémique des données d'entraînement occidentales et anglophones.
 
 ## Questions à examiner
 
@@ -75,20 +75,20 @@ Le bilan de la mise à l'échelle fait partie de ce tableau, et il est sobre. Le
 
 ## Articles liés
 
-- [[genai-assessment-african-higher-education-review-2026]] — Rethinking assessment in the age of generative AI: A systematic literature review of African higher education
+- [[genai-assessment-african-higher-education-review-2026]] — Repenser l'évaluation à l'ère de l'IA générative : une revue systématique de la littérature sur l'enseignement supérieur africain
 
-- [[adeniranye-ai-integration-nigerian-higher-education-2026]] — Institutional structures, digital inequality, and AI integration in Nigerian higher education
+- [[adeniranye-ai-integration-nigerian-higher-education-2026]] — Structures institutionnelles, inégalité numérique et intégration de l'IA dans l'enseignement supérieur nigérian
 - [[nguyen-genai-global-south-review-2026]]
 - [[socio-cognitive-genai-adoption-engineering-2026]] — Unified socio-cognitive model for engineering education (Bangladesh)
 - [[connected-ai-lesson-planning-vietnam]] — ConnectED: Vietnamese Lesson Planning
 - [[iks-instruct-dataset-indian-knowledge]] — IKS-Instruct: Indian Knowledge Systems Dataset
 - [[nsmq-riddles-science-math-benchmark]] — NSMQ Riddles: Ghana STEM Benchmark
-- [[genai-minoritized-knowledges-disability]] — Marginalization of minoritized knowledges
+- [[genai-minoritized-knowledges-disability]] — Marginalisation des savoirs minorisés
 - [[llm-cultural-relevance-k12]] — LLMs for Culturally Relevant K-12 Pedagogy
 - [[genai-integration-constructivist-higher-ed-bangladesh-2026]] — GenAI integration in Bangladeshi higher ed through constructivism (Alam et al. 2026)
 - [[khlaif-assistive-genai-visually-impaired-2026]] — Assistive GenAI for visually impaired learners
-- [[culturally-aware-student-stress-chatbot-2026]] — An AI-Powered Culturally Aware Chatbot for Stress Detection and Wellness Support among Pakistani University Students Using NLP and Machine Learning
-- [[el-salvador-ai-tutoring-selection-claim-2026]] — Bounding the learning claim of El Salvador's AI tutoring pilot (Restrepo Morales et al. 2026)
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Academic developers as digital mediators in South African HDIs: digital inequality vs. algorithmic coloniality
-- [[ai-ethical-awareness-ghana-students-2026]] — Artificial intelligence ethical awareness of Ghanaian university students
-- [[teachers-contextual-ethical-reasoning-ai-2026]] — Ethical principles of AI in education: teachers' contextual ethical reasoning
+- [[culturally-aware-student-stress-chatbot-2026]] — Un chatbot culturellement sensible propulsé par l'IA pour la détection du stress et le soutien au bien-être chez des étudiants pakistanais, par TAL et apprentissage automatique
+- [[el-salvador-ai-tutoring-selection-claim-2026]] — Borner la prétention d'apprentissage du pilote de tutorat par IA au Salvador (Restrepo Morales et al. 2026)
+- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Les développeurs pédagogiques comme médiateurs numériques dans les établissements sud-africains historiquement défavorisés : inégalité numérique contre colonialité algorithmique
+- [[ai-ethical-awareness-ghana-students-2026]] — La conscience éthique de l'intelligence artificielle chez les étudiants universitaires ghanéens
+- [[teachers-contextual-ethical-reasoning-ai-2026]] — Principes éthiques de l'IA en éducation : le raisonnement éthique contextualisé des enseignants

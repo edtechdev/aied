@@ -1,7 +1,7 @@
 ---
 title: L'apprentissage expérientiel
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-10-10T03:05:35-04:00"
+updated: "2026-10-24T10:48:30-04:00"
 type: concept
 pedagogy: [active-learning, embodied-learning, experiential-learning, project-based-learning]
 level: [higher ed]
@@ -65,7 +65,7 @@ L'expérience intégrée au monde du travail peut être la condition déterminan
 - [[workforce-readiness-smart-manufacturing-wrl-2026]] — Le cadre des Workforce Readiness Levels pour la fabrication intelligente à l'ère de l'IA
 - [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Favoriser l'apprentissage durable par l'intelligence incarnée (E3-HOT)
 - [[genai-cybersecurity-ocr-multimodal-instruction-2025]] — L'IAG en éducation à la cybersécurité
-- [[bots-blocks-project-based-robotics-education-2026]] — Bots and Blocks
+- [[bots-blocks-project-based-robotics-education-2026]] — Bots et blocs : un cours de robotique par projets
 - [[edusim-llm-robotic-simulation-education-2026]] — EduSim-LLM
 - [[white-wu-robotics-ai-education-2026]] — Robotique et IA en éducation
 - [[ai-lms-middle-school-longitudinal]] — Étude longitudinale sur un LMS intégrant l'IA au collège

@@ -5,7 +5,7 @@ type: concept
 technology: [ai-technologies, learning-analytics, multimodal, visualization]
 confidence: medium
 created: "2026-08-29T12:55:12-04:00"
-updated: "2026-10-10T03:41:12-04:00"
+updated: "2026-10-24T10:48:30-04:00"
 translation_of: concepts/visualization
 source_updated: "2026-10-13T09:18:19-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
@@ -76,10 +76,10 @@ Des systèmes pratiques appliquent ces principes à l'échelle. AISSA combine la
 
 ## Articles liés
 
-- [[interactive-learning-dashboards-engagement]] — Rethinking learning visualizations as engagement tools via pedagogical agents
+- [[interactive-learning-dashboards-engagement]] — Repenser les visualisations d'apprentissage comme outils d'engagement via des agents pédagogiques
 - [[mllm-scientific-visualization-literacy]] — Benchmarking multimodal LLMs for scientific visualization literacy
 - [[nuclear-diffusion-text-to-image-learning-2026]] — Domain-adapted text-to-image models for nuclear concept visualization
-- [[data-comics-for-education-evaluating-effectiveness-benefits-ethics]] — Effectiveness, benefits, and ethics of AI-assisted data comics
+- [[data-comics-for-education-evaluating-effectiveness-benefits-ethics]] — Efficacité, bénéfices et éthique des bandes dessinées de données assistées par l'IA
 - [[cfes-p24-multimodal-slide-auditing-2026]] — Counterfactual benchmark for multimodal slide auditing
 - [[mejia-domenzain-ml-findings-teachers-blended-2026]] — Making ML findings accessible to teachers in blended classrooms
-- [[genai-visualization-education-framework-2026]] — Constructing Meaning, Not Just Charts: A Cognitive–Instructional Framework for Generative AI Usage in Visualisation Education
+- [[genai-visualization-education-framework-2026]] — Construire du sens, pas seulement des graphiques : un cadre cognitivo-instructionnel pour l'usage de l'IA générative dans l'enseignement de la visualisation

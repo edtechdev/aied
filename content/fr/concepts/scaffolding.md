@@ -1,7 +1,7 @@
 ---
 title: "L'étayage"
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-10T03:05:31-04:00"
+updated: "2026-10-24T10:37:52-04:00"
 connected_faqs: [designing-ai-into-learning, developing-ai-tutor, asynchronous-online-courses-ai]
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
@@ -11,7 +11,7 @@ assessment: [feedback]
 confidence: high
 connected_resources: [onmicro-ai]
 translation_of: concepts/scaffolding
-source_updated: "2026-10-15T08:25:00-04:00"
+source_updated: "2026-10-24T06:40:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -57,6 +57,7 @@ ai_assist:
 
 - **Le mentorat comme étayage d'un processus de recherche.** [[scaffolding-systematic-reviews-2026|Wang et coll. (2026)]] traitent une revue systématique comme une expérience d'apprentissage intentionnelle dans laquelle le mentorat fournit un étayage méthodologique et émotionnel intégré, tandis que l'automatisation est confinée à la charge procédurale telle que le tri des résumés, et que l'extraction, la conciliation et la synthèse des données demeurent l'affaire des évaluateurs humains.
 - **L'étayage intégré au support, et non greffé par-dessus :** [[wang-chatgpt-comments-video-learning-scaffolding-2026|Wang, Du et Jin (2026)]] opérationnalisent quatre principes d'étayage à l'intérieur d'un lecteur vidéo — l'ajustement de la profondeur des commentaires fondé sur la [[sociocultural-learning|ZPD]], l'étayage à *atténuation* (le soutien de connaissance s'amincit le long de la frise chronologique), l'étayage *distribué* (chaque commentaire est soit un soutien de connaissance, soit un soutien émotionnel), et le **calage** dérivé de la charge cognitive — en calculant l'entropie vidéo au niveau de l'image et en insérant des commentaires uniquement dans les intervalles pauvres en information. Leur ablation à quatre conditions menée sur 20 apprenants a montré que le module de calage par entropie produisait l'effet le plus fort et le plus robuste sur la qualité perçue lorsqu'il était retiré (Z = −2,85, r = 0,45, p = ,004), ce qui fait du *calage* de l'étayage une variable de conception mesurable plutôt qu'un détail d'empaquetage. L'étude comporte aussi un avertissement pour l'étayage automatisé : les commentaires générés par [[generative-ai|ChatGPT]] étaient constamment plus difficiles à lire, moins lexicalement divers et moins alignés sur le sujet que les commentaires d'enseignants, avec le plus grand écart de pertinence dans le soutien émotionnel ([[ai-feedback-quality|qualité de la rétroaction]]).
+- **L'étayage émotionnel comme couche d'invite, mesuré contre l'étayage cognitif seul.** À interface et leçon fixes, la version émotionnelle demandait aux étudiants de rapporter leurs ressentis à trois moments et employait ces rapports pour faire varier le ton, l'étayage affectif et le défi cognitif selon les évaluations de contrôle et de valeur, avec une température de 0,7 afin que les adaptations orientent les réponses plutôt qu'elles ne les dictent. Dans les traces de dialogue, elle a produit davantage de travail en phase de performance et d'auto-réflexion que les invites d'ARS seules, ainsi que plus de plaisir et moins d'ennui. Elle n'a rien ajouté aux gains d'apprentissage ni à la confiance en soi lors d'une seule session de 25 minutes ([[diordiev-emotional-scaffolding-genai-srl-2026|Diordiev, Stenberdt et Makransky, 2026]]).
 - **L'étayage préféré n'est pas toujours le plus efficace :** [[preferred-scaffolding-ai-mathematical-modeling|Zhu, Yang et Yang (2026)]] ont montré, dans une expérience intra-sujet, que les étudiants obtenaient les meilleures performances avec les rôles d'IA de pair et d'assistant d'enseignement (qui favorisent le raisonnement [[collaborative-learning|collaboratif]]) tout en préférant les rôles plus directifs de tuteur et d'étudiant excellent — une divergence entre préférence et performance qui met en garde contre l'assimilation de la préférence de l'apprenant à un étayage efficace dans la modélisation mathématique assistée par IA.
 - **Un étayage plus structuré n'est pas automatiquement un étayage plus agentif :** un bot de conception expert a augmenté la durée d'interaction et les invites auto-rédigées par rapport à ChatGPT nu, mais l'agentivité dans la résolution collaborative de problèmes a chuté dans les deux conditions, l'accord au lieu de la critique étant le comportement d'agentivité la plus faible observé ([[preservice-teacher-agency-genai-design-learning-2026|Krushinskaia et coll. (2026)]]).
 

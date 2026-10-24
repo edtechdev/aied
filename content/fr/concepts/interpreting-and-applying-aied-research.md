@@ -1,7 +1,7 @@
 ---
 title: "Interpréter et appliquer la recherche sur l'IA en éducation"
 created: "2026-09-19T05:41:27-04:00"
-updated: "2026-10-10T03:41:06-04:00"
+updated: "2026-10-24T10:38:14-04:00"
 type: concept
 foundations: [limitations-in-aied-research]
 research_method: [literature review]
@@ -13,7 +13,7 @@ page_kind: [evaluation, framework]
 confidence: high
 connected_faqs: [reporting-interpreting-aied-research, research-gaps-aied, how-can-ai-assist-with-educational-research]
 translation_of: concepts/interpreting-and-applying-aied-research
-source_updated: "2026-10-05T11:23:36-04:00"
+source_updated: "2026-10-16T08:47:09-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -68,6 +68,7 @@ Si vous ne retenez qu'une chose de cette page, retenez que le chiffre-phare est 
 - **Un nom de produit n'est pas une méthode d'enseignement.** En auditant les comparaisons qui sous-tendent une méta-analyse éminente, [[weidlich-chatgpt-effect-search-cause-2025|Weidlich et coll. (2025)]] ont montré que seulement **21%** comportaient un traitement bien défini, un groupe témoin et une mesure valide de l'apprentissage — et l'avantage rapporté pour « l'usage de ChatGPT » est ressorti plus grand que pour des [[intelligent-tutoring|systèmes de tutorat intelligent]] conçus à cet effet (g = 0.7 contre 0.66), ce qui est un signal d'alerte plutôt qu'un triomphe.
 - **La performance avec l'outil est régulièrement prise pour de l'apprentissage.** Dans une étude de mathématiques en contexte [[k-12|primaire et secondaire]], des étudiants s'exerçant avec un [[conversational-ai|agent conversationnel]] à usage général ont obtenu de meilleures notes de pratique, puis ont obtenu un score **environ 17% inférieur** à celui de camarades sans accès à l'IA à l'épreuve finale à livre fermé ([[stanford-evidence-base-ai-k12-2026|le corpus de données probantes de Stanford sur l'IA dans l'enseignement primaire et secondaire]]).
 - **Les propres revues du domaine ne survivent pas à l'audit.** [[oneill-presumed-effective-meta-analysis-2026|L'audit d'O'Neill (2026)]] portant sur **14 méta-analyses évaluées par les pairs** affirmant que l'IA améliore l'éducation a montré qu'**aucune** ne fournissait de base valide aux affirmations qu'elle avançait, et que, parmi 46 études primaires choisies au hasard, **61%** présentaient des problèmes de validité. Le problème n'est pas un seul mauvais article ; c'est une culture du reporting.
+- **Une revue peut quantifier le déséquilibre de publication dans son propre corpus.** Une revue systématique de 155 études sur l'enseignement supérieur a constaté que 117 (75.5%) rapportaient une mise en œuvre réussie, 124 (80.0%) ne couvraient que l'impact à court terme, et seulement 23 (14.8%) traitaient d'échecs en matière d'[[ethics|éthique]], d'équité ou de gouvernance : c'est le déséquilibre que décrivent les contrôles ci-dessus, mesuré sur la base de preuves propre à la revue ([[ai-higher-ed-service-delivery-systematic-review-2026|Nyamboga (2026)]]).
 - **Les auto-déclarations flattent tout le monde.** Les personnes évaluent leurs propres compétences en [[ai-literacy|IA]] environ **40%** plus haut que ne le montrent les mesures de performance, ce qui explique que les enquêtes de satisfaction et de confiance soient les données probantes les plus faibles sur lesquelles agir ([[self-report-measures|les mesures auto-déclarées]], la [[educational-measurement|mesure en éducation]]).
 - **La plupart des produits déjà présents dans les salles de classe n'ont aucune donnée probante indépendante.** [[instruction-partners-ai-in-action-learning-tour-2026|La tournée d'apprentissage 2025-26 d'Instruction Partners]] a profilé 20 produits d'IA destinés aux étudiants et a montré que, sur les 16 disposant de profils complets, seulement sept avaient fait l'objet d'une évaluation indépendante examinant la réussite des étudiants à travers les groupes d'étudiants aux États-Unis ; deux n'avaient été étudiés qu'à l'étranger, quatre avaient des études en cours et trois reposaient sur des données internes uniquement. Les auteurs soutiennent que des études causales indépendantes couvrant les groupes prioritaires devraient être l'attente pour tous les produits destinés aux étudiants — ce qui n'est pas encore la norme pour des outils que les écoles emploient déjà.
 
@@ -169,16 +170,17 @@ Les vérifications ci-dessus ne sont pas une sagesse populaire ; elles provienne
 
 ## Articles liés
 
-- [[oneill-presumed-effective-meta-analysis-2026]] — Presumed Effective: forensic audit of 14 AIED meta-analyses
-- [[bartos-ai-learning-meta-meta-analysis-2026]] — Publication-bias-adjusted AI effects about one-third of reported size
-- [[weidlich-chatgpt-effect-search-cause-2025]] — ChatGPT in Education: An Effect in Search of a Cause
-- [[ai-supported-instruction-stem-meta-analysis-2026]] — Inclusion criteria used as the rigor threshold, and heterogeneity that changes with the model
-- [[know-when-to-trust-ai-scoring-reliability-2026]] — When automated scoring reliability meets the task's measurement ceiling
-- [[verification-quality-reliance-calibration-genai-2026]] — What the verification and reliance literature does not measure
-- [[citation-errors-hallucinations-computing-education-2026]] — Fabricated references that reached print in 2025–2026
-- [[stanford-evidence-base-ai-k12-2026]] — Practice gains, exam losses: the assistance-removal problem in K-12 math
-- [[ai-tutoring-micro-rct-gcse-science-2026]] — Subgroup effects whose confidence intervals cross zero
-- [[chick-faculty-development-ethical-ai-2026]] — Enabling conditions: policy signals, personal subscriptions, no time
-- [[ai-tutoring-quality-k12-methodologies-2026]] — Vendor metrics with their calibration and experiment count disclosed
-- [[ai-assisted-assessment-instruction-higher-ed-2026]] — Findings tied to model versions, and the field's churn
-- [[instruction-partners-ai-in-action-learning-tour-2026]] — Independent-evidence counts for 16 student-facing AI products already in use
+- [[oneill-presumed-effective-meta-analysis-2026]] — Presumed Effective : audit médico-légal de 14 méta-analyses en AIED
+- [[bartos-ai-learning-meta-meta-analysis-2026]] — Effets de l'IA ajustés du biais de publication, environ un tiers de la taille rapportée
+- [[weidlich-chatgpt-effect-search-cause-2025]] — ChatGPT dans l'éducation : un effet en quête d'une cause
+- [[ai-supported-instruction-stem-meta-analysis-2026]] — Les critères d'inclusion comme seuil de rigueur, et une hétérogénéité qui varie avec le modèle
+- [[know-when-to-trust-ai-scoring-reliability-2026]] — Quand la fiabilité de la notation automatisée bute sur le plafond de mesure de la tâche
+- [[verification-quality-reliance-calibration-genai-2026]] — Ce que la littérature sur la vérification et la confiance ne mesure pas
+- [[citation-errors-hallucinations-computing-education-2026]] — Des références fabriquées parvenues sous presse en 2025 et 2026
+- [[stanford-evidence-base-ai-k12-2026]] — Gains à l'entraînement, pertes à l'examen : le problème du retrait de l'assistance en mathématiques au primaire et au secondaire
+- [[ai-tutoring-micro-rct-gcse-science-2026]] — Des effets de sous-groupes dont les intervalles de confiance traversent zéro
+- [[chick-faculty-development-ethical-ai-2026]] — Des conditions favorables : signaux politiques, abonnements personnels, absence de temps
+- [[ai-tutoring-quality-k12-methodologies-2026]] — Des indicateurs de fournisseur dont la calibration et le nombre d'expériences sont divulgués
+- [[ai-assisted-assessment-instruction-higher-ed-2026]] — Des résultats liés aux versions de modèles, et le renouvellement rapide du domaine
+- [[instruction-partners-ai-in-action-learning-tour-2026]] — Le décompte des preuves indépendantes pour 16 produits d'IA destinés aux élèves déjà en usage
+- [[ai-higher-ed-service-delivery-systematic-review-2026]] — Une revue peut quantifier le déséquilibre de publication dans son propre corpus

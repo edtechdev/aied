@@ -1,7 +1,7 @@
 ---
 title: "Le savoir technologique, pédagogique et disciplinaire (TPACK)"
 created: "2026-08-14T10:37:25-04:00"
-updated: "2026-10-10T03:41:12-04:00"
+updated: "2026-10-24T10:43:48-04:00"
 type: concept
 foundations: [ai-literacy, curriculum-design, educational-development, learning-design, teacher-role, tpack, teacher-ai-competency]
 technology: [generative-ai]
@@ -106,28 +106,28 @@ Le TPACK est le cadre organisateur du versant enseignant de la base de données 
 
 - [[wu-li-evaluation-indicator-ai-certificate-programs-2026]] — Evaluation Indicator System for AI Certificate Programs
 - [[pedagogy-first-technology-second-teacher-knowledge-2026]] — Étude transversale aux niveaux : « pédagogie d'abord, technologie ensuite » — le TPAIK l'emporte sur le TAIK technique pour les résultats des étudiants (Shen et al. 2026)
-- [[tpack-genai-inservice-teachers-mediation-2026]] — In-service teachers' TPACK-GenAI and the mediating role of pedagogical knowledge (Mohebi & ElSayary 2026)
+- [[tpack-genai-inservice-teachers-mediation-2026]] — TPACK-IA générative des enseignants en exercice et rôle médiateur des connaissances pédagogiques (Mohebi & ElSayary 2026)
 - [[reclaiming-epistemic-agency-co-agency-2026]]
 - [[crompton-faculty-technology-integration-standards-2026]] — Faculty standards for technology integration (TPACK-related DBR)
-- [[edurev-100741-tpack-genai-review]] — Integrating generative AI into student learning: A systematic review from a TPACK perspective
+- [[edurev-100741-tpack-genai-review]] — Intégrer l'IA générative dans l'apprentissage des étudiants : une revue systématique du point de vue du TPACK
 - [[ai-tpack-teacher-multi-agent-workflow]] — Modeling AI-TPACK through teacher multi-agent workflows
 - [[ai-tpack-preservice-math-teachers]] — AI-TPACK readiness among pre-service mathematics teachers
-- [[choi-teacher-ai-interaction-lesson-design-2026]] — Teacher-AI interaction in lesson design: Intelligent-TPACK, experience, and proficiency interplay (Choi et al. 2026)
-- [[genai-pd-ai-pck-learning-gain-2026]] — Intensive GenAI professional development and AI-PCK gains
+- [[choi-teacher-ai-interaction-lesson-design-2026]] — Interaction enseignant-IA dans la conception de leçons : TPACK intelligent, expérience et maîtrise en jeu (Choi et al. 2026)
+- [[genai-pd-ai-pck-learning-gain-2026]] — Développement professionnel intensif en IA générative et gains d'AI-PCK
 - [[teacher-ai-teaming-five-levels]] — Five-level teacher-AI teaming framework
-- [[teacher-ai-adoption-confidence]] — Teacher confidence and AI adoption
-- [[teacher-education-ai-literacy-sdt-2026]] — Teacher education for AI literacy via self-determination theory
+- [[teacher-ai-adoption-confidence]] — Confiance des enseignants et adoption de l'IA
+- [[teacher-education-ai-literacy-sdt-2026]] — Formation des enseignants à la littératie en IA par la théorie de l'autodétermination
 - [[genai-literacy-training-teacher-education-dbr-2026]] — Design-based research GenAI literacy training
 - [[rail-ed-genai-literacy-teacher-education]] — Rethinking GenAI literacy in teacher education
-- [[sec-ai-literacy-narrative-review-2026]] — Social-emotional competencies and AI literacy
-- [[genai-runaway-object-math-higher-ed]] — GenAI and mathematics in higher education
-- [[ai-changing-teaching-workflows]] — How AI is changing teaching workflows
+- [[sec-ai-literacy-narrative-review-2026]] — Compétences socio-émotionnelles et littératie en IA
+- [[genai-runaway-object-math-higher-ed]] — L'IA générative et les mathématiques dans l'enseignement supérieur
+- [[ai-changing-teaching-workflows]] — Comment l'IA transforme les flux de travail des enseignants
 - [[sutedjo-faculty-genai-tpack-21-2026]] — Faculty self-perceived TPACK-21 knowledge for GenAI in higher education (Sutedjo, Chowdhury & Liu 2026)
-- [[ethically-mediated-ai-tpack-china-2026]] — Towards a New AI-TPACK Framework: ethics as an integrative mediator of technical AI knowledge (Chen et al. 2026)
-- [[ai-training-science-teacher-tpack-distance-2026]] — Comparative survey of 186 South African science student teachers: campus advantage in self-reported TPACK, and AI training associated with weaker reported TPACK at the distance institution
+- [[ethically-mediated-ai-tpack-china-2026]] — Vers un nouveau cadre AI-TPACK : l'éthique comme médiateur intégratif des connaissances techniques en IA (Chen et al. 2026)
+- [[ai-training-science-teacher-tpack-distance-2026]] — Enquête comparative auprès de 186 étudiants sud-africains en formation scientifique : avantage du campus dans le TPACK auto-déclaré, et formation à l'IA associée à un TPACK déclaré plus faible dans l'établissement à distance
 - [[ai-literacy-ai-integrated-inquiry-science-teaching-2026]] — AI-TPACK and science teaching self-efficacy serially mediate AI literacy's effect on inquiry-integration intention (Zou et al. 2026)
 - [[chen-osman-preservice-physics-tpack-ctd-pbl-2026]]
-- [[intelligent-tpack-pd-intervention-hongkong-2025]] — Intelligent-TPACK professional development for university teachers: dimension-resolved gains, attendance over self-perceived engagement — AI-supported CTD-PBL module and pre-service physics teachers' TPACK and collaborative problem solving (Chen & Osman 2026)
+- [[intelligent-tpack-pd-intervention-hongkong-2025]] — Développement professionnel en TPACK intelligent pour les enseignants universitaires : gains par dimension et participation plutôt qu'engagement auto-perçu ; module CTD-PBL soutenu par l'IA chez des enseignants de physique en formation initiale, et leur TPACK et résolution collaborative de problèmes (Chen & Osman 2026)
 - [[human-ai-collaboration-design-education-rubric-2026]] — Assessing Human-AI Collaboration in Design Education: a process-oriented rubric grounded in an extended AI-TPACK framework
-- [[capability-decision-model-teacher-readiness-2026]] — Ordered capability-first model of teacher AI readiness and its construct-overlap warning
-- [[digital-competence-ai-responsive-pedagogy-2026]] — Scoping review warning that competence-framework dominance partly reflects search descriptors, not field prevalence
+- [[capability-decision-model-teacher-readiness-2026]] — Modèle ordonné « capacité d'abord » de la préparation des enseignants à l'IA et son avertissement de chevauchement de construits
+- [[digital-competence-ai-responsive-pedagogy-2026]] — Avertissement d'une revue de cadrage : la dominance des référentiels de compétences reflète en partie les descripteurs de recherche, et non la prévalence du domaine

@@ -1,7 +1,7 @@
 ---
 title: "Administrateurs"
 created: "2026-05-09T10:44:35-04:00"
-updated: "2026-10-10T02:17:25-04:00"
+updated: "2026-10-24T10:38:23-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [scaffolding]
@@ -13,7 +13,7 @@ level: [higher ed]
 confidence: medium
 institutions: [educational-policy-ai]
 translation_of: concepts/administrator
-source_updated: "2026-10-01T20:35:10-04:00"
+source_updated: "2026-10-16T08:47:09-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -39,6 +39,8 @@ ai_assist:
 ## Introduction
 
 L'adoption de l'IA dans l'éducation n'est pas purement une décision de classe ; elle est aussi une décision institutionnelle. Les administrateurs — proviseurs, doyens, directeurs des systèmes d'information et dirigeants d'établissement — fixent les conditions dans lesquelles les enseignants et les étudiants utilisent l'IA, en équilibrant l'opportunité pédagogique face à la gouvernance, à l'allocation des ressources et au risque.
+
+[[students-at-stake-ai-deployment-risks-2026|Student Defense (2026)]] fournit un filtre d'approvisionnement portatif pour exactement la décision à laquelle les administrateurs font face : avant de déployer un produit d'IA, demander quel problème est résolu, si une capacité de gouvernance existe, si l'établissement fait preuve de transparence, et si le déploiement crée de la valeur pour les étudiants, en cadrant le choix comme une question de droits, de choix, de finances et d'avenir des étudiants plutôt que comme une transaction d'approvisionnement.
 
 ### Comment la perspective de l'administrateur apparaît dans la recherche
 
@@ -81,3 +83,4 @@ La perspective de l'administrateur est liée à la [[educational-policy-ai|polit
 - [[genai-policies-higher-ed-computing]] — Politique institutionnelle sur GenAI dans le domaine de l'informatique
 - [[institutional-change-framework-ai]] — Cadre de changement institutionnel pour l'IA
 - [[edtech-privacy-deferral-2026]] — « On corrigera plus tard » : l'éducation, l'IA et l'ajournement de la vie privée des étudiants dans les technologies éducatives
+- [[students-at-stake-ai-deployment-risks-2026]] — Un filtre d'approvisionnement en quatre questions, cadré comme une question de droits des étudiants plutôt que de gestion du risque

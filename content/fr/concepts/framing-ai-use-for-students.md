@@ -1,7 +1,7 @@
 ---
 title: "La manière dont l'usage de l'IA est présenté aux étudiants"
 created: "2026-08-19T08:05:00-04:00"
-updated: "2026-10-10T03:41:06-04:00"
+updated: "2026-10-24T10:37:28-04:00"
 type: concept
 foundations: [academic-integrity, ai-literacy]
 pedagogy: [collaborative-learning, motivation]
@@ -28,7 +28,7 @@ ai_assist:
 ## Questions à examiner
 
 - Le simple fait de rendre l'IA accessible aux étudiants a été associé à un usage inefficace, voire contraire à l'éthique, tandis que le fait de présenter et d'intégrer explicitement un usage approprié améliorait les résultats. Si la présence de l'outil compte moins que la manière dont il est présenté, qu'est-ce que cela suggère quant à l'importance accordée au seul fait de « donner l'IA aux étudiants » ?
-- La connaissance qu'ont les étudiants des règles [[governance|institutionnelles]] sur l'IA n'entretient que des liens faibles avec ce qu'ils font réellement — la plupart utilisent l'IA générative, beaucoup ne savent pas si leur usage est conforme, et ils se tournent vers des outils accessés de manière privée. Pourquoi les règles ne parviennent-elles pas à changer les comportements, et qu'est-ce qui pourrait persuader, au lieu de seulement informer ?
+- La connaissance qu'ont les étudiants des règles institutionnelles sur l'IA n'entretient que des liens faibles avec ce qu'ils font réellement — la plupart utilisent l'IA générative, beaucoup ne savent pas si leur usage est conforme, et ils se tournent vers des outils accessés de manière privée. Pourquoi les règles ne parviennent-elles pas à changer les comportements, et qu'est-ce qui pourrait persuader, au lieu de seulement informer ?
 - Lorsque les institutions réagissent à l'IA par la peur et la condamnation, les étudiants peuvent cacher ou rationaliser leur usage plutôt que d'apprendre à bien l'utiliser. Avez-vous vu une réaction de « panique morale » pousser les étudiants au secret ? À quoi ressemblerait une approche recentrée, axée sur l'opportunité ?
 - L'anxiété liée à l'IA n'est pas purement un obstacle : les étudiants qui s'inquiétaient de l'exactitude et du plagiat étaient *plus* susceptibles de vérifier et de réviser les productions de l'IA que de les accepter sans examen critique. Comment une anxiété productive pourrait-elle être canalisée vers une compétence évaluative, au lieu d'être réprimée ?
 - Les étudiants construisent leur propre sens de ce qui est acceptable à travers des « sites » — les intentions des enseignants, les documents de cours, les normes entre pairs et les messages institutionnels — qui divergent souvent. Lorsque ces messages se contredisent, lequel l'emporte selon vous, et comment la manière de présenter l'IA comble-t-elle cet écart ?
@@ -39,7 +39,9 @@ Ce concept se situe entre deux notions plus familières. Là où le [[technology
 
 ## Pourquoi la présentation compte
 
-La présentation compte parce que **la politique et les règles ne changent pas de manière fiable le comportement à elles seules**. La [[research-methods-aied|recherche]] par questionnaire sur la conscience des règles [[regulation|réglementaires]] montre que la connaissance qu'ont les étudiants des règles institutionnelles sur l'IA générative n'entretient que des associations faibles à modérées avec ce qu'ils font réellement — la plupart des étudiants utilisent des outils d'[[generative-ai|IA générative]], plus de la moitié ne savent pas si leur usage est conforme aux réglementations institutionnelles, et ils se tournent vers des outils accessés de manière privée plutôt que vers ceux fournis par l'établissement.([[student-regulatory-awareness-genai]]) Connaître les règles est nécessaire mais insuffisant ; le message doit *persuader*, et pas seulement informer.
+La présentation compte parce que **la politique et les règles ne changent pas de manière fiable le comportement à elles seules**. La [[research-methods-aied|recherche]] par questionnaire sur la conscience des règles [[regulation|réglementaires]] montre que la connaissance qu'ont les étudiants des règles institutionnelles sur l'IA générative n'entretient que des associations faibles à modérées avec ce qu'ils font réellement — la plupart des étudiants utilisent des outils d'IA générative, plus de la moitié ne savent pas si leur usage est conforme aux réglementations institutionnelles, et ils se tournent vers des outils accessés de manière privée plutôt que vers ceux fournis par l'établissement.([[student-regulatory-awareness-genai]]) Connaître les règles est nécessaire mais insuffisant ; le message doit *persuader*, et pas seulement informer.
+
+Un cadrage différencié peut provenir d'une seule politique plutôt que seulement de sites différents : une analyse de sentiment de 36 politiques universitaires a trouvé les déclarations sur l'enseignement formulées positivement tandis que celles sur l'IA générative et l'éthique étaient formulées négativement, si bien que les étudiants rencontraient l'encouragement et la retenue dans un même document ([[sun-governing-genai-policy-cross-national-2026|Sun et al. (2026)]]).
 
 Le cadrage détermine aussi si les étudiants font l'expérience de l'IA comme d'une **menace à éviter ou à contourner** ou comme d'une **ressource à employer délibérément**. Lorsque les institutions réagissent à l'IA par la peur et la condamnation — ce qu'une lignée de travaux appelle une « panique morale » récurrente — elles poussent les étudiants à cacher ou à rationaliser leur usage plutôt qu'à apprendre à bien l'utiliser.([[moral-panic-genai-classroom]]) Transformer l'anxiété et la condamnation en opportunité structurée change toute la dynamique de l'[[student-engagement|engagement des étudiants]] avec l'IA.
 
@@ -103,20 +105,20 @@ Les étudiants sont aussi cadrés par les médias et le discours public plus lar
 
 ## Articles liés
 
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] - A 30-expert consensus on the sequence: acquire without GenAI, consolidate with it, then think for yourself
+- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — Un consensus de 30 experts sur la séquence : acquérir sans IA générative, consolider avec elle, puis réfléchir par soi-même
 
-- [[mccorkle-aligned-genai-course-policy-2025]] — Transparent rationale for each allowed and unallowed GenAI use, task by task (McCorkle 2025)
-- [[moral-panic-genai-classroom]] — Encouraging appropriate use of GenAI rather than condemning it as disruption
-- [[student-rationalization-ai-writing]] — The "five sites" where students rationalize AI use in academic writing
-- [[student-regulatory-awareness-genai]] — Knowing the rules is not enough: regulatory awareness and actual use
-- [[ai-anxiety-strategic-regulation-writing-2026]] — From AI anxiety to strategic regulation
-- [[chatgpt-inoculation-training-verification-2026]] — Inoculation messaging and verification behavior
-- [[ai-fallibility-warning-help-seeking]] — Warning about AI fallibility increases help-seeking
-- [[shame-guilt-ai-regulation-computing-education]] — Shame and guilt as social regulators of AI use
-- [[access-not-enough-ai-tutoring-2026]] — Human support improves engagement with AI tutoring
-- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]] — SDT-based engagement with GenAI
-- [[ai-availability-student-motivation]] — How AI availability shapes student motivation
-- [[youtube-frames-chatgpt-education]] — How YouTube frames ChatGPT use in education
+- [[mccorkle-aligned-genai-course-policy-2025]] — Justification transparente de chaque usage autorisé et interdit de l'IA générative, tâche par tâche (McCorkle 2025)
+- [[moral-panic-genai-classroom]] — Encourager un usage approprié de l'IA générative plutôt que la condamner comme une perturbation
+- [[student-rationalization-ai-writing]] — Les « cinq sites » où les étudiants justifient l'usage de l'IA en écriture académique
+- [[student-regulatory-awareness-genai]] — Connaître les règles ne suffit pas : conscience réglementaire et usage réel
+- [[ai-anxiety-strategic-regulation-writing-2026]] — De l'anxiété liée à l'IA à la régulation stratégique
+- [[chatgpt-inoculation-training-verification-2026]] — Messages d'inoculation et comportement de vérification
+- [[ai-fallibility-warning-help-seeking]] — Avertir de la faillibilité de l'IA augmente la recherche d'aide
+- [[shame-guilt-ai-regulation-computing-education]] — La honte et la culpabilité comme régulateurs sociaux de l'usage de l'IA
+- [[access-not-enough-ai-tutoring-2026]] — Un accompagnement humain améliore l'engagement dans le tutorat par IA
+- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]] — Engagement envers l'IA générative fondé sur la théorie de l'autodétermination
+- [[ai-availability-student-motivation]] — Comment la disponibilité de l'IA façonne la motivation des étudiants
+- [[youtube-frames-chatgpt-education]] — Comment YouTube cadre l'usage de ChatGPT en éducation
 - [[ai-ethics-education-public-discourse]] — Public discourse on AI ethics in education
-- [[ithaka-sr-ai-skills-college-graduates-2026]] — Instructors frame AI as critical/responsible use; employers frame it as productivity
-- [[ssaho-ai-academic-integrity-review-2025]] — Building a culture of academic integrity via clear expectations
+- [[ithaka-sr-ai-skills-college-graduates-2026]] — Les enseignants présentent l'IA comme un usage critique et responsable, les employeurs comme un outil de productivité
+- [[ssaho-ai-academic-integrity-review-2025]] — Bâtir une culture de l'intégrité académique par des attentes claires

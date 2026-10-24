@@ -1,7 +1,7 @@
 ---
 title: "Enseignement de la biologie"
 created: "2026-08-19T13:10:00-04:00"
-updated: "2026-10-10T03:05:33-04:00"
+updated: "2026-10-24T10:37:47-04:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, human-ai-collaboration]
 technology: [generative-ai]
@@ -9,7 +9,7 @@ discipline: [biology education, stem education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/biology-education
-source_updated: "2026-10-13T09:18:19-04:00"
+source_updated: "2026-10-16T09:45:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -50,6 +50,7 @@ La recherche sur l'enseignement de la biologie et l'IA se regroupe autour d'une 
 **La pratique de l'argumentation socratique assistée par l'IA dans la formation des enseignants.** Une quasi-expérience menée auprès de 124 futurs enseignants de biologie a montré qu'un [[socratic-method|tuteur socratique]] ChatGPT-4 portant sur des questions socioscientifiques relevait la qualité de l'argumentation par rapport à une discussion entre pairs hors ligne (3.91 contre 3.21, F(1,121) = 14.23, p < .001), avec les gains les plus importants en réfutation et en production de contre-preuves ([[genai-socratic-tutor-biology-argumentation-2026|Ergasheva et al., 2026]]).
 
 **Les outils d'IA spécialisés et la revue plus large.** **[[beyond-chatgpt-ai-tools-biological-education-2026|Cotton et Cotton]]** passent en revue l'ensemble du paysage des outils d'IA dans la formation biologique, y compris **iNaturalist et Google Lens** pour l'identification d'espèces, les outils de bio-imagerie et d'apprentissage automatique, les technologies d'assistance et la modélisation prédictive des étudiants à risque — aux côtés des défis d'intégrité, de conception de l'évaluation, de désinformation et de pensée critique posés par l'IA générative.
+- **Les LLM répondent mieux qu'ils ne notent.** Sur 1.344 réponses à 336 questions ouvertes de statistique biologique couvrant les niveaux de Bloom, [[llm-open-ended-questions-biology-statistics-2026|Nguyen et coll. (2026)]] ont constaté que trois modèles obtenaient des notes supérieures à celles d'un groupe de 20 étudiants, mais qu'un correcteur LLM unique s'accordait si mal avec un enseignant expérimenté qu'aucun étudiant n'atteignait un accord satisfaisant.
 
 **Quelle part de la note est réellement exposée.** En pondérant chaque catégorie notée des 38 programmes de cours fondamentaux d'un département par la vulnérabilité évaluée par les enseignants, 33% des points de cours se sont révélés fortement exposés et 81% au moins quelque peu exposés — 41% et 100% en ligne — seuls les examens surveillés en présentiel étant jugés minimalement vulnérables ([[biology-degree-integrity-genai-cheating-2026|Chan et al., 2026]]).
 
@@ -89,6 +90,7 @@ L'enseignement de la biologie se situe dans le domaine plus large des [[stem-edu
 
 ## Articles liés
 
+- [[llm-open-ended-questions-biology-statistics-2026]] — Évaluer la performance des grands modèles de langue sur des questions ouvertes : capacités de réponse et de correction
 - [[biology-degree-integrity-genai-cheating-2026]] — Les étudiants peuvent-ils tricher pour obtenir un diplôme de biologie ? Une étude de cas de la vulnérabilité des notes des cours de biologie à la malhonnêteté académique à l'ère de l'IA générative
 - [[chatgpt-virtual-lab-teaching-assistant-biology-2026]] — ChatGPT comme assistant virtuel d'enseignement en laboratoire
 - [[beyond-chatgpt-ai-tools-biological-education-2026]] — Revue des outils d'IA dans la formation biologique

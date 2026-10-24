@@ -1,7 +1,7 @@
 ---
 title: "L'engagement des étudiants"
 created: "2026-08-13T05:32:35-04:00"
-updated: "2026-10-10T03:41:12-04:00"
+updated: "2026-10-24T10:44:27-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [motivation, self-regulated-learning, student-engagement]
@@ -11,7 +11,7 @@ level: [higher ed]
 confidence: high
 connected_faqs: [asynchronous-online-courses-ai]
 translation_of: concepts/student-engagement
-source_updated: "2026-10-08T09:45:00-04:00"
+source_updated: "2026-10-23T09:20:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -44,6 +44,7 @@ L'engagement est un construit multidimensionnel ancré dans la psychologie de l'
 - **Un gain d'engagement sans gain d'apprentissage, dans un essai aléatoire en grappes mené en classe :** [[domain-specific-chatbot-stem-enthusiasm-2025|Rücker et Becker-Genschow (2025)]] ont randomisé 195 classes de neuvième année (groupe expérimental de 102 étudiants) entre un chatbot de mathématiques spécifique au domaine et des matériels classiques de différenciation pour une seule leçon sur la méthode de Héron d'estimation des racines carrées. L'intérêt situationnel a fortement augmenté dans la condition chatbot (M = 2.63 contre 2.43, p = 0.00005, d de Cohen = 0.63) et l'acceptation était élevée sur les quatre dimensions du [[technology-acceptance-model|modèle d'acceptation de la technologie]], alors même que la comparaison des performances avant-après n'a révélé aucune interaction significative groupe × temps (F(1194) = 2.84, p = 0.094) et que la charge cognitive extrinsèque était légèrement plus élevée. Cette étude est l'un des rares tests aléatoires en grappes d'un chatbot personnalisé en [[math-education|mathématiques]] au niveau [[k-12|secondaire]], et son résultat partagé est justement l'enseignement essentiel : l'intérêt et les [[learning-gains|résultats]] ont évolué selon des calendriers différents, si bien qu'un résultat d'engagement ne constitue pas une preuve d'apprentissage.
 
 - **La qualité plutôt que la quantité :** l'[[critical-engagement-code-completion|engagement critique dans la complétion de code par IA]], l'[[icap-cognitive-engagement-llm-agents|analyse du discours sur l'engagement cognitif]] et l'[[scaffolding-critical-engagement-genai-minority-students|étayage de l'engagement critique]] montrent que l'engagement *profond* (cognitif) avec l'IA prédit l'apprentissage, tandis que l'engagement *superficiel* (comportemental) prédit la [[cognitive-offloading|délégation cognitive]] et le déplacement de l'apprentissage qui dominent la littérature sur les risques dans la base de connaissances.
+- **L'engagement agentique et la littératie de la rétroaction par l'IA se développent ensemble.** Trois vagues espacées de six semaines auprès de 399 étudiants de premier cycle ont montré des chemins intra-individuels dans les deux sens (β = 0.222 et β = 0.263), si bien que l'engagement n'est pas seulement un résultat de la conception : il participe aussi à ce qui construit la capacité d'utiliser la rétroaction ([[ai-feedback-literacy-agentic-engagement-panel-2026|Xu (2026)]]).
 
 - **Fragile et dépendant du contexte :** [[polished-artifacts-fragile-engagement-2026|Polished artifacts, fragile engagement]] et [[genai-tutor-engagement-patterns|les profils d'engagement multi-institutions]] constatent que l'engagement varie selon la tâche, le contexte et l'apprenant — un outil d'IA qui engage profondément un étudiant peut produire chez un autre un comportement superficiel de course à la production.
 
@@ -134,27 +135,28 @@ L'engagement des étudiants est en lien avec la [[motivation|motivation]] et la 
 
 ## Articles liés
 
+- [[ai-feedback-literacy-agentic-engagement-panel-2026]] — Littératie de la rétroaction par l'IA et engagement agentique : un panel à trois vagues à ordonnée aléatoire (Xu 2026)
 - [[rho-disengaged-conversational-behaviors-2026]] — Comportements conversationnels de désengagement et apprentissage dans les dialogues élève-IA (Rho et al. 2026)
 - [[assigned-ai-preclass-student-engagement-2026]] — La pratique pré-cours avec l'IA vocale a accru les contributions volontaires en cours d'environ 31%, mais seulement après un deuxième usage (Wang et al. 2026)
 - [[confident-but-absent-ai-use-absenteeism-2026]] — L'usage de l'IA s'accompagnait d'un plus grand absentéisme en cours alors que l'auto-efficacité ne le prédisait pas, l'influence des pairs étant le principal corrélat (Franco et al. 2026)
-- [[gai-advocacy-practice-art-education-2026]] — When universities advocate GAI but practice falls short: student appraisals and creative process engagement in art education
-- [[e3sense-multimodal-learner-engagement-sensing-2026]] — Head-confined EEG, eye tracking, and EDA predict five-level engagement ratings, while learners' own definitions shift the mapping (Anupkrishnan et al. 2026)
-- [[student-attention-estimation-fairness-2026]] — Fairness-Aware Multimodal Transformer Modeling for Real-Time Student Attention Estimation
+- [[gai-advocacy-practice-art-education-2026]] — Quand les universités prônent l'IAG sans que la pratique suive : appréciations étudiantes et engagement dans le processus créatif en enseignement des arts
+- [[e3sense-multimodal-learner-engagement-sensing-2026]] — EEG confiné à la tête, oculométrie et EDA prédisent des évaluations d'engagement à cinq niveaux, tandis que les définitions des apprenants eux-mêmes déplacent la mise en correspondance (Anupkrishnan et al. 2026)
+- [[student-attention-estimation-fairness-2026]] — Modélisation par transformer multimodal soucieuse de l'équité pour l'estimation en temps réel de l'attention des étudiants
 - [[ai-student-engagement-online-learning-review-2025]]
-- [[long-ai-higher-ed-engagement-teaching-methods-2026]] — AI in higher ed: systematic review of engagement + mediating role of teaching methods
-- [[genai-motivation-engagement-2026]] — Impact of Generative AI on Student Motivation and Engagement
-- [[critical-engagement-code-completion]] — To Tab or Not to Tab: Measuring Critical Engagement in AI Code Completion
-- [[icap-cognitive-engagement-llm-agents]] — Measuring Cognitive Engagement in Collaborative Discourse
-- [[genai-tutor-engagement-patterns]] — Not All Students Engage Alike: Multi-Institution Patterns
-- [[polished-artifacts-fragile-engagement-2026]] — Polished Artifacts, Fragile Engagement
-- [[ai-availability-student-motivation]] — "Why Put in This Much Effort?": How AI Availability Shapes Motivation
-- [[genai-performance-vs-learning]] — Distinguishing Performance Gains From Learning
-- [[scaffolding-critical-engagement-genai-minority-students]] — Scaffolding Critical Engagement With GenAI
-- [[engagement-intensity-learner-modeling]] — Engagement Intensity as a Learner-Modeling Signal
+- [[long-ai-higher-ed-engagement-teaching-methods-2026]] — L'IA dans l'enseignement supérieur : revue systématique de l'engagement et rôle médiateur des méthodes d'enseignement
+- [[genai-motivation-engagement-2026]] — Impact de l'IA générative sur la motivation et l'engagement des étudiants
+- [[critical-engagement-code-completion]] — Onglet ou pas onglet : mesurer l'engagement critique dans la complétion de code par IA
+- [[icap-cognitive-engagement-llm-agents]] — Mesurer l'engagement cognitif dans le discours collaboratif
+- [[genai-tutor-engagement-patterns]] — Tous les étudiants ne s'engagent pas de la même manière : profils multi-institutions
+- [[polished-artifacts-fragile-engagement-2026]] — Des artefacts polis, un engagement fragile
+- [[ai-availability-student-motivation]] — « Pourquoi fournir tant d'effort ? » : comment la disponibilité de l'IA façonne la motivation
+- [[genai-performance-vs-learning]] — Distinguer les gains de performance de l'apprentissage
+- [[scaffolding-critical-engagement-genai-minority-students]] — Étayer l'engagement critique avec l'IA générative
+- [[engagement-intensity-learner-modeling]] — L'intensité de l'engagement comme signal de modélisation de l'apprenant
 - [[learning-engagement-assistant-lea]] — Learning Engagement Assistant
 - [[engagement-assessment-video]] — Engagement Assessment in Video Learning
-- [[engagement-forecasting-its]] — From Heuristics to Analytics: Forecasting Effort and Progress
-- [[interactive-learning-dashboards-engagement]] — Interactive Learning Dashboards and Engagement
+- [[engagement-forecasting-its]] — Des heuristiques à l'analytique : prévoir l'effort et les progrès
+- [[interactive-learning-dashboards-engagement]] — Tableaux de bord d'apprentissage interactifs et engagement
 - [[tts-dialogue-lessons-learner-characteristics-2026]] — Caractéristiques de l'apprenant × interactions avec le format du dialogue TTS
 - [[wang-goal-setting-ai-engagement-2026]] — Théorie de la fixation d'objectifs : soutien de l'enseignant, objectifs de réussite et engagement dans l'apprentissage de l'anglais assisté par IA (758 étudiants chinois)
 - [[chatbot-engagement-genai-competency-emotion-2026]] — La compétence en IA générative et l'émotion comme moteurs de l'engagement avec le chatbot (Zhao et al. 2026)
@@ -164,5 +166,5 @@ L'engagement des étudiants est en lien avec la [[motivation|motivation]] et la 
 - [[ai-ive-pbl-vocational-design-creativity-2026]] — Engagement cognitif et comportemental en hausse, engagement affectif stable, dans un studio d'apprentissage par projets en réalité virtuelle immersive (Jin et al. 2026)
 - [[domain-specific-chatbot-stem-enthusiasm-2025]] — Essai aléatoire en grappes en mathématiques au secondaire : l'intérêt situationnel a augmenté avec un chatbot personnalisé alors que la performance aux tests n'a pas évolué (Rücker & Becker-Genschow 2025)
 - [[ai-literacy-learning-engagement-psych-capital-2026]] — La littératie en IA stimule l'engagement directement et par le capital psychologique, effet amplifié par l'engagement professionnel (Wang 2026)
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: AI and human tutoring yield equivalent GRE learning gains
+- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench : le tutorat par IA et le tutorat humain produisent des gains d'apprentissage GRE équivalents
 - [[liu-course-integrated-ai-tutoring-rct-2026]] — L'accès à un tuteur d'IA a réduit la participation enregistrée sur la plateforme de 0.90 écart-type tandis que la remise des devoirs restait stable (Liu et al. 2026)

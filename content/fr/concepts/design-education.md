@@ -1,7 +1,7 @@
 ---
 title: "Enseignement du design"
 created: "2026-09-17T14:04:29-04:00"
-updated: "2026-10-10T03:24:44-04:00"
+updated: "2026-10-24T10:43:44-04:00"
 type: concept
 foundations: [ai-literacy, design-thinking]
 pedagogy: [creativity, professional-training]
@@ -12,7 +12,7 @@ audience: [instructors, instructional designers, curriculum designers, faculty d
 level: [higher ed]
 confidence: high
 translation_of: concepts/design-education
-source_updated: "2026-10-02T12:40:11-04:00"
+source_updated: "2026-10-16T08:47:09-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -50,7 +50,9 @@ Il se distingue aussi du [[design-thinking]], une méthode de résolution de pro
 - **Les disciplines diffèrent quant aux comportements qui paient.** [[same-ai-different-pathways|Shen (2026)]] a comparé 221 étudiants en design à 222 étudiants en gestion et a montré que l'[[ai-literacy]] prédisait à la fois la maîtrise de la formulation d'invites et le comportement de vérification (p < .001). La vérification prédisait directement la qualité de la tâche dans la cohorte design, l'exactitude de la calibration dans celle de gestion — idéation ouverte contre normes analytiques de type audit — et la vérification fonctionnait comme une garantie métacognitive contre le [[cognitive-offloading|délestage cognitif]].
 - **Le jugement d'atelier peut être approché lorsqu'une grille de critères fait office de médiation.** [[yasar-llms-iterative-pedagogical-design-2026|Yaşar et al. (2026)]] ont porté l'accord LLM-humain sur 80 posters de design de 54.75% à 81.25% en affinant itérativement les descripteurs de la grille ; les invites formulées du point de vue de l'enseignant, de l'évaluateur par les pairs et de l'évaluateur de subventions produisaient des rétroactions épistémiquement différentes sur un même travail. Les auteurs traitent la grille comme une interface révisable entre l'intention pédagogique et l'inférence de la machine, conservant la [[human-in-the-loop-ai|supervision humaine]] contre les justifications hallucinées.
 - **Les étudiants négocient avec les outils plutôt que de simplement les accepter.** [[t2i-competence-paradox-2026|Liu, Meng & Zhang (2026)]] ont enquêté sur 417 étudiants en art et en design : l'attente de performance, l'influence sociale, la valeur de nouveauté et la compétence créative prédisaient l'intention d'utiliser les outils texte-vers-image, tandis que l'attente d'effort prédisait négativement, lecture faite d'un usage de travaux orienté vers le raccourci. Leur paradoxe de la compétence tient à ce que la compétence créative soutient l'intention tout en prédisant un usage plus sélectif, les étudiants pesant la paternité de l'œuvre et la préservation des compétences — un problème d'[[assessment-validity]] dans un atelier où le processus est l'objet évalué. [[rana-genai-design-thinking-2025|Rana et al. (2025)]] sont parvenus à une conclusion compatible à partir de 112 réflexions rédigées dans un cours de [[design-thinking]] de 12 semaines : les bénéfices dominaient (86% de sentiment positif), les préoccupations éthiques expliquaient 62% du sentiment négatif, et une intégration étayée faisait passer les étudiants du scepticisme à une orientation positive à 72%.
+- **L'IAG peut assister un flux de travail tout en affaiblissant la confiance créative en soi.** Dans une expérience d'enseignement du design architectural menée avec 36 étudiants, un flux de travail DALL-E 3 égalait la recherche de précédents sur la performance évaluée et sur la charge cognitive, mais l'[[self-efficacy|auto-efficacité]] créative générale baissait (DiD = −0.543) tandis que la confiance propre à la tâche se maintenait ([[caeai-genai-architectural-design-creative-self-efficacy-2026|Xiao et al., 2026]]).
 - **La critique par l'IA peut être liée à l'artefact plutôt qu'à l'invite.** [[critsly-design-education-ai-critique-2026|Kadir (2026)]] achemine la rétroaction d'atelier à travers un tableau partagé de designs, de notes et d'épinglages, et cinq activités bornées ; l'étude rend compte d'une préparation simulée (78% des 109 labels au niveau Analyzing ou au-delà), et non de gains d'apprentissage.
+- **Une grille de processus peut faire de la vérification par l'IA l'objet évalué.** [[human-ai-collaboration-design-education-rubric-2026|Orhon et al. (2026)]] proposent le Merit Report, une grille à quatre critères (volonté curatoriale documentée 20%, traduction tectonique 20%, validation technique fondée sur des règles 40%, audit par les pairs 20%) qui note le processus de vérification de l'IA documenté par l'étudiant plutôt que le poli de l'artefact, adossée à une extension du [[tpack|TPACK]] qu'ils nomment AI-Validation Knowledge.
 
 ## Formation professionnelle et réglementation
 
@@ -93,3 +95,5 @@ Les problèmes d'évaluation sont ici inséparables des problèmes professionnel
 - [[yasar-llms-iterative-pedagogical-design-2026]]
 - [[rana-genai-design-thinking-2025]]
 - [[critsly-design-education-ai-critique-2026]] — Critsly/StudioCrit : espace de travail de critique par l'IA, sensible à l'artefact, pour la rétroaction d'atelier ; étude de préparation fondée sur la simulation, et non gains d'apprentissage
+- [[caeai-genai-architectural-design-creative-self-efficacy-2026]] — Une expérience en design architectural où un flux de travail DALL-E 3 a abaissé l'auto-efficacité créative générale
+- [[human-ai-collaboration-design-education-rubric-2026]] — Une grille de processus peut faire de la vérification par l'IA l'objet évalué

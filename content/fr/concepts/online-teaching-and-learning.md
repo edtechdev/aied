@@ -1,7 +1,7 @@
 ---
 title: Enseignement et apprentissage en ligne
 created: "2026-08-20T04:20:00-04:00"
-updated: "2026-10-10T03:24:46-04:00"
+updated: "2026-10-24T10:51:33-04:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, learning-design]
 pedagogy: [online-teaching-and-learning, pedagogy]
@@ -11,7 +11,7 @@ confidence: high
 connected_resources: [claw-ed, id-toolbox, liascript]
 connected_faqs: [asynchronous-online-courses-ai]
 translation_of: concepts/online-teaching-and-learning
-source_updated: "2026-09-30T16:25:27-04:00"
+source_updated: "2026-10-16T19:45:37-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -106,6 +106,7 @@ Quelle que soit la combinaison choisie par un enseignant, une contrainte devrait
 - **Apprentissage actif et interactif.** Privilégier les stratégies qui maintiennent les étudiants dans l'action et la réflexion plutôt que dans la réception passive — [[active-learning]], exercices interactifs et dialogue [[socratic-method|socratique]]. Une IA qui incite au raisonnement (plutôt qu'elle ne fournit les réponses) préserve la lutte productive et les [[desirable-difficulties]] qui construisent un apprentissage durable.
 - **Soutien guidé et progressif.** Utiliser un [[scaffolding]] qui s'estompe à mesure que les apprenants progressent, et concevoir des soutiens à l'[[self-regulated-learning]] afin que les apprenants pilotent leur propre apprentissage plutôt que de dépendre de l'outil.
 - **Apprentissage collaboratif et fondé sur la discussion.** Structurer délibérément les discussions en ligne et le travail de groupe ; utiliser des activités d'[[collaborative-learning|apprentissage collaboratif]] et, lorsque l'IA y participe, calibrer son animation et son rôle de pair.
+- **La conception des rôles est l'intervention, pas l'outil.** Dans un cours de cycle supérieur en ligne, l'attribution de rôles tournants d'animateur, d'analyste et d'argumentateur aux [[learners|apprenants]] et à un partenaire d'IA générative a élevé les scores de contenu des cartes mentales de groupe de M = 3.65 à M = 4.59 sur une échelle SOLO de 1 à 5 (z = 3.771, p < 0.001), tandis que le nombre de nœuds et de branches est resté statistiquement stable ([[cheng-symbiotic-role-design-human-genai-collaboration-2026|Cheng et al. (2026)]]).
 - **Évaluation authentique et révélatrice du processus.** Se tourner vers l'[[authentic-assessment|évaluation authentique]] et des évaluations qui capturent le processus — brouillons, soutenances orales, auto-explications, [[eportfolio|portfolios]] réflexifs — plus résistantes à l'IA et révélatrices d'une compréhension réelle.
 - **Parcours personnalisés et adaptatifs.** Utiliser la [[personalized-learning|personnalisation]] et les activités [[adaptive-learning|adaptatives]] permises par l'IA pour ajuster le rythme et la difficulté, tout en gardant la personnalisation profonde (séquençage des tâches, calibrage de la difficulté) plutôt que superficielle (exemples personnalisés).
 - **Présence sociale et construction de communauté.** Cultiver délibérément la présence sociale et la [[collaborative-learning|communauté]] — le cœur du cadre [[community-of-inquiry]] — par l'intermédiaire d'une IA compagne, de points de contact synchrones et d'interactions entre pairs, l'isolement en ligne constituant un obstacle majeur à l'[[student-engagement|engagement]] et au sentiment d'appartenance. À l'ère de l'IA, cela signifie orchestrer les trois présences (cognitive, sociale, d'enseignement) alors même que le discours produit par la machine complique la question de savoir qui est « présent » (voir [[community-of-inquiry]]).
@@ -122,6 +123,7 @@ Quelle que soit la combinaison choisie par un enseignant, une contrainte devrait
 - **Intégrer l'IA dans l'environnement d'apprentissage, plutôt qu'en module externe rapporté.** Les assistants conçus sur mesure et adaptés au contexte, intégrés au cours (comme [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of|AIDA]]), surpassent les chatbots externes génériques et accroissent l'acceptation.
 - **Calibrer l'animation par l'IA vers la prudence humaine.** Lorsque l'IA sert à animer les discussions, préférer les réglages qui interviennent avec parcimonie ([[llm-facilitation-timing-online-discussions|Tsirmpas et al.]]).
 - **Concevoir pour les contraintes de la vie d'adulte.** Pour les apprenants adultes et à distance, privilégier l'accès mobile, la capacité hors ligne et la disponibilité asynchrone ([[ai-adult-learning-guidelines-dis2026|recommandations AI-ALOE]]).
+- **Les formats comprimés demandent une reconception, non une compression.** Des cours de cycle supérieur asynchrones de six semaines destinés à des enseignants en exercice constituent une contrainte institutionnelle qui exige une reconception délibérée plutôt qu'un cours de quinze semaines comprimé, et le dialogue avec l'IA porte la présence pédagogique jusque dans les heures tardives que l'enseignant ne peut pas assurer ([[packard-thinking-partner-framework-adult-learners-2026|Packard et al. (2026)]]).
 - **Co-concevoir avec les étudiants et le personnel, et bâtir une gouvernance.** Le développement participatif, le parrainage par la direction, la collaboration entre unités et une [[governance]] robuste sont des facteurs favorisant une adoption responsable de l'IA générative.
 - **Présupposer qu'un agent tentera chaque activité non surveillée, et concevoir à partir de cette hypothèse.** Le test en trois questions est rapide et expose les activités faibles : un système d'IA pourrait-il accomplir cela sans que l'étudiant comprenne la matière ; quelle activité cognitive est censée produire l'apprentissage ; quelle preuve montrera que l'étudiant l'a accomplie. Lorsque la première réponse est oui et que les deux autres sont difficiles à donner, le problème tient à la conception de l'apprentissage plutôt qu'à la politique sur l'IA.
 - **Garder la vérification proportionnée au risque.** Lorsqu'une compétence doit être certifiée, préférer une tâche jumelle, une soutenance orale asynchrone ou un court contrôle de compréhension à une surveillance généralisée ; garder le reste du cours flexible pour les apprenants qui dépendent de cette flexibilité.
@@ -131,7 +133,7 @@ Quelle que soit la combinaison choisie par un enseignant, une contrainte devrait
 - [[pedagogical-patterns]] — Le contexte qui rend le séquencement porteur de sens, puisque le système ne peut voir une tentative
 - [[assessment-validity]] — la validité de l'inférence allant du travail soumis à l'apprentissage
 - [[agentic-ai]] — les systèmes autonomes qui actionnent des outils et des plateformes, y compris un LMS
-- [[community-of-inquiry]] — Community of Inquiry
+- [[community-of-inquiry]] — Communauté d'enquête
 - [[pedagogy]]
 - [[learning-design]]
 - [[active-learning]]
@@ -165,13 +167,13 @@ Quelle que soit la combinaison choisie par un enseignant, une contrainte devrait
 - [[song-genai-learning-partner-srl-over-time-2026]] — L'apprentissage autorégulé comme aptitude stable et état fluctuant ; métacognition et bien-être déclinant au fil d'un trimestre
 - [[genai-marketing-education-roles-2026]] — L'IA comme tuteur, coéquipier et outil : les rôles et leurs effets sur la présence
 - [[kirsanov-beyond-detection-ai-online-assessments-2026]] — Au-delà de la détection : la conception de l'évaluation pour les contextes en ligne
-- [[reconceptualizing-community-inquiry-generative-ai]] — Reconceptualizing Community of Inquiry in the age of generative AI
+- [[reconceptualizing-community-inquiry-generative-ai]] — Reconceptualiser la Community of Inquiry à l'ère de l'IA générative
 - [[lock-integrating-ai-online-learning-higher-ed-2025]] — Intégrer l'IA dans l'apprentissage en ligne dans l'enseignement supérieur : une revue critique de littérature à quatre thèmes
-- [[mooc-to-maic]] — From MOOC to MAIC: Reshaping Online Teaching and Learning through LLM-driven Agents
+- [[mooc-to-maic]] — Du MOOC au MAIC : remodeler l'enseignement et l'apprentissage en ligne par des agents pilotés par un LLM
 - [[learnmate2-llm-adaptive-learning]] — LearnMate² : système de soutien personnalisé et adaptatif pour l'apprentissage en ligne
-- [[llm-facilitation-timing-online-discussions]] — Human and LLM Facilitator Tendencies in Online Discussions
+- [[llm-facilitation-timing-online-discussions]] — Tendances des animateurs humains et des LLM dans les discussions en ligne
 - [[elevate-genai-virtual-tutors]] — ELEVATE : tuteurs virtuels GenAI centrés sur l'humain
-- [[conversational-ai-tutors-framework]] — The Path to Conversational AI Tutors
+- [[conversational-ai-tutors-framework]] — La voie vers des tuteurs conversationnels par IA
 - [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of]] — Mettre en œuvre AIDA à l'Open University
 - [[ai-adult-learning-guidelines-dis2026]] — Recommandations pour concevoir des technologies d'IA au service de l'apprentissage des adultes
 - [[deeptutor]] — DeepTutor : vers un tutorat personnalisé agentique
@@ -180,3 +182,5 @@ Quelle que soit la combinaison choisie par un enseignant, une contrainte devrait
 - [[personalized-ai-generated-videos-preference-2026]] — Les étudiants préfèrent les vidéos personnalisées générées par l'IA aux vidéos enregistrées par un humain non personnalisées (Tomlinson et al. 2026)
 - [[hao-peer-exposure-bridging-social-capital-ai-summaries-2026]] — Conception pédagogique fondée sur les résumés générés par l'IA dans les forums de discussion en ligne
 - [[ai-training-science-teacher-tpack-distance-2026]] — Des étudiants enseignants sur campus ont déclaré un TPACK plus élevé pour l'enseignement scientifique intégrant l'IA que leurs pairs en enseignement à distance (64,0 % contre 47,4 %)
+- [[cheng-symbiotic-role-design-human-genai-collaboration-2026]] — La conception des rôles est l'intervention, pas l'outil
+- [[packard-thinking-partner-framework-adult-learners-2026]] — Des cours de cycle supérieur asynchrones de six semaines pour des enseignants en exercice : reconcevoir le format plutôt que le comprimer

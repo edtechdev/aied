@@ -1,7 +1,7 @@
 ---
 title: Surveillance à distance des examens
 created: "2026-08-20T04:50:00-04:00"
-updated: "2026-10-10T03:41:06-04:00"
+updated: "2026-10-24T10:46:40-04:00"
 type: concept
 foundations: [academic-integrity]
 pedagogy: [online-teaching-and-learning]
@@ -10,7 +10,7 @@ ethics: [equity-in-ai-education, privacy]
 level: [higher ed]
 confidence: high
 translation_of: concepts/remote-proctoring
-source_updated: "2026-10-03T01:40:50-04:00"
+source_updated: "2026-10-15T21:52:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -54,6 +54,7 @@ La surveillance à distance existe sur un spectre. La **surveillance en ligne** 
 - **Le raisonnement d'intégrité n'a pas survécu au plus grand test.** Sur quatre vagues et 1 760 étudiants répartis dans 105 cours, la surveillance a accru l'anxiété d'examen (β = 0,60, p < 0,001) mais n'a eu aucun effet sur la tentation de tricher, la difficulté perçue ou les notes, de sorte que le coût de la surveillance n'a pas été compensé par la dissuasion ([[conijn-fear-big-brother-proctored-exams-2022|Conijn et coll. (2022)]]).
 - **Équité et fracture numérique.** La dépendance aux appareils, l'instabilité de la connexion internet, l'éclairage et la variabilité du matériel désavantagent de manière disproportionnée les étudiants ruraux et ceux à faible bande passante ; la précision du modèle peut varier selon les populations démographiques et les environnements, risquant des signalements injustes. ([[digital-divide|fracture numérique]]), [[equity-in-ai-education|équité]] Une revue de portée de la surveillance dans l'évaluation en [[nursing-education|soins infirmiers]] montre que ce n'est pas un cas marginal : quatre de ses six études incluses ont rendu compte de problèmes de connectivité internet, une a rendu compte de coupures de charge en même temps que de forfaits de données limités, et l'incompatibilité des appareils, les pannes d'extensions de navigateur et les analyses d'environnement en échec étaient monnaie courante — de sorte que l'inéquité infrastructurelle, et pas seulement le biais du modèle, détermine qui peut être évalué du tout. ([[harerimana-remote-proctoring-nursing-scoping-2026]])
 - **Angles morts de détection et course aux armements.** L'usurpation d'identité (photos ou vidéos masquantes), l'usage du navigateur et le copier-coller restent difficiles à détecter de manière fiable ; la précision de la détection est bornée par les limites des jeux de données, l'évaluation sur un modèle unique et les lacunes de reproductibilité. La surveillance ne résout pas entièrement l'intégrité, et peut créer un faux sentiment de sécurité.
+- L'IA portable supprime le signal comportemental dont dépend la surveillance : [[corbin-ai-glasses-wearable-ai-assessment-2026|Corbin et coll. (2026)]] soutiennent que les lunettes d'IA, les écouteurs et les prothèses auditives assistées par l'IA apportent une aide dissimulée sans changement de regard, sans déplacement de l'attention ni indice postural, de sorte que la surveillance humaine et la confiscation des appareils perdent les indices sur lesquels elles reposent.
 - **La question de gouvernance.** La question de savoir si la surveillance est la bonne réponse, par opposition à la [[authentic-assessment|refonte de l'évaluation]] (orale, fondée sur le processus, [[eportfolio|portefeuille]]), est une décision institutionnelle ouverte ; la surveillance à distance est un outil, non une solution complète. ([[governance|gouvernance]]) L'exposition qui suit lorsque l'application tourne mal — des accusations fondées sur des scores et des journaux d'événements, la conservation et le traitement ultérieur des données captées, et des règles qui pèsent inégalement sur les étudiants handicapés ou non natifs — est cartographiée dans [[legal-issues-and-risks|questions et risques juridiques]].
 
 ## Base de preuves
@@ -89,6 +90,8 @@ La surveillance à distance existe sur un spectre. La **surveillance en ligne** 
 - [[higher-ed]]
 
 ## Articles liés
+
+- [[corbin-ai-glasses-wearable-ai-assessment-2026]] — L'IA portable supprime le signal comportemental dont dépend la surveillance (Corbin, Sharpe & Dawson 2026)
 
 - [[automated-online-exam-proctoring-decade-review-2026]] — Revue systématique de dix ans de la surveillance automatisée des examens en ligne
 - [[academic-dishonesty-automated-proctoring-ai-2026]] — Revue complète de la malhonnêteté académique dans la surveillance automatisée

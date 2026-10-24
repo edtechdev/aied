@@ -1,7 +1,7 @@
 ---
 title: "Apprentissage par la recherche (Inquiry-Based Learning)"
 created: "2026-08-22T05:55:16-04:00"
-updated: "2026-10-10T03:05:32-04:00"
+updated: "2026-10-24T10:38:23-04:00"
 type: concept
 foundations: [critical-thinking]
 pedagogy: [active-learning, inquiry-based-learning, metacognition, problem-based-learning, scaffolding, self-regulated-learning]
@@ -87,11 +87,11 @@ Dans les contextes d'apprentissage sur le terrain, le même impératif devient s
 - [[luo-ibl-patterns-llm-bloom-2026]] — Configurations d'IBL dans les environnements pilotés par les LLM (perspective de Bloom)
 - [[mujib-ai-ibl-creative-math-2026]] — IBL assisté par IA et performance mathématique créative
 - [[zhao-genai-higher-order-thinking-meta-2026]] — Méta-analyse sur l'IA générative et la pensée d'ordre supérieur
-- [[niri-steam-ai-literacy-review-2026]] — STEAM education for AI literacy
-- [[kim-ai-productive-failure-adult-2026]] — Designing AI Systems to Support Productive-Failure-Based Learning
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pedagogical Steering of LLMs for Productive Failure
-- [[lukesova-clue-before-correction-2026]] — Clue Before Correction: ChatGPT for Autonomous Language Learning
+- [[niri-steam-ai-literacy-review-2026]] — L'éducation STEAM au service de la littératie en IA
+- [[kim-ai-productive-failure-adult-2026]] — Concevoir des systèmes d'IA pour soutenir l'apprentissage fondé sur l'échec productif
+- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pilotage pédagogique des LLM pour l'échec productif
+- [[lukesova-clue-before-correction-2026]] — L'indice avant la correction : ChatGPT pour l'apprentissage autonome des langues
 - [[ai-supported-inquiry-photosynthesis-respiration-2026]] — Recherche guidée assistée par IA sur la photosynthèse et la respiration (formation des enseignants de sciences)
-- [[ai-information-extraction-undergraduate-thesis-2026]] — AI-powered information extraction supporting undergraduate thesis and research-based learning (An et al. 2026)
-- [[ai-assisted-inquiry-ssi-climate]] — AI-Assisted Inquiry in Socio-Scientific Issues on Climate Change
+- [[ai-information-extraction-undergraduate-thesis-2026]] — Extraction d'information assistée par l'IA au service du mémoire de premier cycle et de l'apprentissage par la recherche (An et al. 2026)
+- [[ai-assisted-inquiry-ssi-climate]] — La recherche assistée par l'IA sur les questions socioscientifiques liées au changement climatique
 - [[geoscience-field-learning-genai-2026]] — Un modèle pédagogique « terrain d'abord » qui empêche l'IA générative de pré-structurer ce que les apprenants remarquent (Choi, 2026)

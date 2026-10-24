@@ -1,7 +1,7 @@
 ---
 title: "Comment l'IA peut-elle m'aider à donner de meilleures rétroactions à grande échelle ?"
 created: "2026-09-22T19:12:18-04:00"
-updated: "2026-10-09T18:10:00-04:00"
+updated: "2026-10-24T10:43:38-04:00"
 weight: 70
 type: faq
 technology: [human-in-the-loop-ai]
@@ -10,7 +10,7 @@ methods: [mixed-methods-research, meta-analysis-systematic-review]
 research_method: [experiment]
 audience: [instructors, assessment designers, assessment professionals]
 level: [higher ed, secondary]
-source_updated: "2026-10-02T08:21:34-04:00"
+source_updated: "2026-10-21T14:32:00-04:00"
 translation_of: faqs/ai-feedback-at-scale
 translation_note: "Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle."
 contributors: [editor]
@@ -26,8 +26,6 @@ ai_assist:
 ---
 
 *Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle.*
-
-# Comment l'IA peut-elle m'aider à donner de meilleures rétroactions à grande échelle ?
 
 C'est la sixième semaine. Vous avez une pile de brouillons, une grille d'évaluation en laquelle vous croyez, et la conviction croissante qu'un tiers de vos commentaires sera survolé et oublié. Un collègue mentionne qu'un outil commente désormais chaque brouillon en moins d'une heure. Vous voulez savoir s'il s'agit d'une véritable amélioration ou d'un moyen plus rapide de produire du texte que personne ne lira.
 

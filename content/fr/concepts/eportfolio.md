@@ -1,7 +1,7 @@
 ---
 title: "Portefeuille électronique (e-portfolio)"
 created: "2026-08-20T09:00:00-04:00"
-updated: "2026-10-10T03:41:06-04:00"
+updated: "2026-10-24T10:37:47-04:00"
 type: concept
 pedagogy: [student-engagement]
 technology: [generative-ai]
@@ -66,11 +66,11 @@ Parce que les portefeuilles électroniques mettent au premier plan le **processu
 
 ## Articles liés
 
-- [[ni-lam-multiliteracies-ai-portfolio-2026]] — Students' perceptions of multiliteracies development using AI-assisted portfolio assessment (Ni & Lam 2026)
-- [[sutama-chatgpt-eportfolio-speaking-2026]] — ChatGPT aligned with e-portfolio assessment for EFL speaking and feedback literacy (Laksana et al. 2026)
-- [[responsible-assessment-ai-era-stanford-2026]] — Portfolio- and competency-based assessment in the AI era
-- [[zhan-boud-du-authentic-assessment-scoping-review-2025]] — Authentic assessment robust to generative AI, incl. social contribution portfolios
-- [[beyond-detection-authentic-assessment-ai-2025]] — Annotated portfolios / oral defenses as AI-resistant assessment
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]] — The Symbiotic Portfolio for hybrid learners
-- [[pbl-structural-conditions-ai-2026]] — Portfolios as partial answers to assessment at scale
-- [[learn-framework-responsible-genai-pbl-2026]] — Personal learning portfolios as assessable learning traces
+- [[ni-lam-multiliteracies-ai-portfolio-2026]] — Perceptions des étudiants du développement des multilittératies dans une évaluation par portefeuille assistée par l'IA (Ni et Lam 2026)
+- [[sutama-chatgpt-eportfolio-speaking-2026]] — ChatGPT associé à l'évaluation par portefeuille électronique pour l'expression orale en EFL et la littératie de la rétroaction (Laksana et coll. 2026)
+- [[responsible-assessment-ai-era-stanford-2026]] — Évaluation par portefeuille et par compétences à l'ère de l'IA
+- [[zhan-boud-du-authentic-assessment-scoping-review-2025]] — Évaluation authentique robuste face à l'IA générative, y compris les portefeuilles de contribution sociale
+- [[beyond-detection-authentic-assessment-ai-2025]] — Portefeuilles annotés et soutenances orales comme évaluation résistante à l'IA
+- [[elsayed-pedagogical-symbiosis-posthuman-learner]] — Le portefeuille symbiotique pour les apprenants hybrides
+- [[pbl-structural-conditions-ai-2026]] — Les portefeuilles comme réponses partielles à l'évaluation à grande échelle
+- [[learn-framework-responsible-genai-pbl-2026]] — Portefeuilles d'apprentissage personnels comme traces d'apprentissage évaluables

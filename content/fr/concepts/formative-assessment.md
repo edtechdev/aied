@@ -1,7 +1,7 @@
 ---
 title: L'évaluation formative
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-10-10T03:05:35-04:00"
+updated: "2026-10-24T10:52:00-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [scaffolding]
@@ -11,7 +11,7 @@ connected_faqs: [ai-feedback-at-scale]
 connected_resources: [snorkl]
 confidence: high
 translation_of: concepts/formative-assessment
-source_updated: "2026-10-15T08:25:00-04:00"
+source_updated: "2026-10-17T03:49:06-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -110,6 +110,8 @@ L'évaluation formative en éducation par l'IA rejoint le processus d'apprentiss
 
 Les systèmes d'évaluation formative peuvent passer d'outils de soutien à l'apprentissage à une infrastructure de surveillance des comportements. Les mêmes flux de données qui permettent le tutorat adaptatif peuvent permettre un suivi punitif si la [[governance|gouvernance]] est faible. Cela rejoint la [[privacy|vie privée]] et le [[well-being|bien-être des étudiants]], et plaide en faveur de systèmes formatives qui soutiennent l'apprentissage plutôt qu'ils ne le surveillent.
 
+L'observabilité peut être conçue sans surveillance : c'est la preuve qu'une évaluation génère réellement pour un jugement défendable sur l'apprentissage, traitée comme une priorité de conception dont le coût se paie en faisabilité plutôt qu'en éthique ([[assessment-feedback-trilemma-model-2026|Pedlow et al. (2026)]]).
+
 ## Les implications pour l'IA en éducation
 
 - **Accorder le type d'item à la fiabilité de l'IA :** utiliser l'IA pour les dimensions vérifiables (alignement conceptuel, exactitude) et conserver le jugement humain pour les dimensions pédagogiques (qualité des distracteurs, profondeur de la rétroaction).
@@ -146,10 +148,10 @@ Les systèmes d'évaluation formative peuvent passer d'outils de soutien à l'ap
 - [[causal-modeling-competency-assessment-2026]] — Modélisation causale des interventions de soutien pour l'évaluation des compétences des étudiants
 - [[nicola-richmond-programwide-assessment-genai-2025]] — Des approches à l'échelle du programme pour repenser l'évaluation à l'ère de l'IAG
 - [[ai-feedback-enactment-workflow-2026]] — Making AI-generated feedback matter : de la fourniture à la mise en œuvre
-- [[care-full-feedback-genai]] — The care-full craft of feedback in an age of GenAI
-- [[feedback-futures-genai]] — Feedback futures: beyond the limits of human and GenAI capacities
-- [[sequenced-ai-feedback-learning]] — Impact and pathways of sequenced AI feedback
-- [[learner-centered-feedback-ai]] — Enhancing learner-centered feedback with AI
+- [[care-full-feedback-genai]] — L'art attentionné de la rétroaction à l'ère de l'IAG
+- [[feedback-futures-genai]] — L'avenir de la rétroaction : au-delà des limites des capacités humaines et de l'IAG
+- [[sequenced-ai-feedback-learning]] — Impact et parcours d'une rétroaction par IA séquencée
+- [[learner-centered-feedback-ai]] — Améliorer la rétroaction centrée sur l'apprenant grâce à l'IA
 - [[automated-scoring-learning-diagnosis-mechanism-2026]] — De la notation automatisée au diagnostic d'apprentissage : une étude de mécanisme de l'évaluation formative soutenue par l'IA en écriture anglaise
 - [[ai-internal-feedback-evaluative-judgments]] — Développer le jugement évaluatif par la rétroaction interne soutenue par l'IA
 - [[cotal-formative-assessment-scoring-2026]] — CoTAL : notation d'évaluation formative par prompting avec humain dans la boucle
@@ -159,11 +161,11 @@ Les systèmes d'évaluation formative peuvent passer d'outils de soutien à l'ap
 - [[genai-teacher-feedback-comparison]] — Comparaison de la rétroaction de l'IAG et de celle des enseignants
 - [[chatgpt-feedback-engagement-genai]] — La rétroaction de ChatGPT et l'engagement
 - [[code-gen]] — CODE-GEN : la génération validée de QCM
-- [[responsible-assessment-ai-era-stanford-2026]] — Responsible assessment in the AI era
+- [[responsible-assessment-ai-era-stanford-2026]] — Une évaluation responsable à l'ère de l'IA
 - [[zhan-boud-du-authentic-assessment-scoping-review-2025]] — Designing for authentic assessment
 - [[automated-grading-linux-bash-examinations-large-language-models]] — La notation automatisée des examens sur Linux/bash
 - [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — Les rôles de l'enseignant et de l'IA dans l'évaluation formative renforcée par ChatGPT
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — Reconsidering oral exams as authentic, AI-resistant assessment
+- [[fenton-oral-exams-ai-authentic-assessment-2025]] — Repenser les examens oraux comme une évaluation authentique et résistante à l'IA
 - [[roe-assessment-twins-2026]] — Les jumeaux d'évaluation pour renforcer la validité de l'évaluation à l'ère de l'IAG (Roe, Perkins & Giray 2026)
 - [[harmogen-ai-assessment-rubric-generation]] — HARMOGEN-R : la génération de grilles d'évaluation par l'IA
 - [[ai-assisted-instructor-supervised-grading-feedback]] — La notation et la rétroaction assistées par l'IA sous supervision de l'enseignant
@@ -179,6 +181,7 @@ Les systèmes d'évaluation formative peuvent passer d'outils de soutien à l'ap
 - [[hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026]] — Les compétences diagnostiques des enseignants dans l'évaluation formative soutenue par l'IA : du diagnostic au méta-diagnostic
 - [[mendonca-llm-feedback-perceived-usefulness-programming-2026]] — L'utilité perçue et l'intention d'utiliser la rétroaction générée par LLM en programmation selon trois niveaux éducatifs
 - [[zhu-adaptive-teaching-assistance-genai-big-data-2026]] — L'assistance pédagogique adaptative combinant l'IA générative et l'analytique des mégadonnées en éducation musicale
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — Student Use of LLMs and the Limits of AI-Generated Question Difficulty in Data Science Courses
+- [[student-llm-use-ai-question-difficulty-data-science-2026]] — L'usage des LLM par les étudiants et les limites de la difficulté des questions générées par l'IA dans les cours de science des données
 - [[mcnamara-aim-cai-continuous-assessment-2026]] — Infrastructure d'évaluation continue médiée par l'IA (AIM-CAI) : relier les preuves d'apprentissage à travers les contextes et le temps (McNamara & Hasnine 2026)
 - [[etq-ai-conversational-teacher-training-2026]] — Diagnostic conversationnel par IA des conceptions erronées en enseignement, par un dialogue fondé sur les preuves (Miranda & Calvani 2026)
+- [[assessment-feedback-trilemma-model-2026]] — Le pendant positif du risque de surveillance : l'observabilité comme conception de la preuve, non comme surveillance

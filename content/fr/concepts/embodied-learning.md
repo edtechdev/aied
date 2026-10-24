@@ -1,14 +1,14 @@
 ---
 title: "Apprentissage incarné"
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-10-10T03:24:44-04:00"
+updated: "2026-10-24T10:37:22-04:00"
 type: concept
 foundations: [computational-thinking]
 pedagogy: [active-learning, embodied-learning, situated-learning]
 technology: [educational-robotics]
 confidence: high
 translation_of: concepts/embodied-learning
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-23T22:31:18-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -52,6 +52,8 @@ Un second fil, plus théorique, de la recherche de la base de connaissances sur 
 
 L'apprentissage incarné rejoint la [[educational-robotics|robotique éducative]], la [[educational-robotics|robotique éducative]], la [[educational-robotics|robotique éducative]], l'[[active-learning|apprentissage actif]], l'[[experiential-learning|apprentissage expérientiel]], l'[[situated-learning|apprentissage situé]], la [[distributed-cognition|cognition distribuée]], la [[computational-thinking|pensée informatique]] et l'[[social-emotional-learning|apprentissage socioémotionnel]].
 
+- **Le suivi corporel transforme la régulation en signal mesurable.** Dans une simulation de photosynthèse en réalité mixte où des marqueurs de mouvement déplaçaient des agents étudiants à travers un modèle projeté, une chaîne de traitement par LLM a étiqueté 470 segments de comportement autorégulé dans 40 minutes de vidéo, la domination en acte représentant 66.4% ([[fonteles-embodied-learning-human-in-the-loop-multimodal-2026|Fonteles et al., 2026]]).
+
 ## Concepts liés
 
 - [[educational-robotics]]
@@ -68,6 +70,7 @@ L'apprentissage incarné rejoint la [[educational-robotics|robotique éducative]
 
 ## Articles liés
 
+- [[fonteles-embodied-learning-human-in-the-loop-multimodal-2026]] — Simulation de photosynthèse suivie par le mouvement, analysée par une chaîne de traitement LLM (Fonteles et al. 2026)
 - [[multimodal-embodied-cognition-oral-explanations-2026]] — Un cadre multimodal pour la cognition incarnée dans les explications orales
 - [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Favoriser un apprentissage durable par l'intelligence incarnée (E3-HOT)
 - [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly Studio

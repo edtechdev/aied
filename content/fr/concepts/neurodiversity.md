@@ -1,7 +1,7 @@
 ---
 title: "Neurodiversité"
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-10-10T03:28:37-04:00"
+updated: "2026-10-24T10:43:48-04:00"
 type: concept
 ethics: [equity-in-ai-education, inclusive-learning, neurodiversity]
 connected_faqs: [ai-guidance-children-under-13, ai-disabled-neurodivergent-learners]
@@ -9,7 +9,7 @@ audience: [learners, instructors, instructional designers]
 level: [special education, higher ed, k 12]
 confidence: high
 translation_of: concepts/neurodiversity
-source_updated: "2026-09-30T08:05:25-04:00"
+source_updated: "2026-10-16T08:47:09-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -65,6 +65,7 @@ Le versant du risque a sa propre littérature. [[seung-basham-cognitive-offloadi
 ## Précautions de conception
 
 - **Un soutien conditionné au diagnostic exclut les apprenants qu'il ne nomme pas.** La critique de la revue de cadrage s'applique directement à la manière dont les fonctionnalités d'IA sont déployées : si une fonctionnalité se déverrouille avec une lettre d'accommodement, les apprenants présentant des différences fonctionnelles mais aucun diagnostic ne la voient jamais.
+- **Des processus guidés par des détecteurs peuvent dissuader un usage légitime des accommodements.** Lorsqu'une technologie linguistique fonctionne comme un accommodement efficace pour un apprenant neurodivergent, une interdiction générale ou un processus guidé par un détecteur qui dissuade son usage légitime soulève des considérations d'égalité : le cas de faute annulé que documente la littérature sur la [[ai-detection|détection]] concernait un étudiant inscrit à un programme de soutien au spectre de l'autisme ([[angelier-ai-detection-pitfalls-inclusive-assessment-2026|Angelier (2026)]]).
 - **Les outils peuvent exclure de manière épistémique, et pas seulement mal.** [[genai-minoritized-knowledges-disability|Tali-Otmani (2026)]] soutient que les données d'entraînement anglophones et centrées sur l'Occident marginalisent les manières de savoir non hégémoniques, et place la situation des apprenants handicapés au centre de cette critique — avertissant qu'une IA « inclusive » peut néanmoins encoder la question de savoir quels savoirs comptent.
 - **Les signaux comportementaux sont lus par des systèmes qui ne connaissent pas l'apprenant.** L'interprétation de l'[[student-engagement|engagement]], de la difficulté ou de l'attention dans les [[learning-analytics|analytiques de l'apprentissage]] et la [[student-modeling|modélisation de l'apprenant]] suppose un schéma normatif de réponse ; voir [[differential-effects-across-learner-groups|Effets différentiels selon les groupes d'apprenants]] pour les données probantes d'équité relatives à cette hypothèse.
 - **La dépendance est un résultat de conception, non un manquement de l'apprenant.** Étant donné le chemin de dépendance décrit plus haut, la question à poser de toute fonctionnalité d'IA est de savoir si elle se substitue au processus d'ordre supérieur que le devoir existe pour construire — le point que font Seung et Basham pour les troubles de l'apprentissage.
@@ -96,13 +97,14 @@ La neurodiversité est liée à l'[[special-education|éducation spécialisée]]
 
 ## Articles liés
 
-- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — Generative AI, virtual reality, and beyond: a scoping review of digital assistive technologies for neurodivergent students in higher education
-- [[zhang-ai-students-disabilities-meta-analysis-2024]] — 29 studies of AI for students with disabilities, and an effect that differs by category
-- [[adhd-video-segmentation-computing-education]] — Temporal video segmentation that brought ADHD participants to parity
-- [[neurodivergent-computing-students]] — 24 neurodivergent computing students on structure, ambiguity, and collaboration
-- [[genai-reliance-executive-functioning-2026]] — Executive-functioning difficulties, perceived usefulness, and the route to AI reliance
-- [[seung-basham-cognitive-offloading-swld-2026]] — GenAI cognitive offloading for students with learning disabilities
-- [[dabaghi-ai-dyslexia-education-review-2026]] — AI to help people with dyslexia in education
-- [[genai-minoritized-knowledges-disability]] — Generative AI and the marginalization of minoritized knowledges
+- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — IA générative, réalité virtuelle et au-delà : une revue de cadrage des technologies d'assistance numériques pour les étudiants neurodivergents dans l'enseignement supérieur
+- [[zhang-ai-students-disabilities-meta-analysis-2024]] — 29 études sur l'IA pour les étudiants en situation de handicap, et un effet qui diffère selon la catégorie
+- [[adhd-video-segmentation-computing-education]] — Une segmentation temporelle de la vidéo qui a amené les participants TDAH à la parité
+- [[neurodivergent-computing-students]] — 24 étudiants neurodivergents en informatique sur la structure, l'ambiguïté et la collaboration
+- [[genai-reliance-executive-functioning-2026]] — Difficultés de fonctionnement exécutif, utilité perçue et voie vers la dépendance à l'IA
+- [[seung-basham-cognitive-offloading-swld-2026]] — Délestage cognitif par l'IA générative chez les étudiants présentant des troubles de l'apprentissage
+- [[dabaghi-ai-dyslexia-education-review-2026]] — L'IA pour aider les personnes dyslexiques en éducation
+- [[genai-minoritized-knowledges-disability]] — L'IA générative et la marginalisation des savoirs minorisés
 - [[tactile-statistical-graphs-accessibility]] — Tactile Statistical Graphs for Accessibility
-- [[ai-learning-tools-engineering-education-needs]] — Designing Needs- and Attention-Aware AI Learning Tools
+- [[ai-learning-tools-engineering-education-needs]] — Concevoir des outils d'apprentissage par l'IA sensibles aux besoins et à l'attention
+- [[angelier-ai-detection-pitfalls-inclusive-assessment-2026]] — Les processus guidés par des détecteurs peuvent dissuader un usage légitime des accommodements

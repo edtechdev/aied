@@ -1,14 +1,14 @@
 ---
 title: "TAL éducatif"
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-10-10T03:24:44-04:00"
+updated: "2026-10-24T10:46:40-04:00"
 type: concept
 confidence: medium
 technology: [educational-nlp, intelligent-tutoring, student-modeling, knowledge-tracing, adaptive-learning]
 pedagogy: [scaffolding, socratic-method]
 reviewed_by: [editor]
 translation_of: concepts/educational-nlp
-source_updated: "2026-10-15T10:00:00-04:00"
+source_updated: "2026-10-23T08:05:20-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -63,6 +63,8 @@ Le traitement automatique du langage en éducation applique des méthodes comput
 
 Le TAL éducatif sous-tend à la fois l'analyse du langage de l'apprenant ([[student-modeling|modélisation de l'apprenant]], [[knowledge-tracing|traçage des connaissances]]) et la génération de contenus pédagogiques adaptatifs ([[intelligent-tutoring|tutorat intelligent]], [[scaffolding|étayage]]). [[ai-generated-interactive-fiction-education-2026]] démontre la génération de contenus pédagogiques pilotée par le TAL, tandis que [[zerkouk-comprehensive-review-its-2025]] situe le TAL dans le paysage plus large de l'[[intelligent-tutoring|tutorat intelligent]]. À mesure que l'analyse fondée sur les LLM croît, les cadres d'[[rct|essais contrôlés randomisés]] et de [[research-methods-aied|méthodes de recherche]] importent pour valider que les apercus issus du TAL améliorent réellement l'apprentissage.
 
+Les enchâssements peuvent aussi organiser le texte des étudiants selon sa forme de surface plutôt que selon le construit enseigné. Sur un ensemble synthétique de machines de Carnot, le même pipeline a regroupé les énoncés selon leur formulation plutôt que selon la physique, une représentation de type novice selon [[embedding-similarity-clustering-handwritten-physics-2026|Tauschhuber & Kortemeyer (2026)]], ce qui fait du regroupement un outil d'exploration et non de notation.
+
 La compression de modèles appartient à la même boîte à outils : un pipeline en deux étapes distille un estimateur boîte noire ajusté et son interprétation a posteriori dans un petit modèle à poids ouverts, de sorte qu'un « mentor » à 2 milliards de paramètres restitue à la fois une estimation et une explication en langue naturelle, hors ligne, sur un ordinateur portable ordinaire ([[distilling-self-explaining-lm-learning-analytics-2026]]).
 
 ## Concepts liés
@@ -82,6 +84,7 @@ La compression de modèles appartient à la même boîte à outils : un pipeline
 
 ## Articles liés
 
+- [[embedding-similarity-clustering-handwritten-physics-2026]] — Des grappes d'enchâssements qui organisent les réponses par formulation plutôt que par physique
 - [[lee-learner-question-types-ai-education-2026]] — La classification par transformeurs des questions des apprenants en rôles constructivistes (Lee, Atif & Kang 2026)
 - [[bert-discourse-english-teaching-2026]] — La classification automatique des relations de discours avec BERT pour l'enseignement de l'anglais
 - [[studychat-student-dialogues-chatgpt-ai-course-2026]] — Le jeu de données StudyChat de dialogues étudiant-LLM dans un cours d'IA

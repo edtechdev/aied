@@ -1,13 +1,13 @@
 ---
 title: "Analyse de réseaux"
 created: "2026-08-22T01:40:00-04:00"
-updated: "2026-10-10T04:00:01-04:00"
+updated: "2026-10-24T10:45:59-04:00"
 type: concept
 technology: [knowledge-graph, learning-analytics]
 confidence: high
 methods: [network-analysis, research-methods-aied]
 translation_of: concepts/network-analysis
-source_updated: "2026-10-04T10:50:04-04:00"
+source_updated: "2026-10-16T08:47:09-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -36,6 +36,7 @@ Les méthodes d'analyse de réseaux partagent un principe central : c'est la str
 ## Variantes utilisées dans le corpus de la base de connaissances
 
 - **L'analyse de réseaux épistémiques (ENA)** — la variante la plus courante dans la base de connaissances (abordée dans environ 24 articles). L'ENA modélise la cooccurrence de codes ou de construits au sein de segments de discours ou d'activité, produisant des réseaux qui montrent quelles idées, compétences ou actions épistémiques tendent à être connectées dans un contexte donné. Elle sert à comparer la manière dont différents groupes (par exemple, des apprenants de littératie élevée contre faible, des collaborateurs humains contre IA) structurent leur cognition. ([[tracing-genai-literacy-interaction-patterns]]) ([[hao-human-ai-collaborative-problem-solving-cognition]])
+- **L'ENA cartographie aussi le discours de compétence des [[teacher-role|éducateurs]].** En appliquant l'analyse de réseaux épistémiques à des entretiens menés avec 24 éducateurs de l'enseignement supérieur en Aotearoa Nouvelle-Zélande, l'étude a modélisé les liens entre sept dimensions du HACC et constaté que les réseaux des éducateurs principaux différaient significativement de ceux des éducateurs confirmés (U = 10,00, p = 0,04) et des éducateurs en début de carrière (U = 7,00, p = 0,01) sur le premier axe ([[dang-human-ai-collaboration-competency-2026|Dang et al. (2026)]]).
 - **L'analyse de réseaux sociaux (SNA)** — modélise les relations entre personnes (apprenants, enseignants, agents) pour révéler les structures de collaboration, l'influence, la centralité et la communauté. Utile pour étudier l'apprentissage [[collaborative-learning|collaboratif]] et par les pairs. ([[misiejuk-cognitive-offloading-prompting-2026]])
 - **L'analyse des réseaux de transition (TNA)** — modélise des séquences temporelles d'états discrets (par exemple, les actions d'un apprenant dans une séance de tutorat) comme un réseau orienté, en quantifiant la probabilité de passer d'un état à l'autre. La TNA sert à révéler les boucles comportementales, les trajectoires et les dynamiques d'appropriation dans l'interaction apprenant–IA. ([[penny-transition-network-analysis-efl-writing-2026]])
 
@@ -98,3 +99,4 @@ Les méthodes de réseau sont utilisées à travers le corpus de données proban
 - [[youtube-frames-chatgpt-education]] — ENA des cadrages de ChatGPT sur YouTube dans l'éducation
 - [[agency-gap-ai-writing]] — L'écart d'autonomie dans l'écriture assistée par IA (ENA)
 - [[synthetic-educational-data-structural-fidelity-2026]] — Ce que les métriques de fidélité manquent : un contrôle structurel des données éducatives synthétiques
+- [[dang-human-ai-collaboration-competency-2026]] — L'ENA cartographie aussi le discours de compétence des éducateurs

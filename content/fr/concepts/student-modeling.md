@@ -1,7 +1,7 @@
 ---
 title: "La modélisation de l'apprenant et l'enseignement adaptatif"
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-10T03:41:12-04:00"
+updated: "2026-10-24T10:51:33-04:00"
 type: concept
 connected_faqs: [making-simulated-students-behave-like-learners]
 technology: [adaptive-learning, cognitive-diagnosis, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, personalized-learning, simulating-students, student-modeling]
@@ -88,6 +88,7 @@ Certains signaux visés peuvent ne pas être du tout récupérables à partir du
 Les idées fausses cachées révèlent le même échec par l'autre versant : [[correct-answer-trap-misconceptions|Imran et Bulathwela (2026)]] ont constaté qu'un classificateur affiné repérait 57.4% des réponses correctes obtenues par un raisonnement erroné, et qu'à une prévalence de 1.6%, même un modèle de raisonnement précis à 83.6% laissait 8 fausses alertes par détection — ainsi, les signaux de maîtrise fondés sur l'exactitude sont à la fois incomplets et coûteux à réparer.
 
 **La manière dont un modèle est validé est elle-même une question de validité.** [[schuetze-knowledge-tracing-forgetting-2026|Schuetze, Yan et Carvalho (2025)]] montrent que des modèles de l'apprenant populaires (BKT, BKT avec oubli, AFM) semblent capter l'apprentissage humain seulement lorsqu'ils sont ajustés rétroactivement sur un jeu de données complet couvrant plusieurs sessions ; sous une validation croisée fondée sur le temps (en avance) — prédisant une session future à partir des sessions antérieures, comme ces modèles sont réellement déployés — ils surestiment la performance, manquent l'[[retrieval-spacing-interleaving|effet d'espacement]] et classent mal les conditions de pratique. Les modèles augmentés de l'oubli et ceux sans oubli ayant performé à peu près également d'une session à l'autre, les auteurs concluent que l'oubli est souvent absorbé dans les paramètres de l'apprenant plutôt que véritablement représenté. La leçon pour la famille est qu'une représentation fidèle de l'apprenant doit être validée de la manière dont elle est utilisée — et que confondre la performance du moment avec la rétention à long terme produit des modèles qui semblent exacts tout en dénaturant les apprenants.
+[[learning-style-inference-bias-student-ai-dialogues-2026|Zamanifard, Goudarzi et Robb (2026)]] montrent le même échec du côté du classificateur : inférer des dimensions de style d'apprentissage à partir des dialogues de résolution de problèmes de 153 étudiants de premier cycle paraissait modérément exact jusqu'à ce que le rappel par classe révèle une prédiction de l'étiquette dominante, les apprenants de type Intuitif et Global étant systématiquement sous-identifiés et les exemples few-shot amplifiant parfois le biais de la classe majoritaire.
 
 ## La modélisation à l'ère des LLM
 
@@ -132,8 +133,8 @@ La modélisation de l'apprenant et l'enseignement adaptatif alimentent les [[lea
 ## Articles liés
 
 - [[deceptive-overgeneralization-adaptive-learning-2026]] — Surgénéralisation trompeuse : l'adaptation fondée sur la maîtrise peut interrompre la pratique avant que les apprenants ne sachent quand s'abstenir d'agir (An, McLaren & Stamper 2026)
-- [[causal-modeling-competency-assessment-2026]] — Causal Modeling of Support Interventions for Student Competency Assessment
-- [[turano-ai-tutoring-not-a-monolith-2026]] — AI Tutoring is Not a Monolith: What We Actually Know (Stanford SCALE/NSSA brief)
+- [[causal-modeling-competency-assessment-2026]] — Modélisation causale des interventions de soutien pour l'évaluation des compétences des étudiants
+- [[turano-ai-tutoring-not-a-monolith-2026]] — Le tutorat par IA n'est pas monolithique : ce que nous savons réellement (note du Stanford SCALE/NSSA)
 - [[learning-context-framework-context-aware-ai-education-2026]]
 - [[yasir-llm-tutoring-agents-2026]] — Les tuteurs LLM rejettent à l'excès les variantes valides et valident à l'excès les réponses incorrectes (Yasir et al. 2026)
 - [[haiml-human-centered-ai-metacognitive-model-2026]]
@@ -146,7 +147,7 @@ La modélisation de l'apprenant et l'enseignement adaptatif alimentent les [[lea
 - [[xie-hillm-cd-2026]]
 - [[inside-llm-student-simulator-reasoning-2026]]
 - [[trace-course-grade-prediction-2026]]
-- [[sc2r-counterfactual-recourse-educational-2026]] — From Student Risk Prediction to SC2R: Counterfactual Recourse
+- [[sc2r-counterfactual-recourse-educational-2026]] — De la prédiction du risque étudiant à SC2R : recours contrefactuel
 - [[graph-its-adaptive-algorithms-2026]] — Graph-Based Intelligent Tutoring for Dynamic Domains (2026)
 - [[distilling-self-explaining-lm-learning-analytics-2026]] — Distilling self-explaining LM for learning analytics
 - [[studentsim-llm-student-simulators]] — StudentSim: Training LLM-based Student Simulators
@@ -156,7 +157,8 @@ La modélisation de l'apprenant et l'enseignement adaptatif alimentent les [[lea
 - [[reddig-maclellan-personalized-feedback-llm-2026]]
 - [[schuetze-knowledge-tracing-forgetting-2026]]
 - [[zhang-ml-student-progress-programming-2026]]
-- [[process-grounded-language-cognitive-diagnosis-2026]] — Beyond ID Embeddings: Process-Grounded Language Modeling for Cognitive Diagnosis
+- [[process-grounded-language-cognitive-diagnosis-2026]] — Au-delà des plongements d'identifiants : une modélisation linguistique fondée sur le processus pour le diagnostic cognitif
 - [[exrec-exercise-recommendation-knowledge-tracing-2025]] — état compact de l'apprenant et traceur calibré comme environnement de recommandation
-- [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn: An Agentic Tutor that Learns its Learner in a Human-AI Co-Learning Loop
+- [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn : un tuteur agentique qui apprend son apprenant dans une boucle d'apprentissage conjoint humain-IA
 - [[ai-game-based-learning-systematic-review-2026]] — L'évaluation furtive a atteint des AUC de 0.848–0.913, mais les audits de biais étaient quasi absents sur 55 études
+- [[learning-style-inference-bias-student-ai-dialogues-2026]] — L'inférence du style d'apprentissage à partir du dialogue échoue sur les métriques équilibrées (Zamanifard, Goudarzi & Robb 2026)

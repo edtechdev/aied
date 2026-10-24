@@ -2,13 +2,13 @@
 connected_resources: [clarity, pedagogical-promptbook, snorkl]
 title: La rétroaction
 created: "2026-08-15T19:02:13-04:00"
-updated: "2026-10-10T03:05:35-04:00"
+updated: "2026-10-24T10:38:02-04:00"
 type: concept
 assessment: [ai-feedback-quality, assessment, automated-assessment, feedback, feedback-literacy, formative-assessment, peer-assessment]
 connected_faqs: [developing-ai-tutor, ai-feedback-at-scale]
 confidence: high
 translation_of: concepts/feedback
-source_updated: "2026-10-15T08:25:00-04:00"
+source_updated: "2026-10-23T22:48:50-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -35,7 +35,7 @@ ai_assist:
 Ceci est le concept parapluie des idées de la base de connaissances relatives à la rétroaction. La rétroaction se situe à l'intersection de l'évaluation et de l'apprentissage : sans rétroaction, l'évaluation mesure la performance mais ne l'améliore pas ; avec une rétroaction efficace, l'évaluation devient un événement d'apprentissage. La base de connaissances traite la rétroaction comme un **système** doté de multiples facettes — la qualité de la rétroaction elle-même ([[ai-feedback-quality]]), la boucle par laquelle elle comble l'écart d'apprentissage, la capacité de l'apprenant à l'utiliser ([[feedback-literacy]]) et les contextes d'évaluation dans lesquels elle opère ([[formative-assessment]], [[peer-assessment]], [[automated-assessment]]).
 
 - **[[yilmaz-genai-feedback-srl-online-higher-ed-2026|Yilmaz et al.]]** montrent que la perception qu'ont les étudiants de la *source* de la rétroaction (IA ou humain) façonne l'apprentissage autorégulé à partir de la rétroaction issue de l'[[generative-ai|IAG]] — une réserve cruciale pour les affirmations relatives à l'efficacité de la rétroaction.
-- **[[nazaretsky-feedback-source-bias-2025|Nazaretsky et al. (2025)]]** isolent la source du contenu : 472 étudiants de l'EPFL ont évalué des rétroactions humaines et des rétroactions GPT-4.0 comparables en contenu portant sur leur propre travail, d'abord en aveugle puis à nouveau après divulgation de la source, et la plupart n'ont pas pu distinguer de manière fiable les deux (287 sur 472 ont deviné juste). Une fois l'étiquette révélée, les évaluations de la variante IA ont chuté et celles de la variante humaine ont augmenté — de manière significative pour la Genuineness (p < .01) — et la crédibilité du fournisseur s'est séparée nettement (humain μ = 3.28 contre IA μ = 2.25, d de Cohen = 0.57). Le biais s'attache au fournisseur plutôt qu'au texte, puisque les deux variantes étaient comparables sur l'exactitude et la qualité cognitive.
+- **[[nazaretsky-feedback-source-bias-2025|Nazaretsky et al. (2025)]]** isolent la source du contenu : 472 étudiants de l'EPFL ont évalué des rétroactions humaines et des rétroactions GPT-4.0 comparables en contenu portant sur leur propre travail, d'abord en aveugle puis à nouveau après divulgation de la source, et la plupart n'ont pas pu distinguer de manière fiable les deux (287 sur 472 ont deviné juste). Une fois l'étiquette révélée, les évaluations de la variante IA ont chuté et celles de la variante humaine ont augmenté — de manière significative pour la Genuineness (p < .01) — et la crédibilité du fournisseur s'est séparée nettement (humain μ = 3.28 contre IA μ = 2.25, d de Cohen = 0.57). Le biais s'attache au fournisseur plutôt qu'au texte, puisque les deux variantes étaient comparables sur l'exactitude et la qualité cognitive. [[chatgpt-feedback-credibility-perceived-learning|Pérez-López et al. (2026)]] prolongent la crédibilité de la rétroaction jusqu'à l'apprentissage : chez 230 étudiants en gestion après une dissertation assistée par l'IA, la crédibilité prédisait l'apprentissage perçu, la compétence perçue et l'empathie de type humain en étant les antécédents.
 
 ## Le système de rétroaction
 
@@ -47,6 +47,7 @@ La rétroaction se comprend au mieux non comme un événement unique mais comme 
 - **[[formative-assessment]]** — le contexte d'évaluation dans lequel la rétroaction sert à améliorer l'apprentissage alors qu'il est encore en cours, et pas seulement à le juger.
 - **[[peer-assessment]]** — la rétroaction échangée entre [[learners|apprenants]], de plus en plus augmentée par l'IA et un lieu de développement de la littératie en rétroaction.
 - **[[automated-assessment]]** — la notation et la rétroaction pilotées par l'IA, de la [[automated-essay-scoring|notation automatisée des dissertations]] à la notation de réponses courtes sensible à la confiance.
+- **Les parties entrent en tension les unes avec les autres.** Concevoir la rétroaction revient à choisir entre utilisabilité, sources et soutenabilité plutôt qu'à maximiser les trois ; [[assessment-feedback-trilemma-model-2026|Pedlow et al. (2026)]] traitent la soutenabilité comme le pôle qui ne doit dépendre d'aucun individu, d'aucune ressource ni d'aucune condition institutionnelle en particulier.
 
 ### La boucle de rétroaction
 
@@ -138,6 +139,7 @@ Un modèle à deux couches montre comment l'appariement peut être organisé aut
 La rétroaction est l'un des mécanismes les plus conséquents et les mieux étayés de l'éducation, et l'IA l'amplifie et le complique tout à la fois. Une rétroaction par l'IA bien architecturée peut égaler ou dépasser la rétroaction humaine et se déployer à l'échelle de cohortes entières, mais elle exige de nouvelles capacités de la part des apprenants ([[feedback-literacy|littératie en rétroaction]], [[ai-literacy|littératie en IA]]) et porte des risques (acceptation acritique, [[cognitive-offloading|sur-dépendance]]). À mesure que la rétroaction générée par l'IA devient omniprésente, la base de connaissances conçoit la rétroaction comme un système entier — qualité, boucle, littératie et contexte d'évaluation agissant de concert — plutôt que comme une composante unique.
 
 - **La rétroaction peut cibler celui qui la donne.** La formation des tuteurs est un contexte de rétroaction peu exploré : des systèmes automatisés qui étiquettent séquentiellement les réponses ouvertes des tuteurs pour signaler les types d'éloges (éloge fondé sur l'effort — la variété souhaitable, axée sur le processus — contre éloge fondé sur le résultat contre éloge fondé sur la personne, la variété la moins souhaitable, qui attribue des traits) peuvent délivrer une rétroaction explicative qui change le comportement de tutorat. La contrainte liante est constituée par les données étiquetées par des experts. Une approche par augmentation — GPT-4o génère des réponses étiquetées synthétiques, faisant passer un ensemble peu doté de 13 instances à 520, puis affine GPT-3.5 — récupère l'essentiel de l'écart : F2 +20,5% sur l'éloge fondé sur l'effort, +17,3% sur l'éloge fondé sur le résultat, et +16,5% sur la catégorie *inédite* de l'éloge fondé sur la personne. Le test de généralisation à un type d'éloge inédit est le contrôle de validité qui distingue ce résultat d'un surapprentissage, et le mécanisme est plus proche de la distillation d'un modèle enseignant que de l'augmentation classique. ([[xu-automated-feedback-tutor-training-2025]])
+- **Une rétroaction qui ne voit pas la révision se répète.** Dans un jeu d'apprentissage scientifique dont les agents critiquaient des arguments en brouillon, les étudiants révisaient sur plusieurs tours, mais un modèle 8B quantifié renvoyait sensiblement la même critique à un brouillon amélioré, si bien que la boucle qui motivait la révision produisait aussi la frustration qui y mettait fin ([[humburg-scistory-ai-supported-inquiry-science-learning-games-2025|Humburg et al., 2025]]).
 
 ## Concepts liés
 
@@ -159,8 +161,9 @@ La rétroaction est l'un des mécanismes les plus conséquents et les mieux éta
 - [[writing-education]]
 
 ## Articles liés
+- [[humburg-scistory-ai-supported-inquiry-science-learning-games-2025]] — Une rétroaction d'agent qui se répétait d'une révision à l'autre (Humburg et al. 2025)
 - [[jansen-argumentative-writing-feedback-receptivity-2026]] — Rétroaction automatisée sur l'écriture argumentative : le rôle de la réceptivité à la rétroaction et de la perception de la rétroaction chez les élèves du secondaire
-- [[ai-agents-joyful-assessment-third-space-2026]] — AI agents, joyful assessment, and third space
+- [[ai-agents-joyful-assessment-third-space-2026]] — Agents d'IA, évaluation joyeuse et tiers espace
 - [[student-perspectives-ai-writing-grading-2026]] — Student perspectives on transparent AI-assisted writing assessment (AlGhamdi 2026)
 - [[usher-faraon-who-grades-best-2026]] — Comparaison des notations de ChatGPT, des pairs et de l'enseignant selon les niveaux de qualité des projets (Usher & Faraon 2026)
 - [[layer-sensitive-cognitive-offloading-writing-2026]] — Layer-sensitive cognitive offloading in GenAI-assisted writing (Chen 2026)
@@ -168,31 +171,31 @@ La rétroaction est l'un des mécanismes les plus conséquents et les mieux éta
 - [[farrokhnia-genai-feedback-student-revisions-2026]] — Rétroaction de l'enseignant contre rétroaction de l'IAG : les étudiants révisent moins avec l'IA
 - [[yilmaz-genai-feedback-srl-online-higher-ed-2026]] — La rétroaction de l'IAG et l'apprentissage autorégulé : la source perçue importe
 - [[chang-genai-peer-feedback-collaborative-argumentation-2026]] — La rétroaction entre pairs assistée par l'IAG dans l'argumentation collaborative
-- [[luo-eaton-ai-student-feedback-ethics-2026]] — Ethics of AI in student feedback
+- [[luo-eaton-ai-student-feedback-ethics-2026]] — Éthique de l'IA dans la rétroaction aux étudiants
 - [[metacognitive-training-optimal-cognitive-offloading-2026]] — Metacognitive training facilitates optimal cognitive offloading (Ngai & Gilbert 2026)
 - [[liu-deris-ai-feedback-literacy-uptake]] — L'échelle AI Feedback Literacy et la prédiction de l'appropriation (Liu & Deris 2025)
-- [[zhan-boud-dawson-genai-feedback-engagement]] — GenAI as enabler of student feedback engagement (Zhan, Boud, Dawson & Yan 2025)
+- [[zhan-boud-dawson-genai-feedback-engagement]] — L'IAG comme levier de l'engagement des étudiants dans la rétroaction (Zhan, Boud, Dawson & Yan 2025)
 - [[mendoza-ai-feedback-feedback-literacy-srl]] — Feedback literacy moderates AI feedback → SRL (Mendoza et al. 2026)
 - [[rethinking-ai-writing-feedback-literacy]] — Feedback literacy scripts for AI-assisted writing (Dai 2026)
 - [[jin-genai-learning-analytics-feedback-literacy]] — GenAI learning analytics in feedback (Jin et al. 2025)
 - [[tubino-adachi-ai-automated-feedback-literacy]] — AI automated feedback tool for feedback literacy (Tubino & Adachi 2025)
 - [[irwin-muller-efl-peer-feedback-literacy]] — GenAI in EFL peer feedback for feedback literacy (Irwin & Muller 2026)
 - [[ai-generated-feedback-higher-ed]] — La rétroaction générée par l'IA dans l'enseignement supérieur
-- [[care-full-feedback-genai]] — Care-full feedback design with GenAI
+- [[care-full-feedback-genai]] — Concevoir une rétroaction attentive avec l'IAG
 - [[ai-feedback-ecosystem-higher-education-2026]] — L'écosystème de la rétroaction dans l'enseignement supérieur : l'IAG remanie les relations de rétroaction, et les humains comme la boucle (Bearman et al. 2026)
 - [[learner-centered-feedback-ai]] — Learner-centered AI feedback practices
 - [[genai-feedback-design-multisite-experiment]] — Multi-site GenAI feedback design
-- [[ai-feedback-critical-thinking-writing-2026]] — AI feedback and critical thinking in writing
-- [[richmond-nicholls-genai-psych-feedback-ai-literacies]] — GenAI assessment builds psychological, feedback, and AI literacies
+- [[ai-feedback-critical-thinking-writing-2026]] — Rétroaction par l'IA et pensée critique en écriture
+- [[richmond-nicholls-genai-psych-feedback-ai-literacies]] — L'évaluation par IAG construit les littératies psychologique, en rétroaction et en IA
 - [[zhao-learnlens-feedback-educators-loop]] — LearnLens : une rétroaction ancrée dans le curriculum avec supervision de l'éducateur (Zhao et al. 2025)
 - [[sequenced-ai-feedback-learning]] — Sequenced AI feedback studies
 - [[becerra-aicofe-feedback-2026]] — Les systèmes de rétroaction entre pairs par l'IA
 - [[automated-formative-assessments-a-level-sciences]] — Les évaluations formatives automatisées en sciences de niveau A
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — Reconsidering oral exams as authentic, AI-resistant assessment
+- [[fenton-oral-exams-ai-authentic-assessment-2025]] — Repenser les examens oraux comme évaluation authentique et résistante à l'IA
 - [[marked-pedagogies-linguistic-bias-writing-feedback]] — Marked Pedagogies : les biais dans la rétroaction automatisée en écriture
 - [[shap-llm-rationales-teaching-quality-assessment]] — SHAP contre les justifications produites par LLM pour la rétroaction pédagogique fondée sur une grille
-- [[llm-adaptive-programming-error-explanations-2026]] — LLM adaptive explanations of programming errors
-- [[student-perceptions-ai-study-productivity-2026]] — Students' Perceptions of Artificial Intelligence Tools for Study Productivity and Learning: An Exploratory Survey Study
+- [[llm-adaptive-programming-error-explanations-2026]] — Explications adaptatives des erreurs de programmation par LLM
+- [[student-perceptions-ai-study-productivity-2026]] — Perceptions des étudiants à l'égard des outils d'intelligence artificielle pour la productivité d'étude et l'apprentissage : une étude par sondage exploratoire
 - [[yasar-llms-iterative-pedagogical-design-2026]] — Les LLM comme agents de conception pédagogique itérative
 - [[gpt4-feedback-student-activation-2026]]
 - [[reddig-maclellan-personalized-feedback-llm-2026]]
@@ -200,13 +203,14 @@ La rétroaction est l'un des mécanismes les plus conséquents et les mieux éta
 - [[mesny-innovative-assessment-grading-management-2026]]
 - [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]
 - [[tripartite-feedback-framework-ai-assessment-2026]] — Un cadre tripartite : trier la rétroaction selon son statut épistémique et les cinq principes frontière pour l'implication de l'IA (Venetsanos 2026)
-- [[structured-reflection-ai-explanatory-feedback-2026]] — Benefit or bottleneck? Structured reflection on AI explanatory feedback (Asher, Gold & Carvalho 2025)
-- [[bounded-reliance-ai-writing-feedback-2026]] — Bounded Reliance: A Source Credibility Perspective on EFL Students' Engagement with AI-Generated Writing Feedback
-- [[pivot-generative-video-tutors-stem-2026]] — From Content Generation to Learning Support: Pedagogy-Guided Generative Video Tutors for STEM Learning
-- [[llm-feedback-focus-adaptivity-student-writing-2026]] — Evaluating Feedback Focus and Pedagogical Adaptivity in LLM-Generated Feedback on Student Writing
-- [[nlp-student-evaluation-teaching-scoping-review-2026]] — From Sentiment Classification to Actionable and Responsible Feedback: A Scoping Review and Evidence Map of NLP in Student Evaluation of Teaching, 2015–2026
-- [[nazaretsky-feedback-source-bias-2025]] — Who gives feedback matters: source labels shift ratings when the text is held comparable (Nazaretsky et al. 2025)
-- [[ai-powered-writing-feedback-awe-review-2026]] — AI-Powered Feedback System for Writing: A Review of Automated Writing Evaluation (AWE) Tools
-- [[zhao-ji-appraisal-human-ai-revisions-2026]] — What a revision does to the writer's stance: peer feedback turns argumentative essays more contractive, AI revision keeps the Contract/Expand balance (Zhao & Ji 2026)
+- [[structured-reflection-ai-explanatory-feedback-2026]] — Bénéfice ou goulot d'étranglement ? La réflexion structurée sur la rétroaction explicative de l'IA (Asher, Gold & Carvalho 2025)
+- [[bounded-reliance-ai-writing-feedback-2026]] — Dépendance bornée : une perspective de crédibilité de la source sur l'engagement d'étudiants en anglais langue étrangère avec la rétroaction d'écriture générée par l'IA
+- [[pivot-generative-video-tutors-stem-2026]] — De la génération de contenu au soutien à l'apprentissage : des tuteurs vidéo génératifs guidés par la pédagogie pour l'apprentissage des STIM
+- [[llm-feedback-focus-adaptivity-student-writing-2026]] — Évaluer la focalisation et l'adaptativité pédagogique de la rétroaction générée par LLM sur l'écriture étudiante
+- [[nlp-student-evaluation-teaching-scoping-review-2026]] — De la classification des sentiments à une rétroaction actionnable et responsable : revue de cadrage et carte des preuves sur le TAL dans l'évaluation de l'enseignement par les étudiants, de 2015 à 2026
+- [[nazaretsky-feedback-source-bias-2025]] — Qui donne la rétroaction compte : les étiquettes de source déplacent les évaluations lorsque le texte est tenu comparable (Nazaretsky et al. 2025)
+- [[ai-powered-writing-feedback-awe-review-2026]] — Système de rétroaction assisté par l'IA pour l'écriture : une revue des outils d'évaluation automatisée de l'écriture (AWE)
+- [[zhao-ji-appraisal-human-ai-revisions-2026]] — Ce qu'une révision fait à la posture du rédacteur : la rétroaction entre pairs rend les dissertations argumentatives plus contractives, la révision par l'IA maintient l'équilibre Contract/Expand (Zhao & Ji 2026)
 - [[xu-automated-feedback-tutor-training-2025]] — Améliorer les systèmes de rétroaction automatisée pour la formation des tuteurs dans des scénarios peu dotés, par augmentation des données (Xu et al. 2025)
 - [[etq-ai-conversational-teacher-training-2026]] — Diagnostic conversationnel par IA des conceptions erronées en enseignement, par un dialogue fondé sur les preuves (Miranda & Calvani 2026)
+- [[assessment-feedback-trilemma-model-2026]] — Nomme le compromis entre utilisabilité, sources et soutenabilité, faisant de la soutenabilité un pôle de conception

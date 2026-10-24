@@ -1,11 +1,12 @@
 ---
 title: "Comment la recherche sur l'IA en éducation doit-elle intégrer l'équité, l'accessibilité, la confidentialité, l'éthique et la sécurité pédagogique ?"
 created: "2026-09-22T19:14:45-04:00"
-updated: "2026-10-09T18:10:00-04:00"
+updated: "2026-10-24T10:37:47-04:00"
 weight: 60
+audience: [researchers, instructors, instructional designers]
 ethics: [accessibility, digital-divide, equity-in-ai-education, ethics, privacy, pedagogical-safety]
 methods: [research-methods-aied]
-source_updated: "2026-10-02T08:21:34-04:00"
+source_updated: "2026-10-21T14:32:00-04:00"
 translation_of: faqs/equity-ethics-pedagogical-safety-research
 translation_note: "Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle."
 contributors: [editor]
@@ -21,8 +22,6 @@ ai_assist:
 ---
 
 *Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle.*
-
-# Comment la recherche sur l'IA en éducation doit-elle intégrer l'équité, l'accessibilité, la confidentialité, l'éthique et la sécurité pédagogique ?
 
 **Ces exigences doivent être traitées comme des contraintes de conception et des résultats à évaluer dès le départ, et non comme des limites ajoutées à la section de discussion une fois l'étude d'efficacité terminée.**
 

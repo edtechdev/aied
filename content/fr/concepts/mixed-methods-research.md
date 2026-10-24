@@ -1,7 +1,7 @@
 ---
 title: "Recherche à méthodes mixtes"
 created: "2026-08-24T02:10:00-04:00"
-updated: "2026-10-10T04:00:01-04:00"
+updated: "2026-10-24T10:49:43-04:00"
 type: concept
 research_method: [survey]
 confidence: high
@@ -33,6 +33,8 @@ ai_assist:
 
 Les dispositifs à méthodes mixtes intègrent l'ampleur, la précision et le pouvoir causal des méthodes quantitatives à la profondeur, au contexte et au sens des méthodes qualitatives. La proposition de valeur est la **triangulation** : lorsque des fils indépendants convergent vers la même conclusion, la confiance augmente ; lorsqu'ils divergent, l'écart lui-même est informatif.
 
+Sur 394 études de GenAI dans l'enseignement supérieur, les méthodes mixtes constituaient le schéma de recherche le plus courant (213 études, 54%), suivies de la recherche quantitative (109, 28%) et qualitative (72, 18%) ([[mapping-genai-higher-ed-scoping-review|Lin et al. (2026)]]).
+
 ## Schémas de conception courants
 
 - **Explicatif séquentiel (QUANT → qual).** Les données quantitatives sont recueillies d'abord, puis les données qualitatives expliquent ou contextualisent les constats quantitatifs surprenants ou significatifs. [[genai-over-reliance-learning-2026|Une étude à méthode mixte sur l'IA générative et l'apprentissage durable]] associe des enquêtes à trois vagues à des entretiens d'éducateurs pour expliquer le schéma quantitatif allant de l'amélioration à la dépendance excessive.
@@ -55,6 +57,7 @@ Les dispositifs à méthodes mixtes intègrent l'ampleur, la précision et le po
 - **Forces :** la triangulation augmente la confiance ; l'ampleur quantitative plus la profondeur qualitative ; permet d'expliquer des résultats inattendus et de relier mécanisme et ampleur ; produit à la fois des effets et du sens ; bien adaptée à des phénomènes complexes et contextuels de l'IA en éducation.
 - **Limites :** complexité, intensité en ressources et exigence méthodologique ; l'intégration peut être superficielle si les fils sont simplement rapportés côte à côte plutôt que réellement fusionnés ; elle hérite malgré tout des faiblesses de chaque fil (par exemple, le biais d'auto-déclaration dans les enquêtes, la dépendance au chercheur dans les entretiens) ; exige la maîtrise des deux traditions méthodologiques.
 - **Une limite de regroupement qui borne l'inférence.** [[human-ai-collaboration-academic-writing-2026|Alshehri et al. (2026)]] attribuent deux classes intactes (n = 31, n = 22), si bien qu'avec seulement deux grappes, les tests t rapportés ignorent l'imbrication intraclasse et les modèles multiniveaux ne sont pas estimables, ce qui rend les tests de signification optimistes quant à ce que le dispositif peut étayer.
+- **Le choix d'instrument peut inverser un fil computationnel.** VADER et un RoBERTa affiné ont attribué une valence opposée au même billet (0.9413 fortement positif avec VADER, −0.9209 avec RoBERTa), si bien que la lecture quantitative d'un corpus peut dépendre du classificateur employé ([[bluesky-aied-discourse-social-media-analysis-2026|Geraili Meykola et al., 2026]]).
 
 ## Relation avec le paysage méthodologique plus large
 
@@ -81,3 +84,4 @@ La recherche à méthodes mixtes se situe entre les traditions [[quantitative-re
 - [[hazra-safetutors-pedagogical-safety-2026]] — La sécurité des tuteurs d'IA et les préjudices pédagogiques
 - [[becker-chatgpt-typology-physics-2026]] — Une typologie qualitative de l'adoption de ChatGPT en physique
 - [[edtech-privacy-deferral-2026]] — « Nous le corrigerons plus tard » : l'éducation, l'IA et l'ajournement de la vie privée des étudiants dans les technologies éducatives
+- [[bluesky-aied-discourse-social-media-analysis-2026]] — VADER et un RoBERTa affiné ont attribué une valence opposée au même billet Bluesky (Geraili Meykola et al., 2026)

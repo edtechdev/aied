@@ -1,11 +1,12 @@
 ---
 title: "Comment puis-je réduire la triche par IA dans mon cours ?"
 created: "2026-09-22T19:10:56-04:00"
-updated: "2026-10-09T18:10:00-04:00"
+updated: "2026-10-24T10:43:16-04:00"
 weight: 88
+audience: [instructors, assessment designers]
 foundations: [academic-integrity, ai-literacy, reducing-ai-misuse]
 assessment: [assessment]
-source_updated: "2026-10-02T08:21:34-04:00"
+source_updated: "2026-10-21T14:32:00-04:00"
 translation_of: faqs/reduce-ai-cheating
 translation_note: "Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle."
 contributors: [editor]
@@ -20,9 +21,6 @@ ai_assist:
     agent: hermes-agent
 ---
 *Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle.*
-
-# Comment puis-je réduire la triche par IA dans mon cours ?
-
 
 **L'orientation la plus forte de la base de connaissances est de s'appuyer moins sur la détection et davantage sur une [[assessment|conception structurelle de l'évaluation]], des attentes explicites, la vérification de l'apprentissage et la [[ai-literacy|littératie de l'IA]].** La synthèse [[academic-integrity|Intégrité académique]] signale des limites substantielles de la détection des textes d'IA et soutient que l'intégrité académique à l'ère de l'[[generative-ai|IA générative]] est de plus en plus un problème de conception de l'évaluation plutôt que simplement un problème de détection. Les outils de détection ne sont pas fiables et sont injustes sur le plan procédural. Dans une étude contrôlée portant sur 642 résumés anglais publiés, deux détecteurs commerciaux ont signalé une légère *révision* par IA conforme aux consignes à un taux de 38–80%, et ont signalé des originaux non modifiés de 2023–25 dans 9–15% des cas (les disciplines non [[stem-education|STEM]] bien plus que les STEM, p<0.001) et, après une « humanisation » par IA, ont attrapé moins de 4% des réécritures étiquetées comme produites par IA, un catch-22 de l'intégrité qui punit l'aide honnête tout en permettant l'évitement délibéré.([[karr-ai-detection-humanization-2026]]) Dans une étude de terrain dissimulée, 94% des copies entièrement générées par l'IA et injectées dans des examens en ligne en direct dans cinq modules de psychologie sont passées inaperçues, et le travail de l'IA a en moyenne dépassé les vrais étudiants ; l'université Vanderbilt a désactivé son détecteur sous licence après n'avoir pas réussi à valider un taux de faux positifs annoncé de 1% qui impliquait environ 750 étudiants mal étiquetés parmi 75,000 copies annuelles.([[teichmann-detecting-undetectable-misconduct-2026]]) La détection seule est donc un levier faible ; le levier plus fort est l'argument de conception de l'évaluation exposé en détail dans [[redesign-assessment-ai-era]]. Voici des approches concrètes et exploitables, classées approximativement par force des preuves.
 

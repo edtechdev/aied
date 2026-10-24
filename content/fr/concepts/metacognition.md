@@ -2,7 +2,7 @@
 connected_resources: [student-guide-to-ai]
 title: La métacognition
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-10-10T03:05:32-04:00"
+updated: "2026-10-24T10:43:38-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
@@ -13,7 +13,7 @@ audience: [learners]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/metacognition
-source_updated: "2026-10-15T10:00:00-04:00"
+source_updated: "2026-10-18T10:07:01-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -81,6 +81,8 @@ Lorsque l'IA est conçue pour soutenir la réflexion plutôt que pour la remplac
 - **Attribuer un niveau d'utilisation de l'IA par tâche.** Le modèle HAIML associe ses trois couches à quatre niveaux d'utilisation de l'IA — de l'absence d'utilisation, en passant par le remue-méninges, jusqu'à la collaboration avec l'IA et la création intégrant l'IA avec évaluation des résultats — de sorte qu'un enseignant fixe le niveau pour une tâche et garde la réflexion métacognitive centrale à chaque niveau ([[haiml-human-centered-ai-metacognitive-model-2026|Reardon, 2026]]).
 - Le **cours fondé sur l'exemple** du [[conversational-ai|agent conversationnel]] de Scheu et al. a augmenté la **compétence perçue** (une [[self-assessment|auto-évaluation]] métacognitive) même lorsque l'assistant [[llm|LLM]] seul ne l'avait pas fait
 - **Un cadrage émergent place le système, et pas seulement l'individu, dans la boucle.** Une revue bibliométrique–systématique de 135 études en classes de STEM (24 études centrales) constate l'émergence d'un cadrage posthumaniste qui positionne l'IA comme corégulatrice de l'apprentissage, déplaçant l'unité d'analyse de la réflexion individuelle vers la [[regulation|régulation]] et la [[distributed-cognition|cognition distribuée]] au niveau du système ([[ai-metacognition-stem-review|Tsakeni et al. (2025)]]).
+
+**La métacognition figure parmi les résultats les moins étudiés.** Dans une revue de cadrage de 394 études sur l'IA générative dans l'enseignement supérieur, la métacognition et l'apprentissage autorégulé comptaient parmi les résultats les moins ciblés, aux côtés de l'éthique et de la créativité ([[mapping-genai-higher-ed-scoping-review|Lin et al. (2026)]]).
 
 - **Rendre visibles les schémas d'interaction que les apprenants ne peuvent voir.** [[student-ai-interaction-consecutive-interpreting-2026|Kuang, Li et Weng (2026)]] ont suivi les mouvements oculaires, la prise de notes et la parole de 22 stagiaires en interprétation travaillant avec un système de reconnaissance vocale et de traduction automatique, et ont constaté que la manière dont les élèves répartissaient l'[[cognitive-psychology|attention]] entre les sorties de l'IA et leurs propres notes leur était invisible : 58,3 % changeaient de profil entre les étapes de la tâche, et les plus grands lecteurs de sorties de l'IA obtenaient les scores les plus faibles en fluidité de livraison et en qualité de la langue cible. La conséquence pédagogique est que la réflexion doit être étayée par des preuves externes, parce que la stratégie d'un apprenant n'est pas introspectable — les auteurs plaident pour guider les élèves à décrire et évaluer pourquoi ils ont travaillé d'une certaine manière à chaque étape.
 
@@ -174,7 +176,7 @@ Une [[agentic-ai|IA agentique]] proactive peut déplacer la propre boucle métac
 - [[viberg-efficiency-effectiveness-srl-llm-help-seeking-2026]] — Recherche d'aide médiée par LLM en STEM : en couches, instrumentale et vérifiée
 - [[cui-motivation-roles-metacognitive-genai-2026]] — Motivation et rôles dans l'engagement métacognitif avec l'IA générative
 - [[metacognitive-training-optimal-cognitive-offloading-2026]] — L'entraînement métacognitif facilite la délégation cognitive optimale (Ngai & Gilbert 2026)
-- [[cognitive-offloading-metacognitive-review-2026]] — Meta-cognitive insights into cognitive offloading: mechanisms, interventions, and educational implications (Guo & Ye 2026)
+- [[cognitive-offloading-metacognitive-review-2026]] — Regards métacognitifs sur le délaissement cognitif : mécanismes, interventions et implications éducatives (Guo & Ye 2026)
 - [[idea-framework-metacognitive-genai-2026]] — Le cadre IDEA pour un usage régulé métacognitivement de l'IA générative
 - [[haiml-human-centered-ai-metacognitive-model-2026]] — HAIML : un modèle d'apprentissage métacognitif par IA centré sur l'humain (autonomie et apprentissage réflexif)
 - [[metacognitively-discordant-completion-genai-2026]] — La réalisation métacognitivement discordante et la traversée consciente de la non-compréhension
@@ -185,7 +187,7 @@ Une [[agentic-ai|IA agentique]] proactive peut déplacer la propre boucle métac
 - [[agentic-ai-pedagogical-best-practice-2026]] — IA agentique et meilleures pratiques pédagogiques : la tension entre automatisation et apprentissage
 - [[cognitive-offloading-speedup-illusion]] — La délégation cognitive et l'illusion d'accélération dans l'interaction humain-IA
 - [[lodge-loble-cognitive-offloading-2026]] — L'IA, la délégation cognitive et leurs implications pour l'éducation (Lodge & Loble 2026)
-- [[pedagogy-ai-mistakes]] — The Pedagogy of AI Mistakes: Fostering Higher-Order Thinking (Hosseini 2026)
+- [[pedagogy-ai-mistakes]] — La pédagogie des erreurs de l'IA : favoriser la pensée d'ordre supérieur (Hosseini 2026)
 - [[kim-ai-productive-failure-adult-2026]] — Concevoir des systèmes d'IA pour soutenir l'apprentissage fondé sur l'échec productif
 - [[lukesova-clue-before-correction-2026]] — Clue Before Correction: ChatGPT for Autonomous Language Learning
 - [[miles-prompt-literacy-human-centered-genai-framework-2026]] — Réflexion sur le processus de prompting et développement de l'auctorialité dans le cycle de littératie des prompts (Miles, Haber-Curran & Arar 2026)

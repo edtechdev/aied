@@ -1,7 +1,7 @@
 ---
 title: "Comment rédiger une politique d'usage de l'IA pour un cours et la communiquer aux étudiants ?"
 created: "2026-09-22T19:16:30-04:00"
-updated: "2026-10-09T18:10:00-04:00"
+updated: "2026-10-24T10:44:55-04:00"
 weight: 70
 type: faq
 foundations: [academic-integrity, framing-ai-use-for-students, reducing-ai-misuse]
@@ -12,7 +12,7 @@ audience: [instructors, curriculum designers]
 level: [higher ed, secondary]
 methods: [qualitative-research]
 institutions: [educational-policy-ai]
-source_updated: "2026-10-02T08:21:34-04:00"
+source_updated: "2026-10-21T14:32:00-04:00"
 translation_of: faqs/course-ai-policy
 translation_note: "Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle."
 contributors: [editor]
@@ -28,8 +28,6 @@ ai_assist:
 ---
 
 *Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle.*
-
-# Comment rédiger une politique d'usage de l'IA pour un cours et la communiquer aux étudiants ?
 
 Vous avez un programme de cours, une fiche de travail et une salle pleine d'étudiants qui ont déjà écrit leurs propres règles privées sur l'[[generative-ai|IA générative]]. Ce que vous publiez doit être juste envers l'étudiant qui respecte les règles comme envers celui qui ne les respecte pas, et doit être quelque chose que vous pouvez réellement appliquer à quarante copies sans devenir ni une bonne poire ni un agent de police.
 

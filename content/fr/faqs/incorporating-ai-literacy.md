@@ -1,12 +1,13 @@
 ---
 title: "Comment intégrer la littératie en IA dans mon cours ?"
 created: "2026-09-22T19:14:32-04:00"
-updated: "2026-10-09T18:10:00-04:00"
+updated: "2026-10-24T10:38:14-04:00"
 weight: 86
 foundations: [ai-literacy, cognitive-offloading, learning-design]
 assessment: [assessment]
 level: [higher ed]
-source_updated: "2026-10-02T08:21:34-04:00"
+audience: [instructors, instructional designers]
+source_updated: "2026-10-21T14:32:00-04:00"
 translation_of: faqs/incorporating-ai-literacy
 translation_note: "Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle."
 contributors: [editor]
@@ -22,8 +23,6 @@ ai_assist:
 ---
 
 *Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle.*
-
-# Comment intégrer la littératie en IA dans mon cours ?
 
 L'approche la plus solide est de traiter la **[[ai-literacy|littératie en IA]] comme une partie de l'apprentissage disciplinaire**, et non comme une leçon autonome sur l'utilisation de ChatGPT. Les étudiants développent une littératie en IA plus utile lorsqu'ils **utilisent, questionnent, vérifient, critiquent et prennent des décisions au sujet de l'IA de façon répétée dans des tâches authentiques de cours**, plutôt que de simplement apprendre des techniques de prompting ou de suivre une séance d'orientation ponctuelle. Un enseignement efficace combine compétence pratique, évaluation critique, conscience éthique, [[metacognition]] et attention aux moments où l'IA ne devrait *pas* être jugée fiable ou utilisée.
 

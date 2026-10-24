@@ -1,7 +1,7 @@
 ---
 title: "Identité de l'apprenant"
 created: "2026-08-27T08:10:00-04:00"
-updated: "2026-10-10T03:41:06-04:00"
+updated: "2026-10-24T10:58:00-04:00"
 type: concept
 foundations: [agency, learner-identity]
 discipline: [stem education]
@@ -51,7 +51,7 @@ Une condition de paternité distincte, et pas seulement une menace envers la pat
 
 - **L'identité créative :** **[[t2i-competence-paradox-2026|le paradoxe de la compétence du texte vers image]]** rend compte de la manière dont la facilité d'usage peut saper l'identité fondée sur l'artisanat des étudiants en art et en design.
 - **La paternité ressentie peut se découpler de l'originalité réelle.** Des étudiants en design construisant des sites web avec l'IA ont fortement évalué leur paternité de l'œuvre (67/100, satisfaction 6.4/7, qualité perçue 6.1/7), mais ces évaluations ne correspondaient à rien de mesurable : leurs conceptions étaient plus homogènes qu'avec l'IA, et la paternité ressentie corrélait avec l'originalité mesurée à r ≤ +0.13 ([[vibe-coding-design-diversity-2026|Boussioux et coll., 2026]]).
-- **L'identité professionnelle :** de multiples études traitent de l'impact de l'IA sur l'**identité professionnelle** — par exemple, **[[lodge-adaptive-capabilities-genai-future-2026|Lodge et coll. (2026)]]** soutiennent que les diplômés ont besoin de *capacités adaptatives* ([[ai-literacy|littératie en IA]], [[distributed-cognition|cognition distribuée]], [[metacognition|métacognition]]) précisément afin de pouvoir soutenir une identité professionnelle viable dans un futur intégrant l'IA, plutôt que d'être définis par leurs outils — ou d'en être écartés.
+- **L'identité professionnelle :** de multiples études traitent de l'impact de l'IA sur l'**identité professionnelle** — par exemple, **[[lodge-adaptive-capabilities-genai-future-2026|Lodge et coll. (2026)]]** soutiennent que les diplômés ont besoin de *capacités adaptatives* ([[ai-literacy|littératie en IA]], [[distributed-cognition|cognition distribuée]], [[metacognition|métacognition]]) précisément afin de pouvoir soutenir une identité professionnelle viable dans un futur intégrant l'IA, plutôt que d'être définis par leurs outils — ou d'en être écartés. Les jugements sur l'IAG peuvent aussi se scinder selon le contexte temporel, et pas seulement selon l'auteur : les personnes interrogées jugeaient l'usage de l'IA inapproprié pour apprendre mais légitime ou attendu dans le travail professionnel futur : « As a student I must learn, as a professional I must produce » ([[sun-governing-genai-policy-cross-national-2026|Sun et al. (2026)]]).
 - **L'identité post-humaine et hybride :** **[[elsayed-pedagogical-symbiosis-posthuman-learner|Elsayed (2026)]]** théorise l'**apprenant post-humain**, dont la cognition est véritablement hybride et distribuée entre des systèmes [[biology-education|biologiques]] et artificiels — un recadrage de la formation de l'identité elle-même à l'âge de l'IA cognitive.
 - **L'identité étudiante et académique :** la [[research-methods-aied|recherche]] sur l'[[zhan-boud-du-authentic-assessment-scoping-review-2025|évaluation authentique]] se relie à l'identité parce que les tâches d'[[assessment|évaluation]] qui appellent une performance authentique et personnelle aident les étudiants à se voir comme des praticiens capables ; la [[paternalistic-filter-llm-history-education|recherche sur l'enseignement de l'histoire]] montre comment l'usage paternaliste de l'IA peut façonner la manière dont les étudiants construisent leur identité d'enquêteurs disciplinaires.
 - **La manière dont les étudiants cadrent l'outil façonne leur devenir professionnel.** Les étudiants qui présentaient l'IA générative uniquement comme un partenaire socioémotionnel ont produit des réflexions moins différenciées sur leur apprentissage professionnel que ceux qui la cadraient aussi comme une technique, un matériel d'apprentissage ou une structure ([[genai-professionalization-metaphors-2026|Bohmer et coll. (2026)]]).
@@ -79,7 +79,7 @@ L'identité de l'apprenant se relie à l'[[agency|autonomie]] (l'identité se me
 
 ## Concepts liés
 
-- [[learners]] — Learners: the umbrella for the learner-side concepts
+- [[learners]] — Apprenants : le parapluie des concepts du côté de l'apprenant
 - [[agency]]
 - [[self-efficacy]]
 - [[motivation]]
@@ -97,17 +97,17 @@ L'identité de l'apprenant se relie à l'[[agency|autonomie]] (l'identité se me
 
 ## Articles liés
 
-- [[guarded-adoption-genai-higher-education-2026]] — Guarded Adoption of Generative AI in Higher Education
-- [[t2i-competence-paradox-2026]] — The competence paradox: creative identity in text-to-image GenAI use
-- [[shame-guilt-ai-regulation-computing-education]] — Shame and guilt as social regulators of AI use
+- [[guarded-adoption-genai-higher-education-2026]] — L'adoption prudente de l'IA générative dans l'enseignement supérieur
+- [[t2i-competence-paradox-2026]] — Le paradoxe de la compétence : l'identité créative dans l'usage de l'IAG texte-image
+- [[shame-guilt-ai-regulation-computing-education]] — La honte et la culpabilité comme régulateurs sociaux de l'usage de l'IA
 - [[lodge-adaptive-capabilities-genai-future-2026]] — Adaptive capabilities for a viable professional identity in a GenAI future
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]] — Pedagogical symbiosis and the post-human learner
+- [[elsayed-pedagogical-symbiosis-posthuman-learner]] — La symbiose pédagogique et l'apprenant posthumain
 - [[ai-pedagogical-accompaniment-amico]] — AI-enabled pedagogical accompaniment supporting STEM identity
 - [[zhan-boud-du-authentic-assessment-scoping-review-2025]] — Designing for authentic assessment
-- [[paternalistic-filter-llm-history-education]] — Paternalistic AI use and student identity in history education
-- [[laidlaw-genai-identity-crisis-faculty-2026]] — GenAI as identity crisis for faculty (teacher identity)
-- [[teaching-the-teachers-genai-tpk-review-2026]] — TPK-based teacher training and professional identity
-- [[genai-professionalization-metaphors-2026]] — GenAI conceptualizations and student professional identity
+- [[paternalistic-filter-llm-history-education]] — L'usage paternaliste de l'IA et l'identité étudiante en histoire
+- [[laidlaw-genai-identity-crisis-faculty-2026]] — L'IA générative comme crise identitaire pour les enseignants
+- [[teaching-the-teachers-genai-tpk-review-2026]] — Formation des enseignants fondée sur le TPK et identité professionnelle
+- [[genai-professionalization-metaphors-2026]] — Les conceptualisations de l'IAG et l'identité professionnelle des étudiants
 
-- [[synthetic-position-self-authorship-2026]] — Authorial suspension: delegated authorship as a self densely voiced yet un-authored (conceptual analysis)
-- [[vibe-coding-design-diversity-2026]] — One Tool, One Taste? How Vibe Coding Trades Collective Diversity for Individual Creativity
+- [[synthetic-position-self-authorship-2026]] — La suspension auctoriale : l'écriture déléguée comme un soi à la voix dense mais non auteur (analyse conceptuelle)
+- [[vibe-coding-design-diversity-2026]] — Un seul outil, un seul goût ? Comment le vibe coding échange la diversité collective contre la créativité individuelle

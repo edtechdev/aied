@@ -2,7 +2,7 @@
 connected_resources: [education-agent-skills, fpds-apps-and-resources]
 title: Le développement éducatif
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-10T03:05:35-04:00"
+updated: "2026-10-24T10:48:30-04:00"
 connected_faqs: [ai-save-instructor-time, faculty-ai-competencies, faculty-development-ai]
 type: concept
 foundations: [ai-literacy, curriculum-design, learning-design, teacher-role, teacher-ai-competency]
@@ -40,6 +40,7 @@ Le développement éducatif est le travail professionnel et institutionnel par l
 ## Le développement éducatif à l'ère de l'IA
 
 - **Les cadres de préparation :** [[sangwa-epiq-ai-faculty-readiness-2026|le cadre EPIQ-AI]] identifie quatre domaines de préparation : épistémique, pédagogique, institutionnel et qualité-conformité. La préparation des enseignants est un problème d'alignement socio-technique, et pas seulement un écart de compétences individuel.
+- **Vérifier ce que décrivent les niveaux d'un cadre avant de l'adopter.** Sur 16 cadres de compétence en IA approuvés par des institutions, l'usage de l'IA, l'évaluation des productions et l'application au domaine étaient substantiels dans les 16, tandis que la formulation du problème (7), la compétence en données (9) et la création d'IA (8) ne l'étaient pas ; les niveaux de maîtrise décrivent par ailleurs le développement de l'apprenant, le rôle professionnel ou le grade, et ne sont donc pas directement comparables ([[ai-competence-framework-landscape-2026|Fitsilis (2026)]]).
 - **Les normes d'intégration des technologies :** [[crompton-faculty-technology-integration-standards-2026|Crompton et al.]] utilisent la [[design-based-research|recherche fondée sur la conception]] pour développer des normes d'intégration des technologies (y compris l'IA) destinées aux enseignants dans les établissements d'[[higher-ed|enseignement supérieur]].
 - **L'adoption et la confiance :** les [[teacher-ai-adoption-confidence|recherches sur l'adoption de l'IA par les enseignants]] identifient les préoccupations, le soutien, la confiance et les attitudes comme prédicteurs clés. Les programmes de développement professionnel doivent traiter ces quatre dimensions.
 - **L'intégration au curriculum :** les [[institutional-change-framework-ai|cadres de changement institutionnel]] et la [[ai-assessment-scale-reform|réforme de l'évaluation]] exigent que les enseignants repensent les cours, et pas seulement qu'ils y ajoutent des outils d'IA.
@@ -131,7 +132,7 @@ La confiance et la littératie ne sont pas des cibles interchangeables : dans un
 - [[crompton-faculty-technology-integration-standards-2026]] — Les normes d'intégration des technologies destinées aux enseignants (RPC)
 - [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026]] — Les dimensions éthiques de l'IA : les points de vue des enseignants et des étudiants
 - [[nicola-richmond-programwide-assessment-genai-2025]]
-- [[engineering-faculty-metaphors-ai-understanding-2026]] — How Engineering Faculty Metaphors Construct (and Constrain) AI Understanding
+- [[engineering-faculty-metaphors-ai-understanding-2026]] — Comment les métaphores des enseignants d'ingénierie construisent (et limitent) la compréhension de l'IA
 - [[fear-awe-genai-metaphor-workshops-2025]] — Fear and Awe: Making Sense of Generative AI Through Metaphor (atelier sur les métaphores réunissant enseignants, personnel et étudiants)
 - [[governing-unseen-ai-literacy-language-teachers-2026]] — Governing the unseen: la littératie en IA chez les enseignants de langues
 - [[sangwa-epiq-ai-faculty-readiness-2026]]
@@ -145,7 +146,7 @@ La confiance et la littératie ne sont pas des cibles interchangeables : dans un
 - [[genai-pd-ai-pck-learning-gain-2026]]
 - [[genai-higher-education-systematic-review-2026]]
 - [[laidlaw-genai-identity-crisis-faculty-2026]] — L'IAG comme crise d'identité, et non comme écart de compétences
-- [[zuo-instructor-power-genai-writing-2026]] — Power relations perceived by college instructors grappling with GenAI in writing (Zuo, Xu & Dunning 2026)
+- [[zuo-instructor-power-genai-writing-2026]] — Rapports de pouvoir perçus par des enseignants universitaires aux prises avec l'IA générative en écriture (Zuo, Xu & Dunning 2026)
 - [[reflective-triangle-model-teacher-ai-2026]] — Le Reflective Triangle Model : l'IA comme médiateur cognitif
 - [[sutedjo-faculty-genai-tpack-21-2026]]
 - [[intelligent-tpack-pd-intervention-hongkong-2025]] — Développement professionnel Intelligent-TPACK : l'assiduité prédit les gains, la participation perçue par soi-même ne le fait pas — La connaissance auto-perçue du TPACK-21 par les enseignants pour l'IAG (Sutedjo, Chowdhury & Liu 2026)
@@ -153,9 +154,10 @@ La confiance et la littératie ne sont pas des cibles interchangeables : dans un
 - [[talebzadeh-ai-group-activity-roles-2026]] — Architecture des rôles dans les activités de groupe différenciées conçues par l'IA (Talebzadeh 2026)
 - [[farazouli-navigating-uncertainty-teachers-genai-2026]] — Les expériences et perceptions de l'IAG chez les enseignants universitaires : vulnérabilité, remise en question de l'évaluation, apprentissage des étudiants en danger (Farazouli et al. 2026)
 - [[chick-faculty-development-ethical-ai-2026]] — De la peur à l'innovation : un institut de formation des enseignants de six semaines, une pédagogie symbiotique, et les conditions institutionnelles qu'il n'a pas pu réunir
-- [[vassallo-ai-guilt-complex-faculty-2026]] — The AI Guilt Complex: anticipatory guilt, concealment and career-stage differences among academic staff (Vassallo 2026)
+- [[vassallo-ai-guilt-complex-faculty-2026]] — Le complexe de culpabilité liée à l'IA : culpabilité anticipée, dissimulation et différences selon l'étape de carrière chez le personnel académique (Vassallo 2026)
 - [[watson-rainie-ai-challenge-faculty-survey-2026]] — Enquête AAC&U/Elon auprès de 1,057 enseignants américains : manque de préparation institutionnelle, gouvernance mince et écart de politique de 87%/48% (Watson & Rainie 2026)
 - [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Les développeurs académiques comme médiateurs numériques dans l'enseignement supérieur du Sud global : le développement comme praxis socio-technique
-- [[physics-faculty-learning-community-ai-2026]] — A Workshop Series for Effective Use of AI in Uncertain Times: Building a Physics Faculty Learning Community
+- [[physics-faculty-learning-community-ai-2026]] — Une série d'ateliers pour un usage efficace de l'IA en des temps incertains : bâtir une communauté d'apprentissage pour les enseignants de physique
 
 - [[faculty-ai-well-being-social-supports-2026]] — Le bien-être des enseignants face à l'IA suit la littératie en IA plutôt que l'auto-efficacité technologique
+- [[ai-competence-framework-landscape-2026]] — Vérifier ce que décrivent les niveaux d'un cadre avant de l'adopter

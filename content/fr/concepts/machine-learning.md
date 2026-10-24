@@ -4,7 +4,7 @@ type: concept
 technology: [ai-technologies, generative-ai, learning-analytics, machine-learning, student-modeling]
 confidence: medium
 created: "2026-08-29T12:55:12-04:00"
-updated: "2026-10-10T03:05:30-04:00"
+updated: "2026-10-24T10:46:40-04:00"
 translation_of: concepts/machine-learning
 source_updated: "2026-09-30T07:29:37-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
@@ -93,5 +93,5 @@ L'apprentissage automatique apparaît aussi dans l'éducation comme une *matièr
 - [[zhang-ml-student-progress-programming-2026]]
 - [[riedmann-reinforcement-learning-education-review-2026]]
 - [[yin-arthur-ai-teaching-assistant-engineering-econ-2026]]
-- [[culturally-aware-student-stress-chatbot-2026]] — An AI-Powered Culturally Aware Chatbot for Stress Detection and Wellness Support among Pakistani University Students Using NLP and Machine Learning
-- [[synthetic-educational-data-structural-fidelity-2026]] — What Fidelity Metrics Miss: A Structural Check on Synthetic Educational Data
+- [[culturally-aware-student-stress-chatbot-2026]] — Un agent conversationnel culturellement conscient, propulsé par l'IA, pour la détection du stress et le soutien au bien-être chez des étudiants universitaires pakistanais, à l'aide du TAL et de l'apprentissage automatique
+- [[synthetic-educational-data-structural-fidelity-2026]] — Ce que les métriques de fidélité manquent : une vérification structurelle des données éducatives synthétiques

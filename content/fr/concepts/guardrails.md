@@ -1,7 +1,7 @@
 ---
 title: Les garde-fous
 created: "2026-08-25T08:30:00-04:00"
-updated: "2026-10-10T03:05:35-04:00"
+updated: "2026-10-24T10:43:16-04:00"
 type: concept
 technology: [human-in-the-loop-ai, llm, prompt-engineering, rag, reinforcement-learning]
 ethics: [ai-sycophancy, bias-mitigation, pedagogical-safety]
@@ -9,7 +9,7 @@ level: [k 12]
 confidence: high
 connected_faqs: [asynchronous-online-courses-ai]
 translation_of: concepts/guardrails
-source_updated: "2026-09-30T09:53:03-04:00"
+source_updated: "2026-10-22T10:05:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -71,6 +71,8 @@ La [[rag|génération augmentée par récupération]] ancre les réponses du tut
 
 Les garde-fous eux-mêmes ne sont pas neutres : l'audit de [[paternalistic-filter-llm-history-education|Paternalistic Filter]] montre que les refus et les réponses édulcorées sont structurés par l'identité de l'étudiant et la sensibilité du sujet, reproduisant une injustice épistémique même en « protégeant ». Des garde-fous sûrs doivent être audités pour détecter un traitement différencié — un argument direct en faveur de la [[bias-mitigation|réduction des biais]] et de l'[[equity-in-ai-education|équité dans l'IA en éducation]] dans la [[governance|gouvernance]] et la [[regulation|réglementation]].
 
+**Le seuil d'un garde-fou classificateur est une décision de politique.** Déplacer un seuil de toxicité de 0.3 à 0.7 a fait passer les invites signalées de 35.62% à 12.4% ; sur un détecteur d'arnaques, il a échangé 15 fausses alertes et 18 arnaques manquées contre 2 et 36, aucun seuil n'élimine les deux, et un chiffre de robustesse signifie peu de choses sans l'attaque correspondante ([[ai-security-literacy-k12-framework-2026|Yocam, Vaidyan et Kalathas (2026)]]).
+
 ## Les garde-fous face à la sécurité pédagogique
 
 - **[[pedagogical-safety|La sécurité pédagogique]]** est le *principe/l'objectif* — que les systèmes d'IA en éducation protègent les apprenants de tout préjudice (contenu, biais, conseils dangereux, manipulation).
@@ -116,6 +118,7 @@ Les deux sont étroitement couplés : presque chaque technique de garde-fou est 
 
 ## Articles liés
 
+- [[ai-security-literacy-k12-framework-2026]] — Littératie en sécurité de l'IA : cadre de compétences écosystémique et plateforme d'apprentissage K-12
 - [[reflection-agent-fidelity-career-2026]] — Fidèle là où c'est vérifiable : audit d'un agent de réflexion au regard de sa consigne système dans un essai randomisé
 - [[scaffolding-student-ai-dialogue-framework-2026]] — Le cadre SCAFFOLD pour piloter le dialogue étudiants-IA, avec son pilote en classe
 - [[generative-ai-guardrails-harm-learning]] — l'ECR de terrain canonique sur les garde-fous

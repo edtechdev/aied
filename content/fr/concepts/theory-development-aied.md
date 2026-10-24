@@ -1,7 +1,7 @@
 ---
 title: "Le développement théorique en IA éducative"
 created: "2026-08-22T07:08:19-04:00"
-updated: "2026-10-10T03:41:12-04:00"
+updated: "2026-10-24T10:44:22-04:00"
 type: concept
 foundations: [ai-education, limitations-in-aied-research]
 pedagogy: [learning-theories]
@@ -10,7 +10,7 @@ page_kind: [framework]
 confidence: medium
 methods: [research-methods-aied]
 translation_of: concepts/theory-development-aied
-source_updated: "2026-09-30T12:20:22-04:00"
+source_updated: "2026-10-16T08:47:09-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -51,6 +51,7 @@ La position synthétique ajoute une offre rivale qui, elle, énonce des proposit
 La théorisation du côté enseignant fait désormais le même engagement en faveur de la testabilité : le modèle Capacité–Décision ordonne la capacité en [[tpack|AI-TPACK]] en amont de l'attitude et du contrôle comportemental perçu, et nomme quatre conditions de désaveu — échec de la médiation, effondrement discriminant, nullité de la modération et redondance contextuelle — bien que le modèle demeure non testé ([[capability-decision-model-teacher-readiness-2026|Mnguni (2026)]]).
 
 - **La co-agency épistémique.** [[learning-with-machines-toward-a-theory-of-epistemic-co-agency|Learning with Machines]] construit « vers une théorie de la co-agency épistémique », un modèle informé par la théorie de la manière dont les apprenants et les systèmes d'IA générative produisent conjointement des connaissances et de la compréhension.
+- **Le cycle de partenariat cognitif.** [[page-cognitive-partnership-cycle-human-ai-2026|Page (2026)]] propose le Cycle de partenariat cognitif, un modèle récursif à six phases (question humaine, expansion par l'IA, réflexion humaine, intégration, révision et nouvelle question) qui situe l'apprentissage dans un changement de position cognitive de l'apprenant plutôt que dans la sophistication de l'invite, et nomme quatre modes d'échec où la même récursion se substitue à la pensée ou la déforme.
 - **La ligne de base cognitive absente (ACB).** [[absent-cognitive-baseline-2026|The Absent Cognitive Baseline]] théorise un écart structurel dans l'auto-évaluation académique des étudiants natifs de l'IA — un cadre à trois dimensions expliquant pourquoi les étudiants surestiment leur apprentissage lorsque l'IA gonfle la performance.
 - **Les communs cognitifs.** [[cognitive-commons-ai-expertise-regeneration|Cognitive commons and expertise regeneration]] s'appuie sur la théorie des ressources communes et sur la [[distributed-cognition|cognition distribuée]] pour expliquer comment des décisions rationnelles d'adoption de l'IA peuvent épuiser le réservoir d'expertise partagée dont les professions ont besoin pour se renouveler.
 - **La performance contre l'apprentissage.** [[genai-performance-vs-learning|Performance-vs-learning]] théorise la divergence marquée entre la performance aux tâches gonflée par l'IA et l'apprentissage durable, une distinction qui revient dans les données probantes de la base de connaissances sur les [[learning-gains|gains d'apprentissage]].
@@ -67,6 +68,10 @@ La théorisation du côté enseignant fait désormais le même engagement en fav
 D'autres travaux étendent la théorie existante au contexte de l'IA plutôt qu'ils ne fondent de nouveaux paradigmes : les travaux sur le [[critical-thinking-paradox-genai-learning-2026|paradoxe de la pensée critique]] intègrent la théorie de la [[cognitive-offloading|charge cognitive]] à l'enseignement de réduction de la charge dans un cadre à trois niveaux ; l'[[dollinger-equitable-assessment-ai-2026|évaluation équitable]] rethéorise l'[[assessment|évaluation]] sous la disruption de l'IA générative. [[reconceptualizing-community-inquiry-generative-ai|Ba, Gašević, Lim & Anderson (2026)]] reconceptualisent le cadre de la [[community-of-inquiry|communauté d'enquête]] lui-même : plutôt que de cadrer l'IA générative comme un outil, un partenaire dialogique ou une « quatrième présence » spéculative, ils la repositionnent comme une *condition épistémique* qui reconfigure la manière dont les présences cognitive, sociale et [[teacher-role|pédagogique]] sont mises en œuvre, attestées et gouvernées — recadrant les présences de la CdE comme des accomplissements sociotechniques d'assemblées humain–IA générative et proposant une heuristique fondée sur la configuration dans laquelle l'implication de l'IA générative et la qualité de l'enquête sont liées conditionnellement par la responsabilité humaine. Une grande partie de ce travail relève du cadre conceptuel (les [[drummond-genai-business-schools-framework-2026|cadres d'écoles de gestion]], la [[valid-student-simulation-llm-2026|simulation valide]]) qui opérationnalise la théorie pour la pratique.
 
 [[metacognitive-ownership-human-ai-regulation-2026|Lin et Chang (2026)]] étendent l'[[self-regulated-learning|apprentissage autorégulé]] et la régulation humain-IA en nommant ce que l'apprenant gouverne — les normes, les jugements évaluatifs et l'autorisation du contrôle — plutôt que seulement ce que fait l'IA.
+
+Le paradoxe de la friction offre une autre extension de la théorie établie : [[friction-paradox-generative-ai-education-abroad-2026|Gupta (2026)]] applique les [[desirable-difficulties|difficultés désirables]] de Bjork et Bjork et l'[[productive-failure|échec productif]] de Kapur aux rencontres relationnelles dans les séjours d'études à l'étranger, en soutenant que ce qui compte est la quantité d'agentivité interprétative qu'un étudiant [[transfer-of-learning|transfère]] à un assistant génératif, plutôt que la fréquence de son usage. Le cadre est conceptuel et énonce cinq propositions comme hypothèses concurrentes.
+
+[[ranieri-biagini-ai-higher-education-taxonomy-review-2026|Ranieri & Biagini (2026)]] font avancer la taxonomie fonctionnelle du champ proposée par Zawacki-Richter et al. (2019) : parmi les 154 publications dont la fonction d'application est classable, 90 (58,4 %) échappaient à ses quatre catégories, et leur cadre croise la fonction avec le contrôle délégué, la position épistémique et la pédagogie intégrée.
 
 [[deceptive-overgeneralization-adaptive-learning-2026|An, McLaren et Stamper (2026)]] font progresser ACT-R et le cadre Knowledge-Learning-Instruction en théorisant la *surgénéralisation trompeuse* — un mode d'échec dans lequel la compilation des connaissances produit une production surgénéralisée qui génère des actions correctes tout en omettant une contrainte d'application critique — et en validant empiriquement une procédure de détection et de remédiation sur des systèmes de tutorat intelligents adaptatifs et un jeu de données d'apprentissage des décimales au niveau [[k-12|primaire et secondaire]].
 
@@ -102,6 +107,7 @@ Le développement théorique et la [[philosophy-of-ai-in-education|philosophie d
 
 ## Articles liés
 
+- [[ranieri-biagini-ai-higher-education-taxonomy-review-2026]] — Étendre la taxonomie fonctionnelle : 90 des 154 publications classables (58,4 %) tombent hors des quatre catégories d'origine (Ranieri & Biagini 2026)
 - [[yan-agentivism-learning-theory-ai-2026]] — Une théorie de l'apprentissage de portée intermédiaire pour l'interaction humain-IA, avec quatre mécanismes et six propositions testables (Yan et Gašević 2026)
 - [[deceptive-overgeneralization-adaptive-learning-2026]] — Surgénéralisation trompeuse : l'adaptation fondée sur la maîtrise peut interrompre la pratique avant que les apprenants ne sachent quand s'abstenir d'agir (An, McLaren & Stamper 2026)
 - [[reclaiming-epistemic-agency-co-agency-2026]]
@@ -109,22 +115,24 @@ Le développement théorique et la [[philosophy-of-ai-in-education|philosophie d
 - [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — Vers une théorie de la co-agency épistémique
 - [[du-yuan-epistemic-dependence-2026]] — L'agentivité épistémique relationnelle et la frontière entre dépendance productive et dépendance nuisible (Du & Yuan 2026)
 - [[absent-cognitive-baseline-2026]] — La ligne de base cognitive absente (ACB)
-- [[cognitive-commons-ai-expertise-regeneration]] — Cognitive commons and expertise regeneration
+- [[cognitive-commons-ai-expertise-regeneration]] — Les communs cognitifs et la régénération de l'expertise
 - [[genai-performance-vs-learning]] — Performance vs. learning
 - [[constructing-epistemic-ai-literacy-student-ai-co-programming]] — Epistemic AI Literacy (EAIL)
-- [[credential-cognitive-stewardship-ai-assessment]] — Credential and cognitive stewardship
-- [[ai-cognitive-partner-co-regulation-learning]] — AI as cognitive partner in co-regulation
+- [[credential-cognitive-stewardship-ai-assessment]] — Gérance des diplômes et gérance cognitive
+- [[ai-cognitive-partner-co-regulation-learning]] — L'IA comme partenaire cognitif dans la co-régulation
 - [[epistemic-proactivity-math]] — Epistemic proactivity in mathematics
-- [[strydom-human-gai-paradigms-2026]] — Seven human-GAI engagement paradigms grounded in epistemological beliefs
-- [[critical-thinking-paradox-genai-learning-2026]] — The critical thinking paradox
-- [[dollinger-equitable-assessment-ai-2026]] — Equitable assessment under GenAI
-- [[shaw-nave-cognitive-surrender-2026]] — Tri-System Theory and cognitive surrender: how AI reshapes human reasoning (Shaw & Nave 2026)
-- [[reconceptualizing-community-inquiry-generative-ai]] — Reconceptualizing Community of Inquiry in the age of generative AI
-- [[farazouli-navigating-uncertainty-teachers-genai-2026]] — University teachers' experiences and perceptions of GAI: vulnerability, rethinking assessment, student learning at risk (Farazouli et al. 2026)
+- [[strydom-human-gai-paradigms-2026]] — Sept paradigmes d'engagement humain-IAG ancrés dans les croyances épistémologiques
+- [[critical-thinking-paradox-genai-learning-2026]] — Le paradoxe de la pensée critique
+- [[dollinger-equitable-assessment-ai-2026]] — Évaluation équitable à l'ère de l'IA générative
+- [[shaw-nave-cognitive-surrender-2026]] — Théorie des trois systèmes et reddition cognitive : comment l'IA refaçonne le raisonnement humain (Shaw & Nave 2026)
+- [[reconceptualizing-community-inquiry-generative-ai]] — Reconceptualiser la communauté d'enquête à l'ère de l'IA générative
+- [[farazouli-navigating-uncertainty-teachers-genai-2026]] — Expériences et perceptions des enseignants du supérieur face à l'IAG : vulnérabilité, repenser l'évaluation, apprentissage des étudiants en péril (Farazouli et al. 2026)
 - [[rismanchian-ai-education-four-decades-aixed-2026]]
-- [[daoism-ai-education-philosophy-2026]] — Alternative AI Philosophy: Daoism as Method for AI in Education
-- [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors: Assertion-based Schemas for Auditable Coding of Educational Dialogues
-- [[metacognitive-ownership-human-ai-regulation-2026]] — Metacognitive ownership: construct definition, boundaries, and a research agenda
-- [[synthetic-position-self-authorship-2026]] — The synthetic position: a dialogical-self bid naming synthetic promotion and authorial suspension with a crossover prediction
-- [[capability-decision-model-teacher-readiness-2026]] — Falsifiable capability-first teacher readiness model with four disconfirmation conditions
-- [[ai-connectedness-adolescent-mental-health-2026]] — Artificial intelligence connectedness: a three-dimensional construct with six falsifiable propositions for later testing
+- [[daoism-ai-education-philosophy-2026]] — Philosophie alternative de l'IA : le taoïsme comme méthode pour l'IA en éducation
+- [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors : schémas fondés sur des assertions pour un codage auditable des dialogues éducatifs
+- [[metacognitive-ownership-human-ai-regulation-2026]] — La propriété métacognitive : définition du construit, frontières et un programme de recherche
+- [[synthetic-position-self-authorship-2026]] — La position synthétique : une proposition issue du soi dialogique nommant la promotion synthétique et la suspension authoriale, avec une prédiction d'interaction croisée
+- [[capability-decision-model-teacher-readiness-2026]] — Modèle de préparation des enseignants falsifiable et centré sur la capacité, avec quatre conditions de désaveu
+- [[ai-connectedness-adolescent-mental-health-2026]] — La connexité à l'intelligence artificielle : un construit tridimensionnel avec six propositions falsifiables à tester ultérieurement
+- [[page-cognitive-partnership-cycle-human-ai-2026]] — Le cycle de partenariat cognitif
+- [[friction-paradox-generative-ai-education-abroad-2026]] — Difficultés désirables et échec productif appliqués à l'agentivité interprétative dans les séjours d'études à l'étranger

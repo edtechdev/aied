@@ -1,7 +1,7 @@
 ---
 title: "Limites de la recherche en AIED"
 created: "2026-08-15T09:18:04-04:00"
-updated: "2026-10-10T04:00:01-04:00"
+updated: "2026-10-24T10:38:23-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [learning-theories]
@@ -12,7 +12,7 @@ confidence: high
 connected_faqs: [research-gaps-aied, reporting-interpreting-aied-research]
 methods: [ai-ed-evaluation, benchmark, research-methods-aied]
 translation_of: concepts/limitations-in-aied-research
-source_updated: "2026-10-07T07:20:00-04:00"
+source_updated: "2026-10-16T08:47:09-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -50,6 +50,7 @@ La page [[research-methods-aied|méthodes de recherche]] de la base de connaissa
 
 - **La conception de la recherche documentaire fixe les chiffres phares d'une synthèse.** Dans une revue de cadrage de 195 études sur la formation des enseignants, la compétence numérique et le [[tpack|TPACK]] étaient des descripteurs de recherche explicites tandis que la conception pédagogique et l'évaluation n'avaient pas d'équivalent, si bien que les 46,5 % et 1,9 % rapportés décrivent le corpus retrouvé plutôt que le champ ([[digital-competence-ai-responsive-pedagogy-2026|Patiño Hernández et al. (2026)]]).
 - **Petites tailles d'échantillon.** De nombreuses études en AIED manquent de puissance — trop peu de participants pour détecter de manière fiable des effets significatifs ou pour étayer les affirmations fortes qu'on en tire parfois.
+- **L'augmentation des données peut fabriquer la mesure phare.** Dans un correcteur automatique de dissertations dont la partition d'entraînement contenait les travaux de 83 étudiants, des réponses de niveau 1 générées — des gabarits, des troncations, des suppressions de mots-clés — ont élevé l'accord sur le critère Focus de +0.346 en kappa quadratique pondéré à partir d'une base de 0.028, si bien que le signal ordinal le plus fort reposait sur un texte qu'aucun étudiant n'avait écrit ([[automated-essay-scoring-critical-thinking-physics-2026|Firdausi et al. (2026)]]).
 - **Les scores de fin de parcours peuvent masquer l'objet étudié.** Dans une revue PRISMA de 103 études sur l'[[higher-ed|enseignement supérieur]], 56 % rapportaient des gains conditionnés par l'étayage ou la vérification, et des différences nulles de note accompagnaient souvent de réels changements de processus — plus de débogage, plus de cycles de vérification — si bien que les notes seules ne peuvent dire si l'[[generative-ai|IA générative]] a renforcé ou vidé de sa substance la pratique ([[hawi-genai-higher-ed-uses-outcomes-risks-2026|Hawi et Samaha (2026)]]).
 
 - **Le dispositif de validation peut fabriquer le chiffre phare.** [[eeg-familiarity-automated-assessment-2026|Nanayakkara et Halloluwa (2026)]] ont évalué quinze modèles sur la familiarité fondée sur l'EEG et montrent que la validation croisée stratifiée standard permet une fuite temporelle et rapporte un F1 allant jusqu'à 0,9853, tandis que la validation Group K-Fold indépendante des essais fait chuter le pic à 0,6038 F1 — encore au-dessus du hasard, mais loin du résultat cité.
@@ -150,3 +151,4 @@ Le but de cette base de connaissances est d'aider à combler ce fossé — de re
 - [[digital-competence-ai-responsive-pedagogy-2026]] — Revue de cadrage de 195 études sur la formation des enseignants où la conception de la chaîne de recherche façonne les fréquences rapportées
 - [[k12-teachers-genai-beliefs-five-countries-2026]] — Enquête transnationale sur les enseignants du primaire et du secondaire : items traduits par machine, mesures de préoccupation à item unique, aucun test d'invariance
 - [[hawi-genai-higher-ed-uses-outcomes-risks-2026]] — Revue systématique de 103 études sur l'IA générative dans l'enseignement supérieur : 56 % de gains conditionnels, des notes masquant le changement de processus (Hawi & Samaha 2026)
+- [[automated-essay-scoring-critical-thinking-physics-2026]] — L'augmentation des données peut fabriquer la mesure phare

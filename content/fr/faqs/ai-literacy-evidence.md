@@ -1,13 +1,14 @@
 ---
 title: "Que disent les données probantes sur les interventions de littératie en IA dans l'enseignement supérieur ?"
 created: "2026-09-22T19:10:56-04:00"
-updated: "2026-10-09T18:10:00-04:00"
+updated: "2026-10-24T10:43:48-04:00"
 weight: 50
 foundations: [ai-literacy]
 assessment: [educational-measurement]
 research_method: [literature review]
 level: [higher ed]
-source_updated: "2026-10-02T08:21:34-04:00"
+audience: [instructors, researchers, administrators]
+source_updated: "2026-10-21T14:32:00-04:00"
 translation_of: faqs/ai-literacy-evidence
 translation_note: "Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle."
 contributors: [editor]
@@ -23,8 +24,6 @@ ai_assist:
 ---
 
 *Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle.*
-
-# Que disent les données probantes sur les interventions de littératie en IA dans l'enseignement supérieur ?
 
 Les données probantes sur les **interventions de [[ai-literacy|littératie en IA]] dans l'[[higher-ed|enseignement supérieur]] sont prometteuses, mais encore méthodologiquement immatures**. Dans toute la base de connaissances, le constat récurrent le plus solide est que la littératie en IA se développe plus efficacement par **une pratique active et contextualisée de l'IA, en particulier la critique, la comparaison, la réflexion et la collaboration, que par des démonstrations d'outils ou des cours magistraux seuls**. En même temps, relativement peu d'études mesurent une compétence durable et démontrée de façon indépendante ; beaucoup reposent sur l'[[self-regulated-learning|auto-déclaration]], des interventions courtes, des comparaisons observationnelles ou la [[design-based-research|recherche fondée sur la conception]].
 

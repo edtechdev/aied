@@ -1,7 +1,7 @@
 ---
 title: "La recherche par conception"
 created: "2026-08-24T02:30:00-04:00"
-updated: "2026-10-10T03:05:32-04:00"
+updated: "2026-10-24T10:43:44-04:00"
 type: concept
 research_method: [literature review]
 confidence: high
@@ -89,9 +89,9 @@ La DBR est la méthode emblématique des [[learning-sciences|sciences de l'appre
 - [[ai-assisted-collaborative-learning-model-dbr]] — DBR pour un modèle d'apprentissage collaboratif assisté par IA
 - [[genai-literacy-training-teacher-education-dbr-2026]] — DBR pour la formation à la littératie en IA dans la formation des enseignants
 - [[crompton-faculty-technology-integration-standards-2026]] — DBR pour les standards d'intégration technologique des enseignants
-- [[human-centered-ai-teacher-educators-2026]] — Human-centered AI for teacher educators (DBR)
-- [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of]] — Six DBR studies implementing AIDA at the Open University
-- [[critical-thinking-genai-scaffolding]] — DBR for GenAI critical-thinking scaffolding
-- [[science-integrated-ai-literacy-curriculum-dbr-2026]] — DBR for a science-integrated AI literacy curriculum (Moore et al. 2026)
-- [[play-ai-pre-k-kindergarten-ai-literacy-2026]] — Play With AI (PL-AI): play-centered AI literacy curriculum for pre-K and kindergarten (Lee 2026)
-- [[yasar-llms-iterative-pedagogical-design-2026]] — LLMs as agents of iterative pedagogical design
+- [[human-centered-ai-teacher-educators-2026]] — IA centrée sur l'humain pour les formateurs d'enseignants (DBR)
+- [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of]] — Six études DBR mettant en œuvre AIDA à l'Open University
+- [[critical-thinking-genai-scaffolding]] — DBR pour l'étayage de la pensée critique par l'IA générative
+- [[science-integrated-ai-literacy-curriculum-dbr-2026]] — DBR pour un programme de littératie en IA intégré aux sciences (Moore et al. 2026)
+- [[play-ai-pre-k-kindergarten-ai-literacy-2026]] — Play With AI (PL-AI) : programme de littératie en IA centré sur le jeu pour le préscolaire et le jardin d'enfants (Lee 2026)
+- [[yasar-llms-iterative-pedagogical-design-2026]] — Les LLM comme agents de conception pédagogique itérative

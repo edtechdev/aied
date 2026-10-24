@@ -1,13 +1,13 @@
 ---
 title: "Théorie de la réponse à l'item"
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-10-10T03:41:06-04:00"
+updated: "2026-10-24T10:51:33-04:00"
 type: concept
 technology: [knowledge-tracing, student-modeling]
 assessment: [assessment-validity, educational-measurement, psychometrically-aware-ai]
 confidence: medium
 translation_of: concepts/item-response-theory
-source_updated: "2026-10-05T08:24:47-04:00"
+source_updated: "2026-10-16T09:45:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -41,7 +41,9 @@ L'IRT traite l'aptitude (θ) et les paramètres des items (difficulté, discrimi
 - **Traçage des connaissances et modélisation de l'étudiant :** l'IRT est étroitement liée au [[knowledge-tracing|traçage des connaissances]] et à la [[student-modeling|modélisation de l'étudiant]] — des modèles qui suivent les connaissances de l'apprenant au fil du temps — partageant l'objectif d'estimer des états inobservables de l'apprenant à partir de réponses observables.
 
 - **Les quantités de l'IRT lues dans les logits des grands modèles de langue.** [[huang-interpretable-knowledge-tracing-2026|Huang et coll. (2026)]] extraient l'aptitude de l'étudiant θ = z^GOOD − z^BAD et la difficulté du tour de tuteur d = z^HARD − z^EASY des logits du jeton suivant, et les combinent dans un prédicteur de Rasch 1PL, rendant le traçage des connaissances fondé sur le dialogue interprétable (64.29% d'exactitude, 65.25 d'AUC sur QATD2k).
+- **Des sous-tâches de dialogue sur la même échelle que les questions.** [[unified-irt-framework-question-tutoring-dialogue-2026|Duan et coll. (2026)]] réécrivent les sous-tâches que les tuteurs posent en cours de dialogue sous forme de questions autonomes et les placent sur une échelle IRT 1PL partagée dont la difficulté provient du texte de la question, en employant les mouvements d'étayage après la lutte et de poussée vers la rigueur comme supervision de l'ordonnancement des difficultés.
 - **Validation sur le terrain par modèle bayésien hiérarchique :** [[assessing-quality-ai-generated-exams-field-2025|Évaluer la qualité des examens générés par l'IA]] emploie un modèle IRT 2PL bayésien hiérarchique (avec des items d'ancrage de pré-test pour situer 1 686 étudiants sur une échelle θ commune) pour montrer que les questions générées par l'IA égalent les items d'examens standardisés écrits par des experts en difficulté et en discrimination — une démonstration à grande échelle de l'IRT comme colonne vertébrale de la validation pour la [[automated-question-generation|génération automatisée de questions]].
+- **Un [[benchmark]] aligné sur les normes peut saturer.** Sur des ensembles scientifiques alignés sur les NGSS au [[k-12|collège]] et au lycée, la plupart des modèles à poids ouverts ont dépassé 90%, ce qui laissait les métriques classiques des items médiocres, avec une difficulté élevée et une discrimination faible dans des cellules triviales au-dessus de 90%, de sorte que les auteurs ne peuvent séparer les items faibles d'un domaine devenu traitable ([[llm-benchmark-secondary-science-topics-2026|Schroeder et coll. (2026)]]).
 - **L'information du test localise la précision.** Un test de littératie en IA générative de 20 items, validé par un modèle 2PL (RMSEA = 0.03, CFI = 0.97), avait sa fonction d'information culminant à θ = −0.8, ce qui la rendait plus précise pour les apprenants de faible à moyenne littératie que pour les apprenants uniformes sur l'échelle ([[jin-glat-genai-literacy-assessment|Jin et coll. (2025)]]).
 
 - **Séparer les réponses humaines des réponses d'IA générative par les statistiques d'ajustement personnel :** [[irt-human-genai-mcq-responses|Strugatski et Alexandron (2026)]] appliquent les statistiques d'ajustement personnel (PFS) au sein de l'IRT pour distinguer les réponses humaines des réponses d'[[generative-ai|IA générative]] sur des évaluations à choix multiples. Les PFS signalent les réponses de l'IA générative comme des réponses « aberrantes » dans deux contextes authentiques (un test de [[chemistry-education|chimie]] et un examen national), montrent que différents [[conversational-ai|agents conversationnels]] produisent des schémas de réponses distincts (un groupe hétérogène d'« intelligences »), et révèlent que les versions plus récentes d'IA générative deviennent plus semblables à l'humain — positionnant l'IRT comme un cadre robuste pour le filtrage de l'[[academic-integrity|intégrité]] dans les tests à fort enjeu.
@@ -74,21 +76,23 @@ L'IRT est un fondement de la [[educational-measurement|mesure en éducation]] et
 
 ## Articles liés
 
-- [[explaining-question-difficulty-natural-language-2026]] — Explaining LLM question difficulty in natural language through IRT and causal edits (Cui et al. 2026)
-- [[item-writing-flaws-irt-difficulty-2026]] — Impact of item-writing flaws on IRT difficulty and discrimination (Schmucker & Moore 2026)
-- [[causal-modeling-competency-assessment-2026]] — Causal Modeling of Support Interventions for Student Competency Assessment
-- [[assessment-latent-structure-human-llm-2026]] — Do assessment instruments measure the same thing for humans and LLMs? (Strugatski et al. 2026)
-- [[assessing-quality-ai-generated-exams-field-2025]] — Large-scale IRT field validation of AI-generated exams
+- [[unified-irt-framework-question-tutoring-dialogue-2026]] — Un cadre de réponse unifié pour les questions et les dialogues de tutorat
+- [[explaining-question-difficulty-natural-language-2026]] — Expliquer en langage naturel la difficulté des questions des LLM par l'IRT et des éditions causales (Cui et coll. 2026)
+- [[item-writing-flaws-irt-difficulty-2026]] — L'impact des défauts de rédaction d'items sur la difficulté et la discrimination IRT (Schmucker et Moore 2026)
+- [[causal-modeling-competency-assessment-2026]] — Modélisation causale des interventions de soutien pour l'évaluation des compétences des étudiants
+- [[assessment-latent-structure-human-llm-2026]] — Les instruments d'évaluation mesurent-ils la même chose pour les humains et les LLM ? (Strugatski et coll. 2026)
+- [[assessing-quality-ai-generated-exams-field-2025]] — Validation sur le terrain à grande échelle par l'IRT d'examens générés par l'IA
 - [[jin-glat-genai-literacy-assessment]] — GLAT uses IRT/2PL validation (Jin et al. 2025)
-- [[llm-item-difficulty-prediction]] — LLM prediction of item difficulty
-- [[llm-psychometric-calibration-cdp]] — Aligning LLM assessment with psychometric calibration
+- [[llm-item-difficulty-prediction]] — Prédiction de la difficulté des items par les LLM
+- [[llm-psychometric-calibration-cdp]] — Aligner l'évaluation par les LLM sur la calibration psychométrique
 - [[llm-difficulty-calibration-programming-exams-2026]] — LLM difficulty calibration in programming exams
 - [[multimodal-item-parameter-estimation-2026]] — Multimodal item-parameter estimation
 - [[huang-interpretable-knowledge-tracing-2026]] — Interpretable knowledge tracing
-- [[irt-human-genai-mcq-responses]] — Using IRT to separate human and GenAI MCQ responses
-- [[razavi-powers-item-difficulty-llm-2026]] — Estimating item difficulty using LLMs and tree-based ML
+- [[irt-human-genai-mcq-responses]] — Employer l'IRT pour séparer les réponses humaines et celles de l'IA générative aux QCM
+- [[razavi-powers-item-difficulty-llm-2026]] — Estimer la difficulté des items au moyen des LLM et de l'apprentissage automatique arborescent
 - [[cvengros-grading-handwritten-chemistry-ai-2026]]
-- [[process-grounded-language-cognitive-diagnosis-2026]] — Beyond ID Embeddings: Process-Grounded Language Modeling for Cognitive Diagnosis
-- [[bayesian-consensus-irt-item-banks-2026]] — Bayesian consensus calibration of a continuously evolving IRT item bank (Jewsbury et al. 2026)
-- [[assessing-teachers-ai-literacy-measurement-tools-2026]] — Field audit showing IRT/Rasch rarely used as primary validation evidence in teacher AI literacy instruments
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: AI and human tutoring yield equivalent GRE learning gains
+- [[process-grounded-language-cognitive-diagnosis-2026]] — Au-delà des plongements d'identifiants : une modélisation linguistique fondée sur le processus pour le diagnostic cognitif
+- [[bayesian-consensus-irt-item-banks-2026]] — Calibration par consensus bayésien d'une banque d'items IRT en évolution continue (Jewsbury et coll. 2026)
+- [[assessing-teachers-ai-literacy-measurement-tools-2026]] — Audit de terrain montrant que l'IRT/Rasch est rarement employé comme donnée probante primaire dans les instruments de littératie en IA des enseignants
+- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench : le tutorat par l'IA et par l'humain produisent des gains d'apprentissage équivalents au GRE
+- [[llm-benchmark-secondary-science-topics-2026]] — Un benchmark aligné sur les normes peut saturer

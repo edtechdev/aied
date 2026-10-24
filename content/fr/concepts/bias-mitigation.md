@@ -2,7 +2,7 @@
 connected_resources: [writing-rhetoric-studies-in-the-loop]
 title: "Réduction des biais"
 created: "2026-07-14T10:44:35-04:00"
-updated: "2026-10-10T03:05:33-04:00"
+updated: "2026-10-24T10:43:38-04:00"
 type: concept
 foundations: [ai-literacy, teacher-role]
 technology: [generative-ai, llm]
@@ -127,10 +127,10 @@ La réduction des biais est le mécanisme technique par lequel l'[[equity-in-ai-
 - [[xai-education-framework]] — IA explicable en éducation
 - [[antiskillbench-persona-skills-privacy-2026]] — Vie privée et audit des biais liés aux personas et aux compétences
 - [[genai-minoritized-knowledges-disability]] — L'IA générative et la marginalisation des savoirs minoritaires
-- [[marked-pedagogies-linguistic-bias-writing-feedback]] — Marked Pedagogies: stereotype-aligned biases in automated writing feedback
-- [[lopez-pernas-llm-appropriate-student-support-2026]] — Can AI deliver appropriate support for diverse student profiles? A large-scale evaluation
-- [[bias-representation-text-to-image-education-2026]] — Bias and representation in AI-generated text-to-image: systematic review (Alon et al. 2026)
+- [[marked-pedagogies-linguistic-bias-writing-feedback]] — Marked Pedagogies : biais conformes aux stéréotypes dans la rétroaction automatisée sur l'écriture
+- [[lopez-pernas-llm-appropriate-student-support-2026]] — L'IA peut-elle apporter un soutien approprié à des profils d'étudiants divers ? Une évaluation à grande échelle
+- [[bias-representation-text-to-image-education-2026]] — Biais et représentation dans les images générées par IA en éducation : revue systématique (Alon et al. 2026)
 - [[agarwal-ethical-values-norms-aied-2026]] — Valeurs et normes éthiques pour l'IA en éducation
-- [[nlp-student-evaluation-teaching-scoping-review-2026]] — From Sentiment Classification to Actionable and Responsible Feedback: A Scoping Review and Evidence Map of NLP in Student Evaluation of Teaching, 2015–2026
-- [[genai-social-bias-software-engineering-education-2026]] — Generative AI May Reinforce Social Biases in Software Engineering Education
+- [[nlp-student-evaluation-teaching-scoping-review-2026]] — De la classification des sentiments à une rétroaction exploitable et responsable : revue de cadrage et carte des données probantes sur le TAL dans l'évaluation de l'enseignement par les étudiants, 2015–2026
+- [[genai-social-bias-software-engineering-education-2026]] — L'IA générative peut renforcer les biais sociaux dans l'enseignement du génie logiciel
 - [[fairness-theatre-early-warning-systems-2026]] — Fairness Theatre: Evaluating Post-Hoc Fairness Interventions in Vendor-Controlled Early Warning Systems

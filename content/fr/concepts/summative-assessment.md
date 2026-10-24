@@ -1,7 +1,7 @@
 ---
 title: "L'évaluation sommative"
 created: "2026-08-19T17:30:00-04:00"
-updated: "2026-10-10T03:24:45-04:00"
+updated: "2026-10-24T10:43:38-04:00"
 type: concept
 foundations: [academic-integrity]
 assessment: [assessment, authentic-assessment, summative-assessment, educational-measurement]
@@ -44,6 +44,7 @@ Les recherches de la base de connaissances documentent la manière dont l'IA gé
 - **La concordance des résultats peut survivre à une notation imprécise au niveau des items.** Comparée à des notes officielles modérées, un LLM multimodal notant 10,364 pages manuscrites de l'Olympiade de physique et de l'université corrélait à r = 0.93–0.96 et retrouvait la même équipe internationale de cinq élèves, bien que la concordance exacte au niveau des sous-questions n'atteigne que 70% — un correcteur se juge aux décisions qu'il éclaire ([[ai-grading-handwritten-physics-2026|Pathak et al. (2026)]]).
 - **L'IA comme échappatoire.** Parce que l'IA générative peut produire des réponses à des questions écrites, les tâches sommatives non surveillées et à faire à la maison perdent leur validité : [[generative-ai-reduced-study-time-math|les mesures surveillées et sans assistance sont essentielles]], parce que la performance non surveillée est gonflée par l'IA, et les [[generative-ai-guardrails-harm-learning|outils encadrés (indice plutôt que réponse)]] peuvent éliminer la pénalité à l'examen que cause une IA sans garde-fous. La quasi-expérience de [[chirikov-ai-grade-inflation-2026|Chirikov (2026)]] portant sur plus de 500,000 notes rend le mécanisme concret : après la sortie de ChatGPT, les cours comportant davantage de tâches exposées à l'IA ont vu la part des notes A augmenter de 13 points de pourcentage, et l'effet s'est concentré dans les **cours riches en devoirs** (16 points de pourcentage supplémentaires dans l'estimation par triple différence) — une preuve directe que ce sont les devoirs non surveillés, et non de véritables [[learning-gains|gains d'apprentissage]], qui sont le lieu où l'IA gonfle les résultats sommatifs.
 - **Des examens générés par l'IA.** [[assessing-quality-ai-generated-exams-field-2025|Une étude de terrain à grande échelle]] et la [[ai-vs-human-assessment-efl-tpck-2026|recherche sur l'évaluation en anglais langue étrangère]] examinent si l'IA peut *générer* des examens et des tâches d'évaluation de haute qualité — un usage émergent de l'IA dans la conception d'évaluations sommatives.
+- **Les étudiants ne repèrent pas de manière fiable les items rédigés par l'IA.** Dans un examen de médecine familiale donnant lieu à crédits, [[vogt-ai-mcq-recognition-medical-assessment-2026|Vogt et al. (2026)]] n'ont trouvé aucune différence significative d'attribution de la source entre 30 items à choix multiple générés par l'IA et 30 items d'examen de licence, une reconnaissance correcte moyenne de 68,6 à 77,5 pour cent, et 18,2 pour cent des items générés éliminés lors de la [[human-in-the-loop-ai|revue humaine]].
 
 ## Les formats d'évaluation sommative résistants à l'IA
 
@@ -93,19 +94,20 @@ La littérature sur l'évaluation de la base de connaissances souligne systémat
 - [[chirikov-ai-grade-inflation-2026]] — Le déplacement des tâches par l'IA comme mécanisme d'inflation des notes ; les cours riches en devoirs (Chirikov 2026)
 - [[generative-ai-reduced-study-time-math]] — Achèvement plus rapide, moins d'apprentissage : les mesures surveillées sont essentielles
 - [[generative-ai-guardrails-harm-learning]] — L'IA générative sans garde-fous nuit à l'apprentissage
-- [[assessing-quality-ai-generated-exams-field-2025]] — Assessing the quality of AI-generated exams
-- [[llms-do-not-grade-essays-like-humans-2026]] — LLMs do not grade essays like humans
-- [[llm-automated-assessment-student-self-explanations]] — LLMs for automated assessment of student self-explanations
+- [[assessing-quality-ai-generated-exams-field-2025]] — Évaluer la qualité des examens générés par l'IA
+- [[llms-do-not-grade-essays-like-humans-2026]] — Les LLM ne notent pas les dissertations comme les humains
+- [[llm-automated-assessment-student-self-explanations]] — Les LLM pour l'évaluation automatisée des auto-explications des étudiants
 - [[cong-confidence-asag-2026]] — Automatic short-answer grading
 - [[psyscore-essay-scoring-zpd-feedback]] — Psychometrically-aware trait-adaptive essay scoring
 - [[socratic-tests-conversational-assessment]] — Socratic tests: dynamic, conversational, multimodal assessment
 - [[code-review-genai-cs1]] — Code review interviews in CS1
-- [[responsible-assessment-ai-era-stanford-2026]] — Responsible assessment in the AI era
+- [[responsible-assessment-ai-era-stanford-2026]] — Une évaluation responsable à l'ère de l'IA
 - [[test-driven-ai-assisted-learning]] — Test-driven AI-assisted learning
 - [[genai-oop-programming-assessments-2026]] — GenAI performance on object-oriented programming assessments
-- [[brcic-effortless-trap-productive-struggle-2026]] — The Effortless Trap: productive struggle and the illusion of learning
+- [[brcic-effortless-trap-productive-struggle-2026]] — Le piège de la facilité : la lutte productive et l'illusion de l'apprentissage
 - [[ai-vs-human-assessment-efl-tpck-2026]] — AI-generated versus human-developed assessment tasks in EFL
-- [[roe-assessment-twins-2026]] — Assessment twins for strengthening assessment validity in the age of GenAI (Roe, Perkins & Giray 2026)
-- [[ai-grading-handwritten-physics-2026]] — AI grading of handwritten physics assessments (Olympiad)
+- [[roe-assessment-twins-2026]] — Des jumeaux d'évaluation pour renforcer la validité de l'évaluation à l'ère de l'IA générative (Roe, Perkins & Giray 2026)
+- [[ai-grading-handwritten-physics-2026]] — Notation par l'IA d'évaluations de physique manuscrites (Olympiade)
 - [[mesny-innovative-assessment-grading-management-2026]]
 - [[cvengros-grading-handwritten-chemistry-ai-2026]]
+- [[vogt-ai-mcq-recognition-medical-assessment-2026]] — Les étudiants ne repèrent pas de manière fiable les items rédigés par l'IA

@@ -2,7 +2,7 @@
 connected_resources: [playlab]
 title: "Les développeurs de technologie éducative"
 created: "2026-09-17T15:20:00-04:00"
-updated: "2026-10-10T03:24:44-04:00"
+updated: "2026-10-24T10:37:47-04:00"
 type: concept
 foundations: [educational-development, learning-design]
 technology: [learning-analytics, edtech-platform, open-source]
@@ -11,7 +11,7 @@ page_kind: [evaluation]
 confidence: high
 methods: [design-based-research]
 translation_of: concepts/educational-technology-developers
-source_updated: "2026-09-17T15:20:00-04:00"
+source_updated: "2026-10-16T06:45:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -61,6 +61,8 @@ Le rôle se distingue aussi de ses voisins. Le [[learning-design|conception péd
 
 **Les explications doivent parler le langage de l'enseignant.** [[xai-teachers-trust-edtech-recommendations-2026]] a mené une expérience intra-sujet auprès de 41 enseignants de chimie sur un outil de recommandation par apprentissage automatique : la compréhensibilité, la [[trust|confiance]] et l'acceptation corrélaient positivement, et des explications ancrées dans le domaine, formulées dans le langage des programmes, produisaient une compréhensibilité, une [[trust-calibration|confiance]] apprise et une acceptation significativement plus élevées que des explications fondées sur l'importance des variables. La confiance était aussi dynamique — plusieurs enseignants ont dit que seule l'expérience de classe la réglerait — et l'acceptation dépendait de l'alignement pédagogique et de la réduction de la charge de travail.
 
+**Les indices de crédibilité ne sont pas une preuve d'exactitude.** L'ajout de citations et de signaux d'autorité à un débat [[agentic-ai|multi-agents]] a fait passer l'abandon d'un jugement correct au profit de la position de l'IA de 15.0% à 31.8%, de sorte que la provenance doit être vérifiable au point d'usage ([[tuo-armada-multi-agent-debate-overreliance-2026|Tuo et coll., 2026]]).
+
 **La co-conception à l'échelle institutionnelle.** [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of|AIDA]], à l'Open University, a été construit au moyen de six études fondées sur la conception, sur 18 mois, avec 498 étudiants et 20 membres du personnel. Environ 20% étaient initialement sceptiques ; après un usage pratique, 96% voulaient le conserver, et un ECR exploratoire a montré un temps d'usage double, mais aucune différence significative sur les données de processus d'apprentissage. Les facteurs favorables étaient organisationnels — parrainage par la direction, collaboration entre unités, itération informée par les données — avec des lacunes dans les capacités de pensée systémique.
 
 ### Approvisionnement, ouverture et après la fin du financement
@@ -107,3 +109,4 @@ Le rôle se distingue aussi de ses voisins. Le [[learning-design|conception péd
 - [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of]]
 - [[vocabulary-difficulty-prediction]]
 - [[shen-sustainable-ai-knowledge-base-cs-education-2026]]
+- [[tuo-armada-multi-agent-debate-overreliance-2026]] — Les indices de crédibilité ont accru la déférence envers un conseil d'IA incorrect ; vérifier la provenance au point d'usage

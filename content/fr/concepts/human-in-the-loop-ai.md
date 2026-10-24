@@ -1,7 +1,7 @@
 ---
 title: "Humain dans la boucle"
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-10-10T03:26:16-04:00"
+updated: "2026-10-24T10:43:16-04:00"
 connected_faqs: [ai-agents-support-students-instructors, designing-educational-ai-software, ai-feedback-at-scale]
 type: concept
 foundations: [ai-education]
@@ -12,7 +12,7 @@ confidence: medium
 methods: [benchmark]
 ethics: [pedagogical-safety]
 translation_of: concepts/human-in-the-loop-ai
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-24T06:14:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -42,8 +42,11 @@ ai_assist:
 ## Introduction
 
 L'humain dans la boucle est une réponse aux limites et aux risques d'une IA pleinement autonome en éducation ([[ai-education|l'IA en éducation]]) : les systèmes automatisés peuvent générer à grande échelle mais sont dépourvus du jugement contextuel, [[ethics|éthique]] et pédagogique qu'apportent les enseignants et les experts. Deux mises en œuvre récentes illustrent des architectures distinctes :
+- **L'humain dans la boucle est insuffisant si l'humain ne fait qu'approuver.** [[learning-analytics-genai-learning-design|Rienties, Divjak et Law (2026)]] soutiennent qu'une agentivité véritable exige la capacité de comprendre, de contester, de reconcevoir et parfois de rejeter des recommandations soutenues par l'IA, et pas seulement d'approuver des décisions façonnées ailleurs.
 
 L'accompagnement prescriptif est un domaine où la supervision humaine est de plus en plus considérée comme non optionnelle. [[lopez-pernas-llm-appropriate-student-support-2026|López-Pernas et al. (2026)]] ont testé si trois LLM pouvaient recommander des plans d'accompagnement étudiant à partir d'indicateurs d'[[learning-analytics|analytiques d'apprentissage]] et ont trouvé une sensibilité limitée aux besoins ainsi qu'une forte incohérence entre modèles — concluant que le jugement humain dans la boucle reste nécessaire avant de pouvoir déployer de façon sûre et éthique un conseil prescriptif fondé sur un [[llm|LLM]].
+
+Retenir la réponse préférée d'un système est protecteur plutôt que correctif : dans un débat multi-agents qui ne révélait jamais de position recommandée, le basculement préjudiciable vers une réponse incorrecte de l'IA est tombé de 42.0–60.5% à 5.7–8.2%, tandis que l'adoption de conseils corrects baissait aussi ([[tuo-armada-multi-agent-debate-overreliance-2026|Tuo et al., 2026]]).
 
 Une troisième architecture place le jugement humain *en amont* du modèle plutôt qu'au niveau de ses sorties. Dans l'étude de [[lee-learner-question-types-ai-education-2026|Lee, Atif et Kang (2026)]] sur la classification des questions d'apprenants, trois experts de niveau doctoral ont gouverné l'ensemble du pipeline : ils ont affiné les définitions opérationnelles de chaque rôle [[constructivist|constructiviste]], étiqueté indépendamment jusqu'à ce que le kappa de Fleiss passe de 0.60 à 0.83 après résolution des divergences, et validé les items rétro-traduits et paraphrasés utilisés pour équilibrer l'ensemble d'entraînement.
 
@@ -102,6 +105,9 @@ La conception avec un humain dans la boucle est devenue centrale dans les discus
 - **Génération de questions et de contenus :** au-delà de CODE-GEN, l'humain dans la boucle guide la génération de questions pour l'évaluation et l'[[scaffolding|étayage]] ([[code-gen]], [[llm-difficulty-calibration-programming-exams-2026]]).
 - **Systèmes agentiques et multi-agents :** à mesure que l'IA devient plus autonome, la supervision humaine est un [[agentic-ai|garde-fou de conception]] central ([[agentic-ai-pedagogical-best-practice-2026]], [[guided-llm-scaffolding-independent-learning]]).
 - **Aiguillage selon la conséquence de la décision, et non selon l'incertitude du modèle (2026).** [[human-in-the-loop-ai-scoring-national-assessment-2026|Une étude opérationnelle de 2026]] du test national d'accréditation Acredita EB en Uruguay (deux sessions, environ 5,000 à 6,000 candidats chacune) montre à quoi ressemble une conception avec un humain dans la boucle lorsqu'elle est pilotée par les conséquences des décisions plutôt que par l'incertitude du modèle. Un correcteur GPT-5 s'accordait avec les évaluateurs experts sur 60 à 80% des 15 items de la grille mais était systématiquement conservateur, produisant des écarts « admis par l'humain / refusé par l'IA » dans 15.3% (2024) et 16.5% (2025) des comparaisons d'admission, et presque jamais l'inverse. Le cadre retient donc les résultats d'admission par l'IA tels quels et aiguille vers l'examen d'un expert tout résultat de refus par l'IA susceptible de changer la décision pour un candidat — après avoir d'abord écarté les candidats dont l'admission ne peut pas dépendre de l'épreuve de rédaction — réduisant d'au moins 50% les réponses nécessitant une correction humaine complète. Une seconde conception de 2026 trace la frontière par l'autre côté : dans une plateforme multi-agents de patients standardisés par l'IA ([[ai-standardized-patient-scaffolding-medical-2026|Yang et al.]]), la supervision humaine est réservée à ce que l'IA est jugée incapable de décider, les enseignants et les patients standardisés humains fournissant l'interprétation contextuelle, la remédiation et les jugements de niveau de préparation, le système n'étant explicitement pas autorisé à déterminer seul la [[medical-education|compétence clinique]].
+- **Instrumentation de la recherche : les humains valident des étiquettes plutôt que des notes.** Des codeurs en sciences de l'apprentissage et en informatique ont jugé des segments de comportement générés par un LLM sur une chronologie synchronisée à κ = 0.703, et leurs désaccords sont devenus l'analyse d'erreurs de l'étude elle-même ([[fonteles-embodied-learning-human-in-the-loop-multimodal-2026|Fonteles et al., 2026]]).
+- **Le modèle résume, le chercheur étiquette.** Une étude de modélisation collaborative a utilisé GPT-3.5-Turbo pour rédiger un résumé tenant compte du contexte de la tâche pour chacun de 394 segments de discours, a fait vérifier chaque résumé par des chercheurs qui les ont codés à κ ≥ 0.7, et a entraîné les détecteurs sur ces étiquettes, de sorte que le modèle n'a jamais porté le jugement lui-même. La supervision s'est ensuite déplacée vers l'extérieur : quatre enseignants expérimentés ont examiné un segment étiqueté, trois ont reconnu les comportements, et l'un a soutenu que deux étiquettes sur un même segment masquaient ce que les étudiants faisaient, une objection d'utilisabilité que les auteurs ont consignée plutôt que résolue ([[zhang-llm-detection-ssrl-collaborative-modeling-2026|Zhang et al., 2026]]).
+- **L'humain dans la boucle comme architecture pour une discipline entière, et non pour un seul flux de travail.** [[zhai-science-literacy-generative-ai-coherence-2026|Zhai et al. (2026)]] spécifient quatre couches imbriquées : infrastructure de données, développement de modèles, interface pédagogique et gouvernance humaine, maintenues ensemble par trois principes, la supervision et l'agentivité humaines, l'intelligence co-adaptative et la réactivité au contexte.
 
 ## Synthèse
 
@@ -137,7 +143,8 @@ La conception avec un humain dans la boucle n'est pas seulement une mesure de s�
 - [[student-support-and-success]] — le jugement humain dans un flux d'accompagnement automatisé
 
 ## Articles liés
-
+- [[zhai-science-literacy-generative-ai-coherence-2026]] — Architecture à quatre couches d'humain dans la boucle pour l'IA générative en éducation scientifique (Zhai et al. 2026)
+- [[fonteles-embodied-learning-human-in-the-loop-multimodal-2026]] — Des codeurs validant des segments de comportement produits par un LLM comme instrumentation de recherche (Fonteles et al. 2026)
 - [[lee-learner-question-types-ai-education-2026]] — Classification des questions étiquetée par des experts : les humains gouvernent l'étiquetage, l'augmentation et l'analyse d'erreurs (Lee, Atif & Kang 2026)
 - [[ilieva-agentic-genai-higher-education-2026]] — La supervision humaine et la gouvernance comme troisième couche de la conception de cours en GAI agentique (Ilieva et al. 2026)
 - [[ko-hughes-vsd-student-centered-its-2026]] — Conception sensible aux valeurs d'un tuteur intelligent centré sur l'étudiant (les apprenants dans la boucle de tutorat)
@@ -168,3 +175,4 @@ La conception avec un humain dans la boucle n'est pas seulement une mesure de s�
 - [[when-students-prefer-ai-scoring-feedback-2026]] — Les étudiants de premier cycle préfèrent une notation humaine pour les travaux à enjeux élevés et l'IA comme assistante, non comme remplaçante
 - [[student-query-demand-hybrid-ai-support-2026]] — Ce que les étudiants demandent réellement : structure de la demande et potentiel d'automatisation dans un système d'accompagnement hybride
 - [[in-the-loop-educational-ai-learning-sciences-2026]] — Repenser les approches « en boucle » dans l'IA éducative : une perspective des sciences de l'apprentissage
+- [[tuo-armada-multi-agent-debate-overreliance-2026]] — Retenir la réponse préférée du système a réduit la déférence envers des conseils erronés de l'IA, de façon protectrice plutôt que corrective

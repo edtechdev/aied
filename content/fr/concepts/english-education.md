@@ -1,7 +1,7 @@
 ---
 title: "Enseignement de l'anglais (EAP / EFL / ESL)"
 created: "2026-08-21T12:30:00-04:00"
-updated: "2026-10-10T03:41:06-04:00"
+updated: "2026-10-24T10:45:02-04:00"
 type: concept
 foundations: [academic-integrity]
 technology: [generative-ai]
@@ -11,7 +11,7 @@ discipline: [english education, language learning, writing education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/english-education
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-21T12:05:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -83,6 +83,8 @@ De nombreux articles sur l'enseignement de l'écriture privilégient l'anglais (
 
 La domination de l'anglais par l'IA est une caractéristique déterminante de ce volet. Parce que les modèles sont les plus performants en anglais et plus précisément en anglais académique standard, l'enseignement de l'anglais en retire à la fois des bénéfices disproportionnés (de puissants étayages pour l'EAP) et porte des risques distinctifs (biais monolingue, discrimination à l'égard des World Englishes et des scripteurs multilingues). La recherche menée ici rejoint l'[[equity-in-ai-education|équité]], l'[[bias-mitigation|atténuation des biais]], l'[[automated-assessment|évaluation automatisée]], l'[[ai-feedback-quality|qualité de la rétroaction par IA]] et l'[[academic-integrity|intégrité académique]].
 
+Une synthèse fondée sur Scopus de 54 études en EFL situe les [[limitations-in-aied-research|limites]] les plus fréquemment rapportées du domaine du côté de l'autonomie de l'apprenant : le [[cognitive-offloading|recours excessif]] à l'IA dans 27 études (50%) et la réduction de la [[critical-thinking|pensée critique]] dans 25 (46%), tandis que la production d'IA peu fiable arrive en tête des problèmes techniques dans 22 études (41%) ([[ai-limitations-efl-higher-education-review-2026|Espinoza-Celi & Vargas-Saritama (2026)]]).
+
 ## Implications pour les enseignants d'anglais / d'EAP / d'EFL-ESL
 
 - **Exploiter délibérément la force de l'IA pour l'anglais académique.** Parce que les modèles sont les plus performants en anglais et en anglais académique standard, les enseignants d'EAP peuvent déployer l'IA pour l'écriture fondée sur les genres, la différenciation des supports de lecture ([[genai-differentiated-eap-reading-materials-2026|matériels d'EAP]]) et la rétroaction sur la révision — mais devraient présenter l'IA comme un partenaire de rédaction et de rétroaction, non comme un moteur à réponses.
@@ -113,22 +115,22 @@ La domination de l'anglais par l'IA est une caractéristique déterminante de ce
 
 ## Articles liés
 
-- [[alharbi-ethical-genai-eap-2026]] — Ethical Generative AI Integration in EAP within Higher Education
-- [[feedback-literacy-scripts-eap-writing]] — Feedback Literacy Scripts and a Second-Rater Mechanism in GenAI EAP Writing Revision
-- [[genai-differentiated-eap-reading-materials-2026]] — From Unified to Differentiated Materials: GenAI-Supported Adaptation of EAP Reading Materials
+- [[alharbi-ethical-genai-eap-2026]] — Intégration éthique de l'IA générative en EAP dans l'enseignement supérieur
+- [[feedback-literacy-scripts-eap-writing]] — Scripts de littératie de la rétroaction et mécanisme de second correcteur dans la révision d'écriture en EAP par IA générative
+- [[genai-differentiated-eap-reading-materials-2026]] — De matériels unifiés à des matériels différenciés : adaptation des supports de lecture en EAP assistée par IA générative
 - [[tact-pedagogically-adaptive-esl-tutoring]] — TACT: Taxonomy-Aligned Post-Training for Pedagogically Adaptive English Tutoring
-- [[sutama-chatgpt-eportfolio-speaking-2026]] — Aligning ChatGPT with E-Portfolio Assessment as EFL Learning Model
+- [[sutama-chatgpt-eportfolio-speaking-2026]] — Aligner ChatGPT sur l'évaluation par e-portfolio comme modèle d'apprentissage en EFL
 - [[irwin-muller-efl-peer-feedback-literacy]] — Positioning Generative AI in EFL Peer Feedback
 - [[ai-vs-human-assessment-efl-tpck-2026]] — AI-Generated versus Human-Developed Assessment Tasks in EFL Context
-- [[acceptance-ai-english-tools-2026]] — Acceptance of AI-Assisted English Language Learning Tools in Higher Education
+- [[acceptance-ai-english-tools-2026]] — Acceptation des outils d'apprentissage de l'anglais assistés par IA dans l'enseignement supérieur
 - [[ai-tools-arab-english-classrooms]] — AI tools in Arab University English classrooms
-- [[self-referential-l2-writing-llm-assessment]] — Toward Self-Referential Analytic Assessment: A Profile-Based Approach to L2 Writing Evaluation with LLMs
-- [[ai-interlocutor-l2-spoken-dialogue]] — What Changes When the Interlocutor Is an AI? L2 Spoken Dialogue
-- [[genai-linguistic-diversity-academic-writing]] — Generative AI and Linguistic Diversity in Academic Writing and Publishing
-- [[governing-unseen-ai-literacy-language-teachers-2026]] — Governing the Unseen: AI Literacy among Language Teachers
+- [[self-referential-l2-writing-llm-assessment]] — Vers une évaluation analytique autoréférentielle : une approche par profils pour l'évaluation de l'écriture en L2 avec les LLM
+- [[ai-interlocutor-l2-spoken-dialogue]] — Qu'est-ce qui change quand l'interlocuteur est une IA ? Le dialogue oral en L2
+- [[genai-linguistic-diversity-academic-writing]] — IA générative et diversité linguistique dans l'écriture et l'édition académiques
+- [[governing-unseen-ai-literacy-language-teachers-2026]] — Gouverner l'invisible : la littératie en IA chez les enseignants de langues
 - [[structural-silence-underrepresented-language-ai-2026]] — Structural Silence: Underrepresented Languages in AI Infrastructure
 - [[liu-emerging-tech-tefl-review-2026]] — Emerging technologies for TEFL
-- [[wang-goal-setting-ai-engagement-2026]] — Goal-setting theory: teacher support, achievement goals, and engagement in AI-assisted English learning (758 Chinese students)
 - [[bird-multimodal-educational-literature-2026]] — Multimodal fusion for classifying educational literature
-- [[li-language-educators-genai-review-2026]] — Language educators' practices and development with GenAI
-- [[zhao-ji-appraisal-human-ai-revisions-2026]] — Peer and AI revisions of EFL argumentative essays differ in dialogic positioning (Zhao & Ji 2026)
+- [[li-language-educators-genai-review-2026]] — Pratiques et développement des enseignants de langues avec l'IA générative
+- [[zhao-ji-appraisal-human-ai-revisions-2026]] — Les révisions par les pairs et par l'IA des dissertations argumentatives en EFL diffèrent dans leur positionnement dialogique (Zhao & Ji 2026)
+- [[ai-limitations-efl-higher-education-review-2026]] — Recours excessif à l'IA (50% des 54 études) et pensée critique réduite en tête des limites rapportées

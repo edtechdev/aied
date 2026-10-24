@@ -1,7 +1,7 @@
 ---
 title: Réglementation de l'IA dans l'éducation
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-10T03:41:06-04:00"
+updated: "2026-10-24T10:37:47-04:00"
 type: concept
 foundations: [academic-integrity]
 ethics: [equity-in-ai-education, ethics, privacy, pedagogical-safety]
@@ -10,7 +10,7 @@ level: [higher ed]
 confidence: high
 institutions: [educational-policy-ai, governance]
 translation_of: concepts/regulation
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-16T07:28:51-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -49,6 +49,8 @@ La réglementation est la couche juridique et politique de la [[governance|gouve
 ### Le fossé de gouvernance
 
 La base de connaissances documente un fossé persistant entre la vitesse de déploiement de l'IA et la maturité réglementaire. Les [[institutional-change-framework-ai|cadres de changement institutionnel]] et les recherches sur la réglementation plaident pour une [[governance|gouvernance]] proactive plutôt que pour une politique réactive. Des études sur et les [[raza-farooq-aied-review-2020-2025|revues complètes de l'AIED]] soulignent que la réglementation est inégale selon les juridictions et les niveaux d'enseignement, créant un environnement opératoire incohérent pour les enseignants, les étudiants et les développeurs.
+
+Les systèmes [[agentic-ai|agentiques]] ouvrent un fossé supplémentaire. Dans une analyse documentaire de 12 universités, [[wong-sun-agentic-ai-assessment-governance-2026|Wong et Sun (2026)]] ont constaté qu'aucun document comparable ne traitait le cas d'un agent se connectant à un système de gestion de l'apprentissage, détenant les identifiants d'un étudiant ou agissant en son nom, alors que plusieurs cas conscients de l'agentivité posaient des limites explicites de délégation et d'accès.
 
 **Le fossé est un fossé de preuves autant que de calendrier.** [[gutowski-hurley-genai-policy-legal-education-2025|Gutowski et Hurley (2025)]] caractérisent un secteur professionnel comme élaborant une politique sous la pression du temps, sans base de preuves pour le faire : la plupart des écoles de [[legal-education|droit]] américaines agréées par l'ABA ont adopté des positions généralement prohibitives tout en réservant leur pouvoir d'appréciation aux enseignants pris individuellement, et les auteurs ne rendent compte d'aucun consensus sur la divulgation ou la pratique de citation, ni que d'un taux de réponse d'environ 15% à l'enquête sur les politiques de l'ABA en 2024. Leur réponse normative — des lignes directrices claires quelle que soit la position, l'implication des [[stakeholders|parties prenantes]] dans la rédaction, et une gouvernance conçue pour être souple et revue périodiquement — correspond au [[crompton-governing-genai-higher-ed-delphi-2026|consensus mondial Delphi]], qui traite lui aussi la maintenance des politiques comme un mécanisme institutionnel récurrent plutôt que comme une tâche ponctuelle. [[coates-governing-academic-integrity-indicators-2025|Coates, Croucher et Calderon (2025)]] ajoutent la dépendance inverse : leur programme de réforme de la gouvernance conclut que le développement institutionnel a peu de chances de payer sans affordance extérieure venant de la réglementation, de l'évaluation comparative et de la concurrence inter-institutionnelle, ce qui fait des agences de qualité et de réglementation — et de la comparaison qu'elles imposent entre institutions — la condition pour que la réforme interne de la gouvernance prenne racine.
 
@@ -95,3 +97,4 @@ La réglementation se relie à l'[[educational-policy-ai|évaluation de la polit
 - [[coates-governing-academic-integrity-indicators-2025]] — La pression réglementaire extérieure comme condition de la réforme de la gouvernance (Coates, Croucher et Calderon 2025)
 - [[watson-rainie-ai-challenge-faculty-survey-2026]] — 87% du corps professoral rédige ses propres règles face à une mince couche de politique institutionnelle (Watson et Rainie 2026)
 - [[edtech-privacy-deferral-2026]] — « We'll Fix It Later » : l'éducation, l'IA et l'ajournement de la confidentialité des étudiants dans l'EdTech
+- [[wong-sun-agentic-ai-assessment-governance-2026]] — Aucune politique comparable ne traitait le cas d'un agent IA se connectant à un LMS ou détenant les identifiants d'un étudiant (Wong et Sun 2026)

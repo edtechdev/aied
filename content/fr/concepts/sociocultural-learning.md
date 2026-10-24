@@ -1,7 +1,7 @@
 ---
 title: "L'apprentissage socioculturel"
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-10-10T03:24:45-04:00"
+updated: "2026-10-24T10:41:58-04:00"
 type: concept
 foundations: [agency, human-ai-collaboration]
 pedagogy: [constructivist, learning-theories, scaffolding, sociocultural-learning]
@@ -82,10 +82,10 @@ Le courant socioculturel est étroitement couplé à la théorie de la [[cogniti
 - [[intelligent-tutoring]]
 
 ## Articles liés
-- [[youth-enter-chat-llm-student-talk-2026]] — When Youth Enter The Chat: Validation of LLM-Based Measures of Student Talk
-- [[generative-ai-mediational-agent-sociocultural-2026]] — Generative AI as a Mediational Agent
+- [[youth-enter-chat-llm-student-talk-2026]] — Quand les jeunes entrent dans le chat : validation de mesures du discours étudiant fondées sur les LLM
+- [[generative-ai-mediational-agent-sociocultural-2026]] — L'IA générative comme agent de médiation
 - [[golrang-propact-pair-programming-2026]] — Collaborative AI tutoring
 - [[finkelstein-principled-ai-education-2025]] — Principled AI education frameworks
 - [[stanford-evidence-base-ai-k12-2026]] — Stanford evidence base for AI in K-12
-- [[young-people-learning-generative-ai-rapid-review-2026]] — Sydney rapid review of GenAI in PreK-12
-- [[ai-cognitive-partner-co-regulation-learning]] — AI as cognitive partner and co-regulation
+- [[young-people-learning-generative-ai-rapid-review-2026]] — Revue rapide de Sydney sur l'IA générative au préscolaire et en K-12
+- [[ai-cognitive-partner-co-regulation-learning]] — L'IA comme partenaire cognitif et co-régulation

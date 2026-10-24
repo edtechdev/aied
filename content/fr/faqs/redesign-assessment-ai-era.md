@@ -1,11 +1,12 @@
 ---
 title: "Comment repenser l'évaluation pour qu'une note me dise encore quelque chose de défendable sur ce que l'étudiant sait ou sait faire ?"
 created: "2026-09-22T19:10:56-04:00"
-updated: "2026-10-09T18:10:00-04:00"
+updated: "2026-10-24T10:38:23-04:00"
 weight: 84
+audience: [instructors, assessment designers]
 foundations: [academic-integrity]
 assessment: [assessment, assessment-validity, authentic-assessment]
-source_updated: "2026-10-02T08:21:34-04:00"
+source_updated: "2026-10-21T14:32:00-04:00"
 translation_of: faqs/redesign-assessment-ai-era
 translation_note: "Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle."
 contributors: [editor]
@@ -21,8 +22,6 @@ ai_assist:
 ---
 
 *Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle.*
-
-# Comment repenser l'évaluation pour qu'une note me dise encore quelque chose de défendable sur ce que l'étudiant sait ou sait faire ?
 
 **Commencez par énoncer explicitement quelle capacité la note est censée représenter.** Évaluez-vous ce qu'un étudiant peut faire de manière autonome, ce qu'il peut accomplir de manière appropriée avec l'IA, sa capacité à évaluer et à diriger l'IA, ou une combinaison de ces éléments ? La page [[assessment-validity|Validité de l'évaluation]] de la base de connaissances traite cela comme un problème de validité : une production soignée n'est plus une preuve suffisante que l'étudiant possède la capacité apparemment démontrée par cette production. C'est la moitié « évaluation » du même argument ; la moitié « application » se trouve dans [[reduce-ai-cheating]], et le cadre général de validité traverse [[evaluating-ai-interventions-methods]].
 

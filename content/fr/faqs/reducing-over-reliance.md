@@ -1,7 +1,7 @@
 ---
 title: "Comment éviter que les étudiants ne dépendent excessivement de l'IA ?"
 created: "2026-09-22T19:14:32-04:00"
-updated: "2026-10-09T18:10:00-04:00"
+updated: "2026-10-24T10:43:38-04:00"
 weight: 80
 type: faq
 foundations: [cognitive-offloading, reducing-ai-misuse]
@@ -11,7 +11,7 @@ ethics: [trust-calibration]
 research_method: [literature review, experiment]
 audience: [instructors, instructional designers]
 level: [higher ed, secondary, k 12]
-source_updated: "2026-10-02T08:21:34-04:00"
+source_updated: "2026-10-21T14:32:00-04:00"
 translation_of: faqs/reducing-over-reliance
 translation_note: "Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle."
 contributors: [editor]
@@ -27,8 +27,6 @@ ai_assist:
 ---
 
 *Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle.*
-
-# Comment éviter que les étudiants ne dépendent excessivement de l'IA ?
 
 Vous avez des travaux notés qui se lisent mieux que ce que l'étudiant sait expliquer. Ils réussissent parfaitement la série d'exercices à faire à la maison et restent muets à l'examen. Les notes ont cessé de prédire ce qu'ils comprennent, et vous soupçonnez l'outil de faire la réflexion à leur place.
 

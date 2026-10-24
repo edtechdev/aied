@@ -1,7 +1,7 @@
 ---
 title: "Référentiel"
 created: "2026-08-09T16:52:03-04:00"
-updated: "2026-10-10T03:05:33-04:00"
+updated: "2026-10-24T10:47:05-04:00"
 type: concept
 technology: [generative-ai, llm]
 assessment: [assessment]
@@ -10,7 +10,7 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation, benchmark]
 translation_of: concepts/benchmark
-source_updated: "2026-10-09T09:50:00-04:00"
+source_updated: "2026-10-23T09:35:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -41,6 +41,7 @@ Les référentiels servent de fondement probant à la [[ai-education|recherche e
 - **Les [[teaching-feedback-classification-benchmark|référentiels de rétroaction à l'enseignement]]** évaluent le transfert interlangues de la classification de l'[[ai-feedback-quality|qualité de la rétroaction]].
 - **[[cdpk-pedagogy-benchmark-llms|Le Pedagogy Benchmark (CDPK + SEND)]]** teste les connaissances pédagogiques — les stratégies d'enseignement, les [[assessment|méthodes d'évaluation]] et la pédagogie de l'[[special-education|éducation spécialisée]] — plutôt que les connaissances disciplinaires, et rapporte une « frontière de valeur » coût–exactitude sur 97 modèles (la plupart des référentiels généraux testent les connaissances disciplinaires ; la pédagogie est une dimension distincte et cruciale pour l'éducation).
 - **[[jeon-isd-agent-bench-2026|ISD-Agent-Bench]]** sert de référentiel aux agents de [[learning-design|conception pédagogique]] fondés sur les [[llm|LLM]], sur 25.795 scénarios de conception pédagogique, montrant que les agents hybrides ancrés dans les cadres classiques de conception pédagogique (ADDIE, Dick & Carey, Rapid Prototyping) surpassent la pure théorie comme la pure technique — un résultat de référentiel aux implications directes pour la conception d'[[agentic-ai|IA agentique]] en éducation.
+- **[[tutor-case-bench-challenging-behaviors-2026|TutorCaseBench]]** ancre l'évaluation des tuteurs dans la littérature de cas documentée plutôt que dans des personas simulés : 923 dialogues issus de cas d'éducation spécialisée et de psychologie de l'éducation, où le plus fort de 11 modèles a rencontré une intervention documentée dans 55.8% des cas ouverts.
 - **L'adaptation à l'apprenant comme critère explicite du référentiel.** Le Teaching Monster Challenge évalue l'adaptation à un persona d'apprenant spécifié, mais son juge LLM automatisé n'a séparé qu'une faible queue de distribution — les meilleurs systèmes ont atteint presque son plafond et son classement était en désaccord avec la préférence de la foule (Spearman ρ = −0.17) ([[teaching-monster-pck-benchmark-2026|Lin et al. (2026)]]).
 
 ### Why benchmarks matter in AIED
@@ -82,25 +83,26 @@ Les référentiels rejoignent l'[[ai-ed-evaluation|évaluation d'une interventio
 
 ## Articles liés
 
+- [[tutor-case-bench-challenging-behaviors-2026]] — TutorCaseBench : évaluer les tuteurs LLM face à des étudiants aux comportements difficiles (Park et al. 2026)
 - [[standardized-assessment-llm-english-proficiency-2026]] — Un référentiel de compétence en anglais de 624 items qui rapporte la capacité du modèle comme un niveau calibré (Min et al. 2026)
 - [[omniphys-multimodal-physics-benchmark-2026]]
-- [[assessment-latent-structure-human-llm-2026]] — Do assessment instruments measure the same thing for humans and LLMs? (Strugatski et al. 2026)
-- [[cdpk-pedagogy-benchmark-llms]] — The Pedagogy Benchmark: LLM pedagogical knowledge (CDPK + SEND)
+- [[assessment-latent-structure-human-llm-2026]] — Les instruments d'évaluation mesurent-ils la même chose pour les humains et les LLM ? (Strugatski et al. 2026)
+- [[cdpk-pedagogy-benchmark-llms]] — Le Pedagogy Benchmark : connaissances pédagogiques des LLM (CDPK + SEND)
 - [[jeon-isd-agent-bench-2026]] — ISD-Agent-Bench: benchmarking LLM-based instructional-design agents
 - [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — Assistants de base de connaissances en OER sur site : référentiel multidimensionnel
-- [[authentic-products-authenticated-processes-2026]] — From authentic products to authenticated processes: authentic assessment in AI-rich higher education
-- [[llm-cognitive-diagnosis-handwritten-math]] — Benchmarking Large Language Models for Diagnosing Students' Cognitive Skills from Handwritten Math Work
-- [[educlaw-bench-pedagogical-llm-agents-2026]] — EduClaw-Bench: A Long-Horizon Benchmark for Pedagogical LLM Agents with Simulated Learners
-- [[responsible-assessment-ai-era-stanford-2026]] — Responsible Assessment in the AI Era: Key Insights from a Future-Focused Conference
-- [[anvil-ai-educational-animations]] — ANVIL: Analogies and Videos for Lecturers
+- [[authentic-products-authenticated-processes-2026]] — Des produits authentiques aux processus authentifiés : l'évaluation authentique dans l'enseignement supérieur riche en IA
+- [[llm-cognitive-diagnosis-handwritten-math]] — Évaluer les grands modèles de langue pour le diagnostic des compétences cognitives des étudiants à partir de travaux mathématiques manuscrits
+- [[educlaw-bench-pedagogical-llm-agents-2026]] — EduClaw-Bench : un référentiel à long horizon pour les agents LLM pédagogiques avec des apprenants simulés
+- [[responsible-assessment-ai-era-stanford-2026]] — L'évaluation responsable à l'ère de l'IA : enseignements clés d'une conférence prospective
+- [[anvil-ai-educational-animations]] — ANVIL : analogies et vidéos pour les enseignants
 - [[icle-plus-plus-essay-scoring]] — ICLE++: Modeling Fine-Grained Traits for Holistic Essay Scoring
 - [[teaching-monster-pck-benchmark-2026]]
 - [[cfes-p24-multimodal-slide-auditing-2026]] — CFES-P24: Benchmarking Multimodal LLMs for Slide Auditing
 - [[diagramir-educational-math-diagram-evaluation]] — DiagramIR: benchmark for evaluating generated math diagrams
 - [[eeg-familiarity-automated-assessment-2026]] — Automating Learner Assessment: EEG-Based Familiarity Prediction
-- [[algorag-rag-theoretical-cs-education-2026]] — AlgoRAG: Retrieval-Augmented Generation for Theoretical Computer Science Education -- A Comprehensive Evaluation Framework for Algorithm Analysis and Complexity Theory
-- [[muse-vlm-artistic-image-benchmark-2026]] — MUSE: annotation-first, task-generative benchmark construction, and dimension-level non-redundancy across 12 artistic-imagery tasks (Zhu et al. 2026)
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: AI and human tutoring yield equivalent GRE learning gains
-- [[bloom-classifier-ai-assisted-questions-2026]] — Evaluation of pre-trained models for pedagogical assessment of novel AI-assisted educational questions
-- [[llm-benchmark-secondary-science-topics-2026]] — A Benchmark for LLM's Understanding of Middle School and High School Science Topics
-- [[llm-tutor-pedagogical-metric-degradation-2026]] — Eight design principles for AI-tutor benchmarks, derived from a metric that was optimized into repetition (Domínguez Figaredo & Fernández De la Cruz 2026)
+- [[algorag-rag-theoretical-cs-education-2026]] — AlgoRAG : génération augmentée par récupération pour l'enseignement de l'informatique théorique, cadre d'évaluation complet pour l'analyse d'algorithmes et la théorie de la complexité
+- [[muse-vlm-artistic-image-benchmark-2026]] — MUSE : construction de référentiels par annotation d'abord et génération de tâches, et non-redondance au niveau des dimensions sur 12 tâches d'imagerie artistique (Zhu et al. 2026)
+- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench : le tutorat par IA et le tutorat humain produisent des gains d'apprentissage équivalents au GRE
+- [[bloom-classifier-ai-assisted-questions-2026]] — Évaluation de modèles pré-entraînés pour l'évaluation pédagogique de nouvelles questions éducatives assistées par IA
+- [[llm-benchmark-secondary-science-topics-2026]] — Un benchmark pour la compréhension par les LLM des contenus scientifiques du collège et du lycée
+- [[llm-tutor-pedagogical-metric-degradation-2026]] — Huit principes de conception pour les référentiels de tuteurs IA, dérivés d'une métrique optimisée jusqu'à la répétition (Domínguez Figaredo & Fernández De la Cruz 2026)

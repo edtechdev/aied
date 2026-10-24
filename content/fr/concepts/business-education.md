@@ -1,7 +1,7 @@
 ---
 title: "Enseignement de la gestion et du management"
 created: "2026-08-20T09:05:00-04:00"
-updated: "2026-10-10T03:05:33-04:00"
+updated: "2026-10-24T10:44:44-04:00"
 type: concept
 foundations: [ai-education, curriculum-design]
 technology: [generative-ai]
@@ -9,7 +9,7 @@ discipline: [business education]
 level: [higher ed]
 confidence: high
 translation_of: concepts/business-education
-source_updated: "2026-10-07T09:45:00-04:00"
+source_updated: "2026-10-16T08:47:09-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -45,8 +45,10 @@ L'IA dans l'enseignement de la gestion est un volet [[discipline-specific-aied|d
 - **L'adoption organisationnelle.** [[alrahmi-org-drivers-ai-adoption-he-2026|Al-Rahmi (2026)]] a examiné les facteurs organisationnels et technologiques de l'adoption de l'IA dans l'[[higher-ed|enseignement supérieur]] (au moyen des cadres TOE et Diffusion of Innovations, n=300 membres du personnel), ce qui éclaire la manière dont les écoles de commerce et leurs établissements adoptent l'aide à la décision fondée sur l'IA et les plateformes d'apprentissage intelligentes.
 - **Les agents conversationnels dans les jeux de [[simulation|simulation]] commerciale.** [[conversational-agents-business-simulation-gaming-2026|Wenzel, Geiger et Liening (2026)]] développent et évaluent un [[conversational-ai|agent conversationnel]] enrichi par l'IA (Lara) pour un soutien pédagogique adaptatif dans les jeux de simulation commerciale utilisés pour l'apprentissage entrepreneurial expérientiel. Ancré dans une posture d'[[equity-in-ai-education|équité]] par la conception et de [[universal-design-for-learning|conception universelle de l'apprentissage]], le cadre CAIS-GBL vise l'[[student-engagement|engagement]] cognitif, [[motivation|motivationnel]], [[affective-computing|affectif]] et [[sociocultural-learning|socioculturel]], les évaluations menées auprès d'étudiants enseignants et de participants aux jeux de simulation commerciale montrant des perceptions positives de la présence cognitive/[[community-of-inquiry|sociale]] et du soutien à l'[[self-regulated-learning|apprentissage autorégulé]] — un modèle pour passer à l'échelle une rétroaction [[formative-assessment|formatif]] dans l'enseignement commercial [[game-based-learning|fondé sur la simulation]].
 - **L'IA générative agentique pour les tâches appliquées complexes.** [[ilieva-agentic-genai-higher-education-2026|Ilieva et al. (2026)]] développent le cadre AGAI-HE autour d'un cours de **commerce électronique**, où la tâche d'apprentissage exige de comparer des modèles d'affaires, de peser des contraintes de marché et opérationnelles, et de défendre des recommandations stratégiques — un travail appliqué en plusieurs étapes que les chatbots d'interrogation-réponse soutiennent mal. Leur étude de perception menée auprès de 130 étudiants a constaté que tant le chatbot que le soutien agentique étaient notés au-dessus de l'[[online-teaching-and-learning|apprentissage en ligne]] traditionnel pour l'amélioration de l'apprentissage, la personnalisation, le soutien à la décision et l'organisation du travail, sans différence significative entre agent et chatbot, l'approbation la plus forte allant à la combinaison des trois modes. Pour les programmes de gestion, la lecture est que l'adoption est une question de [[curriculum-design|conception pédagogique]] portant sur la manière dont le soutien de l'IA est séquencé et encadré, et non une simple mise à niveau d'outillage ([[agentic-ai]]).
+- **Un agent conversationnel [[rag|RAG]] conçu pour le cours a déplacé les attentes, pas les résultats.** Dans un [[rct|essai aléatoire]] d'un semestre auprès de 454 étudiants de premier cycle d'un cours de Principles of Marketing, [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026|Thoeni et Fryer (2026)]] n'ont trouvé aucun effet significatif groupe × temps sur l'intérêt, l'[[self-efficacy|auto-efficacité]], l'engagement ou la performance au test, bien que les étudiants se soient connectés 0.89 fois par semaine et aient évalué leur plaisir à 80.4.
 - **L'innovation en matière d'évaluation et de notation est peu étudiée.** [[mesny-innovative-assessment-grading-management-2026|Mesny, Roberge-Maltais et Galy (2026)]] ont passé en revue 58 articles portant sur l'évaluation sur 20 ans, dans quatre revues de premier plan en enseignement du management (AMLE, JME, Management Learning, IJME) — environ trois par an, dont beaucoup dans des numéros spéciaux de 2010 et 2014 — constatant que l'évaluation et la notation sont peu étudiées au regard de leur rôle central dans le façonnement de l'apprentissage. L'auto-évaluation et l'évaluation par les pairs dominent le discours (près de la moitié du corpus, principalement pour l'évaluation [[summative-assessment|sommative]] du [[group-work|travail en groupe]]) ; l'[[authentic-assessment|évaluation authentique]] apparaît surtout via les [[simulation|simulations]] médiatisées par la technologie et est souvent confondue avec l'[[experiential-learning|apprentissage expérientiel]] ; la réévaluation, la notation fondée sur les standards et l'abandon des notes (ungrading) sont quasi absentes. Les auteurs invitent les enseignants en management à s'engager plus activement et réciproquement avec ces innovations, recommandant une expérimentation incrémentale (devoirs non notés, réévaluation pour une seule tâche, grilles fondées sur les standards) soutenue par une coordination au niveau du programme et des preuves documentées issues du Scholarship of Teaching and Learning.
 - **La notation automatisée des travaux de gestion exige une validation propre au corpus.** Sur 60 publications marketing d'étudiants issues d'une simulation BrandSim, [[automated-scoring-marketing-posts-agreement-2026|Li (2026)]] a constaté qu'un [[llm|LLM]] n'atteignait qu'un ICC(2,1) = .435 avec la moyenne humaine — les règles déterministes .091, un hybride à poids égaux .266 — alors que l'ajout de repères rédigés par le chercheur faisait monter le LLM à .846 sans modifier aucune note d'étudiant.
+- **Une alternative en enseignement de la gestion note le processus, pas le sujet.** Dans un apprentissage de première année du diplôme de Business Analyst, la notation exigeait une itération documentée et une [[collaborative-learning|collaboration]] entre pairs, et les étudiants qui recouraient à l'IA générative contestaient ses contre-arguments plutôt que de les reprendre tels quels ([[alam-process-oriented-collaborative-essays-2026|Alam & Jackson, 2026]]).
 - **Enseigner l'IA comme élément de conception de processus à part entière.** [[ai-decision-checkpoints-bpm-education-2026|Jalali (2026)]] place un point de contrôle des décisions d'IA à chaque phase du cycle de vie de la gestion des processus d'affaires, dans six modules d'un cours de 152 étudiants, si bien que les étudiants construisent un agent fonctionnel de prise en charge par LLM puis découvrent, à un point de contrôle, que le véritable goulot d'étranglement est une file d'attente à deux personnes pour les enquêtes anti-fraude.
 
 ## Economics and management education
@@ -81,14 +83,16 @@ La gestion est l'un des domaines où l'adoption de l'IA générative est la plus
 
 ## Articles liés
 
-- [[ai-decision-checkpoints-bpm-education-2026]] — AI-Decision Checkpoints for AI-Augmented Business Process Management: Framework and Educational Instantiation
-- [[ilieva-agentic-genai-higher-education-2026]] — AGAI-HE: agentic GAI support in an e-commerce course, perceived benefits and risks (Ilieva et al. 2026)
+- [[ai-decision-checkpoints-bpm-education-2026]] — Points de contrôle des décisions d'IA pour la gestion des processus d'affaires augmentée par l'IA : cadre et mise en œuvre pédagogique
+- [[ilieva-agentic-genai-higher-education-2026]] — AGAI-HE : soutien de l'IA générative agentique dans un cours de commerce électronique, bénéfices et risques perçus (Ilieva et al. 2026)
 - [[drummond-genai-business-schools-framework-2026]] — Student-informed framework for GenAI in business schools (Drummond & Dale 2026)
-- [[espino-ai-business-education-review-2026]] — A decade of AI in business education (Espino & Espino 2026)
-- [[zhou-constructive-alignment-genai-business-2026]] — Constructive alignment of GenAI in business higher education (Zhou et al. 2026)
-- [[rook-plumb-genai-curricula-student-insights-2026]] — Student insights on integrating GenAI into curricula (Rook & Plumb 2026)
-- [[alrahmi-org-drivers-ai-adoption-he-2026]] — Organizational drivers of AI adoption in higher education (Al-Rahmi 2026)
+- [[espino-ai-business-education-review-2026]] — Une décennie d'IA dans l'enseignement de la gestion (Espino & Espino 2026)
+- [[zhou-constructive-alignment-genai-business-2026]] — Alignement constructif de l'IA générative dans l'enseignement supérieur de la gestion (Zhou et al. 2026)
+- [[rook-plumb-genai-curricula-student-insights-2026]] — Regards étudiants sur l'intégration de l'IA générative dans les programmes (Rook & Plumb 2026)
+- [[alrahmi-org-drivers-ai-adoption-he-2026]] — Facteurs organisationnels de l'adoption de l'IA dans l'enseignement supérieur (Al-Rahmi 2026)
 - [[conversational-agents-business-simulation-gaming-2026]] — Cadre CAIS-GBL pour les agents conversationnels d'IA dans les jeux de simulation commerciale (Wenzel et al. 2026)
 - [[mesny-innovative-assessment-grading-management-2026]]
 - [[automated-scoring-marketing-posts-agreement-2026]] — Accord et erreur dans la notation automatisée de publications marketing d'étudiants
 - [[shi-genai-experiential-learning-management-education-2026]] — trois mécanismes d'IA générative pour reconfigurer la pédagogie de l'enseignement du management
+- [[alam-process-oriented-collaborative-essays-2026]] — Essais collaboratifs orientés processus dans un apprentissage de Business Analyst : noter l'itération documentée, pas le sujet
+- [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026]] — Un agent conversationnel RAG conçu pour le cours a déplacé les attentes, pas les résultats

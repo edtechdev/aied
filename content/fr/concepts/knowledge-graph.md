@@ -1,7 +1,7 @@
 ---
 title: "Graphe de connaissances"
 created: "2026-08-09T16:55:17-04:00"
-updated: "2026-10-10T03:26:10-04:00"
+updated: "2026-10-24T10:51:33-04:00"
 type: concept
 foundations: [ai-education, curriculum-design]
 technology: [generative-ai, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, student-modeling]
@@ -75,11 +75,11 @@ Les graphes de connaissances sont liés au [[learning-design|design pédagogique
 - [[llm]]
 - [[rag]]
 - [[agentic-ai]]
-- [[ai-technologies]] — Umbrella: AI technologies and techniques (models, LLM training, robotics, RAG, agentic)
+- [[ai-technologies]] — Parapluie : technologies et techniques d'IA (modèles, entraînement des LLM, robotique, RAG, agentique)
 - [[recommender-systems-and-learning-paths]]
 ## Articles liés
 
-- [[incipit-axiom-grounded-scaffolding-literary-creation-2026]] — A curator-built graph of 1,455 literary axioms with a structural audit and no provenance record (Liu & Zhao 2026)
+- [[incipit-axiom-grounded-scaffolding-literary-creation-2026]] — Un graphe de 1 455 axiomes littéraires construit par un curateur, avec un audit structurel et sans registre de provenance (Liu & Zhao 2026)
 - [[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026]] — Ontology-based layered hybrid knowledge model for personalized e-learning
 - [[learnity-graphs-lifelong-learning-framework-2026]] — Learnity graphs for lifelong learning
 - [[veriforge-narrative-drafting-scaffolding-2026]] — Veriforge: narrative-drafting scaffolds
@@ -89,7 +89,7 @@ Les graphes de connaissances sont liés au [[learning-design|design pédagogique
 - [[proprl-prerequisite-relation-learning]] — ProPrL: prerequisite-relation learning
 - [[knowledge-gap-detection-ai-tas]] — Knowledge-gap detection in AI teaching assistants
 - [[visual-query-tracer-declarative-logic-learning]] — Visual query tracer for declarative logic learning
-- [[fair-explainable-edu-recommendations]] — Fair and explainable educational recommendations
+- [[fair-explainable-edu-recommendations]] — Recommandations éducatives équitables et explicables
 - [[hybrid-cf-kg-recommendation-multimodal-teaching-2026]] — Hybrid CF–KG cross-domain recommendation for multimodal teaching resources
 - [[xie-hillm-cd-2026]] — HiLLM-CD: LLM-driven cognitive diagnosis
 - [[graph-its-adaptive-algorithms-2026]] — Graph-Based Intelligent Tutoring for Dynamic Domains (2026)

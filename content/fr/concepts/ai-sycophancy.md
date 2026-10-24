@@ -1,7 +1,7 @@
 ---
 title: "Sycophancie de l'IA"
 created: "2026-08-18T16:45:00-04:00"
-updated: "2026-10-10T02:17:25-04:00"
+updated: "2026-10-24T10:43:44-04:00"
 type: concept
 connected_faqs: [training-ai-tutors-to-guide-rather-than-answer]
 foundations: [ai-literacy, cognitive-offloading]
@@ -10,7 +10,7 @@ assessment: [feedback]
 ethics: [ai-sycophancy, ethics, hallucination-risk, trust, pedagogical-safety]
 confidence: high
 translation_of: concepts/ai-sycophancy
-source_updated: "2026-10-02T08:08:45-04:00"
+source_updated: "2026-10-21T21:15:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -22,7 +22,7 @@ ai_assist:
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
 
-**La sycophancie de l'IA** est la tendance des [[llm|grands modèles de langue]] à affirmer un utilisateur ou à être d'accord avec lui — en flatant ses opinions, en reflétant ses erreurs ou en retenant la rétroaction corrective — plutôt qu'à fournir des réponses exactes et épistémiquement indépendantes. En éducation, ce n'est pas un défaut mineur d'[[usability-research|utilisabilité]], mais un risque distinct de sécurité et d'apprentissage : un [[intelligent-tutoring|tuteur]] qui valide toujours la réponse de l'étudiant, un assistant qui ne conteste jamais, ou un compagnon qui préfère le sentiment d'être compris à celui d'être correct peuvent enraciner les idées fausses, alimenter le [[cognitive-offloading|recours excessif]] et déformer le développement social et épistémique des [[learners|apprenants]].
+> **Sycophancie de l'IA** — la tendance des [[llm|grands modèles de langue]] à affirmer un utilisateur ou à être d'accord avec lui : flatter ses opinions, refléter ses erreurs ou retenir la rétroaction corrective plutôt que de donner une réponse épistémiquement indépendante. En [[ai-education|IA en éducation]], c'est un risque distinct de sécurité et d'apprentissage plutôt qu'un défaut mineur d'[[usability-research|utilisabilité]], parce qu'un [[intelligent-tutoring|tuteur]] qui valide toujours la réponse, un assistant qui ne conteste jamais, ou un compagnon qui préfère être compris à avoir raison peuvent enraciner les [[misconceptions|idées fausses]], alimenter le [[cognitive-offloading|délestage cognitif]] et déformer le développement social et épistémique des [[learners|apprenants]].
 
 ## Questions à examiner
 

@@ -1,7 +1,7 @@
 ---
 title: "La théorie de l'autodétermination"
 created: "2026-08-10T17:38:45-04:00"
-updated: "2026-10-10T03:24:45-04:00"
+updated: "2026-10-24T10:38:10-04:00"
 type: concept
 foundations: [ai-education, teacher-ai-competency]
 pedagogy: [motivation, self-determination-theory]
@@ -9,7 +9,7 @@ technology: [affective-computing]
 audience: [learners]
 confidence: high
 translation_of: concepts/self-determination-theory
-source_updated: "2026-09-30T12:53:22-04:00"
+source_updated: "2026-10-17T07:38:51-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -44,6 +44,8 @@ Le **développement professionnel des enseignants fondé sur la SDT** applique l
 
 Un résultat de classe contrasté montre que ces besoins n'évoluent pas ensemble : parmi 2,464 élèves des premières années du secondaire, un apprentissage par compétences soutenu par ChatGPT a accru le soutien à l'autonomie et la satisfaction du besoin de compétence, tout en produisant une plus grande part de profils motivationnels de faible qualité, et la satisfaction du besoin d'appartenance était plus faible que dans un apprentissage par compétences sans IA ([[student-motivation-need-satisfaction-genai-sdt-2026|Schweder, Hagenauer & Raufelder (2026)]]).
 
+L'autonomie, et non la facilité, portait ici le gain motivationnel. Un [[rct|essai randomisé]] à trois bras a constaté qu'un tuteur qui retient ses indices, laissant les apprenants construire leur propre solution, était le seul bras à augmenter la motivation intrinsèque (2,82 contre 2,42), tandis que ChatGPT sans restriction, qui fournit la réponse, ne le faisait pas (2,64, p = ,076) ([[bassner-performance-learning-dissociation-ai-programming-2026|Bassner et coll. (2026)]]).
+
 Un test configurationnel aiguise le constat : parmi 498 étudiants en médecine de premier cycle, l'usage de l'IA générative n'était que faiblement associé à la satisfaction des besoins (β = 0.155) et s'est révélé inutile pour un engagement élevé, tandis que la satisfaction du besoin de compétence constituait la condition centrale de la configuration la plus forte ([[genai-learning-engagement-medical-undergraduates-2026|He et al. (2026)]]).
 
 **Double cheminement du climat d'apprentissage vers l'usage de l'IA.** [[dual-ai-learning-pathways-sdt-2026|Shen et Arunrugstichai (2026)]] intègrent la SDT au modèle Hook de l'engagement comportemental pour expliquer pourquoi l'usage de l'IA générative va d'un soutien constructif à une dépendance compulsive. Dans des données d'enquête transversales portant sur **508 étudiants universitaires** aux origines de lycée et aux contextes actuels différents (Chine et Thaïlande), les déclarations rétrospectives de **pression au lycée contre soutien à l'autonomie** ont prédit différentiellement lequel des deux cheminements les étudiants suivaient à l'université — l'un vers un usage constructif et autonome de l'IA générative, l'autre vers une dépendance compulsive — avec des résultats cohérents dans les analyses multigroupes intercontextuelles. Le modèle relie les processus motivationnels de la SDT à la qualité perçue de l'apprentissage soutenu par l'IA, en faisant du soutien à l'autonomie un levier qui oriente les élèves vers un usage productif plutôt que dépendant de l'IA.
@@ -77,7 +79,7 @@ La SDT se relie directement à la [[motivation]] comme construct parent, à l'[[
 - [[ai-education]]
 - [[learning-theories]]
 ## Articles liés
-- [[family-school-autonomy-support-genai-2026]] — Family-School Autonomy Support for Children's Responsible Use of Generative AI
+- [[family-school-autonomy-support-genai-2026]] — Soutien à l'autonomie famille-école pour un usage responsable de l'IA générative par les enfants
 - [[dual-ai-learning-pathways-sdt-2026]] — Pression au lycée / soutien à l'autonomie et double cheminement d'apprentissage avec l'IA (Shen & Arunrugstichai 2026)
 - [[reclaiming-epistemic-agency-co-agency-2026]]
 - [[claassen-learning-analytics-genai-learning-design-2026]] — Learning analytics et IA générative dans la prise de décision en conception pédagogique
@@ -91,3 +93,4 @@ La SDT se relie directement à la [[motivation]] comme construct parent, à l'[[
 
 - [[genai-learning-engagement-medical-undergraduates-2026]] — L'usage de l'IA générative est faiblement lié à la satisfaction des besoins et inutile pour un engagement élevé (He et al. 2026)
 - [[teacher-ai-collaboration-work-engagement-2026]] — Double cheminement de la collaboration enseignant-IA vers l'engagement au travail, modéré par la compétence numérique
+- [[bassner-performance-learning-dissociation-ai-programming-2026]] — Un tuteur qui retient ses indices préservait l'autonomie là où la fourniture de réponses ne le faisait pas

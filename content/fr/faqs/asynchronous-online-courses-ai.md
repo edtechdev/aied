@@ -1,7 +1,7 @@
 ---
 title: "Comment concevoir et animer des cours en ligne asynchrones quand l'IA peut faire le travail ?"
 created: "2026-09-22T19:10:56-04:00"
-updated: "2026-10-09T18:10:00-04:00"
+updated: "2026-10-24T10:43:33-04:00"
 weight: 68
 type: faq
 foundations: [academic-integrity, cognitive-offloading, learning-design]
@@ -12,7 +12,7 @@ methods: [meta-analysis-systematic-review, rct, mixed-methods-research, design-b
 ethics: [guardrails]
 audience: [instructors, instructional designers]
 level: [higher ed, adult learning]
-source_updated: "2026-10-02T08:21:34-04:00"
+source_updated: "2026-10-21T14:32:00-04:00"
 translation_of: faqs/asynchronous-online-courses-ai
 translation_note: "Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle."
 contributors: [editor]
@@ -28,8 +28,6 @@ ai_assist:
 ---
 
 *Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle.*
-
-# Comment concevoir et animer des cours en ligne asynchrones quand l'IA peut faire le travail ?
 
 Vous avez déjà fait la découverte qui force cette question. Quelque part dans votre cours asynchrone se trouve un travail dont la première version est désormais gratuite (une publication de discussion, une réflexion, une analyse de cas, un ensemble de problèmes), et le travail qui arrive est fluide, pertinent et ne vous dit rien de ce que l'étudiant sait faire. Vous n'êtes pas dans la salle pour voir la réflexion se produire, et l'artefact qui la représentait ne le fait plus.
 

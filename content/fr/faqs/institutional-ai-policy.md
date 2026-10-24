@@ -1,7 +1,7 @@
 ---
 title: "Comment rédiger et mettre en œuvre une politique institutionnelle sur l'IA ?"
 created: "2026-09-22T19:12:18-04:00"
-updated: "2026-10-09T18:10:00-04:00"
+updated: "2026-10-24T10:37:31-04:00"
 weight: 65
 type: faq
 ethics: [equity-in-ai-education, ethics, privacy]
@@ -9,7 +9,7 @@ research_method: [policy analysis, literature review, delphi]
 audience: [administrators, policymakers, institutions]
 level: [higher ed]
 institutions: [change-management, educational-policy-ai, governance]
-source_updated: "2026-10-02T08:21:34-04:00"
+source_updated: "2026-10-21T14:32:00-04:00"
 translation_of: faqs/institutional-ai-policy
 translation_note: "Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle."
 contributors: [editor]
@@ -25,8 +25,6 @@ ai_assist:
 ---
 
 *Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle.*
-
-# Comment rédiger et mettre en œuvre une politique institutionnelle sur l'IA ?
 
 Vous êtes le ou la provost, le doyen ou la doyenne, le responsable de la gouvernance, le directeur ou la directrice d'un centre d'appui à l'enseignement ou le président ou la présidente d'une commission qui doit produire ou défendre cette politique, et répondre à un collègue qui la trouve trop stricte ou trop vague. L'essentiel, sans détour : publier une politique est la partie facile, et un document seul ne change rien. La plupart des établissements ont déjà répondu à la question de savoir s'il en fallait une en en publiant une, et le parc qui en résulte est vaste mais superficiel : consultatif plutôt que contraignant, centré sur l'intégrité académique, et pauvre sur les questions de données, d'équité et de capacités qui décident si l'usage de l'IA se passe bien. Ce qui sépare une politique défendable d'un document qui prend la poussière, c'est un responsable nommé, un calendrier de révision, un chemin de traduction vers les cours et une conception de l'évaluation qui récompense le comportement que vous demandez.
 

@@ -1,7 +1,7 @@
 ---
 title: "Pédagogie culturellement pertinente"
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-10-10T03:24:44-04:00"
+updated: "2026-10-24T10:47:05-04:00"
 type: concept
 foundations: [ai-literacy, curriculum-design]
 technology: [generative-ai, intelligent-tutoring, llm]
@@ -10,7 +10,7 @@ audience: [learners]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/culturally-relevant-pedagogy
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-23T22:38:41-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -67,6 +67,7 @@ En s'appuyant sur les articles mêmes de la base de connaissances, les éducateu
 - **Superposez un contexte démographique et culturel dans les invites et les outils.** CulturAIEd et [[connected-ai-lesson-planning-vietnam|ConnectED]] (un système vietnamien de planification des leçons aligné sur le programme) montrent que des modèles d'invites structurés et localement ancrés, associés à des contrôles de validation par l'enseignant, améliorent l'adéquation culturelle par rapport à une génération générique.
 - **Placez le savoir communautaire comme étalon d'évaluation.** Suivant l'apprentissage de l'IA ancré dans la communauté, faites juger par les apprenants les productions de l'IA à l'aune de critères localement ancrés de pertinence, de tort et d'utilité, et honorez les contextes où le refus ou la non-utilisation est le bon choix.
 - **Adoptez et évaluez des jeux de données culturellement ancrés.** IKS-Instruct et NSMQ Riddles illustrent que des données non occidentales, propres à un [[discipline-specific-aied|domaine]], améliorent significativement à la fois la pertinence et l'honnêteté de l'évaluation.
+- **Faites interroger l'enseignant par l'IA avant qu'elle ne rédige.** [[zhai-science-literacy-generative-ai-coherence-2026|Zhai et coll. (2026)]] décrivent un planificateur de leçons culturellement adapté dont l'architecture d'invites semi-automatisée et interactive pose d'abord des questions sur le contexte et la culture, puis rédige à partir des réponses de l'enseignant lui-même plutôt que de produire un plan générique.
 
 ## Concepts liés
 
@@ -87,6 +88,7 @@ En s'appuyant sur les articles mêmes de la base de connaissances, les éducateu
 
 ## Articles liés
 
+- [[zhai-science-literacy-generative-ai-coherence-2026]] — Un planificateur de leçons qui interroge les enseignants sur le contexte culturel avant de rédiger (Zhai et coll. 2026)
 - [[llm-cultural-relevance-k12]] — Les LLM au service d'une pédagogie culturellement pertinente de la maternelle à la terminale
 - [[civic-education-ai-lesson-plans]] — Plans de leçon générés par l'IA en éducation civique
 - [[ojeda-ramirez-community-based-ai-learning]] — Apprentissage de l'IA ancré dans la communauté

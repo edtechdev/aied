@@ -1,7 +1,7 @@
 ---
 title: "Parties prenantes"
 created: "2026-08-19T17:50:00-04:00"
-updated: "2026-10-10T03:05:58-04:00"
+updated: "2026-10-24T10:38:14-04:00"
 type: concept
 foundations: [ai-literacy, learning-design, teacher-role]
 audience: [instructors, learners, administrators]
@@ -105,4 +105,4 @@ L'identité est l'ancre humaine du paysage des parties prenantes : c'est ce que 
 - [[student-rationalization-ai-writing]] — La rationalisation par les étudiants de leur usage de l'IA en écriture académique
 - [[ai-changing-teaching-workflows]] — Comment l'IA transforme les flux de travail enseignants
 - [[beyond-hype-stakeholder-perceptions-genai-2026]] — Perceptions de l'IA générative par les parties prenantes de l'enseignement supérieur (Humble & Mozelius 2026)
-- [[edtech-privacy-deferral-2026]] — "We'll Fix It Later": Education, AI, and the Deferral of Student Privacy in EdTech
+- [[edtech-privacy-deferral-2026]] — « On verra plus tard » : l'éducation, l'IA et le report de la vie privée des étudiants dans les technologies éducatives

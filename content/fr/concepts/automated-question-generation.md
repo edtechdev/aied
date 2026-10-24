@@ -2,7 +2,7 @@
 connected_resources: [teacherserver]
 title: "Génération automatisée de questions"
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-10-10T03:05:33-04:00"
+updated: "2026-10-24T10:43:16-04:00"
 type: concept
 technology: [adaptive-learning, educational-nlp, generative-ai, llm, personalized-learning]
 assessment: [assessment, automated-assessment, automated-question-generation, educational-measurement, formative-assessment]
@@ -119,10 +119,10 @@ L'AQG est un levier clé de l'[[adaptive-learning|apprentissage adaptatif]] et d
 - [[llm-chatbots-cs-multiple-choice]] — Chatbots LLM et items à choix multiples d'informatique
 - [[socratic-tests-conversational-assessment]] — Tests socratiques : évaluation conversationnelle
 - [[llm-turing-test-italian-legal-exams-2026]] — Test de Turing par LLM dans des examens de droit italiens
-- [[razavi-powers-item-difficulty-llm-2026]] — Estimating item difficulty using LLMs and tree-based ML
+- [[razavi-powers-item-difficulty-llm-2026]] — Estimation de la difficulté des items à l'aide de LLM et d'apprentissage automatique arborescent
 - [[proiqa-math-item-quality-assessment-2026]] — ProIQA: Process-Based Math Item Quality Assessment
-- [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn: An Agentic Tutor that Learns its Learner in a Human-AI Co-Learning Loop
-- [[automated-constructive-assessment-hdr-llm-2026]] — Automating Constructive Assessment with Large Language Models: Toward Scalable and Repeated Evaluation of Practical Competence
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — Student Use of LLMs and the Limits of AI-Generated Question Difficulty in Data Science Courses
-- [[bloom-classifier-ai-assisted-questions-2026]] — Evaluation of pre-trained models for pedagogical assessment of novel AI-assisted educational questions
+- [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn : un tuteur agentique qui apprend son apprenant dans une boucle d'apprentissage conjoint humain-IA
+- [[automated-constructive-assessment-hdr-llm-2026]] — Automatiser l'évaluation constructive avec les grands modèles de langue : vers une évaluation évolutive et répétée de la compétence pratique
+- [[student-llm-use-ai-question-difficulty-data-science-2026]] — L'usage des LLM par les étudiants et les limites de la difficulté des questions générées par l'IA dans les cours de science des données
+- [[bloom-classifier-ai-assisted-questions-2026]] — Évaluation de modèles pré-entraînés pour l'évaluation pédagogique de nouvelles questions éducatives assistées par l'IA
 - [[vogt-ai-mcq-recognition-medical-assessment-2026]] — Les étudiants ne pouvaient distinguer les QCM générés par IA des items d'examen d'agrément dans un examen noté, et 18.2% des items générés ont été éliminés en revue (Vogt et al. 2026)

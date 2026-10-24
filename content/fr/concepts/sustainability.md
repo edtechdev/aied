@@ -1,7 +1,7 @@
 ---
 title: "Durabilité"
 created: "2026-08-28T14:40:00-04:00"
-updated: "2026-10-10T03:05:58-04:00"
+updated: "2026-10-24T10:45:59-04:00"
 type: concept
 foundations: [ai-education]
 technology: [generative-ai]
@@ -87,8 +87,8 @@ La durabilité et l'IA en éducation se situe à l'intersection de l'[[ethics|é
 - [[alsuhaymi-sustainable-education-ai-digitalization-2026]] — Approche critique en valeur pour l'éducation durable et l'IA
 - [[liu-ai-sustainable-engineering-education-2026]] — Cadre AI-SEE pour l'enseignement de l'ingénierie durable
 - [[riandi-teacher-ai-green-energy-education-2026]] — Participation des enseignants à l'intégration de l'IA pour l'éducation à l'énergie verte
-- [[talebzadeh-ai-green-education-2026]] — The Role of AI in Green Education
+- [[talebzadeh-ai-green-education-2026]] — Le rôle de l'IA dans l'éducation verte
 - [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — Assistants IA durables fondés sur une base de connaissances
 - [[llm-environmental-impact-student-usage-2026]] — Impacts environnementaux de l'usage des LLM
-- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Fostering sustainable learning via embodied intelligence
+- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Favoriser l'apprentissage durable par l'intelligence incarnée
 - [[caruana-pre-university-ai-education-slr-2026]] — Revue systématique de l'éducation à l'IA préuniversitaire (cadrage ODD 4)

@@ -1,7 +1,7 @@
 ---
 title: "Apprentissage collaboratif"
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-10T03:05:33-04:00"
+updated: "2026-10-24T10:43:38-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [collaborative-learning, scaffolding]
@@ -11,7 +11,7 @@ audience: [learners]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/collaborative-learning
-source_updated: "2026-10-07T15:40:00-04:00"
+source_updated: "2026-10-16T08:47:09-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -55,6 +55,8 @@ L'approbation par le facilitateur est le levier observé le plus fort sur l'acce
 **Les modes de collaboration et l'arbitrage entre efficience et régulation.** La recherche empirique sur des étudiants de premier cycle collaborant avec l'IA pour la résolution de problèmes complexes identifie trois modes distincts — *Raisonnement délégué*, *Interprétation concertée* et *Élaboration déléguée*. Le mode le plus efficient (raisonnement délégué) produit la plus haute performance sur la tâche mais le plus faible engagement autorégulateur des apprenants, alors que le mode à la plus forte autorégulation (interprétation concertée) sous-performe sur les résultats de tâche. ([[hao-human-ai-collaborative-problem-solving-cognition]]) Cela révèle une tension de conception centrale : les environnements d'apprentissage collaboratif doivent équilibrer l'efficience du système distribué humain–IA et la profondeur de l'engagement [[self-regulated-learning|régulateur]] des apprenants.
 
 Le seul contraste méta-analytique disponible pour le travail collaboratif assisté par IA se situe à l'intérieur des interventions d'apprentissage par problèmes et par projets soutenues par l'IA générative, où la collaboration entre pairs se regroupe à g = 0.885 contre g = 0.416 pour le travail individuel, mais la différence n'atteignait qu'une tendance marginale (QM = 3.675, p = .055) et le volet du travail individuel repose sur deux études — si bien que les données probantes regroupées montrant que la collaboration bat le travail solitaire sous IA générative sont suggestives plutôt qu'établies ([[chen-pbl-pjbl-genai-meta-analysis-2026|Chen et al. 2026]]).
+
+Une cartographie au niveau des champs aboutit à la même conclusion par l'autre bout : une analyse BERTopic de 1 048 publications sur l'IA dans l'apprentissage en ligne entre 2010 et 2023 a constaté que les travaux à orientation sociale sur l'apprentissage collaboratif assisté par l'IA et sur le développement de communautés n'ont jamais émergé comme thème dominant, ce que les auteurs attribuent à un corpus centré sur les [[learning-analytics|analytiques de l'apprentissage]] au niveau individuel ([[chen-bertopic-ai-online-learning-research-topics-2026|Chen et al. (2026)]]).
 
 Une revue de cadrage de 18 études cartographie le même arbitrage dans le travail de groupe : l'IA générative a soutenu le développement des connaissances, la génération d'idées et l'efficience de la communication tout en réduisant aussi la demande d'interaction entre pairs, de négociation et de construction de sens collective, et des données probantes randomisées ont trouvé davantage de suggestions innovantes de l'IA sans gain significatif de l'innovativité globale des participants ([[wei-perkins-genai-student-collaboration-scoping-2026|Wei et Perkins (2026)]]).
 
@@ -123,7 +125,7 @@ L'apprentissage collaboratif occupe le sommet du [[icap-framework|cadre ICAP]] (
 ## Articles liés
 
 - [[genai-support-threaten-learning-k20-expert-consensus-2026]] - Un consensus de 30 experts constate un risque social unilatéral : les processus de collaboration vulnérables sans voie d'amélioration
-- [[chen-pbl-pjbl-genai-meta-analysis-2026]] — Problem-based and project-based learning as promising frameworks for generative AI-supported education: Emerging evidence from a systematic review and three-level meta-analysis
+- [[chen-pbl-pjbl-genai-meta-analysis-2026]] — L'apprentissage par problèmes et par projets comme cadres prometteurs pour l'éducation soutenue par l'IA générative : données probantes émergentes d'une revue systématique et d'une méta-analyse à trois niveaux
 - [[jin-emergent-learner-agency-implicit-hai-2026]] — Emergent learner agency in implicit human-AI collaboration: supportive vs. contrarian personas
 - [[adaptive-ai-scaffold-collaborative-problem-solving-2026]]
 - [[genai-counter-learner-groupthink-2025]]
@@ -140,11 +142,12 @@ L'apprentissage collaboratif occupe le sommet du [[icap-framework|cadre ICAP]] (
 - [[icap-cognitive-engagement-llm-agents]] — Cadre ICAP étendu pour mesurer l'engagement dans le dialogue collaboratif
 - [[llm-facilitation-timing-online-discussions]] — Synchronisation de la facilitation par LLM dans les discussions collaboratives en ligne
 - [[ba-ai-agents-cscl-review-2026]] — Revue des agents d'IA dans l'apprentissage collaboratif soutenu par ordinateur
-- [[wei-perkins-genai-student-collaboration-scoping-2026]] — GenAI and student group work: a scoping review (Wei & Perkins 2026)
+- [[wei-perkins-genai-student-collaboration-scoping-2026]] — L'IA générative et le travail de groupe des étudiants : une revue de cadrage (Wei & Perkins 2026)
 - [[astra-multi-agent-tutoring-benchmark-2026]] — Référentiel synthétique ASTRA pour le tutorat multi-agents et la collaboration à participation équilibrée
-- [[xu-genai-collaborative-space-2026]] — GenAI as agent and collaborative space in small-group dynamics (Xu et al. 2026)
+- [[xu-genai-collaborative-space-2026]] — L'IA générative comme agent et comme espace collaboratif dans la dynamique des petits groupes (Xu et al. 2026)
 - [[breideband-community-builder-cobi-2026]]
 - [[oppenheimer-llms-collaborative-learning-partners-2026]]
 - [[hao-peer-exposure-bridging-social-capital-ai-summaries-2026]] — AI-Generated Summary-Driven Learning Design in Online Discussion Forums
-- [[chen-zou-genai-group-assessment-agency-2026]] — GenAI as coordination infrastructure in student groups: intensified, restrained, and non-enacted use
-- [[ethics-training-agents-group-ethics-discussion-2026]] — Ethics Training Agents: Facilitating Group-Based Ethics Education with Role-Playing and Discussion for Ethical Reflection and Exploration
+- [[chen-zou-genai-group-assessment-agency-2026]] — L'IA générative comme infrastructure de coordination dans les groupes d'étudiants : usages intensifiés, contenus et non mis en œuvre
+- [[ethics-training-agents-group-ethics-discussion-2026]] — Agents de formation à l'éthique : faciliter l'éducation éthique en groupe par le jeu de rôle et la discussion pour la réflexion et l'exploration éthiques
+- [[chen-bertopic-ai-online-learning-research-topics-2026]] — Les travaux à orientation sociale sur la collaboration avec l'IA ne sont jamais devenus un thème dominant parmi 1 048 publications

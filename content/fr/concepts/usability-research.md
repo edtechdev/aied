@@ -1,7 +1,7 @@
 ---
 title: "La recherche sur l'utilisabilité"
 created: "2026-08-24T02:15:00-04:00"
-updated: "2026-10-10T03:41:12-04:00"
+updated: "2026-10-24T10:45:55-04:00"
 type: concept
 connected_faqs: [designing-educational-ai-software]
 research_method: [system development, user study, interviews]
@@ -73,12 +73,12 @@ La recherche sur l'utilisabilité partage ses méthodes de collecte de données 
 
 ## Articles liés
 
-- [[icub-humanoid-storytelling-llm-hri-2025]] — A usability study of an LLM-powered storytelling humanoid
-- [[rhaimi-productivemath-2025]] — ProductiveMath: usability of a generative-AI app
+- [[icub-humanoid-storytelling-llm-hri-2025]] — Une étude d'utilisabilité d'un humanoïde conteur propulsé par un LLM
+- [[rhaimi-productivemath-2025]] — ProductiveMath : utilisabilité d'une application d'IA générative
 - [[supplynet-visual-exploratory-learning]] — SupplyNet user study
-- [[anvil-ai-educational-animations]] — Usability of AI-generated educational animations
-- [[code-anchor-multi-view-visualization]] — Think-aloud study of multi-view code visualizations
-- [[learn-framework-responsible-genai-pbl-2026]] — LEARN framework and think-aloud evaluation
-- [[feedback-futures-genai]] — How learners process AI-generated feedback
+- [[anvil-ai-educational-animations]] — Utilisabilité des animations éducatives générées par l'IA
+- [[code-anchor-multi-view-visualization]] — Étude par réflexion à voix haute de visualisations de code multi-vues
+- [[learn-framework-responsible-genai-pbl-2026]] — Cadre LEARN et évaluation par réflexion à voix haute
+- [[feedback-futures-genai]] — Comment les apprenants traitent la rétroaction générée par l'IA
 - [[llm-chatbots-cs-multiple-choice]] — LLM chatbots for CS multiple-choice questions
-- [[conversational-ai-agents-umbrella-review-2026]] — Umbrella review of conversational AI agents
+- [[conversational-ai-agents-umbrella-review-2026]] — Revue parapluie des agents conversationnels d'IA

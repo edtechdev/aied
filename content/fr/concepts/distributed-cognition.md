@@ -1,13 +1,13 @@
 ---
 title: "Cognition distribuée"
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-10-10T03:24:44-04:00"
+updated: "2026-10-24T10:37:47-04:00"
 type: concept
 foundations: [agency, cognitive-offloading, human-ai-collaboration]
 pedagogy: [distributed-cognition, embodied-learning, learning-theories, metacognition, situated-learning]
 confidence: high
 translation_of: concepts/distributed-cognition
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-21T11:40:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -38,6 +38,7 @@ C'est un concept de théorie de l'apprentissage au sein du fil [[learning-theori
 Les systèmes d'IA génératifs et interactifs redistribuent le travail cognitif de façons que les outils antérieurs ne permettaient pas. La base de connaissances documente plusieurs dimensions de ce déplacement :
 
 - **L'IA comme partenaire cognitif et co-régulateur.** L'IA peut agir comme un [[scaffolding|étay]], un soutien métacognitif, un système de mémoire externe et un partenaire de décision dans la co-[[regulation]] de la pensée et de l'apprentissage.([[ai-cognitive-partner-co-regulation-learning]]) Cela positionne la cognition comme co-régulée entre l'apprenant et le système plutôt que gérée individuellement.
+- **Le volume d'usage de l'IA ne révèle pas quelle forme de travail distribué se produit :** [[cognitive-offloading-llm-synthesis-writing|Poquet et coll. (2026)]] ont constaté que les profils fondés sur le volume de 97 apprenants différaient par les connaissances préalables et l'autorat, mais non par les invites de rôle actif ou de niveau de compréhension, si bien qu'une activité partagée et une division du travail peuvent accompagner un même volume d'usage.
 - **Redistribution de l'agence et de la responsabilité.** Des cadres comme la **cognition d'ensemble** reconceptualisent la pensée comme émergeant d'une interaction dynamique entre l'humain et l'[[student-ai-interaction|IA]], distinguant l'*agence fonctionnelle* de l'IA (sa capacité à influencer les résultats sans conscience) de la *responsabilité morale* (qui demeure humaine).([[ensemble-cognition-philosophy-ai-education]]) La cognition distribuée reformule ainsi qui répond de l'apprentissage.
 - **La tension entre efficacité et régulation.** Les travaux empiriques montrent un arbitrage : les systèmes humain-IA qui distribuent le raisonnement le plus efficacement (par exemple par raisonnement délégué) atteignent une performance de tâche plus élevée mais peuvent réduire l'[[student-engagement|engagement]] autorégulateur des apprenants.([[hao-human-ai-collaborative-problem-solving-cognition]]) C'est le visage empirique des risques de [[cognitive-offloading|délestage cognitif]] et de sur-[[cognitive-offloading|dépendance]] que documente la base de connaissances.
 - **La médiation dans la collaboration.** L'IA peut agir comme un *médiateur [[pedagogy|pédagogique]]* qui orchestre l'interaction, la fabrication de sens épistémique et les processus de régulation dans l'[[collaborative-learning|apprentissage collaboratif]], redistribuant agence, autorité et responsabilité entre acteurs humains et non humains.([[niari-ai-pedagogical-mediator-collaborative-learning]])
