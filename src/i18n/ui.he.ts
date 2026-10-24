@@ -10,6 +10,7 @@ const he: UiStrings = {
   more: 'עוד',
   toolsLink: 'כלים ומשאבים',
   journalLink: 'יומן',
+  newsletterLink: 'Newsletter',
   faqLink: 'שאלות נפוצות',
   language: 'שפה',
   chooseLanguage: 'בחירת שפה',

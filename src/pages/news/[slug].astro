@@ -1,0 +1,139 @@
+---
+// /aied/news/<issue-date>/ — one newsletter issue.
+//
+// The markdown is the whole issue: the frontmatter supplies the masthead (title,
+// issue number, date) and the body supplies everything else, including its own
+// section headings. English-only, like the rest of the newsletter (see news.astro).
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import PageTypeIcon from '../../components/PageTypeIcon.astro';
+import { renderMarkdown } from '../../lib/markdown';
+import siteConfig from '../../config/siteConfig';
+
+const all = (await getCollection('newsletters')).filter(n => n.data.status !== 'draft');
+all.sort((a, b) => b.data.created.localeCompare(a.data.created));
+
+export async function getStaticPaths() {
+  const issues = (await getCollection('newsletters')).filter(n => n.data.status !== 'draft');
+  return issues.map(issue => ({ params: { slug: issue.id.replace('.md', '') } }));
+}
+
+const { slug } = Astro.params;
+const index = all.findIndex(n => n.id.replace('.md', '') === slug);
+if (index === -1) return Astro.redirect(`${siteConfig.basePath}/news/`);
+const issue = all[index];
+// Newer issues sit earlier in the reverse-chronological list.
+const newer = all[index - 1];
+const older = all[index + 1];
+
+const formatDate = (iso: string): string => {
+  const [y, m, d] = iso.split('T')[0].split('-').map(Number);
+  return new Date(y, m - 1, d).toLocaleDateString('en-US', {
+    year: 'numeric',
+    month: 'long',
+    day: 'numeric',
+  });
+};
+
+const [articles, concepts, faqs] = await Promise.all([
+  getCollection('articles'),
+  getCollection('concepts'),
+  getCollection('faqs'),
+]);
+const titles: Record<string, string> = {};
+for (const list of [articles, concepts, faqs]) {
+  for (const p of list) titles[p.id.replace('.md', '')] = p.data.title;
+}
+
+const { html: rawHtml, headings } = renderMarkdown(issue.body ?? '', {
+  pageTitle: issue.data.title,
+  articleSlugs: new Set(articles.map(a => a.id.replace('.md', ''))),
+  conceptSlugs: new Set(concepts.map(c => c.id.replace('.md', ''))),
+  faqSlugs: new Set(faqs.map(f => f.id.replace('.md', ''))),
+  titles,
+});
+
+// The byline at the foot of an issue is expanded from site.config.json instead of
+// being written into the markdown: the config is the repo's one allowed carrier of
+// the attribution name (check-push-safety.py enforces that), so the issue names a
+// token and both this page and the RSS feed resolve it from the same source.
+const html = rawHtml
+  .replaceAll('{{editor.name}}', siteConfig.editor.name)
+  .replaceAll('{{editor.contactUrl}}', siteConfig.editor.contactUrl);
+
+const base = siteConfig.basePath;
+---
+
+<BaseLayout title={issue.data.title} description={issue.data.summary} toc={headings}>
+  <p class="news-issue-meta">
+    <a href={`${base}/news/`}><PageTypeIcon kind="newsletter" size={14} />All issues</a>
+  </p>
+
+  <h1>
+    {issue.data.title}
+    <span class="news-issue-h1-date">
+      <time datetime={issue.data.created.split('T')[0]}>{formatDate(issue.data.created)}</time>
+    </span>
+  </h1>
+
+  <div class="news-body" set:html={html} />
+
+  <nav class="news-issue-nav" aria-label="Other issues">
+    {older && <a href={`${base}/news/${older.id.replace('.md', '')}/`}>← Issue {older.data.issue}</a>}
+    {newer && (
+      <a href={`${base}/news/${newer.id.replace('.md', '')}/`} class="next">Issue {newer.data.issue} →</a>
+    )}
+  </nav>
+
+  <style>
+    .news-issue-meta {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: 0.5rem;
+      color: var(--muted-color);
+      font-size: 0.9rem;
+      margin: 0 0 0.25rem;
+    }
+    .news-issue-meta a {
+      color: var(--primary);
+      text-decoration: none;
+      font-weight: 500;
+    }
+    .news-issue-meta a:hover {
+      text-decoration: underline;
+    }
+    /* The issue date sits with the title, after the issue number, so the heading
+       reads "AIEd KB Weekly Update #1  October 24, 2026" on its own. */
+    .news-issue-h1-date {
+      display: inline-block;
+      margin-inline-start: 0.5rem;
+      color: var(--muted-color);
+      font-size: 0.55em;
+      font-weight: 400;
+      white-space: nowrap;
+      vertical-align: 0.15em;
+    }
+    .news-body {
+      line-height: 1.7;
+    }
+    .news-issue-nav {
+      display: flex;
+      justify-content: space-between;
+      gap: 1rem;
+      margin: 2.5rem 0 0;
+      padding-top: 1rem;
+      border-top: 1px solid var(--card-border-color);
+    }
+    .news-issue-nav a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .news-issue-nav a:hover {
+      text-decoration: underline;
+    }
+    .news-issue-nav .next {
+      margin-inline-start: auto;
+    }
+  </style>
+</BaseLayout>

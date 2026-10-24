@@ -26,7 +26,7 @@ const en: JournalStrings = {
   title: 'Journal',
   h1: 'Journal',
   introTemplate:
-    'Reverse-chronological index of all {articles} articles, {concepts} concepts, {faqs} FAQs and {resources} resources in the knowledge base. {rss}',
+    'Reverse-chronological index of all {articles} articles, {concepts} concepts, {faqs} FAQs and {resources} resources in the knowledge base. The same additions are summarized weekly in the <a href="/aied/news/">AIEd KB Weekly Update</a>. {rss}',
   rssLabel: 'Subscribe to the RSS feed for latest additions.',
   pageSingular: 'page',
   pagePlural: 'pages',

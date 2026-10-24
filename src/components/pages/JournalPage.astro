@@ -5,6 +5,7 @@
 import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import PageTypeIcon from '../PageTypeIcon.astro';
+import { rssIcon } from '../../lib/pageTypeIcons';
 import TranslationNotice from '../TranslationNotice.astro';
 import { strings } from '../../i18n';
 import { localizeHref } from '../../i18n/config';
@@ -25,18 +26,22 @@ const COLLECTIONS: Record<string, string> = {
   concept: 'concepts',
   faq: 'faqs',
   resource: 'resources',
+  newsletter: 'newsletters',
 };
 
 const articles = await getCollection('articles');
 const concepts = await getCollection('concepts');
 const faqs = await getCollection('faqs');
 const resources = await getCollection('resources');
+// Newsletter issues are English-only and have one URL for every locale.
+const newsletters = (await getCollection('newsletters')).filter(n => n.data.status !== 'draft');
 
 const allItems = [
   ...articles.map(a => ({ ...a, kind: 'article' as const })),
   ...concepts.map(c => ({ ...c, kind: 'concept' as const })),
   ...faqs.map(f => ({ ...f, kind: 'faq' as const })),
   ...resources.map(r => ({ ...r, kind: 'resource' as const })),
+  ...newsletters.map(n => ({ ...n, kind: 'newsletter' as const })),
 ];
 
 const byDate: Record<string, typeof allItems> = {};
@@ -56,9 +61,12 @@ const ICONS: Record<string, string> = {
   faq: '<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" style="display:inline-block;vertical-align:-0.15em;margin-right:0.3rem;"><circle cx="12" cy="12" r="10"></circle><path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"></path><line x1="12" y1="17" x2="12.01" y2="17"></line></svg>',
   resource: '<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" style="display:inline-block;vertical-align:-0.15em;margin-right:0.3rem;"><path d="M2 9a1 1 0 0 1 1-1h18a1 1 0 0 1 1 1v9a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2z"></path><path d="M8 8V6.5A2.5 2.5 0 0 1 10.5 4h3A2.5 2.5 0 0 1 16 6.5V8"></path><line x1="7" y1="12.5" x2="7" y2="14.5"></line><line x1="12" y1="12.5" x2="12" y2="14.5"></line><line x1="17" y1="12.5" x2="17" y2="14.5"></line></svg>',
   concept: '<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" style="display:inline-block;vertical-align:-0.15em;margin-right:0.3rem;"><line x1="9" y1="18" x2="15" y2="18"></line><line x1="10" y1="22" x2="14" y2="22"></line><path d="M15.09 14c.18-.98.65-1.74 1.41-2.5A4.65 4.65 0 0 0 18 8 6 6 0 0 0 6 8c0 1 .23 2.23 1.5 3.5.76.76 1.23 1.52 1.41 2.5z"></path></svg>',
+  newsletter:
+    '<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" style="display:inline-block;vertical-align:-0.15em;margin-right:0.3rem;"><path d="M4 22h16a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2H8a2 2 0 0 0-2 2v16a2 2 0 0 1-4 0V6"></path><path d="M18 14h-8"></path><path d="M15 18h-5"></path><path d="M10 6h8v4h-8V6Z"></path></svg>',
 };
 
 const BASES: Record<string, string> = {
+  newsletter: '/aied/news',
   article: '/aied/articles',
   faq: '/aied/faqs',
   resource: '/aied/resources',
@@ -72,9 +80,8 @@ const counts = {
   resources: resources.length,
 };
 
-const rssIcon = '<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" style="display:inline-block;vertical-align:-0.15em;margin-right:0.2rem;"><path d="M4 11a9 9 0 0 1 9 9"></path><path d="M4 4a16 16 0 0 1 16 16"></path><circle cx="5" cy="19" r="1"></circle></svg>';
 const rssHref = localizeHref('/aied/rss.xml', locale);
-const rssHtml = `<a href="${rssHref}" style="color:var(--primary);font-weight:500;text-decoration:none;">${rssIcon}${s.rssLabel}</a>`;
+const rssHtml = `<a href="${rssHref}" style="color:var(--primary);font-weight:500;text-decoration:none;">${rssIcon(16)}${s.rssLabel}</a>`;
 const intro = s.introTemplate
   .replace(/\{(\w+)\}/g, (_m, k: string) => (k === 'rss' ? rssHtml : String((counts as any)[k] ?? '')));
 ---
@@ -91,8 +98,16 @@ const intro = s.introTemplate
       </summary>
       {byDate[date].map(item => {
         const slug = item.id.replace('.md', '');
-        const href = localizeHref(`${BASES[item.kind]}/${slug}/`, locale);
-        const title = localizedTitle(localized, COLLECTIONS[item.kind], slug, item.data.title);
+        // A newsletter issue exists once, in English, so it keeps its own URL for
+        // every locale and shows the newsletter name plus the issue number.
+        const href =
+          item.kind === 'newsletter'
+            ? `${BASES.newsletter}/${slug}/`
+            : localizeHref(`${BASES[item.kind]}/${slug}/`, locale);
+        const title =
+          item.kind === 'newsletter'
+            ? item.data.title
+            : localizedTitle(localized, COLLECTIONS[item.kind], slug, item.data.title);
         return (
           <div class="journal-entry">
             <a href={href} set:html={`<span>${ICONS[item.kind]}</span> ${title}`}></a>
