@@ -1,7 +1,7 @@
 ---
 title: Trust Calibration
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-10-24T06:26:00-04:00"
+updated: "2026-10-25T08:45:00-04:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading, human-ai-collaboration]
 pedagogy: [metacognition]
@@ -103,6 +103,7 @@ Trust calibration is central to [[ai-literacy]] and sits alongside [[reducing-ai
 - **Role rotation as a structure for practicing critique (2026):** In a design-based study of 62 pre-service educational psychologists moving through four rotating professional roles over eight weeks, [[kenzhebayeva-ai-role-rotation-pedagogical-model-2026|Kenzhebayeva et al. (2026)]] had participants compare AI-generated recommendations with psychological theory and modify or reject those that did not fit the case, yet still recorded overreliance on apparently authoritative AI responses, with some students seeking AI confirmation before offering their own interpretation even in later cycles. Rotation creates repeated occasions for the accept or reject judgment without guaranteeing it, and the study reports engagement during the intervention rather than measured competence gains.
 
 - **Surface identity cues move trust independently of capability.** Across two experiments (N = 396), learners rated White avatars — and Asian male avatars in STEM — more credible and competent, penalized older Black female avatars on every measure, and adopted racial-ingroup guidance more readily ([[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning|Anthis & Kyriakidou-Zacharoudiou (2026)]]).
+- **A source label moves acceptance without improving discrimination.** When 103 participants judged answers labeled ChatGPT or computer, acceptance was higher under the ChatGPT label (68.0% versus 63.4%, p = 0.002), yet signal detection found no source difference in sensitivity (p = 0.930) or criterion (p = 0.082) ([[chatgpt-source-cue-answer-acceptance-2026|Fabio, Rantuccio & Bruno, 2026]]). The label raises trust without raising accuracy.
 
 ## Connected Concepts
 

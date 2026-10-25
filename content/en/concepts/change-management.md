@@ -1,7 +1,7 @@
 ---
 title: Change Management
 created: "2026-08-29T12:55:12-04:00"
-updated: "2026-10-22T09:11:45-04:00"
+updated: "2026-10-25T08:45:00-04:00"
 type: concept
 foundations: [ai-education]
 connected_faqs: [institutional-ai-policy, faculty-development-ai]
@@ -55,6 +55,7 @@ In institutions where strategy runs ahead of infrastructure the work compounds: 
 An institutional case study traces a decade-long diffusion arc in undergraduate mathematics, moving from individual initiative and peer workshops to joint faculty licensing and central funding ([[flipped-classroom-ai-assessment-math-2026|Law, 2026]]).
 
 Course redesign carries a cost institutions should budget, not assume: adopting an AI-integrated course ran to roughly 15 to 20 hours of redesign work per course before any ongoing adjustment [[packard-thinking-partner-framework-adult-learners-2026|Packard et al. (2026)]].
+- **Engagement is explained by capacity and disposition, not enthusiasm.** A framework for assessment practice argues that uneven GenAI adoption reflects four conditions — capacity, disposition, and the supports and constraints around them — rather than resistance, and that a single workshop builds vocabulary but not judgment ([[aalhe-capacity-disposition-genai-assessment-2026|Miller, 2026]]). Naming the missing condition tells an institution whether to train, resource, or change the incentive.
 
 ## Connections to other concepts
 

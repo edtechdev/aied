@@ -2,7 +2,7 @@
 connected_resources: [openmaic]
 title: Simulation
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-10-04T15:54:00-04:00"
+updated: "2026-10-25T08:45:00-04:00"
 type: concept
 pedagogy: [active-learning, experiential-learning]
 technology: [adaptive-learning, pedagogical-agent, reinforcement-learning]
@@ -51,6 +51,7 @@ Simulation sits at the core of [[experiential-learning|experiential]] and [[acti
 
 - **Learner control in simulation is enacted, not granted.** A 2 × 2 experiment in a flocking simulation ([[learner-agency-ai-simulation-2026|Su, Nair and Nagashima 2026]]) gave some students parameter sliders, some an optional conversational agent and some both; every condition improved, but neither affordance produced a reliable difference once prior knowledge was controlled (p = .849 and p = .108). What predicted [[learning-gains|gains]] was where and how long learners manipulated parameters: sustained slider use in the most conceptually complex lesson was positively associated with gains, and the same behavior in the easier lesson negatively. For simulation builders the implication is that offering controls is not the intervention — helping learners decide what to change, and register what changed, is.
 - **A digital twin is a simulation with a hardware bill, and the bill shapes who can take part.** A [[meta-analysis-systematic-review|systematic review]] of 11 studies of digital twins in [[engineering-education|engineering]] and STEM higher education found that every implementation delivered a working prototype with real-time synchronization, yet only three reported statistically significant [[learning-gains|learning gains]]. Physical rigs capped access at 1–3 concurrent students in five studies, and reduced social interaction was the most-cited pedagogical challenge, in six ([[caee-digital-twins-stem-education-systematic-review-2026|Pelayo-González et al. (2026)]]).
+- **Agent-based simulation can model a metacognition theory as a testable system.** An agent-based digital-twin-inspired framework combining the five-level AMERT model with a NetLogo simulation let researchers vary learner archetypes and task conditions and observe metacognitive trajectories, though the authors stress the output is hypothesis generation, not evidence about real learners ([[agent-based-digital-twin-metacognition-2026|Guo, 2026]]). Simulation becomes a virtual laboratory for a theory that is otherwise hard to observe.
 
 ### Connections
 

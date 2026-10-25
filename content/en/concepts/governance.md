@@ -1,7 +1,7 @@
 ---
 title: AI Governance
 created: "2026-08-13T18:17:22-04:00"
-updated: "2026-10-25T05:51:47-04:00"
+updated: "2026-10-25T08:45:00-04:00"
 type: concept
 foundations: [ai-education]
 ethics: [ethics, privacy]
@@ -101,6 +101,7 @@ Governance is distinct from — but inseparable from — [[educational-policy-ai
 
 
 - **Governance can be designed into the tool.** A six-dimension governance profile - pedagogical grounding, instructional authority, human accountability and control, learner agency and cognitive engagement, context specificity, and evaluation visibility - locates governance in a teaching tool's interaction model, prompts, rubrics, approval gates and dashboards, and asks whether mechanisms fit the instructional function rather than how strict or permissive a tool is ([[instructional-governance-design-computing-education-2026|Dickey, 2026]]).
+- **A human-centered framework puts interpretation, not the tool, at the center.** At a mission-driven liberal arts college, faculty used a generative-AI-supported Assessment Wizard during a structured Education Day, and the authors conclude that human judgment must stay the non-negotiable interpretive authority, with verification checkpoints and governance in place before broad implementation ([[aalhe-chaos-to-consistency-ai-assessment-2026|Ravesloot, Copeland & Pryor, 2026]]). The sequence is formation and verification first, scale second.
 
 ## Connected Concepts
 - [[pedagogical-partnerships]] — Pedagogical Partnerships
