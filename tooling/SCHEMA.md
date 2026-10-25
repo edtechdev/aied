@@ -284,7 +284,7 @@ Requirements and conventions:
 - `resource_type` values: software, ai tutor, agent skill, prompt or gem library, collection of tools,
   collection of activities, assessment instrument, open format or specification, ebook or guide,
   case study collection, dataset or benchmark.
-- `access` describes what a reader has to give up to use it; `license` only records a licence the site
+- `access` describes what a reader has to give up to use it; `license` only records a license the site
   itself states.
 - `connected_resources` is frontmatter (validated against `content/en/resources/`), so the section can never
   point at a page that does not exist. The same field is available on articles, concepts and FAQs.

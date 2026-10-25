@@ -20,7 +20,7 @@ loop over categories is exactly how the limit gets broken.
 - Use `export.arxiv.org` and `rss.arxiv.org`. The main site is for interactive
   readers, so do not scrape its listing pages.
 - Do not store and serve arXiv e-prints (PDFs, source) from your servers unless the
-  licence permits it — link back to the **abstract page** instead. Saving a paper's
+  license permits it — link back to the **abstract page** instead. Saving a paper's
   full text locally for research use is fine (this repo's `raw/` is local-only and
   gitignored); redistributing it is not.
 - Acknowledge arXiv: *"Thank you to arXiv for use of its open access

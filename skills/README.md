@@ -34,7 +34,7 @@ Which side wins depends on the file, so compare before copying rather than assum
 The repo's `tooling/scripts/` are the working copies the pipeline actually runs, so a
 fix made there (a pacer, a normalizer, a protected title) has to travel **out** to the
 installed mirror with `--to-installed <group>`; a skill's `SKILL.md` travels the other
-way, since the installed copy is authoritative for behaviour. A group can hold drift in
+way, since the installed copy is authoritative for behavior. A group can hold drift in
 both directions at once: reconcile the scripts first, then sync the mirror, so the
 group-wide copy cannot drag a stale script over a newer one.
 

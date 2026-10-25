@@ -93,6 +93,9 @@ The same file holds the two blocks that back the AI-use disclosure: **`contribut
 │   ├── es/            #   translations, same four collections (en is the source)
 │   └── ...            #   one folder per locale code in site.config.json
 ├── raw/papers/        # Raw source text (arXiv, PDFs, RSS abstracts) — gitignored, not committed
+├── pdf-sources/       # Source PDFs, named by DOI/slug — gitignored, not committed (copyright)
+├── newsletters/       # Newsletter archive notes
+├── docs/              # json-ld.md (the schema.org mapping), plus design notes
 ├── src/
 │   ├── config/        # siteConfig.ts (wraps site.config.json with types)
 │   ├── layouts/       # BaseLayout.astro (nav, search, footer)
@@ -135,6 +138,29 @@ The record itself is split by granularity, because one level cannot answer the o
 - **Per corpus** — the standing statement, which also reaches readers: the Notice page of `aied.epub` and `aied.pdf` names the models, the human oversight and the limits of the record, all read from `site.config.json`.
 
 The record begins 2026-09-22 and is not backfilled: pages published earlier carry no model claim, because naming a model for them would be inference, not record. Two gates enforce this — `tooling/scripts/check-ai-disclosure.py` (valid values, and a record required on pages created on or after that date) and the advisory `tooling/scripts/check-ai-disclosure-trailers.py` (commits with no trailers).
+
+### Quick start from a fresh checkout
+
+Requirements:
+
+- **Node.js 22 or newer** (the build uses `node --run`-era features and Astro 7)
+- **Python 3.11 or newer**, for the `tooling/scripts/` gates — standard library only, no `pip install` needed
+- Optional, only to rebuild the offline EPUB/PDF: **`pandoc`**, plus the `weasyprint` and `pikepdf` Python packages (`python3 -m pip install --user weasyprint pikepdf`)
+
+```bash
+git clone https://github.com/edtechdev/aied.git
+cd aied
+npm install
+npm run build     # astro check + astro build + Pagefind + service worker
+npm run preview   # serve dist/ locally
+```
+
+That is the whole setup: the site builds from a fresh clone with no environment variables, no API keys, and no network access beyond `npm install`.
+
+Two things to know before you start editing:
+
+- **`raw/` is not committed.** It holds the full text of each source paper, which is gitignored because it is copyrighted material. Every page's `sources:` field points into it. Without it the site builds normally, but `verify-number-grounding.py` reports `[no raw source found - cannot verify]` for an article you have edited, so the check that every number in a page appears in its source cannot run until you fetch that paper's text yourself.
+- **The full gate sweep is slow; scope it.** `npm run verify` walks the whole corpus and spends most of its time in the inline-link scan (11+ minutes over ~6,500 pages). For an ordinary edit use `python3 tooling/scripts/run-gates.py --changed`, which reads only the pages you touched and runs in seconds. The full sweep is for changes to slugs, facet values or generated artifacts.
 
 ### Local development
 

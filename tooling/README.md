@@ -143,7 +143,7 @@ Inter-page links use `[[wikilink]]` syntax, rendered as hyperlinks by the Astro 
 
 **Inline hyperlink rule (HARD GATE):** after creating/enriching any article or concept page, run the inline-link pass (see `wiki-inline-links` skill) — hyperlink every concept mentioned in the page body narrative to its concept page (aggressive, including conceptually-similar phrases), and fix self-links, links in `##` headings, same-text links `[[slug|slug]]`, and broken links. Verify 0 self-links, 0 heading links, balanced brackets, and 0 broken links **before** `npm run build`. A green build does NOT substitute for this editorial pass.
 
-**Number-grounding rule (HARD GATE):** every numeric token in an article body must appear in that page's raw source. `python3 tooling/scripts/verify-number-grounding.py --changed` (or a list of slugs) reports the tokens it cannot locate; `commit-if-green.sh` runs it over the article pages being committed. A reported token means *investigate*: leading-dot p-values (`.001`), digits broken across PDF lines and values duplicated by an HTML conversion (`0.6950.695`) are extraction artefacts, and the fix is to confirm the number in the raw, not to rewrite the claim to match a broken extraction. A statistic that genuinely is not in the source gets deleted or requalified.
+**Number-grounding rule (HARD GATE):** every numeric token in an article body must appear in that page's raw source. `python3 tooling/scripts/verify-number-grounding.py --changed` (or a list of slugs) reports the tokens it cannot locate; `commit-if-green.sh` runs it over the article pages being committed. A reported token means *investigate*: leading-dot p-values (`.001`), digits broken across PDF lines and values duplicated by an HTML conversion (`0.6950.695`) are extraction artifacts, and the fix is to confirm the number in the raw, not to rewrite the claim to match a broken extraction. A statistic that genuinely is not in the source gets deleted or requalified.
 
 **Article-section rule (HARD GATE):** `python3 tooling/scripts/audit-article-sections.py --changed` checks the section order (citation last), that the practice section immediately precedes Limitations, and the bullet counts (practice 3–5, Limitations 2–6). Trim an over-long Limitations list by folding weaker bullets into stronger ones rather than discarding evidence.
 
@@ -309,7 +309,7 @@ Supporting files:
 - `tooling/gen-pd-mark.mjs` — rasterizes the CC0 public-domain mark (`src/assets/cc-zero.svg`, the Creative Commons press-kit `zero.svg`, itself CC0) to `public/public-domain-mark.png`, which the EPUB/PDF Notice page and the covers use. The site inlines the SVG instead (`src/components/PublicDomainMark.astro`), so the mark follows the theme.
 - `tooling/gen-og-concept-map.mjs` — renders the concept-map images.
 
-The EPUB/PDF and cover are committed artifacts (built locally, like `llms-full.txt`) and served from `public/` by the deploy workflow. Requires `pandoc`, and for the PDF the `weasyprint` Python package plus `pikepdf` for the language metadata.
+The EPUB/PDF and cover are committed artifacts (built locally, like `llms-full.txt`), but they are **not** served from the site: `astro.config.mjs` strips them from `dist/`, so readers download them from the GitHub raw URLs in `offlineBaseUrl`. Requires `pandoc`, and for the PDF the `weasyprint` Python package plus `pikepdf` for the language metadata.
 
 ## Configuration
 

@@ -41,7 +41,7 @@ A FAQ title has to be readable by the audience it is written for, and it has to 
 
 When a title carries one of these defects, check the rest of the batch: the same defect tends to appear in every question written in the same pass. (In the 2026-10-02 batch, the evaluation question had it too and was retitled.)
 
-A title may need a technical word to stay distinct from a neighbouring FAQ. That exception is deliberate, not an oversight: "How do we **train** an AI tutor to guide students rather than answer them?" keeps "train" because it is the only thing separating it from the existing tutor-design FAQ, which pursues the same guiding behaviour through hint ladders. Say so in the commit message.
+A title may need a technical word to stay distinct from a neighbouring FAQ. That exception is deliberate, not an oversight: "How do we **train** an AI tutor to guide students rather than answer them?" keeps "train" because it is the only thing separating it from the existing tutor-design FAQ, which pursues the same guiding behavior through hint ladders. Say so in the commit message.
 
 ## Wiring a batch of new FAQs
 
