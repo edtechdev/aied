@@ -3,10 +3,10 @@ title: "Prompt-based emotional scaffolding in generative AI: Effects on self-reg
 created: "2026-10-24T06:15:00-04:00"
 updated: "2026-10-24T06:15:00-04:00"
 type: article
-authors: [Elena-Alexandra Diordiev, Valdemar Aksel Stenberdt, Guido Makransky]
-pub_date: 2026-10-18
+authors: ["Diordiev, E. A.", "Stenberdt, V. A.", "Makransky, G."]
+published: "2026-10-18"
 venue: "British Journal of Educational Technology"
-url: https://doi.org/10.1111/bjet.70094
+source_url: https://doi.org/10.1111/bjet.70094
 foundations: [agency, human-ai-collaboration]
 pedagogy: [self-regulated-learning, motivation, metacognition]
 technology: [generative-ai, conversational-ai, pedagogical-agent]

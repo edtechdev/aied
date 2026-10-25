@@ -3,10 +3,10 @@ title: "Generative artificial intelligence in writing assessment: University pro
 created: "2026-10-24T07:52:30-04:00"
 updated: "2026-10-24T07:52:30-04:00"
 type: article
-authors: [Chenze Wu, Ricky Lam]
-pub_date: 2026-09-29
+authors: ["Wu, C.", "Lam, R."]
+published: "2026-09-29"
 venue: "Assessing Writing"
-url: https://doi.org/10.1016/j.asw.2026.101125
+source_url: https://doi.org/10.1016/j.asw.2026.101125
 foundations: [ai-literacy, human-ai-collaboration, teacher-ai-competency]
 pedagogy: [professional-training]
 technology: [generative-ai]

@@ -1,12 +1,12 @@
 ---
 title: "Toward Partnership Ethics for Generative Artificial Intelligence in Higher Education"
 created: "2026-10-25T02:55:12-04:00"
-updated: "2026-10-25T02:55:12-04:00"
+updated: "2026-10-25T05:40:42-04:00"
 type: article
-authors: [Maris Gillette, Arne Wackenhut, Elizabeth Olsson]
-pub_date: 2026-03-16
+authors: ["Gillette, M.", "Wackenhut, A.", "Olsson, E."]
+published: "2026-03-16"
 venue: "Journal of University Teaching and Learning Practice"
-url: https://doi.org/10.53761/yf2gt848
+source_url: https://doi.org/10.53761/yf2gt848
 foundations: [academic-integrity, philosophy-of-ai-in-education]
 ethics: [ethics, ai-misuse-learning-harm, trust]
 technology: [generative-ai, conversational-ai]
@@ -27,7 +27,7 @@ ai_assist:
     agent: hermes-agent
 ---
 
-> **Synthesis:** A [[mixed-methods-research|mixed methods]] study at one Swedish university asked what [[ethics|ethical]] concerns actually shaped how students and teachers used, or declined to use, [[generative-ai|generative AI]]. Surveys reached a census of roughly 10,000 students and 800 teachers in a social science faculty and returned 541 student and 128 teacher responses, followed by five focus groups with 13 students and two teachers. Ethics came up unprompted for 31% of participants (209 of 669), and those concerns ran well past [[academic-integrity|academic integrity]]: participants worried about [[critical-thinking|critical thinking]], [[creativity]] and [[agency|autonomy]], about moral character, and about a tendency to treat model output as objective. Students were more positive about the technology than teachers, though both groups agreed that submitting an entirely AI-generated text as one's own is wrong. The authors read these findings through environmental ethicist Carolyn Merchant's *partnership ethics* — mutual interdependence, respect for diversity, inclusiveness, accountability and a shared commitment to long-term [[sustainability]] — and argue it offers a better frame for institutional decisions than a compliance-and-detection stance.
+> **Synthesis:** A [[mixed-methods-research|mixed methods]] study at one Swedish university asked what [[ethics|ethical]] concerns actually shaped how students and teachers used, or declined to use, [[generative-ai|generative AI]]. Surveys reached a census of roughly 10,000 students and 800 teachers in a social science faculty and returned 541 student and 128 teacher responses, followed by five focus groups with 13 students and two teachers. Ethics came up unprompted for 31% of participants (209 of 669), and those concerns ran well past [[academic-integrity|academic integrity]]: participants worried about [[critical-thinking|critical thinking]], [[creativity]] and [[agency|autonomy]], about moral character, and about a tendency to treat model output as objective. Students were more positive about the technology than teachers, though both groups agreed that submitting an entirely AI-generated text as one's own is wrong. The authors read these findings through environmental ethicist Carolyn Merchant's *partnership ethics*  (mutual interdependence, respect for diversity, inclusiveness, accountability and a shared commitment to long-term [[sustainability]]) and argue it offers a better frame for institutional decisions than a compliance-and-detection stance.
 
 ## Key Findings
 
@@ -53,7 +53,7 @@ Respondents broadly reflected the faculty's composition. 69% of student and 55% 
 - **Move beyond the cheating frame.** Their second practitioner note states that cheating and plagiarism is too narrow a frame to support ethical (non)use. The study's participants raised development, character and environmental questions that an integrity-only policy cannot address.
 - **Build dialogue into the decision, not just the rule.** Partnership ethics asks all members of an academic community to navigate uncertainty together through ongoing dialogue. Concretely, the authors suggest open discussions among and between teachers and students about genAI's effects on individual development, society and the environment.
 - **Put environmental consequences on the agenda.** The fourth practitioner note argues that discussions omitting the environmental costs of developing and deploying these technologies fail to address the concerns teachers and students actually hold.
-- **Use partnership ethics as a lens on existing [[educational-policy-ai|policy]].** Merchant's five principles — mutual interdependence, respect for diversity, inclusiveness, accountability and shared commitment to long-term sustainability — give institutions a way to audit current guidance against the range of concerns the study documents.
+- **Use partnership ethics as a lens on existing [[educational-policy-ai|policy]].** Merchant's five principles (mutual interdependence, respect for diversity, inclusiveness, accountability and shared commitment to long-term sustainability) give institutions a way to audit current guidance against the range of concerns the study documents.
 
 ## Limitations
 

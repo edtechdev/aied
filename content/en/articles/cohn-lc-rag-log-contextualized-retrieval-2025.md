@@ -3,10 +3,10 @@ title: "Personalizing Student-Agent Interactions Using Log-Contextualized Retrie
 created: "2026-10-24T06:25:00-04:00"
 updated: "2026-10-24T06:25:00-04:00"
 type: article
-authors: [Clayton Cohn, Surya Rayala, Caitlin Snyder, Joyce Horn Fonteles, Shruti Jain, Naveeduddin Mohammed, Umesh Timalsina, Sarah K. Burriss, Ashwin T S, Namrata Srivastava, Menton Deweese, Angela Eeds, Gautam Biswas]
-pub_date: 2025-05-22
+authors: ["Cohn, C.", "Rayala, S.", "Snyder, C.", "Horn Fonteles, J.", "Jain, S.", "Mohammed, N.", "Timalsina, U.", "Burriss, S. K.", "Ashwin T S", "Srivastava, N.", "Deweese, M.", "Eeds, A.", "Biswas, G."]
+published: "2025-05-22"
 venue: "AIED 2025 Workshop on Epistemics and Decision-Making in AI-Supported Education"
-url: https://arxiv.org/abs/2505.17238
+source_url: https://arxiv.org/abs/2505.17238
 foundations: [human-ai-collaboration, agentic-ai]
 pedagogy: [scaffolding, collaborative-learning]
 technology: [rag, llm, pedagogical-agent]

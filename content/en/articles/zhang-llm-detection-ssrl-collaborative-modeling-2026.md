@@ -3,10 +3,10 @@ title: "Using Large Language Models to Detect Socially Shared Regulation of Coll
 created: "2026-10-24T05:52:00-04:00"
 updated: "2026-10-24T05:52:00-04:00"
 type: article
-authors: [Jiayi Zhang, Conrad Borchers, Clayton Cohn, Namrata Srivastava, Caitlin Snyder, Siyuan Guo, Ashwin T S, Naveeduddin Mohammed, Haley Noh, Gautam Biswas]
-pub_date: 2026-04-27
+authors: ["Zhang, J.", "Borchers, C.", "Cohn, C.", "Srivastava, N.", "Snyder, C.", "Guo, S.", "Ashwin T S", "Mohammed, N.", "Noh, H.", "Biswas, G."]
+published: "2026-04-27"
 venue: "LAK26: 16th International Learning Analytics and Knowledge Conference"
-url: https://doi.org/10.1145/3785022.3785083
+source_url: https://doi.org/10.1145/3785022.3785083
 foundations: [human-ai-collaboration]
 pedagogy: [collaborative-learning, self-regulated-learning, metacognition]
 technology: [learning-analytics, llm, multimodal, educational-nlp]

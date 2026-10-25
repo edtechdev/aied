@@ -3,10 +3,10 @@ title: "Lesson planning using AI lesson assistant, Aila - A Teacher Choices Tria
 created: "2026-10-24T09:54:00-04:00"
 updated: "2026-10-24T09:54:00-04:00"
 type: article
-authors: [Palak Roy, Helen Poet, Ruth Staunton, Katherine Aston, David Thomas, Ben Styles]
-pub_date: 2026-10-01
+authors: ["Roy, P.", "Poet, H.", "Staunton, R.", "Aston, K.", "Thomas, D.", "Styles, B."]
+published: "2026-10-01"
 venue: "Education Endowment Foundation"
-url: https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/aila-teacher-choices-trial
+source_url: https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/aila-teacher-choices-trial
 foundations: [teacher-ai-competency, teacher-role, learning-design]
 pedagogy: [anxiety-and-stress]
 technology: [generative-ai, llm, rag]

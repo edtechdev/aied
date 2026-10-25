@@ -3,10 +3,10 @@ title: "It's Complicated: Factors Influencing the Effectiveness of LLM-Generated
 created: "2026-10-24T08:41:00-04:00"
 updated: "2026-10-24T08:41:00-04:00"
 type: article
-authors: [Tsvetomila Mihaylova, Arto Hellas, Bita Akram, Narges Norouzi, Peter Brusilovsky, Juho Leinonen]
-pub_date: 2026-10-18
+authors: ["Mihaylova, T.", "Hellas, A.", "Akram, B.", "Norouzi, N.", "Brusilovsky, P.", "Leinonen, J."]
+published: "2026-10-18"
 venue: "26th Koli Calling International Conference on Computing Education Research"
-url: https://doi.org/10.1145/3856208.3856234
+source_url: https://doi.org/10.1145/3856208.3856234
 foundations: [ai-literacy, cognitive-offloading, human-ai-collaboration]
 pedagogy: [help-seeking, scaffolding]
 technology: [generative-ai, learning-analytics, llm]
