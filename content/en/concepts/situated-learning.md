@@ -1,7 +1,7 @@
 ---
 title: Situated Learning
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-09-30T09:53:03-04:00"
+updated: "2026-10-25T12:05:00-04:00"
 type: concept
 foundations: [ai-education, learning-design]
 pedagogy: [constructivist, experiential-learning, learning-theories, situated-learning, sociocultural-learning]
@@ -24,6 +24,7 @@ reviewed_by: [editor]
 Situated learning is one of the activity-and-context theories within the knowledge base's [[learning-theories]] strand. It takes up Vygotskian themes of social construction but adds a strong emphasis on the intimate integration of "doing" and "learning" and on the importance of communities of practice. As an educational stance it confronts traditional, standardized schooling by foregrounding the learner's [[sociocultural-learning|sociocultural]] context as a key element for acquiring skills and appropriating knowledge relevant to their reality.
 
 In the [[ai-education|AI-in-education]] literature, situated learning matters because it provides a design lens for AI: [[adaptive-learning|adaptive systems]], [[intelligent-tutoring|intelligent tutoring]] in authentic scenarios, and [[virtual-and-augmented-reality|immersive]] [[simulation|simulations]] can ground AI-driven education in real-world contexts, while situated learning in turn offers AI a meaningful anchor in authentic practice and complexity. The two are widely treated as complementary, with human guidance remaining essential for [[ethics|ethical]] grounding.
+- **Contextualizing the material itself is a situated-learning move.** DagFlow-AI generates a statistics dataset built around a student's own stated interest — one case study used a student's concern about climate change and health — while holding the learning objectives and skill level fixed ([[arthur-dagflow-agentic-synthetic-data-statistics-2026|Arthur et al., 2026]]). Matching the *data* to the learner, rather than matching the explanation, treats the context of practice as the thing that needs situating. The authors concede the limit: synthetic data cannot teach data collection, measurement or study design, so the context is real to the learner but not to the world.
 
 ### Situated learning as a design lens for AI
 

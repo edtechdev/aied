@@ -48,7 +48,7 @@ export const conceptIndex: ConceptSection[] = [
     heading: 'AI in the disciplines',
     blurb: 'How AI is applied across academic subjects and educational levels: the field\u2019s subject-area coverage.',
     groups: [
-      { label: 'Subject areas', items: ['discipline-specific-aied', 'math-education', 'physics-education', 'chemistry-education', 'biology-education', 'cs-education', 'engineering-education', 'stem-education', 'science-education', 'writing-education', 'language-learning', 'english-education', 'environmental-education', 'business-education', 'humanities-education', 'arts-design-and-media-education', 'design-education', 'medical-education', 'nursing-education', 'legal-education', 'information-technology'] },
+      { label: 'Subject areas', items: ['discipline-specific-aied', 'math-education', 'statistics-and-data-science-education', 'physics-education', 'chemistry-education', 'biology-education', 'cs-education', 'engineering-education', 'stem-education', 'science-education', 'writing-education', 'language-learning', 'english-education', 'environmental-education', 'business-education', 'humanities-education', 'arts-design-and-media-education', 'design-education', 'medical-education', 'nursing-education', 'legal-education', 'information-technology'] },
       { label: 'Research fields', items: ['learning-sciences'] },
     ],
   },

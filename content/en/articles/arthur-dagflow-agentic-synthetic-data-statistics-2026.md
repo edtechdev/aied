@@ -6,7 +6,7 @@ type: article
 published: "2026-10-22"
 page_kind: [framework]
 research_method: [system development]
-discipline: [math education]
+discipline: [statistics and data science education]
 level: [higher ed, undergraduate]
 audience: [instructors, instructional designers, curriculum designers, educational technology developers]
 foundations: [agentic-ai, curriculum-design]
@@ -29,13 +29,15 @@ verified: [citation, numbers, links]
 
 > **Synthesis:** Arthur, Grove, Kmail and Atkisson (2026) describe DagFlow-AI, an [[agentic-ai|agentic]] tool that generates [[personalized-learning|personalized]] synthetic datasets for statistics courses. The design problem is narrow and real: an instructor wants a dataset that suits a student's interests, fits a specific learning objective, and matches their skill level, and real datasets rarely hit all three. Rather than asking an LLM to invent observations or to imitate an existing table, DagFlow-AI has [[llm|LLM]] agents specify the **components of an explicit data-generating mechanism** — a variable list, a directed acyclic graph, a distribution per variable, and linear or generalized-linear formulas with coefficients — which a program then executes. The agents never generate data and never write the generation code; a validation script checks their output and errors route back for correction until simulation succeeds. A single case study builds a climate-and-health dataset for an introductory course, and the paper argues alignment with [[inquiry-based-learning|statistical investigation]] frameworks (GAISE and PPDAC). It is a feasibility and design paper: there are no learning outcomes, no comparison, and the authors state that synthetic data must complement rather than replace real data.
 
+**Tool availability:** DagFlow-AI itself is not released. The authors withhold the application, source code and access instructions during anonymous review and state they will be included in the final version. It is built on [OpenCode](https://github.com/opencode-ai/opencode), which is openly available, and is model-agnostic, so a released version could run against locally hosted open-weight models.
+
 ## Key Findings
 
 1. **Agents specify; programs generate.** The architectural commitment is a separation of labour: agents contribute language understanding, reasoning and world knowledge to define the mechanism, while a program samples from it and a validation script enforces the expected structure. The authors argue this reduces the failure modes of unsupported output, erroneous generated code, and instruction-following drift.
 2. **The pipeline has six inspectable stages.** Dataset Description (domain, learning objectives, extra requirements), Variable Creation, DAG Creation, Distribution Selection, Formula Generation, and Dataset Simulation. Each stage's output is visible in a tab, so an instructor can inspect and correct the agents' choices before committing to a dataset.
 3. **The mechanism is explicit and reproducible.** Because the DAG fixes which variables influence which and the formulas fix direction and magnitude, the resulting data-generating process is a document rather than an opaque model. This is the deliberate contrast with GAN- and VAE-based synthesis, which needs a seed dataset and yields a process users cannot inspect.
 4. **Generation order comes from the graph.** Exogenous variables are sampled from their selected distributions; endogenous variables are generated from their model formulas in the order the DAG implies. Incompatible specifications, such as invalid bounds or coefficients producing numerically unstable values, surface as errors routed to the responsible agent for correction.
-5. **The tool is model-agnostic.** Built in Python with Streamlit and the OpenCode agent harness, it runs in GitHub Codespaces or any development container and can be pointed at hosted providers or locally hosted open-weight models.
+5. **The tool is model-agnostic but not yet released.** Built in Python with Streamlit and the [OpenCode](https://github.com/opencode-ai/opencode) agent harness, it runs in GitHub Codespaces or any development container and can be pointed at hosted providers or locally hosted open-weight models. The DagFlow-AI application, its source code and access instructions are withheld to preserve anonymity during review, so as of this preprint the tool is neither publicly available nor open source.
 6. **The case study needed iteration to work.** For the climate-and-health example, the final formula for the response variable was reached only after several rounds of adjustment to achieve stable generation, and the selected distribution for the response was likewise revised before the dataset would generate.
 7. **Two different learning uses are proposed.** Students can analyze a finished synthetic dataset with appropriate methods, or they can inspect, critique and modify the generating mechanism itself, which the authors argue supports treating statistical models as representations of phenomena rather than as given.
 

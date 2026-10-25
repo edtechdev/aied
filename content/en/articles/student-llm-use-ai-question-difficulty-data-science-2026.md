@@ -8,7 +8,7 @@ sources: ['raw/papers/student-llm-use-ai-question-difficulty-data-science-2026.m
 confidence: high
 page_kind: [evaluation]
 research_method: [survey, secondary analysis]
-discipline: [cs education]
+discipline: [statistics and data science education]
 level: [undergraduate, graduate]
 audience: [instructors, researchers, assessment designers]
 foundations: [cognitive-offloading, ai-literacy]

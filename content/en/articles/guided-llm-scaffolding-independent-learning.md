@@ -12,7 +12,7 @@ research_method: [quasi-experiment]
 level: [higher ed]
 sources: ['raw/papers/2606.01375.md']
 confidence: high
-discipline: [math education]
+discipline: [statistics and data science education]
 ---
 
 > **Synthesis:** Experimental study comparing Guided vs. Unrestricted [[llm]] access. Explicit training in reasoning-focused scaffolding (stepwise hints, verification) led to significantly better independent performance and [[self-assessment]] calibration compared to uncritical reliance. This work emphasizes that [[ai-literacy]] is a developmental capacity requiring structured [[scaffolding]] and [[prompt-engineering]] discipline. It connects to the need for [[curriculum-design]] that targets [[metacognition]] and [[agentic-ai]] rather than just syntax mastery.

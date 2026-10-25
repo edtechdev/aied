@@ -46,6 +46,7 @@ export const METADATA_LINKS: Record<string, Record<string, string>> = {
     'nursing education': 'nursing-education',
     'physics education': 'physics-education',
     'science education': 'science-education',
+    'statistics and data science education': 'statistics-and-data-science-education',
     'stem education': 'stem-education',
     'vocational education': 'vocational-education',
     'writing education': 'writing-education',

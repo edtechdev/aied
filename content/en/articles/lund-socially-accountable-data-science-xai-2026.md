@@ -8,7 +8,7 @@ ethics: [bias-mitigation, ethics, explainable-ai]
 research_method: [theoretical analysis]
 audience: [curriculum designers, instructors, researchers]
 level: [higher ed]
-discipline: [cs education]
+discipline: [statistics and data science education]
 page_kind: [framework]
 confidence: low
 sources: ['raw/papers/lund-socially-accountable-data-science-xai-2026.md']

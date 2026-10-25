@@ -190,6 +190,7 @@ const structuredMeta = {
         'nursing education',
         'physics education',
         'science education',
+        'statistics and data science education',
         'stem education',
         'vocational education',
         'writing education',
