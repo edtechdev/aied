@@ -143,6 +143,12 @@ build:
     # A weave that leaves `updated` alone is invisible: the right sidebar and the RSS feeds
     # sort by that stamp, so the page gains a finding while the site says nothing changed.
     - python3 tooling/scripts/check-concept-updated-bump.py --changed
+    # A translated module must carry the same keys, in the same order, and preserve every
+    # placeholder, HTML tag and href its English sibling has. A translator who drops a link
+    # produces a page that reads fine and silently loses navigation: the Russian home, FAQ,
+    # journal and AI pages had lost their /concepts/ and /news/ links, and nothing caught it
+    # because this check was not a gate. It runs over every locale in about 0.04s.
+    - python3 tooling/scripts/check-locale-modules.py
   site: npm run build             # Astro + Pagefind + PWA service worker
   llms: python3 tooling/scripts/generate-llms-files.py
   # Offline books are LOCAL committed artefacts, rebuilt ONLY on explicit

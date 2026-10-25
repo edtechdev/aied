@@ -26,7 +26,7 @@ const ru: JournalStrings = {
   title: 'Журнал',
   h1: 'Журнал',
   introTemplate:
-    'Обратно-хронологический указатель всех {articles} статей, {concepts} концепций, {faqs} FAQ и {resources} ресурсов в базе знаний. {rss}',
+    'Обратно-хронологический указатель всех {articles} статей, {concepts} концепций, {faqs} FAQ и {resources} ресурсов в базе знаний. Те же дополнения еженедельно обобщаются в <a href=\"/aied/news/\">AIEd Research Weekly Update</a>. {rss}',
   rssLabel: 'Подпишитесь на RSS-ленту, чтобы следить за новыми материалами.',
   pageSingular: 'страница',
   pagePlural: 'страниц',

@@ -264,6 +264,15 @@
       "Equity and access": "Gerechtigkeit und Zugang",
       "Equity, ethics, and responsible use": "Gerechtigkeit, Ethik und verantwortungsvoller Einsatz",
       "Ethics and responsibility": "Ethik und Verantwortung"
+    },
+    "offlineResourceLabels": {
+      "open": "Öffnen",
+      "madeBy": "Erstellt von",
+      "sourceCode": "Quellcode",
+      "type": "Typ",
+      "access": "Zugang",
+      "license": "Lizenz",
+      "linkChecked": "Link geprüft"
     }
   },
   "ja": {
@@ -798,7 +807,7 @@
       "coverAlt": "Обкладинка відкритого ресурсу «База знань про ШІ в освіті»: мінімалістичне біле тло зі блакитними смугами зверху та знизу; великий темний заголовок антиквою; радіальна карта понять, що показує охоплення ресурсу, — центральний вузол «ШІ в освіті» поєднаний із дванадцятьма тематичними вузлами по колу (моделювання, навчання, справедливість, зворотний зв’язок, ШІ-грамотність, оцінювання, навчальні дисципліни, педагогіка, етика, технології, оцінювання AIED, дослідження); унизу позначка «суспільне надбання (CC0)»."
     },
     "offlineResourceLabels": {
-      "open": "Відкрити {title}",
+      "open": "Відкрити",
       "madeBy": "Автор",
       "sourceCode": "Вихідний код",
       "type": "Тип",
@@ -934,7 +943,7 @@
       "coverAlt": "খোলা রিসোর্স «শিক্ষায় কৃত্রিম বুদ্ধিমত্তা নলেজ বেস»-এর প্রচ্ছদ: মিনিমাল সাদা পটভূমি, উপরে ও নিচে নীল বার; বড় গাঢ় serif টাইপোগ্রাফিতে শিরোনাম; রিসোর্সের পরিসর দেখানো একটি ব্যাসার্ধীয় ধারণা মানচিত্র, কেন্দ্রীয় নোড «শিক্ষায় কৃত্রিম বুদ্ধিমত্তা» বৃত্তে সাজানো বারোটি বিষয়-নোডের সঙ্গে যুক্ত (মডেলিং, শেখা, ন্যায়বিচার, প্রতিক্রিয়া, AI সাক্ষরতা, মূল্যায়ন, বিষয়, পাঠদান, নীতিশাস্ত্র, প্রযুক্তি, সিস্টেম মূল্যায়ন, গবেষণা); নিচে পাবলিক ডোমেইন (CC0) প্রতীক।"
     },
     "offlineResourceLabels": {
-      "open": "{title} খুলুন",
+      "open": "খুলুন",
       "madeBy": "নির্মাতা",
       "sourceCode": "সোর্স কোড",
       "type": "ধরন",
@@ -1206,7 +1215,7 @@
       "coverAlt": "Omslag van de open bron \"Kennisbank over AI in het onderwijs\": minimalistische witte achtergrond met helderblauwe balken boven en onder; titel in groot, donker schreeflettertype; een radiale conceptkaart die de reikwijdte van de bron toont, met het centrale knooppunt \"AI in het onderwijs\" verbonden met twaalf omringende deelonderwerpknooppunten (evaluatie, AI-geletterdheid, onderzoek, toetsing, vakgebieden, modelleren, didactiek, leren, ethiek, gelijkheid, technologieën, feedback); onderaan het merkteken publiek domein (CC0)."
     },
     "offlineResourceLabels": {
-      "open": "Open {title}",
+      "open": "Openen",
       "madeBy": "Gemaakt door",
       "sourceCode": "Broncode",
       "type": "Type",
@@ -1342,7 +1351,7 @@
       "coverAlt": "Forsiden på den frie ressource »Vidensbase om kunstig intelligens i uddannelse«: en minimalistisk hvid flade med blå striber foroven og forneden; titlen i stor, mørk serifskrift; og et radielt begrebskort, der viser ressourcens rækkevidde — en central knude »AI i uddannelse« forbundet med tolv temaknuder i en cirkel (modellering, læring, ligestilling, feedback, AI-dannelse, vurdering, fag, pædagogik, etik, teknologier, AIED-evaluering, forskning); forneden står mærket for offentligt domæne (CC0)."
     },
     "offlineResourceLabels": {
-      "open": "Åbn {title}",
+      "open": "Åbn",
       "madeBy": "Lavet af",
       "sourceCode": "Kildekode",
       "type": "Type",
@@ -1818,7 +1827,7 @@
       "coverAlt": "Obálka otvoreného zdroja „Vedecká databáza o AI v edukácii“: minimalistické biele pozadie so svetlomodrými pruhmi hore a dole; názov veľkou tmavým písmom so šerifmi; radiálna konceptuálna mapa zobrazujúca rozsah zdroja, so stredovým uzlom „AI v edukácii“ prepojeným s dvanástimi tematickými uzlami usporiadanými do kruhu (modelovanie, učenie, rovnosť, spätná väzba, počítačová gramotnosť v oblasti AI, hodnotenie, disciplíny, pedagogika, etika, technológie, hodnotenie AIED, výskum); v spodnej časti značka verejnej domény (CC0)."
     },
     "offlineResourceLabels": {
-      "open": "Otvoriť {title}",
+      "open": "Otvoriť",
       "madeBy": "Autor",
       "sourceCode": "Zdrojový kód",
       "type": "Typ",
@@ -2053,7 +2062,7 @@
       "coverAlt": "Jalada la rasilimali huru «Hifadhi ya Maarifa ya Akili Bandia katika Elimu»: mandhari meupe rahisi yenye mistari miwili ya bluu angavu juu na chini; kichwa kikuu kikubwa cha giza chenye herufi za antikwa; na ramani ya dhana ya mduara inayoonyesha wigo wa rasilimali — kitengo cha kati «Akili Bandia katika Elimu» kimeunganishwa na vitengo kumi na viwili vya mada katika duara (uundaji wa mifano, kujifunza, usawa, maoni, ujuzi wa akili bandia, tathmini, masomo ya shule, mbinu za ufundishaji, maadili, teknolojia, tathmini ya AIED, utafiti); chini ni alama ya «mali ya umma (CC0)»."
     },
     "offlineResourceLabels": {
-      "open": "Fungua {title}",
+      "open": "Fungua",
       "madeBy": "Imeundwa na",
       "sourceCode": "Msimbo wa chanzo",
       "type": "Aina",
