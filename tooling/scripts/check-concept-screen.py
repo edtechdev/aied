@@ -138,8 +138,14 @@ def main(argv):
         print('SKIP - concept_screen.since is not configured in wiki.config.yaml')
         return 0
     if not os.path.exists(record_path):
-        print('FAIL - concept-screen record %s does not exist' % record_path)
-        return 1
+        # The record is a local working file, not part of the published repository:
+        # it is gitignored alongside log.md and AIED-REJECTED.md, so a fresh clone
+        # legitimately has none. Skipping keeps a clean checkout able to run the
+        # gates; a machine that HAS the record still gets the full check.
+        print('SKIP - no concept-screen record at %s '
+              '(it is a local file, gitignored; screening runs only where it exists)'
+              % record_path)
+        return 0
 
     entries = yaml.safe_load(open(record_path, encoding='utf-8')) or []
     by_article = {}

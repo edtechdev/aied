@@ -128,7 +128,8 @@ wiki/
 ├── public/            # llms.txt, llms-concepts.txt, llms-full.txt, robots.txt
 ├── astro.config.mjs   # Astro config (base, pagefind, sitemap)
 ├── package.json       # Astro 7 + pagefind + sitemap + rss
-├── log.md             # Audit log of every wiki action
+├── log.md             # Audit log of every wiki action (local, gitignored)
+├── concept-screen.yaml # Concept-screen decisions per ingested article (local, gitignored)
 └── .github/workflows/ # Build & deploy to GitHub Pages
 ```
 

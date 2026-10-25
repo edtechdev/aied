@@ -10,8 +10,18 @@ node_modules/
 # Raw papers (not committed)
 raw/
 
-# Wiki log (local-only, not committed)
+# Working records of the maintenance pipeline (local-only, not committed).
+#
+# These are the pipeline's own bookkeeping, not part of the knowledge base and not
+# needed to build it: the wiki log, the rejected-resource list, and the concept
+# screen that records which concept pages each ingested article enriched or
+# deliberately declined. They stay on the machine that runs the scans, because the
+# next scan reads them to know what has already been considered, and they are
+# cumulative by nature, so committing them would put a running work log into the
+# published history. `check-concept-screen.py` skips when the record is absent, so
+# a fresh clone still passes the gates.
 log.md
+concept-screen.yaml
 
 # Per-machine config overrides (host/port etc.) - never committed
 wiki.config.local.yaml
