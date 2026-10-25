@@ -103,6 +103,8 @@ Two things to know before editing:
 ├── pdf-sources/       # source PDFs — gitignored (copyright)
 ├── src/
 │   ├── config/        # siteConfig.ts (wraps site.config.json with types)
+│   ├── i18n/          # chrome strings per locale (ui.<code>.ts, pages/*.ts) and
+│   │                  # locales.json, the translated per-locale prose
 │   ├── layouts/       # BaseLayout.astro (nav, search, footer)
 │   ├── lib/           # jsonld.ts, markdown.ts, pageTitles.ts
 │   ├── components/    # JsonLd.astro, SourceButtons.astro, per-page components
@@ -121,6 +123,8 @@ Two things to know before editing:
 ### Site configuration
 
 `site.config.json` at the repo root holds every site-wide value: name, short name, brand label, description, language, site URL, base path, repo and issues URLs, editor name and contact, license, PWA theme colors, and the `offlineBaseUrl` the editions download from. Astro imports it through `src/config/siteConfig.ts`; the Python tooling opens it with `json.load`. Edit the config rather than hardcoding a value.
+
+That file is deliberately kept small enough to read. A locale is split in two: `site.config.json` holds its **configuration** (code, label, writing direction), and `src/i18n/locales.json` holds its **translated prose** — the machine-translation notice, the llms preamble, the offline edition's title and resource labels, and the taxonomy section headings. `siteConfig.ts` merges the two, so components and the Python builders all read one complete entry. Adding a language means one entry in each file plus its content.
 
 The same file holds the two blocks behind the AI-use disclosure: **`contributors`** (the people accountable, referenced by id from page frontmatter so no name is written into a page) and **`aiDisclosure`** (the models in use and the harness). The disclosure gate refuses a page that names a model the config does not list, so add a new model to the config first.
 

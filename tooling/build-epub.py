@@ -84,10 +84,13 @@ if LOCALE not in content_paths.LOCALES:
 SUFFIX = '' if IS_DEFAULT else f'.{LOCALE}'
 
 # The locale's own metadata: the label that identifies the language in the book
-# title, and the machine-translation note the front matter must carry. Both come
-# from site.config.json so the note cannot drift from the site's.
-LOCALE_ENTRY = next((e for e in ((SITE.get('i18n') or {}).get('locales') or [])
-                     if e.get('code') == LOCALE), {})
+# title, and the machine-translation note the front matter must carry. The label
+# is set in site.config.json; the translated prose (the note, the offline title,
+# the resource labels and the taxonomy headings) is in src/i18n/locales.json, read
+# through content_paths.locale_strings so the two halves stay together.
+LOCALE_ENTRY = {**next((e for e in ((SITE.get('i18n') or {}).get('locales') or [])
+                        if e.get('code') == LOCALE), {}),
+                **content_paths.locale_strings(LOCALE)}
 LOCALE_LABEL = LOCALE_ENTRY.get('label') or LOCALE
 OFFLINE_NOTE = LOCALE_ENTRY.get('offlineDescription') or ''
 # The book's own title in the locale (the site's localized site name); it is the

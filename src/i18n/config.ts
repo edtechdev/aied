@@ -14,8 +14,13 @@
  *     root-relative link is moved into the active locale only when that route
  *     actually has a translation there, otherwise it keeps its authored target
  *
- * The locale list itself lives in site.config.json (`i18n`), so adding a language
- * is one config edit plus its content — no code change.
+ * A locale is split across two files by design: site.config.json (`i18n`) holds its
+ * configuration (code, label, writing direction), and src/i18n/locales.json holds
+ * its translated prose (the machine-translation notice, the llms preamble, the
+ * offline edition's title and resource labels, the taxonomy section headings).
+ * `siteConfig.ts` merges them, so every consumer here reads one complete entry.
+ * Adding a language is therefore one config entry, one catalog entry, plus its
+ * content — no code change.
  */
 import siteConfig from '../config/siteConfig';
 

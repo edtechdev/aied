@@ -37,6 +37,28 @@ with (ROOT / 'site.config.json').open(encoding='utf-8') as _fh:
 _I18N = _SITE.get('i18n') or {}
 _CONTENT = _SITE.get('content') or {}
 
+# `site.config.json` carries only what a person configuring the site sets: each
+# locale's code, label and writing direction. Everything that is TRANSLATED prose
+# (the machine-translation notice, the llms preamble, the offline edition's title
+# and resource labels, the taxonomy section headings) lives in src/i18n/locales.json,
+# keyed by locale code, so the config stays a config rather than a translation
+# store. Both halves are merged by locale_strings() below.
+try:
+    with (ROOT / 'src' / 'i18n' / 'locales.json').open(encoding='utf-8') as _lf:
+        LOCALE_STRINGS = json.load(_lf)
+except FileNotFoundError:                     # a config-only checkout still works
+    LOCALE_STRINGS = {}
+
+
+def locale_strings(code):
+    """One locale's translated strings, merged with its config entry.
+
+    Returns the catalog entry for `code` (empty when the locale has none), so a
+    caller reads `offlineDescription`, `taxonomyHeadings` and friends from one
+    dict regardless of which file they came from.
+    """
+    return dict(LOCALE_STRINGS.get(code) or {})
+
 LOCALES = [entry['code'] for entry in (_I18N.get('locales') or [])]
 if not LOCALES:
     LOCALES = [(_I18N.get('defaultLocale') or 'en')]

@@ -5,6 +5,7 @@
  * tooling/scripts/*.py) reads the same site.config.json directly via json.
  */
 import raw from '../../site.config.json';
+import localeStrings from '../i18n/locales.json';
 
 export interface SiteConfig {
   name: string;
@@ -56,6 +57,14 @@ export interface SiteConfig {
   // French. `fallbackLocale` is what a locale shows for a page it has not
   // translated yet. Adding a locale here is what makes it routable and puts it in
   // the language switcher — nothing else has to change.
+  //
+  // Only the CONFIGURATION half of a locale lives here: its code, its label and
+  // its writing direction. The translated prose for a locale (the machine-
+  // translation notice, the llms preamble, the offline edition's title and
+  // resource labels, and the taxonomy section headings) lives in
+  // src/i18n/locales.json, keyed by locale code, and is merged in by the export
+  // at the bottom of this file. Keeping translations out of site.config.json
+  // keeps that file something a person can read and edit.
   i18n: {
     defaultLocale: string;
     fallbackLocale?: string | null;
@@ -65,8 +74,18 @@ export interface SiteConfig {
       label: string;
       /** Text direction; omitted means "ltr". */
       dir?: 'ltr' | 'rtl';
-      /** Freeform guidance for a translator working on this locale. */
+      /** From src/i18n/locales.json: freeform guidance for a translator. */
       style?: string;
+      /** From src/i18n/locales.json: the offline edition's own title. */
+      offlineTitle?: string;
+      /** From src/i18n/locales.json: the machine-translation note for the edition front matter. */
+      offlineDescription?: string;
+      /** From src/i18n/locales.json: labels used in the offline resource appendix. */
+      offlineResourceLabels?: Record<string, string>;
+      /** From src/i18n/locales.json: the offline edition's Notice page strings. */
+      offlineNotice?: Record<string, string>;
+      /** From src/i18n/locales.json: the llms-concepts preamble paragraph. */
+      llmsNotice?: string;
       /**
        * Translations of the taxonomy umbrella headings (the ten `sections:` in
        * concepts.registry.yaml), keyed by the ENGLISH heading — the lookup key.
@@ -104,5 +123,19 @@ export interface SiteConfig {
   };
 }
 
-const siteConfig = raw as SiteConfig;
+// `site.config.json` holds each locale's config (code, label, dir); its translated
+// strings are in src/i18n/locales.json. Merge them here so every consumer sees one
+// fully-populated locale entry, exactly as when both halves lived in the config.
+const catalog = localeStrings as Record<string, Record<string, unknown>>;
+const siteConfig = {
+  ...raw,
+  i18n: {
+    ...raw.i18n,
+    locales: raw.i18n.locales.map((entry) => ({
+      ...catalog[entry.code],
+      ...entry,
+    })),
+  },
+} as SiteConfig;
+
 export default siteConfig;

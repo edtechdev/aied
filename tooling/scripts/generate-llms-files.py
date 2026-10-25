@@ -256,23 +256,17 @@ def buildable_locales(min_pages=20):
 
 
 def locale_note(locale):
-    """The locale's own description line for the header, from site.config.json."""
-    for entry in ((SITE.get('i18n') or {}).get('locales') or []):
-        if entry.get('code') == locale:
-            return entry.get('offlineDescription') or ''
-    return ''
+    """The locale's own description line for the header, from src/i18n/locales.json."""
+    return content_paths.locale_strings(locale).get('offlineDescription') or ''
 
 
 def locale_notice(locale):
-    """The locale's own 'Each page below...' paragraph, from site.config.json.
+    """The locale's own 'Each page below...' paragraph, from src/i18n/locales.json.
 
     The English literal in build_llms_concepts stays as the default-locale text
     and the fallback for a locale with no entry.
     """
-    for entry in ((SITE.get('i18n') or {}).get('locales') or []):
-        if entry.get('code') == locale:
-            return entry.get('llmsNotice') or ''
-    return ''
+    return content_paths.locale_strings(locale).get('llmsNotice') or ''
 
 
 def main():
