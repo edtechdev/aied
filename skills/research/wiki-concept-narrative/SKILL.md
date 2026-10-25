@@ -41,6 +41,19 @@ Check prior coverage before writing, not after. Grep the page's current text for
 
    **The Connected-list dash is the weave's own formatting risk.** A weave that adds a `## Connected Articles` entry must prefix it with `- `; a bare `[[slug]] — text` line renders as a paragraph, not a list item, and nothing else on the page reveals it. `check_list_formatting.py` now flags it (added 2026-10-04 after 13 concept pages carried one), so run that gate on the touched pages rather than trusting the entry to look right in markdown.
 
+**Append the weave as its own line, not to the tail of a long existing line (2026-10-07).**
+`check-concept-prose.py` judges ADDED LINES, so appending a sentence to a 60-word bullet makes the
+whole line read as "added" and the gate reports the pre-existing sentence as an over-length weave
+(71 words, max 55) — a false positive that costs a rework cycle, since the fix is to put the new
+sentence on its own bullet line. When the anchor line is already long, prefer a new themed bullet
+to an in-place extension.
+
+**Quote the source's own figures rather than rounding them (2026-10-07).** `verify-number-grounding.py`
+matches literal tokens, so a rounded value can fail even when the arithmetic is right: a page wrote
+"74.38" and "8.18" against a source reporting 74.376 and 8.178 and was flagged, while "83.29" passed
+only because the source's 83.290 contains it as a substring. Write the number exactly as the source
+prints it.
+
 ## Length, flow and audience (maintainer rule 2026-09-30)
 
 A weave is a contribution, not a summary of the article. The maintainer's instruction: "try to

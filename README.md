@@ -2,7 +2,7 @@
 
 A free, linked knowledge base on artificial intelligence in education — research, pedagogy, policy, and practice. It curates article summaries, synthesized concept pages, and FAQs into a single navigable site, and is automatically kept current by scheduled scans of new AI-in-education papers.
 
-**[Browse the knowledge base](https://edtechdev.github.io/aied)** · **[Use it with your own AI assistant](https://edtechdev.github.io/aied/ai)** · **[Read it offline (EPUB)](https://edtechdev.github.io/aied/aied.epub)** · **[Read it offline (PDF)](https://edtechdev.github.io/aied/aied.pdf)**
+**[Browse the knowledge base](https://edtechdev.github.io/aied)** · **[Use it with your own AI assistant](https://edtechdev.github.io/aied/ai)** · **[Read it offline (EPUB)](https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.epub)** · **[Read it offline (PDF)](https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.pdf)**
 
 ---
 
@@ -44,8 +44,10 @@ Example: "What does the research say about AI feedback for student writing?" Che
 
 The knowledge base is also published as downloadable eBooks, generated from the same markdown as the site:
 
-- **EPUB** — `https://edtechdev.github.io/aied/aied.epub`
-- **PDF** — `https://edtechdev.github.io/aied/aied.pdf`
+- **EPUB** — `https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.epub`
+- **PDF** — `https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.pdf`
+
+These are hosted from the repository rather than the site: the already-compressed files are stripped from the published build, so `https://edtechdev.github.io/aied/aied.epub` returns 404 by design. Use the links above.
 
 Both contain the home introduction, the *Use-With-AI* page, all **concept pages** (organized into chapters by umbrella group, with a clickable, numbered table of contents), the **FAQ pages**, and a closing **Free Tools and Resources** appendix. They contain the concept, FAQ and resource pages — not the hundreds of article summaries.
 
@@ -114,7 +116,7 @@ The same file holds the two blocks that back the AI-use disclosure: **`contribut
 
 ### Page structure
 
-- **Article pages** — frontmatter (title, `created`/`updated` full quoted timestamps, type, **`sources`**, confidence, plus the typed metadata fields) → synthesis blockquote → `## Key Findings` (5–7 contiguous items) → 3–4 body sections → `## What this means for practice` (3–5 bullets) → `## Limitations` (2–4 bullets, optional: omit when the study gives no basis) → **`## Citation` last**. The citation hyperlinks the paper's own title; the body carries no separate PDF or DOI link line. One page per paper. `audit-article-sections.py` enforces the section order and those counts. **Article pages carry no `## Connected …` sections (rule change 2026-09-27):** Connected Concepts/Articles/FAQs/Resources were removed from every article page, because the curated connected lists are more useful on the pages readers navigate from — concept, resource and FAQ pages; an article's own derived view is its facet metadata table, and its concept links live inline in the body.
+- **Article pages** — frontmatter (title, `created`/`updated` full quoted timestamps, type, **`sources`**, confidence, plus the typed metadata fields) → synthesis blockquote → `## Key Findings` (5–7 contiguous items) → 3–4 body sections → `## What this means for practice` (3–5 bullets) → `## Limitations` (2–6 bullets, optional: omit when the study gives no basis) → **`## Citation` last**. The citation hyperlinks the paper's own title; the body carries no separate PDF or DOI link line. One page per paper. `audit-article-sections.py` enforces the section order and those counts. **Article pages carry no `## Connected …` sections (rule change 2026-09-27):** Connected Concepts/Articles/FAQs/Resources were removed from every article page, because the curated connected lists are more useful on the pages readers navigate from — concept, resource and FAQ pages; an article's own derived view is its facet metadata table, and its concept links live inline in the body.
 - **Concept pages** — frontmatter → synthesis blockquote → `## Questions to Consider` (pre-reading questions, required on every concept page) → `## Introduction` → body with wikilinks → Connected Concepts → Connected Articles.
 - **FAQ pages** — frontmatter → question heading → narrative answer with wikilinks. Curated answers; no sources, no Citation. Linked to concept and article pages via a **Connected FAQs** section (frontmatter `connected_faqs`).
 - **Resource pages** — frontmatter (`url`, `resource_type`, `access`, `license`, `last_verified`, plus the typed metadata fields) → a fact block (visit, source, author, type, access, license, last verified) → short prose → Metadata table → Connected Concepts / Connected Resources. No `## Citation` — these are not papers. `check-resource-links.py` re-checks every external URL.
@@ -177,7 +179,7 @@ python3 tooling/scripts/generate-llms-files.py
 PATH="$HOME/.local/bin:/usr/bin:$PATH" /usr/bin/python3 tooling/build-epub.py
 ```
 
-The EPUB/PDF and cover are committed artifacts built locally (like `llms-full.txt`); the CI deploy copies `public/` so they're served from `/aied/aied.epub` and `/aied/aied.pdf`. Building them requires `pandoc`, the `weasyprint` Python package for the PDF, and `pikepdf` for the PDF's language metadata. The script exits 1 if the metadata step cannot run; verify the PDF's `/Lang` by reading the catalog back with pikepdf rather than trusting the exit code.
+The EPUB/PDF and cover are committed artifacts built locally (like `llms-full.txt`). They are **not** served from the site: `astro.config.mjs` strips them out of `dist/`, so readers download them from the GitHub raw URLs in `offlineBaseUrl`. Building them requires `pandoc`, the `weasyprint` Python package for the PDF, and `pikepdf` for the PDF's language metadata. The script exits 1 if the metadata step cannot run; verify the PDF's `/Lang` by reading the catalog back with pikepdf rather than trusting the exit code.
 
 **Since 2026-10-22 the editions are no longer served from the site.** They stay committed under `public/` but the site links the GitHub raw URL (`offlineBaseUrl` in `site.config.json`) and `astro.config.mjs` strips them from `dist/`, because their ~161 MB of already-compressed bytes pushed the Pages artifact past its 1 GB limit. The llms files are still served from the site.
 
@@ -200,7 +202,7 @@ Each run filters for relevance, skips already-ingested items, creates article pa
 | llms.txt out of date | `python3 tooling/scripts/generate-llms-files.py` then `npm run build` |
 | Broken wikilinks | Links use `[[slug]]` — the slug must match a file in `content/en/articles/`, `content/en/concepts/` or `content/en/faqs/`, or a redirect entry in `src/data/conceptRedirects.ts` / `src/data/articleRedirects.ts` |
 | Metadata rejected by the build | `python3 tooling/scripts/validate-facets.py` — a facet value must be a concept filed under that field's own registry section |
-| An article's sections rejected | `python3 tooling/scripts/audit-article-sections.py --changed` — reports missing practice/Limitations sections, wrong bullet counts (practice 3–5, Limitations 2–4) and citations that are not last |
+| An article's sections rejected | `python3 tooling/scripts/audit-article-sections.py --changed` — reports missing practice/Limitations sections, wrong bullet counts (practice 3–5, Limitations 2–6) and citations that are not last |
 | A number in a page is not in its source | `python3 tooling/scripts/verify-number-grounding.py <slug>` — grounded means the token appears in `raw/papers/<file>.md`. Leading-dot p-values, table columns split across lines and values duplicated by the HTML conversion (`0.6950.695`) are false positives: grep the raw before changing prose |
 | British spelling crept in | `python3 tooling/scripts/check-us-english.py --include-docs` — house style is US English; the checker ignores slugs, link targets and inline code |
 | A resource link has rotted | `python3 tooling/scripts/check-resource-links.py` — re-checks every resource URL and reports the `last_verified` date that needs bumping |

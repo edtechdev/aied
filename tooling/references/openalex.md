@@ -23,7 +23,7 @@ Resolved in this order, first hit wins:
 
 1. `OPENALEX_API_KEY` — an environment variable.
 2. `OPENALEX_API_KEY_FILE` — path to a file containing the key.
-3. `~/.hermes/openalex.key` — this repository's convention.
+3. `<AGENT>/openalex.key` — this repository's convention.
 4. `<clone>/.openalex.key` — a file in your clone, already gitignored.
 
 The key never appears in a URL, never in the output, and never in this repository.

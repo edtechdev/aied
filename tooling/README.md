@@ -283,8 +283,10 @@ The site is an installable Progressive Web App. `npm run build` emits `dist/mani
 
 The wiki is published as downloadable eBooks alongside the site:
 
-- **EPUB** — `public/aied.epub` → `https://edtechdev.github.io/aied/aied.epub`
-- **PDF** — `public/aied.pdf` → `https://edtechdev.github.io/aied/aied.pdf`
+- **EPUB** — `public/aied.epub` → `https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.epub`
+- **PDF** — `public/aied.pdf` → `https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.pdf`
+
+The editions are stripped from the published build, so a `/aied/aied.epub` URL on the site 404s by design.
 
 Both are generated from the **same markdown export** as the site and contain the home introduction, the Use-With-AI page, all concept pages (chapters by umbrella group, clickable numbered TOC), the FAQ pages, and a Notice page (editor, CC0 license, AI-disclaimer, issue reporting). They contain only the concept and FAQ pages — not the article summaries.
 

@@ -110,7 +110,17 @@ multi-agent.
 2. **An advisory trailer check** on recent commits: report commits missing trailers, exit 0 unless a
    `--strict` flag is passed. Pre-convention commits cannot be retrofitted, so a hard gate there is
    permanently red and trains the reader to ignore it.
-3. Wire both into the project's gate list, so the next writer is blocked rather than corrected.
+3. **Registry freshness and supersession.** An allowlist of model ids cannot catch a STALE id: when
+   the harness model id gains a snapshot suffix (`...-flash` → `...-flash-1017`), the previous id stays
+   listed and keeps validating, so pages get attributed to the model it replaced. Give each entry
+   `since` (with a time of day when the switch happened mid-day) and, where it replaced another id,
+   `supersedes`. Gate three things: the model the harness is actually configured to use (`$AI_MODEL`,
+   else `model.default` from the harness config — SKIP this arm when no harness config is readable, as
+   in CI) must be registered; an attribution dated after a `supersedes` date must name the successor;
+   an attribution dated before an id's `since` is an error in the page or in the registry. Prove the
+   harness arm by pointing `--harness-config` at a fake config: a check that cannot be made to fail is
+   not a check.
+4. Wire all of them into the project's gate list, so the next writer is blocked rather than corrected.
 
 ## What the standing statement must cover
 
@@ -122,6 +132,13 @@ AI-assisted; drafted text counts as generated, so answer from the statement, not
 
 ## Pitfalls
 
+- **Date-granular comparisons silently pass.** Three ways this bites, all of them in the check rather
+  than the data: truncating `since`/`created` to 10 characters discards the time of day that decides a
+  mid-day model switch; a date-only `ai_assist.date` masks the page's precise `created` timestamp, so
+  prefer the timestamp when both fall on the same day; and ordering an offset-aware datetime against a
+  naive one raises `TypeError`, so drop tzinfo from both when only one carries it. Where the source is
+  genuinely day-granular (commit trailers), compare strictly `>` so same-day commits are not judged.
+  Then plant a regression — revert one page to the retired id and confirm the gate fails.
 - **A page-level model field is a pointer, never the record.** It goes stale on the next rewrite;
   git trailers are the durable half. Ship both or the disclosure degrades silently.
 - **Unquoted YAML dates break a string-typed field.** `date: 2026-09-22` is parsed into a Date object,
