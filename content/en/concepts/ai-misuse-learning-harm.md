@@ -1,7 +1,7 @@
 ---
 title: AI Misuse and Learning Harm
 created: "2026-08-12T19:08:47-04:00"
-updated: "2026-10-13T09:18:19-04:00"
+updated: "2026-10-25T03:01:23-04:00"
 connected_faqs: [does-ai-help-students-learn, how-ai-impacts-students, asynchronous-online-courses-ai]
 type: concept
 foundations: [academic-integrity, cognitive-offloading]
@@ -26,6 +26,8 @@ reviewed_by: [editor]
 ## Introduction
 
 AI misuse is distinct from AI use. Use describes employing AI as a complement to learning — [[feedback]], brainstorming, or revision help that keeps the learner's cognitive work in the loop. Misuse describes substitution: delegating to AI the very mental processes (drafting, recall, analysis, revision) that build durable understanding. The harm documented in the knowledge base's evidence base is not that misuse fails to help; it is that misuse actively degrades later, unassisted achievement.
+
+Anticipated harm is itself documented: in Swedish survey and focus-group data, [[gillette-partnership-ethics-genai-higher-education-2026|Gillette et al. (2026)]] found 51% of participants (n = 106) worried that genAI use could hamper individual development, naming losses to [[critical-thinking|critical thinking]], creativity and autonomy rather than rule-breaking.
 
 ### The performance–learning gap
 
@@ -92,6 +94,8 @@ The gaming-the-system literature (hint abuse, systematic guessing) has a dialogu
 
 ## Connected Articles
 
+
+- [[gillette-partnership-ethics-genai-higher-education-2026]] — Swedish survey and focus-group study arguing that partnership ethics, not a cheating frame, should guide institutional genAI decisions
 - [[rho-disengaged-conversational-behaviors-2026]] — Disengaged conversational behaviors and learning in student-AI dialogues (Rho et al. 2026)
 
 - [[genai-thoughtless-use-self-directed-learning-2026]]

@@ -1,7 +1,7 @@
 ---
 title: Sustainability
 created: "2026-08-28T14:40:00-04:00"
-updated: "2026-09-19T05:10:00-04:00"
+updated: "2026-10-25T03:01:23-04:00"
 type: concept
 foundations: [ai-education]
 technology: [generative-ai]
@@ -24,6 +24,8 @@ reviewed_by: [editor]
 ## Introduction
 
 Sustainability in AIED spans three overlapping framings: **sustainable education** (a value-based, human-centered educational project), **sustainability in education** (using education as an instrument for sustainability), and **education for sustainable development** (ESD, the global policy agenda, especially [[k-12|Sustainable Development Goal 4]]). AI intersects each of these differently — and the field distinguishes two core pathways: **AI for sustainability** (AI as a tool to achieve sustainability outcomes) and **sustainable AI** (reducing AI's own environmental and ethical footprint).
+
+The environmental pathway has a documented gap: [[gillette-partnership-ethics-genai-higher-education-2026|Gillette et al. (2026)]] report that genAI's environmental consequences were not discussed in the university's policy documents at the study site, and argue that institutional guidance omitting them fails to address the concerns teachers and students hold.
 
 ## The two-part taxonomy
 
@@ -72,6 +74,8 @@ Sustainability and AI in education sits at the intersection of [[ethics]], [[gov
 - [[open-source]]
 
 ## Connected Articles
+
+- [[gillette-partnership-ethics-genai-higher-education-2026]] — Swedish survey and focus-group study arguing that partnership ethics, not a cheating frame, should guide institutional genAI decisions
 - [[daniel-ai-sustainability-scoping-review-2026]] — Scoping review of AI for sustainability and sustainable AI in higher education
 - [[alsuhaymi-sustainable-education-ai-digitalization-2026]] — Value-critical approach to sustainable education and AI
 - [[liu-ai-sustainable-engineering-education-2026]] — AI-SEE framework for sustainable engineering education

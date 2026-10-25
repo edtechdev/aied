@@ -1,7 +1,7 @@
 ---
 title: Educational AI Policy
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-23T09:20:00-04:00"
+updated: "2026-10-25T03:01:23-04:00"
 type: concept
 foundations: [academic-integrity, educational-development]
 ethics: [equity-in-ai-education, ethics]
@@ -95,6 +95,7 @@ The practical test that separates them: a policy can be read on paper, but gover
 ### The policy deficit in AI × SEL research
 
 A [[meta-analysis-systematic-review|systematic review]] of 65 papers at the intersection of [[ai-education|AI]] and [[social-emotional-learning|social-emotional learning]] ([[policy-deficit-ai-sel-2026|Tran, Liu & Nguyen 2026]]) documents a "policy deficit": nearly three-quarters of studies state no policy implications, and those that do often lack actor-oriented specificity. The review finds policy [[student-engagement|engagement]] correlates with publication venue, reflecting academic incentives that reward technical novelty over [[governance]] and [[regulation]]. It proposes a "WH-question" framework (Who, What, Why, When/Where, How) and a shift from "implication-as-afterthought" to "implication-as-methodology" — treating policy articulation as a design constraint of research rather than a post-hoc add-on.
+- **Demand for guidance.** [[gillette-partnership-ethics-genai-higher-education-2026|Gillette et al. (2026)]] add demand-side evidence from a Swedish social science faculty: 31% of survey and focus-group participants raised ethics unprompted, most wanted more institutional guidance, and genAI's environmental consequences were absent from policy documents altogether.
 
 ## Connected Concepts
 - [[pedagogical-partnerships]] — Pedagogical Partnerships
@@ -115,6 +116,8 @@ A [[meta-analysis-systematic-review|systematic review]] of 65 papers at the inte
 - [[student-support-and-success]] — the policy context for institutional support deployment
 
 ## Connected Articles
+
+- [[gillette-partnership-ethics-genai-higher-education-2026]] — Swedish survey and focus-group study arguing that partnership ethics, not a cheating frame, should guide institutional genAI decisions
 - [[generative-ai-governance-education-scoping-review-2026]] — Generative AI governance in education: a scoping review of principles, mechanisms and risks (Elmahjub et al. 2026)
 
 - [[sessional-academics-contract-cheating-digital-misconduct-2026]] — Unit-level rules that students cannot reconcile
