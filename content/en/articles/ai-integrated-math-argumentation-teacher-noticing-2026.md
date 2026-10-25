@@ -5,7 +5,7 @@ updated: "2026-10-20T09:20:00-04:00"
 type: article
 sources: ['raw/papers/ai-integrated-math-argumentation-teacher-noticing-2026.md']
 confidence: high
-published: 2026-10-19
+published: "2026-10-19"
 page_kind: [framework]
 research_method: [case study]
 discipline: [math education]

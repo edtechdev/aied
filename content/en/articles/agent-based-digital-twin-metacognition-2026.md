@@ -3,7 +3,7 @@ title: "Design and Evaluation of an Agent-Based Digital-Twin-Inspired Simulation
 created: "2026-10-25T08:30:00-04:00"
 updated: "2026-10-25T08:30:00-04:00"
 type: article
-published: 2026-10
+published: "2026"
 page_kind: [evaluation]
 research_method: [design and evaluation study, instrument development]
 discipline: [learning sciences]
@@ -56,7 +56,7 @@ The sensitivity analysis identified the self-awareness threshold as the most inf
 
 The paper is unusually explicit about the boundary of its claims, and that boundary is the substantive finding for a reader. All observations come from simulated agents governed by theory-derived rules: the p-values and effect sizes quantify robustness to stochastic initialization across 50 runs, not sampling variability from a [[learners|learner population]], and the authors state that effect sizes describe properties of the computational model, not of educational reality. Expert content review, face review, internal consistency checking, and sensitivity analysis evaluate the framework and its computation, but none demonstrates that simulated trajectories correspond to actual human learning. [[assessment-validity]] from future calibration with real classroom data, which the author lists as the next step.
 
-This places the study inside the [[simulating-students|simulated-students]] and [[simulation]] literature as a hypothesis-generating instrument rather than an [[assessment|assessment]] of learners, and it makes the equity pattern the most consequential output. Because agents start with different parameters and progression depends on cumulative mastery, uniform interventions necessarily produce diverging outcomes, so the model predicts that without differentiated support, standardized intervention may exacerbate pre-existing disparities. The author frames this as consistent with [[differential-effects-across-learner-groups|differential effects across learner groups]] and [[equity-in-ai-education]], while insisting it is a model-generated prediction requiring empirical testing. The candidate indicator termed metacognitive resilience — stability of higher-order metacognitive scores under increasing complexity — is likewise offered as a construct to investigate, not a validated trait: under the dynamic complexity scenario, phase three at complexity 0.9 brought an 18% drop in self-regulation and a 32% increase in metacognitive gap.
+This places the study inside the [[simulating-students|simulated-students]] and [[simulation]] literature as a hypothesis-generating instrument rather than an [[assessment]] of learners, and it makes the equity pattern the most consequential output. Because agents start with different parameters and progression depends on cumulative mastery, uniform interventions necessarily produce diverging outcomes, so the model predicts that without differentiated support, standardized intervention may exacerbate pre-existing disparities. The author frames this as consistent with [[differential-effects-across-learner-groups|differential effects across learner groups]] and [[equity-in-ai-education]], while insisting it is a model-generated prediction requiring empirical testing. The candidate indicator termed metacognitive resilience — stability of higher-order metacognitive scores under increasing complexity — is likewise offered as a construct to investigate, not a validated trait: under the dynamic complexity scenario, phase three at complexity 0.9 brought an 18% drop in self-regulation and a 32% increase in metacognitive gap.
 
 ## What this means for practice
 

@@ -3,7 +3,7 @@ title: "Leading Continuous Improvement: Generative Artificial Intelligence and A
 created: "2026-10-25T08:30:00-04:00"
 updated: "2026-10-25T08:30:00-04:00"
 type: article
-published: 2026
+published: "2026"
 sources: ['raw/papers/aalhe-genai-assessment-continuous-improvement-2026.md']
 confidence: high
 page_kind: [framework]

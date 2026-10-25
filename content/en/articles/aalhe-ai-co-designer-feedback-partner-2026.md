@@ -3,7 +3,7 @@ title: "AI as Co-Designer and Feedback Partner: Enhancing Human Judgment"
 created: "2026-10-25T08:30:00-04:00"
 updated: "2026-10-25T08:30:00-04:00"
 type: article
-published: 2026
+published: "2026"
 sources: ['raw/papers/aalhe-ai-co-designer-feedback-partner-2026.md']
 confidence: high
 page_kind: [framework]

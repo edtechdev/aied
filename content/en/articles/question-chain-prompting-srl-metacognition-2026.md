@@ -3,6 +3,7 @@ title: "Structured Questioning with Generative AI: Question Chains, Self-Regulat
 created: "2026-10-25T08:30:00-04:00"
 updated: "2026-10-25T08:30:00-04:00"
 type: article
+published: "2026-10-23"
 sources: ['raw/papers/question-chain-prompting-srl-metacognition-2026.md']
 confidence: high
 page_kind: [evaluation]

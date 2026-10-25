@@ -5,7 +5,7 @@ updated: "2026-10-21T09:30:00-04:00"
 type: article
 sources: ['raw/papers/evidence-grounded-framework-ai-generated-educational-feedback-2026.md']
 confidence: high
-published: 2026-10-20
+published: "2026-10-20"
 page_kind: [synthesis]
 research_method: [literature review]
 discipline: [learning sciences]

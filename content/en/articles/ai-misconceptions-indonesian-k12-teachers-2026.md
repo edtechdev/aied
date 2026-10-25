@@ -5,7 +5,7 @@ updated: "2026-10-20T09:20:00-04:00"
 type: article
 sources: ['raw/papers/ai-misconceptions-indonesian-k12-teachers-2026.md']
 confidence: high
-published: 2026-10-19
+published: "2026-10-19"
 page_kind: [evaluation]
 research_method: [survey, thematic analysis]
 discipline: []

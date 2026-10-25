@@ -5,7 +5,7 @@ updated: "2026-10-21T13:56:47-04:00"
 type: article
 sources: ['raw/papers/10.29333_pr_19631.md']
 confidence: high
-published: 2026-10-16
+published: "2026-10-16"
 page_kind: [evaluation]
 research_method: [case study, thematic analysis]
 discipline: [math education]

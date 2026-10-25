@@ -3,7 +3,7 @@ title: "From Chaos to Consistency: A Human-Centered Framework for AI-Supported A
 created: "2026-10-25T08:30:00-04:00"
 updated: "2026-10-25T08:30:00-04:00"
 type: article
-published: 2026
+published: "2026"
 sources: ['raw/papers/aalhe-chaos-to-consistency-ai-assessment-2026.md']
 confidence: high
 page_kind: [evaluation]

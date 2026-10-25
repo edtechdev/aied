@@ -3,7 +3,7 @@ title: "The ChatGPT Source Cue Shapes Answer Acceptance in a Reasoning Task"
 created: "2026-10-25T08:30:00-04:00"
 updated: "2026-10-25T08:30:00-04:00"
 type: article
-published: 2026-10
+published: "2026"
 page_kind: [evaluation]
 research_method: [experiment]
 discipline: [learning sciences]

@@ -5,7 +5,7 @@ updated: "2026-10-21T09:30:00-04:00"
 type: article
 sources: ['raw/papers/learning-style-inference-bias-student-ai-dialogues-2026.md']
 confidence: high
-published: 2026-10-20
+published: "2026-10-20"
 page_kind: [evaluation]
 research_method: [experiment]
 discipline: [learning sciences]

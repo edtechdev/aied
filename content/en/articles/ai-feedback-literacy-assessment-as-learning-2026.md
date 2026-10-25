@@ -5,7 +5,7 @@ updated: "2026-10-20T11:20:00-04:00"
 type: article
 sources: ['raw/papers/ai-feedback-literacy-assessment-as-learning-2026.md']
 confidence: medium
-published: 2026-10-19
+published: "2026-10-19"
 page_kind: [framework]
 research_method: [position paper]
 discipline: []

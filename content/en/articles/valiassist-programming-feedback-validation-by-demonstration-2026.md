@@ -5,7 +5,7 @@ updated: "2026-10-21T09:30:00-04:00"
 type: article
 sources: ['raw/papers/valiassist-programming-feedback-validation-by-demonstration-2026.md']
 confidence: high
-published: 2026-10-19
+published: "2026-10-19"
 page_kind: [evaluation]
 research_method: [user study, experiment, system development]
 discipline: [cs education]

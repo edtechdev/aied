@@ -3,7 +3,7 @@ title: "AI-Assisted Sentiment Analysis of Student Voice: A Human-Validated Compa
 created: "2026-10-25T08:30:00-04:00"
 updated: "2026-10-25T08:30:00-04:00"
 type: article
-published: 2026
+published: "2026"
 sources: ['raw/papers/aalhe-ai-sentiment-analysis-student-voice-2026.md']
 confidence: high
 page_kind: [evaluation]

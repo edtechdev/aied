@@ -5,7 +5,7 @@ updated: "2026-10-21T13:54:03-04:00"
 type: article
 sources: ['raw/papers/10.1016_j.caeai.2026.100689.md']
 confidence: high
-published: 2026-10-20
+published: "2026-10-20"
 page_kind: [evaluation]
 research_method: [design and evaluation study]
 discipline: [business education]

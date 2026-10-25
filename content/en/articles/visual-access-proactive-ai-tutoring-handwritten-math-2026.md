@@ -5,7 +5,7 @@ updated: "2026-10-20T09:20:00-04:00"
 type: article
 sources: ['raw/papers/visual-access-proactive-ai-tutoring-handwritten-math-2026.md']
 confidence: high
-published: 2026-10-19
+published: "2026-10-19"
 page_kind: [evaluation]
 research_method: [experiment, user study]
 discipline: [math education]

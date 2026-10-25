@@ -3,7 +3,7 @@ title: "Capacity and Disposition: A Framework for Understanding GenAI Engagement
 created: "2026-10-25T08:30:00-04:00"
 updated: "2026-10-25T08:30:00-04:00"
 type: article
-published: 2026-10
+published: "2026"
 page_kind: [framework]
 research_method: [position paper]
 discipline: []
