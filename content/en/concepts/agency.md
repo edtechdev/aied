@@ -1,7 +1,7 @@
 ---
 title: Learner Agency
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-10-16T07:28:51-04:00"
+updated: "2026-10-25T05:51:47-04:00"
 type: concept
 foundations: [agency, cognitive-offloading, human-ai-collaboration]
 pedagogy: [motivation, self-regulated-learning]
@@ -32,6 +32,8 @@ Agency matters because learning is most effective when learners are active, inte
 **A zero-sum view of agency with agentic tools:** [[emancipatory-ai-learner-flourishing-2026|Prieto & Dimitriadis (2026)]] argue that the more agency educational AI tools are given, the less learners retain — that agency is effectively a zero-sum game, and that current human-centered design approaches (e.g., value-sensitive design) are insufficient because over-reliance and isolation are driven by wider systemic factors and the human tendency to take the easiest path. Their emancipatory design vision, oriented toward learner flourishing within complex systems, treats preserving and cultivating learner agency as the central goal of generative AI design rather than an afterthought.
 
 **Agency as a purpose, not only a capacity:** Where the framings above ask how much agency learners retain, [[fagerlund-competency-agency-purposes-ai-education-2026|Fagerlund et al. (2026)]] ask what [[ai-education]] is *for*. Interviewing thirteen Finnish teachers from preschool through grade 9 about the purposes of teaching with and about AI, and reading their accounts through Biesta's three domains of educational purpose (qualification, socialization, subjectification), they found competency the clearest and most concrete end: teachers wanted students to understand AI as a sociotechnical phenomenon and to use its tools. Subjectification, meaning self-determined and personally meaningful engagement with AI, was affirmed as important but left without concrete instructional strategies, teachers reaching for generic discussion and contemplation rather than designed activities. The authors propose **informed AI agency** as a heuristic that puts subjectification at the center while treating [[ai-literacy|competencies]] as its explanatory foundation, helping students see what options exist and choose what to pursue. The practical consequence is direct: a skills-first curriculum can crowd out the agentic purpose it is meant to serve, and the remedy is to make the "why" of AI education explicit rather than to add another competency to the list.
+
+The direction of travel is not fixed. [[gillette-partnership-ethics-genai-higher-education-2026|Gillette et al. (2026)]] contrast their Swedish faculty with the Australian students in Bearman et al. (2025), who "generally wanted agency" and "resisted dependency": here several students described becoming dependent on genAI and named it as a loss, one saying it "gives a dopamine kick because everything takes less time" and "rewards bad behaviours".
 
 ## How agency appears in the knowledge base's research
 

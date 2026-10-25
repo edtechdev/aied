@@ -1,7 +1,7 @@
 ---
 title: Cognitive Offloading
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-25T05:04:43-04:00"
+updated: "2026-10-25T05:51:47-04:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [metacognition, self-regulated-learning]
@@ -87,6 +87,8 @@ The knowledge base's articles document cognitive offloading across multiple dime
 - **The ICAP/SAMR spectrum frames offloading as a continuum of modes, not a binary.** [[thermomix-genai-education-analogy-2026|Rummel, Nachtigall, and Panadero (2026)]] map the Thermomix kitchen-machine analogy onto learning with [[generative-ai]] within the [[icap-framework|ICAP]] and [[samr-model|SAMR]] frameworks, showing four scenarios that progress from **passive substitution** (fully outsourcing assignments — the offloading end, risking skill loss and limited [[creativity]]) to **interactive redefinition** (AI as a [[pedagogical-agent|dialogue partner]] providing real-time [[feedback|adaptive feedback]] and co-construction — the engaged end). This reframes offloading's harm as conditional on *mode of use* rather than mere frequency, converging with the pervasive "scaffold vs. substitute" boundary: whether AI use sits at the substitution/Substitution or redefinition/Redefinition end of the spectrum determines whether it displaces or supports the cognition that builds learning.
 
 [[navas-romero-designing-teaching-materials-genai-2026|Navas-Romero et al. (2026)]] report students' perceptions of the cognitive demands of GenAI-designed instructional materials in higher education alongside their gains in learner competencies, separating the load these materials impose from the competencies they build.
+
+[[gillette-partnership-ethics-genai-higher-education-2026|Gillette et al. (2026)]] record offloading as participants' own experience rather than a theoretical risk: one said genAI "prohibited me from actually reading and finding out myself what is important in the text, to develop reading skills", and another feared "the long-term development, where I become worse in certain skills that I now am very strong in".
 
 ## Over-reliance: when offloading becomes harmful
 

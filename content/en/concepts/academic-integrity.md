@@ -1,7 +1,7 @@
 ---
 title: Academic Integrity
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-18T10:07:01-04:00"
+updated: "2026-10-25T05:51:47-04:00"
 connected_faqs: [writing-instruction-ai-best-practices, should-we-use-ai-detectors, redesign-assessment-ai-era, reduce-ai-cheating, addressing-common-misconceptions-ai-education, course-ai-policy, verify-ai-output, group-work-ai, asynchronous-online-courses-ai]
 type: concept
 foundations: [ai-literacy]
@@ -154,6 +154,8 @@ The first Theory of Planned Behavior study of GAIT-based misconduct intention ex
 
 
 **Integrity policies are shifting from who wrote the words to who had the ideas, and the detectors are being rebuilt to match.** IdeaLens predicts idea provenance from an outline rather than from prose: on 50 stories that people wrote from scratch following AI-generated plans it flagged 68% as AI, against 8% for Pangram 4 and 0% for its prose-trained control, and it labeled 94.7% of AI-polished human text human ([[idealens-detecting-ai-ideas-2026|Rajendhran et al. (2026)]]). Its own ethics statement calls the output a statistical estimate that must not be used by itself as conclusive evidence of AI use.
+
+[[gillette-partnership-ethics-genai-higher-education-2026|Gillette et al. (2026)]] document the regime from inside one faculty: teachers who had changed assessment formats said it was "virtually impossible to say whether a student has used AI in the writing of assignments", while angry students asked for appeals to conscience and "shaming" rather than detection.
 
 ## Connected Concepts
 - [[pedagogical-patterns]] — Verification sequences adopted in response to generative AI

@@ -1,7 +1,7 @@
 ---
 title: AI Governance
 created: "2026-08-13T18:17:22-04:00"
-updated: "2026-10-23T09:20:00-04:00"
+updated: "2026-10-25T05:51:47-04:00"
 type: concept
 foundations: [ai-education]
 ethics: [ethics, privacy]
@@ -36,6 +36,8 @@ AI governance in education is increasingly urgent because [[generative-ai|genera
 
 
 - **The techno-solutionist trap and the policy deficit:** A systematic review of 65 AI × [[social-emotional-learning|social-emotional learning]] studies ([[policy-deficit-ai-sel-2026|Tran, Liu & Nguyen 2026]]) finds that research often foregrounds technical potential while under-specifying the institutional conditions for responsible implementation — a "techno-solutionist" trap. The authors link policy [[student-engagement|engagement]] to publication venue and propose a "WH-question" framework to make governance implications actor-specific, echoing the knowledge base's broader finding that institutional governance lags AI adoption.
+
+[[gillette-partnership-ethics-genai-higher-education-2026|Gillette et al. (2026)]] show a governance mismatch rather than a governance vacuum: students wanted the university to "do more", but the institution holds that decisions belong at department, program and course level, so demand and mandate point at different bodies while silence fills the gap.
 
 ## How AI governance appears in the research
 

@@ -1,7 +1,7 @@
 ---
 title: Trust
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-10-22T09:11:45-04:00"
+updated: "2026-10-25T05:51:47-04:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, human-ai-collaboration]
 technology: [educational-robotics, intelligent-tutoring]
@@ -24,6 +24,8 @@ reviewed_by: [editor]
 ## Introduction
 
 Trust in AI is shaped by perceived competence, transparency, consistency, and whether the system appears aligned with the learner's goals; it is closely tied to [[ai-literacy]] (knowing what to trust), [[critical-thinking]] (evaluating output), and the design of responsible AI. Interpersonal trust, by contrast, is built through relationships, disclosure, feedback, and [[pedagogy|pedagogical]] care — the qualities students rely on when they decide whether an instructor or an AI is a trustworthy source of guidance. The two domains increasingly interact: AI is woven into teacher-student relationships, so how students trust their instructor shapes how they trust (or question) the AI tools that instructor endorses.
+
+Trust is a measured casualty, not only a principle. In [[gillette-partnership-ethics-genai-higher-education-2026|Gillette et al. (2026)]], students said they trusted classmates less after discovering undisclosed genAI use in group work, calling it "detrimental to the trust and ethics of academia", while a few suspected teachers used genAI and withheld that from students.
 
 ## Trust in AI systems
 
