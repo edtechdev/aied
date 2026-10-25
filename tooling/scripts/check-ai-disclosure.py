@@ -310,7 +310,7 @@ def main() -> int:
             required += 1
             if not assists:
                 errors.append(f'{rel}: created {created} but carries no ai_assist record'
-                              f' (per-page records begin {started}; see AI-USE.md)')
+                              f' (per-page records begin {started})')
             if not contribs:
                 errors.append(f'{rel}: created {created} but names no contributors')
         if assists:

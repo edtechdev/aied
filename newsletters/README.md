@@ -170,9 +170,9 @@ carry a `-2026` suffix and sometimes do not.
 Render the issue on its own rather than rebuilding the site to look at it:
 
 ```
-python3 ~/.hermes/skills/research/newsletter-issue-drafting/scripts/render-newsletter-preview.py \
-  content/en/newsletters/2026-10-24.md --outdir ~/.hermes/cache/scratch/newsletter-preview
-python3 -m http.server 4322 --bind 0.0.0.0 --directory ~/.hermes/cache/scratch/newsletter-preview
+python3 skills/research/newsletter-issue-drafting/scripts/render-newsletter-preview.py \
+  content/en/newsletters/2026-10-24.md --outdir /tmp/newsletter-preview
+python3 -m http.server 4322 --bind 0.0.0.0 --directory /tmp/newsletter-preview
 ```
 
 Serve it on a second port: the site's own preview port is the user's window on the live build, and a
