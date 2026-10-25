@@ -1,7 +1,7 @@
 ---
 title: Aktives Lernen
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-10T09:04:25-04:00"
+updated: "2026-10-25T00:10:53-04:00"
 connected_faqs: [does-ai-help-students-learn, designing-ai-into-learning]
 type: concept
 foundations: [ai-education, learning-design]
@@ -108,9 +108,9 @@ Aktives Lernen ist einer der stärksten Hebel auf [[learning-gains|Lernzuwächse
 
 ## Verbundene Artikel
 
-- [[kestin-ai-tutoring-outperforms-active-learning-rct-2025]] — AI tutoring outperforms in-class active learning: an RCT introducing a novel research-based design in an authentic educational setting (Kestin et al. 2025)
+- [[kestin-ai-tutoring-outperforms-active-learning-rct-2025]] — KI-Tutoring schlägt aktives Lernen im Unterricht: ein RCT, der ein neuartiges forschungsbasiertes Design in einem authentischen Bildungskontext einführt (Kestin et al. 2025)
 - [[ai-pbl-computational-thinking-2026]]
-- [[beck-genai-literacy-economics-hands-on]] — Active-learning GenAI framework for economics (Beck & Brodersen 2025)
+- [[beck-genai-literacy-economics-hands-on]] — Aktives-Lernen-GenAI-Rahmenwerk für Wirtschaftswissenschaften (Beck & Brodersen 2025)
 - [[lak2026-hint-button-unproductive-use]]
 - [[efficiency-gain-illusion-ai-overreliance]]
 - [[neurodivergent-computing-students]]
@@ -119,8 +119,8 @@ Aktives Lernen ist einer der stärksten Hebel auf [[learning-gains|Lernzuwächse
 - [[curiobot-llm-tutoring-exploratory-learning]]
 - [[genai-assisted-problem-posing-physics-2026]]
 - [[ai-assisted-learning-modes-eeg]] — EEG-Studie zu KI-Interaktionsmodi (interaktiv > automatisch)
-- [[supplynet-visual-exploratory-learning]] — SupplyNet: visual exploratory learning via multi-agent simulation
-- [[knowloop-confusion-to-consolidation-2026]] — KnowLoop: staged conversational post-lecture review
+- [[supplynet-visual-exploratory-learning]] — SupplyNet: visuelles exploratives Lernen über Multi-Agenten-Simulation
+- [[knowloop-confusion-to-consolidation-2026]] — KnowLoop: gestufte konversationelle Nachbereitung nach der Vorlesung
 - [[academic-league-of-ai-2026]] — Academic League of AI: projektbasiertes aktives Lernen
 - [[mujib-ai-ibl-creative-math-2026]] — KI-unterstütztes IBL und kreative mathematische Leistung
 - [[tts-dialogue-lessons-learner-characteristics-2026]] — Merkmale der Lernenden × Interaktionen mit TTS-Dialogformat

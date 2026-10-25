@@ -1,7 +1,7 @@
 ---
 title: Forschungsmethoden in der AIED
 created: "2026-08-13T05:48:37-04:00"
-updated: "2026-10-10T09:04:23-04:00"
+updated: "2026-10-24T22:20:44-04:00"
 type: concept
 foundations: [ai-education]
 assessment: [educational-measurement]
@@ -210,25 +210,25 @@ In der Praxis fällt Forschung zu KI in der Bildung selten saufig in eine Tradit
 
 ## Verbundene Artikel
 
-- [[ai-methodologies-science-education-research-2026]] — A seven-phase epistemic-iteration framework for reflecting on how AI methodologies may transform science education research (Martin et al., 2026)
-- [[access-not-enough-ai-tutoring-2026]] — Access is Not Enough: Human Support Improves Engagement with AI Tutoring
-- [[genai-can-harm-teaching-rct-2026]] — Generative AI Can Harm Teaching
-- [[genai-over-reliance-learning-2026]] — From Enhancement to Over-Reliance: A Mixed-Method Study
-- [[acceptance-ai-english-tools-2026]] — Acceptance of AI-Assisted English Language Learning Tools
-- [[hazra-safetutors-pedagogical-safety-2026]] — AI Tutor Safety and Pedagogical Harms
-- [[zerkouk-comprehensive-review-its-2025]] — Comprehensive Review of Intelligent Tutoring Systems
-- [[ai-assisted-collaborative-learning-model-dbr]] — Design-Based Research for an AI-Assisted Collaborative Learning Model
-- [[teachbench-llm-teaching-evaluation]] — TeachBench: Evaluating LLM Teaching Ability
-- [[ground-truth-reliability-aied]] — Modernizing Ground Truth: Four Shifts Toward Reliability and Validity
-- [[llm-student-simulation-teacher-insights]] — Can LLMs Effectively Simulate Human Learners?
-- [[raise-framework-ai-education-reporting-2026]] — RAISE: 30 items in ten domains for transparent reporting of AI-in-education studies (Allison 2026)
-- [[ai-lms-middle-school-longitudinal]] — AI-Integrated Learning Management System: A Longitudinal Study
-- [[ai-in-the-wild-college]] — AI in the Wild: Large Scale Analysis of Authentic Interactions
-- [[same-ai-different-pathways]] — Same AI, Different Pathways: Unpacking Mechanisms
-- [[tep-aied-model-reporting-2026]] — The TEP-AIED model for reporting AI-in-education research with rigor (Hwang, Xie, Wah & Gasevic 2026)
-- [[t2i-competence-paradox-2026]] — The Competence Paradox: Text-to-Image GenAI in Art and Design
+- [[ai-methodologies-science-education-research-2026]] — Ein siebenphasiges Rahmenwerk epistemischer Iteration zur Reflexion darüber, wie KI-Methodologien die Bildungsforschung transformieren könnten (Martin et al., 2026)
+- [[access-not-enough-ai-tutoring-2026]] — Zugang ist nicht genug: Menschliche Unterstützung verbessert das Engagement bei KI-Tutoring
+- [[genai-can-harm-teaching-rct-2026]] — Generative KI kann dem Lehren schaden
+- [[genai-over-reliance-learning-2026]] — Von der Verstärkung zur Überabhängigkeit: Eine Mixed-Method-Studie
+- [[acceptance-ai-english-tools-2026]] — Akzeptanz KI-gestützter Werkzeuge für das Erlernen der englischen Sprache
+- [[hazra-safetutors-pedagogical-safety-2026]] — Sicherheit von KI-Tutoren und pädagogische Schäden
+- [[zerkouk-comprehensive-review-its-2025]] — Umfassender Review intelligenter Tutoring-Systeme
+- [[ai-assisted-collaborative-learning-model-dbr]] — Designbasierte Forschung für ein KI-gestütztes kollaboratives Lernmodell
+- [[teachbench-llm-teaching-evaluation]] — TeachBench: Bewertung der Lehrfähigkeit von LLMs
+- [[ground-truth-reliability-aied]] — Ground Truth modernisieren: Vier Verschiebungen hin zu Verlässlichkeit und Validität
+- [[llm-student-simulation-teacher-insights]] — Können LLMs menschliche Lernende effektiv simulieren?
+- [[raise-framework-ai-education-reporting-2026]] — RAISE: 30 Items in zehn Domänen für transparente Berichterstattung über KI-in-der-Bildung-Studien (Allison 2026)
+- [[ai-lms-middle-school-longitudinal]] — KI-integriertes Lernmanagementsystem: Eine Längsschnittstudie
+- [[ai-in-the-wild-college]] — KI im Feld: Groß angelegte Analyse echter Studierendeninteraktionen
+- [[same-ai-different-pathways]] — Dieselbe KI, unterschiedliche Pfade: Mechanismen freilegen
+- [[tep-aied-model-reporting-2026]] — Das TEP-AIED-Modell für die rigorose Berichterstattung über KI-in-der-Bildung-Forschung (Hwang, Xie, Wah & Gasevic 2026)
+- [[t2i-competence-paradox-2026]] — Das Kompetenzparadox: Text-zu-Bild-GenAI in Kunst und Design
 - [[rismanchian-ai-education-four-decades-aixed-2026]]
-- [[weidlich-chatgpt-effect-search-cause-2025]] — ChatGPT in Education: An Effect in Search of a Cause
-- [[bartos-ai-learning-meta-meta-analysis-2026]] — Meta-meta-analysis of AI effect on learning
-- [[oneill-presumed-effective-meta-analysis-2026]] — Presumed Effective: flawed AIED meta-analysis audit
-- [[synthetic-educational-data-structural-fidelity-2026]] — What Fidelity Metrics Miss: A Structural Check on Synthetic Educational Data
+- [[weidlich-chatgpt-effect-search-cause-2025]] — ChatGPT in der Bildung: Ein Effekt auf der Suche nach einer Ursache
+- [[bartos-ai-learning-meta-meta-analysis-2026]] — Meta-Meta-Analyse des KI-Effekts auf Lernen
+- [[oneill-presumed-effective-meta-analysis-2026]] — Vermutlich wirksam: fehlerhafter AIED-Meta-Analyse-Audit
+- [[synthetic-educational-data-structural-fidelity-2026]] — Was Fidelitätsmetriken übersehen: Eine strukturelle Prüfung synthetischer Bildungsdaten

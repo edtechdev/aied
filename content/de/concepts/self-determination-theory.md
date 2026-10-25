@@ -1,7 +1,7 @@
 ---
 title: Selbstbestimmungstheorie
 created: "2026-08-10T17:38:45-04:00"
-updated: "2026-10-10T09:04:25-04:00"
+updated: "2026-10-24T22:30:00-04:00"
 type: concept
 foundations: [ai-education, teacher-ai-competency]
 pedagogy: [motivation, self-determination-theory]
@@ -9,7 +9,7 @@ technology: [affective-computing]
 audience: [learners]
 confidence: high
 translation_of: concepts/self-determination-theory
-source_updated: "2026-09-30T12:53:22-04:00"
+source_updated: "2026-10-17T07:38:51-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -43,6 +43,8 @@ SDT wird in der [[research-methods-aied|Forschung]] zu KI in der Bildung zunehme
 **SDT in KI-vermitteltem Lernengagement** untersucht, wie [[generative-ai|generative KI]]-Werkzeuge die Motivation von Studierenden prägen. **[[students-engagement-with-generative-ai-in-academic-learning-a-self-determination|Isaeva et al.]]** kombinierten SDT mit [[network-analysis|epistemischer Netzwerkanalyse]], um das Engagement von Studierenden mit generativer KI im akademischen Lernen zu untersuchen. **[[ai-availability-student-motivation]]** erkundet, wie die Verfügbarkeit von KI die Motivation und Persistenz von Studierenden beeinflusst, und verknüpft dies mit [[cognitive-offloading|Over-Reliance]]-Bedenken zur Erosion von Motivation. **[[liang-ai-learning-motivation-sdt-2026|Liang et al. (2026)]]** erweitern SDT auf KI-Lernen mit einer Latent-Transition-Analyse von **2.086 Sekundarstufen-Studierenden** in einem einjährigen KI-[[curriculum-design|Curriculum]] und identifizieren **drei Motivationsprofile (Disengaged, Developing, Self-Determined)**, die über die Zeit stabil waren, und zeigen, dass die meisten Studierenden ihre Profile hielten oder zu höheren vorrückten. Entscheidend: Studierende, die das Self-Determined-Profil erreichten oder darin blieben, zeigten die **größten Zuwächse in [[ai-literacy|KI-Kompetenz]]** — ein direkter Längsschnittbeleg dafür, dass die Befriedigung von Autonomie, Kompetenz und Verbundenheit bessere KI-Lernresultate vorhersagt, und dass Motivation eine entwicklungsbedingte (nicht feste) Eigenschaft der lernenden Person ist.
 
 Ein gegenteiliges Kursraumergebnis zeigt, dass sich die Bedürfnisse nicht gemeinsam bewegen: Unter 2.464 Studierenden der unteren Sekundarstufe erhöhte ChatGPT-unterstütztes kompetenzbasiertes Lernen die Autonomieunterstützung und die Kompetenzzufriedenheit, erzeugte aber einen größeren Anteil an Motivationsprofilen geringer Qualität, und die Zufriedenheit mit Verbundenheit war schwächer als bei kompetenzbasiertem Lernen ohne KI ([[student-motivation-need-satisfaction-genai-sdt-2026|Schweder, Hagenauer & Raufelder (2026)]]).
+
+Autonomie, nicht Leichtigkeit, trug hier den motivationalen Gewinn. Ein [[rct|Drei-Arm-RCT]] fand, dass ein Tutor, der Hinweise zurückhielt und Lernende ihre eigene Lösung bauen ließ, der einzige Arm war, der intrinsische Motivation erhöhte (2,82 gegenüber 2,42), während uneingeschränktes ChatGPT, das die Antwort liefert, dies nicht tat (2,64, p = .076) ([[bassner-performance-learning-dissociation-ai-programming-2026|Bassner et al. (2026)]]).
 
 Ein konfigurativer Test verschärft den Punkt: Unter 498 Medizinstudierenden im Bachelor war die GAI-Nutzung nur schwach mit Bedürfniszufriedenheit assoziiert (β = 0.155) und erwies sich als unnötig für hohes Engagement, während die Zufriedenheit des Kompetenzbedürfnisses die Kernbedingung in der stärksten Konfiguration war ([[genai-learning-engagement-medical-undergraduates-2026|He et al. (2026)]]).
 
@@ -79,17 +81,18 @@ SDT verbindet sich unmittelbar mit [[motivation|Motivation]] als ihrem übergeor
 
 ## Verbundene Artikel
 
-- [[family-school-autonomy-support-genai-2026]] — Family-School Autonomy Support for Children's Responsible Use of Generative AI
+- [[family-school-autonomy-support-genai-2026]] — Familien-Schule-Autonomieunterstützung für den verantwortungsvollen Gebrauch generativer KI durch Kinder
 - [[dual-ai-learning-pathways-sdt-2026]] — Sekundarschuldruck/Autonomieunterstützung und zwei Pfade des KI-Lernens (Shen & Arunrugstichai 2026)
 - [[reclaiming-epistemic-agency-co-agency-2026]]
 - [[claassen-learning-analytics-genai-learning-design-2026]] — LA und GenAI in Entscheidungsfindung im Lerndesign
 - [[teacher-education-ai-literacy-sdt-2026]]
 - [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]]
 - [[ai-availability-student-motivation]]
-- [[chatgpt-english-language-learning-malaysia]] — Students' ChatGPT experiences in English language learning
+- [[chatgpt-english-language-learning-malaysia]] — ChatGPT-Erfahrungen von Studierenden im Englischlernen
 - [[tts-dialogue-lessons-learner-characteristics-2026]] — Merkmale der Lernenden × Interaktionen mit TTS-Dialogformat
 - [[liang-ai-learning-motivation-sdt-2026]] — SDT-Latent-Transition-Analyse der KI-Lernmotivation von Studierenden (2.086 Sekundarstufen-Studierende)
-- [[student-motivation-need-satisfaction-genai-sdt-2026]] — Student motivation and need satisfaction in GenAI classrooms (Schweder, Hagenauer & Raufelder 2026)
+- [[student-motivation-need-satisfaction-genai-sdt-2026]] — Studierendenmotivation und Bedürfniszufriedenheit in GenAI-Kursräumen (Schweder, Hagenauer & Raufelder 2026)
 
-- [[genai-learning-engagement-medical-undergraduates-2026]] — GAI use is weakly tied to need satisfaction and unnecessary for high engagement (He et al. 2026)
-- [[teacher-ai-collaboration-work-engagement-2026]] — Dual pathways from teacher–AI collaboration to work engagement, moderated by digital competency
+- [[genai-learning-engagement-medical-undergraduates-2026]] — GAI-Nutzung ist schwach mit Bedürfniszufriedenheit verbunden und für hohes Engagement unnötig (He et al. 2026)
+- [[teacher-ai-collaboration-work-engagement-2026]] — Zwei Pfade von Lehrkräfte-KI-Zusammenarbeit zum Arbeitsengagement, moderiert durch digitale Kompetenz
+- [[bassner-performance-learning-dissociation-ai-programming-2026]] — Zurückhaltende Hinweise bewahrten Autonomie dort, wo das Geben von Antworten es nicht tat

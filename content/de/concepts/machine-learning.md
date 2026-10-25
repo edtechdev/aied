@@ -4,7 +4,7 @@ type: concept
 technology: [ai-technologies, generative-ai, learning-analytics, machine-learning, student-modeling]
 confidence: medium
 created: "2026-08-29T12:55:12-04:00"
-updated: "2026-10-10T09:04:24-04:00"
+updated: "2026-10-24T23:55:00-04:00"
 translation_of: concepts/machine-learning
 source_updated: "2026-09-30T07:29:37-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
@@ -78,20 +78,20 @@ Maschinelles Lernen erscheint in der Bildung auch als *Fach*. In der [[microbit-
 
 ## Verbundene Artikel
 
-- [[at-risk-students-ml-prediction]] — Supervised ML classification to identify students at risk of withdrawal
-- [[trace-course-grade-prediction-2026]] — Transformer jointly predicting courses and grades (TRACE)
-- [[precision-education-student-digital-twins-2026]] — AI-powered student digital twins for preventive, career-aligned pathways
-- [[sc2r-counterfactual-recourse-educational-2026]] — Semantics-constrained counterfactual recourse for actionable intervention
-- [[interactive-online-learning-ai-2025]] — DMO-GRU hybrid for interactive online-learning prediction
-- [[adaptive-scaffolding-cognitive-engagement-its]] — Adaptive scaffolding of cognitive engagement in an ITS (BKT vs DRL)
-- [[pedagogical-safety-rl]] — Formal framework for pedagogical safety in educational reinforcement learning
-- [[automated-online-exam-proctoring-decade-review-2026]] — Decade-long review of deep-learning automated proctoring
-- [[pradeesh-outcome-knowledge-tracing-affinity-2026]] — Outcome-based knowledge tracing with affinity mapping
-- [[bird-multimodal-educational-literature-2026]] — Multimodal fusion for classifying educational literature
-- [[razavi-powers-item-difficulty-llm-2026]] — Estimating item difficulty using LLMs and tree-based ML
+- [[at-risk-students-ml-prediction]] — Überwachte ML-Klassifikation zur Identifikation von Studierenden mit Abbruchrisiko
+- [[trace-course-grade-prediction-2026]] — Transformer sagt gemeinsam Kurse und Noten vorher (TRACE)
+- [[precision-education-student-digital-twins-2026]] — KI-gestützte digitale Zwillinge von Studierenden für präventive, karriereorientierte Bildungswege
+- [[sc2r-counterfactual-recourse-educational-2026]] — Semantisch beschränkter kontrafaktischer Rekurs für umsetzbare Intervention
+- [[interactive-online-learning-ai-2025]] — DMO-GRU-Hybrid für die Vorhersage interaktiven Online-Lernens
+- [[adaptive-scaffolding-cognitive-engagement-its]] — Adaptive Gerüstbildung kognitiven Engagements in einem ITS (BKT vs. DRL)
+- [[pedagogical-safety-rl]] — Formaler Rahmen für pädagogische Sicherheit im Reinforcement Learning in der Bildung
+- [[automated-online-exam-proctoring-decade-review-2026]] — Jahrzehntelanges Review zu Deep-Learning-gestützter automatisierter Prüfungsaufsicht
+- [[pradeesh-outcome-knowledge-tracing-affinity-2026]] — Ergebnisbasiertes Knowledge Tracing mit Affinitätszuordnung
+- [[bird-multimodal-educational-literature-2026]] — Multimodale Fusion zur Klassifikation bildungswissenschaftlicher Literatur
+- [[razavi-powers-item-difficulty-llm-2026]] — Schätzung der Aufgabenschwierigkeit mit LLMs und baumbasiertem ML
 - [[schuetze-knowledge-tracing-forgetting-2026]]
 - [[zhang-ml-student-progress-programming-2026]]
 - [[riedmann-reinforcement-learning-education-review-2026]]
 - [[yin-arthur-ai-teaching-assistant-engineering-econ-2026]]
-- [[culturally-aware-student-stress-chatbot-2026]] — An AI-Powered Culturally Aware Chatbot for Stress Detection and Wellness Support among Pakistani University Students Using NLP and Machine Learning
-- [[synthetic-educational-data-structural-fidelity-2026]] — What Fidelity Metrics Miss: A Structural Check on Synthetic Educational Data
+- [[culturally-aware-student-stress-chatbot-2026]] — Ein KI-gestützter, kulturbewusster Chatbot zur Stresserkennung und Wohlbefindensunterstützung bei pakistanischen Universitätsstudierenden mittels NLP und maschinellem Lernen
+- [[synthetic-educational-data-structural-fidelity-2026]] — Was Treue-Metriken verpassen: eine strukturelle Prüfung synthetischer Bildungsdaten

@@ -1,7 +1,7 @@
 ---
 title: Wissensstandsverfolgung
 created: "2026-06-23T10:44:35-04:00"
-updated: "2026-10-10T09:04:25-04:00"
+updated: "2026-10-24T22:43:16-04:00"
 type: concept
 connected_faqs: [making-simulated-students-behave-like-learners]
 technology: [adaptive-learning, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, personalized-learning, student-modeling]
@@ -87,17 +87,17 @@ Knowledge Tracing ist eng mit [[student-modeling|Modellierung von Lernenden]] ve
 
 ## Verbundene Artikel
 
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — Deceptive overgeneralization: adaptive mastery can stop practice before learners know when to withhold an action (An, McLaren & Stamper 2026)
+- [[deceptive-overgeneralization-adaptive-learning-2026]] — Täuschende Übergeneralisierung: adaptive Beherrschung kann Übung stoppen, bevor Lernende wissen, wann eine Handlung zu unterlassen ist (An, McLaren & Stamper 2026)
 - [[huang-interpretable-knowledge-tracing-2026]]
 - [[thymen-temporal-hypergraph-knowledge-tracing-2026]]
 - [[skill-acquisition-without-temporal-info]]
 - [[xie-hillm-cd-2026]]
 - [[zerkouk-comprehensive-review-its-2025]]
-- [[graph-its-adaptive-algorithms-2026]] — Graph-Based Intelligent Tutoring for Dynamic Domains (2026)
-- [[pradeesh-outcome-knowledge-tracing-affinity-2026]] — Outcome-based knowledge tracing with affinity mapping
+- [[graph-its-adaptive-algorithms-2026]] — Graphbasiertes intelligentes Tutoring für dynamische Domänen (2026)
+- [[pradeesh-outcome-knowledge-tracing-affinity-2026]] — Ergebnisbasiertes Knowledge Tracing mit Affinitätsabbildung
 - [[schuetze-knowledge-tracing-forgetting-2026]]
-- [[exrec-exercise-recommendation-knowledge-tracing-2025]] — semantically grounded tracing with KC-calibrated states, used as an RL environment for recommendation
-- [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn: An Agentic Tutor that Learns its Learner in a Human-AI Co-Learning Loop
-- [[crediting-assisted-work-inflates-mastery-2026]] — Which evidence rule decides a mastery claim (Srivastava 2026)
-- [[system-one-llm-knowledge-tracing-2026]] — A single-pass LLM traces knowledge above deep models trained on 8 learners, at a fraction of the cost (Lee & Park 2026)
-- [[knowledge-tracing-compression-math-2026]] — Compressing student history in mathematics knowledge tracing
+- [[exrec-exercise-recommendation-knowledge-tracing-2025]] — semantisch verankertes Tracing mit KC-kalibrierten Zuständen, genutzt als Verstärkungslern-Umgebung für Empfehlungen
+- [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn: Ein agentischer Tutor, der seine lernende Person in einer Mensch-KI-KoLern-Schleife lernt
+- [[crediting-assisted-work-inflates-mastery-2026]] — Welche Evidenzregel über eine Beherrschungsbehauptung entscheidet (Srivastava 2026)
+- [[system-one-llm-knowledge-tracing-2026]] — Ein Einmal-Durchlauf-LLM verfolgt Wissen über tiefe Modelle hinaus, die auf 8 Lernenden trainiert wurden, zu einem Bruchteil der Kosten (Lee & Park 2026)
+- [[knowledge-tracing-compression-math-2026]] — Komprimierung der Lernergeschichte im mathematischen Knowledge Tracing

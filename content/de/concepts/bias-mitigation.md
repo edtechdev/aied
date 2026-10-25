@@ -127,10 +127,10 @@ Minderung von Bias ist der technische Mechanismus, durch den [[equity-in-ai-educ
 - [[antiskillbench-persona-skills-privacy-2026]] — Persona-Skills-Datenschutz und Prüfung auf Bias
 - [[genai-minoritized-knowledges-disability]] — Generative KI und die Marginalisierung minoritierter Wissensformen
 - [[marked-pedagogies-linguistic-bias-writing-feedback]] — Marked Pedagogies: stereotypkonforme Biases in automatisiertem Schreibfeedback
-- [[lopez-pernas-llm-appropriate-student-support-2026]] — Can AI deliver appropriate support for diverse student profiles? A large-scale evaluation
-- [[bias-representation-text-to-image-education-2026]] — Bias and representation in AI-generated text-to-image: systematic review (Alon et al. 2026)
-- [[agarwal-ethical-values-norms-aied-2026]] — Ethical values and norms for AI in education
-- [[nlp-student-evaluation-teaching-scoping-review-2026]] — From Sentiment Classification to Actionable and Responsible Feedback: A Scoping Review and Evidence Map of NLP in Student Evaluation of Teaching, 2015–2026
+- [[lopez-pernas-llm-appropriate-student-support-2026]] — Kann KI angemessene Unterstützung für vielfältige Studierendenprofile liefern? Eine Evaluation im großen Maßstab
+- [[bias-representation-text-to-image-education-2026]] — Bias und Repräsentation in KI-erzeugtem Text-zu-Bild: systematischer Review (Alon et al. 2026)
+- [[agarwal-ethical-values-norms-aied-2026]] — Ethische Werte und Normen für KI in der Bildung
+- [[nlp-student-evaluation-teaching-scoping-review-2026]] — Von der Sentiment-Klassifikation zum handlungsfähigen und verantwortungsvollen Feedback: ein Scoping Review und Evidenzkarte zur NLP in der Studierendenevaluation von Lehre, 2015–2026
 
-- [[genai-social-bias-software-engineering-education-2026]] — Generative AI May Reinforce Social Biases in Software Engineering Education
+- [[genai-social-bias-software-engineering-education-2026]] — Generative KI kann soziale Biases in der Software-Engineering-Bildung verstärken
 - [[fairness-theatre-early-warning-systems-2026]] — Fairness Theatre: Evaluating Post-Hoc Fairness Interventions in Vendor-Controlled Early Warning Systems

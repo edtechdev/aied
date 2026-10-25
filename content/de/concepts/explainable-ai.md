@@ -1,7 +1,7 @@
 ---
 title: Erklärbare KI
 created: "2026-09-07T10:15:00-04:00"
-updated: "2026-10-10T09:04:23-04:00"
+updated: "2026-10-24T21:41:34-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [metacognition]
@@ -11,7 +11,7 @@ ethics: [bias-mitigation, trust-calibration, pedagogical-safety]
 audience: [learners, researchers, instructional designers, instructors]
 confidence: high
 translation_of: concepts/explainable-ai
-source_updated: "2026-09-30T14:23:52-04:00"
+source_updated: "2026-10-16T06:45:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -77,6 +77,8 @@ Erklärungsqualität hat auch eine Gerechtigkeitsdimension: eine Erklärung, die
 
 Erklärung ist nicht immer ein Nivellierer. In einem 2 × 2-Vignettenexperiment mit 250 Schülerinnen der siebten Klasse erhöhte eine schriftliche Begründung für eine Mathematiknote die Akzeptanz und wahrgenommene Fairness in beiden Bedingungen, erweiterte aber eher die Lücke zwischen [[teacher-role|Lehrkraft]]- und KI-getroffenen Entscheidungen, statt sie zu schließen ([[decision-making-agent-student-decision-acceptance-2026|Zhang et al. (2026)]]).
 
+Zitate fungieren als Glaubwürdigkeitssignal statt als Beleg für Korrektheit: das Anhängen von Zitaten und Autoritätssignalen an eine Debattenoberfläche erhöhte die Abkehr von einem korrekten Urteil zugunsten der Position der KI von 15,0 % auf 31,8 %, und zitierte Fälle waren mitunter falsch zugeordnet oder fiktiv ([[tuo-armada-multi-agent-debate-overreliance-2026|Tuo et al., 2026]]).
+
 Zwei Vorsichtshinweise schärfen dies weiter, die beide den neuesten Beitrag des Wikis zum Thema zentral macht. Erstens ist die Erklärungsmaschinerie nicht selbst neutral: post-hoc Methoden wie LIME und SHAP können dem tatsächlichen Verhalten des Modells untreu sein, daher kann eine technisch vorhandene Erklärung eher irreführen als informieren ([[lund-socially-accountable-data-science-xai-2026|Lund et al. 2026]], gestützt auf Chuan et al. 2024). Zweitens ist **Erklärung nicht Verantwortlichkeit**. Ein Bericht darüber, welche Merkmale eine Vorhersage trieben, offenbart nicht, ob jene Merkmale angemessen zu nutzen waren, ob die Trainingsdaten repräsentativ waren oder ob das Design des Systems gutes Urteil spiegelte; Erklärungen können den Anschein von Transparenz schaffen, während sie die strukturellen Bedingungen, die eine Entscheidung erzeugten, unberührt lassen (Mittelstadt et al. 2019). Für die Bildung bedeutet das, dass die Frage, die es weiter zu stellen gilt, nicht ist, ob eine Erklärung erzeugt wurde, sondern ob die Person, die sie empfängt — eine Studentin, eine Lehrkraft, eine Beraterin — sie verstehen, danach handeln oder die Entscheidung dahinter anfechten könnte. Dasselbe Versagen der Lesbarkeit erscheint auf der Sicherheitsseite von [[automated-assessment|automatisiertem Assessment]]: [[humble-prompt-injection-ai-grading-red-team-2026|Humbles (2026)]] Red-Team eines KI-Benotungswerkzeugs fand, dass es den Chat stillschweigend deaktivierte, nachdem es eine Prompt-Injektion blockierte, und — nachdem es angekündigt hatte, es werde eingebetteten Anweisungen nie folgen — ihnen in sechs weiteren Läufen an derselben Datei folgte, was der Nutzerin kein verlässliches Signal ließ, auf das Verlass zu gründen wäre.
 
 **Erklärbar durch Design** ist eine Antwort auf das Treue-Problem post hoc. [[li-explainable-trustworthy-llm-teacher-assessment-2025|Li, Yang und Fang (2025)]] parametrisieren einen Erklärungsdecoder durch dieselbe fusionierte Repräsentation und denselben vorhergesagten Score, die über das [[assessment]] entscheiden, sodass ein niedriger Score bei [[formative-assessment|formativen]] Fragen eine Begründung ergibt, die unzureichende Sondierungsfragen benennt, und paaren ihn mit Aufmerksamkeit über zwei Linsen auf Curriculumsstandards und fachspezifische Rubrik-Züge. Die Aufmerksamkeit-zu-Rubrik-Ausrichtung erreicht 78,0 % gegenüber 41,7 % bei GPT-4 Zero-Shot und 32,1 % bei BERT, und Treue wird durch kontrafaktisches Löschen rubrik-kritischer Spannen neben menschlichen Bewertungen an einer rubrikverankerten Checkliste geprüft, was einen Erklärungs-Glaubwürdigkeitswert von 0,78 ergibt — ein Anstieg von 0,31 gegenüber BERT-base. Das Audit zeigt auch, wo der architektonische Anspruch dünnt: bei emotionalen Hinweisen legt das Modell 28,4 % des Aufmerksamkeitsgewichts gegenüber einer Expertin 15,2 % (Ausrichtung 0,53), wobei ein Fehlerfall 28 % dem Token „frustrated“ zuweist, was die Autoren als Überanpassung an Affekt statt an Pädagogik lesen und als Bereich der Verfeinerung benennen. Erklärungen in den Entscheidungspfad einzubetten macht sie treuer als post-hoc Begründungen; es macht sie nicht richtig.
@@ -131,4 +133,5 @@ Khosravi, H., Buckingham Shum, S., Chen, G., Conati, C., Tsai, Y.-S., Kay, J., K
 - [[humble-prompt-injection-ai-grading-red-team-2026]] — Prompt-Injektion in KI-vermittelter Benotung, wo Erkennung der Nutzerin nie gemeldet wurde (Humble 2026)
 - [[bloom-classifier-ai-assisted-questions-2026]] — Evaluation vortrainierter Modelle für pädagogisches Assessment neuer KI-unterstützter Bildungsfragen
 - [[decision-making-agent-student-decision-acceptance-2026]] — Lehrkraft- versus KI-getroffene Benotungsentscheidungen: eine schriftliche Begründung erweiterte die Fairness-Lücke
+- [[tuo-armada-multi-agent-debate-overreliance-2026]] — Zitate und Autoritätssignale erhöhten die Nachgiebigkeit gegenüber falscher Ausgabe, einige Referenzen waren falsch zugeordnet oder fiktiv
 

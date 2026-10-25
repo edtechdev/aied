@@ -1,7 +1,7 @@
 ---
 title: Lerntheorien
 created: "2026-08-16T03:36:31-04:00"
-updated: "2026-10-10T09:04:24-04:00"
+updated: "2026-10-25T00:25:09-04:00"
 type: concept
 foundations: [learning-design]
 pedagogy: [behaviorism, learning-theories, metacognition, self-regulated-learning]
@@ -113,21 +113,21 @@ Neben den klassischen Familien dokumentiert die Wissensbasis Theorien, die eigen
 - [[ai-education]]
 - [[pedagogy]] — Dachbegriff: Pädagogien und Lehrstrategien in der KI-Bildung
 ## Verbundene Artikel
-- [[yan-agentivism-learning-theory-ai-2026]] — A mid-range learning theory for human-AI interaction, with four mechanisms and six testable propositions (Yan and Gašević 2026)
+- [[yan-agentivism-learning-theory-ai-2026]] — Eine Lerntheorie mittlerer Reichweite für die Mensch-KI-Interaktion, mit vier Mechanismen und sechs prüfbaren Propositionen (Yan and Gašević 2026)
 
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — Deceptive overgeneralization: adaptive mastery can stop practice before learners know when to withhold an action (An, McLaren & Stamper 2026)
-- [[airis-hybrid-human-ai-cognition-2026]] — AI-Augmented Inquiry and Regulation in Hybrid Systems (AIRIS)
+- [[deceptive-overgeneralization-adaptive-learning-2026]] — Trügerische Übergeneralisation: adaptiver Meisterungsgrad kann die Übung beenden, bevor Lernende wissen, wann sie eine Handlung unterlassen sollten (An, McLaren & Stamper 2026)
+- [[airis-hybrid-human-ai-cognition-2026]] — KI-gestützte Erkundung und Regulation in hybriden Systemen (AIRIS)
 - [[voicu-ai-interpretive-cognition-ssh-2026]]
-- [[ai-cognitive-partner-co-regulation-learning]] — Positions AI as a cognitive partner in human-AI co-regulation; developmental framework across the lifespan
-- [[ensemble-cognition-philosophy-ai-education]] — Ensemble Cognition: a philosophical framework reconceptualizing thinking as human–AI interaction
-- [[self-directed-growth-generative-ai-learning-analytics]] — Self-Directed Growth and the A2PL model extending self-directed learning with GenAI
-- [[generativism-learning-theory]] — Proposes a new learning theory for the generative AI age, revisiting the classical four
-- [[ai-vocational-education-training-review]] — Documented the constructivism/behaviorism theory-practice gap in AI for VET
+- [[ai-cognitive-partner-co-regulation-learning]] — Positioniert KI als kognitiven Partner in der Mensch-KI-Koregulation; entwicklungsbezogener Rahmen über die gesamte Lebensspanne
+- [[ensemble-cognition-philosophy-ai-education]] — Ensemble Cognition: ein philosophischer Rahmen, der Denken als Mensch-KI-Interaktion neu konzeptualisiert
+- [[self-directed-growth-generative-ai-learning-analytics]] — Self-Directed Growth und das A2PL-Modell, das selbstgesteuertes Lernen um GenAI erweitert
+- [[generativism-learning-theory]] — Schlägt eine neue Lerntheorie für das Zeitalter generativer KI vor und greift die klassischen vier neu auf
+- [[ai-vocational-education-training-review]] — Dokumentierte die Theorie-Praxis-Lücke zwischen Konstruktivismus und Behaviorismus bei KI in der beruflichen Bildung
 - [[genai-educational-outcomes-meta-analysis]]
 - [[elsayed-pedagogical-symbiosis-posthuman-learner]]
 - [[videla-embodied-ai-education-choreography]]
-- [[generative-ai-mediational-agent-sociocultural-2026]] — Generative AI as a Mediational Agent
-- [[kim-ai-productive-failure-adult-2026]] — Designing AI Systems to Support Productive-Failure-Based Learning
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pedagogical Steering of LLMs for Productive Failure
-- [[lukesova-clue-before-correction-2026]] — Clue Before Correction: ChatGPT for Autonomous Language Learning
+- [[generative-ai-mediational-agent-sociocultural-2026]] — Generative KI als vermittelnder Agent
+- [[kim-ai-productive-failure-adult-2026]] — Entwurf von KI-Systemen zur Unterstützung produktiv-scheiternsbasierten Lernens
+- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pädagogische Steuerung von LLMs für produktives Scheitern
+- [[lukesova-clue-before-correction-2026]] — Clue Before Correction: ChatGPT für autonomes Sprachenlernen
 - [[rachatasumrit-example-problem-ratio-2026]]

@@ -1,7 +1,7 @@
 ---
 title: "Designeducation"
 created: "2026-09-17T14:04:29-04:00"
-updated: "2026-10-10T09:04:27-04:00"
+updated: "2026-10-24T21:15:40-04:00"
 type: concept
 foundations: [ai-literacy, design-thinking]
 pedagogy: [creativity, professional-training]
@@ -12,7 +12,7 @@ audience: [instructors, instructional designers, curriculum designers, faculty d
 level: [higher ed]
 confidence: high
 translation_of: concepts/design-education
-source_updated: "2026-10-02T12:40:11-04:00"
+source_updated: "2026-10-16T08:47:09-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -50,7 +50,9 @@ Sie ist auch verschieden von [[design-thinking|Design Thinking]], einer menschze
 - **Disziplinen unterscheiden sich darin, welche Verhaltensweisen sich auszahlen.** [[same-ai-different-pathways|Shen (2026)]] verglich 221 Designstudierende mit 222 Wirtschaftsstudierenden und fand, dass [[ai-literacy|KI-Kompetenz]] sowohl Prompting-Proficiency als auch Verifikationsverhalten vorhersagte (p < .001). Verifikation sagte Aufgabenqualität direkt in der Designkohorte vorher, Kalibrierungsgenauigkeit in der Wirtschaftskohorte — offene Ideation gegenüber auditartigen analytischen Standards —, und Verifikation funktionierte als metakognitiver Schutz gegen [[cognitive-offloading|kognitives Offloading]].
 - **Studio-Urteil kann angenähert werden, wenn eine Rubrik vermittelt.** [[yasar-llms-iterative-pedagogical-design-2026|Yaşar et al. (2026)]] hoben die LLM–Mensch-Übereinstimmung bei 80 Designpostern von 54.75% auf 81.25%, indem sie Rubrikdeskriptoren iterativ verfeinerten; Prompts von Lehrenden, Peer-Reviewern und Gutachtenden erzeugten epistemisch unterschiedliches Feedback zu derselben Arbeit. Die Autoren behandeln die Rubrik als revidierbare Schnittstelle zwischen pädagogischer Absicht und maschineller Inferenz und behalten [[human-in-the-loop-ai|menschliche Aufsicht]] gegen halluzinierte Begründungen.
 - **Studierende verhandeln die Werkzeuge, statt sie einfach anzunehmen.** [[t2i-competence-paradox-2026|Liu, Meng & Zhang (2026)]] befragten 417 Kunst- und Designstudierende: Leistungserwartung, sozialer Einfluss, Neuheitswert und kreative Kompetenz sagten die Nutzungsabsicht für Text-zu-Bild-Werkzeuge vorher, während Aufwandserwartung negativ vorhersagte, gelesen als abkürzungsorientierte Nutzung im Kurs. Ihr Kompetenzparadox ist, dass kreative Kompetenz die Absicht stützt, aber selektivere Nutzung vorhersagt, wenn Studierende Autorschaft und Erhalt von Fähigkeiten abwägen — ein [[assessment-validity|Validitäts]]problem in einem Studio, wo der Prozess der bewertete Gegenstand ist. [[rana-genai-design-thinking-2025|Rana et al. (2025)]] kamen aus 112 Reflexionen in einem 12-wöchigen [[design-thinking|Design-Thinking]]-Kurs zu einer kompatiblen Schlussfolgerung: Vorteile dominierten (86% positive Stimmung), ethische Bedenken trieben 62% der negativen Stimmung, und gerüstete Integration bewegte Studierende von Skepsis zu 72% positiver Orientierung.
+- **GenAI kann einen Arbeitsablauf unterstützen, während sie kreatives Selbstvertrauen schwächt.** In einem Architekturdesign-Experiment mit 36 Studierenden erreichte ein DALL-E-3-Arbeitsablauf bei bewerteter Leistung und kognitiver Last das Niveau der Präzedenzfälle-Suche, doch generelles kreatives [[self-efficacy|Selbstwirksamkeitsvertrauen]] sank (DiD = −0.543), während aufgabenspezifisches Vertrauen hielt ([[caeai-genai-architectural-design-creative-self-efficacy-2026|Xiao et al., 2026]]).
 - **KI-Kritik kann an das Artefakt statt an den Prompt gebunden werden.** [[critsly-design-education-ai-critique-2026|Kadir (2026)]] leitet Studio-Feedback über ein geteiltes Board aus Designs, Notizen und Pins und fünf begrenzte Aktivitäten; die Studie berichtet simulierte Bereitschaft (78% von 109 Labels auf Analyzing oder darüber), nicht Lernzuwächse.
+- **Eine Prozess-Rubrik kann KI-Verifikation zum bewerteten Gegenstand machen.** [[human-ai-collaboration-design-education-rubric-2026|Orhon et al. (2026)]] schlagen den Merit Report vor, eine Rubrik mit vier Kriterien (dokumentierter kuratorischer Willen 20%, tektonische Übersetzung 20%, regelbasierte technische Validierung 40%, Peer-Audit 20%), die den dokumentierten KI-Verifikationsprozess einer Studierenden bewertet statt die Politur des Artefakts, untermauert durch eine [[tpack|TPACK]]-Erweiterung, die sie AI-Validation Knowledge nennen.
 
 ## Professionelle Formierung und Regulierung
 
@@ -93,3 +95,5 @@ Assessmentprobleme sind hier von professionellen untrennbar. [[ai-interior-desig
 - [[yasar-llms-iterative-pedagogical-design-2026]]
 - [[rana-genai-design-thinking-2025]]
 - [[critsly-design-education-ai-critique-2026]] — Critsly/StudioCrit: artefaktbewusster KI-Kritik-Arbeitsraum für Studio-Feedback; simulationsbasierte Bereitschaftsstudie, nicht Lernzuwächse
+- [[caeai-genai-architectural-design-creative-self-efficacy-2026]] — Ein Architekturdesign-Experiment, in dem ein DALL-E-3-Arbeitsablauf generelles kreatives Selbstwirksamkeitsvertrauen senkte
+- [[human-ai-collaboration-design-education-rubric-2026]] — Eine Prozess-Rubrik kann KI-Verifikation zum bewerteten Gegenstand machen

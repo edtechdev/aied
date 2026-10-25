@@ -1,7 +1,7 @@
 ---
 title: Pädagogiken und Lehrstrategien
 created: "2026-08-19T17:45:00-04:00"
-updated: "2026-10-10T09:04:24-04:00"
+updated: "2026-10-24T20:10:02-04:00"
 connected_faqs: [designing-ai-into-learning]
 type: concept
 foundations: [ai-education, learning-design]
@@ -9,7 +9,7 @@ pedagogy: [pedagogy]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/pedagogy
-source_updated: "2026-09-30T16:25:27-04:00"
+source_updated: "2026-10-16T08:47:09-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -81,6 +81,8 @@ Verschiedene pädagogische Strategien erzeugen verschiedene Arten und Größen v
 
 Der zentrale querschneidende Befund, konsistent mit der [[learning-gains|Lernzuwachs-]]Forschung der Wissensbasis, ist, dass **die Wirkung der Strategie auf das Lernen stärker davon abhängt, wie sie Anstrengung der lernenden Person und produktives Ringen erhält, als davon, welches Etikett sie trägt** — jede Pädagogik, selbst eine „gute“, scheitert, wenn KI so konfiguriert ist, dass sie jene kognitive Arbeit umgeht, die sie hervorlocken sollte (siehe [[cognitive-offloading|kognitive Entlastung]], [[desirable-difficulties|wünschenswerte Schwierigkeiten]]).
 
+Student-[[student-ai-interaction|KI-Interaktion]] ist besser als ein sich verschiebender Prozess kognitiver Verteilung zu lesen als als feste Abhängigkeit: über 53 ChatGPT-Gespräche aus einem transdisziplinären [[engineering-education|Ingenieur]]-Kurs hinweg war Extension (dichtes, iteratives Mitdenken) mit 53,3 % der 321 Codes auf Prompthöhe der häufigste Interaktionstyp, vor Auslagern mit 29,6 % ([[cognitive-distribution-student-genai-interaction-2026|Willcox, Lane & Arikan (2026)]]).
+
 Jene Betonung erhaltener Anstrengung ist nicht absolut: ein vierstudien-[[mixed-methods-research|Mixed-Methods-]]Design (N = 912) fand, dass GenAI als pädagogische Partnerin zu rahmen sowohl kritische Wachsamkeit als auch strategisches Auslagern aktivierte, wobei Auslagern oberhalb einer Schwelle Kapazität für Reflexion höherer Ordnung freisetzte statt sie zu erodieren ([[wang-zhang-pedagogical-partnerships-genai-2026|Wang und Zhang (2026)]]).
 
 ## Implikationen für KI in der Bildung
@@ -120,15 +122,16 @@ Jene Betonung erhaltener Anstrengung ist nicht absolut: ein vierstudien-[[mixed-
 
 ## Verbundene Artikel
 
-- [[genai-didactic-pedagogical-mediator-2026]] — GenAI as didactic-pedagogical mediator: instructor–student–GenAI triadic model (Moganadas et al. 2026)
-- [[pedagogy-first-technology-second-teacher-knowledge-2026]] — 'Pedagogy first, technology second' — TPAIK outweighs technical TAIK for student outcomes (Shen et al. 2026)
-- [[wang-zhang-pedagogical-partnerships-genai-2026]] — Pedagogical partnerships with generative AI
+- [[genai-didactic-pedagogical-mediator-2026]] — GenAI als didaktisch-pädagogischer Mediator: triadisches Modell aus Lehrkraft, lernender Person und GenAI (Moganadas et al. 2026)
+- [[pedagogy-first-technology-second-teacher-knowledge-2026]] — „Pädagogik zuerst, Technologie danach" — TPAIK überwiegt technisches TAIK für Lernergebnisse der Studierenden (Shen et al. 2026)
+- [[wang-zhang-pedagogical-partnerships-genai-2026]] — Pädagogische Partnerschaften mit generativer KI
 - [[ai-communities-of-inquiry-2026]]
-- [[instructional-guidance-genai-learning]] — How instructional guidance shapes GenAI learning effects
-- [[generative-ai-guardrails-harm-learning]] — Guardrailed (hint-not-answer) tutoring eliminates the exam penalty
-- [[agentic-ai-pedagogical-best-practice-2026]] — The automation-vs-learning tension in agentic AI
-- [[jeon-isd-agent-bench-2026]] — Grounding agents in instructional-design theory
-- [[ai-learning-tools-engineering-education-needs]] — AI learning tools in engineering education
-- [[fowlin-operationalizing-learning-principles-ai]] — Operationalizing learning principles with AI
-- [[kibar-ilgaz-ai-instructional-design-review-2026]] — AI and Instructional Design Practice: A Systematic Review (Kibar & Ilgaz 2026)
-- [[liu-ai-literacy-interventions-meta-analysis-2026]] — Instructional approaches in AI literacy interventions
+- [[instructional-guidance-genai-learning]] — Wie Instruktionsanleitung die Lerneffekte von GenAI prägt
+- [[generative-ai-guardrails-harm-learning]] — Leitplankengesichertes (Hinweis-statt-Antwort-)Tutoring beseitigt die Prüfungsabwertung
+- [[agentic-ai-pedagogical-best-practice-2026]] — Die Spannung zwischen Automatisierung und Lernen bei agentischer KI
+- [[jeon-isd-agent-bench-2026]] — Agenten in Instruktionsdesigntheorie fundieren
+- [[ai-learning-tools-engineering-education-needs]] — KI-Lernwerkzeuge in der Ingenieurpädagogik
+- [[fowlin-operationalizing-learning-principles-ai]] — Lernprinzipien mit KI operationalisieren
+- [[kibar-ilgaz-ai-instructional-design-review-2026]] — KI und Instruktionsdesign-Praxis: Ein systematischer Review (Kibar & Ilgaz 2026)
+- [[liu-ai-literacy-interventions-meta-analysis-2026]] — Instruktionsansätze in KI-Kompetenz-Interventionen
+- [[cognitive-distribution-student-genai-interaction-2026]] — Student-KI-Interaktion als sich verschiebende kognitive Verteilung, nicht als feste Abhängigkeit (53,3 % Extension)

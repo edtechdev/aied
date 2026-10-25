@@ -2,7 +2,7 @@
 connected_resources: [clarity, writing-rhetoric-studies-in-the-loop]
 title: Schreiben
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-10T09:04:24-04:00"
+updated: "2026-10-25T00:25:09-04:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading]
 pedagogy: [metacognition]
@@ -12,7 +12,7 @@ level: [higher ed]
 connected_faqs: [writing-instruction-ai-best-practices, developing-ai-tutor]
 confidence: high
 translation_of: concepts/writing-education
-source_updated: "2026-10-06T02:05:50-04:00"
+source_updated: "2026-10-24T08:07:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -42,11 +42,13 @@ Schreiben ist nicht bloß Ausgabe, sondern ein kognitiver, sozialer und rhetoris
 ### Wie KI in der Schreibbildung in der Forschung auftritt
 
 - **Automatisierte Bewertung von Aufsätzen:** [[automated-essay-scoring|Automatisierte-Aufsatzbewertung-]]Systeme wie [[choi-anchor-aes-prompting-2025|ankerbasiertes AES]] und [[aiawe-automated-writing-evaluation|AIAWE]] bewerten Schreiben der lernenden Person im Maßstab und werfen Fragen zu [[assessment-validity|Konstruktvalidität]] und der Reduktion von Schreiben auf messbare Merkmale auf. Bei kurzem argumentativen Schreiben (etwa 150–200 Wörter) auf Spanisch variiert KI-Bewertungsübereinstimmung scharf nach Rubrikdimension ([[human-in-the-loop-ai-scoring-national-assessment-2026|Curi et al., 2026]]): struktur- und registerorientierte Items — Einleitung, Schluss, Register, nominale Kongruenz, Subjekt-Verb-Kongruenz —, erreichten in der Ausgabe 2025 mäßige zufallskorrigierte Übereinstimmung mit menschlichen Bewertenden, während mikrosprachliche Items (Wortschatz, Syntax, Zeichensetzung, Konnektoren, Argumentation) im Bereich fair bis leicht blieben. Das deutet darauf hin, dass LLM-Assistenz am besten für makroebene Diskursmerkmale vertretbar ist, und dass sprachliche Konventionen auf niedriger Ebene deterministische Werkzeuge oder [[human-in-the-loop-ai|menschliche Prüfung]] behalten sollten.
+- **Eine qualitätsabhängige Neigung.** GPT- und Llama-Bewerter aus der Box stimmten schwach mit menschlichen Bewertenden überein (QWK 0.17–0.28 gegenüber 0.72 zwischen zwei Menschen), bewerteten kurze, unterentwickelte Aufsätze zu hoch und längere, stärkere wegen kleiner Oberflächenfehler zu niedrig ([[llms-do-not-grade-essays-like-humans-2026|Mathew et al. (2026)]]).
 - **Mehr Stichproben bewerten, nicht größere Modelle.** In einer Studie zum Universal-Screening in den Klassenstufen 3–6 konvergierten LLM-komparative Urteilsscores mit den Rubriken der Forschenden (r = .59–.73), und das Mitteln der drei Screeningwellen hob die Kriteriumsvalidität (β = .68–.74 für die ELA-Skala, AUC = .82–.86 für Kompetenz), während größere Modellfähigkeit oder höhere Kosten wenig hinzufügten ([[llm-comparative-judgment-writing-screening-2026|Mercer & Reed (2026)]]).
 
 Übereinstimmung ist eine Eigenschaft des Korpus, nicht des Bewertenden: [[automated-scoring-marketing-posts-agreement-2026|Li (2026)]] bewertete 60 Marketing-Posts von Lernenden mit deterministischen Regeln, einem [[llm|LLM]] und einem gleichgewichteten Hybrid —, das LLM führte bei ICC(2,1) = .435, während die .266 des Hybrid den negativen Bias der Regeln beibehielt —, und das Hinzufügen von 15 minderwertigen Ankern hob das LLM auf .846.
 
 - **Schreibfeedback:** Forschung zu [[ai-feedback-quality|Qualität von KI-Feedback]] ([[genai-teacher-feedback-comparison|GenAI gegenüber Lehrkraftfeedback]], [[care-full-feedback-genai|care-full feedback]], [[repeated-ai-writing-feedback-semester|wiederholtes KI-Feedback]]) untersucht, ob KI-Feedback Schreiben verbessert und wie es im Vergleich zu menschlichem Feedback abschneidet. Das PAIRR-Modell ([[pairr-ai-peer-review-2025|Peer and AI Review + Reflection]]) kombiniert KI mit [[peer-assessment|Peer-Bewertung]] und findet, dass KI-Feedback am nützlichsten in einem menschzentrierten Prozess ist. Ein achtwöchiges Quasi-Experiment mit 61 chinesischen L2-Schreibenden ([[teacher-vs-ai-peer-feedback-l2-writing-2026|Tang et al., 2026]]) gibt jener menschzentrierten Behauptung konkrete Gestalt: Lehrkraftfeedback lieferte weit mehr Items (316 gegenüber 185 in der ersten Aufgabe) und richtete sich neu aus hin zu Organisation und Argumentation, doch sein Vorteil bei der Überarbeitung nach der Einreichung wich von 4.06 auf 2.73 Punkten, sobald eine zweite Aufgabe strukturelle Veränderung verlangte, während [[peer-assessment|KI-assistiertes Peer-Feedback]] einen engeren, stetigeren Fokus hielt und leicht vorausging (3.89 Punkte, mit einem Überarbeitungsmittelwert bei Aufgabe 2 von 89.82 gegenüber 88.35 der Kontrolle —, ein kleiner Unterschied, der keine Signifikanz erreichte). Keine der beiden Modi bewegte syntaktische Komplexität, weshalb die Autoren für eine hybride Arbeitsteilung „KI-Peer-Lehrkraft“ argumentieren: KI für Fehlermarkierung und Inhaltsanleitung, Peers für das Aushandeln von Überarbeitungen, Lehrkräfte für komplexe Syntax und Argumentation.
+- **KI mit Peer-Feedback zu paaren erhöht Engagement und Schreibscores.** In einem zehnwöchigen chinesischen EFL-Kurs hob das Hinzufügen von ChatGPT-Feedback vor der Peer-Review behaviorales, affektives und kognitives Engagement (partielles η2 von 0.28 bis 0.32) und verbesserte alle vier IELTS-Schreibdimensionen, am stärksten Aufgaben-[[learning-gains|Leistung]] (d = 1.41) und lexikalische Ressource (d = 1.28) ([[ai-peer-feedback-l2-writing-engagement-2026|Liu (2026)]]).
 - **KI-Feedback passt sich Schreibstadien nicht so an wie Lehrkräfte.** [[llm-feedback-focus-adaptivity-student-writing-2026|Almousa et al. (2026)]] fanden, dass die Lehrkraft sich zwischen Entwurfsstadien auf fünf Feedback-Fokustypen signifikant veränderte —, Lob steigend von 26.9% anfangs auf 84.9% in finalen Entwürfen —, während das nächste Modell sich auf drei Typen bewegte und das kleinste auf keinen, und kein Modell die Differenzierung der Lehrkraft zwischen Lernenden mit höherer und niedrigerer Leistung reproduzierte.
 - **Überarbeitung und dialogische Positionierung:** Wo die meiste Schreibfeedback-Forschung fragt, ob eine Überarbeitung den Text verbessert hat, fragen [[zhao-ji-appraisal-human-ai-revisions-2026|Zhao und Ji (2026)]], welche Haltung der überarbeitete Text einnimmt. Beim Kodieren von 168 argumentativen EFL-Aufsätzen mit Appraisal Theory —, Erstenwürfe, Überarbeitungen nach [[peer-assessment|Peer-Feedback]], und ChatGPT-4-Überarbeitungen derselben Entwürfe —, fanden sie, dass die drei Bedingungen statistisch nicht unterscheidbar waren in der Menge an Engagement-Sprache, die sie nutzten, aber verschieden konfiguriert: Peer-Feedback-Überarbeitungen wurden kontraktiver (mehr Counter und Endorse, weniger Entertain), während die KI-Überarbeitungen eine ausgewogenere Contract/Expand-Mischung behielten, die stärkere Gegenargumentation mit fortgesetztem Hedging verband. Ihre Lesart ist, dass eine KI-Überarbeitung am nützlichsten als Kontrasttext ist, den Lernende gegen ihre eigene Überarbeitung vergleichen, statt als Musterantwort, und dass [[ai-feedback-quality|KI-Feedback]] zu Argumentation Prosa verbessern kann, während es stillschweigend den dialogischen Raum der Schreibenden schließt —, eine Dimension, die keine aktuelle Rubrik erfasst.
 - **Unterstützung des Schreibprozesses und Handlungsfähigkeit:** [[agency-gap-ai-writing|Forschung zur Handlungsfähigkeitslücke]] und [[ai-writing-support-stage-ownership-2026|Forschung zum Stadieneigentum]] erkunden, wie KI den Schreibprozess von der Planung bis zur Überarbeitung verändert, und wie die [[agency|Handlungsfähigkeit]] der Lernenden beeinflusst wird, wenn KI in verschiedenen Stadien partizipiert.
@@ -56,11 +58,14 @@ Schreiben ist nicht bloß Ausgabe, sondern ein kognitiver, sozialer und rhetoris
 - **Akademische Integrität:** Befragungsevidenz verkompliziert den Überwachungsframe direkt: unter 504 Soziologie-Lernenden ([[student-genai-use-views-writing|Kuznetsov et al., 2026]]) hatten 65 Prozent GenAI für Kursarbeit genutzt, aber nur 3 Prozent zur Erzeugung von Aufgabentext und 2 Prozent, um einen ganzen Entwurf zu produzieren, während Angst vor einer akademischen Straftat das zweithäufigste Anliegen war (28 Prozent) und etwa ein Viertel überhaupt keine Leitlinien (19 Prozent) oder Leitlinien berichtete, die sie unklar fanden. Auf dieser Evidenz ist das Problem der Schreibbildung Mehrdeutigkeit über erlaubte Nutzung, nicht verbreitete Texterzeugung. [[nash-preservice-teachers-classroom-ai-policies-2026|Nash und Burriss (2026)]] zeigen, wie solche Mehrdeutigkeit auf Kursraumebene erzeugt wird. Beim Kodieren der eigenen Kursraum-[[educational-policy-ai|KI-Richtlinien]] von 27 [[teacher-education|angehenden]] Englisch-Sprachkunst-Lehrkräften fanden sie, dass 26 von 27 etwas an [[generative-ai|generativer KI]]-Nutzung erlaubten, aber überwältigend zu von der Lehrkraft spezifizierten Bedingungen, wobei 22 von 27 KI für Ideenfindung und Brainstorming erlaubten, während sie die Komposition von Sätzen, Absätzen oder Arbeiten durch KI untersagten. Grenzen wurden selten operationalisiert —, eine Teilnehmende erlaubte KI „to get your thinking started“ und erklärte „this is where the line should be drawn“, ohne zu sagen, wo —, und viele Richtlinien untersagten gleichzeitig das Einreichen KI-verfassten Textes und hielten Lernende für den von ihnen eingereichten KI-Text verantwortlich, ein Widerspruch, der Lernende unfähig zur Befolgung zurücklässt. Zweiundzwanzig der 27 Richtlinien schwiegen zum Lesen ganz und gaben KI-gestützte Verständnisarbeit keiner Leitlinie anheim.
 
 - **Politik divergiert über fünf Orte hinweg.** Beim Interviewen von 20 Studierenden verorten Kim und Kollegen fünf verschiedene Orte der KI-Politik —, Absicht der Fakultät, formale Politik, Interpretation der lernenden Person, Selbstpolitik und Praxis —, und katalogisieren 23 Rationalisierungen, meist ad hoc und post hoc, die erklären, warum Regeln an einem Ort selten Verhalten an einem anderen prägen ([[student-rationalization-ai-writing|Kim et al. (2026)]]).
+- **Benoten ist dort, wo die Anleitung ausläuft.** In Interviews mit 24 Professorinnen und Professoren für Universitäts-Schreiben im chinesischen Festland, Hongkong, Macau und Singapur berichteten sechs, es gebe keine institutionelle Regel darüber, ob sie studentische Arbeit überhaupt mit KI benoten dürfen, und die Folge war, Kollegen, die aus Prinzip ablehnen, neben Kollegen saßen, die es bereits tun ([[wu-lam-genai-writing-assessment-professors-2026|Wu and Lam (2026)]]).
 - **Compliance kann fehlende Untersuchung maskieren (akademische Auslöschung).** Aus 49 Bildungskonten benennen [[academic-erasure-complexity-ai-writing-2026|Nwagboso & Atuba (2026)]] *akademische Auslöschung* —, Flüssigkeit, die jedes Oberflächenkriterium erfüllt, während sie die erkenntnistheoretische Arbeit des Arguments umgeht —, und verfolgen ihren Treiber zurück auf die Assessment-Kultur, wo Rubriken, die Politur belohnen, KI-Nutzung zur rationalen Antwort machen statt zum Fehlverhalten.
 
 ### Schreiben als Denken
 
 Weil Schreiben ein kognitiver Prozess ist, verbindet sich Forschung zu KI im Schreiben mit [[cognitive-offloading|kognitiver Entlastung]] (umgeht KI-Schreibunterstützung das Denken?), [[metacognition|Metakognition]] (verbessert KI-Feedback die [[self-assessment|Selbstbewertung]]?), [[self-regulated-learning|selbstreguliertem Lernen]] (regulieren Lernende ihre Nutzung von KI-Feedback?) und [[ai-literacy|KI-Kompetenz]] (können Lernende KI-erzeugtes Schreiben kritisch bewerten?). Die Forschung zu [[critical-thinking-genai-scaffolding|Scaffolding kritischen Denkens]] und [[ai-feedback-critical-thinking-writing-2026|KI-Feedback für kritisches Denken]] zeigen, dass der [[pedagogy|pädagogische]] Wert von KI im Schreiben davon abhängt, ob sie Reflexion und Urteilsvermögen anregt statt Antwortersatz.
+
+Essay-Autorschaft verfolgte das Prompt-Volumen in einer Synthese-Aufgabe —, 80% des Textes in dem Cluster mit minimalem Prompting wurden von der lernenden Person geschrieben, gegen 2% in dem umfangreichsten —, während die Konnektivdichte negativ mit Vorwissen korrelierte statt mit der Prompt-Anzahl (r = -.30, p = 0.007; [[cognitive-offloading-llm-synthesis-writing|Poquet et al., 2026]]).
 
 Eine Zwei-Wellen-Validierung mit chinesischen EFL-Lernenden (EFA N = 305; CFA N = 342) trennt sechs regulatorische Dimensionen und fügt *Umweltregulation* hinzu —, erzeugte Inhalte prüfen, vorgeschlagene Ressourcen filtern, und Vertrauen begrenzen —, eine Facette, die bestehende L2-Schreibskalen nicht trugen ([[genai-srl-l2-writing-scale-2026|Wang, Zhang und Zhang (2026)]]).
 
@@ -86,6 +91,8 @@ Weil Schreiben keine einzelne korrekte Antwort hat, verlangen KI-Schreibwerkzeug
 
 Zwei aktuelle Synthesen qualifizieren, wie gut diese Designanleitung in der Praxis befolgt wird. Ein Review von 23 empirischen Customization-Studien ([[customizing-ai-writing-pedagogy-systematic-review-2026|Luo, 2026]]) findet, dass, obwohl sich Ziele hin zu Schreibprozessen und Fähigkeiten höherer Ordnung bewegt haben, die dominante technische Route [[prompt-engineering|Prompt Engineering]] bleibt (13 von 23 Studien), ausgerichtet auf die Optimierung der Ausgabequalität, mit [[learning-theories|Lerntheorie]], die auf die Schnittstelle begrenzt ist, sodass das System sich „largely theory-agnostic“ verhält —, eine Fehlpaarung, die hilft zu erklären, warum dieselben Studien [[cognitive-offloading|Übervertrauen]] und oberflächliche Überarbeitung berichten. Ihre Neurahmung ist, Customization als Architektur statt als Formulierung zu behandeln: Stadien sequenzieren, Antworten zurückhalten, und Überarbeitungsschleifen einbauen. Ein strukturierter fünfstufiger Arbeitsablauf, getestet über 11 Wochen mit 53 saudi-arabischen EFL-Studierenden ([[human-ai-collaboration-academic-writing-2026|Alshehri et al., 2026]]), zeigt die Alternative in der Praxis —, Lernende rahmen Probleme und entwerfen Prompts, entwerfen, überarbeiten, verifizieren Behauptungen und Zitationen gegen wissenschaftliche Datenbanken, und regulieren ihr eigenes Vertrauen, und protokollieren, was sie akzeptieren oder zurückweisen und warum. Schreibkompetenz und digitales [[critical-thinking|kritisches Denken]] stiegen in jener Bedingung zusammen (15.23 gegenüber 11.91 und 89.84 gegenüber 56.18 im Nachtest), während sich die KI-freie Kontrolle kaum bewegte, obwohl das einortige, teils [[self-report-measures|selbst berichtete]] Ergebnis eine vorläufige obere Grenze ist statt ein etablierter Effekt.
 
+Das Screening von 51 Zweitsprachenstudien zu GenAI-Feedback fand, dass Maße der Schreibqualität oft ohne Bezug zu dem Feedback waren, um das das Modell gebeten worden war, und dass die Paarung von KI mit Lehrkraftfeedback jede Quelle allein übertraf ([[genai-l2-written-feedback-scoping-review-2026|Crosthwaite & Sun (2026)]]). Dasselbe Korpus ist überwältigend englischsprachig, in 46 der 51 Studien, mit Chinesisch und Arabisch als dominanten Erstsprachen der Lernenden.
+
 Diese Coachen-statt-Komponieren-Haltung ist der schreibdomänenspezifische Ausdruck der übergreifenden „[[coach-not-crutch-ai-writing|coach over crutch]]“-Grenze der Wissensbasis: die kognitive Aktivität identifizieren, die Lernen erzeugt (planen, entwerfen, bewerten, überarbeiten), und die KI so entwerfen, dass sie sie stützt, ohne sie der lernenden Person wegzunehmen.
 
 ### Verbindungen
@@ -96,6 +103,7 @@ Schreibbildung verbindet sich mit [[automated-essay-scoring|automatisierter Bewe
 
 - **KI als Ergänzung rahmen, nicht als Ersatz für den Schreibprozess.** Die Forschung der Wissensbasis behandelt KI konsistent als Scaffold für Entwerfen, Überarbeitung und Feedback, während sie die kognitive Arbeit und das menschliche Publikum schützt, die Schreiben zu einer Lernaktivität machen —, [[coach-not-crutch-ai-writing|Coaching über Krücke]].
 - **KI-Feedback in einem menschzentrierten Prozess nutzen.** [[pairr-ai-peer-review-2025|PAIRR]] findet, dass KI-Feedback am nützlichsten kombiniert mit Peer-Review und Reflexion ist; Feedbackschleifen entwerfen, die Lehrende und Peer-Publikum zentral halten.
+- **Studierende wollen den Menschen am hochrangigen Ende.** [[when-students-prefer-ai-scoring-feedback-2026|Yildirim-Erbasli et al. (2026)]] fanden, dass 81.7 Prozent von 93 Studierenden menschliche Benotung für eine Abschlussarbeit bevorzugten, die 40 Prozent der Note wert waren, KI für Grammatik und Mechanik vertrauten, aber nicht [[creativity|kreativen]] Schreiben, und wollten, dass KI-Benotung von einer Person geprüft wird.
 - **Automatisiertes Feedback auf Bias prüfen.** [[marked-pedagogies-linguistic-bias-writing-feedback|Marked Pedagogies]] zeigt, dass LLM-Feedback sich auf stereotype-ausgerichtete Weisen verschiebt, wenn es mit Attributen der lernenden Person personalisiert wird —, auf positiven/Zurückhaltungs-Bias achten, und ausdrücklich machen, dass Personalisierung ein Bias-Vektor sein kann.
 - **Die kognitive Arbeit des Schreibens wahren.** Auf [[cognitive-offloading|Übervertrauen]] achten, das Planung, Überarbeitung und Selbstbewertung umgeht; KI in gewählten Stadien nutzen ([[ai-writing-support-stage-ownership-2026|stadienbasiertes Eigentum]]), um die Handlungsfähigkeit der lernenden Person zu schützen.
 - **Für Ermächtigung statt Durchsetzung entwerfen.** Eine PLS-SEM-Studie mit 327 chinesischen EFL-Studierenden
@@ -134,41 +142,42 @@ Schreibbildung verbindet sich mit [[automated-essay-scoring|automatisierter Bewe
 
 ## Verbundene Artikel
 
-- [[nash-preservice-teachers-classroom-ai-policies-2026]] — Preservice teachers' classroom AI policies: tensions and entanglements
-- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — A Human-in-the-Loop Framework for AI-Assisted Scoring in Large-Scale Writing Assessment
-- [[llm-comparative-judgment-writing-screening-2026]] — Validity of Large Language Model Comparative Judgment for Universal Writing Screening
-- [[layer-sensitive-cognitive-offloading-writing-2026]] — Layer-sensitive cognitive offloading in GenAI-assisted writing (Chen 2026)
-- [[your-brain-on-chatgpt-cognitive-debt-essay-writing]]
-- [[coach-not-crutch-ai-writing]] — AI writing tools can improve writing skill despite reducing effort (Lira et al. 2025)
-- [[llms-do-not-grade-essays-like-humans-2026]] — LLMs do not grade essays like humans (Mathew et al. 2026)
-- [[pairr-ai-peer-review-2025]] — Peer and AI Review + Reflection (PAIRR)
-- [[posthumanist-ai-literacy-2025]] — A Posthumanist Approach to AI Literacy
-- [[choi-anchor-aes-prompting-2025]] — Anchor-Based Automated Essay Scoring
-- [[aiawe-automated-writing-evaluation]] — AIAWE: Automated Writing Evaluation
-- [[agency-gap-ai-writing]] — The Agency Gap in AI-Supported Writing
-- [[ai-writing-support-stage-ownership-2026]] — From Planning to Revision: AI Writing Support at Different Stages
-- [[genai-teacher-feedback-comparison]] — Comparing Generative AI and Teacher Feedback
-- [[student-rationalization-ai-writing]] — "It's OK Because...": The Wild West of Student Rationalization
-- [[care-full-feedback-genai]] — Care-Full Feedback Approaches
-- [[self-referential-l2-writing-llm-assessment]] — Self-Referential L2 Writing Assessment
-- [[becerra-aicofe-feedback-2026]] — AI Peer Feedback Systems
-- [[repeated-ai-writing-feedback-semester]] — Student Evaluation of Repeated AI Feedback
-- [[veriforge-narrative-drafting-scaffolding-2026]] — VeriForge: Narrative Drafting Scaffolding
-- [[ai-feedback-critical-thinking-writing-2026]] — Using AI-Generated Feedback to Improve Critical Thinking
-- [[marked-pedagogies-linguistic-bias-writing-feedback]] — Marked Pedagogies: linguistic biases in personalized automated writing feedback
-- [[bassett-ai-detectors-education-2026]] — Heads we win, tails you lose: AI detectors in education (Bassett et al. 2026)
-- [[academic-erasure-complexity-ai-writing-2026]] — Academic erasure: the disappearance of complexity under AI-supported writing
-- [[making-ai-annoying-constrained-writing-2026]] — Making AI annoying on purpose: constraint in AI-supported writing (Konradt, Boote & Taub 2026)
-- [[lu-ai-multimodal-writing-critical-thinking-2026]] — Multimodal AI composing and critical thinking in primary writing (Lu et al. 2027)
-- [[student-genai-use-views-writing]] — Student use of and views on GenAI for writing (Kuznetsov, Sheely & Baker 2026)
-- [[genai-writing-program-primary-l2-motivation-engagement]] — A GenAI-supported writing program for primary L2 motivation, engagement and performance (Lu et al. 2026)
-- [[automated-scoring-marketing-posts-agreement-2026]] — Agreement and error in automated scoring of student marketing posts
-- [[empowerment-ai-assisted-deep-revision-efl-writing-2026]] — Prompting literacy and intrinsic motivation drive deep revision while external mandates have no direct effect (Li & Zhang 2026)
-- [[llm-feedback-focus-adaptivity-student-writing-2026]] — Evaluating Feedback Focus and Pedagogical Adaptivity in LLM-Generated Feedback on Student Writing
-- [[teacher-vs-ai-peer-feedback-l2-writing-2026]] — Teacher feedback vs. AI-assisted peer feedback as heterogeneous L2 scaffolds in an 8-week quasi-experiment (Tang et al. 2026)
-- [[genai-writing-performance-meta-analysis-2026]] — Meta-analysis of GenAI writing performance: large pooled effect, fragile magnitude, methodology over pedagogy (Teng 2026)
-- [[customizing-ai-writing-pedagogy-systematic-review-2026]] — Systematic review of AI writing customization and the theory–design mismatch (Luo 2026)
-- [[human-ai-collaboration-academic-writing-2026]] — Structured human–AI collaboration in academic writing and digital critical thinking (Alshehri et al. 2026)
-- [[zhao-ji-appraisal-human-ai-revisions-2026]] — Human and AI revisions of the same draft take different dialogic stances: peer feedback closes dialogic space, AI revision keeps it balanced (Zhao & Ji 2026)
-- [[engage-to-unlock-productive-friction-genai-2026]] — Engage-to-Unlock: gating AI output on prior engagement redistributed effort to writing without costing time or accuracy (N = 398)
-- [[genai-srl-l2-writing-scale-2026]] — A six-dimension GenAI-SRL scale for L2 writing, with environmental regulation (tool governance) as a distinct dimension
+- [[wu-lam-genai-writing-assessment-professors-2026]] — 24 Schreibprofessorinnen und -professoren zum Benoten mit KI: Vorteile für Feedback, Drift in Scores, keine institutionelle Regel
+- [[genai-l2-written-feedback-scoping-review-2026]] — Scoping-Review über 51 Studien: Lücken in der Prompt-Transparenz und warum KI plus Lehrkraft jede Quelle allein übertreffen
+- [[nash-preservice-teachers-classroom-ai-policies-2026]] — Lehrkräfte im Vorbereitungsdienst und ihre KI-Richtlinien im Klassenzimmer: Spannungen und Verflechtungen
+- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — Ein Human-in-the-Loop-Rahmenwerk für KI-gestützte Bewertung in der großmaßstäblichen Schreibprüfung
+- [[llm-comparative-judgment-writing-screening-2026]] — Validität komparativer Urteile großer Sprachmodelle für universelles Schreib-Screening
+- [[layer-sensitive-cognitive-offloading-writing-2026]] — Ebenensensibles kognitives Offloading in GenAI-assistiertem Schreiben (Chen 2026)
+- [[coach-not-crutch-ai-writing]] — KI-Schreibwerkzeuge können Schreibfähigkeit verbessern, obwohl sie Anstrengung reduzieren (Lira et al. 2025)
+- [[llms-do-not-grade-essays-like-humans-2026]] — LLMs benoten Aufsätze nicht wie Menschen (Mathew et al. 2026)
+- [[pairr-ai-peer-review-2025]] — Peer- und KI-Review + Reflexion (PAIRR)
+- [[posthumanist-ai-literacy-2025]] — Ein posthumanistischer Ansatz zu KI-Kompetenz
+- [[choi-anchor-aes-prompting-2025]] — Ankerbasierte automatisierte Aufsatzbewertung
+- [[aiawe-automated-writing-evaluation]] — AIAWE: Automatische Schreibbewertung
+- [[agency-gap-ai-writing]] — Die Handlungsfähigkeitslücke in KI-unterstütztem Schreiben
+- [[ai-writing-support-stage-ownership-2026]] — Von der Planung zur Überarbeitung: KI-Schreibunterstützung in verschiedenen Stadien
+- [[genai-teacher-feedback-comparison]] — Generative KI und Lehrkraftfeedback im Vergleich
+- [[student-rationalization-ai-writing]] — „Es ist OK, weil …“: Der Wild West der Studierenden-Rationalisierung
+- [[care-full-feedback-genai]] — Care-Full-Feedback-Ansätze
+- [[self-referential-l2-writing-llm-assessment]] — Selbstreferenzielles L2-Schreibassessment
+- [[becerra-aicofe-feedback-2026]] — KI-Peer-Feedback-Systeme
+- [[repeated-ai-writing-feedback-semester]] — Studierendenbewertung wiederholten KI-Feedbacks
+- [[ai-feedback-critical-thinking-writing-2026]] — KI-generiertes Feedback nutzen, um kritisches Denken zu verbessern
+- [[marked-pedagogies-linguistic-bias-writing-feedback]] — Marked Pedagogies: sprachliche Bias in personalisiertem automatisiertem Schreibfeedback
+- [[bassett-ai-detectors-education-2026]] — „Köpfe gewinnen wir, Zahlen verlierst du“: KI-Detektoren in der Bildung (Bassett et al. 2026)
+- [[academic-erasure-complexity-ai-writing-2026]] — Akademische Auslöschung: das Verschwinden von Komplexität unter KI-unterstütztem Schreiben
+- [[lu-ai-multimodal-writing-critical-thinking-2026]] — Multimodales KI-Komponieren und kritisches Denken im Primarschul-Schreiben (Lu et al. 2027)
+- [[student-genai-use-views-writing]] — GenAI-Nutzung und -Sichtweisen von Studierenden für das Schreiben (Kuznetsov, Sheely & Baker 2026)
+- [[genai-writing-program-primary-l2-motivation-engagement]] — Ein GenAI-gestütztes Schreibprogramm für Motivation, Engagement und Leistung im L2-Primarschulbereich (Lu et al. 2026)
+- [[automated-scoring-marketing-posts-agreement-2026]] — Übereinstimmung und Fehler in der automatisierten Bewertung von Marketing-Posts Studierender
+- [[empowerment-ai-assisted-deep-revision-efl-writing-2026]] — Prompting-Kompetenz und intrinsische Motivation treiben tiefe Überarbeitung, während externe Mandate keine direkte Wirkung haben (Li & Zhang 2026)
+- [[llm-feedback-focus-adaptivity-student-writing-2026]] — Feedback-Fokus und pädagogische Adaptivität in LLM-generiertem Feedback zu Schreiben von Studierenden bewerten
+- [[teacher-vs-ai-peer-feedback-l2-writing-2026]] — Lehrkraftfeedback vs. KI-assistiertes Peer-Feedback als heterogene L2-Gerüste in einem achtwöchigen Quasi-Experiment (Tang et al. 2026)
+- [[genai-writing-performance-meta-analysis-2026]] — Metaanalyse der Schreibleistung mit GenAI: großer gepoolter Effekt, fragile Größenordnung, Methodologie vor Pädagogik (Teng 2026)
+- [[customizing-ai-writing-pedagogy-systematic-review-2026]] — Systematisches Review zur Anpassung von KI-Schreibpädagogik und der Theorie-Design-Fehlpaarung (Luo 2026)
+- [[human-ai-collaboration-academic-writing-2026]] — Strukturierte Mensch-KI-Zusammenarbeit im akademischen Schreiben und digitales kritisches Denken (Alshehri et al. 2026)
+- [[zhao-ji-appraisal-human-ai-revisions-2026]] — Menschliche und KI-Überarbeitungen desselben Entwurfs nehmen unterschiedliche dialogische Haltungen ein: Peer-Feedback schließt den dialogischen Raum, KI-Überarbeitung hält ihn ausgewogen (Zhao & Ji 2026)
+- [[engage-to-unlock-productive-friction-genai-2026]] — Engage-to-Unlock: das Knüpfen von KI-Ausgabe an vorheriges Engagement verlagerte Anstrengung zurück ins Schreiben, ohne Zeit oder Genauigkeit zu kosten (N = 398)
+- [[genai-srl-l2-writing-scale-2026]] — Eine sechsdimensionale GenAI-SRL-Skala für L2-Schreiben, mit Umweltregulation (Werkzeug-Governance) als eigener Dimension
+- [[ai-peer-feedback-l2-writing-engagement-2026]] — KI mit Peer-Feedback zu paaren erhöht Engagement und Schreibscores
+- [[when-students-prefer-ai-scoring-feedback-2026]] — Studierende wollen den Menschen am hochrangigen Ende

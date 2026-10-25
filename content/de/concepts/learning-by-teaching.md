@@ -1,7 +1,7 @@
 ---
 title: Lernen durch Lehren
 created: "2026-08-14T10:45:34-04:00"
-updated: "2026-10-10T09:04:24-04:00"
+updated: "2026-10-25T00:25:09-04:00"
 type: concept
 pedagogy: [active-learning, learning-by-teaching, scaffolding, self-regulated-learning]
 technology: [generative-ai, intelligent-tutoring]
@@ -121,16 +121,16 @@ Die obige [[research-methods-aied|Forschung]] konvergiert auf einige wiederverwe
 - [[collaborative-learning]]
 - [[intelligent-tutoring]]
 - [[pedagogical-agent]]
-- [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
+- [[pedagogy]] — Überblicksseite: Pädagogien und Lehrstrategien in der KI-Bildung
 
 ## Verbundene Artikel
 
-- [[chatgpt-teachable-agent-programming-lbt-2024]] — ChatGPT as a teachable agent in programming
-- [[explique-teachable-agent-algorithms-546-students-2026]] — Explique: teachable agent for 546 students
-- [[prompting-teachability-novice-personas-lbt-2026]] — Designing novice personas for teachability
-- [[socrates-students-instructors-llms-lbt-2025]] — Students as instructors of LLMs (Socrates)
-- [[teaching-ai-vocabulary-lbt-llms-2026]] — Vocabulary learning by teaching AI
-- [[knowloop-confusion-to-consolidation-2026]] — Teach-back consolidation in a conversational review system
-- [[simulating-novice-students-machine-unlearning-2026]] — machine unlearning to hold a tutee at a novice knowledge level, and relearning through teaching dialogue
-- [[simulating-students-java-programming-errors-llms]] — Simulating student errors with LLMs
-- [[knowledge-building-tutor-learning-2026]] — knowledge-building responses, not prior knowledge, predict tutor learning
+- [[chatgpt-teachable-agent-programming-lbt-2024]] — ChatGPT als lehrbarer Agent im Programmieren
+- [[explique-teachable-agent-algorithms-546-students-2026]] — Explique: lehrbarer Agent für 546 Studierende
+- [[prompting-teachability-novice-personas-lbt-2026]] — Entwurf von Novizen-Personas für Lehrbarkeit
+- [[socrates-students-instructors-llms-lbt-2025]] — Studierende als Instruierende von LLMs (Socrates)
+- [[teaching-ai-vocabulary-lbt-llms-2026]] — Wortschatzlernen durch Lehren von KI
+- [[knowloop-confusion-to-consolidation-2026]] — Teach-back-Konsolidierung in einem konversationellen Review-System
+- [[simulating-novice-students-machine-unlearning-2026]] — Machine Unlearning, um einen Unterrichteten auf Novizen-Wissensniveau zu halten, und Wiederlernen durch Lehr-Dialog
+- [[simulating-students-java-programming-errors-llms]] — Simulation von Studierenden-Fehlern mit LLMs
+- [[knowledge-building-tutor-learning-2026]] — Wissensbildende Antworten, nicht Vorwissen, sagen das Lernen des Unterrichteten vorher

@@ -1,7 +1,7 @@
 ---
 title: Situiertes Lernen
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-10-10T09:04:23-04:00"
+updated: "2026-10-24T22:39:12-04:00"
 type: concept
 foundations: [ai-education, learning-design]
 pedagogy: [constructivist, experiential-learning, learning-theories, situated-learning, sociocultural-learning]
@@ -65,10 +65,10 @@ Situiertes Lernen verbindet sich eng mit [[embodied-learning|verkörpertem Lerne
 
 ## Verbundene Artikel
 
-- [[vargas-situated-learning-ai-review-2024]] — PRISMA systematic review of situated learning and AI in education (primary reference for this page)
+- [[vargas-situated-learning-ai-review-2024]] — PRISMA-systematischer Review zu situiertem Lernen und KI in der Bildung (Primärreferenz für diese Seite)
 - [[genai-educational-outcomes-meta-analysis]]
 - [[li-ai-science-situated-learning-teachers-2025]]
 - [[raffaghelli-situated-ai-ethics-2026]]
 - [[vargas-ai-catalyst-situated-learning-2026]]
 - [[panciroli-ai-literacy-episodes-situated-learning]]
-- [[yasar-llms-iterative-pedagogical-design-2026]] — LLMs as agents of iterative pedagogical design
+- [[yasar-llms-iterative-pedagogical-design-2026]] — LLMs als Agenten iterativer pädagogischer Design

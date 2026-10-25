@@ -1,7 +1,7 @@
 ---
 title: Authentisches Assessment
 created: "2026-08-13T19:55:03-04:00"
-updated: "2026-10-10T09:04:23-04:00"
+updated: "2026-10-25T00:10:53-04:00"
 type: concept
 foundations: [academic-integrity]
 pedagogy: [metacognition, self-regulated-learning]
@@ -119,9 +119,9 @@ Der Rückzug trägt einen evidentiellen Preis, den die Aktenbelege sichtbar mach
 - [[summative-assessment]] — Summatives Assessment: KI-resistente Formate (mündlich, beaufsichtigt, geschlossen)
 - [[arts-design-and-media-education]]
 ## Verbundene Artikel
-- [[thapa-lewis-process-oriented-assessment-2026]] — process-oriented assessment and epistemic authenticity as what a task should authenticate
-- [[ivory-psychology-assessment-integrity-2026]] — What AI could not pass: presence, visual artifacts, and the student's own data (Ivory et al. 2026)
-- [[paternalistic-filter-llm-history-education]] — Paternalistic AI use and student identity in history education
+- [[thapa-lewis-process-oriented-assessment-2026]] — prozessbasiertes Assessment und epistemische Authentizität als das, was eine Aufgabe authentifizieren sollte
+- [[ivory-psychology-assessment-integrity-2026]] — Was KI nicht bestehen konnte: Präsenz, visuelle Artefakte und die eigenen Daten der Studierenden (Ivory et al. 2026)
+- [[paternalistic-filter-llm-history-education]] — Paternalistische KI-Nutzung und Studierendenidentität im Geschichtsunterricht
 - [[coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene]]
 - [[benali-genai-academic-writing-2026]]
 - [[ying-genai-journalism-assessment-2026]]
@@ -131,28 +131,28 @@ Der Rückzug trägt einen evidentiellen Preis, den die Aktenbelege sichtbar mach
 - [[ni-lam-multiliteracies-ai-portfolio-2026]]
 - [[genai-simulate-patient-history-pbl-2026]]
 - [[pbl-structural-conditions-ai-2026]]
-- [[zhan-boud-du-authentic-assessment-scoping-review-2025]] — Designing for Authentic Assessment: A Scoping Review
-- [[beyond-detection-authentic-assessment-ai-2025]] — Beyond Detection: Authentic Assessment
-- [[responsible-assessment-ai-era-stanford-2026]] — Responsible Assessment in the AI Era
-- [[authentic-products-authenticated-processes-2026]] — Authentic Products, Authenticated Processes
-- [[tool-invariant-framework-agentic-ai]] — Tool-Invariant Framework for Teaching and Assessing Computational Methods
-- [[cong-confidence-asag-2026]] — Confidence-aware automated short-answer grading
-- [[llm-fallacy-misattribution]] — The LLM Fallacy and Misattribution of Competence
-- [[universities-ai-era-rethinking]] — Rethinking Universities in the AI Era
-- [[ssaho-ai-academic-integrity-review-2025]] — Multiple assessment methods to counter AI misconduct
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — Reconsidering oral exams as authentic, AI-resistant assessment
-- [[roe-assessment-twins-2026]] — Assessment twins for strengthening assessment validity in the age of GenAI (Roe, Perkins & Giray 2026)
-- [[lodge-adaptive-capabilities-genai-future-2026]] — Adaptive capabilities for assuring quality learning in a gen AI-integrated future (Lodge et al. 2026)
-- [[asynchronous-oral-assessment-2026]] — Asynchronous Oral Assessments in the AI Era (Pentland 2026)
-- [[assessing-student-drive-framework-2025]] — DRIVE: assessing learning through GenAI interaction (DRI + Visible Expertise)
+- [[zhan-boud-du-authentic-assessment-scoping-review-2025]] — Gestaltung authentischen Assessments: Ein Scoping Review
+- [[beyond-detection-authentic-assessment-ai-2025]] — Beyond Detection: Authentisches Assessment
+- [[responsible-assessment-ai-era-stanford-2026]] — Responsible Assessment im KI-Zeitalter
+- [[authentic-products-authenticated-processes-2026]] — Authentische Produkte, authentifizierte Prozesse
+- [[tool-invariant-framework-agentic-ai]] — Tool-Invariant Framework für Lehren und Bewerten rechnerischer Methoden
+- [[cong-confidence-asag-2026]] — Konfidenzbewusste automatische Kurzantwort-Benotung
+- [[llm-fallacy-misattribution]] — Die LLM-Fehlannahme und die Fehlzuschreibung von Kompetenz
+- [[universities-ai-era-rethinking]] — Hochschulen im KI-Zeitalter neu denken
+- [[ssaho-ai-academic-integrity-review-2025]] — Mehrere Assessmentmethoden gegen KI-Fehlverhalten
+- [[fenton-oral-exams-ai-authentic-assessment-2025]] — Mündliche Prüfungen als authentisches, KI-resistentes Assessment neu betrachtet
+- [[roe-assessment-twins-2026]] — Assessment-Zwillinge zur Stärkung der Assessmentvalidität im Zeitalter von GenAI (Roe, Perkins & Giray 2026)
+- [[lodge-adaptive-capabilities-genai-future-2026]] — Adaptive Fähigkeiten zur Sicherung qualitätsvoller Lernprozesse in einer gen-KI-integrierten Zukunft (Lodge et al. 2026)
+- [[asynchronous-oral-assessment-2026]] — Asynchrone mündliche Assessments im KI-Zeitalter (Pentland 2026)
+- [[assessing-student-drive-framework-2025]] — DRIVE: Lernen durch GenAI-Interaktion bewerten (DRI + Visible Expertise)
 - [[mesny-innovative-assessment-grading-management-2026]]
-- [[chen-zou-genai-group-assessment-agency-2026]] — Authenticity criteria that led student groups to reduce GenAI use
-- [[teacher-educators-ai-integration-preservice-2026]] — The AI trust crisis that pushed teacher educators back toward supervised exams and oral defenses (Goldstein et al. 2026)
-- [[sharma-judgment-visible-genai-assessment-2026]] — Integrity-oriented design distinguished from authentic assessment: making judgment visible (Sharma 2026)
-- [[munoz-misconduct-allegation-evidence-2026]] — What misconduct allegation files actually contain as evidence, and the process evidence they lack (Munoz et al. 2026)
-- [[hadra-ai-detector-accuracy-efl-2026]] — Detector accuracy and hybrid-writing failure: why detection is weak fallback evidence (Hadra et al. 2026)
-- [[wright-transcription-not-generation-2026]] — Over-inclusive AI prohibitions: transcription is not generation (Wright 2026)
-- [[authentic-assessments-generative-ai-pilot-2026]] — Designing Authentic Assessments with Generative AI: A Pilot Study of Assessment Authentifire in Higher Education
+- [[chen-zou-genai-group-assessment-agency-2026]] — Authentizitätskriterien, die Studierendengruppen dazu brachten, die GenAI-Nutzung zu reduzieren
+- [[teacher-educators-ai-integration-preservice-2026]] — Die KI-Vertrauenskrise, die Lehrkräftebildnerinnen und -bildner zurück zu beaufsichtigten Prüfungen und mündlichen Verteidigungen drängte (Goldstein et al. 2026)
+- [[sharma-judgment-visible-genai-assessment-2026]] — Integritätsorientiertes Design abgegrenzt vom authentischen Assessment: Urteil sichtbar machen (Sharma 2026)
+- [[munoz-misconduct-allegation-evidence-2026]] — Was Akten zu Fehlverhaltensanschuldigungen tatsächlich als Beleg enthalten und welche Prozessbelege ihnen fehlen (Munoz et al. 2026)
+- [[hadra-ai-detector-accuracy-efl-2026]] — Detektorgenauigkeit und Scheitern bei hybrider Schreibarbeit: warum Erkennung ein schwacher Rückfallbeleg ist (Hadra et al. 2026)
+- [[wright-transcription-not-generation-2026]] — Überinkludierende KI-Verbote: Transkription ist keine Generierung (Wright 2026)
+- [[authentic-assessments-generative-ai-pilot-2026]] — Gestaltung authentischer Assessments mit generativer KI: Eine Pilotstudie zur Assessment Authentifire in der Hochschulbildung
 
-- [[ai-ethics-tensions-online-pedagogy-2026]] — Task realism corrosion: AI-resistant redesign eroding authenticity in online language teaching
-- [[villanueva-ai-vulnerability-assessment-audit-2026]] — Authentic-surfaced formats (recorded presentations, remote group projects, digital artifacts) score high across 53,915 items: authenticity does not verify authorship
+- [[ai-ethics-tensions-online-pedagogy-2026]] — Korrosion des Aufgabenrealismus: KI-resistente Neugestaltung, die Authentizität in der Online-Sprachlehre erodiert
+- [[villanueva-ai-vulnerability-assessment-audit-2026]] — Authentisch wirkende Formate (aufgezeichnete Präsentationen, entfernte Gruppenprojekte, digitale Artefakte) erzielen über 53.915 Einträge hohe Werte: Authentizität verifiziert keine Autorschaft

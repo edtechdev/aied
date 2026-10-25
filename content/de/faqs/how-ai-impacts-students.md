@@ -1,7 +1,7 @@
 ---
 title: "Wie beeinflusst KI Studierende?"
 created: "2026-08-27T07:59:08-04:00"
-updated: "2026-10-10T09:50:26-04:00"
+updated: "2026-10-24T21:50:00-04:00"
 connected_faqs: [does-ai-help-students-learn, study-with-ai, ai-anxiety-wellbeing, ai-guidance-children-under-13]
 weight: 82
 foundations: [ai-literacy, cognitive-offloading, learner-identity]
@@ -9,7 +9,7 @@ pedagogy: [well-being]
 ethics: [equity-in-ai-education]
 audience: [learners]
 translation_of: faqs/how-ai-impacts-students
-source_updated: "2026-10-02T08:21:34-04:00"
+source_updated: "2026-10-21T14:32:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -20,8 +20,6 @@ ai_assist:
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
-
-# Wie beeinflusst KI Studierende?
 
 **KI beeinflusst Studierende in positiver und negativer Richtung, und meist gleichzeitig.** Dasselbe Werkzeug kann das Lernen eines Studenten scaffolden und gleichzeitig Überabhängigkeit einladen, Motivation heben und Handlungsfähigkeit aushöhlen, oder Zugehörigkeit unterstützen und Autorschaft bedrohen. Forschung zur [[student-experience|Studentenerfahrung]] zeigt wiederkehrende positive und negative Auswirkungen über mehrere Dimensionen hinweg –, und die Richtung hängt stark davon ab, wie die KI designt ist und wie Studierende sie nutzen.
 

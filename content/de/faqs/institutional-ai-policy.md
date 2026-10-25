@@ -1,7 +1,7 @@
 ---
 title: "Wie schreiben und implementieren wir eine institutionelle KI-Richtlinie?"
 created: "2026-09-16T15:58:20-04:00"
-updated: "2026-10-10T09:50:26-04:00"
+updated: "2026-10-24T23:30:00-04:00"
 connected_faqs: [course-ai-policy, equity-ethics-pedagogical-safety-research]
 weight: 65
 type: faq
@@ -11,7 +11,7 @@ audience: [administrators, policymakers, institutions]
 level: [higher ed]
 institutions: [change-management, educational-policy-ai, governance]
 translation_of: faqs/institutional-ai-policy
-source_updated: "2026-10-02T08:21:34-04:00"
+source_updated: "2026-10-21T14:32:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -22,8 +22,6 @@ ai_assist:
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
-
-# Wie schreiben und implementieren wir eine institutionelle KI-Richtlinie?
 
 Sie sind der Provost, Dekan, Governance-Leiter, Direktor des Lehzentrums oder Ausschussvorsitzende, der diese Richtlinie erzeugen oder verteidigen muss, und einen Kollegen beantworten muss, der sie zu streng oder zu vage nennt. Das direkte Fazit: eine Richtlinie zu veröffentlichen ist der einfache Teil, und ein Dokument allein verändert nichts. Die meisten Institutionen haben die Frage, ob sie eine haben, bereits durch Veröffentlichung beantwortet, und das resultierende Portfolio ist breit, aber seicht – beratend statt verbindlich, um akademische Integrität gehäuft, und dünn bei den Daten-, Gerechtigkeits- und Fähigkeitsproblemen, die entscheiden, ob KI-Nutzung gut geht. Was eine vertretbare Richtlinie von einem Dokument unterscheidet, das Staub sammelt, ist ein benannter Eigentümer, ein Prüfkalender, ein Übersetzungspfad in Kurse, und ein Assessmentdesign, das das Verhalten belohnt, das Sie verlangen.
 

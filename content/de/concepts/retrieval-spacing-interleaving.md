@@ -1,7 +1,7 @@
 ---
 title: "Abruf, Spacing und Interleaving"
 created: "2026-09-18T12:20:00-04:00"
-updated: "2026-10-10T09:04:24-04:00"
+updated: "2026-10-24T21:55:25-04:00"
 type: concept
 pedagogy: [desirable-difficulties, metacognition, self-regulated-learning, mastery-learning, prior-knowledge, transfer-of-learning]
 foundations: [cognitive-offloading]
@@ -108,16 +108,16 @@ Die Aufnahme von Interleaving hier beruht daher auf derselben Theoriefamilie wie
 
 ## Verbundene Artikel
 
-- [[adaptive-pretesting-retention]] — Akgun & Toker: adaptive spaced retrieval vs fixed retrieval vs learner-directed AI over seven weeks
-- [[memdora-ai-spaced-repetition]] — Memdora: FSRS-6 scheduling and a taxonomy of grounded flashcard interactions
-- [[llm-interaction-depth-task-quality-recall-2026]] — Tsiligkiris: explanation depth predicts task quality but not immediate recall
-- [[rachatasumrit-example-problem-ratio-2026]] — Retrieval practice for facts, worked examples for skills; the content–treatment interaction
-- [[schuetze-knowledge-tracing-forgetting-2026]] — Knowledge-tracing models fail to capture the spacing effect under time-based validation
-- [[bilingual-llm-lecture-companion-srl-2026]] — Automatic flashcard generation removing the authoring cost of spaced practice
-- [[student-cheat-sheets-make-or-take]] — Constructing a cheat sheet as generative study; offloading the construction with AI
-- [[knowloop-confusion-to-consolidation-2026]] — Teach-back consolidation surfacing gaps clarification did not
-- [[simulating-learner-task-selection]] — Interleaving and Blocking as modeled learner strategies under task-selection constraints
-- [[nie-personavlm-long-term-personalization-2026]] — Longitudinal student memory and its open relation to spaced repetition and forgetting curves
-- [[learning-to-learn-in-the-age-of-generative-ai-a-scoping-review-and-conceptual-fr]] — Retrieval practice in the Tools layer of a learning-to-learn framework
-- [[agentic-ai-pedagogical-best-practice-2026]] — Pre-fetching agents bypass retrieval practice; the case for intentional friction
-- [[ai-tutor-modality-randomized-field-experiment-2026]] — When AI Tutors Speak: Evidence from a Randomized Field Experiment
+- [[adaptive-pretesting-retention]] — Akgun & Toker: adaptiver verteilter Abruf vs. fixierter Abruf vs. lernendengesteuertes KI-Studium über sieben Wochen
+- [[memdora-ai-spaced-repetition]] — Memdora: FSRS-6-Planung und eine Taxonomie kognitiv fundierter Karteikarten-Interaktionen
+- [[llm-interaction-depth-task-quality-recall-2026]] — Tsiligkiris: Erklärungstiefe sagt Aufgabenqualität voraus, nicht unmittelbaren Abruf
+- [[rachatasumrit-example-problem-ratio-2026]] — Abrufübung für Fakten, ausgearbeitete Beispiele für Fähigkeiten; die Inhalts-Behandlungs-Interaktion
+- [[schuetze-knowledge-tracing-forgetting-2026]] — Knowledge-Tracing-Modelle erfassen den Spacing-Effekt unter zeitbasierter Validierung nicht
+- [[bilingual-llm-lecture-companion-srl-2026]] — Automatische Karteikartenerzeugung, die die Autorenschaftskosten verteilter Übung entfernt
+- [[student-cheat-sheets-make-or-take]] — Ein Spickzettel konstruieren als generatives Lernen; die Konstruktion mithilfe von KI auslagern
+- [[knowloop-confusion-to-consolidation-2026]] — Teach-Back-Konsolidierung, die Lücken offenlegt, die Klärung nicht offenlegte
+- [[simulating-learner-task-selection]] — Interleaving und Blocken als modellierte Lernendenstrategien unter Aufgabenauswahl-Randbedingungen
+- [[nie-personavlm-long-term-personalization-2026]] — Longitudinales Gedächtnis der Lernenden und seine offene Beziehung zu verteilter Wiederholung und Vergessenskurven
+- [[learning-to-learn-in-the-age-of-generative-ai-a-scoping-review-and-conceptual-fr]] — Abrufübung in der Schicht Tools eines Lernen-zu-lernen-Rahmenwerks
+- [[agentic-ai-pedagogical-best-practice-2026]] — Vorab abrufende Agenten umgehen Abrufübung; das Plädoyer für absichtliche Reibung
+- [[ai-tutor-modality-randomized-field-experiment-2026]] — Wenn KI-Tutoren sprechen: Evidenz aus einem randomisierten Feldexperiment

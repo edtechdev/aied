@@ -9,6 +9,7 @@ methods: [research-methods-aied, meta-analysis-systematic-review, qualitative-re
 assessment: [educational-measurement, learning-gains]
 ethics: [ai-use-disclosure, hallucination-risk, trust]
 audience: [researchers, instructors, faculty developers]
+connected_resources: [learning-design-wiki]
 level: [higher ed]
 page_kind: [synthesis]
 connected_faqs: [making-simulated-students-behave-like-learners, how-can-ai-assist-with-educational-research]

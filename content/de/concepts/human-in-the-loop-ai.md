@@ -1,7 +1,7 @@
 ---
 title: Human-in-the-Loop-KI
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-10-10T09:04:23-04:00"
+updated: "2026-10-24T22:30:38-04:00"
 type: concept
 foundations: [ai-education]
 technology: [generative-ai, human-in-the-loop-ai, learning-analytics, llm]
@@ -12,7 +12,7 @@ methods: [benchmark]
 ethics: [pedagogical-safety]
 connected_faqs: [ai-agents-support-students-instructors, designing-educational-ai-software, ai-feedback-at-scale]
 translation_of: concepts/human-in-the-loop-ai
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-24T06:14:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -39,7 +39,11 @@ ai_assist:
 
 HITL ist eine Antwort auf die Grenzen und Risiken vollständig autonomer [[ai-education|KI in der Bildung]]: Automatisierte Systeme können im großen Maßstab generieren, ermangeln aber des kontextuellen, [[ethics|ethischen]] und pädagogischen Urteils, das Lehrende und Fachleute mitbringen. Zwei aktuelle Implementierungen illustrieren klar unterscheidbare Architekturen:
 
+- **Human-in-the-Loop reicht nicht, wenn der Mensch nur absegnet.** [[learning-analytics-genai-learning-design|Rienties, Divjak und Law (2026)]] argumentieren, dass echte Handlungsfähigkeit die Fähigkeit erfordert, KI-gestützte Empfehlungen zu verstehen, anzufechten, neu zu gestalten und manchmal abzulehnen – nicht bloß, um Entscheidungen abzunehmen, die anderswo geformt wurden.
+
 Vorschreibende Unterstützung ist eine Domäne, in der menschliche Aufsicht zunehmend als nicht optional argumentiert wird. [[lopez-pernas-llm-appropriate-student-support-2026|López-Pernas et al. (2026)]] testeten, ob drei LLMs Pläne zur Studierendenunterstützung aus [[learning-analytics|Learning-Analytics]]-Indikatoren empfehlen können, und fanden begrenzte Sensibilität für Bedarf und scharfe modellübergreifende Inkonsistenz –, mit dem Schluss, dass Human-in-the-Loop-Urteil noch nötig sei, bevor [[llm|vorschreibende Beratung]] sicher und ethisch eingesetzt werden könne.
+
+Ein Zurückhalten der präferierten Antwort des Systems ist schützend statt korrigierend: In einer Multi-Agenten-Debatte, die nie eine empfohlene Position offenbarte, fiel das schädliche Umschalten auf eine inkorrekte KI-Antwort von 42,0–60,5% auf 5,7–8,2%, während auch die Übernahme korrekter Ratschläge sank ([[tuo-armada-multi-agent-debate-overreliance-2026|Tuo et al., 2026]]).
 
 Eine dritte Architektur platziert menschliches Urteil *vorgelagert* des Modells statt an seinem Output. In der Studie zu [[lee-learner-question-types-ai-education-2026|Lee, Atif & Kang (2026)]] zur Klassifikation von Lernendenfragen steuerten drei doktoratsnahe Expertinnen und Experten die gesamte Pipeline: Sie verfeinerten die operationalen Definitionen für jede [[constructivist]]-Rolle, markierten unabhängig, bis Fleiss' Kappa von 0,60 auf 0,83 stieg, nachdem Diskrepanzen aufgelöst waren, und validierten die rückübersetzten und paraphrasierten Items, die genutzt wurden, um das Trainingsset zu balancieren.
 
@@ -77,7 +81,7 @@ Human-in-the-Loop-Design ist aus mehreren konvergierenden Gründen für die Disk
 - **Aufsicht ist selten in der Praxis, nicht nur in der Theorie.** [[agentic-ai-education-scoping-review|Wang et al. (2026)]] fanden, dass robuste eingebettete Governance und Human-in-the-Loop-Aufsicht über 474 pädagogische agentische KI-Systeme hinweg selten ausgeprägt waren, selbst als Einzelaufgaben-Autonomie und Multi-Agent-Kollaboration wuchsen – die Lücke zwischen dem Designprinzip und der eingesetzten Praxis.
 - **Die kritische Frage ist, wie die Schleife handlungsleitend gemacht wird, nicht wie sehr Menschen teilnehmen.** Eine lernwissenschaftliche Sicht argumentiert, dass die Organisation von Lernen um Datenerfassung, rechnerische Interpretation und wahrscheinliche Antwort herum pädagogisches Handeln davon abhängig macht, was Systeme erkennen und worauf sie reagieren können, und dass Alerts und Engagement-Klassifikationen die lernende Person deuten, bevor eine Lehrkraft oder eine studierende Person handelt ([[in-the-loop-educational-ai-learning-sciences-2026|Pande (2026)]]).
 - **Validität und Qualitätskontrolle.** HITL ist ein Qualitätstor für [[automated-assessment|automatisiertes Assessment]] und Generierung – Menschen schlichten dort, wo automatisierte Bewertung unverlässlich ist (siehe [[llms-do-not-grade-essays-like-humans-2026|LLM-Essaybenotung]]-[[research-methods-aied|Forschung]]), und validieren generierte Items. Ein PRISMA-geleiteter [[meta-analysis-systematic-review|systematischer Review]] von 42 Studien zu Benotung und Feedback (2023–2025) kommt ausdrücklich zum selben Schluss: LLMs erreichen die Übereinstimmung mit menschlichen Beurteilenden bei kurzen, wohlstrukturierten Aufgaben, können aber menschliches Urteil bei komplexer, offener oder subjektiver Arbeit nicht vollständig ersetzen, und die höchste Effektivität der Benotung wird in hybriden Systemen erreicht, die KI-getriebene Benotung mit Aufsicht und Verifikation durch Lehrende kombinieren ([[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]). [[falahat-chatgpt-grading-pharmacy-exams-2026|Falahat et al. (2026)]] zeigen konkret, wo jene Grenze fällt: ChatGPT-5 passte bei objektiven Items der Pharmazieprüfung zur Fakultät (CCC 0,935–1,000), war aber bei Kurzantwort- und Essay-Items unverlässlich, selbst wenn eine Rubrik geliefert wurde, was die Autoren zu der Empfehlung führt, bei komplexem, subjektivem oder folgenreichem Assessment hybrid zu benoten mit menschlicher Prüfung.
- Wiederholung ist kein Ersatz für jene Aufsicht: Bei Neubenotung identischer Einsendungen an fünf verschiedenen Tagen reproduzierte dasselbe Modell seine eigenen Ergebnisse nur bei Krippendorffs Alpha 0,625, mit Variation, die in den mittleren Noten konzentriert war, während A und F in den Fünf-Sitzungs-Zählungen fehlten ([[llm-grading-assistants-public-health-2026|Brevik et al. (2026)]]).
+- Wiederholung ist kein Ersatz für jene Aufsicht: Bei Neubenotung identischer Einsendungen an fünf verschiedenen Tagen reproduzierte dasselbe Modell seine eigenen Ergebnisse nur bei Krippendorffs Alpha 0,625, mit Variation, die in den mittleren Noten konzentriert war, während A und F in den Fünf-Sitzungs-Zählungen fehlten ([[llm-grading-assistants-public-health-2026|Brevik et al. (2026)]]).
 - **Handlungsfähigkeit der Lernenden.** Einen Menschen in der Schleife zu halten bewahrt [[agency]] und stützt [[self-regulated-learning]], und wirkt der [[cognitive-offloading|übermäßigen Abhängigkeit]] entgegen, die vollständig autonome Assistenz induzieren kann.
 
 - **Studierende setzen selbst den Menschen an das folgenreiche Ende.** Unter 93 Undergraduates bevorzugten 81,7% menschliche Benotung für eine Abschlussarbeit, die 40% der Note zählte, wollten 75 von 93, dass KI unterstützt statt Bewerter ersetzt, und 69 wollten KI-Benotung immer menschlich geprüft ([[when-students-prefer-ai-scoring-feedback-2026|Yildirim-Erbasli et al. (2026)]]).
@@ -100,6 +104,9 @@ Human-in-the-Loop-Design ist aus mehreren konvergierenden Gründen für die Disk
 - **Fragen- und Inhaltsgenerierung:** Jenseits von CODE-GEN leitet HITL Aufgengenerierung für Assessment und [[scaffolding]] ([[code-gen]], [[llm-difficulty-calibration-programming-exams-2026]]).
 - **Agentische und Multi-Agent-Systeme:** Wenn KI autonomer wird, ist HITL-Aufsicht eine zentrale [[agentic-ai|Designleitplanke]] ([[agentic-ai-pedagogical-best-practice-2026]], [[guided-llm-scaffolding-independent-learning]]).
 - **Routing nach Entscheidungskonsequenz, nicht nach Modellunsicherheit (2026).** Eine [[human-in-the-loop-ai-scoring-national-assessment-2026|operative Studie aus dem Jahr 2026]] zum nationalen Acredita-EB-Akkreditierungstest Uruguays (zwei Ausgaben, jeweils etwa 5.000-6.000 Kandidatinnen und Kandidaten) zeigt, wie Human-in-the-Loop-Design aussieht, wenn es von Entscheidungskonsequenzen statt von Modellunsicherheit getrieben ist. Ein GPT-5-Bewerter stimmte bei 60-80% der 15 Rubrikitems mit Experten-Beurteilenden überein, war aber systematisch konservativ und erzeugte Diskrepanzen zwischen Mensch-Bestanden/KI-Durchgefallen in 15,3% (2024) und 16,5% (2025) der Bestanden-/Durchgefallen-Vergleiche und fast nie das Gegenteil. Das Rahmenwerk nimmt daher KI-bestehende Ergebnisse unverändert an und leitet jedes KI-durchgefallene Ergebnis, das das Ergebnis einer Kandidatin bzw. eines Kandidaten ändern könnte, zur Expertenprüfung –, nachdem es zunächst Kandidatinnen und Kandidaten überspringt, deren Bestehen/Durchfallen nicht vom Writing-Abschnitt abhängen kann –, wodurch die einer vollständigen menschlichen Benotung bedürfenden Antworten um mindestens 50% sinken. Ein zweites Design aus dem Jahr 2026 zieht die Grenze von der anderen Seite: In einer Multi-Agent-KI-Plattform für standardisierte Patienten ([[ai-standardized-patient-scaffolding-medical-2026|Yang et al.]]) ist menschliche Aufsicht dem vorbehalten, was KI als unfähig zu entscheiden beurteilt wird, wobei Fakultät und menschliche standardisierte Patienten kontextuelle Interpretation, Nachhilfe und Bereitschaftsurteile liefern, und es dem System explizit nicht erlaubt ist, [[medical-education|klinische]] Kompetenz autonom zu bestimmen.
+- **Forschungsinstrument: Menschen validieren Labels statt Scores.** Lernwissenschaftliche und informatische Kodierende beurteilten LLM-generierte Verhaltenssegmente auf einem synchronisierten Zeitstrahl mit κ = 0,703, und ihre Dissense wurden zur Fehleranalyse der Studie selbst ([[fonteles-embodied-learning-human-in-the-loop-multimodal-2026|Fonteles et al., 2026]]).
+- **Das Modell fasst zusammen, die Forschenden labeln.** Eine kollaborative-Modellierungs-Studie nutzte GPT-3.5-Turbo, um für jedes von 394 Diskurssegmenten eine auf den Aufgabenkontext zugeschnittene Zusammenfassung zu schreiben, ließ jede Zusammenfassung von Forschenden prüfen und koder sie bis κ ≥ 0,7, und trainierte die Detektoren auf jenen Labels, sodass das Modell die Urteile selbst nie fällte. Die Aufsicht verlagerte sich dann nach außen: Vier erfahrene Lehrkräfte prüften ein gelabeltes Segment, drei erkannten die Verhaltensweisen, und eine argumentierte, dass zwei Labels auf einem Segment verschleierten, was die Studierenden taten – ein Gebrauchstauglichkeits-Einwand, den die Autoren aufzeichneten statt lösten ([[zhang-llm-detection-ssrl-collaborative-modeling-2026|Zhang et al., 2026]]).
+- **HITL als Architektur für eine ganze Disziplin, nicht einen Arbeitsablauf.** [[zhai-science-literacy-generative-ai-coherence-2026|Zhai et al. (2026)]] spezifizieren vier verzahnte Schichten – Dateninfrastruktur, Modellentwicklung, pädagogische Schnittstelle und menschliche Governance –, zusammengehalten durch drei Prinzipien: menschliche Aufsicht und Handlungsfähigkeit, co-adaptive Intelligenz und kontextuelle Responsivität.
 
 ## Synthese
 
@@ -134,11 +141,13 @@ Human-in-the-Loop-Design ist nicht bloß eine Sicherheitsmaßnahme – er ist ei
 - [[student-support-and-success]] — menschliches Urteil in einem automatisierten Unterstützungsfluss
 
 ## Verbundene Artikel
-- [[lee-learner-question-types-ai-education-2026]] — Expert-labeled question classification: humans govern labeling, augmentation, and error analysis (Lee, Atif & Kang 2026)
-- [[ilieva-agentic-genai-higher-education-2026]] — Human supervision and governance as the third layer of agentic GAI course design (Ilieva et al. 2026)
-- [[ko-hughes-vsd-student-centered-its-2026]] — Value-sensitive design of student-centered ITS (learners in the tutoring loop)
-- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — HITL AI-assisted scoring in a large-scale national writing assessment (Curi et al. 2026)
-- [[ai-teammate-task-distribution-medical-training-2026]] — SCAN framework: rethinking AI task distribution in medical training (Tsim et al. 2026)
+- [[zhai-science-literacy-generative-ai-coherence-2026]] — Vierschichtige HITL-Architektur für generative KI in der naturwissenschaftlichen Bildung (Zhai et al. 2026)
+- [[fonteles-embodied-learning-human-in-the-loop-multimodal-2026]] — Kodierende, die LLM-Verhaltenssegmente als Forschungsinstrument validieren (Fonteles et al. 2026)
+- [[lee-learner-question-types-ai-education-2026]] — Von Experten labelte Fragensklassifikation: Menschen steuern Kodierung, Augmentierung und Fehleranalyse (Lee, Atif & Kang 2026)
+- [[ilieva-agentic-genai-higher-education-2026]] — Menschliche Aufsicht und Governance als dritte Schicht des agentischen GAI-Kursdesigns (Ilieva et al. 2026)
+- [[ko-hughes-vsd-student-centered-its-2026]] — Wertsensibles Design eines studierendenzentrierten ITS (Lernende in der Tutoringschleife)
+- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — KI-gestütztes HITL-Scoring in einem groß angelegten nationalen Schreib-Assessment (Curi et al. 2026)
+- [[ai-teammate-task-distribution-medical-training-2026]] — SCAN-Rahmenwerk: KI-Aufgabenverteilung in der medizinischen Ausbildung neu bedacht (Tsim et al. 2026)
 - [[agentic-ai-education-scoping-review]]
 - [[becerra-aicofe-feedback-2026]]
 - [[calibrating-trustworthiness-llm-education-2026]]
@@ -146,22 +155,23 @@ Human-in-the-Loop-Design ist nicht bloß eine Sicherheitsmaßnahme – er ist ei
 - [[cong-confidence-asag-2026]]
 - [[chen-teacharena-language-agents-realistic-teaching-2026]]
 - [[llm-difficulty-calibration-programming-exams-2026]]
-- [[llms-do-not-grade-essays-like-humans-2026]] — LLMs do not grade essays like humans (Mathew et al. 2026)
-- [[kim-ai-andragogy-2026]] — AI Applications in Supporting Andragogy (Kim et al. 2026)
-- [[scaffolding-systematic-reviews-2026]] — Scaffolding Systematic Reviews with Mentoring and AI (Wang 2026)
-- [[ai-assisted-instructor-supervised-grading-feedback]] — AI-assisted instructor-supervised grading and feedback
-- [[lopez-pernas-llm-appropriate-student-support-2026]] — Can AI deliver appropriate support for diverse student profiles? A large-scale evaluation
+- [[llms-do-not-grade-essays-like-humans-2026]] — LLMs benoten Essays nicht wie Menschen (Mathew et al. 2026)
+- [[kim-ai-andragogy-2026]] — KI-Anwendungen zur Unterstützung der Andragogik (Kim et al. 2026)
+- [[scaffolding-systematic-reviews-2026]] — Systematische Reviews mit Mentoring und KI scaffolden (Wang 2026)
+- [[ai-assisted-instructor-supervised-grading-feedback]] — KI-gestützte, von Lehrenden beaufsichtigte Benotung und Rückmeldung
+- [[lopez-pernas-llm-appropriate-student-support-2026]] — Kann KI angemessene Unterstützung für diverse Studierendenprofile liefern? Eine Evaluation im großen Maßstab
 - [[breideband-community-builder-cobi-2026]]
 - [[cvengros-grading-handwritten-chemistry-ai-2026]]
 - [[falahat-chatgpt-grading-pharmacy-exams-2026]]
 - [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]
-- [[ai-standardized-patient-scaffolding-medical-2026]] — Evaluating Scaffolding-Oriented Multi-Agent Large Language Model System for Clinical Interview Training
-- [[tripartite-feedback-framework-ai-assessment-2026]] — Tripartite framework: sorting feedback by epistemic status and the five boundary principles for AI involvement (Venetsanos 2026)
-- [[adapted-stories-social-story-intervention-2026]] — AI-Assisted Social Story Intervention for Special Education: The Design of AdaptED Stories
-- [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors: Assertion-based Schemas for Auditable Coding of Educational Dialogues
-- [[nlp-student-evaluation-teaching-scoping-review-2026]] — From Sentiment Classification to Actionable and Responsible Feedback: A Scoping Review and Evidence Map of NLP in Student Evaluation of Teaching, 2015–2026
+- [[ai-standardized-patient-scaffolding-medical-2026]] — Evaluierung eines scaffolding-orientierten Multi-Agent-LLM-Systems für das Training klinischer Interviews
+- [[tripartite-feedback-framework-ai-assessment-2026]] — Tripartites Rahmenwerk: Feedback nach epistemischem Status sortieren und die fünf Grenzprinzipien für KI-Beteiligung (Venetsanos 2026)
+- [[adapted-stories-social-story-intervention-2026]] — KI-unterstützte Social-Story-Intervention für Sonderpädagogik: Das Design von AdaptED Stories
+- [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors: Behauptungsbasierte Schemata für auditierbares Kodieren pädagogischer Dialoge
+- [[nlp-student-evaluation-teaching-scoping-review-2026]] — Von der Stimmungsklassifikation zum umsetzbaren und verantwortungsvollen Feedback: Ein Scoping-Review und eine Evidence Map zu NLP in der studentischen Lehrveranstaltungsevaluation, 2015–2026
 
-- [[llm-grading-assistants-public-health-2026]] — Identical LLM grading reruns on different days reproduce at only Krippendorff's alpha 0.625
-- [[when-students-prefer-ai-scoring-feedback-2026]] — Undergraduates prefer human scoring for high-stakes work and AI as an assistant, not a replacement
-- [[student-query-demand-hybrid-ai-support-2026]] — What Students Actually Ask: Demand Structure and Automation Potential in a Hybrid Support System
-- [[in-the-loop-educational-ai-learning-sciences-2026]] — Rethinking "In-The-Loop" Approaches in Educational AI: A Learning Sciences Perspective
+- [[llm-grading-assistants-public-health-2026]] — Identische LLM-Benotungsdurchläufe an verschiedenen Tagen reproduzieren sich nur bei Krippendorffs Alpha 0,625
+- [[when-students-prefer-ai-scoring-feedback-2026]] — Studierende bevorzugen menschliche Benotung für folgenreiche Arbeit und KI als Assistenz, nicht als Ersatz
+- [[student-query-demand-hybrid-ai-support-2026]] — Was Studierende tatsächlich fragen: Anfragestruktur und Automatisierungspotenzial in einem hybriden Unterstützungssystem
+- [[in-the-loop-educational-ai-learning-sciences-2026]] — „In-The-Loop"-Ansätze in der Bildungs-KI neu bedacht: Eine lernwissenschaftliche Perspektive
+- [[tuo-armada-multi-agent-debate-overreliance-2026]] — Das Zurückhalten der präferierten Antwort des Systems senkte das Nachgeben vor falschen KI-Ratschlägen – schützend statt korrigierend

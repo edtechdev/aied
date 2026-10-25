@@ -1,7 +1,7 @@
 ---
 title: Erfahrensorientiertes Lernen
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-10-10T09:04:24-04:00"
+updated: "2026-10-25T00:10:53-04:00"
 type: concept
 pedagogy: [active-learning, embodied-learning, experiential-learning, project-based-learning]
 level: [higher ed]
@@ -57,19 +57,19 @@ Arbeitsintegrierte Erfahrung kann die bindende Bedingung für fortgeschrittene K
 - [[educational-robotics]]
 - [[higher-ed]]
 - [[learning-theories]]
-- [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
-- [[virtual-and-augmented-reality]] — immersive practice as deliberate experience
+- [[pedagogy]] — Dachbegriff: Pädagogien und Lehrstrategien in der KI-Bildung
+- [[virtual-and-augmented-reality]] — immersives Üben als absichtsvolle Erfahrung
 
 ## Verbundene Artikel
 - [[genai-counter-learner-groupthink-2025]]
-- [[workforce-readiness-smart-manufacturing-wrl-2026]] — Workforce Readiness Level framework for smart manufacturing in the AI era
-- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Fostering Sustainable Learning via Embodied Intelligence (E3-HOT)
-- [[genai-cybersecurity-ocr-multimodal-instruction-2025]] — GenAI in Cybersecurity Education
+- [[workforce-readiness-smart-manufacturing-wrl-2026]] — Workforce-Readiness-Level-Rahmenwerk für smarte Fertigung im KI-Zeitalter
+- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Förderung nachhaltigen Lernens über verkörperte Intelligenz (E3-HOT)
+- [[genai-cybersecurity-ocr-multimodal-instruction-2025]] — GenAI in der Cybersicherheitsbildung
 - [[bots-blocks-project-based-robotics-education-2026]] — Bots and Blocks
 - [[edusim-llm-robotic-simulation-education-2026]] — EduSim-LLM
-- [[white-wu-robotics-ai-education-2026]] — Robotics and AI in Education
-- [[ai-lms-middle-school-longitudinal]] — AI-Integrated LMS Longitudinal Study
+- [[white-wu-robotics-ai-education-2026]] — Robotik und KI in der Bildung
+- [[ai-lms-middle-school-longitudinal]] — Längsschnittstudie zum KI-integrierten LMS
 - [[li-ai-science-situated-learning-teachers-2025]]
-- [[ai-personas-fieldwork-experiential-learning-2026]] — AI personas substituting for community fieldwork, with a five-indicator rubric for where the substitution fails (Elhajj et al. 2026)
-- [[hands-on-learning-necessity-age-of-ai-review-2026]] — Thematic review distinguishing Embodied Hands-on from Cognitive Hands-on in AI-supported design education (Yu, Liu & Zhu 2026)
-- [[shi-genai-experiential-learning-management-education-2026]] — a strategic management course reconfigured around three generative AI mechanisms
+- [[ai-personas-fieldwork-experiential-learning-2026]] — KI-Personas als Ersatz für Gemeinschaftserkundungen, mit einer Fünf-Indikatoren-Rubrik, wo der Ersatz scheitert (Elhajj et al. 2026)
+- [[hands-on-learning-necessity-age-of-ai-review-2026]] — Thematischer Review, der handlungsorientiertes Hands-on von kognitivem Hands-on in der KI-unterstützten Design-Bildung unterscheidet (Yu, Liu & Zhu 2026)
+- [[shi-genai-experiential-learning-management-education-2026]] — ein strategischer Managementkurs, neu ausgerichtet um drei generative KI-Mechanismen

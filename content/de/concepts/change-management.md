@@ -64,6 +64,8 @@ Veränderungsmanagement in der KI-Bildung trägt sowohl positive als auch negati
 
 Eine institutionelle Fallstudie verfolgt einen jahrzehntelangen Diffusionsbogen in der Mathematik des Grundstudiums, von individueller Initiative und Peer-Workshops zu gemeinsamer Fakultätslizenzierung und zentraler Finanzierung ([[flipped-classroom-ai-assessment-math-2026|Law, 2026]]).
 
+Die Umgestaltung eines Kurses verursacht Kosten, die Institutionen einplanen sollten, nicht annehmen: Die Einführung eines KI-integrierten Kurses führte zu etwa 15 bis 20 Stunden Umgestaltungsarbeit pro Kurs, bevor laufende Anpassungen nötig wurden [[packard-thinking-partner-framework-adult-learners-2026|Packard et al. (2026)]].
+
 ## Verbindungen zu anderen Konzepten
 
 Veränderungsmanagement ist das institutionelle Komplement zur Integration auf Klassenzimmerebene. Es operationalisiert die systemischen Bedingungen — Governance, Fakultätsentwicklung, [[student-engagement|Engagement]] von Stakeholdern und Gerechtigkeitssicherungen —, die pädagogische Innovation greifen lassen, und verbindet Politikdesign von [[educational-policy-ai]] mit [[governance]], [[educational-development]] und [[equity-in-ai-education]]-Ergebnissen.
@@ -97,3 +99,4 @@ Veränderungsmanagement ist das institutionelle Komplement zur Integration auf K
 - [[instruction-partners-ai-in-action-learning-tour-2026]] — Feldforschung über Systeme hinweg dazu, wie Implementierung und Lehrkräftehandlungen entscheiden, ob ein KI-Produkt hilft
 - [[dot-framework-survey-2026]] — Umfrageevidenz, dass professionelle Entwicklung einen vollen Designzyklus abdecken muss statt Werkzeugnutzung allein
 - [[flipped-classroom-ai-assessment-math-2026]] — Ein jahrzehntelanger Diffusionsbogen von individueller Initiative zu zentraler Finanzierung in der Mathematik des Grundstudiums (Law 2026)
+- [[packard-thinking-partner-framework-adult-learners-2026]] — 15 bis 20 Stunden Umgestaltungsarbeit pro KI-integriertem Kurs vor laufenden Anpassungen einplanen

@@ -1,7 +1,7 @@
 ---
 title: "Berufliche Aus- und Weiterbildung"
 created: "2026-09-17T14:04:23-04:00"
-updated: "2026-10-10T09:04:23-04:00"
+updated: "2026-10-24T21:55:25-04:00"
 type: concept
 technology: [human-in-the-loop-ai, intelligent-tutoring, simulation]
 assessment: [authentic-assessment]
@@ -66,11 +66,11 @@ Was an KI in der VET charakteristisch ist, ist eine Lücke zwischen dem, was der
 
 ## Verbundene Artikel
 
-- [[ai-vocational-education-training-review]] — First systematic review of AI in VET: purposes, theory and empirical effectiveness
-- [[ai-ive-pbl-vocational-design-creativity-2026]] — AI-IVE-PBL: immersive project-based learning and design creativity
-- [[ai-supported-oral-assessment-tvet-2026]] — AkoVoice: offline AI-supported oral assessment in TVET
-- [[ai-pedagogical-accompaniment-amico]] — Amico dual-mode prototype: design principles and observable indicators
-- [[ai-autonomous-learning-accomplishment-2026]] — AI-assisted autonomous learning and reduced accomplishment, mediated by hardiness
-- [[astra-atco-training-simulator]] — Autonomous sim-pilots for scalable ATCO training
-- [[crewscaler-ai-upskilling-framework]] — AI-accelerated end-to-end framework for rapid professional upskilling
-- [[genai-xr-architectural-design-education-2026]] — Counter-case: GenAI plus multi-user XR with declining design self-efficacy
+- [[ai-vocational-education-training-review]] — Erstes systematisches Review zu KI in der VET: Zwecke, Theorie und empirische Wirksamkeit
+- [[ai-ive-pbl-vocational-design-creativity-2026]] — AI-IVE-PBL: immersives projektbasiertes Lernen und Designkreativität
+- [[ai-supported-oral-assessment-tvet-2026]] — AkoVoice: offline KI-gestütztes mündliches Assessment in der TVET
+- [[ai-pedagogical-accompaniment-amico]] — Amico-Dual-Mode-Prototyp: Designprinzipien und beobachtbare Indikatoren
+- [[ai-autonomous-learning-accomplishment-2026]] — KI-gestütztes autonomes Lernen und reduzierte Leistungserfüllung, vermittelt durch Härte
+- [[astra-atco-training-simulator]] — Autonome Sim-Piloten für skalierbares ATCO-Training
+- [[crewscaler-ai-upskilling-framework]] — KI-beschleunigtes End-to-End-Rahmenwerk für schnelles berufliches Upskilling
+- [[genai-xr-architectural-design-education-2026]] — Gegenbeispiel: GenAI plus Mehrbenutzer-XR mit sinkender Designselbstwirksamkeit

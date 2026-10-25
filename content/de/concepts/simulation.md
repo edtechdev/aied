@@ -2,7 +2,7 @@
 connected_resources: [openmaic]
 title: "Simulation"
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-10-10T09:04:24-04:00"
+updated: "2026-10-24T23:30:00-04:00"
 type: concept
 pedagogy: [active-learning, experiential-learning]
 technology: [adaptive-learning, pedagogical-agent, reinforcement-learning]
@@ -75,26 +75,26 @@ Simulation verbindet sich mit [[active-learning|aktivem Lernen]], [[adaptive-lea
 - [[chemistry-education]] — Chemiebildung und KI: Labore, formatives Prüfen, Grenzen von LLMs, Philosophie des Experimentierens
 - [[biology-education]] — Biologiebildung und KI: Labor-Lehrassistenten, KI-Kompetenz in der Biologie, kritisches Denken, spezialisierte Werkzeuge
 - [[ai-technologies]] — Überblick: KI-Technologien und -Verfahren (Modelle, LLM-Training, Robotik, RAG, agentisch)
-- [[virtual-and-augmented-reality]] — the model, not the modality — immersive environments usually render a simulation
+- [[virtual-and-augmented-reality]] — das Modell, nicht die Modalität — immersive Umgebungen rendern üblicherweise eine Simulation
 
 ## Verbundene Artikel
-- [[learner-agency-ai-simulation-2026]] — Parameter control and an optional AI agent in a complex-systems simulation: gains tracked enactment, not access
+- [[learner-agency-ai-simulation-2026]] — Parametersteuerung und ein optionaler KI-Agent in einer Komplexsystem-Simulation: Gewinne folgten der vollzogenen Handlung, nicht dem Zugang
 - [[benzion-ai-physics-simulations-virtual-lab]]
-- [[adaptive-virtual-patient-psychotherapy-training]] — Adaptive Virtual Patients for Psychotherapy Training
-- [[ai-enabled-serious-games]] — AI-Enabled Serious Games
-- [[anvil-ai-educational-animations]] — ANVIL: Analogies and Videos for Lecturers
-- [[astra-atco-training-simulator]] — ASTRA: ATCO Training Simulator
-- [[supplynet-visual-exploratory-learning]] — SupplyNet: Visual Exploratory Learning
-- [[medeasy-ai-standardized-patients]] — MedEASY: AI Standardized Patients
-- [[remind-robot-mediated-roleplay-antibullying-2026]] — Robot-mediated role-play game for bystander intervention (applied drama)
+- [[adaptive-virtual-patient-psychotherapy-training]] — Adaptive virtuelle Patienten für das Psychotherapie-Training
+- [[ai-enabled-serious-games]] — KI-gestützte Serious Games
+- [[anvil-ai-educational-animations]] — ANVIL: Analogien und Videos für Dozierende
+- [[astra-atco-training-simulator]] — ASTRA: ATCO-Trainingssimulator
+- [[supplynet-visual-exploratory-learning]] — SupplyNet: visuelles exploratorisches Lernen
+- [[medeasy-ai-standardized-patients]] — MedEASY: KI-gestützte standardisierte Patienten
+- [[remind-robot-mediated-roleplay-antibullying-2026]] — Robotergestütztes Rollenspiel zur Intervention als Zeugin (angewandtes Drama)
 - [[residencyrl-clinical-rl-training-2026]]
-- [[genai-scenario-based-healthcare-education-2026]] — Systematic review of GenAI in scenario-based healthcare education (Neto et al. 2026)
-- [[conversational-agents-business-simulation-gaming-2026]] — CAIS-GBL framework for AI conversational agents in business simulation games (Wenzel et al. 2026)
-- [[llm-agents-collaborative-problem-solving-simulation-2026]] — Fine-tuned participant-specific LLM agents reproducing collaborative problem solving dialogues (Fang 2026)
-- [[astra-multi-agent-tutoring-benchmark-2026]] — ASTRA synthetic benchmark for multi-agent tutoring and participation-balanced collaboration
-- [[simulation-assisted-drone-learning-stem-2026]] — Simulation-assisted drone learning with teacher-AI co-designed scaffolds
+- [[genai-scenario-based-healthcare-education-2026]] — Systematischer Review zu GenAI in der szenariobasierten Gesundheitsbildung (Neto et al. 2026)
+- [[conversational-agents-business-simulation-gaming-2026]] — CAIS-GBL-Framework für KI-Konversationsagenten in Wirtschaftssimulationsspielen (Wenzel et al. 2026)
+- [[llm-agents-collaborative-problem-solving-simulation-2026]] — Feinabgestimmte teilnehmendenspezifische LLM-Agenten, die Dialoge kollaborativen Problemlösens reproduzieren (Fang 2026)
+- [[astra-multi-agent-tutoring-benchmark-2026]] — ASTRA-Synthetik-Benchmark für Multi-Agenten-Tutoring und partizipationsbalancierte Kollaboration
+- [[simulation-assisted-drone-learning-stem-2026]] — Simulationsgestütztes Drohnenlernen mit von Lehrkraft und KI mitgestalteten Gerüsten
 - [[an-goel-self-directed-modeling-2026]]
 - [[zhuang-zhang-chatgpt-math-teacher-education-2026]]
-- [[jiang-ai-powered-simulation-nursing-education-2026]] — AI-powered simulation in nursing: mixed methods systematic review (authenticity gap, stepped continuum)
-- [[sophie-clinical-communication-ai-assessment-2026]] — Scalable AI-based clinical communication training and automated assessment
-- [[caee-digital-twins-stem-education-systematic-review-2026]] — Digital twins in STEM education: prototypes all worked, learning gains mostly did not
+- [[jiang-ai-powered-simulation-nursing-education-2026]] — KI-gestützte Simulation in der Pflegebildung: Mixed-Methods-Systematischer-Review (Authentizitätslücke, gestuftes Kontinuum)
+- [[sophie-clinical-communication-ai-assessment-2026]] — Skalierbares KI-basiertes Training klinischer Kommunikation und automatisches Assessment
+- [[caee-digital-twins-stem-education-systematic-review-2026]] — Digitale Zwillinge in der STEM-Bildung: Alle Prototypen funktionierten, Lernzuwächse meist nicht

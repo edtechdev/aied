@@ -1,7 +1,7 @@
 ---
 title: "Bildungsstufen"
 created: "2026-09-20T13:08:39-04:00"
-updated: "2026-10-10T09:04:23-04:00"
+updated: "2026-10-24T23:50:47-04:00"
 type: concept
 foundations: [ai-education, learner-identity]
 pedagogy: [scaffolding, self-regulated-learning, prior-knowledge]
@@ -99,16 +99,16 @@ Ein Muster gilt auf jeder untersuchten Stufe: Die menschliche Schicht absorbiert
 - [[differential-effects-across-learner-groups]]
 
 ## Verbundene Artikel
-- [[adaptive-intelligent-tutoring-primary-mathematics-2026]] — Adaptive versus non-adaptive tutoring in second-grade mathematics (Sibley et al. 2026)
-- [[dai-chatbots-problem-posing-primary-2026]] — GenAI chatbots and problem posing with third-graders in primary science
-- [[chatgpt-music-education-junior-high-2026]] — Junior high students' attitudes toward ChatGPT for lyric learning (Weng & Chiang 2026)
-- [[ai-lms-middle-school-longitudinal]] — AI-integrated LMS designed for middle school, with a proposed longitudinal study
-- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — The generative AI learning penalty in Chinese secondary education (Strömberg et al. 2026)
-- [[llm-reliance-types-undergrad]] — Four types of LLM reliance among undergraduate writers (Hossain 2026)
-- [[ai-assisted-seminar-learning-information-literacy-2026]] — AI-assisted seminar platform with embedded librarian support for engineering students
-- [[ai-mediated-research-agency-formation-2026]] — AI dependence, autonomy and innovation in doctoral and postdoctoral training (Han & Liu 2026)
-- [[data-privacy-ai-african-higher-education-2026]] — Stakeholder views on data privacy in African higher education (Duncan 2026)
-- [[ai-adoption-readiness-ukraine-education-managers-2026]] — Education managers' AI adoption readiness across Ukraine (Kremen et al. 2026)
-- [[ai-ive-pbl-vocational-design-creativity-2026]] — AI-enabled immersive PBL for vocational design students (Jin et al. 2027)
-- [[preschool-teachers-ai-behavioral-intention-2026]] — Preschool teachers' intention to use AI in early childhood settings
-- [[vahedian-children-attitudes-ai-chatbot-2026]] — Children's attitudes toward an age-tailored AI chatbot
+- [[adaptive-intelligent-tutoring-primary-mathematics-2026]] — Adaptives versus nicht-adaptives Tutoring im Mathematikunterricht der zweiten Klasse (Sibley et al. 2026)
+- [[dai-chatbots-problem-posing-primary-2026]] — GenAI-Chatbots und das Stellen von Problemen mit Drittklässlerinnen und Drittklässlern im naturwissenschaftlichen Primarbereich
+- [[chatgpt-music-education-junior-high-2026]] — Einstellungen von Mittelstufenschülerinnen und -schülern zu ChatGPT beim Liedtext-Lernen (Weng & Chiang 2026)
+- [[ai-lms-middle-school-longitudinal]] — KI-integriertes LMS, konzipiert für die Mittelstufe, mit einer vorgeschlagenen Längsschnittstudie
+- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — Der Lernnachteil generativer KI in der chinesischen Sekundarbildung (Strömberg et al. 2026)
+- [[llm-reliance-types-undergrad]] — Vier Typen der LLM-Vertrauensabhängigkeit unter Schreibenden im Grundstudium (Hossain 2026)
+- [[ai-assisted-seminar-learning-information-literacy-2026]] — KI-gestützte Seminarplattform mit eingebetteter Bibliotheksunterstützung für Ingenieurstudierende
+- [[ai-mediated-research-agency-formation-2026]] — KI-Abhängigkeit, Autonomie und Innovation in der Promotions- und Postdoc-Ausbildung (Han & Liu 2026)
+- [[data-privacy-ai-african-higher-education-2026]] — Sichtweisen von Akteuren zum Datenschutz in der afrikanischen Hochschulbildung (Duncan 2026)
+- [[ai-adoption-readiness-ukraine-education-managers-2026]] — Adoptionsreife von Bildungsmanagerinnen und -managern für KI in der gesamten Ukraine (Kremen et al. 2026)
+- [[ai-ive-pbl-vocational-design-creativity-2026]] — KI-gestütztes immersives PBL für Berufsschülerinnen und -schüler im Design (Jin et al. 2027)
+- [[preschool-teachers-ai-behavioral-intention-2026]] — Die Absicht von Kindergärtnerinnen und Kindergärtnern, KI in Einrichtungen der frühen Kindheit zu nutzen
+- [[vahedian-children-attitudes-ai-chatbot-2026]] — Einstellungen von Kindern zu einem altersangepassten KI-Chatbot

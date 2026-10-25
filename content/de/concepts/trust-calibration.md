@@ -1,7 +1,7 @@
 ---
 title: Vertrauenskalibrierung
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-10-10T09:04:24-04:00"
+updated: "2026-10-24T21:55:25-04:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading, human-ai-collaboration]
 pedagogy: [metacognition]
@@ -10,7 +10,7 @@ audience: [learners]
 confidence: high
 connected_faqs: [addressing-common-misconceptions-ai-education, reducing-over-reliance, verify-ai-output, study-with-ai]
 translation_of: concepts/trust-calibration
-source_updated: "2026-10-09T01:55:00-04:00"
+source_updated: "2026-10-24T06:26:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -57,7 +57,11 @@ Höheres Vertrauen kauft kein besseres Urteil: unter 432 Studierenden im Grundst
 
 Kalibrierungsforschung behandelt Vertrauen gewöhnlich als einzelnes Urteil. [[bounded-reliance-ai-writing-feedback-2026|Serpil & Mor (2026)]] zeigen, dass die Bewertung in Dimensionen zerfällt, die nicht gleichermaßen bindend sind. 17 EFL-Studierende im Grundstudium interviewend, nachdem sie ein Semester GROK für Feedback zu ihrem Schreiben genutzt hatten, fanden sie wahrgenommene *Expertise* hoch — Studierende schrieben dem Werkzeug zu, Wortschatz, Grammatik, Struktur und Kohärenz zu verbessern, und lasen seine Erklärungen für vorgeschlagene Überarbeitungen als Beleg für Kompetenz —, während *Vertrauenswürdigkeit*, hauptsächlich darüber, was mit ihren Daten geschah, und *guter Wille*, mit als unpersönlich und teils demotivierend erlebtem Feedback, niedrig blieben. Verlassenheit folgte den schwachen Dimensionen statt der starken: Studierende autorisierten das Werkzeug für breites Sprachfeedback und behielten individualisierte, relationale Anleitung der Lehrenden vor. Die Implikation für Kalibrierung ist, dass das Verbessern der Genauigkeit die Obergrenze der Nutzung nicht bewegt; Datentransparenz und die unterrichtliche Rahmung rund um ein Werkzeug sind selbst Kalibrierungsinterventionen.
 
+Agentenbezogene soziale Wahrnehmungen, nicht Genauigkeit, bildeten die Glaubwürdigkeit von Feedback für [[chatgpt-feedback-credibility-perceived-learning|Pérez-López et al. (2026)]]: wahrgenommene Kompetenz erreichte Glaubwürdigkeit direkt, während wahrgenommene Wärme nur durch menschenähnliche Empathie wirkte (SEM, 230 Studierende).
+
 [[du-yuan-epistemic-dependence-2026|Du und Yuan (2026)]] trennen *produktive Verlassenheit* von *schädlicher Abhängigkeit* mithilfe von sechs diagnostischen Kriterien — Anfechtbarkeit, Wiederherstellbarkeit, Transfer, Nachvollziehbarkeit, verteilte Verantwortung und erkenntnistheoretische Pluralität —, und unterscheiden instrumentelle Hilfe (helfen, Ausgabe zu produzieren) von urteilstragender Hilfe (die Standards liefern, an denen Ausgabe gemessen wird), wobei Letztere der Ort ist, wo Verlassenheit bildungspolitisch folgenreich wird.
+
+- **Lernende können die absichtliche Fehlbarkeit eines Peer-Agenten als Fehlfunktion lesen.** In der Copa-Studie wurde den Studierenden gesagt, der Agent könne sich irren, und sie wurden gebeten, seine Vorschläge zu bewerten. Wenn ein Vorschlag ihr Modell verschlechterte, schlossen mehrere, der Agent habe falsche Informationen geliefert, und wechselten zu Versuch und Irrtum, statt die Argumentation erneut zu prüfen. Ein Design, das erkenntnistheoretische Handlungsfähigkeit schützt, indem es Antworten vorenthält, setzt daher eine Kalibrierungsfertigkeit voraus, die die Studierenden dieser Studie noch nicht hatten, was eine stärkere Einschränkung für Peer-Agenten-Designs als für Tutorierungsagenten darstellt ([[cohn-lc-rag-log-contextualized-retrieval-2025|Cohn et al., 2025]]).
 
 ### Kalibrierung als Designproblem
 
@@ -65,9 +69,15 @@ Fehlkalibrierung rein als Nutzendendefizit zu behandeln — etwas, das dadurch b
 
 Die Designimplikation ist eine zweidimensionale Nutzendentypologie — die *Fähigkeit*, die Ausgabe eines [[conversational-ai|Chatbots]] zu verifizieren, gekreuzt mit der *Motivation*, dies zu tun —, die vorhersagt, welche Nutzenden in welche Richtung fehlkalibrieren werden. Die Autoren paaren sie mit zwei Interventionsfamilien, die zusammen wirken müssen: [[explainable-ai|Interpretierbarkeits]]angebote (Begründungen, Zitate, Unsicherheitssignale), die Bewertung möglich machen, und Engagementmechanismen, die sie tatsächlich geschehen lassen, geschichtet über Reasons Swiss-cheese-Modell in acht prüfbare Propositionen. [[ai-literacy|KI-Kompetenz]] wird als die dauerhafte Schicht unter beiden positioniert, die Nutzende über Typologiezellen hinweg bewegt. Die Neurahmung zählt für die Bildung, weil sie die Verantwortung verschiebt: wenn transparente Zitierungen in der Allgemeinbevölkerung ungeklickt bleiben, dann wird bloßes Aussetzen von Studierenden gegenüber KI-Erklärungen sie nicht kalibrieren — das Angebot muss so gestaltet sein, dass es die Prüfung erzwingt.
 
+Ein dritter Hebel wirkt auf der Interaktionsstruktur selbst: eine einzelne Empfehlung durch eine [[tuo-armada-multi-agent-debate-overreliance-2026|Mehr-Agenten-Debatte, deren aggregierte Position vorenthalten wird (Tuo et al., 2026)]] zu ersetzen, senkte das schädliche Umschalten auf eine falsche KI-Position unter 186 Teilnehmenden von 42–60.5 % auf 5.7–8.2 %. Der Hebel ist schützend statt korrigierend — Teilnehmende, die mit einem falschen Urteil begannen, erholten die richtige Entscheidung nur in 30.6 % und 24.7 % der Versuche, unter dem Zufallswert für eine binäre Wahl.
+
 [[calibrating-trustworthiness-llm-education-2026|Coscia et al. (2026)]] liefern einen Designhebel, der Kalibrierung tatsächlich bewegte: Bewertenden mit-entworfene Trustworthiness-Kriterien zu zeigen, während sie LLM-Antworten verglichen, erhöhte die Inter-Rater-Übereinstimmung von Krippendorff's alpha 0.3987 auf 0.4931, obwohl die gebündelte Übereinstimmung unter 0.67 blieb und zusätzliche Maße Mehraufwand hinzufügten.
 
+Für Kinder mag der Designhebel im Register des Agenten selbst liegen: In einer spielebasierten Erkundungsstudie mit 12 Kindern im Alter von 8–10 Jahren fanden [[children-verification-ai-suggestions-game-2026|Liu et al. (2026)]], dass partnerähnliche Formulierungen sie dazu leiteten, die KI direkt in Frage zu stellen, während werkzeugähnliche Formulierungen sie dazu leiteten, nach Belegen zu suchen. Kinder, die Chatbots *entwerfen*, zeigen das Muster in einem anderen Register: Unter 115 Lernenden im Alter von 8–18 Jahren setzten jüngere Lernende signifikant höhere Zuversicht, und einige bauten absichtlich Bots, die falsche Antworten gaben, aber sie dennoch als vertrauenswürdig einstuften ([[children-design-trustworthy-ai-chatbots-2026|Ozturk et al. (2026)]]).
+
 Mit autonomen Agenten verändert sich der Gegenstand der Kalibrierung. [[agentic-literacy-debt|Nama (2026)]] argumentiert, die nutzende Person werde zu einem Auftraggeber, der Autorität an ein System delegiert habe, dessen Handlungen weitgehend unbeobachtet und unumkehrbar sind, was die Kompetenz vom Beurteilen von Ausgaben hin zum Verstehen dessen verschiebt, was autorisiert wurde, seiner Aufsicht und der Zuschreibung von Verantwortlichkeit, wenn Schaden entsteht.
+
+Provenienz wird als Anforderung erster Klasse behandelt, sobald KI Benotung oder Zertifizierung berührt: Institutionen müssen rekonstruieren, wie folgenreiche Entscheidungen getroffen wurden und wer die Autorität hatte, sie zu bestätigen, was ein Konsortiums-Blockchain-Design als manipulationssichere Aufzeichnungen von Bildungsereignissen, KI-Ausgaben, Benotungsaktionen und Zertifikaten verankert ([[large-language-models-teaching-learning-higher-ed|Li et al. (2026)]]).
 
 ### Verbindungen
 
@@ -108,31 +118,34 @@ Vertrauenskalibrierung ist zentral für [[ai-literacy|KI-Kompetenz]] und sitzt n
 - [[cognitive-surrender]]
 
 ## Verbundene Artikel
-- [[student-perspectives-ai-writing-grading-2026]] — Student perspectives on transparent AI-assisted writing assessment (AlGhamdi 2026)
-- [[du-yuan-epistemic-dependence-2026]] — Six diagnostic criteria separating productive reliance from harmful dependence (Du & Yuan 2026)
-- [[icet-ml-education-trust-2026]] — Addressing Trust in AI Systems through Education: A Didactic Perspective
-- [[pearls-epistemic-verification-2026]] — PEARLS framework for epistemic agency and verifying AI output (Wang 2026)
+- [[children-verification-ai-suggestions-game-2026]] — Verifikationsverhalten von Kindern in spielbasierter Mensch-KI-Zusammenarbeit
+- [[student-perspectives-ai-writing-grading-2026]] — Perspektiven von Studierenden auf transparente KI-gestützte Bewertung schriftlicher Arbeiten (AlGhamdi 2026)
+- [[tuo-armada-multi-agent-debate-overreliance-2026]] — Kalibrierung neu gerahmt: Das Vorenthalten der Position des Systems ist schützend, nicht korrigierend
+- [[du-yuan-epistemic-dependence-2026]] — Sechs diagnostische Kriterien, die produktive Verlassenheit von schädlicher Abhängigkeit trennen (Du & Yuan 2026)
+- [[icet-ml-education-trust-2026]] — Vertrauen in KI-Systeme durch Bildung adressieren: Eine didaktische Perspektive
+- [[pearls-epistemic-verification-2026]] — PEARLS-Framework für erkenntnistheoretische Handlungsfähigkeit und die Verifikation von KI-Ausgabe (Wang 2026)
 - [[fouad-bentley-trust-utility-gap-physics-2026]]
 - [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]]
-- [[agentic-literacy-debt]] — Agentic literacy debt: the structural AI-literacy gap from autonomous agents (Nama 2026)
-- [[trust-reliance-ai-education-2026]] — Trust and Reliance on AI in Education
-- [[calibrating-trustworthiness-llm-education-2026]] — Calibrating Trustworthiness: Co-Designing Metrics for LLMs in Education
-- [[llm-fallacy-misattribution]] — The LLM Fallacy and Misattribution of Competence
-- [[ai-partner-science-epistemic-vigilance]] — Epistemic Vigilance as the Key to Productive Augmentation
+- [[agentic-literacy-debt]] — Agentische KI-Kompetenzschuld: die strukturelle KI-Kompetenzlücke durch autonome Agenten (Nama 2026)
+- [[trust-reliance-ai-education-2026]] — Vertrauen und Verlassenheit auf KI in der Bildung
+- [[calibrating-trustworthiness-llm-education-2026]] — Trustworthiness kalibrieren: Mit-entworfene Metriken für LLMs in der Bildung
+- [[llm-fallacy-misattribution]] — Der LLM-Trugschluss und die Fehlattribution von Kompetenz
+- [[ai-partner-science-epistemic-vigilance]] — Epistemische Wachsamkeit als Schlüssel zur produktiven Erweiterung
 - [[ai-advice-suppresses-ikt-suspension-2026]]
-- [[ai-overreliance-complex-adaptive-system-2026]] — AI overreliance modeled as a complex adaptive system
+- [[ai-overreliance-complex-adaptive-system-2026]] — KI-Überabhängigkeit als komplexes adaptives System modelliert
 - [[xai-teachers-trust-edtech-recommendations-2026]]
-- [[student-reception-genai-analogies-computing-2026]] — Flawed but Memorable: Student Critical Reception of Interest-Personalized GenAI Analogies in Computing Education
-- [[trust-calibration-chatbots-design-problem-2026]] — Trust calibration reframed as a design problem: a two-dimensional user typology and eight design propositions (Jaidka & Cai 2026)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — Prompt injection in AI-mediated grading: a tool that suppressed and contradicted its own warnings (Humble 2026)
-- [[li-explainable-trustworthy-llm-teacher-assessment-2025]] — Trust-gated inference and explainable-by-design assessment, with trust left unmeasured (Li et al. 2025)
-- [[gpt4-handwritten-math-exam-grading-2026]] — confidence filtering of AI grades and its false-positive rate
-- [[bounded-reliance-ai-writing-feedback-2026]] — Bounded Reliance: A Source Credibility Perspective on EFL Students' Engagement with AI-Generated Writing Feedback
-- [[abramson-trust-interaction-design-ai-enabled-systems-review-2026]] — Trust in AI-enabled systems: definitions, measurement and design factors across 33 empirical studies (Abramson et al. 2026)
-- [[hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026]] — From diagnosis to meta-diagnosis: teachers evaluating AI-generated diagnostic inferences (Hoppe et al. 2026)
-- [[ren-metacognitive-awareness-genai-reliance-2026]] — A reflection prompt cuts acceptance of incorrect AI advice (Ren 2026)
-- [[trust-calibration-genai-collaborative-regulation-2026]] — Trust calibration as a mediator in a chain from contextual support to perceived transfer gains (Bu & Li 2026)
-- [[hu-psychological-predictors-continued-chatgpt-use-2026]] — Trust as the pivot from AI literacy to continued use, weakened by AI anxiety (Hu 2026)
-- [[kenzhebayeva-ai-role-rotation-pedagogical-model-2026]] — Role rotation as a structure for critically handling AI recommendations (Kenzhebayeva et al. 2026)
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — Student Use of LLMs and the Limits of AI-Generated Question Difficulty in Data Science Courses
-- [[nazaretsky-trust-instrument-ai-edtech-2025]] — Student-facing instrument validating trust in AI-EdTech as four factors, with trust upstream of perceived usefulness (Nazaretsky et al. 2025)
+- [[student-reception-genai-analogies-computing-2026]] — Fehlerhaft aber einprägsam: Die kritische Rezeption interessenpersonalisierter GenAI-Analogien in der Informatikausbildung durch Studierende
+- [[trust-calibration-chatbots-design-problem-2026]] — Vertrauenskalibrierung als Designproblem neu gerahmt: eine zweidimensionale Nutzendentypologie und acht Design-Propositionen (Jaidka & Cai 2026)
+- [[humble-prompt-injection-ai-grading-red-team-2026]] — Prompt-Injektion in KI-vermittelter Benotung: ein Werkzeug, das seine eigenen Warnungen unterdrückte und ihnen widersprach (Humble 2026)
+- [[li-explainable-trustworthy-llm-teacher-assessment-2025]] — Vertrauen-verschlossene Inferenz und von Natur aus erklärbare Bewertung, wobei Vertrauen ungemessen bleibt (Li et al. 2025)
+- [[gpt4-handwritten-math-exam-grading-2026]] — Konfidenzfilterung von KI-Noten und ihre False-Positive-Rate
+- [[bounded-reliance-ai-writing-feedback-2026]] — Begrenzte Verlassenheit: Eine Perspektive der Quellenglaubwürdigkeit auf das Engagement von EFL-Studierenden mit KI-generiertem Schreibfeedback
+- [[abramson-trust-interaction-design-ai-enabled-systems-review-2026]] — Vertrauen in KI-gestützte Systeme: Definitionen, Messung und Designtaktoren über 33 empirische Studien (Abramson et al. 2026)
+- [[hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026]] — Von der Diagnose zur Meta-Diagnose: Lehrende, die KI-generierte diagnostische Inferenzen bewerten (Hoppe et al. 2026)
+- [[ren-metacognitive-awareness-genai-reliance-2026]] — Ein Reflexions-Prompt senkt die Akzeptanz inkorrekter KI-Ratschläge (Ren 2026)
+- [[trust-calibration-genai-collaborative-regulation-2026]] — Vertrauenskalibrierung als Mediator in einer Kette von kontextueller Unterstützung zu wahrgenommenen Transferzugewinnen (Bu & Li 2026)
+- [[hu-psychological-predictors-continued-chatgpt-use-2026]] — Vertrauen als Drehpunkt von KI-Kompetenz zu fortgesetzter Nutzung, geschwächt durch KI-Angst (Hu 2026)
+- [[kenzhebayeva-ai-role-rotation-pedagogical-model-2026]] — Rollenrotation als Struktur für den kritischen Umgang mit KI-Empfehlungen (Kenzhebayeva et al. 2026)
+- [[student-llm-use-ai-question-difficulty-data-science-2026]] — Nutzung von LLMs durch Studierende und die Grenzen KI-generierter Aufgabenschwierigkeit in Data-Science-Kursen
+- [[nazaretsky-trust-instrument-ai-edtech-2025]] — Studierenden zugewandtes Instrument, das Vertrauen in KI-Bildungstechnologie als vier Faktoren validiert, mit Vertrauen stromaufwärts der wahrgenommenen Nützlichkeit (Nazaretsky et al. 2025)
+- [[children-design-trustworthy-ai-chatbots-2026]] — Wie Kinder vertrauenswürdige KI-Chatbots entwerfen und über sie urteilen

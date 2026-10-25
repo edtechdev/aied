@@ -1,8 +1,8 @@
 ---
-connected_resources: [drawsplat, fpds-apps-and-resources, id-toolbox, idstack]
+connected_resources: [drawsplat, fpds-apps-and-resources, id-toolbox, idstack, teacher-dev]
 title: Barrierefreiheit
 created: "2026-08-23T12:00:00-04:00"
-updated: "2026-10-10T09:04:24-04:00"
+updated: "2026-10-24T22:09:03-04:00"
 connected_faqs: [designing-educational-ai-software, equity-ethics-pedagogical-safety-research, ai-disabled-neurodivergent-learners]
 type: concept
 foundations: [learning-design]
@@ -94,7 +94,7 @@ Ein Video mit korrekten Untertiteln und einem ordnungsgemäß ausgezeichneten Tr
 - [[legal-issues-and-risks]] — die Überblicksseite für übermäßig weite Regeln, mangelhafte Evidenz und angemessene Anpassungen
 - [[arts-design-and-media-education]]
 ## Verbundene Artikel
-- [[chan-ai-institutionalization-index-global-universities-2026]] — Chan (2026): 0% of 100 elite universities publish an AI accessibility policy while 93% deploy AI campus services
+- [[chan-ai-institutionalization-index-global-universities-2026]] — Chan (2026): 0% von 100 Eliteuniversitäten veröffentlichen eine KI-Barrierefreiheitsrichtlinie, während 93% KI-Campusdienste einsetzen
 - [[shin-ai-policies-sld-2026]] — KI-Richtlinien und Nachteilsausgleiche für Studierende mit spezifischen Lernbehinderungen
 - [[zhang-ai-students-disabilities-meta-analysis-2024]] — Meta-Analyse von KI-Interventionen für Studierende mit Behinderungen
 - [[adhd-video-segmentation-computing-education]] — KI-segmentierte Videos mit festen Pausen
@@ -108,5 +108,5 @@ Ein Video mit korrekten Untertiteln und einem ordnungsgemäß ausgezeichneten Tr
 - [[khlaif-assistive-genai-visually-impaired-2026]] — Assistive generative KI für sehbehinderte Lernende
 - [[assistive-tech-neurodivergent-higher-ed-review-2026]] — Generative KI, virtuelle Realität und mehr: ein Scoping Review digitaler assistiver Technologien für neurodivergente Studierende in der Hochschulbildung
 - [[wright-transcription-not-generation-2026]] — Transkription ist nicht Generierung: übermäßig weit gefasste KI-Verbote und die assistiven Werkzeuge, die sie erfassen
-- [[ad4edu-lecture-audio-description-2026]] — AD4EDU: Benchmarking University Lecture Audio Description across Accessibility Standards, Metrics, and Learner Preferences
-- [[airri-machine-resistant-reading-interface-2026]] — AIRRI: Towards a Human-Readable, Machine-Resistant Reading Interface
+- [[ad4edu-lecture-audio-description-2026]] — AD4EDU: Benchmarking von Audiodeskription in Universitätsvorlesungen über Barrierefreiheitsstandards, Metriken und Lernendenpräferenzen hinweg
+- [[airri-machine-resistant-reading-interface-2026]] — AIRRI: Auf dem Weg zu einer menschenlesbaren, maschinenresistenten Leseoberfläche

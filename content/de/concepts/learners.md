@@ -1,7 +1,7 @@
 ---
 title: "Lernende"
 created: "2026-09-18T03:20:00-04:00"
-updated: "2026-10-10T09:04:24-04:00"
+updated: "2026-10-25T00:10:53-04:00"
 type: concept
 foundations: [agency, learner-identity, ai-literacy]
 pedagogy: [self-regulated-learning, motivation, metacognition, student-engagement, help-seeking, prior-knowledge, desirable-difficulties]
@@ -106,22 +106,22 @@ Lesen Sie sie mit [[stakeholders|Akteure]] für die Menschen um die lernende Per
 
 ## Verbundene Artikel
 
-- [[uneven-impact-generative-ai-student-learning-2026]] — Reliance patterns and evaluation literacy split student outcomes
-- [[student-perceptions-ai-study-productivity-2026]] — Learners report efficiency gains alongside dependency concerns
-- [[student-llm-interaction-taxonomy-review-2026]] — A taxonomy of learning-oriented student-LLM interaction
-- [[student-ai-conversations-cognitive-engagement-2026]] — Discipline-specific patterns in student-AI chat
-- [[layer-sensitive-cognitive-offloading-writing-2026]] — Assisted performance gains without independent capability
-- [[genai-performance-vs-learning]] — Why assisted performance and unassisted learning must be measured apart
-- [[shaw-nave-cognitive-surrender-2026]] — Cognitive surrender as a disposition, not an accident
-- [[metacognitively-discordant-completion-genai-2026]] — Learners who notice they do not understand and submit anyway
-- [[verification-quality-reliance-calibration-genai-2026]] — Verification quality and reliance calibration
-- [[simulating-students-llm-review-2026]] — Simulated students: architecture, mechanisms, and limits
-- [[stanbkt-bayesian-knowledge-tracing]] — Parameter estimation in Bayesian knowledge tracing
-- [[demographic-signals-llm-student-assessment-2026]] — Implicit and explicit demographic signals in LLM-based assessment
-- [[ai-literacy-learning-engagement-psych-capital-2026]] — AI literacy, engagement, and psychological capital
-- [[genai-student-experiences-uk-he-survey-2026]] — Students describe the pull of least effort
-- [[mulisa-students-genai-integrity-perspectives-2026]] — Students on whether GenAI is a cheating tool or a learning partner
-- [[munoz-misconduct-allegation-evidence-2026]] — What misconduct allegation files actually contain as evidence
-- [[wright-transcription-not-generation-2026]] — Over-inclusive AI rules and the students they catch
-- [[sharma-judgment-visible-genai-assessment-2026]] — Integrity as evaluative judgment rather than compliance
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] — Remote proctoring's emotional and equity costs for students
+- [[uneven-impact-generative-ai-student-learning-2026]] — Vertrauensmuster und Bewertungskompetenz spalten die Ergebnisse von Lernenden
+- [[student-perceptions-ai-study-productivity-2026]] — Lernende berichten von Effizienzgewinnen neben Sorgen vor Abhängigkeit
+- [[student-llm-interaction-taxonomy-review-2026]] — Eine Taxonomie lernorientierter Interaktion zwischen Studierenden und LLM
+- [[student-ai-conversations-cognitive-engagement-2026]] — Fachspezifische Muster in Gesprächen zwischen Studierenden und KI
+- [[layer-sensitive-cognitive-offloading-writing-2026]] — Zuwächse in der gestützten Leistung ohne unabhängige Fähigkeit
+- [[genai-performance-vs-learning]] — Warum gestützte Leistung und ungestütztes Lernen getrennt gemessen werden müssen
+- [[shaw-nave-cognitive-surrender-2026]] — Kognitive Kapitulation als Disposition, nicht als Unfall
+- [[metacognitively-discordant-completion-genai-2026]] — Lernende, die bemerken, dass sie nicht verstehen, und dennoch einreichen
+- [[verification-quality-reliance-calibration-genai-2026]] — Qualität der Verifikation und Kalibrierung von Vertrauen
+- [[simulating-students-llm-review-2026]] — Simulierte Lernende: Architektur, Mechanismen und Grenzen
+- [[stanbkt-bayesian-knowledge-tracing]] — Parameterschätzung beim Bayesischen Knowledge Tracing
+- [[demographic-signals-llm-student-assessment-2026]] — Implizite und explizite demografische Signale in LLM-basiertem Assessment
+- [[ai-literacy-learning-engagement-psych-capital-2026]] — KI-Kompetenz, Engagement und psychologisches Kapital
+- [[genai-student-experiences-uk-he-survey-2026]] — Studierende beschreiben den Sog des geringsten Aufwands
+- [[mulisa-students-genai-integrity-perspectives-2026]] — Studierende zu der Frage, ob GenAI ein Betrugswerkzeug oder ein Lernpartner ist
+- [[munoz-misconduct-allegation-evidence-2026]] — Was Akten zu Fehlverhaltensanschuldigungen tatsächlich als Beleg enthalten
+- [[wright-transcription-not-generation-2026]] — Überinklusive KI-Regeln und die Lernenden, die sie damit erfassen
+- [[sharma-judgment-visible-genai-assessment-2026]] — Integrität als bewertendes Urteil statt als Compliance
+- [[harerimana-remote-proctoring-nursing-scoping-2026]] — Die emotionalen und gerechtigkeitsbezogenen Kosten von Fernaufsicht für Studierende

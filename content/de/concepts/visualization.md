@@ -5,7 +5,7 @@ type: concept
 technology: [ai-technologies, learning-analytics, multimodal, visualization]
 confidence: medium
 created: "2026-08-29T12:55:12-04:00"
-updated: "2026-10-10T09:04:23-04:00"
+updated: "2026-10-24T23:29:54-04:00"
 translation_of: concepts/visualization
 source_updated: "2026-10-13T09:18:19-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
@@ -74,7 +74,7 @@ Praktische Systeme wenden diese Prinzipien in großem Maßstab an. AISSA kombini
 - [[interactive-learning-dashboards-engagement]] — Lernvisualisierungen als Engagement-Werkzeuge über pädagogische Agenten überdenken
 - [[mllm-scientific-visualization-literacy]] — Benchmarking multimodaler LLMs bei wissenschaftlicher Visualisierungskompetenz
 - [[nuclear-diffusion-text-to-image-learning-2026]] — Domänenadaptierte Text-zu-Bild-Modelle für die Visualisierung nuklearer Konzepte
-- [[data-comics-for-education-evaluating-effectiveness-benefits-ethics]] — Effectiveness, benefits, and ethics of AI-assisted data comics
+- [[data-comics-for-education-evaluating-effectiveness-benefits-ethics]] — Wirksamkeit, Nutzen und Ethik von KI-gestützten Datencomics
 - [[cfes-p24-multimodal-slide-auditing-2026]] — Kontrafaktischer Benchmark für multimodales Folien-Auditing
-- [[mejia-domenzain-ml-findings-teachers-blended-2026]] — Making ML findings accessible to teachers in blended classrooms
-- [[genai-visualization-education-framework-2026]] — Constructing Meaning, Not Just Charts: A Cognitive–Instructional Framework for Generative AI Usage in Visualisation Education
+- [[mejia-domenzain-ml-findings-teachers-blended-2026]] — ML-Befunde für Lehrkräfte in Blended-Classrooms zugänglich machen
+- [[genai-visualization-education-framework-2026]] — Bedeutung konstruieren, nicht nur Diagramme: ein kognitiv-instruktionales Rahmenwerk für den Einsatz Generativer KI in der Bildungsvisualisierung

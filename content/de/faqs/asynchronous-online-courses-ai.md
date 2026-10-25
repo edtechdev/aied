@@ -1,7 +1,7 @@
 ---
 title: "Wie sollten wir asynchrone Onlinekurse gestalten und anleiten, wenn KI die Arbeit erledigen kann?"
 created: "2026-09-17T03:40:00-04:00"
-updated: "2026-10-10T09:50:26-04:00"
+updated: "2026-10-24T23:32:01-04:00"
 connected_faqs: [reducing-over-reliance, course-ai-policy, verify-ai-output, group-work-ai]
 weight: 68
 type: faq
@@ -14,7 +14,7 @@ ethics: [guardrails]
 audience: [instructors, instructional designers]
 level: [higher ed, adult learning]
 translation_of: faqs/asynchronous-online-courses-ai
-source_updated: "2026-10-02T08:21:34-04:00"
+source_updated: "2026-10-21T14:32:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -25,8 +25,6 @@ ai_assist:
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
-
-# Wie sollten wir asynchrone Onlinekurse gestalten und anleiten, wenn KI die Arbeit erledigen kann?
 
 Sie haben die Entdeckung bereits gemacht, die diese Frage erzwingt. Irgendwo in Ihrem asynchronen Kurs ist eine Aufgabe, deren erster Entwurf nun kostenlos ist – ein Diskussionsbeitrag, eine Reflexion, eine Fallanalyse, ein Aufgabensatz –, und die ankommende Arbeit ist flüssig, on-topic und sagt Ihnen nichts darüber, was der Student kann. Sie sind nicht im Raum, um das Denken geschehen zu sehen, und das Artefakt, das dafür einzutreten pflegte, tut es nicht mehr.
 

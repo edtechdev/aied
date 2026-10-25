@@ -1,7 +1,7 @@
 ---
 title: Problembasiertes Lernen
 created: "2026-08-20T06:55:00-04:00"
-updated: "2026-10-10T09:04:24-04:00"
+updated: "2026-10-25T00:25:09-04:00"
 type: concept
 foundations: [critical-thinking]
 pedagogy: [active-learning, collaborative-learning, scaffolding]
@@ -87,21 +87,21 @@ Weil PBL Prozess, Kollaboration und demonstriertes Verstehen gegenüber Artefakt
 
 ## Verbundene Artikel
 
-- [[chen-pbl-pjbl-genai-meta-analysis-2026]] — Problem-based and project-based learning as promising frameworks for generative AI-supported education: Emerging evidence from a systematic review and three-level meta-analysis
+- [[chen-pbl-pjbl-genai-meta-analysis-2026]] — Problembasiertes und projektbasiertes Lernen als vielversprechende Rahmenwerke für generative-KI-gestützte Bildung: neue Evidenz aus einem systematischen Review und einer dreistufigen Metaanalyse
 
-- [[pbl-structural-conditions-ai-2026]] — PBL and the structural conditions for productive AI integration (Rowe 2026)
-- [[educators-engagement-ai-pbl-review-2026]] — Systematic review of educators' engagement with AI in PBL (Amdan et al. 2026)
-- [[genai-simulate-patient-history-pbl-2026]] — GenAI virtual patient for medical PBL tutorials (Mool et al. 2026)
-- [[learn-framework-responsible-genai-pbl-2026]] — The LEARN framework for responsible GenAI in PBL (Uden & Hwang 2026)
-- [[ai-enhanced-pbl-chatgpt-scaffolding-2026]] — ChatGPT as adaptive scaffolding in AI-enhanced PBL (La Sunra et al. 2026)
-- [[pbl-biomedical-engineering-genai-2026]] — PBL in biomedical engineering in the GenAI era (Nnamdi et al. 2026)
-- [[ai-pbl-computational-thinking-2026]] — AI-supported PBL for computational thinking
-- [[genai-counter-learner-groupthink-2025]] — GenAI agent counters groupthink in interprofessional PBL
-- [[dai-chatbots-problem-posing-primary-2026]] — GenAI chatbots and problem posing in primary science
-- [[jiang-chatgpt-inquiry-steam-review-2026]] — ChatGPT for inquiry-based learning in STEAM
-- [[kim-ai-productive-failure-adult-2026]] — Designing AI Systems to Support Productive-Failure-Based Learning
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pedagogical Steering of LLMs for Productive Failure
-- [[rhaimi-productivemath-2025]] — ProductiveMath: AI to Support PF Problem Design
-- [[genai-scenario-based-healthcare-education-2026]] — Systematic review of GenAI in scenario-based healthcare education (Neto et al. 2026)
-- [[chen-osman-preservice-physics-tpack-ctd-pbl-2026]] — AI-supported CTD-PBL module with 130 pre-service physics teachers: TPACK and collaborative problem solving (Chen & Osman 2026)
-- [[facilitator-vs-ai-mediated-pbl-pharmacology-2026]] — Facilitator-Mediated Versus AI-Mediated Problem-Based Learning in Pharmacology Education: A Quasi-Experimental Study Among Second Year Medical Students
+- [[pbl-structural-conditions-ai-2026]] — PBL und die strukturellen Bedingungen für produktive KI-Integration (Rowe 2026)
+- [[educators-engagement-ai-pbl-review-2026]] — Systematischer Review über das Engagement von Lehrenden mit KI in PBL (Amdan et al. 2026)
+- [[genai-simulate-patient-history-pbl-2026]] — GenAI-Virtueller-Patient für medizinische PBL-Tutorien (Mool et al. 2026)
+- [[learn-framework-responsible-genai-pbl-2026]] — Das LEARN-Rahmenwerk für verantwortungsvolle GenAI in PBL (Uden & Hwang 2026)
+- [[ai-enhanced-pbl-chatgpt-scaffolding-2026]] — ChatGPT als adaptives Gerüst in KI-erweitertem PBL (La Sunra et al. 2026)
+- [[pbl-biomedical-engineering-genai-2026]] — PBL in der biomedizinischen Technik im GenAI-Zeitalter (Nnamdi et al. 2026)
+- [[ai-pbl-computational-thinking-2026]] — KI-gestütztes PBL für Computational Thinking
+- [[genai-counter-learner-groupthink-2025]] — GenAI-Agenten gegen Gruppendenken im interprofessionellen PBL
+- [[dai-chatbots-problem-posing-primary-2026]] — GenAI-Chatbots und Problemstellung im naturwissenschaftlichen Primarbereich
+- [[jiang-chatgpt-inquiry-steam-review-2026]] — ChatGPT für fraggeleitetes Lernen in STEAM
+- [[kim-ai-productive-failure-adult-2026]] — KI-Systeme so entwerfen, dass sie produktiv-scheiternsbasiertes Lernen unterstützen
+- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pädagogische Steuerung von LLMs für produktives Scheitern
+- [[rhaimi-productivemath-2025]] — ProductiveMath: KI zur Unterstützung des Entwurfs von PF-Problemen
+- [[genai-scenario-based-healthcare-education-2026]] — Systematischer Review zu GenAI in szenariobasierter Gesundheitsbildung (Neto et al. 2026)
+- [[chen-osman-preservice-physics-tpack-ctd-pbl-2026]] — KI-gestütztes CTD-PBL-Modul mit 130 Physiklehramtsstudierenden: TPACK und kollaboratives Problemlösen (Chen & Osman 2026)
+- [[facilitator-vs-ai-mediated-pbl-pharmacology-2026]] — Facilitator-vermitteltes versus KI-vermitteltes problembasiertes Lernen in der Pharmakologie-Bildung: eine quasi-experimentelle Studie unter Medizinstudierenden im zweiten Jahr

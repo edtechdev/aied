@@ -1,7 +1,7 @@
 ---
 title: Technologieadoptionsmodelle
 created: "2026-08-18T14:55:00-04:00"
-updated: "2026-10-10T09:04:24-04:00"
+updated: "2026-10-24T23:50:47-04:00"
 type: concept
 foundations: [ai-literacy]
 technology: [generative-ai, technology-acceptance-model]
@@ -10,7 +10,7 @@ level: [higher ed]
 confidence: high
 methods: [research-methods-aied]
 translation_of: concepts/technology-acceptance-model
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-23T08:03:41-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -22,7 +22,7 @@ ai_assist:
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
 
-**Technologieadoptionsmodelle** sind die theoretischen Rahmen, die genutzt werden, um zu erklären und vorherzusagen, warum Personen und Institutionen neue [[ai-technologies|Technologien]] akzeptieren, übernehmen und weiterhin nutzen —, und, in der Forschung zu KI in der Bildung, warum Lernende, Lehrkräfte und Organisationen [[generative-ai|generative KI]]-Werkzeuge übernehmen. Statt eines einzelnen Modells ist dies eine Familie von Theorien, die Wurzeln in der Informationssystem- und Sozialpsychologieforschung teilen, von denen das **Technology Acceptance Model (TAM)** das am weitesten angewandte ist. Die Wissensdatenbank behandelt diese Modelle gemeinsam, weil GenAI-Adoptionsstudien sie routinemäßig kombinieren (TAM + UTAUT, TAM + TPB, UTAUT + ARCS) und weil ihre Kernkonstrukte —, wahrgenommener Nutzen, wahrgenommene einfache Nutzung und sozialer Einfluss —, über nahezu jede Studie zu KI-Akzeptanz in der Bildung wiederkehren.
+**Technologieadoptionsmodelle** sind die theoretischen Rahmen, die genutzt werden, um zu erklären und vorherzusagen, warum Personen und Institutionen neue [[ai-technologies|Technologien]] akzeptieren, übernehmen und weiterhin nutzen —, und, in der [[ai-education|KI-Bildung]]-Forschung, warum Lernende, Lehrkräfte und Organisationen [[generative-ai|generative KI]]-Werkzeuge übernehmen. Statt eines einzelnen Modells ist dies eine Familie von Theorien, die Wurzeln in der Informationssystem- und Sozialpsychologieforschung teilen, von denen das **Technology Acceptance Model (TAM)** das am weitesten angewandte ist. Die Wissensdatenbank behandelt diese Modelle gemeinsam, weil GenAI-Adoptionsstudien sie routinemäßig kombinieren (TAM + UTAUT, TAM + TPB, UTAUT + ARCS) und weil ihre Kernkonstrukte —, wahrgenommener Nutzen, wahrgenommene einfache Nutzung und sozialer Einfluss —, über nahezu jede Studie zu KI-Akzeptanz in der Bildung wiederkehren.
 
 ## Fragen zum Nachdenken
 
@@ -88,6 +88,8 @@ TAMs kognitiver Fokus erfasst auch emotionale und relationale Dimensionen der KI
 
 **Risikowahrnehmung als dimensionsspezifische Erweiterung.** Eine Befragung von 814 chinesischen Universitätsstudierenden ([[risk-perception-genai-perceived-benefits-2026|Du, Ning, Shi & Chen (2026)]]) faltet Cognitive Appraisal Theory und Protection Motivation Theory in TAM/UTAUT2, um nicht zu fragen, ob Studierende [[generative-ai|generative KI]] übernehmen, sondern was sie daraus gewinnen. Die Annahme der Modellfamilie, dass Risiko Adoption gleichmäßig unterdrücke, überlebt nicht: Risikowahrnehmung spaltet sich in Informations-, Sicherheits-, technische, [[ethics|ethische]] und rechtliche Dimensionen, die Nutzen in entgegengesetzte Richtungen bewegen. Sicherheitsrisiko —, eine Bedrohung, von der Studierende glauben, sie durch [[privacy|Datenschutzpraxis]] bewältigen zu können —, war *positiv* mit wahrgenommener akademischer Unterstützung und Fertigkeitsentwicklung assoziiert, konsistent mit problemfokussierter Bewältigung, während Informationsrisiko, das Lernende nicht leicht verifizieren können, psychologische und emotionale Unterstützung, Alltags- und Freizeitnutzen über Vermeidung erodierte. Schwellenwertanalysen zeigten zudem Effekte, die jenseits dimensionsspezifischer Cut-Points das Vorzeichen wechseln, und Nutzungserfahrung zählte unabhängig: Studierende mit über einem Jahr GenAI-Nutzung berichteten höheren Nutzen über vier Domänen. Die praktische Implikation für Akzeptanzforschung ist, dass „wahrgenommenes Risiko“ ein zu grobes Konstrukt zum Modellieren ist —, Kontrollierbarkeit, nicht die bloße Gegenwart von Risiko, bestimmt, ob Studierende sich engagieren oder zurückziehen.
 
+Eine jüngere Erweiterung kehrt die übliche Richtung um und platziert fachspezifische motivationale Überzeugungen stromaufwärts der TAM-Wahrnehmungen statt neben ihnen. [[high-school-genai-acceptance-tam-physics-2026|Xue, Xu, Qi & Lu (2026)]] berichten, dass der Nutzwert die wahrgenommene Nützlichkeit mit β = 0.43 vorhersagt und die Erfolgserwartung die wahrgenommene einfache Nutzung mit β = 0.39, während die Kern-TAM-Pfade abgeschwächt, aber signifikant bleiben.
+
 
 Die Verbindung von Risiko zu Nutzung hängt auch am System: Über die 49 TALIS-2024-Systeme, die die Items administrierten, war wahrgenommener KI-Nutzen in allen 49 positiv mit KI-Nutzung assoziiert, während wahrgenommenes Risiko in 40 negativ und in neun positiv assoziiert war ([[teachers-ai-belief-profiles-talis-2024-2026|Fang & Jin (2026)]]).
 
@@ -108,29 +110,30 @@ Die Verbindung von Risiko zu Nutzung hängt auch am System: Über die 49 TALIS-2
 - [[framing-ai-use-for-students]]
 
 ## Verbundene Artikel
-- [[dai-genai-frenemy-teaching-autonomy-2026]] — GenAI as "frenemy": artificial autonomy and risk aversion extend TAM for teachers (Dai et al. 2026)
-- [[akbaba-nursing-ai-experiences-tam-2026]] — Nursing AI experiences; psychosocial extension of TAM
-- [[saihi-ahmed-genai-adoption-personas-higher-ed-2026]] — GenAI adoption personas via clustering
-- [[tian-genai-learning-adoption-pathways-2026]] — Symmetric and asymmetric pathways in GenAI adoption (UTAUT3 + ARCS)
-- [[lee-wu-gender-motivation-genai-achievement-2026]] — Differential GenAI engagement by gender and motivation
-- [[alrahmi-org-drivers-ai-adoption-he-2026]] — TOE + DOI model of organizational AI adoption in higher education
-- [[tam-critical-use-genai-engineering-2026]] — Extended TAM with critical use for engineering/CS students
-- [[socio-cognitive-genai-adoption-engineering-2026]] — Unified socio-cognitive model (TAM + UTAUT) for engineering education
-- [[ai-anxiety-strategic-regulation-writing-2026]] — From AI anxiety to strategic regulation
-- [[genai-reliance-types-scale]] — GenAI reliance types scale
-- [[llm-reliance-types-undergrad]] — LLM reliance types among undergraduates
-- [[acceptance-ai-english-tools-2026]] — Acceptance of AI English tools
-- [[genai-chatgpt-adoption-ethics-students-2026]] — Behavioral and ethical drivers of student ChatGPT adoption
-- [[mathematics-teachers-chatbot-motivation-2026]] — UTAUT and teacher chatbot motivation
-- [[pre-service-science-teachers-ai-perceptions-2026]] — UTAUT + TPB for pre-service science teachers in Ghana
-- [[chen-preservice-teachers-chatgpt-lpa-2026]] — Pre-service teacher ChatGPT acceptance profiles (LPA)
-- [[teo-ai-adoption-tertiary-meta-analysis-2026]] — Meta-analysis of AI adoption factors; critiques TAM/UTAUT
-- [[determinants-chatgpt-use-higher-education-2026]] — ML/SHAP determinants of future ChatGPT use in higher education
-- [[jacome-vasconez-chatgpt-adoption-xai-2026]] — XAI-augmented UTAUT2: habit as strongest predictor, four adoption profiles (Jácome-Vásconez et al. 2026)
+- [[high-school-genai-acceptance-tam-physics-2026]] — Fachspezifische Überzeugungen stromaufwärts der TAM-Wahrnehmungen platziert
+- [[dai-genai-frenemy-teaching-autonomy-2026]] — GenAI als „frenemy“: künstliche Autonomie und Risikoaversion erweitern TAM für Lehrkräfte (Dai et al. 2026)
+- [[akbaba-nursing-ai-experiences-tam-2026]] — Pflege-KI-Erfahrungen; psychosoziale Erweiterung von TAM
+- [[saihi-ahmed-genai-adoption-personas-higher-ed-2026]] — GenAI-Adoptions-Personas über Clustering
+- [[tian-genai-learning-adoption-pathways-2026]] — Symmetrische und asymmetrische Pfade der GenAI-Adoption (UTAUT3 + ARCS)
+- [[lee-wu-gender-motivation-genai-achievement-2026]] — Unterschiedliches GenAI-Engagement nach Geschlecht und Motivation
+- [[alrahmi-org-drivers-ai-adoption-he-2026]] — TOE + DOI-Modell der organisatorischen KI-Adoption in der Hochschulbildung
+- [[tam-critical-use-genai-engineering-2026]] — Erweitertes TAM mit kritischem Gebrauch für Ingenieur- und Informatikstudierende
+- [[socio-cognitive-genai-adoption-engineering-2026]] — Einheitliches soziokognitives Modell (TAM + UTAUT) für die Ingenieurbildung
+- [[ai-anxiety-strategic-regulation-writing-2026]] — Von KI-Angst zu strategischer Regulation
+- [[genai-reliance-types-scale]] — Skala der GenAI-Vertrauensabhängigkeitstypen
+- [[llm-reliance-types-undergrad]] — LLM-Vertrauensabhängigkeitstypen unter Studierenden im Grundstudium
+- [[acceptance-ai-english-tools-2026]] — Akzeptanz von KI-Englisch-Werkzeugen
+- [[genai-chatgpt-adoption-ethics-students-2026]] — Verhaltensbezogene und ethische Treiber der ChatGPT-Adoption durch Studierende
+- [[mathematics-teachers-chatbot-motivation-2026]] — UTAUT und Chatbot-Motivation von Lehrkräften
+- [[pre-service-science-teachers-ai-perceptions-2026]] — UTAUT + TPB für angehende Naturwissenschaftslehrkräfte in Ghana
+- [[chen-preservice-teachers-chatgpt-lpa-2026]] — ChatGPT-Akzeptanzprofile angehender Lehrkräfte (LPA)
+- [[teo-ai-adoption-tertiary-meta-analysis-2026]] — Metaanalyse der KI-Adoptionsfaktoren; kritisiert TAM/UTAUT
+- [[determinants-chatgpt-use-higher-education-2026]] — ML/SHAP-Determinanten der künftigen ChatGPT-Nutzung in der Hochschulbildung
+- [[jacome-vasconez-chatgpt-adoption-xai-2026]] — XAI-erweitertes UTAUT2: Gewohnheit als stärkster Prädiktor, vier Adoptionsprofile (Jácome-Vásconez et al. 2026)
 - [[xai-teachers-trust-edtech-recommendations-2026]]
-- [[age-tiered-ai-literacy-guidebooks-2026]] — Material-level PE/EE/playfulness/intention model for age-tiered AI literacy guidebooks, with documented playfulness-intention construct overlap
-- [[risk-perception-genai-perceived-benefits-2026]] — CAT + PMT folded into TAM/UTAUT2: dimension-specific and non-monotonic risk effects on perceived GenAI benefits (Du, Ning, Shi & Chen 2026)
+- [[age-tiered-ai-literacy-guidebooks-2026]] — Materialebene-PE/EE/Verspieltheit/Absicht-Modell für altersgestufte KI-Kompetenz-Leitfäden, mit dokumentierter Konstruktüberlappung von Verspieltheit und Absicht
+- [[risk-perception-genai-perceived-benefits-2026]] — CAT + PMT in TAM/UTAUT2 gefaltet: dimensionsspezifische und nicht-monotone Risikoeffekte auf wahrgenommene GenAI-Nutzen (Du, Ning, Shi & Chen 2026)
 
-- [[capability-decision-model-teacher-readiness-2026]] — Ordered alternative to bolting TPACK capability onto Theory of Planned Behavior adoption models
-- [[teachers-ai-belief-profiles-talis-2024-2026]] — Person-centered TALIS 2024 profiles of perceived AI utility and risk across 49 systems
-- [[genai-learning-procrastination-planned-behavior-2026]] — TPB extension measuring GenAI-assisted learning procrastination and anxiety's moderation of the intention–delay link
+- [[capability-decision-model-teacher-readiness-2026]] — Geordnete Alternative zum Anschrauben von TPACK-Fähigkeit an Adoptionsmodelle der Theory of Planned Behavior
+- [[teachers-ai-belief-profiles-talis-2024-2026]] — Personenzentrierte TALIS-2024-Profile der wahrgenommenen KI-Nützlichkeit und des Risikos über 49 Systeme hinweg
+- [[genai-learning-procrastination-planned-behavior-2026]] — TPB-Erweiterung, die GenAI-gestützte Lernprokrastination misst und die Moderation des Absicht–Verzögerung-Zusammenhangs durch Angst

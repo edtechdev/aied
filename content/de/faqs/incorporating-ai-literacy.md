@@ -1,14 +1,15 @@
 ---
 title: "Wie soll ich KI-Kompetenz in meinen Kurs einbringen?"
 created: "2026-08-24T09:50:00-04:00"
-updated: "2026-10-10T09:50:26-04:00"
+updated: "2026-10-24T21:28:11-04:00"
 connected_faqs: [verify-ai-output, how-ai-impacts-students, ai-literacy-evidence]
 weight: 86
 foundations: [ai-literacy, cognitive-offloading, learning-design]
 assessment: [assessment]
 level: [higher ed]
+audience: [instructors, instructional designers]
 translation_of: faqs/incorporating-ai-literacy
-source_updated: "2026-10-02T08:21:34-04:00"
+source_updated: "2026-10-21T14:32:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -19,8 +20,6 @@ ai_assist:
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
-
-# Wie soll ich KI-Kompetenz in meinen Kurs einbringen?
 
 Der stärkste Ansatz ist, **[[ai-literacy|KI-Kompetenz]] als Teil disziplinären Lernens** zu behandeln, nicht als eigenständige Lektion über die Nutzung von ChatGPT. Studierende entwickeln brauchbarere KI-Kompetenz, wenn sie wiederholt **KI in authentischen Kursaufgaben nutzen, hinterfragen, verifizieren, kritisieren und Entscheidungen über sie treffen**, statt einfach Prompting-Techniken zu lernen oder eine einmalige Einführung zu besuchen. Wirksamer Unterricht kombiniert praktische Kompetenz mit kritischer Evaluation, ethischem Bewusstsein, [[metacognition]] und Aufmerksamkeit dafür, wann KI *nicht* vertraut oder genutzt werden sollte.
 

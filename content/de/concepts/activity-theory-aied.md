@@ -1,7 +1,7 @@
 ---
 title: Aktivitätstheorie
 created: "2026-08-26T08:20:00-04:00"
-updated: "2026-10-10T09:04:24-04:00"
+updated: "2026-10-24T20:49:56-04:00"
 type: concept
 foundations: [teacher-role]
 pedagogy: [activity-theory-aied, learning-theories, sociocultural-learning]
@@ -90,11 +90,11 @@ Für Gestaltende und Lehrende rät Aktivitätstheorie, über das KI-Werkzeug sel
 
 ## Verbundene Artikel
 
-- [[jiang-genai-activity-theory-disciplines-2026]] — Disciplinary differences in GenAI use and disclosure through an activity theory lens
-- [[genai-runaway-object-math-higher-ed]] — CHAT analysis of GenAI reshaping teaching and research activity systems
-- [[raffaghelli-situated-ai-ethics-2026]] — Situated AI ethics fusing ecological systems theory with CHAT
-- [[activity-theory-teachers-adoption-ai-sem-2026]] — Activity theory as a lens on teachers' adoption of AI (SEM)
-- [[lee-anson-k12-teachers-ai-activity-theory]] — K-12 teachers' perspectives on AI use through activity theory
-- [[ai-disruption-engineering-education-chat-2026]] — Changing student norms in engineering education via CHAT
-- [[activity-theory-teacher-pd-ai-agent-design-2026]] — CHAT-SDT redesign of teacher professional development
-- [[chat-anchored-learning-analytics-ai-literacy-2026]] — CHAT-anchored learning analytics pipeline for AI literacy
+- [[jiang-genai-activity-theory-disciplines-2026]] — Disziplinäre Unterschiede in GenAI-Nutzung und -Offenlegung durch die Linse der Aktivitätstheorie
+- [[genai-runaway-object-math-higher-ed]] — CHAT-Analyse davon, wie GenAI Unterrichts- und Forschungs-Aktivitätssysteme neu formt
+- [[raffaghelli-situated-ai-ethics-2026]] — Situierte KI-Ethik, die ökologische Systemtheorie mit CHAT verschmilzt
+- [[activity-theory-teachers-adoption-ai-sem-2026]] — Aktivitätstheorie als Linse auf die Übernahme von KI durch Lehrkräfte (SEM)
+- [[lee-anson-k12-teachers-ai-activity-theory]] — Perspektiven von Lehrkräften der K-12-Stufe auf KI-Nutzung durch Aktivitätstheorie
+- [[ai-disruption-engineering-education-chat-2026]] — Wandel der Normen von Lernenden in der Ingenieurbildung über CHAT
+- [[activity-theory-teacher-pd-ai-agent-design-2026]] — CHAT-SDT-Neugestaltung der Professionalisierung von Lehrkräften
+- [[chat-anchored-learning-analytics-ai-literacy-2026]] — CHAT-verankerte Learning-Analytics-Pipeline für KI-Kompetenz

@@ -1,13 +1,13 @@
 ---
 title: Kognitionspsychologie
 created: "2026-08-27T10:52:12-04:00"
-updated: "2026-10-10T09:04:22-04:00"
+updated: "2026-10-24T21:19:23-04:00"
 type: concept
 pedagogy: [cognitive-psychology, learning-theories, metacognition]
 technology: [generative-ai, intelligent-tutoring, knowledge-tracing]
 confidence: high
 translation_of: concepts/cognitive-psychology
-source_updated: "2026-09-26T01:51:49-04:00"
+source_updated: "2026-10-16T20:19:49-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -34,6 +34,8 @@ ai_assist:
 
 Kognitionspsychologie ist die Lerntheorietradition, die Lernen als Veränderung interner mentaler Repräsentationen behandelt — Konzepte, Schemata und Prozeduren im Gedächtnis — statt als Veränderung beobachtbaren Verhaltens. Ihr Vokabular der Informationsverarbeitung (Aufmerksamkeit, Enkodierung, Abruf, begrenztes Arbeitsgedächtnis) lieferte sowohl die diagnostische Sprache für Lernschwierigkeiten als auch die Architektur hinter [[intelligent-tutoring]] und [[knowledge-tracing]]: Systemen, die den internen Zustand einer lernenden Person erschließen und sich anpassen. Sie bleibt der Bezugsrahmen für [[metacognition|Metakognition]], [[desirable-difficulties|wünschenswerte Schwierigkeiten]] und [[self-regulated-learning|selbstreguliertes Lernen]] in dieser Wissensbasis.
 
+[[seeing-cognitive-representations-eeg-reconstruction|Su et al. (2026)]] rekonstruierten Bilder aus dem EEG von Lernenden während Wissenschaftsvideos und fanden, dass die Treue der Repräsentation der Testerfolg folgte (Regressionskoeffizient 0,8481, R² = 0,79) — direkter Beleg dafür, dass ein Maß interner Repräsentation die Enkodierung indizieren kann
+
 ## Kernideen
 
 - **Lernen ist eine Veränderung interner mentaler Repräsentationen.** Kognitivismus vertritt, dass Lernen den Erwerb, die Speicherung und die Reorganisation von Wissen im Gedächtnis umfasst — Konzepte, Schemata und Prozeduren — statt nur eine Veränderung der beobachtbaren Reaktion. Was eine lernende Person *weiß und abrufen kann*, zählt, nicht nur, was sie tut.
@@ -51,6 +53,8 @@ Kognitivismus ist wohl die Theorie, die am meisten dafür verantwortlich ist, da
 ### Kognitive Last und die Gestaltung von Instruktion
 
 Die Cognitive Load Theory (CLT) ist das am weitesten angewandte kognitivistische Rahmenwerk im [[learning-design|Instruktionsdesign]]: Sie unterscheidet intrinsische Last (Aufgabenkomplexität), extrinsische Last (Darstellungsreibung) und germane Last (schemabildende Anstrengung). Gut gestaltete KI sollte extrinsische Last reduzieren und germane Verarbeitung bewahren; schlecht integrierte KI reduziert alle drei und lässt vollendete Aufgaben mit leerem Lernen zurück. Die Arbeitsgedächtnisrahmung der CLT ist auch zentral für die Debatten über [[cognitive-offloading|kognitive Auslagerung]] — ob KI schädliche extrinsische Last reduziert oder die germane Verarbeitung kurzschließt, die Lernen erzeugt.
+
+Last folgte darauf, wie Anstrengung organisiert war, nicht darauf, wie viel aufgewendet wurde: Unter 67 Lehramtsstudierenden, die mit GenAI Unterrichtspläne entwarfen, unterschied sich die qualitätvollere Gruppe nicht im berichteten Aufwand (2,85 vs. 3,26), berichtete aber eine geringere mentale Anforderung (3,09 vs. 4,03) und weniger Frustration (2,12 vs. 3,82) ([[fang-human-ai-collaboration-patterns-instructional-design-2026|Fang et al. (2026)]]).
 
 Mayers Cognitive Theory of Multimedia Learning (CTML) wendet dieselben Arbeitsgedächtnisannahmen auf die Materialien selbst an, und ihre Empfehlungen sind ungewöhnlich konkret: Lernende profitieren stärker von Wörtern und Bildern zusammen als von Wörtern allein, wenn irrelevantes Material ausgeschlossen wird, wenn eine Lektion segmentiert und im Tempo der Nutzenden dargeboten wird statt als eine durchgehende Einheit, wenn korrespondierende Wörter und Bilder nahe beieinander und gleichzeitig erscheinen, und wenn Erzählung konversationell und in einer freundlichen menschlichen Stimme erfolgt statt förmlich oder maschinell erzeugt.
 
@@ -101,3 +105,4 @@ Mayers Cognitive Theory of Multimedia Learning (CTML) wendet dieselben Arbeitsge
 - [[nie-personavlm-long-term-personalization-2026]] — LLM-Lernendenmodellierung und Gedächtnis
 - [[ai-cognitive-partner-co-regulation-learning]] — KI als kognitiver Partner im ko-regulierten Lernen
 - [[ensemble-cognition-philosophy-ai-education]] — Ensemble Cognition: Denken als Mensch-KI-Interaktion
+- [[fang-human-ai-collaboration-patterns-instructional-design-2026]] — Die Organisation der Anstrengung, nicht ihre Menge, war mit Last und Frustration verknüpft

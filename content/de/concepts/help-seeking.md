@@ -1,7 +1,7 @@
 ---
 title: Hilfesuche
 created: "2026-08-06T10:20:04-04:00"
-updated: "2026-10-10T09:04:25-04:00"
+updated: "2026-10-24T20:27:31-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [help-seeking, metacognition, scaffolding, self-regulated-learning]
@@ -11,7 +11,7 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/help-seeking
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-24T08:52:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -86,9 +86,13 @@ Statt Hilfe zu entfernen, empfiehlt Forschung, neu zu konstruieren, wie sie geli
 
 - **Verzögerte Hinweisverfügbarkeit** — minimale Engagementzeit oder Lösungsversuche verlangen, bevor Hinweise (besonders Bottom-out-Hinweise) zugänglich sind.([[lak2026-hint-button-unproductive-use]])
 - **Von *ob* zu *wie* verschieben** — die zentrale Designfrage ist, wie man Hinweislieferung an Prinzipien produktiven Kämpfens ausrichtet, nicht ob man überhaupt Hinweise gibt.([[lak2026-hint-button-unproductive-use]])
+- **Nachrichtenlänge ist der Hebel, den die Lieferungsforschung tatsächlich gemessen hat.** In einem laufenden Programmierkurs sagten längere LLM-Hinweise niedrigere Korrektheit der nächsten Einreichung, mehr verbleibende Versuche und langsamere erneute Einreichung vorher, pro Standardabweichung von 204,9 Zeichen über 14.809 Studierenden-Aufgaben-Paare hinweg ([[mihaylova-llm-feedback-live-programming-course-2026|Mihaylova et al., 2026]]). Lesbarkeit bewegte kaum ein Ergebnis, also zählte Volumen mehr als Schwierigkeit.
+- **Vorherige Hinweise zum selben Kursabschnitt gingen mit geringerem Erfolg beim integrativen Schritt einher.** Studierende, die Feedback zu früheren Schritten eines Projekts erhielten, lösten ihren abschließenden Schritt in 95,6% der Fälle gegenüber 98,1% für jene ohne, einem Log-Odds-Koeffizienten von −1,096 ([[mihaylova-llm-feedback-live-programming-course-2026|Mihaylova et al., 2026]]). Die Autoren lesen das nicht als Schaden, da die Studierenden, die Hinweise suchen, womöglich jene sind, die dort ohnehin kämpfen würden — die [[self-regulated-learning|Überwachungs]]frage, die diese Seite aufwirft.
 ### Das Annahmeproblem in LLM-Tutoren
 
 Reale Studierende **umgehen häufig das [[scaffolding|Scaffolding]]** eines [[conversational-ai|Chatbots]] — nicht notwendigerweise schädlich, aber oft, weil es ein Missverhältnis zwischen der pädagogischen Rahmung des Chatbots und den eigenen Lernzielen der Studierenden gibt. Evaluationspipelines müssen daher messen, nicht nur ob ein Tutor scaffoldet, sondern ob Studierende dieses Scaffolding *annehmen*, statt es anzunehmen.([[rethinking-scaffolding-llm-tutors]])
+
+- **Ein optionaler Hilfe-Knopf bleibt unangeklickt.** In drei Klassenzimmern der 5. Jahrgangsstufe riefen Lernende einen Helfer-Agenten nur selten auf, den das Design absichtsvoll optional gelassen hatte, um Handlungsfähigkeit zu schützen, und riefen stattdessen eine Lehrkraft, während die Verwirrung, für die er gebaut war, fortbestand ([[humburg-scistory-ai-supported-inquiry-science-learning-games-2025|Humburg et al., 2025]]).
 
 ## Hilfesuche und selbstreguliertes Lernen
 
@@ -134,21 +138,23 @@ In vollständig online stattfindender [[english-education|Komposition]] ist die 
 - [[student-support-and-success]] — institutionelle Ansprache und Unterstützungszuteilung, jenseits der Hilfesuche im Kurs
 
 ## Verbundene Artikel
-- [[penquiry-pen-based-llm-qa-2026]] — Penquiry: A Pen-based Interactive In-situ Q&A System Leveraging LLMs
+- [[mihaylova-llm-feedback-live-programming-course-2026]] — Hinweislänge gemessen gegen Korrektheit, Versuche und Zeit der nächsten Einreichung, in einem laufenden Programmierkurs
+- [[humburg-scistory-ai-supported-inquiry-science-learning-games-2025]] — Ein Helfer-Agent, den niemand anrief (Humburg et al. 2025)
+- [[penquiry-pen-based-llm-qa-2026]] — Penquiry: ein stiftbasiertes interaktives kontextuelles Frage-Antwort-System auf Basis von LLMs
 - [[tutortrace-learner-behavioral-states-2026]]
-- [[viberg-efficiency-effectiveness-srl-llm-help-seeking-2026]] — LLM-mediated help-seeking in STEM: layered, instrumental, and verified
-- [[one-click-away-khanmigo-two-year-school-experiment-2026]] — One Click Away: Khanmigo in a two-year school experiment
-- [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — Virtual tutoring with CAL: an experiment in take-up and learning
-- [[studychat-student-dialogues-chatgpt-ai-course-2026]] — The StudyChat dataset of student–LLM dialogues in an AI course
-- [[lak2026-hint-button-unproductive-use]] — Premature hint requests and superficial hint reading predict lower learning gains in an ITS
-- [[ai-fallibility-warning-help-seeking]] — Warning about AI fallibility increases help-seeking in a math tutoring system
-- [[regulating-ai-tutor-adolescent-srl]] — The intention-behavior gap in adolescent GenAI help-seeking and self-regulated learning
-- [[guided-llm-scaffolding-independent-learning]] — Guided LLM scaffolding improves reasoning-focused help-seeking and independent learning
-- [[rethinking-scaffolding-llm-tutors]] — The scaffolding/student-uptake mismatch in real-world LLM tutor deployments
-- [[uneven-impact-generative-ai-student-learning-2026]] — Early reliance: consulting GenAI before independent thought, search, or an instructor predicts both benefit and harm (Manikonda et al. 2026)
-- [[reed-resource-literacy-genai-composition-2026]] — Resource literacy in online composition: the bottleneck is recognizing when help is needed (Reed 2026)
-- [[course-specific-rag-help-seeking-higher-ed-2026]] — Reducing Barriers to Academic Support: Evaluating a Course-Specific RAG System for Addressing Help-Seeking Disparities in Higher Education
-- [[adaptive-scaffolding-contingency-comet-tutor-2026]] — Adaptive Scaffolding Needs Contingency: An AI Tutor That Escalates and Fades on What the Learner Does
-- [[helpcoach-ai-help-seeking-scaffolding-2026]] — HelpCoach: Scaffolding Targeted AI Help-Seeking During Problem-Solving
-- [[guided-ai-tutor-impasse-resolution-2026]] — Examining Variation in How Guided AI Tutors Resolve Student Impasses
-- [[student-query-demand-hybrid-ai-support-2026]] — What Students Actually Ask: Demand Structure and Automation Potential in a Hybrid Support System
+- [[viberg-efficiency-effectiveness-srl-llm-help-seeking-2026]] — LLM-vermitteltes Hilfesuchen in MINT: geschichtet, instrumental und verifiziert
+- [[one-click-away-khanmigo-two-year-school-experiment-2026]] — One Click Away: Khanmigo in einem zweijährigen Schulexperiment
+- [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — Virtuelles Tutoring mit CAL: ein Experiment zu Aufnahme und Lernen
+- [[studychat-student-dialogues-chatgpt-ai-course-2026]] — Der StudyChat-Datensatz von Studierenden–LLM-Dialogen in einem KI-Kurs
+- [[lak2026-hint-button-unproductive-use]] — Vorzeitige Hinweisanfragen und oberflächliches Hinweislesen sagen niedrigere Lernzuwächse in einem ITS vorher
+- [[ai-fallibility-warning-help-seeking]] — Eine Warnung vor der Fehlbarkeit von KI erhöht die Hilfesuche in einem Mathematik-Tutoringystem
+- [[regulating-ai-tutor-adolescent-srl]] — Die Lücke zwischen Absicht und Verhalten bei der Hilfesuche Jugendlicher mit GenAI und selbstreguliertem Lernen
+- [[guided-llm-scaffolding-independent-learning]] — Geführtes LLM-Scaffolding verbessert rationalegeleitete Hilfesuche und selbstständiges Lernen
+- [[rethinking-scaffolding-llm-tutors]] — Die Diskrepanz zwischen Scaffolding und Aufnahme durch Studierende in LLM-Tutor-Einsätzen in der Praxis
+- [[uneven-impact-generative-ai-student-learning-2026]] — Frühe Verlassenheit: GenAI vor eigenständigem Denken, Suche oder einer Lehrkraft zu konsultieren sagt Nutzen und Schaden vorher (Manikonda et al. 2026)
+- [[reed-resource-literacy-genai-composition-2026]] — Ressourcenkompetenz im Online-Schreiben: der Engpass ist zu erkennen, wann Hilfe nötig ist (Reed 2026)
+- [[course-specific-rag-help-seeking-higher-ed-2026]] — Barrieren akademischer Unterstützung abbauen: Bewertung eines kursspezifischen RAG-Systems zur Behebung von Ungleichheiten bei der Hilfesuche in der Hochschulbildung
+- [[adaptive-scaffolding-contingency-comet-tutor-2026]] — Adaptives Scaffolding braucht Kontingenz: ein KI-Tutor, der eskaliert und ausblendet, je nachdem, was die lernende Person tut
+- [[helpcoach-ai-help-seeking-scaffolding-2026]] — HelpCoach: Scaffolding zielgerichteter KI-Hilfesuche während der Problemlösen
+- [[guided-ai-tutor-impasse-resolution-2026]] — Variationen dabei, wie geführte KI-Tutoren Impässe von Lernenden auflösen
+- [[student-query-demand-hybrid-ai-support-2026]] — Was Studierende tatsächlich fragen: Nachfragestruktur und Automatisierungspotenzial in einem hybriden Unterstützungssystem

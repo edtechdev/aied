@@ -1,7 +1,7 @@
 ---
 title: Lebenslanges Lernen
 created: "2026-05-09T10:44:35-04:00"
-updated: "2026-10-10T09:04:22-04:00"
+updated: "2026-10-24T19:40:06-04:00"
 type: concept
 pedagogy: [lifelong-learning, professional-training, scaffolding]
 technology: [adaptive-learning, generative-ai, intelligent-tutoring, llm, personalized-learning]
@@ -65,11 +65,11 @@ Lebenslanges Lernen verbindet sich mit [[adult-learning|Erwachsenenbildung]] und
 
 ## Verbundene Artikel
 
-- [[ai-adult-learning-guidelines-dis2026]] — Guidelines for designing AI technologies to support adult learning
-- [[ai-guided-learning-audiovideo-2026]] — AI-guided learning for skill acquisition
-- [[learnity-graphs-lifelong-learning-framework-2026]] — Rethinking higher education with Learnity graphs
-- [[andragogy-cognitive-delegation-genai-2026]] — Andragogy and cognitive delegation in AI-mediated learning
-- [[ai-lifelong-learning-policy]] — AI in lifelong learning: opportunities and challenges in adult-education policy
-- [[community-centered-ai-education-adults]] — Co-designing community-centered AI education for adults
-- [[cognitive-commons-ai-expertise-regeneration]] — The tragedy of the cognitive commons: AI and expertise regeneration
+- [[ai-adult-learning-guidelines-dis2026]] — Leitfäden für das Design von KI-Technologien zur Unterstützung des Lernens Erwachsener
+- [[ai-guided-learning-audiovideo-2026]] — KI-gesteuertes Lernen für den Fähigkeitserwerb
+- [[learnity-graphs-lifelong-learning-framework-2026]] — Hochschulbildung mit Learnity-Graphen neu denken
+- [[andragogy-cognitive-delegation-genai-2026]] — Andragogik und kognitive Delegation im KI-vermittelten Lernen
+- [[ai-lifelong-learning-policy]] — KI im lebenslangen Lernen: Chancen und Herausforderungen in der Erwachsenenbildungspolitik
+- [[community-centered-ai-education-adults]] — Mitgestaltung von gemeinschaftsorientierter KI-Bildung für Erwachsene
+- [[cognitive-commons-ai-expertise-regeneration]] — Die Tragödie des kognitiven Gemeinguts: KI und Regeneration von Expertise
 

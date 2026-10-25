@@ -1,13 +1,13 @@
 ---
 title: Netzwerkanalyse
 created: "2026-08-22T01:40:00-04:00"
-updated: "2026-10-10T09:04:27-04:00"
+updated: "2026-10-24T23:14:18-04:00"
 type: concept
 technology: [knowledge-graph, learning-analytics]
 confidence: high
 methods: [network-analysis, research-methods-aied]
 translation_of: concepts/network-analysis
-source_updated: "2026-10-04T10:50:04-04:00"
+source_updated: "2026-10-16T08:47:09-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -36,6 +36,7 @@ Methoden der Netzwerkanalyse teilen eine Kernprämisse: dass die Struktur von Ve
 ## In der Wissensbasis verwendete Varianten
 
 - **Epistemic Network Analysis (ENA)** — die häufigste Variante in der Wissensbasis (diskutiert in ~24 Artikeln). ENA modelliert die Ko-Okkurrenz von Codes oder Konstrukten innerhalb von Segmenten von Diskurs oder Aktivität und produziert Netzwerke, die zeigen, welche Ideen, Fähigkeiten oder epistemischen Handlungen in einem gegebenen Kontext tendenziell verbunden sind. Sie wird genutzt, um zu vergleichen, wie verschiedene Gruppen (z. B. Lernende mit hoher gegenüber niedriger Kompetenz, menschliche gegenüber KI-Kollaborateurinnen und -Kollaborateuren) ihre Kognition strukturieren. ([[tracing-genai-literacy-interaction-patterns]]) ([[hao-human-ai-collaborative-problem-solving-cognition]])
+- **ENA kartiert auch die Kompetenzsprache von [[teacher-role|Lehrenden]].** Die Anwendung der Epistemic Network Analysis auf Interviews mit 24 Lehrenden der Hochschulbildung in Aotearoa Neuseeland modellierte die Verbindungen zwischen sieben HACC-Dimensionen und fand, dass sich die Netzwerke von Leitungskräften auf der ersten Achse signifikant von denen erfahrener Lehrender (U = 10,00, p = .04) und frühberuflicher Lehrender (U = 7,00, p = .01) unterschieden ([[dang-human-ai-collaboration-competency-2026|Dang et al. (2026)]]).
 - **Social Network Analysis (SNA)** — modelliert Beziehungen zwischen Personen (Lernenden, Lehrkräften, Agenten), um Kollaborationsstrukturen, Einfluss, Zentralität und Gemeinschaft zu offenbaren. Nützlich zum Studium [[collaborative-learning|kollaborativen]] Lernens und Peer-Lernens. ([[misiejuk-cognitive-offloading-prompting-2026]])
 - **Transition Network Analysis (TNA)** — modelliert zeitliche Sequenzen diskreter Zustände (z. B. Lernendenhandlungen in einer Tutoringsitzung) als gerichtetes Netzwerk und quantifiziert die Wahrscheinlichkeit des Wechsels zwischen Zuständen. TNA wird genutzt, um Verhaltensschleifen, -pfade und Aufnahmedynamiken in der Lernenden-KI-Interaktion zu offenbaren. ([[penny-transition-network-analysis-efl-writing-2026]])
 
@@ -90,12 +91,13 @@ Netzwerkmethoden werden über die Evidenzbasis der Wissensbasis hinweg genutzt, 
 
 ## Verbundene Artikel
 
-- [[caeai-response-length-ai-ethics-education-2026]] — Response length, not lexical alignment, drives shared-term statistics in participant–morpheme networks (Shao et al. 2026)
+- [[caeai-response-length-ai-ethics-education-2026]] — Antwortlänge, nicht lexikalische Abgleichung, treibt die Statistiken geteilter Begriffe in Teilnehmende–Morphem-Netzwerken (Shao et al. 2026)
 
-- [[penny-transition-network-analysis-efl-writing-2026]] — TNA of learner-chatbot interactions in scaffolded EFL writing
-- [[tracing-genai-literacy-interaction-patterns]] — ENA of GenAI literacy interaction patterns
-- [[hao-human-ai-collaborative-problem-solving-cognition]] — ENA of human-AI collaborative problem solving
-- [[misiejuk-cognitive-offloading-prompting-2026]] — Cognitive offloading and prompting (SNA/network methods)
-- [[youtube-frames-chatgpt-education]] — ENA of YouTube frames of ChatGPT in education
-- [[agency-gap-ai-writing]] — The agency gap in AI-supported writing (ENA)
-- [[synthetic-educational-data-structural-fidelity-2026]] — What Fidelity Metrics Miss: A Structural Check on Synthetic Educational Data
+- [[penny-transition-network-analysis-efl-writing-2026]] — TNA der Lernenden-Chatbot-Interaktionen im gescaffoldeten EFL-Schreiben
+- [[tracing-genai-literacy-interaction-patterns]] — ENA der Interaktionsmuster der GenAI-Kompetenz
+- [[hao-human-ai-collaborative-problem-solving-cognition]] — ENA der mensch-KI-kollaborativen Problemlösung
+- [[misiejuk-cognitive-offloading-prompting-2026]] — Kognitive Entlastung und Prompting (SNA-/Netzwerkmethoden)
+- [[youtube-frames-chatgpt-education]] — ENA von YouTube-Frames zu ChatGPT in der Bildung
+- [[agency-gap-ai-writing]] — Die Handlungsfähigkeitslücke im KI-unterstützten Schreiben (ENA)
+- [[synthetic-educational-data-structural-fidelity-2026]] — Was Treue-Metriken übersehen: eine strukturelle Prüfung synthetischer Bildungsdaten
+- [[dang-human-ai-collaboration-competency-2026]] — ENA kartiert auch die Kompetenzsprache der Lehrenden

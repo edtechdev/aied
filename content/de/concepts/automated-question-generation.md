@@ -2,7 +2,7 @@
 connected_resources: [teacherserver]
 title: Automatische Aufgabengenerierung
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-10-10T09:04:24-04:00"
+updated: "2026-10-24T20:49:56-04:00"
 type: concept
 technology: [adaptive-learning, educational-nlp, generative-ai, llm, personalized-learning]
 assessment: [assessment, automated-assessment, automated-question-generation, educational-measurement, formative-assessment]
@@ -58,7 +58,7 @@ Die zentrale Herausforderung in AQG ist **Qualitätskontrolle**:
 - **Schwierigkeitskalibrierung:** Generierte Aufgaben müssen auf angemessene Schwierigkeit kalibriert werden. [[llm-difficulty-calibration-programming-exams-2026|Schwierigkeitskalibrierungsforschung]] zeigt, dass KI-Schwierigkeitsschätzungen stark mit der Studierendenleistung korrelieren (z. B. rho ≈ −0.87), was bessere Aufgabenauswahl ermöglicht —, während sie vor [[ai-misuse-learning-harm|Missbrauch]] bei hochrelevanten Prüfungen warnt. [[razavi-powers-item-difficulty-llm-2026|Razavi and Powers (2026)]] erweitern dies auf K-5-Mathematik- und Leseaufgaben (N = 5170), kalibriert unter dem Rasch-IRT-Modell: GPT-4os Zero-Shot-Schwierigkeitsbewertungen korrelierten mäßig bis stark mit den wahren Schwierigkeiten (r = 0.83 Mathematik, r = 0.81 Lesen), variierten aber nach Jahrgangsstufe, während ein merkmalsbasierter Ansatz — von LLMs extrahierte kognitive und sprachliche Merkmale, in baumbasierte Modelle eingespeist — Korrelationen bis r = 0.87 erreichte. Die strukturierte Merkmalsextraktion der Studie (z. B. Syntaxkomplexität, [[cognitive-offloading|kognitive Last]], Distraktoren-Tücke) und ihr praktischer siebenstufiger Workflow bieten eine Vorlage zur Kalibrierung generierter Aufgaben, während ihre Restriktionsbefunde für frühe Jahrgangsstufen und Generalisierbarkeits-Vorbehalte vor hochrelevantem Einsatz warnen.
 - **Generierte Schwierigkeitsmarkierungen können ein Konstruktvaliditäts-Versagen sein, kein Kalibrierungsfehler.** Über 378 generierte Aufgaben folgten die Easy/Medium/Hard-Markierungen des Modells der mit ihnen mitgenerierten Bloom-Stufe (ρ=0.90) und der Oberflächenform — mittlere Stammlänge steigend von 15.9 über 22.1 auf 30.2 Wörter —, korrelierten aber mit der empirischen Aufgabenschwierigkeit nur bei ρ=0.06 über 7.888 Antworten von 54 Studierenden, das Argument, generierte Metadaten gegen Antwortdaten zu kalibrieren statt mitgenerierten Markierungen zu vertrauen ([[student-llm-use-ai-question-difficulty-data-science-2026|An & Wang (2026)]]).
 - **Großskalige psychometrische Feldvalidierung:** [[assessing-quality-ai-generated-exams-field-2025|Assessing AI-Generated Exams]] validiert eine iterativ verfeinernde AQG-Pipeline (generate→judge→revise, im Self-Refine-Stil) in 91 echten Hochschulkursen (~1.686 Studierende). Bayesianische hierarchische 2PL-[[item-response-theory|IRT]]-Analyse zeigt, dass KI-generierte Aufgaben mit von Expertinnen und Experten geschriebenen standardisierten Prüfungsaufgaben mithalten — etwas leichter (β̄ = −0.45 gegenüber 0.35), aber etwas trennschärfer (ᾱ = 1.3 gegenüber 1.2), mit höherer Spitzen-Testinformation (Reliabilität 0.79 gegenüber 0.72) —, was zeigt, dass AQG kurszugeschnittene, psychometrisch fundierte Prüfungen in großem Maßstab produzieren kann.
-- Durchschnittliche psychometrische Parität kann Aufgabenniveau-Defizite maskieren: Ein Scoping-Review von 153 Berichten aus der medizinischen Bildung fand, dass KI-Aufgabengenerierung manchmal mit menschlicher Schwierigkeit und Trennschärfe übereinstimmte, doch in einem Physiologie-Vergleich erfüllten nur 9 von 40 ChatGPT-Aufgaben alle idealen Kriterien gegenüber 19 von 40 Fakultätsaufgaben ([[genai-medical-education-transformation-review-2026|Zhao et al. (2026)]]).
+- Durchschnittliche psychometrische Parität kann Defizite auf Aufgabenniveau maskieren: Ein Scoping-Review von 153 Berichten aus der medizinischen Bildung fand, dass KI-Aufgabengenerierung manchmal mit menschlicher Schwierigkeit und Trennschärfe übereinstimmte, doch in einem Physiologie-Vergleich erfüllten nur 9 von 40 ChatGPT-Aufgaben alle idealen Kriterien gegenüber 19 von 40 Fakultätsaufgaben ([[genai-medical-education-transformation-review-2026|Zhao et al. (2026)]]).
 - **Erkennbarkeit in einer echten Prüfung, und was Prüfung tatsächlich entfernt:** [[vogt-ai-mcq-recognition-medical-assessment-2026|Vogt et al. (2026)]] setzten 30 KI-generierte und 30 MCQ der nationalen Lizenzprüfung in eine bewertete tabletbasierte Prüfung, die 119 [[medical-education|Medizinstudierende]] im fünften Jahr ablegten, wobei die KI-Aufgaben aus den eigenen Kursmaterialien von ChatGPT-4o und Gemini 1.5 Pro über ein Expertenpanel entworfen wurden, das 82% von ihnen akzeptierte und 18.2% als unbrauchbar ausschied. Die Quellenzuschreibung der Studierenden unterschied sich nicht zwischen den beiden Aufgabenarten, und Aufgabenschwierigkeit, Distraktorenverteilung und wahrgenommene Curriculum-Ausrichtung waren statistisch nicht unterscheidbar —, ein *Erkennungs*ergebnis statt eines Qualitätsergebnisses, und der Grund, weshalb die Autoren den Nutzen des Workflows als Verschiebung des Aufwands der Lehrenden vom Entwerfen zum Prüfen beschreiben statt als dessen Beseitigung. Ein explorativer Unterschied überlebte: Gemini-Aufgaben waren schwerer als die Aufgaben der Lizenzprüfung (p = 0.028), während ChatGPT-Aufgaben es nicht waren (p = 0.984).
 - **Aufgabenabhängigkeit:** Die Generierungszuverlässigkeit variiert nach Aufgabentyp. [[cong-confidence-asag-2026|Kurzantwortbewertung]] und [[self-referential-l2-writing-llm-assessment|analytische Schreibbewertung]] zeigen, dass offene Antwort- und Schreibaufgaben schwerer zuverlässig zu erzeugen und zu bewerten sind als strukturierte Aufgaben.
 - **Kognitive Qualität:** [[llm-educational-question-cognitive-depth|Kognitive-Tiefe-Evaluation]] zeigt, dass generierte Aufgaben unter Denken niedriger Ordnung tendieren können, sofern sie nicht ausdrücklich für Ergebnisse höherer Ordnung entworfen werden.
@@ -102,27 +102,27 @@ AQG ist ein zentraler Befähiger [[adaptive-learning|adaptiven]] und [[personali
 - [[ai-education]]
 
 ## Verbundene Artikel
-- [[genai-medical-education-transformation-review-2026]] — Scoping review of 153 medical-education reports on AI item generation versus faculty item quality
+- [[genai-medical-education-transformation-review-2026]] — Scoping-Review von 153 Berichten aus der medizinischen Bildung zu KI-Aufgabengenerierung gegenüber der Aufgabenqualität von Fakultätsmitgliedern
 
-- [[assessing-quality-ai-generated-exams-field-2025]] — Large-scale field validation of AI-generated exam quality via IRT
-- [[generate-then-validate-question-gen]] — Generate-Then-Validate question generation
-- [[kt4eqg-personalized-question-generation]] — Personalized question generation via knowledge tracing
-- [[llm-question-generation-deaf-hard-of-hearing-2026]] — LLM-powered question generation for Deaf and Hard of Hearing learners
-- [[llm-educational-question-cognitive-depth]] — Cognitive depth of LLM-generated questions
-- [[slidesqaqa-pedagogical-question-generation]] — Slide-deck Q&A pedagogical question generation
-- [[code-gen]] — CODE-GEN: RAG-based human-in-the-loop question generation
-- [[nsmq-riddles-science-math-benchmark]] — NSMQ Riddles benchmark
-- [[taklif-ai-interest-based-personalized-assignments]] — Interest-based personalized assignments
-- [[llm-difficulty-calibration-programming-exams-2026]] — LLM-based difficulty calibration
-- [[self-referential-l2-writing-llm-assessment]] — Self-referential analytic writing assessment
-- [[cross-dataset-bloom-question-classification]] — Cross-dataset Bloom question classification
-- [[llm-chatbots-cs-multiple-choice]] — LLM chatbots and CS multiple-choice items
-- [[socratic-tests-conversational-assessment]] — Socratic tests: conversational assessment
-- [[llm-turing-test-italian-legal-exams-2026]] — LLM Turing test in legal exams
-- [[razavi-powers-item-difficulty-llm-2026]] — Estimating item difficulty using LLMs and tree-based ML
-- [[proiqa-math-item-quality-assessment-2026]] — ProIQA: Process-Based Math Item Quality Assessment
-- [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn: An Agentic Tutor that Learns its Learner in a Human-AI Co-Learning Loop
-- [[automated-constructive-assessment-hdr-llm-2026]] — Automating Constructive Assessment with Large Language Models: Toward Scalable and Repeated Evaluation of Practical Competence
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — Student Use of LLMs and the Limits of AI-Generated Question Difficulty in Data Science Courses
-- [[bloom-classifier-ai-assisted-questions-2026]] — Evaluation of pre-trained models for pedagogical assessment of novel AI-assisted educational questions
-- [[vogt-ai-mcq-recognition-medical-assessment-2026]] — Students could not tell AI-generated MCQs from licensing-exam items in a graded exam, and 18.2% of generated items were eliminated in review (Vogt et al. 2026)
+- [[assessing-quality-ai-generated-exams-field-2025]] — Großskalige Feldvalidierung der Qualität KI-generierter Prüfungen mittels IRT
+- [[generate-then-validate-question-gen]] — Aufgabengenerierung nach dem Generate-Then-Validate-Prinzip
+- [[kt4eqg-personalized-question-generation]] — Personalisierte Aufgabengenerierung über Knowledge Tracing
+- [[llm-question-generation-deaf-hard-of-hearing-2026]] — LLM-gestützte Aufgabengenerierung für gehörlose und schwerhörige Lernende
+- [[llm-educational-question-cognitive-depth]] — Kognitive Tiefe von LLM-generierten Aufgaben
+- [[slidesqaqa-pedagogical-question-generation]] — Pädagogische Aufgabengenerierung aus Q&A für Präsentationsdecks
+- [[code-gen]] — CODE-GEN: RAG-basierte Aufgabengenerierung mit Human in the Loop
+- [[nsmq-riddles-science-math-benchmark]] — NSMQ Riddles: Benchmark für STEM
+- [[taklif-ai-interest-based-personalized-assignments]] — Interessenbasierte personalisierte Aufgaben
+- [[llm-difficulty-calibration-programming-exams-2026]] — LLM-basierte Schwierigkeitskalibrierung
+- [[self-referential-l2-writing-llm-assessment]] — Selbstreferentielle analytische Schreibbewertung
+- [[cross-dataset-bloom-question-classification]] — Bloom-Aufgabenüberprüfung über Datensätze hinweg
+- [[llm-chatbots-cs-multiple-choice]] — LLM-Chatbots und Multiple-Choice-Aufgaben in der Informatik
+- [[socratic-tests-conversational-assessment]] — Sokratische Tests: konversationelles Assessment
+- [[llm-turing-test-italian-legal-exams-2026]] — LLM-Turing-Test in juristischen Prüfungen
+- [[razavi-powers-item-difficulty-llm-2026]] — Schätzung der Aufgabenschwierigkeit mit LLMs und baumbasiertem ML
+- [[proiqa-math-item-quality-assessment-2026]] — ProIQA: prozessbasierte Qualitätsprüfung von Mathematikaufgaben
+- [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn: ein agentischer Tutor, der seine Lernenden in einer Mensch-KI-Co-Learning-Schleife lernt
+- [[automated-constructive-assessment-hdr-llm-2026]] — Automatisierung konstruktiven Assessments mit Large Language Models: hin zu skalierbarer und wiederholter Evaluation praktischer Kompetenz
+- [[student-llm-use-ai-question-difficulty-data-science-2026]] — LLM-Nutzung durch Studierende und die Grenzen KI-generierter Aufgabenschwierigkeit in Data-Science-Kursen
+- [[bloom-classifier-ai-assisted-questions-2026]] — Evaluation vortrainierter Modelle zur pädagogischen Bewertung neuartiger KI-gestützter Bildungsaufgaben
+- [[vogt-ai-mcq-recognition-medical-assessment-2026]] — Studierende konnten KI-generierte MCQ in einer bewerteten Prüfung nicht von Aufgaben der Lizenzprüfung unterscheiden, und 18.2% der generierten Aufgaben wurden im Review aussortiert (Vogt et al. 2026)

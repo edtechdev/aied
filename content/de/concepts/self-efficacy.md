@@ -1,7 +1,7 @@
 ---
 title: Selbstwirksamkeit
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-10-10T09:04:25-04:00"
+updated: "2026-10-25T00:25:09-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [motivation, self-efficacy, self-regulated-learning]
@@ -10,7 +10,7 @@ connected_faqs: [ai-anxiety-wellbeing, study-with-ai]
 audience: [learners]
 confidence: high
 translation_of: concepts/self-efficacy
-source_updated: "2026-10-13T11:05:00-04:00"
+source_updated: "2026-10-23T09:20:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -46,13 +46,14 @@ Selbstwirksamkeit ist unterscheidbar von tatsächlicher Kompetenz: sie ist eine 
 - **Vertrauen ist nicht immer der Hebel.** Ein Querschnitts-SEM mit 502 Universitätsmitarbeiterinnen und -mitarbeitern fand technologische Selbstwirksamkeit als kleinen Prädiktor von KI-Wohlbefinden (β = 0.082), während KI-Kompetenz dominierte (β = 0.713), was die Behauptung begrenzt, dass Vertrauen KI-Ergebnisse begrenzt: bei Wohlbefinden wog Wissen mehr als Vertrauen ([[faculty-ai-well-being-social-supports-2026|Liu et al. (2026)]]).
 
 - **Fähigkeiten können Abhängigkeit ermöglichen, während Wirksamkeit sie abpuffert.** Unter 478 israelischen Studierenden waren die Fähigkeitsdimensionen von [[ai-literacy|KI-Kompetenz]] positiv mit KI-Abhängigkeit verbunden (KI nutzen/verstehen β = 0.404), während KI-Selbstwirksamkeit negativ verbunden war (β = −0.132), sodass Kompetenztraining, das nur Werkzeugfähigkeit aufbaut, das Verlassen auf KI erhöhen kann ([[student-dependency-on-ai-literacy-self-efficacy-2026|Maizel et al. (2026)]]).
+- **Geringes Vertrauen führt zu schwererer KI-Nutzung und dann zu schlechteren Noten.** In einem Beweiskurs mit 153 Studierenden sagte ein Punkt höhere Baseline-Selbstwirksamkeit 39 % weniger Chatbot-Nachrichten vorher, und ein Punkt niedrigere Selbstwirksamkeit entsprach 0,62 Punkten weniger in der Prüfung über die Chatbot-Nutzung ([[ai-proof-learning-cognitive-offloading-2026|Chen et al. (2026)]]).
 - **Vertrauen als Angelpunkt zwischen Kompetenz und Vertrauen:** [[hu-psychological-predictors-continued-chatgpt-use-2026|Hu (2026)]] befragte 450 Universitätsstudierende, die ChatGPT bereits nutzen, und fand eine geordnete Kette statt zweier paralleler Korrelate: [[ai-literacy|KI-Kompetenz]] bezog sich auf [[trust|Vertrauen]] in das Werkzeug (beta = 0.50), Vertrauen auf akademische Selbstwirksamkeit (0.48), und Selbstwirksamkeit auf anhaltende Nutzung, mit signifikantem seriellen indirektem Effekt (0.07, 95% CI [0.04, 0.10]). [[anxiety-and-stress|KI-Angst]] schwächte den Kompetenz-zu-Vertrauen-Link (Interaktion beta = -0.25, einfache Steigungen fallend von 0.76 auf 0.25 über den Angstattbereich), sodass dasselbe Wissen bei ängstlicheren Studierenden weniger Vertrauen und weniger Nutzung erkaufte. Vertrauen ist daher ein nachgelagertes Glied in der Kette statt ein Startpunkt.
 
 
 Der Angstpfad, über den KI-gestützte Praxis mit Bereitschaft zusammenhängt, kann sich mit Vertrauen umkehren statt zu verblassen: Der bedingte indirekte Zusammenhang fiel von 0.142 bei geringer Sprech-Selbstwirksamkeit auf 0.044 beim Mittelwert und −0.054 bei hoher, ein Effekt, der in einem kleinen oberen Rand konzentriert war ([[ai-speaking-practice-communicative-readiness-2026|Wang & Li (2026)]]).
 - **Profile akademischer Selbstwirksamkeit und wer nach KI greift:** [[suria-martinez-academic-self-efficacy-motor-disabilities-2026|Suriá-Martínez et al. (2026)]] führten eine latente Profilanalyse akademischer Selbstwirksamkeit unter 102 Universitätsstudierenden mit motorischen Behinderungen in Spanien durch und fanden drei Profile (niedrig 29.4%, mäßig 41.2%, hoch 29.4%), deren berichtete KI-Nutzung stufenweise mit Profilniveau stieg (Mittelwerte 2.41, 3.56, 4.68; F(2, 99) = 27.84, p < .001, eta squared = .36), wobei Exzellenz, die Planungs- und Zielsetzungsdimension, am stärksten mit KI-Nutzung verbunden war (beta = .47). Die Autoren lesen dies als [[equity-in-ai-education|Gerechtigkeits]]problem: Wenn Vertrauen mit Inanspruchnahme verläuft, können Studierende mit geringerer Selbstwirksamkeit am wenigsten geneigt sein, nach KI-Unterstützung zu greifen, die [[accessibility|Zugangs]]-Barrieren senken könnte, weshalb Unterstützung akademischer Selbstwirksamkeit in [[inclusive-learning|Inklusions]]-Frameworks gehört.
 - **KI-Nutzungsmuster und Selbstwirksamkeit:** [[stamatoulis-genai-use-patterns-2026|Stamatoulis et al. (2026)]] fanden, dass die Nutzung [[generative-ai|generativer KI]] zur *Unterstützung des Verständnisses* (evaluative Integration) in ihrem Zusammenhang mit Leistung vollständig durch akademische Selbstwirksamkeit mediiert war — verständnisorientierte KI-Nutzung baut Vertrauen auf —, wohingegen Abkürzungsnutzung (Aufnahme mit geringer Verifikation) schlechtere Ergebnisse teilweise unabhängig von Selbstwirksamkeit vorhersagte. Selbstwirksamkeit ist daher sowohl ein Pfad, über den produktive KI-Nutzung hilft, als auch ein Faktor, den Abkürzungsnutzung womöglich nicht aufbaut.
-- **Attribution prägt, ob Wirksamkeit wächst.** Erfolg der KI statt der eigenen Anstrengung zuzuschreiben begrenzt das Wachstum von [[self-efficacy|Selbstwirksamkeit]] und verstärkt Abkürzungsmuster, sodass es mehr zählt, komplexe Aktivitäten in Schritte zu sequenzieren, in denen Studierende Fortschritt ihren eigenen Strategien zuschreiben, als das Werkzeug ([[oby-chatgpt-use-learning-framework-2026|Øby, 2026]]).
+- **Attribution prägt, ob Wirksamkeit wächst.** Erfolg der KI statt der eigenen Anstrengung zuzuschreiben begrenzt das Wachstum von Selbstwirksamkeit und verstärkt Abkürzungsmuster, sodass es mehr zählt, komplexe Aktivitäten in Schritte zu sequenzieren, in denen Studierende Fortschritt ihren eigenen Strategien zuschreiben, als das Werkzeug ([[oby-chatgpt-use-learning-framework-2026|Øby, 2026]]).
 - **Robotik und [[experiential-learning|praktisches Lernen]]:** [[remind-robot-mediated-roleplay-antibullying-2026|REMind]]s robotervermitteltes Rollenspiel baute die Selbstwirksamkeit von Kindern in der Intervention gegen Mobbing; Robotik und [[embodied-learning|verkörpertes Lernen]] bauen generell Vertrauen auf, indem sie Aufgaben in beobachtbaren Ergebnissen verankern.
 - **Kreative Selbstwirksamkeit bei Kindern:** [[niu-genai-children-creative-thinking-cognitive-development-review-2026|Niu et al. (2026)]] berichten, in einem systematischen Scoping-Review von 22 Primärstudien zu generativer KI mit Kindern von 6 bis 15 Jahren, dass Zugewinne an kreativer Selbstwirksamkeit mit divergentem Denken und narrativer Kreativität clustern, meist über Text-zu-Bild-Werkzeuge, die die Barriere zwischen Idee und Artefakt senken. Sie bleiben kurz davor, Wirksamkeit zu behaupten: die Designs sind heterogen, der Review führte keine kritische Bewertung durch, und das Korpus ist nahezu still zu behinderten, schlecht vernetzten und unterversorgten Lernenden, sodass kreatives Vertrauen ein Ergebnis ist, das berichtet wird zu steigen, statt eines, das das Feld bestätigt hat.
 - **Selbstwirksamkeit von Lehrkräften:** Forschung zu [[teacher-ai-competency|KI-Kompetenz von Lehrkräften]] untersucht, wie [[educational-development|professionelle Entwicklung]] das Vertrauen von Lehrkräften im Umgang mit KI aufbaut, was Übernahme und Integration beeinflusst. [[ai-supported-ementoring-efl-preservice-2026|Ismael, Luo & Li (2026)]] fügen quasi-experimentelle Belege hinzu, dass ein KI-gestütztes E-Mentoring-Modell die Selbstwirksamkeit und emotionale Intelligenz angehender EFL-Lehrkräfte während des Praktikums hebt: die Experimentalgruppe gewann bei beiden Maßen erheblich mehr als die Kontrollen, mit einer großen Zwischengruppen-Effektstärke und Zugewinnen über alle Selbstwirksamkeits-Subdomänen —, und die Autoren schreiben sie Mentoring zu, das innerhalb strukturierter reflexiver Zyklen KI-vermittelt ist, statt der KI allein.
@@ -81,26 +82,27 @@ Selbstwirksamkeit verbindet sich mit [[motivation|Motivation]], [[self-regulated
 - [[self-report-measures]]
 - [[social-emotional-learning]] — Sozial-emotionales Lernen
 ## Verbundene Artikel
-- [[confident-but-absent-ai-use-absenteeism-2026]] — General AI use tracked with higher self-efficacy and higher absenteeism, yet self-efficacy did not predict attendance (Franco et al. 2026)
-- [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026]] — AI chatbots in higher education: comparing expectations to evidence (Thoeni & Fryer 2026)
-- [[genai-performance-vs-learning]] — confidence rising while technological dependence grows: self-efficacy as a misleading AI-era outcome (Yan et al. 2025)
-- [[ai-supported-ementoring-efl-preservice-2026]] — AI-supported e-mentoring raises EFL pre-service teachers' self-efficacy and emotional intelligence (quasi-experimental)
-- [[aigc-affordance-student-self-regulation-2026]] — AIGC Affordance and Student Self-Regulation
+- [[ai-proof-learning-cognitive-offloading-2026]] — Unterstützen oder ersetzen sie das Schlussfolgern von Studierenden? Kognitive Auslagerung in KI-assistiertem Beweislernen (Chen et al. 2026)
+- [[confident-but-absent-ai-use-absenteeism-2026]] — Allgemeine KI-Nutzung ging mit höherer Selbstwirksamkeit und höherem Absentismus einher, doch Selbstwirksamkeit sagte Anwesenheit nicht vorher (Franco et al. 2026)
+- [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026]] — KI-Chatbots in der Hochschulbildung: Erwartungen und Evidenz im Vergleich (Thoeni & Fryer 2026)
+- [[genai-performance-vs-learning]] — Steigendes Vertrauen bei wachsender technologischer Abhängigkeit: Selbstwirksamkeit als irreführendes Ergebnis im KI-Zeitalter (Yan et al. 2025)
+- [[ai-supported-ementoring-efl-preservice-2026]] — KI-gestütztes E-Mentoring erhöht die Selbstwirksamkeit und emotionale Intelligenz angehender EFL-Lehrkräfte (quasi-experimentell)
+- [[aigc-affordance-student-self-regulation-2026]] — AIGC-Affordanzen und Selbstregulation von Studierenden
 - [[oby-chatgpt-use-learning-framework-2026]]
-- [[ai-literacy-career-adaptability-business-2026]] — AI Literacy, AI Readiness, and Career Adaptability
+- [[ai-literacy-career-adaptability-business-2026]] — KI-Kompetenz, KI-Bereitschaft und Berufsadaptabilität
 - [[remind-robot-mediated-roleplay-antibullying-2026]] — REMind
-- [[teacher-education-ai-literacy-sdt-2026]] — Teacher Education for AI Literacy (SDT)
-- [[social-robot-study-companions]] — Social Robots as Study Companions
+- [[teacher-education-ai-literacy-sdt-2026]] — Lehrkräftebildung für KI-Kompetenz (SDT)
+- [[social-robot-study-companions]] — Soziale Roboter als Lernbegleiter
 - [[hcap-human-centric-ai-pedagogy-framework-2026]] — HCAP Framework
 - [[student-dependency-on-ai-literacy-self-efficacy-2026]]
-- [[stamatoulis-genai-use-patterns-2026]] — Patterns of GenAI use and academic self-efficacy
-- [[ai-literacy-course-satisfaction-pbl-scale-2026]] — AI-PBLS scale; empowerment and ethical awareness mediating PBL-to-satisfaction in AI literacy courses (Zhu & Kong 2026)
-- [[predicting-attrition-competitive-programming]] — Predicting Student Attrition in Competitive Programming
-- [[genai-xr-architectural-design-education-2026]] — Generative AI and Extended Reality in Collaborative Architectural Design Education: An Exploratory Studio Study
-- [[hu-psychological-predictors-continued-chatgpt-use-2026]] — AI literacy, trust and academic self-efficacy in a serial chain to continued ChatGPT use
-- [[suria-martinez-academic-self-efficacy-motor-disabilities-2026]] — Academic self-efficacy profiles and reported AI use among university students with motor disabilities
-- [[niu-genai-children-creative-thinking-cognitive-development-review-2026]] — Reported creative self-efficacy gains from generative AI in children (scoping review)
+- [[stamatoulis-genai-use-patterns-2026]] — Muster der GenAI-Nutzung und akademische Selbstwirksamkeit
+- [[ai-literacy-course-satisfaction-pbl-scale-2026]] — AI-PBLS-Skala; Empowerment und ethisches Bewusstsein als Vermittler von PBL zu Zufriedenheit in KI-Kompetenzkursen (Zhu & Kong 2026)
+- [[predicting-attrition-competitive-programming]] — Vorhersage von Studierendenabbrüchen im wettbewerbsorientierten Programmieren
+- [[genai-xr-architectural-design-education-2026]] — Generative KI und Extended Reality in der kollaborativen Architektur-Design-Bildung: eine explorative Studio-Studie
+- [[hu-psychological-predictors-continued-chatgpt-use-2026]] — KI-Kompetenz, Vertrauen und akademische Selbstwirksamkeit in einer seriellen Kette zur anhaltenden ChatGPT-Nutzung
+- [[suria-martinez-academic-self-efficacy-motor-disabilities-2026]] — Profile akademischer Selbstwirksamkeit und berichtete KI-Nutzung unter Universitätsstudierenden mit motorischen Behinderungen
+- [[niu-genai-children-creative-thinking-cognitive-development-review-2026]] — Berichtete Zugewinne an kreativer Selbstwirksamkeit durch generative KI bei Kindern (Scoping-Review)
 
-- [[ai-speaking-practice-communicative-readiness-2026]] — Speaking self-efficacy reverses the anxiety pathway from AI-assisted practice to willingness
-- [[faculty-ai-well-being-social-supports-2026]] — Faculty SEM: technological self-efficacy a weak predictor of AI well-being
-- [[cen-self-efficacy-favorability-2026]] — Self-efficacy and favorability shape learning from tutoring systems and paper practice (Cen et al. 2026)
+- [[ai-speaking-practice-communicative-readiness-2026]] — Sprech-Selbstwirksamkeit kehrt den Angstpfad von KI-gestützter Übung zu Bereitschaft um
+- [[faculty-ai-well-being-social-supports-2026]] — Fakultäts-SEM: technologische Selbstwirksamkeit als schwacher Prädiktor von KI-Wohlbefinden
+- [[cen-self-efficacy-favorability-2026]] — Selbstwirksamkeit und Präferenz prägen das Lernen aus Tutoring-Systemen und Papierübung (Cen et al. 2026)

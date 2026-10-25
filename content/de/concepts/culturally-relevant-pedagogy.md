@@ -1,7 +1,7 @@
 ---
 title: Kulturell relevante Pädagogik
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-10-10T09:04:24-04:00"
+updated: "2026-10-24T22:18:02-04:00"
 type: concept
 foundations: [ai-literacy, curriculum-design]
 technology: [generative-ai, intelligent-tutoring, llm]
@@ -10,7 +10,7 @@ audience: [learners]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/culturally-relevant-pedagogy
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-23T22:38:41-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -67,6 +67,7 @@ Auf der Grundlage der eigenen Artikel der Wissensdatenbank können Lehrende und 
 - **Schichten Sie demografische und kulturelle Kontexte in Prompts und Werkzeuge ein.** CulturAIEd und [[connected-ai-lesson-planning-vietnam|ConnectED]] (ein vietnamesisches, curriculumabgestimmtes Unterrichtsplanungssystem) zeigen, dass strukturierte, lokal begründete Prompt-Vorlagen plus Validierungstore durch Lehrkräfte die kulturelle Passung gegenüber generischer Generierung verbessern.
 - **Machen Sie Community-Wissen zum Bewertungsmaßstab.** Entsprechend community-basiertem KI-Lernen sollen Lernende KI-Ergebnisse an lokal begründeten Kriterien von Relevanz, Schaden und Nützlichkeit messen, und Kontexte ehren, in denen Ablehnung oder Nicht-Nutzung die richtige Entscheidung ist.
 - **Übernehmen und evaluieren Sie kulturell begründete Datensets.** IKS-Instruct und NSMQ Riddles veranschaulichen, dass [[discipline-specific-aied|domänenspezifische]], nicht-westliche Daten sowohl die Relevanz als auch eine ehrliche Evaluation sinnvoll verbessern.
+- **Lassen Sie die KI die Lehrkraft befragen, bevor sie entwirft.** [[zhai-science-literacy-generative-ai-coherence-2026|Zhai et al. (2026)]] beschreiben einen kulturell responsiven Unterrichtsplaner, dessen interaktive, halbautomatisierte Prompt-Architektur zuerst nach Kontext und Kultur fragt und dann aus den eigenen Antworten der Lehrkraft entwirft, statt einen generischen Plan zu erzeugen.
 
 ## Verbundene Konzepte
 
@@ -83,16 +84,18 @@ Auf der Grundlage der eigenen Artikel der Wissensdatenbank können Lehrende und 
 - [[higher-ed]]
 - [[language-learning]]
 - [[cs-education]]
-- [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
+- [[pedagogy]] — Pädagogiken und Lehrstrategien
 
 ## Verbundene Artikel
 
-- [[llm-cultural-relevance-k12]] — LLMs for Culturally Relevant K-12 Pedagogy
-- [[civic-education-ai-lesson-plans]] — AI-Generated Lesson Plans in Civic Education
-- [[ojeda-ramirez-community-based-ai-learning]] — Community-Based AI Learning
-- [[genai-minoritized-knowledges-disability]] — Generative AI and the marginalization of minoritized knowledges
-- [[nsmq-riddles-science-math-benchmark]] — NSMQ Riddles: Ghana STEM Benchmark
-- [[cross-cultural-student-perceptions-genai-computing]] — Cross-Cultural Perceptions of GenAI Use
-- [[international-students-conversational-ai-adaptation]] — International Students and Conversational AI
-- [[connected-ai-lesson-planning-vietnam]] — ConnectED: Vietnamese Lesson Planning
-- [[culturally-aware-student-stress-chatbot-2026]] — An AI-Powered Culturally Aware Chatbot for Stress Detection and Wellness Support among Pakistani University Students Using NLP and Machine Learning
+- [[zhai-science-literacy-generative-ai-coherence-2026]] — Unterrichtsplaner, der Lehrkräfte nach kulturellem Kontext befragt, bevor er entwirft (Zhai et al. 2026)
+
+- [[llm-cultural-relevance-k12]] — LLMs für kulturell relevante K-12-Pädagogik
+- [[civic-education-ai-lesson-plans]] — KI-generierte Unterrichtspläne in der politischen Bildung
+- [[ojeda-ramirez-community-based-ai-learning]] — Community-basiertes KI-Lernen
+- [[genai-minoritized-knowledges-disability]] — Generative KI und die Marginalisierung minorisierten Wissens
+- [[nsmq-riddles-science-math-benchmark]] — NSMQ Riddles: Ghana-STEM-Benchmark
+- [[cross-cultural-student-perceptions-genai-computing]] — Kulturübergreifende Wahrnehmung der GenAI-Nutzung
+- [[international-students-conversational-ai-adaptation]] — Internationale Studierende und konversationelle KI
+- [[connected-ai-lesson-planning-vietnam]] — ConnectED: vietnamesische Unterrichtsplanung
+- [[culturally-aware-student-stress-chatbot-2026]] — Ein KI-gestützter kulturell sensibler Chatbot zur Stresserkennung und Wohlbefinden-Unterstützung pakistanischer Universitätsstudierender mit NLP und maschinellem Lernen

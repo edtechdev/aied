@@ -1,7 +1,7 @@
 ---
 title: Unterstützung und Erfolg von Studierenden
 created: "2026-10-01T20:31:35-04:00"
-updated: "2026-10-10T09:04:25-04:00"
+updated: "2026-10-24T21:19:23-04:00"
 type: concept
 foundations: [ai-education, human-ai-collaboration]
 pedagogy: [help-seeking, student-experience, student-engagement]
@@ -111,25 +111,25 @@ Studierendenunterstützung verbindet sich mit [[student-experience|Erleben der S
 - [[rct]] — das Design hinter der stärksten Evidenz hier
 
 ## Verbundene Artikel
-- [[mata-sustaining-ai-enabled-student-support-2026]] — four-year randomized evaluation of a university support chatbot: task completion moved, graduation and GPA did not
-- [[chatbot-outreach-course-performance-2026]] — pre-registered multi-semester outreach trial: higher A/B rates, modest DFW shifts, one demographic exception
-- [[lopez-pernas-llm-appropriate-student-support-2026]] — 4,500 synthetic vignettes: limited sensitivity to student need and cross-model inconsistency in support recommendations
-- [[sc2r-counterfactual-recourse-educational-2026]] — the actionability gap: recourse must be feasible and checkable, not merely model-valid
-- [[fairness-theatre-early-warning-systems-2026]] — six post-hoc fairness interventions on a vendor early warning system built from 168,550 records
-- [[at-risk-students-ml-prediction]] — supervised classifiers identifying students before withdrawal
-- [[predicting-attrition-competitive-programming]] — behavioral logs plus psychographic survey predicting attrition
-- [[villegas-ch-federated-explainable-learning-analytics-2026]] — federated risk modeling across institutions without sharing raw student data
-- [[precision-education-student-digital-twins-2026]] — digital twins and "preventive student success" as a vision
-- [[learning-analytics-to-educational-interventions-2026]] — seven enablers for closing the loop from analytics to intervention
-- [[course-specific-rag-help-seeking-higher-ed-2026]] — a course-specific assistant aimed at lowering the cost of asking for help
-- [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — tutoring take-up tested separately from learning
-- [[najem-behavioral-clustering-adaptive-learning-recommendation-2026]] — six behavioral profiles mapped to recommended learning objects
-- [[trace-course-grade-prediction-2026]] — joint prediction of courses and grades for planning
-- [[zhang-ml-student-progress-programming-2026]] — interpretable module-level progress prediction
-- [[ai-higher-ed-service-delivery-systematic-review-2026]] — 155 studies of AI, leadership, and service delivery in higher education
-- [[sposato-ai-educational-leadership-taxonomy-2025]] — ten-domain taxonomy of AI in educational leadership
-- [[students-at-stake-ai-deployment-risks-2026]] — student-side risk surface: admissions and aid, student-success services, and instruction
-- [[ai-campus-wellbeing-tools]] — campus well-being support spanning prevention and intervention
-- [[coursegraph-cs-course-comparison-2026]] — course equivalence for transfer credit and mobility
-- [[credentials-carry-evidence-ai-agents-2026]] — what a completion record means when an agent can do the work
-- [[akcapinar-ai-cheating-risk-lms-prediction-2026]] — Akçapınar (2026) — Predicting AI-assisted cheating risk early, and the threshold trade-off for low-stakes outreach
+- [[mata-sustaining-ai-enabled-student-support-2026]] — vierjährige randomisierte Evaluation eines Unterstützungs-Chatbots an einer Hochschule: der Aufgabenabschluss bewegte sich, Studienabschluss und GPA nicht
+- [[chatbot-outreach-course-performance-2026]] — vorregistrierter Outreach-Versuch über mehrere Semester: höhere A/B-Raten, bescheidene DFW-Verschiebungen, eine demografische Ausnahme
+- [[lopez-pernas-llm-appropriate-student-support-2026]] — 4.500 synthetische Vignetten: begrenzte Sensitivität für das Bedürfnis der Studierenden und inkonsistente Unterstützungsempfehlungen zwischen Modellen
+- [[sc2r-counterfactual-recourse-educational-2026]] — die Umsetzbarkeitslücke: Wiedergutmachung muss machbar und prüfbar sein, nicht nur modellvalide
+- [[fairness-theatre-early-warning-systems-2026]] — sechs Post-hoc-Fairness-Interventionen an einem Hersteller-Frühwarnsystem, das aus 168.550 Datensätzen aufgebaut wurde
+- [[at-risk-students-ml-prediction]] — überwachte Klassifikatoren, die Studierende vor dem Abbrechen identifizieren
+- [[predicting-attrition-competitive-programming]] — Verhaltenslogs plus psychografische Umfrage zur Vorhersage von Studienabbrüchen
+- [[villegas-ch-federated-explainable-learning-analytics-2026]] — föderiertes Risikomodellieren über Institutionen hinweg ohne Teilen roher Studierendendaten
+- [[precision-education-student-digital-twins-2026]] — digitale Zwillinge und „präventiver Studienerfolg“ als Vision
+- [[learning-analytics-to-educational-interventions-2026]] — sieben Voraussetzungen zum Schließen des Kreislaufs von Analytik zu Intervention
+- [[course-specific-rag-help-seeking-higher-ed-2026]] — ein kursbezogener Assistent, der darauf abzielt, die Kosten für das Nachfragen nach Hilfe zu senken
+- [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — Inanspruchnahme von Tutorat getrennt vom Lernen getestet
+- [[najem-behavioral-clustering-adaptive-learning-recommendation-2026]] — sechs Verhaltensprofile, die empfohlenen Lernobjekten zugeordnet sind
+- [[trace-course-grade-prediction-2026]] — gemeinsame Vorhersage von Kursen und Noten für die Planung
+- [[zhang-ml-student-progress-programming-2026]] — interpretierbare Fortschrittsvorhersage auf Modulebene
+- [[ai-higher-ed-service-delivery-systematic-review-2026]] — 155 Studien zu KI, Führung und Serviceerbringung in der Hochschulbildung
+- [[sposato-ai-educational-leadership-taxonomy-2025]] — Zehn-Domänen-Taxonomie von KI in der Bildungsführung
+- [[students-at-stake-ai-deployment-risks-2026]] — Risikofläche aus Studierendensicht: Zulassung und Förderung, Dienstleistungen für Studienerfolg und Unterricht
+- [[ai-campus-wellbeing-tools]] — Unterstützung des Wohlbefindens auf dem Campus von Prävention bis Intervention
+- [[coursegraph-cs-course-comparison-2026]] — Kursequivalenz für Anrechnung von Leistungen und Mobilität
+- [[credentials-carry-evidence-ai-agents-2026]] — was ein Abschlussnachweis bedeutet, wenn ein Agent die Arbeit erledigen kann
+- [[akcapinar-ai-cheating-risk-lms-prediction-2026]] — Akçapınar (2026) — KI-gestütztes Schummelrisiko früh vorhersagen und den Schwellenwert-Kompromiss bei Outreach mit geringer Relevanz

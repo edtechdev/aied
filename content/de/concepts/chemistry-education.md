@@ -18,6 +18,7 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_resources: [teacher-dev]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*

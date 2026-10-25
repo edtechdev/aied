@@ -1,7 +1,7 @@
 ---
 title: "Wie lehre ich Studierende, KI-Ausgaben zu verifizieren?"
 created: "2026-09-16T15:58:20-04:00"
-updated: "2026-10-10T09:50:26-04:00"
+updated: "2026-10-24T20:49:56-04:00"
 connected_faqs: [incorporating-ai-literacy, study-with-ai, reducing-over-reliance, asynchronous-online-courses-ai]
 weight: 65
 type: faq
@@ -11,7 +11,7 @@ research_method: [experiment, literature review, survey]
 audience: [instructors, instructional designers, learners]
 level: [higher ed, secondary]
 translation_of: faqs/verify-ai-output
-source_updated: "2026-10-02T08:21:34-04:00"
+source_updated: "2026-10-21T14:32:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -22,8 +22,6 @@ ai_assist:
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
-
-# Wie lehre ich Studierende, KI-Ausgaben zu verifizieren?
 
 Sie haben sie gewarnt. Der Chatbot ist keine Suchmaschine, prüfen Sie die Quellen, nutzen Sie ihn verantwortungsvoll –, und dieselben erfundenen Zitationen und selbstsicheren falschen Antworten kommen weiterhin in den Einreichungen an. Die Warnungen scheitern, weil sie eine Disposition verlangen. Sorgfältige Studierende haben sie, eilige nicht, und in dem Satz gibt es nichts, womit eine Person um 23 Uhr handeln könnte, mit einer Ausgabe auf dem Bildschirm, die perfekt lesbar liest.
 

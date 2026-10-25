@@ -15,6 +15,7 @@ foundations: [ai-literacy]
 institutions: [change-management, educational-policy-ai]
 ethics: [equity-in-ai-education]
 audience: [administrators, institutions]
+connected_resources: [campus-ai-development]
 level: [higher ed]
 translation_of: resources/campus-ai-framework
 source_updated: "2026-09-28T04:05:42-04:00"

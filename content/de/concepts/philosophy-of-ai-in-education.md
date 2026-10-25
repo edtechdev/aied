@@ -1,14 +1,14 @@
 ---
 title: Philosophie von KI in der Bildung
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-10-10T09:04:25-04:00"
+updated: "2026-10-24T21:19:23-04:00"
 type: concept
 foundations: [agency, ai-education, human-ai-collaboration, philosophy-of-ai-in-education]
 pedagogy: [learning-theories]
 ethics: [ethics]
 confidence: high
 translation_of: concepts/philosophy-of-ai-in-education
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-16T07:28:51-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -44,6 +44,7 @@ Dies ist eine Konzeptseite zu den philosophischen und theoretischen Grundlagen v
 - **Die Ontologie KI-generierter wissenschaftlicher Objekte.** In der Chemie besetzen KI-vorhergesagte Verbindungen und Titrationskurven einen „liminalen ontologischen Raum" — bis zum empirischen Beweis weder ganz hypothetisch noch vollständig real —, was das Fach von einem Realismus hin zu einer konstruktivistischen Sicht verschiebt, in der Realität eine Kollaboration von Mensch und Maschine ist ([[philosophy-experimentation-ai-chemistry-2026|Reyes und Regala (2026)]]).
 - **Kognitive Passivität als epistemischer Schaden.** Bai und Costa (2026) stützen sich auf Arendts Darstellung des Denkens als nach innen gerichtete, nicht übertragbare Tätigkeit und argumentieren, dass GenAI, die die Arbeit liefert, Denken nicht bloß auslagert, sondern es verunmöglicht, wobei Bourdieus Feld und Habitus das Risiko in institutionellen Strukturen verorten ([[genai-chinese-higher-education-integrity-2026|Bai & Costa (2026)]]).
 - **Werte, Gerechtigkeit und der Zweck von Bildung.** Philosophische Analyse untersucht, ob KI-gesteuerte Bildung menschlichem Gedeihen und Bildungsgerechtigkeit dient oder ob sie Lernen im Dienst von Produktivität instrumentalisiert.([[avraamidou-ai-colonization-science-education]]) Das verbindet sich mit [[critical-pedagogy|kritischer Pädagogik]] und [[ethics|Ethik]].
+- **„Menschenzentriert“ als anthropozentrischer Diskurs, nicht als neutrale Ethik.** [[wang-jin-anthropocentrism-learnification-ai-education-2026|Wang & Jin (2026)]] lesen Dokumente von UNESCO, OECD und der Montréal-Deklaration und argumentieren, dass menschenzentrierte AIED die Ausschlüsse des Humanismus der Aufklärung erbt, dass Transhumanismus sie bewahrt und dass das Label kommerzielle Infrastruktur legitimieren kann.
 
 - **Erkenntnistheoretische Grundlage dafür, wie Menschen KI begegnen.** [[strydom-human-gai-paradigms-2026|Strydom (2026)]] leitet aus Schommers fünf Dimensionen persönlicher epistemologischer Überzeugung (Quelle, Gewissheit, Organisation, Kontrolle und Geschwindigkeit von Wissen) sieben Paradigmen des Umgangs von Menschen mit generativer KI ab und argumentiert, sie würden vollzogen statt besessen — eine Veränderung des Umgangs von Lernenden mit KI erfordere daher, die soziotechnische Umgebung zu verändern, nicht ihre Überzeugungen.
 - **Wessen Philosophie? Pluralismus in den konzeptuellen Grundlagen des Felds.** Xie (2026) argumentiert, die philosophische Debatte des Felds sei durch eine einzige westliche Architektur überbestimmt — [[agency|epistemische Handlungsfähigkeit]] als Eigenschaft diskreter Subjekte, Wissen repräsentational und kalkulatorisch gerahmt und die Mensch-KI-Beziehung innerhalb eines Subjekt-Objekt-Dualismus verortet —, sodass ihre Grenzen zu den Grenzen der kollektiven Vorstellungskraft des Felds werden. Als vergleichendes Gegengewicht rekonstruiert er daoistische Konzepte — „Dao nature" (道性), Selbstkultivierung (修道) und den „Zhenren" (真人) — nicht als „östliche Inhalte", die einem unveränderten Rahmen hinzugefügt werden, sondern als Ressourcen, die die konzeptuellen Grundlagen umformen, durch die KI selbst verstanden wird, und wendet sie auf Wissen (epistemische Monokultur und synthetische Desinformation), Erkennen (Auslagerung, die [[critical-thinking|kritisches Denken]] degradiert) und Wirkung (Umweltkosten und Nord-Süd-Asymmetrien) an.([[daoism-ai-education-philosophy-2026]])
@@ -75,16 +76,17 @@ Die Philosophie von KI in der Bildung und [[theory-development-aied|Theorieentwi
 
 ## Verbundene Artikel
 
-- [[genai-chinese-higher-education-integrity-2026]] — Gen-AI in Chinese higher education: integrity and engagement
-- [[ensemble-cognition-philosophy-ai-education]] — Ensemble Cognition: a philosophical framework for human–AI cognition
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]] — Pedagogical Symbiosis and the Post-Human Learner
-- [[videla-embodied-ai-education-choreography]] — Embodied, post-cognitivist critique of disembodied AI in education
-- [[voicu-ai-interpretive-cognition-ssh-2026]] — Developmental-critical model of interpretive cognition in the humanities
-- [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — Epistemic co-agency as a philosophy of learning with machines
-- [[avraamidou-ai-colonization-science-education]] — Critical-feminist philosophy questioning the AI colonization of education
-- [[generative-ai-mediational-agent-sociocultural-2026]] — Generative AI as a Mediational Agent
-- [[young-people-learning-generative-ai-rapid-review-2026]] — Ecological learning-sciences framing of GenAI
-- [[philosophy-experimentation-ai-chemistry-2026]] — Philosophy of experimentation in chemistry with AI
-- [[strydom-human-gai-paradigms-2026]] — Framing human-AI dynamics: seven GAI engagement paradigms (Strydom 2026)
-- [[daoism-ai-education-philosophy-2026]] — Alternative AI Philosophy: Daoism as Method for AI in Education
-- [[genai-higher-ed-agency-responsibility-discourse-2026]] — Who Acts, Who Knows, Who Answers? A Corpus-Assisted Discourse Analysis of Agency, Epistemic Responsibility, and Accountability in Generative AI Higher Education Research
+- [[genai-chinese-higher-education-integrity-2026]] — Gen-AI in der chinesischen Hochschulbildung: Integrität und Engagement
+- [[ensemble-cognition-philosophy-ai-education]] — Ensemble Cognition: ein philosophischer Rahmen für Mensch-KI-Kognition
+- [[elsayed-pedagogical-symbiosis-posthuman-learner]] — Pädagogische Symbiose und die post-humane lernende Person
+- [[videla-embodied-ai-education-choreography]] — Verkörperte, post-kognitivistische Kritik entkörperter KI in der Bildung
+- [[voicu-ai-interpretive-cognition-ssh-2026]] — Entwicklungs-kritisches Modell interpretativer Kognition in den Geisteswissenschaften
+- [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — Epistemische Ko-Handlungsfähigkeit als Philosophie des Lernens mit Maschinen
+- [[avraamidou-ai-colonization-science-education]] — Kritisch-feministische Philosophie, die die Kolonialisierung der Bildung durch KI infrage stellt
+- [[generative-ai-mediational-agent-sociocultural-2026]] — Generative KI als mediationaler Agent
+- [[young-people-learning-generative-ai-rapid-review-2026]] — Ökologische Rahmung von GenAI aus den Lernwissenschaften
+- [[philosophy-experimentation-ai-chemistry-2026]] — Philosophie des Experimentierens in der Chemie mit KI
+- [[strydom-human-gai-paradigms-2026]] — Rahmung der Mensch-KI-Dynamik: sieben GAI-Engagement-Paradigmen (Strydom 2026)
+- [[daoism-ai-education-philosophy-2026]] — Alternative KI-Philosophie: Daoismus als Methode für KI in der Bildung
+- [[genai-higher-ed-agency-responsibility-discourse-2026]] — Wer handelt, wer weiß, wer antwortet? Eine korpusgestützte Diskursanalyse von Handlungsfähigkeit, epistemischer Verantwortung und Rechenschaftspflicht in der generativen KI-Forschung zur Hochschulbildung
+- [[wang-jin-anthropocentrism-learnification-ai-education-2026]] — „Menschenzentrierte“ AIED gelesen als anthropozentrischer Diskurs mit kommerziellen Verwendungen (Wang & Jin 2026)

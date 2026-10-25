@@ -1,7 +1,7 @@
 ---
 title: Leitplanken
 created: "2026-08-25T08:30:00-04:00"
-updated: "2026-10-10T09:04:22-04:00"
+updated: "2026-10-24T21:37:05-04:00"
 type: concept
 technology: [human-in-the-loop-ai, llm, prompt-engineering, rag, reinforcement-learning]
 ethics: [ai-sycophancy, bias-mitigation, pedagogical-safety]
@@ -9,7 +9,7 @@ level: [k 12]
 confidence: high
 connected_faqs: [asynchronous-online-courses-ai]
 translation_of: concepts/guardrails
-source_updated: "2026-09-30T09:53:03-04:00"
+source_updated: "2026-10-22T10:05:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -71,6 +71,8 @@ Das [[generative-ai-guardrails-harm-learning|Bastani]]-GPT-Tutor-Design zeigt da
 
 Leitplanken sind selbst nicht neutral: das [[paternalistic-filter-llm-history-education|Paternalistic-Filter]]-Audit zeigt, dass Verweigerungen und abgemilderte Antworten nach Studierendenidentität und Themensensibilität gemustert sind und epistemische Ungerechtigkeit reproduzieren, selbst während sie „schützen“. Sichere Leitplanken müssen auf unterschiedliche Behandlung auditiert werden — ein direkter Fall für [[bias-mitigation|Bias-Minderung]] und [[equity-in-ai-education|Gerechtigkeit]] in [[governance|Governance]] und [[regulation|Regulierung]].
 
+**Der Schwellenwert einer Klassifikator-Leitplanke ist eine Politikentscheidung.** Das Verschieben einer Toxizitätsgrenze von 0,3 auf 0,7 schnitt die Anteil beschrifteter Prompts von 35,62% auf 12,4%; bei einem Betrugserkennungssystem tauschte sie 15 Falschalarme und 18 übersehene Betrugsversuche gegen 2 und 36, kein Grenzwert entfernt beide, und eine Robustheitszahl bedeutet wenig ohne ihren Angriff ([[ai-security-literacy-k12-framework-2026|Yocam, Vaidyan & Kalathas (2026)]]).
+
 ## Leitplanken vs. pädagogische Sicherheit
 
 - **[[pedagogical-safety|Pädagogische Sicherheit]]** ist das *Prinzip/Ziel* — dass KI-Bildungssysteme Lernende vor Schaden schützen (Inhalt, Bias, unsichere Ratschläge, Manipulation).
@@ -93,42 +95,43 @@ Die zwei sind eng gekoppelt: fast jede Leitplankentechnik ist ein Weg, [[pedagog
 
 ## Verbundene Konzepte
 
-- [[pedagogical-safety]] — the goal that guardrails implement
-- [[prompt-engineering]] — the hint-not-answer design technique
-- [[rag]] — knowledge grounding as a guardrail
-- [[human-in-the-loop-ai]] — teacher QA and oversight
-- [[llm-training-and-fine-tuning]] — the training/alignment layer
-- [[reinforcement-learning]] — reward shaping for safe behavior
-- [[bias-mitigation]] — auditing guardrails for fairness
-- [[ai-sycophancy]] — the manipulation risk guardrails must resist
-- [[scaffolding]] — the pedagogical mechanism guardrails preserve
-- [[socratic-method]] — a hint-not-answer interaction mode
-- [[hallucination-risk]] — the fabrication risk guardrails reduce
-- [[cognitive-offloading]] — the over-reliance harm guardrails prevent
-- [[k-12]] — the context where guardrails matter most
-- [[ethics]] — the normative basis
-- [[governance]] — the policy layer
-- [[intelligent-tutoring]] — the systems being guarded
-- [[misconceptions]] — the knowledge guardrails must check
-- [[trust]] — the outcome of well-designed guardrails
-- [[llm]] — the model layer being constrained
+- [[pedagogical-safety]] — das Ziel, das Leitplanken implementieren
+- [[prompt-engineering]] — die Hinweis-statt-Antwort-Designtechnik
+- [[rag]] — Wissensgrounding als Leitplanke
+- [[human-in-the-loop-ai]] — QA und Aufsicht durch Lehrkräfte
+- [[llm-training-and-fine-tuning]] — die Trainings-/Alignment-Schicht
+- [[reinforcement-learning]] — Reward-Shaping für sicheres Verhalten
+- [[bias-mitigation]] — Leitplanken auf Fairness auditieren
+- [[ai-sycophancy]] — das Manipulationsrisiko, dem Leitplanken widerstehen müssen
+- [[scaffolding]] — der pädagogische Mechanismus, den Leitplanken bewahren
+- [[socratic-method]] — ein Hinweis-statt-Antwort-Interaktionsmodus
+- [[hallucination-risk]] — das Fabrikationsrisiko, das Leitplanken reduzieren
+- [[cognitive-offloading]] — der Schaden der Überabhängigkeit, den Leitplanken verhindern
+- [[k-12]] — der Kontext, in dem Leitplanken am meisten zählen
+- [[ethics]] — die normative Grundlage
+- [[governance]] — die Politikschicht
+- [[intelligent-tutoring]] — die Systeme, die geschützt werden
+- [[misconceptions]] — das Wissen, das Leitplanken prüfen müssen
+- [[trust]] — das Ergebnis gut gestalteter Leitplanken
+- [[llm]] — die Modellschicht, die eingeschränkt wird
 
 ## Verbundene Artikel
 
-- [[reflection-agent-fidelity-career-2026]] — Faithful Where It Can Be Checked: Auditing a Reflection Agent Against Its System Prompt in a Randomized Trial
-- [[scaffolding-student-ai-dialogue-framework-2026]] — The SCAFFOLD framework for steering students-AI dialogue, with its classroom pilot
-- [[generative-ai-guardrails-harm-learning]] — the canonical field RCT on guardrails
-- [[eduzone-llm-safety-k12]] — K-12 LLM safety framework
-- [[eduguard-safe-rag-llm-tutor]] — RAG-based safety for tutors
-- [[paternalistic-filter-llm-history-education]] — auditing guardrails for bias
-- [[singh-eduqwen-pedagogical-rl-2026]] — RL-aligned guided learning
-- [[tact-pedagogically-adaptive-esl-tutoring]] — taxonomy-aligned post-training
-- [[eduframetrap-llm-sycophancy-educational-safety]] — sycophancy as a safety risk
-- [[ai-tutor-authoring-promptdecipher]] — teacher-driven QA
-- [[llm-unlearning-math-privacy]] — model-level unlearning
-- [[pedagogical-safety-rl]] — reward shaping for pedagogical safety
-- [[residencyrl-clinical-rl-training-2026]] — safety-aligned RL in clinical training
-- [[rule-integrated-llm-tutoring-primary-math-2026]] — Rule-guided vs ad-hoc scaffolding in an LLM tutoring system for primary mathematics (Looi et al. 2026)
-- [[instructional-governance-design-computing-education-2026]] — Instructional Governance by Design: A Framework for AI in Computing Education
-- [[guardrails-ai-teaching-assistants-programming-2026]] — Guardrails or Roadblocks? Effects of Pedagogical Style and Context Awareness in AI Teaching Assistants for Programming
-- [[instruction-partners-ai-in-action-learning-tour-2026]] — how risk to student thinking varied by product category across 20 AI tools observed in real classrooms
+- [[ai-security-literacy-k12-framework-2026]] — KI-Sicherheitskompetenz: ökosystembasierter Kompetenzrahmen und K-12-Lernplattform
+- [[reflection-agent-fidelity-career-2026]] — Treu, wo geprüft werden kann: Audit eines Reflexionsagenten gegen seinen eigenen Systemprompt in einem randomisierten Versuch
+- [[scaffolding-student-ai-dialogue-framework-2026]] — Das SCAFFOLD-Framework zur Steuerung des Dialogs zwischen Studierenden und KI, mit seinem Klassenpiloten
+- [[generative-ai-guardrails-harm-learning]] — der kanonische Feld-RCT zu Leitplanken
+- [[eduzone-llm-safety-k12]] — KI-Sicherheitsframework für LLMs in K-12
+- [[eduguard-safe-rag-llm-tutor]] — RAG-basierte Sicherheit für Tutoren
+- [[paternalistic-filter-llm-history-education]] — Leitplanken auf Bias auditieren
+- [[singh-eduqwen-pedagogical-rl-2026]] — RL-ausgerichtetes gelenktes Lernen
+- [[tact-pedagogically-adaptive-esl-tutoring]] — taxonomieausgerichtetes Post-Training
+- [[eduframetrap-llm-sycophancy-educational-safety]] — Sykophantie als Sicherheitsrisiko
+- [[ai-tutor-authoring-promptdecipher]] — lehrkraftgetriebene QA
+- [[llm-unlearning-math-privacy]] — Unlearning auf Modellebene
+- [[pedagogical-safety-rl]] — Reward-Shaping für pädagogische Sicherheit
+- [[residencyrl-clinical-rl-training-2026]] — sicherheitsausgerichtetes RL in der klinischen Ausbildung
+- [[rule-integrated-llm-tutoring-primary-math-2026]] — Regelgeleitetes vs. ad-hoc-Gerüstbau in einem LLM-Tutoringsystem für den Mathematikunterricht der Grundschule (Looi et al. 2026)
+- [[instructional-governance-design-computing-education-2026]] — Instruktionale Governance by Design: Ein Framework für KI in der Informatikbildung
+- [[guardrails-ai-teaching-assistants-programming-2026]] — Leitplanken oder Hinterhalte? Wirkungen von pädagogischem Stil und Kontextbewusstsein in KI-Lehrassistenten für Programmierung
+- [[instruction-partners-ai-in-action-learning-tour-2026]] — wie sich das Risiko für das Denken der Studierenden nach Produktkategorie über 20 in echten Klassenräumen beobachtete KI-Werkzeuge hinweg veränderte

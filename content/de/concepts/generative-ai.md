@@ -1,14 +1,14 @@
 ---
 title: Generative KI
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-10T09:04:24-04:00"
+updated: "2026-10-24T22:18:02-04:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 technology: [intelligent-tutoring, llm, prompt-engineering, rag]
 ethics: [hallucination-risk]
 confidence: high
 translation_of: concepts/generative-ai
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-16T08:47:09-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -50,9 +50,11 @@ Eine Erhebung der Werkzeugnutzung durch Lehrende zeigt, dass sich die Aufmerksam
 
 ### Die Abdeckung generativer KI in der Wissensbasis
 
-Mit mehr als 80 Artikeln ist generative KI der größte Technologiestrang der Wissensbasis. Forschung erstreckt sich über Wirksamkeitsstudien ([[genai-meta-analysis-programming-learning|Metaanalysen]]), Sicherheitsbedenken ([[hazra-safetutors-pedagogical-safety-2026|Schäden von Tutoren]], [[eduguard-safe-rag-llm-tutor|Leitplanken]]) und Designprinzipien ([[instructional-guidance-genai-learning|Unterrichtsorientierung]]).
+Mit mehr als 80 Artikeln ist generative KI der größte Technologiestrang der Wissensbasis. Über seine 394 Studien hinweg tauchte ChatGPT mit nicht genannter Version in 94 auf, die ChatGPT-3/3.5-Familie in 66 und die ChatGPT-4-Familie in 52 —, sodass viele berichtete Fähigkeiten Modellgenerationen beschreiben, die inzwischen abgelöst wurden ([[mapping-genai-higher-ed-scoping-review|Lin et al. (2026)]]). Forschung erstreckt sich über Wirksamkeitsstudien ([[genai-meta-analysis-programming-learning|Metaanalysen]]), Sicherheitsbedenken ([[hazra-safetutors-pedagogical-safety-2026|Schäden von Tutoren]], [[eduguard-safe-rag-llm-tutor|Leitplanken]]) und Designprinzipien ([[instructional-guidance-genai-learning|Unterrichtsorientierung]]).
 
 Über 53 Studien hinweg gebündelt übertraf GenAI-assistierte Bildung nicht-GenAI-Ansätze bei Leistung (g = 0.40), höherrangigem Denken (g = 0.72), Motivation (g = 0.81) und Schreiben (g = 0.76), obwohl spielassistiertes GenAI keinen signifikanten Nutzen hinzufügte (g = 0.24) ([[genai-educational-outcomes-meta-analysis|Dong (2026)]]).
+
+Eine Metaanalyse auf drei Ebenen mit 22 Studien findet, dass GenAI-unterstütztes problem- und [[project-based-learning|projektbasierte Lernen]] einen großen gebündelten Effekt auf lernende-interne Ergebnisse erzeugt (g = 0,819), obwohl eine PET-PEESE-Korrektur ihn auf g = 0,378 senkt; auch die Einbettung zählte, wobei allgemeine Chatbots bei g = 0,970 poolten gegenüber g = 0,455 für eigene oder API-Systeme ([[chen-pbl-pjbl-genai-meta-analysis-2026|Chen (2026)]]).
 
 
 Eine separate Metaanalyse von 42 Studien zu Motivation allein setzt den gebündelten Effekt niedriger an (g = 0.764) und berichtet ein 95%-Prädiktionsintervall über [−0.689, 2.217], weshalb der Motivationsvorteil für ein neues Setting nicht verlässlich positiv ist ([[genai-learning-motivation-meta-analysis-2026|Fang et al. (2026)]]).
@@ -60,6 +62,8 @@ Eine separate Metaanalyse von 42 Studien zu Motivation allein setzt den gebünde
 Generative UI ist die neueste Fähigkeit in diesem Strang: Modelle, die ein funktionierendes interaktives Artefakt ausgeben — Schieberegler, manipulierbare Simulationen — statt Prosa. [[generative-ui-education-learning-interactives-2026|Kovshov et al. (2026)]], ein Team von Google Research, berichten, dass generative UI von der Stange noch nicht pädagogisch präzise genug für komplexe Konstrukte ist, dass aber das Zerlegen eines Lernziels in progressive gestufte Ziele und das Umhüllen der Erzeugung mit Kritik- und Selbstverbesserungsschleifen Interaktive erzeugt, die erfahrene Lehrkräfte als akzeptabel bewerten. Ihr Design ist ein Orchestrierungsdesign: Lehrende benennen Ziele, genehmigen sie und wählen unter Kandidatensimulationen, weshalb sich die bindende Beschränkung für maßgeschneidertes [[simulation|interaktives Lernmaterial]] von der Produktion hin zur Spezifikation verschiebt, und [[guardrails|pädagogische Leitplanken]] in die Erzeugungspipeline eingebettet sind statt der Wachsamkeit der Lehrenden im Nachhinein überlassen.
 
 Jenseits dieser Kernstränge erweitert neuere Arbeit die Evidenzbasis über [[governance|institutionelle]], interaktionale und fachliche Kontexte. Qin (2026) dokumentiert, wie die Lingnan University GenAI-Kompetenz für alle Studierenden im Grundstudium als Teil einer digitalen Transformation der freien Künste institutionalisierte. Chang und Li (2026) zeigen, dass Gespräche zwischen Studierenden und KI fachassoziiertes kognitives [[student-engagement|Engagement]] kodieren, wobei etwa 62% der Prompts höherrangige kognitive Anforderung widerspiegeln. Neto und Kolleg:innen (2026) [[meta-analysis-systematic-review|systematisch reviewen]] GenAI in der szenariobasierten Gesundheitsbildung und finden, dass [[prompt-engineering|Prompt-Design]] als Unterrichtsspezifikation funktioniert, aber selten mit Unterrichtsrahmenwerken (34.8%) abgestimmt oder in reproduzierbarer Detailtiefe berichtet wird (34.8%). GenAI treibt auch Rollenspielsimulationen von Lernenden für praxisbasiertes [[teacher-education|Lehrkräftetraining]] an: [[zhuang-zhang-chatgpt-math-teacher-education-2026|Zhuang und Zhang (2025)]] bauten *Student GPT*, einen eigenen ChatGPT-Chatbot, der eine [[k-12|Mittelschul]]schülerin bzw. einen Mittelschüler simulierte, die bzw. der gängige [[misconceptions|Fehlvorstellungen]] zum Verhältnisdenken hält, und gaben angehenden Mathematiklehrkräften erschwingliche, inhaltsspezifische Übung im Diagnostizieren von Studierendendenken — Evidenz dafür, dass Prompt-Design (ein literaturgestützter Prompt evozierte verlässlich die angezielten konzeptuellen Fehler, 0.98 gegenüber 0.40) ein generatives Modell von der Stange in eine nützliche pädagogische Persona lenken kann.
+
+Eine von GenAI begleitete Fallstudie zur mathematischen Lehrkräftefortbildung mit acht Lehrkräften im Beruf in ländlichen, unterversorgten Distrikten ließ [[bicer-genai-pd-math-creativity-2026|Bicer et al. (2026)]] mathematische [[creativity|Kreativität]], Fachwissen und fachdidaktisches Wissen als miteinander verbundenes Schlussfolgern über zehn Module hinweg einbeziehen und schreibt das progressive Ausblenden von Gerüsten und simuliertes Studierendendenken den Erfolg zu; sie berichten Engagementmuster, keine messbaren Gewinne.
 
 Ein [[li-language-educators-genai-review-2026|systematischer Review von Sprachlehrenden]] (Li et al. 2026) findet, dass Lehrende GenAI am meisten für vorbereitende Inhaltsarbeit wertschätzen — Unterrichtsplanung, Materialerstellung und Schreibunterstützung —, während sie beim Einsatz im live geführten Klassenzimmer zögern, mit Bedenken, die sich um [[academic-integrity|akademische Integrität]] (Plagiat und [[assessment-validity|Assessmentvalidität]]), professionelle Verdrängung und Technostress zentrieren; die Annahme wird von berufsidentitätsbezogenen, pädagogischen, technischen, institutionellen und Integritätsfaktoren geformt, und Kompetenzlücken ordnen sich Episteme, Techne und Phronesis zu.
 
@@ -75,7 +79,7 @@ Ein interdisziplinärer systematischer Review aus dem Jahr 2026 (Dabaghi, D'Urso
 
 - [[llm]] — die Modellklasse, die generativer KI zugrunde liegt
 - [[prompt-engineering]] — wie Ausgaben geformt werden
-- [[rag]] — retrieval-augmented grounding
+- [[rag]] — abrufverstärktes Grounding
 - [[ai-literacy]] — die Kompetenz, die nötig ist, um sie wirksam zu nutzen
 - [[ai-education]] — das weitere Feld
 - [[intelligent-tutoring]] — konversationelle und generative Tutoring-Systeme
@@ -88,24 +92,26 @@ Ein interdisziplinärer systematischer Review aus dem Jahr 2026 (Dabaghi, D'Urso
 - [[k-12]] — ein primärer Einsatzkontext
 
 ## Verbundene Artikel
-- [[genai-learning-motivation-meta-analysis-2026]] — Meta-analysis of GenAI's effect on learning motivation, with a prediction interval spanning harm to benefit
+- [[genai-learning-motivation-meta-analysis-2026]] — Metaanalyse der Wirkung von GenAI auf die Lernmotivation, mit einem Prädiktionsintervall von Schaden bis Nutzen
 
-- [[typology-generative-ai-tools-education-2026]] — Typology of Generative AI Tools for Education
-- [[generative-ui-education-learning-interactives-2026]] — Harnessing Generative UI for Education: Tailored Learning Interactives
-- [[ai-standardized-patient-scaffolding-medical-2026]] — Evaluating Scaffolding-Oriented Multi-Agent Large Language Model System for Clinical Interview Training
-- [[ssail-safe-sound-ai-learning-2026]] — SSAIL: A Design Framework for Safe and Sound AI for Learning
-- [[genai-educational-outcomes-meta-analysis]] — Meta-analysis of GenAI learning outcomes
-- [[genai-meta-analysis-programming-learning]] — Meta-analysis of GenAI in programming learning
-- [[genai-performance-vs-learning]] — Performance vs. learning with GenAI
-- [[hazra-safetutors-pedagogical-safety-2026]] — Harms of AI tutoring agents
-- [[eduguard-safe-rag-llm-tutor]] — Guardrailing a safe RAG LLM tutor
-- [[cogevol-learning-environment-generation-2026]] — CogEvol: Learning Environment Generation
-- [[khlaif-assistive-genai-visually-impaired-2026]] — Assistive GenAI for visually impaired learners
-- [[li-language-educators-genai-review-2026]] — Language educators' practices and development with GenAI
+- [[typology-generative-ai-tools-education-2026]] — Typologie der Werkzeuge Generativer KI für die Bildung
+- [[generative-ui-education-learning-interactives-2026]] — Generative UI für die Bildung nutzen: maßgeschneiderte Lern-Interaktive
+- [[ai-standardized-patient-scaffolding-medical-2026]] — Evaluierung eines scaffolding-orientierten Multi-Agenten-Systems großer Sprachmodelle für das Training klinischer Interviews
+- [[ssail-safe-sound-ai-learning-2026]] — SSAIL: Ein Design-Framework für sichere und solide KI fürs Lernen
+- [[genai-educational-outcomes-meta-analysis]] — Metaanalyse der Lernergebnisse durch GenAI
+- [[genai-meta-analysis-programming-learning]] — Metaanalyse von GenAI im Programmierlernen
+- [[genai-performance-vs-learning]] — Leistung versus Lernen mit GenAI
+- [[hazra-safetutors-pedagogical-safety-2026]] — Schäden durch KI-Tutoring-Agenten
+- [[eduguard-safe-rag-llm-tutor]] — Leitplanken für einen sicheren RAG-LLM-Tutor
+- [[cogevol-learning-environment-generation-2026]] — CogEvol: Erzeugung von Lernumgebungen
+- [[khlaif-assistive-genai-visually-impaired-2026]] — Assistive GenAI für sehbehinderte Lernende
+- [[li-language-educators-genai-review-2026]] — Praktiken und Entwicklung von Sprachlehrenden mit GenAI
 - [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
 - [[zhuang-zhang-chatgpt-math-teacher-education-2026]]
 - [[pecuchova-automated-grading-open-ended-genai-2026]]
 - [[karaismailoglu-ai-lesson-plans-science-experts-2026]]
 - [[falahat-chatgpt-grading-pharmacy-exams-2026]]
 - [[olvet-genai-scoring-open-ended-medical-2026]]
-- [[bloom-classifier-ai-assisted-questions-2026]] — Evaluation of pre-trained models for pedagogical assessment of novel AI-assisted educational questions
+- [[bloom-classifier-ai-assisted-questions-2026]] — Evaluierung vortrainierter Modelle zur pädagogischen Beurteilung neuartiger KI-unterstützter Bildungsfragen
+- [[bicer-genai-pd-math-creativity-2026]] — Eine von GenAI begleitete mathematische Fortbildungs-Fallstudie mit acht Lehrkräften im Beruf in ländlichen Gebieten
+- [[chen-pbl-pjbl-genai-meta-analysis-2026]] — Gepooltes g = 0,819, unter PET-PEESE auf 0,378 fallend; eigene Werkzeuge (0,455) blieben hinter Chatbots (0,970) zurück

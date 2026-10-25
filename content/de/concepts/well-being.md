@@ -1,7 +1,7 @@
 ---
 title: Wohlbefinden
 created: "2026-08-13T18:30:57-04:00"
-updated: "2026-10-10T09:04:23-04:00"
+updated: "2026-10-24T22:50:00-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [motivation, social-emotional-learning]
@@ -11,7 +11,7 @@ level: [higher ed]
 confidence: high
 connected_faqs: [how-ai-impacts-students, ai-anxiety-wellbeing]
 translation_of: concepts/well-being
-source_updated: "2026-10-01T20:35:10-04:00"
+source_updated: "2026-10-23T09:49:58-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -42,6 +42,7 @@ Wohlbefinden in der Bildung ist facettenreich: es umfasst emotionales Wohlbefind
 
 - **[[ai-literacy|KI-Kompetenz]] und sozio-emotionales Lernen:** [[sec-ai-literacy-narrative-review-2026|Forschung, die SEC in KI-Kompetenz integriert]] argumentiert, dass das Fördern der emotionalen Intelligenz und des Wohlbefindens von Bildungsfachkräften und Studierenden wesentlich ist, um KI-[[sociocultural-learning|vermittelte Lern]]-Umgebungen zu navigieren, verbunden mit [[social-emotional-learning]] und affektiven Dimensionen von KI.
 - **KI-Angst und Studierendenerfahrung:** Studien zum Engagement der Studierenden mit KI (z. B. [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination|SDT-basierte Forschung]]) finden, dass KI-Nutzung mit Angst, Vertrauen und Vertrauen verflochten ist, wobei das Wohlbefinden der Studierenden von Sorgen über akademische Integrität, [[creativity]] und [[cognitive-offloading|Überabhängigkeit]] beeinflusst wird.
+- **Testangst wird umverteilt, nicht beseitigt.** [[mulvenon-test-anxiety-ai-accountability-2026|Mulvenon (2026)]] argumentiert, dass mit der Verschiebung von [[assessment|Assessment]] von episodischen High-Stakes-Tests hin zu kontinuierlicher, datengesteuerter Evaluation algorithmische Rechenschaftspflicht ein neues Drucksystem hinzufügt, dessen Mechanismen — Unmittelbarkeit, Sichtbarkeit und Datenpermanenz — akuten Teststress in diffuse, anhaltende Performanz-Wachsamkeit verwandeln, die selten berichtet wird.
 - **Angstreduktion ist nicht einheitlich nützlich.** In einer ausbalancierten Within-Subjects-Studie mit 35 Studierenden vor der Universität senkte ein LLM-augmentierter konversationeller Agent selbstberichtete Angst während mündlicher Assessments (Gelassenheit 6,50 gegenüber 5,86, p = .028), aber die Autoren mahnen zur Vorsicht, dass moderate Angst förderlich sein kann, und zeichneten keine Leistungswerte auf ([[aivaluate-anxiety-assessment-2026|Yusuf, Money und Daylamani-Zad (2026)]]).
 
 - **Hohe Zustimmung kann mit Belastung koexistieren, und KI-Aufgabendruck schwächt den Nutzen.** Unter 551 Studierenden des ersten Jahres billigten 82,76 % die Integration digitaler und intelligenter Inhalte, während 69,51 % [[anxiety-and-stress|Angst]] oder Anspannung berichteten, und die Steigung von KI-Kompetenz zu Anpassung fiel von 0,42 auf 0,20, während KI-Aufgabendruck stieg ([[ai-enabled-course-development-first-year-adjustment-2026|Zhang & Yin (2026)]]).
@@ -71,6 +72,8 @@ Wohlbefinden verbindet sich mit [[student-experience]] (als Dimension der Gesamt
 
 **Reibung, Bedeutung und Einsamkeit als Signal.** [[zohar-bloom-inzlicht-against-frictionless-ai-2026|Zohar, Bloom und Inzlicht (2026)]] geben dem Wohlbefindensfall einen Mechanismus: Anstrengung signalisiert, dass unsere Handlungen zählen, daher fühlen Menschen, die auf eine Aufgabe hinarbeiten, sich kompetenter, schätzen das Produkt mehr und sehen es als zweckvoller — und selbst bei objektiv bedeutungslosen Aufgaben erhöht das Hinzufügen von Reibung die zugeschriebene Bedeutung. Bei Beziehungen behandeln sie Einsamkeit nicht nur als Geißel (verbunden mit Herz-Kreislauf-Erkrankung, Demenz, Schlaganfall und vorzeitigem Tod), sondern als ein **[[biology-education|biologisches]] Signal** gleich Hunger oder Schmerz: Unbehagen, das motiviert, auf andere zuzugehen, Einladungen anzunehmen, in bestehende Beziehungen zu investieren und schwierige Gespräche zu ertragen. KI-Begleiter können dieses Unbehagen lindern, was die Autoren in manchen Fällen als echten Fortschritt ansehen, während sie auch das Signal zum Schweigen bringen, das Verbindung antreibt — und sie mäßigen das Argument nach Stufe, indem sie festhalten, dass es für Menschen, die durch Umstände statt Wahl isoliert sind, grausam wäre, solchen Technologien den Zugang zu verweigern ([[motivation]], [[social-emotional-learning]]).
 
+Emotionale Unterstützung und Verbindung können innerhalb einer Stichprobe in entgegengesetzte Richtungen laufen. Unter 819 saudischen Studierenden der Hochschulbildung lag die Zufriedenheit mit Chatbots im Mittel bei 4,29 und ihre Erfahrung mit den Werkzeugen bei 4,19, während die Sorge, Chatbots verringern menschliche Verbindung, das am höchsten bewertete Konstrukt bei 4,36 war ([[ai-chatbots-emotional-support-human-connection-2025|Al-Zahrani (2025)]]). Diese Sorge stieg mit Erfahrung, statt mit Zufriedenheit zu fallen (standardisierte Koeffizienten von .64 gegenüber .11).
+
 ## Verbundene Konzepte
 
 - [[learners]] — Learners: das Dach für die lernendenseitigen Konzepte
@@ -87,24 +90,26 @@ Wohlbefinden verbindet sich mit [[student-experience]] (als Dimension der Gesamt
 
 ## Verbundene Artikel
 
-- [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — Friction, meaning, and loneliness as a biological signal
-- [[zhang-ai-anxiety-academic-motivation-emotion-2026]] — The Relationship Between AI Anxiety and Academic Motivation
-- [[wu-psychological-adaptation-ai-japanese-learning-2026]] — Profiles and Transitions of Psychological Adaptation in AI-Assisted Japanese Language Learning
-- [[yan-conversational-ai-engagement-dependence-synthesis-2026]] — A Critical Narrative Synthesis of Conversational AI Engagement and Dependence
-- [[mindful-llm-math-tutoring-2026]] — Beyond Problem Solving: Large Language Models for Emotional and Reflective Support in Mathematics Learning
-- [[sec-ai-literacy-narrative-review-2026]] — Integrating Social-Emotional Competencies Into AI Literacy
-- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]] — Students' Engagement With GenAI (SDT)
-- [[teacher-education-ai-literacy-sdt-2026]] — Teacher Education for AI Literacy (SDT)
-- [[genai-motivation-engagement-2026]] — Generative AI, Motivation, and Engagement
-- [[ai-chatbot-collective-efficacy-collaborative-learning]] — AI Chatbots, Collective Efficacy, and Collaboration
+- [[ai-chatbots-emotional-support-human-connection-2025]] — 819 Studierende bewerteten Chatbots hoch und fürchteten am meisten den Verlust menschlicher Verbindung
+- [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — Reibung, Bedeutung und Einsamkeit als biologisches Signal
+- [[zhang-ai-anxiety-academic-motivation-emotion-2026]] — Die Beziehung zwischen KI-Angst und akademischer Motivation
+- [[wu-psychological-adaptation-ai-japanese-learning-2026]] — Profile und Übergänge psychologischer Anpassung im KI-assistierten Japanischlernen
+- [[yan-conversational-ai-engagement-dependence-synthesis-2026]] — Eine kritische narrative Synthese zu Engagement mit und Abhängigkeit von konversationeller KI
+- [[mindful-llm-math-tutoring-2026]] — Jenseits der Problemlösung: Large Language Models für emotionale und reflexive Unterstützung im Mathematiklernen
+- [[sec-ai-literacy-narrative-review-2026]] — Integration sozio-emotionaler Kompetenzen in KI-Kompetenz
+- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]] — Engagement der Studierenden mit GenAI (SDT)
+- [[teacher-education-ai-literacy-sdt-2026]] — Lehrkräftebildung für KI-Kompetenz (SDT)
+- [[genai-motivation-engagement-2026]] — Generative KI, Motivation und Engagement
+- [[ai-chatbot-collective-efficacy-collaborative-learning]] — KI-Chatbots, kollektive Wirksamkeit und Zusammenarbeit
 - [[sovereign-hive-titl-further-education-2026]]
-- [[aivaluate-anxiety-assessment-2026]] — AIvaluate: LLM-Augmented Assessment of Student Anxiety (2026)
-- [[policy-deficit-ai-sel-2026]] — The Policy Deficit in AI × SEL Research
-- [[culturally-aware-student-stress-chatbot-2026]] — An AI-Powered Culturally Aware Chatbot for Stress Detection and Wellness Support among Pakistani University Students Using NLP and Machine Learning
-- [[daoism-ai-education-philosophy-2026]] — Alternative AI Philosophy: Daoism as Method for AI in Education
+- [[aivaluate-anxiety-assessment-2026]] — AIvaluate: LLM-augmentierte Erfassung von Studierendenangst (2026)
+- [[policy-deficit-ai-sel-2026]] — Das Politikdefizit in der Forschung zu KI × SEL
+- [[culturally-aware-student-stress-chatbot-2026]] — Ein KI-gestützter kulturell sensibler Chatbot zur Stresserkennung und Wohlbefindensunterstützung bei pakistanischen Universitätsstudierenden mit NLP und maschinellem Lernen
+- [[daoism-ai-education-philosophy-2026]] — Alternative KI-Philosophie: Daoismus als Methode für KI in der Bildung
 - [[ai-emotional-intelligence-teacher-development-2026]] — Relationale Verdichtung als Kriterium für KI-unterstützte Entwicklung von Lehrkräften
 - [[ai-enabled-course-development-first-year-adjustment-2026]] — Hohe KI-Kurs-Zustimmung koexistierend mit selbstberichteter Belastung, und Aufgabendruck schwächt Anpassung
 - [[ai-connectedness-adolescent-mental-health-2026]] — KI-Verbundenheit und psychische Gesundheit von Jugendlichen: ergänzende versus kompensatorische Bindung, mit einer invertierten U-Vorhersage
 - [[perceived-ai-intelligence-medical-students-mental-health-2026]] — Wahrgenommene KI-Assistenten-Intelligenz, Zielfortschritt und psychische Gesundheit, mit KI-Kompetenz als Moderator
-- [[ai-emotion-regulation-sport-exercise-2026]] — Conceptual reframing of AI-supported emotion regulation through sport, exercise and campus ecology
+- [[ai-emotion-regulation-sport-exercise-2026]] — Konzeptionelle Neurahmung KI-unterstützter Emotionsregulation durch Sport, Bewegung und Campus-Ökologie
 - [[faculty-ai-well-being-social-supports-2026]] — Strukturgleichungsmodell des KI-Wohlbefindens von Fakultäten: KI-Kompetenz dominiert über Selbstwirksamkeit
+- [[mulvenon-test-anxiety-ai-accountability-2026]] — Testangst wird umverteilt, nicht beseitigt

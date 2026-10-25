@@ -1,7 +1,7 @@
 ---
 title: Globaler Süden
 created: "2026-08-18T14:55:00-04:00"
-updated: "2026-10-10T09:04:25-04:00"
+updated: "2026-10-24T21:37:05-04:00"
 type: concept
 foundations: [ai-literacy]
 technology: [generative-ai]
@@ -9,7 +9,7 @@ ethics: [culturally-relevant-pedagogy, equity-in-ai-education, global-south]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/global-south
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-21T21:15:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -21,7 +21,7 @@ ai_assist:
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
 
-Der **Globale Süden** bezeichnet Länder in Afrika, Asien, Lateinamerika und Ozeanien, die gegenüber dem Globalen Norden häufig ökonomisch, politisch und historisch marginalisiert sind. In der [[research-methods-aied|Forschung]] zu [[ai-education|KI in der Bildung]] werden Kontexte des Globalen Südens zunehmend als unterrepräsentiert in der Evidenzbasis anerkannt, doch sie werfen eigenständige Fragen zu [[equity-in-ai-education|Gerechtigkeit]], [[culturally-relevant-pedagogy|kultureller Relevanz]], Ressourcenbeschränkungen und der epistemischen Dominanz westlicher, anglophoner Trainingsdaten auf.
+> **Globaler Süden** — Länder in Afrika, Asien, Lateinamerika und Ozeanien, die gegenüber dem Globalen Norden häufig ökonomisch, politisch und historisch marginalisiert sind. In [[ai-education|KI in der Bildung]] [[research-methods-aied|Forschung]] werden diese Kontexte zunehmend als unterrepräsentiert in der Evidenzbasis anerkannt, doch sie werfen eigenständige Fragen zu [[equity-in-ai-education|Gerechtigkeit]], [[culturally-relevant-pedagogy|kultureller Relevanz]], Ressourcenbeschränkungen und der epistemischen Dominanz westlicher, anglophoner Trainingsdaten auf.
 
 ## Fragen zum Nachdenken
 
@@ -75,20 +75,20 @@ Die Skalierungsbilanz ist Teil dieses Bildes, und sie ist ernüchternd. Programm
 
 ## Verbundene Artikel
 
-- [[genai-assessment-african-higher-education-review-2026]] — Rethinking assessment in the age of generative AI: A systematic literature review of African higher education
+- [[genai-assessment-african-higher-education-review-2026]] — Assessment im Zeitalter generativer KI neu denken: ein systematischer Literaturreview zur Hochschulbildung in Afrika
 
-- [[adeniranye-ai-integration-nigerian-higher-education-2026]] — Institutional structures, digital inequality, and AI integration in Nigerian higher education
+- [[adeniranye-ai-integration-nigerian-higher-education-2026]] — Institutionelle Strukturen, digitale Ungleichheit und KI-Integration in der nigerianischen Hochschulbildung
 - [[nguyen-genai-global-south-review-2026]]
-- [[socio-cognitive-genai-adoption-engineering-2026]] — Unified socio-cognitive model for engineering education (Bangladesh)
-- [[connected-ai-lesson-planning-vietnam]] — ConnectED: Vietnamese Lesson Planning
-- [[iks-instruct-dataset-indian-knowledge]] — IKS-Instruct: Indian Knowledge Systems Dataset
-- [[nsmq-riddles-science-math-benchmark]] — NSMQ Riddles: Ghana STEM Benchmark
-- [[genai-minoritized-knowledges-disability]] — Marginalization of minoritized knowledges
-- [[llm-cultural-relevance-k12]] — LLMs for Culturally Relevant K-12 Pedagogy
-- [[genai-integration-constructivist-higher-ed-bangladesh-2026]] — GenAI integration in Bangladeshi higher ed through constructivism (Alam et al. 2026)
-- [[khlaif-assistive-genai-visually-impaired-2026]] — Assistive GenAI for visually impaired learners
-- [[culturally-aware-student-stress-chatbot-2026]] — An AI-Powered Culturally Aware Chatbot for Stress Detection and Wellness Support among Pakistani University Students Using NLP and Machine Learning
-- [[el-salvador-ai-tutoring-selection-claim-2026]] — Bounding the learning claim of El Salvador's AI tutoring pilot (Restrepo Morales et al. 2026)
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Academic developers as digital mediators in South African HDIs: digital inequality vs. algorithmic coloniality
-- [[ai-ethical-awareness-ghana-students-2026]] — Artificial intelligence ethical awareness of Ghanaian university students
-- [[teachers-contextual-ethical-reasoning-ai-2026]] — Ethical principles of AI in education: teachers' contextual ethical reasoning
+- [[socio-cognitive-genai-adoption-engineering-2026]] — Einheitliches sozial-kognitives Modell für Ingenieurausbildung (Bangladesch)
+- [[connected-ai-lesson-planning-vietnam]] — ConnectED: Unterrichtsplanung in Vietnam
+- [[iks-instruct-dataset-indian-knowledge]] — IKS-Instruct: Datensatz zu Indian Knowledge Systems
+- [[nsmq-riddles-science-math-benchmark]] — NSMQ Riddles: Ghana-STEM-Benchmark
+- [[genai-minoritized-knowledges-disability]] — Marginalisierung minoritisierter Wissensformen
+- [[llm-cultural-relevance-k12]] — LLMs für kulturell relevante Pädagogik in K-12
+- [[genai-integration-constructivist-higher-ed-bangladesh-2026]] — GenAI-Integration in der Hochschulbildung Bangladeschs durch Konstruktivismus (Alam et al. 2026)
+- [[khlaif-assistive-genai-visually-impaired-2026]] — Assistive GenAI für sehbeeinträchtigte Lernende
+- [[culturally-aware-student-stress-chatbot-2026]] — Ein KI-gestützter, kulturbewusster Chatbot zur Stresserkennung und Wohlbefindensunterstützung bei pakistanischen Studierenden mit NLP und maschinellem Lernen
+- [[el-salvador-ai-tutoring-selection-claim-2026]] — Abgrenzung der Lernbehauptung des KI-Tutoring-Piloten in El Salvador (Restrepo Morales et al. 2026)
+- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Academic Developers als digitale Vermittelnde in südafrikanischen HDIs: digitale Ungleichheit vs. algorithmische Kolonialität
+- [[ai-ethical-awareness-ghana-students-2026]] — Ethisches Bewusstsein für künstliche Intelligenz ghanaischer Studierender
+- [[teachers-contextual-ethical-reasoning-ai-2026]] — Ethische Prinzipien von KI in der Bildung: kontextuelles ethisches Schlussfolgern von Lehrenden

@@ -1,7 +1,7 @@
 ---
 title: "Wie beeinflusst KI Angst und Wohlbefinden von Studierenden, und was können wir tun?"
 created: "2026-09-16T15:58:20-04:00"
-updated: "2026-10-10T09:50:26-04:00"
+updated: "2026-10-24T20:49:56-04:00"
 connected_faqs: [how-ai-impacts-students, study-with-ai]
 weight: 60
 type: faq
@@ -11,7 +11,7 @@ research_method: [survey, structural equation modeling]
 audience: [instructors, administrators]
 level: [higher ed, secondary, k 12]
 translation_of: faqs/ai-anxiety-wellbeing
-source_updated: "2026-10-02T08:21:34-04:00"
+source_updated: "2026-10-21T14:32:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -22,8 +22,6 @@ ai_assist:
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
-
-# Wie beeinflusst KI Angst und Wohlbefinden von Studierenden, und was können wir tun?
 
 **Die Situation, in der Sie wahrscheinlich sind.** Ein Student erzählt Ihnen in der Sprechstunde oder auf einem Aufnahmeformular, dass es sich nicht mehr lohne, das Studium abzuschließen, weil KI die Arbeit schon jetzt erledigen könne, für die er sich ausbilde. Ein anderer verstummt, reicht weniger ein, stellt keine Fragen mehr. Sie wollen helfen, Sie sind unsicher, ob das eine Weiterverweisung oder eine Strategie braucht, und Sie haben zehn Minuten zu entscheiden.
 
@@ -54,7 +52,7 @@ Normale Anpassung klingt wie *„Ich weiß noch nicht, wie ich das gut nutze."* 
 
 Das Design folgt daraus: geben Sie Studierenden Meisterungserfahrungen und konkrete Belege, dass KI die Anstrengung wert ist – risikoarme Übung, angeleitete Bewertung von KI-Ausgaben, feedbackgetriebene Überarbeitung – und bieten Sie Unterstützung, die informational statt rein tröstend ist. Wahrgenommene Unterstützung geht günstigen Einschätzungen voraus.
 
-**Vermitteln Sie Prüfung statt Vermeidung.** Angst und Engagement können sich gemeinsam bewegen, was verändert, was Sie tun. In einer Befragung von 107 Studierenden findet [[ai-anxiety-strategic-regulation-writing-2026|Kim (2026)]] höhere KI-Angst positiv assoziiert mit Verifikations- und Überarbeitungsverhalten (β = .24, p = .01) und Bewertungskompetenz als Prädiktor aktiven Engagements (β = .46, p < .001), und sortiert Studierende in vier Regulationstypen von unkritischer Abhängigkeit (18.7%) über selektive Integration (34.6%) und bewertende Transformation (31.8%) bis zu strategischer Ablehnung (14.9%). Die Implikation läuft gegen Angstreduktion als Ziel: Prüfung und Bewertungsurteil zu vermitteln macht ängstliche Studierende zu absichtlicheren Nutzenden [[generative-ai|generativer KI]] statt zu vermeidenderen, was diese Seite mit [[verify-ai-output|der Vermittlung, KI-Ausgaben zu verifizieren]] und mit [[ai-literacy]] verbindet.
+**Vermitteln Sie Prüfung statt Vermeidung.** Angst und Engagement können sich gemeinsam bewegen, was verändert, was Sie tun. In einer Befragung von 107 Studierenden findet [[ai-anxiety-strategic-regulation-writing-2026|Kim (2026)]] höhere KI-Angst positiv assoziiert mit Verifikations- und Überarbeitungsverhalten (β = .24, p < .01) und Bewertungskompetenz als Prädiktor aktiven Engagements (β = .46, p < .001), und sortiert Studierende in vier Regulationstypen von unkritischer Abhängigkeit (18.7%) über selektive Integration (34.6%) und bewertende Transformation (31.8%) bis zu strategischer Ablehnung (14.9%). Die Implikation läuft gegen Angstreduktion als Ziel: Prüfung und Bewertungsurteil zu vermitteln macht ängstliche Studierende zu absichtlicheren Nutzenden [[generative-ai|generativer KI]] statt zu vermeidenderen, was diese Seite mit [[verify-ai-output|der Vermittlung, KI-Ausgaben zu verifizieren]] und mit [[ai-literacy]] verbindet.
 
 **Bauen Sie Karriereanpassungsfähigkeit auf statt nur Selbstsicherheit.** [[duan-ai-anxiety-career-decisions-college-2026|Duan et al. (2026)]] schließen, dass Karriereanpassungsfähigkeit der zentrale Schutzmechanismus ist, und empfehlen, KI-Kompetenz- und Karriereplanungskurse neben Industrie-Bildung-Integration zu verallgemeinern. [[dag-ai-perceptions-career-anxiety-health-2026|Dağ et al. (2026)]] kommen aus den Gesundheitswissenschaften zum selben Schluss: erweiterte Programme plus KI-Kompetenz und Karriereberatung, weil KI-Angst die berufliche Zukunft der Studierenden prägt statt ihre Einstellung zu einem Werkzeug.
 

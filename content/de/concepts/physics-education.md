@@ -1,17 +1,18 @@
 ---
 title: Physikbildung
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-10T09:04:27-04:00"
+updated: "2026-10-24T23:30:00-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [socratic-method]
 technology: [generative-ai, intelligent-tutoring]
 discipline: [physics education, stem education]
 audience: [learners, instructors]
+connected_resources: [teacher-dev]
 level: [higher ed]
 confidence: high
 translation_of: concepts/physics-education
-source_updated: "2026-10-06T18:35:00-04:00"
+source_updated: "2026-10-23T08:03:41-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -46,11 +47,15 @@ Physikbildungs-[[research-methods-aied|Forschung]] ist ein Erprobungsgelände f�
 
 **Erkenntnistheoretische Überzeugungen spüren Chatbot-Verhaltenspräferenz.** In einem großen Analysis-basierten Kurs bevorzugten 52% der Studierenden einen Chatbot, der mit geleiteter Forschung beginnt und nur antwortet, wenn gefragt, und sie erzielten höhere EBAPS-Gesamtwerte (p = 0.029) — Unterschiede, die eine Bonferroni-Korrektur nicht überlebten, was die Assoziation aufschlussreich, nicht schlüssig macht ([[physics-chatbot-epistemological-beliefs-2026|Sirnoorkar und Mamidpalliwar (2026)]]).
 
+Annahme wurde inzwischen modelliert statt nur beschrieben: Eine Strukturgleichungsstudie mit 340 Studierenden der Klasse 10 in Physikklassen in Hangzhou erklärt 58% der Varianz der Absicht, DeepSeek zu nutzen. Ihr bemerkenswertes Ergebnis ist, dass Überzeugungen über Physik — Nutzwert, Erwartung, Kosten — vorhersagen, wie nützlich und wie einfach das Werkzeug erscheint, nicht nur ob Studierende die Absicht haben, es zu nutzen ([[high-school-genai-acceptance-tam-physics-2026|Xue, Xu, Qi & Lu (2026)]]).
+
 **Wahrnehmungsveränderung ohne Verhaltensveränderung** ist das, was [[physics-students-llm-perceptions-instruction-2026|O'Brien et al. (2026)]] zu diesem Bild hinzufügen. Eine reflexive Lektion darüber, wie LLMs funktionieren, gelehrt in einem Pflichtkurs für Physikstudierende im ersten Jahr, erhöhte Skepsis scharf — die Zustimmung, dass LLMs Studierende mit einem falschen Gefühl des Vertrauens zurücklassen können, stieg von 58% auf 88%, und der Glaube, dass ein LLM den durchschnittlichen Physikstudierenden übertrifft, fiel von 54% auf 32% —, während Annehmlichkeit (71% Zustimmung) und Abgabedruck (65%) die dominanten Nutzungsgründe blieben. Die Grenzen der Lektion sind so informativ wie ihr Effekt: [[ai-literacy|KI-Kompetenz]]-Unterricht verschob, was Studierende über diese Werkzeuge sagten, und nicht die Drücke, die sie nach einem greifen lassen, weshalb eine Intervention dieser Art neben Problem- und Richtliniendesign gehört statt an dessen Stelle.
 
 Probleme formulieren macht die lernende Person zur Problemautorin: 76% von 49 Physikstudierenden nahmen eine positive Veränderung ihrer GenAI-Interaktionen nach Prompt-Engineering-Training wahr, wobei Novizen am meisten profitierten, und etwa 68% sahen die Technik positiv als Selbststudium ([[genai-assisted-problem-posing-physics-2026|Dawson & Rebello (2026)]]).
 
 **Assessment und computational thinking** untersucht, wie KI physikalisches Lernen evaluieren kann. **[[llm-computational-thinking-physics-2026|Savage et al.]]** nutzten LLMs, um Wachstum in [[computational-thinking|computational thinking]] in der Einführungsphysik zu bewerten, und fanden, dass LLMs CT-Assessment skalieren können, aber mit komplexen Konstrukten wie Systems Thinking ringen. **[[ai-scoring-language-bias-physics|Feser & Tschisgale]]** demonstrierten, dass KI-Bewertung die Physikerklärungen sprachlich schwacher Studierender systematisch unterschätzt — ein Befund, der sich mit [[assessment-validity|Validität von Assessments]], [[bias-mitigation|Bias-Minderung]] und [[equity-in-ai-education|Gerechtigkeit]] verbindet.
+
+**Die Abweichung einer KI-Benotung kann ein Versagen des Abrufs sein, keine Lücke im Schlussfolgern.** In Laborberichten zur Experimentalphysik erreichen ein verlorenes Vorzeichen oder eine falsch gelesene Achse das Modell möglicherweise nie, sodass Dokumentbedingungen — hochauflösende PDFs, im Editor geschriebene Gleichungen — jede Punktzahl nach oben begrenzen, und die Verarbeitung gehört hinter die Verifikation durch die Lehrkraft ([[ai-assisted-physics-lab-report-assessment-2026|Abreu et al. (2026)]]).
 
 **Psychometrische Infrastruktur für diagnostisches Assessment.** [[mechanics-cognitive-diagnostic-physics-2026|Le et al. (2026)]] invertieren die übliche KI-in-Physik-Frage: statt zu fragen, ob ein Modell Physik lösen oder bewerten kann, fragen sie, ob die eigenen forschungsbasierten [[assessment|Assessments]] des Felds dahin gebracht werden können, sie zu diagnostizieren. Indem sie FCI-, FMCE- und EMCS-Items auf 14 feinkörnige Lernziele abbilden und ein DINA-kognitives Diagnosemodell an 24.394 Nachtestantworten aus 807 Kursen an 79 Institutionen über die LASSO-Plattform anpassen, bauten sie die Mechanik-[[cognitive-diagnosis|Kognitive Diagnose]] — berichtet als der erste kognitive diagnostische computeradaptive Test in Physik. FCI und EMCS passten gut (RMSEA² = 0.033 und 0.022), während die FMCE nur marginal passte (0.065), und die Autoren führen jene Fehlpassung auf Instrumentendesign statt Modellierung zurück: 42 von 43 bewerteten FMCE-Items teilen Szenarienstämme in verketteten Sets, was die lokale Itemabhängigkeit erzeugt, die DINAs Bedingte-Unabhängigkeit-Annahme verbietet (die FCI blockiert 13 von 30 Items; die EMCS keine). Klassifikationsgenauigkeit erfüllte den niedrigschwelligen [[formative-assessment|formativen]] Benchmark für 19 von 22 Objektiv-Assessment-Kombinationen; die drei Fehlschläge waren EMCS-Energieziele, deren Items sich um etwa 70 Prozent überschneiden, sodass Beherrschung des einen nicht von den anderen getrennt werden kann. Die Bedeutung für Physikunterricht ist, dass Instrumente, die Kurse bereits administrieren, umgenutzt werden können, um umsetzbares Feedback auf Objektivebene *während* des Unterrichts zu liefern statt einen retrospektiven Nachtestpunktewert —, vorausgesetzt, die diagnostischen Behauptungen werden auf der Auflösung formuliert, die die Itembank tatsächlich stützen kann.
 
@@ -88,6 +93,7 @@ Physikbildung sitzt innerhalb der breiteren [[stem-education|STEM]]-Domäne, hat
 
 - **Gestalten Sie für Vertrauen der Studierenden, nicht nur für Übernahme.** [[fouad-bentley-trust-utility-gap-physics-2026|Fouad & Bentley]] dokumentieren eine Vertrauens-Nutzen-Lücke von 50 Punkten (91% Nutzung, 41% Vertrauen), wobei Studierende KI-Versagen in visuell-räumlichem Schlussfolgern und Schaltkreisen identifizieren — schaffen Sie Gelegenheiten, diese Grenzen offenzulegen und zu diskutieren, statt Akzeptanz anzunehmen.
 - **Nutzen Sie sokratische KI, um Fragequalität zu vertiefen, aber achten Sie auf strategisches Abtreten.** [[hashmi-socratic-physics-chatbot-2025|Sokratische Chatbots]] verbessern Fragenspezifität, dennoch findet [[socratic-ai-physics-tutor-taxonomy-2026|Taxonomieforschung]], dass meta-prozedurale Züge dominieren — Studierende überlassen dem Tutor strategische Kontrolle. Greifen Sie ein, um Studierende die Entscheidenden bleiben zu lassen.
+- **Ein sorgfältig konstruierter Tutor schlug [[active-learning|aktives Lernen]] im Klassenraum.** [[kestin-ai-tutoring-outperforms-active-learning-rct-2025|Kestin et al. (2025)]] fanden, dass 194 Studierende der Lebenswissenschaften in Harvard mehr aus dem eigenen KI-Tutor des Kurses lernten als aus forschungsbasierten aktiven Lernunterrichtseinheiten zum selben Inhalt (mittlerer Nachtestwert 4,5 gegenüber 3,5), mit höher gemeldetem Engagement und [[motivation|Motivation]], wobei sie expertenhaft gestalteten Prompts und [[edtech-platform|plattform]]sequenzierten Aufgaben zuschrieben statt der Technologie allein.
 - **Strukturieren Sie KI-Nutzung kognitiv, nicht nur permissiv.** [[airis-cognitively-activated-ai-physics-2026|AIRIS]] (Activate–Inquire–Reflect) zeigt den Wert davon, Studierende vor der KI vorhersagen/gliedern zu lassen, rechnerische Schritte zu delegieren, während sie Ausgabe kritisch vergleichen, und nachher zu reflektieren — behandeln Sie KI-Integration als Instruktionsdesignproblem, und testen Sie, ob Lernen das Entfernen von KI überlebt. In einem randomisierten Test mit 95 Studierenden hoben 45 Minuten SRL-abgestimmten Trainings an Mechanikproblemen die Genauigkeit, als Studierende später Elektromagnetismus-Items mit einem Modell überarbeiteten: 69.3% ihrer falschen Antworten wurden richtig gegenüber 41.3% bei untrainierten Kontrollen (d = 0.81) ([[structured-genai-training-physics-problem-solving-rct-2026|Huang et al. (2026)]]).
 - **Sichern Sie gegen Bewertungsbias ab.** [[ai-scoring-language-bias-physics|KI-Bewertung]] unterschätzt systematisch die Erklärungen sprachlich schwächerer Studierender; nutzen Sie sprachbewusste oder menschlich moderierte Bewertung für konzeptuelles Assessment.
 - **Nutzen Sie simulierte Klassenzimmer für Lehrkräftevorbereitung.** [[multiagent-classroom-dual-process-physics-teachers-2026|Simulierte Multi-Agenten-Klassenzimmer]] geben angehenden Lehrkräften seltene Übung, auf authentisches Schlussfolgern von Studierenden zu reagieren —, eine kostengünstige Ergänzung zu live Microteaching.
@@ -120,10 +126,11 @@ Physikbildung sitzt innerhalb der breiteren [[stem-education|STEM]]-Domäne, hat
 
 ## Verbundene Artikel
 
-- [[genai-video-engineering-physics-workflow-2026]] — From Prompts to Physical Laws: A Generative AI Workflow for Engineering Physics Education
-- [[wang-teacher-student-centered-agents-physics-2026]] — Teacher-centered vs. student-centered prompt-engineered physics agents (Wang et al. 2026)
+- [[high-school-genai-acceptance-tam-physics-2026]] — Akzeptanz von GenAI modelliert in Klasse 10 Physik
+- [[genai-video-engineering-physics-workflow-2026]] — Von Prompts zu physikalischen Gesetzen: ein generativer KI-Arbeitsablauf für die Ingenieurphysik-Bildung
+- [[wang-teacher-student-centered-agents-physics-2026]] — Lehrkraftzentrierte versus studierendenzentrierte prompt-technisch gestaltete Physik-Agenten (Wang et al. 2026)
 - [[omniphys-multimodal-physics-benchmark-2026]]
-- [[benzion-ai-physics-simulations-virtual-lab]] — Using AI to rapidly generate physics simulations / virtual labs (Ben-Zion et al. 2025)
+- [[benzion-ai-physics-simulations-virtual-lab]] — KI nutzen, um rasch Physiksimulationen / virtuelle Labore zu erzeugen (Ben-Zion et al. 2025)
 - [[hashmi-socratic-physics-chatbot-2025]]
 - [[socratic-ai-physics-tutor-taxonomy-2026]]
 - [[fouad-bentley-trust-utility-gap-physics-2026]]
@@ -137,13 +144,13 @@ Physikbildung sitzt innerhalb der breiteren [[stem-education|STEM]]-Domäne, hat
 - [[embodied-inquiry-ai-facilitator-physics-2026]]
 - [[probing-ai-generated-physics-solutions-2026]]
 - [[genai-assisted-problem-posing-physics-2026]]
-- [[airis-cognitively-activated-ai-physics-2026]] — AIRIS: A Framework for Cognitively Activated AI Augmentation in Physics
-- [[ai-grading-handwritten-physics-2026]] — AI grading of handwritten physics assessments (Olympiad)
-- [[ai-particle-physics-education-redesign-2026]] — AI in Particle Physics Education: Research Problems and Foundational Skills
-- [[mechanics-cognitive-diagnostic-physics-2026]] — Mechanics Cognitive Diagnostic: turning the FCI, FMCE and EMCS into a 14-objective cognitive diagnostic (Le et al. 2026)
-- [[physics-students-llm-perceptions-instruction-2026]] — Skepticism vs. Convenience: Physics Students' Perceptions and Use of Large Language Models Before and After Instruction
-- [[context-prompts-physics-assignments-2026]] — Artificial Intelligence Driven Physics Assignments using Context Prompts
-- [[ai-assisted-physics-lab-report-assessment-2026]] — AI-Assisted Assessment of Experimental Physics Laboratory Reports: Potential, Limitations, and Support for Teaching Practice
-- [[physicsmate-bengali-secondary-physics-benchmark-2026]] — PhysicsMate: 1,834 Bengali secondary-physics QA pairs mapped to a 1,760-node curriculum graph, with small-model adaptation gains
-- [[ai-university-physics-education-review-2026]] — Artificial intelligence in university physics education: a systematic review of empirical studies
-- [[structured-genai-training-physics-problem-solving-rct-2026]] — Structured GenAI training for physics problem revision: a randomized controlled trial (Huang et al. 2026)
+- [[airis-cognitively-activated-ai-physics-2026]] — AIRIS: ein Rahmenwerk für kognitiv aktivierte KI-Augmentierung im Physikunterricht
+- [[ai-grading-handwritten-physics-2026]] — KI-Benotung handschriftlicher Physik-Assessments (Olympiade)
+- [[ai-particle-physics-education-redesign-2026]] — KI in der Teilchenphysik-Bildung: Forschungsprobleme und Grundlagenfähigkeiten
+- [[mechanics-cognitive-diagnostic-physics-2026]] — Mechanics Cognitive Diagnostic: die FCI, FMCE und EMCS in eine kognitive Diagnose mit 14 Lernzielen verwandeln (Le et al. 2026)
+- [[physics-students-llm-perceptions-instruction-2026]] — Skepsis versus Annehmlichkeit: Wahrnehmung und Nutzung großer Sprachmodelle durch Physikstudierende vor und nach der Unterrichtseinheit
+- [[ai-assisted-physics-lab-report-assessment-2026]] — KI-gestützte Bewertung experimenteller Physik-Laborberichte: Potenzial, Grenzen und Unterstützung der Unterrichtspraxis
+- [[physicsmate-bengali-secondary-physics-benchmark-2026]] — PhysicsMate: 1.834 bengalische Secondary-Physik-Frage-Antwort-Paare, die auf einen 1.760-Knoten-Lehrplan-Graphen abgebildet sind, mit Anpassungsgewinnen kleiner Modelle
+- [[ai-university-physics-education-review-2026]] — Künstliche Intelligenz in der universitären Physikbildung: ein systematischer Review empirischer Studien
+- [[structured-genai-training-physics-problem-solving-rct-2026]] — Strukturiertes GenAI-Training zur Überarbeitung von Physikproblemen: ein randomisierter kontrollierter Test (Huang et al. 2026)
+- [[kestin-ai-tutoring-outperforms-active-learning-rct-2025]] — Ein sorgfältig konstruierter Tutor schlug das aktive Lernen im Klassenraum

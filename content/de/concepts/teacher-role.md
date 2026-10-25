@@ -1,7 +1,7 @@
 ---
 title: Lehre
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-10T09:04:25-04:00"
+updated: "2026-10-24T22:50:00-04:00"
 type: concept
 foundations: [ai-literacy, educational-development, learning-design, teacher-ai-competency]
 pedagogy: [scaffolding]
@@ -11,7 +11,7 @@ level: [k 12, higher ed]
 connected_faqs: [top-10-findings-ai-education-instructors, ai-save-instructor-time, faculty-ai-competencies, faculty-development-ai, asynchronous-online-courses-ai, making-simulated-students-behave-like-learners]
 confidence: high
 translation_of: concepts/teacher-role
-source_updated: "2026-10-15T08:25:00-04:00"
+source_updated: "2026-10-22T12:02:21-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -125,6 +125,7 @@ Akademische Integrität mit KI ist ein *Design*problem, kein Überwachungsproble
 - **Offenlegung und Rahmung nutzen.** [[framing-ai-use-for-students|Wie die KI-Nutzung für Studierende eingeordnet wird]] — ob als Krücke oder legitimes Werkzeug — prägt, ob sie sie offenlegen. [[explainable-ai|Transparenz]]-Normen (etwa Offenlegung der KI-Nutzung) reduzieren den Anreiz, KI-Nutzung zu verbergen.
 - **Den Anreiz zu betrügen weggestalten.** Authentische, prozessbasierte und Präsenz-Assessments (mündliche Prüfungen, [[eportfolio|Portfolios]], beobachtetes [[problem-solving|Problemlösen]]) machen Auslagerung weniger attraktiv, als es KI-Detektionswerkzeuge tun. [[ai-assessment-scale-reform|Assessment-Skalen]] und [[authentic-assessment|authentisches Assessment]] sind die konstruktive Alternative zu [[ai-detection|Detektions]]-Wettrüsten.
 - **[[regulation|Regulierung]] auf Aufgabenebene ist, wie Lehrende KI tatsächlich governen.** [[chirikov-regulate-ai-syllabi-2026|Chirikovs (2026)]] Studie von über 31.000 Kurssyllabi zeigt Lehrende zunehmend als *Aufgabenebenen-Regulierer* statt als Anwender pauschaler Regeln: Sie beschränken KI für Entwerfen/Überarbeiten (79% der Kurse) und Schlussfolgern/Problemlösen (65%), erlauben sie für Redigieren/Korrekturlesen (83%) und Lernunterstützung (80%), und lassen Ideation/Planung am meisten umstritten (46% erlauben / 54% beschränken). Diese Differenzierung — aufgebaut darauf, welche Aufgaben KI verdrängt versus erweitert — ist eine konkrete, von Lehrenden getriebene Alternative zur Übernahme-oder-Verbot-Politik und gibt der Rolle der Lehrkraft einen zentralen Platz in der [[educational-policy-ai|Politik]]-Gestaltung.
+- **Sessionale Lehrkräfte tragen die Benotungslast ohne das Mandat.** Zwanzig Casual Academics, manche gleichzeitig an drei oder mehr Einrichtungen unterrichtend, beschrieben das Erkennen von Fehlverhalten durch untrainiertes Handwerk, während sie keinerlei Curriculum- oder Politikautorität innehatten ([[sessional-academics-contract-cheating-digital-misconduct-2026|Andriamora & Andriamora, 2026]]).
 
 ## Lehre mit Lerndesign verbinden
 
@@ -179,50 +180,52 @@ Rolle der Lehrkraft und [[learner-identity|Identität der Lernenden]] sind rezip
 - [[stakeholders]] — Überblicksseite: Menschen und Zielgruppen in der KI-Bildung (Lernende, Lehrende, Designende, Administration, Politik)
 
 ## Verbundene Artikel
-- [[caeo-navigating-ai-educational-future-scenarios-2026]] — The more-human paradox: expert 2030 scenarios find AI saturation intensifies rather than displaces human pedagogical work (Malyn-Smith et al. 2026)
-- [[teachers-instrumental-orchestration-ai-math-2026]] — Six observed high school mathematics lessons extend instrumental orchestration with three new types (Noh & Kim 2026)
-- [[ai-emotional-alerts-teachers-mathematics-classroom-2026]] — Responding to AI-generated emotional alerts: teachers' intervention and students' engagement in the mathematics classroom
 
-- [[edustories-classroom-case-studies-2026]] — Edustories: A Collection of Real-world Case Studies from Classroom Practices
-- [[reichert-human-centered-llm-chatbot-design-teachers-2026]] — Teachers design classroom chatbots as bounded experts and retain authority
-- [[dai-genai-frenemy-teaching-autonomy-2026]] — GenAI as "frenemy": teachers prefer semi-autonomy, usefulness drives adoption, risk aversion targets students' use (Dai et al. 2026)
-- [[ai-supported-lecturer-decision-making-2026]] — AI-Supported Lecturer Decision-Making in Higher Education
-- [[chirikov-regulate-ai-syllabi-2026]] — How instructors regulate AI across 31,000 course syllabi; task-level regulation (Chirikov 2026)
-- [[ai-teaching-innovation-ai-tpack-2026]] — AI teaching innovation behavior among college teachers (AI-TPACK SEM; Bai & Hsieh 2026)
+- [[sessional-academics-contract-cheating-digital-misconduct-2026]] — Casual Academics tragen die Integritätsarbeit ohne die Autorität
+- [[caeo-navigating-ai-educational-future-scenarios-2026]] — Das menschlichere Paradox: Expertinnen- und Experten-2030-Szenarien finden, dass KI-Sättigung menschliche pädagogische Arbeit verstärkt statt verdrängt (Malyn-Smith et al. 2026)
+- [[teachers-instrumental-orchestration-ai-math-2026]] — Sechs beobachtete Oberstufen-Mathematikstunden erweitern die instrumentale Orchestrierung um drei neue Typen (Noh & Kim 2026)
+- [[ai-emotional-alerts-teachers-mathematics-classroom-2026]] — Reaktionen auf KI-generierte emotionale Warnungen: Intervention der Lehrkraft und Engagement der Studierenden im Mathematikunterricht
+
+- [[edustories-classroom-case-studies-2026]] — Edustories: Eine Sammlung realer Fallstudien aus der Klassenraumpraxis
+- [[reichert-human-centered-llm-chatbot-design-teachers-2026]] — Lehrkräfte gestalten Klassenraum-Chatbots als begrenzte Experten und behalten die Autorität
+- [[dai-genai-frenemy-teaching-autonomy-2026]] — GenAI als "Freund-Feind": Lehrkräfte bevorzugen Semi-Autonomie, Nützlichkeit treibt Übernahme, Risikoaversion zielt auf die Nutzung durch Studierende (Dai et al. 2026)
+- [[ai-supported-lecturer-decision-making-2026]] — KI-gestützte Entscheidungsfindung von Lehrenden in der Hochschulbildung
+- [[chirikov-regulate-ai-syllabi-2026]] — Wie Lehrende KI über 31.000 Kurssyllabi hinweg regulieren; Regulierung auf Aufgabenebene (Chirikov 2026)
+- [[ai-teaching-innovation-ai-tpack-2026]] — KI-gestütztes Unterrichtsinnovationsverhalten unter Hochschullehrkräften (AI-TPACK SEM; Bai & Hsieh 2026)
 - [[teacher-ai-teaming-five-levels]]
 - [[teacher-student-agency-orchestration]]
 - [[ai-changing-teaching-workflows]]
 - [[teacher-authored-prompts-student-ai-dialogue]]
-- [[laidlaw-genai-identity-crisis-faculty-2026]] — GenAI as identity crisis, not skills gap
-- [[lodge-loble-cognitive-offloading-2026]] — AI, cognitive offloading and implications for education (Lodge & Loble 2026)
-- [[kibar-ilgaz-ai-instructional-design-review-2026]] — AI and Instructional Design Practice: A Systematic Review (Kibar & Ilgaz 2026)
-- [[lopez-pernas-llm-appropriate-student-support-2026]] — Can AI deliver appropriate support for diverse student profiles? A large-scale evaluation
-- [[bozkurt-ghost-students-agentic-ai-2026]] — Ghost students and agentic AI in assessment
-- [[wang-teacher-ai-co-design-review-2026]] — Teacher–AI co-design of learning tasks: trends and perspectives (Wang et al. 2026)
-- [[farazouli-navigating-uncertainty-teachers-genai-2026]] — University teachers' experiences and perceptions of GAI: vulnerability, rethinking assessment, student learning at risk (Farazouli et al. 2026)
-- [[luo-dawson-value-judgments-grading-2026]] — Value judgments in grading GenAI-assisted work: honesty, trust, validity, and two-way transparency (Luo & Dawson 2026)
-- [[mejia-domenzain-ml-findings-teachers-blended-2026]] — Making ML findings accessible to teachers in blended classrooms
-- [[li-language-educators-genai-review-2026]] — Language educators' practices and development with GenAI
+- [[laidlaw-genai-identity-crisis-faculty-2026]] — GenAI als Identitätskrise, nicht als Kompetenzlücke
+- [[lodge-loble-cognitive-offloading-2026]] — KI, kognitive Entlastung und Implikationen für die Bildung (Lodge & Loble 2026)
+- [[kibar-ilgaz-ai-instructional-design-review-2026]] — KI und Instruktionsdesign-Praxis: Ein systematischer Review (Kibar & Ilgaz 2026)
+- [[lopez-pernas-llm-appropriate-student-support-2026]] — Kann KI angemessene Unterstützung für vielfältige Studierendenprofile bieten? Eine großmaßstäbliche Evaluation
+- [[bozkurt-ghost-students-agentic-ai-2026]] — Ghost-Studierende und agentische KI im Assessment
+- [[wang-teacher-ai-co-design-review-2026]] — Lehrkraft-KI-Co-Design von Lernaufgaben: Trends und Perspektiven (Wang et al. 2026)
+- [[farazouli-navigating-uncertainty-teachers-genai-2026]] — Erfahrungen und Wahrnehmungen von GAI durch Universitätslehrkräfte: Verletzlichkeit, Neudenken des Assessments, gefährdetes Lernen der Studierenden (Farazouli et al. 2026)
+- [[luo-dawson-value-judgments-grading-2026]] — Werturteile bei der Benotung GenAI-gestützter Arbeit: Ehrlichkeit, Vertrauen, Validität und zweiseitige Transparenz (Luo & Dawson 2026)
+- [[mejia-domenzain-ml-findings-teachers-blended-2026]] — ML-Befunde für Lehrkräfte in Blended-Classroom-Settings zugänglich machen
+- [[li-language-educators-genai-review-2026]] — Praktiken und Entwicklung von Sprachlehrenden mit GenAI
 - [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
 - [[breideband-community-builder-cobi-2026]]
 - [[zhuang-zhang-chatgpt-math-teacher-education-2026]]
 - [[xai-teachers-trust-edtech-recommendations-2026]]
 - [[karaismailoglu-ai-lesson-plans-science-experts-2026]]
 - [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]
-- [[ai-integrated-teaching-identity-tensions]] — Identity tensions and principled selectivity in AI-integrated teaching (Adiozaman & Segar 2026)
-- [[teacher-intervention-k12-ai-based-instruction-2026]] — Teacher intervention in K-12 AI-based instruction: a systematic review
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Academic developers as digital mediators: role reconfiguration, affective labor and judgment in South African HDIs
-- [[where-ai-enters-teacher-work-2026]] — Where Artificial Intelligence Enters Teacher Work
-- [[rodrigues-aied-unplugged-numeracy-2026]] — AIED unplugged: the teacher as proxy between learners and the AI, 19-class quasi-experiment where training and indirect effort reduction drive gains (Rodrigues et al. 2026)
-- [[instructional-governance-design-computing-education-2026]] — Instructional Governance by Design: A Framework for AI in Computing Education
+- [[ai-integrated-teaching-identity-tensions]] — Identitätsspannungen und prinzipielle Selektivität im KI-integrierten Unterricht (Adiozaman & Segar 2026)
+- [[teacher-intervention-k12-ai-based-instruction-2026]] — Lehrkräfte-Intervention in KI-basiertem K-12-Unterricht: ein systematischer Review
+- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Akademische Entwickelnde als digitale Vermittler: Rollenrekonfiguration, affektive Arbeit und Urteilen an südafrikanischen historisch benachteiligten Einrichtungen
+- [[where-ai-enters-teacher-work-2026]] — Wo Künstliche Intelligenz in die Arbeit von Lehrkräften eintritt
+- [[rodrigues-aied-unplugged-numeracy-2026]] — AIED unplugged: die Lehrkraft als Stellvertretung zwischen Lernenden und der KI, ein Quasi-Experiment über 19 Klassen, in dem Training und indirekte Anstrengungsreduktion die Gewinne antreiben (Rodrigues et al. 2026)
+- [[instructional-governance-design-computing-education-2026]] — Instruktions-Governance by Design: Ein Rahmen für KI in der Informatikbildung
 
-- [[teachers-configure-educational-chatbots-2026]] — Will It Teach as Intended? How Teachers Configure Educational AI Chatbots
-- [[canonigo-teacher-mediation-generative-ai-mathematics-2026]] — Teacher mediation in mathematics: five critical-mediation practices, shifting authority, and the free-versus-premium algorithmic divide
-- [[charles-teacher-readiness-by-design-ai-rich-2026]] — Teacher readiness-by-design: readiness as design capability, not adoption or confidence (Charles 2026)
-- [[chen-chatgpt-assisted-teacher-feedback-critical-thinking-2026]] — ChatGPT-assisted teacher feedback: teachers curate AI drafts rather than relay them
-- [[fagerlund-competency-agency-purposes-ai-education-2026]] — From competency to agency: teachers' views of the purposes of AI education
+- [[teachers-configure-educational-chatbots-2026]] — Wird es so lehren, wie beabsichtigt? Wie Lehrkräfte KI-Chatbots für die Bildung konfigurieren
+- [[canonigo-teacher-mediation-generative-ai-mathematics-2026]] — Vermittlung durch die Lehrkraft in Mathematik: fünf Praktiken kritischer Vermittlung, wandernde Autorität und die algorithmische Kluft zwischen kostenlos und Premium
+- [[charles-teacher-readiness-by-design-ai-rich-2026]] — Lehrkräfte-Bereitschaft-durch-Design: Bereitschaft als Designfähigkeit, nicht als Übernahme oder Vertrauen (Charles 2026)
+- [[chen-chatgpt-assisted-teacher-feedback-critical-thinking-2026]] — ChatGPT-gestütztes Lehrkräfte-Feedback: Lehrkräfte kurieren KI-Entwürfe, statt sie weiterzuleiten
+- [[fagerlund-competency-agency-purposes-ai-education-2026]] — Von der Kompetenz zur Handlungsfähigkeit: Sichtweisen von Lehrkräften auf die Zwecke der KI-Bildung
 - [[kuhail-great-debaters-ai-facilitators-2026]] — Human versus AI debate moderators: equivalent ratings, different routes to reuse
-- [[yalcin-genai-programming-education-systematic-review-2026]] — GenAI in programming education: a systematic review in which instructor roles are least studied
-- [[heutagogical-teaching-ai-enhanced-education-2026]] — From information providers to learning designers: heutagogical teaching practices in AI-enhanced education
-- [[falhs-teacher-expertise-reflection-2025]] — How Expertise Levels Shape Preferences and Reflection Needs: Towards AI Reflection Systems for Teacher Empowerment (Falhs et al. 2025)
-- [[etq-ai-conversational-teacher-training-2026]] — Conversational AI diagnostic for teaching misconceptions with evidence-grounded dialogue (Miranda & Calvani 2026)
+- [[yalcin-genai-programming-education-systematic-review-2026]] — GenAI in der Programmierbildung: ein systematischer Review, in dem die Rollen der Lehrenden am wenigsten untersucht sind
+- [[heutagogical-teaching-ai-enhanced-education-2026]] — Von Informationsanbietenden zu Lerndesignern: heutagogische Lehrpraktiken in KI-verbesserter Bildung
+- [[falhs-teacher-expertise-reflection-2025]] — Wie Expertisestufen Präferenzen und Reflexionsbedürfnisse prägen: Hin zu KI-Reflexionssystemen für die Ermächtigung von Lehrkräften (Falhs et al. 2025)
+- [[etq-ai-conversational-teacher-training-2026]] — Konversationelle KI-Diagnostik für unterrichtete Missverständnisse mit evidenzverankertem Dialog (Miranda & Calvani 2026)

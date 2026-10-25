@@ -2,7 +2,7 @@
 connected_resources: [vibes-diy]
 title: Vibe-Coding
 created: "2026-09-08T01:30:00-04:00"
-updated: "2026-10-10T09:04:24-04:00"
+updated: "2026-10-24T21:28:11-04:00"
 type: concept
 foundations: [agentic-ai, ai-literacy, computational-thinking, human-ai-collaboration, teacher-role]
 technology: [generative-ai, llm, prompt-engineering]
@@ -83,13 +83,13 @@ Eine Fallstudie auf Ebene der Fakultät in dieser Wissensbasis liefert die organ
 
 ## Verbundene Artikel
 
-- [[vibe-coding-writing-cs-achievement-2026]] — Computer Science Achievement and Writing Skills Predict Vibe Coding Proficiency (CHI 2026 empirical study)
-- [[gaide-vibe-coding-k12-teachers]] — A Guiding Framework for K-12 Teachers in Creating AI-powered Learning Technologies through Vibe Coding
-- [[vibe-coding-programming-process-visualizer]] — From Idea to Classroom in Days: Using "Vibe Coding" to Create a Programming Process Visualizer from IDE Activity Logs
-- [[caee-vibe-coding-simulation-development-engineering-education-2026]] — Vibe coding built two engineering simulations in hours; diagnosing a protocol error still needed the instructor
-- [[prompt-problems-nl-programming-mistakes]] — Understanding Student Perceptions, Mistakes, and Debugging Approaches when Solving Natural Language Programming Tasks
-- [[code-to-learn-genai-artifact-construction-2026]] — Code to Learn with Generative AI: A Theoretically Grounded Framework for Artifact Construction in Upper-Secondary Education
-- [[reshaping-cs-education-genai]] — Reshaping Undergraduate CS Education for Generative AI
-- [[flowcode-ai-creative-coding]] — Flowcode: An AI-Powered Programming Environment for Scaffolding Iteration in Creative Computing Education
-- [[zimmer-ai-intrapreneurship-faculty-innovation-2026]] — AI intrapreneurship: faculty building their own tools, and the organizational enablers that decide whether the impulse survives (Zimmer 2026)
-- [[vibe-coding-design-diversity-2026]] — One Tool, One Taste? How Vibe Coding Trades Collective Diversity for Individual Creativity
+- [[vibe-coding-writing-cs-achievement-2026]] — Leistung in Informatik und Schreibfähigkeit sagen Vibe-Coding-Fertigkeit voraus (CHI 2026, empirische Studie)
+- [[gaide-vibe-coding-k12-teachers]] — Ein leitendes Rahmenwerk für K-12-Lehrkräfte, um KI-gestützte Lerntechnologien durch Vibe Coding zu erstellen
+- [[vibe-coding-programming-process-visualizer]] — Von der Idee zum Klassenraum in Tagen: mit „Vibe Coding“ einen Programmierprozess-Visualisierer aus IDE-Aktivitätsprotokollen erstellen
+- [[caee-vibe-coding-simulation-development-engineering-education-2026]] — Vibe Coding erstellte zwei Ingenieur-Simulationen in Stunden; das Diagnostizieren eines Protokollfehlers brauchte weiterhin die Dozierende bzw. den Dozierenden
+- [[prompt-problems-nl-programming-mistakes]] — Verständnis von Wahrnehmungen, Fehlern und Debugging-Ansätzen von Studierenden bei der Lösung von Programmieraufgaben in natürlicher Sprache
+- [[code-to-learn-genai-artifact-construction-2026]] — Code to Learn mit Generativer KI: ein theoretisch fundiertes Rahmenwerk für Artefaktkonstruktion in der Oberstufe
+- [[reshaping-cs-education-genai]] — Grundständige Informatikbildung für Generative KI neu gestalten
+- [[flowcode-ai-creative-coding]] — Flowcode: eine KI-gestützte Programmierumgebung zum Scaffolden von Iteration in der kreativen Computing-Bildung
+- [[zimmer-ai-intrapreneurship-faculty-innovation-2026]] — KI-Intrapreneurship: Fakultäten bauen ihre eigenen Werkzeuge, und die organisationalen Bedingungen, die entscheiden, ob der Impuls überlebt (Zimmer 2026)
+- [[vibe-coding-design-diversity-2026]] — Ein Werkzeug, ein Geschmack? Wie Vibe Coding kollektive Vielfalt gegen individuelle Kreativität eintauscht

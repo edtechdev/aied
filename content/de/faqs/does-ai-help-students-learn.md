@@ -1,16 +1,17 @@
 ---
 title: "Hilft KI-Nutzung meinen Studierenden tatsächlich beim Lernen?"
 created: "2026-08-25T09:20:00-04:00"
-updated: "2026-10-10T09:50:26-04:00"
+updated: "2026-10-24T20:46:40-04:00"
 connected_faqs: [evaluating-ai-interventions-methods, how-ai-impacts-students, top-10-findings-ai-education-instructors]
 weight: 90
+audience: [instructors]
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [active-learning]
 assessment: [assessment, self-report-measures]
 page_kind: [evaluation]
 methods: [ai-ed-evaluation]
 translation_of: faqs/does-ai-help-students-learn
-source_updated: "2026-10-02T08:21:34-04:00"
+source_updated: "2026-10-21T14:32:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -21,8 +22,6 @@ ai_assist:
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
-
-# Hilft KI-Nutzung meinen Studierenden tatsächlich beim Lernen?
 
 **Ja, das kann sie –, aber bessere Arbeit mit KI ist nicht notwendigerweise ein Beleg für besseres Lernen.** Forschung dokumentiert echte Lernvorteile, vernachlässigbare Effekte und Lernschäden. Die wichtige Frage ist nicht einfach, ob Studierende KI nutzen, sondern **was die KI ihnen zu tun hilft, welche Verantwortung beim Denken verbleibt, und was sie anschließend können**.
 

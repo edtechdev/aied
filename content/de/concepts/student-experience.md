@@ -1,7 +1,7 @@
 ---
 title: Erleben der Studierenden
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-10T09:04:25-04:00"
+updated: "2026-10-24T23:29:54-04:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [well-being]
@@ -124,8 +124,8 @@ Erleben der Studierenden verbindet sich mit [[cognitive-offloading|übermäßige
 - [[student-support-and-success]] — die institutionelle Seite der Unterstützung: was die Universität mit Studierenden tut, nicht was in einem Kurs passiert
 
 ## Verbundene Artikel
-- [[shame-guilt-ai-regulation-computing-education]] — Shame and guilt as social regulators of AI use
-- [[t2i-competence-paradox-2026]] — The competence paradox: creative identity in text-to-image GenAI use
+- [[shame-guilt-ai-regulation-computing-education]] — Scham und Schuld als soziale Regulatoren der KI-Nutzung
+- [[t2i-competence-paradox-2026]] — Das Kompetenzparadox: kreative Identität bei der Nutzung von Text-zu-Bild-GenAI
 - [[best-response-student-ai-dialog-2026]]
 - [[chatgpt-perception-online-learning-engagement-2026]]
 - [[ai-tools-academic-work-cheating-2026]]
@@ -134,7 +134,7 @@ Erleben der Studierenden verbindet sich mit [[cognitive-offloading|übermäßige
 - [[ai-generated-interactive-fiction-education-2026]]
 - [[ai-in-the-wild-college]]
 - [[genai-availability-grades-satisfaction]]
-- [[student-rationalization-ai-writing]] — Student rationalization of AI use in academic writing (Kim et al. 2026)
+- [[student-rationalization-ai-writing]] — Studentische Rationalisierung der KI-Nutzung im akademischen Schreiben (Kim et al. 2026)
 - [[tracing-genai-literacy-interaction-patterns]]
 - [[misiejuk-cognitive-offloading-prompting-2026]]
 - [[ai-availability-student-motivation]]
@@ -142,25 +142,25 @@ Erleben der Studierenden verbindet sich mit [[cognitive-offloading|übermäßige
 - [[student-mental-models-genai]]
 - [[genai-usage-design-students-survey]]
 - [[spritz-ai-disciplinary-mediation-student-teams-2026]]
-- [[ithaka-sr-ai-skills-college-graduates-2026]] — AI-skills expectations for college graduates vs. institutional readiness
-- [[student-ai-inquiry-types-cs2-2026]] — Analysis of Types of Inquiries in Student-AI Interaction
-- [[lnenicka-secondary-students-genai-stem-2026]] — What secondary students do with GenAI tools across STEM
-- [[dai-chatbots-problem-posing-primary-2026]] — GenAI chatbots and problem posing in primary science
-- [[bassett-ai-detectors-education-2026]] — Heads we win, tails you lose: AI detectors in education (Bassett et al. 2026)
-- [[wang-safety-gap-productive-struggle-2026]] — The Safety Gap: Restoring Productive Struggle
-- [[aivaluate-anxiety-assessment-2026]] — AIvaluate: LLM-Augmented Assessment of Student Anxiety (2026)
-- [[kim-ai-anxiety-comprehensive-analysis]] — A comprehensive analysis of AI anxiety
-- [[student-perceptions-ai-study-productivity-2026]] — Students' Perceptions of Artificial Intelligence Tools for Study Productivity and Learning: An Exploratory Survey Study
-- [[teo-ai-adoption-tertiary-meta-analysis-2026]] — Post-secondary adoption perspective
-- [[pedlow-genai-selfassessment-2026]] — Raising ethical awareness of GenAI use through student self-assessment
-- [[dollinger-equitable-assessment-ai-2026]] — Equitable assessment in an AI era
-- [[longitudinal-ai-usage-ethics-policy-teacher-education-2026]] — Longitudinal GenAI usage, ethics, and policy in teacher education (Parker et al. 2026)
-- [[genai-use-usefulness-student-experience-australia-2026]] — Student experience of GenAI usefulness in Australian higher ed (Chung et al. 2026)
-- [[genai-decision-capability-cognitive-load-2026]] — GenAI and students' perceived decision capability (cognitive-load account)
-- [[genai-professionalization-metaphors-2026]] — GenAI conceptualizations and student professionalization
-- [[sidorkin-ai-generated-course-readings-2026]] — Students as auditors of their own AI-generated curriculum (Sidorkin 2026)
-- [[mulisa-students-genai-integrity-perspectives-2026]] — Students on whether GenAI is a cheating tool or a learning partner
-- [[munoz-misconduct-allegation-evidence-2026]] — What misconduct allegation files actually contain as evidence
-- [[wright-transcription-not-generation-2026]] — Over-inclusive AI rules and the students they catch
-- [[sharma-judgment-visible-genai-assessment-2026]] — Integrity as evaluative judgment rather than compliance
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] — Remote proctoring's emotional and equity costs for students
+- [[ithaka-sr-ai-skills-college-graduates-2026]] — KI-Fähigkeiten-Erwartungen an Hochschulabsolventinnen und -absolventen vs. institutionelle Bereitschaft
+- [[student-ai-inquiry-types-cs2-2026]] — Analyse der Arten von Anfragen in der Interaktion zwischen Studierenden und KI
+- [[lnenicka-secondary-students-genai-stem-2026]] — Was Schülerinnen und Schüler der Sekundarstufe mit GenAI-Werkzeugen in MINT-Fächern machen
+- [[dai-chatbots-problem-posing-primary-2026]] — GenAI-Chatbots und Problementwicklung im naturwissenschaftlichen Unterricht der Grundschule
+- [[bassett-ai-detectors-education-2026]] — Kopf gewinnen wir, Zahl verlierst du: KI-Detektoren in der Bildung (Bassett et al. 2026)
+- [[wang-safety-gap-productive-struggle-2026]] — Die Sicherheitslücke: produktives Ringen wiederherstellen
+- [[aivaluate-anxiety-assessment-2026]] — AIvaluate: LLM-gestützte Erfassung von Prüfungsangst bei Studierenden (2026)
+- [[kim-ai-anxiety-comprehensive-analysis]] — Eine umfassende Analyse zu KI-Angst
+- [[student-perceptions-ai-study-productivity-2026]] — Wahrnehmungen von Studierenden zu KI-Werkzeugen für Studienproduktivität und Lernen: eine explorative Umfragestudie
+- [[teo-ai-adoption-tertiary-meta-analysis-2026]] — Perspektive auf die Adoption in der postsekundären Bildung
+- [[pedlow-genai-selfassessment-2026]] — Ethisches Bewusstsein für die GenAI-Nutzung durch studentische Selbstbewertung stärken
+- [[dollinger-equitable-assessment-ai-2026]] — Gerechte Bewertung in einer KI-Ära
+- [[longitudinal-ai-usage-ethics-policy-teacher-education-2026]] — Langzeitliche GenAI-Nutzung, Ethik und Politik in der Lehrerbildung (Parker et al. 2026)
+- [[genai-use-usefulness-student-experience-australia-2026]] — Erfahrungen von Studierenden mit der Nützlichkeit von GenAI in der australischen Hochschulbildung (Chung et al. 2026)
+- [[genai-decision-capability-cognitive-load-2026]] — GenAI und die wahrgenommene Entscheidungsfähigkeit von Studierenden (kognitive-Belastung-Perspektive)
+- [[genai-professionalization-metaphors-2026]] — GenAI-Konzeptualisierungen und die Professionalisierung von Studierenden
+- [[sidorkin-ai-generated-course-readings-2026]] — Studierende als Auditorinnen und Auditoren ihres eigenen KI-generierten Curriculums (Sidorkin 2026)
+- [[mulisa-students-genai-integrity-perspectives-2026]] — Studierende zu der Frage, ob GenAI ein Werkzeug zum Betrügen oder ein Lernpartner ist
+- [[munoz-misconduct-allegation-evidence-2026]] — Was Verfahrenakten zu Vorwürfen von Fehlverhalten tatsächlich als Beweismittel enthalten
+- [[wright-transcription-not-generation-2026]] — Überinklusive KI-Regeln und die Studierenden, die sie erfassen
+- [[sharma-judgment-visible-genai-assessment-2026]] — Integrität als bewertendes Urteil statt als Konformität
+- [[harerimana-remote-proctoring-nursing-scoping-2026]] — Die emotionalen und gerechtigkeitsbezogenen Kosten der Fernaufsicht für Studierende

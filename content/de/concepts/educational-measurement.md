@@ -1,7 +1,7 @@
 ---
 title: Bildungsmessung
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-10-10T09:04:24-04:00"
+updated: "2026-10-25T00:10:53-04:00"
 type: concept
 foundations: [ai-literacy]
 technology: [educational-nlp, knowledge-tracing, learning-analytics]
@@ -23,6 +23,7 @@ ai_assist:
 
 > **Bildungsmessung** — die psychometrische Theorie und die Methoden zur Quantifizierung und Validierung von Lernen und seinen Konstrukten — zieht sich durch die Seiten [[item-response-theory]], [[knowledge-tracing]] und [[assessment-validity]] der Wissensdatenbank. Die Ära der [[llm|LLMs]] zwingt die Messung, klassische Psychometrie mit neuen KI-generierten Antwortströmen zu versöhnen: automatisierte Bewertung, KI-vorhergesagte Schwierigkeit und [[multimodal|multimodale]] Spuren müssen gegen etablierte Messprinzipien validiert werden, um Reliabilität und Validität zu bewahren.
 
+
 ## Fragen zum Nachdenken
 
 - Ein LLM sagt voraus, dass eine Prüfungsaufgabe leicht ist, doch empirische Testdaten sagen, Studierende finden sie schwer. Welchem [[trust|vertrauen]] Sie, und was würde Sie überzeugen, der Schätzung der Maschine zu vertrauen?
@@ -39,7 +40,9 @@ Bildungsmessung ist die Disziplin, Beobachtungen über Lernen — Antworten, Ver
 
 - **Das jahrzehntelange Umformen des Feldes durch KI:** [[xiong-ai-educational-measurement-review-2026|Xiong and Li (2026)]] kartieren den Einfluss der KI über drei Ären ([[formative-assessment|Formative]] 2015–2018, Expansion 2019–2022, Generative 2023–heute) über einen Efficiency–Enhancement–Transformation-Rahmen, der KI bei der Bewertung und [[automated-question-generation|Aufgabengenerierung]], psychometrischer Modellierung, Prüfungsinnovation und Prozessdaten sowie [[bias-mitigation|Fairness]]/Ethik/Gerechtigkeit umspannt. Sie argumentieren für ein neues Paradigma, das Messtheorie mit KI-Methoden integriert, und für eine Neukonzeptualisierung von Konstrukten im Kontext von Mensch-[[student-ai-interaction|KI-Interaktion]] — dieselbe Grenze, die [[assessment-latent-structure-human-llm-2026|der Vergleich latenter Strukturen]] empirisch austastet.
 - **KI-vorhergesagte Schwierigkeit und Kalibrierung:** [[llm-difficulty-calibration-programming-exams-2026|LLM-Schwierigkeitskalibrierung]] und [[llm-item-difficulty-prediction|Vorhersage der Aufgabenschwierigkeit]] nutzen LLMs, um Aufgabenschwierigkeit zu schätzen, was gegen psychometrische Schätzungen validiert werden muss (siehe [[item-response-theory]]). [[razavi-powers-item-difficulty-llm-2026|Razavi and Powers (2026)]] fügen einen großskaligen K-5-Test dieser Prämisse hinzu: Über 5.170 Mathematik- und Leseaufgaben, die unter dem Rasch-IRT-Modell kalibriert wurden, korrelierten GPT-4os Zero-Shot-Schwierigkeitsbewertungen mäßig bis stark mit den wahren Schwierigkeiten (r = 0.83 Mathematik, r = 0.81 Lesen), waren aber ungleichmäßig über Jahrgangsstufen und für die Stufen K und 1 nicht besser als eine Jahrgangsmittel-Dummy-Regression. Ein merkmalsbasierter Ansatz — von LLMs extrahierte kognitive und sprachliche Merkmale, in baumbasierte Modelle eingespeist — erreichte Korrelationen bis r = 0.87, wobei Jahrgangsstufe und Wortzahl die stärksten Prädiktoren waren. Die Studie veranschaulicht sowohl das Versprechen als auch die Grenzen KI-vorhergesagter Schwierigkeit als Messinput und bietet einen praktischen siebenstufigen Workflow für Testfachleute.
+- **Schwierigkeit ohne Diskrimination.** [[worden-foundationalassist-knowledge-tracing-dataset-2026|Worden et al. (2026)]] werteten vier Frontier-Modelle gegen IRT-Ground-Truth auf 2.548 Mathematikaufgaben aus: Sie erreichten 68,6 Prozent bei relativer Schwierigkeit, fielen aber unter das Zufallsniveau beim Beurteilen der Diskrimination, wobei sie beide offenbar vermengten, und sagten die Korrektheit bei 85,4 Prozent der Fälle für richtige Antworten voraus gegenüber nur 12,6 Prozent bei falschen.
 - **Wenn generierte Schwierigkeitsmarkierungen keine Schwierigkeit messen.** Eine Konstruktvaliditäts-Prüfung von 311 eingesetzten LLM-generierten Aufgaben fand, dass die generierte Schwierigkeitsmarkierung mit ihrer eigenen mitgenerierten Bloom-Stufe bei ρ=0.90 korrelierte, mit der empirischen Schwierigkeit (dem 1−p-Index der Klassischen Testtheorie) aber nur bei ρ=0.06, während die Optionslänge rückwärts lief (ρ=−0.18) —, ein Markierung-als-Oberflächenform-Ergebnis, das die optimistischen Lesarten KI-vorhergesagter Schwierigkeit oben begrenzt ([[student-llm-use-ai-question-difficulty-data-science-2026|An & Wang (2026)]]).
+- **Die Messqualität eines synthetischen Benchmarks beruht auf seiner Generierungspipeline.** Ein Set, das mit einem Drei-KI-Richter-Gremium und ohne [[human-in-the-loop-ai|menschliche Aufsicht]] bei der Aufgabengenerierung erzeugt wurde, zeigte schwache Itemqualität auf Itemebene, und weil die Aufgaben vollständig synthetisch sind, fordern die Autoren von Menschen kuratierte Aufgabenvergleiche, bevor die Punktzahlen als Messung gelesen werden ([[llm-benchmark-secondary-science-topics-2026|Schroeder et al. (2026)]]).
 - **Ein taxonomisches Label sagt Itemverhalten nicht vorher.** Über 265 Mathematikaufgaben erklärte die beabsichtigte Bloom-Stufe weniger als 5% der Varianz in der Schwierigkeit (ε² = .043) und keine der Diskrimination (Kruskal–Wallis H = 0,54, p = .77), während eine [[llm|LLM]]-Klassifikation mit den Kodierungen von Expertinnen und Experten nur mäßig übereinstimmte (Cohen's κ = .22) und Items in Richtung der Band Anwenden/Analysieren zog ([[bloom-taxonomy-llm-item-classification-2026|Altaweel & Moussa (2026)]]).
 - **Bewerten Sie generierte Aufgaben am Lösungspfad, nicht an der Formulierung.** Die Kodierung des verifizierten Argumentationsbaums jeder Aufgabe hob die Leistung gegenüber der zweitbesten Methode um 7.5% in der Konzeptbewertung, 6.3% in der Schwierigkeitsschätzung und 19.5% in der Kompetenzbewertung, wobei eine Zero-Shot-Baseline eine vorlagenfolgende Aufgabe als „Reasoning“ und eine geometrische Aufgabe als „Knowing“ fehlmarkierte ([[proiqa-math-item-quality-assessment-2026|Tong et al. (2026)]]).
 - **Psychometrisches Bewusstsein in KI-[[assessment|Prüfungen]]:** [[psychometrically-aware-ai|psychometrisch bewusste KI]] ist der Standard, dass KI-basierte Prüfungen mit der Messtheorie abgeglichen sein sollen — kalibriert, unsicherheitsbewusst und validitätsbewahrend (siehe [[automated-assessment|Confidence Aware AI Assessment]]).
@@ -101,6 +104,7 @@ Bildungsmessung ist mächtig, aber fehlbar. Ihre Fehlermodi zu verstehen ist wes
 - **Reliabilitätsgrenzen.** Messung ist nie perfekt reliabel; Fehlervarianz ist immer vorhanden. Wenn Instrumente geringe interne Konsistenz oder Test-Retest-Stabilität haben, können beobachtete Unterschiede Rauschen sein. In KI-Kontexten potenzieren neue Fehlermodi dies: LLM-generierte Antworten können mit hoher Maschinen-Übereinstimmung bewertet werden und dennoch von menschlicher Bewertung abweichen ([[icap-cognitive-engagement-llm-agents]]), und automatisierte Bewertung kann *intern* konsistent und gleichzeitig systematisch falsch sein — Präzision ohne Validität. Die [[limitations-in-aied-research|Messgrenzen]] der Forschung zu KI in der Bildung dokumentieren unzuverlässige Instrumente als querschneidende Schwäche.
 - **Kodierungsunsicherheit als Fehler verwechselt zwei Versagen.** In einem 30-Aussagen-Test zu Wissen über psychische Gesundheit zählte Genauigkeitsbewertung *weiß nicht* als ungenau, doch 67.3% der Studierenden wählten es bei einer Tatsache, während 60.6% der Modellantworten positiv falsch waren —, ein erzwungenes richtig/falsch-Format kann Unsicherheit nicht von einer inkorrekten Überzeugung trennen ([[mental-health-literacy-students-llms-2026|Richter et al., 2026]]).
 - **Bewertungs-Übereinstimmung setzt die praktische Obergrenze.** Eine großskalige Validierung an Uruguays [[human-in-the-loop-ai-scoring-national-assessment-2026|*Acredita EB*]] fand, dass die Übereinstimmung menschlicher Bewertender selbst die praktische Obergrenze für KI-Bewertung setzt: Unter zehn Expertinnen und Experten, die unabhängig 50 Texte bewerteten, erreichte kein Rasteritem einstimmige Übereinstimmung mit dem Konsens, die abweichendste bewertende Person lag typischerweise unter 80% Übereinstimmung, während die beste über 90% lag, und Cohen's Kappa war für mehrere verzerrte Items, die nahezu alle Antworten erfüllen, nur leicht oder mittelmäßig. Die Autoren bewerten daher automatisierte Punktzahlen gegen einen Referenzstandard, der selbst unvollkommen ist — zehn Bewertende, eine einzige operationale Punktzahl für die meisten Antworten, und mehrere Items in der konventionellen 70%-Akzeptabilitätszone —, eine Warnung für jede Messbehauptung, die auf operationalen Markierungen einzelner Bewertender aufbaut.
+- **Das Nicht-Selbstberichts-Maß ist nicht das richtige.** Ein zweistufiger Review von 51 Paaren desselben Konstrukts fand, dass 41,2 % zu diskordanter oder gemischter Schlussfolgerung kamen, und argumentiert, dass Tests, Ratings und Spuren heterogen sind statt einen Kriteriumsstandard zu bilden, jeder mit seinem eigenen Validitätsargument ([[same-construct-same-conclusion-self-report-vs-performance-2026|Fan et al. (2026)]]).
 - **Validität — das Falsche messen.** Validität fragt, ob ein Instrument das Konstrukt misst, das es zu messen behauptet. Häufige Versagen sind **Konstrukt-Unterrepräsentation** (ein KI-Kompetenz-Test, der nur technisches Wissen sampelt und Ethik auslässt) und **konstruktirrelevante Varianz** (eine Aufgabe, die Leseflüssigkeit statt der Zielfähigkeit belohnt). [[ai-scoring-language-bias-physics|KI-Bewertung und Sprachbias]] zeigt, wie Oberflächenmerkmale — Sprache, Formulierung, Stil — automatisierte Punktzahlen in einer Weise treiben können, die nichts mit dem intendierten Konstrukt zu tun hat. [[assessment-validity]] ist die Leitplanke gegen diese Bedrohungen.
 
 - **Eine Skala kann die beabsichtigte Anzahl von Faktoren zurückgeben, ohne die beabsichtigten Konstrukte zu messen.** [[ai-empathy-scale-psychometric-evaluation-2026|Kang, Lee and Kang (2026)]] behielten sechs Faktoren aus einer 42-Item-KI-Empathie-Skala, doch die Items stellten die sechs beabsichtigten Unterfaktoren nicht wieder her — Prosocial Intention bildete keinen Faktor —, sodass die Struktur als vorläufig dargestellt wird.
@@ -108,7 +112,7 @@ Bildungsmessung ist mächtig, aber fehlbar. Ihre Fehlermodi zu verstehen ist wes
 - **Die gepoolte Schätzung ist fragil.** Ein strukturierter Review von 2026, der nur Korrelationen zwischen subjektiver und objektiver KI-Kompetenz aus derselben Stichprobe pooled (N = 2.765), ergibt r = .055 (Hartung-Knapp 95% CI [−.047, .156]); bei k = 3, mit sich widersprechenden Heterogenitätsschätzern und einer Studie, die 77.2% des Gewichts trägt, kann es keinen Kompetenz-Cutoff setzen ([[competent-generative-ai-use-measures-review-2026|Verí (2026)]]).
 - **Konstrukte, die nicht über Populationen übertragen.** [[assessment-latent-structure-human-llm-2026|Strugatski et al.]] zeigen, dass Prüfungsinstrumente bei Menschen und LLMs eine *andere Faktorenstruktur* haben können —, was bedeutet, dass dieselben Items über Populationen möglicherweise nicht dasselbe latente Konstrukt messen. Selbst innerhalb von Menschen können Instrumente, die an einer Gruppe validiert wurden (z. B. westliche, gut ausgestattete [[higher-ed]]), nicht auf andere generalisieren ([[global-south]]), eine Sorge für die Generalisierbarkeit von Maßen zu KI in der Bildung.
 - **Was Messung verpassen kann.** Einige der Konstrukte, die für Lernen mit KI in der Bildung zentralsten sind, sind die am schwersten gut zu messenden — und daher die am leichtesten von Instrumenten verpassten oder verzerrten:
-  - **Prozess und Strategie.** Standard-Ergebnis-Maße erfassen das *Produkt* des Lernens, nicht den *Prozess*. Sie können verpassen, wie Studierende tatsächlich mit KI umgehen — [[cognitive-offloading|Überabhängigkeit]], unreflektierte Annahme oder kritische Verifikation. [[tracing-genai-literacy-interaction-patterns]] nutzt Interaktionsspuren genau deshalb, weil Selbstbericht und Ergebnistests diese Dynamiken verpassen.
+  - **Prozess und Strategie.** Standard-Ergebnis-Maße erfassen das *Produkt* des Lernens, nicht den *Prozess*. Sie können verpassen, wie Studierende tatsächlich mit KI umgehen — [[cognitive-offloading|Überabhängigkeit]], unreflektierte Annahme oder kritische Verifikation. [[tracing-genai-literacy-interaction-patterns]] nutzt Interaktionsspuren genau deshalb, weil Selbstbericht und Ergebnistests diese Dynamiken verpassen. Ein neurales Prozessmaß erweitert dies: [[seeing-cognitive-representations-eeg-reconstruction|Su et al. (2026)]] rekonstruierten Videoframes aus EEG und fanden eine höhere semantische Ähnlichkeit für korrekt beantwortete Items (M = 71.43, SD = 4.61) als für falsch beantwortete (M = 62.30, SD = 5.91, p < .001).
   - **Längsschnittliches und dauerhaftes Lernen.** Ein einzelner Post-Test kann durch KI-Unterstützung aufgeblähte Leistung zeigen und gleichzeitig die Erosion dauerhaften, ununterstützten Wissens verpassen (die [[genai-performance-vs-learning|Leistungs-Lern-Lücke]]). Messung zu einem Zeitpunkt kann über Lernen aktiv irreführen.
   - **Gerechtigkeit und Zugang.** Instrumente, die gleichmäßigen Geräte-/Konnektivitätszugang annehmen oder an privilegierten Stichproben genormt sind, können die Fähigkeiten [[equity-in-ai-education|unterversorgter]] [[learners]] verpassen — oder systematisch untermessen —, und Zugangslücken Fähigkeitslücken zuschreiben.
   - **[[affective-computing|Affektive]] und motivationale Zustände.** Engagement, Motivation und Selbstwirksamkeit werden oft per Selbstbericht gemessen und erben die obige Selbstberichts-Lücke; sie können die situierten, momentanen Dynamiken, die Lernen antreiben, möglicherweise nicht erfassen.
@@ -135,7 +139,7 @@ Bildungsmessung ist das Fundament für [[item-response-theory]], [[assessment-va
 - [[educational-nlp]]
 - [[learning-analytics]]
 - [[ai-ed-evaluation]]
-- [[ai-assisted-educational-research]] — AI-Assisted Educational Research
+- [[ai-assisted-educational-research]] — KI-gestützte Bildungsforschung
 - [[automated-assessment]]
 - [[limitations-in-aied-research]]
 - [[ai-literacy]]
@@ -147,42 +151,46 @@ Bildungsmessung ist das Fundament für [[item-response-theory]], [[assessment-va
 - [[student-engagement]]
 
 ## Verbundene Artikel
-- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — A Human-in-the-Loop Framework for AI-Assisted Scoring in Large-Scale Writing Assessment
+- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — Ein Human-in-the-Loop-Rahmenwerk für KI-gestützte Bewertung in großmaßstäblichen Schreibprüfungen
 - [[semantic-variability-llm-conversation-assessment-2026]]
-- [[causal-modeling-competency-assessment-2026]] — Causal Modeling of Support Interventions for Student Competency Assessment
-- [[assessment-latent-structure-human-llm-2026]] — Do assessment instruments measure the same thing for humans and LLMs? (Strugatski et al. 2026)
-- [[jin-glat-genai-literacy-assessment]] — GLAT: IRT-validated GenAI literacy test (Jin et al. 2025)
-- [[icap-cognitive-engagement-llm-agents]] — Measuring cognitive engagement with an extended ICAP framework
-- [[roe-assessment-twins-2026]] — Assessment twins for strengthening assessment validity under GenAI
+- [[causal-modeling-competency-assessment-2026]] — Kausales Modellieren von Unterstützungsinterventionen für die Kompetenzbewertung von Studierenden
+- [[assessment-latent-structure-human-llm-2026]] — Messen Prüfungsinstrumente für Menschen und LLMs dasselbe? (Strugatski et al. 2026)
+- [[jin-glat-genai-literacy-assessment]] — GLAT: IRT-validierter GenAI-Kompetenztest (Jin et al. 2025)
+- [[icap-cognitive-engagement-llm-agents]] — Messung kognitiven Engagements mit einem erweiterten ICAP-Framework
+- [[roe-assessment-twins-2026]] — Assessment-Zwillinge zur Stärkung der Prüfvalidität unter GenAI
 - [[ai-literacy-heptagon-2026]] — The AI Literacy Heptagon
-- [[ai-literacy-assessment-misalignment]] — Self-reported vs performance AI literacy misalignment
-- [[teacher-education-ai-literacy-sdt-2026]] — Teacher AI literacy through self-determination theory
-- [[acceptance-ai-english-tools-2026]] — AI acceptance measures for English learning tools
-- [[llm-difficulty-calibration-programming-exams-2026]] — From evaluated models to evaluation aids
-- [[llm-item-difficulty-prediction]] — Cognitive evaluation of LLM item-difficulty prediction
-- [[multimodal-item-parameter-estimation-2026]] — Multimodal item-parameter estimation
-- [[ai-scoring-language-bias-physics]] — AI scoring and language bias in physics
-- [[ai-writes-code-student-writes-model-2026]] — Model authorship: theory & measurement for learning-by-construction with GenAI
-- [[assessing-student-drive-framework-2025]] — DRIVE: assessing learning through GenAI interaction (DRI + Visible Expertise)
-- [[xiong-ai-educational-measurement-review-2026]] — Decade thematic review of AI in educational measurement
-- [[questionnaire-teachers-genai-uses-validation-2026]] — Questionnaire on teachers' uses of generative AI (Pérez-Montesdeoca et al. 2026)
-- [[personalized-neural-cognitive-architecture-search-2026]] — AutoML personalized neural cognitive architecture search for learner profiles
-- [[razavi-powers-item-difficulty-llm-2026]] — Estimating item difficulty using LLMs and tree-based ML
+- [[ai-literacy-assessment-misalignment]] — Fehlausrichtung zwischen selbstberichteter und leistungsbasierter KI-Kompetenz
+- [[teacher-education-ai-literacy-sdt-2026]] — KI-Kompetenz von Lehrkräften über die Selbstbestimmungstheorie
+- [[acceptance-ai-english-tools-2026]] — Maße zur Akzeptanz von KI für Werkzeuge zum Englischlernen
+- [[llm-difficulty-calibration-programming-exams-2026]] — Von evaluierten Modellen zu Evaluationshilfen
+- [[llm-item-difficulty-prediction]] — Kognitive Evaluierung der Aufgabenschwierigkeitsvorhersage durch LLMs
+- [[multimodal-item-parameter-estimation-2026]] — Multimodale Item-Parameter-Schätzung
+- [[ai-scoring-language-bias-physics]] — KI-Bewertung und Sprachbias in der Physik
+- [[ai-writes-code-student-writes-model-2026]] — Modellautorenschaft: Theorie und Messung für Lernen-durch-Konstruktion mit GenAI
+- [[assessing-student-drive-framework-2025]] — DRIVE: Lernen durch GenAI-Interaktion bewerten (DRI + Visible Expertise)
+- [[xiong-ai-educational-measurement-review-2026]] — Thematischer Review eines Jahrzehnts zu KI in der Bildungsmessung
+- [[questionnaire-teachers-genai-uses-validation-2026]] — Fragebogen zu den Nutzungsweisen generativer KI durch Lehrkräfte (Pérez-Montesdeoca et al. 2026)
+- [[personalized-neural-cognitive-architecture-search-2026]] — AutoML-gestützte personalisierte neuronale Architektursuche für Lernendenprofile
+- [[razavi-powers-item-difficulty-llm-2026]] — Schätzung der Aufgabenschwierigkeit mit LLMs und baumbasiertem ML
 - [[cvengros-grading-handwritten-chemistry-ai-2026]]
-- [[age-tiered-ai-literacy-guidebooks-2026]] — Split-half EFA/CFA validation with invariance, HTMT and DIF checks, including an honest account of playfulness-intention construct overlap
-- [[proiqa-math-item-quality-assessment-2026]] — ProIQA: Process-Based Math Item Quality Assessment
-- [[competent-generative-ai-use-measures-review-2026]] — Beyond AI Literacy: A Structured Review and Exploratory Meta-Analysis of Measures for Competent Generative-AI Use
-- [[bayesian-consensus-irt-item-banks-2026]] — Bayesian consensus calibration: divide-and-conquer recalibration of a continuously evolving IRT item bank (Jewsbury et al. 2026)
-- [[el-salvador-ai-tutoring-selection-claim-2026]] — Bounding the learning claim of El Salvador's AI tutoring pilot (Restrepo Morales et al. 2026)
-- [[know-when-to-trust-ai-scoring-reliability-2026]] — Know When to Trust: model self-confidence, probabilistic scoring and ensembles as scoring reliability levers
-- [[ai-literacy-self-assessment-questionnaire-primary-2025]] — A validated 15-item self-assessment questionnaire for upper-primary AI literacy (Thianwan & Srikoon 2025)
-- [[assessing-teachers-ai-literacy-measurement-tools-2026]] — Systematic appraisal of 33 teacher AI literacy instruments across COSMIN-style quality domains (Zainal et al. 2026)
-- [[mental-health-literacy-students-llms-2026]] — Mental Health Literacy Across Psychology Students and Large Language Models
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: AI and human tutoring yield equivalent GRE learning gains
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — Student Use of LLMs and the Limits of AI-Generated Question Difficulty in Data Science Courses
-- [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors: Assertion-based Schemas for Auditable Coding of Educational Dialogues
-- [[synthetic-educational-data-structural-fidelity-2026]] — What Fidelity Metrics Miss: A Structural Check on Synthetic Educational Data
+- [[age-tiered-ai-literacy-guidebooks-2026]] — Split-half-EFA-/CFA-Validierung mit Invarianz-, HTMT- und DIF-Prüfungen, einschließlich eines ehrlichen Befunds zur Konstruktüberlappung von Verspieltheit und Intention
+- [[proiqa-math-item-quality-assessment-2026]] — ProIQA: prozessbasierte Qualitätsbewertung mathematischer Aufgaben
+- [[competent-generative-ai-use-measures-review-2026]] — Jenseits der KI-Kompetenz: Ein strukturierter Review und eine explorative Metaanalyse von Maßen für den kompetenten Umgang mit generativer KI
+- [[bayesian-consensus-irt-item-banks-2026]] — Bayessche Konsenskalibrierung: Divide-and-conquer-Renkalibrierung einer sich kontinuierlich weiterentwickelnden IRT-Aufgabenpool (Jewsbury et al. 2026)
+- [[el-salvador-ai-tutoring-selection-claim-2026]] — Die Lernbehauptung des KI-Tutoring-Pilotprojekts in El Salvador begrenzen (Restrepo Morales et al. 2026)
+- [[know-when-to-trust-ai-scoring-reliability-2026]] — Wann man vertrauen darf: Modell-Selbstvertrauen, probabilistische Bewertung und Ensembles als Hebel für die Verlässlichkeit der Bewertung
+- [[ai-literacy-self-assessment-questionnaire-primary-2025]] — Ein validierter 15-Item-Selbstbeurteilungsfragebogen zur KI-Kompetenz in den oberen Primarstufen (Thianwan & Srikoon 2025)
+- [[assessing-teachers-ai-literacy-measurement-tools-2026]] — Systematische Bewertung von 33 Instrumenten zur KI-Kompetenz von Lehrkräften über COSMIN-artige Qualitätsdomänen hinweg (Zainal et al. 2026)
+- [[mental-health-literacy-students-llms-2026]] — Wissen über psychische Gesundheit bei Psychologiestudierenden und großen Sprachmodellen
+- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: KI- und menschliches Tutoring erzielen äquivalente Lerngewinne bei der GRE
+- [[student-llm-use-ai-question-difficulty-data-science-2026]] — Nutzung von LLMs durch Studierende und die Grenzen KI-generierter Aufgabenschwierigkeit in Data-Science-Kursen
+- [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors: Aussagenbasierte Schemata für eine prüfbare Kodierung bildungsbezogener Dialoge
+- [[synthetic-educational-data-structural-fidelity-2026]] — Was Treue-Metriken verpassen: eine strukturelle Prüfung synthetischer Bildungsdaten
 
-- [[ai-empathy-scale-psychometric-evaluation-2026]] — A 42-item AI empathy scale whose six factors did not recover the six intended subfactors
-- [[genai-srl-l2-writing-scale-2026]] — A six-dimension GenAI-SRL scale for L2 writing; ant-colony-optimized 12-item short form tracks the full scale (r = 0.910–0.944) but narrows content coverage
-- [[bloom-taxonomy-llm-item-classification-2026]] — Do Cognitive Classifications Predict Empirical Item Behaviour? Aligning Bloom's Taxonomy with the Psychometric Properties of National Centralized Mathematics Items across Grades 4–12
+- [[ai-empathy-scale-psychometric-evaluation-2026]] — Eine 42-Item-KI-Empathie-Skala, deren sechs Faktoren die sechs beabsichtigten Unterfaktoren nicht wiederherstellten
+- [[genai-srl-l2-writing-scale-2026]] — Eine sechsdimensionale GenAI-SRL-Skala für L2-Schreiben; die am Ameisenalgorithmus optimierte 12-Item-Kurzform bildet die volle Skala ab (r = 0,910–0,944), schränkt aber die inhaltliche Abdeckung ein
+- [[bloom-taxonomy-llm-item-classification-2026]] — Sagen kognitive Klassifikationen das empirische Itemverhalten vorher? Abgleich der Bloom-Taxonomie mit den psychometrischen Eigenschaften nationaler zentraler Mathematikaufgaben über die Jahrgangsstufen 4–12
+- [[llm-benchmark-secondary-science-topics-2026]] — Die Messqualität eines synthetischen Benchmarks beruht auf seiner Generierungspipeline
+- [[worden-foundationalassist-knowledge-tracing-dataset-2026]] — Schwierigkeit ohne Diskrimination
+- [[same-construct-same-conclusion-self-report-vs-performance-2026]] — Paare desselben Konstrukts weichen in 41,2 % der Fälle ab, und Leistungmaße brauchen ihr eigenes Validitätsargument (Fan et al. 2026)
+

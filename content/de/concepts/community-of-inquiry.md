@@ -1,7 +1,7 @@
 ---
 title: Untersuchungsgemeinschaft
 created: "2026-08-23T15:30:00-04:00"
-updated: "2026-10-10T09:04:23-04:00"
+updated: "2026-10-24T22:20:44-04:00"
 type: concept
 foundations: [critical-thinking]
 pedagogy: [online-teaching-and-learning, pedagogy]
@@ -87,6 +87,6 @@ Die Autoren des Frameworks selbst liefern eine Rollentaxonomie für diese Beding
 
 - [[genai-social-annotation-epistemic-network-analysis-2026]] — Interaktionen von Studierenden in GenAI-unterstützter sozialer Annotation auspacken: Eine epistemische Netzwerkanalyse kognitiver und sozialer Präsenz
 - [[reconceptualizing-community-inquiry-generative-ai]] — CoI im Zeitalter generativer KI rekonzeptualisieren
-- [[ai-communities-of-inquiry-2026]] — KI in Communities of Inquiry
+- [[ai-communities-of-inquiry-2026]] — KI in Untersuchungsgemeinschaften
 - [[ai-online-education-engagement-satisfaction-2026]] — KI und Engagement in der Online-Bildung
 - [[reflective-triangle-model-teacher-ai-2026]] — Reflective Triangle Model: KI als kognitive Vermittlerin

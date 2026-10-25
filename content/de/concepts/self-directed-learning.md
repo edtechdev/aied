@@ -2,7 +2,7 @@
 connected_resources: [matt-pocock-skills]
 title: Selbstgesteuertes Lernen
 created: "2026-08-20T06:35:00-04:00"
-updated: "2026-10-10T09:04:22-04:00"
+updated: "2026-10-24T23:29:54-04:00"
 type: concept
 foundations: [agency]
 pedagogy: [lifelong-learning, motivation, self-efficacy, self-regulated-learning]
@@ -72,10 +72,10 @@ Weil SDL lernendeninitiierte Steuerung betont, fokussieren Interventionen zu ihr
 
 ## Verbundene Artikel
 
-- [[genai-thoughtless-use-self-directed-learning-2026]] — Thoughtless GenAI use and self-directed learning (SEM, gender differences)
-- [[ai-lifelong-learning-policy]] — AI and lifelong learning policy
-- [[self-directed-growth-generative-ai-learning-analytics]] — Self-directed growth with GenAI and learning analytics
-- [[genai-educational-outcomes-meta-analysis]] — Meta-analysis of generative AI educational outcomes
-- [[andragogy-cognitive-delegation-genai-2026]] — Andragogy and cognitive delegation with GenAI
-- [[kim-ai-andragogy-2026]] — AI Applications in Supporting Andragogy (Kim et al. 2026)
+- [[genai-thoughtless-use-self-directed-learning-2026]] — Gedankenlose GenAI-Nutzung und selbstbestimmtes Lernen (SEM, Geschlechterunterschiede)
+- [[ai-lifelong-learning-policy]] — KI und Politik zum lebenslangen Lernen
+- [[self-directed-growth-generative-ai-learning-analytics]] — Selbstbestimmtes Wachstum mit GenAI und Lernanalytik
+- [[genai-educational-outcomes-meta-analysis]] — Meta-Analyse der Bildungsresultate durch generative KI
+- [[andragogy-cognitive-delegation-genai-2026]] — Andragogik und kognitive Delegation mit GenAI
+- [[kim-ai-andragogy-2026]] — KI-Anwendungen zur Unterstützung der Andragogik (Kim et al. 2026)
 - [[an-goel-self-directed-modeling-2026]]

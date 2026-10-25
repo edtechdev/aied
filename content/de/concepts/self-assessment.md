@@ -1,7 +1,7 @@
 ---
 title: Selbstbewertung
 created: "2026-09-21T11:21:57-04:00"
-updated: "2026-10-10T09:04:23-04:00"
+updated: "2026-10-24T19:50:00-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [metacognition, self-regulated-learning, scaffolding]
@@ -119,9 +119,9 @@ Sie führt auch eine Namensfalle ein, die offen ausgesprochen werden sollte. **K
 
 ## Verbundene Artikel
 
-- [[self-directed-growth-generative-ai-learning-analytics]] — Self-assessment placed at the center of a self-directed growth framework (2026)
-- [[age-tiered-ai-literacy-guidebooks-2026]] — Developmentally tiered AI literacy materials, with measurement of acceptance and validity (2026)
-- [[chatgpt-critical-creative-thinking-review]] — Triangulating AI feedback with peer, instructor, and self-assessment (2026)
-- [[yasir-llm-tutoring-agents-2026]] — Why feedback should not rest on a model's self-assessed reasoning validity (Yasir et al. 2026)
-- [[ai-literacy-self-assessment-questionnaire-primary-2025]] — A validated 15-item AI literacy self-assessment questionnaire for Grades 4 to 6, with the metacognitive limits of child self-report (Thianwan & Srikoon 2025)
-- [[assessing-teachers-ai-literacy-measurement-tools-2026]] — 31 of 33 teacher AI literacy instruments are self-report, two test knowledge objectively, none use performance tasks (Zainal, Mohd Matore & Maat 2026)
+- [[self-directed-growth-generative-ai-learning-analytics]] — Selbstbeurteilung am Zentrum eines Rahmenswerks für selbstgesteuertes Wachstum (2026)
+- [[age-tiered-ai-literacy-guidebooks-2026]] — Entwicklungsmäßig gestufte KI-Kompetenz-Materialien, mit Messung von Akzeptanz und Validität (2026)
+- [[chatgpt-critical-creative-thinking-review]] — Triangulierung von KI-Feedback mit Peer-, Lehrenden- und Selbstbeurteilung (2026)
+- [[yasir-llm-tutoring-agents-2026]] — Warum Feedback nicht auf der selbstbeurteilten Schlussfolgerungs-Validität eines Modells beruhen sollte (Yasir et al. 2026)
+- [[ai-literacy-self-assessment-questionnaire-primary-2025]] — Ein validierter 15-Item-Fragebogen zur Selbstbeurteilung von KI-Kompetenz für die Klassen 4 bis 6, mit den metakognitiven Grenzen kindlicher Selbstauskunft (Thianwan & Srikoon 2025)
+- [[assessing-teachers-ai-literacy-measurement-tools-2026]] — 31 von 33 Messinstrumenten für die KI-Kompetenz von Lehrkräften sind Selbstauskunft, zwei testen Wissen objektiv, keines nutzt Leistungsaufgaben (Zainal, Mohd Matore & Maat 2026)

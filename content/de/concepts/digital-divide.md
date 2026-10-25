@@ -1,7 +1,7 @@
 ---
 title: Digitale Kluft
 created: "2026-08-13T18:07:54-04:00"
-updated: "2026-10-10T09:04:24-04:00"
+updated: "2026-10-24T23:50:47-04:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, ai-guidance-children-under-13]
 type: concept
 foundations: [ai-education, ai-literacy]
@@ -91,24 +91,24 @@ Die digitale Kluft ist ein Kernanliegen der Forschung zu [[equity-in-ai-educatio
 
 ## Verbundene Artikel
 
-- [[adeniranye-ai-integration-nigerian-higher-education-2026]] — Institutional structures, digital inequality, and AI integration in Nigerian higher education
-- [[ai-divide-ses-personality-primary-education-2026]] — SES, personality, and AI divides in primary education (Wang et al. 2026)
-- [[rodrigues-aied-unplugged-numeracy-2026]] — AIED unplugged: teacher-as-proxy tutoring reaches students with no device (Rodrigues et al. 2026)
-- [[school-ai-education-readiness-gaps-agency-2026]] — School AI education narrows psychological but not cognitive readiness gaps
-- [[prompt-privilege-equitable-ai-access-2026]] — Prompt Privilege: measuring & mitigating accessibility disparities in LLM access
-- [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]] — The Scaffolded AI literacy (SAIL) framework
+- [[adeniranye-ai-integration-nigerian-higher-education-2026]] — Institutionelle Strukturen, digitale Ungleichheit und KI-Integration in der nigerianischen Hochschulbildung
+- [[ai-divide-ses-personality-primary-education-2026]] — SES, Persönlichkeit und KI-Klüfte in der Primarstufe (Wang et al. 2026)
+- [[rodrigues-aied-unplugged-numeracy-2026]] — AIED unplugged: Teacher-als-Proxy-Tutoring erreicht Schülerinnen und Schüler ohne Gerät (Rodrigues et al. 2026)
+- [[school-ai-education-readiness-gaps-agency-2026]] — KI-Bildung in der Schule verengt psychologische, aber nicht kognitive Reifelücken
+- [[prompt-privilege-equitable-ai-access-2026]] — Prompt Privilege: Messung und Minderung von Barrieren im Zugang zu LLMs
+- [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]] — Das gerüstete KI-Kompetenz-(SAIL-)Rahmenwerk
 - [[oecd-digital-education-outlook-2026]] — OECD Digital Education Outlook 2026
-- [[aaai2026-prompting-literacy-k12]] — Teaching Responsible Use of AI Chatbots to K-12 Students
-- [[structural-silence-underrepresented-language-ai-2026]] — Structural Silence and Underrepresented Languages
-- [[sec-ai-literacy-narrative-review-2026]] — Social-Emotional Competence in AI Literacy
+- [[aaai2026-prompting-literacy-k12]] — Vermittlung des verantwortungsvollen Umgangs mit KI-Chatbots an K-12-Schülerinnen und -Schüler
+- [[structural-silence-underrepresented-language-ai-2026]] — Strukturelles Schweigen und unterrepräsentierte Sprachen
+- [[sec-ai-literacy-narrative-review-2026]] — Sozial-emotionale Kompetenz in der KI-Kompetenz
 - [[bilingual-llm-lecture-companion-srl-2026]]
-- [[multilingual-adaptive-learning-nigeria-2026]] — AI-Based Adaptive Learning Platform for Multilingual Low-Resource Contexts
-- [[ai-science-chemistry-education-systematic-review-2025]] — Systematic review of AI in science/chemistry education
-- [[unesco-ai-guidelines-chemical-education-2026]] — UNESCO AI guidelines translated to chemical education; epistemic drift
-- [[lodge-loble-cognitive-offloading-2026]] — AI, cognitive offloading and implications for education (Lodge & Loble 2026)
-- [[mechanical-compliance-human-flourishing-ai-literacy-2026]] — Socialist humanist AI literacy + fair use
-- [[arc-hubs-k12-ai-robotics-rural-2026]] — ARC: rural robotics access follows mentorship geography, not device access (Jacobson et al. 2026)
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Digital inequality as distributive problem vs. algorithmic coloniality as epistemic one, in South African HDIs
+- [[multilingual-adaptive-learning-nigeria-2026]] — KI-basierte adaptive Lernplattform für mehrsprachige Kontexte mit wenigen Ressourcen
+- [[ai-science-chemistry-education-systematic-review-2025]] — Systematischer Review zu KI in der naturwissenschaftlichen und chemischen Bildung
+- [[unesco-ai-guidelines-chemical-education-2026]] — UNESCO-KI-Leitlinien übertragen auf die chemische Bildung; epistemische Drift
+- [[lodge-loble-cognitive-offloading-2026]] — KI, kognitive Auslagerung und Implikationen für die Bildung (Lodge & Loble 2026)
+- [[mechanical-compliance-human-flourishing-ai-literacy-2026]] — Sozialistisch-humanistische KI-Kompetenz + fairer Umgang
+- [[arc-hubs-k12-ai-robotics-rural-2026]] — ARC: ländlicher Robotikzugang folgt der Mentoring-Geografie, nicht dem Gerätezugang (Jacobson et al. 2026)
+- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Digitale Ungleichheit als distributives Problem vs. algorithmische Kolonialität als erkenntnistheoretisches, in südafrikanischen HDIs
 
-- [[llmersion-local-first-language-learning-2026]] — LLMersion: A Local-First AI Agent Framework for Low-Cost Home Language Learning toward Educational Equity
-- [[caee-digital-twins-stem-education-systematic-review-2026]] — Digital twin labs carry an equipment bill that bounds concurrent access
+- [[llmersion-local-first-language-learning-2026]] — LLMersion: ein lokal-zuerst KI-Agenten-Rahmenwerk für kostengünstiges Sprachenlernen in der Haussprache hin zu Bildungsgerechtigkeit
+- [[caee-digital-twins-stem-education-systematic-review-2026]] — Digital-Zwilling-Labore tragen eine Ausrüstungskostenrechnung, die den gleichzeitigen Zugang begrenzt

@@ -108,18 +108,18 @@ Dieselbe Literatur hat begonnen, Abhilfen gegen Einengung vorzuschlagen, wenn au
 
 ## Verbundene Artikel
 
-- [[hybrid-cf-kg-recommendation-multimodal-teaching-2026]] — Hybrid collaborative filtering plus knowledge graph for multimodal teaching resources, with ability- and progress-aware fusion (Liu, Sun & Song 2026)
-- [[fair-explainable-edu-recommendations]] — Heterogeneous knowledge graph + GRU recommender with GroupDRO fairness and counterfactual explainability (Evangelista & Bukhari 2026)
-- [[xai-teachers-trust-edtech-recommendations-2026]] — Domain-driven explanations build more teacher trust than feature-importance charts (Feldman-Maggor et al. 2025)
-- [[proprl-prerequisite-relation-learning]] — Prerequisite relation learning with an irreversibility constraint for directional consistency (Cheng et al. 2026)
-- [[pattern-kc-programming-recommendation]] — Recommending programming practice by pattern-based knowledge-component similarity (Hoq et al. 2026)
-- [[learning-paths-patterns-learning-design-2026]] — Markov and pattern-mining analysis of 29,064 designed activities across 554 courses (Divjak, Svetec & Horvat 2026)
-- [[bayesian-cognitive-diagnosis-personalized-learning-paths]] — Bayesian DINA diagnosis and shortest remediation paths, mediated by cognitive load (Feng & Huang 2026)
-- [[knowledge-gap-detection-ai-tas]] — Mapping AI TA questions to a GPT-4-extracted prerequisite graph to find curriculum-level gaps (Medhat et al. 2026)
-- [[learnity-graphs-lifelong-learning-framework-2026]] — Learnity graphs as a lifelong-learning alternative to fixed curricula (Szekely, Gal-Ezer & Harel 2026)
-- [[human-ai-collaboration-prerequisite-functions]] — Five-level taxonomy showing most human-AI interaction is consultation, not collaboration (Mutlu Cukurova 2026)
-- [[dual-ai-learning-pathways-sdt-2026]] — Autonomy support versus pressure predicting constructive or compulsive AI pathways (Shen & Arunrugstichai 2026)
-- [[ikram-ai-personalized-learning-review-2026]] — PRISMA review of personalized learning trends, pathways, and recommendation models (Ikram et al. 2026)
-- [[personapath-personalized-learning-paths-2026]] — PersonaPath: a Knowledge-Centric planning benchmark showing LLMs reach 90.9% validity but only 44.3% adaptivity (Liu et al. 2026)
-- [[exrec-exercise-recommendation-knowledge-tracing-2025]] — exercise recommendation as a sequential decision over a semantically grounded tracer
-- [[najem-behavioral-clustering-adaptive-learning-recommendation-2026]] — Behavioral clustering of 14,003 records into six profiles, mapped to learning objects with a diversity-regularized recommendation framework (Najem et al. 2026)
+- [[hybrid-cf-kg-recommendation-multimodal-teaching-2026]] — Hybrides kollaboratives Filtern plus Wissensgraph für multimodale Unterrichtsressourcen, mit fähigkeits- und fortschrittsbewusster Fusion (Liu, Sun & Song 2026)
+- [[fair-explainable-edu-recommendations]] — Heterogener Wissensgraph + GRU-Empfehlungssystem mit GroupDRO-Fairness und kontrafaktischer Erklärbarkeit (Evangelista & Bukhari 2026)
+- [[xai-teachers-trust-edtech-recommendations-2026]] — Domänengeleitete Erklärungen bauen mehr Vertrauen der Lehrkräfte auf als Feature-Importance-Diagramme (Feldman-Maggor et al. 2025)
+- [[proprl-prerequisite-relation-learning]] — Lernen von Voraussetzungs-Beziehungen mit Irreversibilitätsconstraint für Richtungskonsistenz (Cheng et al. 2026)
+- [[pattern-kc-programming-recommendation]] — Empfehlung von Programmierübung über musterbasierte Ähnlichkeit der Wissenskomponenten (Hoq et al. 2026)
+- [[learning-paths-patterns-learning-design-2026]] — Markov- und Mustamining-Analyse von 29.064 gestalteten Aktivitäten über 554 Kurse hinweg (Divjak, Svetec & Horvat 2026)
+- [[bayesian-cognitive-diagnosis-personalized-learning-paths]] — Bayessche DINA-Diagnose und kürzeste Nachholpfade, vermittelt über kognitive Last (Feng & Huang 2026)
+- [[knowledge-gap-detection-ai-tas]] — Abbildung der Fragen von KI-Lernassistenten auf einen mit GPT-4 extrahierten Voraussetzungs-Graphen, um Lücken auf Curriculum-Ebene zu finden (Medhat et al. 2026)
+- [[learnity-graphs-lifelong-learning-framework-2026]] — Learnity-Graphen als Alternative zum festen Curriculum für lebenslanges Lernen (Szekely, Gal-Ezer & Harel 2026)
+- [[human-ai-collaboration-prerequisite-functions]] — Fünfstufige Taxonomie, die zeigt, dass die meisten Mensch-KI-Interaktionen Konsultation statt Kollaboration sind (Mutlu Cukurova 2026)
+- [[dual-ai-learning-pathways-sdt-2026]] — Unterstützung von Autonomie versus Druck als Prädiktor konstruktiver oder zwanghafter KI-Lernpfade (Shen & Arunrugstichai 2026)
+- [[ikram-ai-personalized-learning-review-2026]] — PRISMA-Review zu Trends, Lernpfaden und Empfehlungsmodellen des personalisierten Lernens (Ikram et al. 2026)
+- [[personapath-personalized-learning-paths-2026]] — PersonaPath: ein wissenszentrierter Planungs-Benchmark, der zeigt, dass LLMs 90,9 % Validität erreichen, aber nur 44,3 % Adaptivität (Liu et al. 2026)
+- [[exrec-exercise-recommendation-knowledge-tracing-2025]] — Übungsempfehlung als sequentielle Entscheidung über einen semantisch verankerten Tracer
+- [[najem-behavioral-clustering-adaptive-learning-recommendation-2026]] — Verhaltensbasiertes Clustering von 14.003 Datensätzen in sechs Profile, abgebildet auf Lernobjekte mit einem diversitätsregularisierten Empfehlungsrahmenwerk (Najem et al. 2026)

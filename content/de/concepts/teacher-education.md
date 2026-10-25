@@ -1,7 +1,7 @@
 ---
 title: Berufliche Weiterbildung
 created: "2026-08-16T10:55:19-04:00"
-updated: "2026-10-10T09:04:22-04:00"
+updated: "2026-10-24T21:57:17-04:00"
 type: concept
 foundations: [ai-literacy, teacher-role, tpack]
 connected_faqs: [faculty-development-ai]
@@ -9,7 +9,7 @@ audience: [instructors]
 level: [teacher education, k 12, adult learning]
 confidence: high
 translation_of: concepts/teacher-education
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-21T12:05:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -37,15 +37,19 @@ Lehrkräftebildung sitzt an der Schnittstelle mehrerer Stränge der Wissensbasis
 
 Querschnittsevidenz schärft die Designpriorität: [[pedagogy-first-technology-second-teacher-knowledge-2026|eine mehrstufige Studie mit 46 Lehrkräften und 2.832 Sekundarstufenschülerinnen und -schülern]] fand, dass pädagogisches KI-Wissen (TPAIK) —, nicht technisches KI-Wissen —, die Wahrnehmungen der Studierenden von KI für soziales Gut und ihre Absicht, KI zu lernen, trieb. Lehrkräftebildung sollte daher *wie man mit und über KI lehrt* über Werkzeugproficiency stellen, konsistent mit der Leitlinie „Pädagogik zuerst, Technologie an zweiter Stelle“.
 
+Ein heutarogischer Strang verläuft neben dieser Designpriorität: [[heutagogical-teaching-ai-enhanced-education-2026|Hochberg & Waitzman (2026)]] begleiteten 93 israelische Lehrkräfte durch ein achtwöchiges KI-Weiterbildungsprogramm und schlugen eine zweischichtige Beziehung vor, in der die eigene reflexive [[regulation|Selbstregulation]] der Lehrkräfte und kritische KI-Kompetenz die Designs vermitteln, die sie für [[learners|Lernende]] erstellen und die auf [[agency|Handlungsfähigkeit]] und Fähigkeiten ausgerichtet sind.
+
 ### Lehramtsausbildung vor dem Dienst
 
 Lehramtsausbildung vor dem Dienst (initial) bereitet angehende Lehrkräfte während ihrer Zertifizierungsprogramme vor. KI-Forschung in diesem Strang umfasst:
 
 - **AI-TPACK und Intelligent-TPACK-Bereitschaft.** Instrumente und Rahmenwerke messen und bauen die Bereitschaft angehender Lehrkräfte, KI zu integrieren, und erweitern das [[tpack|TPACK]]-Rahmenwerk um eine KI-/Ethikdimension.([[conceptualizing-preservice-teachers-ai-readiness-2026]])([[ai-tpack-mathematics-teacher-education-2026]])
-- **Akzeptanzprofile und ein Nutzungsfreundigkeit/Absicht-Paradox.** [[chen-preservice-teachers-chatgpt-lpa-2026|Chen et al. (2026)]] profilierten 128 angehende Lehrkräfte in vier ChatGPT-Akzeptanzgruppen: Resistant Skeptics (14,06%) berichteten hohe wahrgenommene Nutzungsfreundlichkeit, aber sehr geringe Verhaltensabsicht, sodass Training allein sie nicht konvertiert.
+- **Akzeptanzprofile und ein Nutzungsfreundlichkeit/Absicht-Paradox.** [[chen-preservice-teachers-chatgpt-lpa-2026|Chen et al. (2026)]] profilierten 128 angehende Lehrkräfte in vier ChatGPT-Akzeptanzgruppen: Resistant Skeptics (14,06%) berichteten hohe wahrgenommene Nutzungsfreundlichkeit, aber sehr geringe Verhaltensabsicht, sodass Training allein sie nicht konvertiert.
+- **Lokaler Kontext als Designinput.** Schweizer Lehramtsstudierende bewerteten soziale Nützlichkeit und intrinsische Motive höher als ihre chinesischen Peers, die wiederum größere digitale Lehrekompetenz und KI-Begeisterung berichteten ([[motivation-shape-future-education-ai-switzerland-china|Martínez-Moreno et al. (2026)]]). Die Vorbereitung sollte ihren Einstiegspunkt auf das [[motivation|motivationale]] Profil jeweiliger Settings abstimmen.
 - **Anwendungen und Nutzen.** Ein Scoping Review von 55 Studien zeigt, dass KI das Instruktionsdesign, den Fachunterricht, praktische Lehrfähigkeiten, Evaluation, reflexive Praxis, [[critical-thinking|kritisches Denken]], Technologieintegration und pädagogische Innovation angehender Lehrkräfte verbessert.([[harnessing-ai-preservice-teachers-scoping-2026]])
 
 - **Ungerüsteter GenAI-Zugang erzielte unter keinem GenAI.** In einem 11-wöchigen Quasi-Experiment mit 52 angehenden Lehrkräften produzierte die ungerüstete GenAI-Klasse niedriger rubrikbenotete Unterrichtspläne als die Kein-GenAI-Klasse (adjustiert 86,54 vs 81,87, F = 8,348, p = 0,006, η² = 0,146), ohne Gruppenunterschied in [[self-regulated-learning|selbstreguliertem Lernen]] oder kritischem Denken ([[unscaffolded-genai-preservice-teachers-quasi-experiment-2026|Zhang et al. (2026)]]).
+- **Strukturierte benutzerdefinierte GPT-Zyklen erzeugten vier Rollen kognitiver Partner.** In einer designbasierten Studie über ein Semester nutzten 14 angehende Digital-Technologies-Lehrkräfte LMS-integrierte personalisierte GPT-Agenten über Prompt–Reflect–Refine-Zyklen und nahmen mit wachsender Expertise die Rollen konzeptioneller Tutor, Co-Designer, reflexiver Spiegel und kognitiver Herausforderer ein ([[zagami-generative-ai-cognitive-partner-2026|Zagami]]), und 82% der finalen Artefakte bildeten Inhaltsdeskriptoren, Assessmentaufgaben und Erfolgskriterien ab.
 - **[[educational-robotics|Pädagogische Robotik]] und ML.** Initiale Lehrkräfteausbildung bettet Coding-, Robotik- und [[machine-learning|Machine-Learning]]-Aktivitäten ein (z. B. micro:bit), um [[computational-thinking|Computational Thinking]] in angehenden Lehrkräften aufzubauen.([[microbit-robotics-machine-learning-teacher-training-2026]])
 - **Authentisches Assessment und Metakognition.** KI-vermittelte Assessmentmodelle (z. B. AAIWA) integrieren [[authentic-assessment|authentisches rubrikbasiertes Assessment]], bedingungsresponsives [[ai-feedback-quality|KI-Feedback]] und [[metacognition|metakognitive Reflexion]] in Programmen vor dem Dienst.([[aaiwa-ai-authentic-assessment-metacognition-2026]])
 - **KI-gestützte Inquiry in der [[stem-education|Naturwissenschaftsbildung]].** Ein Quasi-Experiment mit 48 angehenden Naturwissenschaftslehrkräften in der Türkei ([[ai-supported-inquiry-photosynthesis-respiration-2026|Aydın]]) integrierte problem- und designbasiertes Lernen in ein 8-wöchiges KI-gestütztes gelenktes Inquiry-Programm zu Photosynthese und Respiration. Es produzierte signifikante Zuwächse im konzeptionellen Verstehen der zwei [[biology-education|biologischen]] Prozesse, aber *keinen* signifikanten Effekt auf KI-Kompetenz oder selbstwahrgenommenes [[computational-thinking|Computational Thinking]] —, eine Erinnerung daran, dass KI-IBL das Fachverstehen in Lehramtskandidatinnen und -kandidaten vertiefen kann, ohne automatisch ihre KI-/CT-Kompetenzen aufzubauen, die explizites, gezieltes Design erfordern.
@@ -83,6 +87,7 @@ Ein zentraler Befund über die Lehrkräftebildungsforschung hinweg ist die Lück
 ## Folgerungen für Bildungsfachleute
 
 - **Sowohl KI-Kompetenz als auch kritisches AI-TPACK bauen.** Lehrkräfte vor und im Dienst brauchen Bereitschaft, KI zu integrieren —, Instrumente erweitern TPACK um eine KI-/Ethikdimension ([[ai-tpack-mathematics-teacher-education-2026|AI-TPACK]], [[designing-ai-professional-development-itpack-2026|i-TPACK PD]]); ethisches Schlussfolgern, Transparenz und Fairness neben Werkzeugnutzung lehren.
+- **Fähigkeit statt Vertrauen messen.** [[capability-decision-model-teacher-readiness-2026|Mnguni (2026)]] argumentiert, dass selbstberichtetes TPACK und wahrgenommene Verhaltenskontrolle beide auf allgemeines Vertrauen verweisen könnten, und schlägt vor, Bereitschaft über Aufgaben zum Lektionsdesign und Aufgaben zur Promptevaluation zu werten statt über Selbstauskunft allein, wobei AI-TPACK-Fähigkeit in der Reihenfolge vor Einstellung und Absicht angesiedelt ist.
 - **Die Artikulieren-vs.-Vollziehen-Lücke schließen.** Lehrkräfte behaupten oft operative KI-Fähigkeiten, kämpfen aber damit, sie pädagogisch anzuwenden; PD gestalten, das von Wissen zu vollzogener Praxis geht ([[teachers-ai-knowledge-genai-lesson-planning-2026|Lektionsplanung]]).
 - **Simulierte Praxis nutzen, um Vorbereitung zu skalieren.** [[educasim-cs1-instructional-practice|EducaSim]]-artige simulierte Klassenzimmer geben Lehrkräften in Ausbildung kostengünstige, hochfrequente Praxis mit Feedback —, eine Ergänzung zu begrenztem Live-Coaching.
 - **Überzeugungen und Vertrauen adressieren.** [[self-efficacy|Selbstwirksamkeit]] sagt AI-TPACK vorher, während starke traditionelle Lehrüberzeugungen eine Barriere sein können, und [[trust|Vertrauen]] wird durch Transparenz/Fairness geformt —, diese psychologischen Faktoren beachten, nicht nur Fähigkeiten.
@@ -93,6 +98,7 @@ Ein zentraler Befund über die Lehrkräftebildungsforschung hinweg ist die Lück
 - **GenAI-[[assessment|Assessment]]design Teil professioneller Curriculumarbeit machen.** Lehramtsstudierende in [[zou-is-this-a-trap-student-teachers-genai-2026|Zou et al. (2026)]] zeigten geringe Absicht, ihre eigenen zukünftigen Schulassessments als Reaktion auf generative KI neuzugestalten, und die [[early-childhood-elementary-ai-education|Kindergarten]]- und Sekundarstufenteilnehmenden beurteilten die Technologie weitgehend als irrelevant für ihren eigenen Unterrichtskontext —, eine unterentwickelte Dimension von Assessmentkompetenz eher als eine Wissenslücke. Lehrkräftebildungsprogramme sollten daher ethischen GenAI-Einsatz im Assessmentdesign als Teil professionellen [[curriculum-design|Curriculums]] einbetten, wobei sie [[educational-policy-ai|programmebenige Politikkonsistenz]] mit konkreten Beispielen akzeptabler und inakzeptabler Nutzung und zeitnahem [[feedback|Feedback]] auf die tatsächliche KI-Nutzung der Studierenden paaren.
 - **Delegierbare von nicht-delegierbarer Arbeit trennen.** [[obyrne-co-constructing-ai-boundaries-agency-judgment-2026|O'Byrne (2026)]] fand, dass 23 Undergraduates, größtenteils angehende Lehrkräfte, vergleichbare Artefakte produzierten, egal ob sie Grenzarbeit aufrechterhielten oder sie früh delegierten, und die „Schummelspannung“ über Autorschaft war am stärksten unter jenen, die die meiste Grenzarbeit taten —, sodass das Lehrziel darin besteht, zu beurteilen, welche interpretative Arbeit nicht übergeben wird.
 - **Klassenzimmer-Politikschreiben zu einer Kern-Lehrkräftebildungsaktivität machen und Mehrdeutigkeit als Politikdefekt behandeln.** [[nash-preservice-teachers-classroom-ai-policies-2026|Nash & Burriss (2026)]] fanden, dass das Bitten angehende Lehrkräfte, ihre eigenen Klassenzimmer-KI-Politiken zu schreiben, als rhetorisches Weltenschaffen darüber funktioniert, wozu Schreiben da ist —, ein Fenster in entstehende Überzeugungen, das abstrakte Diskussion nicht öffnet. Weil KI Schreiben-als-Produkt von Schreiben-als-Prozess trennt, sollten Programme Lehrkräften helfen, zu verorten, wo Denken, Lernen und Wert tatsächlich über Brainstorming, Entwurf, Überarbeitung und Editierung hinweg leben, statt Denken nur in finalem Text zu verorten, und sie darin stützen, Überzeugungen in operative, eindeutige Regeln zu übersetzen, gepaart mit [[ai-literacy|KI-Kompetenz]]instruktion: Widersprüche wie das Verbot KI-generierten Texts, während Studierende für die KI-generierten Inhalte, die sie einreichen, verantwortlich gehalten werden, lassen Studierende unfähig, zu entsprechen.
+- **Lehrkräfte beibringen, die Primärforschung hinter KI-Politik zu lesen.** Ein sechswöchiger graduierter Forschungsmethodenkurs zielte auf Forschungskonsum statt -produktion: eine Lehrkraft wandte das Kritische-Evaluation-Framework auf ein districtseitig vorgeschriebenes Curriculum an und präsentierte die Analyse ihrer Schulleitung, und mehrere übernahmen sokratisches Fragen mit ihren eigenen Studierenden [[packard-thinking-partner-framework-adult-learners-2026|Packard et al. (2026)]].
 
 ## Verbundene Konzepte
 
@@ -105,47 +111,45 @@ Ein zentraler Befund über die Lehrkräftebildungsforschung hinweg ist die Lück
 - [[ethics]]
 - [[ai-education]]
 - [[learning-sciences]]
-- [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
+- [[chemistry-education]] — Chemiebildung und KI: Labore, formatives Assessment, LLM-Grenzen, Philosophie des Experimentierens
 
 ## Verbundene Artikel
-- [[bicer-genai-pd-math-creativity-2026]] — How generative AI guided-professional development supports teachers' engagement with mathematical creativity, content knowledge, and pedagogical content knowledge
-- [[nash-preservice-teachers-classroom-ai-policies-2026]] — Preservice English teachers authoring classroom AI policies: permitted, limited, and banned uses (Nash & Burriss 2026)
-- [[zou-is-this-a-trap-student-teachers-genai-2026]] — 85 student teachers: shallow GenAI adoption, integrity anxiety, and assessment literacy that doesn't transfer
-- [[pishtari-teacher-ai-training-learning-design-2026]] — AI chatbot support and training in teachers' learning design
-- [[pedagogy-first-technology-second-teacher-knowledge-2026]] — Pedagogical AI knowledge as the priority lever for teacher professional learning (Shen et al. 2026)
-- [[preservice-teachers-responsible-genai-2026]] — Pre-service teachers' responsible GenAI use: curriculum implications (Kohnke et al. 2026)
-- [[harnessing-ai-preservice-teachers-scoping-2026]] — Scoping review of AI in preservice teacher development
-- [[designing-ai-professional-development-itpack-2026]] — Intelligent-TPACK-based professional development framework
-- [[human-centered-ai-teacher-educators-2026]] — Professional learning for critical AI literacy in teacher educators
-- [[teaching-the-teachers-genai-tpk-review-2026]] — GenAI-specific TPK in teacher education
-- [[teachers-ai-knowledge-genai-lesson-planning-2026]] — Teachers' AI knowledge in GenAI lesson planning
-- [[choi-teacher-ai-interaction-lesson-design-2026]] — Teacher-AI interaction patterns across teaching experience and AI proficiency in lesson design (Choi et al. 2026)
-- [[conceptualizing-preservice-teachers-ai-readiness-2026]] — Pre-service intelligent-TPACK readiness
-- [[ai-tpack-mathematics-teacher-education-2026]] — AI-TPACK in mathematics teacher education
-- [[intelligent-tpack-ethics-teachers-trust-distrust-2026]] — Ethics domain and in-service teachers' trust
-- [[microbit-robotics-machine-learning-teacher-training-2026]] — Micro:bit robotics in initial teacher training
-- [[aaiwa-ai-authentic-assessment-metacognition-2026]] — AI-mediated authentic assessment in pre-service education
-- [[science-educators-ai-literacy-postqualification-2026]] — Science educators' AI literacy and post-qualification programs
-- [[ithaka-sr-ai-skills-college-graduates-2026]] — Instructors report institutional AI-skills consensus and assessment gaps
-- [[young-people-learning-generative-ai-rapid-review-2026]] — Teachers essential for relational/higher-order work in hybrid arrangements
-- [[context-based-ai-secondary-chemistry-2026]] — Context-based 7E + AI instruction in secondary chemistry
-- [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — Instructor and AI roles in ChatGPT-enhanced formative assessment
-- [[educasim-cs1-instructional-practice]] — EducaSim: interactive simulacra for CS1 instructional practice
-- [[chen-preservice-teachers-chatgpt-lpa-2026]] — Pre-service teacher ChatGPT acceptance profiles
-- [[motivation-shape-future-education-ai-switzerland-china]] — Motivation to shape the future of education with AI
-- [[ai-supported-inquiry-photosynthesis-respiration-2026]] — AI-supported guided inquiry in science teacher education
-- [[reflective-triangle-model-teacher-ai-2026]] — Reflective Triangle Model: AI as cognitive mediator
-- [[sahab-model-genai-constructivist-id-2026]] — SAHAB model: GenAI constructivist instructional design
-- [[riandi-teacher-ai-green-energy-education-2026]] — Teacher involvement in AI integration for green energy education (Riandi et al. 2026)
-- [[utility-value-intervention-teach-responsibly-genai-2026]] — Utility-value intervention effects in learning to teach responsibly with GenAI (Boos, Eder & Lachner 2026)
-- [[preservice-teacher-agency-genai-design-learning-2026]] — Pre-service teacher agency during GenAI interactions in design for learning (Krushinskaia, Elen & Raes 2026)
-- [[longitudinal-ai-usage-ethics-policy-teacher-education-2026]] — Longitudinal GenAI usage, ethics, and policy in teacher education (Parker et al. 2026)
-- [[instructional-design-proficiency-masters-math-2026]] — Smart-classroom model and D-T-E loop improving M.Ed. instructional design proficiency in mathematics (Zhu et al. 2026)
-- [[li-language-educators-genai-review-2026]] — Language educators' practices and development with GenAI
+- [[bicer-genai-pd-math-creativity-2026]] — Wie generativ-KI-gestützte berufliche Weiterbildung das Engagement von Lehrkräften mit mathematischer Kreativität, Inhaltswissen und pädagogischem Fachwissen unterstützt
+- [[nash-preservice-teachers-classroom-ai-policies-2026]] — Englischlehrkräfte im Vorbereitungsdienst verfassen Klassenzimmer-KI-Politiken: erlaubte, eingeschränkte und verbotene Nutzungen (Nash & Burriss 2026)
+- [[zou-is-this-a-trap-student-teachers-genai-2026]] — 85 Lehramtsstudierende: flache GenAI-Übernahme, Integritätsangst und Assessmentkompetenz, die nicht transferiert
+- [[pishtari-teacher-ai-training-learning-design-2026]] — KI-Chatbot-Unterstützung und -Training im Lerndesign von Lehrkräften
+- [[pedagogy-first-technology-second-teacher-knowledge-2026]] — Pädagogisches KI-Wissen als Prioritätshebel für berufliches Lernen von Lehrkräften (Shen et al. 2026)
+- [[preservice-teachers-responsible-genai-2026]] — Verantwortungsvolle GenAI-Nutzung angehender Lehrkräfte: Curriculumimplikationen (Kohnke et al. 2026)
+- [[harnessing-ai-preservice-teachers-scoping-2026]] — Scoping Review zu KI in der Entwicklung angehender Lehrkräfte
+- [[designing-ai-professional-development-itpack-2026]] — Intelligent-TPACK-basiertes Rahmenwerk für berufliche Weiterbildung
+- [[human-centered-ai-teacher-educators-2026]] — Professionelles Lernen für kritische KI-Kompetenz in Lehrkräftebildnerinnen und -bildnern
+- [[teaching-the-teachers-genai-tpk-review-2026]] — GenAI-spezifisches TPK in der Lehrkräftebildung
+- [[teachers-ai-knowledge-genai-lesson-planning-2026]] — KI-Wissen von Lehrkräften in der GenAI-Lektionsplanung
+- [[choi-teacher-ai-interaction-lesson-design-2026]] — Lehrkraft-KI-Interaktionsmuster über Unterrichtserfahrung und KI-Proficiency hinweg im Lektionsdesign (Choi et al. 2026)
+- [[conceptualizing-preservice-teachers-ai-readiness-2026]] — Intelligent-TPACK-Bereitschaft vor dem Dienst
+- [[ai-tpack-mathematics-teacher-education-2026]] — AI-TPACK in der Mathematiklehrkräftebildung
+- [[intelligent-tpack-ethics-teachers-trust-distrust-2026]] — Ethikdomäne und Vertrauen von Lehrkräften im Dienst
+- [[microbit-robotics-machine-learning-teacher-training-2026]] — Micro:bit-Robotik in der initialen Lehrkräfteausbildung
+- [[aaiwa-ai-authentic-assessment-metacognition-2026]] — KI-vermitteltes authentisches Assessment in Programmen vor dem Dienst
+- [[science-educators-ai-literacy-postqualification-2026]] — KI-Kompetenz von Naturwissenschaftslehrenden und Programme nach der Qualifikation
+- [[context-based-ai-secondary-chemistry-2026]] — Kontextbasierter 7E- + KI-Unterricht in der Sekundarstufen-Chemie
+- [[educasim-cs1-instructional-practice]] — EducaSim: interaktive Simulakra für die CS1-Unterrichtspraxis
+- [[chen-preservice-teachers-chatgpt-lpa-2026]] — ChatGPT-Akzeptanzprofile angehender Lehrkräfte
+- [[motivation-shape-future-education-ai-switzerland-china]] — Motivation, die Zukunft der Bildung mit KI zu gestalten
+- [[ai-supported-inquiry-photosynthesis-respiration-2026]] — KI-gestütztes gelenktes Inquiry in der Naturwissenschaftslehrkräftebildung
+- [[reflective-triangle-model-teacher-ai-2026]] — Reflective Triangle Model: KI als kognitiver Mediator
+- [[sahab-model-genai-constructivist-id-2026]] — SAHAB-Modell: GenAI-konstruktivistisches Instruktionsdesign
+- [[riandi-teacher-ai-green-energy-education-2026]] — Beteiligung von Lehrkräften an der KI-Integration für Grüne-Energie-Bildung (Riandi et al. 2026)
+- [[longitudinal-ai-usage-ethics-policy-teacher-education-2026]] — Längsschnittliche GenAI-Nutzung, Ethik und Politik in der Lehrkräftebildung (Parker et al. 2026)
+- [[instructional-design-proficiency-masters-math-2026]] — Smart-Classroom-Modell und D-T-E-Schleife zur Verbesserung der Kompetenz zum Instruktionsdesign in M.Ed. Mathematik (Zhu et al. 2026)
+- [[li-language-educators-genai-review-2026]] — Praktiken und Entwicklung sprachbildender Lehrkräfte mit GenAI
 - [[zhuang-zhang-chatgpt-math-teacher-education-2026]]
 - [[karaismailoglu-ai-lesson-plans-science-experts-2026]]
-- [[teachers-collaborative-evaluation-ai-content-2026]] — Teachers' collaborative evaluation of AI-generated content as professional development (Gat, Usher & Barak 2026)
-- [[ai-training-science-teacher-tpack-distance-2026]] — Campus versus distance comparison of 186 science student teachers' AI-related TPACK and training levels
-- [[obyrne-co-constructing-ai-boundaries-agency-judgment-2026]] — traces pre-service teachers building AI boundaries in a semester-long literacy ethnography
+- [[teachers-collaborative-evaluation-ai-content-2026]] — Kollaborative Evaluation KI-generierter Inhalte durch Lehrkräfte als berufliche Weiterbildung (Gat, Usher & Barak 2026)
+- [[ai-training-science-teacher-tpack-distance-2026]] — Campus-versus-Fernvergleich des KI-bezogenen TPACK und der Ausbildungsniveaus von 186 Naturwissenschafts-Lehramtsstudierenden
+- [[obyrne-co-constructing-ai-boundaries-agency-judgment-2026]] — verfolgt angehende Lehrkräfte beim Aufbau von KI-Grenzen in einer semesterlangen Literacy-Ethnografie
 
-- [[unscaffolded-genai-preservice-teachers-quasi-experiment-2026]] — Unscaffolded genAI lowered pre-service teachers' lesson-plan quality below the no-genAI class
+- [[unscaffolded-genai-preservice-teachers-quasi-experiment-2026]] — Ungerüstetes GenAI senkte die Unterrichtsplanqualität angehender Lehrkräfte unter die Kein-GenAI-Klasse
+- [[capability-decision-model-teacher-readiness-2026]] — Fähigkeit statt Vertrauen messen
+- [[heutagogical-teaching-ai-enhanced-education-2026]] — Ein heutarogisches Zweischichten-Modell, das die eigene reflexive Regulation von Lehrkräften mit der Handlungsfähigkeit der Lernenden verbindet
+- [[packard-thinking-partner-framework-adult-learners-2026]] — K-12-Lehrkräfte lernen, KI-Primärforschung zu lesen und Bezirksvorgaben anzufechten

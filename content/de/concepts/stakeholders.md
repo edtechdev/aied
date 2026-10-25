@@ -1,7 +1,7 @@
 ---
 title: Akteure in der KI-Bildung
 created: "2026-08-19T17:50:00-04:00"
-updated: "2026-10-10T09:04:23-04:00"
+updated: "2026-10-24T19:40:06-04:00"
 type: concept
 foundations: [ai-literacy, learning-design, teacher-role]
 audience: [instructors, learners, administrators]
@@ -96,13 +96,13 @@ Identität ist der menschliche Anker der Akteurslandschaft: Sie ist das, was KI 
 
 ## Verbundene Artikel
 
-- [[genai-student-experiences-uk-he-survey-2026]] — Student experiences of GenAI in UK higher education
-- [[ai-uk-higher-education-policy-2026]] — AI in UK higher-education policy (students and institutions)
-- [[ai-campus-wellbeing-tools]] — AI-driven tools for campus well-being
+- [[genai-student-experiences-uk-he-survey-2026]] — Studienerfahrungen mit GenAI in der britischen Hochschulbildung
+- [[ai-uk-higher-education-policy-2026]] — KI in der britischen Hochschulbildungspolitik (Studierende und Institutionen)
+- [[ai-campus-wellbeing-tools]] — KI-gestützte Werkzeuge für das Wohlbefinden auf dem Campus
 - [[ai-tpack-mathematics-teacher-education-2026]] — AI-TPACK readiness in mathematics teacher education
 - [[genai-policies-higher-ed-computing]] — Institutional GenAI policy in computing
 - [[ethical-ai-higher-ed-game-theory]] — Coordination game framework for ethical AI use in higher education
-- [[student-rationalization-ai-writing]] — Student rationalization of AI use in academic writing
-- [[ai-changing-teaching-workflows]] — How AI is changing teaching workflows
-- [[beyond-hype-stakeholder-perceptions-genai-2026]] — Stakeholder perceptions of GenAI in higher ed (Humble & Mozelius 2026)
-- [[edtech-privacy-deferral-2026]] — "We'll Fix It Later": Education, AI, and the Deferral of Student Privacy in EdTech
+- [[student-rationalization-ai-writing]] — Rationalisierung der KI-Nutzung durch Studierende im wissenschaftlichen Schreiben
+- [[ai-changing-teaching-workflows]] — Wie KI die Lehr- und Arbeitsabläufe verändert
+- [[beyond-hype-stakeholder-perceptions-genai-2026]] — Wahrnehmungen von Akteuren zu GenAI in der Hochschulbildung (Humble & Mozelius 2026)
+- [[edtech-privacy-deferral-2026]] — „Wir machen das später“: Bildung, KI und das Aufschieben des Schutzes von Studierendendaten in EdTech

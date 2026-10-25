@@ -1,14 +1,14 @@
 ---
 title: Berufsentwicklung und Berufsfähigkeit
 created: "2026-08-25T07:46:00-04:00"
-updated: "2026-10-10T09:04:22-04:00"
+updated: "2026-10-24T22:09:03-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [anxiety-and-stress, professional-training]
 level: [higher ed, adult learning]
 confidence: high
 translation_of: concepts/career-development-and-readiness
-source_updated: "2026-10-04T05:34:36-04:00"
+source_updated: "2026-10-22T10:05:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -42,9 +42,11 @@ Während KI Berufe transformiert, hat sich die Rolle der Bildung in der Berufsen
 - **Berufsfähigkeit spiegelte Engagement, nicht Bedrohungsniveau.** In [[ai-attitude-latent-profiles-career-development-2026|Song et al. (2026)]] berichtete das KI-ängstlichste Profil dennoch das höchste Karriere-Crafting (4,222) und die höchste selbstwahrgenommene Beschäftigungsfähigkeit (3,964), neben dem günstigen Profil, das sich nicht signifikant unterschied — das Angstniveau indizierte also keine Berufsfähigkeit.
 - **KI-Kompetenz ist notwendig, aber nicht hinreichend.** [[ai-literacy-career-adaptability-business-2026|Testa et al.]] argumentieren, dass KI-Kompetenz allein für Berufsfähigkeit nicht genügt — Studierende brauchen auch Anpassungsfähigkeit und positive Selbsteinschätzungen, womit [[ai-literacy]] direkt mit Karriereergebnissen verknüpft wird. [[ai-literacy-graduate-employability-2026|Hendrawan und Lestari (2026)]] testen dies quantitativ mit 455 Absolventinnen und Absolventen des letzten Jahres in Jakarta: Karriere-Adaptabilität trägt einen signifikanten indirekten Effekt (β = 0,173), und Growth Mindset moderiert den Pfad überhaupt nicht, sodass Anpassungsfähigkeit und nicht Mindset die Arbeit leistet.
 - **Perspektiven von Arbeitgebern und Absolventen.** [[ithaka-sr-ai-skills-college-graduates-2026|Der ITHAKA S+R-Bericht]] (500 Lehrende an vierjährigen US-Colleges, verglichen mit 200 US-Arbeitgebern) dokumentiert eine **systematische Lücke in der Fähigkeitspriorisierung** zwischen Lehrenden und Arbeitgebern, die die Arbeitsmarktanforderungen signalisiert, die [[higher-ed|Hochschul]]-Curricula prägen. Lehrende und Arbeitgeber stimmen bei der Bedeutung von nur einer von 26 KI-Fähigkeiten überein (realistische Erwartungen an KI-unterstützte Arbeit zu setzen): Lehrende priorisieren eine *kritische, verantwortungsvolle Einsatz*-Orientierung (Quellenangaben, menschliche Verantwortung, Grenzen von KI), während Arbeitgeber Fähigkeiten in *Workflow, Automatisierung und Mensch-KI-Teamarbeit* bevorzugen. Der Bericht findet, dass nur drei von 26 Fähigkeiten von der Hälfte oder mehr Lehrenden gelehrt werden — die unterrichteten Kategorien (Workflow-Neugestaltung, Automatisierung, technische Integration) sind genau jene, in denen die Anforderungen der Arbeitgeber am stärksten divergieren —, und dass es den meisten Institutionen sowohl an einem Konsens darüber fehlt, wie KI-Fähigkeiten aussehen, als auch an einem Assessmentrahmenwerk dafür. Für die Berufsentwicklung bedeutet das, dass die Berufsfähigkeit der Absolventinnen und Absolventen davon abhängt, eine reale, messbare Lücke zwischen dem, was Arbeitgeber schätzen, und dem, was Curricula lehren, zu schließen, statt nur KI-Kompetenz hinzuzufügen.
+- **KI-freie Einstellungsscreens zertifizieren nicht länger, was die Arbeit erfordert.** In Interviews mit 23 indischen Ingenieurstudierenden und jungen Absolventinnen und Absolventen nutzten alle außer einem KI, um sich auf Auswahlverfahren vorzubereiten, die KI ausschlossen, während Absolventinnen und Absolventen Arbeitsplätze beschrieben, die KI vom ersten Tag an erwarteten — nach der Signaltheorie trennt ein mit KI-Hilfe erzeugter CGPA die Kandidatinnen und Kandidaten also nicht mehr nach Kosten ([[ai-free-gates-engineering-students-india-2026|Goutham & Gu (2026)]]).
 - **Kursrichtlinie als Entscheidung über Arbeitsmarktkompetenz.** [[mccorkle-aligned-genai-course-policy-2025|McCorkles (2025)]] Designfall macht den Trade-off auf Aufgabenebene explizit: für jeden Schritt eines Semesterprojekts paart die Lehrperson eine aufkommende [[generative-ai|GenAI]]-Arbeitsmarktkompetenz (Prompts für Ziele formulieren, Bilder erzeugen, Skripte schreiben, Text-to-Speech-Erzählung) gegen die Notwendigkeit, eine grundlegende Fähigkeit zu bewerten, und erlaubt KI nur dort, wo die Kompetenz gewinnt — eine konkrete Möglichkeit, die Workflow-Fähigkeiten, die Arbeitgeber schätzen ([[prompt-engineering]], Evaluation von [[llm|LLM]]-Ausgaben), in bestehende Aufgaben einzubauen statt einen separaten KI-Kurs hinzuzufügen.
 - **KI vermittelt die Karrierevorbereitung bereits selbst.** [[loidl-chatgpt-career-development-2026|Loidl, Cao und Huang (2026)]] befragten 102 Undergraduates an einer US-Universität im Mittleren Westen (R1) und fanden, dass etwa 81% in den vorangegangenen 12 Monaten ChatGPT für beschäftigungsbezogene Aktivitäten genutzt hatten, angeführt von Lebensläufen (52,94%), Kommunikation am Arbeitsplatz (38,24%) und Anschreiben (35,29%), was die Interviews als Anpassungs- und Übungsarbeit lesen statt als Auslagerung; Berufsfähigkeit muss daher auf Vorbereitung aufbauen, die das Werkzeug bereits vermittelt, und nicht nur auf die Fähigkeiten, die diese Seite sonst beschreibt.
 - **Sektorspezifische Rahmenwerke für Berufsfähigkeit.** [[workforce-readiness-smart-manufacturing-wrl-2026|Berufsfähigkeit für smarte Fertigung]] und [[ai-engineering-computing-workforce-grey-literature-2026|die Zukunft der Ingenieurs- und Informatik-Arbeitskräfte]] übersetzen allgemeine Beschäftigungsfähigkeit in [[discipline-specific-aied|fachspezifische]] Kompetenzrahmenwerke.
+- **Was Fakultäten erwarten, dass KI verdrängt — und was diese Erwartung nicht ist.** In zehn Interviews in einer KI-fokussierten [[engineering-education|Ingenieur]]abteilung waren sich die Fakultäten uneins darüber, wie generative KI die Arbeit neu gestalten wird, und nannten Programmieren, [[writing-education|Schreiben]] und Informationsarbeit als kurzfristig gefährdet, ohne Arbeitsmarktevidenz für diese Erwartungen zu liefern ([[sadik-ai-ready-engineering-talent-faculty-2026|Sadik (2026)]]).
 - **Übergänge auf dem Arbeitsmarkt.** Die Studie zu [[post-covid-ict-career-aspirations|IKT-Karriereaspirationen]] untersucht, wie sich die Karriereabsichten Studierender als Reaktion auf technologischen Wandel verschieben.
 - **Theoretische Verankerung.** Die [[kim-ai-anxiety-comprehensive-analysis|umfassende Analyse zu KI-Angst]] identifiziert die **Angst vor Ersetzung durch KI** als zentralen Treiber von KI-Angst — die Karrieredimension, die dieses Konzept direkt adressiert.
 
@@ -68,6 +70,7 @@ Berufsentwicklung und Berufsfähigkeit verbindet sich mit [[professional-trainin
 - [[student-support-and-success]] — die Ergebnisse, die auf den Abschluss folgen: Persistenz, Verbleib und Abschluss
 
 ## Verbundene Artikel
+- [[ai-free-gates-engineering-students-india-2026]] — Von KI-freien Toren zu KI-first Arbeit: Wie Ingenieurstudierende in Indien Universitätsausbildung und Campus-Placement ohne KI-Leitlinien navigieren
 - [[ai-literacy-graduate-employability-2026]] — PLS-SEM-Belege, dass KI-Kompetenz die wahrgenommene Beschäftigungsfähigkeit über Karriere-Adaptabilität erreicht, wobei Growth Mindset nichts hinzufügt (Hendrawan & Lestari 2026)
 - [[mccorkle-aligned-genai-course-policy-2025]] — Trade-offs zwischen Assessment und Arbeitsmarktkompetenz, Aufgabe für Aufgabe entschieden (McCorkle 2025)
 - [[wang-career-adapt-abilities-ai-anxiety-english-2026]] — Karriere-Adaptabilitäten reduzieren KI-Angst
@@ -82,3 +85,4 @@ Berufsentwicklung und Berufsfähigkeit verbindet sich mit [[professional-trainin
 - [[dag-ai-perceptions-career-anxiety-health-2026]] — KI-Angst sagt Angst vor der Jobsuche in den Gesundheitswissenschaften vorher (r=0,233, 821 Studierende)
 
 - [[ai-attitude-latent-profiles-career-development-2026]] — Vier KI-Einstellungsprofile: Karriere-Crafting und Beschäftigungsfähigkeit spiegelten Engagement, nicht Angst
+- [[sadik-ai-ready-engineering-talent-faculty-2026]] — Prognosen der Fakultäten sind Vorhersagen, keine Evidenz über Beschäftigung

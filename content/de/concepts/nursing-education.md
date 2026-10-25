@@ -1,7 +1,7 @@
 ---
 title: "Pflegebildung"
 created: "2026-09-17T14:04:21-04:00"
-updated: "2026-10-10T09:04:27-04:00"
+updated: "2026-10-24T20:47:39-04:00"
 type: concept
 foundations: [learner-identity]
 pedagogy: [professional-training, self-efficacy]
@@ -74,11 +74,11 @@ Das Feld verfeinert auch drei benachbarte Konzepte. Von [[simulation|Simulation]
 
 ## Verbundene Artikel
 
-- [[alrazeeni-transforming-nursing-education-ai-2026]] — Systematic review of AI in nursing education (2010–2025)
-- [[jiang-ai-powered-simulation-nursing-education-2026]] — AI-powered simulation in nursing education: mixed methods systematic review
-- [[sun-llm-nursing-education-professional-identity-2026]] — LLMs, structural gaps, and the reconstitution of professional identity
-- [[akbaba-nursing-ai-experiences-tam-2026]] — Nursing students' and faculty AI experiences through the TAM
-- [[dag-ai-perceptions-career-anxiety-health-2026]] — AI perceptions and career anxiety among health sciences students
-- [[genai-counter-learner-groupthink-2025]] — Generative AI to counter groupthink in interprofessional PBL
-- [[dabkowski-nursing-academics-genai-2026]] — Nursing academics on GenAI: policy ambiguity, professional values, and the drift to invigilated assessment
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] — Remote proctoring in nursing assessment: surveillance, equity, and a deterrence case built on perception
+- [[alrazeeni-transforming-nursing-education-ai-2026]] — Systematischer Review zu KI in der Pflegebildung (2010–2025)
+- [[jiang-ai-powered-simulation-nursing-education-2026]] — KI-gestützte Simulation in der Pflegebildung: Mixed-Methods-Systematischer-Review
+- [[sun-llm-nursing-education-professional-identity-2026]] — LLMs, strukturelle Lücken und die Neukonstitution professioneller Identität
+- [[akbaba-nursing-ai-experiences-tam-2026]] — KI-Erfahrungen von Pflegestudierenden und Lehrkräften durch das TAM
+- [[dag-ai-perceptions-career-anxiety-health-2026]] — KI-Wahrnehmung und Karriereangst unter Studierenden der Gesundheitswissenschaften
+- [[genai-counter-learner-groupthink-2025]] — Generative KI gegen Groupthink im interprofessionellen PBL
+- [[dabkowski-nursing-academics-genai-2026]] — Pflegewissenschaftlerinnen und -wissenschaftler zu GenAI: Richtlinienambiguität, professionelle Werte und die Drift zur beaufsichtigten Prüfung
+- [[harerimana-remote-proctoring-nursing-scoping-2026]] — Fernaufsicht in der Pflege-Assessmentpraxis: Überwachung, Gerechtigkeit und ein Abschreckungsfall, der auf Wahrnehmung beruht

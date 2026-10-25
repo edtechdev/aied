@@ -6,7 +6,7 @@ technology: [adaptive-learning, personalized-learning]
 assessment: [assessment]
 confidence: medium
 created: "2026-08-29T12:55:12-04:00"
-updated: "2026-10-10T09:04:24-04:00"
+updated: "2026-10-24T20:47:39-04:00"
 translation_of: concepts/mastery-learning
 source_updated: "2026-09-30T09:59:35-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
@@ -71,8 +71,8 @@ Standards-based grading ist das Assessment-Gegenstück zu Mastery Learning, und 
 
 ## Verbundene Artikel
 
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — Deceptive overgeneralization: adaptive mastery can stop practice before learners know when to withhold an action (An, McLaren & Stamper 2026)
-- [[neural-symbolic-knowledge-tracing]] — Injecting mastery/non-mastery rules into deep learning for responsible, interpretable learner modeling
+- [[deceptive-overgeneralization-adaptive-learning-2026]] — Täuschende Überverallgemeinerung: adaptives Mastery kann Übung beenden, bevor Lernende wissen, wann sie eine Handlung unterlassen sollten (An, McLaren & Stamper 2026)
+- [[neural-symbolic-knowledge-tracing]] — Mastery-/Nicht-Mastery-Regeln in Deep Learning injizieren für verantwortungsvolles, interpretierbares Lernendenmodellieren
 - [[mesny-innovative-assessment-grading-management-2026]]
-- [[crediting-assisted-work-inflates-mastery-2026]] — Crediting assisted work inflates mastery: which evidence rule decides who is declared mastered (Srivastava 2026)
-- [[noh-simulating-task-selection-2026]] — Simulating learners' task-selection strategies and system constraints in mastery learning (Noh et al. 2026)
+- [[crediting-assisted-work-inflates-mastery-2026]] — Anrechnung assistierter Arbeit bläht Mastery auf: welche Evidenzregel entscheidet, wer für gemeistert erklärt wird (Srivastava 2026)
+- [[noh-simulating-task-selection-2026]] — Simulation der Aufgabenauswahlstrategien und Systemrandbedingungen von Lernenden im Mastery Learning (Noh et al. 2026)

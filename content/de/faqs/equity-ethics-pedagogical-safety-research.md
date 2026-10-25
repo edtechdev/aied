@@ -1,14 +1,15 @@
 ---
 title: "Wie sollte Forschung zu KI in der Bildung Gerechtigkeit, Barrierefreiheit, Datenschutz, Ethik und pädagogische Sicherheit einbeziehen?"
 created: "2026-08-25T09:20:00-04:00"
-updated: "2026-10-10T09:50:26-04:00"
+updated: "2026-10-24T22:37:29-04:00"
 connected_faqs: [ai-disabled-neurodivergent-learners, ai-guidance-children-under-13, institutional-ai-policy, research-gaps-aied]
 weight: 60
+audience: [researchers, instructors, instructional designers]
 
 ethics: [accessibility, digital-divide, equity-in-ai-education, ethics, privacy, pedagogical-safety]
 methods: [research-methods-aied]
 translation_of: faqs/equity-ethics-pedagogical-safety-research
-source_updated: "2026-10-02T08:21:34-04:00"
+source_updated: "2026-10-21T14:32:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -19,8 +20,6 @@ ai_assist:
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
-
-# Wie sollte Forschung zu KI in der Bildung Gerechtigkeit, Barrierefreiheit, Datenschutz, Ethik und pädagogische Sicherheit einbeziehen?
 
 **Diese sollten von Beginn an als Designanforderungen und Evaluationsergebnisse behandelt werden – nicht als Einschränkungen, die der Diskussionssektion hinzugefügt werden, nachdem eine Wirksamkeitsstudie abgeschlossen ist.**
 

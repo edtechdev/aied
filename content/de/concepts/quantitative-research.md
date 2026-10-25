@@ -1,7 +1,7 @@
 ---
 title: Quantitative Forschung
 created: "2026-08-24T02:05:00-04:00"
-updated: "2026-10-10T09:04:24-04:00"
+updated: "2026-10-24T23:32:01-04:00"
 type: concept
 assessment: [educational-measurement]
 research_method: [survey, experiment]
@@ -51,6 +51,7 @@ Experimente weisen Lernende zufällig Bedingungen zu (z. B. KI-Tutor gegenüber 
 
 - **Stärken:** stärkste kausale Schlussfolgerung; saubere Ergebnismessung; unterstützt Effektstärkenschätzung und Wirksamkeitsbehauptungen.
 - **Grenzen:** kostspielig und langsam; künstliche Bedingungen reduzieren ökologische Validität; sich schnell verändernde KI-Werkzeuge datieren Experimente schnell; kleine Stichproben unterpowern die Detektion von Effekten; ethische Einschränkungen beim Vorenthalten hilfreicher Werkzeuge.
+- **Eine gruppenrandomisierte Zugangsstudie braucht eine Übernahmeprüfung.** Weil etwa 15% der Studierenden in behandelten Klassen den Tutor überhaupt nutzten, spiegelt die Intent-to-Treat-Schätzung der Studie die Wirkung der Einführung des Werkzeugs wider — einschließlich der damit verbundenen Erlaubnis und Substitution — statt den isolierten Effekt einzelner Sitzungen ([[liu-course-integrated-ai-tutoring-rct-2026|Liu et al. (2026)]]).
 
 ### Longitudinale Forschung
 
@@ -62,6 +63,8 @@ Zwischen-Datensatz-Vergleiche brauchen einen fixierten Arbeitspunkt: eine strukt
 ### Rechnerische und psychometrische Quantifizierung
 
 Quantitative Methoden schließen außerdem die direkte Messung von Konstrukten über Instrumente ein – die Domäne der [[educational-measurement|Bildungsmessung]] und der [[item-response-theory|Item-Response-Theorie]]. Das [[jin-glat-genai-literacy-assessment|GLAT]] der Wissensbasis ist ein 20-Item-quantitatives Instrument, validiert mit IRT; [[educational-measurement|Messinstrumente]] über [[ai-literacy|KI-Kompetenz]], Akzeptanz und Selbstwirksamkeit hinweg liefern die validierten Skalen, auf denen Erhebungs- und Experimentalforschung angewiesen sind.
+
+Bibliometrische Analyse ist eine weitere quantitative Familie: [[sriram-ethical-ai-medical-education-bibliometric-2026|Sriram et al. (2026)]] kartieren 1.403 [[medical-education|Medizinische und Gesundheitsberufebildung]]-Publikationen über Länder-, Institutions- und Schlagwort-Kookkurrenznetzwerke und lesen die Form einer Literatur, statt ihre Studien zu bewerten — was ihre Schlussfolgerung, dass [[governance|KI-Governance]]-Arbeit nicht mit dem Capability-Testing Schritt gehalten hat, zu einer Behauptung über das Feld macht und nicht über Lernen.
 
 ## Wie quantitative Forschung in der Wissensbasis erscheint
 
@@ -98,12 +101,14 @@ Quantitative und [[qualitative-research|qualitative]] Methoden sind Komplemente 
 
 ## Verbundene Artikel
 
-- [[access-not-enough-ai-tutoring-2026]] — A randomized field study of human support plus AI tutoring
-- [[genai-can-harm-teaching-rct-2026]] — Generative AI can harm teaching: an RCT
-- [[acceptance-ai-english-tools-2026]] — Acceptance of AI-assisted English learning tools
-- [[tian-genai-learning-adoption-pathways-2026]] — GenAI adoption pathways (PLS-SEM, fsQCA)
-- [[teacher-education-ai-literacy-sdt-2026]] — Teacher AI literacy through self-determination theory
-- [[jin-glat-genai-literacy-assessment]] — GLAT: an IRT-validated GenAI literacy test
-- [[ai-lms-middle-school-longitudinal]] — A longitudinal AI-integrated LMS study
-- [[adaptive-pretesting-retention]] — Adaptive pretesting and retention
-- [[synthetic-educational-data-structural-fidelity-2026]] — What Fidelity Metrics Miss: A Structural Check on Synthetic Educational Data
+- [[access-not-enough-ai-tutoring-2026]] — Eine randomisierte Feldstudie zu menschlicher Unterstützung plus KI-Tutoring
+- [[genai-can-harm-teaching-rct-2026]] — Generative KI kann Unterricht schaden: ein RCT
+- [[acceptance-ai-english-tools-2026]] — Akzeptanz KI-gestützter Werkzeuge für das Englischlernen
+- [[tian-genai-learning-adoption-pathways-2026]] — Adoptionspfade für generative KI (PLS-SEM, fsQCA)
+- [[teacher-education-ai-literacy-sdt-2026]] — KI-Kompetenz von Lehrkräften über die Selbstbestimmungstheorie
+- [[jin-glat-genai-literacy-assessment]] — GLAT: ein IRT-validierter GenKI-Kompetenztest
+- [[ai-lms-middle-school-longitudinal]] — Eine longitudinale KI-integrierte LMS-Studie
+- [[adaptive-pretesting-retention]] — Adaptives Pretesting und Retention
+- [[synthetic-educational-data-structural-fidelity-2026]] — Was Treuemetric-Maße verfehlen: eine strukturelle Prüfung synthetischer Bildungsdaten
+- [[liu-course-integrated-ai-tutoring-rct-2026]] — Eine gruppenrandomisierte Zugangsstudie braucht eine Übernahmeprüfung
+- [[sriram-ethical-ai-medical-education-bibliometric-2026]] — Bibliometrische Analyse ist eine weitere quantitative Familie: Sriram et al.

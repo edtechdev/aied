@@ -1,7 +1,7 @@
 ---
 title: Personalisiertes Lernen
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-10-10T09:04:27-04:00"
+updated: "2026-10-24T21:15:40-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [scaffolding]
@@ -128,22 +128,22 @@ Ein wiederkehrendes Problem ist, dass „personalisiertes Lernen" ein breiter, l
 
 ## Verbundene Artikel
 
-- [[bespoke-industry-personalized-lecture-videos-2026]] — Industry-personalized lecture video regeneration from a seed transcript: audience-level tailoring, rated by domain experts (Puech et al. 2026)
-- [[prompt-engineering-personalization-ai-teaching-assistant-2026]] — Prompt-engineering micro-personalization of an AI teaching assistant (Basu, Kakar & Goel 2026)
-- [[turano-ai-tutoring-not-a-monolith-2026]] — AI Tutoring is Not a Monolith: What We Actually Know (Stanford SCALE/NSSA brief)
-- [[mishra-control-vs-agency-history-2025]] — Distinguishes two forms of personalization (uniform vs diverse outcomes)
-- [[khalifeh-redefining-personalized-learning-ai-2026]] — Redefining personalized learning: systematic review
-- [[deeptutor]] — Agent-native personalization substrate for tutoring
-- [[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026]] — Ontology-based layered hybrid knowledge model for personalized e-learning
-- [[ai-powered-personalized-learning-elementary-fractions-2026]] — Personalized adaptive learning for elementary fractions
-- [[ai-coaching-rl-skill-development]] — Reinforcement-learning coaching for skill development
-- [[personalized-ai-generated-videos-preference-2026]] — Students prefer personalized AI-generated videos over non-personalized human-recorded ones (Tomlinson et al. 2026)
-- [[bayesian-cognitive-diagnosis-personalized-learning-paths]] — Bayesian cognitive diagnosis for personalized learning paths
-- [[graph-its-adaptive-algorithms-2026]] — Graph-Based Intelligent Tutoring for Dynamic Domains (2026)
-- [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — Instructor and AI roles in ChatGPT-enhanced formative assessment
-- [[marked-pedagogies-linguistic-bias-writing-feedback]] — Marked Pedagogies: bias in personalized automated feedback
-- [[alsheikh-mapping-ai-integration-higher-education-2026]] — Systematic review: adaptive pathways & recommenders are a top AI integration use case in higher ed
+- [[bespoke-industry-personalized-lecture-videos-2026]] — Industriepersonalisierte Regenerierung von Vorlesungsvideos aus einem Seed-Transkript: Zuschneiden auf Publikumsebene, bewertet von Domänenexpertinnen und -experten (Puech et al. 2026)
+- [[prompt-engineering-personalization-ai-teaching-assistant-2026]] — Prompt-Engineering-Mikropersonalisierung eines KI-Lehrassistenten (Basu, Kakar & Goel 2026)
+- [[turano-ai-tutoring-not-a-monolith-2026]] — KI-Tutoring ist kein Monolith: Was wir tatsächlich wissen (Stanford SCALE/NSSA-Brief)
+- [[mishra-control-vs-agency-history-2025]] — Unterscheidet zwei Formen der Personalisierung (gleichförmige gegenüber vielfältigen Ergebnissen)
+- [[khalifeh-redefining-personalized-learning-ai-2026]] — Personalisiertes Lernen neu definieren: systematisches Review
+- [[deeptutor]] — Agentennatives Personalisierungssubstrat für Tutoring
+- [[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026]] — Ontologiebasiertes geschichtetes hybrides Wissensmodell für personalisiertes E-Learning
+- [[ai-powered-personalized-learning-elementary-fractions-2026]] — Personalisiertes adaptives Lernen für Brüche in der Grundschule
+- [[ai-coaching-rl-skill-development]] — Reinforcement-Learning-Coaching für Kompetenzentwicklung
+- [[personalized-ai-generated-videos-preference-2026]] — Studierende bevorzugen personalisierte KI-generierte Videos gegenüber nicht personalisierten, von Menschen aufgenommenen (Tomlinson et al. 2026)
+- [[bayesian-cognitive-diagnosis-personalized-learning-paths]] — Bayessche kognitive Diagnose für personalisierte Lernpfade
+- [[graph-its-adaptive-algorithms-2026]] — Graphenbasiertes intelligentes Tutoring für dynamische Domänen (2026)
+- [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — Rollen von Lehrenden und KI in ChatGPT-erweitertem formativem Assessment
+- [[marked-pedagogies-linguistic-bias-writing-feedback]] — Marked Pedagogies: Bias in personalisiertem automatisiertem Feedback
+- [[alsheikh-mapping-ai-integration-higher-education-2026]] — Systematisches Review: adaptive Pfade und Recommenders sind ein führender Anwendungsfall der KI-Integration in der Hochschulbildung
 - [[riedmann-reinforcement-learning-education-review-2026]]
-- [[student-reception-genai-analogies-computing-2026]] — Flawed but Memorable: Student Critical Reception of Interest-Personalized GenAI Analogies in Computing Education
-- [[personalization-paradox-adaptive-learning-emotions-2026]] — Personalization paradox: perceived adaptive personalization linked to lower self-regulated learning via academic emotions, buffered by AI literacy (Li, Lin & Qiu 2026)
-- [[personapath-personalized-learning-paths-2026]] — PersonaPath: LLM planners reach 90.9% validity but no model exceeds 44.7% adaptivity when personalizing paths to a stated learner goal (Liu et al. 2026)
+- [[student-reception-genai-analogies-computing-2026]] — Fehlerhaft, aber einprägsam: die kritische Rezeption interessenpersonalisierter GenAI-Analogien in der Informatikbildung durch Studierende
+- [[personalization-paradox-adaptive-learning-emotions-2026]] — Personalisierungsparadox: wahrgenommene adaptive Personalisierung über akademische Emotionen mit geringerem selbstreguliertem Lernen verbunden, gepuffert durch KI-Kompetenz (Li, Lin & Qiu 2026)
+- [[personapath-personalized-learning-paths-2026]] — PersonaPath: LLM-Planer erreichen 90.9% Validität, aber kein Modell überschreitet 44.7% Adaptivität bei der Personalisierung von Pfaden zu einem erklärten Lernziel (Liu et al. 2026)

@@ -1,7 +1,7 @@
 ---
 title: Erwachsene Lernende
 created: "2026-08-06T10:43:53-04:00"
-updated: "2026-10-10T09:04:24-04:00"
+updated: "2026-10-24T22:09:25-04:00"
 type: concept
 foundations: [ai-education, learning-design]
 pedagogy: [professional-training]
@@ -11,7 +11,7 @@ confidence: medium
 methods: [usability-research]
 technology: [edtech-platform]
 translation_of: concepts/adult-learning
-source_updated: "2026-09-30T08:39:04-04:00"
+source_updated: "2026-10-16T19:47:08-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -52,6 +52,7 @@ Erwachsenenbildung liegt an der Schnittstelle mehrerer eng verbundener Konzepte 
 
 - **Gestalten Sie KI als Gerüst für Selbststeuerung, nicht als Ersatz.** Verhaltensmäßige Unabhängigkeit vom Werkzeug belegt nicht, dass die lernende Person das Lernen gesteuert hat – schützen Sie Zieleigentum, Delegationskontrolle und kognitive Wiederherstellbarkeit ([[andragogy-cognitive-delegation-genai-2026|Andragogie + kognitive Delegation]]).
 - **Passen Sie in volle erwachsene Leben.** Machen Sie Werkzeuge asynchron, mobil und offlinefähig, und verbinden Sie Inhalte mit realen Problemen ([[ai-adult-learning-guidelines-dis2026|AI-ALOE-Leitlinien]]).
+- **Gestalten Sie für ein Spektrum von Engagement, nicht für angenommene Tiefe.** Erwerbstätige Erwachsene verteilen begrenzte kognitive Ressourcen auf Jobs, Familien und Kursarbeit, sodass ein sechssemestriges Rahmenwerk sokratischen KI-Dialog belohnender machte als der schnelle Weg, statt ihn verpflichtend zu machen [[packard-thinking-partner-framework-adult-learners-2026|Packard et al. (2026)]].
 - **Behalten Sie einen Menschen in der Schleife.** Positionieren Sie die Lehrenden als Ort relationaler und kognitiver Sorge, besonders für marginalisierte und [[neurodiversity|neurodivergente]] erwachsene Lernende ([[sovereign-hive-titl-further-education-2026|Tutor-in-the-Loop]]).
 - **Adressieren Sie fundamentale digitale Kompetenz und Datenvertrauen.** Bauen Sie [[ai-literacy]] und [[trust]] rund um den Datenschutz auf, bevor Sie Annahme erwarten ([[community-centered-ai-education-adults|KI-Bildung in der Community]]).
 - **Verankern Sie KI in Lernwissenschaft und Andragogie und bevorzugen Sie tiefe Personalisierung.** Wenden Sie andragogische Theorie an und verbinden Sie Inhalte mit realen Problemen; bevorzugen Sie tiefe Personalisierung (Aufgabensequenzierung, Schwierigkeitskalibrierung) gegenüber oberflächlicher Anpassung.
@@ -101,3 +102,4 @@ Erwachsenenbildung liegt an der Schnittstelle mehrerer eng verbundener Konzepte 
 - [[dot-framework-survey-2026]]
 - [[kim-ai-productive-failure-adult-2026]] — Gestaltung von KI-Systemen zur Unterstützung Lernens auf Basis produktiven Scheiterns
 - [[kim-ai-andragogy-2026]] — KI-Anwendungen zur Unterstützung der Andragogik (Kim et al. 2026)
+- [[packard-thinking-partner-framework-adult-learners-2026]] — Gestaltung für ein Spektrum von Engagement: tiefen sokratischen Dialog zum belohnenderen Weg machen

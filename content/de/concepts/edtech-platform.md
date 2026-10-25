@@ -1,8 +1,8 @@
 ---
-connected_resources: [lesson-md, liascript, onmicro-ai]
+connected_resources: [lesson-md, liascript, onmicro-ai, teacher-dev]
 title: Edtech-Plattform
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-10T09:04:24-04:00"
+updated: "2026-10-24T22:09:03-04:00"
 connected_faqs: [designing-educational-ai-software]
 type: concept
 foundations: [ai-education]
@@ -119,24 +119,24 @@ Datenschutz kann in die Pipeline statt in die Richtlinie eingebaut werden: Ein K
 
 ## Verbundene Artikel
 - [[typology-generative-ai-tools-education-2026]] — Was 211 Lehrende berichteten zu nutzen: 50 Werkzeuge in neun Kategorien
-- [[making-ai-tutoring-productive-mastery-math-2026]] — Making AI tutoring productive: mastery-based math practice
-- [[one-click-away-khanmigo-two-year-school-experiment-2026]] — One Click Away: Khanmigo in a two-year school experiment
+- [[making-ai-tutoring-productive-mastery-math-2026]] — KI-Tutoring wirksam machen: mathematisches Üben auf Meisterschaftsbasis
+- [[one-click-away-khanmigo-two-year-school-experiment-2026]] — One Click Away: Khanmigo in einem zweijährigen Schulversuch
 - [[access-not-enough-ai-tutoring-2026]] — Annahme und Engagement sind die bindenden Restriktionen für KI-Tutoring-Plattformen
 - [[oatutor-open-source-adaptive-tutor-2023]] — Eine Open-Source-adaptive Tutoring-Plattform für replizierbare Forschung
-- [[mooc-to-maic]] — Moving from MOOC to LLM-driven multi-agent AI classrooms
-- [[ai-lms-middle-school-longitudinal]] — AI-integrated LMS for middle school with bounded, privacy-first support
-- [[taklif-ai-interest-based-personalized-assignments]] — Interest-based personalized assignment platform
-- [[edusim-llm-robotic-simulation-education-2026]] — An LLM-robotic simulation platform for education
-- [[teachy-mini-generative-social-robot-higher-ed-2026]] — A generative social-robot teaching platform in higher education
-- [[hypergamification-game-engine-lms]] — A game-engine-based LMS integrating gamification
-- [[edtech-design-time-generative-ui]] — Designing edtech for generative UI
-- [[lata-ferpa-compliant-local-llm-autograder]] — FERPA-compliant local LLM autograder platform
-- [[vismatic-secure-sandbox-cs-education]] — A secure sandbox platform for CS education
-- [[learnmate2-llm-adaptive-learning]] — LLM-powered personalized adaptive learning platform
-- [[privacy-aware-classroom-incident-recognition-2026]] — Privacy-aware computer vision in classroom platforms
-- [[raza-farooq-aied-review-2020-2025]] — Comprehensive review of AIED research and systems
-- [[credentials-carry-evidence-ai-agents-2026]] — Credentials that carry their evidence for AI-agent work
+- [[mooc-to-maic]] — Vom MOOC zum LLM-gesteuerten Multi-Agenten-KI-Klassenzimmer
+- [[ai-lms-middle-school-longitudinal]] — KI-integriertes LMS für die Mittelschule mit begrenzter, datenschutzfirst Unterstützung
+- [[taklif-ai-interest-based-personalized-assignments]] — Interessenbasierte personalisierte Aufgabenplattform
+- [[edusim-llm-robotic-simulation-education-2026]] — Eine LLM-gestützte robotische Simulationsplattform für die Bildung
+- [[teachy-mini-generative-social-robot-higher-ed-2026]] — Eine generative Sozialroboter-Unterrichtsplattform in der Hochschulbildung
+- [[hypergamification-game-engine-lms]] — Ein spielmotorbasiertes LMS mit integrierter Gamifizierung
+- [[edtech-design-time-generative-ui]] — Edtech für generative Benutzeroberflächen gestalten
+- [[lata-ferpa-compliant-local-llm-autograder]] — FERPA-konforme lokale LLM-Autograder-Plattform
+- [[vismatic-secure-sandbox-cs-education]] — Eine sichere Sandbox-Plattform für die Informatikausbildung
+- [[learnmate2-llm-adaptive-learning]] — LLM-gestützte personalisierte adaptive Lernplattform
+- [[privacy-aware-classroom-incident-recognition-2026]] — Datenschutzbewusste Computer Vision in Klassenraumplattformen
+- [[raza-farooq-aied-review-2020-2025]] — Umfassender Review der AIED-Forschung und -Systeme
+- [[credentials-carry-evidence-ai-agents-2026]] — Nachweise, die ihre Belege für die Arbeit mit KI-Agenten mit sich tragen
 - [[breideband-community-builder-cobi-2026]]
 - [[xai-teachers-trust-edtech-recommendations-2026]]
-- [[edtech-privacy-deferral-2026]] — "We'll Fix It Later": Education, AI, and the Deferral of Student Privacy in EdTech
-- [[synthetic-educational-data-structural-fidelity-2026]] — What Fidelity Metrics Miss: A Structural Check on Synthetic Educational Data
+- [[edtech-privacy-deferral-2026]] — „Wir fixen das später“: Bildung, KI und der Aufschub der Privatsphäre von Lernenden in EdTech
+- [[synthetic-educational-data-structural-fidelity-2026]] — Was Treue-Metriken verfehlen: eine strukturelle Prüfung synthetischer Bildungsdaten

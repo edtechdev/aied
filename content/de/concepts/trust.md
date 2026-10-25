@@ -1,7 +1,7 @@
 ---
 title: Vertrauen
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-10-10T09:04:24-04:00"
+updated: "2026-10-24T23:30:00-04:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, human-ai-collaboration]
 technology: [educational-robotics, intelligent-tutoring]
@@ -53,10 +53,14 @@ Wie erklärbar ein System ist — und in welchen Begriffen — formt ebenfalls, 
 
 Vertrauen in KI verhält sich als Pfad von Bewertung zu Verlassenheit statt als einzelne Einstellung: wahrgenommene KI-Ermächtigung und wahrgenommene KI-Bedrohung waren nahezu unabhängig (r=0.030), bewegten Vertrauen aber in entgegengesetzte Richtungen (β=0.576 und β=−0.328), und Vertrauen trug signifikante indirekte Assoziationen mit GenAI-Abhängigkeit in beide Richtungen ([[ai-empowerment-threat-genai-dependence-2026|Zhu et al. (2026)]]).
 
+Ein strukturelles Modell gibt dieser vermittelnden Rolle eine empirische Prüfung. In der Befragung von 642 Studierenden durch [[trust-calibration-genai-collaborative-regulation-2026|Bu & Li (2026)]] sagte kontextuelle Unterstützung Vertrauenskalibrierung voraus (β = 0,56), Vertrauenskalibrierung sagte [[collaborative-learning|kollaborative]] [[regulation|Regulierung]] (β = 0,49) und wahrgenommene [[transfer-of-learning|Transfer]]gewinne (β = 0,22) voraus, und der direkte Pfad von kontextueller Unterstützung zu Gewinnen war nicht signifikant.
+
 [[student-perspectives-ai-writing-grading-2026|AlGhamdi (2026)]] stützt eine **funktionsspezifische statt globale** Darstellung von Vertrauen in Algorithmen: weder Algorithmusaversion noch Algorithmusbegeisterung beschrieben diese 13 Studierenden, die ChatGPT für Feedback auf Oberflächenebene gleichzeitig vertrauten und ihm als Benotendem misstrauten. Ihr Vertrauen war bedingt durch Aufsicht der Lehrenden, und ihre Skepsis stammte aus den kontextuellen Grenzen der KI — gescannte Handschrift falsch lesen („es buchstabierte meinen Nachnamen falsch und glaubt, ich hätte Rechtschreibfehler gemacht, was ich nicht hatte“), das Benotungssystem der Lehrenden nicht kennen, und chronische Positivität — statt aus Technophobie, was nahelegt, dass Vertrauensmaße nach der Funktion zerlegt werden sollten, die eine KI vollzieht, und nach dem damit verbundenen Einsatz.
 
 
 Die drei Dimensionen der Quellenglaubwürdigkeit können dissoziieren: siebzehn EFL-Studierende im Grundstudium räumten einem KI-Schreibassistenten breite Expertise ein, zweifelten seine Vertrauenswürdigkeit hauptsächlich wegen dessen an, was die Plattform zurückhielt, und bewerteten seinen guten Willen am niedrigsten — die Obergrenze ihrer Verlassenheit saß in der Sorge, nicht in der Kompetenz ([[bounded-reliance-ai-writing-feedback-2026|Serpil & Mor, 2026]]).
+
+Glaubwürdigkeitssignale können die Verlassenheit auf falsche Antworten erhöhen: das Hinzufügen von Zitationen und Autoritätssignalen zu einer Debattenoberfläche erhöhte den Wechsel von einer korrekten Beurteilung zur Position der KI von 15,0% auf 31,8%, während das Zurückhalten einer empfohlenen Position diesen Wechsel auf 5,7–8,2% senkte ([[tuo-armada-multi-agent-debate-overreliance-2026|Tuo et al., 2026]]).
 
 ## Vertrauen in KI folgt psychischem Zustand, nicht demografischer Kategorie
 
@@ -95,31 +99,33 @@ Kalibrierung wird auch durch die Anreize des vertrauten Systems selbst geprüft.
 - [[social-norms-ai-use]] — das soziale Risiko, auf dem Normen und Offenlegung laufen
 
 ## Verbundene Artikel
-- [[ilieva-agentic-genai-higher-education-2026]] — Perceived risk correlates positively with continued-use intention: informed adoption (Ilieva et al. 2026)
-- [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai]] — The teacher-student trust gap over control and agency in K-12 classroom AI
-- [[qu-wang-disclose-or-not-genai-2026]] — Disclosing AI use is driven by relational factors and comfort with instructors, not policy
-- [[genai-teacher-feedback-comparison]] — GenAI and teacher feedback serve different, complementary trust needs
-- [[care-full-feedback-genai]] — Trustworthy feedback as a "care-full," relational practice
-- [[ai-fallibility-warning-help-seeking]] — Warning about AI fallibility increases help-seeking in an ITS
-- [[calibrating-trustworthiness-llm-education-2026]] — Co-designing trustworthiness metrics and visualizations for LLMs in education
-- [[ai-overreliance-complex-adaptive-system-2026]] — AI overreliance modeled as a complex adaptive system
-- [[fouad-bentley-trust-utility-gap-physics-2026]] — The trust-utility gap in physics AI tools
-- [[t2i-competence-paradox-2026]] — The competence paradox in AI image generation
-- [[task-context-trust-educational-hri-2026]] — Task context shapes trust in educational robots more than appearance
-- [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]] — Avatar identity and epistemic trust in AI-mediated learning
-- [[contextual-sycophancy-ai-literacy]] — Contextual sycophancy and its limits for trust calibration
-- [[sycophantic-ai-social-interaction-2026]] — Sycophantic AI makes human interaction feel less satisfying over time
-- [[ai-pedagogical-accompaniment-amico]] — Accountable pedagogical mediation and trust in AI-enabled systems
-- [[best-response-student-ai-dialog-2026]] — Trust in student-AI dialogue
-- [[ai-adaptation-gap-higher-education-2026]] — Perceived usefulness as the strongest predictor of AI trust in higher ed
-- [[bassett-ai-detectors-education-2026]] — Trust and distrust of AI detection systems
-- [[genai-use-usefulness-student-experience-australia-2026]] — Student experience of GenAI usefulness in Australian higher ed (Chung et al. 2026)
-- [[mejia-domenzain-ml-findings-teachers-blended-2026]] — Making ML findings accessible to teachers in blended classrooms
+- [[ilieva-agentic-genai-higher-education-2026]] — Wahrgenommenes Risiko korreliert positiv mit der Absicht zur fortgesetzten Nutzung: informierte Annahme (Ilieva et al. 2026)
+- [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai]] — Die Vertrauenslücke zwischen Lehrkraft und Studierenden über Kontrolle und Handlungsfähigkeit in KI im K-12-Klassenraum
+- [[qu-wang-disclose-or-not-genai-2026]] — Offenlegung von KI-Nutzung wird durch relationale Faktoren und das Wohlbefinden mit Lehrenden getrieben, nicht durch Richtlinien
+- [[genai-teacher-feedback-comparison]] — GenAI- und Lehrkräftefeedback dienen unterschiedlichen, komplementären Vertrauensbedürfnissen
+- [[care-full-feedback-genai]] — Vertrauenswürdiges Feedback als „care-full", relationale Praxis
+- [[ai-fallibility-warning-help-seeking]] — Warnung vor KI-Fehlbarkeit erhöht die Hilfesuche in einem ITS
+- [[calibrating-trustworthiness-llm-education-2026]] — Mit-Entwurf von Vertrauenswürdigkeitsmetriken und -visualisierungen für LLMs in der Bildung
+- [[ai-overreliance-complex-adaptive-system-2026]] — KI-Überabhängigkeit als komplexes adaptives System modelliert
+- [[fouad-bentley-trust-utility-gap-physics-2026]] — Die Vertrauens-Nutzen-Lücke bei Physik-KI-Werkzeugen
+- [[t2i-competence-paradox-2026]] — Das Kompetenzparadox bei der KI-Bilderzeugung
+- [[task-context-trust-educational-hri-2026]] — Aufgabenkontext prägt Vertrauen in Bildungsroboter stärker als das Erscheinungsbild
+- [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]] — Avatar-Identität und epistemisches Vertrauen in KI-vermitteltem Lernen
+- [[contextual-sycophancy-ai-literacy]] — Kontextuelle Sykophantie und ihre Grenzen für die Vertrauenskalibrierung
+- [[sycophantic-ai-social-interaction-2026]] — Sykophantische KI lässt menschliche Interaktion über die Zeit weniger befriedigend wirken
+- [[ai-pedagogical-accompaniment-amico]] — Verantwortungsvolle pädagogische Vermittlung und Vertrauen in KI-gestützte Systeme
+- [[best-response-student-ai-dialog-2026]] — Vertrauen im Dialog zwischen Studierenden und KI
+- [[ai-adaptation-gap-higher-education-2026]] — Wahrgenommene Nützlichkeit als stärkster Prädiktor von Vertrauen in KI in der Hochschulbildung
+- [[bassett-ai-detectors-education-2026]] — Vertrauen und Misstrauen gegenüber KI-Detektionssystemen
+- [[genai-use-usefulness-student-experience-australia-2026]] — Erleben der GenAI-Nützlichkeit durch Studierende in der australischen Hochschulbildung (Chung et al. 2026)
+- [[mejia-domenzain-ml-findings-teachers-blended-2026]] — ML-Befunde für Lehrkräfte in Blended-Classrooms zugänglich machen
 - [[xai-teachers-trust-edtech-recommendations-2026]]
 - [[vahedian-children-attitudes-ai-chatbot-2026]]
-- [[student-perspectives-ai-writing-grading-2026]] — Who Should Grade My Work? Student Perspectives on Transparent AI-Assisted Writing Assessment in Higher Education
-- [[trust-in-ai-psychological-profiles-ml-2026]] — Three student profiles in which AI trust tracks resilience and stress rather than demographics (Kumar et al. 2026)
-- [[bounded-reliance-ai-writing-feedback-2026]] — Bounded Reliance: A Source Credibility Perspective on EFL Students' Engagement with AI-Generated Writing Feedback
+- [[student-perspectives-ai-writing-grading-2026]] — Wer soll meine Arbeit benoten? Studierendenperspektiven auf transparente KI-gestützte Schreibbewertung in der Hochschulbildung
+- [[trust-in-ai-psychological-profiles-ml-2026]] — Drei Studierendenprofile, in denen Vertrauen in KI Resilienz und Stress folgt statt Demografie (Kumar et al. 2026)
+- [[bounded-reliance-ai-writing-feedback-2026]] — Begrenzte Verlassheit: eine Quellenglaubwürdigkeitsperspektive auf das Engagement EFL-Studierender mit KI-generiertem Schreibfeedback
 
-- [[ai-empowerment-threat-genai-dependence-2026]] — Empowerment and threat appraisals moved trust in opposite directions, carrying GenAI dependence
-- [[observer-perceptions-genai-interpersonal-trust-2026]] — Peers' GenAI use lowers interpersonal trust through perceived warmth and competence, buffered by AI literacy
+- [[ai-empowerment-threat-genai-dependence-2026]] — Ermächtigungs- und Bedrohungsbewertungen bewegten Vertrauen in entgegengesetzte Richtungen und trugen GenAI-Abhängigkeit
+- [[observer-perceptions-genai-interpersonal-trust-2026]] — GenAI-Nutzung durch Peers senkt interpersonales Vertrauen über wahrgenommene Wärme und Kompetenz, abgemildert durch KI-Kompetenz
+- [[tuo-armada-multi-agent-debate-overreliance-2026]] — Glaubwürdigkeitssignale erhöhten den Wechsel zu einer falschen KI-Position; das Zurückhalten einer Empfehlung unterdrückte ihn
+- [[trust-calibration-genai-collaborative-regulation-2026]] — Ein strukturelles Modell gibt dieser vermittelnden Rolle eine empirische Prüfung

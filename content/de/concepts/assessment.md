@@ -2,7 +2,7 @@
 connected_resources: [idstack, lesson-md, master-instructional-design]
 title: Leistungsbeurteilung
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-10T09:04:22-04:00"
+updated: "2026-10-24T23:50:47-04:00"
 connected_faqs: [redesign-assessment-ai-era, reduce-ai-cheating, course-ai-policy, group-work-ai, asynchronous-online-courses-ai]
 type: concept
 foundations: [academic-integrity]
@@ -38,7 +38,7 @@ ai_assist:
 
 ## Einführung
 
-Assessment ist aus zwei Gründen zentral für KI in der Bildung. Erstens wird KI selbst eingesetzt, um Studierende zu bewerten — um Aufsätze, Code, Kurzantworten und Klausuren in großem Maßstab zu benoten. Zweitens verändert KI im Unterricht, was Assessments valide messen können, da Studierende [[generative-ai]] zur Erzeugung von Arbeit nutzen können. Das Feld umfasst daher sowohl die *Werkzeuge*, die Assessment automatisieren, als auch die *Validitäts- und Integritätsfragen*, die KI aufwirft.
+Assessment ist aus zwei Gründen zentral für KI in der Bildung. Erstens wird KI selbst eingesetzt, um Studierende zu bewerten — um Aufsätze, Code, Kurzantworten und Klausuren in großem Maßstab zu benoten. Zweitens verändert KI im Unterricht, was Assessments valide messen können, da Studierende [[generative-ai]] zur Erzeugung von Arbeit nutzen können. Das Feld umfasst daher sowohl die *Werkzeuge*, die Assessment automatisieren, als auch die *Validitäts- und Integritätsfragen*, die KI aufwirft. Ein PRISMA-Review von 72 Hochschul-Assessmentstudien fand, dass Lehrende GenAI über den gesamten Assessmentzyklus hinweg nutzten — Erstellung von Assessments, Übung, Benotung, Transparenz von Lernen und Feedback —, wobei die Erstellung von Assessments und Feedback die am häufigsten genannten Affordanzen waren ([[higher-ed-assessments-genai-systematic-review|Crompton und Burke (2026)]]).
 
 ## Wie KI im Assessment eingesetzt wird
 
@@ -55,6 +55,7 @@ Assessment ist aus zwei Gründen zentral für KI in der Bildung. Erstens wird KI
 KI wirft grundlegende [[assessment-validity|Validitätsfragen]] auf: Messen KI-benotete Assessments das Lernen der Studierenden oder [[prompt-engineering|KI-Prompting-Fähigkeit]]? Entwertet die KI-Nutzung der Studierenden traditionelle Assessments? Zu den zentralen Herausforderungen zählen:
 
 - **Konstruktvalidität:** [[competency-based-education-genai-production-2026|Forschung zu kompetenzbasierter Bildung]] zeigt, dass generative KI den Rückschluss zwischen Leistung und zugrunde liegender Fähigkeit zerrissen hat — eine lernende Person kann Arbeit in professionellem Standard abliefern, die sie ohne das Werkzeug nicht reproduzieren kann. Das motiviert eine Neukonzeption dessen, welche Kompetenzen bewertet werden.
+- **Ein Drei-Ecken-Rahmenwerk zur Neuausrichtung von Assessment.** [[koretsky-genai-stem-assessment-2026|Koretsky et al. (2026)]] behandeln allgegenwärtige GenAI als ein Validitäts- und Fähigkeitsdefinitionsproblem statt als Betrugsproblem und argumentieren, dass die drei Ecken des Assessment-Dreiecks — Kognition, Beobachtung und Interpretation — gemeinsam neu ausgerichtet werden müssen statt nacheinander gepatcht zu werden.
 - **Koautorschaft und Integrität:** [[coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene|Coauthorship-Integrität]] schlägt eine neue Quelle von Validitätsbelegen vor, die verletzt wird, wenn Studierende KI-erzeugte Inhalte einreichen, die sie nicht verstehen, und erkundet konversationelle „KI-Vivas“ als Antwort.
 - **Psychometrische Qualität:** [[psychometrically-aware-ai]] und [[automated-assessment|konfidenzbewusstes Assessment]] arbeiten daran, KI-Benotung zuverlässig, unbefangen und interpretierbar zu halten.
 - **Evaluation von KI-Prüfenden:** [[ai-ed-evaluation]] liefert die Methoden und [[benchmark|Benchmarks]], um zu bestimmen, ob automatisierte Prüfende tatsächlich funktionieren — bei Zuverlässigkeit, [[pedagogy|Pädagogik]] und [[equity-in-ai-education|Gerechtigkeit]] — statt allein bei Schlagzeilen-Genauigkeit.
@@ -120,22 +121,23 @@ Ein Vorschlag in dieser Literatur geht über Neugestaltung innerhalb des gegenw�
 - [[mccorkle-aligned-genai-course-policy-2025]] — KI-Freigaben auf Aufgabenebene, abgeleitet aus dem, was bewertet wird (McCorkle 2025)
 - [[usher-faraon-who-grades-best-2026]] — Vergleich von ChatGPT-, Peer- und Lehrendenbenotung über Projektqualitätsniveaus hinweg (Usher & Faraon 2026)
 - [[responsible-assessment-ai-era-stanford-2026]] — Verantwortungsvolles Assessment im KI-Zeitalter
-- [[beyond-detection-authentic-assessment-ai-2025]] — Beyond Detection: authentisches Assessment
+- [[beyond-detection-authentic-assessment-ai-2025]] — Jenseits der Detektion: authentisches Assessment
 - [[coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene]] — Coauthorship-Integrität und Assessmentvalidität
 - [[competency-based-education-genai-production-2026]] — Kompetenzbasierte Bildung nach generativer KI
 - [[genai-assessment-governance]] — Evidenzzentrierte Governance generativer KI im Assessment
 - [[ssaho-ai-academic-integrity-review-2025]] — Review zu KI-Integrität: Detektion muss mit Assessment-Neugestaltung gepaart werden
-- [[bassett-ai-detectors-education-2026]] — Heads we win, tails you lose: AI detectors in education (Bassett et al. 2026)
-- [[aivaluate-anxiety-assessment-2026]] — AIvaluate: LLM-Augmented Assessment of Student Anxiety (2026)
-- [[graph-its-adaptive-algorithms-2026]] — Graph-Based Intelligent Tutoring for Dynamic Domains (2026)
-- [[asynchronous-oral-assessment-2026]] — Asynchronous Oral Assessments in the AI Era (Pentland 2026)
-- [[assessing-student-drive-framework-2025]] — DRIVE: assessing learning through GenAI interaction (DRI + Visible Expertise)
-- [[walton-bearman-assessment-judgment-2025]] — Judgment in students' work with GenAI on assessment tasks (26 students, scroll-back)
-- [[stamatoulis-genai-use-patterns-2026]] — Patterns of GenAI use (evaluative integration vs low-verification uptake) and outcomes
-- [[luo-dawson-value-judgments-grading-2026]] — Value judgments in grading GenAI-assisted work: honesty, trust, validity, and two-way transparency (Luo & Dawson 2026)
-- [[razavi-powers-item-difficulty-llm-2026]] — Estimating item difficulty using LLMs and tree-based ML
+- [[bassett-ai-detectors-education-2026]] — Heads we win, tails you lose: KI-Detektoren in der Bildung (Bassett et al. 2026)
+- [[aivaluate-anxiety-assessment-2026]] — AIvaluate: LLM-erweitertes Assessment von Studierendenangst (2026)
+- [[graph-its-adaptive-algorithms-2026]] — Graphbasiertes intelligentes Tutoring für dynamische Domänen (2026)
+- [[asynchronous-oral-assessment-2026]] — Asynchrone mündliche Assessments im KI-Zeitalter (Pentland 2026)
+- [[assessing-student-drive-framework-2025]] — DRIVE: Lernen durch GenAI-Interaktion bewerten (DRI + Visible Expertise)
+- [[walton-bearman-assessment-judgment-2025]] — Urteil in der Arbeit von Studierenden mit GenAI in Assessment-Aufgaben (26 Studierende, Scroll-back)
+- [[stamatoulis-genai-use-patterns-2026]] — Muster der GenAI-Nutzung (evaluative Integration vs. gering verifizierte Kurzstreckenübernahme) und Ergebnisse
+- [[luo-dawson-value-judgments-grading-2026]] — Werturteile bei der Benotung GenAI-unterstützter Arbeit: Ehrlichkeit, Vertrauen, Validität und gegenseitige Transparenz (Luo & Dawson 2026)
+- [[razavi-powers-item-difficulty-llm-2026]] — Aufgabenschwierigkeit mit LLMs und baumbasiertem ML schätzen
 - [[pecuchova-automated-grading-open-ended-genai-2026]]
 - [[mesny-innovative-assessment-grading-management-2026]]
 - [[olvet-genai-scoring-open-ended-medical-2026]]
 - [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]
-- [[computing-assessment-genai-workshop-report-2026]] — AI Can Do Your Homework. Now What? Report from an online workshop on computing assessment in the age of generative AI
+- [[computing-assessment-genai-workshop-report-2026]] — AI Can Do Your Homework. Now What? Bericht eines Online-Workshops zu Assessment in der Informatik im Zeitalter generativer KI
+- [[koretsky-genai-stem-assessment-2026]] — Ein Drei-Ecken-Rahmenwerk zur Neuausrichtung von Assessment

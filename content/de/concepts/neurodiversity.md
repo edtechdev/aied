@@ -1,7 +1,7 @@
 ---
 title: Neurodiversität
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-10-10T09:04:23-04:00"
+updated: "2026-10-24T19:40:06-04:00"
 type: concept
 ethics: [equity-in-ai-education, inclusive-learning, neurodiversity]
 connected_faqs: [ai-guidance-children-under-13, ai-disabled-neurodivergent-learners]
@@ -9,7 +9,7 @@ audience: [learners, instructors, instructional designers]
 level: [special education, higher ed, k 12]
 confidence: high
 translation_of: concepts/neurodiversity
-source_updated: "2026-09-30T08:05:25-04:00"
+source_updated: "2026-10-16T08:47:09-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -65,6 +65,7 @@ Die Risikoseite hat ihre eigene Literatur. [[seung-basham-cognitive-offloading-s
 ## Designwarnungen
 
 - **Diagnoseabhängige Unterstützung schließt die Lernenden aus, die sie nicht benennt.** Die Kritik des Scoping-Reviews gilt direkt dafür, wie KI-Merkmale eingesetzt werden: Wenn ein Merkmal durch ein Anpassungsschreiben freigeschaltet wird, sehen Lernende mit funktionalen Unterschieden, aber ohne Diagnose es nie.
+- **Detektorgetriebene Prozesse können legitime Anpassungsnutzung abschrecken.** Wo eine Sprachtechnologie als wirksame Anpassung für eine neurodivergente lernende Person funktioniert, werfen ein pauschales Verbot oder ein detektorgetriebener Prozess, der ihre legitime Nutzung abschreckt, Gleichstellungsfragen auf – der annullierte Fehlverhaltensfall, den die [[ai-detection|Detektions]]-Literatur dokumentiert, betraf eine Studierende in einem Unterstützungsprogramm für Menschen im Autismus-Spektrum ([[angelier-ai-detection-pitfalls-inclusive-assessment-2026|Angelier (2026)]]).
 - **Werkzeuge können epistemisch ausschließen, nicht nur schlecht.** [[genai-minoritized-knowledges-disability|Tali-Otmani (2026)]] argumentiert, anglophone, westlich-zentrierte Trainingsdaten marginalisierten nicht-hegemoniale Weisen des Wissens, und stelle die Situation behinderter Lernender in das Zentrum jener Kritik –, eine Warnung, dass „inklusive“ KI dennoch kodieren kann, wessen Wissen zählt.
 - **Verhaltenssignale werden von Systemen gelesen, die den Lernenden nicht kennen.** Die Interpretation von [[student-engagement|Engagement]], Kampf oder Aufmerksamkeit in [[learning-analytics|Learning Analytics]] und [[student-modeling|Modellierung von Studierenden]] setzt ein normatives Antwortmuster voraus; siehe [[differential-effects-across-learner-groups|Unterschiedliche Effekte zwischen Gruppen von Lernenden]] für die Fairnessevidenz zu jener Annahme.
 - **Abhängigkeit ist ein Designergebnis, kein Lernendenversagen.** Angesichts des obigen Abhängigkeitspfades ist die Frage an jedes KI-Merkmal, ob es für den höheren Prozess einspringt, den die Aufgabe aufzubauen da ist – der Punkt, den Seung und Basham für Lernbehinderungen machen.
@@ -95,13 +96,14 @@ Neurodiversität verbindet sich mit [[special-education|Sonderpädagogik]], [[in
 
 ## Verbundene Artikel
 
-- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — Generative AI, virtual reality, and beyond: a scoping review of digital assistive technologies for neurodivergent students in higher education
-- [[zhang-ai-students-disabilities-meta-analysis-2024]] — 29 studies of AI for students with disabilities, and an effect that differs by category
-- [[adhd-video-segmentation-computing-education]] — Temporal video segmentation that brought ADHD participants to parity
-- [[neurodivergent-computing-students]] — 24 neurodivergent computing students on structure, ambiguity, and collaboration
-- [[genai-reliance-executive-functioning-2026]] — Executive-functioning difficulties, perceived usefulness, and the route to AI reliance
-- [[seung-basham-cognitive-offloading-swld-2026]] — GenAI cognitive offloading for students with learning disabilities
-- [[dabaghi-ai-dyslexia-education-review-2026]] — AI to help people with dyslexia in education
-- [[genai-minoritized-knowledges-disability]] — Generative AI and the marginalization of minoritized knowledges
-- [[tactile-statistical-graphs-accessibility]] — Tactile Statistical Graphs for Accessibility
-- [[ai-learning-tools-engineering-education-needs]] — Designing Needs- and Attention-Aware AI Learning Tools
+- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — Generative KI, Virtual Reality und darüber hinaus: ein Scoping-Review digitaler assistiver Technologien für neurodivergente Studierende in der Hochschulbildung
+- [[zhang-ai-students-disabilities-meta-analysis-2024]] — 29 Studien zu KI für Studierende mit Behinderung, und ein Effekt, der nach Kategorie differiert
+- [[adhd-video-segmentation-computing-education]] — Temporale Videosegmentierung, die ADHS-Teilnehmende auf Parity brachte
+- [[neurodivergent-computing-students]] — 24 neurodivergente Informatikstudierende zu Struktur, Mehrdeutigkeit und Zusammenarbeit
+- [[genai-reliance-executive-functioning-2026]] — Schwierigkeiten exekutiver Funktionen, wahrgenommene Nützlichkeit und der Weg zur KI-Abhängigkeit
+- [[seung-basham-cognitive-offloading-swld-2026]] — Kognitives Offloading mit GenAI für Studierende mit Lernbehinderungen
+- [[dabaghi-ai-dyslexia-education-review-2026]] — KI, um Menschen mit Legasthenie in der Bildung zu helfen
+- [[genai-minoritized-knowledges-disability]] — Generative KI und die Marginalisierung minorisierter Wissensformen
+- [[tactile-statistical-graphs-accessibility]] — Taktile statistische Grafiken für Barrierefreiheit
+- [[ai-learning-tools-engineering-education-needs]] — Design von bedarfs- und aufmerksamkeitsbewussten KI-Lernwerkzeugen
+- [[angelier-ai-detection-pitfalls-inclusive-assessment-2026]] — Detektorgetriebene Prozesse können legitime Anpassungsnutzung abschrecken

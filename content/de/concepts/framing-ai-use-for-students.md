@@ -1,7 +1,7 @@
 ---
 title: Die Einordnung der KI-Nutzung für Studierende
 created: "2026-08-19T08:05:00-04:00"
-updated: "2026-10-10T09:04:27-04:00"
+updated: "2026-10-24T20:10:02-04:00"
 type: concept
 foundations: [academic-integrity, ai-literacy]
 pedagogy: [collaborative-learning, motivation]
@@ -28,7 +28,7 @@ ai_assist:
 ## Fragen zum Nachdenken
 
 - Die bloße Bereitstellung von KI für Studierende war mit ineffektiver oder sogar unethischer Nutzung assoziiert, während explizite Einordnung und Einbettung angemessener Nutzung die Ergebnisse verbesserte. Wenn die Anwesenheit des Werkzeugs weniger zählt als seine Einordnung, was sagt das über die Betonung, Studierenden einfach „KI zu geben"?
-- Das Wissen der Studierenden über die KI-Regeln der [[governance|Institution]] zeigt nur schwache Verbindungen zu dem, was sie tatsächlich tun — die meisten nutzen generative KI, viele sind unsicher, ob ihre Nutzung konform ist, und sie stützen sich auf privat zugängliche Werkzeuge. Warum scheitern Regeln daran, Verhalten zu ändern, und was könnte überzeugen statt bloß zu informieren?
+- Das Wissen der Studierenden über die KI-Regeln der Institution zeigt nur schwache Verbindungen zu dem, was sie tatsächlich tun — die meisten nutzen generative KI, viele sind unsicher, ob ihre Nutzung konform ist, und sie stützen sich auf privat zugängliche Werkzeuge. Warum scheitern Regeln daran, Verhalten zu ändern, und was könnte überzeugen statt bloß zu informieren?
 - Wenn Institutionen auf KI mit Angst und Verurteilung reagieren, verbergen oder rationalisieren Lernende ihre Nutzung möglicherweise, statt zu lernen, sie gut zu nutzen. Haben Sie schon einmal gesehen, wie eine Reaktion der „moral panic" Studierende in Heimlichkeit getrieben hat? Wie würde ein neu eingeordneter, gelegenheitsfokussierter Ansatz aussehen?
 - Angst vor KI ist nicht rein eine Barriere: Lernende, die sich über Richtigkeit und Plagiat sorgten, waren *wahrscheinlicher* dabei, KI-Ausgaben zu verifizieren und zu überarbeiten, statt sie unkritisch zu akzeptieren. Wie könnte produktive Angst in Bewertungskompetenz kanalisiert werden, statt unterdrückt zu werden?
 - Studierende konstruieren ihr eigenes Gefühl davon, was akzeptabel ist, über „Orte" — Absichten des Lehrkörpers, Kursdokumente, Peer-Normen und institutionelle Botschaften —, die oft auseinandergehen. Wenn diese Botschaften sich widersprechen, welche gewinnt Ihrer Meinung nach tatsächlich, und wie schließt Einordnung diese Lücke?
@@ -39,7 +39,9 @@ Das Konzept liegt zwischen zwei vertrauteren. Wo das [[technology-acceptance-mod
 
 ## Warum Einordnung wichtig ist
 
-Einordnung ist wichtig, weil **Richtlinien und Regeln Verhalten nicht verlässlich von selbst verändern**. Befragungs-[[research-methods-aied|Forschung]] zum Bewusstsein für [[regulation|Regulierung]] findet, dass das Wissen der Studierenden über institutionelle GenAI-Regeln nur schwache bis mäßige Assoziationen mit dem zeigt, was sie tatsächlich tun — die meisten Studierenden nutzen [[generative-ai|generative KI]]-Werkzeuge, über die Hälfte ist unsicher, ob ihre Nutzung den institutionellen Regeln entspricht, und sie stützen sich auf privat zugängliche Werkzeuge statt auf institutionell bereitgestellte.([[student-regulatory-awareness-genai]]) Die Regeln zu kennen ist notwendig, aber nicht hinreichend; die Botschaft muss *überzeugen*, nicht nur informieren.
+Einordnung ist wichtig, weil **Richtlinien und Regeln Verhalten nicht verlässlich von selbst verändern**. Befragungs-[[research-methods-aied|Forschung]] zum Bewusstsein für [[regulation|Regulierung]] findet, dass das Wissen der Studierenden über institutionelle GenAI-Regeln nur schwache bis mäßige Assoziationen mit dem zeigt, was sie tatsächlich tun — die meisten Studierenden nutzen generative KI-Werkzeuge, über die Hälfte ist unsicher, ob ihre Nutzung den institutionellen Regeln entspricht, und sie stützen sich auf privat zugängliche Werkzeuge statt auf institutionell bereitgestellte.([[student-regulatory-awareness-genai]]) Die Regeln zu kennen ist notwendig, aber nicht hinreichend; die Botschaft muss *überzeugen*, nicht nur informieren.
+
+Unterschiedliche Einordnung kann auch innerhalb einer einzigen Richtlinie entstehen statt nur zwischen Orten: Eine Stimmungsanalyse von 36 Hochschulrichtlinien fand, dass Lehrstatement positiv gerahmt waren, während GenAI- und Ethik-Statements negativ gerahmt waren, sodass Studierende in einem Dokument Ermutigung und Zurückhaltung trafen ([[sun-governing-genai-policy-cross-national-2026|Sun et al. (2026)]]).
 
 Der Rahmen formt auch, ob Studierende KI als **Bedrohung, die zu meiden oder zu umgehen ist**, gegenüber einer **Ressource, die absichtsvoll zu nutzen ist**, erleben. Wenn Institutionen auf KI mit Angst und Verurteilung reagieren — was eine Arbeitsrichtung eine wiederkehrende „moral panic" nennt —, treiben sie Studierende dazu, ihre Nutzung zu verbergen oder zu rationalisieren, statt zu lernen, sie gut zu nutzen.([[moral-panic-genai-classroom]]) Angst und Verurteilung in strukturierte Gelegenheit umzurahmen verändert die gesamte Dynamik des [[student-engagement|Engagements der Studierenden]] mit KI.
 
@@ -105,18 +107,18 @@ Studierende werden auch durch den weiteren Mediendiskurs und den öffentlichen D
 
 - [[genai-support-threaten-learning-k20-expert-consensus-2026]] - Ein Konsens von 30 Expertinnen und Experten zur Sequenz: ohne GenAI erwerben, mit ihr konsolidieren, dann selbst denken
 
-- [[mccorkle-aligned-genai-course-policy-2025]] — Transparent rationale for each allowed and unallowed GenAI use, task by task (McCorkle 2025)
-- [[moral-panic-genai-classroom]] — Encouraging appropriate use of GenAI rather than condemning it as disruption
-- [[student-rationalization-ai-writing]] — The „five sites" where students rationalize AI use in academic writing
-- [[student-regulatory-awareness-genai]] — Knowing the rules is not enough: regulatory awareness and actual use
-- [[ai-anxiety-strategic-regulation-writing-2026]] — From AI anxiety to strategic regulation
-- [[chatgpt-inoculation-training-verification-2026]] — Inoculation messaging and verification behavior
-- [[ai-fallibility-warning-help-seeking]] — Warning about AI fallibility increases help-seeking
-- [[shame-guilt-ai-regulation-computing-education]] — Shame and guilt as social regulators of AI use
-- [[access-not-enough-ai-tutoring-2026]] — Human support improves engagement with AI tutoring
-- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]] — SDT-based engagement with GenAI
-- [[ai-availability-student-motivation]] — How AI availability shapes student motivation
-- [[youtube-frames-chatgpt-education]] — How YouTube frames ChatGPT use in education
-- [[ai-ethics-education-public-discourse]] — Public discourse on AI ethics in education
-- [[ithaka-sr-ai-skills-college-graduates-2026]] — Instructors frame AI as critical/responsible use; employers frame it as productivity
-- [[ssaho-ai-academic-integrity-review-2025]] — Building a culture of academic integrity via clear expectations
+- [[mccorkle-aligned-genai-course-policy-2025]] — Transparente Begründung für jede erlaubte und jede unerlaubte GenAI-Nutzung, Aufgabe für Aufgabe (McCorkle 2025)
+- [[moral-panic-genai-classroom]] — Angemessene Nutzung von GenAI ermutigen statt sie als Störung zu verurteilen
+- [[student-rationalization-ai-writing]] — Die „fünf Orte", an denen Studierende KI-Nutzung im akademischen Schreiben rationalisieren
+- [[student-regulatory-awareness-genai]] — Die Regeln zu kennen reicht nicht: regulatorisches Bewusstsein und tatsächliche Nutzung
+- [[ai-anxiety-strategic-regulation-writing-2026]] — Von KI-Angst zu strategischer Regulation
+- [[chatgpt-inoculation-training-verification-2026]] — Inokulationsbotschaften und Verifikationsverhalten
+- [[ai-fallibility-warning-help-seeking]] — Warnung vor KI-Fehlbarkeit erhöht Hilfesuche
+- [[shame-guilt-ai-regulation-computing-education]] — Scham und Schuld als soziale Regulatoren der KI-Nutzung
+- [[access-not-enough-ai-tutoring-2026]] — Menschliche Unterstützung verbessert das Engagement mit KI-Tutoring
+- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]] — SDT-basiertes Engagement mit GenAI
+- [[ai-availability-student-motivation]] — Wie KI-Verfügbarkeit die Motivation von Studierenden prägt
+- [[youtube-frames-chatgpt-education]] — Wie YouTube die Nutzung von ChatGPT in der Bildung einordnet
+- [[ai-ethics-education-public-discourse]] — Öffentlicher Diskurs über KI-Ethik in der Bildung
+- [[ithaka-sr-ai-skills-college-graduates-2026]] — Lehrende ordnen KI als kritische/verantwortungsvolle Nutzung ein; Arbeitgeber als Produktivität
+- [[ssaho-ai-academic-integrity-review-2025]] — Eine Kultur akademischer Integrität über klare Erwartungen aufbauen

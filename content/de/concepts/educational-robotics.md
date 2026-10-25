@@ -1,7 +1,7 @@
 ---
 title: Roboter in der Bildung
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-10-10T09:04:24-04:00"
+updated: "2026-10-25T00:25:09-04:00"
 type: concept
 foundations: [computational-thinking]
 pedagogy: [embodied-learning]
@@ -11,7 +11,7 @@ discipline: [stem education, cs education]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/educational-robotics
-source_updated: "2026-10-01T09:59:02-04:00"
+source_updated: "2026-10-21T10:45:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -62,6 +62,7 @@ Zwei Stränge prägen die soziale Seite der Robotik in der Bildung.
 - **Greifbares Programmieren und soziale Roboter in der KI-Kompetenz von Pre-K.** Lee (2026) integriert unpluggedes Spiel, greifbares Programmieren (Bee-Bot, Ozobot) und angeleiteten Dialog mit einem sozialen KI-Roboter im Curriculum Play With AI (PL-AI) für Pre-K und Kindergarten, das die [[ai-literacy|KI-Kompetenz]] der Kinder durch verkörperte, greifbare Robotikaktivitäten stützt. Die [[design-based-research|designbasierte Forschung]] dokumentiert, wie diese verkörperten, greifbaren Robotikaktivitäten das entstehende Schlussfolgern von Kindern über KI-Konzepte unterstützen, wobei vier Designprinzipien – verkörpertes Spiel, greifbares Programmieren, angeleiteter Dialog und Co-Design durch die Lehrkraft – ein entwicklungsangemessenes Modell für Robotik und KI-Bildung in der [[early-childhood-elementary-ai-education|frühen Kindheit]] bieten.
 - **Zwei Paradigmen für junge Lernende: Programmierroboter und generative soziale Roboter.** [[creative-project-approach-ai-early-childhood-2025|Yang, Li und Lee (2025)]] rahmen Robotik in der frühen Kindheit als Paarung zweier [[pedagogy|pädagogischer]] Paradigmen mit je eigener theoretischer Basis. **Programmierroboter** (Bee-Bot, KIBO, Matatalab) stammen von Paperts LOGO ab und verkörpern [[constructivist|Konstruktionismus]] – Kinder lernen durch Machen und bauen [[computational-thinking|computational thinking]] durch greifbares Programmieren auf. **Generative soziale Roboter**, angetrieben von [[generative-ai|generativer KI]], gründen in [[sociocultural-learning|sozialem Konstruktivismus]] und agieren als konversationelle Peers oder Tutoren, die Lernen innerhalb der Zone der proximalen Entwicklung des Kindes [[scaffolding|stützen]] und sozial-emotionale Entwicklung unterstützen. Ihr fünfschrittiger **Creative Project Approach** zur Integration beider Robotertypen in den Project Approach hält Lehrkräfte als Facilitators, die Interaktion zwischen Kind und Roboter anleiten, Automatisierung mit [[creativity|Kreativität]] ausbalancieren und [[agency|Handlungsfähigkeit]] des Kindes bewahren.
 - **Was Robotik für computational thinking im Kindergarten tatsächlich tut.** Ein systematischer Review von 53 Studien fand problembasiertes Lernen, Storytelling und Scaffolding als am häufigsten genutzte Strategien, wobei die meisten Studien keinen CT-Rahmen benannten und eher ad hoc Assessment-Werkzeuge nutzten als ein validiertes Instrument wie TechCheck-K ([[tsingidou-ct-robotics-kindergarten-2026|Tsingidou & Sapounidis (2026)]]).
+- **LLM-Planung statt Konversation.** [[vlm-task-planning-humanoid-robot-autism-education-2026|Kudláčková (2026)]] nutzt ein Vision-Language-Model, um Fotografien von Shoebox Tasks — visuell strukturierte Aktivitäten, die mit Lernenden im Autismus-Spektrum eingesetzt werden — in ein PDDL-Problem zu überführen, das ein Nao-Humanoid ausführt oder demonstriert, wobei die Plan-Richtigkeit über sechs Aufgaben hinweg bewertet wird statt eines Ergebnisses der Lernenden.
 
 ### Verkörperung und Pädagogik
 
@@ -113,11 +114,12 @@ Ein bestimmendes Thema ist, dass Roboter wirksam sind, wenn sie echte Lernziele 
 - [[enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen]] — Robotik-LLM-Integration im kreativen Schreiben
 - [[game-based-gamified-robotics-education-review-2026]] — Spielbasierte und gamifizierte Robotikbildung
 - [[bots-blocks-project-based-robotics-education-2026]] — Bots and Blocks
-- [[educational-robotics-pathways-2026]] — Pathways to Learning AI-Powered Educational Robotics (2026)
+- [[educational-robotics-pathways-2026]] — Pfade zum Lernen mit KI-gestützter Bildungsrobotik (2026)
 - [[tsingidou-ct-robotics-kindergarten-2026]] — Robotervermitteltes computational thinking im Kindergarten
 - [[ai-toys-child-development-2026]] — KI-fähiges Spielzeug und kindliche Entwicklung
-- [[creative-project-approach-ai-early-childhood-2025]] — The Creative Project Approach: integrating coding and generative social robots into early-childhood projects (Yang, Li & Lee 2025)
-- [[teaching-with-robots-five-types-perspective-2026]] — Five functionally distinct types of classroom robot, from scripted demonstration to one-to-one empathic dialogue (Christ et al. 2026)
-- [[arc-hubs-k12-ai-robotics-rural-2026]] — ARC: a hubs-based framework that treats technical mentorship capacity and hub geography, not hardware, as the constraint on rural K–12 robotics programs (Jacobson et al. 2026)
-- [[teaching-rl-humanoid-robotics-high-school-2026]] — Teaching Reinforcement Learning and Humanoid Robotics to High-School Students: An Expert-Validated Curriculum Design on a Low-Cost Open Platform
-- [[aifred-desk-robotic-ai-guidance-2026]] — A desk-mounted robotic projector: co-located guidance preserved transfer where laptop ChatGPT lost it
+- [[creative-project-approach-ai-early-childhood-2025]] — Der Creative Project Approach: Integration von Codierung und generativen sozialen Robotern in Projekte der frühen Kindheit (Yang, Li & Lee 2025)
+- [[teaching-with-robots-five-types-perspective-2026]] — Fünf funktional unterscheidbare Typen von Klassenzimmer-Robotern, von skriptierter Demonstration bis eins-zu-eins-empathischem Dialog (Christ et al. 2026)
+- [[arc-hubs-k12-ai-robotics-rural-2026]] — ARC: ein hubs-basiertes Rahmenwerk, das technische Mentoring-Kapazität und Hub-Geografie statt Hardware als Beschränkung ländlicher K-12-Robotikprogramme behandelt (Jacobson et al. 2026)
+- [[teaching-rl-humanoid-robotics-high-school-2026]] — Reinforcement Learning und Humanoid-Robotik bei High-School-Studierenden lehren: ein expertenvalidiertes Curriculum-Design auf einer kostengünstigen offenen Plattform
+- [[aifred-desk-robotic-ai-guidance-2026]] — Ein schreibtischmontierter Roboter-Projektor: co-lokalisierte Anleitung bewahrte Transfer, wo Laptop-ChatGPT ihn verlor
+- [[vlm-task-planning-humanoid-robot-autism-education-2026]] — Ein Vision-Language-Model plant Shoebox Tasks für einen Nao-Roboter (Kudláčková 2026)

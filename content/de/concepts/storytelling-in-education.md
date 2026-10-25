@@ -1,7 +1,7 @@
 ---
 title: Storytelling in der Bildung
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-10-10T09:04:24-04:00"
+updated: "2026-10-24T20:13:33-04:00"
 type: concept
 pedagogy: [creativity, motivation, storytelling-in-education, student-engagement]
 technology: [educational-robotics]
@@ -59,4 +59,4 @@ Storytelling verbindet sich mit [[student-engagement]], [[motivation]], [[creati
 - [[robobuddy-llm-social-robots-classroom-2025]] — RoboBuddy
 - [[icub-humanoid-storytelling-llm-hri-2025]] — iCub Narrative HRI
 - [[remind-robot-mediated-roleplay-antibullying-2026]] — REMind
-- [[white-wu-robotics-ai-education-2026]] — Robotics and AI in Education
+- [[white-wu-robotics-ai-education-2026]] — Robotik und KI in der Bildung

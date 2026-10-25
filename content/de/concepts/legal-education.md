@@ -1,7 +1,7 @@
 ---
 title: "Rechtswissenschaftliche Bildung"
 created: "2026-09-18T05:10:00-04:00"
-updated: "2026-10-10T09:04:27-04:00"
+updated: "2026-10-24T23:48:52-04:00"
 type: concept
 foundations: [academic-integrity, critical-thinking, reducing-ai-misuse]
 pedagogy: [career-development-and-readiness, experiential-learning, professional-training, socratic-method]
@@ -15,7 +15,7 @@ audience: [instructors, curriculum designers, administrators, researchers]
 page_kind: [synthesis]
 confidence: medium
 translation_of: concepts/legal-education
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-16T06:18:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -70,6 +70,8 @@ Drei Dinge machen rechtswissenschaftliche Bildung zu mehr als nur einem weiteren
 
 **Assessmentvalidität ist von professioneller Kompetenz untrennbar.** [[cognitive-offloading|Überabhängigkeit]] während der Law School wird befürchtet, Absolventinnen und Absolventen unvorbereitet für Arbeit zu hinterlassen, die unabhängige Rechtsanalyse und Advocacy verlangt, und Benoten, das flüssige Ausgabe belohnt, kann das Verständnis einer lernenden Person nicht von dem eines Modells unterscheiden. Die [[assessment-validity|Validitäts]]frage ist daher nicht akademisch.
 
+In einem Experiment im Rechtskontext folgten 186 laische Entscheidungsträger in Zivilverfahren vor Gericht einer falschen KI-Position deutlich seltener, wenn das System die eigene Position zurückhielt (5,7–8,2% gegenüber 42,0–60,5%), erwarben aber kein messbares Urteilsvermögen — eher schützend als korrigierend, und gemessen an laischen Entscheidungsträgern, nicht an Jurastudierenden ([[tuo-armada-multi-agent-debate-overreliance-2026|Tuo et al., 2026]]).
+
 **Offenlegungsnormen sind ungeklärt und folgenreich.** Gutowski und Hurley berichten Uneinigkeit darüber, ob jede KI-Nutzung offengelegt werden muss, Vorschläge für Offenlegungsformulare der Studierenden, und keinen Konsens über Zitationspraxis, wobei das Bluebook weiterhin zum Zitieren generativer KI schweigt. Sie sagen zudem vorher, dass Offenlegungspflichten irgendwann so sinnlos erscheinen werden wie der Hinweis, dass jemand eine Suchmaschine benutzt hat, was eine Vorhersage über die Haltbarkeit der jetzt geschriebenen Regeln ist.
 
 **Berufsethik reist mit der Absolventin oder dem Absolventen.** Die Pflicht der ABA zu technologischer Kompetenz und ihre Leitlinien zu Vertraulichkeit, Aufsicht und Aufrichtigkeit gegenüber dem Gericht gelten für praktizierende Anwältinnen und Anwälte, die diese Werkzeuge nutzen, und Law Schools erben die Aufgabe, sie zu lehren. Das ist der Grund, warum die Disziplin sich direkt mit der Arbeit der Wissensbasis zu [[ai-use-disclosure|Offenlegung der KI-Nutzung]] und zu den [[legal-issues-and-risks|rechtlichen Fragen und Risiken]] verbindet, die entstehen, wenn Institutionen KI schlecht governieren.
@@ -100,4 +102,5 @@ Drei Dinge machen rechtswissenschaftliche Bildung zu mehr als nur einem weiteren
 ## Verbundene Artikel
 
 - [[gutowski-hurley-genai-policy-legal-education-2025]] — Fünf-Faktoren-Vergleich von Richtlinien zu generativer KI an Law Schools und ein Governance-Rahmenwerk
-- [[llm-turing-test-italian-legal-exams-2026]] — Blind Turing test on Italian bar, judges and notary examinations, benchmarked against expert marking
+- [[llm-turing-test-italian-legal-exams-2026]] — Blinder Turing-Test bei italienischen Anwalts-, Richter- und Notarprüfungen, benchmarkt gegen Expertenbewertung
+- [[tuo-armada-multi-agent-debate-overreliance-2026]] — Zurückhalten der Systemposition unterdrückt Überabhängigkeit bei Entscheidungen im Rechtskontext, ohne Urteilsvermögen aufzubauen (laiche Entscheidungsträger, keine Jurastudierenden)

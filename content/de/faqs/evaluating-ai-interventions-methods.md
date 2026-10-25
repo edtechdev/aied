@@ -1,14 +1,15 @@
 ---
 title: "Welche Maße und Forschungsmethoden kann eine Lehrkraft nutzen, um KI-bezogene Interventionen zu evaluieren?"
 created: "2026-08-25T09:20:00-04:00"
-updated: "2026-10-10T09:50:26-04:00"
+updated: "2026-10-24T22:39:37-04:00"
 connected_faqs: [does-ai-help-students-learn, checking-whether-educational-ai-works, research-gaps-aied]
 weight: 55
+audience: [instructors, researchers, faculty developers]
 assessment: [assessment, self-report-measures]
 page_kind: [evaluation]
 methods: [ai-ed-evaluation, research-methods-aied]
 translation_of: faqs/evaluating-ai-interventions-methods
-source_updated: "2026-10-02T08:21:34-04:00"
+source_updated: "2026-10-21T14:32:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -19,8 +20,6 @@ ai_assist:
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
-
-# Welche Maße und Forschungsmethoden kann eine Lehrkraft nutzen, um KI-bezogene Interventionen zu evaluieren?
 
 **Passen Sie die Methode an die Behauptung an.** Wenn Sie wissen wollen, ob Studierenden eine KI-Aktivität *gefiel*, kann eine Befragung helfen. Wenn Sie wissen wollen, ob sie *gelernt haben*, nutzen Sie Leistungsmaße. Eine Befragung ist ein [[self-report-measures|Selbstauskunftsmaß]] – das richtige Instrument für Einstellungen und das falsche für Lernen, aus den Gründen, die auf jener Seite gesammelt sind. Wenn Sie wissen wollen, ob die KI *eine Verbesserung verursachte*, brauchen Sie eine glaubwürdige Vergleichsbedingung und vorzugsweise zufällige Zuweisung.
 

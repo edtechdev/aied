@@ -1,13 +1,13 @@
 ---
 title: Verteilte Kognition
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-10-10T09:04:24-04:00"
+updated: "2026-10-24T23:50:47-04:00"
 type: concept
 foundations: [agency, cognitive-offloading, human-ai-collaboration]
 pedagogy: [distributed-cognition, embodied-learning, learning-theories, metacognition, situated-learning]
 confidence: high
 translation_of: concepts/distributed-cognition
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-21T11:40:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -38,6 +38,7 @@ Dies ist ein Konzept der Lerntheorie innerhalb des Strangs [[learning-theories]]
 Generative und interaktive KI-Systeme verteilen kognitive Arbeit auf Weisen um, die frühere Werkzeuge nicht vermochten. Die Wissensdatenbank dokumentiert mehrere Dimensionen dieser Verschiebung:
 
 - **KI als kognitiver Partner und Koregulator.** KI kann als [[scaffolding|Gerüst]], metakognitive Unterstützung, externes Gedächtnissystem und Entscheidungspartner in der Ko-[[regulation]] von Denken und Lernen wirken.([[ai-cognitive-partner-co-regulation-learning]]) Dies positioniert Kognition als zwischen lernender Person und System koreguliert statt individuell gesteuert.
+- **Das Volumen der KI-Nutzung verrät nicht, welche Form verteilter Arbeit geschieht:** [[cognitive-offloading-llm-synthesis-writing|Poquet et al. (2026)]] fanden, dass sich die volumenbasierten Profile von 97 Lernenden in Vorwissen und Autorschaft unterschieden, nicht aber in aktiver Rolle oder Verständnisniveau-Prompting, sodass gemeinsame Aktivität und Arbeitsteilung mit demselben Nutzungsvolumen einhergehen können.
 - **Umverteilung von Handlungsfähigkeit und Verantwortung.** Rahmen wie die **Ensemble-Kognition** konzeptualisieren Denken neu als etwas, das aus dynamischer Mensch-[[student-ai-interaction|KI-Interaktion]] entsteht, und unterscheiden die *funktionale Handlungsfähigkeit* der KI (ihre Fähigkeit, Ergebnisse ohne Bewusstsein zu beeinflussen) von *moralischer Verantwortung* (die beim Menschen verbleibt).([[ensemble-cognition-philosophy-ai-education]]) Verteilte Kognition formt damit neu, wer für das Lernen rechenschaftspflichtig ist.
 - **Die Spannung zwischen Effizienz und Regulation.** Empirische Arbeit zeigt einen Trade-off: Mensch-KI-Systeme, die Argumentation am effizientesten verteilen (z. B. durch delegiertes Schlussfolgern), erreichen höhere Aufgabenleistung, können aber das selbstregulatorische [[student-engagement|Engagement]] der Lernenden verringern.([[hao-human-ai-collaborative-problem-solving-cognition]]) Das ist das empirische Gesicht der Risiken [[cognitive-offloading]] und [[cognitive-offloading|Auslagerung]], die die Wissensdatenbank dokumentiert.
 - **Mediation in der Zusammenarbeit.** KI kann als *[[pedagogy|pädagogischer]] Mediator* wirken, der Interaktion, epistemische Sinnbildung und regulatorische Prozesse in [[collaborative-learning|kollaborativem Lernen]] orchestriert und Handlungsfähigkeit, Autorität und Verantwortung über menschliche und nicht-menschliche Akteure hinweg verteilt.([[niari-ai-pedagogical-mediator-collaborative-learning]])
@@ -84,7 +85,7 @@ Fowlin et al. (2026) operationalisieren diese Verteilung als zweiphasige Abfolge
 - [[ensemble-cognition-philosophy-ai-education]] — Ensemble-Cognition-Rahmen, der Denken als Mensch-KI-Interaktion neu konzeptualisiert
 - [[elsayed-pedagogical-symbiosis-posthuman-learner]] — Posthumane lernende Person mit über biologische und künstliche Systeme verteilter Kognition
 - [[fowlin-operationalizing-learning-principles-ai]] — Operationalisierung verteilter Kognition neben erfahrungsbasiertem und situiertem Lernen
-- [[cognitive-commons-ai-expertise-regeneration]] — The tragedy of the cognitive commons: AI and expertise regeneration
-- [[choi-teacher-ai-interaction-lesson-design-2026]] — Teacher-AI interaction in lesson design: AI-dominant vs complementary distributed cognition by experience and proficiency (Choi et al. 2026)
-- [[xu-genai-collaborative-space-2026]] — GenAI as agent and collaborative space: how access configuration distributes group cognition (Xu et al. 2026)
-- [[cognitive-distribution-student-genai-interaction-2026]] — Cognitive Distribution Framework: five interaction types and four roles from self-directed ChatGPT use
+- [[cognitive-commons-ai-expertise-regeneration]] — Die Tragödie des kognitiven Gemeinguts: KI und Regeneration von Expertise
+- [[choi-teacher-ai-interaction-lesson-design-2026]] — Lehrkraft-KI-Interaktion im Unterrichtsentwurf: KI-dominante vs. komplementäre verteilte Kognition nach Erfahrung und Kompetenz (Choi et al. 2026)
+- [[xu-genai-collaborative-space-2026]] — GenAI als Agent und kollaborativer Raum: wie die Zugangskonfiguration Gruppenkognition verteilt (Xu et al. 2026)
+- [[cognitive-distribution-student-genai-interaction-2026]] — Cognitive Distribution Framework: fünf Interaktionstypen und vier Rollen aus selbstgesteuerter ChatGPT-Nutzung

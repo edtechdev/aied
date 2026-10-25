@@ -1,7 +1,7 @@
 ---
 title: Automatisiertes Assessment
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-10T09:04:23-04:00"
+updated: "2026-10-25T00:10:53-04:00"
 type: concept
 connected_faqs: [ai-save-instructor-time, ai-feedback-at-scale]
 foundations: [teacher-role]
@@ -52,7 +52,7 @@ Automatisierte Benotung ist eine der reifsten und am breitesten eingesetzten [[a
 
 - **Studierende trennen Feedbacknutzen von evaluativer Autorität:** [[student-perspectives-ai-writing-grading-2026|AlGhamdi (2026)]] dokumentiert einen Fall, in dem ein KI-Score in die Noten einging und Studierende das wussten – 13 Informatikstudierende, deren eingescannte handschriftliche Arbeit von ChatGPT gegen eine Rubrik aus Klarheit, Organisation, Satzrichtigkeit und Prägnanz bewertet wurde. Jede Teilnehmende fand das Feedback nützlich, dennoch trennten alle diesen Nutzen von Autorität, und mehrere wiesen den einseitigen, nicht-dialogischen Charakter automatisierter Benotung zurück – „ChatGPT ist nicht wie Menschen. Mit denen reden Sie und erklären Ausreden … ich mag es, wenn der normale Lehrer [mir] meine Arbeit benotet.“ Die Studie positioniert automatisierte Evaluation als akzeptabel für oberflächliche Überarbeitung, aber nicht als finale Bewerterin, mit bedingtem Vertrauen, das durch Aufsicht der Lehrenden vermittelt ist.
 - **Kurzantwort-Benotung:** [[cong-confidence-asag-2026|Konfidenzbewusste ASAG]] bewerten Freitextantworten, wobei Konfidenzkalibrierung kritisch ist – Systeme müssen wissen, wann Benotung verlässlich ist. Ein Scoping Review zur automatischen Benotung von Kurzantworten in den [[science-education|Naturwissenschaften]] (2017–Anfang 2024) dokumentiert die Geschichte des Feldes: [[auto-marking-short-answer-science-2026|Morley et al.]] fanden, dass Modelle der BERT-Familie (Base, RoBERTa, DistilBERT, SciBERT) dominierten – eingesetzt in 20 von 21 Studien, mit Höhepunkt 2021 –, bevor GPT-basierte Ansätze ab etwa 2022 über [[prompt-engineering]] statt über Feinabstimmung übernommen wurden. Modelle, die mit Domänendaten angereichert waren (Lehrbücher, [[feedback|Rubriken]], weiteres Vortrainieren), übertrafen durchgängig jene ohne, doch nur wenige konnten Benotungen in menschlich nachvollziehbaren Begriffen begründen, und [[bias-mitigation|Bias]] über demografische und sprachliche Gruppen hinweg wurde selten untersucht –, was die Autoren zu dem Argument führt, automatische Benoter sollten [[teacher-role|menschliche Prüfende]] *unterstützen* statt ersetzen. Ein PRISMA-geleiteter [[meta-analysis-systematic-review|systematischer Review]] von 42 empirischen Studien zu Benotung und Feedback (2023–2025) verallgemeinert diese Warnung über das Feld hinweg: LLMs erreichen die Übereinstimmung mit menschlichen Beurteilenden bei geschlossenen Aufgaben und Kurzantwortfragen, können aber menschliches Urteil bei komplexer, offener oder subjektiver Arbeit, die vertiefte Analyse oder [[creativity|Kreativität]] erfordert, nicht vollständig ersetzen, und die höchste Effektivität der Benotung wird in hybriden Systemen erreicht, die KI-getriebene Benotung mit Aufsicht und Verifikation durch Lehrende paaren ([[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]).
-- **Essay-Bewertung:** Systeme zum [[automated-essay-scoring]] wie [[choi-anchor-aes-prompting-2025|ankerbasierte AES]] nutzen [[prompt-engineering|Prompting-Strategien]], um sich der Zuverlässigkeit auf menschlichem Niveau anzunähern. [[aiawe-automated-writing-evaluation|AIAWE]] erweitert automatisierte Evaluation auf breiteres Schreib-Assessment.
+- **Essay-Bewertung:** Systeme zum [[automated-essay-scoring]] wie [[choi-anchor-aes-prompting-2025|ankerbasierte AES]] nutzen [[prompt-engineering|Prompting-Strategien]], um sich der Zuverlässigkeit auf menschlichem Niveau anzunähern. RACES, ein belohnungsalignierter Essay-Scorer, meldete eine höhere Quadratic Weighted Kappa und SimCSE-Ähnlichkeit als die bewerteten vortrainierten und feinabgestimmten Baselines auf ASAP 2.0 ohne Signifikanztestung; sein Reward-Modeling-Feedback war ein LLM-generierter Stellvertreter, sodass nur die Referenzscores von Menschen stammten ([[large-language-models-teaching-learning-higher-ed|Li et al. (2026)]]). [[aiawe-automated-writing-evaluation|AIAWE]] erweitert automatisierte Evaluation auf breiteres Schreib-Assessment.
 - **Code-Review:** [[automated-grading-linux-bash-examinations-large-language-models|Linux-Bash-Benotung]] und [[code-review-genai-cs1|CS1-Code-Review]] demonstrieren automatisiertes Assessment in der [[cs-education|Informatikbildung]].
 - **Eine Prompt-Persona kann einen Bewerter kollabieren lassen, und Feinabstimmung kann es reparieren:** [[llm-graders-computer-science-exams-2026|Habibullah et al. (2026)]] benoteten eine praktische Prüfung in Computer Vision (570 doppelt benotete Studierende) unter 171 Konfigurationen und eine zweite Prüfung in [[machine-learning|maschinellem Lernen]] (1.038 Studierende) unter 162 weiteren. Ein kurzes „Strict-Grader“-Vorspann trieb 14 von 17 Open-Weights-Modellen aus dem benoteten Band (MAE ≥ 8), drei stellten das Benoten ganz ein; der Schaden ging auf zwei Noten-zurückhaltende Sätze zurück statt auf Ton oder Modellgröße, und seine Richtung war prüfungsspezifisch, indem er sieben Modelle in der zweiten Prüfung verbesserte. Leichte LoRA-Feinabstimmung auf etwa 3.900 gepoolte benotete Beispiele brachte fünf kleine [[open-source|offene Modelle]] auf Parity oder besser gegenüber einem menschlichen Bewerter, daher ist die Verletzlichkeit ein Prompting-Artefakt statt eine Fähigkeitsgrenze.
 - **Formative Integration:** [[automated-formative-assessments-a-level-sciences|A-level-Naturwissenschaftsautomatisierung]] und [[cotal-formative-assessment-scoring-2026|CoTAL]] zeigen, wie automatisierte Benotung in [[formative-assessment]]-Zyklen eingespeist wird.
@@ -154,44 +154,44 @@ Automatisiertes Assessment verbindet sich mit [[assessment-validity]] (Qualität
 - [[summative-assessment]] — Summatives Assessment: KI-resistente Formate (mündlich, beaufsichtigt, geschlossen)
 
 ## Verbundene Artikel
-- [[llm-structured-assessment-diagnostic-quality-2026]] — LLM rubric sub-dimensions are near-redundant and feedback rarely names misconceptions (Zhao et al. 2026)
-- [[opraise-automated-marking-ai-assessment-2026]] — OpRaise report: AI marking of 761 university essays across three UK universities
-- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — HITL AI-assisted scoring in a large-scale national writing assessment (Curi et al. 2026)
-- [[llm-comparative-judgment-writing-screening-2026]] — Validity of Large Language Model Comparative Judgment for Universal Writing Screening
-- [[usher-faraon-who-grades-best-2026]] — Comparing ChatGPT, peer, and instructor grading across project quality levels (Usher & Faraon 2026)
-- [[assessing-quality-ai-generated-exams-field-2025]] — Assessing the quality of AI-generated exams: a large-scale field study
-- [[automated-formative-assessments-a-level-sciences]] — Automated formative assessments in A-level sciences
-- [[cong-confidence-asag-2026]] — Confidence-aware automatic short-answer grading
-- [[ai-scoring-language-bias-physics]] — AI scoring language bias in physics
-- [[llm-difficulty-calibration-programming-exams-2026]] — LLM-based difficulty calibration for programming exams
-- [[choi-anchor-aes-prompting-2025]] — Anchor-based automated essay scoring prompting
-- [[cotal-formative-assessment-scoring-2026]] — CoTAL formative assessment scoring
-- [[automated-grading-linux-bash-examinations-large-language-models]] — Automated grading of Linux Bash exams with LLMs
-- [[confidence-aware-student-drawing-assessment]] — Confidence-aware assessment of student-drawn figures
-- [[diagramir-educational-math-diagram-evaluation]] — DiagramIR: automatic evaluation of generated math diagrams
-- [[shap-llm-rationales-teaching-quality-assessment]] — SHAP vs LLM rationales for rubric-based teaching quality assessment
-- [[eeg-familiarity-automated-assessment-2026]] — Automating Learner Assessment: EEG-Based Familiarity Prediction
-- [[harmogen-ai-assessment-rubric-generation]] — HARMOGEN-R: AI assessment rubric generation
-- [[ai-assisted-instructor-supervised-grading-feedback]] — AI-assisted instructor-supervised grading and feedback
-- [[ai-grading-handwritten-physics-2026]] — AI grading of handwritten physics assessments (Olympiad)
+- [[llm-structured-assessment-diagnostic-quality-2026]] — LLM-Rubrik-Subdimensionen sind nahezu redundant, und Feedback benennt Missverständnisse selten (Zhao et al. 2026)
+- [[opraise-automated-marking-ai-assessment-2026]] — OpRaise-Bericht: KI-Benotung von 761 Hochschul-Essays in drei britischen Universitäten
+- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — HITL KI-gestützte Bewertung in einer großmaßstäblichen nationalen Schreibprüfung (Curi et al. 2026)
+- [[llm-comparative-judgment-writing-screening-2026]] — Validität des Comparative Judgment durch Large Language Models für universelles Schreib-Screening
+- [[usher-faraon-who-grades-best-2026]] — Vergleich der Benotung durch ChatGPT, Mitstudierende und Lehrende über Projektniveaus hinweg (Usher & Faraon 2026)
+- [[assessing-quality-ai-generated-exams-field-2025]] — Bewertung der Qualität KI-generierter Prüfungen: eine großmaßstäbliche Feldstudie
+- [[automated-formative-assessments-a-level-sciences]] — Automatisierte formative Assessments in A-Level-Naturwissenschaften
+- [[cong-confidence-asag-2026]] — Konfidenzbewusste automatische Kurzantwort-Benotung
+- [[ai-scoring-language-bias-physics]] — KI-Bewertung und Sprachbias in der Physik
+- [[llm-difficulty-calibration-programming-exams-2026]] — LLM-basierte Schwierigkeitskalibrierung für Programmierprüfungen
+- [[choi-anchor-aes-prompting-2025]] — Ankerbasiertes Prompting für automatisiertes Essay-Scoring
+- [[cotal-formative-assessment-scoring-2026]] — CoTAL: Bewertung im formativen Assessment
+- [[automated-grading-linux-bash-examinations-large-language-models]] — Automatisierte Benotung von Linux-Bash-Prüfungen mit LLMs
+- [[confidence-aware-student-drawing-assessment]] — Konfidenzbewusste Bewertung von Studierenden gezeichneter Figuren
+- [[diagramir-educational-math-diagram-evaluation]] — DiagramIR: automatische Bewertung generierter mathematischer Diagramme
+- [[shap-llm-rationales-teaching-quality-assessment]] — SHAP versus LLM-Rationales für rubrikbasierte Bewertung der Unterrichtsqualität
+- [[eeg-familiarity-automated-assessment-2026]] — Automatisiertes Lernenden-Assessment: EEG-basierte Familiarity Prediction
+- [[harmogen-ai-assessment-rubric-generation]] — HARMOGEN-R: KI-gestützte Erzeugung von Assessment-Rubriken
+- [[ai-assisted-instructor-supervised-grading-feedback]] — KI-gestützte, von Lehrenden beaufsichtigte Benotung und Feedback
+- [[ai-grading-handwritten-physics-2026]] — KI-Benotung handschriftlicher Physik-Assessments (Olympiade)
 - [[auto-marking-short-answer-science-2026]]
 - [[pecuchova-automated-grading-open-ended-genai-2026]]
 - [[cvengros-grading-handwritten-chemistry-ai-2026]]
 - [[falahat-chatgpt-grading-pharmacy-exams-2026]]
 - [[olvet-genai-scoring-open-ended-medical-2026]]
 - [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]
-- [[student-perspectives-ai-writing-grading-2026]] — Who Should Grade My Work? Student Perspectives on Transparent AI-Assisted Writing Assessment in Higher Education
-- [[tripartite-feedback-framework-ai-assessment-2026]] — Tripartite framework: sorting feedback by epistemic status and the five boundary principles for AI involvement (Venetsanos 2026)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — Red-team evaluation of prompt injection hidden in student submissions against AI-mediated grading (Humble 2026)
-- [[li-explainable-trustworthy-llm-teacher-assessment-2025]] — Explainable-by-design LLM framework for automated teacher assessment with trust-gated inference (Li et al. 2025)
-- [[gpt4-handwritten-math-exam-grading-2026]] — handwritten semi-open mathematics grading with a confidence filter for human re-checking
-- [[llm-grade-bands-calibration-bias-2026]] — Can large language models reproduce higher education grade bands? Cross-model study of calibration and grading bias in authentic student writing
-- [[sophie-clinical-communication-ai-assessment-2026]] — Scalable AI-based clinical communication training and automated assessment
-- [[automated-constructive-assessment-hdr-llm-2026]] — Automating Constructive Assessment with Large Language Models: Toward Scalable and Repeated Evaluation of Practical Competence
-- [[llm-feedback-focus-adaptivity-student-writing-2026]] — Evaluating Feedback Focus and Pedagogical Adaptivity in LLM-Generated Feedback on Student Writing
-- [[llm-graders-computer-science-exams-2026]] — Where LLM Graders Succeed and Break: Evidence from Two Computer-Science Exams
-- [[llm-automated-coding-teacher-pck-2026]] — Multi-agent LLM (GradeOpt) coding teachers' open-ended CK and PCK responses, reliability from prompt refinement against a coding manual
-- [[ai-marking-accuracy-gcse-physics-2026]] — AI marking compared with examination-board marks and teacher judgment in GCSE physics
+- [[student-perspectives-ai-writing-grading-2026]] — Wer soll meine Arbeit benoten? Perspektiven von Studierenden auf transparente KI-gestützte Schreibbewertung in der Hochschulbildung
+- [[tripartite-feedback-framework-ai-assessment-2026]] — Tripartites Rahmenwerk: Feedback nach epistemischem Status sortieren und die fünf Grenzprinzipien für KI-Beteiligung (Venetsanos 2026)
+- [[humble-prompt-injection-ai-grading-red-team-2026]] — Red-Team-Evaluation von in Einsendungen versteckter Prompt-Injection gegen KI-gestützte Benotung (Humble 2026)
+- [[li-explainable-trustworthy-llm-teacher-assessment-2025]] — Per Design erklärbares LLM-Rahmenwerk für automatisiertes Teacher-Assessment mit vertrauensgegater Inferenz (Li et al. 2025)
+- [[gpt4-handwritten-math-exam-grading-2026]] — handschriftliche semi-offene Mathematik-Benotung mit Konfidenzfilter für menschliche Nachprüfung
+- [[llm-grade-bands-calibration-bias-2026]] — Können Large Language Models Notenbanden in der Hochschulbildung reproduzieren? Modellübergreifende Studie zu Kalibrierung und Benotungsbias in authentischen Studierenden-Texten
+- [[sophie-clinical-communication-ai-assessment-2026]] — Skalierbares KI-basiertes Training klinischer Kommunikation und automatisiertes Assessment
+- [[automated-constructive-assessment-hdr-llm-2026]] — Automatisierung konstruktiven Assessments mit Large Language Models: hin zu skalierbarer und wiederholter Bewertung praktischer Kompetenz
+- [[llm-feedback-focus-adaptivity-student-writing-2026]] — Bewertung von Feedback-Fokus und pädagogischer Adaptivität in LLM-generiertem Feedback zum Schreiben von Studierenden
+- [[llm-graders-computer-science-exams-2026]] — Wo LLM-Benotungen funktionieren und scheitern: Belege aus zwei Informatikprüfungen
+- [[llm-automated-coding-teacher-pck-2026]] — Multi-Agenten-LLM (GradeOpt) zur Kodierung offener CK- und PCK-Antworten von Lehrkräften; Zuverlässigkeit aus Prompt-Verfeinerung gegen ein Kodierhandbuch
+- [[ai-marking-accuracy-gcse-physics-2026]] — KI-Benotung im Vergleich mit Noten der Prüfungsausschüsse und dem Urteil von Lehrkräften im GCSE-Physik
 
-- [[llm-grading-assistants-public-health-2026]] — Reasoning mode lifted LLM-human grading agreement from weighted kappa 0.269 to 0.718
-- [[machine-human-marking-agreement-institutions-2026]] — Machine–human agreement in marking undergraduate assignments is specific to model, prompt and institution
+- [[llm-grading-assistants-public-health-2026]] — Reasoning-Modus hob die Übereinstimmung zwischen LLM und Mensch bei der Benotung von weighted Kappa 0,269 auf 0,718
+- [[machine-human-marking-agreement-institutions-2026]] — Maschinen-Mensch-Übereinstimmung bei der Benotung von Studierenden-Arbeiten ist spezifisch für Modell, Prompt und Einrichtung

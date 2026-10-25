@@ -1,7 +1,7 @@
 ---
 title: "Wie kann mir KI helfen, im Maßstab besseres Feedback zu geben?"
 created: "2026-09-16T15:58:20-04:00"
-updated: "2026-10-10T09:50:26-04:00"
+updated: "2026-10-24T23:48:52-04:00"
 connected_faqs: [writing-instruction-ai-best-practices, checking-whether-educational-ai-works, ai-save-instructor-time]
 weight: 70
 type: faq
@@ -12,7 +12,7 @@ research_method: [experiment]
 audience: [instructors, assessment designers, assessment professionals]
 level: [higher ed, secondary]
 translation_of: faqs/ai-feedback-at-scale
-source_updated: "2026-10-02T08:21:34-04:00"
+source_updated: "2026-10-21T14:32:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -23,8 +23,6 @@ ai_assist:
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
-
-# Wie kann mir KI helfen, im Maßstab besseres Feedback zu geben?
 
 Es ist Woche sechs. Sie haben einen Stapel Entwürfe, eine Rubrik, an die Sie glauben, und einen wachsenden Verdacht, dass ein Drittel Ihrer Kommentare überflogen und vergessen wird. Ein Kollege erwähnt, dass ein Werkzeug nun jeden Entwurf innerhalb der Stunde kommentiert. Sie wollen wissen, ob das ein echtes Upgrade ist oder ein schnellerer Weg, Text zu erzeugen, den niemand liest.
 

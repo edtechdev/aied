@@ -126,18 +126,18 @@ Eine zweite Forschungsrichtung behandelt KI als Teilnehmer statt als Werkzeug, u
 ## Verbundene Artikel
 
 - [[chen-zou-genai-group-assessment-agency-2026]] — Drei Muster studentischer Handlungsfähigkeit in GenAI-vermitteltem Gruppenassessment
-- [[jin-emergent-learner-agency-implicit-hai-2026]] — Emergent learner agency when AI joins a group: supportive vs. contrarian personas
-- [[genai-counter-learner-groupthink-2025]] — An AI agent that injects controversy to counter groupthink in PBL teams
-- [[xu-genai-collaborative-space-2026]] — Shared versus private GenAI access across a team
-- [[hao-human-ai-collaborative-problem-solving-cognition]] — Collaboration modes and the task-performance versus self-regulation trade-off
-- [[golrang-propact-pair-programming-2026]] — ProPACT: treating the dyad as the unit of analysis in pair programming
-- [[spritz-ai-disciplinary-mediation-student-teams-2026]] — AI mediation of assumption-surfacing in interdisciplinary student teams
-- [[oppenheimer-llms-collaborative-learning-partners-2026]] — LLMs as critique partners: active rebuttal preserves cognitive conflict
-- [[polished-artifacts-fragile-engagement-2026]] — Polished artifacts, fragile epistemic engagement
-- [[breideband-community-builder-cobi-2026]] — Classroom-level discourse analytics for group collaboration
-- [[niari-ai-pedagogical-mediator-collaborative-learning]] — AI as pedagogical mediator of collaboration
-- [[neurodivergent-computing-students]] — Neurodivergent students' requirements for collaborative learning
-- [[academic-league-of-ai-2026]] — Democratic student governance and project teams for AI education
-- [[teacher-student-agency-orchestration]] — Co-orchestration of teacher and student agency in real time
-- [[dollinger-equitable-assessment-ai-2026]] — Equitable assessment in the AI era
-- [[ethics-training-agents-group-ethics-discussion-2026]] — Ethics Training Agents: Facilitating Group-Based Ethics Education with Role-Playing and Discussion for Ethical Reflection and Exploration
+- [[jin-emergent-learner-agency-implicit-hai-2026]] — Emergente Handlungsfähigkeit der Lernenden, wenn KI einer Gruppe beitritt: unterstützende versus konträre Personas
+- [[genai-counter-learner-groupthink-2025]] — Ein KI-Agent, der Kontroversen injiziert, um Gruppendenken in PBL-Teams zu entgegenzuwirken
+- [[xu-genai-collaborative-space-2026]] — Geteilter versus privater GenAI-Zugang in einem Team
+- [[hao-human-ai-collaborative-problem-solving-cognition]] — Kollaborationsmodi und der Trade-off zwischen Aufgabenleistung und Selbstregulation
+- [[golrang-propact-pair-programming-2026]] — ProPACT: die Dyade als Analyseeinheit im Pair Programming behandeln
+- [[spritz-ai-disciplinary-mediation-student-teams-2026]] — KI-Vermittlung der Sichtbarmachung von Annahmen in interdisziplinären Studierendenteams
+- [[oppenheimer-llms-collaborative-learning-partners-2026]] — LLMs als Kritikpartner: aktives Widersprechen bewahrt den kognitiven Konflikt
+- [[polished-artifacts-fragile-engagement-2026]] — Polierte Artefakte, fragile epistemische Beteiligung
+- [[breideband-community-builder-cobi-2026]] — Diskursanalytik auf Klassenzimmerebene für Gruppenkollaboration
+- [[niari-ai-pedagogical-mediator-collaborative-learning]] — KI als pädagogischer Vermittler von Kollaboration
+- [[neurodivergent-computing-students]] — Anforderungen neurodivergenter Studierender an kollaboratives Lernen
+- [[academic-league-of-ai-2026]] — Demokratische Studierendenselbstverwaltung und Projektteams für KI-Bildung
+- [[teacher-student-agency-orchestration]] — Co-Orchestrierung von Handlungsfähigkeit von Lehrenden und Lernenden in Echtzeit
+- [[dollinger-equitable-assessment-ai-2026]] — Gerechtes Assessment im KI-Zeitalter
+- [[ethics-training-agents-group-ethics-discussion-2026]] — Ethics Training Agents: Gruppenbasierte Ethikerziehung mit Rollenspiel und Diskussion für ethische Reflexion und Erkundung ermöglichen

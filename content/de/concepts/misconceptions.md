@@ -1,7 +1,7 @@
 ---
 title: Missverständnisse über KI
 created: "2026-08-12T19:08:47-04:00"
-updated: "2026-10-10T09:04:22-04:00"
+updated: "2026-10-24T19:50:00-04:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, teacher-role]
 pedagogy: [metacognition]
@@ -114,8 +114,8 @@ Diese Refutationen sind bewusst in der [[refutation-text|Refutationstext]]form g
 
 ## Verbundene Konzepte
 
-- [[pedagogical-patterns]] — The conceptual-change sequences that confront a specific held belief
-- [[learners]] — Learners: the umbrella for the learner-side concepts
+- [[pedagogical-patterns]] — Die Sequenzen des Konzeptwandels, die einer spezifischen vertretenen Überzeugung entgegentreten
+- [[learners]] — Lernende: der Überbegriff für die Konzepte auf Lernendenseite
 - [[ai-literacy]]
 - [[trust-calibration]]
 - [[cognitive-offloading]]
@@ -132,15 +132,15 @@ Diese Refutationen sind bewusst in der [[refutation-text|Refutationstext]]form g
 - [[trust]]
 
 ## Verbundene Artikel
-- [[rudolph-ai-myths-critical-higher-ed]] — Don't believe the hype: eight AI myths and the need for a critical approach in higher education
-- [[student-rationalization-ai-writing]] — Student Rationalization of AI Writing
-- [[genai-skill-bypass-literacy]] — GenAI Skill Bypass and Literacy
-- [[trust-reliance-ai-education-2026]] — Trust and Reliance in AI Education
-- [[contextual-sycophancy-ai-literacy]] — Contextual Sycophancy and AI Literacy
-- [[sycophantic-ai-social-interaction-2026]] — Sycophantic AI in Social Interaction
-- [[llm-fallacy-misattribution]] — LLM Fallacy Misattribution (Kim et al.)
-- [[student-reception-genai-analogies-computing-2026]] — Flawed but Memorable: Student Critical Reception of Interest-Personalized GenAI Analogies in Computing Education
-- [[milicevic-socratic-trap-strategic-misconceptions-2026]] — SocraticTrap-CS: fluent, authoritative explanations that are wrong conceptually rather than factually (Miličević et al. 2026)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — Hidden instructions in a submitted file can raise an AI-graded mark with no visible warning (Humble 2026)
-- [[children-ai-safety-misconceptions-2026]] — Children's AI-safety misconceptions: friendship with a robot misread as a privacy guarantee (Leisten et al. 2026)
-- [[etq-ai-conversational-teacher-training-2026]] — Conversational AI diagnostic for teaching misconceptions with evidence-grounded dialogue (Miranda & Calvani 2026)
+- [[rudolph-ai-myths-critical-higher-ed]] — Glauben Sie dem Hype nicht: acht KI-Mythen und die Notwendigkeit eines kritischen Ansatzes in der Hochschulbildung
+- [[student-rationalization-ai-writing]] — Rationalisierung von KI-Schreiben durch Studierende
+- [[genai-skill-bypass-literacy]] — GenAI-Fähigkeits-Bypass und Kompetenz
+- [[trust-reliance-ai-education-2026]] — Vertrauen und Verlassenheit in der KI-Bildung
+- [[contextual-sycophancy-ai-literacy]] — Kontextuelle Sykophancy und KI-Kompetenz
+- [[sycophantic-ai-social-interaction-2026]] — Sykophantische KI in sozialer Interaktion
+- [[llm-fallacy-misattribution]] — Fehlschluss-Misattribution durch LLMs (Kim et al.)
+- [[student-reception-genai-analogies-computing-2026]] — Fehlerhaft, aber einprägsam: die kritische Rezeption interessenpersonalisierter GenAI-Analogien durch Studierende in der Informatikbildung
+- [[milicevic-socratic-trap-strategic-misconceptions-2026]] — SocraticTrap-CS: flüssige, autoritäre Erklärungen, die konzeptionell statt faktisch falsch sind (Miličević et al. 2026)
+- [[humble-prompt-injection-ai-grading-red-team-2026]] — Verborgene Anweisungen in einer eingereichten Datei können eine KI-benotete Note ohne sichtbare Warnung anheben (Humble 2026)
+- [[children-ai-safety-misconceptions-2026]] — Missverständnisse von Kindern zur KI-Sicherheit: Freundschaft mit einem Roboter als Datenschutzgarantie missdeutet (Leisten et al. 2026)
+- [[etq-ai-conversational-teacher-training-2026]] — Konversations-KI-Diagnostik für didaktische Missverständnisse mit evidenzbasiertem Dialog (Miranda & Calvani 2026)

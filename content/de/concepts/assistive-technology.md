@@ -65,12 +65,12 @@ Ein Scoping Review aus dem Jahr 2026 zu digitalen assistiven [[ai-technologies|T
 - [[learning-design]]
 - [[speech-and-voice-technologies]]
 ## Verbundene Artikel
-- [[shin-ai-policies-sld-2026]] — AI policies and accommodations for students with specific learning disabilities
-- [[zhang-ai-students-disabilities-meta-analysis-2024]] — Meta-analysis of AI interventions for students with disabilities
+- [[shin-ai-policies-sld-2026]] — KI-Richtlinien und Anpassungen für Studierende mit spezifischen Lernbehinderungen
+- [[zhang-ai-students-disabilities-meta-analysis-2024]] — Metaanalyse von KI-Interventionen für Studierende mit Behinderungen
 - [[kutti-ai-voice-first-learning-companion]] — Voice-first AI for visually impaired children
 - [[tactile-statistical-graphs-accessibility]] — AI-generated tactile statistical graphs
 - [[text-simplification-its]] — LLM-based text simplification for intelligent tutoring
 - [[llm-question-generation-deaf-hard-of-hearing-2026]] — LLM question generation for Deaf/Hard-of-Hearing learners
 - [[gemini-lualatex-physics-video-transcription-2026]] — Gemini+LuaLaTeX math-accessible physics video transcription
 - [[khlaif-assistive-genai-visually-impaired-2026]] — Assistive GenAI for visually impaired learners
-- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — Generative AI, virtual reality, and beyond: A scoping review of digital assistive technologies for neurodivergent students in higher education
+- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — Generative KI, Virtual Reality und darüber hinaus: ein Scoping Review digitaler assistiver Technologien für neurodivergente Studierende in der Hochschulbildung

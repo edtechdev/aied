@@ -1,9 +1,10 @@
 ---
 title: "Was sind Best Practices für die Entwicklung eines wirksamen KI-Tutors?"
 created: "2026-08-29T20:36:43-04:00"
-updated: "2026-10-10T09:50:26-04:00"
+updated: "2026-10-24T20:27:31-04:00"
 connected_faqs: [training-ai-tutors-to-guide-rather-than-answer, making-ai-better-at-supporting-learning, checking-whether-educational-ai-works, designing-educational-ai-software]
 weight: 74
+audience: [educational technology developers, software developers, instructional designers]
 type: faq
 foundations: [learner-identity]
 pedagogy: [scaffolding]
@@ -13,7 +14,7 @@ discipline: [math education, writing education]
 methods: [ai-ed-evaluation]
 ethics: [pedagogical-safety]
 translation_of: faqs/developing-ai-tutor
-source_updated: "2026-10-02T08:21:34-04:00"
+source_updated: "2026-10-21T14:32:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:

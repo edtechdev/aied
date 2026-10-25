@@ -1,7 +1,7 @@
 ---
 title: Fernaufsicht bei Prüfungen
 created: "2026-08-20T04:50:00-04:00"
-updated: "2026-10-10T09:04:25-04:00"
+updated: "2026-10-24T21:19:23-04:00"
 type: concept
 foundations: [academic-integrity]
 pedagogy: [online-teaching-and-learning]
@@ -10,7 +10,7 @@ ethics: [equity-in-ai-education, privacy]
 level: [higher ed]
 confidence: high
 translation_of: concepts/remote-proctoring
-source_updated: "2026-10-03T01:40:50-04:00"
+source_updated: "2026-10-15T21:52:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -54,6 +54,7 @@ Fernaufsicht existiert auf einem Spektrum. **Online-Aufsicht** umfasst typischer
 - **Die Integritätsbegründung überlebte den größten Test nicht.** Über vier Wellen und 1.760 Studierende in 105 Kursen erhöhte Aufsicht die Prüfungsangst (β = 0,60, p < 0,001), hatte aber keinen Effekt auf die Versuchung zu fälschen, die wahrgenommene Schwierigkeit oder die Noten, sodass die Überwachungskosten nicht durch Abschreckung ausgeglichen wurden ([[conijn-fear-big-brother-proctored-exams-2022|Conijn et al. (2022)]]).
 - **Gerechtigkeit und digitale Kluft.** Geräteabhängigkeit, instabile Internetverbindung, Beleuchtung und Hardwarevariabilität benachteiligen ländliche und geringbandbreitige Studierende unverhältnismäßig; Modellgenauigkeit kann über demografische Gruppen und Umgebungen hinweg variieren, was unfaires Markieren riskiert.([[digital-divide]]), [[equity-in-ai-education]] Ein Scoping-Review zur Aufsicht im [[nursing-education|Pflege]]-Assessment zeigt, dass das kein Randfall ist: Vier seiner sechs eingeschlossenen Studien berichteten Probleme mit der Internetkonnektivität, eine berichtete Lastabwurf neben begrenzten Datenpaketen, und Geräteinkompatibilität, Browser-Extension-Fehler und gescheiterte Umgebungsscans waren Routine — sodass infrastrukturelle Ungerechtigkeit, nicht nur Modellbias, bestimmt, wer überhaupt bewertet werden kann.([[harerimana-remote-proctoring-nursing-scoping-2026]])
 - **Erkennungslücken und das Wettrüsten.** Identitäts-Spoofing (Foto-/Videomaskierung), Browsernutzung und Copy-Paste bleiben schwer verlässlich zu erkennen; Erkennungsgenauigkeit ist durch Grenzen der Datensätze, Einzelmodell-Evaluation und Reproduzierbarkeitslücken begrenzt. Aufsicht löst Integrität nicht vollständig und kann ein falsches Sicherheitsgefühl erzeugen.
+- Tragbare KI entfernt das Verhaltenssignal, auf das Proctoring angewiesen ist: [[corbin-ai-glasses-wearable-ai-assessment-2026|Corbin et al. (2026)]] argumentieren, dass KI-Brillen, Ohrstöpsel und KI-fähige Hörgeräte verdeckte Unterstützung liefern, ohne Blickverlagerung, Aufmerksamkeitsverlagerung oder Haltungshinweis, sodass Aufsicht und die Aufforderung, Geräte abzugeben, die Hinweise verlieren, auf die sie angewiesen sind.
 - **Die Governance-Frage.** Ob Überwachung die richtige Antwort ist gegenüber [[authentic-assessment|Assessment-Neugestaltung]] (mündlich, prozessbasiert, [[eportfolio|Portfolio]]) ist eine offene institutionelle Entscheidung; Fernaufsicht ist ein Werkzeug, keine vollständige Lösung.([[governance]]) Das Risiko, das folgt, wenn Durchsetzung schiefgeht — Anschuldigungen, die auf Punktzahlen und Ereignisprotokollen beruhen, Retention und Weiterverarbeitung erfasster Daten, und Regeln, die ungleich auf beeinträchtigte oder nicht-muttersprachliche Studierende fallen —, ist auf [[legal-issues-and-risks|rechtliche Fragen und Risiken]] kartiert.
 
 ## Evidenzbasis
@@ -91,10 +92,12 @@ Fernaufsicht existiert auf einem Spektrum. **Online-Aufsicht** umfasst typischer
 
 ## Verbundene Artikel
 
-- [[automated-online-exam-proctoring-decade-review-2026]] — Decade-long systematic review of automated online exam proctoring
-- [[academic-dishonesty-automated-proctoring-ai-2026]] — Comprehensive review of academic dishonesty in automated proctoring
-- [[ssaho-ai-academic-integrity-review-2025]] — AI and academic integrity: systematic review
-- [[conijn-fear-big-brother-proctored-exams-2022]] — The fear of Big Brother: proctoring's negative side-effects on test anxiety
-- [[biology-degree-integrity-genai-cheating-2026]] — Can students cheat their way to a biology degree? A case study of the vulnerability of biology course grades to academic dishonesty in the era of generative AI
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] — Under surveillance: mapping remote proctoring practices in nursing student assessment
-- [[akcapinar-ai-cheating-risk-lms-prediction-2026]] — Akçapınar (2026) — 44.2% of students labeled high-risk in a proctored, face-to-face exam, with the risk predicted from early-semester LMS traces
+- [[corbin-ai-glasses-wearable-ai-assessment-2026]] — Tragbare KI entfernt das Verhaltenssignal, auf das Proctoring angewiesen ist (Corbin, Sharpe & Dawson 2026)
+
+- [[automated-online-exam-proctoring-decade-review-2026]] — Zehnjähriger systematischer Review automatisierten Online-Prüfungs-Proctorings
+- [[academic-dishonesty-automated-proctoring-ai-2026]] — Umfassender Review akademischer Unehrlichkeit beim automatisierten Proctoring
+- [[ssaho-ai-academic-integrity-review-2025]] — KI und akademische Integrität: systematischer Review
+- [[conijn-fear-big-brother-proctored-exams-2022]] — Die Angst vor Big Brother: die negativen Nebenwirkungen von Proctoring auf die Prüfungsangst
+- [[biology-degree-integrity-genai-cheating-2026]] — Können Studierende sich mit Schummelei zu einem Biologie-Abschluss schummeln? Eine Fallstudie zur Verwundbarkeit von Biologie-Kursnoten für akademische Unehrlichkeit im Zeitalter generativer KI
+- [[harerimana-remote-proctoring-nursing-scoping-2026]] — Unter Überwachung: Fern-Proctoring-Praktiken im Pflegeassessment kartieren
+- [[akcapinar-ai-cheating-risk-lms-prediction-2026]] — Akçapınar (2026) — 44,2 % der Studierenden wurden in einer beaufsichtigten Präsenzprüfung als hochriskant eingestuft, wobei das Risiko aus LMS-Spuren aus dem frühen Semester vorhergesagt wurde

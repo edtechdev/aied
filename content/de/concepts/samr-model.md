@@ -1,7 +1,7 @@
 ---
 title: SAMR-Modell
 created: "2026-09-10T09:50:00-04:00"
-updated: "2026-10-10T09:04:24-04:00"
+updated: "2026-10-24T22:43:16-04:00"
 type: concept
 foundations: [educational-development, learning-design, tpack, teacher-ai-competency]
 technology: [ai-technologies, technology-acceptance-model]
@@ -71,24 +71,24 @@ SAMR ist am besten als Integrationsstufen-Linse zu verstehen, genutzt in Planung
 
 ## Verbundene Konzepte
 
-- [[ai-education]] — AI in education (umbrella)
+- [[ai-education]] — KI in der Bildung (Überblicksseite)
 - [[tpack]] — Technological Pedagogical Content Knowledge
-- [[technology-acceptance-model]] — Technology adoption models
-- [[icap-framework]] — The ICAP framework of cognitive engagement
-- [[ai-technologies]] — AI technologies and techniques
-- [[teacher-ai-competency]] — Teacher AI competency
-- [[educational-development]] — Educational development
-- [[learning-design]] — Learning design
-- [[k-12]] — K-12 education
-- [[higher-ed]] — Higher education
-- [[generative-ai]] — Generative AI
+- [[technology-acceptance-model]] — Modelle der Technologieadoption
+- [[icap-framework]] — Der ICAP-Rahmen kognitiven Engagements
+- [[ai-technologies]] — KI-Technologien und -Techniken
+- [[teacher-ai-competency]] — KI-Kompetenz von Lehrkräften
+- [[educational-development]] — Lehr- und Curriculumsentwicklung
+- [[learning-design]] — Lerndesign
+- [[k-12]] — K-12-Bildung
+- [[higher-ed]] — Hochschulbildung
+- [[generative-ai]] — Generative KI
 
 ## Verbundene Artikel
 
-- [[alsheikh-mapping-ai-integration-higher-education-2026]] — AI integration in higher ed graded with SAMR: mostly Substitution/Augmentation
-- [[thermomix-genai-education-analogy-2026]] — ICAP and SAMR mapping the four cooking-to-learning scenarios
-- [[rewriting-curriculum-genai-pedagogy-2026]] — SAMR among the lenses for GenAI-driven curriculum change
-- [[crompton-faculty-technology-integration-standards-2026]] — SAMR among the frameworks informing faculty technology standards
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]] — The posthumanist critique of SAMR's humanist ontology
-- [[reclaiming-epistemic-agency-co-agency-2026]] — SAMR's silence on power, data ownership, and accountability
-- [[genai-use-changing-institutional-policy-physics-2026]] — Student GenAI use under changing institutional policies: use functions mapped to SAMR levels (Quince & Faulconer 2026)
+- [[alsheikh-mapping-ai-integration-higher-education-2026]] — KI-Integration in der Hochschulbildung nach SAMR bewertet: überwiegend Substitution/Augmentation
+- [[thermomix-genai-education-analogy-2026]] — ICAP und SAMR bilden die vier Koch-zu-Lern-Szenarien ab
+- [[rewriting-curriculum-genai-pedagogy-2026]] — SAMR unter den Linsen für GenAI-getriebene Curriculumveränderung
+- [[crompton-faculty-technology-integration-standards-2026]] — SAMR unter den Rahmen, die Fakultäts-Technologiestandards tragen
+- [[elsayed-pedagogical-symbiosis-posthuman-learner]] — Die posthumanistische Kritik an SAMRs humanistischer Ontologie
+- [[reclaiming-epistemic-agency-co-agency-2026]] — SAMRs Schweigen über Macht, Dateneigentum und Rechenschaftspflicht
+- [[genai-use-changing-institutional-policy-physics-2026]] — GenAI-Nutzung durch Studierende unter sich ändernden Institutionenpolitiken: Nutzungsfunktionen auf SAMR-Stufen abgebildet (Quince & Faulconer 2026)

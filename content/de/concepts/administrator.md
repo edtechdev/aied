@@ -1,7 +1,7 @@
 ---
 title: Administration
 created: "2026-05-09T10:44:35-04:00"
-updated: "2026-10-10T09:04:25-04:00"
+updated: "2026-10-24T21:37:05-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [scaffolding]
@@ -13,7 +13,7 @@ level: [higher ed]
 confidence: medium
 institutions: [educational-policy-ai]
 translation_of: concepts/administrator
-source_updated: "2026-10-01T20:35:10-04:00"
+source_updated: "2026-10-16T08:47:09-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -27,6 +27,7 @@ ai_assist:
 
 > **Administration** — die institutionelle, leitende und entscheidungsbezogene Perspektive auf die Übernahme, Strategie und Governance von KI in der Bildung. Administration und institutionsleitende Personen prägen, ob und wie KI übernommen wird — durch Politik, Finanzierung, Infrastruktur und die strategische Einordnung der Rolle von KI — und müssen konkurrierende Anliegen rund um Lernen, [[equity-in-ai-education|Gerechtigkeit]], Risiko und organisationale Kapazität abwägen.
 
+
 ## Fragen zum Nachdenken
 
 - Die Übernahme von KI wird oft als Entscheidung des Klassenzimmers gerahmt, doch die Administration bestimmt die Bedingungen — Politik, Finanzierung, Infrastruktur. Wer entscheidet in Ihrer Einrichtung tatsächlich, ob und wie KI genutzt wird, und wer bleibt von dieser Entscheidung ausgeschlossen?
@@ -39,6 +40,8 @@ ai_assist:
 ## Einführung
 
 Die Übernahme von KI in der Bildung ist nicht allein eine Entscheidung des Klassenzimmers; sie ist auch eine institutionelle. Administration — Provost, Dekanate, CIOs und institutionsleitende Personen — bestimmt die Bedingungen, unter denen Personal und Studierende KI nutzen, und wägt pädagogische Chancen gegen Governance, Ressourcen und Risiko ab.
+
+[[students-at-stake-ai-deployment-risks-2026|Student Defense (2026)]] liefert einen tragbaren Beschaffungsscreen für genau die Entscheidung, vor der Administration steht: Bevor ein KI-Produkt eingesetzt wird, fragen, welches Problem gelöst wird, ob Governance-Kapazität vorhanden ist, ob die Einrichtung transparent ist und ob der Einsatz für Studierende Mehrwert schafft —, was die Wahl als eine über die Rechte, Wahlmöglichkeiten, Finanzen und Zukünfte von Studierenden rahmt statt als eine Beschaffungstransaktion.
 
 ### Wie die Perspektive der Administration in der Forschung erscheint
 
@@ -70,11 +73,14 @@ Die Perspektive der Administration verbindet sich mit [[educational-policy-ai|Bi
 - [[student-support-and-success]] — die institutionellen Prozesse, die die Administration betreibt: Beratung, Ansprache, Weitervermittlung und Zuweisung
 
 ## Verbundene Artikel
-- [[sposato-ai-educational-leadership-taxonomy-2025]] — AI in educational leadership: comprehensive taxonomy
-- [[baroudi-anticipatory-governance-ai-higher-ed-2026]] — Anticipatory governance and leadership for AI
+- [[sposato-ai-educational-leadership-taxonomy-2025]] — KI in der Bildungsleitung: umfassende Taxonomie
+- [[baroudi-anticipatory-governance-ai-higher-ed-2026]] — Anticipatory Governance und Leitung für KI
 - [[alrahmi-org-drivers-ai-adoption-he-2026]]
 - [[ai-uk-higher-education-policy-2026]] — KI in der britischen Hochschulpolitik und bei institutionellen Entscheidungen
 - [[ai-campus-wellbeing-tools]] — KI-gestützte Werkzeuge für das Wohlbefinden auf dem Campus
 - [[genai-policies-higher-ed-computing]] — Institutionelle GenAI-Politik in der Informatik
-- [[institutional-change-framework-ai]] — Institutional change framework for AI
-- [[edtech-privacy-deferral-2026]] — "We'll Fix It Later": Education, AI, and the Deferral of Student Privacy in EdTech
+- [[institutional-change-framework-ai]] — Rahmenwerk für institutionellen Wandel durch KI
+- [[edtech-privacy-deferral-2026]] — „Wir machen es später“: Bildung, KI und das Aufschieben des Datenschutzes von Studierenden in EdTech
+
+- [[students-at-stake-ai-deployment-risks-2026]] — ein Beschaffungsscreen mit vier Fragen, gerahmt als Rechte von Studierenden statt als Risikomanagement
+

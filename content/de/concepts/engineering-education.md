@@ -1,7 +1,7 @@
 ---
 title: Ingenieurbildung
 created: "2026-08-17T10:45:00-04:00"
-updated: "2026-10-10T09:04:22-04:00"
+updated: "2026-10-24T23:55:00-04:00"
 type: concept
 foundations: [ai-literacy, educational-development]
 assessment: [assessment]
@@ -12,7 +12,7 @@ audience: [learners, instructors, faculty developers]
 level: [higher ed]
 confidence: high
 translation_of: concepts/engineering-education
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-21T12:05:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -65,6 +65,8 @@ Die Ingenieurbildung sitzt innerhalb von [[stem-education|STEM]] und verbindet s
 
 Die Abdeckung der Ingenieurbildung in der Wissensbasis entwickelt sich noch. Teilbereiche, die von weiteren Artikeln profitieren würden, umfassen **[[discipline-specific-aied|fachspezifische]] Ingenieur[[pedagogy|pädagogiken]]** (Maschinenbau-, Bauingenieur-, Chemie-, Elektro-, Software- und Biotechnikbildung), **[[design-education|Design]]- und Makerbildung**, **Capstone- und [[project-based-learning|projektbasiertes Lernen]]**, und **Ingenieurethikbildung** — wo die Rolle von KI wahrscheinlich besonders folgenreich sein wird.
 
+Diese Lücke ist in einem Bereich nicht mehr leer: Ein dreijähriges biomedizinisches Ingenieurstudium führte generative KI als geschützte Wissenszusammenfassungs- und Coding-Gerüstbildung innerhalb einer vier-Module-PBL-Sequenz ein — genehmigte Werkzeuge, keine Patientendaten, Offenlegungsprotokolle — und berichtete A-Quoten von 66,4 % gegenüber 39,1 % für Kohorten vor der KI ([[pbl-biomedical-engineering-genai-2026|Nnamdi et al. (2026)]]).
+
 ## Folgerungen für Lehrende im Ingenieurwesen
 
 - **Eine geteilte, akkurate Sprache über KI aufbauen.** [[engineering-faculty-metaphors-ai-understanding-2026|Forschungsarbeit zu Fakultätsmetaphern]] findet, dass Lehrende grundlegend verschiedene mentale Modelle halten (Agent vs. Werkzeug); das departmentale Verständnis abstimmen, bevor Politik gemacht wird.
@@ -92,18 +94,17 @@ Die Abdeckung der Ingenieurbildung in der Wissensbasis entwickelt sich noch. Tei
 - [[generative-ai]]
 
 ## Verbundene Artikel
-- [[mechanical-engineering-ai-curriculum-2026]] — Project-Based AI Education Curriculum in Thermal Engineering
+- [[mechanical-engineering-ai-curriculum-2026]] — Projektbasiertes KI-Bildungscurriculum im Maschinenbau (Thermodynamik)
 - [[pbl-biomedical-engineering-genai-2026]]
-- [[engineering-faculty-metaphors-ai-understanding-2026]] — Engineering Faculty Metaphors Construct (and Constrain) AI Understanding
+- [[engineering-faculty-metaphors-ai-understanding-2026]] — Fakultätsmetaphern in der Ingenieurbildung konstruieren (und begrenzen) das KI-Verständnis
 - [[tam-critical-use-genai-engineering-2026]] — Erweitertes TAM mit kritischer Nutzung für Ingenieur-/CS-Studierende
-- [[socio-cognitive-genai-adoption-engineering-2026]] — Unified socio-cognitive model for engineering education (Bangladesh)
-- [[ethical-use-ai-engineering-education-review-2026]] — Ethical Use of AI in Engineering Education: A Systematic Review
-- [[multimodal-embodied-cognition-oral-explanations-2026]] — A Multimodal Framework for Embodied Cognition in Oral Explanations
-- [[ai-engineering-computing-workforce-grey-literature-2026]] — AI and the Future of the Engineering and Computing Workforce
-- [[ai-engineering-education-balancing-act]] — Using AI in Engineering Education: A Balancing Act
-- [[ai-learning-tools-engineering-education-needs]] — Designing Needs- and Attention-Aware AI Learning Tools for Engineering Education
-- [[structured-ai-demonstrations-engineering-mechanics]] — Structured AI Demonstrations in Engineering Mechanics
-- [[isaza-chatgpt-engineering-prompting-2026]] — ChatGPT in engineering education
-- [[liu-ai-sustainable-engineering-education-2026]] — AI-SEE framework for sustainable engineering education (Liu et al. 2026)
+- [[socio-cognitive-genai-adoption-engineering-2026]] — Vereinheitlichtes soziokognitives Modell für die Ingenieurbildung (Bangladesch)
+- [[ethical-use-ai-engineering-education-review-2026]] — Ethischer Umgang mit KI in der Ingenieurbildung: ein systematisches Review
+- [[multimodal-embodied-cognition-oral-explanations-2026]] — Ein multimodales Framework für verkörperte Kognition bei mündlichen Erklärungen
+- [[ai-engineering-computing-workforce-grey-literature-2026]] — KI und die Zukunft der Ingenieur- und Computing-Arbeitskraft
+- [[ai-engineering-education-balancing-act]] — KI in der Ingenieurbildung nutzen: ein Gratwander
+- [[structured-ai-demonstrations-engineering-mechanics]] — Strukturierte KI-Demonstrationen in der Technischen Mechanik
+- [[isaza-chatgpt-engineering-prompting-2026]] — ChatGPT in der Ingenieurbildung
+- [[liu-ai-sustainable-engineering-education-2026]] — AI-SEE-Rahmenwerk für nachhaltige Ingenieurbildung (Liu et al. 2026)
 - [[yin-arthur-ai-teaching-assistant-engineering-econ-2026]]
-- [[genai-xr-architectural-design-education-2026]] — Generative AI and Extended Reality in Collaborative Architectural Design Education: An Exploratory Studio Study
+- [[genai-xr-architectural-design-education-2026]] — Generative KI und Extended Reality in der kollaborativen Architektur-Design-Ausbildung: eine explorative Studio-Studie

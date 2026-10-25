@@ -1,7 +1,7 @@
 ---
 title: Kollaboratives Lernen
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-10T09:04:23-04:00"
+updated: "2026-10-25T00:25:09-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [collaborative-learning, scaffolding]
@@ -11,7 +11,7 @@ audience: [learners]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/collaborative-learning
-source_updated: "2026-10-07T15:40:00-04:00"
+source_updated: "2026-10-16T08:47:09-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -56,6 +56,8 @@ Die Zustimmung der Facilitatorin ist der stärkste beobachtete Hebel darauf, ob 
 
 Der einzige verfügbare meta-analytische Kontrast für KI-unterstützte kollaborative Arbeit sitzt innerhalb von GenAI-unterstützten PBL/PjBL-Interventionen, wo Peer-Kollaboration bei g = 0,885 poolte gegenüber g = 0,416 für individuelle Arbeit, aber der Unterschied nur einen marginalen Trend erreichte (QM = 3,675, p = .055) und die Seite individueller Arbeit auf zwei Studien beruht — daher ist die gepoolte Evidenz, dass Kollaboration unter GenAI Alleinarbeit schlägt, suggestiv statt etabliert ([[chen-pbl-pjbl-genai-meta-analysis-2026|Chen et al. 2026]]).
 
+Feldweite Kartierung gelangt aus der anderen Richtung zum selben Schluss: Eine BERTopic-Analyse von 1.048 Publikationen zu KI im Online-Lernen von 2010 bis 2023 fand, dass sozial orientierte Arbeit zu KI-unterstütztem kollaborativem Lernen und Gemeinschaftsbildung nie als dominantes Thema hervortrat, was die Autoren auf ein Korpus zurückführen, das auf individueller [[learning-analytics|Lernanalyse]]-Ebene zentriert ist ([[chen-bertopic-ai-online-learning-research-topics-2026|Chen et al. (2026)]]).
+
 Ein Scoping-Review von 18 Studien kartiert denselben Trade-off über Gruppenarbeit hinweg: GenAI unterstützte Wissensentwicklung, Ideenfindung und Kommunikationseffizienz, während es zugleich den Anspruch an Peer-Interaktion, Verhandlung und gemeinsame Sinnstiftung senkte, und randomisierte Evidenz fand mehr innovative KI-Vorschläge ohne signifikanten Gewinn in der Gesamtinnovativität der Teilnehmenden ([[wei-perkins-genai-student-collaboration-scoping-2026|Wei und Perkins (2026)]]).
 
 **Rollendesign ist ein Hebel auf die Qualität, nicht das Volumen, kollaborativer Wissenskonstruktion.** [[cheng-symbiotic-role-design-human-genai-collaboration-2026|Cheng et al. (2026)]] wiesen 58 [[higher-ed|Doktorierenden]] und ihrem KI-Partner in 16 Gruppen rotierende Moderations-, Analysten- und Argumentierer-Rollen zu und fanden, dass die Struktur den *Inhalt* der Gruppen-Mindmaps fast ein volles SOLO-Band anhob (M = 3,65 auf 4,59, z = 3,771, p < 0,001), während Knoten- und Zweigzahlen flach blieben — Organisation statt Abdeckung — auf Kosten eines moderaten Anstiegs kollaborativer [[cognitive-offloading|kognitiver Last]] (p = 0,023). [[network-analysis|Lag-sequenzielle Analyse]] fügte eine Evaluations-Selbsttransition und einen Konflikt-zu-Verteidigen-Pfad hinzu, die das Werkzeug allein nicht erzeugt hatte, und positioniert [[human-ai-collaboration|Mensch-KI-Kollaboration]] als Designproblem statt als Werkzeugproblem.
@@ -94,10 +96,10 @@ Kollaboratives Lernen besetzt die Spitze des [[icap-framework|ICAP-Frameworks]] 
 ## Verbundene Konzepte
 
 - [[pedagogical-patterns]] — Skriptierte geteilte-KI-Kollaboration und ihre getesteten Rollendesigns
-- [[pedagogical-partnerships]] — Pedagogical Partnerships
-- [[group-work]] — Group work
+- [[pedagogical-partnerships]] — Pädagogische Partnerschaften
+- [[group-work]] — Gruppenarbeit
 - [[problem-based-learning]]
-- [[online-teaching-and-learning]] — Online Teaching and Learning
+- [[online-teaching-and-learning]] — Online-Lehre und -Lernen
 - [[active-learning]]
 - [[icap-framework]]
 - [[scaffolding]]
@@ -117,7 +119,7 @@ Kollaboratives Lernen besetzt die Spitze des [[icap-framework|ICAP-Frameworks]] 
 - [[pedagogical-agent]]
 - [[student-modeling]]
 - [[student-engagement]]
-- [[pedagogy]] — Umbrella: Pädagogien und Lehrstrategien in der KI-Bildung
+- [[pedagogy]] — Überblicksseite: Pädagogien und Lehrstrategien in der KI-Bildung
 
 ## Verbundene Artikel
 
@@ -144,6 +146,7 @@ Kollaboratives Lernen besetzt die Spitze des [[icap-framework|ICAP-Frameworks]] 
 - [[xu-genai-collaborative-space-2026]] — GenAI als Agent und kollaborativer Raum in Kleingruppendynamiken (Xu et al. 2026)
 - [[breideband-community-builder-cobi-2026]]
 - [[oppenheimer-llms-collaborative-learning-partners-2026]]
-- [[hao-peer-exposure-bridging-social-capital-ai-summaries-2026]] — AI-Generated Summary-Driven Learning Design in Online Discussion Forums
+- [[hao-peer-exposure-bridging-social-capital-ai-summaries-2026]] — KI-generiertes, zusammenfassungsgesteuertes Lerndesign in Online-Diskussionsforen
 - [[chen-zou-genai-group-assessment-agency-2026]] — GenAI als Koordinationsinfrastruktur in Studierendengruppen: intensivierte, zurückhaltende und nicht-umgesetzte Nutzung
-- [[ethics-training-agents-group-ethics-discussion-2026]] — Ethics Training Agents: Facilitating Group-Based Ethics Education with Role-Playing and Discussion for Ethical Reflection and Exploration
+- [[ethics-training-agents-group-ethics-discussion-2026]] — Ethics Training Agents: gruppenbasierte Ethik-Bildung mit Rollenspiel und Diskussion für ethische Reflexion und Erkundung ermöglichen
+- [[chen-bertopic-ai-online-learning-research-topics-2026]] — Sozial orientierte KI-Kollaborationsarbeit wurde in 1.048 Publikationen nie ein dominantes Thema

@@ -1,7 +1,7 @@
 ---
 title: Quelloffene Software (Open Source)
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-10-10T09:04:27-04:00"
+updated: "2026-10-24T22:20:44-04:00"
 type: concept
 connected_faqs: [making-ai-better-at-supporting-learning]
 foundations: [agentic-ai, ai-education, curriculum-design]
@@ -96,24 +96,24 @@ Offenheit von Inhalten und Offenheit von Modellen sind auch anderswo Komplemente
 
 ## Verbundene Artikel
 
-- [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — On-premise OER AI knowledge-base assistant on consumer hardware (Shen et al. 2026)
-- [[oatutor-open-source-adaptive-tutor-2023]] — MIT-licensed adaptive tutor with a CC BY OpenStax content library (Pardos et al. 2023)
-- [[singh-eduqwen-pedagogical-rl-2026]] — Open 32B pedagogical model outperforming far larger proprietary systems (Singh et al. 2026)
-- [[lata-ferpa-compliant-local-llm-autograder]] — Drop-in FERPA-compliant local-LLM autograder
-- [[programming-its]] — Self-hosted open-weight LLM for GDPR/EU AI Act compliance in a Python ITS
-- [[aiawe-automated-writing-evaluation]] — LoRA-adapted open-weight model for automated writing evaluation
-- [[stanbkt-bayesian-knowledge-tracing]] — Open Python package for full Bayesian knowledge tracing
-- [[deeptutor]] — Fully open-source agentic tutoring framework with learner memory
-- [[vismatic-secure-sandbox-cs-education]] — Open containerized sandbox for process-oriented assessment
-- [[kar-mathbuddy-affective-math-tutoring-2025]] — Affective math tutor with an open codebase
-- [[cdpk-pedagogy-benchmark-llms]] — Open pedagogy benchmark across 97 models and the cost–accuracy frontier
-- [[astra-multi-agent-tutoring-benchmark-2026]] — Open dataset and prototype for trace-based multi-agent tutoring evaluation
-- [[mllm-scientific-visualization-literacy]] — Open models below the human baseline on visualization literacy
-- [[iks-instruct-dataset-indian-knowledge]] — Open multilingual dataset for culturally grounded instruction
-- [[aied-carbon-footprint-reporting]] — Open-source method for reporting LLM environmental cost
-- [[egai-power-systems-education]] — Open executable module library for engineering AI
-- [[mechanical-engineering-ai-curriculum-2026]] — Publicly available curriculum, data, and code
-- [[mooc-to-maic]] — LLM-driven course generation and the changing economics of course production
+- [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — On-Premise-OER-KI-Wissensbasis-Assistent auf Consumer-Hardware (Shen et al. 2026)
+- [[oatutor-open-source-adaptive-tutor-2023]] — MIT-lizenzierter adaptiver Tutor mit einer CC-BY-OpenStax-Inhaltsbibliothek (Pardos et al. 2023)
+- [[singh-eduqwen-pedagogical-rl-2026]] — Offenes 32B-pädagogisches Modell, das weit größere proprietäre Systeme übertrifft (Singh et al. 2026)
+- [[lata-ferpa-compliant-local-llm-autograder]] — Drop-in-FERPA-konformer lokaler LLM-Autobewerter
+- [[programming-its]] — Selbst gehostetes offen gewichtetes LLM zur GDPR/EU-AI-Act-Konformität in einem Python-ITS
+- [[aiawe-automated-writing-evaluation]] — LoRA-angepasstes offen gewichtetes Modell für die automatisierte Bewertung von Schreiben
+- [[stanbkt-bayesian-knowledge-tracing]] — Offenes Python-Paket für vollständiges bayessches Knowledge Tracing
+- [[deeptutor]] — Vollständig quelloffenes agentisches Tutoringsrahmenwerk mit Lernendengedächtnis
+- [[vismatic-secure-sandbox-cs-education]] — Offene containerisierte Sandbox für prozessorientierte Bewertung
+- [[kar-mathbuddy-affective-math-tutoring-2025]] — Affektiver Mathetutor mit offener Codebasis
+- [[cdpk-pedagogy-benchmark-llms]] — Offener Pädagogik-Benchmark über 97 Modelle und die Kosten-Genauigkeit-Frontier
+- [[astra-multi-agent-tutoring-benchmark-2026]] — Offener Datensatz und Prototyp für spur-basierte Evaluation von Multi-Agenten-Tutoring
+- [[mllm-scientific-visualization-literacy]] — Offene Modelle unter der menschlichen Baseline bei Visualisierungskompetenz
+- [[iks-instruct-dataset-indian-knowledge]] — Offener mehrsprachiger Datensatz für kulturell verankerte Instruktion
+- [[aied-carbon-footprint-reporting]] — Quelloffene Methode zur Berichterstattung über die Umweltkosten von LLMs
+- [[egai-power-systems-education]] — Offene ausführbare Modulbibliothek für KI im Maschinenbau
+- [[mechanical-engineering-ai-curriculum-2026]] — Öffentlich verfügbares Curriculum, Daten und Code
+- [[mooc-to-maic]] — LLM-getriebene Kursgenerierung und die sich wandelnde Ökonomie der Kursproduktion
 - [[agentic-ai-education-scoping-review]]
 - [[yu-academiclaw-student-challenges-ai-agents-2026]]
-- [[omniedu-open-educational-foundation-models-2026]] — OmniEdu: Open Foundation Models for Learning and Teaching
+- [[omniedu-open-educational-foundation-models-2026]] — OmniEdu: Offene Foundation-Modelle für Lernen und Lehren

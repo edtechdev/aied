@@ -1,7 +1,7 @@
 ---
 title: Validität von Assessments
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-10T09:04:25-04:00"
+updated: "2026-10-25T00:25:09-04:00"
 connected_faqs: [redesign-assessment-ai-era, reporting-interpreting-aied-research, asynchronous-online-courses-ai, checking-whether-educational-ai-works]
 type: concept
 foundations: [academic-integrity]
@@ -10,7 +10,7 @@ ethics: [bias-mitigation, equity-in-ai-education]
 confidence: high
 methods: [rct]
 translation_of: concepts/assessment-validity
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-23T08:05:20-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -37,7 +37,7 @@ ai_assist:
 
 ### Validitätsherausforderungen
 
-- **Konstruktvalidität:** Wenn Lernende KI bei Assessments nutzen, spiegelt die Punktzahl das Wissen der lernenden Person oder KI-Fähigkeit? [[genai-performance-vs-learning|Performance vs. learning]] [[research-methods-aied|Forschung]] adressiert das direkt.
+- **Konstruktvalidität:** Wenn Lernende KI bei Assessments nutzen, spiegelt die Punktzahl das Wissen der lernenden Person oder KI-Fähigkeit? [[genai-performance-vs-learning|Performance vs. learning]] [[research-methods-aied|Forschung]] adressiert das direkt. Ein Rekonstruktionsmaß kann für Korrektheit sensibel sein, ohne ein Korrektheitsmaß zu sein: [[seeing-cognitive-representations-eeg-reconstruction|Su et al. (2026)]] fanden eine höhere EEG-Rekonstruktionsähnlichkeit für korrekte Items (M = 71,43, SD = 4,61) als für inkorrekte (M = 62,30, SD = 5,91), wobei bei einer lernenden Person eine hochwertige Rekonstruktion mit einer falschen Antwort einherging.
 - **Konstruktirrelevante Varianz über LLMs hinweg in konversationsbasiertem Assessment:** [[semantic-variability-llm-conversation-assessment-2026|Hao (2026)]] zeigt, dass selbst für eine einzelne konversationelle Wendung der semantische Inhalt [[llm|LLM]]-generierter Antworten über Modelle und Konversationskontextbedingungen hinweg variiert. Ähnlichkeit innerhalb eines Modells übersteigt konsistent Ähnlichkeit zwischen Modellen (0,715–0,795 gegenüber 0,443–0,604), und das Hinzufügen von Chatverlauf verändert den Antwortinhalt bedeutsam (mittlere Ähnlichkeit über Verläufe hinweg ~0,40–0,45). Weil dieselbe Lernendeneingabe semantisch unterschiedliche Antworten erhalten kann, je nach zugrunde liegendem Modell, können Prompting und Kontext allein Antwortkonsistenz nicht bewahren —, was potenzielle **konstruktirrelevante Varianz** einführt, die Validität, Verlässlichkeit und Fairness bedroht. Konsistente Assessmentbedingungen aufrechtzuerhalten, während LLMs sich entwickeln, ist daher eine *Infrastruktur*herausforderung (symbolische Regeln, Antwortvorlagen, Validierungsschichten), nicht bloß eine des [[prompt-engineering|Promptings]].
 - **Evidenz, die vorhanden ist, aber niemals die Bewertende erreicht:** [[ai-assisted-physics-lab-report-assessment-2026|Abreu, Stari und Martí (2026)]] benennen eine konstruktirrelevante Bedrohung, die jedem Schlussfolgern vorausgeht: In KI-Review experimenteller Laborberichte in [[physics-education|Physik]] kann eine Gleichung, ein Graph, eine Tabelle oder eine Einheit korrekt in einem Bericht enthalten sein und dennoch nicht aus den verarbeiteten Inhalten abgerufen werden, mit denen das Modell arbeitet, und weil ein verändertes Vorzeichen, ein veränderter Wert oder eine veränderte Einheit die physikalische Interpretation verändert, muss eine Abweichung von der Lehrkraft keinen Schlussfolgerfehler anzeigen. Ihr Abhilfemittel ist prozedural — hochauflösende PDFs statt fotografierter Scans, in einem Gleichungseditor geschriebene Gleichungen, lesbare Achsen und Einheiten in Abbildungen, und Anweisungen, die für jede Punktzahl eine konkrete Zitation verlangen —, weil Dokumentqualität die Obergrenze dafür setzt, welche Validitätsbehauptung die resultierende Punktzahl stützt.
 - **Latente Strukturvalidität zwischen Menschen und LLMs:** [[assessment-latent-structure-human-llm-2026|Strugatski et al. (2026)]] fügen eine tiefere Validitätsbedingung hinzu: Selbst wenn ein LLM gut bewertet, erfordert die Übertragung menschlicher Punktzahlinterpretationen Ähnlichkeit in der *latenten Struktur* der Antworten. Im Vergleich von sechs [[multimodal|multimodalen]] LLMs mit menschlichen Kohorten an Instrumenten für [[chemistry-education|Chemie]] und [[quantitative-research|quantitatives]] Schlussfolgern finden sie, dass LLM-Mensch-Faktorstrukturen konsistent divergieren (LLM-Mensch-Kongruenz unter der Mensch-Mensch-Baseline), sodass Leistung bei einer auf Menschen genormten Prüfung schwache Evidenz über LLM-Fähigkeiten bei den Konstrukten ist, die die Items zu messen entworfen wurden.
@@ -80,6 +80,8 @@ Ein Design-Gegenstück stammt aus derselben Population, die das Neugestaltungsar
 
 [[weidlich-inference-at-risk-assessment-validity-2026|Weidlich (2026)]] rahmt Neugestaltung als Frage danach, welche Inferenz eine Veränderung zu schützen bezweckt. Von Kanes argumentbasierter Validität ausgehend, trennt er fünf Drucke, die Debatten dazu neigen zu einem zusammenzufallen: Konstruktunterrepräsentation, konstruktirrelevante Varianz, Attribution der Leistung, bedingte Extrapolation und ungestützte Punktzahlnutzung. KI-Nutzung ist nicht automatisch eine Bedrohung, weil Werkzeugnutzung germane ist, wo das beabsichtigte Konstrukt KI-unterstütztes professionelles Urteilsvermögen ist, und die Zielleistung umgeht, wo es ungeleistetes Schlussfolgern ist, sodass Konstrukt und KI-Bedingungen gemeinsam spezifiziert werden müssen. Seine Mahnung für Neugestaltung folgt, da Interventionen einen Druck gegen einen anderen eintauschen: Mündliche Verteidigungen können Attribution stärken, während sie Verlässlichkeit oder Barrierefreiheit reduzieren.
 
+Das Ergebniskonstrukt verschiebt die Schätzung ebenfalls: In einer dreistufigen Metaanalyse GenAI-unterstützten problembasierten und [[project-based-learning|projektbasierten Lernens]] fanden [[chen-pbl-pjbl-genai-meta-analysis-2026|Chen et al. (2026)]], dass lernendeninterne Ergebnisse bei g = 0,819 gebündelt wurden, während Maße des gemeinsamen Mensch-KI-Produkts g = 1,958 mit einem Vorhersageintervall lieferten, das null kreuzt, und zwar ausdrücklich getrennt modelliert, weil dieses Produkt kein verinnerlichtes Lernen ist.
+
 ### Verbindungen
 
 Validität von Assessments verbindet sich mit [[authentic-assessment|authentischem Prüfen]], [[automated-assessment|Automatisierter Bewertung]], [[automated-assessment|Zuversichtsbewusstem KI-Assessment]], [[formative-assessment|formativem Prüfen]], [[academic-integrity|akademischer Integrität]] und [[rct|RCTs]] (die auf gültige Ergebnismaße angewiesen sind).
@@ -91,6 +93,8 @@ KI stellt Validität auf epistemischer Ebene infrage: [[end-of-assessment-ai-dis
 ## Validität unter unvollständiger Information
 
 Die schärfste neue Umrahmung behandelt das generative KI-Problem als ein evidentielles. Die lernende Person weiß, wie ein Stück Arbeit produziert wurde; die Institution beobachtet das Artefakt und allenfalls Teilspuren des Prozesses — eine Produkt-Prozess-Lücke, die [[mohamed-temimi-assessment-imperfect-information-disclosure-2026|Mohamed und Temimi (2026)]] als Assessmentvalidität unter unvollständiger Information formalisieren. Nach dieser Darstellung ist die Frage nicht, ob eine Regel gebrochen wurde, sondern ob das Assessment noch glaubwürdige Evidenz für Schlussfolgern, Anstrengung und Urteilsvermögen der lernenden Person erzeugt, und jeder [[governance|institutionelle]] Mechanismus — Verbot, Überwachung, Offenlegung, Neugestaltung — wird danach bewertet, welche Studierendenantwort er am attraktivsten macht. Die Validitätslinse löst auch eine falsche Trennung auf: Integrität und Validität sind dasselbe Problem aus verschiedenen Enden gesehen, weil eine Feststellung von Fehlverhalten selbst eine Validitätsbehauptung darüber ist, was die Arbeit belegt.
+
+Tragbare KI schließt die letzte evidentielle Lücke, statt sie zu erweitern: [[corbin-ai-glasses-wearable-ai-assessment-2026|Corbin et al. (2026)]] argumentieren, KI-Brillen und Ohrstöpsel lieferten Unterstützung ohne externes Signal, sodass eine Prüfungsnehmerin anwesend und beaufsichtigt sein und dennoch keine unassistierte Fähigkeit demonstrieren kann, was die Trennbarkeit und Beobachtbarkeit auflöst, die beaufsichtigte Formate annahmen.
 
 Ein lernendenseitiges Rahmenwerk benennt die Inferenzziele, die ein Artefakt allein nicht klären kann. [[gifted-potential-ai-assisted-work-attributional-validity-2026|Sak (2026)]] schlägt *attributionale Validität* für Urteile über hohe Begabung aus KI-assistierter Arbeit vor: Die Relation von Fähigkeit zu Produkt ist viele-zu-eins, weil Kompetenz der lernenden Person, Modellfähigkeit, die Lenkung durch die lernende Person, Mensch-KI-Passung und Kontext unterschiedlich kombinieren, um äquivalente Artefakte zu erzeugen, sodass das Produkt die dahinterliegende Kapazität nicht identifizieren kann. Das Rahmenwerk trennt vier Inferenzziele — unabhängige Kompetenz, intellektuelle [[agency|Handlungsfähigkeit]], hybride Fähigkeit und entwicklungsbezogene Übertragung —, und benennt drei Fehler, die folgen, wenn Evidenz für ein Ziel als die für ein anderes gelesen wird: Überattribuierung, entwicklungsbezogene Illusion und unterstellte Fähigkeitsäquivalenz. Seine Anforderung an die Aufzeichnung spiegelt die evidentielle Disziplin, die dieser Abschnitt aus der Fehlverhaltensliteratur zieht: Benennen Sie die Fähigkeit, um die es in einem Urteil geht, dokumentieren Sie, wie die Arbeit produziert wurde (Modell und Version, Schnittstelle, erlaubte Funktionen, erwachsene Vermittlung, Zugangsbedingungen), und verlangen Sie spätere Evidenz für [[transfer-of-learning|Transfer]], bevor Sie assistierte Leistung als Veränderung der lernenden Person lesen.
 
@@ -109,6 +113,7 @@ Stabilität von Lauf zu Lauf ist jedoch nicht garantiert: Dieselbe Bewertung fü
 - **Übereinstimmung unter LLM-Kodierenden ist Konsistenz, nicht Validität.** An einem expertenmarkierten Korpus Bildungsdialoge behielt ein kreuzmodeller Übereinstimmungsfilter nur 33 von 74 korpusabgeleiteten Verhaltensbehauptungen und 11 von 48 konstruktabgeleiteten, und geteilte Modellfehler überlebten den Filter, sodass Übereinstimmung zwischen Modellen nicht für Konstruktvalidität einstehen kann ([[edubehaviors-auditable-coding-educational-dialogues-2026|Bernado et al., 2026]]).
 - **Exposition ist messbar, und das Abhilfemittel ist ausreichende Evidenz statt maximale Sicherheit.** [[villanueva-ai-vulnerability-assessment-audit-2026|Villanueva (2026)]] bewertete 53,915 Assessmentitems nach veröffentlichtem Format, Beaufsichtigung und Notengewicht und fand, dass die meisten bewerteten Noten auf Arbeit ruhen, deren Urheberschaft nach Einreichung nicht verifiziert werden kann; er argumentiert, Programme brauchten genug Evidenz für Lernen an Schlüsselstellen, nicht jede Einheit gesichert.
 - **Ein gültiges Maß kann dennoch unsicher zu optimieren sein.** Ein LLM-Tutor gegen eine rubric-artige Adaptivitätsmetrik feinzujustieren erhöhte die Metrik (+0,05 bis +0,42), während blinde Expertenbewertungen fielen (4,46 auf 3,03), weil eine Metrik, die Entscheidungen unabhängig bewertet, durch Wiederholung der einzelnen besten Entscheidung maximiert wird ([[llm-tutor-pedagogical-metric-degradation-2026|Domínguez Figaredo & Fernández De la Cruz, 2026)]]).
+- **Die Geometrie eines Embeddings sind nicht die Unterscheidungen einer Rubrik.** Gegen 992 handschriftliche Physiklösungen unter fünf textuellen Darstellungen und neun Embedding-Mechanismen berichten [[embedding-similarity-clustering-handwritten-physics-2026|Tauschhuber & Kortemeyer (2026)]] eine beste gewichtete Spearman-Korrelation mit menschlichen Punktzahlen von 0,198, wobei Cluster punktzahl-angereichert statt punktzahl-äquivalent waren.
 
 ## Verbundene Konzepte
 
@@ -133,45 +138,48 @@ Stabilität von Lauf zu Lauf ist jedoch nicht garantiert: Dieselbe Bewertung fü
 
 ## Verbundene Artikel
 
-- [[ivory-psychology-assessment-integrity-2026]] — Program-level pass/fail susceptibility and the marking criteria that let fabricated values pass (Ivory et al. 2026)
-- [[zou-is-this-a-trap-student-teachers-genai-2026]] — Permission alone doesn't degrade validity: engagement unaffected by GenAI use; reflection resists generic substitution
-- [[ai-agents-joyful-assessment-third-space-2026]] — AI agents, joyful assessment, and third space
-- [[opraise-automated-marking-ai-assessment-2026]] — OpRaise report: AI marking of 761 university essays across three UK universities
-- [[kumar-genai-computing-education-systematic-review-2026]] — When AI generates the graded artifact: computing education's validity problem and redesign evidence
-- [[brunnstrom-ai-interaction-literacy-srl-2026]] — Take-home exams: assess the qualitative phase, move recall in-class (Brunnström & Palmqvist 2026)
-- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — HITL AI-assisted scoring in a large-scale national writing assessment (Curi et al. 2026)
-- [[varia-construct-equivalent-assessment-variant-generation-2026]] — Construct-equivalent assessment variant generation (Lee 2026)
-- [[chirikov-ai-grade-inflation-2026]] — AI task displacement as a mechanism of grade inflation (Chirikov 2026)
-- [[ai-agents-complete-lms-assessment-validity-2026]] — AI agents completing LMS tasks; human-production assumption & agentic validity (Hadjisolomou & El-Haddad 2026)
+- [[embedding-similarity-clustering-handwritten-physics-2026]] — Embedding-Ähnlichkeit korrelierte bestenfalls bei 0,198 mit menschlichen Punktzahlen
+- [[corbin-ai-glasses-wearable-ai-assessment-2026]] — Tragbare KI löst Trennbarkeit und Beobachtbarkeit auf, sodass eine beaufsichtigte Prüfungsnehmerin dennoch keine unassistierte Fähigkeit demonstrieren kann (Corbin, Sharpe & Dawson 2026)
+- [[ivory-psychology-assessment-integrity-2026]] — Programmebene-Anfälligkeit für Bestehen/Durchfallen und die Bewertungskriterien, die fabrizierte Werte bestehen lassen (Ivory et al. 2026)
+- [[zou-is-this-a-trap-student-teachers-genai-2026]] — Erlaubnis allein degradiert die Aufgabe nicht: Engagement unbeeinflusst von GenAI-Nutzung; Reflexion widersteht generischer Substitution
+- [[ai-agents-joyful-assessment-third-space-2026]] — KI-Agenten, freudvolles Assessment und Third Space
+- [[opraise-automated-marking-ai-assessment-2026]] — OpRaise-Bericht: KI-Benotung von 761 Hochschulaufsätzen an drei britischen Universitäten
+- [[kumar-genai-computing-education-systematic-review-2026]] — Wenn KI das bewertete Artefakt erzeugt: das Validitätsproblem der Computing-Bildung und Evidenz zur Neugestaltung
+- [[brunnstrom-ai-interaction-literacy-srl-2026]] — Mitnehmeprüfungen: die qualitative Phase bewerten, Abruf ins Klassenzimmer verlegen (Brunnström & Palmqvist 2026)
+- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — KI-gestütztes HITL-Scoring in einer großmaßstäblichen nationalen Schreibbewertung (Curi et al. 2026)
+- [[varia-construct-equivalent-assessment-variant-generation-2026]] — Generierung konstruktäquivalenter Assessment-Varianten (Lee 2026)
+- [[chirikov-ai-grade-inflation-2026]] — KI-Aufgabenverdrängung als Mechanismus der Noteninflation (Chirikov 2026)
+- [[ai-agents-complete-lms-assessment-validity-2026]] — KI-Agenten, die LMS-Aufgaben erledigen; Validitätsversagen über die Annahme menschlicher Produktion (Hadjisolomou & El-Haddad 2026)
 - [[semantic-variability-llm-conversation-assessment-2026]]
-- [[assessment-latent-structure-human-llm-2026]] — Do assessment instruments measure the same thing for humans and LLMs? (Strugatski et al. 2026)
-- [[multimodal-embodied-cognition-oral-explanations-2026]] — A Multimodal Framework for Embodied Cognition in Oral Explanations
-- [[assessing-quality-ai-generated-exams-field-2025]] — Assessing the quality of AI-generated exams: a large-scale field study
+- [[assessment-latent-structure-human-llm-2026]] — Messen Assessmentinstrumente für Menschen und LLMs dasselbe? (Strugatski et al. 2026)
+- [[multimodal-embodied-cognition-oral-explanations-2026]] — Ein multimodales Rahmenwerk für verkörperte Kognition in mündlichen Erklärungen
+- [[assessing-quality-ai-generated-exams-field-2025]] — Bewertung der Qualität KI-generierter Prüfungen: eine großmaßstäbliche Feldstudie
 - [[genai-performance-vs-learning]]
 - [[ai-scoring-language-bias-physics]]
 - [[end-of-assessment-ai-disruption-transformation-2026]]
 - [[can-ai-evaluate-assessment-llm-meta-assessment-2026]]
-- [[luo-dawson-value-judgments-grading-2026]] — Value judgments in grading GenAI-assisted work: honesty, trust, validity, and two-way transparency (Luo & Dawson 2026)
+- [[luo-dawson-value-judgments-grading-2026]] — Werturteile bei der Benotung GenAI-gestützter Arbeit: Ehrlichkeit, Vertrauen, Validität und zweiseitige Transparenz (Luo & Dawson 2026)
 - [[falahat-chatgpt-grading-pharmacy-exams-2026]]
-- [[teichmann-detecting-undetectable-misconduct-2026]] — The misconduct procedure as a validity problem
-- [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] — Assessment validity under imperfect information: a response-region model
-- [[weidlich-inference-at-risk-assessment-validity-2026]] — Which inference is at risk? Separating five validity pressures and checking what a redesign weakens (Weidlich 2026)
-- [[koretsky-genai-stem-assessment-2026]] — STEM assessment as a validity, design and capability-definition problem, not a cheating one: process evidence, oral exams and the fidelity of AI-generated tasks (Koretsky et al. 2026)
-- [[ai-particle-physics-education-redesign-2026]] — AI in Particle Physics Education: Research Problems and Foundational Skills
-- [[student-perspectives-ai-writing-grading-2026]] — Who Should Grade My Work? Student Perspectives on Transparent AI-Assisted Writing Assessment in Higher Education
-- [[el-salvador-ai-tutoring-selection-claim-2026]] — Bounding the learning claim of El Salvador's AI tutoring pilot (Restrepo Morales et al. 2026)
-- [[munoz-misconduct-allegation-evidence-2026]] — What misconduct allegation files actually contain as evidence, and why evidence quality does not predict outcomes (Munoz et al. 2026)
-- [[hadra-ai-detector-accuracy-efl-2026]] — Detector accuracy 0.69 and 0.61 on 192 texts; hybrid-writing failure and EFL misclassification risk (Hadra et al. 2026)
-- [[wright-transcription-not-generation-2026]] — Over-inclusive prohibitions: transcription is not generation, so the rule sanctions what it was not designed to catch (Wright 2026)
-- [[sharma-judgment-visible-genai-assessment-2026]] — Integrity made visible through evaluative judgment rather than detection (Sharma 2026)
-- [[llm-grade-bands-calibration-bias-2026]] — Can large language models reproduce higher education grade bands? Cross-model study of calibration and grading bias in authentic student writing
-- [[ai-assisted-physics-lab-report-assessment-2026]] — AI-Assisted Assessment of Experimental Physics Laboratory Reports: Potential, Limitations, and Support for Teaching Practice
-- [[gifted-potential-ai-assisted-work-attributional-validity-2026]] — Four targets of inference and three attribution errors when a product is read as evidence of learner capacity (Sak 2026)
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — Student Use of LLMs and the Limits of AI-Generated Question Difficulty in Data Science Courses
-- [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors: Assertion-based Schemas for Auditable Coding of Educational Dialogues
-- [[vogt-ai-mcq-recognition-medical-assessment-2026]] — Student ratings of curricular alignment track item difficulty (rho = 0.762) rather than content (Vogt et al. 2026)
+- [[teichmann-detecting-undetectable-misconduct-2026]] — Das Fehlverhaltensverfahren als Validitätsproblem
+- [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] — Assessment-Validität unter unvollständiger Information: ein Response-Region-Modell
+- [[weidlich-inference-at-risk-assessment-validity-2026]] — Welche Inferenz gefährdet ist: fünf Validitätsdrücke trennen und prüfen, was eine Neugestaltung schwächt (Weidlich 2026)
+- [[koretsky-genai-stem-assessment-2026]] — STEM-Assessment als Validitäts-, Design- und Fähigkeitsdefinitionsproblem, nicht als Betrugsfall: Prozessevidenz, mündliche Prüfungen und die Treue KI-generierter Aufgaben (Koretsky et al. 2026)
+- [[ai-particle-physics-education-redesign-2026]] — KI in der Teilchenphysik-Bildung: Forschungsprobleme und Grundlagenfähigkeiten
+- [[student-perspectives-ai-writing-grading-2026]] — Wer soll meine Arbeit benoten? Studierendenperspektiven auf transparente KI-unterstützte Schreibbewertung in der Hochschulbildung
+- [[el-salvador-ai-tutoring-selection-claim-2026]] — Abgrenzung der Lernbehauptung des KI-Tutoring-Piloten in El Salvador (Restrepo Morales et al. 2026)
+- [[munoz-misconduct-allegation-evidence-2026]] — Was Fehlverhaltensanschuldigungsakten tatsächlich als Beleg enthalten, und warum Evidenzqualität Ergebnisse nicht vorhersagt (Munoz et al. 2026)
+- [[hadra-ai-detector-accuracy-efl-2026]] — Detektorgenauigkeit 0,69 und 0,61 an 192 Texten; Versagen bei hybrider Schreibarbeit und Fehlklassifizierungsrisiko bei EFL (Hadra et al. 2026)
+- [[wright-transcription-not-generation-2026]] — Überinklusive Verbote: Transkription ist nicht Generierung, sodass die Regel das sanktioniert, was sie nicht verhindern sollte (Wright 2026)
+- [[sharma-judgment-visible-genai-assessment-2026]] — Integrität durch evaluatives Urteilsvermögen sichtbar gemacht statt durch Detektion (Sharma 2026)
+- [[llm-grade-bands-calibration-bias-2026]] — Können große Sprachmodelle Notenbanden der Hochschulbildung reproduzieren? Cross-Model-Studie zu Kalibrierung und Benotungsbias in authentischen Studierenden-Schreibtexten
+- [[ai-assisted-physics-lab-report-assessment-2026]] — KI-gestützte Bewertung experimenteller Physik-Laborberichte: Potenzial, Grenzen und Unterstützung der Unterrichtspraxis
+- [[gifted-potential-ai-assisted-work-attributional-validity-2026]] — Vier Inferenzziele und drei Attributionsfehler, wenn ein Produkt als Beleg für die Kapazität der lernenden Person gelesen wird (Sak 2026)
+- [[student-llm-use-ai-question-difficulty-data-science-2026]] — Nutzung von LLMs durch Studierende und die Grenzen KI-generierter Fragenschwierigkeit in Data-Science-Kursen
+- [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors: behauptungsbasierte Schemata für auditierbares Kodieren von Bildungsdialogen
+- [[vogt-ai-mcq-recognition-medical-assessment-2026]] — Studierenden-Bewertungen der Curriculum-Ausrichtung folgen der Itemschwierigkeit (rho = 0,762) statt dem Inhalt (Vogt et al. 2026)
 
-- [[llm-grading-assistants-public-health-2026]] — Five-day repeat grading of identical submissions gave Krippendorff's alpha 0.625
-- [[villanueva-ai-vulnerability-assessment-audit-2026]] — AI Vulnerability Index: most assessed marks rest on unverifiable authorship, so validity rests on sufficient evidence at key stages rather than maximum security
-- [[llm-tutor-pedagogical-metric-degradation-2026]] — A pedagogical-adaptivity metric rose while blind expert ratings fell: measurement validity does not imply optimization validity (Domínguez Figaredo & Fernández De la Cruz 2026)
-- [[genai-english-proficiency-validity-2026]] — Has the Target Moved Again? GenAI and the Validity of English Proficiency Scores
+- [[llm-grading-assistants-public-health-2026]] — Fünf Tage später wiederholte Benotung identischer Einreichungen ergab Krippendorffs Alpha 0,625
+- [[villanueva-ai-vulnerability-assessment-audit-2026]] — AI Vulnerability Index: Die meisten bewerteten Noten ruhen auf nicht verifizierbarer Urheberschaft, sodass Validität auf ausreichender Evidenz an Schlüsselstellen beruht statt auf maximaler Sicherheit
+- [[llm-tutor-pedagogical-metric-degradation-2026]] — Eine pädagogische Adaptivitätsmetrik stieg, während blinde Expertenbewertungen fielen: Messvalidität impliziert keine Optimierungsvalidität (Domínguez Figaredo & Fernández De la Cruz 2026)
+- [[genai-english-proficiency-validity-2026]] — Hat sich das Ziel wieder verschoben? GenAI und die Validität von Englisch-Kompetenzwerten
+- [[chen-pbl-pjbl-genai-meta-analysis-2026]] — Das Ergebniskonstrukt verschiebt die Schätzung: g = 1,958 für das gemeinsame Mensch-KI-Produkt

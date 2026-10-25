@@ -1,7 +1,7 @@
 ---
 title: MINT-Bildung
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-10T09:04:23-04:00"
+updated: "2026-10-24T21:15:40-04:00"
 type: concept
 foundations: [computational-thinking]
 technology: [intelligent-tutoring]
@@ -9,8 +9,9 @@ assessment: [automated-assessment]
 discipline: [cs education, math education, physics education]
 level: [k 12, higher ed]
 confidence: high
+connected_resources: [teacher-dev]
 translation_of: concepts/stem-education
-source_updated: "2026-10-15T08:25:00-04:00"
+source_updated: "2026-10-21T12:05:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -37,11 +38,14 @@ ai_assist:
 ### MINT als primäre KIED-Domäne
 
 - **Mathematik:** [[math-education|Mathematikbildungs]]-Forschung überspannt [[generative-ai-reduced-study-time-math|GenAI-Wirkung auf Mathematiklernen]], [[ai-powered-personalized-learning-elementary-fractions-2026|Tutoring zu Brüchen in der Grundschule]] und [[student-math-competence-clustering|Kompetenz-Clustering]].
+- **Mathematik-ITS-Evidenz ist begrenzt und bedingt.** Ein strukturiertes narratives Review von 20 Publikationen (2020–April 2026) fand den klarsten gemessenen Vorteil für Echtzeit-diagnostisches [[feedback]], das auf dasselbe adaptive System aufgesetzt wird, schloss aber, dass intelligentes Tutoring Mathematiklernen nur unterstützt, wenn valides [[student-modeling|Lernendenmodell]], kalibriertes Scaffolding und Vermittlung durch die Lehrkraft zusammenkommen, und dass Skalierbarkeit technisch ist, nicht pädagogisch ([[intelligent-tutoring-mathematics-education-review-2026|Ogunsakin et al. (2026)]]).
 - **Physik:** [[physics-education|Physikbildung]] umfasst [[becker-chatgpt-typology-physics-2026|ChatGPT-Typologiestudien]], [[hashmi-socratic-physics-chatbot-2025|sokratische Physik-Chatbots]] und [[ai-scoring-language-bias-physics|Bias-Analyse der Bewertung]].
 - **Informatik:** [[cs-education|Informatikbildung]] ist das am meisten erforschte MINT-Teilfeld — [[code-review-genai-cs1|Code-Review]], [[debugtracker-classroom-debugging|Debugging-Werkzeuge]] und [[prompt-problems-nl-programming-mistakes|Prompting-Studien]].
 - **Ingenieurwesen:** [[concept-catalyst-engineering-scaffolds|Ingenieur-Gerüste]], [[structured-ai-demonstrations-engineering-mechanics|Mechanik-Demonstrationen]] und [[ai-engineering-education-balancing-act|Curriculum-Ausbalancierung]] bringen KI in die [[engineering-education|Ingenieurbildung]].
 - **Begleitung von Grundstudienforschung:** [[ai-information-extraction-undergraduate-thesis-2026|An und Kollegen (2026)]] pilotieren ein KI-System, das Forschungspublikationen für die Thesis-Fertigstellung im Grundstudium über vier MINT-Schulen hinweg in strukturierte, vergleichbare Datensätze konvertiert. Ergebnisse (20 Studierende, 80 Dokumente) zeigten >90 % Extraktion experimenteller Parameter, ~65 % Reduktion der Zeit für die Literaturübersicht und eine 50 % Steigerung der Fähigkeit der Studierenden, einflussreiche experimentelle Variablen zu identifizieren — ein Beleg dafür, wie [[generative-ai|KI]]-begleitete [[higher-ed|Grundstudienforschung]] Forschungskompetenz und epistemische Kognition in der MINT-Bildung stärken kann.
 - **Simulationsgestützte Instruktion:** In der MINT-Bildung mit Drohnen wurden von [[teacher-role|Lehrkraft]]- und KI mitgestaltete [[simulation]]-Gerüste gegen ein identisches praktisches [[curriculum-design|Curriculum]] mit 30 Schülerinnen der Sekundarstufe evaluiert, um zu prüfen, ob simulationsgestützte Instruktion überlegene [[learning-gains|Lernereignisse]] erbringt. GenAIs Rolle war, Inhaltserzeugung zu beschleunigen, während Beteiligung der Lehrkraft pädagogische Validität und kontextuelle Relevanz bewahrte.
+- **Die Ergebnisse begünstigten die gerüstete Gruppe.** Die Simulationsgruppe übertraf die praktische Gruppe bei curriculumangeicher MINT-Wissen (M = 3.00 gegenüber 2.06; t(28) = 2.23, p = .034, d = 0.82) und bei Kompetenzen des 21. Jahrhunderts (d = 1.52) ([[simulation-assisted-drone-learning-stem-2026|Yeung et al. (2026)]]).
+- **Digitale Zwillinge in MINT: Prototypen laufen dem gemessenen Lernen voraus.** Ein PRISMA-Review von 11 Hochschulstudien fand, dass jede einzelne einen funktionierenden, hardware-synchronisierten Prototyp demonstrierte, doch nur drei (27.3%) statistisch signifikante Lerngewinne berichteten, mit Entwicklungskomplexität und reduzierter sozialer Interaktion als wiederkehrenden Barrieren ([[caee-digital-twins-stem-education-systematic-review-2026|Pelayo-González et al., 2026]]).
 - **KI-unterstützte Planung in der STEAM-Kunstbildung:** Eine experimentelle Studie zu STEAM-Kunstlehrkräften von Kindern ([[luo-tahir-chatgpt-steam-lesson-planning-2026|Luo und Tahir 2025]]) fand, dass ChatGPT-assistierte Unterrichtspläne die von Lehrkräften erzeugten bei expertisch bewerteter Qualität übertrafen (Median 20,5 gegenüber 17,6, p = .002, großer Effekt, sechs Professorinnen als Bewertende), wobei Lehrkräfte Gewinne bei Effizienz und interdisziplinärer Integration berichteten (61 % bewerteten 4+). Das Ergebnis kam durch die Delegationsmethode der Lehrkraft zustande — am nützlichsten, indem ChatGPT Inhaltslücken in einem selbst umrissenen Unterricht füllte —, was den wiederkehrenden Punkt bekräftigt, dass KI MINT/STEAM-Arbeit hebt, wenn die Lehrkraft die Aufgabe strukturiert und Ausgabe kritisch evaluiert, statt den ganzen Plan dem Modell zu übergeben.
 
 ### Wie wirksam KI-unterstützte Instruktion in MINT ist, gepoolt
@@ -63,6 +67,7 @@ Eine konzentrierte Charge von Studien aus dem Jahr 2026 in der *International Jo
 - **STEAM ist ein unebener Pfad zu KI-Kompetenz.** Ein PRISMA-systematisches Review von 39 Studien ([[niri-steam-ai-literacy-review-2026]]) fand, dass STEAM-Implementierungen vor allem technische Kompetenzen entwickeln (grundlegende KI-Konzepte, rechnerisches Denken, Datenkompetenz), während sie [[ethics|ethisches]] Bewusstsein, kreative Imagination und das Erzeugen/Verwalten/Gestalten mit KI unterentwickeln — was darauf hindeutet, dass KI-Kompetenz in MINT gegenwärtig einseitig auf technische Fähigkeit gegenüber verantwortungsvoller Gestaltung von KI ausgerichtet ist.
 - **Adaptive KI-basierte MINT-Programme können tiefes Lernen unterstützen.** Ein clusterrandomisierter Pilot in der Naturwissenschaft der sechsten Klasse ([[bin-bakheet-adaptive-ai-stem-deep-learning-2026]], N = 30) fand, dass ein adaptives KI-basiertes MINT-Programm (personalisierte Inhalte, regelbasierte Beherrschung, Echtzeit-Feedback) große Effektstärken zugunsten der Experimentalgruppe über Erklärung, Interpretation, Anwendung und Ideenerzeugung hinweg erzeugte — obwohl das Design mit zwei Klassenzimmern vorsichtige Interpretation mahnt.
 - **Akzeptanz durch Lehrkräfte ist heterogen und disziplingeprägt.** Eine latente Profilanalyse von 128 angehenden Lehrkräften ([[chen-preservice-teachers-chatgpt-lpa-2026]]) fand vier ChatGPT-Akzeptanzprofile (Pragmatic Evaluators, Technology Pioneers, Resistant Skeptics, Environmental Observers), wobei MINT-Lehrkräfte in Technology Pioneers konzentriert und Nicht-MINT-Lehrkräfte in resistenten Profilen waren — und Resistant Skeptics hohe Bedienfreundlichkeit, aber geringe Absicht zeigten, was differenziertes [[ai-literacy]]-Training erfordert.
+- **Studierende das Modell befragen lehren, nicht nur es zu nutzen.** Eine einzelne 45-minütige Sitzung zu [[prompt-engineering|Prompting]] und Fehlerprüfung hob die Nachtestwerte im Physik-Grundstudium (*d* = 0.814) und egalisierte den Vorteil früherer KI-Erfahrung ([[structured-genai-training-physics-problem-solving-rct-2026|Huang et al., 2026]]).
 - **Assessment und kognitive Prozesse in KI-integriertem MINT.** Der [[zhang-ct-ai-training-test-2026|CTAT]] (34 Aufgaben, IRT-validiert) bietet ein valides Instrument, um [[computational-thinking]] in KI-Trainingskontexten zu bewerten, und legt offen, dass Studierende am meisten mit Datendarstellung, Sequenzierung logischer Operatoren und Schleifenstrukturen kämpfen. Eine Grounded-Theory-Studie zu KI-unterstützter Programmierung ([[liu-tool-tutor-crutch-programming-2026]]) zeigt, dass Lernende durch [[scaffolding]]- und Offloading-Schleifen zwischen „Domain Mastery“ und „Tool Mastery“ oszillieren, mit abgeschwächter [[metacognition|metakognitiver]] Kalibrierung unter Routine-Offloading — eine prozessuale Darstellung der Leistung-Lernen-Spannung.
 
 ## Implikationen für MINT-Lehrkräfte
@@ -89,8 +94,8 @@ Eine konzentrierte Charge von Studien aus dem Jahr 2026 in der *International Jo
 - [[llm]]
 - [[discipline-specific-aied]]
 - [[teacher-education]]
-- [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
-- [[biology-education]] — Biology education and AI: lab teaching assistants, AI literacy in biology, critical thinking, specialized tools
+- [[chemistry-education]] — Chemiebildung und KI: Labore, formatives Assessment, LLM-Grenzen, Philosophie des Experimentierens
+- [[biology-education]] — Biologiebildung und KI: Labor-Lehrassistenten, KI-Kompetenz in Biologie, kritisches Denken, spezialisierte Werkzeuge
 
 ## Verbundene Artikel
 
@@ -102,17 +107,17 @@ Eine konzentrierte Charge von Studien aus dem Jahr 2026 in der *International Jo
 - [[bin-bakheet-adaptive-ai-stem-deep-learning-2026]] — Adaptives KI-basiertes MINT-Programm für tiefes Lernen
 - [[chen-preservice-teachers-chatgpt-lpa-2026]] — ChatGPT-Akzeptanzprofile angehender Lehrkräfte
 - [[zhang-ct-ai-training-test-2026]] — Computational Thinking in AI Training Test (CTAT)
-- [[liu-tool-tutor-crutch-programming-2026]] — Tool, tutor, or crutch: grounded theory of AI-assisted programming
-- [[workforce-readiness-smart-manufacturing-wrl-2026]] — Workforce Readiness Level framework for smart manufacturing in the AI era
+- [[liu-tool-tutor-crutch-programming-2026]] — Werkzeug, Tutor oder Krücke: Grounded-Theory-Studie zu KI-unterstützter Programmierung
 - [[becker-chatgpt-typology-physics-2026]]
 - [[ai-powered-personalized-learning-elementary-fractions-2026]]
 - [[concept-catalyst-engineering-scaffolds]]
 - [[generative-ai-reduced-study-time-math]]
 - [[avraamidou-ai-colonization-science-education]]
 - [[ai-science-chemistry-education-systematic-review-2025]] — Systematisches Review zu KI in Naturwissenschaft/Chemiebildung
-- [[astor-computational-thinking-meta-review-2026]] — CT as a 21st-century skill across STEM
 - [[ai-information-extraction-undergraduate-thesis-2026]] — KI-gestützte Informationsextraktion unterstützt Thesis im Grundstudium und forschungsbasiertes Lernen (An et al. 2026)
 - [[simulation-assisted-drone-learning-stem-2026]] — Simulationsgestütztes Drohnenlernen mit von Lehrkraft und KI mitgestalteten Gerüsten
 - [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
 - [[ai-supported-instruction-stem-meta-analysis-2026]] — Gepoolter Effekt KI-unterstützter MINT-Instruktion über 35 Studien, mit den größten Gewinnen in der Oberstufe (Doğan et al. 2026)
-- [[hallstrom-ai-literacy-stem-education-frontiers-2026]] — Synthesis of the ten most-cited studies of AI literacy in STEM education (Hallström et al. 2026)
+- [[caee-digital-twins-stem-education-systematic-review-2026]] — Digitale Zwillinge in MINT: jede gesichtete Studie lieferte einen funktionierenden Prototyp, wenige maßen Lernen
+- [[structured-genai-training-physics-problem-solving-rct-2026]] — Eine 45-minütige Prompting- und Fehlerprüfungs-Sitzung hob die Physik-Nachtestwerte (*d* = 0.814)
+- [[intelligent-tutoring-mathematics-education-review-2026]] — Mathematik-ITS-Evidenz ist begrenzt und bedingt

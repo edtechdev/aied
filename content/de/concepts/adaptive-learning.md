@@ -1,13 +1,13 @@
 ---
 title: Adaptives Lernen
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-10T09:04:24-04:00"
+updated: "2026-10-24T20:10:02-04:00"
 type: concept
 pedagogy: [scaffolding]
 technology: [cognitive-diagnosis, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, personalized-learning, student-modeling]
 confidence: high
 translation_of: concepts/adaptive-learning
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-16T09:45:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -63,6 +63,7 @@ Adaptives Lernen wird häufig mit [[personalized-learning|personalisiertem Lerne
 ### Forschungsbelege
 
 - **[[meta-analysis-systematic-review|Metaanalytische]] Evidenz zu adaptiven + KI-Werkzeugen.** [[burneo-can-edtech-close-learning-gaps-2026|Eine Metaanalyse der Weltbank]] von 14 [[rct|RCTs]] bündelt rechnergestütztes adaptives Lernen, intelligentes Tutoring und generative KI auf einer gemeinsamen Skala und schätzt einen durchschnittlichen Lernzuwachs von ~0,125 SD ohne signifikanten Unterschied zwischen den beiden Technologiegenerationen – ein Beleg dafür, dass der Anpassungsmechanismus, nicht die jeweilige Werkzeuggeneration, die Zuwächse bewirkt.
+- **Interpretables Rating plus zeitbudgetiertes Routing.** [[mars-momentum-aware-adaptive-rating-assessment-2026|Sahu et al. (2026)]] behalten ein paar explizite Lernenden-Skalare — Rating-Empfindlichkeit, Antwortqualität und Momentum — und routen Fragen unter einem Zeitbudget, wodurch die Volatilität der Rating-Aktualisierung gegenüber festem Elo in etwa halbiert wird, während sie bei der Vorhersage hinter neuronales Wissens-Tracing zurückbleibt (AUC 0,7532 gegenüber 0,8658 von GKT).
 - **Adaptive Algorithmen im Vergleich in dynamischen Domänen.** [[graph-its-adaptive-algorithms-2026|Grafbasierte ITS-Forschung]] vergleicht mehrere adaptive Lernalgorithmen (darunter Bayessche Wissenspropagation und intuitionistische Fuzzy-Logik) in einem grafbasierten Wissensrepräsentationsrahmen für dynamische Curricula.
 - **RL als Anpassungsmechanismus, empirisch kartiert.** [[riedmann-reinforcement-learning-education-review-2026|Riedmann, Schaper & Lugrin (2025)]] sichten 89 Studien zu RL in der Bildung und zeigen, dass Anpassung in inhaltsbezogene (Sequenzierung von Instruktion/Planung von Inhalten, n = 53) und leitungsbezogene (Hinweise, [[feedback]], Auswahl von Aktivitäten, n = 36) Mechanismen zerfällt – wobei RL statistisch signifikante Überlegenheit gegenüber Baselines häufiger bei leitungsbezogener Anpassung zeigt als bei Inhaltsplanung. Sie empfehlen modellfreies RL für adaptives Lernen und warnen, dass klassisches RL in den gesichteten Studien Deep RL übertraf.
 - **Korrektheitsbasierte Anpassung kann das Üben zu früh beenden.** [[deceptive-overgeneralization-adaptive-learning-2026|An, McLaren und Stamper (2026)]] fanden, dass adaptive Systeme, die Beherrschung aus Korrektheit erschließen, Gefahr laufen, das Üben zu beenden, bevor Lernende Kontexte erleben, in denen die gelernte Handlung zu unterlassen wäre – und so trügerische Übergeneralisierung unbemerkt bleibt. Sie empfehlen, Aufgaben mit einem „Nicht-Handeln"-Detektor aufzunehmen, bevor Beherrschungs-Abbruchregeln greifen, damit Anpassung bedingtes Verständnis prüft (wissen, wann eine Handlung zu unterlassen ist), nicht nur Korrektheit.
@@ -94,6 +95,7 @@ Adaptives Lernen wird häufig mit [[personalized-learning|personalisiertem Lerne
 - [[ai-technologies]] — Überblick: KI-Technologien und -Verfahren (Modelle, LLM-Training, Robotik, RAG, agentisch)
 - [[recommender-systems-and-learning-paths]]
 ## Verbundene Artikel
+- [[mars-momentum-aware-adaptive-rating-assessment-2026]] — MARS: Ein momentum-bewusstes adaptives Bewertungssystem für personalisiertes Assessment
 - [[deceptive-overgeneralization-adaptive-learning-2026]] — Trügerische Übergeneralisierung: Adaptive Beherrschung kann das Üben beenden, bevor Lernende wissen, wann eine Handlung zu unterlassen ist (An, McLaren & Stamper 2026)
 - [[turano-ai-tutoring-not-a-monolith-2026]] — KI-Tutoring ist kein Monolith: Was wir tatsächlich wissen (Stanford SCALE/NSSA-Brief)
 - [[adaptive-ai-scaffold-collaborative-problem-solving-2026]]

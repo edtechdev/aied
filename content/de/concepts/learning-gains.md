@@ -1,7 +1,7 @@
 ---
 title: Lerngewinne
 created: "2026-08-09T16:52:03-04:00"
-updated: "2026-10-10T09:04:23-04:00"
+updated: "2026-10-24T21:41:34-04:00"
 type: concept
 assessment: [assessment]
 audience: [learners]
@@ -11,7 +11,7 @@ connected_faqs: [top-10-findings-ai-education-instructors, research-gaps-aied, d
 confidence: high
 methods: [ai-ed-evaluation]
 translation_of: concepts/learning-gains
-source_updated: "2026-10-12T09:45:00-04:00"
+source_updated: "2026-10-16T08:47:09-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -65,6 +65,8 @@ Ein zentrales Thema in der Lerngewinn-Forschung der Wissensbasis ist, dass **gen
 - **Aber ungeschützter Zugang kann auch dauerhaft helfen.** Eine RCT mit einem handelsüblichen ChatGPT-Konto fand unassistierte Testwerte 0,27 SD höher, während Studierende Zugang hatten, und der Gewinn hielt eine Woche später — mehr als das Doppelte des Medians von 0,10 SD über 747 Bildungs-RCTs ([[contractor-learning-impact-generative-ai-2026|Contractor & Reyes, 2026]]).
 - **Wahrgenommene und tatsächliche Wirksamkeit divergieren.** [[ai-literacy-assessment-misalignment|Selbstberichtete Leistung falsch ausgerichtet mit gemessener Leistung]], und [[absent-cognitive-baseline-2026|die abwesende kognitive Baseline]] zeigt, dass KI-native Studierende ihr Lernen überschätzen — daher sind Wirksamkeitsbehauptungen auf Basis von Selbstbericht unverlässlich ohne objektive Ergebnismaße. [[self-report-measures]] versammelt die Fälle, in denen berichtete und gemessene Ergebnisse auseinandergehen.
 - **Gewinne können aus der Umverteilung von Lehrkräftezeit kommen, nicht aus KI-Benotung.** In einem randomisierten Experiment über 178 brasilianische Schulen (~19.000 Absolvierende) erzeugten KI- und menschliche Aufsatzbenotung identische Klausurgewinne, aber KI-Klassenzimmer sahen ~35 % mehr Einzelgespräche der Lehrkraft über Schreiben, und das untere Quartil verbesserte sich unter keiner Bedingung ([[ai-changing-teaching-workflows|Ler, 2026]]).
+
+- **Bei über die Lehrkraft vermittelter KI erzeugte die Vorbereitung Gewinne, nicht das Werkzeug.** Über 19 brasilianische Mathematiklassen an öffentlichen Schulen hinweg übertrafen Studierende, die von geschulten Lehrkräften unterrichtet wurden, die Kontrollgruppe, aber das Hinzufügen des AIED-U-Systems zu dieser Schulung erzeugte keinen weiteren Lerngewinn, und die Arbeitsbelastung der Lehrkraft hing negativ mit Gewinnen zusammen ([[rodrigues-aied-unplugged-numeracy-2026|Rodrigues et al. (2026)]]).
 
 **Fazit:** das Gewicht der Evidenz stützt **bescheidene, bedingte und designabhängige Lerngewinne** durch KI — real, wenn KI strukturiert ist, um zu coachen statt zu antworten, mit Leitplanken versehen und mit unassistierten Ergebnismaßen gepaart, und abwesend oder negativ, wenn sie die eigene Anstrengung der Lernenden ersetzt. Daher müssen Lerngewinne als Ergebnis mit validen, KI-resistenten Instrumenten gemessen werden, und daher paart [[ai-ed-evaluation]] Wirksamkeitsbehauptungen mit [[research-methods-aied|methodologischer]] Prüfung.
 
@@ -129,14 +131,15 @@ Lerngewinne verbinden sich mit [[assessment-validity]] — wenn [[assessment|Ass
 - [[math-education]]
 - [[human-in-the-loop-ai]]
 - [[affective-tutoring]]
-- [[theory-development-aied]] — Theory Development in AI in Education
+- [[theory-development-aied]] — Theorieentwicklung in der KI in der Bildung
 - [[self-report-measures]]
-- [[research-methods-aied]] — Research Methods in AIED (DBR-Abschnitt)
-- [[social-emotional-learning]] — Social-Emotional Learning
+- [[research-methods-aied]] — Forschungsmethoden in der AIED (DBR-Abschnitt)
+- [[social-emotional-learning]] — Sozial-emotionales Lernen
 - [[student-support-and-success]] — administrative Ergebnisse (Aufgabenerledigung, Leistungspunkte, Persistenz, Abschluss) als unterscheidbar von Lerngewinnen
 
 ## Verbundene Artikel
 
+- [[epistemological-audit-genai-meta-analyses-2026]] — Ein kritisches epistemologisches Audit früher Evidenzsynthesen in der Generative-AI-Bildungsforschung (Fütterer et al. 2026)
 - [[contractor-learning-impact-generative-ai-2026]] — Zugang zu einem handelsüblichen Chatbot erhöhte unassistierte Testwerte, die eine Woche anhielten (Contractor & Reyes 2026)
 - [[kestin-ai-tutoring-outperforms-active-learning-rct-2025]] — KI-Tutoring übertrifft aktives Lernen im Klassenzimmer: eine RCT, die ein neuartiges forschungsbasiertes Design in einem authentischen Bildungssetting einführt (Kestin et al. 2025)
 - [[genai-performance-vs-learning]] — warum assistierte Leistung kein Lernereignis ist (Yan et al. 2025)
@@ -144,19 +147,19 @@ Lerngewinne verbinden sich mit [[assessment-validity]] — wenn [[assessment|Ass
 - [[making-ai-tutoring-productive-mastery-math-2026]] — KI-Tutoring produktiv machen: beherrschungsbasierte Mathematikübung
 - [[one-click-away-khanmigo-two-year-school-experiment-2026]] — One Click Away: Khanmigo in einem zweijährigen Schulexperiment
 - [[ai-literacy-assessment-misalignment]] — KI-Kompetenz-Assessment: Fehlausrichtung von Selbstbericht und Leistung
-- [[generative-ai-reduced-study-time-math]] — Faster Completion, Less Learning: Generative AI Reduced Study Time on Math Problems and the Knowledge They Build
+- [[generative-ai-reduced-study-time-math]] — Schneller fertig, weniger gelernt: Generative KI verringerte die Bearbeitungszeit bei Mathematikaufgaben und das Wissen, das sie aufbauen
 - [[genai-meta-analysis-programming-learning]] — Eine Metaanalyse der Wirkung generativer KI auf Produktivität und Lernen in der Programmierung
 - [[liu-ai-literacy-interventions-meta-analysis-2026]] — Metaanalyse der Effekte von KI-Kompetenz-Interventionen
 - [[chatgpt-hints-human-tutor-learning-gains-2024]] — ChatGPT-Hilfe erzeugt Lerngewinne gleichwertig zu menschlicher Tutorhilfe
-- [[generative-ai-guardrails-harm-learning]] — Generative AI without guardrails can harm learning (PNAS 2025 RCT)
-- [[absent-cognitive-baseline-2026]] — The Absent Cognitive Baseline: Theorizing a Structural Gap in AI-Native College Students' Academic Self-Assessment
+- [[generative-ai-guardrails-harm-learning]] — Generative KI ohne Leitplanken kann Lernen schaden (PNAS 2025 RCT)
+- [[absent-cognitive-baseline-2026]] — Die abwesende kognitive Baseline: Theoretisierung einer strukturellen Lücke in der akademischen Selbsteinschätzung KI-native Studierender
 - [[oecd-digital-education-outlook-2026]] — OECD Digital Education Outlook 2026
-- [[ai-changing-teaching-workflows]] — How AI Is Changing Teaching Workflows
+- [[ai-changing-teaching-workflows]] — Wie KI Unterrichtsabläufe verändert
 - [[robot-assisted-language-learning-meta-analysis-2026]] — Metaanalyse des KI-verstärkten verkörperungsbasierten robotergestützten Sprachenlernens
 - [[genai-educational-outcomes-meta-analysis]]
 - [[young-people-learning-generative-ai-rapid-review-2026]] — Unterscheidung unmittelbarer Leistung und dauerhaften Lernens
 - [[stromberg-generative-ai-learning-penalty-secondary-2026]] — Die Lernstrafe durch generative KI: Auslagern von Hausaufgaben schadet Lernen
-- [[ai-assisted-collaborative-learning-model-dbr]] — AI-Assisted Collaborative Learning model DBR (kritisches Denken +24,1 %, Problemlösegewinne)
+- [[ai-assisted-collaborative-learning-model-dbr]] — KI-gestütztes kollaboratives Lernmodell DBR (kritisches Denken +24,1 %, Problemlösegewinne)
 - [[stanford-evidence-base-ai-k12-2026]] — Tutoringsspezifische versus allgemeine KI
 - [[jost-llm-programming-education-learning-outcomes]] — LLM-Vertrauen und Noten im Programmieren (negative Korrelationen)
 - [[genai-can-harm-teaching-rct-2026]] — Generative KI kann Lehren schaden (RCT)
@@ -167,16 +170,16 @@ Lerngewinne verbinden sich mit [[assessment-validity]] — wenn [[assessment|Ass
 - [[scaffolding-srl-feedback-genai-human-peers]] — Gewinne durch begleitetes selbstreguliertes Feedback
 - [[learner-ai-interaction-patterns-oop]] — Interaktionsmuster und Lerngewinne in OOP
 - [[ai-feedback-critical-thinking-writing-2026]] — KI-Feedback und kritisches Denken im Schreiben
-- [[pedagogy-ai-mistakes]] — The Pedagogy of AI Mistakes: Fostering Higher-Order Thinking (Hosseini 2026)
-- [[computational-thinking-aica-2026]] — Computational Thinking Levels and AI Coding Assistants (2026)
+- [[pedagogy-ai-mistakes]] — Die Pädagogik der KI-Fehler: höheres Denken fördern (Hosseini 2026)
+- [[computational-thinking-aica-2026]] — Stufen computationalen Denkens und KI-Programmierassistenten (2026)
 - [[burneo-can-edtech-close-learning-gaps-2026]] — Metaanalyse: adaptive/KI-EdTech erhöht Lernen um ~0,125 sd
 - [[gpt4-feedback-student-activation-2026]]
 - [[rachatasumrit-example-problem-ratio-2026]]
 - [[oppenheimer-llms-collaborative-learning-partners-2026]]
-- [[weidlich-chatgpt-effect-search-cause-2025]] — ChatGPT in Education: An Effect in Search of a Cause (Medienvergleichs-Kritik an Gewinnmaßen)
+- [[weidlich-chatgpt-effect-search-cause-2025]] — ChatGPT in der Bildung: Ein Effekt auf der Suche nach einer Ursache (Medienvergleichs-Kritik an Gewinnmaßen)
 - [[bartos-ai-learning-meta-meta-analysis-2026]] — Meta-Metaanalyse: bias-adjustierte KI-Lerngewinn-Effekte ~1/3 der berichteten Größe
 - [[oneill-presumed-effective-meta-analysis-2026]] — Presumed Effective: Audit fehlerhafter KIED-Metaanalysen
 - [[ai-supported-instruction-stem-meta-analysis-2026]] — Eine STEM-Synthese, die abhängige Effektstärken kontrollierte und Publikationsbias testete, aber keine Qualitätsbeurteilung anwandte (Doğan et al. 2026)
 - [[ai-education-effects-second-order-meta-analysis-2026]] — Metaanalyse zweiter Ordnung von 45 KI-Bildung-Metaanalysen, mit überlappungskorrigierten Effekten und einer Qualitätsbeurteilung der Syntheseschicht (Emslander et al. 2026)
 - [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: KI- und menschliches Tutoring ergeben gleichwertige GRE-Lerngewinne
-- [[epistemological-audit-genai-meta-analyses-2026]] — A Critical Epistemological Audit of Early Evidence Syntheses in Generative AI Educational Research (Fütterer et al. 2026)
+- [[rodrigues-aied-unplugged-numeracy-2026]] — Bei über die Lehrkraft vermittelter KI erzeugte die Vorbereitung Gewinne, nicht das Werkzeug

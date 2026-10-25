@@ -1,14 +1,15 @@
 ---
 title: "Was sind Best Practices und Tipps für das Design wirksamer Bildungs-KI-Software?"
 created: "2026-08-25T09:20:00-04:00"
-updated: "2026-10-10T09:50:26-04:00"
+updated: "2026-10-24T19:40:06-04:00"
 connected_faqs: [developing-ai-tutor, designing-ai-into-learning, making-ai-better-at-supporting-learning]
 weight: 64
+audience: [educational technology developers, software developers, instructional designers]
 foundations: [learning-design]
 ethics: [accessibility, equity-in-ai-education, pedagogical-safety]
 technology: [edtech-platform]
 translation_of: faqs/designing-educational-ai-software
-source_updated: "2026-10-02T08:21:34-04:00"
+source_updated: "2026-10-21T14:32:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -19,8 +20,6 @@ ai_assist:
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
-
-# Was sind Best Practices und Tipps für das Design wirksamer Bildungs-KI-Software?
 
 **Bildungs-KI sollte als Instruktionssystem designed werden, nicht bloß als Allzweckmodell mit einer Bildungsoberfläche.** Die jüngste Designforschung in der Wissensbasis schärft diese Behauptung zu etwas Spezifischerem: die stärksten Systeme sind als **begrenzte Experten unter menschlicher Aufsicht** gebaut, mitgestaltet von den Lehrkräften und Lernenden, die sie nutzen werden, und begründet in verifizierbarem Inhalt statt in Modellspeicher. Eine praktische Menge von Designregeln:
 
@@ -62,7 +61,7 @@ Zwei weitere Studien erweitern das. [[ko-hughes-vsd-student-centered-its-2026|Ko
 
 ## Begründen und verifizieren, vertrauen Sie nicht dem Modell
 
-Grounding ist eine Architekturentscheidung, kein Prompt. [[eduguard-safe-rag-llm-tutor|EduGuard]], ein sicherer [[rag|retrieval-gestützter]] Tutor für [[cs-education|Einführungsprogrammierung]], paart von der Lehrkraft genehmigten Retrieval des Kurses mit einem architektonisch separaten Behauptungsprüfer, expliziter Kontrolle von [[cognitive-offloading|Überabhängigkeit]] und einem 618-Anfragen-Benchmark von Lehrenden verfasst, der Fehlvorstellungen, Debugging, code-gemischte Anfragen und adversarielle Direktantwort-Prompts umfasst – und verbessert GPT-4o-mini- und Llama-[[socratic-method|sokratische]]-Tutor-Baselines. Für Designer ist das die konkrete Form von „begründen Sie Antworten in von der Lehrkraft genehmigtem Inhalt": trennen Sie die Komponenten, die verifizieren, von den Komponenten, die konversieren, und testen Sie gegen Fälle, die aktiv versuchen, Antworten zu extrahieren. Siehe [[hallucination-risk|Halluzinationsrisiko]].
+Grounding ist eine Architekturentscheidung, kein Prompt. [[eduguard-safe-rag-llm-tutor|EduGuard]], ein sicherer [[rag|retrieval-gestützter]] Tutor für [[cs-education|Einführungsprogrammierung]], paart von der Lehrkraft genehmigten Retrieval des Kurses mit einem architektonisch separaten Behauptungsprüfer, expliziter Kontrolle von [[cognitive-offloading|Überabhängigkeit]] und einem 600-Anfragen-Benchmark von Lehrenden verfasst, der Fehlvorstellungen, Debugging, code-gemischte Anfragen und adversarielle Direktantwort-Prompts umfasst – und verbessert GPT-4o-mini- und Llama-[[socratic-method|sokratische]]-Tutor-Baselines. Für Designer ist das die konkrete Form von „begründen Sie Antworten in von der Lehrkraft genehmigtem Inhalt": trennen Sie die Komponenten, die verifizieren, von den Komponenten, die konversieren, und testen Sie gegen Fälle, die aktiv versuchen, Antworten zu extrahieren. Siehe [[hallucination-risk|Halluzinationsrisiko]].
 
 Wie sich diese Designprinzipien in einen gebauten Tutor übersetzen – Diagnose, Hinweisleitern, Feedback und Evaluation –, siehe [[developing-ai-tutor]]; für die pädagogischen Standards, die entscheiden, ob ein gut gebautes Werkzeug gut genutzt wird, siehe [[designing-ai-into-learning]].
 

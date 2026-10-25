@@ -1,7 +1,7 @@
 ---
 title: LLM-Training und Feinabstimmung
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-10-10T09:04:23-04:00"
+updated: "2026-10-24T22:39:12-04:00"
 type: concept
 connected_faqs: [making-ai-better-at-supporting-learning, training-ai-tutors-to-guide-rather-than-answer, checking-whether-educational-ai-works]
 foundations: [ai-education]
@@ -13,7 +13,7 @@ confidence: high
 methods: [benchmark]
 ethics: [pedagogical-safety]
 translation_of: concepts/llm-training-and-fine-tuning
-source_updated: "2026-10-02T08:08:45-04:00"
+source_updated: "2026-10-16T08:47:09-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -74,6 +74,7 @@ Wenn ein allgemeines Modell nicht dazu gebracht werden kann, eine Eigenschaft zu
 Das Muster wiederholt sich über sehr unterschiedliche Aufgaben hinweg:
 
 - **Curriculum-Verankerung.** Ein multilingualer Instruktionsdatensatz mit 24,795 Beispielen, geerdet in Indian Knowledge Systems, erzeugte eine 7B-Feinabstimmung mit **6,39** auf einem externen Panel von fünf Juroren (Median über 1,201 stratifizierte Items). Das ist innerhalb **0,15** eines starken allgemeinen Referenzmodells bei einem Bruchteil der Einsatz-Kosten — während dasselbe Basismodell ohne die Feinabstimmung **nahe null bei IKS-spezifischen Dimensionen** erzielte ([[iks-instruct-dataset-indian-knowledge]]). Jene Lücke zwischen „allgemein kompetent“ und „hier kompetent“ ist der ganze Fall für Domänenanpassung. Vermerken Sie auch das kontraintuitive Detail, das die Autoren berichten: Qualität stieg **nicht** monoton mit Datenkuratierung.
+- **[[curriculum-design|Curriculum]]-strukturierte Daten sind stichproben-effizient.** Bei einem auf denselben Umfang angeglichenen Budget von rund 2.300 Stichproben schlug die Feinabstimmung auf Frage-Antwort-Paare, die aus einem [[knowledge-graph|Wissensgraph]] der K-12-Schulbücher des People's Education Press abgeleitet waren, gleich große Ausschnitte von acht gängigen Instruktionskorpora, und die Gewinne traten über die trainierten Fächer hinaus auf — ein Beleg dafür, dass die Curriculum-Struktur das ist, was Bildungs-Trainingsdaten auszeichnet ([[liang-k12-kgraph-curriculum-knowledge-graph-2026|Liang et al. (2026)]]).
 - **Assessment-Zuverlässigkeit, günstig.** Ein einzelner LoRA-Adapter, trainiert auf etwa **3.900** gepoolten benoteten Beispielen, brachte fünf kleine offene Modelle (4B–30B) auf Parität oder besser mit einem menschlichen Bewertenden über zwei Informatik-Klausuren hinweg, und löschte Persona-Empfindlichkeit fast aus (Drift ≤ 0,32 MAE) ([[llm-graders-computer-science-exams-2026]]). Ein Adapter, ein Datensatz, mehrere Basismodelle — das ist die Gestalt eines praktischen Einsatzes.
 - **Selektive Automatisierung.** Konfidenz war ein verlässlicher Prädiktor für Bewertungsfehler (β = −0,602, p < .001). Die 20 % am wenigsten konfidenten Antworten an menschliche Prüfung zu routen, bewegte ein feinabgestimmtes GPT-3.5-Modell von r = 0,781 auf **r = 0,822** (RMSE 0,5990 → 0,5544), während es manuelle Bewertungsarbeit um etwa **80 %** senkte ([[know-when-to-trust-ai-scoring-reliability-2026]]). Feinabstimmung ersetzt hier den Menschen nicht; sie macht die Aufmerksamkeit des Menschen bezahlbar.
 - **Konstrukte messen, die Sie sonst von Hand bewerten würden.** Feinabgestimmte ungarische Transformer (hubert-base-cc, PULI-BERT-Large) wurden gegen TF-IDF-Merkmale und Qwen3-Einbettungen für die Bewertung reflektierenden Schreibens in der [[teacher-education|Lehrkräftebildung]] gebenchmarkt ([[reflection-level-classification-hungarian-essays-2026]]), und ein feinabgestimmtes multimodales Modell (auf Qwen3.5 basierend) wurde gezeigt, Item-Charakteristik-Kurven für Multiple-Choice-Items zu rekonstruieren, wobei es die in 3PL- und MCM-Kurven kodierten Antwortmuster lernt statt sie gesagt zu bekommen ([[multimodal-item-parameter-estimation-2026]]).
@@ -191,32 +192,33 @@ Diese Seite ist der *wie ein Modell gemacht wird*-Begleiter zu [[llm]], das beha
 - [[wang-socratic-guides-heuristic-reinforcement-learning-2026]] — heuristisches RL, um Modelle als sokratische Anleiter auszurichten
 - [[special-r1-rl-special-education]] — bestärkendes Lernen für Sonderpädagogik-Ausrichtung
 - [[chung-personalized-ai-tutors-llm-reinforcement-learning-2026]] — LLM-geleitetes bestärkendes Lernen für Personalisierung
-- [[lee-pedagogy-r1-pedagogical-large-reasoning-model-2025]] — a pedagogical large reasoning model
+- [[lee-pedagogy-r1-pedagogical-large-reasoning-model-2025]] — ein pädagogisches großes Schlussfolgerungsmodell
 - [[omniedu-open-educational-foundation-models-2026]] — ein Zielverhalten pro Beispiel, über Modellskalen hinweg
 - [[garrod-edu-qurating-educational-data-curation-2026]] — Bildungsdaten für Training kuratieren
 - [[lora-finetuned-control-systems-course-qa-2026]] — LoRA-Rang-Effekte und Gewinn pro Adapter-Parameter
 - [[aiawe-automated-writing-evaluation]] — LoRA-angepasstes AWE, wo Skala Erfolg nicht vorhersagte
 - [[llm-graders-computer-science-exams-2026]] — ein Adapter auf ~3,900 Beispielen erreicht Parität mit menschlichen Bewertenden
 - [[iks-instruct-dataset-indian-knowledge]] — ein Instruktionsdatensatz mit 24,795 Beispielen und die Basis-Baseline nahe null
-- [[llm-children-reading-story-generation]] — controllability over scale for reading-level control
-- [[bert-discourse-english-teaching-2026]] — which layers to fine-tune, and why four beat twelve
+- [[llm-children-reading-story-generation]] — Kontrollierbarkeit über Stufe für die Steuerung der Lesestufe
+- [[bert-discourse-english-teaching-2026]] — welche Schichten feinzuabstimmen sind, und warum vier zwölf schlug
 - [[nuclear-diffusion-text-to-image-learning-2026]] — Architektur, nicht Parameterzahl, entscheidet, ob Feinabstimmung wirkt
 - [[distilling-self-explaining-lm-learning-analytics-2026]] — Destillation in ein 2B-Modell mit einem Treue-Audit
 - [[llm-unlearning-math-privacy]] — gradientenbasiertes Unlearning von PII und schädlichen Inhalten
 - [[reflection-level-classification-hungarian-essays-2026]] — feinabgestimmte Transformer versus klassische und Einbettungs-Baselines
-- [[multimodal-item-parameter-estimation-2026]] — learning IRT curves from multimodal items
+- [[multimodal-item-parameter-estimation-2026]] — IRT-Kurven aus multimodalen Items lernen
 - [[know-when-to-trust-ai-scoring-reliability-2026]] — Konfidenz-Routing als die Human-in-the-Loop-Policy
 - [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — Abruf als die erstordentliche Entscheidung, mit berichteter Energie und VRAM
 - [[customizing-ai-writing-pedagogy-systematic-review-2026]] — 23 Studien: Prompting 13, Feinabstimmung 7, hybrid 3
-- [[gpt-item-generation-l2-listening-2026]] — prompting plateaus, then fine-tuning adds the rest
+- [[gpt-item-generation-l2-listening-2026]] — Prompting erreicht ein Plateau, dann fügt Feinabstimmung den Rest hinzu
 - [[wraft-automated-writing-evaluation-argumentative-2026]] — Feinabstimmung gewann bei Bewertung und scheiterte bei Feedback
-- [[educational-llm-alignment]] — the ~15% ceiling on model and prompt choice
-- [[yasar-llms-iterative-pedagogical-design-2026]] — rubric-guided prompting as the no-training alternative
-- [[zhuang-zhang-chatgpt-math-teacher-education-2026]] — prompt-level persona control for misconception simulation
+- [[educational-llm-alignment]] — die ~15-%-Obergrenze für Modell- und Promptwahl
+- [[yasar-llms-iterative-pedagogical-design-2026]] — rubrikgeleitetes Prompting als die Alternative ohne Training
+- [[zhuang-zhang-chatgpt-math-teacher-education-2026]] — Persona-Steuerung auf Prompt-Ebene für die Fehlvorstellungs-Simulation
 - [[eduframetrap-llm-sycophancy-educational-safety]] — Sykophantie als explizite Trainingsanforderung
-- [[contextual-sycophancy-ai-literacy]] — sycophancy surviving prompting and alignment
+- [[contextual-sycophancy-ai-literacy]] — Sykophantie, die Prompting und Ausrichtung übersteht
 - [[hazra-safetutors-pedagogical-safety-2026]] — Sicherheit, die über anhaltenden Dialog hinweg degradiert
 - [[reddig-maclellan-personalized-feedback-llm-2026]] — ~35 % unbenutzbare Hinweise von einem ungetrainierten Frontier-Modell
 - [[simulated-students-tutoring-dialogues-2026]] — ob simulierte Studierende sich wie Studierende verhalten
-- [[inside-llm-student-simulator-reasoning-2026]] — fine-tuning a model to act and think like a student
-- [[history-aware-student-simulation]] — simulation conditioned on a learner's trajectory
+- [[inside-llm-student-simulator-reasoning-2026]] — ein Modell feinabstimmen, um wie eine Studierende zu handeln und zu denken
+- [[history-aware-student-simulation]] — Simulation, konditioniert auf die Trajektorie einer Lernenden
+- [[liang-k12-kgraph-curriculum-knowledge-graph-2026]] — Curriculum-strukturierte Daten sind stichproben-effizient

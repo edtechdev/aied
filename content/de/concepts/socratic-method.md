@@ -1,17 +1,18 @@
 ---
 title: Sokratische Methode
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-10T09:04:25-04:00"
+updated: "2026-10-24T20:49:56-04:00"
 type: concept
 foundations: [ai-education, critical-thinking]
 pedagogy: [metacognition, scaffolding]
 technology: [generative-ai, intelligent-tutoring, llm, rag]
 assessment: [formative-assessment]
 audience: [learners]
+connected_resources: [matt-pocock-skills]
 level: [higher ed]
 confidence: high
 translation_of: concepts/socratic-method
-source_updated: "2026-10-15T08:25:00-04:00"
+source_updated: "2026-10-19T09:40:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -48,7 +49,7 @@ Anders als Tutorensysteme mit direkter Instruktion, die Antworten geben, nutzen 
 - **[[misconceptions|Missverständnisse]] sichtbar machen** — durch sorgfältig gewählte Gegenbeispiele
 - **Zur Einsicht hinführen** — ohne die Antwort zu verraten
 
-Der sokratische Ansatz verkörpert unmittelbar das Prinzip aus [[llm-training-and-fine-tuning|EduQwen]]: **„Lenken" über „Antworten" belohnen.** Allerdings ist die sokratische Kalibrierung in Echtzeit schwieriger als Pädagogik auf dem Papier: EduQwen optimiert auf korrektes Lenken bei einem Multiple-Choice-[[benchmark|Benchmark]], während ein lebendiger sokratischer Tutor auf Basis der Echtzeitsignale der Lernenden entscheiden muss, *wann* er lenkt, *wann* er einen Hinweis gibt und *wann* er antwortet. Der [[affective-tutoring|affektive Zustand]] ist ein entscheidender Moderator: Eine frustrierte lernende Person braucht möglicherweise eine kurze direkte Antwort, bevor sie in den sokratischen Modus zurückkehrt.
+Der sokratische Ansatz verkörpert unmittelbar das Prinzip aus [[llm-training-and-fine-tuning|EduQwen]]: **„Lenken" über „Antworten" belohnen.** Allerdings ist die sokratische Kalibrierung in Echtzeit schwieriger als Pädagogik auf dem Papier: EduQwen optimiert auf korrektes Lenken bei einem Multiple-Choice-[[benchmark|Benchmark]], während ein lebendiger sokratischer Tutor auf Basis der Echtzeitsignale der Lernenden entscheiden muss, *wann* er lenkt, *wann* er einen Hinweis gibt und *wann* er antwortet. Der [[affective-tutoring|affektive Zustand]] ist ein entscheidender Moderator: Eine frustrierte lernende Person braucht möglicherweise eine kurze direkte Antwort, bevor sie in den sokratischen Modus zurückkehrt. Eine strengere Variante entfernt das Lehren ganz: Ein Agent für die Einführung in die Physik, der nur sondiert, fordert Lernende auf, eine korrekte Vorhersage gegen eine veränderte Variable zu verteidigen (Cave Detection), und hält die Nachricht nach einer richtigen Antwort ununterscheidbar von der nach einer falschen ([[socratic-probing-agent-physics-cave-detection-2026|Cho (2026)]]).
 
 ## Belege für die Wirksamkeit
 
@@ -143,7 +144,7 @@ Die sokratische Methode ist eng mit [[scaffolding|Scaffolding]] (gerade so viel 
 
 - [[agent-type-feedback-style-self-directed-learning-2026]] — Sokratische gegenüber direktiven Feedbackstilen in einer 2 x 2-Postgraduiertenstudie im Design
 
-- [[ai-standardized-patient-scaffolding-medical-2026]] — Evaluating Scaffolding-Oriented Multi-Agent Large Language Model System for Clinical Interview Training
+- [[ai-standardized-patient-scaffolding-medical-2026]] — Evaluierung eines scaffolding-orientierten Multi-Agenten-Systems mit Large Language Models für das Training klinischer Gesprächsführung
 - [[hashmi-socratic-physics-chatbot-2025]]
 - [[ai-agents-constructive-conflict-design-education-2026]]
 - [[syal-multimodal-dialogue-stem-2026]]
@@ -153,13 +154,14 @@ Die sokratische Methode ist eng mit [[scaffolding|Scaffolding]] (gerade so viel 
 - [[prober-ai-inquiry-writing]]
 - [[generative-ai-guardrails-harm-learning]]
 - [[stanford-evidence-base-ai-k12-2026]] — Strukturierte sokratische Hinweise gegenüber offenem allgemeinem Frage-Antwort-Betrieb
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pedagogical Steering of LLMs for Productive Failure
-- [[wang-safety-gap-productive-struggle-2026]] — The Safety Gap: Restoring Productive Struggle
-- [[rhaimi-productivemath-2025]] — ProductiveMath: AI to Support PF Problem Design
-- [[lukesova-clue-before-correction-2026]] — Clue Before Correction: ChatGPT for Autonomous Language Learning
-- [[socratic-nuclear-ai-learning]] — Socrates went Nuclear: Comparing Interaction Strategies for AI in Learning
+- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pädagogisches Lenken von LLMs für Productive Failure
+- [[wang-safety-gap-productive-struggle-2026]] — Die Sicherheitslücke: produktives Ringen wiederherstellen
+- [[rhaimi-productivemath-2025]] — ProductiveMath: KI zur Unterstützung des Entwurfs von PF-Problemen
+- [[lukesova-clue-before-correction-2026]] — Hinweis vor Korrektur: ChatGPT für autonomes Sprachenlernen
+- [[socratic-nuclear-ai-learning]] — Socrates went Nuclear: Vergleich von Interaktionsstrategien für KI im Lernen
 - [[lftutor-logical-fallacy-education-2026]] — Sokratisches Fragen plus kritische Argumentation in einem vierstufigen Rahmenwerk zum Unterrichten von Fehlschlüssen
 
-- [[guardrails-ai-teaching-assistants-programming-2026]] — Guardrails or Roadblocks? Effects of Pedagogical Style and Context Awareness in AI Teaching Assistants for Programming
-- [[genai-socratic-tutor-biology-argumentation-2026]] — Enhancing PISA-aligned argumentation skills of prospective biology teachers through generative artificial intelligence
-- [[etq-ai-conversational-teacher-training-2026]] — Conversational AI diagnostic for teaching misconceptions with evidence-grounded dialogue (Miranda & Calvani 2026)
+- [[guardrails-ai-teaching-assistants-programming-2026]] — Schutzgitter oder Hindernisse? Auswirkungen von pädagogischem Stil und Kontextbewusstsein in KI-Unterrichtsassistenten für Programmierung
+- [[genai-socratic-tutor-biology-argumentation-2026]] — Stärkung der PISA-konformen Argumentationsfähigkeiten angehender Biologielehrkräfte durch generative künstliche Intelligenz
+- [[etq-ai-conversational-teacher-training-2026]] — Konversationelle KI-Diagnose für Fehlvorstellungen im Unterricht mit evidenzbasiertem Dialog (Miranda & Calvani 2026)
+- [[socratic-probing-agent-physics-cave-detection-2026]] — Entwurf eines KI-Agenten, der nicht tutoriert: Designregeln für sokratisches Sondieren in der Einführung in die Physik

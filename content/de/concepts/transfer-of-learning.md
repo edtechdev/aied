@@ -1,7 +1,7 @@
 ---
 title: Lerntransfer
 created: "2026-05-07T18:02:28-04:00"
-updated: "2026-10-10T09:04:23-04:00"
+updated: "2026-10-24T23:14:18-04:00"
 type: concept
 foundations: [cognitive-offloading]
 pedagogy: [desirable-difficulties, metacognition, scaffolding, transfer-of-learning]
@@ -113,19 +113,19 @@ Lerntransfer verbindet sich mit [[metacognition|Metakognition]] (Selbstüberwach
 - [[learning-theories]]
 - [[productive-failure]] — Produktives Scheitern
 ## Verbundene Artikel
-- [[yan-agentivism-learning-theory-ai-2026]] — A mid-range learning theory for human-AI interaction, with four mechanisms and six testable propositions (Yan and Gašević 2026)
+- [[yan-agentivism-learning-theory-ai-2026]] — Eine mittlere Lerntheorie für die Mensch-KI-Interaktion, mit vier Mechanismen und sechs prüfbaren Propositionen (Yan und Gašević 2026)
 
-- [[layer-sensitive-cognitive-offloading-writing-2026]] — Layer-sensitive cognitive offloading in GenAI-assisted writing (Chen 2026)
+- [[layer-sensitive-cognitive-offloading-writing-2026]] — Schichtempfindliche kognitive Entlastung im GenAI-assistierten Schreiben (Chen 2026)
 - [[stanford-evidence-base-ai-k12-2026]]
 - [[educational-llm-alignment]]
 - [[cognitive-offloading-speedup-illusion]]
 - [[vibe-compiler-metacognition-genai-agency-2026]]
 - [[learnity-graphs-lifelong-learning-framework-2026]]
-- [[young-people-learning-generative-ai-rapid-review-2026]] — Performance-learning distinction and durable transfer
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pedagogical Steering of LLMs for Productive Failure
+- [[young-people-learning-generative-ai-rapid-review-2026]] — Die Unterscheidung von Leistung und Lernen und dauerhafter Transfer
+- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pädagogische Steuerung von LLMs für produktives Scheitern
 - [[rachatasumrit-example-problem-ratio-2026]]
-- [[ai-particle-physics-education-redesign-2026]] — AI in Particle Physics Education: Research Problems and Foundational Skills
-- [[shi-genai-experiential-learning-management-education-2026]] — argues that protected classroom simulations can form decision habits that fail outside them
+- [[ai-particle-physics-education-redesign-2026]] — KI in der Teilchenphysik-Bildung: Forschungsprobleme und grundlegende Fähigkeiten
+- [[shi-genai-experiential-learning-management-education-2026]] — argumentiert, dass geschützte Klassenraum-Simulationen Entscheidungsgewohnheiten bilden können, die außerhalb davon versagen
 
-- [[ai-speaking-practice-communicative-readiness-2026]] — AI-assisted speaking practice raised willingness toward humans but no study observed human speaking
-- [[aifred-desk-robotic-ai-guidance-2026]] — AIfred: Augmented Learning through Functional Robotic Embodiment at the Desk
+- [[ai-speaking-practice-communicative-readiness-2026]] — KI-gestützte Sprechpraxis erhöhte die Bereitschaft gegenüber Menschen, doch keine Studie beobachtete menschliches Sprechen
+- [[aifred-desk-robotic-ai-guidance-2026]] — AIfred: gesteigertes Lernen durch funktionale robotische Verkörperung am Schreibtisch

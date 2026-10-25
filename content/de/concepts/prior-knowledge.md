@@ -1,7 +1,7 @@
 ---
 title: Vorwissen
 created: "2026-08-22T01:20:00-04:00"
-updated: "2026-10-10T09:04:22-04:00"
+updated: "2026-10-24T22:31:15-04:00"
 type: concept
 foundations: [learning-design]
 pedagogy: [constructivist, learning-theories, metacognition, prior-knowledge, scaffolding]
@@ -83,11 +83,11 @@ Generative KI hat Vorwissen zu einer zentralen Designbetrachtung statt zu einer 
 
 ## Verbundene Artikel
 
-- [[agentic-ai-pedagogical-best-practice-2026]] — The tension between automation and learning (prior knowledge activation risk)
-- [[genai-mindtool-generative-learning]] — GenAI as a mindtool: priming and activating prior knowledge
-- [[nie-personavlm-long-term-personalization-2026]] — LLM student modeling and memory
-- [[lodge-loble-cognitive-offloading-2026]] — Lodge & Loble on cognitive offloading
-- [[cognitive-offloading-llm-synthesis-writing]] — Cognitive offloading in LLM synthesis writing
-- [[bridging-instructional-design-framework-math]] — An instructional-design framework for math
-- [[knowledge-building-tutor-learning-2026]] — knowledge-building rather than prior knowledge predicts tutor learning, and low-prior tutors who build knowledge catch up
+- [[agentic-ai-pedagogical-best-practice-2026]] — Die Spannung zwischen Automatisierung und Lernen (Risiko der Vorwissensaktivierung)
+- [[genai-mindtool-generative-learning]] — GenAI als Mindtool: Vorwissen primen und aktivieren
+- [[nie-personavlm-long-term-personalization-2026]] — LLM-basierte Lernendenmodellierung und Gedächtnis
+- [[lodge-loble-cognitive-offloading-2026]] — Lodge & Loble zur kognitiven Auslagerung
+- [[cognitive-offloading-llm-synthesis-writing]] — Kognitive Auslagerung beim Synthese-Schreiben mit LLM
+- [[bridging-instructional-design-framework-math]] — Ein Rahmenwerk des instruktionalen Designs für Mathematik
+- [[knowledge-building-tutor-learning-2026]] — Wissensaufbau sagt Tutorinnen- und Tutorlernen stärker voraus als Vorwissen, und Tutorinnen und Tutoren mit geringem Vorwissen holen auf, wenn sie Wissen aufbauen
 - [[rachatasumrit-example-problem-ratio-2026]]

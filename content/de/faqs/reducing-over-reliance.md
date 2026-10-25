@@ -1,7 +1,7 @@
 ---
 title: "Wie halte ich Studierende davon ab, übermäßig von KI abhängig zu werden?"
 created: "2026-09-16T15:58:20-04:00"
-updated: "2026-10-10T09:50:26-04:00"
+updated: "2026-10-25T00:25:09-04:00"
 connected_faqs: [study-with-ai, verify-ai-output, asynchronous-online-courses-ai, ai-disabled-neurodivergent-learners]
 weight: 80
 type: faq
@@ -13,7 +13,7 @@ research_method: [literature review, experiment]
 audience: [instructors, instructional designers]
 level: [higher ed, secondary, k 12]
 translation_of: faqs/reducing-over-reliance
-source_updated: "2026-10-02T08:21:34-04:00"
+source_updated: "2026-10-21T14:32:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -25,7 +25,6 @@ ai_assist:
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
 
-# Wie halte ich Studierende davon ab, übermäßig von KI abhängig zu werden?
 
 Sie haben Arbeit bewertet, die besser liest, als die Person sie erklären kann. Sie meistern das Take-home-Aufgabenset und bleiben bei der Prüfung stumm. Noten hören auf vorherzusagen, was sie verstehen, und Sie vermuten, das Werkzeug tut das Denken.
 

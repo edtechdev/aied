@@ -1,7 +1,7 @@
 ---
 title: Projektbasiertes Lernen
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-10-10T09:04:25-04:00"
+updated: "2026-10-25T00:25:09-04:00"
 type: concept
 pedagogy: [active-learning, collaborative-learning, project-based-learning]
 technology: [educational-robotics]
@@ -77,16 +77,16 @@ PBL verbindet sich mit [[active-learning|aktivem Lernen]], [[experiential-learni
 
 ## Verbundene Artikel
 
-- [[chen-pbl-pjbl-genai-meta-analysis-2026]] — Problem-based and project-based learning as promising frameworks for generative AI-supported education: Emerging evidence from a systematic review and three-level meta-analysis
+- [[chen-pbl-pjbl-genai-meta-analysis-2026]] — Problembasiertes und projektbasiertes Lernen als vielversprechende Rahmenwerke für generative-KI-gestützte Bildung: neue Evidenz aus einem systematischen Review und einer dreistufigen Metaanalyse
 - [[pbl-structural-conditions-ai-2026]]
 - [[genai-counter-learner-groupthink-2025]]
 - [[bots-blocks-project-based-robotics-education-2026]] — Bots and Blocks
-- [[game-based-gamified-robotics-education-review-2026]] — Game-Based and Gamified Robotics Education
-- [[genai-literacy-training-teacher-education-dbr-2026]] — AI Literacy Training for Teachers
+- [[game-based-gamified-robotics-education-review-2026]] — Spielbasierte und gamifizierte Robotikbildung
+- [[genai-literacy-training-teacher-education-dbr-2026]] — KI-Kompetenz-Training für Lehrkräfte
 - [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly Studio
-- [[white-wu-robotics-ai-education-2026]] — Robotics and AI in Education
-- [[educational-robotics-pathways-2026]] — Pathways to Learning AI-Powered Educational Robotics (2026)
+- [[white-wu-robotics-ai-education-2026]] — Robotik und KI in der Bildung
+- [[educational-robotics-pathways-2026]] — Pfade zum Lernen mit KI-gestützter Bildungsrobotik (2026)
 - [[tsingidou-ct-robotics-kindergarten-2026]] — PBL ist eine dominante CT-Lernstrategie
-- [[creative-project-approach-ai-early-childhood-2025]] — The Creative Project Approach: AI agents and robotics within the Project Approach in early childhood (Yang, Li & Lee 2025)
+- [[creative-project-approach-ai-early-childhood-2025]] — Der Creative Project Approach: KI-Agenten und Robotik innerhalb des Project Approach in der frühen Kindheit (Yang, Li & Lee 2025)
 - [[spec-driven-development-ai-agents-sdpbl-2026]] - SDD mit KI-Agenten in teambasiertem Software-PBL
 - [[ai-ive-pbl-vocational-design-creativity-2026]] — AI-IVE-PBL: ein immersives VR-Designstudio mit eingebettetem Teaching Agent, evaluiert gegenüber traditionellem PBL (Jin et al. 2026)

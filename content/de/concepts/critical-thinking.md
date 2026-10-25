@@ -2,7 +2,7 @@
 connected_resources: [pressing-prompts, student-guide-to-ai]
 title: Kritisches Denken
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-10T09:04:25-04:00"
+updated: "2026-10-24T19:40:06-04:00"
 type: concept
 foundations: [ai-education, ai-literacy, cognitive-offloading]
 pedagogy: [scaffolding, socratic-method]
@@ -11,7 +11,7 @@ connected_faqs: [verify-ai-output]
 level: [higher ed]
 confidence: medium
 translation_of: concepts/critical-thinking
-source_updated: "2026-10-15T08:25:00-04:00"
+source_updated: "2026-10-21T12:05:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -111,33 +111,32 @@ Kritisches Denken überschneidet sich mit [[scaffolding|Scaffolding]] (KI-Unters
 - [[cognitive-surrender]]
 
 ## Verbundene Artikel
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] - A 30-expert consensus: critical thinking carries the report's highest disruption rating (mean 4.00)
-- [[pearls-epistemic-verification-2026]] — PEARLS framework for epistemic agency and verifying AI output (Wang 2026)
-- [[layer-sensitive-cognitive-offloading-writing-2026]] — Layer-sensitive cognitive offloading in GenAI-assisted writing (Chen 2026)
-- [[critical-thinking-paradox-genai-learning-2026]] — The critical-thinking paradox in GenAI-integrated learning
-- [[pedagogy-ai-mistakes]] — The Pedagogy of AI Mistakes: Fostering Higher-Order Thinking (Hosseini 2026)
-- [[shaw-nave-cognitive-surrender-2026]] — Tri-System Theory and cognitive surrender: how AI reshapes human reasoning (Shaw & Nave 2026)
-- [[cognitive-commons-ai-expertise-regeneration]] — The tragedy of the cognitive commons: AI and expertise regeneration
-- [[zhao-genai-higher-order-thinking-meta-2026]] — GenAI and higher-order thinking meta-analysis
-- [[avraamidou-ai-colonization-science-education]] — Disrupting the AI colonization of science education
-- [[li-mroziak-reorienting-critical-ai-literacy]] — Reorienting critical AI literacy
-- [[luo-ibl-patterns-llm-bloom-2026]] — IBL patterns in LLM-driven environments (Bloom's perspective)
-- [[probing-ai-generated-physics-solutions-2026]] — Preparing students to critique AI-generated physics solutions
-- [[student-reception-genai-analogies-computing-2026]] — Flawed but Memorable: Student Critical Reception of Interest-Personalized GenAI Analogies in Computing Education
-- [[daoism-ai-education-philosophy-2026]] — Alternative AI Philosophy: Daoism as Method for AI in Education
-- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Fostering Sustainable Learning via Embodied Intelligence (E3-HOT)
-- [[ai-overreliance-complex-adaptive-system-2026]] — AI overreliance modeled as a complex adaptive system
-- [[lu-ai-multimodal-writing-critical-thinking-2026]] — Dimension-specific critical-thinking gains in AI-supported multimodal writing (Lu et al. 2027)
-- [[lftutor-logical-fallacy-education-2026]] — teaching fallacy recognition through structured multi-turn dialogue
-- [[caeai-ai-companions-learning-over-performance-2026]] — learning over performance: what companions should be optimized and measured for
-- [[davor-ai-supported-learning-higher-order-outcomes-2026]] — AI scaffolding, offloading, and verification literacy via metacognitive self-regulation (Davor et al. 2026)
-- [[shojaei-genai-dependence-critical-thinking-employability-2026]] — GenAI dependence bounds the use to critical-thinking link in business students (Shojaei et al. 2026)
-- [[ren-metacognitive-awareness-genai-reliance-2026]] — Reflection prompt cuts acceptance of incorrect AI advice and attribution bias (Ren 2026)
-- [[kenzhebayeva-ai-role-rotation-pedagogical-model-2026]] — Role rotation as structure for critical human-AI interaction (Kenzhebayeva et al. 2026)
-- [[vega-baudrit-genai-university-chemistry-education-review-2026]] — Verification-centered GenAI integration in university chemistry education (Vega-Baudrit and Rivera Álvarez 2026)
-- [[chen-chatgpt-assisted-teacher-feedback-critical-thinking-2026]] — teacher-curated ChatGPT feedback raised critical thinking via higher-order revision (Chen et al. 2026)
-- [[melanou-genai-learning-dynamics-longitudinal-2026]] — a semester of AI access left critical thinking flat; reflective use predicted it (Melanou et al. 2026)
+- [[genai-support-threaten-learning-k20-expert-consensus-2026]] - Ein Konsens von 30 Expertinnen und Experten: Kritisches Denken trägt die höchste Disruptionsbewertung des Berichts (Mittelwert 4,00)
+- [[pearls-epistemic-verification-2026]] — PEARLS-Rahmenwerk für epistemische Handlungsfähigkeit und die Verifikation von KI-Ausgabe (Wang 2026)
+- [[layer-sensitive-cognitive-offloading-writing-2026]] — Schichtsensitives kognitives Offloading im GenAI-unterstützten Schreiben (Chen 2026)
+- [[critical-thinking-paradox-genai-learning-2026]] — Das Paradox des kritischen Denkens im GenAI-integrierten Lernen
+- [[pedagogy-ai-mistakes]] — Die Pädagogik der KI-Fehler: Förderung von Higher-Order Thinking (Hosseini 2026)
+- [[shaw-nave-cognitive-surrender-2026]] — Tri-System-Theorie und kognitive Kapitulation: Wie KI das menschliche Denken umformt (Shaw & Nave 2026)
+- [[cognitive-commons-ai-expertise-regeneration]] — Die Tragödie des kognitiven Gemeinguts: KI und Regeneration von Expertise
+- [[zhao-genai-higher-order-thinking-meta-2026]] — Metaanalyse zu GenAI und Higher-Order Thinking
+- [[avraamidou-ai-colonization-science-education]] — Die KI-Kolonisierung der naturwissenschaftlichen Bildung unterbrechen
+- [[li-mroziak-reorienting-critical-ai-literacy]] — Kritische KI-Kompetenz neu ausrichten
+- [[luo-ibl-patterns-llm-bloom-2026]] — IBL-Muster in LLM-gesteuerten Umgebungen (Blooms Perspektive)
+- [[probing-ai-generated-physics-solutions-2026]] — Lernende darauf vorbereiten, KI-erzeugte Physik-Lösungen zu kritisieren
+- [[student-reception-genai-analogies-computing-2026]] — Fehlerhaft, aber einprägsam: Die kritische Rezeption durch Studierende von interessenspersonalisierten GenAI-Analogien in der Informatikbildung
+- [[daoism-ai-education-philosophy-2026]] — Alternative KI-Philosophie: Daoismus als Methode für KI in der Bildung
+- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Förderung nachhaltigen Lernens über verkörperte Intelligenz (E3-HOT)
+- [[ai-overreliance-complex-adaptive-system-2026]] — KI-Überabhängigkeit als komplexes adaptives System modelliert
+- [[lu-ai-multimodal-writing-critical-thinking-2026]] — Dimensionsspezifische Zugewinne an kritischem Denken im KI-unterstützten multimodalen Schreiben (Lu et al. 2027)
+- [[lftutor-logical-fallacy-education-2026]] — Erkennen logischer Fehlschlüsse über strukturierten Mehr-Runden-Dialog lehren
+- [[caeai-ai-companions-learning-over-performance-2026]] — Lernen über Leistung: Wofür Begleiter optimiert und gemessen werden sollten
+- [[davor-ai-supported-learning-higher-order-outcomes-2026]] — KI-Scaffolding, Offloading und Verifikationskompetenz über metakognitive Selbstregulation (Davor et al. 2026)
+- [[shojaei-genai-dependence-critical-thinking-employability-2026]] — GenAI-Abhängigkeit begrenzt den Zusammenhang von Nutzung und kritischem Denken bei Betriebswirtschaftsstudierenden (Shojaei et al. 2026)
+- [[ren-metacognitive-awareness-genai-reliance-2026]] — Ein Reflexionsprompt senkt die Akzeptanz falscher KI-Ratschläge und das Attributionsbias (Ren 2026)
+- [[kenzhebayeva-ai-role-rotation-pedagogical-model-2026]] — Rollenrotation als Struktur für kritische Mensch-KI-Interaktion (Kenzhebayeva et al. 2026)
+- [[vega-baudrit-genai-university-chemistry-education-review-2026]] — Verifikationszentrierte GenAI-Integration im Chemie-Studium an der Universität (Vega-Baudrit und Rivera Álvarez 2026)
+- [[chen-chatgpt-assisted-teacher-feedback-critical-thinking-2026]] — Von Lehrkräften kuratiertes ChatGPT-Feedback erhöhte kritisches Denken über Higher-Order-Revision (Chen et al. 2026)
+- [[melanou-genai-learning-dynamics-longitudinal-2026]] — Ein Semester KI-Zugang ließ kritisches Denken unverändert; reflektierende Nutzung sagte es voraus (Melanou et al. 2026)
 
-- [[genai-dependence-research-creativity-2026]] — GenAI dependence positively associated with critical thinking in 1,157 graduate students
-- [[genai-use-critical-thinking-moderation-2026]] — GenAI use to critical thinking via feedback literacy, with a direct path only for less reflective students
-- [[hallstrom-ai-literacy-stem-education-frontiers-2026]] — Synthesis of the ten most-cited studies of AI literacy in STEM education (Hallström et al. 2026)
+- [[genai-dependence-research-creativity-2026]] — GenAI-Abhängigkeit positiv mit kritischem Denken verbunden bei 1.157 Promotionsstudierenden
+- [[genai-use-critical-thinking-moderation-2026]] — GenAI-Nutzung zu kritischem Denken über Feedback-Kompetenz, mit einem direkten Pfad nur für weniger reflexive Studierende

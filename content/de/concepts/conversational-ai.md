@@ -1,13 +1,13 @@
 ---
 title: Konversationelle KI
 created: "2026-08-22T04:44:37-04:00"
-updated: "2026-10-10T09:04:23-04:00"
+updated: "2026-10-24T23:32:01-04:00"
 type: concept
 foundations: [ai-literacy, human-ai-collaboration]
 technology: [conversational-ai, generative-ai, intelligent-tutoring, llm, pedagogical-agent]
 confidence: medium
 translation_of: concepts/conversational-ai
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-18T10:07:01-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -45,6 +45,7 @@ Benchmarks können überschätzen, wie viel Begleitung tatsächlich angenommen w
 **Interaktion und Kollaboration.** Konversationelle Agenten werden zunehmend als Interaktionspartner statt als Antwort-Geber gerahmt. [[student-ai-interaction]] erfasst, wie Lernende mit CAI in der Praxis prompten, fragen und verifizieren. In [[collaborative-learning]] vermitteln Agenten Partizipation und geteilte [[regulation]], und in [[language-learning]] bieten sie konversationelle Echtzeit-Übung. Der [[human-ai-collaboration]]-Faden untersucht, wann diese Partnerschaft die kognitive Arbeit der Lernenden bewahrt statt sie zu ersetzen. LLMs als Kritikpartner illustrieren die bewahrende Seite konkret: [[oppenheimer-llms-collaborative-learning-partners-2026|Oppenheimer, Cash & Connell Pensky (2025)]] ließen ChatGPT, Gemini oder Claude argumentative Aufsätze von Studierenden über ein Semester hinweg kritisieren, und Lernende verbesserten sich in Schreiben, [[prompt-engineering|Prompt-Engineering]] und Reaktion-auf-Feedback, während sie die Austausche nützlich, engagierend und angenehm bewerteten — mit aktiver Widerlegung von Modellbehauptungen (87,8 %), was zeigt, dass sie den konversationellen Partner kritisch statt passiv behandelten.
 
 Konversationelle Agenten werden zum Benotzen verwendet, und ihr Bewertungsverhalten weicht von dem der Menschen ab: ChatGPT war der nachsichtigste von drei Bewertenden derselben 52 Projekte aus dem Grundstudium (M = 91,46 gegenüber 83,13 bei der Lehrenden) und teilte keine Benotungslogik mit Peers (r = 0,05), obwohl Studierende seine dialogische Interaktivität schätzten ([[usher-faraon-who-grades-best-2026|Usher & Faraon (2026)]]).
+**Nutzende lesen die Glaubwürdigkeit des Agenten sozial.** Wahrgenommene Kompetenz von ChatGPT sagte seine Feedback-Glaubwürdigkeit direkt vorher, während wahrgenommene Wärme nur über menschenähnliche Empathie wirkte (SEM, 230 Studierende), für [[chatgpt-feedback-credibility-perceived-learning|Pérez-López et al. (2026)]] — ein konversationeller Agent erlangt Glaubwürdigkeit als sozialer Partner, nicht nur als Antwortquelle.
 
 **Die Studierendenseite des Gesprächs begleiten.** [[helpcoach-ai-help-seeking-scaffolding-2026|Jin et al. (2026)]] fügen einer Chat-Oberfläche einen Frage-Spezifitäts-Monitor und eine Revisionsvorlage hinzu und greifen nur bei vagen Fragen ein: in einer Between-Subjects-Studie mit 40 Hochschulstudierenden, die Web-Programmierung lernten, schrieben HelpCoach-Nutzende signifikant spezifischere erste Fragen (57,3 % gegenüber 40,5 %) und behielten eine Woche später mehr Wissen (mittlerer Gewinn 1,9 gegenüber 0,3 von 6, d = 1,100). Der Behaltensnutzen lief nicht über gezieltere Chatbot-Antworten, die sich nicht nach Bedingung unterschieden — was den Mechanismus zu einer offenen Hypothese statt einem nachgewiesenen Pfad macht.
 
@@ -109,7 +110,7 @@ Ganguly, A., Mehjabin, N., Malik, A., & Johri, A. (2025). [*Conversational AI ag
 - [[parents-and-families]]
 
 ## Verbundene Artikel
-- [[rho-disengaged-conversational-behaviors-2026]] — Disengaged conversational behaviors and learning in student-AI dialogues (Rho et al. 2026)
+- [[rho-disengaged-conversational-behaviors-2026]] — Desengagiertes konversationelles Verhalten und Lernen in Dialogen zwischen Studierenden und KI (Rho et al. 2026)
 
 - [[mata-sustaining-ai-enabled-student-support-2026]] — Aufrechterhaltung KI-ermöglicher Studierendenunterstützung: vierjährige Implementierungs- und Wirkungsstudie eines institutionellen Chatbots (Mata, Russell & Page 2026)
 - [[usher-faraon-who-grades-best-2026]] — Vergleich von ChatGPT-, Peer- und Lehrenden-Benotung über Projektqualitätsstufen hinweg (Usher & Faraon 2026)
@@ -129,7 +130,7 @@ Ganguly, A., Mehjabin, N., Malik, A., & Johri, A. (2025). [*Conversational AI ag
 - [[xu-genai-collaborative-space-2026]] — GenAI als Agent und kollaborativer Raum in Kleingruppendynamiken (Xu et al. 2026)
 - [[oppenheimer-llms-collaborative-learning-partners-2026]]
 - [[vahedian-children-attitudes-ai-chatbot-2026]]
-- [[culturally-aware-student-stress-chatbot-2026]] — An AI-Powered Culturally Aware Chatbot for Stress Detection and Wellness Support among Pakistani University Students Using NLP and Machine Learning
+- [[culturally-aware-student-stress-chatbot-2026]] — Ein KI-gestützter kulturell sensibler Chatbot zur Stresserkennung und Wohlbefindensunterstützung bei pakistanischen Universitätsstudierenden mit NLP und maschinellem Lernen
 - [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: KI- und menschliches Tutoring ergeben gleichwertige GRE-Lerngewinne
-- [[helpcoach-ai-help-seeking-scaffolding-2026]] — HelpCoach: Scaffolding Targeted AI Help-Seeking During Problem-Solving
+- [[helpcoach-ai-help-seeking-scaffolding-2026]] — HelpCoach: Scaffolding zielgerichteten KI-Hilfersuchens während der Problemlösung
 

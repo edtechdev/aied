@@ -1,7 +1,7 @@
 ---
 title: Spielbasiertes Lernen
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-10-10T09:04:24-04:00"
+updated: "2026-10-25T00:25:09-04:00"
 type: concept
 pedagogy: [active-learning, game-based-learning, motivation, student-engagement]
 technology: [educational-robotics]
@@ -62,17 +62,17 @@ GBL und Gamifizierung verbinden sich zusammen mit [[educational-robotics]], [[st
 - [[project-based-learning]]
 - [[computational-thinking]]
 - [[cs-education]]
-- [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
-- [[virtual-and-augmented-reality]] — immersive and gamified practice overlap in design and evidence
+- [[pedagogy]] — Überbegriff: Pädagogien und Unterrichtsstrategien in der KI-Bildung
+- [[virtual-and-augmented-reality]] — Immersives und gamifiziertes Üben überschneiden sich in Design und Evidenz
 
 ## Verbundene Artikel
-- [[ai-game-based-learning-systematic-review-2026]] — Systematic review of 55 AI-supported game-based learning studies: positive outcomes, a thin evidence base
+- [[ai-game-based-learning-systematic-review-2026]] — Systematischer Review von 55 Studien zu KI-unterstütztem spielbasiertem Lernen: positive Ergebnisse, eine dünne Evidenzbasis
 
-- [[game-based-gamified-robotics-education-review-2026]] — Game-Based and Gamified Robotics Education
+- [[game-based-gamified-robotics-education-review-2026]] — Spielbasierte und gamifizierte Robotikbildung
 - [[remind-robot-mediated-roleplay-antibullying-2026]] — REMind
 - [[motibo-digital-storytelling-robots-motivation-2026]] — MotiBo
 - [[bots-blocks-project-based-robotics-education-2026]] — Bots and Blocks
-- [[white-wu-robotics-ai-education-2026]] — Robotics and AI in Education
-- [[genai-motivation-engagement-2026]] — Generative AI, Motivation, and Engagement
-- [[nasa-tlx-workload-gamified-ai-2026]] — NASA-TLX workload across gamified/AI conditions
-- [[arcs-motivational-ergonomics-gamified-ai-2026]] — ARCS motivation and AI-supported gamification
+- [[white-wu-robotics-ai-education-2026]] — Robotik und KI in der Bildung
+- [[genai-motivation-engagement-2026]] — Generative KI, Motivation und Engagement
+- [[nasa-tlx-workload-gamified-ai-2026]] — NASA-TLX-Arbeitslast über gamifizierte/KI-Bedingungen hinweg
+- [[arcs-motivational-ergonomics-gamified-ai-2026]] — ARCS-Motivation und KI-unterstützte Gamifizierung

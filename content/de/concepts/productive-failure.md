@@ -1,7 +1,7 @@
 ---
 title: Produktives Scheitern
 created: "2026-08-23T08:25:00-04:00"
-updated: "2026-10-10T09:04:24-04:00"
+updated: "2026-10-24T21:19:23-04:00"
 type: concept
 foundations: [cognitive-offloading]
 pedagogy: [desirable-difficulties, inquiry-based-learning, learning-theories, metacognition, problem-based-learning, scaffolding]
@@ -9,7 +9,7 @@ technology: [generative-ai, learning-analytics]
 assessment: [feedback, learning-gains]
 confidence: high
 translation_of: concepts/productive-failure
-source_updated: "2026-09-30T16:25:27-04:00"
+source_updated: "2026-10-17T07:38:51-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -66,6 +66,8 @@ Ein Hauptthema in der [[research-methods-aied|Forschung]] der Wissensbasis ist d
 - **Das Risiko: KI löscht das Ringen.** Übermäßig „hilfreiche“, Orakel-artige KI, die direkt Antworten liefert, kann das produktive Ringen beseitigen, das für Schemakonstruktion notwendig ist, und erzeugt, was [[wang-safety-gap-productive-struggle-2026|Wang & Shan (2026)]] die **Sicherheitslücke** nennen — die Divergenz zwischen der KI-assistierten Leistung einer studierenden Person und ihrer internen, ungestützten Fähigkeit. Das verbindet sich mit [[cognitive-offloading|kognitiver Entlastung]]: KI, die Anstrengung ersetzt, erodiert genau die Fähigkeiten, die Bildung aufbaut.
 - **Die Designantwort: KI, die Ringen ummantelt.** [[kim-ai-productive-failure-adult-2026|Kim et al. (2026)]] leiten fünf Designprinzipien für KI ab, die auf produktivem Scheitern beruhendes Lernen unterstützt ([[human-ai-collaboration|Mensch-KI-Zusammenarbeit]], [[usability-research|Usability]], reflexives Design, emotionales Design, offenes Wissen), und betonen, dass KI Ringen bewahren und dabei nicht-direktive Unterstützung bieten sollte. [[puech-pedagogical-steering-llm-productive-failure-2025|Puech et al. (2025)]] zeigen, dass [[llm|LLM]]-Tutoren *gesteuert* werden können, produktiver-Scheitern-Pädagogik zu folgen (Lösungen zurückhalten, mehrere Versuche evozieren), auf Kosten der wahrgenommenen Hilfsbereitschaft. CoMeT (Hou et al. 2026) beziffert diese Kosten und verortet die Mitte: sein eskalierender Tutor war 0.42 Skalenpunkte frustrierender als der Tutor, der auf Anfrage antwortete (p < .001), und 0.29 weniger frustrierend als der, der nur Fragen stellte (p = .011), mit in 8.4% seiner Sitzungen erkannter Belastung gegenüber 16.0% unter dem zurückhaltenden Tutor, und er gab die volle Antwort in 6.1% der Sitzungen auf. Eine Untergrenze, die sich auf eine explizite Aussage des Aufgebens hin öffnet statt auf Frustration, folgt aus demselben Design — ohne eine davon gehen die Lernenden, die sie am meisten brauchen, den Anspruch um.
 
+- **Zurückhalten kostete weder Frustration noch Motivation — nur Präferenz.** Ein dreifacharmiger [[rct|RCT]] fand, dass ein Hinweise zurückhaltender Tutor beim Rückgang von Frustration mit uneingeschränktem ChatGPT gleichzog und der einzige Arm war, der die intrinsische Motivation erhöhte, während Studierende das antwortende Werkzeug als leichter (p = .003) und hilfreicher (p = .004) einstuften ([[bassner-performance-learning-dissociation-ai-programming-2026|Bassner et al. (2026)]]).
+
 - **KI als Werkzeug für PF-Design:** [[rhaimi-productivemath-2025|ProductiveMath]] nutzt [[generative-ai|generative KI]], um Lehrenden zu helfen, qualitätvolle PF-Probleme zu erstellen — und begegelt damit der Herausforderung, dass das Entwerfen produktiver-Scheitern-Aktivitäten anstrengend ist.
 - **KI-erzeugte Fehler als Provokationen:** die [[pedagogy-ai-mistakes|Pädagogik der KI-Fehler]] nutzt absichtlich KI-Fehler und [[hallucination-risk|Halluzinationen]] als [[teacher-role|Unterrichts]]werkzeuge, was mit produktiver-Scheitern-Denkweise übereinstimmt, indem fehlerbehaftete Ausgabe als kognitive Provokation behandelt wird.
 
@@ -115,9 +117,10 @@ Produktives Scheitern verbindet sich mit [[learning-theories|Lerntheorien]] (Kon
 
 ## Verbundene Artikel
 
-- [[kim-ai-productive-failure-adult-2026]] — Designing AI Systems to Support Productive-Failure-Based Learning
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pedagogical Steering of LLMs for Productive Failure
-- [[rhaimi-productivemath-2025]] — ProductiveMath: AI to Support PF Problem Design
-- [[wang-safety-gap-productive-struggle-2026]] — The Safety Gap: Restoring Productive Struggle
-- [[lukesova-clue-before-correction-2026]] — Clue Before Correction: ChatGPT for Autonomous Learning
-- [[pedagogy-ai-mistakes]] — The Pedagogy of AI Mistakes
+- [[kim-ai-productive-failure-adult-2026]] — Gestaltung von KI-Systemen zur Unterstützung auf produktivem Scheitern beruhenden Lernens
+- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pädagogisches Steuern von LLMs für produktives Scheitern
+- [[rhaimi-productivemath-2025]] — ProductiveMath: KI zur Unterstützung des Designs von PF-Problemen
+- [[wang-safety-gap-productive-struggle-2026]] — Die Safety Gap: produktives Ringen zurückgewinnen
+- [[lukesova-clue-before-correction-2026]] — Hinweis vor der Korrektur: ChatGPT für autonomes Lernen
+- [[pedagogy-ai-mistakes]] — Die Pädagogik der KI-Fehler
+- [[bassner-performance-learning-dissociation-ai-programming-2026]] — Zurückhalten von Lösungen vermied die Frustrationskosten, verlor aber bei der Präferenz der Studierenden

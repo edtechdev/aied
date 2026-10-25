@@ -2,7 +2,7 @@
 connected_resources: [drawsplat]
 title: Multimodale KI
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-10T09:04:22-04:00"
+updated: "2026-10-24T21:37:05-04:00"
 type: concept
 foundations: [ai-education, ai-literacy]
 technology: [generative-ai, intelligent-tutoring, llm, multimodal]
@@ -112,33 +112,33 @@ Multimodale Systeme erweitern auch Zugang und [[personalized-learning|Personalis
 - [[privacy]]
 - [[stem-education]]
 - [[inclusive-learning]]
-- [[ai-technologies]] — Umbrella: AI technologies and techniques (models, LLM training, robotics, RAG, agentic)
-- [[virtual-and-augmented-reality]] — gesture, voice and spatial input as learning channels
+- [[ai-technologies]] — Überblicksseite: KI-Technologien und -Techniken (Modelle, LLM-Training, Robotik, RAG, agentische Systeme)
+- [[virtual-and-augmented-reality]] — Gestik, Stimme und räumliche Eingabe als Lernkanäle
 - [[speech-and-voice-technologies]]
 - [[arts-design-and-media-education]]
 ## Verbundene Artikel
-- [[burriss-multimodal-composition-critical-ai-literacy-2026]] — Video PSA composition on AI ethics as critical AI literacy pedagogy (Burriss et al. 2026)
-- [[student-attention-estimation-fairness-2026]] — Fairness-Aware Multimodal Transformer Modeling for Real-Time Student Attention Estimation
+- [[burriss-multimodal-composition-critical-ai-literacy-2026]] — Video-PSA-Komposition zu KI-Ethik als Pädagogik kritischer KI-Kompetenz (Burriss et al. 2026)
+- [[student-attention-estimation-fairness-2026]] — Gerechtigkeitsbewusste multimodale Transformer-Modellierung zur Echtzeit-Schätzung der Aufmerksamkeit Studierender
 - [[omniphys-multimodal-physics-benchmark-2026]]
-- [[drawedumath-vlm-struggling-students-2026]] — VLM performance on handwritten student math work (DrawEduMath, Lucy et al. 2026)
-- [[multimodal-learning-genai]] — Educator's guide to multimodal learning with generative AI (MMLD-AI model)
-- [[syal-multimodal-dialogue-stem-2026]] — The Multimodal Interference Effect and structured-dialogue recovery in STEM
-- [[multimodal-ai-feedback-learning]] — Multimodal AI feedback matches educators on learning, exceeds on perceptions
-- [[multimodal-prompting-ai-literacy]] — Students' multimodal prompting as epistemic work in AI literacy
-- [[multimodal-item-parameter-estimation-2026]] — Estimating IRT item parameters with multimodal LLMs
-- [[ai-guided-learning-audiovideo-2026]] — AI-guided audio-video learning support
-- [[multimodal-knowledge-graph-educational-reasoning]] — Multimodal knowledge graphs for educational reasoning
-- [[mllm-scientific-visualization-literacy]] — Multimodal LLM literacy for scientific visualization
-- [[multimodal-affective-its-presentation]] — Multimodal signals in affective intelligent tutoring
-- [[kar-mathbuddy-affective-math-tutoring-2025]] — Affective multimodal math tutoring
-- [[llm-cognitive-diagnosis-handwritten-math]] — LLM cognitive diagnosis of handwritten math
-- [[nuclear-diffusion-text-to-image-learning-2026]] — Text-to-image learning in nuclear engineering education
-- [[privacy-aware-classroom-incident-recognition-2026]] — Privacy-aware multimodal classroom sensing
-- [[genai-cybersecurity-ocr-multimodal-instruction-2025]] — Multimodal OCR instruction in cybersecurity education
-- [[cfes-p24-multimodal-slide-auditing-2026]] — CFES-P24: Benchmarking Multimodal LLMs for Slide Auditing
-- [[ai-grading-handwritten-physics-2026]] — AI grading of handwritten physics assessments (Olympiad)
-- [[lu-ai-multimodal-writing-critical-thinking-2026]] — Multimodal AI composing and critical thinking in primary writing (Lu et al. 2027)
+- [[drawedumath-vlm-struggling-students-2026]] — VLM-Leistung an handgeschriebener Mathematik-Arbeit von Studierenden (DrawEduMath, Lucy et al. 2026)
+- [[multimodal-learning-genai]] — Leitfaden für Lehrende zu multimodalem Lernen mit generativer KI (MMLD-AI-Modell)
+- [[syal-multimodal-dialogue-stem-2026]] — Der multimodale Interferenz-Effekt und die Wiederherstellung durch strukturierten Dialog in STEM
+- [[multimodal-ai-feedback-learning]] — Multimodales KI-Feedback erreicht Lehrenden beim Lernen und übertrifft bei Wahrnehmungen
+- [[multimodal-prompting-ai-literacy]] — Multimodales Prompten von Studierenden als epistemische Arbeit in der KI-Kompetenz
+- [[multimodal-item-parameter-estimation-2026]] — Schätzung von IRT-Itemparametern mit multimodalen LLMs
+- [[ai-guided-learning-audiovideo-2026]] — KI-gelenkte Audio-Video-Lernunterstützung
+- [[multimodal-knowledge-graph-educational-reasoning]] — Multimodale Wissensgraphen für bildungsbasiertes Schlussfolgern
+- [[mllm-scientific-visualization-literacy]] — Multimodale LLM-Kompetenz für wissenschaftliche Visualisierung
+- [[multimodal-affective-its-presentation]] — Multimodale Signale in affektivem intelligentem Tutoring
+- [[kar-mathbuddy-affective-math-tutoring-2025]] — Affektives multimodales Mathematik-Tutoring
+- [[llm-cognitive-diagnosis-handwritten-math]] — Kognitive Diagnose händischer Mathematik durch LLMs
+- [[nuclear-diffusion-text-to-image-learning-2026]] — Text-zu-Bild-Lernen in der Kernfachingenieur-Ausbildung
+- [[privacy-aware-classroom-incident-recognition-2026]] — Datenschutzbewusstes multimodales Klassenzimmer-Sensing
+- [[genai-cybersecurity-ocr-multimodal-instruction-2025]] — Multimodale OCR-Instruktion in der Cybersicherheitsausbildung
+- [[cfes-p24-multimodal-slide-auditing-2026]] — CFES-P24: Benchmarking multimodaler LLMs für Folien-Auditing
+- [[ai-grading-handwritten-physics-2026]] — KI-Benotung händischer Physik-Assessments (Olympiade)
+- [[lu-ai-multimodal-writing-critical-thinking-2026]] — Multimodales KI-Komponieren und kritisches Denken im Grundschul Schreiben (Lu et al. 2027)
 - [[cvengros-grading-handwritten-chemistry-ai-2026]]
-- [[geovad-bench-visual-chain-of-thought-geometry-2026]] — Beyond Generation and Accuracy: Diagnosing and Enhancing Visual Chain-of-Thought for Geometry Problem Solving
-- [[muse-vlm-artistic-image-benchmark-2026]] — MUSE: 12 tasks over 1,174 artworks show VLM capability as a dimension-specific profile, weakest in affective interpretation and viewpoint-dependent spatial reasoning (Zhu et al. 2026)
-- [[ai-assisted-physics-lab-report-assessment-2026]] — AI-Assisted Assessment of Experimental Physics Laboratory Reports: Potential, Limitations, and Support for Teaching Practice
+- [[geovad-bench-visual-chain-of-thought-geometry-2026]] — Jenseits von Generierung und Genauigkeit: Diagnose und Verbesserung des visuellen Denkpfads bei Geometrie-Aufgaben
+- [[muse-vlm-artistic-image-benchmark-2026]] — MUSE: 12 Aufgaben über 1.174 Kunstwerke zeigen die VLM-Fähigkeit als dimensionsspezifisches Profil, am schwächsten in affektiver Interpretation und sichtpunktabhängigem räumlichem Schlussfolgern (Zhu et al. 2026)
+- [[ai-assisted-physics-lab-report-assessment-2026]] — KI-gestütztes Assessment experimenteller Physik-Laborberichte: Potenzial, Grenzen und Unterstützung der Unterrichtspraxis

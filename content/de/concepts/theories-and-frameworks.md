@@ -1,7 +1,7 @@
 ---
 title: Theorien und Rahmenwerke
 created: "2026-09-19T05:40:00-04:00"
-updated: "2026-10-10T09:04:27-04:00"
+updated: "2026-10-24T19:40:06-04:00"
 type: concept
 foundations: [ai-education, theory-development-aied, philosophy-of-ai-in-education]
 pedagogy: [learning-theories]
@@ -9,7 +9,7 @@ assessment: [assessment-validity, item-response-theory]
 methods: [research-methods-aied]
 confidence: high
 translation_of: concepts/theories-and-frameworks
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-23T09:49:58-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -48,6 +48,8 @@ Diese erklären Mechanismen: sie benennen die Teile, die die Arbeit tun, und sag
 - **[[community-of-inquiry|Community of Inquiry]]** — die sozialen, kognitiven und lehrenden Präsenzen, die eine Online-Erfahrung funktionieren lassen; eine Theorie der Erfahrung und ein Designrahmen zugleich.
 - **[[self-determination-theory|Selbstbestimmungstheorie]]** — Autonomie, Kompetenz und Verbundenheit als motivationale Vorbedingungen. Oft die angebotene Erklärung, wenn KI-Nutzung Engagement erhöht, ohne Lernen zu erhöhen.
 - **[[cognitive-psychology|Kognitivismus]]** — Informationsverarbeitung, Arbeitsgedächtnis und die Divergenz zwischen dem Gefühl des Lernens und tatsächlichem Lernen.
+- **Sozialwahrnehmungstheorie (Wärme und Kompetenz)** — importiert aus Sozialkognition und Service-Roboter-Forschung, rahmt sie, wie Nutzende die Glaubwürdigkeit eines KI-Agenten beurteilen: wahrgenommene Kompetenz sagte die Feedback-Glaubwürdigkeit von ChatGPT direkt voraus, während Wärme nur über menschenähnliche Empathie wirkte (SEM, 230 Studierende; [[chatgpt-feedback-credibility-perceived-learning|Pérez-López et al. (2026)]]).
+- **Eine vierte Affordanz-Kategorie wurde vorgeschlagen, nicht getestet.** Die Reviewer codierten 24 Studien gegen ein dreiteiliges Affordanzschema, fanden, dass Engagement, Sicherheit und Selbstwirksamkeit nicht in die technologischen, pädagogischen oder sozialen Kategorien passten, und schlugen emotionale Affordanzen vor, die auf Banduras reziprokem Determinismus beruhen ([[genai-chatbots-language-learning-affordances-review-2026|Lopez & Arabadzhy (2026)]]).
 
 ## Modelle der lernenden Person und des Lernprozesses
 
@@ -131,15 +133,16 @@ Mechanismus-zu-Theorie-Ausrichtung kann dennoch entscheidend sein: eine thematis
 
 ## Verbundene Artikel
 
-- [[ai-game-based-learning-systematic-review-2026]] — Mechanism-to-theory alignment, not algorithmic sophistication, drove effectiveness in 55 AI game-based learning studies
+- [[genai-chatbots-language-learning-affordances-review-2026]] — Emotionale Affordanzen als vierte Kategorie in einer Affordanz-Taxonomie vorgeschlagen
+- [[ai-game-based-learning-systematic-review-2026]] — Mechanismus-zu-Theorie-Ausrichtung, nicht algorithmische Ausgefeiltheit, trieb die Wirksamkeit in 55 KI-unterstützten spielbasierten Lernstudien an
 
-- [[rismanchian-ai-education-four-decades-aixed-2026]] — four decades of AIED through the AI×Ed framework
-- [[educating-minds-generative-ai-2026]] — theory-heavy synthesis of generative AI and learning
-- [[activity-theory-teacher-pd-ai-agent-design-2026]] — activity theory applied to teacher professional development
-- [[activity-theory-teachers-adoption-ai-sem-2026]] — activity theory and teacher adoption
-- [[generativism-learning-theory]] — a learning theory proposed for the generative AI era
-- [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — toward a theory of epistemic co-agency
-- [[absent-cognitive-baseline-2026]] — theorizing a structural gap in AI-native students' self-assessment
-- [[yan-agentivism-learning-theory-ai-2026]] — a mid-range learning theory for human-AI interaction
-- [[ai-literacy-instrument-development-systematic-review-2026]] — instrument development across a young construct
-- [[mishra-control-vs-agency-history-2025]] — the field's foundational control-versus-agency tension
+- [[rismanchian-ai-education-four-decades-aixed-2026]] — vier Jahrzehnte AIED durch das AI×Ed-Rahmenwerk
+- [[educating-minds-generative-ai-2026]] — theorielastige Synthese von generativer KI und Lernen
+- [[activity-theory-teacher-pd-ai-agent-design-2026]] — Aktivitätstheorie angewandt auf die professionelle Entwicklung von Lehrkräften
+- [[activity-theory-teachers-adoption-ai-sem-2026]] — Aktivitätstheorie und Lehrkraft-Übernahme
+- [[generativism-learning-theory]] — eine Lerntheorie, die für das Zeitalter generativer KI vorgeschlagen wurde
+- [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — hin zu einer Theorie epistemischer Ko-Handlungsfähigkeit
+- [[absent-cognitive-baseline-2026]] — Theoretisierung einer strukturellen Lücke in der Selbsteinschätzung KI-native Studierender
+- [[yan-agentivism-learning-theory-ai-2026]] — eine Mid-Range-Lerntheorie für Mensch-KI-Interaktion
+- [[ai-literacy-instrument-development-systematic-review-2026]] — Instrumentenentwicklung über ein junges Konstrukt hinweg
+- [[mishra-control-vs-agency-history-2025]] — die grundlegende Spannung zwischen Kontrolle und Handlungsfähigkeit des Felds

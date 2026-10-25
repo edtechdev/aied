@@ -1,7 +1,7 @@
 ---
 title: Usability-Forschung
 created: "2026-08-24T02:15:00-04:00"
-updated: "2026-10-10T09:04:24-04:00"
+updated: "2026-10-24T21:45:00-04:00"
 type: concept
 connected_faqs: [designing-educational-ai-software]
 research_method: [system development, user study, interviews]
@@ -73,12 +73,12 @@ Usability-Forschung teilt Methoden der Datenerhebung mit [[qualitative-research|
 
 ## Verbundene Artikel
 
-- [[icub-humanoid-storytelling-llm-hri-2025]] — A usability study of an LLM-powered storytelling humanoid
-- [[rhaimi-productivemath-2025]] — ProductiveMath: usability of a generative-AI app
-- [[supplynet-visual-exploratory-learning]] — SupplyNet user study
-- [[anvil-ai-educational-animations]] — Usability of AI-generated educational animations
-- [[code-anchor-multi-view-visualization]] — Think-aloud study of multi-view code visualizations
-- [[learn-framework-responsible-genai-pbl-2026]] — LEARN framework and think-aloud evaluation
-- [[feedback-futures-genai]] — How learners process AI-generated feedback
-- [[llm-chatbots-cs-multiple-choice]] — LLM chatbots for CS multiple-choice questions
-- [[conversational-ai-agents-umbrella-review-2026]] — Umbrella review of conversational AI agents
+- [[icub-humanoid-storytelling-llm-hri-2025]] — Eine Usability-Studie zu einem LLM-gestützten erzählenden Humanoiden
+- [[rhaimi-productivemath-2025]] — ProductiveMath: Usability einer generativen KI-App
+- [[supplynet-visual-exploratory-learning]] — SupplyNet-Nutzungsstudie
+- [[anvil-ai-educational-animations]] — Usability KI-erzeugter Bildungsanimationen
+- [[code-anchor-multi-view-visualization]] — Lautes-Denken-Studie zu Multi-View-Code-Visualisierungen
+- [[learn-framework-responsible-genai-pbl-2026]] — LEARN-Rahmenwerk und Lautes-Denken-Evaluation
+- [[feedback-futures-genai]] — Wie Lernende KI-erzeugtes Feedback verarbeiten
+- [[llm-chatbots-cs-multiple-choice]] — LLM-Chatbots für Multiple-Choice-Fragen in der Informatik
+- [[conversational-ai-agents-umbrella-review-2026]] — Überblicksreview zu konversationellen KI-Agenten

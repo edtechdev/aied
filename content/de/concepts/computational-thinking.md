@@ -1,7 +1,7 @@
 ---
 title: Informatisches Denken
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-10T09:04:24-04:00"
+updated: "2026-10-24T21:28:11-04:00"
 type: concept
 foundations: [ai-literacy]
 technology: [adaptive-learning, generative-ai, llm, prompt-engineering]
@@ -111,9 +111,9 @@ Computational Thinking ist das geteilte kognitive Fundament unter [[ai-literacy|
 - [[game-based-gamified-robotics-education-review-2026]]
 - [[solving-vs-evaluating-genai-solutions]]
 - [[zhang-ct-ai-training-test-2026]] — Computational Thinking in AI Training Test (CTAT)
-- [[computational-thinking-aica-2026]] — Computational Thinking Levels and AI Coding Assistants (2026)
-- [[ai-writes-code-student-writes-model-2026]] — Model authorship: theory & measurement for learning-by-construction with GenAI
-- [[code-to-learn-genai-artifact-construction-2026]] — CtL-GenAI: constructionism framework for artifact construction
-- [[astor-computational-thinking-meta-review-2026]] — CT meta-review of 128 systematic reviews
-- [[tsingidou-ct-robotics-kindergarten-2026]] — Systematic review of CT via robotics in kindergarten
-- [[praise-non-programmer-ai-model-implementation-2026]] — PRAISE: A Reproducible Workflow for Non-Programmer Scientists to Implement Published AI Models
+- [[computational-thinking-aica-2026]] — Computational-Thinking-Stufen und KI-Programmierassistenten (2026)
+- [[ai-writes-code-student-writes-model-2026]] — Modellautorschaft: Theorie und Messung für Lernen durch Konstruktion mit GenAI
+- [[code-to-learn-genai-artifact-construction-2026]] — CtL-GenAI: Konstruktionismus-Rahmenwerk für Artefaktkonstruktion
+- [[astor-computational-thinking-meta-review-2026]] — CT-Meta-Review von 128 systematischen Reviews
+- [[tsingidou-ct-robotics-kindergarten-2026]] — Systematischer Review zu CT über Robotik im Kindergarten
+- [[praise-non-programmer-ai-model-implementation-2026]] — PRAISE: ein reproduzierbarer Workflow für Nicht-Programmierende in den Wissenschaften zur Implementierung veröffentlichter KI-Modelle

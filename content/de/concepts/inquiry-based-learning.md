@@ -1,7 +1,7 @@
 ---
 title: Erkundungsbasiertes Lernen
 created: "2026-08-22T05:55:16-04:00"
-updated: "2026-10-10T09:04:23-04:00"
+updated: "2026-10-24T21:55:25-04:00"
 type: concept
 foundations: [critical-thinking]
 pedagogy: [active-learning, inquiry-based-learning, metacognition, problem-based-learning, scaffolding, self-regulated-learning]
@@ -78,7 +78,7 @@ In Außen-Settings wird derselbe Imperativ räumlich: GenAI kann vorstrukturiere
 - [[collaborative-learning]]
 - [[higher-ed]]
 - [[k-12]]
-- [[productive-failure]] — Productive Failure
+- [[productive-failure]] — Produktives Scheitern
 
 ## Verbundene Artikel
 
@@ -88,9 +88,9 @@ In Außen-Settings wird derselbe Imperativ räumlich: GenAI kann vorstrukturiere
 - [[mujib-ai-ibl-creative-math-2026]] — KI-unterstütztes IBL und kreative mathematische Leistung
 - [[zhao-genai-higher-order-thinking-meta-2026]] — GenAI- und höheres-Denken-Metaanalyse
 - [[niri-steam-ai-literacy-review-2026]] — STEAM-Bildung für KI-Kompetenz
-- [[kim-ai-productive-failure-adult-2026]] — Designing AI Systems to Support Productive-Failure-Based Learning
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pedagogical Steering of LLMs for Productive Failure
-- [[lukesova-clue-before-correction-2026]] — Clue Before Correction: ChatGPT for Autonomous Language Learning
+- [[kim-ai-productive-failure-adult-2026]] — KI-Systeme gestalten, die produktives Scheitern als Lernbasis unterstützen
+- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pädagogisches Steuern von LLMs für produktives Scheitern
+- [[lukesova-clue-before-correction-2026]] — Hinweis vor der Korrektur: ChatGPT für autonomes Sprachenlernen
 - [[ai-supported-inquiry-photosynthesis-respiration-2026]] — KI-unterstützte geführte Erkundung zu Photosynthese & Atmung (Naturwissenschaftslehrkräftebildung)
 - [[ai-information-extraction-undergraduate-thesis-2026]] — KI-gestützte Informationsextraktion unterstützt Thesis im Grundstudium und forschungsbasiertes Lernen (An et al. 2026)
 - [[ai-assisted-inquiry-ssi-climate]] — KI-unterstützte Erkundung zu sozio-wissenschaftlichen Fragen des Klimawandels

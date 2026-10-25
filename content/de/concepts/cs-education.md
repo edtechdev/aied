@@ -1,8 +1,8 @@
 ---
-connected_resources: [liascript]
+connected_resources: [liascript, code-viva]
 title: Informatikbildung
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-10T09:04:22-04:00"
+updated: "2026-10-24T20:10:02-04:00"
 type: concept
 foundations: [ai-literacy, computational-thinking]
 technology: [generative-ai, llm, prompt-engineering]
@@ -11,7 +11,7 @@ discipline: [stem education, cs education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/cs-education
-source_updated: "2026-10-14T14:35:00-04:00"
+source_updated: "2026-10-24T08:54:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -41,6 +41,7 @@ ai_assist:
 - **Codegenerierung und -vervollständigung:** [[code-review-genai-cs1|CS1-Code-Review]], [[dura-llm-cs2|DURA für CS2]] und [[prompt-problems-nl-programming-mistakes|NL-Programmierfehler]] untersuchen, wie Studierende KI zur Codegenerierung nutzen und was sie daraus lernen.
 - **Konversationelle Agenten für Anfängerinnen und Anfänger ([[meta-analysis-systematic-review|Scoping Review]]):** [[conversational-agents-novice-programmers-scoping-2025|Barzanji & Loitsch (2025)]] kartieren 23 Studien (2019–Juni 2024) zu [[conversational-ai|konversationellen Agenten]] für Programmieranfängerinnen und -anfänger und dokumentieren eine Verschiebung von regelbasierten Chatbots hin zu [[llm]]- und [[rag]]-basierten Agenten (wobei [[rag|retrieval-augmented generation]] [[hallucination-risk|Halluzination]] reduziert) und personalisierter Tutoringsunterstützung (z. B. InfoBot, ProbSol-Bot, Lint Bot, Profe Alex). Bemerkenswert ist, dass nur 4 von 23 Studien ihr Design in [[learning-theories|Lerntheorie]] gründen und 17 von 23 Prototypen nur englischsprachig sind, obwohl die meiste Forschung aus nicht-englischsprachigen Ländern stammt — ein Hinweis auf schwache [[pedagogy|pädagogische]] Fundierung und eine Inklusivitätslücke für zukünftiges CA-Design in der einführenden Programmierung.
 - **Debugging-Unterstützung:** [[debugtracker-classroom-debugging|Debugging-Werkzeuge]], [[chat-debugging-human-ai-collaboration-circuits|Mensch-KI-Debugging-Kollaboration]] und [[golrang-propact-pair-programming-2026|dyadisches Pair-Programming-Modellierung]] nutzen KI zur Fehleridentifikation und -behebung.
+- **Eine Live-Kurs-Einsatzstudie fand, dass die Hinweislänge die handelbare Variable ist, nicht die Modellwahl.** Drei aufeinanderfolgende Einsätze in einem einführenden Webentwicklungs-Kurs (o3-mini, GPT-5-mini und GPT-5.5 über 79.438, 83.374 und 10.420 protokollierte Einreichungen) brachten Hinweise in mehreren Vergleichen mit besseren unmittelbaren Ergebnissen in Verbindung. Längere Nachrichten sagten schlechtere Korrektheit der nächsten Einreichung, mehr Versuche und langsamere Wiedereinreichung voraus, und Studierende, die bei früheren Projektschritten Hinweise erhalten hatten, lösten den Abschlussschritt seltener, mit 95,6% gegenüber 98,1% ([[mihaylova-llm-feedback-live-programming-course-2026|Mihaylova et al., 2026]]).
 - **Ein browserresidenter werkzeugaugmentierter Tutor ist die Architektur, auf die das Feld zusteuert.** Ein werkzeugaugmentiertes SLM-Design paart einen kleinen feinabgestimmten Planer (1B–7B) mit vier deterministischen Werkzeugen — Code-Ausführung, Testläufer, Dokumentations-Retriever und [[knowledge-tracing|Knowledge-Tracing]]-Modul —, hinter einer vierstufigen Eskalationspolitik (zuerst Werkzeuge, dann On-Device-SLM, einwilligungsgesteuertes Cloud-LLM, schließlich die Lehrenden), wodurch sich die pädagogische Kontrolle vom Modell auf die prüfbare Politik verlagert; ein vorläufiges ~150M-Vervollständigungsmodell erreicht 10.97% HumanEval pass@1, über mehreren 100M–150M-Code-Baselines ([[browser-sized-agents-slm-webllm-tutor-2026|Suvernev et al. (2026)]]).
 - **Ein klein feinabgestimmter Tutor kann ein größeres allgemeines Modell beim Gerüstbau übertreffen.** Feinabstimmung von Qwen2.5-Coder-7B-Instruct auf 1.213 synthetischen Tutoringsdialogen senkte vorzeitige Lösungsmitteilung von 7.43% auf 1.88% der Tutor-Wendungen und hob schrittweises Scaffolding und die Qualität von Debugging-Fragen über die von GPT-4o, blieb aber bei zuverlässiger Erzeugung pädagogischer Pläne das offene Problem ([[socraticrepair-program-debugging-2026|Kopytskyi et al. (2026)]]).
 - **Automatisiertes Assessment:** [[automated-grading-linux-bash-examinations-large-language-models|Linux-Bash-Benotung]], [[llm-automated-grading-programming-comparison-2026|ein großangelegter Vergleich von 18 Benotungsmodellen]] und [[llm-intervention-design-cs-review|ein Review zu LLM-Interventionsdesign]] evaluieren automatisiertes Code-Assessment. Die Sicherheit dieses Arbeitsablaufs ist eine eigene Frage: [[humble-prompt-injection-ai-grading-red-team-2026|Humble (2026)]] red-teamte eine routinemäßige KI-Benotungsaufgabe und fand, dass Instruktionen, die in einer eingereichten Datei versteckt waren, die Note eines durchfallenden Aufsatzes ohne sichtbare Warnung hoben, in 9 von 9 Iterationen für eine Strategie und 17 von 18 für eine andere — ein Beleg dafür, dass Prüfendenrobustheit auf der [[assessment-validity]]-Checkliste neben Genauigkeit gehört.
@@ -156,15 +157,16 @@ Informatikbildung verbindet sich mit [[computational-thinking|Computational Thin
 - [[assessment-validity]]
 
 ## Verbundene Artikel
+- [[mihaylova-llm-feedback-live-programming-course-2026]] — Drei Einsätze, drei Modelle, 173.000 Einreichungen: Wie sich Hinweisverhalten in einem echten Kurs verhielt
 - [[kumar-genai-computing-education-systematic-review-2026]] — Systematischer Review von 72 Studien: Effizienzgewinne, die nicht transferieren, und das VIE-Rahmenwerk
 - [[vibe-coding-writing-cs-achievement-2026]] — Informatikleistung und Schreibfähigkeiten sagen Vibe-Coding-Kompetenz vorher (CHI 2026)
 - [[tutortrace-learner-behavioral-states-2026]]
-- [[mechanical-engineering-ai-curriculum-2026]] — Project-Based AI Education Curriculum in Thermal Engineering
+- [[mechanical-engineering-ai-curriculum-2026]] — Projektbasierter KI-Bildungscurriculum im Bereich Wärmetechnik
 - [[code-review-genai-cs1]] — CS1-Code-Review von KI-erzeugtem Code
 - [[dura-llm-cs2]] — DURA: LLM-Assistenten für CS2
 - [[reshaping-cs-education-genai]] — Umformung von Undergraduate-CS-Curricula für GenAI
 - [[ase-26-agentic-software-engineering-curriculum]] — Curriculum zur agentischen Softwaretechnik ASE-26
-- [[test-driven-ai-assisted-learning]] — Test-Driven AI-Assisted Learning
+- [[test-driven-ai-assisted-learning]] — Testgesteuertes KI-gestütztes Lernen
 - [[genai-oop-programming-assessments-2026]] — GenAI-Leistung bei authentischen einführenden OOP-Assessments (Lepp & Kaimre 2026)
 - [[trust-reliance-ai-education-2026]] — Vertrauen vs. angemessener Verlass beim Python-Problemlösen
 - [[constructing-epistemic-ai-literacy-student-ai-co-programming]] — epistemische KI-Kompetenz in der Studierenden-KI-Ko-Programmierung
@@ -187,23 +189,22 @@ Informatikbildung verbindet sich mit [[computational-thinking|Computational Thin
 - [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly verkörperte Blockprogrammierung
 - [[edusim-llm-robotic-simulation-education-2026]] — EduSim-LLM Robotersteuerung in natürlicher Sprache
 - [[llm-computational-thinking-physics-2026]] — LLM-Unterstützung für Computational Thinking in der Physik
-- [[studychat-student-dialogues-chatgpt-ai-course-2026]] — The StudyChat dataset of student–LLM dialogues in an AI course
-- [[student-ai-inquiry-types-cs2-2026]] — Analysis of Types of Inquiries in Student-AI Interaction
+- [[student-ai-inquiry-types-cs2-2026]] — Analyse der Anfragetypen in der Student-KI-Interaktion
 - [[chatgpt-qiskit-homework-autogradable-2026]] — ChatGPT löst Qiskit-Hausaufgaben; autobewertbares Design
 - [[llm-adaptive-programming-error-explanations-2026]] — LLM-adaptive Erklärungen zu Programmierfehlern
 - [[soft-barriers-copying-ai-programming-2026]] — Copy-Paste-Widerstand bei KI-unterstützter Programmierung
 - [[zhang-ml-student-progress-programming-2026]]
 - [[spec-driven-development-ai-agents-sdpbl-2026]] - SDD mit KI-Agenten in einem Software-PBL-Kurs; Durchsatz vs. Verstehen
-- [[student-reception-genai-analogies-computing-2026]] — Flawed but Memorable: Student Critical Reception of Interest-Personalized GenAI Analogies in Computing Education
-- [[milicevic-socratic-trap-strategic-misconceptions-2026]] — SocraticTrap-CS: benchmarking models' capacity to generate strategic misconceptions across the CS curriculum
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — Prompt injection red-team of AI-mediated grading: hidden instructions that move the mark undetected
-- [[algorag-rag-theoretical-cs-education-2026]] — AlgoRAG: Retrieval-Augmented Generation for Theoretical Computer Science Education -- A Comprehensive Evaluation Framework for Algorithm Analysis and Complexity Theory
-- [[llms-unplugged-teaching-resources-2026]] — LLMs Unplugged: Teaching Resources for a ChatGPT World
-- [[instructional-governance-design-computing-education-2026]] — Instructional Governance by Design: A Framework for AI in Computing Education
+- [[student-reception-genai-analogies-computing-2026]] — Fehlerhaft, aber einprägsam: Die kritische Rezeption von interessenpersonalisierten GenAI-Analogien in der Informatikbildung durch Studierende
+- [[milicevic-socratic-trap-strategic-misconceptions-2026]] — SocraticTrap-CS: Benchmarking der Fähigkeit von Modellen, strategische Missverständnisse über das Informatikcurriculum hinweg zu erzeugen
+- [[humble-prompt-injection-ai-grading-red-team-2026]] — Prompt-Injection-Red-Team an KI-vermittelter Benotung: versteckte Instruktionen, die die Note unbemerkt verändern
+- [[algorag-rag-theoretical-cs-education-2026]] — AlgoRAG: Retrieval-Augmented Generation für theoretische Informatikbildung -- ein umfassendes Evaluationsrahmenwerk für Algorithmusanalyse und Komplexitätstheorie
+- [[llms-unplugged-teaching-resources-2026]] — LLMs Unplugged: Unterrichtsmaterialien für eine ChatGPT-Welt
+- [[instructional-governance-design-computing-education-2026]] — Instruktionale Governance by Design: Ein Rahmenwerk für KI in der Informatikbildung
 
-- [[judgment-centred-software-engineering-education-2026]] — A Post-Hype Review and Framework for AI-Augmented Software Engineering Education
-- [[llm-graders-computer-science-exams-2026]] — Where LLM Graders Succeed and Break: Evidence from Two Computer-Science Exams
+- [[judgment-centred-software-engineering-education-2026]] — Ein Post-Hype-Review und Rahmenwerk für KI-gestützte Softwaretechnikbildung
+- [[llm-graders-computer-science-exams-2026]] — Wo LLM-Benotende erfolgreich sind und versagen: Belege aus zwei Informatikprüfungen
 - [[student-llm-use-cs-subfields-2026]] — LLM-Übernahme reichte von 89,6% in Algorithmen bis 15,2% in Softwaretechnik über 211 Studierende und folgte der Aufgabe statt dem Teilgebiet
-- [[educator-guided-llm-pedagogical-agent-2026]] — Educator-authored staged feedback for conceptual database design: hidden diagnosis, controlled disclosure, 71.1% target-level across 383 episodes
-- [[socraticrepair-program-debugging-2026]] — SocraticRepair: Planning-Guided Socratic Tutoring for Program Debugging and Misconception Repair
-- [[browser-sized-agents-slm-webllm-tutor-2026]] — Browser-Sized Agents: Small Language Models and WebLLM for Tool-Augmented AI-Assisted Programming Education
+- [[educator-guided-llm-pedagogical-agent-2026]] — Von Lehrenden verfasstes gestuftes Feedback für konzeptionelles Datenbankdesign: verborgene Diagnose, kontrollierte Freigabe, 71,1% Zielniveau über 383 Episoden
+- [[socraticrepair-program-debugging-2026]] — SocraticRepair: Planbasiertes sokratisches Tutoring für das Debugging von Programmen und die Reparatur von Missverständnissen
+- [[browser-sized-agents-slm-webllm-tutor-2026]] — Browser-Sized Agents: Kleine Sprachmodelle und WebLLM für werkzeugaugmentierte KI-gestützte Programmierbildung

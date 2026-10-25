@@ -2,7 +2,7 @@
 connected_resources: [drawsplat]
 title: Datenschutz
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-10T09:04:24-04:00"
+updated: "2026-10-24T20:27:31-04:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, ai-guidance-children-under-13, institutional-ai-policy]
 type: concept
 technology: [learning-analytics, personalized-learning]
@@ -11,7 +11,7 @@ level: [k 12]
 confidence: high
 institutions: [educational-policy-ai, governance, regulation]
 translation_of: concepts/privacy
-source_updated: "2026-10-14T14:35:00-04:00"
+source_updated: "2026-10-22T09:11:45-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -43,8 +43,10 @@ Datenschutz ist die Vorbedingung für vertrauenswürdige KI in der Bildung. Weil
 - **Datensammlung in großem Maßstab.** [[learning-analytics|Lernanalytik]] und [[edtech-platform|Bildungsplattformen]] sammeln Klickstrom-, Schreib-, Tastendruck- und Interaktionsdaten. Die zentrale Frage, die Datenschutz[[research-methods-aied|forschung]] untersucht, ist, ob diese Sammlung im Verhältnis zum Bildungsnutzen steht —, und [[learning-analytics-to-educational-interventions-2026|vertrauenswürdige-LA-Forschung]] behandelt Datenschutz und Datensteuerung als Vorbedingung, nicht als Zusatz: ethische Compliance, Datensicherheit und transparente Algorithmen sind es, die dateninformierten Bildungswandel überhaupt sinnvoll machen.
 - **Einwilligung und Transparenz.** Studierende und [[parents-and-families|Familien]] verstehen selten, welche Daten ein KI-Werkzeug sammelt, wie sie genutzt werden oder wo sie gespeichert werden. Dieses Machtungleichgewicht zwischen Institutionen und [[learners|Lernenden]] ist ein wiederkehrendes Thema —, Studierende mögen keine echte Wahl haben, als eine verpflichtende Plattform zu nutzen, was „Einwilligung“ nominell statt informiert macht. Die Wissensdatenbank verbindet dies mit [[trust-calibration|Vertrauen]] und [[ai-use-disclosure|Offenlegung]]: sowohl die Nutzung von KI durch Lernende als auch die Nutzung von Lernendendaten durch Institutionen hängen von Transparenz darüber ab, was gesammelt wird und warum.
 - **Delegation als Datenschutzmechanismus, nicht nur als Offenlegung.** [[agentic-literacy-debt|Nama (2026)]] argumentiert, autonome Agenten erbten Berechtigungen über Sitzungen hinweg und widerriefen sie selten, sodass jede undurchsichtige Delegation Nutzende daran gewöhne, Zugang ohne Prüfung zu gewähren —, was informierte Einwilligung darüber, *wann ein Agent statt eine Person handelt*, zum Teil der Datenschutzgestaltung mache.
+- **Autonomie verbreitert die Datengrundlage.** Ein agentisches Formular-Ausfüllsystem pflegt eine multimodale persönliche Wissensbasis über institutionelle Dienste hinweg, evaluiert an 1.301 eindeutigen Feldern aus den Recruiting-Seiten von 44 Unternehmen, und seine Autoren nennen datenschutzwahrendes Wissensmanagement, Zugriffskontrolle und menschliche Bestätigung als ungelöste Einsatzanforderungen ([[large-language-models-teaching-learning-higher-ed|Li et al. (2026)]]).
 - **Sicherheit, Anonymisierung und Datenbeschaffung.** Selbst legitime Daten können schaden, wenn sie verletzt oder falsch gehandhabt werden. Datenschutzbewahrende Techniken erscheinen über die Wissensdatenbank —, [[teachlm-post-training-llms-education|TeachLM]] demonstriert eine strenge Pipeline aus Einwilligung pro Sitzung, PII-Entfernung auf internen Servern und unternehmensgradiger Vertraulichkeit für nachtrainierte Tutoringmodelle auf authentischen Daten, was zeigt, dass ethisch beschaffte Lernendendaten sowohl möglich als auch eine Vorbedingung für hochwertiges Tutoring sind. [[ai-lms-middle-school-longitudinal|Föderierte und Edge-KI-Architekturen]] halten Daten lokal und reduzieren zentrale Sammlung. Inferenz direkt im Browser treibt dies am weitesten: ein WebLLM-Tutor läuft als statische Seite mit Gewichten, die im IndexedDB zwischengespeichert sind, sodass Studierendencode, Prompts und Transkripte das Gerät nie verlassen und keine API-Schlüssel oder Abrechnung pro Aufruf nötig sind —, obwohl die [[equity-in-ai-education|Gerechtigkeits]]kost dabei eine neue Hardware-Fähigkeitskluft ist, da schnelle, reibungslose Generierung von einer fähigen clientseitigen GPU abhängt ([[browser-sized-agents-slm-webllm-tutor-2026|Suvernev et al. (2026)]]). [[ai-detection|Detektions]]werkzeuge fügen einen parallelen Datenhandhabungs-Fall hinzu: [[bassett-ai-detectors-education-2026|Bassett et al. (2026)]] markieren, dass Detektor-Anbieter Studierendenarbeit auf Drittservern speichern, manchmal in Übersee unter schwächeren Datenschutzstandards, neben Verletzungsrisiko und potenzieller kommerzieller Ausbeutung von Studierendenschreiben.
 - **Überwachung und die Überwachungs-Datenschutz-Spannung.** Ständiges KI-Monitoring —, selbst wenn wohlmeinend —, kann sich invasiv anfühlen. Forschung zu [[ai-fatigue-academic-contexts|KI-Müdigkeit]], [[remote-proctoring|Fernprüfungsaufsicht]] und [[cognitive-offloading|Überabhängigkeit]] verbindet Datenschutz mit Studierenden[[well-being|Wohlbefinden]]: Wenn KI kontinuierlich zusieht und verfolgt, formt sie Verhalten und Angst, nicht nur Datenflüsse. [[harerimana-remote-proctoring-nursing-scoping-2026|Harerimana et al. (2026)]] katalogisierten, was [[remote-proctoring|Prüfungsaufsichts]]systeme tatsächlich erfassen —, Gesichtsbilder, Ausweisdokumente, Raumscans einschließlich 360-Grad-Abtastungen, Mikrofon-Audio, Gesichtserkennung, Bildschirmaufzeichnungen, Lockdown-Ereignisse, und Tastendruck- und Mausverfolgung, wobei mobile Aufsicht GPS- und Selfie-Prüfungen hinzufügt —, und fanden Datenschutz und algorithmische Rechenschaftspflicht weitgehend abwesend von den sechs Studien, die ihre Einschlusskriterien erfüllten, stattdessen aus angrenzender Arbeit geliefert: 83% der Befragten in einer angeführten Befragung äußerten Überwachungsängste, 58% Unbehagen und 72% Datenschutzbedenken, während grenzüberschreitende Anbieterverträge Instrumente wie GDPR und Südafrikas POPIA nur begrenzte Kontrolle bieten ließen. Die Rechtsrisiken, die aus dem Aufbewahren und Verarbeiten jener Daten folgen —, wer die Verantwortliche ist, wie lange sie aufbewahrt werden, wer darauf zugreifen darf, ob Einwilligung echt freiwillig war —, werden auf [[legal-issues-and-risks|Rechtsfragen und -risiken]] kartiert.
+- **EEG-Decodierung legt Aufmerksamkeit offen.** Neuronale Dekodierung erweitert das Datenschutzproblem über Verhaltensprotokolle hinaus: [[seeing-cognitive-representations-eeg-reconstruction|Su et al. (2026)]] rekonstruierten, was Lernende während einer Video-Instruction betrachteten, aus deren EEG, wodurch dekodierte Repräsentationen ungewöhnlich aufschlussreich werden und die Steuerung sensibler Neurodaten ungeklärt bleibt.
 - **Der Personalisierungs-Datenschutz-Tradeoff.** [[personalized-learning|Personalisierung]] verlangt detaillierte Lernendendaten, um zu funktionieren, was eine strukturelle Spannung mit Datenschutz erzeugt. Die Wissensdatenbank erforscht Ansätze, die Personalisierung mit Datenminimierung balancieren —, genug Daten zum Anpassen, nicht so viele, dass die lernende Person vollständig exponiert ist. Das ist die praktische Form der Frage „wie viel ist verhältnismäßig?“.
 - **Datenverwaltung als zentraler ethischer Wert.** [[agarwal-ethical-values-norms-aied-2026|Agarwal et al. (2026)]], ein [[meta-analysis-systematic-review|systematischer Review]] von 25 Artikeln, identifizieren Datenverwaltung (Definitionen unter Nutzung von Daten/Informationen) als einen von sechs zentralen ethischen Werten für [[ai-education|KI in der Bildung]], neben Nicht-Diskriminierung, menschlicher Aufsicht, Wohlwollen, Erklärbarkeit und Bildungsangemessenheit. Der Review findet, die Werte seien eng gekoppelt und könnten konfligieren —, z. B. Erklärbarkeit vs. Genauigkeit/Datenschutz und Nicht-Diskriminierung vs. Datenverwaltung —, was ethische Dilemmata produziere, und dass keine Normen zur Datenverwaltung Endnutzende direkt adressierten, was Lernende in der ethischen Literatur weitgehend passiv lasse.
 - **Datenschutz wird aufgeschoben statt entschieden.** Zwölf Interviews mit Edtech-Fachleuten und ein Audit von 48 Plattform-Datenschutzrichtlinien zeigen, dass Datenschutz als wichtig erkannt und dann über den Produktlebenszyklus aufgeschoben wird, mit Verantwortung, die an Cloud-Anbieter, Richtliniendokumente und nachgelagerte Schulen delegiert wird —, ein Muster, das schwache Datenschutzrückmeldung unsichtbar hält, da Stille wie Beweis von Sicherheit aussieht ([[edtech-privacy-deferral-2026|Nair & Greenstadt, 2026]]).
@@ -80,21 +82,21 @@ Datenschutz verbindet sich mit [[learning-analytics|Lernanalytik]] (dem Datensam
 - [[pedagogical-safety]]
 - [[legal-issues-and-risks]]
 - [[student-experience]]
-- [[student-support-and-success]] — student records, cross-office data sharing, and federated risk modeling
+- [[student-support-and-success]] — Studierendenakten, datenübergreifende gemeinsame Nutzung zwischen Ämtern und föderiertes Risikomodellieren
 
 ## Verbundene Artikel
-- [[villegas-ch-federated-explainable-learning-analytics-2026]] — Federated and explainable learning analytics for privacy-preserving academic risk modeling (Villegas-Ch et al. 2026)
-- [[learning-analytics-to-educational-interventions-2026]] — From learning analytics to educational interventions: enablers of trustworthy LA-based interventions (Svetec, Divjak & Kadoić 2026)
+- [[villegas-ch-federated-explainable-learning-analytics-2026]] — Föderiertes und erklärbares Learning Analytics für datenschutzwahrendes akademisches Risikomodellieren (Villegas-Ch et al. 2026)
+- [[learning-analytics-to-educational-interventions-2026]] — Vom Learning Analytics zu Bildungsinterventionen: Faktoren, die vertrauenswürdige LA-basierte Interventionen ermöglichen (Svetec, Divjak & Kadoić 2026)
 - [[automated-online-exam-proctoring-decade-review-2026]]
-- [[agentic-literacy-debt]] — Agentic literacy debt: the structural AI-literacy gap from autonomous agents (Nama 2026)
+- [[agentic-literacy-debt]] — Agentische Kompetenz-Schuld: die strukturelle KI-Kompetenzlücke durch autonome Agenten (Nama 2026)
 - [[ai-fatigue-academic-contexts]]
 - [[ai-lms-middle-school-longitudinal]]
 - [[child-safety-genai]]
 - [[eduzone-llm-safety-k12]]
 - [[spritz-ai-disciplinary-mediation-student-teams-2026]]
-- [[teachlm-post-training-llms-education]] — TeachLM: anonymization and consent for authentic learning data
-- [[bassett-ai-detectors-education-2026]] — Heads we win, tails you lose: AI detectors in education (Bassett et al. 2026)
-- [[privacy-preserving-multi-llm-federated-cognitive-diagnosis-2026]] — Privacy-preserving federated LLM cognitive diagnosis
-- [[agarwal-ethical-values-norms-aied-2026]] — Ethical values and norms for AI in education
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] — What proctoring systems capture, and the privacy literature's absence from the evidence base
-- [[edtech-privacy-deferral-2026]] — "We'll Fix It Later": Education, AI, and the Deferral of Student Privacy in EdTech
+- [[teachlm-post-training-llms-education]] — TeachLM: Anonymisierung und Einwilligung für authentische Lerndaten
+- [[bassett-ai-detectors-education-2026]] — Kopf gewinnen wir, Zahl verlierst du: KI-Detektoren in der Bildung (Bassett et al. 2026)
+- [[privacy-preserving-multi-llm-federated-cognitive-diagnosis-2026]] — Datenschutzwahrende föderierte LLM-kognitive Diagnose
+- [[agarwal-ethical-values-norms-aied-2026]] — Ethische Werte und Normen für KI in der Bildung
+- [[harerimana-remote-proctoring-nursing-scoping-2026]] — Was Prüfungsaufsichtssysteme erfassen, und die Abwesenheit der Datenschutzliteratur in der Evidenzbasis
+- [[edtech-privacy-deferral-2026]] — „We'll Fix It Later“: Bildung, KI und das Aufschieben von Datenschutz für Lernende in EdTech

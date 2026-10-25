@@ -1,7 +1,7 @@
 ---
 title: Halluzinationsrisiko
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-10T09:04:25-04:00"
+updated: "2026-10-24T22:20:44-04:00"
 type: concept
 foundations: [cognitive-offloading]
 technology: [generative-ai, human-in-the-loop-ai, llm]
@@ -41,6 +41,8 @@ Halluzination in Bildungs-KI nimmt mehrere Formen an, die in den Artikeln dieser
 Ein Review von 125 Studien grenzt die Prävalenz und die Erkennungslücke ein: Halluzinationsraten von 10–40%, wobei Medizinstudierende KI-Fehler nur in 44–55% der Fälle erkannten ([[genai-higher-education-systematic-review-2026|Rathnayake (2026)]]).
 
 **Markierte Unzuverlässigkeit senkte die berichtete Abhängigkeit, statt sie zu erhöhen.** Als 546 Teilnehmende denselben GAI-Dialog lasen, der entweder als gefälschte Informationen enthaltend oder als verifiziert korrekt markiert war, erzeugte die Fälschungsmarkierung geringeres [[trust|Vertrauen]] und geringere wahrgenommene Kontrollierbarkeit sowie höhere kognitive Dissonanz und Frustration neben *geringeren* Abhängigkeitswerten (M = 2,935 gegenüber 3,254) ([[frontiers-gai-hallucination-dependence-2026|Liu et al. (2026)]]). Das Ergebnis qualifiziert die Überverlass-Logik dieser Seite: zu sehen, dass eine Ausgabe gefälscht sein könnte, ist nicht dasselbe, wie weiter auf sie zu bauen.
+
+**Glaubwürdigkeitssignale können Gefolgschaft stattdessen verstärken.** Die entgegengesetzte Bewegung zeigt sich, wenn eine unzuverlässige Ausgabe aufgehübscht wird: Das Hinzufügen von Zitaten und Glaubwürdigkeitssignalen zur ARMADA-Debattenoberfläche erhöhte den Anteil der Teilnehmenden, die von einem korrekten anfänglichen Urteil zu einer inkorrekten KI-Position wechselten, um 112 % (31,8 % gegenüber 15,0 %), und manuelle Prüfung fand einige zitierte Fälle, die irrelevanten oder fiktiven Referenzen zugeordnet waren ([[tuo-armada-multi-agent-debate-overreliance-2026|Tuo et al., 2026]]).
 **Assessment-Halluzination** ist besonders schädlich. **[[llm-cognitive-diagnosis-handwritten-math|MathCog]]** fand, dass LLMs beim Diagnostizieren kognitiver Fähigkeiten Belegzitate erfinden, die in der Handschrift der Studierenden nicht vorkommen, wobei 58.5% der falschen Diagnosen von falschen Behauptungen beleglicher Konfidenz begleitet waren. **[[llm-fallacy-misattribution]]** dokumentierte systematische Überattribution von Belegen im [[llm|LLM]]-Schließen — Modelle behaupten belegliche Unterstützung, wo keine existiert. Beides verbindet sich mit Anliegen an [[ai-ed-evaluation|Evaluation von KI in der Bildung]] und [[knowledge-tracing|Knowledge Tracing]] hinsichtlich der [[assessment-validity|Validität von Assessments]]. [[ivory-psychology-assessment-integrity-2026|Ivory et al. (2026)]] fügen zwei Fehlermodi hinzu, die sichtbar werden, wenn KI-Ausgaben bewertet statt inspiziert werden: erfundene Einzelheiten, die die Bewertung überleben — ein rezensiertes Paper, das es nicht gibt, samt nicht auflösbarer DOI, und ein als 378 berichteter Stichprobenumfang, wo die Quelle 329 sagte —, und Selbstwiderspruch innerhalb einer einzelnen Antwort, wo das Modell sich zur richtigen Option hinschloss und dann in seiner abschließenden Zusammenfassung eine andere berichtete. Weil Literaturlisten derzeit auf Formatierung statt auf Genauigkeit bewertet werden, erreicht diese Fehlerklasse eine bestehende Note, während sie die Person in die Irre führt, die dasselbe Werkzeug zum Wiederholen nutzt.
 
 In einem Design-Piloten für Assessments fanden [[authentic-assessments-generative-ai-pilot-2026|Paula et al. (2026)]] erfundene Referenzen und unrealistische Zeitschätzungen, die wiederholtes Prompting überlebten und erhebliche akademische Überarbeitung erforderten — Halluzination in einem auf Lehrende gerichteten Entwurfswerkzeug statt in studentischer Arbeit.
@@ -69,8 +71,9 @@ Verteidigungen gegen solche Manipulation tragen ihren eigenen Trade-off: eine me
 - [[llm]]
 - [[productive-failure]]
 ## Verbundene Artikel
-- [[frontiers-gai-hallucination-dependence-2026]] — Labeling a GAI dialogue as fabricated lowered trust and dependence together
-- [[ivory-psychology-assessment-integrity-2026]] — Fabricated citations and self-contradicting outputs inside passable student work (Ivory et al. 2026)
+- [[frontiers-gai-hallucination-dependence-2026]] — Das Markieren eines GAI-Dialogs als gefälscht senkte Vertrauen und Abhängigkeit gemeinsam
+- [[tuo-armada-multi-agent-debate-overreliance-2026]] — Glaubwürdigkeitssignale erhöhten die Gefolgschaft gegenüber KI-Ausgaben, wobei einige zitierte Fälle fehlattributiert oder fiktiv waren
+- [[ivory-psychology-assessment-integrity-2026]] — Erfundene Zitate und sich selbst widersprechende Ausgaben in bestehenden studentischen Arbeiten (Ivory et al. 2026)
 - [[llm-cognitive-diagnosis-handwritten-math]]
 - [[llm-fallacy-misattribution]]
 - [[yasir-llm-tutoring-agents-2026]]
@@ -80,7 +83,7 @@ Verteidigungen gegen solche Manipulation tragen ihren eigenen Trade-off: eine me
 - [[veriforge-narrative-drafting-scaffolding-2026]]
 - [[genai-higher-education-systematic-review-2026]]
 - [[sidorkin-ai-generated-course-readings-2026]]
-- [[milicevic-socratic-trap-strategic-misconceptions-2026]] — SocraticTrap-CS: fluently plausible explanations that are wrong at the conceptual level (Miličević et al. 2026)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — Hidden prompt injections raise AI-graded marks undetected, and detected attacks go unreported (Humble 2026)
+- [[milicevic-socratic-trap-strategic-misconceptions-2026]] — SocraticTrap-CS: flüssig plausible Erklärungen, die auf der konzeptuellen Ebene falsch sind (Miličević et al. 2026)
+- [[humble-prompt-injection-ai-grading-red-team-2026]] — Versteckte Prompt-Injektionen heben von KI bewertete Noten unbemerkt, und erkannte Angriffe werden nicht gemeldet (Humble 2026)
 
-- [[authentic-assessments-generative-ai-pilot-2026]] — Designing Authentic Assessments with Generative AI: A Pilot Study of Assessment Authentifire in Higher Education
+- [[authentic-assessments-generative-ai-pilot-2026]] — Authentische Assessments mit generativer KI entwerfen: Eine Pilotstudie zu Assessment Authentifire in der Hochschulbildung

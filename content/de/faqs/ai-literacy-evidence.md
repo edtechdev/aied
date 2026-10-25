@@ -1,15 +1,16 @@
 ---
 title: "Was belegen die Studien zu KI-Kompetenz-Interventionen in der Hochschulbildung?"
 created: "2026-08-24T09:52:00-04:00"
-updated: "2026-10-10T09:50:26-04:00"
+updated: "2026-10-24T22:20:44-04:00"
 connected_faqs: [incorporating-ai-literacy, verify-ai-output]
 weight: 50
 foundations: [ai-literacy]
 assessment: [educational-measurement]
 research_method: [literature review]
 level: [higher ed]
+audience: [instructors, researchers, administrators]
 translation_of: faqs/ai-literacy-evidence
-source_updated: "2026-10-02T08:21:34-04:00"
+source_updated: "2026-10-21T14:32:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -20,8 +21,6 @@ ai_assist:
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
-
-# Was belegen die Studien zu KI-Kompetenz-Interventionen in der Hochschulbildung?
 
 Die Belege zu **[[ai-literacy|KI-Kompetenz]]-Interventionen in [[higher-ed|Hochschulbildung]] sind vielversprechend, aber methodisch noch unreif**. Über die Wissensbasis hinweg ist der stärkste wiederkehrende Befund, dass sich KI-Kompetenz wirksamer durch **aktive, kontextualisierte Praxis mit KI – besonders Kritik, Vergleich, Reflexion und Kollaboration – entwickelt als durch Werkzeugdemonstrationen oder Vorlesungen allein**. Zugleich messen relativ wenige Studien dauerhafte, unabhängig demonstrierte Kompetenz; viele stützen sich auf [[self-regulated-learning|Selbstauskunft]], kurze Interventionen, beobachtende Vergleiche oder [[design-based-research|Design-Based Research]].
 

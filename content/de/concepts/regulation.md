@@ -1,7 +1,7 @@
 ---
 title: KI-Regulierung in der Bildung
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-10T09:04:25-04:00"
+updated: "2026-10-24T22:31:15-04:00"
 type: concept
 foundations: [academic-integrity]
 ethics: [equity-in-ai-education, ethics, privacy, pedagogical-safety]
@@ -10,7 +10,7 @@ level: [higher ed]
 confidence: high
 institutions: [educational-policy-ai, governance]
 translation_of: concepts/regulation
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-16T07:28:51-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -50,9 +50,11 @@ Regulierung ist die rechtliche und politische Schicht der KI-[[governance|Govern
 
 Die Wissensbasis dokumentiert eine anhaltende Lücke zwischen KI-Einsatzgeschwindigkeit und regulatorischer Reife. [[institutional-change-framework-ai|Frameworks institutionellen Wandels]] und Regulierungsforschung argumentieren für proaktive [[governance|Governance]] statt reaktive Politik. Studien zu Institutionen und [[raza-farooq-aied-review-2020-2025|umfassenden AIED-Reviews]] heben hervor, dass Regulierung ungleich über Rechtsordnungen und Bildungsstufen verteilt ist, was ein inkonsistentes operatives Umfeld für Lehrende, Studierende und Entwickelnde schafft.
 
+[[agentic-ai|Agentische]] Systeme öffnen eine weitere Lücke. In einer dokumentarischen Analyse von 12 Universitäten fanden [[wong-sun-agentic-ai-assessment-governance-2026|Wong und Sun (2026)]], dass keiner der Vergleichsfälle einen Agenten behandelte, der sich in ein Lernmanagementsystem einloggt, Zugangsdaten von Studierenden hält oder in deren Namen handelt, während mehrere agentische Fälle explizite Delegations- und Zugangsgrenzen setzten.
+
 **Die Lücke ist eine der Belege ebenso wie des Timings.** [[gutowski-hurley-genai-policy-legal-education-2025|Gutowski und Hurley (2025)]] charakterisieren einen professionellen Sektor als politisch unter Zeitdruck ohne Evidenzbasis, mit der man Politik machen könnte: Die meisten ABA-anerkannten US-amerikanischen [[legal-education|Juristischen Fakultäten]] nahmen allgemein prohibitive Positionen ein, während sie Entscheidungsfreiheit für einzelne Lehrende vorbehielten, und die Autoren berichten keinen Konsens über Offenlegung oder Zitationspraxis und nur eine Antwortrate von etwa 15% auf die ABA-Politikbefragung von 2024. Ihre normative Antwort — klare Leitlinien gleich welcher Position, Beteiligung von [[stakeholders|Interessengruppen]] am Entwurf, und Governance, die gestaltet ist, flexibel zu sein und periodisch überprüft zu werden —, passt zum [[crompton-governing-genai-higher-ed-delphi-2026|globalen Delphi-Konsens]], der Politikpflege ebenfalls als wiederkehrenden institutionellen Mechanismus behandelt statt als einmalige Aufgabe. [[coates-governing-academic-integrity-indicators-2025|Coates, Croucher und Calderon (2025)]] fügen die umgekehrte Abhängigkeit hinzu: Ihr Programm zur Governance-Reform kommt zu dem Schluss, dass institutionelle Entwicklung ohne externe Ermöglichung durch Regulierung, Benchmarking und institutionenübergreifenden Wettbewerb unwahrscheinlich ausschüttet, was die Qualitäts- und Regulierungsagenturen — und den Vergleich, den sie zwischen Einrichtungen erzwingen — zur Bedingung macht, unter der interne Governance-Reform greift.
 
-Ein Audit der Datenschutzrichtlinien von EdTech-Plattformen gibt dieser Abhängigkeit eine konkrete Instanz. Über 48 Plattformen hinweg wurde Datenerhebung vergleichsweise gut offengelegt (Mittelwert 1.81 von 2), während KI-Offenlegung (0.90) und Rechenschaftspflicht (1.07) hinterherhinkten, und 33% machten keine aussagekräftige KI-Offenlegung trotz sichtbarer KI-Merkmale; US-amerikanische [[k-12|K-12]]-Plattformen erzielten insgesamt die höchsten Werte (M = 7.47 gegenüber 5.50 für US-amerikanische [[higher-ed|Hochschulbildung]]), gewannen aber nichts bei KI-Offenlegung oder Rechenschaftspflicht — Regulierung, so folgern die Autoren, hebt nur das, was sie benennt, weshalb durchsetzbare Regeln und Beschaffungsstandards statt freiwilliger Selbstverpflichtungen [[privacy|Datenschutz]] zu einer Bedingung des Einsatzes machen müssen ([[edtech-privacy-deferral-2026|Nair & Greenstadt, 2026)]]).
+Ein Audit der Datenschutzrichtlinien von EdTech-Plattformen gibt dieser Abhängigkeit eine konkrete Instanz. Über 48 Plattformen hinweg wurde Datenerhebung vergleichsweise gut offengelegt (Mittelwert 1.81 von 2), während KI-Offenlegung (0.90) und Rechenschaftspflicht (1.07) hinterherhinkten, und 33% machten keine aussagekräftige KI-Offenlegung trotz sichtbarer KI-Merkmale; US-amerikanische [[k-12|K-12]]-Plattformen erzielten insgesamt die höchsten Werte (M = 7.47 gegenüber 5.50 für US-amerikanische [[higher-ed|Hochschulbildung]]), gewannen aber nichts bei KI-Offenlegung oder Rechenschaftspflicht — Regulierung, so folgern die Autoren, hebt nur das, was sie benennt, weshalb durchsetzbare Regeln und Beschaffungsstandards statt freiwilliger Selbstverpflichtungen [[privacy|Datenschutz]] zu einer Bedingung des Einsatzes machen müssen ([[edtech-privacy-deferral-2026|Nair & Greenstadt, 2026]]).
 
 ### Verbindungen
 
@@ -77,19 +79,20 @@ Regulierung verbindet sich mit [[educational-policy-ai|Bildungspolitik zur KI]],
 - [[genai-policies-higher-ed-computing]]
 - [[ai-lifelong-learning-policy]]
 - [[ai-ethics-education-public-discourse]]
-- [[ai-uk-higher-education-policy-2026]] — AI in UK higher-education policy
+- [[ai-uk-higher-education-policy-2026]] — KI in der britischen Hochschulbildungspolitik
 - [[oecd-digital-education-outlook-2026]] — OECD Digital Education Outlook 2026
-- [[genai-declaration-frameworks-higher-education]] — AI declaration frameworks
-- [[genai-assessment-governance]] — Assessment governance under GenAI
-- [[league-ethical-governance-student-data-2026]] — Ethical governance of student data
-- [[student-regulatory-awareness-genai]] — Student regulatory awareness of GenAI
-- [[dot-framework-survey-2026]] — Technology-adoption frameworks
-- [[raza-farooq-aied-review-2020-2025]] — Comprehensive review of AIED research
-- [[qian-governing-genai-higher-ed-policy-2026]] — Guidance over binding policy: internal AI rules across 50 innovative US universities (Qian 2026)
-- [[gutowski-hurley-genai-policy-legal-education-2025]] — Law school GenAI policy scored on five dimensions: prohibitive by default, instructor discretion, periodic review (Gutowski & Hurley 2025)
-- [[wright-transcription-not-generation-2026]] — Over-inclusive AI prohibitions and the reasonable-adjustment duties they may engage (Wright 2026)
-- [[li-genai-assessment-language-equity-2026]] — Language background in assessment rules: the support–substitution boundary as an equalities question (Li 2026)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — Prompt-injection attacks on AI graders and the case for standardized resilience testing (Humble 2026)
-- [[coates-governing-academic-integrity-indicators-2025]] — External regulatory pressure as the condition for governance reform (Coates, Croucher & Calderon 2025)
-- [[watson-rainie-ai-challenge-faculty-survey-2026]] — 87% of faculty write their own rules against a thin institutional policy layer (Watson & Rainie 2026)
-- [[edtech-privacy-deferral-2026]] — "We'll Fix It Later": Education, AI, and the Deferral of Student Privacy in EdTech
+- [[genai-declaration-frameworks-higher-education]] — KI-Offenlegungsframeworks
+- [[genai-assessment-governance]] — Assessment-Governance unter GenAI
+- [[league-ethical-governance-student-data-2026]] — Ethische Governance von Studierendendaten
+- [[student-regulatory-awareness-genai]] — Regulatorisches Bewusstsein von Studierenden zu GenAI
+- [[dot-framework-survey-2026]] — Technologieübernahme-Frameworks
+- [[raza-farooq-aied-review-2020-2025]] — Umfassender Review der AIED-Forschung
+- [[qian-governing-genai-higher-ed-policy-2026]] — Orientierung vor bindender Politik: interne KI-Regeln in 50 innovativen US-Universitäten (Qian 2026)
+- [[gutowski-hurley-genai-policy-legal-education-2025]] — GenAI-Politik von Law Schools auf fünf Dimensionen bewertet: standardmäßig prohibitiv, Entscheidungsfreiheit der Lehrenden, periodische Prüfung (Gutowski & Hurley 2025)
+- [[wright-transcription-not-generation-2026]] — Überinklusive KI-Verbote und die Anpassungspflichten, die sie berühren können (Wright 2026)
+- [[li-genai-assessment-language-equity-2026]] — Sprachlicher Hintergrund in Assessment-Regeln: die Grenze zwischen Unterstützung und Substitution als Gleichstellungsfrage (Li 2026)
+- [[humble-prompt-injection-ai-grading-red-team-2026]] — Prompt-Injection-Angriffe auf KI-Bewerterinnen und -Bewerter und das Plädoyer für standardisierte Resilienztests (Humble 2026)
+- [[coates-governing-academic-integrity-indicators-2025]] — Externer regulatorischer Druck als Bedingung für Governance-Reform (Coates, Croucher & Calderon 2025)
+- [[watson-rainie-ai-challenge-faculty-survey-2026]] — 87 % der Fakultätsangehörigen schreiben ihre eigenen Regeln gegen eine dünne institutionelle Politikebene (Watson & Rainie 2026)
+- [[edtech-privacy-deferral-2026]] — „Wir machen es später“: Bildung, KI und das Aufschieben des Datenschutzes von Studierenden in EdTech
+- [[wong-sun-agentic-ai-assessment-governance-2026]] — Keine Vergleichspolitik behandelte einen KI-Agenten, der sich in ein LMS einloggt oder Zugangsdaten von Studierenden hält (Wong & Sun 2026)

@@ -1,7 +1,7 @@
 ---
 title: "Entwicklerinnen und Entwickler von Bildungstechnologien"
 created: "2026-09-17T15:20:00-04:00"
-updated: "2026-10-10T09:04:23-04:00"
+updated: "2026-10-24T21:37:05-04:00"
 type: concept
 foundations: [educational-development, learning-design]
 technology: [learning-analytics, edtech-platform, open-source]
@@ -11,7 +11,7 @@ confidence: high
 methods: [design-based-research]
 connected_resources: [playlab]
 translation_of: concepts/educational-technology-developers
-source_updated: "2026-09-17T15:20:00-04:00"
+source_updated: "2026-10-16T06:45:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -61,6 +61,8 @@ Die Rolle ist auch von ihren Nachbarinnen und Nachbarn verschieden. [[learning-d
 
 **Erklärungen müssen die Sprache der Lehrenden sprechen.** [[xai-teachers-trust-edtech-recommendations-2026]] führte ein Within-Subject-Experiment mit 41 Chemielehrenden zu einem ML-Empfehlungswerkzeug durch: Verständlichkeit, [[trust|Vertrauen]] und Akzeptanz korrelierten positiv, und domänengetriebene Erklärungen in der Sprache des Curriculums erzeugten signifikant höhere Verständlichkeit, gelerntes [[trust-calibration|Vertrauen]] und Akzeptanz als Erklärungen über Merkmalswichtigkeit. Vertrauen war auch dynamisch – mehrere Lehrende sagten, nur Unterrichtserfahrung würde es entscheiden –, und Akzeptanz hing von pädagogischer Ausrichtung und Arbeitslastreduktion ab.
 
+**Glaubwürdigkeitssignale sind kein Beleg für Richtigkeit.** Das Hinzufügen von Zitationen und Autoritätssignalen zu einer [[agentic-ai|Multi-Agent]]-Debatte hob die Abkehr von einem korrekten Urteil zugunsten der KI-Position von 15,0% auf 31,8%, sodass die Herkunft am Nutzungspunkt prüfbar sein muss ([[tuo-armada-multi-agent-debate-overreliance-2026|Tuo et al., 2026]]).
+
 **Ko-Design auf institutionellem Maßstab.** [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of|AIDA]] an der Open University wurde über sechs designbasierte Studien in 18 Monaten mit 498 Studierenden und 20 Personalangehörigen gebaut. Etwa 20% waren anfangs skeptisch; nach praktischer Nutzung wollten 96% es behalten, und eine explorative RCT fand doppelt so viel Nutzungszeit, aber keine signifikanten Unterschiede bei Daten zum Lernprozess. Die ermöglichenden Faktoren waren organisatorisch – Unterstützung durch die Leitung, einheitsübergreifende Zusammenarbeit, dateninformierte Iteration – mit Lücken in der Kapazität zu systemischem Denken.
 
 ### Beschaffung, Offenheit und nach dem Ende der Förderung
@@ -107,3 +109,4 @@ Die Rolle ist auch von ihren Nachbarinnen und Nachbarn verschieden. [[learning-d
 - [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of]]
 - [[vocabulary-difficulty-prediction]]
 - [[shen-sustainable-ai-knowledge-base-cs-education-2026]]
+- [[tuo-armada-multi-agent-debate-overreliance-2026]] — Glaubwürdigkeitssignale erhöhten die Deferenz zu falscher KI-Ratschläge; prüfen Sie die Herkunft am Nutzungspunkt

@@ -1,7 +1,7 @@
 ---
 title: Pädagogische Sicherheit
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-10T09:04:24-04:00"
+updated: "2026-10-24T23:14:18-04:00"
 connected_faqs: [designing-educational-ai-software, equity-ethics-pedagogical-safety-research, developing-ai-tutor, ai-guidance-children-under-13, training-ai-tutors-to-guide-rather-than-answer, checking-whether-educational-ai-works]
 type: concept
 foundations: [cognitive-offloading]
@@ -98,9 +98,9 @@ Pädagogische Sicherheit ist die Schutzschicht, die [[hallucination-risk|Halluzi
 
 ## Verbundene Artikel
 
-- [[scaffolding-student-ai-dialogue-framework-2026]] — The SCAFFOLD framework for steering students-AI dialogue, with its classroom pilot
-- [[reichert-human-centered-llm-chatbot-design-teachers-2026]] — Teacher-designed safety layers: domain boundaries, filtering, and override
-- [[ssail-safe-sound-ai-learning-2026]] — SSAIL: A Design Framework for Safe and Sound AI for Learning
+- [[scaffolding-student-ai-dialogue-framework-2026]] — Das SCAFFOLD-Framework zur Steuerung des Studierenden-KI-Dialogs, mit seinem Klassenraum-Pilot
+- [[reichert-human-centered-llm-chatbot-design-teachers-2026]] — Von Lehrkräften gestaltete Sicherheitsschichten: Domänengrenzen, Filterung und Übersteuerung
+- [[ssail-safe-sound-ai-learning-2026]] — SSAIL: ein Gestaltungsrahmen für sichere und solide KI für das Lernen
 - [[eduzone-llm-safety-k12]]
 - [[eduguard-safe-rag-llm-tutor]]
 - [[hazra-safetutors-pedagogical-safety-2026]]

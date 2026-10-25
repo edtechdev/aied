@@ -1,7 +1,7 @@
 ---
 title: "Was sind bemerkenswerte Lücken in der Forschungsliteratur zu KI in der Bildung?"
 created: "2026-08-24T14:10:00-04:00"
-updated: "2026-10-10T09:50:26-04:00"
+updated: "2026-10-24T21:19:23-04:00"
 connected_faqs: [reporting-interpreting-aied-research, evaluating-ai-interventions-methods, equity-ethics-pedagogical-safety-research]
 weight: 45
 type: faq
@@ -11,10 +11,11 @@ assessment: [learning-gains]
 ethics: [equity-in-ai-education, differential-effects-across-learner-groups]
 research_method: [literature review]
 level: [higher ed]
+audience: [researchers, instructors]
 page_kind: [evaluation]
 methods: [ai-ed-evaluation, research-methods-aied]
 translation_of: faqs/research-gaps-aied
-source_updated: "2026-10-02T08:21:34-04:00"
+source_updated: "2026-10-21T14:32:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -25,8 +26,6 @@ ai_assist:
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
-
-# Was sind bemerkenswerte Lücken in der Forschungsliteratur zu KI in der Bildung?
 
 Die folgenreichsten Lücken in KI in der Bildung (AIED) betreffen **ob bestimmte Bildungsdesigns dauerhafte Vorteile erzeugen, für wen, über welche Mechanismen, und unter welchen Bedingungen –, nicht einfach, ob KI bildungswirksame Aufgaben ausführen kann**. Die Wissensbasis dokumentiert vielversprechende Interventionen neben anhaltenden Schwächen in Messung, kausaler Inferenz, Generalisierbarkeit, Implementierung und Reproduzierbarkeit. Das sind oft Lücken in der *Stärke, Spezifität oder Anwendbarkeit* von Belegen statt eine vollständige Abwesenheit von Forschung. Siehe [[limitations-in-aied-research|Grenzen in der AIED-Forschung]].
 

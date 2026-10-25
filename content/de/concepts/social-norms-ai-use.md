@@ -1,7 +1,7 @@
 ---
 title: Soziale Normen der KI-Nutzung
 created: "2026-09-23T09:54:12-04:00"
-updated: "2026-10-10T09:04:22-04:00"
+updated: "2026-10-24T21:19:23-04:00"
 connected_faqs: [course-ai-policy, reduce-ai-cheating, should-we-use-ai-detectors]
 type: concept
 foundations: [academic-integrity, framing-ai-use-for-students, learner-identity]
@@ -93,33 +93,33 @@ Die Kosten dieser Substitution zeigen sich darin, wo Lehrende und Studierende ta
 
 ## Verbundene Konzepte
 
-- [[academic-integrity]] — the formal rulebook these norms grow alongside
-- [[ai-use-disclosure]] — the practice norms regulate most directly
-- [[framing-ai-use-for-students]] — how a classroom states its expectations
-- [[reducing-ai-misuse]] — the instructional counterpart to norm-setting
-- [[learner-identity]] — who a learner is taken to be when AI use becomes visible
-- [[ai-detection]] — the technical response that mostly fails
-- [[remote-proctoring]] — surveillance as an attempted substitute for norms
-- [[trust]] — what norms and disclosure both depend on
-- [[equity-in-ai-education]] — who absorbs the social cost
-- [[help-seeking]] — the behavior shame suppresses first
-- [[group-work]] — where group norms are negotiated
-- [[student-experience]] — the lived side of all of this
-- [[anxiety-and-stress]] — the affective residue
-- [[governance]] — the formal layer these norms sit under
-- [[ethics]] — the literature that has least to say to students
+- [[academic-integrity]] — das formale Regelbuch, neben dem diese Normen wachsen
+- [[ai-use-disclosure]] — die Praxis, die Normen am direktesten regulieren
+- [[framing-ai-use-for-students]] — wie ein Klassenzimmer seine Erwartungen formuliert
+- [[reducing-ai-misuse]] — das unterrichtliche Gegenstück zur Normsetzung
+- [[learner-identity]] — wer eine lernende Person gilt, wenn KI-Nutzung sichtbar wird
+- [[ai-detection]] — die technische Antwort, die meistens scheitert
+- [[remote-proctoring]] — Überwachung als versuchter Ersatz für Normen
+- [[trust]] — worauf sowohl Normen als auch Offenlegung aufbauen
+- [[equity-in-ai-education]] — wer die sozialen Kosten absorbiert
+- [[help-seeking]] — das Verhalten, das Scham zuerst unterdrückt
+- [[group-work]] — wo Gruppennormen ausgehandelt werden
+- [[student-experience]] — die gelebte Seite von all dem
+- [[anxiety-and-stress]] — der affektive Rest
+- [[governance]] — die formale Schicht, unter der diese Normen sitzen
+- [[ethics]] — die Literatur, die Studierenden am wenigsten zu sagen hat
 
 ## Verbundene Artikel
 
-- [[student-perception-ai-use-collaboration]] — Students' perception accuracy of partners' AI use and its relation to collaboration performance
-- [[shame-guilt-ai-regulation-computing-education]] — Shame and guilt as social regulators of AI use in computing education
-- [[chirikov-regulate-ai-syllabi-2026]] — How instructors regulate AI in college: evidence from 31,000 course syllabi
-- [[vassallo-ai-guilt-complex-faculty-2026]] — The AI guilt complex: moral emotions and ethical dilemmas in academic technology adoption
-- [[agarwal-ethical-values-norms-aied-2026]] — Identifying the ethical values and norms for artificial intelligence in education
-- [[conijn-fear-big-brother-proctored-exams-2022]] — The fear of Big Brother: the potential negative side-effects of proctored exams
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] — Under surveillance: mapping remote proctoring practices in nursing assessment
-- [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] — Assessment design under imperfect information: generative AI, disclosure, and student response
-- [[teichmann-detecting-undetectable-misconduct-2026]] — Detecting the undetectable: misconduct procedures after generative AI
-- [[sobo-cheating-competing-ai-marketing-literacy-2025]] — Cheating or competing? AI in marketing education
-- [[chen-zou-genai-group-assessment-agency-2026]] — Agency in GenAI-supported group assessment
-- [[reddit-genai-education-discourse-analysis-2026]] — Reddit discourse analysis: faculty–student contact concentrates in detection and enforcement disputes (Yüce et al. 2026)
+- [[student-perception-ai-use-collaboration]] — Wahrnehmungsgenauigkeit der KI-Nutzung von Partnern und ihr Zusammenhang mit der Kollaborationsleistung
+- [[shame-guilt-ai-regulation-computing-education]] — Scham und Schuld als soziale Regulatoren der KI-Nutzung in der Informatikausbildung
+- [[chirikov-regulate-ai-syllabi-2026]] — Wie Lehrende KI im College regulieren: Evidenz aus 31.000 Kurssyllabi
+- [[vassallo-ai-guilt-complex-faculty-2026]] — Der KI-Schuldkomplex: moralische Emotionen und ethische Dilemmata bei der Übernahme akademischer Technologie
+- [[agarwal-ethical-values-norms-aied-2026]] — Ethische Werte und Normen für künstliche Intelligenz in der Bildung identifizieren
+- [[conijn-fear-big-brother-proctored-exams-2022]] — Die Angst vor Big Brother: die möglichen negativen Nebenwirkungen von beaufsichtigten Prüfungen
+- [[harerimana-remote-proctoring-nursing-scoping-2026]] — Unter Überwachung: Fern-Proctoring-Praktiken im Pflegeassessment kartieren
+- [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] — Assessment-Design unter unvollkommener Information: generative KI, Offenlegung und Reaktion der Studierenden
+- [[teichmann-detecting-undetectable-misconduct-2026]] — Das Undetektierbare aufdecken: Verfahren bei Fehlverhalten nach generativer KI
+- [[sobo-cheating-competing-ai-marketing-literacy-2025]] — Schummeln oder mithalten? KI in der Marketingausbildung
+- [[chen-zou-genai-group-assessment-agency-2026]] — Handlungsfähigkeit in GenAI-gestützter Gruppenbewertung
+- [[reddit-genai-education-discourse-analysis-2026]] — Reddit-Diskursanalyse: Fakultäts-Studierenden-Kontakt konzentriert sich auf Streit um Detektion und Durchsetzung (Yüce et al. 2026)

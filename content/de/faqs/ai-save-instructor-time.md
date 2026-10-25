@@ -1,14 +1,14 @@
 ---
 title: "Wie kann mir KI als Lehrkraft Zeit sparen?"
 created: "2026-08-25T09:20:00-04:00"
-updated: "2026-10-10T09:50:26-04:00"
+updated: "2026-10-25T00:10:53-04:00"
 connected_faqs: [ai-feedback-at-scale, faculty-ai-competencies]
 weight: 78
 foundations: [ai-literacy, educational-development, teacher-role]
 assessment: [ai-feedback-quality]
 audience: [instructors, faculty developers]
 translation_of: faqs/ai-save-instructor-time
-source_updated: "2026-10-02T08:21:34-04:00"
+source_updated: "2026-10-21T14:32:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -19,8 +19,6 @@ ai_assist:
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
-
-# Wie kann mir KI als Lehrkraft Zeit sparen?
 
 **KI eignet sich am besten für wiederholbare, risikoeärmere Entwurfs- und Transformationsarbeit, während folgenreiches bildungswirksames Urteil bei der Lehrkraft verbleibt.** Produktive Nutzungen umfassen Erstenwürfe von Unterrichtsmaterial, Beispielen, Diskussionsfragen, [[formative-assessment|formativen]] Quiz, alternativen Erklärungen, Rubriken, Feedbackvorschlägen, Zusammenfassungen, differenzierten Materialversionen und routinierter Verwaltungssprache. Der zentrale Mechanismus ist **Umverteilung, nicht Reduktion**: KI macht Zeit frei, die Lehrkräfte auf höherwertige Instruktionsarbeit richten – dieselbe Zeit kauft dann mehr individuelle Interaktion mit Studierenden, tieferes Feedback und höherstufiges Lehren.
 

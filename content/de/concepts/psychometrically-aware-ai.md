@@ -1,13 +1,13 @@
 ---
 title: Psychometrisch bewusste KI
 created: "2026-07-28T16:52:03-04:00"
-updated: "2026-10-10T09:04:22-04:00"
+updated: "2026-10-24T20:45:23-04:00"
 type: concept
 technology: [llm]
 assessment: [assessment-validity, automated-assessment, educational-measurement, item-response-theory]
 confidence: medium
 translation_of: concepts/psychometrically-aware-ai
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-23T09:20:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -45,7 +45,9 @@ Während KI-Systeme zunehmend Antworten benoten, Schwierigkeit vorhersagen und [
 - **Messvalidität:** Das Konzept verbindet sich mit [[assessment-validity]] und [[educational-measurement]], den Rahmenwerken, die definieren, wie valides, verlässliches KI-Assessment aussieht.
 - **Latentstruktur-Validität:** [[assessment-latent-structure-human-llm-2026|Strugatski et al. (2026)]] zeigen, dass eine psychometrisch bewusste Haltung auch verifizieren muss, dass ein Assessment in LLMs dasselbe *latente Konstrukt* misst wie in Menschen. Weil LLM- und menschliche Antwortfaktorstrukturen auf denselben Instrumenten divergieren, messen selbst gut benotende Modelle möglicherweise nicht das Konstrukt, das die Klausur zu messen vorgibt —, ein Vorbehalt für jedes KI-Assessment, das menschliche Validitätsbelege borgt.
 - **Ein Label kann mehr oder weniger messen, als es benennt.** Das Einbetten von 55 Konstrukten und 272 Items aus 12 KI-Kompetenz-Instrumenten brachte Jangle-Paare (dasselbe Label, verschiedene Messung) und Jingle-Paare (verschiedene Labels, nahezu identische Formulierung) an die Oberfläche und stellte Verlässlichkeit bei r = 0,49 wieder her, eine Vor-Erhebung-Prüfung, dass Konstruktunterscheidungen in Itemformulierungen überleben ([[ai-literacy-measurement-conceptual-landscape-llm-2026|He et al. (2026)]]).
+- **Eine Abhängigkeitsskala, die Ergebnis-Anker verweigert.** Vier Faktoren — reflektierende, vorsichtige, gedankenlose und kollaborative Nutzung — entstanden aus 800 Antworten und hielten über eine anders gestaltete Aufgabe hinweg (CFI = .91), und maßen Verhalten pro Aufgabenmoment, statt es als gut oder schlecht zu etikettieren ([[genai-reliance-scale-problem-solving-2026|Hou et al. (2025)]]).
 - **Latent-Fähigkeits-Pipelines und Standard-Setzung:** [[human-in-the-loop-ai-scoring-national-assessment-2026|Curi et al. (2026)]] liefern eine konkrete Vorlage für psychometrisch bewusstes Benoten in einer nationalen Klausur: Rubrik-Itemscores werden nie direkt summiert, sondern in ein [[item-response-theory|IRT]]-Modell gespeist, dessen Latent-Fähigkeits-Schätzungen mit der Bookmark-Standard-Setzungs-Methode in Proficient / Close to Proficiency / Insufficient geschnitten werden, wobei Bestehen mindestens zwei Proficient-Abschnitte erfordert und der verbliebene mindestens Close to Proficiency. Die Autoren reproduzierten diese Pipeline in automatisierter Form (eine 67%-Wahrscheinlichkeit, mindestens 7 Rubrik-Items korrekt zu beantworten für den unteren Cut und mindestens 10 für den oberen), was KI- und menschliche Itemscores gegen identische Entscheidungskriterien vergleichen lässt statt auf roher Übereinstimmung allein.
+- **Ausbalancierte Metriken fangen ein Modell, das nur kalibriert aussieht.** Die Aufforderung an GPT-4o und Gemini 2.0 Flash, Lernstildimensionen aus den Dialogen von 153 Grundstudierenden abzuleiten, erzeugte eine moderate Genauigkeit, die sich beim pro-Klasse-Recall als Mehrheitsklassen-Prädiktion erwies, wobei intuitive und globale Lernende unteridentifiziert wurden und Few-Shot-Prompting den Bias manchmal verstärkte statt beseitigte ([[learning-style-inference-bias-student-ai-dialogues-2026|Zamanifard, Goudarzi und Robb (2026)]]).
 
 ### Verbindungen
 
@@ -63,14 +65,16 @@ Psychometrisch bewusste KI sitzt an der Schnittstelle von [[educational-measurem
 - [[ai-education]]
 
 ## Verbundene Artikel
-- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — A Human-in-the-Loop Framework for AI-Assisted Scoring in Large-Scale Writing Assessment
-- [[assessment-latent-structure-human-llm-2026]] — Do assessment instruments measure the same thing for humans and LLMs? (Strugatski et al. 2026)
-- [[llm-psychometric-calibration-cdp]] — Aligning LLM assessment with psychometric calibration
-- [[llm-item-difficulty-prediction]] — LLM prediction of item difficulty
-- [[cong-confidence-asag-2026]] — Confidence-aware automatic short-answer grading
-- [[multimodal-item-parameter-estimation-2026]] — Multimodal item-parameter estimation
-- [[competency-based-education-genai-production-2026]] — Competency-based education with GenAI
-- [[ai-grading-handwritten-physics-2026]] — AI grading of handwritten physics assessments (Olympiad)
-- [[razavi-powers-item-difficulty-llm-2026]] — Estimating item difficulty using LLMs and tree-based ML
-- [[ai-literacy-measurement-conceptual-landscape-llm-2026]] — Comparing AI literacy instruments: jangle and jingle pairs across 55 constructs
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — Student Use of LLMs and the Limits of AI-Generated Question Difficulty in Data Science Courses
+- [[genai-reliance-scale-problem-solving-2026]] — Eine validierte Skala für die Abhängigkeit Studierender von generativer KI während der Problemlösung (Hou et al. 2025)
+- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — Ein Human-in-the-Loop-Rahmenwerk für KI-gestützte Benotung in der groß angelegten Schreibbewertung
+- [[assessment-latent-structure-human-llm-2026]] — Messen Assessmentinstrumente für Menschen und LLMs dasselbe? (Strugatski et al. 2026)
+- [[llm-psychometric-calibration-cdp]] — Ausrichtung der LLM-Assessmentpraxis an psychometrischer Kalibrierung
+- [[llm-item-difficulty-prediction]] — LLM-Vorhersage der Itemschwierigkeit
+- [[cong-confidence-asag-2026]] — Konfidenzbewusste automatisierte Kurzantwort-Benotung
+- [[multimodal-item-parameter-estimation-2026]] — Multimodale Schätzung von Itemparametern
+- [[competency-based-education-genai-production-2026]] — Kompetenzbasierte Bildung mit GenAI
+- [[ai-grading-handwritten-physics-2026]] — KI-Benotung handschriftlicher Physik-Assessments (Olympiade)
+- [[razavi-powers-item-difficulty-llm-2026]] — Schätzung der Itemschwierigkeit mit LLMs und baumbasiertem ML
+- [[ai-literacy-measurement-conceptual-landscape-llm-2026]] — Vergleich von KI-Kompetenzinstrumenten: Jangle- und Jingle-Paare über 55 Konstrukte
+- [[student-llm-use-ai-question-difficulty-data-science-2026]] — LLM-Nutzung durch Studierende und die Grenzen KI-generierter Fragenschwierigkeit in Data-Science-Kursen
+- [[learning-style-inference-bias-student-ai-dialogues-2026]] — Moderate Genauigkeit erwies sich bei Prüfung des Recall pro Klasse als Mehrheitsklassen-Prädiktion (Zamanifard, Goudarzi & Robb 2026)

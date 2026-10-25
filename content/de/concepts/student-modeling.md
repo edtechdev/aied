@@ -1,7 +1,7 @@
 ---
 title: "Modellierung der Lernenden und adaptive Instruktion"
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-10T09:04:24-04:00"
+updated: "2026-10-24T22:30:00-04:00"
 type: concept
 connected_faqs: [making-simulated-students-behave-like-learners]
 technology: [adaptive-learning, cognitive-diagnosis, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, personalized-learning, simulating-students, student-modeling]
@@ -84,11 +84,12 @@ Manche beabsichtigte Signale sind aus dem Dialog vielleicht überhaupt nicht zur
 
 [[edumirror-educational-social-dynamics|Lin et al. (2026)]] legen eine Zirkularität offen darin, wie solche synthetischen Lernenden validiert werden: ihre EduMirror-Agenten verabreichen psychometrische Fragebögen nachträglich und lesen Übereinstimmung mit der internen Werterepräsentation des Agenten als psychologische Validität, aber weil der Surveyor Dimensionen misst, die bereits in diesem Wertsystem kodiert sind, ist die Prüfung eine Konsistenzprüfung statt unabhängige Validierung.
 
-**Korrektheit ist nicht immer ein treues Signal.** [[deceptive-overgeneralization-adaptive-learning-2026|An, McLaren und Stamper (2026)]] zeigen, dass ein Lernendenmodell, das Meisterschaft aus korrekten Handlungen erschließt, den wahren Zustand einer lernenden Person falsch darstellen kann: Lernende, die *trügerische Übergeneralisierung* zeigen, erscheinen als meisternd, lassen aber eine kritische Anwendungsbeschränkung aus, weshalb adaptive Systeme Übung vorzeitig stoppen können. Lernendenmodelle sollten bedingtes Verständnis bewerten — einschließlich ob die lernende Person weiß, wann eine Handlung zu unterlassen ist —, nicht nur Handlungskorrektheit.
+**Korrektheit ist nicht immer ein treues Signal.** [[deceptive-overgeneralization-adaptive-learning-2026|An, McLaren und Stamper (2026)]] zeigen, dass ein Lernendenmodell, das Meisterschaft aus korrekten Handlungen erschließt, den wahren Zustand einer lernenden Person falsch darstellen kann: Lernende, die *täuschende Übergeneralisierung* zeigen, erscheinen als meisternd, lassen aber eine kritische Anwendungsbeschränkung aus, weshalb adaptive Systeme Übung vorzeitig stoppen können. Lernendenmodelle sollten bedingtes Verständnis bewerten — einschließlich ob die lernende Person weiß, wann eine Handlung zu unterlassen ist —, nicht nur Handlungskorrektheit.
 
 Verborgene Fehlvorstellungen zeigen dasselbe Versagen von der anderen Seite: [[correct-answer-trap-misconceptions|Imran und Bulathwela (2026)]] fanden, dass ein feinabgestimmter Klassifikator 57.4% der durch fehlerhaftes Schlussfolgern erreichten korrekten Antworten fing, und bei einer Prävalenz von 1.6% ließ selbst ein 83.6%-genaues Schlussfolgermodell 8 Fehlalarme pro Detektion — weshalb auf Korrektheit beruhende Meisterschaftssignale sowohl unvollständig als auch teuer zu reparieren sind.
 
 **Wie ein Modell validiert wird, ist selbst eine Validitätsfrage.** [[schuetze-knowledge-tracing-forgetting-2026|Schuetze, Yan und Carvalho (2025)]] zeigen, dass populäre Lernendenmodelle (BKT, BKT-with-Forgetting, AFM) menschliches Lernen nur zu erfassen scheinen, wenn sie rückwirkend auf einen vollständigen mehrsitzungsbasierten Datensatz angepasst werden; unter zeitbasierter (walk-forward) Kreuzvalidierung — eine künftige Sitzung aus früheren vorherzusagen, wie solche Modelle tatsächlich eingesetzt werden — überschätzen sie Leistung, verfehlen den [[retrieval-spacing-interleaving|Spacing-Effekt]] und ordnen Übungsbedingungen falsch. Weil vergessenserweiterte und vergessensfreie Modelle über Sitzungen hinweg etwa gleich abschnitten, schließen die Autoren, dass Vergessen oft in Lernendenparameter absorbiert wird statt echt repräsentiert zu sein. Die Lektion für die Familie ist, dass eine treue Repräsentation der lernenden Person so validiert werden muss, wie sie genutzt wird — und dass das Vermengen von Leistung im Moment mit langfristigem Behalten Modelle erzeugt, die genau aussehen, Lernende aber falsch darstellen.
+[[learning-style-inference-bias-student-ai-dialogues-2026|Zamanifard, Goudarzi und Robb (2026)]] zeigen dasselbe Versagen aus der Seite des Klassifikators: das Ableiten von Lernstildimensionen aus den Problemlösedialogen von 153 Studierenden im Grundstudium wirkte bei der Genauigkeit moderat, bis der Recall pro Klasse Mehrheitsklassen-Prädiktion offenlegte, wobei intuitive und globale Lernende systematisch unteridentifiziert wurden und Few-Shot-Beispiele den Bias der Mehrheitsklasse manchmal verstärkten.
 
 ## Modellierung im LLM-Zeitalter
 
@@ -133,11 +134,11 @@ Modellierung der Lernenden und adaptive Instruktion speisen [[learning-analytics
 - [[student-support-and-success]] — die Modelle unter Risikovorhersage und Zielung von Unterstützung
 
 ## Verbundene Artikel
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — Deceptive overgeneralization: adaptive mastery can stop practice before learners know when to withhold an action (An, McLaren & Stamper 2026)
-- [[causal-modeling-competency-assessment-2026]] — Causal Modeling of Support Interventions for Student Competency Assessment
-- [[turano-ai-tutoring-not-a-monolith-2026]] — AI Tutoring is Not a Monolith: What We Actually Know (Stanford SCALE/NSSA brief)
+- [[deceptive-overgeneralization-adaptive-learning-2026]] — Trügerische Übergeneralisierung: adaptive Beherrschung kann das Üben beenden, bevor Lernende wissen, wann eine Handlung zu unterlassen ist (An, McLaren & Stamper 2026)
+- [[causal-modeling-competency-assessment-2026]] — Kausale Modellierung von Unterstützungsinterventionen zur Kompetenzbewertung von Studierenden
+- [[turano-ai-tutoring-not-a-monolith-2026]] — KI-Tutoring ist kein Monolith: Was wir tatsächlich wissen (Stanford SCALE/NSSA-Brief)
 - [[learning-context-framework-context-aware-ai-education-2026]]
-- [[yasir-llm-tutoring-agents-2026]] — LLM tutors over-reject valid-alternative, over-validate incorrect (Yasir et al. 2026)
+- [[yasir-llm-tutoring-agents-2026]] — LLM-Tutoren lehnen gültige Alternativen übermäßig ab und validieren Falsches übermäßig (Yasir et al. 2026)
 - [[haiml-human-centered-ai-metacognitive-model-2026]]
 - [[at-risk-students-ml-prediction]]
 - [[correct-answer-trap-misconceptions]]
@@ -148,18 +149,19 @@ Modellierung der Lernenden und adaptive Instruktion speisen [[learning-analytics
 - [[xie-hillm-cd-2026]]
 - [[inside-llm-student-simulator-reasoning-2026]]
 - [[trace-course-grade-prediction-2026]]
-- [[sc2r-counterfactual-recourse-educational-2026]] — From Student Risk Prediction to SC2R: Counterfactual Recourse
-- [[graph-its-adaptive-algorithms-2026]] — Graph-Based Intelligent Tutoring for Dynamic Domains (2026)
-- [[distilling-self-explaining-lm-learning-analytics-2026]] — Distilling self-explaining LM for learning analytics
-- [[studentsim-llm-student-simulators]] — StudentSim: Training LLM-based Student Simulators
-- [[predicting-attrition-competitive-programming]] — Predicting Student Attrition in Competitive Programming
-- [[pradeesh-outcome-knowledge-tracing-affinity-2026]] — Outcome-based knowledge tracing with affinity mapping
+- [[sc2r-counterfactual-recourse-educational-2026]] — Von der Risikovorhersage für Studierende zu SC2R: kontrafaktischer Recourse
+- [[graph-its-adaptive-algorithms-2026]] — Graphbasiertes intelligentes Tutoring für dynamische Domänen (2026)
+- [[distilling-self-explaining-lm-learning-analytics-2026]] — Destillation eines selbst-erklärenden LM für Learning Analytics
+- [[studentsim-llm-student-simulators]] — StudentSim: Training LLM-basierter Studierenden-Simulatoren
+- [[predicting-attrition-competitive-programming]] — Vorhersage des Abbruchs von Studierenden im Wettbewerbsprogrammieren
+- [[pradeesh-outcome-knowledge-tracing-affinity-2026]] — Ergebnisbasiertes Knowledge Tracing mit Affinitätszuordnung
 - [[an-goel-self-directed-modeling-2026]]
 - [[reddig-maclellan-personalized-feedback-llm-2026]]
 - [[schuetze-knowledge-tracing-forgetting-2026]]
 - [[zhang-ml-student-progress-programming-2026]]
-- [[process-grounded-language-cognitive-diagnosis-2026]] — Beyond ID Embeddings: Process-Grounded Language Modeling for Cognitive Diagnosis
-- [[exrec-exercise-recommendation-knowledge-tracing-2025]] — compact learner state plus a calibrated tracer as a recommender environment
-- [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn: An Agentic Tutor that Learns its Learner in a Human-AI Co-Learning Loop
+- [[process-grounded-language-cognitive-diagnosis-2026]] — Jenseits von ID-Embeddings: prozessgebundene Sprachmodellierung für kognitive Diagnose
+- [[exrec-exercise-recommendation-knowledge-tracing-2025]] — kompakter Lernenden-Zustand plus ein kalibrierter Tracer als Empfehlungsumgebung
+- [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn: ein agentischer Tutor, der seine Lernenden in einer Mensch-KI-Co-Learning-Schleife lernt
 
-- [[ai-game-based-learning-systematic-review-2026]] — Stealth assessment reached AUCs of 0.848–0.913, but bias audits were near-absent across 55 studies
+- [[ai-game-based-learning-systematic-review-2026]] — Stealth-Assessment erreichte AUCs von 0.848–0.913, aber Bias-Audits waren über 55 Studien hinweg nahezu abwesend
+- [[learning-style-inference-bias-student-ai-dialogues-2026]] — Dialogbasierte Ableitung von Lernstilen scheitert an ausbalancierten Metriken (Zamanifard, Goudarzi & Robb 2026)

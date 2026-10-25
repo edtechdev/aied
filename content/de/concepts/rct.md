@@ -1,7 +1,7 @@
 ---
 title: Randomisierte kontrollierte Studie (RCT)
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-10T09:04:24-04:00"
+updated: "2026-10-24T21:41:34-04:00"
 type: concept
 foundations: [ai-education]
 technology: [generative-ai]
@@ -10,7 +10,7 @@ level: [higher ed]
 confidence: high
 methods: [research-methods-aied]
 translation_of: concepts/rct
-source_updated: "2026-10-01T20:35:10-04:00"
+source_updated: "2026-10-24T09:56:38-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -40,10 +40,12 @@ Randomisierung ist es, was eine RCT von anderen Designs unterscheidet: indem Ler
 
 - **Mikro-RCTs als Antwort auf sich schnell bewegende Technologie:** [[ai-tutoring-micro-rct-gcse-science-2026|Harrison et al. (2026)]] argumentieren, dass konventionelle groß angelegte Studien nicht mit [[edtech-platform|Plattformen]] für Tutoring Schritt halten können, die sich während einer Studie materiell verändern, und nutzen von [[teacher-role|Lehrkräften]] geführte mikro-randomisierte kontrollierte Studien über englische Sekundarschulen hinweg (644 von 929 Studierenden, die Posttests abschlossen, g = 0.33), um kausale Schätzung wiederholbar zu halten. Die Kompromisse stehen in ihrem eigenen Design: 30.7% Ausfall, [[curriculum-design|curriculum]]-ausgerichtete statt unabhängig standardisierte Ergebnisse, und nur vier Wochen Nachbeobachtung.
 - **Kausalwirksamkeitsbehauptungen:** RCTs in der AIED testen, ob ein KI-Tutor, ein Werkzeug oder eine pädagogische Behandlung Ergebnisse verbessert. [[generative-ai-education-productivity-gaps|Ein randomisiertes Experiment zu generativer KI]] mit 1,174 Teilnehmenden fand, dass GenAI bildungsbasierte Produktivitätslücken substantiell verengt und etwa drei Viertel des anfänglichen Leistungsunterschieds schließt — eine klare kausale Schätzung der Wirkung von KI.
+- **Ein Ergebnis, das nach einer Verzögerung gemessen wird, nicht am Ende der Sitzung.** 120 [[higher-ed|Studierende im Grundstudium]] wurden zufällig der KI-unterstützten oder der traditionellen Durcharbeitung derselben Themen zugewiesen, und die Behaltensleistung wurde 45 Tage später getestet: die KI-unterstützte Gruppe erzielte 57,5 % gegenüber 68,5 %, eine Lücke von etwa 11 Prozentpunkten ([[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025|Barcaui (2025)]]).
 - **Vergleich zum Goldstandard:** Die Seite [[research-methods-aied|Forschungsmethoden]] verortet RCTs als das stärkste Design für interne Validität und hält gleichzeitig ihre Kompromisse fest — Kosten, künstliche Bedingungen, sich schnell wandelnde KI, kleine unterpowerte Stichproben, und ethische Grenzen beim Vorenthalten potenziell hilfreicher Werkzeuge von einer Kontrollgruppe.
 
 - **Eine auf Äquivalenz statt Unterschied angelegte Studie.** [[studentbench-ai-human-tutoring-gre-2026|Northcutt et al. (2026)]] randomisierten 2,383 Erwachsene auf KI-Tutoring, live menschliches Tutoring oder eine Videokontrolle, schrieben neue GRE-Items mit ehemaligen Testentwicklern von ETS und Kaplan, um Kontamination durch veröffentlichte Tests herauszuhalten, kreuz-balancierten die zwei Formen, und testeten Äquivalenz mit zwei einseitigen Tests gegen ±0.25 SD statt eines Unterschieds — die Designentscheidungen, die „kein signifikanter Unterschied“ zu einem interpretierbaren Ergebnis machen.
 - **Gruppenrandomisierung, geringe Annahme, und was eine Intent-to-treat-Schätzung dann bedeutet.** [[liu-course-integrated-ai-tutoring-rct-2026|Liu et al. (2026)]] randomisierten 2,379 Studierende im Grundstudium über 13 Blöcke hinweg, indem sie *Lehrende* statt Studierende zuwiesen, sodass jede studierende Person in einem Seminar die Bedingung dieser bzw. dieses Lehrenden erbte — das Design, das eine Studie zur Einführung über mehrere Seminare machbar macht, und das die Inferenzprobleme erzeugt, die die Studie dann dokumentiert. Nur etwa 15% der Studierenden in behandelten Seminaren nutzten das Werkzeug je, sodass die berichteten Effekte das *Anbieten* von Zugang schätzen statt seiner Nutzung; die Autoren lesen die Intervention als den breiteren KI-Gebrauch, den ihre Einführung induzierte, und behandeln individuelle Sitzungen als separate Frage. Weil die Behandlung auf Ebene der Lehrenden zugewiesen wurde, ruht Inferenz auf 34 Clustern — einem Setting, in dem cluster-robuste Standardfehler die Präzision überschätzen —, sodass das Paper Randomisierungsinferenz neben ihnen berichtet und findet, dass seine Schlüsse robust sind. Die zwei Schlagzeileneffekte, ein Fall der Abschlussnoten um 0.37 SD in der Exakt-Match-Stichprobe und ein Fall der protokollierten Plattformteilnahme um 0.90 SD in beiden Stichproben, sind Konsequenzen auf Seminarebene, die eine Randomisierung pro studierender Person desselben Werkzeugs ohne Kontamination zwischen behandelten und kontrollierten Kommilitoninnen und Kommilitonen nicht hätte isolieren können.
+- **Ein freiwilliges Schulewerkzeug kann die Arbeitsbelastung auch bei einer 7-%-Dosis bewegen.** [[roy-aila-lesson-planning-teacher-choices-2026|Roy et al. (2026)]] randomisierten 464 Lehrkräfte über 108 englische Grundschulen hinweg auf Schulebene. Die Vorbereitungszeit belief sich auf 0,76 des Werts der Vergleichsgruppe (95 %-KI 0,64 bis 0,89), obwohl das Werkzeug 7 % der Stunden abdeckte und die Nutzung über die zehn Wochen abnahm, sodass die Schätzung begrenzt, was das Angebot für die Arbeitsbelastung tat, nicht was eine vollständige Annahme tun würde.
 - **Annahme begrenzt, was eine Studie testen kann, und Engagement-Unterstützung ist keine Dosis.** [[access-not-enough-ai-tutoring-2026|Robinson et al. (2026)]] führten zwei RCTs einer Leseplattform durch, bei denen nur 60.7% und 53.3% der Kontrollstudierenden die Plattform je nutzten; ein Engagement-Tutor erhöhte die gelesenen Geschichten um 71–80%, erzeugte aber keinen Leistungszugewinn, konsistent mit 2–5 Minuten pro Woche, die erreicht wurden.
 - **Skala, die Nullresultate in Evidenz verwandelt.** [[mata-sustaining-ai-enabled-student-support-2026|Mata et al. (2026)]] begleiteten 8,708 Studierende über acht Semester hinweg mit der Power, Effekte von 0.05 SD zu detektieren, und fanden große, unmittelbare Bewegung bei datierten binären Aufgaben — 34 Prozentpunkte mehr Registrierung bis zum 16. August nach einer einzigen Erinnerung —, während akademische Leistung, Persistenz und Abschluss keinen detektierbaren Effekt zeigten. Die Skala ist die Designlektion: bei diesem N sind die akademischen Nullresultate präzise Ergebnisse statt Detektionsversagen, was die Schlussfolgerung lizenziert, dass ein Kommunikationswerkzeug das bewegt, was es adressieren kann, und nicht kumulative Lernergebnisse.
 - **Ein Null-Mittelwert kann ausgleichende Heterogenität verdecken.** Eine vorregistrierte RCT, die 538 Lehrkräfte über 24 türkische Schulen auf Schule-Fachbereichs-Ebene randomisierte, fand, dass Leistung um 0.129 SD unter Lehrenden unter dem Median fiel, während sie um 0.054 unter denen über dem Median stieg, und Motivation um 0.111 SD fiel, wobei eine deckenkomprimierte Prüfung (Kontrollmittelwert 89.2/100) die Power begrenzte.([[genai-can-harm-teaching-rct-2026|Sungu, Lira & Duckworth (2026)]])
@@ -70,9 +72,12 @@ Für die ausführlichere Behandlung experimentellen Designs in der KI in der Bil
 
 ## Verbundene Artikel
 
-- [[generative-ai-education-productivity-gaps]] — Does generative AI narrow education-based productivity gaps? Evidence from a randomized experiment
-- [[genai-can-harm-teaching-rct-2026]] — Generative AI can harm teaching: an RCT
-- [[access-not-enough-ai-tutoring-2026]] — Access is not enough: human support improves engagement with AI tutoring
-- [[ai-tutoring-micro-rct-gcse-science-2026]] — Evaluating AI Tutoring at the Speed of Innovation: Practitioner-Led Micro-Randomized Trials of an AI Tutoring Platform in GCSE Science
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: AI and human tutoring yield equivalent GRE learning gains
-- [[liu-course-integrated-ai-tutoring-rct-2026]] — Group randomization by instructor: a 0.37 SD fall in final grades and a 0.90 SD fall in platform participation, with 15% uptake and inference on 34 clusters (Liu et al. 2026)
+- [[roy-aila-lesson-planning-teacher-choices-2026]] — Die Vorbereitungszeit für Stundenentwürfe fiel über 108 Grundschulen auf 0,76 des Werts der Vergleichsgruppe, bei einer 7-%-Dosis der Werkzeugnutzung
+
+- [[generative-ai-education-productivity-gaps]] — Verengt generative KI bildungsbasierte Produktivitätslücken? Evidenz aus einem randomisierten Experiment
+- [[genai-can-harm-teaching-rct-2026]] — Generative KI kann Lehren schaden: eine RCT
+- [[access-not-enough-ai-tutoring-2026]] — Zugang reicht nicht: menschliche Unterstützung verbessert das Engagement mit KI-Tutoring
+- [[ai-tutoring-micro-rct-gcse-science-2026]] — KI-Tutoring im Tempo der Innovation evaluieren: von Praxislehrkräften geführte mikro-randomisierte Studien einer KI-Tutoring-Plattform im GCSE-Naturwissenschaftsunterricht
+- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: KI- und menschliches Tutoring erzielen gleichwertige GRE-Lerngewinne
+- [[liu-course-integrated-ai-tutoring-rct-2026]] — Gruppenrandomisierung nach Lehrenden: ein Fall der Abschlussnoten um 0,37 SD und ein Fall der Plattformteilnahme um 0,90 SD, mit 15 % Annahme und Inferenz auf 34 Clustern (Liu et al. 2026)
+- [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025]] — Ein Ergebnis, das nach einer Verzögerung gemessen wird, nicht am Ende der Sitzung

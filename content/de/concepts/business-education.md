@@ -1,7 +1,7 @@
 ---
 title: Wirtschaftsbildung
 created: "2026-08-20T09:05:00-04:00"
-updated: "2026-10-10T09:04:23-04:00"
+updated: "2026-10-24T22:50:00-04:00"
 type: concept
 foundations: [ai-education, curriculum-design]
 technology: [generative-ai]
@@ -9,7 +9,7 @@ discipline: [business education]
 level: [higher ed]
 confidence: high
 translation_of: concepts/business-education
-source_updated: "2026-10-07T09:45:00-04:00"
+source_updated: "2026-10-16T08:47:09-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -45,8 +45,10 @@ KI in der Wirtschaftsbildung ist ein wachsender [[discipline-specific-aied|diszi
 - **Organisatorische Einführung.** [[alrahmi-org-drivers-ai-adoption-he-2026|Al-Rahmi (2026)]] untersuchte organisatorische und technologische Treiber der KI-Einführung in [[higher-ed|Hochschulbildung]] (unter Nutzung der Frameworks TOE und Diffusion of Innovations, n=300 Mitarbeitende), relevant dafür, wie Wirtschaftshochschulen und ihre Institutionen KI-gestützte Entscheidungsunterstützung und intelligente Lernplattformen einführen.
 - **Konversationelle Agenten in Wirtschafts-[[simulation]]sspielen.** [[conversational-agents-business-simulation-gaming-2026|Wenzel, Geiger und Liening (2026)]] entwickeln und evaluieren einen KI-verstärkten [[conversational-ai|konversationellen Agenten]] (Lara) für adaptive Unterrichtsunterstützung in Wirtschaftssimulationsspielen, die für erfahrungsbasiertes Entrepreneurship-Lernen genutzt werden. Verankert in einer [[equity-in-ai-education|Gerechtigkeit]]-durch-Design-Haltung und [[universal-design-for-learning|Universal Design for Learning]] zielt das CAIS-GBL-Framework auf kognitives, [[motivation|motivationales]], [[affective-computing|affektives]] und [[sociocultural-learning|soziokulturelles]] [[student-engagement|Engagement]], mit Evaluationen unter Lehramtsstudierenden und BSG-Teilnehmenden, die positive Wahrnehmungen kognitiver/[[community-of-inquiry|sozialer Präsenz]] und Unterstützung von [[self-regulated-learning]] zeigten — ein Modell, um [[formative-assessment|formatives]] Feedback in [[game-based-learning|simulationsbasierter]] Wirtschaftsbildung zu skalieren.
 - **Agentische GAI für komplexe angewandte Aufgaben.** [[ilieva-agentic-genai-higher-education-2026|Ilieva et al. (2026)]] entwickeln das AGAI-HE-Framework um einen **E-Commerce**-Kurs herum, in dem die Lern Aufgabe das Vergleichen von Geschäftsmodellen, das Abwägen von Markt- und Betriebseinschränkungen und das Verteidigen strategischer Empfehlungen erfordert — mehrstufige angewandte Arbeit, die Prompt-Antwort-Chatbots schlecht unterstützen. Ihre Wahrnehmungsstudie mit 130 Studierenden fand sowohl Chatbot- als auch Agenten-Unterstützung über traditionellem [[online-teaching-and-learning|E-Learning]] bewertet bei Lernverbesserung, Personalisierung, Entscheidungsunterstützung und Workflow-Organisation, doch ohne signifikanten Unterschied zwischen Agent und Chatbot, und die stärkste Zustimmung galt der Kombination aller drei Modi. Für Wirtschaftsprogramme ist die Lesart, dass Einführung eine [[curriculum-design|instruktionsdesignerische]] Frage darüber ist, wie KI-Unterstützung sequenziert und gesteuert wird, und nicht bloß ein Werkzeug-Upgrade ([[agentic-ai]]).
+- **Ein kursgebauter [[rag|RAG]]-Chatbot verschob Erwartungen, nicht Ergebnisse.** In einer semestralen [[rct|randomisierten kontrollierten Studie]] mit 454 Studierenden in einem Principles-of-Marketing-Kurs fanden [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026|Thoeni und Fryer (2026)]] keinen signifikanten Gruppen-mal-Zeit-Effekt auf Interesse, [[self-efficacy|Selbstwirksamkeit]], Engagement oder Testergebnisse, obwohl Studierende sich 0,89-mal pro Woche einloggten und die Freude mit 80,4 bewerteten.
 - **Assessment- und Benotungsinnovation ist unterforscht.** [[mesny-innovative-assessment-grading-management-2026|Mesny, Roberge-Maltais & Galy (2026)]] reviewten 58 assessmentspezifische Artikel über 20 Jahre hinweg in vier führenden Zeitschriften der Managementbildung (AMLE, JME, Management Learning, IJME) — etwa drei pro Jahr, viele in Sonderausgaben von 2010 und 2014 — und fanden Assessment und Benotung unterforscht gegenüber ihrer zentralen Rolle bei der Gestaltung von Lernen. Selbst- und Peer-Assessment dominieren den Diskurs (fast die Hälfte des Korpus, vorwiegend für [[summative-assessment|summative]] Evaluation von [[group-work|Gruppenarbeit]]); [[authentic-assessment|authentisches Assessment]] erscheint hauptsächlich über technologievermittelte [[simulation|Simulationen]] und wird oft mit [[experiential-learning|erfahrungsbasiertem Lernen]] verwechselt; während Nachbewertung, standardsbasierte Benotung und Ungrading praktisch fehlen. Die Autoren drängen Lehrende der Managementbildung, aktiver und reziprok mit diesen Innovationen umzugehen, und empfehlen inkrementelles Experimentieren (unbenotete Aufgaben, Nachbewertung für eine einzelne Aufgabe, standardsbasierte Rubriken), gestützt auf Programmebenen-Koordination und dokumentierte Evidenz im Sinne von Scholarship of Teaching and Learning.
 - **Automatisierte Bewertung wirtschaftlicher Studienleistung braucht korpusspezifische Validierung.** An 60 Marketing-Beiträgen von Studierenden aus einer BrandSim-Simulation fand [[automated-scoring-marketing-posts-agreement-2026|Li (2026)]], dass ein [[llm|LLM]] nur ICC(2,1) = .435 mit dem menschlichen Mittelwert erreichte — deterministische Regeln .091, ein gleichgewichtiger Hybrid .266 —, während das Hinzufügen von Forschenden verfasster Anker das LLM auf .846 hob, ohne irgendeinen Studierendenwert zu verändern.
+- **Eine Alternative der Wirtschaftsbildung benotet den Prozess, nicht das Thema.** In einem Degree-Apprenticeship im ersten Jahr zum Business Analyst erforderte die Benotung dokumentierte Iteration und Peer-[[collaborative-learning|Zusammenarbeit]], und Studierende, die GenAI nutzten, widerlegten deren Gegenargumente, statt sie abzugeben ([[alam-process-oriented-collaborative-essays-2026|Alam & Jackson, 2026]]).
 - **KI als erstklassiges Prozessdesign-Element lehren.** [[ai-decision-checkpoints-bpm-education-2026|Jalali (2026)]] platziert einen KI-Entscheidungs-Kontrollpunkt in jeder Phase des BPM-Lebenszyklus über sechs Module eines Kurses mit 152 Studierenden, sodass Studierende einen funktionierenden LLM-Intake-Agenten bauen und dann an einem Kontrollpunkt entdecken, dass der tatsächliche Engpass eine Warteschlange mit zwei Personen in der Betrugsermittlung ist.
 
 ## Wirtschafts- und Managementbildung
@@ -81,7 +83,7 @@ Wirtschaft ist eines der Felder, in denen die Einführung generativer KI am schn
 
 ## Verbundene Artikel
 
-- [[ai-decision-checkpoints-bpm-education-2026]] — AI-Decision Checkpoints for AI-Augmented Business Process Management: Framework and Educational Instantiation
+- [[ai-decision-checkpoints-bpm-education-2026]] — KI-Entscheidungs-Kontrollpunkte für KI-augmentiertes Business Process Management: Rahmenwerk und bildungspraktische Instanziierung
 - [[ilieva-agentic-genai-higher-education-2026]] — AGAI-HE: agentische GAI-Unterstützung in einem E-Commerce-Kurs, wahrgenommener Nutzen und Risiken (Ilieva et al. 2026)
 - [[drummond-genai-business-schools-framework-2026]] — Von Studierenden informiertes Framework für GenAI in Wirtschaftshochschulen (Drummond & Dale 2026)
 - [[espino-ai-business-education-review-2026]] — Ein Jahrzehnt KI in der Wirtschaftsbildung (Espino & Espino 2026)
@@ -92,3 +94,5 @@ Wirtschaft ist eines der Felder, in denen die Einführung generativer KI am schn
 - [[mesny-innovative-assessment-grading-management-2026]]
 - [[automated-scoring-marketing-posts-agreement-2026]] — Übereinstimmung und Fehler in der automatisierten Bewertung von Marketing-Beiträgen von Studierenden
 - [[shi-genai-experiential-learning-management-education-2026]] — drei Mechanismen generativer KI zur Rekonfiguration der Pädagogik der Managementbildung
+- [[alam-process-oriented-collaborative-essays-2026]] — Prozessorientierte kollaborative Aufsätze in einem Business-Analyst-Apprenticeship: Benotung dokumentierter Iteration, nicht des Themas
+- [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026]] — Ein kursgebauter RAG-Chatbot verschob Erwartungen, nicht Ergebnisse

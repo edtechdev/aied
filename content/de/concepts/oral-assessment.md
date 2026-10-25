@@ -1,7 +1,7 @@
 ---
 title: Mündliche Prüfung
 created: "2026-09-23T08:35:38-04:00"
-updated: "2026-10-10T09:04:24-04:00"
+updated: "2026-10-24T22:31:15-04:00"
 connected_faqs: [redesign-assessment-ai-era, ai-feedback-at-scale]
 type: concept
 foundations: [academic-integrity, critical-thinking]
@@ -10,10 +10,11 @@ technology: [generative-ai, llm, speech-and-voice-technologies]
 assessment: [assessment, assessment-validity, authentic-assessment, automated-assessment, ai-detection]
 ethics: [trust]
 audience: [instructors, administrators]
+connected_resources: [code-viva]
 level: [higher ed]
 confidence: medium
 translation_of: concepts/oral-assessment
-source_updated: "2026-09-30T16:25:27-04:00"
+source_updated: "2026-10-23T09:49:58-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -58,6 +59,8 @@ Die Formate im Korpus umspannen eine breite Palette von Automatisierung und Sync
 
 **Mündliche Evidenz als Verteidigung statt als Prüfung.** [[tool-invariant-framework-agentic-ai|Ein werkzeuginvarianter Prüfungsrahmen]] paart KI-freie Quizze im Klassenraum mit zehnminütigen mündlichen Verteidigungen kommentarbereinigter, KI-unterstützter Arbeit, bewertet nach Code-Verständnis, Methodenverständnis, Terminologie, Interpretation und Verifikation, wobei Verifikation unabhängig von der Gesamtwertung zum Bestehen verlangt ist. Das Design ist argumentiert statt validiert; die eigene Arithmetik des Papiers für 15 Studierende ist zweieinhalb Kontaktstunden pro Aufgabe und etwa 28 Kontaktstunden pro Semester über elf verteidigte Aufgaben.
 
+Das Interaktionsformat entscheidet, was eine KI-vermittelte Sprechaufgabe zertifizieren kann. Die Dialogaufgaben des Duolingo English Test, 713 davon im Pilotversuch, verlangten Antwortauswahl statt reaktivem Sprechen, was die Rezensentinnen und Rezensenten als Fehlpassung zwischen den kognitiven Anforderungen der Aufgabe und dem Konstrukt argumentieren, das der Test zu messen behauptet ([[ai-second-language-listening-speaking-assessment-2025|Goh & Aryadoust (2025)]]).
+
 ## Angst, Bias, und wen das Format benachteiligt
 
 Für mündliche Prüfungen wird aus Inklusionsgründen argumentiert, weil eine gesprochene Antwort schwerer zu kaufen ist als eine geschriebene, und aus denselben Gründen dagegen. [[fenton-oral-exams-ai-authentic-assessment-2025|Fenton]] katalogisiert die Herausforderungen direkt: Planungslast, Angst, und Bias entlang Geschlecht, Ethnizität, Sprache und Antwortgeschwindigkeit, plus die Effekte nicht-anonymer Bewertung. Dagegen legt die vom Papier angeführte Evidenz nahe, dass mündliche Prüfungen so inklusiv wie schriftliche Prüfungen sein können, einschließlich für Studierende mit Legasthenie, und dass Unvertrautheit statt das Format selbst den größten Teil der berichteten Angst treibt; Studierende in einer angeführten Studie waren bei ihren späteren mündlichen Prüfungen weniger ängstlich.
@@ -71,6 +74,10 @@ Was als mündliche Evidenz zählt, ist auch enger, als es aussieht. [[multimodal
 Drei Befunde sprechen dagegen, mündliche Werte als Lerngewinne zu lesen. [[asynchronous-oral-assessment-2026|Die Studie zum asynchronen Format]] verzichtet für ihren eigenen Wertvorteil auf Lerngewinne und berichtet Übereinstimmung zwischen Lehrenden- und Modell-Neubewertung von ICC 0.73 bei der Zwischenprüfung und 0.60 beim Abschluss, was begrenzt, wie weit maschineller Bewertung vertraut werden kann. In [[ai-standardized-patient-scaffolding-medical-2026|einem RCT mit 100 Medizinstudierenden im dritten Jahr]], der ein System simulierter Patientinnen und Patienten gegen progressiv-offenlegendes Fallmaterial verglich, stieg die Abschlussprüfungsleistung (71.8 gegenüber 55.6%, Hedges' g = −0.81) und stiegen die OSCE-Kommunikationsbewertungen (3.53 gegenüber 2.64 auf einer Fünf-Punkte-Skala), während die binäre diagnostische Genauigkeit statistisch identisch blieb (84 gegenüber 86%, P = 1.000). Eine nur-genauigkeits-Lesart würde die Intervention null nennen; eine nur-kommunikations-Lesart würde sie transformativ nennen.
 
 Die bindende Restriktion ist Personal und Hardware statt Pädagogik, und das Korpus ist ungewöhnlich offen über die Arithmetik: 28 Kontaktstunden pro Semester für 15 Studierende, elf Lehrende für eine Klasse über 100 im CS1-Design, und ein Laptop, der 12 gleichzeitige Lernende im Offline-Berufseinsatz bedient. Kein randomisierter Versuch mündlicher gegenüber schriftlicher Prüfung existiert irgendwo in diesem Werkkörper, und jede Studie, die den Unterschied misst, ist ein Einzelinstituts-Design ohne Kontrollgruppe. Mündliche Prüfung ist gut gestützt als Antwort auf KI-unterstützte Substitution, und dünn gestützt als Verbesserung des Lernens.
+
+Kein Format hat in diesem Trade-off einen festen Platz: Die Beobachtbarkeit der mündlichen Prüfung ist eine Designentscheidung, und ihre Machbarkeitskosten sind eines, das ein Programm verteilt statt annimmt — Machbarkeit ist eine pädagogische Priorität, nicht die Restriktion, die gute Praxis erodiert ([[assessment-feedback-trilemma-model-2026|Pedlow et al. (2026)]]).
+
+Auch die Integritätsbegründung der Mündlichen ist zeitlich begrenzt: [[corbin-ai-glasses-wearable-ai-assessment-2026|Corbin et al. (2026)]] argumentieren, dass KI-Brillen und Ohrstöpsel verdeckte Echtzeit-Hinweise innerhalb eines Live-Viva liefern können, weil tragbare KI weder eine Blickverlagerung noch ein erkennbares Signal erzeugt, sodass interaktive Mündliche nicht länger immun sind.
 
 
 - **Die Skalendecke ist die Gestaltungsrestriktion.** In einem Workshop mit 73 [[cs-education|Informatik]]-Lehrenden wurde mündliche und interaktive Prüfung als die stärkste verfügbare Evidenz individuellen Verständnisses und als die am wenigsten skalierbare Abhilfe berichtet; die von Teilnehmenden beschriebenen Abmilderungen waren Verteilung und Stichprobenziehung —, geteilte Lehrenden-Pools, Peer-Prüfung unterhalb einer Abschlussprüfung gewichtet, und einen rotierenden Teil der Studierenden aufrufen ([[computing-assessment-genai-workshop-report-2026|Akbar et al., 2026]]).
@@ -92,14 +99,18 @@ Die bindende Restriktion ist Personal und Hardware statt Pädagogik, und das Kor
 
 ## Verbundene Artikel
 
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — Reconsidering the use of oral exams and assessments (Fenton 2025)
-- [[asynchronous-oral-assessment-2026]] — Asynchronous oral assessments: integrity, engagement and professional communication
-- [[ai-supported-oral-assessment-tvet-2026]] — Designing AI-supported oral assessment in vocational education
-- [[aivaluate-anxiety-assessment-2026]] — Anxiety and experience in AI-mediated performance-based assessment
-- [[code-review-genai-cs1]] — Oral code review interviews in an introductory programming course
-- [[multimodal-embodied-cognition-oral-explanations-2026]] — Gesture as evidence in assessing oral explanations
-- [[socratic-tests-conversational-assessment]] — Automated conversational testing as oral assessment
-- [[tool-invariant-framework-agentic-ai]] — Oral defenses of AI-assisted work
-- [[ai-standardized-patient-scaffolding-medical-2026]] — Spoken clinical interviews under a simulated-patient system
-- [[pgr-students-genai-uses-qualitative-2026]] — The doctoral viva under generative AI
-- [[computing-assessment-genai-workshop-report-2026]] — AI Can Do Your Homework. Now What? Report from an online workshop on computing assessment in the age of generative AI
+- [[ai-second-language-listening-speaking-assessment-2025]] — Nicht-verzweigende KI-Dialogaufgaben verfehlen die Passung zwischen Aufgabenanforderungen und dem Sprechkonstrukt
+- [[corbin-ai-glasses-wearable-ai-assessment-2026]] — Live-Vivas sind nicht mehr immun: KI-Brillen und Ohrstöpsel liefern verdeckte Echtzeit-Hinweise (Corbin, Sharpe & Dawson 2026)
+
+- [[fenton-oral-exams-ai-authentic-assessment-2025]] — Die Nutzung mündlicher Prüfungen und Assessments neu bedenken (Fenton 2025)
+- [[asynchronous-oral-assessment-2026]] — Asynchrone mündliche Assessments: Integrität, Engagement und professionelle Kommunikation
+- [[ai-supported-oral-assessment-tvet-2026]] — KI-unterstütztes mündliches Assessment in der beruflichen Ausbildung gestalten
+- [[aivaluate-anxiety-assessment-2026]] — Angst und Erleben bei KI-vermitteltem performanzbasiertem Assessment
+- [[code-review-genai-cs1]] — Mündliche Code-Review-Interviews in einem Einführungsprogrammierkurs
+- [[multimodal-embodied-cognition-oral-explanations-2026]] — Gestik als Evidenz bei der Bewertung mündlicher Erklärungen
+- [[socratic-tests-conversational-assessment]] — Automatisiertes konversationelles Testen als mündliche Prüfung
+- [[tool-invariant-framework-agentic-ai]] — Mündliche Verteidigungen KI-unterstützter Arbeit
+- [[ai-standardized-patient-scaffolding-medical-2026]] — Gesprochene klinische Interviews unter einem System simulierter Patientinnen und Patienten
+- [[pgr-students-genai-uses-qualitative-2026]] — Das Doktorviva unter generativer KI
+- [[computing-assessment-genai-workshop-report-2026]] — KI kann Ihre Hausaufgaben machen. Und nun? Bericht eines Online-Workshops zum Assessment in der Informatik im Zeitalter generativer KI
+- [[assessment-feedback-trilemma-model-2026]] — Bestreitet jedem Format einen festen Platz und rahmt Machbarkeit als pädagogische Priorität neu

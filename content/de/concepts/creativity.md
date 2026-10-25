@@ -1,7 +1,7 @@
 ---
 title: Kreativität
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-10-10T09:04:24-04:00"
+updated: "2026-10-24T20:56:30-04:00"
 type: concept
 foundations: [critical-thinking, design-thinking]
 pedagogy: [constructivist, problem-solving]
@@ -99,19 +99,18 @@ Kreativität verbindet sich mit [[critical-thinking|kritischem Denken]] und mit 
 - [[scaffolding]]
 - [[arts-design-and-media-education]]
 ## Verbundene Artikel
-- [[caeai-genai-architectural-design-creative-self-efficacy-2026]] — GenAI image generation left design performance unchanged but lowered general creative self-efficacy
-- [[bicer-genai-pd-math-creativity-2026]] — How generative AI guided-professional development supports teachers' engagement with mathematical creativity, content knowledge, and pedagogical content knowledge
-- [[incipit-axiom-grounded-scaffolding-literary-creation-2026]] — Axiom-grounded scaffolding for literary creation: premises as the unit between theme and text, validated only in plan (Liu & Zhao 2026)
-- [[jin-emergent-learner-agency-implicit-hai-2026]] — Emergent learner agency in implicit human-AI collaboration: supportive vs. contrarian personas
-- [[chatgpt-critical-creative-thinking-review]] — ChatGPT and Critical and Creative Thinking: Systematic Review
-- [[enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen]] — Robot-LLM Integration and Creative Writing
-- [[t2i-competence-paradox-2026]] — The competence paradox of text-to-image AI among art and design students
-- [[mujib-ai-ibl-creative-math-2026]] — AI-supported inquiry-based learning and creative mathematical performance
-- [[flowcode-ai-creative-coding]] — Flowcode: an AI-powered environment scaffolding iteration in creative computing
-- [[trikonet-trivalence-co-creativity-2026]] — TriKoNet: trivalence model of potential co-creativity in socio-technical networks
-- [[genai-creativity-k12-scoping-review-2026]] — PRISMA scoping review of 45 K–12 studies: four GenAI uses for creativity, homogenization, and the measurement gap
-
-- [[genai-dependence-research-creativity-2026]] — Functional versus existential GenAI dependence and research creativity in 1,157 graduate students
-- [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] — Matched creativity, divergent neural engagement: children vs. adults talking with ChatGPT in an fMRI scanner
-- [[ai-exemplar-attribution-creativity-education-2026]] — Supporting creativity education in the age of AI: The role of perceived exemplar source
-- [[ai-dependence-creativity-motivation-literacy-2026]] — AI dependence and four motivations for use relate divergently to self-reported creativity (Hou et al. 2026)
+- [[caeai-genai-architectural-design-creative-self-efficacy-2026]] — GenAI-Bildgenerierung ließ die Designleistung unverändert, senkte aber die allgemeine kreative Selbstwirksamkeit
+- [[bicer-genai-pd-math-creativity-2026]] — Wie von generativer KI geleitete professionelle Entwicklung das Engagement von Lehrkräften für mathematische Kreativität, Inhaltswissen und pädagogisches Inhaltswissen stützt
+- [[incipit-axiom-grounded-scaffolding-literary-creation-2026]] — Axiomverankertes Scaffolding für literarische Schöpfung: Prämissen als die Einheit zwischen Thema und Text, nur im Plan validiert (Liu & Zhao 2026)
+- [[jin-emergent-learner-agency-implicit-hai-2026]] — Emergente Handlungsfähigkeit von Lernenden in impliziter Mensch-KI-Zusammenarbeit: unterstützende vs. konträre Personas
+- [[chatgpt-critical-creative-thinking-review]] — ChatGPT und kritisches und kreatives Denken: systematischer Review
+- [[enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen]] — Integration von Roboter und LLM und kreatives Schreiben
+- [[t2i-competence-paradox-2026]] — Das Kompetenzparadox der Text-zu-Bild-KI bei Kunst- und Designstudierenden
+- [[mujib-ai-ibl-creative-math-2026]] — KI-gestütztes forschungsbasiertes Lernen und kreative mathematische Leistung
+- [[flowcode-ai-creative-coding]] — Flowcode: eine KI-gestützte Umgebung, die Iteration im kreativen Rechnen unterstützt
+- [[trikonet-trivalence-co-creativity-2026]] — TriKoNet: Trivalenz-Modell potenzieller Ko-Kreativität in soziotechnischen Netzwerken
+- [[genai-creativity-k12-scoping-review-2026]] — PRISMA-Scoping Review von 45 K–12-Studien: vier GenAI-Nutzungen für Kreativität, Homogenisierung und die Messlücke
+- [[genai-dependence-research-creativity-2026]] — Funktionale versus existenzielle GenAI-Abhängigkeit und Forschungskreativität bei 1.157 Promotionsstudierenden
+- [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] — Gleiche Kreativität, divergente neuronale Beteiligung: Kinder vs. Erwachsene im Gespräch mit ChatGPT im MRT-Scanner
+- [[ai-dependence-creativity-motivation-literacy-2026]] — KI-Abhängigkeit und vier Nutzungsmotivationen hängen divergierend mit selbstberichteter Kreativität zusammen (Hou et al. 2026)
+- [[ai-exemplar-attribution-creativity-education-2026]] — Kreativitätsbildung im KI-Zeitalter unterstützen: die Rolle der wahrgenommenen Exemplar-Quelle

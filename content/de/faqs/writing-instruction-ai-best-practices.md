@@ -1,15 +1,16 @@
 ---
 title: "Was sind Best Practices für Schreibunterweisung im Kontext von KI?"
 created: "2026-09-12T08:13:03-04:00"
-updated: "2026-10-10T09:50:26-04:00"
+updated: "2026-10-24T20:58:00-04:00"
 connected_faqs: [ai-feedback-at-scale, redesign-assessment-ai-era, addressing-common-misconceptions-ai-education]
 foundations: [academic-integrity, cognitive-offloading]
 assessment: [ai-feedback-quality, assessment-validity, evaluative-judgment, feedback-literacy, peer-assessment]
 ethics: [ai-use-disclosure, multilingual-learning]
 weight: 80
+audience: [instructors, instructional designers]
 discipline: [engineering education, humanities education, writing education]
 translation_of: faqs/writing-instruction-ai-best-practices
-source_updated: "2026-10-02T08:21:34-04:00"
+source_updated: "2026-10-21T14:32:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:

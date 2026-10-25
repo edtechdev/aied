@@ -1,7 +1,7 @@
 ---
 title: Eltern und Familien
 created: "2026-09-16T14:29:36-04:00"
-updated: "2026-10-10T09:04:25-04:00"
+updated: "2026-10-24T22:30:00-04:00"
 type: concept
 foundations: [ai-literacy]
 technology: [conversational-ai]
@@ -99,18 +99,18 @@ Ein Scoping-Review 2026 kartiert, wie weit das Feld gekommen ist. [[llm-family-e
 
 ## Verbundene Artikel
 
-- [[ai-connectedness-adolescent-mental-health-2026]] — Adolescent AI connectedness and when AI bonding substitutes for unmet caregiver recognition
+- [[ai-connectedness-adolescent-mental-health-2026]] — KI-Verbundenheit Heranwachsender und wann KI-Bindung ungedeckte Anerkennung durch Betreuungspersonen ersetzt
 
 - [[paratutor-parent-child-tutoring]] — rollengetrennte LLM-Unterstützung für 23 Eltern-Kind-Dyaden in chinesischem Hausmathematikunterricht
 - [[liao-role-adaptive-ai-companion-book-talk-2026]] — Begleiter mit fester Peer-Rolle gegenüber Lehrkraft mit 19 Grundschulkindern in Taiwan
 - [[family-school-autonomy-support-genai-2026]] — Review, der Familie-Schule-Koordination als ungeprüfte Hypothese behandelt
-- [[raise-framework-ai-education-reporting-2026]] — reporting obligations covering consent, participant context and equity of access
-- [[k12-teachers-ai-companion-literacy-2026]] — 33 teachers on jurisdiction, parents and children's relationships with AI companions
-- [[ai-play-framework-early-childhood-2026]] — unplugged AI literacy tested through a family-centered Hour of Code event
-- [[all-girls-genai-makerspace-gender-equity-2026]] — parents among interviewees; tool cost and language barriers in informal settings
-- [[creative-project-approach-ai-early-childhood-2025]] — physical agents for young children, with cost, access and privacy caveats
+- [[raise-framework-ai-education-reporting-2026]] — Berichtspflichten zu Zustimmung, Teilnehmendenkontext und Gerechtigkeit des Zugangs
+- [[k12-teachers-ai-companion-literacy-2026]] — 33 Lehrende zu Zuständigkeit, Eltern und den Beziehungen von Kindern zu KI-Begleitern
+- [[ai-play-framework-early-childhood-2026]] — Unplugged-KI-Kompetenz, getestet durch ein familienzentriertes Hour-of-Code-Event
+- [[all-girls-genai-makerspace-gender-equity-2026]] — Eltern unter den Befragten; Werkzeugkosten und Sprachbarrieren in informalen Settings
+- [[creative-project-approach-ai-early-childhood-2025]] — physische Agenten für junge Kinder, mit Vorbehalten zu Kosten, Zugang und Privatsphäre
 - [[demir-akar-ai-media-literacy-children-2026]] — Schulprogramm zu Datenschutz, sicherer Kommunikation und Medienethik bei 36 Viertklässlerinnen und Viertklässlern
 - [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — Aufnahme stieg von 45% auf 83%, als familienbezogene Schritte entfernt wurden
-- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — homework outsourcing, exam declines and the case for monitoring inputs
+- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — Auslagerung von Hausaufgaben, Notenrückgang und das Argument für die Überwachung von Eingaben
 - [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]] — altersagnostische KI-Kompetenzstufen und die dreistufige digitale Kluft
-- [[llm-family-education-activity-theory-2026]] — Characterizing LLM-Based Family Education through the Lens of Activity Theory: A Scoping Review of the HCI Literature
+- [[llm-family-education-activity-theory-2026]] — LLM-basierte Familienbildung durch die Linse der Aktivitätstheorie charakterisieren: ein Scoping Review der HCI-Literatur

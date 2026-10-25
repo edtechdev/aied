@@ -1,7 +1,7 @@
 ---
 title: Pädagogische Agenten
 created: "2026-08-08T11:47:01-04:00"
-updated: "2026-10-10T09:04:23-04:00"
+updated: "2026-10-24T21:19:23-04:00"
 type: concept
 pedagogy: [scaffolding, student-ai-interaction]
 technology: [generative-ai, intelligent-tutoring, llm, personalized-learning]
@@ -11,7 +11,7 @@ level: [higher ed, k 12]
 confidence: medium
 connected_faqs: [ai-agents-support-students-instructors]
 translation_of: concepts/pedagogical-agent
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-24T06:24:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -61,6 +61,8 @@ Eine komplementäre Nutzung rollenbasierter Agenten zielt auf [[teacher-educatio
 **Evaluation und Benchmarks.** Einen pädagogischen Agenten zu messen erfordert, Pädagogik zu testen, nicht Inhalt. [[teaching-monster-pck-benchmark-2026|Die Teaching Monster Challenge]] benchmarkt Pedagogical Content Knowledge, indem sie Agenten bittet, eine Lektion an eine spezifizierte Lernenden-Persona anzupassen, und findet Systeme stark im Inhalt, aber schwach darin, ihn anzupassen –, wobei sie offenlegt, dass LLM-Richter starke Systeme falsch einordnen. [[chen-teacharena-language-agents-realistic-teaching-2026|EduAgentBench]] evaluiert Agenten über professionelles pädagogisches Urteil, [[situated-learning|situiertes]] Mehrfachumdrehungs-Tutoring und Canvas-Stil-Arbeitsablaufvervollständigung hinweg und zeigt, dass Modelle hinter professionellen Lehrstandards zurückbleiben. [[ai-generated-interactive-fiction-education-2026|KI-generierte interaktive Fiktion]] ergänzt einen Design-Evaluationswinkel: Kohärenz und Quiz-Integration, nicht Generierungsfähigkeit, begrenzen die Nützlichkeit für [[student-experience|das Erleben der Studierenden]].
 **Persona-Robustheit über mehrere Umdrehungen stress-testen.** [[adversarial-stress-testing-role-playing-agents|Shouqi et al. (2026)]] führten sechs eskalierende Angriffe gegen Rollenspielagenten mit einem automatischen Richter aus: Multi-Strategie-Tests senkten die Robustheit um 0,17–0,20 gegenüber einer Einzelstrategie-Baseline, und kritische Fehler häuften sich nach Umdrehung 5–6, daher überschätzen kurze oder Einzelumdrehungs-Evaluationen Persona-Stabilität und ethische Bindung.
 
+- **Ein Peer-Agent, dessen fehlbare Vorschläge der Punkt sind.** Copa paart log kontextualisierte Abrufe mit GPT-4o und einer fünfzehn-Chunk großen aufgabenbezogenen Wissensbasis und fasst jedes Studierendensegment agentisch zusammen: Es vergleicht das Modell der studierenden Person mit einer Expertinnenversion, diagnostiziert das geäußerte Problem und benennt, was abzurufen ist. In einer Klassenzimmerstudie mit 16 Studierenden und zwei Fokusgruppen sagten alle Teilnehmenden, seine Anleitung unterstütze ihr Problemlösen und sei akkurat, und alle würden ihn wieder nutzen. Mehrere baten auch um direkte Antworten, und manche gingen davon aus, ein Vorschlag sei richtig, bis ihr Modell schlechter wurde. Die Autoren lesen das als den Preis dafür, einen Agenten so zu entwerfen, dass er zur Bewertung anstößt, statt zu antworten ([[cohn-lc-rag-log-contextualized-retrieval-2025|Cohn et al., 2025]]).
+
 ## Praktische Anleitung
 
 Gestalten Sie für die Handlungsfähigkeit des Lernenden, nicht für die Bequemlichkeit des Modells. Begünstigen Sie tutoringspezifische Leitplanken – [[scaffolding|Scaffolding]], Hinweise, [[socratic-method|sokratisches Fragen]], [[misconceptions|Fehlvorstellungen]]-Adressierung – gegenüber roher Antwortgenerierung, da Lösen und Lehren divergieren. Verteilen Sie Unterstützung nach Nutzendenrolle (Elternteil gegenüber Kind, Peer gegenüber Peer) statt über ein einzelnes generisches Interface, und behandeln Sie Zusammenarbeit als gültiges Ziel für Scaffolding. Nehmen Sie nicht an, dass Studierende Scaffolding aufnehmen; evaluieren Sie Übernahme in echten Kontexten. Bauen Sie [[human-in-the-loop-ai|menschliche Aufsicht]] in das Autorenverfahren ein –, wie [[ai-tutor-authoring-promptdecipher|PromptDecipher]] es tut, indem es Lehrenden-QA von Bot-Antworten zu einer erstklassigen Aktivität macht –, und wählen Sie günstigere Backends, wo die Qualität hält. Berichten Sie Lehren- und Lösen-Scores separat, und validieren Sie generierte Inhalte mit Nutzenden, statt anzunehmen, Generierung sei gleich Nützlichkeit.
@@ -99,8 +101,8 @@ Besseres Feedback ist nicht dasselbe wie besseres Lernen: Das Anpassen eines Age
 - [[teacher-role]]
 
 ## Verbundene Artikel
-- [[wang-teacher-student-centered-agents-physics-2026]] — Student-centered agent role outperforms teacher-centered role across performance, load, flow, and empathy (Wang et al. 2026)
-- [[aclime-pedagogical-agents-extended-reality-2026]] — ACLIME: conceptual framework for pedagogical agents in AR/VR — tutor vs role-playing partner, realism, presence, cognitive load (Ross & Kaspar 2026)
+- [[wang-teacher-student-centered-agents-physics-2026]] — Die studierendenzentrierte Agentenrolle schlägt die lehrkraftzentrierte Rolle in Leistung, Last, Fluss und Empathie (Wang et al. 2026)
+- [[aclime-pedagogical-agents-extended-reality-2026]] — ACLIME: konzeptueller Rahmen für pädagogische Agenten in AR/VR — Tutor versus Rollenspielpartner, Realismus, Präsenz, kognitive Last (Ross & Kaspar 2026)
 - [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]]
 - [[ai-student-engagement-online-learning-review-2025]]
 - [[ai-generated-interactive-fiction-education-2026]]
@@ -122,16 +124,16 @@ Besseres Feedback ist nicht dasselbe wie besseres Lernen: Das Anpassen eines Age
 - [[paratutor-parent-child-tutoring]]
 - [[agents-that-teach-incidental-learning]]
 - [[ai-tutor-authoring-promptdecipher]]
-- [[educasim-cs1-instructional-practice]] — EducaSim: generative student agents for instructional practice
-- [[conversational-ai-agents-umbrella-review-2026]] — Umbrella review of conversational AI agents in education
-- [[conversational-agents-novice-programmers-scoping-2025]] — Scoping review of conversational agents for novice programmers
-- [[ba-ai-agents-cscl-review-2026]] — AI agents in computer-supported collaborative learning review
-- [[kim-ai-productive-failure-adult-2026]] — Designing AI Systems to Support Productive-Failure-Based Learning
-- [[preferred-scaffolding-ai-mathematical-modeling]] — Preferred scaffolding in AI-supported mathematical modeling
-- [[llm-adaptive-programming-error-explanations-2026]] — LLM adaptive explanations of programming errors
-- [[liao-role-adaptive-ai-companion-book-talk-2026]] — Role-adaptive AI companion for elementary book talk; affective ceiling of fixed-role agents (Liao 2026)
-- [[ethics-training-agents-group-ethics-discussion-2026]] — Ethics Training Agents: Facilitating Group-Based Ethics Education with Role-Playing and Discussion for Ethical Reflection and Exploration
+- [[educasim-cs1-instructional-practice]] — EducaSim: generative Studierendenagenten für die Unterrichtspraxis
+- [[conversational-ai-agents-umbrella-review-2026]] — Umbrella-Review konversationeller KI-Agenten in der Bildung
+- [[conversational-agents-novice-programmers-scoping-2025]] — Scoping Review konversationeller Agenten für Programmieranfänger
+- [[ba-ai-agents-cscl-review-2026]] — Review zu KI-Agenten im computerunterstützten kollaborativen Lernen
+- [[kim-ai-productive-failure-adult-2026]] — Gestaltung von KI-Systemen zur Unterstützung auf produktivem Scheitern beruhenden Lernens
+- [[preferred-scaffolding-ai-mathematical-modeling]] — Bevorzugtes Scaffolding in KI-gestützter mathematischer Modellierung
+- [[llm-adaptive-programming-error-explanations-2026]] — LLM adaptive Erklärungen von Programmierfehlern
+- [[liao-role-adaptive-ai-companion-book-talk-2026]] — Rollenadaptiver KI-Begleiter für Buchgespräche in der Grundschule; affektive Obergrenze von Agenten mit fester Rolle (Liao 2026)
+- [[ethics-training-agents-group-ethics-discussion-2026]] — Ethics Training Agents: Gruppenbasierte Ethikbildung mit Rollenspiel und Diskussion für ethische Reflexion und Erkundung
 
-- [[teachers-configure-educational-chatbots-2026]] — Will It Teach as Intended? How Teachers Configure Educational AI Chatbots
+- [[teachers-configure-educational-chatbots-2026]] — Wird es so lehren wie beabsichtigt? Wie Lehrkräfte KI-Chatbots für die Bildung konfigurieren
 
-- [[agent-type-feedback-style-self-directed-learning-2026]] — Customized agent raised feedback quality but not self-regulation or outcomes; gain edge only under directive feedback
+- [[agent-type-feedback-style-self-directed-learning-2026]] — Angepasster Agent erhöhte die Feedbackqualität, nicht aber Selbstregulation oder Ergebnisse; Gewinnvorteil nur bei direktivem Feedback

@@ -2,7 +2,7 @@
 connected_resources: [vibes-diy]
 title: Konstruktivismus
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-10-10T09:04:22-04:00"
+updated: "2026-10-24T21:28:11-04:00"
 type: concept
 foundations: [learning-design]
 pedagogy: [active-learning, collaborative-learning, experiential-learning, learning-theories, scaffolding, self-regulated-learning]
@@ -110,7 +110,7 @@ Der Konstruktivismus prägt auch, wie KI-Kompetenz selbst gelehrt wird. Wenn Wis
 4. **Handlungsfähigkeit und Transfer der Lernenden studieren.** Konstruktivistische Verpflichtungen implizieren, nicht nur unmittelbare Testzuwächse zu evaluieren, sondern ob Lernende ihr konstruiertes Verstehen transferieren und unabhängig anwenden können.([[research-methods-aied]])
 
 ## Verbundene Konzepte
-- [[community-of-inquiry]] — Community of Inquiry (gegründet in konstruktivistischem/Deweyschem Pragmatismus)
+- [[community-of-inquiry]] — Untersuchungsgemeinschaft (gegründet in konstruktivistischem/Deweyschem Pragmatismus)
 - [[cognitive-psychology]] — Kognitivismus, der dritte klassische Pol der Lerntheorie
 - [[active-learning]]
 - [[learning-by-teaching]]
@@ -153,7 +153,7 @@ Der Konstruktivismus prägt auch, wie KI-Kompetenz selbst gelehrt wird. Wenn Wis
 - [[ojeda-ramirez-community-based-ai-learning]]
 - [[vargas-ai-catalyst-situated-learning-2026]]
 - [[niari-ai-pedagogical-mediator-collaborative-learning]]
-- [[educational-robotics-pathways-2026]] — Pathways to Learning AI-Powered Educational Robotics (2026)
+- [[educational-robotics-pathways-2026]] — Pfade zum Lernen mit KI-gestützter Bildungsrobotik (2026)
 - [[cogevolution-student-cognitive-evolution-agent-2026]] — CogEvolution: generativer Agent, der die kognitive Evolution von Studierenden simuliert
 
 - [[synthetic-position-self-authorship-2026]] — Simulierte KI-Gegenpositionen proben die Form des Dialogs, enthalten aber den Widerstand vor, der Revision erzwingt

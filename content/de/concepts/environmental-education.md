@@ -1,7 +1,7 @@
 ---
 title: "Umweltbildung"
 created: "2026-09-20T12:40:00-04:00"
-updated: "2026-10-10T09:04:22-04:00"
+updated: "2026-10-24T23:55:00-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [inquiry-based-learning, situated-learning, critical-pedagogy]
@@ -11,7 +11,7 @@ institutions: [educational-policy-ai, governance]
 discipline: [environmental education]
 confidence: medium
 translation_of: concepts/environmental-education
-source_updated: "2026-09-20T12:40:00-04:00"
+source_updated: "2026-10-21T21:15:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -22,6 +22,8 @@ ai_assist:
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
+
+> **Umweltbildung** — Lehre über Klima, Nachhaltigkeit und die natürliche Welt, die in [[ai-education|KI in der Bildung]] zugleich zwei Dinge geworden ist: ein Fachgegenstand, den KI durch [[inquiry-based-learning|Inquiry]]- und [[situated-learning|situiertes]] Lernen unterstützen kann, und ein Aufwand, den KI mit sich bringt, da energieintensive [[llm|Sprachmodelle]], die auf jedem Studierendenlaptop laufen, einen eigenen Umweltfußabdruck haben. Die Wissensdatenbank behandelt beide Hälften zusammen, weil [[sustainability|Nachhaltigkeits]]bildung, vermittelt durch ein kohlenstoffintensives Werkzeug, eine Frage aufwirft, die kein einzelner Rahmen allein beantwortet.
 
 ## Fragen zum Nachdenken
 
@@ -100,7 +102,7 @@ Der [[meta-analysis-systematic-review|Scoping Review]], der diese Literatur orga
 - [[llm-environmental-impact-student-usage-2026]] — Öko-Feedback zu Latenz-Kohlenstoff-Trade-offs mit 89 CS-Studierenden
 - [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — On-premise quantisierter Assistent bei 1,8 mWh pro Anfrage
 - [[liu-ai-sustainable-engineering-education-2026]] — AI-SEE: Nachhaltigkeitsbewusstsein in der Ingenieurbildung
-- [[riandi-teacher-ai-green-energy-education-2026]] — Practical AI use and ESD material development predict integration
-- [[talebzadeh-ai-green-education-2026]] — AI-assisted design under Sustainable Development Pedagogy constraints
-- [[alsuhaymi-sustainable-education-ai-digitalization-2026]] — AI's contribution to sustainable education as governance-mediated
-- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — „Sustainable learning“ as durable cognitive agency, not an environmental claim
+- [[riandi-teacher-ai-green-energy-education-2026]] — Praktische KI-Nutzung und ESD-Materialentwicklung sagen Integration vorher
+- [[talebzadeh-ai-green-education-2026]] — KI-gestütztes Design unter den Bedingungen der Sustainable Development Pedagogy
+- [[alsuhaymi-sustainable-education-ai-digitalization-2026]] — Der Beitrag von KI zu nachhaltiger Bildung als governance-vermittelt
+- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — „Sustainable learning“ als dauerhafte kognitive Handlungsfähigkeit, keine Umweltbehauptung

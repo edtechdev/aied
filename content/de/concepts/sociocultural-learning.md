@@ -1,7 +1,7 @@
 ---
 title: Soziokulturelles Lernen
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-10-10T09:04:25-04:00"
+updated: "2026-10-24T21:15:40-04:00"
 type: concept
 foundations: [agency, human-ai-collaboration]
 pedagogy: [constructivist, learning-theories, scaffolding, sociocultural-learning]
@@ -82,10 +82,10 @@ Der soziokulturelle Strang ist eng mit [[cognitive-offloading|Cognitive-Load-The
 
 ## Verbundene Artikel
 
-- [[youth-enter-chat-llm-student-talk-2026]] — When Youth Enter The Chat: Validation of LLM-Based Measures of Student Talk
-- [[generative-ai-mediational-agent-sociocultural-2026]] — Generative AI as a Mediational Agent
+- [[youth-enter-chat-llm-student-talk-2026]] — Wenn Jugendliche in den Chat kommen: Validierung LLM-basierter Maße für Sprechhandlungen von Lernenden
+- [[generative-ai-mediational-agent-sociocultural-2026]] — Generative KI als mediationaler Agent
 - [[golrang-propact-pair-programming-2026]] — Kollaboratives KI-Tutoring
-- [[finkelstein-principled-ai-education-2025]] — Principled AI education frameworks
-- [[stanford-evidence-base-ai-k12-2026]] — Stanford evidence base for AI in K-12
-- [[young-people-learning-generative-ai-rapid-review-2026]] — Sydney rapid review of GenAI in PreK-12
+- [[finkelstein-principled-ai-education-2025]] — Prinzipiengeleitete KI-Bildungs-Rahmenwerke
+- [[stanford-evidence-base-ai-k12-2026]] — Stanforder Evidenzbasis für KI in K-12
+- [[young-people-learning-generative-ai-rapid-review-2026]] — Sydney-Rapid-Review zu GenAI in PreK-12
 - [[ai-cognitive-partner-co-regulation-learning]] — KI als kognitiver Partner und Koregulation

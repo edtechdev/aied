@@ -1,7 +1,7 @@
 ---
 title: Bildungspolitik zu KI
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-10T09:04:24-04:00"
+updated: "2026-10-24T22:50:00-04:00"
 type: concept
 foundations: [academic-integrity, educational-development]
 ethics: [equity-in-ai-education, ethics]
@@ -10,9 +10,9 @@ audience: [administrators, instructors, faculty developers]
 level: [higher ed, k 12]
 confidence: high
 institutions: [governance, regulation]
-connected_resources: [campus-ai-framework, institutional-ai-readiness-pack]
+connected_resources: [campus-ai-framework, institutional-ai-readiness-pack, campus-ai-development]
 translation_of: concepts/educational-policy-ai
-source_updated: "2026-10-09T09:50:00-04:00"
+source_updated: "2026-10-23T09:20:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -46,11 +46,15 @@ ai_assist:
 ### Reifegrad-Lücke in der Politik
 
 Die Wissensdatenbank dokumentiert, dass institutionelle KI-Richtlinien [[genai-policies-higher-ed-computing|der tatsächlichen KI-Nutzung nachhinken]]. Programme zu [[educational-development]], Rahmen der [[teacher-ai-competency|Lehrkraft-KI-Kompetenz]] und [[regulation|Regulierung]] verlangen alle kohärente Politikfundamente. Großskalige Feldbelege [[stromberg-generative-ai-learning-penalty-secondary-2026|(Strömberg, Lei, & Wu 2026)]] zeigen, dass die Lernverluste aus dem Auslagern von Hausaufgaben weitgehend unbemerkt bleiben, weil einzelne Fachlehrkräfte und Studierende den Rückgang selten mit KI-Nutzung verbinden —, eine Lücke, die evidenzbasierte Politik (z. B. Gewichtung von Closed-Book-Prüfungen, Informieren von Studierenden über langfristige Kosten, Monitoring von Inputs statt Outputs) adressieren kann.
+Eine aspektbasierte Sentiment-Analyse von 36 GenAI-Richtlinien an Hochschulen über vier Länder hinweg fand Lehraussagen positiv gerahmt und GenAI- und Ethik-Aussagen negativ gerahmt, ohne signifikanten Ländereffekt —, das Framing folgt der Politikdimension, nicht dem nationalen System ([[sun-governing-genai-policy-cross-national-2026|Sun et al. (2026)]]).
+
+Die Inkonsistenz ist für diejenigen, die sie durchsetzen, nicht akademisch: fünfzehn sessionale Lehrkräfte berichteten, dass Studierende Regeln, die zwischen Einheiten unterschiedlich sind, nicht einhalten können, und dass die Prävalenz ohne klarere Orientierung nicht einmal geschätzt werden kann ([[sessional-academics-contract-cheating-digital-misconduct-2026|Andriamora & Andriamora, 2026]]).
 
 Wo sich Konsens gebildet hat, um diese Lücke zu füllen, konvergierte [[crompton-governing-genai-higher-ed-delphi-2026|Crompton et al. (2026)]]s Delphi mit 35 Expertinnen und Experten über 22 Länder hinweg auf acht Steuerungsbereichen — akademische Integrität als zentralem Anker — plus einem sechsteiligen Review-Mechanismus (ständiger GenAI-Ausschuss, geplante Richtlinien-Reviews, professionelle Entwicklung, Kommunikation, Wirkungsevaluation, Monitoring), um Richtlinien aktuell zu halten.
 **Nationale KI-Bereitschaft sagt nicht die Stärke institutioneller Politik voraus.** [[adarkwah-genai-unesco-policy-2026|Adarkwah et al. (2026)]] bewerteten 26 Hochschulen aus zehn Ländern mit hohem AIPI gegen den achtkomponentigen GenAI-Rahmen der UNESCO und fanden, dass nordische und neuseeländische Institutionen ihn vollständiger abdeckten als höher gereihte Peers, während Inklusion, Gerechtigkeit und Nachhaltigkeit die am stärksten vernachlässigten Elemente waren.
 
 **Beratende Dokumente übertreffen bindende Politik.** Eine Zählung jedes akkreditierten Programms in einem beruflichen Feld zeigt, dass die Reifegrad-Lücke eine der Form ebenso ist wie des Timings. [[institutional-ai-policy-health-informatics-2026|Eldredge et al. (2026)]] sammelten KI-Richtlinien- und Leitliniendokumente von allen 48 CAHIIM-akkreditierten Master-Programmen für Gesundheitsinformatik und Management von Gesundheitsinformationen in den Vereinigten Staaten und fanden, dass 40 (83%) mindestens ein öffentlich verfügbares KI-bezogenes Dokument hatten, während 8 keines hatten, dass die Dokumente aber meist Leitlinien statt durchsetzbarer Regeln waren: 21 Guidelines (53%) gegenüber 7 formellen Richtlinien (18%). Ihr Inhalt konzentrierte sich auf akademische Integrität und akzeptable Nutzung, wobei Datenschutz, geistiges Eigentum und regulatorische Konzepte (HIPAA, FERPA, Forschungs-Compliance) weit seltener erschienen, und Themenmodellierung ergab dieselbe Betonung von Studierendenverhalten. Weder Dokumenttyp noch intendiertes Publikum variierten nach Auslieferungsmodus (Fisher's exact P = .85 und P = .71). Die Autoren lesen dies als Beleg dafür, dass Politik auf Programmebene eine von Curriculumgestaltung und Entwicklung von Arbeitsplatzkompetenz getrennte Aktivität ist, und argumentieren, Akkreditierungsstellen könnten die resultierende Variation reduzieren, indem sie KI-Richtlinienrahmen bereitstellen, die akademische Integrität, Datenethik und gerechten Zugang integrieren.
+**Rechtsform ist seltener als Rechtssprache.** In einem Scoping-Review von 160 Dokumenten trugen 2,5 % der Instrumente rechtliche Kraft, während 57,5 % Leitlinien oder Toolkits waren, und nur 3 der 131 Dokumente, die rechtliche Kontrollen anführten, selbst Rechtseinstrumente waren ([[generative-ai-governance-education-scoping-review-2026|Elmahjub et al. (2026)]]).
 
 Ein britischer systematischer Review fügt demselben Gefälle eine Sektorebene hinzu: Infrastrukturinvestitionen und KI-Weiterbildung des Personals konzentrieren sich in forschungsintensiven (Russell-Group-)Hochschulen, während lehrorientierte (post-92) Institutionen mit Kapazitätsrestriktionen konfrontiert sind, und nur eine Minderheit britischer Institutionen unterhält offizielle KI-Steuerungspläne ([[ai-uk-higher-education-policy-2026|Ashiq (2026)]]).
 
@@ -76,6 +80,7 @@ Ein britischer systematischer Review fügt demselben Gefälle eine Sektorebene h
 **Eine Wert-/Norm-Matrix als Politikfundament.** [[agarwal-ethical-values-norms-aied-2026|Agarwal et al. (2026)]], ein [[meta-analysis-systematic-review|systematischer Review]] von 25 Artikeln, konsolidieren Ethik in AIED zu sechs zentralen [[ethics|ethischen]] Werten (Nicht-Diskriminierung, Datenverwaltung, [[human-in-the-loop-ai|menschliche Aufsicht]], Wohlwollen, Erklärbarkeit, Bildungsangemessenheit) und bilden die aus der Literatur extrahierten ethischen Normen auf eine Stakeholder-mal-Wert-Matrix ab. Der Review positioniert die Matrix als Fundament für den Aufbau detaillierter ethischer Rahmen und Regulierung für AIED und gibt Bildungsinstitutionen, Entwickelnden und Regulierenden konkrete Normen an die Hand, um spezifische Werte umzusetzen. Er findet, dass auf Regulierende zielende Wohlwollensnormen weit zahlreicher sind (neun) als für jede andere Stakeholder-Menge, was die Rolle von Regulierenden signalisiert, durch Politik und Gesetzgebung zu sichern, dass AIED Lernenden nützt —, ein konkreter, wertverankerter Startpunkt für die Politik-versus-Steuerung-Maschinerie, die diese Seite beschreibt.
 
 **Behauptungen, die weiter reisen als ihre Qualifikationen.** Auch eine Pilotankündigung ist ein Politikinstrument, und ihre Berichtsstandards sind Teil der Politik. [[el-salvador-ai-tutoring-selection-claim-2026|Restrepo Morales et al. (2026)]] analysieren die Episode El Salvador vom September 2026, in der ein KI-Tutoring-Pilot an 171 öffentlichen Schulen als Erreichen von Ergebnissen berichtet wurde, die mit Deutschland und Schweden vergleichbar sind: gegenüber dem deutschen PISA-2022-[[math-education|Mathematik]]-Durchschnitt hätten die oberen 5.5% der nationalen Leistungsverteilung den Benchmark ohne jeden Lernzuwachs erreicht, und die Prüfung des Piloten deckte 7.0 Studierende pro Schule ab gegenüber 25.4 in der nationalen Erhebung desselben Jahres, sodass die veröffentlichte Evidenz Selektion als Erklärung nicht ausschließen kann. Ihr Vorschlag ist ein sechspunkiger Berichtsstandard — die Baseline der teilnehmenden Schulen, das Stichprobenprotokoll (in Frage kommende Studierende, bewertete Studierende, Identifikationsregel, Teilnahmerate), aufgeschlüsselte Werte mit Standardfehlern, das Einsatzdatum jeder Reformkomponente, Überlappung mit der repräsentativen nationalen Stichprobe, und die im selben Dokument, Post oder Absatz wie die Behauptung stehende Qualifikation —, motiviert von der Offenlegungsarithmetik der Ankündigung selbst: Der World-Bank-Post, der die Behauptung trug, verzeichnete etwa 441.000 Aufrufe gegenüber etwa 11.000 für den Post, der die Qualifikation vier Stellen später im selben Thread trug. Die Politklektion ist, dass dort, wo ein System schulbezogene Ergebnisse als Evidenz über sich selbst nutzt, das Format der Offenlegung entscheidet, welche Aussage zur öffentlichen Tatsache wird.
+Pilotieren selbst kann zur Politikmaschinerie werden. [[williamson-experimental-futuring-ai-prototyping-governance-2026|Williamson et al., 2026]] lesen Englands EdTech Impact Testbed — zunächst £1 Mio. für 16 prototypbauende Unternehmen 2025, dann £23 Mio., um den Pilot auf 1.000 Schulstandorte auszuweiten — als antizipatorische Steuerung: Klassenzimmer werden Testbetten, die versprechungsvolle, just-in-time-Evidenz für Skalierung liefern.
 
 Eine Analyse auf Länderebene von PISA 2022-2025 fand, dass Länder mit höherer generativer KI-Nutzung größere Rückgänge in Lesen und Mathematik zeigten, ein Zusammenhang, der verschwand, sobald frühere Leistung kontrolliert wurde ([[genai-pisa-decline-countries-2026|Guerra & Aslanov, 2026]]). Die Autoren lesen ihn als Warnung, dass breiterer Chatbot-Zugang nicht als Vorteil an sich behandelt werden sollte, und fordern, Rollouts mit longitudinaler Evaluation zu paaren.
 
@@ -114,39 +119,42 @@ Ein [[meta-analysis-systematic-review|systematischer Review]] von 65 Arbeiten an
 - [[teacher-ai-competency]]
 - [[framing-ai-use-for-students]]
 - [[summative-assessment]]
-- [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
-- [[biology-education]] — Biology education and AI: lab teaching assistants, AI literacy in biology, critical thinking, specialized tools
-- [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
-- [[student-support-and-success]] — the policy context for institutional support deployment
+- [[chemistry-education]] — Chemiebildung und KI: Labore, formatives Assessment, LLM-Grenzen, Philosophie des Experimentierens
+- [[biology-education]] — Biologiebildung und KI: Labor-Lehrende-Assistenten, KI-Kompetenz in Biologie, kritisches Denken, spezialisierte Werkzeuge
+- [[stakeholders]] — Überblicksseite: Menschen und Zielgruppen in der KI-Bildung (Lernende, Lehrkräfte, Designende, Administration, Politik)
+- [[student-support-and-success]] — der politische Kontext für den Einsatz institutioneller Unterstützung
 
 ## Verbundene Artikel
-- [[tench-ai-policy-isnt-a-playbook-2026]] — A nationally representative survey of US teachers and principals on AI policy coverage, agency, and five classroom plays (Tench, Weinstein & James 2026)
-- [[gai-advocacy-practice-art-education-2026]] — When universities advocate GAI but practice falls short: student appraisals and creative process engagement in art education
-- [[nash-preservice-teachers-classroom-ai-policies-2026]] — Preservice English teachers' classroom AI policies: what they permitted, limited, and banned (Nash & Burriss 2026)
-- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — A Human-in-the-Loop Framework for AI-Assisted Scoring in Large-Scale Writing Assessment
-- [[mccorkle-aligned-genai-course-policy-2025]] — Deriving allowed and unallowed GenAI uses task by task from what is assessed (McCorkle 2025)
-- [[chirikov-regulate-ai-syllabi-2026]] — How instructors regulate AI across 31,000 course syllabi (Chirikov 2026)
-- [[chirikov-ai-grade-inflation-2026]] — AI task displacement as a mechanism of grade inflation (Chirikov 2026)
-- [[crompton-governing-genai-higher-ed-delphi-2026]] — Global Delphi on governing generative AI in higher education
-- [[qian-governing-genai-higher-ed-policy-2026]] — Guidance over policy: instructor-set syllabus rules and a four-unit support ecosystem across 50 innovative US universities (Qian 2026)
-- [[gutowski-hurley-genai-policy-legal-education-2025]] — Five-factor comparison of law school GenAI policies in a sector making policy without an evidence base (Gutowski & Hurley 2025)
-- [[wright-transcription-not-generation-2026]] — Transcription is not generation: over-inclusive AI rules, format conversion and disability accommodation (Wright 2026)
-- [[baroudi-anticipatory-governance-ai-higher-ed-2026]] — Anticipatory governance for AI in higher education (scoping review)
-- [[institutional-ai-policy-health-informatics-2026]] — AI policy documents across all 48 accredited health informatics master's programs: mostly guidance, centered on academic integrity (Eldredge et al. 2026)
-- [[credential-cognitive-stewardship-ai-assessment]] — Cognitive stewardship for AI-mediated assessment (30-university policy audit)
+- [[generative-ai-governance-education-scoping-review-2026]] — Generative-KI-Steuerung in der Bildung: ein Scoping-Review zu Prinzipien, Mechanismen und Risiken (Elmahjub et al. 2026)
+- [[sessional-academics-contract-cheating-digital-misconduct-2026]] — Regeln auf Einheitsebene, die Studierende nicht zusammenführen können
+- [[tench-ai-policy-isnt-a-playbook-2026]] — Eine national repräsentative Befragung US-amerikanischer Lehrkräfte und Schulleitungen zu Abdeckung durch KI-Politik, Handlungsfähigkeit und fünf Klassenraum-Spielen (Tench, Weinstein & James 2026)
+- [[gai-advocacy-practice-art-education-2026]] — Wenn Hochschulen GAI befürworten, die Praxis aber hinterherhinkt: Bewertungen der Studierenden und Engagement im kreativen Prozess in der Kunstbildung
+- [[nash-preservice-teachers-classroom-ai-policies-2026]] — KI-Richtlinien angehender Englischlehrkräfte im Klassenzimmer: was sie erlaubten, beschränkten und verboten (Nash & Burriss 2026)
+- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — Ein Human-in-the-Loop-Rahmenwerk für KI-gestützte Bewertung in der großskaligen Schreibprüfung
+- [[mccorkle-aligned-genai-course-policy-2025]] — Erlaubte und unerlaubte GenAI-Nutzungen aufgabe für Aufgabe aus dem ableiten, was bewertet wird (McCorkle 2025)
+- [[chirikov-regulate-ai-syllabi-2026]] — Wie Lehrende KI über 31.000 Kurssyllabi hinweg regulieren (Chirikov 2026)
+- [[chirikov-ai-grade-inflation-2026]] — KI-Aufgabenverdrängung als Mechanismus der Noteninflation (Chirikov 2026)
+- [[crompton-governing-genai-higher-ed-delphi-2026]] — Globales Delphi zur Steuerung generativer KI in der Hochschulbildung
+- [[qian-governing-genai-higher-ed-policy-2026]] — Leitlinien statt Richtlinien: von Lehrenden gesetzte Syllabus-Regeln und ein Unterstützungs-Ökosystem aus vier Einheiten über 50 innovative US-Hochschulen (Qian 2026)
+- [[gutowski-hurley-genai-policy-legal-education-2025]] — Fünffaktor-Vergleich der GenAI-Richtlinien von Juraschulen in einem Sektor, der Politik ohne Evidenzbasis macht (Gutowski & Hurley 2025)
+- [[wright-transcription-not-generation-2026]] — Transkription ist nicht Generierung: überinklusive KI-Regeln, Formatkonvertierung und Anpassung bei Behinderung (Wright 2026)
+- [[baroudi-anticipatory-governance-ai-higher-ed-2026]] — Antizipatorische Steuerung für KI in der Hochschulbildung (Scoping-Review)
+- [[institutional-ai-policy-health-informatics-2026]] — KI-Richtliniendokumente über alle 48 akkreditierten Master-Programme in Gesundheitsinformatik: meist Leitlinien, zentriert auf akademische Integrität (Eldredge et al. 2026)
+- [[credential-cognitive-stewardship-ai-assessment]] — Kognitive Verantwortung für KI-vermitteltes Assessment (Politik-Audit an 30 Hochschulen)
 - [[adarkwah-genai-unesco-policy-2026]]
 - [[genai-policies-higher-ed-computing]]
 - [[institutional-change-framework-ai]]
 - [[ai-assessment-scale-reform]]
 - [[stanford-evidence-base-ai-k12-2026]]
 - [[ai-uk-higher-education-policy-2026]]
-- [[policy-deficit-ai-sel-2026]] — The Policy Deficit in AI × SEL Research
-- [[agarwal-ethical-values-norms-aied-2026]] — Ethical values and norms for AI in education
+- [[policy-deficit-ai-sel-2026]] — Das Politikdefizit in der Forschung zu KI × SEL
+- [[agarwal-ethical-values-norms-aied-2026]] — Ethische Werte und Normen für KI in der Bildung
 - [[perrotta-zero-shot-governance-2026]] — Zero-shot governance: general-purpose AI in policy (Perrotta 2026)
-- [[el-salvador-ai-tutoring-selection-claim-2026]] — Bounding the learning claim of El Salvador's AI tutoring pilot (Restrepo Morales et al. 2026)
-- [[watson-rainie-ai-challenge-faculty-survey-2026]] — 1,057 US faculty: 87% write their own assignment rules against thin institutional and departmental guidelines (Watson & Rainie 2026)
-- [[li-genai-assessment-language-equity-2026]] — A purpose-based support–substitution boundary with calibrated disclosure and decision rubrics (Li 2026)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] — Prompt injection in AI-mediated grading: grades changed undetected, and the policy-level response (Humble 2026)
-- [[coates-governing-academic-integrity-indicators-2025]] — 130 governance indicators for authenticating assessment, and the external pressure reform needs (Coates, Croucher & Calderon 2025)
-- [[genai-use-changing-institutional-policy-physics-2026]] — Policy tier versus task design: what students used GenAI for across three physics assessments (Quince & Faulconer 2026)
-- [[genai-pisa-decline-countries-2026]] — Higher country-level generative-AI use tracked larger PISA 2022-2025 declines, a correlation that vanished after controlling for prior performance (Guerra & Aslanov 2026)
+- [[el-salvador-ai-tutoring-selection-claim-2026]] — Die Lernbehauptung des KI-Tutoring-Piloten in El Salvador begrenzen (Restrepo Morales et al. 2026)
+- [[watson-rainie-ai-challenge-faculty-survey-2026]] — 1.057 US-Fakultätsangehörige: 87 % schreiben ihre eigenen Aufgabenregeln gegen dünne institutionelle und fachbereichsbezogene Leitlinien (Watson & Rainie 2026)
+- [[li-genai-assessment-language-equity-2026]] — Eine zweckbasierte Grenze zwischen Unterstützung und Substitution mit kalibrierter Offenlegung und Entscheidungsrastern (Li 2026)
+- [[humble-prompt-injection-ai-grading-red-team-2026]] — Prompt-Injektion in KI-vermittelter Benotung: Noten unentdeckt verändert, und die Antwort auf Politikebene (Humble 2026)
+- [[coates-governing-academic-integrity-indicators-2025]] — 130 Steuerungsindikatoren zur Authentifizierung von Assessment, und der externe Druck, den Reform braucht (Coates, Croucher & Calderon 2025)
+- [[genai-use-changing-institutional-policy-physics-2026]] — Politikebene versus Aufgabendesign: wofür Studierende GenAI über drei Physik-Assessments hinweg nutzten (Quince & Faulconer 2026)
+- [[genai-pisa-decline-countries-2026]] — Höhere länderstufige generative KI-Nutzung ging mit größeren PISA-Rückgängen 2022-2025 einher, ein Zusammenhang, der nach Kontrolle früherer Leistung verschwand (Guerra & Aslanov 2026)
+- [[williamson-experimental-futuring-ai-prototyping-governance-2026]] — Englands EdTech Impact Testbed als antizipatorische Steuerung: Piloten, die versprechungsvolle Evidenz liefern (Williamson et al. 2026)

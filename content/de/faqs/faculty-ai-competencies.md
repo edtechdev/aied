@@ -1,14 +1,14 @@
 ---
 title: "Welche Kompetenzen braucht die Fakultät in Bezug auf KI?"
 created: "2026-08-25T09:20:00-04:00"
-updated: "2026-10-10T09:50:26-04:00"
+updated: "2026-10-24T22:43:16-04:00"
 connected_faqs: [faculty-development-ai, ai-save-instructor-time, top-10-findings-ai-education-instructors]
 weight: 70
 foundations: [ai-literacy, educational-development, teacher-role, teacher-ai-competency]
 audience: [faculty developers, instructors]
 level: [adult learning]
 translation_of: faqs/faculty-ai-competencies
-source_updated: "2026-10-02T08:21:34-04:00"
+source_updated: "2026-10-21T14:32:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -19,9 +19,6 @@ ai_assist:
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
-
-# Welche Kompetenzen braucht die Fakultät in Bezug auf KI?
-
 **Fakultätskompetenz sollte weit über das Schreiben von Prompts hinausgehen.** Die [[ai-literacy|KI-Kompetenz]]-Synthese der Wissensbasis identifiziert vier breite Dimensionen:
 
 - **Grundlegendes Verständnis** von KI-Fähigkeiten und -Grenzen.

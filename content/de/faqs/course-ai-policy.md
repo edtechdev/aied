@@ -1,7 +1,7 @@
 ---
 title: "Wie schreibe ich eine Kurs-KI-Richtlinie und kommuniziere sie an Studierende?"
 created: "2026-09-16T15:58:20-04:00"
-updated: "2026-10-10T09:50:26-04:00"
+updated: "2026-10-24T23:29:54-04:00"
 connected_faqs: [should-we-use-ai-detectors, redesign-assessment-ai-era, institutional-ai-policy, asynchronous-online-courses-ai]
 weight: 70
 type: faq
@@ -14,7 +14,7 @@ level: [higher ed, secondary]
 methods: [qualitative-research]
 institutions: [educational-policy-ai]
 translation_of: faqs/course-ai-policy
-source_updated: "2026-10-02T08:21:34-04:00"
+source_updated: "2026-10-21T14:32:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -25,8 +25,6 @@ ai_assist:
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
-
-# Wie schreibe ich eine Kurs-KI-Richtlinie und kommuniziere sie an Studierende?
 
 Sie haben einen Syllabus, ein Aufgabenblatt und einen Raum voller Studierende, die ihre eigenen privaten Regeln über [[generative-ai|generative KI]] bereits geschrieben haben. Was auch immer Sie veröffentlichen, muss fair sein gegenüber dem Studenten, der sich an die Regeln hält, und gegenüber dem, der es nicht tut, und es muss etwas sein, das Sie tatsächlich auf vierzig Einreichungen anwenden können, ohne entweder zum Weichei oder zur Polizistin zu werden.
 

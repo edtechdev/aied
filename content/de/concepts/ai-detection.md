@@ -2,7 +2,7 @@
 connected_resources: [process-feedback]
 title: KI-Erkennung
 created: "2026-05-29T10:44:35-04:00"
-updated: "2026-10-10T09:04:23-04:00"
+updated: "2026-10-24T21:55:25-04:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading]
 technology: [generative-ai, llm]
@@ -14,7 +14,7 @@ confidence: high
 connected_faqs: [addressing-common-misconceptions-ai-education, should-we-use-ai-detectors, reduce-ai-cheating, ai-guidance-children-under-13]
 institutions: [educational-policy-ai]
 translation_of: concepts/ai-detection
-source_updated: "2026-10-14T11:15:00-04:00"
+source_updated: "2026-10-22T12:02:21-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -60,6 +60,8 @@ Forschung mahnt durchweg gegen die alleinige Abhängigkeit von Erkennung:
 - **Selbst ein validierter Detektor beruht auf einer historischen Baseline:** Eine sechsjährige CS2-Studie validierte ihren Detektor an einer Baseline von vor den LLMs: Die H-Scores lagen nahe null, bevor LLMs öffentlich waren, und stiegen bis 2026 auf einen Mittelwert von 11,9 ([[argus-academic-integrity-genai-2026|Racovan et al. (2026)]]).
 - **Das Catch-22 der Integrität, quantifiziert.** [[karr-ai-detection-humanization-2026|Eine kontrollierte Studie mit 642 veröffentlichten Abstracts (Karr et al. 2026)]] zeigt, dass das [[educational-policy-ai|politische]] Versagen nicht nur begrifflich, sondern gemessen ist: richtlinienkonformes leichtes KI-Editieren wird zu 38–80 % markiert, unveränderte aktuelle Originale zu 9–15 % (nicht-MINT weit über MINT), und mensch mit Humanizer assistierter KI-Text entgeht der Erkennung in >96 % der Fälle. Weil Detektoren an Oberflächenstil ansetzen (Dichte langer Tokens und akademischer Wörter) statt an Autorschaftsabsicht, zieht ehrliche KI-Assistenz Sanktionen nach sich, während bewusste Humanizer-Umgehung entgeht — die Autoren argumentieren, Detektorwerte sollten niemals alleinstehender Beleg für Fehlverhalten sein.
 
+- **Ein Lektorat verschiebt das Urteil, was Stil von Autorschaft trennt.** Unter Haltung von Autor, Thema und Inhalt über 135.389 bearbeitete Manuskriptpaare schoben dieselben Bearbeitungen 13 Detektoren bei menschlichem Text in entgegengesetzte Richtungen — MAGE −10,7 Prozentpunkte False Positives, RADAR −4,7, gegen Fast-DetectGPT +4,6 ([[park-style-confound-ai-detection-non-native-writing-2026|Park, Jeong und Kim (2026)]]). Die Basisraten reichten von 0,0 % bis 100,0 % und skalierten mit der Bearbeitungsintensität.
+
 Die jüngsten empirischen Evaluationen machen diese Fehlerraten konkret statt generisch. [[hadra-ai-detector-accuracy-efl-2026|Hadra, Cambridge und Mesbah (2026)]] ließen Turnitin und Originality über ein ausbalanciertes Korpus von 192 Texten aus echter EFL-Studienleistung, professionellem Schreiben, KI-Ausgabe und 50/50-Hybriden laufen: Die Makro-Genauigkeit erreichte nur 0,69 und 0,61, beide blieben unter einem Makro-F1 von 0,55, und beide waren auf den Hybridtexten praktisch wirkungslos (Sensitivität von Originality 0,02), wobei die Genauigkeit signifikant sank, je länger die Texte wurden, und nochmals bei wissenschaftlichem Schreiben, zudem mit grenzwertig signifikanter Tendenz, legitime EFL-Studierendenarbeit falsch zu klassifizieren. [[van-vlasselaer-ai-detector-reliability-2026|Van Vlasselaer, Van Droogenbroeck und Spruyt (2026)]] testeten vier kommerzielle Werkzeuge gegen ein Korpus von 160 Masterarbeiten mit kontrollierter Ground Truth: drei davon (Turnitin, GPTZero, Copyleaks) versagten bei vollständig KI-generierten Arbeiten fast vollständig, während nur Pangram überzeugend abschnitt — und bei Anwendung auf 1,163 tatsächlich eingereichte Arbeiten markierte es 45,5 % davon, eine Zahl, die die Autoren entschieden nicht als Prävalenzrate verstehen, weil echte Einreichungen keine Ground Truth haben. Beide Studien landen beimselben prozeduralen Schluss: Ein Detektorwert kann eine genauere Prüfung anstoßen, aber er ist kein Befund. Die Kalibrierungsfrage schneidet auch andersherum: Weil das Label hoher Konfidenz von GPTZero auf Antragstellerebene False-Positive-Raten von 0,7 %, 0,5 % und 1,4 % über 2020–2022 trug, lesen [[ai-written-admissions-essays-penalized-2026|Isley, Gaebler und Goel (2026)]] seine Markierungen als konservative Prävalenzreihe über sechs Zulassungsrunden in einem US-amerikanischen Masterprogramm für öffentliche Ordnung — der Anteil der Antragstellenden mit mindestens einem markierten Essay stieg von 21,8 % in 2023 auf 45,1 % in 2024 und 56,1 % in 2025 trotz eines unterzeichneten Verbots und erreichte 69,3 % bei internationalen gegenüber 38,6 % bei inländischen Antragstellenden. Menschliche Lesende waren erneut das schwächere Instrument: Fünf Zulassungsbeauftragte, die 50 menschliche von 50 KI-Essays trennten, erreichten eine AUC von 0,70 (95 %-KI [0,65, 0,75]) — über Zufall, aber deutlich unter den kommerziellen Detektoren.
 
 An einem kasachischen Korpus, dessen menschliche Passagen nachweislich ChatGPT vorausgingen, markierten fünf auf Englisch trainierte Detektoren bis zu 81,4 % der menschlichen Passagen und 79,6 % der veröffentlichten Studierendenaufsätze, und einmal auf eine Falsch-Positiv-Rate von 1 % rekalibriert, fingen sie höchstens 1,3 % des maschinellen Texts ([[kazakh-ai-text-detectors-2026|Ozaman (2026)]]).
@@ -92,9 +94,14 @@ Erkennung ist nicht bloß unpräzise; ihre Fehler sind gemustert. [[teichmann-de
 
 Zwei weitere Punkte schärfen die praktischen Einsätze. Erstens schrumpft das zugrundeliegende statistische Signal, je stärker Modelle in Richtung menschlicher Prosa optimiert werden, sodass das Wettrüsten eines ist, das eine Institution nicht gewinnen kann. Zweitens ist der empirische Grenzfall deutlich: In einer verdeckten Feldstudie passierten 94 % der gänzlich KI-generierten Einreichungen unbemerkt ein echtes Online-[[summative-assessment|Prüfungssystem]] über fünf Psychologiemodule hinweg, und die KI-Arbeit übertraf echte Studierende im Schnitt. [[mohamed-temimi-assessment-imperfect-information-disclosure-2026|Mohamed und Temimi (2026)]] fügen die kontraintuitive Folge hinzu, die bestimmt, wann Überwachung sich überhaupt lohnt: Weil Sensitivität False Positives mitsamt True Positives erhöht, ist die rationale Abschreckung Diskriminierung — die Lücke zwischen dem Markieren verdeckter Nutzung und dem Markieren legitimer Arbeit. Wo zusätzliche Sensitivität mehr neue False Positives schafft als neue True Positives, macht mehr Überwachung Verbergung relativ attraktiver und bestraft ehrliche Studierende schneller, als sie verborgene Nutzende identifiziert. Die Designkonsequenz ist, dass Detektoren, Regeln und Offenlegungsverfahren nicht getrennt voneinander gebaut werden sollten.
 
+Testzeit-Adaptation ist das Gegenbeispiel, das jene Behauptung auslässt. Gegen Humanizer-Prompts, die optimiert wurden, um jeden Detektor der Reihe nach zu umgehen, kollabierte die supervidierte Erkennung — Pangram fing 27,0 % des adversativen KI-Textes —, während eine positiv-unlabeled-Methode, die sich an ungelabelten Batches zur Inferenzzeit anpasst, 93,3 % hielt ([[ren-test-time-adaptation-ai-text-detection-2026|Ren, Raghavan und Garg (2026)]]). Ihr Human-Drift-Experiment erzeugte die False Positives, vor denen diese Seite warnt: Die Trefferquote eines festen Detektors bei menschlichem Text fiel über ein simuliertes Jahrzehnt von 85,9 % auf 73,4 %.
+
 - **Fünf Werkzeuge, ein Manuskript, inkompatible Antworten — und die Institutionen, die sie abgeschafft haben.** [[angelier-ai-detection-pitfalls-inclusive-assessment-2026|Angelier (2026)]] reichte ein einziges menschlich verfasstes Manuskript am selben Tag bei fünf kommerziellen Detektoren ein und erhielt Klassifikationen von „0 % menschlich“ (Winston AI) bis „Human Generated“ (das kategoriale Label von GPTZero, gedruckt neben seinem 42 %-KI-Wert), mit Copyleaks bei 80,4 % KI, Originality.ai bei „81 % Likely AI“ und einem fünften Werkzeug bei 34 % KI / 66 % menschlich — drei Ausgaben tendieren zu KI, zwei zu menschlich bei identischem Text, ohne validierte Grundlage, eine Mehrheitsentscheidung über proprietäre Systeme als Beleg für die Herkunft zu behandeln. Dieselbe Arbeit dokumentiert den institutionellen Rückzug: Vanderbilt deaktivierte Turnitins KI-Detektor im August 2023 und rechnete mit der Arithmetik einer 1 %-False-Positive-Rate über etwa 75.000 Arbeiten; die Curtin University kündigte 2025 eine ähnliche Abschaltung an; die University of Waterloo stellte Turnitins KI-Erkennungsfunktion im September 2025 ein, nachdem ein internes Audit menschlich verfasste Arbeit als 100 % KI-generiert klassifiziert hatte; die University of Cape Town deaktivierte den KI-Wert ab Oktober 2025; die University of the Free State folgte im Juli 2026; die University of the Witwatersrand berichtete, solche Werkzeuge niemals eingeführt zu haben; und ein New Yorker Gericht hob einen Fehlverhaltensbefund auf, der auf einem Detektorwert beruhte. Zwei verfahrensbezogene Befunde vervollständigen den Fall: Eine schwer beschädigte PDF-Extraktion lieferte noch eine Klassifikation fünf Prozentpunkte neben dem Ergebnis des sauberen Textes, und eine archivierte Detektorausgabe belegt, was eine Oberfläche meldete, kann aber den proprietären Modellzustand, der sie erzeugte, nicht wiederherstellen.
 - **Detektorausgabe ist der schwächste Beleg in der Akte, und die Beweisqualität entscheidet keine Fälle.** Bei der Kodierung von 1.162 Anschuldigungen wegen Fehlverhaltens mit generativer KI zog Detektorausgabe die niedrigsten Beweiswert-Bewertungen und sank bis 2025 auf 0,5 % der Posten. Die Beweisqualität zeigte keinen Zusammenhang mit den Ergebnissen, weil die Pipeline keine Beweisschwelle setzte ([[munoz-misconduct-allegation-evidence-2026|Munoz et al., 2026]]).
 - **Studierende verändern ihre Arbeit, um Erkennung zu überleben, nicht nur ihre Antworten.** Der Bericht dokumentiert, dass Studierende ihre eigenen Antworten abstumpfen, um eine falsche Anschuldigung zu vermeiden, und Lehrende auf informelles Urteil zurückfallen — was er KI-DAR nennt —, sobald vermarktete Detektoren sich als unzuverlässig erweisen ([[tench-ai-policy-isnt-a-playbook-2026|Tench, Weinstein & James, 2026]]).
+
+- **Der Detektor ist abgeschaltet, und Intuition ist alles, was bleibt.** Auf Zeitvertragsbasis angestellte Korrigierende verloren an einer Institution ihren KI-Detektor, weil er Grammatikprüfungswerkzeuge markierte, und mussten daher auf erfundene Quellen (neunzehn von zwanzig) und die Loslösung vom Kursmaterial lesen ([[sessional-academics-contract-cheating-digital-misconduct-2026|Andriamora & Andriamora, 2026]]).
+
 
 ## Jenseits der Erkennung: Neugestaltung des Assessments
 
@@ -132,30 +139,31 @@ Die konstruktive Frage verschiebt sich von „wie verhindern wir, dass Studieren
 
 ## Verbundene Artikel
 
+- [[sessional-academics-contract-cheating-digital-misconduct-2026]] — Zwanzig Korrigierende über Intuition, tote Detektoren und erfundene Quellen
 - [[tench-ai-policy-isnt-a-playbook-2026]] — Eine national repräsentative Befragung von US-Lehrkräften und Schulleitungen zu Abdeckung, Handlungsfähigkeit und fünf Classroom Plays in der KI-Politik (Tench, Weinstein & James 2026)
 - [[evaluation-age-ai-output-evidence-2026]] — Evaluation im Zeitalter der KI
 - [[best-response-student-ai-dialog-2026]]
-- [[detecting-llm-generated-text-latent-prompt]] — EchoPrompt: Latent Prompt Restoration Detector
+- [[detecting-llm-generated-text-latent-prompt]] — EchoPrompt: Detektor zur Wiederherstellung latenter Prompts
 - [[ivory-psychology-assessment-integrity-2026]] — Erkennung ist der falsche Hebel: die Bestehensgrenze entschied, ob KI-Arbeit als Leistung bewertet wurde (Ivory et al. 2026)
-- [[llm-detecting-llm-generated-content-education]] — Evaluating LLMs for Detecting LLM-Generated Content
-- [[beyond-detection-authentic-assessment-ai-2025]] — Beyond Detection: Authentic Assessment
-- [[responsible-assessment-ai-era-stanford-2026]] — Responsible Assessment in the AI Era
-- [[coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene]] — Coauthorship Integrity and Assessment Validity
-- [[student-rationalization-ai-writing]] — Student Rationalization of AI Writing
-- [[socially-fluent-ai-identity-detection]] — Socially Fluent AI Identity Detection
-- [[ssaho-ai-academic-integrity-review-2025]] — Review of AI-based plagiarism/AI-content detection reliability
-- [[bassett-ai-detectors-education-2026]] — Heads we win, tails you lose: AI detectors in education (Bassett et al. 2026)
+- [[llm-detecting-llm-generated-content-education]] — Bewertung von LLMs zur Erkennung LLM-generierter Inhalte
+- [[beyond-detection-authentic-assessment-ai-2025]] — Jenseits der Erkennung: Authentisches Assessment
+- [[responsible-assessment-ai-era-stanford-2026]] — Verantwortungsvolles Assessment im KI-Zeitalter
+- [[coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene]] — Koautorschaftsintegrität und Assessmentvalidität
+- [[student-rationalization-ai-writing]] — Rationalisierung von KI-Schreiben durch Studierende
+- [[socially-fluent-ai-identity-detection]] — Identitätserkennung sozial fließender KI
+- [[ssaho-ai-academic-integrity-review-2025]] — Review der Zuverlässigkeit KI-basierter Plagiats-/KI-Inhaltserkennung
+- [[bassett-ai-detectors-education-2026]] — Kopf: wir gewinnen, Zahl: Sie verlieren — KI-Detektoren in der Bildung (Bassett et al. 2026)
 - [[teichmann-detecting-undetectable-misconduct-2026]] — Warum Detektorausgabe einen Fehlverhaltensbefund nicht begründen kann
 - [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] — Diskriminierung statt Trefferquote, und wann Überwachung nach hinten losgeht
 - [[hadra-ai-detector-accuracy-efl-2026]] — Turnitin und Originality an 192 Texten: beide unter einem Makro-F1 von 0,55 und nahezu wirkungslos bei hybridem Schreiben
 - [[van-vlasselaer-ai-detector-reliability-2026]] — Vier Detektoren gegen 160 Arbeiten mit Ground Truth; nur Pangram schnitt überzeugend ab, markierte aber 45,5 % der echten Arbeiten
-- [[munoz-misconduct-allegation-evidence-2026]] — Detektorausgabe ist der am niedrigsten bewertete Belegtyp in 1,162 echten Fehlverhaltensakten
+- [[munoz-misconduct-allegation-evidence-2026]] — Detektorausgabe ist der am niedrigsten bewertete Belegtyp in 1.162 echten Fehlverhaltensakten
 - [[wright-transcription-not-generation-2026]] — Pauschale „KI-Nutzung“-Regeln vermischen Transkription mit Generierung
 - [[sharma-judgment-visible-genai-assessment-2026]] — Erkennung degradiert zu einer ergänzenden Schicht hinter sichtbarem Urteil
 - [[weidlich-inference-at-risk-assessment-validity-2026]] — Erkennung als bedingtes Signal, und warum Sicherheitsantworten konstruktirrelevante Varianz hinzufügen (Weidlich 2026)
 - [[ai-written-admissions-essays-penalized-2026]] — KI-geschriebene Zulassungsessays sind weit verbreitet, aber werden bestraft
 - [[detecting-gpt-assisted-writing-stylometric-2026]] — Neun interpretierbare stilometrische Merkmale: ROC-AUC 0,870, aber vier von 18 unabhängig verfassten Dokumenten markiert (Kumar et al. 2026)
 - [[angelier-ai-detection-pitfalls-inclusive-assessment-2026]] — Ein menschliches Manuskript, fünf Detektoren, Klassifikationen von „0 % menschlich“ bis „Human Generated“, plus der dokumentierte institutionelle Rückzug von der Erkennung (Angelier 2026)
-- [[argus-academic-integrity-genai-2026]] — Argus: Academic Integrity in the Era of Generative AI
+- [[argus-academic-integrity-genai-2026]] — Argus: Akademische Integrität im Zeitalter generativer KI
 - [[student-llm-code-detection-cs1-2026]] — LLM-Code konvergiert bei eng eingegrenzten Aufgaben (1–14 AST-Formen pro 1.000 Dateien), aber nicht bei freien — Erkennbarkeit folgt dem Aufgabendesign
-- [[kazakh-ai-text-detectors-2026]] — Unchecked or Falsely Accused? Evaluating AI-Generated Text Detectors on Kazakh
+- [[kazakh-ai-text-detectors-2026]] — Ungeprüft oder fälschlich beschuldigt? Bewertung KI-generierter Textdetektoren auf Kasachisch

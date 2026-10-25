@@ -1,7 +1,7 @@
 ---
 title: Problemlösen
 created: "2026-08-29T12:55:12-04:00"
-updated: "2026-10-10T09:04:24-04:00"
+updated: "2026-10-25T00:10:53-04:00"
 type: concept
 foundations: [critical-thinking]
 pedagogy: [cognitive-psychology, problem-solving]
@@ -78,13 +78,13 @@ Problemlösen ist das angewandte Ergebnis [[critical-thinking|kritischen Denkens
 
 ## Verbundene Artikel
 
-- [[hao-human-ai-collaborative-problem-solving-cognition]] — Interaction profiles (delegated reasoning vs concerted interpretation) and the efficiency–regulation trade-off
-- [[ai-assisted-collaborative-learning-model-dbr]] — DBR model positioning generative AI as an intelligent learning partner
-- [[llm-critical-thinking-teamwork-review]] — PRISMA review of LLMs fostering critical thinking, teamwork, and problem solving
-- [[adaptive-ai-scaffold-collaborative-problem-solving-2026]] — Sequence-mined adaptive scaffolds for collaborative problem solving
-- [[genai-assisted-problem-posing-physics-2026]] — Problem posing as a self-regulated learning strategy with GenAI
-- [[genai-feedback-design-multisite-experiment]] — Reflective/hybrid feedback outperforms direct AI on delayed transfer
-- [[dai-chatbots-problem-posing-primary-2026]] — Chatbots improve primary students' problem posing in inquiry-based learning
-- [[llm-computational-thinking-physics-2026]] — LLMs as scalable assessors of computational problem solving in physics
-- [[rule-integrated-llm-tutoring-primary-math-2026]] — Rule-guided vs ad-hoc scaffolding in an LLM tutoring system for primary mathematics (Looi et al. 2026)
+- [[hao-human-ai-collaborative-problem-solving-cognition]] — Interaktionsprofile (delegiertes Schlussfolgern versus konzertierte Interpretation) und der Kompromiss zwischen Effizienz und Regulation
+- [[ai-assisted-collaborative-learning-model-dbr]] — DBR-Modell, das generative KI als intelligenten Lernpartner positioniert
+- [[llm-critical-thinking-teamwork-review]] — PRISMA-Review zu LLMs, die kritisches Denken, Teamarbeit und Problemlösen fördern
+- [[adaptive-ai-scaffold-collaborative-problem-solving-2026]] — Aus Sequenzen geminene adaptive Scaffolds für kollaboratives Problemlösen
+- [[genai-assisted-problem-posing-physics-2026]] — Problemstoffe stellen als selbstregulierte Lernstrategie mit GenAI
+- [[genai-feedback-design-multisite-experiment]] — Reflektives/hybrides Feedback schlägt direkte KI bei verzögertem Transfer
+- [[dai-chatbots-problem-posing-primary-2026]] — Chatbots verbessern das Stellen von Problemstoffen durch Grundschulkinder im untersuchenden Lernen
+- [[llm-computational-thinking-physics-2026]] — LLMs als skalierbare Bewerter rechnerischen Problemlösens in der Physik
+- [[rule-integrated-llm-tutoring-primary-math-2026]] — Regelgeleitete versus ad-hoc-Scaffolds in einem LLM-Tutorensystem für Grundschulmathematik (Looi et al. 2026)
 - [[rachatasumrit-example-problem-ratio-2026]]

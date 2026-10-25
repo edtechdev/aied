@@ -1,7 +1,7 @@
 ---
 title: KI-Missbrauch und Lernschaden
 created: "2026-08-12T19:08:47-04:00"
-updated: "2026-10-10T09:04:24-04:00"
+updated: "2026-10-24T23:29:54-04:00"
 connected_faqs: [does-ai-help-students-learn, how-ai-impacts-students, asynchronous-online-courses-ai]
 type: concept
 foundations: [academic-integrity, cognitive-offloading]
@@ -102,18 +102,18 @@ Die Literatur zum Gaming-the-System (Hinweismissbrauch, systematisches Raten) ha
 
 ## Verbundene Artikel
 
-- [[rho-disengaged-conversational-behaviors-2026]] — Disengaged conversational behaviors and learning in student-AI dialogues (Rho et al. 2026)
+- [[rho-disengaged-conversational-behaviors-2026]] — Desengagierte Gesprächsverhalten und Lernen in Dialogen zwischen Studierenden und KI (Rho et al. 2026)
 - [[genai-thoughtless-use-self-directed-learning-2026]]
-- [[generative-ai-guardrails-harm-learning]] — GenAI Without Guardrails Can Harm Learning
-- [[genai-performance-vs-learning]] — Distinguishing Performance Gains from Learning
-- [[ai-availability-student-motivation]] — AI Availability and Student Motivation
-- [[genai-skill-bypass-literacy]] — GenAI Skill Bypass and Literacy
-- [[cognitive-shift-ai-education]] — Cognitive Shift in AI Education
-- [[misiejuk-cognitive-offloading-prompting-2026]] — Cognitive Offloading in Student–AI Collaboration
-- [[cognitive-commons-ai-expertise-regeneration]] — The tragedy of the cognitive commons: AI and expertise regeneration
-- [[lodge-loble-cognitive-offloading-2026]] — AI, cognitive offloading and implications for education (Lodge & Loble 2026)
-- [[ai-overreliance-complex-adaptive-system-2026]] — AI overreliance modeled as a complex adaptive system
-- [[academic-erasure-complexity-ai-writing-2026]] — Academic erasure: the disappearance of complexity under AI-supported writing
-- [[ai-dependency-self-efficacy-teacher-support-burnout-2026]] — AI dependency fully mediates the path from self-efficacy and teacher support to learning burnout (Huang et al. 2026)
-- [[uneven-impact-generative-ai-student-learning-2026]] — Early reliance predicts negative impact while cognitive reliance predicts positive impact, and evaluation literacy strengthens rather than buffers the harm of consulting AI first (Manikonda et al. 2026)
-- [[this-is-how-we-ai-teaching-guide-2026]] — This is How We AI: A Practical Approach to Teaching with Artificial Intelligence
+- [[generative-ai-guardrails-harm-learning]] — GenAI ohne Leitplanken kann Lernen schaden
+- [[genai-performance-vs-learning]] — Leistungsgewinne von Lernen unterscheiden
+- [[ai-availability-student-motivation]] — KI-Verfügbarkeit und studentische Motivation
+- [[genai-skill-bypass-literacy]] — GenAI-Skill-Bypass und Literalität
+- [[cognitive-shift-ai-education]] — Kognitiver Wandel in der KI-Bildung
+- [[misiejuk-cognitive-offloading-prompting-2026]] — Kognitive Entlastung in der Zusammenarbeit zwischen Studierenden und KI
+- [[cognitive-commons-ai-expertise-regeneration]] — Die Tragödie des kognitiven Gemeinguts: KI und die Regeneration von Expertise
+- [[lodge-loble-cognitive-offloading-2026]] — KI, kognitive Entlastung und Implikationen für die Bildung (Lodge & Loble 2026)
+- [[ai-overreliance-complex-adaptive-system-2026]] — Übermäßige KI-Abhängigkeit als komplexes adaptives System modelliert
+- [[academic-erasure-complexity-ai-writing-2026]] — Akademische Tilgung: das Verschwinden von Komplexität bei KI-gestütztem Schreiben
+- [[ai-dependency-self-efficacy-teacher-support-burnout-2026]] — KI-Abhängigkeit mediiert den Weg von Selbstwirksamkeit und Lehrkräfteunterstützung zu Lern-Burnout vollständig (Huang et al. 2026)
+- [[uneven-impact-generative-ai-student-learning-2026]] — Frühe Abhängigkeit sagt negative Auswirkungen voraus, während kognitive Abhängigkeit positive Auswirkungen voraussagt, und Evaluationskompetenz verstärkt den Schaden der ersten KI-Konsultation, statt ihn abzupuffern (Manikonda et al. 2026)
+- [[this-is-how-we-ai-teaching-guide-2026]] — This is How We AI: ein praktischer Ansatz für den Unterricht mit Künstlicher Intelligenz

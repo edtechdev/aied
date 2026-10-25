@@ -1,7 +1,7 @@
 ---
 title: Ethik
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-10T09:04:24-04:00"
+updated: "2026-10-24T20:49:56-04:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, institutional-ai-policy]
 type: concept
 foundations: [academic-integrity, ai-literacy]
@@ -9,7 +9,7 @@ ethics: [bias-mitigation, equity-in-ai-education, privacy, pedagogical-safety]
 confidence: high
 institutions: [governance, regulation]
 translation_of: concepts/ethics
-source_updated: "2026-10-08T10:20:00-04:00"
+source_updated: "2026-10-18T10:07:01-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -36,6 +36,7 @@ ai_assist:
 Ethik ist das normative Rückgrat von KI in der Bildung: jedes KI-Werkzeug, jede Politik und jede [[pedagogy|pädagogische]] Entscheidung kodiert Annahmen darüber, was fair, transparent, rechenschaftspflichtig und sicher ist. Die Wissensbasis behandelt Ethik sowohl als Satz von Prinzipien (Fairness, Datenschutz, Transparenz, Autonomie, Rechenschaftspflicht) als auch als Satz von *Praktiken* – wie Beteiligte tatsächlich über KI schlussfolgern, wie Institutionen sie steuern und wie Lernende darauf vorbereitet werden, sie verantwortungsvoll zu nutzen. Jüngste [[research-methods-aied|Forschung]] dokumentiert eine doppelte Bewegung: einerseits eine vertiefte Sorge, dass prinzipienbasierte „Checklisten"-Ethik unzureichend ist; andererseits eine wachsende Betonung [[situated-learning|situierter]] und ökologischer Darstellungen ethischen Urteilens sowie der strukturellen und institutionellen Bedingungen, die verantwortungsvolle Nutzung möglich machen.
 
 ## Zentrale ethische Dimensionen
+- **Ethik als produktiv, nicht nur als Beschränkung.** [[learning-analytics-genai-learning-design|Rienties, Divjak und Law (2026)]] kommen zu dem Schluss, dass ethische Eignung und Vertrauenswürdigkeit konstitutiv für Bildungsqualität sind – ethische Eignung sagt die Balance zwischen Technik und Kunst im kreativen Schaffen vorher, Ethik ist also eine Designvariable und keine letzte Compliance-Stufe.
 
 - **Fairness und Bias:** Forschung zu [[bias-mitigation|Minderung von Bias]] und [[equity-in-ai-education|Gerechtigkeit]] adressiert, ob KI-Systeme alle Lernenden fair behandeln. Studien zu [[ai-scoring-language-bias-physics|Sprachbias]] und [[bias-mitigation|Minderung von Bias]] dokumentieren reale Ungerechtigkeiten, und [[marked-pedagogies-linguistic-bias-writing-feedback|Forschung zu Schreibfeedback]] zeigt, dass die Personalisierung von [[ai-feedback-quality|KI-Feedback]] mit Merkmalen der Studierenden selbst zu einem Vektor für Bias werden kann.
 - **Datenschutz und Zustimmung:** Forschung zu [[privacy|Datenschutz]] untersucht Datenerhebung, Überwachung von Studierenden und das Machtungleichgewicht zwischen Institutionen und Lernenden – eine Einschränkung, die schärfer wird, je feinkörniger und KI-getriebener die Analytik wird.
@@ -52,6 +53,8 @@ Ethische KI-Nutzung ist nicht nur eine Frage von Prinzipien, sondern dessen, wie
 - **Studierende gegenüber Lehrenden in der Bereitschaft.** [[fekete-ethical-ai-literacy-gaps-2026|Fekete (2026)]] fand, dass Studierende höheres ethisches Bewusstsein berichten als Lehrende (4.03 gegenüber 2.44), während Lehrende stärkere Bereitschaft zur KI-Nutzung zeigen – Studierende interpretieren Ethik durch unmittelbare Kursarbeit, während Lehrkräfte sie als institutionelle Klarheit und Integrität behandeln. Beide berichten schwache institutionelle Unterstützung, und Bereitschaft entwickelt sich über verschiedene Kanäle: das moralische Bewusstsein von Lehrenden wächst mit institutioneller und sozialer Unterstützung, während die Konfidenz der Studierenden mit [[self-efficacy|Selbstwirksamkeit]] und Kollaboration korreliert statt mit formaler Instruktion.
 
 - **Nutzung steigt schneller als ethischer Konsens.** Über vier Semester hinweg in einem US-Programm der Lehrkräftebildung stieg die GenAI-Nutzung der Studierenden von 57% auf 83% bei der Vorbereitung auf Prüfungen und von 44% auf 76% beim Lernen, während „unsicher"-Antworten auf ethische Fragen stetig stiegen und KI-Nutzende die akademische Nutzung als ethischer bewerteten als Nicht-Nutzende ([[longitudinal-ai-usage-ethics-policy-teacher-education-2026|Parker et al. (2026)]]).
+
+**Ethik ist zentral für das Feld, aber selten ein Ergebnis.** Über 394 GenAI-Studien im Hochschulbereich hinweg gehörten Ethik und akademische Integrität zu den am seltensten adressierten Ergebnissen, und Governance-Praktiken wurden untererfasst ([[mapping-genai-higher-ed-scoping-review|Lin et al. (2026)]]).
 
 - **Normative Rahmen sind nicht austauschbar.** Unter 151 spanischen Studierenden der ersten Semester war moral equity eine notwendige Bedingung für die Absicht, LLMs in der Prüfungsvorbereitung zu nutzen (d = 0.338), aber kein hinreichender Prädiktor, während konsequentialistische (β = 0.350) und deontologische (β = 0.329) Urteile es waren – Studierende wenden mehrere normative Rahmen an ([[ethical-conditions-llm-exam-preparation-2026|Pérez-Portabella et al. (2026)]]).
 - **Eine geteilte multidimensionale Struktur.** Die sechs Themen in [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026|Bilgiç & Sever]] – über Datenethik, Algorithmusethik und pädagogische Ethik hinweg – bilden eine verbundene Kausalkette von fundamentalen Prinzipien (Transparenz, Rechenschaftspflicht, Fairness, Autonomie) zu Verhaltensergebnissen, was unterstreicht, dass verantwortungsvolle KI-Nutzung ebenso sehr von klaren institutionellen Roadmaps abhängt wie von individuellem Bewusstsein.
@@ -87,6 +90,8 @@ Dieser praktische Fall wird durch empirische Arbeit dazu verstärkt, wie Ethik i
 
 **Das Vorzeichen dieses Mechanismus hängt davon ab, was ihm folgt.** Unter 584 Studierenden, deren KI-Kompetenz aus Selbststudium stammte, erhöhte Kompetenz das ethische Bewusstsein über KI (β = 0.644, p < .001). Ethisches Bewusstsein erhöhte dann KI-Angst (β = 0.439, p < .001), statt sie zu senken – ausschließlich indirekte Mediation, von den Autorinnen und Autoren gelesen als gewecktes Bewusstsein ohne Bewältigungsrahmen ([[mu-ai-competence-ethical-awareness-anxiety-2026|Mu et al. (2026)]]). Ihre Schlussfolgerung für Ethikunterricht ist, dass er nicht auf der kognitiven Ebene enden kann. Ein Anliegen zu Transparenz oder Datenschutz muss mit dem Governance-Weg ankommen, der es beantwortet, weshalb ihr vorgeschlagenes Modul innerhalb der Rechtsbildung sitzt.
 
+Ethisches Bewusstsein, reflexives Schlussfolgern und [[self-report-measures|selbstberichtetes]] verantwortungsvolles Handeln entwickeln sich weitgehend unabhängig voneinander. Über drei jährliche Wellen von 350 nigerianischen Informatik-[[higher-ed|Studierenden]] an Hochschulen hinweg fanden [[ayanwale-ethical-engagement-ai-growth-modeling-2026|Ayanwale et al. (2026)]], dass alle drei deutlich zunahmen, ihre Wachstumsfaktoren jedoch fast unkorreliert waren und anfängliches Bewusstsein späteres Wachstum nicht vorhersagte.
+
 ## Verbindungen
 
 Ethik verbindet sich mit [[equity-in-ai-education|Gerechtigkeit]], [[privacy|Datenschutz]], [[bias-mitigation|Minderung von Bias]], [[regulation|Regulierung]], [[pedagogical-safety|pädagogischer Sicherheit]], [[academic-integrity|akademischer Integrität]] und [[governance|Governance]]. Sie ist die normative Grundlage für alle anderen Konzepte der KI-Bildung – der Rahmen, innerhalb dessen Fragen von Fairness, Transparenz, Autonomie und Sicherheit erhoben und gelöst werden.
@@ -112,27 +117,28 @@ Ethik verbindet sich mit [[equity-in-ai-education|Gerechtigkeit]], [[privacy|Dat
 ## Verbundene Artikel
 - [[mu-ai-competence-ethical-awareness-anxiety-2026]] - Ethisches Bewusstsein verstärkte KI-Angst, wo kein Bewältigungsrahmen gelehrt wurde: ausschließlich indirekte Mediation unter 584 Studierenden
 - [[learning-analytics-to-educational-interventions-2026]] — Von Learning Analytics zu Bildungsinterventionen: Ermöglicher vertrauenswürdiger LA-basierter Interventionen (Svetec, Divjak & Kadoić 2026)
-- [[kirsanov-beyond-detection-ai-online-assessments-2026]] — How students use and hide AI in online assessments
-- [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — Student AI disclosure, stigma, and self-regulated learning
-- [[vetter-hidden-cost-disclosure-genai-2026]] — The hidden cost of disclosure
-- [[gonsalves-student-non-compliance-ai-declarations-2025]] — Student non-compliance with AI use declarations
-- [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026]] — Faculty and student views on ethical dimensions of AI
-- [[ethical-use-ai-engineering-education-review-2026]] — Ethical Use of AI in Engineering Education: A Systematic Review
-- [[ai-ethics-education-public-discourse]] — Longitudinal analysis of public discourse on AI ethics in education
-- [[ethical-ai-higher-ed-game-theory]] — Game theory framework for ethical AI use in higher education
-- [[cost-of-ethics-crisis-cs-ethics-education]] — Cost-of-ethics crisis in the job searches of CS students
-- [[xai-education-framework]] — Explainable AI in education (XAI-ED)
-- [[daoism-ai-education-philosophy-2026]] — Alternative AI Philosophy: Daoism as Method for AI in Education
-- [[hazra-safetutors-pedagogical-safety-2026]] — AI tutor safety and pedagogical harms
-- [[raffaghelli-situated-ai-ethics-2026]] — Situated AI ethics: a cultural-historical framework for education
-- [[ethically-mediated-ai-tpack-china-2026]] — AI-ethical knowledge as an integrative mediator in university teachers' AI-TPACK (Chen et al. 2026)
-- [[ai-ethics-bibliometric-2026]] — AI Ethics and Professional Judgment: A Bibliometric Analysis (Mazlan et al. 2026)
+- [[kirsanov-beyond-detection-ai-online-assessments-2026]] — Wie Studierende KI in Online-Prüfungen nutzen und verbergen
+- [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — Offenlegung von KI-Nutzung durch Studierende, Stigma und selbstreguliertes Lernen
+- [[vetter-hidden-cost-disclosure-genai-2026]] — Die verborgenen Kosten der Offenlegung
+- [[gonsalves-student-non-compliance-ai-declarations-2025]] — Nichteinhaltung von Erklärungen zur KI-Nutzung durch Studierende
+- [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026]] — Sicht von Fakultätsmitgliedern und Studierenden auf ethische Dimensionen von KI
+- [[ethical-use-ai-engineering-education-review-2026]] — Ethischer Einsatz von KI in der Ingenieurbildung: ein systematischer Review
+- [[ai-ethics-education-public-discourse]] — Längsschnittanalyse des öffentlichen Diskurses über KI-Ethik in der Bildung
+- [[ethical-ai-higher-ed-game-theory]] — Spieltheoretischer Rahmen für ethischen KI-Einsatz in der Hochschulbildung
+- [[cost-of-ethics-crisis-cs-ethics-education]] — Cost-of-Ethics-Krise in der Jobsuche von Informatikstudierenden
+- [[xai-education-framework]] — Erklärbare KI in der Bildung (XAI-ED)
+- [[daoism-ai-education-philosophy-2026]] — Alternative KI-Philosophie: Daoismus als Methode für KI in der Bildung
+- [[hazra-safetutors-pedagogical-safety-2026]] — Sicherheit von KI-Tutoren und pädagogische Schäden
+- [[raffaghelli-situated-ai-ethics-2026]] — Situierte KI-Ethik: ein kulturhistorischer Rahmen für die Bildung
+- [[ethically-mediated-ai-tpack-china-2026]] — KI-ethisches Wissen als integrativer Vermittler im AI-TPACK von Universitätslehrkräften (Chen et al. 2026)
+- [[ai-ethics-bibliometric-2026]] — KI-Ethik und professionelles Urteilsvermögen: eine bibliometrische Analyse (Mazlan et al. 2026)
 - [[adarkwah-genai-unesco-policy-2026]] — UNESCO generative AI policy framework analysis
-- [[luo-eaton-ai-student-feedback-ethics-2026]] — Is it ethical for teachers to use AI for student feedback?
-- [[fekete-ethical-ai-literacy-gaps-2026]] — Bridging ethical AI literacy gaps across students, educators, and policy
-- [[alharbi-ethical-genai-eap-2026]] — Ethical generative AI integration in English for Academic Purposes
-- [[alsuhaymi-sustainable-education-ai-digitalization-2026]] — Value-critical approach to sustainable education and AI (Alsuhami & Atallah 2026)
-- [[ethical-conditions-llm-exam-preparation-2026]] — Ethical conditions for LLM adoption in exam preparation (Pérez-Portabella et al. 2026)
-- [[longitudinal-ai-usage-ethics-policy-teacher-education-2026]] — Longitudinal GenAI usage, ethics, and policy in teacher education (Parker et al. 2026)
-- [[agarwal-ethical-values-norms-aied-2026]] — Ethical values and norms for AI in education
-- [[genai-higher-ed-agency-responsibility-discourse-2026]] — Who Acts, Who Knows, Who Answers? A Corpus-Assisted Discourse Analysis of Agency, Epistemic Responsibility, and Accountability in Generative AI Higher Education Research
+- [[luo-eaton-ai-student-feedback-ethics-2026]] — Ist es ethisch, wenn Lehrkräfte KI für Feedback an Studierende nutzen?
+- [[fekete-ethical-ai-literacy-gaps-2026]] — Überbrückung ethischer KI-Kompetenzlücken bei Studierenden, Lehrenden und in der Politik
+- [[alharbi-ethical-genai-eap-2026]] — Ethische Integration generativer KI in English for Academic Purposes
+- [[alsuhaymi-sustainable-education-ai-digitalization-2026]] — Wertkritischer Ansatz zu nachhaltiger Bildung und KI (Alsuhami & Atallah 2026)
+- [[ethical-conditions-llm-exam-preparation-2026]] — Ethische Bedingungen für die Adoption von LLMs in der Prüfungsvorbereitung (Pérez-Portabella et al. 2026)
+- [[longitudinal-ai-usage-ethics-policy-teacher-education-2026]] — Längsschnittliche GenAI-Nutzung, Ethik und Politik in der Lehrkräftebildung (Parker et al. 2026)
+- [[agarwal-ethical-values-norms-aied-2026]] — Ethische Werte und Normen für KI in der Bildung
+- [[genai-higher-ed-agency-responsibility-discourse-2026]] — Wer handelt, wer weiß, wer antwortet? Eine korpusgestützte Diskursanalyse von Handlungsfähigkeit, epistemischer Verantwortung und Rechenschaftspflicht in der Forschung zu generativer KI in der Hochschulbildung
+- [[ayanwale-ethical-engagement-ai-growth-modeling-2026]] — Ethisches Bewusstsein, Reflexion und berichtetes verantwortungsvolles Handeln wuchsen über drei jährliche Wellen hinweg weitgehend unabhängig voneinander (Ayanwale et al

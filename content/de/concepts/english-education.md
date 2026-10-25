@@ -1,7 +1,7 @@
 ---
 title: Englischunterricht (EAP / EFL / ESL)
 created: "2026-08-21T12:30:00-04:00"
-updated: "2026-10-10T09:04:24-04:00"
+updated: "2026-10-24T23:48:52-04:00"
 type: concept
 foundations: [academic-integrity]
 technology: [generative-ai]
@@ -11,7 +11,7 @@ discipline: [english education, language learning, writing education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/english-education
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-21T12:05:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -19,6 +19,7 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+connected_resources: [teacher-dev]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -83,6 +84,8 @@ Viele Artikel zu Schreibunterricht sind englischfirst (z. B. [[marked-pedagogies
 
 Die Englischdominanz der KI ist ein bestimmendes Merkmal dieses Strangs. Weil Modelle am stärksten im Englischen und spezifisch im Standard-Akademisch-Englisch sind, profitiert Englischunterricht sowohl überproportional (mächtige EAP-Stützen) als auch trägt er kennzeichnende Risiken (monolinguale Voreingenommenheit, Diskriminierung von World Englishes und mehrsprachigen Schreibenden). Forschung hier verbindet sich mit [[equity-in-ai-education|Gerechtigkeit]], [[bias-mitigation|Bias-Minderung]], [[automated-assessment|automatisiertem Assessment]], [[ai-feedback-quality|Qualität von KI-Feedback]] und [[academic-integrity|akademischer Integrität]].
 
+Eine auf Scopus basierende Synthese von 54 EFL-Studien verortet die am häufigsten berichteten [[limitations-in-aied-research|Grenzen]] des Felds in der Autonomie der Lernenden: [[cognitive-offloading|Übernutzung]] von KI in 27 Studien (50%) und vermindertes [[critical-thinking|kritisches Denken]] in 25 (46%), gegenüber unzuverlässiger KI-generierter Ausgabe in 22 (41%) als dem führenden technischen Problem ([[ai-limitations-efl-higher-education-review-2026|Espinoza-Celi & Vargas-Saritama (2026)]]).
+
 ## Implikationen für Lehrende in Englisch / EAP / EFL-ESL
 
 - **Die Stärke der KI für akademisches Englisch gezielt nutzen.** Weil Modelle im Englischen und im Standard-Akademisch-Englisch am stärksten sind, können EAP-Lehrende KI für genrebasiertes Schreiben, Differenzierung von Lesematerial ([[genai-differentiated-eap-reading-materials-2026|EAP-Material]]) und Überarbeitungsfeedback einsetzen — sollten KI aber als Partner für Entwurf und Feedback rahmen, nicht als Antwortmaschine.
@@ -112,22 +115,22 @@ Die Englischdominanz der KI ist ein bestimmendes Merkmal dieses Strangs. Weil Mo
 
 ## Verbundene Artikel
 
-- [[alharbi-ethical-genai-eap-2026]] — Ethical Generative AI Integration in EAP within Higher Education
-- [[feedback-literacy-scripts-eap-writing]] — Feedback Literacy Scripts and a Second-Rater Mechanism in GenAI EAP Writing Revision
-- [[genai-differentiated-eap-reading-materials-2026]] — From Unified to Differentiated Materials: GenAI-Supported Adaptation of EAP Reading Materials
-- [[tact-pedagogically-adaptive-esl-tutoring]] — TACT: Taxonomy-Aligned Post-Training for Pedagogically Adaptive English Tutoring
-- [[sutama-chatgpt-eportfolio-speaking-2026]] — Aligning ChatGPT with E-Portfolio Assessment as EFL Learning Model
-- [[irwin-muller-efl-peer-feedback-literacy]] — Positioning Generative AI in EFL Peer Feedback
-- [[ai-vs-human-assessment-efl-tpck-2026]] — AI-Generated versus Human-Developed Assessment Tasks in EFL Context
-- [[acceptance-ai-english-tools-2026]] — Acceptance of AI-Assisted English Language Learning Tools in Higher Education
-- [[ai-tools-arab-english-classrooms]] — AI tools in Arab University English classrooms
-- [[self-referential-l2-writing-llm-assessment]] — Toward Self-Referential Analytic Assessment: A Profile-Based Approach to L2 Writing Evaluation with LLMs
-- [[ai-interlocutor-l2-spoken-dialogue]] — What Changes When the Interlocutor Is an AI? L2 Spoken Dialogue
-- [[genai-linguistic-diversity-academic-writing]] — Generative AI and Linguistic Diversity in Academic Writing and Publishing
-- [[governing-unseen-ai-literacy-language-teachers-2026]] — Governing the Unseen: AI Literacy among Language Teachers
-- [[structural-silence-underrepresented-language-ai-2026]] — Structural Silence: Underrepresented Languages in AI Infrastructure
-- [[liu-emerging-tech-tefl-review-2026]] — Emerging technologies for TEFL
-- [[wang-goal-setting-ai-engagement-2026]] — Goal-setting theory: teacher support, achievement goals, and engagement in AI-assisted English learning (758 Chinese students)
-- [[bird-multimodal-educational-literature-2026]] — Multimodal fusion for classifying educational literature
-- [[li-language-educators-genai-review-2026]] — Language educators' practices and development with GenAI
-- [[zhao-ji-appraisal-human-ai-revisions-2026]] — Peer and AI revisions of EFL argumentative essays differ in dialogic positioning (Zhao & Ji 2026)
+- [[alharbi-ethical-genai-eap-2026]] — Ethische Integration generativer KI in EAP in der Hochschulbildung
+- [[feedback-literacy-scripts-eap-writing]] — Feedback-Literacy-Skripte und ein Zweitbewertungsmechanismus bei der GenAI-EAP-Schreibüberarbeitung
+- [[genai-differentiated-eap-reading-materials-2026]] — Von einheitlichen zu differenzierten Materialien: GenAI-unterstützte Anpassung von EAP-Lesematerialien
+- [[tact-pedagogically-adaptive-esl-tutoring]] — TACT: taxonomieausgerichtetes Post-Training für pädagogisch adaptives Englisch-Tutoring
+- [[sutama-chatgpt-eportfolio-speaking-2026]] — ChatGPT an das E-Portfolio-Assessment als EFL-Lernmodell anpassen
+- [[irwin-muller-efl-peer-feedback-literacy]] — Generative KI im EFL-Peer-Feedback positionieren
+- [[ai-vs-human-assessment-efl-tpck-2026]] — KI-generierte versus menschlich entwickelte Assessmentaufgaben im EFL-Kontext
+- [[acceptance-ai-english-tools-2026]] — Akzeptanz KI-unterstützter Werkzeuge für das Englischlernen in der Hochschulbildung
+- [[ai-tools-arab-english-classrooms]] — KI-Werkzeuge in arabischen universitären Englischklassen
+- [[self-referential-l2-writing-llm-assessment]] — Hin zu selbstreferenziellem analytischem Assessment: ein profilbasierter Ansatz zur Bewertung von L2-Schreiben mit LLMs
+- [[ai-interlocutor-l2-spoken-dialogue]] — Was sich ändert, wenn der Gesprächspartner eine KI ist? L2-gesprochener Dialog
+- [[genai-linguistic-diversity-academic-writing]] — Generative KI und sprachliche Vielfalt im akademischen Schreiben und Publizieren
+- [[governing-unseen-ai-literacy-language-teachers-2026]] — Das Unsichtbare regieren: KI-Kompetenz unter Sprachlehrenden
+- [[structural-silence-underrepresented-language-ai-2026]] — Structural Silence: unterrepräsentierte Sprachen in der KI-Infrastruktur
+- [[liu-emerging-tech-tefl-review-2026]] — Neue Technologien für TEFL
+- [[bird-multimodal-educational-literature-2026]] — Multimodale Fusion zur Klassifikation pädagogischer Literatur
+- [[li-language-educators-genai-review-2026]] — Praktiken und Entwicklung von Sprachlehrenden mit GenAI
+- [[zhao-ji-appraisal-human-ai-revisions-2026]] — Peer- und KI-Überarbeitungen von EFL-Argumentationsaufsätzen unterscheiden sich in der dialogischen Positionierung (Zhao & Ji 2026)
+- [[ai-limitations-efl-higher-education-review-2026]] — Übernutzung von KI (50% von 54 Studien) und vermindertes kritisches Denken führen die berichteten Grenzen an

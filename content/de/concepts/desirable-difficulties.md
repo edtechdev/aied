@@ -1,7 +1,7 @@
 ---
 title: Wünschenswerte Schwierigkeiten
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-10-10T09:04:27-04:00"
+updated: "2026-10-24T22:09:25-04:00"
 type: concept
 foundations: [cognitive-offloading]
 pedagogy: [cognitive-psychology, desirable-difficulties, learning-theories, metacognition, scaffolding, self-regulated-learning]
@@ -108,8 +108,8 @@ TutorMoments operationalisiert Prinzipien wünschenswerter Schwierigkeiten als E
 
 ## Verbundene Artikel
 
-- [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025]] — ChatGPT as a cognitive crutch: a delayed randomized test of removing desirable difficulty (Barcaui 2025)
-- [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — Against frictionless AI: the inverted-U argument for preserving beneficial friction
+- [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025]] — ChatGPT als kognitive Krücke: ein randomisierter Verzögerungstest zum Entfernen wünschenswerter Schwierigkeit (Barcaui 2025)
+- [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — Gegen reibungsloses KI: das invertierte-U-Argument zur Bewahrung nützlicher Reibung
 - [[agentic-ai-pedagogical-best-practice-2026]]
 - [[structured-llm-feedback-programming]]
 - [[generative-ai-reduced-study-time-math]]
@@ -120,12 +120,12 @@ TutorMoments operationalisiert Prinzipien wünschenswerter Schwierigkeiten als E
 - [[sequenced-ai-feedback-learning]]
 - [[critical-thinking-genai-scaffolding]]
 - [[epistemic-emotions-collaborative-problem-solving]]
-- [[young-people-learning-generative-ai-rapid-review-2026]] — Productive friction built into GenAI tools supports learning
-- [[zhang-tutormoments-2026]] — When Help is Unhelpful: evaluating AI tutors for productive struggle
-- [[kim-ai-productive-failure-adult-2026]] — Designing AI Systems to Support Productive-Failure-Based Learning
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pedagogical Steering of LLMs for Productive Failure
-- [[wang-safety-gap-productive-struggle-2026]] — The Safety Gap: Restoring Productive Struggle
-- [[rhaimi-productivemath-2025]] — ProductiveMath: AI to Support PF Problem Design
-- [[making-ai-annoying-constrained-writing-2026]] — Making AI annoying on purpose: constraint in AI-supported writing (Konradt, Boote & Taub 2026)
+- [[young-people-learning-generative-ai-rapid-review-2026]] — In GenAI-Werkzeuge eingebaute produktive Reibung unterstützt das Lernen
+- [[zhang-tutormoments-2026]] — Wenn Hilfe nicht hilft: Evaluierung von KI-Tutoren für produktives Ringen
+- [[kim-ai-productive-failure-adult-2026]] — Gestaltung von KI-Systemen zur Unterstützung Lernens auf Basis produktiven Scheiterns
+- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pädagogisches Steuern von LLMs für produktives Scheitern
+- [[wang-safety-gap-productive-struggle-2026]] — Die Safety Gap: produktives Ringen wiederherstellen
+- [[rhaimi-productivemath-2025]] — ProductiveMath: KI zur Unterstützung des Entwurfs von PF-Aufgaben
+- [[making-ai-annoying-constrained-writing-2026]] — KI absichtlich nervig machen: Einschränkung im KI-unterstützten Schreiben (Konradt, Boote & Taub 2026)
 - [[rachatasumrit-example-problem-ratio-2026]]
-- [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — Open Questions Towards Skill-Sustaining Reliance in Reflective AI Engagement
+- [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — Offene Fragen zur fähigkeitserhaltenden Abhängigkeit in reflektiertem KI-Engagement

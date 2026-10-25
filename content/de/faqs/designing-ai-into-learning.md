@@ -1,13 +1,14 @@
 ---
 title: "Wie sollte KI in die Lernerfahrung designed werden?"
 created: "2026-08-25T09:20:00-04:00"
-updated: "2026-10-10T09:50:26-04:00"
+updated: "2026-10-24T19:50:00-04:00"
 connected_faqs: [designing-educational-ai-software, developing-ai-tutor]
 weight: 72
 foundations: [learning-design, reducing-ai-misuse]
 pedagogy: [active-learning, pedagogy, scaffolding]
+audience: [instructional designers, instructors]
 translation_of: faqs/designing-ai-into-learning
-source_updated: "2026-10-02T08:21:34-04:00"
+source_updated: "2026-10-21T14:32:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -18,8 +19,6 @@ ai_assist:
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
-
-# Wie sollte KI in die Lernerfahrung designed werden?
 
 **Beginnen Sie beim Lernziel und beim Lernprozess – nicht beim KI-Merkmal.** Das [[pedagogy|Pädagogiken und Lehrstrategien]]-Konzept der Wissensbasis betont, dass dieselbe KI je nach Instruktionsdesign als Scaffold, [[socratic-method|sokratischer]] Gesprächspartner, Feedbackpartner, [[simulation]] oder Antwortgenerator fungieren kann. Was zählt, ist, ob die Konfiguration die Aktivität erhält, die das beabsichtigte Lernen erzeugt.
 
@@ -56,3 +55,4 @@ Die Synthese [[reducing-ai-misuse|Reduktion von KI-Missbrauch]] empfiehlt spezif
 Das breitere Prinzip in [[finkelstein-principled-ai-education-2025|dem Principled AI Education Framework]] ist, dass Technologie menschliche Fähigkeiten, die Bildung zu entwickeln beabsichtigt, erweitern statt verdrängen sollte. Siehe auch [[learning-design|Instruktionsdesign]], [[active-learning|aktives Lernen]] und [[scaffolding]].
 
 Für die pädagogischen Standards, die entscheiden, ob eine designede Interaktion Lernen erhält, siehe [[reduce-ai-cheating]] und [[redesign-assessment-ai-era]]; dafür, wie dieselben Prinzipien die Software selbst beschränken, siehe [[designing-educational-ai-software]], und für ihre Übersetzung in die Architektur eines Tutors siehe [[developing-ai-tutor]].
+

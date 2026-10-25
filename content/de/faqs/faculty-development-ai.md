@@ -1,7 +1,7 @@
 ---
 title: "Wie designe ich Fakultätsentwicklung für KI, die die Praxis tatsächlich verändert?"
 created: "2026-09-16T15:58:20-04:00"
-updated: "2026-10-10T09:50:26-04:00"
+updated: "2026-10-24T20:13:33-04:00"
 connected_faqs: [faculty-ai-competencies, top-10-findings-ai-education-instructors]
 weight: 65
 type: faq
@@ -12,7 +12,7 @@ audience: [faculty developers, administrators]
 level: [higher ed, teacher education, k 12]
 institutions: [change-management]
 translation_of: faqs/faculty-development-ai
-source_updated: "2026-10-02T08:21:34-04:00"
+source_updated: "2026-10-21T14:32:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -23,8 +23,6 @@ ai_assist:
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
-
-# Wie designe ich Fakultätsentwicklung für KI, die die Praxis tatsächlich verändert?
 
 Wenn Sie Fakultätsentwicklung betreiben, ist der Druck, unter dem Sie stehen, wahrscheinlich einer von diesen: Ihr Provost will dieses Jahr ein KI-Programm, die Teilnahme ist gut, aber es verändert sich nichts in den Klassenzimmern, oder die Leute, die es am meisten brauchen, kommen nicht. Alle drei zeigen auf denselben Designfehler. Was die Praxis einer Lehrkraft verändert, ist nicht zu lernen, was ein Werkzeug kann; es ist, unterstützte, strukturierte Zeit mit einem Problem in *ihrem eigenen* Kurs zu verbringen, lange genug, dass eine neue Gewohnheit eine alte ersetzt, wobei die Institution das Experiment explizit bejaht statt es bloß zu erlauben.
 

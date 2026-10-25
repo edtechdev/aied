@@ -2,7 +2,7 @@
 connected_resources: [deeptutor]
 title: Agentische KI
 created: "2026-08-01T04:07:54-04:00"
-updated: "2026-10-10T09:04:23-04:00"
+updated: "2026-10-24T19:40:06-04:00"
 connected_faqs: [ai-agents-support-students-instructors, asynchronous-online-courses-ai, making-simulated-students-behave-like-learners]
 type: concept
 foundations: [agency, agentic-ai, ai-literacy, cognitive-offloading]
@@ -217,5 +217,5 @@ Agentische KI ist weder Allheilmittel noch unvermeidlicher Schaden: Ihr Wert hä
 - [[ai-agents-complete-lms-assessment-validity-2026]] — KI-Agenten, die LMS-Aufgaben erledigen; Validitätsversagen über die Annahme menschlicher Produktion (Hadjisolomou & El-Haddad 2026)
 - [[ai-web-agents-lesson-design-2025]] — AI Web Agents: ein beschreibender Agent als Evaluator von Lernerfahrungen (sagt Abbrüche voraus, gibt Design-Feedback, bevor Studierende einsteigen)
 - [[spec-driven-development-ai-agents-sdpbl-2026]] — SDD mit KI-Agenten im Software-PBL; Automatisierung versus Verständnis
-- [[ai-standardized-patient-scaffolding-medical-2026]] — Evaluating Scaffolding-Oriented Multi-Agent Large Language Model System for Clinical Interview Training
-- [[ethics-training-agents-group-ethics-discussion-2026]] — Ethics Training Agents: Facilitating Group-Based Ethics Education with Role-Playing and Discussion for Ethical Reflection and Exploration
+- [[ai-standardized-patient-scaffolding-medical-2026]] — Evaluierung eines scaffolding-orientierten Multi-Agenten-Large-Language-Model-Systems für das Training klinischer Interviews
+- [[ethics-training-agents-group-ethics-discussion-2026]] — Ethics-Training-Agenten: Gruppenbasierte Ethikbildung mit Rollenspiel und Diskussion für ethische Reflexion und Erkundung

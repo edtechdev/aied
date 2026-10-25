@@ -1,7 +1,7 @@
 ---
 title: Mathematikbildung
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-10T09:04:25-04:00"
+updated: "2026-10-24T20:27:31-04:00"
 type: concept
 pedagogy: [scaffolding]
 technology: [generative-ai, intelligent-tutoring]
@@ -9,8 +9,9 @@ discipline: [math education, stem education]
 audience: [learners, instructors]
 level: [k 12, higher ed]
 confidence: high
+connected_resources: [teacher-dev]
 translation_of: concepts/math-education
-source_updated: "2026-10-05T11:00:00-04:00"
+source_updated: "2026-10-23T09:20:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -40,7 +41,13 @@ Mathematikbildung ist ein primäres Gebiet für [[ai-education|KI in der Bildung
 
 **KI-Mathematiktutoring und Scaffolding** ist das größte Cluster, mit vier Artikeln, die untersuchen, wie KI-Tutoren Mathematiklernen unterstützen oder untergraben. **[[kar-mathbuddy-affective-math-tutoring-2025|MathBuddy]]** zeigt, dass das Hinzufügen affektiven Bewusstseins — Erkennen von Emotionen der Lernenden aus Text und Gesichtsausdrücken — einen Vorteil von +23 Prozentpunkten bei der Gewinnrate in Mathematik Tutoring erzeugt, und verbindet sich damit mit [[affective-computing|affective computing]] und [[affective-tutoring|affektivem Tutoring]]. **[[zhang-tutormoments-2026|TutorMoments]]** evaluiert 462 von Lehrenden annotierte Transkripte aus Mathematik-Tutoring der Klassenstufen 2–7 und findet, dass Frontier-Modelle zu Überfürsorglichkeit voreingestellt sind und selten auf Rigorität drängen, selbst wenn Lernende bereit sind — was die Ausrichtung zwischen KI-Hilfsbereitschaft und [[scaffolding|Scaffolding]]-Prinzipien direkt infrage stellt. **[[lak2026-hint-button-unproductive-use|An et al.]]** analysierten 999 Lernende über drei Semester im *Decimal Point* ITS und fanden, dass vorzeitige Hinweisanfragen und oberflächliches Hinweislesen konsistent reduzierte [[learning-gains|Lernzuwächse]] vorhersagen, selbst nach Kontrolle auf [[prior-knowledge|Vorwissen]] — ein Befund, der sich mit [[help-seeking|Hilfesuche]] und [[learning-analytics|Learning Analytics]] verbindet.
 
+**Ein Zufriedenheits-Nachteil.** Ein LLM-Tutor, der durch einen [[productive-failure|produktives-Scheitern]]-Plan gesteuert wurde, statt ihn antworten zu lassen, erhöhte die Strategietreue und erzeugte 2,6 Lösungsversuche pro Sitzung in einer High-School-Studie mit 17 Lernenden, doch die Studierenden bewerteten den produktives-Scheitern-Tutor als weniger hilfreich als eine Baseline ([[puech-pedagogical-steering-llm-productive-failure-2025|Puech et al. (2025)]]).
+
 **Sozio-emotionale Unterstützung kann eher Effizienz als Leistung kaufen.** Das Hinzufügen einer LLM-Achtsamkeitsschicht zu einem Algebratutor der 7. Jahrgangsstufe ließ Lernen und mathematische Zustandsangst zwischen den Armen unverändert (42 von 252 Studierenden analysiert nach Störungen), dennoch erreichten Lernende in der Achtsamkeitsbedingung vergleichbares Lernen mit weniger Zeit und weniger angeforderten Hinweisen ([[mindful-llm-math-tutoring-2026|Rief et al., 2026)]]).
+
+Über Fachdomänen hinweg gepoolt war der Effekt von GenAI auf die Lernmotivation am größten in Sprache (g = 0,946) und moderat in Mathematik (g = 0,711, 95% KI [0,356, 1,066], k = 4), sodass das [[motivation|motivationale]] Argument für GenAI in Mathematik auf einer kleinen, explorativen Untergruppe beruht statt auf einem stabilen Effekt ([[genai-learning-motivation-meta-analysis-2026|Fang et al. (2026)]]).
+
+**Offloading innerhalb Mathematik-Hausaufgaben.** Chatlog-Spuren von 23 Lineare-Algebra-Lernenden zeigen, wie sich das Prompt-Mix mit der Aufgabe bewegt, während 90% der Einreichungen nahe an der Ausgabe des Modells blieben, und ein Beweiskurs mit 153 Lernenden fand KI-unterstützte Hausaufgabengewinne ohne Prüfungsgewinn ([[llm-math-homework-offloading-traces-2026|Kontorovich & Wallach (2026)]]; [[ai-proof-learning-cognitive-offloading-2026|Chen et al. (2026)]]).
 
 **[[cognitive-diagnosis|Kognitive Diagnose]] und Assessment** erkundet die Fähigkeit von KI, mathematisches Denken zu bewerten. [[razavi-powers-item-difficulty-llm-2026|Razavi und Powers (2026)]] fügen eine großmaßstäbliche Itemschwierigkeitsstudie hinzu, die Mathematik und Lesen umfasst: Über 5,170 Items der Klassenstufen K–5, kalibriert unter dem Rasch-IRT-Modell, korrelierten GPT-4os Zero-Shot-Schwierigkeitsbewertungen mäßig bis stark mit den wahren Schwierigkeiten (r = 0,83 Mathematik, r = 0,81 Lesen), waren aber ungleich über Klassenstufen hinweg, während ein merkmalsbasierter Ansatz (LLM-extrahierte Merkmale in baumbasierte Modelle) Korrelationen bis zu r = 0,87 erreichte, mit Klassenstufe und Wortzahl als Top-Prädiktoren. Die Studie bietet einen praktischen siebenschrittigen Ablauf für Testprofis und mahnt, dass Generalisierbarkeit jenseits von Mathematik und Lesen in K–5 unklar ist. **[[llm-cognitive-diagnosis-handwritten-math|MathCog]]** benchmarkte 18 LLMs an 3,036 von Lehrenden annotierten Diagnoseurteilen aus handschriftlicher Mathematikarbeit und fand, dass alle Modelle stark unterdurchschnittlich abschneiden (F1 < 0,5), mit systematischer Überattribuierung und Halluzination von Evidenz — und verbindet sich damit mit [[knowledge-tracing|Knowledge Tracing]], [[hallucination-risk|Halluzinationsrisiko]] und [[multimodal|multimodalen]] Assessment-Herausforderungen. **[[representation-robustness-llm-math-problem-solving|Nath et al.]]** zeigten, dass [[llm|LLM]]-Mathematik-[[problem-solving|Problemlösen]] hoch sensitiv gegenüber Oberflächenrepräsentation ist — Modelle drehen Korrektheit über äquivalente Problemformulierungen um —, was [[assessment-validity|Validitäts]]bedenken für KI-basierte Mathematikbewertung aufwirft.
 
@@ -50,9 +57,17 @@ Mathematikbildung ist ein primäres Gebiet für [[ai-education|KI in der Bildung
 
 **Unterstützung der Lehrenden** erkundet KI-Werkzeuge für Mathematiklehrende. **Rollenspiel mit simulierten Lernenden** dient auch der Praxis von Lehrenden: [[zhuang-zhang-chatgpt-math-teacher-education-2026|Zhuang und Zhang (2025)]] bauten *Student GPT*, einen eigenen ChatGPT-[[conversational-ai|Chatbot]], der eine Mittelstufen-lernende Person mit verbreiteten [[misconceptions|Missverständnissen]] im Verhältnisschlussfolgern spielte, und gaben angehenden Mathematiklehrenden der Sekundarstufe risikoarme Praxis darin, das Denken der Lernenden zu diagnostizieren und zu korrekten Lösungen hin zu lenken — und illustrieren damit [[generative-ai|GenAI]]-gestützte [[simulation|Simulation]] als Ergänzung zu kostspieligen Plattformen wie TeachLivE für den Aufbau pädagogischen Inhaltswissens über Missverständnisse der Lernenden.
 
+**Angehende Lehrkräfte können mit GenAI erkunden, aber noch nicht validieren.** In einem Kurs Abstrakte Algebra waren 13 von 18 angehenden Mathematiklehrenden adäquat darin, Beispiele und Gegenbeispiele zu konstruieren, während 14 von 18 auf den zwei niedrigsten Stufen beim Urteilen darüber, ob eine KI-Antwort gültig war, saßen ([[preservice-math-teachers-genai-communication-2026|Nurlaelah et al. (2026)]]).
+
+KI-Werkzeuge im Klassenzimmer erzeugen auch Orchestrierungsarbeit, die die ältere Typologie nicht benennt: Die Beobachtung von sechs Mathematikstunden an Schulen der Sekundarstufe fand Lehrkräfte, die [[visualization|Dashboards]] überwachten, das falsche [[feedback|Feedback]] der KI korrigierten und ihre Ausgabe für die Klasse vermittelten, wobei inhaltliches und [[ethics|ethisches]] Urteil am sichtbarsten wurden, wenn ein KI-Fehler korrigiert wurde ([[teachers-instrumental-orchestration-ai-math-2026|Noh & Kim, 2026]]).
+
 Die einzige feldebene Synthese dieses Gebiets in der Wissensbasis ist ein PRISMA-Review von 42 Studien (2021–2025), gescreent aus 922 Datensätzen (Cohen's Kappa = 0,88), und er fügt eine Kategorie hinzu, die den Clustern der Seite sonst fehlt: Lehrenden gerichtete Automatisierung, wo MATH41 rasche Produktion von Mathematikaufgaben für Lernende auf verschiedenen Stufen unterstützt und das hybride Modell CognifyNet die Aktivitätsmuster der Studierenden analysiert, damit Lehrende aufkommende Schwierigkeiten früh erkennen können. Derselbe Review verortet den blinden Fleck des Felds — mit Bildung bei 60% und Informatik bei 28% der Studiendomänen fiel nur eine Studie unter Psychologie, wodurch emotionale Wirkung, Vertrauen und Ethik vergleichsweise untererkundet bleiben —, und besteht darauf, dass technische Fähigkeit nicht mit demonstrierter Kursraumwirksamkeit gleichzusetzen ist. ([[ai-mathematics-education-prisma-review-2026]])
 
+Das Herausforderungsranking des Gebiets setzt Lehrkräftekompetenz an erste Stelle. Ein zweiter systematischer Review, von 54 Studien aus den Jahren 2017–2025, zählte technologisch-pädagogische Integration und Lehrkräftebereitschaft in 38, Gerechtigkeits- und Zugangsrisiken in 34 und Grenzen tiefen Denkens in 29, und verbindet sie mit instruktionalen Antworten in einem dreidimensionalen Rahmen ([[manto-ai-integration-mathematics-education-systematic-review-2026|Manto et al. (2026)]]).
+
 **Mathematik in der Hochschulbildung** erkundet die Wirkung von KI auf fortgeschrittene mathematische Praxis. **[[genai-runaway-object-math-higher-ed|Bui et al.]]** wandten [[sociocultural-learning|soziokulturelle]] Theorie auf [[generative-ai|GenAI]] in der Universitätsmathematik an und analysierten KI als „runaway object", der akademische Praxis auf Weisen transformiert, die [[governance|institutionellen]] und pädagogischen Normen vorauseilen.
+
+**Symbolische Hindernisse in der Analysis** sind repräsentational statt prozedural: Die Übersetzung von Graph zu Symbol war das dominierende Hindernis, und nach einer KI-unterstützten Sequenz sanken kodierte symbolische Fehler um 27,4%–53,8% ([[ai-scaffolding-symbolic-obstacles-calculus-2026|Nursit et al., 2026]]).
 
 **LLM-Tutoring und [[learning-design|Unterrichtsdesign]]** ist ein aufkommendes Cluster von zwei Studien aus 2026, die die Mathematik-Evidenzbasis verschärfen. [[rule-integrated-llm-tutoring-primary-math-2026|Looi, Liu und Sun (2026)]] entwickelten ein regelgelenktes [[intelligent-tutoring|LLM-Tutoringsystem]] für Mathematik-Textaufgaben der Grundschule, dessen dreischichtige Architektur (Diagnose → Absichtsauswahl → eingeschränkte Antworterzeugung) die Interaktionskonsistenz verbesserte und vorzeitiges Antwortgeben in einem Piloten mit 40 Lernenden der 5. Jahrgangsstufe reduzierte — ein Beleg dafür, dass prozedurale Mathematikdomänen [[guardrails|strukturierte Regelwächter]] für ansonsten stochastisches LLM-Scaffolding brauchen. [[instructional-design-proficiency-masters-math-2026|Zhu, Liang, Mao und Wang (2026)]] wandten ein Smart-Classroom-Modell auf Mathematik-Studierende im M.Ed. an und fanden statistisch signifikante Zuwächse (p < .05) im Design von Unterrichtszielen über die Dimensionen Curriculum-Standards, Lehrbuch und Studierendenbedingungen hinweg.
 
@@ -63,7 +78,9 @@ Promptdesign ist selbst ein messbarer Hebel: Am MathDial-Benchmark erhöhte ein 
 - **Visuelle Gedankenkette: die [[agency|Autonomie]]lücke in der Geometrie.** GeoVAD-Bench diagnostiziert intermediäre visuelle Hilfen statt Endergebnisse über 600 Hilfskonstruktionsprobleme (200 leicht, 200 mittel, 200 schwer) und findet ein konsistentes Muster: Das Bereitstellen des Referenz-Hilfsdiagramms verbessert die Genauigkeit bescheiden (+3,3, +3,0, +7,0 Punkte über drei Modelle), während es dem Modell überlassen zu bleiben, seine eigene Hilfslinie auf dem Weg zur richtigen Antwort zu konstruieren, die Lücke um 10,0 bis 13,5 Punkte erweitert, wobei zwei Modelle schlechter abschneiden, als hätten sie gar kein visuelles Schlussfolgern gehabt. Vier Prozessfehlerkategorien erklärten 93,1% und 89,7% der attribuierten Fehlschläge. Für [[problem-solving|Problemlösen]]-Instruktion ist der Befund, dass diagrammatisches Scaffolding getrennt von Antwortgenauigkeit trainiert und evaluiert werden muss. ([[geovad-bench-visual-chain-of-thought-geometry-2026]])
 - **KI-anfällige Probleme verlieren Lernzeit und Behalten.** Ein zehnjähriges Panel von 3,2 Millionen ALEKS-Interaktionen fand, dass die Lernzeit bei textbasierten Textaufgaben — jenen, die am leichtesten in KI-Prompts transkribierbar sind — nach ChatGPTs Veröffentlichung um 26,9% fiel, während aufgesehene Behaltensitems einen Rückgang der Chancen einer richtigen Antwort um 25% zeigten ([[generative-ai-reduced-study-time-math|Rismanchian et al., 2026)]]).
 - **Lernende schätzen unmittelbares Feedback, aber optionale Übungsplattformen bleiben ungenutzt.** Von 157 Lernenden sahen [[genai-practice-platform-maths-feedback-2026|Chen et al. (2026)]] 95 sich registrieren und nur 34 eine Frage versuchen; Nutzerinnen und Nutzer bewerteten Engagement am höchsten (79% Zustimmung), während nur 42% die Plattform gegenüber dem bestehenden Aufgabenheft bevorzugten.
-- **KI kann Leistung erhöhen und gleichzeitig eine Geschlechterlücke erweitern.** In einem sechswöchigen Quasi-Experiment mit 115 nigerianischen Oberstufenlernenden erhöhte ChatGPT-Feedback die Leistung bei quadratischen Gleichungen gegenüber konventionellem Unterricht (29,18 gegenüber 24,06), dennoch übertrafen männliche Lernende weibliche (30,95 gegenüber 25,16), trotz fehlenden Geschlechterunterschieds in der Selbstwirksamkeit — eine Gerechtigkeitsmahnung für KI-Unterstützung in Mathematik ([[ai-generated-responses-achievement-self-efficacy-2026|Oladayo & Diri, 2026)]]).
+- **Fehler werden zum Mechanismus.** Das Einbetten von KI in eine meisterschaftsbasierte Übungsplattform verlangsamte den Fortschritt — Studierende versuchten weniger Fragen —, erhöhte aber die Korrektheit beim nächsten Versuch nach Fehlern, während eine Meisterschaftsregel von drei richtigen Antworten in Folge den Plattform-Erfolg steigerte, ohne verzögertes Lernen zu verbessern ([[making-ai-tutoring-productive-mastery-math-2026|Oreopoulos et al. (2026)]]).
+- **KI kann Leistung erhöhen und gleichzeitig eine Geschlechterlücke erweitern.** In einem sechswöchigen Quasi-Experiment mit 115 nigerianischen Oberstufenlernenden erhöhte ChatGPT-Feedback die Leistung bei quadratischen Gleichungen gegenüber konventionellem Unterricht (29,18 gegenüber 24,06), dennoch übertrafen männliche Lernende weibliche (30,95 gegenüber 25,16), trotz fehlenden Geschlechterunterschieds in der Selbstwirksamkeit — eine Gerechtigkeitsmahnung für KI-Unterstützung in Mathematik
+- **Studierende bevorzugen weiterhin die Bewertungsentscheidung der Lehrkraft.** In einem Vignetten-Experiment mit 250 Lernenden der 7. Jahrgangsstufe zogen von der Lehrkraft getroffene Entscheidungen zu einer Mathematikaufgabe höhere Akzeptanz an als von KI getroffene (M = 4,48 gegenüber M = 3,47), wahrgenommene Fairness trug 67,52% des Effekts, und schriftliche Erklärungen erweiterten die Fairnesslücke, statt sie zu schließen ([[decision-making-agent-student-decision-acceptance-2026|Zhang, Fan & Qi (2026)]]). ([[ai-generated-responses-achievement-self-efficacy-2026|Oladayo & Diri, 2026)]]).
 
 ### Verbindungen zu verwandten Konzepten
 
@@ -107,12 +124,16 @@ Mathematikbildung sitzt innerhalb der breiteren Domäne [[stem-education|STEM]] 
 
 ## Verbundene Artikel
 
-- [[ai-mathematics-education-prisma-review-2026]] — Artificial intelligence in mathematics education: A PRISMA-based systematic literature review (2021-2025)
-- [[automated-scoring-economics-math-items-nigeria-2026]] — Automated software scoring of senior school certificate examination mathematical items in economics using a contextual similarity model
-- [[mindful-llm-math-tutoring-2026]] — Beyond Problem Solving: Large Language Models for Emotional and Reflective Support in Mathematics Learning
-- [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — Virtual tutoring with CAL: an experiment in take-up and learning
-- [[making-ai-tutoring-productive-mastery-math-2026]] — Making AI tutoring productive: mastery-based math practice
-- [[chudziak-ai-math-tutoring-platform]] — AI-powered math tutoring platform (Chudziak & Kostka 2025)
+- [[llm-math-homework-offloading-traces-2026]] — Was die Einreichung nicht zeigt: kognitives Offloading im mathematischen Arbeiten von Lernenden mit LLMs komplexifizieren (Kontorovich & Wallach 2026)
+- [[ai-proof-learning-cognitive-offloading-2026]] — Das Denken der Lernenden unterstützen oder ersetzen? Kognitives Offloading im KI-unterstützten Beweislernen (Chen et al. 2026)
+- [[preservice-math-teachers-genai-communication-2026]] — Mathematische Kommunikation zwischen Lehramtsstudierenden für Mathematik und GenAI analysieren: eine Fallstudie im Kurs Abstrakte Algebra
+- [[ai-scaffolding-symbolic-obstacles-calculus-2026]] — Symbolische Hindernisse im Analysisstudium sind ein Repräsentationsengpass, mit weniger kodierten symbolischen Fehlern nach KI-Scaffolding (Nursit et al. 2026)
+- [[manto-ai-integration-mathematics-education-systematic-review-2026]] — KI-Integration in der Mathematikbildung: Implementierungsherausforderungen und pädagogische Implikationen (Manto et al. 2026)
+- [[ai-mathematics-education-prisma-review-2026]] — Künstliche Intelligenz in der Mathematikbildung: ein PRISMA-basierter systematischer Literaturreview (2021-2025)
+- [[automated-scoring-economics-math-items-nigeria-2026]] — Automatisierte Software-Bewertung mathematischer Items der Abschlussprüfung der Sekundarstufe in Wirtschaft mithilfe eines kontextuellen Ähnlichkeitsmodells
+- [[mindful-llm-math-tutoring-2026]] — Jenseits der Problemlösung: Large Language Models für emotionale und reflexive Unterstützung im Mathematiklernen
+- [[making-ai-tutoring-productive-mastery-math-2026]] — KI-Tutoring produktiv machen: meisterschaftsbasiertes Mathematiküben
+- [[chudziak-ai-math-tutoring-platform]] — KI-gestützte Mathematik-Tutoringplattform (Chudziak & Kostka 2025)
 - [[kar-mathbuddy-affective-math-tutoring-2025]]
 - [[zhang-tutormoments-2026]]
 - [[lak2026-hint-button-unproductive-use]]
@@ -121,20 +142,15 @@ Mathematikbildung sitzt innerhalb der breiteren Domäne [[stem-education|STEM]] 
 - [[epistemic-proactivity-math]]
 - [[ai-powered-personalized-learning-elementary-fractions-2026]]
 - [[teacher-control-ai-generation-math-visuals]]
-- [[ai-tpack-preservice-math-teachers]]
 - [[genai-runaway-object-math-higher-ed]]
-- [[generative-ai-reduced-study-time-math]] — ALEKS mastery platform: text-based problems most AI-susceptible
-- [[mujib-ai-ibl-creative-math-2026]] — KI-unterstütztes IBL und kreative mathematische Leistung
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pedagogical Steering of LLMs for Productive Failure
-- [[rhaimi-productivemath-2025]] — ProductiveMath: AI to Support Productive Failure Problem Design
-- [[preferred-scaffolding-ai-mathematical-modeling]] — Preferred scaffolding in AI-supported mathematical modeling
-- [[instructional-design-proficiency-masters-math-2026]] — Smart-classroom model and D-T-E loop improving M.Ed. instructional design proficiency in mathematics (Zhu et al. 2026)
-- [[rule-integrated-llm-tutoring-primary-math-2026]] — Rule-guided vs ad-hoc scaffolding in an LLM tutoring system for primary mathematics (Looi et al. 2026)
-- [[ai-modeling-problem-generation-platform-2026]] — AI-powered platform generating mathematical modeling problems (ADDIE, RAG)
-- [[razavi-powers-item-difficulty-llm-2026]] — Estimating item difficulty using LLMs and tree-based ML
+- [[generative-ai-reduced-study-time-math]] — ALEKS-Meisterschaftsplattform: textbasierte Aufgaben am stärksten KI-anfällig
+- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pädagogisches Steuern von LLMs für produktives Scheitern
+- [[instructional-design-proficiency-masters-math-2026]] — Smart-Classroom-Modell und D-T-E-Schleife verbessern die Unterrichtsdesign-Profizienz im M.Ed. in Mathematik (Zhu et al. 2026)
+- [[rule-integrated-llm-tutoring-primary-math-2026]] — Regelgeleitetes versus ad-hoc-Scaffolding in einem LLM-Tutoringystem für den Mathematikunterricht der Grundschule (Looi et al. 2026)
+- [[razavi-powers-item-difficulty-llm-2026]] — Itemschwierigkeit mit LLMs und baumbasiertem ML schätzen
 - [[zhuang-zhang-chatgpt-math-teacher-education-2026]]
-- [[gpt4-handwritten-math-exam-grading-2026]] — GPT-4 grading of semi-open handwritten university mathematics answers
-- [[exrec-exercise-recommendation-knowledge-tracing-2025]] — semantic knowledge-concept annotation and RL exercise sequencing on K-12 math corpora
-- [[misconception-acquisition-dynamics-llms-2026]] — algebra mal-rule training dynamics in language models
 - [[genai-practice-platform-maths-feedback-2026]] — Optionale GenAI-Übungsplattform in einer Mathematikklasse mit 157 Lernenden: unmittelbares Feedback geschätzt, Nutzung auf 34 aktive Nutzerinnen und Nutzer begrenzt
-- [[ai-generated-responses-achievement-self-efficacy-2026]] — Assessing the Influence of AI-Generated Responses on Academic Achievement: An Ethical Perspective and Self-Efficacy
+- [[ai-generated-responses-achievement-self-efficacy-2026]] — Den Einfluss KI-generierter Antworten auf akademische Leistung bewerten: eine ethische Perspektive und Selbstwirksamkeit
+- [[teachers-instrumental-orchestration-ai-math-2026]] — Orchestrierungsarbeit im Klassenzimmer im Mathematikunterricht der Sekundarstufe: Dashboards lesen und KI-Feedback korrigieren
+- [[decision-making-agent-student-decision-acceptance-2026]] — Lernende bevorzugen weiterhin die Bewertungsentscheidung der Lehrkraft
+- [[genai-learning-motivation-meta-analysis-2026]] — Motivationsgewinne in Mathematik beruhen auf vier Studien (g = 0,711)

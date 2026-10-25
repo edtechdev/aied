@@ -1,13 +1,13 @@
 ---
 title: Item-Response-Theorie
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-10-10T09:04:23-04:00"
+updated: "2026-10-24T20:43:02-04:00"
 type: concept
 technology: [knowledge-tracing, student-modeling]
 assessment: [assessment-validity, educational-measurement, psychometrically-aware-ai]
 confidence: medium
 translation_of: concepts/item-response-theory
-source_updated: "2026-10-05T08:24:47-04:00"
+source_updated: "2026-10-16T09:45:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -41,7 +41,9 @@ IRT behandelt Fähigkeit (θ) und Itemparameter (Schwierigkeit, Trennschärfe, m
 - **Knowledge Tracing und Modellierung von Studierenden:** IRT ist eng verwandt mit [[knowledge-tracing|Knowledge Tracing]] und [[student-modeling|Modellierung von Studierenden]] – Modelle, die das Wissen von Lernenden über die Zeit verfolgen –, und teilt das Ziel, unbeobachtbare Lernendenzustände aus beobachtbaren Antworten zu schätzen.
 
 - **IRT-Größen aus LLM-Logits ausgelesen.** [[huang-interpretable-knowledge-tracing-2026|Huang et al. (2026)]] extrahieren Studierendenfähigkeit θ = z^GOOD − z^BAD und Tutorzug-Schwierigkeit d = z^HARD − z^EASY aus Next-Token-Logits und kombinieren sie in einem 1PL-Rasch-Prädiktor, wodurch dialogbasiertes Knowledge Tracing interpretierbar wird (64,29% Genauigkeit, 65,25 AUC auf QATD2k).
+- **Dialogue-Subtasks auf derselben Skala wie Fragen.** [[unified-irt-framework-question-tutoring-dialogue-2026|Duan et al. (2026)]] schreiben die von Tutor:innen mitten im Dialog gestellten Subtasks in eigenständige Fragen um und ordnen sie auf einer gemeinsamen 1PL-IRT-Skala an, deren Schwierigkeit aus dem Fragetext kommt, wobei scaffold-after-struggle- und push-for-rigor-Züge als Supervision für die Schwierigkeitsordnung dienen.
 - **Bayesianische hierarchische Feldvalidierung:** [[assessing-quality-ai-generated-exams-field-2025|Assessment KI-generierter Prüfungen]] nutzt ein bayesianisches hierarchisches 2PL-IRT-Modell (mit Pre-Test-Ankeritems, um 1.686 Studierende auf eine gemeinsame θ-Skala zu setzen), um zu zeigen, dass KI-generierte Fragen in Schwierigkeit und Trennschärfe zu von Experten geschriebenen standardisierten Prüfungsitems passen – eine groß angelegte Demonstration von IRT als Validierungsrückgrat für [[automated-question-generation|automatisierte Aufgengenerierung]].
+- **Ein standardsabgestimmter [[benchmark]] kann saturieren.** Auf NGSS-abgestimmten [[k-12|Mittelschul-]] und High-School-Naturwissenschaftssets erzielten die meisten offengewichteten Modelle über 90%, was die klassischen Itemmetriken schwach werden ließ — hohe Schwierigkeit, niedrige Trennschärfe, mit trivialen Zellen über 90% —, sodass die Autoren schwache Items nicht von einer Domäne trennen können, die beherrschbar geworden ist ([[llm-benchmark-secondary-science-topics-2026|Schroeder et al. (2026)]]).
 - **Testinformation lokalisiert Präzision.** Ein 20-items Test zur GenAI-Kompetenz, validiert mit einem 2PL-Modell (RMSEA = 0,03, CFI = 0,97), hatte seine Informationsfunktion bei θ = −0,8 am höchsten, wodurch er für Lernende mit niedriger bis moderater Kompetenz am präzisesten war statt gleichmäßig über die Skala ([[jin-glat-genai-literacy-assessment|Jin et al. (2025)]]).
 
 - **Menschliche von GenAI-Antworten mit Person-Fit-Statistiken trennen:** [[irt-human-genai-mcq-responses|Strugatski und Alexandron (2026)]] wenden Person-Fit-Statistiken (PFS) innerhalb von IRT an, um menschliche von [[generative-ai|generative KI]]antworten in Multiple-Choice-Assessments zu unterscheiden. PFS markieren GenAI-Antworten in zwei authentischen Kontexten (einem [[chemistry-education|Chemie]]test und einer nationalen Prüfung) als „abweichende“ Antwortende, zeigen, dass verschiedene [[conversational-ai|Chatbots]] unterschiedliche Antwortmuster erzeugen (eine heterogene Gruppe von „Intelligenzen“), und offenbaren, dass neuere GenAI-Versionen menschenähnlicher werden –, was IRT als robustes Rahmenwerk für [[academic-integrity|Integrität]]screening in folgenreichen Tests positioniert.
@@ -76,21 +78,23 @@ IRT ist ein Fundament von [[educational-measurement|Bildungsmessung]] und [[asse
 - [[intelligent-tutoring]]
 
 ## Verbundene Artikel
-- [[explaining-question-difficulty-natural-language-2026]] — Explaining LLM question difficulty in natural language through IRT and causal edits (Cui et al. 2026)
-- [[item-writing-flaws-irt-difficulty-2026]] — Impact of item-writing flaws on IRT difficulty and discrimination (Schmucker & Moore 2026)
-- [[causal-modeling-competency-assessment-2026]] — Causal Modeling of Support Interventions for Student Competency Assessment
-- [[assessment-latent-structure-human-llm-2026]] — Do assessment instruments measure the same thing for humans and LLMs? (Strugatski et al. 2026)
-- [[assessing-quality-ai-generated-exams-field-2025]] — Large-scale IRT field validation of AI-generated exams
-- [[jin-glat-genai-literacy-assessment]] — GLAT uses IRT/2PL validation (Jin et al. 2025)
-- [[llm-item-difficulty-prediction]] — LLM prediction of item difficulty
-- [[llm-psychometric-calibration-cdp]] — Aligning LLM assessment with psychometric calibration
-- [[llm-difficulty-calibration-programming-exams-2026]] — LLM difficulty calibration in programming exams
-- [[multimodal-item-parameter-estimation-2026]] — Multimodal item-parameter estimation
-- [[huang-interpretable-knowledge-tracing-2026]] — Interpretable knowledge tracing
-- [[irt-human-genai-mcq-responses]] — Using IRT to separate human and GenAI MCQ responses
-- [[razavi-powers-item-difficulty-llm-2026]] — Estimating item difficulty using LLMs and tree-based ML
+- [[unified-irt-framework-question-tutoring-dialogue-2026]] — Ein einheitlicher Antwortrahmen für Fragen und Tutoringsdialoge
+- [[explaining-question-difficulty-natural-language-2026]] — Erklärung der Schwierigkeit von LLM-Fragen in natürlicher Sprache durch IRT und kausale Edits (Cui et al. 2026)
+- [[item-writing-flaws-irt-difficulty-2026]] — Auswirkung von Mängeln der Itemkonstruktion auf IRT-Schwierigkeit und -Trennschärfe (Schmucker & Moore 2026)
+- [[causal-modeling-competency-assessment-2026]] — Kausales Modellieren von Unterstützungsinterventionen für die Kompetenzbeurteilung von Studierenden
+- [[assessment-latent-structure-human-llm-2026]] — Messen Assessmentinstrumente für Menschen und LLMs dasselbe? (Strugatski et al. 2026)
+- [[assessing-quality-ai-generated-exams-field-2025]] — Großangelegte IRT-Feldvalidierung KI-generierter Prüfungen
+- [[jin-glat-genai-literacy-assessment]] — GLAT nutzt IRT-/2PL-Validierung (Jin et al. 2025)
+- [[llm-item-difficulty-prediction]] — LLM-Vorhersage der Itemschwierigkeit
+- [[llm-psychometric-calibration-cdp]] — Ausrichtung der LLM-Assessmentpraxis an psychometrischer Kalibrierung
+- [[llm-difficulty-calibration-programming-exams-2026]] — LLM-Schwierigkeitskalibrierung in Programmierprüfungen
+- [[multimodal-item-parameter-estimation-2026]] — Multimodale Schätzung von Itemparametern
+- [[huang-interpretable-knowledge-tracing-2026]] — Interpretierbares Knowledge Tracing
+- [[irt-human-genai-mcq-responses]] — IRT nutzen, um menschliche und GenAI-MCQ-Antworten zu trennen
+- [[razavi-powers-item-difficulty-llm-2026]] — Schätzung der Itemschwierigkeit mit LLMs und baumbasiertem ML
 - [[cvengros-grading-handwritten-chemistry-ai-2026]]
-- [[process-grounded-language-cognitive-diagnosis-2026]] — Beyond ID Embeddings: Process-Grounded Language Modeling for Cognitive Diagnosis
-- [[bayesian-consensus-irt-item-banks-2026]] — Bayesian consensus calibration of a continuously evolving IRT item bank (Jewsbury et al. 2026)
-- [[assessing-teachers-ai-literacy-measurement-tools-2026]] — Field audit showing IRT/Rasch rarely used as primary validation evidence in teacher AI literacy instruments
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: AI and human tutoring yield equivalent GRE learning gains
+- [[process-grounded-language-cognitive-diagnosis-2026]] — Beyond ID Embeddings: Prozessgegründetes Sprachmodellieren für kognitive Diagnose
+- [[bayesian-consensus-irt-item-banks-2026]] — Bayesianische Konsenskalibrierung einer kontinuierlich wachsenden IRT-Itembank (Jewsbury et al. 2026)
+- [[assessing-teachers-ai-literacy-measurement-tools-2026]] — Feldbegutachtung, die zeigt, dass IRT/Rasch in Lehrkraft-KI-Kompetenzinstrumenten selten als primäre Validierungsevidenze genutzt werden
+- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: KI- und menschliches Tutorieren erzielen gleichwertige GRE-Lernzuwächse
+- [[llm-benchmark-secondary-science-topics-2026]] — Ein standardsabgestimmter Benchmark kann saturieren

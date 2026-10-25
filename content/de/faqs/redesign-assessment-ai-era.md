@@ -1,13 +1,14 @@
 ---
 title: "Wie gestalte ich Assessment neu, damit eine Note weiterhin etwas Vertretbares darüber sagt, was die Person weiß oder kann?"
 created: "2026-08-25T09:20:00-04:00"
-updated: "2026-10-10T09:50:26-04:00"
+updated: "2026-10-24T21:57:17-04:00"
 connected_faqs: [should-we-use-ai-detectors, reduce-ai-cheating, writing-instruction-ai-best-practices, course-ai-policy]
 weight: 84
+audience: [instructors, assessment designers]
 foundations: [academic-integrity]
 assessment: [assessment, assessment-validity, authentic-assessment]
 translation_of: faqs/redesign-assessment-ai-era
-source_updated: "2026-10-02T08:21:34-04:00"
+source_updated: "2026-10-21T14:32:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -18,8 +19,6 @@ ai_assist:
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
-
-# Wie gestalte ich Assessment neu, damit eine Note weiterhin etwas Vertretbares darüber sagt, was die Person weiß oder kann?
 
 **Beginnen Sie damit, explizit zu benennen, welche Fähigkeit die Note repräsentieren soll.** Bewerten Sie, was ein Student eigenständig kann, was er angemessen mit KI leisten kann, seine Fähigkeit, KI zu bewerten und zu leiten, oder eine Kombination davon? Die Wissensbasis behandelt das in [[assessment-validity|Assessmentvalidität]] als Validitätsproblem: ein poliertes Artefakt ist nicht mehr hinreichender Beleg, dass die Person die offenbar durch jenes Artefakt demonstrierte Fähigkeit besitzt. Das ist die Assessment-Hälfte desselben Arguments; die Durchsetzungs-Hälfte ist in [[reduce-ai-cheating]], und die allgemeine Validitätsrahmung läuft über [[evaluating-ai-interventions-methods]].
 

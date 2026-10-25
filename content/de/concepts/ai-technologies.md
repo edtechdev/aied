@@ -1,7 +1,7 @@
 ---
 title: Technologien
 created: "2026-08-19T18:10:00-04:00"
-updated: "2026-10-10T09:04:25-04:00"
+updated: "2026-10-24T21:46:00-04:00"
 type: concept
 foundations: [agentic-ai]
 technology: [ai-technologies, educational-nlp, educational-robotics, generative-ai, knowledge-graph, llm, multimodal, prompt-engineering, rag, reinforcement-learning, simulation]
@@ -88,12 +88,12 @@ Der technische Strang ist untrennbar mit den anderen Themen der Wissensbasis ver
 - [[personalized-learning]]
 
 ## Verbundene Artikel
-- [[agentic-ai-education-scoping-review]] — Scoping review of agentic AI in education
-- [[genai-meta-analysis-programming-learning]] — Meta-analysis of GenAI's effect on productivity and learning in programming
-- [[cstutorbench-slm-tutors]] — Small language model tutoring benchmarks
-- [[educational-llm-alignment]] — Aligning LLMs for education
-- [[eduguard-safe-rag-llm-tutor]] — Guardrailing RAG-based LLM tutors
-- [[hazra-safetutors-pedagogical-safety-2026]] — AI tutor safety and harms
-- [[elbench-education-llm-benchmark-2026]] — Education LLM benchmark
-- [[teachy-mini-generative-social-robot-higher-ed-2026]] — Teachy Mini generative social robot
-- [[benzion-ai-physics-simulations-virtual-lab]] — LLM-generated physics simulations for the classroom
+- [[agentic-ai-education-scoping-review]] — Scoping Review zu agentischer KI in der Bildung
+- [[genai-meta-analysis-programming-learning]] — Metaanalyse der Wirkung von GenAI auf Produktivität und Lernen im Programmieren
+- [[cstutorbench-slm-tutors]] — Benchmarks für Tutoring mit kleinen Sprachmodellen
+- [[educational-llm-alignment]] — Ausrichtung von LLMs an die Bildung
+- [[eduguard-safe-rag-llm-tutor]] — Leitplanken für RAG-basierte LLM-Tutoren
+- [[hazra-safetutors-pedagogical-safety-2026]] — Sicherheit und Schäden von KI-Tutoren
+- [[elbench-education-llm-benchmark-2026]] — LLM-Benchmark für die Bildung
+- [[teachy-mini-generative-social-robot-higher-ed-2026]] — Teachy Mini, generativer sozialer Roboter
+- [[benzion-ai-physics-simulations-virtual-lab]] — LLM-erzeugte Physiksimulationen für das Klassenzimmer

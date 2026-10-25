@@ -1,7 +1,7 @@
 ---
 title: ICAP-Rahmen
 created: "2026-08-14T04:33:38-04:00"
-updated: "2026-10-10T09:04:24-04:00"
+updated: "2026-10-24T20:27:31-04:00"
 type: concept
 connected_faqs: [designing-ai-into-learning]
 foundations: [learning-design]
@@ -102,10 +102,10 @@ ICAPs Betonung generativen, prozessbezogenen Engagements wurde von Assessmentrah
 ## Verbundene Artikel
 
 - [[icap-cognitive-engagement-llm-agents]] — Erweitertes ICAP-Framework zur Messung von Engagement mit menschlicher gegenüber LLM-Annotation
-- [[hingle-collaborative-ai-literacy-2025]] — Collaborative AI literacy across the four ICAP modes
+- [[hingle-collaborative-ai-literacy-2025]] — Kollaborative KI-Kompetenz über die vier ICAP-Modi hinweg
 - [[interactive-learning-dashboards-engagement]] — ICAP als Kritik an flachem Learning-Analytics-Engagement
-- [[multimodal-learning-genai]] — ICAP and cognitive engagement in multimodal learning design
-- [[llm-facilitation-timing-online-discussions]] — LLM facilitation timing in online collaborative discussions
-- [[adaptive-scaffolding-cognitive-engagement-its]] — Adaptive ICAP scaffolding in an ITS (BKT vs DRL)
-- [[cogevolution-student-cognitive-evolution-agent-2026]] — ICAP cognitive-depth model in a generative student-simulation agent
-- [[assessing-student-drive-framework-2025]] — ICAP-anchored assessment of reflective GenAI interaction
+- [[multimodal-learning-genai]] — ICAP und kognitives Engagement im multimodalen Lerndesign
+- [[llm-facilitation-timing-online-discussions]] — Timing der LLM-Moderation in kollaborativen Online-Diskussionen
+- [[adaptive-scaffolding-cognitive-engagement-its]] — Adaptives ICAP-Scaffolding in einem ITS (BKT vs. DRL)
+- [[cogevolution-student-cognitive-evolution-agent-2026]] — ICAP-Tiefenmodell der Kognition in einem generativen Lernenden-Simulationsagenten
+- [[assessing-student-drive-framework-2025]] — An ICAP verankerte Bewertung reflexiver GenAI-Interaktion

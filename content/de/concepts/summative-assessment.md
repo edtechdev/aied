@@ -1,7 +1,7 @@
 ---
 title: Summatives Assessment
 created: "2026-08-19T17:30:00-04:00"
-updated: "2026-10-10T09:04:24-04:00"
+updated: "2026-10-24T20:13:33-04:00"
 type: concept
 foundations: [academic-integrity]
 assessment: [assessment, authentic-assessment, summative-assessment, educational-measurement]
@@ -44,6 +44,7 @@ Die Forschung der Wissensbasis dokumentiert, wie generative KI die Landschaft su
 - **Übereinstimmung im Ergebnis kann ungenaue Item-Benotung überleben.** Gegen moderierte offizielle Benotungen korrelierte ein multimodales LLM, das 10,364 handschriftliche Seiten der Physikolympiade und von Universitäten benotete, bei r = 0.93–0.96 und rekonstruierte dasselbe fünfköpfige internationale Team, obwohl die genaue Übereinstimmung bei Aufgabenteilen 70% erreichte — ein Benotender wird an den Entscheidungen gemessen, die er informiert ([[ai-grading-handwritten-physics-2026|Pathak et al. (2026)]]).
 - **KI als Umgehung.** Weil generative KI Antworten auf schriftliche Fragen erzeugen kann, verlieren unbeaufsichtigte und Take-home-summative Aufgaben Validität: [[generative-ai-reduced-study-time-math|beaufsichtigte, ungestützte Maße sind unverzichtbar]], weil unbeaufsichtigte Leistung durch KI aufgebläht ist, und [[generative-ai-guardrails-harm-learning|mit Leitplanken versehene (Hinweis-statt-Antwort) Werkzeuge]] können die Prüfungsstrafe beseitigen, die unbewachte KI verursacht. [[chirikov-ai-grade-inflation-2026|Chirikovs (2026)]] Quasi-Experiment an über 500,000 Noten macht den Mechanismus konkret: nach der Veröffentlichung von ChatGPT sahen Kurse mit mehr KI-exponierten Aufgaben den Anteil der A-Noten um 13 Prozentpunkte steigen, und der Effekt konzentrierte sich auf **hausaufgabenlastige Kurse** (zusätzliche 16 pp in der Dreifachdifferenz-Schätzung) — direkte Evidenz dafür, dass unbeaufsichtigte Hausaufgaben, nicht echte [[learning-gains|Lernzugewinne]], der Ort sind, wo KI summative Ergebnisse aufbläht.
 - **KI-erzeugte Prüfungen.** [[assessing-quality-ai-generated-exams-field-2025|Eine groß angelegte Feldstudie]] und [[ai-vs-human-assessment-efl-tpck-2026|EFL-Assessment-Forschung]] untersuchen, ob KI hochwertige Prüfungen und Assessmentaufgaben *erzeugen* kann — eine aufkommende summativ-designende Nutzung von KI.
+- **Studierende können KI-gefertigte Items nicht verlässlich erkennen.** In einer benoteten Familienmedizin-Prüfung fanden [[vogt-ai-mcq-recognition-medical-assessment-2026|Vogt et al. (2026)]] keinen signifikanten Unterschied in der Quellenattribution zwischen 30 KI-erzeugten und 30 Multiple-Choice-Items aus Lizenzierungsprüfungen, eine mittlere korrekte Erkennung von 68.6 bis 77.5 Prozent, und 18.2 Prozent der erzeugten Items fielen in der [[human-in-the-loop-ai|menschlichen Prüfung]] weg.
 
 ## KI-resistente summative Formate
 
@@ -84,28 +85,29 @@ Die Assessmentliteratur der Wissensbasis betont konsistent, dass [[assessment|As
 - [[k-12]]
 
 ## Verbundene Artikel
-- [[llm-grading-assistants-public-health-2026]] — LLM graders compress the grade scale and avoid the extremes in high-stakes essay assessment
+- [[llm-grading-assistants-public-health-2026]] — LLM-Benotende komprimieren die Notenskala und vermeiden die Extreme in hochriskanter Aufsatzbewertung
 
 - [[academic-dishonesty-automated-proctoring-ai-2026]]
 - [[automated-online-exam-proctoring-decade-review-2026]]
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — Reconsidering oral exams as authentic, AI-resistant summative assessment
-- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — The generative AI learning penalty: proctored/closed-book exam evidence
-- [[chirikov-ai-grade-inflation-2026]] — AI task displacement as a mechanism of grade inflation; homework-heavy courses (Chirikov 2026)
-- [[generative-ai-reduced-study-time-math]] — Faster completion, less learning: proctored measures essential
-- [[generative-ai-guardrails-harm-learning]] — Generative AI without guardrails harms learning
-- [[assessing-quality-ai-generated-exams-field-2025]] — Assessing the quality of AI-generated exams
-- [[llms-do-not-grade-essays-like-humans-2026]] — LLMs do not grade essays like humans
-- [[llm-automated-assessment-student-self-explanations]] — LLMs for automated assessment of student self-explanations
+- [[fenton-oral-exams-ai-authentic-assessment-2025]] — Mündliche Prüfungen neu gedacht als authentisches, KI-resistentes summatives Assessment
+- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — Die Lernstrafe generativer KI: Evidenz aus beaufsichtigten Klausuren
+- [[chirikov-ai-grade-inflation-2026]] — Verdrängung von Aufgaben durch KI als Mechanismus der Noteninflation; hausaufgabenlastige Kurse (Chirikov 2026)
+- [[generative-ai-reduced-study-time-math]] — Schnellerer Abschluss, weniger Lernen: beaufsichtigte Maße unverzichtbar
+- [[generative-ai-guardrails-harm-learning]] — Generative KI ohne Leitplanken schadet dem Lernen
+- [[assessing-quality-ai-generated-exams-field-2025]] — Die Qualität KI-erzeugter Prüfungen bewerten
+- [[llms-do-not-grade-essays-like-humans-2026]] — LLMs benoten Aufsätze nicht wie Menschen
+- [[llm-automated-assessment-student-self-explanations]] — LLMs zur automatisierten Bewertung von Selbsterklärungen Studierender
 - [[cong-confidence-asag-2026]] — Automatic short-answer grading
 - [[psyscore-essay-scoring-zpd-feedback]] — Psychometrically-aware trait-adaptive essay scoring
-- [[socratic-tests-conversational-assessment]] — Socratic tests: dynamic, conversational, multimodal assessment
-- [[code-review-genai-cs1]] — Code review interviews in CS1
-- [[responsible-assessment-ai-era-stanford-2026]] — Responsible assessment in the AI era
-- [[test-driven-ai-assisted-learning]] — Test-driven AI-assisted learning
-- [[genai-oop-programming-assessments-2026]] — GenAI performance on object-oriented programming assessments
-- [[brcic-effortless-trap-productive-struggle-2026]] — The Effortless Trap: productive struggle and the illusion of learning
-- [[ai-vs-human-assessment-efl-tpck-2026]] — AI-generated versus human-developed assessment tasks in EFL
-- [[roe-assessment-twins-2026]] — Assessment twins for strengthening assessment validity in the age of GenAI (Roe, Perkins & Giray 2026)
-- [[ai-grading-handwritten-physics-2026]] — AI grading of handwritten physics assessments (Olympiad)
+- [[socratic-tests-conversational-assessment]] — Sokratische Tests: dynamisches, konversationelles, multimodales Assessment
+- [[code-review-genai-cs1]] — Code-Review-Interviews in CS1
+- [[responsible-assessment-ai-era-stanford-2026]] — Verantwortungsvolles Assessment im KI-Zeitalter
+- [[test-driven-ai-assisted-learning]] — Testgetriebenes KI-unterstütztes Lernen
+- [[genai-oop-programming-assessments-2026]] — GenAI-Leistung in Assessments zur objektorientierten Programmierung
+- [[brcic-effortless-trap-productive-struggle-2026]] — The Effortless Trap: produktive Anstrengung und die Illusion des Lernens
+- [[ai-vs-human-assessment-efl-tpck-2026]] — KI-erzeugte versus menschlich entwickelte Assessment-Aufgaben im EFL
+- [[roe-assessment-twins-2026]] — Assessment-Zwillinge zur Stärkung der Assessmentvalidität im GenAI-Zeitalter (Roe, Perkins & Giray 2026)
+- [[ai-grading-handwritten-physics-2026]] — KI-Benotung handschriftlicher Physik-Assessments (Olympiade)
 - [[mesny-innovative-assessment-grading-management-2026]]
 - [[cvengros-grading-handwritten-chemistry-ai-2026]]
+- [[vogt-ai-mcq-recognition-medical-assessment-2026]] — Studierende können KI-gefertigte Items nicht verlässlich erkennen

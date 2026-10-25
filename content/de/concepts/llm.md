@@ -1,7 +1,7 @@
 ---
 title: Große Sprachmodelle (LLMs)
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-10T09:04:24-04:00"
+updated: "2026-10-24T20:13:33-04:00"
 type: concept
 connected_faqs: [making-ai-better-at-supporting-learning]
 foundations: [ai-literacy]
@@ -78,16 +78,16 @@ LLMs bekräftigen auch bevorzugt: über 11 Modelle hinweg bekräftigten KI-Antwo
 - [[ai-technologies]] — Dachbegriff: KI-Technologien und -Verfahren (Modelle, LLM-Training, Robotik, RAG, agentisch)
 
 ## Verbundene Artikel
-- [[assessing-quality-ai-generated-exams-field-2025]] — Assessing the quality of AI-generated exams: a large-scale field study
+- [[assessing-quality-ai-generated-exams-field-2025]] — Die Qualität KI-erzeugter Prüfungen bewerten: eine groß angelegte Feldstudie
 - [[educational-llm-alignment]]
 - [[cstutorbench-slm-tutors]]
 - [[hazra-safetutors-pedagogical-safety-2026]]
 - [[llm-item-difficulty-prediction]]
 - [[eduguard-safe-rag-llm-tutor]]
 - [[llm-difficulty-calibration-programming-exams-2026]]
-- [[lopez-pernas-llm-appropriate-student-support-2026]] — Can AI deliver appropriate support for diverse student profiles? A large-scale evaluation
-- [[yasar-llms-iterative-pedagogical-design-2026]] — LLMs as agents of iterative pedagogical design
-- [[razavi-powers-item-difficulty-llm-2026]] — Estimating item difficulty using LLMs and tree-based ML
+- [[lopez-pernas-llm-appropriate-student-support-2026]] — Kann KI angemessene Unterstützung für vielfältige Studierendenprofile liefern? Eine groß angelegte Evaluation
+- [[yasar-llms-iterative-pedagogical-design-2026]] — LLMs als Agenten iterativen pädagogischen Designs
+- [[razavi-powers-item-difficulty-llm-2026]] — Aufgabenschwierigkeit mit LLMs und baumbasiertem ML schätzen
 - [[auto-marking-short-answer-science-2026]]
 - [[reddig-maclellan-personalized-feedback-llm-2026]]
 - [[oppenheimer-llms-collaborative-learning-partners-2026]]
@@ -96,7 +96,7 @@ LLMs bekräftigen auch bevorzugt: über 11 Modelle hinweg bekräftigten KI-Antwo
 - [[falahat-chatgpt-grading-pharmacy-exams-2026]]
 - [[olvet-genai-scoring-open-ended-medical-2026]]
 - [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]
-- [[student-llm-use-ai-question-difficulty-data-science-2026]] — Student Use of LLMs and the Limits of AI-Generated Question Difficulty in Data Science Courses
-- [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors: Assertion-based Schemas for Auditable Coding of Educational Dialogues
+- [[student-llm-use-ai-question-difficulty-data-science-2026]] — Nutzung von LLMs durch Studierende und die Grenzen KI-erzeugter Aufgabenschwierigkeit in Data-Science-Kursen
+- [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors: behauptungsbasierte Schemata für auditierbares Kodieren von Bildungsdialogen
 
-- [[ai-personal-coach-review-benefits-risks-2026]] — Sycophancy across 11 LLMs: AI affirmed users 49% more than humans, raising trust and continued use
+- [[ai-personal-coach-review-benefits-risks-2026]] — Sykophantie über 11 LLMs hinweg: KI bejahte Nutzende 49 % mehr als Menschen, was Vertrauen und fortgesetzte Nutzung erhöhte

@@ -1,7 +1,7 @@
 ---
 title: Sozial-emotionales Lernen
 created: "2026-08-13T18:30:57-04:00"
-updated: "2026-10-10T09:04:24-04:00"
+updated: "2026-10-24T23:32:01-04:00"
 type: concept
 foundations: [ai-literacy, teacher-ai-competency]
 pedagogy: [self-regulated-learning, well-being]
@@ -123,17 +123,17 @@ SEL verbindet sich mit [[ai-literacy|KI-Kompetenz]] (als Komplement, das KI-Komp
 
 ## Verbundene Artikel
 
-- [[sec-ai-literacy-narrative-review-2026]] — Integrating Social-Emotional Competencies Into AI Literacy
-- [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai]] — Mind the Trust Gap: Teacher-Student Views
-- [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]] — The Scaffolded AI literacy (SAIL) framework
-- [[teacher-education-ai-literacy-sdt-2026]] — Teacher Education for AI Literacy (SDT)
-- [[student-dependency-on-ai-literacy-self-efficacy-2026]] — Student Dependency on AI, Self-Efficacy, and Resource Management
-- [[self-efficacy-tutoring-learning]] — Self-Efficacy and Favorability Shape Learning from Tutoring
-- [[shame-guilt-ai-regulation-computing-education]] — Shame and Guilt as Social Regulators of AI Use
-- [[substitution-to-scaffolding-ai-harm-cycle-2026]] — From Substitution to Scaffolding
-- [[ai-chatbot-collective-efficacy-collaborative-learning]] — AI Chatbots and Collective Efficacy
-- [[kar-mathbuddy-affective-math-tutoring-2025]] — MathBuddy: Affective Math Tutoring
-- [[ai-campus-wellbeing-tools]] — AI-Driven Campus Well-being Tools
-- [[policy-deficit-ai-sel-2026]] — The Policy Deficit in AI × SEL Research
-- [[human-ai-complementarity-social-emotional-learning-2026]] — Human–AI complementarity in early social-emotional learning (Raave et al. 2026)
-- [[parlant-emotional-micro-interventions-2026]] — Real-time emotional micro-interventions and a phrasebook for instructors
+- [[sec-ai-literacy-narrative-review-2026]] — Integration sozial-emotionaler Kompetenzen in KI-Kompetenz
+- [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai]] — Die Vertrauenslücke im Blick: Sicht von Lehrkraft und Studierenden
+- [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]] — Das gerüstete KI-Kompetenz-Framework (SAIL)
+- [[teacher-education-ai-literacy-sdt-2026]] — Lehrkräftebildung für KI-Kompetenz (SDT)
+- [[student-dependency-on-ai-literacy-self-efficacy-2026]] — Abhängigkeit von KI, Selbstwirksamkeit und Ressourcenmanagement bei Studierenden
+- [[self-efficacy-tutoring-learning]] — Selbstwirksamkeit und Sympathie prägen das Lernen durch Tutoring
+- [[shame-guilt-ai-regulation-computing-education]] — Scham und Schuld als soziale Regulatoren der KI-Nutzung
+- [[substitution-to-scaffolding-ai-harm-cycle-2026]] — Von der Substitution zum Scaffolding
+- [[ai-chatbot-collective-efficacy-collaborative-learning]] — KI-Chatbots und kollektive Wirksamkeit
+- [[kar-mathbuddy-affective-math-tutoring-2025]] — MathBuddy: affektives Mathematik-Tutoring
+- [[ai-campus-wellbeing-tools]] — KI-gestützte Campus-Wohlbefinden-Werkzeuge
+- [[policy-deficit-ai-sel-2026]] — Das Politikdefizit in der KI-×-SEL-Forschung
+- [[human-ai-complementarity-social-emotional-learning-2026]] — Mensch-KI-Komplementarität im frühen sozial-emotionalen Lernen (Raave et al. 2026)
+- [[parlant-emotional-micro-interventions-2026]] — Emotionale Mikro-Interventionen in Echtzeit und ein Phrasenbuch für Lehrende

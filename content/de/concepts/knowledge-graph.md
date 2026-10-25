@@ -1,7 +1,7 @@
 ---
 title: Wissensgraph
 created: "2026-08-09T16:55:17-04:00"
-updated: "2026-10-10T09:04:24-04:00"
+updated: "2026-10-24T22:37:29-04:00"
 type: concept
 foundations: [ai-education, curriculum-design]
 technology: [generative-ai, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, student-modeling]
@@ -78,18 +78,18 @@ Wissensgraphen verbinden sich mit [[learning-design|Lerndesign]] (definieren, wa
 - [[ai-technologies]] — Dachbegriff: KI-Technologien und -Verfahren (Modelle, LLM-Training, Robotik, RAG, agentisch)
 - [[recommender-systems-and-learning-paths]]
 ## Verbundene Artikel
-- [[incipit-axiom-grounded-scaffolding-literary-creation-2026]] — A curator-built graph of 1,455 literary axioms with a structural audit and no provenance record (Liu & Zhao 2026)
-- [[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026]] — Ontology-based layered hybrid knowledge model for personalized e-learning
-- [[learnity-graphs-lifelong-learning-framework-2026]] — Learnity graphs for lifelong learning
-- [[veriforge-narrative-drafting-scaffolding-2026]] — Veriforge: narrative-drafting scaffolds
-- [[quantum-education-its]] — Quantum education intelligent tutoring (ITAS)
-- [[multimodal-knowledge-graph-educational-reasoning]] — Multimodal knowledge graphs for educational reasoning
-- [[coursegraph-cs-course-comparison-2026]] — CourseGraph: CS course comparison
-- [[proprl-prerequisite-relation-learning]] — ProPrL: prerequisite-relation learning
-- [[knowledge-gap-detection-ai-tas]] — Knowledge-gap detection in AI teaching assistants
-- [[visual-query-tracer-declarative-logic-learning]] — Visual query tracer for declarative logic learning
-- [[fair-explainable-edu-recommendations]] — Fair and explainable educational recommendations
-- [[hybrid-cf-kg-recommendation-multimodal-teaching-2026]] — Hybrid CF–KG cross-domain recommendation for multimodal teaching resources
-- [[xie-hillm-cd-2026]] — HiLLM-CD: LLM-driven cognitive diagnosis
-- [[graph-its-adaptive-algorithms-2026]] — Graph-Based Intelligent Tutoring for Dynamic Domains (2026)
-- [[cogevol-learning-environment-generation-2026]] — CogEvol: Learning Environment Generation
+- [[incipit-axiom-grounded-scaffolding-literary-creation-2026]] — Ein von Kurator:innen erstellter Graph von 1.455 literarischen Axiomen mit einem Struktur-Audit und ohne Provenienz-Datensatz (Liu & Zhao 2026)
+- [[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026]] — Ontologiebasiertes geschichtetes hybrides Wissensmodell für personalisiertes E-Learning
+- [[learnity-graphs-lifelong-learning-framework-2026]] — Learnity-Graphen für lebenslanges Lernen
+- [[veriforge-narrative-drafting-scaffolding-2026]] — Veriforge: narrative Entwurfsgerüste
+- [[quantum-education-its]] — Intelligentes Tutoring für Quantenbildung (ITAS)
+- [[multimodal-knowledge-graph-educational-reasoning]] — Multimodale Wissensgraphen für Schlussfolgern in der Bildung
+- [[coursegraph-cs-course-comparison-2026]] — CourseGraph: Vergleich von Informatikkursen
+- [[proprl-prerequisite-relation-learning]] — ProPrL: Lernen von Voraussetzungsbeziehungen
+- [[knowledge-gap-detection-ai-tas]] — Erkennung von Wissenslücken in KI-Lehrassistenten
+- [[visual-query-tracer-declarative-logic-learning]] — Visueller Query-Tracer für das Lernen deklarativer Logik
+- [[fair-explainable-edu-recommendations]] — Faire und erklärbare Empfehlungen in der Bildung
+- [[hybrid-cf-kg-recommendation-multimodal-teaching-2026]] — Hybride CF–KG-Empfehlung über Domänen hinweg für multimodale Lehrressourcen
+- [[xie-hillm-cd-2026]] — HiLLM-CD: LLM-gestützte kognitive Diagnose
+- [[graph-its-adaptive-algorithms-2026]] — Graphenbasiertes Intelligentes Tutoring für dynamische Domänen (2026)
+- [[cogevol-learning-environment-generation-2026]] — CogEvol: Erzeugung von Lernumgebungen

@@ -1,7 +1,7 @@
 ---
 title: "Wie sollten Eltern und Pädagogische Fachkräfte mit Kindern unter 13 Jahren an KI herangehen?"
 created: "2026-09-16T15:25:00-04:00"
-updated: "2026-10-10T09:50:26-04:00"
+updated: "2026-10-24T22:18:02-04:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, incorporating-ai-literacy, how-ai-impacts-students]
 weight: 75
 type: faq
@@ -14,7 +14,7 @@ audience: [instructors, administrators, policymakers, parents and families]
 level: [preschool, primary education, k 12]
 institutions: [educational-policy-ai, governance, regulation]
 translation_of: faqs/ai-guidance-children-under-13
-source_updated: "2026-10-02T08:21:34-04:00"
+source_updated: "2026-10-21T14:32:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -25,8 +25,6 @@ ai_assist:
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
-
-# Wie sollten Eltern und Pädagogische Fachkräfte mit Kindern unter 13 Jahren an KI herangehen?
 
 Die KI ist bereits in Ihrem Haus oder Ihrem Klassenzimmer: das Spielzeug, das zurückspricht, der Tablet-Begleiter, der Tutor, den Ihr Kind öffnet, während Sie Abendessen machen, das Schreibwerkzeug, von dem ein Kollege begeistert ist. Sie entscheiden, was ein Kind unter dreizehn damit tun darf, mit oder ohne Richtlinie.
 

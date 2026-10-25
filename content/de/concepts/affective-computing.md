@@ -1,7 +1,7 @@
 ---
 title: Affektives Computing
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-10-10T09:04:27-04:00"
+updated: "2026-10-24T20:56:30-04:00"
 type: concept
 foundations: [cognitive-offloading]
 technology: [adaptive-learning, generative-ai, intelligent-tutoring, learning-analytics, llm, personalized-learning]
@@ -77,15 +77,15 @@ Affective Computing liegt an der Schnittstelle von [[affective-tutoring]] (seine
 
 ## Verbundene Artikel
 
-- [[ai-emotional-alerts-teachers-mathematics-classroom-2026]] — Responding to AI-generated emotional alerts: teachers' intervention and students' engagement in the mathematics classroom
-- [[wang-teacher-student-centered-agents-physics-2026]] — Empathy perception from prompt-designed agent roles in physics learning (Wang et al. 2026)
-- [[mindful-llm-math-tutoring-2026]] — Beyond Problem Solving: Large Language Models for Emotional and Reflective Support in Mathematics Learning
-- [[emotion-aware-classroom-iot-monitoring-2026]] — Emotion-aware classroom quality assessment via IoT-based real-time monitoring (Nguyen et al. 2026)
+- [[ai-emotional-alerts-teachers-mathematics-classroom-2026]] — Reaktion auf KI-generierte emotionale Alarme: Intervention von Lehrkräften und Engagement der Lernenden im Mathematikunterricht
+- [[wang-teacher-student-centered-agents-physics-2026]] — Empathiewahrnehmung aus per Prompt gestalteten Agentenrollen im Physiklernen (Wang et al. 2026)
+- [[mindful-llm-math-tutoring-2026]] — Über Problemlösen hinaus: große Sprachmodelle für emotionale und reflexive Unterstützung im Mathematiklernen
+- [[emotion-aware-classroom-iot-monitoring-2026]] — Emotionssensitive Bewertung der Klassenzimmerqualität über IoT-basierte Echtzeitüberwachung (Nguyen et al. 2026)
 - [[ai-campus-wellbeing-tools]]
 - [[ai-fatigue-academic-contexts]]
 - [[kar-mathbuddy-affective-math-tutoring-2025]]
 - [[sycophantic-ai-social-interaction-2026]]
-- [[aivaluate-anxiety-assessment-2026]] — AIvaluate: LLM-Augmented Assessment of Student Anxiety (2026)
-- [[socratic-nuclear-ai-learning]] — Socrates went Nuclear: Comparing Interaction Strategies for AI in Learning
+- [[aivaluate-anxiety-assessment-2026]] — AIvaluate: LLM-gestützte Bewertung von Angst bei Studierenden (2026)
+- [[socratic-nuclear-ai-learning]] — Socrates went Nuclear: Vergleich von Interaktionsstrategien für KI im Lernen
 
-- [[ai-emotion-regulation-sport-exercise-2026]] — Reframing AI-supported emotion regulation: signals need context, not autonomous interpretation
+- [[ai-emotion-regulation-sport-exercise-2026]] — KI-gestützte Emotionsregulation neu gerahmt: Signale brauchen Kontext, keine autonome Interpretation

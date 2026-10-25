@@ -2,7 +2,7 @@
 connected_resources: [master-instructional-design]
 title: Berufliche Weiterbildung
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-10T09:04:25-04:00"
+updated: "2026-10-24T19:40:06-04:00"
 type: concept
 foundations: [ai-literacy, educational-development]
 technology: [generative-ai, llm, simulation]
@@ -90,22 +90,22 @@ Berufliche Weiterbildung unterscheidet sich von akademischer Bildung durch ihren
 - [[virtual-and-augmented-reality]] — wo immersive Praxis am etabliertesten ist
 
 ## Verbundene Artikel
-- [[ai-engineering-computing-workforce-grey-literature-2026]] — AI and the Future of the Engineering and Computing Workforce
-- [[workforce-readiness-smart-manufacturing-wrl-2026]] — Workforce Readiness Level framework for smart manufacturing in the AI era
+- [[ai-engineering-computing-workforce-grey-literature-2026]] — KI und die Zukunft der Arbeitskräfte in Ingenieurwesen und Informatik
+- [[workforce-readiness-smart-manufacturing-wrl-2026]] — Workforce-Readiness-Level-Rahmenwerk für intelligente Fertigung im KI-Zeitalter
 - [[crewscaler-ai-upskilling-framework]]
 - [[ai-coaching-rl-skill-development]]
 - [[adaptive-virtual-patient-psychotherapy-training]]
 - [[astra-atco-training-simulator]]
 - [[ai-adoption-training-public-sector]]
-- [[ithaka-sr-ai-skills-college-graduates-2026]] — HiBob AI Skills Framework validated with instructors and employers
-- [[cognitive-commons-ai-expertise-regeneration]] — The tragedy of the cognitive commons: AI and expertise regeneration
-- [[li-language-educators-genai-review-2026]] — Language educators' practices and development with GenAI
+- [[ithaka-sr-ai-skills-college-graduates-2026]] — HiBob AI Skills Framework, validiert mit Lehrenden und Arbeitgebern
+- [[cognitive-commons-ai-expertise-regeneration]] — Die Tragödie des kognitiven Gemeinguts: KI und Regeneration von Expertise
+- [[li-language-educators-genai-review-2026]] — Praktiken und Entwicklung von Sprachlehrenden mit GenAI
 - [[zhuang-zhang-chatgpt-math-teacher-education-2026]]
-- [[faculty-development-centers-genai-training-optimization-2026]] — Comparative survey showing institutional conditions, not national context, explain faculty GenAI readiness gaps (Bi et al. 2026)
-- [[adaptive-ai-model-teacher-educators-2025]] — Teacher educators co-design an adaptive AI literacy model and a reflective questionnaire (Eyal 2025)
-- [[assessing-teachers-ai-literacy-measurement-tools-2026]] — Review showing teacher AI literacy instruments lag generative AI, marking the training target (Zainal et al. 2026)
-- [[mesenhoeller-teachers-ai-differentiation-acceptance-2026]] — Three-hour PD raised German teachers' perceived usefulness and ease of use, but not intention to use AI for differentiation
-- [[pinto-ai-initial-teacher-training-mathematics-review-2026]] — Review of AI in initial teacher training for primary mathematics: brief tool-focused training is not enough
-- [[cigerci-primary-teachers-perceptions-ai-mathematics-2026]] — Survey linking prior AI training and frequency of use to Turkish primary teachers' positive perceptions
-- [[kenzhebayeva-ai-role-rotation-pedagogical-model-2026]] — Role rotation as the structuring mechanism for AI-supported professional preparation
-- [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — Open Questions Towards Skill-Sustaining Reliance in Reflective AI Engagement
+- [[faculty-development-centers-genai-training-optimization-2026]] — Vergleichende Umfrage zeigt, dass institutionelle Bedingungen und nicht der nationale Kontext die GenAI-Bereitschaftslücken des Lehrpersonals erklären (Bi et al. 2026)
+- [[adaptive-ai-model-teacher-educators-2025]] — Lehrkräfteausbildende gestalten ein adaptives KI-Kompetenzmodell und einen reflexiven Fragebogen mit (Eyal 2025)
+- [[assessing-teachers-ai-literacy-measurement-tools-2026]] — Review zeigt, dass Instrumente zur KI-Kompetenz von Lehrkräften hinter generative KI zurückbleiben und damit das Trainingsziel markieren (Zainal et al. 2026)
+- [[mesenhoeller-teachers-ai-differentiation-acceptance-2026]] — Dreistündige Fortbildung erhöhte bei deutschen Lehrkräften die wahrgenommene Nützlichkeit und Bedienbarkeit, nicht aber die Absicht, KI zur Differenzierung zu nutzen
+- [[pinto-ai-initial-teacher-training-mathematics-review-2026]] — Review zu KI in der Erstausbildung für Mathematik in der Primarstufe: kurze, werkzeugzentrierte Schulung reicht nicht
+- [[cigerci-primary-teachers-perceptions-ai-mathematics-2026]] — Umfrage verknüpft vorherige KI-Schulung und Nutzungshäufigkeit mit den positiven Wahrnehmungen türkischer Grundschullehrkräfte
+- [[kenzhebayeva-ai-role-rotation-pedagogical-model-2026]] — Rollenrotation als strukturierender Mechanismus für die KI-gestützte berufliche Vorbereitung
+- [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — Offene Fragen zur fähigkeitserhaltenden Abhängigkeit im reflektierenden KI-Engagement

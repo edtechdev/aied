@@ -2,7 +2,7 @@
 connected_resources: [vibes-diy]
 title: Design-Thinking
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-10T09:04:27-04:00"
+updated: "2026-10-24T23:29:54-04:00"
 type: concept
 foundations: [ai-education]
 technology: [generative-ai]
@@ -79,10 +79,10 @@ Design Thinking in der KI-Bildung ist tief mit [[human-ai-collaboration|Mensch-K
 
 ## Verbundene Artikel
 
-- [[genai-architecture-education]] — Gen-AI-tecture: using generative AI to support architectural students in design tasks
-- [[genai-architectural-design-studios]] — Development and applications of Generative AI in architectural design studios
-- [[social-robot-study-companions]] — Co-Creating Buildable and Open Social Robot Study Companions with University Students
-- [[gaide-vibe-coding-k12-teachers]] — A Guiding Framework for K-12 Teachers in Creating AI-powered Learning Technologies through Vibe Coding
-- [[dot-framework-survey-2026]] — DOT Framework Survey: Practitioner Beliefs and Behaviors in AI-Enhanced Education
-- [[ai-agents-constructive-conflict-design-education-2026]] — Enacting Constructive Conflicts with AI Agents to Enhance Reconsideration among Novice Interaction Designers
-- [[genai-usage-design-students-survey]] — A study of GenAI usage by Design Students: Analysis of Survey Results and Journals of AI practices at the Politecnico di Milano in 2025/2026
+- [[genai-architecture-education]] — Gen-AI-tecture: Generative KI nutzen, um Architekturstudierende bei Gestaltungsaufgaben zu unterstützen
+- [[genai-architectural-design-studios]] — Entwicklung und Anwendungen Generativer KI in Architektur-Design-Studios
+- [[social-robot-study-companions]] — Gemeinsame Entwicklung offener und nachbaubarer sozialer Roboter-Lernbegleiter mit Hochschulstudierenden
+- [[gaide-vibe-coding-k12-teachers]] — Ein Leitrahmenwerk für Lehrkräfte der K-12-Stufen zur Erstellung KI-gestützter Lerntechnologien durch Vibe Coding
+- [[dot-framework-survey-2026]] — DOT-Framework-Umfrage: Überzeugungen und Verhaltensweisen Praktizierender in der KI-gestützten Bildung
+- [[ai-agents-constructive-conflict-design-education-2026]] — Konstruktive Konflikte mit KI-Agenten inszenieren, um die Neubewertung bei angehenden Interaktionsdesignerinnen und -designern zu stärken
+- [[genai-usage-design-students-survey]] — Eine Studie zur GenAI-Nutzung durch Design-Studierende: Analyse von Umfrageergebnissen und Journals zu KI-Praktiken am Politecnico di Milano in 2025/2026

@@ -1,7 +1,7 @@
 ---
 title: Universelles Design für das Lernen (UDL)
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-10-10T09:04:23-04:00"
+updated: "2026-10-24T20:56:30-04:00"
 type: concept
 foundations: [learning-design]
 ethics: [equity-in-ai-education, inclusive-learning]
@@ -101,10 +101,10 @@ UDL verwandelt „behebe den Lernenden“ in „behebe das Design.“ Für Lehre
 - [[k-12]]
 
 ## Verbundene Artikel
-- [[seung-basham-cognitive-offloading-swld-2026]] — GenAI cognitive offloading for students with learning disabilities
-- [[authentic-products-authenticated-processes-2026]] — From Authentic Products to Authenticated Processes
-- [[tactile-statistical-graphs-accessibility]] — Tactile Statistical Graphs for Accessibility
-- [[neurodivergent-computing-students]] — Neurodivergent Computing Students
-- [[ai-learning-tools-engineering-education-needs]] — Designing Needs- and Attention-Aware AI Learning Tools
-- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — Generative AI, virtual reality, and beyond: A scoping review of digital assistive technologies for neurodivergent students in higher education
-- [[faculty-accessible-course-design-ai-2026]] — “AI is reducing options I had used”: exploring faculty perceptions of accessible course design in a ChatGPT world
+- [[seung-basham-cognitive-offloading-swld-2026]] — Kognitive Auslagerung durch GenAI bei Studierenden mit Lernbehinderungen
+- [[authentic-products-authenticated-processes-2026]] — Von authentischen Produkten zu authentifizierten Prozessen
+- [[tactile-statistical-graphs-accessibility]] — Taktile statistische Grafiken für Barrierefreiheit
+- [[neurodivergent-computing-students]] — Neurodivergente Informatikstudierende
+- [[ai-learning-tools-engineering-education-needs]] — Gestaltung von bedarfs- und aufmerksamkeitsbewussten KI-Lernwerkzeugen
+- [[assistive-tech-neurodivergent-higher-ed-review-2026]] — Generative KI, Virtual Reality und darüber hinaus: ein Scoping Review digitaler assistiver Technologien für neurodivergente Studierende in der Hochschulbildung
+- [[faculty-accessible-course-design-ai-2026]] — „AI is reducing options I had used“: Wahrnehmung zugänglichen Kursdesigns durch Lehrende in einer ChatGPT-Welt

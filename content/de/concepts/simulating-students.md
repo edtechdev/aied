@@ -1,7 +1,7 @@
 ---
 title: Simulation von Lernenden
 created: "2026-08-12T22:10:30-04:00"
-updated: "2026-10-10T09:04:23-04:00"
+updated: "2026-10-24T20:55:56-04:00"
 type: concept
 foundations: [agentic-ai, teacher-role]
 technology: [cognitive-diagnosis, generative-ai, intelligent-tutoring, knowledge-tracing, llm, pedagogical-agent, simulation, student-modeling]
@@ -9,7 +9,7 @@ audience: [instructors]
 confidence: high
 connected_faqs: [checking-whether-educational-ai-works, making-simulated-students-behave-like-learners, how-can-ai-assist-with-educational-research]
 translation_of: concepts/simulating-students
-source_updated: "2026-10-10T14:20:00-04:00"
+source_updated: "2026-10-19T09:40:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -58,6 +58,7 @@ Persona-Stabilität ist ein Interaktionsdesignproblem, kein Modellwahlproblem: B
 Der gegenteilige Fehler tritt auch auf: In einer blinden Studie fehlklassifizierten erfahrene Annotatorinnen und Annotatoren 164 von 196 (83,7%) LLM-generierte Java-Einsendungen als von Menschen geschrieben, daher können die Fehler eines Simulators funktional nicht von authentischen zu unterscheiden sein –, wenngleich die Ausrichtung an echten Fehlern sank, wenn die Aufgabenschwierigkeit stieg ([[simulating-students-java-programming-errors-llms|Keramati et al. (2026)]]).
 
 Die Konditionierung der Generierung an einem vorhergesagten Verhaltensmodell funktioniert ohne Feinabstimmung: Ein trainingsfreies Rahmenwerk baut den kognitiven Prototyp jedes bzw. jeder Studierenden aus einem [[knowledge-graph|Wissensgraphen]] und bewertet Beam-Search-Kandidaten dagegen, wobei es eine 100%ige Verbesserung der Simulationsgenauigkeit berichtet ([[simulating-students-diverse-cognitive-levels-2025|Wu et al. (2025)]]). Ihre Qualität steigt mit dem kognitiven Niveau des bzw. der Studierenden, daher bleiben schwächere Lernende der härtere Fall zu simulieren.
+- **Die Lernende vorhersagen statt als eine zu handeln.** [[hachimi-ii-learner-behavior-modeling-student-simulation-2026|Jiang et al. (2026)]] haben die Simulation als Vorhersage in der dritten Person neu gefasst: Ein aus der Historie der Lernenden gebautes Lernendenmodell liefert ein Prior, ein inferierter Lernenden-Zustand beschränkt die nächste Handlung, und die simulierte Fähigkeitsverteilung liegt nach der Wasserstein-1-Distanz 2,4–8,4-mal näher an der realen.
 
 CogEvolution modelliert kognitive Dynamik statt einer statischen Persona –, ein ICAP-Tiefe-Perzeptron setzt die Größe jedes Zustands-Updates, und ein evolutionäres Update bleibt innerhalb eines Radius der Zone der proximalen Entwicklung –, und erreicht R²LC = 0,92, wo statische Agenten 0,45 erreichen und ohne das ICAP-Modul auf 0,58 zusammenfallen ([[cogevolution-student-cognitive-evolution-agent-2026|Zhang et al. (2026)]]).
 
@@ -103,6 +104,8 @@ Architektur kann durchsetzen, was Prompting nicht kann: Ein neuro-symbolischer S
 
 Über die Evaluation der Pädagogik hinaus dienen simulierte Lernende als **Testgestell zum Auditieren von KI-Systemen selbst** –, eine kontrollierte Weise zu prüfen, wie eine KI sich über vielfältige Lernendenprofile hinweg verhält, bevor sie echte Studierende berührt. [[lopez-pernas-llm-appropriate-student-support-2026|López-Pernas et al. (2026)]] illustrieren dies: Sie erzeugten 4.500 synthetische Studierenden-Vignetten mit drei LLMs, um zu auditieren, ob aktuelle [[llm|große Sprachmodelle]] als vorschreibende [[learning-analytics|Learning-Analyticsempfehlende]] agieren können, und fanden begrenzte Sensibilität für Studierendenbedarf und scharfe modellübergreifende Inkonsistenz. Simulierte Kohorten zu nutzen, um die Empfehlungen einer KI zu stress-testen (statt nur Tutoren zu trainieren oder zu evaluieren), ist eine wachsende Rolle für das Paradigma, eng verbunden mit [[ai-ed-evaluation|der Evaluation von KI in der Bildung]] und mit [[equity-in-ai-education|Gerechtigkeit in der KI-Bildung]], wenn das Audit darauf zielt, unterschiedliche Behandlung über Lernendentypen hinweg sichtbar zu machen.
 
+Eine schärfere Validitätsprüfung fragt, ob ein Modell menschliche *Wahl* überhaupt reproduziert: In einem adaptierten Spiel zum selbstgesteuerten Lernen nutzten fünf Grenzmodelle eine einzelne Lösung aus, während 175 menschliche Teilnehmende über Ziele hinweg erkundeten; ein Modell, das für Lernende einspringt, gab also genau das Verhalten auf, das die Simulation reproduzieren soll ([[llm-goal-selection-self-directed-learning-2026|Molinaro et al. (2026)]]).
+
 Simulation kann auch die Entscheidungen des bzw. der Lernenden vorab testen: [[simulating-learner-task-selection|Noh et al. (2026)]] fitteten ein Additive Factors Model und bayesianisches [[knowledge-tracing|Knowledge Tracing]] an zwei echte Tutoringsdatensätze und ließen 1.000 simulierte Lernende Fähigkeiten unter acht Strategien wählen, wobei eine risikoaverse Regel etwa dreißigmal so viel Überübung wie die anderen erzeugte und eine Knapp-unter-Meisterschaft-Einschränkung sie auf 1,8× schnitt.
 
 Ein zweites Auditregister ist [[metacognition|metakognitiv]] und affektiv. [[meds-math-education-digital-shadows-2026|MEDS (Esposito et al., 2026)]] ist ein Datensatz von 28.000 Aufzeichnungen –, 2.000 synthetische Personas für jedes von 14 [[llm|Modellen]], jede sowohl als menschliche Persona als auch als Basisassistent ausgeführt –, der Genauigkeit bei 18 [[problem-solving|Mathematikproblemen der Oberstufe]] neben [[self-report-measures|selbstberichtetem Vertrauen]] und den [[self-efficacy|Selbstwirksamkeits]]- und [[anxiety-and-stress|Mathematik-Angst]]-Scores verzeichnet, die die Lernenden, für die sie einspringen, berichten würden. Sein Audit-Signal ist die Kalibrierungslücke: Die Qwen-Familie und Ministral 3B behaupteten Vertrauen über 0,90, während die Genauigkeit nahe 0,55 stagnierte, während Grok 4.1 Fast, DeepSeek Chat und mehrere Mistral-Small-Varianten untervertrauisch waren und Ministral 14B und Anita 24B einigermaßen ausgerichtet blieben. Dieselben Läufe legen ein stilleres Treueversagen offen: Menschliche-Modus-Personas ergaben weite, plausible Score-Verteilungen, doch Basisassistenten gaben nahezu identische, vertrauensvolle, angstarme Antworten zurück –, ein Standard-Selbstporträt statt das eines simulierten Lernenden. Das erweitert das Empfehlungs-Audit oben, indem es prüft, was ein Modell über die eigene Kompetenz und Affekt behauptet, und es schärft die Validitätswarnung der Seite aus einer unerwarteten Richtung: Weil MEDS-Personas durch Konstruktion gewichtet statt aus einer echten Population abgetastet sind, präsentieren ihre Autoren den Datensatz als beobachtende Ressource zum Auditieren prompt-konditionierten [[generative-ai|GenAI]]-Verhaltens und explizit nicht als Stellvertreter für echte [[student-experience|Studierendendaten]].
@@ -133,34 +136,36 @@ Training gegen einen Simulator kann auch wandern: Der Verstärkungslern-Agent vo
 - [[teacher-role]]
 
 ## Verbundene Artikel
-- [[tutorloop-sensor-cognitive-feedback-2026]] — A simulator-trained reinforcement-learning tutor transferred offline to a new real task (Xu & Zhang 2026)
+- [[hachimi-ii-learner-behavior-modeling-student-simulation-2026]] — HACHIMI-II: vom Rollenspiel zur Modellierung von Lernendenverhalten für eine treue Simulation von Lernenden
+- [[tutorloop-sensor-cognitive-feedback-2026]] — Ein gegen einen Simulator trainierter Tutor mit Verstärkungslernen transferierte offline auf eine neue echte Aufgabe (Xu & Zhang 2026)
 
-- [[llm-student-simulation-teacher-insights]] — Can LLMs Simulate Human Learners? Teachers' Insights
-- [[llm-student-simulation-misconception-faithfulness]] — Simulating Students or Sycophantic Problem Solving?
-- [[llm-educational-simulation-adhd]] — LLM-Based Educational Simulation and Student Persona Stability
-- [[simulating-students-java-programming-errors-llms]] — Simulating Students' Java Programming Errors
-- [[adaptive-virtual-patient-psychotherapy-training]] — Adaptive Virtual Patients for Psychotherapy Training
-- [[medeasy-ai-standardized-patients]] — MedEasy: AI Standardized Patients
-- [[simulating-students-diverse-cognitive-levels-2025]] — Embracing Imperfection: Simulating Diverse Cognitive Levels
+- [[llm-student-simulation-teacher-insights]] — Können LLMs menschliche Lernende simulieren? Einsichten von Lehrenden
+- [[llm-student-simulation-misconception-faithfulness]] — Lernende simulieren oder sykophantisches Problemlösen?
+- [[llm-educational-simulation-adhd]] — LLM-basierte Bildungssimulation und Stabilität der Persona von Studierenden
+- [[simulating-students-java-programming-errors-llms]] — Simulation von Java-Programmierfehlern von Studierenden
+- [[adaptive-virtual-patient-psychotherapy-training]] — Adaptive virtuelle Patienten für das Psychotherapie-Training
+- [[medeasy-ai-standardized-patients]] — MedEasy: KI-gestützte standardisierte Patienten
+- [[simulating-students-diverse-cognitive-levels-2025]] — Unvollkommenheit annehmen: Simulation vielfältiger kognitiver Niveaus
 - [[inside-llm-student-simulator-reasoning-2026]]
-- [[teachlm-post-training-llms-education]] — TeachLM: fine-tuned authentic student model for synthetic dialogues
-- [[educasim-cs1-instructional-practice]] — EducaSim: generative agents simulate a CS1 section for teacher practice
-- [[bondurant-shaughnessy-ai-pedagogies-practice-2026]] — Responsible Integration of AI into Pedagogies of Practice in Mathematics Teacher Education
-- [[cogevolution-student-cognitive-evolution-agent-2026]] — CogEvolution: generative agent simulating students' cognitive evolution
-- [[lopez-pernas-llm-appropriate-student-support-2026]] — Can AI deliver appropriate support for diverse student profiles? A large-scale evaluation
-- [[llm-agents-collaborative-problem-solving-simulation-2026]] — Fine-tuned participant-specific LLM agents reproducing collaborative problem solving dialogues (Fang 2026)
-- [[studentsim-llm-student-simulators]] — StudentSim: Training LLM-based Student Simulators
-- [[ai-web-agents-lesson-design-2025]] — AI Web Agents: a single describing agent beats simulating a distribution of students for predicting dropout and design critique
-- [[simulating-learner-task-selection]] — Simulating learners' task-selection strategies and system constraints in mastery learning (Noh, Chowdhary, Ooge, Aleven & Borchers 2026)
-- [[durable-skills-measurement-ai-teammates-2026]] — Toward Scalable Measurement of Durable Skills
-- [[agent-based-educational-science-2026]] — Toward Agent-based Educational Science: the simulation apparatus as the research instrument (Zhang, Jiang & Tang 2026)
-- [[meds-math-education-digital-shadows-2026]] — MEDS: a 28,000-record audit of math performance, confidence and anxiety in simulated students and AI assistants
-- [[swim-student-writing-simulation-2026]] — prompting versus SFT versus reward-based training for a student writing simulator
-- [[misconception-acquisition-dynamics-llms-2026]] — what has to be in the training data before a simulator holds a misconception at all
-- [[llm-distractor-generation-student-reasoning-2026]] — trace-level analysis of how models simulate incorrect student reasoning
-- [[llm-simulating-student-scientific-thinking-2026]] — six models against 8,820 lesson-embedded science ideas: where simulated reasoning overshoots young learners' scope, vocabulary and certainty
-- [[simulated-students-tutoring-dialogues-2026]] — a seven-metric benchmark of nine student-simulation methods, with a three-tutor human evaluation
-- [[simulating-novice-students-machine-unlearning-2026]] — machine unlearning as a way to put a simulator at a stable novice knowledge level, and relearning through teaching dialogue
-- [[student-development-agent-risk-free-simulation-2025]] — predicting students' post-course developmental outcomes on a multi-agent platform without exposing them to the intervention
-- [[preservice-teachers-noticing-ai-simulations-2026]] — three weeks of preservice teachers' attending, interpreting and shaping in an equal-sign chatbot simulation, and how the design steers what they notice
-- [[beagle-grounded-learner-emulation-2026]] — a neuro-symbolic simulator that enforces SRL structure architecturally rather than by prompting, and passes a human Turing test
+- [[teachlm-post-training-llms-education]] — TeachLM: feinabgestimmtes authentisches Lernendenmodell für synthetische Dialoge
+- [[educasim-cs1-instructional-practice]] — EducaSim: generative Agenten simulieren eine CS1-Sitzung für die Lehrkräftepraxis
+- [[bondurant-shaughnessy-ai-pedagogies-practice-2026]] — Verantwortungsvolle Integration von KI in Praxis-Pädagogiken der Mathematiklehrkräftebildung
+- [[cogevolution-student-cognitive-evolution-agent-2026]] — CogEvolution: generativer Agent, der die kognitive Evolution von Lernenden simuliert
+- [[lopez-pernas-llm-appropriate-student-support-2026]] — Kann KI angemessene Unterstützung für vielfältige Lernendenprofile liefern? Eine großangelegte Evaluation
+- [[llm-agents-collaborative-problem-solving-simulation-2026]] — Feinabgestimmte teilnehmendenspezifische LLM-Agenten, die Dialoge kollaborativen Problemlösens reproduzieren (Fang 2026)
+- [[studentsim-llm-student-simulators]] — StudentSim: Training LLM-basierter Lernenden-Simulatoren
+- [[ai-web-agents-lesson-design-2025]] — KI-Webagenten: Ein einzelner beschreibender Agent schlägt die Simulation einer Verteilung von Studierenden bei der Vorhersage von Abbruch und Designkritik
+- [[simulating-learner-task-selection]] — Simulation der Aufgabewahlstrategien von Lernenden und Systemeinschränkungen im Meisterschaftslernen (Noh, Chowdhary, Ooge, Aleven & Borchers 2026)
+- [[durable-skills-measurement-ai-teammates-2026]] — Auf dem Weg zur skalierbaren Messung dauerhafter Kompetenzen
+- [[agent-based-educational-science-2026]] — Auf dem Weg zu agentbasierter Bildungswissenschaft: der Simulationsapparat als Forschungsinstrument (Zhang, Jiang & Tang 2026)
+- [[meds-math-education-digital-shadows-2026]] — MEDS: ein Audit von 28.000 Aufzeichnungen zu Mathematikleistung, Vertrauen und Angst bei simulierten Lernenden und KI-Assistenten
+- [[swim-student-writing-simulation-2026]] — Prompting versus SFT versus belohnungsbasiertes Training für einen Schreibsimulator für Lernende
+- [[misconception-acquisition-dynamics-llms-2026]] — was in den Trainingsdaten stehen muss, bevor ein Simulator überhaupt eine Fehlvorstellung hält
+- [[llm-distractor-generation-student-reasoning-2026]] — Analyse auf Spurenebene, wie Modelle fehlerhaftes Lernendenschlussfolgern simulieren
+- [[llm-simulating-student-scientific-thinking-2026]] — sechs Modelle gegen 8.820 lektionseingebettete Naturwissenschaftsideen: wo simuliertes Schlussfolgern den Umfang, das Vokabular und die Sicherheit junger Lernender überschießt
+- [[simulated-students-tutoring-dialogues-2026]] — ein Benchmark mit sieben Metriken für neun Methoden der Lernendensimulation, mit einer menschlichen Evaluation durch drei Tutoren
+- [[simulating-novice-students-machine-unlearning-2026]] — Machine Unlearning als Weg, einen Simulator auf ein stabiles Anfängerwissensniveau zu setzen, und Wiedererlernen durch Unterrichtsdialog
+- [[student-development-agent-risk-free-simulation-2025]] — Vorhersage der Entwicklungsergebnisse von Lernenden nach dem Kurs auf einer Multi-Agenten-Plattform, ohne sie der Intervention auszusetzen
+- [[preservice-teachers-noticing-ai-simulations-2026]] — drei Wochen Aufmerken, Interpretieren und Formen angehender Lehrkräfte in einer Chatbot-Simulation zum Gleichheitszeichen und wie das Design steuert, was sie bemerken
+- [[beagle-grounded-learner-emulation-2026]] — ein neuro-symbolischer Simulator, der SRL-Struktur architektonisch statt durch Prompting erzwingt und einen menschlichen Turing-Test besteht
+- [[llm-goal-selection-self-directed-learning-2026]] — Zielwahl durch Sprachmodelle unterscheidet sich von der bei Menschen in einer Aufgabe zum selbstgesteuerten Lernen

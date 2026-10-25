@@ -1,7 +1,7 @@
 ---
 title: Biologiebildung
 created: "2026-08-19T13:10:00-04:00"
-updated: "2026-10-10T09:04:23-04:00"
+updated: "2026-10-24T19:50:00-04:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, human-ai-collaboration]
 technology: [generative-ai]
@@ -9,7 +9,7 @@ discipline: [biology education, stem education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/biology-education
-source_updated: "2026-10-13T09:18:19-04:00"
+source_updated: "2026-10-16T09:45:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -46,6 +46,7 @@ Forschung zur Biologiebildung und KI sammelt sich um eine Spannung: KI hat die B
 **Sokratische KI-Argumentationspraxis in der Lehrkräftebildung.** Ein Quasi-Experiment mit 124 angehenden Biologielehrkräften fand, dass ein ChatGPT-4-[[socratic-method|sokratischer Tutor]] zu soziowissenschaftlichen Fragen die Argumentationsqualität gegenüber der Offline-Peer-Diskussion erhöhte (adjustiert 3,91 gegenüber 3,21, F(1,121) = 14,23, p < .001), mit den größten Zuwächsen bei Widerlegungs- und Gegenbeleg-Fähigkeiten ([[genai-socratic-tutor-biology-argumentation-2026|Ergasheva et al., 2026]]).
 
 **Spezialisierte KI-Werkzeuge und der breitere Review.** **[[beyond-chatgpt-ai-tools-biological-education-2026|Cotton & Cotton]]** reviewen die gesamte Landschaft der KI-Werkzeuge in der biologischen Bildung, einschließlich **iNaturalist und Google Lens** zur Artbestimmung, Bioimaging und Werkzeugen maschinellen Lernens, assistiver Technologien und prädiktiver Modellierung gefährdeter Studierender — neben den Herausforderungen von Integrität, Assessment-Design, Fehlinformation und kritischem Denken durch generative KI.
+- **LLMs beantworten besser, als sie benoten.** Über 1.344 Antworten auf 336 offene Fragen zur biologischen Statistik hinweg, die Blooms Niveaus abdecken, fanden [[llm-open-ended-questions-biology-statistics-2026|Nguyen et al. (2026)]], dass drei Modelle über einer Gruppe von 20 Studierenden lagen, doch ein einzelner LLM-Bewerter stimmte mit einer erfahrenen Lehrkraft so schlecht überein, dass kein Studierender eine faire Übereinstimmung erreichte.
 
 **Wie viel der Note tatsächlich ausgesetzt ist.** Die Gewichtung jeder benoteten Kategorie der Syllabi von 38 Kernkursen einer Fachbereichs nach lehrendenbewerteter Verwundbarkeit setzte 33 % der Kurspunkte bei hoher Aussetzung und 81 % mindestens etwas ausgesetzt — 41 % bzw. 100 % online —, wobei nur persönlich beaufsichtigte Prüfungen als minimal verwundbar bewertet wurden ([[biology-degree-integrity-genai-cheating-2026|Chan et al., 2026]]).
 
@@ -85,10 +86,11 @@ Biologiebildung liegt innerhalb der weiteren [[stem-education]]-Domäne und teil
 
 ## Verbundene Artikel
 
+- [[llm-open-ended-questions-biology-statistics-2026]] — Evaluierung der Leistung von Large Language Models bei offenen Fragen: Beantwortungs- und Benotungsfähigkeiten
 - [[biology-degree-integrity-genai-cheating-2026]] — Können Studierende sich zu einem Biologieabschluss betrügen? Eine Fallstudie zur Verwundbarkeit von Biologiekursnoten für akademische Unehrlichkeit im Zeitalter generativer KI
 - [[chatgpt-virtual-lab-teaching-assistant-biology-2026]] — ChatGPT als virtueller Labor-Lehrassistent
 - [[beyond-chatgpt-ai-tools-biological-education-2026]] — Review der KI-Werkzeuge in der biologischen Bildung
 - [[critical-thinking-biological-sciences-ai-2025]] — Kritisches Denken in Biowissenschaften und KI
 - [[chatgpt-math-biology-challenge-based-learning-2025]] — ChatGPT in challenge-basierten Biologie-/Mathematikkursen
 - [[zha-ai-literacy-biology-case-study]] — KI-Kompetenz-Bildung in einem Biologiekurs
-- [[genai-socratic-tutor-biology-argumentation-2026]] — Enhancing PISA-aligned argumentation skills of prospective biology teachers through generative artificial intelligence
+- [[genai-socratic-tutor-biology-argumentation-2026]] — Argumentationsfähigkeiten angehender Biologielehrkräfte, aligned mit PISA, durch generative künstliche Intelligenz verbessern

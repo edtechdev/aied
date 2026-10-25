@@ -1,7 +1,7 @@
 ---
 title: "Lernwissenschaften"
 created: "2026-09-17T14:12:00-04:00"
-updated: "2026-10-10T09:04:23-04:00"
+updated: "2026-10-24T22:37:29-04:00"
 type: concept
 foundations: [learning-design]
 pedagogy: [cognitive-psychology, learning-theories, pedagogy]
@@ -13,7 +13,7 @@ page_kind: [framework, synthesis]
 confidence: high
 methods: [research-methods-aied]
 translation_of: concepts/learning-sciences
-source_updated: "2026-10-13T11:05:00-04:00"
+source_updated: "2026-10-16T08:47:09-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -43,6 +43,8 @@ Diese Seite deckt das substanzielle Wissen ab, das solche Methoden erzeugt haben
 ### Wie KI in den Lernwissenschaften auftritt
 
 - **Zuerst der Mechanismus, dann das Modell.** [[deceptive-overgeneralization-adaptive-learning-2026|An, McLaren und Stamper (2026)]] führten elf Experimente (N = 192) mit [[intelligent-tutoring|intelligenten Tutoringsystemen]] für Riichi-Mahjong durch und zeigten, dass Lernende, die eine übergeneralisierte Produktion zusammenstellten – die Handlung ohne ihre Anwendungsbeschränkung –, sie bei der ersten „Nicht-Handeln“-Aufgabe zu 61,5%–100% falsch anwendeten, gegenüber 12% erwartetem Fehler unter [[knowledge-tracing|Bayesian knowledge tracing]]. Bei einer 95%-Meisterschaftsschwelle beendete das System die Praxis, bevor Lernende einen Fall trafen, der erfordert, die Handlung zu unterlassen, daher blieb der Defekt unentdeckt. Kurze Nicht-Handeln-Praxis mit [[feedback|Feedback]], das die fehlende Beschränkung benennt, senkte die Fehlanwendung auf 0,0%–23,1% (Cohens h 1,70–2,44), und eine Sekundäranalyse von dreizehn K-12-*Decimal-Point*-Datensätzen fand dieselbe Struktur im Ganzzahl-Bias (84%–88% der Vergleichsfehler).
+- **Ein Konsens kartiert, wo generative KI Lernen stützt und wo sie es gefährdet.** Ein vorab registriertes Delphi von 30 Lernwissenschaftlerinnen und Lernwissenschaftlern bewertete 65 Lernprozesse und einigte sich auf 42: Generative KI gefährdet den ersten Erwerb und [[critical-thinking|höherstufiges Denken]], stützt aber die Konsolidierung ([[genai-support-threaten-learning-k20-expert-consensus-2026|Kendeou et al., 2026]]).
+- **Feedbackstil, nicht Agententyp, verschob selbstreguliertes Engagement.** In einem 2 × 2-Experiment mit 51 Promovierenden war [[socratic-method|sokratisches]] Feedback mit stärkerem Verständnismonitoring verbunden, während direktives Feedback höhere kognitive Last mit sich brachte; die beiden Stile liefen in einer festen, nicht counterbalancierten Reihenfolge, sodass der Kontrast bedingungsbedingt statt kausal ist ([[agent-type-feedback-style-self-directed-learning-2026|Han et al. (2026)]]).
 
 - **Das Optimum hängt vom Inhalt ab.** [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit, Koedinger und Carvalho (2025)]] behandeln das Beispiel-Problem-Verhältnis als Inhalt-Behandlung-Interaktion: In einem 2×2-Experiment mit 95 Teilnehmenden an Material zu Flächen in der Geometrie erzeugte reines Übungstraining größere [[learning-gains|Lernzuwächse]] bei wortgetreuen Fakten, während beispielintegriertes Training größere Gewinne bei verallgemeinerbaren Fähigkeiten erzeugte (β = 0,41, p = 0,038, d = 0,38). Ein simulierter Lernender (Apprentice Learner) reproduzierte den Crossover nur, wenn er einen [[cognitive-psychology|Gedächtnis-und-Vergessensmechanismus]] im ACT-R-Stil erhielt. Mehr Üben ist nicht gleichmäßig besser: gedächtnisorientierter Inhalt verlangt Abruf, und induktionsorientierte Fähigkeiten verlangen integrierte Beispiele.
 - **Design als analysierbares Objekt.** [[learning-paths-patterns-learning-design-2026|Divjak, Svetec und Horvat (2026)]] wandten [[learning-analytics|Learning Analytics]] auf [[learning-design|Lerndesign]] selbst an und kodierten 29.064 Aktivitäten über 554 Kurse hinweg, geplant in einem freien Kursgestaltungswerkzeug. Erwerb (Acquisition) war der häufigste Lerntyp und der häufigste Einstiegspunkt; die stärkste Markov-Transition war Assessment → Diskussion (0,332) und die Regel mit der höchsten Konfidenz war Erwerb → Assessment → Übung → Übung (0,743, lift 1,45). Lerntyp verfolgte die beabsichtigte Ergebnisebene, wobei Erwerb von etwa 50% der Aktivitäten auf Bloom-Ebene 1 auf rund 20% auf Ebene 6 fiel. Die Autoren betonen, dies seien Vor-Implementierungs-Entwürfe: Ähnlichkeit mit flipped, [[inquiry-based-learning|forschungsbasierten]] oder [[project-based-learning|projektbasierten]] Sequenzen sei kein Beleg für Absicht.
@@ -53,6 +55,12 @@ Diese Seite deckt das substanzielle Wissen ab, das solche Methoden erzeugt haben
 - **Wo menschliche Expertise sitzt.** [[wang-tutor-copilot-human-ai-live-tutoring-rct-2024|Wang et al. (2024)]] berichten die klarste Arbeitsteilung: In einer zweimonatigen [[rct|randomisierten kontrollierten Studie]] mit etwa 900 unerfahrenen K-12-Tutoren und rund 1.800 Studierenden hoben Echtzeitvorschläge, gezogen aus dem Schlussfolgern erfahrener Tutoren, die Themenmeisterschaft um 4 Prozentpunkte (62% auf 66%, p < 0,01), und um 9 Punkte bei niedriger bewerteten Tutoren, zu etwa \\$20 pro Tutor pro Jahr, und verlagerten Tutoring hin zu Leitfragen. Die Gewinne waren proximal –, Tests am Jahresende bewegten sich nicht. [[reichert-human-centered-llm-chatbot-design-teachers-2026|Reichert et al. (2026)]] finden Lehrende, die per Design dieselbe Position erreichen: Sechs Sekundarstufenlehrende, die Chatbots prototypten, spezifizierten einen begrenzten Experten, hielten Autoritätsgrenzen (Verantwortung für Lernen und Sicherheit ist nicht delegierbar) und Expertisegrenzen (das Modell mangelt ihres Wissens über einzelne Studierende), und delegierten Inhaltspräsentation, Übung und korrigierendes [[feedback|Feedback]], während sie Zielsetzung und [[summative-assessment|summatives Assessment]] für sich behielten.
 - **Fähigkeit auf der Ebene des Feldes.** [[sutedjo-faculty-genai-tpack-21-2026|Sutedjo, Chowdhury und Liu (2026)]] befragten 127 Fakultätsangehörige mit einem für generative KI angepassten [[tpack|TPACK]]-Instrument: starkes Fachwissen und pädagogisches Fachwissen (M = 4,70–5,15) neben merklich niedrigerem technologieintegrierten Wissen, wobei holistisches TPACK am niedrigsten bei 2,55 war, Fachwissen mit keiner technologieintegrierten Domäne korrelierte, und die drei integrierten Domänen so hoch korrelierten (r = 0,81–0,91), dass sie als ein Faktor funktionieren mögen. [[perrotta-zero-shot-governance-2026|Perrotta (2026)]] liest die Governance-Schicht durch einen eingestellten Prototyp des britischen Staatsdiensts, dessen Codebasis ein Systemprompt plus eine Retrieval-Pipeline über kommerzielle Modelle war, und argumentiert, die Allgemeingültigkeit von Foundation-Modellen sowohl ermögliche schnelle Umwidmung zu [[educational-policy-ai|Politik]]werkzeugen als auch mache abweichenden Output zu einem dauerhaft nur abmilderbaren Risiko – Aufsicht, die über die Schleife blickt statt in ihr zu sitzen.
 - **Die Integrationslücke, kartiert:** [[malik-bashir-reconceptualizing-learning-sciences-hybrid-intelligence-2026|Malik and Bashir (2026)]] synthetisierten 32 Studien (PRISMA 2020, thematische Analyse) zu vier Themen: epistemologische Fragmentierung innerhalb des Feldes, Theorie-Technologie-Widersprüche (rechnerische Systeme laufen auf Vorhersage und messbarem Verhalten, während Bildungstheorien Kontext und soziale Interaktion betonen), die Datafizierung von Lernen durch Analytics, und hybride Intelligenz als aufkommendes Paradigma. Ihr Hybrid-Intelligence-Rahmenwerk ist eine konzeptuelle Synthese, kein validiertes Modell — die Autoren geben an, dass es auf sich noch zu leistende empirische Prüfung wartet —, aber die Vier-Themen-Karte ist eine nützliche Auditlinse für das Übersetzungsproblem von Theorie in Berechnung, das dieses Feld immer wieder trifft.
+- **Wie Studierende ein generatives Modell nutzen, zählt mehr als ob.** Die Kodierung von 50 Austauschen Studierender ergab, dass 64 % passives Wiederholen oder transaktionale Fragen waren und nur 36 % strategischer Dialog, und eine refektionsstrukturierte Aufgabe verschob die Bilanz hin zum Dialog ([[three-pathways-student-ai-interaction-2026|Zahra, 2026]]).
+- **Innerhalb-personale Abhängigkeit geht einem Rückgang wahrgenommener [[agency|Handlungsfähigkeit]] voraus.** Über drei Erhebungswellen mit Daten von 342 Studierenden in 85 festen Gruppen in einem KI-unterstützten [[collaborative-learning|kooperativen]] [[writing-education|Schreib]]kurs hinweg sagte eine über das Übliche hinausgehende Abhängigkeit von generativer KI einen niedrigeren nachfolgenden wahrgenommenen menschlichen Handlungsspielraum voraus, während der umgekehrte Pfad schwächer war und statistisch nicht gestützt wurde ([[genai-reliance-human-agency-collaborative-learning-2026|Wu und Lu (2026)]]).
+
+**Die Verteilung generativer KI-Nutzung ist eine institutionelle Entscheidung.** [[sun-student-genai-entanglement-literacy-demands-2026|Sun, Dohn und Rehm (2026)]] klassifizierten 102 Hochschulbildung-Studien danach, wie epistemische Arbeit zwischen Studierendem und System verteilt wurde, und fanden, dass „Assistant“- und „Enabler“-Verflechtungen mit je 42,16 % dominierten, wobei sie die Schieflage als institutionelle Legitimität lesen statt als technologische Fähigkeit.
+
+**Prozessevidenz ist kanalabhängig.** Bei der Kodierung einer GenAI-unterstützten Instruktionsdesign-Aufgabe mit 79 Studierenden in Interaktionsprotokollen und gleichzeitigem lauten Denken fanden [[metacognitive-processes-genai-interaction-logs-2026|Li und Liu (2026)]], dass Monitoring-Evidenz höherer Tiefe im Protokoll des lauten Denkens häufiger war, Evidenz höherer Tiefe für [[regulation|Regulation]] jedoch häufiger in den Protokollen, sodass keiner der beiden Spuren allein das Kriterium für eine [[metacognition|metakognitive]] Behauptung ist.
 
 ## Wie sich die Lernwissenschaften zu ihren Nachbarinnen und Nachbarn verhalten
 
@@ -93,13 +101,21 @@ Die Befunde zählen erst, wenn sie das Lehren erreichen, und diese Reise läuft 
 
 ## Verbundene Artikel
 
-- [[competent-generative-ai-use-measures-review-2026]] — Review and exploratory meta-analysis of measures for competent generative-AI use (Verí 2026)
-- [[deceptive-overgeneralization-adaptive-learning-2026]] — Correctness masking an incomplete rule: mastery stopping rules in adaptive learning (An, McLaren & Stamper 2026)
-- [[demographic-signals-llm-student-assessment-2026]] — Counterfactual audit of demographic signals in LLM student assessment (Rooein, Benedetto & Hovy 2026)
-- [[learning-paths-patterns-learning-design-2026]] — Markov chains and pattern mining over 29,064 activities in 554 courses (Divjak, Svetec & Horvat 2026)
-- [[pause-ai-cognitive-offloading-self-reflection-2026]] — A privacy-preserving, non-diagnostic self-check for AI-associated offloading (Alam 2026)
-- [[perrotta-zero-shot-governance-2026]] — Zero-shot governance: general-purpose AI in policy, read through the Redbox codebase (Perrotta 2026)
-- [[rachatasumrit-example-problem-ratio-2026]] — Why the best example–problem ratio depends on content (Rachatasumrit, Koedinger & Carvalho 2025)
-- [[reichert-human-centered-llm-chatbot-design-teachers-2026]] — Teachers design bounded-expert chatbots, with selective delegation of instruction (Reichert et al. 2026)
-- [[sutedjo-faculty-genai-tpack-21-2026]] — Faculty GenAI TPACK: strong content knowledge, weak technology-integrated knowledge (Sutedjo, Chowdhury & Liu 2026)
-- [[wang-tutor-copilot-human-ai-live-tutoring-rct-2024]] — Tutor CoPilot: a randomized trial of human–AI live tutoring at scale (Wang et al. 2024)
+- [[competent-generative-ai-use-measures-review-2026]] — Review und explorative Meta-Analyse von Messinstrumenten für kompetenten generativen KI-Einsatz (Verí 2026)
+- [[deceptive-overgeneralization-adaptive-learning-2026]] — Richtigkeit, die eine unvollständige Regel maskiert: Stoppregeln bei Meisterschaft in adaptivem Lernen (An, McLaren & Stamper 2026)
+- [[demographic-signals-llm-student-assessment-2026]] — Kontrafaktisches Audit demografischer Signale in der LLM-basierten Bewertung Studierender (Rooein, Benedetto & Hovy 2026)
+- [[learning-paths-patterns-learning-design-2026]] — Markov-Ketten und Muster Mining über 29.064 Aktivitäten in 554 Kursen (Divjak, Svetec & Horvat 2026)
+- [[pause-ai-cognitive-offloading-self-reflection-2026]] — Ein datenschutzfördernder, nicht-diagnostischer Selbstcheck für KI-assoziierte Entlastung (Alam 2026)
+- [[perrotta-zero-shot-governance-2026]] — Zero-shot-Governance: generische KI in der Politik, gelesen durch die Redbox-Codebasis (Perrotta 2026)
+- [[rachatasumrit-example-problem-ratio-2026]] — Warum das beste Beispiel-Problem-Verhältnis vom Inhalt abhängt (Rachatasumrit, Koedinger & Carvalho 2025)
+- [[reichert-human-centered-llm-chatbot-design-teachers-2026]] — Lehrkräfte gestalten Chatbots mit begrenzter Expertise, mit selektiver Delegation von Unterricht (Reichert et al. 2026)
+- [[sutedjo-faculty-genai-tpack-21-2026]] — GenAI-TPACK in der Fakultät: starkes Fachwissen, schwaches technologieintegriertes Wissen (Sutedjo, Chowdhury & Liu 2026)
+- [[wang-tutor-copilot-human-ai-live-tutoring-rct-2024]] — Tutor CoPilot: eine randomisierte Studie zu Live-Tutoring mit Mensch und KI im großen Maßstab (Wang et al. 2024)
+- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — Ein vorab registriertes Delphi mit 30 Expertinnen und Experten darüber, welche Lernprozesse generative KI stützt und welche sie gefährdet
+- [[three-pathways-student-ai-interaction-2026]] — Eine Typologie der Interaktion zwischen Studierenden und KI: 64 % passiv oder transaktional, 36 % strategischer Dialog
+- [[agent-type-feedback-style-self-directed-learning-2026]] — Feedbackstil, nicht Agententyp, verschob selbstreguliertes Engagement
+- [[metacognitive-processes-genai-interaction-logs-2026]] — Prozessevidenz ist kanalabhängig
+
+- [[sun-student-genai-entanglement-literacy-demands-2026]] — Die Verteilung generativer KI-Nutzung ist eine institutionelle Entscheidung
+
+- [[genai-reliance-human-agency-collaborative-learning-2026]] — Innerhalb-personale Abhängigkeit geht einem Rückgang wahrgenommener Handlungsfähigkeit voraus

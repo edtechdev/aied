@@ -1,13 +1,14 @@
 ---
 title: "Wie können KI-Agenten Studierende und Lehrende unterstützen?"
 created: "2026-08-25T09:20:00-04:00"
-updated: "2026-10-10T09:50:26-04:00"
+updated: "2026-10-24T23:50:47-04:00"
 connected_faqs: [developing-ai-tutor, training-ai-tutors-to-guide-rather-than-answer]
 weight: 66
+audience: [instructors, learners, administrators]
 foundations: [agentic-ai, ai-literacy, cognitive-offloading]
 technology: [human-in-the-loop-ai, intelligent-tutoring, pedagogical-agent]
 translation_of: faqs/ai-agents-support-students-instructors
-source_updated: "2026-10-02T08:21:34-04:00"
+source_updated: "2026-10-21T14:32:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -18,8 +19,6 @@ ai_assist:
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
-
-# Wie können KI-Agenten Studierende und Lehrende unterstützen?
 
 **KI-Agenten können über das Beantworten einzelner Fragen hinausgehen**, indem sie planen, Werkzeuge nutzen, relevanten Kontext behalten, Teilaufgaben koordinieren und Unterstützung über eine Folge von Interaktionen anpassen. Für Studierende gehören adaptive Tutorings, Studienplanung, [[formative-assessment|formatives]] Feedback, angeleitetes [[problem-solving|Problemlösen]], Übungsgenerierung, Simulation, Empfehlungen zu Voraussetzungen und reflektierendes oder metakognitives [[prompt-engineering|Prompting]] zu den plausiblen Rollen. Für Lehrende können Agenten bei Materialentwicklung, [[automated-question-generation|Fragengenerierung]] und -validierung, Feedback-Triage, Kurs-[[learning-analytics|Analytics]], Instruktionsdesign-Workflows, Ressourcenabruf und der Orchestrierung spezialisierter Agenten helfen.
 

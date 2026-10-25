@@ -1,7 +1,7 @@
 ---
 title: Virtual und Augmented Reality
 created: "2026-09-13T09:52:00-04:00"
-updated: "2026-10-10T09:04:23-04:00"
+updated: "2026-10-24T23:30:00-04:00"
 type: concept
 pedagogy: [embodied-learning, professional-training]
 technology: [generative-ai, multimodal, simulation]
@@ -97,10 +97,10 @@ Dieselbe Logik erklärt, warum Präsenz nicht automatisch gut ist. Bewegungskran
 - [[arts-design-and-media-education]]
 ## Verbundene Artikel
 
-- [[genai-ar-physics-simulation-prompt-2026]] — four-element prompt generating hand-controlled AR physics simulations; 29-student pilot, perception-only evidence
-- [[mixed-reality-engineering-learning]] — mixed-reality apps vs physical toolkits vs classroom in engineering mechanics; engagement up, complex visualization still hard
-- [[medgame-llm-medical-education-gamification]] — gamified medical training with AI
-- [[tech-enhanced-tabletop-cybersecurity-education]] — augmented tabletop scenarios in cybersecurity education
-- [[genai-xr-architectural-design-education-2026]] — Generative AI and Extended Reality in Collaborative Architectural Design Education: An Exploratory Studio Study
-- [[ai-ive-pbl-vocational-design-creativity-2026]] — AI-IVE-PBL: immersive VR design studio with an LLM-backed teaching assistant, evaluated against traditional PBL (Jin et al. 2026)
-- [[luminote-llm-vr-stage-lighting-education-2026]] — LumiNote: LLM-assisted multimodal instruction in VR stage lighting education, and where grounding broke down (Liang et al. 2026)
+- [[genai-ar-physics-simulation-prompt-2026]] — Vierelement-Prompt zur Erzeugung handgesteuerter AR-Physiksimulationen; 29-Studierenden-Pilot, Evidenz nur aus Wahrnehmung
+- [[mixed-reality-engineering-learning]] — Mixed-Reality-Apps vs. physische Werkzeugkits vs. Klassenraum in Technischer Mechanik; Engagement hoch, komplexe Visualisierung weiterhin schwer
+- [[medgame-llm-medical-education-gamification]] — Gamifiziertes medizinisches Training mit KI
+- [[tech-enhanced-tabletop-cybersecurity-education]] — Augmentierte Tischszenarien in der Cybersicherheitsbildung
+- [[genai-xr-architectural-design-education-2026]] — Generative KI und Extended Reality in der kollaborativen Architektur-Design-Bildung: eine exploratorische Studio-Studie
+- [[ai-ive-pbl-vocational-design-creativity-2026]] — AI-IVE-PBL: immersives VR-Design-Studio mit einem LLM-gestützten Lehrassistenten, gegen traditionelles PBL geprüft (Jin et al. 2026)
+- [[luminote-llm-vr-stage-lighting-education-2026]] — LumiNote: LLM-gestützte multimodale Instruktion in der VR-Bühnentechnik-Bildung, und wo die Verankerung brach (Liang et al. 2026)

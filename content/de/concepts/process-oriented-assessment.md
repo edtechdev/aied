@@ -1,7 +1,7 @@
 ---
 title: Prozessorientiertes Assessment
 created: "2026-09-26T06:54:53-04:00"
-updated: "2026-10-10T09:04:24-04:00"
+updated: "2026-10-24T21:15:40-04:00"
 type: concept
 foundations: [academic-integrity]
 pedagogy: [self-regulated-learning]
@@ -10,9 +10,9 @@ assessment: [assessment, ai-detection, assessment-validity, authentic-assessment
 ethics: [equity-in-ai-education]
 level: [higher ed]
 confidence: high
-connected_resources: [process-feedback]
+connected_resources: [process-feedback, code-viva]
 translation_of: concepts/process-oriented-assessment
-source_updated: "2026-10-14T11:15:00-04:00"
+source_updated: "2026-10-16T19:45:37-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -49,6 +49,9 @@ Der für Prozessbelege gewählte Kanal verändert, was belegt werden kann: in de
 Praktiker- und Rahmenwerk-Konten füllen die Artefakte aus. Udens und Hwangs (2026) LEARN-Rahmenwerk, ausgerichtet auf [[problem-based-learning|problemlösendes Lernen]]-[[assessment|Assessment]], verlangt prozessfokussierte Rubriken, mündliche Begründungen, gestufte Einreichungen und Schlussfolgerungsspuren mit [[ai-use-disclosure|Offenlegung der KI-Nutzung]], und behandelt Reflexion über Lerntagebücher und Protokolle lauten Denkens als [[metacognition|metakognitiven]] Motor der Sequenz. Moganadas und Kollegen (2026) machen KI-transparentes, prozessorientiertes Assessment zu einer von fünf erforschbaren Propositionen und verlangen Dokumentation, Verifikation und reflektierte Begründung statt Verbot oder Detektornutzung. Padhy (2026) empfiehlt, Überarbeitungsgeschichte, Interaktionsmuster und Zeit-auf-Aufgabe zu erfassen, gepaart mit transparenter Offenlegung. Goldstein, Marae-Haj und Zidan (2026) berichten, dass nach einer [[trust|Vertrauens]]krise dieselben Artefakte aus der Praxis auftauchten: Prompting-Aufzeichnungen, Dokumentenversionsgeschichte, überwachte Gruppenbeiträge und reflektierte „Journey Journals“, die in physischen Notizbüchern geführt wurden —, neben dem schlichten Befund, dass mit-nach-Hause-Arbeit Lernen nicht mehr belegen konnte.
 
 Konkrete Werkzeuge entstehen: [[stepwise-teacher-diagnosis-math-2026|Kim et al. (2026)]] operationalisieren Problemlösen als vier Stufen und acht diagnostische Teilfähigkeiten, sodass ein LLM stufenspezifische Fragen und Rubriken erzeugen kann; fünf Lehrkräfte und 64 Studierende nutzten das System an 90 Aufgaben und 720 Teilfragen, mit einem mittleren System-Usability-Scale-Wert von 83,5.
+
+Erforderliche Dokumentation erwies sich im Kursmaßstab als machbar: über sechs Semester von sechswöchigen asynchronen Graduiertenforschungsmethoden-Kursen mit etwa 440 Lehrkräften der Grund- und Sekundarstufe erreichten Kontrollpunkt-Einreichungen im Schnitt 96 % Vollständigkeit, und spätere Iterationen, die explizite Prompt-Vorlagen hinzufügten, erzeugten längere und sichtbar substanziellere Reflexionen [[packard-thinking-partner-framework-adult-learners-2026|Packard et al. (2026)]].
+
 ## Eine andere Achse als Authentizität, und als Bewertung
 
 Die Achsen auseinanderzuhalten ist bedeutsam, weil ihre Vermischung dazu führt, dass eine Neugestaltung fertig aussieht, während die Ausgesetztheit bleibt. Sharma (2026) macht die komplementäre Unterscheidung zwischen Authentizität und integritätsorientiertem Design: Authentizität fragt, ob eine Aufgabe lohnenswerte Praxis spiegelt, während integritätsorientiertes Design fragt, ob Lernende ihre Entscheidungen begründen und Verantwortung im Verhältnis zu fachlichen Standards übernehmen können, weshalb die von ihm angebotenen Praktiken — kommentierte Entscheidungspfade, Verifikation GenAI-beigetragener Behauptungen, mündliche Verteidigung, Entwurfsunterschiede mit Versionsgeschichte — für das [[evaluative-judgment|Urteil]] ausgewählt werden, das sie sichtbar machen, statt für ihren Realismus. Espinos und Espinos (2026) Zehnjahres-Review zu [[business-education|Wirtschaftsbildung]] gelangt von der Literaturseite her zur gleichen Design-Schlussfolgerung und findet, dass das Feld auf authentische, prozesssichtbare Aufgaben konvergiert, die Interpretation, kontextuelle Anwendung und iterative Verfeinerung verlangen, und dass es isolierte Werkzeugübernahme innerhalb unveränderter Assessmentstrukturen als sein persistentestes Scheitern behandelt.
@@ -90,18 +93,19 @@ Thapa und Lewis' Darstellung ist konzeptuell: keine Teilnehmenden, keine Datener
 
 ## Verbundene Artikel
 
-- [[alam-process-oriented-collaborative-essays-2026]] — A graded, collaboratively written process essay in a first-year degree apprenticeship: iteration and collaboration in the rubric, GenAI permitted within stated boundaries (Alam & Jackson 2026)
-- [[genai-performance-vs-learning]] — performance is not learning: a research agenda built on process measures (Yan et al. 2026)
-- [[human-centered-ai-teacher-educators-2026]] — teacher educators asking for AI-resistant, process-based tasks built on justification and reflection (Baran et al. 2026)
-- [[sharma-judgment-visible-genai-assessment-2026]] — annotated decision trails, oral defense, and draft differences selected for visible judgment
-- [[munoz-misconduct-allegation-evidence-2026]] — what misconduct case files contain, and the process evidence they lack
-- [[weidlich-inference-at-risk-assessment-validity-2026]] — which inference is at risk when assessment evidence is substituted
-- [[beyond-detection-authentic-assessment-ai-2025]] — authenticity must be redesigned, not policed
-- [[authentic-products-authenticated-processes-2026]] — authentic products and the processes that produced them
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — the oral exam as an AI-resistant format that makes reasoning live
-- [[thapa-lewis-process-oriented-assessment-2026]] — epistemic authenticity and the four design commitments behind process-oriented assessment (Thapa & Lewis 2026)
+- [[alam-process-oriented-collaborative-essays-2026]] — Ein benoteter, kollaborativ verfasster Prozess-Aufsatz in einem Degree-Apprenticeship im ersten Jahr: Iteration und Kollaboration in der Rubrik, GenAI innerhalb erklärter Grenzen erlaubt (Alam & Jackson 2026)
+- [[genai-performance-vs-learning]] — Leistung ist nicht Lernen: eine Forschungsagenda aufgebaut auf Prozessmaßen (Yan et al. 2026)
+- [[human-centered-ai-teacher-educators-2026]] — Lehrkräftebildnerinnen und -bildner, die nach KI-resistenten, prozessbasierten Aufgaben auf der Grundlage von Begründung und Reflexion fragen (Baran et al. 2026)
+- [[sharma-judgment-visible-genai-assessment-2026]] — kommentierte Entscheidungspfade, mündliche Verteidigung und Entwurfsunterschiede, ausgewählt für sichtbares Urteil
+- [[munoz-misconduct-allegation-evidence-2026]] — was Fehlverhaltens-Fallakten enthalten und welche Prozessevidenz ihnen fehlt
+- [[weidlich-inference-at-risk-assessment-validity-2026]] — welcher Schluss auf dem Spiel steht, wenn Assessment-Evidenz ersetzt wird
+- [[beyond-detection-authentic-assessment-ai-2025]] — Authentizität muss neu gestaltet werden, nicht poliziert
+- [[authentic-products-authenticated-processes-2026]] — authentische Produkte und die Prozesse, die sie erzeugt haben
+- [[fenton-oral-exams-ai-authentic-assessment-2025]] — die mündliche Prüfung als KI-resistentes Format, das Schlussfolgern live macht
+- [[thapa-lewis-process-oriented-assessment-2026]] — epistemische Authentizität und die vier Design-Verpflichtungen hinter prozessorientiertem Assessment (Thapa & Lewis 2026)
 
-- [[metacognitive-processes-genai-interaction-logs-2026]] — Channel-conditional process evidence: logs and think-aloud reveal different processes
-- [[drafttrace-ai-writing-analytics-2026]] — DraftTrace: A Multi-View Analytics Environment for AI-Integrated Writing
-- [[epistemic-ownership-ai-mediated-education-2026]] — Same Performance, Different Process: Epistemic Ownership in AI-Mediated Education
-- [[stepwise-teacher-diagnosis-math-2026]] — STEPwise: Supporting Teachers in Diagnosing Students' Mathematical Problem-Solving Skills through LLM-Generated Questions
+- [[metacognitive-processes-genai-interaction-logs-2026]] — Kanal-konditionierte Prozessevidenz: Logs und lautes Denken offenbaren unterschiedliche Prozesse
+- [[drafttrace-ai-writing-analytics-2026]] — DraftTrace: Eine Multi-View-Analytics-Umgebung für KI-integriertes Schreiben
+- [[epistemic-ownership-ai-mediated-education-2026]] — Gleiche Leistung, unterschiedlicher Prozess: epistemisches Eigentum in KI-vermittelter Bildung
+- [[stepwise-teacher-diagnosis-math-2026]] — STEPwise: Unterstützung von Lehrkräften bei der Diagnose mathematischer Problemlösefähigkeiten von Lernenden durch LLM-generierte Fragen
+- [[packard-thinking-partner-framework-adult-learners-2026]] — Kontrollpunkt-Dokumentation der KI-Dialoge hielt sich über sechs Semester und etwa 440 Lehrkräfte bei 96 % Vollständigkeit

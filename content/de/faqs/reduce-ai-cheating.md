@@ -1,13 +1,14 @@
 ---
 title: "Wie kann ich KI-Betrug in meinem Kurs reduzieren?"
 created: "2026-08-25T09:20:00-04:00"
-updated: "2026-10-10T09:50:26-04:00"
+updated: "2026-10-24T21:55:25-04:00"
 connected_faqs: [should-we-use-ai-detectors, redesign-assessment-ai-era, addressing-common-misconceptions-ai-education, top-10-findings-ai-education-instructors]
 weight: 88
+audience: [instructors, assessment designers]
 foundations: [academic-integrity, ai-literacy, reducing-ai-misuse]
 assessment: [assessment]
 translation_of: faqs/reduce-ai-cheating
-source_updated: "2026-10-02T08:21:34-04:00"
+source_updated: "2026-10-21T14:32:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -18,8 +19,6 @@ ai_assist:
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
-
-# Wie kann ich KI-Betrug in meinem Kurs reduzieren?
 
 **Die stärkste Richtung in der Wissensbasis ist, weniger auf Detektion zu setzen und mehr auf strukturelles [[assessment|Assessment]]-Design, explizite Erwartungen, Lernverifikation und [[ai-literacy]].** Die Synthese [[academic-integrity|Akademische Integrität]] berichtet erhebliche Grenzen in der Erkennung KI-generierter Texte und argumentiert, dass akademische Integrität im [[generative-ai]]-Zeitalter zunehmend ein Assessmentdesign-Problem statt einfach ein Detektionsproblem ist. Detektionswerkzeuge sind unzuverlässig und prozedural unfair. In einer kontrollierten Studie mit 642 veröffentlichten englischen Abstracts markierten zwei kommerzielle Detektoren leitlinienkonformes leichtes KI-*Editieren* bei 38–80%, markierten unveränderte Originale von 2023–25 bei 9–15% (Nicht-[[stem-education|STEM]] weit über STEM, p<0.001), und – nach KI-„Humanisierung" – erwischten weniger als 4% der KI-markierten Umschreibungen, ein Integritäts-Catch-22, das ehrliche Unterstützung bestraft, während es absichtliches Ausweichen ermöglicht.([[karr-ai-detection-humanization-2026]]) In einer verdeckten Feldstudie blieben 94% vollständig KI-generierter Einreichungen, die in laufende Online-Prüfungen über fünf Psychologiemodule injiziert wurden, unentdeckt, und die KI-Arbeit erzielte im Durchschnitt bessere Ergebnisse als echte Studierende; die Vanderbilt University deaktivierte ihren lizenzierten Detektor, nachdem sie eine beworbene Falsch-Positiv-Rate von 1% nicht validieren konnte, die bei 75.000 jährlichen Einreichungen etwa 750 falsch etikettierte Studierende implizierte.([[teichmann-detecting-undetectable-misconduct-2026]]) Detektion allein ist deshalb ein schwacher Hebel – der stärkere Hebel ist das Assessmentdesign-Argument, das in [[redesign-assessment-ai-era]] vollständig dargelegt ist. Unten sind konkrete, umsetzbare Ansätze, grob geordnet nach Stärke der Belege.
 

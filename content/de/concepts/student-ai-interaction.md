@@ -1,7 +1,7 @@
 ---
 title: Interaktion zwischen Studierenden und KI
 created: "2026-08-20T02:55:00-04:00"
-updated: "2026-10-10T09:04:22-04:00"
+updated: "2026-10-24T22:09:25-04:00"
 type: concept
 foundations: [cognitive-offloading]
 pedagogy: [student-ai-interaction]
@@ -10,7 +10,7 @@ audience: [learners]
 level: [higher ed]
 confidence: high
 translation_of: concepts/student-ai-interaction
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-23T09:49:58-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -82,6 +82,7 @@ Nichtnutzung ist selbst ein Interaktionsmuster, für das [[pedagogy|Pädagogik]]
 ## Disziplin und kognitives Engagement im Studierenden-KI-Chat
 
 - **Disziplinassoziiertes kognitives Engagement im Studierenden-KI-Chat.** Chang und Li (2026) analysieren Studierendenprompts an KI über 116 Kurse hinweg mit einem within-person, cross-discipline Design und zeigen, dass Studierenden-KI-Gespräche **disziplinassoziiertes** kognitives Engagement widerspiegeln statt fixe individuelle Interaktionsstile. Etwa 62% der Prompts enkodierten insgesamt höherstufige kognitive Anforderung, aber Bloom-Niveau-Profile unterschieden sich scharf nach Disziplin: [[stem-education|STEM]]-Kurse riefen Apply-prävalente Prompts hervor (20,8%), Sprachkurse Understand-prävalente (31,7%), und Sozialwissenschaftskurse Create-prävalente (33,8%). Gepaarte within-person-Vergleiche bestätigten, dass dieselben Studierenden in Sozialwissenschaftskursen signifikant mehr höherstufige Prompts produzierten als in STEM-Kursen (gepooltes n = 16, p < .001), und Kursvariation übertraf Studierendenvariation —, ein starkes Argument, dass KI-Lehrassistenten mit disziplinärem Kontext im Blick gestaltet und evaluiert werden sollten.
+- **Wie viel Studierende KI nutzten, sagte nicht vorher, wie sie sich dabei fühlten.** Unter 819 Studierenden erreichten Geschlecht, selbst eingeschätzte KI-Expertise und Nutzungshäufigkeit in einer MANOVA alle nicht das Signifikanzniveau (Wilks' Lambda 0,997, p = 0,551; 0,990, p = 0,295). Schwere und leichte Nutzende in dieser Stichprobe vertraten dieselben Ansichten ([[ai-chatbots-emotional-support-human-connection-2025|Al-Zahrani (2025)]]).
 
 ## Verbundene Konzepte
 - [[learners]] — Lernende: das Dach für die lernendenseitigen Konzepte
@@ -98,21 +99,22 @@ Nichtnutzung ist selbst ein Interaktionsmuster, für das [[pedagogy|Pädagogik]]
 - [[ai-literacy]]
 
 ## Verbundene Artikel
-- [[yan-cognitive-outsourcing-genai-assessments-2026]] — Cognitive outsourcing vs. reallocation in unsupervised student–GenAI assessments (Yan et al. 2026)
-- [[zou-is-this-a-trap-student-teachers-genai-2026]] — „Is this a trap?“: student teachers' non-adoption of GenAI in assessments (Zou et al. 2026)
+- [[ai-chatbots-emotional-support-human-connection-2025]] — Nutzungshäufigkeit und selbst eingeschätzte Expertise sagten über 819 Studierende hinweg nichts voraus
+- [[yan-cognitive-outsourcing-genai-assessments-2026]] — Kognitives Outsourcing vs. Reallokation in unbewachten Studierenden–GenAI-Assessments (Yan et al. 2026)
+- [[zou-is-this-a-trap-student-teachers-genai-2026]] — „Is this a trap?“: Nichtübernahme von GenAI durch Lehramtsstudierende in Assessments (Zou et al. 2026)
 - [[tutortrace-learner-behavioral-states-2026]]
-- [[student-ai-inquiry-types-cs2-2026]] — Analysis of Types of Inquiries in Student-AI Interaction
-- [[student-llm-interaction-taxonomy-review-2026]] — Student-LLM Interaction Taxonomy Review
-- [[teacher-authored-prompts-student-ai-dialogue]] — Teacher-Authored Prompts in Student-AI Dialogue
-- [[constructing-epistemic-ai-literacy-student-ai-co-programming]] — Constructing Epistemic AI Literacy
-- [[dura-llm-cs2]] — Demystify, Use, Reflect, Assess (DURA): LLM Integration in CS2
-- [[li-dbagent-llm-educational-agent-cs-2026]] — LLM-based educational agent (DBagent) in CS education
-- [[isaza-chatgpt-engineering-prompting-2026]] — Logged prompting and integration behaviors
+- [[student-ai-inquiry-types-cs2-2026]] — Analyse der Typen von Anfragen in der Studierenden-KI-Interaktion
+- [[student-llm-interaction-taxonomy-review-2026]] — Review der Taxonomie der Studierenden-LLM-Interaktion
+- [[teacher-authored-prompts-student-ai-dialogue]] — Von Lehrkräften verfasste Prompts im Studierenden-KI-Dialog
+- [[constructing-epistemic-ai-literacy-student-ai-co-programming]] — Epistemische KI-Kompetenz konstruieren
+- [[dura-llm-cs2]] — Demystify, Use, Reflect, Assess (DURA): LLM-Integration in CS2
+- [[li-dbagent-llm-educational-agent-cs-2026]] — LLM-basierter Bildungsagent (DBagent) in der Informatikbildung
+- [[isaza-chatgpt-engineering-prompting-2026]] — Protokolliertes Prompting und Integrationsverhaltensweisen
 - [[breideband-community-builder-cobi-2026]]
 - [[oppenheimer-llms-collaborative-learning-partners-2026]]
 - [[vahedian-children-attitudes-ai-chatbot-2026]]
-- [[student-reception-genai-analogies-computing-2026]] — Flawed but Memorable: Student Critical Reception of Interest-Personalized GenAI Analogies in Computing Education
-- [[naim-bypass-offload-scaffold-llm-learning-2026]] — Bypass, Offload, or Scaffold: A Conceptual Model of How Large Language Models Shape Learning
-- [[ai-tutor-modality-randomized-field-experiment-2026]] — When AI Tutors Speak: Evidence from a Randomized Field Experiment
-- [[context-prompts-physics-assignments-2026]] — Artificial Intelligence Driven Physics Assignments using Context Prompts
-- [[three-pathways-student-ai-interaction-2026]] — Three Pathways typology of student-AI interaction: 46% Passive Review, 18% Direct Question, 36% Strategic Dialogue
+- [[student-reception-genai-analogies-computing-2026]] — Fehlerhaft, aber einprägsam: die kritische Rezeption interessenpersonalisierter GenAI-Analogien im Informatikunterricht durch Studierende
+- [[naim-bypass-offload-scaffold-llm-learning-2026]] — Bypass, Offload oder Scaffold: ein konzeptionelles Modell, wie große Sprachmodelle Lernen prägen
+- [[ai-tutor-modality-randomized-field-experiment-2026]] — Wenn KI-Tutoren sprechen: Evidenz aus einem randomisierten Feldexperiment
+- [[context-prompts-physics-assignments-2026]] — KI-gesteuerte Physikaufgaben mit Kontext-Prompts
+- [[three-pathways-student-ai-interaction-2026]] — Three-Pathways-Typologie der Studierenden-KI-Interaktion: 46% Passive Review, 18% Direct Question, 36% Strategic Dialogue

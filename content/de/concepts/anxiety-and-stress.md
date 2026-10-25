@@ -1,7 +1,7 @@
 ---
 title: Angst und Stress
 created: "2026-08-25T09:40:00-04:00"
-updated: "2026-10-10T09:04:25-04:00"
+updated: "2026-10-24T22:09:25-04:00"
 type: concept
 foundations: [academic-integrity]
 pedagogy: [social-emotional-learning, well-being]
@@ -12,7 +12,7 @@ confidence: high
 connected_faqs: [how-ai-impacts-students, ai-anxiety-wellbeing]
 level: [adult learning]
 translation_of: concepts/anxiety-and-stress
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-24T06:36:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -66,6 +66,8 @@ Diese Umrahmung hat eine Grenze im Sprechen: Unter 708 Englischlernenden verlief
 - **Antizipatorische Schuld: Bedrängnis, die der Erfahrung vorausgeht.** [[vassallo-ai-guilt-complex-faculty-2026|Vassallo (2026)]] befragte akademisches Personal einer maltesischen Universität (109 Antwortende) und fand, dass sich Schuld über KI an die Furcht vor Übertretung heftet und nicht an deren Erfahrung: Der AI Guilt Index (α = 0.88) bezog seine stärkste Zustimmung aus der Sorge, dass KI-Nutzung die eigene Glaubwürdigkeit untergräbt (34.9%), und dem Gefühl, [[academic-integrity|zu betrügen]] (25.7%), während Reue *nach* der Nutzung zuletzt rangierte (9.2%). Das Paradox ist, dass die kleine Gruppe der Nicht-Nutzenden höhere Schuld berichtete (M = 3.25) als jede Nutzendengruppe (M = 2.32) — weil Vermeidende ihre Ängste nie erproben, kann Vermeidung die Bedrängnis erhalten, die sie verhindern sollte. Schuld war am höchsten unter Berufsanfängerinnen und -anfängern im akademischen Bereich (M = 2.71) und am geringsten unter langjährigen (M = 2.03), und sie verlief mit Verbergen statt mit Ehrlichkeit, korrelierend mit der Begrenzung von KI-Nutzung aus Unbehagen (r = .62) und mit der Vermeidung von Offenlegung gegenüber Kolleginnen und Kollegen (r = .50), aber nicht mit formeller [[ai-use-disclosure|Offenlegung]] (r = .08).
 - **Furcht vor verlorenem professionellem Wert — und ein Weg hindurch.** [[chick-faculty-development-ethical-ai-2026|Chick, Morello & Staffey (2026)]] dokumentieren eine existenzielle und nicht technische Sorge Lehrender. Zehn Personen aus Fakultät und Personal traten mit akademischer Integrität als führendem Anliegen (80%) und [[cognitive-offloading|übermäßiger Abhängigkeit]] an zweiter Stelle (70%) in ein sechswöchiges Institut ein und beschrieben generative KI früh als „Betrugsmaschine“, „Bedrohung“ oder „entmenschlichende Kraft“; eine Mathematikprofessorin benannte die Bedrohung der Identität unverblümt — „Ich habe Jahre damit verbracht, Expertise in meinem Feld zu entwickeln. Jetzt kann eine Maschine Probleme schneller lösen und Lösungen besser erklären als ich. Was ist mein Wert noch?“ Strukturiertes, sicheres Experimentieren bewegte das Vokabular hin zu „neugierigem Assistenten“ und „kreativem Partner“ und ließ 90% positive Wahrnehmungen berichten, und die Autoren sind explizit, dass der beobachtete Widerstand „nicht aus Technophobie oder sturer Traditionalität rührt, sondern aus berechtigten Anliegen über Bildungsqualität, Gerechtigkeit und menschliche Handlungsfähigkeit“ — ein direktes Gegengewicht dazu, die Sorge Lehrender als bloße moralische Panik zu lesen.
 
+- **Auf Einschätzungen zielende Chatbot-Unterstützung verschiebt Freude und Langeweile, nicht Hoffnungslosigkeit oder Selbstwirksamkeit.** In einem Experiment mit 144 Studierenden, das gewöhnliches ChatGPT mit einem SRL-gerüsteten Agenten und einem emotional unterstützenden verglich, stieg die Freude (d = 0,53 mit SRL-Gerüst, 0,75 mit emotionaler Unterstützung) und fiel die Langeweile (d = −0,35, −0,67) nur in den beiden gerüsteten Bedingungen. Gewöhnliches ChatGPT zeigte in keiner der beiden Emotionen eine signifikante Veränderung. Hoffnungslosigkeit fiel in jeder Bedingung, einschließlich gewöhnlichem ChatGPT (d = −0,73 bis −1,02). Weder Selbstwirksamkeit (η2 = 0,001) noch Vertrauen in den Chatbot (η2 = 0,020) unterschieden sich nach Bedingung, sodass das emotionale Design zwei Emotionen verschob und die motivationale Überzeugung unberührt ließ, die die Theorie vorhersagte ([[diordiev-emotional-scaffolding-genai-srl-2026|Diordiev, Stenberdt & Makransky, 2026]]).
+
 **Institutionelle Unterstützung wirkt auf Angst über Einschätzungen, nicht über Beruhigung.** Eine Zwei-Wellen-Befragung von 547 chinesischen Studierenden
  ([[school-support-ai-learning-anxiety-control-value-2026|Jiang, Chen & Chen, 2026]]) verfolgte, wie sich empfundene Unterstützung durch die Schule auf
  KI-Lernangst auswirkt, und zwar über Control-Value-Einschätzungen — das Kompetenzempfinden der lernenden Person (Kontrolle) und ihr Empfinden der Nützlichkeit
@@ -87,6 +89,8 @@ Kompetenz ist jedoch kein vollständiger Puffer: Unter 551 chinesischen Studiere
 **Prognosen des Personals als verteilte Form der KI-Angst.** Die Befragung von 1.057 US-amerikanischen Fakultätsangehörigen an Colleges und Universitäten durch [[watson-rainie-ai-challenge-faculty-survey-2026|Watson & Rainie (2026)]] registriert die Sorge Lehrender als Erwartungen statt als Symptome: 95% erwarteten, dass generative KI die übermäßige Abhängigkeit der Studierenden von den Werkzeugen erhöht, 94% mehr Anliegen akademischer Integrität, 90% vermindertes [[critical-thinking|kritisches Denken]], 83% kürzere Aufmerksamkeitsspannen und 81% größere [[equity-in-ai-education|digitale Ungleichheiten]], während 39% glaubten, die Werkzeuge würden die Rolle der Fakultät verringern, und 47% die langfristige Beschäftigungswirkung in ihren Disziplinen negativ fürchteten. Dieselben Antwortenden waren nicht durchgängig pessimistisch — 61% erwarteten weiterhin verbessertes und angepasstes Lernen —, aber 73% hatten persönlich einen Fall akademischer Integrität mit Studierenden bearbeitet, die generative KI nutzten, was der Punkt ist, an dem eine Prognose zu Arbeitslast wird. Der Bericht ist ausdrücklich eine nicht-wissenschaftliche Stichprobe, die nicht generalisierbar ist, dokumentiert also die geäußerten Ängste des Sektors statt gemessener Effekte.
 
 Diese Richtung verbindet KI-Angst mit [[motivation|Motivation]], [[ai-literacy|KI-Kompetenz]], [[student-experience|Erleben der Studierenden]] und [[self-regulated-learning|selbstreguliertem Lernen]].
+
+Ein Agent, der einem Prüfer ähnelt, kann den Druck einer Prüfung mit sich tragen. Studierende, die mit Replika sprachen übten, erzielten signifikant höhere Werte als mit Peers, beschreiben die Interaktion jedoch als ängstlich und unbeholfen und wollten sie nicht erneut nutzen — gemessene Leistung und erlebter Stress bewegten sich in entgegengesetzte Richtungen ([[chatbots-oral-proficiency-efl-systematic-review|Soriano-Gonzalez & Belda-Medina (2026)]]).
 
 ## Berufsbezogene KI-Angst
 
@@ -141,34 +145,36 @@ Die positive Seite: KI-Systeme erkennen und helfen zunehmend, Stress und Angst z
 - [[social-norms-ai-use]] — die affektiven Kosten der Sichtbarkeit
 
 ## Verbundene Artikel
-- [[mu-ai-competence-ethical-awareness-anxiety-2026]] - Competence raises ethical awareness, ethical awareness raises AI anxiety: indirect-only mediation among 584 students
-- [[ai-anxiety-strategic-regulation-writing-2026]] — KI-Angst als produktives Signal strategischer Regulation
-- [[aivaluate-anxiety-assessment-2026]] — Student anxiety in AI-mediated performance-based assessment
-- [[ai-campus-wellbeing-tools]] — KI-gestützte Werkzeuge für das Wohlbefinden auf dem Campus
-- [[affective-text-wearable-student-health]] — Affective text + wearable sensing for student health
-- [[academic-dishonesty-automated-proctoring-ai-2026]] — Automated proctoring, test-taker anxiety, false accusations
-- [[automated-online-exam-proctoring-decade-review-2026]] — Decade-long review of automated exam proctoring
-- [[moral-panic-genai-classroom]] — Faculty anxiety and moral panic about GenAI
-- [[acceptance-ai-english-tools-2026]] — Anxiety shaping AI tool acceptance
-- [[teacher-education-ai-literacy-sdt-2026]] — Teacher education, AI literacy, and anxiety
-- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]] — AI use intertwined with anxiety, trust, confidence
-- [[qu-wang-disclose-or-not-genai-2026]] — The disclosure dilemma as a source of student stress
-- [[kim-ai-anxiety-comprehensive-analysis]] — Comprehensive analysis of AI anxiety and interventions
-- [[wang-career-adapt-abilities-ai-anxiety-english-2026]] — Career adapt-abilities reduce AI anxiety
-- [[duan-ai-anxiety-career-decisions-college-2026]] — AI anxiety impairs career decisions via career adaptability
-- [[ustun-ai-anxiety-job-finding-anxiety-2026]] — AI anxiety and attitudes predict job-finding anxiety
-- [[dag-ai-perceptions-career-anxiety-health-2026]] — AI anxiety predicts job-search anxiety in health sciences
-- [[farazouli-navigating-uncertainty-teachers-genai-2026]] — University teachers' experiences and perceptions of GAI: vulnerability, rethinking assessment, student learning at risk (Farazouli et al. 2026)
-- [[culturally-aware-student-stress-chatbot-2026]] — An AI-Powered Culturally Aware Chatbot for Stress Detection and Wellness Support among Pakistani University Students Using NLP and Machine Learning
-- [[school-support-ai-learning-anxiety-control-value-2026]] — Perceived school support lowers AI learning anxiety mainly through control-value appraisals (69.5% mediated); ANN cross-validation (Jiang, Chen & Chen 2026)
-- [[vassallo-ai-guilt-complex-faculty-2026]] — The AI Guilt Complex: anticipatory guilt exceeding post-use remorse among academic staff (Vassallo 2026)
-- [[watson-rainie-ai-challenge-faculty-survey-2026]] — AAC&U/Elon survey of 1,057 US faculty: forecasts of over-reliance, integrity concern and a diminished faculty role (Watson & Rainie 2026)
-- [[chick-faculty-development-ethical-ai-2026]] — From fear to curiosity: a six-week faculty institute moving instructors through identity threat (Chick, Morello & Staffey 2026)
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Academic developers' impostor feelings and ethical discomfort as affective labor in AI-mediated work
-- [[parlant-emotional-micro-interventions-2026]] — Instructor-side real-time emotional micro-interventions grounded in cognitive appraisal theory
 
-- [[ai-employment-threat-career-anxiety-2026]] — AI employment threat and career decision anxiety: perceived employability mediates and growth mindset moderates
-- [[ai-enabled-course-development-first-year-adjustment-2026]] — AI usage pressure weakens the link between AI proficiency and first-year adjustment
-- [[ai-attitude-latent-profiles-career-development-2026]] — A profile high on both AI anxiety and perceived AI quality, not one or the other
-- [[ai-speaking-practice-communicative-readiness-2026]] — Speaking anxiety's link to willingness to communicate reverses at high speaking self-efficacy
-- [[perceived-ai-intelligence-medical-students-mental-health-2026]] — Perceived AI assistant intelligence lowers academic anxiety through study-goal progress (medical students)
+- [[chatbots-oral-proficiency-efl-systematic-review]] — Ein prüferähnlicher Agent erhöhte gemessenes Sprechen und Angst zugleich
+- [[mu-ai-competence-ethical-awareness-anxiety-2026]] - Kompetenz erhöht ethisches Bewusstsein, ethisches Bewusstsein erhöht KI-Angst: reine indirekte Mediation unter 584 Studierenden, ethical awareness raises AI anxiety: indirect-only mediation among 584 students
+- [[ai-anxiety-strategic-regulation-writing-2026]] — KI-Angst als produktives Signal strategischer Regulation
+- [[aivaluate-anxiety-assessment-2026]] — Angst der Studierenden bei KI-vermitteltem performanzbasiertem Assessment
+- [[ai-campus-wellbeing-tools]] — KI-gestützte Werkzeuge für das Wohlbefinden auf dem Campus
+- [[affective-text-wearable-student-health]] — Affektiver Text + tragbare Sensorik für die Gesundheit Studierender
+- [[academic-dishonesty-automated-proctoring-ai-2026]] — Automatisierte Prüfungsaufsicht, Angst der Prüfungsteilnehmenden, falsche Beschuldigungen
+- [[automated-online-exam-proctoring-decade-review-2026]] — Zehnjähriger Review zur automatisierten Prüfungsaufsicht
+- [[moral-panic-genai-classroom]] — Angst des Personals und moralische Panik um GenAI
+- [[acceptance-ai-english-tools-2026]] — Wie Angst die Akzeptanz von KI-Werkzeugen prägt
+- [[teacher-education-ai-literacy-sdt-2026]] — Lehrkräftebildung, KI-Kompetenz und Angst
+- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]] — KI-Nutzung verflochten mit Angst, Vertrauen und Selbstvertrauen
+- [[qu-wang-disclose-or-not-genai-2026]] — Das Offenlegungsdilemma als Quelle studentischen Stresses
+- [[kim-ai-anxiety-comprehensive-analysis]] — Umfassende Analyse von KI-Angst und Interventionen
+- [[wang-career-adapt-abilities-ai-anxiety-english-2026]] — Berufliche Adaptabilitäten reduzieren KI-Angst
+- [[duan-ai-anxiety-career-decisions-college-2026]] — KI-Angst beeinträchtigt Berufsentscheidungen über berufliche Adaptabilität
+- [[ustun-ai-anxiety-job-finding-anxiety-2026]] — KI-Angst und Einstellungen sagen Jobsuchangst vorher
+- [[dag-ai-perceptions-career-anxiety-health-2026]] — KI-Angst sagt Jobsuchangst in den Gesundheitswissenschaften vorher
+- [[farazouli-navigating-uncertainty-teachers-genai-2026]] — Erfahrungen und Wahrnehmungen von Universitätslehrkräften zu GAI: Verletzlichkeit, Bewertung neu gedacht, Lernen der Studierenden gefährdet (Farazouli et al. 2026)
+- [[culturally-aware-student-stress-chatbot-2026]] — Ein KI-gestützter, kulturbewusster Chatbot zur Stresserkennung und Unterstützung des Wohlbefindens unter pakistanischen Universitätsstudierenden mittels NLP und Machine Learning
+- [[school-support-ai-learning-anxiety-control-value-2026]] — Empfundene Unterstützung durch die Schule senkt KI-Lernangst vor allem über Control-Value-Einschätzungen (69,5 % mediiert); ANN-Kreuzvalidierung (Jiang, Chen & Chen 2026)
+- [[vassallo-ai-guilt-complex-faculty-2026]] — Der AI Guilt Complex: antizipatorische Schuld, die Reue nach der Nutzung übersteigt, unter akademischem Personal (Vassallo 2026)
+- [[watson-rainie-ai-challenge-faculty-survey-2026]] — AAC&U/Elon-Umfrage unter 1.057 US-amerikanischen Fakultätsangehörigen: Prognosen über Überabhängigkeit, Integritätsanliegen und eine verminderte Rolle der Fakultät (Watson & Rainie 2026)
+- [[chick-faculty-development-ethical-ai-2026]] — Von Furcht zu Neugier: ein sechswöchiges Fakultätsinstitut, das Lehrende durch eine Bedrohung der Identität führt (Chick, Morello & Staffey 2026)
+- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Hochstapler-Gefühle und ethisches Unbehagen akademischer Entwickelnder als affektive Arbeit in KI-vermittelter Arbeit
+- [[parlant-emotional-micro-interventions-2026]] — Echtzeit-emotionale Mikro-Interventionen auf der Seite der Lehrenden, gegründet auf die Theorie der kognitiven Einschätzung
+
+- [[ai-employment-threat-career-anxiety-2026]] — KI-Beschäftigungsbedrohung und Angst bei der Berufsentscheidung: empfundene Beschäftigungsfähigkeit mediiert, Wachstumsdenken moderiert
+- [[ai-enabled-course-development-first-year-adjustment-2026]] — KI-Nutzungsdruck schwächt den Zusammenhang zwischen KI-Kompetenz und Anpassung im ersten Jahr
+- [[ai-attitude-latent-profiles-career-development-2026]] — Ein Profil, das in KI-Angst und empfundener KI-Qualität gleichermaßen hoch liegt, nicht das eine oder das andere
+- [[ai-speaking-practice-communicative-readiness-2026]] — Der Zusammenhang von Sprechangst und Kommunikationsbereitschaft kehrt sich bei hoher Sprech-Selbstwirksamkeit um
+- [[perceived-ai-intelligence-medical-students-mental-health-2026]] — Empfundene Assistentenfähigkeit der KI senkt akademische Angst über Fortschritt bei den Lernzielen (Medizinstudierende)

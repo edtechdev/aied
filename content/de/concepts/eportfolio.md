@@ -1,7 +1,7 @@
 ---
 title: Elektronisches Portfolio (E-Portfolio)
 created: "2026-08-20T09:00:00-04:00"
-updated: "2026-10-10T09:04:27-04:00"
+updated: "2026-10-25T00:10:53-04:00"
 type: concept
 pedagogy: [student-engagement]
 technology: [generative-ai]
@@ -66,11 +66,11 @@ Weil E-Portfolios **Prozess, Reflexion und demonstriertes Verständnis** gegenü
 
 ## Verbundene Artikel
 
-- [[ni-lam-multiliteracies-ai-portfolio-2026]] — Students' perceptions of multiliteracies development using AI-assisted portfolio assessment (Ni & Lam 2026)
-- [[sutama-chatgpt-eportfolio-speaking-2026]] — ChatGPT aligned with e-portfolio assessment for EFL speaking and feedback literacy (Laksana et al. 2026)
-- [[responsible-assessment-ai-era-stanford-2026]] — Portfolio- and competency-based assessment in the AI era
-- [[zhan-boud-du-authentic-assessment-scoping-review-2025]] — Authentic assessment robust to generative AI, incl. social contribution portfolios
-- [[beyond-detection-authentic-assessment-ai-2025]] — Annotated portfolios / oral defenses as AI-resistant assessment
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]] — The Symbiotic Portfolio for hybrid learners
-- [[pbl-structural-conditions-ai-2026]] — Portfolios as partial answers to assessment at scale
-- [[learn-framework-responsible-genai-pbl-2026]] — Personal learning portfolios as assessable learning traces
+- [[ni-lam-multiliteracies-ai-portfolio-2026]] — Wahrnehmungen von Studierenden zur Entwicklung von Multiliteracies durch KI-gestützte Portfolio-Bewertung (Ni & Lam 2026)
+- [[sutama-chatgpt-eportfolio-speaking-2026]] — ChatGPT im Einklang mit E-Portfolio-Bewertung für EFL-Sprechen und Feedback-Literacy (Laksana et al. 2026)
+- [[responsible-assessment-ai-era-stanford-2026]] — Portfolio- und kompetenzbasierte Bewertung im KI-Zeitalter
+- [[zhan-boud-du-authentic-assessment-scoping-review-2025]] — Authentisches Assessment robust gegen generative KI, einschließlich sozialer Beitragsportfolios
+- [[beyond-detection-authentic-assessment-ai-2025]] — Kommentierte Portfolios / mündliche Verteidigungen als KI-resistente Bewertung
+- [[elsayed-pedagogical-symbiosis-posthuman-learner]] — Das symbiotische Portfolio für hybride Lernende
+- [[pbl-structural-conditions-ai-2026]] — Portfolios als teils Antwort auf Bewertung im Maßstab
+- [[learn-framework-responsible-genai-pbl-2026]] — Persönliche Lernportfolios als bewertbare Lernspuren

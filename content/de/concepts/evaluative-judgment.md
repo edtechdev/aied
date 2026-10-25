@@ -1,7 +1,7 @@
 ---
 title: Evaluatives Urteilsvermögen
 created: "2026-09-10T05:58:00-04:00"
-updated: "2026-10-10T09:04:24-04:00"
+updated: "2026-10-24T23:50:47-04:00"
 type: concept
 foundations: [academic-integrity, critical-thinking]
 pedagogy: [metacognition, self-regulated-learning]
@@ -10,7 +10,7 @@ audience: [instructors, learners, assessment designers]
 level: [higher ed]
 confidence: high
 translation_of: concepts/evaluative-judgment
-source_updated: "2026-09-30T16:25:27-04:00"
+source_updated: "2026-10-24T08:06:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -77,9 +77,14 @@ Die [[collaborative-learning|kollaborative]] und Assessment-Literatur der Wissen
 - **Dem Urteil der Institution selbst fehlen die Kriterien, die sie von Studierenden verlangt.** [[munoz-misconduct-allegation-evidence-2026|Munoz et al. (2026)]] bewerteten die Beweiskraft von 1,855 Evidenzitems über 1,162 Anschuldigungen wegen Fehlverhaltens mit generativer KI und fanden, dass die Evidenzqualität keine verlässliche Beziehung zu den Fallausgängen hatte, weil keine Verfahrensstufe eine minimale Evidenzschwelle setzte oder von Untersuchenden verlangte, die Beweiskraft abzuwägen, bevor eine Anschuldigung vorangebracht wurde — Gremien wogen Evidenz durch unstrukturiertes professionelles Urteil. Detektorausgabe war die schwächste Kategorie in diesem Korpus (eigenständige Detektorausgaben durchweg gering an Glaubwürdigkeit), und [[hadra-ai-detector-accuracy-efl-2026|Hadra et al. (2026)]] zeigen, dass das Instrument die Tatsache, die eine Feststellung behauptet, nicht etablieren kann — Makro-Genauigkeit von 0.69 und 0.61 über 192 Texte, nahezu vollständiges Versagen bei hybridem Mensch-KI-Schreiben, und eine grenzwertige Bias-Sorge bei EFL-Schreibenden —, weshalb die eigene Empfehlung der Autoren menschliches Urteil, klarere [[educational-policy-ai|Bildungspolitik]] und besser spezifizierte Aufgaben sind statt Überwachung. Besser spezifiziert zählt doppelt: [[wright-transcription-not-generation-2026|Wright (2026)]] argumentiert, dass Regeln, die nach Plattformidentität statt nach Funktion geschrieben sind, durch einen definitorischen Unfall überinklusiv sind und eine studierende Person sanktionieren, die nicht das getan hat, was die Regel verhindern sollte, weshalb das Urteil der bewertenden Person auf das angewandt werden muss, was ein Werkzeug getan hat, statt darauf, welche Plattform genutzt wurde. Urteil, das ohne geteilte Kriterien ausgeübt wird, kann nicht gelehrt, kalibriert oder auditiert werden — das Konsistenzproblem, das diese Seite für Studierende berichtet, ankommend auf der Ebene der Institution. Das Urteil der Bewertenden trägt auch eine messbare eigene Richtung: fünf Zulassungsbeauftragte, die 50 von Menschen von 50 von KI geschriebene Zulassungsaufsätze trennten, erreichten AUC 0.70 (95% CI [0.65, 0.75]), und ihre Qualitätsbewertungen fielen, während die wahrgenommene KI-Wahrscheinlichkeit stieg, eine Assoziation, die die Anpassung an maschinell bewertete Qualität, tatsächlich erwiesene Herkunft und Antragsteller:innenmerkmale überstand (−0.109, p < .05). Weil niemand die Einreichungen prüfte, war jenes ungestützte Urteil der gesamte Durchsetzungsmechanismus, und jeder markierte Aufsatz trug eine um 1,5 Prozentpunkte niedrigere Zulassungswahrscheinlichkeit, 2,6 sobald die Aufsatzqualität konstant gehalten wurde ([[ai-written-admissions-essays-penalized-2026|Isley, Gaebler und Goel 2026]]).
 - **Proxies auf Klassenraumebene für Urteil werden vorgeschlagen.** [[austin-ai-agents-assignment-redesign-2026|Austin (2026)]] fügt einer neugestalteten Aufgabensequenz zwei Verhaltenssignale hinzu: die UnBlooms™ *Discernment Rate*, der Anteil der KI-Ausgaben, die eine lernende Person hinterfragt, herausfordert oder überarbeitet statt akzeptiert, und die *First-Pass Acceptance Rate*. Keines ist validiert — beide werden als billige Pro-Aufgabe-Diagnostiken angeboten —, aber sie machen das Konstrukt innerhalb gewöhnlicher Benotung beobachtbar, wo eine nahezu Null liegende Discernment Rate über mehrere Aufgaben hinweg als Signal des Aufgabesignals statt als individuelles Defizit zu lesen ist.
 
+- **Urteil registriert sich, wenn es an Überarbeitung gekoppelt ist, nicht nur vorhanden.** In 67 angehenden Lehrkräften, die mit GenAI Unterrichtspläne entwarfen, war explizite Evaluation in der qualitätsschwächeren Gruppe nahezu abwesend (0,67 gegenüber 0,00); was die Qualität ausmachte, war ein bidirektionaler Evaluations-Überarbeitungs-Zyklus (CE→RE Z = 2.80, RE→CE Z = 2.50) und eine Überarbeitungs-Selbstschleife (RE→RE Z = 4.24) ([[fang-human-ai-collaboration-patterns-instructional-design-2026|Fang et al. (2026)]]).
+- **Kriterien der Lehrenden können durch Überarbeiten von KI-Ausgaben externalisiert werden.** [[valiassist-programming-feedback-validation-by-demonstration-2026|Tang et al. (2026)]] leiteten aus den Bearbeitungen von 16 Lehrenden an LLM-erzeugtem Programmier-Feedback wiederverwendbare Validierungsregeln ab und hoben die Übereinstimmung mit ihrer pädagogischen Absicht von 57 % auf 91 %, wodurch implizite Kriterien inspizierbar wurden, statt unbenannt zu bleiben.
+
 ## Wie Missbrauch Urteil verdrängt
 
 Das klarste Risiko ist Verdrängung, und sie ist in der Feedbackliteratur belegt statt nur theoretisiert. Wenn das Werkzeug die Rubrik, das Feedback und das Monitoring liefert, wird die [[metacognition|metakognitive]] und evaluative Praxis der lernenden Person verdrängt statt unterstützt — das Assessment wird zu einer Aufführung von Urteil, das die studierende Person nie ausgeübt hat, dieselbe Versagensart wie [[cognitive-offloading|kognitive Entlastung]], ausgedrückt im Assessmentregister. Direktes GenAI-Feedback im Mehrstandort-Experiment drängte genau in Richtung dieses passiven Auslagerns. Notendruck verstärkt es: wo Selbstevaluation oder Reflexion über KI-Nutzung selbst benotet wird, können Studierende die Reflexion produzieren, die die Rubrik will, statt das Schlussfolgern, weshalb echtes Urteil verlangt, die Übung folgenreich zu machen — eine Entscheidung, die in späterer Arbeit sichtbar wird, eine mündliche Erklärung oder ein dokumentierter Begründungszusammenhang, der selbst geprüft wird.
+
+Verdrängung hat eine lehrkörperseitige Version, und sie ist es, was mehrere Schreibprofessorinnen und -professoren dazu brachte, das Auslagern der Benotung ganz abzulehnen. Fünf der vierundzwanzig sagten, Benoten sei die Weise, auf die eine Lehrkraft ihre Lernenden kennenlernt, sodass ihr das Delegieren jenes Verständnisses kostet, nicht nur die Stunden ([[wu-lam-genai-writing-assessment-professors-2026|Wu and Lam (2026)]]). Achtzehn der vierundzwanzig behandelten menschliches Urteil als das, was die Fehler des Werkzeugs fängt und die Rechenschaftspflicht dafür trägt.
 
 ## Implikationen für die Praxis
 
@@ -113,8 +118,8 @@ Das klarste Risiko ist Verdrängung, und sie ist in der Feedbackliteratur belegt
 - [[higher-ed]]
 
 ## Verbundene Artikel
+- [[wu-lam-genai-writing-assessment-professors-2026]] — Warum Schreibprofessorinnen und -professoren das Auslagern der Benotung ablehnen: es ist die Weise, auf die sie ihre Lernenden kennenlernen
 - [[chatgpt-peer-feedback-evaluative-judgement-2025]] — ChatGPT versus Peer-Feedback als Übungsplätze für verschiedene Dimensionen evaluativen Urteilsvermögens
-
 - [[ai-internal-feedback-evaluative-judgments]] — Wie KI-gestütztes internes Feedback evaluatives Urteilsvermögen entwickelt, und wo das Schlussfolgern dünn bleibt
 - [[genai-feedback-design-multisite-experiment]] — Hybrides Selbst-/Peer-/KI-Feedback bewahrt Handlungsfähigkeit und Urteil besser als direktes KI-Feedback
 - [[pairr-ai-peer-review-2025]] — Peer-und-KI-Review mit strukturierter Reflexion als Kalibrierung im Maßstab
@@ -123,18 +128,20 @@ Das klarste Risiko ist Verdrängung, und sie ist in der Feedbackliteratur belegt
 - [[teichmann-detecting-undetectable-misconduct-2026]] — Evaluatives Urteilsvermögen als einer der Designstränge, die detektionsgestützte Durchsetzung ersetzen
 - [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] — Sichtbares Schlussfolgern und Urteil zu dem machen, was die Rubrik belohnt
 - [[learner-centered-feedback-ai]] — Evaluatives Urteil der Lehrenden mit KI-Feedbackwerkzeugen
-- [[beyond-detection-authentic-assessment-ai-2025]] — Beyond detection: Authentizität neu gestaltet statt überwacht
-- [[coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene]] — Reconceptualizing assessment validity for the age of generative AI
+- [[beyond-detection-authentic-assessment-ai-2025]] — Jenseits der Detektion: Authentizität neu gestaltet statt überwacht
+- [[coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene]] — Neu konzipierte Assessmentvalidität für das Zeitalter generativer KI
 - [[du-yuan-epistemic-dependence-2026]] — Anfechtbarkeit, Wiederherstellbarkeit und die Kriterien, die Vertrauen von Abhängigkeit trennen
 - [[rethinking-ai-writing-feedback-literacy]] — Feedback-Kompetenz für KI-assistiertes Schreiben
-- [[student-perspectives-ai-writing-grading-2026]] — Who Should Grade My Work? Student Perspectives on Transparent AI-Assisted Writing Assessment in Higher Education
-- [[sharma-judgment-visible-genai-assessment-2026]] — Judgment as the evaluative core of integrity: annotated decision trails, oral defense, version history (Sharma 2026)
-- [[munoz-misconduct-allegation-evidence-2026]] — Panels weighing evidence without codified standards: the institution's own judgment problem (Munoz et al. 2026)
-- [[hadra-ai-detector-accuracy-efl-2026]] — Detector inaccuracy and hybrid-writing failure: human judgment as the recommended replacement for the verdict (Hadra et al. 2026)
-- [[wright-transcription-not-generation-2026]] — Function, not platform: judging what a tool did rather than what it is (Wright 2026)
-- [[austin-ai-agents-assignment-redesign-2026]] — UnBlooms and the Discernment Rate: grading the reasoning trail behind AI-assisted work (Austin 2026)
-- [[ai-written-admissions-essays-penalized-2026]] — AI-written admissions essays are widespread but penalized
-- [[authentic-assessments-generative-ai-pilot-2026]] — Designing Authentic Assessments with Generative AI: A Pilot Study of Assessment Authentifire in Higher Education
-- [[obyrne-co-constructing-ai-boundaries-agency-judgment-2026]] — the Agency Check (credible, relevant, acceptable, nuanced) that structures each AI interaction
+- [[student-perspectives-ai-writing-grading-2026]] — Wer soll meine Arbeit benoten? Perspektiven von Studierenden auf transparente KI-gestützte Schreibbewertung in der Hochschulbildung
+- [[sharma-judgment-visible-genai-assessment-2026]] — Urteil als der evaluative Kern von Integrität: annotierte Entscheidungsspuren, mündliche Verteidigung, Versionshistorie (Sharma 2026)
+- [[munoz-misconduct-allegation-evidence-2026]] — Gremien, die Beweise ohne kodifizierte Standards wägen: das eigene Urteilsproblem der Institution (Munoz et al. 2026)
+- [[hadra-ai-detector-accuracy-efl-2026]] — Detektorungenauigkeit und Versagen bei hybridem Schreiben: menschliches Urteil als die empfohlene Ersatzlösung für das Verdikt (Hadra et al. 2026)
+- [[wright-transcription-not-generation-2026]] — Funktion, nicht Plattform: beurteilen, was ein Werkzeug getan hat, statt was es ist (Wright 2026)
+- [[austin-ai-agents-assignment-redesign-2026]] — UnBlooms und die Discernment Rate: die Begründungsspur hinter KI-gestützter Arbeit benoten (Austin 2026)
+- [[ai-written-admissions-essays-penalized-2026]] — KI-geschriebene Zulassungsaufsätze sind verbreitet, werden aber bestraft
+- [[authentic-assessments-generative-ai-pilot-2026]] — Entwurf authentischer Assessments mit generativer KI: eine Pilotstudie zu Assessment Authentifire in der Hochschulbildung
+- [[obyrne-co-constructing-ai-boundaries-agency-judgment-2026]] — der Agency Check (glaubwürdig, relevant, akzeptabel, nuanciert), der jede KI-Interaktion strukturiert
 
-- [[judgment-centred-software-engineering-education-2026]] — A Post-Hype Review and Framework for AI-Augmented Software Engineering Education
+- [[judgment-centred-software-engineering-education-2026]] — Ein Post-Hype-Review und Framework für KI-gestützte Software-Engineering-Bildung
+- [[fang-human-ai-collaboration-patterns-instructional-design-2026]] — Urteil trennte Qualität nur, wenn es an Überarbeitung gekoppelt war (Z = 2.80 und 2.50)
+- [[valiassist-programming-feedback-validation-by-demonstration-2026]] — Die Überarbeitungen der Lehrenden wurden zu wiederverwendbaren Validierungskriterien (Tang et al. 2026)

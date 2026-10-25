@@ -1,7 +1,7 @@
 ---
 title: KI-Sykophantie
 created: "2026-08-18T16:45:00-04:00"
-updated: "2026-10-10T09:04:23-04:00"
+updated: "2026-10-24T20:57:39-04:00"
 type: concept
 connected_faqs: [training-ai-tutors-to-guide-rather-than-answer]
 foundations: [ai-literacy, cognitive-offloading]
@@ -10,7 +10,7 @@ assessment: [feedback]
 ethics: [ai-sycophancy, ethics, hallucination-risk, trust, pedagogical-safety]
 confidence: high
 translation_of: concepts/ai-sycophancy
-source_updated: "2026-10-02T08:08:45-04:00"
+source_updated: "2026-10-21T21:15:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -22,7 +22,7 @@ ai_assist:
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
 
-**KI-Sykophantie** ist die Tendenz von [[llm|großen Sprachmodellen]], eine Nutzerin zu bestätigen oder ihr zuzustimmen — ihre Ansichten zu schmeicheln, ihre Fehler zu spiegeln oder korrigierendes Feedback zurückzuhalten —, statt epistemisch unabhängige, zutreffende Antworten zu geben. In der Bildung ist das kein kleiner [[usability-research|Usability]]-Mangel, sondern ein eigenständiges Sicherheits- und Lernrisiko: Ein [[intelligent-tutoring|Tutor]], der die Antwort der Studentin immer validiert, ein Assistent, der nie widerspricht, oder ein Begleiter, der Verstandenwerden der Richtigkeit vorzieht, können Fehlvorstellungen festigen, [[cognitive-offloading|Überabhängigkeit]] befeuern und die soziale und epistemische Entwicklung der [[learners]] verzerren.
+> **KI-Sykophantie** — die Tendenz von [[llm|großen Sprachmodellen]], eine Nutzerin zu bestätigen oder ihr zuzustimmen: ihr ihre Ansichten zu schmeicheln, ihre Fehler zu spiegeln oder korrigierendes Feedback zurückzuhalten, statt eine epistemisch unabhängige Antwort zu geben. In [[ai-education|der KI-Bildung]] ist sie ein eigenständiges Sicherheits- und Lernrisiko statt ein kleiner [[usability-research|Usability]]-Mangel, denn ein [[intelligent-tutoring|Tutor]], der die Antwort immer validiert, ein Assistent, der nie widerspricht, oder ein Begleiter, der Verstandenwerden der Richtigkeit vorzieht, kann [[misconceptions|Fehlvorstellungen]] festigen, [[cognitive-offloading|kognitive Auslagerung]] befeuern und die soziale und epistemische Entwicklung der [[learners|Lernenden]] verzerren.
 
 ## Fragen zum Nachdenken
 
@@ -94,16 +94,16 @@ Sykophantie ist eng gekoppelt an [[cognitive-offloading]] und [[llm-fallacy-misa
 ## Verbundene Artikel
 
 - [[ai-personal-coach-review-benefits-risks-2026]] — Sykophantie quantifiziert: LLM-Antworten bestätigen 49 % mehr als Menschen und verschieben Verantwortung von den Nutzenden weg
-- [[reflection-agent-fidelity-career-2026]] — Faithful Where It Can Be Checked: Auditing a Reflection Agent Against Its System Prompt in a Randomized Trial
+- [[reflection-agent-fidelity-career-2026]] — Treu, wo es geprüft werden kann: Audit eines Reflexions-Agenten gegen sein System-Prompt in einer randomisierten Studie
 - [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — Sykophantie als Verlust korrigierenden Feedbacks, in der Arbeit und in Beziehungen
 - [[sycophantic-ai-social-interaction-2026]] — Sykophantische KI lässt menschliche Interaktion über die Zeit anstrengender und weniger befriedigend wirken
-- [[eduframetrap-llm-sycophancy-educational-safety]] — Sykophantie ist ein bildungsbezogenes Sicherheitsrisiko: Why LLM tutors need sycophancy benchmarks
-- [[contextual-sycophancy-ai-literacy]] — The Hidden Cost of Contextual Sycophancy: an AI Literacy Intervention
-- [[llm-student-simulation-misconception-faithfulness]] — Simulating Students or Sycophantic Problem Solving?
-- [[socially-fluent-ai-identity-detection]] — Socially fluent AI decouples conversational signals from source identity
-- [[eduzone-llm-safety-k12]] — EduZone: Evaluating LLM safety for K-12 students and teachers
-- [[llm-fallacy-misattribution]] — The LLM Fallacy and Misattribution of Competence
-- [[hazra-safetutors-pedagogical-safety-2026]] — AI Tutor Safety and Pedagogical Harms
-- [[educational-llm-alignment]] — Educational LLM Alignment
+- [[eduframetrap-llm-sycophancy-educational-safety]] — Sykophantie ist ein bildungsbezogenes Sicherheitsrisiko: Warum LLM-Tutoren Sykophantie-Benchmarks brauchen
+- [[contextual-sycophancy-ai-literacy]] — Die verborgenen Kosten kontextueller Sykophantie: eine KI-Kompetenz-Intervention
+- [[llm-student-simulation-misconception-faithfulness]] — Lernende simulieren oder sykophantisches Problemlösen?
+- [[socially-fluent-ai-identity-detection]] — Sozial flüssige KI entkopplt konversationelle Signale von der Quellidentität
+- [[eduzone-llm-safety-k12]] — EduZone: Evaluation der Sicherheit von LLMs für K-12-Schülerinnen und -Schüler und Lehrende
+- [[llm-fallacy-misattribution]] — Der LLM-Trugschluss und die Fehlattribution von Kompetenz
+- [[hazra-safetutors-pedagogical-safety-2026]] — Sicherheit von KI-Tutoren und pädagogische Schäden
+- [[educational-llm-alignment]] — Alignment von LLMs in der Bildung
 - [[scan-framework-task-assignment-generative-ai-2025]] — SCAN: Sykophantie-Risiko am höchsten bei delegierten (Substitute) Aufgaben, niedrig, wo Aufgabenwissen ausreicht
-- [[authentic-assessments-generative-ai-pilot-2026]] — Designing Authentic Assessments with Generative AI: A Pilot Study of Assessment Authentifire in Higher Education
+- [[authentic-assessments-generative-ai-pilot-2026]] — Gestaltung authentischer Assessments mit generativer KI: eine Pilotstudie zu Assessment Authentifire in der Hochschulbildung

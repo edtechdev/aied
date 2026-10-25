@@ -1,7 +1,7 @@
 ---
 title: Frühkindliche Bildung
 created: "2026-08-25T13:30:00-04:00"
-updated: "2026-10-10T09:04:24-04:00"
+updated: "2026-10-24T23:29:54-04:00"
 type: concept
 foundations: [ai-education, ai-literacy, computational-thinking]
 pedagogy: [well-being]
@@ -9,7 +9,7 @@ connected_faqs: [ai-guidance-children-under-13]
 level: [k 12, preschool]
 confidence: high
 translation_of: concepts/early-childhood-elementary-ai-education
-source_updated: "2026-10-15T10:00:00-04:00"
+source_updated: "2026-10-23T09:20:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -43,6 +43,7 @@ Junge Kinder interagieren zunehmend früh mit KI — über KI-fähiges Spielzeug
 - **Haltungen von Kindern gegenüber alterszugeschnittenen Chatbots.** [[vahedian-children-attitudes-ai-chatbot-2026|Vahedian Movahed & Martin (2025)]] setzten „Ask Me Anything“ (AMA) ein, einen thematisch begrenzten Chatbot (Astronomie, Sneaker und Schuhe, Dinosaurier), alterszugeschnitten über [[prompt-engineering|Prompt Engineering]], für 63 Kinder (Alter 6–14), und deckten drei Muster in der Interaktion zwischen Kind und [[student-ai-interaction|KI]] auf — Staunen und Neugier, Vertrauen testen und Zuversicht aufbauen, sowie Beziehungen aufbauen über Anthropomorphisierung —, neben einer breiten Offenheit gegenüber und hohem Vertrauen in KI als Informationsquelle. Ihr Ruf nach alterssensitivem Design und explizitem [[teacher-role|Unterrichten]] von [[privacy|digitaler Sicherheit]] und Datennutzungskonzepten verstärkt die entwicklungsbezogenen und [[pedagogical-safety|Sicherheits-]]anliegen, die für dieses Konzept zentral sind.
 - **Fachliches Lernen in der Grundschule.** [[ai-powered-personalized-learning-elementary-fractions-2026|KI-gestütztes personalisiertes Lernen]] bei Brüchen in der Grundschule und [[awareness-technological-isomorphism|KI in der Grundschulmathematik]] (einschließlich Bedenken zu „technologischer Isomorphie“ — Lernende ahmen KI-Ausgaben ohne Verständnis nach) zeigen sowohl das Versprechen als auch die Fallstricke von KI im frühen Fachunterricht. [[elementary-writing-genai-systematic-review-2026|Ein systematischer Review zu Schreiben in der Grundschule und GenAI]] kartiert, wie [[generative-ai|generative KI]] [[writing-education|Schreibunterricht]] in den frühen Jahrgangsstufen neu formt.
 - **Roboter und junge Kinder.** [[tsingidou-ct-robotics-kindergarten-2026|Robotik im Kindergarten]] stützt Computational Thinking über [[educational-robotics|pädagogische Roboter]], und [[icub-humanoid-storytelling-llm-hri-2025|LLM-gestütztes humanoides Storytelling]] erkundet, ob Eltern Roboter als Erzählspielpartner für ihre Kinder akzeptieren — und stellt dabei [[trust|Vertrauen]] und Haltungen Erwachsener in den Vordergrund.
+- **Ein Kompetenzprofil, kein KI-Kompetenz-Curriculum.** Ein Review von 86 Ressourcen argumentiert, KI-Kompetenz für Kinder von 0 bis 8 Jahren nicht als eigenständiges Curriculum zu lehren ist, sondern sie in exekutive Funktionen, Wohlbefinden, Lernhaltungen und grundlegende Fähigkeiten einbettet, obwohl nur 26 der 86 Ressourcen empirisch waren ([[early-childhood-ai-holistic-competencies-review-2026|Pei (2026)]]).
 - **Ein „Creative Project Approach“-Rahmenwerk für KI-Agenten und Robotik.** [[creative-project-approach-ai-early-childhood-2025|Yang, Li und Lee (2025)]] schlagen ein fünfstufiges pädagogisches Rahmenwerk vor, das [[generative-ai|generative KI-Agenten]] und Roboter in den Project Approach integriert, um [[creativity|kreatives Lernen]] junger Kinder zu fördern. Sie argumentieren, physische Agenten seien für junge Kinder angemessener als Bildschirme, und paaren zwei komplementäre Paradigmen mit ihren [[learning-theories|Lerntheorien]] — **Coding-Roboter** (Paperts [[constructivist|Konstruktionismus]]; [[computational-thinking|Computational Thinking]] über greifbares Programmieren mit Werkzeugen wie Matatalab und KIBO) und **generative soziale Roboter** ([[sociocultural-learning|wygotskisches]] Scaffolding innerhalb der Zone der proximalen Entwicklung des Kindes, die als konversationelle Peers oder Tutoren agieren). Die fünf Schritte — Lernbedarfe identifizieren, von Lehrkraft geführte Kind-Roboter-Interaktion ermöglichen, KI in Kontexte situieren, die Balance aus Automation und Kreativität kalibrieren und Ergebnisse bewerten — bieten Gestaltenden und Praktikerinnen und Praktikern der frühkindlichen Bildung einen konkreten Weg, [[agentic-ai|KI-Agenten]] und [[educational-robotics|Roboter]] in spielbasierte, projektbasierte Kursräume einzubetten und dabei Begleitung durch die Lehrkraft und [[agency|Handlungsfähigkeit]] des Kindes zu erhalten.
 - **Spielzentrierte KI-Kompetenz-Curricula.** Lee (2026) berichtet über die [[design-based-research|designbasierte Forschung]] zu Play With AI (PL-AI), einem entwicklungsangemessenen [[curriculum-design|Curriculum]], in dem zwei Vorschul- und zwei Kindergarten-Lehrkräfte gemeinsam sieben sequenzierte Aktivitäten entwarfen, die unplugged Spiel („How-to“-Algorithmen komponieren und testen), greifbares Programmieren (Bee-Bot, Ozobot) und geführten Dialog mit einem sozialen KI-Roboter verbinden. [[formative-assessment|Formative]] Belege zeigten substanzielles Wachstum in der Zuversicht der Lehrkräfte und ihrer [[pedagogy|pädagogischen]] Handlungsfähigkeit, wobei vier Designprinzipien auftauchten — **verkörpertes Spiel, greifbares Programmieren, geführter Dialog und Mitgestaltung durch die Lehrkraft** —, ausgerichtet an der AI4K12-Initiative und den NAEYC-Rahmenwerken. Dies ist ein Modell dafür, wie [[educational-robotics|Roboter und greifbare Werkzeuge]] in spielbasierte, von Lehrkräften geführte [[ai-literacy|KI-Kompetenz]] für die jüngsten Lernenden eingebettet werden können.
 - **KI-gestützte Unterrichtsplanung für Kunstlehrende in Kinder-STEAM.** Eine experimentelle Studie zu Kunstlehrenden für Kinder ([[luo-tahir-chatgpt-steam-lesson-planning-2026|Luo und Tahir 2025]]) fand, dass ChatGPT-gestützte Unterrichtspläne von sechs Expertinnen- und Expertenprofessorinnen und -professoren signifikant höher in der Qualität bewertet wurden als von Lehrkräften erzeugte (Median 20.5 gegenüber 17.6, p = .002, großer Effekt), während zugleich kartiert wurde, wie Lehrkräfte delegierten — am häufigsten (60%), um Inhaltslücken in einem selbst skizzierten Unterrichtsplan zu füllen, statt ganze Pläne zu erzeugen. Lehrkräfte schätzten KI vor allem als Inspirations- und Lückenfindewerkzeug für interdisziplinäre [[stem-education|STEAM]]-Integration und schnellere Themenwahl, bemängelten aber Ausgaben, die für echte Kursräume unpraktisch waren, Sicherheitsrandbedingungen für Kinder übersahen (z. B. Schnitzmesser für junge Kinder) und westlich-zentristischen kulturellen Bias trugen — eine konkrete, entwicklungsbezogen fundierte Vorsicht für den Einsatz [[generative-ai|generativer KI]] mit jungen Lernenden, der ein Role–Instructions–End-Goal-Promptrahmenwerk entgegenwirken sollte.
@@ -80,22 +81,23 @@ Ein erstes neurobildgebendes Fenster auf diese Frage kommt mit einer Vorsicht: 6
 
 ## Verbundene Artikel
 
-- [[preservice-early-childhood-genai-magnetism-2026]] — Preservice Early Childhood Educators' Engagement with Generative AI in Science Activity Design: The Case of Magnetism
-- [[clara-developmental-appropriateness-children-stories-2026]] — CLARA: Can AI Assess Developmental Appropriateness in Children's Stories?
-- [[preschool-teachers-ai-behavioral-intention-2026]] — Preschool teachers' behavioral intention to use AI in early childhood settings (Duan et al. 2026)
-- [[ai-play-framework-early-childhood-2026]] — AI-Play: unplugged AI concepts in early childhood
-- [[ai-toys-child-development-2026]] — AI-enabled toys and child development
-- [[tsingidou-ct-robotics-kindergarten-2026]] — Computational thinking through robotics in kindergarten
-- [[ai-powered-personalized-learning-elementary-fractions-2026]] — AI-powered personalized learning in elementary fractions
-- [[elementary-writing-genai-systematic-review-2026]] — Elementary writing instruction in the age of GenAI
-- [[awareness-technological-isomorphism]] — Technological isomorphism in elementary math
-- [[icub-humanoid-storytelling-llm-hri-2025]] — LLM humanoid storytelling with children
-- [[human-ai-complementarity-social-emotional-learning-2026]] — Human–AI complementarity in early social-emotional learning (Raave et al. 2026)
-- [[play-ai-pre-k-kindergarten-ai-literacy-2026]] — Play With AI (PL-AI): play-centered AI literacy curriculum for pre-K and kindergarten (Lee 2026)
-- [[demir-akar-ai-media-literacy-children-2026]] — AI-based critical media literacy program for children
+- [[early-childhood-ai-holistic-competencies-review-2026]] — Die frühe Kindheit im Zeitalter der KI gestalten: Kompetenzen, Pädagogik und ökologische Unterstützung (Pei 2026)
+- [[preservice-early-childhood-genai-magnetism-2026]] — Engagement von angehenden frühkindlichen Erzieherinnen und Erziehern mit Generativer KI im naturwissenschaftlichen Aktivitätsdesign: der Fall Magnetismus
+- [[clara-developmental-appropriateness-children-stories-2026]] — CLARA: Kann KI Entwicklungsangemessenheit in Geschichten für Kinder beurteilen?
+- [[preschool-teachers-ai-behavioral-intention-2026]] — Verhaltensabsicht von Vorschullehrkräften zum Einsatz von KI in frühpädagogischen Settings (Duan et al. 2026)
+- [[ai-play-framework-early-childhood-2026]] — AI-Play: unplugged KI-Konzepte in der frühen Kindheit
+- [[ai-toys-child-development-2026]] — KI-fähiges Spielzeug und Kindesentwicklung
+- [[tsingidou-ct-robotics-kindergarten-2026]] — Computational Thinking durch Robotik im Kindergarten
+- [[ai-powered-personalized-learning-elementary-fractions-2026]] — KI-gestütztes personalisiertes Lernen bei Brüchen in der Grundschule
+- [[elementary-writing-genai-systematic-review-2026]] — Schreibunterricht in der Grundschule im Zeitalter von GenAI
+- [[awareness-technological-isomorphism]] — Technologische Isomorphie im Grundschulunterricht Mathematik
+- [[icub-humanoid-storytelling-llm-hri-2025]] — LLM-gestütztes humanoides Storytelling mit Kindern
+- [[human-ai-complementarity-social-emotional-learning-2026]] — Mensch-KI-Komplementarität im frühen sozial-emotionalen Lernen (Raave et al. 2026)
+- [[play-ai-pre-k-kindergarten-ai-literacy-2026]] — Play With AI (PL-AI): ein spielzentriertes KI-Kompetenz-Curriculum für Vorschule und Kindergarten (Lee 2026)
+- [[demir-akar-ai-media-literacy-children-2026]] — KI-basiertes Programm kritischer Medienkompetenz für Kinder
 - [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
 - [[vahedian-children-attitudes-ai-chatbot-2026]]
-- [[creative-project-approach-ai-early-childhood-2025]] — The Creative Project Approach: a framework for tailoring AI agents and robotics to early learning (Yang, Li & Lee 2025)
-- [[ai-rated-classroom-observation-scores-2026]] — I code or AI code: AI-rated CLASS Pre-K scores versus trained human raters in Hong Kong kindergartens (Fong et al. 2026)
-- [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] — First neuroimaging comparison of children and adults conversing with ChatGPT: less integrated control-attention-memory networks in 6-7-year-olds
-- [[ai-literacy-ecec-curricula-four-country-2026]] — AI literacy for AI natives? A four-country comparison
+- [[creative-project-approach-ai-early-childhood-2025]] — Der Creative Project Approach: ein Rahmenwerk zur Anpassung von KI-Agenten und Robotik an das frühe Lernen (Yang, Li & Lee 2025)
+- [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] — Erster neurobildgebender Vergleich von Kindern und Erwachsenen im Gespräch mit ChatGPT: weniger integrierte Kontroll-Aufmerksamkeits-Gedächtnis-Netzwerke bei 6- bis 7-Jährigen
+- [[ai-rated-classroom-observation-scores-2026]] — Ich code oder KI code: von KI bewertete CLASS-Pre-K-Scores gegen trainierte menschliche Bewertende in Hongkonger Kindergärten (Fong et al. 2026)
+- [[ai-literacy-ecec-curricula-four-country-2026]] — KI-Kompetenz für KI-Natives? Ein Vier-Länder-Vergleich

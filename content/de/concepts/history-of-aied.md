@@ -1,7 +1,7 @@
 ---
 title: Geschichte der KI in der Bildung
 created: "2026-08-23T13:00:00-04:00"
-updated: "2026-10-10T09:04:27-04:00"
+updated: "2026-10-24T23:48:52-04:00"
 type: concept
 foundations: [agency, ai-education, history-of-aied]
 pedagogy: [constructivist, learning-theories]
@@ -85,10 +85,10 @@ Das Aufkommen [[generative-ai|generativer KI]] — einer breiten Familie, die [[
 
 ## Verbundene Artikel
 
-- [[mishra-control-vs-agency-history-2025]] — Control vs. Agency: Exploring the History of AI in Education
-- [[prezenski-human-centered-ai-aided-learning]] — Human-centered AI-aided learning (engages Anderson's legacy)
-- [[cognitive-commons-ai-expertise-regeneration]] — Cognitive commons and AI expertise (historical framing)
-- [[programming-its]] — Programming Intelligent Tutoring Systems
-- [[lak2026-hint-button-unproductive-use]] — Revisiting the hint button in cognitive tutors
-- [[socrates-students-instructors-llms-lbt-2025]] — Learning-by-teaching with LLMs (Papert's constructionism lineage)
+- [[mishra-control-vs-agency-history-2025]] — Kontrolle versus Handlungsfähigkeit: die Geschichte der KI in der Bildung erkunden
+- [[prezenski-human-centered-ai-aided-learning]] — Menschenzentriertes KI-gestütztes Lernen (greift Andersons Erbe auf)
+- [[cognitive-commons-ai-expertise-regeneration]] — Kognitive Commons und KI-Expertise (historische Rahmung)
+- [[programming-its]] — Programmieren intelligenter Tutorensysteme
+- [[lak2026-hint-button-unproductive-use]] — Der Hinweis-Knopf in kognitiven Tutoren erneut betrachtet
+- [[socrates-students-instructors-llms-lbt-2025]] — Lernen durch Lehren mit LLMs (Paperts Konstruktionismus-Linie)
 - [[rismanchian-ai-education-four-decades-aixed-2026]]

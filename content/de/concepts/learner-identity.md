@@ -1,7 +1,7 @@
 ---
 title: Identität der Lernenden
 created: "2026-08-27T08:10:00-04:00"
-updated: "2026-10-10T09:04:25-04:00"
+updated: "2026-10-24T22:09:25-04:00"
 type: concept
 foundations: [agency, learner-identity]
 discipline: [stem education]
@@ -51,7 +51,7 @@ Eine eigene Bedingung der Autorschaft, nicht nur eine Bedrohung der Autorschaft:
 
 - **Kreative Identität:** **[[t2i-competence-paradox-2026|das T2I-Kompetenzparadox]]** erfasst, wie Leichtigkeit der Nutzung die handwerksbasierte Identität von Kunst- und Designstudierenden untergraben kann.
 - **Empfundene Autorschaft kann sich von tatsächlicher Originalität entkoppeln.** Designstudierende, die Websites mit KI bauten, bewerteten ihre Autorschaft hoch (67/100, Zufriedenheit 6.4/7, empfundene Qualität 6.1/7), dennoch verfolgten diese Bewertungen nichts Messbares: ihre Designs waren homogener als ohne KI, und empfundene Autorschaft korrelierte mit gemessener Originalität bei r ≤ +0.13 ([[vibe-coding-design-diversity-2026|Boussioux et al., 2026]]).
-- **Professionelle Identität:** mehrere Studien behandeln den Einfluss von KI auf die **professionelle Identität** — etwa argumentieren **[[lodge-adaptive-capabilities-genai-future-2026|Lodge et al. (2026)]]**, Absolventinnen und Absolventen bräuchten *adaptive Fähigkeiten* ([[ai-literacy|KI-Kompetenz]], [[distributed-cognition|verteilte Kognition]], [[metacognition|Metakognition]]) genau damit sie eine tragfähige professionelle Identität in einer KI-integrierten Zukunft aufrechterhalten können, statt von ihren Werkzeugen definiert — oder wegdefiniert — zu werden.
+- **Professionelle Identität:** mehrere Studien behandeln den Einfluss von KI auf die **professionelle Identität** — etwa argumentieren **[[lodge-adaptive-capabilities-genai-future-2026|Lodge et al. (2026)]]**, Absolventinnen und Absolventen bräuchten *adaptive Fähigkeiten* ([[ai-literacy|KI-Kompetenz]], [[distributed-cognition|verteilte Kognition]], [[metacognition|Metakognition]]) genau damit sie eine tragfähige professionelle Identität in einer KI-integrierten Zukunft aufrechterhalten können, statt von ihren Werkzeugen definiert — oder wegdefiniert — zu werden. Urteile über GenAI können sich nach temporälem Kontext ebenso wie nach Autorschaft aufspalten: Befragte beurteilten KI-Nutzung als unangemessen für das Lernen, aber legitim oder erwartbar in künftiger beruflicher Arbeit — „Als Studierende muss ich lernen, als Professionelle muss ich produzieren“ ([[sun-governing-genai-policy-cross-national-2026|Sun et al. (2026)]]).
 - **Posthumane und hybride Identität:** **[[elsayed-pedagogical-symbiosis-posthuman-learner|Elsayed (2026)]]** theoretisieren den **posthumanen Lernenden**, dessen Kognition echt hybrid und verteilt über [[biology-education|biologische]] und künstliche Systeme ist — eine Neurahmung der Identitätsbildung selbst im Zeitalter kognitiver KI.
 - **Studierenden- und akademische Identität:** **[[zhan-boud-du-authentic-assessment-scoping-review-2025|authentisches Assessment]]**-[[research-methods-aied|Forschung]] verbindet sich mit Identität, weil [[assessment|Assessment]]-Aufgaben, die authentische, persönliche Performanz verlangen, Studierenden helfen, sich selbst als fähige Praktikerinnen und Praktiker zu sehen; **[[paternalistic-filter-llm-history-education|Geschichtsunterricht-Forschung]]** zeigt, wie paternalistische KI-Nutzung prägen kann, wie Studierende ihre Identität als fachliche Forschende konstruieren.
 - **Wie Studierende das Werkzeug rahmen, prägt ihr professionelles Werden.** Studierende, die GenAI allein als sozio-emotionalen Partner rahmten, produzierten weniger differenzierte Reflexionen über ihr professionelles Lernen als jene, die es auch als Technik, Lernmaterial oder Struktur rahmten ([[genai-professionalization-metaphors-2026|Bohmer et al., 2026]]).
@@ -95,17 +95,17 @@ Identität der Lernenden verbindet sich mit [[agency|Handlungsfähigkeit]] (Iden
 - [[k-12]]
 
 ## Verbundene Artikel
-- [[guarded-adoption-genai-higher-education-2026]] — Guarded Adoption of Generative AI in Higher Education
-- [[t2i-competence-paradox-2026]] — The competence paradox: creative identity in text-to-image GenAI use
-- [[shame-guilt-ai-regulation-computing-education]] — Shame and guilt as social regulators of AI use
-- [[lodge-adaptive-capabilities-genai-future-2026]] — Adaptive capabilities for a viable professional identity in a GenAI future
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]] — Pedagogical symbiosis and the post-human learner
-- [[ai-pedagogical-accompaniment-amico]] — AI-enabled pedagogical accompaniment supporting STEM identity
-- [[zhan-boud-du-authentic-assessment-scoping-review-2025]] — Designing for authentic assessment
-- [[paternalistic-filter-llm-history-education]] — Paternalistic AI use and student identity in history education
-- [[laidlaw-genai-identity-crisis-faculty-2026]] — GenAI as identity crisis for faculty (teacher identity)
-- [[teaching-the-teachers-genai-tpk-review-2026]] — TPK-based teacher training and professional identity
-- [[genai-professionalization-metaphors-2026]] — GenAI conceptualizations and student professional identity
+- [[guarded-adoption-genai-higher-education-2026]] — Bewachte Übernahme generativer KI in der Hochschulbildung
+- [[t2i-competence-paradox-2026]] — Das Kompetenzparadox: kreative Identität bei der Nutzung von Text-zu-Bild-GenAI
+- [[shame-guilt-ai-regulation-computing-education]] — Scham und Schuld als soziale Regulatoren der KI-Nutzung
+- [[lodge-adaptive-capabilities-genai-future-2026]] — Adaptive Fähigkeiten für eine tragfähige professionelle Identität in einer GenAI-Zukunft
+- [[elsayed-pedagogical-symbiosis-posthuman-learner]] — Pädagogische Symbiose und der posthumane Lernende
+- [[ai-pedagogical-accompaniment-amico]] — KI-gestützte pädagogische Begleitung, die die STEM-Identität stützt
+- [[zhan-boud-du-authentic-assessment-scoping-review-2025]] — Gestaltung für authentisches Assessment
+- [[paternalistic-filter-llm-history-education]] — Paternalistische KI-Nutzung und Studierendenidentität im Geschichtsunterricht
+- [[laidlaw-genai-identity-crisis-faculty-2026]] — GenAI als Identitätskrise für die Fakultät (Lehrendenidentität)
+- [[teaching-the-teachers-genai-tpk-review-2026]] — TPK-basiertes Lehrkräftetraining und professionelle Identität
+- [[genai-professionalization-metaphors-2026]] — GenAI-Konzeptualisierungen und professionelle Identität der Studierenden
 
-- [[synthetic-position-self-authorship-2026]] — Authorial suspension: delegated authorship as a self densely voiced yet un-authored (conceptual analysis)
-- [[vibe-coding-design-diversity-2026]] — One Tool, One Taste? How Vibe Coding Trades Collective Diversity for Individual Creativity
+- [[synthetic-position-self-authorship-2026]] — Autorschaftsaussetzung: delegierte Autorschaft als ein dicht geäußertes, aber unverfasstes Selbst (konzeptionelle Analyse)
+- [[vibe-coding-design-diversity-2026]] — Ein Werkzeug, ein Geschmack? Wie Vibe Coding kollektive Vielfalt gegen individuelle Kreativität eintauscht

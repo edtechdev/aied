@@ -1,7 +1,7 @@
 ---
 title: Selbstauskunftsmaße
 created: "2026-09-12T11:05:00-04:00"
-updated: "2026-10-10T09:04:24-04:00"
+updated: "2026-10-24T23:32:01-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [self-efficacy, student-engagement]
@@ -14,7 +14,7 @@ connected_faqs: [evaluating-ai-interventions-methods, does-ai-help-students-lear
 confidence: high
 methods: [quantitative-research, research-methods-aied, qualitative-research]
 translation_of: concepts/self-report-measures
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-23T08:03:41-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -48,7 +48,7 @@ Das ist keine Schwäche, für die man sich entschuldigen müsste. Viele interess
 
 ## Was Selbstauskunft etablieren kann und was nicht
 
-Selbstauskunft ist gut geeignet für Haltungen, Überzeugungen, Absichten, Wahrnehmungen eines Werkzeugs, affektive Zustände, und selbst beurteilte Zuversicht oder Schwierigkeit. Sie ist schlecht geeignet für Verhalten, und sie kann Lernen überhaupt nicht messen: der Glaube einer Person, etwas gelernt zu haben, ist selbst eine Wahrnehmung, und die Wissensbasis behandelt wahrgenommenes Lernen als von [[learning-gains|Lernzuwächsen]] verschiedene Größe.
+Selbstauskunft ist gut geeignet für Haltungen, Überzeugungen, Absichten, Wahrnehmungen eines Werkzeugs, affektive Zustände, und selbst beurteilte Zuversicht oder Schwierigkeit. Ein Scoping-Review von 394 GenKI-Hochschulstudien fand, dass Erhebungsskalen die am häufigsten berichtete Bewertungsmethode waren (269 Studien, 68,3%), vor Tests/Quizzes/Rubriken (185, 47,0%) und Artefakt-Analyse (167, 42,4%) ([[mapping-genai-higher-ed-scoping-review|Lin et al. (2026)]]). Sie ist schlecht geeignet für Verhalten, und sie kann Lernen überhaupt nicht messen: der Glaube einer Person, etwas gelernt zu haben, ist selbst eine Wahrnehmung, und die Wissensbasis behandelt wahrgenommenes Lernen als von [[learning-gains|Lernzuwächsen]] verschiedene Größe.
 
 Die Folge ist eine Menge von Behauptungen, die in einem Ergebnisteil ähnlich aussehen, sich in ihrer Stärke aber unterscheiden:
 
@@ -63,11 +63,15 @@ Ein zweites Fehlschlagmuster ist diskriminanter Kollaps zwischen zwei Selbstausk
 
 Ein validiertes Instrument kann jene Grenze präzise statt vage machen. Der AI Literacy Self-Assessment Questionnaire (AIL-SAQ) von [[ai-literacy-self-assessment-questionnaire-primary-2025|Thianwan und Srikoon (2025)]] ist eine 15-Item-Skala, bestätigt mit einer stabilen Dreifaktorenstruktur über zwei Stichproben (n = 335 explorativ, n = 579 konfirmatorisch) und einem Gesamt-Cronbachs-Alpha von .934. Ihre Autoren sind ausdrücklich, dass sie wahrgenommenes Verständnis, Haltungen und Bewusstsein festhält statt demonstrierte Fähigkeit, und dass Selbstbewertungsgenauigkeit von metakognitiver Fähigkeit abhängt, die bei Kindern noch reift, sodass die Selbsteinschätzung eines Kindes ein schwächeres Signal ist als die eines Erwachsenen.
 
-Die entgegengesetzte Wahl ist ebenfalls vertretbar: PAUSE ist ein vierdomäniger Selbstcheck zum Auslagern, der keine Verlässlichkeits- oder Validitätsevidenz veröffentlicht, kein Kompositum anbietet und feststellt, dass Messwerte keine konsequente Entscheidung rechtfertigen dürfen, und dessen Items absichtliches Scaffolding mit Substitution vermengen — eine antwortende Person, die KI früh zur Stützung einbringt, liest sich als Auslagern ([[pause-ai-cognitive-offloading-self-reflection-2026|Alam, 2026)]]).
+Die entgegengesetzte Wahl ist ebenfalls vertretbar: PAUSE ist ein vierdomäniger Selbstcheck zum Auslagern, der keine Verlässlichkeits- oder Validitätsevidenz veröffentlicht, kein Kompositum anbietet und feststellt, dass Messwerte keine konsequente Entscheidung rechtfertigen dürfen, und dessen Items absichtliches Scaffolding mit Substitution vermengen — eine antwortende Person, die KI früh zur Stützung einbringt, liest sich als Auslagern ([[pause-ai-cognitive-offloading-self-reflection-2026|Alam, 2026]]).
 
 ## Die Wahrnehmungs-Verhaltens-Lücke
 
 Der stärkste Selbstauskunftsbefund in dieser Wissensbasis ist nicht, dass Selbstauskunft allgemein verzerrt ist, sondern dass berichtetes und beobachtetes Verhalten auf spezifische, dokumentierte Weisen divergieren.
+
+Aus Selbstauskunft abgeleitete Profile verhalten sich gleich. [[najem-behavioral-clustering-adaptive-learning-recommendation-2026|Najem et al. (2026)]] clusterten 14.003 Studierendenakten auf selbst berichteten verhaltens- und psychologiebasierten Stellvertretern statt LMS-Interaktionsspuren, und die sechs resultierenden Profile trennten sich scharf an der Abschlussnote (η² = 0,770) — eine Trennung, vor der die Autorinnen und Autoren warnen, teilweise nur eine Neufassung dessen sei, was Studierende berichtet haben.
+
+Verhaltensspuren können Lernende trennen, die eine Selbstauskunftsskala nicht kann: [[cognitive-offloading-llm-synthesis-writing|Poquet et al. (2026)]] fanden, dass selbst berichtete kognitive Last sich nicht signifikant über Auslagerungsprofile hinweg unterschied, die von 80% bis 2% an Aufsatzautorenschaft reichten, während die stärksten Auslagerer dennoch die höchste geistige Anstrengung berichteten.
 
 [[ai-literacy-assessment-misalignment|Eine Studie, die parallele Selbstauskunfts- und objektive Maße der KI-Kompetenz von Lehrkräften baute]] fand **schwache Übereinstimmung zwischen dem Selbstauskunfts- und den objektiven Faktoren (r = 0.07 bis r = 0.24)** in einer Stichprobe von 288 Lehrkräften, wobei konfirmatorische Faktorenanalyse die Konstruktvalidität beider Maße stützte und dabei eine **niedrige Korrelation zwischen dem Selbstauskunfts- und den objektiven Faktoren** zeigte. Die beiden Instrumente waren glaubwürdig; sie maßen schlicht verschiedene Dinge. In der vollen Stichprobe von 288 Lehrkräften liefen die Korrelationen zwischen den objektiven und den selbst berichteten Faktoren von r = 0.07 bis r = 0.24, und latente Profilanalyse fand 43 Lehrkräfte, die sich selbst hoch bewerteten, während sie im objektiven Maß niedriger abschnitten, gegenüber 59, die das umgekehrte Muster zeigten.
 
@@ -79,9 +83,13 @@ Manchmal werden Fragen und Beobachten direkt gegeneinander aufgestellt. [[studen
 
 Ein strukturierter Review von 2026 und eine explorative [[meta-analysis-systematic-review|Metaanalyse]] von Maßen für kompetenten Umgang mit [[generative-ai|generativer KI]] legen aus der anderen Richtung eine gepoolte Zahl auf jene Lücke: das Poolen dreier direkt berichteter Korrelationen zwischen subjektiven und objektiven Maßen in derselben Stichprobe (kombiniert berichtetes N = 2,765) ergab r = .055 (Hartung–Knapp 95%-KI [−.047, .156]), und das Hinzufügen der Kreuzfaktorkorrelationen einer vierten Studie erreichte nur r = .079. Alle drei primären Effekte stammten aus einem einzigen Forschungsprogramm, die berichtete Korrelation und der p-Wert des größten Beitragenden konnten nicht in Einklang gebracht werden, und der Review schließt, dass Selbstauskunft nicht für objektive Leistungs-Scores einspringen kann —, während er vermerkt, dass die Leistungsinstrumente selbst eng sind und Grundlagenwissen abdecken statt jener Aufsichts- und Vertrauensverhaltensweisen, die bei der Arbeit zählen ([[competent-generative-ai-use-measures-review-2026|Verí (2026)]]).
 
+Ein zweistufiger systematischer Review setzt eine Quote auf jene Divergenz auf der Ebene von Schlussfolgerungen: von 51 Konstruktgleichen-Paaren aus 47 Berichten stimmten 30 überein, 11 widersprachen und 10 waren gemischt. Der Widerspruch lief in beide Richtungen: fünf Kontraste paarten ein null Selbstauskunftsergebnis mit einem positiven Leistungsergebnis, gegen zwei umgekehrt ([[same-construct-same-conclusion-self-report-vs-performance-2026|Fan et al. (2026)]]).
+
 Die Instrumentenliteratur selbst kann als Evidenz für das Ausmaß der Lücke gelesen werden. [[assessing-teachers-ai-literacy-measurement-tools-2026|Zainal, Mohd Matore und Maat (2026)]] begutachteten 33 Instrumente für KI-Kompetenz von Lehrkräften und fanden, dass 31 (93.9%) Selbstauskunftsskalen wahrgenommener Zuversicht waren, nur zwei (6.1%) Wissen objektiv testeten, und keine leistungsbasierte Aufgaben nutzten zwischen 2019 und 2025. Ihre Schlussfolgerung ist jene, zu der diese Seite aus anderen Richtungen immer wieder gelangt: Selbstauskunftsscores indizieren Zuversicht statt Fähigkeit, daher können sie nicht für Kompetenz einspringen, wenn Gruppen oder Programme verglichen werden.
 
 Ergebnismaße erben dieselbe Lücke. [[pramod-agentic-ai-motivational-pathways-2026|Pramod und Patil (2026)]] modellieren den Pfad von [[agentic-ai|agentischer KI]] über Motivation und soziale Präsenz zu dem, was sie als Lernleistung bezeichnen, mit einem Koeffizienten von 0.671 — der stärksten Beziehung in der Studie —, und ihr eigener Grenzen-Abschnitt stellt fest, dass diese abhängige Variable die Wahrnehmungen der Lernenden widerspiegelt und nicht Prüfungsergebnisse, Aufgabenleistung oder Learning Analytics. Das ist das Muster, das man in Pfadmodellen allgemein sorgfältig lesen sollte: ein großer Koeffizient auf einem wahrgenommenen Ergebnis quantifiziert, wie konsistent Lernende glauben, etwas habe geholfen, und sagt noch nichts darüber, ob es das getan hat.
+
+Absicht ist der schärfste Fall jener Lücke, weil ein Absichtsscore gegensätzliche Verhaltensweisen abdecken kann. Unter erneuter Verabreichung von Items an 68 der 340 Studierenden und Befragung von acht fanden [[high-school-genai-acceptance-tam-physics-2026|Xue, Xu, Qi & Lu (2026)]], dass dieselbe erklärte Absicht lernorientierte, abkürzungsorientierte und gemischte Nutzung abdeckte —, wobei die Abkürzungsnutzenden geringes Vertrauen statt Desinteresse nannten.
 
 ## Zufriedenheit und wahrgenommenes Lernen als Ergebnisse
 
@@ -116,6 +124,8 @@ Weil Befragungen günstig zu erheben sind, scheitert die Generalisierbarkeitsbeh
 Selbstselektion verstärkt dies. [[chatgpt-inoculation-training-verification-2026|Eine Inokulationsstudie]] rekrutierte 782 Teilnehmende und behielt 100 gültige Fälle aus einer Gelegenheitsstichprobe selbst berichteter ChatGPT-Nutzender; [[genai-assisted-problem-posing-physics-2026|eine Physikstudie]] ließ Lernende in eine Extra-Credit-Aufgabe selbstselektieren, was Ansichten plausibel zu den Entgegenkommenden hin verzerrt und Skeptikerinnen und Skeptiker ausschließt.
 
 Zwei weitere, spezifisch an Selbstauskunft hängende Fehler kehren wieder. **Grenzen der Introspektion und Bias sozialer Erwünschtheit** werden als intrinsisch für Selbstauskunft benannt in [[engagement-assessment-video|Arbeit zu Engagement-Assessment]] und in [[ccct-cooperative-learning-technique|Studien, deren qualitative Daten auf Selbstauskunft bauen]]. **Varianz gemeinsamer Methode** entsteht, wenn Prädiktoren und Ergebnisse von denselben Antwortenden zur selben Zeit kommen: [[ai-use-critical-thinking-medical-students-2026|eine Studie zu moderierter Mediation von KI-Nutzung und kritischem Denken]] operationalisierte Nutzung, kognitive Last und [[self-regulated-learning|selbstreguliertes Lernen]] alle über standardisierte Selbstauskunftsinstrumente zu einem einzigen Zeitpunkt und nennt Common-Method-Bias als Folge; [[genai-motivation-engagement-2026|eine PLS-SEM-Studie zu Motivation und Engagement]] ruht ebenfalls gänzlich auf Selbstauskunft und kann unter ihren Mediatoren keine zeitliche Ordnung etablieren.
+
+Der Administrationmodus ist eine zweite Bedrohung, die der Korpus noch nicht gezählt hat. [[voice-based-ai-feedback-interviews-higher-ed-2026|Tamme, Schilling & Hantel (2026)]] schlagen vor, schriftliche Kursbefragungen durch KI-geführte Telefoninterviews zu ersetzen, und tragen Moduswirkungs-Evidenz zusammen, die in beide Richtungen schneidet: Sprachantworten laufen länger und decken mehr Themen ab, während ein randomisierter Vergleich von 634 Antwortenden fand, dass Textantworten differenzierter und offener waren.
 
 ## Abhilfe: nicht-selbstauskunftliche Evidenz hinzufügen
 
@@ -155,26 +165,30 @@ Die konstruktiven Antworten der Wissensbasis sind konsistent, und keine erforder
 - [[learning-analytics]]
 
 ## Verbundene Artikel
+- [[high-school-genai-acceptance-tam-physics-2026]] — Ein Absichtsscore, zwei gegensätzliche Verwendungen
+- [[voice-based-ai-feedback-interviews-higher-ed-2026]] — Der Administrationmodus, den ein Selbstauskunftsinstrument nutzt, verändert, was es misst
 
-- [[capability-decision-model-teacher-readiness-2026]] — Discriminant-validity criteria for separating self-reported AI capability from efficacy beliefs
+- [[capability-decision-model-teacher-readiness-2026]] — Kriterien diskriminanter Validität zur Trennung selbst berichteter KI-Fähigkeit von Wirksamkeitsüberzeugungen
 
-- [[pramod-agentic-ai-motivational-pathways-2026]] — Engagement predicts perceived rather than measured performance in an agentic AI path model (Pramod & Patil 2026)
-- [[ai-literacy-assessment-misalignment]] — Parallel self-report and objective measures of teacher AI literacy
-- [[jin-glat-genai-literacy-assessment]] — GLAT: a performance-based alternative to self-report
-- [[genai-student-experiences-uk-he-survey-2026]] — Student GenAI use surveyed across UK institutions
-- [[student-llm-interaction-taxonomy-review-2026]] — Taxonomies shaped by whether data came from self-report or logs
-- [[tracing-genai-literacy-interaction-patterns]] — Process data characterizing GenAI literacy
-- [[engagement-intensity-learner-modeling]] — Self-reported usage as a learner-modeling signal
-- [[predicting-attrition-competitive-programming]] — Self-reported confidence versus practice behavior
-- [[ai-use-critical-thinking-medical-students-2026]] — Common-method bias in a single-source mediation model
-- [[genai-motivation-engagement-2026]] — Self-report-only PLS-SEM of motivation and engagement
-- [[fouad-bentley-trust-utility-gap-physics-2026]] — Survey of 81 physics undergraduates on AI use and trust
-- [[hawkins-feedback-literacy-ai-essay-writing]] — Screen recording and stimulated recall as a self-report remedy
-- [[mejeh-fromm-srl-adaptive-learning-feedback-2026]] — Self-report plus trace data on self-regulated learning
-- [[adaptive-pretesting-retention]] — Behavioral effort indicators derived from logs
-- [[ai-vocational-education-training-review]] — Review reporting the self-report/objective-measure imbalance
+- [[pramod-agentic-ai-motivational-pathways-2026]] — Engagement sagt wahrgenommene statt gemessene Leistung in einem Pfadmodell agentischer KI vorher (Pramod & Patil 2026)
+- [[ai-literacy-assessment-misalignment]] — Parallele Selbstauskunfts- und objektive Maße der KI-Kompetenz von Lehrkräften
+- [[jin-glat-genai-literacy-assessment]] — GLAT: eine leistungsbasierte Alternative zur Selbstauskunft
+- [[genai-student-experiences-uk-he-survey-2026]] — GenKI-Nutzung von Studierenden über britische Einrichtungen hinweg befragt
+- [[student-llm-interaction-taxonomy-review-2026]] — Taxonomien, geprägt danach, ob die Daten aus Selbstauskunft oder Logs stammten
+- [[tracing-genai-literacy-interaction-patterns]] — Prozessdaten, die GenKI-Kompetenz charakterisieren
+- [[engagement-intensity-learner-modeling]] — Selbst berichtete Nutzung als Signal für die Lernendenmodellierung
+- [[predicting-attrition-competitive-programming]] — Selbst berichtetes Vertrauen gegenüber Übungsverhalten
+- [[ai-use-critical-thinking-medical-students-2026]] — Common-Method-Bias in einem Single-Source-Mediationsmodell
+- [[genai-motivation-engagement-2026]] — Rein auf Selbstauskunft beruhendes PLS-SEM zu Motivation und Engagement
+- [[fouad-bentley-trust-utility-gap-physics-2026]] — Befragung von 81 Physik-Studierenden zu KI-Nutzung und Vertrauen
+- [[hawkins-feedback-literacy-ai-essay-writing]] — Bildschirmaufzeichnung und stimulierte Erinnerung als Abhilfe gegen Selbstauskunfts-Lücken
+- [[mejeh-fromm-srl-adaptive-learning-feedback-2026]] — Selbstauskunft plus Spurdaten zum selbstregulierten Lernen
+- [[adaptive-pretesting-retention]] — Aus Logs abgeleitete Verhaltensindikatoren für Anstrengung
+- [[ai-vocational-education-training-review]] — Review, das das Ungleichgewicht von Selbstauskunft und objektiven Maßen berichtet
 - [[student-genai-use-views-writing|Nutzung von und Ansichten zu GenAI für das Schreiben durch Studierende]] — Befragung plus Interviews in einem soziologischen Fachbereich
-- [[competent-generative-ai-use-measures-review-2026]] — Beyond AI Literacy: A Structured Review and Exploratory Meta-Analysis of Measures for Competent Generative-AI Use
-- [[pause-ai-cognitive-offloading-self-reflection-2026]] — PAUSE: A Privacy-Preserving Self-Reflection Tool for AI-Associated Cognitive Offloading
-- [[ai-literacy-self-assessment-questionnaire-primary-2025]] — A 15-item self-assessment instrument for upper-primary students, explicit about what perceived competence can establish
-- [[assessing-teachers-ai-literacy-measurement-tools-2026]] — Review finding 31 of 33 teacher AI literacy instruments self-report and none performance-based
+- [[competent-generative-ai-use-measures-review-2026]] — Jenseits von KI-Kompetenz: ein strukturiertes Review und eine explorative Metaanalyse der Maße für kompetenten Umgang mit generativer KI
+- [[pause-ai-cognitive-offloading-self-reflection-2026]] — PAUSE: ein datenschutzwahrendes Selbstreflexionswerkzeug für KI-bedingte kognitive Auslagerung
+- [[ai-literacy-self-assessment-questionnaire-primary-2025]] — Ein 15-Item-Selbstbeurteilungsinstrument für Studierende der oberen Primarstufe, ausdrücklich dazu, was wahrgenommene Kompetenz etablieren kann
+- [[assessing-teachers-ai-literacy-measurement-tools-2026]] — Review, das fand, dass 31 von 33 Instrumenten zur KI-Kompetenz von Lehrkräften Selbstauskunft sind und keines leistungsbasiert
+- [[najem-behavioral-clustering-adaptive-learning-recommendation-2026]] — Aus Selbstauskunft abgeleitete Profile verhalten sich gleich
+- [[same-construct-same-conclusion-self-report-vs-performance-2026]] — Zweistufiger Review, der eine Quote auf die Widersprüchlichkeit von Selbstauskunft und Leistung bei Konstruktgleichen setzt (Fan et al. 2026)

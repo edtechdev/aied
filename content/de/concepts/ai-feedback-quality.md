@@ -1,7 +1,7 @@
 ---
 title: Qualität von KI-Feedback
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-10T09:04:24-04:00"
+updated: "2026-10-24T20:27:31-04:00"
 connected_faqs: [ai-save-instructor-time, ai-feedback-at-scale, checking-whether-educational-ai-works]
 type: concept
 foundations: [ai-literacy]
@@ -9,7 +9,7 @@ technology: [generative-ai]
 assessment: [ai-feedback-quality, automated-assessment, feedback, formative-assessment]
 confidence: high
 translation_of: concepts/ai-feedback-quality
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-24T08:53:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -22,6 +22,7 @@ ai_assist:
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
 
 > **Qualität von KI-Feedback** — die Genauigkeit, Nützlichkeit, Rechtzeitigkeit und [[pedagogy|pädagogische]] Wirkung von Feedback, das KI-Systeme für Lernende erzeugen. Da KI-generiertes Feedback in der Bildung allgegenwärtig wird, ist es entscheidend zu verstehen, was Feedback wirksam macht — und wo es versagt —, damit KI das Lernen unterstützt statt zu untergraben.
+
 
 ## Fragen zum Nachdenken
 
@@ -53,6 +54,8 @@ Ein kontrollierter Vergleich isoliert die Feedbackkomponente vom adaptiven Syste
 - **Automatisiertes Bewertungsfeedback:** [[automated-assessment|Automatische Bewertung]] und [[formative-assessment|formativen Prüfungsverfahren]]-Forschung untersucht, ob KI-bewertete [[assessment|Prüfungen]] Feedback liefern, das der menschlichen Bewertungsqualität entspricht oder sie übertrifft.
 - **Feedback bei der Aufsatzbewertung:** [[cong-confidence-asag-2026|Confidence-Aware ASAG]] und [[choi-anchor-aes-prompting-2025|ankerbasierte AES]] untersuchen, wie Konfidenzkalibrierung und [[prompt-engineering|Prompting]]-Gestaltung die Feedbackqualität bei der Schreibbewertung beeinflussen.
 - **Evidenzbeschränktes, risikoadaptives Feedback:** [[risk-adaptive-genai-feedback-programming-2026|Wang (2026)]] trennt drei Funktionen, die die Feedbackforschung üblicherweise gemeinsam bewertet — vorherzusagen, welcher Fehlerzustand fortbesteht, zu entscheiden, wann begrenzte Unterstützungskapazität eingesetzt werden sollte, und Feedback zu erzeugen, dessen Behauptungen innerhalb der dokumentierten Evidenz bleiben. Über 2993 Fehlereinreichungs-Zustände von 215 Studierenden wählte ein kalibriertes Risikomodell 17.8% der geeigneten Testzustände aus und erfasste 25.2% der beobachteten fortbestehenden Fehler; nach einem standardisierten Reparaturdurchgang trugen 519 von 544 erzeugten Nachrichten alle erforderlichen Komponenten. Timing und Fundierung gesellen sich damit zur sprachlichen Qualität und Auffindbarkeit als Dimensionen, nach denen ein Feedbacksystem beurteilt werden muss.
+
+**Feedback dominiert die Praxis, doch selten ist seine Qualität das Ergebnis.** Feedback und Tutoring waren die am häufigsten berichteten umgesetzten Nutzungsformen über 394 GenAI-Hochschulbildungsstudien hinweg, doch die Feedbackqualität gehörte zu den am seltensten angestrebten Ergebnissen ([[mapping-genai-higher-ed-scoping-review|Lin et al. (2026)]]).
 - **Ermessensabhängige Feedbackbereitstellung:** [[ai-assistance-discretionary-feedback|Forschung zu KI-unterstütztem Feedback in der Hochschulbildung]] untersucht, ob KI die Menge und Qualität des Feedbacks erhöht, das Lehrkräfte geben.
 - **Die relationale Schicht widersetzt sich der Delegation:** Über 21 Lehrkräfte der Hochschulbildung, die ein KI-Feedbackwerkzeug nutzten, schrieben 12 den Text des Modells um; die Überarbeitungen häuften sich bei Ton und Ermutigung (Student–Teacher Relationship f = 24), und die erfahreneren Lehrkräfte markierten Bearbeitungsaufwand, Vertrauen und Desinformationsrisiko, während Novizen sich dem Werkzeug fügten ([[learner-centered-feedback-ai|Aldino et al. (2026)]]).
 - **Zuverlässige Bereitstellung, nicht inhärente Überlegenheit, ist KI-Vorteil:** [[gpt4-feedback-student-activation-2026|Geschwind et al. (2026)]] fanden in einem semesterlangen Feldexperiment, dass GPT-4-Feedback [[peer-assessment|Peer-Feedback]] besiegte, weil es *konsistent* geliefert wurde — nahezu alle Befragten mit KI-Feedback (369/398) erhielten textuelles plus numerisches Feedback, während weniger als zwei Drittel der Studierenden mit Peer-Feedback keines erhielten, und viel Peer-Feedback war unspezifisches Lob. Wenn hochwertiges textuelles Peer-Feedback *tatsächlich* ankam, entsprachen die Peer-Ergebnisse denen der KI — der Vorteil der KI liegt also in der Zuverlässigkeit, nicht in der Qualität am Rand. Studierende bewerteten Peer-Feedback zudem leicht höher bei wahrgenommener Validität und Emotionalität (geringe [[trust|Algorithmus-Aversion]]), aktivierten und lernten aber dennoch mehr mit der KI, was zeigt, dass wahrgenommene Qualität und Verhaltensergebnisse auseinandergehen können.
@@ -60,6 +63,7 @@ Ein kontrollierter Vergleich isoliert die Feedbackkomponente vom adaptiven Syste
 - **Der Vorteil kann von einem durchgearbeiteten Beispiel kommen, nicht von korrigierendem Feedback.** Das Üben von Anschreiben mit KI schlug Feedback von erfahrenen menschlichen Lektorierenden bei einer späteren Aufgabe ohne Hilfsmittel (d = .20), und bereits das Betrachten eines KI-überarbeiteten Anschreibens entsprach dem Üben mit dem Werkzeug, sodass der Zuwachs am Beispiel hing ([[coach-not-crutch-ai-writing|Lira et al. (2025)]]).
 - **Quellenmarkierung versus Feedbackqualität:** [[perceptions-teacher-vs-ai-feedback-bias-2026|Mertens et al. (2026)]] trennen die *Quelle* des Feedbacks von seiner Qualität, indem sie den Inhalt konstant halten — 401 Lehrkräfte bewerteten Feedbacknachrichten, die alle mit GPT-4-turbo erzeugt, aber zufällig als von einer Lehrkraft oder von [[generative-ai|ChatGPT]] generiert markiert waren, und allein die Markierung verschob Glaubwürdigkeit (b = 0.21), Nützlichkeit (b = 0.47) und Fairness (b = 0.48, alle p < .001), wobei 73% die als Lehrkraft markierte Nachricht bevorzugten, t(400) = 15.55, d = 0.78. Anbieterbezogene Items bewegten sich am weitesten — wahrgenommener Aufwand (b = 1.34) und Bereitschaft zum Vertrauen (b = 1.45) — und eine schriftliche Erklärung, wie ChatGPT funktioniert, änderte nichts (Interaktion ps ≥ .399), was auf [[trust]], [[teacher-role|berufliche Identität]] und [[bias-mitigation|Eigengruppen-Bias]] bei den Bewertenden verweist statt auf einen Mangel im Feedback selbst. Wahrgenommene Qualität kann also durch die Herkunft abgewertet werden, selbst wenn der Inhalt identisch ist, was bedeutet, dass ein tatsächlich gutes Werkzeug dennoch am Punkt der Nutzung scheitern kann.
 - **Quellenmarkierung versus Feedbackqualität, auf Studierendenseite:** [[nazaretsky-feedback-source-bias-2025|Nazaretsky et al. (2025)]] führten das studierendenseitige Gegenstück durch, bei dem 472 EPFL-Studierende über sechs Kurse hinweg Feedback auf ihre eigenen Arbeiten blind gegenüber der Quelle und nach Offenlegung erneut bewerteten, und die meisten konnten die beiden Varianten nicht auseinanderhalten (287 von 472 rieten richtig). Die Bewertungen bewegten sich dann in entgegengesetzte Richtungen — signifikant bei Genuineness (p < .01) —, wobei menschliche Anbietende als glaubwürdiger bewertet wurden (μ = 3.28, σ = 0.77) als KI (μ = 2.25, σ = 0.85, Cohen's d = 0.57). Die Fehlzususchreibung lief meist in eine Richtung: Von 219 Fällen gering bewerteten menschlichen Feedbacks wurden 205 als KI gelesen, sodass wahrgenommene Qualität und wahrgenommene Identität einander in beide Richtungen formen, statt dass die Markierung bloß identischen Text abwertet.
+- Glaubwürdigkeit lässt sich nicht auf Qualität reduzieren: [[chatgpt-feedback-credibility-perceived-learning|Pérez-López et al. (2026)]] fanden, dass die wahrgenommene Kompetenz der Studierenden mit ChatGPT und ihr Eindruck ihrer menschenähnlichen Empathie die Glaubwürdigkeit seines Feedbacks vorhersagten, während wahrgenommene Wärme nur über diese Empathie wirkte.
 - **Feedbackkompetenz als Grenze auf der Aufnahmeseite:** [[liu-deris-ai-feedback-literacy-uptake|Liu & Deris (2025)]] validieren eine Skala für **AI Feedback Literacy (AIFL)** (16 Items, Faktoren Attitudes/Practices), die die tatsächliche Aufnahme von KI-Feedback durch Studierende vorhersagt, und [[mendoza-ai-feedback-feedback-literacy-srl|Mendoza et al. (2026)]] zeigen, dass [[feedback-literacy|Feedbackkompetenz]] moderiert, ob KI-Feedback [[self-regulated-learning|selbstreguliertes Lernen]] verbessert — hohe Kompetenz bringt Nutzen, geringe Kompetenz minimale oder sogar negative Effekte. Feedbackqualität und Feedbackkompetenz sind zwei Seiten eines Systems: Selbst hochwertiges KI-Feedback bleibt ohne kompetente Empfängerseite wirkungslos.
 - **Feedbackqualität bestimmt die Überarbeitungstiefe:** [[rethinking-ai-writing-feedback-literacy|Feedbackkompetenz-Skripte]] und [[feedback-literacy-scripts-eap-writing|Zweitbewertungs-Mechanismen]] zeigen, dass [[scaffolding|Gerüstbildung]] für den Umgang mit KI-Feedback die Überarbeitung hin zu Verbesserungen auf Argumentationsebene verschiebt statt zu oberflächlichen Korrekturen — Feedback, das tiefere Überarbeitung fördert, ist hochwertigeres Feedback. Was Studierende mit Kommentaren *tun*, hängt auch von deren Art ab, nicht nur von deren Anzahl. In einem achtwöchigen Vergleich beim L2-Schreiben lieferte die breitere, sich selbst anpassende Fehlerkorrektur der Lehrkraft den größeren Zuwachs bei der ersten Aufgabe, fiel aber bei der zweiten Aufgabe um etwa ein Drittel, sobald die Arbeit strukturelle Durchbrüche verlangte, während der schmalere, aber stetigere Fokus von [[peer-assessment|KI-unterstütztem Peer-Feedback]] seine Verbesserung hielt und den Überarbeitungsmittelwert der Lehrkraftklasse bei der zweiten Aufgabe knapp übertraf — eine Differenz zwischen den Gruppen, die die Autoren als nicht statistisch signifikant berichten. Die Autoren lesen autoritative, fehlerreiche Korrektur als Ermutigung zu passiver, fehlervermeidender Überarbeitung und behandeln die beiden Modi als komplementäre [[scaffolding|heterogene Gerüste]] statt als Substitute ([[teacher-vs-ai-peer-feedback-l2-writing-2026|Tang, Li & Luo, 2026]]); keiner der Modi bewegte die syntaktische Komplexität, sodass die Feedbackqualität auch durch die Fähigkeitsschicht begrenzt ist, auf die sie wirken kann.
 - **Sycophancy als Feedbackversagen:** [[ai-sycophancy|Blasserfüllendes]] (sycophantisches) Feedback verwechselt Unterstützung mit Zustimmung — eine KI, die die Antwort der oder des Studierenden bestätigt, statt sie infrage zu stellen, untergräbt die korrigierende Funktion des Feedbacks und mindert die Qualität, selbst wenn sie sich bestätigend anfühlt. [[eduframetrap-llm-sycophancy-educational-safety|EduFrameTrap]] zeigt, dass [[intelligent-tutoring|Tutoren]] unter sozialem Druck korrigierendes Feedback zurückhalten, und [[contextual-sycophancy-ai-literacy|kontextuelle Sycophancy]] pflanzt Fehler in nachfolgende Ratschläge fort; wirksames Feedback muss die lernende Person manchmal herausfordern.
@@ -88,10 +92,16 @@ Die Qualität von KI-Feedback umspannt mehrere in der Wissensdatenbank erfasste 
 - **Prüferbewertete Freigabekriterien.** LearnLens bewertet erzeugtes Feedback nach wissenschaftlicher Korrektheit, Klarheit und Spezifität und durchläuft eine Prüf- und Überarbeitungsschleife, bis jedes Kriterium eine Schwelle überschreitet, wobei ein vom Generator *getrenntes* Basismodell verwendet wird, um Modellfamilien-Bias zu vermeiden; seine Bewertung lag beim MSE (3.190) 8–13% unter jeder Baseline ([[zhao-learnlens-feedback-educators-loop|Zhao et al. (2025)]]).
 - **Verständlichkeit in der eigenen Sprache der lernenden Person.** Feedback schließt eine Lücke nur, wenn die lernende Person der Erklärung folgen kann, nicht bloß der Markierung. Der Kwara-STEM AI Tutor, ein auf nationalen Curricula der technischen Bildung feinabgestimmtes lokales Modell, stieß Studierende an, statt Antworten zu übergeben, und lieferte eine „Clarify“-Funktion, die komplexe Fachbegriffe ins Yoruba oder Nupe übersetzte, sodass Echtzeitkorrektur im eigenen Sprachkontext der lernenden Person ankam. Erklärung in der eigenen Sprache ist eine Bedingung für die Nützlichkeit synchronen Feedbacks, kein dekorativer Zusatz ([[real-time-ai-feedback-technical-skills-2026|Muritala, Ahmed & Olumorin, 2026]]).
 - **Abdeckung ist nicht Ausrichtung.** Sechs LLMs unter drei Prompting-Strategien erzeugten jeweils die meisten der sieben Feedback-Fokusarten, doch ihre Verteilung über diese Arten wich von der der Lehrkräfte ab (beste Jensen-Shannon-Divergenz 0.134, schlechteste 0.270), sodass Breite der Abdeckung und Verteilungsanpassung getrennte Qualitätssignale sind ([[llm-feedback-focus-adaptivity-student-writing-2026|Almousa et al., 2026]]).
+- **Die Abdeckung auf Feldebene ist ungleichmäßig.** Eine Synthese von 68 Studien zu KI-generiertem Feedback findet, dass die Evidenz sich auf die Frage clustert, ob Feedback korrekt und fundiert ist (47 Studien) und ob es die lernende Person unterstützt (58), während Rasternähe und Aufgabenausrichtung — ob das Feedback auf die Anforderungen der Aufgabe selbst eingeht — nur in 19 Studien erscheint ([[evidence-grounded-framework-ai-generated-educational-feedback-2026|Yang (2026)]]).
+- **Bewertungen auf Kriteriumsebene divergieren innerhalb eines Nachrichtensets.** Sechs Bewertende, die 157 Nachrichten bewerteten, bewerteten Übungsaufgaben am stärksten (95,5%), während diagnostische Spezifität (41,1%) sowie Klarheit und Ton (33,4%) zurückblieben, und Lehrkräfte bewerteten Umsetzbarkeit großzügiger als andere Bewertende (84,5% gegenüber 59,9%) ([[llm-feedback-handwritten-mathematics-exam-performance-2026|Vanhoyweghen et al. (2026)]]).
+- **Die Leserseite derselben Dimensionen.** Vierundzwanzig Professoreninnen und Professoren des Hochschul-Schreibens beschrieben Ausgaben als kompliziert, überlang, vage oder unpraktisch, und zwei fanden, dass sie Stärken lobten, es sei denn, man sagte ihnen zuvor, nach Schwächen zu suchen ([[wu-lam-genai-writing-assessment-professors-2026|Wu and Lam (2026)]]). Sieben sagten, das Erreichen akzeptablen Feedbacks habe wiederholtes Prompting erfordert, was die Zeit ausgibt, die der Arbeitsvorteil hätte einbringen sollen.
+- **Länge sagte jede andere gemessene Eigenschaft der Nachricht vorher.** Über drei Einsätze eines LLM-Hinweissystems in einem laufenden Programmierkurs hinweg sagte jede Standardabweichung von 204,9 Zeichen niedrigere Korrektheit der nächsten Einreichung (−0,733), mehr verbleibende Versuche (0,187) und längere Wartezeit vor der erneuten Einreichung (0,226) vorher, während der Flesch-Kincaid-Grad für die ersten beiden unsicher war ([[mihaylova-llm-feedback-live-programming-course-2026|Mihaylova et al., 2026]]). Auch das Format spielte eine Rolle, aber als Trade-off: diagnostische Hinweise erzeugten häufiger korrekte nächste Einreichungen und weniger Versuche, und langsamere erneute Einreichung.
 
 ### Verbindung zu breiteren Konzepten
 
 Die Qualität von KI-Feedback verbindet sich grundlegend mit [[formative-assessment]] und [[feedback|Feedback Loop]] — qualitätsvolles Feedback schließt die Lücke zwischen aktuellem und angestrebtem Leistungsstand. Sie überschneidet sich mit [[automated-assessment|Automatische Bewertung]] (die die Bewertungen erzeugt, auf denen Feedback beruht), [[ai-literacy]] (Studierende müssen Feedbackqualität kritisch bewerten) und [[cognitive-offloading|Auslagerung]] (unkritische Annahme von KI-Feedback kann Lernen verdrängen). Für [[writing-education]] ist die Feedbackqualität besonders folgenreich, angesichts der wachsenden Rolle von KI in der Schreibbewertung.
+
+Der Korpus hinter jenen Qualitätsbehauptungen ist dünner, als die Behauptungen vermuten lassen. Über 51 Studien zu GenAI-schriftlichem Feedback im Zweitsprachenschreiben hinweg verwendeten 16 experimentelle Designs keine Kontrollgruppe und nur 27 berichteten die Prompts, die sie nutzten — sodass zwei von fünf Ergebnissen nicht reproduziert oder auf der Variable verglichen werden können, die die Ausgabe am meisten formt ([[genai-l2-written-feedback-scoping-review-2026|Crosthwaite & Sun (2026)]]). Qualitätsevidenz in dieser Literatur akkumuliert sich daher langsamer, als ihr Volumen vermuten lässt.
 
 ## Verbundene Konzepte
 
@@ -112,40 +122,46 @@ Die Qualität von KI-Feedback verbindet sich grundlegend mit [[formative-assessm
 - [[trust-calibration]]
 
 ## Verbundene Artikel
+- [[mihaylova-llm-feedback-live-programming-course-2026]] — Längere LLM-Hinweise sagten schlechtere unmittelbare Ergebnisse vorher; das Format tauschte weniger Versuche gegen langsamere erneute Einreichung ein
+- [[wu-lam-genai-writing-assessment-professors-2026]] — Professoren:innen über die Qualität von KI-Feedback: standardmäßig schmeichelnd, lang, vage und langsam zu verfeinern
+- [[genai-l2-written-feedback-scoping-review-2026]] — Nur 27 von 51 Studien berichteten ihre Prompts; 16 Experimente hatten keine Kontrollgruppe
 - [[ai-feedback-violin-intonation-2026]] — KI-Feedback zur Intonation, geprüft an 2.208 maschinell gemessenen Tonhöhenabweichungen (Aksoy 2026)
-- [[wraft-automated-writing-evaluation-argumentative-2026]] — WrAFT: a Modularized Automated Writing Evaluation System for Argumentative Essays
-- [[wang-chatgpt-comments-video-learning-scaffolding-2026]] — Assessing ChatGPT in-video comments: linguistic, semantic, and perceptual quality (Wang, Du & Jin 2026)
+- [[wraft-automated-writing-evaluation-argumentative-2026]] — WrAFT: ein modularisiertes automatisiertes Schreibbewertungssystem für argumentative Aufsätze
+- [[wang-chatgpt-comments-video-learning-scaffolding-2026]] — Bewertung von ChatGPT-In-Video-Kommentaren: sprachliche, semantische und wahrnehmungsbezogene Qualität (Wang, Du & Jin 2026)
 - [[luo-eaton-ai-student-feedback-ethics-2026]]
 - [[coach-not-crutch-ai-writing]] — KI-Schreibfeedback übertraf menschliche Lektorierende bei Übungsanschreiben (Lira et al. 2025)
-- [[zhao-learnlens-feedback-educators-loop]] — LearnLens: LLM feedback generation with educators in the loop (Zhao et al. 2025)
-- [[melo-llm-classroom-observation-teach-2026]] — LLM classroom observation feedback reliability and limits (Melo et al. 2026)
-- [[learner-centered-feedback-ai]] — Teachers' practices and perceptions of AI learner-centered feedback (PolyFeed)
-- [[ai-generated-feedback-higher-ed]] — AI-Generated Feedback in Higher Education
+- [[zhao-learnlens-feedback-educators-loop]] — LearnLens: LLM-Feedbackerzeugung mit Lehrkräften im Kreislauf (Zhao et al. 2025)
+- [[melo-llm-classroom-observation-teach-2026]] — Reliabilität und Grenzen von LLM-Klassenzimmer-Beobachtungsfeedback (Melo et al. 2026)
+- [[learner-centered-feedback-ai]] — Praktiken und Wahrnehmungen von Lehrkräften zu KI-Feedback, das auf Lernende zugeschnitten ist (PolyFeed)
+- [[ai-generated-feedback-higher-ed]] — KI-generiertes Feedback in der Hochschulbildung
 - [[teaching-feedback-classification-benchmark]] — Teaching Feedback Classification Benchmark
-- [[becerra-aicofe-feedback-2026]] — AICoFE: AI-Powered Collaborative Feedback
-- [[cong-confidence-asag-2026]] — Confidence-Aware Short Answer Grading
-- [[choi-anchor-aes-prompting-2025]] — Anchor-Based AES Prompting
-- [[ai-assistance-discretionary-feedback]] — AI Assistance for Discretionary Feedback
-- [[sequenced-ai-feedback-learning]] — Sequenced AI Feedback and Learning
-- [[eduframetrap-llm-sycophancy-educational-safety]] — Sycophancy is an educational safety risk: Why LLM tutors need sycophancy benchmarks
-- [[contextual-sycophancy-ai-literacy]] — The Hidden Cost of Contextual Sycophancy: an AI Literacy Intervention
+- [[becerra-aicofe-feedback-2026]] — AICoFE: KI-gestütztes kollaboratives Feedback
+- [[cong-confidence-asag-2026]] — Konfidenzbewusste Kurzantwort-Bewertung
+- [[choi-anchor-aes-prompting-2025]] — Ankerbasiertes AES-Prompting
+- [[ai-assistance-discretionary-feedback]] — KI-Unterstützung für ermessensabhängiges Feedback
+- [[sequenced-ai-feedback-learning]] — Sequenziertes KI-Feedback und Lernen
+- [[eduframetrap-llm-sycophancy-educational-safety]] — Sycophancy ist ein Risiko für pädagogische Sicherheit: warum LLM-Tutoren Sycophancy-Benchmarks brauchen
+- [[contextual-sycophancy-ai-literacy]] — Die verborgenen Kosten kontextueller Sycophancy: eine KI-Kompetenz-Intervention
 - [[genai-educational-outcomes-meta-analysis]]
-- [[marked-pedagogies-linguistic-bias-writing-feedback]] — Marked Pedagogies: bias in automated writing feedback
+- [[marked-pedagogies-linguistic-bias-writing-feedback]] — Marked Pedagogies: Bias im automatisierten Schreibfeedback
 - [[gpt4-feedback-student-activation-2026]]
 - [[reddig-maclellan-personalized-feedback-llm-2026]]
 - [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]
-- [[teacher-ai-literacy-prompt-feedback-quality-2026]] — Prompt engineering and model selection as predictors of AI-feedback quality (Jacobsen et al. 2026)
-- [[perceptions-teacher-vs-ai-feedback-bias-2026]] — Randomized source labels on identical GPT-4 feedback: teachers discount AI-attributed feedback (Mertens et al. 2026)
-- [[peer-group-vs-ai-feedback-2026]] — Comparative analysis of peer group and AI-generated feedback in peer assessment: Insights into feedback quality and student perceptions in higher education
-- [[ai-assisted-physics-lab-report-assessment-2026]] — AI-Assisted Assessment of Experimental Physics Laboratory Reports: Potential, Limitations, and Support for Teaching Practice
-- [[llm-feedback-focus-adaptivity-student-writing-2026]] — Evaluating Feedback Focus and Pedagogical Adaptivity in LLM-Generated Feedback on Student Writing
-- [[risk-adaptive-genai-feedback-programming-2026]] — A Risk-Adaptive and Evidence-Constrained Framework for Generative AI Feedback in Programming Education
-- [[real-time-ai-feedback-technical-skills-2026]] — Own-language "Clarify" explanation and scaffolded nudges in a real-time tutor: what makes synchronous feedback usable (Muritala, Ahmed & Olumorin 2026)
-- [[teacher-vs-ai-peer-feedback-l2-writing-2026]] — Teacher vs AI-assisted peer feedback: authoritative error correction decays, steady focus holds, and what students do with each (Tang, Li & Luo 2026)
-- [[nazaretsky-feedback-source-bias-2025]] — Blind-then-disclosed source labels on identical feedback: students rate AI-labeled feedback lower and read low-rated human feedback as AI
+- [[teacher-ai-literacy-prompt-feedback-quality-2026]] — Promptgestaltung und Modellwahl als Prädiktoren der KI-Feedbackqualität (Jacobsen et al. 2026)
+- [[perceptions-teacher-vs-ai-feedback-bias-2026]] — Randomisierte Quellenmarkierungen an identischem GPT-4-Feedback: Lehrkräfte werten KI-attribuiertes Feedback ab (Mertens et al. 2026)
+- [[peer-group-vs-ai-feedback-2026]] — Vergleichende Analyse von Peergruppen- und KI-generiertem Feedback in der Peer-Bewertung: Einblicke in Feedbackqualität und Wahrnehmung von Studierenden in der Hochschulbildung
+- [[ai-assisted-physics-lab-report-assessment-2026]] — KI-unterstützte Bewertung von Laborberichten im Experimentalphysikunterricht: Potenzial, Grenzen und Unterstützung der Unterrichtspraxis
+- [[llm-feedback-focus-adaptivity-student-writing-2026]] — Bewertung von Feedbackfokus und pädagogischer Adaptivität in LLM-generiertem Feedback zu Schreibarbeiten von Studierenden
+- [[risk-adaptive-genai-feedback-programming-2026]] — Ein risikoadaptiver und evidenzbeschränkter Rahmen für generatives KI-Feedback in der Programmierausbildung
+- [[real-time-ai-feedback-technical-skills-2026]] — Erklärung auf „Verdeutlichen“ in der eigenen Sprache und gerüstete Anstöße in einem Echtzeit-Tutor: was synchrones Feedback nutzbar macht (Muritala, Ahmed & Olumorin 2026)
+- [[teacher-vs-ai-peer-feedback-l2-writing-2026]] — Lehrkraft versus KI-unterstütztes Peer-Feedback: autoritative Fehlerkorrektur lässt nach, stetiger Fokus hält, und was Studierende mit beidem tun (Tang, Li & Luo 2026)
+- [[nazaretsky-feedback-source-bias-2025]] — Blinde, dann offengelegte Quellenmarkierungen an identischem Feedback: Studierende bewerten als KI markiertes Feedback niedriger und lesen gering bewertetes menschliches Feedback als KI
 
-- [[intelligent-tutoring-mathematics-education-review-2026]] — Narrative review of AI tutoring in mathematics: real-time feedback gains and implementation conditions
-- [[agent-type-feedback-style-self-directed-learning-2026]] — Socratic versus directive feedback styles: comprehension monitoring against prioritization, and the cognitive-load cost
-- [[when-students-prefer-ai-scoring-feedback-2026]] — Student-perceived AI feedback quality: understandable yet repetitive, trusted for mechanics not interpretation
+- [[intelligent-tutoring-mathematics-education-review-2026]] — Narrativer Review zu KI-Tutoring in der Mathematik: Gewinne durch Echtzeit-Feedback und Umsetzungsbedingungen
+- [[agent-type-feedback-style-self-directed-learning-2026]] — Sokratische versus direktive Feedbackstile: Verständnisüberwachung gegen Priorisierung, und die Kosten für die kognitive Last
+- [[when-students-prefer-ai-scoring-feedback-2026]] — Von Studierenden wahrgenommene KI-Feedbackqualität: verständlich, aber repetitiv, für Mechanik vertraut, nicht für Interpretation
 
-- [[lin-rag-lesson-generation-tutor-training-2026]] — RAG-generated tutor-training lessons matched human-created ones when feedback was present; the human advantage appeared only without feedback
+- [[lin-rag-lesson-generation-tutor-training-2026]] — RAG-generierte Tutor:innen-Trainingslektionen entsprachen menschlich erstellten, wenn Feedback vorhanden war; der menschliche Vorteil zeigte sich nur ohne Feedback
+- [[evidence-grounded-framework-ai-generated-educational-feedback-2026]] — Drei Bewertungsdimensionen über 68 Studien hinweg, wobei die rasternahe Ausrichtung die dünne ist (Yang 2026)
+- [[llm-feedback-handwritten-mathematics-exam-performance-2026]] — Divergenz auf Kriteriums- und Bewertendenebene in 157 bewerteten Feedbacknachrichten (Vanhoyweghen et al. 2026)
+

@@ -1,7 +1,7 @@
 ---
 title: Video in der Bildung
 created: "2026-09-05T01:05:00-04:00"
-updated: "2026-10-10T09:04:25-04:00"
+updated: "2026-10-24T23:30:00-04:00"
 type: concept
 pedagogy: [online-teaching-and-learning, student-engagement, video-education]
 technology: [adaptive-learning, generative-ai, learning-analytics, llm, multimodal, personalized-learning]
@@ -9,7 +9,7 @@ audience: [instructors, instructional designers]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/video-education
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-18T10:07:01-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -41,6 +41,7 @@ Video ist ein Eckpfeiler zeitgenössischer Bildung — besonders [[online-teachi
 - **Adaptive und strukturierte Videogenerierung.** [[courseblueprint-adaptive-video-generation|CourseBlueprint]] bietet eine strukturierte Pipeline, die adaptives pädagogisches Video erzeugt, in Kurskorpora verankert, und zeigt, dass explizite pädagogische Struktur — nicht nur [[ai-literacy|KI-Flüssigkeit]] — wirksames KI-Video treibt. [[bespoke-industry-personalized-lecture-videos-2026|Bespoke]] wendet dieselbe Logik auf der Ebene ganzer Vorlesungen an: Aus 31 Graduiertenvorlesungen erzeugte es 209 Videos für Gesundheitswesen, Finanzen, Energie und ein generisches Publikum, und 25 domänenpassende Expertinnen und Experten, die 92 davon bewerteten, platzierten 87% auf oder über der Mitte, formuliert als „die Qualität einer Standard-MOOC-Vorlesung“ (Mittelwert 3.42 von 5), bei etwa \$0.22 API-Kosten pro Minute —, wobei Stimme, Folien-Timing und Layout die wiederkehrenden Defekte waren.
 - **Eine Lernschleife schlägt ein besseres Rendering.** [[pivot-generative-video-tutors-stem-2026|Ma et al. (2026)]] planen jedes Video als Storyboard aus Zielen, Aktivierung von Vorwissen, durchgearbeiteten Beispielen und diagnostischen Sonden, gepaart mit einem Quiz, das die Beispiele des Videos vermeidet, und einer Förderung für jede falsche Option; 96.9% von 32 Lehrenden urteilten, die Schleife sei wirksamer als ein alleinstehendes Video.
 - **Video-Learning-Analytics und Aufmerksamkeit.** Video zu instrumentieren legt offen, wie Lernende sich engagieren. [[engagement-assessment-video|Engagement-Assessment im Video-Lernen]] und [[savvy-student-attention-video-learning|SAVVY]] visualisieren die Aufmerksamkeit von Studierenden während videobasierten Lernens und stützen damit [[learning-analytics|Learning Analytics]], [[self-regulated-learning|Selbstregulation]] und Frühwarnung bei Disengagement. Segmentierungsarbeit (etwa [[adhd-video-segmentation-computing-education|zeitliche Videosegmentierung]]) schneidet Video auf individuelle Unterschiede zu.
+- **Ein neuronales Ablesen der Videoenkodierung.** EEG-Rekonstruktionen der gesehenen Videoframes waren für richtig beantwortete Fragen semantisch ähnlicher (M = 71,43) als für falsch beantwortete (M = 62,30, p < .001), und eine systematische zeitliche Verschiebung — Rekonstruktionen, die früheren Frames ähneln — ließ sich zu einem mit der Leistung verbundenen Dispersionsmaß quantifizieren ([[seeing-cognitive-representations-eeg-reconstruction|Su et al. (2026)]]).
 - **Avatare und Präsenz.** KI-Avatare — virtuelle Präsentierende und pädagogische Agenten — werfen Fragen über Identität, [[community-of-inquiry|soziale Präsenz]] und Vertrauen auf. [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning|Avatar-Identität und epistemisches Vertrauen]] untersucht, wie die scheinbare Identität einer Präsentierenden das Vertrauen der Lernenden prägt, während [[ai-psychotherapy-training-avatars|KI-Avatare im Training]] das Muster auf professionelle Praxis ausweiten.
 - **Scaffolding-Kommentare im Video — und was KI noch falsch macht.** [[wang-chatgpt-comments-video-learning-scaffolding-2026|Wang, Du und Jin (2026)]] erzeugen *i-Comments*, [[scaffolding|Scaffolding]]-Nachrichten, die innerhalb des Videoframes gerendert und mit dem Inhalt synchronisiert sind, indem sie Frame-Ebenen-Entropie berechnen und Unterstützung nur in Intervallen mit geringer Information einfügen. Gebenchmarkt gegen 120 Kommentare erfahrener Lehrender waren ChatGPTs 1.000 Kommentare dichter, weit weniger strukturell vielfältig (POS-3-Gramm-Diversität 5.5–6.2% gegenüber 25.1–38.5%), schwerer zu lesen auf jedem Lesbarkeitsindex, und weniger thematisch abgestimmt (Emotional-Support-BERTScore 0.317 gegenüber 0.574); 40 Lernende bewerteten die menschlichen Kommentare signifikant höher bei Timing und Hilfsamkeit, wenngleich ein neueres Modell diese Lücke verengte. Das Argument ist ein Designargument so sehr wie ein Automatisierungsargument: in das Medium eingebettete Unterstützung vermeidet die Aufmerksamkeits- und kognitiven Kosten des Pausierens, um einen separaten [[conversational-ai|Chatbot]] zu befragen ([[ai-feedback-quality|Feedback-Qualität]], [[social-emotional-learning|emotionale Unterstützung]]).
 - **KI-Unterstützung für den Konsum von Vorlesungsvideos.** Jenseits der Erzeugung hilft KI Lernenden und Lehrenden, mit bestehendem Video zu arbeiten: [[bilingual-llm-lecture-companion-srl-2026|zweisprachige LLM-Vorlesungsbegleiter]] stützen selbstreguliertes Lernen mit aufgenommenen Vorlesungen, und [[gemini-lualatex-physics-video-transcription-2026|Transkriptions-Pipelines]] wandeln Vorlesungsvideo in zugänglichen Text um.
@@ -66,17 +67,17 @@ Wirksames KI-Video zu produzieren erfordert pädagogische Struktur und menschlic
 - [[trust]] — Vertrauen der Lernenden in KI-Präsentierende und Inhalte
 
 ## Verbundene Artikel
-- [[bespoke-industry-personalized-lecture-videos-2026]] — Bespoke: generating MOOC-quality industry-personalized lecture videos at scale (Puech et al. 2026)
-- [[wang-chatgpt-comments-video-learning-scaffolding-2026]] — ChatGPT-generated in-video comments: entropy timing, quality gaps vs. human comments (Wang, Du & Jin 2026)
-- [[personalized-ai-generated-videos-preference-2026]] — Students prefer personalized AI-generated videos over non-personalized human-recorded ones (Tomlinson et al. 2026)
-- [[ai-generated-instructional-videos-computing-ed]] — Student perceptions/preferences of AI-generated instructional video in computing education
-- [[ai-video-dual-gatekeeping-2026]] — Dual gatekeeping for pedagogically grounded AI video creation
-- [[courseblueprint-adaptive-video-generation]] — CourseBlueprint: adaptive pedagogical video generation
-- [[engagement-assessment-video]] — Engagement assessment in video learning
-- [[savvy-student-attention-video-learning]] — Student attention visualization for video-based learning
-- [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]] — How avatar identity shapes epistemic trust in AI-mediated learning
-- [[bilingual-llm-lecture-companion-srl-2026]] — Bilingual LLM lecture companions for self-regulated learning
-- [[adhd-video-segmentation-computing-education]] — Temporal video segmentation for individual differences
-- [[ai-psychotherapy-training-avatars]] — AI avatars in psychotherapy training
-- [[gemini-lualatex-physics-video-transcription-2026]] — Transcribing physics lecture video into accessible text
-- [[pivot-generative-video-tutors-stem-2026]] — From Content Generation to Learning Support: Pedagogy-Guided Generative Video Tutors for STEM Learning
+- [[bespoke-industry-personalized-lecture-videos-2026]] — Bespoke: Erzeugung branchenspezifischer, personalisierter Vorlesungsvideos in MOOC-Qualität im großen Maßstab (Puech et al. 2026)
+- [[wang-chatgpt-comments-video-learning-scaffolding-2026]] — ChatGPT-generierte Kommentare im Video: Entropie-Timing, Qualitätslücken gegenüber menschlichen Kommentaren (Wang, Du & Jin 2026)
+- [[personalized-ai-generated-videos-preference-2026]] — Studierende bevorzugen personalisierte KI-generierte Videos gegenüber nicht personalisierten, von Menschen aufgenommenen (Tomlinson et al. 2026)
+- [[ai-generated-instructional-videos-computing-ed]] — Wahrnehmungen und Präferenzen von Studierenden zu KI-generiertem Unterrichtsvideo in der Informatikbildung
+- [[ai-video-dual-gatekeeping-2026]] — Duales Gatekeeping für pädagogisch fundierte KI-Videoerzeugung
+- [[courseblueprint-adaptive-video-generation]] — CourseBlueprint: adaptive pädagogische Videogenerierung
+- [[engagement-assessment-video]] — Engagement-Assessment im Video-Lernen
+- [[savvy-student-attention-video-learning]] — Visualisierung der Aufmerksamkeit von Studierenden für videobasiertes Lernen
+- [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]] — Wie Avatar-Identität epistemisches Vertrauen in KI-vermitteltem Lernen prägt
+- [[bilingual-llm-lecture-companion-srl-2026]] — Zweisprachige LLM-Vorlesungsbegleiter für selbstreguliertes Lernen
+- [[adhd-video-segmentation-computing-education]] — Zeitliche Video-Segmentierung für individuelle Unterschiede
+- [[ai-psychotherapy-training-avatars]] — KI-Avatare in der Psychotherapie-Ausbildung
+- [[gemini-lualatex-physics-video-transcription-2026]] — Physik-Vorlesungsvideo in zugänglichen Text transkribieren
+- [[pivot-generative-video-tutors-stem-2026]] — Von der Inhaltsgenerierung zur Lernunterstützung: pädagogisch geführte generative Videotutoren für MINT-Lernen

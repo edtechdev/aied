@@ -2,7 +2,7 @@
 connected_resources: [onmicro-ai]
 title: Scaffolding (Gerüstbildung)
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-10T09:04:25-04:00"
+updated: "2026-10-24T23:14:18-04:00"
 connected_faqs: [designing-ai-into-learning, developing-ai-tutor, asynchronous-online-courses-ai]
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
@@ -11,7 +11,7 @@ technology: [intelligent-tutoring]
 assessment: [feedback]
 confidence: high
 translation_of: concepts/scaffolding
-source_updated: "2026-10-15T08:25:00-04:00"
+source_updated: "2026-10-24T06:40:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -53,6 +53,7 @@ ai_assist:
 
 - **Mentoring als Scaffolding für einen Forschungsprozess.** [[scaffolding-systematic-reviews-2026|Wang et al. (2026)]] behandeln einen systematischen Review als absichtsvolle Lernerfahrung, in der Mentoring integriertes methodisches und emotionales Scaffolding liefert, während Automatisierung auf prozedurale Last wie das Screening von Abstracts beschränkt ist, und Datenextraktion, Abgleich und Synthese bei menschlichen Reviewerinnen und Reviewern bleiben.
 - **In das Medium eingebettetes Scaffolding, nicht aufgesetzt:** [[wang-chatgpt-comments-video-learning-scaffolding-2026|Wang, Du und Jin (2026)]] operationalisieren vier Scaffolding-Prinzipien innerhalb eines Videoplayers — [[sociocultural-learning|ZPD]]-basierte Anpassung der Kommentartiefe, *ausblendendes* Scaffolding (Wissensunterstützung dünnt über die Zeitleiste aus), *verteiltes* Scaffolding (jeder Kommentar ist entweder Wissens- oder emotionale Unterstützung), und aus kognitiver Last abgeleitetes **Timing** —, indem sie Videoentropie auf Frame-Ebene berechnen und Kommentare nur in Intervallen mit geringer Information einfügen. Ihre Ablation mit vier Bedingungen und 20 Lernenden fand, dass das Entropie-Timing-Modul bei Entfernung den stärksten und robustesten Effekt auf empfundene Qualität erzeugte (Z = −2.85, r = 0.45, p = .004), was die *Zeitplanung* von Scaffolding zu einer messbaren Designvariable macht statt zu einem Verpackungsdetail. Die Studie trägt zudem eine Warnung für automatisiertes Scaffolding: von [[generative-ai|ChatGPT]] erzeugte Kommentare waren durchgehend schwerer zu lesen, lexikalisch weniger vielfältig und weniger thematisch abgestimmt als Lehrendenkommentare, mit der größten Relevanzlücke bei emotionaler Unterstützung ([[ai-feedback-quality|Feedback-Qualität]]).
+- **Emotionales Scaffolding als Prompt-Ebene, gemessen gegen kognitives Scaffolding allein.** Bei festem Interface und fester Lektion bat die emotionale Version Studierende, an drei Punkten Gefühle zu berichten, und nutzte diese Berichte, um Ton, emotionales Scaffolding und kognitive Herausforderung entlang von Kontroll- und Wertschätzungs-Appraisal zu variieren, bei einer Temperatur von 0,7, sodass die Anpassungen Antworten eher leiteten als diktierten. In den Dialogspuren kaufte sie mehr Arbeit in der Leistungsphase und mehr selbstreflexive Arbeit als SRL-Prompts allein, und mehr Freude und weniger Langeweile. Sie fügte in einer einzigen 25-minütigen Sitzung nichts zu Lernzuwächsen oder Selbstwirksamkeit hinzu ([[diordiev-emotional-scaffolding-genai-srl-2026|Diordiev, Stenberdt & Makransky, 2026]]).
 - **Bevorzugtes Scaffolding ist nicht immer das wirksamste:** [[preferred-scaffolding-ai-mathematical-modeling|Zhu, Yang und Yang (2026)]] fanden in einem Within-Subjects-Experiment, dass Studierende mit den KI-Rollen Peer und Teaching Assistant (die [[collaborative-learning|kollaboratives]] Denken fördern) am besten abschnitten, dennoch die direktiveren Rollen Tutor und Excellent Student bevorzugten — eine Divergenz zwischen Präferenz und Performanz, die davor mahnt, die Präferenz der Lernenden mit wirksamem Scaffolding in KI-gestützter mathematischer Modellierung gleichzusetzen.
 - **Ein strukturierterer Scaffold ist nicht automatisch ein agentischerer:** ein Experten-Design-Bot hob Interaktionslänge und selbst verfasste Prompts gegenüber blankem ChatGPT, aber die Handlungsfähigkeit im kollaborativen Problemlösen fiel in beiden Bedingungen, wobei Zustimmung statt Kritik das am wenigsten agentische beobachtete Verhalten war ([[preservice-teacher-agency-genai-design-learning-2026|Krushinskaia et al. (2026)]]).
 
@@ -111,38 +112,38 @@ Die Unterscheidung regelgeleitet versus ad-hoc reicht über den Tutor hinaus bis
 - [[teacher-role]] — Lehrkräfte scaffolden und blenden dann aus, wenn die Kompetenz wächst
 - [[pedagogy]] — Überblicksseite: Pädagogien und Lehrstrategien in der KI-Bildung
 - [[agentic-ai]]
-- [[productive-failure]] — Productive Failure
+- [[productive-failure]] — Produktives Scheitern
 ## Verbundene Artikel
-- [[kumar-genai-computing-education-systematic-review-2026]] — Scaffold withdrawal as the mechanism enforcing verification (VIE framework)
-- [[ai-standardized-patient-scaffolding-medical-2026]] — Evaluating Scaffolding-Oriented Multi-Agent Large Language Model System for Clinical Interview Training
-- [[wang-chatgpt-comments-video-learning-scaffolding-2026]] — Entropy-timed AI comments as in-video knowledge and emotional scaffolding (Wang, Du & Jin 2026)
-- [[guided-llm-scaffolding-independent-learning]] — Guided LLM prompting as a structured learning intervention
-- [[scaffolding-critical-engagement-genai-minority-students]] — Culturally responsive critical-engagement scaffolding with GenAI
-- [[rethinking-scaffolding-llm-tutors]] — Design patterns for scaffolding in LLM tutors
-- [[concept-catalyst-engineering-scaffolds]] — Concept Catalyst scaffolds for conceptual change
-- [[correct-answer-trap-ai-tutor]] — When hints help vs. when they encourage over-reliance
-- [[critical-thinking-genai-scaffolding]] — Scaffolding critical thinking with GenAI
-- [[veriforge-narrative-drafting-scaffolding-2026]] — Scaffolded narrative drafting with Veriforge
-- [[substitution-to-scaffolding-ai-harm-cycle-2026]] — From Substitution to Scaffolding: Breaking the Self-Reinforcing Harm Cycle
-- [[preferred-scaffolding-ai-mathematical-modeling]] — Preferred scaffolding in AI-supported mathematical modeling
-- [[agentic-ai-pedagogical-best-practice-2026]] — Dynamic (fading) scaffolds as a guardrail for agentic AI
-- [[zhang-tutormoments-2026]] — When Help is Unhelpful: evaluating AI tutors for productive struggle
-- [[kim-ai-productive-failure-adult-2026]] — Designing AI Systems to Support Productive-Failure-Based Learning
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pedagogical Steering of LLMs for Productive Failure
-- [[making-ai-tutoring-productive-mastery-math-2026]] — Making AI tutoring productive: mastery-based math practice
-- [[brcic-effortless-trap-productive-struggle-2026]] — Guarded vs. unguarded AI: the placement rule (Brcic & Frljic 2026)
-- [[ai-supported-experimental-design-chemistry-2026]] — AI-supported experimental design in practical chemistry
-- [[scaffolding-systematic-reviews-2026]] — Scaffolding Systematic Reviews with Mentoring and AI (Wang 2026)
-- [[preservice-teacher-agency-genai-design-learning-2026]] — Pre-service teacher agency during GenAI interactions in design for learning (Krushinskaia, Elen & Raes 2026)
-- [[bondurant-shaughnessy-ai-pedagogies-practice-2026]] — AI across the pedagogies of practice in mathematics teacher education: structured rehearsal feedback raised probing questions (Bondurant & Shaughnessy 2026)
-- [[ai-integration-instructional-design-collaboratory-2026]] — AI integration as instructional design: critique of AI output must be assigned, and disciplinary analysis comes first
-- [[ai-literacy-tool-design-programming-education-2026]] — A hint-budgeted AI Study Coach: scaffolded vs unrestricted GenAI use, and why the constraint alone did not produce learning (Azimi 2026)
-- [[scan-framework-task-assignment-generative-ai-2025]] — SCAN: scaffolding reframed as deciding which sub-zone a task belongs to
-- [[chen-automated-scoring-interpreting-self-regulated-learning-2026]] — Automated scoring as formative scaffolding: it converts into a gain only where the targeted deficit is decomposable, reliable and sensitively scaled (Chen & Liu 2026)
-- [[zhu-adaptive-teaching-assistance-genai-big-data-2026]] — Closed-loop adaptive scaffolding that tracks the learner's current boundary in music practice, with error detection as triage (Zhu et al. 2026)
-- [[niu-genai-children-creative-thinking-cognitive-development-review-2026]] — Scaffold form must match children's developmental capacity, not only the task (Niu et al. 2026)
-- [[vega-baudrit-genai-university-chemistry-education-review-2026]] — Scaffolds must require representational translation and verification, since students cannot verify what they do not understand (Vega-Baudrit & Rivera Álvarez 2026)
-- [[genai-cognitive-scaffold-geometric-reasoning-2026]] — GenAI as a prompting scaffold that bridges visual intuition to deductive proof in geometry, where visualization alone is insufficient (Davor 2026)
-- [[guided-ai-tutor-impasse-resolution-2026]] — Examining Variation in How Guided AI Tutors Resolve Student Impasses
-- [[structured-genai-training-physics-problem-solving-rct-2026]] — Training the learner as scaffolding for GenAI use in STEM problem solving (Huang et al. 2026)
-- [[etq-ai-conversational-teacher-training-2026]] — Conversational AI diagnostic for teaching misconceptions with evidence-grounded dialogue (Miranda & Calvani 2026)
+- [[kumar-genai-computing-education-systematic-review-2026]] — Scaffold-Rückzug als der Mechanismus, der Verifikation durchsetzt (VIE-Framework)
+- [[ai-standardized-patient-scaffolding-medical-2026]] — Evaluation eines scaffoldingorientierten Multi-Agenten-Systems auf Basis großer Sprachmodelle für das Training klinischer Interviews
+- [[wang-chatgpt-comments-video-learning-scaffolding-2026]] — Entropie-getimte KI-Kommentare als Wissens- und emotionales Scaffolding im Video (Wang, Du & Jin 2026)
+- [[guided-llm-scaffolding-independent-learning]] — Geleitetes LLM-Prompting als strukturierte Lernintervention
+- [[scaffolding-critical-engagement-genai-minority-students]] — Kulturell responsives Scaffolding kritischen Engagements mit GenAI
+- [[rethinking-scaffolding-llm-tutors]] — Desigmmuster für Scaffolding in LLM-Tutoren
+- [[concept-catalyst-engineering-scaffolds]] — Concept-Catalyst-Scaffolds für konzeptuellen Wandel
+- [[correct-answer-trap-ai-tutor]] — Wann Hinweise helfen und wann sie übermäßige Abhängigkeit fördern
+- [[critical-thinking-genai-scaffolding]] — Scaffolding kritischen Denkens mit GenAI
+- [[veriforge-narrative-drafting-scaffolding-2026]] — Gescaffoldetes narratives Entwerfen mit Veriforge
+- [[substitution-to-scaffolding-ai-harm-cycle-2026]] — Von der Substitution zum Scaffolding: den selbstverstärkenden Schadenszyklus durchbrechen
+- [[preferred-scaffolding-ai-mathematical-modeling]] — Bevorzugtes Scaffolding in KI-gestützter mathematischer Modellierung
+- [[agentic-ai-pedagogical-best-practice-2026]] — Dynamische (ausblendende) Scaffolds als Leitplanke für agentische KI
+- [[zhang-tutormoments-2026]] — Wenn Hilfe nicht hilft: Evaluation von KI-Tutoren für produktives Ringen
+- [[kim-ai-productive-failure-adult-2026]] — KI-Systeme so gestalten, dass sie auf produktivem Scheitern aufbauendes Lernen unterstützen
+- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pädagogische Steuerung von LLMs für produktives Scheitern
+- [[making-ai-tutoring-productive-mastery-math-2026]] — KI-Tutoring produktiv machen: meisterungsbasiertes Mathematiküben
+- [[brcic-effortless-trap-productive-struggle-2026]] — Bewachte versus unbewachte KI: die Platzierungsregel (Brcic & Frljic 2026)
+- [[ai-supported-experimental-design-chemistry-2026]] — KI-gestütztes experimentelles Design in der Praktikums-Chemie
+- [[scaffolding-systematic-reviews-2026]] — Scaffolding systematischer Reviews mit Mentoring und KI (Wang 2026)
+- [[preservice-teacher-agency-genai-design-learning-2026]] — Handlungsfähigkeit angehender Lehrkräfte während GenAI-Interaktionen im Design für Lernen (Krushinskaia, Elen & Raes 2026)
+- [[bondurant-shaughnessy-ai-pedagogies-practice-2026]] — KI über die Praxis-Pädagogiken hinweg in der Mathematiklehrkräftebildung: strukturiertes Rehearsal-Feedback erhöhte befragende Fragen (Bondurant & Shaughnessy 2026)
+- [[ai-integration-instructional-design-collaboratory-2026]] — KI-Integration als Instruktionsdesign: Kritik an KI-Ausgaben muss aufgegeben werden, und fachliche Analyse kommt zuerst
+- [[ai-literacy-tool-design-programming-education-2026]] — Ein AI Study Coach mit Hinweisbudget: gescaffoldete versus unbeschränkte GenAI-Nutzung, und warum die Beschränkung allein kein Lernen erzeugte (Azimi 2026)
+- [[scan-framework-task-assignment-generative-ai-2025]] — SCAN: Scaffolding neu gerahmt als die Entscheidung, zu welcher Sub-Zone eine Aufgabe gehört
+- [[chen-automated-scoring-interpreting-self-regulated-learning-2026]] — Automatisierte Bewertung als formatives Scaffolding: sie verwandelt sich nur dort in einen Zugewinn, wo das adressierte Defizit zerlegbar, verlässlich und sensitiv skaliert ist (Chen & Liu 2026)
+- [[zhu-adaptive-teaching-assistance-genai-big-data-2026]] — Geschlossenschleifen-adaptives Scaffolding, das die gegenwärtige Grenze der lernenden Person in der Musikpraxis verfolgt, mit Fehlererkennung als Triage (Zhu et al. 2026)
+- [[niu-genai-children-creative-thinking-cognitive-development-review-2026]] — Die Scaffold-Form muss zur entwicklungsbezogenen Kapazität der Kinder passen, nicht nur zur Aufgabe (Niu et al. 2026)
+- [[vega-baudrit-genai-university-chemistry-education-review-2026]] — Scaffolds müssen repräsentationale Übersetzung und Verifikation verlangen, da Studierende nicht verifizieren können, was sie nicht verstehen (Vega-Baudrit & Rivera Álvarez 2026)
+- [[genai-cognitive-scaffold-geometric-reasoning-2026]] — GenAI als Prompting-Scaffold, das visuelle Intuition mit deduktiver Beweisführung in der Geometrie verbindet, wo Visualisierung allein nicht reicht (Davor 2026)
+- [[guided-ai-tutor-impasse-resolution-2026]] — Untersuchung der Variation darin, wie geführte KI-Tutoren an Stockpunkten von Studierenden vorgehen
+- [[structured-genai-training-physics-problem-solving-rct-2026]] — Das Trainieren der lernenden Person als Scaffolding für den GenAI-Einsatz bei der Problemlösung in MINT (Huang et al. 2026)
+- [[etq-ai-conversational-teacher-training-2026]] — Konversationelle KI als Diagnostikum für Unterrichts-Fehlvorstellungen mit evidenzbasiertem Dialog (Miranda & Calvani 2026)

@@ -1,7 +1,7 @@
 ---
 title: Sprach- und Stimmtechnologien
 created: "2026-09-16T14:29:36-04:00"
-updated: "2026-10-10T09:04:27-04:00"
+updated: "2026-10-24T19:40:06-04:00"
 type: concept
 technology: [generative-ai, multimodal]
 assessment: [assessment]
@@ -11,7 +11,7 @@ audience: [instructors, learners, researchers, instructional designers]
 level: [k 12, higher ed, adult learning]
 discipline: [language learning]
 translation_of: concepts/speech-and-voice-technologies
-source_updated: "2026-09-28T21:37:06-04:00"
+source_updated: "2026-10-23T09:14:19-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -50,6 +50,8 @@ Automatisiertes Aussprachefeedback kann auch ohne Fehlerlabels gebaut werden. [[
 
 ASR dient dem Klassenzimmer zudem in einer zweiten Rolle — gesprochene Eingabe in Text zu wandeln, den Lernende lesen. [[ai-mediated-input-medical-english-asr-2026|Stanchev (2026)]] renderte eine 2.692-Token-Passage eines Medical-English-Kursbuchs über Proteine mit einer Text-zu-Sprache-Stimme (15:27, kanadisch weiblich) und übermittelte das identische Audio an vier Online-ASR-Dienste und maß dann sowohl Wortfehlerrate (WER) als auch **Abdeckung** (coverage — zurückgegebene Wörter als Anteil der Referenz). Die beiden freien Dienste gaben nahezu vollständige Transkripte zurück (87.96% und 88.34% Abdeckung, WER 15.23% und 15.00%), während die beiden bezahlten Dienste nur Vorschauen exportierten (32.76% und 55.35% Abdeckung, WER 73.21% und 48.77%). Der Messpunkt ist, dass WER allein nicht verfügbaren Text mit ungenauem Text vermengt und eine Exportrestriktion als Transkriptionsfehler bewerten würde, sodass Abdeckung neben die Fehlerrate gehört. Löschungen dominierten jeden Dienst und häuften sich auf strukturellen Markern wie Abbildungsreferenzen und Seitenzahlen, aber eine Handvoll bedeutungsverändernder Substitutionen — imino → amino, cystine → cysteine, protonated → protonatid, pH → phase —, kehrte jeweils eine biochemische Tatsache um, weshalb die Autoren einen dreistufigen Arbeitsablauf vorschlagen (die Eingabe generieren, das volle Transkript exportieren, Domänenterminologie verifizieren), bevor ein Transkript Lernende erreicht, und weshalb ein Terminologiedurchgang die günstigste Leitplanke für Medical English ist.
 
+Genauigkeitsgewinne scheinen eine Eigenschaft zweckgebauter Systeme zu sein statt des gesprochenen Kanals selbst. Über zehn Studien hinweg verbesserten nur Chatbots, die für Sprachenlernen konzipiert sind — Andy English Bot und Xiaoying — die Genauigkeit, mit einer Fehlerabnahme von 14% in einer Kontrollgruppe gegenüber 38% in der Behandlungsgruppe ([[chatbots-oral-proficiency-efl-systematic-review|Soriano-Gonzalez & Belda-Medina (2026)]]). Derselbe Review dokumentiert, dass ASR bei akzentuierter Sprache und nicht-englischen Namen scheitert, einschließlich eines Bots, der vietnamesische Namen nicht erkannte, obwohl die Aussprache korrekt war.
+
 ## TTS und Stimm-generierter Unterricht
 
 Generierte Erzählung erweist sich als brauchbarer Ersatz für eine aufgezeichnete Lehrkraft, und die interessante Variation liegt im Format statt zwischen Mensch und Maschine. [[llm-tts-dialogue-lesson-generation|Kumoi et al. (2026)]] bauten eine dreistufige, [[human-in-the-loop-ai|Human-in-the-Loop]]-Pipeline, in der ein [[llm|LLM]] Folien und TTS-optimierte Erzählung entwirft, während die Lehrkraft auf jeder Stufe faktenprüft, und führten dann eine Within-Subject-Studie mit 245 Erstsemestlerinnen und Erstsemestrern einer japanischen Präfekturoberstufe über Video in der Stimme der Lehrenden, Einzelsprecher-TTS und Expertin-×-Novize-Dialog-TTS. Verständnis, Konzentration und Gesamtevaluation unterschieden sich über die drei nicht signifikant (p > .14, r < 0.11), und Äquivalenztestung hielt alle drei innerhalb einer ±0.5-Spanne: synthetische Erzählung degradierte das Erlebnis nicht. Dialogerzählung war besser bei Verständnis (p = .006, r = .130), bei berichtetem vertieftem Denken (p = .019, r = .121), und dabei, den Inhalt einer Freundin erklären zu können (p = .004, r = .152), und 66.9% bevorzugten sie als vergnüglichste. Zwei Vorbehalte: Dialogaudio wurde signifikant weniger natürlich bewertet (r = −.238), konsistent mit zusätzlicher Last durch mehrere Sprecher, und die Dialoggruppe kam mit weniger [[prior-knowledge|Vorwissen]] an (66.0% berichteten, „nothing at all" zu wissen, gegenüber 34.1%), was ihren Vorteil zu einer konservativen Schätzung macht.
@@ -67,6 +69,8 @@ Akzent ist indessen eine Designvariable mit sozialen Folgen. [[agent-voice-accen
 Stärkere Nutzung eines gesprochenen Unterstützungswerkzeugs ist nicht automatisch besser. [[student-ai-interaction-consecutive-interpreting-2026|Kuang, Li und Weng (2026)]] ließen 22 Dolmetschtrainees bidirektionale rechnergestützte Konsekutivdolmetschaufgaben in Systemen auf ASR- und maschineller Übersetzung absolvieren und erfassten Augenbewegungen, Stiftnotizen und Sprachausgabe. Vier Interaktionsprofile entstanden — Intensive Engagers, Fast Scanners, Traditionalists und Frequent Switchers —, und 58.3% der stadienbezogenen Beobachtungen wechselten das Profil zwischen dem Verstehen der Quelle und dem Produzieren des Ziels. Nur Verständnisstadien-Muster sagten Produktqualität vorher, und das KI-stärkste Cluster erzielte die niedrigsten Werte bei Flüssigkeit der Darbietung (5.46 gegenüber 6.17–6.46) und Qualität der Zielsprache (5.70 gegenüber 6.35–6.67). Aufmerksamkeit, die dem Lesen eines KI-Transkripts gewidmet ist, ist Aufmerksamkeit, die nicht dem Aufbau der eigenen Repräsentation gewidmet ist; die Autoren empfehlen, Lernenden beizubringen, über ihre eigene Strategie zu reflektieren, statt eine vorzuschreiben, da das Muster unsichtbar ist, sofern nicht an die Oberfläche gebracht.
 
 Ein präregistriertes randomisiertes Feldexperiment testet den gesprochenen Kanal gegen getippten Text innerhalb desselben Tutors und findet, dass das Lernen im Tutoring liegt statt in der Stimme. [[ai-tutor-modality-randomized-field-experiment-2026|Yang, Van Alstyne und Dellarocas (2026)]] randomisierten 86 Studierende in einem Corporate-Finance-Modul eines Online-MBA zwischen einem strukturierten, in Kursmaterialien verankerten Tutor und einem Holdout, wechselten dann wöchentlich den Kanal jedes getutorten Studierenden zwischen Stimme und Text, sodass der Vergleich innerhalb jedes Studierenden identifiziert ist: wöchentliche Beherrschung unterschied sich um −0.01 Punkte von 11 (p = .98), und zwei einseitige Tests lehnten jeden echten Unterschied größer als ±0.3 SD ab. Die Stimme transformierte stattdessen den Prozess — 1.34 Dialogzüge pro Minute gegenüber 0.75 in Textwochen, und 11.3 Fragen gegenüber 4.6 —, während die Denkpause kollabierte (mittlere Tutor-zu-Schüler-Antwortlücke von 27 Sekunden in Stimme gegenüber 54 in Text, wo getippte Züge 25.9 Sekunden vor dem ersten Tastenanschlag plus 13.9 Sekunden Komponieren verbrachten), und der Sprachkanal 2.8-fach mehr kostete, zu \$0.22 pro Stimm-Minute gegenüber \$0.0165 pro Textnachricht (\$413.46 Stimme und \$149.13 Text über fünf Wochen für 52 Plätze). Auf dieser Evidenz ist Stimme ein Übernahme- und Engagementhebel, kein Kodierungshebel —, was genau der Abwägung ist, die jede Institution, die einen gesprochenen Kanal hinzufügt, preisen muss.
+
+Der gleiche Sprach-Stack wird nun für die umgekehrte Richtung vorgeschlagen: [[voice-based-ai-feedback-interviews-higher-ed-2026|Tamme, Schilling & Hantel (2026)]] planen einen auf ElevenLabs basierenden Telefon-Agenten, der Studierende in 5–7-minütigen Gesprächen mit adaptiven Nachfragen zu einem Kurs befragt. Ihr abgeschlossenes Münchner Pilotprojekt stellte die Machbarkeit fest; die geplante Feldstudie, in einem MIT-Sloan-Kurs mit etwa 60 Studierenden, hat keine Ergebnisse berichtet.
 
 ## KI in mündlichem und gesprochenem Assessment
 
@@ -103,20 +107,22 @@ Fast jede starke Behauptung hier ruht auf einer kurzen Studie. Die beiden TTS-Le
 
 ## Verbundene Artikel
 
-- [[asr-english-speaking-feedback-metacognition-2026]] — ASR speaking feedback: quality beats quantity, and proficiency moderates who benefits (Chen et al. 2026)
-- [[genai-pronunciation-feedback-wtc-2026]] — Pronunciation self-efficacy mediates GenAI pronunciation feedback and willingness to communicate (1,701 EFL learners)
-- [[llm-tts-dialogue-lesson-generation]] — LLM + TTS lesson pipeline: synthetic narration matched instructor voice; dialogue aided comprehension
-- [[tts-dialogue-lessons-learner-characteristics-2026]] — Learning-style × dialogue-format interactions in TTS-generated lessons (222 students)
-- [[ai-interlocutor-l2-spoken-dialogue]] — Human versus AI interlocutors: supported monologue, uptake, and syntactic priming in L2 German
-- [[kutti-ai-voice-first-learning-companion]] — Voice-first offline companion with real-time struggle detection for visually impaired children
-- [[agent-voice-accents-k12-group-learning]] — Agent accent shapes anthropomorphization and collaboration in K-12 group work (33 teachers)
-- [[asynchronous-oral-assessment-2026]] — Asynchronous oral assessments: scalable spoken assessment, with a learning-gains caveat
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — Review making the case for oral exams as authentic, integrity-protective assessment
-- [[ai-supported-oral-assessment-tvet-2026]] — AkoVoice: offline voice assessment in vocational workshops where AI surfaces evidence, not grades
-- [[student-ai-interaction-consecutive-interpreting-2026]] — Four interaction profiles among interpreting trainees using ASR/MT support
-- [[gpt-item-generation-l2-listening-2026]] — Prompting versus fine-tuning GPT for L2 listening item generation
-- [[multimodal-embodied-cognition-oral-explanations-2026]] — Gesture plus speech: why speech-only oral assessment misses evidence of understanding
-- [[ai-guided-learning-audiovideo-2026]] — Adaptive audio speed, voice-preserving video summaries, and unlabeled pronunciation feedback
-- [[llm-question-generation-deaf-hard-of-hearing-2026]] — LLM question generation for deaf and hard-of-hearing learners
-- [[ai-tutor-modality-randomized-field-experiment-2026]] — When AI Tutors Speak: Evidence from a Randomized Field Experiment
-- [[ai-mediated-input-medical-english-asr-2026]] — AI-Mediated Input Transformation in Medical English: Speech Recognition and Transcript Reliability
+- [[chatbots-oral-proficiency-efl-systematic-review]] — Genauigkeitsgewinne nur durch Sprachenlern-Chatbots, und ASR-Fehlschläge bei akzentuierten Namen
+- [[voice-based-ai-feedback-interviews-higher-ed-2026]] — Ein Telefon-Sprachagent, der den Feedback-Kanal selbst übernahm
+- [[asr-english-speaking-feedback-metacognition-2026]] — ASR-Sprecherfeedback: Qualität schlägt Quantität, und Proficiency moderiert, wer profitiert (Chen et al. 2026)
+- [[genai-pronunciation-feedback-wtc-2026]] — Selbstwirksamkeit in Aussprache mediierte GenAI-Aussprachefeedback und die Kommunikationsbereitschaft (1.701 EFL-Lernende)
+- [[llm-tts-dialogue-lesson-generation]] — LLM-plus-TTS-Lernstunden-Pipeline: synthetische Erzählung erreichte die Stimme der Lehrenden; Dialog unterstützte das Verständnis
+- [[tts-dialogue-lessons-learner-characteristics-2026]] — Lernstil-×-Dialogformat-Interaktionen in TTS-generierten Lernstunden (222 Studierende)
+- [[ai-interlocutor-l2-spoken-dialogue]] — Menschlicher versus KI-Gesprächspartner: unterstützter Monolog, Aufnahme und syntaktisches Priming im L2-Deutsch
+- [[kutti-ai-voice-first-learning-companion]] — Sprach-erster Offline-Begleiter mit Echtzeit-Erkennung von Schwierigkeiten für blinde Kinder
+- [[agent-voice-accents-k12-group-learning]] — Der Akzent des Agenten formt Anthropomorphisierung und Zusammenarbeit in K-12-Gruppenarbeit (33 Lehrkräfte)
+- [[asynchronous-oral-assessment-2026]] — Asynchrone mündliche Assessments: skalierbares Sprechassessment, mit dem Vorbehalt bezüglich Lernzuwächse
+- [[fenton-oral-exams-ai-authentic-assessment-2025]] — Review, die das Plädoyer für mündliche Prüfungen als authentisches, integritätsschützendes Assessment trägt
+- [[ai-supported-oral-assessment-tvet-2026]] — AkoVoice: Offline-Sprachassessment in beruflichen Werkstätten, wo KI Evidenz an die Oberfläche bringt statt Noten
+- [[student-ai-interaction-consecutive-interpreting-2026]] — Vier Interaktionsprofile unter Dolmetschtrainees mit ASR-/MT-Unterstützung
+- [[gpt-item-generation-l2-listening-2026]] — Prompting versus Feinjustierung von GPT für die Generierung von L2-Hör-Items
+- [[multimodal-embodied-cognition-oral-explanations-2026]] — Gestik plus Sprache: Warum Sprach-allein-Assessment Evidenz des Verstehens verfehlt
+- [[ai-guided-learning-audiovideo-2026]] — Adaptive Audiogeschwindigkeit, stimmerhaltende Videozusammenfassungen und unannotiertes Aussprachefeedback
+- [[llm-question-generation-deaf-hard-of-hearing-2026]] — LLM-gestützte Fragengenerierung für gehörlose und schwerhörige Lernende
+- [[ai-tutor-modality-randomized-field-experiment-2026]] — Wenn KI-Tutoren sprechen: Evidenz aus einem randomisierten Feldexperiment
+- [[ai-mediated-input-medical-english-asr-2026]] — KI-vermittelte Eingabetransformation im Medical English: Spracherkennung und Transkript-Zuverlässigkeit

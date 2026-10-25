@@ -1,7 +1,7 @@
 ---
 title: AIED-Forschung interpretieren und anwenden
 created: "2026-09-19T05:41:27-04:00"
-updated: "2026-10-10T09:04:24-04:00"
+updated: "2026-10-24T19:50:00-04:00"
 type: concept
 foundations: [limitations-in-aied-research]
 research_method: [literature review]
@@ -13,7 +13,7 @@ page_kind: [evaluation, framework]
 confidence: high
 connected_faqs: [reporting-interpreting-aied-research, research-gaps-aied, how-can-ai-assist-with-educational-research]
 translation_of: concepts/interpreting-and-applying-aied-research
-source_updated: "2026-10-05T11:23:36-04:00"
+source_updated: "2026-10-16T08:47:09-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -68,6 +68,7 @@ Wenn Sie sich eine Sache von dieser Seite merken, merken Sie, dass die Schlagzei
 - **Ein Produktname ist keine Lehrmethode.** Bei der Prüfung der Vergleiche hinter einer prominenten Metaanalyse fand [[weidlich-chatgpt-effect-search-cause-2025|Weidlich et al. (2025)]] nur **21%** mit wohldefinierter Behandlung, einer Kontrollgruppe und einem validen Lernmaß –, und der berichtete Vorteil für „ChatGPT nutzen" kam größer heraus als für zweckgebaute [[intelligent-tutoring|intelligente Tutoring-Systeme]] (g = 0.7 gegenüber 0.66), was eher ein Warnsignal als ein Triumph ist.
 - **Leistung mit dem Werkzeug wird routinemäßig für Lernen gehalten.** In einer [[k-12|K-12]]-Mathematikstudie verdienten Studierende, die mit einem zweckallgemeinen [[conversational-ai|Chatbot]] übten, bessere Übungsnoten und punkteten dann bei der Abschlussprüfung mit geschlossenem Buch **etwa 17% schlechter** als Peers ohne KI-Zugang ([[stanford-evidence-base-ai-k12-2026|Stanford-Evidenzbasis für KI in der K-12]]).
 - **Die eigenen Reviews des Felds überstehen Prüfung nicht.** [[oneill-presumed-effective-meta-analysis-2026|O'Neills (2026)]] Prüfung von **14 begutachteten Metaanalysen**, die behaupten, KI verbessere Bildung, fand, dass **keine** eine gültige Basis für die von ihr vertretene Behauptung lieferte, und unter 46 zufällig ausgewählten Primärstudien präsentierten **61%** Validitätsbedenken. Das Problem ist nicht ein schlechtes Papier; es ist eine Berichtskultur.
+- **Ein Review kann die Berichtsverzerrung in seinem eigenen Korpus quantifizieren.** Ein systematischer Review von 155 Hochschulstudien fand, dass 117 (75,5 %) eine erfolgreiche Umsetzung berichteten, 124 (80,0 %) nur kurzfristige Wirkung abdeckten und nur 23 (14,8 %) über [[ethics|Ethik]]-, Gerechtigkeits- oder Governance-Missstände berichteten — das Ungleichgewicht, das die Prüfungen oben beschreiben, gemessen auf der eigenen Evidenzbasis des Reviews ([[ai-higher-ed-service-delivery-systematic-review-2026|Nyamboga (2026)]]).
 - **Selbstauskünfte schmeicheln jedem.** Menschen bewerten ihre eigenen [[ai-literacy|KI-Fähigkeiten]] etwa **40%** höher, als Leistungsmaße zeigen, weshalb Zufriedenheits- und Konfidenzerhebungen die schwächste Evidenz sind, nach der Sie handeln können ([[self-report-measures|Selbstauskunftsmaße]], [[educational-measurement|Bildungsmessung]]).
 - **Die meisten bereits in Klassenräumen befindlichen Produkte haben überhaupt keine unabhängige Evidenz.** Die [[instruction-partners-ai-in-action-learning-tour-2026|Learning Tour von Instruction Partners 2025–26]] profilierte 20 studierendenorientierte KI-Produkte und fand, dass von den 16 mit vollständigen Profilen nur sieben einen unabhängigen Review hatten, der studentische Leistung über Studierendengruppen hinweg in den USA untersuchte; zwei wurden nur im Ausland untersucht, vier hatten Studien in Arbeit und drei stützten sich auf interne Daten allein. Die Autorinnen und Autoren argumentieren, dass unabhängige kausale Studien, die prioritäre Gruppen abdecken, die Erwartung für alle studierendenorientierten Produkte sein sollten – noch nicht die Norm für Werkzeuge, die Schulen bereits nutzen.
 
@@ -171,14 +172,15 @@ Die Prüfungen oben sind kein Volkswissen; sie kommen von dokumentierten Fehlsch
 
 - [[oneill-presumed-effective-meta-analysis-2026]] — Presumed Effective: forensische Prüfung von 14 AIED-Metaanalysen
 - [[bartos-ai-learning-meta-meta-analysis-2026]] — Publication-bias-adjustierte KI-Effekte bei etwa einem Drittel der berichteten Größe
-- [[weidlich-chatgpt-effect-search-cause-2025]] — ChatGPT in Education: An Effect in Search of a Cause
-- [[ai-supported-instruction-stem-meta-analysis-2026]] — Inclusion criteria used as the rigor threshold, and heterogeneity that changes with the model
-- [[know-when-to-trust-ai-scoring-reliability-2026]] — When automated scoring reliability meets the task's measurement ceiling
-- [[verification-quality-reliance-calibration-genai-2026]] — What the verification and reliance literature does not measure
-- [[citation-errors-hallucinations-computing-education-2026]] — Fabricated references that reached print in 2025–2026
-- [[stanford-evidence-base-ai-k12-2026]] — Practice gains, exam losses: the assistance-removal problem in K-12 math
-- [[ai-tutoring-micro-rct-gcse-science-2026]] — Subgroup effects whose confidence intervals cross zero
-- [[chick-faculty-development-ethical-ai-2026]] — Enabling conditions: policy signals, personal subscriptions, no time
-- [[ai-tutoring-quality-k12-methodologies-2026]] — Vendor metrics with their calibration and experiment count disclosed
-- [[ai-assisted-assessment-instruction-higher-ed-2026]] — Findings tied to model versions, and the field's churn
-- [[instruction-partners-ai-in-action-learning-tour-2026]] — Independent-evidence counts for 16 student-facing AI products already in use
+- [[weidlich-chatgpt-effect-search-cause-2025]] — ChatGPT in der Bildung: ein Effekt auf der Suche nach einer Ursache
+- [[ai-supported-instruction-stem-meta-analysis-2026]] — Einschlusskriterien als Rigor-Schwelle verwendet, und Heterogenität, die sich mit dem Modell verändert
+- [[know-when-to-trust-ai-scoring-reliability-2026]] — Wenn die Reliabilität automatischer Bewertung auf die Messdecke der Aufgabe trifft
+- [[verification-quality-reliance-calibration-genai-2026]] — Was die Literatur zu Verifikation und Verlassenheit nicht misst
+- [[citation-errors-hallucinations-computing-education-2026]] — Erfundene Referenzen, die 2025–2026 den Druck erreichten
+- [[stanford-evidence-base-ai-k12-2026]] — Übungsgewinne, Prüfungsverluste: das Problem des Wegnehmens der Unterstützung im K-12-Mathematikunterricht
+- [[ai-tutoring-micro-rct-gcse-science-2026]] — Subgruppeneffekte, deren Konfidenzintervalle die Null kreuzen
+- [[chick-faculty-development-ethical-ai-2026]] — Ermöglichende Bedingungen: Politiksignale, persönliche Abonnements, keine Zeit
+- [[ai-tutoring-quality-k12-methodologies-2026]] — Hersteller-Kennzahlen mit offengelegter Kalibrierung und Experimentanzahl
+- [[ai-assisted-assessment-instruction-higher-ed-2026]] — Befunde, die an Modellversionen gebunden sind, und die Fluktuation des Felds
+- [[instruction-partners-ai-in-action-learning-tour-2026]] — Zählungen unabhängiger Evidenz für 16 bereits im Einsatz befindliche, auf Studierende zielende KI-Produkte
+- [[ai-higher-ed-service-delivery-systematic-review-2026]] — Ein Review kann die Berichtsverzerrung in seinem eigenen Korpus quantifizieren

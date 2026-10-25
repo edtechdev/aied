@@ -1,7 +1,7 @@
 ---
 title: Mixed-Methods-Forschung
 created: "2026-08-24T02:10:00-04:00"
-updated: "2026-10-10T09:04:24-04:00"
+updated: "2026-10-24T20:27:31-04:00"
 type: concept
 research_method: [survey]
 confidence: high
@@ -33,6 +33,8 @@ ai_assist:
 
 Mixed-Methods-Designs integrieren die Breite, Präzision und kausale Kraft quantitativer Methoden mit der Tiefe, dem Kontext und der Bedeutung qualitativer Methoden. Das Wertversprechen ist **Triangulation**: wenn unabhängige Stränge auf dieselbe Schlussfolgerung konvergieren, steigt die Konfidenz; wenn sie divergieren, ist die Diskrepanz selbst informativ.
 
+Über 394 GenAI-Hochschulbildungsstudien hinweg war Mixed Methods das häufigste Forschungsdesign (213 Studien, 54%), gefolgt von quantitativer (109, 28%) und qualitativer (72, 18%) Forschung ([[mapping-genai-higher-ed-scoping-review|Lin et al. (2026)]]).
+
 ## Verbreitete Designmuster
 
 - **Sequenziell erklärend (QUAN → qual).** Quantitative Daten werden zuerst erhoben, dann erklären oder kontextualisieren qualitative Daten überraschende oder signifikante quantitative Befunde. [[genai-over-reliance-learning-2026|Eine Mixed-Methods-Studie zu generativer KI und nachhaltigem Lernen]] paart dreiwellige Erhebungen mit Interviews von Lehrenden, um das quantitative Muster von Erweiterung zu Überabhängigkeit zu erklären.
@@ -55,6 +57,7 @@ Mixed-Methods-Designs integrieren die Breite, Präzision und kausale Kraft quant
 - **Stärken:** Triangulation erhöht die Konfidenz; quantitative Breite plus qualitative Tiefe; kann unerwartete Ergebnisse erklären und Mechanismus mit Größe überbrücken; produziert sowohl Effekte als auch Bedeutung; gut geeignet für komplexe, kontextuelle Phänomene der KI-Bildung.
 - **Grenzen:** komplex, ressourcenintensiv und methodologisch anspruchsvoll; Integration kann flach sein, wenn Stränge bloß nebeneinander berichtet statt echt verschmolzen werden; erbt weiterhin die Schwächen jedes Strangs (z. B. Selbstauskunfts-Bias in Erhebungen, Forscherabhängigkeit in Interviews); erfordert Profizienz in beiden methodischen Traditionen.
 - **Eine Cluster-Grenze, die die Inferenz begrenzt.** [[human-ai-collaboration-academic-writing-2026|Alshehri et al. (2026)]] weisen zwei intakte Klassen zu (n = 31, n = 22), deshalb ignorieren mit nur zwei Clustern die berichteten t-Tests die Intraclass-Nestung und Multilevel-Modelle sind nicht schätzbar, was die Signifikanztests optimistisch darüber macht, was das Design stützen kann.
+- **Instrumentenwahl kann einen rechnergestützten Strang umdrehen.** VADER und ein feinabgestimmtes RoBERTa ordneten derselben Bluesky-Notiz entgegengesetzte Valenz zu (0,9413 stark positiv unter VADER, −0,9209 unter RoBERTa), sodass die quantitative Lesart eines Korpus davon abhängen kann, welcher Klassifikator genutzt wird ([[bluesky-aied-discourse-social-media-analysis-2026|Geraili Meykola et al., 2026]]).
 
 ## Beziehung zur weiteren Methodenlandschaft
 
@@ -73,11 +76,12 @@ Mixed Methods sitzt zwischen den [[quantitative-research|quantitativen]] und [[q
 
 ## Verbundene Artikel
 
-- [[genai-over-reliance-learning-2026]] — From enhancement to over-reliance (surveys + interviews)
-- [[t2i-competence-paradox-2026]] — The competence paradox (focus groups + survey + interviews)
-- [[fouad-bentley-trust-utility-gap-physics-2026]] — Trust–utility gap (survey + interviews)
-- [[same-ai-different-pathways]] — Mechanisms of AI-mediated learning across contexts
-- [[genai-feedback-design-multisite-experiment]] — Human-centered GenAI feedback design (multisite)
-- [[hazra-safetutors-pedagogical-safety-2026]] — AI tutor safety and pedagogical harms
-- [[becker-chatgpt-typology-physics-2026]] — A qualitative typology of ChatGPT adoption in physics
-- [[edtech-privacy-deferral-2026]] — „We'll Fix It Later": Education, AI, and the Deferral of Student Privacy in EdTech
+- [[genai-over-reliance-learning-2026]] — Von der Verstärkung zur Über-Verlassenheit (Befragungen + Interviews)
+- [[t2i-competence-paradox-2026]] — Das Kompetenz-Paradox (Fokusgruppen + Befragung + Interviews)
+- [[fouad-bentley-trust-utility-gap-physics-2026]] — Vertrauens–Nützlichkeits-Lücke (Befragung + Interviews)
+- [[same-ai-different-pathways]] — Mechanismen KI-vermittelten Lernens über Kontexte hinweg
+- [[genai-feedback-design-multisite-experiment]] — Menschenzentriertes GenAI-Feedbackdesign (Multisite)
+- [[hazra-safetutors-pedagogical-safety-2026]] — Sicherheit von KI-Tutoren und pädagogische Schäden
+- [[becker-chatgpt-typology-physics-2026]] — Eine qualitative Typologie der ChatGPT-Aneignung in der Physik
+- [[edtech-privacy-deferral-2026]] — „We'll Fix It Later“: Bildung, KI und das Aufschieben von Datenschutz für Lernende in EdTech
+- [[bluesky-aied-discourse-social-media-analysis-2026]] — VADER und ein feinabgestimmtes RoBERTa ordneten derselben Bluesky-Notiz entgegengesetzte Valenz zu (Geraili Meykola et al., 2026)

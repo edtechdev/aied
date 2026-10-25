@@ -1,7 +1,7 @@
 ---
 title: "Was sind Best Practices für das Berichten und Deuten von Forschung zu KI in der Bildung?"
 created: "2026-09-16T15:05:00-04:00"
-updated: "2026-10-10T09:50:26-04:00"
+updated: "2026-10-24T23:55:00-04:00"
 connected_faqs: [checking-whether-educational-ai-works, research-gaps-aied, evaluating-ai-interventions-methods]
 weight: 65
 type: faq
@@ -13,7 +13,7 @@ audience: [researchers]
 page_kind: [evaluation]
 methods: [ai-ed-evaluation, benchmark, meta-analysis-systematic-review, research-methods-aied]
 translation_of: faqs/reporting-interpreting-aied-research
-source_updated: "2026-10-02T08:21:34-04:00"
+source_updated: "2026-10-21T14:32:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -24,8 +24,6 @@ ai_assist:
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
-
-# Was sind Best Practices für das Berichten und Deuten von Forschung zu KI in der Bildung?
 
 Sie schreiben eine Studie zu KI in der Bildung auf, deren Behauptung ihrem Design bereits vorausläuft, oder Sie begutachten eine und entscheiden, ob die Schlagzeilenzahl irgendetwas bedeutet. So oder so entscheiden dieselben sechs Auslassungen: welches KI-System tatsächlich genutzt wurde, was es zu tun konfiguriert war, welche pädagogische Rolle es spielte, ob Menschen ihre Ausgabe designten oder prüften, was das Ergebnismaß wirklich erfasste, und was die Autoren gegen Bias, Kosten und Grenzen taten. Eine Autorin oder ein Autor, die sie auslässt, reicht eine Studie ein, die nicht bewertet werden kann; eine Gutachterin oder ein Gutachter, die nicht nach ihnen suchen, kann eine designte Intervention nicht von einer recycelten Werkzeugdemonstration unterscheiden. „Nicht bewertbar" –, nicht „gestützt" und nicht „widerlegt" –, ist das ehrliche Urteil, wenn sie fehlen.
 

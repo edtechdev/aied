@@ -1,14 +1,14 @@
 ---
 title: Verkörpertes Lernen
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-10-10T09:04:25-04:00"
+updated: "2026-10-24T20:10:02-04:00"
 type: concept
 foundations: [computational-thinking]
 pedagogy: [active-learning, embodied-learning, situated-learning]
 technology: [educational-robotics]
 confidence: high
 translation_of: concepts/embodied-learning
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-23T22:31:18-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -51,6 +51,7 @@ Ein zweiter, theoretischerer Strang der Verkörperungsforschung der Wissensbasis
 - **Verkörperung, Situiertheit und soziale Konstruktion.** Im [[science-education|Naturwissenschaftslernen]] fungieren KI-Werkzeuge als „mediationale Artefakte“, die digitale Praxisgemeinschaften und Grenzüberschreitungen ermöglichen und verkörperte, authentische Untersuchung mit realweltlichen und interdisziplinären Kontexten verbinden.([[li-ai-science-situated-learning-teachers-2025]]) Das bindet Verkörperung an [[situated-learning|situiertes Lernen]] und [[distributed-cognition|verteilte Kognition]].
 
 Verkörpertes Lernen verbindet sich mit [[educational-robotics|Bildungsrobotik]], [[educational-robotics|Robotik in der Bildung]], [[educational-robotics|robotischen Systemen]], [[active-learning|aktivem Lernen]], [[experiential-learning|erfahrungsbasiertem Lernen]], [[situated-learning|situiertem Lernen]], [[distributed-cognition|verteilter Kognition]], [[computational-thinking|computational thinking]] und [[social-emotional-learning|sozial-emotionalem Lernen]].
+- **Körperverfolgung macht Selbstregulation zu einem messbaren Signal.** In einer Mixed-Reality-Photosynthese-Simulation, in der Bewegungs-Tags Lernenden-Agenten über ein projiziertes Modell bewegten, klassifizierte eine LLM-Pipeline 470 Segmente selbstregulierten Verhaltens in 40 Minuten Video, wobei das Segment-Label „dominating" mit 66,4 % am häufigsten vertreten war ([[fonteles-embodied-learning-human-in-the-loop-multimodal-2026|Fonteles et al., 2026]]).
 
 ## Verbundene Konzepte
 - [[educational-robotics]]
@@ -66,14 +67,15 @@ Verkörpertes Lernen verbindet sich mit [[educational-robotics|Bildungsrobotik]]
 - [[virtual-and-augmented-reality]] — die Modalität, die Verkörperung direkt auszunutzen versucht
 
 ## Verbundene Artikel
-- [[multimodal-embodied-cognition-oral-explanations-2026]] — A Multimodal Framework for Embodied Cognition in Oral Explanations
-- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Fostering Sustainable Learning via Embodied Intelligence (E3-HOT)
+- [[fonteles-embodied-learning-human-in-the-loop-multimodal-2026]] — Mit Bewegungsverfolgung versehene Photosynthese-Simulation, analysiert mit einer LLM-Pipeline (Fonteles et al. 2026)
+- [[multimodal-embodied-cognition-oral-explanations-2026]] — Ein multimodaler Rahmen für verkörperte Kognition in mündlichen Erklärungen
+- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Dauerhaftes Lernen durch verkörperte Intelligenz fördern (E3-HOT)
 - [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly Studio
 - [[motibo-digital-storytelling-robots-motivation-2026]] — MotiBo
 - [[remind-robot-mediated-roleplay-antibullying-2026]] — REMind
-- [[pepper-robot-sign-language-lis-2025]] — Pepper and Sign Language
-- [[enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen]] — Robot-LLM Integration in Creative Writing
-- [[robot-assisted-language-learning-meta-analysis-2026]] — Meta-analysis of AI-enhanced embodied robot-assisted language learning
+- [[pepper-robot-sign-language-lis-2025]] — Pepper und Gebärdensprache
+- [[enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen]] — Integration von Robotern und LLMs im kreativen Schreiben
+- [[robot-assisted-language-learning-meta-analysis-2026]] — Metaanalyse KI-gestützten verkörperten robotergestützten Sprachlernens
 - [[vargas-situated-learning-ai-review-2024]]
 - [[li-ai-science-situated-learning-teachers-2025]]
 - [[vargas-ai-catalyst-situated-learning-2026]]

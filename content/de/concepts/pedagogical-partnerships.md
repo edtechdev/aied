@@ -1,7 +1,7 @@
 ---
 title: "Pädagogische Partnerschaften"
 created: "2026-08-31T09:45:00-04:00"
-updated: "2026-10-10T09:04:23-04:00"
+updated: "2026-10-24T21:37:05-04:00"
 type: concept
 foundations: [agency, curriculum-design, learning-design, teacher-role]
 pedagogy: [collaborative-learning, pedagogical-partnerships, pedagogy, student-engagement]
@@ -122,12 +122,12 @@ Für Bildungsfachkräfte und Institutionen, die pädagogische Partnerschaft einf
 
 ## Verbundene Artikel
 
-- [[guided-inquiry-genai-course-policy-2026]] — A Guided Inquiry Approach to Students Co-Designing Generative AI Course Policies
-- [[lo-co-creating-custom-gpts-sap-2026]] — Co-creating custom GPTs: an autoethnographic study of undergraduate students as partners in generative AI innovation
-- [[williams-ingle-assessment-co-creation-ai-2025]] — Assessment design through co-creation: Student-staff partnership in evaluating AI
-- [[matthews-five-guiding-principles-ai-sap-trust-2025]] — Five guiding principles for navigating AI in students as partners practice to preserve pedagogical trust
-- [[chang-co-designing-ai-youth-relational-privacy-2025]] — Co-designing AI with youth partners: a relational privacy ethical framework
-- [[fawns-entangled-pedagogy-genai-students-2026]] — Illuminating complex student realities of AI through an entangled pedagogy framework
-- [[anastasia-shared-agency-partnership-framework-2026]] — Shared Agency: The Agency Partnership Framework for Instructor–Student Collaboration
-- [[maybee-disruptive-partnerships-sap-2025]] — Disruptive Partnerships: Collaborating with Students in Information Studies
+- [[guided-inquiry-genai-course-policy-2026]] — Ein angeleiteter Erkundungsansatz für Studierende beim Mitgestalten generativer KI-Kursrichtlinien
+- [[lo-co-creating-custom-gpts-sap-2026]] — Mit-Erzeugung maßgeschneiderter GPTs: eine autoethnografische Studie zu Studierenden der Grundstufe als Partner in der Innovation mit generativer KI
+- [[williams-ingle-assessment-co-creation-ai-2025]] — Assessmentdesign durch Mit-Erzeugung: Partnerschaft von Studierenden und Personal bei der Evaluation von KI
+- [[matthews-five-guiding-principles-ai-sap-trust-2025]] — Fünf Leitprinzipien für den Umgang mit KI in der Praxis „Studierende als Partner“ zur Bewahrung pädagogischen Vertrauens
+- [[chang-co-designing-ai-youth-relational-privacy-2025]] — Mit-Design von KI mit jugendlichen Partnern: ein relationales ethisches Rahmenwerk zum Datenschutz
+- [[fawns-entangled-pedagogy-genai-students-2026]] — Die komplexen Realitäten von Studierenden mit KI im Licht eines verwobenen-pädagogie-Frameworks
+- [[anastasia-shared-agency-partnership-framework-2026]] — Geteilte Handlungsfähigkeit: Das Agency-Partnership-Framework für die Zusammenarbeit von Lehrenden und Studierenden
+- [[maybee-disruptive-partnerships-sap-2025]] — Disruptive Partnerschaften: Zusammenarbeit mit Studierenden in den Informationswissenschaften
 - [[student-centered-genai-responsible-framework-2026]] — Studierendenzentriertes Framework für verantwortungsvolle generative KI-Nutzung

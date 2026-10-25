@@ -1,7 +1,7 @@
 ---
 title: Qualitative Forschung
 created: "2026-08-24T02:00:00-04:00"
-updated: "2026-10-10T09:04:25-04:00"
+updated: "2026-10-24T21:41:34-04:00"
 type: concept
 research_method: [interviews, case study]
 confidence: high
@@ -92,7 +92,7 @@ Qualitative und quantitative Methoden sind Ergänzungen, keine Rivalen — siehe
 - [[mixed-methods-research]]
 - [[quantitative-research]]
 - [[theory-development-aied]]
-- [[ai-assisted-educational-research]] — AI-Assisted Educational Research
+- [[ai-assisted-educational-research]] — KI-gestützte Bildungsforschung
 - [[educational-measurement]]
 - [[educational-nlp]]
 - [[ai-ed-evaluation]]
@@ -104,21 +104,21 @@ Qualitative und quantitative Methoden sind Ergänzungen, keine Rivalen — siehe
 
 ## Verbundene Artikel
 
-- [[chain-behind-claim-warrantability-2026]] — warrantability standard for AI-assisted qualitative analysis
-- [[liu-tool-tutor-crutch-programming-2026]] — Tool, Tutor, or Crutch: a grounded theory of AI-assisted programming
-- [[trio-ethnography-llm-programming-education]] — A trio-ethnography of interpretation evolution in LLM-supported programming
-- [[absent-cognitive-baseline-2026]] — Theorizing a structural gap in AI-native students' self-assessment
-- [[t2i-competence-paradox-2026]] — The competence paradox in text-to-image GenAI use
-- [[fouad-bentley-trust-utility-gap-physics-2026]] — Trust–utility gap in physics education
-- [[genai-teacher-feedback-comparison]] — Comparing GenAI and teacher feedback: student perceptions
-- [[hazra-safetutors-pedagogical-safety-2026]] — AI tutor safety and pedagogical harms
-- [[zha-ai-literacy-biology-case-study]] — Case study of AI-literacy integration in a biology class
-- [[becker-chatgpt-typology-physics-2026]] — A qualitative typology of ChatGPT adoption in physics
-- [[scaffolding-critical-engagement-genai-minority-students]] — Collaborative discourse in prompt engineering among ethnic-minority students
-- [[human-vs-llm-ordered-coding]] — Comparing human and LLM ordered coding of qualitative data
-- [[agreement-not-quality-llm-coding-verification]] — Agreement is not quality in LLM qualitative coding
-- [[same-ai-different-pathways]] — Unpacking mechanisms of AI-mediated learning across contexts
-- [[drummond-genai-business-schools-framework-2026]] — Student-informed GenAI framework via case study
-- [[favero-critical-ai-tutors-empower-enslave-2025]] — Critical AI tutors: empower or enslave
-- [[genai-runaway-object-math-higher-ed]] — GenAI as a runaway object in higher-education mathematics
-- [[khlaif-assistive-genai-visually-impaired-2026]] — Assistive GenAI for visually impaired learners
+- [[chain-behind-claim-warrantability-2026]] — Warrantability-Standard für KI-gestützte qualitative Analyse
+- [[liu-tool-tutor-crutch-programming-2026]] — Werkzeug, Tutor oder Krücke: eine Grounded Theory KI-gestützter Programmierung
+- [[trio-ethnography-llm-programming-education]] — Eine Trio-Ethnografie der Entwicklung von Interpretationen in LLM-unterstützter Programmierung
+- [[absent-cognitive-baseline-2026]] — Theoretisierung einer strukturellen Lücke in der Selbsteinschätzung KI-native Studierender
+- [[t2i-competence-paradox-2026]] — Das Kompetenzparadox bei der Nutzung von Text-zu-Bild-GenAI
+- [[fouad-bentley-trust-utility-gap-physics-2026]] — Vertrauens–Nutzen-Lücke in der Physikbildung
+- [[genai-teacher-feedback-comparison]] — GenAI- und Lehrkräftefeedback im Vergleich: Wahrnehmungen von Studierenden
+- [[hazra-safetutors-pedagogical-safety-2026]] — Sicherheit von KI-Tutoren und pädagogische Schäden
+- [[zha-ai-literacy-biology-case-study]] — Fallstudie zur Integration von KI-Kompetenz in einem Biologieklassenraum
+- [[becker-chatgpt-typology-physics-2026]] — Eine qualitative Typologie der ChatGPT-Übernahme in der Physik
+- [[scaffolding-critical-engagement-genai-minority-students]] — Kollaborativer Diskurs im Prompt-Engineering unter Studierenden ethnischer Minderheiten
+- [[human-vs-llm-ordered-coding]] — Geordnete Kodierung qualitativer Daten durch Mensch und LLM im Vergleich
+- [[agreement-not-quality-llm-coding-verification]] — Übereinstimmung ist keine Qualität beim qualitativen Kodieren mit LLMs
+- [[same-ai-different-pathways]] — Mechanismen KI-vermittelten Lernens über Kontexte hinweg entpacken
+- [[drummond-genai-business-schools-framework-2026]] — Von Studierenden informiertes GenAI-Rahmenwerk über eine Fallstudie
+- [[favero-critical-ai-tutors-empower-enslave-2025]] — Kritische KI-Tutoren: empowern oder versklaven
+- [[genai-runaway-object-math-higher-ed]] — GenAI als „runaway object" in der Mathematik der Hochschulbildung
+- [[khlaif-assistive-genai-visually-impaired-2026]] — Assistive GenAI für sehbeeinträchtigte Lernende

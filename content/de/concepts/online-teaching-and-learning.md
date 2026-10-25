@@ -1,7 +1,7 @@
 ---
 title: Online-Lehre und -Lernen
 created: "2026-08-20T04:20:00-04:00"
-updated: "2026-10-10T09:04:24-04:00"
+updated: "2026-10-24T23:29:54-04:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, learning-design]
 pedagogy: [online-teaching-and-learning, pedagogy]
@@ -11,7 +11,7 @@ confidence: high
 connected_resources: [claw-ed, id-toolbox, liascript]
 connected_faqs: [asynchronous-online-courses-ai]
 translation_of: concepts/online-teaching-and-learning
-source_updated: "2026-09-30T16:25:27-04:00"
+source_updated: "2026-10-16T19:45:37-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -106,9 +106,10 @@ Welche Kombination eine Lehrkraft auch wählt, eine Einschränkung sollte sie pr
 - **Aktives und interaktives Lernen.** Strategien bevorzugen, die Studierende tun und denken lassen, statt passiv zu empfangen – [[active-learning|aktives Lernen]], interaktive Übungen und [[socratic-method|sokratischer]] Dialog. KI, die Schlussfolgern promptet (statt Antworten zu liefern), bewahrt den produktiven Kampf und [[desirable-difficulties|wünschenswerte Schwierigkeiten]], die dauerhaftes Lernen aufbauen.
 - **Gescaffoldete, angeleitete Unterstützung.** [[scaffolding|Scaffolding]] nutzen, das mit fortschreitenden Lernenden ausblendet, und [[self-regulated-learning|Selbstregulation]]-Unterstützung gestalten, damit Lernende ihr eigenes Lernen steuern statt vom Werkzeug abzuhängen.
 - **Kollaboratives und diskussionsbasiertes Lernen.** Online-Diskussionen und Gruppenarbeit absichtlich strukturieren; [[collaborative-learning|kollaborative Lern]]-Aktivitäten nutzen und, wenn KI teilnimmt, ihre Facilitation und ihre Rolle als Peer kalibrieren.
+- **Rolledesign ist die Intervention, nicht das Werkzeug.** In einem Online-Graduiertenkurs hob die Vergabe rotierender Moderations-, Analysten- und Argumentatorrollen an [[learners|Lernende]] und einen Partner mit generativer KI die Inhaltspunktzahlen von Gruppen-Mindmaps von M = 3.65 auf M = 4.59 auf einer 1-5-SOLO-Skala (z = 3.771, p < 0.001), während die Anzahl der Knoten und Zweige statistisch unverändert blieb ([[cheng-symbiotic-role-design-human-genai-collaboration-2026|Cheng et al. (2026)]]).
 - **Authentisches, prozessoffenbarendes Assessment.** Hin zu [[authentic-assessment|authentischem Assessment]] und Assessments bewegen, die Prozess erfassen – Entwürfe, mündliche Verteidigungen, Selbsterklärung, reflexive [[eportfolio|Portfolios]] –, die KI-resistenter sind und echtes Verständnis offenbaren.
 - **Personalisierte und adaptive Pfade.** KI-ermöglichte [[personalized-learning|Personalisierung]] und [[adaptive-learning|adaptive]] Aktivitäten nutzen, um Tempo und Schwierigkeit zuzuschneiden, während Personalisierung tief bleibt (Aufgabensequenzierung, Schwierigkeitskalibrierung) statt bloß oberflächlich (maßgeschneiderte Beispiele).
-- **Soziale Präsenz und Gemeinschaftsaufbau.** Soziale Präsenz und [[collaborative-learning|Gemeinschaft]] absichtlich kultivieren – der Kern des [[community-of-inquiry|Community-of-Inquiry]]-Frameworks – durch Begleit-KI, synchrone Check-ins und Peer-Interaktion, da Online-Isolation eine Schlüsselbarriere für [[student-engagement|Engagement]] und Zugehörigkeit ist. In der KI-Ära bedeutet das, die drei Präsenzen (kognitiv, sozial, Lehr-) zu kuratieren, selbst während maschinengenerierter Diskurs kompliziert, wer „präsent" ist (siehe [[community-of-inquiry|Community of Inquiry]]).
+- **Soziale Präsenz und Gemeinschaftsaufbau.** Soziale Präsenz und [[collaborative-learning|Gemeinschaft]] absichtlich kultivieren – der Kern des [[community-of-inquiry|Untersuchungsgemeinschaft]]-Frameworks – durch Begleit-KI, synchrone Check-ins und Peer-Interaktion, da Online-Isolation eine Schlüsselbarriere für [[student-engagement|Engagement]] und Zugehörigkeit ist. In der KI-Ära bedeutet das, die drei Präsenzen (kognitiv, sozial, Lehr-) zu kuratieren, selbst während maschinengenerierter Diskurs kompliziert, wer „präsent" ist (siehe [[community-of-inquiry|Untersuchungsgemeinschaft]]).
 - **Blended [[design-thinking]].** Für Hybridformate [[learning-design|Lerndesign]]-Prinzipien anwenden, um zu entscheiden, was am besten synchron gegenüber asynchron und online gegenüber in Präsenz getan wird, und wie KI jedes davon unterstützt.
 - **Die Rolle der KI benennen, und prüfen, dass die oder der Studierende noch eine hat.** „Studierende dürfen KI nutzen" ist zu breit, um dagegen zu designen. Rollen tragen verschiedene pädagogische Folgen – eine Studie zu generativer KI in der Marketingbildung unterscheidet **Tutor, Teamkollegin und Werkzeug** und zeigt, dass jede kognitive, soziale und Lehrpräsenz unterschiedlich prägt ([[genai-marketing-education-roles-2026|GenAI in der Marketingbildung]]) –, deshalb sollte eine Online-Aktivität ihre Arbeitsteilung nennen können: der Job der KI hier ist X, der Job der oder des Studierenden ist Y. Wenn Y wenig Denken enthält, braucht die Aktivität Neugestaltung statt einer strengeren Politik.
 - **Diskussion als Position, Herausforderung, Überdenkung sequenzieren.** Die konventionelle asynchrone Formel von einmal posten und zweimal antworten ist sowohl oberflächlich als auch agenten-absolvierbar. Eine stärkere Struktur bittet Studierende, sich auf eine Interpretation festzulegen, einem Gegenbeispiel oder einer Kritik zu begegnen und dann zu erklären, wie sich ihr Schlussfolgern bewegte; was benotet wird, ist die Bewegung zwischen Ideen statt der Beitragszahl. Das verlagert auch Lehrpräsenz: dutzende Beiträge mechanisch zu beantworten ist ihre am wenigsten wertvolle Form, während das Synthetisieren von Mustern über die Diskussion hinweg – die Annahmen, die immer wiederkehren, die Meinungsverschiedenheiten, die es zu benennen lohnt, das Gegenbeispiel, das einen Konsens verunsichert – der Teil ist, den kein Agent in dieser Literatur vollbringt.
@@ -122,6 +123,7 @@ Welche Kombination eine Lehrkraft auch wählt, eine Einschränkung sollte sie pr
 - **KI in die Lernumgebung einbetten, nicht als externen Aufsatz.** Zweckgebaute, kontextuell abgestimmte Assistenten, eingebettet in den Kurs (wie [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of|AIDA]]), übertreffen generische externe Chatbots und erhöhen Annahme.
 - **KI-Facilitation auf menschliche Vorsicht kalibrieren.** Bei der Nutzung von KI zur Moderation von Diskussionen Einstellungen bevorzugen, die sparsam intervenieren ([[llm-facilitation-timing-online-discussions|Tsirmpas et al.]]).
 - **Für Einschränkungen erwachsener Leben gestalten.** Für Erwachsene und Fernlernende mobilen Zugang, Offline-Fähigkeit und asynchrone Verfügbarkeit priorisieren ([[ai-adult-learning-guidelines-dis2026|AI-ALOE-Leitlinien]]).
+- **Komprimierte Formate brauchen Neugestaltung, nicht Kompression.** Sechswöchige asynchrone Graduiertenkurse für berufstätige Lehrkräfte sind eine institutionelle Randbedingung, die absichtsvolle Neugestaltung erfordert statt ein aus einem fünfzehnwöchigen Kurs komprimiertes Format, und KI-Dialog trägt Lehrpräsenz in die späten Stunden, die eine Lehrkraft nicht besetzen kann [[packard-thinking-partner-framework-adult-learners-2026|Packard et al. (2026)]].
 - **Mit Studierenden und Personal co-designen, und Governance aufbauen.** Partizipative Entwicklung, Sponsoring auf höchster Ebene, einheitenübergreifende Kollaboration und robuste [[governance|Governance]] sind ermöglichende Faktoren für verantwortungsvolle GenAI-Adoption.
 - **Annehmen, dass ein Agent jede unbeaufsichtigte Aktivität versuchen wird, und aus dieser Annahme designen.** Der Drei-Fragen-Test ist schnell und legt schwache Aktivitäten offen: könnte ein KI-System das ohne die oder den Studierenden erledigen, das Material zu verstehen; welche kognitive Aktivität soll das Lernen produzieren; welche Evidenz wird zeigen, dass die oder der Studierende sie vollzog. Wenn die erste Antwort ja ist und die anderen zwei schwer zu beantworten sind, ist das Problem das Lerndesign statt die KI-Politik.
 - **Verifikation verhältnismäßig zum Risiko halten.** Wo Kompetenz zertifiziert werden muss, eine Zwillingsaufgabe, eine asynchrone mündliche Verteidigung oder eine kurze Verständnisprüfung gegenüber flächiger Überwachung bevorzugen; den Rest des Kurses flexibel halten für die Lernenden, die auf dieser Flexibilität angewiesen sind.
@@ -131,7 +133,7 @@ Welche Kombination eine Lehrkraft auch wählt, eine Einschränkung sollte sie pr
 - [[pedagogical-patterns]] — Der Kontext, der Sequenzierung tragend macht, da das System einen Versuch nicht sehen kann
 - [[assessment-validity]] — Validität der Inferenz von eingereichter Arbeit zu Lernen
 - [[agentic-ai]] — autonome Systeme, die Werkzeuge und Plattformen bedienen, einschließlich eines LMS
-- [[community-of-inquiry]] — Community of Inquiry
+- [[community-of-inquiry]] — Untersuchungsgemeinschaft
 - [[pedagogy]]
 - [[learning-design]]
 - [[active-learning]]
@@ -157,26 +159,28 @@ Welche Kombination eine Lehrkraft auch wählt, eine Einschränkung sollte sie pr
 ## Verbundene Artikel
 - [[ai-agents-complete-lms-assessment-validity-2026]] — Autonome Agenten absolvierten unbeaufsichtigte LMS-Assessments end to end: ein Assessment-Validitätsproblem (Hadjisolomou & El-Haddad 2026)
 - [[roe-assessment-twins-2026]] — Assessment-Zwillinge: ein GenAI-verwundbares Aufgaben mit einem nah geplanten, weniger verwundbaren auf denselben Outcomes paaren
-- [[coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene]] — Coauthorship integrity as validity evidence, and the AI Viva as scalable verification
-- [[asynchronous-oral-assessment-2026]] — Asynchronous oral assessments: time-limited unrevised recordings graded against embedded rubrics
-- [[brcic-effortless-trap-productive-struggle-2026]] — The effortless trap: placement of AI rather than permission or prohibition
-- [[metacognitively-discordant-completion-genai-2026]] — Metacognitively discordant completion: correct work submitted without understanding
-- [[decreasing-digital-distraction-college-online-learning-2026]] — Which self-regulated strategies coincide with low digital distraction (530 students)
-- [[song-genai-learning-partner-srl-over-time-2026]] — SRL as stable aptitude and fluctuating state; metacognition and well-being declining across a term
-- [[genai-marketing-education-roles-2026]] — AI as tutor, teammate and tool: roles and their effects on presence
-- [[kirsanov-beyond-detection-ai-online-assessments-2026]] — Beyond detection: assessment design for online settings
-- [[reconceptualizing-community-inquiry-generative-ai]] — Reconceptualizing Community of Inquiry in the age of generative AI
-- [[lock-integrating-ai-online-learning-higher-ed-2025]] — Integrating AI in online learning in higher education: a four-theme critical literature review
-- [[mooc-to-maic]] — From MOOC to MAIC: Reshaping Online Teaching and Learning through LLM-driven Agents
-- [[learnmate2-llm-adaptive-learning]] — LearnMate²: Personalized and Adaptive Support System for Online Learning
-- [[llm-facilitation-timing-online-discussions]] — Human and LLM Facilitator Tendencies in Online Discussions
-- [[elevate-genai-virtual-tutors]] — ELEVATE: Human-Centered GenAI Virtual Tutors
-- [[conversational-ai-tutors-framework]] — The Path to Conversational AI Tutors
-- [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of]] — Implementing AIDA at the Open University
-- [[ai-adult-learning-guidelines-dis2026]] — Guidelines for Designing AI Technologies to Support Adult Learning
-- [[deeptutor]] — DeepTutor: Toward Agentic Personalized Tutoring
-- [[mejia-domenzain-ml-findings-teachers-blended-2026]] — Making ML findings accessible to teachers in blended classrooms
+- [[coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene]] — Coauthorship-Integrität als Validitätsevidenz, und die KI-Viva als skalierbare Verifikation
+- [[asynchronous-oral-assessment-2026]] — Asynchrone mündliche Assessments: zeitlich begrenzte, unrevidierte Aufnahmen, bewertet an eingebetteten Rubriken
+- [[brcic-effortless-trap-productive-struggle-2026]] — Die mühelose Falle: Platzierung von KI statt Erlaubnis oder Verbot
+- [[metacognitively-discordant-completion-genai-2026]] — Metakognitiv inkongruente Vollendung: korrekte Arbeit eingereicht ohne Verständnis
+- [[decreasing-digital-distraction-college-online-learning-2026]] — Welche selbstregulierten Strategien fallen mit geringer digitaler Ablenkung zusammen (530 Studierende)
+- [[song-genai-learning-partner-srl-over-time-2026]] — SRL als stabile Anlage und fluktuierender Zustand; Metakognition und Wohlbefinden nehmen über ein Semester hinweg ab
+- [[genai-marketing-education-roles-2026]] — KI als Tutor, Teamkollege und Werkzeug: Rollen und ihre Wirkungen auf Präsenz
+- [[kirsanov-beyond-detection-ai-online-assessments-2026]] — Jenseits der Detektion: Assessment-Design für Online-Settings
+- [[reconceptualizing-community-inquiry-generative-ai]] — Community of Inquiry im Zeitalter generativer KI rekonzeptualisieren
+- [[lock-integrating-ai-online-learning-higher-ed-2025]] — Integration von KI ins Online-Lernen in der Hochschulbildung: ein kritischer Literaturreview mit vier Themen
+- [[mooc-to-maic]] — Von MOOC zu MAIC: Online-Lehre und -Lernen durch LLM-gesteuerte Agenten neu gestalten
+- [[learnmate2-llm-adaptive-learning]] — LearnMate²: personalisiertes und adaptives Unterstützungssystem für Online-Lernen
+- [[llm-facilitation-timing-online-discussions]] — Tendenzen menschlicher und LLM-Facilitierender in Online-Diskussionen
+- [[elevate-genai-virtual-tutors]] — ELEVATE: menschzentrierte virtuelle GenAI-Tutoren
+- [[conversational-ai-tutors-framework]] — Der Weg zu konversationellen KI-Tutoren
+- [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of]] — Implementierung von AIDA an der Open University
+- [[ai-adult-learning-guidelines-dis2026]] — Leitlinien für das Design von KI-Technologien zur Unterstützung des Lernens Erwachsener
+- [[deeptutor]] — DeepTutor: auf dem Weg zu agentischem personalisiertem Tutoring
+- [[mejia-domenzain-ml-findings-teachers-blended-2026]] — ML-Befunde für Lehrkräfte in Blended-Classrooms zugänglich machen
 - [[zhang-ml-student-progress-programming-2026]]
-- [[personalized-ai-generated-videos-preference-2026]] — Students prefer personalized AI-generated videos over non-personalized human-recorded ones (Tomlinson et al. 2026)
-- [[hao-peer-exposure-bridging-social-capital-ai-summaries-2026]] — AI-Generated Summary-Driven Learning Design in Online Discussion Forums
-- [[ai-training-science-teacher-tpack-distance-2026]] — Campus-based student teachers reported higher TPACK for AI-integrated science teaching than distance education peers (64.0% versus 47.4%)
+- [[personalized-ai-generated-videos-preference-2026]] — Studierende bevorzugen personalisierte KI-erzeugte Videos gegenüber nicht personalisierten, von Menschen aufgenommenen (Tomlinson et al. 2026)
+- [[hao-peer-exposure-bridging-social-capital-ai-summaries-2026]] — KI-erzeugtes Lernesign durch Zusammenfassungen in Online-Diskussionsforen
+- [[ai-training-science-teacher-tpack-distance-2026]] — Campusbasierte Lehramtsstudierende berichteten höheres TPACK für KI-integrierten Naturwissenschaftsunterricht als Peers in der Fernbildung (64.0% versus 47.4%)
+- [[cheng-symbiotic-role-design-human-genai-collaboration-2026]] — Rolledesign ist die Intervention, nicht das Werkzeug
+- [[packard-thinking-partner-framework-adult-learners-2026]] — Sechswöchige asynchrone Graduiertenkurse für berufstätige Lehrkräfte: Format neugestalten statt komprimieren

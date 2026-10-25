@@ -1,7 +1,7 @@
 ---
 title: "Wie gehe ich mit KI in Gruppen- und Kollaborationsaufgaben um?"
 created: "2026-09-16T15:58:20-04:00"
-updated: "2026-10-10T09:50:26-04:00"
+updated: "2026-10-24T20:10:02-04:00"
 connected_faqs: [course-ai-policy, asynchronous-online-courses-ai]
 weight: 60
 type: faq
@@ -13,7 +13,7 @@ research_method: [interviews]
 audience: [instructors, instructional designers, assessment designers]
 level: [higher ed, secondary]
 translation_of: faqs/group-work-ai
-source_updated: "2026-10-02T08:21:34-04:00"
+source_updated: "2026-10-21T14:32:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:

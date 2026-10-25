@@ -1,7 +1,7 @@
 ---
 title: "Wie kann KI behinderte und neurodivergente Lernende in meinem Kurs unterstützen?"
 created: "2026-09-16T15:58:20-04:00"
-updated: "2026-10-10T09:50:26-04:00"
+updated: "2026-10-24T20:58:00-04:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, reducing-over-reliance]
 weight: 65
 type: faq
@@ -11,7 +11,7 @@ research_method: [case study]
 audience: [instructors, instructional designers]
 level: [higher ed, k 12, special education]
 translation_of: faqs/ai-disabled-neurodivergent-learners
-source_updated: "2026-10-02T08:21:34-04:00"
+source_updated: "2026-10-21T14:32:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -22,8 +22,6 @@ ai_assist:
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
-
-# Wie kann KI behinderte und neurodivergente Lernende in meinem Kurs unterstützen?
 
 Sie sind die Lehrkraft, die gerade einen Nachteilsausgleichsbrief erhalten hat, die Barrierefreiheits-Verantwortliche, die über eine Lizenz entscheidet, oder die Koordination der Behindertendienste, die bis Freitag eine Werkzeuganfrage beantworten muss. Sie brauchen keinen Literaturreview. Sie brauchen eine vertretbare Entscheidung: was annehmen, was ablehnen, und woran man erkennt, ob das Zugelassene dem Studenten vor Ihnen tatsächlich geholfen hat.
 

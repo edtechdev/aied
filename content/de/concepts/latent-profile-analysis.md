@@ -1,7 +1,7 @@
 ---
 title: Latent-Profile-Analyse
 created: "2026-09-20T12:39:59-04:00"
-updated: "2026-10-10T09:04:22-04:00"
+updated: "2026-10-24T19:50:00-04:00"
 type: concept
 methods: [quantitative-research, research-methods-aied]
 confidence: high
@@ -102,9 +102,9 @@ Vier Vorsichtsmaßnahmen, jede in den Quellseiten genannt:
 ## Verbundene Artikel
 - [[ai-attitude-latent-profiles-career-development-2026]] — Lo–Mendell–Rubin-Retentionsevidenz für vier KI-Einstellungsprofile bei 379 Betriebswirtschaftsstudierenden
 
-- [[wu-psychological-adaptation-ai-japanese-learning-2026]] — Three-wave latent profile transition analysis of psychological adaptation
-- [[liang-ai-learning-motivation-sdt-2026]] — Latent transition analysis of three motivation profiles over a year
+- [[wu-psychological-adaptation-ai-japanese-learning-2026]] — Latente Profil-Übergangsanalyse mit drei Wellen zur psychologischen Anpassung
+- [[liang-ai-learning-motivation-sdt-2026]] — Latente Übergangsanalyse von drei Motivationsprofilen über ein Jahr hinweg
 - [[trust-in-ai-psychological-profiles-ml-2026]] — K-means profiles; silhouette vs. Calinski–Harabasz disagreement; ARI 0.989
-- [[saihi-ahmed-genai-adoption-personas-higher-ed-2026]] — Hierarchical and k-means clustering into four GenAI adoption personas
+- [[saihi-ahmed-genai-adoption-personas-higher-ed-2026]] — Hierarchisches und k-means-Clustering in vier GenAI-Übernahmepersonas
 
-- [[teachers-ai-belief-profiles-talis-2024-2026]] — Four teacher AI-belief profiles from 40,680 teachers in 49 systems, with alignment stability
+- [[teachers-ai-belief-profiles-talis-2024-2026]] — Vier KI-Überzeugungsprofile von Lehrkräften aus 40.680 Lehrkräften in 49 Systemen, mit Stabilität der Ausrichtung

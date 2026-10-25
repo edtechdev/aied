@@ -2,7 +2,7 @@
 connected_resources: [education-agent-skills, fpds-apps-and-resources]
 title: Lehr- und Curriculumsentwicklung
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-10T09:04:25-04:00"
+updated: "2026-10-24T22:09:03-04:00"
 connected_faqs: [ai-save-instructor-time, faculty-ai-competencies, faculty-development-ai]
 type: concept
 foundations: [ai-literacy, curriculum-design, learning-design, teacher-role, teacher-ai-competency]
@@ -42,6 +42,7 @@ Lehr- und Curriculumsentwicklung ist die professionelle und institutionelle Arbe
 - **Bereitschaftsrahmenwerke:** [[sangwa-epiq-ai-faculty-readiness-2026|Das EPIQ-AI-Rahmenwerk]] identifiziert vier Bereitschaftsdomänen: epistemisch, pädagogisch, institutionell, und Qualität-und-Compliance. Bereitschaft der Fakultäten ist ein soziotechnisches Ausrichtungsproblem, nicht nur eine individuelle Fähigkeitslücke.
 - **Standards für Technologieintegration:** [[crompton-faculty-technology-integration-standards-2026|Crompton et al.]] nutzen [[design-based-research|designbasierte Forschung]], um Fakultätenstandards für Technologie- (einschließlich KI-)Integration in [[higher-ed|Hochschulbildungs]]institutionen zu entwickeln.
 - **Übernahme und Zuversicht:** [[teacher-ai-adoption-confidence|Forschung zur KI-Übernahme durch Lehrende]] identifiziert Bedenken, Unterstützung, Zuversicht und Einstellungen als Schlüsselprädiktoren. Programme zur Fakultätsentwicklung müssen alle vier adressieren.
+- **Prüfen Sie, was die Stufen eines Rahmenwerks beschreiben, bevor Sie es übernehmen.** Über 16 institutionell befürwortete KI-Kompetenzrahmenwerke hinweg waren KI-Nutzung, Ausgabenbewertung und domänenbezogene Anwendung in allen 16 substantiell, während Problemformulierung (7), Datenkompetenz (9) und KI-Erzeugung (8) es nicht waren; die Stufen der Profizienz beschreiben zudem Lernendenentwicklung, berufliche Rolle oder Jahrgangsstufe, sodass sie nicht direkt vergleichbar sind ([[ai-competence-framework-landscape-2026|Fitsilis (2026)]]).
 - **Curriculum-Integration:** [[institutional-change-framework-ai|Rahmenwerke institutionellen Wandels]] und [[ai-assessment-scale-reform|Assessment-Reform]] erfordern von Fakultäten, Kurse neu zu gestalten, nicht nur KI-Werkzeuge hinzuzufügen.
 - **Schulungsprogramme:** [[crewscaler-ai-upskilling-framework|KI-Upskilling-Rahmenwerke]] und [[ai-tpack-preservice-math-teachers|TPACK-basierte Vorbereitungsschulung]] bieten Modelle für strukturierte [[ai-education|KI-Bildung]] der Fakultäten.
 
@@ -127,13 +128,13 @@ Zuversicht und Kompetenz sind keine austauschbaren Ziele: In einem SEM mit 502 A
 
 ## Verbundene Artikel
 
-- [[mcinnes-salvaging-constructive-alignment-genai-2026]] — Critical discourse analysis of GenAI alignment advice: developers recast as technology trainers
-- [[crompton-faculty-technology-integration-standards-2026]] — Faculty standards for technology integration (DBR)
-- [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026]] — Ethical dimensions of AI: faculty and student views
+- [[mcinnes-salvaging-constructive-alignment-genai-2026]] — Kritische Diskursanalyse von GenAI-Ausrichtungsratgebern: Entwickelnde als Technologietrainerinnen und -trainer neu gerahmt
+- [[crompton-faculty-technology-integration-standards-2026]] — Fakultätsstandards für Technologieintegration (DBR)
+- [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026]] — Ethische Dimensionen von KI: Sichtweisen von Fakultäten und Studierenden
 - [[nicola-richmond-programwide-assessment-genai-2025]]
-- [[engineering-faculty-metaphors-ai-understanding-2026]] — How Engineering Faculty Metaphors Construct (and Constrain) AI Understanding
-- [[fear-awe-genai-metaphor-workshops-2025]] — Fear and Awe: Making Sense of Generative AI Through Metaphor (faculty/staff/student metaphor workshop)
-- [[governing-unseen-ai-literacy-language-teachers-2026]] — Governing the unseen: AI literacy among language teachers
+- [[engineering-faculty-metaphors-ai-understanding-2026]] — Wie Metaphern der Ingenieurlehrenden KI-Verständnis konstruieren (und beschränken)
+- [[fear-awe-genai-metaphor-workshops-2025]] — Angst und Ehrfurcht: Generative KI durch Metaphern verstehen (Metaphern-Workshop für Fakultäten, Personal und Lernende)
+- [[governing-unseen-ai-literacy-language-teachers-2026]] — Das Unsichtbare regieren: KI-Kompetenz unter Sprachlehrenden
 - [[sangwa-epiq-ai-faculty-readiness-2026]]
 - [[teacher-ai-adoption-confidence]]
 - [[institutional-change-framework-ai]]
@@ -144,18 +145,19 @@ Zuversicht und Kompetenz sind keine austauschbaren Ziele: In einem SEM mit 502 A
 - [[pchl-he-framework-genai-content-creation-2026]]
 - [[genai-pd-ai-pck-learning-gain-2026]]
 - [[genai-higher-education-systematic-review-2026]]
-- [[laidlaw-genai-identity-crisis-faculty-2026]] — GenAI as identity crisis, not skills gap
-- [[zuo-instructor-power-genai-writing-2026]] — Power relations perceived by college instructors grappling with GenAI in writing (Zuo, Xu & Dunning 2026)
-- [[reflective-triangle-model-teacher-ai-2026]] — Reflective Triangle Model: AI as cognitive mediator
+- [[laidlaw-genai-identity-crisis-faculty-2026]] — GenAI als Identitätskrise, nicht als Fähigkeitslücke
+- [[zuo-instructor-power-genai-writing-2026]] — Machtverhältnisse, wie sie von Hochschullehrenden im Umgang mit GenAI im Schreiben wahrgenommen werden (Zuo, Xu & Dunning 2026)
+- [[reflective-triangle-model-teacher-ai-2026]] — Reflective Triangle Model: KI als kognitiver Mediator
 - [[sutedjo-faculty-genai-tpack-21-2026]]
-- [[intelligent-tpack-pd-intervention-hongkong-2025]] — Intelligent-TPACK PD: attendance predicts gains, self-perceived participation does not — Faculty self-perceived TPACK-21 knowledge for GenAI (Sutedjo, Chowdhury & Liu 2026)
-- [[instructional-design-proficiency-masters-math-2026]] — Smart-classroom model and D-T-E loop improving M.Ed. instructional design proficiency in mathematics (Zhu et al. 2026)
-- [[talebzadeh-ai-group-activity-roles-2026]] — Architecture of roles in AI-designed differentiated group activities (Talebzadeh 2026)
-- [[farazouli-navigating-uncertainty-teachers-genai-2026]] — University teachers' experiences and perceptions of GAI: vulnerability, rethinking assessment, student learning at risk (Farazouli et al. 2026)
-- [[chick-faculty-development-ethical-ai-2026]] — From fear to innovation: a six-week faculty institute, symbiotic pedagogy, and the institutional conditions it could not supply
-- [[vassallo-ai-guilt-complex-faculty-2026]] — The AI Guilt Complex: anticipatory guilt, concealment and career-stage differences among academic staff (Vassallo 2026)
-- [[watson-rainie-ai-challenge-faculty-survey-2026]] — AAC&U/Elon survey of 1,057 US faculty: institutional unpreparedness, thin governance and the 87%/48% policy gap (Watson & Rainie 2026)
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Academic developers as digital mediators in Global South higher education: development as sociotechnical praxis
-- [[physics-faculty-learning-community-ai-2026]] — A Workshop Series for Effective Use of AI in Uncertain Times: Building a Physics Faculty Learning Community
+- [[intelligent-tpack-pd-intervention-hongkong-2025]] — Intelligent-TPACK PD: Anwesenheit sagt Zuwächse voraus, selbstwahrgenommene Teilnahme nicht — Selbstwahrgenommenes TPACK-21-Wissen der Fakultäten für GenAI (Sutedjo, Chowdhury & Liu 2026)
+- [[instructional-design-proficiency-masters-math-2026]] — Smart-Classroom-Modell und D-T-E-Schleife zur Verbesserung der M.Ed.-Kompetenz für das Entwerfen von Unterricht in Mathematik (Zhu et al. 2026)
+- [[talebzadeh-ai-group-activity-roles-2026]] — Rollenarchitektur in KI-entworfenen differenzierten Gruppenaktivitäten (Talebzadeh 2026)
+- [[farazouli-navigating-uncertainty-teachers-genai-2026]] — Erfahrungen und Wahrnehmungen von Universitätslehrenden gegenüber GAI: Verletzlichkeit, Neudenken der Bewertung, Lernen der Studierenden gefährdet (Farazouli et al. 2026)
+- [[chick-faculty-development-ethical-ai-2026]] — Von der Angst zur Innovation: ein sechswöchiges Fakultätsinstitut, symbiotische Pädagogik und die institutionellen Bedingungen, die es nicht liefern konnte
+- [[vassallo-ai-guilt-complex-faculty-2026]] — Der AI-Guilt-Komplex: antizipatorische Schuld, Verbergung und Unterschiede nach Karrierestadium unter akademischem Personal (Vassallo 2026)
+- [[watson-rainie-ai-challenge-faculty-survey-2026]] — AAC&U/Elon-Umfrage unter 1.057 US-Fakultäten: institutionelle Unvorbereitetheit, dünne Governance und die 87%-/48%-Politiklücke (Watson & Rainie 2026)
+- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Akademische Entwickelnde als digitale Mediatoren in der Hochschulbildung des Globalen Südens: Entwicklung als soziotechnische Praxis
+- [[physics-faculty-learning-community-ai-2026]] — Eine Workshop-Reihe für die wirksame Nutzung von KI in unsicheren Zeiten: Aufbau einer Lerngemeinschaft der Physikfakultät
 
-- [[faculty-ai-well-being-social-supports-2026]] — Faculty AI well-being tracks AI literacy rather than technological self-efficacy
+- [[faculty-ai-well-being-social-supports-2026]] — Das KI-Wohlbefinden der Fakultäten folgt der KI-Kompetenz eher als der technologischen Selbstwirksamkeit
+- [[ai-competence-framework-landscape-2026]] — Prüfen Sie, was die Stufen eines Rahmenwerks beschreiben, bevor Sie es übernehmen

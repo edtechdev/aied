@@ -2,13 +2,13 @@
 connected_resources: [clarity, pedagogical-promptbook, snorkl]
 title: Rückmeldung
 created: "2026-08-15T19:02:13-04:00"
-updated: "2026-10-10T09:04:24-04:00"
+updated: "2026-10-24T20:42:10-04:00"
 type: concept
 assessment: [ai-feedback-quality, assessment, automated-assessment, feedback, feedback-literacy, formative-assessment, peer-assessment]
 connected_faqs: [developing-ai-tutor, ai-feedback-at-scale]
 confidence: high
 translation_of: concepts/feedback
-source_updated: "2026-10-15T08:25:00-04:00"
+source_updated: "2026-10-23T22:48:50-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -35,7 +35,7 @@ ai_assist:
 Dies ist das Dachkonzept für die feedbackbezogenen Ideen der Wissensbasis. Feedback sitzt an der Schnittstelle von Assessment und Lernen: ohne Feedback misst Assessment Leistung, verbessert sie aber nicht; mit wirksamem Feedback wird Assessment zu einem Lernereignis. Die Wissensbasis behandelt Feedback als **System** mit mehreren Facetten — der Qualität des Feedbacks selbst ([[ai-feedback-quality|Qualität von KI-Feedback]]), der Schleife, durch die es die Lernlücke schließt, der Fähigkeit der lernenden Person, es zu nutzen ([[feedback-literacy|Feedback-Kompetenz]]), und den Assessmentkontexten, in denen es wirkt ([[formative-assessment|formatives Assessment]], [[peer-assessment|Peer-Assessment]], [[automated-assessment|automatisiertes Assessment]]).
 
 - **[[yilmaz-genai-feedback-srl-online-higher-ed-2026|Yilmaz et al.]]** zeigen, dass die Wahrnehmung der Feedback*quelle* (KI gegenüber Mensch) das selbstregulierte Lernen aus [[generative-ai|GenAI]]-Feedback formt — ein entscheidender Qualifizierer für Behauptungen zur Feedbackwirksamkeit.
-- **[[nazaretsky-feedback-source-bias-2025|Nazaretsky et al. (2025)]]** isolieren die Quelle vom Inhalt: 472 EPFL-Studierende bewerteten inhaltlich vergleichbares menschliches und GPT-4.0-Feedback zur eigenen Arbeit, zuerst blind und dann erneut, nachdem die Quelle offengelegt worden war, und die meisten konnten die beiden nicht verlässlich unterscheiden (287 von 472 rieten richtig). Sobald das Etikett enthüllt war, fielen die Bewertungen der KI-Variante und stiegen die der menschlichen Variante — signifikant für Genuineness (p < .01) —, und die Glaubwürdigkeit der Anbietenden trennte sauber (Mensch μ = 3.28 gegenüber KI μ = 2.25, Cohen's d = 0.57). Der Bias hängt an den Anbietenden statt am Text, da die beiden Varianten bei Korrektheit und kognitiver Qualität vergleichbar waren.
+- **[[nazaretsky-feedback-source-bias-2025|Nazaretsky et al. (2025)]]** isolieren die Quelle vom Inhalt: 472 EPFL-Studierende bewerteten inhaltlich vergleichbares menschliches und GPT-4.0-Feedback zur eigenen Arbeit, zuerst blind und dann erneut, nachdem die Quelle offengelegt worden war, und die meisten konnten die beiden nicht verlässlich unterscheiden (287 von 472 rieten richtig). Sobald das Etikett enthüllt war, fielen die Bewertungen der KI-Variante und stiegen die der menschlichen Variante — signifikant für Genuineness (p < .01) —, und die Glaubwürdigkeit der Anbietenden trennte sauber (Mensch μ = 3.28 gegenüber KI μ = 2.25, Cohen's d = 0.57). Der Bias hängt an den Anbietenden statt am Text, da die beiden Varianten bei Korrektheit und kognitiver Qualität vergleichbar waren. [[chatgpt-feedback-credibility-perceived-learning|Pérez-López et al. (2026)]] tragen die Glaubwürdigkeit von Feedback bis zum Lernen: Bei 230 Betriebswirtschaftsstudierenden nach einer KI-unterstützten Essayaufgabe sagte Glaubwürdigkeit wahrgenommenes Lernen voraus, mit wahrgenommener Kompetenz und menschenähnlicher Empathie als ihren Vorläufern.
 
 ## Das Feedbacksystem
 
@@ -47,6 +47,7 @@ Feedback wird am besten nicht als einzelnes Ereignis, sondern als verbundenes Sy
 - **[[formative-assessment]]** — der Assessmentkontext, in dem Feedback genutzt wird, um Lernen zu verbessern, während es noch im Gange ist, statt es bloß zu beurteilen.
 - **[[peer-assessment]]** — Feedback, das zwischen [[learners|Lernenden]] ausgetauscht wird, zunehmend von KI verstärkt und ein Ort, an dem sich Feedback-Kompetenz entwickelt.
 - **[[automated-assessment]]** — KI-getriebene Benotung und KI-getriebenes Feedback, von [[automated-essay-scoring|automatisierter Aufsatzbewertung]] bis zu zuversichtsbewusster Kurzantwort-Benotung.
+- **Die Teile stehen in einem Zielkonflikt zueinander.** Feedback zu entwerfen heißt, zwischen Nutzbarkeit, Quellen und Nachhaltigkeit zu wählen, statt alle drei zu maximieren; [[assessment-feedback-trilemma-model-2026|Pedlow et al. (2026)]] behandeln Nachhaltigkeit als den Pol, der nicht von einer einzelnen Person, Ressource oder institutionellen Bedingung abhängen darf.
 
 ### Die Feedbackschleife
 
@@ -134,6 +135,7 @@ Ein zweischichtiges Modell zeigt, wie das Paar um eine Maschine herum organisier
 
 Feedback ist einer der folgenreichsten und am besten belegten Mechanismen in der Bildung, und KI verstärkt und kompliziert ihn gleichermaßen. Gut architektoniertes KI-Feedback kann menschliches Feedback erreichen oder übertreffen und über Kohorten hinweg skalieren, aber es verlangt neue Fähigkeiten der Lernenden ([[feedback-literacy|Feedback-Kompetenz]], [[ai-literacy|KI-Kompetenz]]) und birgt Risiken (unkritische Akzeptanz, [[cognitive-offloading|übermäßiges Vertrauen]]). Während KI-erzeugtes Feedback allgegenwärtig wird, rahmt die Wissensbasis Feedback als ganzes System — Qualität, Schleife, Kompetenz und Assessmentkontext, die zusammenwirken — statt als eine einzelne Komponente.
 - **Feedback kann die Feedbackgebenden adressieren.** Tutor:innen-Training ist ein wenig erforschter Feedbackkontext: automatisierte Systeme, die die offenen Antworten von Tutor:innen sequenzweise markieren, um Lobtypen zu kennzeichnen (anstrengungsbasiertes Lob — die wünschenswerte prozessfokussierte Art — gegenüber ergebnisbasiertem gegenüber personenbasiertem, der am wenigsten wünschenswerten eigenschaftszuschreibenden Art), können erklärendes Feedback liefern, das Tutoringsverhalten verändert. Die bindende Randbedingung sind von Expertinnen und Experten markierte Daten. Ein Augmentationsansatz — GPT-4o erzeugt synthetische markierte Antworten und erweitert einen Datensatz von 13 Instanzen mit geringen Ressourcen auf 520, dann wird GPT-3.5 feinabgestimmt — überwindet den größten Teil der Lücke: F2 +20,5% bei anstrengungsbasiertem Lob, +17,3% bei ergebnisbasiertem und +16,5% bei der *ungesehenen* personenbasierten Kategorie. Der Generalisierungstest auf einen ungesehenen Lobtyp ist die Validitätsprüfung, die dies von Überanpassung trennt, und der Mechanismus ist näher an der Destillation von Lehrkraft-Modellen als an klassischer Augmentation. ([[xu-automated-feedback-tutor-training-2025]])
+- **Feedback, das die Überarbeitung nicht sehen kann, wird wiederholt.** In einem naturwissenschaftlichen Lernspiel, dessen Agenten Entwurfsargumente kritisierten, überarbeiteten Studierende über mehrere Runden hinweg, doch ein quantisiertes 8B-Modell lieferte einer verbesserten Fassung im Wesentlichen dieselbe Kritik, sodass die Schleife, die zur Überarbeitung motivierte, auch die Frustration erzeugte, die sie beendete ([[humburg-scistory-ai-supported-inquiry-science-learning-games-2025|Humburg et al., 2025]]).
 
 ## Verbundene Konzepte
 
@@ -155,54 +157,56 @@ Feedback ist einer der folgenreichsten und am besten belegten Mechanismen in der
 - [[writing-education]]
 
 ## Verbundene Artikel
-- [[jansen-argumentative-writing-feedback-receptivity-2026]] — Automated feedback on argumentative writing: The role of secondary students' feedback receptivity and feedback perception
-- [[ai-agents-joyful-assessment-third-space-2026]] — AI agents, joyful assessment, and third space
-- [[student-perspectives-ai-writing-grading-2026]] — Student perspectives on transparent AI-assisted writing assessment (AlGhamdi 2026)
-- [[usher-faraon-who-grades-best-2026]] — Comparing ChatGPT, peer, and instructor grading across project quality levels (Usher & Faraon 2026)
-- [[layer-sensitive-cognitive-offloading-writing-2026]] — Layer-sensitive cognitive offloading in GenAI-assisted writing (Chen 2026)
+- [[humburg-scistory-ai-supported-inquiry-science-learning-games-2025]] — Agentenfeedback, das sich über Revisionen hinweg wiederholte (Humburg et al. 2025)
+- [[jansen-argumentative-writing-feedback-receptivity-2026]] — Automatisiertes Feedback zum argumentativen Schreiben: Die Rolle der Feedback-Rezeptivität und Feedback-Wahrnehmung von Sekundarstufen-Studierenden
+- [[ai-agents-joyful-assessment-third-space-2026]] — KI-Agenten, freudvolles Assessment und Third Space
+- [[student-perspectives-ai-writing-grading-2026]] — Studentische Perspektiven auf transparente KI-gestützte Schreibbewertung (AlGhamdi 2026)
+- [[usher-faraon-who-grades-best-2026]] — ChatGPT-, Peer- und Dozentenbenotung im Vergleich über Projektqualitätsstufen hinweg (Usher & Faraon 2026)
+- [[layer-sensitive-cognitive-offloading-writing-2026]] — Schichtsensitives kognitives Abladen in GenAI-gestütztem Schreiben (Chen 2026)
 - [[mejeh-fromm-srl-adaptive-learning-feedback-2026]]
-- [[farrokhnia-genai-feedback-student-revisions-2026]] — Teacher vs. GenAI feedback: students revise less with AI
-- [[yilmaz-genai-feedback-srl-online-higher-ed-2026]] — GenAI feedback and self-regulated learning: perceived source matters
-- [[chang-genai-peer-feedback-collaborative-argumentation-2026]] — GenAI-assisted peer feedback in collaborative argumentation
-- [[luo-eaton-ai-student-feedback-ethics-2026]] — Ethics of AI in student feedback
-- [[metacognitive-training-optimal-cognitive-offloading-2026]] — Metacognitive training facilitates optimal cognitive offloading (Ngai & Gilbert 2026)
-- [[liu-deris-ai-feedback-literacy-uptake]] — AI Feedback Literacy scale and uptake prediction (Liu & Deris 2025)
-- [[zhan-boud-dawson-genai-feedback-engagement]] — GenAI as enabler of student feedback engagement (Zhan, Boud, Dawson & Yan 2025)
-- [[mendoza-ai-feedback-feedback-literacy-srl]] — Feedback literacy moderates AI feedback → SRL (Mendoza et al. 2026)
-- [[rethinking-ai-writing-feedback-literacy]] — Feedback literacy scripts for AI-assisted writing (Dai 2026)
-- [[jin-genai-learning-analytics-feedback-literacy]] — GenAI learning analytics in feedback (Jin et al. 2025)
-- [[tubino-adachi-ai-automated-feedback-literacy]] — AI automated feedback tool for feedback literacy (Tubino & Adachi 2025)
-- [[irwin-muller-efl-peer-feedback-literacy]] — GenAI in EFL peer feedback for feedback literacy (Irwin & Muller 2026)
-- [[ai-generated-feedback-higher-ed]] — AI-generated feedback in higher education
-- [[care-full-feedback-genai]] — Care-full feedback design with GenAI
-- [[ai-feedback-ecosystem-higher-education-2026]] — The feedback ecosystem in higher education: AI reworks feedback relations, and humans as the loop (Bearman et al. 2026)
-- [[learner-centered-feedback-ai]] — Learner-centered AI feedback practices
-- [[genai-feedback-design-multisite-experiment]] — Multi-site GenAI feedback design
-- [[ai-feedback-critical-thinking-writing-2026]] — AI feedback and critical thinking in writing
-- [[richmond-nicholls-genai-psych-feedback-ai-literacies]] — GenAI assessment builds psychological, feedback, and AI literacies
-- [[zhao-learnlens-feedback-educators-loop]] — LearnLens: curriculum-grounded feedback with educator oversight (Zhao et al. 2025)
-- [[sequenced-ai-feedback-learning]] — Sequenced AI feedback studies
-- [[becerra-aicofe-feedback-2026]] — AI peer feedback systems
-- [[automated-formative-assessments-a-level-sciences]] — Automated formative assessments in A-level sciences
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — Reconsidering oral exams as authentic, AI-resistant assessment
-- [[marked-pedagogies-linguistic-bias-writing-feedback]] — Marked Pedagogies: bias in automated writing feedback
-- [[shap-llm-rationales-teaching-quality-assessment]] — SHAP vs LLM rationales for rubric-based teaching feedback
-- [[llm-adaptive-programming-error-explanations-2026]] — LLM adaptive explanations of programming errors
-- [[student-perceptions-ai-study-productivity-2026]] — Students' Perceptions of Artificial Intelligence Tools for Study Productivity and Learning: An Exploratory Survey Study
-- [[yasar-llms-iterative-pedagogical-design-2026]] — LLMs as agents of iterative pedagogical design
+- [[farrokhnia-genai-feedback-student-revisions-2026]] — Lehrkraft versus GenAI-Feedback: Studierende überarbeiten weniger mit KI
+- [[yilmaz-genai-feedback-srl-online-higher-ed-2026]] — GenAI-Feedback und selbstreguliertes Lernen: Die wahrgenommene Quelle zählt
+- [[chang-genai-peer-feedback-collaborative-argumentation-2026]] — GenAI-gestütztes Peer-Feedback in kollaborativer Argumentation
+- [[luo-eaton-ai-student-feedback-ethics-2026]] — Ethik der KI im studentischen Feedback
+- [[metacognitive-training-optimal-cognitive-offloading-2026]] — Metakognitives Training erleichtert optimales kognitives Abladen (Ngai & Gilbert 2026)
+- [[liu-deris-ai-feedback-literacy-uptake]] — KI-Feedback-Kompetenz-Skala und Prädiktion der Übernahme (Liu & Deris 2025)
+- [[zhan-boud-dawson-genai-feedback-engagement]] — GenAI als Ermöglicherin von studentischem Feedback-Engagement (Zhan, Boud, Dawson & Yan 2025)
+- [[mendoza-ai-feedback-feedback-literacy-srl]] — Feedback-Kompetenz moderiert KI-Feedback → SRL (Mendoza et al. 2026)
+- [[rethinking-ai-writing-feedback-literacy]] — Feedback-Kompetenz-Skripte für KI-gestütztes Schreiben (Dai 2026)
+- [[jin-genai-learning-analytics-feedback-literacy]] — GenAI-Learning-Analytics im Feedback (Jin et al. 2025)
+- [[tubino-adachi-ai-automated-feedback-literacy]] — KI-Werkzeug für automatisiertes Feedback zur Feedback-Kompetenz (Tubino & Adachi 2025)
+- [[irwin-muller-efl-peer-feedback-literacy]] — GenAI im EFL-Peer-Feedback für Feedback-Kompetenz (Irwin & Muller 2026)
+- [[ai-generated-feedback-higher-ed]] — KI-erzeugtes Feedback in der Hochschulbildung
+- [[care-full-feedback-genai]] — Sorgenvolles Feedbackdesign mit GenAI
+- [[ai-feedback-ecosystem-higher-education-2026]] — Das Feedback-Ökosystem in der Hochschulbildung: KI verändert Feedbackbeziehungen, und Menschen als die Schleife (Bearman et al. 2026)
+- [[learner-centered-feedback-ai]] — Lernendenzentrierte KI-Feedbackpraktiken
+- [[genai-feedback-design-multisite-experiment]] — Multiseitiges GenAI-Feedbackdesign
+- [[ai-feedback-critical-thinking-writing-2026]] — KI-Feedback und kritisches Denken im Schreiben
+- [[richmond-nicholls-genai-psych-feedback-ai-literacies]] — GenAI-Assessment baut psychologische, Feedback- und KI-Kompetenzen auf
+- [[zhao-learnlens-feedback-educators-loop]] — LearnLens: lehrplangrundiertes Feedback mit Aufsicht durch Lehrende (Zhao et al. 2025)
+- [[sequenced-ai-feedback-learning]] — Studien zu sequenziertem KI-Feedback
+- [[becerra-aicofe-feedback-2026]] — KI-Peer-Feedbacksysteme
+- [[automated-formative-assessments-a-level-sciences]] — Automatisierte formativer Assessments in A-level-Fächern
+- [[fenton-oral-exams-ai-authentic-assessment-2025]] — Mündliche Prüfungen als authentisches, KI-resistentes Assessment neu betrachtet
+- [[marked-pedagogies-linguistic-bias-writing-feedback]] — Marked Pedagogies: Bias im automatisierten Schreibfeedback
+- [[shap-llm-rationales-teaching-quality-assessment]] — SHAP versus LLM-Begründungen für rubrikbasiertes Feedback in der Lehre
+- [[llm-adaptive-programming-error-explanations-2026]] — LLM-adaptive Erklärungen von Programmierfehlern
+- [[student-perceptions-ai-study-productivity-2026]] — Wahrnehmung von Werkzeugen Künstlicher Intelligenz für Studienproduktivität und Lernen: Eine explorative Umfragestudie
+- [[yasar-llms-iterative-pedagogical-design-2026]] — LLMs als Agenten iterativen pädagogischen Designs
 - [[gpt4-feedback-student-activation-2026]]
 - [[reddig-maclellan-personalized-feedback-llm-2026]]
 - [[yin-arthur-ai-teaching-assistant-engineering-econ-2026]]
 - [[mesny-innovative-assessment-grading-management-2026]]
 - [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]
-- [[tripartite-feedback-framework-ai-assessment-2026]] — Tripartite framework: sorting feedback by epistemic status and the five boundary principles for AI involvement (Venetsanos 2026)
-- [[structured-reflection-ai-explanatory-feedback-2026]] — Benefit or bottleneck? Structured reflection on AI explanatory feedback (Asher, Gold & Carvalho 2025)
-- [[bounded-reliance-ai-writing-feedback-2026]] — Bounded Reliance: A Source Credibility Perspective on EFL Students' Engagement with AI-Generated Writing Feedback
-- [[pivot-generative-video-tutors-stem-2026]] — From Content Generation to Learning Support: Pedagogy-Guided Generative Video Tutors for STEM Learning
-- [[llm-feedback-focus-adaptivity-student-writing-2026]] — Evaluating Feedback Focus and Pedagogical Adaptivity in LLM-Generated Feedback on Student Writing
-- [[nlp-student-evaluation-teaching-scoping-review-2026]] — From Sentiment Classification to Actionable and Responsible Feedback: A Scoping Review and Evidence Map of NLP in Student Evaluation of Teaching, 2015–2026
-- [[nazaretsky-feedback-source-bias-2025]] — Who gives feedback matters: source labels shift ratings when the text is held comparable (Nazaretsky et al. 2025)
-- [[ai-powered-writing-feedback-awe-review-2026]] — AI-Powered Feedback System for Writing: A Review of Automated Writing Evaluation (AWE) Tools
-- [[zhao-ji-appraisal-human-ai-revisions-2026]] — What a revision does to the writer's stance: peer feedback turns argumentative essays more contractive, AI revision keeps the Contract/Expand balance (Zhao & Ji 2026)
-- [[xu-automated-feedback-tutor-training-2025]] — Improving automated feedback systems for tutor training in low-resource scenarios through data augmentation (Xu et al. 2025)
-- [[etq-ai-conversational-teacher-training-2026]] — Conversational AI diagnostic for teaching misconceptions with evidence-grounded dialogue (Miranda & Calvani 2026)
+- [[tripartite-feedback-framework-ai-assessment-2026]] — Dreiteiliger Rahmen: Feedback nach epistemischem Status sortieren und die fünf Grenzprinzipien für KI-Beteiligung (Venetsanos 2026)
+- [[structured-reflection-ai-explanatory-feedback-2026]] — Nutzen oder Engpass? Strukturierte Reflexion über KI-erklärendes Feedback (Asher, Gold & Carvalho 2025)
+- [[bounded-reliance-ai-writing-feedback-2026]] — Bounded Reliance: Eine Quellen-Glaubwürdigkeits-Perspektive auf das Engagement von EFL-Studierenden mit KI-erzeugtem Schreibfeedback
+- [[pivot-generative-video-tutors-stem-2026]] — Von der Inhaltsgenerierung zur Lernunterstützung: pädagogisch geführte generative Videotutoren für MINT-Lernen
+- [[llm-feedback-focus-adaptivity-student-writing-2026]] — Evaluierung von Feedbackfokus und pädagogischer Adaptivität in LLM-erzeugtem Feedback zu studentischem Schreiben
+- [[nlp-student-evaluation-teaching-scoping-review-2026]] — Von der Stimmungsclassification zum handlungsfähigen und verantwortungsvollen Feedback: Ein Scoping Review und Evidenzkarte zu NLP in der studentischen Lehrveranstaltungsevaluation, 2015–2026
+- [[nazaretsky-feedback-source-bias-2025]] — Wer Feedback gibt, ist entscheidend: Quelllabels verschieben Bewertungen, wenn der Text vergleichbar gehalten wird (Nazaretsky et al. 2025)
+- [[ai-powered-writing-feedback-awe-review-2026]] — KI-gestütztes Feedbacksystem für Schreiben: Ein Review automatischer Schreibevaluation (AWE)-Werkzeuge
+- [[zhao-ji-appraisal-human-ai-revisions-2026]] — Was eine Revision mit der Haltung der Schreibenden macht: Peer-Feedback macht argumentative Essays kontraktiver, KI-Revision behält die Contract/Expand-Balance (Zhao & Ji 2026)
+- [[xu-automated-feedback-tutor-training-2025]] — Verbesserung automatisierter Feedbacksysteme für Tutor:innen-Training in Low-Resource-Szenarien durch Datenaugmentation (Xu et al. 2025)
+- [[etq-ai-conversational-teacher-training-2026]] — Konversations-KI-Diagnostik für Fehlvorstellungen im Unterricht mit evidenzbasiertem Dialog (Miranda & Calvani 2026)
+- [[assessment-feedback-trilemma-model-2026]] — Benennt den Zielkonflikt zwischen Nutzbarkeit, Quellen und Nachhaltigkeit und macht Nachhaltigkeit zu einem Designpol

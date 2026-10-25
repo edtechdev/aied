@@ -2,14 +2,14 @@
 connected_resources: [mglearn]
 title: Mehrsprachiges Lernen
 created: "2026-08-19T09:55:00-04:00"
-updated: "2026-10-10T09:04:24-04:00"
+updated: "2026-10-24T20:49:56-04:00"
 type: concept
 technology: [llm]
 ethics: [culturally-relevant-pedagogy, digital-divide, equity-in-ai-education, global-south, inclusive-learning, multilingual-learning]
 discipline: [language learning]
 confidence: medium
 translation_of: concepts/multilingual-learning
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-23T09:49:58-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -49,6 +49,8 @@ Mehrsprachiges Lernen ist eine zentrale Gerechtigkeitsdimension von [[ai-educati
 
 Mehrsprachige KI muss über Übersetzung hinausgehen und [[culturally-relevant-pedagogy|kulturell relevante Pädagogik]] abbilden — Inhalte erzeugen, die sprachlich und kontextuell angemessen sind. Studien zu [[llm-cultural-relevance-k12|LLM-Kulturrelevanz in K-12]] und [[scaffolding-critical-engagement-genai-minority-students|kritischer Auseinandersetzung mit GenAI unter Studierenden mit Minderheitenhintergrund]] zeigen, dass sprachliche und kulturelle Passung darüber entscheidet, ob Lernende tatsächlich profitieren. Unbehandelt vertieft monolinguale Voreingenommenheit in der KI die [[digital-divide]] und untergräbt [[equity-in-ai-education|Gerechtigkeit]] im [[global-south|Globalen Süden]].
 
+Translanguaging ist ein Angebot, das generative Chatbots hinzufügen und das frühere Sprachwerkzeuge nicht hatten. In einem systematischen Review von 24 Studien forderten Lernende kontextualisierte Phrasen und Erklärungen in ihrer eigenen Sprache als Brücke in die Zielsprache an — eine Nutzung, die die Rezensentinnen und Rezensenten als neue Teil-Angebotsform einstufen statt als umgepackte bestehende ([[genai-chatbots-language-learning-affordances-review-2026|Lopez & Arabadzhy (2026)]]).
+
 ## Bias im Assessment
 
 Mehrsprachigkeitsanliegen betreffen auch [[automated-assessment|automatisiertes Assessment]]: [[ai-scoring-language-bias-physics|KI-Bewertung kann Sprachbias zeigen]] (z. B. in [[physics-education|Physik]]) und dabei Nicht-Muttersprachlerinnen und Nicht-Muttersprachler bestrafen. Sicherzustellen, dass Assessment-Werkzeuge über Sprachen hinweg fair sind, ist Teil der [[assessment-validity]].
@@ -76,13 +78,14 @@ LLM-basiertes komparatives Urteilen ist ein Fall, in dem der Bias dem menschlich
 - [[generative-ai]]
 
 ## Verbundene Artikel
+- [[genai-chatbots-language-learning-affordances-review-2026]] — GenAI-Chatbots ermöglichen Translanguaging, eine Nutzung, die frühere Sprachwerkzeuge nicht unterstützten
 
-- [[llm-comparative-judgment-writing-screening-2026]] — Validity of Large Language Model Comparative Judgment for Universal Writing Screening
-- [[multilingual-adaptive-learning-nigeria-2026]] — AI-Based Adaptive Learning Platform for Nigeria
-- [[bilingual-llm-lecture-companion-srl-2026]] — Bilingual LLM Lecture Companion
-- [[structural-silence-underrepresented-language-ai-2026]] — Structural Silence: Underrepresented Languages
-- [[llm-cultural-relevance-k12]] — LLM Cultural Relevance in K-12
-- [[scaffolding-critical-engagement-genai-minority-students]] — Critical Engagement with GenAI Among Minority Students
-- [[iks-instruct-dataset-indian-knowledge]] — IKS-Instruct: Indian Knowledge Systems Dataset
-- [[kutti-ai-voice-first-learning-companion]] — Voice-First Learning Companion
-- [[ai-scoring-language-bias-physics]] — AI Scoring Language Bias in Physics
+- [[llm-comparative-judgment-writing-screening-2026]] — Validität des komparativen Urteilens durch Large Language Models für universelle Schreib-Screening
+- [[multilingual-adaptive-learning-nigeria-2026]] — KI-basierte adaptive Lernplattform für Nigeria
+- [[bilingual-llm-lecture-companion-srl-2026]] — Bilingualer LLM-Vorlesungsbegleiter
+- [[structural-silence-underrepresented-language-ai-2026]] — Strukturelles Schweigen: unterrepräsentierte Sprachen
+- [[llm-cultural-relevance-k12]] — Kulturrelevanz von LLMs in K-12
+- [[scaffolding-critical-engagement-genai-minority-students]] — Kritische Auseinandersetzung mit GenAI unter Studierenden mit Minderheitenhintergrund
+- [[iks-instruct-dataset-indian-knowledge]] — IKS-Instruct: Datensatz zu indischen Wissenssystemen
+- [[kutti-ai-voice-first-learning-companion]] — Sprachdominierter Lernbegleiter
+- [[ai-scoring-language-bias-physics]] — Sprachbias bei KI-Bewertung in der Physik

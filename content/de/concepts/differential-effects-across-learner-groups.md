@@ -1,7 +1,7 @@
 ---
 title: Unterschiedliche Effekte zwischen Gruppen von Lernenden
 created: "2026-09-19T06:20:00-04:00"
-updated: "2026-10-10T09:04:25-04:00"
+updated: "2026-10-24T23:55:00-04:00"
 type: concept
 ethics: [equity-in-ai-education, inclusive-learning, digital-divide, accessibility, neurodiversity, multilingual-learning, bias-mitigation, culturally-relevant-pedagogy]
 technology: [personalized-learning]
@@ -91,6 +91,9 @@ Dieser Strang ist klein in der Artikelzahl und stark im Mechanismus, weil die Be
 - **Der demografische Hinweis kann implizit sein.** Das obige kontrafaktische Audit fand, dass Gesprächshistorien, nicht nur explizite Personas, Bewertungs- und Feedbackverhalten bewegten — dasselbe Ergebnis von [[demographic-signals-llm-student-assessment-2026|192.480 Inferenzaufrufen]], und ein Grund, weshalb eine Offenlegungsregel über *deklarierte* Demografien nicht ausreicht.
 - **Migrations- und Sprachlücken können dominieren.** In EduFair-Bench verband das 70B-Modell die größten Sprach- und Einwanderungslücken mit den kleinsten Pädagogiklücken, sodass ein Tutor, der pädagogisch stark aussieht, der sein kann, der am empfindlichsten dafür ist, wer die lernende Person zu sein scheint.
 - **Epistemischer Ausschluss, nicht nur Fehler: siehe [[genai-minoritized-knowledges-disability|die Marginalisierung minoritärter Wissensformen]] oben.**
+
+## Fachlicher Hintergrund
+
 Der fachliche Hintergrund ist eine Differenzachse, die die gruppenweise Karte dieser Seite noch nicht trug: Dasselbe Werkzeug kann seinen Nutzen ungleich über Fächer hinweg verteilen, statt über demografische Merkmale der Studierenden.
 
 - **Ein Werkzeug kann ein Fach engagieren und ein anderes desengagieren.** In einem zweiwöchigen Quasi-Experiment mit 130 Studierenden in gemischtfachlichen Teams erhöhte [[generative-ai|ChatGPT]] das physische [[student-engagement|Engagement]] für MINT-Studierende und senkte es für Nicht-MINT-Studierende (Q = 9,87, p < .05), und Notizen, die ohne ChatGPT geschrieben wurden, erzielten höhere Werte bei Vielfalt und Integration disziplinärer Ideen ([[caeai-chatgpt-interdisciplinary-stem-nonstem-2026|Zhu et al. (2026)]]).
@@ -143,26 +146,26 @@ Der ehrliche Befund dieser Übersicht ist, wie dünn manche Gruppen sind. Jede d
 
 ## Verbundene Artikel
 - [[zhang-ai-students-disabilities-meta-analysis-2024]] — 29 Studien zu KI für Studierende mit Behinderungen: g = 0.588, und g = 0.269 nach Bias-Adjustierung
-- [[caeai-chatgpt-interdisciplinary-stem-nonstem-2026]] — ChatGPT benefited STEM and non-STEM students unequally in interdisciplinary learning
-- [[bjet-genai-engagement-minority-ethnic-students-2026]] — GenAI use and four-strand engagement among minority ethnic international students
+- [[caeai-chatgpt-interdisciplinary-stem-nonstem-2026]] — ChatGPT kam MINT- und Nicht-MINT-Studierenden in gemischtfachlichem Lernen ungleich zu
+- [[bjet-genai-engagement-minority-ethnic-students-2026]] — GenAI-Nutzung und vierzügiges Engagement bei minoritären ethnischen internationalen Studierenden
 - [[assistive-tech-neurodivergent-higher-ed-review-2026]] — 766 Datensätze zu 40 Studien, 15 davon generative KI
-- [[adhd-video-segmentation-computing-education]] — A general design change that brought ADHD participants to parity
+- [[adhd-video-segmentation-computing-education]] — Eine allgemeine Designänderung, die ADHS-Teilnehmende auf Parität brachte
 - [[neurodivergent-computing-students]] — 24 neurodivergente Studierende zu Struktur, Mehrdeutigkeit und Zusammenarbeit
 - [[genai-minoritized-knowledges-disability]] — Epistemische Marginalisierung in der KI, mit Behinderung als Fall
 - [[robot-assisted-language-learning-meta-analysis-2026]] — g = 0.83 mit I² = 84.4% in einer kleinen L2-Evidenzbasis
 - [[structural-silence-underrepresented-language-ai-2026]] — Unter 0.5% der Webinhalte für Bengalisch gegenüber 49.5% für Englisch
 - [[hadra-ai-detector-accuracy-efl-2026]] — Detektoren klassifizieren EFL-Schreiben falsch, während sie professionelle Texte perfekt bewerten
-- [[ada-female-coded-chatbot-gender-stereotypes-2026]] — A 195-student test of female-coded role models with no gender difference
-- [[gender-bias-transfer-llm-writing]] — Gender-biased prompts transferring into student essays
-- [[all-girls-genai-makerspace-gender-equity-2026]] — Single-gender space valued, with a warning against girlification
-- [[edufair-bench-pedagogical-fairness-llm-tutors-2026]] — Tutor fairness varying by model, domain, and behavior dimension
-- [[marked-pedagogies-linguistic-bias-writing-feedback]] — Stereotype-aligned feedback on identical essays
+- [[ada-female-coded-chatbot-gender-stereotypes-2026]] — Ein Test mit 195 Studierenden zu weiblich kodierten Rollenvorbildern ohne Geschlechterunterschied
+- [[gender-bias-transfer-llm-writing]] — Geschlechtsverzerrte Prompts, die in studentische Aufsätze übergehen
+- [[all-girls-genai-makerspace-gender-equity-2026]] — Ein geschlechtsspezifischer Raum wird geschätzt, mit einer Warnung vor „Girlification“
+- [[edufair-bench-pedagogical-fairness-llm-tutors-2026]] — Fairness der Tutoren variiert nach Modell, Domäne und Verhaltensdimension
+- [[marked-pedagogies-linguistic-bias-writing-feedback]] — Stereotypausgerichtetes Feedback auf identische Aufsätze
 - [[demographic-signals-llm-student-assessment-2026]] — 192.480 Aufrufe: explizite Personas und implizite Historien bewegen beide Modelle
-- [[student-attention-estimation-fairness-2026]] — Fairness regularization that did not generalize
+- [[student-attention-estimation-fairness-2026]] — Fairness-Regularisierung, die nicht generalisierte
 - [[ai-divide-ses-personality-primary-education-2026]] — 4.497 Studierende: digitale Kompetenz, nicht KI-Nutzung, mediiert die Lücke
-- [[arc-hubs-k12-ai-robotics-rural-2026]] — Rural participation that never recovered, and mentorship as the constraint
+- [[arc-hubs-k12-ai-robotics-rural-2026]] — Ländliche Teilnahme, die sich nie erholte, und Mentorschaft als die Einschränkung
 - [[ai-tutoring-micro-rct-gcse-science-2026]] — Eine Teilgruppeninteraktion, deren Konfidenzintervall null kreuzt
-- [[student-ai-inquiry-types-cs2-2026]] — The corpus's one first-generation usage finding
-- [[international-students-conversational-ai-adaptation]] — The corpus's one international-student study
+- [[student-ai-inquiry-types-cs2-2026]] — Der einzige Nutzungsbefund des Korpus zu Studierenden der ersten Generation
+- [[international-students-conversational-ai-adaptation]] — Die einzige internationale Studierenden-Studie des Korpus
 - [[liu-course-integrated-ai-tutoring-rct-2026]] — Die erste Effektschätzung des Korpus für Studierende der ersten Generation: Tutorzugang kostete sie 0.50 SDs der Abschlussnote gegenüber 0.22 für ihre Peers (Liu et al. 2026)
-- [[fairness-theatre-early-warning-systems-2026]] — Fairness Theatre: Evaluating Post-Hoc Fairness Interventions in Vendor-Controlled Early Warning Systems
+- [[fairness-theatre-early-warning-systems-2026]] — Fairness Theatre: Bewertung von Post-hoc-Fairness-Interventionen in Anbietergesteuerten Frühwarnsystemen

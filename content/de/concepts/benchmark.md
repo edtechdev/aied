@@ -1,7 +1,7 @@
 ---
 title: Benchmark (Vergleichsmaßstab)
 created: "2026-08-09T16:52:03-04:00"
-updated: "2026-10-10T09:04:24-04:00"
+updated: "2026-10-24T20:13:33-04:00"
 type: concept
 technology: [generative-ai, llm]
 assessment: [assessment]
@@ -10,7 +10,7 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation, benchmark]
 translation_of: concepts/benchmark
-source_updated: "2026-10-09T09:50:00-04:00"
+source_updated: "2026-10-23T09:35:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -41,6 +41,7 @@ Benchmarks dienen als evidentielle Grundlage der [[ai-education|Forschung zu KI 
 - **[[teaching-feedback-classification-benchmark|Teaching-Feedback-Benchmarks]]** bewerten den sprachübergreifenden Transfer der Klassifikation von [[ai-feedback-quality|Feedback-Qualität]].
 - **[[cdpk-pedagogy-benchmark-llms|Der Pedagogy Benchmark (CDPK + SEND)]]** testet pädagogisches Wissen — Lehrstrategien, [[assessment|Assessmentmethoden]] und [[special-education|sonderpädagogische Didaktik]] —, statt Fachwissen, und berichtet eine „Wertgrenze“ aus Kosten und Genauigkeit über 97 Modelle (die meisten allgemeinen Benchmarks testen Fachwissen; Pädagogik ist eine eigene, bildungskritische Dimension).
 - **[[jeon-isd-agent-bench-2026|ISD-Agent-Bench]]** benchmarkt [[llm|LLM-basierte]] [[learning-design|Instruktionsdesign-]]Agenten über 25,795 Instruktionsdesignszenarien und zeigt, dass hybride Agenten, die in klassischen ISD-Rahmenwerken fundiert sind (ADDIE, Dick & Carey, Rapid Prototyping), reine Theorie oder reine Technik übertreffen — ein Benchmark-Ergebnis mit direkten Implikationen für das Design [[agentic-ai|agentischer KI]] in der Bildung.
+- **[[tutor-case-bench-challenging-behaviors-2026|TutorCaseBench]]** fundiert die Tutoren-Evaluation auf dokumentierter Fallliteratur statt simulierter Personas: 923 Dialoge aus Fällen der Sonderpädagogik und der Bildungspsychologie, wobei das stärkste von 11 Modellen in 55.8% der offenen Fälle eine dokumentierte Intervention erfüllte.
 
 - **Lernendenanpassung als explizites Benchmark-Kriterium.** Die Teaching Monster Challenge bewertet Anpassung an eine spezifizierte Lernenden-Persona, doch ihr automatisierter LLM-Richter trennte nur einen schwachen Schwanz — die Spitzensysteme punkteten nahe seiner Decke, und ihr Ranking stimmte nicht mit der Präferenz der Menge überein (Spearman ρ = −0.17) ([[teaching-monster-pck-benchmark-2026|Lin et al. (2026)]]).
 
@@ -83,25 +84,26 @@ Benchmarks verbinden sich mit [[ai-ed-evaluation|Evaluation von KI in der Bildun
 
 ## Verbundene Artikel
 
-- [[standardized-assessment-llm-english-proficiency-2026]] — A 624-item English proficiency benchmark that reports model ability as a calibrated level (Min et al. 2026)
+- [[tutor-case-bench-challenging-behaviors-2026]] — TutorCaseBench: LLM-Tutoren an Schülerinnen und Schülern mit herausforderndem Verhalten bewerten (Park et al. 2026)
+- [[standardized-assessment-llm-english-proficiency-2026]] — Ein 624-Items umfassender Englisch-Sprachfertigkeits-Benchmark, der Modellfähigkeit als kalibriertes Niveau berichtet (Min et al. 2026)
 - [[omniphys-multimodal-physics-benchmark-2026]]
-- [[assessment-latent-structure-human-llm-2026]] — Do assessment instruments measure the same thing for humans and LLMs? (Strugatski et al. 2026)
-- [[cdpk-pedagogy-benchmark-llms]] — The Pedagogy Benchmark: LLM pedagogical knowledge (CDPK + SEND)
+- [[assessment-latent-structure-human-llm-2026]] — Messen Assessment-Instrumente für Menschen und LLMs dasselbe? (Strugatski et al. 2026)
+- [[cdpk-pedagogy-benchmark-llms]] — Der Pedagogy Benchmark: pädagogisches Wissen von LLMs (CDPK + SEND)
 - [[jeon-isd-agent-bench-2026]] — ISD-Agent-Bench: benchmarking LLM-based instructional-design agents
 - [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — On-premise OER AI knowledge-base assistants: multi-dimensional benchmark
-- [[authentic-products-authenticated-processes-2026]] — From authentic products to authenticated processes: authentic assessment in AI-rich higher education
-- [[llm-cognitive-diagnosis-handwritten-math]] — Benchmarking Large Language Models for Diagnosing Students' Cognitive Skills from Handwritten Math Work
-- [[educlaw-bench-pedagogical-llm-agents-2026]] — EduClaw-Bench: A Long-Horizon Benchmark for Pedagogical LLM Agents with Simulated Learners
-- [[responsible-assessment-ai-era-stanford-2026]] — Responsible Assessment in the AI Era: Key Insights from a Future-Focused Conference
-- [[anvil-ai-educational-animations]] — ANVIL: Analogies and Videos for Lecturers
-- [[icle-plus-plus-essay-scoring]] — ICLE++: Modeling Fine-Grained Traits for Holistic Essay Scoring
+- [[authentic-products-authenticated-processes-2026]] — Von authentischen Produkten zu authentifizierten Prozessen: authentisches Assessment in KI-reicher Hochschulbildung
+- [[llm-cognitive-diagnosis-handwritten-math]] — Benchmarking großer Sprachmodelle für die Diagnose kognitiver Fähigkeiten von Studierenden aus handschriftlichen Mathematik-Arbeiten
+- [[educlaw-bench-pedagogical-llm-agents-2026]] — EduClaw-Bench: ein Long-Horizon-Benchmark für pädagogische LLM-Agenten mit simulierten Lernenden
+- [[responsible-assessment-ai-era-stanford-2026]] — Verantwortungsvolles Assessment im KI-Zeitalter: zentrale Erkenntnisse einer zukunftsorientierten Konferenz
+- [[anvil-ai-educational-animations]] — ANVIL: Analogien und Videos für Dozierende
+- [[icle-plus-plus-essay-scoring]] — ICLE++: Modellierung feingranularer Merkmale für holistische Aufsatzbewertung
 - [[teaching-monster-pck-benchmark-2026]]
-- [[cfes-p24-multimodal-slide-auditing-2026]] — CFES-P24: Benchmarking Multimodal LLMs for Slide Auditing
-- [[diagramir-educational-math-diagram-evaluation]] — DiagramIR: benchmark for evaluating generated math diagrams
-- [[eeg-familiarity-automated-assessment-2026]] — Automating Learner Assessment: EEG-Based Familiarity Prediction
-- [[algorag-rag-theoretical-cs-education-2026]] — AlgoRAG: Retrieval-Augmented Generation for Theoretical Computer Science Education -- A Comprehensive Evaluation Framework for Algorithm Analysis and Complexity Theory
-- [[muse-vlm-artistic-image-benchmark-2026]] — MUSE: annotation-first, task-generative benchmark construction, and dimension-level non-redundancy across 12 artistic-imagery tasks (Zhu et al. 2026)
-- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: AI and human tutoring yield equivalent GRE learning gains
-- [[bloom-classifier-ai-assisted-questions-2026]] — Evaluation of pre-trained models for pedagogical assessment of novel AI-assisted educational questions
-- [[llm-benchmark-secondary-science-topics-2026]] — A Benchmark for LLM's Understanding of Middle School and High School Science Topics
-- [[llm-tutor-pedagogical-metric-degradation-2026]] — Eight design principles for AI-tutor benchmarks, derived from a metric that was optimized into repetition (Domínguez Figaredo & Fernández De la Cruz 2026)
+- [[cfes-p24-multimodal-slide-auditing-2026]] — CFES-P24: Benchmarking multimodaler LLMs für die Prüfung von Folien
+- [[diagramir-educational-math-diagram-evaluation]] — DiagramIR: Benchmark zur Bewertung erzeugter Mathematikdiagramme
+- [[eeg-familiarity-automated-assessment-2026]] — KI-gestützte automatisierte Bewertung von Lernenden: EEG-basierte Vorhersage von Vertrautheit
+- [[algorag-rag-theoretical-cs-education-2026]] — AlgoRAG: Retrieval-Augmented Generation für Theoretische Informatik-Bildung -- ein umfassendes Bewertungsrahmenwerk für Algorithmusanalyse und Komplexitätstheorie
+- [[muse-vlm-artistic-image-benchmark-2026]] — MUSE: annotierungsorientierte, aufgabengenerative Benchmark-Konstruktion und dimensionsweise Nicht-Redundanz über 12 künstlerische Bildgebung-Aufgaben hinweg (Zhu et al. 2026)
+- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: KI- und menschliches Tutoring erzielen äquivalente GRE-Lerngewinne
+- [[bloom-classifier-ai-assisted-questions-2026]] — Evaluation vortrainierter Modelle zur pädagogischen Beurteilung neuartiger KI-unterstützter Bildungsfragen
+- [[llm-benchmark-secondary-science-topics-2026]] — Ein Benchmark für das Verständnis von LLMs für Naturwissenschafts-Themen der Mittel- und Oberstufe
+- [[llm-tutor-pedagogical-metric-degradation-2026]] — Acht Designprinzipien für KI-Tutor-Benchmarks, abgeleitet aus einer Metrik, die bis zur Wiederholung optimiert wurde (Domínguez Figaredo & Fernández De la Cruz 2026)

@@ -1,7 +1,7 @@
 ---
 title: Prompt-Engineering
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-10-10T09:04:24-04:00"
+updated: "2026-10-24T21:57:17-04:00"
 type: concept
 connected_faqs: [making-ai-better-at-supporting-learning, training-ai-tutors-to-guide-rather-than-answer]
 foundations: [ai-literacy]
@@ -12,7 +12,7 @@ level: [higher ed]
 confidence: high
 connected_resources: [edugems, matt-pocock-skills, pedagogical-promptbook, writing-rhetoric-studies-in-the-loop]
 translation_of: concepts/prompt-engineering
-source_updated: "2026-10-14T11:15:00-04:00"
+source_updated: "2026-10-16T20:19:49-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -25,6 +25,8 @@ ai_assist:
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
 
 > **Prompt Engineering** — die Praxis, Eingaben an große Sprachmodelle zu entwerfen und zu verfeinern, um gewünschte Ausgaben zu erreichen. In der Bildung dient Prompt Engineering doppelten Rollen: als Fähigkeit der lernenden Person (Lernende müssen lernen, wirksam zu prompten) und als Hebel des Systemdesigns (Entwickelnde bauen Prompts, die das Verhalten [[intelligent-tutoring|KI-Tutorings]] prägen).
+
+- **Vage Prompts hinterlassen eine Spur im Dialog.** Das Signatur der qualitativ schwächeren Gruppe war eine sich selbst wiederholende Klärungsschleife (IC→IC, Z = 3,25), zurückzuführen auf vage Prompts und Fehllesungen durch die KI, und sie trug die größte Frustrationslücke der Studie (2,12 vs 3,82); Prompt-Debugging an authentischen Protokollen greift es dabei auf, wie es entsteht ([[fang-human-ai-collaboration-patterns-instructional-design-2026|Fang et al. (2026)]]).
 
 ## Fragen zum Nachdenken
 
@@ -105,16 +107,16 @@ Prompt Engineering verbindet sich mit [[scaffolding|Scaffolding]] — gut gestal
 
 ## Verbundene Artikel
 
-- [[wang-teacher-student-centered-agents-physics-2026]] — Agent role and constraint prompts as the design variable in physics learning (Wang et al. 2026)
-- [[gpt-item-generation-l2-listening-2026]] — Prompting vs. fine-tuning for GPT-based L2 listening item generation (Aryadoust & Wong 2026)
-- [[llm-interaction-depth-task-quality-recall-2026]] — What students ask matters: LLM interaction depth, task quality, and immediate recall (Tsiligkiris 2026)
-- [[ye-arpg-real-time-coaching-llm-prompting-2026]] — ARPG+: real-time coaching for educational LLM prompting
-- [[dierickx-taxonomy-llm-tasks-critical-ai-literacy-journalism-2026]] — Task-based taxonomy of LLM tasks for critical AI literacy in journalism
-- [[prompt-privilege-equitable-ai-access-2026]] — Prompt Privilege: measuring & mitigating accessibility disparities in LLM access
-- [[principal-trait-analysis-human-ai-skills-2026]] — Principal Trait Analysis: data-driven traits of human-AI collaboration
-- [[llms-text-linguistics-teaching-2026]] — LLMs in text linguistics teaching
-- [[idea-framework-metacognitive-genai-2026]] — The IDEA framework for metacognitively regulated GenAI use
-- [[lin-llm-interactive-lesson-generation]] — LLM generation of interactive tutor-training lessons (Lin et al. 2025)
+- [[wang-teacher-student-centered-agents-physics-2026]] — Agentenrolle und Constraints-Prompts als Designvariable im Physiklernen (Wang et al. 2026)
+- [[gpt-item-generation-l2-listening-2026]] — Prompting vs. Feinjustierung bei der GPT-basierten Erzeugung von L2-Hörverstehens-Items (Aryadoust & Wong 2026)
+- [[llm-interaction-depth-task-quality-recall-2026]] — Was Studierende fragen, zählt: Interaktionstiefe mit LLMs, Aufgabenqualität und unmittelbarer Abruf (Tsiligkiris 2026)
+- [[ye-arpg-real-time-coaching-llm-prompting-2026]] — ARPG+: Echtzeit-Coaching für Bildungs-LLM-Prompting
+- [[dierickx-taxonomy-llm-tasks-critical-ai-literacy-journalism-2026]] — Aufgabenbasierte Taxonomie von LLM-Aufgaben für kritische KI-Kompetenz im Journalismus
+- [[prompt-privilege-equitable-ai-access-2026]] — Prompt Privilege: Messung und Minderung von Zugangsungleichheiten bei LLMs
+- [[principal-trait-analysis-human-ai-skills-2026]] — Principal Trait Analysis: datengesteuerte Merkmale der Mensch-KI-Zusammenarbeit
+- [[llms-text-linguistics-teaching-2026]] — LLMs im Textlinguistikunterricht
+- [[idea-framework-metacognitive-genai-2026]] — Das IDEA-Rahmenwerk für metakognitiv regulierten GenAI-Einsatz
+- [[lin-llm-interactive-lesson-generation]] — LLM-Erzeugung interaktiver Tutor-Trainingslektionen (Lin et al. 2025)
 - [[aaai2026-prompting-literacy-k12]]
 - [[ase-26-agentic-software-engineering-curriculum]]
 - [[choi-anchor-aes-prompting-2025]]
@@ -122,15 +124,17 @@ Prompt Engineering verbindet sich mit [[scaffolding|Scaffolding]] — gut gestal
 - [[learning-to-prompt-adaptive-tutoring]]
 - [[misiejuk-cognitive-offloading-prompting-2026]]
 - [[tracing-genai-literacy-interaction-patterns]]
-- [[unesco-ai-guidelines-chemical-education-2026]] — UNESCO AI guidelines translated to chemical education; epistemic drift
-- [[isaza-chatgpt-engineering-prompting-2026]] — Prompting behaviors predict engineering student performance
-- [[student-ai-conversations-cognitive-engagement-2026]] — Discipline-associated Bloom-level cognitive engagement in student-AI conversations (Chang & Li 2026)
-- [[yasar-llms-iterative-pedagogical-design-2026]] — LLMs as agents of iterative pedagogical design
+- [[unesco-ai-guidelines-chemical-education-2026]] — UNESCO-KI-Leitlinien übertragen auf die Chemiebildung; epistemische Drift
+- [[isaza-chatgpt-engineering-prompting-2026]] — Prompting-Verhaltensweisen sagen die Leistung von Ingenieurstudierenden voraus
+- [[student-ai-conversations-cognitive-engagement-2026]] — Disziplinassoziiertes Bloom-Niveau-kognitives Engagement in Studierenden-KI-Gesprächen (Chang & Li 2026)
+- [[yasar-llms-iterative-pedagogical-design-2026]] — LLMs als Agenten iterativer pädagogischer Designprozesse
 - [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
-- [[miles-prompt-literacy-human-centered-genai-framework-2026]] — Prompt engineering vs prompt literacy: a five-phase human-centered GenAI engagement framework with a five-step Prompt Literacy Cycle (Miles, Haber-Curran & Arar 2026)
-- [[teacher-ai-literacy-prompt-feedback-quality-2026]] — Prompt engineering and model selection as predictors of AI-feedback quality (Jacobsen et al. 2026)
-- [[llm-feedback-focus-adaptivity-student-writing-2026]] — Evaluating Feedback Focus and Pedagogical Adaptivity in LLM-Generated Feedback on Student Writing
+- [[miles-prompt-literacy-human-centered-genai-framework-2026]] — Prompt Engineering vs. Prompt Literacy: ein fünfstufiges menschzentriertes GenAI-Engagement-Rahmenwerk mit einem fünfschrittigen Prompt-Literacy-Zyklus (Miles, Haber-Curran & Arar 2026)
+- [[teacher-ai-literacy-prompt-feedback-quality-2026]] — Prompt Engineering und Modellauswahl als Prädiktoren der Qualität von KI-Feedback (Jacobsen et al. 2026)
+- [[llm-feedback-focus-adaptivity-student-writing-2026]] — Evaluierung von Feedback-Fokus und pädagogischer Adaptivität in LLM-generiertem Feedback zu Studierendenschreiben
 
-- [[middle-school-genai-steam-interactions-2026]] — Middle-school STEAM groups copied the instructor's instruction verbatim in 47.1% of prompts
+- [[middle-school-genai-steam-interactions-2026]] — STEAM-Gruppen der Mittelstufe kopierten die Anweisung der Lehrkraft in 47,1% der Prompts wörtlich
 
-- [[ecd-prompts-automated-essay-scoring-2026]] — Using Evidence-Centered Design to Guide Prompt Engineering in Measurement: An Illustration with Automated Essay Scoring
+- [[ecd-prompts-automated-essay-scoring-2026]] — Evidence-Centered Design zur Leitung des Prompt Engineering in der Messung: Eine Illustration am Beispiel der automatisierten Aufsatzbewertung
+- [[fang-human-ai-collaboration-patterns-instructional-design-2026]] — Vage Prompts erzeugten sich selbst wiederholende Klärungsschleifen mit der größten Frustrationslücke
+

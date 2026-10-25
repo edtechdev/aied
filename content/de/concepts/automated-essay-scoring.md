@@ -1,7 +1,7 @@
 ---
 title: Automatisierte Bewertung von Aufsätzen
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-10T09:04:25-04:00"
+updated: "2026-10-24T23:32:01-04:00"
 type: concept
 foundations: [ai-literacy]
 technology: [generative-ai, llm, prompt-engineering]
@@ -87,22 +87,22 @@ Offene Systeme gehören ebenfalls in dieses Bild: AiAWE bewertet Argumentationsa
 - [[ai-literacy]]
 - [[assessment-validity]]
 ## Verbundene Artikel
-- [[reflection-level-classification-hungarian-essays-2026]] — Automatic Reflection Level Classification in Hungarian Student Essays
-- [[wraft-automated-writing-evaluation-argumentative-2026]] — WrAFT: a Modularized Automated Writing Evaluation System for Argumentative Essays
-- [[automated-essay-scoring-critical-thinking-physics-2026]] — Educational Innovation through Automated Essay Scoring: A Multidimensional Framework for Evaluating Critical Thinking in High School Physics Essays
-- [[opraise-automated-marking-ai-assessment-2026]] — OpRaise report: AI marking of 761 university essays across three UK universities
-- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — A Human-in-the-Loop Framework for AI-Assisted Scoring in Large-Scale Writing Assessment
-- [[zhang-races-consistent-essay-scoring-llms-2026]] — RACES: reward-aligned consistent essay scoring with LLMs
+- [[reflection-level-classification-hungarian-essays-2026]] — Automatische Klassifikation des Reflexionsniveaus in ungarischen Studierendenaufsätzen
+- [[wraft-automated-writing-evaluation-argumentative-2026]] — WrAFT: ein modularisiertes automatisiertes System zur Bewertung von Argumentationsaufsätzen
+- [[automated-essay-scoring-critical-thinking-physics-2026]] — Bildungliche Innovation durch automatisierte Aufsatzbewertung: ein mehrdimensionales Framework zur Bewertung kritischen Denkens in Physik-Aufsätzen der Oberstufe
+- [[opraise-automated-marking-ai-assessment-2026]] — OpRaise-Bericht: KI-Bewertung von 761 Hochschulaufsätzen an drei britischen Universitäten
+- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — Ein Mensch-in-der-Schleife-Framework für KI-gestützte Bewertung in der großmaßstäblichen Schreibbewertung
+- [[zhang-races-consistent-essay-scoring-llms-2026]] — RACES: belohnungsabgestimmte konsistente Aufsatzbewertung mit LLMs
 - [[ai-scoring-language-bias-physics]]
 - [[choi-anchor-aes-prompting-2025]]
 - [[icle-plus-plus-essay-scoring]]
-- [[llms-do-not-grade-essays-like-humans-2026]] — LLMs do not grade essays like humans (Mathew et al. 2026)
+- [[llms-do-not-grade-essays-like-humans-2026]] — LLMs bewerten Aufsätze nicht wie Menschen (Mathew et al. 2026)
 - [[psyscore-essay-scoring-zpd-feedback]]
 - [[self-referential-l2-writing-llm-assessment]]
 - [[aiawe-automated-writing-evaluation]]
-- [[automated-scoring-learning-diagnosis-mechanism-2026]] — From automated scoring to learning diagnosis: a mechanism study of AI-supported formative assessment in English writing
-- [[llm-essay-scoring-feature-weighting-2026]] — Feature weighting patterns in LLM-based essay scoring (Wang et al. 2026)
-- [[llm-essay-assessment-framework-reliability-2026]] — Framework for evaluating LLMs in essay assessment (Liu, Ye & Yan 2026)
+- [[automated-scoring-learning-diagnosis-mechanism-2026]] — Von der automatisierten Bewertung zur Lerndiagnose: eine Mechanismusstudie zur KI-gestützten formativen Bewertung im Englischschreiben
+- [[llm-essay-scoring-feature-weighting-2026]] — Muster der Merkmalsgewichtung in der LLM-basierten Aufsatzbewertung (Wang et al. 2026)
+- [[llm-essay-assessment-framework-reliability-2026]] — Framework zur Evaluation von LLMs in der Aufsatzbewertung (Liu, Ye & Yan 2026)
 - [[falahat-chatgpt-grading-pharmacy-exams-2026]]
-- [[know-when-to-trust-ai-scoring-reliability-2026]] — Know When to Trust: self-confidence, weighted probabilistic scoring and ensembling improve LLM scoring agreement
-- [[swim-student-writing-simulation-2026]] — a frozen AES verifier used as a dense training reward for a writing generator
+- [[know-when-to-trust-ai-scoring-reliability-2026]] — Wissen, wann man vertrauen kann: Selbstsicherheit, gewichtete probabilistische Bewertung und Ensembling verbessern die Übereinstimmung der LLM-Bewertung
+- [[swim-student-writing-simulation-2026]] — ein eingefrorener AES-Verifier, der als dichte Trainingsbelohnung für einen Schreibgenerator genutzt wird
