@@ -2,7 +2,7 @@
 connected_resources: [matt-pocock-skills]
 title: Socratic Method
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-19T09:40:00-04:00"
+updated: "2026-10-25T05:04:43-04:00"
 type: concept
 foundations: [ai-education, critical-thinking]
 pedagogy: [metacognition, scaffolding]
@@ -29,6 +29,8 @@ reviewed_by: [editor]
 The Socratic method is one of the oldest pedagogical techniques — originating with Socrates in ancient Athens — and it has found new relevance in the age of [[generative-ai|generative AI]]. In AI education [[research-methods-aied|research]], the Socratic method refers to AI systems that engage learners through guided dialogue, posing questions that lead students to discover answers rather than providing them outright. Asking structured questions rather than providing answers is one of the strongest pedagogical scaffolds for deep learning; when automated via AI, it produces measurable reasoning gains but also requires careful calibration to avoid frustrating learners or displacing human mentorship.([[hashmi-socratic-physics-chatbot-2025]])([[favero-critical-ai-tutors-empower-enslave-2025]])
 
 Socratic and directive feedback moved different things: Socratic feedback raised comprehension monitoring and task orientation, directive feedback scored higher on prioritization of essential features, and only the directive condition gained from a customized agent ([[agent-type-feedback-style-self-directed-learning-2026|Han et al. (2026)]]).
+
+[[ngambi-ai-learning-ecosystems-domino-framework-2026|Ng'ambi and van der Merwe (2026)]] capture Socratic questioning working and failing in the same Grade 9 mathematics class: when a learner arrived with a hypothesis, the tutor disaggregated it into sub-questions, but on a structured Pythagoras task it restated and drifted off-topic.
 
 ## How it works in AI tutoring
 

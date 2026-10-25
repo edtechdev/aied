@@ -1,7 +1,7 @@
 ---
 title: Global South
 created: "2026-08-18T14:55:00-04:00"
-updated: "2026-10-21T21:15:00-04:00"
+updated: "2026-10-25T05:04:43-04:00"
 type: concept
 foundations: [ai-literacy]
 technology: [generative-ai]
@@ -49,6 +49,8 @@ Mainstream AI and educational-technology research has historically been dominate
 Attending to Global South contexts requires moving beyond assuming Western models and benchmarks transfer directly. It calls for locally grounded datasets, culturally relevant [[pedagogy]], community-centered evaluation standards, and research that treats learners' lived and community epistemologies as authoritative — aligning with frameworks like community-based AI learning and [[technology-acceptance-model|technology-acceptance]] research adapted to local conditions.
 
 The scaling record is part of that picture, and it is sobering. Programs that work at pilot scale frequently stop working when governments run them: the Kenyan program that produced substantial gains under non-governmental implementation showed no detectable gain at government scale (Bold et al.), effect sizes tend to fall as programs grow (Vivalt), and implementation quality dilutes as sites multiply (Al-Ubaydli, List & Suskind). Latin America's own precedent is the Peruvian One Laptop per Child program — about 800,000 laptops distributed with no detectable effect on [[math-education|mathematics]] or reading — from which the lesson drawn was that access to technology is not instruction. [[el-salvador-ai-tutoring-selection-claim-2026|Restrepo Morales et al. (2026)]] add a reporting lesson to the scaling lesson: in the 2026 El Salvador episode an AI-tutoring pilot in 171 schools was announced as comparable to Germany and Sweden while the same country's representative PISA 2025 sample showed no movement in two of three subjects, and the pilot data were too thin (7.0 assessed students per school against 25.4 nationally) to exclude selection as the explanation. For Global South systems adopting AI at scale the implication is double: the evidence that a reform works is usually about the components it bundles rather than the technology in its headline, and a phased rollout designed before deployment identifies effects at almost no cost — which matters most where connectivity dictates the phasing anyway.
+
+[[ngambi-ai-learning-ecosystems-domino-framework-2026|Ng'ambi and van der Merwe (2026)]] argue from a South African Grade 9 classroom that restriction-first institutional policy forecloses the conditions under which AI might extend rather than substitute for teachers under pedagogical scarcity, and that interaction data learners generate is held under foreign governance regimes.
 
 ## Connected Concepts
 

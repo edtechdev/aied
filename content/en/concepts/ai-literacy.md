@@ -1,7 +1,7 @@
 ---
 title: AI Literacy
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-10-23T09:20:00-04:00"
+updated: "2026-10-25T05:05:44-04:00"
 type: concept
 foundations: [academic-integrity, ai-education, ai-literacy, educational-development]
 technology: [generative-ai, llm]
@@ -196,6 +196,10 @@ AI literacy is **double-edged** for overreliance: [[student-dependency-on-ai-lit
 - **Socialist humanist AI literacy (2026):** A literature review critiques compliance-oriented AI literacy and proposes a socialist-humanist framing of asynchronous AI literacy and fair use in higher education, linking the historical digital divide to modern AI literacy and calling for approaches that serve human flourishing and equity rather than mechanical policy compliance ([[mechanical-compliance-human-flourishing-ai-literacy-2026]]).
 - **Cheap, light-touch warnings blunt AI persuasion — without costing general trust.** [[ai-literacy-warning-political-persuasion-2026|Orchinik and Rand (2026)]] preregistered two experiments (total N = 3,208 US adults) in which participants conversed with an [[llm]] instructed to shift their views on political topics. A single brief warning — that models can be prompted to persuade and may present information selectively — cut belief change by roughly one half (-48.1%, 95% CI [-59.5%, -36.8]) relative to control, and adding specific persuasion-technique warnings produced no further benefit. The property that matters for teaching is on the other side of the effect: general trust in [[generative-ai]] did not fall, so the intervention builds [[trust-calibration|calibrated trust]] rather than blanket skepticism. It is a one-paragraph, no-facilitation intervention, which is a rare cost profile for an AI literacy design.
 - **Learner governance of AI matters more than the design of the tool.** [[ai-literacy-tool-design-programming-education-2026|Azimi (2026)]] randomized 33 students in a master's data-analytics course between a scaffolded AI Study Coach embedded in the notebooks (n = 16) and unrestricted use of any [[generative-ai]] tools they chose (n = 17) for seven weeks. Assignment performance and concept-inventory gains were indistinguishable; the Coach condition reported higher [[self-efficacy|confidence]] instead. What separated students was AI literacy in practice: those who had formulated their own rules for when to use AI scored higher in both conditions, and the students with the deepest model understanding — every one of them self-taught — prompted most deliberately. The design implication runs against the control reflex: teach the [[self-regulated-learning|self-regulatory]] and model-understanding components of AI literacy rather than constrain tools.
+
+For critical AI literacy specifically, [[solyst-youth-systematic-evaluation-genai-2026|Solyst et al. (2026)]] show that youths can be taught to evaluate generative AI systematically, given scaffolding that names what to look for and a structure for recording what they find.
+
+[[suartama-cafe-ai-pedagogy-technology-ai-literacy-2026|Suartama, Sukmana and Triwahyuni (2026)]] propose CAFE-AI, a design that pairs AI literacy instruction with growth-mindset framing, reporting that the combination improved both measured AI literacy and mindset over a semester in one Indonesian university course.
 
 ## Connected Concepts
 - [[pedagogical-patterns]] — Developed by the critical-appraisal steps in these sequences

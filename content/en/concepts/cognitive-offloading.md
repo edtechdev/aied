@@ -1,7 +1,7 @@
 ---
 title: Cognitive Offloading
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-23T09:20:00-04:00"
+updated: "2026-10-25T05:04:43-04:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [metacognition, self-regulated-learning]
@@ -85,6 +85,8 @@ The knowledge base's articles document cognitive offloading across multiple dime
 - **The Safety Gap as the cost of offloading struggle.** [[wang-safety-gap-productive-struggle-2026|Wang & Shan (2026)]] formalize the divergence between a student's AI-assisted performance and their unassisted capability as the "Safety Gap" — the epistemic risk when AI does the cognitive work and the learner cannot reproduce it. [[kim-ai-productive-failure-adult-2026|Kim et al. (2026)]] and [[puech-pedagogical-steering-llm-productive-failure-2025|Puech et al. (2025)]] show [[productive-failure]] design (withholding answers, preserving struggle) is the countermeasure.
 
 - **The ICAP/SAMR spectrum frames offloading as a continuum of modes, not a binary.** [[thermomix-genai-education-analogy-2026|Rummel, Nachtigall, and Panadero (2026)]] map the Thermomix kitchen-machine analogy onto learning with [[generative-ai]] within the [[icap-framework|ICAP]] and [[samr-model|SAMR]] frameworks, showing four scenarios that progress from **passive substitution** (fully outsourcing assignments — the offloading end, risking skill loss and limited [[creativity]]) to **interactive redefinition** (AI as a [[pedagogical-agent|dialogue partner]] providing real-time [[feedback|adaptive feedback]] and co-construction — the engaged end). This reframes offloading's harm as conditional on *mode of use* rather than mere frequency, converging with the pervasive "scaffold vs. substitute" boundary: whether AI use sits at the substitution/Substitution or redefinition/Redefinition end of the spectrum determines whether it displaces or supports the cognition that builds learning.
+
+[[navas-romero-designing-teaching-materials-genai-2026|Navas-Romero et al. (2026)]] report students' perceptions of the cognitive demands of GenAI-designed instructional materials in higher education alongside their gains in learner competencies, separating the load these materials impose from the competencies they build.
 
 ## Over-reliance: when offloading becomes harmful
 

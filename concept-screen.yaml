@@ -8247,3 +8247,346 @@
     documents altogether. || academic-integrity: no_change: grep ''academic integrit'' 14 - the page is built on integrity and misconduct, and the article''s shared finding that submitting entirely AI-generated text as one''s own is wrong corroborates a claim the page already carries; its own contribution, that the integrity frame is too narrow, is woven on ethics. || agency: no_change: grep ''genai'' 22 - the page covers learner agency, and the article''s practitioner note to foreground teacher and student agency restates the page''s thesis rather than extending it. || conversational-ai: no_change: grep ''genai'' 13 - the article studies genAI (non)use generally and names no conversational-agent design, so the page would gain a sample description. || creativity: no_change: grep ''genai'' 16 - the page''s creativity argument is about reaffirming human creativity against generative AI; the article records participants worrying about creativity loss, a perception rather than a finding about
     creativity. || critical-thinking: no_change: grep ''genai'' 37 - the page already argues critical thinking is non-outsourceable and cites philosophical work on it; the article''s participants anticipate losing it, which is the same claim from a perception study. || generative-ai: no_change: grep ''genai'' 43 - the page is the capability map; the article''s familiarity figures describe its sample, not the technology. || governance: no_change: grep ''policy'' 67 - the partnership-ethics recommendation for institutions is woven on educational-policy-ai, where the policy argument lives; a second placement would repeat one finding. || higher-ed: no_change: grep ''genai'' 39 - the Swedish social science faculty is the recruitment setting, not an estimated moderator, so the page would gain a sample description with no finding about higher education. || mixed-methods-research: no_change: grep ''interview'' 16, ''survey'' 15 - the article uses a census survey and focus groups without a methodological
     finding, so the page would gain an application, not a result. || philosophy-of-ai-in-education: no_change: grep ''genai'' 7 - the page covers embodiment and post-cognitivist critique, and the article draws on Merchant''s environmental ethics without engaging that literature; its framework claim is woven on ethics. || teacher-role: no_change: grep ''genai'' 28 - the page covers teachers as value-laden actors; the article''s group difference, teachers more negative than students, is woven into the ethics and policy pages where that argument lives. || trust: no_change: grep ''feedback'' 19 - the page''s trust argument concerns trust in AI output and detectors; the article''s uncertainty and suspicion is interpersonal and belongs to the policy argument woven on educational-policy-ai.'
+- article: correnti-erevise-validity-argument-formative-assessment-2026
+  date: '2026-10-25'
+  integrated:
+  - assessment-validity
+  - automated-essay-scoring
+  - formative-assessment
+  no_change:
+  - ai-ed-evaluation
+  - ai-education
+  - automated-assessment
+  - differential-effects-across-learner-groups
+  - educational-nlp
+  - equity-in-ai-education
+  - feedback
+  - human-in-the-loop-ai
+  - interpreting-and-applying-aied-research
+  - machine-learning
+  - metacognition
+  - process-oriented-assessment
+  - quantitative-research
+  - self-regulated-learning
+  - self-report-measures
+  - sociocultural-learning
+  - student-ai-interaction
+  - theories-and-frameworks
+  - writing-education
+  reason: 'assessment-validity: integrated: the paper IS a validity argument, replicated and extended across three writing outcomes and 34 teachers/609 students - the page''s clearest empirical case. || automated-essay-scoring: integrated: adds upper-elementary response-to-text evidence that automated feedback on evidence use improved feature scores. || formative-assessment: integrated: shows growth in revision quality, not only feature scores, conditional on teacher uptake. || the other 19 candidates failed the delete test: the paper''s contribution is a validity argument for one system, so pages such as metacognition, sociocultural-learning or self-regulated-learning would gain only the theory the paper borrows rather than anything it establishes, and machine-learning/educational-nlp would gain an application rather than a finding.'
+- article: xu-recentering-humans-ai-assisted-writing-scoring-2026
+  date: '2026-10-25'
+  integrated:
+  - automated-essay-scoring
+  - evaluative-judgment
+  - bias-mitigation
+  no_change:
+  - agency
+  - ai-education
+  - ai-use-disclosure
+  - assessment-validity
+  - critical-pedagogy
+  - differential-effects-across-learner-groups
+  - educational-nlp
+  - equity-in-ai-education
+  - explainable-ai
+  - feedback-literacy
+  - generative-ai
+  - higher-ed
+  - human-ai-collaboration
+  - language-learning
+  - limitations-in-aied-research
+  - llm
+  - meta-analysis-systematic-review
+  - philosophy-of-ai-in-education
+  - privacy
+  - professional-training
+  - sociocultural-learning
+  - teacher-role
+  - trust
+  - trust-calibration
+  - writing-education
+  reason: 'automated-essay-scoring: integrated: twelve-study scoping review giving alignment magnitudes by writing dimension. || evaluative-judgment: integrated: makes the construct-narrowness argument central - scores track checkable surface features. || bias-mitigation: integrated: documents that fairness is the least examined dimension (10 of 12 silent, gender the only dimension tested). || the other 25 candidates failed the delete test: the review''s contribution is what it found about scoring fairness and construct scope, and pages such as trust, privacy or critical-pedagogy would gain the review''s framing rather than its findings.'
+- article: wang-student-ai-collaboration-peer-feedback-2026
+  date: '2026-10-25'
+  integrated:
+  - peer-assessment
+  - feedback-literacy
+  - student-ai-interaction
+  no_change:
+  - agency
+  - ai-feedback-quality
+  - ai-literacy
+  - ai-use-disclosure
+  - anxiety-and-stress
+  - cognitive-offloading
+  - collaborative-learning
+  - conversational-ai
+  - english-education
+  - formative-assessment
+  - generative-ai
+  - higher-ed
+  - human-ai-collaboration
+  - human-in-the-loop-ai
+  - language-learning
+  - mixed-methods-research
+  - motivation
+  - privacy
+  - prompt-engineering
+  - qualitative-research
+  - quantitative-research
+  - scaffolding
+  - self-determination-theory
+  - self-report-measures
+  - student-engagement
+  - trust
+  - writing-education
+  reason: 'peer-assessment: integrated: dialogic student-AI collaboration in peer review raised recipient-rated feedback quality. || feedback-literacy: integrated: reviewers'' own capacity to judge and use feedback improved through the practice. || student-ai-interaction: integrated: the open-ended dialogue pattern itself is the treatment, with enjoyment and anxiety as outcomes. || the other 27 candidates failed the delete test: sample composition (EFL writing, higher ed) and method facets describe the design rather than constituting findings, so those pages would gain a study description.'
+- article: wu-deepseek-reasoning-written-feedback-2026
+  date: '2026-10-25'
+  integrated:
+  - ai-feedback-quality
+  no_change:
+  - ai-education
+  - anxiety-and-stress
+  - bias-mitigation
+  - critical-thinking
+  - equity-in-ai-education
+  - feedback
+  - formative-assessment
+  - generative-ai
+  - higher-ed
+  - human-in-the-loop-ai
+  - learner-identity
+  - limitations-in-aied-research
+  - llm
+  - metacognition
+  - multilingual-learning
+  - open-source
+  - prompt-engineering
+  - scaffolding
+  - self-efficacy
+  - student-ai-interaction
+  - summative-assessment
+  - trust
+  - usability-research
+  - writing-education
+  reason: 'ai-feedback-quality: integrated: visible reasoning traces make a comment''s basis inspectable by the writer, a concrete quality affordance. || the other 24 candidates failed the delete test: the paper is a review plus the authors'' exploratory prompting of one tool with no participants, so outcome pages such as anxiety-and-stress, self-efficacy or metacognition would gain speculation rather than evidence.'
+- article: suartama-cafe-ai-pedagogy-technology-ai-literacy-2026
+  date: '2026-10-25'
+  integrated:
+  - ai-literacy
+  no_change:
+  - active-learning
+  - adaptive-learning
+  - affective-computing
+  - ai-ed-evaluation
+  - ai-education
+  - ai-technologies
+  - automated-assessment
+  - bias-mitigation
+  - collaborative-learning
+  - conversational-ai
+  - curriculum-design
+  - design-based-research
+  - digital-divide
+  - edtech-platform
+  - ethics
+  - feedback
+  - formative-assessment
+  - generative-ai
+  - higher-ed
+  - human-in-the-loop-ai
+  - learning-design
+  - learning-gains
+  - learning-sciences
+  - motivation
+  - online-teaching-and-learning
+  - personalized-learning
+  - privacy
+  - professional-training
+  - quantitative-research
+  - scaffolding
+  - self-assessment
+  - self-efficacy
+  - student-ai-interaction
+  - teacher-ai-competency
+  - teacher-role
+  - theories-and-frameworks
+  reason: 'ai-literacy: integrated: CAFE-AI pairs AI literacy instruction with growth-mindset framing and reports gains in both over a semester. || the other 36 candidates failed the delete test: one semester at one Indonesian university with self-report outcomes, so pages such as learning-gains, self-efficacy or theories-and-frameworks would gain a single-course result already stated on the ai-literacy weave.'
+- article: shao-ai-vr-flipped-classroom-efl-2026
+  date: '2026-10-25'
+  integrated:
+  - virtual-and-augmented-reality
+  - self-regulated-learning
+  no_change:
+  - active-learning
+  - ai-education
+  - assessment-validity
+  - design-based-research
+  - differential-effects-across-learner-groups
+  - educational-measurement
+  - educational-nlp
+  - english-education
+  - equity-in-ai-education
+  - experiential-learning
+  - k-12
+  - language-learning
+  - learning-design
+  - learning-gains
+  - limitations-in-aied-research
+  - metacognition
+  - motivation
+  - multimodal
+  - oral-assessment
+  - pedagogical-agent
+  - privacy
+  - prompt-engineering
+  - quantitative-research
+  - scaffolding
+  - self-determination-theory
+  - self-report-measures
+  - simulation
+  - situated-learning
+  - theories-and-frameworks
+  - visualization
+  reason: 'virtual-and-augmented-reality: integrated: AI-VR flipped classroom with measured achievement, MSR and motivation gains, technological literacy as moderator. || self-regulated-learning: integrated: metacognitive self-regulation is a measured outcome rather than an assumption, and it rose alongside achievement. || the other 30 candidates failed the delete test: the paper bundles AI feedback and VR into one treatment, so component pages (prompt-engineering, pedagogical-agent, simulation) would gain a claim the design cannot attribute.'
+- article: ngambi-ai-learning-ecosystems-domino-framework-2026
+  date: '2026-10-25'
+  integrated:
+  - intelligent-tutoring
+  - socratic-method
+  - problem-based-learning
+  - global-south
+  no_change:
+  - ai-detection
+  - ai-education
+  - ai-literacy
+  - assessment
+  - authentic-assessment
+  - collaborative-learning
+  - conversational-ai
+  - critical-pedagogy
+  - critical-thinking
+  - curriculum-design
+  - educational-measurement
+  - equity-in-ai-education
+  - ethics
+  - feedback
+  - generative-ai
+  - guardrails
+  - human-ai-collaboration
+  - k-12
+  - learning-design
+  - learning-gains
+  - llm
+  - math-education
+  - metacognition
+  - pedagogical-agent
+  - privacy
+  - problem-solving
+  - professional-training
+  - prompt-engineering
+  - qualitative-research
+  - scaffolding
+  - sociocultural-learning
+  - student-ai-interaction
+  - teacher-ai-competency
+  - teacher-role
+  - theories-and-frameworks
+  reason: 'intelligent-tutoring: integrated: shows the tutoring role is set by task design, not the system - the same model behaved differently under two designs. || socratic-method: integrated: captures Socratic questioning succeeding and failing in the same class. || problem-based-learning: integrated: direct comparison of 10 problem-based against 30 structured chats. || global-south: integrated: argues restriction-first policy forecloses extending AI under pedagogical scarcity, plus data sovereignty. || the other 35 candidates failed the delete test: the study is one Grade 9 class with N=10 for the correlations, and the framework is the authors'' analytical contribution, so most pages would gain an unvalidated construct.'
+- article: solyst-youth-systematic-evaluation-genai-2026
+  date: '2026-10-25'
+  integrated:
+  - ai-literacy
+  - bias-mitigation
+  no_change:
+  - ai-ed-evaluation
+  - collaborative-learning
+  - creativity
+  - critical-pedagogy
+  - critical-thinking
+  - cs-education
+  - design-based-research
+  - differential-effects-across-learner-groups
+  - digital-divide
+  - edtech-platform
+  - equity-in-ai-education
+  - evaluative-judgment
+  - generative-ai
+  - guardrails
+  - inquiry-based-learning
+  - learner-identity
+  - learning-sciences
+  - limitations-in-aied-research
+  - metacognition
+  - misconceptions
+  - mixed-methods-research
+  - multimodal
+  - prompt-engineering
+  - qualitative-research
+  - scaffolding
+  - self-assessment
+  - student-ai-interaction
+  - trust-calibration
+  - usability-research
+  reason: 'ai-literacy: integrated: youths can be taught to evaluate generative AI systematically given scaffolding that names what to look for. || bias-mitigation: integrated: shows bias mitigation is teachable, with initial image requests skewing white before intervention. || the other 29 candidates failed the delete test: a co-design study of 16 youths, so pages such as creativity, misconceptions or critical-thinking would gain a workshop description rather than a measured effect.'
+- article: nunez-canal-stakeholder-engagement-ai-competency-2026
+  date: '2026-10-25'
+  integrated:
+  - teacher-ai-competency
+  no_change:
+  - ai-literacy
+  - ai-technologies
+  - assessment
+  - bias-mitigation
+  - business-education
+  - career-development-and-readiness
+  - critical-thinking
+  - educational-development
+  - ethics
+  - feedback
+  - generative-ai
+  - guardrails
+  - higher-ed
+  - limitations-in-aied-research
+  - motivation
+  - pedagogy
+  - privacy
+  - professional-training
+  - quantitative-research
+  - research-methods-aied
+  - self-efficacy
+  - self-report-measures
+  - stakeholders
+  - student-engagement
+  - student-experience
+  - teacher-role
+  - theories-and-frameworks
+  - trust
+  reason: 'teacher-ai-competency: integrated: connects faculty AI competency to student outcomes using human capital and stakeholder theory, arguing the investment is not discretionary. || the other 28 candidates failed the delete test: all measures are self-reported and the dependent variable is a single item, so pages such as student-engagement, self-efficacy or career-development-and-readiness would gain a perception rather than a measured outcome.'
+- article: navas-romero-designing-teaching-materials-genai-2026
+  date: '2026-10-25'
+  integrated:
+  - cognitive-offloading
+  no_change:
+  - ai-education
+  - differential-effects-across-learner-groups
+  - generative-ai
+  - higher-ed
+  - learning-design
+  - learning-sciences
+  - limitations-in-aied-research
+  - llm
+  - metacognition
+  - problem-solving
+  - professional-training
+  - quantitative-research
+  - self-regulated-learning
+  - self-report-measures
+  - teacher-ai-competency
+  - teacher-education
+  - technology-acceptance-model
+  - theories-and-frameworks
+  - tpack
+  reason: 'cognitive-offloading: integrated: separates the cognitive demand GenAI-designed materials impose from the learner competencies they build, as perceived by students. || the other 19 candidates failed the delete test: perception data on one course, so pages such as tpack, technology-acceptance-model or learning-sciences would gain a sample description rather than a finding.'

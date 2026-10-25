@@ -1,7 +1,7 @@
 ---
 title: Student-AI Interaction
 created: "2026-08-20T02:55:00-04:00"
-updated: "2026-10-23T09:49:58-04:00"
+updated: "2026-10-25T05:04:43-04:00"
 type: concept
 foundations: [cognitive-offloading]
 pedagogy: [student-ai-interaction]
@@ -68,6 +68,7 @@ Teacher-authored prompts are one such lever, but enacted rigor lags the target: 
 
 Non-use is itself an interaction pattern that [[pedagogy]] must plan for. [[zou-is-this-a-trap-student-teachers-genai-2026|Zou et al. (2026)]], studying 85 [[teacher-education|student teachers]] in three courses where GenAI use in [[assessment]] was explicitly permitted, found that 62.4% (53 of 85) declined to use it at all, far below the 79–83% adoption seen in comparable UK and Australian surveys, and that adopters' use was shallow and corrective rather than generative (proofreading 43.8%, clarity checks 34.4%, text generation only 18.8%). Their choices tracked assessment design and institutional culture rather than technical difficulty: 41.5% of non-adopters feared being wrongly accused of [[academic-integrity|plagiarism]], and nine of eleven interviewees read the permissive policy itself as a possible "trap." The gap between 32 survey-reported users and 28 self-declarations shows that students' *reported* AI interaction is shaped by graded consequences — a measurement caveat for learning-analytics accounts of student-AI interaction.
 
+[[wang-student-ai-collaboration-peer-feedback-2026|Wang and Guo (2026)]] document what open-ended dialogue with generative AI adds in peer review: students who interrogated the model rather than accepting its first suggestion produced feedback peers rated higher, and reported more task enjoyment and less anxiety.
 
 ## Discipline and Cognitive Engagement in Student-AI Chat
 

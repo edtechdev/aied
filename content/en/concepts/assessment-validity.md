@@ -1,7 +1,7 @@
 ---
 title: Assessment Validity
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-23T08:05:20-04:00"
+updated: "2026-10-25T05:04:43-04:00"
 connected_faqs: [redesign-assessment-ai-era, reporting-interpreting-aied-research, asynchronous-online-courses-ai, checking-whether-educational-ai-works]
 type: concept
 foundations: [academic-integrity]
@@ -81,6 +81,8 @@ Assessment validity connects to [[authentic-assessment]], [[automated-assessment
 AI challenges validity at the epistemic level: [[end-of-assessment-ai-disruption-transformation-2026|Hathcoat, Slotnick & Miller (2026)]] argue that when LLMs serve as test-takers, test-makers, raters, and analysts, the interpretive chain becomes opaque and the object of measurement loses definition — reframing validity as requiring AI-fluent "cyborg" judgment, and [[can-ai-evaluate-assessment-llm-meta-assessment-2026|Green et al. (2026)]] show AI scores can align with human raters (87% checklist) while the underlying rationale diverges, especially on measurement quality and weak reports.
 
 **When AI generates the assessable artifact.** [[kumar-genai-computing-education-systematic-review-2026|Kumar, Wongsirichot and Nanthaamornphong (2026)]] give the validity problem its sharpest disciplinary case: in [[cs-education|computing education]] the AI produces the artifact being graded — the source code — so tool use, learning and assessment fuse into a single interaction, and a submitted codebase no longer separates learning from delegation. Across 72 studies they find efficiency gains that do not transfer to unaided performance (21 studies), [[prior-knowledge]] moderating whether AI help becomes skill (6 studies), and detection research effectively absent from the evidence base (3 studies) while assessment redesign is comparatively well evidenced (25 studies). Their conclusion for practice is construct-specific and low-tech: add an oral component or other process-visible element to at least one high-stakes assessment per course — the single highest-leverage intervention in the review — and require critical [[student-engagement|engagement]] with AI output as a graded, observable component rather than an optional disposition ([[academic-integrity]], [[assessment]]).
+
+[[correnti-erevise-validity-argument-formative-assessment-2026|Correnti et al. (2026)]] replicate and extend a validity argument for eRevise, an automated writing evaluation system for upper-elementary argument writing, across 34 teachers and 609 students in eight Louisiana parishes, testing whether the same sociocultural mechanisms hold across three different writing outcomes rather than one.
 
 ## Validity under imperfect information
 

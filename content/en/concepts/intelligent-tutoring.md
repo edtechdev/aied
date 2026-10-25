@@ -2,7 +2,7 @@
 connected_resources: [deeptutor, openmaic]
 title: Intelligent Tutoring
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-23T09:35:00-04:00"
+updated: "2026-10-25T05:04:43-04:00"
 connected_faqs: [ai-agents-support-students-instructors, developing-ai-tutor, training-ai-tutors-to-guide-rather-than-answer, checking-whether-educational-ai-works, making-simulated-students-behave-like-learners]
 type: concept
 pedagogy: [scaffolding]
@@ -30,6 +30,8 @@ reviewed_by: [editor]
 AI tutoring encompasses the use of artificial intelligence — particularly [[llm|large language models]] and structured Intelligent Tutoring Systems — to provide personalized, adaptive, and scalable instructional support to learners. AI tutors take many forms: conversational tutors that engage in Socratic dialogue, scaffolded feedback systems that guide problem-solving, [[adaptive-learning|adaptive learning platforms]] that personalize content sequencing, and agent-based tutors that maintain long-term [[student-modeling|learner models]]. The effectiveness of AI tutoring depends critically on pedagogical design choices — scaffolding, [[ai-feedback-quality|feedback quality]], and the balance between [[agency|autonomy]] and guidance — rather than on the underlying model alone.
 
 Historically, **[[mishra-control-vs-agency-history-2025|Mishra et al.]]** locate ITS within AIED's lineage from 1960s-70s expert systems and Anderson's ACT/ACT-R cognitive tutors, whose structured control contrasted with Papert's [[constructivist|constructionism]].
+
+[[ngambi-ai-learning-ecosystems-domino-framework-2026|Ng'ambi and van der Merwe (2026)]] show that the tutoring role is set by task design rather than by the system: the same language model, configured identically, sustained extended dialogue in problem-based Grade 9 mathematics tasks and collapsed into transactional answers under structured procedural ones.
 
 ## ITS in the learner-modeling family
 

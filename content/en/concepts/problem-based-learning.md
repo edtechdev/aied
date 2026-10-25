@@ -1,7 +1,7 @@
 ---
 title: Problem-Based Learning
 created: "2026-08-20T06:55:00-04:00"
-updated: "2026-10-15T10:00:00-04:00"
+updated: "2026-10-25T05:04:43-04:00"
 type: concept
 foundations: [critical-thinking]
 pedagogy: [active-learning, collaborative-learning, scaffolding]
@@ -26,6 +26,8 @@ reviewed_by: [editor]
 ## Introduction
 
 PBL originated in medical education (McMaster University, 1960s) and has since spread across [[medical-education|health professions]], engineering, and [[k-12]]. The learner takes responsibility for diagnosing learning needs, identifying resources, and constructing solutions, while the facilitator scaffolds the process. The distinctive claim of PBL is that the *problem* is the curriculum driver — not an illustration of content taught elsewhere but the context in which content is learned.
+
+[[ngambi-ai-learning-ecosystems-domino-framework-2026|Ng'ambi and van der Merwe (2026)]] give a direct comparison: ten problem-based chats sustained dialogue and reached deeper explanation, while thirty structured procedural chats collapsed into ask-answer-thank and ended.
 
 ## PBL in the AI era
 

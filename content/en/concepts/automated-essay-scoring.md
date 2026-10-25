@@ -1,7 +1,7 @@
 ---
 title: Automated Essay Scoring
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-03T02:57:43-04:00"
+updated: "2026-10-25T05:05:44-04:00"
 type: concept
 foundations: [ai-literacy]
 technology: [generative-ai, llm, prompt-engineering]
@@ -27,6 +27,10 @@ reviewed_by: [editor]
 Automated Essay Scoring has a long history in educational technology, from early statistical models to modern LLM-based approaches that can evaluate essays holistically without large pre-scored datasets. The key tension in AES research is between accuracy and accessibility — while fine-tuned models achieve strong results, they are resource-intensive and impractical for most educators.
 
 - **[[zhang-races-consistent-essay-scoring-llms-2026|Zhang et al.]]** RACES uses reward alignment to make LLM essay scoring both accurate and consistent, addressing a core AES validity concern.
+
+[[xu-recentering-humans-ai-assisted-writing-scoring-2026|Xu, Lu and Abdi (2026)]] review twelve studies comparing AI and human scoring of EFL academic writing and report moderate alignment overall, strongest on surface linguistic features and weakest on organization, coherence and argument development, with fairness rarely examined.
+
+In upper-elementary response-to-text writing, [[correnti-erevise-validity-argument-formative-assessment-2026|Correnti et al. (2026)]] find that automated feedback on students' use of evidence improved feature scores, and that revision quality depended on whether teachers took the feedback up in discussion, not on the system alone.
 
 ## Key research themes
 

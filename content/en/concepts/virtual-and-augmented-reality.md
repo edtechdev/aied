@@ -1,7 +1,7 @@
 ---
 title: Virtual and Augmented Reality
 created: "2026-09-13T09:52:00-04:00"
-updated: "2026-09-30T09:59:35-04:00"
+updated: "2026-10-25T05:04:43-04:00"
 type: concept
 pedagogy: [embodied-learning, professional-training]
 technology: [generative-ai, multimodal, simulation]
@@ -26,6 +26,8 @@ reviewed_by: [editor]
 Virtual and augmented reality is a **modality**, not a model: it is the layer through which a learning environment reaches the learner. That makes it a different axis from [[simulation]], which is what gets modeled in the first place. The two are often conflated, because immersive environments are common delivery vehicles for simulations, but they vary independently — a desktop patient simulator is simulation without VR, and an AR overlay on a real instrument is VR without simulation. Keeping the axes apart matters for design: deciding to make practice risk-free is a different decision from deciding to make it embodied, and the two carry different costs, different failure modes, and different evidence. VR/AR is the **delivery layer** for a simulation and a close relative of [[game-based-learning|game-based learning]]; it operationalizes [[embodied-learning|embodied]] and [[situated-learning|situated]] accounts of learning, and it sits inside [[experiential-learning|experiential]] and [[active-learning]] practice.
 
 AI now shapes this modality from both ends. It **authors** immersive content, because [[generative-ai|generative AI]] converts a structured natural-language prompt into a runnable AR or VR artifact, collapsing the specialist programming skill that used to gate production. And it **inhabits** the environment, as [[agentic-ai|agents]], [[pedagogical-agent|pedagogical agents]] and [[rag|retrieved domain knowledge]] supply guidance inside it — hands-free, in real time, grounded in sources the learner cannot consult while wearing a headset.
+
+[[shao-ai-vr-flipped-classroom-efl-2026|Shao, Tang and Ju (2026)]] test an AI-VR enhanced flipped classroom with young EFL learners and report gains in English achievement, metacognitive self-regulation and motivation, with technological literacy moderating how much learners gained from the immersive component.
 
 ## What the modality adds
 

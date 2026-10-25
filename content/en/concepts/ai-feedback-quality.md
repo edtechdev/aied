@@ -1,7 +1,7 @@
 ---
 title: AI Feedback Quality
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-24T08:53:00-04:00"
+updated: "2026-10-25T05:04:43-04:00"
 connected_faqs: [ai-save-instructor-time, ai-feedback-at-scale, checking-whether-educational-ai-works]
 type: concept
 foundations: [ai-literacy]
@@ -111,6 +111,8 @@ AI feedback quality spans multiple dimensions captured in the knowledge base:
 AI feedback quality connects fundamentally to [[formative-assessment]] and [[feedback|Feedback Loop]] — quality feedback closes the gap between current and desired performance. It intersects with [[automated-assessment|Automated Grading]] (which generates the scores feedback is based on), [[ai-literacy]] (students must evaluate feedback quality critically), and [[cognitive-offloading|Over-Reliance]] (uncritical acceptance of AI feedback can displace learning). For [[writing-education]], feedback quality is particularly consequential given AI's growing role in writing assessment.
 
 The corpus behind those quality claims is thinner than the claims suggest. Across 51 studies of GenAI written feedback in second-language writing, 16 experimental designs used no control group and only 27 reported the prompts they used — so two in five results cannot be reproduced or compared on the variable that most shapes output ([[genai-l2-written-feedback-scoping-review-2026|Crosthwaite & Sun (2026)]]). Quality evidence in this literature therefore accumulates more slowly than its volume implies.
+
+[[wu-deepseek-reasoning-written-feedback-2026|Wu, Li and Moorhouse (2026)]] examine DeepSeek's explicit reasoning traces as a feedback affordance, finding that visible reasoning makes the basis of a comment inspectable by the writer, while the model still routes higher-order judgment, such as argumentation, to the human.
 
 ## Connected Concepts
 

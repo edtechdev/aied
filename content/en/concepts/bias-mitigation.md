@@ -2,7 +2,7 @@
 connected_resources: [writing-rhetoric-studies-in-the-loop]
 title: Bias Mitigation
 created: "2026-07-14T10:44:35-04:00"
-updated: "2026-10-01T09:59:06-04:00"
+updated: "2026-10-25T05:05:44-04:00"
 type: concept
 foundations: [ai-literacy, teacher-role]
 technology: [generative-ai, llm]
@@ -27,6 +27,10 @@ reviewed_by: [editor]
 ## Introduction
 
 Bias mitigation matters because [[ai-education|AI in education]] is not neutral: systems trained on dominant language and cultural data can systematically disadvantage marginalized learners, from AI-based scoring that penalizes non-native writers to [[llm|LLM]] tutors that answer differently for different groups. Bias is a cross-cutting concern that appears in [[automated-assessment|Automated Grading]], [[automated-essay-scoring]], [[knowledge-tracing]], recommendation systems, and [[conversational-ai|conversational AI]] tutors.
+
+[[solyst-youth-systematic-evaluation-genai-2026|Solyst et al. (2026)]] show that bias mitigation can be taught rather than only engineered: youths prompted to interrogate a text-to-image model's outputs produced systematic evaluations of representation, and their requests for images of people skewed white before the intervention.
+
+Fairness is the least examined dimension in the AI-versus-human scoring literature: of twelve studies reviewed, ten were silent on demographic, linguistic or social bias, and gender was the only dimension tested ([[xu-recentering-humans-ai-assisted-writing-scoring-2026|Xu, Lu and Abdi, 2026]]).
 
 ## Sources of bias
 

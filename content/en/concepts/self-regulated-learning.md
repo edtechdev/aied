@@ -2,7 +2,7 @@
 connected_resources: [process-feedback]
 title: Self-Regulated Learning
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-10-24T06:38:00-04:00"
+updated: "2026-10-25T05:04:43-04:00"
 type: concept
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
 technology: [generative-ai, llm, personalized-learning]
@@ -50,6 +50,8 @@ Where GenAI enters the cycle decides its effect: mapping Zimmerman's forethought
 
 
 A cross-sectional survey of 434 special-education undergraduates measures one such chain: [[generative-ai|GenAI]] literacy was positively associated with GenAI-assisted self-regulated learning behaviors (total B = 0.701), running mainly through learning [[agency]] (B = 0.345) rather than challenge emotions (B = 0.061) ([[genai-literacy-srl-special-education-2026|Yang et al. (2026)]]).
+
+Metacognitive self-regulation is a measured outcome, not an assumption, in [[shao-ai-vr-flipped-classroom-efl-2026|Shao, Tang and Ju (2026)]], who found that an AI-VR flipped classroom raised it alongside achievement, and that learners with higher technological literacy benefited more.
 
 ## Digital Support for SRL
 

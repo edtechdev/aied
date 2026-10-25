@@ -1,7 +1,7 @@
 ---
 title: Evaluative Judgment
 created: "2026-09-10T05:58:00-04:00"
-updated: "2026-10-24T08:06:00-04:00"
+updated: "2026-10-25T05:04:43-04:00"
 type: concept
 foundations: [academic-integrity, critical-thinking]
 pedagogy: [metacognition, self-regulated-learning]
@@ -26,6 +26,8 @@ reviewed_by: [editor]
 ## Introduction
 
 Assessments that ask students to produce work presume they can tell good work from poor work, first in others and eventually in their own. That presumption is no longer reliable: when [[generative-ai|generative AI]] can generate competent prose, code, and analysis on demand, the ability to *produce* a product is a weak signal of learning, while the ability to *judge* a product is a strong one. Evaluative judgment names that ability, and the knowledge base's assessment scholarship keeps arriving at it when asking what remains assessable and worth assessing. It sits where [[feedback]], [[formative-assessment]], and [[self-regulated-learning]] meet, because judgment is developed by comparing work against standards and acting on the difference, and it is what makes genuinely [[critical-thinking|critical]] [[student-engagement|engagement]] with AI output possible rather than aspirational.
+
+[[xu-recentering-humans-ai-assisted-writing-scoring-2026|Xu, Lu and Abdi (2026)]] argue from a twelve-study scoping review that AI writing scores reproduce a narrow construct: they track checkable surface features and under-weight organization, coherence and argument, which are the dimensions a judgment of writing quality turns on.
 
 ## What the construct is
 

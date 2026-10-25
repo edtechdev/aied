@@ -1,7 +1,7 @@
 ---
 title: Teacher AI Competency
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-10-24T09:56:38-04:00"
+updated: "2026-10-25T05:04:43-04:00"
 connected_faqs: [faculty-ai-competencies, addressing-common-misconceptions-ai-education, faculty-development-ai]
 type: concept
 foundations: [ai-literacy, educational-development, teacher-role]
@@ -28,6 +28,8 @@ reviewed_by: [editor]
 ## Introduction
 
 Teacher AI competency matters because the teacher is the decisive factor in whether AI improves learning. Research consistently shows that AI tools only translate into better outcomes when teachers can plan for them, scaffold student use, evaluate outputs, and integrate them into coherent instruction. The knowledge base's literature examines the *dimensions* of this competency, the *gaps* between self-perception and actual skill, and the *professional development* that builds it.
+
+[[nunez-canal-stakeholder-engagement-ai-competency-2026|Nunez-Canal et al. (2026)]] connect faculty AI competency to student outcomes directly, using human capital and stakeholder theories on a survey of business and economics faculty to argue that universities' investment in faculty competency is not discretionary.
 
 ## Core competency dimensions
 
