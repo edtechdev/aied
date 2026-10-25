@@ -1,7 +1,7 @@
 ---
 title: Teacher AI Competency
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-10-25T05:04:43-04:00"
+updated: "2026-10-25T10:40:00-04:00"
 connected_faqs: [faculty-ai-competencies, addressing-common-misconceptions-ai-education, faculty-development-ai]
 type: concept
 foundations: [ai-literacy, educational-development, teacher-role]
@@ -30,6 +30,7 @@ reviewed_by: [editor]
 Teacher AI competency matters because the teacher is the decisive factor in whether AI improves learning. Research consistently shows that AI tools only translate into better outcomes when teachers can plan for them, scaffold student use, evaluate outputs, and integrate them into coherent instruction. The knowledge base's literature examines the *dimensions* of this competency, the *gaps* between self-perception and actual skill, and the *professional development* that builds it.
 
 [[nunez-canal-stakeholder-engagement-ai-competency-2026|Nunez-Canal et al. (2026)]] connect faculty AI competency to student outcomes directly, using human capital and stakeholder theories on a survey of business and economics faculty to argue that universities' investment in faculty competency is not discretionary.
+- **Prompting training buys time, not better materials.** In a preregistered RCT with 204 teachers, Appel, Fervers and Piepenburg (2026) found ChatGPT improved the quality of lesson-preparation materials and cut preparation time by 34%, while prior AI training added a further 21% time reduction without improving rated quality ([[appel-genai-teacher-lesson-preparation-experiment-2026|Appel et al., 2026]]). Trained teachers wrote longer prompts and iterated less; both routes reached equal quality.
 
 ## Core competency dimensions
 

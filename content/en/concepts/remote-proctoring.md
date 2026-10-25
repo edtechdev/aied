@@ -1,7 +1,7 @@
 ---
 title: Remote Proctoring
 created: "2026-08-20T04:50:00-04:00"
-updated: "2026-10-15T21:52:00-04:00"
+updated: "2026-10-25T10:40:00-04:00"
 type: concept
 foundations: [academic-integrity]
 pedagogy: [online-teaching-and-learning]
@@ -26,6 +26,7 @@ reviewed_by: [editor]
 ## Introduction
 
 Remote proctoring exists on a spectrum. **Online proctoring** typically involves a human proctor monitoring a student through a webcam or from a control center. **Automated/AI-based proctoring (AIPS)** replaces or augments the human with [[machine-learning]] and deep-learning systems (CNNs, RNNs, LSTMs) that analyze visual cues — eye movements, head posture, facial expressions, and body language — to detect suspicious behavior in real time. Common platforms include ProctorU and Kryterion. AIPS typically combine four functions: (1) identity authentication (e.g., camera face verification), (2) browsing restrictions, (3) remote authorization/control of the exam, and (4) report generation from recorded sessions.
+- **Pose estimation replaces threshold rules, and the accuracy claim is narrower than it reads.** Arif et al. (2026) track seventeen body landmarks per frame with YOLOv11, derive posture-deviation, head-trend and upper-body-motion features, and deploy single-nearest-neighbor KNN over 30 mutual-information-selected features, reporting 99.56% accuracy and AUC 0.9957 from one webcam ([[arif-automated-online-proctoring-yolov11-2026|Arif et al., 2026]]). Those figures describe reproduction of labels on a bespoke scenario set, not detection of misconduct.
 
 ## Advantages and opportunities
 

@@ -1,7 +1,7 @@
 ---
 title: Theory Development in AI in Education
 created: "2026-08-22T07:08:19-04:00"
-updated: "2026-10-16T08:47:09-04:00"
+updated: "2026-10-25T10:40:00-04:00"
 type: concept
 foundations: [ai-education, limitations-in-aied-research]
 pedagogy: [learning-theories]
@@ -26,6 +26,7 @@ reviewed_by: [editor]
 ## Introduction
 
 Theory development in AIEd sits at the boundary between the applied [[learning-theories|learning theories]] the field draws on and the novel constructs the AI era is producing. Where [[learning-theories]] catalogs the established theories applied to AI (behaviorism, constructivism, cognitive load, self-determination, etc.), this concept tracks the *process and product of theorizing itself*: which new theories and frameworks are being born, how established theories are being advanced, and the methodological question of whether AIEd research theorizes well.
+- **A framework that specifies its own comparison condition.** Nakamura (2026) treats the partition of cognitive labor as the explanatory unit, places operations on a graded peripheral–constitutive continuum, names the comparison condition against which augmentation and erosion are defined, and derives seven conditioned testable propositions ([[nakamura-augmentation-erosion-cognitive-offloading-stem-2026|Nakamura, 2026]]). Because the propositions predict differences between configurations, a study reporting only an average effect cannot confirm or refute them.
 
 ## New theories of learning with AI
 

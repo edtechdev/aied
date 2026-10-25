@@ -1,7 +1,7 @@
 ---
 title: Prompt Engineering
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-10-16T20:19:49-04:00"
+updated: "2026-10-25T10:40:00-04:00"
 type: concept
 connected_faqs: [making-ai-better-at-supporting-learning, training-ai-tutors-to-guide-rather-than-answer]
 foundations: [ai-literacy]
@@ -75,6 +75,7 @@ Prompt engineering connects to [[scaffolding]] — well-designed prompts can sca
 - **Prompting strategy predicts performance.** An [[isaza-chatgpt-engineering-prompting-2026|empirical study of 128 engineering students]] found that AI Query Efficiency (clear, well-structured prompts) and AI-Driven [[problem-solving]] (strategic integration of AI output into reasoning) were the strongest predictors of academic success — even after controlling for GPA — indicating prompting is a teachable skill that shapes how effectively students learn with AI.
 - **Prompting style, not just prompt quality, tracks outcomes.** Traits derived from 1,540 tutoring sessions linked conceptual questioning to exam performance while task-delegation behaviors correlated negatively — but the same traits failed to replicate the following semester, so they are behavioral patterns rather than stable skills ([[principal-trait-analysis-human-ai-skills-2026|McNichols, Du and Lan (2026)]]).
 - **A usable taxonomy, and which prompt categories actually pay off.** [[teacher-ai-literacy-prompt-feedback-quality-2026|Jacobsen et al. (2026)]] translate technical strategies into the 3K model (*Kontext, Kernauftrag, Klarheit* — context, core task, clarity): eleven practice-oriented categories, each with a good/average/suboptimal rubric, and each tested as an experimental variation on feedback generated for pre-service teachers' learning goals. Domain-specific technical language was the decisive category — replacing subject terminology with everyday paraphrases significantly reduced feedback quality across three models (β = −0.412) — while adding concrete examples and removing the chain-of-thought instruction produced no significant difference from the baseline in the first study; examples did help once the analysis was rerun with the best-performing model-prompt combinations (β = 0.52). Prompt quality and model choice together explained 42.8% of the variance in rated feedback quality, which is the paper's case that prompt engineering is a measurable and teachable competency rather than a stylistic preference — and that its categories are not interchangeable in effect size.
+- **Better prompts reduced iteration without raising output quality.** Teachers given AI training before a lesson-preparation experiment wrote longer, more detailed prompts that needed less refinement, while untrained teachers used shorter prompts and required more subsequent iterations, yet blinded expert ratings of the resulting materials were equal ([[appel-genai-teacher-lesson-preparation-experiment-2026|Appel et al., 2026]]). Prompt craft here bought fewer correction rounds, not a stronger first draft.
 
 ## Connected Concepts
 - [[pedagogical-patterns]] — The scaffolding layer inside structured-use sequences

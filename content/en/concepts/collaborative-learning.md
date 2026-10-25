@@ -1,7 +1,7 @@
 ---
 title: Collaborative Learning
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-16T08:47:09-04:00"
+updated: "2026-10-25T10:40:00-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [collaborative-learning, scaffolding]
@@ -68,6 +68,7 @@ A scoping review of 18 studies maps the same trade-off across group work: GenAI 
 ### The ICAP framework: collaboration as the highest engagement mode
 
 Collaborative learning occupies the top of the [[icap-framework|ICAP framework]] (Interactive–Constructive–Active–Passive): the *interactive* mode — co-constructing meaning through dialogue, defending a position, or solving jointly — produces the deepest knowledge change in Chi's taxonomy. This makes ICAP both a justification for collaborative pedagogies and a design constraint on AI. An AI that mediates discussion (as [[spritz-ai-disciplinary-mediation-student-teams-2026|Spritz]] or [[golrang-propact-pair-programming-2026|ProPACT]] do) is valuable precisely when it sustains *interactive* engagement; an AI that answers for the group or smooths over cognitive conflict can downgrade collaboration to a mere *active* or *passive* mode. ICAP-based annotation (see [[icap-cognitive-engagement-llm-agents|extended ICAP measurement of collaborative dialogue]]) and facilitation-timing research both treat the quality of interactive discourse as the outcome of interest, grounding collaborative learning in [[student-engagement]] and the ICAP hierarchy.([[icap-cognitive-engagement-llm-agents]])([[llm-facilitation-timing-online-discussions]])
+- **GenAI can take the moderator seat rather than the tutor seat.** Chen et al. (2026) ran a 16-week quasi-experiment with 64 undergraduates in which both conditions had an AI agent and a structured platform, and only the regulation scaffolding differed: an adaptive SSRL agent versus static digital worksheets ([[chen-genai-team-moderator-cscl-shared-regulation-2026|Chen et al., 2026]]). The adaptive group showed higher participation equality but not higher intensity, the signature of redistribution rather than more talk.
 
 ## Practical guidance
 

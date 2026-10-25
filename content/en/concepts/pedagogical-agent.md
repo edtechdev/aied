@@ -1,7 +1,7 @@
 ---
 title: Pedagogical Agent
 created: "2026-08-08T11:47:01-04:00"
-updated: "2026-10-24T06:24:00-04:00"
+updated: "2026-10-25T10:40:00-04:00"
 connected_faqs: [ai-agents-support-students-instructors]
 type: concept
 pedagogy: [scaffolding, student-ai-interaction]
@@ -27,6 +27,7 @@ reviewed_by: [editor]
 ## Introduction
 
 A pedagogical agent is an interactive AI component within a learning system that engages learners through dialogue, questions, or prompts to support cognitive and [[metacognition|metacognitive processes]]. Unlike passive [[visualization|dashboards]] or static feedback, pedagogical agents employ evidence-based tutoring strategies — such as eliciting learner self-[[assessment|assessments]] before providing [[feedback]], or [[scaffolding]] [[problem-solving]] through Socratic dialogue. The umbrella now covers everything from a single conversational [[intelligent-tutoring|intelligent tutor]] to fleets of role-specialized [[agentic-ai|agents]] that lecture, mentor, facilitate collaboration, and even orchestrate course generation, all grounded in decades of intelligent-tutoring-systems [[research-methods-aied|research]].
+- **An agent whose role is regulation rather than explanation.** Chen et al. (2026) built SSRLAgent to diagnose a group's shared regulatory state and prompt accordingly, and held a content-support agent constant across both conditions ([[chen-genai-team-moderator-cscl-shared-regulation-2026|Chen et al., 2026]]). Because both arms had an agent and a structured platform, the gains attach to adaptivity in the regulation prompts rather than to the presence of a conversational agent.
 
 ## How pedagogical agents are studied in the knowledge base
 

@@ -1,7 +1,7 @@
 ---
 title: Technology Adoption Models
 created: "2026-08-18T14:55:00-04:00"
-updated: "2026-10-23T08:03:41-04:00"
+updated: "2026-10-25T10:40:00-04:00"
 type: concept
 foundations: [ai-literacy]
 technology: [generative-ai, technology-acceptance-model]
@@ -26,6 +26,7 @@ reviewed_by: [editor]
 ## Introduction
 
 **[[meta-analysis-systematic-review|Meta-analytic]] evidence on AI adoption.** A [[teo-ai-adoption-tertiary-meta-analysis-2026|meta-analysis of tertiary students' AI adoption]] (233 correlations, 32 studies, N = 16,977) finds moderate positive correlations for individual (r = 0.57), contextual (r = 0.53), and technological (r = 0.50) factors, with usage intentions the strongest predictor (r = 0.64) and perceived risks/trust weaker than expected. Its central critique is that the field **over-relies on traditional TAM/UTAUT** frameworks that predate modern intelligent systems and neglect AI-specific factors such as anthropomorphism and ethics — arguing these gaps matter for advancing theory and evidence-based policy.
+- **Ease of use stopped predicting once the sample had already adopted.** Wei, Zhang and Heo (2026) extend TAM on 526 design students with prior AIGC use and find perceived ease of use was the only technological perception not significantly associated with self-efficacy, while knowledge, trust, reliability, usefulness, intelligence and anxiety each were ([[wei-perceived-technological-dependence-genai-2026|Wei et al., 2026]]). Usage intention was strongly associated with reported dependence in cross-sectional data.
 
 ## The model family
 
