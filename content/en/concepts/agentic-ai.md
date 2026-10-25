@@ -2,7 +2,7 @@
 connected_resources: [deeptutor]
 title: Agentic AI
 created: "2026-08-01T04:07:54-04:00"
-updated: "2026-10-03T02:57:43-04:00"
+updated: "2026-10-25T11:20:00-04:00"
 connected_faqs: [ai-agents-support-students-instructors, asynchronous-online-courses-ai, making-simulated-students-behave-like-learners]
 type: concept
 foundations: [agency, agentic-ai, ai-literacy, cognitive-offloading]
@@ -31,6 +31,7 @@ reviewed_by: [editor]
 ## Introduction
 
 Agentic AI refers to artificial intelligence systems that can autonomously plan, execute, and adapt multi-step workflows to achieve learning goals — going beyond single-turn question-answering to act as persistent, goal-directed collaborators in educational contexts. In education, agentic AI manifests as AI tutors that scaffold learning over extended interactions, multi-agent systems that orchestrate complex [[learning-design|instructional designs]], and autonomous agents that adapt their [[pedagogy|pedagogical]] strategies based on learner needs. This emerging paradigm shifts AI from a tool that responds to prompts to a collaborator that actively guides, adapts, and co-regulates learning processes.
+- **Splitting specification from execution is what makes an agentic pipeline reliable.** DagFlow-AI has LLM agents define every component of a data-generating mechanism - variables, a directed acyclic graph, distributions and model formulas - while a program samples the observations and a validation script checks each agent output ([[arthur-dagflow-agentic-synthetic-data-statistics-2026|Arthur et al., 2026]]). No agent generates data or writes the generation code, which the authors present as the answer to unsupported output and instruction drift.
 
 ## Defining and classifying agentic AI
 

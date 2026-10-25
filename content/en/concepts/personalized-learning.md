@@ -1,7 +1,7 @@
 ---
 title: Personalized Learning
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-10-03T02:57:43-04:00"
+updated: "2026-10-25T11:20:00-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [scaffolding]
@@ -28,6 +28,7 @@ reviewed_by: [editor]
 Tailoring educational experiences to individual learner profiles, including [[prior-knowledge|prior knowledge]], learning pace, preferences, and affective states. AI enables personalization at scale, though the gap between *system personalization* and *learner-perceived personalization* remains an open measurement challenge.
 
 - **[[mishra-control-vs-agency-history-2025|Mishra et al.]]** distinguish two forms of personalization with deep historical roots — uniform outcomes reached via varied paths (Skinner's [[teacher-role|teaching]] machines to Khan Academy-style mastery tutoring) vs. diverse, learner-chosen outcomes — mapping onto the field's control-vs-agency tension.
+- **Personalization can be met by generating the material rather than finding it.** DagFlow-AI generates synthetic statistics datasets matched to a student's stated interest, the course learning objectives and the intended skill level, a three-way match the authors argue real datasets rarely satisfy ([[arthur-dagflow-agentic-synthetic-data-statistics-2026|Arthur et al., 2026]]). The limit is built in: synthetic data cannot teach data collection, measurement or study design, so the tool complements real data rather than replacing it.
 
 ## Architectures for AI-Driven Personalization
 

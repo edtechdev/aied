@@ -2,7 +2,7 @@
 connected_resources: [openmaic]
 title: Simulation
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-10-25T08:45:00-04:00"
+updated: "2026-10-25T11:20:00-04:00"
 type: concept
 pedagogy: [active-learning, experiential-learning]
 technology: [adaptive-learning, pedagogical-agent, reinforcement-learning]
@@ -23,6 +23,7 @@ reviewed_by: [editor]
 ## Introduction
 
 Simulation sits at the core of [[experiential-learning|experiential]] and [[active-learning]] [[pedagogy|pedagogies]]. It provides the deliberate practice, [[productive-failure|productive failure]], and [[feedback|feedback loops]] that build skill and judgment. AI has transformed simulation in two ways: it powers more realistic and adaptive simulated environments, and it generates [[simulating-students|simulated learners]], patients, or interlocutors that make practice scalable. Behavioral evidence shows that *how* learners engage with a simulation varies systematically rather than uniformly: tracing online learners building ecological models in VERA, [[an-goel-self-directed-modeling-2026|An, Hammock & Goel (2025)]] classified [[student-engagement|engagement]] into Observation (frequent runs and parameter adjustment with little model building), Construction (hands-on building with little simulation), and Exploration (full construct–parameterize–simulate cycles), with Explorers producing the most complex and diverse models and observation-heavy learners largely copying existing ones — an argument for designing simulation environments that push learners toward full-cycle activity.
+- **An explicit mechanism is inspectable in a way a learned generator is not.** DagFlow-AI builds synthetic data from a directed acyclic graph plus per-variable distributions and formulas, so the data-generating process is a document an instructor can read and correct ([[arthur-dagflow-agentic-synthetic-data-statistics-2026|Arthur et al., 2026]]). This is in deliberate contrast to GAN and VAE synthesis, which needs a seed dataset and yields an opaque process. The trade-off is that reaching a stable simulation took several iterations.
 
 ### AI and simulation
 
