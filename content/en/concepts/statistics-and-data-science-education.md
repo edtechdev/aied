@@ -1,7 +1,7 @@
 ---
 title: "Statistics and Data Science Education"
 created: "2026-10-25T11:40:00-04:00"
-updated: "2026-10-26T09:10:00-04:00"
+updated: "2026-10-26T14:15:00-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [inquiry-based-learning, situated-learning, scaffolding]
@@ -62,6 +62,8 @@ Scaffolding quality matters independently of access. An experimental comparison 
 3. **Do not let synthetic material crowd out measurement and design,** since those are the parts of the investigative cycle a generated dataset cannot teach and the parts GAISE and PPDAC place first.
 4. **Build the human check into the pipeline,** as the tactile-graphics work does with mandatory teacher review before print, rather than treating generation as the end of the process.
 5. **Read usage as a study-behaviour signal.** Adoption that tracks the exam calendar is evidence about incentives, so evaluating a discipline-specific tool requires outcomes measured after the incentive disappears.
+
+**The material itself is a design problem, not only the explanation.** A statistics or data-science course needs datasets that fit the student's question, and generating them is where AI enters some of this strand's work: [[arthur-dagflow-agentic-synthetic-data-statistics-2026|DagFlow-AI]] is an agentic pipeline producing context-matched synthetic datasets, with a worked case of matching the data to a student whose interest was climate and health while holding objectives and skill level fixed. That is [[situated-learning|situated learning]] applied to the material rather than to the explanation. The authors are also explicit about the limit: synthetic data cannot teach data collection, measurement or study design, so the strand's signature pedagogy is only partly reachable this way.
 
 ## Common Misconceptions
 
