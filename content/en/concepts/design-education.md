@@ -1,7 +1,7 @@
 ---
 title: "Design Education"
 created: "2026-09-17T14:04:29-04:00"
-updated: "2026-10-16T08:47:09-04:00"
+updated: "2026-10-26T07:30:00-04:00"
 type: concept
 foundations: [ai-literacy, design-thinking]
 pedagogy: [creativity, professional-training]
@@ -57,6 +57,12 @@ It is also distinct from [[design-thinking]], a human-centered problem-solving m
 
 Assessment problems here are inseparable from professional ones. [[ai-interior-design-malaysia-2026|Syed Abdul Rahman (2026)]] describes Malaysian interior designers shifting from primary form-generators toward critical mediators and curators of machine output, with [[visualization]] platforms compressing timelines while generated schemes still lack cultural specificity, climatic responsiveness and reliable constructability. Its curriculum recommendation is sequencing rather than substitution — CAD/BIM, construction knowledge and human factors before generative exploration, and criteria rewarding [[critical-thinking]] and ethical reflection. The professional side is unresolved: interior design regulation is less formalized than architecture's, leaving open questions of disclosure, accountability for algorithmic error, and deskilling among early-career practitioners. The analysis is document-based and single-country.
 
+## Common Misconceptions
+
+- **"AI in a design studio is mainly a writing aid."** A survey of **280 Politecnico di Milano design students** plus **100 Masters AI-use journals** found use clustered in research and writing — **editing writing 77.5%, finding information 74.5%, brainstorming 68.0%** — with **whole-assignment use rare at 18.6%**. The pattern is augmentation of parts, not replacement of the whole, and the numbers show where the actual practice sits.
+- **"Design students are enthusiastic adopters."** The same cohort shows **71% using GenAI daily or weekly, 65% distrusting it, and 85% modifying its output**. Frequent use and low trust coexist, so a tool whose value proposition assumes trust has misread the users.
+- **"GenAI is generically helpful across the design process."** The GAI-A platform built across a longitudinal studio study found **two productive uses only**: GenAI as visual stimulus in early ideation, and as a **combinatorial expander of the solution space during development**. Usefulness was phase-specific.
+- **"Creativity gains are too diffuse to measure."** In a **31-student subgroup**, creative-thinking scores rose from **77.23 to 94.68 (d = 0.82)**. The gain is measurable and it is bounded to a subgroup, which is the honest form of the claim.
 ## Connected Concepts
 
 - [[design-thinking]]

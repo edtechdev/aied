@@ -1,7 +1,7 @@
 ---
 title: LLM Training and Fine-Tuning
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-10-16T08:47:09-04:00"
+updated: "2026-10-26T07:30:00-04:00"
 type: concept
 connected_faqs: [making-ai-better-at-supporting-learning, training-ai-tutors-to-guide-rather-than-answer, checking-whether-educational-ai-works]
 foundations: [ai-education]
@@ -143,6 +143,12 @@ Distilled from the evidence above, in the order that avoids wasted compute:
 
 This page is the *how a model is made* companion to [[llm]], which covers what large language models are and how they behave. It sits under [[ai-technologies]] as the training-and-adaptation node, beside [[rag]] (the retrieval alternative that usually comes first), [[prompt-engineering]] (the cheapest lever), and [[reinforcement-learning]] (the RL half of post-training). Its outputs feed [[intelligent-tutoring]] and [[adaptive-learning]]; its most common educational applications are [[automated-assessment]], [[automated-essay-scoring]] and [[ai-feedback-quality]]; and its closest conceptual relatives are [[educational-nlp]], [[simulating-students]], [[open-source]] and [[student-modeling]]. The risks it creates are held by [[pedagogical-safety]], [[ai-sycophancy]], [[hallucination-risk]] and [[privacy]].
 
+## Common Misconceptions
+
+- **"Fine-tuning is the way to make a model good at your task."** Retrieval and prompting come **earlier in the decision order**, and the knowledge base's clearest result is that post-training is a **third choice, not the first**. Fine-tuning a model on assessment data improved **formatting and similarity** while a separate fine-tune **failed outright at generating feedback** — the method changed the surface and not the competence.
+- **"The model is the main determinant of learning gains."** Model and prompt choice account for only **about 15%** of the gap between an LLM and student learning gains. Optimising the remaining 85% is where the work is, and it is not in the weights.
+- **"A local model will underperform a hosted one, so retrieval is a lesser lever."** In a three-configuration evaluation, **retrieval, not the model, was the first-order design decision**: the local LLM with **no retrieval reached only 52.3% accuracy, below a TF-IDF baseline**. Adding retrieval moved the same model past a threshold no model swap was going to reach on its own.
+- **"More training data means better teaching behaviour."** The assessment fine-tune that improved formatting while worsening feedback generation is the counterexample in miniature: optimisation against a similar-looking target can improve the proxy and degrade the thing you wanted.
 ## Connected Concepts
 
 - [[llm]] — what these models are; this page is how they are made

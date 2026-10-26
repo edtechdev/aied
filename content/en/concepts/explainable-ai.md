@@ -1,7 +1,7 @@
 ---
 title: Explainable AI
 created: "2026-09-07T10:15:00-04:00"
-updated: "2026-10-16T06:45:00-04:00"
+updated: "2026-10-26T07:30:00-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [metacognition]
@@ -80,6 +80,12 @@ If explanation quality decides whether XAI is useful, then producing explanation
 
 For explainability specifically, the assignments that matter are the ones that force explanation out of the notebook: graded model cards weighted alongside accuracy metrics, and structured explanation audits in which students apply interpretability tools to their own models and then present the results to an audience without a shared technical background. Enforcement is the pillar most often missing from ethics-adjacent courses and the one that makes the rest more than symbolic — rubrics that reward responsible documentation, projects that can be returned for revision on [[ethics|ethical]] grounds, and [[peer-assessment|peer review]] conducted against accountability criteria rather than technical ones alone. The paper is candid that the tools differ sharply in cost: model cards and positionality statements need no new software and risk only superficial compliance, whereas peer panels and stakeholder engagement require coordination and institutional buy-in, which is why it recommends a staged adoption rather than an all-or-nothing commitment. See [[curriculum-design]] for where these fit in a program.
 
+## Common Misconceptions
+
+- **"Citations make an explanation trustworthy."** Citations behave as a **credibility cue rather than evidence of correctness**: attaching citations and authority signals to a debate interface **raised abandonment of a correct judgment for the AI's position from 15.0% to 31.8%**. Provenance made the wrong answer more persuasive, which is the opposite of the intended effect.
+- **"An explanation that satisfies users has explained the system."** The same failure of legibility appears on the security side of [[automated-assessment|automated assessment]]: [[humble-prompt-injection-ai-grading-red-team-2026|Humble's (2026) red-team]] found an everyday grading workflow could be manipulated by injected instructions. A plausible narrative and an auditable one are different artifacts.
+- **"General XAI practice transfers to education."** The [[xai-education-framework|XAI-ED framework]] (Khosravi et al., 2022) insists education has **distinctive explainability needs** beyond general XAI, because the audience includes learners who must act on the explanation rather than auditors who must certify it.
+- **"Faithfulness is a property you can claim without probing."** Measured faithfulness requires **counterfactual deletion of rubric-critical spans** alongside human ratings. Attention-to-rubric alignment reaching **78.0% against 41.7% for GPT-4 zero-shot and 32.1% for BERT** is a comparative result from that kind of probing, not from a claim about interpretability.
 ## Connected Concepts
 - [[trust-calibration]]
 - [[trust]]

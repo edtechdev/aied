@@ -1,7 +1,7 @@
 ---
 title: Adult Learners
 created: "2026-08-06T10:43:53-04:00"
-updated: "2026-10-16T19:47:08-04:00"
+updated: "2026-10-26T07:30:00-04:00"
 type: concept
 foundations: [ai-education, learning-design]
 pedagogy: [professional-training]
@@ -53,6 +53,11 @@ Adult learning sits at the intersection of several closely linked concepts in th
 - **AI design principles for andragogy.** [[kim-ai-andragogy-2026|Kim et al. (2026)]] find adult learners value AI as a collaborative learning agent and derive three AI design principles for andragogy: human-in-the-loop (shared mental models, human-AI co-creation), emotional design (calibrating AI reliance, empathetic communication), and adaptability (continuous adaptation, interoperability). Their eleven scenario prototypes also map each andragogical principle onto a concrete AI affordance: [[intelligent-tutoring|AI tutors]] and [[learning-by-teaching|teachable agents]] for involvement, monitoring and [[learning-analytics|analytics tools]] for autonomy and self-assessment, empathetic [[conversational-ai|chatbots]] and [[simulation|simulations]] for experience, case libraries and higher-order question generators for problem-centered work, and AI planners and career coaches for relevance.
 - **Preserve productive struggle.** The same group's productive-failure study maps AI support onto the two PF phases and concludes the design must not resolve the struggle: conversational agents act as non-directive thinking partners during generation and exploration, then support comparison, reorganization and transfer during consolidation ([[kim-ai-productive-failure-adult-2026|Kim et al. (2026)]]).
 
+## Common Misconceptions
+
+- **"One good tool serves adult learners."** Research found **no single adult-learning AI system satisfied all design guidelines** — the full ecosystem was needed. Adults arrive with obligations, intermittent schedules and heterogeneous goals, so a single product cannot cover the design space.
+- **"Digital literacy can be assumed at the adult level."** [[community-centered-ai-education-adults|A Midwestern case study]] co-designed an AI-literacy programme for **54 adults in an underserved community** and found that equity-oriented adult AI education **must address foundational digital literacy and data trust** first. Age is not a proxy for digital fluency.
+- **"Adoption is a motivation problem."** Building [[ai-literacy]] and [[trust]] around data privacy has to precede expecting adoption. Willingness follows from confidence about what happens to one's data, not from enthusiasm about the technology.
 ## Connected Concepts
 
 - [[self-directed-learning]]

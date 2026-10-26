@@ -1,7 +1,7 @@
 ---
 title: Hallucination Risk
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-11T09:05:00-04:00"
+updated: "2026-10-26T07:30:00-04:00"
 type: concept
 foundations: [cognitive-offloading]
 technology: [generative-ai, human-in-the-loop-ai, llm]
@@ -48,6 +48,12 @@ Defenses against such manipulation carry their own trade-off: a multi-layer guar
 
 **Credibility cues can amplify deference instead.** The opposite movement appears when an unreliable output is dressed up: adding citations and credibility signals to the ARMADA debate interface raised the fraction of participants switching away from a correct initial judgment to an incorrect AI position by 112% (31.8% vs. 15.0%), and manual checking found some cited cases misattributed to irrelevant or fictitious references ([[tuo-armada-multi-agent-debate-overreliance-2026|Tuo et al., 2026]]).
 
+## Common Misconceptions
+
+- **"Students will notice errors."** A **125-study review** puts hallucination rates at **10-40%**, with **medical students — among the most carefully selected learners in higher education — detecting AI errors only 44-55% of the time**. Detection rates well below chance-level reliability mean the burden cannot sit with the reader.
+- **"Errors are obvious when they appear."** An AI diagnosing handwritten math could **fabricate evidence quotes that weren't there while claiming confidence**. The failure was not a plausible-but-wrong answer; it was invented support presented with certainty, which is the hardest kind to catch because it reads as precisely the evidence a careful reader would want.
+- **"Citation-less output is a formatting problem."** In a graduate course that replaced its commercial textbook with AI-generated readings, only **about 0.80% of 4,487 logged pages carried an APA-style in-text citation**. That is a corpus-level absence of provenance, not an occasional omission, and it means verification has no starting point.
+- **"Hallucination is a model-generation problem that newer models solve."** The rate range spans 10-40% across 125 studies, which is a property of the task and the deployment as much as the model. Rate reduction is real progress and does not change that a reader must be able to check.
 ## Connected Concepts
 
 - [[cognitive-offloading]]

@@ -5,7 +5,7 @@ type: concept
 technology: [ai-technologies, learning-analytics, multimodal, visualization]
 confidence: medium
 created: "2026-08-29T12:55:12-04:00"
-updated: "2026-10-13T09:18:19-04:00"
+updated: "2026-10-26T07:30:00-04:00"
 reviewed_by: [editor]
 ---
 
@@ -48,6 +48,12 @@ Practical systems apply these principles at scale. AISSA combines LLM-based rubr
 
 Across the works discussed here, visualization emerges as a dual-use medium: AI increasingly generates and interprets visualizations, while dashboards and interactive visuals serve as the shared surface for human-AI sensemaking. Generative text-to-image and multimodal analysis extend the reach of visualization into specialized [[stem-education|STEM]] content and [[ai-feedback-quality|automated feedback]], but uneven model competence, severity-calibration failures, and [[ethics|ethical]] concerns over misinformation and authorship demand careful, layered verification. For designers and educators, the strongest conclusion is that interactivity and engagement — eliciting learner reasoning over visual data, letting users control cognitive effort, and treating AI-produced visuals as shared infrastructure rather than endpoints — matter more than the fidelity of the chart itself.
 
+## Common Misconceptions
+
+- **"AI cannot render specialised content accurately."** It can, with the right method: fine-tuning a text-to-image model on nuclear concepts **raised domain accuracy from 12% to 78%**. The gap is domain grounding, not generative capability, and it is addressable.
+- **"Better visualisations produce better outcomes."** Teachers **systematically preferred simpler, more traditional visualisations** (bar plots, pie charts, legends) **even when complex designs such as heatmaps yielded more detailed insights**. The more informative artifact was not the one that got used, so adoption is a separate problem from design quality.
+- **"Students look where the scaffolding is."** One study found students **spent most of their gaze on code despite elaborate visual scaffolds** — the aids simply did not capture attention. Visual support that is present but unattended changes nothing.
+- **"Engagement and comprehension move together."** Participants found AI-generated data comics **more engaging and comprehensible, yet many also flagged misinformation risk and information overload**. Both reactions came from the same artifact, so a positive reception is not a verified reading.
 ## Connected Concepts
 - [[learning-analytics]]
 - [[multimodal]]

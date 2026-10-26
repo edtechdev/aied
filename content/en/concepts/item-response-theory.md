@@ -1,7 +1,7 @@
 ---
 title: Item Response Theory
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-10-16T09:45:00-04:00"
+updated: "2026-10-26T07:30:00-04:00"
 type: concept
 technology: [knowledge-tracing, student-modeling]
 assessment: [assessment-validity, educational-measurement, psychometrically-aware-ai]
@@ -58,6 +58,12 @@ IRT treats ability (θ) and item parameters (difficulty, discrimination, sometim
 
 IRT is a foundation of [[educational-measurement]] and [[assessment-validity]], underpins [[adaptive-learning]] (adaptive item selection) and [[student-modeling]], and connects to [[psychometrically-aware-ai]] (AI assessment aligned with measurement theory) and [[knowledge-tracing]]. It features in [[llm-difficulty-calibration-programming-exams-2026|LLM difficulty calibration]] for programming assessment.
 
+## Common Misconceptions
+
+- **"IRT requires conventional test administration."** Ability and difficulty can be recovered from **next-token logits**: extracting **student ability θ = z^GOOD − z^BAD** and **tutor-turn difficulty d = z^HARD − z^EASY** and combining them in a 1PL Rasch predictor makes dialogue-based knowledge tracing interpretable in IRT terms. The psychometric framework applies to interaction data, not only to item responses.
+- **"A benchmark that most models pass is a good benchmark."** A standards-aligned benchmark can **saturate**: on NGSS-aligned middle school and high school science sets, **most open-weight models scored above 90%**, leaving classical item metrics poor. Saturation does not mean the models are excellent; it means the items are no longer discriminating.
+- **"Item difficulty is an intrinsic property of the item."** A causal probe that **edited 50 test questions per dataset** toward or away from a hypothesis found **increase-difficulty edits reduced mean accuracy by 15.27 and 23.88 percentage points** on GSM8K and BBH-structured. Difficulty is a relationship between item and model, and it moves when the item does.
+- **"IRT is only for scoring learners."** [[assessing-quality-ai-generated-exams-field-2025|Assessing AI-Generated Exams]] uses a **Bayesian hierarchical 2PL model with pre-test anchor items to place 1,686 students**, which is quality assurance for the assessment itself rather than scoring for the student.
 ## Connected Concepts
 
 - [[educational-measurement]]
