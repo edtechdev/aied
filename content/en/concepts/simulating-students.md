@@ -1,7 +1,7 @@
 ---
 title: Simulating Students
 created: "2026-08-12T22:10:30-04:00"
-updated: "2026-10-19T09:40:00-04:00"
+updated: "2026-10-26T12:05:00-04:00"
 type: concept
 connected_faqs: [checking-whether-educational-ai-works, making-simulated-students-behave-like-learners, how-can-ai-assist-with-educational-research]
 foundations: [agentic-ai, teacher-role]
@@ -110,6 +110,11 @@ The 2026 durable-skills work inverts the usual direction of simulation. Instead 
 
 Training against a simulator can also travel: TutorLoop's reinforcement-learning agent, trained offline against a simulated student, transferred unchanged to a new real learning task with no retraining (N = 187), where its sparser but better-timed feedback outperformed denser feedback ([[tutorloop-sensor-cognitive-feedback-2026|Xu & Zhang, 2026]]).
 
+## Common Misconceptions
+
+- **"LLM students are good enough proxies."** **Simulations cover the easiest students, and few are validated**: **twelve teachers** who tutored LLM students reported **overly complex language, missing emotion** and other departures from real learners. The proxy models the tractable case.
+- **"A simulated student with a knowledge gap behaves like a learner with that gap."** Suppressing **16 targeted knowledge components in Mistral-7B dropped accuracy from about 0.75 at a 10% forgetting ratio to below 0.5 at 40%**, while the base model held. The degradation was engineered, which is what makes it a controlled manipulation rather than an emulation.
+- **"Persona stability is a model-choice problem."** It is an **interaction-design problem**: crossing **five LLMs with three prompt designs and four ADHD-intensity personas**, scripted differences tracked the prompt design rather than the model. Choosing a better model does not fix an unstable persona.
 ## Connected Concepts
 
 - [[learners]] — Learners: the umbrella for the learner-side concepts

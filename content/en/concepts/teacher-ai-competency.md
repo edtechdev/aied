@@ -1,7 +1,7 @@
 ---
 title: Teacher AI Competency
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-10-26T04:35:00-04:00"
+updated: "2026-10-26T12:05:00-04:00"
 connected_faqs: [faculty-ai-competencies, addressing-common-misconceptions-ai-education, faculty-development-ai]
 type: concept
 foundations: [ai-literacy, educational-development, teacher-role]
@@ -127,6 +127,11 @@ As AI takes over routine instructional and assessment tasks, the teacher's disti
 
 The instrument landscape itself has since been reviewed. [[assessing-teachers-ai-literacy-measurement-tools-2026|Zainal, Mohd Matore and Maat's 2026 systematic review of teacher AI literacy measurement tools]] appraised 33 instruments published between 2019 and 2025 and found the field methodologically monotonous: 31 (93.9%) are self-report scales of perceived confidence, only two (6.1%) test knowledge objectively, and none use performance-based tasks. Internal consistency was the strongest quality domain (28 of 33 at Grade A) and fairness the weakest, with five instruments (15.2%) reporting measurement invariance or differential item functioning evidence. Content also lags the technology, since 29 instruments (87.9%) target general AI concepts and only four (12.1%), all from 2025, address generative AI.
 
+## Common Misconceptions
+
+- **"Prompting training makes teachers' materials better."** **Prompting training buys time, not better materials**: in a **preregistered RCT with 204 teachers**, Appel, Fervers and Piepenburg (2026) found ChatGPT improved **time spent** while the material quality did not follow. The efficiency gain is real and it is not the quality gain.
+- **"When teachers configure a chatbot, the failure is factual error."** **When teachers configure a chatbot in natural language, the dominant failure is lost intent rather than wrong facts** — bots **skip** the step the teacher meant. Instruction-following fails structurally rather than factually.
+- **"Technical skill is the decisive layer."** **Pedagogical knowledge is the decisive layer**: a cross-level study of secondary [[ai-education|AI education]] [[pedagogy-first-technology-second-teacher-knowledge-2026|Shen et al., 2026]]. The competence that determines the outcome is the one most training programmes under-invest in.
 ## Connected Concepts
 
 - [[ai-literacy]]

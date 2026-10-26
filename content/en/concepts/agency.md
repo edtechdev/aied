@@ -1,7 +1,7 @@
 ---
 title: Learner Agency
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-10-25T05:51:47-04:00"
+updated: "2026-10-26T12:05:00-04:00"
 type: concept
 foundations: [agency, cognitive-offloading, human-ai-collaboration]
 pedagogy: [motivation, self-regulated-learning]
@@ -116,6 +116,11 @@ A closely related framing is **relational epistemic agency** ([[du-yuan-epistemi
 
 - **Delegated agency as a mechanism, not only a risk.** [[yan-agentivism-learning-theory-ai-2026|Yan and Gašević (2026)]] treat the delegation of cognitive work to AI as part of how learning happens, not merely a threat to it: in their account assisted performance becomes durable capability only when the learner keeps responsibility for framing the problem, setting criteria, and justifying answers, a division of labor they call delegated agency. That makes the allocation itself the design variable, since the same tool can preserve or dissolve learner agency depending on which responsibilities it absorbs.
 
+## Common Misconceptions
+
+- **"Students exercise agency when they use AI freely."** A **14-category scheme coding 6,788 ChatGPT-assisted turns** placed **59% of seventh graders' turns** into categories that do not represent agentic use. Usage volume and agency are different measures.
+- **"Current models support learner agency well."** **Benchmarked across ten models, supporting agency is where they do worst after learning**: ImpactBench measured **Agency and Purpose at 56.0%** on positive criteria. Agency is the dimension AI systems handle least well, not a by-product of capability.
+- **"Teacher mediation is a constraint on agency."** [[canonigo-teacher-mediation-generative-ai-mathematics-2026|Canonigo (2026)]] followed **ten secondary mathematics teachers across an eight-week ChatGPT-4** intervention and the mediation is the mechanism rather than the obstacle.
 ## Connected Concepts
 - [[learners]] — Learners: the umbrella for the learner-side concepts
 - [[pedagogical-partnerships]] — Pedagogical Partnerships

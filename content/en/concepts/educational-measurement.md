@@ -1,7 +1,7 @@
 ---
 title: Educational Measurement
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-10-22T09:11:45-04:00"
+updated: "2026-10-26T12:05:00-04:00"
 type: concept
 foundations: [ai-literacy]
 technology: [educational-nlp, knowledge-tracing, learning-analytics]
@@ -122,6 +122,11 @@ In short, educational measurement can **miss** what it does not sample (process,
 Educational measurement is the foundation for [[item-response-theory]], [[assessment-validity]], [[knowledge-tracing]], and [[student-modeling]]. It connects to [[learning-analytics]] (measurement of learning data), [[educational-nlp]] (measuring language), and [[psychometrically-aware-ai]] (AI aligned with measurement theory). Its validity and reliability concerns underpin [[ai-ed-evaluation]] and the [[limitations-in-aied-research|measurement limitations]] of the field. For the constructs it measures, it intersects with [[ai-literacy]], [[technology-acceptance-model]], [[self-efficacy]], [[motivation]], and [[student-engagement]].
 - **Causal modeling of support interventions (2026):** a structural causal modeling protocol moves educational assessment beyond associative item-response-theory belief updating toward interventional and counterfactual reasoning (e.g., the effect of hints), with structural equations elicited from experts using purely logical information — illustrated on compulsory-school algorithmic-skills tasks ([[causal-modeling-competency-assessment-2026]]).
 
+## Common Misconceptions
+
+- **"Models can estimate item difficulty."** Four frontier models were scored against **IRT ground truth on 2,548 mathematics items**: they reach **68.6% on relative difficulty** but fall **below chance** at absolute calibration. Ranking and calibration are separate abilities, and the second is what an assessment design needs.
+- **"A taxonomic label predicts how hard an item is."** Across **265 mathematics items**, intended Bloom level explained **under 5% of the variance in difficulty**. Labelling an item by Bloom level tells you almost nothing about its empirical difficulty.
+- **"Item quality is judged from its wording."** **Judge generated items on the solution path, not the wording**: encoding each item's **verified reasoning tree** lifted performance over the second-best method by a margin. The reasoning structure carried the signal, not the surface text.
 ## Connected Concepts
 
 - [[interpreting-and-applying-aied-research]]

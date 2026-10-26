@@ -2,7 +2,7 @@
 connected_resources: [student-guide-to-ai]
 title: Metacognition
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-10-18T10:07:01-04:00"
+updated: "2026-10-26T12:05:00-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
@@ -138,6 +138,11 @@ Proactive [[agentic-ai|agentic AI]] can displace the learner's own metacognitive
 - **Inside a metacognitive self-report instrument, awareness outpredicts the rest.** [[alatoai-ai-learning-environments-self-regulation-2026|Alatoai and Alshahri (2026)]] validated a 45-item measure of AI-supported STEM learning with 649 Saudi secondary students (CFI = 0.983, RMSEA = 0.019; subscale ω = 0.888–0.905) and used it to rank the components. The four dimensions explained 68% of the variance in self-regulated learning scores, with AI-based metacognitive awareness strongest (β = 0.38, p < 0.001), cognitive transfer and adaptability next (β = 0.29, p = 0.008), and creative and critical AI-STEM reasoning not significant (β = 0.14, p = 0.135). Awareness is the component that carries adaptive performance, the authors advise reporting subscales separately rather than one global score, and they reserve higher-order reasoning for reasoning-quality tasks; the measure is nonetheless self-report, so like the workshop study above it captures perceived capability rather than observed strategy use.
 - **The evaluator's own monitoring is metacognitive work too.** [[hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026|Hoppe, Loibl and Leuders (2026)]] argue that an AI-generated diagnostic inference is not raw evidence but an interpretation already made, so teachers must integrate it with their own observations in a process they call *meta-diagnosis*, deciding deliberately whether to accept, reject, or modify it. That places a second metacognitive loop beside the learner's: not only how the student regulates thinking with AI, but how the teacher evaluates what the system claims about that thinking.
 
+## Common Misconceptions
+
+- **"AI assistance leaves the underlying ability intact."** Students who used AI essay assistance were **83% unable to recall quotes from their own essays, against 11% for non-AI users**, indicating **they did not engage with the content during production**. The production process is where the engagement happens, and bypassing it shows up later.
+- **"Offloading degrades everything."** The cost appears **bounded rather than global**: offloading degrades **the specific skill practiced, not the underlying domain-general abilities**, and surfaces on **with**-something transfer tests. The localisation matters, because it says what to protect rather than warning about general decline.
+- **"Ability to produce implies ability to retain."** The 83% versus 11% recall gap is the direct counterexample: output was produced in both conditions and the memory trace differed enormously.
 ## Connected Concepts
 
 - [[pedagogical-patterns]] — The reflection steps these sequences build in

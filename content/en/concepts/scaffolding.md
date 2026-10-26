@@ -2,7 +2,7 @@
 connected_resources: [onmicro-ai]
 title: Scaffolding
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-24T06:40:00-04:00"
+updated: "2026-10-26T12:05:00-04:00"
 connected_faqs: [designing-ai-into-learning, developing-ai-tutor, asynchronous-online-courses-ai]
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
@@ -85,6 +85,11 @@ The rule-guided versus ad-hoc distinction reaches past the tutor and into the as
 
 - **A scaffold the learner cannot verify is a fluent substitute.** Because [[chemistry-education|chemistry]] reasons across observable phenomena, particulate models and symbolic notation, a generated answer can be locally persuasive and globally wrong. [[vega-baudrit-genai-university-chemistry-education-review-2026|Vega-Baudrit and Rivera Álvarez (2026)]] place scaffolding on the productive side of their Presage-Process-Product analysis and uncritical copying on the failure side, and require scaffolds to demand representational translation in both directions, since a response that describes neutralization correctly can still claim that every equivalence point has a pH of 7. Verification is designed into the task rather than announced as a rule: students identify a false assumption, correct a unit or mechanism error, compare a symbolic structure with a submicroscopic model, or justify rejecting a generated answer. Because students cannot verify what they do not yet understand, [[prior-knowledge|prior knowledge]] and scaffolding come first, and prompting is treated as an epistemic act in which the learner specifies the constraints the answer must satisfy.
 
+## Common Misconceptions
+
+- **"Scaffolding is a constant level of support."** Expert annotation of **207 consultations** showed scaffolding need was **strongly phase-dependent, rising from about 16.1% of student utterances early** in the encounter. A single scaffold level is misallocated at both ends of the same consultation.
+- **"Any structured control condition is a fair comparison for scaffolding."** The scaffolding condition outperformed a **structured progressive-disclosure control** on the final OSCE-aligned [[summative-assessment|examination]] (**71.8% versus 55.6%**), so the gain was measured against a real pedagogical alternative rather than against nothing.
+- **"Scaffolding effects are general."** The gain was **16.4 percentage points (P = 3.30e-4)**, with the largest improvement in **communication (Hedges' g = -0.79)**. The effect concentrated in one outcome, so an average across outcomes understates where it works and overstates where it does not.
 ## Connected Concepts
 - [[pedagogical-patterns]] — Where in the sequence support belongs, and why attempt-before-help is the load-bearing rule
 - [[problem-based-learning]] — PBL embeds fading scaffolds around ill-structured problems

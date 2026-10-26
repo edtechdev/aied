@@ -2,7 +2,7 @@
 connected_resources: [process-feedback]
 title: Self-Regulated Learning
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-10-25T08:45:00-04:00"
+updated: "2026-10-26T12:05:00-04:00"
 type: concept
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
 technology: [generative-ai, llm, personalized-learning]
@@ -174,6 +174,11 @@ Which support is in play decides which mediator carries the association: among 3
 - **Group-level detection follows the same split, and talk carries more than logs.** In dyads modeling a truck's motion in C2STEM, 394 task-context segments from 36 high schoolers were labeled with seven socially shared regulation codes and predicted from LLM summaries of each segment: text-only embeddings reached mean AUC 0.650 while log-derived features alone reached 0.526, near chance for a construct that is largely social. Planning was invisible within a single segment (0.5036) and became detectable once the two segments on either side were concatenated (0.6711), whereas reflecting was best once the logs were added (0.5862), the same hint-reading-versus-plan ambiguity this section records for individual learners ([[zhang-llm-detection-ssrl-collaborative-modeling-2026|Zhang et al., 2026]]).
 - **Automated SRL labels hold for enacting and fail for planning.** In a fourth-grade mixed-reality science class, a pipeline fusing gaze, gesture, speech and game logs labeled 75 human-checked segments at 74.67% overall, from 93.3% for enacting and interacting down to 46.7% for planning ([[fonteles-embodied-learning-human-in-the-loop-multimodal-2026|Fonteles et al., 2026]]).
 
+## Common Misconceptions
+
+- **"Self-regulation is a learner trait."** Regulated learning decomposes into **self-reflection, causal attribution and adaptation**, and proficient learners **employ cognitive strategies to improve success**. These are trainable processes that a design can support or undermine.
+- **"Any adaptive design supports regulation equally."** [[scheu-mobile-chatbot-journaling-motivation-2026|Scheu et al.'s]] **2x2 randomized field experiment with 179 students over 22 days** compared two design principles and found them different in mechanism, so "adaptive" is not a single treatment.
+- **"Anxiety undermines regulation."** In a mixed-methods study of **107 students**, higher [[anxiety-and-stress|AI anxiety]] was **positively associated with verification and re-checking**. Anxiety functioned as a prompt to verify, which is regulation rather than its absence.
 ## Connected Concepts
 
 - [[learners]] — Learners: the umbrella for the learner-side concepts
