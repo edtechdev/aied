@@ -1,7 +1,7 @@
 ---
 title: Cognitive Offloading
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-25T10:40:00-04:00"
+updated: "2026-10-26T12:30:00-04:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [metacognition, self-regulated-learning]
@@ -153,6 +153,11 @@ Two controlled studies in the recent batch pin down the two halves of this claim
 The same logic turns reward shaping into a design tool: [[assistance-dilemma-rl-tutoring-2026|Macina et al. (2026)]] train LLM tutors with a masked near-transfer post-test and two binary gates, so the reward can rise only through what the student wrote in its own turns, and their ablation shows the gates, not the raw learning-gain reward, are what reduce solution handover.
 
 
+## Common Misconceptions
+
+- **"Prompt volume measures offloading."** **97 learners** were clustered by prompt volume, and **the volume clusters did not differ significantly in local-versus-global or active-role prompting**. Counting prompts counted activity, not the distribution of cognitive work.
+- **"Students use AI mainly to understand."** **Analyze topped the distribution at 27.28% (831 messages) ahead of Understand at 23.76%** — the first fine-grained evidence that naturalistic [student-AI interaction] leans analytic rather than comprehension-oriented.
+- **"Prompt traces reveal whether offloading happened."** What prompt-level traces cannot supply comes from a **16-student subsample with linked grades, whose 1,140 messages were hand-coded**: **49.6% of 125 dialogues showed no offloading** at all. Trace patterns overstate offloading relative to hand-coded dialogue.
 ## Connected Concepts
 
 - [[pedagogical-patterns]] — The risk every effort-first sequence is designed to avoid

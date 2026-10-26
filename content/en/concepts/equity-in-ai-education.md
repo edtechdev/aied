@@ -1,7 +1,7 @@
 ---
 title: Equity
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-10-18T13:41:09-04:00"
+updated: "2026-10-26T12:30:00-04:00"
 type: concept
 foundations: [ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring]
@@ -113,6 +113,11 @@ In a scoping review of 394 GenAI higher-education studies, equity and access wer
 
 Equity also has an environmental and computational dimension: unequal access to computationally intensive models can widen disparities between students and between well- and under-resourced institutions, and the substantial energy consumption and carbon footprint of deploying large models stand in tension with higher education's sustainability goals ([[large-language-models-teaching-learning-higher-ed|Li et al. (2026)]]).
 
+## Common Misconceptions
+
+- **"The equity problem is access to tools."** **Tool quality is part of the divide, not just tool access**: [[canonigo-teacher-mediation-generative-ai-mathematics-2026|Canonigo (2026)]] submitted **50 mathematics tasks** and found quality differences that follow the tool rather than the user.
+- **"Hybrid human-AI tutoring cannot narrow gaps."** **Differentiated human-AI tutoring is evidence that hybrid models can narrow gaps — when allocation follows need.** A difference-in-discontinuities study (**635** participants) found proactive tutoring showed **marginally higher average growth (75%, p = .065) concentrated among students farther below the cutoff**. The gain concentrated where need was greatest.
+- **"An average effect tells you whether equity improved."** The insight is that the **allocation rule** determined the equity outcome: an intervention that helps everyone equally leaves gaps unchanged, and one that helps proportionally to need narrows them.
 ## Connected Concepts
 
 - [[differential-effects-across-learner-groups]]

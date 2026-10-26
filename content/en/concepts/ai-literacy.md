@@ -1,7 +1,7 @@
 ---
 title: AI Literacy
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-10-25T05:05:44-04:00"
+updated: "2026-10-26T12:30:00-04:00"
 type: concept
 foundations: [academic-integrity, ai-education, ai-literacy, educational-development]
 technology: [generative-ai, llm]
@@ -201,6 +201,11 @@ For critical AI literacy specifically, [[solyst-youth-systematic-evaluation-gena
 
 [[suartama-cafe-ai-pedagogy-technology-ai-literacy-2026|Suartama, Sukmana and Triwahyuni (2026)]] propose CAFE-AI, a design that pairs AI literacy instruction with growth-mindset framing, reporting that the combination improved both measured AI literacy and mindset over a semester in one Indonesian university course.
 
+## Common Misconceptions
+
+- **"Self-reported AI literacy tracks actual AI literacy."** It **diverges sharply from measured performance** — teachers **overestimate their skills by about 40%**, and [[ai-literacy-assessment-misalignment|research on literacy assessment]] shows the same **40% gap** between self-report and performance-based measurement. A survey of AI literacy measures confidence, not competence.
+- **"AI literacy is one construct."** [[sun-student-genai-entanglement-literacy-demands-2026|Sun, Dohn and Rehm (2026)]] classified **102 empirical higher-education studies** and found the construct is not unitary. A programme that builds one dimension leaves the others unaddressed.
+- **"A 40% overestimate is a minor calibration issue."** It means the students and teachers most confident about their AI literacy may be the ones least able to evaluate output — which is exactly the population an intervention has to reach first.
 ## Connected Concepts
 - [[pedagogical-patterns]] — Developed by the critical-appraisal steps in these sequences
 - [[learners]] — Learners: the umbrella for the learner-side concepts

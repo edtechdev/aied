@@ -1,7 +1,7 @@
 ---
 title: Assessment Validity
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-25T09:20:00-04:00"
+updated: "2026-10-26T12:30:00-04:00"
 connected_faqs: [redesign-assessment-ai-era, reporting-interpreting-aied-research, asynchronous-online-courses-ai, checking-whether-educational-ai-works]
 type: concept
 foundations: [academic-integrity]
@@ -115,6 +115,11 @@ Run-to-run stability is not guaranteed, however: repeating the same grading on i
 - **A valid measure can still be unsafe to optimize.** Fine-tuning an LLM tutor against a rubric-style adaptivity metric raised the metric (+0.05 to +0.42) while blind expert ratings fell (4.46 to 3.03), because a metric that scores decisions independently is maximized by repeating the single best decision ([[llm-tutor-pedagogical-metric-degradation-2026|Domínguez Figaredo & Fernández De la Cruz, 2026]]).
 - **An embedding's geometry is not a rubric's distinctions.** Against 992 handwritten physics solutions under five textual representations and nine embedding mechanisms, [[embedding-similarity-clustering-handwritten-physics-2026|Tauschhuber & Kortemeyer (2026)]] report a best weighted Spearman correlation with human scores of 0.198, with clusters score-enriched rather than score-equivalent.
 
+## Common Misconceptions
+
+- **"LLM grading bias is a reason to abandon it."** In a **large-scale national writing assessment**, an LLM scorer showed a **systematic conservative (under-grading) bias** — problematic as a final mark and potentially **useful as a screening** signal. A bias with a known direction is a different instrument from an unpredictable one.
+- **"Grade inflation after AI is speculation."** In a **difference-in-differences study of 500,000+ grades across 319 courses (2018-2025)**, courses with more AI-exposed tasks (writing, coding) **saw the share of A grades rise**. The effect concentrated where tasks were exposed.
+- **"Faculty have adopted AI broadly."** **62.4% (53)** declined to use generative AI at all, and adopters' use was **confined largely to proofreading (43.8%) and clarity checks (34.4%)**. The adoption pattern is cautious and narrow, which changes what a validity argument needs to cover.
 ## Connected Concepts
 
 - [[pedagogical-patterns]] — Why process evidence is proposed when output no longer identifies the author

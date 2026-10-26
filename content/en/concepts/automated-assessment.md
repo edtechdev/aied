@@ -1,7 +1,7 @@
 ---
 title: Automated Assessment
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-22T09:11:45-04:00"
+updated: "2026-10-26T12:30:00-04:00"
 type: concept
 connected_faqs: [ai-save-instructor-time, ai-feedback-at-scale]
 foundations: [teacher-role]
@@ -131,6 +131,11 @@ Automated assessment connects to [[assessment-validity]] (quality assurance), [[
 
 - **Structured LLM grading can look analytic without being diagnostic (2026):** Scoring 3,041 responses to 50 computer-science questions, three commercial LLMs produced rubric sub-dimensions that were near-redundant (r = 0.82–0.99, VIF up to 45) and named misconceptions in only 4.8–7.4% of comments, against 15.0% for instructors ([[llm-structured-assessment-diagnostic-quality-2026|Zhao et al., 2026]]).
 
+## Common Misconceptions
+
+- **"An automated score is a single reliable number."** A practical computer vision exam (**570 dual-graded students**) was graded under **171 configurations**, and a second machine-learning exam under further ones — the configuration drove the score. A grade presented as a number conceals the configuration that produced it.
+- **"Confidence reporting is a nicety."** A score that said it was **70% sure** would change how it is used, and the absence of that information forces the reader to treat all scores as equally certain.
+- **"Short-answer auto-marking is a settled area."** A scoping review of short-answer auto-marking in [[science-education|science]] (**2017 to early 2024**) documents the field's history, which is a record of what has been attempted rather than of what has been validated.
 ## Connected Concepts
 
 - [[explainable-ai]]

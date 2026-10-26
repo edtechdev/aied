@@ -2,7 +2,7 @@
 connected_resources: [clarity, pedagogical-promptbook, snorkl]
 title: Feedback
 created: "2026-08-15T19:02:13-04:00"
-updated: "2026-10-23T22:48:50-04:00"
+updated: "2026-10-26T12:30:00-04:00"
 type: concept
 assessment: [ai-feedback-quality, assessment, automated-assessment, feedback, feedback-literacy, formative-assessment, peer-assessment]
 connected_faqs: [developing-ai-tutor, ai-feedback-at-scale]
@@ -133,6 +133,11 @@ Feedback is one of the most consequential and best-evidenced mechanisms in educa
 - **Feedback can target the feedback-giver.** Tutor training is an under-explored feedback context: automated systems that sequence-label tutors' open-ended responses to flag praise types (effort-based praise — the desirable process-focused kind — vs. outcome-based vs. person-based, the least desirable trait-attributing kind) can deliver explanatory feedback that changes tutoring behavior. The binding constraint is expert-labeled data. An augmentation approach — GPT-4o generates synthetic labeled responses expanding a 13-instance low-resource set to 520, then fine-tunes GPT-3.5 — recovers most of the gap: F2 +20.5% on effort-based praise, +17.3% on outcome-based, and +16.5% on the *unseen* person-based category. The generalization test to an unseen praise type is the validity check that separates this from overfitting, and the mechanism is closer to teacher-model distillation than classical augmentation. ([[xu-automated-feedback-tutor-training-2025]])
 - **Feedback that cannot see the revision gets repeated.** In a science learning game whose agents critiqued draft arguments, students revised across multiple rounds, but a quantized 8B model returned substantially the same critique to an improved draft, so the loop that motivated revision also produced the frustration that ended it ([[humburg-scistory-ai-supported-inquiry-science-learning-games-2025|Humburg et al., 2025]]).
 
+## Common Misconceptions
+
+- **"Students cannot tell AI feedback from human feedback."** They can, and the label changes the judgement: **once the label was revealed, ratings of the AI variant fell and of the human variant rose — significantly for Genuineness (p < .01)**. Provider credibility shaped the evaluation of identical-style feedback.
+- **"Lab approval predicts semester use."** **Lab approval is not semester use**: **all 18 students** reacted positively to the GenAI explanation function in lab sessions, **yet only half used it during the term**. The intention-usage gap is the design problem.
+- **"Immediate corrective feedback is solved with LLMs."** Generating it inside a tutor is **feasible but imperfect**: across **6,926 logged transactions** in the Apprentice Tutor collection, the feedback was good enough to deploy and not good enough to assume correctness.
 ## Connected Concepts
 
 - [[pedagogical-patterns]] — Tested feedback sequences, including why higher-quality AI feedback produced no more revision

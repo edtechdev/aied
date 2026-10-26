@@ -1,7 +1,7 @@
 ---
 title: Meta-Analysis and Systematic Review
 created: "2026-08-14T05:24:40-04:00"
-updated: "2026-10-26T05:10:00-04:00"
+updated: "2026-10-26T12:30:00-04:00"
 type: concept
 foundations: [ai-education]
 connected_faqs: [reporting-interpreting-aied-research]
@@ -133,6 +133,11 @@ Within the knowledge base's methodological landscape, meta-analysis and systemat
 
 - **PRISMA 2020 review of GenAI in healthcare scenario learning.** Neto and colleagues (2026) systematically searched five databases (9 Nov 2025) for peer-reviewed GenAI studies across scenario-, case-, problem-, and [[simulation]]-based healthcare education, screening 1,151 records down to 23 included studies appraised with the [[mixed-methods-research|Mixed Methods]] Appraisal Tool (MMAT). Their thematic synthesis surfaced six cross-cutting themes anchored on [[prompt-engineering|prompt design]] as instructional specification, and documented gaps in validation standardization, longitudinal/comparative designs, and efficiency quantification — a template for rigorous [[medical-education|domain-specific]] GenAI systematic review.
 
+## Common Misconceptions
+
+- **"A significant pooled effect means the intervention works."** [[yu-k12-ai-education-ai-literacy-meta-analysis-2026|Yu and colleagues' meta-analysis of K-12 AI education]] (**16 studies, 57 effect sizes, g = 0.892**) found a large effect, though the authors qualify it. Sixteen studies is a narrow base, and a large effect over that base is a hypothesis with a wide interval.
+- **"Reviewers report the field's quality accurately by default."** A review's job includes **exposing methodological quality**, and reviews **routinely find that the field relies on underpowered, pre-experimental or quasi-experimental designs** with immediate post-tests. The pooled number inherits those weaknesses.
+- **"Pooling always increases evidential weight."** [[chen-digital-ai-foreign-language-skills-meta-analysis-2026|Chen and Wei's meta-analysis]] of **40 studies** for foreign-language skills pools across very different technologies, and the mean describes none of the specific interventions it contains.
 ## Connected Concepts
 
 - [[interpreting-and-applying-aied-research]]

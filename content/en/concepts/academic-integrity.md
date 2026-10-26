@@ -1,7 +1,7 @@
 ---
 title: Academic Integrity
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-25T10:40:00-04:00"
+updated: "2026-10-26T12:30:00-04:00"
 connected_faqs: [writing-instruction-ai-best-practices, should-we-use-ai-detectors, redesign-assessment-ai-era, reduce-ai-cheating, addressing-common-misconceptions-ai-education, course-ai-policy, verify-ai-output, group-work-ai, asynchronous-online-courses-ai]
 type: concept
 foundations: [ai-literacy]
@@ -158,6 +158,11 @@ The first Theory of Planned Behavior study of GAIT-based misconduct intention ex
 [[gillette-partnership-ethics-genai-higher-education-2026|Gillette et al. (2026)]] document the regime from inside one faculty: teachers who had changed assessment formats said it was "virtually impossible to say whether a student has used AI in the writing of assignments", while angry students asked for appeals to conscience and "shaming" rather than detection.
 - **Better sensing does not change what the assessment can certify.** A YOLOv11 pose-estimation proctoring system reporting 99.56% classification accuracy illustrates the limit of the detection route: it measures posture against a behavioral label, reports no ground truth on misconduct, and offers no subgroup analysis ([[arif-automated-online-proctoring-yolov11-2026|Arif et al., 2026]]). The remedy Villanueva argues for is sufficient evidence of learning at key stages, not maximum surveillance of every submission.
 
+## Common Misconceptions
+
+- **"Detection tools identify AI writing."** AI-generated text has **passed as human-authored in up to 80% of cases**, while the evidence for detection puts **machine detection at about 80% against 78.4% for human raters**. Human and machine judgement are almost equally (un)reliable, so a detection verdict is not evidence of authorship.
+- **"The problem is marginal."** The volume is far from it: a **six-year analysis of a large-enrollment CS2 course** found **45.7% of Spring 2026 students flagged**. Nearly half a cohort, which makes this a mainstream design problem rather than an edge case.
+- **"Instructors know which assessments are vulnerable."** In a [[biology-education|biology]] department, instructors **perceived only in-person proctored exams as minimally vulnerable**, while outside-of-class assignments were seen as exposed. The perception matched the obvious case and treated everything else as safe.
 ## Connected Concepts
 - [[pedagogical-patterns]] — Verification sequences adopted in response to generative AI
 - [[ai-use-disclosure]] — AI use and disclosure statements
