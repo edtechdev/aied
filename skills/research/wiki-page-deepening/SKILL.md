@@ -90,6 +90,21 @@ python3 <AGENT>/research/wiki-inline-links/scripts/check_list_formatting.py . <s
 
 The scanner's denylist suggestions are report-only, not defects. Apply only high-confidence links (use `--apply` per-page, then re-scan to confirm). After `--apply`, re-run list-formatting (it edits bodies).
 
+**Neither script validates that a link target exists.** `inline_link_scan.py` reports `Defects: 0` for `[[veracode-ai-code-security]]` even though no such page exists — it checks bracket balance, self-links and heading links only. Whenever you hand-write a wikilink from memory, verify the target resolves:
+
+```python
+import re, os
+W = "content/en/"; valid = set()
+for d in ["concepts", "articles", "faqs", "resources"]:
+    valid |= {f[:-3] for f in os.listdir(W + d) if f.endswith(".md")}
+for slug in edited:
+    t = open(f"{W}concepts/{slug}.md", encoding="utf-8").read()
+    miss = {l.strip() for l in re.findall(r'\[\[([^\]|#]+)', t) if l.strip() not in valid}
+    if miss: print(slug, sorted(miss))
+```
+
+This matters most for empirical claims attached to a link: a fabricated slug silently renders as dead text while carrying a real statistic. If the target does not exist, drop the link and keep the claim attributed in prose instead of inventing a page to point at.
+
 ## Step 5 — Ship and verify
 
 1. **Do NOT regenerate the llms dumps as part of a content edit.** `AGENTS.md` makes
