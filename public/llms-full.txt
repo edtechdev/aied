@@ -1,5 +1,5 @@
 # AI in Education Knowledge Base — Full Content
-> Complete text of 221 concepts, 1849 articles, and 37 FAQs.
+> Complete text of 221 concepts, 1850 articles, and 37 FAQs.
 
 # Concepts
 
@@ -2543,6 +2543,7 @@ The knowledge base's [[research-methods-aied|research methods]] page details the
 - **Standardizing within each dataset can hide a misstatement of spread.** When synthetic educational cohorts were standardized by their own dispersion, the fact that their weekly structure varied 2.6 to 4.9 times less than the real cohorts' became invisible to the reported statistics - routine preprocessing, in the authors' words not a hypothetical worry ([[synthetic-educational-data-structural-fidelity-2026|Inoue & Yasutake, 2026]]).
 
 - **Model-generated labels are not ground truth.** Where the labels that train or evaluate a system are themselves produced by language models, agreement between annotators cannot establish validity: [[edubehaviors-auditable-coding-educational-dialogues-2026|Bernado et al. (2026)]] never validated their assertion annotations against human gold labels, and the 49 encoder classifiers they release inherit that provenance and may not be valid where applications differ in significant dimensions. Their schema also strictly underperformed the fine-tuned classifier trained on expert-annotated data (macro-F1 0.673 against 0.76), leaving expert-labeled corpora worthwhile when high confidence is required.
+- **The evidence base itself is unevenly distributed.** A scoping review of 407 technology-supported formative assessment studies drew only on Web of Science and Scopus. It also excluded 61 records on language criteria, so the geographic imbalance the field reports may partly reflect which venues are indexed ([[bulut-technology-supported-formative-assessment-2026|Bulut, 2026]]).
 
 ## The speed problem: AI evolves faster than findings
 
@@ -19015,6 +19016,7 @@ Formative assessment in AI education connects to the learning process itself:
 - **AI scoring adds a validity threat.** Because an AI scorer can reward construct-irrelevant features such as language fluency instead of scientific reasoning, a Stanford/ETS white paper distilled from a ~100-leader convening argues assessment should accumulate continuous, context-rich evidence rather than certify one-shot outputs ([[responsible-assessment-ai-era-stanford-2026|McGee et al. (2026)]]).
 
 - **Keep the vulnerable task and add a twin.** [[roe-assessment-twins-2026|Roe, Perkins & Giray (2026)]] argue take-home essays and research reports carry substantial formative value and should be retained for learning, paired with a second task assessing the same outcomes that supplies reliable summative evidence.
+- **Technology-supported formative assessment is a system property, not a tool.** [[bulut-technology-supported-formative-assessment-2026|Bulut (2026)]] defines it as the joint product of technological capacity, pedagogical regulation, learner agency, and human judgment, and argues its value lies in sustaining the evidence-feedback-reflection-action cycle rather than in automation.
 ## Risk: Assessment as surveillance
 
 Formative assessment systems can shift from learning-support tools to behavior-monitoring infrastructure. The same data streams that enable adaptive tutoring can enable punitive tracking if [[governance]] is weak. This connects to [[privacy]] and [[well-being|student well-being]], and argues for formative systems that support learning rather than surveil it.
@@ -21716,6 +21718,8 @@ A distinct methodological strand — [[usability-research|usability and HCI rese
 
 In practice, AI-in-education research rarely falls cleanly into one tradition. The strongest evidence triangulates: a computational or usability evaluation establishes that a system works, an experiment establishes that it causes learning, quantitative instruments measure the constructs, and qualitative work reveals the mechanisms and meanings — together answering both *whether* a tool helps learning and *how and why*.
 
+[[bulut-technology-supported-formative-assessment-2026|Bulut (2026)]] adds a bibliometric strand that sits apart from these four: mapping 407 records by co-word and co-authorship network to trace a field's conceptual development. The author is explicit that the SWOT reading built on top of it is an interpretive device rather than an independent analytical technique, which marks the boundary between synthesis and analysis in this tradition.
+
 ## Common Misconceptions
 
 **"High benchmark accuracy shows educational effectiveness."** It does not, and the gap is the field's central measurement problem: a system can score high on accuracy while producing no learning, because benchmark accuracy measures task performance under the conditions the benchmark set. Educational effectiveness requires a learner outcome under conditions the technology does not control.
@@ -22833,6 +22837,7 @@ Network methods are used across the knowledge base's evidence base to answer que
 - **Validate the instrument before reading its network.** [[alatoai-ai-learning-environments-self-regulation-2026|Alatoai & Alshahri (2026)]] built the 45-item AI-STEM-MLCS by the full scale-development route — expert content-validity ratios, exploratory then confirmatory factor analysis (CFI = 0.983, RMSEA = 0.019), McDonald's ω of 0.888–0.905, and two-week test-retest ICCs of 0.751–0.900 — before modeling the four dimensions with exploratory graph analysis. Deriving structure from a network whose nodes are unvalidated scale scores is what that ordering guards against, and the authors name the Saudi-specific validation as the boundary on transferring the structure.
 - **Interpret with care.** Node granularity (e.g., a coarse "chat" node) can obscure intent; automated classification carries some ambiguity; and cross-sectional network structure does not establish causality.
 - **Networks that expose what an aggregate hides.** [[genai-social-annotation-epistemic-network-analysis-2026|Pan et al. (2026)]] found the GenAI-annotating class outscored and out-engaged its control, then split the experimental class by median performance and showed the gain was not shared: high-achieving groups initiated 60.7 percent of feedback requests across their annotations against 34.0 percent for low-achieving groups, which stayed in a self-referential loop (group separation significant on the ENA X-axis, U = 25.00, p = 0.01). The design lesson is that one group-level effect can summarize two different interaction structures — and the two groups were intact classes, so the comparison identifies the pattern without attributing it causally.
+- **Co-word and co-authorship clusters record publishing practice as much as intellectual affinity.** [[bulut-technology-supported-formative-assessment-2026|Bulut (2026)]] warns that bibliometric centrality and clustering reflect which venues, languages and regions are indexed, so a map of a field is not a neutral measurement of it.
 
 ## Implications for AI-in-education research
 
@@ -24296,6 +24301,7 @@ Preparation matters more than preference, and the right to refuse is unevenly di
 - **[[curriculum-design|Curriculum]] diversification:** Teachers increasingly use LLMs to diversify curriculum materials (Wang et al., 2025, found 78% did so), yet AI-curated reading lists still underrepresent BIPOC authors, and [[stem-education|STEM]] [[intelligent-tutoring|AI tutors]] default to Western-centric problem contexts.
 
 - **Generated imagery repeats dominant visual norms, which makes critical use a competency rather than an add-on.** Jiang et al. (2026) observe that GenAI image generation reproduces dominant multimodal norms such as visual bias, and warn that multimodal assessment which ignores this risks automating and reproducing inequalities; their framework for second language teachers therefore requires the competence to help students detect, evaluate and counter-narrate biased model outputs ([[multimodal-assessment-literacy-l2-teachers-genai-2026|Jiang et al., 2026]]).
+- **Representation applies to the evidence, not only the learners.** [[bulut-technology-supported-formative-assessment-2026|Bulut (2026)]] argues that equity in technology-supported assessment covers the contextual transferability of the knowledge underpinning a design, so a system validated in well-resourced settings carries untested assumptions elsewhere.
 
 ## Outcome equity
 In a scoping review of 394 GenAI higher-education studies, equity and access were among the outcomes targeted least, alongside metacognition, ethics and creativity ([[mapping-genai-higher-ed-scoping-review|Lin et al. (2026)]]).
@@ -24654,7 +24660,7 @@ The digital divide is a core concern of [[equity-in-ai-education]] research, clo
 - **"Access to the tool is the divide."** Access is the first layer and the literature has moved past it. **Phrasing skill is its own second-level divide**: on MedQA, accuracy rose with prompt sophistication from **82.4% for low-literacy wording to 83.4% for expert phrasing**, which means two students with identical access get different quality from the same model because one knows how to ask. A prompt-rewriting layer narrowed the gap — the divide is in the interface and the user's fluency, not only in the subscription.
 - **"If it runs in a browser, it is available."** Most LLM lecture tools assume **single-language English audio and reliable internet**, which rules out exactly the classrooms mixing English with a home language. India's UDISE+ data put school internet access far below the level that assumption requires. A tool built on an assumed infrastructure silently excludes the settings with the strongest need.
 - **"Digital literacy and AI usage are the same mediating variable."** A study of **4,497 Grade 6 students** in the Netherlands separated **two distinct mediating pathways** — AI usage and digital literacy — linking background and personality to learning gains. They are not interchangeable, and interventions that raise one do not automatically raise the other.
-- **"Simulations remove the cost barrier."** A systematic review of **11 digital-twin studies** in STEM higher education found hardware costs of **$2,000-$15,000** per setup. A simulated lab can reproduce the equipment bill it was meant to avoid, so the cost argument for virtual provision has to be checked rather than assumed.
+- **"Simulations remove the cost barrier."** A systematic review of **11 digital-twin studies** in STEM higher education found hardware costs of **\$2,000-\$15,000** per setup. A simulated lab can reproduce the equipment bill it was meant to avoid, so the cost argument for virtual provision has to be checked rather than assumed.
 
 ## What this means for practice
 
@@ -48989,6 +48995,56 @@ Brunnström, L., & Palmqvist, L. (2026). [AI-interaction literacy: reflections o
 ## Citation
 
 Victor-Alexandru Padurean, Kaitlin Riegel, Alkis Gotovos, Jyotika Mahapatra, Ahana Ghosh, Adish Singla (2026). [When AI Is Wrong on Purpose: How Students Respond to Buggy GenAI Code](https://arxiv.org/abs/2607.05068). .
+
+---
+
+## [Technology-Supported Formative Assessment in Higher Education: AI, Learning Analytics and the Future of Assessment for Learning](https://edtechdev.github.io/aied/articles/bulut-technology-supported-formative-assessment-2026/)
+
+> **Synthesis:** Bulut (2026) maps twenty-six years of research on technology-supported formative assessment (TSFA) in higher education, drawing on 407 studies published between 2000 and August 2026. The review's central claim is a shift in what technology is *for*: early work treated digital tools as delivery mechanisms for existing assessment practice, whereas the recent literature increasingly positions analytics and AI as constitutive parts of a formative cycle of evidence, feedback, reflection, and pedagogical action. Bulut names this configuration a technology-mediated formative ecosystem, joining technological capacity to pedagogical regulation, [[agency|learner agency]], and human judgment. The findings are distributional rather than experimental: bibliometric mapping shows acceleration after 2020 and convergence around [[formative-assessment|formative assessment]], [[feedback]], students, and AI, while [[qualitative-research|qualitative]] synthesis and a SWOT reading identify theoretical fragmentation, thin longitudinal evidence, ethical exposure, and a pronounced geographic imbalance as the field's constraints. The practical argument is that institutions should pursue [[human-ai-collaboration|human-centered AI]] integration, transparent [[governance|governance]], and equitable access if technology is to support rather than displace formative pedagogical judgment.
+
+## Key Findings
+
+- The review's corpus is 407 studies drawn from Web of Science and Scopus, published between 2000 and August 2026, screened from 1,045 initial records.
+- Annual output accelerated markedly after 2020, which Bulut reads as consolidation of TSFA as a recognized field in higher education.
+- Thematic clustering concentrates influence in human-centered and continuous assessment, with formative assessment, students, and AI as central nodes, while feedback, education, and performance appear comparatively underdeveloped as themes.
+- Research collaboration clusters around the United States, United Kingdom, and China, with Canada and parts of Europe and the Asia-Pacific also connected, and limited connectivity across much of Africa and Latin America.
+- The SWOT reading treats strengths (integration of feedback, analytics, AI, and self-regulation) against weaknesses (theoretical fragmentation, methodological imbalance, scarce longitudinal evidence) and threats ([[bias-mitigation|algorithmic bias]], privacy, unequal access, dependence on automated judgment).
+- Bulut frames the SWOT as an interpretive device rather than an independent analytical technique, so its entries synthesize the bibliometric and thematic results rather than adding a separate analysis.
+
+## What the bibliometric record shows
+
+The corpus was built from two databases, Web of Science and Scopus, which together returned 1,045 records, 336 from Web of Science and 709 from Scopus. Screening removed 81 duplicates, then 496 records on document-type criteria (101 from Web of Science and 395 from Scopus) and a further 61 on language criteria (18 and 43 respectively), leaving 407 studies for mapping and synthesis. The steepest growth in annual production comes after 2020, and Bulut interprets that acceleration as more than volume: it marks a conceptual transition in which formative assessment moves "beyond the digital replication of conventional practices" toward an adaptive, data-informed, learner-centered paradigm. The argument matters because it changes the unit of analysis. If the interesting question were whether a digital quiz works, the literature would be a sequence of intervention studies. Because the review frames technology as a mediating mechanism for continuous feedback and pedagogical decision-making, it reads the field as accumulating a new assessment infrastructure, and then asks what that infrastructure lacks.
+
+## Where the literature is strong, and where it is thin
+
+The thematic clustering is the part of the review with the most consequence for practice. Human-centered and continuous assessment occupies a highly developed and influential position, and the strong association of AI with performance, learning systems, deep learning, and higher education signals a research orientation toward adaptive and data-informed environments. Bulut reads this as a genuine strength, since technological mediation has moved from a peripheral support function to a constitutive element of assessment practice, a positioning he argues is consistent with sociocultural, [[constructivist]], and assessment-for-learning traditions that treat [[assessment]] as iterative rather than certifying. The counterweight is that feedback, education, and performance are comparatively underdeveloped as themes despite their pedagogical centrality, and algorithm-related themes sit at the periphery of the knowledge structure. The imbalance is worth stating plainly: the field is developing its instruments faster than its account of what good feedback is, which is why the review calls for an integrative framework tying technical advance to feedback processes and learner agency. The same configuration supports the paper's emphasis on preserving human judgment, since [[self-regulated-learning|self-regulated learning]] depends on learners interpreting formative information rather than receiving verdicts.
+
+## The equity problem buried in the map
+
+The collaboration network is where the review turns from description to criticism. Connectivity concentrates around the United States, the United Kingdom, and China, with Canada, European, and Asia-Pacific systems also well linked, while large parts of Africa and Latin America remain thinly connected. Bulut treats this as an epistemic problem rather than a bibliometric curiosity, and he is right to. If the evidence base is generated overwhelmingly in well-resourced digital environments, then the models and practices it validates carry untested assumptions about infrastructure, learner access, and assessment tradition. He extends equity past the familiar question of who has devices to the representativeness and contextual transferability of the knowledge itself, which is a sharper claim than most access arguments make. The threat analysis follows the same line: algorithmic bias, [[privacy|privacy]] deficits, dependence on automated systems, and the marginalisation of professional judgment are named as risks, and Bulut adds that overreliance on automated feedback can diminish the dialogic, interpretive, and co-regulatory processes that assessment-for-learning research has spent decades establishing. If technical outputs are treated as authoritative rather than provisional evidence, [[agency|learner agency]] and [[teacher-role|teacher judgment]] are displaced rather than supported. The [[digital-divide]] literature and the [[equity-in-ai-education]] literature both bear on this, but the review's contribution is to show the divide operating inside the research base as well as inside classrooms.
+
+## Why the framing matters for assessment design
+
+The most useful move in the paper is definitional. Bulut defines a technology-mediated formative ecosystem as the joint product of technological capacity, pedagogical regulation, learner agency, and human judgment, and then measures the field against that definition rather than against tool sophistication. On this basis the review's practical recommendations are coherent rather than generic: prioritize human-centered AI integration, establish transparent governance, pursue equitable access, and invest in [[educational-development|professional development]] so that technology supports formative judgment instead of substituting for it. The recommendation to treat AI output as provisional evidence echoes work on [[trust-calibration|trust calibration]] and on [[ai-feedback-quality|feedback quality]], and the insistence that the value of TSFA "does not primarily lie in automation" but in supporting cycles of evidence, feedback, reflection, and action is the claim an institution can actually act on. That claim also explains why the review is skeptical of the growth story it otherwise documents: a field expanding faster than its theory can justify is accumulating tools without a settled account of what they are for.
+
+## What this means for practice
+- Judge a formative tool by which part of the evidence-feedback-reflection-action cycle it strengthens, not by whether it automates the assessment step.
+- Keep AI-generated and analytic outputs framed as provisional evidence for interpretation, so that students and staff treat them as inputs rather than verdicts.
+- Audit which student populations a system's underlying model was validated on before adopting it, since research conducted in well-resourced settings may not transfer to your infrastructure or assessment culture.
+- Make governance and data-handling expectations explicit before procurement, because privacy, bias, and transparency problems are cheaper to refuse than to remediate.
+- Treat staff development in interpreting analytics and AI feedback as part of the assessment system itself, not as an optional add-on to implementation.
+
+## Limitations
+- This is a review of published research, so every figure describing the field is a fact about the literature rather than about learners; the review measures what has been studied, not what works.
+- The corpus is restricted to Web of Science and Scopus, and the screening excluded 61 records on language criteria, which likely reinforces the geographic imbalance the review itself criticizes: scholarship published outside English-language indexed venues is structurally absent from the map that indicts it.
+- Bulut states that the SWOT analysis was used as an interpretive device rather than an independent analytical technique, so its entries restate the bibliometric and thematic findings rather than triangulating them.
+- The thematic synthesis is qualitative, and the paper does not report inter-rater reliability for the coding that grouped records into themes.
+- The review's own limits on longitudinal evidence constrain its conclusions about trajectory: growth in publication volume is documented, but whether TSFA improves learning outcomes over time is not something a bibliometric map can establish.
+- Bibliometric co-word and co-authorship structures reflect indexing and publishing practices as well as intellectual affinity, so clusters and centrality scores should be read as features of the recorded literature rather than as a neutral measurement of the field.
+
+## Citation
+
+Bulut, A. (2026). [*Technology-Supported Formative Assessment in Higher Education: AI, Learning Analytics and the Future of Assessment for Learning*](https://doi.org/10.1002/jcal.70360). *Journal of Computer Assisted Learning*.
 
 ---
 

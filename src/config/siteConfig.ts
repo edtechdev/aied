@@ -87,6 +87,13 @@ export interface SiteConfig {
       /** From src/i18n/locales.json: the llms-concepts preamble paragraph. */
       llmsNotice?: string;
       /**
+       * From src/i18n/locales.json: the note appended to a concept list that was
+       * truncated at a page boundary to stay inside the generator's word budget.
+       * Takes `{included}` and `{total}`; only the locales that actually exceed the
+       * budget carry one, and a locale without it falls back to the English note.
+       */
+      llmsTruncated?: string;
+      /**
        * Translations of the taxonomy umbrella headings (the ten `sections:` in
        * concepts.registry.yaml), keyed by the ENGLISH heading — the lookup key.
        * A locale lists only the headings it has translated; anything absent (and
