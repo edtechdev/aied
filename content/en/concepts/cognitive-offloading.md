@@ -1,7 +1,7 @@
 ---
 title: Cognitive Offloading
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-26T12:30:00-04:00"
+updated: "2026-10-26T13:50:00-04:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [metacognition, self-regulated-learning]
@@ -133,6 +133,9 @@ most consequential risks of AI in education:
 **A 30-expert consensus puts the damage at both ends of the learning sequence.** A preregistered Delphi exercise over 65 learning processes found acquisition vulnerable (Encoding 3.30, Retrieval 3.30, Information Acquisition 3.00 on the 1-5 disruption scale), consolidation enhanced (Learning From Feedback 4.00, Learning From Examples 3.90, Self-Testing 3.80), and higher-order thinking vulnerable again ([[genai-support-threaten-learning-k20-expert-consensus-2026|Kendeou, Greene & Nixon et al., 2026]]). Ten of eighteen higher-order processes reached consensus on vulnerability only, with enhancement ratings below threshold.
 
 ### The CLT framework
+
+**Access to AI feedback is not the same treatment as engaging with it, and the load measures separate.** [[wenzel-conversational-ai-feedback-cognitive-load-game-2026|Wenzel, Geiger and Liening (2026)]] ran a five-week longitudinal field study in a business simulation game (**234 students, 1,147 weekly observations**) and separated assignment from receipt. Merely providing access to conversational AI feedback moved neither **extraneous** (β = .071, p = .481) nor **germane** load (β = .019, p = .807). But students who used it **regularly** reported significantly **higher germane load** than experimental non-users (β = −.468, p < .001) and than controls (β = −.253, p = .028) — while **extraneous load was never reduced** by access or engagement (F(1, 219) = 0.499; usage-based F(3, 214) = 0.172). That is the theoretically interesting pattern and the opposite of the usual claim: the intervention made learners work harder on the material without making the environment easier. Intrinsic load drove extraneous load (**β = .647, p < .001**) and metacognitive self-regulation drove germane load (**β = .363, p < .001**), with extraneous load negatively associated with germane load (β = −.178, p < .001) exactly as CLT specifies. Both loads also **declined across the five weeks** (extraneous β = −.388, p < .001) — a novelty effect visible on a cognitive measure rather than an engagement one.
+
 
 Cognitive Load Theory (Sweller) provides a contested theoretical lens on [[cognitive-psychology|working memory]] and instruction: intrinsic load (task complexity), extraneous load (presentation friction), and germane load (schema-building effort). Well-designed AI should reduce extraneous load while preserving germane processing; poorly integrated AI reduces all three, leaving students with completed tasks and empty learning. Note that the theory's claims are contested in the wider literature, but its framing remains influential in how offloading effects are discussed.
 

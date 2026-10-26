@@ -1,7 +1,7 @@
 ---
 title: Learner Agency
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-10-26T12:05:00-04:00"
+updated: "2026-10-26T13:50:00-04:00"
 type: concept
 foundations: [agency, cognitive-offloading, human-ai-collaboration]
 pedagogy: [motivation, self-regulated-learning]
@@ -71,6 +71,9 @@ Sustained boundary work, not tool skill, is what separates agency from delegatio
 
 
 ## Agency as an emergent, interactional phenomenon
+
+**Agency is not one capacity, and the distinction survives into AI-mediated practice.** [[bergdahl-student-epistemic-agency-ai-2026|Bergdahl (2026)]] surveyed 47 Swedish year 7 students after a semester of AI instruction and found agency directed at AI *output* does not extend to the *systems* producing it. The split held **within individual students**: 79% had a score range of three or more across nine items, and a per-student dissociation index favoured output-directed over system-directed engagement in **35 students against 4 in reverse** (sign test, p < .001). **62% of the most source-critical students** still endorsed the least protective option on chatbots reading their own writing, and only one student in the sample chose the highest privacy stance. Critically, this was measured **one month after** a lesson in which students watched their own logged behaviour projected live — they called it "scary" and stayed through recess to keep using the platform. Agency as an emergent, interactional property is consistent with this: it surfaces per practice rather than transferring across practices, and what one lesson foregrounds does not generalise to the register it did not address.
+
 
 Learner agency is not only a static individual trait — it is also an **emergent, interactionally constituted process** enacted through discourse and the moment-to-moment coordination of group work. In collaborative learning, agency is distributed and re-negotiated through the interplay of divergent processes (generating ideas, exploring alternatives) and convergent processes (evaluating, integrating, synthesizing). This view matters for AI because [[agentic-ai|agentic AI]] systems can subtly *redistribute* epistemic and regulatory labor within a group, reshaping who contributes, who shapes directionality, and who regulates progress — often without learners being aware of it.
 

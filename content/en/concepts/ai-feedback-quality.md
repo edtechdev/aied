@@ -1,7 +1,7 @@
 ---
 title: AI Feedback Quality
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-26T11:40:00-04:00"
+updated: "2026-10-26T13:50:00-04:00"
 connected_faqs: [ai-save-instructor-time, ai-feedback-at-scale, checking-whether-educational-ai-works]
 type: concept
 foundations: [ai-literacy]
@@ -119,6 +119,8 @@ The corpus behind those quality claims is thinner than the claims suggest. Acros
 - **"Students find AI feedback acceptable, so it is good."** **Student-perceived quality is more mixed than acceptability suggests**: **77 of 93 undergraduates found AI feedback easy to understand, yet 68 found it repetitive and 79** found something else wanting. Comprehension and dissatisfaction coexisted in the same cohort.
 - **"Feedback effects are modest."** A **53-study meta-analysis** found GenAI feedback produced **the largest effect in the study (g = 1.27)**, against **g = 0.40** for the overall GenAI effect. Feedback is the strongest mechanism measured, which is a different picture from the general optimism debate.
 - **"The feedback is the whole intervention."** A controlled comparison isolates the component: with the same diagnostic [[intelligent-tutoring|tutoring]] system, learners receiving **the feedback component** differed measurably. Separating feedback from the adaptive system is what makes the claim attributable.
+- **Access and engagement are different interventions.** [[wenzel-conversational-ai-feedback-cognitive-load-game-2026|Wenzel, Geiger and Liening (2026)]] separated the two across **234 students and 1,147 weekly observations** in a five-week business simulation. Assignment to conversational AI feedback produced **no effect** on germane cognitive load (β = .019, p = .807) or extraneous load (β = .071, p = .481). **Actual regular use** was associated with significantly higher germane load than experimental non-users (β = −.468, p < .001) and than controls (β = −.253, p = .028), while **irregular use did not separate from regular use** (p = .116). Quality judgments that rest on an intention-to-treat contrast will therefore understate a feedback intervention whose uptake is partial, and satisfaction or access metrics cannot substitute for engagement data.
+
 ## Connected Concepts
 
 - [[pedagogical-patterns]] — Quality does not predict revision: the sequences that make AI feedback usable

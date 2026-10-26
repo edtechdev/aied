@@ -1,7 +1,7 @@
 ---
 title: Game-Based Learning
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-10-25T23:15:00-04:00"
+updated: "2026-10-26T13:50:00-04:00"
 type: concept
 pedagogy: [active-learning, game-based-learning, motivation, student-engagement]
 technology: [educational-robotics]
@@ -66,6 +66,8 @@ GBL and gamification together connect to [[educational-robotics]], [[student-eng
 **For researchers**
 
 - Raise the design quality of the field rather than its volume; a 7% high-quality rate is the binding constraint on what can be concluded.
+
+- **Conversational feedback in a simulation raises germane load without lowering extraneous load.** In a five-week business simulation game with **234 students**, regular users of a GPT-4o-based feedback chatbot reported **significantly higher germane cognitive load** than users-with-access who did not engage (β = −.468, p < .001) and than the static-feedback control (β = −.253, p = .028) — while **extraneous load showed no effect** in either specification (F(1, 219) = 0.499, p = .481). Both loads **declined across the five weeks** (extraneous β = −.388, p < .001), a novelty effect measured on cognitive load rather than engagement ([[wenzel-conversational-ai-feedback-cognitive-load-game-2026|Wenzel, Geiger and Liening, 2026]]). The design point is that the feedback carried personalisation, signalling, segmenting and feed-forward structure over 19 concrete indicators — the chatbot surface alone is not the treatment.
 
 ## Connected Concepts
 - [[educational-robotics]]

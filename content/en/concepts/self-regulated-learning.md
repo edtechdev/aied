@@ -2,7 +2,7 @@
 connected_resources: [process-feedback]
 title: Self-Regulated Learning
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-10-26T12:05:00-04:00"
+updated: "2026-10-26T13:50:00-04:00"
 type: concept
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
 technology: [generative-ai, llm, personalized-learning]
@@ -179,6 +179,8 @@ Which support is in play decides which mediator carries the association: among 3
 - **"Self-regulation is a learner trait."** Regulated learning decomposes into **self-reflection, causal attribution and adaptation**, and proficient learners **employ cognitive strategies to improve success**. These are trainable processes that a design can support or undermine.
 - **"Any adaptive design supports regulation equally."** [[scheu-mobile-chatbot-journaling-motivation-2026|Scheu et al.'s]] **2x2 randomized field experiment with 179 students over 22 days** compared two design principles and found them different in mechanism, so "adaptive" is not a single treatment.
 - **"Anxiety undermines regulation."** In a mixed-methods study of **107 students**, higher [[anxiety-and-stress|AI anxiety]] was **positively associated with verification and re-checking**. Anxiety functioned as a prompt to verify, which is regulation rather than its absence.
+- **Metacognitive SRL predicted learning-relevant load where the AI feedback did not.** In a five-week field study with **234 students and 1,147 observations**, metacognitive self-regulation was a substantial positive predictor of **germane cognitive load** (β = .363, p < .001 intention-to-treat; .346, p < .001 usage-based) and did not significantly predict extraneous load — while mere access to conversational AI feedback predicted neither. Only **sustained** engagement with the feedback separated students on germane load, and irregular use did not (β = −.219, p = .116), which locates the active ingredient in the learner's regulation of processing rather than in the feedback supply ([[wenzel-conversational-ai-feedback-cognitive-load-game-2026|Wenzel, Geiger and Liening, 2026]]).
+
 ## Connected Concepts
 
 - [[learners]] — Learners: the umbrella for the learner-side concepts
