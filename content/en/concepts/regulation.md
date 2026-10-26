@@ -1,7 +1,7 @@
 ---
 title: AI Regulation in Education
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-16T07:28:51-04:00"
+updated: "2026-10-26T08:20:00-04:00"
 type: concept
 foundations: [academic-integrity]
 ethics: [equity-in-ai-education, ethics, privacy, pedagogical-safety]
@@ -50,6 +50,11 @@ An audit of EdTech platform privacy policies gives that dependency a concrete in
 
 Regulation connects to [[educational-policy-ai]], [[governance]], [[ethics]], [[privacy]], [[pedagogical-safety]], and [[academic-integrity]]. It is the institutional layer that shapes how all other AI education practices operate. Regulation both constrains and enables: it sets the boundaries of acceptable AI use while creating the conditions — through [[ai-literacy]] and responsible-use expectations — for [[equity-in-ai-education|equitable]], safe integration.
 
+## Common Misconceptions
+
+- **"Institutional AI policy is where the rules live."** [[watson-rainie-ai-challenge-faculty-survey-2026|Watson and Rainie's (2026)]] survey of **1,057 US faculty** measures how far below the institutional layer the effective rules sit: **87% of respondents wrote** their own guidance. The operative policy is largely faculty-authored, which means the documented institutional layer describes less than it appears to.
+- **"Writing a policy covers the risky surface."** [[humble-prompt-injection-ai-grading-red-team-2026|Humble (2026)]] shows why assessment tooling belongs in the regulated set: in a red-team test, **two of five indirect prompt injections** hidden in a submission succeeded. A rule that names tools but not injection surfaces leaves the exploit unaddressed.
+- **"Agentic systems are covered by extending existing rules."** In a documentary analysis of **12 universities**, [[wong-sun-agentic-ai-assessment-governance-2026|Wong and Sun (2026)]] found **no comparator addressed an agent logging into a learning-management system**. The governance gap is structural: existing categories have no slot for an autonomous actor with credentials.
 ## Connected Concepts
 
 - [[educational-policy-ai]]

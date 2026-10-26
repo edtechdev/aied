@@ -1,7 +1,7 @@
 ---
 title: "Legal Education"
 created: "2026-09-18T05:10:00-04:00"
-updated: "2026-10-16T06:18:00-04:00"
+updated: "2026-10-26T08:20:00-04:00"
 type: concept
 foundations: [academic-integrity, critical-thinking, reducing-ai-misuse]
 pedagogy: [career-development-and-readiness, experiential-learning, professional-training, socratic-method]
@@ -72,6 +72,11 @@ In a legal-context experiment, 186 lay decision-makers on tribunal civil cases d
 - What happens to Socratic teaching if the preparatory reading is routinely delegated, and is the classroom's silence about it a measurement problem or a design one?
 - Legal education produces the people who will litigate and regulate [[ai-education|AI in education]]. Does that make it the natural place for the knowledge base's legal-risk work to be tested, or does it distort attention toward the law schools with the loudest policies?
 
+## Common Misconceptions
+
+- **"Law schools have settled on a position."** Most adopted **generally prohibitive stances**, often explained as **buying time to study the technology**, while **almost all policies reserved discretion to individual instructors**. A prohibition with an instructor override is not a settled position, it is a deferral with a default.
+- **"Survey evidence describes the field."** The **ABA's 2024 survey drew responses from only 29 schools, roughly 15% of ABA-approved law schools**, and a LexisNexis survey of **800** practitioners measures a different population. Neither can be treated as representative of legal education, and both get cited as though they were.
+- **"Withholding an AI recommendation is neutral."** In a legal-context experiment, **186 lay decision-makers on tribunal civil cases deferred to an incorrect AI position far less when the system withheld its own position (5.7-8.2% versus 42.0-60.5%)**. Withholding did not produce neutrality; it produced a large reduction in deference, which is an effect in its own right.
 ## Connected Concepts
 
 - [[academic-integrity]] — the conduct framework applied to assisted work

@@ -1,7 +1,7 @@
 ---
 title: Self-Determination Theory
 created: "2026-08-10T17:38:45-04:00"
-updated: "2026-10-17T07:38:51-04:00"
+updated: "2026-10-26T08:20:00-04:00"
 type: concept
 foundations: [ai-education, teacher-ai-competency]
 pedagogy: [motivation, self-determination-theory]
@@ -57,6 +57,11 @@ A co-agency framework bounds SDT's reach in AI-mediated education: it changes th
 
 SDT connects directly to [[motivation]] as its parent construct, to [[affective-computing]] and [[affective-tutoring]] for emotion-aware AI design, and to [[student-experience]] for how learners experience AI-mediated environments. The theory's emphasis on autonomy connects to [[self-regulated-learning]], while its competence dimension connects to [[self-efficacy-tutoring-learning]] and [[teacher-ai-competency]]. SDT is particularly relevant to [[professional-training]] and [[educational-development]] because need-supportive design is a transferable principle for preparing educators to use AI.
 
+## Common Misconceptions
+
+- **"Motivation type matters less than motivation amount."** A year-long study found **three motivational profiles — Disengaged, Developing, Self-Determined — stable over time**, and students who reached the **Self-Determined** profile showed the **greatest [[ai-literacy]] gains**. The quality of motivation predicted the learning, and the profiles did not simply drift upward.
+- **"Autonomy support means removing structure."** The SDT mechanism is autonomy, competence and relatedness together, and the longitudinal evidence shows that satisfying them predicted gains rather than merely accompanying them. Autonomy without competence support is permissiveness, and it does not satisfy the theory's conditions.
+- **"A chatbot can supply the three needs automatically."** A study found ChatGPT could support autonomy, relatedness and competence in language learning — a possibility, not a property. Whether a given interaction supports them is an empirical question about how it is used.
 ## Connected Concepts
 
 - [[motivation]]

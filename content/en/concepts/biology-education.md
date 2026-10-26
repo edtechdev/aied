@@ -1,7 +1,7 @@
 ---
 title: Biology Education
 created: "2026-08-19T13:10:00-04:00"
-updated: "2026-10-16T09:45:00-04:00"
+updated: "2026-10-26T08:20:00-04:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, human-ai-collaboration]
 technology: [generative-ai]
@@ -51,6 +51,11 @@ Biology education sits within the broader [[stem-education]] domain and shares t
 - **Teach responsible use alongside challenge-based learning.** [[chatgpt-math-biology-challenge-based-learning-2025|CBL studies]] find students value immediacy but worry about veracity and skill erosion — update academic-integrity codes and AI-use ethics in parallel with adoption.
 - **Survey the specialized tool landscape.** [[beyond-chatgpt-ai-tools-biological-education-2026|Cotton & Cotton]] map tools (iNaturalist, Google Lens, bioimaging, at-risk prediction) that instructors can deploy for fieldwork, species ID, and student support — choose purpose-built tools over general chatbots where they fit.
 
+## Common Misconceptions
+
+- **"Students cannot tell AI from a human teaching assistant."** A virtual lab teaching assistant study found **human TAs more accurate and effective than ChatGPT**, yet students **preferred the AI response 40% of the time** and could only **detect AI output 45% of the time**. Detection was close to a coin flip and preference ran toward the less accurate source, so satisfaction data cannot stand in for quality here.
+- **"Preference indicates quality."** The same study separates them directly: the preferred output was the worse one. Any evaluation of a biology AI tool that reports student satisfaction without an accuracy measure is reporting the wrong quantity.
+- **"AI literacy must be taught as a separate subject."** Embedding machine-learning concepts **into a high-school biology course** found the biology context **supported** AI learning — evidence for embedding AI literacy in the curriculum rather than bolting on a standalone unit. The discipline gave the concepts something to attach to.
 ## Connected Concepts
 
 - [[stem-education]]

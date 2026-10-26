@@ -1,7 +1,7 @@
 ---
 title: Quantitative Research
 created: "2026-08-24T02:05:00-04:00"
-updated: "2026-10-22T09:11:45-04:00"
+updated: "2026-10-26T08:20:00-04:00"
 type: concept
 assessment: [educational-measurement]
 research_method: [survey, experiment]
@@ -72,6 +72,11 @@ Bibliometric analysis is a further quantitative family: [[sriram-ethical-ai-medi
 
 Quantitative and [[qualitative-research|qualitative]] methods are complements — quantitative work provides breadth and causal power, qualitative work provides depth and meaning. [[mixed-methods-research|Mixed-methods designs]] combine them. See [[research-methods-aied]] for the full method comparison and the contrasts among experimental, survey, qualitative, and other designs.
 
+## Common Misconceptions
+
+- **"An intent-to-treat estimate describes what the tool does."** In a group-randomised access trial where **about 15% of students in treated classrooms ever used the tutor**, the ITT estimate reflects **the effect of introducing** the tool rather than the effect of using it. Low uptake makes an ITT figure a statement about implementation, and reporting it as a tool effect overstates what was measured.
+- **"Performance on the task is the outcome."** [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025|Barcaui (2025)]] randomises **120 students** to AI-assisted or traditional study and measures **retention** — the design that separates immediate performance from durable learning. A study that stops at the task has measured the easier quantity.
+- **"Cross-dataset comparisons are straightforward."** A structural check of synthetic educational data found that **analysing each dataset at its own threshold reversed a contrast that held at a shared working point**. The comparison's sign depended on an analytic choice, which is the kind of fragility a pre-registered working point exists to prevent.
 ## Connected Concepts
 
 - [[research-methods-aied]]

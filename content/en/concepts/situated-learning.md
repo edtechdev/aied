@@ -1,7 +1,7 @@
 ---
 title: Situated Learning
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-10-25T12:05:00-04:00"
+updated: "2026-10-26T08:20:00-04:00"
 type: concept
 foundations: [ai-education, learning-design]
 pedagogy: [constructivist, experiential-learning, learning-theories, situated-learning, sociocultural-learning]
@@ -39,6 +39,12 @@ The knowledge base's research treats situated learning not merely as an abstract
 
 Situated learning connects closely to [[embodied-learning]] (both stress the grounding of cognition in context and action), [[distributed-cognition]] (learning distributed across people, tools, and contexts), [[experiential-learning]], and [[constructivist]] theory. In AI education it grounds the critique of decontextualized, disembodied learning: AI design that keeps learners anchored in authentic practice preserves the situatedness that durable learning requires.
 
+## Common Misconceptions
+
+- **"Situated learning means adding a realistic scenario to an abstract lesson."** The theory's claim is stronger than context-dressing: learning is constituted by participation in a community of practice, and what is learned is what that participation affords. A worked example with a workplace framing attached still teaches the example, not the practice.
+- **"Authenticity is a property of the task."** Authenticity is a relation between the activity and a real community's legitimate work. A task can be elaborate and still be school-shaped — assessed by a teacher, for a grade, with no consequence in the world it claims to represent.
+- **"Assessment emerging from the task means no assessment."** It means the criterion is the community's, not the classroom's: whether the work is acceptable to people who do the work. That is a different and usually stricter standard than a rubric.
+- **"Apprenticeship requires a physical setting."** The mechanism is legitimate peripheral participation — moving from the edge of a practice toward its centre with real responsibility. Online and simulated settings can support it or can simulate the periphery without ever granting participation, and the difference is whether the learner's contribution is actually used.
 ## Connected Concepts
 - [[learner-identity]] — evolving disciplinary, professional, creative, and academic learner identities
 - [[learning-theories]]

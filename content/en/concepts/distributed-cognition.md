@@ -1,7 +1,7 @@
 ---
 title: Distributed Cognition
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-10-21T11:40:00-04:00"
+updated: "2026-10-26T08:20:00-04:00"
 type: concept
 foundations: [agency, cognitive-offloading, human-ai-collaboration]
 pedagogy: [distributed-cognition, embodied-learning, learning-theories, metacognition, situated-learning]
@@ -53,6 +53,11 @@ Fowlin et al. (2026) operationalize that apportionment as a two-phase sequence: 
 
 **Internalized vs. distributed mastery.** The Cognitive Commons framework ([[cognitive-commons-ai-expertise-regeneration|Lovett 2026]]) distinguishes Internalized Mastery (deep domain knowledge in individual minds) from Distributed Mastery (orchestrating human–AI systems) and argues the latter depends on the former via a "Validation Tether": effective oversight of distributed/AI systems presupposes the internalized expertise those systems may undermine. This sharpens the DCog design question — the distribution of cognition must not come at the cost of the expertise that validates it.
 
+## Common Misconceptions
+
+- **"A shared document means shared cognition."** Volume-based profiles of **97 learners** differed in **prior knowledge and authorship** but **not in active-role or comprehension-level prompting**. Participation volume measured exposure, not the distribution of cognitive work — so usage analytics of a collaborative tool say little about who was thinking.
+- **"Everyone offloads to AI equally."** Novice teachers **delegate a large share of instructional-design cognitive load to the AI system**, arriving at an **AI-dominant distribution** in which they largely accept responses, whereas experienced and AI-knowledgeable teachers distribute differently. Expertise shows up in where the load is placed, not only in how much AI is used.
+- **"More AI involvement means more support."** An AI-dominant distribution is the pattern to watch for, because the human's share of the cognitive work shrinks while the output volume rises. The system can look more capable precisely as the user is doing less.
 ## Connected Concepts
 
 - [[learning-theories]]

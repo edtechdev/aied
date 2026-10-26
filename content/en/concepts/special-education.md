@@ -2,7 +2,7 @@
 connected_resources: [teacherserver]
 title: Special Education
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-23T09:20:00-04:00"
+updated: "2026-10-26T08:20:00-04:00"
 type: concept
 foundations: [ai-education]
 ethics: [equity-in-ai-education, inclusive-learning, neurodiversity]
@@ -51,6 +51,11 @@ Special education is a domain where AI's capacity for personalization and adapta
 - **Center disability-led embodied design.** [[embodied-string-learning-blindness-low-vision-musicians|Blind/low-vision musicians]] research shows non-visual, disability-led strategies outperform default visual interfaces — build and adapt AI with disabled learners' expertise.
 - **Guard against epistemic marginalization.** [[genai-minoritized-knowledges-disability|Critical perspectives]] warn that Western-centric training data can marginalize disability-centered knowledge — audit AI content and tools for epistemic justice alongside [[equity-in-ai-education]].
 
+## Common Misconceptions
+
+- **"Usability ratings validate an assistive tool."** Practitioners rated a co-designed Social Story tool **highly usable (SUS 86.8)** yet called its **images generically Western** and its **behaviour tracker mismatched to goal-linked clinical judgement**. High usability coexisted with substantive failures, so a SUS score is not an endorsement of fit.
+- **"Generic benchmarks tell you how a tutor handles special-education cases."** Of **923 case-grounded dialogues** drawn from special-education and educational-psychology literature, **the best of 11 models** satisfied a documented criterion — and **challenging behaviour is where tutor benchmarks stop**. Standard evaluations do not reach the cases practitioners most need help with.
+- **"Neurodivergent learners need accommodations, not design requirements."** [[neurodivergent-computing-students|Zastudil et al.]] found neurodivergent computing students need **structured assignments, small consistent teams and explicit role definitions** — general design requirements that benefit everyone, not individual adjustments granted after diagnosis.
 ## Connected Concepts
 
 - [[differential-effects-across-learner-groups]]

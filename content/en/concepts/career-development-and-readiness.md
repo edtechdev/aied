@@ -1,7 +1,7 @@
 ---
 title: Career Development and Readiness
 created: "2026-08-25T07:46:00-04:00"
-updated: "2026-10-22T10:05:00-04:00"
+updated: "2026-10-26T08:20:00-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [anxiety-and-stress, professional-training]
@@ -48,6 +48,11 @@ A recurring theme is that career development in the AI era should be a **deliber
 
 Career development and readiness connects to [[professional-training]] (the vocational skills dimension), [[ai-literacy]] (the AI-competence dimension), [[self-efficacy]] and [[motivation]] (the psychological resources that support adaptation), [[anxiety-and-stress]] (career anxiety as a key component), [[higher-ed]] and [[k-12]] (the settings where readiness is built), and [[student-experience]] (career concerns as part of the learner experience).
 
+## Common Misconceptions
+
+- **"AI anxiety is a general disposition you can reassure away."** [[duan-ai-anxiety-career-decisions-college-2026|Duan et al.]] confirm with SEM that AI anxiety **impairs career decisions largely through eroded career adaptability (63.35% of the total effect)**. The mechanism is specific: anxiety works by removing the capacity to adapt, so reassurance aimed at feelings misses the mediator that carries the effect.
+- **"Career adaptability is a soft skill secondary to technical competence."** [[wang-career-adapt-abilities-ai-anxiety-english-2026|Wang (2026)]] shows career adaptability **reduces AI anxiety**, which makes it an upstream intervention rather than a downstream outcome. Building adaptability addresses the mechanism; treating it as a nice-to-have leaves the mediator intact.
+- **"Anxiety about AI is evenly distributed."** [[ustun-ai-anxiety-job-finding-anxiety-2026|Üstün & Danacıoğlu]] find AI anxiety and negative AI attitudes predict post-graduation job-finding anxiety across **1,057 students**, with different patterns for **women and social-science students**. A uniform intervention misallocates support.
 ## Connected Concepts
 - [[professional-training]]
 - [[ai-literacy]]
