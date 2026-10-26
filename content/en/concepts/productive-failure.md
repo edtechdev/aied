@@ -1,7 +1,7 @@
 ---
 title: Productive Failure
 created: "2026-08-23T08:25:00-04:00"
-updated: "2026-10-17T07:38:51-04:00"
+updated: "2026-10-26T09:10:00-04:00"
 type: concept
 foundations: [cognitive-offloading]
 pedagogy: [desirable-difficulties, inquiry-based-learning, learning-theories, metacognition, problem-based-learning, scaffolding]
@@ -81,6 +81,11 @@ This makes productive failure a central lens for [[ai-ed-evaluation|evaluating A
 
 Productive failure connects to [[learning-theories]] (constructivism), [[desirable-difficulties]] (valuing difficulty in learning), [[problem-based-learning]] and [[inquiry-based-learning]] (learner-driven problem solving), [[metacognition]] (reflection on one's own attempts), [[cognitive-offloading]] (the risk that AI erases struggle), [[scaffolding]] (support that preserves effort), [[feedback]] (elaborative, corrective), [[prior-knowledge]] (activation and differentiation), [[transfer-of-learning]] (durable outcomes), and [[socratic-method]] (questioning to provoke reasoning). In the AI era it is a central evaluative lens: does the AI help in a way that preserves the struggle through which durable learning is built?
 
+## Common Misconceptions
+
+- **"Withholding help frustrates learners and costs motivation."** A three-arm [[rct|RCT]] found a hint-withholding tutor **matched unrestricted ChatGPT on frustration reduction and** motivation — the cost showed up **only in preference**. Learners did not enjoy it as much and did not suffer for it, which means preference data would have rejected the design that worked.
+- **"More frustration means more learning."** The escalating tutor was **0.42 scale points more frustrating than the tutor that answered on request (p < .001) and 0.29 less frustrating than** the most frustrating arm. The productive range is a middle, not a maximum, so "desirable difficulty" does not license making the task harder indefinitely.
+- **"Productive failure means teachers should not help."** The design withholds *the answer* while supplying structure and escalation. Withholding a hint and withholding support are different interventions, and only the first is the one with evidence here.
 ## Connected Concepts
 
 - [[pedagogical-patterns]] — Attempt-before-instruction as a full sequence, with its thin evidence base

@@ -1,7 +1,7 @@
 ---
 title: STEM Education
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-21T12:05:00-04:00"
+updated: "2026-10-26T09:10:00-04:00"
 type: concept
 foundations: [computational-thinking]
 technology: [intelligent-tutoring]
@@ -72,6 +72,11 @@ A concentrated batch of 2026 *International Journal of STEM Education* studies s
 - **Embed AI literacy across STEM courses.** Studies ([[zha-ai-literacy-biology-case-study|biology]], [[ai-tpack-preservice-math-teachers|math teacher prep]]) show STEM context supports AI learning — integrate AI concepts where they naturally arise rather than isolating them.
 - **Watch [[equity-in-ai-education|equity]] and access in AI adoption.** STEM AI tools are not neutral; monitor scoring bias, [[digital-divide]] access, and [[culturally-relevant-pedagogy|culturally relevant]] design as you deploy them.
 
+## Common Misconceptions
+
+- **"Intelligent tutoring works across STEM uniformly."** A structured narrative review of **20 publications (2020-April 2026)** found the clearest measured advantage for **real-time diagnostic** tutoring specifically. The evidence is **bounded and conditional**, and generalising it to all mathematics ITS overstates what was reviewed.
+- **"Simulation is a pale substitute for hands-on work."** The simulation group **outgained the hands-on group on curriculum-aligned STEM knowledge (M = 3.00 versus 2.06; t(28) = 2.23, p = .034, d = 0.82)**. The simulation was not a fallback performing below the real thing.
+- **"An AI-assisted literature workflow mainly saves time."** Results from **20 students across 80 documents** showed **over 90% extraction of experimental parameters, roughly 65% reduction in literature-review time, and a 50% increase in students' ability to identify influential** work. The capability gain was the larger result and the time saving was the smaller one.
 ## Connected Concepts
 - [[learner-identity]] — evolving disciplinary, professional, creative, and academic learner identities
 - [[business-education]]

@@ -2,7 +2,7 @@
 connected_resources: [drawsplat]
 title: Privacy
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-22T09:11:45-04:00"
+updated: "2026-10-26T09:10:00-04:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, ai-guidance-children-under-13, institutional-ai-policy]
 type: concept
 technology: [learning-analytics, personalized-learning]
@@ -58,6 +58,11 @@ Privacy is the precondition for trustworthy AI in education. Because AI systems 
 
 Privacy connects to [[learning-analytics]] (the data collector), [[personalized-learning]] (the data consumer), [[k-12]] (heightened protections), [[ethics]] (the normative framework), [[regulation]] (legal requirements), [[governance]] (institutional responsibility), [[equity-in-ai-education]] (who is protected), [[pedagogical-safety]] (child protection), and [[educational-policy-ai]] (policy responses). It is one of the foundational constraints that any responsible AI deployment in education must satisfy — the reason trustworthy AI, in the knowledge base's framing, begins with trustworthy data.
 
+## Common Misconceptions
+
+- **"Proctoring captures a limited, well-understood slice of data."** A catalogue of what [[remote-proctoring|proctoring]] systems actually capture lists **facial images, identity documents, room scans including 360-degree sweeps, microphone audio, facial recognition** and more. The scope is broader than most consent processes describe.
+- **"The proctoring literature establishes the ethics of proctoring."** A review of **80 studies** found **35% did not disclose their dataset, 40% evaluated a single model, 30% could not be reproduced and only 25%** met the reporting bar. The evidence base is thin on exactly the questions an institution needs answered before deployment.
+- **"Privacy is a compliance checkbox rather than a design constraint."** Nearly every AI tool that personalises, predicts or assesses depends on learner data, which makes data minimisation a design decision. A tool that requires the data does not have an optional privacy setting; it has a data dependency that the design chose.
 ## Connected Concepts
 
 - [[remote-proctoring]]

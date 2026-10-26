@@ -1,7 +1,7 @@
 ---
 title: "Statistics and Data Science Education"
 created: "2026-10-25T11:40:00-04:00"
-updated: "2026-10-25T11:40:00-04:00"
+updated: "2026-10-26T09:10:00-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [inquiry-based-learning, situated-learning, scaffolding]
@@ -63,6 +63,11 @@ Scaffolding quality matters independently of access. An experimental comparison 
 4. **Build the human check into the pipeline,** as the tactile-graphics work does with mandatory teacher review before print, rather than treating generation as the end of the process.
 5. **Read usage as a study-behaviour signal.** Adoption that tracks the exam calendar is evidence about incentives, so evaluating a discipline-specific tool requires outcomes measured after the incentive disappears.
 
+## Common Misconceptions
+
+- **"Satisfaction and perceived benefit indicate a data-science AI tool is working."** Students used LLMs heavily for debugging and concept questions and **reported high satisfaction, while their perceived deep-learning benefit declined over the term**. Satisfaction held and the self-assessed learning trajectory fell, so neither figure alone is the outcome.
+- **"An unrestricted model is as good as a guided tutor."** An experimental comparison found that **explicit training in reasoning-focused scaffolding — stepwise hints, verification — produced better independent** performance than unrestricted access. The guidance, and the training in how to use it, carried the effect.
+- **"Guarding against answer-giving is enough."** A purpose-built tutor wrapped around a hosted API, system-prompted to **guide rather than answer**, was deployed in a semester-long R course for psychology undergraduates, with a shift from **76% to** a higher figure. Prompt-level guarding is one lever among several and does not by itself produce learning.
 ## Connected Concepts
 
 - [[math-education]]
