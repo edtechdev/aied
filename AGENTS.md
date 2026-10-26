@@ -23,6 +23,26 @@ that language; every other page falls back to the English one at its English URL
 Four content collections — **articles**, **concepts**, **resources** and **faqs** —
 each a folder inside a locale folder, with strict structure.
 
+### A slug must identify exactly one page per locale
+
+A slug is both the published URL segment and the target every `[[wikilink]]` resolves
+against, so two pages sharing one is never cosmetic. `src/lib/markdown.ts` resolves by
+collection priority (**articles > faqs > resources > concepts**); with a collision the
+lower-priority page becomes unreachable by link, silently, with no build error, and its
+title is also shadowed in the `titles` lookup that renders bare `[[slug]]` labels. The
+same slug in different locales is fine — `en/deeptutor.md` and `zh/deeptutor.md` are one
+page in two languages.
+
+The convention that keeps this from happening: **articles are named for the paper**
+(`<first-author>-<topic>-<year>`, e.g. `zhao-deeptutor-agentic-personalized-tutoring-2026`)
+and **resources are named for the product** (`deeptutor`, `snorkl`, `mglearn`). A paper
+about a tool and the tool itself are therefore two differently-named pages by
+construction, not by luck.
+
+`tooling/scripts/check-slug-uniqueness.py` enforces this as a hard gate. It exists because
+`deeptutor` was once both an article and a resource: ten inbound links meant the framework
+and four meant the paper, all rendering without error.
+
 ### Article page structure (`content/en/articles/{slug}.md`)
 
 Every article page follows this fixed section order — Synthesis → Key Findings → 3-4 body sections → What this means for practice → Limitations → Citation (last, per the standing rule). **An article page carries NO Connected sections (rule change 2026-09-27):** Connected Concepts, Connected Articles, Connected FAQs and Connected Resources were removed from every article page, because the curated, evidence-bearing lists are where readers navigate from them — the concept, resource and FAQ pages, which keep theirs. An article's own derived view is its facet metadata table, and its concept links live inline in the body:

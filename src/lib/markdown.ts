@@ -42,6 +42,9 @@ export interface RenderOptions {
   articleSlugs: Set<string>;
   conceptSlugs: Set<string>;
   faqSlugs: Set<string>;
+  /** Resource (tool) slugs. Without this a `[[snorkl]]`-style link falls through to
+   *  /concepts/ and 404s: resources are their own collection with their own route. */
+  resourceSlugs?: Set<string>;
   /** slug -> display title for every page, so a bare `[[slug]]` shows the page's
    *  own title ("Well-Being") instead of a de-slugified guess ("well being"). */
   titles?: Record<string, string>;
@@ -74,7 +77,7 @@ function classNameOf(node: { properties?: Record<string, any> }): string[] {
  *  - add github-slugger heading ids + heading-anchor links and return a TOC.
  */
 export function renderMarkdown(text: string, opts: RenderOptions): { html: string; headings: Heading[] } {
-  const { pageTitle, articleSlugs, conceptSlugs, faqSlugs, titles } = opts;
+  const { pageTitle, articleSlugs, conceptSlugs, faqSlugs, resourceSlugs, titles } = opts;
 
   // --- Preprocessing (before Sätteri) -------------------------------------
   // Drop a leading H1 that duplicates the page title.
@@ -95,6 +98,7 @@ export function renderMarkdown(text: string, opts: RenderOptions): { html: strin
     let base = '/aied/concepts';
     if (articleSlugs.has(page)) base = '/aied/articles';
     else if (faqSlugs.has(page)) base = '/aied/faqs';
+    else if (resourceSlugs?.has(page)) base = '/aied/resources';
     return `[${text2}](${base}/${page}/)`;
   });
 

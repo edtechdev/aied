@@ -38,7 +38,7 @@ Nie et al. (2026) developed a [[multimodal]] long-term memory architecture (Pers
 
 ### Agent-Native Personalization Substrate (DeepTutor)
 
-Ma et al. (2026) design every [[deeptutor]] feature to share a common personalization substrate, rather than bolting personalization onto reactive tools. This architecture ensures cross-modality coherence: the same learner profile drives [[problem-solving|problem solving]], [[automated-question-generation|question generation]], and collaborative writing.
+Zhao et al. (2026) design every feature of [[zhao-deeptutor-agentic-personalized-tutoring-2026|DeepTutor]] to share a common personalization substrate, rather than bolting personalization onto reactive tools. This architecture ensures cross-modality coherence: the same learner profile drives [[problem-solving|problem solving]], [[automated-question-generation|question generation]], and collaborative writing.
 
 ### Multi-Agent Social Personalization (MAIC)
 
@@ -153,7 +153,7 @@ A recurring problem is that "personalized learning" is a broad, loosely defined 
 - [[turano-ai-tutoring-not-a-monolith-2026]] — AI Tutoring is Not a Monolith: What We Actually Know (Stanford SCALE/NSSA brief)
 - [[mishra-control-vs-agency-history-2025]] — Distinguishes two forms of personalization (uniform vs diverse outcomes)
 - [[khalifeh-redefining-personalized-learning-ai-2026]] — Redefining personalized learning: systematic review
-- [[deeptutor]] — Agent-native personalization substrate for tutoring
+- [[zhao-deeptutor-agentic-personalized-tutoring-2026]] — Agent-native personalization substrate for tutoring
 - [[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026]] — Ontology-based layered hybrid knowledge model for personalized e-learning
 - [[ai-powered-personalized-learning-elementary-fractions-2026]] — Personalized adaptive learning for elementary fractions
 - [[ai-coaching-rl-skill-development]] — Reinforcement-learning coaching for skill development

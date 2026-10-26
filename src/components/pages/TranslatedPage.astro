@@ -49,6 +49,7 @@ const rendered = renderMarkdown(entry.body || '', {
   articleSlugs: new Set(articles.map((a) => a.id.replace(/\.md$/, ''))),
   conceptSlugs: new Set(concepts.map((c) => c.id.replace(/\.md$/, ''))),
   faqSlugs: new Set(faqs.map((f) => f.id.replace(/\.md$/, ''))),
+  resourceSlugs: new Set(resources.map((r) => r.id.replace(/\.md$/, ''))),
   titles,
 });
 // Connected FAQs and Connected resources come from frontmatter, exactly as they do on

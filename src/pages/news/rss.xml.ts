@@ -36,19 +36,21 @@ export async function GET() {
 
   // The renderer resolves [[wikilinks]] against the collections, exactly as the
   // issue page does, so the feed body cannot link somewhere the page would not.
-  const [articles, concepts, faqs] = await Promise.all([
+  const [articles, concepts, faqs, resources] = await Promise.all([
     getCollection('articles'),
     getCollection('concepts'),
     getCollection('faqs'),
+    getCollection('resources'),
   ]);
   const titles: Record<string, string> = {};
-  for (const list of [articles, concepts, faqs]) {
+  for (const list of [articles, concepts, faqs, resources]) {
     for (const p of list) titles[p.id.replace('.md', '')] = p.data.title;
   }
   const slugs = (list: { id: string }[]) => new Set(list.map((p) => p.id.replace('.md', '')));
   const articleSlugs = slugs(articles);
   const conceptSlugs = slugs(concepts);
   const faqSlugs = slugs(faqs);
+  const resourceSlugs = slugs(resources);
 
   const items = await Promise.all(
     issues.map(async (n) => {
@@ -57,6 +59,7 @@ export async function GET() {
         articleSlugs,
         conceptSlugs,
         faqSlugs,
+        resourceSlugs,
         titles,
       });
       return {

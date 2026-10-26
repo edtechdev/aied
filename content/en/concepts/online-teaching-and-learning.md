@@ -176,7 +176,7 @@ Whatever combination an instructor chooses, one constraint should shape it. Onli
 - [[conversational-ai-tutors-framework]] — The Path to Conversational AI Tutors
 - [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of]] — Implementing AIDA at the Open University
 - [[ai-adult-learning-guidelines-dis2026]] — Guidelines for Designing AI Technologies to Support Adult Learning
-- [[deeptutor]] — DeepTutor: Toward Agentic Personalized Tutoring
+- [[zhao-deeptutor-agentic-personalized-tutoring-2026]] — DeepTutor: Toward Agentic Personalized Tutoring
 - [[mejia-domenzain-ml-findings-teachers-blended-2026]] — Making ML findings accessible to teachers in blended classrooms
 - [[zhang-ml-student-progress-programming-2026]]
 - [[personalized-ai-generated-videos-preference-2026]] — Students prefer personalized AI-generated videos over non-personalized human-recorded ones (Tomlinson et al. 2026)

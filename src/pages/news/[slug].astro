@@ -37,10 +37,11 @@ const formatDate = (iso: string): string => {
   });
 };
 
-const [articles, concepts, faqs] = await Promise.all([
+const [articles, concepts, faqs, resources] = await Promise.all([
   getCollection('articles'),
   getCollection('concepts'),
   getCollection('faqs'),
+  getCollection('resources'),
 ]);
 const titles: Record<string, string> = {};
 for (const list of [articles, concepts, faqs]) {
@@ -52,6 +53,7 @@ const { html: rawHtml, headings } = renderMarkdown(issue.body ?? '', {
   articleSlugs: new Set(articles.map(a => a.id.replace('.md', ''))),
   conceptSlugs: new Set(concepts.map(c => c.id.replace('.md', ''))),
   faqSlugs: new Set(faqs.map(f => f.id.replace('.md', ''))),
+  resourceSlugs: new Set(resources.map(r => r.id.replace('.md', ''))),
   titles,
 });
 

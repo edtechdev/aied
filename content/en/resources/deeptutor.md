@@ -33,7 +33,7 @@ Higher-education instructors and researchers who want a deployable version of th
 
 ## Notes
 
-Licensed Apache 2.0, at version 1.6.9 as of September 2026 with roughly 40,000 GitHub stars. The published evaluation behind it — 10.8% average improvement on personalized metrics over strong baselines and 29.4% stronger general agentic reasoning across five backbone models, on the TutorBench benchmark — is summarized on [[deeptutor|the article page]], whose limitations apply here too. As with any open-source AI stack, you supply model provider keys, and a desktop or server deployment expects Python 3.11 and Node.
+Licensed Apache 2.0, at version 1.6.9 as of September 2026 with roughly 40,000 GitHub stars. The published evaluation behind it — 10.8% average improvement on personalized metrics over strong baselines and 29.4% stronger general agentic reasoning across five backbone models, on the TutorBench benchmark — is summarized on [[zhao-deeptutor-agentic-personalized-tutoring-2026|the article page]], whose limitations apply here too. As with any open-source AI stack, you supply model provider keys, and a desktop or server deployment expects Python 3.11 and Node.
 
 ## Connected Concepts
 [[agentic-ai]], [[intelligent-tutoring]], [[personalized-learning]], [[rag]], [[open-source]], [[mastery-learning]], [[knowledge-tracing]], [[automated-question-generation]]

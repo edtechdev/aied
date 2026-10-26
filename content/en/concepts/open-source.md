@@ -102,7 +102,7 @@ Openness of content and openness of models are complements elsewhere too. OATuto
 - [[programming-its]] — Self-hosted open-weight LLM for GDPR/EU AI Act compliance in a Python ITS
 - [[aiawe-automated-writing-evaluation]] — LoRA-adapted open-weight model for automated writing evaluation
 - [[stanbkt-bayesian-knowledge-tracing]] — Open Python package for full Bayesian knowledge tracing
-- [[deeptutor]] — Fully open-source agentic tutoring framework with learner memory
+- [[zhao-deeptutor-agentic-personalized-tutoring-2026]] — Fully open-source agentic tutoring framework with learner memory
 - [[vismatic-secure-sandbox-cs-education]] — Open containerized sandbox for process-oriented assessment
 - [[kar-mathbuddy-affective-math-tutoring-2025]] — Affective math tutor with an open codebase
 - [[cdpk-pedagogy-benchmark-llms]] — Open pedagogy benchmark across 97 models and the cost–accuracy frontier

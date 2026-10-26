@@ -50,6 +50,7 @@ if (!concept) return Astro.redirect('/aied/');
 const articleSlugs = new Set(articles.map(a => a.id.replace('.md', '')));
 const conceptSlugs = new Set(allConcepts.map(c => c.id.replace('.md', '')));
 const faqSlugs = new Set(faqs.map(f => f.id.replace('.md', '')));
+const resourceSlugs = new Set(resources.map(r => r.id.replace('.md', '')));
 const faqById = new Map(faqs.map(f => [f.id.replace('.md', ''), f]));
 
 // Connected Resources: slugs in frontmatter `connected_resources`. Loaded from the
@@ -102,7 +103,7 @@ const connectedConceptSlugs = (body.match(/^## Connected Concepts\s*\n([\s\S]*?)
 const allTitles: Record<string, string> = {};
 [...allConcepts, ...articles, ...faqs].forEach(c => { allTitles[c.id.replace('.md', '')] = c.data.title; });
 
-const rendered = renderMarkdown(body, { pageTitle: title, articleSlugs, conceptSlugs, faqSlugs, titles: allTitles });
+const rendered = renderMarkdown(body, { pageTitle: title, articleSlugs, conceptSlugs, faqSlugs, resourceSlugs, titles: allTitles });
 const toc = rendered.headings.filter(h => h.depth <= 3);
 if (connectedFaqs.length > 0) {
   toc.push({ text: 'Connected FAQs', slug: 'connected-faqs', depth: 2 });

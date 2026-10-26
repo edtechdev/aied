@@ -149,6 +149,12 @@ build:
     # journal and AI pages had lost their /concepts/ and /news/ links, and nothing caught it
     # because this check was not a gate. It runs over every locale in about 0.04s.
     - python3 tooling/scripts/check-locale-modules.py
+    # A slug is the URL and the wikilink target, so two pages sharing one is never cosmetic:
+    # markdown.ts resolves by collection priority, making the lower-priority page unreachable
+    # by link with no error anywhere. `deeptutor` was both an article and a resource, and ten
+    # inbound links meant the framework while four meant the paper. Per locale, not global:
+    # en/ and zh/ sharing a slug is the same page translated.
+    - python3 tooling/scripts/check-slug-uniqueness.py
   site: npm run build             # Astro + Pagefind + PWA service worker
   llms: python3 tooling/scripts/generate-llms-files.py
   # Offline books are LOCAL committed artefacts, rebuilt ONLY on explicit

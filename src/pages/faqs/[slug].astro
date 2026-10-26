@@ -59,6 +59,7 @@ const conceptTitles: Record<string, string> = Object.fromEntries(
 const articleSlugs = new Set(allArticles.map(a => a.id.replace('.md', '')));
 const conceptSlugs = new Set(allConcepts.map(c => c.id.replace('.md', '')));
 const faqSlugs = new Set(faqs.map(f => f.id.replace('.md', '')));
+const resourceSlugs = new Set(resources.map(r => r.id.replace('.md', '')));
 
 const { title, created, updated, research_method, discipline, audience, level, page_kind, foundations, pedagogy, technology, assessment, methods, institutions, ethics } = faq.data;
 // JSON-LD keywords: the typed fields, which replaced the old per-page tag list.
@@ -91,7 +92,7 @@ const body = faq.body || '';
 const allTitles: Record<string, string> = {};
 [...allConcepts, ...allArticles, ...faqs].forEach(c => { allTitles[c.id.replace('.md', '')] = c.data.title; });
 
-const rendered = renderMarkdown(body, { pageTitle: title, articleSlugs, conceptSlugs, faqSlugs, titles: allTitles });
+const rendered = renderMarkdown(body, { pageTitle: title, articleSlugs, conceptSlugs, faqSlugs, resourceSlugs, titles: allTitles });
 const toc = rendered.headings.filter(h => h.depth <= 3);
 if (connectedFaqs.length > 0) {
   toc.push({ text: 'Connected FAQs', slug: 'connected-faqs', depth: 2 });
