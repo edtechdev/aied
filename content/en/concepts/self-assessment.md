@@ -1,7 +1,7 @@
 ---
 title: Self-Assessment
 created: "2026-09-21T11:21:57-04:00"
-updated: "2026-09-30T09:59:35-04:00"
+updated: "2026-10-25T22:20:00-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [metacognition, self-regulated-learning, scaffolding]
@@ -86,6 +86,16 @@ It also introduces a naming hazard worth stating plainly. **AI self-evaluation**
 - **Use self-report where it is honest.** Confidence, perceived competence, and willingness to disclose AI use are legitimate things to measure by asking. Achievement is not.
 - **Ask for judgment, not opinion.** The most defensible AI-era self-assessment asks a student to appraise a specific piece of work against criteria and justify the call, which is trainable, inspectable, and connected to [[evaluative-judgment]].
 - **Watch the cohort effect.** For students whose formative years included substitutive AI use, an accurate self-estimate may be unavailable rather than merely optimistic, which shifts the instructional task from correcting overconfidence to rebuilding the experiential record it needs.
+
+## Common Misconceptions
+
+**"A self-report measures the skill it names."** It measures a belief about the skill, and the two come apart badly. In a study of **288 K-12 teachers**, self-reported [[ai-literacy|AI literacy]] correlated with an objective measure of the same skill at only **r = 0.07 to r = 0.24** — a range in which the self-report explains almost none of the variance in capability. Self-report is usable as a perception measure and not as a proxy for competence.
+
+**"Students can judge their own learning accurately."** Accuracy of self-judgement is itself a skill, and the evidence on calibration points the other way: in an experimental comparison, explicit training in reasoning-focused scaffolding produced better [[self-assessment|self-assessment]] calibration than unrestricted access, which means calibration improves from instruction rather than being available by default.
+
+**"Adding an AI feedback loop improves self-assessment automatically."** A feedback loop changes what the student compares against, which can improve calibration and can also anchor them to the system's judgement. The comparative study here (**118 first-year undergraduates, 56 in a GenAI group and 62 in a peer group**, three cycles across a semester) is designed precisely to test whether the loop or the social comparison does the work — and the answer is not "the loop, by being a loop."
+
+**"Self-assessment is a softer alternative to testing."** It is a different target. Self-assessment develops the regulatory skill of judging one's own work; a test measures the capability being judged. Research that substitutes one for the other conflates the capacity to evaluate performance with performance itself.
 
 ## Connected Concepts
 

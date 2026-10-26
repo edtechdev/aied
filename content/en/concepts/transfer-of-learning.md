@@ -1,7 +1,7 @@
 ---
 title: Transfer of Learning
 created: "2026-05-07T18:02:28-04:00"
-updated: "2026-10-01T09:59:06-04:00"
+updated: "2026-10-25T22:20:00-04:00"
 type: concept
 foundations: [cognitive-offloading]
 pedagogy: [desirable-difficulties, metacognition, scaffolding, transfer-of-learning]
@@ -91,6 +91,16 @@ This aligns with [[intelligent-tutoring|AI Tutoring]] research showing that tuto
 ### Connections to related concepts
 
 Transfer of learning connects to [[metacognition]] (self-monitoring of understanding), Cognitive Load Theory (germane vs extraneous load), [[desirable-difficulties]] (productive struggle), [[scaffolding]] (fading support), [[cognitive-offloading|Over-Reliance]] (tool dependence), and [[sociocultural-learning]] (general-purpose AI operates outside the ZPD by completing work for students). It is the bridge between assisted performance and genuine learning — the distinction between [[stanford-evidence-base-ai-k12-2026]] and the central question for [[intelligent-tutoring|AI Tutoring]] effectiveness.
+
+## Common Misconceptions
+
+**"Gains on AI-assisted tasks demonstrate transferable learning."** The opposite pattern is what the corpus finds: **all five studies** in the synthesis reported here show **negative or null transfer** when general-purpose AI is the intervention — high school mathematics students with higher practice grades scoring **about 17% worse** on closed-book finals, and an essay-writing study in which **83% failed to recall their own quotes**. Immediate assisted performance is the least transferable measure available.
+
+**"If a student can do it with the AI, they can do it."** That is the definition of the failure rather than its absence. Transfer requires that the capability survives removal of the support, and the studies that test removal find the capability was in the tool. A learner who can produce an artefact while the reasoning is performed elsewhere has been trained in a different skill: operating the tool.
+
+**"Transfer comes from more capable models."** Transfer comes from conditions that produce it — the generality of the practice, the variability of the contexts, and the extent to which the learner generated the reasoning themselves. Model capability raises the ceiling on assisted performance and does nothing in particular for what remains when the model is gone.
+
+**"Guidance always supports transfer, so more guidance is better."** Guidance that performs the reasoning substitutes for the process transfer depends on. The distinction is between help that keeps the learner generating the next step and help that generates it for them — and only the first is on the transfer side of that line.
 
 ## Connected Concepts
 

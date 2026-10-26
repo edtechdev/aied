@@ -1,7 +1,7 @@
 ---
 title: Prior Knowledge
 created: "2026-08-22T01:20:00-04:00"
-updated: "2026-10-01T18:49:55-04:00"
+updated: "2026-10-25T22:20:00-04:00"
 type: concept
 foundations: [learning-design]
 pedagogy: [constructivist, learning-theories, metacognition, prior-knowledge, scaffolding]
@@ -51,6 +51,16 @@ Generative AI has made prior knowledge a central design consideration rather tha
 2. **Model the learner's prior-knowledge state.** Build student modeling and adaptation on estimated prior knowledge (and its misconceptions), not on assumed uniformity, to make personalization genuinely responsive.
 3. **Surface and address misconceptions.** When prior knowledge is incorrect, it will interfere; instruction should elicit and correct misconceptions rather than add new content on top of faulty foundations.
 4. **Weigh the friction trade-off.** Activating prior knowledge adds desirable difficulty (retrieval, integration) that AI's friction-removing defaults tend to erase — a tension to manage deliberately rather than let automation resolve by default.
+
+## Common Misconceptions
+
+**"Prior knowledge predicts who does the cognitive work."** It predicts outcomes more reliably than it predicts behaviour. In a five-day learning-by-teaching study with **23 middle-school tutors**, prior test scores did **not** predict the share of knowledge-building responses a tutor produced, and low-prior tutors worked at building knowledge rather than defaulting to less. Who engages in the productive struggle is not simply who arrives knowing most.
+
+**"Offloading is a stable learner trait, so the same student offloads the same amount everywhere."** It tracks prior knowledge within the task. In a synthesis-writing study the **high-knowledge, minimal-offloading cluster authored 80% of its essay against 2% for the heaviest-offloading cluster**. Offloading is therefore substantially a response to what the learner already has and what the task demands, which makes it a design variable rather than a character one.
+
+**"Students with less prior knowledge need more AI support."** That is the direction most likely to widen the gap, since the measured offloading pattern concentrates authorship loss where prior knowledge is thinnest. Support that supplies the work to the learner least equipped to detect the substitution removes the activity that would build the missing knowledge.
+
+**"Prior knowledge is a fixed input the course cannot move."** It is the most heavily weighted factor in new learning, which makes building it the highest-leverage task rather than a background condition — the reason domain knowledge is the intervention in its own right, not merely the covariate.
 
 ## Connected Concepts
 

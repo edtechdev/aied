@@ -1,7 +1,7 @@
 ---
 title: "Retrieval, Spacing and Interleaving"
 created: "2026-09-18T12:20:00-04:00"
-updated: "2026-10-03T02:57:43-04:00"
+updated: "2026-10-25T22:20:00-04:00"
 type: concept
 pedagogy: [desirable-difficulties, metacognition, self-regulated-learning, mastery-learning, prior-knowledge, transfer-of-learning]
 foundations: [cognitive-offloading]
@@ -79,6 +79,16 @@ Interleaving's inclusion here therefore rests on the same theoretical family as 
 - **Instrumentation and modelling limits.** [[knowledge-tracing]] models in the corpus fail exactly where spacing decisions need them, and the authors attribute past successes to retroactive full-dataset fitting rather than deployment-realistic validation. The bilingual companion's flashcard quality is unverified against ground truth, with no automated fact-checking layer, and it has run no outcomes study at all.
 - **Interleaving has essentially no direct evidence here.** As stated above, the corpus contains no blocked-versus-interleaved comparison, only a simulation in which Interleaving is one selectable strategy among several.
 - **Subject populations and content.** The evidence base concentrates on [[higher-ed|higher education]], on STEM and statistics material, and on fact-versus-skill distinctions from geometry and multiple-regression content; generalization to [[k-12|K-12]] settings, to [[humanities-education|humanities]] and writing, and to non-Western classrooms is not established by these studies.
+
+## Common Misconceptions
+
+**"Better AI questioning produces better retention."** It produces better work. [[llm-interaction-depth-task-quality-recall-2026|Tsiligkiris (2026)]] found deeper LLM questioning improved independently marked task quality (**β = 6.27, p = .006**) while having a **null association with immediate post-test recall (β = −0.014, p = .728)**, with recall gains driven by baseline knowledge instead. The quality of the artefact and the durability of the memory are different outcomes, and better dialogue moves the first without moving the second.
+
+**"There is one best practice format."** The format depends on what is being learned. A content–treatment interaction (**β = 0.41, p = .038, d = 0.38**) shows **pure practice testing produced higher gains for facts**, while **example-integrated practice produced higher gains for skills**. Prescribing retrieval practice for everything, or worked examples for everything, gets half the material wrong.
+
+**"Retrieval practice means quizzing, and any quizzing counts."** The mechanism is producing an answer from memory rather than recognising one, which is why a multiple-choice recognition task is a weaker version of the same activity. An AI that generates endless recognition items has generated activity of the right name and the wrong mechanism.
+
+**"AI can faithfully deliver these techniques, since they are well specified."** It can also quietly defeat them. Spacing requires the system to withhold the material it is most able to supply on demand, and retrieval requires it not to answer — so the technique's effectiveness depends on constraints an agreeable assistant has no incentive to impose.
 
 ## Connected Concepts
 
