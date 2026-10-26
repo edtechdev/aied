@@ -1,7 +1,7 @@
 ---
 title: Student Experience
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-01T20:35:10-04:00"
+updated: "2026-10-25T22:50:00-04:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [well-being]
@@ -85,6 +85,16 @@ The longest-run outcomes a student experiences — whether they return next term
 ## Connections
 
 Student experience connects to [[cognitive-offloading|Over-Reliance]] (excessive AI dependence), [[ai-literacy]] (skills for effective use), [[cognitive-offloading]] (how AI changes cognitive work), and [[student-engagement|engagement]] (how AI systems measure and respond to student behavior). It is the learner-facing member of the [[stakeholders]] umbrella, and the home for summarizing all the ways AI impacts students.
+
+## Common Misconceptions
+
+**"Students who avoid AI are behind."** Non-use is frequently a reasoned position rather than a gap: a cross-institutional UK survey of **7,087 students** found **32% did not use GenAI for study at all**, with non-users citing wanting to do the work themselves. Treating that as an adoption deficit inverts the finding and pressures students out of a defensible choice.
+
+**"Student reports are a reasonable measure of learning."** They are [[self-report-measures|self-report measures]]: they capture perceptions and intentions well and behaviour only approximately. The performance–learning gap in this literature — students doing better with AI and worse on later unassisted tasks — is precisely the case where self-report and outcome diverge, so a satisfied student body is not evidence of a learning student body.
+
+**"If students feel AI helps, it helps."** Feeling helped is a real datum about the experience and an unreliable inference about the outcome. The gap is documented and students in the harmed group do not reliably perceive it, so perception and outcome have to be collected as separate measures rather than one standing in for the other.
+
+**"Student experience is a soft concern relative to outcomes."** It is a leading indicator for adoption and disclosure: students who feel their use is judged will conceal it, and concealed use is the condition in which [[reducing-ai-misuse|misuse]] and harm are least visible to the institution.
 
 ## Connected Concepts
 - [[learners]] — Learners: the umbrella for the learner-side concepts

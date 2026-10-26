@@ -1,7 +1,7 @@
 ---
 title: Problem Solving
 created: "2026-08-29T12:55:12-04:00"
-updated: "2026-09-30T09:59:35-04:00"
+updated: "2026-10-25T22:50:00-04:00"
 type: concept
 foundations: [critical-thinking]
 pedagogy: [cognitive-psychology, problem-solving]
@@ -53,6 +53,14 @@ Problem solving is the applied outcome of [[critical-thinking|critical thinking]
 ### Automated CPS Skill Coding
 
 - Measuring [[collaborative-learning|collaborative problem solving (CPS)]] competence typically requires coding behavior from simulated-task process data into specific CPS skills. [[prompt-engineering|Context-aware prompting]] of pre-trained language models can automate this coding, modeling contextual dependencies and fusing cognitive and social abilities to achieve superior performance over strong baselines on CPS task datasets — addressing the labor-intensity of manual coding and enabling large-scale, real-time assessment.
+
+## Common Misconceptions
+
+**"AI that helps students explore perspectives is helping them think."** The same behaviour supports two very different outcomes: AI tools help students explore multiple perspectives and generate their own problems, and they can also encourage metacognitive laziness. The distinguishing question is whether the student is doing the framing or receiving it — a system that supplies candidate perspectives has performed the generative step the exercise existed to demand.
+
+**"Problem solving is the target, so problem posing is a bonus."** Posing problems is where transfer is built, because it requires the learner to construct the structure rather than operate inside one the system provided. A curriculum that only ever supplies well-formed problems trains performance on well-formed problems, which is not the condition students meet afterwards.
+
+**"Simulation of collaborative problem solving is a substitute for the collaboration."** A simulation reproduces the interaction pattern, and the skill being developed is the regulation of a joint problem by participants who are actually present. Participant-specific agents that model real collaborators are a research instrument for studying that regulation — useful for what they reveal about the process, not a way to give students the practice without the peers.
 
 ## Connected Concepts
 

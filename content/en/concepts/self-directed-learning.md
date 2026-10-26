@@ -2,7 +2,7 @@
 connected_resources: [matt-pocock-skills]
 title: Self-Directed Learning
 created: "2026-08-20T06:35:00-04:00"
-updated: "2026-09-30T08:39:04-04:00"
+updated: "2026-10-25T22:50:00-04:00"
 type: concept
 foundations: [agency]
 pedagogy: [lifelong-learning, motivation, self-efficacy, self-regulated-learning]
@@ -46,6 +46,16 @@ Because SDL emphasizes learner-initiated direction, interventions to protect it 
 ## AI Extraction Scaffolding Research-Based Learning
 
 - **AI extraction as a scaffold for research-based learning.** An and colleagues (2026) design an AI-powered information extraction system that converts research publications into structured, traceable datasets to support undergraduate thesis completion in [[stem-education|STEM]], positioned as an **epistemic scaffold** that enables inspection of evidence-claim relationships while reducing low-level data-handling demands. In a 20-student [[mixed-methods-research|mixed-methods]] pilot across 80 documents, students extracted over 90% of targeted parameters, self-reported literature-review time dropped ~65%, and their ability to identify influential variables rose 50% — supporting the idea that [[generative-ai|AI]] can rebalance cognitive load toward higher-order, self-directed research reasoning rather than routine summarization.
+
+## Common Misconceptions
+
+**"Self-directed learning and self-regulated learning are the same construct."** They operate at different timescales: SRL concerns in-the-moment regulation of learning, while SDL concerns overarching responsibility across time — choosing what to learn, setting the goal, and holding the direction over months. An intervention that improves moment-to-moment regulation need not produce a self-directed learner, and a student can be self-directed across a programme while regulating poorly within a session.
+
+**"AI makes self-directed learning easier because it supplies structure."** It can remove the exercise of the skill. [[genai-thoughtless-use-self-directed-learning-2026|Zhao and Gu (2026)]] show that **thoughtless use of GenAI — adopting outputs without critical evaluation — significantly undermines SDL**. Directing one's own learning is practised by making the decisions GenAI can now make for you, so an assistant that always supplies direction supplies it in place of the competence.
+
+**"Non-use of AI indicates a lack of access."** Among students who do not use it, the stated reason is often a positive educational choice — wanting to do the work themselves — rather than a barrier. Reading non-use as a deficit misdescribes a position that is, in the [[student-experience|student-experience]] evidence, reasoned.
+
+**"Self-direction means working alone."** It means owning the direction, which can be exercised in a highly supported environment. The distinguishing feature is who sets and adjusts the goal, not whether help is available.
 
 ## Connected Concepts
 

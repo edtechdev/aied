@@ -1,7 +1,7 @@
 ---
 title: Universal Design for Learning
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-09-30T08:39:04-04:00"
+updated: "2026-10-25T22:50:00-04:00"
 type: concept
 foundations: [learning-design]
 ethics: [equity-in-ai-education, inclusive-learning]
@@ -70,6 +70,16 @@ UDL turns "fix the learner" into "fix the design." For instructors and designers
 - Guard against AI that assumes one communication style or penalizes neurodivergent expression — connect to [[accessibility]], [[equity-in-ai-education]], and [[neurodiversity]].
 
 - **Target functional barriers, not diagnoses.** [[assistive-tech-neurodivergent-higher-ed-review-2026|Rempel et al. (2026)]] found the 40-study corpus of assistive technologies for neurodivergent students organized around accommodation and diagnosis-gated tools, and argue that designing to the cross-cutting barriers students actually face is what makes a tool plausibly universal.
+
+## Common Misconceptions
+
+**"A course with accessible materials has implemented UDL."** Accessibility is one of UDL's three principles and the easiest to audit, so it is frequently the only one done. Building flexible means of engagement and of action and expression is the larger part of the framework, and a course whose PDFs are tagged but whose assessments admit one format has completed the measurable fraction.
+
+**"Faculty who believe they are accessible are accessible."** Belief and practice come apart systematically. The faculty-level findings in this corpus show **90% of respondents believed they create an accessible learning environment and 87% said they actively consider accessibility** — self-attestation rates that cannot all be accurate given what audits find, and a reminder that UDL implementation cannot be assessed by survey in the way it is usually assessed.
+
+**"UDL means designing for the average student more carefully."** The core claim is the opposite: learner variability is the norm rather than the exception, so design provides many pathways from the start instead of fixing one path for those who struggle. Retrofit is what UDL exists to replace, and a single well-tuned path is still a single path.
+
+**"AI makes UDL automatic, since it can generate alternate formats."** It makes the representation principle cheap and leaves engagement and expression untouched. Converting text to audio addresses one of three means; a course can now be fully multi-format and still require every student to demonstrate learning in the same single way.
 
 ## Connected Concepts
 

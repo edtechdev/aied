@@ -1,7 +1,7 @@
 ---
 title: Learning by Teaching
 created: "2026-08-14T10:45:34-04:00"
-updated: "2026-10-01T18:49:55-04:00"
+updated: "2026-10-25T22:50:00-04:00"
 type: concept
 pedagogy: [active-learning, learning-by-teaching, scaffolding, self-regulated-learning]
 technology: [generative-ai, intelligent-tutoring]
@@ -95,6 +95,16 @@ The [[research-methods-aied|research]] above converges on a few reusable pattern
 - **LbT is a scalable antidote to AI over-reliance** — it inverts the tutor/student role and keeps the learner cognitively active, which matters more as AI gets more fluent and more "helpful."
 - **Fallibility is a feature, not a bug.** A tutee that is *too* correct removes the error-correction and gap-detection that make LbT work; design for the productive struggle rather than against it.
 - **Open questions remain:** How do LbT interactions sustain beyond a semester as novelty fully fades? Does LbT transfer to non-CS, less-structured domains at the same scale? Can automated dialogue coding become a practical, real-time engagement monitor for instructors? And how do we keep the teaching role meaningful for *every* student rather than a motivated few?
+
+## Common Misconceptions
+
+**"Any tutee works, since the benefit lies in explaining."** The benefit depends on the tutee's responses being informative. A tutee that already understands everything gives the tutor no gap to detect, which is why making an LLM a good tutee requires **engineering fallibility** — designed errors and confusion the teacher-student must diagnose and correct. The protégé effect comes from the tutee's ignorance, so a capable tutee removes the mechanism.
+
+**"Generated errors are good enough because they are wrong."** Only if they are plausible. In a blinded annotation study, experts **misclassified 164 of 196 (83.7%) LLM-generated Java submissions as authentic** student work — which is simultaneously evidence that the errors are realistic and a warning that a tutee can be wrong in ways that teach the wrong diagnosis.
+
+**"Asking an LLM to act confused is a trivial prompt."** It is a design problem, because the fallibility must be calibrated to the concept being taught and to the learner-tutor's current model. Random errors produce debugging practice; errors reflecting a specific plausible misconception produce conceptual restructuring, and only the second is the pedagogical target.
+
+**"Learning by teaching is a softer activity than being taught."** It is more demanding. Preparing to teach forces the organization of knowledge and the location of one's own gaps, which is why the approach surfaces misunderstandings that passive reception conceals — the difficulty is the mechanism rather than a cost to be minimized.
 
 ## Connected Concepts
 
