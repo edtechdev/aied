@@ -2,7 +2,7 @@
 connected_resources: [process-feedback]
 title: AI Detection
 created: "2026-05-29T10:44:35-04:00"
-updated: "2026-10-22T12:02:21-04:00"
+updated: "2026-10-25T17:35:00-04:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading]
 technology: [generative-ai, llm]
@@ -111,6 +111,16 @@ The constructive question shifts from "how do we prevent students from using AI?
 - **Beyond detection: dialog over surveillance.** A practitioner account of Grand Canyon University's learning-verification framework ([[best-response-student-ai-dialog-2026|Mandernach 2026]]) argues the best response to [[student-ai-interaction|student AI use]] is dialog, not detection. Because detectors are unreliable (and biased against nonnative writers), GCU stopped asking "did the student use AI?" and instead asks students to demonstrate understanding in a brief conversation — an extension of [[authentic-assessment|assessment redesign]] that treats detection as a dead end and verification as good teaching.
 
 - **Reliance outruns confidence, at a cost to teaching.** In a survey of 20 higher-education professionals, 15 reported heavy institutional reliance on AI-detection software while only 4 expressed confidence in it, and respondents described "pedagogical burnout" from policing that displaced instructional design and student mentorship ([[evaluation-age-ai-output-evidence-2026|Chowdhury & Khan (2026)]]).
+## Common Misconceptions
+
+**"Detectors are unreliable, but they are getting better."** The failure is structural, not a matter of maturity, and one model family demonstrates it cleanly: its AI flag rate **fell from 94.9% to 6.8%** as the human plan behind AI-written text grew more detailed — detecting the human planning, not the AI writing — while a competing detector stayed near 92%, and that same system **labelled 94.7% of AI-polished human documents as human**. Accuracy claims depend entirely on which construction of the problem the test set used.
+
+**"False positives are rare, so the risk is small."** They are common on exactly the work you want to encourage. Guideline-compliant light AI editing is flagged at **38–80%**, and *unmodified* recent originals at **9–15%**, with non-STEM writing far above STEM. A detector that accuses a tenth of untouched human work and most of the permitted editing is not making a small error rate; it is penalizing the behaviour the policy invites.
+
+**"The question a detector answers is whether writing is human or AI."** That binary is conceptually unsound rather than merely hard to compute. Writing assistance exists on a continuum, the policy of most institutions permits some of it, and no threshold on an output score maps onto a defensible boundary. The measured failure is a policy failure: the categories detectors promise do not exist in the work students actually submit.
+
+**"A detection regime protects integrity."** It can undermine it. Detection fosters a climate of suspicion that erodes [[trust]] between students and staff, and the [[academic-integrity|integrity]] literature this corpus reports places the durable levers in assessment redesign rather than in policing. The mechanism of the arms race also means the regime keeps costing more while measuring less: baseline flag rates spanned **0.0% to 100.0%** across editing intensities, which is not a discrimination signal.
+
 ## Connected Concepts
 
 - [[academic-integrity]]

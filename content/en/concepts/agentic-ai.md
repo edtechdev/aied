@@ -2,7 +2,7 @@
 connected_resources: [deeptutor]
 title: Agentic AI
 created: "2026-08-01T04:07:54-04:00"
-updated: "2026-10-25T11:20:00-04:00"
+updated: "2026-10-25T17:35:00-04:00"
 connected_faqs: [ai-agents-support-students-instructors, asynchronous-online-courses-ai, making-simulated-students-behave-like-learners]
 type: concept
 foundations: [agency, agentic-ai, ai-literacy, cognitive-offloading]
@@ -156,6 +156,16 @@ Because autonomous agents make detection futile, instructors should focus on tec
 ## A balanced takeaway
 
 Agentic AI is neither a panacea nor an inevitable harm: its value depends on design. Used to scaffold learner agency, ground in pedagogy, and keep humans in the loop, agents can personalize and deepen learning; used to maximize automation and task completion, they can erode the very effort that produces learning. The recurring design principle is **intentionality** — deciding explicitly what the agent does and what it deliberately leaves for the learner.
+
+## Common Misconceptions
+
+**"Any chatbot wired to tools is an agentic system."** The distinction is drawn on capability structure, not on tool access: a system qualifies as agentic only if it meets criteria such as planning, memory, autonomy and goal-directed action across steps. A prompt-response tool that can call a calculator remains conversational. The distinction matters because the risks and the evaluation methods differ — autonomous multi-step action raises failure modes that a single exchange does not.
+
+**"Better base models are what make agentic systems work in education."** In the trial this page cites, **role specialization rather than raw model capability** is credited with the improved consultation behaviour (**71.8%** against the comparison). Architecture and division of labour across agents are design decisions with measurable effects, which means a stronger model dropped into an unspecialized pipeline will not reproduce the result.
+
+**"Agentic systems in education are pedagogically grounded because education researchers build them."** The evidence says otherwise: a scoping review found only **29% of agentic AI studies (138 of 474)** explicitly grounded their systems in educational theory. The disciplinary divide between technically oriented and pedagogically oriented work is the field's condition, not an individual author's oversight, so a demo that works is the expected output and a demo that works *for learning* is the minority case.
+
+**"An agent that personalizes and deepens learning is a net gain over a chatbot."** It carries a specific trade with it: agentic systems threaten [[agency]] and invite [[cognitive-offloading|offloading]] of the cognitive effort the learning depends on, and by doing more steps unsupervised they make that offloading harder to notice. The automation-versus-learning tension is the central analytic problem of the category rather than a caveat appended to its benefits.
 
 ## Connected Concepts
 

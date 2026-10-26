@@ -1,7 +1,7 @@
 ---
 title: Online Teaching and Learning
 created: "2026-08-20T04:20:00-04:00"
-updated: "2026-10-16T19:45:37-04:00"
+updated: "2026-10-25T18:35:00-04:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, learning-design]
 pedagogy: [online-teaching-and-learning, pedagogy]
@@ -118,6 +118,16 @@ Whatever combination an instructor chooses, one constraint should shape it. Onli
 - **Assume an agent will attempt every unproctored activity, and design from that assumption.** The three-question test is quick and exposes weak activities: could an AI system complete this without the student understanding the material; what cognitive activity is supposed to produce the learning; what evidence will show the student performed it. When the first answer is yes and the other two are hard to answer, the problem is the learning design rather than the AI policy.
 - **Keep verification proportionate to the risk.** Where competence must be certified, prefer a twin task, an asynchronous oral defense or a short comprehension check over blanket monitoring; keep the rest of the course flexible for the learners who depend on that flexibility.
 - **Use analytics to support, not replace, teaching.** Leverage [[learning-analytics]] to forecast engagement and target support, but keep [[human-in-the-loop-ai|human oversight]] central.
+
+## Common Misconceptions
+
+**"Online teaching is classroom teaching delivered through a screen."** It is a distinct pedagogical setting, and AI lands differently in it. Self-reported TPACK for AI-integrated science teaching was higher among final-year student teachers at a campus-based university (**64.0%**) than at a distance-education university (**47.4%**), with the weakest domain in both settings being pedagogical. The distance setting compounds an existing preparation gap rather than receiving the same support.
+
+**"Adding an AI assistant to a course increases engagement."** Engagement depends on the assistant being purpose-built and in-environment. The Open University's AIDA assistant raised engagement — doubling usage time in an exploratory trial — and that design condition is the finding: the same capability bolted on as an external tool does not recruit the same behaviour. A generic chatbot link in a course shell is not the intervention that was studied.
+
+**"AI raises performance, so it raises learning."** In online settings the divergence is the same as in classrooms: an [[rct]] found unguarded AI assistance raised practice performance but *lowered* unassisted exam scores, while a "hint-not-answer" tutor removed the harm. Online courses rely more heavily on asynchronous assessment, so the gap between assisted and unassisted performance is where validity is won or lost.
+
+**"Assessment validity is a grading-policy question."** It is a design question created by the medium: when a submission can be produced without the learner being present, validity depends on whether the task produces evidence that the learner did the work. Redesigning the task addresses this; tightening the penalty for misconduct does not.
 
 ## Connected Concepts
 - [[pedagogical-patterns]] — The context that makes sequencing load-bearing, since the system cannot see an attempt

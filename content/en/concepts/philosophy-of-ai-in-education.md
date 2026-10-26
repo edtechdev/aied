@@ -1,7 +1,7 @@
 ---
 title: Philosophy of AI in Education
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-10-16T07:28:51-04:00"
+updated: "2026-10-25T19:20:00-04:00"
 type: concept
 foundations: [agency, ai-education, human-ai-collaboration, philosophy-of-ai-in-education]
 pedagogy: [learning-theories]
@@ -49,6 +49,35 @@ The philosophy of AI in education and [[learning-theories]] are complementary le
 ### Relationship to theory development
 
 Philosophy of AI in education and [[theory-development-aied|theory development in AIEd]] are complementary but distinct. Philosophy asks the ontological and epistemological questions — what mind, knowledge, and the learner fundamentally are under AI-mediated conditions — while theory development produces and empirically tests the *mechanisms* that operationalize answers to those questions (generativism, epistemic co-agency, the absent cognitive baseline). The two are mutually informing: philosophy clarifies the presuppositions that theories carry (e.g., [[learning-with-machines-toward-a-theory-of-epistemic-co-agency|epistemic co-agency]] presumes a distributed, non-individualist model of cognition), while theory development gives philosophical positions testable, falsifiable form. The field's most foundational articles do both at once, sitting at the boundary between the two concepts.
+
+## Common Misconceptions
+
+**"The philosophy of AI in education is the same as cataloguing learning theories."** They sit at different depths. The [[learning-theories|learning-theories]] page asks *how learning happens*; the philosophy asks *what learning, mind and the learner fundamentally are* under AI-mediated conditions. A study can settle a learning-theory question and leave the philosophical one untouched, which is why a technically successful intervention can still be the wrong thing to do.
+
+**"Cognitive offloading is the harm, and it is reversible by more effort."** There is a stronger claim available. Bai and Costa (2026) draw on Arendt's account of thinking as an inward, untransferable activity to argue that GenAI which *supplies* the work does not merely offload thinking but forecloses it — and they locate the risk institutionally, through Bourdieu's field and habitus, rather than in individual willpower. If the argument holds, "use it carefully" is not a sufficient remedy, because the practice is shaped by the field that rewards the output.
+
+**"Non-Western philosophy is content to add to an unchanged frame."** It can be a source of different foundations. One reconstruction treats Daoist concepts — "Dao nature" (道性), self-cultivation (修道) and the "Zhenren" (真人) — not as "Eastern content" appended to a Western framework but as resources that reshape the conceptual foundations through which AI in education is understood. Adding a tradition as illustration and using it to reframe the questions are different scholarly acts.
+
+**"Philosophical critique is unactionable."** It sets what counts as success. Whether a system's output is a learner's achievement, and whether a measured gain is an educational good, are prior questions that no effect size can answer — and institutions that skip them will optimize the measurable and call it improvement.
+
+## Implications for Practice
+
+**For instructors**
+
+- Decide, before you adopt a tool, what you are willing to count as the student's own achievement. If a polished submission produced by the system would satisfy your assessment, you have answered "nothing" — and no later rubric change recovers the question.
+- Treat the foreclosing argument seriously when designing tasks: if GenAI that supplies the work forecloses thinking rather than merely offloading it, then "use it responsibly" is not a sufficient safeguard, because the surrounding field rewards the output. Design tasks whose evidence of thinking is produced before the tool is available.
+- Ask whose conception of learning your course encodes. Adopting a framework uncritically imports its assumptions about what a learner is, and those assumptions are contestable.
+
+**For developers**
+
+- Expose the boundary you have drawn between assistance and supply, and make it a product decision rather than a default. A system that can produce the finished artifact has decided, implicitly, that mental work is optional.
+- Resist optimising for the appearance of learning. Fluency and completeness are the measurable properties, and they are the ones that mask foreclosure.
+- If you claim your system "supports thinking", state what it refuses to do — the refusal is the mechanism.
+
+**For researchers and policymakers**
+
+- State the conception of learning your evaluation presumes, because a measured gain is only an educational good relative to some account of what education is for.
+- Fund the philosophical work alongside the empirical work: questions about what counts as a learner's achievement set the success criteria the empirical studies then use.
 
 ## Connected Concepts
 

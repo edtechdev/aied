@@ -2,7 +2,7 @@
 connected_resources: [clarity, writing-rhetoric-studies-in-the-loop]
 title: Writing
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-24T08:07:00-04:00"
+updated: "2026-10-25T18:05:00-04:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading]
 pedagogy: [metacognition]
@@ -116,6 +116,16 @@ Writing education connects to [[automated-essay-scoring]], [[ai-feedback-quality
 - **Address academic integrity constructively.** Move from policing AI use toward building [[ai-literacy]] and ethical-use framing that lets students use AI without unintentional misconduct.
 
 - **Detection is not an integrity strategy for writing.** [[bassett-ai-detectors-education-2026|Bassett et al. (2026)]] argue detector scores cannot meet the balance-of-probabilities standard integrity cases require and that the human-or-AI dichotomy misreads work created *with* rather than *by* AI, recommending institutions move budget from detection and surveillance toward [[authentic-assessment|assessment design]] and [[ai-literacy]].
+
+## Common Misconceptions
+
+**"AI writing support is just faster writing."** Writing is a cognitive, social and rhetorical process, not merely output, which is why AI can displace the very mental work that makes writing a learning activity. The design guidance that follows is *coaching, not composing*: have the system question and critique outlines while the learner produces the prose. A tool that generates the draft has removed the thinking the assignment existed to develop, however good the draft is.
+
+**"Better writing assessment needs a bigger model."** It needs more samples. In a Grades 3–6 universal-screening study, LLM comparative-judgment scores converged with researcher rubrics at **r = .59–.73**, and averaging the **three** screening waves raised criterion validity to **β = .68–.74** — an improvement from design rather than scale. Reaching for a larger model when the reliability problem is sampling is the wrong lever.
+
+**"AI feedback and peer feedback are substitutes."** They combine. In a 10-week Chinese EFL course, adding ChatGPT feedback *before* peer review lifted behavioural, affective and cognitive engagement (partial η² of **0.28 to 0.32**) and improved writing scores across the board. The sequencing is doing work — the AI pass readied students for the peer pass rather than replacing it.
+
+**"A model can stand in for the teacher's feedback pattern."** It has not done so in the evidence. Tracking one teacher across draft stages found significant movement on **five** feedback focus types — with *Praise* rising from **26.9%** in initial drafts to **84.9%** in final ones — while the closest model moved on three and the smallest on none, and no model replicated the pattern. Teacher feedback reallocates emphasis by draft stage; model feedback tends to hold its distribution. Treating the second as equivalent loses the trajectory.
 
 ## Connected Concepts
 

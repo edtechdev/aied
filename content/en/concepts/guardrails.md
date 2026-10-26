@@ -1,7 +1,7 @@
 ---
 title: Guardrails
 created: "2026-08-25T08:30:00-04:00"
-updated: "2026-10-25T15:20:00-04:00"
+updated: "2026-10-25T19:00:00-04:00"
 type: concept
 technology: [human-in-the-loop-ai, llm, prompt-engineering, rag, reinforcement-learning]
 ethics: [ai-sycophancy, bias-mitigation, pedagogical-safety]
@@ -102,6 +102,16 @@ The two are closely coupled: almost every guardrail technique is a way of achiev
 - Report guardrail evaluations against unassisted outcomes; a guardrail that holds in-session while leaving learning flat is a partial success that practice numbers will misrepresent.
 - Audit for fairness in refusal and support patterns, since an evenly-applied guardrail can still distribute benefit unevenly.
 - Report the classifier threshold used alongside any safety claim, because the reported harm rate is not comparable across thresholds.
+
+## Common Misconceptions
+
+**"A guardrail is a filter you attach to a model."** Guardrails are a layered set of controls spanning prompt design, knowledge grounding, reward shaping, deployment QA and ongoing auditing, and the layers are not interchangeable. A content filter sits on the output; the "hint-not-answer" pattern sits in the prompt and shapes what the system is willing to do at all. In the field RCT the guardrailed version eliminated the learning harm the unguarded version created, which is a property of the interaction design rather than of the filter.
+
+**"If the model does not produce harmful content, the system is safe for learners."** Harm is often quiet. The most damaging tutoring failures are not toxic outputs but tutors that answer correctly and erode learning, or that refuse evenly and entrench inequality — failures a toxicity screen is structurally blind to, because nothing in them is offensive. Passing a content audit is a necessary condition reported as if it were sufficient.
+
+**"Guardrail thresholds are engineering choices to be tuned."** A threshold is a policy decision with a distributional cost. Moving a toxicity cutoff from 0.3 to 0.7 cut labelled prompts from **35.62% to 12.4%**; on a scam detector it traded **15 false alarms and 18 missed scams for 2 and 36**. No cutoff removes the tradeoff — it only decides which error the institution prefers, and that decision belongs to the institution rather than to a default constant.
+
+**"Fairness auditing is a separate concern from guardrail adequacy."** Refusal and support patterns distribute benefit unevenly even when applied evenly, and an average harm rate hides which students absorb it. Auditing has to be part of the guardrail specification, not a study commissioned afterwards.
 
 ## Connected Concepts
 

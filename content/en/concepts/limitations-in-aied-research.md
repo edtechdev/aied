@@ -1,7 +1,7 @@
 ---
 title: Limitations in AIEd Research
 created: "2026-08-15T09:18:04-04:00"
-updated: "2026-10-16T08:47:09-04:00"
+updated: "2026-10-25T18:35:00-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [learning-theories]
@@ -100,6 +100,16 @@ Taken together, these limitations argue for a critical, multi-signal reading of 
 A further, practical limitation is the **challenge of applying research to [[teacher-role|teaching]] and instructional design**. Practitioners — instructors, [[stakeholders|instructional designers]], and faculty developers — often lack the time or specialized expertise to read, appraise, and translate primary research into concrete classroom decisions. The literature is large, fragmented, and written for researchers; findings are reported with statistical and methodological detail that is not immediately actionable; and because claims are provisional (see the speed problem above), a practitioner cannot simply take a single study at face value. This creates a gap between what the evidence supports and what actually reaches [[pedagogy|teaching practice]].
 
 The purpose of this knowledge base is to help close that gap — to make it easier to keep up with, interpret, and apply AI-in-education research to practice — by curating open-access findings into structured, accessible summaries, connecting related work through [[ai-education|concept pages]], and flagging the limitations readers should weigh. It aims to support evidence-informed practice in teaching and instructional design, and in doing so to also surface gaps and questions that can inform new research and development. Understanding the limits of the research is therefore not an end in itself: it is what lets practitioners apply findings appropriately and lets researchers design stronger studies that better serve practice.
+
+## Two Audit Traps Worth Knowing
+
+Two specific reporting practices inflate or distort a synthesis, and both are visible in the published record rather than hypothetical.
+
+**The heterogeneity figure depends on the model, and the model is rarely quoted.** One review's heterogeneity is quoted as **I² = 82.98% under a fixed-effect model and I² = 15.75% under the random-effects model**. Those describe the same data. A reader who lifts a single heterogeneity number without its model has been given a technical claim with no interpretation attached, and the difference between "most variance is unexplained" and "little variance is unexplained" is the difference between discarding and trusting the field.
+
+**The headline percentage can be an artifact of the search terms.** In a scoping review of 195 teacher-education studies, digital competence and [[tpack|TPACK]] were explicit search descriptors while instructional design and assessment had no equivalent, so the reported **46.5% and 1.9%** describe the retrieval strategy before they describe the field. A prevalence claim is only as meaningful as the query that produced the corpus.
+
+**And the base rate is the number nobody states.** Methodological limits here are measurable rather than impressionistic: in a critical review of 80 HCI studies of critical thinking with AI, **42 (52%) ran no control group** and most of the rest relied on self-report. When more than half of a field's positive findings come from designs that cannot separate AI's effect from ordinary activity, the appropriate prior on any single finding is scepticism, not provisional acceptance.
 
 ## Connected Concepts
 

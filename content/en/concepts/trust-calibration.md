@@ -1,7 +1,7 @@
 ---
 title: Trust Calibration
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-10-25T15:55:00-04:00"
+updated: "2026-10-25T19:00:00-04:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading, human-ai-collaboration]
 pedagogy: [metacognition]
@@ -124,6 +124,18 @@ Trust calibration is central to [[ai-literacy]] and sits alongside [[reducing-ai
 
 - Measure appropriate reliance as a behavioural outcome against ground truth, not as a trust score. The two correlate negatively in the one study that measured both.
 - Report recovery rates for initially-wrong participants separately from overall accuracy, because the aggregate hides the below-chance figure that matters most.
+
+## Common Misconceptions
+
+**"More trust means better use of the tool."** Trust and calibration diverge, and the correlation runs the wrong way. Among **432 undergraduates** solving Python problems with accurate and deliberately misleading AI suggestions, greater trust predicted **lower** appropriate reliance (**r = -.42**), and students accepted **86.03%** of the misleading suggestions. Generalised confidence is not the goal; matched confidence is.
+
+**"Under-trusting is the safe default."** Avoiding a capable tool entirely is a calibration failure pointing the other way. Both mismatches cost the learner — one through dependence, the other through forgone capability — which makes "be sceptical" as poor an instruction as "trust it".
+
+**"Calibration can be corrected after the fact."** The lever is protective, not corrective. Participants who began with a wrong judgment recovered the correct decision in only **30.6%** and **24.7%** of trials — below chance for a binary choice. Once a student has committed to the wrong model, correction is unreliable, so the intervention has to land before the commitment rather than after it.
+
+**"Checking is easy, so students who care will do it."** Checking is cheap and rarely performed. In a passive tracking study of **900 US adults**, readers who saw an AI-generated summary clicked a source cited inside it in only **1% of visits**, and clicked any result link about half as often as readers who saw no summary. The summary suppresses verification rather than prompting it, so the check must be built into the task rather than assumed from diligence.
+
+**"Presentation and substance can be separated by a careful reader."** Fluency is what earns unearned trust, which is why calibration is a design problem and not only a learner skill. A system whose interface signals authority will be trusted at that level regardless of instructions to the contrary.
 
 ## Connected Concepts
 

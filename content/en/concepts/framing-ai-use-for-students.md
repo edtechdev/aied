@@ -1,7 +1,7 @@
 ---
 title: Framing AI Use for Students
 created: "2026-08-19T08:05:00-04:00"
-updated: "2026-10-22T09:11:45-04:00"
+updated: "2026-10-25T18:05:00-04:00"
 type: concept
 foundations: [academic-integrity, ai-literacy]
 pedagogy: [collaborative-learning, motivation]
@@ -77,6 +77,16 @@ Students are also framed by the wider media and public discourse around [[ai-edu
 - **Use honest, targeted messages** (e.g., inoculation and fallibility warnings) that build calibrated caution rather than blanket trust or distrust.
 - **Sequence the tool to the phase of learning.** The 30-expert consensus report's central practical claim is an order: acquire ideas first without GenAI, then use it to strengthen and consolidate what has been learned, then prioritize one's own thinking when applying those ideas in new contexts ([[genai-support-threaten-learning-k20-expert-consensus-2026|Kendeou, Greene & Nixon et al., 2026]]). Its advice for students is blunter: short-term performance gains short-cut the learning needed for long-term success.
 - **Sell the purpose.** Connect AI use to durable learning and learner [[agency]], and pair messages with the support that converts intent into take-up.
+
+## Common Misconceptions
+
+**"A clear policy tells students what the rules are, so framing is unnecessary."** Policy text is not framing, and the gap shows in behaviour: most students use generative AI, **many are unsure whether their own use complies**, and they lean on privately accessed tools rather than institutionally provided ones. A student who cannot tell whether they are compliant is not being communicated with, whatever the document says — which is why the page puts "say why, not just what" in its method.
+
+**"Publishing a policy and providing a licensed tool covers the institutional responsibility."** Access and take-up are different outcomes, and this page exists because the second one is where the lever is. Structural [[guardrails]] change the environment automatically, but [[scaffolding]], literacy training and use policies only take hold when students are actually convinced of their point — that is the buy-in dependency the page names.
+
+**"Banning a tool removes the behaviour."** It relocates it to tools you cannot see. Students already prefer privately accessed tools over institutionally provided ones, so a prohibition pushes use out of the only environment where support, logging or guidance is possible. The framing task is to make the permitted behaviour the attractive one, not to make the prohibited behaviour harder to observe.
+
+**"Framing is persuasion, so it is more rhetoric than design."** The framing this page describes is paired with design: expectations stated clearly and repeatedly *while designing around students*. Messaging delivered instead of designed-for is the version that fails, because students read the difference between a stated commitment and an actual one.
 
 ## Connected Concepts
 

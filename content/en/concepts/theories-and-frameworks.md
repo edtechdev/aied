@@ -1,7 +1,7 @@
 ---
 title: Theories and Frameworks
 created: "2026-09-19T05:40:00-04:00"
-updated: "2026-10-23T09:49:58-04:00"
+updated: "2026-10-25T18:35:00-04:00"
 type: concept
 foundations: [ai-education, theory-development-aied, philosophy-of-ai-in-education]
 pedagogy: [learning-theories]
@@ -108,6 +108,16 @@ Frameworks are not evidence. They are usually borrowed from pre-LLM contexts and
 
 
 Mechanism-to-theory alignment can nonetheless be decisive: a thematic synthesis of 55 AI-supported game-based learning studies found effectiveness turned on whether the AI mechanism enacted the pedagogy it was meant to serve rather than on algorithmic sophistication ([[ai-game-based-learning-systematic-review-2026|Kaşarcı and Yurt (2026)]]).
+
+## Common Misconceptions
+
+**"Applying a borrowed theory to an AI tool is using theory."** Much of this field applies borrowed theory rather than testing it, and the difference is whether the framework made a prediction that could have failed. When a study reports a gain under a framework's banner while committing to no falsifiable prediction, nothing has been learned about the framework — an outcome consistent with every theory in the catalog is evidence for none of them.
+
+**"A framework's value is how well it describes a system you have already built."** That is post-hoc labelling. A taxonomy that accommodates any design has no discriminating power, which is why descriptive frameworks should be judged on what they exclude. The evaluation question is not "does my system fit this?" but "what kind of system would this framework say is wrong?"
+
+**"Learning theories, models of the learner, and adoption frameworks are interchangeable lenses."** They answer different questions — how learning happens, what the learner's state is, and why a practice spreads — and their evidence types differ accordingly. Choosing the wrong layer produces a study that measures the right variable against the wrong prediction, which reads as a null result when it is a category error.
+
+**"More frameworks means a more mature field."** Coined-for-the-AI-era frameworks accumulate faster than they are tested, and accumulation without falsification is a symptom rather than progress. Maturity shows up as competing predictions being resolved, not as vocabulary growth.
 
 ## Connected Concepts
 

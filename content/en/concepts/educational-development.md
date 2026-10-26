@@ -2,7 +2,7 @@
 connected_resources: [education-agent-skills, fpds-apps-and-resources]
 title: Educational Development
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-22T09:11:45-04:00"
+updated: "2026-10-25T17:35:00-04:00"
 connected_faqs: [ai-save-instructor-time, faculty-ai-competencies, faculty-development-ai]
 type: concept
 foundations: [ai-literacy, curriculum-design, learning-design, teacher-role, teacher-ai-competency]
@@ -101,6 +101,16 @@ Confidence and literacy are not interchangeable targets: in a 502-respondent SEM
 **Benchmark against what faculty themselves report.** [[watson-rainie-ai-challenge-faculty-survey-2026|Watson & Rainie (2026)]]'s survey of 1,057 US faculty finds the institutional layer thin in ways program designers can measure directly: 59% judged their school unprepared to use generative AI effectively for preparing students for the future and 68% said it had not prepared faculty to use it for teaching and mentoring, while the structural response ran to a task force in 55% of institutions but an AI literacy general education outcome in only 13%. Faculty had not waited for policy — 87% wrote their own assignment-level rules against 48% who could point to an institutional one — and they named colleagues' resistance (82%) and unfamiliarity (83%), not mandate, as the obstacles to departmental adoption. For development programs this argues for treating peer norms, shared assignment-level policy language and explicit measures of institutional readiness as part of the intervention rather than leaving them to the policy document.
 
 **Instructor response reflects power centers, not attitude.** In an instrumental case study of 33 writing instructors, four polycentric power centers — the global GenAI trend, the university/department, colleagues, and students — shaped practice, and adjuncts constrained by limited discourse power shifted from detection toward teaching acceptable use ([[zuo-instructor-power-genai-writing-2026|Zuo et al. (2026)]]).
+
+## Common Misconceptions
+
+**"A skills workshop is the intervention educational development needs."** Readiness is a sociotechnical alignment problem, not an individual deficit, which is why a standalone "AI workshop" falls short of the need it addresses. A programme that worked the question directly was a **six-week summer institute** taking ten faculty from Education, Health Sciences, Business and other programmes through identity-level work. Duration and cohort are not incidental to that design; they are what distinguishes it from a feature tour.
+
+**"Clearer institutional guidelines will resolve faculty unease."** Guidelines help and they do not reach the problem. Only **31.2%** of academic staff at a Maltese university perceived clear institutional guidelines, and the correlation between guideline clarity and lower guilt was **weak (r = −.25, p = .010)**. A weak relationship at that scale means top-down mandates cannot settle what the paper reads as a partly emotional and identity-based problem — the fifth of the variance they explain is not the fifth that matters.
+
+**"Guilt about AI use indicates rule-breaking."** It tracks concealment rather than disclosure: limiting AI use because of unease correlated with hiding it, not with prohibited behaviour. Reading guilt as evidence of misconduct therefore misidentifies its source, and treating it as a compliance signal will push the behaviour further out of view.
+
+**"A low survey response rate means faculty have no strong feelings."** The paper reads its **109 responses (a 3.5% rate)** as itself informative about the state of ethical debate — a low response to a question about discomfort is a finding about that discomfort, not an absence of one. And a GenAI integration framed purely as upskilling misses the identity question some faculty are actually asking: what the point of teaching is in a GenAI world.
 
 ## Connected Concepts
 

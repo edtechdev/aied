@@ -2,7 +2,7 @@
 connected_resources: [mglearn]
 title: Inclusive Learning
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-03T02:57:43-04:00"
+updated: "2026-10-25T17:35:00-04:00"
 type: concept
 foundations: [ai-education, learning-design]
 ethics: [equity-in-ai-education, inclusive-learning, neurodiversity, universal-design-for-learning]
@@ -78,6 +78,16 @@ Inclusive learning is deeply connected to [[equity-in-ai-education]] — accessi
 - **Treat the security/accessibility trade-off explicitly.** [[behaviorally-adaptive-visual-diversion-assessment-2026|BAVD]] models how anti-cheating measures can inadvertently exclude learners with visual-processing needs — weigh integrity against access.
 - **Access can turn on phrasing, not just format.** With the underlying task held fixed, model accuracy rose from 82.4% for low-literacy wording to 83.4% for expert phrasing, so requiring students to prompt better adds a new exclusion; a system-side rewriter that normalizes requests removed the significant gap without altering content ([[prompt-privilege-equitable-ai-access-2026|Jin et al. (2026)]]).
 - **Guard against AI reproducing exclusion.** [[genai-minoritized-knowledges-disability|Disability-centered critique]] warns that Anglophone, Western-centric training data marginalizes disabled ways of knowing — audit AI tools for epistemic justice alongside [[equity-in-ai-education]].
+
+## Common Misconceptions
+
+**"An accessible tool is an inclusive course."** Accessibility answers one question — can everyone perceive and operate the format — which is necessary and nowhere near sufficient. [[inclusive-learning|Inclusive learning]] also asks what tools bridge an individual's [[digital-divide|access gap]] and how the design should anticipate variation rather than retrofit for it. A screen-reader-compatible interface in a course whose assessment structure assumes a quiet room, reliable broadband and uninterrupted time has solved the display problem and left the participation problem intact.
+
+**"Supplying assistive technology supplies agency."** The two are distinct, and the page's own framing says so: assistive tech does not guarantee meaningful agency. A tool that lets a learner complete the required task can also route them toward the narrowest version of it, and the difference between a scaffold and a ceiling is invisible in an adoption metric.
+
+**"Students who struggle should simply learn to prompt better."** That converts a system defect into a learner deficit. With the underlying task held fixed, model accuracy rose only from **82.4% for low-literacy wording to 83.4% for expert phrasing** — a one-point difference — while requiring better prompting adds a new exclusion on top of the existing one. The leverage is in the system-side handling of language variation, not in remedial prompt training.
+
+**"A tool built for well-resourced classrooms will serve low-resource contexts once translated."** Context changes the design constraint. [[suacode-african-students-motivations|SuaCode]] reached students in low-resource African contexts where **fewer than 1% have coding skills** by building for smartphones rather than desktop lab machines, which is a different design, not a smaller version of the same one.
 
 ## Connected Concepts
 

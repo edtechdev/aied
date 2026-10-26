@@ -1,7 +1,7 @@
 ---
 title: Math Education
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-23T09:20:00-04:00"
+updated: "2026-10-25T18:05:00-04:00"
 type: concept
 pedagogy: [scaffolding]
 technology: [generative-ai, intelligent-tutoring]
@@ -82,6 +82,16 @@ Math education sits within the broader [[stem-education]] domain with distinctiv
 - **Beware surface-format fragility in AI scoring.** [[representation-robustness-llm-math-problem-solving|Representation sensitivity]] means equivalent problems can flip AI answers — a validity risk for AI-based math assessment; prefer [[human-in-the-loop-ai|human review]] for high-stakes scoring.
 - **Use AI to lower the bar for personalized practice.** [[ai-powered-personalized-learning-elementary-fractions-2026|Adaptive platforms]] improved fraction comprehension for students with math learning difficulties; deploy AI-adaptive tools selectively for learners who need differentiated support.
 - **Keep the teacher in control of AI-generated instructional materials.** [[teacher-control-ai-generation-math-visuals|Teacher control of AI visuals]] supports a framework that balances AI efficiency with pedagogical correctness.
+
+## Common Misconceptions
+
+**"The motivational case for AI in mathematics is as strong as for language."** The pooled evidence is thinner for mathematics and should be read that way: GenAI's effect on learning motivation was largest in language (**g = 0.946**) and moderate in mathematics (**g = 0.711, 95% CI [0.356, 1.066], k = 4**). Four studies and a confidence interval spanning most of the plausible range is a weak basis for a strong claim, and the domain difference is large enough that language findings should not be carried across unexamined.
+
+**"If the homework looks right, the mathematics was done right."** Chatlog traces from **23 linear algebra students** show the prompt mix shifting with the task while **90% of submissions stayed close to the model's output**, and a 153-student proof course found AI-supported homework performance diverging from unassisted assessment. Proximity to the model's output is the measure of having been helped, not of having learned; in a domain with clear right answers, a correct submission is the least diagnostic artifact available.
+
+**"Mathematics is an easy domain for AI because the answers are checkable."** Checkability is what makes mathematics a good testbed, not what makes it safe. Because the final answer is verifiable, a student can validate a solution they did not construct — which is precisely how the subject's reasoning gets bypassed while the grade stays clean. The property that attracts researchers is the property that makes offloading invisible.
+
+**"Item difficulty for mathematics can be assigned by a capable model."** It has to be calibrated against responses. In an item-difficulty study spanning **5,170 K-5 items** calibrated under the Rasch IRT model, model-generated zero-shot difficulty ratings were compared against empirical calibration precisely because stated difficulty and measured difficulty are different quantities.
 
 ## Connected Concepts
 

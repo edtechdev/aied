@@ -2,7 +2,7 @@
 connected_resources: [deeptutor, openmaic]
 title: Intelligent Tutoring
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-25T05:04:43-04:00"
+updated: "2026-10-25T18:35:00-04:00"
 connected_faqs: [ai-agents-support-students-instructors, developing-ai-tutor, training-ai-tutors-to-guide-rather-than-answer, checking-whether-educational-ai-works, making-simulated-students-behave-like-learners]
 type: concept
 pedagogy: [scaffolding]
@@ -151,6 +151,16 @@ Effective tutoring requires continual adaptation: [[zhang-tutormoments-2026|Zhan
 
 
 - **Teachable agents and the classification of disengaged dialogue:** [[rho-disengaged-conversational-behaviors-2026|Rho et al. (2026)]] ran a GPT-4-Turbo teachable agent inside Math Nation (Algebra and Geometry), where students identified which of two worked solutions contained a misconception, justified the correction, and taught the agent — a [[learning-by-teaching]] structure with a separate mentor agent scoring explanation quality. Over 6,933 problems opened and 22,143 interactions logged, they built a six-category conversational-disengagement classifier (human-in-the-loop: 1,682 annotated utterances, fine-tuned LLaMA 3, weighted F1 = 0.910, model-vs-human κ = 0.624) and used it to study 246 middle-school students. The methodological contribution is as important as the finding: when a classifier labels most of the corpus, prevalence results must be stress-tested against the human-annotated subset — and here the headline association (False Answering and Mocking predicting higher post-test) evaporated under exactly that test.
+## Common Misconceptions
+
+**"A stronger model makes a better tutor."** Effectiveness hinges on pedagogical design — [[scaffolding|scaffolding]], feedback quality and the balance of autonomy and guidance — rather than on the underlying model. The clearest demonstration is the Apprentice Tutor College Algebra ITS: supplying GPT-4 with the tutor's *interface structure* and Bayesian [[knowledge-tracing]] skill estimates produced gains that the bare model did not, because the knowledge of how to teach lived in the system around the model.
+
+**"Training pedagogy into a model and prompting pedagogy at it are the same intervention."** They are distinct routes with distinct evidence. LearnLM mixed pedagogical data into Gemini's post-training and was preferred by education experts over GPT-4o (**+31%**), Claude 3.5 Sonnet (**+11%**) and base Gemini. Prompt instructions are a cheap version of that; they do not reproduce a model whose disposition was shaped on pedagogical data.
+
+**"Intelligent tutoring was a pre-LLM technology that LLMs superseded."** The lineage is continuous and the ITS contribution is what the LLM era is still missing. ITS supplied the learner model, the interface constraints and the mastery estimates; modern systems that add an LLM to those components outperform the LLM alone, which makes the older discipline an ingredient rather than a predecessor.
+
+**"An AI tutor is a single kind of thing."** Tutoring spans a spectrum of relational intensity, from hint generation to sustained dialogue, and design conclusions from one point on that spectrum do not transfer to another. The pedagogical design question is therefore always "which kind of tutoring, doing what task" rather than "does AI tutoring work".
+
 ## Connected Concepts
 - [[scaffolding]]
 - [[adaptive-learning]]
