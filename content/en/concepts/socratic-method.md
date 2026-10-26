@@ -2,7 +2,7 @@
 connected_resources: [matt-pocock-skills]
 title: Socratic Method
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-25T05:04:43-04:00"
+updated: "2026-10-26T09:35:00-04:00"
 type: concept
 foundations: [ai-education, critical-thinking]
 pedagogy: [metacognition, scaffolding]
@@ -107,6 +107,11 @@ The Socratic method is closely tied to [[scaffolding]] (providing just enough su
 3. Can Socratic AI be combined with [[becerra-aicofe-feedback-2026|peer feedback]] for social amplification?
 
 - **Withholding answers to provoke reasoning.** [[puech-pedagogical-steering-llm-productive-failure-2025|Puech et al. (2025)]] engineer LLM tutors to follow [[productive-failure|productive failure]] pedagogy by withholding solutions and eliciting multiple attempts — a Socratic-style refusal to give help except when strictly necessary; [[wang-safety-gap-productive-struggle-2026|Wang & Shan (2026)]] recommend Socratic and Adversarial AI architectures that preserve constructive cognitive friction.
+## Common Misconceptions
+
+- **"Socratic questioning is just the absence of answers."** A custom Socratic AI chatbot deployed in a large-enrollment introductory mechanics course (**150 first-year [[stem-education|STEM]] majors**) produced **measurable** gains, and the design is structured questioning — a constrained interaction, not a silent model.
+- **"The effect is downstream of engagement."** [[socratic-nuclear-ai-learning|Socrates went Nuclear (Clin Deffarges, Kosmyna and Maes, 2026)]] is a **randomized EEG study of 50 participants** comparing an unrestricted ChatGPT-style bot against a **Socratic** one, which measures the mechanism rather than inferring it from outcomes.
+- **"Constraints are the problem to be removed."** The strongest causal support for constraint points the other way: in a K-12 review, high-schoolers using a general-purpose chatbot **scored about 17% worse on closed-book finals** than peers using a constrained tool. The unconstrained tool was the harmful condition.
 ## Connected Concepts
 
 - [[pedagogical-patterns]] — The questioning sequence and its conflicting trial evidence

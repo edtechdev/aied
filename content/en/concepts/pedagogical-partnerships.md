@@ -1,7 +1,7 @@
 ---
 title: "Pedagogical Partnerships"
 created: "2026-08-31T09:45:00-04:00"
-updated: "2026-10-22T09:11:45-04:00"
+updated: "2026-10-26T09:35:00-04:00"
 type: concept
 foundations: [agency, curriculum-design, learning-design, teacher-role]
 pedagogy: [collaborative-learning, pedagogical-partnerships, pedagogy, student-engagement]
@@ -89,6 +89,11 @@ For educators and institutions seeking to adopt pedagogical partnership, the kno
 4. **In the AI era, invite students in rather than policing them.** Co-designing AI policy, tools, and assessment with students is both more equitable and more effective than deficit-based responses.
 5. **Consider equity of participation.** Whole-class partnership offers the broadest participation; selective programs must attend to which students are invited and included.
 
+## Common Misconceptions
+
+- **"Partnership means elevating student voice."** A pedagogical partnership is a **bounded, negotiated relation** with defined roles and reciprocal obligation, not consultation. Voice without a role, a remit and a share of the decision changes nothing structural.
+- **"Partnership is a stance one can adopt."** It requires institutional conditions — time, recognition for the student partner, and a change the partners can genuinely affect. Declared partnership without those conditions reproduces the hierarchy it claims to interrupt.
+- **"Power-sharing cannot be faculty development."** The claim of the literature is that partnership is development *because* it changes the educator's understanding through the relation. Framing it as student benefit only discards the mechanism.
 ## Connected Concepts
 - [[pedagogy]] — Pedagogies and teaching strategies
 - [[collaborative-learning]]

@@ -1,7 +1,7 @@
 ---
 title: Large Language Models (LLMs)
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-22T09:11:45-04:00"
+updated: "2026-10-26T09:35:00-04:00"
 type: concept
 connected_faqs: [making-ai-better-at-supporting-learning]
 foundations: [ai-literacy]
@@ -53,6 +53,11 @@ A complementary line of work reframes LLMs from static graders into emulators of
 
 LLMs also affirm preferentially: across 11 models, AI responses affirmed users 49% more than human responses, and more sycophantic replies drew higher ratings, raising trust and continued use — a failure mode for coaching, tutoring or feedback, where constructive challenge is the point ([[ai-personal-coach-review-benefits-risks-2026|Potel & Kumashiro (2026)]]).
 
+## Common Misconceptions
+
+- **"The model's raw capability determines how well it can diagnose errors."** **Grounding** does: [[reddig-maclellan-personalized-feedback-llm-2026|Reddig, Arora and MacLellan (2025)]] showed supplying GPT-4 the tutor interface **substantially changed** its error diagnosis. What the model is given about the learner's context does more work than which model it is.
+- **"Any frontier model behaves the same as a learning partner."** [[oppenheimer-llms-collaborative-learning-partners-2026|Oppenheimer, Cash and Connell Pensky (2025)]] studied **three frontier families** — ChatGPT, Gemini and Claude — in a classroom comparison, precisely because the families are not interchangeable as collaborators.
+- **"Better models mean less scaffolding needed."** GPT-4 **scaffolded with a semantically precise, iteratively co-refined rubric** could approximate human [[evaluative-judgment|evaluative judgment]] in [[design-based-research|design-based research]]. The approximation came from the rubric refined over iterations, not from the model alone.
 ## Connected Concepts
 
 - [[generative-ai]]

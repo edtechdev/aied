@@ -1,7 +1,7 @@
 ---
 title: Pedagogies and Teaching Strategies
 created: "2026-08-19T17:45:00-04:00"
-updated: "2026-10-16T08:47:09-04:00"
+updated: "2026-10-26T09:35:00-04:00"
 connected_faqs: [designing-ai-into-learning]
 type: concept
 foundations: [ai-education, learning-design]
@@ -80,6 +80,11 @@ That emphasis on preserved effort is not absolute: a four-study [[mixed-methods-
 - **Design AI to enact good pedagogy:** AI agents and tutors should be grounded in established instructional frameworks, not default answer-generation.
 - **Teach with and about AI:** pedagogies should both use AI to teach and teach learners how to use AI responsibly.
 
+## Common Misconceptions
+
+- **"Technical AI knowledge is what teachers need most."** Across **46 teachers and 2,832 students**, **teacher pedagogical AI knowledge** predicted students' perceptions of AI for social good. Pedagogical knowledge outperformed technical knowledge, which inverts where most training investment goes.
+- **"AI's main contribution in education is instructional."** A **PRISMA review of 28 studies** found AI most often enhanced **instructional planning and assessment design** — the clearest contribution is **offloading administrative work**, not teaching. A case built around instructional gains is building on the weaker branch of the evidence.
+- **"AI literacy instruction transfers automatically to better teaching."** A three-level meta-analysis of **59 studies (172 effect sizes)** found **knowledge-focused interventions (g ≈ .97)** clearly outperformed other approaches at moving knowledge. Moving knowledge is the measured outcome; whether it reached practice is the next question.
 ## Connected Concepts
 - [[pedagogical-partnerships]] — Pedagogical Partnerships
 - [[online-teaching-and-learning]] — Online Teaching and Learning

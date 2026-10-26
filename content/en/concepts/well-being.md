@@ -1,7 +1,7 @@
 ---
 title: Well-Being
 created: "2026-08-13T18:30:57-04:00"
-updated: "2026-10-23T09:49:58-04:00"
+updated: "2026-10-26T09:35:00-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [motivation, social-emotional-learning]
@@ -75,6 +75,11 @@ Well-being connects to [[student-experience]] (as a dimension of learners' overa
 
 Emotional support and connection can move in opposite directions inside one sample. Among 819 Saudi higher-education students, satisfaction with chatbots averaged 4.29 and their experience of the tools 4.19, while concern that chatbots diminish human connection was the highest-rated construct at 4.36 ([[ai-chatbots-emotional-support-human-connection-2025|Al-Zahrani (2025)]]). That concern rose with experience rather than falling with satisfaction (standardized coefficients of .64 against .11).
 
+## Common Misconceptions
+
+- **"Student approval indicates well-being is being supported."** Among **551 first-year students**, **82.76% approved the integration** of digital and intelligent content — and **high approval coexisted with strain, while AI task pressure weakened the benefit**. Approval and strain rise together, so satisfaction surveys mislead here specifically.
+- **"Welfare support is culturally neutral."** [[culturally-aware-student-stress-chatbot-2026|Bashir and Afzal (2026)]] describe Sukoon, a hybrid well-being support tool, as **culturally situated** — and the page's own framing notes its limits. A support design that assumes a universal student misreads the population.
+- **"Task pressure is separate from technology."** The finding is that AI **task pressure** weakened the benefit of the integration, which places workload inside the technology's effects rather than beside them.
 ## Connected Concepts
 - [[learners]] — Learners: the umbrella for the learner-side concepts
 - [[anxiety-and-stress]]

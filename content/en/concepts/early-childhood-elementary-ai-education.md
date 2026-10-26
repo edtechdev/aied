@@ -1,7 +1,7 @@
 ---
 title: Early Childhood Education
 created: "2026-08-25T13:30:00-04:00"
-updated: "2026-10-23T09:20:00-04:00"
+updated: "2026-10-26T09:35:00-04:00"
 type: concept
 foundations: [ai-education, ai-literacy, computational-thinking]
 pedagogy: [well-being]
@@ -59,6 +59,11 @@ A four-country comparison sharpens the curriculum gap: Japan, South Korea and Ch
 
 A first neuroimaging window on this question arrives with a caution: 6–7-year-olds holding a five-minute spoken conversation with ChatGPT in an MRI scanner showed weaker within-network connectivity than adults in the frontoparietal control, salience and dorsal attention networks, at matched creativity scores, and lacked the creativity–connectivity coupling adults showed. Because those executive functions are still immature at first grade, the authors read the result as relevant to the minimum-age debate — while flagging a framing confound and the absence of a no-ChatGPT control as limits on what it settles ([[horowitz-kraus-children-chatgpt-cognitive-control-2026|Horowitz-Kraus et al. (2026)]]).
 
+## Common Misconceptions
+
+- **"Teachers will use AI to generate whole lessons."** Teachers delegated most often (**60%**) **to fill content gaps in a self-outlined lesson** rather than to generate whole plans. The unit of delegation is the gap, not the lesson.
+- **"Young children gain less from AI-supported media literacy."** The AI-supported group showed **large gains in media reading (+3.50), writing (+1.67) and total media literacy (+5.17, all p < .01)** with between-group effect sizes d = 1.12 or higher. The gains were large in this age band, not marginal.
+- **"Automated observation agrees with human raters across the board."** Agreement was **moderate overall (weighted κ = 0.681) but conditional on the construct**: convergence held for the **Emotional Support** domain and for **Quality of Feedback**, and not elsewhere. Averaging over the domains hides where the instrument fails.
 ## Connected Concepts
 
 - [[k-12]]

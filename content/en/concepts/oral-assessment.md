@@ -1,7 +1,7 @@
 ---
 title: Oral Assessment
 created: "2026-09-23T08:35:38-04:00"
-updated: "2026-10-23T09:49:58-04:00"
+updated: "2026-10-26T09:35:00-04:00"
 connected_faqs: [redesign-assessment-ai-era, ai-feedback-at-scale]
 type: concept
 connected_resources: [code-viva]
@@ -78,6 +78,11 @@ The oral's integrity rationale is also time-limited: [[corbin-ai-glasses-wearabl
 
 - **The scale ceiling is the design constraint.** In a workshop with 73 [[cs-education|computing]] educators, oral and interactive assessment was reported as the strongest available evidence of individual understanding and the least scalable remedy; the mitigations participants described were distribution and sampling - shared teaching-assistant pools, peer assessment weighted below a final exam, and calling on a rotating subset of students ([[computing-assessment-genai-workshop-report-2026|Akbar et al., 2026]]).
 
+## Common Misconceptions
+
+- **"Oral assessment cannot scale."** In [[code-review-genai-cs1|the CS1 oral code-review study]], **weekly fifteen-minute interviews carried seventy per cent of each assignment's grade**, and pasted-to-total characters still remained informative. The cost is real and the design is implementable at course scale.
+- **"Oral exams are softer than written ones."** In the reported pilot, scores **exceeded those of in-person multiple-choice tests: midterm median 92.5 against 70 (p < .001) and final median 94.2 against 86.4 (p = .002)**. Oral assessment was not the lenient option.
+- **"A simulated encounter is equivalent to progressive-disclosure cases."** In [[ai-standardized-patient-scaffolding-medical-2026|an RCT with one hundred third-year medical students]] the simulated-patient system was compared **against progressive-disclosure case materials** — a direct test of equivalence rather than an assumption of it.
 ## Connected Concepts
 
 - [[pedagogical-patterns]] — Oral and viva verification sequences, and what they do and do not demonstrate

@@ -1,7 +1,7 @@
 ---
 title: Change Management
 created: "2026-08-29T12:55:12-04:00"
-updated: "2026-10-25T08:45:00-04:00"
+updated: "2026-10-26T09:35:00-04:00"
 type: concept
 foundations: [ai-education]
 connected_faqs: [institutional-ai-policy, faculty-development-ai]
@@ -61,6 +61,11 @@ Course redesign carries a cost institutions should budget, not assume: adopting 
 
 Change management is the institutional complement to classroom-level integration. It operationalizes the systemic conditions — governance, faculty development, stakeholder [[student-engagement|engagement]], and equity safeguards — that allow pedagogical innovation to take hold, connecting [[educational-policy-ai]] policy design to [[governance]], [[educational-development]], and [[equity-in-ai-education]] outcomes.
 
+## Common Misconceptions
+
+- **"Strategic intent creates capacity."** Only **7% of institutions** have created senior AI leadership roles despite **49% viewing AI as a strategic priority**. The gap is between declaration and structure, and it is the recurring failure of AI change management.
+- **"Adopting an AI tool is an event."** **Sustainability is a property of the organisation, not the tool** — a four-year randomised evaluation of a non-generative AI text-messaging chatbot at California State University, Northridge illustrates the timescale. The evaluation ran four years because durability is what needed testing.
+- **"Institutions need to react faster, not anticipate."** **Anticipatory leadership** is the complementary thread: the [[baroudi-anticipatory-governance-ai-higher-ed-2026|scoping review]] finds institutions must shift from **reactive to foresight**-based governance. Reacting competently to a technology that has already arrived is what the evidence documents failing.
 ## Connected Concepts
 
 - [[governance]] — the policy and oversight structures change management operationalizes

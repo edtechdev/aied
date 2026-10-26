@@ -1,7 +1,7 @@
 ---
 title: "Latent Profile Analysis"
 created: "2026-09-20T12:39:59-04:00"
-updated: "2026-10-22T09:11:45-04:00"
+updated: "2026-10-26T09:35:00-04:00"
 type: concept
 methods: [quantitative-research, research-methods-aied]
 confidence: high
@@ -77,6 +77,11 @@ Four cautions, each stated in the source pages:
 3. **Report retention evidence in full.** Publish BIC/AIC comparisons, entropy, profile sizes, and a stability check, and say plainly when a class count is exploratory.
 4. **Treat profiles as diagnostics, not labels.** A profile is a research construct with an estimated boundary, so a tool that assigns individuals to named categories carries the caution of any [[educational-measurement|measurement]] instrument — and [[differential-effects-across-learner-groups|differential effects across learner groups]] warrant the scrutiny of any subgroup analysis.
 
+## Common Misconceptions
+
+- **"Latent profile analysis discovers groups that exist."** LPA converts learner diversity from a rhetorical claim into a measurable finding, and the profiles are a **model of a continuum divided at chosen boundaries**, not natural kinds. The number of profiles is an analytic decision.
+- **"Any member of the latent-variable family is fine."** Which one you use **follows the indicators**: **LCA for categorical indicators**, LPA for continuous. Choosing the method first and the indicators second makes the result an artifact of the choice.
+- **"Profiles are comparable across studies."** Chen and colleagues profiled **128 Taiwanese pre-service teachers** on five [[technology-acceptance-model|TAM]]/UTAUT2 constructs, while Acquah and colleagues profiled **509 Ghanaian undergraduates**. Different indicators in different populations do not produce commensurable profile labels.
 ## Connected Concepts
 
 - [[quantitative-research]]
