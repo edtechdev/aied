@@ -1,7 +1,7 @@
 ---
 title: Experiential Learning
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-09-30T09:59:35-04:00"
+updated: "2026-10-25T21:50:00-04:00"
 type: concept
 pedagogy: [active-learning, embodied-learning, experiential-learning, project-based-learning]
 level: [higher ed]
@@ -48,6 +48,16 @@ educative. Consistent with this, [[prompt-engineering|prompting]] alone did not 
 Experiential learning connects to [[active-learning]], [[project-based-learning]], [[embodied-learning]], [[simulation]], [[educational-robotics]], and [[higher-ed]] professional preparation.
 
 Work-integrated experience can be the binding condition for advanced competence: across 89 sponsored capstone projects in a smart-manufacturing lab, advancement from Workforce Readiness Level 6 to 7 was gated by industry-embedded placements rather than additional coursework ([[workforce-readiness-smart-manufacturing-wrl-2026|Smith et al. (2026)]]).
+
+## Common Misconceptions
+
+**"Experiential learning means hands-on activity."** Activity is the surface; the learning mechanism is the cycle of doing, reflecting, conceptualising and testing. A lab session with no structured reflection produces familiarity rather than conceptual change, which is why "we added a practical component" is not evidence of experiential learning.
+
+**"AI can substitute for the experience in experiential learning."** It can simulate some systems and cannot supply the experience that forms competence in applied domains such as AI, cybersecurity and robotics, where students develop skill by working with the real tools and systems. A simulated security environment teaches procedure; a working system teaches the consequence of a misconfiguration.
+
+**"More authentic tasks are straightforwardly better."** Authenticity raises the transfer value and the assessment problem together: real systems produce variable, hard-to-grade evidence, and the more authentic the task the less the outcome resembles a score. Design has to hold both, which is why the reflection structure carries as much weight as the task.
+
+**"AI tutoring fits experiential learning as it fits lecture content."** The fit is weaker, because a tutor can supply explanation and cannot supply the encounter with the system. Its natural place in this pedagogy is around the reflection and conceptualisation stages, where a learner is making sense of what happened — not in place of the doing.
 
 ## Connected Concepts
 - [[active-learning]]

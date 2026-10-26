@@ -1,7 +1,7 @@
 ---
 title: Design-Based Research
 created: "2026-08-24T02:30:00-04:00"
-updated: "2026-09-30T07:37:28-04:00"
+updated: "2026-10-25T21:50:00-04:00"
 type: concept
 research_method: [literature review]
 confidence: high
@@ -58,6 +58,16 @@ DBR trades the causal control of [[rct|experiments]] for ecological authenticity
 ## Relationship to other methods
 
 DBR is the signature method of the [[learning-sciences|learning sciences]] — the interdisciplinary field that studies learning and the design of learning environments, and that treats building an intervention and studying it as a single activity rather than two. It is complementary to, not a rival of, other research methods (see [[research-methods-aied]] for the full landscape). Where [[rct|experiments]] establish causality and [[quantitative-research|surveys]] establish breadth, DBR establishes *feasibility and design knowledge* — whether an intervention can be built to work in authentic practice and what design principles support it. It frequently pairs with [[usability-research|usability evaluation]] (to refine the interface) and [[qualitative-research|qualitative methods]] (to understand how learners experience the intervention). A mature DBR program typically culminates in an [[rct|efficacy trial]] or [[educational-measurement|measurement]] study that tests the developed intervention's causal effects at scale.
+
+## Common Misconceptions
+
+**"Design-based research is a qualitative method."** DBR is a *design* tradition, not a data tradition: it does not fit the quantitative/qualitative/experimental contrast at all, because its unit of work is the iterated artefact rather than a single measurement plan. Studies within DBR can be quantitative, qualitative or experimental; what makes them DBR is that the design is being revised as the finding is produced.
+
+**"Iterative refinement makes the design immune to the confound other methods suffer."** Iteration trades one threat for another. Refining a design mid-study means the final version differs from the one that produced the early evidence, so a claim about "the intervention" spans several interventions. Reporting which revision produced which outcome is the discipline's responsibility, and it is frequently left implicit.
+
+**"Because DBR produces a working artefact, it has demonstrated effectiveness."** A design that works in the site that co-produced it has demonstrated local viability, which is a different claim from effectiveness. The artefact carries the adaptations made for that context, and transferring it transfers assumptions that were never stated as assumptions.
+
+**"Treating an instrument as a revisable design artefact is a departure from DBR."** It is DBR's iterative character applied to the measurement rather than the intervention: one study in this corpus treated the rubric itself as the artefact, cycling through co-refinement with an [[llm|LLM]]. That extension is worth noting because it makes the instrument's own development part of the evidence.
 
 ## Connected Concepts
 

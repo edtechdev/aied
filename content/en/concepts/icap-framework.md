@@ -1,7 +1,7 @@
 ---
 title: ICAP Framework
 created: "2026-08-14T04:33:38-04:00"
-updated: "2026-09-30T08:05:25-04:00"
+updated: "2026-10-25T21:50:00-04:00"
 type: concept
 connected_faqs: [designing-ai-into-learning]
 foundations: [learning-design]
@@ -75,6 +75,16 @@ ICAP's emphasis on generative, process-level engagement has been adopted by asse
 2. **Engage learners across modes.** Effective [[ai-literacy|AI literacy]] instruction engages learners at multiple ICAP levels — passive exposure, active manipulation, constructive generation, and interactive dialogue — selecting the mode that fits the learning goal.([[hingle-collaborative-ai-literacy-2025]])
 3. **Measure engagement honestly.** ICAP gives researchers and designers a common vocabulary for distinguishing genuine cognitive engagement from mere activity — a corrective to shallow [[student-engagement]].([[icap-cognitive-engagement-llm-agents]])
 4. **Watch the human–LLM annotation gap.** If automated systems are used to code engagement, their systematic shortfall relative to trained humans must be accounted for.([[icap-cognitive-engagement-llm-agents]])
+
+## Common Misconceptions
+
+**"ICAP is a taxonomy for labelling activities."** It is a design and evaluation lens with an ordering claim: passive, active, constructive and interactive engagement differ in the learning they produce, so "build tools that elicit constructive and interactive engagement rather than passive consumption" is a design target rather than a classification exercise. Labelling a lesson with a mode without changing what students do has not applied the framework.
+
+**"Time on task or interaction volume indexes engagement level."** Volume counts activity, not mode. Scrolling is active and passive in different senses at once, and a student generating many clicks may still be receiving rather than constructing. The framework's value is precisely that it distinguishes kinds of engagement that activity metrics lump together.
+
+**"An AI tutor automatically produces interactive engagement because it converses."** Conversation is the medium rather than the mode. A dialogue where the system supplies every substantive contribution is passive for the learner wearing an interactive interface, which is the same confusion the [[student-engagement|engagement literature]] documents between behavioural activity and cognitive investment.
+
+**"Higher ICAP modes are always better."** They cost more, and the ordering is about learning per unit of the relevant processing rather than about what a lesson should always aim for. Foundational fluency can require active repetition before constructive work is possible; the error is settling there, not passing through.
 
 ## Connected Concepts
 
