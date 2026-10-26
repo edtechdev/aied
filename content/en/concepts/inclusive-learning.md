@@ -81,7 +81,7 @@ Inclusive learning is deeply connected to [[equity-in-ai-education]] — accessi
 
 ## Common Misconceptions
 
-**"An accessible tool is an inclusive course."** Accessibility answers one question — can everyone perceive and operate the format — which is necessary and nowhere near sufficient. [[inclusive-learning|Inclusive learning]] also asks what tools bridge an individual's [[digital-divide|access gap]] and how the design should anticipate variation rather than retrofit for it. A screen-reader-compatible interface in a course whose assessment structure assumes a quiet room, reliable broadband and uninterrupted time has solved the display problem and left the participation problem intact.
+**"An accessible tool is an inclusive course."** Accessibility answers one question — can everyone perceive and operate the format — which is necessary and nowhere near sufficient. Inclusive learning also asks what tools bridge an individual's [[digital-divide|access gap]] and how the design should anticipate variation rather than retrofit for it. A screen-reader-compatible interface in a course whose assessment structure assumes a quiet room, reliable broadband and uninterrupted time has solved the display problem and left the participation problem intact.
 
 **"Supplying assistive technology supplies agency."** The two are distinct, and the page's own framing says so: assistive tech does not guarantee meaningful agency. A tool that lets a learner complete the required task can also route them toward the narrowest version of it, and the difference between a scaffold and a ceiling is invisible in an adoption metric.
 
