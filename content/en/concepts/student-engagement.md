@@ -1,7 +1,7 @@
 ---
 title: Student Engagement
 created: "2026-08-13T05:32:35-04:00"
-updated: "2026-10-23T09:20:00-04:00"
+updated: "2026-10-25T13:40:00-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [motivation, self-regulated-learning, student-engagement]
@@ -101,6 +101,35 @@ Student engagement connects to [[motivation]] and [[self-determination-theory]] 
 
 
 - **Disengagement as a turn-level move, not a stable state:** [[rho-disengaged-conversational-behaviors-2026|Rho et al. (2026)]] coded 5,522 student utterances to an AI teachable agent in Math Nation into six conversational-disengagement categories (False Answering, Mocking, Ghosting, Mirroring, Withholding, Random/Noisy) and found the engagement rate dominated at 75.7% of utterances. The prevalence-based associations of False Answering and Mocking with post-test scores did not survive a human-annotated sensitivity check. The sequential analysis is the engagement-relevant result: the highest-performing cluster combined moderate disengagement with strong recovery-to-engagement transitions (Withholding → Engagement p = 0.83), while the lowest showed persistent self-loops without recovery (Engagement self-loop p = 0.96). Withholding was the one disengagement type that tended to persist rather than resolve — persistence versus repair, not presence versus absence, is the distinction that separates engagement trajectories.
+## Common Misconceptions
+
+**"If engagement went up, learning went up."** This is the single most costly inference in the AI-engagement literature, and the knowledge base contains a clean counterexample. [[domain-specific-chatbot-stem-enthusiasm-2025|Rücker and Becker-Genschow (2025)]] randomized 195 ninth-grade classes to a domain-specific mathematics chatbot or conventional differentiation materials for one lesson on the Heron method. Situational interest rose substantially in the chatbot condition (M = 2.63 vs 2.43, p = 0.00005, Cohen's d = 0.63) and acceptance was high on all four [[technology-acceptance-model|Technology Acceptance Model]] dimensions — yet the pre-post performance comparison found **no significant group-by-time interaction** (F(1194) = 2.84, p = 0.094), and extrinsic cognitive load was slightly higher. Interest and achievement moved on different schedules. An engagement finding is not evidence of [[learning-gains|learning]].
+
+**"Engagement is one thing, and time-on-task measures it."** The construct is multidimensional and its dimensions diverge by design: a student can be behaviorally active — clicking, accumulating time — while cognitively shallow, passively accepting output. [[self-report-measures|Self-report]] and interaction-log measures of the construct are not interchangeable, which is why a claim about "engagement" is uninterpretable until the dimension and the instrument are named.
+
+**"More behavioral activity means deeper engagement."** Often the reverse. Deep cognitive engagement with AI predicts learning, while shallow behavioral engagement predicts the [[cognitive-offloading|over-reliance]] and learning displacement that dominate the risk literature; [[polished-artifacts-fragile-engagement-2026|polished artifacts]] are the canonical case, where a clean output signals activity while the thinking did not happen. Busy interaction logs are compatible with disengagement.
+
+**"AI makes learning more engaging by default."** [[ai-availability-student-motivation|AI availability and motivation]] shows that merely knowing AI is available can reduce the perceived value of effortful engagement, particularly for novice learners. Engagement is shaped by expectancy, value and perceived competence as much as by tool features, and it varies by task, context and learner — one student's deep engagement is another's output-chasing.
+
+## Implications for Practice
+
+**For instructors**
+
+- Choose your outcome measure before your intervention. If the goal is durable learning, measure unassisted performance; interest and satisfaction surveys will not tell you whether the tool worked.
+- Treat a rise in enjoyment with suspicion when cognitive load also rises. In the cluster-randomized example, higher interest came with slightly higher extrinsic load and no achievement effect — pleasant but not obviously productive.
+- Distinguish the student who is working from the student who is watching a polished artifact appear. Ask for the reasoning, not the output.
+
+**For developers**
+
+- Instrument the dimension you claim. Shipping a time-on-task or click metric and calling it engagement conflates behavioral activity with cognitive investment, which is precisely the error the evidence warns about.
+- Expect no transfer between engagement types. Raising situational interest does not imply raising cognitive engagement, so optimizing for interest alone can raise usage while leaving learning flat.
+- Watch for effort devaluation in novices specifically, since availability alone can lower the perceived value of effort.
+
+**For researchers**
+
+- Report the dimension and the instrument, and avoid the bare noun. Given that self-report and logs diverge, "engagement increased" needs its operationalization in the same sentence.
+- Avoid inferring achievement from affect. The cluster-randomized split result is the model for reporting both, including the null.
+
 ## Connected Concepts
 - [[learners]] — Learners: the umbrella for the learner-side concepts
 - [[pedagogical-partnerships]] — Pedagogical Partnerships

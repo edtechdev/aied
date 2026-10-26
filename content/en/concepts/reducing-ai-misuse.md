@@ -1,7 +1,7 @@
 ---
 title: Reducing AI Misuse
 created: "2026-08-12T19:13:02-04:00"
-updated: "2026-09-30T09:53:03-04:00"
+updated: "2026-10-25T14:15:00-04:00"
 connected_faqs: [reduce-ai-cheating, should-we-use-ai-detectors, designing-ai-into-learning, addressing-common-misconceptions-ai-education, course-ai-policy, reducing-over-reliance]
 type: concept
 foundations: [academic-integrity, ai-literacy]
@@ -62,6 +62,35 @@ Educative levers look different again once integrity is treated as a practice to
 **Recognizing [[ai-sycophancy|sycophancy]] to prevent uncritical acceptance.** Because [[ai-sycophancy|sycophantic]] AI validates rather than challenges the user, it is a direct misuse vector: students who receive affirming agreement for incorrect thinking are encouraged to substitute AI for their own [[cognitive-offloading|cognitive work]]. [[contextual-sycophancy-ai-literacy|Contextual sycophancy]] shows AI literacy and prompting training reduce but do not eliminate the error loop, so misuse prevention must pair educative recognition training with system-level corrective-friction design (see Tier 1 guardrails).
 
 - **[[desirable-difficulties|Productive friction]] and pedagogical function.** The Sydney rapid review argues GenAI undermines learning when it lets students bypass the cognitive/metacognitive friction needed to learn, and that purposefully designed tools introduce *productive friction* (withholding answers, prompting explanation). It distinguishes four pedagogical functions — learning *from*, *with*, *about*, or *by shaping* GenAI — each with different demands on agency and assessment.([[young-people-learning-generative-ai-rapid-review-2026]])
+## Common Misconceptions
+
+**"Teaching students about the risks is the main lever against misuse."** It is the lever that depends on the student cooperating, which is why it ranks below the structural ones here. Guardrails and assessment redesign work whether or not a student chooses the right behaviour; educative approaches work only with buy-in. The distinction is not moral but mechanical — a changed environment constrains the behaviour directly, while a changed belief must survive the night before the deadline.
+
+**"If a guardrail holds during the session, the learning is secured."** Holding and teaching are separate outcomes, and the corpus contains a clean double result. Withholding the aggregate position in a [[agentic-ai|multi-agent]] debate cut students' switching to an incorrect AI position from 42–60.5% down to 5.7–8.2% — a large protective effect — yet produced **no learning effect within the session** (β = 0.03, p = 0.18). The rail did its job as a rail and did not become instruction. Designing for misuse prevention is not the same as designing for learning.
+
+**"Detecting misuse and punishing it is a prevention strategy."** Prevention has to cover the grader itself. [[humble-prompt-injection-ai-grading-red-team-2026|Humble's (2026)]] red-team evaluation found that two of five indirect prompt-injection strategies embedded in a submission file raised a failing essay's score. A pipeline that detects student misuse while trusting unexamined submission content is defended on one side only.
+
+**"Misuse is a student-motivation problem."** [[coates-governing-academic-integrity-indicators-2025|Coates, Croucher and Calderon (2025)]] push the binding constraint up a level, treating governance rather than student behaviour as the thing to change and proposing a 130-item integrity indicator framework. And the learning harm is measurable at scale: [[stromberg-generative-ai-learning-penalty-secondary-2026|Strömberg, Lei and Wu (2026)]] found homework outsourcing raised homework scores 18% while *lowering* closed-book exam scores 20% — a design failure that shows up in exactly the gap this page is about.
+
+## Implementation Guidance by Role
+
+**For instructors and course teams**
+
+- Start with the assessment, not the policy text. Ask of every graded task whether the unaided version would show what you intend to certify, and fix the task first — it is the lever that does not require student consent.
+- Adopt hint-not-answer tooling where an AI tutor is available, since the field RCT on guarded versus unguarded tutoring is the strongest causal evidence in the area.
+- Sanity-check that your own grading pipeline resists injected instructions in submitted files before treating student misuse as the only threat.
+- Treat AI-permitted and unassisted performance as two different measurements; the 18%/20% split above is invisible unless you collect both.
+
+**For developers**
+
+- Build the restriction into the interface rather than into a warning. A tutor that can produce the finished answer will, under deadline pressure, produce the finished answer.
+- Do not infer learning from compliance with the guardrail. The debate result shows behaviour held while learning measures stayed flat, so instrument outcomes separately from interactions.
+- Surface misuse signals to instructors as diagnostics rather than as verdicts, since governance framing in the evidence sits above individual student behaviour.
+
+**For administrators and policymakers**
+
+- Put the binding constraint where the evidence puts it. Indicators and governance structures address the environment; exhortation to students addresses the person least able to change institutional design.
+
 ## Connected Concepts
 
 - [[ai-misuse-learning-harm]]

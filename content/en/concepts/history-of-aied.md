@@ -1,7 +1,7 @@
 ---
 title: History of AI in Education
 created: "2026-08-23T13:00:00-04:00"
-updated: "2026-09-03T15:00:00-04:00"
+updated: "2026-10-25T13:10:00-04:00"
 type: concept
 foundations: [agency, ai-education, history-of-aied]
 pedagogy: [constructivist, learning-theories]
@@ -57,6 +57,34 @@ The arrival of [[generative-ai|generative AI]] — a broad family that includes 
 - **See design choices as value choices.** Technical decisions about AI in education embed ideological positions about learning's purpose — surface and interrogate them.
 - **Weigh control against agency deliberately.** Whether AI should optimize toward standard outcomes or enable diverse, learner-directed outcomes is a genuine choice with institutional and political consequences, not a technical given.
 - **Preserve learner agency.** The recurring resistance to standardization and control in favor of open-ended, learner-centered approaches is a durable thread worth defending.
+
+## Common Misconceptions
+
+**"AI in education began with ChatGPT."** It did not, and the belief is costly because it makes every earlier lesson invisible. [[intelligent-tutoring|Intelligent tutoring]] descends from the heuristic-search and expert-systems work of the 1960s and 70s, and the AIED community formed around it decades before [[llm|large language models]]. [[mishra-control-vs-agency-history-2025|Mishra et al.]] show the current debates reproducing a divide already explicit in Anderson's cognitive tutors and Papert's constructionism, so a reader who dates the field to 2022 will re-derive arguments the field settled, abandoned, or lost once before.
+
+**"The field has steadily abandoned AI-as-analogy in favor of applied tools, and generative AI continues that trend."** This is the most instructive correction on the page, because the trajectory is real but not monotonic. [[rismanchian-ai-education-four-decades-aixed-2026|Rismanchian and Doroudi's]] positional analysis of AIED 1985, 1993, 2021 and 2024 and IJAIED 2004, 2014 and 2021 does show a drift from a mixed field toward near-exclusive applied instrumentality by the 2000s. But at AIED 2024, three of the four papers in the AI-as-analogy quadrant were LLM-based, including best-paper work on LLM-based teachable agents. Generative AI partly **reverses** the trend rather than extending it, which is why treating it as "the next intelligent tutor" misreads where the research frontier actually moved.
+
+**"Personalization means adapting the difficulty to each learner."** That is only one of two incompatible senses, and conflating them hides a political choice. In the first sense the outcome is held fixed and only the path varies, the lineage running from Skinner's teaching machines through mastery-based tutoring. In the second the outcomes themselves diversify, as learners pursue individual interests unconstrained by standard curriculum (Zhao, 2024). An [[intelligent-tutoring|ITS]] implements the first; [[constructivist|constructionism]] the second. A tool described as "personalized" has told you nothing until you know which it means.
+
+**"'Artificial intelligence' was simply the obvious name for the field."** The term was a deliberate choice. When McCarthy planned the 1956 Dartmouth project he favored *artificial intelligence* over *cybernetics* partly to distance the work from Wiener's analog feedback tradition. That single decision framed machines in direct comparison to human cognition, and the anthropomorphic framing it installed still shapes research priorities, product language, and the ethical questions the public asks.
+
+## Putting It into Practice
+
+**For instructors and instructional designers**
+
+- Name the tradition your tool belongs to before adopting it. Ask whether it optimizes toward fixed outcomes or opens learner direction, because that answer, not the feature list, determines what it will do to your assessment design.
+- Interrogate the word "personalized" in every vendor claim, and get an answer in terms of the two senses above. A product that varies pacing toward a common standard and one that lets students diverge are not substitutes.
+- When students present GenAI as unprecedented, the history is teachable content in its own right. The Anderson-Papert framing gives them a vocabulary for arguing about AI rather than only using it.
+
+**For developers**
+
+- Interface language is a design decision with a lineage. Calling your system an "AI tutor" inherits Anderson's framing and the expectation of optimizing toward standard outcomes; calling it a "microworld" or "learning environment" inherits Papert's. Neither is neutral, so choose deliberately.
+- If you are building in the analogy tradition (models of learning, teachable agents, simulations of knowledge acquisition), say so. That quadrant was nearly empty for two decades and is repopulating; the positioning is a differentiator and the evaluation criteria are different.
+
+**For researchers**
+
+- Use the historical corpora as a baseline rather than treating the present as the only available comparison. The AIED proceedings for 1985, 1993, 2021 and 2024 and IJAIED for 2004, 2014 and 2021 are a ready-made longitudinal sample of the field's own claims.
+- Cite lineage when you claim novelty. A claim that a system "personalizes learning" or "models the learner" is only novel relative to a specific prior tradition, and the tradition is documented.
 
 ## Connected Concepts
 

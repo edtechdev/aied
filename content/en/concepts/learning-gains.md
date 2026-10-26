@@ -1,7 +1,7 @@
 ---
 title: Learning Gains
 created: "2026-08-09T16:52:03-04:00"
-updated: "2026-10-16T08:47:09-04:00"
+updated: "2026-10-25T13:40:00-04:00"
 type: concept
 assessment: [assessment]
 audience: [learners]
@@ -111,6 +111,36 @@ The learning-gain numbers that dominate this page's efficacy summary — especia
 Learning gains connect to [[assessment-validity]] — if [[assessment|assessments]] fail to capture deeper understanding, learning gain measures are misleading. They also intersect with [[cognitive-offloading|Over-Reliance]] and [[cognitive-offloading]], where apparent performance improvements may mask learning losses, and with [[rct]] (randomized trials as the gold-standard design for detecting causal learning gains), and with [[meta-analysis-systematic-review]] (pooling effect sizes across studies to establish the field's efficacy evidence).
 
 - **Significant pre/post gains from mistake-based AI [[pedagogy]]:** [[pedagogy-ai-mistakes|Hosseini (2026)]]'s database design course (n=13) showed large, significant learning gains on identical pre/post items (mean 4.25→6.83/7, Cohen's *d*=1.49, *p*<.001), with gains uncorrelated with prior AI or database confidence — the AI-integrated critique-refinement design benefited students regardless of initial perceptions.
+
+## Common Misconceptions
+
+**"Scores went up, so the intervention produced learning."** This is the definitional error the page exists to prevent, and the field data show both directions at once: AI use improves scores on AI-assisted homework while *lowering* scores on proctored, closed-book, unassisted measures ([[generative-ai-reduced-study-time-math]]; [[stromberg-generative-ai-learning-penalty-secondary-2026]]). The choice of measure determines whether the inflation is visible, so a gain on an AI-permitted task is a claim about task performance, not about [[genai-performance-vs-learning|learning]].
+
+**"The meta-analysis settles it: the effect is large."** Aggregation direction and aggregation magnitude are different facts, and the magnitude rarely survives scrutiny. [[genai-meta-analysis-programming-learning|The GenAI-in-programming meta-analysis]] finds large *productivity* gains alongside **no significant learning gain** (g ≈ 0). [[burneo-can-edtech-close-learning-gaps-2026|The World Bank meta-analysis]], pooling 191 effect sizes from 14 RCTs, estimates ~0.125 sd for adaptive and AI-enabled EdTech — respectable against the median education RCT, but with **no advantage for generative AI over earlier adaptive tools**. Citing GPT-era studies as a category leap overstates what the pooled evidence shows.
+
+**"More practice and more personalization always help."** Gains are content–treatment interactions, not constants. [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit et al. (2025)]] show the optimal example–problem ratio depends on what is being learned: retrieval practice wins for verbatim facts, example-integrated practice wins for generalizable skills. And [[lak2026-hint-button-unproductive-use|hint-button research]] finds hint volume negatively associated with learning. The same "support" that helps one knowledge component can waste the other.
+
+**"A delayed post-test result is automatically a durable-learning result."** Delay is necessary and not sufficient. What distinguishes durable learning in this corpus is *unassisted* measurement under delayed conditions, together with evidence that the effect is not carried by the scaffold that will be absent at transfer.
+
+## Implications for Practice
+
+**For instructors**
+
+- Separate the grade you give from the claim you make. AI-assisted coursework can fairly assess product quality while telling you nothing about unassisted capability; if you need the second, you must measure it separately.
+- Match practice format to knowledge type. Use retrieval for facts and worked-example alternation for transferable procedures rather than one default for both.
+- Watch hint volume as a diagnostic, not just a support. Rising hint use with flat unassisted performance is the signature of productive-looking dependence.
+
+**For developers**
+
+- Report productivity and learning outcomes as distinct metrics, since the corpus repeatedly finds the first while failing to find the second (g ≈ 0 in the programming meta-analysis). A dashboard conflating them will be read as evidence of learning.
+- Do not assume your system generalizes across knowledge components. The example–problem ratio result implies the optimal schedule is a property of the content, not of the platform.
+- Make hint and scaffold use visible to instructors, because volume is one of the few behavioural signals empirically linked to weaker outcomes.
+
+**For researchers**
+
+- Pre-register the outcome measure and state whether it is AI-permitted or unassisted. The direction of the finding can flip on this choice alone.
+- Report effect sizes against a named comparison, not against "traditional approaches" in the abstract. The World Bank result is only interpretable because it names its comparison class.
+- Distinguish performance inflation from learning displacement explicitly, since the two imply different remedies — task redesign versus re-teaching.
 
 ## Connected Concepts
 
