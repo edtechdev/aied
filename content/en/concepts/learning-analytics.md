@@ -1,7 +1,7 @@
 ---
 title: Learning Analytics
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-24T06:12:00-04:00"
+updated: "2026-10-26T11:40:00-04:00"
 type: concept
 pedagogy: [student-engagement]
 technology: [knowledge-tracing, student-modeling, edtech-platform]
@@ -103,6 +103,11 @@ Process-level instrumentation is the descriptive layer's next step down. [[pulla
 
 - **The learning system wall: log data doesn't generalize across platforms.** MATHia, i-Ready, and IXL each define even basic constructs — an "attempt," a "hint" — differently, so models can't transfer between them. A work-in-progress response attacks the problem from the video side: a Gemini pipeline distills tutoring screen recordings into a single screenplay transcript aligned to native MATHia logs as ground truth. What video recovers that no single stream does: whiteboard [[scaffolding]], silent calculator work in external tools, and off-screen context that native logs reduce to "idleness." Open challenges remain in temporal anchoring, clock drift, and separating platform events from other learning processes. ([[thomas-breaking-learning-system-wall-2026]])
 
+## Common Misconceptions
+
+- **"A knowledge-state estimate inherits its validity from the data."** **The Q-matrix linking items to attributes is an assumption, not data**: rejected entries for **14 of 918 analysed items** means the mapping itself required adjudication. Validating the mapping is a step, not a formality.
+- **"Analytics need clickstream traces."** Knowledge states can be estimated within Outcome-Based Education by **tracing course outcomes directly from LMS interaction and attainment data**, using OBE affinity mappings — the institutional record supplies the signal.
+- **"Prediction without an action window is useful."** Progress prediction is most usable when it is **interpretable and paired with an action window**: [[zhang-ml-student-progress-programming-2026|Zhang, Jeffries and Koprinska (2025)]] predict module-level outcomes, which is a form an advisor can act on, unlike a raw score.
 ## Connected Concepts
 
 - [[explainable-ai]]

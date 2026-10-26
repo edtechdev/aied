@@ -1,7 +1,7 @@
 ---
 title: Formative Assessment
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-10-25T05:04:43-04:00"
+updated: "2026-10-26T11:40:00-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [scaffolding]
@@ -115,6 +115,11 @@ Observability can be designed for without surveillance: it is the evidence an as
 
 - **Continuous assessment reframes the formative record itself.** The AIM-CAI reference architecture (a position paper, not an implementation) proposes replacing episodic assessment as the primary evidence base with a six-layer infrastructure: evidence generation across platforms, serialization preserving source context, AI-mediated semantic translation, psychometric interpretation, longitudinal competency profiles, and federated governance. Its shift table spells out the change: per-assignment feedback becomes longitudinal feedback supporting advising and reflection; grades become evolving competency profiles; credentials become transparent development records. The governance layer is the paper's insistence — seven named tensions (interoperability vs. local autonomy, privacy vs. utility, learner agency vs. predictive automation, surveillance vs. support, etc.) each mapped to risks and responses, with the warning that ungoverned continuous inference privileges dominant cultural norms. The novelty claim is integrative: the components exist; the contribution is the architecture and the governance map. ([[mcnamara-aim-cai-continuous-assessment-2026]])
 
+## Common Misconceptions
+
+- **"Generated practice items give useful formative signal."** **An easy generated item bank gives no formative signal**: in a **10-week deployment about 70% of AI-generated practice items were answered correctly by every student**. A bank everyone passes carries no information about who needs what.
+- **"Item generation reliability is uniform across formats."** AI systems generate formative items across modalities **with reliability varying by type** — multiple-choice among them. Treating generated items as interchangeable across formats hides where generation is dependable.
+- **"Giving students AI feedback produces enactment."** The **enactment problem** is documented separately from feedback quality: receiving feedback and acting on it are distinct steps, and the second is where formative assessment succeeds or fails.
 ## Connected Concepts
 
 - [[pedagogical-patterns]] — The sequenced forms formative assessment takes when AI supplies part of the feedback

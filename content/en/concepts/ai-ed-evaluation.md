@@ -1,7 +1,7 @@
 ---
 title: AI Ed Evaluation
 created: "2026-05-29T10:44:35-04:00"
-updated: "2026-10-23T09:20:00-04:00"
+updated: "2026-10-26T11:40:00-04:00"
 type: concept
 foundations: [agentic-ai, teacher-role]
 technology: [generative-ai, human-in-the-loop-ai, llm]
@@ -102,6 +102,11 @@ Context-conditioned benchmarks are needed: [[zhang-tutormoments-2026|Zhang et al
 - **A bibliometric map can expose what an evaluation culture rewards.** Across 1,403 medical-education publications, the most-cited works measured model capability — above all ChatGPT's performance on licensing examinations — while [[governance]] scholarship lagged, so the authors call for empirical evaluation of governance frameworks rather than more capability tests ([[sriram-ethical-ai-medical-education-bibliometric-2026|Sriram et al. (2026)]]).
 - **Expert-judgment evaluations need their own reliability accounting.** [[bespoke-industry-personalized-lecture-videos-2026|Puech et al. (2026)]] had 25 domain-matched experts rate 92 generated [[video-education|lecture videos]] against a rubric anchored to "a standard MOOC lecture's quality," judging 87% at or above the bar (mean 3.42 of 5). Every video was rated once by one reviewer (k = 1), so the design spreads the panel across the corpus at the cost of an inter-rater agreement statistic; a random-intercept model attributed about 35% of residual variance to the reviewer (ICC = 0.35) and the paper reports reviewer-clustered intervals instead of a single precision figure. An evaluation built on expert judgment is only as strong as the reliability analysis it publishes.
 
+## Common Misconceptions
+
+- **"High scores on teacher exams mean the model is pedagogically competent."** **97 models** were scored on Chilean teacher-exam items (**CDPK 28-89%**), with many exceeding an estimated **~50% human baseline** — yet the **static multiple-choice items cannot** test enacted judgement. Scoring well on the exam is bounded by what the exam measures.
+- **"Recognition and generation are comparable capabilities."** **Recognition is not generation.** On TutorCaseBench, the best of **11 models** picked a documented strategy on **63.0% of four-option items** but satisfied a documented implementation criterion far less often. Selecting the right answer among four and producing it are different tasks.
+- **"Model scores are meaningful without a validated instrument."** Course-tailored exams were generated for **71 classes** and benchmarked against human-authored AP Statistics items with a **Bayesian hierarchical 2PL** model — the instrument was fitted before the scores were interpreted.
 ## Connected Concepts
 
 - [[interpreting-and-applying-aied-research]]

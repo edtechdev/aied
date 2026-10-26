@@ -1,7 +1,7 @@
 ---
 title: Professional Development
 created: "2026-08-16T10:55:19-04:00"
-updated: "2026-10-21T12:05:00-04:00"
+updated: "2026-10-26T11:40:00-04:00"
 type: concept
 foundations: [ai-literacy, teacher-role, tpack]
 connected_faqs: [faculty-development-ai]
@@ -92,6 +92,11 @@ Beyond content and beliefs, teacher preparation increasingly uses **simulated cl
 - **Make classroom policy writing a core teacher-education activity, and treat ambiguity as a policy defect.** [[nash-preservice-teachers-classroom-ai-policies-2026|Nash & Burriss (2026)]] found that asking preservice teachers to write their own classroom AI policies functions as rhetorical world-building about what writing is for — a window into emergent beliefs that abstract discussion does not open. Because AI separates writing-as-product from writing-as-process, programs should help teachers locate where thinking, learning, and value actually live across brainstorming, drafting, revising, and editing rather than locating thinking only in final text, and should support them in translating beliefs into operational, unambiguous rules paired with [[ai-literacy]] instruction: contradictions such as barring AI-generated text while holding students responsible for the AI-generated content they submit leave students unable to comply.
 - **Teach teachers to read the primary research behind AI policy.** A six-week graduate research-methods course aimed at research consumption rather than production: one teacher applied the critical-evaluation framework to a district-mandated curriculum and presented the analysis to her principal, and several adopted Socratic questioning with their own students [[packard-thinking-partner-framework-adult-learners-2026|Packard et al. (2026)]].
 
+## Common Misconceptions
+
+- **"Acceptance of AI among pre-service teachers is a single attitude."** **128 pre-service teachers** were profiled into four ChatGPT-acceptance groups including **Resistant Skeptics (14.06%), who reported high perceived ease of use but very low behavioural** intent. Ease of use and intention came apart in that group, so a usability-driven intervention would leave them unchanged.
+- **"AI helps pre-service teachers mainly with content knowledge."** A **scoping review of 55 studies** finds AI enhances **instructional design, subject instruction and practical teaching** — the design and practice capacities, not the content expertise.
+- **"A scoping review of 55 studies establishes benefit."** It documents what is reported across the field. Breadth of reported enhancement is a claim about the literature's consensus, and 55 studies in a scoping review is not a pooled effect.
 ## Connected Concepts
 
 - [[teacher-role]]

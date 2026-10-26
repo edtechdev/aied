@@ -1,7 +1,7 @@
 ---
 title: Speech and Voice Technologies
 created: "2026-09-16T14:29:36-04:00"
-updated: "2026-10-23T09:14:19-04:00"
+updated: "2026-10-26T11:40:00-04:00"
 type: concept
 technology: [generative-ai, multimodal]
 assessment: [assessment]
@@ -82,6 +82,11 @@ Scope check. This page is about the spoken channel and the technology that carri
 
 Almost every strong claim here rests on one short study. The two TTS lesson studies ran in single Japanese high schools with fixed presentation order that confounded format with content, and their learning-outcome measures were self-reported on in-house scales. The ASR feedback model came from one Chinese university and was cross-sectional, so its proficiency-moderation finding describes covariance rather than causation. The willingness-to-communicate study measured perceptions of feedback, not feedback quality. The interpreting profile study is a 22-participant exploratory analysis in which output-stage effects did not reach significance. The AOA and AkoVoice deployments are single-institution, and AkoVoice reports no [[summative-assessment|summative]] learning evidence because its voice assessments ran in parallel to actual assessments. Kutti AI is a systems contribution with no outcome evaluation at all. What the collection does support is a set of design claims: feedback quality beats practice volume in ASR use, dialogue narration can aid comprehension at the cost of naturalness, format should be matched to learner characteristics rather than fixed, AI should surface evidence rather than replace the human assessor, and speaking in real time measures something writing does not — including an accuracy surprisingly indifferent to how many words the learner uses. Whether any of that holds at another site, another language, or another year is untested.
 
+## Common Misconceptions
+
+- **"Paid speech services outperform free ones."** **The two free services returned near-complete transcripts (87.96% and 88.34% coverage, with word error rates of 15.23% and 15.00%)**, while the two paid services exported only previews, at 32% coverage). Price did not predict utility, and the paid tier gated the output rather than improving it.
+- **"Any language-learning chatbot improves pronunciation."** Across **ten studies**, **only chatbots designed for language learning — Andy English bot and Xiaoying — improved accuracy**, with a **14% error decrease in one control group** comparison. Generic conversational agents did not produce the gain.
+- **"Self-efficacy gains mean skill gains."** The association between the technology and outcomes was positive with **self-efficacy partially mediating it: the indirect path accounted for 69.9% of the total effect while a direct effect remained**. Most of the effect ran through confidence, which is a mechanism and also a caution.
 ## Connected Concepts
 
 - [[language-learning]]

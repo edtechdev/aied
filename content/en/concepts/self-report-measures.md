@@ -1,7 +1,7 @@
 ---
 title: Self-Report Measures
 created: "2026-09-12T11:05:00-04:00"
-updated: "2026-10-23T08:03:41-04:00"
+updated: "2026-10-26T11:40:00-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [self-efficacy, student-engagement]
@@ -137,6 +137,11 @@ The knowledge base's constructive answers are consistent, and none of them requi
 - Treat satisfaction as a design signal, not a learning outcome. High satisfaction plus untested learning is the standard configuration in AI tool evaluation, and this corpus shows the two diverging.
 - Prefer studies that show their working: stated response rates, stated limitations, and at least one source of evidence that does not come from asking.
 
+## Common Misconceptions
+
+- **"Survey evidence is weak but roughly unbiased."** Response structure bounds the estimate before bias: a survey gets **112 responses at a 31% response rate**, or **90 responses from 572 invitations**. The respondent pool is a self-selected subset, so the figure describes that subset.
+- **"Surveys are a minority method in this field."** A scoping review of **394 GenAI higher-education studies** found **survey scales the most frequently reported assessment method (269 studies, 68.3%)**, ahead of tests and quizzes. The field's dominant evidence is self-report.
+- **"Self-report and measured constructs agree."** **Self-reported cognitive load did not differ significantly across offloading profiles that ranged from 80% to 2% in essay authorship**, while the heaviest offloaders differed measurably. The subjective measure was flat where behaviour varied by a factor of forty.
 ## Connected Concepts
 
 - [[interpreting-and-applying-aied-research]]

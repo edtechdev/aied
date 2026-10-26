@@ -2,7 +2,7 @@
 connected_resources: [liascript, code-viva]
 title: CS Education
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-24T08:54:00-04:00"
+updated: "2026-10-26T11:40:00-04:00"
 type: concept
 foundations: [ai-literacy, computational-thinking]
 technology: [generative-ai, llm, prompt-engineering]
@@ -120,6 +120,11 @@ CS education connects to [[computational-thinking]], [[stem-education]], [[autom
 
 - **LLM-adaptive explanations of programming errors (2026):** A crowdsourced study (N=103) found LLM-rewritten error messages improve readability, but objective debugging performance depends on matching explanation style (pragmatic vs contingent) to programmer skill — a scaffolding insight for AI-assisted programming education ([[llm-adaptive-programming-error-explanations-2026]]).
 
+## Common Misconceptions
+
+- **"Students pair-programming with AI are learning to program."** In student-AI co-programming, **nearly 80% of interactions relied on non-learning strategies like outsourcing answers**, and only **about 1 in 9 showed deep epistemic** engagement. The dominant pattern is transacting for output.
+- **"Conversational agents for novices are grounded in learning theory."** **Only 4 of 23 studies ground design in [[learning-theories|learning theory]]**, so most of the evidence base documents what a system did without a theory of why it should work.
+- **"The tooling literature reflects the field's global distribution."** **17 of 23 prototypes are English-only despite most research originating outside** English-speaking contexts. The prototypes serve a narrower population than the research does.
 ## Connected Concepts
 
 - [[computational-thinking]]
