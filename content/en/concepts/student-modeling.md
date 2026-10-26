@@ -1,7 +1,7 @@
 ---
 title: "Learner Modeling and Adaptive Instruction"
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-22T09:11:45-04:00"
+updated: "2026-10-26T10:50:00-04:00"
 type: concept
 connected_faqs: [making-simulated-students-behave-like-learners]
 technology: [adaptive-learning, cognitive-diagnosis, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, personalized-learning, simulating-students, student-modeling]
@@ -101,6 +101,11 @@ A black-box estimator can also be distilled into a small self-explaining model: 
 
 Learner modeling and adaptive instruction feed into [[learning-analytics]] ([[visualization|dashboards]] and interventions), [[formative-assessment]] (analytics-driven assessment), and [[feedback]] (what the system tells the learner). It connects to [[ai-education]] as a core strand of AI for education.
 
+## Common Misconceptions
+
+- **"A faithful model needs the most complex method."** [[zhang-ml-student-progress-programming-2026|Zhang, Jeffries and Koprinska (2025)]] illustrate that **faithful representation does not require the most complex** approach. Complexity is not a proxy for fidelity, and a simpler model that captures the relevant structure can be the better instrument.
+- **"Learner models need trace data."** A predictive learner model can rest on **the structure of enrollment** rather than trace data: TRACE encodes each semester as an **unordered basket of courses** and predicts from that. The predictive signal can live in the institution's administrative record.
+- **"Affective state requires physiological sensing."** A math tutor **inferred emotion from conversational text and facial expression** and mapped the aggregated state to tutoring decisions. The affect signal was recoverable from what learners were already producing.
 ## Connected Concepts
 
 - [[learners]] — Learners: the umbrella for the learner-side concepts

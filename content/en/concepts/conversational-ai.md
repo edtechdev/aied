@@ -1,7 +1,7 @@
 ---
 title: Conversational AI
 created: "2026-08-22T04:44:37-04:00"
-updated: "2026-10-18T10:07:01-04:00"
+updated: "2026-10-26T10:50:00-04:00"
 type: concept
 foundations: [ai-literacy, human-ai-collaboration]
 technology: [conversational-ai, generative-ai, intelligent-tutoring, llm, pedagogical-agent]
@@ -75,6 +75,11 @@ Choose conversational agents to support teaching, [[motivation]], and [[metacogn
 
 
 - **How students actually talk to conversational agents — a six-category disengagement scheme:** [[rho-disengaged-conversational-behaviors-2026|Rho et al. (2026)]] embedded a GPT-4-Turbo teachable agent (positioned as a struggling middle-school student, grounded with RAG over a knowledge graph, paired with a mentor agent that critiqued students' explanations) into Math Nation's Algebra and Geometry lessons, and coded 5,522 utterances from 246 students. Beyond engagement (75.7% of utterances), they identified False Answering (12.8%), Withholding (8.9%), Random/Noisy (2.1%), Mirroring (0.6%), Mocking (0.3%), and Ghosting (0.2%) — with Mirroring (copying the agent's text) emerging inductively from the data. The classification was human-in-the-loop: 1,682 utterances annotated by two raters (κ = 0.704–0.905 per category) trained a fine-tuned LLaMA 3 classifier (weighted F1 = 0.910 on held-out threads) that labeled the remaining 3,840 utterances. A process-level competing-risks analysis then showed most disengagement resolves within a few turns except Withholding, which persists — a signal worth designing agent responses around.
+## Common Misconceptions
+
+- **"A conversational agent's credibility tracks its accuracy."** **Users read the agent's credibility socially.** Perceived **competence** of ChatGPT predicted its feedback credibility **directly**, while perceived **warmth** worked only **through** that route. A warm, competent-sounding agent earns trust on presentation, which is a separate axis from correctness.
+- **"LLM critique partners replace the learner's judgement."** [[oppenheimer-llms-collaborative-learning-partners-2026|Oppenheimer, Cash and Connell Pensky (2025)]] show the **preservation** side concretely: the value is in keeping the learner's thinking intact rather than in producing the critique for them.
+- **"The umbrella evidence on conversational agents is conclusive."** The [[conversational-ai-agents-umbrella-review-2026|umbrella review]] synthesises reviews of CAI agents, and an umbrella review's strength is bounded by the quality of the reviews it gathers.
 ## Connected Concepts
 
 - [[intelligent-tutoring]]

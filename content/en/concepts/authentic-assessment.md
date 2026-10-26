@@ -1,7 +1,7 @@
 ---
 title: Authentic Assessment
 created: "2026-08-13T19:55:03-04:00"
-updated: "2026-10-22T09:11:45-04:00"
+updated: "2026-10-26T10:50:00-04:00"
 connected_faqs: [redesign-assessment-ai-era, asynchronous-online-courses-ai]
 type: concept
 foundations: [academic-integrity]
@@ -90,6 +90,11 @@ The retreat carries an evidentiary cost that the case-file evidence makes visibl
 
 - **Authenticity is not security, and the gap is visible at sector scale.** Where the single-degree audit above found 90% of coursework passable, [[villanueva-ai-vulnerability-assessment-audit-2026|Villanueva (2026)]] scores recorded presentations, remote group projects and unsupervised digital artifacts in the high-exposure band across 53,915 items, because the public record shows nothing about how production was supervised.
 
+## Common Misconceptions
+
+- **"Authenticity is about realistic tasks."** [[zhan-boud-du-authentic-assessment-scoping-review-2025|Zhan, Boud and Du's (2025)]] scoping review of **37 empirical studies (2000-2024)** proposes a **six-dimensional** design model, and only **3 of 37 studies addressed social authenticity** — whether assessment helps students contribute to societal transformation. Realism is one dimension and the most advanced dimension is barely studied.
+- **"Authentic assessment resists AI."** The exposure is measurable and large: a **three-year psychology degree** proved **90% passable**, with ChatGPT producing **adequate output on 36 of 40 coursework assessments**, with only the remaining assessments surviving. Most of a degree's assessment was AI-satisfiable.
+- **"Redesign is optional if the work is real-world."** The 36-of-40 result was found on coursework whose authenticity was presumably not in question. Task realism did not protect against AI completion; the design of what is assessed did.
 ## Connected Concepts
 - [[learner-identity]] — evolving disciplinary, professional, creative, and academic learner identities
 - [[eportfolio]]

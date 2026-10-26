@@ -1,7 +1,7 @@
 ---
 title: Ethics
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-25T05:40:42-04:00"
+updated: "2026-10-26T10:50:00-04:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, institutional-ai-policy]
 type: concept
 foundations: [academic-integrity, ai-literacy]
@@ -90,6 +90,11 @@ Ethical awareness, reflective reasoning, and [[self-report-measures|self-reporte
 
 Ethics connects to [[equity-in-ai-education]], [[privacy]], [[bias-mitigation]], [[regulation]], [[pedagogical-safety]], [[academic-integrity]], and [[governance]]. It is the normative foundation for all other AI education concepts — the frame within which questions of fairness, transparency, autonomy, and safety are raised and resolved.
 
+## Common Misconceptions
+
+- **"The cheating frame is a sufficient way to think about GenAI ethics."** [[gillette-partnership-ethics-genai-higher-education-2026|Gillette et al., 2026]] argue institutions should decide generative AI questions through a **partnership ethic rather than a cheating frame**. The frame determines what questions get asked, and a misconduct frame cannot ask about educational purpose.
+- **"Faculty and students agree about what is ethical."** [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026|Bilgiç and Sever (2026)]], a [[mixed-methods-research|mixed-methods]] study of **971 students and 135 faculty**, finds the ethical dimensions diverge between the groups. A policy written from one perspective will misstate the other.
+- **"Ethical consensus precedes use."** **Use rises faster than ethical consensus**: across four semesters in a US teacher-education programme, students' GenAI use **climbed from 57% to 83% for assessment preparation**. The norms are being formed by practice rather than the reverse.
 ## Connected Concepts
 
 - [[business-education]]

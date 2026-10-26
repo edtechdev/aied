@@ -1,7 +1,7 @@
 ---
 title: Technological Pedagogical Content Knowledge (TPACK)
 created: "2026-08-14T10:37:25-04:00"
-updated: "2026-10-26T04:35:00-04:00"
+updated: "2026-10-26T10:50:00-04:00"
 type: concept
 foundations: [ai-literacy, curriculum-design, educational-development, learning-design, teacher-role, tpack, teacher-ai-competency]
 technology: [generative-ai]
@@ -91,6 +91,11 @@ TPACK is the organizing framework for the teacher-side of the knowledge base's e
 3. **Differentiate PD by teacher profile.** Different teacher archetypes (optimizers, creators, observers) benefit from different scaffolding — advanced frameworks, rapid feedback, or explicit modeling respectively.
 4. **Assess integrated competence.** TPACK-oriented outcomes (e.g., AI-PCK gains) should be measured as integrated capability, not self-reported tool familiarity.
 
+## Common Misconceptions
+
+- **"TPACK's dominance reflects its explanatory power."** That dominance is **partly a retrieval artifact**: in a PRISMA scoping review of **195 technology-supported teacher-education studies**, digital competence, TPACK and DigComp **dominate the indexed literature**. Prevalence in a search is a property of the vocabulary the field uses, not proof that the framework explains more.
+- **"A well-known framework is a validated one for AI."** TPACK was not designed for AI-specific capacities, which is why Intelligent-TPACK was developed — and it appears in only **five studies** in the 78-study review. Using TPACK for GenAI competence stretches it beyond its construction.
+- **"Applying a framework means the research is theorised."** The same review found **76% of studies inferred competences from practice with no theoretical mapping**, so TPACK's presence in the field coexists with most research being untheorised. A named framework is not the same as a framework doing work.
 ## Connected Concepts
 
 - [[teacher-ai-competency]]

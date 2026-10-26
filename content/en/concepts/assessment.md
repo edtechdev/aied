@@ -2,7 +2,7 @@
 connected_resources: [idstack, lesson-md, master-instructional-design]
 title: Assessment
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-22T09:11:45-04:00"
+updated: "2026-10-26T10:50:00-04:00"
 connected_faqs: [redesign-assessment-ai-era, reduce-ai-cheating, course-ai-policy, group-work-ai, asynchronous-online-courses-ai]
 type: concept
 foundations: [academic-integrity]
@@ -83,6 +83,11 @@ A proposal in this literature pushes past redesign-within-the-current-frame. [[a
 - **Innovative practices can address multiple problems at once.** [[mesny-innovative-assessment-grading-management-2026|Mesny, Roberge-Maltais & Galy (2026)]] argue that a set of five mutually reinforcing practices — [[authentic-assessment]], self- and [[peer-assessment]], reassessment, [[mastery-learning|standards-based grading]], and ungrading — aligned with the "assessment for learning" paradigm can counter the harms of traditional, summative-heavy, norm-referenced grading (superficial learning, eroded [[motivation|intrinsic motivation]], stress and anxiety, inequity, and compromised [[academic-integrity|integrity]]) in the generative AI era. They find uptake is uneven across fields — self- and peer-assessment dominate while the grading-focused innovations remain marginal — and urge educators to engage more actively and reciprocally with assessment and grading innovation, backed by incremental experimentation and [[governance|institutional]] support.
 
 - **AI-mediated assessment is diversifying.** [[aivaluate-anxiety-assessment-2026|AIvaluate]] shows an LLM-augmented [[conversational-ai|conversational agent]] reduced student anxiety during performance-based assessments; [[asynchronous-oral-assessment-2026|Pentland (2026)]] finds asynchronous oral assessments offered higher engagement and were perceived as professionally relevant; [[graph-its-adaptive-algorithms-2026|graph-based ITS]] uses adaptive knowledge-state tracking to inform assessment.
+## Common Misconceptions
+
+- **"Integrity is mainly a detection problem."** **Scroll-back interviews with 26 students** reveal that students judge their way through assessment with GenAI along a **spectrum**, and across **157 students**, *how* GenAI is used — **evaluative integration to support understanding versus** substitution — predicted the outcome. The mode of use separates students more sharply than the presence of use.
+- **"Non-native English speakers are the cheating risk."** A **PRISMA review of 25 studies** adds a risk factor the detection debate leaves out: non-native speakers showed a **high tendency to breach integrity when struggling** with the language demand. That is a language-support problem misread as an honesty problem.
+- **"A policy that forbids GenAI settles the question."** Students report a spectrum of judgements rather than a rule-following pattern, so a rule that does not engage the evaluative reasoning students are already doing will not be followed consistently.
 ## Connected Concepts
 - [[learners]] — Learners: the umbrella for the learner-side concepts
 - [[pedagogical-partnerships]] — Pedagogical Partnerships
