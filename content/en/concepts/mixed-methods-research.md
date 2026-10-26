@@ -1,7 +1,7 @@
 ---
 title: Mixed-Methods Research
 created: "2026-08-24T02:10:00-04:00"
-updated: "2026-10-22T09:11:45-04:00"
+updated: "2026-10-26T07:55:00-04:00"
 type: concept
 research_method: [survey]
 confidence: high
@@ -53,6 +53,11 @@ Across 394 GenAI higher-education studies, mixed methods was the most common res
 
 Mixed-methods sits between the [[quantitative-research|quantitative]] and [[qualitative-research|qualitative]] traditions, drawing on the strengths of each while adding the design discipline of intentional integration. It is a methodological response to the recognition that AI-in-education phenomena are both effectful and meaning-laden — and that the field advances fastest when breadth and depth are combined (see [[research-methods-aied]]). It connects to [[educational-measurement]] (quantitative instruments), [[theory-development-aied]] (qualitative theory-building), and [[ai-ed-evaluation]] (integrating outcome and experience evidence).
 
+## Common Misconceptions
+
+- **"Mixed methods is a niche choice in AI education research."** Across **394 GenAI higher-education studies**, mixed methods was the **most common research design (213 studies, 54%)**, followed by quantitative (109, 28%) and qualitative (72, 18%). The field's dominant design is not the one its methodological debates assume.
+- **"Observational and interview evidence can carry a system claim."** Pairing system observation and administrator discussions against a **four-year randomised evaluation of 8,708 students across eight semesters**, powered to detect effects of **0.05 standard deviation**, shows what the qualitative strand cannot do alone: detect a small effect reliably. Mixing methods is not a way to transfer power between strands.
+- **"Triangulation means two weak methods make a strong claim."** The value of the pairing is that each strand answers a different question. A design that runs both and then reports the qualitative finding as confirmation of the quantitative one has not triangulated, it has restated.
 ## Connected Concepts
 
 - [[research-methods-aied]]

@@ -1,7 +1,7 @@
 ---
 title: Affective Computing
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-10-22T09:11:45-04:00"
+updated: "2026-10-26T07:55:00-04:00"
 type: concept
 foundations: [cognitive-offloading]
 technology: [adaptive-learning, generative-ai, intelligent-tutoring, learning-analytics, llm, personalized-learning]
@@ -51,6 +51,11 @@ Affective computing sits at the intersection of [[affective-tutoring]] (its peda
 - **Emotionally intelligent assessment agents.** [[aivaluate-anxiety-assessment-2026|AIvaluate]], an [[llm]]-augmented emotionally intelligent [[conversational-ai|conversational agent]], reduced student anxiety and social pressure during performance-based assessments while preserving [[usability-research|usability]].
 - **Empathy engineered through prompt design, not sensing.** Affective support does not require affect detection: [[wang-teacher-student-centered-agents-physics-2026|Wang et al. (2026)]] obtained a large difference in *empathy perception* (21.27 vs. 18.24; r = 0.53) between two LLM [[physics-education|physics]] agents that differed only in prompt-specified role and conversational moves — perspective-taking openings ("You have this question because…"), [[misconceptions|misconception]] diagnosis, and a comprehension check at the end of each round — while model, platform, and temperature were held constant. This is a useful counterweight to sensor-driven affective computing: the perceived emotional quality of a [[pedagogical-agent]] can be designed into the interaction script, while also reminding designers that perceived empathy is a self-report construct rather than evidence of genuine affective understanding ([[student-ai-interaction]]).
 - **Alerts that cue a teacher rather than adapt a tutor.** [[ai-emotional-alerts-teachers-mathematics-classroom-2026|Swidan (2026)]] deployed Dash4Emotion in a high school geometry classroom, where red-framed rectangles marked students read as experiencing negative emotion; across twenty identified episodes (five reported), what shifted engagement was the teacher's response to an alert, not the alert itself. The design point is that affect sensing can feed a human decision instead of an adaptive tutor's next move — with the study's own caution attached: it reports no validation of the facial-expression detection, so the signal is a prompt for teacher interpretation rather than evidence about a student's internal state.
+## Common Misconceptions
+
+- **"More engagement means more learning."** A brain-sensing study found a **constrained, adaptive interface raised cognitive engagement (p = .018) while the unrestricted chatbot produced higher learning gains**. The interface that engaged more taught less. Engagement is not a proxy for learning, and optimising it can move the outcome the wrong way.
+- **"Emotional support is a soft add-on to cognitive support."** In a small classroom [[rct]] (**42 completers of 252 participants**), the mindful version reached **similar algebra learning in less time and with fewer requested hints** than cognitive support alone. The affective component changed efficiency rather than ceiling, which is a different and more interesting claim than "it helps learning."
+- **"Small-sample affective findings transfer."** 42 completers from 252 participants is a both encouraging and fragile design: the completion rate is itself a finding about who persisted, and the effect is bounded to that group.
 ## Connected Concepts
 - [[anxiety-and-stress]]
 - [[cognitive-offloading]]

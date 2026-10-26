@@ -1,7 +1,7 @@
 ---
 title: RAG (Retrieval-Augmented Generation)
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-24T09:56:38-04:00"
+updated: "2026-10-26T07:55:00-04:00"
 type: concept
 connected_faqs: [making-ai-better-at-supporting-learning]
 technology: [generative-ai, intelligent-tutoring, knowledge-graph, llm, llm-training-and-fine-tuning, edtech-platform]
@@ -42,6 +42,12 @@ reviewed_by: [editor]
 
 RAG serves a complementary role to [[llm]] fine-tuning — retrieval provides up-to-date, domain-specific grounding without retraining, while fine-tuning embeds [[pedagogy|pedagogical]] behaviors. The knowledge base's research explores both approaches and their combination.
 
+## Common Misconceptions
+
+- **"Showing the source makes the answer verifiable."** Only **1 of 12 participants noticed a deliberately mismatched source card**. A provenance label can act as **a seal of authority rather than an invitation to check** — the display of grounding raised trust without raising scrutiny, which is worse than no label because it manufactures confidence.
+- **"Retrieval quality is the whole problem."** Retrieval is necessary and not sufficient. Grounded answering scored **9.05 of 10 with a bootstrap CI on the difference excluding zero** and was **more often grounded in the material the answerer actually saw (98% vs. 81%)** — so the measured gain is in fidelity to evidence, and the evidence has to be correct for that fidelity to mean anything.
+- **"Single-page retrieval generalises."** Both gaps **roughly tripled on questions requiring material from more than one page** (cross-page scores 9.93 against a lower baseline). Multi-document reasoning is where grounded systems degrade, and it is exactly where courses ask the hardest questions.
+- **"Retrieval removes the need for scrutiny."** [[course-specific-rag-help-seeking-higher-ed-2026|Beacon]] retrieves from a single module's approved materials to serve students who hesitate to ask a person — a defensible scope. Narrow, approved corpora are what make the grounding meaningful; the label alone does not.
 ## Connected Concepts
 
 - [[llm]]

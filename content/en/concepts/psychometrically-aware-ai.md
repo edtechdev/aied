@@ -1,7 +1,7 @@
 ---
 title: Psychometrically Aware AI
 created: "2026-07-28T16:52:03-04:00"
-updated: "2026-10-23T09:20:00-04:00"
+updated: "2026-10-26T07:55:00-04:00"
 type: concept
 technology: [llm]
 assessment: [assessment-validity, automated-assessment, educational-measurement, item-response-theory]
@@ -43,6 +43,11 @@ As AI systems increasingly score responses, predict difficulty, and provide [[fe
 
 Psychometrically aware AI sits at the intersection of [[educational-measurement]], [[assessment-validity]], [[item-response-theory]], and [[automated-assessment|Confidence Aware AI Assessment]]. It is central to [[ai-ed-evaluation]] (whether AI assessment is trustworthy) and connects to [[llm]]-based [[automated-assessment]] and [[automated-assessment|Automated Grading]]. Its emphasis on validity also speaks to the [[limitations-in-aied-research|measurement limitations]] of [[ai-education|AIED]] research.
 
+## Common Misconceptions
+
+- **"A model that scores well is measuring the same thing."** On **the same assessment instrument**, human and LLM response structures **diverge** — a model can score well while measuring something different from what the instrument intends. Matching scores is the observation; construct equivalence is a separate claim that requires structure-level evidence.
+- **"Calibration can be read off a single accuracy figure."** **Balanced metrics catch a model that only looks calibrated**: asking GPT-4o and Gemini 2.0 Flash to infer learning-style dimensions from **153 undergraduates'** dialogues produced **moderate accuracy that performed differently under balanced metrics**. Aggregate accuracy hid a differential that balanced metrics exposed.
+- **"Automated scoring pipelines cannot reproduce psychometric procedure."** The authors reproduced an established pipeline in automated form (**a 67% probability of answering at least 7 rubric items correctly for the lower cut and at least 10 for the upper**), letting AI and human item scores be compared on the same footing. The procedure was reproducible; the construct question remains.
 ## Connected Concepts
 
 - [[educational-measurement]]

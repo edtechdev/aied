@@ -2,7 +2,7 @@
 connected_resources: [mglearn]
 title: Multilingual Learning
 created: "2026-08-19T09:55:00-04:00"
-updated: "2026-10-23T09:49:58-04:00"
+updated: "2026-10-26T07:55:00-04:00"
 type: concept
 technology: [llm]
 ethics: [culturally-relevant-pedagogy, digital-divide, equity-in-ai-education, global-south, inclusive-learning, multilingual-learning]
@@ -55,6 +55,11 @@ LLM-based comparative judgment is a case where bias tracked the human baseline r
 - **Pair AI with multilingual support structures.** Use voice-first and oral modes ([[kutti-ai-voice-first-learning-companion|voice-first companions]]) where text-based AI fails, and support [[self-regulated-learning|self-regulation]] in bilingual contexts ([[bilingual-llm-lecture-companion-srl-2026|bilingual lecture companion]]).
 - **Watch the digital divide.** Monolingual bias in AI deepens the [[digital-divide]] and undermines access across the [[global-south]] — plan for equitable infrastructure and access alongside tool choice.
 
+## Common Misconceptions
+
+- **"The target language should dominate from day one."** In a **systematic review of 24 studies**, learners asked for **contextualised phrases and explanations in their own language as a bridge into the target language** — a use the reviewers classify as a genuinely new sub-affordance rather than a workaround. Home-language support functioned as scaffolding, not as avoidance.
+- **"AI language assessment is biased against multilingual writers."** Here the bias tracked the **human baseline rather than the model**: LLM-based comparative judgment on **Grades 3-6 informational writing converged with researcher rubrics (r = .59-.73)** and showed the same pattern the human raters did. That is not evidence of fairness in absolute terms — it is evidence that the model did not introduce a new distortion on top of the existing one.
+- **"Translation-quality output is the useful part."** The bridge use is explanatory and situated, not substitutive. A tool that replaces the learner's own production removes the practice that the bridging was meant to enable.
 ## Connected Concepts
 
 - [[differential-effects-across-learner-groups]]
