@@ -2,7 +2,7 @@
 connected_resources: [education-agent-skills, fpds-apps-and-resources]
 title: Educational Development
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-25T17:35:00-04:00"
+updated: "2026-10-26T04:35:00-04:00"
 connected_faqs: [ai-save-instructor-time, faculty-ai-competencies, faculty-development-ai]
 type: concept
 foundations: [ai-literacy, curriculum-design, learning-design, teacher-role, teacher-ai-competency]
@@ -101,6 +101,9 @@ Confidence and literacy are not interchangeable targets: in a 502-respondent SEM
 **Benchmark against what faculty themselves report.** [[watson-rainie-ai-challenge-faculty-survey-2026|Watson & Rainie (2026)]]'s survey of 1,057 US faculty finds the institutional layer thin in ways program designers can measure directly: 59% judged their school unprepared to use generative AI effectively for preparing students for the future and 68% said it had not prepared faculty to use it for teaching and mentoring, while the structural response ran to a task force in 55% of institutions but an AI literacy general education outcome in only 13%. Faculty had not waited for policy — 87% wrote their own assignment-level rules against 48% who could point to an institutional one — and they named colleagues' resistance (82%) and unfamiliarity (83%), not mandate, as the obstacles to departmental adoption. For development programs this argues for treating peer norms, shared assignment-level policy language and explicit measures of institutional readiness as part of the intervention rather than leaving them to the policy document.
 
 **Instructor response reflects power centers, not attitude.** In an instrumental case study of 33 writing instructors, four polycentric power centers — the global GenAI trend, the university/department, colleagues, and students — shaped practice, and adjuncts constrained by limited discourse power shifted from detection toward teaching acceptable use ([[zuo-instructor-power-genai-writing-2026|Zuo et al. (2026)]]).
+
+- **Six professional-development families, three well evidenced, and a clear winner.** A review of 78 studies of AI-supported instructional design sorts documented PD into compact embedded modules (2-4 weeks), semester-long microlearning, task-based design cycles, collaborative dialogue-based question chains, critical co-discovery, and self-directed practitioner learning. Outcome evidence is strongest for **compact embedded modules**: a three-week module produced statistically significant gains across all six Intelligent-TPACK domains with medium-to-large effect sizes, and a four-week programme with **436 pre-service teachers and a control condition** is the strongest controlled evaluation in the corpus ([[spyropoulou-genai-instructional-design-systematic-review-2026|Spyropoulou & Kameas, 2026]]).
+- **Three design features separate the best-evidenced interventions.** Ethics embedded as **distributed practice with checkpoints at every task** rather than a stand-alone session; **performance-based competence assessment** using lesson plans, decision logs and micro-teaching, motivated directly by the unreliability of self-report; and prompt engineering developed as reflective, pedagogically grounded practice. A companion two-week study found rapid gains in knowledge and confidence while identifying bias detection as the weakest emerging competence — a gap that persisted into the longer module, consistent with ethical perceptual capacity developing more slowly than technological familiarity.
 
 ## Common Misconceptions
 

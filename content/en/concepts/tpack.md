@@ -1,7 +1,7 @@
 ---
 title: Technological Pedagogical Content Knowledge (TPACK)
 created: "2026-08-14T10:37:25-04:00"
-updated: "2026-10-22T09:11:45-04:00"
+updated: "2026-10-26T04:35:00-04:00"
 type: concept
 foundations: [ai-literacy, curriculum-design, educational-development, learning-design, teacher-role, tpack, teacher-ai-competency]
 technology: [generative-ai]
@@ -40,6 +40,9 @@ TPACK holds that effective technology integration is not the sum of separate kno
 - **Technological Content Knowledge (TCK)** — how technology shapes and represents content.
 - **Technological Pedagogical Knowledge (TPK)** — how technology supports or constrains teaching strategies.
 - **TPACK** — the emergent, integrated knowledge at the center, where all three domains interact to enable technology-enhanced, content-specific teaching.
+
+- **The framework dominates the field by default, and is stretched to fit.** In a PRISMA-guided review of 78 studies of AI-supported instructional design, only 19 applied any named competence framework — and TPACK and its variants accounted for **17 of those 19**, used productively as an analytical lens but stretched beyond their original scope, since TPACK was not designed for AI-specific capacities. Purpose-built extensions are correspondingly rare: **Intelligent-TPACK appeared in just five studies**, usually paired with [[ai-literacy]] to handle developmental progression ([[spyropoulou-genai-instructional-design-systematic-review-2026|Spyropoulou & Kameas, 2026]]).
+- **Research proceeds untheorised while policy frameworks go untested.** The same review found **76% of studies inferred competences from practice with no theoretical mapping at all**, and neither DigCompEdu nor the UNESCO AI Competency Framework for Teachers was applied as an analytical framework in any of the 78 — a disconnect running in both directions, since empirical work accumulates no shared vocabulary while the frameworks meant to guide practice remain empirically untested in this context.
 
 ## AI-TPACK and GenAI-TPACK
 

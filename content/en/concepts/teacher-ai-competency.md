@@ -1,7 +1,7 @@
 ---
 title: Teacher AI Competency
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-10-25T10:40:00-04:00"
+updated: "2026-10-26T04:35:00-04:00"
 connected_faqs: [faculty-ai-competencies, addressing-common-misconceptions-ai-education, faculty-development-ai]
 type: concept
 foundations: [ai-literacy, educational-development, teacher-role]
@@ -72,6 +72,9 @@ The gap is visible in the artifact as well as in the self-report. A [[ai-integra
 **The gap also shows up as non-participation.** [[watson-rainie-ai-challenge-faculty-survey-2026|Watson & Rainie (2026)]] surveyed 1,057 US college faculty in late 2025 and found 26% do not use [[generative-ai|generative AI]] tools at all, with a third choosing not to use them for teaching and non-use concentrated in the arts and [[humanities-education|humanities]] (40%). The institutional side of the gap was larger than the individual one: 68% said their schools had not prepared faculty to use generative AI for teaching and mentoring, and faculty named colleagues' resistance (82%) and unfamiliarity (83%) as the leading obstacles to departmental adoption — a picture in which capability-building, peer norms and policy all have to move together.
 
 **Pre-service training largely sidesteps the ethical dimension of the competency.** A [[meta-analysis-systematic-review|systematic review]] of AI in initial teacher training for pre-service primary mathematics teachers ([[pinto-ai-initial-teacher-training-mathematics-review-2026|Pinto et al. 2026]], 11 studies selected from 341 records) found the interventions concentrated on short-term technical and pedagogical gains, with nine of the eleven running brief interventions spanning one to six sessions, and reported that ethics was addressed in only three of the eleven studies. The competency frameworks name ethical judgment as a dimension; the pre-service literature meant to build it rarely teaches or measures it.
+
+- **Seven competence clusters, with ethics the weakest link.** A thematic synthesis of 78 studies yields clusters for prompt engineering, critical evaluation of AI outputs, ethical awareness and bias detection, pedagogical-content alignment, conceptual AI literacy, human oversight and reflection. Prompt engineering was the most consistently documented and behaves as a **developmental spectrum** rather than a single skill, which led the reviewers to argue it is best understood as pedagogical reasoning conducted through a new medium — the prompt as an externalised design decision. Ethical awareness was the **weakest documented competence** in the pre-service studies ([[spyropoulou-genai-instructional-design-systematic-review-2026|Spyropoulou & Kameas, 2026]]).
+- **Teachers overestimate their own evaluation skill.** Beyond the finding that only **38.3% of AI-generated learning objectives met all quality criteria without revision**, pre-service teachers **systematically overestimate their ability to evaluate chatbot output** — which the reviewers read as a possible perceptual rather than declarative deficit. This is why they argue competence should be assessed through performance artefacts (lesson plans, decision logs, micro-teaching) rather than self-report: the unreliability of self-assessment is demonstrated in the very literature the training is meant to address.
 
 ## Professional development that works
 

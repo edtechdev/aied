@@ -1,7 +1,7 @@
 ---
 title: Learning Design
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-24T09:56:38-04:00"
+updated: "2026-10-26T04:35:00-04:00"
 type: concept
 foundations: [ai-literacy, curriculum-design, educational-development, learning-design, teacher-role]
 pedagogy: [scaffolding]
@@ -92,6 +92,9 @@ Fowlin et al. (2026) add an operational move for deciding where AI enters: unbun
 **Evaluate against a benchmark, not vibes.** If you're building an instructional-design agent, evaluate it against a standardized, theory-grounded benchmark (e.g. [[jeon-isd-agent-bench-2026|ISD-Agent-Bench]]) so you can measure whether grounding in a real ISD framework actually improves output over a generic LLM.([[jeon-isd-agent-bench-2026]])
 
 - **AI is reshaping instructional design practice.** [[kibar-ilgaz-ai-instructional-design-review-2026|Kibar & Ilgaz (2026)]] [[meta-analysis-systematic-review|systematically review]] 28 studies (2020-2025) and find AI assists designers with content generation, templates, and personalization, and is conceptualized as a co-worker/collaborator/partner rather than just a tool — though pedagogical alignment and practitioner readiness remain challenges.
+
+- **The documented activity is concentrated in one phase of the cycle.** In a review of 78 studies of AI-supported instructional design, Design-phase activity appears in **74 of 78 studies (95%)** and Development in 44 (56%), while Analysis reaches only 11 (14%), Evaluation 10 (13%) and Implementation 7 (9%) — and **no study examined AI support across the complete ADDIE cycle**. The cycle is an aspiration the evidence base does not cover, which matters for anyone being sold "AI-powered course development" as an end-to-end capability ([[spyropoulou-genai-instructional-design-systematic-review-2026|Spyropoulou & Kameas, 2026]]).
+- **Three AI roles, hierarchically distributed.** *Generative* use — AI producing design content at the educator's direction — dominates at **96% of studies**; *scaffolding* use, where AI structures the designer's own reasoning, appears in 35%; *evaluative* use, where AI assesses artefact quality, in 21%. The field is overwhelmingly using AI to make things rather than to interrogate its own design decisions, which is the opposite of the critical-friend configuration the review singles out as educationally promising.
 
 ## Connected Concepts
 
