@@ -1,7 +1,7 @@
 ---
 title: Humanities and Social Science Education
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-10-26T01:00:00-04:00"
+updated: "2026-10-26T09:45:00-04:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, history-of-aied, philosophy-of-ai-in-education]
 level: [higher ed]
@@ -52,6 +52,8 @@ SSH education foregrounds the very capabilities generative AI most challenges �
 
 **"AI in humanities education is technocentric augmentation."** The position paper this page draws on argues the shift is an *intellectual transformation* rather than augmentation, positioning [[ai-literacy|digital fluency]] as a core liberal-arts competency. Adding a tool to an unchanged course mistakes the transformation for its instrument.
 
+**"Values education can be handed to a model as content."** [[genai-values-education-affordances-risks-2026|Chen (2026)]] reframes values education as a relational practice with three conditions — answerability, exemplarity and address — and reads each of GenAI's five affordances as replacing a relation: the simulated perspective replaces the stakeholder who can be wronged.
+
 **"Critical analysis is what AI most threatens, so it should be restricted."** Critical analysis is also what intentional use most develops, when the task is designed to deepen rather than flatten it. A [[human-in-the-loop-ai|human-in-the-loop]] model locates the discipline's contribution in the learner's judgement rather than in the tool's output.
 
 **"A general-purpose model is as useful for textual scholarship as for summarisation."** Interpretation requires the reader's position, and an assistance layer that supplies the reading has performed the interpretive act the discipline exists to teach.
@@ -76,3 +78,4 @@ SSH education foregrounds the very capabilities generative AI most challenges �
 - [[genai-impact-chinese-students-hss]] — GenAI's impact on humanities and social science students
 - [[acceptance-ai-english-tools-2026]] — AI acceptance among language and humanities learners
 - [[villanueva-ai-vulnerability-assessment-audit-2026]] — Computational audit of 15,587 Go8 Arts and Humanities units: 58.6% of 2026 assessment items highly AI-exposed, concentrated in essays and reports
+- [[genai-values-education-affordances-risks-2026]] — Generative AI in Values Education: Affordances, Ethical Risks and Implications for Teaching (Chen 2026)

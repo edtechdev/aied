@@ -78,6 +78,7 @@ AI use and disclosure sits at the intersection of [[academic-integrity]] (its pa
 - **"Mandatory declaration policies produce disclosure."** [[gonsalves-student-non-compliance-ai-declarations-2025|Gonsalves (2025)]] documented **74% non-compliance** with a mandatory declaration at a business school. The requirement did not produce the behaviour it mandated.
 - **"Students hide AI use because they are dishonest."** The drivers are documented and specific: only **about 34% of economics students admitted AI use** with disclosure rarer, driven by **penalty anxiety**, while another study found **66% never or rarely disclosed** with **fear of academic penalty the top reason**. The policy design, not character, is what the data implicate.
 - **"A disclosure requirement is a low-cost control."** A **74% non-compliance rate** makes the resulting record worse than no record: it is a dataset that appears complete and is not, so the institution is making decisions on a sample it cannot trust.
+- **"Disclosing how the model was used is enough."** [[authorial-warrant-ai-supported-scholarship-2026|Mirończuk (2026)]] argues disclosure documents model use while responsible use requires claim-level authorial warrant — the contributor's capacity to understand, justify and defend the claims — separating cognitive delegation, where outputs shape substantive choices, from routine delegation, which does not.
 ## Connected Concepts
 
 - [[academic-integrity]]
@@ -111,3 +112,4 @@ AI use and disclosure sits at the intersection of [[academic-integrity]] (its pa
 - [[gutowski-hurley-genai-policy-legal-education-2025]] — No consensus on disclosure and AI citation in law school policy (Gutowski & Hurley 2025)
 - [[ai-written-admissions-essays-penalized-2026]] — AI-written admissions essays are widespread but penalized
 - [[obhdp-ai-disclosure-erodes-trust-2025]] — Thirteen experiments: disclosing AI use lowers the discloser's trustworthiness, via legitimacy
+- [[authorial-warrant-ai-supported-scholarship-2026]] — When Disclosure Rules Are Not Enough: Authorial Warrant and Judgment in AI-Supported Scholarship (Mirończuk 2026)

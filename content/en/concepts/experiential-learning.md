@@ -1,7 +1,7 @@
 ---
 title: Experiential Learning
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-10-25T23:15:00-04:00"
+updated: "2026-10-26T09:45:00-04:00"
 type: concept
 pedagogy: [active-learning, embodied-learning, experiential-learning, project-based-learning]
 level: [higher ed]
@@ -57,7 +57,7 @@ Work-integrated experience can be the binding condition for advanced competence:
 
 **"More authentic tasks are straightforwardly better."** Authenticity raises the transfer value and the assessment problem together: real systems produce variable, hard-to-grade evidence, and the more authentic the task the less the outcome resembles a score. Design has to hold both, which is why the reflection structure carries as much weight as the task.
 
-**"AI tutoring fits experiential learning as it fits lecture content."** The fit is weaker, because a tutor can supply explanation and cannot supply the encounter with the system. Its natural place in this pedagogy is around the reflection and conceptualisation stages, where a learner is making sense of what happened — not in place of the doing.
+**"AI tutoring fits experiential learning as it fits lecture content."** The fit is weaker, because a tutor can supply explanation and cannot supply the encounter with the system. Its natural place in this pedagogy is around the reflection and conceptualisation stages, where a learner is making sense of what happened — not in place of the doing. [[gelli-experiential-language-learning-2026|Symonette et al. (2026)]] generate the encounter rather than script it: from a learner's goals, GELLI builds situated scenes with characters, support and reflection at runtime, and in a within-subjects study with 40 Japanese learners it beat expert-authored videos on vocabulary recall (d = 0.45) and confidence (d = 0.45) but not speaking.
 
 ## Implications for Practice
 
@@ -100,3 +100,4 @@ Work-integrated experience can be the binding condition for advanced competence:
 - [[ai-personas-fieldwork-experiential-learning-2026]] — AI personas substituting for community fieldwork, with a five-indicator rubric for where the substitution fails (Elhajj et al. 2026)
 - [[hands-on-learning-necessity-age-of-ai-review-2026]] — Thematic review distinguishing Embodied Hands-on from Cognitive Hands-on in AI-supported design education (Yu, Liu & Zhu 2026)
 - [[shi-genai-experiential-learning-management-education-2026]] — a strategic management course reconfigured around three generative AI mechanisms
+- [[gelli-experiential-language-learning-2026]] — GELLI: A Generator for Experiential Language Learning Interactions (Symonette et al. 2026)

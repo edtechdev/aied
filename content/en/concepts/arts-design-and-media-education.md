@@ -1,7 +1,7 @@
 ---
 title: Arts, Design and Media Education
 created: "2026-09-16T14:29:36-04:00"
-updated: "2026-10-25T20:50:00-04:00"
+updated: "2026-10-26T09:45:00-04:00"
 type: concept
 foundations: [design-thinking]
 pedagogy: [creativity, embodied-learning, project-based-learning]
@@ -57,6 +57,8 @@ Stage and performance technology is where AI-assisted instruction has been desig
 ## Visual Arts, Image Generation and Digital Media
 
 Text-to-image tools are the case where the studio's iterative workflow is most directly at stake, and the evidence is not a simple story of gain or loss. [[t2i-competence-paradox-2026|Liu, Meng and Zhang (2026)]] surveyed 417 art and design students alongside instructor focus groups and interviews, finding that performance expectancy, social influence, novelty value and creative competence all positively predicted intention to use text-to-image tools, while effort expectancy and facilitating conditions predicted negatively — which they read as shortcut-oriented use in coursework where ease and availability enable quick output rather than sustained engagement. Their competence paradox is the notable result: creative competence supports intention but also predicts more selective, restrained actual use, as students weigh authorship, originality and skill preservation against efficiency. They argue for pedagogy addressing [[ai-literacy|AI literacy]] around creative process, prompt crafting and output evaluation, with studio process and effort as the assessed object.
+
+[[playing-bias-epistemic-games-text-to-image-2026|Foka (2026)]] turns critique into a replicable method: three epistemic games — Interpret, Interrogate and Expose — move studio discussion from impressionistic reaction to warranted bias hypotheses, with a BiasSlot rule varying one bias cue while a constant motif stays fixed.
 
 Digital media production shows what a structured process can do. [[project-based-digital-storytelling-art-design-2026|Tian et al. (2026)]] studied a 15-week project-based digital storytelling capstone, "Creative Shanzhou", in which 426 final-year undergraduates, guided by 48 mentors at roughly a 1:9 ratio, translated local cultural heritage into [[multimodal]] narratives. Expert ratings of the 92 resulting works were strongest on novelty (M = 4.21, SD = 0.72), followed by effectiveness (3.96) and wholeness (3.68), with 43% of projects scoring below 3.5 on wholeness — students generated original ideas more successfully than they integrated them. In a 31-student Animation subgroup, figural creative-thinking scores rose from 77.23 to 94.68 (mean difference 17.45, t(30) = 4.55, p < .001, Cohen's d = 0.82). Across the analyzed projects AI served as information organizer, visual reference, ideation aid and editing tool, while students retained topic selection, narrative interpretation, cultural meaning-making and final decisions; the highest-scoring example attributed its coherence to sustained human engagement with source material rather than AI polish. The project ended in a three-day public exhibition, and 31 works were taken up by the local Cultural and Tourism Bureau.
 
@@ -131,3 +133,4 @@ Two other findings complicate any simple story of generative tools as an equalis
 - [[ai-vocal-pedagogy-2026]] — Why measurement precision is not educational value in AI-assisted vocal teaching (Li 2026)
 - [[embodied-string-learning-blindness-low-vision-musicians]] — Disability-led design of tactile and kinesthetic string instruction for blind and low-vision musicians (Shi et al. 2026)
 - [[luminote-llm-vr-stage-lighting-education-2026]] — LLM-assisted VR instruction for stage lighting, and the gap between expert and novice representations (Liang et al. 2026)
+- [[playing-bias-epistemic-games-text-to-image-2026]] — Playing Bias: Epistemic Games for Interpreting Text-to-Image Models (Foka 2026)

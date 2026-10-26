@@ -119,6 +119,7 @@ CS education connects to [[computational-thinking]], [[stem-education]], [[autom
 - **Structure collaboration for all learners.** Smaller consistent teams, explicit roles, and AI-use transparency support [[neurodiversity|neurodivergent]] students and fair collaboration, especially where misaligned AI-use beliefs lower project scores.
 
 - **LLM-adaptive explanations of programming errors (2026):** A crowdsourced study (N=103) found LLM-rewritten error messages improve readability, but objective debugging performance depends on matching explanation style (pragmatic vs contingent) to programmer skill — a scaffolding insight for AI-assisted programming education ([[llm-adaptive-programming-error-explanations-2026]]).
+- **Oversight is about fitness, not correctness (2026):** Coding 962 student-AI turns from 145 first-year software engineering students, [[novice-se-students-oversight-genai-2026|Shakiba and Chaffey (2026)]] found 74.4% of interventions named fitness problems against 16.9% naming correctness, and 51.0% of responses modified the output rather than the prompt.
 
 ## Common Misconceptions
 
@@ -204,3 +205,4 @@ CS education connects to [[computational-thinking]], [[stem-education]], [[autom
 - [[educator-guided-llm-pedagogical-agent-2026]] — Educator-authored staged feedback for conceptual database design: hidden diagnosis, controlled disclosure, 71.1% target-level across 383 episodes
 - [[socraticrepair-program-debugging-2026]] — SocraticRepair: Planning-Guided Socratic Tutoring for Program Debugging and Misconception Repair
 - [[browser-sized-agents-slm-webllm-tutor-2026]] — Browser-Sized Agents: Small Language Models and WebLLM for Tool-Augmented AI-Assisted Programming Education
+- [[novice-se-students-oversight-genai-2026]] — Beyond Correctness: How Novice Software Engineering Students Exercise Oversight of Generative AI (Shakiba and Chaffey 2026)

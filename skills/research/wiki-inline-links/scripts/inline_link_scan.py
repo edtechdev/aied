@@ -352,6 +352,15 @@ AUTO_APPLY_DENYLIST = {
 REJECTED_HITS = []  # populated during a scan; reported so suppressed matches stay visible
 
 REJECT_PAIRS = {
+    # --- 2026-10-26, daily-scan batch: auto-applied links hand-reverted (one entry per revert) ---
+    ('benchmark', 'benchmark'),                        # a psychometric threshold, not a benchmark suite
+    ('cognitive friction', 'desirable-difficulties'),  # use friction inflating perceived competence, not desirable difficulties
+    ('student success', 'student-support-and-success'),  # a remediation success rate, not the support concept
+    ('human judgment', 'human-in-the-loop-ai'),        # human judgment in scholarship, not the HITL concept
+    ('AI agents', 'agentic-ai'),                      # agents in a wargame scenario, not agentic AI
+    ('composition', 'writing-education'),              # visual composition in art history, not writing
+    ('agentic', 'agentic-ai'),                         # risks to human agency, not agentic AI
+    ('simulation', 'simulation'),                      # a simulated interlocutor, not the simulation concept
     # --- 2026-10-20, daily-scan batch: auto-applied links hand-reverted (one entry per revert) ---
     ('guardrails', 'reducing-ai-misuse'),          # the guardrails concept itself, not AI misuse
     ('didactical configuration', 'visualization'),  # an orchestration element, not a visualization

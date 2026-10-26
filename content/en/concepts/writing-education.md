@@ -2,7 +2,7 @@
 connected_resources: [clarity, writing-rhetoric-studies-in-the-loop]
 title: Writing
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-25T18:05:00-04:00"
+updated: "2026-10-26T09:45:00-04:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading]
 pedagogy: [metacognition]
@@ -125,6 +125,8 @@ Writing education connects to [[automated-essay-scoring]], [[ai-feedback-quality
 
 **"AI feedback and peer feedback are substitutes."** They combine. In a 10-week Chinese EFL course, adding ChatGPT feedback *before* peer review lifted behavioural, affective and cognitive engagement (partial η² of **0.28 to 0.32**) and improved writing scores across the board. The sequencing is doing work — the AI pass readied students for the peer pass rather than replacing it.
 
+**"Students act on AI feedback when it is offered."** Uptake is selective. [[biology-undergraduates-ai-enabled-feedback-scientific-writing-2026|Weston and Long (2026)]] tracked two undergraduate biology teams revising a proposal introduction against instructor-built AI feedback: 10 of 22 comments were addressed, deletions outnumbered additions, and the comments requiring students to judge coherence or claim support were ignored entirely.
+
 **"A model can stand in for the teacher's feedback pattern."** It has not done so in the evidence. Tracking one teacher across draft stages found significant movement on **five** feedback focus types — with *Praise* rising from **26.9%** in initial drafts to **84.9%** in final ones — while the closest model moved on three and the smallest on none, and no model replicated the pattern. Teacher feedback reallocates emphasis by draft stage; model feedback tends to hold its distribution. Treating the second as equivalent loses the trajectory.
 
 ## Connected Concepts
@@ -191,3 +193,4 @@ Writing education connects to [[automated-essay-scoring]], [[ai-feedback-quality
 - [[genai-srl-l2-writing-scale-2026]] — A six-dimension GenAI-SRL scale for L2 writing, with environmental regulation (tool governance) as a distinct dimension
 - [[ai-peer-feedback-l2-writing-engagement-2026]] — Pairing AI with peer feedback raises engagement and writing scores
 - [[when-students-prefer-ai-scoring-feedback-2026]] — Students want the human at the high-stakes end
+- [[biology-undergraduates-ai-enabled-feedback-scientific-writing-2026]] — Biology Undergraduates' Use of AI-Enabled Feedback to Revise Scientific Writing: Recipience and Barriers (Weston and Long 2026)
