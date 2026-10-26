@@ -1,7 +1,7 @@
 ---
 title: Storytelling in Education
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-09-30T09:59:35-04:00"
+updated: "2026-10-26T01:30:00-04:00"
 type: concept
 pedagogy: [creativity, motivation, storytelling-in-education, student-engagement]
 technology: [educational-robotics]
@@ -33,6 +33,16 @@ Storytelling is grounded in [[motivation]], [[student-engagement]], and [[constr
 - **Digital storytelling as a counterweight to AI:** As [[generative-ai|generative AI]] ascends, digital storytelling is reframed as a vehicle for the emotional, cultural, and narrative capacities that AI lacks. In a [[project-based-learning|project-based learning]] model for art and design education, students translated local cultural heritage into [[multimodal]] narratives across 92 digital storytelling works, demonstrating how storytelling sustains human creativity in the AI era.
 
 Storytelling connects to [[student-engagement]], [[motivation]], [[creativity]], [[educational-robotics]], [[language-learning]], [[social-emotional-learning]], and [[educational-robotics]].
+
+## Common Misconceptions
+
+**"A co-built story is a told story."** What is gained is fluency and volume; what is at risk is the teller's authorship. A story is a structuring of experience by someone who chose the sequence and the emphasis, so a machine that supplies the structure has supplied the part that carries the meaning.
+
+**"Storytelling is a soft addition to content."** Narrative is a memory and sense-making device, and the learner who narrates is doing the organising work. Handing over the narration hands over the learning.
+
+**"AI generation makes storytelling available to students who could not write."** It makes *producing a written artefact* available, which is a different benefit. Oral narration, drawing and dictation are the established routes to the same goal, and they preserve the authorship that generation removes.
+
+**"The educational value of a story is in the polished result."** It is in the construction — the selection and ordering that a teller performs. A polished story the student did not structure has demonstrated the model's competence rather than the learner's.
 
 ## Connected Concepts
 

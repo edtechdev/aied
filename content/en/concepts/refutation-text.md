@@ -1,7 +1,7 @@
 ---
 title: Refutation Text
 created: "2026-08-26T10:20:00-04:00"
-updated: "2026-09-30T16:25:27-04:00"
+updated: "2026-10-26T02:00:00-04:00"
 type: concept
 pedagogy: [cognitive-psychology, learning-theories, metacognition, misconceptions, scaffolding]
 technology: [generative-ai]
@@ -52,6 +52,16 @@ Refutation texts are one member of the conceptual-change toolkit, alongside anal
 ### Practical implications
 
 For educators, refutation texts remain a reliable, low-barrier way to correct stubborn misconceptions. For those integrating AI, the evidence suggests: (1) use AI to *generate* effective refutation/conceptual-change content at scale; (2) where feasible, deliver refutation through personalized AI dialogue for stronger immediate engagement and belief change; (3) expect AI-generated misconceptions to be pedagogically useful when structured discussion is used to confront them; and (4) design for the learner — refutation effects can be concentrated in high-achieving students and moderated by epistemology and metacognition, so scaffolding and follow-up matter.
+
+## Common Misconceptions
+
+**"Correcting a misconception means presenting the correct answer."** If it did, misconceptions would not survive instruction, and they routinely do. Misconceptions are not gaps but actively held beliefs that resist ordinary instruction: a learner who already has a working explanation does not receive the new one as a replacement, they receive it as a competing claim, and often discard the less familiar one.
+
+**"Refutation text is simply writing 'this is wrong' before the correct information."** The structure matters — the misconception must be stated as the learner holds it, engaged directly, and only then displaced. A bare correction names a belief the learner may reject as a straw version of their own, which is why the refutation must reproduce their intuition rather than the tidy version of it.
+
+**"More information about the correct conception fixes the resistance."** Volume of correct information is the intervention that already fails. Conceptual change requires the learner's existing model to be made explicit and found insufficient, which is a different instructional move from adding evidence.
+
+**"Misconceptions and ordinary ignorance need the same remedy."** They need different ones: ignorance is addressed by supplying knowledge, and a misconception must be unseated first. Treating the second as the first is why a well-explained lesson can leave a student's original model intact.
 
 ## Connected Concepts
 - [[pedagogical-patterns]] — Refutation sequences, including two directly conflicting results

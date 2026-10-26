@@ -1,7 +1,7 @@
 ---
 title: Reinforcement Learning
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-10-02T08:08:45-04:00"
+updated: "2026-10-26T01:00:00-04:00"
 type: concept
 connected_faqs: [training-ai-tutors-to-guide-rather-than-answer]
 pedagogy: [active-learning, scaffolding]
@@ -46,6 +46,16 @@ A PRISMA-standard [[riedmann-reinforcement-learning-education-review-2026|system
 ### Connection to the knowledge base
 
 RL underpins much modern [[agentic-ai]] and [[intelligent-tutoring]] design, where the agent must optimize long-term learning rather than a single correct response. It connects to [[llm-training-and-fine-tuning]] (RL as a training method), [[scaffolding]] (reward design that preserves productive struggle), and [[self-regulated-learning]] (agents that help learners regulate their own strategy). Because reward design encodes educational values, RL research in AIED is tightly tied to [[pedagogical-safety]] and to the equity considerations of [[equity-in-ai-education|equitable]] tutor behavior.
+
+## Common Misconceptions
+
+**"Matching a baseline means the RL policy learned something worth having."** It means the reward was satisfied. A deep-RL tutor rewarded on test score and time efficiency **matched a BKT heuristic on posttest (A = .58 each)** while assigning only **4% of training problems to constructive buggy-example repair** and favouring the cheaper interaction. The policy optimised what it was paid for, and what it was paid for excluded the productive activity.
+
+**"The reward function is a technical detail."** It is the pedagogical specification. Whatever the reward weights is what the policy will do, so choosing between score, time efficiency, engagement and repair requires an explicit position on what learning is — a curriculum decision encoded as a number.
+
+**"Longer horizons are simply better."** They enable what shorter horizons cannot, and they require the reward to be right across the whole sequence. [[residencyrl-clinical-rl-training-2026|ResidencyRL]] optimises whole **60-turn clinical encounters**, well beyond the ≤12-turn horizons of concurrent dialogue systems, which raises the cost of a mis-specified objective rather than lowering it.
+
+**"RL is the appropriate formalism for tutoring because teaching is sequential."** Sequencing is necessary and not sufficient; the binding constraint is the reward's validity. A well-specified objective with a weak policy beats a strong policy against a wrong objective.
 
 ## Connected Concepts
 

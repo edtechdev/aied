@@ -2,7 +2,7 @@
 connected_resources: [master-instructional-design]
 title: Workplace Learning
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-30T09:59:35-04:00"
+updated: "2026-10-26T01:00:00-04:00"
 type: concept
 foundations: [ai-literacy, educational-development]
 technology: [generative-ai, llm, simulation]
@@ -64,6 +64,16 @@ Professional training differs from academic education in its focus on applied sk
 
 **Expertise regeneration as a training concern.** The Cognitive Commons framework ([[cognitive-commons-ai-expertise-regeneration|Lovett 2026]]) argues that HRD must move beyond organizational reskilling to profession-level stewardship: eliminating entry-level developmental positions in AI-exposed sectors can deplete the shared expertise pool on which all organizations depend, with a time-delayed effect that appears only after 5–20 years. This reframes professional training from individual competency development to collective commons maintenance.
 **Pair AI production with verification, and seek outside measures.** [[crewscaler-ai-upskilling-framework|Nguyen et al. (2026)]] put automated hallucination checks and an SME audit between drafting and delivery across a five-stage upskilling pipeline, and rest the framework's strongest claims on a NASBA CPE accreditation and a vendor certification exam rather than self-defined success measures.
+
+## Common Misconceptions
+
+**"Coursework produces occupational competence."** The framework on this page puts the highest competency stages behind industry-embedded experience rather than coursework, which is a real limit on what a training programme can claim. A course can build the prerequisites; the gated stage needs the work.
+
+**"Fading support on a schedule is equivalent to fading it on evidence."** It is not. Fading assistance against the learner's *estimated competence* cut simulator lap time **27.9% (p = 0.005)** and failures by **3.52 per lap**, whereas rule-based fading on a fixed schedule produced no reliable change. The same amount of support, released on a different signal, is a different intervention.
+
+**"AI literacy training generalises across roles."** Most instruments do not measure role-specific competence: in a systematic review of **33 teacher AI literacy instruments**, **29 (87.9%)** targeted general AI concepts while only **4 (12.1%)** addressed the pedagogical or occupational use that the job actually requires. A programme built on general instruments is measuring a proxy.
+
+**"A simulator is a substitute for workplace training."** It develops procedure and removes consequence, which is valuable and is exactly the part that cannot transfer — the consequence is the curriculum in safety-critical work.
 
 ## Connected Concepts
 - [[lifelong-learning]]

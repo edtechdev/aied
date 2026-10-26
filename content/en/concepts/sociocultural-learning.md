@@ -1,7 +1,7 @@
 ---
 title: Sociocultural Learning
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-09-30T09:53:03-04:00"
+updated: "2026-10-26T01:30:00-04:00"
 type: concept
 foundations: [agency, human-ai-collaboration]
 pedagogy: [constructivist, learning-theories, scaffolding, sociocultural-learning]
@@ -52,6 +52,16 @@ Sociocultural theory shapes AIED [[research-methods-aied|research]] in several d
 The sociocultural strand is tightly coupled to [[cognitive-offloading|Cognitive Load]] Theory (support should manage load without eliminating productive effort) and to [[metacognition]] (learners in the zone are actively monitoring and regulating their understanding). [[stanford-evidence-base-ai-k12-2026]] synthesizes [[k-12|K-12]] evidence that AI tools work best when they keep learners in the ZPD rather than answering for them, and [[human-in-the-loop-ai]] research addresses how human and AI support jointly define the learner's zone.
 
 - **Generative AI as a mediational agent (2026):** Drawing on Vygotskian mediation, a theory paper proposes reframing generative AI not merely as a tool/mediational means but as a *mediational agent* that actively participates in learning activity, blurring the tool-vs-social-interaction boundary central to sociocultural theory ([[generative-ai-mediational-agent-sociocultural-2026]]). This positions generative models as co-participants rather than passive instruments, with implications for how mediation, [[agency]], and the learner–AI relationship are theorized in [[learning-sciences|the learning sciences]].
+
+## Common Misconceptions
+
+**"Sociocultural theory is about social factors in learning as a supplement to individual cognition."** The stronger claim is that cognition is **distributed across people, artifacts and environments** rather than residing inside individual heads. On that view an AI is not an external helper added to a learner's cognition; it is a component of the system the cognition runs in, which changes what should be measured.
+
+**"If cognition is distributed, individual assessment is measuring the wrong thing."** It changes the interpretation rather than removing the measurement. What the assessment captures depends on what is present in the system at the time, which is why assisted and unassisted performance diverge — they are measurements of different configurations.
+
+**"Adding a tool to a group changes only the group's efficiency."** It changes the division of labour, which is the unit the theory analyses. A group that routes most of its questions to an agent has redistributed the cognitive work even when the output is unchanged.
+
+**"Distributed cognition implies the individual does not matter."** It implies the individual's contribution cannot be read off individual performance alone; the unit of analysis is the activity system, not the person in isolation.
 
 ## Connected Concepts
 

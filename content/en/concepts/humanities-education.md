@@ -1,7 +1,7 @@
 ---
 title: Humanities and Social Science Education
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-10-02T14:30:18-04:00"
+updated: "2026-10-26T01:00:00-04:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, history-of-aied, philosophy-of-ai-in-education]
 level: [higher ed]
@@ -45,6 +45,16 @@ SSH education foregrounds the very capabilities generative AI most challenges â€
 - **Protect interpretive depth and authorship.** Because the humanities prize judgment and original authorship, guard against AI flattening analysis; make critical [[ai-ed-evaluation|evaluation of AI]] output a learning goal ([[critical-thinking]], [[ai-literacy]]).
 - **Use AI deliberately in source work.** [[paternalistic-filter-llm-history-education|History research]] shows AI can shape reasoning and source interpretation â€” teach students to interrogate AI-mediated historical claims and the filters it applies.
 - **Consider student-facing impacts.** [[genai-impact-chinese-students-hss|Student experience studies]] document how GenAI affects SSH learners; adapt support and integrity framing to real usage rather than assumptions.
+
+## Common Misconceptions
+
+**"The humanities are the least AI-exposed part of the curriculum."** The exposure has been measured and it is concentrated rather than diffuse: [[villanueva-ai-vulnerability-assessment-audit-2026|Villanueva (2026)]] audited **15,587 Arts and Humanities unit records** to establish where the exposure sits. It is unevenly distributed across units rather than spread thin, which makes assessment redesign a targeted problem rather than a sector-wide one.
+
+**"AI in humanities education is technocentric augmentation."** The position paper this page draws on argues the shift is an *intellectual transformation* rather than augmentation, positioning [[ai-literacy|digital fluency]] as a core liberal-arts competency. Adding a tool to an unchanged course mistakes the transformation for its instrument.
+
+**"Critical analysis is what AI most threatens, so it should be restricted."** Critical analysis is also what intentional use most develops, when the task is designed to deepen rather than flatten it. A [[human-in-the-loop-ai|human-in-the-loop]] model locates the discipline's contribution in the learner's judgement rather than in the tool's output.
+
+**"A general-purpose model is as useful for textual scholarship as for summarisation."** Interpretation requires the reader's position, and an assistance layer that supplies the reading has performed the interpretive act the discipline exists to teach.
 
 ## Connected Concepts
 

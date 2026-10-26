@@ -1,7 +1,7 @@
 ---
 title: "AI in Education"
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-02T07:35:56-04:00"
+updated: "2026-10-26T02:30:00-04:00"
 type: concept
 foundations: [ai-education, ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring, llm]
@@ -143,6 +143,18 @@ The knowledge base reflects a field in rapid evolution — from early intelligen
 ## Connections
 
 AI in education connects to every concept in the knowledge base — it is the field that all other concept pages collectively define. Use this page as a starting point to navigate the full knowledge base.
+
+## Common Misconceptions
+
+**"AI in education is one field with one evidence base."** It is an umbrella over distinct strands — disciplines, levels, assessment, research methods, institutions, equity — that differ in their methods, their outcome measures and their maturity. A finding from one strand does not transfer to another, which is why the knowledge base is organised this way rather than as a single literature.
+
+**"A tool that improves course outcomes improves student success."** The institutional strand shows the opposite pattern: in [[student-support-and-success|student support and success]], AI **reliably moves task completion but not persistence or graduation**. An intervention can win every in-course measure and leave the completion outcome flat.
+
+**"Technology performance is evidence about learning."** The field sits at the intersection of instructional technology and the [[learning-sciences|learning sciences]], and the distinction between the two is exactly this: whether a learner changed, rather than only whether a tool performed. A demonstration is a claim about the tool.
+
+**"Because AI is general-purpose, a finding anywhere applies everywhere."** Generality of the technology does not create generality of the evidence. The discipline, level and context strands exist because the same tool behaves differently across them, and an unchanged finding carried across a boundary is an extrapolation.
+
+**"The field's maturity can be read off its publication volume."** Volume and maturity diverge; the research-methods strand documents recurring design weaknesses that volume does not fix, and frameworks multiply faster than they are tested.
 
 ## Connected Concepts
 - [[pedagogical-patterns]] — The tested sequences that operationalize the field's pedagogies

@@ -1,7 +1,7 @@
 ---
 title: Inquiry-Based Learning
 created: "2026-08-22T05:55:16-04:00"
-updated: "2026-10-09T09:50:00-04:00"
+updated: "2026-10-26T01:30:00-04:00"
 type: concept
 foundations: [critical-thinking]
 pedagogy: [active-learning, inquiry-based-learning, metacognition, problem-based-learning, scaffolding, self-regulated-learning]
@@ -51,6 +51,16 @@ IBL's question-driven, process-focused structure is the natural home for product
 [[productive-failure|Productive failure (PF)]] is the most structured cousin of inquiry-based learning: learners explore problems and generate solutions *before* direct instruction, then consolidate. Both share the premise that learner-generated attempts (even failed ones) [[prior-knowledge|activate prior knowledge]] and prepare learners to learn from instruction. The AI-era PF [[research-methods-aied|research]] sharpens how AI should scaffold inquiry without short-circuiting it: [[kim-ai-productive-failure-adult-2026|Kim et al. (2026)]] derive AI design principles for preserving struggle through problem exploration and solution generation; [[puech-pedagogical-steering-llm-productive-failure-2025|Puech et al. (2025)]] show LLM tutors can be steered to withhold answers and elicit multiple attempts; [[lukesova-clue-before-correction-2026|clue-before-correction]] tasks exemplify clue-based (vs. direct) scaffolding that keeps learners doing the reasoning. These connect inquiry and PF to the broader imperative that AI must not remove the [[desirable-difficulties|productive struggle]] through which durable learning forms.
 
 In outdoor field settings the same imperative becomes spatial: GenAI can pre-structure what learners notice before they encounter the evidence, so a field-first sequence that withholds generated explanation until observations and initial interpretations are recorded protects the inquiry ([[geoscience-field-learning-genai-2026|Choi, 2026]]).
+
+## Common Misconceptions
+
+**"AI is a natural fit for inquiry-based learning because both are exploratory."** The fit depends entirely on design: [[generative-ai|generative AI]] and [[llm|LLM]] tools can serve as interactive co-inquirers that support questioning and investigation **only when designed to preserve the student's ownership of the question**. Used otherwise, an exploratory student is following an answer rather than conducting an inquiry, and the two look similar from the outside.
+
+**"Any AI added to an inquiry unit improves it."** The AI contribution has to be isolated from the inquiry itself. [[ai-assisted-inquiry-ssi-climate|Gousopoulos (2026)]] did this with a three-group design in a climate study: AI-assisted inquiry outgained inquiry-only peers on **decision-making (d = 0.69)**, with the evidence located in a specific outcome rather than in the general superiority of the approach.
+
+**"Inquiry is unstructured by definition."** The instructor scaffolds, and the structure is in the question design and the reflection cycle rather than in the delivery of content. Removing the scaffold does not make the inquiry more authentic; it makes it unscaffolded.
+
+**"Student-led questions will be well-formed if students are interested."** Generating a tractable question is the skill being developed, which is why a system that supplies good questions has performed the inquiry skill the activity exists to teach.
 
 ## Connected Concepts
 

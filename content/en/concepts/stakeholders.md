@@ -1,7 +1,7 @@
 ---
 title: Stakeholders
 created: "2026-08-19T17:50:00-04:00"
-updated: "2026-10-01T20:35:10-04:00"
+updated: "2026-10-26T02:00:00-04:00"
 type: concept
 foundations: [ai-literacy, learning-design, teacher-role]
 audience: [instructors, learners, administrators]
@@ -56,6 +56,16 @@ Identity is the human anchor of the stakeholder landscape: it is what AI must su
 - **Build role-specific competencies:** teachers, students, designers, and leaders each need tailored AI literacy and support (see [[ai-literacy]], [[teacher-ai-competency]], [[educational-development]]).
 - **Align across levels:** the knowledge base's governance research shows AI succeeds when institutional leadership, teacher practice, and student experience are aligned rather than fragmented.
 - **Consider parents and the broader community:** families are stakeholders in AI adoption whose role and concerns deserve explicit attention.
+
+## Common Misconceptions
+
+**"Stakeholders in AI in education share an interest in the same outcome."** Their interests are frequently in direct tension, and the same feature reads differently by role: a student's "personalized support" can simultaneously be a teacher's "integrity risk." Design processes that assume a common goal will resolve that tension by accident in favour of whoever speaks loudest.
+
+**"Giving every stakeholder group a voice resolves the conflict."** Consultation is not weighting. The page's own framing puts the design question at how to give each concern **genuine weight rather than letting the loudest voice win**, which is a procedure problem — who decides, with what evidence, and with what appeal — not a communications problem.
+
+**"Stakeholder analysis is an early-phase exercise."** The tensions persist into operation, because the roles keep interpreting the same system differently. A student-facing personalisation layer and a faculty-facing integrity dashboard are the same data viewed from two positions, and the conflict recurs whenever one is adjusted.
+
+**"An identity across audiences means one message can serve them all."** Communicating across audiences requires translating the same decision into different terms without misrepresenting it, which is more than rewriting one message four ways.
 
 ## Connected Concepts
 

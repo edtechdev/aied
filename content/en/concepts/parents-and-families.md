@@ -1,7 +1,7 @@
 ---
 title: Parents and Families
 created: "2026-09-16T14:29:36-04:00"
-updated: "2026-10-03T02:57:43-04:00"
+updated: "2026-10-26T01:00:00-04:00"
 type: concept
 foundations: [ai-literacy]
 technology: [conversational-ai]
@@ -74,6 +74,16 @@ What is missing is more conspicuous. Parents' own accounts are rare: the teacher
 A 2026 scoping review maps how far the field has gone. [[llm-family-education-activity-theory-2026|Luo et al. (2026)]] analyzed 53 HCI studies from 6,540 records across 19 venues through activity theory, and found the literature centered on child–parent interaction and on language, [[ai-literacy]], and relational learning, with 44 of the 53 studies (83%) set in child–parent configurations. Conversational, embodied, and spatial systems generate support from the context of an unfolding interaction, and LLMs redistribute educational labor while families and institutions remain responsible for interpreting outputs and deciding how they enter practice. Sustained [[personalized-learning|personalization]], repair labor, and how families negotiate authority and rules are the gaps the review names, which is the same absence this section documents from the other direction.
 
 **Relationship to other pages.** [[stakeholders]] is the short overview of the whole stakeholder set, with families listed as an audience not yet covered in depth; this page is that depth. [[early-childhood-elementary-ai-education]] covers the developmental and [[pedagogy|pedagogical]] domain for young learners across school and home; this page follows the family across ages, from preschool play activities to secondary homework. [[ai-use-disclosure]] covers whether learners tell others that they used AI; this page covers the adjacent question of whether that information reaches the adults at home, and what families are told about school AI use.
+
+## Common Misconceptions
+
+**"Families will engage if the offer is made."** Take-up collapses across handoffs. In Year 1 of the programme cited here, only about **45% of teacher-nominated students attended even one session**, with families lost at each step — invitation, interest, account creation on a [[edtech-platform|third-party platform]], matching. Every handoff is a place to lose a family, so an offer delivered counts for much less than an offer made.
+
+**"Family–school coordination around GenAI is an established practice."** [[family-school-autonomy-support-genai-2026|Fan, Li and Zhang (2026)]] treat it as an **untested hypothesis** rather than an established practice. Programmes are being designed on an assumption the literature has not yet tested, which is worth knowing before adopting one as evidence-based.
+
+**"Parents will notice if AI is harming their child's learning."** They are the least positioned to notice. In [[stromberg-generative-ai-learning-penalty-secondary-2026|Strömberg, Lei and Wu's (2026)]] data, homework scores rose **18%** while [[summative-assessment|closed-book exam]] scores fell **20%** within six months — and the rising number is the one visible at home. A parent watching homework sees improvement while the durable outcome declines.
+
+**"Home AI use is a parental-permission question."** It is a literacy and advocacy question. Parents' own AI literacy determines what they can interrogate about a school-issued tool, and access inequities across families shape which children get adult mediation at all.
 
 ## Connected Concepts
 

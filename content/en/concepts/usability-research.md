@@ -1,7 +1,7 @@
 ---
 title: Usability Research
 created: "2026-08-24T02:15:00-04:00"
-updated: "2026-09-30T07:37:28-04:00"
+updated: "2026-10-26T01:30:00-04:00"
 type: concept
 connected_faqs: [designing-educational-ai-software]
 research_method: [system development, user study, interviews]
@@ -49,6 +49,16 @@ Usability research shares data-collection methods with [[qualitative-research|qu
 
 - **Strengths:** directly identifies usability barriers that block adoption and learning; produces actionable design guidance; complements efficacy and qualitative research by explaining *why* a tool works or fails in use; relatively fast and cheap compared to large experiments.
 - **Limitations:** usability findings do not establish learning effects (a usable tool can still fail to teach); small samples and task-specific settings limit generalizability; self-report satisfaction can diverge from objective performance; researcher and task-design dependence.
+
+## Common Misconceptions
+
+**"A usable system is a good educational system."** Usability research addresses the interaction between person and system, not learning outcomes, and the two come apart in both directions: a pedagogically powerful tool can be abandoned for being frustrating, and a frictionless tool can teach nothing. Ease is a precondition for use, not evidence that the use was worthwhile.
+
+**"Usability is a polish activity at the end of development."** It is a method family with core techniques — observation, task analysis, think-aloud, heuristic review — that shape the design rather than finish it. Discovering the friction after the pedagogy is fixed tends to produce either a redesign of the interface around the problem or abandonment of the tool.
+
+**"Students who abandon a tool lacked motivation."** Abandonment is often the user's correct read of an interaction cost the designer never measured. Since a tool no one uses cannot have an effect, the abandonment rate is an educational outcome in its own right.
+
+**"Usability testing is the same as measuring learning."** They answer different questions and neither substitutes for the other; the failure mode is treating either as sufficient for adoption.
 
 ## Connected Concepts
 

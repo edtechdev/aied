@@ -1,7 +1,7 @@
 ---
 title: Qualitative Research
 created: "2026-08-24T02:00:00-04:00"
-updated: "2026-10-03T02:57:43-04:00"
+updated: "2026-10-26T00:30:00-04:00"
 type: concept
 research_method: [interviews, case study]
 confidence: high
@@ -74,6 +74,16 @@ A distinctive recent development is using [[llm|LLMs]] to assist qualitative cod
 - **Limitations:** limited statistical generalizability; interpretive and researcher-dependent (reliability concerns); small samples; weaker support for causal claims; findings can be hard to synthesize across studies; time- and labor-intensive.
 
 Qualitative and quantitative methods are complements, not rivals — see [[research-methods-aied]] for how they contrast and triangulate, and [[mixed-methods-research|mixed methods]] for designs that combine them.
+
+## Common Misconceptions
+
+**"Qualitative findings are ungeneralisable because the samples are small."** They are usually not *statistically* generalisable and are frequently *conceptually* generalisable — the mechanisms and dynamics they identify transfer to other settings even where the frequencies do not. A focus group that explains why students distrust a tutor has produced a mechanism a survey cannot, and discarding it for lacking a confidence interval discards the part that travels.
+
+**"AI can now do qualitative analysis, so the method scales."** It scales the coding and not the interpretation. Where the corpus shows this working well it is because the coding task was made comparable first — one study applied **15 fixed vignettes** across the public policies of **20 universities** to yield **300 comparable classifications**, which is a structured-instrument design rather than an open interpretive one. The insight in qualitative work is in the category construction, and that is what a model inherits rather than produces.
+
+**"Saturation is a property of the number of participants."** It is a property of the analysis: you stop when new data stop producing new codes. Two studies with identical sample sizes can be equally far from saturation, which is why a report that cites a participant count as evidence of adequacy has not demonstrated anything about coverage.
+
+**"Quantitative and qualitative findings compete."** They answer different questions: a survey tells you how many students distrust a tutor, and interviews tell you why. Treating them as rival accounts of the same thing produces the false choice that review sections keep reproducing.
 
 ## Connected Concepts
 

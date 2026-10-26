@@ -1,7 +1,7 @@
 ---
 title: Research Methods in AIED
 created: "2026-08-13T05:48:37-04:00"
-updated: "2026-10-05T10:25:44-04:00"
+updated: "2026-10-26T02:30:00-04:00"
 type: concept
 foundations: [ai-education]
 assessment: [educational-measurement]
@@ -173,6 +173,16 @@ A distinct methodological strand — [[usability-research|usability and HCI rese
 - **Usability/HCI:** benefits — identifies adoption barriers, actionable design guidance, fast and cheap. Limitations — does not establish learning effects, small samples, self-report satisfaction can mislead.
 
 In practice, AI-in-education research rarely falls cleanly into one tradition. The strongest evidence triangulates: a computational or usability evaluation establishes that a system works, an experiment establishes that it causes learning, quantitative instruments measure the constructs, and qualitative work reveals the mechanisms and meanings — together answering both *whether* a tool helps learning and *how and why*.
+
+## Common Misconceptions
+
+**"High benchmark accuracy shows educational effectiveness."** It does not, and the gap is the field's central measurement problem: a system can score high on accuracy while producing no learning, because benchmark accuracy measures task performance under the conditions the benchmark set. Educational effectiveness requires a learner outcome under conditions the technology does not control.
+
+**"One research tradition is methodologically superior."** The traditions trade one limitation for another by construction. Design-based research iterates on a real intervention but cannot attribute gains to a specific mechanism, while an [[rct|RCT]] isolates causes but runs in artificial conditions. Choosing between them is choosing which claim you can make, not which method is better.
+
+**"A lenient measurement rule is a minor methodological choice."** It changes the finding. Crediting any completion predicted later unaided performance **barely above a skill-difficulty constant (pooled AUC 0.604 against 0.595)** while declaring **93.9% of student-skill pairs mastered against 72.8%** under a strict rule. The rule produced a 21-point difference in who was declared ready and almost no predictive improvement to show for it.
+
+**"Statistical significance settles whether an intervention worked."** It settles whether an effect was detectable. Whether it was a *learning* effect depends on the outcome measure, the comparison and the conditions under which it was taken — which is why the design and reporting choices in this page's sections carry as much weight as the analysis.
 
 ## Connected Concepts
 

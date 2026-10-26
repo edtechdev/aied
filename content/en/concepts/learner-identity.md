@@ -1,7 +1,7 @@
 ---
 title: Learner Identity
 created: "2026-08-27T08:10:00-04:00"
-updated: "2026-10-01T14:02:49-04:00"
+updated: "2026-10-26T01:30:00-04:00"
 type: concept
 foundations: [agency, learner-identity]
 discipline: [stem education]
@@ -66,6 +66,16 @@ Learner identity is the **student-facing** counterpart to teacher identity. Teac
 ## Connections
 
 Learner identity connects to [[agency]] (identity is enacted through agentic authorship), [[self-efficacy]] (competence beliefs that sustain identity), [[motivation]] and [[self-determination-theory]] (identity formation satisfies needs for autonomy and competence), [[student-experience]] and [[student-engagement]], and [[stem-education]] (where disciplinary identity is a key outcome and predictor of persistence). It is also shaped by [[situated-learning]] and [[critical-pedagogy]] (identity as participation and as power-laden negotiation) and connects to [[authentic-assessment]] (tasks that let learners perform and thus claim an identity). Its [[higher-ed]] and [[k-12]] relevance spans both schooling and professional preparation.
+
+## Common Misconceptions
+
+**"Learner identity is a stable trait a course can accommodate."** It is better treated as something **continuously built through participation, recognition, and authorship**. That shift changes the design question from matching an existing identity to shaping the one the course makes available — and an AI that completes the work removes one of the three ingredients, since authorship is where the identity claim originates.
+
+**"Identity issues belong to students from under-represented groups."** Identity is formed in every learner by whether their participation is recognised, which makes it a general design condition rather than a special provision. Framing it as a targeted concern is how it gets deferred.
+
+**"AI assistance lowers barriers and therefore widens participation."** It can lower the barrier to producing work while narrowing the barrier to claiming authorship. A student who submits a fluent artefact they did not author has been given access to the outcome and denied the recognition that builds the identity behind it.
+
+**"Recognising a learner's identity is a matter of representation in content."** Representation matters and recognition is enacted in practice: whose questions get taken up, whose contribution is credited, and who is treated as capable. A curriculum can be representative and still withhold the recognition that identity formation requires.
 
 ## Connected Concepts
 

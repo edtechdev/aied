@@ -1,7 +1,7 @@
 ---
 title: Social Norms of AI Use
 created: "2026-09-23T09:54:12-04:00"
-updated: "2026-10-07T08:00:00-04:00"
+updated: "2026-10-26T00:30:00-04:00"
 connected_faqs: [course-ai-policy, reduce-ai-cheating, should-we-use-ai-detectors]
 type: concept
 foundations: [academic-integrity, framing-ai-use-for-students, learner-identity]
@@ -86,6 +86,18 @@ The cost of that substitution shows up in where faculty and students actually ta
 - **Respect disciplinary variation.** A 27% to 5% spread across departments is not inconsistency to be normalized away, it is different judgments about what the credential certifies. Institution-wide mandates tend to be written for a discipline that does not exist.
 - **Do not reach for monitoring to set norms.** Proctoring raised anxiety without changing the temptation to cheat in the strongest study available, and it concentrates that cost on the least advantaged students.
 - **Ask who is missing from the norm.** The ethics literature assigns students almost no obligations and takes little account of their judgment, while the classroom assigns them a great deal and enforces it socially. Closing that gap is a curriculum question, not a compliance question.
+
+## Common Misconceptions
+
+**"Students know how much their peers use AI."** They overestimate their own knowledge of it. The median correlation between a perceiver's estimates and their own self-reported usage profile was **r = .73 at both waves**, while rank accuracy for the *kind* of AI use was only **r = .34**. Students can tell roughly how much, and cannot tell what kind — which means norms form around an impression that is systematically coarse.
+
+**"Publishing a policy establishes the norm."** The local rulebook is written in practice, not in policy text, and domains diverge sharply: AI-integrated assignments appeared in **27% of business syllabi and 5% of humanities syllabi** across **31,000 courses**. A student's operative norm is their own discipline's, and an institution-wide document does not overrule it.
+
+**"Shame and guilt discourage AI use."** They regulate visibility rather than use: [[shame-guilt-ai-regulation-computing-education|shame and guilt regulate visibility]], producing hiding and selective disclosure instead of behaviour change. The observable effect of a shaming norm is less honest reporting, not less use.
+
+**"Surveillance would settle the norm by making use visible."** Making behaviour visible does not resolve what the norm should be; it changes what people are willing to disclose. The measured pattern is selective disclosure already, so a monitoring regime applied to it measures the concealment rather than the conduct.
+
+**"Norms are informal, so they are outside institutional reach."** They are locally enforced and locally changeable, which makes them more tractable than policy: a course team's explicit practice is a lever precisely because it is where the operative rule is set.
 
 ## Connected Concepts
 

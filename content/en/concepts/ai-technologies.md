@@ -1,7 +1,7 @@
 ---
 title: Technologies
 created: "2026-08-19T18:10:00-04:00"
-updated: "2026-10-02T07:32:07-04:00"
+updated: "2026-10-26T02:00:00-04:00"
 type: concept
 foundations: [agentic-ai]
 technology: [ai-technologies, educational-nlp, educational-robotics, generative-ai, knowledge-graph, llm, multimodal, prompt-engineering, rag, reinforcement-learning, simulation]
@@ -53,6 +53,16 @@ The technical strand is inseparable from the knowledge base's other themes:
 - **Choose technology by pedagogical intent:** the AI system and technique should follow the [[pedagogy|teaching strategy]], not the reverse.
 - **Evaluate the technical layer:** [[ai-ed-evaluation]] and [[benchmark]] research assess AI systems on reliability, pedagogy, and [[equity-in-ai-education|equity]], not just headline accuracy.
 - **Robots and agents are part of the stack:** [[educational-robotics|embodied]] and [[agentic-ai|agentic]] systems extend the technical repertoire beyond text — and bring their own design and safety considerations.
+
+## Common Misconceptions
+
+**"The model is the whole story."** Techniques such as retrieval-augmented generation and prompt engineering exist precisely to control and ground an LLM's output, and the architecture around the model often determines whether it is usable in a classroom. Two systems on the same model can differ entirely in reliability because of what surrounds it.
+
+**"The field's technical maturity is established."** The mapping is thin where it matters: across **474 studies**, GPT-series models and LangChain were dominant while **governed tool orchestration, persistent memory, and long-horizon planning were largely absent**, and only **138 of 474 (29%)** drew on educational theory. The stack being used is far narrower than the stack the field needs.
+
+**"Technical choices are the technologist's business, not the educator's."** The page's framing is that you can be an excellent educator without being able to build an LLM and your technical choices still shape what AI can and cannot do in your classroom. Whether a system grounds its answers in course material is a decision with pedagogical consequences that someone has to make.
+
+**"A more capable model will resolve the field's gaps."** Orchestration, memory and long-horizon planning are architectural rather than capability problems — the documented absence is of systems that govern their own tool use over time, which a better model does not supply on its own.
 
 ## Connected Concepts
 

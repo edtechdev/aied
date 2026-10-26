@@ -2,7 +2,7 @@
 connected_resources: [drawsplat]
 title: Multimodal AI
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-30T09:59:35-04:00"
+updated: "2026-10-26T00:30:00-04:00"
 type: concept
 foundations: [ai-education, ai-literacy]
 technology: [generative-ai, intelligent-tutoring, llm, multimodal]
@@ -81,6 +81,16 @@ Multimodal systems also expand access and [[personalized-learning|personalizatio
 4. **Extend evaluation to multimodal validity.** [[assessment-validity|Assessment validity]], bias, and reliability must be examined when AI scores or generates multimodal artifacts.([[multimodal-item-parameter-estimation-2026]])([[ai-ed-evaluation]])
 5. **Watch equity and privacy.** Unreliable support on image-rich problems and the data demands of multimodal sensing both carry equity and privacy implications.([[syal-multimodal-dialogue-stem-2026]])([[privacy-aware-classroom-incident-recognition-2026]])
 6. **Match the pipeline to the content.** A cybersecurity lab assistant's multimodal LLM handled dense visual slides better, while an OCR-plus-LLM pipeline delivered comparable instructional value on text-centric slides at significantly lower computational cost.([[genai-cybersecurity-ocr-multimodal-instruction-2025|Patel et al. (2025)]])
+
+## Common Misconceptions
+
+**"A multimodal model handles multimodal problems."** Accuracy degrades sharply when meaning is carried by the figure rather than the text. A [[physics-education|physics]] tutor answers text-based problems about **96%** of the time but drops to about **74%** on problems that embed meaning in diagrams — the **Multimodal Interference Effect**. Twenty-two points of capability disappear exactly where the disciplinary content lives.
+
+**"Adding an image to the prompt resolves the diagram problem."** The input modality is not the bottleneck; the interference is. A model that receives the diagram and still reasons from the surrounding prose has been handed the information and has not used it, which is why the failure is invisible unless someone compares the two problem formats.
+
+**"Multimodal capability is a single ladder, so the best model overall is best for the image-rich task."** Capability is task-specific, and a model that leads on general benchmarks can trail on force diagrams. For image-rich disciplines the relevant test is the one with the meaning embedded in the figure.
+
+**"Text-only tutoring limits are a nuisance rather than a curriculum problem."** In disciplines where the diagram *is* the problem — physics, chemistry, geometry, engineering, medicine — a text-only tutor's competence boundary falls across the assessed content rather than at its edges.
 
 ## Connected Concepts
 - [[generative-ai]]

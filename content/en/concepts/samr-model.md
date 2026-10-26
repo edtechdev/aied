@@ -1,7 +1,7 @@
 ---
 title: SAMR Model
 created: "2026-09-10T09:50:00-04:00"
-updated: "2026-10-06T18:35:00-04:00"
+updated: "2026-10-26T00:30:00-04:00"
 type: concept
 foundations: [educational-development, learning-design, tpack, teacher-ai-competency]
 technology: [ai-technologies, technology-acceptance-model]
@@ -58,6 +58,16 @@ SAMR is best understood as an integration-depth lens used in planning and evalua
 - **Pair it with ICAP.** SAMR describes what the *task* becomes; ICAP describes how the learner *engages*. Used together they distinguish surface substitution from deep interactive co-construction.
 - **Complement it with adoption and equity lenses.** SAMR says nothing about why a tool is adopted or who benefits. Pair it with [[technology-acceptance-model|adoption models]] and [[equity-in-ai-education|equity]] analysis to avoid a depth label substituting for a [[critical-thinking|critical evaluation]].
 - **Treat evidence of incremental integration as a finding, not a failure.** If most AI integration clusters at Substitution/Augmentation, the design task is not to force Redefinition but to recognize that transformative use requires different task designs, not just better tools.
+
+## Common Misconceptions
+
+**"Higher on SAMR is better teaching."** SAMR is a lens for asking whether AI *reconceptualises* learning or *improves* existing practice; it is not a quality ranking, and Re-definition is not the correct answer for every task. A substitution that removes an unproductive step is a success judged on learning, not on the level it occupies.
+
+**"AI adoption is progressing up the ladder."** The distribution is concentrated at the bottom. A systematic review of AI integration in [[higher-ed|higher education]] found **most uses sat at Substitution or Augmentation, with only one study approaching Redefinition**. SAMR's practical use in this literature is therefore largely diagnostic — it names where the field actually is.
+
+**"SAMR and TPACK are competing frameworks."** They describe different things: SAMR describes the *degree of transformation* in a task, while [[tpack|TPACK]] describes the *knowledge* a teacher needs to integrate technology well. A teacher can be highly TPACK-capable and still operate at Substitution, which is why the two are used together rather than chosen between.
+
+**"A tool that is transformative at one level is transformative at all levels."** The same generative tool can support a Substitution in one course and a Redefinition in another, because the level is a property of the task design rather than of the technology. Attributing the level to the tool produces adoption decisions in place of design decisions.
 
 ## Connected Concepts
 

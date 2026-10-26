@@ -1,7 +1,7 @@
 ---
 title: Student Support and Success
 created: "2026-10-01T20:31:35-04:00"
-updated: "2026-10-03T01:40:50-04:00"
+updated: "2026-10-26T01:00:00-04:00"
 type: concept
 foundations: [ai-education, human-ai-collaboration]
 pedagogy: [help-seeking, student-experience, student-engagement]
@@ -83,6 +83,16 @@ Durability in this literature is an organizational property, not a technical one
 ## Connections to related concepts
 
 Student support connects to [[student-experience]] as the student-facing counterpart — the same technologies seen from the student's side rather than the institution's — and to [[help-seeking]] for the mechanism by which students who need support actually obtain it; outreach and course-specific assistants are both attempts to lower the cost of asking. [[learning-analytics]] owns the prediction that feeds allocation, [[student-modeling]] and [[knowledge-tracing]] the models underneath it, and [[recommender-systems-and-learning-paths]] the recommendation layer. It connects to [[well-being]] through campus mental-health and prevention systems, to [[career-development-and-readiness]] as the outcome that follows completion, to [[equity-in-ai-education]] and [[privacy]] through the risks of acting on scores, and to [[administrator]], [[stakeholders]], and [[change-management]] as the roles and processes that decide whether any of it is sustained. [[learning-gains]] is the adjacent measurement node: this page's outcomes are administrative rather than instructional, and the two do not move together.
+
+## Common Misconceptions
+
+**"Predicting which students will struggle is the intervention."** Prediction is the input to support and is not support. The corpus separates these deliberately: a registration reminder and a retention programme are different interventions with different evidence, and the research suggests one does not buy the other. An early-warning dashboard that ends in a score has added measurement without adding help.
+
+**"A retention programme that raised persistence proves the AI worked."** It proves the programme did, and the AI layer must be evaluated separately from the outreach it triggers. A four-year randomized study of CSUNny, a non-generative text-message chatbot at California State University, Northridge, followed **two undergraduate cohorts (N = 8,708)** through **eight semesters** with **annual opt-out rates never exceeding 4%** — a strong receptivity result about *messaging*, and not evidence that a generative or predictive system would achieve the same.
+
+**"The outcome ladder collapses: engagement is retention."** Each rung measures something different — opting in, responding, persisting, completing — and a programme can move the lower rungs while leaving the upper ones flat. Reporting the responsive share as a success commits precisely that substitution.
+
+**"An equity concern is a reason to stop using the data."** It is a reason to act on scores carefully. Acting on a predictor can distribute support and can distribute suspicion, and the risk concentrates on the students the model classifies least favourably — which makes the remedy governance of the use, not abandonment of the measurement.
 
 ## Connected Concepts
 
