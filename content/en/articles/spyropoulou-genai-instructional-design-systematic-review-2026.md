@@ -66,4 +66,4 @@ The authors identify several limits, and they constrain how far the findings tra
 
 ## Citation
 
-*Generative AI in Higher Education Instructional Design: A Systematic Review of AI Roles, Educator Competences, and Professional Development Approaches* — Spyropoulou, N. D., & Kameas, A. D., *Computers*, 15(11), 745, 2026. [doi:10.3390/computers15110745](https://doi.org/10.3390/computers15110745)
+Spyropoulou, N. D., & Kameas, A. D. (2026). [*Generative AI in Higher Education Instructional Design: A Systematic Review of AI Roles, Educator Competences, and Professional Development Approaches*](https://doi.org/10.3390/computers15110745). *Computers*, 15(11), 745.

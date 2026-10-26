@@ -76,4 +76,4 @@ The author is unusually explicit about the design's limits, and they matter for 
 
 ## Citation
 
-*Student epistemic agency in AI-mediated practices* — Bergdahl, N., *Smart Learning Environments*, 13(38), 2026. [doi:10.1186/s40561-026-00464-y](https://doi.org/10.1186/s40561-026-00464-y)
+Bergdahl, N. (2026). [*Student epistemic agency in AI-mediated practices*](https://doi.org/10.1186/s40561-026-00464-y). *Smart Learning Environments*, 13(38).

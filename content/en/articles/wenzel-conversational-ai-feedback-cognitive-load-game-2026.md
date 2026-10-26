@@ -80,4 +80,4 @@ The authors are careful, and the design has real constraints.
 
 ## Citation
 
-*Beyond Access: Engagement with Conversational AI-Assisted Feedback Shapes Cognitive Load in Digital Game-Based Learning* — Wenzel, A., Geiger, J.-M., & Liening, A., *Computers in Human Behavior*, 109217, 2026. [doi:10.1016/j.chb.2026.109217](https://doi.org/10.1016/j.chb.2026.109217)
+Wenzel, A., Geiger, J.-M., & Liening, A. (2026). [*Beyond Access: Engagement with Conversational AI-Assisted Feedback Shapes Cognitive Load in Digital Game-Based Learning*](https://doi.org/10.1016/j.chb.2026.109217). *Computers in Human Behavior*, 109217.
