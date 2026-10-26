@@ -2,7 +2,7 @@
 connected_resources: [vibes-diy]
 title: Design Thinking
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-30T09:59:35-04:00"
+updated: "2026-10-25T21:20:00-04:00"
 type: concept
 foundations: [ai-education]
 technology: [generative-ai]
@@ -43,6 +43,16 @@ For educators, the collective evidence counsels against blanket restriction or u
 ## Connections to related concepts
 
 Design thinking in AI education is deeply entangled with [[human-ai-collaboration]]: generative tools broaden ideation while humans retain epistemic authority and [[agency]]. It relies on [[scaffolding]] and stage-appropriate [[feedback]] to be effective, is often delivered through [[socratic-method|Socratic]] and adversarial interactions in [[higher-ed]] and [[k-12]], and its success is frequently framed as preserving [[creativity]] and fostering [[ai-literacy]] under [[human-in-the-loop-ai]] governance.
+
+## Common Misconceptions
+
+**"Generative AI accelerates design thinking across all its stages."** It accelerates ideation and can degrade the judgement the later stages depend on: it **excels at early-stage ideation but can cause design fixation or aesthetic lock-in if used uncritically**. Fixation is the specific hazard of a fast ideation tool — the first plausible direction becomes the frame, and a large set of variations on one concept is not a wider search space.
+
+**"More generated options mean a broader exploration."** Breadth of output and breadth of consideration are different quantities. A student who generates thirty directions and adopts the first convincing one has explored one direction, and high acceptance rates are the signature of exactly that.
+
+**"Design thinking is a process to be automated stage by stage."** It is a discipline of framing and reframing problems, which is what fixation forecloses. Automating the stages while leaving the frame unexamined produces competent output for the wrong problem.
+
+**"AI agents that agree with the student support their design reasoning."** The productive use documented here runs the other way: [[ai-agents-constructive-conflict-design-education-2026|constructive conflicts with AI agents]] tests adversarial prompting that forces reconsideration. An agreeable agent reinforces the fixation; a dissent-oriented one is the design with an educational claim behind it.
 
 ## Connected Concepts
 

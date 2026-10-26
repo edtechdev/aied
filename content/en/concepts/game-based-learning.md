@@ -1,7 +1,7 @@
 ---
 title: Game-Based Learning
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-09-30T12:53:22-04:00"
+updated: "2026-10-25T21:20:00-04:00"
 type: concept
 pedagogy: [active-learning, game-based-learning, motivation, student-engagement]
 technology: [educational-robotics]
@@ -41,6 +41,14 @@ Gamification is grounded in motivational theory, particularly [[self-determinati
 - **Engagement and motivation:** gamification is used across the knowledge base to increase learner engagement and motivation in AI, [[cs-education|programming]], and [[stem-education|STEM]] learning contexts. [[genai-motivation-engagement-2026|Generative AI, motivation, and engagement]] research examines how game-like elements combine with AI to sustain learner interest. Two 2026 studies extend this by comparing gamified and AI-supported conditions against traditional instruction: [[nasa-tlx-workload-gamified-ai-2026|a NASA-TLX study]] measured perceived workload across traditional, gamified, and AI-supported learning conditions, and [[arcs-motivational-ergonomics-gamified-ai-2026|an ARCS study]] examined motivational "ergonomics" in gamified and AI-supported learning with implications for [[professional-training|workplace training]]. Together they clarify that the motivational benefit of game-like and AI-supported designs depends on how they shape [[motivation|perceived effort]], workload, and attention (e.g., ARCS attention/relevance dimensions), not on gamification alone.
 
 GBL and gamification together connect to [[educational-robotics]], [[student-engagement]], [[motivation]], [[self-determination-theory]], [[active-learning]], [[simulation]], [[project-based-learning]], and [[computational-thinking]].
+
+## Common Misconceptions
+
+**"AI-supported game-based learning has a solid evidence base."** The synthesis behind the claim is large and thin at the same time. A **55-study systematic review** finds positive effects on knowledge, intrinsic motivation and affective engagement — but only **4 studies (7%) met its High-quality threshold**. A pooled positive effect drawn from a corpus where 93% of studies fall below the review's own quality bar is a hypothesis with a literature attached, not a finding to design against.
+
+**"Positive effects on motivation and knowledge are mutually reinforcing."** They are separately measured and, in the wider literature, separately scheduled: [[student-engagement|engagement and achievement]] move on different timelines, so a game that raises intrinsic motivation has demonstrated one outcome. Treating the motivational result as corroborating the knowledge result inflates a two-part finding into a stronger one than the design supports.
+
+**"If a game engages students, the learning follows from the fun."** Fun is the delivery mechanism for the repetition a game makes tolerable, not the mechanism of learning. A game that adds engagement without adding productive practice has added the part that was never in short supply.
 
 ## Connected Concepts
 - [[educational-robotics]]

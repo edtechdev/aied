@@ -6,7 +6,7 @@ technology: [adaptive-learning, personalized-learning]
 assessment: [assessment]
 confidence: medium
 created: "2026-08-29T12:55:12-04:00"
-updated: "2026-09-30T09:59:35-04:00"
+updated: "2026-10-25T21:20:00-04:00"
 reviewed_by: [editor]
 ---
 
@@ -47,6 +47,16 @@ Finally, the evidence warns against assuming AI-generated support is uniformly b
 - **Shared-control mastery learning is only as efficient as the learner's task-selection strategy.** A simulation study (1,000 simulated learners per run, AFM and BKT parameters fit to real MathTutor and DataShop logs) compared nine task-selection strategies. Efficiency varies by an order of magnitude: the risk-averse "Minimize Worst Case Loss" strategy — picking the skill whose worst-case mastery loss is smallest — produces 30.28x overpractice in equation-solving (28.93x in graph-interpretation), against 1.73 +/- 0.38 on average for the other strategies. Targeted system constraints rescue it surgically: task-selection constraints cut overpractice to 12.88/14.46x, and a problem-selection "Prefer Harder" bias cuts it to 1.98x (Cohen's d = 1.86) — while already-efficient strategies are unaffected. The design implication: constraints should be strategy-aware, protecting pathological self-regulators without taxing good ones, and simulation-first redesign avoids exposing students to 30x overpractice to discover the fix. ([[noh-simulating-task-selection-2026]])
 
 Standards-based grading is the assessment counterpart to mastery learning, and [[mesny-innovative-assessment-grading-management-2026|Mesny, Roberge-Maltais & Galy (2026)]] identify it among five innovative practices aligned with "assessment for learning" that higher-education educators could adopt — but they find it virtually absent from management-education discourse. They attribute this to normative barriers: norm-referenced "grading on a curve," external signaling (rankings, internships, accreditation), and students' instrumental mindset all resist mastery-oriented, gradeless approaches. Their recommendation is incremental experimentation — for example, introducing standards-based rubrics for a single task before scaling — supported by program-level coordination and documented Scholarship of [[teacher-role|Teaching]] and Learning evidence.
+
+## Common Misconceptions
+
+**"A mastery threshold is an objective property of the learner."** The threshold is a property of the *rule* used to update it. [[crediting-assisted-work-inflates-mastery-2026|Srivastava (2026)]] ran **four update rules over identical event sequences** from the ASSISTments dataset, and the rules disagree about who is ready. Mastery is therefore a decision recorded in a number, not a fact discovered about a student, and the rule should be treated as a stated policy rather than an implementation detail.
+
+**"If the system says mastered, the student is ready to advance."** Only relative to the update rule in force. Where a rule credits assisted work, "mastered" can describe a student who has succeeded with support and not independently — the same divergence between assisted performance and unassisted capability that the [[learning-gains|learning-gains]] literature documents.
+
+**"Mastery learning is the pedagogy AI finally makes possible."** Its mechanics predate AI considerably — Bloom formalised the framework decades ago — and AI operationalises it by automating the assessment and pacing decisions rather than by realising a previously impossible design. That reframing matters because the automation inherits the rule choice, and the rule is where the judgement lives.
+
+**"More frequent assessment under mastery makes the threshold more reliable."** Frequency improves the estimate and does not fix a mis-specified rule. Recomputing mastery more often from events that include assisted work converges faster on the same wrong answer.
 
 ## Connected Concepts
 

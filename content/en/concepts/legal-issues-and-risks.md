@@ -1,7 +1,7 @@
 ---
 title: "Legal Issues and Risks"
 created: "2026-09-18T05:40:00-04:00"
-updated: "2026-09-30T07:29:37-04:00"
+updated: "2026-10-25T21:20:00-04:00"
 type: concept
 foundations: [academic-integrity, reducing-ai-misuse]
 assessment: [ai-detection, assessment-validity, remote-proctoring]
@@ -70,6 +70,16 @@ For professional programs the exposure does not end at graduation. Gutowski and 
 - Does detector output survive as evidence of anything once an institution concedes its error rates in a hearing, or does the concession convert the case into a procedural-fairness dispute?
 - Is the vendor or the institution the data controller when proctoring and detection run through a third-party platform, and does that change the advice to institutions?
 - Should institutions publish the evidence standards they apply to AI misconduct, in the way that evidential thresholds are published elsewhere, as a way of reducing both wrongful accusation and legal exposure?
+
+## Common Misconceptions
+
+**"AI misconduct is one legal question."** It is several arriving together — **evidentiary** (whether the accusation can be evidenced at all), **contractual and procedural** (whether the institution followed its own rules and gave a fair hearing), and **equalities**-related. A response that addresses evidence while neglecting procedure is legally exposed on a dimension it never considered, and institutions tend to prepare for whichever one they have been sued over.
+
+**"Institutions have written consistent policies, so the risk is students'."** The inconsistency runs the other way too. [[watson-rainie-ai-challenge-faculty-survey-2026|Watson and Rainie's (2026)]] survey of **1,057 US faculty** found that **87% of respondents wrote their own assignment-level** guidance — so the operative rules vary within a single institution, and a student can comply with one instructor's rule and violate another's in the same week. A student accused under an unstated standard has a procedural problem the institution created.
+
+**"Detection provides the evidence a procedure needs."** Detection provides a score. The evidentiary question is whether an accusation can be evidenced at all, and the [[ai-detection|detection literature]] shows the tools produce neither the reliability nor the interpretable category a disciplinary process requires. Building the procedure on a detector builds it on the weakest link.
+
+**"The risks are hypothetical, and policy will catch up."** The risks are being distributed unevenly now, and the students absorbing them are the ones least able to contest a procedure. The asymmetry between an institution's capacity to investigate and a student's capacity to respond is a present harm rather than a future one.
 
 ## Connected Concepts
 

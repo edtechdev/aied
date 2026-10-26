@@ -2,7 +2,7 @@
 connected_resources: [teacherserver]
 title: Automated Question Generation
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-09-30T11:35:26-04:00"
+updated: "2026-10-25T21:20:00-04:00"
 type: concept
 technology: [adaptive-learning, educational-nlp, generative-ai, llm, personalized-learning]
 assessment: [assessment, automated-assessment, automated-question-generation, educational-measurement, formative-assessment]
@@ -69,6 +69,16 @@ AQG is a key enabler of [[adaptive-learning|adaptive]] and [[personalized-learni
 - **Design for cognitive depth:** prompts and pipelines should target higher-order thinking, not just recall, to support genuine learning.
 - **Calibrate difficulty:** use AI difficulty estimates to select appropriately challenging items, with strong validation before high-stakes use.
 - **Personalize via learner models:** combine AQG with knowledge tracing and interest models to generate adaptive, individualized items.
+
+## Common Misconceptions
+
+**"Generated questions are usable at the scale they can be produced."** Volume is not the constraint; calibration is. Quality varies dramatically across item types and requires validation to avoid hallucinated or poorly calibrated items, which is why the pipelines that work spend their effort on verification rather than generation — one reduced hallucination by **62%** by adding a generate-then-validate-refine loop.
+
+**"A refinement loop makes generated items trustworthy."** It makes them less wrong. A 62% reduction in hallucination leaves a substantial remainder, and no loop resolves the harder problem of whether an item's stated difficulty matches what students actually do — the [[assessment-validity|validity]] question that the difficulty-label evidence shows generated metadata failing on. Validation reduces fabricated content; calibration requires student response data.
+
+**"Question generation naturally personalises practice."** It generates supply, and personalisation is a matching problem. Producing more items does not tell you which item a given learner should see next, and the adaptive-selection question is a separate mechanism with its own evidence.
+
+**"Generation scales assessment without changing what assessment measures."** It changes the composition of what is measured, because the items that generate well are not a representative sample of the items that assess well. Easy-to-generate formats will progressively crowd out the harder-to-generate ones, which quietly reshapes the construct.
 
 ## Connected Concepts
 
