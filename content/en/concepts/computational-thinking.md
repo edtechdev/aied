@@ -1,7 +1,7 @@
 ---
 title: Computational Thinking
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-15T10:00:00-04:00"
+updated: "2026-10-26T06:45:00-04:00"
 type: concept
 foundations: [ai-literacy]
 technology: [adaptive-learning, generative-ai, llm, prompt-engineering]
@@ -60,6 +60,12 @@ For educators, the consistent message is that CT is developed through *explicit,
 Computational thinking is the shared cognitive foundation beneath [[ai-literacy]] and [[critical-thinking]], the curricular core of [[cs-education]] and [[k-12]] computing, and the conceptual target that [[educational-robotics]], [[game-based-learning]], and [[project-based-learning]] are best designed to serve. It is deepened by [[llm|large language models]] and [[generative-ai]] when those are used as scaffolding tools, and it is the skill that student-misconceptions taxonomies and CT-aware assessments aim to measure. Teachers develop it through [[teacher-education]] and [[professional-training]], and it transfers across domains including [[physics-education]] and [[stem-education|STEM]] broadly.
 
 - **Computational thinking predicts AI-assistant learning.** [[computational-thinking-aica-2026|Eighth-grade students]] with high computational thinking significantly outperformed low-CT peers in an AI coding-assistant course, using the assistant for understanding rather than answer retrieval.
+## Common Misconceptions
+
+- **"AI removes the need for computational thinking."** The [[chat-debugging-human-ai-collaboration-circuits|chat debugging study]] found that when undergraduates debugged circuits with LLM help, their **deficits in fundamental concepts and critical thinking — not the tool — were the limiting factor**. CT is what lets a learner evaluate an output rather than accept it, which is precisely the capacity that makes AI assistance usable at all.
+- **"AI assistance levels the playing field in under-resourced settings."** It can, under conditions. A **14-week quasi-experiment with 103 first-year undergraduates in Nigeria** found AI-supported problem-based learning (ChatGPT and Teachable Machine) produced gains, and AI as a "more capable peer" carries CT where other provision is absent. But that is a finding about a structured intervention, not a property of giving students a chatbot.
+- **"LLMs cannot assess CT reliably."** [[llm-computational-thinking-physics-2026|Physics CT assessment research]] found LLMs can **mirror human raters** in scoring growth in Data Practices and Computational Problem-Solving Practices across large-enrollment courses. The obstacle to scaling CT assessment has been rater capacity, and that constraint is softening — which shifts the design problem to whether the instrument is measuring CT rather than compliance.
+- **"CT is a coding skill that robotics happens to teach."** A **systematic review of 95 studies** confirms robotics fosters CT, creativity and problem solving, but also that the **setting moderates the outcome**: [[game-based-learning|game-based]] delivery suits informal settings while gamification differs in formal ones. CT is a set of practices that transfer unevenly, so the transfer claim needs the task design it actually used.
 ## Connected Concepts
 
 - [[cs-education]]

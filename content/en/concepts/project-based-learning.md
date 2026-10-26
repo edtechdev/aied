@@ -1,7 +1,7 @@
 ---
 title: Project-Based Learning
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-10-13T11:05:00-04:00"
+updated: "2026-10-26T06:45:00-04:00"
 type: concept
 pedagogy: [active-learning, collaborative-learning, project-based-learning]
 technology: [educational-robotics]
@@ -51,6 +51,25 @@ PBL connects to [[active-learning]], [[experiential-learning]], [[collaborative-
 
 - Project-based learning combined with [[storytelling-in-education|digital storytelling]] offers a pedagogical response to [[generative-ai|generative AI]] in art and design education. A 15-week embedded case study with 426 undergraduates implemented a PBL-DS framework in which digital storytelling served as the primary methodology for students to translate local cultural heritage into emotionally resonant, [[multimodal]] narratives, cultivating the creative capacities that AI lacks.
 
+## Common Misconceptions
+
+- **"PBL's effect is large, so PBL with AI is reliably large."** The only three-level meta-analysis of this pairing pools **22 controlled studies (66 effect sizes)** and estimates a large effect, **g = 0.819, 95% CI [0.655, 0.983]** — but a PET-PEESE correction reduces it, and the estimate describes the studies pooled rather than the design in general.
+- **"Customising the tool improves the outcome."** Tool type moderated the effect significantly (**QM = 14.301, p < .001**), and the direction is counterintuitive: a **general chatbot used directly pooled higher (g = 0.970)** than systems **customised into course platforms, virtual patients or agents (g = 0.455)**. The bare tool outperformed the engineered one, which argues against assuming that purpose-built products are the better purchase.
+- **"Students find open-endedness the hard part."** In the student-perception data, **open-endedness was the top positive theme (22.3%)** while **unclear instructions topped the negatives (23.7%)**. Students welcomed the freedom and objected to the ambiguity — a distinction that matters because the fix is different: clearer task framing, not less open-ended work.
+- **"Students who enjoyed it learned more."** Perceived learning correlated with quiz scores only **modestly (r = 0.161-0.315)**. Satisfaction and measured learning are weakly related here, so a positive PBL evaluation is not by itself evidence the learning objectives were met.
+## What this means for practice
+
+**For instructors**
+
+- Write the task framing before the tool choice. Open-endedness was the top positive theme (22.3%) and unclear instructions the top negative (23.7%), so the ambiguity is where PBL with AI actually fails.
+- Score learning separately from satisfaction. Perceived learning correlated with quiz scores only at r = 0.161-0.315, so a happy cohort is not a measured outcome.
+- Consider the general chatbot before the custom platform. A general chatbot used directly pooled higher (g = 0.970) than systems customised into course platforms, virtual patients or agents (g = 0.455).
+- Treat g = 0.819 as an upper bound. A PET-PEESE correction reduces it, and 22 studies with 66 effect sizes is a narrow base for a design claim.
+
+**For developers**
+
+- The moderation finding is a product warning: engineering a chatbot into a bespoke environment coincided with a *smaller* pooled effect. Validate that customisation adds learning value rather than assumed convenience.
+- If you ship a PBL module, the instruction layer is the feature that earns the outcome, not the model.
 ## Connected Concepts
 
 - [[problem-based-learning]]

@@ -1,7 +1,7 @@
 ---
 title: Active Learning
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-13T11:05:00-04:00"
+updated: "2026-10-26T07:05:00-04:00"
 connected_faqs: [does-ai-help-students-learn, designing-ai-into-learning]
 type: concept
 foundations: [ai-education, learning-design]
@@ -66,6 +66,12 @@ Active learning is deeply connected to [[collaborative-learning]] (much active l
 
 Active learning is one of the strongest levers on [[learning-gains|learning gains]] in the AI era. Because active strategies build understanding through effortful doing, they are the most robust to AI short-circuiting — and the knowledge base's evidence shows that preserving that effort protects durable learning while letting AI absorb it erodes it ([[generative-ai-reduced-study-time-math|reduced study time]], [[stromberg-generative-ai-learning-penalty-secondary-2026|the learning penalty]], [[lak2026-hint-button-unproductive-use|hint abuse]]). Instructors who pair active-learning designs with [[learning-gains|measured gains]] on unassisted outcomes get the clearest picture of whether AI-assisted activity actually improved learning.
 
+## Common Misconceptions
+
+- **"Putting AI in the activity makes it active."** An EEG study found **interactive student-AI collaboration produced the highest cognitive engagement, while full automation reduced it**. The engagement came from the interaction, not the presence of AI, and automating the learner's part of the work moved engagement the wrong way.
+- **"AI-supported inquiry is automatically higher-order."** A quasi-experiment with **120 Grade 8 students** found AI-supported [[inquiry-based-learning|inquiry-based learning]] raised creative mathematical performance **and** a narrower measure — the treatment moved some outcomes and not others. Correlation with a higher-order label is not the same as a higher-order task.
+- **"Students designing the teaching is a technical exercise."** In the inversion study, **345 students** in a 700-student course each designed a conversational agent to teach three design patterns to a peer. The active learning came from the design work, which is pedagogical reasoning rather than prompt engineering.
+- **"Engagement findings are learning findings."** The same evidence base cautions that a **no-control-group, volunteer-sample** design supports engagement claims only. Students valued open-ended design freedom (**22.3%** top positive theme) and complained most about unclear instructions (**23.7%**) — both are about the experience.
 ## Connected Concepts
 
 - [[learning-gains]]

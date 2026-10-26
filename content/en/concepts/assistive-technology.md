@@ -1,7 +1,7 @@
 ---
 title: Assistive Technology
 created: "2026-08-23T12:00:00-04:00"
-updated: "2026-10-13T11:05:00-04:00"
+updated: "2026-10-26T07:05:00-04:00"
 type: concept
 foundations: [learning-design]
 ethics: [accessibility, assistive-technology, equity-in-ai-education, inclusive-learning]
@@ -44,6 +44,12 @@ A 2026 scoping review of digital assistive [[ai-technologies|technologies]] for 
 - **Ground provision in policy.** Reference the Assistive Technology Act, IDEA, and WCAG when procuring or building AI tools.
 - **Say which function the support serves — and evaluate against that function.** [[vasileiou-ai-cognitive-scaffolding-executive-functioning-sen-2026|Vasileiou et al. (2026)]] distinguish compensation (evaluated by access and participation) from scaffolding (decisions-with-support) from development (strategy use after fading or transfer). They add a rule aimed at this page's caution: accessibility support is not remediation — whether a tool is an accommodation, strategy instruction, or temporary practice support "should be stated in the learning plan."
 
+## Common Misconceptions
+
+- **"Assistive technology targets where the barriers are."** A 2026 scoping review of digital assistive technologies for neurodivergent students maps the decade's output and finds a **mismatch between what tools target and where barriers sit**: **27 studies supported learning directly**, 13 addressed reading and writing and 12 study management, while **attention (n = 4)** and other core barriers were barely addressed. The most-studied target is not the most limiting one.
+- **"A medium effect size identifies the right tool."** [[zhang-ai-students-disabilities-meta-analysis-2024|Zhang et al.]] find AI-based interventions yield a medium positive effect on learning outcomes for students with disabilities (**g = 0.588**) across robots, software and intelligent VR. That is an average over very different technologies serving very different needs, so it supports the category and not a choice within it.
+- **"Diagnosis-gated access is a defensible design."** Requiring a formal diagnosis to participate excludes learners with real needs and no label, which conflicts with [[universal-design-for-learning|universal design]] and pushes the cost of access onto the student's documentation.
+- **"More assistive tools means more inclusion."** A scoping review screened **766 records** across five databases, and volume of output is not the same as coverage of need — the count of studies per barrier is the more informative figure.
 ## Connected Concepts
 
 - [[accessibility]] — the design property that assistive technology operationalizes

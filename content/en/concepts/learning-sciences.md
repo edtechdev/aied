@@ -1,7 +1,7 @@
 ---
 title: "Learning Sciences"
 created: "2026-09-17T14:12:00-04:00"
-updated: "2026-10-16T08:47:09-04:00"
+updated: "2026-10-26T07:05:00-04:00"
 type: concept
 foundations: [learning-design]
 pedagogy: [cognitive-psychology, learning-theories, pedagogy]
@@ -71,6 +71,28 @@ The field also builds theory rather than only testing borrowed frameworks: [[the
 [[pedagogy]] and [[learning-design]] cover practice — which teaching strategy to use, and how to sequence objectives, activities and assessment into a course. Both are what the learning sciences study from the outside, as objects of description and evaluation; the field does not tell a teacher which tactic to reach for next, it reports what the tactics have been shown to do. Learning design is the closer relative, since both produce something that can be implemented and tested, but the designer's output is a teachable course and the field's output is knowledge about designs in general.
 
 The findings only matter once they reach teaching, and that journey runs through three pages. [[educational-development]] is the institutional practice that carries them — faculty development, standards, policy and identity work decide whether a validated design ever reaches a classroom, which is why the field's evidence routinely leads what institutions have implemented. [[teacher-education]] is where the knowledge has to land before a teacher enters the room, and [[teacher-role]] is where it lands afterwards, in the moment-to-moment judgment about when to intervene, which instrument to use, and when to leave a learner alone. None of the three produces learning-science findings; all three decide whether those findings change practice.
+
+## Common Misconceptions
+
+- **"A high mastery threshold guarantees the learner can discriminate."** [[deceptive-overgeneralization-adaptive-learning-2026|An, McLaren and Stamper (2026)]] ran **eleven experiments (N = 192)** with [[intelligent-tutoring]] systems and found that at a **95% mastery threshold the system stopped practice before learners met a case requiring the action to be withheld**, so the defect went undetected. Mastery of the action did not include knowing when not to apply it, and the threshold certified the wrong construct.
+- **"More examples are safer."** [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit, Koedinger and Carvalho (2025)]] treat the example-problem ratio as a **content-treatment interaction**, and in a 2×2 experiment the optimum **depended on the content**. There is no globally correct ratio, so a fixed instructional template is a bet against an interaction.
+- **"Fixing the misconception is a matter of telling students the right answer."** Short do-not-act practice with [[feedback]] naming the missing constraint cut misapplication to **0.0%-23.1% (Cohen's h 1.70-2.44)**, and a secondary analysis of **thirteen K-12 *Decimal Point* datasets** found the same structural pattern. The effective intervention was discriminating practice with targeted feedback, not correction by assertion — which is what [[refutation-text|refutation]] work establishes generally.
+- **"Higher Bloom level means more active learning."** Learning type tracked intended outcome level, with **Acquisition falling from about 50% of activities at Bloom level 1 to around 20% at level 6**. Cognitive demand and activity type move together but are not the same axis, so tagging a task by Bloom level does not tell you what learners will do with it.
+
+## What this means for practice
+
+**For instructors**
+
+- Teach the negative case explicitly. The 95%-threshold failure is the reason: build in conditions where the correct move is to withhold the action, or the learner will apply it everywhere.
+- Do not fix the example-problem ratio across a course. The content-treatment interaction means the right ratio for procedures is not the right ratio for concepts.
+- Use discriminating practice with feedback that names the missing constraint rather than restating the rule. That is the intervention with measured effect sizes here.
+- Check what your mastery criterion actually certifies before you trust it.
+
+**For developers**
+
+- Do not stop practice on correctness alone. Model the withholding condition as its own skill, or the system will certify overgeneralisation.
+- Let the ratio be a parameter rather than a constant, because the evidence says the optimum is content-dependent.
+- Report which construct your criterion measures, separately from which construct your validation measures.
 
 ## Connected Concepts
 

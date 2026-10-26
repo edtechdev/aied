@@ -1,7 +1,7 @@
 ---
 title: Cognitive Diagnosis
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-10-15T10:00:00-04:00"
+updated: "2026-10-26T07:05:00-04:00"
 type: concept
 technology: [intelligent-tutoring, knowledge-tracing, learning-analytics, student-modeling]
 assessment: [assessment, educational-measurement, psychometrically-aware-ai]
@@ -55,6 +55,27 @@ Cognitive diagnosis sits at the heart of the [[intelligent-tutoring]] architectu
 ## Connections
 
 Cognitive diagnosis connects to [[knowledge-tracing]], [[student-modeling]], [[educational-measurement]], and [[assessment]]. Its insights feed [[intelligent-tutoring]] and [[adaptive-learning]], and LLM-era work links it to misconception identification in [[intelligent-tutoring|AI Tutoring]].
+
+## Common Misconceptions
+
+- **"Diagnosis is a solved capability for models."** [[omniedu-open-educational-foundation-models-2026|OmniEdu (Liang et al., 2026)]] supervised diagnostic reasoning as one of four capabilities in an open 4B/9B/27B family, and **knowledge-state diagnosis remained its weakest** of the four. Diagnosis is the capability that resisted the training that produced the others.
+- **"Models can simulate student errors, so they can diagnose them."** The bottleneck is the reverse. Models constructed a solution in **95.2% of distractor traces** and simulated a specific Eedi misconception at **0.92 accuracy**, yet **supplying the correct solution** — not simulating the error — was what limited them. Generating a plausible wrong answer is easier than recognising one.
+- **"Diagnosis requires a hand-built misconception catalogue."** On **6,106 pairs** of correct and incorrect propositional-logic formalisations, a workflow discovered **248 clusters of transformations explaining 5,156 pairs (84.44%)**, against **4,370 (71.57%)** for the hand-picked mistakes of the reference set. Discovery matched or exceeded expert curation, and it transferred to modal logic — so the catalogue is a starting point, not a ceiling.
+- **"A diagnosis is only useful if it names a misconception."** Diagnosing which course outcomes a learner has attained treats outcomes as the knowledge concepts instead, supplying concept relationships through expert-validated affinity mappings. For outcome-based programmes that is the more actionable unit, even though it is coarser.
+
+## What this means for practice
+
+**For instructors**
+
+- Treat a system's diagnosis as a hypothesis to check, not a verdict. Knowledge-state diagnosis was the weakest capability in a family trained for it.
+- Ask whether the diagnosis names a construct you can act on. An outcome-level diagnosis that maps to your programme is often more useful than a fine-grained misconception label.
+- Where your subject has rules, expect transformation-based discovery to find error patterns you did not anticipate; the 248 discovered clusters are evidence that curated catalogues are incomplete.
+
+**For developers**
+
+- Instrument both directions: recognising a wrong answer and producing the right one. The 95.2% solution-recovery figure suggests generation is the easy half and the failure mode sits in recognition.
+- Prefer discovery over a static catalogue where domain structure permits it, and report coverage against a reference set so the comparison is legible.
+- Do not ship a diagnostic score without stating which construct it measures and how it was validated independently of the signal that produced it.
 
 ## Connected Concepts
 

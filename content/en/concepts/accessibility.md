@@ -2,7 +2,7 @@
 connected_resources: [drawsplat, fpds-apps-and-resources, id-toolbox, idstack, teacher-dev]
 title: Accessibility
 created: "2026-08-23T12:00:00-04:00"
-updated: "2026-10-15T10:00:00-04:00"
+updated: "2026-10-26T07:05:00-04:00"
 connected_faqs: [designing-educational-ai-software, equity-ethics-pedagogical-safety-research, ai-disabled-neurodivergent-learners]
 type: concept
 foundations: [learning-design]
@@ -63,6 +63,12 @@ A video with accurate captions and a properly tagged transcript is *accessible*;
 
 - **Math-accessible transcription of [[physics-education|physics]] videos (2026):** An AI workflow using Gemini (audio + 1 fps video sampling) and LuaLaTeX compiles instructional physics videos into PDF/UA-2 and ISO 32005 math-accessible PDFs that routinely pass accessibility validation — a practical, free path to making equation-heavy video content screen-readable for blind and low-vision students ([[gemini-lualatex-physics-video-transcription-2026]]).
 
+## Common Misconceptions
+
+- **"An accessibility feature that looks worse is worse."** Stripe overlays **degraded extraction most (+35.9% character error, +38.3% word error)**, yet **four typography and design experts judged vertical stripes readable**, while diagonal patterns failed. Machine readability and human readability are separate measurements, and optimising one can harm the other. Accessibility claims need to state which reader they are for.
+- **"Accessibility means accommodation."** A scoping review of **40 studies** of digital assistive technologies for neurodivergent students found **28 made a formal diagnosis a condition of participation**. That is a diagnosis-gated model, and it excludes every learner who has needs but no label — the opposite of universal design.
+- **"Medium effects settle the question."** [[zhang-ai-students-disabilities-meta-analysis-2024|Zhang et al.]] meta-analyse **29 studies** and find a medium positive effect, which is real and also says nothing about which tool for which need. The average across heterogeneous interventions is not a recommendation.
+- **"Speed and immediacy are conveniences."** In a qualitative case study of **21 visually impaired undergraduates** across three Palestinian universities, learners framed immediacy as a **foundational accessibility requirement rather than a convenience**. What looks like a nicety from outside is a precondition for participation.
 ## Connected Concepts
 - [[differential-effects-across-learner-groups]]
 - [[inclusive-learning]] — broader umbrella for designing education across learner variability

@@ -1,7 +1,7 @@
 ---
 title: Digital Divide
 created: "2026-08-13T18:07:54-04:00"
-updated: "2026-10-14T14:35:00-04:00"
+updated: "2026-10-26T06:45:00-04:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, ai-guidance-children-under-13]
 type: concept
 foundations: [ai-education, ai-literacy]
@@ -69,6 +69,26 @@ Structured school AI instruction is a psychological catalyst but not a cognitive
 
 The digital divide is a core concern of [[equity-in-ai-education]] research, closely tied to [[ai-literacy]] (which is positioned as a central mechanism for addressing structural barriers), and to [[ethics]] and [[bias-mitigation]] (since algorithmic bias disproportionately affects marginalized groups). It connects to [[ai-education]] and [[higher-ed]] as the settings where access and capability gaps manifest, and relates to [[student-experience]] as it shapes who can participate meaningfully in AI-shaped learning.
 
+## Common Misconceptions
+
+- **"Access to the tool is the divide."** Access is the first layer and the literature has moved past it. **Phrasing skill is its own second-level divide**: on MedQA, accuracy rose with prompt sophistication from **82.4% for low-literacy wording to 83.4% for expert phrasing**, which means two students with identical access get different quality from the same model because one knows how to ask. A prompt-rewriting layer narrowed the gap — the divide is in the interface and the user's fluency, not only in the subscription.
+- **"If it runs in a browser, it is available."** Most LLM lecture tools assume **single-language English audio and reliable internet**, which rules out exactly the classrooms mixing English with a home language. India's UDISE+ data put school internet access far below the level that assumption requires. A tool built on an assumed infrastructure silently excludes the settings with the strongest need.
+- **"Digital literacy and AI usage are the same mediating variable."** A study of **4,497 Grade 6 students** in the Netherlands separated **two distinct mediating pathways** — AI usage and digital literacy — linking background and personality to learning gains. They are not interchangeable, and interventions that raise one do not automatically raise the other.
+- **"Simulations remove the cost barrier."** A systematic review of **11 digital-twin studies** in STEM higher education found hardware costs of **$2,000-$15,000** per setup. A simulated lab can reproduce the equipment bill it was meant to avoid, so the cost argument for virtual provision has to be checked rather than assumed.
+
+## What this means for practice
+
+**For instructors**
+
+- Teach prompting as a literacy, not an optional trick. A 1-point accuracy difference between low-literacy and expert phrasing is small on its own, but the same mechanism compounds across every task a student attempts.
+- Check the language and connectivity assumptions of any tool before assigning it. Single-language English audio excludes bilingual classrooms regardless of device access.
+- Distinguish which pathway you are actually addressing. Raising AI usage and raising digital literacy are different interventions with different outcomes.
+
+**For administrators and developers**
+
+- Do not treat device distribution as closing the divide. The measurable gaps sit in phrasing skill, interface language and connectivity, and none of them are fixed by hardware.
+- Publish the infrastructure a tool assumes. A requirement stated plainly lets an under-resourced setting judge fit before investing.
+- Cost out the full deployment, not the software licence. Digital-twin evidence shows the hardware bill can survive virtualisation.
 ## Connected Concepts
 
 - [[differential-effects-across-learner-groups]]
