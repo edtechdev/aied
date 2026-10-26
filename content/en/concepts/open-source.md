@@ -1,7 +1,7 @@
 ---
 title: Open Source
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-10-03T02:57:43-04:00"
+updated: "2026-10-25T17:00:00-04:00"
 type: concept
 connected_faqs: [making-ai-better-at-supporting-learning]
 foundations: [agentic-ai, ai-education, curriculum-design]
@@ -62,6 +62,16 @@ Openness of content and openness of models are complements elsewhere too. OATuto
 
 - **For instructors and institutions:** check the license of the *content* as well as the code before adopting a system — MIT code over CC BY textbooks is reusable, but a permissive license does not guarantee that tutoring pathways, item banks, or translations exist. Prefer open models when student data legally cannot leave campus ([[lata-ferpa-compliant-local-llm-autograder]], [[programming-its]]), but benchmark the model on *your* task rather than trusting general leaderboards ([[cdpk-pedagogy-benchmark-llms]]). Budget for someone to run and evaluate the system after the pilot.
 - **For developers and researchers:** ship the whole thing — OATutor's end-to-end release (code, content, experiment harness) is the replicability standard this literature keeps rewarding. Release prompts and extraction schemas alongside weights ([[programming-its]], [[kar-mathbuddy-affective-math-tutoring-2025]]). Report compute and carbon ([[aied-carbon-footprint-reporting]]). Ground assistants in openly licensed corpora so provenance is checkable and adaptation is lawful ([[shen-sustainable-ai-knowledge-base-cs-education-2026]]). Use quantization-aware fine-tuning rather than plain quantization if accuracy and energy both matter, and keep code and content licenses compatible.
+
+## Common Misconceptions
+
+**"Open weights, open source, open content and open pedagogy are the same openness."** They are four different things and they fail independently. Open *weights* permit local deployment; open *source* permits modification; open *content* permits reuse and adaptation; open *pedagogy* concerns who decides what is taught. A model with open weights and a proprietary training pipeline, wrapped in a tool with a closed interface and an all-rights-reserved content library, is "open" in one of the four senses and closed in three.
+
+**"Open means cheaper."** Open weights make local deployment possible, but **someone still has to host, patch and evaluate the system** — and that someone needs to outlive the grant that funded the work. The burdens named in this literature are concrete: infrastructure, [[pedagogical-safety|safety]] assurance, and maintenance. Total cost can exceed a licence fee, and institutions that treat openness as a saving frequently discover the maintenance obligation after the project staff have dispersed.
+
+**"Closed frontier models are simply better, so open alternatives are a fallback."** The gap is narrower than that assumption implies. In [[cdpk-pedagogy-benchmark-llms|the Pedagogy Benchmark]] (CDPK + SEND, built from genuine Chilean teacher-exam items) spanning 97 models, open-weight **DeepSeek R1 reached 86.65%**, against a top-10 made up mostly of closed reasoning models — and the cost–accuracy comparison runs further in the open direction. The remaining argument for openness is therefore about control and auditability, not about a capability sacrifice.
+
+**"Releasing the weights is releasing the work."** The stronger open contributions release the pipeline. OmniEdu publishes capability-balanced supervision over a 69,999-example mixture rather than final weights alone, lifting every scale of an open 4B/9B/27B K–12 family, with the tuned 4B model gaining **55 points** of MathTutorBench scaffolding performance; [[singh-eduqwen-pedagogical-rl-2026|EduQwen]] likewise documents its RL and fine-tuning procedure, including 440 mined hard negatives and 40,000 generated responses. Weights without the recipe reproduce an outcome without reproducing the method.
 
 ## Connected Concepts
 

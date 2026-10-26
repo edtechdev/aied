@@ -1,7 +1,7 @@
 ---
 title: Knowledge Graph
 created: "2026-08-09T16:55:17-04:00"
-updated: "2026-10-09T09:25:11-04:00"
+updated: "2026-10-25T15:20:00-04:00"
 type: concept
 foundations: [ai-education, curriculum-design]
 technology: [generative-ai, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, student-modeling]
@@ -50,6 +50,33 @@ Recent research explores using [[llm|LLMs]] to automatically construct knowledge
 ## Relationship to other concepts
 
 Knowledge graphs connect to [[learning-design]] (defining what to teach), [[curriculum-design]] (how to sequence it), and [[learning-analytics]] (extracting insights from student interaction data). They are foundational to [[intelligent-tutoring]] systems that need structured representations of educational domains. As AI agents become more common in education, knowledge graphs provide the domain structure that [[agentic-ai|agentic systems]] reason over — a pattern seen in [[quantum-education-its|ITAS]] and knowledge-gap-detection teaching assistants.
+
+## Common Misconceptions
+
+**"A knowledge graph is a concept map with better tooling."** The distinguishing claim is relational and computational: a graph is useful because prerequisites, similarity and hierarchy are explicit enough for an algorithm to traverse, not because it draws connected nodes. What follows from that is the operational question the page keeps returning to — which traversal or propagation algorithm runs over the graph — because that choice is where the instructional effect actually lives.
+
+**"Having the graph is what improves outcomes."** The algorithm over the graph changes the outcome. In G4L, propagating mastery through an Evolving Knowledge Space Graph with Bayesian knowledge propagation produced **+24% measured knowledge** (0.717 → 0.887), against **+5%** for a Knowledge Space based comparison. Same general idea of a structured knowledge space, materially different result depending on the propagation method. Buying or building a graph is the beginning of the design problem, not its solution.
+
+**"An LLM-built graph that passes a structural audit is a validated graph."** Structural validity and instructional validity come apart in exactly this way. The recomputed audit of one such graph found that every endpoint resolves and no duplicate or self-link remains — a clean structure — yet 1,448 of its 1,455 axioms map to exactly one work, so cross-work reuse is sparse, its context taxonomy cannot separate its two context types, and central claims remain unproven. Dead links and duplicates are the failures an automated audit catches; thin reuse and undifferentiated categories are the ones it waves through.
+
+## Implications for Practice
+
+**For instructors**
+
+- Ask what the graph is used *for* before asking whether it is accurate: recommendation, prerequisite sequencing, or diagnosis. The evidence differs sharply by use, and prerequisite sequencing carries the strongest result.
+- When a tool claims adaptive sequencing, ask for the measured comparison against a non-adaptive baseline rather than a description of the knowledge structure.
+- Expect sparsity in cross-work reuse, and treat a graph whose entities map one-to-one onto single sources as a catalogue with edges rather than as an integrated map.
+
+**For developers**
+
+- Treat the propagation algorithm as a first-class design decision and report the algorithm as part of the intervention; the +24% versus +5% gap is attributable to it.
+- Audit beyond resolvability. Test whether categories are separable and whether entities are reused across works, because structural cleanliness consistently coexists with instructional thinness.
+- Validate the graph against learning outcomes, not against graph statistics.
+
+**For researchers**
+
+- Report graph-baseline contrasts at the algorithm level. "Knowledge-graph-based" is not a treatment; the traversal strategy is.
+- Report axiom-to-source mappings and taxonomy separability alongside precision and recall, since the audit failures here were invisible to conventional graph metrics.
 
 ## Connected Concepts
 

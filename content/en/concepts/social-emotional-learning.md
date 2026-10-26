@@ -1,7 +1,7 @@
 ---
 title: Social-Emotional Learning
 created: "2026-08-13T18:30:57-04:00"
-updated: "2026-09-30T08:39:04-04:00"
+updated: "2026-10-25T17:00:00-04:00"
 type: concept
 foundations: [ai-literacy, teacher-ai-competency]
 pedagogy: [self-regulated-learning, well-being]
@@ -85,6 +85,16 @@ SEL overlaps with the effortful dimension of learning. [[framing-5-percent-probl
 ### Connections to related concepts
 
 SEL connects to [[ai-literacy]] (as a complement that makes AI literacy relational and ethical), [[affective-computing]] and [[well-being]] (the affective dimensions of AI), [[self-regulated-learning]] (self-management and effort regulation), [[self-efficacy]] and [[motivation]] (learner beliefs that moderate [[student-ai-interaction|AI interaction]]), [[agency]] (protecting learner control against dependency), [[ethics]] (responsible decision-making), [[teacher-ai-competency]] (educators' capacity to support SEL), [[student-experience]] (well-being and belonging), and [[learning-gains]] (the evidence that SEL supports achievement). It relates to [[higher-ed]] and [[k-12]] as the settings where SEL-infused AI literacy is cultivated.
+
+## Common Misconceptions
+
+**"SEL and emotional intelligence are the same construct."** They are related and distinct: SEL/SEC names a set of competencies — the ability to synchronise thoughts, emotions and actions for positive interaction — while emotional intelligence names an individual capacity to perceive and manage emotion. A tool can raise a learner's emotional self-awareness without developing any social-emotional competency, and a programme can build collaborative competency in students whose emotional self-perception is unchanged. Because the two are measured differently, evidence for one is not evidence for the other.
+
+**"An AI tutor that responds empathetically develops social-emotional learning."** Emotional responsiveness is a delivery property; SEL is a competency outcome, and the two are not automatically linked. The relational dimensions of learning are the ones this literature says AI must *complement rather than replace*, which makes empathy in the tool a question about what it substitutes for rather than a benefit in itself. See [[affective-tutoring|affective tutoring]] for the mechanism by which warm response can reduce the struggle that builds persistence.
+
+**"Low persistence is a motivation problem that encouragement can fix."** Persistence is the recurring constraint in educational technology — the pattern [[framing-5-percent-problem-teachers-persistence|the 5% problem]] names — and it is shaped by motivation and buy-in, cognitive roadblocks, *and* resilience under challenge. Encouragement addresses one of the three. A learner who stops because the problem exceeded their working memory is not short of reassurance.
+
+**"Knowing AI is available does not change how students invest effort."** It can, and the effect runs the wrong way for the weakest learners: [[ai-availability-student-motivation|AI availability]] can reduce the perceived value of effortful engagement, particularly for novices. Availability alone is a motivational intervention with a negative sign, which is why SEL-adjacent design cannot treat the presence of a helpful system as neutral.
 
 ## Connected Concepts
 - [[anxiety-and-stress]]

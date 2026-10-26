@@ -1,7 +1,7 @@
 ---
 title: Guardrails
 created: "2026-08-25T08:30:00-04:00"
-updated: "2026-10-22T10:05:00-04:00"
+updated: "2026-10-25T15:20:00-04:00"
 type: concept
 technology: [human-in-the-loop-ai, llm, prompt-engineering, rag, reinforcement-learning]
 ethics: [ai-sycophancy, bias-mitigation, pedagogical-safety]
@@ -82,6 +82,26 @@ The two are closely coupled: almost every guardrail technique is a way of achiev
 5. **Require human oversight.** Teacher-in-the-loop QA before deployment and continuous auditing for differential treatment.
 
 - **Guardrailing procedural tutoring with embedded rules.** [[rule-integrated-llm-tutoring-primary-math-2026|Looi, Liu, and Sun (2026)]] instantiate these principles as a concrete, auditable set of guardrails for an [[llm]] math tutor: a **numerical-correctness gate** with an uncertainty guardrail so the tutor never makes an unwarranted epistemic commitment, **output constraints** enforcing brevity and micro-step progression for cognitive-load management, an **anti-spoiler boundary** that institutionalizes the logic-first principle by returning computational agency to the student, and a **goodbye gate** encoding the distinction between authentic completion and premature termination. These rules were consolidated as reproducible prompt-architecture rules validated in a 40-student classroom pilot — a model of translating [[pedagogical-safety|safety]] principles into auditable, replicable guardrails.
+
+## Implications for Practice
+
+**For instructors**
+
+- Judge a tutor by unassisted performance, not practice performance. In the field RCT an unguarded GPT-4 tutor raised practice performance **+48%** while *reducing* later unassisted exam scores by **17%**, and the "hint-not-answer" version eliminated the harm. Every classroom signal that is generated with the tool present is the inflated one.
+- When you cannot change the tool, change what is graded without it. The unassisted measure is what makes the guardrail question visible at all.
+- Treat "kindness" as a design parameter with a failure mode: a tutor that never pushes back or corrects may satisfy students while removing the corrective [[feedback]] that learning needs.
+
+**For developers**
+
+- Build the guardrail into the interaction path, not into a prompt instruction that a determined student can talk past. The hint-not-answer pattern is the empirically supported default.
+- Recognize that thresholds are policy decisions, not optimizations. Moving a toxicity cutoff from 0.3 to 0.7 cut labelled prompts from 35.62% to 12.4%; on a scam detector it traded 15 false alarms and 18 missed scams for 2 and 36. No cutoff removes the tradeoff, so expose the choice to the institution rather than burying it in a constant.
+- Design for quiet failure. The damaging failures here are not toxic outputs but tutors that answer correctly and erode learning, or refuse evenly and entrench inequality.
+
+**For researchers and auditors**
+
+- Report guardrail evaluations against unassisted outcomes; a guardrail that holds in-session while leaving learning flat is a partial success that practice numbers will misrepresent.
+- Audit for fairness in refusal and support patterns, since an evenly-applied guardrail can still distribute benefit unevenly.
+- Report the classifier threshold used alongside any safety claim, because the reported harm rate is not comparable across thresholds.
 
 ## Connected Concepts
 

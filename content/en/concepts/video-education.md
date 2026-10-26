@@ -1,7 +1,7 @@
 ---
 title: Video in Education
 created: "2026-09-05T01:05:00-04:00"
-updated: "2026-10-18T10:07:01-04:00"
+updated: "2026-10-25T15:20:00-04:00"
 type: concept
 pedagogy: [online-teaching-and-learning, student-engagement, video-education]
 technology: [adaptive-learning, generative-ai, learning-analytics, llm, multimodal, personalized-learning]
@@ -43,6 +43,35 @@ A recurring tension is whether the value of [[personalized-learning|personalizat
 ### Design, ethics, and measurement
 
 Producing effective AI video requires pedagogical structure and human oversight, and it raises distinct concerns: AI presenters may evoke discomfort or distrust (the "uncanny valley"); generative video risks factual inaccuracy that learners may not catch; scaling personalization requires collecting or inferring learner attributes, with attendant [[privacy]], bias, and [[governance]] concerns; and a subset of learners object to AI-generated instruction on principled grounds (environmental impact, labor, automation, [[academic-integrity|academic integrity]]). Measurement is likewise in flux — much evidence rests on stated preference and perceived value rather than objective learning outcomes, so preference data must be read alongside (often forthcoming) outcome data.
+
+## Common Misconceptions
+
+**"Students preferred the AI video, so it teaches better."** Preference and learning are separate measures, and much of this literature rests on the first. In a large online course (493 respondents), students ranked AI-generated personalized videos above non-personalized human-recorded lectures (mean rank 2.26 versus 2.69) and 88.4% ranked some personalized video first — a clean preference result. The page's own caution applies: evidence here rests substantially on stated preference and perceived value rather than objective [[learning-gains|learning outcomes]], so preference data has to be read alongside outcome data, not in place of it. A video that feels better tailored is not thereby teaching more.
+
+**"AI-generated scaffolding comments can substitute for an instructor's."** They differ in a way that matters for instruction. Benchmarked against 120 comments from experienced instructors, ChatGPT's 1,000 comments were *denser* but far less structurally varied (POS 3-gram diversity 5.5–6.2%), and 40 learners rated the human comments significantly higher on timing and helpfulness — though a newer model narrowed that gap. Volume and density are not the same as the varied, paced commentary a good instructor produces, and the narrowing gap is a trend to track rather than a settled equivalence.
+
+**"Cloning an instructor into an avatar scales human presence."** It scales production and changes what is being delivered. AI avatars cloned from instructors can generate video at scale, but they also trigger uncanny-valley discomfort and raise [[ethics|ethical]] objections spanning environmental impact, labour and [[academic-integrity|integrity]]. The presence being scaled is a simulation of the instructor, and the costs attach to the simulation.
+
+**"Generating many variants of one lecture is personalization."** Variant count is a production figure, not an instructional one. [[bespoke-industry-personalized-lecture-videos-2026|Bespoke]] generated 209 videos from 31 graduate lectures across healthcare, finance, energy and a generic audience, which demonstrates the pipeline's capacity; whether any variant matched a given learner's needs is a separate question that the generation count cannot answer.
+
+## Implications for Practice
+
+**For instructors**
+
+- Ask whether the evidence behind a personalized-video product is preference or achievement. The strongest numbers in this literature are ranks and ratings, and the two kinds of evidence point in different directions often enough to keep separate.
+- Keep human commentary for the moments that need pacing and selectivity. The comment study found human comments stronger on timing and helpfulness, so reserve instructor voice for the frames where timing carries meaning.
+- Treat avatars as a production decision with costs (labour, environmental, integrity) rather than as a neutral efficiency win.
+
+**For developers**
+
+- Instrument comprehension, not only watch-through and satisfaction. If you ship ten variants, report which ones improved unassisted understanding.
+- Match comment *structure* to the instructor benchmark in your evaluation, not just semantic relevance or density — the diversity gap is where generated commentary visibly fails.
+- Expose the generative status of avatars and personalized variants; presenting synthetic presence as instructor presence is an integrity question before it is a design question.
+
+**For researchers**
+
+- Report preference and outcome measures together, and state plainly when a study has only the first.
+- Report temporal alignment explicitly, given that misalignment between video content and cognitive processing shows up in the neural data.
 
 ## Connected Concepts
 

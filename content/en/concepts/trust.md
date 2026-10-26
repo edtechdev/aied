@@ -1,7 +1,7 @@
 ---
 title: Trust
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-10-25T05:51:47-04:00"
+updated: "2026-10-25T15:55:00-04:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, human-ai-collaboration]
 technology: [educational-robotics, intelligent-tutoring]
@@ -76,6 +76,37 @@ Peer trust runs through a different channel: among 406 university students ratin
 The unifying challenge is **calibration**: matching trust to actual reliability, whether the trusted party is a model or a person. [[trust-calibration]] is the [[metacognition|metacognitive]] capacity to know when to trust and when to question. Studies of AI [[feedback]] and [[intelligent-tutoring]] examine when learners appropriately rely on or challenge AI guidance, while the interpersonal literature shows that students' trust in an instructor depends on relational trust built over time. As AI becomes embedded in [[teacher-role|teaching]], these domains converge: an instructor who transparently explains what an AI tool can and cannot do, and who demonstrates reliability in their own judgment, builds the kind of trust that carries over to the tools they endorse. Building appropriate trust — in both AI and in each other — is a core goal of responsible AI design in education.
 
 Calibration is also tested by the incentives of the trusted system itself. When staff skeptical of AI adoption consult [[conversational-ai|conversational AI]] — built by organizations with a commercial stake in adoption — there is a risk the system is predisposed to encourage it. An audit of ten frontier models found most acknowledged a rural [[k-12]] staff member's concerns (job threat, being 'not for people like me') before redirecting toward engagement. This challenges naive reliance on trust and underscores the importance of [[human-in-the-loop-ai|human oversight]] and independent [[ai-ed-evaluation|evaluation of AI]] advice.
+
+## Common Misconceptions
+
+**"Trust and distrust sit at opposite ends of one scale."** They are separable, and confusing them misreads what students actually report. **Risk perception and trust are not opposites:** a 130-student perception study of [[agentic-ai|agentic]] GenAI in [[higher-ed|higher education]] found perceived risk moderately elevated (M = 3.33, SD 0.89) *alongside* more favourable trust and adoption. A learner can hold both at once, which is why a single trust score cannot tell you whether their reliance is appropriate.
+
+**"Distrust of AI's accuracy means students won't lean on it."** Students distinguish the output from their ability to steer it. In a survey of **8,021 students across four Australian universities, 51% distrusted GenAI's factual accuracy while 76% were confident in their ability to get the outputs they wanted.** The second number is the one that predicts behaviour: confidence in extraction coexists with doubt about truth, and only one of those is a safety property.
+
+**"Clearer rules and policies are what build student trust."** Usefulness dominates. A survey of 2,121 students, faculty and staff at one university found perceived usefulness the **strongest correlate of trust in AI (β = 0.402)**, with perceived policy clarity trailing it. Institutions that invest in rule-making while shipping tools nobody finds useful have aimed at the weaker lever.
+
+**"If learners trust it more, they will use it more carefully — or at least appropriately."** The opposite is the documented pattern. Among 432 undergraduates solving Python problems with accurate and deliberately misleading suggestions, greater trust predicted **lower** appropriate reliance (r = −.42), and students accepted 86.03% of the misleading suggestions. Trust is not a proxy for calibration; see [[trust-calibration|trust calibration]].
+
+**"Honest warnings about fallibility would undermine confidence in a tutor."** They improve behaviour. [[ai-fallibility-warning-help-seeking|Warnings about AI fallibility]] in a math ITS increased [[help-seeking]] rather than reducing use, which suggests that stating limits fosters appropriate reliance instead of eroding it.
+
+## Implications for Practice
+
+**For instructors**
+
+- Measure two things, not one: what students believe about AI's accuracy, and what they believe about their own ability to use it. The 51%/76% split shows these diverge sharply and only the second drives behaviour.
+- State the tool's limits up front. Fallibility warnings raised help-seeking in the ITS evidence, so disclosure is a calibration tool rather than a confidence risk.
+- Watch for high trust paired with shallow checking; that combination is the calibrational failure mode, not a success signal.
+
+**For developers**
+
+- Build trust on observable, agreed criteria rather than on apparent capability, following the co-design-of-trustworthiness work with learning engineers. Fluency is not a trustworthiness signal and students read it as one.
+- Prioritize usefulness in onboarding over policy copy, since usefulness is the strongest trust correlate measured.
+- Do not treat high trust as engagement success; pair any trust metric with an appropriate-reliance measure.
+
+**For researchers**
+
+- Report trust, risk perception and appropriate reliance as distinct constructs, because they co-vary in non-obvious directions — including negatively.
+- Report the behavioural outcome (acceptance rate of wrong suggestions) alongside self-report trust; trust scales alone invert the conclusion.
 
 ## Connected Concepts
 

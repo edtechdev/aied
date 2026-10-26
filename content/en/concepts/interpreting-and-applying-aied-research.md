@@ -1,7 +1,7 @@
 ---
 title: Interpreting and Applying AIEd Research
 created: "2026-09-19T05:41:27-04:00"
-updated: "2026-10-16T08:47:09-04:00"
+updated: "2026-10-25T16:25:00-04:00"
 type: concept
 foundations: [limitations-in-aied-research]
 research_method: [literature review]
@@ -136,6 +136,16 @@ The checks above are not folk wisdom; they come from documented failures in this
 7. Cost it: licenses, tiers, staff time, data rules.
 8. Pilot small with an unassisted measure, then decide.
 9. Diary a review date a year out, and be ready to retire the claim.
+
+## Common Misconceptions
+
+**"A published meta-analysis is settled evidence about AI in education."** The field's syntheses have not survived audit. [[oneill-presumed-effective-meta-analysis-2026|O'Neill's (2026)]] audit of **14 peer-reviewed meta-analyses** claiming AI improves education found that **none** provided a valid basis for that conclusion. A pooled effect size is only as good as the studies pooled, and in this literature the pooling has routinely included designs that could not attribute the outcome to AI. Before you quote a meta-analytic number, ask what it aggregated.
+
+**"The bigger effect size belongs to the better intervention."** Often the opposite. In the review context this page documents, only **21%** of studies had a well-defined treatment, a control group and a valid learning measure — and the reported advantage for "using ChatGPT" came out *larger* than for purpose-built [[intelligent-tutoring|intelligent tutoring systems]]. Weakly specified treatments tend to produce inflated effects, because the comparison is vaguer and the outcome measure looser. A larger number is a reason to look at the design, not a reason to prefer the intervention.
+
+**"Higher grades while using the tool indicate the tool taught more."** In one [[k-12|K-12]] math study, students practising with a general-purpose [[conversational-ai|chatbot]] earned better practice grades and then scored **about 17% worse** on unassisted assessment. Practice performance measured with the tool present is the inflated measure; the unassisted one is the outcome, and only one of them was rising.
+
+**"If the effect is real, the implementation details do not matter much."** They are the effect. A study that followed 30 students in one course at one institution, on a version of the tool nobody now uses, has produced a finding about a configuration that no longer exists. Treatment specification, version, and setting are part of the claim rather than context around it.
 
 ## Connected Concepts
 

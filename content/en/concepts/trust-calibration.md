@@ -1,7 +1,7 @@
 ---
 title: Trust Calibration
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-10-25T08:45:00-04:00"
+updated: "2026-10-25T15:55:00-04:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading, human-ai-collaboration]
 pedagogy: [metacognition]
@@ -104,6 +104,26 @@ Trust calibration is central to [[ai-literacy]] and sits alongside [[reducing-ai
 
 - **Surface identity cues move trust independently of capability.** Across two experiments (N = 396), learners rated White avatars — and Asian male avatars in STEM — more credible and competent, penalized older Black female avatars on every measure, and adopted racial-ingroup guidance more readily ([[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning|Anthis & Kyriakidou-Zacharoudiou (2026)]]).
 - **A source label moves acceptance without improving discrimination.** When 103 participants judged answers labeled ChatGPT or computer, acceptance was higher under the ChatGPT label (68.0% versus 63.4%, p = 0.002), yet signal detection found no source difference in sensitivity (p = 0.930) or criterion (p = 0.082) ([[chatgpt-source-cue-answer-acceptance-2026|Fabio, Rantuccio & Bruno, 2026]]). The label raises trust without raising accuracy.
+
+## Implications for Practice
+
+**For instructors**
+
+- Teach the check, not the attitude. Greater trust predicted *lower* appropriate reliance (r = −.42) among 432 undergraduates who accepted 86.03% of deliberately misleading suggestions, so instruction that builds generalised confidence makes the problem worse.
+- Build verification into tasks where it is cheap and visible: require the source for a claim, the counterexample, or the rerun. Readers shown an AI summary clicked a source cited inside it in only **1% of visits** and clicked result links about half as often, so "it cited something" certifies nothing.
+- Remember the lever is protective, not corrective. Participants who began with a wrong judgment recovered the correct one in only **30.6%** and **24.7%** of trials — below chance for a binary choice — so intervene before the student commits to the wrong model, not after.
+- Treat under-trust as a calibration failure too; avoiding a capable tool is not the safe default, it is the same error pointing the other way.
+
+**For developers**
+
+- Change the interaction structure, not just the label. Withholding a multi-agent debate's aggregate position cut detrimental switching to incorrect AI positions from 42–60.5% to 5.7–8.2%, a structural lever that needs no trust from the user.
+- Make provenance inspectable at the point of use, since citation-click rates collapse when the summary is presented as authoritative.
+- Preserve the student's own stated position and contrasts with it, rather than replacing their draft with a confident answer; the recovery data show that replacement rarely gets undone.
+
+**For researchers**
+
+- Measure appropriate reliance as a behavioural outcome against ground truth, not as a trust score. The two correlate negatively in the one study that measured both.
+- Report recovery rates for initially-wrong participants separately from overall accuracy, because the aggregate hides the below-chance figure that matters most.
 
 ## Connected Concepts
 

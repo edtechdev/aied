@@ -2,7 +2,7 @@
 connected_resources: [lesson-md, liascript, onmicro-ai, teacher-dev]
 title: Edtech Platform
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-03T02:57:43-04:00"
+updated: "2026-10-25T17:00:00-04:00"
 connected_faqs: [designing-educational-ai-software]
 type: concept
 foundations: [ai-education]
@@ -82,6 +82,16 @@ Privacy can be built into the pipeline rather than the policy: a classroom incid
 5. **Explain recommendations in the teacher's domain language.** A platform's AI features earn trust and uptake when their explanations are understandable and pedagogically meaningful: in a within-subject experiment with an AI grouping-recommendation tool (GrouPer), [[xai-teachers-trust-edtech-recommendations-2026|Feldman-Maggor et al. (2025)]] found domain-driven explanations framed in curricular language increased teachers' understandability, trust, and acceptance significantly more than raw feature-importance explanations — and that real classroom use still mattered for full acceptance.([[xai-teachers-trust-edtech-recommendations-2026]])
 6. **Separate the system that produces evidence from the one that grades it.** When agents can complete a course on a learner's behalf, [[credentials-carry-evidence-ai-agents-2026|Srivastava (2026)]] argues a platform must emit contemporaneous, inspectable evidence of the learner's reasoning and must not be its sole grader — the environment, issuer and verifier should be independent.([[credentials-carry-evidence-ai-agents-2026]])
 7. **Generate representations at design time, not at runtime.** [[edtech-design-time-generative-ui|Neshaei et al. (2026)]] argue runtime adaptation cannot be verified at scale and propose encoding content as modality-agnostic semantic cards, from which interactive, audio, simplified-text and low-bandwidth variants are generated and instructor-approved before release — eliminating per-learner inference cost, though no prototype is reported.
+
+## Common Misconceptions
+
+**"If a platform is effective in principle, students will use it."** Capability and take-up are separate problems, and take-up is often the binding one. In a two-year cluster RCT, **96% of students tried Khanmigo** — near-universal adoption — yet the median student messaged it in only **17% of sessions where they made a mistake**, the exact moment the tool was built for. A platform that logs the class has not changed it.
+
+**"Adoption is measured by logins."** The informative gap is at message level, not account level. In that same trial only **~14.5% of messages carried a genuine mathematical question**. Ninety-six percent of students created the access event; roughly one in seven of their interactions did the intellectual work. Reporting a logins figure here would have described a success that did not exist.
+
+**"Open versus proprietary is a licensing detail that does not affect outcomes."** The platform model shapes what institutions can do with the system: [[open-source|open]] platforms such as OATutor — an MIT-licensed adaptive tutor with a Creative Commons algebra content library, [[knowledge-tracing]] mastery estimation and built-in A/B testing — let a department instrument and modify its own pedagogy, which a closed platform cannot. The licence determines who may conduct the experiment.
+
+**"A platform that works at one institution will work as adopted."** Platform effects run through local governance: privacy-first architecture, data minimisation, auditable logs and role-based access are what make an AI-integrated platform deployable at all, and they are institutional decisions rather than features you can infer from a vendor demonstration.
 
 ## Connected Concepts
 

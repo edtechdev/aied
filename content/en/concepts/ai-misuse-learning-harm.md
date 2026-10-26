@@ -1,7 +1,7 @@
 ---
 title: AI Misuse and Learning Harm
 created: "2026-08-12T19:08:47-04:00"
-updated: "2026-10-25T03:01:23-04:00"
+updated: "2026-10-25T16:25:00-04:00"
 connected_faqs: [does-ai-help-students-learn, how-ai-impacts-students, asynchronous-online-courses-ai]
 type: concept
 foundations: [academic-integrity, cognitive-offloading]
@@ -76,6 +76,36 @@ The most important practical nuance is that the harm is **selective by assessmen
 ### Conversational disengagement in the LLM era
 
 The gaming-the-system literature (hint abuse, systematic guessing) has a dialogue-era counterpart: conversational disengagement — mocking the agent, deliberately answering wrong, ghosting it, mirroring its text, or withholding responses. [[rho-disengaged-conversational-behaviors-2026|Rho et al. (2026)]] give this phenomenon its first systematic treatment in student-AI dialogue, and its central lesson is interpretative rather than alarmist. A disengaged *turn* is an interactional move, not a stable state of disengagement. False Answering's apparent association with post-test scores did not survive a human-annotated sensitivity check, and the authors read it as probing *within* trajectories that often return to engagement (the highest-performing cluster recovered at p = 0.42). The behavior that actually separated trajectories was Withholding — the refusal to respond, which persisted rather than resolved. For designers this inverts the usual priority: noisy, visible disengagement is often self-correcting, while quiet withdrawal signals that interaction has broken down.
+
+## Common Misconceptions
+
+**"Students would notice if AI were harming their learning."** They do not, and this is the single most consequential fact on the page: **students in the harmed group did not perceive that they learned less.** Self-report is therefore not a usable early-warning signal. The 48%-higher-practice / 17%-lower-exam pattern is invisible to the person experiencing it, which is why harm detection has to be measurement-based rather than testimony-based.
+
+**"The risk is how much AI a student uses."** The risk is what the AI is substituted for. Misuse here means delegating the drafting, recall or analysis that builds durable understanding — substitution rather than complement, and a student can substitute heavily in one task and complement productively in the next. Volume of use is the wrong variable; the division of cognitive labour is the right one.
+
+**"If practice performance is improving, the tool is working."** In the causal field RCT of roughly 1,000 high-school mathematics students, an unguarded ChatGPT-style tutor raised assisted practice performance **+48%** while *reducing* unassisted [[summative-assessment|closed-book exam]] scores by **17%**. The directions are opposite, so any evaluation that reads the practice number as the outcome will certify exactly the harm it is meant to detect.
+
+**"Learners using AI mainly worry about getting caught."** Their stated concerns are developmental. In one study **51% of participants (n = 106)** worried that GenAI use could hamper individual development, naming losses to [[critical-thinking|critical thinking]], creativity and autonomy rather than rule-breaking. The [[academic-integrity|integrity]] framing that dominates institutional discourse is not the one students themselves reach for.
+
+## Implications for Practice
+
+**For instructors**
+
+- Do not ask students whether the tool helped; measure unassisted performance. The harmed group's subjective report was reassuring and wrong.
+- Design for complement rather than substitution task by task, specifying what the student must produce before the AI may be used.
+- Watch for rising practice grades alongside flat or falling unassisted scores — that divergence is the signature to act on, not a data quality problem.
+- Take the developmental concern seriously in framing. Students raising critical-thinking and autonomy losses are describing the mechanism of harm, not resisting a rule.
+
+**For developers**
+
+- Instrument both assisted and unassisted performance and never present only the first as learning.
+- Do not add "did you find this helpful?" as a learning measure; it was stable while learning fell.
+- Build the substitution boundary into the interaction — the guardrailed hint-not-answer design eliminated the harm in the same experiment family.
+
+**For researchers**
+
+- Always report the unassisted measure, and report perception alongside it rather than instead of it.
+- Report the substitution structure of the task, not just frequency of use, when attributing harm.
 
 ## Connected Concepts
 
