@@ -1,7 +1,7 @@
 ---
 title: Formative Assessment
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-10-26T11:40:00-04:00"
+updated: "2026-10-26T13:35:09-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [scaffolding]
@@ -98,6 +98,7 @@ Formative assessment in AI education connects to the learning process itself:
 - **AI scoring adds a validity threat.** Because an AI scorer can reward construct-irrelevant features such as language fluency instead of scientific reasoning, a Stanford/ETS white paper distilled from a ~100-leader convening argues assessment should accumulate continuous, context-rich evidence rather than certify one-shot outputs ([[responsible-assessment-ai-era-stanford-2026|McGee et al. (2026)]]).
 
 - **Keep the vulnerable task and add a twin.** [[roe-assessment-twins-2026|Roe, Perkins & Giray (2026)]] argue take-home essays and research reports carry substantial formative value and should be retained for learning, paired with a second task assessing the same outcomes that supplies reliable summative evidence.
+- **Technology-supported formative assessment is a system property, not a tool.** [[bulut-technology-supported-formative-assessment-2026|Bulut (2026)]] defines it as the joint product of technological capacity, pedagogical regulation, learner agency, and human judgment, and argues its value lies in sustaining the evidence-feedback-reflection-action cycle rather than in automation.
 ## Risk: Assessment as surveillance
 
 Formative assessment systems can shift from learning-support tools to behavior-monitoring infrastructure. The same data streams that enable adaptive tutoring can enable punitive tracking if [[governance]] is weak. This connects to [[privacy]] and [[well-being|student well-being]], and argues for formative systems that support learning rather than surveil it.

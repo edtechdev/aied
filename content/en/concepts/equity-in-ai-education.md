@@ -1,7 +1,7 @@
 ---
 title: Equity
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-10-26T12:30:00-04:00"
+updated: "2026-10-26T13:35:09-04:00"
 type: concept
 foundations: [ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring]
@@ -54,6 +54,7 @@ Preparation matters more than preference, and the right to refuse is unevenly di
 - **[[curriculum-design|Curriculum]] diversification:** Teachers increasingly use LLMs to diversify curriculum materials (Wang et al., 2025, found 78% did so), yet AI-curated reading lists still underrepresent BIPOC authors, and [[stem-education|STEM]] [[intelligent-tutoring|AI tutors]] default to Western-centric problem contexts.
 
 - **Generated imagery repeats dominant visual norms, which makes critical use a competency rather than an add-on.** Jiang et al. (2026) observe that GenAI image generation reproduces dominant multimodal norms such as visual bias, and warn that multimodal assessment which ignores this risks automating and reproducing inequalities; their framework for second language teachers therefore requires the competence to help students detect, evaluate and counter-narrate biased model outputs ([[multimodal-assessment-literacy-l2-teachers-genai-2026|Jiang et al., 2026]]).
+- **Representation applies to the evidence, not only the learners.** [[bulut-technology-supported-formative-assessment-2026|Bulut (2026)]] argues that equity in technology-supported assessment covers the contextual transferability of the knowledge underpinning a design, so a system validated in well-resourced settings carries untested assumptions elsewhere.
 
 ## Outcome equity
 In a scoping review of 394 GenAI higher-education studies, equity and access were among the outcomes targeted least, alongside metacognition, ethics and creativity ([[mapping-genai-higher-ed-scoping-review|Lin et al. (2026)]]).

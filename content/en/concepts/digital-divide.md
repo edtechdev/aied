@@ -1,7 +1,7 @@
 ---
 title: Digital Divide
 created: "2026-08-13T18:07:54-04:00"
-updated: "2026-10-26T06:45:00-04:00"
+updated: "2026-10-26T13:35:09-04:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, ai-guidance-children-under-13]
 type: concept
 foundations: [ai-education, ai-literacy]
@@ -74,7 +74,7 @@ The digital divide is a core concern of [[equity-in-ai-education]] research, clo
 - **"Access to the tool is the divide."** Access is the first layer and the literature has moved past it. **Phrasing skill is its own second-level divide**: on MedQA, accuracy rose with prompt sophistication from **82.4% for low-literacy wording to 83.4% for expert phrasing**, which means two students with identical access get different quality from the same model because one knows how to ask. A prompt-rewriting layer narrowed the gap — the divide is in the interface and the user's fluency, not only in the subscription.
 - **"If it runs in a browser, it is available."** Most LLM lecture tools assume **single-language English audio and reliable internet**, which rules out exactly the classrooms mixing English with a home language. India's UDISE+ data put school internet access far below the level that assumption requires. A tool built on an assumed infrastructure silently excludes the settings with the strongest need.
 - **"Digital literacy and AI usage are the same mediating variable."** A study of **4,497 Grade 6 students** in the Netherlands separated **two distinct mediating pathways** — AI usage and digital literacy — linking background and personality to learning gains. They are not interchangeable, and interventions that raise one do not automatically raise the other.
-- **"Simulations remove the cost barrier."** A systematic review of **11 digital-twin studies** in STEM higher education found hardware costs of **$2,000-$15,000** per setup. A simulated lab can reproduce the equipment bill it was meant to avoid, so the cost argument for virtual provision has to be checked rather than assumed.
+- **"Simulations remove the cost barrier."** A systematic review of **11 digital-twin studies** in STEM higher education found hardware costs of **\$2,000-\$15,000** per setup. A simulated lab can reproduce the equipment bill it was meant to avoid, so the cost argument for virtual provision has to be checked rather than assumed.
 
 ## What this means for practice
 

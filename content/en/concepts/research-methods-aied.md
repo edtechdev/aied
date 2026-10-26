@@ -1,7 +1,7 @@
 ---
 title: Research Methods in AIED
 created: "2026-08-13T05:48:37-04:00"
-updated: "2026-10-26T02:30:00-04:00"
+updated: "2026-10-26T13:35:09-04:00"
 type: concept
 foundations: [ai-education]
 assessment: [educational-measurement]
@@ -173,6 +173,8 @@ A distinct methodological strand — [[usability-research|usability and HCI rese
 - **Usability/HCI:** benefits — identifies adoption barriers, actionable design guidance, fast and cheap. Limitations — does not establish learning effects, small samples, self-report satisfaction can mislead.
 
 In practice, AI-in-education research rarely falls cleanly into one tradition. The strongest evidence triangulates: a computational or usability evaluation establishes that a system works, an experiment establishes that it causes learning, quantitative instruments measure the constructs, and qualitative work reveals the mechanisms and meanings — together answering both *whether* a tool helps learning and *how and why*.
+
+[[bulut-technology-supported-formative-assessment-2026|Bulut (2026)]] adds a bibliometric strand that sits apart from these four: mapping 407 records by co-word and co-authorship network to trace a field's conceptual development. The author is explicit that the SWOT reading built on top of it is an interpretive device rather than an independent analytical technique, which marks the boundary between synthesis and analysis in this tradition.
 
 ## Common Misconceptions
 

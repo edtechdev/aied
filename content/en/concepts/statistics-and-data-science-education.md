@@ -2,6 +2,12 @@
 title: "Statistics and Data Science Education"
 created: "2026-10-25T11:40:00-04:00"
 updated: "2026-10-26T14:15:00-04:00"
+contributors: [editor]
+ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: drafting
+    date: "2026-10-26"
+    agent: hermes-agent
 type: concept
 foundations: [ai-education]
 pedagogy: [inquiry-based-learning, situated-learning, scaffolding]

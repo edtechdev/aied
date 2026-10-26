@@ -18,6 +18,11 @@ ethics: []
 confidence: high
 sources: ['raw/papers/wenzel-conversational-ai-feedback-cognitive-load-game-2026.md']
 contributors: [editor]
+ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: drafting
+    date: "2026-10-26"
+    agent: hermes-agent
 ---
 
 > **Synthesis:** Wenzel, Geiger and Liening (2026) ran a five-week longitudinal field study inside a business simulation game with 234 students and 1,147 weekly observations, separating **access** to conversational AI feedback from **actual engagement** with it. The distinction turned out to be the finding. Merely providing access moved nothing: neither **extraneous** (ITT β = .071, p = .481) nor **germane** cognitive load (β = .019, p = .807). But among students who actually used the chatbot regularly, **germane load was significantly higher** than among students with access who did not use it (β = −.468, p < .001) and than the control group (β = −.253, p = .028) — while **extraneous load was not reduced at all** by either access or engagement (F(1, 219) = 0.499, p = .481; usage-based F(3, 214) = 0.172, p = .915). Conversational AI feedback made learners work harder on the material without making the environment easier. That is a better outcome than the usual marketing claim and a different one.

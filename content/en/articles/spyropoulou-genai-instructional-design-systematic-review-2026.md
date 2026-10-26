@@ -18,6 +18,11 @@ ethics: [equity-in-ai-education, ethics]
 confidence: high
 sources: ['raw/papers/spyropoulou-genai-instructional-design-systematic-review-2026.md']
 contributors: [editor]
+ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: drafting
+    date: "2026-10-26"
+    agent: hermes-agent
 ---
 
 > **Synthesis:** A PRISMA-guided qualitative systematic review of 78 studies (2022–2026) finds that documented AI-supported instructional design clusters overwhelmingly in the *Design* phase of ADDIE — 95% of studies — while Implementation (9%) and Evaluation (13%) go largely unexamined, and **no study examined AI support across the complete cycle**. Most of the corpus (76%) applies no named competence framework, so findings cannot accumulate; human oversight is an explicit commitment in 58% of studies but examined empirically in only 27%. The review's organising claim is that the educator's [[learning-design|design expertise]], not the technology's generative fluency, remains the centre of the practice — and that professional development should therefore teach evaluation, pedagogical decision-making and accountable oversight rather than tool operation.

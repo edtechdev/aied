@@ -18,6 +18,11 @@ ethics: [privacy, ai-use-disclosure]
 confidence: medium
 sources: ['raw/papers/bergdahl-student-epistemic-agency-ai-2026.md']
 contributors: [editor]
+ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: drafting
+    date: "2026-10-26"
+    agent: hermes-agent
 ---
 
 > **Synthesis:** Bergdahl (2026) surveyed 47 Swedish year 7 students who had spent a semester in an "AI on the schedule" pilot, testing whether [[agency|epistemic agency]] directed at AI *output* extends to the *systems* producing it. It does not. Students showed strong agency on source evaluation and governance but weak agency on data privacy and algorithmic manipulation — and the split held **within individual students**: 79% had a score range of three or more across nine items, and a within-person dissociation index favoured output-directed over system-directed engagement in 35 students against 4 in reverse (sign test, p < .001). Among the 34 most source-critical students, 21 still endorsed "Good, then the answers get better" on chatbots reading their writing. Most strikingly, the low scores on data privacy were recorded one month after a lesson in which students watched their own logged behaviour projected live and called it "scary" — then stayed in through recess to keep using the platform. The study's contribution is that epistemic agency in AI-mediated practice is **not a unified construct**, and instruction that raises one register does not raise the other.
