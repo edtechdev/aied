@@ -1,7 +1,7 @@
 ---
 title: Arts, Design and Media Education
 created: "2026-09-16T14:29:36-04:00"
-updated: "2026-09-28T21:41:14-04:00"
+updated: "2026-10-25T20:50:00-04:00"
 type: concept
 foundations: [design-thinking]
 pedagogy: [creativity, embodied-learning, project-based-learning]
@@ -73,6 +73,35 @@ What is consistent is a repositioning of what gets assessed. The Derby study mea
 [[accessibility]] in the arts is treated less as compliance than as a design and material-practice question. [[embodied-string-learning-blindness-low-vision-musicians|Shi et al. (2026)]] is the clearest case: because bowed-string technique is normally taught by visual demonstration, blind and low-vision musicians depend on tactile and kinesthetic channels, and the study's disability-led co-design produced strategies rooted in those musicians' own practice rather than adaptations bolted onto a visual default.
 
 Two other findings complicate any simple story of generative tools as an equaliser. In the Derby study about a third of participants declared a disability and nearly a fifth reported a specific learning difficulty; inclusivity items clustered at 3.8–4.1 and correlated strongly with feeling the session was approachable (ρ = .74) and with keeping up regardless of prior AI use (ρ = .81), and students less confident at drawing reported not feeling disadvantaged — a modest equalizing effect in a single 90-minute session, not demonstrated learning. The LumiNote representation gap shows the other side: cues that help experts externalize their reasoning are not the cues novices can follow, so a design that serves the instructor well can leave learners adrift, and the authors position the LLM as a mediation layer that must translate between the two. The GenARch study records a related equity decision: after data collection the [[ai-technologies|technologies]] were released to the control students so they were not withheld. Whose aesthetic and cultural references generative models reproduce, and whether wider access to design services expands demand or intensifies mid-market competition, are raised in the Malaysia analysis and remain open.
+
+## Common Misconceptions
+
+**"The arts evidence base establishes discipline-wide conclusions about AI."** It does not, and the corpus is candid about it: coverage is concentrated in [[higher-ed|higher education]] and in single-studio or single-course studies, so most findings are **case evidence rather than discipline-wide claims**. A result from one design studio tells you what happened there, and the studio is an unusually specific social arrangement to generalise from.
+
+**"Any generative tool is educationally equivalent to any other."** The distinction that matters is whether the tool generates *for* the student or composes *with* them. A music education review separates autonomous generators such as Suno and Udio from interactive composition assistants such as the Continuator, arguing that **only the second is educationally productive**. Both produce music; only one leaves the student making the compositional decisions.
+
+**"High acceptance of generated output shows the tool is working."** Acceptance is the measure of the tool's persuasiveness, not of the student's learning. In one studio study students produced roughly **80 images per session, about ten each, with acceptance rates above 60%** — a rate at which most of what was generated was used, which raises the question of how much revision and judgement the session contained.
+
+**"AI in studio teaching replaces the critique."** The constructionist framing in this literature is the opposite: a designed "microworld" that **expands the creative search space without replacing design thinking**. The critique is where judgement is formed, and a tool that supplies candidate solutions gives the critique more material to work on rather than less need for it.
+
+**"Students are not already using AI in arts education, so the curriculum can set the pace."** Survey evidence in this corpus finds nearly **70% of architecture students already use AI tools independently**. The curriculum is catching up with a practice that has already spread, which changes the task from introduction to critical integration.
+
+## Implications for Practice
+
+**For studio instructors**
+
+- Distinguish generating-for from composing-with when choosing tools, and prefer the second. The distinction is the difference between a student who directs a system and one who receives output.
+- Keep the critique and make it the assessed element. Acceptance rates above 60% suggest critique is the only place the selection judgement will surface.
+- Assume prior independent use: nearly 70% of architecture students are already using AI tools, so the pedagogical work is on quality of use rather than on exposure.
+
+**For developers**
+
+- Build for iteration and control — parameters, constraints, partial generation — not for one-shot production. Interactive composition is the mode with an educational claim behind it.
+- Instrument revision behaviour, not acceptance rate. Acceptance measures your output, not the student's thinking.
+
+**For researchers**
+
+- Move beyond single-studio case studies before making discipline-wide claims, and report the studio's structure since it conditions the result.
 
 ## Connected Concepts
 

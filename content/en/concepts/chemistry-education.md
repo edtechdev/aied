@@ -1,7 +1,7 @@
 ---
 title: Chemistry Education
 created: "2026-08-19T12:55:00-04:00"
-updated: "2026-09-03T15:00:00-04:00"
+updated: "2026-10-25T20:50:00-04:00"
 type: concept
 foundations: [ai-literacy, philosophy-of-ai-in-education]
 technology: [generative-ai]
@@ -50,6 +50,16 @@ Chemistry education sits within the broader [[stem-education]] domain and shares
 - **Combine AI with structured, contextual pedagogy.** [[context-based-ai-secondary-chemistry-2026|7E + PhET + ChatGPT]] outperformed inquiry-only and conventional teaching, showing AI works best inside an established instructional model.
 - **Be alert to epistemic drift and over-reliance.** [[philosophy-experimentation-ai-chemistry-2026|Philosophy-of-experimentation]] research and UNESCO guidance warn that opaque AI can detach inquiry from causal understanding — preserve human-reasoning-prioritizing assessment and student agency.
 - **Grade open-ended handwritten work selectively.** In a 296-student handwritten general-chemistry final, a multimodal LLM graded textual answers and chemical-reaction equations reliably but drawing and graphing worse than random (background grids visually distract AI vision); pairing an [[item-response-theory|IRT]]-based risk filter and [[human-in-the-loop-ai|deferring]] graphical items to humans made automation defensible for [[summative-assessment|summative]] use ([[cvengros-grading-handwritten-chemistry-ai-2026]]).
+
+## Common Misconceptions
+
+**"A model that can explain chemistry can therefore do chemistry."** The capabilities come apart in exactly the places a chemistry course tests. Systematic evidence shows LLMs can define basic terms while performing **poorly on rigorous quantitative tasks**, struggling with **spatial reasoning such as NMR interpretation**, and showing **overconfidence** on both. A tutor built on fluent verbal explanation will appear strong precisely where the subject is easiest and fail where it is hardest, while sounding equally assured throughout.
+
+**"Fluency of explanation is a reasonable proxy for reliability."** It is a proxy for fluency. The overconfidence finding is the operative one for teaching: a system that states an incorrect spatial or quantitative answer with the same register as a correct one removes the learner's cue to check, which is why verification has to be built into the task rather than inferred from tone.
+
+**"Adding AI to an existing inquiry lesson cannot hurt."** It can, and the comparison that shows a benefit is narrower than it sounds. [[context-based-ai-secondary-chemistry-2026|Abdikayumova and Madybekova]] combined the **7E instructional model** with PhET simulations *and* ChatGPT tutoring for Grade 10 chemistry and found significantly higher achievement and engagement than inquiry-only or conventional instruction. The treatment is the structured combination — an instructional model plus simulations plus tutoring — not the chatbot on its own, and a chatbot added to unstructured inquiry is untested by that result.
+
+**"Chemistry is a subject where the answer is checkable, so AI errors are harmless."** Checkable answers are how wrong reasoning passes unnoticed: a student who receives a correct value from a model that reasoned badly has no way to detect the deficiency, and the assessment records success. In a quantitative discipline the verifiable endpoint is the weakest available evidence of understanding.
 
 ## Connected Concepts
 

@@ -1,7 +1,7 @@
 ---
 title: "Levels of Education"
 created: "2026-09-20T13:08:39-04:00"
-updated: "2026-09-28T21:44:10-04:00"
+updated: "2026-10-25T20:50:00-04:00"
 type: concept
 foundations: [ai-education, learner-identity]
 pedagogy: [scaffolding, self-regulated-learning, prior-knowledge]
@@ -75,6 +75,16 @@ One pattern holds at every level surveyed: the human layer absorbs the hardest c
 - **Gate AI by activity, not by enthusiasm**, and scale privacy duties with age ([[ai-lms-middle-school-longitudinal]], [[data-privacy-ai-african-higher-education-2026]]).
 - **Design for the mediating adult of that band** — parent, teacher, librarian or supervisor — and measure their readiness separately from the institution's ([[ai-adoption-readiness-ukraine-education-managers-2026]], [[ai-assisted-seminar-learning-information-literacy-2026]]).
 - **Say plainly when a band has no evidence**, and **don't mistake intention for achievement**: several level-specific studies report attitude or [[self-report-measures|self-report]] outcomes rather than learning.
+
+## Common Misconceptions
+
+**"A band label tells you what a learner can do."** Band and knowledge level correlate without being equal. In the second-grade tutoring trial, [[prior-knowledge|prior knowledge]] dominated posttest performance (**F(1, 124) = 206.99, p < .001, η²p = .63**) — a large effect that makes the grade-level label a weak predictor beside the learner's actual prior knowledge. Designing to the band and ignoring the within-band spread is designing for the average of a wide distribution.
+
+**"The subject being taught matters more than the education level."** The school/university break matters more. What changes across that boundary is not the content but the capacity for self-regulation, the nature of the assessment contract, and who is responsible for the learning — which is why a tool that helps a graduate seminar can harm a second-grade lesson even on comparable content.
+
+**"An adaptive tutor helps every level equally."** The comparison that isolates the variable is instructive: two versions of the same second-grade mathematics tutor — identical content, interface, feedback and spoken hints — differing **only in whether task selection followed a Bayesian [[knowledge-tracing|knowledge-tracing]] model**. Adaptive task selection is a level-sensitive intervention, and its benefit depends on whether learners at that level can act on the adaptation.
+
+**"Evidence concentrated in higher education generalises downward."** It does not, and the distribution of the literature is a warning rather than a convenience. Where the evidence is dense and where it is thin is a property of the research economy, not of where AI is most used, so a claim about K-12 drawn from university samples is an extrapolation across the boundary that matters most.
 
 ## Connected Concepts
 - [[k-12]]

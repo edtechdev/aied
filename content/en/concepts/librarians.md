@@ -1,7 +1,7 @@
 ---
 title: "Librarians"
 created: "2026-09-20T12:40:00-04:00"
-updated: "2026-09-20T12:40:00-04:00"
+updated: "2026-10-25T20:50:00-04:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, academic-integrity, human-ai-collaboration]
 pedagogy: [scaffolding, inquiry-based-learning, collaborative-learning, metacognition]
@@ -54,6 +54,16 @@ Two more strands set the limits of the role. [[pearls-epistemic-verification-202
 - **Design for heterogeneous pathways.** With roughly equal groups preferring AI, librarians, or both, routing consultations by subject and workload absorbed 312 of them at 10.4 per participant; a single mandated route will under-serve some learners.
 - **Make confidence and sources visible.** The workshop's search-as-learning thread asks which cognitive processes should not be offloaded and calls for interfaces that preserve decision points — a [[scaffolding|scaffold]] librarians can specify from their ordinary working standard of source visibility.
 - **Budget the human layer, not just the model.** The consultations were answered in hours, at scale, because staff were routed deliberately; assuming learners will handle credibility judgment alone transfers that cost to the people least equipped to pay it.
+
+## Common Misconceptions
+
+**"Librarians are peripheral to AI in education."** They hold a specific, testable role, and the corpus measures it. Across **312 consultations (10.4 per participant)**, source evaluation and quality accounted for **38.5%**, search-strategy formation **29.2%**, citation management **18.6%**, and repository navigation **13.7%** — and **73.4% were answered within six hours**. That is not a peripheral service; it is the information-literacy function carrying the load AI could not.
+
+**"AI search answers the questions students used to bring to a librarian."** In the embedded-librarian study, **source-evaluation questions dominated consultations (38.5%) precisely in the cases where the AI was least confident**. The tool's uncertainty routed work to the human capacity that could resolve it, which makes the observed pattern a division of labour rather than an obsolescence.
+
+**"Information literacy is a one-off induction session."** It is instruction, not assistance: the questions students arrive with are evaluation and strategy problems — is this source credible, how do I search this — which are teachable skills rather than transactions to be completed. Treating the service as assistance converts a curriculum into a helpdesk and loses the durable capability.
+
+**"Who pays for verification is someone else's problem."** The consultation load lands on library staffing, and the paper's own question is whether asking libraries to carry it outruns their headcount. Co-design and partnership are the responses the literature recommends precisely because the verification cost is real and falls on a unit that did not budget for it.
 
 ## Connected Concepts
 

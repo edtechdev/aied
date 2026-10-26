@@ -1,7 +1,7 @@
 ---
 title: Behaviorism
 created: "2026-08-16T03:36:31-04:00"
-updated: "2026-09-28T21:37:06-04:00"
+updated: "2026-10-25T20:50:00-04:00"
 type: concept
 foundations: [learning-design]
 pedagogy: [behaviorism, learning-theories]
@@ -67,6 +67,16 @@ Behaviorism also appears in how learners encounter AI as a topic. The theory is 
 2. **Watch the theory-practice gap.** Researchers should check whether an AI implementation's behaviorist mechanics are serving the espoused learning goal or quietly replicating the "Turing Trap" of AI as an answer machine.([[ai-vocational-education-training-review]])
 3. **Pair behaviorism with richer scaffolds.** Immediate-feedback designs are most effective when embedded in a broader [[scaffolding]] and [[self-regulated-learning]] context, rather than standing alone as pure drill.
 4. **Evaluate observable *and* transferable outcomes.** Behaviorist success criteria (speed, accuracy) should be complemented by measures of whether learning transfers and generalizes, per [[transfer-of-learning]] and [[research-methods-aied]].
+
+## Common Misconceptions
+
+**"Behaviourism is obsolete, so its influence on AI in education is a historical footnote."** Behaviourist mechanics dominate practice while being out of fashion in theory — reinforcement loops, streak counters, immediate correct/incorrect feedback and mastery gating are the default architecture of most deployed systems. Dismissing the theory while shipping its mechanisms is the field's most widespread inconsistency, and it means the critique is not academic.
+
+**"Observable behaviour change certifies learning."** That is precisely what AI breaks. Output equivalence is the failure mode: when a model can produce the behaviour the system rewards, the observed response no longer certifies the internal change behaviourism inferred it from. A behaviourist design is only as valid as the assumption that the behaviour had to be produced by the learner, and generative AI removes that assumption without changing the design.
+
+**"Behaviourist designs are simply inferior to constructivist ones."** They fit specific targets well — fluency, factual recall, procedural automaticity — where immediate feedback and repetition are genuinely what the task requires. The error is not the mechanism; it is using a mechanism whose validity condition (the learner must produce the response) has silently stopped holding.
+
+**"Because the theory is discredited, systems built on it can be judged by outcomes alone."** Outcomes are exactly what output equivalence corrupts. A system can report excellent behavioural outcomes while the learning has moved elsewhere, so behaviourist-influenced systems need the unassisted measure more than any other kind.
 
 ## Connected Concepts
 
