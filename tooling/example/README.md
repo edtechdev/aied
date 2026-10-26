@@ -41,7 +41,7 @@ Also run the **list-formatting check** (`python3 skills/research/wiki-inline-lin
 The wiki is published as an Astro static site. After adding content:
 
 ```bash
-python3 tooling/scripts/generate-llms-files.py   # regenerate llms.txt / llms-full.txt
+python3 tooling/scripts/generate-llms-files.py   # regenerate llms.txt / llms-concepts.txt / llms-full.txt
 npm run build                                     # build dist/ (pagefind search + sitemap)
 git add -A && git commit -m "..." && git push    # GitHub Actions deploys to Pages
 ```

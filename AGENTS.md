@@ -235,12 +235,31 @@ FAQ slug to that page's `connected_faqs` frontmatter (renders a **Connected FAQs
   - the starred-pages slug→title map, which was inlined into EVERY page as a `data-titles` attribute. 2,035 entries ≈ 315 KB ≈ **64% of every page**, ~2 GB duplicated across 6,618 pages — the single largest cost in the artifact. It is now one JSON file per locale at `/aied/titles/<locale>.json` (route `src/pages/titles/[locale].json.ts`, builder `src/lib/pageTitles.ts`), fetched by the starred script; only the four `DEFAULT_STARRED` titles stay inline so the default list is labeled on first paint. **Together these took the artifact from 1.06 GiB to 0.33 GiB.**
   `astro-build.yml` now fails if `dist/` contains any `.epub`/`.pdf`, and reports the gzip size of `dist/`, failing over 1 GB. **Do NOT inline the titles map again, and do not drop that guard.**
 
-### `llms.txt` / `llms-full.txt`
+### `llms.txt` / `llms-concepts.txt` / `llms-full.txt`
 
-`python3 tooling/scripts/generate-llms-files.py` writes `public/llms.txt` and
-`public/llms-full.txt`. They are **local committed artifacts rebuilt ONLY on explicit
-request**, exactly like the EPUB and the PDF: never automatically after a content edit,
-never by CI, and never by a subagent.
+`python3 tooling/scripts/generate-llms-files.py` writes `public/llms.txt`,
+`public/llms*-concepts.txt` and `public/llms-full.txt`. They are **local committed
+artifacts rebuilt ONLY on explicit request**, exactly like the EPUB and the PDF:
+never automatically after a content edit, never by CI, and never by a subagent.
+
+**`llms*-concepts.txt` carries concept pages only — no FAQs and no resources** (2026-10-26):
+they are what pushed the file past the size an ingester will accept. It also drops each
+page's two navigation-only sections, the question prompts and the Connected lists,
+detected by shape rather than by heading text because every locale translates them.
+
+**It is capped at 500,000 words** (`CONCEPTS_WORD_BUDGET`). English clears that at ~487k,
+but translated prose runs ~1.2x, so Spanish, French, Portuguese, Hindi and Italian exceed it
+once the navigation is gone — and by then every remaining section is substance. Those
+locales are therefore **truncated at a page boundary in taxonomy order** (foundational
+concepts first) and end with a localized note naming how many of how many pages are
+included; dropping whole pages is honest, cutting a sentence mid-clause is not. Read the
+generator's `truncated to N/M pages` line rather than assuming every file is complete, and
+expect more locales to truncate as the corpus grows.
+
+The translated header uses only the **machine-translation disclosure sentence** of each
+locale's `offlineDescription`, because that field is shared with the EPUB/PDF editions (which
+DO include the FAQ pages) and its second sentence would be false here. The truncation note
+is `llmsTruncated` in `src/i18n/locales.json`, with `{included}`/`{total}` placeholders.
 
 ### Cron jobs
 

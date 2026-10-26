@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Regenerate llms.txt and llms-full.txt from the wiki markdown sources."""
+"""Regenerate llms.txt, llms*-concepts.txt and llms-full.txt from the wiki markdown sources."""
 import os
 import re
 import html

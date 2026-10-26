@@ -47,8 +47,10 @@ Confirm no site build or content edit is in flight before starting; check with `
 ## Things that look like defects and are not
 
 - **A new resource page is absent from `llms.txt`.** The llms generator emits articles, concepts and
-  FAQs only — `llms.txt` has sections `## Concepts`, `## FAQs`, `## Articles`, and `llms-concepts.txt`
-  mirrors that. Resources appear in the EPUB/PDF resources chapter and in `llms-full.txt`. Verify there
+  FAQs only — `llms.txt` has sections `## Concepts`, `## FAQs`, `## Articles`. `llms-concepts.txt`
+  carries the **concept pages alone** (no FAQ and no resource section at all), while `llms-full.txt`
+  is the file that includes FAQs. Resources appear in the EPUB/PDF resources chapter and in
+  `llms-full.txt`. Verify there
   before concluding the rebuild missed a page; if the index should cover resources, that is a change to
   the generator, not a defect in the artifact.
 - **The PDF is smaller than the logged size** after the build — pikepdf, see above.

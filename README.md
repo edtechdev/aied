@@ -19,7 +19,7 @@ A free, linked knowledge base on artificial intelligence in education: research,
 
 ### Use it with your own AI assistant
 
-The corpus is agent-ready. It publishes `llms.txt` (one line per page), `llms-concepts.txt` (full text of the concept and FAQ pages, about 4 MB) and `llms-full.txt` (every article, concept and FAQ, about 15 MB). Resource pages appear on the site and in the offline editions but are left out of the llms files, since their content lives on the external site they link to.
+The corpus is agent-ready. It publishes `llms.txt` (one line per page), `llms-concepts.txt` (full text of the concept pages only, no FAQs or resources, capped at 500,000 words, about 4 MB) and `llms-full.txt` (every article, concept and FAQ, about 15 MB). Resource pages appear on the site and in the offline editions but are left out of the llms files, since their content lives on the external site they link to.
 
 Copy-paste this into your assistant:
 
