@@ -1,7 +1,7 @@
 ---
 title: Peer Assessment
 created: "2026-08-13T17:54:24-04:00"
-updated: "2026-10-25T05:04:43-04:00"
+updated: "2026-10-26T11:15:00-04:00"
 type: concept
 connected_faqs: [writing-instruction-ai-best-practices, group-work-ai]
 pedagogy: [collaborative-learning, metacognition, self-regulated-learning]
@@ -83,6 +83,11 @@ GenAI-mediated review also inherits the tool's linguistic norms: contributors to
 
 The open questions are about the strength of the evidence, not only about design. Much of the peer-and-AI evidence is small and context-bound: 45 student teachers in one course, 34 students in one business writing course, 52 pre-service teachers in 15 focus groups. The PAIRR survey is the largest dataset here and measures student perceptions, not the quality of the AI outputs students judged. Only the multisite experiment's 1,176 undergraduates approaches causal-comparative scale, and it tests feedback design for scientific argumentation rather than peer assessment as such. Meanwhile [[oneill-presumed-effective-meta-analysis-2026|O'Neill (2026)]] audited 14 peer-reviewed meta-analyses claiming AI improves education and found none provided a valid basis for its claims — all but two defined the treatment as a tool rather than a pedagogical intervention, heterogeneity was high in every meta-analysis reporting I² (77.2% to 94.4%), and an audit of 59 primary studies found 61% had [[assessment-validity|validity concerns]], most often a mismatch between the outcome measured and the claim made. Claims about what AI does in peer assessment should be treated as claims about a designed activity, tested in that activity's terms.
 
+## Common Misconceptions
+
+- **"Oral defence stops AI-assisted work."** Pasted-to-total characters **rose from 61.0% to 68.1% (p < 0.0001)** after every CS1 submission became subject to a **15-minute oral code review worth 70% of the grade**. The behaviour it targeted increased — and **exam scores did not decline and time-on-task held steady**, while **90% of students said the reviews motivated** them. The intervention worked on understanding, not on pasting.
+- **"Cheating detection is what oral assessment is for."** The measured outcomes were understanding and motivation, not reduction of pasted text. Judging the design by its detection rate misreads what it achieved.
+- **"Peer review is a cheaper substitute for instructor feedback."** [[learning-by-teaching|Learning by teaching]] is the mechanism, and it shows up even among machines: peer-learning-like discourse among over **2.4 million AI agents** was mostly **assertion rather than inquiry**. Producing critique is a different act from receiving it.
 ## Connected Concepts
 
 - [[pedagogical-patterns]] — PAIRR and combined peer-plus-AI feedback: the sequences and their comparative evidence

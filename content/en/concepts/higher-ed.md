@@ -2,7 +2,7 @@
 connected_resources: [pressing-prompts, teacherserver]
 title: Higher Education
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-21T12:05:00-04:00"
+updated: "2026-10-26T11:15:00-04:00"
 type: concept
 foundations: [academic-integrity, ai-education, educational-development]
 technology: [generative-ai]
@@ -83,6 +83,11 @@ A third route hardens the assignment itself: rendering prompts as perturbed imag
 - **Engage with grading and assessment innovation deliberately.** [[mesny-innovative-assessment-grading-management-2026|Mesny, Roberge-Maltais & Galy (2026)]] argue that [[assessment]] and grading are among the most influential factors shaping learning in higher education, yet they remain under-researched in fields such as [[business-education|management education]] (only 58 articles over 20 years across four leading journals). Traditional, [[summative-assessment|summative]]-heavy and norm-referenced approaches undermine deep learning, [[well-being]], equity, and [[academic-integrity|integrity]] in the generative AI era; the authors urge instructors to engage more actively and reciprocally with five innovative practices (authentic assessment, self- and peer-assessment, reassessment, standards-based grading, ungrading), noting implementation demands institutional and cultural support and incremental experimentation.
 - **Treat research training and supervision as an AI-literacy site in its own right.** [[dai-chan-responsible-genai-research-ai-literacy-2026|Postgraduate researchers]] enact [[ai-literacy]] as a [[situated-learning|situated]] practice rather than a static skill set, and institutional guidance largely stops at teaching and assessment. Guidance for thesis, dissertation, and publication work should [[scaffolding|scaffold]] verification, attribution, and disclosure concretely for each AI literacy dimension — and [[engagement-intensity-learner-modeling|simple pre-instruction signals]] can target that support in research-ethics courses — instead of issuing binary rules.
 
+## Common Misconceptions
+
+- **"Institutional AI adoption has matured."** The **symbolic layer is saturated while the structural layer is thin**: **100% have an AI task force and a master's AI degree, but only 12% have executive AI leadership** and only 5% require a further institutional step. Announcements have outrun structures by an order of magnitude.
+- **"Prestige predicts institutional AI maturity."** Institutionalization proved **independent of prestige (rank correlation r ≈ 0.04)**, with significant **regional variation (ANOVA F = 5.86, p < .001)**. Reputation is not a proxy for readiness, and geography predicts more than status.
+- **"How AI distributes epistemic work is uniform across institutions."** [[sun-student-genai-entanglement-literacy-demands-2026|Sun, Dohn and Rehm (2026)]] classified **102 empirical higher-education studies** by how epistemic work was distributed, and the variation is the finding rather than a detail.
 ## Connected Concepts
 
 - [[pedagogical-patterns]] — The level where most of the tested sequence evidence was generated

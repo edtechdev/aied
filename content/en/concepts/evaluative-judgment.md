@@ -1,7 +1,7 @@
 ---
 title: Evaluative Judgment
 created: "2026-09-10T05:58:00-04:00"
-updated: "2026-10-25T05:04:43-04:00"
+updated: "2026-10-26T11:15:00-04:00"
 type: concept
 foundations: [academic-integrity, critical-thinking]
 pedagogy: [metacognition, self-regulated-learning]
@@ -91,6 +91,11 @@ Displacement has a teacher-side version, and it is what turned several writing p
 
 - **Make retained judgment visible with comprehension-debt probes.** [[judgment-centred-software-engineering-education-2026|Mahmoud (2026)]] defines four cross-cutting obligations — explain, verify, modify, and account — that make retained competence visible at every level of AI integration, and proposes delayed change requests, code walkthroughs, independently designed tests, defect localization, and live debugging as probes that compare what was produced with what can later be demonstrated. Under [[agentic-ai|agentic]] capability the assessment target moves to supervision — task contracts, permission boundaries, sandboxes, evaluation harnesses, diff review, rollback, and human accountability — shifting assessment from visible authorship toward visible judgment.
 
+## Common Misconceptions
+
+- **"Evaluator error is random noise."** **Evaluator judgment carries a measurable direction of its own**: five admissions officers separating **50 human from 50 AI admissions essays** reached **AUC 0.70**, meaning they could distinguish the sources only weakly — and because nobody screened the submissions, that **unaided judgment was the entire enforcement mechanism**, with each flagged essay carrying **1.5 percentage points less admission** probability. A weak signal became a real penalty.
+- **"Peer and AI review are substitutes."** The PAIRR model [[pairr-ai-peer-review-2025|(Sperber et al., 2025)]] **combines peer review with AI review** to structure calibration. Combining them is the design, which implies neither alone supplies it.
+- **"Judgment quality is a property of the judge."** The admissions finding locates the problem in the arrangement — an unvalidated judgment applied at consequence with no screening stage — rather than in the individuals' ability.
 ## Connected Concepts
 
 - [[pedagogical-patterns]] — The appraisal step students perform on AI output inside these sequences

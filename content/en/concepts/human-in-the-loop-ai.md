@@ -1,7 +1,7 @@
 ---
 title: Human-in-the-Loop
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-10-24T06:14:00-04:00"
+updated: "2026-10-26T11:15:00-04:00"
 connected_faqs: [ai-agents-support-students-instructors, designing-educational-ai-software, ai-feedback-at-scale]
 type: concept
 foundations: [ai-education]
@@ -107,6 +107,11 @@ Human-in-the-loop design is not merely a safety measure—it is a **resource-all
 - **Escalation from AI to expert is a human-in-the-loop move.** The SCAN framework assigns tasks to four generative-AI modes by learner distance, and reads passive [[student-engagement|engagement]] inside a correctly assigned AI task as a mis-skilling signal to shift the learner from AI to expert assistance, with a human as epistemic auditor ([[ai-teammate-task-distribution-medical-training-2026|Tsim et al. (2026)]]).
 - **Oversight of AI adoption advice.** Because [[conversational-ai|conversational AI]] systems consulted by skeptical users may be predisposed to encourage adoption, human oversight and independent evaluation are essential. An audit showing most frontier models redirect skeptical rural [[k-12]] staff toward [[student-engagement|engagement]] underlines the need for transparent, auditable AI advice rather than uncritical reliance.
 
+## Common Misconceptions
+
+- **"Showing the system's recommendation helps the human supervise it."** **Withholding a system's preferred answer is protective rather than corrective**: in a multi-agent debate that **never revealed a recommended position**, detrimental switching to the AI's answer **dropped**. Disclosure invited deference; withholding supported judgement.
+- **"Human-in-the-loop must mean one human, one decision."** A multi-agent classroom of [[teacher-role|Teacher]] Agent, TA Agent and classmate archetypes was deployed at Tsinghua University with **more than 500 students and more than 100,000 learning records**. Supervision scales through the arrangement, not by multiplying supervisors.
+- **"Reviewing AI output is intuitive."** In a **within-subject study with 23 educators**, a review-based approach **improved every CTML principle (mean rating 3.07 to 3.86, p < .01)**, with educators rating production efficiency favourably. Review is a skill that improved under a structured method.
 ## Connected Concepts
 - [[pedagogical-patterns]] — Where human review sits in tested sequences, and what has never been tested in isolation
 - [[guardrails]]

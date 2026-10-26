@@ -1,7 +1,7 @@
 ---
 title: AI-Assisted Educational Research
 created: "2026-10-05T10:45:00-04:00"
-updated: "2026-10-22T09:11:45-04:00"
+updated: "2026-10-26T11:15:00-04:00"
 type: concept
 foundations: [ai-literacy, human-ai-collaboration, academic-integrity]
 technology: [generative-ai, llm, human-in-the-loop-ai, simulating-students, simulation]
@@ -150,6 +150,11 @@ What can be carried across is a disposition rather than a result: name the AI's 
 - **Practitioner research is under-represented.** Only a handful of pages here mention SoTL or classroom research, so the corpus cannot ground claims about teachers studying their own practice.
 - **A moving target.** The tools improve faster than publication, so a finding about a 2025 workflow describes a generation of systems that may no longer exist in that form.
 
+## Common Misconceptions
+
+- **"LLM and software papers are evaluated equally well."** Since 2023, **38.0% of software and product papers reported no evaluation at all, against 9.3% of LLM papers**. The gap is large and it runs against the assumption that newer tooling is less rigorously tested.
+- **"Stratifying by task fixes the gap."** **The gap survives stratification**: in screening and selection, software papers averaged **3.2 substantive evaluation items with 39.3% reporting none**, while LLM papers averaged more. The difference is a systematic property of the paper class, not of the task.
+- **"A positive evaluation means the workflow met its intended bar."** Among **118 LLM papers with positive-only evaluations, 52% still reported at least one concern that the workflow fell below the bar required for its role**. Half of the positive evaluations contained their own refutation.
 ## Connected Concepts
 
 - [[research-methods-aied]] — the umbrella for the designs used to study AI in education

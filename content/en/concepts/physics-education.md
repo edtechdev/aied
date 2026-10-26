@@ -1,7 +1,7 @@
 ---
 title: Physics Education
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-23T08:03:41-04:00"
+updated: "2026-10-26T11:15:00-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [socratic-method]
@@ -87,6 +87,11 @@ Physics education sits within the broader [[stem-education]] domain but has dist
 
 - **Verify facilitator fidelity; keep the model-building phase AI-free.** Pressed to "just tell us" which can weighed more, a purpose-configured Gem invented mass values no one had measured, so a language-based facilitator's fidelity must be checked rather than assumed, and the AI-free build phase preserves the hands-on work it cannot reach ([[embodied-inquiry-ai-facilitator-physics-2026|Tufino & Damiani (2026)]]).
 
+## Common Misconceptions
+
+- **"Students trust AI enough to rely on it uncritically."** [[fouad-bentley-trust-utility-gap-physics-2026|Fouad and Bentley]] found a **50-point trust-utility gap**: **91% use AI for coursework but only 41% trust it**. Widespread use coexists with low trust, so an intervention aimed at building enthusiasm addresses the wrong variable.
+- **"Physics students are one population."** [[becker-chatgpt-typology-physics-2026|Becker et al.]] developed a two-profile typology from **1,189 survey responses**: **70% "Pragmatic Users" and 30% "Skeptical Non-Users"**. A single classroom policy has to serve two groups with opposite stances.
+- **"The gap between use and trust is irrational."** The two figures measure different things — whether the tool helps you finish work, and whether you believe it does so correctly. Students are distinguishing utility from reliability, which is the analytically correct distinction and not a contradiction.
 ## Connected Concepts
 
 - [[stem-education]]
