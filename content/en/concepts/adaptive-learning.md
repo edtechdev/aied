@@ -1,7 +1,7 @@
 ---
 title: Adaptive Learning
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-16T09:45:00-04:00"
+updated: "2026-10-26T06:20:00-04:00"
 type: concept
 pedagogy: [scaffolding]
 technology: [cognitive-diagnosis, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, personalized-learning, student-modeling]
@@ -75,6 +75,27 @@ Adaptive learning is frequently conflated with [[personalized-learning|personali
 - **Adapt the bottleneck attribute, not the weak average.** Transition modeling of knowledge states ranked analytical thinking as the hardest to acquire and the easiest to lose — lowest forward transition probability 0.31 and highest backward 0.22-0.23 — making re-practice of the flagged attribute a sharper adaptation target than overall mastery ([[bayesian-cognitive-diagnosis-personalized-learning-paths|Feng & Huang, 2026]]).
 - **Adaptation from process sequences, not aggregate scores.** [[adaptive-ai-scaffold-collaborative-problem-solving-2026|Wong, Bulathwela & Cukurova (2026)]] derived scaffold rules by mining the *order* of 65 students' dialogue turns in triads, moving adaptive learning from aggregated behavioral or performance measures toward individual process sequences; maximal scaffolding raised on-task behavior but also scripting, and the design is untested.
 
+## Common Misconceptions
+
+- **"Adaptive means personalized means individualized."** [[khalifeh-redefining-personalized-learning-ai-2026|Systematic reviews]] find these four terms used **inconsistently across the literature**, which means reported effect sizes depend heavily on how adaptation was operationalised rather than on adaptation itself. A meta-analysis pooling studies that used the words differently is pooling different treatments, and the average describes none of them.
+- **"Mastery reached in the system is mastery learned."** In a **6,000-student middle-school field experiment**, an AI-supported three-correct-in-a-row mastery rule raised **platform-defined attainment by roughly 28.7 percentage points without improving** a transfer measure. The rule optimized the platform's own criterion. This is the clearest available demonstration that a mastery signal is a model of learning, not learning.
+- **"Correctness-based adaptivity knows when to stop."** [[deceptive-overgeneralization-adaptive-learning-2026|An, McLaren, and Stamper (2026)]] found systems inferring mastery from correctness risk **terminating practice too early** — the system reads a correct run as understanding and withdraws the practice the learner still needed. Adaptivity that stops on success can subtract exactly the trials that produce retention.
+- **"The bottleneck is how good the adaptation is."** In a **two-year district RCT**, the binding constraint was **take-up**: collapsing enrollment to a single step raised first-session take-up from about **45% to 83%** on design changes alone, and intent-to-treat gains grew accordingly. The cleverest adaptation serves nobody who never reaches it.
+- **"Engagement persists once established."** A PRISMA-aligned review of **44 studies** found the engagement literature skewed toward behavioural engagement and thinnest on agentic engagement, and reports a **novelty effect** — engagement declining over time in longitudinal studies of ALEX and similar systems. Early engagement is not a stable property of the design.
+## What this means for practice
+
+**For instructors and designers**
+
+- Define mastery by what you need to be true, not by what the platform can see. The 28.7-point attainment gain with no transfer improvement is the failure mode to design against: if the criterion is three in a row, three in a row is what you will get.
+- Keep practice going past the correctness signal for anything you need retained. Use [[desirable-difficulties|spaced and interleaved]] review rather than trusting an adaptive system to decide when a learner is done.
+- Remove enrolment friction before tuning the algorithm. 45% → 83% take-up from collapsing a step outperformed most pedagogical improvements in this literature.
+- Plan for engagement decay. Longitudinal work documents decline; a design that depends on sustained voluntary use needs a reason to keep being used.
+- Check which construct a system claims to adapt on. Behavioural engagement is the most studied and the least informative about learning; agentic engagement is thinnest in the evidence base.
+
+**For developers**
+
+- Report the operational definition of "adaptive" alongside any effect size you cite, because the literature's definitions diverge and pooled numbers inherit that ambiguity.
+- Distinguish your mastery criterion from learning outcomes in your own validation. If your validation measure is the same signal that drives the adaptation, it is not independent evidence.
 ## Connected Concepts
 
 - [[online-teaching-and-learning]] — Online Teaching and Learning

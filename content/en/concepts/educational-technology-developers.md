@@ -2,7 +2,7 @@
 connected_resources: [playlab]
 title: "Educational Technology Developers"
 created: "2026-09-17T15:20:00-04:00"
-updated: "2026-10-16T06:45:00-04:00"
+updated: "2026-10-26T06:20:00-04:00"
 type: concept
 foundations: [educational-development, learning-design]
 technology: [learning-analytics, edtech-platform, open-source]
@@ -59,6 +59,25 @@ The role is also distinct from its neighbours. [[learning-design]] and [[curricu
 
 [[shen-sustainable-ai-knowledge-base-cs-education-2026]] supplies the inputs a procurement decision needs: a 12 GB VRAM hardware floor, an accuracy ceiling for a 7B-class model, per-query energy, and an ordering of choices — retrieval first (without it the model scored 52.3%, below a TF-IDF baseline), then fine-tuning, then quantization-aware compression; open licensing is the precondition for serving a corpus locally. [[reclaiming-epistemic-agency-co-agency-2026]] frames the same decision as governance: transparency requirements turn purchasing into epistemological governance, contestability and provenance become conditions, and districts with the least capacity face the highest bar. [[credential-cognitive-stewardship-ai-assessment]] adds that vendor governance appeared in only 29% of 30 audited policy packages, which specified what AI may do far more readily than what evidence of learning remained. [[genai-mindtool-generative-learning]] poses the design question — does the product encourage learning *with* the tool or offload cognitive work — and [[vocabulary-difficulty-prediction]] shows the trade in miniature: the top-scoring black-box model (r > 0.91) was less explainable than the interpretable one (r > 0.77).
 
+## Common Misconceptions
+
+- **"The meta-analyses support the product claim."** They do not, and the reason is specific rather than a matter of degree. An audit of **14 meta-analyses** claiming AI improves education found **none justified its claims** — all but two failed on methodology — and a **retracted meta-analysis was still cited as authoritative by 60% of sampled later papers**. The retraction propagated faster than the correction, which means the literature a roadmap is likely to cite contains claims the field has already withdrawn.
+- **"Adding citations and provenance makes a system more trustworthy."** In a [[agentic-ai|multi-agent]] debate setting, adding citations and authority signals to the AI's position **raised abandonment of a correct judgment from 15.0% to 31.8%**. Provenance was not neutral information: it made the wrong answer more persuasive. Credibility cues need to be evidence of correctness, not decoration around a claim.
+- **"Co-design with users validates the design."** Co-design answers a different question than efficacy does. When a tool is co-designed with students and **96% say they want it kept**, that is a finding about acceptability. Whether learning improved is a separate measurement, and the two can point in opposite directions without either being wrong.
+- **"Agents are the next capability tier."** The [[instructional-agents-multi-agent-course-gen|Instructional Agents]] ablation is the useful counterexample: the single-agent baseline scored **worst** and the Full Co-Pilot configuration **beat the Autonomous** one. More autonomy was not the better design; the co-pilot arrangement was. Architecture choices have to be evaluated rather than assumed to improve with capability.
+## What this means for practice
+
+**For developers and designers**
+
+- Ground a design claim in a study you have read, not an effect size you have quoted. With 14 audited meta-analyses failing on method and a withdrawn one still propagating, citation count is not a validity signal.
+- Test autonomy as a variable rather than shipping it as an upgrade. Run the ablation: single-agent, co-pilot, autonomous. The Instructional Agents result showed the co-pilot configuration winning, so the default should be the one that measured best, not the one that sounds most capable.
+- Separate acceptability from efficacy in your own evaluation plan. A high willingness-to-keep number is a real finding and it is not evidence of learning, and conflating them in a report is how a weak product looks strong.
+- Treat credibility cues as a manipulation with a measured effect. Adding citations moved abandonment of a correct answer from 15.0% to 31.8%, so surfacing provenance changes user judgement — design for that rather than assuming it informs.
+
+**For instructors evaluating a tool**
+
+- Ask how the tool was evaluated on the task you intend to use it for, and whether the evaluation was co-pilot or autonomous. The two are not interchangeable.
+- Ask when the evaluation happened. Capability claims tied to an unstated model version date quickly and describe a system you will not be running.
 ## Connected Concepts
 
 - [[edtech-platform]]

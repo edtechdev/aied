@@ -1,7 +1,7 @@
 ---
 title: Generative AI
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-16T08:47:09-04:00"
+updated: "2026-10-26T06:20:00-04:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 technology: [intelligent-tutoring, llm, prompt-engineering, rag]
@@ -65,6 +65,25 @@ Content generation likewise reaches beyond [[math-education|mathematics]] into c
 
 A 2026 interdisciplinary systematic review (Dabaghi, D'Urso & Sciarrone, PRISMA-guided, 2018–2024, n=72) finds that **generative AI is under-utilized in the dyslexia-support domain**. GAI research (all from 2024) clusters into intelligent [[conversational-ai|chatbots]], [[teacher-role|teacher training]] support, and exploratory studies, and is rapidly overtaking classical [[machine-learning|ML]] as the tool of choice — yet rigorous experimentation and real-world validation remain largely absent. The review's future-trends analysis points to GAI-powered personalized materials and real-time adaptive feedback, [[multimodal|multi-modal]] diagnostic models integrating eye-tracking, EEG, and behavioral [[learning-analytics|analytics]], NLP-driven [[intelligent-tutoring|intelligent tutoring systems]] and conversational agents, and educator-facing support tools. This illustrates both the promise of generative AI for content generation and interactive support in a specialized, high-need domain and the risk that its adoption outpaces the evidence base.
 
+## Common Misconceptions
+
+- **"A large effect size means the tool improves learning."** The field's largest estimate — a [[meta-analysis-systematic-review|meta-analysis]] of 69 studies reporting *g* = 0.7 for ChatGPT and similar tools — pools **immediate task success**, not retention, transfer or understanding. The same issue applies to the 53-study pooled estimate (*g* = 0.40 achievement, 0.72 higher-order thinking, 0.81 motivation, 0.76 writing): these are outcomes measured close to the intervention, on tasks resembling the intervention. An audit of 14 meta-analyses claiming AI improves education found **none justified its claims**. Treat any headline number as evidence about performance under conditions, and ask what was measured and when.
+- **"The newer model will fix it."** Model generation is not the binding constraint. ChatGPT-5 matched human faculty on objective pharmacy-exam items (CCC 0.935–1.000) but not on short-answer items (≈0) or essays (0.341–0.854), and **a structured rubric did not reliably close the gap**. Capability gains on closed tasks have not transferred proportionally to open-ended work, which is where most assessment actually lives.
+- **"Usage data shows it is working."** In the 394-study mapping, ChatGPT with an unspecified version appeared in 94 studies and the 3/3.5 family in 66 — so a large share of published capability claims describe **model generations since superseded**, and many studies do not report the version at all. Reported behaviour is tied to a specific model and a specific date, which makes undated claims about "generative AI" unfalsifiable rather than general.
+- **"It is safe because experts annotated the corpus."** A multi-expert annotated corpus of 4,815 student-AI messages found only about 0.68% of messages contained the harmful or off-task content the coding scheme was built to detect. That is a finding about the base rate, not about safety: rare events are rare, and a system's failure tails are exactly the cases a corpus of that size struggles to characterise.
+## What this means for practice
+
+**For instructors**
+
+- Design the assessment and the tool together. Where AI is strong on objective items and unreliable on essays, an assessment plan that weights essays has to carry explicit verification rather than a generated draft.
+- State the model and version in your own classroom evidence and in anything you report. Undated claims cannot be checked, and the version often explains the result more than the pedagogy does.
+- Treat the novelty horizon as real and short. Pooled effects are measured near the intervention; plan for the decline that longitudinal work documents rather than being surprised by it.
+
+**For developers**
+
+- Do not roadmap against pooled effect sizes. An audit of 14 meta-analyses found none justified its claims, so a product claim resting on a headline *g* is resting on methodology that does not survive inspection.
+- Instrument the base rate before optimising it. A 0.68% incidence rate means most quality work happens in the tail, and tail performance is what determines whether a deployment is acceptable.
+- Report version, date and task type with every benchmark number you publish, because a capability claim that omits them is not reproducible.
 ## Connected Concepts
 
 - [[llm]] — the model class underlying generative AI
