@@ -1,7 +1,7 @@
 ---
 title: English Education (EAP / EFL / ESL)
 created: "2026-08-21T12:30:00-04:00"
-updated: "2026-10-21T12:05:00-04:00"
+updated: "2026-10-26T08:45:00-04:00"
 type: concept
 foundations: [academic-integrity]
 technology: [generative-ai]
@@ -87,6 +87,12 @@ A Scopus-based synthesis of 54 EFL studies locates the field's most-reported [[l
 
 - **Weight technology toward production.** A meta-analysis of 33 TEFL studies found a small-to-moderate overall effect (g = 0.38, reduced to 0.28 by trim-and-fill) that rose with educational level and favored productive skills — speaking and writing — over receptive ones ([[liu-emerging-tech-tefl-review-2026|Liu, Hashim & Sulaiman (2026)]]).
 
+## Common Misconceptions
+
+- **"In EFL, AI mainly threatens cheating."** The field's own most-reported [[limitations-in-aied-research|limitation]] is **learner autonomy**, appearing as [[cognitive-offloading|overreliance]] in **27** of a **54-study** Scopus-based synthesis. The documented cost is dependence rather than dishonesty, which calls for a different intervention.
+- **"Language teachers adopt enthusiastically or not at all."** A [[li-language-educators-genai-review-2026|systematic review of 23 studies]] (Li et al.) finds **cautious, preparatory-first adoption** as the pattern. Teachers were wary in a considered way, not divided into enthusiasts and refusers.
+- **"The overall effect justifies the effort."** A meta-analysis of **33 TEFL studies** found a **small-to-moderate overall effect (g = 0.38, reduced to 0.28 by trim-and-fill)** that **rose with educational level**. The effect is modest after correction and concentrated at higher levels, so a claim for beginning learners is not supported by the pooled figure.
+- **"Any AI use is equally productive for language learning."** The same work argues for **weighting technology toward production** — writing and speaking rather than consumption. The modality determined the effect more than the presence of AI.
 ## Connected Concepts
 
 - [[language-learning]]

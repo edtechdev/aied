@@ -1,7 +1,7 @@
 ---
 title: Summative Assessment
 created: "2026-08-19T17:30:00-04:00"
-updated: "2026-10-22T09:11:45-04:00"
+updated: "2026-10-26T08:45:00-04:00"
 type: concept
 foundations: [academic-integrity]
 assessment: [assessment, authentic-assessment, summative-assessment, educational-measurement]
@@ -60,6 +60,11 @@ The knowledge base's assessment literature consistently emphasizes that [[assess
 - **AI can also generate exams:** AI-assisted exam and task generation is an emerging summative-design application that itself needs quality evaluation.
 - **Reconsider grading purpose, not just format.** [[mesny-innovative-assessment-grading-management-2026|Mesny, Roberge-Maltais & Galy (2026)]] critique traditional summative, norm-referenced grading for encouraging superficial, fragmented learning, giving students little control or transparency, harming intrinsic [[motivation]], fueling stress and [[well-being|anxiety]], and perpetuating inequities while largely assessing recall rather than real-world application. They position reassessment, [[mastery-learning|standards-based grading]], and ungrading as grading-focused innovations that can soften summative-heavy practice, while acknowledging these remain marginal in management education because of normative barriers — grading on a curve, external signaling (rankings, internships, accreditation), and students' instrumental mindset — and recommend incremental experimentation with institutional support.
 
+## Common Misconceptions
+
+- **"An LLM cannot grade to official standards."** Against **moderated official marks**, a multimodal LLM grading **10,364 handwritten** Physics Olympiad and university pages correlated strongly. Outcome agreement can survive imprecise item-level scoring — which means the useful question is where item-level precision is actually required.
+- **"AI grade inflation is speculation."** [[chirikov-ai-grade-inflation-2026|Chirikov's (2026)]] quasi-experiment on **500,000+ grades** makes the mechanism concrete: after ChatGPT's release, **courses with more AI-exposed tasks saw the share of higher grades rise**. The effect concentrated where tasks were exposed, which is the pattern a mechanism would predict.
+- **"Students who use AI cannot be distinguished from those who do not, so provenance is hopeless."** The finding that there was **no significant difference in source attribution** between AI-generated and licensing-exam items, with correct recognition of **68.6-77.5 percent** and an **18.2 percent** misattribution rate, is about recognition failing — not about provenance being unnecessary. If anything it raises the requirement for verified provenance.
 ## Connected Concepts
 
 - [[remote-proctoring]]

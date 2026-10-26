@@ -1,7 +1,7 @@
 ---
 title: Engineering Education
 created: "2026-08-17T10:45:00-04:00"
-updated: "2026-10-21T12:05:00-04:00"
+updated: "2026-10-26T08:45:00-04:00"
 type: concept
 foundations: [ai-literacy, educational-development]
 assessment: [assessment]
@@ -69,6 +69,11 @@ That gap is no longer empty in one area: a three-year biomedical engineering pro
 
 - **Teach AI use as a skill inside class time.** [[structured-ai-demonstrations-engineering-mechanics|Geng et al. (2026)]] ran nine instructor-led demonstrations, each 10–15 minutes at the end of a lecture and sequenced from tool literacy through strategic delegation to model evaluation — but students seeing no connection to assessment reported them redundant, so tie them to graded work.
 
+## Common Misconceptions
+
+- **"AI adoption among engineering students is a technology-acceptance problem."** [[socio-cognitive-genai-adoption-engineering-2026|Asag and Al Mamun]] integrate TAM with [[technology-acceptance-model|UTAUT]] to model Bangladeshi engineering students' adoption, **explaining 64% of** the variance — so a substantial share sits outside the acceptance constructs, in social and cognitive factors the model does not cover.
+- **"Students use AI for what it is best at."** [[ai-engineering-education-balancing-act|Kudina (2026)]] found **100 engineering students** most valued LLMs for **writing support**, not for engineering reasoning. Their metaphors for the tool exceeded what it delivered, and their actual use followed convenience rather than capability.
+- **"A richer tool stack improves design outcomes."** In a **27-student** architectural design studio, teams using a generative-AI plus [[virtual-and-augmented-reality|XR]] pipeline showed **depressed efficacy without an improved product**. Tool richness can cost confidence while leaving the artifact unchanged.
 ## Connected Concepts
 
 - [[problem-based-learning]]

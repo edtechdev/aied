@@ -1,7 +1,7 @@
 ---
 title: Educational NLP
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-10-23T08:05:20-04:00"
+updated: "2026-10-26T08:45:00-04:00"
 type: concept
 confidence: medium
 technology: [educational-nlp, intelligent-tutoring, student-modeling, knowledge-tracing, adaptive-learning]
@@ -54,6 +54,11 @@ Embeddings can also organize student text by surface form rather than by the con
 
 Model compression belongs to the same toolkit: a two-stage pipeline distills a fitted black-box estimator and its post-hoc interpretation into a small open-weight model, so a 2B-parameter "mentee" returns both an estimate and a natural-language explanation offline on a commodity laptop ([[distilling-self-explaining-lm-learning-analytics-2026]]).
 
+## Common Misconceptions
+
+- **"Semantic similarity can screen curriculum alignment."** Screening **3,837 dental objective-abstract pairs**, embedding retrieval plus a natural language inference check **judged 22.9% of items** as aligned — semantic similarity is a **weak signal** for alignment. A fluent topical match and a genuine learning-objective match are different relations.
+- **"Utterance-level classification is the natural unit."** **Whole-lesson modelling beats utterance-level classification**: scoring entire transcripts rather than isolated utterances **lifted reasoning-chain detection by 14.2 percentage points**. Context across the lesson carries information that any single turn destroys.
+- **"Scaling NLP on evaluation comments produces impact."** A PRISMA-ScR scoping review and evidence map of **421 studies** (2015-2026) applying NLP to open-ended student evaluation of teaching found scaling **without reaching use**. Volume of method output is not adoption, and the gap is the deployment step rather than the modelling.
 ## Connected Concepts
 
 - [[intelligent-tutoring]]

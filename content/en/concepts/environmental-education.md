@@ -1,7 +1,7 @@
 ---
 title: "Environmental Education"
 created: "2026-09-20T12:40:00-04:00"
-updated: "2026-10-21T21:15:00-04:00"
+updated: "2026-10-26T08:45:00-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [inquiry-based-learning, situated-learning, critical-pedagogy]
@@ -71,6 +71,11 @@ The [[meta-analysis-systematic-review|scoping review]] organizing this literatur
 4. **Prefer lighter deployment where pedagogy allows.** Grounding a model in a licensed local corpus and quantizing with fine-tuning gave usable accuracy at a fraction of the energy — reuse that pattern before scaling cloud inference.
 5. **Build teacher capability through material development, not awareness campaigns,** and fill the [[global-south|Global South]] gap rather than importing evidence from North American and European contexts.
 
+## Common Misconceptions
+
+- **"AI in environmental education mainly supplies information."** The measured gains are in **decision-making**: students working with an AI partner inside a structured [[inquiry-based-learning|inquiry]] task outperformed inquiry-only peers (**d = 0.69**) and traditional instruction (**d = 1.88**) on a decision-making measure, with gains **concentrated on the weakest steps**. The effect is in reasoning quality, at the points where students were weakest.
+- **"Inquiry alone is the active ingredient."** AI-assisted inquiry **improved climate decision-making over inquiry alone**, so the AI contribution was additional to the pedagogical structure rather than interchangeable with it.
+- **"Large effects from small samples are still large effects."** AI-assisted [[learning-design|instructional design]] under Sustainable Development Pedagogy **improved pre-service teachers' lesson plans with a d = 2.80 from 28** participants — the reviewers' own word is *implausibly large*, and an effect that size from that sample should be treated as a signal rather than an estimate.
 ## Connected Concepts
 
 - [[sustainability]]

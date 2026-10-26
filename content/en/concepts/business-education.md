@@ -1,7 +1,7 @@
 ---
 title: Business Education
 created: "2026-08-20T09:05:00-04:00"
-updated: "2026-10-16T08:47:09-04:00"
+updated: "2026-10-26T08:45:00-04:00"
 type: concept
 foundations: [ai-education, curriculum-design]
 technology: [generative-ai]
@@ -58,6 +58,11 @@ Business is one of the fields where generative AI adoption is fastest, so busine
 - **Address the persistent gaps.** [[espino-ai-business-education-review-2026|A decade of research]] flags gaps in curriculum coherence, educator readiness, and assessment validity — prioritize these in program design.
 - **Prepare students for an AI-integrated workplace.** Emphasize AI literacy, ethical use, and domain application (finance, marketing, management, economics) as core competencies, not electives.
 
+## Common Misconceptions
+
+- **"Students want AI because they want shortcuts."** A student-informed framework found students **highly engaged and aware they need GenAI skills for careers**, while also wanting **to use AI without unintentionally committing academic misconduct**. The demand is for competence with clear boundaries, not for permission to avoid work.
+- **"Adding AI modules to a business curriculum captures the benefit."** Research on constructive alignment found that whether **benefits or risks dominated was shaped by the degree of curriculum integration** — the operative distinction is **integrate, don't append**. A bolted-on module leaves the assessment design unchanged.
+- **"Tool sophistication beats conventional e-learning."** A **130-student** perception study found **both chatbot and agent support rated above traditional e-learning** on enhancement, personalisation and decision-making. Worth noting what this measures: student *perception* against a conventional baseline, not learning against it.
 ## Connected Concepts
 
 - [[ai-education]]

@@ -1,7 +1,7 @@
 ---
 title: Cognitive Psychology
 created: "2026-08-27T10:52:12-04:00"
-updated: "2026-10-16T20:19:49-04:00"
+updated: "2026-10-26T08:45:00-04:00"
 type: concept
 pedagogy: [cognitive-psychology, learning-theories, metacognition]
 technology: [generative-ai, intelligent-tutoring, knowledge-tracing]
@@ -65,6 +65,11 @@ Mayer's Cognitive Theory of Multimedia Learning (CTML) applies the same working-
 3. **Respect working-memory limits.** Apply Cognitive Load Theory to AI UX: reduce extraneous load (friction, overloaded interfaces) while preserving germane processing ([[desirable-difficulties|productive struggle]], retrieval practice) rather than minimizing all cognitive demand.
 4. **Calibrate metacognition.** Because [[metacognition]] governs when learners choose to offload, teaching calibration (knowing what one can actually do unaided) is a cognitivist answer to over-reliance (see [[cognitive-offloading]]).
 
+## Common Misconceptions
+
+- **"Mental representations are unobservable, so cognitive claims about learning are assumptions."** Reconstructing images from learners' **EEG** during science videos found **representation fidelity tracked test performance** (regression coefficient **0.8481, R² = 0.79**). The cognitivist premise of internal representation is measurable, and the measurement predicted the outcome.
+- **"A high R² means the representation explains the learning."** R² = 0.79 is a strong association between fidelity and performance on the same material. It does not establish that raising fidelity raises performance, which is the intervention claim.
+- **"Knowledge components are a convenient modelling fiction."** Decomposability is what makes [[knowledge-tracing]] and [[cognitive-diagnosis]] possible, and the methods work to the degree that the assumption holds. Treating it as a fiction discards the reason the methods produce usable estimates — while treating it as fact overstates what a fitted model tells you about a mind.
 ## Connected Concepts
 
 - [[behaviorism]]

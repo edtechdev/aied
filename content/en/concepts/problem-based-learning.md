@@ -1,7 +1,7 @@
 ---
 title: Problem-Based Learning
 created: "2026-08-20T06:55:00-04:00"
-updated: "2026-10-25T05:04:43-04:00"
+updated: "2026-10-26T08:45:00-04:00"
 type: concept
 foundations: [critical-thinking]
 pedagogy: [active-learning, collaborative-learning, scaffolding]
@@ -60,6 +60,11 @@ Because PBL foregrounds process, collaboration, and demonstrated understanding o
 
 [[productive-failure|Productive failure (PF)]] shares PBL's [[constructivist]] core — [[learners]] engage problems before instruction — but differs in structure: PF deliberately withholds instruction and scaffolds until *after* learners struggle to generate solutions, whereas PBL embeds facilitation throughout. The AI-era PF literature directly informs how AI should behave inside problem-based settings: [[kim-ai-productive-failure-adult-2026|Kim et al. (2026)]] show AI should preserve [[desirable-difficulties|productive struggle]] with non-directive support across PF phases; [[puech-pedagogical-steering-llm-productive-failure-2025|Puech et al. (2025)]] demonstrate [[llm]] [[intelligent-tutoring|tutors]] can be steered to withhold answers and elicit multiple solution attempts; and [[rhaimi-productivemath-2025|ProductiveMath]] uses AI to help design high-quality PF/PBL-style problems. The design question — when AI should give a problem, a hint, or an answer — is shared across both [[pedagogy|pedagogies]].
 
+## Common Misconceptions
+
+- **"PBL outcomes should be pooled with project-based learning outcomes."** The three-level meta-analysis keeps **product and solution performance in a separate model** precisely because it measures **human-AI collaboration** rather than the learner's own reasoning. Merging them would attribute a jointly-produced artifact to the student.
+- **"Collaborative gains are a side effect of using AI."** A study found higher perceived collaborative problem solving (**M = 3.62 vs. 3.05, d = 0.88**) and shared problem solving (**3.40, d = 1.02**), with **the largest interaction effects on shared knowledge building and social regulation** — the collaborative process dimensions design predicts. The mechanism is the structured collaboration, not the tool.
+- **"PBL with AI mainly saves facilitator time."** The measurable gains sit in process quality on dimensions that only exist when the group structure is designed for them. A PBL implementation that adds AI without structuring shared knowledge building should not expect the same effect.
 ## Connected Concepts
 
 - [[project-based-learning]]

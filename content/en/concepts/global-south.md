@@ -1,7 +1,7 @@
 ---
 title: Global South
 created: "2026-08-18T14:55:00-04:00"
-updated: "2026-10-25T05:04:43-04:00"
+updated: "2026-10-26T08:45:00-04:00"
 type: concept
 foundations: [ai-literacy]
 technology: [generative-ai]
@@ -52,6 +52,11 @@ The scaling record is part of that picture, and it is sobering. Programs that wo
 
 [[ngambi-ai-learning-ecosystems-domino-framework-2026|Ng'ambi and van der Merwe (2026)]] argue from a South African Grade 9 classroom that restriction-first institutional policy forecloses the conditions under which AI might extend rather than substitute for teachers under pedagogical scarcity, and that interaction data learners generate is held under foreign governance regimes.
 
+## Common Misconceptions
+
+- **"Low-resource contexts lack an AI ethics framework and need one imported."** In-service secondary STEAM teachers in a low-resource context **reason about AI ethics through professional identity, classroom realities and cultural norms rather than formal principles**. The reasoning exists and is situated; a universal principle list transfers poorly onto it.
+- **"Governance type predicts AI integration in universities."** A comparative content analysis of **45 Nigerian universities** (federal, state and private) found AI integration predicted by **institution age and geographic location — not governance type**. The assumption that public and private institutions diverge is contradicted.
+- **"The digital divide is the main barrier."** A [[qualitative-research|qualitative]] case study of **21 visually impaired undergraduates across three Palestinian universities** found GenAI bridges **digital, geographic and socioeconomic** barriers simultaneously. The barriers are layered, and treating access as the single obstacle leaves the others untouched.
 ## Connected Concepts
 
 - [[differential-effects-across-learner-groups]]
