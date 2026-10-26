@@ -1,7 +1,7 @@
 ---
 title: Desirable Difficulties
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-09-30T16:25:27-04:00"
+updated: "2026-10-25T20:20:00-04:00"
 type: concept
 foundations: [cognitive-offloading]
 pedagogy: [cognitive-psychology, desirable-difficulties, learning-theories, metacognition, scaffolding, self-regulated-learning]
@@ -76,6 +76,16 @@ The central tension for AI-supported learning is that [[generative-ai|generative
 4. **Match friction to learner readiness.** Desirable difficulties benefit learners who can engage in effortful processing; over-challenge without support risks frustration. [[scaffolding]] must keep learners in the productive-struggle zone, not past it.
 
 TutorMoments operationalizes desirable-difficulty principles as evaluation criteria: [[zhang-tutormoments-2026|Zhang et al. (2026)]] test whether AI tutors preserve productive struggle by scaffolding for access (when needed) and pushing for rigor (when ready), and find that LM tutors default to over-scaffolding — removing the effortful processing that desirable difficulties require.
+
+## Common Misconceptions
+
+**"Ease and fluency during study indicate that learning is happening."** They often indicate the reverse. Fluency is a cue that correlates weakly or negatively with durable retention, and the AI-era version has a direct delayed test: [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025|Barcaui's (2025)]] randomized trial found that **120 undergraduates** who studied AI/ML topics with unrestricted ChatGPT scored worse on delayed retention — with the impairment **largest on technical topics (d = 0.92)**, the material where AI offered the most assistance. The condition that felt most helpful produced the largest deficit.
+
+**"Struggle is therefore good and discomfort should be preserved."** Not all friction is desirable. The construct is specific: difficulties are desirable when they require retrieval, spacing, interleaving or generation, and undesirable when they are incidental confusion, poor interface, or an absent prerequisite. Preserving confusion that teaches nothing is as much an error as removing the effort that teaches.
+
+**"Cognitive friction and productive struggle are the same idea."** They come from different literature and make different predictions. Productive struggle concerns effortful sense-making that builds understanding; cognitive friction concerns the mismatch between what a task demands and what the learner's current resources support. Treating them as synonyms loses the diagnostic question — is this learner struggling in a way that builds, or blocked in a way that only costs?
+
+**"If removing struggle raises immediate performance, the intervention worked."** This is the trade-off the whole page is about: performance measured in the presence of the support is systematically inflated relative to later unassisted performance. Any evaluation of an AI that reduces effort must measure at delay and without the tool, or it will report the removal of practice as the production of learning.
 
 ## Connected Concepts
 

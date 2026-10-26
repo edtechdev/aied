@@ -1,7 +1,7 @@
 ---
 title: "Nursing Education"
 created: "2026-09-17T14:04:21-04:00"
-updated: "2026-09-28T21:37:06-04:00"
+updated: "2026-10-25T19:50:00-04:00"
 type: concept
 foundations: [learner-identity]
 pedagogy: [professional-training, self-efficacy]
@@ -46,6 +46,33 @@ The field also refines three adjacent concepts. From [[simulation]] it inherits 
 - **The evidence is inverted.** The same review's gap map finds no randomized or quasi-experimental study of professional identity or [[career-development-and-readiness|career development]], only three of relational and ethical competency, and no follow-up beyond 12 months — while controlled evidence clusters in cognitive and technical outcomes.
 - **Surveillance is documented as perception, not as improved conduct.** [[harerimana-remote-proctoring-nursing-scoping-2026|Harerimana et al. (2026)]] mapped [[remote-proctoring]] in nursing assessment across six studies (1,567 students) and found deterrence reported almost universally by proctored students (98–100% agreement in one graduate program), while the single comparative performance study found an in-person proctored cohort scoring significantly higher on a readiness exam than a remotely proctored one. Anxiety ran both ways — some students calmer at home and relieved of travel, others unable to concentrate while watched and fearful of [[legal-issues-and-risks|wrongful accusation]] — and four of the six studies reported connectivity failure, one load shedding, making [[equity-in-ai-education|equitable]] access the operative constraint rather than exam security. The authors' position is that remote proctoring should be one instrument among several, governed by data-protection standards and paired with integrity-by-design and [[authentic-assessment|authentic assessment]] rather than treated as the default safeguard.
 - **Boundary conditions.** The strands converge on the same restraint. AI is best evidenced for structured, repeatable objectives — foundational communication, history-taking, health education, knowledge acquisition — and least evidenced for complex psychomotor skill, emotionally loaded interaction, and long-term professional formation. Acceptance is consistently moderate to high, but acceptance of AI *feedback* is conditioned by trust: learners prefer human sources perceived as benevolent over AI perceived as merely competent. The reviews are also geographically narrow, dominated by uncontrolled designs and [[self-report-measures|self-report]], and — in the simulation review — show a near-uniform positive pattern that raises publication-bias concerns.
+
+## Common Misconceptions
+
+**"AI-supported simulation improves nursing competence across the board."** The benefit stops at a documented boundary. AI-supported simulation reliably improves knowledge and [[self-efficacy]] but shows **inconsistent, sometimes negative effects on complex psychomotor skill** — and psychomotor competence is not a peripheral outcome in a profession defined by it. A programme adopting simulation on the strength of knowledge gains has evidence for a different endpoint than the one licensure tests.
+
+**"The workforce anxiety around AI in nursing is really a skills gap, so AI literacy training is the remedy."** The anxiety is about employment, not about competence. A survey of **821 health-sciences students** found a moderate positive correlation between [[anxiety-and-stress|AI anxiety]] and job-search anxiety (**r = 0.233, p < 0.001**), with AI anxiety a significant predictor after controls. Teaching literacy addresses the fear of not being able to use a tool; it does not address the fear of not having a job — and the literature's professional-identity framing, who becomes a nurse rather than what a trainee can do, is where that question belongs.
+
+**"Learners want AI agents as collaborators."** They want them as tools. Of **165 learners (158 completing)**, the agent was rated most useful *as a tool* (**M = 3.49**), then for feedback helpfulness (**M = 3.21**), and least *as part of the team* (**M = 2.88**), with all pairwise differences significant (**F(2, 156) = 26.01, p < .001**). Design that positions an agent as a team member is running against learner preference, not ahead of it.
+
+**"Any simulation study generalises to clinical practice."** The evidence base reviewed here — **19 studies, N = 1,253, mostly prelicensure students** — is largely classroom and laboratory based, and the translation from simulated competence to supervised practice is exactly the step an AI-assisted simulation does not by itself rehearse.
+
+## Implications for Practice
+
+**For instructors**
+
+- Do not adopt AI simulation to develop complex psychomotor skill on the strength of knowledge and self-efficacy gains. Keep deliberate supervised practice for the psychomotor endpoints and use AI where its evidence is strongest.
+- Address employment anxiety directly rather than routing it through AI literacy modules; the correlation with job-search anxiety says the concern is about the profession's future, not the learner's tool fluency.
+- Position agents as tools and feedback sources, which matches both learner preference and the design that produced the stronger ratings.
+
+**For developers**
+
+- Report psychomotor and knowledge outcomes separately, since they diverge in this literature.
+- Design for the tool and feedback roles first; agent-as-team-member framing is not what learners asked for.
+
+**For researchers**
+
+- Report prelicensure and practising-nurse samples separately, and study the transition to supervised practice if the competence claim is to mean anything clinically.
 
 ## Connected Concepts
 

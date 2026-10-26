@@ -1,7 +1,7 @@
 ---
 title: Learning Theories
 created: "2026-08-16T03:36:31-04:00"
-updated: "2026-09-30T09:59:35-04:00"
+updated: "2026-10-25T20:20:00-04:00"
 type: concept
 foundations: [learning-design]
 pedagogy: [behaviorism, learning-theories, metacognition, self-regulated-learning]
@@ -76,6 +76,16 @@ Learning theories also appear as content in [[ai-literacy|AI literacy]] curricul
 Alongside the classical families, the knowledge base documents theories written specifically for learning with AI systems, and these carry the design implications that the older theories leave open. [[yan-agentivism-learning-theory-ai-2026|Agentivism (Yan and Gašević 2026)]] is a mid-range example: it defines learning as durable growth in human capability rather than successful task completion, names four mechanisms (delegated agency, epistemic monitoring and verification, reconstructive internalization, and transfer under reduced support), and states six testable propositions, among them that AI support preserving learner responsibility for problem framing, criteria setting and justification produces stronger learning than support that delivers answers.
 
 [[elsayed-pedagogical-symbiosis-posthuman-learner|Elsayed (2026)]]'s **Pedagogical Symbiosis** makes a stronger ontological claim: the learner is a *Post-Human* entity whose cognition is hybrid rather than tool-assisted, organized by four principles: cognitive offloading and augmentation, epistemic co-construction, metacognitive symbiosis, and dynamic identity formation; operationalized as a Symbiotic Portfolio rubric and a "Cognitive Choreographer" teacher role; it is explicitly untested.
+
+## Common Misconceptions
+
+**"One of the learning theories is the correct one, so theory choice is a matter of taste."** The theories make different claims about what counts as evidence, so the same data can support opposite conclusions. The clearest instance: inflated homework scores read as **learning under behaviourism** and as **a failure to build durable understanding under constructivism**. Theory choice therefore determines whether an intervention succeeded, which makes it a measurement decision rather than a stylistic preference.
+
+**"A tool that supports deep learning will look like deep learning under any framework."** It will look like success under one and failure under another, as above. That is why the field's outcome measures need to be justified against a stated theory rather than borrowed as if neutral.
+
+**"More theories mean a better-understood field."** Accumulation without adjudication is the opposite of progress. Theories proposed for the AI era multiply faster than they are tested, and the sign of maturity is competing predictions being resolved — which requires designs that can distinguish them, not catalogues that accommodate them.
+
+**"Education about AI is the same as AI in education, theoretically speaking."** They draw on different strands: one asks how learners come to understand AI as a subject, the other how AI changes how learning happens. Conflating them produces literature reviews that mix two distinct evidence bases and report a coherent picture of neither.
 
 ## Connected Concepts
 

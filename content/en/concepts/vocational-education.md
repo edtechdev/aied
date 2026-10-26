@@ -1,7 +1,7 @@
 ---
 title: "Vocational Education and Training"
 created: "2026-09-17T14:04:23-04:00"
-updated: "2026-09-28T21:37:06-04:00"
+updated: "2026-10-25T19:50:00-04:00"
 type: concept
 technology: [human-in-the-loop-ai, intelligent-tutoring, simulation]
 assessment: [authentic-assessment]
@@ -46,6 +46,33 @@ What is distinctive about AI in VET is a gap between what the sector says it wan
 - **AI-assisted learning carries a psychological cost when it replaces effort.** [[ai-autonomous-learning-accomplishment-2026]] surveyed 1,264 vocational college students in China using structural equation modeling and found AI-assisted autonomous learning negatively associated with hardiness (commitment, control, challenge) and positively associated with reduced academic accomplishment, a burnout dimension of negative self-evaluation. Hardiness partially mediated the relationship. The design is cross-sectional, self-report and single-institution, so causality is not established, but the framing matters for VET: where confidence is built through repeated practice, AI as a substitute may reduce both the disposition to persist and the felt experience of mastery.
 
 - **Accelerating curriculum production without surrendering verification.** [[crewscaler-ai-upskilling-framework]] applies AI across all five stages of professional upskilling — knowledge acquisition, content development, review and verification, [[intelligent-tutoring|tutor coaching]] and assessment development — while keeping blueprint design, subject-matter review and misconception authoring with humans. Its external validation includes NASBA CPE accreditation, three of three learners passing an NVIDIA certification exam using only the framework's knowledge base, and a 530-question bank tagged to a 53-skill blueprint. It belongs here because it treats verification as a first-class stage: [[hallucination-risk|hallucination]] detection is largely absent from education pipelines, and the paper reports default LLM tutoring reaching only 52–70% correct pedagogical actions.
+
+## Common Misconceptions
+
+**"The AI-in-VET evidence base tells us about vocational education."** It tells us about classroom proxies for it, which is a serious gap rather than a detail: **no study in the AI-in-VET evidence base is set in a workplace**, yet VET is *defined* by work-based learning. A finding about an AI tool in a simulated trade task has not yet encountered the conditions that make the sector distinctive — real clients, real safety consequences, real variation in workplace equipment.
+
+**"A significant effect on design or creative ability transfers to occupational competence."** The strongest quantitative result here comes from a **12-week two-group quasi-experiment with 63 valid responses (31 vs 32)**, where the immersive-agent condition scored higher on design ability (η²p = .138) and creative ability (η²p = .111) under ANCOVA, with cognitive engagement d = 0.90. Thirty-one students per arm in a classroom task is evidence about that task, and occupational competence is not one of the measured outcomes.
+
+**"Learners will over-rely on AI in practical training."** The pilot evidence points the other way. Exploratory pilots (**N = 30**, Italy and China, **20 bounded sessions**) found participants treating the system as a bounded support tool, with **no reported expectation of substitution or dependency**. That is exploratory and small, and it does suggest that vocational learners' framing of a tool as equipment rather than as an authority is a resource worth designing around.
+
+**"Learner approval of a simulated task means it assessed the right thing."** Of **33 surveyed learners, 21 (64%)** agreed the voice task was realistic and the same proportion said it gave a clear way to communicate what they knew — and none disagreed that speaking in real time suited this [[authentic-assessment|authentic assessment]]. Realism and communication clarity are worth knowing and are not validity: a task can feel authentic and still fail to sample the occupational performance it stands in for.
+
+## Implications for Practice
+
+**For instructors**
+
+- Treat workplace-based studies as the missing evidence and design your pilots to include them; classroom gains are necessary and not sufficient for a trade qualification.
+- Frame AI tools as bounded equipment rather than as an authority. The pilot evidence suggests learners already approach them this way, and that framing is worth making explicit.
+- Keep authenticity checks separate from validity checks: ask what occupational performance the task samples, not only whether students found it realistic.
+
+**For developers**
+
+- Build for bounded, task-scoped assistance with a clear end, which matches how vocational learners actually used the systems in these pilots.
+- Design against workplace variation — equipment, safety rules, client interaction — rather than against a lab configuration, since that is where deployment will happen.
+
+**For researchers**
+
+- Field at least some studies in workplaces. A sector defined by work-based learning whose evidence base contains no workplace studies has not yet tested its central claim.
 
 ## Connected Concepts
 

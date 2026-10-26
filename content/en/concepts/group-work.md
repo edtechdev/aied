@@ -1,7 +1,7 @@
 ---
 title: Group Work
 created: "2026-09-10T05:34:38-04:00"
-updated: "2026-09-30T16:25:27-04:00"
+updated: "2026-10-25T20:20:00-04:00"
 type: concept
 foundations: [academic-integrity, agency]
 pedagogy: [collaborative-learning]
@@ -93,6 +93,16 @@ A second line of research treats AI as a participant rather than a tool, and its
 - **Prefer an argumentative partner over an answer-giver.** Structure AI to surface disagreement rather than smooth it over, so group work preserves the cognitive conflict that builds understanding.
 - **Accommodate [[neurodiversity|neurodivergent]] learners.** Structured assignments, small consistent teams, and explicit role definitions are requirements AI collaboration tools must support.
 - **Read restraint carefully.** Students who avoid AI in groups may be exercising normative self-regulation — or guarding against risk and unfamiliarity. The two call for different [[teacher-role|instructor]] responses.
+
+## Common Misconceptions
+
+**"AI is a neutral addition to a group's workflow."** It restructures where the group's interaction goes. In the study cited here, the group dynamic shifted interaction away from humans — **79.7% of questions were directed at agents (*p* = .017)** — while participants reported a breadth–depth trade-off in a turn-stacking format where each speaker took the floor. A team that routes nearly four in five of its questions to a machine is no longer rehearsing the peer questioning that group work exists to develop.
+
+**"Polished group output is evidence of good collaboration."** Polished output is the epistemic risk, not the reassurance. A group can produce an excellent artefact while the regulation of the work — who decided what, how disagreement was resolved, whose reasoning was tested — happened inside the model's response and left no trace in the deliverable.
+
+**"AI helps most when it coordinates the group."** Coordination support and epistemic support pull in opposite directions. Reducing the coordination cost of collaborating can lower the pressure on the group to negotiate meaning, which is the process being assessed. The efficiency–regulation trade-off is the core design tension, not an implementation detail.
+
+**"Group work is difficult because of the people."** Some of it is task design, which is why AI changes the difficulty profile rather than simply easing it: a tool that answers questions fast changes what the group spends its time on, and whether that is an improvement depends on which skills the task was built to develop.
 
 ## Connected Concepts
 

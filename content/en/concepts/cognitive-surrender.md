@@ -1,7 +1,7 @@
 ---
 title: Cognitive Surrender
 created: "2026-09-20T15:37:15-04:00"
-updated: "2026-09-30T07:29:37-04:00"
+updated: "2026-10-25T20:20:00-04:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [metacognition, self-regulated-learning]
@@ -88,6 +88,16 @@ Does surrender habituate, or does it decay with disuse? [[cognitive-washout-ai-s
 ## Limitations
 
 The evidence for surrender as a named construct rests heavily on one program of laboratory work: three preregistered experiments on an adapted Cognitive Reflection Test with convenience samples, which establishes the mechanism and the dispositional moderators but does not [[transfer-of-learning|transfer]] to high-stakes professional judgment. The design also captures single exposures, so nothing in it shows whether surrender habituates or compounds. The field evidence is observational: the ALEKS panel shows faster completion with worse proctored retention, but a causal attribution to surrender rather than to study-strategy change requires assumptions the design cannot test. Definitions are still unstable across the literature — offloading, over-reliance, dependence, attachment and problematic use are routinely conflated, and [[yan-conversational-ai-engagement-dependence-synthesis-2026|at least one synthesis]] argues that frequent delegation should not be labeled dependence without impaired control or harm. Finally, [[self-report-measures|self-reports]] of trust, need for cognition and checking behavior carry the usual limits, and much of the classroom evidence concerns [[higher-ed|higher education]] and [[k-12|secondary]] rather than early schooling.
+
+## Common Misconceptions
+
+**"Offloading, over-reliance and surrender are three words for the same problem."** They name three different failures with different remedies. Offloading is delegating cognitive work; over-reliance is depending on the system more than its reliability warrants; **surrender** is adopting the system's answer without forming one of your own. Surrender is the most severe because there is no independent judgement left to correct, and it is the one that transfers worst — you cannot teach someone to check an answer they never had.
+
+**"People will not trust an AI they cannot verify, so surrender is bounded."** The experimental signature shows the opposite mechanism operating. Three preregistered experiments adapted the Cognitive Reflection Test and randomized *AI accuracy* using hidden seed prompts so participants could not tell a good assistant from a bad one — and participants **chose to consult on a majority of trials (>50%)** and then adopted. The opacity that should have produced caution produced consultation, and consultation preceded surrender.
+
+**"The fix is better AI, since surrender follows from errors."** Surrender follows from the *structure* of the interaction: a system that produces a plausible answer first removes the occasion for the learner to generate one. Improving accuracy reduces the harm from wrong answers and does nothing about the abandonment of forming a judgement, which is the harm that persists after the tool is gone.
+
+**"Teaching critical evaluation is sufficient."** It is necessary and it arrives too late. Once a plausible answer is on screen, evaluation becomes confirmation — which is why the design literature here puts the student's attempt before the system's output rather than auditing it afterwards.
 
 ## Connected Concepts
 
