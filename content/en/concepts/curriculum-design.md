@@ -1,7 +1,7 @@
 ---
 title: Curriculum Design
 created: "2026-06-02T10:44:35-04:00"
-updated: "2026-10-21T13:42:59-04:00"
+updated: "2026-10-26T10:25:00-04:00"
 type: concept
 connected_faqs: [incorporating-ai-literacy]
 foundations: [ai-literacy, curriculum-design, learning-design, teacher-role]
@@ -88,6 +88,11 @@ Structure, not prompt phrasing, is what makes AI drafting reliable in production
 
 Curriculum design connects directly to [[learning-design]] — curriculum defines what, instruction defines how. It connects to [[ai-literacy]] because embedding AI competencies is a primary curriculum challenge, to [[teacher-role]] and [[educational-development]] because curriculum change requires educator preparation, and to [[scaffolding]] because well-designed curricula scaffold skill development across courses and years. The [[higher-ed]] and [[k-12]] connections reflect curriculum design's relevance across educational levels.
 
+## Common Misconceptions
+
+- **"An LLM can map a curriculum once validated at high reliability."** GPT-o3-mini distributed **100% across seven enterprise skills for each of 48 assessments**, reaching **Krippendorff's alpha of 0.81** against expert weights — and **agreement** broke down on particular skills. High overall reliability with uneven agreement is the pattern to check before trusting the mapping.
+- **"Embedding AI literacy means adding a course."** LearnAI shows the embedded form: a **wide-exposure layer of short presentations inside 18 existing courses across five disciplines (293 students)**. The exposure was distributed across the curriculum rather than gathered into a unit.
+- **"Students arrive already able to evaluate media critically."** Only **13.8% of surveyed education and journalism students** said their coursework addressed critical media analysis, against **97.8% who rated it important**. The gap between valuing a skill and being taught it is the curricular opening.
 ## Connected Concepts
 - [[pedagogical-partnerships]] — Pedagogical Partnerships
 - [[business-education]]

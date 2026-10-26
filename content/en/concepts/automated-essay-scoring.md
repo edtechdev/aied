@@ -1,7 +1,7 @@
 ---
 title: Automated Essay Scoring
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-25T05:05:44-04:00"
+updated: "2026-10-26T10:25:00-04:00"
 type: concept
 foundations: [ai-literacy]
 technology: [generative-ai, llm, prompt-engineering]
@@ -69,6 +69,11 @@ AES sits at the intersection of [[automated-assessment]], [[writing-education]],
 
 Open systems are part of this picture too: AiAWE scores argumentative essays with a LoRA-adapted Gemma-3-27B-it, reaching QWK 0.828 and agreement within ±0.5 of the human score on 90.56% of 360 evaluation essays — and reports that model scale did not reliably predict downstream performance under LoRA adaptation ([[aiawe-automated-writing-evaluation]]).
 
+## Common Misconceptions
+
+- **"Automated scoring results reflect student writing."** The ordinal signal can be **manufactured rather than observed** — synthetic level-1 essays built by template generation, degradation to **20-40% of original length** and keyword removal. A system validated on constructed extremes may never have been tested on the distribution it will meet.
+- **"Aggregate accuracy is the metric to report."** **A skewed rubric distribution can make aggregate scoring metrics mislead**: automated evaluation of a rubric dimension is often a classification task with a lopsided label distribution, where high accuracy and useful discrimination separate.
+- **"Field deployments have not been evaluated."** Field evidence exists from a real high-stakes deployment (**Uruguay's Acredita EB, 2024**), which is the strongest form of evidence in this literature and the one most studies of scoring accuracy never supply.
 ## Connected Concepts
 
 - [[bias-mitigation]]

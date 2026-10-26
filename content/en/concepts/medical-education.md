@@ -1,7 +1,7 @@
 ---
 title: Medical and Health Professions Education
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-10-22T10:05:00-04:00"
+updated: "2026-10-26T10:25:00-04:00"
 type: concept
 foundations: [teacher-role]
 technology: [adaptive-learning, simulation]
@@ -69,6 +69,11 @@ HPE is a high-stakes, competency-based domain where AI's benefits (scalable prac
 - **Balance high-stakes benefits against over-reliance.** HPE is competency-based and high-stakes; guard against AI substituting for hands-on clinical skill and judgment, and apply [[feedback]], [[assessment]], and [[ethics]] considerations with particular care.
 - **Adapt gamified and interdisciplinary AI thoughtfully.** [[medgame-llm-medical-education-gamification|Gamified LLM learning]] and [[alrazeeni-transforming-nursing-education-ai-2026|nursing-education transformation]] show promise but need evaluation for safety and skill outcomes; for nursing specifically, that safety-and-skill evidence — including the RCT in which AI-assisted simulation underperformed standardized patients — is gathered on [[nursing-education]].
 
+## Common Misconceptions
+
+- **"Simulation benefits are established in medical education, so AI simulation will too."** A mixed-methods systematic review of **19 studies (N = 1,253)** finds AI-driven simulations produce effects in that literature — a modest base, and 1,253 participants across 19 studies is a narrow foundation for a technology being deployed at scale.
+- **"The question is what LLMs can do in clinical training."** A critical integrative review of **489 studies across 47 countries** shifts the question **from what LLMs can do to** what they should be trusted with. The capability question is largely answered; the governance question is not.
+- **"Standardized patients are too costly to scale."** A **randomized controlled trial with 95 analyzed medical students** used **multi-agent AI standardized patients** in clinical interview training. The constraint being addressed is the availability of trained human actors, which is a staffing problem rather than a fidelity one.
 ## Connected Concepts
 
 - [[problem-based-learning]]

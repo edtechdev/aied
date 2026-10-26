@@ -1,7 +1,7 @@
 ---
 title: Pedagogical Agent
 created: "2026-08-08T11:47:01-04:00"
-updated: "2026-10-25T10:40:00-04:00"
+updated: "2026-10-26T10:25:00-04:00"
 connected_faqs: [ai-agents-support-students-instructors]
 type: concept
 pedagogy: [scaffolding, student-ai-interaction]
@@ -72,6 +72,11 @@ Crucially, pedagogical agents are judged by their [[learning-gains|learning gain
 
 Better feedback is not the same as better learning: customizing an agent with knowledge bases and a workflow raised feedback accuracy and specificity but left self-regulatory behaviors, learning experiences and outcomes unchanged, and its gain advantage appeared only under directive feedback ([[agent-type-feedback-style-self-directed-learning-2026|Han et al. (2026)]]).
 
+## Common Misconceptions
+
+- **"Authoring intent determines what a pedagogical agent does."** **Authoring intent does not guarantee enacted pedagogy.** When **27 middle school teachers** configured a teacher-facing chatbot authoring tool, evaluation of 108 bot-level criteria showed the enacted behaviour diverged from what teachers intended. The tool mediated the pedagogy.
+- **"A pedagogical agent moderating discussion is a solved role."** [[ethics-training-agents-group-ethics-discussion-2026|Ethics Training Agents (Seo et al., 2026)]] shows what happens when an agent is asked to **moderate rather than** instruct — a qualitatively different demand from answering questions, and one the literature treats as unsettled.
+- **"The evidence base for computer-assisted instruction is thin."** A synthesis (**2025, 34 reviews**) quantifies CAI utilisation across teaching and learning support (**97.1% of reviews**), psychological and motivational support (**91.2%**) and **metacognitive** support. Breadth of reviewed application is extensive, which makes the gap one of enacted quality rather than coverage.
 ## Connected Concepts
 
 - [[learning-gains]]

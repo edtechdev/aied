@@ -2,7 +2,7 @@
 connected_resources: [mglearn]
 title: Language Learning
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-23T09:14:19-04:00"
+updated: "2026-10-26T10:25:00-04:00"
 type: concept
 foundations: [ai-education]
 technology: [generative-ai]
@@ -76,6 +76,11 @@ Design quality, not usage frequency, carried the motivational effect in an instr
 - **Route the full four-skill loop around cost and connectivity.** [[llmersion-local-first-language-learning-2026|Guo et al. (2026)]] release LLMersion-1, a local-first prototype that works listening, reading, speaking and writing over the learner's own document on consumer hardware — a 1B tutor quantizes to 808 MB and the whole resident stack stays under 4 GB — and prices five years of daily practice at roughly \$18 of electricity, against \$1,200 for a cloud subscription. No learner outcomes are reported and pronunciation feedback is segmental only.
 - **Evidence on chatbot speaking gains is uneven by feature.** In the only systematic synthesis of the question, ten studies from 2021 to 2024 improved range and intelligibility most reliably, while coherence was examined once and interaction almost never; four of the ten reported a single holistic score ([[chatbots-oral-proficiency-efl-systematic-review|Soriano-Gonzalez & Belda-Medina (2026)]]).
 
+## Common Misconceptions
+
+- **"Embodied robot tutors work because of the embodiment."** A meta-analysis of **11 RALL studies (N = 595)** found a large pooled effect on L2 learning (**g = 0.83**) with **high heterogeneity**, and — importantly — **only interaction**-level features moderated it. Morphology and modality did not, so the hardware is not the active ingredient.
+- **"AI-generated assessment items are worse than teacher-written ones."** A comparison of **52 EFL assessment tasks rated by 20 experienced teachers** found **no significant quality difference overall** between AI-generated and human-developed items, but divergence on particular dimensions. Overall parity with specific weaknesses is a different claim from improvement or deficiency.
+- **"LLM feedback can only score writing."** A discourse-level system goes further by **naming the defect rather than scoring the text**, with sentence-pair relation classification localising **coherence breaks** such as logical jumps and missing links. The useful output is diagnostic, not numeric.
 ## Connected Concepts
 
 - [[eportfolio]]

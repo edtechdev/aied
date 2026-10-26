@@ -1,7 +1,7 @@
 ---
 title: Self-Efficacy
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-10-25T10:40:00-04:00"
+updated: "2026-10-26T10:25:00-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [motivation, self-efficacy, self-regulated-learning]
@@ -61,6 +61,12 @@ Self-efficacy connects to [[motivation]], [[self-regulated-learning]], [[student
 - **Self-efficacy interacts with format preference, not just with outcomes.** A counterbalanced within-subject study (97 ninth-graders; content-matched tutor-based vs. paper-based practice of graph interpretation and construction) found tutor-based practice beat paper overall (t(62.30) = 2.38, p = .020), and — counterintuitively — lower baseline self-efficacy predicted *greater* gains in both formats (t(98.40) = −2.14, p = .035). The interesting structure is a significant three-way self-efficacy × favorability × format interaction (t(99.84) = −2.58, p = .011): among low-self-efficacy students, favorability toward the tutor predicts larger gains *specifically in tutor practice*. A sobering null for the assumption that tutor practice is motivationally self-reinforcing: ITS practice did not significantly improve post-training self-efficacy over paper — attributed to the short intervention (two ~40-minute sessions). The practical signal: baseline self-efficacy and technology favorability are cheap, actionable inputs for format assignment; tutor practice capitalizes on existing favorability rather than creating it. ([[cen-self-efficacy-favorability-2026]])
 - **Knowledge reached intention through trust, anxiety and self-efficacy.** In a PLS-SEM model of 526 design students, perceived AIGC knowledge was positively associated with trust, self-efficacy and usage intention and negatively with anxiety, and trust, anxiety and self-efficacy each carried a significant indirect path from knowledge to intention ([[wei-perceived-technological-dependence-genai-2026|Wei et al., 2026]]). Anxiety sat on the pathway rather than blocking it.
 
+## Common Misconceptions
+
+- **"Students who lack confidence avoid AI."** The opposite pattern appears: in a **153-student proof course**, one point higher baseline self-efficacy predicted **39% fewer chatbot messages**. Low confidence routed into **heavier** AI use — the students most in need of practice were the ones most likely to offload it.
+- **"More AI use with low confidence is a harmless coping strategy."** The same finding links that routing to **lower scores**, so the coping pattern has a measurable cost rather than being neutral choice.
+- **"Literacy alone builds confidence."** [[hu-psychological-predictors-continued-chatgpt-use-2026|Hu (2026)]] surveyed **450 university students** who already use ChatGPT and finds **trust as the pivot between literacy and confidence**. The path runs through trust, so raising literacy without addressing trust leaves the mechanism untouched.
+- **"Self-efficacy profiles are uniform in a disabled population."** A latent profile analysis of **102 university students with motor disabilities** in Spain found **three profiles**, with the low group at **29.4%** and the remainder split across moderate and higher profiles. Treating the group as one population averages over distinct motivational states.
 ## Connected Concepts
 
 - [[learners]] — Learners: the umbrella for the learner-side concepts

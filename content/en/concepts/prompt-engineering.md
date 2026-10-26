@@ -1,7 +1,7 @@
 ---
 title: Prompt Engineering
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-10-25T10:40:00-04:00"
+updated: "2026-10-26T10:25:00-04:00"
 type: concept
 connected_faqs: [making-ai-better-at-supporting-learning, training-ai-tutors-to-guide-rather-than-answer]
 foundations: [ai-literacy]
@@ -77,6 +77,11 @@ Prompt engineering connects to [[scaffolding]] — well-designed prompts can sca
 - **A usable taxonomy, and which prompt categories actually pay off.** [[teacher-ai-literacy-prompt-feedback-quality-2026|Jacobsen et al. (2026)]] translate technical strategies into the 3K model (*Kontext, Kernauftrag, Klarheit* — context, core task, clarity): eleven practice-oriented categories, each with a good/average/suboptimal rubric, and each tested as an experimental variation on feedback generated for pre-service teachers' learning goals. Domain-specific technical language was the decisive category — replacing subject terminology with everyday paraphrases significantly reduced feedback quality across three models (β = −0.412) — while adding concrete examples and removing the chain-of-thought instruction produced no significant difference from the baseline in the first study; examples did help once the analysis was rerun with the best-performing model-prompt combinations (β = 0.52). Prompt quality and model choice together explained 42.8% of the variance in rated feedback quality, which is the paper's case that prompt engineering is a measurable and teachable competency rather than a stylistic preference — and that its categories are not interchangeable in effect size.
 - **Better prompts reduced iteration without raising output quality.** Teachers given AI training before a lesson-preparation experiment wrote longer, more detailed prompts that needed less refinement, while untrained teachers used shorter prompts and required more subsequent iterations, yet blinded expert ratings of the resulting materials were equal ([[appel-genai-teacher-lesson-preparation-experiment-2026|Appel et al., 2026]]). Prompt craft here bought fewer correction rounds, not a stronger first draft.
 
+## Common Misconceptions
+
+- **"Prompt quality is a student attribute."** **Prompt cognition tracks the discipline, not the student**: [[student-ai-conversations-cognitive-engagement-2026|Chang and Li (2026)]] classified **60,087 prompts from 116 courses** and found the discipline predicted prompt sophistication. Teaching students to prompt better addresses a variation that sits in the subject matter.
+- **"Students develop their own prompting practice."** When the instructor modelled the prompt, **students reused it verbatim** — among **310 recorded prompts from twelve middle-school STEAM groups**, exact copying of the instructor's instruction was common. Modelling produces reproduction, which is why it is a system-design lever rather than a transferable skill.
+- **"Prompting is a learner skill first and a system property second."** This shifts prompting **into an adaptive system-design lever**, with measured effects on **engagement and efficiency (28.1% vs 19.6% exercise conversion)**. The interface's prompting affordances moved behaviour more than instruction in prompting did.
 ## Connected Concepts
 - [[pedagogical-patterns]] — The scaffolding layer inside structured-use sequences
 - [[vibe-coding]]

@@ -2,7 +2,7 @@
 connected_resources: [vibes-diy]
 title: Constructivism
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-10-22T09:11:45-04:00"
+updated: "2026-10-26T10:25:00-04:00"
 type: concept
 foundations: [learning-design]
 pedagogy: [active-learning, collaborative-learning, experiential-learning, learning-theories, scaffolding, self-regulated-learning]
@@ -100,6 +100,11 @@ Constructivism also shapes how AI literacy itself is taught. If knowledge is con
 3. **Align theory and implementation.** Researchers should look beyond whether AI "works" to *how* it embodies a learning theory, checking for the constructivist-in-name, behaviorist-in-practice gap.([[ai-vocational-education-training-review]])
 4. **Study learner agency and transfer.** Constructivist commitments imply evaluating not just immediate test gains but whether learners can transfer and independently apply their constructed understanding.([[research-methods-aied]])
 
+## Common Misconceptions
+
+- **"You can detect constructivist teaching from the questions asked."** A DeBERTa classifier **classified factual knowledge-transmitter questions at 96.67% precision but facilitator questions at only 78.79%**, and **every model confused the two higher-order roles**. The construct that matters most is the one automated detection handles worst.
+- **"Surface features of a lesson reveal its pedagogy."** The classifier's failure is not an implementation detail. Facilitator and constructivist roles are the hard cases precisely because they are defined by what the teacher does with the learner's thinking, and that relation is not recoverable from the question text alone.
+- **"Constructivism means the teacher does not explain."** The theory locates learning in the learner's construction from experience, which is compatible with direct instruction. Treating it as a prohibition on telling misreads both the theory and the evidence on worked examples.
 ## Connected Concepts
 - [[community-of-inquiry]] — Community of Inquiry (grounded in constructivist/Deweyan pragmatism)
 - [[cognitive-psychology]] — Cognitivism, the third classical pole of learning theory
