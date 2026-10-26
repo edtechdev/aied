@@ -1,7 +1,7 @@
 ---
 title: Virtual and Augmented Reality
 created: "2026-09-13T09:52:00-04:00"
-updated: "2026-10-25T05:04:43-04:00"
+updated: "2026-10-26T10:00:00-04:00"
 type: concept
 pedagogy: [embodied-learning, professional-training]
 technology: [generative-ai, multimodal, simulation]
@@ -65,6 +65,11 @@ Where immersive practice is used for interpersonal and procedural skill, the lim
 
 The same logic explains why presence is not automatically good. Motion sickness, UI inconsistency, hardware cost, and uneven device access decide who can use an immersive environment at all, which is why the modality's [[equity-in-ai-education|equity]] questions connect to [[accessibility]] and [[inclusive-learning]] rather than sitting apart from them.
 
+## Common Misconceptions
+
+- **"Feeling the phenomenon means understanding it."** A pilot found students reported **feeling** wavelength and amplitude through a hand gesture more strongly than through a slider — but **it measured perception, not achievement**. The felt sense is the affordance, and whether it produced understanding is a separate test.
+- **"High usability scores validate an educational VR tool."** In a **one-hour session with 10 students** on a Meta Quest 3, the study reported **good usability on the System Usability Scale and minimal simulation sickness**. Usability and comfort are prerequisites and neither is a learning measure.
+- **"Students' agreement is evidence of the affordance."** With **29 second-year medical-imaging students**, all 29 **agreed the gesture helped them "feel" what wavelength is (mean 4.52)**. Unanimous agreement on a feeling is self-report about experience, and the affordance claim needs an outcome that does not depend on the student's judgement of their own understanding.
 ## Connected Concepts
 
 - [[simulation]] — what immersive environments usually display; the model, not the modality

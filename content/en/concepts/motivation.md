@@ -1,7 +1,7 @@
 ---
 title: Motivation
 created: "2026-08-10T17:38:45-04:00"
-updated: "2026-10-23T08:03:41-04:00"
+updated: "2026-10-26T10:00:00-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [motivation, self-determination-theory, student-engagement]
@@ -70,6 +70,11 @@ Motivation also operates upstream of technology perception, not only alongside i
 
 Motivation is the parent construct of [[self-determination-theory]], which specifies the psychological needs (autonomy, competence, relatedness) that sustain intrinsic motivation. It connects to [[student-experience]] as the experiential layer of motivated engagement, to [[student-engagement]] as its measurable dimension, and to [[affective-computing]] for the emotional mechanisms that shape motivation. Motivation also connects to [[cognitive-offloading|Over-Reliance]] (AI reducing [[desirable-difficulties|productive struggle]]), [[self-regulated-learning]] (motivated learners self-regulate), and [[teacher-role]] (motivation applies to educators as well as students).
 
+## Common Misconceptions
+
+- **"GenAI's motivation effect is a clean, large gain."** A 42-study meta-analysis (56 effect sizes, 6,059 students) found a motivation effect of g = 0.764 (95% CI [0.566, 0.962]) **but with I² = 93.7%**. Heterogeneity that high means the pooled figure describes a set of studies that disagree with each other, so it is an average over inconsistent treatments rather than a reproducible effect.
+- **"Reducing frustration is the same as sustaining motivation."** A three-arm [[rct|RCT]] found a scaffolded tutor and unrestricted ChatGPT **cut frustration equally** (3.21 and 3.13). Two very different designs produced the same affective result, so frustration data cannot distinguish between them.
+- **"A motivating design is a good design."** In **222 first-year high-school students**, a teacher-to-teacher dialogue format **raised ARCS motivation more** than the alternative while **not improving overall evaluation**. Motivation moved and judged quality did not.
 ## Connected Concepts
 
 - [[learners]] — Learners: the umbrella for the learner-side concepts

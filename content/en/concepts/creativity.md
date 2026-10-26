@@ -1,7 +1,7 @@
 ---
 title: Creativity
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-10-22T09:11:45-04:00"
+updated: "2026-10-26T10:00:00-04:00"
 type: concept
 foundations: [critical-thinking, design-thinking]
 pedagogy: [constructivist, problem-solving]
@@ -74,6 +74,11 @@ The recurring design principle across these findings is to **keep the learner's 
 
 Creativity connects to [[critical-thinking]] and to [[constructivist]] learning. It is protected by the same [[reducing-ai-misuse]] [[scaffolding|scaffolds]] that preserve learning, and by [[authentic-assessment]] designs that reward original reasoning over polished products.
 
+## Common Misconceptions
+
+- **"Disrupting students produces creative gains."** **Friction is not creative gain.** Contrarian AI personas drove challenge-and-reflection discourse in **38.2% of groups** yet produced **no measurable creative-performance improvement**. The discourse changed and the measured outcome did not.
+- **"The K-12 literature establishes that GenAI improves creativity."** A PRISMA-guided scoping review of **45 studies (2017-2025)** shows GenAI mostly **enhances** creativity and **rarely measures** it. The field's dominant finding is an inference from perceived enhancement, which is not an outcome measurement.
+- **"More dependence on GenAI means more creative output."** Among **1,157 Chinese graduate students**, GenAI dependence was **positively associated with self-reported research creativity** — and the association is with **self-report**, which is the weakest available measure of the construct.
 ## Connected Concepts
 
 - [[critical-thinking]]

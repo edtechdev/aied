@@ -1,7 +1,7 @@
 ---
 title: AI Use and Disclosure Statements
 created: "2026-08-27T11:17:52-04:00"
-updated: "2026-10-24T08:08:00-04:00"
+updated: "2026-10-26T10:00:00-04:00"
 type: concept
 foundations: [academic-integrity]
 technology: [generative-ai]
@@ -73,6 +73,11 @@ Surveying the GenAI guidance of the 50 US universities ranked most innovative, [
 
 AI use and disclosure sits at the intersection of [[academic-integrity]] (its parent concern), [[ethics]], [[trust]] and [[trust-calibration]] (disclosure as an act of vulnerability), [[governance]] and [[educational-policy-ai]] (institutional policy frameworks), and [[assessment]] (where disclosure is operationalized). It connects to [[ai-literacy]] (students need to understand what and how to disclose), [[self-regulated-learning]] and [[help-seeking]] (disclosure as visible help-seeking), and [[equity-in-ai-education]] (differential disclosure). It is distinct from, but related to, [[ai-misuse-learning-harm]] (the harm disclosure is meant to make visible) and [[ai-detection]] (detection-based alternatives that disclosure frameworks increasingly replace).
 
+## Common Misconceptions
+
+- **"Mandatory declaration policies produce disclosure."** [[gonsalves-student-non-compliance-ai-declarations-2025|Gonsalves (2025)]] documented **74% non-compliance** with a mandatory declaration at a business school. The requirement did not produce the behaviour it mandated.
+- **"Students hide AI use because they are dishonest."** The drivers are documented and specific: only **about 34% of economics students admitted AI use** with disclosure rarer, driven by **penalty anxiety**, while another study found **66% never or rarely disclosed** with **fear of academic penalty the top reason**. The policy design, not character, is what the data implicate.
+- **"A disclosure requirement is a low-cost control."** A **74% non-compliance rate** makes the resulting record worse than no record: it is a dataset that appears complete and is not, so the institution is making decisions on a sample it cannot trust.
 ## Connected Concepts
 
 - [[academic-integrity]]

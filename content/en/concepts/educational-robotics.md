@@ -1,7 +1,7 @@
 ---
 title: Robots in Education
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-10-21T10:45:00-04:00"
+updated: "2026-10-26T10:00:00-04:00"
 type: concept
 foundations: [computational-thinking]
 pedagogy: [embodied-learning]
@@ -69,6 +69,11 @@ A defining theme is that robots are effective when they support genuine learning
 
 - **Pathways to learning AI-powered robotics.** [[educational-robotics-pathways-2026|A qualitative study]] of high school students in a robotics+AI curriculum found learning through real-world practice, designing, and playful creative expression (constructionist, epistemological-pluralist lens).
 
+## Common Misconceptions
+
+- **"Robotics teaches computational thinking by virtue of being robots."** A systematic review of **53 studies** found **problem-based learning, storytelling and scaffolding** the most frequently used strategies — the pedagogy carried the outcome, and it is what the studies actually did.
+- **"Physical robots beat screen-based alternatives across the board."** Gains were **task-dependent**: a short-term transfer score **60% higher** for [[aifred-desk-robotic-ai-guidance-2026|Orlando et al., 2026]] (4.4/10, p = .003) that the authors attribute to **spatial co-location rather than general replacement**. The claim is about co-location on specific tasks, not about physicality in general.
+- **"Kindergarten CT is too early to be meaningful."** The reviewed evidence covers kindergarten robotics directly, which means the age band is studied rather than assumed unsuitable.
 ## Connected Concepts
 - [[early-childhood-elementary-ai-education]] — Early childhood and elementary AI education
 - [[computational-thinking]]

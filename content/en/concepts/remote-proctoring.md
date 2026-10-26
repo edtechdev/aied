@@ -1,7 +1,7 @@
 ---
 title: Remote Proctoring
 created: "2026-08-20T04:50:00-04:00"
-updated: "2026-10-25T10:40:00-04:00"
+updated: "2026-10-26T10:00:00-04:00"
 type: concept
 foundations: [academic-integrity]
 pedagogy: [online-teaching-and-learning]
@@ -63,6 +63,11 @@ Remote proctoring exists on a spectrum. **Online proctoring** typically involves
 - **Equity-aware deployment.** Diverse, geographically-inclusive datasets and lightweight models for low-resource environments; accessible alternatives for students without reliable devices/connectivity.
 - **Educate before you surveil.** Prefer fostering [[ai-literacy]] and [[reducing-ai-misuse|responsible use]] through culture and trust-building, reserving proctoring for the high-stakes cases that genuinely require it.
 
+## Common Misconceptions
+
+- **"Proctoring protects academic integrity."** **The integrity rationale did not survive the largest test.** Across **four waves and 1,760 students in 105 courses**, proctoring **raised test anxiety (β = 0.60, p < 0.001) but had no** detectable integrity benefit. The measured effect was on the students, not on cheating.
+- **"Better detection capability means better proctoring."** A decade-long systematic review of **80 peer-reviewed studies (2014-2024)** finds advanced ML/DL proctoring **detects cheating more** accurately and says nothing about whether deploying it changes conduct. Detection performance is a property of the classifier, not of the assessment regime.
+- **"Behavioural signals are reliable indicators of misconduct."** Systems **track seventeen body landmarks per frame** with YOLOv11 to derive **posture-deviation, head-trend and upper-body-motion** features. Those constructs are proxies, and a flagged posture is a classification about a body rather than an observation of a transgression.
 ## Connected Concepts
 - [[anxiety-and-stress]]
 - [[academic-integrity]]

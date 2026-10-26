@@ -1,7 +1,7 @@
 ---
 title: Process-Oriented Assessment
 created: "2026-09-26T06:54:53-04:00"
-updated: "2026-10-16T19:45:37-04:00"
+updated: "2026-10-26T10:00:00-04:00"
 type: concept
 foundations: [academic-integrity]
 pedagogy: [self-regulated-learning]
@@ -68,6 +68,11 @@ The operational costs are itemized elsewhere. Boysen lists new technology, revis
 
 Thapa and Lewis's account is conceptual: no participants, no data collection, and no implementation trial, so the four principles are argued rather than tested, and the paper itself calls for empirical work on [[student-experience|student experience]], educator workload, and long-term viability. Feasibility is left undifferentiated across settings — transfer to large lectures, laboratories, studios, or clinical placements is not addressed. Lane's (2026) position paper notes the institutional ceiling: process-based assessment is blunted by grading and transcript structures that reward polished final artifacts, so classroom redesign alone does not change the incentive. [[educational-measurement|Measurement]] is thin as well: Jin and colleagues' (2026) review of [[ai-literacy|AI-literacy]] instruments calls for performance-based and process-oriented assessment and behavioral-trace measurement of [[prompt-engineering|prompting]] and verification, but reports that the existing instruments lean on [[self-report-measures|self-report]]. No source here reports a [[rct|controlled trial]] of a process-oriented redesign against a product-oriented one, which leaves the central claim — that process evidence is both harder to counterfeit and fairer to judge — argued from principle, practitioner report, and case-file evidence rather than demonstrated at scale.
 
+## Common Misconceptions
+
+- **"A high score implies the student did the work we designed."** Traces can **diverge from scores outright**: across **150 student-AI conversations**, **41% carried an assignment score of exactly 1.00 while observable cognitive participation varied**. The score saturates while the process that was supposed to produce it does not.
+- **"Process data is unmanageable at scale."** Required documentation proved feasible at course scale across **six semesters of six-week asynchronous graduate research-methods courses serving approximately 440 K-12 teachers**. Logistics were solvable; the objection overstates the cost.
+- **"Problem solving is too holistic to assess by process."** It can be operationalised as **four stages and eight diagnostic sub-skills**, letting an LLM generate **stage-specific questions and rubrics** — used with **five teachers and 64 students**. Decomposition is what made the process legible and assessable.
 ## Connected Concepts
 - [[pedagogical-patterns]] — Staged checkpoints and process evidence as sequenced designs
 - [[assessment]]

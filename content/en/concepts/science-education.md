@@ -6,7 +6,7 @@ technology: [generative-ai]
 discipline: [science education, stem education]
 confidence: medium
 created: "2026-08-29T12:55:12-04:00"
-updated: "2026-10-23T22:38:41-04:00"
+updated: "2026-10-26T10:00:00-04:00"
 connected_resources: [teacher-dev]
 reviewed_by: [editor]
 ---
@@ -62,6 +62,11 @@ In a 42-study meta-analysis of GenAI and motivation, the smallest subject-domain
 
 As a framework rather than a study, [[zhai-science-literacy-generative-ai-coherence-2026|Zhai et al. (2026)]] reframe the target: Vision I science literacy for competence in science careers, Vision II for science in everyday and civic life, and Vision III for knowledge and action at community and societal scale. They argue that [[generative-ai|generative AI]] earns its place in science classrooms only when it makes curriculum, instruction and assessment cohere with one of those visions, and that the field's persistent problem is tests that reward terminology recall while standards ask for explanation and investigation.
 
+## Common Misconceptions
+
+- **"AI in science education has no causal evidence."** A **four-week randomized evaluation** of an AI revision platform in GCSE science gives a causal estimate of **Hedges' g = 0.33**, with **no evidence the effect differed by subject**. The effect is modest and it is causal.
+- **"Give students access and the gains follow."** **Structured access, not access itself, drives the gain**: team-reported growth averaged **17% under unlimited individual access but 34% and 31% when access was structured**. The structure was the intervention.
+- **"Scientific simulation requires specialised software."** A **four-element natural-language prompt** can generate a **hand-controlled augmented-reality physics simulation**. The barrier to authoring a simulation fell to the prompt design, which shifts the skill required from programming to specifying the phenomenon.
 ## Connected Concepts
 
 - [[stem-education]]
