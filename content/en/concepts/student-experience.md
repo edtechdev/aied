@@ -1,7 +1,7 @@
 ---
 title: Student Experience
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-25T22:50:00-04:00"
+updated: "2026-10-25T23:15:00-04:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [well-being]
@@ -95,6 +95,23 @@ Student experience connects to [[cognitive-offloading|Over-Reliance]] (excessive
 **"If students feel AI helps, it helps."** Feeling helped is a real datum about the experience and an unreliable inference about the outcome. The gap is documented and students in the harmed group do not reliably perceive it, so perception and outcome have to be collected as separate measures rather than one standing in for the other.
 
 **"Student experience is a soft concern relative to outcomes."** It is a leading indicator for adoption and disclosure: students who feel their use is judged will conceal it, and concealed use is the condition in which [[reducing-ai-misuse|misuse]] and harm are least visible to the institution.
+
+## Implications for Practice
+
+**For instructors**
+
+- Do not treat non-use as a gap to close. Roughly a third of students choose to do the work themselves, and pressure to adopt converts a reasoned position into a compliance problem.
+- Collect perception and outcome separately. Satisfaction surveys describe the experience and cannot stand in for unassisted performance.
+- Make disclosure safe, since students who expect judgement conceal their use, and concealed use is where the divergence between assisted and unassisted performance hides.
+
+**For developers**
+
+- Report learning outcomes alongside experience metrics in anything you publish to students, because the felt and measured results routinely diverge.
+- Support declining the assistant without losing access to the course.
+
+**For researchers**
+
+- Report the size and reasons of the non-user group explicitly; 32% of a 7,087-student sample is a population, not a residual.
 
 ## Connected Concepts
 - [[learners]] — Learners: the umbrella for the learner-side concepts

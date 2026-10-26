@@ -1,7 +1,7 @@
 ---
 title: Experiential Learning
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-10-25T21:50:00-04:00"
+updated: "2026-10-25T23:15:00-04:00"
 type: concept
 pedagogy: [active-learning, embodied-learning, experiential-learning, project-based-learning]
 level: [higher ed]
@@ -58,6 +58,23 @@ Work-integrated experience can be the binding condition for advanced competence:
 **"More authentic tasks are straightforwardly better."** Authenticity raises the transfer value and the assessment problem together: real systems produce variable, hard-to-grade evidence, and the more authentic the task the less the outcome resembles a score. Design has to hold both, which is why the reflection structure carries as much weight as the task.
 
 **"AI tutoring fits experiential learning as it fits lecture content."** The fit is weaker, because a tutor can supply explanation and cannot supply the encounter with the system. Its natural place in this pedagogy is around the reflection and conceptualisation stages, where a learner is making sense of what happened — not in place of the doing.
+
+## Implications for Practice
+
+**For instructors**
+
+- Structure the cycle rather than the activity: doing, then reflecting, then conceptualising, then testing in a new situation. A session that stops after the doing has produced familiarity, not learning.
+- Add the practical component where the concept is abstract and remove it where the practical has become the entire course. Hands-on is a means with a cost in time and a benefit in transfer, and the ratio is a design decision.
+- Reserve AI for the reflection stage, where a learner is making sense of what happened.
+
+**For developers**
+
+- Build reflection prompts and a record of what the learner did, so the sense-making stage has material and the evidence is auditable.
+- Do not present a simulation as a substitute for operating a real system in domains where the consequence of error is the curriculum.
+
+**For programme designers**
+
+- Check that applied programmes contain applied work rather than lab proxies; the transfer claim rests on the authenticity of the encounter.
 
 ## Connected Concepts
 - [[active-learning]]

@@ -1,7 +1,7 @@
 ---
 title: Problem Solving
 created: "2026-08-29T12:55:12-04:00"
-updated: "2026-10-25T22:50:00-04:00"
+updated: "2026-10-25T23:15:00-04:00"
 type: concept
 foundations: [critical-thinking]
 pedagogy: [cognitive-psychology, problem-solving]
@@ -61,6 +61,23 @@ Problem solving is the applied outcome of [[critical-thinking|critical thinking]
 **"Problem solving is the target, so problem posing is a bonus."** Posing problems is where transfer is built, because it requires the learner to construct the structure rather than operate inside one the system provided. A curriculum that only ever supplies well-formed problems trains performance on well-formed problems, which is not the condition students meet afterwards.
 
 **"Simulation of collaborative problem solving is a substitute for the collaboration."** A simulation reproduces the interaction pattern, and the skill being developed is the regulation of a joint problem by participants who are actually present. Participant-specific agents that model real collaborators are a research instrument for studying that regulation — useful for what they reveal about the process, not a way to give students the practice without the peers.
+
+## Implications for Practice
+
+**For instructors**
+
+- Ask students to pose the problem before solving one. Posing requires constructing the structure, which is where transfer is built, and it is the step AI most readily performs on their behalf.
+- Distinguish a thinking partner from a substitute in the task itself: require the student's framing, approach and justification on the record, so the record shows who did the generative work.
+- Watch for the student who explores many perspectives fluently and produces no position of their own; that is metacognitive laziness wearing the appearance of engagement.
+
+**For developers**
+
+- Design for student-generated problems and structures rather than merely better hints for given ones.
+- Instrument the framing step, not only the solution steps; a system that tracks answers and not problem formulation cannot see the outcome that matters.
+
+**For researchers**
+
+- Participant-specific agent simulations are a strong instrument for studying collaborative regulation. Report them as such rather than as evidence about unsupervised student collaboration.
 
 ## Connected Concepts
 

@@ -1,7 +1,7 @@
 ---
 title: Learning Theories
 created: "2026-08-16T03:36:31-04:00"
-updated: "2026-10-25T20:20:00-04:00"
+updated: "2026-10-25T23:15:00-04:00"
 type: concept
 foundations: [learning-design]
 pedagogy: [behaviorism, learning-theories, metacognition, self-regulated-learning]
@@ -86,6 +86,22 @@ Alongside the classical families, the knowledge base documents theories written 
 **"More theories mean a better-understood field."** Accumulation without adjudication is the opposite of progress. Theories proposed for the AI era multiply faster than they are tested, and the sign of maturity is competing predictions being resolved — which requires designs that can distinguish them, not catalogues that accommodate them.
 
 **"Education about AI is the same as AI in education, theoretically speaking."** They draw on different strands: one asks how learners come to understand AI as a subject, the other how AI changes how learning happens. Conflating them produces literature reviews that mix two distinct evidence bases and report a coherent picture of neither.
+
+## Implications for Practice
+
+**For instructors**
+
+- Choose theory by what you need it to do: explain how learning happens, describe the learner's state, or explain why a practice spreads. Applying the wrong layer measures the right variable against the wrong prediction.
+- State the outcome measure's theory commitment explicitly, since inflated homework scores read as success under behaviourism and as failure under constructivism from identical data.
+- When a framework cannot predict a difference between configurations, it cannot be tested in your setting and will not help you decide.
+
+**For developers**
+
+- Publish the theory your system embodies and the prediction that would falsify it; "grounded in constructivism" without a falsifiable difference is a claim with no content.
+
+**For researchers**
+
+- Design for adjudication between theories rather than accumulation of frameworks. Maturity shows up as competing predictions resolved, not as vocabulary growth.
 
 ## Connected Concepts
 

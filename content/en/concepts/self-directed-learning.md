@@ -2,7 +2,7 @@
 connected_resources: [matt-pocock-skills]
 title: Self-Directed Learning
 created: "2026-08-20T06:35:00-04:00"
-updated: "2026-10-25T22:50:00-04:00"
+updated: "2026-10-25T23:15:00-04:00"
 type: concept
 foundations: [agency]
 pedagogy: [lifelong-learning, motivation, self-efficacy, self-regulated-learning]
@@ -56,6 +56,23 @@ Because SDL emphasizes learner-initiated direction, interventions to protect it 
 **"Non-use of AI indicates a lack of access."** Among students who do not use it, the stated reason is often a positive educational choice — wanting to do the work themselves — rather than a barrier. Reading non-use as a deficit misdescribes a position that is, in the [[student-experience|student-experience]] evidence, reasoned.
 
 **"Self-direction means working alone."** It means owning the direction, which can be exercised in a highly supported environment. The distinguishing feature is who sets and adjusts the goal, not whether help is available.
+
+## Implications for Practice
+
+**For instructors**
+
+- Distinguish what you are developing: in-session regulation or across-time ownership. They need different designs, and improving one does not produce the other.
+- Protect the decisions that constitute self-direction — what to learn, how to judge progress, when to change course — even where AI could make them. Delegating them removes the practice.
+- Teach evaluation alongside use, since thoughtless adoption of outputs is the documented mechanism by which GenAI undermines SDL.
+
+**For developers**
+
+- Make the learner's decisions visible and revisable rather than setting them by default. A system that always supplies direction supplies it in place of the competence being developed.
+- Build reflection checkpoints where the learner states their goal and their evidence, so direction remains theirs.
+
+**For researchers**
+
+- Report which construct an intervention targeted; SDL and SRL outcomes should not be used interchangeably.
 
 ## Connected Concepts
 

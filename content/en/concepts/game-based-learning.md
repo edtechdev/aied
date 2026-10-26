@@ -1,7 +1,7 @@
 ---
 title: Game-Based Learning
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-10-25T21:20:00-04:00"
+updated: "2026-10-25T23:15:00-04:00"
 type: concept
 pedagogy: [active-learning, game-based-learning, motivation, student-engagement]
 technology: [educational-robotics]
@@ -49,6 +49,23 @@ GBL and gamification together connect to [[educational-robotics]], [[student-eng
 **"Positive effects on motivation and knowledge are mutually reinforcing."** They are separately measured and, in the wider literature, separately scheduled: [[student-engagement|engagement and achievement]] move on different timelines, so a game that raises intrinsic motivation has demonstrated one outcome. Treating the motivational result as corroborating the knowledge result inflates a two-part finding into a stronger one than the design supports.
 
 **"If a game engages students, the learning follows from the fun."** Fun is the delivery mechanism for the repetition a game makes tolerable, not the mechanism of learning. A game that adds engagement without adding productive practice has added the part that was never in short supply.
+
+## Implications for Practice
+
+**For instructors**
+
+- Ask what the game is making students repeat, not whether students enjoy it. Repetition of the right operation is the mechanism; enjoyment is what makes the repetition tolerable.
+- Treat motivational and knowledge outcomes as separate claims, and do not let a rise in intrinsic motivation be reported as evidence of learning.
+- Check quality against the review's own bar before adopting a title on the strength of a positive synthesis: only 7% of the studies met it.
+
+**For developers**
+
+- Instrument learning outcomes separately from engagement and affect, and publish both.
+- Build the productive practice first and the game layer second; a game layer over weak practice has automated the part that was never scarce.
+
+**For researchers**
+
+- Raise the design quality of the field rather than its volume; a 7% high-quality rate is the binding constraint on what can be concluded.
 
 ## Connected Concepts
 - [[educational-robotics]]
