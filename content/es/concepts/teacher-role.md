@@ -1,7 +1,7 @@
 ---
 title: La docencia
 created: "2026-09-25T03:07:36-04:00"
-updated: "2026-10-26T22:02:40-04:00"
+updated: "2026-10-27T16:37:04-04:00"
 type: concept
 foundations: [ai-literacy, educational-development, learning-design, teacher-ai-competency]
 pedagogy: [scaffolding]
@@ -139,26 +139,6 @@ La integridad académica con IA es un problema de *diseño*, no de vigilancia. E
 - **La [[regulation|regulación]] a nivel de tarea es como el profesorado gobierna de verdad la IA.** [[chirikov-regulate-ai-syllabi-2026|el estudio de Chirikov (2026)]] sobre más de 31.000 programas de asignaturas muestra que el profesorado actúa cada vez más como *regulador a nivel de tarea* en lugar de aplicar reglas generales: restringe la IA para redactar y revisar (79% de las asignaturas) y para razonar y resolver problemas (65%), la permite para editar y corregir (83%) y para el apoyo al estudio (80%), y deja la ideación y la planificación como lo más disputado (46% la permite y 54% la restringe). Esta diferenciación, construida sobre qué tareas desplaza la IA y cuáles potencia, es una alternativa concreta y liderada por el profesorado a la política de adoptar o prohibir, y da al rol docente un lugar central en la formación de la [[educational-policy-ai|política]].
 - **El personal con contrato temporal carga con la corrección sin el mandato.** Veinte docentes ocasionales, algunos enseñando en tres o más instituciones a la vez, describieron cómo detectaban la mala conducta mediante un oficio no formado mientras no tenían autoridad curricular ni de política ([[sessional-academics-contract-cheating-digital-misconduct-2026|Andriamora y Andriamora, 2026]]).
 
-## Concepciones erróneas
-
-**«La IA reducirá o sustituirá el trabajo pedagógico de la enseñanza.»** La evidencia de los escenarios expertos apunta en la dirección contraria. [[caeo-navigating-ai-educational-future-scenarios-2026|Malyn-Smith et al. (2026)]] la llaman la *paradoja de lo más humano*: en seis escenarios para 2030 cocreados por 20 investigadores de 13 países, la saturación de la IA **intensifica en lugar de desplazar** el trabajo pedagógico humano. Los escenarios describen la IA como «el sistema de tratamiento del aire del ecosistema de aprendizaje»: una infraestructura que solo se nota cuando falla. Lo que cambia no es la cantidad de juicio humano requerido, sino su objeto: la atención pasa de producir materiales a interpretar a quien aprende.
-
-**«La competencia en IA del profesorado significa aprender las herramientas.»** La fluidez con las herramientas es el predictor más débil disponible. En el SEM de [[ai-teaching-innovation-ai-tpack-2026|Bai y Hsieh (2026)]] con 898 docentes universitarios chinos, la innovación docente apoyada en IA generativa dependió *menos* del conocimiento tecnológico aislado de la IA y *más* de la competencia en IA integrada pedagógica y disciplinarmente junto con la identidad profesional, y ambas mediaron parcialmente el resultado. Un taller sobre funciones que no toca la pedagogía ni la identidad disciplinar apunta a la variable equivocada, y por eso [[laidlaw-genai-identity-crisis-faculty-2026|Laidlaw et al.]] enmarcan la respuesta del profesorado a la IA generativa como una cuestión de identidad y no como una brecha de habilidades.
-
-**«El profesorado ya codiseña la IA, así que la transición está en marcha.»** La aspiración es real; la descripción todavía no. La revisión sistemática de [[wang-teacher-ai-co-design-review-2026|Wang, Liu e Islam (2026)]] sobre el codiseño docente-IA de tareas de aprendizaje encuentra que la postura de codiseñador **sigue siendo desigual**, con el modo dominante todavía la IA como asistente o generadora de contenido. Leer esa revisión como evidencia de un cambio consumado ocultaría la brecha entre el profesorado que una página como esta recomienda y el que la mayoría de las instituciones tiene en realidad.
-
-**«Cómo delega el profesorado en un chatbot apenas importa, porque el trabajo lo hace el modelo.»** El patrón de delegación es la intervención. En la planificación de lecciones de artes STEAM para niños y niñas, [[luo-tahir-chatgpt-steam-lesson-planning-2026|Luo y Tahir (2025)]] encontraron experimentalmente que rellenar los huecos de contenido en una lección *autodelineada* preservaba la autonomía de diseño docente y a la vez elevaba la calidad del plan valorada por especialistas (mediana 20,5 frente a 17,6; p = ,002; efecto grande), superando a la alternativa de dejar que el modelo suministrara el esquema. Mismo modelo, misma tarea, distinta división del trabajo, resultado materialmente distinto.
-
-## Una secuencia inicial práctica
-
-La evidencia respalda un orden concreto de operaciones para el profesorado que adopta la IA, y no una lista de funciones que aprender.
-
-1. **Escriba la actividad antes de elegir la herramienta.** Especifique el objetivo, el intento del estudiantado que va primero y qué cuenta como evidencia de comprensión. Las herramientas elegidas primero tienden a reescribir la actividad a su alrededor.
-2. **Decida explícitamente el patrón de delegación.** Esquematice usted la lección y deje que la IA rellene los huecos de contenido, en lugar de aceptar un esquema generado: el patrón anterior con la diferencia de calidad medida.
-3. **Coloque el punto de control humano donde reside la propiedad.** Diseñe para que quien aprende evalúe, corrija y haga suyo el trabajo asistido por IA, y para que la retroalimentación de la IA llegue como un borrador que el profesorado cura y no como un comentario que retransmite.
-4. **Proteja el tiempo de interpretación que genera el cambio.** Si la atención pasa de producir materiales a leer a quien aprende, ese tiempo reasignado debe sobrevivir al contacto con el calendario; si lo absorbe nuevo trabajo administrativo, el cambio de rol prometido no ocurre.
-5. **Compruebe si le están formando en herramientas o en pedagogía.** Dado el resultado del SEM, prefiera el desarrollo profesional que trabaja sobre tareas disciplinares e identidad frente a los recorridos por funciones.
-
 ## Conectar la docencia con el diseño del aprendizaje
 
 La docencia y el [[learning-design|diseño del aprendizaje]] son dos caras de la misma moneda: los juicios diarios del profesorado son la ejecución en vivo de la experiencia de aprendizaje diseñada. La IA estrecha esta conexión:
@@ -188,6 +168,26 @@ El rol docente y la [[learner-identity|identidad del estudiantado]] son caras re
 
 - **La analítica de reflexión con IA orientada al profesorado debería adaptarse a su experiencia, y no ser única para todos.** Una encuesta a 100 docentes estadounidenses de K-12 (división por la mediana en nueve años; pruebas binomiales; diferencias de elección del 15% detectables con una potencia de ~83%) encontró divisiones sistemáticas de preferencia. El profesorado con menos experiencia cita la falta de tiempo para reflexionar como uno de los principales obstáculos a un ritmo triple que el profesorado experimentado (37% frente a 12%, p < 0,001) y quiere analítica sobre la desconexión del estudiantado (48% frente a 33%, p = 0,028) y sobre las emociones (31% frente a 18%, p = 0,036).
 - **La regla de diseño que se deriva de esta división son los modos de recomendación adaptados a la experiencia.** El profesorado experimentado quiere analítica sobre el aprendizaje mejorado después de ayudar a un estudiante (40% frente a 26%, p = 0,019) y sobre sus métodos de enseñanza (42% frente a 26%, p = 0,012), y su principal obstáculo es el seguimiento del desempeño (28% frente a 15%, p = 0,009). Regla de diseño: modo novato = avisos estructurados y analítica de implicación; modo experto = análisis longitudinal flexible, lo que es un argumento directo contra cuadros de mando uniformes. ([[falhs-teacher-expertise-reflection-2025]])
+
+## Concepciones erróneas
+
+**«La IA reducirá o sustituirá el trabajo pedagógico de la enseñanza.»** La evidencia de los escenarios expertos apunta en la dirección contraria. [[caeo-navigating-ai-educational-future-scenarios-2026|Malyn-Smith et al. (2026)]] la llaman la *paradoja de lo más humano*: en seis escenarios para 2030 cocreados por 20 investigadores de 13 países, la saturación de la IA **intensifica en lugar de desplazar** el trabajo pedagógico humano. Los escenarios describen la IA como «el sistema de tratamiento del aire del ecosistema de aprendizaje»: una infraestructura que solo se nota cuando falla. Lo que cambia no es la cantidad de juicio humano requerido, sino su objeto: la atención pasa de producir materiales a interpretar a quien aprende.
+
+**«La competencia en IA del profesorado significa aprender las herramientas.»** La fluidez con las herramientas es el predictor más débil disponible. En el SEM de [[ai-teaching-innovation-ai-tpack-2026|Bai y Hsieh (2026)]] con 898 docentes universitarios chinos, la innovación docente apoyada en IA generativa dependió *menos* del conocimiento tecnológico aislado de la IA y *más* de la competencia en IA integrada pedagógica y disciplinarmente junto con la identidad profesional, y ambas mediaron parcialmente el resultado. Un taller sobre funciones que no toca la pedagogía ni la identidad disciplinar apunta a la variable equivocada, y por eso [[laidlaw-genai-identity-crisis-faculty-2026|Laidlaw et al.]] enmarcan la respuesta del profesorado a la IA generativa como una cuestión de identidad y no como una brecha de habilidades.
+
+**«El profesorado ya codiseña la IA, así que la transición está en marcha.»** La aspiración es real; la descripción todavía no. La revisión sistemática de [[wang-teacher-ai-co-design-review-2026|Wang, Liu e Islam (2026)]] sobre el codiseño docente-IA de tareas de aprendizaje encuentra que la postura de codiseñador **sigue siendo desigual**, con el modo dominante todavía la IA como asistente o generadora de contenido. Leer esa revisión como evidencia de un cambio consumado ocultaría la brecha entre el profesorado que una página como esta recomienda y el que la mayoría de las instituciones tiene en realidad.
+
+**«Cómo delega el profesorado en un chatbot apenas importa, porque el trabajo lo hace el modelo.»** El patrón de delegación es la intervención. En la planificación de lecciones de artes STEAM para niños y niñas, [[luo-tahir-chatgpt-steam-lesson-planning-2026|Luo y Tahir (2025)]] encontraron experimentalmente que rellenar los huecos de contenido en una lección *autodelineada* preservaba la autonomía de diseño docente y a la vez elevaba la calidad del plan valorada por especialistas (mediana 20,5 frente a 17,6; p = ,002; efecto grande), superando a la alternativa de dejar que el modelo suministrara el esquema. Mismo modelo, misma tarea, distinta división del trabajo, resultado materialmente distinto.
+
+## Una secuencia inicial práctica
+
+La evidencia respalda un orden concreto de operaciones para el profesorado que adopta la IA, y no una lista de funciones que aprender.
+
+1. **Escriba la actividad antes de elegir la herramienta.** Especifique el objetivo, el intento del estudiantado que va primero y qué cuenta como evidencia de comprensión. Las herramientas elegidas primero tienden a reescribir la actividad a su alrededor.
+2. **Decida explícitamente el patrón de delegación.** Esquematice usted la lección y deje que la IA rellene los huecos de contenido, en lugar de aceptar un esquema generado: el patrón anterior con la diferencia de calidad medida.
+3. **Coloque el punto de control humano donde reside la propiedad.** Diseñe para que quien aprende evalúe, corrija y haga suyo el trabajo asistido por IA, y para que la retroalimentación de la IA llegue como un borrador que el profesorado cura y no como un comentario que retransmite.
+4. **Proteja el tiempo de interpretación que genera el cambio.** Si la atención pasa de producir materiales a leer a quien aprende, ese tiempo reasignado debe sobrevivir al contacto con el calendario; si lo absorbe nuevo trabajo administrativo, el cambio de rol prometido no ocurre.
+5. **Compruebe si le están formando en herramientas o en pedagogía.** Dado el resultado del SEM, prefiera el desarrollo profesional que trabaja sobre tareas disciplinares e identidad frente a los recorridos por funciones.
 
 ## Conceptos conectados
 - [[pedagogical-partnerships]] — Alianzas pedagógicas
