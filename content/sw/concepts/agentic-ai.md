@@ -13,7 +13,7 @@ confidence: high
 reviewed_by: [editor]
 connected_faqs: [ai-agents-support-students-instructors, asynchronous-online-courses-ai, making-simulated-students-behave-like-learners]
 translation_of: concepts/agentic-ai
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-25T17:35:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -41,6 +41,8 @@ ai_assist:
 ## Utangulizi
 
 AI inayojitegemea inarejelea mifumo ya akili bandia ambayo inaweza kupanga, kutekeleza na kurekebisha kwa njia huru mtiririko wa hatua nyingi ili kufikia malengo ya kujifunza — ikipita zaidi ya kujibu maswali ya zamuzi mmoja ili kutenda kama washirika wa kudumu, wenye lengo katika miktadha ya kielimu. Katika elimu, AI inayojitegemaa inajitokeza kama walimu wa AI wanaoweka ngazi za msaada kwa kujifunza katika mwingiliano wa muda mrefu, mifumo ya mawakala wengi yanayoratibu [[learning-design|miongozo ya mafunzo]] tata, na mawakala huru wanaorekebisha mikakati yao ya [[pedagogy|kielimu]] kulingana na mahitaji ya mwanafunzi. Mtindo huu unaoibuka unahamisha AI kutoka zana inayoitikia ilani kwenda mshirika anayeongoza kwa bidii, anayerekebisha, na anayeshirikiana katika michakato ya kujifunza.
+
+- **Kutenganisha ubainifu na utekelezaji ndiyo kunakofanya mtiririko wa kazi wenye wakala kuwa wa kuaminika.** DagFlow-AI ina mawakala wa LLM kufafanua kila sehemu ya mbinu inayozalisha data - vigeu, grafu isiyo na mzunguko iliyoelekezwa, mgawanyo na fomula za mfano - huku programu ikichukua sampuli za mitazamo na hati ya uthibitisho ikikagua kila matokeo ya wakala ([[arthur-dagflow-agentic-synthetic-data-statistics-2026|Arthur et al., 2026]]). Hakuna wakala anayezalisha data au kuandika kodi ya uzalishaji, jambo ambalo waandishi wanalileta kama jibu kwa matokeo yasiyosaidiwa na mseto wa maelekezo.
 
 ## Kufafanua na kuainisha AI inayojitegemea
 
@@ -200,6 +202,16 @@ Kwa sababu mawakala huru hufanya kugundua kuwa hakuna faida, waalimu wanapaswa k
 ## Hitimisho lenye usawa
 
 AI inayojitegemaa si tiba wala dhara isiyoweza kuepukika: thamani yake inategemea kubuni. Ikitumika kuweka ngazi za msaada kwa uhuru wa mwanafunzi, kuwekwa juu ya kielimu, na kuweka binadamu katika mzunguko, mawakala wanaweza kubinafsisha na kukuza kujifunza; ikitumika kuongeza kuotomatisha na ukamilishaji wa kazi, wanaweza kudhoofisha juhudi ile ile inayozalisha kujifunza. Kanuni inayojirudia ya kubuni ni **kusudi** — kuamua kwa uwazi kile wakala anafanya na kile anachia kwa makusudi kwa mwanafunzi.
+
+## Dhana Potofu za Kawaida
+
+**"Chatbot yoyote iliyounganishwa na zana ni mfumo wenye wakala."** Tofauti inachorwa kwenye muundo wa uwezo, si kwenye upatikanaji wa zana: mfumo unastahiki kuwa wenye wakala tu ikiwa unatimiza vigezo kama kupanga, kumbukumbu, uhuru na kitendo chenye lengo katika hatua mbalimbali. Zana ya ilani-jibu inayoweza kuita kikokotoo inabaki ya mazungumzo. Tofauti hii ni muhimu kwa sababu hatari na mbinu za tathmini zinatofautiana: kitendo huru cha hatua nyingi huibua hali za kushindwa ambazo mazungumzo moja hayana.
+
+**"Mifano bora zaidi ya msingi ndiyo hufanya mifumo yenye wakala kufanya kazi katika elimu."** Katika jaribio ambalo ukurasa huu unautaja, **ubainishaji wa majukumu badala ya uwezo ghafi wa mfano** ndio unaopewa sifa ya tabia bora ya ushauriano (**71.8%** dhidi ya kikundi cha kulinganisha). Usanifu na mgawanyo wa kazi kati ya mawakala ni maamuzi ya kubuni yenye athari zinazoweza kupimwa, ambayo inamaanisha mfano wenye nguvu zaidi uliowekwa katika mtiririko wa kazi usio na ubainishaji hautazalisha matokeo yale yale.
+
+**"Mifumo yenye wakala katika elimu ina msingi wa kielimu kwa sababu watafiti wa elimu wanajenga."** Ushahidi unasema kinyume: mapitio ya wigo yaligundua kuwa **29% tu ya masudio ya AI yenye wakala (138 kati ya 474)** yaliweka mifumo yao kwa uwazi juu ya nadharia ya kielimu. Mgawanyiko wa kitaaluma kati ya kazi inayoelekea kiufundi na kazi inayoelekea kielimu ni hali ya uwanja, si uzembe wa mwandishi mmoja, hivyo onyesho linalofanya kazi ni matokeo yanayotarajiwa na onyesho linalofanya kazi *kwa kujifunza* ni hali ya wachache.
+
+**"Wakala anayebinafsisha na kukuza kujifunza ni faida halisi juu ya chatbot."** Unabeba biashara mahususi pamoja nao: mifumo yenye wakala inatishia [[agency]] na inakaribisha [[cognitive-offloading|kupunguza]] juhudi za kiakili ambazo kujifunza kunategemea, na kwa kufanya hatua nyingi bila usimamizi inafanya kupunguza huko kuwa vigumu kutambua. Msongo wa kuotomatisha dhidi ya kujifunza ni tatizo kuu la uchanganuzi wa kategoria hii badala ya onyo linaloongezwa kwenye faida zake.
 
 ## Dhana Zilizounganishwa
 

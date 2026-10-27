@@ -11,7 +11,7 @@ reviewed_by: [editor]
 connected_faqs: [ai-save-instructor-time, faculty-ai-competencies, faculty-development-ai]
 connected_resources: [education-agent-skills, fpds-apps-and-resources]
 translation_of: concepts/educational-development
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-26T04:35:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -40,6 +40,7 @@ Eğitsel gelişim, akademik personelin iyi tasarlama, öğretme ve değerlendirm
 ## YZ çağında eğitsel gelişim
 
 - **Hazır bulunuşluk çerçeveleri:** [[sangwa-epiq-ai-faculty-readiness-2026|EPIQ-AI çerçevesi]] dört hazır bulunuşluk alanı tanımlar: epistemik, pedagojik, kurumsal ve kalite-ve-uyum. Akademik personelin hazır bulunuşluğu, yalnızca bireysel bir beceri boşluğu değil, sosyoteknik bir uyum sorunudur.
+- **Bir çerçevenin düzeylerinin neyi betimlediğini benimsemeden önce kontrol edin.** Kurumsal olarak onaylanmış 16 YZ yeterlilik çerçevesinin tamamında YZ kullanımı, çıktı değerlendirmesi ve alan uygulaması esaslıydı; problem formülasyonu (7), veri yeterliliği (9) ve YZ yaratımı (8) ise değildi; yeterlilik düzeyleri ayrıca öğrenen gelişimini, mesleki rolü veya sınıf düzeyini betimler, bu yüzden doğrudan karşılaştırılamazlar ([[ai-competence-framework-landscape-2026|Fitsilis (2026)]]).
 - **Teknoloji bütünleştirmesi için standartlar:** [[crompton-faculty-technology-integration-standards-2026|Crompton ve ark.]], [[higher-ed|yükseköğretim]] kurumlarında teknoloji (YZ dahil) bütünleştirmesine yönelik akademik personel standartları geliştirmek üzere [[design-based-research|tasarım temelli araştırmayı]] kullanır.
 - **Benimseme ve güven:** [[teacher-ai-adoption-confidence|Öğretmen YZ benimseme araştırmaları]], kaygıları, desteği, güveni ve tutumları temel öngörücüler olarak belirler. Akademik personel gelişim programları dördünü de ele almalıdır.
 - **Müfredat bütünleştirmesi:** [[institutional-change-framework-ai|Kurumsal değişim çerçeveleri]] ve [[ai-assessment-scale-reform|değerlendirme reformu]], akademik personelin yalnızca YZ araçları eklemek yerine kursları yeniden tasarlamasını gerektirir.
@@ -108,6 +109,18 @@ Güven ve okuryazarlık birbirinin yerine kullanılamaz hedeflerdir: üniversite
 **Akademik personelin kendi bildirdiklerine karşı kıyaslama yapın.** [[watson-rainie-ai-challenge-faculty-survey-2026|Watson ve Rainie (2026)]]’in 1.057 ABD’li akademik personele ilişkin anketi, kurumsal katmanın program tasarımcılarının doğrudan ölçebileceği biçimlerde zayıf olduğunu göstermektedir: %59’u, okulun öğrencileri geleceğe hazırlamak için üretici YZ’yi etkili biçimde kullanmaya hazır olmadığını, %68’i ise akademik personeli onu öğretme ve mentorluk için kullanmaya hazırlamadığını belirtmiştir; oysa yapısal yanıt kurumların %55’inde bir çalışma grubuna dönüşmüş, YZ okuryazarlığı genel eğitim çıktısına yalnızca %13’te dönüşmüştür. Akademik personel politikayı beklemedi: %87’si kurumsal bir politika gösterebilen %48’ye karşı kendi ödev düzeyinde kurallarını yazmış; bölüm düzeyinde benimsemenin önündeki engeller olarak emir değil, meslektaşlarının direncini (%82) ve aşinalıksızlığını (%83) adlandırmıştır. Gelişim programları için bu durum, akran normlarını, paylaşılan ödev düzeyinde politika dilini ve kurumsal hazır bulunuşluğun açık ölçütlerini müdahalenin parçası olarak ele almayı, bunları politika belgesine bırakmamayı savunmaktadır.
 
 **Öğretmen yanıtı tutumu değil, güç merkezlerini yansıtır.** 33 yazma öğretmeniyle yürütülen araçsal bir durum çalışmasında, küresel üretici YZ eğilimi, üniversite/bölüm, meslektaşlar ve öğrenciler olmak üzere dört polisentrik güç merkezi uygulamayı şekillendirmiştir; sınırlı söylem gücüyle kısıtlanan sürekli eğitimci (adjunct) öğretmenler, tespit yönünden kabul edilebilir kullanımı öğretmeye doğru kaymışlardır ([[zuo-instructor-power-genai-writing-2026|Zuo ve ark. (2026)]]).
+- **Altı mesleki gelişim ailesi, üçü iyi kanıtlanmış ve net bir kazanan.** YZ destekli öğretim tasarımı üzerine 78 çalışmanın derlemesi, belgelenmiş mesleki gelişimi kompakt gömülü modüller (2-4 hafta), dönemlik mikro öğrenme, görev temelli tasarım döngüleri, işbirlikçi diyaloğa dayalı soru zincirleri, eleştirel ortak keşif ve kendi kendine yönelen uygulayıcı öğrenmesi olarak sınıflandırır. Sonuç kanıtı en çok **kompakt gömülü modüller** için güçlüdür: üç haftalık bir modül, altı Intelligent-TPACK alanının tamamında orta-büyük etki büyüklükleriyle istatistiksel olarak anlamlı kazanımlar üretmiş ve **436 öğretmen adayı ile bir kontrol koşulu** içeren dört haftalık bir program, bilgi tabanındaki en güçlü kontrollü değerlendirmedir ([[spyropoulou-genai-instructional-design-systematic-review-2026|Spyropoulou ve Kameas, 2026]]).
+- **Üç tasarım özelliği, en iyi kanıtlanmış müdahaleleri ayırır.** Etiğin tek başına bir oturum yerine **her görevde denetim noktaları olan dağıtılmış pratik** olarak gömülmesi; öz bildirimin güvenilmezliğinden doğrudan hareketle ders planları, karar günlükleri ve mikro öğretim kullanan **performans temelli yetkinlik değerlendirmesi**; ve istek metni mühendisliğinin yansıtıcı, pedagojik temelli bir pratik olarak geliştirilmesi. Benimseme, performansla aynı kaldıraç değildir: Kuzey Sumatra’daki 200 öğretmen arasında YZ kullanımının öğretmen performansı üzerinde doğrudan etkisi yokken (β = 0,112, p = .087) örgütsel vatandaşlık davranışı bunu dolaylı olarak taşımıştır; bu nedenle işbirlikçi, rol dışı kullanıma yönelen fakülte gelişimi çalışması kanıtın desteklediği sürümdür ([[ai-use-teacher-performance-north-sumatra-2026|Sherly ve ark. (2027)]]). Eşlik eden iki haftalık bir çalışma, bilgi ve güvende hızlı kazanımlar bulurken önyargı tespitini en zayıf gelişen yetkinlik olarak belirlemiştir; bu boşluk daha uzun modüle de taşınmıştır ve etik algısal kapasitenin teknolojik aşinalıktan daha yavaş gelişmesiyle tutarlıdır.
+
+## Yaygın yanlış anlamalar
+
+**“Bir beceri atölyesi, eğitim gelişiminin ihtiyaç duyduğu müdahaledir.”** Hazırbulunuş, bireysel bir eksiklik değil sosyoteknik bir hizalama sorunudur; bu yüzden tek başına bir “YZ atölyesi” ele aldığı ihtiyacın gerisinde kalır. Soruyu doğrudan ele alan bir program, Eğitim, Sağlık Bilimleri, İşletme ve diğer programlardan on fakülteyi kimlik düzeyinde bir çalışmadan geçiren **altı haftalık bir yaz enstitüsüydü**. Süre ve kohort o tasarımın arızi unsurları değildir; onu bir özellik turundan ayıran şeydir.
+
+**“Daha açık kurumsal yönergeler fakültenin huzursuzluğunu çözecektir.”** Yönergeler yardımcı olur ve soruna ulaşmaz. Malta’daki bir üniversitede akademik personelin yalnızca **%31,2’si** açık kurumsal yönergeler algılamış ve yönerge netliği ile daha düşük suçluluk arasındaki korelasyon **zayıftı (r = −0,25, p = .010)**. Bu ölçekte zayıf bir ilişki, tepeden inme buyrukların makalenin kısmen duygusal ve kimliğe dayalı bir sorun olarak okuduğu şeyi çözemeyeceği anlamına gelir; açıkladıkları varyansın beşte biri, önemli olan beşte biri değildir.
+
+**“YZ kullanımına ilişkin suçluluk, kural ihlalini gösterir.”** Suçluluk, ifşadan çok gizlemeyi izler: huzursuzluk nedeniyle YZ kullanımını sınırlamak, yasak davranışla değil onu saklamakla ilişkiliydi. Suçluluğu kötüye kullanımın kanıtı olarak okumak, kaynağını yanlış tanımlar ve onu bir uyum sinyali olarak ele almak davranışı daha da görünmezliğe iter.
+
+**“Düşük anket yanıt oranı, fakültenin güçlü duyguları olmadığı anlamına gelir.”** Makale, **109 yanıtını (%3,5 oran)** etik tartışmanın durumuna ilişkin olarak kendiliğinden bilgilendirici okur: rahatsızlık hakkındaki bir soruya düşük yanıt, o rahatsızlığa dair bir bulgudur, rahatsızlığın yokluğu değil. Ve yalnızca beceri geliştirme olarak çerçevelenmiş bir GenAI bütünleşmesi, bazı fakültenin gerçekte sorduğu kimlik sorusunu ıskalar: GenAI dünyasında öğretmenin anlamı nedir.
 
 ## Bağlı kavramlar
 
@@ -147,8 +160,8 @@ Güven ve okuryazarlık birbirinin yerine kullanılamaz hedeflerdir: üniversite
 - [[laidlaw-genai-identity-crisis-faculty-2026]] — GenAI as identity crisis, not skills gap
 - [[zuo-instructor-power-genai-writing-2026]] — Power relations perceived by college instructors grappling with GenAI in writing (Zuo, Xu & Dunning 2026)
 - [[reflective-triangle-model-teacher-ai-2026]] — Reflective Triangle Model: AI as cognitive mediator
-- [[sutedjo-faculty-genai-tpack-21-2026]]
-- [[intelligent-tpack-pd-intervention-hongkong-2025]] — Intelligent-TPACK PD: attendance predicts gains, self-perceived participation does not — Faculty self-perceived TPACK-21 knowledge for GenAI (Sutedjo, Chowdhury & Liu 2026)
+- [[sutedjo-faculty-genai-tpack-21-2026]] — GenAI için fakültenin öz algılı TPACK-21 bilgisi (Sutedjo, Chowdhury ve Liu 2026)
+- [[intelligent-tpack-pd-intervention-hongkong-2025]] — Intelligent-TPACK mesleki gelişim: kazanımları devam öngörür, öz algılı katılım öngörmez
 - [[instructional-design-proficiency-masters-math-2026]] — Smart-classroom model and D-T-E loop improving M.Ed. instructional design proficiency in mathematics (Zhu et al. 2026)
 - [[talebzadeh-ai-group-activity-roles-2026]] — Architecture of roles in AI-designed differentiated group activities (Talebzadeh 2026)
 - [[farazouli-navigating-uncertainty-teachers-genai-2026]] — University teachers' experiences and perceptions of GAI: vulnerability, rethinking assessment, student learning at risk (Farazouli et al. 2026)
@@ -158,3 +171,4 @@ Güven ve okuryazarlık birbirinin yerine kullanılamaz hedeflerdir: üniversite
 - [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Academic developers as digital mediators in Global South higher education: development as sociotechnical praxis
 - [[physics-faculty-learning-community-ai-2026]] — A Workshop Series for Effective Use of AI in Uncertain Times: Building a Physics Faculty Learning Community
 - [[faculty-ai-well-being-social-supports-2026]] — Faculty AI well-being tracks AI literacy rather than technological self-efficacy
+- [[ai-competence-framework-landscape-2026]]

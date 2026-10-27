@@ -13,7 +13,7 @@ connected_resources: [pause-ai-use-self-examination]
 confidence: high
 reviewed_by: [editor]
 translation_of: concepts/cognitive-surrender
-source_updated: "2026-09-30T07:29:37-04:00"
+source_updated: "2026-10-25T20:20:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -98,6 +98,16 @@ Teslimiyet alışkanlık haline mi gelir, yoksa kullanılmadıkça söner mi? [[
 ## Sınırlamalar
 
 Adlandırılmış bir yapı olarak teslimiyete dair kanıt, büyük ölçüde tek bir laboratuvar çalışma programına dayanır: uygun örneklemlerle, uyarlanmış bir Bilişsel Yansıma Testi üzerinde yürütülen önceden kaydedilmiş üç deney; bu deney mekanizmayı ve eğilimsel düzenleyicileri ortaya koyar ancak yüksek riskli mesleki yargıya [[transfer-of-learning|aktarım]] yapmaz. Tasarım ayrıca tek maruz kalımları yakalar; dolayısıyla teslimiyetin alışkanlık haline gelip gelmediğini veya birikimli olup olmadığını gösteren hiçbir şey içermez. Alan kanıtları gözlemseldir: ALEKS paneli, daha kötü gözetimli kalıcılıkla daha hızlı tamamlanma göstermektedir; ancak bunun teslimiyete nedensel bir atıf yapılması, çalışma stratejisi değişikliğinden ziyade, tasarımın sınayamayacağı varsayımlar gerektirir. Tanımlar literatürde hâlâ kararsızdır — yük dışarı aktarma, aşırı güven, bağımlılık, tutkunluk ve sorunlu kullanım rutin biçimde birbirine karıştırılır ve [[yan-conversational-ai-engagement-dependence-synthesis-2026|en az bir sentez]], bozulmuş denetim veya zarar olmadan sık devredilmenin bağımlılık olarak etiketlenmemesi gerektiğini savunur. Son olarak, güven, biliş ihtiyacı ve denetim davranışına ilişkin [[self-report-measures|öz-bildirimler]] olağan sınırlılıkları taşır ve sınıf kanıtlarının çoğu [[higher-ed|yükseköğretim]] ve [[k-12|ortaöğretim]] ile ilgilidir, erken dönem eğitimle değil.
+
+## Yaygın yanlış anlamalar
+
+**“Yük dışarı aktarma, aşırı güven ve teslimiyet aynı sorunun üç adıdır.”** Üç farklı başarısızlığı ve üç farklı çareyi adlandırırlar. Yük dışarı aktarma bilişsel işin devredilmesidir; aşırı güven, sisteme güvenilirliğinin hak ettiğinden fazla bel bağlamaktır; **teslimiyet** ise kendi cevabını oluşturmadan sistemin cevabını benimsemektir. Teslimiyet en ağır olanıdır, çünkü düzeltilecek bağımsız bir yargı kalmaz ve en kötü aktarılan da odur: hiç sahip olmadığı bir cevabı denetlemeyi kimseye öğretemezsiniz.
+
+**“İnsanlar doğrulayamadıkları bir YZ’ye güvenmez, dolayısıyla teslimiyet sınırlıdır.”** Deneysel imza, bunun tersi bir mekanizmanın işlediğini gösterir. Üç önceden kaydedilmiş deney, Bilişsel Yansıma Testini uyarlamış ve katılımcıların iyi bir asistanı kötüsünden ayırt edememesi için gizli tohum istek metinleri kullanarak *YZ doğruluğunu* rastgeleleştirmiştir; katılımcılar yine de **denemelerin çoğunluğunda danışmayı seçmiş (>%50)** ve ardından benimsemiştir. Temkinlilik üretmesi gereken opaklık, danışma üretmiş; danışma ise teslimiyetten önce gelmiştir.
+
+**“Çare daha iyi YZ’dir, çünkü teslimiyet hatalardan doğar.”** Teslimiyet etkileşimin *yapısından* doğar: makul bir cevabı ilk sırada üreten bir sistem, öğrenenin kendi cevabını üretmesi için gereken vesileyi ortadan kaldırır. Doğruluğu iyileştirmek yanlış cevaplardan gelen zararı azaltır ve yargı oluşturmaktan vazgeçmeye hiçbir şey yapmaz; araç gittikten sonra kalıcı olan zarar da budur.
+
+**“Eleştirel değerlendirmeyi öğretmek yeterlidir.”** Gereklidir ve çok geç gelir. Makul bir cevap ekranda olduğunda değerlendirme, onaylamaya dönüşür; bu yüzden buradaki tasarım literatürü, öğrencinin denemesini sistemin çıktısından sonra denetlemek yerine önce onu koyar.
 
 ## Bağlı kavramlar
 

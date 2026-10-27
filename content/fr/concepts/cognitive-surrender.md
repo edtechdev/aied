@@ -13,7 +13,7 @@ connected_faqs: [reducing-over-reliance, verify-ai-output, does-ai-help-students
 connected_resources: [pause-ai-use-self-examination]
 confidence: high
 translation_of: concepts/cognitive-surrender
-source_updated: "2026-09-30T07:29:37-04:00"
+source_updated: "2026-10-25T20:20:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -98,6 +98,16 @@ La capitulation s'habitue-t-elle, ou décroît-elle avec le désusage ? La [[cog
 ## Limitations
 
 Les données probantes en faveur de la capitulation comme construit nommé reposent largement sur un seul programme de travaux de laboratoire : trois expériences préenregistrées sur un Test de Réflexion Cognitive adapté avec des échantillons de commodité, qui établissent le mécanisme et les modérateurs dispositionnels mais ne se [[transfer-of-learning|transfèrent]] pas au jugement professionnel à enjeux élevés. Le dispositif ne capture aussi que des expositions uniques, si bien que rien ne montre si la capitulation s'habitue ou se cumule. Les données probantes de terrain sont observationnelles : le panel ALEKS montre une achèvement plus rapide avec une rétention surveillée moins bonne, mais une attribution causale à la capitulation plutôt qu'à un changement de stratégie d'étude exige des postulats que le dispositif ne peut pas éprouver. Les définitions restent instables dans la littérature — délestage, dépendance excessive, dépendance, attachement et usage problématique sont régulièrement confondus, et [[yan-conversational-ai-engagement-dependence-synthesis-2026|au moins une synthèse]] soutient qu'une délégation fréquente ne devrait pas être qualifiée de dépendance sans altération du contrôle ni préjudice. Enfin, les [[self-report-measures|auto-déclarations]] de confiance, de besoin de cognition et de comportement de vérification portent les limites habituelles, et une grande partie des données probantes de classe concerne l'[[higher-ed|enseignement supérieur]] et le [[k-12|secondaire]] plutôt que les premiers niveaux de scolarité.
+
+## Idées fausses courantes
+
+**« Délestage, dépendance excessive et capitulation sont trois mots pour un même problème. »** Ils nomment trois défaillances différentes, aux remèdes différents. Le délestage consiste à déléguer un travail cognitif ; la dépendance excessive, à s'appuyer sur le système au-delà de ce que sa fiabilité justifie ; la **capitulation**, à adopter la réponse du système sans s'en être formé une. La capitulation est la plus grave parce qu'il ne reste aucun jugement indépendant à corriger, et c'est celle qui se transfère le plus mal : on ne peut pas apprendre à quelqu'un à vérifier une réponse qu'il n'a jamais eue.
+
+**« Les gens ne feront pas confiance à une IA qu'ils ne peuvent pas vérifier, donc la capitulation est bornée. »** La signature expérimentale montre le mécanisme inverse à l'œuvre. Trois expériences préenregistrées ont adapté le Test de Réflexion Cognitive et randomisé l'*exactitude de l'IA* au moyen d'invites initiales cachées, si bien que les participants ne pouvaient distinguer un bon assistant d'un mauvais, et les participants **ont choisi de consulter dans une majorité d'essais (>50%)** avant d'adopter. L'opacité qui aurait dû produire de la prudence a produit de la consultation, et la consultation a précédé la capitulation.
+
+**« Le remède est une meilleure IA, puisque la capitulation découle des erreurs. »** La capitulation découle de la *structure* de l'interaction : un système qui produit d'abord une réponse plausible supprime l'occasion, pour l'apprenant, d'en produire une. Améliorer l'exactitude réduit le préjudice des réponses fausses et ne fait rien contre l'abandon de former un jugement, qui est le préjudice persistant une fois l'outil retiré.
+
+**« Enseigner l'évaluation critique suffit. »** C'est nécessaire, et cela arrive trop tard. Une fois une réponse plausible à l'écran, l'évaluation devient confirmation, ce qui explique pourquoi la littérature de conception citée ici place la tentative de l'étudiant avant la production du système plutôt que de l'auditer après coup.
 
 ## Concepts liés
 

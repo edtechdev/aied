@@ -12,7 +12,7 @@ connected_faqs: [top-10-findings-ai-education-instructors, incorporating-ai-lite
 confidence: high
 connected_resources: [claw-ed, education-agent-skills, edugems, id-toolbox, idstack, lesson-md, liascript, master-instructional-design, onmicro-ai, pedagogical-promptbook, playlab, vibes-diy, intelligent-textbooks, learning-design-wiki]
 translation_of: concepts/learning-design
-source_updated: "2026-10-24T09:56:38-04:00"
+source_updated: "2026-10-27T08:20:32-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -96,6 +96,15 @@ Fowlin et al. (2026) fügen einen operativen Zug hinzu, um zu entscheiden, wo KI
 **Gegen einen Benchmark evaluieren, nicht gegen Gefühl.** Wenn Sie einen Instruktionsdesignagenten bauen, evaluieren Sie ihn gegen einen standardisierten, theoriegegründeten Benchmark (z. B. [[jeon-isd-agent-bench-2026|ISD-Agent-Bench]]), sodass Sie messen können, ob Gründung in einem echten ISD-Rahmenwerk den Output tatsächlich gegenüber einem generischen LLM verbessert.([[jeon-isd-agent-bench-2026]])
 
 - **KI formt die Instruktionsdesignpraxis um.** [[kibar-ilgaz-ai-instructional-design-review-2026|Kibar & Ilgaz (2026)]] [[meta-analysis-systematic-review|reviewen systematisch]] 28 Studien (2020-2025) und finden, dass KI Designer bei Inhaltsgenerierung, Vorlagen und Personalisierung unterstützt, und als Co-Worker/Kollaborateur/Partner konzeptualisiert wird statt nur als Werkzeug —, obwohl pädagogische Abstimmung und Praktikerbereitschaft Herausforderungen bleiben.
+
+- **Die dokumentierte Aktivität konzentriert sich auf eine Phase des Zyklus.** In einem Review von 78 Studien zu KI-unterstütztem Instruktionsdesign erscheint Aktivität in der Design-Phase in **74 von 78 Studien (95%)** und in der Entwicklung in 44 (56%), während Analyse nur 11 (14%), Evaluation 10 (13%) und Implementierung 7 (9%) erreichen und **keine Studie KI-Unterstützung über den vollständigen ADDIE-Zyklus untersuchte**. Der Zyklus ist ein Anspruch, den die Evidenzbasis nicht abdeckt, was für alle zählt, denen „KI-gestützte Kursentwicklung“ als durchgängige Fähigkeit verkauft wird ([[spyropoulou-genai-instructional-design-systematic-review-2026|Spyropoulou & Kameas, 2026]]).
+- **Drei KI-Rollen, hierarchisch verteilt.** *Generative* Nutzung, bei der KI Designinhalte nach Anweisung der Lehrperson erzeugt, dominiert mit **96% der Studien**; *Scaffolding*-Nutzung, bei der KI das eigene Schlussfolgern der Designenden strukturiert, erscheint in 35%; *evaluative* Nutzung, bei der KI die Qualität von Artefakten bewertet, in 21%. Das Feld nutzt KI überwiegend, um Dinge herzustellen, statt die eigenen Designentscheidungen zu befragen, was das Gegenteil der Konfiguration als kritische Freundin ist, die der Review als pädagogisch vielversprechend hervorhebt.
+
+## Verbreitete Fehlvorstellungen
+
+- **„KI-Unterrichtsplanung gibt Lehrkräften Zeit zurück.“** Lehrkräfte in randomisierten Grundschulen **verbrachten 2,51 Stunden pro Woche mit der Vorbereitung von Lektionen mit dem Werkzeug gegenüber 3,32 Stunden ohne**, dennoch plante **die mediane Lehrkraft nur 21 % bis 40 % der Lektionen von Grund auf**. Zeit wurde gespart, und die Planung wurde nicht wesentlich gründlicher; die Einsparung fiel an, statt reinvestiert zu werden.
+- **„Co-Design mit KI ist gut belegt.“** Ein systematischer Review zu [[wang-teacher-ai-co-design-review-2026|Co-Design von Lernaufgaben durch Lehrkräfte und KI]] **bestätigt das Muster in großem Maßstab über 28 Studien**, was eine konsistente Praxis beschreibt, statt überlegene Ergebnisse nachzuweisen.
+- **„Die Rubrik ist eine feste Eingabe.“** Die Rubrik fungiert als **vermittelnde Schnittstelle zwischen menschlicher pädagogischer Absicht und maschineller Inferenz**: Beurteilungskriterien als **revidierbar** zu behandeln ist das, was dem Instrument erlaubt, die Absicht der Lehrperson zu tragen. Eine feste Rubrik überträgt die Standardrahmung der Maschine in die Beurteilung.
 
 ## Verbundene Konzepte
 

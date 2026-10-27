@@ -13,7 +13,7 @@ connected_resources: [pause-ai-use-self-examination]
 confidence: high
 reviewed_by: [editor]
 translation_of: concepts/cognitive-surrender
-source_updated: "2026-09-30T07:29:37-04:00"
+source_updated: "2026-10-25T20:20:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -98,6 +98,16 @@ Je, kujisalimisha huzoea, au hupungua na kutotumika? [[cognitive-washout-ai-skil
 ## Vizuizi
 
 Ushahidi wa kujisalimisha kama muundo uliotajwa unategemea kwa kiasi kikubwa mpango mmoja wa kazi ya maabara: majaribio matatu yaliyosajiliwa mapema juu ya Jaribio la Tafakari ya Kiakili lililobadilishwa na sampuli za urahisi, ambayo inaweka mbinu na wasimamizi wa mwelekeo lakini haiwezi [[transfer-of-learning|kuhamisha]] kwa hukumu ya kitaalamu ya kiwango cha juu. Ubini pia unakamata muingiliano mmoja, hivyo hakuna chochote ndani yake kinachoonyesha kama kujisalimisha huzoea au huongeza. Ushahidi wa uwanja ni wa uchunguzi: paneli ya ALEKS inaonyesha ukamilishaji wa haraka na uhifadhi mbaya uliosimamiwa, lakini ushahidi wa sababu kwa kujisalimisha badala ya kubadilika kwa mkakati wa kujifunza unahitaji dhana ambazo ubini hauwezi kuzijaribu. Maelezo bado hayakuwa thabiti katika fasihi — kupunguza mzigo, kutegemea kupita kiasi, utegemezi, uambatisho na matumizi yenye matatizo huchanganywa kwa kawaida, na [[yan-conversational-ai-engagement-dependence-synthesis-2026|angalau muunganisho mmoja]] unadai kuwa uwekaji wa mara kwa mara haupaswi kupewa lebo ya utegemezi bila udhibiti uliodhoofu au madhara. Hatimaye, [[self-report-measures|ripoti za kujitangaza]] za uaminifu, hitaji la ufikiri na tabia ya ukaguzi zina vizuizi vya kawaida, na ushahidi mwingi wa darasa unahusu [[higher-ed|elimu ya juu]] na [[k-12|sekondari]] badala ya shule za awali.
+
+## Dhana Potofu za Kawaida
+
+**"Kupunguza mzigo, kutegemea kupita kiasi na kujisalimisha ni maneno matatu ya tatizo moja."** Yanataja kushindwa tatu tofauti wenye tiba tofauti. Kupunguza mzigo ni kukabidhi kazi ya kiakili; kutegemea kupita kiasi ni kuitumaini mfumo zaidi ya kiwango ambacho kuegemea kwake kunastahili; **kujisalimisha** ni kukubali jibu la mfumo bila kuunda lako mwenyewe. Kujisalimisha ndiyo kali zaidi kwa sababu hakuna hukumu huru iliyobaki ya kusahihisha, na ndiyo inayohamishika vibaya zaidi: huwezi kumfundisha mtu kukagua jibu ambalo hakuwahi kuwa nalo.
+
+**"Watu hawatamwamini AI wasiyoweza kuithibitisha, hivyo kujisalimisha kuna mipaka."** Alama ya majaribio inaonyesha mbinu iliyo kinyume ikifanya kazi. Majaribio matatu yaliyosajiliwa mapema yalibadilisha Jaribio la Tafakari ya Kiakili na kupanga nasibu *usahihi wa AI* kwa ilani zilizofichwa za mbegu ili washiriki wasiweze kutofautisha msaidizi mzuri na mbaya, na washiriki **walichagua kushauriana katika wingi wa majaribio (>50%)** kisha wakakubali. Ukungu ambao ungepaswa kuzaa tahadhari ulizalisha ushauriano, na ushauriano ulitangulia kujisalimisha.
+
+**"Tiba ni AI bora, kwa kuwa kujisalimisha kunafuata makosa."** Kujisalimisha kunafuata *muundo* wa muingiliano: mfumo unaozalisha jibu linaloaminika kwanza unaondoa nafasi kwa mwanafunzi kuzalisha moja. Kuboresha usahihi kunapunguza madhara ya majibu yasiyosahihi na hakufanyi chochote kuhusu kuachwa kwa kuunda hukumu, ambayo ni madhara yanayobaki baada ya zana kuondolewa.
+
+**"Kufundisha tathmini makini kunatosha."** Ni lazima na kunachelewa. Mara jibu linaloaminika linapokuwa kwenye skrini, tathmini inakuwa uthibitisho, ndiyo sababu fasihi ya ubunifu hapa inaweka jaribio la mwanafunzi kabla ya matokeo ya mfumo badala ya kulikagua baadaye.
 
 ## Dhana Zilizounganishwa
 - [[cognitive-offloading]]

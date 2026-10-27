@@ -13,7 +13,7 @@ level: [k 12, higher ed]
 confidence: high
 connected_resources: [claw-ed, edugems, playlab, teacherserver]
 translation_of: concepts/teacher-ai-competency
-source_updated: "2026-10-24T09:56:38-04:00"
+source_updated: "2026-10-26T12:05:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -38,6 +38,9 @@ ai_assist:
 ## Einführung
 
 KI-Kompetenz von Lehrkräften ist bedeutsam, weil die Lehrkraft der entscheidende Faktor dafür ist, ob KI Lernen verbessert. Forschung zeigt konsistent, dass sich KI-Werkzeuge nur dann in bessere Ergebnisse übersetzen, wenn Lehrkräfte sie planen, Nutzung durch Lernende stützen, Ausgaben bewerten und sie in kohärenten Unterricht integrieren können. Die Literatur der Wissensbasis untersucht die *Dimensionen* dieser Kompetenz, die *Lücken* zwischen Selbstwahrnehmung und tatsächlicher Fähigkeit, und die *Professionalisierung*, die sie aufbaut.
+
+[[nunez-canal-stakeholder-engagement-ai-competency-2026|Nunez-Canal et al. (2026)]] verbinden KI-Kompetenz von Lehrenden direkt mit Studierendenergebnissen und argumentieren mit Humankapital- und Stakeholder-Theorien auf Basis einer Befragung von Lehrenden der Wirtschaftswissenschaften, dass die Investition von Hochschulen in die Kompetenz ihrer Lehrenden nicht optional ist.
+- **Prompting-Training kauft Zeit, nicht bessere Materialien.** In einem vorregistrierten RCT mit 204 Lehrkräften fanden Appel, Fervers und Piepenburg (2026), dass ChatGPT die Qualität von Unterrichtsvorbereitungsmaterialien verbesserte und die Vorbereitungszeit um 34% senkte, während früheres KI-Training eine weitere Zeitreduktion von 21% brachte, ohne die bewertete Qualität zu verbessern ([[appel-genai-teacher-lesson-preparation-experiment-2026|Appel et al., 2026]]). Trainierte Lehrkräfte schrieben längere Prompts und iterierten weniger; beide Wege erreichten gleiche Qualität.
 
 ## Kerndimensionen der Kompetenz
 
@@ -78,6 +81,9 @@ Die Lücke ist im Artefakt ebenso sichtbar wie in der Selbstauskunft. Eine [[ai-
 **Die Lücke zeigt sich auch als Nichtteilnahme.** [[watson-rainie-ai-challenge-faculty-survey-2026|Watson & Rainie (2026)]] befragten 1,057 Fakultätsmitglieder an US-amerikanischen Hochschulen Ende 2025 und fanden, dass 26% [[generative-ai|generative KI]]-Werkzeuge überhaupt nicht nutzen, wobei sich ein Drittter dafür entschied, sie nicht im Unterricht zu nutzen, und Nicht-Nutzung in den Künsten und [[humanities-education|Geisteswissenschaften]] konzentriert war (40%). Die institutionelle Seite der Lücke war größer als die individuelle: 68% sagten, ihre Hochschulen hätten Fakultät nicht auf die Nutzung generativer KI im Unterricht und in der Betreuung vorbereitet, und Fakultätsmitglieder nannten Widerstand von Kolleginnen und Kollegen (82%) und Unvertrautheit (83%) als führende Hindernisse für Übernahme auf Fächebene —, ein Bild, in dem sich Fähigkeitsaufbau, Peer-Normen und Politik alle zusammen bewegen müssen.
 
 **Professionalisierung im Studium umgeht die ethische Dimension der Kompetenz weitgehend.** Ein [[meta-analysis-systematic-review|systematischer Review]] zu KI in der ersten Lehrkräftebildung für angehende Primarstufenmathematik-Lehrkräfte ([[pinto-ai-initial-teacher-training-mathematics-review-2026|Pinto et al. 2026]], 11 aus 341 Datensätzen ausgewählte Studien) fand, dass die Interventionen auf kurzfristige technische und pädagogische Zuwächse konzentriert waren, wobei neun der elf kurze Interventionen über eine bis sechs Sitzungen hinweg durchführten, und berichtete, dass Ethik in nur drei der elf Studien adressiert wurde. Die Kompetenzrahmenwerke benennen ethisches Urteilsvermögen als Dimension; die Literatur zur Professionalisierung im Studium, die es aufbauen soll, lehrt oder misst es selten.
+
+- **Sieben Kompetenzcluster, mit Ethik als schwächstes Glied.** Eine thematische Synthese von 78 Studien ergibt Cluster für Prompt-Engineering, kritische Bewertung von KI-Ausgaben, ethisches Bewusstsein und Bias-Erkennung, pädagogisch-inhaltliche Ausrichtung, konzeptionelle KI-Kompetenz sowie menschliche Aufsicht und Reflexion. Prompt-Engineering war am konsistentesten dokumentiert und verhält sich als **Entwicklungsspektrum** statt als Einzelfähigkeit, weshalb die Reviewenden argumentieren, es sei am besten als pädagogisches Schlussfolgern in einem neuen Medium zu verstehen: der Prompt als externalisierte Designentscheidung. Ethisches Bewusstsein war die **am schwächsten dokumentierte Kompetenz** in den Studien zur Lehrkräftebildung ([[spyropoulou-genai-instructional-design-systematic-review-2026|Spyropoulou & Kameas, 2026]]).
+- **Lehrkräfte überschätzen ihre eigene Bewertungsfähigkeit.** Über den Befund hinaus, dass nur **38,3% der KI-generierten Lernziele ohne Überarbeitung alle Qualitätskriterien erfüllten**, überschätzen angehende Lehrkräfte **systematisch ihre Fähigkeit, Chatbot-Ausgaben zu bewerten**, was die Reviewenden als mögliches Wahrnehmungs- statt Erklärungsdefizit lesen. Deshalb argumentieren sie, Kompetenz solle über Performanzartefakte (Unterrichtspläne, Entscheidungsprotokolle, Micro-Teaching) statt über Selbstauskunft bewertet werden: Die Unzuverlässigkeit der Selbsteinschätzung ist in genau der Literatur gezeigt, die das Training adressieren soll.
 
 ## Professionalisierung, die funktioniert
 
@@ -124,6 +130,12 @@ Während KI routinemäßige Instruktions- und Assessmentaufgaben übernimmt, ver
 - Eine psychometrische Studie entwickelte die Teachers' AI Literacy Scale (TAILS), um KI-Kompetenz spezifisch innerhalb der [[teacher-education|Sprachlehrkräftebildung]] zu messen, und operationalisiert die sechs Dimensionen des ED-AI-Rahmenwerks. Die Entwicklung des Instruments füllt eine Lücke in Assessments, die auf Lernende oder allgemeine Nutzende zielen, und unterstützt die Messung der KI-Kompetenz von Lehrkräften.
 
 Die Instrumentenlandschaft selbst ist inzwischen reviewt worden. [[assessing-teachers-ai-literacy-measurement-tools-2026|Zainal, Mohd Matore und Maats systematischer Review von 2026 zu Instrumenten zur Messung von KI-Kompetenz bei Lehrkräften]] begutachtete 33 zwischen 2019 und 2025 veröffentlichte Instrumente und fand das Feld methodisch monoton: 31 (93.9%) sind Selbstauskunftsskalen wahrgenommener Zuversicht, nur zwei (6.1%) testen Wissen objektiv, und keine nutzen leistungsbasierte Aufgaben. Interne Konsistenz war die stärkste Qualitätsdomäne (28 von 33 bei Grad A) und Fairness die schwächste, wobei fünf Instrumente (15.2%) Evidenz zu Messinvarianz oder differentiellem Itemfunktionieren berichteten. Inhalt hinkt der Technologie ebenfalls hinterher, da 29 Instrumente (87.9%) auf allgemeine KI-Konzepte zielen und nur vier (12.1%), alle aus 2025, generative KI adressieren.
+
+## Verbreitete Fehlvorstellungen
+
+- **„Prompting-Training macht die Materialien von Lehrkräften besser.“** **Prompting-Training kauft Zeit, nicht bessere Materialien**: In einem **vorregistrierten RCT mit 204 Lehrkräften** fanden Appel, Fervers und Piepenburg (2026), dass ChatGPT die **aufgewendete Zeit** verbesserte, während die Materialqualität nicht folgte. Der Effizienzgewinn ist real, und er ist nicht der Qualitätsgewinn.
+- **„Wenn Lehrkräfte einen Chatbot konfigurieren, ist der Fehler eine sachliche Falschaussage.“** **Wenn Lehrkräfte einen Chatbot in natürlicher Sprache konfigurieren, ist der dominante Fehler verlorene Absicht statt falscher Fakten**: Bots **überspringen** den Schritt, den die Lehrkraft meinte. Instruktionsbefolgung scheitert strukturell statt sachlich.
+- **„Technische Fähigkeit ist die entscheidende Ebene.“** **Pädagogisches Wissen ist die entscheidende Ebene**: eine Cross-Level-Studie zur [[ai-education|KI-Bildung]] in der Sekundarstufe [[pedagogy-first-technology-second-teacher-knowledge-2026|Shen et al., 2026]]. Die Kompetenz, die das Ergebnis bestimmt, ist die, in die die meisten Fortbildungsprogramme am wenigsten investieren.
 
 ## Verbundene Konzepte
 

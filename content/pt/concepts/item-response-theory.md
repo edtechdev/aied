@@ -19,12 +19,12 @@ ai_assist:
 
 *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
 
-> **Teoria de resposta ao item (TRI, IRT)** — uma família de modelos psicométricos que estimam a habilidade latente a partir das respostas aos itens, modelando a relação entre a habilidade de quem aprene e a probabilidade de acertar cada item. A TRI modela a dificuldade e a discriminação dos itens, viabilizando precisão de mensuração e testagem adaptativa. Na era da IA, a TRI encontra as [[llm|LLMs]] na [[llm-item-difficulty-prediction|predição de dificuldade de itens por LLM]] e na [[llm-psychometric-calibration-cdp|calibração psicométrica por LLM]]: a IA prevê e calibra a dificuldade dos itens, potencialmente melhorando a precisão da mensuração e alimentando a [[adaptive-learning|aprendizagem adaptativa]].
+> **Teoria de resposta ao item (TRI, IRT)** — uma família de modelos psicométricos que estimam a habilidade latente a partir das respostas aos itens, modelando a relação entre a habilidade de quem aprende e a probabilidade de acertar cada item. A TRI modela a dificuldade e a discriminação dos itens, viabilizando precisão de mensuração e testagem adaptativa. Na era da IA, a TRI encontra as [[llm|LLMs]] na [[llm-item-difficulty-prediction|predição de dificuldade de itens por LLM]] e na [[llm-psychometric-calibration-cdp|calibração psicométrica por LLM]]: a IA prevê e calibra a dificuldade dos itens, potencialmente melhorando a precisão da mensuração e alimentando a [[adaptive-learning|aprendizagem adaptativa]].
 
 ## Perguntas para refletir
 
 - A teoria de resposta ao item trata a habilidade e a dificuldade do item como estimadas conjuntamente a partir dos padrões de resposta, em vez de tratar a nota bruta do teste como a medida. Como dois estudantes com o mesmo número de acertos poderiam de fato diferir em habilidade?
-- A TRI permite comparar quem aprene em uma escala comum e estimar a precisão por pessoa. Por que saber a dificuldade e a discriminação de um item poderia importar mais do que apenas saber se um estudante acertou?
+- A TRI permite comparar quem aprende em uma escala comum e estimar a precisão por pessoa. Por que saber a dificuldade e a discriminação de um item poderia importar mais do que apenas saber se um estudante acertou?
 - Um estudo usou estatísticas de ajuste pessoal da TRI para distinguir respostas humanas de respostas geradas por IA em testes de múltipla escolha — sinalizando as respostas da IA como \"aberrantes\". Como a mesma maquinaria de mensuração que avalia a aprendizagem poderia também policiar a integridade acadêmica?
 - [[research-methods-aied|Pesquisadores]] usam a TRI para validar que questões de exame geradas por IA se equiparam às escritas por especialistas em dificuldade e discriminação. Se uma IA escreve um item que \"parece\" bom, por que a calibração empírica contra parâmetros de TRI ajustados ainda é necessária?
 - À medida que a IA prevê e calibra a dificuldade dos itens, o que poderia dar errado se a estimativa de dificuldade de um modelo não for validada contra dados reais de resposta dos estudantes?
@@ -32,13 +32,13 @@ ai_assist:
 
 ## Introdução
 
-A TRI trata a habilidade (θ) e os parâmetros dos itens (dificuldade, discriminação, às vezes adivinhação) como estimados conjuntamente a partir dos padrões de resposta, em vez de tratar a nota bruta como a medida. Isso torna possível comparar quem aprene em uma escala comum, selecionar itens de forma adaptativa e estimar a precisão por pessoa, e não globalmente.
+A TRI trata a habilidade (θ) e os parâmetros dos itens (dificuldade, discriminação, às vezes adivinhação) como estimados conjuntamente a partir dos padrões de resposta, em vez de tratar a nota bruta como a medida. Isso torna possível comparar quem aprende em uma escala comum, selecionar itens de forma adaptativa e estimar a precisão por pessoa, e não globalmente.
 
 ### Como a TRI aparece na pesquisa
 
 - **Dificuldade prevista por IA:** a [[llm-item-difficulty-prediction|predição de dificuldade de itens por LLM]] usa modelos de linguagem para estimar a dificuldade dos itens, o que precisa ser validado contra parâmetros de TRI ajustados empiricamente.
 - **Calibração psicométrica:** a [[llm-psychometric-calibration-cdp|calibração psicométrica por LLM]] alinha a avaliação baseada em modelos com a mensuração baseada em TRI, de modo que as respostas geradas por IA preservem as propriedades de mensuração.
-- **Rastreamento de conhecimento e modelagem do estudante:** a TRI está intimamente relacionada ao [[knowledge-tracing|rastreamento de conhecimento]] e à [[student-modeling|modelagem do estudante]] — modelos que rastreiam o conhecimento de quem aprene ao longo do tempo — compartilhando o objetivo de estimar estados inobserváveis de quem aprene a partir de respostas observáveis.
+- **Rastreamento de conhecimento e modelagem do estudante:** a TRI está intimamente relacionada ao [[knowledge-tracing|rastreamento de conhecimento]] e à [[student-modeling|modelagem do estudante]] — modelos que rastreiam o conhecimento de quem aprende ao longo do tempo — compartilhando o objetivo de estimar estados inobserváveis de quem aprende a partir de respostas observáveis.
 
 - **Quantidades de TRI lidas dos logits das LLMs.** [[huang-interpretable-knowledge-tracing-2026|Huang et al. (2026)]] extraem a habilidade do estudante θ = z^GOOD − z^BAD e a dificuldade do turno do tutor d = z^HARD − z^EASY dos logits de próximo token e as combinam em um preditor Rasch 1PL, tornando o rastreamento de conhecimento baseado em diálogo interpretável (64,29% de precisão, 65,25 de AUC no QATD2k).
 

@@ -11,7 +11,7 @@ level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: concepts/educational-development
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-26T04:35:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -111,6 +111,19 @@ La confiance et la littératie ne sont pas des cibles interchangeables : dans un
 
 **La réponse des enseignants reflète les centres de pouvoir, et non l'attitude.** Dans une étude de cas instrumentale portant sur 33 enseignants d'écriture, quatre centres de pouvoir polycentriques — la tendance mondiale de l'IAG, l'université/le département, les collègues et les étudiants — ont façonné la pratique, et les vacataires, contraints par un pouvoir discursif limité, sont passés de la détection à l'enseignement de l'usage acceptable ([[zuo-instructor-power-genai-writing-2026|Zuo et al. (2026)]]).
 
+- **Six familles de développement professionnel, trois bien étayées et une gagnante nette.** Une revue de 78 études sur la conception pédagogique soutenue par l'IA classe le développement professionnel documenté en modules compacts intégrés (2 à 4 semaines), microapprentissage sur un semestre, cycles de conception fondés sur des tâches, chaînes de questions collaboratives fondées sur le dialogue, co-découverte critique et apprentissage autonome du praticien. Les données sur les résultats sont les plus solides pour les **modules compacts intégrés** : un module de trois semaines a produit des gains statistiquement significatifs sur les six domaines de l'Intelligent-TPACK avec des tailles d'effet moyennes à grandes, et un programme de quatre semaines réunissant **436 enseignants en formation initiale et une condition témoin** constitue l'évaluation contrôlée la plus solide du corpus ([[spyropoulou-genai-instructional-design-systematic-review-2026|Spyropoulou & Kameas, 2026]]).
+- **Trois caractéristiques de conception distinguent les interventions les mieux étayées.** L'éthique intégrée comme **pratique distribuée avec des points de contrôle à chaque tâche** plutôt que comme une séance autonome ; une **évaluation de la compétence fondée sur la performance** au moyen de plans de leçons, de journaux de décisions et de micro-enseignement, motivée directement par le manque de fiabilité de l'auto-déclaration ; et la formulation d'invites développée comme une pratique réflexive et ancrée pédagogiquement. L'adoption n'est pas le même levier que la performance : chez 200 enseignants du nord de Sumatra, l'usage de l'IA n'avait aucun effet direct sur la performance enseignante (β = 0,112, p = 0,087), tandis que le comportement de citoyenneté organisationnelle le portait indirectement, si bien que le travail de développement du corps enseignant visant un usage collaboratif hors rôle est la version que les données probantes soutiennent ([[ai-use-teacher-performance-north-sumatra-2026|Sherly et al. (2027)]]). Une étude complémentaire de deux semaines a trouvé des gains rapides de connaissances et de confiance tout en identifiant la détection des biais comme la compétence émergente la plus faible, un écart qui persistait dans le module plus long, conformément à une capacité perceptive éthique qui se développe plus lentement que la familiarité technologique.
+
+## Idées fausses courantes
+
+**« Un atelier de compétences est l'intervention dont le développement éducatif a besoin. »** La préparation est un problème d'alignement sociotechnique, non un déficit individuel, et c'est pourquoi un « atelier sur l'IA » autonome reste en deçà du besoin qu'il prétend couvrir. Un programme qui a travaillé la question directement est un **institut d'été de six semaines** ayant conduit dix enseignants de l'éducation, des sciences de la santé, de la gestion et d'autres programmes à un travail sur le plan identitaire. La durée et la cohorte ne sont pas accessoires à cette conception ; elles sont ce qui la distingue d'une visite guidée des fonctionnalités.
+
+**« Des lignes directrices institutionnelles plus claires résoudront le malaise du corps enseignant. »** Les lignes directrices aident et elles n'atteignent pas le problème. Seuls **31,2 %** du personnel académique d'une université maltaise percevaient des lignes directrices institutionnelles claires, et la corrélation entre la clarté des lignes directrices et une culpabilité plus faible était **faible (r = −0,25, p = 0,010)**. Une relation faible à cette échelle signifie que les mandats descendants ne peuvent pas trancher ce que l'article lit comme un problème en partie émotionnel et identitaire : le cinquième de la variance qu'ils expliquent n'est pas le cinquième qui compte.
+
+**« La culpabilité liée à l'usage de l'IA indique une transgression des règles. »** Elle suit la dissimulation plutôt que la déclaration : limiter son usage de l'IA par malaise était corrélé au fait de le cacher, et non à un comportement interdit. Lire la culpabilité comme preuve de manquement identifie donc mal sa source, et la traiter comme un signal de conformité poussera le comportement plus loin encore hors du regard.
+
+**« Un faible taux de réponse à l'enquête signifie que le corps enseignant n'a pas d'opinion arrêtée. »** L'article lit ses **109 réponses (un taux de 3,5 %)** comme informatives en elles-mêmes sur l'état du débat éthique : une faible réponse à une question sur le malaise est un constat sur ce malaise, non une absence de malaise. Et une intégration de l'IA générative formulée uniquement comme montée en compétences manque la question identitaire que certains enseignants posent réellement : quel est le sens de l'enseignement dans un monde façonné par l'IA générative.
+
 ## Concepts liés
 
 - [[teacher-ai-competency]]
@@ -148,8 +161,8 @@ La confiance et la littératie ne sont pas des cibles interchangeables : dans un
 - [[laidlaw-genai-identity-crisis-faculty-2026]] — L'IAG comme crise d'identité, et non comme écart de compétences
 - [[zuo-instructor-power-genai-writing-2026]] — Rapports de pouvoir perçus par des enseignants universitaires aux prises avec l'IA générative en écriture (Zuo, Xu & Dunning 2026)
 - [[reflective-triangle-model-teacher-ai-2026]] — Le Reflective Triangle Model : l'IA comme médiateur cognitif
-- [[sutedjo-faculty-genai-tpack-21-2026]]
-- [[intelligent-tpack-pd-intervention-hongkong-2025]] — Développement professionnel Intelligent-TPACK : l'assiduité prédit les gains, la participation perçue par soi-même ne le fait pas — La connaissance auto-perçue du TPACK-21 par les enseignants pour l'IAG (Sutedjo, Chowdhury & Liu 2026)
+- [[sutedjo-faculty-genai-tpack-21-2026]] — Connaissance auto-perçue du TPACK-21 par les enseignants pour l'IAG (Sutedjo, Chowdhury & Liu 2026)
+- [[intelligent-tpack-pd-intervention-hongkong-2025]] — Développement professionnel Intelligent-TPACK : l'assiduité prédit les gains, la participation perçue par soi-même ne le fait pas
 - [[instructional-design-proficiency-masters-math-2026]] — Un modèle de classe intelligente et une boucle D-T-E améliorant la maîtrise de la conception pédagogique dans un master en éducation en mathématiques (Zhu et al. 2026)
 - [[talebzadeh-ai-group-activity-roles-2026]] — Architecture des rôles dans les activités de groupe différenciées conçues par l'IA (Talebzadeh 2026)
 - [[farazouli-navigating-uncertainty-teachers-genai-2026]] — Les expériences et perceptions de l'IAG chez les enseignants universitaires : vulnérabilité, remise en question de l'évaluation, apprentissage des étudiants en danger (Farazouli et al. 2026)

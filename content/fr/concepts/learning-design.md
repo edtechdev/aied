@@ -17,7 +17,7 @@ ai_assist:
     date: "2026-10-10"
     agent: hermes-agent
 translation_of: concepts/learning-design
-source_updated: "2026-10-24T09:56:38-04:00"
+source_updated: "2026-10-27T08:20:32-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ---
@@ -97,6 +97,15 @@ Fowlin et al. (2026) ajoutent un geste opérationnel pour décider où l'IA inte
 **Évaluer face à un référentiel, pas à l'intuition.** Si vous construisez un agent de conception pédagogique, évaluez-le face à un référentiel standardisé et fondé théoriquement (par exemple [[jeon-isd-agent-bench-2026|ISD-Agent-Bench]]) afin de pouvoir mesurer si l'ancrage dans un véritable cadre ISD améliore réellement la production par rapport à un LLM générique.([[jeon-isd-agent-bench-2026]])
 
 - **L'IA refaçonne la pratique de la conception pédagogique.** [[kibar-ilgaz-ai-instructional-design-review-2026|Kibar & Ilgaz (2026)]] [[meta-analysis-systematic-review|passent en revue systématiquement]] 28 études (2020-2025) et montrent que l'IA assiste les concepteurs pour la génération de contenus, les modèles et la personnalisation, et qu'elle est conceptualisée comme un collègue/collaborateur/partenaire plutôt que comme un simple outil — bien que l'alignement pédagogique et la préparation des praticiens demeurent des défis.
+
+- **L'activité documentée se concentre sur une seule phase du cycle.** Dans une revue de 78 études sur la conception pédagogique soutenue par l'IA, l'activité de la phase de Conception apparaît dans **74 études sur 78 (95 %)** et celle de Développement dans 44 (56 %), tandis que l'Analyse n'atteint que 11 études (14 %), l'Évaluation 10 (13 %) et l'Implémentation 7 (9 %), et **aucune étude n'a examiné le soutien de l'IA sur le cycle ADDIE complet**. Le cycle est une aspiration que la base de preuves ne couvre pas, ce qui compte pour quiconque se voit vendre le « développement de cours propulsé par l'IA » comme une capacité de bout en bout ([[spyropoulou-genai-instructional-design-systematic-review-2026|Spyropoulou & Kameas, 2026]]).
+- **Trois rôles de l'IA, répartis hiérarchiquement.** L'usage *génératif*, où l'IA produit du contenu de conception sous la direction de l'éducateur, domine à **96 % des études** ; l'usage d'*étayage*, où l'IA structure le raisonnement du concepteur lui-même, apparaît dans 35 % ; l'usage *évaluatif*, où l'IA évalue la qualité d'un artefact, dans 21 %. Le champ utilise massivement l'IA pour fabriquer des choses plutôt que pour interroger ses propres décisions de conception, ce qui est l'inverse de la configuration d'ami critique que la revue désigne comme pédagogiquement prometteuse.
+
+## Idées fausses courantes
+
+- **« La planification de leçons par l'IA rend du temps aux enseignants. »** Les enseignants d'écoles primaires randomisées ont **passé 2,51 heures par semaine à préparer leurs leçons avec l'outil contre 3,32 heures sans lui**, et pourtant **l'enseignant médian ne planifiait de zéro que 21 % à 40 % des leçons**. Du temps a été gagné sans que la planification devienne nettement plus approfondie : l'économie s'est accumulée au lieu d'être réinvestie.
+- **« La co-conception avec l'IA est bien étayée. »** Une revue systématique de la [[wang-teacher-ai-co-design-review-2026|co-conception de tâches d'apprentissage entre enseignants et IA]] **confirme le schéma à grande échelle sur 28 études**, ce qui décrit une pratique constante plutôt que la démonstration de résultats supérieurs.
+- **« La grille d'évaluation est une donnée fixe. »** La grille fonctionne comme une **interface médiatrice entre l'intention pédagogique humaine et l'inférence de la machine** : traiter les critères d'évaluation comme **révisables** est ce qui permet à l'instrument de porter l'intention de l'éducateur. Une grille fixe transfère dans l'évaluation le cadrage par défaut de la machine.
 
 ## Concepts liés
 

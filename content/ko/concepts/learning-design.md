@@ -12,7 +12,7 @@ connected_faqs: [top-10-findings-ai-education-instructors, incorporating-ai-lite
 confidence: high
 connected_resources: [claw-ed, education-agent-skills, edugems, id-toolbox, idstack, lesson-md, liascript, master-instructional-design, onmicro-ai, pedagogical-promptbook, playlab, vibes-diy, intelligent-textbooks]
 translation_of: concepts/learning-design
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-27T08:20:32-04:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -49,6 +49,8 @@ ai_assist:
 ### 주요 연구 주제
 
 **AI 지원 콘텐츠 제작**은 가장 직접적으로 전환적인 적용입니다. **[[curriculum-as-code-instructional-design-2026|Curriculum as Code]]**는 생성형 AI를 LaTeX와 Python과 결합하여 [[stem-education|STEM]] 자료 제작을 자동화하는 6단계 구조를 제시하며, 8개 모듈과 28개의 프로젝트 맥락에 걸쳐 검증되었고 학습자의 품질 평점은 10점 만점에 8.5~9.9점이었습니다. **[[instructional-agents-multi-agent-course-gen|Instructional Agents]]**는 ADDIE 모형을 축으로 구성된 다중 에이전트 프레임워크를 사용하여, 역할 기반 에이전트(담당 교수, 수업 설계자, 강좌 코디네이터)가 협력하여 완결된 강좌 자료를 생성합니다. **[[courseblueprint-adaptive-video-generation|CourseBlueprint]]**는 강좌 말뭉치에 기반한 적응형 [[pedagogy|교수법적]] [[video-education|영상 생성]]을 위한 구조화된 파이프라인을 제공하며, 교육 콘텐츠 생성에 AI 활용 능력이 아니라 명시적인 교수법적 구조가 필수적임을 보여 줍니다. [[generative-ai|생성형 AI]] 플랫폼은 자신이 만들어 내는 콘텐츠에 학습 설계 원칙을 구현할 수도 있습니다. [[ai-modeling-problem-generation-platform-2026|수학적 모델링 문제를 생성하는 AI 기반 플랫폼]]은 확립된 설계 원칙과 [[prompt-engineering|검색 증강 생성]]을 결합하고, ADDIE 접근을 거쳐 기존의 콘텐츠 생성기가 만들어 내지 못하는 교수법에 기반한 과제와 권고를 산출했습니다. 그러나 이러한 AI 지원 콘텐츠와 수업 생성의 효과는 교수자 자신의 전문성에 따라 좌우됩니다. [[choi-teacher-ai-interaction-lesson-design-2026|Choi 등(2026)]]은 경험이 많은 교수자가 AI가 생성한 수업 아이디어를 학생과 맥락에 맞추어 비판적으로 변용하는 반면(재프롬프트와 산출물 보완), 신규 교수자는 AI의 제안을 그대로 받아들이는 경향이 있음을 발견했습니다. 즉 AI 콘텐츠 도구의 교수법적 가치는 도구가 아니라 교수자의 경험과 AI 활용 능력에 달려 있습니다. 학습 과제의 교수-AI 공동 설계에 대한 [[wang-teacher-ai-co-design-review-2026|체계적 고찰]](Wang, Liu & Islam 2026)은 28개 연구(2015–2025)에 걸쳐 이 양상을 큰 규모에서 확인합니다. GenAI는 주로 수업 계획, 프롬프트 생성, 창조적 아이디어 산출에 쓰이며, 지배적인 협업 양상은 더 완전한 공동 설계자가 아니라 조력자이자 콘텐츠 생성자로서의 AI입니다. 효율성, 응답성, [[creativity]], [[equity-in-ai-education|형평성]]이 되풀이되는 이점으로 나타납니다. [[talebzadeh-ai-group-activity-roles-2026|Talebzadeh (2026)]]는 모둠 활동 설계에 대한 교수자 전문성의 발견을 더 분명히 합니다. 경험이 많은 교수자는 AI에 익숙한 정도와 무관하게 신규 교수자보다 더 풍부하고 더 시너지적이며 ZPD에 더 잘 맞춘 역할 구성을 AI가 설계한 협력 활동에서 만들어 내며, AI 산출물을 효과적인 [[collaborative-learning|차별화된 모둠 학습]]으로 바꾸는 지렛대가 '교수법적 프롬프트 리터러시'임을 드러냅니다.
+
+Aila 시험은 그 양상에 계획 시간 수치를 붙입니다. 무작위 배정된 초등학교의 교사들은 이 도구로 주당 2.51시간을 수업 준비에 썼고 도구 없이는 3.32시간을 썼지만, 중앙값 교사는 수업의 21%에서 40%만을 처음부터 계획했으며, 이는 처음부터 설계하는 도구가 다루는 사례입니다([[roy-aila-lesson-planning-teacher-choices-2026|Roy et al., 2026]]).
 
 생성된 자료가 부족한 지점은 교육과정과의 적합성입니다. 수학 교사 일곱 명은 AI가 생성한 생산적 실패 문제를 전반적 품질에서는 인간이 만든 문제에 근접하게 평가했으나(25점 만점에 M = 17.19 대 17.43), 교육과정 정렬에서는 더 낮게 평가했습니다(M = 2.57 대 3.29). 따라서 생성된 문제는 길이, 읽기 난이도, 시각 자료에 대한 수정이 여전히 필요했습니다([[rhaimi-productivemath-2025|Rhaimi 등(2025)]]).
 
@@ -102,6 +104,15 @@ Fowlin 등(2026)은 AI가 어디에 들어갈지를 결정하는 실행적 방�
 
 - **AI가 수업 설계 실천을 다시 규정하고 있습니다.** [[kibar-ilgaz-ai-instructional-design-review-2026|Kibar & Ilgaz (2026)]]는 [[meta-analysis-systematic-review|체계적으로 검토한]] 28개 연구(2020–2025)에서 AI가 설계자의 콘텐츠 생성, 템플릿, 개인화를 돕고, 단순한 도구가 아니라 동료이자 협력자, 파트너로 개념화되지만, 교수법적 정렬과 실천자의 준비 상태는 여전히 과제로 남는다고 밝힙니다.
 
+- **문서화된 활동은 주기의 한 단계에 집중되어 있습니다.** AI 지원 수업 설계에 관한 78편의 연구를 검토한 결과, 설계 단계 활동은 **78편 중 74편(95%)**에 나타나고 개발은 44편(56%)이지만, 분석은 11편(14%), 평가는 10편(13%), 실행은 7편(9%)에 그쳤으며, **어떤 연구도 전체 ADDIE 주기에 걸친 AI 지원을 검토하지 않았습니다.** 이 주기는 근거 기반이 다루지 못하는 열망이며, "AI 기반 강좌 개발"을 처음부터 끝까지의 역량으로 팔리는 사람에게 중요합니다([[spyropoulou-genai-instructional-design-systematic-review-2026|Spyropoulou & Kameas, 2026]]).
+- **세 가지 AI 역할, 위계적으로 분포.** *생성적* 사용, 즉 교육자의 지시대로 AI가 설계 콘텐츠를 산출하는 것이 **연구의 96%**로 지배적이며, 설계자 자신의 추론을 AI가 구조화하는 *스캐폴딩* 사용은 35%, 산출물의 질을 AI가 평가하는 *평가적* 사용은 21%에 나타납니다. 이 분야는 압도적으로 무언가를 만들기 위해 AI를 쓰고 있으며, 자기 설계 결정을 심문하는 데는 쓰지 않습니다. 이는 검토가 교육적으로 유망하다고 지목한 비판적 친구 구성과 정반대입니다.
+
+## 흔한 오해
+
+- **"AI 수업 계획은 교사에게 시간을 돌려준다."** 무작위 배정된 초등학교의 교사들은 **도구로 주당 2.51시간을 수업 준비에 썼고 도구 없이는 3.32시간을 썼지만**, **중앙값 교사는 수업의 21%에서 40%만을 처음부터 계획했습니다**. 시간은 절약되었지만 계획이 실질적으로 더 철저해지지는 않았습니다. 절약은 재투자되지 않고 쌓였습니다.
+- **"AI와의 공동 설계는 근거가 잘 갖춰져 있다."** [[wang-teacher-ai-co-design-review-2026|학습 과제의 교사-AI 공동 설계]]에 대한 체계적 검토는 **28편의 연구에 걸쳐 그 양상을 규모 있게 확인**하며, 이는 우월한 결과를 입증한 것이 아니라 일관된 실천을 기술한 것입니다.
+- **"루브릭은 고정된 입력이다."** 루브릭은 **인간의 교수법적 의도와 기계의 추론 사이의 매개 인터페이스**로 기능합니다. 평가 기준을 **수정 가능한** 것으로 다루는 것이 그 도구가 교육자의 의도를 실어 나르게 합니다. 고정된 루브릭은 기계의 기본 틀 짓기를 평가로 전이합니다.
+
 ## 연결된 개념
 
 - [[interpreting-and-applying-aied-research]]
@@ -132,6 +143,7 @@ Fowlin 등(2026)은 AI가 어디에 들어갈지를 결정하는 실행적 방�
 
 ## 연결된 문서
 
+- [[roy-aila-lesson-planning-teacher-choices-2026]] - 측정된 계획 시간 절약과 함께, 교사들이 수업의 21%에서 40%만을 처음부터 계획한다는 발견
 - [[powerful-learning-with-emerging-technology-2025]] — 신기술을 활용한 강력한 학습
 - [[claassen-learning-analytics-genai-learning-design-2026]] — 학습 설계 의사결정에서의 학습 분석과 생성형 AI
 - [[tang-chatbots-learning-design-2026]] — 학습 설계에서의 챗봇 활용: 설계자들은 콘텐츠 생성보다 결과와 교수법에 집중함 (Tang et al. 2026)

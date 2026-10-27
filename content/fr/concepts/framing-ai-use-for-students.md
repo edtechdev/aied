@@ -11,7 +11,7 @@ level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai, governance]
 translation_of: concepts/framing-ai-use-for-students
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-25T18:05:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -28,7 +28,7 @@ ai_assist:
 ## Questions à examiner
 
 - Le simple fait de rendre l'IA accessible aux étudiants a été associé à un usage inefficace, voire contraire à l'éthique, tandis que le fait de présenter et d'intégrer explicitement un usage approprié améliorait les résultats. Si la présence de l'outil compte moins que la manière dont il est présenté, qu'est-ce que cela suggère quant à l'importance accordée au seul fait de « donner l'IA aux étudiants » ?
-- La connaissance qu'ont les étudiants des règles institutionnelles sur l'IA n'entretient que des liens faibles avec ce qu'ils font réellement — la plupart utilisent l'IA générative, beaucoup ne savent pas si leur usage est conforme, et ils se tournent vers des outils accessés de manière privée. Pourquoi les règles ne parviennent-elles pas à changer les comportements, et qu'est-ce qui pourrait persuader, au lieu de seulement informer ?
+- La plupart des étudiants utilisent l'IA générative, beaucoup ne savent pas si leur usage est conforme, et ils se tournent vers des outils accessés de manière privée plutôt que vers ceux fournis par l'établissement. Si connaître les règles ne change guère ce que font les étudiants, qu'est-ce qui pourrait persuader, au lieu de seulement informer ?
 - Lorsque les institutions réagissent à l'IA par la peur et la condamnation, les étudiants peuvent cacher ou rationaliser leur usage plutôt que d'apprendre à bien l'utiliser. Avez-vous vu une réaction de « panique morale » pousser les étudiants au secret ? À quoi ressemblerait une approche recentrée, axée sur l'opportunité ?
 - L'anxiété liée à l'IA n'est pas purement un obstacle : les étudiants qui s'inquiétaient de l'exactitude et du plagiat étaient *plus* susceptibles de vérifier et de réviser les productions de l'IA que de les accepter sans examen critique. Comment une anxiété productive pourrait-elle être canalisée vers une compétence évaluative, au lieu d'être réprimée ?
 - Les étudiants construisent leur propre sens de ce qui est acceptable à travers des « sites » — les intentions des enseignants, les documents de cours, les normes entre pairs et les messages institutionnels — qui divergent souvent. Lorsque ces messages se contredisent, lequel l'emporte selon vous, et comment la manière de présenter l'IA comble-t-elle cet écart ?
@@ -39,7 +39,7 @@ Ce concept se situe entre deux notions plus familières. Là où le [[technology
 
 ## Pourquoi la présentation compte
 
-La présentation compte parce que **la politique et les règles ne changent pas de manière fiable le comportement à elles seules**. La [[research-methods-aied|recherche]] par questionnaire sur la conscience des règles [[regulation|réglementaires]] montre que la connaissance qu'ont les étudiants des règles institutionnelles sur l'IA générative n'entretient que des associations faibles à modérées avec ce qu'ils font réellement — la plupart des étudiants utilisent des outils d'IA générative, plus de la moitié ne savent pas si leur usage est conforme aux réglementations institutionnelles, et ils se tournent vers des outils accessés de manière privée plutôt que vers ceux fournis par l'établissement.([[student-regulatory-awareness-genai]]) Connaître les règles est nécessaire mais insuffisant ; le message doit *persuader*, et pas seulement informer.
+La présentation compte parce que **la politique et les règles ne changent pas de manière fiable le comportement à elles seules**. La [[research-methods-aied|recherche]] par questionnaire sur la conscience des règles [[regulation|réglementaires]] montre que la connaissance qu'ont les étudiants des règles institutionnelles sur l'IA générative n'entretient que des associations faibles à modérées avec ce qu'ils font réellement ([[student-regulatory-awareness-genai]]). Connaître les règles est nécessaire mais insuffisant ; le message doit *persuader*, et pas seulement informer.
 
 Un cadrage différencié peut provenir d'une seule politique plutôt que seulement de sites différents : une analyse de sentiment de 36 politiques universitaires a trouvé les déclarations sur l'enseignement formulées positivement tandis que celles sur l'IA générative et l'éthique étaient formulées négativement, si bien que les étudiants rencontraient l'encouragement et la retenue dans un même document ([[sun-governing-genai-policy-cross-national-2026|Sun et al. (2026)]]).
 
@@ -87,6 +87,16 @@ Les étudiants sont aussi cadrés par les médias et le discours public plus lar
 - **Employer des messages honnêtes et ciblés** (par exemple des messages d'inoculation et des avertissements sur la faillibilité) qui construisent une prudence calibrée plutôt qu'une confiance ou une méfiance généralisée.
 - **Séquencer l'outil selon la phase d'apprentissage.** La revendication pratique centrale du rapport de consensus de 30 experts est un ordre : acquérir d'abord les idées sans IA générative, puis l'employer pour renforcer et consolider ce qui a été appris, puis privilégier sa propre pensée lors de l'application de ces idées à de nouveaux contextes ([[genai-support-threaten-learning-k20-expert-consensus-2026|Kendeou, Greene & Nixon et coll., 2026]]). Son conseil aux étudiants est plus direct : les gains de performance à court terme court-circuitent l'apprentissage nécessaire à la réussite à long terme.
 - **Vendre la finalité.** Relier l'usage de l'IA à un apprentissage durable et à l'[[agency|autonomie]] de l'apprenant, et associer les messages au soutien qui convertit l'intention en usage effectif.
+
+## Idées fausses courantes
+
+**« Une politique claire dit aux étudiants quelles sont les règles, donc la présentation est superflue. »** Un texte de politique n'est pas un cadrage, et l'écart se voit dans les comportements : la plupart des étudiants utilisent l'IA générative, **beaucoup ne savent pas si leur propre usage est conforme**, et ils se tournent vers des outils accessés de manière privée plutôt que vers ceux fournis par l'établissement. Un étudiant qui ne peut pas dire s'il est en conformité ne reçoit pas de communication, quoi qu'énonce le document, et c'est pourquoi la page place « dire le pourquoi, pas seulement le quoi » dans sa méthode.
+
+**« Publier une politique et fournir un outil sous licence couvre la responsabilité institutionnelle. »** L'accès et l'usage effectif sont des résultats différents, et cette page existe parce que c'est sur le second que se situe le levier. Les [[guardrails|garde-fous]] structurels changent l'environnement automatiquement, mais l'[[scaffolding|étayage]], la formation à la littératie et les politiques d'usage ne prennent racine que lorsque les étudiants sont réellement convaincus de leur bien-fondé : c'est la dépendance à l'adhésion que la page nomme.
+
+**« Interdire un outil fait disparaître le comportement. »** Cela le déplace vers des outils que vous ne voyez pas. Les étudiants préfèrent déjà les outils accessés de manière privée à ceux fournis par l'établissement, si bien qu'une interdiction pousse l'usage hors du seul environnement où un soutien, une journalisation ou des conseils sont possibles. La tâche de cadrage est de rendre le comportement autorisé attrayant, non de rendre le comportement interdit plus difficile à observer.
+
+**« La présentation relève de la persuasion, donc elle tient plus de la rhétorique que de la conception. »** Le cadrage que décrit cette page s'associe à la conception : des attentes énoncées clairement et de façon répétée *tout en concevant en pensant aux étudiants*. Des messages délivrés au lieu d'une conception pensée pour eux, c'est la version qui échoue, parce que les étudiants perçoivent la différence entre un engagement déclaré et un engagement réel.
 
 ## Concepts liés
 

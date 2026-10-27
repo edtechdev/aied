@@ -10,7 +10,7 @@ technology: [generative-ai, prompt-engineering]
 assessment: [assessment]
 confidence: high
 translation_of: concepts/reducing-ai-misuse
-source_updated: "2026-09-30T09:53:03-04:00"
+source_updated: "2026-10-25T14:15:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -71,6 +71,35 @@ Les leviers éducatifs prennent un tout autre visage dès lors que l'intégrité
 **Reconnaître l'[[ai-sycophancy|adulatoire]] pour prévenir l'acceptation acritique.** Parce que l'IA [[ai-sycophancy|adulatrice]] valide l'utilisateur plutôt qu'elle ne le conteste, elle constitue un vecteur direct de mésusage : les étudiants qui reçoivent une approbation flatteuse pour une pensée incorrecte sont encouragés à substituer l'IA à leur propre [[cognitive-offloading|travail cognitif]]. La [[contextual-sycophancy-ai-literacy|sycophancy contextuelle]] montre que la littératie en IA et l'entraînement au prompting réduisent la boucle d'erreur sans l'éliminer, de sorte que la prévention du mésusage doit associer l'entraînement éducatif à la reconnaissance à une conception de friction corrective au niveau du système (voir les garde-fous du palier 1).
 
 - **[[desirable-difficulties|Friction productive]] et fonction pédagogique.** La revue rapide de Sydney soutient que l'IA générative nuit à l'apprentissage lorsqu'elle laisse les étudiants contourner la friction cognitive et métacognitive nécessaire pour apprendre, et que des outils conçus à dessein introduisent une *friction productive* (retenir les réponses, demander une explication). Elle distingue quatre fonctions pédagogiques — apprendre *de*, *avec*, *au sujet de*, ou *en façonnant* l'IA générative — dont chacune fait des demandes différentes en termes d'agentivité et d'évaluation. ([[young-people-learning-generative-ai-rapid-review-2026]])
+
+## Idées fausses courantes
+
+**« Enseigner les risques aux étudiants est le principal levier contre le mésusage. »** C'est le levier qui dépend de la coopération de l'étudiant, et c'est pourquoi il se classe sous les leviers structurels présentés ici. Les garde-fous et la refonte de l'évaluation fonctionnent que l'étudiant choisisse ou non le bon comportement ; les approches éducatives ne fonctionnent qu'avec l'adhésion. La distinction n'est pas morale mais mécanique : un environnement modifié contraint directement le comportement, alors qu'une croyance modifiée doit survivre à la nuit qui précède l'échéance.
+
+**« Si un garde-fou tient pendant la séance, l'apprentissage est acquis. »** Tenir et enseigner sont deux résultats distincts, et le corpus contient un double résultat net. Retenir la position agrégée dans un débat [[agentic-ai|multi-agents]] a réduit le basculement des étudiants vers une position incorrecte de l'IA de 42 à 60,5 % jusqu'à 5,7 à 8,2 %, un effet protecteur important, sans produire **aucun effet d'apprentissage pendant la séance** (β = 0,03, p = 0,18). Le rail a fait son travail de rail et n'est pas devenu un enseignement. Concevoir pour prévenir le mésusage n'est pas concevoir pour apprendre.
+
+**« Détecter le mésusage et le punir est une stratégie de prévention. »** La prévention doit couvrir le correcteur lui-même. L'évaluation en équipe rouge de [[humble-prompt-injection-ai-grading-red-team-2026|Humble (2026)]] a constaté que deux des cinq stratégies d'injection indirecte d'invites intégrées dans un fichier de soumission relevaient la note d'une dissertation en échec. Un pipeline qui détecte le mésusage étudiant tout en faisant confiance à un contenu de soumission non examiné n'est défendu que d'un côté.
+
+**« Le mésusage est un problème de motivation des étudiants. »** [[coates-governing-academic-integrity-indicators-2025|Coates, Croucher et Calderon (2025)]] remontent la contrainte déterminante d'un niveau, traitant la gouvernance plutôt que le comportement étudiant comme ce qu'il faut changer, et proposent un cadre de 130 indicateurs d'intégrité. Et le préjudice pour l'apprentissage est mesurable à grande échelle : [[stromberg-generative-ai-learning-penalty-secondary-2026|Strömberg, Lei et Wu (2026)]] ont constaté que la sous-traitance des devoirs élevait les notes de devoirs de 18 % tout en *abaissant* les notes d'examen à livre fermé de 20 %, une défaillance de conception qui apparaît exactement dans l'écart dont traite cette page.
+
+## Conseils de mise en œuvre par rôle
+
+**Pour les enseignants et les équipes de cours**
+
+- Commencer par l'évaluation, non par le texte de la politique. Pour chaque tâche notée, se demander si la version sans aide montrerait ce que vous entendez certifier, et corriger la tâche d'abord : c'est le levier qui n'exige pas le consentement de l'étudiant.
+- Adopter des outils « indice et non réponse » là où un tuteur d'IA est disponible, puisque l'ECR de terrain sur le tutorat avec et sans garde-fous constitue la donnée causale la plus solide du domaine.
+- Vérifier que votre propre pipeline de notation résiste aux instructions injectées dans les fichiers soumis avant de traiter le mésusage étudiant comme la seule menace.
+- Traiter la performance avec IA autorisée et la performance sans assistance comme deux mesures différentes ; la répartition 18 % / 20 % ci-dessus est invisible si vous ne collectez pas les deux.
+
+**Pour les développeurs**
+
+- Intégrer la restriction dans l'interface plutôt que dans un avertissement. Un tuteur capable de produire la réponse achevée produira la réponse achevée sous la pression de l'échéance.
+- Ne pas inférer l'apprentissage à partir du respect du garde-fou. Le résultat du débat montre un comportement maintenu alors que les mesures d'apprentissage restaient plates, si bien qu'il faut instrumenter les résultats séparément des interactions.
+- Présenter les signaux de mésusage aux enseignants comme des diagnostics plutôt que comme des verdicts, puisque le cadrage par la gouvernance dans les données probantes se situe au-dessus du comportement individuel des étudiants.
+
+**Pour les administrateurs et les décideurs**
+
+- Placer la contrainte déterminante là où les données probantes la placent. Les indicateurs et les structures de gouvernance portent sur l'environnement ; l'exhortation adressée aux étudiants porte sur la personne la moins capable de changer la conception institutionnelle.
 
 ## Concepts liés
 

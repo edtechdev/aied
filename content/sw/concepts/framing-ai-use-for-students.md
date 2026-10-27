@@ -11,7 +11,7 @@ confidence: high
 institutions: [educational-policy-ai, governance]
 reviewed_by: [editor]
 translation_of: concepts/framing-ai-use-for-students
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-25T18:05:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -28,7 +28,7 @@ ai_assist:
 ## Maswali ya Kutafakari
 
 - Kufanya AI kupatikana kwa wanafunzi peke yake kulihusishwa na matumizi yasiyo na ufanisi au hata yasiyo ya maadili, wakati kuelekeza wazi na kujumuisha matumizi yanayofaa kuliboresha matokeo. Ikiwa uwepo wa zana ni muhimu kidogo kuliko jinsi inavyoelekezwa, hilo linapendekeza nini kuhusu msisitizo wa 'kuwapa wanafunzi AI' peke yake?
-- Maarifa ya wanafunzi ya kanuni za [[governance|taasisi]] za AI yanaonyesha viungo dhaifu tu na wale wanachofanya kweli — wengi hutumia AI ya kizazi, wengi hawana uhakika kama matumizi yao yanaridhia, na hutegemea zana zinazopatikana kwa faragha. Kwa nini kanuni zishindwe kubadilisha tabia, na nini kingeweza kufikirisha badala ya taarifa tu?
+- Wanafunzi wengi hutumia AI ya kizalishaji, wengi hawana uhakika kama matumizi yao yanaridhia, na hutegemea zana zinazopatikana kwa faragha badala ya zile zinazotolewa na taasisi. Ikiwa kujua kanuni kunabadilisha kwa kiasi kidogo tu kile wanafunzi wanachofanya, nini kingeweza kushawishi badala ya kutoa taarifa tu?
 - Wakati taasisi zinajibu AI kwa hofu na hukumu, wanafunzi wanaweza kuficha au kuhalalisha matumizi yao badala ya kujifunza kuitumia vizuri. Umewahi kuona jibu la 'hofu ya maadili' likiwasukuma wanafunzi katika siri? Mbinu iliyoelekezwa upya, inayozingatia fursa, ingeonekanaje?
 - Wasiwasi kuhusu AI si kizuizi peke yake: wanafunzi waliokuwa na wasiwasi kuhusu usahihi na wizi wa kitaaluma walikuwa *na uwezekano mkubwa zaidi* wa kuthibitisha na kurekebisha matokeo ya AI badala ya kuyakubali bila uhakiki. Hisia za tija zawezaje kuendekezwa kuwa uwezo wa kutathmini badala ya kuzimwa?
 - Wanafunzi hujenga hisia zao wenyewe ya kile kinachokubalika kupitia 'mahali' — nia za waelimishaji, nyaraka za kozi, kanuni za marika, na ujumbe wa taasisi — ambayo mara nyingi hutofautiana. Wakati ujumbe huo unakinzana, upi unafaa unashinda kweli, na kuelekeza hufunga pengo hilo vipi?
@@ -39,7 +39,9 @@ Dhana hii inaketi kati ya mbili za kawaida zaidi. Wakati [[technology-acceptance
 
 ## Kwa nini kuelekeza ni muhimu
 
-Kuelekeza ni muhimu kwa sababu **sera na kanuni hazibadilishi tabia kwa uaminifu peke yake**. Utafiti wa [[research-methods-aied|utafiti]] juu ya [[regulation|kanuni]] unaona kuwa maarifa ya wanafunzi ya kanuni za GenAI za taasisi yanaonyesha viungo dhaifu hadi vya kiwango cha wastani tu na wale wanachofanya kweli — wanafunzi wengi hutumia zana za [[generative-ai|GenAI]], zaidi ya nusu hawana uhakika kama matumizi yao yanaridhia kanuni za taasisi, na hutegemea zana zinazopatikana kwa faragha badala ya zile zinazotolewa na taasisi.([[student-regulatory-awareness-genai]]) Kujua kanuni ni muhimu lakini haitoshi; ujumbe lazima *ufikishe*, si taarifa tu.
+Kuelekeza ni muhimu kwa sababu **sera na kanuni hazibadilishi tabia kwa uaminifu peke yake**. Utafiti wa [[research-methods-aied|utafiti]] juu ya [[regulation|kanuni]] unaona kuwa maarifa ya wanafunzi ya kanuni za GenAI za taasisi yanaonyesha uhusiano dhaifu hadi wa wastani tu na wale wanachofanya kweli ([[student-regulatory-awareness-genai]]). Kujua kanuni ni muhimu lakini haitoshi; ujumbe lazima *ushawishi*, si kutoa taarifa tu.
+
+Uwekaji mfumo tofauti unaweza kuanza ndani ya sera moja badala ya tu kati ya maeneo: uchanganuzi wa hisia za sera 36 za vyuo vikuu uligundua kauli za kufundisha zikiwekwa kwa mtazamo chanya wakati kauli za GenAI na maadili zikiwekwa kwa mtazamo hasi, hivyo wanafunzi walikutana na uhimizo na kizuizi katika hati moja ([[sun-governing-genai-policy-cross-national-2026|Sun et al. (2026)]]).
 
 Mwelekeo pia huunda kama wanafunzi wanaona AI kama **tisho la kuepukwa au kupuuzwa** dhidi ya **rasilimali ya kutumika kwa makusudi**. Wakati taasisi zinajibu AI kwa hofu na hukumu — kile mtiririko mmoja wa kazi unaita "hofu ya maadili" inayorudiwa — zinasukumwa wanafunzi katika kuficha au kuhalalisha matumizi yao badala ya kujifunza kuitumia vizuri.([[moral-panic-genai-classroom]]) Kuelekeza upya wasiwasi na hukumu katika fursa iliyopangwa hubadilisha mienendo yote ya [[student-engagement|ushirikishwaji wa wanafunzi]] na AI.
 
@@ -85,6 +87,16 @@ Wanafunzi pia huelezewa na vyombo vya habari vya kijamii na mazungumzo ya umma y
 - **Tumia ujumbe wa kweli na unaolengwa** (mfano, kinga na onyo la kushindwa) ambalo hujenga tahadhari iliyosawazishwa badala ya uaminifu au kutokuaminiana kwa ujumla.
 - **Panga zana kufuatana na awamu ya kujifunza.** Dai la vitendo kuu la ripoti ya makubaliano ya wataalam 30 ni mpangilio: pata mawazo kwanza bila GenAI, kisha uitumie kuimarisha na kudumisha yale yaliyojifunzwa, kisha weka mbele mawazo yako mwenyewe unapotumia mawazo hayo katika miktadha mipya ([[genai-support-threaten-learning-k20-expert-consensus-2026|Kendeou, Greene & Nixon na wengine, 2026]]). Ushauri wake kwa wanafunzi ni mkubwa zaidi: maendeleo ya muda mfupi ya utendaji hupunguza kujifunza kunahitajika kwa mafanikio ya muda mrefu.
 - **Uza kusudi.** Unganisha matumizi ya AI na kujifunza kwa muda mrefu na [[agency]] ya mwanafunzi, na unganisha ujumbe na msaada unaobadilisha nia kuwa upitishaji.
+
+## Dhana Potofu za Kawaida
+
+**"Sera wazi huwaeleza wanafunzi kanuni zilizopo, hivyo kuelekeza si lazima."** Maandishi ya sera si kuelekeza, na pengo linaonekana katika tabia: wanafunzi wengi hutumia AI ya kizalishaji, **wengi hawana uhakika kama matumizi yao wenyewe yanaridhia**, na hutegemea zana zinazopatikana kwa faragha badala ya zile zinazotolewa na taasisi. Mwanafunzi asiyeweza kujua kama anaridhia hawasilianwi naye, vyovyote dokumenti inavyosema, ndiyo sababu ukurasa unaweka "sema kwa nini, si nini tu" katika mbinu yake.
+
+**"Kuchapisha sera na kutoa zana yenye leseni kunatosha kwa wajibu wa taasisi."** Upatikanaji na upitishaji ni matokeo tofauti, na ukurasa huu upo kwa sababu ya pili ndipo kanyagio kilipo. [[guardrails]] vya kimuundo hubadilisha mazingira kiotomatiki, lakini [[scaffolding]], mafunzo ya ujuzi na sera za matumizi huanza kufaa tu wanafunzi wanaposhawishika kwa kweli juu ya maana yao; hiyo ni tegemezi ya idhini ambayo ukurasa unaitaja.
+
+**"Kupiga marufuku zana kunaondoa tabia."** Kunaiondoa hadi zana usizoweza kuziona. Wanafunzi tayari wanapendelea zana zinazopatikana kwa faragha kuliko zile za taasisi, hivyo marufuku yanasukuma matumizi nje ya mazingira pekee ambapo msaada, ukaguzi au mwongozo unawezekana. Kazi ya kuelekeza ni kufanya tabia inayoruhusiwa iwe ya kuvutia, si kufanya tabia iliyokatazwa iwe vigumu kuona.
+
+**"Kuelekeza ni kushawishi, hivyo ni zaidi ya usemi kuliko ubunifu."** Kuelekeza kunakoelezewa na ukurasa huu kunaambatana na ubunifu: matarajio yaliyotamkwa wazi na mara kwa mara *huku ikibuniwa kuzunguka wanafunzi*. Ujumbe unaowasilishwa badala ya kuundwa kwa ajili ya wanafunzi ndio toleo linaloshindwa, kwa sababu wanafunzi wanasoma tofauti kati ya ahadi iliyotamkwa na ahadi halisi.
 
 ## Dhana Zilizounganishwa
 

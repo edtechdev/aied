@@ -10,7 +10,7 @@ technology: [generative-ai, prompt-engineering]
 assessment: [assessment]
 confidence: high
 translation_of: concepts/reducing-ai-misuse
-source_updated: "2026-09-30T09:53:03-04:00"
+source_updated: "2026-10-25T14:15:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -72,6 +72,36 @@ Bildende Hebel sehen wieder anders aus, sobald Integrität als zu lehrende Praxi
 **[[ai-sycophancy|Sykophantie]] erkennen, um unkritische Akzeptanz zu verhindern.** Weil [[ai-sycophancy|sykophantische]] KI die nutzende Person eher validiert statt herausfordert, ist sie ein direkter Missbrauchsvektor: Studierende, die zustimmende Übereinstimmung für inkorrektes Denken erhalten, werden ermutigt, KI für ihre eigene [[cognitive-offloading|kognitive Arbeit]] zu substituieren. [[contextual-sycophancy-ai-literacy|Kontextuelle Sykophantie]] zeigt, dass KI-Kompetenz und Prompting-Training die Fehlerschleife reduzieren, aber nicht eliminieren, deshalb muss Missbrauchsprävention bildendes Erkennungstraining mit systemebenem Korrektur-Reibung-Design paaren (siehe Leitplanken in Stufe 1).
 
 - **[[desirable-difficulties|Produktive Reibung]] und pädagogische Funktion.** Der schnelle Review von Sydney argumentiert, GenAI untergrabe Lernen, wenn es Studierende die kognitive/metakognitive Reibung umgehen lässt, die zum Lernen nötig ist, und dass zweckmäßig gestaltete Werkzeuge *produktive Reibung* einführen (Antworten zurückhalten, Erklärung prompten). Er unterscheidet vier pädagogische Funktionen – Lernen *von*, *mit*, *über* oder *durch Gestalten von* GenAI –, jede mit verschiedenen Anforderungen an Handlungsfähigkeit und Assessment.([[young-people-learning-generative-ai-rapid-review-2026]])
+
+## Verbreitete Fehlvorstellungen
+
+**„Studierenden die Risiken beizubringen ist der wichtigste Hebel gegen Missbrauch.“** Es ist der Hebel, der davon abhängt, dass Studierende mitmachen, und deshalb steht er hier unter den strukturellen. Leitplanken und Neugestaltung des Assessments wirken, ob Studierende das richtige Verhalten wählen oder nicht; bildende Ansätze wirken nur mit Zustimmung. Die Unterscheidung ist nicht moralisch, sondern mechanisch: Eine veränderte Umgebung schränkt das Verhalten direkt ein, während eine veränderte Überzeugung die Nacht vor der Abgabe überstehen muss.
+
+**„Wenn eine Leitplanke während der Sitzung hält, ist das Lernen gesichert.“** Halten und Lehren sind getrennte Ergebnisse, und der Korpus enthält einen sauberen Doppelbefund. Das Zurückhalten der aggregierten Position in einer [[agentic-ai|Multi-Agenten]]-Debatte senkte das Wechseln von Studierenden zu einer inkorrekten KI-Position von 42 bis 60,5% auf 5,7 bis 8,2%, ein großer Schutzeffekt, und erzeugte doch **keinen Lerneffekt innerhalb der Sitzung** (β = 0.03, p = 0.18). Die Leitplanke tat ihre Arbeit als Leitplanke und wurde nicht zu Unterricht. Für Missbrauchsprävention zu gestalten ist nicht dasselbe wie für Lernen zu gestalten.
+
+**„Missbrauch zu erkennen und zu bestrafen ist eine Präventionsstrategie.“** Prävention muss die Benotung selbst abdecken. Die Red-Team-Evaluation von [[humble-prompt-injection-ai-grading-red-team-2026|Humble (2026)]] fand, dass zwei von fünf indirekten Prompt-Injection-Strategien, die in eine Abgabedatei eingebettet waren, die Bewertung eines durchgefallenen Aufsatzes hoben. Eine Pipeline, die studentischen Missbrauch erkennt und dabei ungeprüftem Abgabeinhalt vertraut, ist nur auf einer Seite verteidigt.
+
+**„Missbrauch ist ein Motivationsproblem der Studierenden.“** [[coates-governing-academic-integrity-indicators-2025|Coates, Croucher und Calderon (2025)]] heben die bindende Einschränkung eine Ebene höher, behandeln Governance statt studentisches Verhalten als das zu Ändernde und schlagen einen Indikatorrahmen für Integrität mit 130 Items vor. Und der Lernschaden ist in großem Maßstab messbar: [[stromberg-generative-ai-learning-penalty-secondary-2026|Strömberg, Lei und Wu (2026)]] fanden, dass das Auslagern von Hausaufgaben die Hausaufgabenpunktzahlen um 18% hob und die Punktzahlen der Prüfung mit geschlossenem Buch um 20% *senkte*, ein Designfehler, der genau in der Lücke sichtbar wird, um die es auf dieser Seite geht.
+
+## Umsetzungshinweise nach Rolle
+
+**Für Lehrende und Kursteams**
+
+- Beginnen Sie mit dem Assessment, nicht mit dem Richtlinientext. Fragen Sie bei jeder benoteten Aufgabe, ob die Fassung ohne Hilfsmittel zeigen würde, was Sie zertifizieren wollen, und ändern Sie zuerst die Aufgabe; sie ist der Hebel, der keine Zustimmung der Studierenden braucht.
+- Setzen Sie Werkzeuge mit Hinweis-statt-Antwort ein, wo ein KI-Tutor verfügbar ist, denn der Feld-RCT zu bewachtem gegenüber unbewachtem Tutoring ist die stärkste kausale Evidenz in diesem Bereich.
+- Prüfen Sie, ob Ihre eigene Benotungspipeline eingeschleuste Anweisungen in eingereichten Dateien abwehrt, bevor Sie studentischen Missbrauch als einzige Bedrohung behandeln.
+- Behandeln Sie KI-erlaubte und unassistierte Leistung als zwei verschiedene Messungen; die Aufteilung von 18%/20% oben ist unsichtbar, wenn Sie nicht beide erheben.
+
+**Für Entwicklerinnen und Entwickler**
+
+- Bauen Sie die Beschränkung in die Schnittstelle statt in eine Warnung. Ein Tutor, der die fertige Antwort produzieren kann, wird unter Termindruck die fertige Antwort produzieren.
+- Schließen Sie nicht von Regelkonformität auf Lernen. Der Debattenbefund zeigt Verhalten, das hielt, während die Lernmaße flach blieben; messen Sie Ergebnisse getrennt von Interaktionen.
+- Geben Sie Missbrauchssignale an Lehrende als Diagnostik statt als Urteile weiter, denn die Governance-Rahmung in der Evidenz sitzt über individuellem studentischem Verhalten.
+
+**Für Hochschulleitungen und Politik**
+
+- Setzen Sie die bindende Einschränkung dorthin, wo die Evidenz sie verortet. Indikatoren und Governance-Strukturen adressieren die Umgebung; Ermahnungen an Studierende adressieren die Person, die institutionelles Design am wenigsten ändern kann.
+
 ## Verbundene Konzepte
 
 - [[ai-misuse-learning-harm]]

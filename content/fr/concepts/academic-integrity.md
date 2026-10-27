@@ -12,7 +12,7 @@ institutions: [educational-policy-ai, regulation]
 connected_resources: [code-viva, fpds-apps-and-resources, institutional-ai-readiness-pack, process-feedback, student-guide-to-ai, ai-infused-assignment-playbook]
 reviewed_by: [editor]
 translation_of: concepts/academic-integrity
-source_updated: "2026-10-18T10:07:01-04:00"
+source_updated: "2026-10-26T12:30:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -170,6 +170,15 @@ Une revue PRISMA de 72 études d'évaluation dans l'enseignement supérieur cons
 La première étude fondée sur la théorie du comportement planifié (Theory of Planned Behavior) portant sur l'intention de faute académique liée à l'usage de l'IA générative (GAIT) prolonge ce tableau : parmi 186 étudiants de premier cycle, [[intentions-academic-misconduct-gait-2026|Baig and Paparo (2026)]] ont constaté que les attitudes envers la faute, les normes subjectives à son égard et les attitudes positives envers l'IA prédisaient chacune l'intention, tandis que les attitudes négatives envers l'IA ne la prédisaient pas, et qu'une probabilité perçue de détection plus élevée prédisait une intention plus faible — un effet dissuasif miné par le manque de fiabilité documenté des outils de détection de l'IA.
 
 **Les politiques d'intégrité se déplacent de qui a écrit les mots vers qui a eu les idées, et les détecteurs sont reconstruits pour s'y adapter.** IdeaLens prédit la provenance des idées à partir d'un plan plutôt que de la prose : sur 50 histoires que des personnes ont écrites de zéro en suivant des plans générés par l'IA, il en a signalé 68% comme étant de l'IA, contre 8% pour Pangram 4 et 0% pour son contrôle entraîné sur la prose, et il a étiqueté comme humaine la prose d'humains retouchée par l'IA dans 94.7% des cas ([[idealens-detecting-ai-ideas-2026|Rajendhran et al. (2026)]]). Sa propre déclaration éthique qualifie la sortie d'estimation statistique qui ne doit pas être utilisée seule comme preuve concluante d'un usage de l'IA.
+
+[[gillette-partnership-ethics-genai-higher-education-2026|Gillette et al. (2026)]] documentent le régime depuis l'intérieur d'une faculté : des enseignants qui avaient changé les formats d'évaluation déclaraient qu'il était « pratiquement impossible de dire si un étudiant a utilisé l'IA dans la rédaction de ses travaux », tandis que des étudiants en colère demandaient des appels à la conscience et de la « honte » plutôt que de la détection.
+- **Une meilleure détection ne change pas ce que l'évaluation peut certifier.** Un système de surveillance par estimation de pose YOLOv11 rapportant 99,56 % d'exactitude de classification illustre la limite de la voie détective : il mesure la posture par rapport à une étiquette comportementale, ne rapporte aucune vérité de terrain sur les manquements et n'offre aucune analyse par sous-groupe ([[arif-automated-online-proctoring-yolov11-2026|Arif et al., 2026]]). Le remède que défend Villanueva est une preuve suffisante d'apprentissage à des étapes clés, non une surveillance maximale de chaque soumission.
+
+## Idées fausses courantes
+
+- **« Les outils de détection identifient l'écriture de l'IA. »** Du texte généré par IA a **été accepté comme rédigé par un humain dans jusqu'à 80 % des cas**, tandis que les données probantes sur la détection situent **la détection machine à environ 80 % contre 78,4 % pour les évaluateurs humains**. Le jugement humain et le jugement machine sont presque également (peu) fiables, si bien qu'un verdict de détection n'est pas une preuve de paternité.
+- **« Le problème est marginal. »** Le volume en est loin : une **analyse sur six ans d'un cours CS2 à fort effectif** a trouvé **45,7 % des étudiants du printemps 2026 signalés**. Près de la moitié d'une cohorte, ce qui en fait un problème de conception courant plutôt qu'un cas limite.
+- **« Les enseignants savent quelles évaluations sont vulnérables. »** Dans un département de [[biology-education|biologie]], les enseignants **ne percevaient comme minimalement vulnérables que les examens surveillés en présentiel**, tandis que les travaux hors classe étaient vus comme exposés. La perception correspondait au cas évident et traitait tout le reste comme sûr.
 
 ## Concepts liés
 - [[pedagogical-patterns]] — Séquences de vérification adoptées en réponse à l'IA générative

@@ -13,7 +13,7 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/agentic-ai
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-25T17:35:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -41,6 +41,8 @@ ai_assist:
 ## Einführung
 
 Agentische KI bezeichnet Systeme der künstlichen Intelligenz, die mehrstufige Arbeitsabläufe autonom planen, ausführen und anpassen können, um Lernziele zu erreichen — sie gehen über die Beantwortung einzelner Fragen hinaus und wirken in Bildungskontexten als dauerhafte, zielgerichtete Mitgestalter. In der Bildung zeigt sich agentische KI als KI-Tutoren, die das Lernen über längere Interaktionen begleiten, als Multi-Agenten-Systeme, die komplexe [[learning-design|Instruktionsdesigns]] orchestrieren, und als autonome Agenten, die ihre [[pedagogy|pädagogischen]] Strategien an die Bedürfnisse der Lernenden anpassen. Dieses neue Paradigma verschiebt die KI von einem Werkzeug, das auf Prompts reagiert, hin zu einem Mitgestalter, der Lernprozesse aktiv führt, anpasst und mitreguliert.
+
+- **Die Trennung von Spezifikation und Ausführung macht eine agentische Pipeline zuverlässig.** Bei DagFlow-AI legen LLM-Agenten jede Komponente eines datenerzeugenden Mechanismus fest - Variablen, einen gerichteten azyklischen Graphen, Verteilungen und Modellformeln -, während ein Programm die Beobachtungen zieht und ein Validierungsskript die Ausgabe jedes Agenten prüft ([[arthur-dagflow-agentic-synthetic-data-statistics-2026|Arthur et al., 2026]]). Kein Agent erzeugt Daten oder schreibt den Erzeugungscode, was die Autoren als Antwort auf ungestützte Ausgaben und Instruktionsdrift präsentieren.
 
 ## Agentische KI definieren und klassifizieren
 
@@ -163,6 +165,16 @@ Weil autonome Agenten Erkennung zunichtemachen, sollten sich Lehrende auf Techni
 ## Ein ausgewogenes Fazit
 
 Agentische KI ist weder Allheilmittel noch unvermeidlicher Schaden: Ihr Wert hängt vom Design ab. Genutzt, um Handlungsfähigkeit der Lernenden zu begleiten, in Pädagogik verankert und mit Menschen im Loop, können Agenten Lernen personalisieren und vertiefen; genutzt, um Automatisierung und Aufgabenerledigung zu maximieren, können sie genau die Anstrengung erodieren, die Lernen erzeugt. Das wiederkehrende Designprinzip ist **Absicht** — explizit zu entscheiden, was der Agent tut und was er dem Lernenden bewusst überlässt.
+
+## Verbreitete Fehlvorstellungen
+
+**„Jeder Chatbot, der an Werkzeuge angebunden ist, ist ein agentisches System.“** Die Unterscheidung wird an der Struktur der Fähigkeiten getroffen, nicht am Zugriff auf Werkzeuge: Ein System gilt nur dann als agentisch, wenn es Kriterien wie Planung, Gedächtnis, Autonomie und zielgerichtetes Handeln über mehrere Schritte hinweg erfüllt. Ein Werkzeug, das auf einen Prompt antwortet und einen Taschenrechner aufrufen kann, bleibt konversationell. Die Unterscheidung ist wichtig, weil sich die Risiken und die Evaluationsmethoden unterscheiden: autonomes mehrstufiges Handeln bringt Fehlermodi mit sich, die ein einzelner Austausch nicht hat.
+
+**„Bessere Basismodelle sind es, was agentische Systeme in der Bildung funktionsfähig macht.“** In dem Versuch, den diese Seite zitiert, wird die verbesserte Beratungsleistung der **Rollenspezialisierung und nicht der rohen Modellfähigkeit** zugeschrieben (**71,8 %** gegenüber der Vergleichsgruppe). Architektur und Arbeitsteilung zwischen den Agenten sind Designentscheidungen mit messbaren Wirkungen, was bedeutet, dass ein stärkeres Modell in einer nicht spezialisierten Pipeline das Ergebnis nicht reproduzieren wird.
+
+**„Agentische Systeme in der Bildung sind pädagogisch fundiert, weil Bildungsforschende sie bauen.“** Die Evidenz sagt etwas anderes: Ein Scoping-Review fand, dass nur **29 % der Studien zu agentischer KI (138 von 474)** ihre Systeme ausdrücklich in Bildungstheorie verankerten. Die disziplinäre Spaltung zwischen technisch und pädagogisch orientierter Arbeit ist der Zustand des Feldes und nicht das Versäumnis einzelner Autorinnen und Autoren; eine Demo, die funktioniert, ist daher das erwartbare Ergebnis, und eine Demo, die *für das Lernen* funktioniert, ist der Minderheitsfall.
+
+**„Ein Agent, der personalisiert und das Lernen vertieft, ist gegenüber einem Chatbot ein Netto-Gewinn.“** Er bringt einen spezifischen Tausch mit sich: Agentische Systeme gefährden [[agency]] und laden zur [[cognitive-offloading|Auslagerung]] der kognitiven Anstrengung ein, auf der das Lernen beruht, und weil sie mehr Schritte unbeaufsichtigt ausführen, machen sie diese Auslagerung schwerer bemerkbar. Die Spannung zwischen Automatisierung und Lernen ist das zentrale analytische Problem dieser Kategorie und nicht ein Vorbehalt, der ihren Vorteilen angehängt wird.
 
 ## Verbundene Konzepte
 

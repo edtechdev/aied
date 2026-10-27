@@ -13,7 +13,7 @@ connected_faqs: [reducing-over-reliance, verify-ai-output, does-ai-help-students
 connected_resources: [pause-ai-use-self-examination]
 confidence: high
 translation_of: concepts/cognitive-surrender
-source_updated: "2026-09-30T07:29:37-04:00"
+source_updated: "2026-10-25T20:20:00-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -98,6 +98,16 @@ A rendição se habitua, ou decai com o desuso? A [[cognitive-washout-ai-skill-d
 ## Limitações
 
 A evidência da rendição como construto nomeado repousa fortemente em um único programa de trabalho laboratorial: três experimentos pré-registrados sobre um Teste de Reflexão Cognitiva adaptado com amostras de conveniência, que estabelece o mecanismo e os moderadores disposicionais, mas não se [[transfer-of-learning|transfere]] para o julgamento profissional de alto risco. O desenho também captura exposições únicas, então nada nele mostra se a rendição se habitua ou se acumula. A evidência de campo é observacional: o painel do ALEKS mostra conclusão mais rápida com pior retenção supervisionada, mas uma atribuição causal à rendição, em vez de a uma mudança de estratégia de estudo, exige pressupostos que o desenho não pode testar. As definições seguem instáveis na literatura — descarregamento, excesso de confiança, dependência, apego e uso problemático são rotineiramente confundidos, e [[yan-conversational-ai-engagement-dependence-synthesis-2026|pelo menos uma síntese]] argumenta que a delegação frequente não deveria ser rotulada de dependência sem prejuízo de controle ou dano. Por fim, os [[self-report-measures|autorrelatos]] de confiança, necessidade de cognição e comportamento de verificação carregam os limites usuais, e boa parte da evidência de sala de aula diz respeito ao [[higher-ed|ensino superior]] e ao [[k-12|secundário]], e não à escolarização precoce.
+
+## Ideias equivocadas comuns
+
+**"Descarregamento, excesso de dependência e rendição são três palavras para o mesmo problema."** Nomeiam três falhas diferentes, com remédios diferentes. O descarregamento é delegar trabalho cognitivo; o excesso de dependência é depender do sistema mais do que sua confiabilidade justifica; a **rendição** é adotar a resposta do sistema sem formar uma própria. A rendição é a mais grave porque não resta julgamento independente a corrigir, e é a que menos se transfere: não se pode ensinar alguém a verificar uma resposta que nunca teve.
+
+**"As pessoas não vão confiar em uma IA que não conseguem verificar, então a rendição tem limite."** A assinatura experimental mostra o mecanismo oposto em operação. Três experimentos pré-registrados adaptaram o Teste de Reflexão Cognitiva e randomizaram a *precisão da IA* com prompts de semente ocultos, de modo que os participantes não conseguiam distinguir um bom assistente de um ruim, e os participantes **escolheram consultar na maioria dos ensaios (>50%)** e então adotaram. A opacidade que deveria ter produzido cautela produziu consulta, e a consulta precedeu a rendição.
+
+**"A solução é uma IA melhor, já que a rendição decorre de erros."** A rendição decorre da *estrutura* da interação: um sistema que produz uma resposta plausível primeiro remove a ocasião para quem aprende gerar uma. Melhorar a acurácia reduz o dano de respostas erradas e não faz nada quanto ao abandono de formar um julgamento, que é o dano que persiste depois que a ferramenta se vai.
+
+**"Ensinar avaliação crítica é suficiente."** É necessário, e chega tarde demais. Uma vez que uma resposta plausível está na tela, a avaliação se torna confirmação, razão pela qual a literatura de desenho aqui coloca a tentativa do estudante antes da saída do sistema, em vez de auditá-la depois.
 
 ## Conceitos conectados
 

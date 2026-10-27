@@ -13,7 +13,7 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/agentic-ai
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-25T17:35:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -41,6 +41,7 @@ ai_assist:
 ## Introduction
 
 L'IA agentique désigne des systèmes d'intelligence artificielle capables de planifier, exécuter et adapter de manière autonome des flux de travail en plusieurs étapes pour atteindre des objectifs d'apprentissage — allant au-delà du question-réponse à tour unique pour agir comme des collaborateurs persistants et orientés vers un but dans les contextes éducatifs. En éducation, l'IA agentique se manifeste par des tuteurs d'IA qui étayent l'apprentissage sur des interactions prolongées, des systèmes multi-agents qui orchestrent des [[learning-design|conceptions pédagogiques]] complexes, et des agents autonomes qui adaptent leurs stratégies [[pedagogy|pédagogiques]] aux besoins de l'apprenant. Ce paradigme émergent fait passer l'IA d'un outil qui répond aux invites à un collaborateur qui guide activement, adapte et corégule les processus d'apprentissage.
+- **Séparer la spécification de l'exécution, c'est ce qui rend un pipeline agentique fiable.** DagFlow-AI charge des agents LLM de définir chaque composante d'un mécanisme générateur de données (variables, graphe orienté acyclique, distributions et formules de modèle), tandis qu'un programme échantillonne les observations et qu'un script de validation vérifie chaque production d'agent ([[arthur-dagflow-agentic-synthetic-data-statistics-2026|Arthur et al., 2026]]). Aucun agent ne génère de données ni n'écrit le code de génération, ce que les auteurs présentent comme la réponse aux productions non étayées et à la dérive des consignes.
 
 ## Définir et classer l'IA agentique
 
@@ -165,6 +166,16 @@ Parce que les agents autonomes rendent la détection vaine, les enseignants devr
 ## Un bilan équilibré
 
 L'IA agentique n'est ni une panacée ni un préjudice inévitable : sa valeur dépend de la conception. Utilisée pour étayer l'autonomie de l'apprenant, fondée sur la pédagogie et gardant les humains dans la boucle, elle peut personnaliser et approfondir l'apprentissage ; utilisée pour maximiser l'automatisation et l'achèvement des tâches, elle peut éroder l'effort même qui produit l'apprentissage. Le principe de conception récurrent est l'**intentionnalité** — décider explicitement ce que fait l'agent et ce qu'il laisse délibérément à l'apprenant.
+
+## Idées fausses courantes
+
+**« Tout agent conversationnel relié à des outils est un système agentique. »** La distinction se fait sur la structure des capacités, non sur l'accès aux outils : un système n'est agentique que s'il satisfait des critères comme la planification, la mémoire, l'autonomie et l'action orientée vers un but sur plusieurs étapes. Un outil invite-réponse capable d'appeler une calculatrice reste conversationnel. La distinction compte parce que les risques et les méthodes d'évaluation diffèrent : l'action autonome en plusieurs étapes fait surgir des modes de défaillance qu'un échange unique ne connaît pas.
+
+**« Ce sont de meilleurs modèles de base qui font fonctionner les systèmes agentiques en éducation. »** Dans l'essai que cite cette page, c'est la **spécialisation des rôles plutôt que la capacité brute du modèle** qui est créditée de l'amélioration du comportement de consultation (**71,8 %** contre la comparaison). L'architecture et la division du travail entre agents sont des décisions de conception aux effets mesurables, ce qui signifie qu'un modèle plus puissant déposé dans un pipeline non spécialisé ne reproduira pas le résultat.
+
+**« Les systèmes agentiques en éducation sont ancrés pédagogiquement parce que des chercheurs en éducation les construisent. »** Les données disent le contraire : une revue de cadrage a trouvé que seulement **29 % des études sur l'IA agentique (138 sur 474)** ancraient explicitement leurs systèmes dans une théorie éducative. Le clivage disciplinaire entre travaux à orientation technique et travaux à orientation pédagogique est la condition du champ, non une négligence d'auteur individuel ; une démonstration qui fonctionne est donc la production attendue, et une démonstration qui fonctionne *pour l'apprentissage* le cas minoritaire.
+
+**« Un agent qui personnalise et approfondit l'apprentissage est un gain net par rapport à un agent conversationnel. »** Il porte un arbitrage précis : les systèmes agentiques menacent l'[[agency|autonomie]] et invitent à l'[[cognitive-offloading|externalisation]] de l'effort cognitif dont dépend l'apprentissage, et en réalisant davantage d'étapes sans supervision, ils rendent cette externalisation plus difficile à repérer. La tension entre automatisation et apprentissage est le problème analytique central de la catégorie, et non une réserve ajoutée à ses bénéfices.
 
 ## Concepts liés
 

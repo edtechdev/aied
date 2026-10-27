@@ -11,7 +11,7 @@ confidence: high
 institutions: [educational-policy-ai, governance]
 reviewed_by: [editor]
 translation_of: concepts/framing-ai-use-for-students
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-25T18:05:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -28,7 +28,7 @@ ai_assist:
 ## Dikkate Alınması Gereken Sorular
 
 - YZ’yi öğrencilerin kullanımına basitçe açmak, etkisiz hatta etik olmayan kullanımla ilişkilendirilirken, uygun kullanımı açıkça çerçevelemek ve yerleştirmek sonuçları iyileştirdi. Aracın varlığından çok onun nasıl çerçelendiği önemliyse, bu, “öğrencilere YZ verme” vurgusu hakkında ne düşündürüyor?
-- Öğrencilerin [[governance|kurumsal]] YZ kurallarını bilmesi, gerçekten yaptıkları şeyle yalnızca zayıf bağlantılar gösterir — çoğu üretici YZ kullanır, çoğu kullanımının uygunluğundan emin değildir ve özel erişimli araçlara yaslanır. Kurallar neden davranışı değiştirmekte başarısız olur ve yalnızca bilgilendirmek yerine ne ikna edebilir?
+- Öğrencilerin çoğu üretici YZ kullanır, çoğu kullanımının uygun olup olmadığından emin değildir ve kurum tarafından sağlananlar yerine özel erişimli araçlara yaslanır. Kuralları bilmek öğrencilerin yaptıklarını neredeyse hiç değiştirmiyorsa, yalnızca bilgilendirmek yerine ne ikna edebilir?
 - Kurumlar YZ’ye korku ve kınama ile yanıt verdiğinde, öğrenciler onu iyi kullanmayı öğrenmek yerine kullanımlarını gizleyebilir veya gerekçelendirebilir. Bir “ahlaki panik” yanıtının öğrencileri gizliliğe ittiğini gördünüz mü? Yeniden çerçevelenmiş, fırsat odaklı bir yaklaşım neye benzerdi?
 - YZ kaygısı salt bir engel değildir: doğruluk ve intihal konusunda kaygılanan öğrenciler, YZ çıktısını eleştirel olmadan kabul etmektense onu *doğrulama ve revize etme* olasılığı daha yüksekti. Verimli kaygı, bastırılmak yerine değerlendirici yetkinliğe nasıl yönlendirilebilir?
 - Öğrenciler kabul edilebilir olanın kendi anlayışlarını “siteler” aracılığıyla kurar — fakülte niyetleri, ders belgeleri, akran normları ve kurumsal mesajlar — ve bunlar sıklıkla birbirinden ayrılır. Bu mesajlar çatıştığında, hangisinin gerçekten kazandığını düşünüyorsunuz ve çerçeveleme o boşluğu nasıl kapatır?
@@ -39,7 +39,9 @@ Kavram, daha tanıdık iki kavram arasında yer alır. [[technology-acceptance-m
 
 ## Çerçeveleme neden önemli
 
-Çerçeveleme önemlidir; çünkü **politika ve kurallar tek başlarına davranışı güvenilir biçimde değiştirmez**. [[regulation|düzenleyici]] farkındalık üzerine anket [[research-methods-aied|araştırmaları]], öğrencilerin kurumsal GenAI kurallarını bilmesinin gerçekten yaptıklarıyla yalnızca zayıf-orta düzeyde ilişkili olduğunu bulur — öğrencilerin çoğu [[generative-ai|üretici YZ]] araçları kullanır, yarısından fazlası kullanımının kurumsal düzenlemelere uygun olup olmadığından emin değildir ve kurum tarafından sağlananlardan çok özel erişimli araçlara yaslanır.([[student-regulatory-awareness-genai]]) Kuralları bilmek gerekli ama yeterli değildir; mesaj *ikna etmek* zorundadır, yalnızca bilgilendirmek değil.
+Çerçeveleme önemlidir; çünkü **politika ve kurallar tek başlarına davranışı güvenilir biçimde değiştirmez**. [[regulation|düzenleyici]] farkındalık üzerine anket [[research-methods-aied|araştırmaları]], öğrencilerin kurumsal GenAI kurallarını bilmesinin gerçekten yaptıklarıyla yalnızca zayıf-orta düzeyde ilişkili olduğunu bulur ([[student-regulatory-awareness-genai]]). Kuralları bilmek gerekli ama yeterli değildir; mesaj *ikna etmek* zorundadır, yalnızca bilgilendirmek değil.
+
+Farklılaştırılmış çerçeveleme yalnızca farklı siteler arasında değil, tek bir politikanın içinde de ortaya çıkabilir: 36 üniversite politikasının duygu analizi, öğretim ifadelerinin olumlu çerçevelendiğini, GenAI ve etik ifadelerinin ise olumsuz çerçevelendiğini buldu; böylece öğrenciler tek bir belgede hem teşvik hem de sınırlamayla karşılaştı ([[sun-governing-genai-policy-cross-national-2026|Sun et al. (2026)]]).
 
 Çerçeve ayrıca öğrencilerin YZ’yi **kaçınılması veya atlatılması gereken bir tehdit** olarak mı yoksa **bilinçli biçimde kullanılacak bir kaynak** olarak mı deneyimlediğini şekillendirir. Kurumlar YZ’ye korku ve kınama ile yanıt verdiğinde — bir çalışma çizgisinin yinelenen bir “ahlaki panik” olarak adlandırdığı biçimde — öğrencileri onu iyi kullanmayı öğrenmek yerine kullanımlarını gizlemeye veya gerekçelendirmeye iter. Kaygıyı ve kınamayı yapılandırılmış fırsata yeniden çerçevelemek, [[student-engagement|öğrencinin YZ ile etkileşiminin]] tüm dinamiklerini değiştirir.([[moral-panic-genai-classroom]])
 
@@ -85,6 +87,16 @@ Küçük, iyi tasarlanmış mesajlar davranışı kaydırabilir. ChatGPT’nin y
 - **Kalibre edilmiş ihtiyat kuran dürüst, hedefli mesajlar kullanın** (örneğin aşıılama ve yanılabilirlik uyarıları), topyekûn güven veya güvensizlik değil.
 - **Aracı öğrenmenin evresine göre sıralayın.** 30 uzmanlık mutabakat raporunun merkezi pratik iddiası bir sıradır: önce GenAI olmadan fikir edinin, sonra onu öğrenileni güçlendirmek ve pekiştirmek için kullanın, sonra o fikirleri yeni bağlamlarda uygularken kendi düşüncenizi önceliklendirin ([[genai-support-threaten-learning-k20-expert-consensus-2026|Kendeou, Greene ve Nixon ve ark., 2026]]). Öğrencilere yönelik tavsiyesi daha serttir: kısa vadeli performans kazanımları, uzun vadeli başarı için gereken öğrenmeyi kısaltır.
 - **Amacı satın.** YZ kullanımını kalıcı öğrenmeye ve öğrenen [[agency]] bağlayın ve mesajları, niyeti benimsemeye dönüştüren destekle eşleyin.
+
+## Yaygın yanlış anlamalar
+
+**“Açık bir politika öğrencilere kuralların ne olduğunu söyler, dolayısıyla çerçeveleme gereksizdir.”** Politika metni çerçeveleme değildir ve bu boşluk davranışta görünür: öğrencilerin çoğu üretici YZ kullanır, **çoğu kendi kullanımının uygun olup olmadığından emin değildir** ve kurum tarafından sağlananlar yerine özel erişimli araçlara yaslanır. Uygun olup olmadığını söyleyemeyen bir öğrenciyle iletişim kurulmuyordur, belge ne derse desin; bu sayfanın yöntemine “ne değil, neden söyle” koymasının nedeni budur.
+
+**“Bir politika yayımlamak ve lisanslı bir araç sağlamak kurumsal sorumluluğu kapsar.”** Erişim ile benimseme farklı sonuçlardır ve bu sayfa, kaldıracın ikincisinde olduğu için var. Yapısal [[guardrails]] çevreyi otomatik olarak değiştirir, ama [[scaffolding]], okuryazarlık eğitimi ve kullanım politikaları ancak öğrenciler onların amacına gerçekten ikna olduğunda tutunur; sayfanın adlandırdığı katılım bağımlılığı budur.
+
+**“Bir aracı yasaklamak davranışı ortadan kaldırır.”** Onu göremediğiniz araçlara taşır. Öğrenciler zaten kurum tarafından sağlanan araçlar yerine özel erişimli araçları tercih eder, dolayısıyla bir yasak kullanımı destek, günlük kaydı veya rehberliğin mümkün olduğu tek ortamdan dışarı iter. Çerçeveleme görevi, yasaklanan davranışı gözlenmesi zor hale getirmek değil izin verilen davranışı çekici kılmaktır.
+
+**“Çerçeveleme iknadır, dolayısıyla tasarımdan çok retoriktir.”** Bu sayfanın betimlediği çerçeveleme tasarımla eşleştirilir: beklentiler açık ve yinelenen biçimde belirtilir *ve öğrenciler çevresinde tasarlanır*. Tasarım yerine iletilen mesaj başarısız olan sürümdür, çünkü öğrenciler beyan edilen bir taahhüt ile gerçek bir taahhüt arasındaki farkı okur.
 
 ## Bağlı kavramlar
 

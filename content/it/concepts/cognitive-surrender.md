@@ -13,7 +13,7 @@ connected_resources: [pause-ai-use-self-examination]
 confidence: high
 reviewed_by: [editor]
 translation_of: concepts/cognitive-surrender
-source_updated: "2026-09-30T07:29:37-04:00"
+source_updated: "2026-10-25T20:20:00-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -98,6 +98,16 @@ La resa si abitua, o decade con il disuso? La [[cognitive-washout-ai-skill-decay
 ## Limiti
 
 L'evidenza della resa come costrutto nominato poggia pesantemente su un unico programma di lavoro di laboratorio: tre esperimenti preregistrati su un Cognitive Reflection Test adattato con campioni di convenienza, che stabilisce il meccanismo e i moderatori disposizionali ma non [[transfer-of-learning|trasferisce]] al giudizio professionale ad alta posta in gioco. La progettazione cattura inoltre esposizioni singole, per cui nulla in essa mostra se la resa si abitui o si componga. L'evidenza sul campo è osservativa: il panel ALEKS mostra completamento più rapido con peggiore ritenzione supervisionata, ma un'attribuzione causale alla resa piuttosto che al cambiamento della strategia di studio richiede assunti che la progettazione non può testare. Le definizioni restano instabili nella letteratura — scaricamento, eccessiva dipendenza, dipendenza, attaccamento e uso problematico sono abitualmente confusi, e [[yan-conversational-ai-engagement-dependence-synthesis-2026|almeno una sintesi]] sostiene che una delega frequente non dovrebbe essere etichettata dipendenza in assenza di controllo compromesso o di danno. Infine, le [[self-report-measures|autovalutazioni]] di fiducia, bisogno di cognizione e comportamento di verifica portano i soliti limiti, e gran parte dell'evidenza in classe riguarda l'[[higher-ed|istruzione terziaria]] e la [[k-12|secondaria]] piuttosto che la prima infanzia scolastica.
+
+## Fraintendimenti comuni
+
+**"Scaricamento, eccessiva dipendenza e resa sono tre parole per lo stesso problema."** Nominano tre fallimenti diversi con rimedi diversi. Lo scaricamento è delegare lavoro cognitivo; l'eccessiva dipendenza è dipendere dal sistema più di quanto la sua affidabilità giustifichi; la **resa** è adottare la risposta del sistema senza formarsene una propria. La resa è la più grave perché non resta alcun giudizio indipendente da correggere, ed è quella che si trasferisce peggio: non si può insegnare a qualcuno a controllare una risposta che non ha mai avuto.
+
+**"Le persone non si fideranno di un'IA che non possono verificare, quindi la resa è limitata."** La firma sperimentale mostra in azione il meccanismo opposto. Tre esperimenti preregistrati hanno adattato il Cognitive Reflection Test e randomizzato *l'accuratezza dell'IA* usando prompt seme nascosti, così che i partecipanti non potessero distinguere un buon assistente da uno cattivo: e i partecipanti **hanno scelto di consultare nella maggioranza delle prove (>50%)** per poi adottare. L'opacità che avrebbe dovuto produrre cautela ha prodotto consultazione, e la consultazione ha preceduto la resa.
+
+**"La soluzione è un'IA migliore, poiché la resa deriva dagli errori."** La resa deriva dalla *struttura* dell'interazione: un sistema che produce per primo una risposta plausibile rimuove l'occasione per chi apprende di generarne una. Migliorare l'accuratezza riduce il danno delle risposte sbagliate e non fa nulla per l'abbandono della formazione di un giudizio, che è il danno che persiste dopo che lo strumento è sparito.
+
+**"Insegnare la valutazione critica è sufficiente."** È necessario e arriva troppo tardi. Una volta che una risposta plausibile è sullo schermo, la valutazione diventa conferma: per questo la letteratura di progettazione qui colloca il tentativo dello studente prima dell'output del sistema anziché auditarlo dopo.
 
 ## Concetti collegati
 

@@ -11,7 +11,7 @@ confidence: high
 institutions: [educational-policy-ai, regulation]
 connected_resources: [code-viva, fpds-apps-and-resources, institutional-ai-readiness-pack, process-feedback, student-guide-to-ai, ai-infused-assignment-playbook]
 translation_of: concepts/academic-integrity
-source_updated: "2026-10-18T10:07:01-04:00"
+source_updated: "2026-10-26T12:30:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -169,6 +169,16 @@ ai_assist:
 首项关于基于 GAIT 的不当行为意向的计划行为理论研究进一步扩展了这一图景：在 186 名本科生中，[[intentions-academic-misconduct-gait-2026|Baig 与 Paparo（2026）]]发现，对不当行为的态度、关于它的主观规范以及对人工智能的积极态度各自都预测了意向，而对人工智能的消极态度则不然；感知到被检测的可能性越高，意向越低——这种威慑恰因 AI 检测工具已被记录在案的不可靠性而被削弱。
 
 **诚信政策正从"谁写了这些文字"转向"谁有了这些想法"，而检测器正被重建以匹配。** IdeaLens 从大纲而非行文预测想法的来源：在 50 个按 AI 生成的方案从零写就的故事上，它把 68% 标为 AI，而 Pangram 4 为 8%、其行文训练的对照为 0%；它把 94.7% 经 AI 润色的人写文本标为人类（[[idealens-detecting-ai-ideas-2026|Rajendhran et al.（2026）]]）。其自身的伦理声明称，该输出是一个统计估计，不得单独用作 AI 使用的确证证据。
+
+[[gillette-partnership-ethics-genai-higher-education-2026|Gillette 等（2026）]]从一个学院内部记录了这套体制：改换了考核形式的教师说"几乎无法判断一名学生在作业写作中是否使用了 AI"，而愤怒的学生则要求诉诸良知与"羞耻感"，而不是检测。
+
+- **更好的感知并不改变考核所能认证的东西。** 一个报告 99.56% 分类准确率的 YOLOv11 姿态估计监考系统，例示了检测路线的极限：它把姿态对照一个行为标签来测量，不报告关于不当行为的任何地面真值，也不提供分群分析（[[arif-automated-online-proctoring-yolov11-2026|Arif 等，2026]]）。Villanueva 所主张的补救，是在关键阶段取得关于学习的充分证据，而不是对每一份提交物施加最大限度的监控。
+
+## 常见误解
+
+- **"检测工具能识别 AI 写作。"** AI 生成的文本**在高达 80% 的案例中被当作人写作的文本通过**，而检测方面的证据显示**机器检测率约为 80%，人工评定者为 78.4%**。人与机器的判断几乎同样（不）可靠，因此一个检测裁决并不是作者身份的证据。
+- **"这个问题是边缘性的。"** 体量远非如此：一项**对一门大规模注册的 CS2 课程长达六年的分析**发现，**2026 年春季有 45.7% 的学生被标记**。接近半个学生队列，这使它成为一个主流的设计问题，而非边缘案例。
+- **"教师知道哪些考核是脆弱的。"** 在一个[[biology-education|生物学]]系，教师**只认为线下监考考试是脆弱性最小的**，而课外作业被视为暴露的。这一感知匹配了显而易见的那种情况，并把其余一切都当成了安全的。
 
 ## 关联概念
 

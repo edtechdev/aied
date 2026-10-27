@@ -11,7 +11,7 @@ level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: concepts/educational-development
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-26T04:35:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -110,6 +110,19 @@ Zuversicht und Kompetenz sind keine austauschbaren Ziele: In einem SEM mit 502 A
 
 **Reaktion der Lehrenden spiegelt Machtzentren, nicht Einstellung.** In einer instrumentellen Fallstudie von 33 Schreiblehrenden prägten vier polyzentrische Machtzentren — der globale GenAI-Trend, die Universität/Abteilung, Kolleginnen und Kollegen, und Lernende — die Praxis, und nebenberufliche Lehrende, die durch begrenzte Diskursmacht beschränkt waren, verschoben sich von Detektion hin zum Unterrichten akzeptabler Nutzung ([[zuo-instructor-power-genai-writing-2026|Zuo et al. (2026)]]).
 
+- **Sechs Familien der Professionalisierung, drei gut belegt, und ein klarer Gewinner.** Ein Review von 78 Studien zu KI-unterstütztem Instruktionsdesign ordnet dokumentierte Fortbildung in kompakte eingebettete Module (2-4 Wochen), semesterlanges Microlearning, aufgabenbasierte Designzyklen, kollaborative dialogbasierte Fragenketten, kritische Ko-Entdeckung und selbstgesteuertes Lernen von Praktikerinnen und Praktikern. Die Ergebnisevidenz ist am stärksten für **kompakte eingebettete Module**: Ein dreiwöchiges Modul erzeugte statistisch signifikante Zuwächse in allen sechs Intelligent-TPACK-Domänen mit mittleren bis großen Effektstärken, und ein vierwöchiges Programm mit **436 angehenden Lehrkräften und einer Kontrollbedingung** ist die stärkste kontrollierte Evaluation im Korpus ([[spyropoulou-genai-instructional-design-systematic-review-2026|Spyropoulou & Kameas, 2026]]).
+- **Drei Designmerkmale trennen die am besten belegten Interventionen.** Ethik eingebettet als **verteilte Praxis mit Kontrollpunkten bei jeder Aufgabe** statt als Einzelsitzung; **performanzbasierte Kompetenzbewertung** mit Unterrichtsplänen, Entscheidungsprotokollen und Micro-Teaching, unmittelbar motiviert durch die Unzuverlässigkeit der Selbstauskunft; und Prompt-Engineering entwickelt als reflektierte, pädagogisch fundierte Praxis. Übernahme ist nicht derselbe Hebel wie Leistung: Bei 200 Lehrkräften in Nordsumatra hatte die KI-Nutzung keinen direkten Effekt auf die Leistung von Lehrkräften (β = .112, p = .087), während organisationales Bürgerschaftsverhalten sie indirekt trug, sodass fakultätsentwickelnde Arbeit auf kooperative, zusätzliche Nutzung zielen sollte, die die Evidenz stützt ([[ai-use-teacher-performance-north-sumatra-2026|Sherly et al. (2027)]]). Eine begleitende zweiwöchige Studie fand schnelle Zuwächse in Wissen und Zuversicht und identifizierte Bias-Erkennung als die schwächste entstehende Kompetenz, eine Lücke, die bis in das längere Modul bestehen blieb und dazu passt, dass ethische Wahrnehmungsfähigkeit sich langsamer entwickelt als technologische Vertrautheit.
+
+## Verbreitete Fehlvorstellungen
+
+**„Ein Kompetenzworkshop ist die Intervention, die Fakultätsentwicklung braucht.“** Bereitschaft ist ein soziotechnisches Ausrichtungsproblem und kein individuelles Defizit, weshalb ein einzelner „KI-Workshop“ hinter dem Bedarf zurückbleibt, den er adressiert. Ein Programm, das die Frage direkt bearbeitete, war ein **sechswöchiges Sommerinstitut**, das zehn Lehrende aus Bildung, Gesundheitswissenschaften, Wirtschaft und anderen Programmen durch Identitätsarbeit führte. Dauer und Kohorte sind für dieses Design nicht nebensächlich; sie sind es, was es von einer Funktionstour unterscheidet.
+
+**„Klarere institutionelle Leitlinien werden die Unruhe der Lehrenden auflösen.“** Leitlinien helfen und erreichen das Problem nicht. Nur **31,2%** des akademischen Personals einer maltesischen Universität nahmen klare institutionelle Leitlinien wahr, und die Korrelation zwischen Klarheit der Leitlinien und geringerer Schuld war **schwach (r = −.25, p = .010)**. Eine schwache Beziehung in dieser Größenordnung bedeutet, dass Top-down-Vorgaben nicht klären können, was das Paper als teilweise emotionales und identitätsbasiertes Problem liest; das Fünftel der Varianz, das sie erklären, ist nicht das Fünftel, das zählt.
+
+**„Schuld wegen KI-Nutzung zeigt Regelbruch an.“** Sie folgt dem Verbergen statt der Offenlegung: KI-Nutzung wegen Unbehagen einzuschränken korrelierte mit ihrem Verstecken, nicht mit verbotenem Verhalten. Schuld als Beleg für Fehlverhalten zu lesen verkennt daher ihre Quelle, und sie als Compliance-Signal zu behandeln wird das Verhalten weiter aus dem Blick drängen.
+
+**„Eine niedrige Umfrageantwortrate bedeutet, dass Lehrende keine starken Gefühle haben.“** Das Paper liest seine **109 Antworten (eine Rate von 3,5%)** selbst als informativ über den Zustand der ethischen Debatte: Eine niedrige Antwort auf eine Frage nach Unbehagen ist ein Befund über dieses Unbehagen und nicht dessen Abwesenheit. Und eine GenAI-Integration, die rein als Upskilling gerahmt wird, verfehlt die Identitätsfrage, die manche Lehrende tatsächlich stellen: worin der Sinn des Lehrens in einer GenAI-Welt besteht.
+
 ## Verbundene Konzepte
 
 - [[teacher-ai-competency]]
@@ -148,8 +161,8 @@ Zuversicht und Kompetenz sind keine austauschbaren Ziele: In einem SEM mit 502 A
 - [[laidlaw-genai-identity-crisis-faculty-2026]] — GenAI als Identitätskrise, nicht als Fähigkeitslücke
 - [[zuo-instructor-power-genai-writing-2026]] — Machtverhältnisse, wie sie von Hochschullehrenden im Umgang mit GenAI im Schreiben wahrgenommen werden (Zuo, Xu & Dunning 2026)
 - [[reflective-triangle-model-teacher-ai-2026]] — Reflective Triangle Model: KI als kognitiver Mediator
-- [[sutedjo-faculty-genai-tpack-21-2026]]
-- [[intelligent-tpack-pd-intervention-hongkong-2025]] — Intelligent-TPACK PD: Anwesenheit sagt Zuwächse voraus, selbstwahrgenommene Teilnahme nicht — Selbstwahrgenommenes TPACK-21-Wissen der Fakultäten für GenAI (Sutedjo, Chowdhury & Liu 2026)
+- [[sutedjo-faculty-genai-tpack-21-2026]] - Selbstwahrgenommenes TPACK-21-Wissen von Lehrenden für GenAI (Sutedjo, Chowdhury & Liu 2026)
+- [[intelligent-tpack-pd-intervention-hongkong-2025]] - Intelligent-TPACK-PD: Anwesenheit sagt Zuwächse voraus, selbstwahrgenommene Teilnahme nicht
 - [[instructional-design-proficiency-masters-math-2026]] — Smart-Classroom-Modell und D-T-E-Schleife zur Verbesserung der M.Ed.-Kompetenz für das Entwerfen von Unterricht in Mathematik (Zhu et al. 2026)
 - [[talebzadeh-ai-group-activity-roles-2026]] — Rollenarchitektur in KI-entworfenen differenzierten Gruppenaktivitäten (Talebzadeh 2026)
 - [[farazouli-navigating-uncertainty-teachers-genai-2026]] — Erfahrungen und Wahrnehmungen von Universitätslehrenden gegenüber GAI: Verletzlichkeit, Neudenken der Bewertung, Lernen der Studierenden gefährdet (Farazouli et al. 2026)

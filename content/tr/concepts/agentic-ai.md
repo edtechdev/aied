@@ -13,7 +13,7 @@ level: [higher ed, k 12]
 confidence: high
 reviewed_by: [editor]
 translation_of: concepts/agentic-ai
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-25T17:35:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -41,6 +41,7 @@ ai_assist:
 ## Giriş
 
 Etkenik YZ, öğrenme hedeflerine ulaşmak için çok adımlı iş akışlarını özerk biçimde planlayabilen, yürütebilen ve uyarlayabilen yapay zeka sistemlerini ifade eder — eğitim bağlamlarında kalıcı, hedefe yönelik işbirlikçiler olarak hareket etmek için tek turlu soru yanıtlamanın ötesine geçerek. Eğitimde etkenik YZ, genişletilmiş etkileşimler boyunca öğrenmeyi iskeleyeleyen YZ öğretmenleri, karmaşık [[learning-design|öğretim tasarımlarını]] orkestre eden çok aracılı sistemler ve [[pedagogy|pedagojik]] stratejilerini öğrenen ihtiyaçlarına göre uyarlayan özerk aracılar olarak ortaya çıkar. Bu yükselen paradigma, YZ'yi istek metnine yanıt veren bir araçtan öğrenme süreçlerini aktif biçimde yönlendiren, uyarlayan ve ortak düzenleyen bir işbirlikçiye kaydırır.
+- **Spesifikasyonu yürütmeden ayırmak, etkenik bir iş akışını güvenilir kılan şeydir.** DagFlow-AI'da LLM aracıları bir veri üretme mekanizmasının her bileşenini tanımlar - değişkenler, yönlü bir çevrimsiz çizge, dağılımlar ve model formülleri - bir program gözlemleri örnekler ve bir doğrulama betiği her aracı çıktısını denetler ([[arthur-dagflow-agentic-synthetic-data-statistics-2026|Arthur ve ark., 2026]]). Hiçbir aracı veri üretmez veya üretim kodunu yazmaz; yazarlar bunu desteklenmemiş çıktıya ve talimat kaymasına yanıt olarak sunar.
 
 ## Etkenik YZ'yi tanımlamak ve sınıflandırmak
 
@@ -164,6 +165,16 @@ Etkenik YZ'nin öğrenme çıktılarına *psikolojik* yerine teknolojik yollarla
 ## Dengeli bir çıkarım
 
 Etkenik YZ ne bir her şeye çare ne de kaçınılmaz bir zarardır: değeri tasarıma bağlıdır. Öğrenen etkenliğini iskeleyelemek, pedagojiye temellendirmek ve insanları döngüde tutmak için kullanıldığında aracılar öğrenmeyi kişiselleştirebilir ve derinleştirebilir; otomasyonu ve görev tamamlamayı en üst düzeye çıkarmak için kullanıldığında öğrenmeyi üreten çabanın kendisini aşındırabilir. Yinelenen tasarım ilkesi **kasıtlılıktır** — aracının ne yaptığını ve öğrenen için neyi kasıtlı olarak bıraktığını açıkça kararlaştırmak.
+
+## Yaygın yanlış anlamalar
+
+**“Herhangi bir sohbet robotunu araçlara bağlamak onu etkenik bir sistem yapar.”** Ayrım, araç erişimi üzerinden değil yetenek yapısı üzerinden çizilir: bir sistem, ancak planlama, hafıza, özerklik ve adımlar boyunca hedefe yönelik eylem gibi ölçütleri karşıladığında etkenik sayılır. Hesap makinesini çağırabilen bir istek-yanıt aracı konuşmaya dayalı kalır. Ayrım önemlidir çünkü riskler ve değerlendirme yöntemleri farklıdır; özerk çok adımlı eylem, tek bir alışverişin ortaya çıkarmadığı hata kipleri doğurur.
+
+**“Daha iyi temel modeller, etkenik sistemleri eğitimde çalıştıran şeydir.”** Bu sayfanın aktardığı deneyde, gelişmiş danışma davranışının kredisi ham model yeteneğine değil **rol uzmanlaşmasına** verilir (karşılaştırma grubuna karşı **%71,8**). Mimari ve aracılar arasındaki iş bölümü, ölçülebilir etkileri olan tasarım kararlarıdır; bu da uzmanlaşmamış bir hattın içine bırakılan daha güçlü bir modelin sonucu yeniden üretmeyeceği anlamına gelir.
+
+**“Eğitimdeki etkenik sistemler pedagojik olarak temellidir, çünkü onları eğitim araştırmacıları inşa eder.”** Kanıt bunun tersini söyler: bir kapsam derlemesi, etkenik YZ çalışmalarının yalnızca **%29'unun (474'ten 138'inin)** sistemlerini açıkça eğitim kuramına temellendirdiğini bulmuştur. Teknik yönelimli ile pedagojik yönelimli çalışma arasındaki disiplinler arası ayrım, tek bir yazarın gözden kaçırması değil alanın kendi durumudur; bu nedenle çalışan bir gösterim beklenen çıktıdır ve *öğrenme için* çalışan bir gösterim azınlık durumudur.
+
+**“Öğrenmeyi kişiselleştiren ve derinleştiren bir aracı, bir sohbet robotuna göre net bir kazançtır.”** Bununla birlikte belirli bir değiş tokuşu da taşır: etkenik sistemler [[agency]]'yi tehdit eder ve öğrenmenin dayandığı bilişsel çabanın [[cognitive-offloading|boşaltılmasını]] davet eder; ayrıca daha fazla adımı gözetimsiz yürüterek bu boşaltmayı fark edilmesi zor hale getirirler. Otomasyon ile öğrenme arasındaki gerilim, kategorinin faydalarına eklenen bir çekince değil, onun merkezî analitik sorunudur.
 
 ## Bağlı kavramlar
 

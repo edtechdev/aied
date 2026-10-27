@@ -12,7 +12,7 @@ connected_faqs: [top-10-findings-ai-education-instructors, incorporating-ai-lite
 confidence: high
 connected_resources: [claw-ed, education-agent-skills, edugems, id-toolbox, idstack, lesson-md, liascript, master-instructional-design, onmicro-ai, pedagogical-promptbook, playlab, vibes-diy, intelligent-textbooks, learning-design-wiki]
 translation_of: concepts/learning-design
-source_updated: "2026-10-24T09:56:38-04:00"
+source_updated: "2026-10-27T08:20:32-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -99,6 +99,14 @@ Fowlin 等人（2026）为决定人工智能在哪里进场增加了一个操作
 **对照基准而非凭感觉评价。** 如果你在构建一个教学设计代理，就对照一个标准化的、有理论依据的基准（例如[[jeon-isd-agent-bench-2026|ISD-Agent-Bench]]）评价它，从而可以测量扎根于真实 ISD 框架是否真的比通用大语言模型改善输出。（[[jeon-isd-agent-bench-2026]]）
 
 - **人工智能正在重塑教学设计实践。** [[kibar-ilgaz-ai-instructional-design-review-2026|Kibar 与 Ilgaz（2026）]][[meta-analysis-systematic-review|系统综述]]了 28 项研究（2020–2025），发现人工智能协助设计者进行内容生成、模板与个性化，并被概念化为同事/协作者/伙伴而非只是工具 — 尽管教学对齐与实践者准备度仍是挑战。
+- **被记录的活动集中于循环的一个阶段。**在一项对 78 项人工智能支持的教学设计研究的综述中，设计阶段的活动出现在 **78 项研究中的 74 项（95%）**，开发阶段出现在 44 项（56%），而分析阶段只达到 11 项（14%）、评价 10 项（13%）、实施 7 项（9%）；且**没有任何研究考察横跨完整 ADDIE 循环的人工智能支持**。这个循环是一种愿景，证据基础并未覆盖它；对任何被推销"人工智能驱动的课程开发"这一端到端能力的人来说，这一点要紧（[[spyropoulou-genai-instructional-design-systematic-review-2026|Spyropoulou 与 Kameas，2026]]）。
+- **三种 AI 角色，按层级分布。***生成式*使用，即 AI 按教育者的指示产出设计内容，在 **96% 的研究**中占主导；*脚手架*式使用，即 AI 为设计者自己的推理提供结构，出现在 35% 中；*评价式*使用，即 AI 评估工件质量，出现在 21% 中。该领域绝大多数是在用 AI 做东西，而不是用它来质询自己的设计决定，这与综述单独指出为教育上有前景的那种"批判性朋友"配置恰好相反。
+
+## 常见误解
+
+- **"AI 备课把时间还给教师。"** 在随机化的小学中，教师**用该工具每周花 2.51 小时备课，而不用则花 3.32 小时**，然而**中位教师只有 21% 到 40% 的课程是从零开始设计的**。时间被节省了，而备课并没有变得实质更周全；节省下来的时间被积累起来，而不是被再投入。
+- **"与 AI 共同设计已有充分证据。"** 一项关于[[wang-teacher-ai-co-design-review-2026|教师与 AI 共同设计学习任务]]的系统综述**在 28 项研究上于规模层面确认了这一模式**，它描述的是一种一致的实践，而非证明了更优的结果。
+- **"评分规则是固定的输入。"** 评分规则充当**人类教学意图与机器推断之间的中介界面**：把评估标准当作**可修订的**，才使该工具能够承载教育者的意图。固定的评分规则会把机器的默认框定转移进评估之中。
 
 ## 关联概念
 

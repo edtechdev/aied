@@ -13,7 +13,7 @@ connected_faqs: [reducing-over-reliance, verify-ai-output, does-ai-help-students
 connected_resources: [pause-ai-use-self-examination]
 confidence: high
 translation_of: concepts/cognitive-surrender
-source_updated: "2026-09-30T07:29:37-04:00"
+source_updated: "2026-10-25T20:20:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -98,6 +98,16 @@ Gewöhnt sich Kapitulation an, oder zerfällt sie bei Nichtgebrauch? [[cognitive
 ## Grenzen
 
 Die Evidenz für Kapitulation als benanntes Konstrukt stützt sich stark auf ein einziges Programm von Laborarbeit: drei vorregistrierte Experimente zu einem adaptierten Cognitive Reflection Test mit Gelegenheitsstichproben, was den Mechanismus und die dispositionalen Moderatoren etabliert, aber nicht auf hochriskante professionelle Urteile [[transfer-of-learning|überträgt]]. Das Design erfasst auch Einzelexpositionen, sodass nichts darin zeigt, ob sich Kapitulation angewöhnt oder kumuliert. Die Feldevidenz ist beobachtend: das ALEKS-Panel zeigt schnelleres Abschließen mit schlechterem beaufsichtigtem Behalten, aber eine kausale Zuschreibung zur Kapitulation statt zu einer Veränderung der Lernstrategie verlangt Annahmen, die das Design nicht prüfen kann. Die Definitionen sind in der Literatur noch instabil — Entlastung, übermäßiges Vertrauen, Abhängigkeit, Bindung und problematische Nutzung werden routinemäßig vermengt, und [[yan-conversational-ai-engagement-dependence-synthesis-2026|mindestens eine Synthese]] argumentiert, häufige Delegation solle nicht als Abhängigkeit bezeichnet werden ohne beeinträchtigte Kontrolle oder Schaden. Schließlich tragen [[self-report-measures|Selbstauskünfte]] zu Vertrauen, Bedürfnis nach Kognition und Prüfverhalten die üblichen Grenzen, und ein Großteil der Klassenraumevidenz betrifft [[higher-ed|Hochschulbildung]] und [[k-12|Sekundarstufe]] statt frühe Schulbildung.
+
+## Verbreitete Fehlvorstellungen
+
+**„Entlastung, übermäßiges Vertrauen und Kapitulation sind drei Wörter für dasselbe Problem.“** Sie benennen drei verschiedene Versagensweisen mit verschiedenen Gegenmitteln. Entlastung ist das Delegieren kognitiver Arbeit; übermäßiges Vertrauen ist die Abhängigkeit vom System über seine Verlässlichkeit hinaus; **Kapitulation** ist die Übernahme der Antwort des Systems, ohne eine eigene zu bilden. Kapitulation ist die schwerste, weil kein unabhängiges Urteil mehr übrig bleibt, das korrigiert werden könnte, und sie ist die, die sich am schlechtesten überträgt: Man kann niemandem beibringen, eine Antwort zu prüfen, die er nie hatte.
+
+**„Menschen werden einer KI, die sie nicht verifizieren können, nicht vertrauen, also ist Kapitulation begrenzt.“** Die experimentelle Signatur zeigt den entgegengesetzten Mechanismus. Drei vorregistrierte Experimente adaptierten den Cognitive Reflection Test und randomisierten die *KI-Genauigkeit* mit verborgenen Seed-Prompts, sodass Teilnehmende einen guten Assistenten nicht von einem schlechten unterscheiden konnten, und die Teilnehmenden **entschieden sich in der Mehrzahl der Durchgänge zu konsultieren (>50 %)** und übernahmen dann. Die Opazität, die Vorsicht hätte erzeugen sollen, erzeugte Konsultation, und der Konsultation folgte die Kapitulation.
+
+**„Die Lösung ist bessere KI, da Kapitulation aus Fehlern folgt.“** Kapitulation folgt aus der *Struktur* der Interaktion: Ein System, das zuerst eine plausible Antwort produziert, nimmt der lernenden Person die Gelegenheit, selbst eine zu erzeugen. Die Genauigkeit zu verbessern reduziert den Schaden falscher Antworten und ändert nichts an der Aufgabe, ein Urteil zu bilden, und das ist der Schaden, der bleibt, wenn das Werkzeug weg ist.
+
+**„Kritische Bewertung zu lehren genügt.“** Es ist notwendig, und es kommt zu spät. Sobald eine plausible Antwort auf dem Bildschirm steht, wird Bewertung zur Bestätigung; deshalb setzt die Designdesignliteratur hier den Versuch der Studierenden vor die Ausgabe des Systems, statt sie danach zu prüfen.
 
 ## Verbundene Konzepte
 

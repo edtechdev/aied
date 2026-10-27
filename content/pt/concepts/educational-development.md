@@ -11,7 +11,7 @@ level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: concepts/educational-development
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-26T04:35:00-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -40,6 +40,7 @@ O desenvolvimento educacional é o trabalho profissional e institucional por mei
 ## Desenvolvimento educacional na era da IA
 
 - **Frameworks de prontidão:** [[sangwa-epiq-ai-faculty-readiness-2026|o framework EPIQ-AI]] identifica quatro domínios de prontidão: epistêmico, pedagógico, institucional e de qualidade-e-conformidade. A prontidão dos docentes é um problema de alinhamento sociotécnico, e não apenas uma lacuna de habilidades individuais.
+- **Verifique o que os níveis de um framework descrevem antes de adotá-lo.** Em 16 frameworks de competência em IA endossados institucionalmente, o uso de IA, a avaliação de resultados e a aplicação de domínio foram substanciais nos 16, enquanto a formulação de problemas (7), a competência em dados (9) e a criação com IA (8) não foram; os níveis de proficiência também descrevem desenvolvimento do aprendiz, papel ocupacional ou série, de modo que não são diretamente comparáveis ([[ai-competence-framework-landscape-2026|Fitsilis (2026)]]).
 - **Padrões para integração de tecnologia:** [[crompton-faculty-technology-integration-standards-2026|Crompton et al.]] usam [[design-based-research|pesquisa baseada em desenho]] para desenvolver padrões docentes para integração de tecnologia (inclusive IA) em instituições de [[higher-ed|ensino superior]].
 - **Adoção e confiança:** a [[teacher-ai-adoption-confidence|pesquisa sobre adoção de IA por professores]] identifica preocupações, apoio, confiança e atitudes como preditores-chave. Os programas de desenvolvimento docente precisam abordar os quatro.
 - **Integração curricular:** os [[institutional-change-framework-ai|frameworks de mudança institucional]] e a [[ai-assessment-scale-reform|reforma da avaliação]] exigem que os docentes redesenhem cursos, e não apenas acrescentem ferramentas de IA.
@@ -110,6 +111,19 @@ Confiança e letramento não são alvos intercambiáveis: em um MEE de 502 respo
 
 **A resposta do instrutor reflete centros de poder, não atitude.** Em um estudo de caso instrumental com 33 instrutores de escrita, quatro centros de poder policêntricos — a tendência global da GenAI, a universidade/departamento, os colegas e os estudantes — moldaram a prática, e os adjuntos limitados por baixo poder de discurso se deslocaram da detecção para o ensino do uso aceitável ([[zuo-instructor-power-genai-writing-2026|Zuo et al. (2026)]]).
 
+- **Seis famílias de desenvolvimento profissional, três bem evidenciadas e uma vencedora clara.** Uma revisão de 78 estudos de desenho instrucional apoiado por IA classifica o DP documentado em módulos compactos embutidos (2 a 4 semanas), microlearning de um semestre, ciclos de desenho baseados em tarefas, cadeias de perguntas dialógicas colaborativas, codescoberta crítica e aprendizagem autodirigida do praticante. A evidência de resultado é mais forte para **módulos compactos embutidos**: um módulo de três semanas produziu ganhos estatisticamente significativos nos seis domínios do TPACK Inteligente, com tamanhos de efeito médios a grandes, e um programa de quatro semanas com **436 professores em formação e uma condição de controle** é a avaliação controlada mais forte do corpus ([[spyropoulou-genai-instructional-design-systematic-review-2026|Spyropoulou & Kameas, 2026]]).
+- **Três características de desenho separam as intervenções mais bem evidenciadas.** Ética embutida como **prática distribuída com pontos de verificação em cada tarefa**, e não como sessão isolada; **avaliação de competência baseada em desempenho** usando planos de aula, registros de decisão e microensino, motivada diretamente pela falta de confiabilidade do autorrelato; e engenharia de prompts desenvolvida como prática reflexiva e pedagogicamente fundamentada. Adoção não é a mesma alavanca que desempenho: entre 200 professores em Sumatra do Norte, o uso de IA não teve efeito direto sobre o desempenho docente (β = 0,112, p = 0,087), enquanto o comportamento de cidadania organizacional o carregou indiretamente, de modo que o trabalho de desenvolvimento docente voltado ao uso colaborativo e fora do papel é a versão que a evidência sustenta ([[ai-use-teacher-performance-north-sumatra-2026|Sherly et al. (2027)]]). Um estudo complementar de duas semanas constatou ganhos rápidos em conhecimento e confiança e identificou a detecção de viés como a competência emergente mais fraca, uma lacuna que persistiu no módulo mais longo, consistente com uma capacidade perceptiva ética que se desenvolve mais devagar que a familiaridade tecnológica.
+
+## Ideias equivocadas comuns
+
+**"Uma oficina de habilidades é a intervenção de que o desenvolvimento educacional precisa."** A prontidão é um problema de alinhamento sociotécnico, e não um déficit individual, razão pela qual uma "oficina de IA" isolada fica aquém da necessidade que ela endereça. Um programa que trabalhou a questão diretamente foi um **instituto de verão de seis semanas** que levou dez docentes de Educação, Ciências da Saúde, Negócios e outros programas por um trabalho de nível de identidade. Duração e coorte não são incidentais a esse desenho; são o que o distingue de um passeio por recursos.
+
+**"Diretrizes institucionais mais claras resolverão o desconforto docente."** Diretrizes ajudam e não alcançam o problema. Apenas **31,2%** do corpo acadêmico de uma universidade maltesa percebia diretrizes institucionais claras, e a correlação entre clareza das diretrizes e menor culpa era **fraca (r = −0,25, p = 0,010)**. Uma relação fraca nessa escala significa que mandatos de cima para baixo não conseguem resolver o que o artigo lê como um problema parcialmente emocional e baseado em identidade: o quinto da variância que eles explicam não é o quinto que importa.
+
+**"Culpa em relação ao uso de IA indica violação de regra."** Ela acompanha o ocultamento, e não a divulgação: limitar o uso de IA por desconforto se correlacionou com escondê-lo, e não com comportamento proibido. Ler a culpa como evidência de má conduta, portanto, identifica mal sua fonte, e tratá-la como sinal de conformidade empurrará o comportamento ainda mais para fora de vista.
+
+**"Uma taxa de resposta baixa significa que o corpo docente não tem sentimento forte."** O artigo lê suas **109 respostas (uma taxa de 3,5%)** como elas mesmas informativas sobre o estado do debate ético: uma resposta baixa a uma pergunta sobre desconforto é um achado sobre esse desconforto, e não uma ausência dele. E uma integração de GenAI enquadrada puramente como atualização de habilidades perde a questão de identidade que alguns docentes de fato fazem: qual é o sentido de ensinar em um mundo de GenAI.
+
 ## Conceitos conectados
 
 - [[teacher-ai-competency]]
@@ -147,8 +161,8 @@ Confiança e letramento não são alvos intercambiáveis: em um MEE de 502 respo
 - [[laidlaw-genai-identity-crisis-faculty-2026]] — GenAI como crise de identidade, não como lacuna de habilidades
 - [[zuo-instructor-power-genai-writing-2026]] — Relações de poder percebidas por instrutores universitários às voltas com a GenAI na escrita (Zuo, Xu & Dunning 2026)
 - [[reflective-triangle-model-teacher-ai-2026]] — Modelo do Triângulo Reflexivo: a IA como mediadora cognitiva
-- [[sutedjo-faculty-genai-tpack-21-2026]]
-- [[intelligent-tpack-pd-intervention-hongkong-2025]] — DP com TPACK Inteligente: a frequência prevê ganhos, a participação autopercebida não — Conhecimento autorrelatado de TPACK-21 de docentes para GenAI (Sutedjo, Chowdhury & Liu 2026)
+- [[sutedjo-faculty-genai-tpack-21-2026]] — Conhecimento autorrelatado de TPACK-21 de docentes para GenAI (Sutedjo, Chowdhury & Liu 2026)
+- [[intelligent-tpack-pd-intervention-hongkong-2025]] — DP com TPACK Inteligente: a frequência prevê ganhos, a participação autopercebida não
 - [[instructional-design-proficiency-masters-math-2026]] — Modelo de sala de aula inteligente e laço D-T-E melhorando a proficiência em desenho instrucional em matemática no mestrado (Zhu et al. 2026)
 - [[talebzadeh-ai-group-activity-roles-2026]] — Arquitetura de papéis em atividades de grupo diferenciadas desenhadas por IA (Talebzadeh 2026)
 - [[farazouli-navigating-uncertainty-teachers-genai-2026]] — Experiências e percepções de professores universitários sobre a GAI: vulnerabilidade, repensar a avaliação, aprendizagem dos estudantes em risco (Farazouli et al. 2026)
@@ -159,3 +173,4 @@ Confiança e letramento não são alvos intercambiáveis: em um MEE de 502 respo
 - [[physics-faculty-learning-community-ai-2026]] — Uma série de oficinas para o uso eficaz da IA em tempos incertos: construindo uma comunidade de aprendizagem docente de física
 
 - [[faculty-ai-well-being-social-supports-2026]] — O bem-estar docente com IA acompanha o letramento em IA, e não a autoeficácia tecnológica
+- [[ai-competence-framework-landscape-2026]] - Verifique o que os níveis de um framework descrevem antes de adotá-lo
