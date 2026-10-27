@@ -33,7 +33,10 @@ LOCALE_NOTICE = {
     'sw': 'Tafsiri ya kiotomatiki',
     'ru': 'Автоматический перевод',
     'uk': 'Автоматичний переклад',
-    'tr': 'Otomatik çeviri',
+    # The Turkish corpus writes the notice as a full lowercase sentence, so a
+    # capitalised 'Otomatik çeviri' matched zero of its 289 pages. Use the
+    # distinctive clause instead of the bare phrase.
+    'tr': 'ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir',
 }
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 TRANSLATION_KEYS = {'translation_of', 'source_updated', 'translation_note', 'contributors', 'ai_assist', 'updated', 'created'}
@@ -96,6 +99,12 @@ def num_tokens(text):
     0.001 == 0,001 == 1. Bare years are dropped, since a date is not a figure
     the translation owes the reader.
     """
+    # Norwegian, Swedish, Finnish, Russian, Ukrainian, Polish, Czech, Slovak and
+    # Hungarian write thousands with a SPACE (1 500), which tokenised as 1 and
+    # 500 and reported the value as missing in nine locales that had it right.
+    # A space only counts as a thousands separator before exactly three digits,
+    # so "49 34" and "250 ms" are left alone.
+    text = re.sub(r'(?<=\d)[ \u00a0\u202f](?=\d{3}(?!\d))', '', text)
     out = set()
     for m in re.finditer(r'\d[\d.,٬\u00a0]*\d|\d', text):
         digits = re.sub(r'[.,٬\u00a0]', '', m.group(0)).lstrip('0') or '0'
