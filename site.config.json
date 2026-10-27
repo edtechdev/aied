@@ -175,12 +175,12 @@
       {
         "id": "meituan/longcat-2.5-preview:free",
         "since": "2026-10-24",
-        "note": "current model for drafting, revision, translation, and ingest work"
+        "note": "used for drafting, revision, translation, and ingest work from 2026-10-24; retired 2026-10-27, when the free tier was withdrawn upstream and calls began failing with HTTP 404. The id stays listed because pages and commits created in that window name it, but it is no longer in use."
       },
       {
         "id": "stepfun/step-5-preview:free",
         "since": "2026-10-09",
-        "note": "current model for drafting, revision, translation, and ingest work"
+        "note": "used for drafting, revision, translation, and ingest work from 2026-10-09; kept on record for the pages and commits that name it, and no longer the model in use"
       },
       {
         "id": "deepseek/deepseek-v4.1-flash",
@@ -190,7 +190,7 @@
       {
         "id": "deepseek/deepseek-v4.1-flash-1017",
         "since": "2026-10-22T06:05:00-04:00",
-        "note": "snapshot-suffixed id of the same model, configured as the default from 2026-10-22 06:05 EDT",
+        "note": "snapshot-suffixed id of the same model, configured as the default from 2026-10-22 06:05 EDT, and again from 2026-10-27 after the longcat free tier was withdrawn; this is the current default for drafting, revision, translation, and ingest work",
         "supersedes": "deepseek/deepseek-v4.1-flash"
       },
       {
