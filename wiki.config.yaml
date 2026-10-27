@@ -155,6 +155,15 @@ build:
     # inbound links meant the framework while four meant the paper. Per locale, not global:
     # en/ and zh/ sharing a slug is the same page translated.
     - python3 tooling/scripts/check-slug-uniqueness.py
+    # src/data/offlineArtifacts.ts is generated from public/ but committed, so nothing
+    # re-derived it after the editions were rebuilt: 31 of its 65 size entries went
+    # stale for days, and the site told readers a 2.9 MB download was 2.7 MB. The
+    # manifest also named /aied/aied.epub, a path astro.config.mjs deliberately strips
+    # from dist/ to keep the Pages artifact under 1 GB, so the recorded URL was one no
+    # reader could follow and only the render-time rewrite hid it. This re-runs the
+    # generator and compares, so a rebuild that forgets to regenerate fails here
+    # instead of publishing a wrong number and a dead path.
+    - python3 tooling/scripts/check-offline-manifest.py
   site: npm run build             # Astro + Pagefind + PWA service worker
   llms: python3 tooling/scripts/generate-llms-files.py
   # Offline books are LOCAL committed artefacts, rebuilt ONLY on explicit

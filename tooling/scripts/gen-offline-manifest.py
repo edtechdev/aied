@@ -26,6 +26,17 @@ with open(REPO / 'site.config.json', encoding='utf-8') as fh:
 DEFAULT = content_paths.DEFAULT_DIR
 LOCALES = content_paths.LOCALES
 
+# The editions are NOT served by the site. astro.config.mjs strips every *.epub and
+# *.pdf out of dist/ before the Pages artifact is packed, because they arrive already
+# compressed and cost their full size there - enough to push the artifact past the
+# 1 GB limit. They are served from the repository instead. So the URL written here
+# must be the URL a reader can actually follow, not the path the file would have had
+# on the site: a manifest that names a stripped path is a manifest that 404s, and the
+# only reason it did not show up in a browser is that src/lib/offlineArtifacts.ts
+# rewrote it at render time.
+SITE_SERVED = {'llms', 'llmsConcepts', 'llmsFull'}
+REPO_SERVED = {'epub', 'pdf'}
+
 # kind -> (filename for the default locale, filename for a locale code)
 PATTERNS = {
     'epub': ('aied.epub', 'aied.{loc}.epub'),
@@ -36,7 +47,22 @@ PATTERNS = {
 }
 
 
+def served_url(name, kind):
+    """The URL a reader can actually follow for this artifact.
+
+    Editions live in the repository; the llms files live on the site. Getting this
+    wrong is invisible in the page (the render-time rewrite hides it) but wrong in
+    the data, where anything else consuming this manifest would follow a 404.
+    """
+    if kind in REPO_SERVED:
+        base = SITE['offlineBaseUrl'].rstrip('/')
+    else:
+        base = SITE.get('basePath', '/aied').rstrip('/')
+    return f"{base}/{name}"
+
+
 def main():
+    out_path = pathlib.Path(sys.argv[1]) if len(sys.argv) > 1 else OUT
     manifest = {}
     for code in LOCALES:
         entry = {}
@@ -45,7 +71,7 @@ def main():
             p = PUBLIC / name
             if p.is_file():
                 entry[kind] = {
-                    'url': f"{SITE.get('basePath', '/aied')}/{name}",
+                    'url': served_url(name, kind),
                     'bytes': p.stat().st_size,
                 }
         if entry:
@@ -65,9 +91,13 @@ def main():
         'export const defaultLocale = ' + json.dumps(DEFAULT) + ';',
         '',
     ]
-    OUT.write_text('\n'.join(lines), encoding='utf-8')
+    out_path.write_text('\n'.join(lines), encoding='utf-8')
 
-    print(f"wrote {OUT.relative_to(REPO)}")
+    try:
+        shown = out_path.relative_to(REPO)
+    except ValueError:
+        shown = out_path
+    print(f"wrote {shown}")
     for code, arts in manifest.items():
         detail = ', '.join(f"{k}={v['bytes']}" for k, v in arts.items())
         print(f"  {code}: {detail}")

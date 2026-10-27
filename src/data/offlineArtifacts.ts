@@ -7,52 +7,52 @@ export type OfflineArtifact = { url: string; bytes: number };
 export const offlineArtifacts: Record<string, Record<string, OfflineArtifact>> = {
   "en": {
     "epub": {
-      "url": "/aied/aied.epub",
-      "bytes": 2562483
+      "url": "https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.epub",
+      "bytes": 2721821
     },
     "pdf": {
-      "url": "/aied/aied.pdf",
-      "bytes": 6986063
+      "url": "https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.pdf",
+      "bytes": 7506919
     },
     "llms": {
       "url": "/aied/llms.txt",
-      "bytes": 1186196
+      "bytes": 1217618
     },
     "llmsConcepts": {
       "url": "/aied/llms-concepts.txt",
-      "bytes": 5013643
+      "bytes": 3881967
     },
     "llmsFull": {
       "url": "/aied/llms-full.txt",
-      "bytes": 18783955
+      "bytes": 19738353
     }
   },
   "es": {
     "epub": {
-      "url": "/aied/aied.es.epub",
-      "bytes": 2855323
+      "url": "https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.es.epub",
+      "bytes": 3051248
     },
     "pdf": {
-      "url": "/aied/aied.es.pdf",
-      "bytes": 7638458
+      "url": "https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.es.pdf",
+      "bytes": 8260871
     },
     "llms": {
       "url": "/aied/llms.es.txt",
-      "bytes": 58657
+      "bytes": 59207
     },
     "llmsConcepts": {
       "url": "/aied/llms.es-concepts.txt",
-      "bytes": 5998424
+      "bytes": 3616179
     }
   },
   "fr": {
     "epub": {
-      "url": "/aied/aied.fr.epub",
-      "bytes": 2879006
+      "url": "https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.fr.epub",
+      "bytes": 2984429
     },
     "pdf": {
-      "url": "/aied/aied.fr.pdf",
-      "bytes": 7654543
+      "url": "https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.fr.pdf",
+      "bytes": 7950879
     },
     "llms": {
       "url": "/aied/llms.fr.txt",
@@ -60,52 +60,52 @@ export const offlineArtifacts: Record<string, Record<string, OfflineArtifact>> =
     },
     "llmsConcepts": {
       "url": "/aied/llms.fr-concepts.txt",
-      "bytes": 6162068
+      "bytes": 3829195
     }
   },
   "zh": {
     "epub": {
-      "url": "/aied/aied.zh.epub",
-      "bytes": 2751586
+      "url": "https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.zh.epub",
+      "bytes": 2853812
     },
     "pdf": {
-      "url": "/aied/aied.zh.pdf",
-      "bytes": 7637003
+      "url": "https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.zh.pdf",
+      "bytes": 7888233
     },
     "llms": {
       "url": "/aied/llms.zh.txt",
-      "bytes": 153304
+      "bytes": 152909
     },
     "llmsConcepts": {
       "url": "/aied/llms.zh-concepts.txt",
-      "bytes": 4515986
+      "bytes": 3430857
     }
   },
   "de": {
     "epub": {
-      "url": "/aied/aied.de.epub",
-      "bytes": 2810692
+      "url": "https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.de.epub",
+      "bytes": 2936925
     },
     "pdf": {
-      "url": "/aied/aied.de.pdf",
-      "bytes": 7456280
+      "url": "https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.de.pdf",
+      "bytes": 7838969
     },
     "llms": {
       "url": "/aied/llms.de.txt",
-      "bytes": 59571
+      "bytes": 59734
     },
     "llmsConcepts": {
       "url": "/aied/llms.de-concepts.txt",
-      "bytes": 5591837
+      "bytes": 4025655
     }
   },
   "ja": {
     "epub": {
-      "url": "/aied/aied.ja.epub",
+      "url": "https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.ja.epub",
       "bytes": 3012564
     },
     "pdf": {
-      "url": "/aied/aied.ja.pdf",
+      "url": "https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.ja.pdf",
       "bytes": 8736479
     },
     "llms": {
@@ -114,16 +114,16 @@ export const offlineArtifacts: Record<string, Record<string, OfflineArtifact>> =
     },
     "llmsConcepts": {
       "url": "/aied/llms.ja-concepts.txt",
-      "bytes": 6188901
+      "bytes": 4693436
     }
   },
   "ko": {
     "epub": {
-      "url": "/aied/aied.ko.epub",
+      "url": "https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.ko.epub",
       "bytes": 2881339
     },
     "pdf": {
-      "url": "/aied/aied.ko.pdf",
+      "url": "https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.ko.pdf",
       "bytes": 8201104
     },
     "llms": {
@@ -132,16 +132,16 @@ export const offlineArtifacts: Record<string, Record<string, OfflineArtifact>> =
     },
     "llmsConcepts": {
       "url": "/aied/llms.ko-concepts.txt",
-      "bytes": 5624711
+      "bytes": 3870986
     }
   },
   "pt": {
     "epub": {
-      "url": "/aied/aied.pt.epub",
+      "url": "https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.pt.epub",
       "bytes": 2738448
     },
     "pdf": {
-      "url": "/aied/aied.pt.pdf",
+      "url": "https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.pt.pdf",
       "bytes": 7292906
     },
     "llms": {
@@ -150,16 +150,16 @@ export const offlineArtifacts: Record<string, Record<string, OfflineArtifact>> =
     },
     "llmsConcepts": {
       "url": "/aied/llms.pt-concepts.txt",
-      "bytes": 5640931
+      "bytes": 3782707
     }
   },
   "ar": {
     "epub": {
-      "url": "/aied/aied.ar.epub",
+      "url": "https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.ar.epub",
       "bytes": 3003073
     },
     "pdf": {
-      "url": "/aied/aied.ar.pdf",
+      "url": "https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.ar.pdf",
       "bytes": 8444374
     },
     "llms": {
@@ -168,16 +168,16 @@ export const offlineArtifacts: Record<string, Record<string, OfflineArtifact>> =
     },
     "llmsConcepts": {
       "url": "/aied/llms.ar-concepts.txt",
-      "bytes": 7322141
+      "bytes": 5575661
     }
   },
   "he": {
     "epub": {
-      "url": "/aied/aied.he.epub",
+      "url": "https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.he.epub",
       "bytes": 2767816
     },
     "pdf": {
-      "url": "/aied/aied.he.pdf",
+      "url": "https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.he.pdf",
       "bytes": 6559641
     },
     "llms": {
@@ -186,16 +186,16 @@ export const offlineArtifacts: Record<string, Record<string, OfflineArtifact>> =
     },
     "llmsConcepts": {
       "url": "/aied/llms.he-concepts.txt",
-      "bytes": 6504758
+      "bytes": 4563439
     }
   },
   "hi": {
     "epub": {
-      "url": "/aied/aied.hi.epub",
+      "url": "https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.hi.epub",
       "bytes": 3036056
     },
     "pdf": {
-      "url": "/aied/aied.hi.pdf",
+      "url": "https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.hi.pdf",
       "bytes": 7683039
     },
     "llms": {
@@ -204,16 +204,16 @@ export const offlineArtifacts: Record<string, Record<string, OfflineArtifact>> =
     },
     "llmsConcepts": {
       "url": "/aied/llms.hi-concepts.txt",
-      "bytes": 11200730
+      "bytes": 7628778
     }
   },
   "ru": {
     "epub": {
-      "url": "/aied/aied.ru.epub",
+      "url": "https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.ru.epub",
       "bytes": 3368991
     },
     "pdf": {
-      "url": "/aied/aied.ru.pdf",
+      "url": "https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.ru.pdf",
       "bytes": 8340481
     },
     "llms": {
@@ -222,16 +222,16 @@ export const offlineArtifacts: Record<string, Record<string, OfflineArtifact>> =
     },
     "llmsConcepts": {
       "url": "/aied/llms.ru-concepts.txt",
-      "bytes": 8998083
+      "bytes": 6346097
     }
   },
   "uk": {
     "epub": {
-      "url": "/aied/aied.uk.epub",
+      "url": "https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.uk.epub",
       "bytes": 3280994
     },
     "pdf": {
-      "url": "/aied/aied.uk.pdf",
+      "url": "https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.uk.pdf",
       "bytes": 8058150
     },
     "llms": {
@@ -240,16 +240,16 @@ export const offlineArtifacts: Record<string, Record<string, OfflineArtifact>> =
     },
     "llmsConcepts": {
       "url": "/aied/llms.uk-concepts.txt",
-      "bytes": 8530221
+      "bytes": 5992143
     }
   },
   "it": {
     "epub": {
-      "url": "/aied/aied.it.epub",
+      "url": "https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.it.epub",
       "bytes": 2764600
     },
     "pdf": {
-      "url": "/aied/aied.it.pdf",
+      "url": "https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.it.pdf",
       "bytes": 7339526
     },
     "llms": {
@@ -258,16 +258,16 @@ export const offlineArtifacts: Record<string, Record<string, OfflineArtifact>> =
     },
     "llmsConcepts": {
       "url": "/aied/llms.it-concepts.txt",
-      "bytes": 5678263
+      "bytes": 3942810
     }
   },
   "sw": {
     "epub": {
-      "url": "/aied/aied.sw.epub",
+      "url": "https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.sw.epub",
       "bytes": 2612944
     },
     "pdf": {
-      "url": "/aied/aied.sw.pdf",
+      "url": "https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.sw.pdf",
       "bytes": 7065801
     },
     "llms": {
@@ -276,16 +276,16 @@ export const offlineArtifacts: Record<string, Record<string, OfflineArtifact>> =
     },
     "llmsConcepts": {
       "url": "/aied/llms.sw-concepts.txt",
-      "bytes": 5296980
+      "bytes": 3653497
     }
   },
   "tr": {
     "epub": {
-      "url": "/aied/aied.tr.epub",
+      "url": "https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.tr.epub",
       "bytes": 2789798
     },
     "pdf": {
-      "url": "/aied/aied.tr.pdf",
+      "url": "https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.tr.pdf",
       "bytes": 7302978
     },
     "llms": {
@@ -294,7 +294,7 @@ export const offlineArtifacts: Record<string, Record<string, OfflineArtifact>> =
     },
     "llmsConcepts": {
       "url": "/aied/llms.tr-concepts.txt",
-      "bytes": 5636786
+      "bytes": 3903930
     }
   }
 };

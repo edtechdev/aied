@@ -24,20 +24,15 @@ const DEFAULT_FILENAMES: Record<ArtifactKind, string> = {
 };
 
 /**
- * The kinds served from the repository rather than the site.
+ * The URL for one artifact in one locale, or undefined when neither locale has it.
  *
- * These arrive already compressed - a PDF and an EPUB are both containers - so they
- * cost their full size in the Pages artifact, where GitHub packs them at full
- * weight. That pushed the artifact past its 1 GB limit and towards its 10-minute
- * deploy timeout. The llms files are plain text, compress well, and are fetched
- * programmatically by agents, so they stay on the site.
+ * This is already the URL a reader can follow. The generator decides where each kind
+ * is served - editions from the repository, llms files from the site - and writes
+ * that decision into the manifest, so this module no longer keeps its own copy of it.
+ * Two copies of that rule is how the manifest came to advertise /aied/aied.epub, a
+ * path the build deliberately strips from dist/ to keep the Pages artifact under
+ * 1 GB.
  */
-const EXTERNAL_KINDS: ArtifactKind[] = ['epub', 'pdf'];
-
-/** Trailing slashes removed, so `${OFFLINE_BASE}/${file}` never doubles one. */
-const OFFLINE_BASE = siteConfig.offlineBaseUrl.replace(/\/+$/, '');
-
-/** The URL for one artifact in one locale, or undefined when neither locale has it. */
 export function artifactUrl(locale: string, kind: ArtifactKind): string | undefined {
   return (
     offlineArtifacts[locale]?.[kind]?.url ?? offlineArtifacts[defaultLocale]?.[kind]?.url
@@ -59,20 +54,6 @@ export function artifactSize(locale: string, kind: ArtifactKind): string | undef
 }
 
 /**
- * Where an artifact is actually served from.
- *
- * Same as `artifactUrl` for the kinds the site serves. For the editions it is the
- * repository URL, so a page never links a path that would 404 on the site.
- */
-export function artifactPublicUrl(locale: string, kind: ArtifactKind): string | undefined {
-  const internal = artifactUrl(locale, kind);
-  if (!internal) return undefined;
-  if (!EXTERNAL_KINDS.includes(kind)) return internal;
-  const file = internal.split('/').pop();
-  return file ? `${OFFLINE_BASE}/${file}` : internal;
-}
-
-/**
  * Point a locale's copy at its own artifacts.
  *
  * Also substitutes {epubSize} / {pdfSize} / {llmsSize} / {llmsConceptsSize} /
@@ -83,27 +64,30 @@ export function localizeArtifactLinks(html: string, locale: string): string {
   if (!html) return html;
   let out = html;
 
+  const base = siteConfig.basePath.replace(/\/+$/, '');
+
   for (const kind of Object.keys(DEFAULT_FILENAMES) as ArtifactKind[]) {
-    const own = offlineArtifacts[locale]?.[kind]?.url;
-    const fallback = offlineArtifacts[defaultLocale]?.[kind]?.url;
-    if (own && fallback && own !== fallback) {
-      out = out.split(fallback).join(own);
-    }
+    const target = artifactUrl(locale, kind);
     const size = artifactSize(locale, kind);
+    if (target) {
+      // The copy modules are written against the DEFAULT locale's filename, as a
+      // path on the site. That path is only what a reader follows for the kinds the
+      // site serves; for the editions the manifest names the repository instead. So
+      // build the token to find from the site path the copy actually contains, and
+      // replace it with whatever the manifest says is served. Matching on the
+      // manifest's own English URL, as this used to, only worked while the manifest
+      // held site paths for every kind.
+      const englishToken = `${base}/${DEFAULT_FILENAMES[kind]}`;
+      out = out.split(englishToken).join(target);
+
+      // A locale-specific site path, if some copy ever hardcodes one.
+      const ownName = target.split('/').pop();
+      if (ownName && ownName !== DEFAULT_FILENAMES[kind]) {
+        out = out.split(`${base}/${ownName}`).join(target);
+      }
+    }
     if (size) {
       out = out.split(`{${kind}Size}`).join(size);
-    }
-  }
-
-  // The editions are not served by the site, so repoint them at the repository.
-  // This runs AFTER the per-locale swap above, so it matches whichever filename the
-  // locale resolved to - the English file for a locale with no edition of its own,
-  // its own file otherwise. One change covers every locale.
-  for (const kind of EXTERNAL_KINDS) {
-    const internal = artifactUrl(locale, kind);
-    const publicUrl = artifactPublicUrl(locale, kind);
-    if (internal && publicUrl && internal !== publicUrl) {
-      out = out.split(internal).join(publicUrl);
     }
   }
 

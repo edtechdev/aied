@@ -62,6 +62,10 @@ SCOPABLE = {
 GLOBAL = (
     'check_concepts.py', 'validate-facets.py', 'gen-concept-artifacts.py',
     'check-slugs.py', 'check-frontmatter-dates.py',
+    # Re-derives src/data/offlineArtifacts.ts from public/ and compares: the site
+    # prints those sizes to readers, so a manifest left stale after an artifact
+    # rebuild states the wrong size on the page.
+    'check-offline-manifest.py',
 )
 
 
