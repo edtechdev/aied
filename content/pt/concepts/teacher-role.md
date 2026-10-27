@@ -155,6 +155,7 @@ O papel do professor e a [[learner-identity|identidade de quem aprende]] são fa
 
 ### Sistemas de Reflexão com IA Devem se Adaptar à Experiência Docente
 
+- **As análises de reflexão com IA voltadas ao professor deveriam ser adaptadas à especialização, e não únicas para todos.** Uma pesquisa com 100 professores de K-12 dos Estados Unidos (divisão pela mediana em nove anos; testes binomiais; diferenças de escolha de 15% detectáveis a ~83% de poder) encontrou divisões sistemáticas de preferência. Professores com menos experiência citam a falta de tempo para reflexão como um dos principais obstáculos a 3x a taxa dos experientes (37% vs. 12%, p < .001) e querem análises sobre o desengajamento dos estudantes (48% vs. 33%, p = .028) e sobre emoções (31% vs. 18%, p = .036).
 - **A regra de desenho derivada dessa divisão são modos de recomendação adaptados à experiência.** Professores experientes querem análises sobre a melhoria da aprendizagem após ajudar um estudante (40% vs. 26%, p = .019) e sobre seus métodos de ensino (42% vs. 26%, p = .012); seu principal obstáculo é acompanhar o desempenho (28% vs. 15%, p = .009). Regra de desenho: modo novato = prompts estruturados e análises de engajamento; modo experiente = análise longitudinal flexível, um argumento direto contra painéis uniformes. ([[falhs-teacher-expertise-reflection-2025]])
 
 ## Ideias equivocadas comuns
