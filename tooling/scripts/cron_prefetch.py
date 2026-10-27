@@ -54,6 +54,46 @@ def _norm_title(t: str) -> str:
     return re.sub(r"[^a-z0-9]+", "", (t or "").lower())[:120]
 
 
+def _load_rejected() -> tuple[dict, int]:
+    """Read the maintainer's local rejected-sources list.
+
+    Returns the comparison sets and the current entry count. A missing file is the normal
+    state on a fresh clone (the list is gitignored), so it is not an error. A malformed file
+    is reported as a note rather than killing the run: a broken list must not stop the scan,
+    but it must also not silently look like an empty one.
+    """
+    empty = {"titles": set(), "ids": set(), "urls": set()}
+    path = os.path.join(REPO, "rejected-sources.yaml")
+    if not os.path.exists(path):
+        return empty, 0
+    try:
+        import yaml  # noqa: PLC0415 - optional dependency, only needed when the list exists
+        with open(path, encoding="utf-8") as fh:
+            data = yaml.safe_load(fh) or {}
+    except Exception as e:  # noqa: BLE001
+        print(f"NOTE: rejected-sources.yaml unreadable ({type(e).__name__}: {e}); "
+              "no rejections applied this run")
+        return empty, 0
+    ents = data.get("entries") or []
+    if not isinstance(ents, list):
+        print("NOTE: rejected-sources.yaml has no entries list; no rejections applied")
+        return empty, 0
+    for e in ents:
+        if not isinstance(e, dict):
+            continue
+        if e.get("disposition") == "deferred":
+            continue        # deferred is not rejected: it may be proposed again
+        if e.get("title"):
+            empty["titles"].add(_norm_title(e["title"]))
+        if e.get("doi"):
+            empty["ids"].add(str(e["doi"]).lower())
+        if e.get("arxiv_id"):
+            empty["ids"].add(str(e["arxiv_id"]))
+        if e.get("url"):
+            empty["urls"].add(str(e["url"]).rstrip("/").lower())
+    return empty, len(ents)
+
+
 def _run(cmd: list[str], timeout: int = 180) -> tuple[int, str, str]:
     try:
         p = subprocess.run(cmd, capture_output=True, text=True, timeout=timeout, cwd=REPO)
@@ -345,6 +385,26 @@ def main() -> int:
             notes.append(f"{name}: EXCEPTION {type(e).__name__}: {e}")
         per_source[name] = len(records) - before
 
+    # drop anything the maintainer has already rejected. This is the one dedupe against prior
+    # decisions that belongs HERE rather than in the agent: a rejected paper that keeps coming
+    # back costs the agent context on every run and invites the same decision again. The list
+    # is gitignored (see .gitignore), so its absence is normal on a fresh clone.
+    rejected, rejected_n = _load_rejected()
+    if rejected["titles"] or rejected["ids"]:
+        kept = []
+        for r in records:
+            tk = _norm_title(r["title"])
+            rid = (r["doi"] or "").lower()
+            m_id = re.search(r"(\d{4}\.\d{4,5})", r["url"] or "")
+            aid = m_id.group(1) if m_id else ""
+            url_n = (r["url"] or "").rstrip("/").lower()
+            if (tk and tk in rejected["titles"]) or (rid and rid in rejected["ids"]) \
+                    or (aid and aid in rejected["ids"]) or (url_n and url_n in rejected["urls"]):
+                rejected_n += 1
+                continue
+            kept.append(r)
+        records = kept
+
     # dedupe within this output: same normalized title, or same DOI/arXiv id
     seen_t, seen_id, unique = set(), set(), []
     for r in records:
@@ -389,6 +449,9 @@ def main() -> int:
     # ---- compact index -------------------------------------------------------------
     print(f"SCAN PREFETCH - window {cutoff.isoformat()} .. today ({days}d), "
           f"{len(unique)} candidate(s)")
+    if rejected_n:
+        print(f"Dropped {rejected_n} candidate(s) already rejected by the maintainer "
+              f"(rejected-sources.yaml). Do not re-propose or ingest them.")
     print(f"Full records (abstract, authors, doi): {full_path}")
     print("Read a candidate's abstract with:  "
           f"python3 -c \"import json;d=json.load(open('{full_path}'));"

@@ -51,7 +51,10 @@ pdf-sources/
 
 # Sources that were NOT accepted into the knowledge base, and rejected resource candidates.
 # Both list material that is deliberately not published here, so they stay local like raw/ and
-# pdf-sources/. Keep them on disk; never commit them.
+# pdf-sources/. Keep them on disk; never commit them. `rejected-sources.yaml` is read by
+# tooling/scripts/cron_prefetch.py so a rejected paper is not proposed to the scan again.
+rejected-sources.yaml
+rejected-sources.yaml.bak
 resource-candidates.yaml
 # weasyprint temp files left in the repo root by the PDF build
 toPdfViaTempFile*

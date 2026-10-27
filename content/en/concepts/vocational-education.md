@@ -1,7 +1,7 @@
 ---
 title: "Vocational Education and Training"
 created: "2026-09-17T14:04:23-04:00"
-updated: "2026-10-25T19:50:00-04:00"
+updated: "2026-10-27T13:25:06-04:00"
 type: concept
 technology: [human-in-the-loop-ai, intelligent-tutoring, simulation]
 assessment: [authentic-assessment]
@@ -47,6 +47,8 @@ What is distinctive about AI in VET is a gap between what the sector says it wan
 
 - **Accelerating curriculum production without surrendering verification.** [[crewscaler-ai-upskilling-framework]] applies AI across all five stages of professional upskilling — knowledge acquisition, content development, review and verification, [[intelligent-tutoring|tutor coaching]] and assessment development — while keeping blueprint design, subject-matter review and misconception authoring with humans. Its external validation includes NASBA CPE accreditation, three of three learners passing an NVIDIA certification exam using only the framework's knowledge base, and a 530-question bank tagged to a 53-skill blueprint. It belongs here because it treats verification as a first-class stage: [[hallucination-risk|hallucination]] detection is largely absent from education pipelines, and the paper reports default LLM tutoring reaching only 52–70% correct pedagogical actions.
 
+- **Curriculum renewal as a continuing obligation, not a periodic review.** [[wang-legacy-curriculum-ai-cte-renewal-2026|Wang (2026)]] identifies five interacting renewal dimensions, occupational transformation, curriculum currency, faculty capability alignment, program architecture and external alignment, and six leadership tests for deciding whether a course should be retained, revised, integrated, replaced or retired.
+
 ## Common Misconceptions
 
 **"The AI-in-VET evidence base tells us about vocational education."** It tells us about classroom proxies for it, which is a serious gap rather than a detail: **no study in the AI-in-VET evidence base is set in a workplace**, yet VET is *defined* by work-based learning. A finding about an AI tool in a simulated trade task has not yet encountered the conditions that make the sector distinctive — real clients, real safety consequences, real variation in workplace equipment.
@@ -89,6 +91,7 @@ What is distinctive about AI in VET is a gap between what the sector says it wan
 
 ## Connected Articles
 
+- [[wang-legacy-curriculum-ai-cte-renewal-2026]] — Adaptive CTE curriculum renewal, five dimensions and six leadership tests
 - [[ai-vocational-education-training-review]] — First systematic review of AI in VET: purposes, theory and empirical effectiveness
 - [[ai-ive-pbl-vocational-design-creativity-2026]] — AI-IVE-PBL: immersive project-based learning and design creativity
 - [[ai-supported-oral-assessment-tvet-2026]] — AkoVoice: offline AI-supported oral assessment in TVET

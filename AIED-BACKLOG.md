@@ -7,53 +7,29 @@
 > **Scope of this file:** it lists work in progress only — articles whose full text is still being sought, and pages waiting on a source before their practice and limitations sections can be written. Candidates appear here only while they are being pursued, and no outcome is recorded; items judged unsuitable for the knowledge base are tracked outside this repository.
 
 **Last updated:** 2026-10-27
-**Total backlog:** 19 articles awaiting ingest (14 with full text retrievable from the open-access publisher pages, 5 blocked by publisher access) · 52 truncated source texts awaiting PDFs · 19 pages awaiting a full text before their practice and limitations sections can be written
+**Total backlog:** 0 articles awaiting ingest (the remaining candidates were rejected, see `rejected-sources.yaml`) · 52 truncated source texts awaiting PDFs · 19 pages awaiting a full text before their practice and limitations sections can be written
 
 ## Daily arXiv + OpenAlex scan (2026-10-27)
 
 In-scope AI-in-education candidates from this run that were **not ingested**: the run's cap was eight articles, chosen for measured outcomes over self-report. All are open access; the arXiv items have retrievable full text, so any can be ingested on request.
 
-- [Reflective Computing](https://arxiv.org/abs/2610.35696) - arXiv:2610.35696 - HCI paradigm paper (134 interactive systems across 17 years) arguing reflection should be the organizing aim of interactive design; tangential to education but relevant to cognitive offloading
-- [A Battery for AI Propensity Measurement: Rubrics, Synthetic Item Banks, and Annotations](https://arxiv.org/abs/2610.34614) - arXiv:2610.34614 - 28 psychometric propensities with rubrics and annotated demand intervals; relevant to educational measurement of AI behavior
-- [Beyond Behavioral Adaptation: Evaluating the Added Value of EEG in Personalized Language Interfaces](https://osf.io/cxdq4) - PsyArXiv - neuroadaptive interfaces for language comprehension support; assistive-technology relevance
-- [EEGBiFormer: Real-Time EEG Attention Classification via Hybrid CNN-Transformer](https://arxiv.org/abs/2610.33832) - arXiv:2610.33832 - attention-state classification for auditory support tools; hardware-dependent
-- [When Legacy Curriculum Meets Artificial Intelligence: A Theoretical Framework for Institutional Renewal in Career and Technical Education](https://doi.org/10.46787/ijaipil.v1i4.8089) - [DOI: 10.46787/ijaipil.v1i4.8089](https://doi.org/10.46787/ijaipil.v1i4.8089) - International Journal of AI in Pedagogy, Innovation, and Learning Futures - theoretical CTE renewal framework; PDF is behind an HTML viewer page, needs a maintainer-supplied copy
-- [Pengembangan Kerangka Kepemimpinan Pendidikan Islam di Era Kecerdasan Buatan](https://doi.org/10.58230/josse.v3i3.938) - [DOI: 10.58230/josse.v3i3.938](https://doi.org/10.58230/josse.v3i3.938) - library-research framework on Islamic education leadership and AI governance; Indonesian
-- [Exploring Reform in a Progressive, Project-Driven Deep Learning Practical Course](https://doi.org/10.63313/eh.9120) - [DOI: 10.63313/eh.9120](https://doi.org/10.63313/eh.9120) - single-course case study of an intelligent image-classification curriculum; thin evidence
 
 
 ## Weekly journal RSS scan (2026-10-11)
 
-Relevant AI-in-education articles found by the weekly `journal_scan.feeds` run that were **not ingested this run** — the run was bounded to keep review tractable. Their full text is retrievable from the open-access publisher pages, so they can be ingested on request rather than needing a maintainer-supplied PDF.
+_Every other candidate from this scan was rejected for inclusion by the maintainer on 2026-10-27. The rejections live in the local `rejected-sources.yaml`, which the scan reads so the same papers are not proposed again._
 
-- [Evaluating Large Language Models for career guidance: A comparative analysis of computing competency recommendations](https://www.sciencedirect.com/science/article/pii/S2666557326000972) — [DOI: 10.1016/j.caeo.2026.100425](https://doi.org/10.1016/j.caeo.2026.100425) — Computers and Education Open
-- [Evaluating AI-based visual privacy through Cartoonification: Impact on expressive participation and consent for data retention](https://www.sciencedirect.com/science/article/pii/S2666557326000649) — [DOI: 10.1016/j.caeo.2026.100393](https://doi.org/10.1016/j.caeo.2026.100393) — Computers and Education Open
-- [A pilot educational framework for AI-enhanced digital manufacturing and reflective skill development](https://www.sciencedirect.com/science/article/pii/S2666557326000133) — [DOI: 10.1016/j.caeo.2026.100342](https://doi.org/10.1016/j.caeo.2026.100342) — Computers and Education Open
-- [Bridging the domain gap for VLMs: A scientific fine-tuning framework for precision and pedagogy in astronomical image understanding](https://www.sciencedirect.com/science/article/pii/S2666920X26001359) — [DOI: 10.1016/j.caeai.2026.100673](https://doi.org/10.1016/j.caeai.2026.100673) — Computers and Education: Artificial Intelligence
-- [Enhancing domain adaptation of LLM via model composition in solving medical exam questions](https://www.sciencedirect.com/science/article/pii/S2666920X26001001) — [DOI: 10.1016/j.caeai.2026.100638](https://doi.org/10.1016/j.caeai.2026.100638) — Computers and Education: Artificial Intelligence
-- [A socio-technical framework for educational excellence: Empirical validation of artificial intelligence and Jidoka integration](https://www.sciencedirect.com/science/article/pii/S2666920X26001098) — [DOI: 10.1016/j.caeai.2026.100647](https://doi.org/10.1016/j.caeai.2026.100647) — Computers and Education: Artificial Intelligence
-- [The impact of human-AI co-creation on perceived creativity in generative AI art: a serial mediation mechanism of psychological ownership](https://www.frontiersin.org/articles/10.3389/fpsyg.2026.1986050) — [DOI: 10.3389/fpsyg.2026.1986050](https://doi.org/10.3389/fpsyg.2026.1986050) — Frontiers in Psychology
-- [Designing in Uncertainty: GenAI and Creative Agency in a Graduate Seminar](https://joidat.scholasticahq.com/article/164950-designing-in-uncertainty-genai-and-creative-agency-in-a-graduate-seminar) — [DOI: 10.65201/RKHM9093](https://doi.org/10.65201/RKHM9093) — Journal of Instructional Design and Technology
 ## Weekly journal RSS scan (2026-10-25)
 
-Relevant AI-in-education articles found by this run's `journal_scan.feeds` pull that were **not ingested** — the run was bounded to the eight articles whose full text was retrievable from the publisher page. Full text for the items below is **not retrievable from this host** (Elsevier and Wiley both return HTTP 403 to the fetch client), so they await a maintainer-supplied PDF.
-
-- [Creating digital twins awareness in African higher education institutions: Bibliometric analysis from top influential countries](https://www.sciencedirect.com/science/article/pii/S2666557326000789) — [DOI: 10.1016/j.caeo.2026.100407](https://doi.org/10.1016/j.caeo.2026.100407) — Computers and Education Open
-- [Temporal dynamics of online learning interactions: A learning analytics study within the CoI framework](https://www.sciencedirect.com/science/article/pii/S2666557326000698) — [DOI: 10.1016/j.caeo.2026.100398](https://doi.org/10.1016/j.caeo.2026.100398) — Computers and Education Open
-- [Hybrid intelligence feedback systems in design thinking development: Stage-specific insights on pedagogical effects and characteristics of generative AI and instructors](https://bera-journals.onlinelibrary.wiley.com/doi/10.1111/bjet.70080) — [DOI: 10.1111/bjet.70080](https://doi.org/10.1111/bjet.70080) — British Journal of Educational Technology
-- [From emotion regulation to academic success: A self-determination theory-based emotional agent-mediated approach](https://bera-journals.onlinelibrary.wiley.com/doi/10.1111/bjet.70083) — [DOI: 10.1111/bjet.70083](https://doi.org/10.1111/bjet.70083) — British Journal of Educational Technology
+_Every other candidate from this scan was rejected for inclusion by the maintainer on 2026-10-27. The rejections live in the local `rejected-sources.yaml`, which the scan reads so the same papers are not proposed again._
 
 ## OpenAlex harvest (2026-09-25)
 
-_All articles from this harvest are ingested; none pending as of 2026-10-04._
+_Every other candidate from this scan was rejected for inclusion by the maintainer on 2026-10-27. The rejections live in the local `rejected-sources.yaml`, which the scan reads so the same papers are not proposed again._
 
 ## OpenAlex harvest (2026-09-29)
 
-_No articles pending as of 2026-10-04._
-
-
-
-
+_Every other candidate from this scan was rejected for inclusion by the maintainer on 2026-10-27. The rejections live in the local `rejected-sources.yaml`, which the scan reads so the same papers are not proposed again._
 
 ## Ingested pages whose source text is truncated (PDF needed)
 

@@ -1,7 +1,7 @@
 ---
 title: AI Governance
 created: "2026-08-13T18:17:22-04:00"
-updated: "2026-10-26T11:40:00-04:00"
+updated: "2026-10-27T13:25:06-04:00"
 type: concept
 foundations: [ai-education]
 ethics: [ethics, privacy]
@@ -85,6 +85,8 @@ AI governance operates at multiple levels — from **national/regulatory** (gove
 
 Institution-wide, the **AIGEM framework** ([[tan-aigem-ai-educational-management-2026|Tan et al. 2026]]) positions responsible AI as a strategic organizational capability for educational management, integrating AI strategic leadership, responsible governance, decision intelligence, human-AI collaborative intelligence, competency development, and sustainable value creation -- and links responsible implementation to the SDGs. It underscores that governance is not only a compliance layer over teaching but an executive function of educational institutions.
 
+**Care ethics puts responsibility on the institution that adopted the tool.** [[jones-care-ethics-ai-governance-higher-education-2026|Jones (2026)]] locates responsibility with the institution that chose the system, not the vendor or the instructor who noticed the pattern, and asks whether the same rules bind the administrators who write them as the students who live under them.
+
 ### Connections to related concepts
 
 AI governance connects to [[ethics]] (the principles it operationalizes), [[higher-ed]] (the institutional context), [[privacy]] and [[bias-mitigation]] (specific governance concerns), and [[academic-integrity]] (a primary governance arena). It is central to [[change-management|institutional change]] and responsible AI, and intersects with [[ai-literacy]] (governance supports the development of critical, informed use). It also connects to [[learning-analytics]] (data governance) and [[student-experience]] (governance shapes how students navigate acceptable use).
@@ -105,7 +107,7 @@ Governance is distinct from — but inseparable from — [[educational-policy-ai
 
 ## Common Misconceptions
 
-- **"Universities have adopted binding AI policy."** Of **48 institutions**, **40 (83%)** had at least one publicly available document, and across those 40 **governance was realised mostly as guidance rather than binding** rule. Published guidance is not enforceable policy.
+- **"Universities have adopted binding AI policy."** Of **48 institutions**, **40 (83%)** had at least one publicly available document, and across those 40 **governance was realized mostly as guidance rather than binding** rule. Published guidance is not enforceable policy.
 - **"Policy is written student-first because students are the risk."** Most documents addressed **faculty and students together (20, 51%) rather than students alone (6, 15%)**, and neither policy type nor audience varied with delivery mode. The framing is joint, which means the obligations are shared.
 - **"Ambiguous policy leaves student experience untouched."** Policy ambiguity shows up in **student experience** directly: [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination|students' engagement with GenAI]] is shaped by the uncertainty, so ambiguity is an active condition rather than a neutral gap.
 ## Connected Concepts
@@ -130,6 +132,7 @@ Governance is distinct from — but inseparable from — [[educational-policy-ai
 - [[student-support-and-success]] — oversight for institutional AI support systems
 
 ## Connected Articles
+- [[jones-care-ethics-ai-governance-higher-education-2026]] — Care ethics for institutional AI governance, the five components and the institutional questions they turn into
 - [[generative-ai-governance-education-scoping-review-2026]] — Generative AI governance in education: a scoping review of principles, mechanisms and risks (Elmahjub et al. 2026)
 - [[ai-literacy-sdg-governance-framework-2026]] — AI literacy as a governance capacity for sustainable development: the AIRE Taxonomy and AI–SDG Nexus (Islam, Morshed & Islam 2026)
 - [[tan-aigem-ai-educational-management-2026]] — AIGEM framework for AI governance in educational management
