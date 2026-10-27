@@ -1,6 +1,7 @@
 ---
 title: "AI katika Elimu"
 created: "2026-10-13T06:05:00-04:00"
+updated: "2026-10-27T04:13:56-04:00"
 type: concept
 foundations: [ai-education, ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring, llm]
@@ -14,7 +15,7 @@ confidence: high
 institutions: [educational-policy-ai]
 reviewed_by: [editor]
 translation_of: concepts/ai-education
-source_updated: "2026-10-02T07:35:56-04:00"
+source_updated: "2026-10-26T02:30:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -22,6 +23,11 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-27"
+    agent: hermes-agent
+
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -153,6 +159,18 @@ Hifadhi ya maarifa inaakisi uwanja unaokua kwa haraka — kutoka mifumo ya awali
 ## Uhusiano
 
 AI katika elimu inaungana na kila dhana katika hifadhi ya maarifa — ni uwanja ambao kurasa zote za dhana zinautangaza kwa pamoja. Tumia ukurasa huu kama mahali pa kuanzia kuvinjari hifadhi kamili ya maarifa.
+
+## Dhana Potofu za Kawaida
+
+**"AI katika elimu ni uwanja mmoja wenye msingi mmoja wa ushahidi."** Ni mwavuli juu ya mikondo tofauti — taaluma, viwango, tathmini, mbinu za utafiti, taasisi, usawa — ambayo hutofautiana katika mbinu zao, vipimo vya matokeo na ukomaa wao. Ugunduzi kutoka mkondo mmoja hauhamishiwi kwenye mwingine, ndiyo sababu hifadhi ya maarifa imepangwa hivi badala ya kuwa fasihi moja.
+
+**"Zana inayoboresha matokeo ya kozi huboresha mafanikio ya wanafunzi."** Mkondo wa kitaasisi unaonyesha mwelekeo kinyume: katika [[student-support-and-success|msaada na mafanikio ya wanafunzi]], AI **huhamisha kwa uhakika ukamilishaji wa kazi lakini si uendelevu wa masomo au kuhitimu**. Uingiliaji unaweza kushinda kila kipimo cha ndani ya kozi na kuacha matokeo ya ukamilishaji bila mabadiliko.
+
+**"Utendaji wa teknolojia ni ushahidi kuhusu kujifunza."** Uwanja upo kwenye makutano ya teknolojia ya mafunzo na [[learning-sciences|sayansi za kujifunza]], na tofauti kati ya hizo mbili ni hii hasa: kama mwanafunzi alibadilika, badala ya tu kama zana ilifanya kazi. Maonyesho ni dai kuhusu zana.
+
+**"Kwa kuwa AI ni ya matumizi ya jumla, ugunduzi mahali popote unatumika kila mahali."** Ujumla wa teknolojia hauleti ujumla wa ushahidi. Mikondo ya taaluma, kiwango na muktadha ipo kwa sababu zana hiyo hiyo hujiendesha tofauti kati yao, na ugunduzi usiobadilika unaobebwa kuvuka mpaka ni uhamishaji usio halali (extrapolation).
+
+**"Ukomaa wa uwanja unaweza kusomwa kutoka kwa wingi wa machapisho."** Wingi na ukomaa hutengana; mkondo wa mbinu za utafiti unaandika udhaifu wa mara kwa mara wa usanifu ambao wingi hauurekebishi, na mifumo huongezeka haraka kuliko inavyojaribiwa.
 
 ## Dhana Zilizounganishwa
 - [[pedagogical-patterns]] — Mifululizo iliyojaribiwa inayoleta mbinu za kufundisha za uwanja katika utendaji

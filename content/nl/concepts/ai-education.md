@@ -1,6 +1,7 @@
 ---
 title: "AI in het onderwijs"
 created: "2026-10-15T14:22:00-04:00"
+updated: "2026-10-27T04:16:20-04:00"
 type: concept
 foundations: [ai-education, ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring, llm]
@@ -13,13 +14,17 @@ confidence: high
 institutions: [educational-policy-ai]
 reviewed_by: [editor]
 translation_of: concepts/ai-education
-source_updated: "2026-10-02T07:35:56-04:00"
+source_updated: "2026-10-26T02:30:00-04:00"
 translation_note: "Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-15"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-27"
     agent: hermes-agent
 ---
 
@@ -111,7 +116,7 @@ Hoe we weten of AI werkt is een eigen stroom, en de kennisbank behandelt het als
 
 - **Onderzoeksmethoden:** [[research-methods-aied|onderzoeksmethoden in AIED]] als de overkoepeling, met [[qualitative-research|kwalitatieve]], [[quantitative-research|kwantitatieve]], [[mixed-methods-research|mixed-methods]], [[design-based-research|design-based]] en [[usability-research|usability]]-benaderingen, plus [[rct|gerandomiseerde gecontroleerde trials]], [[meta-analysis-systematic-review|meta-analyse en systematisch review]] en [[network-analysis|netwerkanalyse]].
 
-Het eigen onderzoek van het vakgebied is nu zelf een onderwerp. [[ai-assisted-educational-research|AI-Assisted Educational Research]] dekt AI gebruikt als instrument voor literatuuronderzoek, screening, kwalitatieve codering, analyse en schrijven, inclusief practitioner-onderzoek zoals de scholarship of teaching and learning. Het blijft onderscheiden van de ontwerpen die worden gebruikt om te bestuderen wat AI doet met leerlingen.
+Het eigen onderzoek van het vakgebied is nu zelf een onderwerp. [[ai-assisted-educational-research|AI-ondersteund educatief onderzoek]] dekt AI gebruikt als instrument voor literatuuronderzoek, screening, kwalitatieve codering, analyse en schrijven, inclusief praktijkonderzoek, zoals de scholarship of teaching and learning. Het blijft onderscheiden van de ontwerpen die worden gebruikt om te bestuderen wat AI doet met leerlingen.
 
 - **Evaluatie van AI-systemen:** [[ai-ed-evaluation|AI ed-evaluatie]] en [[benchmark|benchmarks]] voor het beoordelen van het vermogen van een systeem, met [[learning-gains|leerwinst]] als de uitkomst die ertoe doet, en de [[limitations-in-aied-research|allesomvattende beperkingen]] van dit bewijs en [[interpreting-and-applying-aied-research|hoe één studie te lezen]] als het waarschuwende tegenwicht.
 
@@ -152,6 +157,18 @@ De kennisbank weerspiegelt een vakgebied in snelle evolutie — van vroege intel
 ## Verbanden
 
 AI in het onderwijs verbindt met elk concept in de kennisbank — het is het vakgebied dat alle andere conceptpagina's samen definiëren. Gebruik deze pagina als startpunt om de volledige kennisbank te navigeren.
+
+## Veelvoorkomende misverstanden
+
+**„AI in het onderwijs is één vakgebied met één bewijsbasis."** Het is een overkoepeling over verschillende stromen — disciplines, niveaus, beoordeling, onderzoeksmethoden, instellingen, gelijkwaardigheid — die verschillen in hun methoden, hun uitkomstmaten en hun volwassenheid. Een bevinding uit de ene stroom gaat niet over naar de andere, en daarom is de kennisbank zo georganiseerd en niet als één literatuur.
+
+**„Een tool die de cursusuitkomsten verbetert, verbetert het succes van leerlingen."** De institutionele stroom laat het tegenovergestelde patroon zien: [[student-support-and-success|leerlingondersteuning en -succes]] is het terrein waar AI **betrouwbaar taakvoltooiing verplaatst, maar niet volharding of afstuderen**. Een interventie kan elke meting binnen de cursus winnen en de voltooiingsuitkomst vlak laten.
+
+**„De prestatie van technologie is bewijs over leren."** Het vakgebied ligt op het snijvlak van onderwijstechnologie en de [[learning-sciences|leerwetenschappen]], en het onderscheid tussen beide is precies dit: of een leerling veranderde, in plaats van alleen of een tool presteerde. Een demonstratie is een bewering over de tool.
+
+**„Omdat AI algemeen inzetbaar is, geldt een bevinding overal."** Algemeenheid van de technologie schept geen algemeenheid van het bewijs. De stromen discipline, niveau en context bestaan omdat dezelfde tool zich daar anders gedraagt, en een ongewijzigde bevinding over een grens heen is een extrapolatie.
+
+**„De volwassenheid van het vakgebied valt af te lezen uit het publicatievolume."** Volume en volwassenheid lopen uiteen; de stroom onderzoeksmethoden documenteert terugkerende ontwerpzwaktes die volume niet verhelpt, en kaders vermenigvuldigen sneller dan ze worden getest.
 
 ## Verbonden concepten
 - [[pedagogical-patterns]] — De geteste sequenties die de pedagogieën van het vakgebied operationeel maken

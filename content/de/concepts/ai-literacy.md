@@ -1,7 +1,7 @@
 ---
 title: KI-Kompetenz
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-10-24T21:41:34-04:00"
+updated: "2026-10-27T04:12:34-04:00"
 type: concept
 foundations: [academic-integrity, ai-education, ai-literacy, educational-development]
 technology: [generative-ai, llm]
@@ -11,13 +11,17 @@ connected_faqs: [incorporating-ai-literacy, ai-literacy-evidence, faculty-ai-com
 confidence: high
 connected_resources: [education-agent-skills, edugems, mglearn, onmicro-ai, playlab, pressing-prompts, student-guide-to-ai, vibes-diy, fpds-apps-and-resources]
 translation_of: concepts/ai-literacy
-source_updated: "2026-10-23T09:20:00-04:00"
+source_updated: "2026-10-26T13:50:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-27"
     agent: hermes-agent
 ---
 
@@ -37,6 +41,8 @@ ai_assist:
 ## Einführung
 
 KI-Kompetenz ist rasch zu einer Kernkompetenz für Lernende, Bildungspersonal und Institutionen geworden, seit [[generative-ai|generative KI]] in der Bildung verankert ist. Anders als allgemeine digitale Kompetenz erfordert KI-Kompetenz das Verständnis probabilistischer Systeme, die halluzinieren können, [[bias-mitigation|Bias]] aufweisen und [[agency|Handlungsfähigkeit]] vom Menschen auf die Maschine verlagern — was [[critical-thinking|kritisches Denken]] und [[cognitive-offloading|Überabhängigkeit]] zentral für das Konstrukt macht.
+
+**Output-orientierte und systemorientierte Kompetenz sind getrennte Dimensionen, für deren Trennung Evidenz vorliegt.** [[bergdahl-student-epistemic-agency-ai-2026|Bergdahl (2026)]] fand 47 schwedische Siebtklässlerinnen und Siebtklässler stark bei Quellenbewertung (Mdn = 3) und Governance (Mdn = 4, 57% auf der höchsten Option), aber schwach bei **Datenschutz (Mdn = 1, 66% auf der niedrigsten Option)** und **algorithmischer Manipulation (Mdn = 2, 47% auf der niedrigsten Option)**. Nach Domäne gruppiert lag der Median der output-orientierten Punktzahl bei 3 gegenüber 2 für systemorientiert. Der Befund ist nicht, dass diesen Schülerinnen und Schülern Kompetenz fehlte, sondern dass **Kompetenz im Lesen von KI-Ausgaben sich nicht darauf erstreckte, zu hinterfragen, wie diese Ausgabe produziert wurde** — eine Unterscheidung mit direkten Folgen dafür, wie ein Programm zugeschnitten und gemessen wird, da eine einzelne Punktzahl beide Register mitteln und eine Mitte berichten würde, die keines von beiden beschreibt.
 
 ### Dimensionen von KI-Kompetenz
 
@@ -171,6 +177,8 @@ Die Rahmenwerke und empirischen Studien der Wissensbasis laufen auf eine Reihe p
 
 Ein eigener Forschungsstrang behandelt KI-Kompetenz nicht nur als Ziel von Unterricht, sondern als ein zu messendes Konstrukt. Der Assessment-Strang der Wissensbasis unterscheidet **selbst berichtete** von **leistungsbasierter** Kompetenz: Selbstauskünfte weichen stark von demonstrierter Kompetenz ab (Lehrkräfte überschätzen um ~40%), und leistungsbasierte Maße sagen die Integration von KI im Klassenzimmer weit besser vorher als Vertrauensbefragungen (r≈0.72 vs 0.31). Interventionsarbeit reproduziert diese Divergenz auf der Verhaltensebene: in [[clerc-ai-literacy-workshop-llm-regulation-2026|Clerc et al. (2026)]] sagten weder GenAI-Einstellungen noch eine allgemeine Skala metakognitiven Bewusstseins die Regulierung der LLM-Interaktion der Studierenden oder ihre abschließenden Aufgabenergebnisse vorher (r = .01 und r = .04, beide nicht signifikant), während die Verhaltensweisen, die der Workshop veränderte — unterspezifizierte Prompts ablehnen, die Richtigkeit von Antworten beurteilen, eine Anschlussfrage stellen —, mit der Antwortqualität einhergingen. Validierte Instrumente entstehen, um diese Lücke zu schließen — der [[jin-glat-genai-literacy-assessment|GLAT]] bietet ein psychometrisch validiertes Assessment von GenAI-Kompetenz, und diagnostische Profile (Überschätzer gegenüber echten Novizinnen und Novizen) lassen Gestaltende Unterstützung dort adressieren, wo sie gebraucht wird. [[caeai-digital-literacy-frameworks-review-2026|Guo et al. (2026)]] kartieren diese Instrumentlandschaft direkt und reviewten 80 validierte Rahmenwerke — 69 zur digitalen Kompetenz und 11 zur KI-Kompetenz —, veröffentlicht zwischen Januar 2014 und Februar 2025. KI hat digitale Kompetenz hin zur Ethik gezogen und Kommunikation neu gefasst, um Mensch-KI-Interaktion einzuschließen, während metakognitive Regulierung und bildungspersonalspezifische Mensch-KI-Zusammenarbeit die am wenigsten spezifizierten bleiben. Für Design und Forschung verknüpft dies KI-Kompetenz mit [[educational-measurement|Bildungsmessung]] und mit [[assessment|Assessment]] insgesamt: ein Kompetenzrahmenwerk ist nur so nützlich wie die Instrumente, die Wachstum verfolgen, und stufenbasierte Kontinua erfordern reliable Messung, um Lernende entlang von ihnen zu verorten.
 
+[[genait-genai-literacy-test-high-school-2026|Puppart, Laak und Aru (2026)]] liefern die bislang größte objektive Entsprechung: einen 18-Item-Test, validiert an 7.432 estnischen Gymnasiastinnen und Gymnasiasten (marginale Reliabilität = .72), dessen Punktzahlen nicht mit der wahrgenommenen Nutzungsfreundlichkeit zusammenhingen (ρ = .01) und negativ mit der Nutzungshäufigkeit (ρ = −.16 bis −.19).
+
 Ein 32-Item-Instrument mit sechs Facetten erweitert das Vierdimensionenmodell um zwei weitere Facetten — responsible use und self-development — und hält Skalarinvarianz über Heranwachsende (12–17), junge Erwachsene (18–40) und Erwachsene mittleren Lebensalters (41–60), wenngleich die Autoren warnen, dass das ΔCFI sich dem konventionellen Schwellenwert näherte ([[sfailq-six-facet-ai-literacy-questionnaire-2026|Liu et al. (2026)]]).
 
 [[zhi-modeling-measuring-graduate-genai-literacy-2026|Zhi, Yang und Huang (2026)]] bauen ein graduatespezifisches Modell auf Marzanos Taxonomie: eine Grounded-Theory-Analyse von Interviews mit 14 Professoren kondensierte 329 Rohlabels zu 96 Konzepten, 15 Kategorien und fünf Dimensionen (cognitive foundation, operational skills, higher-order thinking, metacognitive reflection, ethical responsibility), die dann als 15-Item-Likert-Skala operationalisiert wurden, deren fünf Faktoren in explorativer Faktorenanalyse auftraten (83.14% kumulativer Varianz) und in konfirmatorischer Faktorenanalyse an einer zweiten Unterstichprobe hielten (CFI = 0.934, RMSEA = 0.083), mit Reliabilitäten von 0.796 bis 0.842 über 308 gültige Fragebögen.
@@ -201,6 +209,16 @@ KI-Kompetenz ist für Überabhängigkeit **zweischneidig**: [[student-dependency
 - **Sozialistisch-humanistische KI-Kompetenz (2026):** Ein Literaturreview kritisiert compliance-orientierte KI-Kompetenz und schlägt eine sozialistisch-humanistische Rahmung asynchroner KI-Kompetenz und fair use in der Hochschulbildung vor, die die historische digitale Kluft mit moderner KI-Kompetenz verknüpft und Ansätze einfordert, die menschlichem Gedeihen und Gerechtigkeit dienen statt mechanischer Politik-Compliance ([[mechanical-compliance-human-flourishing-ai-literacy-2026]]).
 - **Günstige, leichtgewichtige Warnungen dämpfen KI-Überzeugung — ohne allgemeines Vertrauen zu kosten.** [[ai-literacy-warning-political-persuasion-2026|Orchinik und Rand (2026)]] präregistrierten zwei Experimente (insgesamt N = 3.208 US-Erwachsene), in denen Teilnehmende mit einem [[llm|LLM]] konversierten, das angewiesen war, ihre Ansichten zu politischen Themen zu verschieben. Eine einzige kurze Warnung — dass Modelle zum Überzeugen geprompttet werden können und Information selektiv darstellen können — halbierte die Überzeugungsänderung ungefähr (-48.1%, 95% CI [-59.5%, -36.8]) gegenüber der Kontrolle, und das Hinzufügen spezifischer Warnungen zu Überzeugungstechniken erbrachte keinen weiteren Nutzen. Die Eigenschaft, die für das Lehren zählt, liegt auf der anderen Seite des Effekts: allgemeines Vertrauen in [[generative-ai|generative KI]] fiel nicht, sodass die Intervention [[trust-calibration|kalibriertes Vertrauen]] aufbaut statt pauschale Skepsis. Es ist eine Ein-Absatz-Intervention ohne Begleitung, was ein seltenes Kostenprofil für ein KI-Kompetenzdesign ist.
 - **Governance von KI durch Lernende zählt mehr als das Design des Werkzeugs.** [[ai-literacy-tool-design-programming-education-2026|Azimi (2026)]] randomisierte 33 Studierende eines Masterkurses in Datenanalyse zwischen einem im Notebook eingebetteten, gerüsteten AI Study Coach (n = 16) und uneingeschränkter Nutzung beliebiger [[generative-ai|generativer KI]]-Werkzeuge ihrer Wahl (n = 17) über sieben Wochen. Aufgabenleistung und Zuwächse im Konzeptinventar waren ununterscheidbar; die Coach-Bedingung berichtete stattdessen höheres [[self-efficacy|Vertrauen]]. Was Studierende unterschied, war KI-Kompetenz in der Praxis: diejenigen, die eigene Regeln dafür formuliert hatten, wann sie KI nutzen, punkteten in beiden Bedingungen höher, und die Studierenden mit dem tiefsten Modellverständnis — alle selbst beigebracht — prompteten am absichtsvollsten. Die Designimplikation läuft gegen den Kontrollreflex: lehren Sie die [[self-regulated-learning|selbstregulatorischen]] und modellverstehenden Komponenten von KI-Kompetenz, statt Werkzeuge einzuschränken.
+
+Für kritische KI-Kompetenz im Besonderen zeigen [[solyst-youth-systematic-evaluation-genai-2026|Solyst et al. (2026)]], dass Jugendliche gelehrt werden können, generative KI systematisch zu bewerten, sofern sie ein Scaffolding erhalten, das benennt, worauf zu achten ist, und eine Struktur, um festzuhalten, was sie finden.
+
+[[suartama-cafe-ai-pedagogy-technology-ai-literacy-2026|Suartama, Sukmana und Triwahyuni (2026)]] schlagen CAFE-AI vor, ein Design, das KI-Kompetenzunterricht mit Growth-Mindset-Rahmung paart, und berichten, dass die Kombination sowohl die gemessene KI-Kompetenz als auch die Denkhaltung über ein Semester in einem indonesischen Universitätskurs verbesserte.
+
+## Verbreitete Fehlvorstellungen
+
+- **„Selbst berichtete KI-Kompetenz bildet die tatsächliche KI-Kompetenz ab."** Sie **weicht stark von der gemessenen Leistung ab** — Lehrkräfte **überschätzen ihre Fähigkeiten um etwa 40%**, und [[ai-literacy-assessment-misalignment|Forschung zur Bewertung von Kompetenz]] zeigt dieselbe **40%-Lücke** zwischen Selbstauskunft und leistungsbasierter Messung. Eine Befragung zur KI-Kompetenz misst Zuversicht, nicht Kompetenz.
+- **„KI-Kompetenz ist ein einziges Konstrukt."** [[sun-student-genai-entanglement-literacy-demands-2026|Sun, Dohn und Rehm (2026)]] klassifizierten **102 empirische Hochschulstudien** und fanden, dass das Konstrukt nicht einheitlich ist. Ein Programm, das eine Dimension aufbaut, lässt die anderen unadressiert.
+- **„Eine Überschätzung um 40% ist ein geringfügiges Kalibrierungsproblem."** Sie bedeutet, dass gerade die Studierenden und Lehrkräfte, die am zuversichtlichsten in ihre KI-Kompetenz sind, möglicherweise am wenigsten in der Lage sind, Ausgaben zu bewerten — genau die Population, die eine Intervention zuerst erreichen muss.
 
 ## Verbundene Konzepte
 - [[pedagogical-patterns]] — Entwickelt aus den Schritten kritischer Prüfung in diesen Sequenzen
@@ -280,3 +298,4 @@ KI-Kompetenz ist für Überabhängigkeit **zweischneidig**: [[student-dependency
 - [[bozkurt-3wai-literacy-scale-2026]] — Validierte 17-Item-Selbstauskunftsskala mit drei distinkten KI-Kompetenzfaktoren (Know What/How/Why); Know-How und Know-Why am stärksten gekoppelt (HTMT = 0,544)
 - [[hallstrom-ai-literacy-stem-education-frontiers-2026]] — Synthese der zehn am häufigsten zitierten Studien zu KI-Kompetenz in der MINT-Bildung (Hallström et al. 2026)
 - [[wang-jin-anthropocentrism-learnification-ai-education-2026]] — Das Verlangen, über KI zu lernen, gelesen als disziplinierender Diskurs (Wang & Jin 2026)
+- [[genait-genai-literacy-test-high-school-2026]] — GenAIT: Ein objektiver Test zur generativen KI-Kompetenz für Gymnasiastinnen und Gymnasiasten und seine Assoziationen mit LLM-Nutzung und -Wahrnehmungen (Puppart, Laak und Aru 2026)

@@ -1,7 +1,7 @@
 ---
 title: 教育中的人工智能
 created: "2026-09-22T14:35:06-04:00"
-updated: "2026-10-24T14:25:00-04:00"
+updated: "2026-10-27T04:13:56-04:00"
 type: concept
 foundations: [ai-education, ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring, llm]
@@ -13,7 +13,7 @@ connected_faqs: [top-10-findings-ai-education-instructors]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: concepts/ai-education
-source_updated: "2026-10-02T07:35:56-04:00"
+source_updated: "2026-10-26T02:30:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -29,6 +29,11 @@ ai_assist:
     role: translation
     date: "2026-09-28"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-27"
+    agent: hermes-agent
+
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -157,6 +162,18 @@ ai_assist:
 ## 关联
 
 教育中的人工智能与本知识库中的每一个概念都相连，因为正是这一领域由所有其他概念页面共同界定。把本页当作起点，去浏览整个知识库。
+
+## 常见误解
+
+**"教育中的人工智能是一个拥有单一证据基础的领域。"** 它是一把覆盖多个不同分支的伞——学科、层次、评估、研究方法、机构、公平——这些分支在方法、结果测量和成熟度上各不相同。一个分支的发现不会转移到另一个分支，这正是知识库这样组织、而不是当作单一文献的原因。
+
+**"能改善课程结果的一款工具就能改善学生的成功。"** 机构分支显示出相反的模式：在[[student-support-and-success|学生支持与成功]]中，AI **可靠地推动任务完成，却不推动持续就读或毕业**。一项干预可以在课程内的每一项指标上取胜，却让完成结果保持不动。
+
+**"技术性能就是关于学习的证据。"** 这个领域位于教学技术与[[learning-sciences|学习科学]]的交汇处，两者的区别恰恰在于：学习者是否发生了改变，而不只是工具是否表现良好。一次演示只是关于工具的主张。
+
+**"因为 AI 是通用的，任何地方的发现都适用于所有地方。"** 技术的通用性并不产生证据的通用性。学科、层次和情境分支之所以存在，是因为同一工具在它们之间表现不同；把一个不变的发现带过边界，就是一种外推。
+
+**"领域的成熟度可以从其出版数量看出来。"** 数量与成熟度会分道扬镳；研究方法分支记录下反复出现的设计弱点，这些弱点并不会因数量而修复，而框架的增殖速度快于它们被检验的速度。
 
 ## 关联概念
 

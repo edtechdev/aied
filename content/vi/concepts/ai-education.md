@@ -1,6 +1,7 @@
 ---
 title: "AI trong Giáo dục"
 created: "2026-10-15T14:22:00-04:00"
+updated: "2026-10-27T04:13:56-04:00"
 type: concept
 foundations: [ai-education, ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring, llm]
@@ -14,7 +15,7 @@ confidence: high
 institutions: [educational-policy-ai]
 reviewed_by: [editor]
 translation_of: "concepts/ai-education"
-source_updated: "2026-10-02T07:35:56-04:00"
+source_updated: "2026-10-26T02:30:00-04:00"
 translation_note: "*Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét.*"
 contributors: [editor]
 ai_assist:
@@ -22,6 +23,11 @@ ai_assist:
     role: translation
     date: "2026-10-15"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-27"
+    agent: hermes-agent
+
 ---
 *Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét.*
 
@@ -152,6 +158,18 @@ Cơ sở kiến thức phản ánh một lĩnh vực đang tiến hóa nhanh ch�
 ## Các kết nối
 
 AI trong giáo dục kết nối với mọi khái niệm trong cơ sở kiến thức — đó là lĩnh vực mà tất cả các trang khái niệm khác cùng nhau định nghĩa. Hãy dùng trang này như điểm khởi đầu để điều hướng toàn bộ cơ sở kiến thức.
+
+## Những hiểu lầm phổ biến
+
+**"AI trong giáo dục là một lĩnh vực duy nhất với một nền tảng bằng chứng duy nhất."** Đây là một chiếc ô che các nhánh riêng biệt — ngành học, cấp độ, đánh giá, phương pháp nghiên cứu, thể chế, công bằng — khác nhau về phương pháp, thước đo kết quả và độ chín. Một phát hiện từ nhánh này không chuyển sang nhánh khác, đó là lý do cơ sở kiến thức được tổ chức theo cách này thay vì như một nền tài liệu duy nhất.
+
+**"Một công cụ cải thiện kết quả học phần sẽ cải thiện thành công của sinh viên."** Nhánh thể chế cho thấy mô thức ngược lại: trong [[student-support-and-success|hỗ trợ và thành công của học sinh]], AI **cải thiện một cách đáng tin cậy việc hoàn thành nhiệm vụ nhưng không cải thiện việc duy trì học tập hay tốt nghiệp**. Một can thiệp có thể thắng mọi thước đo trong học phần mà vẫn để kết quả hoàn thành đứng yên.
+
+**"Hiệu năng của công nghệ là bằng chứng về việc học."** Lĩnh vực nằm ở giao điểm của công nghệ dạy học và [[learning-sciences|các ngành khoa học về học tập]], và khác biệt giữa hai bên chính là điều này: liệu người học có thay đổi hay không, chứ không chỉ là liệu một công cụ có hoạt động tốt hay không. Một màn trình diễn là một tuyên bố về công cụ.
+
+**"Vì AI là đa dụng, một phát hiện ở bất kỳ đâu đều áp dụng ở mọi nơi."** Tính phổ quát của công nghệ không tạo ra tính phổ quát của bằng chứng. Các nhánh ngành học, cấp độ và bối cảnh tồn tại vì cùng một công cụ hành xử khác nhau giữa chúng, và một phát hiện không đổi được mang qua ranh giới là một sự ngoại suy.
+
+**"Độ chín của lĩnh vực có thể đọc được từ khối lượng xuất bản."** Khối lượng và độ chín tách rời nhau; nhánh phương pháp nghiên cứu ghi nhận những điểm yếu thiết kế lặp lại mà khối lượng không khắc phục được, và các khung lý thuyết sinh sôi nhanh hơn tốc độ chúng được kiểm chứng.
 
 ## Khái niệm liên quan
 - [[pedagogical-patterns]] — Những chuỗi đã được thử nghiệm vận hành hóa các phương pháp sư phạm của lĩnh vực

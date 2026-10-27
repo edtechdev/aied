@@ -1,6 +1,7 @@
 ---
 title: "Eğitimde Yapay Zeka"
 created: "2026-10-14T21:45:00-04:00"
+updated: "2026-10-27T04:13:56-04:00"
 type: concept
 foundations: [ai-education, ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring, llm]
@@ -14,7 +15,7 @@ confidence: high
 institutions: [educational-policy-ai]
 reviewed_by: [editor]
 translation_of: concepts/ai-education
-source_updated: "2026-10-02T07:35:56-04:00"
+source_updated: "2026-10-26T02:30:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -22,6 +23,11 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-27"
+    agent: hermes-agent
+
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -112,7 +118,7 @@ YZ’nin işe yarıp yaramadığını nasıl bildiğimiz kendi başına bir dald
 
 - **Araştırma yöntemleri:** şemsiye olarak [[research-methods-aied|research methods in AIED]]; [[qualitative-research|qualitative]], [[quantitative-research|quantitative]], [[mixed-methods-research|mixed-methods]], [[design-based-research|design-based]] ve [[usability-research|usability]] yaklaşımlarına ek olarak [[rct|randomized controlled trials]], [[meta-analysis-systematic-review|meta-analysis and systematic review]] ve [[network-analysis|network analysis]].
 
-Alanın kendi araştırma çalışması artık kendi başına bir konudur. [[ai-assisted-educational-research|AI-Assisted Educational Research]], YZ’nin literatür arama, tarama, nitel kodlama, analiz ve yazma için bir araç olarak kullanımını kapsar; öğretme ve öğrenme alanındaki bilgi üretimi gibi uygulayıcı araştırmaları dahil. YZ’nin öğrenenlere ne yaptığını incelemek için kullanılan tasarımlardan farklı kalır.
+Alanın kendi araştırma çalışması artık kendi başına bir konudur. [[ai-assisted-educational-research|YZ Destekli Eğitim Araştırması]], YZ’nin literatür arama, tarama, nitel kodlama, analiz ve yazma için bir araç olarak kullanımını kapsar; öğretme ve öğrenme alanındaki bilgi üretimi gibi uygulayıcı araştırmaları dahil. YZ’nin öğrenenlere ne yaptığını incelemek için kullanılan tasarımlardan farklı kalır.
 
 - **YZ sistemlerinin değerlendirilmesi:** bir sistemin yeteneğini yargılamak için [[ai-ed-evaluation|AI ed evaluation]] ve [[benchmark|benchmarks]]; önemli olan sonuç olarak [[learning-gains|learning gains]] ve bu kanıtın [[limitations-in-aied-research|cross-cutting limitations]] ile [[interpreting-and-applying-aied-research|how to read a single study]] uyarıcı karşı ağırlık olarak.
 
@@ -154,6 +160,18 @@ Bilgi tabanı hızlı evrim geçiren bir alanı yansıtır — erken akıllı ö
 
 Eğitimde YZ, bilgi tabanındaki her kavrama bağlanır — bu, diğer tüm kavram sayfalarının birlikte tanımladığı alandır. Tüm bilgi tabanında gezinmek için bu sayfayı bir başlangıç noktası olarak kullanın.
 
+## Yaygın yanlış anlamalar
+
+**“Eğitimde YZ, tek bir kanıt tabanı olan tek bir alandır.”** Disiplinler, düzeyler, değerlendirme, araştırma yöntemleri, kurumlar ve eşitlik gibi yöntemleri, sonuç ölçütleri ve olgunlukları bakımından farklılaşan ayrı dalların üzerinde bir şemsiyedir. Bir daldaki bulgu diğerine aktarılmaz; bilgi tabanının tek bir literatür yerine bu şekilde düzenlenmesinin nedeni budur.
+
+**“Ders sonuçlarını iyileştiren bir araç, öğrenci başarısını da iyileştirir.”** Kurumsal dal bunun tersini gösterir: [[student-support-and-success|öğrenci desteği ve başarısı]] alanında YZ **görev tamamlamayı güvenilir biçimde ilerletir, ancak sürdürme veya mezuniyeti ilerletmez**. Bir müdahale ders içi her ölçütü kazanıp tamamlama sonucunu değişmeden bırakabilir.
+
+**“Teknolojinin performansı öğrenmeye ilişkin kanıttır.”** Alan, öğretim teknolojisi ile [[learning-sciences|öğrenme bilimleri]]nin kesişiminde durur ve ikisi arasındaki fark tam olarak şudur: bir aracın performans göstermesinden çok, öğrencinin değişip değişmediği. Bir gösterim, araç hakkında bir iddiadır.
+
+**“YZ genel amaçlı olduğu için herhangi bir yerdeki bulgu her yerde geçerlidir.”** Teknolojinin genelliği, kanıtın genelliğini yaratmaz. Disiplin, düzey ve bağlam dalları, aynı aracın bunlar arasında farklı davranması nedeniyle vardır; bir sınırın ötesine değiştirilmeden taşınan bulgu ise bir ekstrapolasyondur.
+
+**“Alanın olgunluğu yayın hacminden okunabilir.”** Hacim ile olgunluk ayrışır; araştırma yöntemleri dalı, hacmin gidermediği yinelenen tasarım zayıflıklarını belgeler ve çerçeveler test edildiklerinden daha hızlı çoğalır.
+
 ## Bağlı kavramlar
 - [[pedagogical-patterns]] — The tested sequences that operationalize the field's pedagogies
 - [[ai-literacy]] — umbrella: understanding, using, and evaluating AI
@@ -185,7 +203,7 @@ Eğitimde YZ, bilgi tabanındaki her kavrama bağlanır — bu, diğer tüm kavr
 
 ## Bağlı makaleler
 
-Field-wide reviews of AI in education — the studies that survey the whole field or a whole educational level rather than one topic:
+Eğitimde yapay zekâ üzerine alan çapında derlemeler — tek bir konu yerine tüm alanı ya da tüm bir eğitim düzeyini tarayan çalışmalar:
 
 - [[rismanchian-ai-education-four-decades-aixed-2026]] — The evolution of AI-and-education research across four decades (AIxEd framework)
 - [[mishra-control-vs-agency-history-2025]] — Control vs. agency: a history of AI in education

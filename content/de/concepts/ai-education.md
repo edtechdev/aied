@@ -1,7 +1,7 @@
 ---
 title: KI in der Bildung
 created: "2026-09-22T14:35:11-04:00"
-updated: "2026-10-24T20:13:33-04:00"
+updated: "2026-10-27T04:14:20-04:00"
 type: concept
 foundations: [ai-education, ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring, llm]
@@ -13,7 +13,7 @@ connected_faqs: [top-10-findings-ai-education-instructors]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: concepts/ai-education
-source_updated: "2026-10-02T07:35:56-04:00"
+source_updated: "2026-10-26T02:30:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -28,6 +28,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-27"
     agent: hermes-agent
 ---
 
@@ -159,6 +163,18 @@ Die Wissensbasis spiegelt ein Feld in rascher Entwicklung: von frühen intellige
 ## Verbindungen
 
 KI in der Bildung ist mit jedem Konzept der Wissensbasis verbunden: Sie ist das Feld, das alle anderen Konzeptseiten gemeinsam definieren. Nutzen Sie diese Seite als Ausgangspunkt, um sich in der gesamten Wissensbasis zurechtzufinden.
+
+## Verbreitete Fehlvorstellungen
+
+**„KI in der Bildung ist ein Feld mit einer Evidenzbasis.“** Es ist ein Dach über unterschiedliche Stränge — Disziplinen, Stufen, Assessment, Forschungsmethoden, Institutionen, Gerechtigkeit —, die sich in ihren Methoden, ihren Ergebnisgrößen und ihrer Reife unterscheiden. Ein Befund aus einem Strang überträgt sich nicht auf einen anderen, weshalb die Wissensbasis so und nicht als eine einzige Literatur organisiert ist.
+
+**„Ein Werkzeug, das Kursergebnisse verbessert, verbessert den Studienerfolg.“** Der institutionelle Strang zeigt das umgekehrte Muster: In [[student-support-and-success|Studierendenunterstützung und -erfolg]] **bewegt KI verlässlich die Aufgabenerledigung, aber nicht Verbleib oder Abschluss**. Eine Intervention kann jede kursinterne Kennzahl gewinnen und das Abschlussergebnis unverändert lassen.
+
+**„Technische Leistung ist Evidenz über Lernen.“** Das Feld liegt an der Schnittstelle von Instruktionstechnologie und [[learning-sciences|Lernwissenschaften]], und der Unterschied zwischen beiden ist genau dies: ob sich ein Lernender verändert hat, statt nur ob ein Werkzeug funktioniert hat. Eine Demonstration ist eine Aussage über das Werkzeug.
+
+**„Weil KI allgemein einsetzbar ist, gilt ein Befund von überall überall.“** Die Allgemeinheit der Technologie erzeugt keine Allgemeinheit der Evidenz. Die Stränge zu Disziplin, Stufe und Kontext existieren, weil sich dasselbe Werkzeug über sie hinweg unterschiedlich verhält, und ein unveränderter Befund, der über eine Grenze getragen wird, ist eine Extrapolation.
+
+**„Die Reife des Feldes lässt sich am Publikationsvolumen ablesen.“** Volumen und Reife divergieren; der Strang der Forschungsmethoden dokumentiert wiederkehrende Designschwächen, die das Volumen nicht behebt, und Frameworks vermehren sich schneller, als sie geprüft werden.
 
 ## Verbundene Konzepte
 - [[pedagogical-patterns]] — Pädagogische Muster: die erprobten Sequenzen, die die Methoden des Felds umsetzen

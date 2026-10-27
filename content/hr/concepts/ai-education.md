@@ -1,6 +1,7 @@
 ---
 title: "Umjetna inteligencija u obrazovanju"
 created: "2026-10-15T14:22:00-04:00"
+updated: "2026-10-27T04:16:00-04:00"
 type: concept
 foundations: [ai-education, ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring, llm]
@@ -14,13 +15,17 @@ confidence: high
 institutions: [educational-policy-ai]
 reviewed_by: [editor]
 translation_of: "concepts/ai-education"
-source_updated: "2026-10-02T07:35:56-04:00"
+source_updated: "2026-10-26T02:30:00-04:00"
 translation_note: "*Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik.*"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-15"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-27"
     agent: hermes-agent
 ---
 
@@ -153,6 +158,18 @@ Baza znanja odražava područje u brzoj evoluciji — od ranih sustava inteligen
 ## Veze
 
 Umjetna inteligencija u obrazovanju povezuje se sa svakim konceptom u bazi znanja — to je područje koje sve ostale stranice koncepata zajednički definiraju. Upotrijebite ovu stranicu kao polazište za navigaciju cijelom bazom znanja.
+
+## Uobičajene zablude
+
+**„Umjetna inteligencija u obrazovanju jedno je područje s jednim temeljem dokaza.“** To je kišobran nad različitim nitima — discipline, razine, procjena, istraživačke metode, institucije, ravnopravnost — koje se razlikuju po svojim metodama, svojim ishodnim mjerama i svojoj zrelosti. Nalaz iz jedne niti ne prenosi se na drugu, i zato je baza znanja organizirana na taj način, a ne kao jedna literatura.
+
+**„Alat koji poboljšava ishode kolegija poboljšava i uspjeh studenata.“** Institucionalna nit pokazuje suprotan obrazac: u [[student-support-and-success|podršci i uspjehu učenika]] umjetna inteligencija **pouzdano poboljšava dovršenje zadataka, ali ne i istrajnost ili diplomiranje**. Intervencija može pobijediti na svakoj mjeri unutar kolegija, a ishod dovršenja ostaviti nepromijenjenim.
+
+**„Učinak tehnologije dokaz je o učenju.“** Područje se nalazi na sjecištu obrazovne tehnologije i [[learning-sciences|znanosti o učenju]], a razlika između njih upravo je ova: je li se učenik promijenio, a ne samo je li alat djelovao. Demonstracija je tvrdnja o alatu.
+
+**„Budući da je umjetna inteligencija opće namjene, nalaz s bilo kojeg mjesta vrijedi svugdje.“** Općenitost tehnologije ne stvara općenitost dokaza. Niti discipline, razine i konteksta postoje zato što se isti alat u njima ponaša različito, a nalaz prenesen preko granice bez promjene jest ekstrapolacija.
+
+**„Zrelost područja može se očitati iz opsega objavljivanja.“** Opseg i zrelost razilaze se; nit istraživačkih metoda dokumentira ponavljajuće slabosti nacrta koje opseg ne ispravlja, a okviri se množe brže nego što se testiraju.
 
 ## Povezani koncepti
 - [[pedagogical-patterns]] — Ispitane sekvence koje operacionaliziraju pedagogije područja

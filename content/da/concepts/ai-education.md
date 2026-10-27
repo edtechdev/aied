@@ -1,6 +1,7 @@
 ---
 title: "AI i uddannelse"
 created: "2026-10-15T14:22:00-04:00"
+updated: "2026-10-27T04:14:20-04:00"
 type: concept
 foundations: [ai-education, ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring, llm]
@@ -14,13 +15,17 @@ confidence: high
 institutions: [educational-policy-ai]
 reviewed_by: [editor]
 translation_of: "concepts/ai-education"
-source_updated: "2026-10-02T07:35:56-04:00"
+source_updated: "2026-10-26T02:30:00-04:00"
 translation_note: "*Automatisk maskinoversættelse af denne engelske side, der endnu ikke er blevet gennemgået af en modersmålstalere.*"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-15"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-27"
     agent: hermes-agent
 ---
 *Automatisk maskinoversættelse af denne engelske side, der endnu ikke er blevet gennemgået af en modersmålstalere.*
@@ -152,6 +157,18 @@ Vidensbasen afspejler et felt i hurtig udvikling — fra tidlige intelligente ve
 ## Forbindelser
 
 AI i uddannelse forbinder til hvert begreb i vidensbasen — det er det felt, som alle andre begrebssider tilsammen definerer. Brug denne side som udgangspunkt for at navigere i hele vidensbasen.
+
+## Almindelige fejlopfattelser
+
+**'AI i uddannelse er ét felt med én evidensbase.'** Det er en paraply over forskellige grene — fag, niveauer, evaluering, forskningsmetoder, institutioner, lighed — som adskiller sig i deres metoder, deres resultatmål og deres modenhed. Et fund fra én gren overføres ikke til en anden, og derfor er vidensbasen organiseret sådan og ikke som én samlet litteratur.
+
+**'Et værktøj, der forbedrer kursets resultater, forbedrer elevernes succes.'** Den institutionelle gren viser det modsatte mønster: i [[student-support-and-success|elevstøtte og -succes]] **flytter AI pålideligt opgavefuldførelse, men ikke vedbliven eller færdiggørelse af uddannelsen**. En intervention kan vinde hvert eneste mål i kurset og lade færdiggørelsesresultatet stå uændret.
+
+**'Teknologiens ydeevne er evidens om læring.'** Feltet ligger i krydsfeltet mellem instruktionsteknologi og [[learning-sciences|læringsvidenskaber]], og forskellen mellem de to er netop dette: om en elev forandrede sig, og ikke kun om et værktøj præsterede. En demonstration er en påstand om værktøjet.
+
+**'Fordi AI er generel, gælder et fund et sted overalt.'** Teknologiens generalitet skaber ikke evidensens generalitet. Grenene for fag, niveau og kontekst findes, fordi det samme værktøj opfører sig forskelligt på tværs af dem, og et uændret fund båret over en grænse er en ekstrapolation.
+
+**'Feltets modenhed kan aflæses af dets publikationsvolumen.'** Volumen og modenhed divergerer; forskningsmetodegrenen dokumenterer tilbagevendende svagheder i design, som volumen ikke retter, og rammer formerer sig hurtigere, end de testes.
 
 ## Forbundne begreber
 - [[pedagogical-patterns]] — De afprøvede sekvenser, der operationaliserer feltets pædagogikker

@@ -1,6 +1,7 @@
 ---
 title: "Tekoäly koulutuksessa"
 created: "2026-10-15T14:22:00-04:00"
+updated: "2026-10-27T04:14:20-04:00"
 type: concept
 foundations: [ai-education, ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring, llm]
@@ -14,13 +15,17 @@ confidence: high
 institutions: [educational-policy-ai]
 reviewed_by: [editor]
 translation_of: "concepts/ai-education"
-source_updated: "2026-10-02T07:35:56-04:00"
+source_updated: "2026-10-26T02:30:00-04:00"
 translation_note: "Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-15"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-27"
     agent: hermes-agent
 ---
 
@@ -155,6 +160,18 @@ Tietopohja heijastaa nopeasti kehittyvää alaa — varhaisista älykkäistä op
 ## Yhteydet
 
 Tekoäly koulutuksessa liittyy jokaiseen konseptiin tietopohjassa — se on ala, jonka kaikki muut konseptisivut yhdessä määrittelevät. Käytä tätä sivua lähtökohtana koko tietopohjan navigointiin.
+
+## Yleiset väärinkäsitykset
+
+**”Tekoäly koulutuksessa on yksi ala, jolla on yksi näyttöpohja.”** Se on sateenvarjo erillisten säikeiden yllä — oppiaineet, tasot, arviointi, tutkimusmenetelmät, instituutiot, yhdenvertaisuus — jotka eroavat menetelmissään, tulosmittareissaan ja kypsyydessään. Yhden säikeen löydös ei siirry toiseen, minkä vuoksi tietopohja on järjestetty näin eikä yhtenä kirjallisuutena.
+
+**”Työkalu, joka parantaa kurssin tuloksia, parantaa opiskelijoiden menestystä.”** Institutionaalinen säie osoittaa päinvastaisen kuvion: [[student-support-and-success|oppilastuki ja menestyminen]] osoittaa, että tekoäly **lisää luotettavasti tehtävien suorittamista mutta ei sinnikkyyttä tai valmistumista**. Interventio voi voittaa jokaisen kurssin sisäisen mittarin ja jättää valmistumistuloksen ennalleen.
+
+**”Teknologian suorituskyky on näyttöä oppimisesta.”** Ala sijaitsee opetusteknologian ja [[learning-sciences|oppimistieteiden]] leikkauspisteessä, ja näiden kahden ero on juuri tämä: muuttuiko oppija, eikä vain se, toimiko työkalu. Demonstraatio on väite työkalusta.
+
+**”Koska tekoäly on yleiskäyttöistä, jossain saatu löydös pätee kaikkialla.”** Teknologian yleisyys ei luo näytön yleisyyttä. Oppiaineen, tason ja kontekstin säikeet ovat olemassa, koska sama työkalu käyttäytyy niissä eri tavoin, ja rajan yli muuttumattomana siirretty löydös on ekstrapolaatio.
+
+**”Alan kypsyys voidaan lukea julkaisumäärästä.”** Määrä ja kypsyys eroavat toisistaan; tutkimusmenetelmien säie dokumentoi toistuvia suunnittelun heikkouksia, joita määrä ei korjaa, ja viitekehyksiä syntyy nopeammin kuin niitä testataan.
 
 ## Liittyvät konseptit
 - [[pedagogical-patterns]] — Testatut jonot, jotka operationalisoivat alan pedagogiikat

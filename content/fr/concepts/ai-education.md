@@ -1,7 +1,7 @@
 ---
 title: "L'IA en éducation"
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-10T02:08:25-04:00"
+updated: "2026-10-27T04:16:00-04:00"
 type: concept
 foundations: [ai-education, ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring, llm]
@@ -14,13 +14,17 @@ connected_faqs: [top-10-findings-ai-education-instructors]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: concepts/ai-education
-source_updated: "2026-10-02T07:35:56-04:00"
+source_updated: "2026-10-26T02:30:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-27"
     agent: hermes-agent
 ---
 
@@ -153,6 +157,18 @@ La base de connaissances reflète un domaine en évolution rapide : des premiers
 ## Connexions
 
 L'IA en éducation est liée à chaque concept de la base de connaissances : c'est le domaine que toutes les autres pages de concepts définissent collectivement. Utilisez cette page comme point de départ pour parcourir l'ensemble de la base de connaissances.
+
+## Idées fausses courantes
+
+**« L'IA en éducation est un seul champ avec un seul corpus de données probantes. »** C'est un parapluie qui recouvre des fils distincts — disciplines, niveaux, évaluation, méthodes de recherche, institutions, équité — qui diffèrent par leurs méthodes, leurs mesures de résultat et leur maturité. Un résultat issu d'un fil ne se transfère pas à un autre, ce qui explique pourquoi la base de connaissances est organisée ainsi plutôt que comme une littérature unique.
+
+**« Un outil qui améliore les résultats d'un cours améliore la réussite des étudiants. »** Le fil institutionnel montre le schéma inverse : dans le [[student-support-and-success|soutien et la réussite des étudiants]], l'IA **fait avancer de façon fiable l'achèvement des tâches, mais pas la persévérance ni l'obtention du diplôme**. Une intervention peut gagner toutes les mesures internes au cours et laisser le résultat d'achèvement inchangé.
+
+**« La performance d'une technologie est une preuve d'apprentissage. »** Le domaine se situe à l'intersection des technologies éducatives et des [[learning-sciences|sciences de l'apprentissage]], et la distinction entre les deux est exactement celle-ci : si un apprenant a changé, et pas seulement si un outil a fonctionné. Une démonstration est une affirmation sur l'outil.
+
+**« Parce que l'IA est polyvalente, un résultat trouvé quelque part s'applique partout. »** La généralité de la technologie ne crée pas la généralité des données probantes. Les fils des disciplines, des niveaux et des contextes existent parce que le même outil se comporte différemment selon eux, et un résultat transporté tel quel au-delà d'une frontière est une extrapolation.
+
+**« La maturité du domaine se lit dans son volume de publications. »** Volume et maturité divergent ; le fil des méthodes de recherche documente des faiblesses récurrentes de conception que le volume ne corrige pas, et les cadres se multiplient plus vite qu'ils ne sont testés.
 
 ## Concepts liés
 - [[pedagogical-patterns]] — Les séquences éprouvées qui opérationnalisent les pédagogies du domaine

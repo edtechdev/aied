@@ -1,6 +1,7 @@
 ---
 title: "AI dalam Pendidikan"
 created: "2026-10-15T09:15:00-04:00"
+updated: "2026-10-27T04:16:00-04:00"
 type: concept
 foundations: [ai-education, ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring, llm]
@@ -14,13 +15,17 @@ confidence: high
 institutions: [educational-policy-ai]
 reviewed_by: [editor]
 translation_of: "concepts/ai-education"
-source_updated: "2026-10-02T07:35:56-04:00"
+source_updated: "2026-10-26T02:30:00-04:00"
 translation_note: "*Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-15"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-27"
     agent: hermes-agent
 ---
 
@@ -153,6 +158,18 @@ Basis pengetahuan ini mencerminkan bidang yang berevolusi cepat — dari sistem 
 ## Koneksi
 
 AI dalam pendidikan terhubung ke setiap konsep di basis pengetahuan — ini adalah bidang yang secara kolektif didefinisikan oleh semua halaman konsep lainnya. Gunakan halaman ini sebagai titik awal untuk menavigasi basis pengetahuan secara penuh.
+
+## Miskonsepsi Umum
+
+**"AI dalam pendidikan adalah satu bidang dengan satu basis bukti."** Ini adalah payung atas untaian yang berbeda — disiplin, tingkat, penilaian, metode penelitian, institusi, ekuitas — yang berbeda dalam metode, ukuran hasil, dan kedewasaannya. Temuan dari satu untaian tidak berpindah ke untaian lain, dan itulah sebabnya basis pengetahuan diorganisasi dengan cara ini alih-alih sebagai satu literatur tunggal.
+
+**"Alat yang meningkatkan hasil mata kuliah meningkatkan keberhasilan siswa."** Untaian institusional menunjukkan pola sebaliknya: dalam [[student-support-and-success|dukungan dan keberhasilan siswa]], AI **secara andal memindahkan penyelesaian tugas tetapi bukan ketekunan atau kelulusan**. Sebuah intervensi dapat memenangkan setiap ukuran di dalam mata kuliah dan tetap meninggalkan hasil penyelesaian datar.
+
+**"Kinerja teknologi adalah bukti tentang pembelajaran."** Bidang ini berada di persimpangan teknologi instruksional dan [[learning-sciences|ilmu pembelajaran]], dan perbedaan antara keduanya persis ini: apakah pembelajar berubah, bukan hanya apakah sebuah alat berkinerja. Demonstrasi adalah klaim tentang alatnya.
+
+**"Karena AI bersifat serbaguna, temuan di mana pun berlaku di mana pun."** Keumuman teknologi tidak menciptakan keumuman bukti. Untaian disiplin, tingkat, dan konteks ada karena alat yang sama berperilaku berbeda di antaranya, dan temuan yang dibawa tanpa perubahan melintasi batas adalah ekstrapolasi.
+
+**"Kedewasaan bidang dapat dibaca dari volume publikasinya."** Volume dan kedewasaan menyimpang; untaian metode penelitian mendokumentasikan kelemahan desain yang berulang yang tidak diperbaiki oleh volume, dan kerangka kerja bertambah lebih cepat daripada diuji.
 
 ## Konsep Terkait
 - [[pedagogical-patterns]] — Urutan teruji yang mengoperasionalkan pedagogi bidang tersebut

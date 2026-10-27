@@ -1,6 +1,7 @@
 ---
 title: "Inteligența artificială în educație"
 created: "2026-10-15T14:22:00-04:00"
+updated: "2026-10-27T04:16:20-04:00"
 type: concept
 foundations: [ai-education, ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring, llm]
@@ -13,13 +14,17 @@ confidence: high
 institutions: [educational-policy-ai]
 reviewed_by: [editor]
 translation_of: "concepts/ai-education"
-source_updated: "2026-10-02T07:35:56-04:00"
+source_updated: "2026-10-26T02:30:00-04:00"
 translation_note: "*Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ.*"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-15"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-27"
     agent: hermes-agent
 ---
 
@@ -152,6 +157,18 @@ Baza de cunoștințe reflectă un domeniu în evoluție rapidă — de la primel
 ## Conexiuni
 
 Inteligența artificială în educație se leagă de fiecare concept din baza de cunoștințe — este domeniul pe care toate celelalte pagini de concept îl definesc colectiv. Folosește această pagină ca punct de plecare pentru a naviga întreaga bază de cunoștințe.
+
+## Idei greșite frecvente
+
+**„IA în educație este un singur domeniu cu o singură bază de dovezi."** Este o umbrelă peste fire distincte — discipline, niveluri, evaluare, metode de cercetare, instituții, echitate — care diferă prin metodele, măsurile de rezultat și maturitatea lor. Un rezultat dintr-un fir nu se transferă în altul, motiv pentru care baza de cunoștințe este organizată astfel, și nu ca o singură literatură.
+
+**„Un instrument care îmbunătățește rezultatele cursului îmbunătățește reușita elevului."** Firul instituțional arată modelul opus: [[student-support-and-success|sprijinul și reușita elevului]] este domeniul în care IA **deplasează în mod fiabil finalizarea sarcinilor, dar nu persistența sau absolvirea**. O intervenție poate câștiga fiecare măsură din cadrul cursului și poate lăsa rezultatul finalizării neschimbat.
+
+**„Performanța tehnologiei este dovadă despre învățare."** Domeniul se află la intersecția dintre tehnologia instrucțională și [[learning-sciences|științele învățării]], iar distincția dintre cele două este exact aceasta: dacă un elev s-a schimbat, nu doar dacă un instrument a performat. O demonstrație este o afirmație despre instrument.
+
+**„Deoarece IA este de uz general, un rezultat de oriunde se aplică pretutindeni."** Generalitatea tehnologiei nu creează generalitatea dovezilor. Firele de disciplină, nivel și context există pentru că același instrument se comportă diferit de-a lungul lor, iar un rezultat neschimbat trecut peste o graniță este o extrapolare.
+
+**„Maturitatea domeniului poate fi citită din volumul publicațiilor."** Volumul și maturitatea diverg; firul metodelor de cercetare documentează slăbiciuni recurente de design pe care volumul nu le repară, iar cadrele se înmulțesc mai repede decât sunt testate.
 
 ## Concepte conexe
 - [[pedagogical-patterns]] — Secvențele testate care operationalizează pedagogiile domeniului

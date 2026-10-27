@@ -1,7 +1,7 @@
 ---
 title: "Littératie en IA"
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-10-24T10:37:31-04:00"
+updated: "2026-10-27T04:12:34-04:00"
 type: concept
 foundations: [academic-integrity, ai-education, ai-literacy, educational-development]
 technology: [generative-ai, llm]
@@ -9,15 +9,19 @@ audience: [faculty developers, instructors, learners]
 level: [higher ed, k 12]
 connected_faqs: [incorporating-ai-literacy, ai-literacy-evidence, faculty-ai-competencies, addressing-common-misconceptions-ai-education, ai-guidance-children-under-13, verify-ai-output]
 confidence: high
-connected_resources: [education-agent-skills, edugems, mglearn, onmicro-ai, playlab, pressing-prompts, student-guide-to-ai, vibes-diy]
+connected_resources: [education-agent-skills, edugems, mglearn, onmicro-ai, playlab, pressing-prompts, student-guide-to-ai, vibes-diy, fpds-apps-and-resources]
 translation_of: concepts/ai-literacy
-source_updated: "2026-10-23T09:20:00-04:00"
+source_updated: "2026-10-26T13:50:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-27"
     agent: hermes-agent
 ---
 
@@ -37,6 +41,8 @@ ai_assist:
 ## Introduction
 
 La littératie en IA a rapidement émergé comme une compétence centrale pour les apprenants, les éducateurs et les institutions, à mesure que l'[[generative-ai|IA générative]] s'intègre à l'éducation. À la différence de la littératie numérique générale, la littératie en IA exige de comprendre des systèmes probabilistes qui peuvent halluciner, manifester des [[bias-mitigation|biais]], et déplacer l'[[agency|autonomie]] de l'humain vers la machine — ce qui rend la [[critical-thinking|pensée critique]] et le [[cognitive-offloading|délestage cognitif]] centraux dans le construit.
+
+**La littératie orientée vers les productions et la littératie orientée vers les systèmes sont des dimensions distinctes, et la scission est étayée par des preuves.** [[bergdahl-student-epistemic-agency-ai-2026|Bergdahl (2026)]] a trouvé 47 élèves suédois de 7e année forts en évaluation des sources (Mdn = 3) et en gouvernance (Mdn = 4, 57% à l'option la plus élevée) mais faibles en **protection des données (Mdn = 1, 66% à l'option la plus basse)** et en **manipulation algorithmique (Mdn = 2, 47% à l'option la plus basse)**. Regroupés par domaine, le score médian orienté vers les productions était de 3 contre 2 pour l'orientation vers les systèmes. Le constat n'est pas que ces élèves manquaient de littératie, mais que **la littératie consistant à lire les productions de l'IA ne s'étendait pas à interroger la manière dont cette production avait été fabriquée** — une distinction aux conséquences directes sur la façon dont un programme est délimité et mesuré, puisqu'un score unique moyennerait les deux registres et rapporterait un milieu qui ne décrit ni l'un ni l'autre.
 
 ### Les dimensions de la littératie en IA
 
@@ -174,6 +180,8 @@ Les cadres et les études empiriques de la base de connaissances convergent vers
 Un courant de recherche distinct traite la littératie en IA non seulement comme une cible d'enseignement, mais comme un construit à mesurer. Le volet d'évaluation de la base de connaissances distingue la littératie **auto-déclarée** de la littératie **fondée sur la performance** : les auto-déclarations divergent fortement de la compétence démontrée (les enseignants surestiment d'environ 40%), et les mesures fondées sur la performance prédisent bien mieux l'intégration de l'IA en classe que les enquêtes de confiance (r≈0.72 contre 0.31). Les travaux d'intervention reproduisent cette divergence au niveau du comportement : chez [[clerc-ai-literacy-workshop-llm-regulation-2026|Clerc et al. (2026)]], ni les attitudes envers GenAI ni une échelle générale de conscience métacognitive ne prédisaient la régulation par les étudiants de l'interaction avec les LLM ni leurs scores finals à la tâche (r = .01 et r = .04, tous deux non significatifs), tandis que les comportements que l'atelier avait changés — rejeter les invites sous-spécifiées, juger l'exactitude des réponses, poser une question de suivi — suivaient bien la qualité des réponses. Des instruments validés émergent pour combler cette lacune — le [[jin-glat-genai-literacy-assessment|GLAT]] fournit une évaluation de littératie en IA générative validée sur le plan psychométrique, et des profils diagnostiques (surestimateurs contre vrais novices) permettent aux concepteurs de cibler le soutien là où il est nécessaire. [[caeai-digital-literacy-frameworks-review-2026|Guo et al. (2026)]] cartographient directement ce paysage d'instruments, en passant en revue 80 cadres validés — 69 de littératie numérique et 11 de littératie en IA — publiés entre janvier 2014 et février 2025. L'IA a tiré la littératie numérique vers l'éthique et recasté la communication pour y inclure l'interaction humain-IA, tandis que la régulation métacognitive et la collaboration humain-IA propre aux éducateurs restent les moins spécifiées. Pour la conception et la recherche, cela relie la littératie en IA à l'[[educational-measurement|mesure en éducation]] et à l'[[assessment|évaluation]] au sens large : un cadre de littératie n'est utile qu'à proportion des instruments utilisés pour suivre la croissance, et des continus fondés sur les stades exigent une mesure fiable pour y placer les apprenants.
 
 
+[[genait-genai-literacy-test-high-school-2026|Puppart, Laak et Aru (2026)]] fournissent le pendant objectif le plus vaste à ce jour : un test de 18 items validé auprès de 7,432 lycéens estoniens (fiabilité marginale = .72), dont les scores n'étaient pas liés à la facilité d'usage perçue (ρ = .01) et étaient négativement liés à la fréquence d'usage (ρ = −.16 à −.19).
+
 Un instrument à 32 items et six facettes étend le modèle à quatre dimensions de deux facettes supplémentaires — usage responsable et autodéveloppement — et maintient l'invariance scalaire entre adolescents (12–17), jeunes adultes (18–40) et adultes d'âge moyen (41–60), bien que les auteurs préviennent que le ΔCFI approchait le seuil conventionnel ([[sfailq-six-facet-ai-literacy-questionnaire-2026|Liu et al. (2026)]]).
 
 [[zhi-modeling-measuring-graduate-genai-literacy-2026|Zhi, Yang et Huang (2026)]] bâtissent un modèle propre aux étudiants diplômés sur la taxonomie de Marzano : l'analyse par théorie ancrée d'entretiens menés avec 14 professeurs a condensé 329 étiquettes brutes en 96 concepts, 15 catégories et cinq dimensions (fondement cognitif, compétences opérationnelles, pensée d'ordre supérieur, réflexion métacognitive, responsabilité éthique), puis les ont opérationnalisées sous forme d'une échelle de Likert de 15 items, dont les cinq facteurs ont émergé en analyse factorielle exploratoire (83.14% de la variance cumulée) et se sont maintenus en analyse factorielle confirmatoire sur un second sous-échantillon (CFI = 0.934, RMSEA = 0.083), avec une fiabilité allant de 0.796 à 0.842 sur 308 questionnaires valides.
@@ -207,6 +215,16 @@ La littératie en IA est **à double tranchant** pour le recours excessif : [[st
 - **Littératie en IA humaniste socialiste (2026) :** une revue de littérature critique la littératie en IA orientée vers la conformité et propose un cadrage humaniste socialiste de la littératie en IA asynchrone et de l'usage loyal dans l'enseignement supérieur, reliant la fracture numérique historique à la littératie en IA moderne et appelant à des approches qui servent l'épanouissement humain et l'équité plutôt que la conformité mécanique aux politiques ([[mechanical-compliance-human-flourishing-ai-literacy-2026]]).
 - **Des avertissements légers et peu coûteux émoussent la persuasion de l'IA — sans coûter de confiance générale.** [[ai-literacy-warning-political-persuasion-2026|Orchinik et Rand (2026)]] ont préenregistré deux expériences (total N = 3,208 adultes américains) dans lesquelles les participants conversaient avec un [[llm|LLM]] chargé de faire évoluer leurs opinions sur des sujets politiques. Un seul avertissement bref — selon lequel les modèles peuvent être sollicités pour persuader et peuvent présenter l'information de manière sélective — a réduit d'environ moitié le changement de croyance (-48.1%, IC à 95% [-59.5%, -36.8]) par rapport au contrôle, et l'ajout d'avertissements sur des techniques de persuasion spécifiques n'a produit aucun bénéfice supplémentaire. La propriété qui importe pour l'enseignement se situe de l'autre côté de l'effet : la confiance générale dans l'[[generative-ai|IA générative]] n'a pas chuté, si bien que l'intervention bâtit une [[trust-calibration|confiance calibrée]] plutôt qu'un scepticisme généralisé. C'est une intervention d'un paragraphe, sans facilitation, ce qui constitue un profil de coût rare pour une conception de littératie en IA.
 - **La gouvernance de l'IA par l'apprenant importe plus que la conception de l'outil.** [[ai-literacy-tool-design-programming-education-2026|Azimi (2026)]] a réparti au hasard 33 étudiants d'un cours de master d'analytique de données entre un coach d'étude par IA étayé, intégré aux carnets (n = 16), et l'usage sans restriction de tous les outils d'[[generative-ai|IA générative]] de leur choix (n = 17), pendant sept semaines. La performance aux devoirs et les gains à l'inventaire de concepts étaient indiscernables ; la condition Coach rapportait en revanche une [[self-efficacy|confiance]] plus élevée. Ce qui séparait les étudiants était la littératie en IA en pratique : ceux qui avaient formulé leurs propres règles sur le moment d'utiliser l'IA obtenaient des scores plus élevés dans les deux conditions, et les étudiants ayant la compréhension la plus profonde des modèles — tous autodidactes — rédigeaient les invites le plus délibérément. L'implication pour la conception va à l'encontre du réflexe de contrôle : enseignez les composantes d'[[self-regulated-learning|autorégulation]] et de compréhension des modèles de la littératie en IA, plutôt que de contraindre les outils.
+
+Pour la littératie critique en IA spécifiquement, [[solyst-youth-systematic-evaluation-genai-2026|Solyst et al. (2026)]] montrent que des jeunes peuvent apprendre à évaluer l'IA générative de manière systématique, à condition de disposer d'un étayage qui nomme ce qu'il faut rechercher et d'une structure pour consigner ce qu'ils trouvent.
+
+[[suartama-cafe-ai-pedagogy-technology-ai-literacy-2026|Suartama, Sukmana et Triwahyuni (2026)]] proposent CAFE-AI, une conception qui associe un enseignement de la littératie en IA à un cadrage par l'état d'esprit de développement, et rapportent que la combinaison a amélioré à la fois la littératie en IA mesurée et l'état d'esprit sur un semestre dans un cours universitaire indonésien.
+
+## Idées fausses courantes
+
+- **« La littératie en IA auto-déclarée reflète la littératie en IA réelle. »** Elle **diverge fortement de la performance mesurée** — les enseignants **surestiment leurs compétences d'environ 40%**, et [[ai-literacy-assessment-misalignment|la recherche sur l'évaluation de la littératie]] montre le même **écart de 40%** entre auto-déclaration et mesure fondée sur la performance. Une enquête sur la littératie en IA mesure la confiance, non la compétence.
+- **« La littératie en IA est un seul construit. »** [[sun-student-genai-entanglement-literacy-demands-2026|Sun, Dohn et Rehm (2026)]] ont classé **102 études empiriques d'enseignement supérieur** et ont constaté que le construit n'est pas unitaire. Un programme qui bâtit une dimension laisse les autres non traitées.
+- **« Une surestimation de 40% est un problème mineur de calibration. »** Elle signifie que les étudiants et les enseignants les plus confiants dans leur littératie en IA peuvent être ceux qui sont le moins capables d'évaluer les productions — exactement la population qu'une intervention doit atteindre en premier.
 
 ## Concepts liés
 - [[pedagogical-patterns]] — Élaborées par les étapes d'examen critique de ces séquences
@@ -283,3 +301,4 @@ La littératie en IA est **à double tranchant** pour le recours excessif : [[st
 - [[bozkurt-3wai-literacy-scale-2026]] — Échelle d'auto-déclaration validée à 17 items comportant trois facteurs distincts de littératie en IA (Savoir quoi/comment/pourquoi) ; les facteurs Savoir-faire et Savoir-pourquoi sont les plus couplés (HTMT = 0,544)
 - [[hallstrom-ai-literacy-stem-education-frontiers-2026]] — Synthèse des dix études les plus citées sur la littératie en IA dans l'enseignement STEAM (Hallström et al. 2026)
 - [[wang-jin-anthropocentrism-learnification-ai-education-2026]] — L'exigence d'apprendre l'IA lue comme un discours disciplinant (Wang & Jin 2026)
+- [[genait-genai-literacy-test-high-school-2026]] — GenAIT : un test objectif de littératie en IA générative pour les lycéens et ses associations avec l'usage et les perceptions des LLM (Puppart, Laak et Aru 2026)

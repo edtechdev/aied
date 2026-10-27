@@ -1,6 +1,7 @@
 ---
 title: "AI i undervisning"
 created: "2026-10-15T14:22:00-04:00"
+updated: "2026-10-27T04:16:20-04:00"
 type: concept
 foundations: [ai-education, ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring, llm]
@@ -14,13 +15,17 @@ confidence: high
 institutions: [educational-policy-ai]
 reviewed_by: [editor]
 translation_of: "concepts/ai-education"
-source_updated: "2026-10-02T07:35:56-04:00"
+source_updated: "2026-10-26T02:30:00-04:00"
 translation_note: "*Automatisk maskinoversettelse av denne engelske siden, ennå ikke korrekturlest av en morsmålstalare.*"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-15"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-27"
     agent: hermes-agent
 ---
 *Automatisk maskinoversettelse av denne engelske siden, ennå ikke korrekturlest av en morsmålstalare.*
@@ -152,6 +157,18 @@ Kunnskapsbasen reflekterer et felt i rask utvikling — fra tidlige intelligente
 ## Forbindelser
 
 AI i undervisning henger sammen med alle begrep i kunnskapsbasen — det er feltet som alle andre begrepssider kollektivt definerer. Bruk denne siden som utgangspunkt for å navigere i hele kunnskapsbasen.
+
+## Vanlige misoppfatninger
+
+**«AI i undervisning er ett felt med én kunnskapsbase.»** Det er en paraply over ulike tråder — fag, nivåer, vurdering, forskningsmetoder, institusjoner, likestilling — som er forskjellige i metoder, utfallsmål og modenhet. Et funn i én tråd overføres ikke til en annen, og derfor er kunnskapsbasen organisert slik og ikke som én litteratur.
+
+**«Et verktøy som forbedrer emneutfallet, forbedrer elevenes suksess.»** Den institusjonelle tråden viser det motsatte mønsteret: [[student-support-and-success|elevstøtte og -suksess]] er området der AI **pålitelig flytter oppgavegjennomføring, men ikke utholdenhet eller fullføring**. En intervensjon kan vinne hver måling i emnet og likevel la fullføringsutfallet stå flatt.
+
+**«Teknologisk ytelse er bevis om læring.»** Feltet ligger i skjæringspunktet mellom undervisningsteknologi og [[learning-sciences|læringsvitenskapene]], og skillet mellom de to er nettopp dette: om en elev endret seg, ikke bare om et verktøy presterte. En demonstrasjon er en påstand om verktøyet.
+
+**«Fordi AI er generell, gjelder et funn hvor som helst overalt.»** Teknologiens generalitet skaper ikke bevisets generalitet. Trådene for fag, nivå og kontekst finnes fordi det samme verktøyet oppfører seg ulikt på tvers av dem, og et uendret funn båret over en grense er en ekstrapolering.
+
+**«Feltets modenhet kan leses av publiseringsvolumet.»** Volum og modenhet går fra hverandre; tråden for forskningsmetoder dokumenterer tilbakevendende svakheter i design som volum ikke retter opp, og rammeverk formerer seg raskere enn de testes.
 
 ## Tilknyttede begrep
 - [[pedagogical-patterns]] — De testede sekvensene som operasjonaliserer feltets pedagogiske tilnærminger

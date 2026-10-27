@@ -1,7 +1,7 @@
 ---
 title: AI 素养
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-10-24T14:25:00-04:00"
+updated: "2026-10-27T04:12:34-04:00"
 type: concept
 foundations: [academic-integrity, ai-education, ai-literacy, educational-development]
 technology: [generative-ai, llm]
@@ -11,13 +11,17 @@ connected_faqs: [incorporating-ai-literacy, ai-literacy-evidence, faculty-ai-com
 confidence: high
 connected_resources: [education-agent-skills, edugems, mglearn, onmicro-ai, playlab, pressing-prompts, student-guide-to-ai, vibes-diy, fpds-apps-and-resources]
 translation_of: concepts/ai-literacy
-source_updated: "2026-10-23T09:20:00-04:00"
+source_updated: "2026-10-26T13:50:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-27"
     agent: hermes-agent
 ---
 
@@ -37,6 +41,8 @@ ai_assist:
 ## 引言
 
 随着 [[generative-ai|生成式 AI]] 深度嵌入教育，AI 素养已迅速成为学习者、教育者与机构的核心素养。与一般数字素养不同，AI 素养要求理解会产生幻觉、表现出 [[bias-mitigation|偏见]]、并把 [[agency|能动性]] 从人转移到机器的概率性系统 —— 这使 [[critical-thinking|批判性思维]] 与 [[cognitive-offloading|过度依赖]] 成为该构念的核心。
+
+**输出导向素养与系统导向素养是两个彼此分离的维度，且已有证据支持这种分离。** [[bergdahl-student-epistemic-agency-ai-2026|Bergdahl（2026）]] 发现，47 名瑞典七年级学生在来源评估（Mdn = 3）与治理（Mdn = 4，57% 选择最高选项）上表现较强，但在 **数据隐私（Mdn = 1，66% 选择最低选项）** 与 **算法操纵（Mdn = 2，47% 选择最低选项）** 上较弱。按领域分组后，输出导向得分的中位数为 3，系统导向为 2。该发现并非这些学生缺乏素养，而是 **阅读 AI 输出的素养并未延伸到质疑该输出是如何被生产的** —— 这一区分直接影响项目如何划定范围与如何测量，因为单一分数会把两种语域平均掉，报出一个两者都不描述的中间值。
 
 ### AI 素养的维度
 
@@ -171,6 +177,8 @@ AI 素养的一个核心开放问题是 *哪些* 技能重要、对谁重要。�
 
 一个独立的研究线索把 AI 素养不仅当作教学的目标，也当作一个待测量的构念。本知识库的评估 strand 区分 **自陈** 与 **基于表现** 的素养：自陈与已演示的能力严重脱节（教师高估约 40%），且基于表现的测量预测课堂 AI 整合远好于信心调查（r≈0.72 对 0.31）。干预工作在行为层面重现了这种脱节：在 [[clerc-ai-literacy-workshop-llm-regulation-2026|Clerc 等人（2026）]] 中，生成式 AI 态度与一般性元认知觉察量表都未能预测学生对大语言模型互动的调节或最终任务分数（r = .01 与 r = .04，均不显著），而工作坊真正改变的行为 —— 拒绝欠规定的提示、判断答案正确性、追问 —— 确实与答案质量同向。经验证的工具正在出现以弥合这一差距 —— [[jin-glat-genai-literacy-assessment|GLAT]] 提供了一份心理测量学上验证过的生成式 AI 素养评估，诊断画像（高估者与真正的新手）让设计者把支持定向到需要之处。[[caeai-digital-literacy-frameworks-review-2026|Guo 等人（2026）]] 直接测绘了这一工具版图，综述了 2014 年 1 月至 2025 年 2 月间发表的 80 个经验证框架 —— 69 个数字素养与 11 个 AI 素养。AI 已把数字素养拉向伦理，并把沟通重塑为包含人—AI 互动，而元认知调节与教育者专门的人—AI 协作仍是最少被规定的。就设计与研究而言，这把 AI 素养系于 [[educational-measurement|教育测量]] 与广义的 [[assessment|评估]]：一个素养框架的价值只取决于用来追踪成长的工具，而基于阶段的连续体需要可靠的测量才能把学习者安放其上。
 
+[[genait-genai-literacy-test-high-school-2026|Puppart、Laak 与 Aru（2026）]] 提供了迄今规模最大的客观对应物：一份在 7,432 名爱沙尼亚高中生中验证的 18 题测验（边际信度 = .72），其得分与所感知的易用性无关（ρ = .01），与使用频率负相关（ρ = −.16 至 −.19）。
+
 一份 32 题六维度工具在四维度模型之外增补两个维度 —— 负责任使用与自我发展 —— 并在青少年（12–17）、青年（18–40）与中年（41–60）之间保持标量不变性，尽管作者告诫 ΔCFI 已接近常规临界值（[[sfailq-six-facet-ai-literacy-questionnaire-2026|Liu 等人（2026）]]）。
 
 [[zhi-modeling-measuring-graduate-genai-literacy-2026|Zhi、Yang 与 Huang（2026）]] 在 Marzano 分类法之上建立了一个研究生专用模型：对 14 位教授的扎根理论访谈把 329 个原始标签浓缩为 96 个概念、15 个类别和五个维度（认知基础、操作技能、高阶思维、元认知反思、伦理责任），随后操作化为一份 15 题李克特量表，其五因子在探索性因子分析中浮现（累积方差 83.14%），并在第二个子样本的验证性因子分析中成立（CFI = 0.934，RMSEA = 0.083），308 份有效问卷的可靠性从 0.796 到 0.842。
@@ -202,6 +210,16 @@ AI 素养对过度依赖是 **双刃的**：[[student-dependency-on-ai-literacy-
 - **社会主义人文主义的 AI 素养（2026）：** 一篇文献综述批评面向合规的 AI 素养，提出高等教育中异步 AI 素养与合理使用的社会主义—人文主义框定，把历史上的数字鸿沟连接到现代 AI 素养，并呼吁以服务人类繁荣与公平、而非机械政策合规的方法（[[mechanical-compliance-human-flourishing-ai-literacy-2026]]）。
 - **廉价、轻触式的警告削弱 AI 说服力 —— 且不损害总体信任。** [[ai-literacy-warning-political-persuasion-2026|Orchinik 与 Rand（2026）]] 预注册了两个实验（总 N = 3,208 名美国成年人），其中参与者与一个被指示就政治话题转变其观点的 [[llm|大语言模型]] 对话。一条简短警告 —— 模型可被提示去说服人、并可能选择性呈现信息 —— 使信念改变相对对照减少约一半（-48.1%，95% CI [-59.5%, -36.8]），而追加具体的说服技巧警告并无进一步收益。对教学而言要紧的性质在效应的另一侧：对 [[generative-ai|生成式 AI]] 的总体信任并未下降，因此该干预建立的是 [[trust-calibration|校准过的信任]]，而非 blanket 怀疑。这是一个一段话、无需引导的干预，对一项 AI 素养设计而言是罕见的成本剖面。
 - **学习者对 AI 的治理比工具的设计更重要。** [[ai-literacy-tool-design-programming-education-2026|Azimi（2026）]] 将 33 名硕士数据分析课程的学生随机分入嵌入式笔记中的支架化 AI 学习教练（n = 16）与七周内任意使用他们自选的 [[generative-ai|生成式 AI]] 工具（n = 17）。作业表现与概念清单增益无从分辨；教练组报告了更高的 [[self-efficacy|信心]]。区分学生的是实践中的 AI 素养：那些为自己制定了何时使用 AI 的规则的人在两种条件下得分都更高，而对模型理解最深的学生 —— 每一个都是自学的 —— 提示得最审慎。设计意涵与控制的反射相反：教 [[self-regulated-learning|自我调节]] 与模型理解的成分，而不是约束工具。
+
+就批判性 AI 素养而言，[[solyst-youth-systematic-evaluation-genai-2026|Solyst 等人（2026）]] 表明，只要提供点明该看什么的支架、以及记录所发现内容的结构，青少年是可以被教会系统评估生成式 AI 的。
+
+[[suartama-cafe-ai-pedagogy-technology-ai-literacy-2026|Suartama、Sukmana 与 Triwahyuni（2026）]] 提出 CAFE-AI，一种把 AI 素养教学与成长型思维框定结合起来的设计，并报告该组合在一门印度尼西亚大学课程中经过一个学期同时提升了实测 AI 素养与思维倾向。
+
+## 常见误解
+
+- **“自陈的 AI 素养反映实际的 AI 素养。”** 它 **与实测表现严重脱节** —— 教师 **高估自身技能约 40%**，而 [[ai-literacy-assessment-misalignment|素养评估方面的研究]] 显示自陈与基于表现的测量之间存在同样的 **40% 差距**。一项 AI 素养调查测量的是信心，不是能力。
+- **“AI 素养是单一构念。”** [[sun-student-genai-entanglement-literacy-demands-2026|Sun、Dohn 与 Rehm（2026）]] 对 **102 项高等教育实证研究** 进行分类，发现该构念并非单一。只建设一个维度的项目会让其余维度得不到处理。
+- **“40% 的高估只是轻微的校准问题。”** 它意味着那些对自身 AI 素养最有信心的学生与教师，可能恰恰是最无力评估输出的人 —— 而这正是干预必须首先触达的人群。
 
 ## 关联概念
 - [[pedagogical-patterns]] — 由这些序列中的批判性评价步骤发展而来
@@ -278,3 +296,4 @@ AI 素养对过度依赖是 **双刃的**：[[student-dependency-on-ai-literacy-
 - [[bozkurt-3wai-literacy-scale-2026]] — 经验证的 17 项自评量表，含三个不同的 AI 素养因子（Know What/How/Why）；Know-How 与 Know-Why 关联最强（HTMT = 0.544）
 - [[hallstrom-ai-literacy-stem-education-frontiers-2026]] — STEM 教育中十篇被引最多的 AI 素养研究综合（Hallström 等，2026）
 - [[wang-jin-anthropocentrism-learnification-ai-education-2026]] — “学习关于 AI”这一要求被读作一种规训性话语（Wang & Jin 2026）
+- [[genait-genai-literacy-test-high-school-2026]] — GenAIT：面向高中生的客观生成式 AI 素养测验及其与大语言模型使用和感知的关联（Puppart、Laak 与 Aru 2026）

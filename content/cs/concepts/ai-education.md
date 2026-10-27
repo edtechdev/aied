@@ -1,6 +1,7 @@
 ---
 title: "Umělá inteligence ve vzdělávání"
 created: "2026-10-15T14:22:00-04:00"
+updated: "2026-10-27T04:14:20-04:00"
 type: concept
 foundations: [ai-education, ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring, llm]
@@ -13,13 +14,17 @@ confidence: high
 institutions: [educational-policy-ai]
 reviewed_by: [editor]
 translation_of: "concepts/ai-education"
-source_updated: "2026-10-02T07:35:56-04:00"
+source_updated: "2026-10-26T02:30:00-04:00"
 translation_note: "*Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím.*"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-15"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-27"
     agent: hermes-agent
 ---
 
@@ -152,6 +157,18 @@ Znalostní báze odráží obor v rychlém vývoji — od raných systémů inte
 ## Související témata
 
 AI ve vzdělávání souvisí s každým konceptem v znalostní bázi — je to obor, který společně definují všechny ostatní stránky konceptů. Použijte tuto stránku jako výchozí bod k navigaci celou znalostní bází.
+
+## Časté mylné představy
+
+**„AI ve vzdělávání je jeden obor s jednou evidenční základnou."** Je to zastřešení nad odlišnými větvemi — obory, úrovně, hodnocení, výzkumné metody, instituce, spravedlnost —, které se liší svými metodami, měřítky výsledků i svou zralostí. Zjištění z jedné větve se nepřenáší do jiné, a proto je znalostní báze uspořádána takto, a nikoli jako jediná literatura.
+
+**„Nástroj, který zlepšuje výsledky kurzu, zlepšuje úspěch žáků."** Institucionální větev ukazuje opačný vzorec: v [[student-support-and-success|podpora a úspěch žáků]] AI **spolehlivě zvyšuje dokončování úkolů, ale nikoli vytrvání nebo absolvování**. Intervence může vyhrát každé měřítko v rámci kurzu a výsledek dokončení nechat bez posunu.
+
+**„Výkon technologie je důkaz o učení."** Obor leží na průsečíku instruktivní technologie a [[learning-sciences|věd o učení]] a rozdíl mezi nimi je přesně tento: zda se žák změnil, a ne jen zda nástroj fungoval. Demonstrace je tvrzení o nástroji.
+
+**„Protože je AI univerzální, platí zjištění odněkud všude."** Obecnost technologie nevytváří obecnost důkazů. Větve oboru, úrovně a kontextu existují proto, že se stejný nástroj v nich chová odlišně, a nezměněné zjištění přenesené přes hranici je extrapolace.
+
+**„Zralost oboru lze vyčíst z objemu publikací."** Objem a zralost se rozcházejí; větev výzkumných metod dokumentuje opakující se slabiny návrhu, které objem neodstraní, a rámců přibývá rychleji, než jsou testovány.
 
 ## Související koncepty
 - [[pedagogical-patterns]] — Osvědčené sekvence, které operationalizují pedagogiky oboru

@@ -1,7 +1,7 @@
 ---
 title: 교육에서의 인공지능
 created: "2026-09-22T14:35:21-04:00"
-updated: "2026-10-09T18:10:00-04:00"
+updated: "2026-10-27T04:16:20-04:00"
 type: concept
 foundations: [ai-education, ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring, llm]
@@ -13,7 +13,7 @@ connected_faqs: [top-10-findings-ai-education-instructors]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: concepts/ai-education
-source_updated: "2026-10-02T07:35:56-04:00"
+source_updated: "2026-10-26T02:30:00-04:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -28,6 +28,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-27"
     agent: hermes-agent
 ---
 
@@ -118,6 +122,7 @@ AI는 학습자를 평가하는 방식과 AI 시스템 자체를 평가하는 �
 AI가 효과가 있는지 우리가 어떻게 아는가는 그 자체로 하나의 갈래이며, 지식베이스도 그렇게 다룹니다.
 
 - **연구 방법:** 상위 개념은 [[research-methods-aied|AIED 연구 방법]]이며, [[qualitative-research|질적]], [[quantitative-research|양적]], [[mixed-methods-research|혼합 방법]], [[design-based-research|설계 기반]], [[usability-research|사용성]] 접근과 함께 [[rct|무작위 대조 시험]], [[meta-analysis-systematic-review|메타분석과 체계적 문헌고찰]], [[network-analysis|네트워크 분석]]이 있습니다.
+
 이 분야의 연구 작업 자체가 이제 하나의 주제가 되었습니다. [[ai-assisted-educational-research|AI 지원 교육 연구]]는 문헌 검색, 스크리닝, 질적 코딩, 분석, 글쓰기에 이르기까지 도구로서 사용되는 AI를 다루며, 교수학술(scholarship of teaching and learning)과 같은 실천자 연구도 포함합니다. 이것은 AI가 학습자에게 무엇을 하는지를 연구하는 데 쓰이는 설계와는 구별됩니다.
 
 - **AI 시스템의 검증:** 시스템의 역량을 판단하기 위한 [[ai-ed-evaluation|교육 분야 AI 개입 평가]]와 [[benchmark|벤치마크]]가 있으며, 중요한 결과는 [[learning-gains|학습 성과]]입니다. 이 근거의 [[limitations-in-aied-research|교차적 한계]]와 [[interpreting-and-applying-aied-research|단일 연구를 읽는 방법]]이 경계의 역할을 합니다.
@@ -159,6 +164,18 @@ AI가 효과가 있는지 우리가 어떻게 아는가는 그 자체로 하나�
 ## 연결
 
 교육에서의 인공지능은 지식베이스의 모든 개념과 연결됩니다. 다른 모든 개념 페이지가 함께 정의하는 분야이기 때문입니다. 이 페이지를 지식베이스 전체를 탐색하는 출발점으로 삼으십시오.
+
+## 흔한 오해
+
+**"교육에서의 인공지능은 하나의 근거 기반을 지닌 하나의 분야다."** 이 분야는 서로 다른 갈래 — 전공 분야, 수준, 평가, 연구 방법, 기관, 형평성 — 를 아우르는 상위 개념이며, 그 갈래들은 방법과 결과 지표와 성숙도에서 서로 다릅니다. 한 갈래의 발견은 다른 갈래로 전이되지 않으며, 지식베이스가 단일한 문헌이 아니라 이런 방식으로 구성된 이유도 여기에 있습니다.
+
+**"교과 성과를 개선하는 도구는 학생 성공도 개선한다."** 기관 갈래는 정반대의 양상을 보여 줍니다. [[student-support-and-success|학생 지원과 성공]]에서 AI는 **과제 완수는 확실히 움직이지만 지속이나 졸업은 움직이지 않습니다**. 어떤 개입이 교과 안의 모든 지표를 이기고도 완수 결과는 그대로일 수 있습니다.
+
+**"기술의 성능은 학습에 관한 증거다."** 이 분야는 교수 공학과 [[learning-sciences|학습과학]]이 교차하는 지점에 있으며, 둘 사이의 구분은 정확히 이것입니다. 도구가 성과를 냈는지만이 아니라 학습자가 달라졌는가라는 질문입니다. 시연은 도구에 관한 주장입니다.
+
+**"AI는 범용이므로 어디서 얻은 발견이 어디에나 적용된다."** 기술의 범용성이 증거의 범용성을 만들어 내지는 않습니다. 전공 분야, 수준, 맥락이라는 갈래가 존재하는 이유는 같은 도구가 이들 사이에서 다르게 작동하기 때문이며, 경계를 넘어 그대로 옮겨진 발견은 외삽입니다.
+
+**"이 분야의 성숙도는 출판량에서 읽어 낼 수 있다."** 양과 성숙도는 갈라집니다. 연구 방법 갈래는 양으로는 고쳐지지 않는 반복적인 설계 약점을 기록하고 있으며, 프레임워크는 검증되는 속도보다 빠르게 늘어납니다.
 
 ## 연결된 개념
 

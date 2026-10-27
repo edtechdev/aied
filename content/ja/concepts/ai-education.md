@@ -1,7 +1,7 @@
 ---
 title: 教育におけるAI
 created: "2026-09-22T14:35:13-04:00"
-updated: "2026-10-09T18:10:00-04:00"
+updated: "2026-10-27T04:16:00-04:00"
 type: concept
 foundations: [ai-education, ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring, llm]
@@ -13,7 +13,7 @@ connected_faqs: [top-10-findings-ai-education-instructors]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: concepts/ai-education
-source_updated: "2026-10-02T07:35:56-04:00"
+source_updated: "2026-10-26T02:30:00-04:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -28,6 +28,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-27"
     agent: hermes-agent
 ---
 
@@ -159,6 +163,18 @@ AIが機能するかどうかをどうやって知るかは、それ自体が一
 ## つながり
 
 教育におけるAIは、ナレッジベースのすべての概念とつながっています。それは他のすべての概念ページが集まって定義する分野です。このページを、ナレッジベース全体をたどる出発点として使ってください。
+
+## よくある誤解
+
+**「教育におけるAIは、単一の証拠基盤を持つ単一の分野である。」** それは、方法・成果指標・成熟度を異にする複数の系列——専門分野、教育段階、評価、研究方法、機関、公平性——を覆う傘です。ある系列の知見は別の系列には移りません。だからこそナレッジベースは単一の文献ではなく、このように組織されているのです。
+
+**「コースの成果を高めるツールは、学生の成功を高める。」** 制度的な系列は逆のパターンを示します。[[student-support-and-success|学生の支援と成功]]において、AIは**課題の完了を確実に動かしますが、継続や卒業は動かしません**。介入はコース内のあらゆる指標で勝利しながら、修了という成果を横ばいのまま残すことができます。
+
+**「技術の性能は学習に関する証拠である。」** この分野は教育工学と[[learning-sciences|学習科学]]の交点にあり、両者の違いはまさにこれです。学習者が変わったのか、単にツールが性能を発揮したのか。デモンストレーションはツールについての主張です。
+
+**「AIは汎用だから、どこで得られた知見もどこにでも当てはまる。」** 技術の一般性は証拠の一般性を生みません。専門分野・段階・文脈の系列が存在するのは、同じツールがそれらの中で異なる振る舞いをするからであり、境界を越えてそのまま持ち込まれた知見は外挿です。
+
+**「分野の成熟度は出版量から読み取れる。」** 量と成熟度は乖離します。研究方法の系列は、量では直らない設計上の弱点が繰り返し現れることを記録しており、枠組みは検証される速さよりも速く増えていきます。
 
 ## 関連する概念
 - [[ai-literacy]] — 最上位概念:AIを理解し、使い、評価すること

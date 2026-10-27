@@ -1,6 +1,7 @@
 ---
 title: "AI w edukacji"
 created: "2026-10-15T14:22:00-04:00"
+updated: "2026-10-27T04:16:20-04:00"
 type: "concept"
 foundations:
   - "ai-education"
@@ -30,7 +31,7 @@ institutions:
 reviewed_by:
   - "editor"
 translation_of: "concepts/ai-education"
-source_updated: "2026-10-02T07:35:56-04:00"
+source_updated: "2026-10-26T02:30:00-04:00"
 translation_note: "*Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka.*"
 contributors:
   - "editor"
@@ -39,6 +40,10 @@ ai_assist:
     role: "translation"
     date: "2026-10-15"
     agent: "hermes-agent"
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-27"
+    agent: hermes-agent
 ---
 
 *Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka.*
@@ -170,6 +175,18 @@ Baza wiedzy odzwierciedla dziedzinę w szybkiej ewolucji — od wczesnych system
 ## Powiązania
 
 SI w edukacji łączy się z każdą koncepcją w bazie wiedzy — to dziedzina, którą wszystkie inne strony koncepcyjne definiują łącznie. Użyj tej strony jako punktu wyjścia do nawigowania pełną bazą wiedzy.
+
+## Częste błędne wyobrażenia
+
+**„Edukacja ze SI to jedna dziedzina z jedną bazą dowodową".** To parasol nad odrębnymi nurtami — dyscypliny, poziomy, ocenianie, metody badawcze, instytucje, równość — które różnią się metodami, miarami wyników i dojrzałością. Ustalenie z jednego nurtu nie przenosi się na inny, dlatego baza wiedzy jest zorganizowana w ten sposób, a nie jako jedna literatura.
+
+**„Narzędzie, które poprawia wyniki kursu, poprawia sukces uczniów".** Nurt instytucjonalny pokazuje odwrotny wzorzec: [[student-support-and-success|wsparcie i sukces ucznia]] to obszar, w którym SI **niezawodnie zmienia ukończenie zadań, ale nie wytrwałość ani ukończenie nauki**. Interwencja może wygrać każdy wskaźnik w ramach kursu i pozostawić wynik ukończenia bez zmian.
+
+**„Wydajność technologii jest dowodem na uczenie się".** Dziedzina leży na przecięciu technologii instruktorskich i [[learning-sciences|nauk o uczeniu się]], a różnica między nimi jest dokładnie taka: czy uczeń się zmienił, a nie tylko czy narzędzie zadziałało. Demonstracja jest twierdzeniem o narzędziu.
+
+**„Ponieważ SI jest ogólnego przeznaczenia, ustalenie z jednego miejsca obowiązuje wszędzie".** Ogólność technologii nie tworzy ogólności dowodów. Nurt dyscyplin, poziomów i kontekstów istnieje, ponieważ to samo narzędzie zachowuje się w nich różnie, a niezmienione ustalenie przeniesione przez granicę jest ekstrapolacją.
+
+**„Dojrzałość dziedziny można odczytać z liczby publikacji".** Wolumen i dojrzałość się rozchodzą; nurt metod badawczych dokumentuje powtarzające się słabości projektowe, których wolumen nie naprawia, a ramy mnożą się szybciej, niż są testowane.
 
 ## Połączone koncepcje
 - [[pedagogical-patterns]] — Wypróbowane sekwencje, które operacjonalizują pedagogiki dziedziny

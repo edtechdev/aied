@@ -1,7 +1,7 @@
 ---
 title: IA na educação
 created: "2026-09-22T14:40:54-04:00"
-updated: "2026-10-09T18:10:00-04:00"
+updated: "2026-10-27T04:16:20-04:00"
 type: concept
 foundations: [ai-education, ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring, llm]
@@ -13,7 +13,7 @@ connected_faqs: [top-10-findings-ai-education-instructors]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: concepts/ai-education
-source_updated: "2026-10-02T07:35:56-04:00"
+source_updated: "2026-10-26T02:30:00-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -28,6 +28,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-27"
     agent: hermes-agent
 ---
 
@@ -85,7 +89,7 @@ Os conceitos fundacionais e transversais do campo ancoram a cobertura da base de
 
 Como a IA apoia o ensino e a aprendizagem é o coração do campo. Os conceitos-chave incluem:
 
-- **Pedagogias centrais:** [[pedagogy|pedagogias e estratégias de ensino]], o guarda-chuva da cobertura da base de conhecimento sobre métodos de ensino, junto com [[active-learning|aprendizagem ativa]], [[collaborative-learning|aprendizagem colaborativa]], [[group-work|trabalho em grupo]], [[project-based-learning|aprendizagem baseada em projetos]], [[problem-based-learning|aprendizagem baseada em problemas]], [[productive-failure|falha produtiva]], [[inquiry-based-learning|aprendizagem baseada em investigação]], [[experiential-learning|aprendizagem experiencial]], [[game-based-learning|aprendizagem baseada em jogos]], [[learning-by-teaching|aprender ensinando]], [[scaffolding|andaimento]], [[socratic-method|o método socrático]], [[critical-pedagogy|pedagogia crítica]], [[pedagogical-partnerships|parcerias pedagógicas]], [[storytelling-in-education|narrativa]], [[learning-design|desenho de aprendizagem]], [[online-teaching-and-learning|ensino e aprendizagem on-line]] e [[video-education|vídeo na educação]].
+- **Pedagogias centrais:** [[pedagogy|pedagogias e estratégias de ensino]], o guarda-chuva da cobertura da base de conhecimento sobre métodos de ensino, junto com [[pedagogical-patterns|padrões pedagógicos]] (as sequências testadas nas quais esses métodos se resolvem), [[active-learning|aprendizagem ativa]], [[collaborative-learning|aprendizagem colaborativa]], [[group-work|trabalho em grupo]], [[project-based-learning|aprendizagem baseada em projetos]], [[problem-based-learning|aprendizagem baseada em problemas]], [[productive-failure|falha produtiva]], [[inquiry-based-learning|aprendizagem baseada em investigação]], [[experiential-learning|aprendizagem experiencial]], [[game-based-learning|aprendizagem baseada em jogos]], [[learning-by-teaching|aprender ensinando]], [[scaffolding|andaimento]], [[socratic-method|o método socrático]], [[critical-pedagogy|pedagogia crítica]], [[pedagogical-partnerships|parcerias pedagógicas]], [[storytelling-in-education|narrativa]], [[learning-design|desenho de aprendizagem]], [[online-teaching-and-learning|ensino e aprendizagem on-line]] e [[video-education|vídeo na educação]].
 - **Teorias e processos de aprendizagem:** o guarda-chuva das [[learning-theories|teorias de aprendizagem]] ([[behaviorism|behaviorismo]], [[cognitive-psychology|cognitivismo]], [[constructivist|construtivismo]], [[sociocultural-learning|sociocultural]], [[distributed-cognition|cognição distribuída]], [[situated-learning|aprendizagem situada]], [[embodied-learning|aprendizagem corporificada]], [[community-of-inquiry|comunidade de investigação]]) fica ao lado de processos voltados ao estudante, como [[self-regulated-learning|aprendizagem autorregulada]], [[self-determination-theory|teoria da autodeterminação]], [[motivation|motivação]], [[self-efficacy|autoeficácia]], [[self-directed-learning|aprendizagem autodirigida]], [[metacognition|metacognição]], [[desirable-difficulties|dificuldades desejáveis]], [[transfer-of-learning|transferência de aprendizagem]], [[prior-knowledge|conhecimento prévio]], [[icap-framework|engajamento cognitivo ICAP]], [[refutation-text|texto de refutação]], [[retrieval-spacing-interleaving|recuperação, espaçamento e intercalação]] e [[activity-theory-aied|teoria da atividade]].
 - **Engajamento e experiência do estudante:** [[student-engagement|engajamento do estudante]], [[help-seeking|busca de ajuda]], [[social-emotional-learning|aprendizagem socioemocional]], [[well-being|bem-estar]], [[creativity|criatividade]], [[problem-solving|resolução de problemas]], [[mastery-learning|aprendizagem para o domínio]] e [[student-ai-interaction|interação estudante-IA]] moldam como os estudantes de fato encontram a IA e são afetados por ela, enquanto as [[social-norms-ai-use|normas sociais que se firmam em torno do uso de IA]] decidem quão abertamente se pode discutir isso. Além do curso, o [[student-support-and-success|apoio e sucesso ao estudante]] cobre o trabalho do lado institucional — aconselhamento, divulgação, encaminhamento e alocação de apoio escasso —, onde a IA move de forma confiável a conclusão de tarefas, mas não a persistência nem a formatura.
 
@@ -118,6 +122,9 @@ A IA transforma tanto a forma como avaliamos os estudantes quanto a forma como a
 Como sabemos se a IA funciona é uma linha temática em si, e a base de conhecimento a trata como tal:
 
 - **Métodos de pesquisa:** [[research-methods-aied|métodos de pesquisa em AIED]] como o guarda-chuva, com abordagens [[qualitative-research|qualitativas]], [[quantitative-research|quantitativas]], [[mixed-methods-research|de métodos mistos]], [[design-based-research|baseadas em design]] e [[usability-research|de usabilidade]], além de [[rct|ensaios controlados randomizados]], [[meta-analysis-systematic-review|meta-análise e revisão sistemática]] e [[network-analysis|análise de redes]].
+
+O próprio trabalho de pesquisa do campo é agora um tema em si mesmo. [[ai-assisted-educational-research|Investigação educacional assistida por IA]] abrange a IA usada como instrumento para busca bibliográfica, triagem, codificação qualitativa, análise e escrita, incluindo a pesquisa de praticantes, como o scholarship of teaching and learning. Mantém-se distinta dos desenhos usados para estudar o que a IA faz aos estudantes.
+
 - **Avaliação de sistemas de IA:** a [[ai-ed-evaluation|avaliação de IA na educação]] e os [[benchmark|benchmarks]] para julgar a capacidade de um sistema, com os [[learning-gains|ganhos de aprendizagem]] como o resultado que importa, e as [[limitations-in-aied-research|limitações transversais]] dessa evidência e [[interpreting-and-applying-aied-research|como ler um único estudo]] como contrapeso cautelar.
 
 ## Pessoas
@@ -158,6 +165,18 @@ A base de conhecimento reflete um campo em rápida evolução: dos primeiros sis
 
 A IA na educação se conecta a todos os conceitos da base de conhecimento: é o campo que todas as outras páginas de conceito definem coletivamente. Use esta página como ponto de partida para navegar pela base de conhecimento inteira.
 
+## Concepções errôneas comuns
+
+**"A IA na educação é um único campo com uma única base de evidências."** É um guarda-chuva sobre vertentes distintas — disciplinas, níveis, avaliação, métodos de pesquisa, instituições, equidade — que diferem em seus métodos, suas medidas de resultado e sua maturidade. Um achado de uma vertente não se transfere para outra, e é por isso que a base de conhecimento é organizada assim, e não como uma literatura única.
+
+**"Uma ferramenta que melhora os resultados do curso melhora o sucesso do estudante."** A vertente institucional mostra o padrão oposto: [[student-support-and-success|apoio e sucesso ao estudante]] é o terreno em que a IA **move de forma confiável a conclusão de tarefas, mas não a persistência ou a formatura**. Uma intervenção pode vencer todas as medidas dentro do curso e deixar o desfecho de conclusão estagnado.
+
+**"O desempenho da tecnologia é evidência sobre aprendizagem."** O campo está na interseção entre tecnologia instrucional e as [[learning-sciences|ciências da aprendizagem]], e a distinção entre as duas é exatamente esta: se um estudante mudou, e não apenas se uma ferramenta funcionou. Uma demonstração é uma afirmação sobre a ferramenta.
+
+**"Como a IA é de uso geral, um achado em qualquer lugar vale em todo lugar."** A generalidade da tecnologia não cria generalidade da evidência. As vertentes de disciplina, nível e contexto existem porque a mesma ferramenta se comporta de modo diferente entre elas, e um achado inalterado transportado por uma fronteira é uma extrapolação.
+
+**"A maturidade do campo pode ser lida no seu volume de publicações."** Volume e maturidade divergem; a vertente de métodos de pesquisa documenta fragilidades recorrentes de desenho que o volume não corrige, e os frameworks se multiplicam mais rápido do que são testados.
+
 ## Conceitos conectados
 - [[ai-literacy]]: guarda-chuva, compreender, usar e avaliar a IA
 - [[human-ai-collaboration]]: guarda-chuva, como pessoas e IA trabalham juntas
@@ -191,16 +210,8 @@ A IA na educação se conecta a todos os conceitos da base de conhecimento: é o
 
 Revisões de campo sobre a IA na educação, os estudos que examinam todo o campo ou todo um nível de ensino em vez de um único tópico:
 
-- : Typology of Generative AI Tools for Education
-- : Review of Artificial Intelligence in Education from 2020 to 2025
 - [[rismanchian-ai-education-four-decades-aixed-2026]]: The evolution of AI-and-education research across four decades (AIxEd framework)
 - [[mishra-control-vs-agency-history-2025]]: Control vs. agency: a history of AI in education
-- : Generative AI in education: systematic review of 56 empirical studies
 - [[genai-higher-education-systematic-review-2026]]: Generative AI in higher education: systematic review of 125 studies
 - [[stanford-evidence-base-ai-k12-2026]]: The evidence base on AI in K-12: a review of 818 papers
-- : Pre-university AI education: systematic literature review of 42 studies
 - [[genai-educational-outcomes-meta-analysis]]: Generative AI and educational outcomes: comprehensive meta-analysis
-- : a research agenda for AI companions built around learning rather than performance
-
-The field's own research work is now a subject in its own right. [[ai-assisted-educational-research|AI-Assisted Educational Research]] covers AI used as an instrument for literature search, screening, qualitative coding, analysis, and writing, including practitioner research such as the scholarship of teaching and learning. It stays distinct from the designs used to study what AI does to learners.
-- [[pedagogical-patterns]] — The tested sequences that operationalize the field's pedagogies

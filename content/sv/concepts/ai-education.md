@@ -1,6 +1,7 @@
 ---
 title: "AI i utbildningen"
 created: "2026-10-15T14:22:00-04:00"
+updated: "2026-10-27T04:13:56-04:00"
 type: concept
 foundations: [ai-education, ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring, llm]
@@ -14,7 +15,7 @@ confidence: high
 institutions: [educational-policy-ai]
 reviewed_by: [editor]
 translation_of: "concepts/ai-education"
-source_updated: "2026-10-02T07:35:56-04:00"
+source_updated: "2026-10-26T02:30:00-04:00"
 translation_note: "*Automatisk maskinöversättning av denna engelska sida, ännu inte granskad av en modersmålstalare.*"
 contributors: [editor]
 ai_assist:
@@ -22,6 +23,11 @@ ai_assist:
     role: translation
     date: "2026-10-15"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-27"
+    agent: hermes-agent
+
 ---
 *Automatisk maskinöversättning av denna engelska sida, ännu inte granskad av en modersmålstalare.*
 
@@ -152,6 +158,18 @@ Kunskapsbasen speglar ett fält i snabb utveckling — från tidiga intelligenta
 ## Kopplingar
 
 AI i utbildningen kopplar till varje begrepp i kunskapsbasen — det är fältet som alla andra begreppssidor tillsammans definierar. Använd den här sidan som utgångspunkt för att navigera hela kunskapsbasen.
+
+## Vanliga missuppfattningar
+
+**"AI i utbildningen är ett enda fält med en enda evidensbas."** Det är ett paraply över distinkta strängar — discipliner, nivåer, bedömning, forskningsmetoder, institutioner, rättvisa — som skiljer sig i metoder, utfallsmått och mognad. Ett fynd från en sträng överförs inte till en annan, vilket är varför kunskapsbasen är organiserad så här och inte som en enda litteratur.
+
+**"Ett verktyg som förbättrar kursresultat förbättrar elevframgång."** Den institutionella strängen visar motsatt mönster: inom [[student-support-and-success|elevstöd och elevframgång]] **flyttar AI pålitligt slutförandet av uppgifter men inte studiefortsättning eller examen**. En intervention kan vinna varje mått inom kursen och ändå lämna slutförandeutfallet oförändrat.
+
+**"Teknikens prestanda är bevis om lärande."** Fältet ligger i skärningspunkten mellan undervisningsteknologi och [[learning-sciences|lärandets vetenskaper]], och skillnaden mellan de två är just denna: om en elev förändrades, snarare än enbart om ett verktyg presterade. En demonstration är ett påstående om verktyget.
+
+**"Eftersom AI är allmänt användbar gäller ett fynd var som helst överallt."** Teknikens generalitet skapar inte evidensens generalitet. Strängarna för disciplin, nivå och sammanhang finns eftersom samma verktyg beter sig olika över dem, och ett oförändrat fynd som bärs över en gräns är en extrapolering.
+
+**"Fältets mognad kan avläsas ur dess publikationsvolym."** Volym och mognad divergerar; forskningsmetodsträngen dokumenterar återkommande designbrister som volymen inte åtgärdar, och ramverk förökar sig snabbare än de prövas.
 
 ## Anslutna begrepp
 - [[pedagogical-patterns]] — De beprövade sekvenser som operationaliserar fältets pedagogiker

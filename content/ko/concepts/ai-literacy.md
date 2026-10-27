@@ -1,7 +1,7 @@
 ---
 title: AI 리터러시
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-10-08T10:20:00-04:00"
+updated: "2026-10-27T04:15:26-04:00"
 type: concept
 foundations: [academic-integrity, ai-education, ai-literacy, educational-development]
 technology: [generative-ai, llm]
@@ -9,15 +9,19 @@ audience: [faculty developers, instructors, learners]
 level: [higher ed, k 12]
 connected_faqs: [incorporating-ai-literacy, ai-literacy-evidence, faculty-ai-competencies, addressing-common-misconceptions-ai-education, ai-guidance-children-under-13, verify-ai-output]
 confidence: high
-connected_resources: [education-agent-skills, edugems, mglearn, onmicro-ai, playlab, pressing-prompts, student-guide-to-ai, vibes-diy]
+connected_resources: [education-agent-skills, edugems, mglearn, onmicro-ai, playlab, pressing-prompts, student-guide-to-ai, vibes-diy, fpds-apps-and-resources]
 translation_of: concepts/ai-literacy
-source_updated: "2026-10-15T08:25:00-04:00"
+source_updated: "2026-10-26T13:50:00-04:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-11"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-27"
     agent: hermes-agent
 ---
 
@@ -40,6 +44,8 @@ AI 리터러시는 [[generative-ai]]가 교육에 깊이 자리잡으면서 학�
 
 ### AI 리터러시의 차원
 
+**산출물 지향 리터러시와 시스템 지향 리터러시는 분리된 차원이며, 그 분리를 뒷받침하는 증거가 있습니다.** [[bergdahl-student-epistemic-agency-ai-2026|Bergdahl (2026)]]은 스웨덴 7학년 학생 47명을 대상으로, 출처 평가(Mdn = 3)와 거버넌스(Mdn = 4, 최고 선택지 57%)에서는 강하지만 **데이터 프라이버시(Mdn = 1, 최저 선택지 66%)**와 **알고리즘 조작(Mdn = 2, 최저 선택지 47%)**에서는 약하다는 점을 발견했습니다. 영역별로 묶으면 산출물 지향 점수의 중앙값은 3이었고 시스템 지향은 2였습니다. 이 발견이 말하는 것은 이 학생들에게 리터러시가 없었다는 것이 아니라, **AI 산출물을 읽는 리터러시가 그 산출물이 어떻게 생산되었는지를 문제 삼는 데까지 확장되지 않았다**는 것입니다 — 프로그램의 범위를 정하고 측정하는 방식에 직접적 결과를 갖는 구분인데, 단일 점수는 두 체계를 모두 평균하여 어느 쪽도 설명하지 못하는 중간값을 보고할 것이기 때문입니다.
+
 이 지식 베이스의 AI 리터러시 [[research-methods-aied|연구]]는 서로 연결된 네 가지 차원을 포괄합니다:
 
 프레임워크들은 이 차원들이 실제로 어떻게 실행되는지를 점점 더 추적하고 있습니다. [[dai-chan-responsible-genai-research-ai-literacy-2026|Dai & Chan (2026)]]은 대학원 연구자들이 연구 워크플로 전반에 걸쳐 [[generative-ai]]를 사용할 때 네 차원을 모두 실행한다는 점을 보여주고, 이를 바탕으로 연구 특화된 책임 있는 사용 지침을 구성합니다. 한편 [[san-orhan-karsak-ai-cognition-micro-credentials-2026|Şan & Orhan Karsak (2026)]]은 단어 연합(word-association) 매핑을 사용하여 터키 학부생들의 AI 인지가 도구적으로는 "블랙박스" 지배적이며, 윤리·거버넌스 개념은 구조적으로 고립되어 있음(τ=−0.819)을 보여줍니다 — 이는 자격증 설계가 경험적 도구 사용과 윤리 프레임워크를 의도적으로 연결해야 한다는 증거입니다.
@@ -56,6 +62,8 @@ AI 리터러시는 [[generative-ai]]가 교육에 깊이 자리잡으면서 학�
 
 **윤리적·제도적 인식:** [[academic-integrity]]에서 AI 교육의 형평성([[equity-in-ai-education]]), [[privacy]]에 이르기까지 AI의 더 넓은 함의를 이해하는 것입니다. 제도 수준의 AI 리터러시는 정책 수립, [[educational-development]], [[governance|거버넌스 프레임워크]]를 포함합니다 — 제도의 AI 리터러시는 교수법만큼이나 [[educational-policy-ai|정책]]의 문제입니다. [[sangwa-epiq-ai-faculty-readiness-2026|EPIQ-AI 프레임워크]]는 제도의 AI 리터러시를 개별 훈련이 아닌 사회기술적(sociotechnical) 정렬 과제로 규정합니다.
 
+**보안은 그 자체로 하나의 리터러시 영역입니다.** Yocam, Vaidyan 및 Kalathas (2026)는 AI 리터러시 프레임워크도 사이버보안 프레임워크도 AI가 매개하는 학교에서 안전하게 운영하는 것을 독자적인 역량으로 다루지 않는다고 주장하며, 미국 교사의 34.5%만이 학교 AI 정책이 있다고 보고합니다([[ai-security-literacy-k12-framework-2026]]).
+
 - **지속가능 발전을 위한 거버넌스 역량으로서의 AI 리터러시.** [[ai-literacy-sdg-governance-framework-2026|Islam, Morshed, and Islam (2026)]]은 AI 리터러시를 순수한 교육적·기술적 기술이 아니라 거버넌스 지향의 역량으로 재개념화하여, UN의 17개 지속가능발전목표 전체와 연결합니다. 이들의 6단계 **AIRE 분류 체계**(Recognize → Comprehend → Apply → Analyze → Integrate → Govern)는 Bloom의 위계에 윤리적 종합과 전략적 예측을 더해 확장하며, 고급 역량(Analyze–Govern)을 기초 리터러시로부터 제도·정책 수준의 거버넌스로 향하는 경로로 자리매김합니다 — 리터러시를 가로지르는 인지적·윤리적 가교로 다루는 "18번째 SDG" 휴리스틱입니다. 한 국가적 맥락에서 300명의 전문가를 대상으로 한 조사는 기술적 인식은 강하지만 윤리적·거버넌스 준비도는 제한적임을 보여주었고, **윤리적 추론과 성찰적 사고가 지속가능하고 신뢰할 만한 AI 사용의 가장 강한 예측 변수**였으며, 거버넌스 리터러시가 AI–SDG 연계 인식의 가장 강한 예측 변수였습니다(β = 0.64). 이는 지식 베이스가 비판적 사용 리터러시를 강조하는 바를 경험적으로 뒷받침하며, AI 리터러시를 [[sustainability]]와 [[educational-policy-ai|정책]] 통합에 직접 연결합니다.
 **프레임워크의 공급 자체가 이제 하나의 문제가 되었습니다.** [[ai-competence-framework-landscape-2026|Fitsilis (2026)]]은 교육과 노동력 개발을 위해 제도적으로 승인된 AI 역량 프레임워크 16개를 비교하여, 10개 역량 영역의 공통 핵심은 있으나 구조, 단계 구성, 실행 지침에는 편차가 크다는 점을 밝혔습니다 — 실질적 어려움은 부족이 아니라 그것들 사이에서 선택하는 문제입니다.
 
@@ -64,6 +72,8 @@ AI 리터러시는 [[generative-ai]]가 교육에 깊이 자리잡으면서 학�
 연구는 [[collaborative-learning|협력적]]이고 [[active-learning|능동적]] 접근이 가장 효과적이라고 지목합니다. [[rismanchian-ai-education-four-decades-aixed-2026|Rismanchian & Doroudi]]는 AI 리터러시를 응용 기술 이상으로 자리매김합니다. 이들의 AI×Ed 프레임워크에서 학습자는 AI의 뚜렷한 최종 사용자이며(AI 리터러시와 AI 교육을 통해 접근합니다), 이들은 학습 그 자체에 대한 성찰을 촉진하는 새로운 AI 리터러시 연구를 주장합니다 — 리터러시를 사람들이 어떻게 배우는지에 관한 "인간 지능에 대한 비유로서의 AI" 연구로 되돌아가는 경로로 다루며, 이는 해당 분야가 대체로 버린 흐름입니다. [[icap-framework]](Interactive → Constructive → Active → Passive)는 인지적 몰입의 유용한 분류 체계를 제공합니다. 학생들은 정보를 수동적으로 받기보다 지식을 공동 구성할 때 AI 리터러시를 가장 잘 배웁니다. 설계자는 학습 목표에 맞는 방식을 선택하고 가능한 한 더 깊은 방식(구성적·상호작용적)을 우선해야 합니다. 실천적 활동 — 프롬프트 설계, 집단으로 결과물 평가하기, AI [[ethics]]에 관한 토론 — 은 강의보다 성과가 높습니다.
 
 **[[writing-education|구성 활동(Composition)]]은 살아온 경험에서 출발하지만 개념의 깊이는 비계가 필요합니다.** [[burriss-multimodal-composition-critical-ai-literacy-2026|Burriss et al. (2026)]]은 청소년들이 추상적인 AI [[ethics]] 원칙을 일상에서 마주하는 시스템 — 전자식 "화장실 출입증", 학교가 관리하는 노트북, 표절 탐지기 — 에 고정시켰음을 발견했습니다. 한 집단은 학교에서의 AI가 "모든 구성원에게 개인적인 것이었다"고 설명했고, 단원 말 설문 18건 중 15건에서 영상을 만드는 것이 AI 윤리에 대한 이해를 바꾸었다고 응답했습니다. 저자들은 한계를 명확히 합니다. 구성 활동만으로 개념적 기반이 보장되지는 않았습니다 — "informed consent"는 "We gotta approve"로 번역되었고, 일부 용어(예: "failsafe")는 전혀 설명되지 않았으며, 이에 저자들은 이후 반복에서 더 깊은 개념적 작업을 계획하게 되었습니다. [[creativity|창조적]] 제작은 만들어내는 행위에 명시적인 개념적 [[scaffolding]]이 함께할 때 AI 리터러시를 가장 잘 발전시킵니다. 스스로 드러날 것이라 가정해서는 안 됩니다.
+
+**어린 아동에게 리터러시는 기초라기보다 중첩된 것입니다.** 86개 자료에 대한 고찰은 AI 리터러시를 실행 기능과 학습 성향이 조정 역할을 하는 다섯 영역의 역량 집합 안에 위치시키며, 0~8세 아동에게는 "독립적으로 존재할 수 없다"고 주장합니다([[early-childhood-ai-holistic-competencies-review-2026|Pei (2026)]]).
 
 **리터러시의 경험적 보완재로서의 AI 직관.** 반복적으로 나타나는 공백은 K-12 프레임워크가 학습자가 AI를 선언적·규칙 기반 지식을 통해 접근한다고 가정하는 반면, 실제로 학습자들은 먼저 AI가 어떻게 반응하는지에 대한 실천적인 "감각"을 발전시킨다는 점입니다 — 프롬프트를 실험하고, 행동을 관찰하고, 전략을 조정하면서 — 형식적 원리를 말로 표현할 수 있게 되기 전에 말입니다. [[ai-intuition-ai-literacy-k12-2026|Beau & Lazar (2026)]]는 이를 **AI 직관**으로 공식화합니다. AI 시스템과의 반복적 상호작용을 통해 발달하고 불확실성 속에서 맥락 민감한 판단을 뒷받침하는 경험적·귀납적·종종 암묵적인 이해입니다. 이들의 **이중 프레임워크**는 AI 리터러시(구조화된, 대체로 정적인 역량)를 AI 직관(역동적인 학습 과정)과 나란히 놓고, 둘을 표준 차원 — 개념 이해, 도구 사용, 비판적 평가, 윤리적 적용, 성찰 — 에 걸쳐 매핑하여, 학습자가 개념적 명료성과 [[guardrails]](리터러시)를 검증하되 신뢰하고(trust-but-verify) 언제 손떨지 결정할 실천적 지혜(직관)와 결합하게 합니다. 직관이 AI에 대한 "전문가적 관찰"(예: 모델이 실패하는 지점을 찾기 위해 프롬프트를 스트레스 테스트하기)을 기르기 때문에, 저자들은 이를 [[cognitive-offloading|과잉 의존]]과 비판적 사고의 침식에 대한 안전장치로 주장합니다. 이는 결과물을 최적화하는 [[prompt-engineering]]과 구분되며, *인식론적 판단*을 전면에 내세운다는 점에서 다릅니다. 이는 리터러시를 [[experiential-learning]], [[constructivist]], 발달적으로 기반을 둔 수업 실천과 연결하며, 교사 준비를 개념 전달만이 아니라 귀납적 탐구를 촉진하는 쪽으로 향하게 합니다.
 
@@ -120,6 +130,7 @@ AI 교육이 *왜* 가르쳐지는지에 대한 교사들의 서술은 역량 �
 - **리터러시 태도로서의 "AI에 저항하기".** 비판적 AI 리터러시(CAIL)는 *AI에 저항하기*를 포괄할 수 있습니다 — 지배적 담론의 불가피성과 기술해결주의(techsolutionism)를 거부하고, 대화적·협력적 교수법을 통해 집단적 주체성을 기르는 것입니다.([[li-mroziak-reorienting-critical-ai-literacy]]) 이는 교육을 주어진 기술 질서에 단순히 적응하는 곳이 아니라, 공동체가 대안적 미래를 상상하고 건설하는 공간으로 자리매김합니다.
 - **공동체 기반 인식론.** 공동체 기반 AI 학습은 AI 참여를 학습자가 살아온 공동체적 인식 방식에 뿌리내리게 하여, 인식론적 미세 조정(epistemic fine-tuning), 권위의 재분배, 상황적 분별(situated discernment)을 통해 AI의 인식론적 권위를 재분배합니다.([[ojeda-ramirez-community-based-ai-learning]])
 - **비판적·여성주의적 틀.** 비판적·여성주의 연구는 AI 리터러시를 정의, 저항, 문화적 [[sustainability]]의 교수법 안에서 구성해야 한다고 주장합니다 — AI가 누구의 지식을 생산하는지, 누가 이익을 얻는지, 시스템이 실패할 때 누가 책임지는지를 묻는 것입니다.([[avraamidou-ai-colonization-science-education]])
+- **리터러시 요구 자체가 훈육이 될 수 있습니다.** [[wang-jin-anthropocentrism-learnification-ai-education-2026|Wang & Jin (2026)]]은 'AI에 관해 배우라'는 요구가 한 가지 종류의 학습을 자연스러운 것으로 취급하여, 이를 거부하는 사람이나 AI 리터러시를 어린 아동의 교육과정에서 배제하려는 사람을 스스로의 주변화에 책임이 있는 것으로 만든다고 주장합니다.
 - **상황적 교육과정 장치.** AI 리터러시는 추상적 교수법이 아니라 [[situated-learning|상황적]]이고 능동적인 교수 수단(예: Episodes of Situated Learning)을 통해, 여러 수준에 걸친 AI 역량을 발전시키며 구축될 수 있습니다.([[panciroli-ai-literacy-episodes-situated-learning]])
 - **비판적 AI 리터러시 교수법으로서의 창조적 구성 활동.** AI 리터러시를 기술적 지식이나 개인 역량으로 다루는 대신, 학습자들이 실제 청중을 향해 AI에 관한 메시지를 구성할 기회를 설계하십시오 — 공익 광고와 같은 [[multimodal]] 산출물은 비판적 역량을 동시에 시연하고 전달합니다. [[burriss-multimodal-composition-critical-ai-literacy-2026|Burriss et al.(2026)]]의 교실 연구에서, 22명의 11학년 학생들은 자신들이 고른 AI [[ethics]] 주제를 가지고 학교 감시, [[privacy|정보에 입각한 동의(informed consent)]], 알고리즘적 고발에 관한 영상 PSA를 제작했습니다. 일곱 편의 영상 모두에서 해악은 악당 같은 도구가 아니라 인간–기계의 얽힘에서 비롯되었고, 줄거리는 여전히 희망과 [[agency]]로 마무리되었으며, 저자들은 전통적 평가에 저항하는 [[storytelling-in-education|스토리텔링]]과 옹호(advocacy)를 [[learner-identity|학생의 정체성]], 선택, 목소리를 중심에 두는 [[critical-pedagogy|비판적 AI 리터러시 교수법]]의 핵심으로 자리매김합니다.([[burriss-multimodal-composition-critical-ai-literacy-2026]])
 - **수용이 아닌 규제 역량.** Kim (2026)은 [[higher-ed]]에서 AI 리터러시를 *[[regulation|규제 역량]]*으로 재규정합니다 — 학업 수행 중 AI 결과물을 검증하고, 수정하고, 선택적으로 채택하거나 거부하는 실행된 실천 — 으로서, 평가적 역량과 윤리적 인식(AI를 사용하려는 의지 자체가 아니라)이 능동적인 [[student-engagement|비판적 참여]]를 예측함을 보여줍니다.([[ai-anxiety-strategic-regulation-writing-2026]])
@@ -168,6 +179,8 @@ AI 리터러시의 핵심 미해결 질문은 *어떤* 기술이 누구에게 �
 지식 베이스의 한 연구 흐름은 AI 리터러시를 교수의 대상일 뿐 아니라 측정할 구성개념으로 다룹니다. 이 지식 베이스의 평가 흐름은 **자기보고** 리터러시와 **수행 기반** 리터러시를 구분합니다. 자기보고는 입증된 역량과 크게 벌어지며(교사들은 약 40% 과대평가), 수행 기반 척도는 자신감 설문보다 교실의 AI 통합을 훨씬 잘 예측합니다(r≈0.72 vs 0.31). 개입 연구는 그 불일치를 행동 수준에서 재현합니다. [[clerc-ai-literacy-workshop-llm-regulation-2026|Clerc et al. (2026)]]에서, GenAI에 대한 태도도 일반적 초인지 인식 척도도 학생들의 LLM 상호작용 규제나 최종 과업 점수를 예측하지 못했습니다(r = .01과 r = .04, 모두 비유의). 반면 워크숍이 변화시킨 행동들 — 명세 불충분한 프롬프트 거부, 답의 정확성 판단, 후속 질문 — 은 답의 질을 추적했습니다. 이 격차를 메우기 위한 검증된 도구들이 나타나고 있습니다 — [[jin-glat-genai-literacy-assessment|GLAT]]는 심리측정학적으로 검증된 생성형 AI 리터러시 평가를 제공하며, 진단적 프로파일(과대평가자 vs 진짜 초심자)은 설계자가 필요한 곳에 지원을 목표화할 수 있게 합니다. [[caeai-digital-literacy-frameworks-review-2026|Guo et al. (2026)]]은 그 도구 지형을 직접 매핑하여, 2014년 1월부터 2025년 2월 사이에 출판된 검증된 프레임워크 80개 — 디지털 리터러시 69개와 AI 리터러시 11개 — 를 검토합니다. AI는 디지털 리터러시를 윤리 쪽으로 끌어당기고 의사소통을 인간–AI 상호작용을 포함하는 것으로 재구성했으며, 초인지적 규제와 교육자 특정 인간–AI 협업은 가장 덜 명시된 채 남아 있습니다. 설계와 연구를 위해, 이것은 AI 리터러시를 [[educational-measurement]]과 더 넓게 [[assessment]]에 연결합니다. 리터러시 프레임워크는 성장을 추적하는 데 쓰이는 도구만큼만 유용하며, 단계 기반 연속체는 학습자를 그 위에 배치하기 위해 신뢰할 만한 측정을 요구합니다.
 
 
+[[genait-genai-literacy-test-high-school-2026|Puppart, Laak 및 Aru (2026)]]는 지금까지 가장 큰 객관적 대응물을 제공합니다: 에스토니아 고등학생 7,432명을 대상으로 검증된 18문항 검사(주변 신뢰도 = .72)로, 점수는 지각된 사용 용이성과 무관하고(ρ = .01) 사용 빈도와는 부적으로 관련됩니다(ρ = −.16에서 −.19).
+
 32문항 6요인 도구는 4차원 모형에 책임 있는 사용과 자기발전의 두 요인을 더해 확장하며, 청소년(12–17), 청년(18–40), 중년(41–60)에 걸쳐 스칼라 동일성(scalar invariance)을 유지하지만, 저자들은 ΔCFI가 통상적 기준에 근접했음을 경고합니다([[sfailq-six-facet-ai-literacy-questionnaire-2026|Liu et al. (2026)]]).
 
 [[zhi-modeling-measuring-graduate-genai-literacy-2026|Zhi, Yang and Huang (2026)]]은 Marzano의 분류 체계 위에 대학원 특정 모형을 구축합니다. 교수 14명과의 면담에 대한 근거 이론 분석이 원시 라벨 329개를 96개의 개념, 15개의 범주, 다섯 차원(인지적 기초, 운영 기술, 고차원 사고, 초인지적 성찰, 윤리적 책임)으로 응축했으며, 이를 15문항 리커트 척도로 운영화했습니다. 이 척도의 다섯 요인은 탐색적 요인 분석에서 나타났고(누적 분산의 83.14%), 두 번째 부분 표본에서의 확인적 요인 분석에서도 유지되었으며(CFI = 0.934, RMSEA = 0.083), 신뢰도는 308부의 유효 설문에 걸쳐 0.796~0.842이었습니다.
@@ -198,7 +211,18 @@ AI 리터러시는 과잉 의존에 대해 **양날의 칼**입니다. [[student
 - **리터러시 실천으로서의 AI 결과물 비판:** [[pedagogy-ai-mistakes|Hosseini (2026)]]는 AI가 생성한 오류를 평가하는 것을 핵심 AI 리터러시 기술로 다루며, 데이터베이스 설계 강좌에서 실패 양상 분석과 반복적 프롬프트 정제를 사용합니다. 이 연구는 학생들이 자신의 AI 능력을 과대평가했음을(자기보고 리터러시가 객관적 역량과 약하게 부적으로 상관) 발견했고, 비판 기반 학습이 보정을 강화했음을 확인했습니다.
 - **사회주의 인문주의적 AI 리터러시(2026):** 한 문헌 고찰은 순응 지향적 AI 리터러시를 비판하고, 고등교육에서의 비동기적 AI 리터러시와 공정 사용(fair use)에 대한 사회주의–인문주의적 틀을 제안합니다. 이는 역사적 디지털 격차를 현대의 AI 리터러시에 연결하며, 기계적 정책 순응보다는 인간의 번영과 형평성에 봉사하는 접근을 요구합니다([[mechanical-compliance-human-flourishing-ai-literacy-2026]])
 - **값싸고 가벼운 경고는 AI 설득을 무디게 만든다 — 일반적 신뢰를 희생하지 않고서도.** [[ai-literacy-warning-political-persuasion-2026|Orchinik and Rand (2026)]]는 참가자들이 정치 주제에 관한 견해를 바꾸도록 지시된 [[llm]]과 대화하게 한 두 실험(총 N = 3,208 미국 성인)을 사전 등록했습니다. 모델이 설득하도록 프롬프팅될 수 있고 정보를 선택적으로 제시할 수 있다는 한 줄의 짧은 경고가, 통제 집단 대비 신념 변화를 약 절반(-48.1%, 95% CI [-59.5%, -36.8]) 줄였고, 구체적인 설득 기법에 대한 경고를 더하는 것은 추가 이익을 산출하지 않았습니다. 교수법에서 중요한 속성은 효과의 다른 쪽에 있습니다. [[generative-ai]]에 대한 일반적 신뢰는 떨어지지 않았으므로, 이 개입은 맹목적 회의주의보다는 [[trust-calibration|보정된 신뢰]]를 구축합니다. 이는 한 문단에 조율자 없는 개입으로, AI 리터러시 설계에서는 드문 비용 구조입니다.
-- **학습자의 AI 거버넌스가 도구의 설계보다 더 중요합니다.** [[ai-literacy-tool-design-programming-education-2026|Azimi (2026)]]은 석사 데이터 분석 강좌의 학생 33명을 7주간 노트북에 내장된 비계화된 AI Study Coach(n = 16)와 스스로 선택한 임의의 [[generative-ai]] 도구의 제한 없는 사용(n = 17) 사이로 무작위 배정했습니다. 과제 수행과 개념 검사 향상은 구별되지 않았고, Coach 조건은 대신 더 높은 [[self-efficacy|자신감]]을 보고했습니다. 학생들을 구별한 것은 실천으로서의 AI 리터러시였습니다. AI를 언제 사용할지에 대한 자신만의 규칙을 세운 학생들은 두 조건 모두에서 더 높은 점수를 받았고, 모델 이해가 가장 깊은 학생들 — 모두 독학한 — 이 가장 의도적으로 프롬프트했습니다. 설계적 함의는 통제 반사를 거스릅니다. 도구를 제한하기보다는 AI 리터러시의 [[self-regulated-learning|자기조절]]적 요소와 모델 이해 요소를 가르치십시오.## 연결된 개념
+- **학습자의 AI 거버넌스가 도구의 설계보다 더 중요합니다.** [[ai-literacy-tool-design-programming-education-2026|Azimi (2026)]]은 석사 데이터 분석 강좌의 학생 33명을 7주간 노트북에 내장된 비계화된 AI Study Coach(n = 16)와 스스로 선택한 임의의 [[generative-ai]] 도구의 제한 없는 사용(n = 17) 사이로 무작위 배정했습니다. 과제 수행과 개념 검사 향상은 구별되지 않았고, Coach 조건은 대신 더 높은 [[self-efficacy|자신감]]을 보고했습니다. 학생들을 구별한 것은 실천으로서의 AI 리터러시였습니다. AI를 언제 사용할지에 대한 자신만의 규칙을 세운 학생들은 두 조건 모두에서 더 높은 점수를 받았고, 모델 이해가 가장 깊은 학생들 — 모두 독학한 — 이 가장 의도적으로 프롬프트했습니다. 설계적 함의는 통제 반사를 거스릅니다. 도구를 제한하기보다는 AI 리터러시의 [[self-regulated-learning|자기조절]]적 요소와 모델 이해 요소를 가르치십시오.
+
+특히 비판적 AI 리터러시의 경우, [[solyst-youth-systematic-evaluation-genai-2026|Solyst et al. (2026)]]은 무엇을 찾아야 하는지 이름 붙이는 비계와 발견한 것을 기록하는 구조가 주어지면 청소년이 생성형 AI를 체계적으로 평가하도록 가르칠 수 있음을 보여줍니다.
+
+[[suartama-cafe-ai-pedagogy-technology-ai-literacy-2026|Suartama, Sukmana 및 Triwahyuni (2026)]]는 AI 리터러시 교육과 성장 마인드셋 프레이밍을 결합한 설계인 CAFE-AI를 제안하며, 이 결합이 인도네시아의 한 대학 강좌에서 한 학기 동안 측정된 AI 리터러시와 마인드셋을 모두 향상시켰다고 보고합니다.
+
+## 흔한 오해
+
+- **"자기보고식 AI 리터러시는 실제 AI 리터러시를 반영합니다."** 그것은 **측정된 수행과 크게 벌어집니다** — 교사들은 **자신의 기술을 약 40% 과대평가**하며, [[ai-literacy-assessment-misalignment|리터러시 평가에 관한 연구]]는 자기보고와 수행 기반 측정 사이의 동일한 **40% 격차**를 보여줍니다. AI 리터러시 설문은 역량이 아니라 자신감을 측정합니다.
+- **"AI 리터러시는 하나의 구성개념입니다."** [[sun-student-genai-entanglement-literacy-demands-2026|Sun, Dohn 및 Rehm (2026)]]은 **고등교육 실증 연구 102편**을 분류하여 이 구성개념이 단일하지 않음을 발견했습니다. 한 차원만 구축하는 프로그램은 나머지 차원을 다루지 않은 채로 남깁니다.
+- **"40%의 과대평가는 사소한 보정 문제입니다."** 그것은 자신의 AI 리터러시에 가장 확신하는 학생과 교사가 산출물을 평가할 능력이 가장 부족한 사람들일 수 있음을 뜻합니다 — 바로 개입이 가장 먼저 도달해야 하는 집단입니다.
+
 ## 연결된 개념
 - [[pedagogical-patterns]] — 이 서열의 비판적 검토 단계들에 의해 발전되었습니다
 - [[learners]] — 학습자 측 개념을 아우르는 상위 개념
@@ -224,6 +248,8 @@ AI 리터러시는 과잉 의존에 대해 **양날의 칼**입니다. [[student
 - [[career-development-and-readiness]] — AI 리터러시가 구축한다고 논의되는 취업 가능성의 결실
 - [[ai-education]] — 더 넓은 분야
 ## 연결된 문서
+- [[early-childhood-ai-holistic-competencies-review-2026]] — AI 시대의 유아기 형성: 역량, 교수법, 생태학적 지원 (Pei 2026)
+- [[ai-security-literacy-k12-framework-2026]] — AI 보안 리터러시: 생태계 기반 역량 프레임워크와 K-12 학습 플랫폼
 - [[mu-ai-competence-ethical-awareness-anxiety-2026]] - 대처 프레임워크 없이 리터러시의 윤리적 차원을 높이면 학생을 더 불안하게 남길 수 있습니다
 - [[caeai-digital-literacy-frameworks-review-2026]] — 80개의 검증된 프레임워크가 보여주는 AI의 디지털 리터러시 확장, 그리고 덜 명시된 채 남는 교육자의 인간–AI 협업 (Guo et al. 2026)
 - [[ai-literacies-young-adults-2025]] — 공영 미디어를 위한 여섯 역량 영역, 다섯 가치, 세 진행 수준
@@ -272,3 +298,5 @@ AI 리터러시는 과잉 의존에 대해 **양날의 칼**입니다. [[student
 - [[faculty-ai-well-being-social-supports-2026]] — 교수의 AI 웰빙, 사회적 지원, AI 리터러시의 구조방정식 모형
 - [[bozkurt-3wai-literacy-scale-2026]] — 세 가지 서로 다른 AI 리터러시 요인(What/How/Why)을 지닌 검증된 17문항 자기보고 척도; Know-How와 Know-Why가 가장 밀접히 결합(HTMT = 0.544)
 - [[hallstrom-ai-literacy-stem-education-frontiers-2026]] — STEM 교육에서 AI 리터러시에 관한 가장 많이 인용된 열 편의 연구 종합(Hallström et al. 2026)
+- [[wang-jin-anthropocentrism-learnification-ai-education-2026]] — AI에 관해 배우라는 요구를 훈육적 담론으로 읽기 (Wang & Jin 2026)
+- [[genait-genai-literacy-test-high-school-2026]] — GenAIT: 고등학생을 위한 객관적 생성형 AI 리터러시 검사와 LLM 사용 및 인식과의 연관 (Puppart, Laak 및 Aru 2026)

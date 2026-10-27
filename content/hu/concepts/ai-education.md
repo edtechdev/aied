@@ -1,6 +1,7 @@
 ---
 title: "Mesterséges intelligencia az oktatásban"
 created: "2026-10-15T14:22:00-04:00"
+updated: "2026-10-27T04:16:00-04:00"
 type: concept
 foundations: [ai-education, ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring, llm]
@@ -14,13 +15,17 @@ confidence: high
 institutions: [educational-policy-ai]
 reviewed_by: [editor]
 translation_of: "concepts/ai-education"
-source_updated: "2026-10-02T07:35:56-04:00"
+source_updated: "2026-10-26T02:30:00-04:00"
 translation_note: "*Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő.*"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-15"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-27"
     agent: hermes-agent
 ---
 
@@ -154,6 +159,18 @@ A tudásbázis a gyors fejlődésben lévő tudományterületet tükrözi — a 
 ## Kapcsolatok
 
 A mesterséges intelligencia az oktatásban a tudásbázis minden fogalmához kapcsolódik — ez az a tudományterület, amelyet az összes többi fogalomoldal együttesen határoz meg. Használja ezt az oldalt kiindulópontként a teljes tudásbázisban való navigáláshoz.
+
+## Gyakori tévhitek
+
+**„Az MI az oktatásban egyetlen terület, egyetlen bizonyítékbázissal.”** Esernyő ez különböző szálak fölött — tudományterületek, szintek, értékelés, kutatómódszerek, intézmények, esélyegyenlőség —, amelyek módszereikben, kimeneti mérőeszközeikben és érettségükben különböznek. Az egyik szál eredménye nem vihető át a másikra, ezért szerveződik a tudásbázis így, és nem egységes szakirodalomként.
+
+**„Az eszköz, amely javítja egy kurzus eredményeit, javítja a diákok sikerességét is.”** Az intézményi szál az ellenkező mintát mutatja: a [[student-support-and-success|diáktámogatásban és -sikerben]] az MI **megbízhatóan mozgatja a feladatok teljesítését, de a kitartást vagy a diplomaszerzést nem**. Egy beavatkozás minden kurzuson belüli mérőszámot megnyerhet, a befejezési eredmény mégis lapos maradhat.
+
+**„A technológia teljesítménye bizonyíték a tanulásról.”** A terület az oktatástechnológia és a [[learning-sciences|tanulástudományok]] metszéspontján áll, és a kettő közti különbség pontosan ez: megváltozott-e a tanuló, és nem csak az, hogy egy eszköz teljesített-e. A demonstráció az eszközről szóló állítás.
+
+**„Mivel az MI általános célú, a bárhol talált eredmény mindenhol érvényes.”** A technológia általánossága nem hozza létre a bizonyítékok általánosságát. A tudományterületi, szint- és kontextusszálak azért léteznek, mert ugyanaz az eszköz ezekben eltérően viselkedik, és a határon változatlanul átvitt eredmény extrapoláció.
+
+**„A terület érettsége leolvasható a publikációs volumenéről.”** A volumen és az érettség szétválik; a kutatómódszerek szál visszatérő tervezési gyengeségeket dokumentál, amelyeket a volumen nem javít meg, a keretrendszerek pedig gyorsabban szaporodnak, mint ahogy tesztelik őket.
 
 ## Kapcsolódó fogalmak
 - [[pedagogical-patterns]] — A bevált sorok, amelyek működtetik a tudományterület pedagógiáit

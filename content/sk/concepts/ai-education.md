@@ -1,6 +1,7 @@
 ---
 title: "AI vo vzdelávaní"
 created: "2026-10-15T14:22:00-04:00"
+updated: "2026-10-27T04:16:20-04:00"
 type: concept
 foundations: [ai-education, ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring, llm]
@@ -14,13 +15,17 @@ confidence: high
 institutions: [educational-policy-ai]
 reviewed_by: [editor]
 translation_of: "concepts/ai-education"
-source_updated: "2026-10-02T07:35:56-04:00"
+source_updated: "2026-10-26T02:30:00-04:00"
 translation_note: "Automatický strojový preklad tejto anglickej stránky, ktorý ešte nebol skontrolovaný rodeným hovorcom."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-15"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-27"
     agent: hermes-agent
 ---
 
@@ -153,6 +158,18 @@ Vedomostná báza odráža odbor v rýchlej evolúcii — od skorých systémov 
 ## Prepojenia
 
 AI vo vzdelávaní sa spája s každým konceptom vedomostnej bázy — je to odbor, ktorý spoločne definujú všetky ostatné stránky konceptov. Použite túto stránku ako východiskový bod na navigáciu celou vedomostnou bázou.
+
+## Časté mylné predstavy
+
+**„AI vo vzdelávaní je jeden odbor s jednou dôkazovou základňou."** Je to zastrešujúci rámec nad odlišnými vetvami — disciplíny, úrovne, hodnotenie, výskumné metódy, inštitúcie, rovnosť — ktoré sa líšia metódami, mierami výsledkov a zrelosťou. Zistenie z jednej vetvy sa neprenáša do inej, a preto je vedomostná báza organizovaná takto, a nie ako jedna literatúra.
+
+**„Nástroj, ktorý zlepšuje výsledky kurzu, zlepšuje aj úspech študentov."** Inštitucionálna vetva ukazuje opačný vzorec: [[student-support-and-success|podpora a úspech študentov]] je oblasť, kde AI **spoľahlivo posúva dokončovanie úloh, ale nie vytrvalosť alebo ukončenie štúdia**. Intervencia môže vyhrať každé meranie v rámci kurzu a výsledok ukončenia nechať nezmenený.
+
+**„Výkon technológie je dôkazom o učení."** Odbor sa nachádza na priesečníku inštrukčných technológií a [[learning-sciences|vied o učení]], a rozdiel medzi nimi je presne tento: či sa študent zmenil, a nie len či nástroj fungoval. Demonštrácia je tvrdenie o nástroji.
+
+**„Keďže AI je univerzálna, zistenie odkiaľkoľvek platí všade."** Univerzálnosť technológie nevytvára univerzálnosť dôkazov. Vetvy pre disciplínu, úroveň a kontext existujú preto, že ten istý nástroj sa v nich správa odlišne, a nezmenené zistenie prenesené cez hranicu je extrapolácia.
+
+**„Zrelosť odboru sa dá odčítať z objemu publikácií."** Objem a zrelosť sa rozchádzajú; vetva výskumných metód dokumentuje opakujúce sa slabiny dizajnu, ktoré objem nenapraví, a rámce sa množia rýchlejšie, než sa testujú.
 
 ## Prepojené koncepty
 - [[pedagogical-patterns]] — Testované sekvencie, ktoré operacionalizujú pedagogiky odboru

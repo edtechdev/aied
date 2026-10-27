@@ -1,6 +1,7 @@
 ---
 title: "IA in educazione"
 created: "2026-10-14T21:57:00-04:00"
+updated: "2026-10-27T04:16:00-04:00"
 type: concept
 foundations: [ai-education, ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring, llm]
@@ -14,13 +15,17 @@ confidence: high
 institutions: [educational-policy-ai]
 reviewed_by: [editor]
 translation_of: "concepts/ai-education"
-source_updated: "2026-10-02T07:35:56-04:00"
+source_updated: "2026-10-26T02:30:00-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-27"
     agent: hermes-agent
 ---
 
@@ -153,6 +158,18 @@ La knowledge base riflette un campo in rapida evoluzione — dai primi sistemi d
 ## Collegamenti
 
 L'IA in educazione si collega a ogni concetto della knowledge base — è il campo che tutte le altre pagine di concetto definiscono collettivamente. Usa questa pagina come punto di partenza per navigare l'intera knowledge base.
+
+## Idee sbagliate comuni
+
+**"L'IA in educazione è un unico campo con un'unica base di prove."** È un ombrello su filoni distinti — discipline, livelli, valutazione, metodi di ricerca, istituzioni, equità — che differiscono nei metodi, nelle misure di esito e nella maturità. Un risultato di un filone non si trasferisce a un altro, ed è per questo che la base di conoscenza è organizzata così anziché come un'unica letteratura.
+
+**"Uno strumento che migliora gli esiti di un corso migliora il successo degli studenti."** Il filone istituzionale mostra lo schema opposto: nel [[student-support-and-success|sostegno e il successo degli studenti]], l'IA **sposta in modo affidabile il completamento dei compiti ma non la perseveranza o il conseguimento del titolo**. Un intervento può vincere ogni misura interna al corso e lasciare piatto l'esito di completamento.
+
+**"La prestazione di una tecnologia è prova di apprendimento."** Il campo si colloca all'intersezione tra tecnologia didattica e [[learning-sciences|scienze dell'apprendimento]], e la distinzione tra le due è esattamente questa: se un discente è cambiato, non solo se uno strumento ha funzionato. Una dimostrazione è un'affermazione sullo strumento.
+
+**"Poiché l'IA è general-purpose, un risultato trovato ovunque vale ovunque."** La generalità della tecnologia non crea generalità delle prove. I filoni delle discipline, dei livelli e dei contesti esistono perché lo stesso strumento si comporta diversamente al loro interno, e un risultato trasportato senza modifiche oltre un confine è un'estrapolazione.
+
+**"La maturità del campo si legge dal suo volume di pubblicazioni."** Volume e maturità divergono; il filone dei metodi di ricerca documenta debolezze ricorrenti di progettazione che il volume non corregge, e i framework si moltiplicano più in fretta di quanto vengano testati.
 
 ## Concetti collegati
 - [[pedagogical-patterns]] — The tested sequences that operationalize the field's pedagogies
