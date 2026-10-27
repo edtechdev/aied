@@ -7,7 +7,7 @@
 > **Scope of this file:** it lists work in progress only — articles whose full text is still being sought, and pages waiting on a source before their practice and limitations sections can be written. Candidates appear here only while they are being pursued, and no outcome is recorded; items judged unsuitable for the knowledge base are tracked outside this repository.
 
 **Last updated:** 2026-10-27
-**Total backlog:** 27 articles awaiting ingest (18 with full text retrievable from the open-access publisher pages, 9 blocked by publisher access) · 52 truncated source texts awaiting PDFs · 19 pages awaiting a full text before their practice and limitations sections can be written
+**Total backlog:** 19 articles awaiting ingest (14 with full text retrievable from the open-access publisher pages, 5 blocked by publisher access) · 52 truncated source texts awaiting PDFs · 19 pages awaiting a full text before their practice and limitations sections can be written
 
 ## Daily arXiv + OpenAlex scan (2026-10-27)
 
@@ -31,24 +31,17 @@ Relevant AI-in-education articles found by the weekly `journal_scan.feeds` run t
 - [A pilot educational framework for AI-enhanced digital manufacturing and reflective skill development](https://www.sciencedirect.com/science/article/pii/S2666557326000133) — [DOI: 10.1016/j.caeo.2026.100342](https://doi.org/10.1016/j.caeo.2026.100342) — Computers and Education Open
 - [Bridging the domain gap for VLMs: A scientific fine-tuning framework for precision and pedagogy in astronomical image understanding](https://www.sciencedirect.com/science/article/pii/S2666920X26001359) — [DOI: 10.1016/j.caeai.2026.100673](https://doi.org/10.1016/j.caeai.2026.100673) — Computers and Education: Artificial Intelligence
 - [Enhancing domain adaptation of LLM via model composition in solving medical exam questions](https://www.sciencedirect.com/science/article/pii/S2666920X26001001) — [DOI: 10.1016/j.caeai.2026.100638](https://doi.org/10.1016/j.caeai.2026.100638) — Computers and Education: Artificial Intelligence
-- [ASTRA: A synthetic benchmark for trace-based evaluation of socially intelligent multi-agent tutoring and participation-balanced collaboration](https://www.sciencedirect.com/science/article/pii/S2666920X26000950) — [DOI: 10.1016/j.caeai.2026.100633](https://doi.org/10.1016/j.caeai.2026.100633) — Computers and Education: Artificial Intelligence
-- [Personalized neural cognitive architecture search: AutoML-driven diagnostic model generation for heterogeneous learner profiles](https://www.sciencedirect.com/science/article/pii/S2666920X26000822) — [DOI: 10.1016/j.caeai.2026.100620](https://doi.org/10.1016/j.caeai.2026.100620) — Computers and Education: Artificial Intelligence
 - [A socio-technical framework for educational excellence: Empirical validation of artificial intelligence and Jidoka integration](https://www.sciencedirect.com/science/article/pii/S2666920X26001098) — [DOI: 10.1016/j.caeai.2026.100647](https://doi.org/10.1016/j.caeai.2026.100647) — Computers and Education: Artificial Intelligence
 - [The impact of human-AI co-creation on perceived creativity in generative AI art: a serial mediation mechanism of psychological ownership](https://www.frontiersin.org/articles/10.3389/fpsyg.2026.1986050) — [DOI: 10.3389/fpsyg.2026.1986050](https://doi.org/10.3389/fpsyg.2026.1986050) — Frontiers in Psychology
-- [Large language models for teaching and learning in higher education: opportunities, challenges, and future directions](https://link.springer.com/article/10.1186/s41239-026-00624-7) — [DOI: 10.1186/s41239-026-00624-7](https://doi.org/10.1186/s41239-026-00624-7) — International Journal of Educational Technology in Higher Education
 - [Designing in Uncertainty: GenAI and Creative Agency in a Graduate Seminar](https://joidat.scholasticahq.com/article/164950-designing-in-uncertainty-genai-and-creative-agency-in-a-graduate-seminar) — [DOI: 10.65201/RKHM9093](https://doi.org/10.65201/RKHM9093) — Journal of Instructional Design and Technology
 ## Weekly journal RSS scan (2026-10-25)
 
 Relevant AI-in-education articles found by this run's `journal_scan.feeds` pull that were **not ingested** — the run was bounded to the eight articles whose full text was retrievable from the publisher page. Full text for the items below is **not retrievable from this host** (Elsevier and Wiley both return HTTP 403 to the fetch client), so they await a maintainer-supplied PDF.
 
-- [An automated online proctoring system with live suspicious activity detection using YOLOv11 pose estimation and multi-model classification](https://www.sciencedirect.com/science/article/pii/S2666920X26001505) — [DOI: 10.1016/j.caeai.2026.100688](https://doi.org/10.1016/j.caeai.2026.100688) — Computers and Education: Artificial Intelligence
-- [Can AI help teachers? Experimental evidence on the effects of generative AI use and AI training on teachers' lesson preparation](https://www.sciencedirect.com/science/article/pii/S2666557326000996) — [DOI: 10.1016/j.caeo.2026.100427](https://doi.org/10.1016/j.caeo.2026.100427) — Computers and Education Open
 - [Creating digital twins awareness in African higher education institutions: Bibliometric analysis from top influential countries](https://www.sciencedirect.com/science/article/pii/S2666557326000789) — [DOI: 10.1016/j.caeo.2026.100407](https://doi.org/10.1016/j.caeo.2026.100407) — Computers and Education Open
 - [Temporal dynamics of online learning interactions: A learning analytics study within the CoI framework](https://www.sciencedirect.com/science/article/pii/S2666557326000698) — [DOI: 10.1016/j.caeo.2026.100398](https://doi.org/10.1016/j.caeo.2026.100398) — Computers and Education Open
-- [Generative AI as a team moderator in CSCL: Facilitating students' multidimensional engagement through adaptive scaffolding for socially shared regulation of learning](https://bera-journals.onlinelibrary.wiley.com/doi/10.1111/bjet.70096) — [DOI: 10.1111/bjet.70096](https://doi.org/10.1111/bjet.70096) — British Journal of Educational Technology
 - [Hybrid intelligence feedback systems in design thinking development: Stage-specific insights on pedagogical effects and characteristics of generative AI and instructors](https://bera-journals.onlinelibrary.wiley.com/doi/10.1111/bjet.70080) — [DOI: 10.1111/bjet.70080](https://doi.org/10.1111/bjet.70080) — British Journal of Educational Technology
 - [From emotion regulation to academic success: A self-determination theory-based emotional agent-mediated approach](https://bera-journals.onlinelibrary.wiley.com/doi/10.1111/bjet.70083) — [DOI: 10.1111/bjet.70083](https://doi.org/10.1111/bjet.70083) — British Journal of Educational Technology
-- [Psychological mechanisms of perceived technological dependence on generative artificial intelligence tools: perceived knowledge, trust, anxiety, and self-efficacy](https://www.frontiersin.org/articles/10.3389/fpsyg.2026.1928967) — [DOI: 10.3389/fpsyg.2026.1928967](https://doi.org/10.3389/fpsyg.2026.1928967) — Frontiers in Psychology
 
 ## OpenAlex harvest (2026-09-25)
 
@@ -61,12 +54,6 @@ _No articles pending as of 2026-10-04._
 
 
 
-
-## OpenAlex harvest (2026-10-21)
-
-Relevant AI-in-education records surfaced by the OpenAlex scan whose open-access `pdf_url` answered with a publisher bot check instead of a file. Full text is not retrievable automatically, so no wiki page was created.
-
-- [Technology-Supported Formative Assessment in Higher Education: AI, Learning Analytics and the Future of Assessment for Learning](https://onlinelibrary.wiley.com/doi/10.1002/jcal.70360) — [DOI: 10.1002/jcal.70360](https://doi.org/10.1002/jcal.70360) — Journal of Computer Assisted Learning (Wiley `pdfdirect` returns HTTP 403)
 
 ## Ingested pages whose source text is truncated (PDF needed)
 
