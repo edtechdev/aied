@@ -1,7 +1,7 @@
 ---
 title: Evaluative Judgment
 created: "2026-09-10T05:58:00-04:00"
-updated: "2026-10-26T11:15:00-04:00"
+updated: "2026-10-27T07:23:49-04:00"
 type: concept
 foundations: [academic-integrity, critical-thinking]
 pedagogy: [metacognition, self-regulated-learning]
@@ -47,6 +47,7 @@ Four arguments converge.
 - **It is the capability that governs AI use.** Deciding whether an AI suggestion is worth accepting, adapting, or rejecting *is* evaluative judgment applied to machine output. Courses that cannot make it visible cannot tell responsible use from substitution, which is why [[academic-integrity|integrity]] scholars increasingly treat critical AI use as an assessable outcome rather than a rule to be policed.
 - **It is the pivot from enforcement to design.** Where prohibited use cannot be detected, [[teichmann-detecting-undetectable-misconduct-2026|Teichmann (2026)]] names cultivating evaluative judgment among the three design strands that relocate institutions from [[ai-detection|detection-led enforcement]] to validity-centered assessment — because where the institution cannot detect, the capability that survives inspection is whether the student can account for the work and its quality.
 - **It converts disclosure from confession to evidence.** When a task asks students to explain what they used AI for, which suggestions they accepted or rejected, and how the final submission reflects their own judgment, the [[ai-use-disclosure|declaration]] becomes a demonstration of judgment rather than an admission to be interpreted punitively — which is what lowers the [[academic-integrity|cost of honesty]] that otherwise drives disclosure underground.
+- **Judgment is cultivated by composed constraints, not by removing them.** [[elkington-human-centred-assessment-value-2026|Elkington (2026)]] argues that generative constraints such as a short visual draft before a final artifact, or a limit of three interview clips, pace cognitive work and make judgment visible, because constraints create the moments in which appraisal is practiced.
 
 A further layer concerns the *source* of a judgment, not only its content. [[student-perspectives-ai-writing-grading-2026|AlGhamdi (2026)]] gives that layer a sharper vocabulary: his 13 Saudi computing students rendered two independent judgments within a single evaluation event — whether the feedback was useful, and whether its source held authority to grade. They all accepted ChatGPT's rubric-based feedback as clear and specific while overwhelmingly reserving the grade for the instructor ("I agree with it, but with one condition, that the doctor checks the feedback"), suggesting evaluative judgment in AI-mediated assessment must now include reasoning about evaluative authority itself, not only about the quality of the feedback received.
 
@@ -116,6 +117,7 @@ Displacement has a teacher-side version, and it is what turned several writing p
 - [[higher-ed]]
 
 ## Connected Articles
+- [[elkington-human-centred-assessment-value-2026]] — Human-centred assessment, assemblages and generative constraints (Elkington 2026)
 - [[wu-lam-genai-writing-assessment-professors-2026]] — Why writing professors refuse to outsource marking: it is how they learn their students
 - [[chatgpt-peer-feedback-evaluative-judgement-2025]] — ChatGPT versus peer feedback as training grounds for different dimensions of evaluative judgment
 - [[ai-internal-feedback-evaluative-judgments]] — How AI-supported internal feedback develops evaluative judgments, and where reasoning stays thin

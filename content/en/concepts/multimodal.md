@@ -2,7 +2,7 @@
 connected_resources: [drawsplat]
 title: Multimodal AI
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-26T00:30:00-04:00"
+updated: "2026-10-27T07:23:49-04:00"
 type: concept
 foundations: [ai-education, ai-literacy]
 technology: [generative-ai, intelligent-tutoring, llm, multimodal]
@@ -37,6 +37,7 @@ Multimodal AI enables learners to produce and engage with content across text, i
 - **[[ai-literacy|AI literacy]] in multimodal contexts** is layered: basic awareness of multimodal platforms, intermediate co-creation and [[critical-thinking|critical evaluation]] of outputs, and advanced design of multimodal activities and assessments.([[multimodal-learning-genai]])
 - **Multimodal prompting** is itself a demanding epistemic practice. Students who prompt for images as well as text discover that "prompt literacy is different between prompting for text than it is for pictures" — translating abstract meaning into machine-readable multimodal prompts requires a precise visual vocabulary and exposes system limitations and bias.([[multimodal-prompting-ai-literacy]])
 - **Multimodal assessment** shifts from essays to artifacts combining text, image, audio, and video, with educators using AI to [[scaffolding|scaffold]] creation and feedback rather than replace the learner's own production.([[multimodal-learning-genai]])
+- **Modality choice is an educational judgment, not a container.** [[elkington-human-centred-assessment-value-2026|Elkington (2026)]] argues that choosing among written, oral, digital and multimodal formats decides what becomes possible for learners and visible to assessors, and counts controlled choice among modalities as a generative constraint rather than an administrative detail.
 - **Learner multimodal composing as a critical-thinking scaffold carries a trade-off.** [[lu-ai-multimodal-writing-critical-thinking-2026|Lu et al. (2027)]] show that having upper-primary students turn written narratives into AI-generated images and short videos supported sustained gains in interpretation, analysis, evaluation, and explanation — but not inference. Because the visuals made story meaning explicit, students reported less need to infer implicit meaning from text alone; peer collaboration, not the multimodal tool, restored occasions for inference. Multimodal AI's value as a meaning-making partner is thus dimension-specific and depends on [[learning-design|instructional design]] that deliberately re-introduces the inferential and [[self-regulated-learning|self-regulatory]] work the externalization can short-circuit.
 - **Learner multimodal [[writing-education|composition]] as critical AI literacy.** [[burriss-multimodal-composition-critical-ai-literacy-2026|Burriss et al. (2026)]] analyze 22 eleventh graders' 90-second to 3-minute video public service announcements on self-chosen AI [[ethics]] issues — surveillance through school-regulated laptops and electronic "hall passes," [[privacy|informed consent]], and punitive algorithmic accusation — as [[ai-literacy|critical AI literacy]] enacted through composing across moving image, sound, text, and students' own bodies. Across all seven films harm was portrayed as emerging from human–machine entanglement rather than from the tool alone (an anthropomorphized "AI stalker" was played by a human actor in three of seven), and 15 of 18 end-of-unit responses said composing changed their understanding of AI ethics. The authors argue multimodal products both *demonstrate* and *communicate* critical competence — productive artifacts, reflections, and civic discourse can serve as [[assessment]] evidence that text-only literacy scales structurally miss.
 
@@ -118,6 +119,7 @@ Multimodal systems also expand access and [[personalized-learning|personalizatio
 - [[speech-and-voice-technologies]]
 - [[arts-design-and-media-education]]
 ## Connected Articles
+- [[elkington-human-centred-assessment-value-2026]] — Human-centred assessment, assemblages and generative constraints (Elkington 2026)
 - [[burriss-multimodal-composition-critical-ai-literacy-2026]] — Video PSA composition on AI ethics as critical AI literacy pedagogy (Burriss et al. 2026)
 - [[student-attention-estimation-fairness-2026]] — Fairness-Aware Multimodal Transformer Modeling for Real-Time Student Attention Estimation
 - [[omniphys-multimodal-physics-benchmark-2026]]
