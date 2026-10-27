@@ -11,8 +11,8 @@ audience: [learners]
 confidence: high
 connected_resources: [pause-ai-use-self-examination, student-guide-to-ai]
 translation_of: concepts/cognitive-offloading
-source_updated: "2026-10-26T13:50:00-04:00"
-updated: "2026-10-27T17:08:06-04:00"
+source_updated: "2026-10-27T18:18:05-04:00"
+updated: "2026-10-27T18:18:05-04:00"
 translation_note: "*Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*"
 contributors: [editor]
 ai_assist:
@@ -111,7 +111,6 @@ Tangga yang dilacak halaman ini memiliki tiga anak tangga, dan hanya dua yang pe
 - **Paradoks efisiensi: tujuan penguasaan yang runtuh menjadi offloading "secara default."** [[yan-cognitive-outsourcing-genai-assessments-2026|Yan et al. (2026)]] mengidentifikasi pembelajar yang menyatakan tujuan berorientasi penguasaan namun menjalankan proses yang mirip pendekatan permukaan, melakukan offloading "bukan karena niat, tetapi karena default": tiga kelompok niat mereka (Alat Outsourcing n = 16, Asisten Pembelajaran n = 31, Mitra Kognitif n = 8) menunjukkan bahwa kasus modalnya bukanlah kecurangan yang disengaja maupun pembelajaran yang disengaja. Siswa kelompok outsourcing mengenali keterlepasannya sendiri (menyalin-tempel paragraf demi paragraf digambarkan sebagai "benar-benar menggantikan otak saya") dan melaporkan lupa dengan cepat, dan seluruh 38 orang yang diwawancarai melaporkan rendahnya keyakinan menggunakan GenAI secara efektif: bukti bahwa ketergantungan berlebih dapat didorong oleh kondisi presage yang hilang ([[ai-literacy]], kompetensi prompting, panduan spesifik tugas) alih-alih oleh motivasi untuk menghindari kerja.
 
 - **Pengodean agensik meng-offload pemahaman di lapangan:** [[spec-driven-development-ai-agents-sdpbl-2026|Tanaka et al. (2026)]] melaporkan bahwa mahasiswa sarjana yang menggunakan [[agentic-ai|agen AI]] dalam mata kuliah proyek perangkat lunak menulis lebih banyak kode dari tahun ke tahun tetapi menunjukkan penurunan pemahaman di bawah penggunaan berat - yang dapat dipulihkan melalui verifikasi instruktur satu-satu atas kode yang dihasilkan AI.
-risiko paling berkonsekuensi dari AI dalam pendidikan:
 
 - **Penggusuran pembelajaran:** [[ai-making-us-stupid|Penelitian tentang efek kognitif AI]] mendokumentasikan bagaimana ketersediaan AI mengurangi pemrosesan yang memerlukan usaha - "efek Google yang diperluas ke penalaran." [[stamatoulis-genai-use-patterns-2026|Stamatoulis et al. (2026)]] mengisolasi ini sebagai *pola* penggunaan yang berbeda: **penerimaan dengan verifikasi rendah** (menerima keluaran AI secara tidak kritis) memprediksi [[learning-gains|kinerja akademik]] yang lebih buruk, sedangkan **integrasi evaluatif** (menggunakan AI untuk mendukung pemahaman) memprediksi kinerja yang lebih baik - dan **frekuensi** penggunaan saja tidak memprediksi keduanya. Ketergantungan berlebih karena itu adalah *mode penggunaan* yang dapat dipisahkan dari seberapa banyak siswa menggunakan AI.
 - **Masalah agensi:** [[aied-unfinished-mission-bypass|Misi AIED yang belum selesai]] membingkai ketergantungan berlebih sebagai krisis agensi dan motivasi: siswa melewati pembelajaran bukan karena AI memikat, tetapi karena tugas belajar terasa tidak bermakna ketika AI dapat menyelesaikannya dengan mudah.

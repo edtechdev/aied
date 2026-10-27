@@ -11,8 +11,8 @@ audience: [learners]
 confidence: high
 connected_resources: [pause-ai-use-self-examination, student-guide-to-ai]
 translation_of: concepts/cognitive-offloading
-source_updated: "2026-10-26T13:50:00-04:00"
-updated: "2026-10-27T16:29:38-04:00"
+source_updated: "2026-10-27T18:18:05-04:00"
+updated: "2026-10-27T18:18:05-04:00"
 translation_note: "*Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím.*"
 contributors: [editor]
 ai_assist:
@@ -111,7 +111,6 @@ Kognitivní odklánění není samo o sobě škodlivé - lidé vždy používali
 - **Paradox efektivity: cíle mistrovství se hroutí do odklánění „ve výchozím nastavení".** [[yan-cognitive-outsourcing-genai-assessments-2026|Yan et al. (2026)]] identifikovali žáky, kteří formulovali cíle orientované na mistrovství, ale jednali procesy podobnými povrchovým a odkláněli „ne záměrem, ale ve výchozím nastavení": jejich tři skupiny podle záměru (Outsourcing Tool n = 16, Learning Assistant n = 31, Cognitive Partner n = 8) ukazují, že typickým případem není ani záměrné podvádění, ani záměrné učení. Studenti ze skupiny outsourcingu si uvědomovali vlastní neangažovanost (kopírování a vkládání odstavce po odstavci popisovali jako „úplně mi to nahradilo mozek") a uváděli rychlé zapomínání, a všech 38 dotázaných uvádělo nízkou jistotu, že GenAI používají účinně - důkaz, že nadměrnou závislost mohou řídit chybějící podmínky na vstupu ([[ai-literacy]], kompetence v promptování, úkolově specifické vedení), a ne motivace vyhýbat se práci.
 
 - **Agentní programování odklání porozumění v praxi:** [[spec-driven-development-ai-agents-sdpbl-2026|Tanaka et al. (2026)]] uvádějí, že pregraduální studenti používající [[agentic-ai|AI agenty]] v kurzu softwarového projektu napsali meziročně více kódu, ale při těžkém používání vykazovali propady porozumění - napravitelné individuálním ověřením kódu generovaného AI ze strany vyučujícího.
-nejzávažnější rizika AI ve vzdělávání:
 
 - **Vytěsnění učení:** [[ai-making-us-stupid|Výzkum kognitivních účinků AI]] dokumentuje, jak dostupnost AI snižuje namáhavé zpracování - „efekt Google rozšířený na uvažování". [[stamatoulis-genai-use-patterns-2026|Stamatoulis et al. (2026)]] to izolují jako odlišný *vzorec* použití: **přejímání bez ověřování** (nekritické přijímání výstupu AI) predikovalo horší [[learning-gains|akademický výkon]], zatímco **hodnoticí integrace** (používání AI na podporu porozumění) predikovala lepší výkon - a samotná **četnost** používání nepredikovala ani jedno. Nadměrná závislost je proto *režimem použití*, který lze oddělit od toho, jak mnoho studenti AI používají.
 - **Problém agenturnosti:** [[aied-unfinished-mission-bypass|Nedokončené poslání AIED]] rámuje nadměrnou závislost jako krizi agenturnosti a motivace - studenti obcházejí učení ne proto, že by AI byla neodolatelná, ale proto, že učební úlohy působí bezúčelně, když je AI dokáže splnit bez námahy.

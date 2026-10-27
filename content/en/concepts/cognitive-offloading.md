@@ -1,7 +1,7 @@
 ---
 title: Cognitive Offloading
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-26T13:50:00-04:00"
+updated: "2026-10-27T18:18:05-04:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [metacognition, self-regulated-learning]
@@ -101,7 +101,6 @@ The ladder this page tracks has three rungs, and only the first two belong here.
 - **The efficiency paradox: mastery goals collapsing into offloading "by default."** [[yan-cognitive-outsourcing-genai-assessments-2026|Yan et al. (2026)]] identify learners who articulated mastery-oriented goals yet enacted surface-like processes, offloading "not by intention, but by default": their three intention groups (Outsourcing Tool n = 16, Learning Assistant n = 31, Cognitive Partner n = 8) show the modal case is neither deliberate cheating nor deliberate learning. Outsourcing-group students recognized their own disengagement (copy-pasting paragraph by paragraph was described as "it completely replaced my brain") and reported fast forgetting, and all 38 interviewees reported low confidence using GenAI effectively — evidence that over-reliance can be driven by missing presage conditions ([[ai-literacy]], prompting competence, task-specific guidance) rather than by motivation to avoid work.
 
 - **Agentic coding offloads comprehension in the field:** [[spec-driven-development-ai-agents-sdpbl-2026|Tanaka et al. (2026)]] report that undergraduates using [[agentic-ai|AI agents]] in a software project course wrote more code year-over-year but showed comprehension dips under heavy use - recoverable through one-on-one instructor verification of AI-generated code.
-most consequential risks of AI in education:
 
 - **Learning displacement:** [[ai-making-us-stupid|Research on AI's cognitive effects]] documents how AI availability reduces effortful processing — the "Google effect extended to reasoning." [[stamatoulis-genai-use-patterns-2026|Stamatoulis et al. (2026)]] isolate this as a distinct *pattern* of use: **low-verification uptake** (uncritically accepting AI output) predicted worse [[learning-gains|academic performance]], whereas **evaluative integration** (using AI to support understanding) predicted better performance — and usage **frequency** alone predicted neither. Over-reliance is therefore a *mode of use* that can be separated from how much students use AI.
 - **The agency problem:** [[aied-unfinished-mission-bypass|AIED's unfinished mission]] frames over-reliance as an agency and motivation crisis — students bypass learning not because AI is compelling, but because learning tasks feel pointless when AI can complete them effortlessly.

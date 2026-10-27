@@ -11,8 +11,8 @@ audience: [learners]
 confidence: high
 connected_resources: [pause-ai-use-self-examination, student-guide-to-ai]
 translation_of: concepts/cognitive-offloading
-source_updated: "2026-10-26T13:50:00-04:00"
-updated: "2026-10-27T17:08:19-04:00"
+source_updated: "2026-10-27T18:18:05-04:00"
+updated: "2026-10-27T18:18:05-04:00"
 translation_note: "*Automatisk maskinoversettelse av denne engelske siden, ennå ikke korrekturlest av en morsmålstalare.*"
 contributors: [editor]
 ai_assist:
@@ -110,7 +110,6 @@ Stigen denne siden følger, har tre trinn, og bare de to første hører hjemme h
 - **Effektivitetsparadokset: mestringsmål som kollapser til avlasting «som standard».** [[yan-cognitive-outsourcing-genai-assessments-2026|Yan et al. (2026)]] identifiserer elever som formulerte mestringsorienterte mål, men likevel utførte overfladiske prosesser, og avlastet «ikke med vilje, men som standard»: deres tre intensjonsgrupper (utkontrakteringsverktøy n = 16, læringsassistent n = 31, kognitiv partner n = 8) viser at det modale tilfellet verken er bevisst juks eller bevisst læring. Elever i utkontrakteringsgruppen erkjente sin egen lavinvolvering (å klippe og lime avsnitt for avsnitt ble beskrevet som «det erstattet hjernen min helt») og rapporterte rask glemming, og alle 38 intervjuede rapporterte lav selvtillit i å bruke GenAI effektivt - belegg for at overavhengighet kan drives av manglende presage-betingelser ([[ai-literacy]], promptkompetanse, oppgavespesifikk veiledning) snarere enn av motivasjon til å unngå arbeid.
 
 - **Agentisk koding avlaster forståelsen i praksis:** [[spec-driven-development-ai-agents-sdpbl-2026|Tanaka et al. (2026)]] rapporterer at bachelorstudenter som brukte [[agentic-ai|AI-agenter]] i et programvareprosjektemne, skrev mer kode år for år, men viste fall i forståelsen ved tung bruk - som kunne gjenopprettes gjennom én-til-én-verifisering av AI-generert kode sammen med underviser.
-blant de mest konsekvensrike risikoene ved AI i utdanning:
 
 - **Fortrengning av læring:** [[ai-making-us-stupid|Forskning på AI-ens kognitive effekter]] dokumenterer hvordan tilgangen til AI reduserer innsatsfylt prosessering - «Google-effekten utvidet til resonnering». [[stamatoulis-genai-use-patterns-2026|Stamatoulis et al. (2026)]] isolerer dette som et distinkt *mønster* i bruken: **opptak med lav verifisering** (å godta AI-output ukritisk) forutsa dårligere [[learning-gains|akademisk prestasjon]], mens **evaluativ integrasjon** (å bruke AI til å støtte forståelse) forutsa bedre prestasjon - og **hyppighet** alene forutsa ingen av delene. Overavhengighet er derfor en *bruksmåte* som kan skilles fra hvor mye elevene bruker AI.
 - **Handlekraftproblemet:** [[aied-unfinished-mission-bypass|AIEDs ufullendte oppdrag]] rammer inn overavhengighet som en krise for handlekraft og motivasjon - elevene omgår læring ikke fordi AI er forlokkende, men fordi læringsoppgaver kjennes meningsløse når AI kan fullføre dem uten anstrengelse.

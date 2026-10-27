@@ -11,8 +11,8 @@ audience: [learners]
 confidence: high
 connected_resources: [pause-ai-use-self-examination, student-guide-to-ai]
 translation_of: "concepts/cognitive-offloading"
-source_updated: "2026-10-26T13:50:00-04:00"
-updated: "2026-10-27T17:23:22-04:00"
+source_updated: "2026-10-27T18:18:05-04:00"
+updated: "2026-10-27T18:18:05-04:00"
 translation_note: "*Automatisk maskinöversättning av denna engelska sida, ännu inte granskad av en modersmålstalare.*"
 contributors: [editor]
 ai_assist:
@@ -114,7 +114,6 @@ Den stege denna sida följer har tre pinnar, och bara de två första hör hemma
 - **Effektivitetsparadoxen: mästerskapsmål som kollapsar i avlastning "av bara farten".** [[yan-cognitive-outsourcing-genai-assessments-2026|Yan m.fl. (2026)]] identifierar elever som formulerade mästerskapsinriktade mål men ändå handlade på ytnivåliknande sätt, och avlastade "inte avsiktligt, utan av bara farten": deras tre avsiktsgrupper (Utkontrakteringsverktyg n = 16, Lärandeassistent n = 31, Kognitiv partner n = 8) visar att det modala fallet varken är avsiktligt fusk eller avsiktligt lärande. Elever i utkontrakteringsgruppen kände igen sitt eget disengagemang (att kopiera och klistra in stycke för stycke beskrevs som "det ersatte helt min hjärna") och rapporterade snabb glömska, och alla 38 intervjuade rapporterade låg tilltro till att använda GenAI effektivt - evidens för att överberoende kan drivas av saknade presage-villkor ([[ai-literacy]], promptkompetens, uppgiftsspecifik vägledning) snarare än av motivation att undvika arbete.
 
 - **Agentisk kodning avlastar förståelsen i fält:** [[spec-driven-development-ai-agents-sdpbl-2026|Tanaka m.fl. (2026)]] rapporterar att grundstudenter som använde [[agentic-ai|AI-agenter]] i en mjukvaruprojektkurs skrev mer kod år för år men visade förståelsedippar vid tung användning - återhämtningsbara genom individuell lärarverifiering av AI-genererad kod.
-de mest betydelsefulla riskerna med AI i utbildningen:
 
 - **Undanträngt lärande:** [[ai-making-us-stupid|Forskning om AI:s kognitiva effekter]] dokumenterar hur AI:s tillgänglighet minskar ansträngningsfull bearbetning - "Google-effekten utsträckt till resonemang". [[stamatoulis-genai-use-patterns-2026|Stamatoulis m.fl. (2026)]] isolerar detta som ett distinkt *mönster* av användning: **upptag med låg verifiering** (okritiskt accepterande av AI-output) förutsade sämre [[learning-gains|akademisk prestation]], medan **utvärderande integration** (att använda AI för att stödja förståelse) förutsade bättre prestation - och användningens **frekvens** ensam förutsade ingetdera. Överberoende är därför ett *användningssätt* som kan skiljas från hur mycket elever använder AI.
 - **Handlingsutrymmesproblemet:** [[aied-unfinished-mission-bypass|AIED:s oavslutade uppdrag]] ramar in överberoende som en kris för handlingsutrymme och motivation - elever kringgår lärandet inte för att AI är övertygande, utan för att lärandeuppgifter känns meningslösa när AI kan slutföra dem utan ansträngning.

@@ -11,8 +11,8 @@ audience: [learners]
 confidence: high
 connected_resources: [pause-ai-use-self-examination, student-guide-to-ai]
 translation_of: concepts/cognitive-offloading
-source_updated: "2026-10-26T13:50:00-04:00"
-updated: "2026-10-27T16:45:31-04:00"
+source_updated: "2026-10-27T18:18:05-04:00"
+updated: "2026-10-27T18:18:05-04:00"
 translation_note: "*Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő.*"
 contributors: [editor]
 ai_assist:
@@ -111,7 +111,6 @@ A **túlzott támaszkodás** a MI-eszközöktől való túlzott vagy kalibrálat
 - **A hatékonyság paradoxona: az elsajátítási célok „alapértelmezés szerint” tehermentesítésbe omlanak.** [[yan-cognitive-outsourcing-genai-assessments-2026|Yan és mtsai. (2026)]] olyan tanulókat azonosítanak, akik elsajátításorientált célokat fogalmaztak meg, mégis felszínre emlékeztető folyamatokat valósítottak meg, „nem szándékból, hanem alapértelmezés szerint” tehermentesítve: három szándékcsoportjuk (Kiszervező eszköz n = 16, Tanulási asszisztens n = 31, Kognitív partner n = 8) azt mutatja, hogy a tipikus eset sem nem szándékos csalás, sem nem szándékos tanulás. A kiszervező csoport diákjai felismerték saját kikapcsolódásukat (a bekezdésenkénti másolás-beillesztést úgy írták le, hogy „teljesen helyettesítette az agyamat”), és gyors felejtésről számoltak be, és mind a 38 interjúalany alacsony magabiztosságot jelentett a generatív MI hatékony használatában - ez annak bizonyítéka, hogy a túlzott támaszkodást hiányzó előzetes feltételek ([[ai-literacy|MI-írástudatosság]], promptolási kompetencia, feladatspecifikus útmutatás) hajthatják, nem pedig a munka elkerülésére irányuló motiváció.
 
 - **Az ágensalapú kódolás terepen tehermentesíti a megértést:** [[spec-driven-development-ai-agents-sdpbl-2026|Tanaka és mtsai. (2026)]] arról számolnak be, hogy az [[agentic-ai|MI-ügynököket]] használó egyetemi hallgatók egy szoftverprojekt-kurzuson évről évre több kódot írtak, de a megértésük visszaesett erős használat mellett - ami helyrehozható a MI által generált kód egyéni oktatói ellenőrzésével.
-a MI oktatásban való alkalmazásának legfontosabb kockázatai:
 
 - **A tanulás kiszorulása:** [[ai-making-us-stupid|A MI kognitív hatásairól szóló kutatás]] dokumentálja, hogyan csökkenti a MI elérhetősége az erőfeszítést igénylő feldolgozást - a „Google-effektus kiterjesztve az érvelésre”. [[stamatoulis-genai-use-patterns-2026|Stamatoulis és mtsai. (2026)]] ezt a használat különálló *mintájaként* izolálják: az **ellenőrzés nélküli átvétel** (a MI-kimenet kritikátlan elfogadása) rosszabb [[learning-gains|tanulmányi teljesítményt]] jósolt, míg az **értékelő integráció** (a MI használata a megértés támogatására) jobb teljesítményt jósolt -, a használat puszta **gyakorisága** pedig egyiket sem. A túlzott támaszkodás tehát a használat *módja*, amely elválasztható attól, hogy a diákok mennyit használják a MI-t.
 - **Az önállóság problémája:** [[aied-unfinished-mission-bypass|Az AIED befejezetlen küldetése]] a túlzott támaszkodást önállósági és motivációs válságként keretezi - a diákok nem azért kerülik meg a tanulást, mert a MI csábító, hanem mert a tanulási feladatok értelmetlennek érződnek, amikor a MI erőfeszítés nélkül el tudja végezni őket.

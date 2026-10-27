@@ -11,8 +11,8 @@ audience: [learners]
 confidence: high
 connected_resources: [pause-ai-use-self-examination, student-guide-to-ai]
 translation_of: concepts/cognitive-offloading
-source_updated: "2026-10-26T13:50:00-04:00"
-updated: "2026-10-27T17:23:20-04:00"
+source_updated: "2026-10-27T18:18:05-04:00"
+updated: "2026-10-27T18:18:05-04:00"
 translation_note: "*Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét.*"
 contributors: [editor]
 ai_assist:
@@ -111,7 +111,6 @@ Cái thang mà trang này theo dõi có ba bậc, và chỉ hai bậc đầu thu
 - **Nghịch lý hiệu quả: các mục tiêu thành thạo sụp đổ thành việc giảm tải "theo mặc định".** [[yan-cognitive-outsourcing-genai-assessments-2026|Yan và cộng sự (2026)]] xác định những người học đã nêu ra các mục tiêu định hướng thành thạo nhưng lại thực hiện những quá trình giống bề mặt, giảm tải "không phải theo ý định, mà theo mặc định": ba nhóm ý định của họ (Công cụ Thuê ngoài n = 16, Trợ lý Học tập n = 31, Đối tác Nhận thức n = 8) cho thấy trường hợp phổ biến nhất không phải là gian lận có chủ đích cũng không phải học tập có chủ đích. Sinh viên nhóm Thuê ngoài nhận ra sự buông bỏ của chính mình (việc sao chép-dán từng đoạn được mô tả là "nó hoàn toàn thay thế bộ não của tôi") và báo cáo quên nhanh, và cả 38 người được phỏng vấn đều báo cáo sự tự tin thấp trong việc sử dụng GenAI hiệu quả, bằng chứng rằng sự phụ thuộc quá mức có thể được thúc đẩy bởi các điều kiện tiền đề bị thiếu ([[ai-literacy|năng lực AI]], năng lực nhắc, hướng dẫn đặc thù nhiệm vụ) chứ không phải bởi động lực né tránh công việc.
 
 - **Lập trình tác tử giảm tải sự hiểu trên thực địa:** [[spec-driven-development-ai-agents-sdpbl-2026|Tanaka và cộng sự (2026)]] báo cáo rằng sinh viên đại học dùng [[agentic-ai|tác tử AI]] trong một khóa học dự án phần mềm đã viết nhiều mã hơn qua từng năm nhưng cho thấy sự sụt giảm về hiểu biết khi sử dụng nhiều, có thể phục hồi được qua việc giảng viên kiểm chứng trực tiếp từng một mã do AI tạo ra.
-những rủi ro hệ trọng nhất của AI trong giáo dục:
 
 - **Thay thế việc học:** [[ai-making-us-stupid|nghiên cứu về các tác động nhận thức của AI]] ghi nhận cách việc sẵn có AI làm giảm việc xử lý đòi hỏi nỗ lực, "hiệu ứng Google mở rộng sang lập luận". [[stamatoulis-genai-use-patterns-2026|Stamatoulis và cộng sự (2026)]] cô lập điều này như một *mô thức* sử dụng riêng biệt: **việc tiếp nhận ít kiểm chứng** (chấp nhận đầu ra của AI mà không phê phán) dự báo [[learning-gains|hiệu năng học tập]] tệ hơn, trong khi **tích hợp đánh giá** (dùng AI để hỗ trợ sự hiểu) dự báo hiệu năng tốt hơn, và chỉ **tần suất** sử dụng thì không dự báo cả hai. Do đó sự phụ thuộc quá mức là một *chế độ sử dụng* có thể tách rời khỏi việc sinh viên dùng AI bao nhiêu.
 - **Vấn đề quyền chủ động:** [[aied-unfinished-mission-bypass|sứ mệnh chưa hoàn thành của AIED]] định khung sự phụ thuộc quá mức như một cuộc khủng hoảng về quyền chủ động và động lực: sinh viên bỏ qua việc học không phải vì AI hấp dẫn, mà vì các nhiệm vụ học tập cảm thấy vô nghĩa khi AI có thể hoàn thành chúng một cách dễ dàng.

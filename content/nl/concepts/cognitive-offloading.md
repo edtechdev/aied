@@ -11,8 +11,8 @@ audience: [learners]
 confidence: high
 connected_resources: [pause-ai-use-self-examination, student-guide-to-ai]
 translation_of: concepts/cognitive-offloading
-source_updated: "2026-10-26T13:50:00-04:00"
-updated: "2026-10-27T17:08:04-04:00"
+source_updated: "2026-10-27T18:18:05-04:00"
+updated: "2026-10-27T18:18:05-04:00"
 translation_note: "Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker."
 contributors: [editor]
 ai_assist:
@@ -111,7 +111,6 @@ De ladder die deze pagina volgt heeft drie treden, en alleen de eerste twee hore
 - **De efficiëntieparadox: mastery-doelen die "standaard" in offloading omslaan.** [[yan-cognitive-outsourcing-genai-assessments-2026|Yan et al. (2026)]] identificeren leerlingen die mastery-gerichte doelen formuleerden maar toch oppervlakkige processen uitvoerden, en offloadden "niet met opzet, maar standaard": hun drie intentiegroepen (Outsourcing Tool n = 16, Learning Assistant n = 31, Cognitive Partner n = 8) laten zien dat het modale geval noch bewust frauderen noch bewust leren is. Studenten in de outsourcinggroep herkenden hun eigen disengagement (alinea voor alinea kopiëren werd beschreven als "het verving mijn brein volledig") en meldden snel vergeten, en alle 38 geïnterviewden meldden weinig vertrouwen in het effectief gebruiken van GenAI - bewijs dat overmatige afhankelijkheid kan worden gedreven door ontbrekende presage-condities ([[ai-literacy|AI-geletterdheid]], promptvaardigheid, taakspecifieke begeleiding) in plaats van door motivatie om werk te vermijden.
 
 - **Agentisch programmeren offloadt begrip in de praktijk:** [[spec-driven-development-ai-agents-sdpbl-2026|Tanaka et al. (2026)]] rapporteren dat bachelorstudenten die [[agentic-ai|AI-agenten]] gebruikten in een softwareprojectvak jaar op jaar meer code schreven maar bij zwaar gebruik dips in begrip vertoonden - herstelbaar via een-op-eenverificatie van door AI gegenereerde code door de docent.
-ingrijpendste risico's van AI in het onderwijs:
 
 - **Verdringing van leren:** [[ai-making-us-stupid|Onderzoek naar de cognitieve effecten van AI]] documenteert hoe de beschikbaarheid van AI inspanningsvolle verwerking vermindert - het "Google-effect uitgebreid naar redeneren". [[stamatoulis-genai-use-patterns-2026|Stamatoulis et al. (2026)]] isoleren dit als een afzonderlijk *patroon* van gebruik: **weinig verifiërende overname** (AI-output kritiekloos accepteren) voorspelde slechtere [[learning-gains|academische prestaties]], terwijl **evaluatieve integratie** (AI gebruiken om begrip te ondersteunen) betere prestaties voorspelde - en de **frequentie** van gebruik op zichzelf voorspelde geen van beide. Overmatige afhankelijkheid is dus een *vorm van gebruik* die te scheiden is van hoeveel studenten AI gebruiken.
 - **Het agencyprobleem:** [[aied-unfinished-mission-bypass|De onvoltooide missie van AIED]] kadert overmatige afhankelijkheid als een crisis van agency en motivatie - studenten omzeilen leren niet omdat AI dwingend is, maar omdat leertaken zinloos aanvoelen wanneer AI ze moeiteloos kan voltooien.

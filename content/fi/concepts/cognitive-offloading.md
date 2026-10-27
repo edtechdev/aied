@@ -11,8 +11,8 @@ audience: [learners]
 confidence: high
 connected_resources: [pause-ai-use-self-examination, student-guide-to-ai]
 translation_of: concepts/cognitive-offloading
-source_updated: "2026-10-26T13:50:00-04:00"
-updated: "2026-10-27T16:46:00-04:00"
+source_updated: "2026-10-27T18:18:05-04:00"
+updated: "2026-10-27T18:18:05-04:00"
 translation_note: "Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja."
 contributors: [editor]
 ai_assist:
@@ -111,7 +111,6 @@ Tällä sivulla seurattavassa tikkaissa on kolme puolaa, ja tähän osioon kuulu
 - **Tehokkuusparadoksi: hallintatavoitteet romahtavat siirtokuormitukseksi "oletusarvoisesti".** [[yan-cognitive-outsourcing-genai-assessments-2026|Yan et al. (2026)]] tunnistavat oppijoita, jotka ilmaisivat hallintaan suuntautuneita tavoitteita mutta toteuttivat pinnan kaltaisia prosesseja ja siirsivät kuormitusta "ei aikomuksesta vaan oletusarvoisesti": heidän kolme aikomusryhmäänsä (Outsourcing Tool n = 16, Learning Assistant n = 31, Cognitive Partner n = 8) osoittavat, että tyypillinen tapaus ei ole tarkoituksellista huijaamista eikä tarkoituksellista oppimista. Ulkoistamisryhmän opiskelijat tunnistivat oman irtautumisensa (kappale kappaleelta kopioimista kuvattiin sanoilla "se korvasi aivoni kokonaan") ja raportoivat nopeasta unohtamisesta, ja kaikki 38 haastateltua raportoivat heikkoa luottamusta generatiivisen tekoälyn tehokkaaseen käyttöön: näyttöä siitä, että liiallinen nojautuminen voi johtua puuttuvista ennakkoehdoista ([[ai-literacy|tekoälylukutaito]], kehotteistamisen osaaminen, tehtäväkohtainen ohjaus) eikä työn välttelyn motivaatiosta.
 
 - **Agenttinen koodaus siirtää ymmärryksen sivuun kentällä:** [[spec-driven-development-ai-agents-sdpbl-2026|Tanaka et al. (2026)]] raportoivat, että [[agentic-ai|tekoälyagentteja]] ohjelmistoprojektikurssilla käyttäneet perustutkinto-opiskelijat kirjoittivat vuosi vuodelta enemmän koodia mutta ymmärryksen notkahtaessa runsaassa käytössä - palautettavissa opettajan henkilökohtaisella tekoälygeneroidun koodin vahvistamisella.
-tekoälyn koulutuksessa aiheuttamista merkittävimmistä riskeistä:
 
 - **Oppimisen syrjäytyminen:** [[ai-making-us-stupid|Tutkimus tekoälyn kognitiivisista vaikutuksista]] dokumentoi, miten tekoälyn saatavuus vähentää vaivalloista prosessointia: "Google-vaikutus laajennettuna päättelyyn". [[stamatoulis-genai-use-patterns-2026|Stamatoulis et al. (2026)]] eristävät tämän omaksi käytön *kuviokseen*: **vähäisen vahvistamisen omaksuminen** (tekoälyn tuotoksen kritiikitön hyväksyminen) ennusti heikompaa [[learning-gains|akateemista suoriutumista]], kun taas **arvioiva integraatio** (tekoälyn käyttö ymmärtämisen tukena) ennusti parempaa suoriutumista, eikä pelkkä käytön **tiheys** ennustanut kumpaakaan. Liiallinen nojautuminen on siis *käyttötapa*, joka voidaan erottaa siitä, kuinka paljon opiskelijat käyttävät tekoälyä.
 - **Toimijuusongelma:** [[aied-unfinished-mission-bypass|AIED:n keskeneräinen tehtävä]] kehystää liiallisen nojautumisen toimijuuden ja motivaation kriisinä: opiskelijat ohittavat oppimisen ei siksi, että tekoäly olisi vastustamaton, vaan siksi, että oppimistehtävät tuntuvat merkityksettömiltä, kun tekoäly voi suorittaa ne vaivatta.

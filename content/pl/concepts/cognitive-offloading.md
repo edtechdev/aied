@@ -11,8 +11,8 @@ audience: [learners]
 confidence: high
 connected_resources: [pause-ai-use-self-examination, student-guide-to-ai]
 translation_of: concepts/cognitive-offloading
-source_updated: "2026-10-26T13:50:00-04:00"
-updated: "2026-10-27T17:15:00-04:00"
+source_updated: "2026-10-27T18:18:05-04:00"
+updated: "2026-10-27T18:18:05-04:00"
 translation_note: "*Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka.*"
 contributors: [editor]
 ai_assist:
@@ -111,7 +111,6 @@ Drabina, którą śledzi ta strona, ma trzy szczeble i tylko dwa pierwsze należ
 - **Paradoks efektywności: cele mistrzostwa załamujące się w odciążanie „domyślne".** [[yan-cognitive-outsourcing-genai-assessments-2026|Yan i wsp. (2026)]] wskazują uczących się, którzy deklarowali cele zorientowane na mistrzostwo, a realizowali procesy przypominające powierzchniowe, odciążając „nie z zamiaru, lecz domyślnie": ich trzy grupy intencji (Outsourcing Tool n = 16, Learning Assistant n = 31, Cognitive Partner n = 8) pokazują, że przypadkiem modalnym nie jest ani rozmyślne oszukiwanie, ani rozmyślne uczenie się. Studenci z grupy outsourcującej rozpoznawali własne wyłączenie (kopiowanie akapit po akapicie opisywali jako „to całkowicie zastąpiło mój mózg") i raportowali szybkie zapominanie, a wszyscy 38 rozmówcy raportowali niską pewność skutecznego korzystania z GenAI - dowód, że nadmiernym poleganiem mogą kierować brakujące warunki wstępne ([[ai-literacy|kompetencje w zakresie SI]], kompetencja promptowania, wskazówki specyficzne dla zadania), a nie motywacja do unikania pracy.
 
 - **Agentowe programowanie odciąża rozumienie w praktyce:** [[spec-driven-development-ai-agents-sdpbl-2026|Tanaka i wsp. (2026)]] raportują, że studenci używający [[agentic-ai|agentów SI]] na kursie projektów programistycznych pisali z roku na rok więcej kodu, ale wykazywali spadki rozumienia przy intensywnym użyciu - odwracalne przez indywidualną weryfikację kodu generowanego przez SI przez instruktora.
-najpoważniejszych ryzyk SI w edukacji:
 
 - **Wypieranie uczenia się:** [[ai-making-us-stupid|Badania nad efektami poznawczymi SI]] dokumentują, jak dostępność SI zmniejsza wysiłkowe przetwarzanie - „efekt Google'a rozszerzony na rozumowanie". [[stamatoulis-genai-use-patterns-2026|Stamatoulis i wsp. (2026)]] izolują to jako odrębny *wzorzec* użycia: **przyswajanie o niskiej weryfikacji** (bezkrytyczne przyjmowanie wyników SI) przewidywało gorsze [[learning-gains|wyniki akademickie]], podczas gdy **integracja ewaluacyjna** (używanie SI do wspierania rozumienia) przewidywała lepsze wyniki - a sama **częstotliwość** użycia nie przewidywała ani jednego, ani drugiego. Nadmierne poleganie jest więc *trybem użycia*, który można oddzielić od tego, jak dużo studenci korzystają z SI.
 - **Problem sprawczości:** [[aied-unfinished-mission-bypass|Niedokończona misja AIED]] ujmuje nadmierne poleganie jako kryzys sprawczości i motywacji - studenci omijają uczenie się nie dlatego, że SI jest porywająca, ale dlatego, że zadania edukacyjne wydają się bezcelowe, gdy SI może je wykonać bez wysiłku.

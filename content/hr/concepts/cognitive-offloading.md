@@ -11,8 +11,8 @@ audience: [learners]
 confidence: high
 connected_resources: [pause-ai-use-self-examination, student-guide-to-ai]
 translation_of: concepts/cognitive-offloading
-source_updated: "2026-10-26T13:50:00-04:00"
-updated: "2026-10-27T16:53:56-04:00"
+source_updated: "2026-10-27T18:18:05-04:00"
+updated: "2026-10-27T18:18:05-04:00"
 translation_note: "*Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik.*"
 contributors: [editor]
 ai_assist:
@@ -111,7 +111,6 @@ Ljestve koje ova stranica prati imaju tri prečke, a ovamo pripadaju samo prve d
 - **Paradoks učinkovitosti: ciljevi ovladavanja urušavaju se u rasterećenje „po defaultu“.** [[yan-cognitive-outsourcing-genai-assessments-2026|Yan i sur. (2026)]] utvrđuju učenike koji su izražavali ciljeve usmjerene ovladavanju, a provodili površinske procese, rasterećujući „ne namjerom, nego po defaultu“: njihove tri skupine prema namjeri (alat za preuzimanje n = 16, pomoćnik za učenje n = 31, kognitivni partner n = 8) pokazuju da modalni slučaj nije ni namjerno varanje ni namjerno učenje. Studenti iz skupine preuzimanja prepoznali su vlastito neangažiranje (kopiranje i lijepljenje odlomak po odlomak opisali su kao „potpuno mi je zamijenilo mozak“) i izvijestili o brzom zaboravljanju, a svih 38 intervjuiranih izvijestilo je o niskom samopouzdanju u djelotvornoj upotrebi generativne umjetne inteligencije: dokaz da pretjerano oslanjanje mogu pokretati nedostajući prethodni uvjeti ([[ai-literacy]], kompetencija poticanja, zadatku specifične smjernice), a ne motivacija za izbjegavanjem rada.
 
 - **Agentsko kodiranje rasterećuje razumijevanje u praksi:** [[spec-driven-development-ai-agents-sdpbl-2026|Tanaka i sur. (2026)]] izvješćuju da su studenti preddiplomskog studija koji su rabili [[agentic-ai|agente umjetne inteligencije]] u kolegiju softverskog projekta napisali više koda iz godine u godinu, ali su pokazali pad razumijevanja pri teškoj upotrebi, koji se može povratiti provjerom koda koji je stvorila umjetna inteligencija jedan na jedan s nastavnikom.
-najposljedičnijih rizika umjetne inteligencije u obrazovanju:
 
 - **Potiskivanje učenja:** [[ai-making-us-stupid|Istraživanje kognitivnih učinaka umjetne inteligencije]] dokumentira kako dostupnost umjetne inteligencije smanjuje trudnu obradu: „Googleov efekt proširen na rezoniranje“. [[stamatoulis-genai-use-patterns-2026|Stamatoulis i sur. (2026)]] izdvajaju to kao zaseban *obrazac* upotrebe: **prihvaćanje bez provjere** (nekritičko prihvaćanje rezultata umjetne inteligencije) predviđalo je lošiju [[learning-gains|akademsku izvedbu]], dok je **evaluacijska integracija** (upotreba umjetne inteligencije za podršku razumijevanju) predviđala bolju izvedbu, a sama **učestalost** upotrebe nije predviđala ni jedno. Pretjerano oslanjanje stoga je *način upotrebe* koji se može odvojiti od toga koliko studenti rabe umjetnu inteligenciju.
 - **Problem djelotvornosti:** [[aied-unfinished-mission-bypass|Nedovršena misija AIED-a]] uokviruje pretjerano oslanjanje kao krizu djelotvornosti i motivacije: studenti zaobilaze učenje ne zato što je umjetna inteligencija privlačna, nego zato što se zadaci učenja čine besmislenima kad ih umjetna inteligencija može dovršiti bez truda.

@@ -11,8 +11,8 @@ audience: [learners]
 confidence: high
 connected_resources: [pause-ai-use-self-examination, student-guide-to-ai]
 translation_of: concepts/cognitive-offloading
-source_updated: "2026-10-26T13:50:00-04:00"
-updated: "2026-10-27T17:14:37-04:00"
+source_updated: "2026-10-27T18:18:05-04:00"
+updated: "2026-10-27T18:18:05-04:00"
 translation_note: "*Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ.*"
 contributors: [editor]
 ai_assist:
@@ -112,7 +112,6 @@ Scara pe care o urmărește această pagină are trei trepte, iar doar primele d
 - **Paradoxul eficienței: obiectivele de stăpânire se prăbușesc în descărcare "prin implicit".** [[yan-cognitive-outsourcing-genai-assessments-2026|Yan et al. (2026)]] identifică învățăcei care articulau obiective orientate spre stăpânire, dar puneau în act procese de tip suprafață, descărcând "nu din intenție, ci prin implicit": cele trei grupuri de intenție ale lor (instrument de externalizare n = 16, asistent de învățare n = 31, partener cognitiv n = 8) arată că cazul modal nu este nici trișarea deliberată, nici învățarea deliberată. Studenții din grupul externalizării își recunoșteau propria dezangajare (copierea-lipirea paragraf cu paragraf a fost descrisă ca "mi-a înlocuit complet creierul") și raportau uitare rapidă, iar toți cei 38 de intervievați raportau încredere scăzută în folosirea eficace a GenAI: dovadă că supra-dependența poate fi condusă de condiții prealabile lipsă ([[ai-literacy|alfabetizare în IA]], competență în formularea prompturilor, îndrumare specifică sarcinii), iar nu de motivația de a evita munca.
 
 - **Programarea agentică descarcă comprehensiunea pe teren:** [[spec-driven-development-ai-agents-sdpbl-2026|Tanaka et al. (2026)]] raportează că studenții care au folosit [[agentic-ai|agenți de IA]] într-un curs de proiect software au scris mai mult cod de la an la an, dar au arătat scăderi de comprehensiune sub folosire intensă, recuperabile prin verificarea unu-la-unu de către instructor a codului generat de IA.
-cele mai importante riscuri ale IA în educație:
 
 - **Deplasarea învățării:** [[ai-making-us-stupid|cercetarea despre efectele cognitive ale IA]] documentează cum disponibilitatea IA reduce procesarea cu efort, "efectul Google extins la raționament". [[stamatoulis-genai-use-patterns-2026|Stamatoulis et al. (2026)]] izolează aceasta ca un *tipar* distinct de folosire: **preluarea cu verificare scăzută** (acceptarea necritică a rezultatului IA) a prezis [[learning-gains|performanță academică]] mai slabă, în timp ce **integrarea evaluativă** (folosirea IA pentru a sprijini înțelegerea) a prezis performanță mai bună, iar **frecvența** folosirii singură nu le-a prezis pe niciuna. Supra-dependența este deci un *mod de folosire* care poate fi separat de cât de mult folosesc studenții IA.
 - **Problema agentivității:** [[aied-unfinished-mission-bypass|misiunea neterminată a AIED]] încadrează supra-dependența ca o criză de agentivitate și de motivație: studenții ocolesc învățarea nu pentru că IA este irezistibilă, ci pentru că sarcinile de învățare par lipsite de sens când IA le poate finaliza fără efort.
