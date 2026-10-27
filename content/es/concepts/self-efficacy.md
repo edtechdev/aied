@@ -1,7 +1,7 @@
 ---
 title: Autoeficacia
 created: "2026-09-28T19:11:56-04:00"
-updated: "2026-10-24T08:21:10-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [motivation, self-efficacy, self-regulated-learning]
@@ -11,7 +11,7 @@ audience: [learners]
 confidence: high
 reviewed_by: [editor]
 translation_of: concepts/self-efficacy
-source_updated: "2026-10-23T09:20:00-04:00"
+source_updated: "2026-10-26T10:25:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -74,6 +74,14 @@ La autoeficacia se conecta con la [[motivation]], el [[self-regulated-learning]]
 - **El uso de la IA fue de la mano de la confianza, pero la confianza no predijo la asistencia.** En una encuesta de modelos de ecuaciones estructurales por mínimos cuadrados parciales con 291 estudiantes portugueses, el uso general de la IA se asoció positivamente con la autoeficacia para el aprendizaje independiente (β = 0,266, f² = 0,106). El constructo se modeló como un compuesto formativo de segundo orden de las cuatro fuentes de Bandura —experiencia de dominio, experiencia vicaria, persuasión verbal y estado emocional—. La autoeficacia a su vez no predijo el absentismo (β = −0,068, p = 0,276), aunque el uso de la IA se asoció por separado con un mayor absentismo (β = 0,148, f² = 0,029). La ruta uso de la IA → autoeficacia fue significativamente más fuerte entre los hombres que entre las mujeres (β = 0,449 frente a 0,159; Δβ = −0,289, p = 0,013), bajo invariancia de medida parcial ([[confident-but-absent-ai-use-absenteeism-2026|Franco et al., 2026]]).
 - **Las tareas de diseño con IA de final abierto clasifican al estudiantado por la confianza preexistente.** [[zangari-student-created-ai-agents-codesigned-instruction-2026|Zangari et al. (2026)]] encontraron que la autoestima de rendimiento se correlacionaba con la extroversión (r = 0,262, p < 0,001) en un curso en el que 345 estudiantes construyeron cada uno un agente conversacional para enseñar a un par, y que las estudiantes mujeres reportaron una autoestima significativamente menor que sus pares hombres (H de Kruskal-Wallis (2) = 9,87, p < 0,005). La inferencia de diseño que extraen los autores: las tareas creativas conversacionales de final abierto favorecen a quienes ya tienen confianza, por lo que «las tareas de diseño de final abierto [deberían] incluir andamiaje suficiente para construir de forma equitativa la autoestima de rendimiento en todos los tipos de personalidad» —una advertencia de que las tareas de artefactos creados por el estudiantado pueden ampliar, y no cerrar, las brechas de confianza si el andamiaje no es deliberado—.
 - **La autoeficacia interactúa con la preferencia de formato, no solo con los resultados.** Un estudio intrasujeto con contrapeso (97 estudiantes de 9.º curso; práctica de interpretación y construcción de gráficos con tutor frente a en papel, con contenidos equiparados) encontró que la práctica con tutor superó al papel en general (t(62,30) = 2,38, p = 0,020) y —de forma contraintuitiva— que una autoeficacia de partida más baja predecía *mayores* ganancias en ambos formatos (t(98,40) = −2,14, p = 0,035). La estructura interesante es una interacción triple significativa entre autoeficacia, favorabilidad y formato (t(99,84) = −2,58, p = 0,011): entre el estudiantado con baja autoeficacia, la favorabilidad hacia el tutor predice mayores ganancias *específicamente en la práctica con tutor—. Un nulo aleccionador para el supuesto de que la práctica con tutor es autorreforzante desde el punto de vista motivacional: la práctica con sistemas de tutoría inteligente no mejoró significativamente la autoeficacia posterior al entrenamiento respecto al papel —atribuido a la brevedad de la intervención (dos sesiones de ~40 minutos)—. La señal práctica: la autoeficacia de partida y la favorabilidad hacia la tecnología son insumos baratos y accionables para la asignación de formato; la práctica con tutor capitaliza la favorabilidad existente en lugar de crearla. ([[cen-self-efficacy-favorability-2026]])
+- **El conocimiento llegó a la intención a través de la confianza, la ansiedad y la autoeficacia.** En un modelo de ecuaciones estructurales por mínimos cuadrados parciales con 526 estudiantes de diseño, el conocimiento percibido sobre IA generativa se asoció positivamente con la confianza, la autoeficacia y la intención de uso, y negativamente con la ansiedad, y la confianza, la ansiedad y la autoeficacia portaron cada una una vía indirecta significativa del conocimiento a la intención ([[wei-perceived-technological-dependence-genai-2026|Wei et al., 2026]]). La ansiedad se situó en la vía en lugar de bloquearla.
+
+## Concepciones erróneas
+
+- **«El estudiantado con poca confianza evita la IA.»** Aparece el patrón contrario: en un curso de demostraciones con **153 estudiantes**, un punto más de autoeficacia de partida predecía **un 39% menos de mensajes al chatbot**. La poca confianza derivaba en un uso **más intenso** de la IA: quienes más necesitaban practicar eran los más propensos a descargar esa práctica.
+- **«Usar más la IA con poca confianza es una estrategia de afrontamiento inofensiva.»** El mismo hallazgo vincula esa derivación con **puntuaciones más bajas**, así que el patrón de afrontamiento tiene un coste medible en lugar de ser una elección neutra.
+- **«La alfabetización por sí sola construye confianza.»** [[hu-psychological-predictors-continued-chatgpt-use-2026|Hu (2026)]] encuestó a **450 estudiantes universitarios** que ya usan ChatGPT y encuentra **la confianza como pivote entre la alfabetización y la autoeficacia**. La vía pasa por la confianza, así que elevar la alfabetización sin abordar la confianza deja el mecanismo intacto.
+- **«Los perfiles de autoeficacia son uniformes en una población con discapacidad.»** Un análisis de perfiles latentes con **102 estudiantes universitarios con discapacidad motora** en España encontró **tres perfiles**, con el grupo bajo en el **29,4%** y el resto repartido entre perfiles moderados y altos. Tratar al grupo como una sola población promedia estados motivacionales distintos.
 
 ## Conceptos conectados
 

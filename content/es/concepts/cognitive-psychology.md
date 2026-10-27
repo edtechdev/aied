@@ -1,13 +1,13 @@
 ---
 title: Psicología cognitiva
 created: "2026-09-28T18:22:10-04:00"
-updated: "2026-10-22T07:34:46-04:00"
+updated: "2026-10-26T21:37:14-04:00"
 type: concept
 pedagogy: [cognitive-psychology, learning-theories, metacognition]
 technology: [generative-ai, intelligent-tutoring, knowledge-tracing]
 confidence: high
 translation_of: concepts/cognitive-psychology
-source_updated: "2026-10-16T20:19:49-04:00"
+source_updated: "2026-10-26T08:45:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -74,6 +74,12 @@ La [[generative-ai|IA generativa]] a la vez amplía y cuestiona el cognitivismo.
 2. **Representar a quien aprende, no solo responder.** Vincular un [[student-modeling]] y un [[knowledge-tracing]] estructurados al diálogo con la IA, de modo que el sistema se adapte al conocimiento inferido en lugar de responder con fluidez pero a ciegas.([[educlaw-bench-pedagogical-llm-agents-2026]])
 3. **Respetar los límites de la memoria de trabajo.** Aplicar la Teoría de la Carga Cognitiva a la experiencia de usuario con IA: reducir la carga extrínseca (fricción, interfaces sobrecargadas) preservando el procesamiento pertinente ([[desirable-difficulties|esfuerzo productivo]], práctica de recuperación) en lugar de minimizar toda demanda cognitiva.
 4. **Calibrar la metacognición.** Como la [[metacognition]] gobierna cuándo eligen las personas descargar, enseñar la calibración (saber qué puede hacer uno de verdad sin ayuda) es una respuesta cognitivista a la dependencia excesiva (véase [[cognitive-offloading]]).
+
+## Concepciones erróneas
+
+- **«Las representaciones mentales son inobservables, así que las afirmaciones cognitivas sobre el aprendizaje son supuestos.»** Reconstruir imágenes a partir del **EEG** de quienes aprendían durante vídeos de ciencias encontró que **la fidelidad de la representación seguía el rendimiento en el test** (coeficiente de regresión **0,8481; R² = 0,79**). La premisa cognitivista de la representación interna es medible, y la medición predijo el resultado.
+- **«Un R² alto significa que la representación explica el aprendizaje.»** R² = 0,79 es una asociación fuerte entre la fidelidad y el rendimiento en el mismo material. No establece que elevar la fidelidad eleve el rendimiento, que es la afirmación de intervención.
+- **«Los componentes de conocimiento son una ficción de modelado conveniente.»** La descomponibilidad es lo que hace posibles el [[knowledge-tracing|seguimiento del conocimiento]] y el [[cognitive-diagnosis|diagnóstico cognitivo]], y los métodos funcionan en la medida en que el supuesto se cumple. Tratarlo como ficción descarta la razón por la que los métodos producen estimaciones utilizables, mientras que tratarlo como un hecho exagera lo que un modelo ajustado dice sobre una mente.
 
 ## Conceptos conectados
 

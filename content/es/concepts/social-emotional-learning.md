@@ -1,7 +1,7 @@
 ---
 title: Aprendizaje socioemocional
 created: "2026-09-28T21:02:41-04:00"
-updated: "2026-10-02T22:25:26-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 type: concept
 foundations: [ai-literacy, teacher-ai-competency]
 pedagogy: [self-regulated-learning, well-being]
@@ -12,7 +12,7 @@ audience: [learners]
 level: [higher ed]
 confidence: high
 translation_of: concepts/social-emotional-learning
-source_updated: "2026-09-30T08:39:04-04:00"
+source_updated: "2026-10-25T17:00:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -95,6 +95,16 @@ El SEL se solapa con la dimensión esforzada del aprendizaje. [[framing-5-percen
 ### Conexiones con conceptos relacionados
 
 El SEL conecta con la [[ai-literacy|alfabetización en IA]] (como complemento que vuelve relacional y ética la alfabetización en IA), la [[affective-computing|computación afectiva]] y el [[well-being|bienestar]] (las dimensiones afectivas de la IA), el [[self-regulated-learning|aprendizaje autorregulado]] (la autogestión y la regulación del esfuerzo), la [[self-efficacy|autoeficacia]] y la [[motivation|motivación]] (creencias de quien aprende que moderan la [[student-ai-interaction|interacción con la IA]]), la [[agency|agencia]] (proteger el control de quien aprende frente a la dependencia), la [[ethics|ética]] (la toma de decisiones responsables), la [[teacher-ai-competency|competencia en IA del profesorado]] (la capacidad del personal educativo para apoyar el SEL), la [[student-experience|experiencia del estudiantado]] (bienestar y pertenencia) y las [[learning-gains|ganancias de aprendizaje]] (la evidencia de que el SEL sostiene el rendimiento). Se relaciona con la [[higher-ed|educación superior]] y la [[k-12|K-12]] como los entornos donde se cultiva una alfabetización en IA impregnada de SEL.
+
+## Concepciones erróneas
+
+**«El SEL y la inteligencia emocional son el mismo constructo.»** Están relacionados y son distintos: el SEL/SEC nombra un conjunto de competencias —la capacidad de sincronizar pensamientos, emociones y acciones para una interacción positiva— mientras que la inteligencia emocional nombra una capacidad individual de percibir y gestionar la emoción. Una herramienta puede elevar la autoconciencia emocional de quien aprende sin desarrollar ninguna competencia socioemocional, y un programa puede construir competencia colaborativa en estudiantes cuya autopercepción emocional no cambia. Como se miden de forma distinta, la evidencia de uno no es evidencia del otro.
+
+**«Un tutor de IA que responde con empatía desarrolla el aprendizaje socioemocional.»** La capacidad de respuesta emocional es una propiedad de la entrega; el SEL es un resultado de competencia, y los dos no están vinculados de forma automática. Las dimensiones relacionales del aprendizaje son las que esta literatura dice que la IA debe *complementar y no reemplazar*, lo que convierte la empatía de la herramienta en una pregunta sobre qué sustituye y no en un beneficio en sí mismo. Véase la [[affective-tutoring|tutoría afectiva]] para el mecanismo por el que una respuesta cálida puede reducir el esfuerzo que construye la persistencia.
+
+**«La baja persistencia es un problema de motivación que el ánimo puede resolver.»** La persistencia es la limitación recurrente en la tecnología educativa —el patrón que nombra [[framing-5-percent-problem-teachers-persistence|el problema del 5%]]— y la moldean la motivación y la aceptación, los obstáculos cognitivos *y* la resiliencia ante el desafío. El ánimo aborda uno de los tres. Quien deja de intentarlo porque el problema superó su memoria de trabajo no necesita que se le anime.
+
+**«Saber que la IA está disponible no cambia cómo invierte el esfuerzo el estudiantado.»** Puede cambiarlo, y el efecto va en la dirección equivocada para quienes aprenden con más dificultades: la [[ai-availability-student-motivation|disponibilidad de IA]] puede reducir el valor percibido del esfuerzo sostenido, sobre todo en personas novatas. La disponibilidad por sí sola es una intervención motivacional con signo negativo, y por eso el diseño cercano al SEL no puede tratar la presencia de un sistema útil como neutral.
 
 ## Conceptos conectados
 - [[anxiety-and-stress]]

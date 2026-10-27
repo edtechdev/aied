@@ -1,7 +1,7 @@
 ---
 title: Computación afectiva
 created: "2026-09-28T20:10:39-04:00"
-updated: "2026-10-22T09:13:53-04:00"
+updated: "2026-10-26T21:37:14-04:00"
 type: concept
 foundations: [cognitive-offloading]
 technology: [adaptive-learning, generative-ai, intelligent-tutoring, learning-analytics, llm, personalized-learning]
@@ -9,7 +9,7 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: medium
 translation_of: concepts/affective-computing
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-26T07:55:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -60,6 +60,12 @@ La computación afectiva se sitúa en la intersección de la [[affective-tutorin
 - **Agentes de evaluación emocionalmente inteligentes.** [[aivaluate-anxiety-assessment-2026|AIvaluate]], un [[conversational-ai|agente conversacional]] emocionalmente inteligente aumentado con [[llm|LLM]], redujo la ansiedad del estudiantado y la presión social durante las evaluaciones basadas en el desempeño, sin perder [[usability-research|usabilidad]].
 - **Empatía diseñada mediante el diseño de prompts, no mediante la detección.** El apoyo afectivo no requiere detección del afecto: [[wang-teacher-student-centered-agents-physics-2026|Wang et al. (2026)]] obtuvieron una gran diferencia en la *percepción de empatía* (21,27 frente a 18,24; r = 0,53) entre dos agentes de [[physics-education|física]] basados en LLM que solo diferían en el rol especificado en el prompt y en los movimientos conversacionales —aperturas de toma de perspectiva («Usted tiene esta pregunta porque…»), diagnóstico de [[misconceptions|ideas erróneas]] y una comprobación de comprensión al final de cada ronda—, mientras el modelo, la plataforma y la temperatura se mantenían constantes. Es un contrapeso útil a la computación afectiva basada en sensores: la calidad emocional percibida de un [[pedagogical-agent|agente pedagógico]] puede diseñarse en el guion de la interacción, a la vez que recuerda a quienes diseñan que la empatía percibida es un constructo de autoinforme y no evidencia de una comprensión afectiva genuina ([[student-ai-interaction|interacción entre el estudiantado y la IA]]).
 - **Alertas que avisan a una persona docente en lugar de adaptar a un tutor.** [[ai-emotional-alerts-teachers-mathematics-classroom-2026|Swidan (2026)]] desplegó Dash4Emotion en un aula de geometría de secundaria, donde unos rectángulos con marco rojo marcaban a los estudiantes que se interpretaba que experimentaban emoción negativa; en veinte episodios identificados (cinco declarados), lo que cambió la implicación fue la respuesta de la persona docente a la alerta, y no la alerta en sí. La idea de diseño es que la detección del afecto puede alimentar una decisión humana en lugar del siguiente movimiento de un tutor adaptativo, con la advertencia del propio estudio: no informa de ninguna validación de la detección de expresiones faciales, así que la señal es una invitación a la interpretación docente y no evidencia sobre el estado interno de un estudiante.
+## Concepciones erróneas
+
+- **«Más implicación significa más aprendizaje.»** Un estudio con sensores cerebrales encontró que una **interfaz restringida y adaptativa elevó la implicación cognitiva (p = ,018) mientras que el chatbot sin restricciones produjo mayores ganancias de aprendizaje**. La interfaz que más implicaba enseñaba menos. La implicación no es un indicador indirecto del aprendizaje, y optimizarla puede mover el resultado en la dirección equivocada.
+- **«El apoyo emocional es un añadido blando al apoyo cognitivo.»** En un [[rct]] de aula de pequeño tamaño (**42 personas que completaron de 252 participantes**), la versión con atención plena logró **un aprendizaje del álgebra similar en menos tiempo y con menos pistas solicitadas** que el apoyo cognitivo por sí solo. El componente afectivo cambió la eficiencia y no el techo, lo que es una afirmación distinta y más interesante que «ayuda al aprendizaje».
+- **«Los hallazgos afectivos con muestras pequeñas se transfieren.»** 42 personas que completaron de 252 participantes es un diseño a la vez alentador y frágil: la tasa de finalización es en sí misma un hallazgo sobre quién persistió, y el efecto queda acotado a ese grupo.
+
 ## Conceptos conectados
 - [[anxiety-and-stress]]
 - [[cognitive-offloading]]

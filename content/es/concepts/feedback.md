@@ -1,13 +1,13 @@
 ---
 title: Retroalimentación
 created: "2026-09-25T03:54:18-04:00"
-updated: "2026-10-24T08:21:58-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 type: concept
 assessment: [ai-feedback-quality, assessment, automated-assessment, feedback, feedback-literacy, formative-assessment, peer-assessment]
 connected_faqs: [developing-ai-tutor, ai-feedback-at-scale]
 confidence: high
 translation_of: concepts/feedback
-source_updated: "2026-10-23T22:48:50-04:00"
+source_updated: "2026-10-26T12:30:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 connected_resources: [clarity, pedagogical-promptbook, snorkl]
 contributors: [editor]
@@ -139,6 +139,12 @@ Un modelo de dos capas muestra cómo el emparejamiento puede organizarse en torn
 ### Por qué importa la retroalimentación para la IA en la educación
 
 La retroalimentación es uno de los mecanismos más determinantes y mejor documentados de la educación, y la IA lo amplifica y lo complica a la vez. Una retroalimentación con IA bien arquitecturada puede igualar o superar la retroalimentación humana y escalar entre cohortes, pero exige nuevas capacidades en quien aprende ([[feedback-literacy]], [[ai-literacy]]) y conlleva riesgos (aceptación acrítica, [[cognitive-offloading|dependencia excesiva]]). A medida que la retroalimentación generada por IA se vuelve omnipresente, la base de conocimiento la enmarca como un sistema completo (calidad, bucle, alfabetización y contexto de evaluación trabajando juntos) y no como un componente aislado.
+
+## Concepciones erróneas
+
+- **«El estudiantado no distingue la retroalimentación de la IA de la humana.»** Sí la distingue, y la etiqueta cambia el juicio: **una vez revelada la etiqueta, las valoraciones de la variante de IA bajaron y las de la humana subieron, de forma significativa en Autenticidad (p < 0,01)**. La credibilidad de la fuente moldeó la evaluación de una retroalimentación de estilo idéntico.
+- **«La aprobación en el laboratorio predice el uso durante el semestre.»** **La aprobación en el laboratorio no es el uso semestral**: **los 18 estudiantes** reaccionaron positivamente a la función de explicación con IA generativa en las sesiones de laboratorio, **y sin embargo solo la mitad la usó durante el curso**. La brecha entre intención y uso es el problema de diseño.
+- **«La retroalimentación correctiva inmediata está resuelta con los LLM.»** Generarla dentro de un tutor es **factible pero imperfecto**: en **6.926 transacciones registradas** de la colección Apprentice Tutor, la retroalimentación era lo bastante buena para desplegarse y no lo bastante buena para dar por supuesta su corrección.
 
 ## Conceptos conectados
 

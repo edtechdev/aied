@@ -1,7 +1,7 @@
 ---
 title: "Cuestiones y riesgos legales"
 created: "2026-09-28T21:12:00-04:00"
-updated: "2026-09-28T21:12:00-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 type: concept
 foundations: [academic-integrity, reducing-ai-misuse]
 assessment: [ai-detection, assessment-validity, remote-proctoring]
@@ -14,7 +14,7 @@ audience: [administrators, policymakers, institutions, researchers]
 page_kind: [synthesis]
 confidence: medium
 translation_of: concepts/legal-issues-and-risks
-source_updated: "2026-09-30T07:29:37-04:00"
+source_updated: "2026-10-25T21:20:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -80,6 +80,16 @@ En los programas profesionales, la exposición no termina con la graduación. Gu
 - ¿Sobrevive la salida del detector como prueba de algo una vez que una institución reconoce sus tasas de error en una audiencia, o ese reconocimiento convierte el caso en una disputa sobre la justicia procedimental?
 - ¿Es el proveedor o la institución quien actúa como responsable de los datos cuando la supervisión y la detección funcionan a través de una plataforma de terceros, y cambia eso el asesoramiento a las instituciones?
 - ¿Deberían las instituciones publicar los estándares de prueba que aplican a la mala conducta con IA, del modo en que los umbrales probatorios se publican en otros ámbitos, como forma de reducir tanto la acusación injusta como la exposición legal?
+
+## Concepciones erróneas
+
+**«La mala conducta con IA es una sola cuestión legal.»** Son varias que llegan juntas: **probatoria** (si la acusación puede probarse siquiera), **contractual y procedimental** (si la institución siguió sus propias reglas y ofreció una audiencia justa) y relacionada con la **igualdad**. Una respuesta que atiende a la prueba y descuida el procedimiento queda legalmente expuesta en una dimensión que nunca consideró, y las instituciones tienden a prepararse para aquella por la que ya han sido demandadas.
+
+**«Las instituciones han escrito políticas coherentes, así que el riesgo es del estudiantado.»** La incoherencia también corre en la otra dirección. La encuesta de [[watson-rainie-ai-challenge-faculty-survey-2026|Watson y Rainie (2026)]] a **1.057 docentes estadounidenses** encontró que **el 87% de las personas encuestadas escribió sus propias** orientaciones a nivel de tarea, de modo que las reglas operativas varían dentro de una misma institución, y un estudiante puede cumplir la regla de un docente e infringir la de otro en la misma semana. Un estudiante acusado bajo un estándar no declarado tiene un problema procedimental que la institución creó.
+
+**«La detección aporta la prueba que un procedimiento necesita.»** La detección aporta una puntuación. La cuestión probatoria es si una acusación puede probarse siquiera, y la [[ai-detection|literatura sobre detección]] muestra que las herramientas no producen ni la fiabilidad ni la categoría interpretable que exige un proceso disciplinario. Construir el procedimiento sobre un detector es construirlo sobre el eslabón más débil.
+
+**«Los riesgos son hipotéticos y la política los alcanzará.»** Los riesgos se están distribuyendo de forma desigual ahora, y el estudiantado que los absorbe es el que menos puede impugnar un procedimiento. La asimetría entre la capacidad de una institución para investigar y la de un estudiante para responder es un daño presente y no futuro.
 
 ## Conceptos conectados
 

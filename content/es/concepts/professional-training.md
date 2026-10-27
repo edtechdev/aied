@@ -2,7 +2,7 @@
 connected_resources: [master-instructional-design]
 title: Aprendizaje en el lugar de trabajo
 created: "2026-09-28T20:10:26-04:00"
-updated: "2026-10-02T23:55:01-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 type: concept
 foundations: [ai-literacy, educational-development]
 technology: [generative-ai, llm, simulation]
@@ -11,7 +11,7 @@ audience: [instructors, administrators, learners]
 level: [adult learning, higher ed]
 confidence: high
 translation_of: concepts/professional-training
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-26T01:00:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -64,6 +64,16 @@ La formación profesional se distingue de la educación académica por su foco e
 
 **La regeneración de la experiencia como preocupación formativa.** El marco de los Bienes Comunes Cognitivos ([[cognitive-commons-ai-expertise-regeneration|Lovett 2026]]) sostiene que el desarrollo de recursos humanos debe ir más allá del reciclaje organizativo hacia una custodia a nivel de profesión: eliminar los puestos de desarrollo de nivel inicial en sectores expuestos a la IA puede agotar el fondo compartido de experiencia del que dependen todas las organizaciones, con un efecto retardado que solo aparece al cabo de 5 a 20 años. Esto replantea la formación profesional desde el desarrollo de competencias individuales hacia el mantenimiento de un bien común colectivo.
 **Empareje la producción con IA con la verificación y busque medidas externas.** [[crewscaler-ai-upskilling-framework|Nguyen et al. (2026)]] sitúan comprobaciones automatizadas de alucinaciones y una auditoría de expertos en la materia entre la redacción y la entrega a lo largo de un pipeline de capacitación de cinco etapas, y apoyan las afirmaciones más fuertes del marco en una acreditación de CPE de NASBA y un examen de certificación de proveedor en lugar de en medidas de éxito autodefinidas.
+
+## Concepciones erróneas
+
+**«La formación reglada produce competencia ocupacional.»** El marco de esta página sitúa las etapas de competencia más altas detrás de la experiencia integrada en la industria y no de la formación reglada, lo que es un límite real a lo que un programa formativo puede afirmar. Un curso puede construir los prerrequisitos; la etapa condicionada necesita el trabajo.
+
+**«Desvanecer el apoyo según un calendario equivale a desvanecerlo según la evidencia.»** No es así. Desvanecer la asistencia según la *competencia estimada* de quien aprende recortó el tiempo por vuelta en el simulador un **27,9% (p = 0,005)** y los fallos en **3,52 por vuelta**, mientras que el desvanecimiento basado en reglas con un calendario fijo no produjo ningún cambio fiable. La misma cantidad de apoyo, liberada con una señal distinta, es una intervención distinta.
+
+**«La formación en alfabetización en IA se generaliza entre roles.»** La mayoría de los instrumentos no miden la competencia específica del rol: en una revisión sistemática de **33 instrumentos de alfabetización en IA para docentes**, **29 (87,9%)** se centraban en conceptos generales de IA y solo **4 (12,1%)** abordaban el uso pedagógico u ocupacional que el puesto exige de hecho. Un programa construido sobre instrumentos generales mide un proxy.
+
+**«Un simulador sustituye a la formación en el puesto de trabajo.»** Desarrolla el procedimiento y elimina la consecuencia, lo que es valioso y es exactamente la parte que no se puede transferir: en el trabajo de seguridad crítica, la consecuencia es el currículo.
 
 ## Conceptos conectados
 

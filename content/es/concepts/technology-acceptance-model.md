@@ -1,7 +1,7 @@
 ---
 title: Modelos de adopción tecnológica
 created: "2026-09-28T20:10:39-04:00"
-updated: "2026-10-24T08:22:10-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 type: concept
 foundations: [ai-literacy]
 technology: [generative-ai, technology-acceptance-model]
@@ -10,7 +10,7 @@ level: [higher ed]
 confidence: high
 methods: [research-methods-aied]
 translation_of: concepts/technology-acceptance-model
-source_updated: "2026-10-23T08:03:41-04:00"
+source_updated: "2026-10-26T10:25:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -36,6 +36,7 @@ ai_assist:
 ## Introducción
 
 **Evidencia [[meta-analysis-systematic-review|metaanalítica]] sobre la adopción de la IA.** Un [[teo-ai-adoption-tertiary-meta-analysis-2026|metaanálisis sobre la adopción de la IA por estudiantes de educación superior]] (233 correlaciones, 32 estudios, N = 16.977) encuentra correlaciones positivas moderadas para los factores individuales (r = 0,57), contextuales (r = 0,53) y tecnológicos (r = 0,50), con las intenciones de uso como el predictor más fuerte (r = 0,64) y los riesgos percibidos y la confianza más débiles de lo esperado. Su crítica central es que el campo **depende en exceso de los marcos tradicionales TAM/UTAUT**, anteriores a los sistemas inteligentes modernos, y descuida factores específicos de la IA como el antropomorfismo y la ética; sostiene que estas lagunas importan para avanzar en la teoría y en políticas basadas en evidencia.
+- **La facilidad de uso dejó de predecir cuando la muestra ya había adoptado.** Wei, Zhang y Heo (2026) amplían el TAM con 526 estudiantes de diseño con uso previo de IA generativa y encuentran que la facilidad de uso percibida fue la única percepción tecnológica no asociada significativamente con la autoeficacia, mientras que el conocimiento, la confianza, la fiabilidad, la utilidad, la inteligencia y la ansiedad sí lo estaban ([[wei-perceived-technological-dependence-genai-2026|Wei et al., 2026]]). La intención de uso se asoció fuertemente con la dependencia declarada en datos transversales.
 
 ## La familia de modelos
 
@@ -85,6 +86,12 @@ El enfoque cognitivo del TAM también capta deficientemente las dimensiones emoc
 Una ampliación reciente invierte la dirección habitual y sitúa las creencias motivacionales específicas de la asignatura aguas arriba de las percepciones del TAM en lugar de junto a ellas. [[high-school-genai-acceptance-tam-physics-2026|Xue, Xu, Qi y Lu (2026)]] informan de que el valor de utilidad predice la utilidad percibida con β = 0,43 y la expectativa de éxito predice la facilidad de uso con β = 0,39, mientras que las rutas centrales del TAM se atenúan pero siguen siendo significativas.
 
 El vínculo del riesgo con el uso también depende del sistema: en los 49 sistemas de TALIS 2024 que administraron los ítems, la utilidad percibida de la IA se asoció positivamente con el uso de la IA en los 49, mientras que el riesgo percibido se asoció negativamente en 40 y positivamente en nueve ([[teachers-ai-belief-profiles-talis-2024-2026|Fang y Jin (2026)]]).
+
+## Concepciones erróneas comunes
+
+- **«Los constructos del TAM explican la adopción.»** [[socio-cognitive-genai-adoption-engineering-2026|Asag y Al Mamun]] integraron el TAM con el UTAUT para estudiantado de ingeniería de Bangladesh y explicaron el **64% de** la varianza. Sustancial e incompleto a la vez: alrededor de un tercio de lo que impulsa la adopción queda fuera de los constructos clásicos de aceptación.
+- **«Los modelos de aceptación no necesitan modificación por dominio.»** Añadir la **autonomía artificial percibida** —hasta qué punto el profesorado cree que la IA generativa puede llevar a cabo por sí sola una tarea didáctica asignada— y la **aversión al riesgo** a los constructos clásicos cambió el modelo de forma sustancial. Los constructos originales se construyeron para herramientas sin agencia, y la IA generativa tiene agencia percibida.
+- **«Una estimación metaanalítica de adopción describe a cualquier población.»** El [[teo-ai-adoption-tertiary-meta-analysis-2026|metaanálisis sobre estudiantado de educación superior]] es la estimación a nivel de población; el resultado de ingeniería que explica el 64% es una población concreta. Importar uno sobre el otro presupone una estabilidad que la evidencia no establece.
 
 ## Conceptos conectados
 

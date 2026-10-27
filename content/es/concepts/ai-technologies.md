@@ -1,13 +1,13 @@
 ---
 title: Tecnologías
 created: "2026-09-28T20:12:29-04:00"
-updated: "2026-10-02T21:24:48-04:00"
+updated: "2026-10-26T21:37:14-04:00"
 type: concept
 foundations: [agentic-ai]
 technology: [ai-technologies, educational-nlp, educational-robotics, generative-ai, knowledge-graph, llm, multimodal, prompt-engineering, rag, reinforcement-learning, simulation]
 confidence: high
 translation_of: concepts/ai-technologies
-source_updated: "2026-10-02T07:32:07-04:00"
+source_updated: "2026-10-26T02:00:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -64,6 +64,16 @@ La vertiente técnica es inseparable de los demás temas de la base de conocimie
 - **Elija la tecnología por su intención pedagógica:** el sistema de IA y la técnica deben seguir a la [[pedagogy|estrategia de enseñanza]], y no al revés.
 - **Evalúe la capa técnica:** la [[ai-ed-evaluation|evaluación de la IA educativa]] y la investigación con [[benchmark|puntos de referencia]] valoran los sistemas de IA por su fiabilidad, su pedagogía y su [[equity-in-ai-education|equidad]], no solo por su precisión de titular.
 - **Los robots y los agentes forman parte de la pila:** los sistemas [[educational-robotics|corporeizados]] y [[agentic-ai|agénticos]] amplían el repertorio técnico más allá del texto, y traen consigo sus propias consideraciones de diseño y seguridad.
+
+## Concepciones erróneas
+
+**«El modelo lo es todo.»** Técnicas como la generación aumentada por recuperación y la ingeniería de prompts existen precisamente para controlar y fundamentar la salida de un LLM, y la arquitectura que rodea al modelo a menudo determina si es utilizable en un aula. Dos sistemas sobre el mismo modelo pueden diferir por completo en fiabilidad por lo que los rodea.
+
+**«La madurez técnica del campo está establecida.»** El mapa es delgado donde importa: en **474 estudios**, los modelos de la serie GPT y LangChain eran dominantes mientras que **la orquestación gobernada de herramientas, la memoria persistente y la planificación de horizonte largo estaban en gran medida ausentes**, y solo **138 de 474 (29%)** se apoyaban en teoría educativa. La pila que se usa es mucho más estrecha que la pila que el campo necesita.
+
+**«Las decisiones técnicas son cosa de quien desarrolla la tecnología y no de quien educa.»** El planteamiento de la página es que se puede ser un educador excelente sin saber construir un LLM y que aun así las decisiones técnicas moldean lo que la IA puede y no puede hacer en su aula. Que un sistema fundamente sus respuestas en el material del curso es una decisión con consecuencias pedagógicas que alguien tiene que tomar.
+
+**«Un modelo más capaz resolverá las lagunas del campo.»** La orquestación, la memoria y la planificación de horizonte largo son problemas arquitectónicos y no de capacidad: la ausencia documentada es de sistemas que gobiernan su propio uso de herramientas a lo largo del tiempo, algo que un modelo mejor no aporta por sí solo.
 
 ## Conceptos conectados
 

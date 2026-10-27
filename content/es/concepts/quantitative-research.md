@@ -1,14 +1,14 @@
 ---
 title: Investigación cuantitativa
 created: "2026-09-28T19:11:02-04:00"
-updated: "2026-10-22T09:13:53-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 type: concept
 assessment: [educational-measurement]
 research_method: [survey, experiment]
 confidence: high
 methods: [quantitative-research, research-methods-aied]
 translation_of: concepts/quantitative-research
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-26T08:20:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -80,6 +80,12 @@ El análisis bibliométrico es otra familia cuantitativa: [[sriram-ethical-ai-me
 - **Limitaciones:** captura lo que es medible y a menudo se pierde el proceso, el significado y el contexto (véase [[qualitative-research|investigación cualitativa]]); sesgo de autoinforme; los instrumentos pueden medir el constructo equivocado (véase [[educational-measurement|problemas de medición]]); correlación sin causalidad; puede ser artificial y lenta en relación con el ritmo de cambio de la IA.
 
 Los métodos cuantitativos y los [[qualitative-research|cualitativos]] son complementarios: el trabajo cuantitativo aporta amplitud y potencia causal, y el cualitativo, profundidad y significado. Los [[mixed-methods-research|diseños de métodos mixtos]] los combinan. Véase [[research-methods-aied|métodos de investigación]] para la comparación completa de métodos y los contrastes entre diseños experimentales, de encuesta, cualitativos y otros.
+
+## Concepciones erróneas comunes
+
+- **«Una estimación por intención de tratar describe lo que hace la herramienta.»** En un ensayo aleatorizado por grupos de acceso en el que **alrededor del 15% del estudiantado de las aulas tratadas llegó a usar el tutor**, la estimación ITT refleja **el efecto de introducir** la herramienta y no el de usarla. Una adopción baja convierte una cifra ITT en una afirmación sobre la implementación, e informarla como efecto de la herramienta exagera lo que se midió.
+- **«El desempeño en la tarea es el resultado.»** [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025|Barcaui (2025)]] asigna al azar **120 estudiantes** a estudio asistido por IA o tradicional y mide la **retención**: el diseño que separa el desempeño inmediato del aprendizaje duradero. Un estudio que se detiene en la tarea ha medido la cantidad más fácil.
+- **«Las comparaciones entre conjuntos de datos son sencillas.»** Una comprobación estructural de datos educativos sintéticos encontró que **analizar cada conjunto de datos con su propio umbral invertía un contraste que se mantenía en un punto de trabajo compartido**. El signo de la comparación dependía de una decisión analítica, que es el tipo de fragilidad que un punto de trabajo prerregistrado existe para prevenir.
 
 ## Conceptos conectados
 

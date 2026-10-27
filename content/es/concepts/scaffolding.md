@@ -1,7 +1,7 @@
 ---
 title: Andamiaje
 created: "2026-09-25T03:07:36-04:00"
-updated: "2026-10-24T08:21:48-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 connected_resources: [onmicro-ai]
 connected_faqs: [designing-ai-into-learning, developing-ai-tutor, asynchronous-online-courses-ai]
 type: concept
@@ -11,7 +11,7 @@ technology: [intelligent-tutoring]
 assessment: [feedback]
 confidence: high
 translation_of: concepts/scaffolding
-source_updated: "2026-10-24T06:40:00-04:00"
+source_updated: "2026-10-26T12:05:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -101,6 +101,12 @@ La distinción entre guiado por reglas y ad hoc alcanza más allá del tutor has
 
 - **Un andamiaje correctamente restringido sigue fracasando si la restricción no se administra.** [[ai-literacy-tool-design-programming-education-2026|Azimi (2026)]] construyó lo que prescribe la distinción de arriba —un presupuesto de 25 pistas por sesión, un límite de 15 minutos de uso de la IA, una reflexión obligatoria al final de la sesión y ningún código generado— y aleatorizó a 33 estudiantes de máster entre esa condición y el uso sin restricciones de [[generative-ai]] a lo largo de siete semanas. El rendimiento en las tareas y las ganancias en el inventario de conceptos no difirieron entre condiciones. El presupuesto de pistas no actuó como mecanismo de racionamiento: algunos estudiantes gastaron la mayor parte en los primeros problemas y no les quedó nada para los exigentes, otros terminaron con la mayor parte sin usar, y dentro de la condición Coach fueron los estudiantes que ya tenían una estrategia deliberada para gastar una pista quienes puntuaron más alto. La restricción elevó la [[self-efficacy|confianza]] reportada y siguió al estudiantado fuera del aula como un hábito de autointerrogación (si una pregunta merecía la pena hacérsela a la herramienta), pero premió el autogobierno existente en lugar de desarrollarlo. La auditabilidad de un andamiaje y la capacidad de quien aprende para usarlo son condiciones separadas.
 - **Un andamiaje que quien aprende no puede verificar es un sustituto fluido.** Como la [[chemistry-education|química]] razona a través de fenómenos observables, modelos particulados y notación simbólica, una respuesta generada puede ser localmente persuasiva y globalmente errónea. [[vega-baudrit-genai-university-chemistry-education-review-2026|Vega-Baudrit y Rivera Álvarez (2026)]] sitúan el andamiaje en el lado productivo de su análisis Presage-Process-Product y la copia acrítica en el lado del fallo, y exigen que los andamiajes demanden traducción representacional en ambos sentidos, ya que una respuesta que describe la neutralización correctamente puede aun así afirmar que todo punto de equivalencia tiene un pH de 7. La verificación se diseña dentro de la tarea en lugar de anunciarse como una regla: el estudiantado identifica un supuesto falso, corrige un error de unidad o de mecanismo, compara una estructura simbólica con un modelo submicroscópico, o justifica el rechazo de una respuesta generada. Como el estudiantado no puede verificar lo que todavía no entiende, el [[prior-knowledge|conocimiento previo]] y el andamiaje van primero, y el prompting se trata como un acto epistémico en el que quien aprende especifica las restricciones que la respuesta debe satisfacer.
+
+## Concepciones erróneas
+
+- **«El andamiaje es un nivel constante de apoyo.»** La anotación experta de **207 consultas** mostró que la necesidad de andamiaje **dependía fuertemente de la fase y aumentaba desde alrededor del 16,1% de las intervenciones del estudiantado al inicio** del encuentro. Un único nivel de andamiaje está mal asignado en ambos extremos de una misma consulta.
+- **«Cualquier condición de control estructurada es una comparación justa para el andamiaje.»** La condición de andamiaje superó a un **control estructurado de divulgación progresiva** en la [[summative-assessment|evaluación]] final alineada con el ECOE (**71,8% frente a 55,6%**), así que la ganancia se midió contra una alternativa pedagógica real y no contra nada.
+- **«Los efectos del andamiaje son generales.»** La ganancia fue de **16,4 puntos porcentuales (P = 3,30e-4)**, con la mayor mejora en **comunicación (g de Hedges = -0,79)**. El efecto se concentró en un resultado, así que un promedio entre resultados subestima dónde funciona y sobrestima dónde no.
 
 ## Conceptos conectados
 

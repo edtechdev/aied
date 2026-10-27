@@ -1,6 +1,7 @@
 ---
 title: Tecnología de asistencia
 created: "2026-09-28T20:10:38-04:00"
+updated: "2026-10-26T21:37:50-04:00"
 type: concept
 foundations: [learning-design]
 ethics: [accessibility, assistive-technology, equity-in-ai-education, inclusive-learning]
@@ -8,7 +9,7 @@ connected_faqs: [ai-disabled-neurodivergent-learners]
 level: [special education]
 confidence: high
 translation_of: concepts/assistive-technology
-source_updated: "2026-10-13T11:05:00-04:00"
+source_updated: "2026-10-26T07:05:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -55,7 +56,14 @@ Una revisión de alcance de 2026 sobre las [[ai-technologies|tecnologías]] asis
 - **Ajuste la herramienta a quien aprende y a la tarea.** Los lectores de pantalla, los subtítulos, la voz y la salida táctil abordan barreras distintas; elija en función de las necesidades de la persona y del formato del contenido.
 - **Aproveche la IA para abaratar las adaptaciones de asistencia.** La IA puede subtitular automáticamente, simplificar textos y generar alternativas, pero evalúe la calidad de la salida en cuanto a su exactitud pedagógica.
 - **Funde la provisión en la política.** Consulte la Ley de Tecnología de Asistencia, IDEA y las WCAG al adquirir o construir herramientas de IA.
-- **Diga qué función cumple el apoyo y evalúelo en función de esa función.** [[vasileiou-ai-cognitive-scaffolding-executive-functioning-sen-2026|Vasileiou et al. (2026)]] distinguen la compensación (evaluada por el acceso y la participación) del andamiaje (decisiones con apoyo) y del desarrollo (uso de estrategias tras la retirada o la transferencia). Añaden una regla dirigida a la cautela de esta página: el apoyo de accesibilidad no es una remediación — si una herramienta es una adaptación, instrucción en estrategias o práctica temporal de apoyo, «should be stated in the learning plan».
+- **Diga qué función cumple el apoyo y evalúelo en función de esa función.** [[vasileiou-ai-cognitive-scaffolding-executive-functioning-sen-2026|Vasileiou et al. (2026)]] distinguen la compensación (evaluada por el acceso y la participación) del andamiaje (decisiones con apoyo) y del desarrollo (uso de estrategias tras la retirada o la transferencia). Añaden una regla dirigida a la cautela de esta página: el apoyo de accesibilidad no es una remediación — si una herramienta es una adaptación, instrucción en estrategias o práctica temporal de apoyo, «debería indicarse en el plan de aprendizaje».
+
+## Concepciones erróneas
+
+- **«La tecnología de asistencia apunta justo donde están las barreras.»** Una revisión de alcance de 2026 sobre tecnologías asistenciales digitales para el estudiantado neurodivergente cartografía la producción de la década y encuentra un **desajuste entre aquello a lo que apuntan las herramientas y dónde se sitúan las barreras**: **27 estudios apoyaban el aprendizaje de forma directa**, 13 abordaban la lectura y la escritura y 12 la gestión del estudio, mientras que la **atención (n = 4)** y otras barreras centrales apenas quedaban abordadas. El objetivo más estudiado no es el más limitante.
+- **«Un tamaño del efecto medio identifica la herramienta adecuada.»** [[zhang-ai-students-disabilities-meta-analysis-2024|Zhang et al.]] encuentran que las intervenciones basadas en IA producen un efecto positivo medio en los resultados de aprendizaje del estudiantado con discapacidad (**g = 0,588**) en robots, software y realidad virtual inteligente. Es un promedio sobre tecnologías muy distintas que atienden necesidades muy distintas, así que respalda la categoría y no una elección dentro de ella.
+- **«Un acceso condicionado a un diagnóstico es un diseño defendible.»** Exigir un diagnóstico formal para participar excluye a quienes tienen necesidades reales y ninguna etiqueta, lo que entra en conflicto con el [[universal-design-for-learning|diseño universal para el aprendizaje]] y traslada el costo del acceso a la documentación del estudiante.
+- **«Más herramientas de asistencia significa más inclusión.»** Una revisión de alcance examinó **766 registros** en cinco bases de datos, y el volumen de producción no equivale a la cobertura de la necesidad: el recuento de estudios por barrera es la cifra más informativa.
 
 ## Conceptos conectados
 

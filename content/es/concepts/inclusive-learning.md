@@ -2,7 +2,7 @@
 connected_resources: [mglearn]
 title: Aprendizaje inclusivo
 created: "2026-09-28T19:11:56-04:00"
-updated: "2026-10-03T02:57:43-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 type: concept
 foundations: [ai-education, learning-design]
 ethics: [equity-in-ai-education, inclusive-learning, neurodiversity, universal-design-for-learning]
@@ -10,7 +10,7 @@ connected_faqs: [ai-disabled-neurodivergent-learners]
 level: [special education, higher ed]
 confidence: high
 translation_of: concepts/inclusive-learning
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-25T17:35:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -88,6 +88,16 @@ El aprendizaje inclusivo está profundamente conectado con la [[equity-in-ai-edu
 - **Trate explícitamente el equilibrio entre seguridad y accesibilidad.** [[behaviorally-adaptive-visual-diversion-assessment-2026|BAVD]] modela cómo las medidas antitrampas pueden excluir sin querer a quienes aprenden con necesidades de procesamiento visual: pondere la integridad frente al acceso.
 - **El acceso puede depender de la formulación, no solo del formato.** Manteniendo fija la tarea subyacente, la exactitud del modelo subió del 82,4% con una redacción de baja alfabetización al 83,4% con una formulación experta, de modo que exigir al estudiantado que formule mejores prompts añade una nueva exclusión; un reescritor del lado del sistema que normaliza las peticiones eliminó la brecha significativa sin alterar el contenido ([[prompt-privilege-equitable-ai-access-2026|Jin et al. (2026)]]).
 - **Vigile que la IA no reproduzca la exclusión.** [[genai-minoritized-knowledges-disability|La crítica centrada en la discapacidad]] advierte de que los datos de entrenamiento anglófonos y centrados en Occidente marginan las formas de conocer de las personas con discapacidad: audite las herramientas de IA en términos de justicia epistémica junto con la [[equity-in-ai-education|equidad en la educación con IA]].
+
+## Concepciones erróneas
+
+**«Una herramienta accesible es un curso inclusivo.»** La accesibilidad responde a una pregunta —¿puede todo el mundo percibir y operar el formato?—, que es necesaria y no suficiente en absoluto. El aprendizaje inclusivo también pregunta qué herramientas salvan la [[digital-divide|brecha de acceso]] de una persona y cómo el diseño debería anticipar la variación en lugar de adaptarla a posteriori. Una interfaz compatible con lectores de pantalla en un curso cuya estructura de evaluación presupone una habitación silenciosa, banda ancha fiable y tiempo ininterrumpido ha resuelto el problema de la pantalla y dejado intacto el de la participación.
+
+**«Proporcionar tecnología de asistencia proporciona agencia.»** Son distintas, y el propio encuadre de la página lo dice: la tecnología de asistencia no garantiza una agencia significativa. Una herramienta que permite al estudiantado completar la tarea exigida también puede encaminarlo hacia la versión más estrecha de esa tarea, y la diferencia entre un andamiaje y un techo es invisible en una métrica de adopción.
+
+**«El estudiantado que tiene dificultades debería simplemente aprender a formular mejores prompts.»** Eso convierte un defecto del sistema en un déficit del estudiante. Manteniendo fija la tarea subyacente, la exactitud del modelo subió solo del **82,4% con una redacción de baja alfabetización al 83,4% con una formulación experta** —una diferencia de un punto—, mientras que exigir mejores prompts añade una nueva exclusión sobre la existente. La palanca está en el tratamiento del lado del sistema de la variación lingüística, no en el entrenamiento remedial de prompts.
+
+**«Una herramienta construida para aulas con buenos recursos servirá en contextos de bajos recursos una vez traducida.»** El contexto cambia la restricción de diseño. [[suacode-african-students-motivations|SuaCode]] llegó a estudiantes de contextos africanos de bajos recursos donde **menos del 1% tiene habilidades de programación** construyendo para teléfonos inteligentes en lugar de ordenadores de laboratorio, lo que es un diseño distinto y no una versión más pequeña del mismo.
 
 ## Conceptos conectados
 

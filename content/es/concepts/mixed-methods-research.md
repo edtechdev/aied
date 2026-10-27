@@ -1,13 +1,13 @@
 ---
 title: Investigación con métodos mixtos
 created: "2026-09-28T18:15:49-04:00"
-updated: "2026-10-22T09:13:53-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 type: concept
 research_method: [survey]
 confidence: high
 methods: [mixed-methods-research, qualitative-research, quantitative-research, research-methods-aied]
 translation_of: concepts/mixed-methods-research
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-26T07:55:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -62,6 +62,12 @@ En 394 estudios sobre IA generativa en educación superior, los métodos mixtos 
 ## Relación con el panorama metodológico más amplio
 
 Los métodos mixtos se sitúan entre las tradiciones [[quantitative-research|cuantitativa]] y [[qualitative-research|cualitativa]], aprovechando las fortalezas de cada una y añadiendo la disciplina de diseño de la integración intencionada. Es una respuesta metodológica al reconocimiento de que los fenómenos de la IA en la educación son a la vez portadores de efectos y cargados de significado, y de que el campo avanza más rápido cuando se combinan amplitud y profundidad (véase [[research-methods-aied]]). Conecta con la [[educational-measurement|medición educativa]] (instrumentos cuantitativos), el [[theory-development-aied|desarrollo teórico en AIED]] (construcción cualitativa de teoría) y la [[ai-ed-evaluation|evaluación de la IA en la educación]] (integración de evidencia de resultados y de experiencia).
+
+## Concepciones erróneas
+
+- **«Los métodos mixtos son una elección minoritaria en la investigación sobre IA en la educación.»** En **394 estudios sobre IA generativa en la educación superior**, los métodos mixtos fueron el **diseño de investigación más común (213 estudios, 54%)**, seguidos de los cuantitativos (109, 28%) y los cualitativos (72, 18%). El diseño dominante del campo no es el que presuponen sus debates metodológicos.
+- **«La evidencia observacional y de entrevistas puede sostener una afirmación sobre un sistema.»** Emparejar la observación del sistema y las conversaciones con la administración frente a una **evaluación aleatorizada de cuatro años con 8.708 estudiantes en ocho semestres**, con potencia para detectar efectos de **0,05 desviaciones estándar**, muestra lo que la rama cualitativa no puede hacer por sí sola: detectar un efecto pequeño de forma fiable. Mezclar métodos no es una forma de transferir potencia entre ramas.
+- **«La triangulación significa que dos métodos débiles producen una afirmación fuerte.»** El valor del emparejamiento es que cada rama responde a una pregunta distinta. Un diseño que ejecuta ambas y luego informa del hallazgo cualitativo como confirmación del cuantitativo no ha triangulado: ha repetido.
 
 ## Conceptos conectados
 - [[research-methods-aied]]

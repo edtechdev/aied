@@ -1,7 +1,7 @@
 ---
 title: "Recuperación, espaciado e intercalado"
 created: "2026-09-28T20:10:03-04:00"
-updated: "2026-10-22T09:13:53-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 type: concept
 pedagogy: [desirable-difficulties, metacognition, self-regulated-learning, mastery-learning, prior-knowledge, transfer-of-learning]
 foundations: [cognitive-offloading]
@@ -12,7 +12,7 @@ audience: [instructors, learners, instructional designers]
 page_kind: [synthesis]
 confidence: high
 translation_of: concepts/retrieval-spacing-interleaving
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-25T22:20:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -89,6 +89,16 @@ La inclusión del intercalado aquí se apoya, por tanto, en la misma familia te�
 - **Límites de instrumentación y modelado.** Los modelos de [[knowledge-tracing|seguimiento del conocimiento]] del corpus fallan justo donde las decisiones de espaciado los necesitan, y los autores atribuyen los éxitos anteriores a un ajuste retrospectivo con el conjunto de datos completo y no a una validación realista de despliegue. La calidad de las tarjetas del compañero bilingüe no está verificada contra una referencia, no tiene capa automática de verificación de hechos y no ha ejecutado ningún estudio de resultados.
 - **El intercalado no tiene prácticamente evidencia directa aquí.** Como se ha dicho, el corpus no contiene ninguna comparación entre bloques e intercalado, solo una simulación en la que el intercalado es una estrategia seleccionable entre varias.
 - **Poblaciones y contenido.** La base de evidencia se concentra en la [[higher-ed|educación superior]], en materiales de STEM y estadística, y en distinciones entre hechos y habilidades procedentes de contenidos de geometría y de regresión múltiple; la generalización a contextos de [[k-12|K-12]], a las [[humanities-education|humanidades]] y la escritura y a aulas no occidentales no queda establecida por estos estudios.
+
+## Concepciones erróneas
+
+**«Un mejor cuestionamiento de la IA produce mejor retención.»** Produce mejor trabajo. [[llm-interaction-depth-task-quality-recall-2026|Tsiligkiris (2026)]] encontró que un cuestionamiento más profundo del LLM mejoró la calidad de la tarea evaluada de forma independiente (**β = 6,27, p = 0,006**) a la vez que tenía una **asociación nula con el recuerdo en el postest inmediato (β = −0,014, p = 0,728)**, con las ganancias de recuerdo impulsadas por el conocimiento de partida. La calidad del artefacto y la durabilidad de la memoria son resultados distintos, y un mejor diálogo mueve el primero sin mover el segundo.
+
+**«Hay un formato de práctica mejor que los demás.»** El formato depende de lo que se aprende. Una interacción contenido-tratamiento (**β = 0,41, p = 0,038, d = 0,38**) muestra que **la práctica de prueba pura produjo mayores ganancias para los hechos**, mientras que **la práctica integrada con ejemplos produjo mayores ganancias para las habilidades**. Prescribir práctica de recuperación para todo, o ejemplos resueltos para todo, se equivoca en la mitad del material.
+
+**«La práctica de recuperación consiste en hacer cuestionarios, y cualquier cuestionario cuenta.»** El mecanismo es producir una respuesta desde la memoria y no reconocerla, y por eso una tarea de reconocimiento de opción múltiple es una versión más débil de la misma actividad. Una IA que genera interminables ítems de reconocimiento ha generado actividad con el nombre correcto y el mecanismo equivocado.
+
+**«La IA puede aplicar fielmente estas técnicas, ya que están bien especificadas.»** También puede socavarlas sin ruido. El espaciado exige que el sistema retenga el material que es más capaz de suministrar a demanda, y la recuperación exige que no responda, así que la eficacia de la técnica depende de restricciones que un asistente complaciente no tiene ningún incentivo en imponer.
 
 ## Conceptos conectados
 

@@ -1,7 +1,7 @@
 ---
 title: Tutoría inteligente
 created: "2026-09-25T03:07:36-04:00"
-updated: "2026-10-24T08:21:12-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 connected_faqs: [ai-agents-support-students-instructors, developing-ai-tutor, training-ai-tutors-to-guide-rather-than-answer, checking-whether-educational-ai-works, making-simulated-students-behave-like-learners]
 type: concept
 pedagogy: [scaffolding]
@@ -12,7 +12,7 @@ level: [higher ed, k 12]
 confidence: high
 reviewed_by: [editor]
 translation_of: concepts/intelligent-tutoring
-source_updated: "2026-10-23T09:35:00-04:00"
+source_updated: "2026-10-25T18:35:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 connected_resources: [deeptutor, openmaic]
 contributors: [editor]
@@ -49,6 +49,8 @@ ai_assist:
 La tutoría con IA engloba el uso de la inteligencia artificial — en particular de los [[llm|grandes modelos de lenguaje]] y de los sistemas de tutoría inteligente estructurados — para ofrecer a quienes aprenden un apoyo instruccional personalizado, adaptativo y escalable. Los tutores de IA adoptan muchas formas: tutores conversacionales que mantienen un diálogo socrático, sistemas de retroalimentación con andamiaje que guían la resolución de problemas, [[adaptive-learning|plataformas de aprendizaje adaptativo]] que personalizan la secuenciación de contenidos, y tutores basados en agentes que mantienen [[student-modeling|modelos del estudiante]] a largo plazo. La eficacia de la tutoría con IA depende de forma crítica de las decisiones de diseño pedagógico — el andamiaje, la [[ai-feedback-quality|calidad de la retroalimentación]] y el equilibrio entre la [[agency|autonomía]] y la guía — y no del modelo subyacente por sí solo.
 
 Históricamente, **[[mishra-control-vs-agency-history-2025|Mishra et al.]]** sitúan a los ITS dentro del linaje del AIEd desde los sistemas expertos de los años 60 y 70 y los tutores cognitivos ACT/ACT-R de Anderson, cuyo control estructurado contrastaba con el [[constructivist|construccionismo]] de Papert.
+
+[[ngambi-ai-learning-ecosystems-domino-framework-2026|Ng'ambi y van der Merwe (2026)]] muestran que el papel de la tutoría lo fija el diseño de la tarea y no el sistema: el mismo modelo de lenguaje, configurado de forma idéntica, sostuvo un diálogo prolongado en tareas de matemáticas de noveno curso basadas en problemas y se hundió en respuestas transaccionales con tareas procedimentales estructuradas.
 
 ## Los ITS en la familia del modelado del estudiante
 
@@ -152,7 +154,7 @@ Este planteamiento de la intensidad relacional es el contrapunto «no un monolit
 
 Sin embargo, los modelos disponibles no siempre aportan esa evidencia: [[worden-foundationalassist-knowledge-tracing-dataset-2026|Worden et al. (2026)]] probaron cuatro sistemas de frontera en cero disparos frente a la verdad de referencia del TRI en 2.548 ítems de matemáticas y encontraron que el seguimiento del conocimiento apenas superaba una línea base del 51,3 por ciento de acierto constante, alcanzando solo el 56,2 por ciento en el mejor caso.
 
-**Parta de herramientas abiertas cuando sea posible.** Los marcos de tutoría agéntica de código abierto (por ejemplo, [[deeptutor]]) reducen la barrera para disponer de un tutor fundamentado en citas y con dificultad calibrada que se puede inspeccionar y ampliar.([[deeptutor]])
+**Parta de herramientas abiertas cuando sea posible.** Los marcos de tutoría agéntica de código abierto (por ejemplo, [[deeptutor]]) reducen la barrera para disponer de un tutor fundamentado en citas y con dificultad calibrada que se puede inspeccionar y ampliar.([[zhao-deeptutor-agentic-personalized-tutoring-2026]])
 
 **Audite el modelo de componentes de conocimiento frente a las curvas de aprendizaje y rediseñe a partir de lo que muestren los datos.** Un estudio de aula con diseño cruzado aplicó el proceso de rediseño guiado por datos de Huang et al. a cuatro unidades de un ITS de matemáticas de secundaria elegidas por tema, y no por su idoneidad para el rediseño. El análisis de curvas de aprendizaje en DataShop reveló una habilidad de interpolación no modelada y casos de manejo de signos confluidos; dividir esos componentes de conocimiento y añadir práctica focalizada con omisión de los pasos ya dominados produjo un tiempo en tarea más productivo (38,9 frente a 31,6 minutos activos, p < ,001) y cinco habilidades adicionales dominadas en el mismo tiempo de clase, pero sin diferencia en las ganancias de aprendizaje. El nulo se explica por una dosis de práctica escasa (por debajo del 70% de dominio AFM en ambas condiciones) y una posprueba a la que le faltaban ítems sobre la habilidad recién dividida. Dos lecciones para quienes desarrollan: las pospruebas deben cubrir las habilidades recién descubiertas, y los beneficios de la adaptación están acotados por la práctica que el estudiantado recibe de hecho. ([[lyu-data-driven-redesign-tutoring-2026]])
 
@@ -166,6 +168,17 @@ La tutoría eficaz exige una adaptación continua: [[zhang-tutormoments-2026|Zha
 - **Diseñar con los valores de quien aprende, no solo para su rendimiento.** El [[ko-hughes-vsd-student-centered-its-2026|trabajo de diseño sensible a los valores]] con estudiantes y profesorado de colleges comunitarios en matemáticas de desarrollo muestra que las dimensiones [[ethics|éticas]] de los ITS no son añadidos separables: implicar directamente a estudiantes y profesorado produjo 16 características alineadas con valores que abarcan la [[explainable-ai|explicabilidad]] (interpretación de las comprobaciones de comprensión, conexión con la ruta de aprendizaje, comunicación de la confianza del modelo), el [[human-in-the-loop-ai|control de quien aprende]] (control sobre la reevaluación, la revisión, el ritmo y el nivel de asistencia de la IA) y la [[privacy]] (control de la reutilización de datos, indicaciones de permiso para compartir [[learning-analytics|analítica del aprendizaje]] y estados [[affective-computing|afectivos]]). El estudio enmarca una tensión de diseño persistente — la [[agency|agencia del estudiante]] frente al andamiaje guiado por el sistema — y señala que la mayoría de las instituciones desactivan por completo la tutoría adaptativa, de modo que el diseño informado por valores también depende de cómo (y de si) se despliegan de hecho las capacidades de IA de los ITS.
 
 - **Agentes enseñables y la clasificación del diálogo desvinculado:** [[rho-disengaged-conversational-behaviors-2026|Rho et al. (2026)]] pusieron en marcha un agente enseñable con GPT-4-Turbo dentro de Math Nation (Álgebra y Geometría), donde el estudiantado identificaba cuál de dos soluciones resueltas contenía una idea errónea, justificaba la corrección y enseñaba al agente — una estructura de [[learning-by-teaching|aprender enseñando]] con un agente mentor aparte que puntuaba la calidad de la explicación. A lo largo de 6.933 problemas abiertos y 22.143 interacciones registradas, construyeron un clasificador de desvinculación conversacional de seis categorías (con intervención humana: 1.682 intervenciones anotadas, LLaMA 3 ajustado, F1 ponderada = 0,910, κ entre modelo y persona = 0,624) y lo usaron para estudiar a 246 estudiantes de secundaria. La contribución metodológica es tan importante como el hallazgo: cuando un clasificador etiqueta la mayor parte del corpus, los resultados de prevalencia deben someterse a prueba de esfuerzo frente al subconjunto anotado por personas, y aquí la asociación principal (respuestas falsas y burlas que predicen una posprueba más alta) se desvaneció justo bajo esa prueba.
+
+## Concepciones erróneas
+
+**«Un modelo más potente hace un tutor mejor.»** La eficacia depende del diseño pedagógico —el [[scaffolding|andamiaje]], la calidad de la retroalimentación y el equilibrio entre autonomía y guía— y no del modelo subyacente. La demostración más clara es el ITS Apprentice Tutor College Algebra: dar a GPT-4 la *estructura de interfaz* del tutor y las estimaciones de habilidad del [[knowledge-tracing|seguimiento del conocimiento]] bayesiano produjo ganancias que el modelo solo no lograba, porque el conocimiento de cómo enseñar vivía en el sistema que rodea al modelo.
+
+**«Entrenar la pedagogía dentro de un modelo y pedírsela con un prompt son la misma intervención.»** Son rutas distintas con evidencia distinta. LearnLM mezcló datos pedagógicos en el postentrenamiento de Gemini y fue preferido por personas expertas en educación frente a GPT-4o (**+31%**), Claude 3.5 Sonnet (**+11%**) y Gemini base. Las instrucciones de prompt son una versión barata de eso; no reproducen un modelo cuya disposición se moldeó con datos pedagógicos.
+
+**«La tutoría inteligente era una tecnología anterior a los LLM que los LLM superaron.»** El linaje es continuo y la aportación de los ITS es justo lo que la era de los LLM sigue echando en falta. Los ITS aportaron el modelo del estudiante, las restricciones de interfaz y las estimaciones de dominio; los sistemas modernos que añaden un LLM a esos componentes superan al LLM solo, lo que convierte a la disciplina anterior en un ingrediente y no en un predecesor.
+
+**«Un tutor de IA es un solo tipo de cosa.»** La tutoría abarca un espectro de intensidad relacional, desde la generación de pistas hasta el diálogo sostenido, y las conclusiones de diseño de un punto de ese espectro no se trasladan a otro. La pregunta de diseño pedagógico es, por tanto, siempre «qué tipo de tutoría, haciendo qué tarea» y no «si la tutoría con IA funciona».
+
 ## Conceptos conectados
 - [[scaffolding]]
 - [[adaptive-learning]]

@@ -1,14 +1,14 @@
 ---
 title: Partes interesadas
 created: "2026-09-28T20:10:26-04:00"
-updated: "2026-10-02T23:56:13-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 type: concept
 foundations: [ai-literacy, learning-design, teacher-role]
 audience: [instructors, learners, administrators]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/stakeholders
-source_updated: "2026-10-01T20:35:10-04:00"
+source_updated: "2026-10-26T02:00:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -67,6 +67,16 @@ La identidad es el ancla humana del panorama de partes interesadas: es lo que la
 - **Construir competencias específicas por rol:** el profesorado, el estudiantado, los diseñadores y los líderes necesitan cada uno una alfabetización en IA y un apoyo a medida (véanse [[ai-literacy|alfabetización en IA]], [[teacher-ai-competency|competencia del profesorado en IA]], [[educational-development|desarrollo profesional]]).
 - **Alinear entre niveles:** la investigación sobre gobernanza de esta base de conocimiento muestra que la IA tiene éxito cuando el liderazgo institucional, la práctica docente y la experiencia del estudiantado están alineados y no fragmentados.
 - **Tener en cuenta a las familias y a la comunidad en general:** las familias son partes interesadas en la adopción de la IA cuyo papel y cuyas preocupaciones merecen una atención explícita.
+
+## Concepciones erróneas
+
+**«Las partes interesadas en la IA en la educación comparten un interés en el mismo resultado.»** Sus intereses están con frecuencia en tensión directa, y la misma función se lee de forma distinta según el rol: el «apoyo personalizado» de un estudiante puede ser al mismo tiempo el «riesgo de integridad» de un docente. Los procesos de diseño que dan por supuesto un objetivo común resolverán esa tensión por accidente en favor de quien hable más alto.
+
+**«Dar voz a cada grupo de partes interesadas resuelve el conflicto.»** Consultar no es ponderar. El propio encuadre de la página sitúa la pregunta de diseño en cómo dar a cada preocupación **un peso genuino en lugar de dejar ganar a la voz más alta**, lo que es un problema de procedimiento —quién decide, con qué evidencia y con qué apelación— y no un problema de comunicación.
+
+**«El análisis de partes interesadas es un ejercicio de fase inicial.»** Las tensiones persisten en la operación, porque los roles siguen interpretando el mismo sistema de forma distinta. Una capa de personalización orientada al estudiantado y un panel de integridad orientado al profesorado son los mismos datos vistos desde dos posiciones, y el conflicto reaparece cada vez que se ajusta uno de los dos.
+
+**«Una identidad entre audiencias significa que un solo mensaje puede servir a todas.»** Comunicar entre audiencias exige traducir la misma decisión a términos distintos sin tergiversarla, lo que es más que reescribir un mensaje de cuatro maneras.
 
 ## Conceptos conectados
 

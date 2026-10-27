@@ -1,7 +1,7 @@
 ---
 title: Identidad de quien aprende
 created: "2026-09-28T19:13:48-04:00"
-updated: "2026-10-22T07:45:27-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 type: concept
 foundations: [agency, learner-identity]
 discipline: [stem education]
@@ -10,7 +10,7 @@ confidence: high
 connected_faqs: [how-ai-impacts-students]
 level: [adult learning]
 translation_of: concepts/learner-identity
-source_updated: "2026-10-01T14:02:49-04:00"
+source_updated: "2026-10-26T01:30:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -76,6 +76,16 @@ La identidad de quien aprende es la contraparte **orientada al estudiantado** de
 ## Conexiones
 
 La identidad de quien aprende se conecta con la [[agency|agencia]] (la identidad se pone en acto mediante la autoría con agencia), con la [[self-efficacy|autoeficacia]] (las creencias de competencia que sostienen la identidad), con la [[motivation|motivación]] y la [[self-determination-theory|teoría de la autodeterminación]] (la formación de la identidad satisface necesidades de autonomía y competencia), con la [[student-experience|experiencia del estudiantado]] y la [[student-engagement|implicación del estudiantado]], y con la [[stem-education|educación STEM]] (donde la identidad disciplinar es un resultado clave y un predictor de la persistencia). También la moldean el [[situated-learning|aprendizaje situado]] y la [[critical-pedagogy|pedagogía crítica]] (la identidad como participación y como negociación cargada de poder) y se conecta con la [[authentic-assessment|evaluación auténtica]] (tareas que permiten a quien aprende actuar y, con ello, reclamar una identidad). Su relevancia para la [[higher-ed|educación superior]] y la [[k-12|K-12]] abarca tanto la escolarización como la preparación profesional.
+
+## Concepciones erróneas
+
+**«La identidad de quien aprende es un rasgo estable al que un curso puede acomodarse.»** Es mejor tratarla como algo que se **construye de forma continua mediante la participación, el reconocimiento y la autoría**. Ese cambio traslada la pregunta de diseño de emparejar una identidad existente a moldear la que el curso hace disponible, y una IA que completa el trabajo elimina uno de los tres ingredientes, ya que la autoría es donde se origina la pretensión de identidad.
+
+**«Los problemas de identidad son cosa del estudiantado de grupos infrarrepresentados.»** La identidad se forma en todas las personas que aprenden según si su participación es reconocida, lo que la convierte en una condición general de diseño y no en una provisión especial. Enmarcarla como una preocupación focalizada es la forma en que se posterga.
+
+**«La asistencia de la IA rebaja las barreras y, por tanto, amplía la participación.»** Puede rebajar la barrera para producir trabajo a la vez que estrecha la barrera para reclamar autoría. A un estudiante que entrega un artefacto fluido que no escribió se le ha dado acceso al resultado y se le ha negado el reconocimiento que construye la identidad detrás de él.
+
+**«Reconocer la identidad de quien aprende es una cuestión de representación en los contenidos.»** La representación importa y el reconocimiento se pone en acto en la práctica: a quién se le toman las preguntas, a quién se le acredita la contribución y a quién se trata como capaz. Un currículo puede ser representativo y aun así negar el reconocimiento que exige la formación de la identidad.
 
 ## Conceptos conectados
 

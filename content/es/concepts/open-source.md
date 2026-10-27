@@ -1,7 +1,7 @@
 ---
 title: Código abierto
 created: "2026-09-28T20:16:26-04:00"
-updated: "2026-10-03T02:57:43-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 connected_faqs: [making-ai-better-at-supporting-learning]
 type: concept
 foundations: [agentic-ai, ai-education, curriculum-design]
@@ -14,7 +14,7 @@ confidence: medium
 connected_resources: [claw-ed, education-agent-skills, lesson-md, liascript, onmicro-ai, vibes-diy]
 methods: [benchmark]
 translation_of: concepts/open-source
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-25T17:00:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -73,6 +73,16 @@ La apertura del contenido y la apertura de los modelos también son complementar
 - **Para el profesorado y las instituciones:** compruebe la licencia del *contenido* además de la del código antes de adoptar un sistema: código MIT sobre manuales CC BY es reutilizable, pero una licencia permisiva no garantiza que existan rutas de tutoría, bancos de ítems o traducciones. Prefiera modelos abiertos cuando los datos del estudiantado no puedan salir legalmente del campus ([[lata-ferpa-compliant-local-llm-autograder]], [[programming-its]]), pero evalúe el modelo en *su* tarea en lugar de confiar en las tablas de clasificación generales ([[cdpk-pedagogy-benchmark-llms]]). Presupueste a alguien que ejecute y evalúe el sistema después del piloto.
 - **Para quienes desarrollan e investigan:** publique todo —la entrega de extremo a extremo de OATutor (código, contenido, arnés de experimentos) es el estándar de replicabilidad que esta literatura sigue premiando. Publique los prompts y los esquemas de extracción junto con los pesos ([[programming-its]], [[kar-mathbuddy-affective-math-tutoring-2025]]). Informe del cómputo y del carbono ([[aied-carbon-footprint-reporting]]). Ancle los asistentes en corpus con licencias abiertas para que la procedencia sea comprobable y la adaptación legal ([[shen-sustainable-ai-knowledge-base-cs-education-2026]]). Use ajuste fino consciente de la cuantización en lugar de cuantización simple si importan tanto la precisión como la energía, y mantenga compatibles las licencias del código y del contenido.
 
+## Concepciones erróneas
+
+**«Pesos abiertos, código abierto, contenido abierto y pedagogía abierta son la misma apertura.»** Son cuatro cosas distintas y fallan de forma independiente. Los *pesos* abiertos permiten el despliegue local; el *código* abierto permite la modificación; el *contenido* abierto permite la reutilización y la adaptación; la *pedagogía* abierta se refiere a quién decide qué se enseña. Un modelo con pesos abiertos y una canalización de entrenamiento propietaria, envuelto en una herramienta con interfaz cerrada y una biblioteca de contenido con todos los derechos reservados, es «abierto» en uno de los cuatro sentidos y cerrado en tres.
+
+**«Abierto significa más barato.»** Los pesos abiertos hacen posible el despliegue local, pero **alguien tiene que alojar, parchear y evaluar el sistema**, y ese alguien tiene que sobrevivir a la subvención que financió el trabajo. Las cargas que nombra esta literatura son concretas: infraestructura, garantía de [[pedagogical-safety|seguridad pedagógica]] y mantenimiento. El coste total puede superar el de una licencia, y las instituciones que tratan la apertura como un ahorro descubren con frecuencia la obligación de mantenimiento después de que el personal del proyecto se haya dispersado.
+
+**«Los modelos de frontera cerrados son simplemente mejores, así que las alternativas abiertas son un recurso de reserva.»** La brecha es más estrecha de lo que supone ese supuesto. En [[cdpk-pedagogy-benchmark-llms|el Pedagogy Benchmark]] (CDPK + SEND, construido con ítems reales de exámenes docentes chilenos) y con 97 modelos, el modelo de pesos abiertos **DeepSeek R1 alcanzó el 86,65%**, frente a un top-10 compuesto en su mayoría por modelos de razonamiento cerrados, y la comparación de coste y precisión va más allá en la dirección abierta. El argumento que queda a favor de la apertura trata, por tanto, del control y la auditabilidad, y no de un sacrificio de capacidad.
+
+**«Publicar los pesos es publicar el trabajo.»** Las contribuciones abiertas más sólidas publican la canalización. OmniEdu publica una supervisión equilibrada por capacidades sobre una mezcla de 69.999 ejemplos y no solo los pesos finales, elevando todas las escalas de una familia abierta de 4B/9B/27B para K-12, con el modelo de 4B ajustado ganando **55 puntos** de rendimiento de andamiaje en MathTutorBench; [[singh-eduqwen-pedagogical-rl-2026|EduQwen]] documenta igualmente su procedimiento de RL y ajuste fino, incluidos 440 negativos difíciles extraídos y 40.000 respuestas generadas. Pesos sin la receta reproducen un resultado sin reproducir el método.
+
 ## Conceptos conectados
 
 - [[intelligent-tutoring]]
@@ -102,7 +112,7 @@ La apertura del contenido y la apertura de los modelos también son complementar
 - [[programming-its]] — LLM de pesos abiertos autoalojado para cumplir el RGPD y el Reglamento de IA de la UE en un ITS en Python
 - [[aiawe-automated-writing-evaluation]] — Modelo de pesos abiertos adaptado con LoRA para la evaluación automatizada de la escritura
 - [[stanbkt-bayesian-knowledge-tracing]] — Paquete abierto de Python para la traza de conocimiento bayesiana completa
-- [[deeptutor]] — Marco de tutoría agéntica totalmente de código abierto con memoria del estudiante
+- [[zhao-deeptutor-agentic-personalized-tutoring-2026]] — Marco de tutoría agéntica totalmente de código abierto con memoria del estudiante
 - [[vismatic-secure-sandbox-cs-education]] — Sandbox abierto en contenedores para la evaluación orientada a procesos
 - [[kar-mathbuddy-affective-math-tutoring-2025]] — Tutor afectivo de matemáticas con base de código abierta
 - [[cdpk-pedagogy-benchmark-llms]] — Punto de referencia abierto de pedagogía con 97 modelos y la frontera de coste y precisión

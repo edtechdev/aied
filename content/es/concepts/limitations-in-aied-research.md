@@ -1,7 +1,7 @@
 ---
 title: Limitaciones de la investigación en AIEd
 created: "2026-09-28T20:10:35-04:00"
-updated: "2026-10-22T07:31:04-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [learning-theories]
@@ -12,7 +12,7 @@ confidence: high
 connected_faqs: [research-gaps-aied, reporting-interpreting-aied-research]
 methods: [ai-ed-evaluation, benchmark, research-methods-aied]
 translation_of: concepts/limitations-in-aied-research
-source_updated: "2026-10-16T08:47:09-04:00"
+source_updated: "2026-10-26T13:35:09-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -66,6 +66,7 @@ La página de [[research-methods-aied|métodos de investigación]] de la base de
 - **Estandarizar dentro de cada conjunto de datos puede ocultar una tergiversación de la dispersión.** Cuando se estandarizaron cohortes educativas sintéticas por su propia dispersión, el hecho de que su estructura semanal variara entre 2,6 y 4,9 veces menos que la de las cohortes reales se volvió invisible para las estadísticas informadas: un preprocesamiento rutinario, en palabras de los autores, no una preocupación hipotética ([[synthetic-educational-data-structural-fidelity-2026|Inoue y Yasutake, 2026]]).
 
 - **Las etiquetas generadas por modelos no son verdad de referencia.** Cuando las etiquetas que entrenan o evalúan un sistema las producen los propios modelos de lenguaje, el acuerdo entre anotadores no puede establecer validez: [[edubehaviors-auditable-coding-educational-dialogues-2026|Bernado et al. (2026)]] nunca validaron sus anotaciones de aserciones contra etiquetas de referencia humanas, y los 49 clasificadores de codificador que publican heredan esa procedencia y pueden no ser válidos donde las aplicaciones difieren en dimensiones significativas. Su esquema además rindió estrictamente por debajo del clasificador ajustado finamente entrenado con datos anotados por expertos (macro-F1 0,673 frente a 0,76), lo que deja los corpus etiquetados por expertos como algo que merece la pena cuando se requiere alta confianza.
+- **La propia base de evidencia está distribuida de forma desigual.** Una revisión de alcance de 407 estudios sobre evaluación formativa apoyada por tecnología se basó solo en Web of Science y Scopus. También excluyó 61 registros por criterios de idioma, así que el desequilibrio geográfico que el campo informa puede reflejar en parte qué sedes están indexadas ([[bulut-technology-supported-formative-assessment-2026|Bulut, 2026]]).
 
 ## El problema de la velocidad: la IA evoluciona más rápido que los hallazgos
 
@@ -112,6 +113,22 @@ En conjunto, estas limitaciones abogan por una lectura crítica y multiseñal de
 Una limitación adicional y práctica es el **desafío de aplicar la investigación a la [[teacher-role|docencia]] y al diseño instruccional**. Quienes ejercen —docentes, [[stakeholders|diseñadores instruccionales]] y responsables de desarrollo del profesorado— a menudo carecen del tiempo o de la pericia especializada para leer, valorar y traducir la investigación primaria en decisiones concretas de aula. La literatura es extensa, fragmentada y está escrita para investigadores; los hallazgos se informan con un detalle estadístico y metodológico que no es inmediatamente accionable; y como las afirmaciones son provisionales (véase el problema de la velocidad más arriba), quien ejerce no puede simplemente tomar un único estudio al pie de la letra. Esto crea una brecha entre lo que la evidencia respalda y lo que realmente llega a la [[pedagogy|práctica docente]].
 
 El propósito de esta base de conocimiento es ayudar a cerrar esa brecha —facilitar seguir, interpretar y aplicar la investigación sobre IA en la educación a la práctica— mediante la curación de hallazgos de acceso abierto en resúmenes estructurados y accesibles, la conexión de trabajos relacionados a través de [[ai-education|páginas de conceptos]] y la señalización de las limitaciones que los lectores deberían sopesar. Pretende apoyar una práctica informada por la evidencia en la docencia y el diseño instruccional, y al hacerlo también sacar a la luz vacíos y preguntas que puedan orientar nueva investigación y desarrollo. Comprender los límites de la investigación no es, por tanto, un fin en sí mismo: es lo que permite a quienes ejercen aplicar los hallazgos de forma adecuada y a quienes investigan diseñar estudios más sólidos que sirvan mejor a la práctica.
+
+## Dos trampas de auditoría que conviene conocer
+
+Dos prácticas de notificación concretas inflan o distorsionan una síntesis, y ambas son visibles en el registro publicado y no hipotéticas.
+
+**La cifra de heterogeneidad depende del modelo, y el modelo rara vez se cita.** La heterogeneidad de una revisión se cita como **I² = 82,98% con un modelo de efectos fijos e I² = 15,75% con el modelo de efectos aleatorios**. Describen los mismos datos. Quien toma una sola cifra de heterogeneidad sin su modelo ha recibido una afirmación técnica sin interpretación adjunta, y la diferencia entre «la mayor parte de la varianza no se explica» y «poca varianza no se explica» es la diferencia entre descartar y confiar en el campo.
+
+**El porcentaje estrella puede ser un artefacto de los términos de búsqueda.** En una revisión de alcance de 195 estudios de formación docente, la competencia digital y el [[tpack|TPACK]] eran descriptores de búsqueda explícitos mientras que el diseño instruccional y la evaluación no tenían equivalente, así que el **46,5% y el 1,9%** informados describen la estrategia de recuperación antes que el campo. Una afirmación de prevalencia solo es tan significativa como la consulta que produjo el corpus.
+
+**Y la tasa base es el número que nadie declara.** Los límites metodológicos aquí son medibles y no impresionistas: en una revisión crítica de 80 estudios de interacción persona-ordenador sobre pensamiento crítico con IA, **42 (el 52%) no tenía grupo de control** y la mayoría del resto se apoyaba en autoinformes. Cuando más de la mitad de los hallazgos positivos de un campo provienen de diseños que no pueden separar el efecto de la IA de la actividad ordinaria, el prior adecuado ante cualquier hallazgo individual es el escepticismo, no la aceptación provisional.
+
+## Concepciones erróneas
+
+- **«Las secciones de limitaciones son texto de relleno.»** Los límites metodológicos son **medibles y no impresionistas**: en una revisión crítica de **80 estudios** de interacción persona-ordenador sobre pensamiento crítico con IA, **42 (el 52%) no tenía grupo de control**. Un recuento preciso es lo que hace la limitación accionable.
+- **«La heterogeneidad es una cifra única que se puede citar.»** La misma revisión muestra un riesgo de notificación: la heterogeneidad se cita como **I² = 82,98% con un modelo de efectos fijos e I² = 15,75% con el modelo de efectos aleatorios**. Los mismos datos dan un relato de nueve puntos o uno de dos según el modelo elegido, así que un I² citado sin su modelo es ininterpretable.
+- **«Un efecto grande informado es la cifra en la que confiar.»** Un titular como el efecto de **30 estudiantes en un curso de una sola sede** es la forma común de una afirmación frágil, y el recuento de estudios sin controles muestra con qué frecuencia esa fragilidad queda sin declarar.
 
 ## Conceptos conectados
 

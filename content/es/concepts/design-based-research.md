@@ -1,13 +1,13 @@
 ---
 title: Investigación basada en el diseño
 created: "2026-09-28T19:10:33-04:00"
-updated: "2026-10-02T22:25:26-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 type: concept
 research_method: [literature review]
 confidence: high
 methods: [design-based-research, research-methods-aied]
 translation_of: concepts/design-based-research
-source_updated: "2026-09-30T07:37:28-04:00"
+source_updated: "2026-10-25T21:50:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -68,6 +68,16 @@ La IBD cambia el control causal de los [[rct|experimentos]] por autenticidad eco
 ## Relación con otros métodos
 
 La IBD es el método característico de las [[learning-sciences|ciencias del aprendizaje]], el campo interdisciplinar que estudia el aprendizaje y el diseño de entornos de aprendizaje, y que trata construir una intervención y estudiarla como una sola actividad y no como dos. Es complementaria, y no rival, de otros métodos de investigación (véase [[research-methods-aied|métodos de investigación en IA educativa]] para el panorama completo). Donde los [[rct|experimentos]] establecen causalidad y las [[quantitative-research|encuestas]] establecen amplitud, la IBD establece *viabilidad y conocimiento de diseño*: si una intervención puede construirse para funcionar en la práctica auténtica y qué principios de diseño la sostienen. Se combina con frecuencia con la [[usability-research|evaluación de usabilidad]] (para refinar la interfaz) y con los [[qualitative-research|métodos cualitativos]] (para comprender cómo experimenta el estudiantado la intervención). Un programa de IBD maduro suele culminar en un [[rct|ensayo de eficacia]] o en un estudio de [[educational-measurement|medición educativa]] que pone a prueba los efectos causales de la intervención desarrollada a escala.
+
+## Concepciones erróneas
+
+**«La investigación basada en el diseño es un método cualitativo.»** La IBD es una tradición de *diseño*, no de datos: no encaja en absoluto en el contraste cuantitativo/cualitativo/experimental, porque su unidad de trabajo es el artefacto iterado y no un único plan de medición. Los estudios dentro de la IBD pueden ser cuantitativos, cualitativos o experimentales; lo que los hace IBD es que el diseño se revisa a medida que se produce el hallazgo.
+
+**«El refinamiento iterativo hace que el diseño sea inmune al factor de confusión que sufren otros métodos.»** La iteración cambia una amenaza por otra. Refinar un diseño a mitad del estudio significa que la versión final difiere de la que produjo la evidencia inicial, así que una afirmación sobre «la intervención» abarca varias intervenciones. Informar qué revisión produjo qué resultado es responsabilidad de la disciplina, y con frecuencia se deja implícito.
+
+**«Como la IBD produce un artefacto que funciona, ha demostrado eficacia.»** Un diseño que funciona en el sitio que lo coprodujo ha demostrado viabilidad local, lo que es una afirmación distinta de la eficacia. El artefacto lleva consigo las adaptaciones hechas para ese contexto, y transferirlo transfiere supuestos que nunca se declararon como supuestos.
+
+**«Tratar un instrumento como un artefacto de diseño revisable se aparta de la IBD.»** Es el carácter iterativo de la IBD aplicado a la medición y no a la intervención: un estudio de este corpus trató la propia rúbrica como artefacto y alternó el correfinamiento con un [[llm|LLM]]. Esa extensión merece señalarse porque convierte el desarrollo del propio instrumento en parte de la evidencia.
 
 ## Conceptos conectados
 

@@ -1,7 +1,7 @@
 ---
 title: Diseño curricular
 created: "2026-09-25T04:31:16-04:00"
-updated: "2026-10-22T09:13:53-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 type: concept
 connected_faqs: [incorporating-ai-literacy]
 foundations: [ai-literacy, curriculum-design, learning-design, teacher-role]
@@ -13,7 +13,7 @@ level: [higher ed]
 confidence: high
 connected_resources: [intelligent-textbooks]
 translation_of: concepts/curriculum-design
-source_updated: "2026-10-21T13:42:59-04:00"
+source_updated: "2026-10-26T10:25:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -96,6 +96,12 @@ Es la estructura, y no la redacción del prompt, lo que hace fiable el borrador 
 ### Conexiones con conceptos relacionados
 
 El diseño curricular conecta directamente con el [[learning-design|diseño del aprendizaje]]: el currículo define el qué, la instrucción define el cómo. Conecta con la [[ai-literacy|alfabetización en IA]] porque integrar competencias en IA es un reto curricular primordial, con el [[teacher-role|papel de la docencia]] y el [[educational-development|desarrollo educativo]] porque el cambio curricular exige preparación del personal docente, y con el [[scaffolding|andamiaje]] porque los currículos bien diseñados andamian el desarrollo de habilidades a lo largo de cursos y años. Las conexiones con la [[higher-ed|educación superior]] y la [[k-12|K-12]] reflejan la relevancia del diseño curricular en todos los niveles educativos.
+
+## Concepciones erróneas
+
+- **«Un LLM puede mapear un currículo una vez validado con alta fiabilidad.»** GPT-o3-mini distribuyó **el 100% entre siete habilidades empresariales para cada una de 48 evaluaciones**, alcanzando un **alfa de Krippendorff de 0,81** frente a las ponderaciones de personas expertas, y la **concordancia** se rompió en determinadas habilidades. Una fiabilidad global alta con una concordancia desigual es el patrón que hay que comprobar antes de fiarse del mapeo.
+- **«Integrar la alfabetización en IA significa añadir una asignatura.»** LearnAI muestra la forma integrada: una **capa de amplia exposición con presentaciones breves dentro de 18 cursos existentes de cinco disciplinas (293 estudiantes)**. La exposición se distribuyó a lo largo del currículo en lugar de reunirse en una unidad.
+- **«El estudiantado llega sabiendo ya evaluar los medios de forma crítica.»** Solo el **13,8% del estudiantado encuestado de educación y periodismo** decía que sus asignaturas abordaban el análisis crítico de medios, frente al **97,8% que lo valoraba como importante**. La brecha entre valorar una habilidad y recibir formación en ella es la oportunidad curricular.
 
 ## Conceptos conectados
 - [[pedagogical-partnerships]] — Alianzas pedagógicas

@@ -1,7 +1,7 @@
 ---
 title: Tecnologías del habla y de la voz
 created: "2026-09-28T18:15:49-04:00"
-updated: "2026-10-24T08:21:10-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 type: concept
 technology: [generative-ai, multimodal]
 assessment: [assessment]
@@ -11,7 +11,7 @@ audience: [instructors, learners, researchers, instructional designers]
 level: [k 12, higher ed, adult learning]
 discipline: [language learning]
 translation_of: concepts/speech-and-voice-technologies
-source_updated: "2026-10-23T09:14:19-04:00"
+source_updated: "2026-10-26T11:40:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -91,6 +91,12 @@ Comprobación de alcance. Esta página trata del canal hablado y de la tecnolog�
 ## Lo que sigue siendo incierto
 
 Casi todas las afirmaciones sólidas de aquí se apoyan en un único estudio corto. Los dos estudios de lecciones con TTS se realizaron en sendos institutos japoneses con un orden de presentación fijo que confundía el formato con el contenido, y sus medidas de resultados de aprendizaje fueron autoinformadas en escalas internas. El modelo de retroalimentación con ASR provino de una única universidad china y fue transversal, de modo que su hallazgo sobre la moderación por competencia describe covarianza y no causalidad. El estudio sobre la disposición a comunicarse midió percepciones de la retroalimentación, no su calidad. El estudio de perfiles de interpretación es un análisis exploratorio con 22 participantes en el que los efectos de la etapa de producción no alcanzaron significación. Los despliegues de AOA y AkoVoice son de una sola institución, y AkoVoice no informa de evidencia de aprendizaje [[summative-assessment|sumativa]] porque sus evaluaciones de voz se ejecutaron en paralelo a las evaluaciones reales. Kutti AI es una contribución de sistemas sin evaluación de resultados alguna. Lo que la colección sí respalda es un conjunto de afirmaciones de diseño: la calidad de la retroalimentación supera al volumen de práctica en el uso del ASR, la narración en diálogo puede ayudar a la comprensión a costa de la naturalidad, el formato debería ajustarse a las características de quien aprende en lugar de fijarse, la IA debería sacar a la luz la evidencia en lugar de sustituir al evaluador humano, y hablar en tiempo real mide algo que la escritura no mide, incluida una exactitud sorprendentemente indiferente a cuántas palabras usa quien aprende. Que algo de esto se sostenga en otro sitio, otra lengua u otro año no está probado.
+
+## Concepciones erróneas comunes
+
+- **«Los servicios de voz de pago superan a los gratuitos.»** **Los dos servicios gratuitos devolvieron transcripciones casi completas (cobertura del 87,96% y del 88,34%, con tasas de error de palabras del 15,23% y del 15,00%)**, mientras que los dos servicios de pago solo exportaban vistas previas (cobertura del 32,76% y del 55,35%). El precio no predijo la utilidad, y el nivel de pago limitaba la salida en lugar de mejorarla.
+- **«Cualquier chatbot para el aprendizaje de lenguas mejora la pronunciación.»** A lo largo de **diez estudios**, **solo los chatbots diseñados para el aprendizaje de lenguas —Andy English bot y Xiaoying— mejoraron la precisión**, con una **disminución del 14% del error en un grupo de control** en la comparación. Los agentes conversacionales genéricos no produjeron la ganancia.
+- **«Las ganancias de autoeficacia significan ganancias de habilidad.»** La asociación entre la tecnología y los resultados fue positiva con la **autoeficacia mediándola parcialmente: la vía indirecta explicó el 69,9% del efecto total mientras persistía un efecto directo**. La mayor parte del efecto pasó por la confianza, que es un mecanismo y también una advertencia.
 
 ## Conceptos conectados
 - [[language-learning]]

@@ -1,7 +1,7 @@
 ---
 title: IA explicable
 created: "2026-09-28T19:10:33-04:00"
-updated: "2026-10-22T07:31:04-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [metacognition]
@@ -11,7 +11,7 @@ ethics: [bias-mitigation, trust-calibration, pedagogical-safety]
 audience: [learners, researchers, instructional designers, instructors]
 confidence: high
 translation_of: concepts/explainable-ai
-source_updated: "2026-10-16T06:45:00-04:00"
+source_updated: "2026-10-26T07:30:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -88,6 +88,13 @@ Dos cautelas afinan esto aún más, y la contribución más reciente de este wik
 Si la calidad de la explicación decide si la XAI es útil, entonces producir explicaciones tiene que enseñarse como un hábito profesional y no demostrarse como una capacidad. [[lund-socially-accountable-data-science-xai-2026|Lund y sus colegas (2026)]] proponen hacerlo a través de cuatro pilares: **capacidad de respuesta** (la obligación de dar razones a quienes se ven afectados), **responsabilidad** (el daño anticipado a lo largo del ciclo de vida, no defendido a posteriori), **aplicación** (consecuencias dentro del curso) y **reflexividad** (examen documentado de los propios supuestos), cada uno con sus propias tareas y su propio coste de aula.
 
 Para la explicabilidad en concreto, las tareas que importan son las que obligan a sacar la explicación del cuaderno: tarjetas de modelo calificadas y ponderadas junto a las métricas de precisión, y auditorías estructuradas de explicaciones en las que el estudiantado aplica herramientas de interpretabilidad a sus propios modelos y luego presenta los resultados a una audiencia sin formación técnica compartida. La aplicación es el pilar que falta con más frecuencia en los cursos afines a la ética y el que hace que el resto sea algo más que simbólico: rúbricas que premian la documentación responsable, proyectos que pueden devolverse para revisión por motivos [[ethics|éticos]] y [[peer-assessment|revisión entre pares]] realizada contra criterios de rendición de cuentas y no solo técnicos. El artículo reconoce con franqueza que las herramientas difieren mucho en coste: las tarjetas de modelo y las declaraciones de posicionalidad no necesitan software nuevo y solo arriesgan un cumplimiento superficial, mientras que los paneles entre pares y la implicación de las partes interesadas exigen coordinación y respaldo institucional, y por eso recomienda una adopción por etapas en lugar de un compromiso de todo o nada. Véase [[curriculum-design|diseño curricular]] para saber dónde encajan en un programa.
+
+## Concepciones erróneas
+
+- **«Las citas hacen que una explicación sea fiable.»** Las citas funcionan como una **señal de credibilidad y no como prueba de corrección**: adjuntar citas y señales de autoridad a una interfaz de debate **elevó el abandono de un juicio correcto en favor de la posición de la IA del 15,0% al 31,8%**. La procedencia hizo más persuasiva la respuesta equivocada, que es lo contrario del efecto buscado.
+- **«Una explicación que satisface a las personas usuarias ha explicado el sistema.»** El mismo fallo de legibilidad aparece en el lado de la seguridad de la [[automated-assessment|evaluación automatizada]]: el [[humble-prompt-injection-ai-grading-red-team-2026|ejercicio de red team de Humble (2026)]] encontró que un flujo de calificación cotidiano podía manipularse mediante instrucciones inyectadas. Una narrativa plausible y una auditable son artefactos distintos.
+- **«La práctica general de la XAI se traslada a la educación.»** El [[xai-education-framework|marco XAI-ED]] (Khosravi et al., 2022) insiste en que la educación tiene **necesidades de explicabilidad propias** que van más allá de la XAI general, porque la audiencia incluye a estudiantes que deben actuar sobre la explicación y no a auditores que deben certificarla.
+- **«La fidelidad es una propiedad que se puede afirmar sin sondearla.»** La fidelidad medida exige la **eliminación contrafactual de fragmentos críticos de la rúbrica** junto con valoraciones humanas. Que la alineación atención-rúbrica llegue al **78,0% frente al 41,7% de GPT-4 en cero ejemplos y el 32,1% de BERT** es un resultado comparativo de ese tipo de sondeo, no de una afirmación sobre interpretabilidad.
 
 ## Cita
 

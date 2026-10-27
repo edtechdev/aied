@@ -1,13 +1,13 @@
 ---
 title: Cognición distribuida
 created: "2026-09-28T20:10:35-04:00"
-updated: "2026-10-22T07:28:08-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 type: concept
 foundations: [agency, cognitive-offloading, human-ai-collaboration]
 pedagogy: [distributed-cognition, embodied-learning, learning-theories, metacognition, situated-learning]
 confidence: high
 translation_of: concepts/distributed-cognition
-source_updated: "2026-10-21T11:40:00-04:00"
+source_updated: "2026-10-26T08:20:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -62,6 +62,12 @@ La cognición distribuida aporta a la vez una lente de diseño y una lente de ev
 Fowlin et al. (2026) operacionalizan ese reparto como una secuencia de dos fases: construir primero las competencias centrales sin IA y después introducir la IA como un socio cognitivo cuyas sugerencias el estudiantado evalúa críticamente, para prevenir la pérdida de habilidades asociada a la automatización ([[fowlin-operationalizing-learning-principles-ai|Fowlin et al. (2026)]]).
 
 **Dominio interiorizado frente a dominio distribuido.** El marco de los bienes cognitivos comunes ([[cognitive-commons-ai-expertise-regeneration|Lovett 2026]]) distingue el dominio interiorizado (conocimiento profundo del dominio en mentes individuales) del dominio distribuido (orquestar sistemas humano–IA) y sostiene que este último depende del primero mediante una «atadura de validación»: la supervisión eficaz de sistemas distribuidos o de IA presupone la pericia interiorizada que esos sistemas pueden socavar. Esto agudiza la pregunta de diseño de la DCog: la distribución de la cognición no debe hacerse a costa de la pericia que la valida.
+
+## Concepciones erróneas
+
+- **«Un documento compartido significa cognición compartida.»** Los perfiles basados en volumen de **97 estudiantes** diferían en **conocimiento previo y autoría**, pero **no en los prompts de rol activo ni de nivel de comprensión**. El volumen de participación medía la exposición, no la distribución del trabajo cognitivo, así que la analítica de uso de una herramienta colaborativa dice poco sobre quién estaba pensando.
+- **«Todo el mundo descarga en la IA por igual.»** El profesorado novel **delega en el sistema de IA una gran parte de la carga cognitiva del diseño instruccional**, hasta llegar a una **distribución dominada por la IA** en la que acepta en gran medida las respuestas, mientras que el profesorado con experiencia y competencia en IA distribuye de otro modo. La pericia se manifiesta en dónde se coloca la carga, no solo en cuánta IA se usa.
+- **«Más implicación de la IA significa más apoyo.»** La distribución dominada por la IA es el patrón que hay que vigilar, porque la parte humana del trabajo cognitivo se reduce mientras el volumen de producción aumenta. El sistema puede parecer más capaz precisamente cuando el usuario está haciendo menos.
 
 ## Conceptos conectados
 

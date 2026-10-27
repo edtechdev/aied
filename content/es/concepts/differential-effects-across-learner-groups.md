@@ -1,6 +1,7 @@
 ---
 title: Efectos diferenciales entre grupos de estudiantes
 created: "2026-09-28T20:12:29-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 type: concept
 ethics: [equity-in-ai-education, inclusive-learning, digital-divide, accessibility, neurodiversity, multilingual-learning, bias-mitigation, culturally-relevant-pedagogy]
 technology: [personalized-learning]
@@ -13,7 +14,7 @@ confidence: medium
 connected_faqs: [equity-ethics-pedagogical-safety-research, research-gaps-aied]
 reviewed_by: [editor]
 translation_of: concepts/differential-effects-across-learner-groups
-source_updated: "2026-10-11T09:05:00-04:00"
+source_updated: "2026-10-26T10:50:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -128,6 +129,12 @@ El hallazgo honesto de este estudio es lo delgadas que son algunas líneas. Cada
 - **Prefiera diseños igualadores cuando la evidencia lo permita.** El resultado de la segmentación de vídeos para el TDAH —todos mejoran, la brecha se cierra— es un objetivo más ajustado a un aula general que un complemento dirigido a un grupo.
 - **Tenga cuidado con la personalización que consume atributos demográficos.** El hallazgo de las [[marked-pedagogies-linguistic-bias-writing-feedback|marked pedagogies]] versa directamente sobre ese mecanismo, y se aplica a los chequeos de [[well-being|bienestar]], a los tutores [[affective-computing|afectivos]] y a los [[recommender-systems-and-learning-paths|sistemas de recomendación]] que perfilan a los estudiantes.
 - **Pruebe localmente, con el grupo que le importa, y con un resultado medido sin la herramienta.** Véase [[interpreting-and-applying-aied-research|Interpretar y aplicar la investigación en AIEd]] para los hábitos de valoración y [[research-methods-aied|Métodos de investigación en IA en la educación]] para los diseños que hacen defendible una prueba local.
+
+## Concepciones erróneas comunes
+
+- **«Las etiquetas de grupo capturan la variación que importa.»** **Las etiquetas de grupo esconden la variación que hay dentro de ellas**: en el metaanálisis sobre discapacidad, los estudiantes con **dificultades específicas del aprendizaje, discapacidad intelectual y del desarrollo** y otras categorías se agrupan en una misma estimación, de modo que la media del grupo no describe a ninguno de ellos.
+- **«Los análisis de subgrupos responden a la pregunta de los efectos diferenciales.»** Normalmente **son demasiado pequeños para responderla**: el [[ai-tutoring-micro-rct-gcse-science-2026|micro-ECA de ciencias de GCSE]] es inusualmente explícito al señalar que su contraste de **tratamiento** tiene potencia para el efecto global y no para las diferencias entre subgrupos. Un hallazgo de subgrupo sin potencia suficiente es una hipótesis, no un resultado.
+- **«Un efecto agrupado medio indica si un grupo concreto se beneficia.»** [[zhang-ai-students-disabilities-meta-analysis-2024|29 estudios (cuasi)experimentales]] se agruparon en **g de Hedges = 0,588 (IC del 95% [0,349; 0,826])** entre categorías de discapacidad. El intervalo describe la media de esas categorías, y «qué grupo, qué necesidad» es un análisis aparte.
 
 ## Conceptos conectados
 

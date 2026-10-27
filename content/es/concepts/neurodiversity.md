@@ -1,7 +1,7 @@
 ---
 title: Neurodiversidad
 created: "2026-09-28T20:10:38-04:00"
-updated: "2026-10-22T07:30:40-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 type: concept
 ethics: [equity-in-ai-education, inclusive-learning, neurodiversity]
 connected_faqs: [ai-guidance-children-under-13, ai-disabled-neurodivergent-learners]
@@ -9,7 +9,7 @@ audience: [learners, instructors, instructional designers]
 level: [special education, higher ed, k 12]
 confidence: high
 translation_of: concepts/neurodiversity
-source_updated: "2026-10-16T08:47:09-04:00"
+source_updated: "2026-10-26T09:10:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -80,6 +80,12 @@ El lado del riesgo tiene su propia literatura. [[seung-basham-cognitive-offloadi
 ## Conexiones
 
 La neurodiversidad conecta con la [[special-education|educación especial]], el [[inclusive-learning|aprendizaje inclusivo]], el [[universal-design-for-learning|diseño universal para el aprendizaje]] y la [[equity-in-ai-education|equidad en la educación con IA]]. Informa tanto de cómo se despliega la IA para la [[student-experience|experiencia del estudiantado]] como de cómo se diseñan las evaluaciones y los programas de alfabetización para ser justos ante la variabilidad cognitiva. Para ver cómo estos hallazgos se sitúan junto a otros grupos de aprendices —lengua, género, nivel socioeconómico, geografía—, véase [[differential-effects-across-learner-groups|Efectos diferenciales entre grupos de aprendices]].
+
+## Concepciones erróneas
+
+- **«La investigación sobre neurodiversidad es un rincón minoritario de la IAED.»** El campo se ha **reorganizado en torno a la [[generative-ai|IA generativa]] —15 de los 40 estudios—**, con los formatos inmersivos en segundo lugar, con 11. La literatura se movió con la tecnología en lugar de acumularse en torno a preguntas estables.
+- **«Más IA para la dislexia significa mejor apoyo.»** [[dabaghi-ai-dyslexia-education-review-2026|La revisión interdisciplinar de la IA para la dislexia (Dabaghi, D'Urso y Sciarrone, 2026)]] abarca **72 estudios entre 2018 y 2024** y encuentra la IA usada en una amplia gama de propósitos. La amplitud de aplicación no es evidencia de eficacia para ninguno de ellos.
+- **«Las adaptaciones son el marco adecuado para quien aprende de forma neurodivergente.»** [[neurodivergent-computing-students|Una encuesta a 24 estudiantes de informática neurodivergentes y 20 pares neurotípicos]] con cuatro entrevistas en profundidad encontró necesidades que son **requisitos generales de diseño** —tareas estructuradas, equipos pequeños y estables, roles explícitos— y no ajustes individuales concedidos tras un diagnóstico.
 
 ## Conceptos conectados
 

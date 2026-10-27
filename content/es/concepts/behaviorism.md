@@ -1,7 +1,7 @@
 ---
 title: Conductismo
 created: "2026-09-28T18:15:49-04:00"
-updated: "2026-09-28T18:15:49-04:00"
+updated: "2026-10-26T21:37:14-04:00"
 type: concept
 foundations: [learning-design]
 pedagogy: [behaviorism, learning-theories]
@@ -9,7 +9,7 @@ technology: [adaptive-learning, generative-ai, intelligent-tutoring]
 level: [higher ed]
 confidence: medium
 translation_of: concepts/behaviorism
-source_updated: "2026-09-28T21:37:06-04:00"
+source_updated: "2026-10-25T20:50:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -77,6 +77,16 @@ El conductismo también aparece en cómo quien aprende se encuentra con la IA co
 2. **Vigilar la brecha entre teoría y práctica.** Quien investiga debería comprobar si la mecánica conductista de una implementación de IA sirve al objetivo de aprendizaje declarado o replica en silencio la «trampa de Turing» de la IA como máquina de respuestas.([[ai-vocational-education-training-review]])
 3. **Combinar el conductismo con andamiajes más ricos.** Los diseños de retroalimentación inmediata son más eficaces cuando se insertan en un contexto más amplio de [[scaffolding|andamiaje]] y de [[self-regulated-learning|aprendizaje autorregulado]], en lugar de sostenerse solos como práctica pura.
 4. **Evaluar resultados observables *y* transferibles.** Los criterios de éxito conductistas (velocidad, precisión) deberían complementarse con medidas de si el aprendizaje se transfiere y se generaliza, según la [[transfer-of-learning|transferencia del aprendizaje]] y [[research-methods-aied]].
+
+## Concepciones erróneas
+
+**«El conductismo está obsoleto, así que su influencia en la IA educativa es una nota histórica.»** La mecánica conductista domina la práctica mientras está pasada de moda en la teoría: los bucles de refuerzo, los contadores de rachas, la retroalimentación inmediata de correcto/incorrecto y el desbloqueo por dominio son la arquitectura por defecto de la mayoría de los sistemas desplegados. Descartar la teoría mientras se despliegan sus mecanismos es la inconsistencia más extendida del campo, y significa que la crítica no es académica.
+
+**«Un cambio observable de conducta certifica el aprendizaje.»** Eso es justo lo que la IA rompe. La equivalencia de salida es el modo de fallo: cuando un modelo puede producir la conducta que el sistema recompensa, la respuesta observada ya no certifica el cambio interno a partir del cual el conductismo la infería. Un diseño conductista es tan válido como el supuesto de que la conducta tuvo que ser producida por quien aprende, y la IA generativa elimina ese supuesto sin cambiar el diseño.
+
+**«Los diseños conductistas son simplemente inferiores a los constructivistas.»** Encajan bien con objetivos específicos —fluidez, recuerdo factual, automaticidad procedimental— donde la retroalimentación inmediata y la repetición son de verdad lo que la tarea exige. El error no es el mecanismo; es usar un mecanismo cuya condición de validez (quien aprende debe producir la respuesta) ha dejado de cumplirse en silencio.
+
+**«Como la teoría está desacreditada, los sistemas construidos sobre ella pueden juzgarse solo por sus resultados.»** Los resultados son exactamente lo que la equivalencia de salida corrompe. Un sistema puede informar de resultados conductuales excelentes mientras el aprendizaje se ha desplazado a otro lugar, así que los sistemas de influencia conductista necesitan la medida sin ayuda más que cualquier otro tipo.
 
 ## Conceptos conectados
 - [[constructivist]]

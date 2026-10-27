@@ -1,7 +1,7 @@
 ---
 title: Creatividad
 created: "2026-09-28T18:23:55-04:00"
-updated: "2026-10-22T09:13:53-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 type: concept
 foundations: [critical-thinking, design-thinking]
 pedagogy: [constructivist, problem-solving]
@@ -10,7 +10,7 @@ audience: [learners]
 confidence: high
 discipline: [cs education, math education, writing education]
 translation_of: concepts/creativity
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-26T10:00:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -89,6 +89,12 @@ El principio de diseño recurrente en todos estos hallazgos es **mantener el pro
 ### Conexiones
 
 La creatividad se conecta con el [[critical-thinking|pensamiento crítico]] y con el aprendizaje [[constructivist|constructivista]]. La protegen los mismos [[scaffolding|andamiajes]] de [[reducing-ai-misuse|reducción del mal uso de la IA]] que preservan el aprendizaje, y los diseños de [[authentic-assessment|evaluación auténtica]] que recompensan el razonamiento original por encima de los productos pulidos.
+
+## Concepciones erróneas
+
+- **«Perturbar al estudiantado produce ganancias creativas.»** **La fricción no es ganancia creativa.** Las personas de IA contrarias impulsaron discurso de desafío y reflexión en el **38,2% de los grupos**, pero no produjeron **ninguna mejora medible del rendimiento creativo**. El discurso cambió y el resultado medido no.
+- **«La literatura de K-12 establece que la IA generativa mejora la creatividad.»** Una revisión de alcance guiada por PRISMA de **45 estudios (2017–2025)** muestra que la IA generativa sobre todo **potencia** la creatividad y **rara vez la mide**. El hallazgo dominante del campo es una inferencia a partir de la potenciación percibida, que no es una medición de resultados.
+- **«Más dependencia de la IA generativa significa más producción creativa.»** Entre **1.157 estudiantes de posgrado chinos**, la dependencia de la IA generativa se asoció **positivamente con la creatividad investigadora autodeclarada**, y la asociación es con el **autoinforme**, que es la medida más débil disponible del constructo.
 
 ## Conceptos conectados
 

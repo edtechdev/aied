@@ -1,14 +1,14 @@
 ---
 title: IA generativa
 created: "2026-09-25T03:07:36-04:00"
-updated: "2026-10-22T09:13:53-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 technology: [intelligent-tutoring, llm, prompt-engineering, rag]
 ethics: [hallucination-risk]
 confidence: high
 translation_of: concepts/generative-ai
-source_updated: "2026-10-16T08:47:09-04:00"
+source_updated: "2026-10-26T06:20:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -73,6 +73,27 @@ La generación de contenido también va más allá de las [[math-education|matem
 ### La IA generativa en ámbitos especializados: apoyo a la dislexia
 
 Una revisión sistemática interdisciplinar de 2026 (Dabaghi, D'Urso y Sciarrone, guiada por PRISMA, 2018-2024, n=72) encuentra que **la IA generativa está infrautilizada en el ámbito de apoyo a la dislexia**. La investigación sobre IA generativa (toda de 2024) se agrupa en [[conversational-ai|chatbots]] inteligentes, apoyo a la [[teacher-role|formación del profesorado]] y estudios exploratorios, y está superando rápidamente al [[machine-learning|aprendizaje automático]] clásico como herramienta de elección, pero la experimentación rigurosa y la validación en el mundo real siguen en gran medida ausentes. El análisis de tendencias futuras de la revisión apunta a materiales personalizados impulsados por IA generativa y retroalimentación adaptativa en tiempo real, modelos de diagnóstico [[multimodal|multimodales]] que integran seguimiento ocular, EEG y [[learning-analytics|analítica]] del comportamiento, [[intelligent-tutoring|sistemas de tutoría inteligente]] y agentes conversacionales impulsados por PLN, y herramientas de apoyo para el profesorado. Esto ilustra tanto la promesa de la IA generativa para la generación de contenido y el apoyo interactivo en un ámbito especializado y de alta necesidad como el riesgo de que su adopción vaya por delante de la base de evidencia.
+
+## Concepciones erróneas comunes
+
+- **«Un tamaño del efecto grande significa que la herramienta mejora el aprendizaje.»** La mayor estimación del campo —un [[meta-analysis-systematic-review|metaanálisis]] de 69 estudios que informa de *g* = 0,7 para ChatGPT y herramientas similares— agrupa el **éxito inmediato en la tarea**, no la retención, la transferencia ni la comprensión. El mismo problema se aplica a la estimación agrupada de 53 estudios (*g* = 0,40 en rendimiento, 0,72 en pensamiento de orden superior, 0,81 en motivación, 0,76 en escritura): son resultados medidos cerca de la intervención, en tareas parecidas a la intervención. Una auditoría de 14 metaanálisis que afirmaban que la IA mejora la educación encontró que **ninguno justificaba sus afirmaciones**. Trate cualquier cifra llamativa como evidencia sobre el desempeño en determinadas condiciones, y pregunte qué se midió y cuándo.
+- **«El modelo más nuevo lo arreglará.»** La generación del modelo no es la restricción vinculante. ChatGPT-5 igualó al profesorado humano en ítems objetivos de exámenes de farmacia (CCC 0,935–1,000) pero no en ítems de respuesta corta (≈0) ni de ensayo (0,341–0,854), y **una rúbrica estructurada no cerró la brecha de forma fiable**. Las ganancias de capacidad en tareas cerradas no se han trasladado proporcionalmente al trabajo abierto, que es donde vive la mayor parte de la evaluación.
+- **«Los datos de uso muestran que funciona.»** En el mapeo de 394 estudios, ChatGPT con una versión no especificada apareció en 94 estudios y la familia 3/3.5 en 66, de modo que una parte importante de las afirmaciones publicadas sobre capacidades describen **generaciones de modelos ya superadas**, y muchos estudios no informan de la versión. El comportamiento declarado está ligado a un modelo concreto y a una fecha concreta, lo que hace que las afirmaciones sin fecha sobre la «IA generativa» sean infalsables en lugar de generales.
+- **«Es seguro porque expertos anotaron el corpus.»** Un corpus anotado por varios expertos con 4.815 mensajes entre estudiantado e IA encontró que solo alrededor del 0,68% de los mensajes contenían el contenido dañino o fuera de tarea que el esquema de codificación estaba diseñado para detectar. Eso es un hallazgo sobre la tasa base, no sobre la seguridad: los eventos raros son raros, y las colas de fallo de un sistema son justamente los casos que un corpus de ese tamaño difícilmente logra caracterizar.
+
+## Qué significa esto para la práctica
+
+**Para el profesorado**
+
+- Diseñe la evaluación y la herramienta a la vez. Donde la IA es fuerte en ítems objetivos y poco fiable en ensayos, un plan de evaluación que pondera los ensayos tiene que incorporar verificación explícita en lugar de un borrador generado.
+- Indique el modelo y la versión en su propia evidencia de aula y en todo lo que informe. Las afirmaciones sin fecha no se pueden comprobar, y la versión a menudo explica el resultado más que la pedagogía.
+- Trate el horizonte de novedad como real y corto. Los efectos agrupados se miden cerca de la intervención; planifique el declive que documenta el trabajo longitudinal en lugar de sorprenderse por él.
+
+**Para quienes desarrollan**
+
+- No planifique la hoja de ruta con tamaños del efecto agrupados. Una auditoría de 14 metaanálisis encontró que ninguno justificaba sus afirmaciones, así que una afirmación de producto basada en una *g* llamativa se apoya en una metodología que no resiste el escrutinio.
+- Instrumente la tasa base antes de optimizarla. Una incidencia del 0,68% significa que la mayor parte del trabajo de calidad ocurre en la cola, y el desempeño en la cola es lo que determina si un despliegue es aceptable.
+- Informe la versión, la fecha y el tipo de tarea con cada cifra de referencia que publique, porque una afirmación de capacidad que las omite no es reproducible.
 
 ## Conceptos conectados
 

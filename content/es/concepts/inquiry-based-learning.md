@@ -1,7 +1,7 @@
 ---
 title: Aprendizaje basado en la indagación
 created: "2026-09-28T21:10:00-04:00"
-updated: "2026-10-09T17:40:00-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 type: concept
 foundations: [critical-thinking]
 pedagogy: [active-learning, inquiry-based-learning, metacognition, problem-based-learning, scaffolding, self-regulated-learning]
@@ -9,7 +9,7 @@ technology: [generative-ai]
 discipline: [stem education]
 confidence: high
 translation_of: concepts/inquiry-based-learning
-source_updated: "2026-10-09T09:50:00-04:00"
+source_updated: "2026-10-26T01:30:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -65,6 +65,16 @@ La estructura del ABI, impulsada por preguntas y centrada en el proceso, es el h
 El [[productive-failure|fracaso productivo (FP)]] es el pariente más estructurado del aprendizaje basado en la indagación: quienes aprenden exploran problemas y generan soluciones *antes* de la instrucción directa, y después consolidan. Ambos comparten la premisa de que los intentos generados por quien aprende (incluso los fallidos) [[prior-knowledge|activan el conocimiento previo]] y lo preparan para aprender de la instrucción. La [[research-methods-aied|investigación]] sobre FP en la era de la IA afina cómo debería la IA andamiar la indagación sin cortocircuitarla: [[kim-ai-productive-failure-adult-2026|Kim et al. (2026)]] derivan principios de diseño de IA para preservar el esfuerzo a través de la exploración del problema y la generación de soluciones; [[puech-pedagogical-steering-llm-productive-failure-2025|Puech et al. (2025)]] muestran que los tutores basados en LLM pueden dirigirse para retener respuestas y provocar múltiples intentos; las tareas de [[lukesova-clue-before-correction-2026|pista antes de la corrección]] ejemplifican un andamiaje basado en pistas (frente al directo) que mantiene al estudiantado haciendo el razonamiento. Esto conecta la indagación y el FP con el imperativo más amplio de que la IA no debe eliminar el [[desirable-difficulties|esfuerzo productivo]] mediante el cual se forma un aprendizaje duradero.
 
 En entornos de campo al aire libre el mismo imperativo se vuelve espacial: la IA generativa puede preestructurar lo que quienes aprenden advierten antes de que se encuentren con la evidencia, así que una secuencia que pone el campo primero y retiene la explicación generada hasta que se registran las observaciones e interpretaciones iniciales protege la indagación ([[geoscience-field-learning-genai-2026|Choi, 2026]]).
+
+## Concepciones erróneas
+
+**«La IA encaja de forma natural en el aprendizaje basado en la indagación porque ambos son exploratorios.»** El encaje depende por completo del diseño: la [[generative-ai|IA generativa]] y las herramientas de [[llm|LLM]] pueden servir como coinvestigadoras interactivas que apoyan el cuestionamiento y la investigación **solo cuando están diseñadas para preservar la propiedad de la pregunta por parte del estudiantado**. Usado de otro modo, un estudiante que explora sigue una respuesta en lugar de llevar a cabo una indagación, y las dos cosas se parecen desde fuera.
+
+**«Cualquier IA añadida a una unidad de indagación la mejora.»** La contribución de la IA tiene que aislarse de la indagación misma. [[ai-assisted-inquiry-ssi-climate|Gousopoulos (2026)]] lo hizo con un diseño de tres grupos en un estudio sobre el clima: la indagación asistida por IA superó a sus pares de solo indagación en **toma de decisiones (d = 0,69)**, con la evidencia situada en un resultado concreto y no en la superioridad general del enfoque.
+
+**«La indagación es no estructurada por definición.»** El profesorado andamia, y la estructura está en el diseño de la pregunta y en el ciclo de reflexión y no en la entrega de contenido. Quitar el andamiaje no hace la indagación más auténtica: la deja sin andamiaje.
+
+**«Las preguntas del estudiantado estarán bien formuladas si hay interés.»** Generar una pregunta abordable es la habilidad que se está desarrollando, y por eso un sistema que ofrece buenas preguntas ha realizado la habilidad de indagación que la actividad existe para enseñar.
 
 ## Conceptos conectados
 

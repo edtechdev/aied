@@ -1,7 +1,7 @@
 ---
 title: Enmarcar el uso de la IA para el estudiantado
 created: "2026-09-28T20:16:26-04:00"
-updated: "2026-10-22T09:13:53-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 type: concept
 foundations: [academic-integrity, ai-literacy]
 pedagogy: [collaborative-learning, motivation]
@@ -11,7 +11,7 @@ level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai, governance]
 translation_of: concepts/framing-ai-use-for-students
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-25T18:05:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -91,6 +91,16 @@ El estudiantado también queda enmarcado por los medios y el discurso público e
 - **Usar mensajes honestos y específicos** (por ejemplo, inoculación y advertencias de falibilidad) que construyan una cautela calibrada en lugar de confianza o desconfianza generalizadas.
 - **Vender el propósito.** Conecte el uso de la IA con el aprendizaje duradero y con la [[agency|agencia]] de quien aprende, y acompañe los mensajes con el apoyo que convierte la intención en adopción.
 - **Secuencia la herramienta según la fase de aprendizaje.** La afirmación práctica central del informe de consenso de 30 personas expertas es un orden: adquirir las ideas primero sin IA generativa, luego usarla para reforzar y consolidar lo aprendido, y después priorizar el pensamiento propio al aplicar esas ideas en contextos nuevos ([[genai-support-threaten-learning-k20-expert-consensus-2026|Kendeou, Greene & Nixon et al., 2026]]). Su consejo al estudiantado es más directo: las ganancias de rendimiento a corto plazo toman atajos que sacrifican el aprendizaje necesario para el éxito a largo plazo.
+
+## Concepciones erróneas
+
+**«Una política clara dice al estudiantado cuáles son las reglas, así que el encuadre es innecesario.»** El texto de una política no es encuadre, y la brecha se ve en la conducta: la mayoría del estudiantado usa IA generativa, **muchos no están seguros de si su propio uso cumple las normas**, y se apoyan en herramientas de acceso privado en lugar de las que ofrecen las instituciones. Un estudiante que no sabe si cumple no está siendo destinatario de ninguna comunicación, diga lo que diga el documento; por eso la página sitúa «decir por qué, no solo qué» en su método.
+
+**«Publicar una política y ofrecer una herramienta con licencia cubre la responsabilidad institucional.»** El acceso y la adopción son resultados distintos, y esta página existe porque la palanca está en el segundo. Las [[guardrails|barandillas]] estructurales cambian el entorno de forma automática, pero el [[scaffolding|andamiaje]], la formación en alfabetización y las políticas de uso solo arraigan cuando el estudiantado está de verdad convencido de su sentido: esa es la dependencia del compromiso que la página nombra.
+
+**«Prohibir una herramienta elimina la conducta.»** La reubica en herramientas que usted no puede ver. El estudiantado ya prefiere las herramientas de acceso privado a las que ofrecen las instituciones, así que una prohibición empuja el uso fuera del único entorno donde son posibles el apoyo, el registro o la orientación. La tarea del encuadre es hacer atractiva la conducta permitida, no hacer más difícil de observar la prohibida.
+
+**«El encuadre es persuasión, así que es más retórica que diseño.»** El encuadre que describe esta página va acompañado de diseño: expectativas formuladas con claridad y de forma reiterada *mientras se diseña en torno al estudiantado*. Los mensajes entregados en lugar de diseñados para la situación son la versión que fracasa, porque el estudiantado nota la diferencia entre un compromiso declarado y uno real.
 
 ## Conceptos conectados
 

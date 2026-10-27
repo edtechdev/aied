@@ -1,7 +1,7 @@
 ---
 title: Pensamiento computacional
 created: "2026-09-28T19:11:16-04:00"
-updated: "2026-10-22T07:28:33-04:00"
+updated: "2026-10-26T21:37:14-04:00"
 type: concept
 foundations: [ai-literacy]
 technology: [adaptive-learning, generative-ai, llm, prompt-engineering]
@@ -9,7 +9,7 @@ discipline: [cs education, stem education]
 level: [k 12]
 confidence: high
 translation_of: concepts/computational-thinking
-source_updated: "2026-10-15T10:00:00-04:00"
+source_updated: "2026-10-26T06:45:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -71,6 +71,13 @@ Para el profesorado, el mensaje constante es que el PC se desarrolla mediante un
 El pensamiento computacional es el fundamento cognitivo compartido que subyace a la [[ai-literacy|alfabetización en IA]] y al [[critical-thinking|pensamiento crítico]], el núcleo curricular de la [[cs-education|enseñanza de la informática]] y de la informática en [[k-12|K-12]], y el objetivo conceptual al que mejor sirven [[educational-robotics|la robótica educativa]], el [[game-based-learning|aprendizaje basado en juegos]] y el [[project-based-learning|aprendizaje basado en proyectos]]. Lo profundizan los [[llm|grandes modelos de lenguaje]] y la [[generative-ai|IA generativa]] cuando se usan como herramientas de andamiaje, y es la habilidad que las taxonomías de ideas erróneas del estudiantado y las evaluaciones conscientes del PC pretenden medir. El profesorado lo desarrolla mediante la [[teacher-education|formación docente]] y la [[professional-training|formación profesional]], y se transfiere entre dominios, incluida la [[physics-education|educación en física]] y la [[stem-education|educación STEM]] en general.
 
 - **El pensamiento computacional predice el aprendizaje con asistentes de IA.** [[computational-thinking-aica-2026|El estudiantado de octavo curso]] con un pensamiento computacional alto superó significativamente a sus pares con PC bajo en un curso de asistentes de IA para programar, usando el asistente para comprender en lugar de para recuperar respuestas.
+
+## Concepciones erróneas
+
+- **«La IA elimina la necesidad del pensamiento computacional.»** El [[chat-debugging-human-ai-collaboration-circuits|estudio sobre depuración con chat]] encontró que, cuando estudiantes de grado depuraban circuitos con ayuda de LLM, sus **carencias en conceptos fundamentales y en pensamiento crítico —y no la herramienta— eran el factor limitante**. El PC es lo que permite a quien aprende evaluar una salida en lugar de aceptarla, que es precisamente la capacidad que hace utilizable la asistencia de IA.
+- **«La asistencia de IA iguala las condiciones en entornos con pocos recursos.»** Puede hacerlo, bajo ciertas condiciones. Un **cuasiexperimento de 14 semanas con 103 estudiantes de primer año en Nigeria** encontró que el aprendizaje basado en problemas apoyado por IA (ChatGPT y Teachable Machine) produjo ganancias, y la IA como «par más capaz» sostiene el PC donde falta otra provisión. Pero eso es un hallazgo sobre una intervención estructurada, no una propiedad de dar un chatbot al estudiantado.
+- **«Los LLM no pueden evaluar el PC de forma fiable.»** [[llm-computational-thinking-physics-2026|La investigación sobre evaluación del PC en física]] encontró que los LLM pueden **replicar a los evaluadores humanos** al puntuar el crecimiento en Prácticas de Datos y Prácticas de Resolución Computacional de Problemas en cursos de matrícula numerosa. El obstáculo para escalar la evaluación del PC ha sido la capacidad de evaluación, y esa restricción se está suavizando, lo que desplaza el problema de diseño a si el instrumento mide el PC o el cumplimiento.
+- **«El PC es una habilidad de programación que la robótica resulta que enseña.»** Una **revisión sistemática de 95 estudios** confirma que la robótica fomenta el PC, la creatividad y la resolución de problemas, pero también que **el entorno modera el resultado**: la entrega [[game-based-learning|basada en juegos]] conviene a entornos informales, mientras que la gamificación difiere en los formales. El PC es un conjunto de prácticas que se transfieren de forma desigual, así que la afirmación de transferencia necesita el diseño de tarea que realmente se usó.
 
 ## Conceptos conectados
 

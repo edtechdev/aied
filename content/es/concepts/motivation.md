@@ -1,7 +1,7 @@
 ---
 title: Motivación
 created: "2026-09-28T18:17:50-04:00"
-updated: "2026-10-24T08:21:10-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [motivation, self-determination-theory, student-engagement]
@@ -10,7 +10,7 @@ connected_faqs: [ai-anxiety-wellbeing, asynchronous-online-courses-ai]
 audience: [learners]
 confidence: high
 translation_of: concepts/motivation
-source_updated: "2026-10-23T08:03:41-04:00"
+source_updated: "2026-10-26T10:00:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -83,6 +83,12 @@ La motivación también opera antes de la percepción de la tecnología, y no so
 ## Conexiones con conceptos relacionados
 
 La motivación es el constructo padre de la [[self-determination-theory|teoría de la autodeterminación]], que especifica las necesidades psicológicas (autonomía, competencia, relación con los demás) que sostienen la motivación intrínseca. Se conecta con la [[student-experience|experiencia del estudiante]] como capa vivencial de la implicación motivada, con la [[student-engagement|implicación del estudiante]] como su dimensión medible y con la [[affective-computing|computación afectiva]] por los mecanismos emocionales que configuran la motivación. La motivación también se conecta con la [[cognitive-offloading|dependencia excesiva]] (la IA que reduce el [[desirable-difficulties|esfuerzo productivo]]), con el [[self-regulated-learning|aprendizaje autorregulado]] (quienes están motivados se autorregulan) y con el [[teacher-role|papel docente]] (la motivación se aplica a los educadores tanto como al estudiantado).
+
+## Concepciones erróneas
+
+- **«El efecto de la IA generativa sobre la motivación es una ganancia limpia y grande.»** Un metaanálisis de 42 estudios (56 tamaños de efecto, 6.059 estudiantes) encontró un efecto sobre la motivación de g = 0,764 (IC del 95% [0,566; 0,962]) **pero con I² = 93,7%**. Una heterogeneidad tan alta significa que la cifra agrupada describe un conjunto de estudios que no coinciden entre sí, así que es un promedio sobre tratamientos inconsistentes y no un efecto reproducible.
+- **«Reducir la frustración es lo mismo que sostener la motivación.»** Un [[rct|ECA]] de tres brazos encontró que un tutor con andamiaje y un ChatGPT sin restricciones **redujeron la frustración por igual** (3,21 y 3,13). Dos diseños muy distintos produjeron el mismo resultado afectivo, así que los datos de frustración no permiten distinguirlos.
+- **«Un diseño motivador es un buen diseño.»** En **222 estudiantes de primer curso de secundaria**, un formato de diálogo entre docentes **elevó más la motivación ARCS** que la alternativa, **sin mejorar la evaluación global**. La motivación se movió y la calidad juzgada no.
 
 ## Conceptos conectados
 

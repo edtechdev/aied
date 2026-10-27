@@ -2,7 +2,7 @@
 connected_resources: [clarity, writing-rhetoric-studies-in-the-loop]
 title: Escritura
 created: "2026-09-28T19:10:33-04:00"
-updated: "2026-10-24T08:21:12-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading]
 pedagogy: [metacognition]
@@ -12,7 +12,7 @@ level: [higher ed]
 connected_faqs: [writing-instruction-ai-best-practices, developing-ai-tutor]
 confidence: high
 translation_of: concepts/writing-education
-source_updated: "2026-10-24T08:07:00-04:00"
+source_updated: "2026-10-26T09:45:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -125,6 +125,18 @@ La educación de la escritura se conecta con la [[automated-essay-scoring|evalua
 
 - **La detección no es una estrategia de integridad para la escritura.** [[bassett-ai-detectors-education-2026|Bassett et al. (2026)]] sostienen que las puntuaciones de los detectores no pueden cumplir el estándar de balance de probabilidades que exigen los casos de integridad, y que la dicotomía humano-o-IA malinterpreta el trabajo creado *con* IA en lugar de *por* IA, y recomiendan que las instituciones muevan el presupuesto de la detección y la vigilancia hacia el [[authentic-assessment|diseño de la evaluación]] y la [[ai-literacy|alfabetización en IA]].
 
+## Concepciones erróneas
+
+**«El apoyo de la IA a la escritura es solo escritura más rápida.»** La escritura es un proceso cognitivo, social y retórico, no meramente una salida, y por eso la IA puede desplazar justo el trabajo mental que hace de la escritura una actividad de aprendizaje. La orientación de diseño que se sigue es *acompañar, no redactar*: que el sistema cuestione y critique los esquemas mientras quien aprende produce la prosa. Una herramienta que genera el borrador ha eliminado el pensamiento que la tarea existía para desarrollar, por bueno que sea el borrador.
+
+**«Una mejor evaluación de la escritura necesita un modelo más grande.»** Necesita más muestras. En un estudio de cribado universal de los cursos 3 a 6, las puntuaciones de juicio comparativo de los LLM convergieron con las rúbricas de los investigadores en **r = 0,59–0,73**, y promediar las **tres** oleadas de cribado elevó la validez de criterio a **β = 0,68–0,74**: una mejora que viene del diseño y no de la escala. Recurrir a un modelo mayor cuando el problema de fiabilidad es el muestreo es la palanca equivocada.
+
+**«La retroalimentación de la IA y la de los pares son sustitutos.»** Se combinan. En un curso chino de EFL de 10 semanas, añadir la retroalimentación de ChatGPT *antes* de la revisión entre pares elevó la implicación conductual, afectiva y cognitiva (η² parcial de **0,28 a 0,32**) y mejoró las puntuaciones de escritura en todos los casos. La secuencia es la que hace el trabajo: la pasada de la IA preparó al estudiantado para la pasada entre pares en lugar de sustituirla.
+
+**«El estudiantado actúa sobre la retroalimentación de la IA cuando se le ofrece.»** La adopción es selectiva. [[biology-undergraduates-ai-enabled-feedback-scientific-writing-2026|Weston y Long (2026)]] siguieron a dos equipos de grado de biología que revisaban la introducción de una propuesta con la retroalimentación de IA construida por la docente: se atendieron 10 de 22 comentarios, las eliminaciones superaron a las adiciones, y los comentarios que exigían juzgar la coherencia o el respaldo de las afirmaciones se ignoraron por completo.
+
+**«Un modelo puede sustituir el patrón de retroalimentación del profesorado.»** En la evidencia no lo ha hecho. El seguimiento de un docente a lo largo de las etapas del borrador encontró un movimiento significativo en **cinco** tipos de foco de retroalimentación —con el *Elogio* subiendo del **26,9%** en los borradores iniciales al **84,9%** en los finales—, mientras que el modelo más cercano se movió en tres y el más pequeño en ninguno, y ningún modelo replicó el patrón. La retroalimentación del profesorado redistribuye el énfasis según la etapa del borrador; la de los modelos tiende a mantener su distribución. Tratar la segunda como equivalente pierde la trayectoria.
+
 ## Conceptos conectados
 
 - [[automated-essay-scoring]]
@@ -188,3 +200,4 @@ La educación de la escritura se conecta con la [[automated-essay-scoring|evalua
 - [[genai-srl-l2-writing-scale-2026]] — Una escala de AAR con IA generativa en seis dimensiones para la escritura en L2, con la regulación ambiental (gobernanza de la herramienta) como dimensión distintiva
 - [[ai-peer-feedback-l2-writing-engagement-2026]] — Emparejar la IA con la retroalimentación entre pares eleva la implicación y las puntuaciones de escritura
 - [[when-students-prefer-ai-scoring-feedback-2026]] — El estudiantado quiere a la persona en el extremo de altas consecuencias
+- [[biology-undergraduates-ai-enabled-feedback-scientific-writing-2026]] — Uso de la retroalimentación habilitada por IA por parte de estudiantes de grado de biología para revisar escritura científica: recepción y barreras (Weston y Long 2026)

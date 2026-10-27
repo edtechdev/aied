@@ -1,14 +1,14 @@
 ---
 title: Desarrollo y preparación profesional
 created: "2026-09-28T21:03:34-04:00"
-updated: "2026-10-24T08:23:05-04:00"
+updated: "2026-10-26T21:37:14-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [anxiety-and-stress, professional-training]
 level: [higher ed, adult learning]
 confidence: high
 translation_of: concepts/career-development-and-readiness
-source_updated: "2026-10-22T10:05:00-04:00"
+source_updated: "2026-10-26T08:20:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -57,6 +57,14 @@ Un tema recurrente es que el desarrollo profesional en la era de la IA debería 
 ## Conexiones con conceptos relacionados
 
 El desarrollo y la preparación profesional se conectan con la [[professional-training|formación profesional]] (la dimensión de habilidades vocacionales), la [[ai-literacy|alfabetización en IA]] (la dimensión de competencia en IA), la [[self-efficacy|autoeficacia]] y la [[motivation|motivación]] (los recursos psicológicos que sostienen la adaptación), la [[anxiety-and-stress|ansiedad y el estrés]] (la ansiedad profesional como componente clave), la [[higher-ed|educación superior]] y la [[k-12|K-12]] (los entornos donde se construye la preparación) y la [[student-experience|experiencia del estudiantado]] (las preocupaciones profesionales como parte de la experiencia de quien aprende).
+
+## Concepciones erróneas
+
+- **«La ansiedad ante la IA es una disposición general que se puede disipar tranquilizando.»** [[duan-ai-anxiety-career-decisions-college-2026|Duan et al.]] confirman con un modelo de ecuaciones estructurales que la ansiedad ante la IA **perjudica las decisiones profesionales en gran medida a través de una adaptabilidad profesional erosionada (63,35% del efecto total)**. El mecanismo es específico: la ansiedad opera suprimiendo la capacidad de adaptarse, así que las tranquilizaciones dirigidas a los sentimientos no tocan el mediador que porta el efecto.
+
+- **«La adaptabilidad profesional es una habilidad blanda secundaria frente a la competencia técnica.»** [[wang-career-adapt-abilities-ai-anxiety-english-2026|Wang (2026)]] muestra que la adaptabilidad profesional **reduce la ansiedad ante la IA**, lo que la convierte en una intervención aguas arriba y no en un resultado aguas abajo. Construir adaptabilidad atiende el mecanismo; tratarla como un extra deja intacto el mediador.
+
+- **«La ansiedad ante la IA se distribuye de manera uniforme.»** [[ustun-ai-anxiety-job-finding-anxiety-2026|Üstün y Danacıoğlu]] encuentran que la ansiedad ante la IA y las actitudes negativas hacia ella predicen la ansiedad por encontrar empleo tras la graduación en **1.057 estudiantes**, con patrones distintos para **las mujeres y el estudiantado de ciencias sociales**. Una intervención uniforme asigna mal el apoyo.
 
 ## Conceptos conectados
 - [[professional-training]]

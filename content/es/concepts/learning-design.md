@@ -1,7 +1,7 @@
 ---
 title: Diseño de aprendizaje
 created: "2026-09-28T21:03:34-04:00"
-updated: "2026-10-03T02:57:43-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 type: concept
 foundations: [ai-literacy, curriculum-design, educational-development, learning-design, teacher-role]
 pedagogy: [scaffolding]
@@ -10,9 +10,9 @@ audience: [instructors, faculty developers]
 level: [higher ed]
 connected_faqs: [top-10-findings-ai-education-instructors, incorporating-ai-literacy, designing-ai-into-learning, designing-educational-ai-software, asynchronous-online-courses-ai]
 confidence: high
-connected_resources: [claw-ed, education-agent-skills, edugems, id-toolbox, idstack, lesson-md, liascript, master-instructional-design, onmicro-ai, pedagogical-promptbook, playlab, vibes-diy]
+connected_resources: [claw-ed, education-agent-skills, edugems, id-toolbox, idstack, lesson-md, liascript, master-instructional-design, onmicro-ai, pedagogical-promptbook, playlab, vibes-diy, intelligent-textbooks, learning-design-wiki]
 translation_of: concepts/learning-design
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-26T11:15:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -45,6 +45,8 @@ La analítica del aprendizaje y la IA generativa apoyan partes distintas del dis
 ### Temas clave de la investigación
 
 **La creación de contenidos asistida por IA** es la aplicación más directamente transformadora. **[[curriculum-as-code-instructional-design-2026|Curriculum as Code]]** presenta una arquitectura de seis fases que integra IA generativa con LaTeX y Python para automatizar la creación de materiales de [[stem-education|STEM]], validada en 8 módulos y 28 contextos de proyecto con valoraciones de calidad del estudiantado de 8,5-9,9/10. **[[instructional-agents-multi-agent-course-gen|Instructional Agents]]** usa un marco multiagente estructurado en torno al modelo ADDIE, con agentes basados en roles (profesorado docente, diseñador instruccional, coordinador de curso) que colaboran para generar materiales de curso completos. **[[courseblueprint-adaptive-video-generation|CourseBlueprint]]** ofrece una canalización estructurada para la [[video-education|generación de vídeo]] [[pedagogy|pedagógica]] adaptativa fundamentada en corpus de cursos, y demuestra que una estructura pedagógica explícita —y no solo la fluidez con la IA— es esencial para generar contenidos educativos. Las plataformas de [[generative-ai|IA generativa]] también pueden encarnar principios de diseño de aprendizaje en los contenidos que producen: [[ai-modeling-problem-generation-platform-2026|una plataforma impulsada por IA para generar problemas de modelización matemática]] combinó principios de diseño consolidados con [[prompt-engineering|generación aumentada por recuperación]], desarrollada mediante el enfoque ADDIE para producir tareas y recomendaciones pedagógicamente fundamentadas de las que carecen los generadores de contenido convencionales. Sin embargo, el rendimiento de esa generación de contenidos y lecciones asistida por IA está mediado por la propia experiencia del profesorado: [[choi-teacher-ai-interaction-lesson-design-2026|Choi et al. (2026)]] encontraron que el profesorado experimentado adapta críticamente las ideas de lección generadas por IA a su estudiantado y su contexto (volviendo a preguntar y elaborando sobre la salida), mientras que las personas noveles tienden a aceptar directamente las sugerencias de la IA; así, el valor pedagógico de las herramientas de contenido con IA depende de la experiencia y la competencia en IA del profesorado, y no solo de la herramienta. Una revisión sistemática del [[wang-teacher-ai-co-design-review-2026|co-diseño docente-IA de tareas de aprendizaje]] (Wang, Liu e Islam 2026) confirma el patrón a escala en 28 estudios (2015-2025): la IA generativa se usa principalmente para planificar lecciones, generar prompts e ideación creativa, y el modo de colaboración dominante es la IA como asistente o generador de contenido y no como co-diseñadora más plena, con la eficiencia, la capacidad de respuesta, la [[creativity|creatividad]] y la [[equity-in-ai-education|equidad]] apareciendo de forma recurrente como posibilidades. [[talebzadeh-ai-group-activity-roles-2026|Talebzadeh (2026)]] afina el hallazgo sobre la experiencia docente para el diseño de actividades grupales: el profesorado experimentado produce arquitecturas de roles más ricas, más sinérgicas y mejor alineadas con la ZDP en actividades cooperativas diseñadas con IA que las personas noveles, con independencia de su familiaridad con la IA, y enmarca la «alfabetización en prompts pedagógicos» como la palanca que convierte la salida de la IA en un [[collaborative-learning|aprendizaje grupal diferenciado]] eficaz.
+
+El ensayo de Aila pone una cifra de tiempo de planificación a ese patrón. El profesorado de sus escuelas primarias aleatorizadas dedicó 2,51 horas semanales a preparar clases con la herramienta frente a 3,32 horas sin ella, y aun así la persona docente mediana planificó solo del 21% al 40% de las lecciones desde cero, que es el caso al que atiende una herramienta de planificación desde cero ([[roy-aila-lesson-planning-teacher-choices-2026|Roy et al., 2026]]).
 
 Donde los materiales generados se quedan cortos es en el encaje curricular: siete docentes de matemáticas valoraron los problemas de fracaso productivo generados por IA como cercanos a los humanos en calidad global (M = 17,19 frente a 17,43 sobre 25) pero más bajos en alineación curricular (M = 2,57 frente a 3,29), de modo que los problemas generados aún necesitaban edición en cuanto a longitud, nivel de lectura y elementos visuales ([[rhaimi-productivemath-2025|Rhaimi et al. (2025)]]).
 
@@ -95,6 +97,14 @@ Fowlin et al. (2026) añaden un movimiento operativo para decidir dónde entra l
 **Evaluar contra un punto de referencia, no contra sensaciones.** Si está construyendo un agente de diseño instruccional, evalúelo contra un punto de referencia estandarizado y fundamentado en teoría (por ejemplo, [[jeon-isd-agent-bench-2026|ISD-Agent-Bench]]) para poder medir si fundamentarse en un marco real de ISD mejora de verdad la salida frente a un LLM genérico.([[jeon-isd-agent-bench-2026]])
 
 - **La IA está remodelando la práctica del diseño instruccional.** [[kibar-ilgaz-ai-instructional-design-review-2026|Kibar e Ilgaz (2026)]] [[meta-analysis-systematic-review|revisan sistemáticamente]] 28 estudios (2020-2025) y encuentran que la IA ayuda a quienes diseñan con la generación de contenidos, las plantillas y la personalización, y se conceptualiza como compañera de trabajo, colaboradora o socia más que como una simple herramienta, aunque la alineación pedagógica y la preparación de los profesionales siguen siendo retos.
+- **La actividad documentada se concentra en una fase del ciclo.** En una revisión de 78 estudios sobre diseño instruccional apoyado por IA, la actividad de la fase de Diseño aparece en **74 de 78 estudios (95%)** y la de Desarrollo en 44 (56%), mientras que el Análisis llega solo a 11 (14%), la Evaluación a 10 (13%) y la Implementación a 7 (9%), y **ningún estudio examinó el apoyo de la IA a lo largo del ciclo ADDIE completo**. El ciclo es una aspiración que la base de evidencia no cubre, algo que importa a cualquiera a quien se le venda el «desarrollo de cursos impulsado por IA» como una capacidad de extremo a extremo ([[spyropoulou-genai-instructional-design-systematic-review-2026|Spyropoulou y Kameas, 2026]]).
+- **Tres roles de la IA, distribuidos jerárquicamente.** El uso *generativo* —la IA produciendo contenido de diseño bajo la dirección del educador— domina en el **96% de los estudios**; el uso de *andamiaje*, en el que la IA estructura el razonamiento de quien diseña, aparece en el 35%; el uso *evaluativo*, en el que la IA valora la calidad del artefacto, en el 21%. El campo está usando abrumadoramente la IA para fabricar cosas y no para interrogar sus propias decisiones de diseño, que es lo contrario de la configuración de amigo crítico que la revisión señala como pedagógicamente prometedora.
+
+## Concepciones erróneas comunes
+
+- **«La planificación de clases con IA devuelve tiempo al profesorado.»** El profesorado de escuelas primarias aleatorizadas **dedicó 2,51 horas semanales a preparar clases con la herramienta frente a 3,32 horas sin ella**, y aun así **la persona docente mediana planificó solo del 21% al 40% de las lecciones desde cero**. Se ahorró tiempo y la planificación no se volvió sustancialmente más minuciosa: el ahorro se acumuló en lugar de reinvertirse.
+- **«El co-diseño con IA está bien evidenciado.»** Una revisión sistemática del [[wang-teacher-ai-co-design-review-2026|co-diseño docente-IA de tareas de aprendizaje]] **confirma el patrón a escala en 28 estudios**, lo que describe una práctica consistente y no demuestra resultados superiores.
+- **«La rúbrica es un insumo fijo.»** La rúbrica funciona como una **interfaz mediadora entre la intención pedagógica humana y la inferencia de la máquina**: tratar los criterios de evaluación como **revisables** es lo que permite que el instrumento transporte la intención del educador. Una rúbrica fija traslada el encuadre por defecto de la máquina a la evaluación.
 
 ## Conceptos conectados
 
@@ -125,6 +135,7 @@ Fowlin et al. (2026) añaden un movimiento operativo para decidir dónde entra l
 - [[stakeholders]] — Paraguas: personas y audiencias en la educación con IA (quienes aprenden, docentes, diseñadores, administradores, responsables de políticas)
 
 ## Artículos conectados
+- [[roy-aila-lesson-planning-teacher-choices-2026]] — Un ahorro medido de tiempo de planificación junto al hallazgo de que el profesorado planifica solo del 21% al 40% de las lecciones desde cero
 - [[powerful-learning-with-emerging-technology-2025]] — Aprendizaje potente con tecnología emergente
 - [[claassen-learning-analytics-genai-learning-design-2026]] — Analítica del aprendizaje e IA generativa en la toma de decisiones de diseño de aprendizaje
 - [[tang-chatbots-learning-design-2026]] — Uso de chatbots en el diseño de aprendizaje: quienes diseñan se detienen en los resultados y la pedagogía más que en la generación de contenidos (Tang et al. 2026)

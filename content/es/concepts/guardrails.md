@@ -1,7 +1,7 @@
 ---
 title: Salvaguardas
 created: "2026-09-28T21:08:00-04:00"
-updated: "2026-10-24T08:24:05-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 type: concept
 technology: [human-in-the-loop-ai, llm, prompt-engineering, rag, reinforcement-learning]
 ethics: [ai-sycophancy, bias-mitigation, pedagogical-safety]
@@ -9,7 +9,7 @@ level: [k 12]
 confidence: high
 connected_faqs: [asynchronous-online-courses-ai]
 translation_of: concepts/guardrails
-source_updated: "2026-10-22T10:05:00-04:00"
+source_updated: "2026-10-25T19:00:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -91,6 +91,36 @@ Los dos están estrechamente acoplados: casi todas las técnicas de salvaguarda 
 5. **Exigir supervisión humana.** Control de calidad del profesorado en el bucle antes del despliegue y auditoría continua del trato diferencial.
 
 - **Salvaguardar la tutoría procedimental con reglas integradas.** [[rule-integrated-llm-tutoring-primary-math-2026|Looi, Liu y Sun (2026)]] concretan estos principios en un conjunto de salvaguardas auditable para un tutor de matemáticas basado en [[llm]]: una **puerta de corrección numérica** con una salvaguarda de incertidumbre para que el tutor nunca asuma un compromiso epistémico injustificado, **restricciones de salida** que imponen brevedad y progresión en micropasos para gestionar la carga cognitiva, un **límite antipistas** que institucionaliza el principio de la lógica primero devolviendo al estudiante la agencia computacional, y una **puerta de despedida** que codifica la distinción entre finalización auténtica y terminación prematura. Estas reglas se consolidaron como reglas de arquitectura de prompts reproducibles y validadas en un piloto de aula con 40 estudiantes, un modelo de cómo traducir principios de [[pedagogical-safety|seguridad]] en salvaguardas auditables y replicables.
+
+## Implicaciones para la práctica
+
+**Para el profesorado**
+
+- Juzgue un tutor por su rendimiento sin ayuda y no por el rendimiento en la práctica. En el ensayo de campo aleatorizado, un tutor GPT-4 sin salvaguardas elevó el rendimiento en la práctica **+48%** mientras *reducía* las puntuaciones posteriores de los exámenes sin ayuda en **17%**, y la versión de «pista, no respuesta» eliminó el daño. Toda señal de aula generada con la herramienta presente es la inflada.
+- Cuando no pueda cambiar la herramienta, cambie lo que se califica sin ella. La medida sin ayuda es lo que hace visible la cuestión de las salvaguardas.
+- Trate la «amabilidad» como un parámetro de diseño con un modo de fallo: un tutor que nunca replica ni corrige puede satisfacer al estudiantado mientras elimina la [[feedback|retroalimentación]] correctiva que el aprendizaje necesita.
+
+**Para quienes desarrollan**
+
+- Incorpore la salvaguarda en la ruta de interacción, no en una instrucción de prompt que un estudiante decidido pueda esquivar. El patrón «pista, no respuesta» es el valor predeterminado respaldado empíricamente.
+- Reconozca que los umbrales son decisiones de política y no optimizaciones. Mover un corte de toxicidad de 0,3 a 0,7 redujo los prompts etiquetados del 35,62% al 12,4%; en un detector de estafas cambió 15 falsas alarmas y 18 estafas no detectadas por 2 y 36. Ningún corte elimina la disyuntiva, así que exponga la elección a la institución en lugar de enterrarla en una constante.
+- Diseñe para el fallo silencioso. Los fallos dañinos aquí no son salidas tóxicas sino tutores que responden correctamente y erosionan el aprendizaje, o que rechazan de forma uniforme y consolidan la desigualdad.
+
+**Para quienes investigan y auditan**
+
+- Informe de las evaluaciones de salvaguardas frente a resultados sin ayuda; una salvaguarda que se sostiene en la sesión mientras deja el aprendizaje plano es un éxito parcial que las cifras de práctica malinterpretarán.
+- Audite la justicia en los patrones de rechazo y de apoyo, ya que una salvaguarda aplicada de forma uniforme puede aún distribuir el beneficio de forma desigual.
+- Informe del umbral del clasificador utilizado junto con cualquier afirmación de seguridad, porque la tasa de daño reportada no es comparable entre umbrales.
+
+## Concepciones erróneas
+
+**«Una salvaguarda es un filtro que se acopla a un modelo.»** Las salvaguardas son un conjunto por capas de controles que abarcan el diseño de prompts, el anclaje en conocimiento, la modelización de recompensas, el control de calidad del despliegue y la auditoría continua, y las capas no son intercambiables. Un filtro de contenido se sitúa en la salida; el patrón «pista, no respuesta» se sitúa en el prompt y determina lo que el sistema está dispuesto a hacer en absoluto. En el ensayo de campo aleatorizado, la versión con salvaguardas eliminó el daño al aprendizaje que la versión sin ellas creaba, lo que es una propiedad del diseño de la interacción y no del filtro.
+
+**«Si el modelo no produce contenido dañino, el sistema es seguro para quien aprende.»** El daño suele ser silencioso. Los fallos de tutoría más dañinos no son salidas tóxicas sino tutores que responden correctamente y erosionan el aprendizaje, o que rechazan de forma uniforme y consolidan la desigualdad: fallos ante los que un cribado de toxicidad es estructuralmente ciego, porque nada en ellos es ofensivo. Superar una auditoría de contenido es una condición necesaria que se informa como si fuera suficiente.
+
+**«Los umbrales de las salvaguardas son decisiones de ingeniería que hay que ajustar.»** Un umbral es una decisión de política con un coste distributivo. Mover un corte de toxicidad de 0,3 a 0,7 redujo los prompts etiquetados del **35,62% al 12,4%**; en un detector de estafas cambió **15 falsas alarmas y 18 estafas no detectadas por 2 y 36**. Ningún corte elimina la disyuntiva: solo decide qué error prefiere la institución, y esa decisión pertenece a la institución y no a una constante predeterminada.
+
+**«La auditoría de justicia es una preocupación separada de la adecuación de las salvaguardas.»** Los patrones de rechazo y de apoyo distribuyen el beneficio de forma desigual incluso cuando se aplican por igual, y una tasa media de daño oculta qué estudiantes lo absorben. La auditoría tiene que formar parte de la especificación de la salvaguarda, no ser un estudio encargado después.
 
 ## Conceptos conectados
 

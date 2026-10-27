@@ -1,7 +1,7 @@
 ---
 title: Gobernanza de la IA
 created: "2026-09-25T04:32:03-04:00"
-updated: "2026-10-24T08:21:18-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 type: concept
 foundations: [ai-education]
 ethics: [ethics, privacy]
@@ -11,7 +11,7 @@ confidence: high
 institutions: [change-management, educational-policy-ai, regulation]
 connected_resources: [institutional-ai-readiness-pack, campus-ai-framework, campus-ai-development]
 translation_of: concepts/governance
-source_updated: "2026-10-23T09:20:00-04:00"
+source_updated: "2026-10-26T11:40:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -54,6 +54,8 @@ La gobernanza de la IA en la educación es cada vez más urgente porque la [[gen
 
 
 - **La trampa tecnosolucionista y el déficit de política:** una revisión sistemática de 65 estudios sobre IA y [[social-emotional-learning|aprendizaje socioemocional]] ([[policy-deficit-ai-sel-2026|Tran, Liu y Nguyen 2026]]) encuentra que la investigación suele poner en primer plano el potencial técnico y especifica poco las condiciones institucionales para una implementación responsable, una trampa «tecnosolucionista». Los autores vinculan la [[student-engagement|implicación]] con las políticas a la sede de publicación y proponen un marco de «preguntas WH» para hacer que las implicaciones de gobernanza sean específicas de cada actor, lo que se hace eco del hallazgo más amplio de la base de conocimiento de que la gobernanza institucional va por detrás de la adopción de la IA.
+
+[[gillette-partnership-ethics-genai-higher-education-2026|Gillette et al. (2026)]] muestran un desajuste de gobernanza y no un vacío de gobernanza: el estudiantado quería que la universidad «hiciera más», pero la institución sostiene que las decisiones corresponden al nivel de departamento, programa y curso, de modo que la demanda y el mandato apuntan a órganos distintos mientras el silencio llena la brecha.
 
 ## Cómo aparece la gobernanza de la IA en la investigación
 
@@ -119,6 +121,13 @@ La gobernanza es distinta de la [[educational-policy-ai|política educativa sobr
 
 
 - **La gobernanza puede diseñarse dentro de la herramienta.** Un perfil de gobernanza de seis dimensiones (fundamentación pedagógica, autoridad instruccional, rendición de cuentas y control humanos, agencia y compromiso cognitivo de quien aprende, especificidad de contexto y visibilidad de la evaluación) ubica la gobernanza en el modelo de interacción, los prompts, las rúbricas, las puertas de aprobación y los cuadros de mando de una herramienta de enseñanza, y pregunta si los mecanismos encajan con la función instruccional en lugar de cuán estricta o permisiva es una herramienta ([[instructional-governance-design-computing-education-2026|Dickey, 2026]]).
+- **Un marco centrado en las personas pone la interpretación, y no la herramienta, en el centro.** En un colegio de artes liberales orientado a su misión, el profesorado usó un Asistente de Evaluación apoyado en IA generativa durante una jornada educativa estructurada, y los autores concluyen que el juicio humano debe seguir siendo la autoridad interpretativa no negociable, con puntos de verificación y gobernanza establecidos antes de una implementación amplia ([[aalhe-chaos-to-consistency-ai-assessment-2026|Ravesloot, Copeland y Pryor, 2026]]). La secuencia es primero la formación y la verificación, y después el escalado.
+
+## Concepciones erróneas
+
+- **«Las universidades han adoptado políticas de IA vinculantes.»** De **48 instituciones**, **40 (83%)** contaban con al menos un documento disponible públicamente, y en esas 40 **la gobernanza se materializó sobre todo como orientación y no como norma vinculante**. Una orientación publicada no es una política exigible.
+- **«La política se redacta pensando primero en el estudiantado porque el estudiantado es el riesgo.»** La mayoría de los documentos se dirigían **al profesorado y al estudiantado juntos (20, el 51%) y no al estudiantado solo (6, el 15%)**, y ni el tipo de política ni el público variaban con la modalidad de impartición. El encuadre es conjunto, lo que significa que las obligaciones son compartidas.
+- **«Una política ambigua deja intacta la experiencia del estudiantado.»** La ambigüedad de las políticas aparece **directamente en la experiencia del estudiantado**: la [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination|implicación del estudiantado con la IA generativa]] está moldeada por la incertidumbre, así que la ambigüedad es una condición activa y no un vacío neutro.
 
 ## Conceptos conectados
 - [[pedagogical-partnerships]] — Alianzas pedagógicas

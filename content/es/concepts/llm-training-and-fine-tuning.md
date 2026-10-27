@@ -1,7 +1,7 @@
 ---
 title: Entrenamiento y ajuste fino de LLM
 created: "2026-09-28T20:10:35-04:00"
-updated: "2026-10-22T09:13:53-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 connected_faqs: [making-ai-better-at-supporting-learning, training-ai-tutors-to-guide-rather-than-answer, checking-whether-educational-ai-works]
 type: concept
 foundations: [ai-education]
@@ -13,7 +13,7 @@ confidence: high
 methods: [benchmark]
 ethics: [pedagogical-safety]
 translation_of: concepts/llm-training-and-fine-tuning
-source_updated: "2026-10-16T08:47:09-04:00"
+source_updated: "2026-10-26T07:30:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -152,6 +152,13 @@ Destilada de la evidencia anterior, en el orden que evita cómputo desperdiciado
 ## Conexiones con conceptos relacionados
 
 Esta página es la compañera de *cómo se construye un modelo* de [[llm]], que cubre qué son los modelos de lenguaje grandes y cómo se comportan. Se sitúa bajo [[ai-technologies]] como el nodo de entrenamiento y adaptación, junto a [[rag]] (la alternativa de recuperación que suele ir primero), [[prompt-engineering]] (la palanca más barata) y [[reinforcement-learning]] (la mitad de RL del postentrenamiento). Sus salidas alimentan la [[intelligent-tutoring|tutoría inteligente]] y el [[adaptive-learning|aprendizaje adaptativo]]; sus aplicaciones educativas más comunes son la [[automated-assessment|evaluación automatizada]], la [[automated-essay-scoring|corrección automática de ensayos]] y la [[ai-feedback-quality|calidad de la retroalimentación con IA]]; y sus parientes conceptuales más cercanos son el [[educational-nlp|PLN educativo]], la [[simulating-students|simulación de estudiantes]], el [[open-source|código abierto]] y el [[student-modeling|modelado del estudiante]]. Los riesgos que crea los sostienen la [[pedagogical-safety|seguridad pedagógica]], la [[ai-sycophancy|adulación de la IA]], el [[hallucination-risk|riesgo de alucinación]] y la [[privacy|privacidad]].
+
+## Concepciones erróneas
+
+- **«El ajuste fino es la forma de hacer que un modelo sea bueno en su tarea.»** La recuperación y el prompting llegan **antes en el orden de decisión**, y el resultado más claro de la base de conocimiento es que el postentrenamiento es una **tercera opción y no la primera**. Ajustar un modelo con datos de evaluación mejoró el **formato y la similitud**, mientras que otro ajuste fino **fracasó directamente al generar retroalimentación**: el método cambió la superficie y no la competencia.
+- **«El modelo es el principal determinante de las ganancias de aprendizaje.»** La elección de modelo y de prompt explican solo **alrededor del 15%** de la brecha entre un LLM y las ganancias de aprendizaje del estudiantado. Optimizar el 85% restante es donde está el trabajo, y no está en los pesos.
+- **«Un modelo local rendirá menos que uno alojado, así que la recuperación es una palanca menor.»** En una evaluación de tres configuraciones, **la recuperación, y no el modelo, fue la decisión de diseño de primer orden**: el LLM local **sin recuperación alcanzó solo un 52,3% de exactitud, por debajo de una línea base TF-IDF**. Añadir recuperación llevó al mismo modelo más allá de un umbral que ningún cambio de modelo iba a alcanzar por sí solo.
+- **«Más datos de entrenamiento significan mejor conducta docente.»** El ajuste fino con datos de evaluación que mejoró el formato a la vez que empeoraba la generación de retroalimentación es el contraejemplo en miniatura: optimizar contra un objetivo de aspecto similar puede mejorar el proxy y degradar lo que se quería.
 
 ## Conceptos conectados
 

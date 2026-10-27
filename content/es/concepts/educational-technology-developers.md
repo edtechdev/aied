@@ -2,7 +2,7 @@
 connected_resources: [playlab]
 title: "Desarrolladores de tecnología educativa"
 created: "2026-09-28T20:12:29-04:00"
-updated: "2026-10-22T07:28:42-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 type: concept
 foundations: [educational-development, learning-design]
 technology: [learning-analytics, edtech-platform, open-source]
@@ -11,7 +11,7 @@ page_kind: [evaluation]
 confidence: high
 methods: [design-based-research]
 translation_of: concepts/educational-technology-developers
-source_updated: "2026-10-16T06:45:00-04:00"
+source_updated: "2026-10-26T06:20:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -68,6 +68,27 @@ El rol también es distinto del de sus vecinos. [[learning-design|El diseño del
 ### Compra, apertura y después de que se acabe la financiación
 
 [[shen-sustainable-ai-knowledge-base-cs-education-2026|El informe de Shen et al.]] aporta los insumos que necesita una decisión de compra: un mínimo de hardware de 12 GB de VRAM, un techo de precisión para un modelo de la clase de 7B, energía por consulta y un orden de decisiones —primero la recuperación (sin ella el modelo puntuó un 52,3%, por debajo de una línea base TF-IDF), después el ajuste fino y después la compresión consciente de la cuantización—; la licencia abierta es la precondición para servir un corpus localmente. [[reclaiming-epistemic-agency-co-agency-2026|La reivindicación de la agencia epistémica]] enmarca la misma decisión como gobernanza: los requisitos de transparencia convierten la compra en gobernanza epistemológica, la contestabilidad y la procedencia se vuelven condiciones, y los distritos con menos capacidad se enfrentan al listón más alto. [[credential-cognitive-stewardship-ai-assessment|La custodia cognitiva]] añade que la gobernanza de proveedores apareció solo en el 29% de 30 paquetes de política auditados, que especificaban lo que la IA puede hacer mucho más fácilmente que qué evidencia de aprendizaje quedaba. [[genai-mindtool-generative-learning|GenAI MindTool]] plantea la pregunta de diseño —¿fomenta el producto el aprendizaje *con* la herramienta o delega el trabajo cognitivo?— y [[vocabulary-difficulty-prediction|la predicción de la dificultad del vocabulario]] muestra el intercambio en miniatura: el modelo de caja negra con mejor puntuación (r > 0,91) era menos explicable que el interpretable (r > 0,77).
+
+## Concepciones erróneas
+
+- **«Los metaanálisis respaldan la afirmación comercial.»** No lo hacen, y la razón es específica y no cuestión de grado. Una auditoría de **14 metaanálisis** que afirmaban que la IA mejora la educación encontró que **ninguno justificaba sus afirmaciones** —todos menos dos fallaban en la metodología— y un **metaanálisis retractado seguía citándose como autoridad por el 60% de los artículos posteriores muestreados**. La retractación se propagó más rápido que la corrección, lo que significa que la literatura que una hoja de ruta probablemente citará contiene afirmaciones que el campo ya ha retirado.
+- **«Añadir citas y procedencia hace que un sistema sea más fiable.»** En un entorno de debate de [[agentic-ai|múltiples agentes]], añadir citas y señales de autoridad a la posición de la IA **elevó el abandono de un juicio correcto del 15,0% al 31,8%**. La procedencia no era información neutral: hizo más persuasiva la respuesta equivocada. Las señales de credibilidad tienen que ser evidencia de corrección, no decoración alrededor de una afirmación.
+- **«El codiseño con las personas usuarias valida el diseño.»** El codiseño responde a una pregunta distinta de la que responde la eficacia. Cuando una herramienta se codiseña con el estudiantado y **el 96% dice que quiere conservarla**, eso es un hallazgo sobre aceptabilidad. Si mejoró el aprendizaje es una medición aparte, y las dos pueden apuntar en direcciones opuestas sin que ninguna esté equivocada.
+- **«Los agentes son el siguiente nivel de capacidad.»** La ablación de los [[instructional-agents-multi-agent-course-gen|agentes instruccionales]] es el contraejemplo útil: la línea base de un solo agente obtuvo la **peor** puntuación y la configuración de copiloto completo **superó a la autónoma**. Más autonomía no era el mejor diseño; lo era la disposición de copiloto. Las decisiones de arquitectura tienen que evaluarse y no darse por buenas a medida que crece la capacidad.
+
+## Qué significa esto para la práctica
+
+**Para quienes desarrollan y diseñan**
+
+- Fundamente una afirmación de diseño en un estudio que haya leído, no en un tamaño del efecto que haya citado. Con 14 metaanálisis auditados que fallan en el método y uno retirado que sigue propagándose, el número de citas no es una señal de validez.
+- Pruebe la autonomía como variable en lugar de lanzarla como una mejora. Ejecute la ablación: un solo agente, copiloto, autónomo. El resultado de los agentes instruccionales mostró que ganaba la configuración de copiloto, así que el valor por defecto debería ser el que mejor se midió, no el que suena más capaz.
+- Separe la aceptabilidad de la eficacia en su propio plan de evaluación. Una cifra alta de disposición a conservar la herramienta es un hallazgo real y no es evidencia de aprendizaje, y confundirlas en un informe es así como un producto débil parece fuerte.
+- Trate las señales de credibilidad como una manipulación con un efecto medido. Añadir citas movió el abandono de una respuesta correcta del 15,0% al 31,8%, de modo que mostrar la procedencia cambia el juicio de quien la usa: diseñe para eso en lugar de suponer que informa.
+
+**Para el profesorado que evalúa una herramienta**
+
+- Pregunte cómo se evaluó la herramienta en la tarea para la que piensa usarla, y si la evaluación fue de copiloto o autónoma. Las dos no son intercambiables.
+- Pregunte cuándo ocurrió la evaluación. Las afirmaciones de capacidad ligadas a una versión de modelo no declarada envejecen rápido y describen un sistema que usted no estará ejecutando.
 
 ## Conceptos conectados
 

@@ -1,13 +1,13 @@
 ---
 title: Diagnóstico cognitivo
 created: "2026-09-28T18:17:50-04:00"
-updated: "2026-10-22T07:28:42-04:00"
+updated: "2026-10-26T21:37:14-04:00"
 type: concept
 technology: [intelligent-tutoring, knowledge-tracing, learning-analytics, student-modeling]
 assessment: [assessment, educational-measurement, psychometrically-aware-ai]
 confidence: high
 translation_of: concepts/cognitive-diagnosis
-source_updated: "2026-10-15T10:00:00-04:00"
+source_updated: "2026-10-26T07:05:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -64,6 +64,27 @@ El diagnóstico cognitivo ocupa el centro de la arquitectura de la [[intelligent
 ## Conexiones
 
 El diagnóstico cognitivo se conecta con [[knowledge-tracing]], [[student-modeling]], [[educational-measurement]] y [[assessment]]. Sus hallazgos alimentan la [[intelligent-tutoring|tutoría inteligente]] y el [[adaptive-learning|aprendizaje adaptativo]], y el trabajo de la era de los LLM lo vincula con la identificación de ideas erróneas en la [[intelligent-tutoring|tutoría con IA]].
+
+## Concepciones erróneas
+
+- **«El diagnóstico es una capacidad resuelta para los modelos.»** [[omniedu-open-educational-foundation-models-2026|OmniEdu (Liang et al., 2026)]] supervisó el razonamiento diagnóstico como una de cuatro capacidades en una familia abierta de 4B/9B/27B, y **el diagnóstico del estado de conocimiento siguió siendo la más débil** de las cuatro. El diagnóstico es la capacidad que resistió el entrenamiento que produjo las otras.
+- **«Los modelos pueden simular errores del estudiantado, así que pueden diagnosticarlos.»** El cuello de botella es el inverso. Los modelos construyeron una solución en el **95,2% de los rastros de distractores** y simularon una idea errónea específica de Eedi con una **exactitud de 0,92**, pero **aportar la solución correcta** —y no simular el error— era lo que los limitaba. Generar una respuesta incorrecta plausible es más fácil que reconocerla.
+- **«El diagnóstico requiere un catálogo de ideas erróneas construido a mano.»** Sobre **6.106 pares** de formalizaciones correctas e incorrectas de lógica proposicional, un flujo de trabajo descubrió **248 grupos de transformaciones que explicaban 5.156 pares (84,44%)**, frente a **4.370 (71,57%)** de los errores escogidos a mano del conjunto de referencia. El descubrimiento igualó o superó la curación experta y se transfirió a la lógica modal, así que el catálogo es un punto de partida y no un techo.
+- **«Un diagnóstico solo es útil si nombra una idea errónea.»** Diagnosticar qué resultados de curso ha alcanzado quien aprende trata los resultados como los conceptos de conocimiento en su lugar, aportando las relaciones entre conceptos mediante asignaciones de afinidad validadas por expertos. Para los programas basados en resultados, esa es la unidad más accionable, aunque sea más gruesa.
+
+## Qué significa esto para la práctica
+
+**Para el profesorado**
+
+- Trate el diagnóstico de un sistema como una hipótesis que hay que comprobar, no como un veredicto. El diagnóstico del estado de conocimiento fue la capacidad más débil de una familia entrenada para ello.
+- Pregunte si el diagnóstico nombra un constructo sobre el que pueda actuar. Un diagnóstico a nivel de resultados que se corresponde con su programa suele ser más útil que una etiqueta fina de idea errónea.
+- Donde su materia tenga reglas, espere que el descubrimiento basado en transformaciones encuentre patrones de error que no anticipó; los 248 grupos descubiertos son evidencia de que los catálogos curados están incompletos.
+
+**Para quienes desarrollan**
+
+- Instrumente ambas direcciones: reconocer una respuesta incorrecta y producir la correcta. La cifra del 95,2% de recuperación de soluciones sugiere que la generación es la mitad fácil y que el modo de fallo está en el reconocimiento.
+- Prefiera el descubrimiento a un catálogo estático cuando la estructura del dominio lo permita, e informe de la cobertura frente a un conjunto de referencia para que la comparación sea legible.
+- No publique una puntuación diagnóstica sin declarar qué constructo mide y cómo se validó de forma independiente de la señal que la produjo.
 
 ## Conceptos conectados
 

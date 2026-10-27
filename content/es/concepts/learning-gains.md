@@ -1,6 +1,7 @@
 ---
 title: Mejoras en el aprendizaje
 created: "2026-09-25T04:31:08-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 type: concept
 assessment: [assessment]
 audience: [learners]
@@ -11,7 +12,7 @@ confidence: high
 methods: [ai-ed-evaluation]
 reviewed_by: [editor]
 translation_of: concepts/learning-gains
-source_updated: "2026-10-16T08:47:09-04:00"
+source_updated: "2026-10-25T13:40:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -134,6 +135,36 @@ Las cifras de mejoras de aprendizaje que dominan el resumen de eficacia de esta 
 Las mejoras en el aprendizaje se conectan con la [[assessment-validity]] —si las [[assessment|evaluaciones]] no captan una comprensión más profunda, las medidas de mejora de aprendizaje inducen a error—. También se cruzan con la [[cognitive-offloading|dependencia excesiva]] y con la [[cognitive-offloading]], donde las mejoras aparentes de rendimiento pueden enmascarar pérdidas de aprendizaje, y con el [[rct]] (los ensayos aleatorizados como diseño de referencia para detectar mejoras de aprendizaje causales), y con el [[meta-analysis-systematic-review]] (agrupar tamaños del efecto entre estudios para establecer la evidencia de eficacia del campo).
 
 - **Mejoras significativas de antes y después a partir de una [[pedagogy]] de IA basada en errores:** [[pedagogy-ai-mistakes|Hosseini (2026)]] en su curso de diseño de bases de datos (n=13) mostró mejoras de aprendizaje grandes y significativas en ítems idénticos de antes y después (media 4,25→6,83/7, *d* de Cohen = 1,49, *p* < 0,001), con mejoras no correlacionadas con la confianza previa en la IA o en las bases de datos —el diseño de crítica-refinación integrado con IA benefició al estudiantado con independencia de sus percepciones iniciales—.
+
+## Concepciones erróneas
+
+**«Las puntuaciones subieron, así que la intervención produjo aprendizaje.»** Este es el error de definición que la página existe para prevenir, y los datos de campo muestran las dos direcciones a la vez: el uso de la IA mejora las puntuaciones en los deberes asistidos por IA mientras *baja* las puntuaciones en medidas supervisadas, a libro cerrado y sin asistencia ([[generative-ai-reduced-study-time-math]]; [[stromberg-generative-ai-learning-penalty-secondary-2026]]). La elección de la medida determina si la inflación es visible, de modo que una mejora en una tarea donde se permite la IA es una afirmación sobre el rendimiento en esa tarea y no sobre el [[genai-performance-vs-learning|aprendizaje]].
+
+**«El metaanálisis lo zanja: el efecto es grande.»** La dirección de la agregación y su magnitud son hechos distintos, y la magnitud rara vez sobrevive al escrutinio. [[genai-meta-analysis-programming-learning|El metaanálisis sobre IA generativa en programación]] encuentra grandes ganancias de *productividad* junto con **ninguna ganancia de aprendizaje significativa** (g ≈ 0). [[burneo-can-edtech-close-learning-gaps-2026|El metaanálisis del Banco Mundial]], que agrupa 191 tamaños del efecto de 14 ensayos aleatorizados, estima ~0,125 desviaciones estándar para la tecnología educativa adaptativa y habilitada por IA —respetable frente al ensayo educativo mediano, pero **sin ventaja de la IA generativa sobre herramientas adaptativas anteriores**—. Citar estudios de la era de GPT como un salto de categoría exagera lo que muestra la evidencia agrupada.
+
+**«Más práctica y más personalización siempre ayudan.»** Las ganancias son interacciones contenido-tratamiento, no constantes. [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit et al. (2025)]] muestran que la proporción óptima de ejemplos y problemas depende de lo que se aprende: la práctica de recuperación gana en hechos literales, la práctica integrada con ejemplos gana en habilidades generalizables. Y [[lak2026-hint-button-unproductive-use|la investigación sobre el botón de pista]] encuentra que el volumen de pistas se asocia negativamente con el aprendizaje. El mismo «apoyo» que ayuda a un componente de conocimiento puede desperdiciar el otro.
+
+**«Un resultado de postest diferido es automáticamente un resultado de aprendizaje duradero.»** El diferimiento es necesario y no suficiente. Lo que distingue el aprendizaje duradero en este corpus es la medición *sin asistencia* en condiciones diferidas, junto con la evidencia de que el efecto no lo sostiene el andamiaje que estará ausente en la transferencia.
+
+## Implicaciones para la práctica
+
+**Para el profesorado**
+
+- Separe la nota que pone de la afirmación que hace. Un trabajo de curso asistido por IA puede evaluar con justicia la calidad del producto y no decirle nada sobre la capacidad sin asistencia; si necesita lo segundo, tiene que medirlo por separado.
+- Empareje el formato de la práctica con el tipo de conocimiento. Use recuperación para los hechos y alternancia con ejemplos resueltos para los procedimientos transferibles, en lugar de un único formato por defecto para ambos.
+- Vigile el volumen de pistas como diagnóstico, no solo como apoyo. Un uso creciente de pistas con un rendimiento sin asistencia plano es la firma de una dependencia que parece productiva.
+
+**Para quienes desarrollan**
+
+- Informe la productividad y los resultados de aprendizaje como métricas distintas, ya que el corpus encuentra una y otra vez la primera y no logra encontrar los segundos (g ≈ 0 en el metaanálisis sobre programación). Un panel que las confunda se leerá como evidencia de aprendizaje.
+- No dé por hecho que su sistema generaliza entre componentes de conocimiento. El resultado sobre la proporción de ejemplos y problemas implica que el calendario óptimo es una propiedad del contenido y no de la plataforma.
+- Haga visibles para el profesorado el uso de pistas y de andamiaje, porque el volumen es una de las pocas señales conductuales vinculadas empíricamente con peores resultados.
+
+**Para quienes investigan**
+
+- Prerregistre la medida de resultado y declare si permite la IA o es sin asistencia. La dirección del hallazgo puede invertirse solo con esta elección.
+- Informe los tamaños del efecto frente a una comparación nombrada, no frente a «enfoques tradicionales» en abstracto. El resultado del Banco Mundial solo es interpretable porque nombra su clase de comparación.
+- Distinga explícitamente la inflación del rendimiento del desplazamiento del aprendizaje, ya que las dos implican remedios distintos: rediseñar la tarea o volver a enseñar.
 
 ## Conceptos conectados
 

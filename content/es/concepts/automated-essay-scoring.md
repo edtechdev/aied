@@ -1,7 +1,7 @@
 ---
 title: Evaluación automatizada de ensayos
 created: "2026-09-28T21:09:18-04:00"
-updated: "2026-10-09T17:55:00-04:00"
+updated: "2026-10-26T21:37:14-04:00"
 type: concept
 foundations: [ai-literacy]
 technology: [generative-ai, llm, prompt-engineering]
@@ -10,7 +10,7 @@ discipline: [writing education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/automated-essay-scoring
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-26T10:25:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -37,6 +37,10 @@ ai_assist:
 La evaluación automatizada de ensayos tiene una larga historia en la tecnología educativa, desde los primeros modelos estadísticos hasta los enfoques modernos basados en LLM que pueden evaluar ensayos de forma holística sin grandes conjuntos de datos previamente puntuados. La tensión clave en la investigación sobre AES es la que existe entre precisión y accesibilidad: aunque los modelos ajustados logran resultados sólidos, consumen muchos recursos y son poco prácticos para la mayoría del profesorado.
 
 - **[[zhang-races-consistent-essay-scoring-llms-2026|Zhang et al.]]** RACES usa la alineación por recompensa para hacer que la puntuación de ensayos con LLM sea a la vez precisa y consistente, atendiendo a una preocupación central de validez de la AES.
+
+[[xu-recentering-humans-ai-assisted-writing-scoring-2026|Xu, Lu y Abdi (2026)]] revisan doce estudios que comparan la puntuación con IA y la humana de escritura académica en inglés como lengua extranjera e informan de una alineación moderada en general, más fuerte en los rasgos lingüísticos superficiales y más débil en la organización, la coherencia y el desarrollo del argumento, con la equidad rara vez examinada.
+
+En la escritura de respuesta a un texto de los últimos cursos de primaria, [[correnti-erevise-validity-argument-formative-assessment-2026|Correnti et al. (2026)]] encuentran que la retroalimentación automatizada sobre el uso de evidencia por parte del estudiantado mejoró las puntuaciones de los rasgos, y que la calidad de la revisión dependió de si el profesorado retomaba la retroalimentación en la discusión y no del sistema por sí solo.
 
 ## Temas clave de investigación
 
@@ -74,6 +78,14 @@ La AES se sitúa en la intersección de la [[automated-assessment|evaluación au
 - **Acuerdo, error y lo que aporta un evaluador híbrido.** En un pequeño corpus abierto de escritura de marketing, el LLM superó tanto a reglas deterministas como a un híbrido de igual ponderación en acuerdo absoluto con evaluadores humanos (ICC(2,1) 0,435 frente a 0,266 y 0,091), con el híbrido significativamente peor que el LLM solo, mientras que la dispersión de las puntuaciones y una única respuesta casi vacía mostraron hasta qué punto esas estimaciones dependen de la composición del corpus ([[automated-scoring-marketing-posts-agreement-2026]]).
 
 Los sistemas abiertos también forman parte de este panorama: AiAWE puntúa ensayos argumentativos con un Gemma-3-27B-it adaptado con LoRA, alcanzando una QWK de 0,828 y un acuerdo dentro de ±0,5 de la puntuación humana en el 90,56% de 360 ensayos de evaluación —y señala que la escala del modelo no predijo de forma fiable el rendimiento posterior bajo adaptación LoRA ([[aiawe-automated-writing-evaluation]]).
+
+## Concepciones erróneas
+
+- **«Los resultados de la puntuación automatizada reflejan la escritura del estudiantado.»** La señal ordinal puede estar **fabricada en lugar de observada**: ensayos sintéticos de nivel 1 construidos mediante generación de plantillas, degradación hasta el **20-40% de la longitud original** y eliminación de palabras clave. Un sistema validado con extremos construidos puede no haberse probado nunca con la distribución con la que se encontrará.
+
+- **«La exactitud agregada es la métrica que hay que informar.»** **Una distribución de rúbrica sesgada puede hacer que las métricas agregadas de puntuación engañen**: la evaluación automatizada de una dimensión de la rúbrica suele ser una tarea de clasificación con una distribución de etiquetas desequilibrada, en la que una alta exactitud y una discriminación útil se separan.
+
+- **«Los despliegues de campo no se han evaluado.»** Existe evidencia de campo de un despliegue real de alta exigencia (**el Acredita EB de Uruguay, 2024**), que es la forma de evidencia más sólida de esta literatura y la que la mayoría de los estudios sobre exactitud de la puntuación nunca aportan.
 
 ## Conceptos conectados
 

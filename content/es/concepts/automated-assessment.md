@@ -1,7 +1,7 @@
 ---
 title: Evaluación automatizada
 created: "2026-09-28T18:17:50-04:00"
-updated: "2026-10-22T09:13:53-04:00"
+updated: "2026-10-26T21:37:14-04:00"
 type: concept
 connected_faqs: [ai-save-instructor-time, ai-feedback-at-scale]
 foundations: [teacher-role]
@@ -25,7 +25,7 @@ ai_assist:
     date: "2026-10-14"
     agent: hermes-agent
 translation_of: concepts/automated-assessment
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-26T12:30:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 ---
 
@@ -140,6 +140,13 @@ La evaluación automatizada se conecta con la [[assessment-validity|validez de l
 - **Las estadísticas de concordancia con corpus pequeños pueden inducir a error en las decisiones de despliegue.** Puntuar 60 publicaciones de marketing (15 estudiantes más 15 anclas de baja calidad escritas por investigadores) frente a dos evaluadores humanos independientes dio una concordancia absoluta ICC(2,1) de 0,435 para el LLM, 0,266 para un híbrido de reglas y LLM con el mismo peso y 0,091 para reglas deterministas, con un MAE de 6,28, 10,53 y 17,22 puntos respectivamente en una escala de 0-100; el híbrido fue significativamente peor que el LLM solo (diferencia de ICC emparejada −0,169, IC del 95% [−0,260, −0,106]). Añadir anclas elevó la ICC interevaluador de 0,338 a 0,902 y la concordancia del LLM de 0,435 a 0,846, y una publicación casi vacía recibió 75 frente a una media humana de 30,5, lo que muestra que una única respuesta degenerada puede dominar una evaluación pequeña. ([[automated-scoring-marketing-posts-agreement-2026]])
 - **Una calificación estructurada con LLM puede parecer analítica sin ser diagnóstica (2026):** al puntuar 3.041 respuestas a 50 preguntas de informática, tres LLM comerciales produjeron subdimensiones de rúbrica casi redundantes (r = 0,82–0,99, VIF de hasta 45) y nombraron ideas erróneas solo en el 4,8–7,4% de los comentarios, frente al 15,0% del profesorado ([[llm-structured-assessment-diagnostic-quality-2026|Zhao et al., 2026]]).
 
+## Concepciones erróneas
+
+- **«Una puntuación automatizada es un único número fiable.»** Un examen práctico de visión por computador (**570 estudiantes con doble calificación**) se calificó con **171 configuraciones**, y un segundo examen de aprendizaje automático con otras tantas: la configuración determinaba la puntuación. Una nota presentada como número oculta la configuración que la produjo.
+- **«La persona que juzga es la fuente de la falta de fiabilidad.»** Sobre 378 decisiones con dados fijos, una repetición cambió entre el **2,9 y el 6,1 por ciento** de los resultados con un método semirrígido y entre el **13,5 y el 15,9 por ciento** con adjudicación libre, mientras que cambiar la IA que juzgaba añadió solo unos 3 puntos ([[wargaming-adjudication-ai-judged-grading-2026|Epstein, 2026]]): el procedimiento, y no quien juzga, fija la reproducibilidad.
+- **«Informar de la confianza es un adorno.»** Una puntuación que dijera que estaba **segura al 70%** cambiaría el modo en que se usa, y la ausencia de esa información obliga a quien la lee a tratar todas las puntuaciones como igualmente ciertas.
+- **«La corrección automática de respuesta corta es un terreno resuelto.»** Una revisión de alcance sobre la corrección automática de respuesta corta en [[science-education|ciencias]] (**de 2017 a principios de 2024**) documenta la historia del campo, que es un registro de lo que se ha intentado y no de lo que se ha validado.
+
 ## Conceptos conectados
 
 - [[explainable-ai]]
@@ -208,3 +215,4 @@ La evaluación automatizada se conecta con la [[assessment-validity|validez de l
 
 - [[llm-grading-assistants-public-health-2026]] — El modo de razonamiento elevó la concordancia entre la calificación humana y la del LLM de una kappa ponderada de 0,269 a 0,718
 - [[llm-structured-assessment-diagnostic-quality-2026]] — Las subdimensiones de rúbrica del LLM son casi redundantes y la retroalimentación rara vez nombra ideas erróneas (Zhao et al. 2026)
+- [[wargaming-adjudication-ai-judged-grading-2026]] — El pulgar en la balanza: usar prácticas tradicionales de adjudicación de juegos de guerra para mejorar la evaluación y la calificación juzgadas por IA (Epstein 2026)

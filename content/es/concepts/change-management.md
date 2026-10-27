@@ -1,7 +1,7 @@
 ---
 title: Gestión del cambio
 created: "2026-09-28T20:10:55-04:00"
-updated: "2026-10-22T09:13:53-04:00"
+updated: "2026-10-26T21:37:14-04:00"
 type: concept
 foundations: [ai-education]
 connected_faqs: [institutional-ai-policy, faculty-development-ai]
@@ -10,7 +10,7 @@ confidence: medium
 institutions: [change-management]
 connected_resources: [campus-ai-framework, institutional-ai-readiness-pack]
 translation_of: concepts/change-management
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-26T09:35:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -60,17 +60,26 @@ Un taller sobre prácticas de evaluación con 73 educadores de informática apor
 
 ## Implicaciones
 
-La gestión del cambio en la educación con IA conlleva implicaciones tanto positivas como negativas. **En positivo**, los marcos estructurados ofrecen a las instituciones un camino desde la gestión reactiva de crisis hacia una gobernanza proactiva y participativa; el [[crompton-governing-genai-higher-ed-delphi-2026|consenso Delphi]] y la [[baroudi-anticipatory-governance-ai-higher-ed-2026|gobernanza anticipatoria]] respaldan tratar la [[ai-literacy|alfabetización en IA]] y la [[ethics|ética]] como capacidades institucionales transversales y no como reglas aisladas. **En negativo**, una adopción fragmentada amplía las brechas existentes: el [[adarkwah-genai-unesco-policy-2026|análisis del marco de la UNESCO]] sobre 30 universidades líderes encuentra que los principios éticos centrales y de [[governance|gobernanza]] se adoptan ampliamente, pero la [[inclusive-learning|inclusión]], la equidad y la [[sustainability|sostenibilidad]] (acceso a internet, paridad de género, impacto ambiental) suelen pasarse por alto, y las clasificaciones nacionales de preparación para la IA no predicen una política institucional sólida. El [[league-ethical-governance-student-data-2026|marco LEAGUE]] extiende esta preocupación a la [[learning-analytics|analítica del aprendizaje]] y sostiene que la gobernanza debe ir más allá del cumplimiento (FERPA/RGPD) hacia la legalidad, la equidad, la [[agency|agencia]], la utilidad y la ética desde el diseño, revisando las prácticas con datos del estudiantado de forma transparente y educativa. En las instituciones donde la estrategia va por delante de la infraestructura, el trabajo se acumula: desarrolladores académicos de dos Historically Disadvantaged Institutions sudafricanas calificaron la estrategia de IA de «más apariencia que práctica», y el artículo insiste en mantener separada la desigualdad digital —un problema distributivo— de la colonialidad algorítmica, un problema epistémico que sobrevive al acceso pleno ([[beyond-the-algorithm-academic-developers-digital-mediators-2026|Sithole, 2026]]).
+La gestión del cambio en la educación con IA conlleva implicaciones tanto positivas como negativas. **En positivo**, los marcos estructurados ofrecen a las instituciones un camino desde la gestión reactiva de crisis hacia una gobernanza proactiva y participativa; el [[crompton-governing-genai-higher-ed-delphi-2026|consenso Delphi]] y la [[baroudi-anticipatory-governance-ai-higher-ed-2026|gobernanza anticipatoria]] respaldan tratar la [[ai-literacy|alfabetización en IA]] y la [[ethics|ética]] como capacidades institucionales transversales y no como reglas aisladas. **En negativo**, una adopción fragmentada amplía las brechas existentes: el [[adarkwah-genai-unesco-policy-2026|análisis del marco de la UNESCO]] sobre 30 universidades líderes encuentra que los principios éticos centrales y de [[governance|gobernanza]] se adoptan ampliamente, pero la [[inclusive-learning|inclusión]], la equidad y la [[sustainability|sostenibilidad]] (acceso a internet, paridad de género, impacto ambiental) suelen pasarse por alto, y las clasificaciones nacionales de preparación para la IA no predicen una política institucional sólida. El [[league-ethical-governance-student-data-2026|marco LEAGUE]] extiende esta preocupación a la [[learning-analytics|analítica del aprendizaje]] y sostiene que la gobernanza debe ir más allá del cumplimiento (FERPA/RGPD) hacia la legalidad, la equidad, la [[agency|agencia]], la utilidad y la ética desde el diseño, revisando las prácticas con datos del estudiantado de forma transparente y educativa.
+
+En las instituciones donde la estrategia va por delante de la infraestructura, el trabajo se acumula: desarrolladores académicos de dos Historically Disadvantaged Institutions sudafricanas calificaron la estrategia de IA de «más apariencia que práctica», y el artículo insiste en mantener separada la desigualdad digital —un problema distributivo— de la colonialidad algorítmica, un problema epistémico que sobrevive al acceso pleno ([[beyond-the-algorithm-academic-developers-digital-mediators-2026|Sithole, 2026]]).
 
 **Para quienes [[administrator|administran]] y para los [[educational-policy-ai|responsables de política educativa]]**, la evidencia aboga por una gobernanza participativa, la inversión en infraestructura y el desarrollo de capacidades por encima de los documentos estratégicos aspiracionales, traduciendo la política nacional en un apoyo concreto al profesorado en lugar de emitir mandatos de arriba abajo. **Para el profesorado**, la gestión del cambio significa pasar de adoptante a experimentador guiado por la indagación, implicar al [[pedagogical-partnerships|estudiantado como socio]] y anclar la reforma en principios pedagógicos duraderos en lugar de en herramientas que pueden quedar obsoletas en meses, con la advertencia de que el desarrollo profesional debe apuntar a un ciclo de diseño completo (evaluación de necesidades, retroalimentación) y no solo al uso de herramientas, como demuestra la [[dot-framework-survey-2026|encuesta sobre el marco DOT]].
 
 Un estudio de caso institucional traza un arco de difusión de una década en matemáticas de grado, que pasa de la iniciativa individual y los talleres entre pares a la licencia conjunta del profesorado y la financiación central ([[flipped-classroom-ai-assessment-math-2026|Law, 2026]]).
 
 El rediseño de un curso tiene un coste que las instituciones deberían presupuestar en lugar de dar por supuesto: adoptar un curso con IA integrada supuso entre 15 y 20 horas de trabajo de rediseño por curso antes de cualquier ajuste continuo ([[packard-thinking-partner-framework-adult-learners-2026|Packard et al. (2026)]]).
+- **La implicación se explica por la capacidad y la disposición, no por el entusiasmo.** Un marco para la práctica de la evaluación sostiene que la adopción desigual de la IA generativa refleja cuatro condiciones —la capacidad, la disposición y los apoyos y restricciones que las rodean— y no la resistencia, y que un solo taller construye vocabulario pero no criterio ([[aalhe-capacity-disposition-genai-assessment-2026|Miller, 2026]]). Nombrar la condición que falta indica a una institución si debe formar, dotar de recursos o cambiar el incentivo.
 
 ## Conexiones con otros conceptos
 
 La gestión del cambio es el complemento institucional de la integración a nivel de aula. Operacionaliza las condiciones sistémicas —gobernanza, desarrollo del profesorado, [[student-engagement|implicación]] de las partes interesadas y salvaguardas de equidad— que permiten que la innovación pedagógica arraigue, y conecta el diseño de políticas de [[educational-policy-ai|política educativa sobre IA]] con los resultados de [[governance|gobernanza]], [[educational-development|desarrollo educativo]] y [[equity-in-ai-education|equidad en la educación con IA]].
+
+## Concepciones erróneas
+
+- **«La intención estratégica crea capacidad.»** Solo **el 7% de las instituciones** ha creado puestos directivos superiores dedicados a la IA, aunque **el 49% considera la IA una prioridad estratégica**. La brecha está entre la declaración y la estructura, y es el fallo recurrente de la gestión del cambio en IA.
+- **«Adoptar una herramienta de IA es un acontecimiento.»** **La sostenibilidad es una propiedad de la organización, no de la herramienta**: una evaluación aleatorizada de cuatro años de un chatbot no generativo de mensajes de texto en la Universidad Estatal de California, Northridge, ilustra la escala temporal. La evaluación duró cuatro años porque la durabilidad era lo que había que poner a prueba.
+- **«Las instituciones necesitan reaccionar más rápido, no anticiparse.»** El **liderazgo anticipatorio** es el hilo complementario: la [[baroudi-anticipatory-governance-ai-higher-ed-2026|revisión de alcance]] encuentra que las instituciones deben pasar de una gobernanza **reactiva a una basada en la prospectiva**. Reaccionar con competencia ante una tecnología que ya ha llegado es lo que la evidencia documenta como fallo.
 
 ## Conceptos conectados
 

@@ -1,7 +1,7 @@
 ---
 title: Niveles educativos
 created: "2026-09-28T20:10:35-04:00"
-updated: "2026-09-28T20:10:35-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 type: concept
 foundations: [ai-education, learner-identity]
 pedagogy: [scaffolding, self-regulated-learning, prior-knowledge]
@@ -14,7 +14,7 @@ ethics: [differential-effects-across-learner-groups, equity-in-ai-education, pri
 level: [preschool, primary education, middle school, secondary, k 12, higher ed, undergraduate, graduate, adult learning, special education, teacher education]
 confidence: medium
 translation_of: concepts/education-levels
-source_updated: "2026-09-28T21:44:10-04:00"
+source_updated: "2026-10-25T20:50:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -85,6 +85,16 @@ Un patrón se mantiene en todos los niveles examinados: la capa humana absorbe l
 - **Regule la IA por actividad y no por entusiasmo**, y escale los deberes de privacidad con la edad ([[ai-lms-middle-school-longitudinal]], [[data-privacy-ai-african-higher-education-2026]]).
 - **Diseñe para la persona adulta que media en esa banda** —madre, padre, docente, bibliotecario o supervisor— y mida su preparación por separado de la de la institución ([[ai-adoption-readiness-ukraine-education-managers-2026]], [[ai-assisted-seminar-learning-information-literacy-2026]]).
 - **Diga con claridad cuándo una banda no tiene evidencia**, y **no confunda la intención con el logro**: varios estudios específicos de nivel informan de actitudes o resultados de [[self-report-measures|autoinforme]] y no de aprendizaje.
+
+## Concepciones erróneas
+
+**«Una etiqueta de banda le dice lo que puede hacer un estudiante.»** La banda y el nivel de conocimiento se correlacionan sin ser iguales. En el ensayo de tutoría de segundo grado, los [[prior-knowledge|conocimientos previos]] dominaron el rendimiento en la prueba posterior (**F(1, 124) = 206,99, p < 0,001, η²p = 0,63**), un efecto grande que convierte la etiqueta de nivel educativo en un predictor débil frente a los conocimientos previos reales del estudiante. Diseñar para la banda e ignorar la dispersión dentro de ella es diseñar para la media de una distribución amplia.
+
+**«La asignatura que se enseña importa más que el nivel educativo.»** La ruptura entre escuela y universidad importa más. Lo que cambia al cruzar esa frontera no es el contenido, sino la capacidad de autorregulación, la naturaleza del contrato de evaluación y quién es responsable del aprendizaje; por eso una herramienta que ayuda a un seminario de posgrado puede perjudicar una clase de segundo grado incluso con contenidos comparables.
+
+**«Un tutor adaptativo ayuda por igual a todos los niveles.»** La comparación que aísla la variable es ilustrativa: dos versiones del mismo tutor de matemáticas de segundo grado —contenido, interfaz, retroalimentación y pistas habladas idénticos— que solo diferían en si la selección de tareas seguía un modelo bayesiano de [[knowledge-tracing|seguimiento del conocimiento]]. La selección adaptativa de tareas es una intervención sensible al nivel, y su beneficio depende de si quienes aprenden en ese nivel pueden actuar sobre la adaptación.
+
+**«La evidencia concentrada en educación superior se generaliza hacia abajo.»** No lo hace, y la distribución de la literatura es una advertencia y no una comodidad. Dónde la evidencia es densa y dónde escasa es una propiedad de la economía de la investigación, no de dónde se usa más la IA, así que una afirmación sobre K-12 extraída de muestras universitarias es una extrapolación a través de la frontera que más importa.
 
 ## Conceptos conectados
 - [[k-12]]

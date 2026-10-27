@@ -1,7 +1,7 @@
 ---
 title: "Educación ambiental"
 created: "2026-09-28T18:15:49-04:00"
-updated: "2026-10-22T07:28:42-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [inquiry-based-learning, situated-learning, critical-pedagogy]
@@ -11,7 +11,7 @@ institutions: [educational-policy-ai, governance]
 discipline: [environmental education]
 confidence: medium
 translation_of: concepts/environmental-education
-source_updated: "2026-10-21T21:15:00-04:00"
+source_updated: "2026-10-26T08:45:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -80,6 +80,12 @@ La [[meta-analysis-systematic-review|revisión de alcance]] que organiza esta li
 3. **Diseñe para quien aprende con prisa.** Si la opción de menor carbono cuesta latencia percibida, la mayoría del estudiantado no la elegirá: mantenga la latencia baja, exponga los controles y describa el impacto en términos concretos de resultados, no en unidades abstractas de carbono.
 4. **Prefiera despliegues más ligeros cuando la pedagogía lo permita.** Anclar un modelo en un corpus local con licencia y cuantizarlo con ajuste fino dio una precisión utilizable con una fracción de la energía: reutilice ese patrón antes de escalar la inferencia en la nube.
 5. **Construya la capacidad docente mediante el desarrollo de materiales, no con campañas de concienciación,** y cubra la brecha del [[global-south|Sur Global]] en lugar de importar evidencia de contextos norteamericanos y europeos.
+
+## Concepciones erróneas
+
+- **«La IA en la educación ambiental sobre todo aporta información.»** Las ganancias medidas están en la **toma de decisiones**: el estudiantado que trabajó con un socio de IA dentro de una tarea estructurada de [[inquiry-based-learning|indagación]] superó a sus pares de solo indagación (**d = 0,69**) y a la instrucción tradicional (**d = 1,88**) en una medida de toma de decisiones, con las ganancias **concentradas en los pasos más débiles**. El efecto está en la calidad del razonamiento, en los puntos donde el estudiantado era más débil.
+- **«La indagación por sí sola es el ingrediente activo.»** La indagación asistida por IA **mejoró la toma de decisiones climáticas frente a la indagación sola**, de modo que la contribución de la IA era adicional a la estructura pedagógica, no intercambiable con ella.
+- **«Los efectos grandes de muestras pequeñas siguen siendo efectos grandes.»** El [[learning-design|diseño instruccional]] asistido por IA bajo la Pedagogía del Desarrollo Sostenible **mejoró los planes de clase de futuros docentes con un d = 2,80 a partir de 28** participantes: la palabra que usan los propios revisores es *implausiblemente grande*, y un efecto de ese tamaño con esa muestra debe tratarse como una señal y no como una estimación.
 
 ## Conceptos conectados
 - [[sustainability]]

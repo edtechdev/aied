@@ -12,8 +12,8 @@ connected_faqs: [asynchronous-online-courses-ai]
 methods: [ai-ed-evaluation]
 reviewed_by: [editor]
 translation_of: concepts/learning-analytics
-source_updated: "2026-10-24T06:12:00-04:00"
-updated: "2026-10-24T08:21:25-04:00"
+source_updated: "2026-10-26T11:40:00-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -114,6 +114,12 @@ La analítica del aprendizaje se conecta con [[knowledge-tracing]] (la analític
 La instrumentación a nivel de proceso es el siguiente escalón hacia abajo de la capa descriptiva. [[pulla-parsons-problem-tool-2026|Prol et al. (2026)]] ampliaron una plataforma de problemas de Parsons de [[open-source]] para registrar cada colocación, retirada y entrega de bloque como una traza cronológica, emparejar cada entrega con un coloreado de corrección por bloque y un historial de intentos, y pasar opcionalmente las trazas por una cadena de [[llm]] que etiqueta patrones de dificultad recurrentes para su revisión por parte del profesorado. Entre 68 estudiantes de un curso superior de diseño de software en Java y 36 de un curso introductorio de Python, el análisis sacó a la luz las mismas tres dificultades —elegir el tipo de excepción equivocado, sustituir `return` por `throw` y un orden incorrecto del flujo de control—, que los recuentos de corrección e intentos no pueden exponer, porque responden a *si* la disposición era correcta y no a *cuál fue el proceso*. La IA actúa como intérprete para el [[teacher-role|instructor]] y no como evaluadora del estudiante, y su salida se enmarca como una hipótesis revisable sobre las dificultades de una clase más que como una calificación.
 
 - **El muro del sistema de aprendizaje: los datos de registros no se generalizan entre plataformas.** MATHia, i-Ready e IXL definen incluso los constructos básicos —un «intento», una «pista»— de maneras distintas, por lo que los modelos no pueden transferirse entre ellas. Una respuesta en curso de elaboración ataca el problema desde el lado del vídeo: una cadena de Gemini destila grabaciones de pantalla de tutoría en una única transcripción con formato de guion alineada con los registros nativos de MATHia como verdad de referencia. Lo que el vídeo recupera y ninguna fuente única por sí sola: el [[scaffolding|andamiaje]] en la pizarra, el trabajo silencioso con la calculadora en herramientas externas y el contexto fuera de pantalla que los registros nativos reducen a «inactividad». Quedan desafíos abiertos en el anclaje temporal, la deriva de relojes y la separación de los eventos de la plataforma de otros procesos de aprendizaje. ([[thomas-breaking-learning-system-wall-2026]])
+
+## Concepciones erróneas
+
+- **«Una estimación del estado de conocimiento hereda su validez de los datos.»** **La matriz Q que vincula ítems con atributos es un supuesto, no un dato**: entradas rechazadas para **14 de 918 ítems analizados** significa que el propio mapeo requirió adjudicación. Validar el mapeo es un paso, no una formalidad.
+- **«La analítica necesita trazas de clics.»** Los estados de conocimiento pueden estimarse dentro de la educación basada en resultados **trazando los resultados del curso directamente desde la interacción con el LMS y los datos de rendimiento**, usando mapeos de afinidad de OBE: el registro institucional aporta la señal.
+- **«La predicción sin una ventana de acción es útil.»** La predicción del progreso es más utilizable cuando es **interpretable y va acompañada de una ventana de acción**: [[zhang-ml-student-progress-programming-2026|Zhang, Jeffries y Koprinska (2025)]] predicen resultados a nivel de módulo, que es una forma sobre la que un asesor puede actuar, a diferencia de una puntuación en bruto.
 
 ## Conceptos conectados
 

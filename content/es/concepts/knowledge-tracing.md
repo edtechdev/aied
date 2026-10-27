@@ -1,6 +1,7 @@
 ---
 title: Seguimiento del conocimiento
 created: "2026-09-28T18:19:10-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 type: concept
 connected_faqs: [making-simulated-students-behave-like-learners]
 technology: [adaptive-learning, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, personalized-learning, student-modeling]
@@ -8,7 +9,7 @@ audience: [learners]
 confidence: medium
 reviewed_by: [editor]
 translation_of: concepts/knowledge-tracing
-source_updated: "2026-10-14T11:15:00-04:00"
+source_updated: "2026-10-25T15:55:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -71,6 +72,35 @@ El seguimiento del conocimiento está estrechamente relacionado con el [[student
 
 **Una advertencia de capacidad: los modelos de lenguaje generales rastrean el conocimiento apenas por encima de una línea base trivial.** [[worden-foundationalassist-knowledge-tracing-dataset-2026|Worden et al. (2026)]] publicaron FoundationalASSIST, que restaura el texto completo de las preguntas, las respuestas que el estudiantado dio de verdad y sus elecciones de distractores que los conjuntos de datos de seguimiento anteriores descartaban, y pusieron a prueba cuatro [[llm|LLM]] de frontera como trazadores sin ejemplos previos. El mejor, GPT-OSS-120B, alcanzó un 56,2% frente al 51,3% que ya puntúa una regla que siempre predice «correcto» (AUC-ROC de 0,559), sin mejora con historiales más largos, y Llama-3.3-70B acertó el 85,4% de las veces que un estudiante respondía correctamente, pero solo el 12,6% cuando se equivocaba, una prueba de que un modelo de catálogo rastrea optimismo más que comprensión, de modo que la aparente habilidad de un trazador debe leerse frente a la línea base trivial que su tarea permite.
 - **Un LLM de una sola pasada puede rastrear el conocimiento antes de que se registre ninguna persona que aprenda.** Consultado como una única pregunta tipada, sin datos de la plataforma objetivo, Jev alcanzó un AUC medio de 0,706, por encima del mejor de 28 modelos de seguimiento profundo entrenados con 8 personas que aprenden (0,689), y por delante hasta que el seguimiento supervisado lo alcanza con 64–128 personas que aprenden ([[system-one-llm-knowledge-tracing-2026|Lee y Park, 2026]]).
+
+## Concepciones erróneas comunes
+
+**«Una etiqueta de dominio significa que quien aprende lo sabe.»** El dominio no es la corrección: quien aprende puede parecer que domina algo y, aun así, aplicar mal una habilidad de forma sistemática siempre que se vulnera una condición oculta, y el valor de la etiqueta depende de la regla de recuento que hay detrás. Otorgar crédito a las compleciones declaradas marcó como dominados el **93,9% de 113.428 pares estudiante-habilidad** frente al **72,8%** con una regla estricta, y los pares que la regla indulgente declaraba por delante alcanzaron solo un **70,9% de precisión sin ayuda**. Dos reglas defendibles produjeron una diferencia de 21 puntos en quién se declaraba preparado.
+
+**«Los modelos de secuencia son lo que hace exacto el seguimiento.»** Buena parte de la ganancia aparente es más barata que eso. Sobre 1.927.265 respuestas de matemáticas de 8.996 estudiantes finlandeses, la identidad del ítem por sí sola alcanzó un **AUC de 0,8362**, y añadir una única medida de recencia relativa a la dificultad del ítem la elevó a **0,866**. Una parte importante de lo que compran los modelos de secuencia profundos está disponible con una línea base de dificultad de ítem más la recencia, así que las comparaciones de arquitectura necesitan esa línea base para ser significativas.
+
+**«El mejor modelo en un conjunto de datos es el mejor modelo para su curso.»** La exactitud depende del entorno. OKT alcanzó un **89,81% de AUC** con datos reales de LMS de un programa de [[engineering-education|ingeniería]] (2.416 estudiantes, 966 resultados), por encima de DKT, DKVMN, EKT y SimpleKT, mientras que en ASSISTments solo dio resultados competitivos. La misma arquitectura que gana en una familia de conjuntos de datos es discreta en otra, de modo que un AUC llamativo de otro contexto es evidencia débil sobre su estudiantado.
+
+**«El conocimiento persiste salvo que haya evidencia de olvido.»** El olvido es el valor por defecto que merece modelarse. [[schuetze-knowledge-tracing-forgetting-2026|Schuetze, Yan y Carvalho (2025)]] ajustaron la BKT, la BKT con olvido y el modelo de factores aditivos a lo largo de una secuencia de varias sesiones y hallaron que el ajuste del modelo cambia cuando se representa la retención, y que la forma de *validar* estos modelos difiere de la forma de *desplegarlos*.
+
+## Implicaciones para la práctica
+
+**Para el profesorado**
+
+- Trate una etiqueta de dominio como una afirmación con procedencia, no como un hecho. Otorgar crédito a las compleciones declaradas marcó como dominados el **93,9% de 113.428 pares estudiante-habilidad**, frente al **72,8%** con una regla estricta, y los pares que la regla indulgente declaraba por delante acabaron con un **70,9% de precisión sin ayuda** frente al conjunto más estricto. La regla que eligió se ve en el número que lee.
+- Prefiera un modelo validado en un entorno como el suyo. OKT alcanzó un **89,81% de AUC** con datos reales de LMS de un programa de [[engineering-education|ingeniería]] (2.416 estudiantes, 966 resultados), por encima de DKT, DKVMN, EKT y SimpleKT, mientras que en ASSISTments solo dio resultados competitivos. La ventaja depende del entorno, así que las afirmaciones de exactitud de otro contexto no deberían ser su validación.
+- Recuerde que el dominio no es la corrección: quien aprende puede parecer que domina algo mientras aplica mal una habilidad de forma sistemática siempre que se vulnera una condición oculta.
+
+**Para quienes desarrollan**
+
+- No pague la complejidad de un modelo de secuencia sin una línea base. Sobre 1.927.265 respuestas de matemáticas de 8.996 estudiantes finlandeses, la identidad del ítem por sí sola alcanzó un **AUC de 0,8362**, y añadir una única medida de recencia relativa a la dificultad del ítem la elevó a **0,866**: una parte importante de lo que compran los modelos de secuencia por una fracción de la maquinaria.
+- Modele el olvido de forma explícita en lugar de suponer que el conocimiento persiste; las comparaciones de BKT con olvido muestran que el ajuste cambia cuando la retención está en el modelo.
+- Informe la regla de despliegue junto con el modelo. El desajuste entre validación y despliegue en los estudios sobre el olvido es un fallo de notificación tanto como de modelado.
+
+**Para quienes investigan**
+
+- Informe resultados en más de una familia de conjuntos de datos antes de afirmar superioridad arquitectónica, ya que el contraste de OKT se invierte entre los datos de LMS de ingeniería y ASSISTments.
+- Informe la regla de recuento de dominio como un parámetro del resultado, no como una nota metodológica.
 
 ## Conceptos conectados
 

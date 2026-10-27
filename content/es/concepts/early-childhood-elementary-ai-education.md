@@ -9,8 +9,8 @@ level: [k 12, preschool]
 confidence: high
 reviewed_by: [editor]
 translation_of: concepts/early-childhood-elementary-ai-education
-source_updated: "2026-10-23T09:20:00-04:00"
-updated: "2026-10-24T08:22:10-04:00"
+source_updated: "2026-10-26T09:35:00-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -68,6 +68,12 @@ Como los estudiantes jóvenes son más vulnerables y menos capaces de autorregul
 Una comparación de cuatro países agudiza la brecha curricular: las directrices nacionales de educación infantil de Japón, Corea del Sur y China no contienen ninguna referencia explícita a la alfabetización en IA (el plan de acción de la ciudad de Shanghái es la única excepción, y no especifica progresiones de aprendizaje), mientras que Australia muestra solo una alineación limitada y desigual —más fuerte en la interacción con agentes de IA, ausente en la comprensión de las relaciones entre personas e IA—, lo que deja la alfabetización en IA al hogar ([[ai-literacy-ecec-curricula-four-country-2026|Cohrssen et al. (2026)]]).
 
 Una primera ventana de neuroimagen sobre esta cuestión llega con una cautela: niños de 6 a 7 años que mantuvieron una conversación hablada de cinco minutos con ChatGPT en un escáner de resonancia magnética mostraron una conectividad dentro de la red más débil que los adultos en las redes de control frontoparietal, de relevancia y de atención dorsal, con puntuaciones de creatividad equiparadas, y carecían del acoplamiento creatividad–conectividad que mostraban los adultos. Como esas funciones ejecutivas aún son inmaduras en el primer curso, los autores leen el resultado como relevante para el debate sobre la edad mínima, a la vez que señalan como límites de lo que zanja un posible sesgo de encuadre y la ausencia de un control sin ChatGPT ([[horowitz-kraus-children-chatgpt-cognitive-control-2026|Horowitz-Kraus et al. (2026)]]).
+
+## Concepciones erróneas
+
+- **«El profesorado usará la IA para generar clases completas.»** El profesorado delegó con mayor frecuencia (**60%**) **para cubrir carencias de contenido en una clase esquematizada por ellos mismos** en lugar de generar planes completos. La unidad de delegación es la carencia, no la clase.
+- **«Los niños pequeños obtienen menos de la alfabetización mediática apoyada por la IA.»** El grupo con apoyo de IA mostró **grandes ganancias en lectura mediática (+3,50), escritura (+1,67) y alfabetización mediática total (+5,17; todas con p < ,01)**, con tamaños del efecto entre grupos de *d* = 1,12 o superiores. Las ganancias fueron grandes en esta franja de edad, no marginales.
+- **«La observación automatizada coincide con los evaluadores humanos en todos los ámbitos.»** El acuerdo fue **moderado en general (κ ponderada = 0,681) pero condicionado al constructo**: la convergencia se mantuvo en el dominio de **Apoyo Emocional** y en **Calidad de la Retroalimentación**, y no en los demás. Promediar los dominios oculta dónde falla el instrumento.
 
 ## Conceptos conectados
 

@@ -2,7 +2,7 @@
 connected_resources: [teacherserver]
 title: Generación automática de preguntas
 created: "2026-09-28T18:15:33-04:00"
-updated: "2026-10-02T21:36:16-04:00"
+updated: "2026-10-26T21:37:14-04:00"
 type: concept
 technology: [adaptive-learning, educational-nlp, generative-ai, llm, personalized-learning]
 assessment: [assessment, automated-assessment, automated-question-generation, educational-measurement, formative-assessment]
@@ -10,7 +10,7 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation]
 translation_of: concepts/automated-question-generation
-source_updated: "2026-09-30T11:35:26-04:00"
+source_updated: "2026-10-25T21:20:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -79,6 +79,16 @@ La AQG es un habilitador clave del aprendizaje [[adaptive-learning|adaptativo]] 
 - **Diseñe para la profundidad cognitiva:** las consignas y las cadenas deben apuntar al pensamiento de orden superior, y no solo al recuerdo, para apoyar un aprendizaje genuino.
 - **Calibre la dificultad:** use las estimaciones de dificultad de la IA para seleccionar ítems con un reto adecuado, con una validación sólida antes de usos de alta exigencia.
 - **Personalice mediante modelos del estudiantado:** combine la AQG con el seguimiento del conocimiento y los modelos de interés para generar ítems adaptativos e individualizados.
+
+## Concepciones erróneas
+
+**«Las preguntas generadas son utilizables a la escala en que se pueden producir.»** El volumen no es la restricción; la calibración sí. La calidad varía enormemente según el tipo de ítem y exige validación para evitar ítems alucinados o mal calibrados, y por eso las cadenas que funcionan dedican su esfuerzo a la verificación y no a la generación: una redujo la alucinación un **62%** añadiendo un bucle de generar-validar-refinar.
+
+**«Un bucle de refinamiento hace fiables los ítems generados.»** Los hace menos erróneos. Una reducción del 62% en la alucinación deja un remanente sustancial, y ningún bucle resuelve el problema más difícil de si la dificultad declarada de un ítem coincide con lo que el estudiantado hace de verdad: la cuestión de [[assessment-validity|validez]] en la que la evidencia sobre las etiquetas de dificultad muestra que fallan los metadatos generados. La validación reduce el contenido fabricado; la calibración requiere datos de respuesta del estudiantado.
+
+**«La generación de preguntas personaliza la práctica de forma natural.»** Genera oferta, y la personalización es un problema de emparejamiento. Producir más ítems no indica qué ítem debería ver a continuación cada estudiante, y la cuestión de la selección adaptativa es un mecanismo aparte con su propia evidencia.
+
+**«La generación escala la evaluación sin cambiar lo que esta mide.»** Cambia la composición de lo que se mide, porque los ítems que se generan bien no son una muestra representativa de los ítems que evalúan bien. Los formatos fáciles de generar desplazarán progresivamente a los más difíciles de generar, lo que reconfigura el constructo sin que se note.
 
 ## Conceptos conectados
 

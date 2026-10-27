@@ -1,7 +1,7 @@
 ---
 title: Patrones pedagógicos
 created: "2026-09-30T16:48:24-04:00"
-updated: "2026-10-22T09:13:53-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 type: concept
 foundations: [ai-education, learning-design]
 pedagogy: [pedagogy, scaffolding]
@@ -11,7 +11,7 @@ level: [higher ed, k 12]
 confidence: high
 connected_faqs: [designing-ai-into-learning]
 translation_of: concepts/pedagogical-patterns
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-26T12:05:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -177,6 +177,12 @@ Los patrones siguientes proceden de una guía para el profesorado facilitada por
 - **Plan + intento + adaptación** (éxito universitario). Sustituir una reflexión genérica sobre gestión del tiempo por un plan de estudio de una semana, un breve registro de haberlo intentado y una revisión ligada a lo que ocurrió; la IA puede sugerir opciones de programación después de que el estudiante identifique las restricciones.
 
 Las advertencias de la propia guía se aplican: el vídeo grabado, las reflexiones y los registros pueden estar ellos mismos asistidos por IA, así que en cursos totalmente asíncronos una grabación no debería tratarse como verificación del dominio independiente. Dos de sus enfoques — los gemelos de evaluación y la evaluación oral asíncrona como disuasión de la copia — siguen siendo marcos a la espera de validación; los estudios de evaluación oral asíncrona citados arriba midieron puntuaciones de formato y no midieron la copia en absoluto.
+
+## Concepciones erróneas
+
+- **«Cualquier práctica suministrada por IA es práctica.»** Una condición de recuperación espaciada adaptativa produjo **las puntuaciones de postest más altas (M = 78,19)** y **superó significativamente al estudio con IA dirigido por quien aprende (M = 67,28)**. El arreglo dirigido por quien aprende rindió peor que uno estructurado, así que la autonomía no es automáticamente el mejor diseño.
+- **«Estudiar con un chatbot es mejor que estudiar sin él.»** El **caso de contraste es decisivo**: en un [[rct|ensayo aleatorizado]] con **120 estudiantes**, el grupo que estudió **con** ChatGPT sin restricciones retuvo **menos en una prueba sorpresa**. La herramienta fue perjudicial para la retención en el arreglo probado.
+- **«La evidencia del patrón es un gran ensayo agrupado.»** El **apoyo más fuerte es indirecto** y procede de un **experimento aleatorizado intra-sujeto con 26 estudiantes**, donde el [[scaffolding]] de respuesta inmediata se comportó de forma significativamente distinta. La evidencia sostiene el patrón y sigue siendo escasa en escala, y la página debería leerse así.
 
 ## Conceptos conectados
 

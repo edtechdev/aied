@@ -2,7 +2,7 @@
 connected_resources: [matt-pocock-skills]
 title: Método socrático
 created: "2026-09-28T20:10:39-04:00"
-updated: "2026-10-22T07:28:42-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 type: concept
 foundations: [ai-education, critical-thinking]
 pedagogy: [metacognition, scaffolding]
@@ -12,7 +12,7 @@ audience: [learners]
 level: [higher ed]
 confidence: high
 translation_of: concepts/socratic-method
-source_updated: "2026-10-19T09:40:00-04:00"
+source_updated: "2026-10-26T09:35:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -43,6 +43,8 @@ ai_assist:
 El método socrático es una de las técnicas pedagógicas más antiguas — originada con Sócrates en la antigua Atenas — y ha encontrado una nueva relevancia en la era de la [[generative-ai|IA generativa]]. En la [[research-methods-aied|investigación]] sobre IA en educación, el método socrático se refiere a sistemas de IA que involucran a los estudiantes mediante diálogo guiado, planteando preguntas que llevan a los estudiantes a descubrir las respuestas en lugar de proporcionarlas directamente. Formular preguntas estructuradas en lugar de proporcionar respuestas es uno de los andamiajes pedagógicos más fuertes para el aprendizaje profundo; cuando se automatiza mediante IA, produce ganancias de razonamiento medibles, pero también requiere una calibración cuidadosa para evitar frustrar a los estudiantes o desplazar la mentoría humana.([[hashmi-socratic-physics-chatbot-2025]])([[favero-critical-ai-tutors-empower-enslave-2025]])
 
 La retroalimentación socrática y la directiva movilizaron cosas distintas: la retroalimentación socrática elevó el monitoreo de la comprensión y la orientación a la tarea, la retroalimentación directiva obtuvo puntuaciones más altas en la priorización de las características esenciales, y solo la condición directiva ganó con un agente personalizado ([[agent-type-feedback-style-self-directed-learning-2026|Han et al. (2026)]]).
+
+[[ngambi-ai-learning-ecosystems-domino-framework-2026|Ng'ambi y van der Merwe (2026)]] capturan el cuestionamiento socrático funcionando y fallando en la misma clase de matemáticas de noveno grado: cuando quien aprendía llegaba con una hipótesis, el tutor la descomponía en subpreguntas, pero ante una tarea estructurada sobre Pitágoras la repetía y se desviaba del tema.
 
 ## Cómo funciona en la tutoría con IA
 
@@ -121,6 +123,12 @@ El método socrático está estrechamente ligado al [[scaffolding]] (proporciona
 3. ¿Puede combinarse la IA socrática con la [[becerra-aicofe-feedback-2026|retroalimentación entre pares]] para una amplificación social?
 
 - **Retener respuestas para provocar el razonamiento.** [[puech-pedagogical-steering-llm-productive-failure-2025|Puech et al. (2025)]] diseñan tutores con LLM para seguir la pedagogía del [[productive-failure|fracaso productivo]] reteniendo las soluciones y suscitando múltiples intentos — una negativa de estilo socrático a dar ayuda excepto cuando es estrictamente necesario; [[wang-safety-gap-productive-struggle-2026|Wang y Shan (2026)]] recomiendan arquitecturas de IA socráticas y adversariales que preserven la fricción cognitiva constructiva.
+
+## Concepciones erróneas
+
+- **«El cuestionamiento socrático es solo la ausencia de respuestas.»** Un chatbot socrático personalizado desplegado en un curso introductorio de mecánica de matrícula numerosa (**150 estudiantes de primer curso de [[stem-education|STEM]]**) produjo ganancias **medibles**, y el diseño es cuestionamiento estructurado: una interacción restringida, no un modelo silencioso.
+- **«El efecto es posterior a la implicación.»** [[socratic-nuclear-ai-learning|Socrates went Nuclear (Clin Deffarges, Kosmyna y Maes, 2026)]] es un **estudio aleatorizado con EEG de 50 participantes** que compara un bot sin restricciones al estilo ChatGPT con uno **socrático**, y mide el mecanismo en lugar de inferirlo a partir de los resultados.
+- **«Las restricciones son el problema que hay que eliminar.»** El apoyo causal más sólido a la restricción apunta en la dirección contraria: en una revisión de K-12, el estudiantado de secundaria que usaba un chatbot de uso general **obtuvo alrededor de un 17% peor en exámenes finales sin apuntes** que sus pares que usaban una herramienta restringida. La herramienta sin restricciones era la condición dañina.
 
 ## Conceptos conectados
 

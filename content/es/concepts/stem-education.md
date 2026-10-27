@@ -1,7 +1,7 @@
 ---
 title: Educación STEM
 created: "2026-09-28T20:10:39-04:00"
-updated: "2026-10-22T07:28:08-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 type: concept
 foundations: [computational-thinking]
 technology: [intelligent-tutoring]
@@ -10,7 +10,7 @@ discipline: [cs education, math education, physics education]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/stem-education
-source_updated: "2026-10-21T12:05:00-04:00"
+source_updated: "2026-10-26T09:10:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -37,7 +37,7 @@ ai_assist:
 ### STEM como dominio principal de la AIED
 
 - **Matemáticas:** la investigación sobre [[math-education|educación matemática]] abarca el [[generative-ai-reduced-study-time-math|impacto de la IA generativa en el aprendizaje de las matemáticas]], la [[ai-powered-personalized-learning-elementary-fractions-2026|tutoría de fracciones en primaria]] y la [[student-math-competence-clustering|agrupación por competencia]].
-- **La evidencia de los ITS en matemáticas es acotada y condicional.** Una revisión narrativa estructurada de 20 publicaciones (2020–abril de 2026) encontró la ventaja medida más clara en la [[feedback|retroalimentación]] diagnóstica en tiempo real superpuesta al mismo sistema adaptativo, pero concluyó que la tutoría inteligente apoya el aprendizaje de las matemáticas solo cuando se combinan un [[student-modeling|modelado de quien aprende]] válido, un andamiaje calibrado y la mediación del profesorado, y que la escalabilidad es técnica y no educativa ([[intelligent-tutoring-mathematics-education-review-2026|Ogunsakin et al. (2026)]]).
+- **La evidencia de los ITS en matemáticas es acotada y condicional.** Una revisión narrativa estructurada de 20 publicaciones (2020–abril de 2026) encontró la ventaja medida más clara en la [[feedback]] diagnóstica en tiempo real superpuesta al mismo sistema adaptativo, pero concluyó que la tutoría inteligente apoya el aprendizaje de las matemáticas solo cuando se combinan un [[student-modeling|modelado de quien aprende]] válido, un andamiaje calibrado y la mediación del profesorado, y que la escalabilidad es técnica y no educativa ([[intelligent-tutoring-mathematics-education-review-2026|Ogunsakin et al. (2026)]]).
 - **Física:** la [[physics-education|educación en física]] incluye [[becker-chatgpt-typology-physics-2026|estudios de tipología de ChatGPT]], [[hashmi-socratic-physics-chatbot-2025|chatbots socráticos de física]] y [[ai-scoring-language-bias-physics|análisis del sesgo de puntuación]].
 - **Informática:** la [[cs-education|educación en informática]] es el subcampo de STEM más investigado: [[code-review-genai-cs1|revisión de código]], [[debugtracker-classroom-debugging|herramientas de depuración]] y [[prompt-problems-nl-programming-mistakes|estudios sobre prompts]].
 - **Ingeniería:** los [[concept-catalyst-engineering-scaffolds|andamiajes de ingeniería]], las [[structured-ai-demonstrations-engineering-mechanics|demostraciones de mecánica]] y el [[ai-engineering-education-balancing-act|equilibrio curricular]] llevan la IA a la [[engineering-education|educación en ingeniería]].
@@ -80,6 +80,12 @@ Un conjunto concentrado de estudios de 2026 del *International Journal of STEM E
 - **Aproveche la ventaja del ajuste estructurado de STEM, pero proteja el razonamiento.** Las respuestas verificables de STEM lo convierten en el dominio más tratable con IA; proteja frente a la dependencia excesiva y la sustitución de respuestas integrando la IA en flujos de trabajo estructurados y orientados al dominio.
 - **Incorpore la alfabetización en IA en todas las asignaturas STEM.** Los estudios ([[zha-ai-literacy-biology-case-study|biología]], [[ai-tpack-preservice-math-teachers|formación de docentes de matemáticas]]) muestran que el contexto STEM apoya el aprendizaje sobre IA; integre los conceptos de IA allí donde surgen de forma natural en lugar de aislarlos.
 - **Vigile la [[equity-in-ai-education|equidad]] y el acceso en la adopción de la IA.** Las herramientas de IA para STEM no son neutras; supervise el sesgo de puntuación, el acceso y la [[digital-divide|brecha digital]], y el diseño [[culturally-relevant-pedagogy|culturalmente relevante]] al desplegarlas.
+
+## Concepciones erróneas
+
+- **«La tutoría inteligente funciona de forma uniforme en todas las áreas STEM.»** Una revisión narrativa estructurada de **20 publicaciones (2020-abril de 2026)** encontró la ventaja medida más clara en la tutoría de **diagnóstico en tiempo real** específicamente. La evidencia es **acotada y condicional**, y generalizarla a toda la tutoría inteligente en matemáticas exagera lo que se revisó.
+- **«La simulación es un sustituto pobre del trabajo práctico.»** El grupo de simulación **superó al grupo práctico en conocimiento STEM alineado con el currículo (M = 3,00 frente a 2,06; t(28) = 2,23, p = 0,034, d = 0,82)**. La simulación no era un recurso de reserva con un rendimiento inferior al de la actividad real.
+- **«Un flujo de trabajo de revisión de literatura con IA sobre todo ahorra tiempo.»** Los resultados de **20 estudiantes con 80 documentos** mostraron **más del 90% de extracción de parámetros experimentales, una reducción de alrededor del 65% en el tiempo de revisión de literatura y un aumento del 50% en la capacidad del estudiantado para identificar** trabajo influyente. La ganancia de capacidad fue el resultado mayor y el ahorro de tiempo el menor.
 
 ## Conceptos conectados
 - [[learner-identity]] — identidades de quien aprende en evolución: disciplinares, profesionales, creativas y académicas

@@ -1,12 +1,12 @@
 ---
 title: Análisis de perfiles latentes
 created: "2026-09-28T21:04:13-04:00"
-updated: "2026-10-22T09:13:53-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 type: concept
 methods: [quantitative-research, research-methods-aied]
 confidence: high
 translation_of: concepts/latent-profile-analysis
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-26T09:35:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -84,6 +84,12 @@ Cuatro cautelas, cada una formulada en las páginas de origen:
 2. **Prefiera métodos centrados en las personas cuando el producto sea la diferenciación.** Los estudios sobre futuros docentes y sobre directivos presentan ambos ese giro como su aportación metodológica, porque los predictores promedio no pueden revelar las configuraciones que justifican un apoyo diferenciado.
 3. **Informe por completo de la evidencia de retención.** Publique las comparaciones de BIC/AIC, la entropía, los tamaños de los perfiles y una comprobación de estabilidad, y diga con claridad cuándo un número de clases es exploratorio.
 4. **Trate los perfiles como diagnósticos, no como etiquetas.** Un perfil es un constructo de investigación con una frontera estimada, así que una herramienta que asigna a las personas a categorías nombradas arrastra la cautela de cualquier instrumento de [[educational-measurement|medición]], y los [[differential-effects-across-learner-groups|efectos diferenciales entre grupos de estudiantes]] merecen el escrutinio de cualquier análisis de subgrupos.
+
+## Concepciones erróneas
+
+- **«El análisis de perfiles latentes descubre grupos que existen.»** El APL convierte la diversidad del estudiantado de una afirmación retórica en un hallazgo medible, y los perfiles son un **modelo de un continuo dividido en fronteras elegidas**, no clases naturales. El número de perfiles es una decisión analítica.
+- **«Cualquier miembro de la familia de variables latentes sirve.»** Cuál se usa **depende de los indicadores**: **análisis de clases latentes (ACL) para indicadores categóricos** y APL para los continuos. Elegir primero el método y después los indicadores convierte el resultado en un artefacto de esa elección.
+- **«Los perfiles son comparables entre estudios.»** Chen y sus colegas perfilaron a **128 futuros docentes taiwaneses** en cinco constructos del [[technology-acceptance-model|TAM]]/UTAUT2, mientras que Acquah y sus colegas perfilaron a **509 estudiantes de grado ghaneses**. Indicadores distintos en poblaciones distintas no producen etiquetas de perfil conmensurables.
 
 ## Conceptos conectados
 

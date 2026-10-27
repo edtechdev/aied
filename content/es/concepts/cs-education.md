@@ -1,8 +1,8 @@
 ---
-connected_resources: [liascript]
+connected_resources: [liascript, code-viva]
 title: Enseñanza de la informática
 created: "2026-09-28T19:11:56-04:00"
-updated: "2026-10-24T08:28:15-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 type: concept
 foundations: [ai-literacy, computational-thinking]
 technology: [generative-ai, llm, prompt-engineering]
@@ -11,7 +11,7 @@ discipline: [stem education, cs education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/cs-education
-source_updated: "2026-10-24T08:54:00-04:00"
+source_updated: "2026-10-26T11:40:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -134,6 +134,13 @@ La enseñanza de la informática se conecta con [[computational-thinking|el pens
 - **Estructura la colaboración para todo el estudiantado.** Los equipos más pequeños y estables, los roles explícitos y la transparencia en el uso de IA apoyan al estudiantado [[neurodiversity|neurodivergente]] y una colaboración justa, sobre todo donde las creencias desalineadas sobre el uso de IA bajan las puntuaciones de los proyectos.
 
 - **Explicaciones adaptativas de los errores de programación con LLM (2026):** un estudio de crowdsourcing (N=103) encontró que los mensajes de error reescritos por LLM mejoran la legibilidad, pero que el rendimiento objetivo en la depuración depende de ajustar el estilo de la explicación (pragmática o contingente) a la habilidad de quien programa; una idea de andamiaje para la enseñanza de la programación asistida por IA ([[llm-adaptive-programming-error-explanations-2026]]).
+- **La supervisión tiene que ver con la idoneidad, no con la corrección (2026):** al codificar 962 turnos de estudiantado e IA de 145 estudiantes de primer año de ingeniería de software, [[novice-se-students-oversight-genai-2026|Shakiba y Chaffey (2026)]] encontraron que el 74,4% de las intervenciones nombraban problemas de idoneidad frente al 16,9% que nombraban problemas de corrección, y que el 51,0% de las respuestas modificaban la salida en lugar del prompt.
+
+## Concepciones erróneas comunes
+
+- **«El estudiantado que coprograma con IA está aprendiendo a programar.»** En la coprogramación entre estudiantado e IA, **casi el 80% de las interacciones se apoyaban en estrategias no orientadas al aprendizaje, como externalizar las respuestas**, y solo **alrededor de 1 de cada 9 mostraba una implicación epistémica profunda**. El patrón dominante es transaccionar para obtener un resultado.
+- **«Los agentes conversacionales para principiantes se fundamentan en la teoría del aprendizaje.»** **Solo 4 de los 23 estudios fundamentan su diseño en la [[learning-theories|teoría del aprendizaje]]**, de modo que la mayor parte de la base de evidencia documenta lo que hizo un sistema sin una teoría de por qué debería funcionar.
+- **«La literatura sobre herramientas refleja la distribución global del campo.»** **17 de los 23 prototipos son solo en inglés pese a que la mayor parte de la investigación proviene de contextos no anglófonos**. Los prototipos sirven a una población más estrecha que la investigación.
 
 ## Conceptos conectados
 
@@ -214,3 +221,4 @@ La enseñanza de la informática se conecta con [[computational-thinking|el pens
 - [[student-llm-use-cs-subfields-2026]] — La adopción de LLM osciló entre el 89,6% en algoritmos y el 15,2% en ingeniería de software en 211 estudiantes, siguiendo la tarea y no la subdisciplina
 - [[educator-guided-llm-pedagogical-agent-2026]] — Retroalimentación escalonada redactada por el profesorado para el diseño conceptual de bases de datos: diagnóstico oculto, divulgación controlada, 71,1% en el nivel objetivo en 383 episodios
 - [[socraticrepair-program-debugging-2026]] — SocraticRepair: tutoría socrática guiada por planificación para la depuración de programas y la reparación de concepciones erróneas
+- [[novice-se-students-oversight-genai-2026]] — Más allá de la corrección: cómo el estudiantado novel de ingeniería de software ejerce la supervisión de la IA generativa (Shakiba y Chaffey 2026)

@@ -1,7 +1,7 @@
 ---
 title: Teoría de la autodeterminación
 created: "2026-09-28T18:17:50-04:00"
-updated: "2026-10-22T07:28:08-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 type: concept
 foundations: [ai-education, teacher-ai-competency]
 pedagogy: [motivation, self-determination-theory]
@@ -9,7 +9,7 @@ technology: [affective-computing]
 audience: [learners]
 confidence: high
 translation_of: concepts/self-determination-theory
-source_updated: "2026-10-17T07:38:51-04:00"
+source_updated: "2026-10-26T08:20:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -63,6 +63,12 @@ Un marco de coagencia acota el alcance de la SDT en la educación mediada por IA
 ## Conexiones con conceptos relacionados
 
 La SDT se conecta directamente con la [[motivation|motivación]] como su constructo padre, con la [[affective-computing|computación afectiva]] y la [[affective-tutoring|tutoría afectiva]] por el diseño de IA sensible a las emociones, y con la [[student-experience|experiencia del estudiante]] por cómo vive el estudiantado los entornos mediados por IA. El énfasis de la teoría en la autonomía conecta con el [[self-regulated-learning|aprendizaje autorregulado]], mientras que su dimensión de competencia conecta con [[self-efficacy-tutoring-learning|la autoeficacia]] y la [[teacher-ai-competency|competencia docente en IA]]. La SDT es especialmente pertinente para la [[professional-training|formación profesional]] y el [[educational-development|desarrollo educativo]], porque el diseño que apoya las necesidades es un principio transferible para preparar a los educadores en el uso de la IA.
+
+## Concepciones erróneas
+
+- **«El tipo de motivación importa menos que su cantidad.»** Un estudio de un año encontró **tres perfiles motivacionales —desvinculado, en desarrollo y autodeterminado— estables en el tiempo**, y el estudiantado que llegaba al perfil **autodeterminado** mostraba las **mayores ganancias de [[ai-literacy|alfabetización en IA]]**. La calidad de la motivación predecía el aprendizaje, y los perfiles no se desplazaban simplemente hacia arriba.
+- **«Apoyar la autonomía significa eliminar la estructura.»** El mecanismo de la SDT es la autonomía, la competencia y la relación con los demás en conjunto, y la evidencia longitudinal muestra que satisfacerlas predecía las ganancias en lugar de solo acompañarlas. La autonomía sin apoyo a la competencia es permisividad, y no cumple las condiciones de la teoría.
+- **«Un chatbot puede suministrar las tres necesidades de forma automática.»** Un estudio encontró que ChatGPT podía apoyar la autonomía, la relación con los demás y la competencia en el aprendizaje de lenguas: una posibilidad, no una propiedad. Que una interacción concreta las apoye es una pregunta empírica sobre cómo se usa.
 
 ## Conceptos conectados
 

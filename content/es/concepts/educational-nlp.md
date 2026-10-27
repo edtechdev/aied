@@ -1,13 +1,13 @@
 ---
 title: PLN educativo
 created: "2026-09-28T19:11:07-04:00"
-updated: "2026-10-24T08:21:30-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 type: concept
 confidence: medium
 technology: [educational-nlp, intelligent-tutoring, student-modeling, knowledge-tracing, adaptive-learning]
 pedagogy: [scaffolding, socratic-method]
 translation_of: concepts/educational-nlp
-source_updated: "2026-10-23T08:05:20-04:00"
+source_updated: "2026-10-26T08:45:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -67,6 +67,12 @@ El PLN educativo sustenta tanto el análisis del lenguaje de quien aprende ([[st
 Los embeddings también pueden organizar el texto del estudiantado por su forma superficial y no por el constructo que se está enseñando. En un conjunto sintético sobre el motor de Carnot, el mismo pipeline agrupó los enunciados por su redacción y no por la física, una representación propia de novatos, sostienen [[embedding-similarity-clustering-handwritten-physics-2026|Tauschhuber y Kortemeyer (2026)]], lo que convierte el agrupamiento en una herramienta para explorar y no para calificar.
 
 La compresión de modelos pertenece al mismo conjunto de herramientas: un pipeline de dos etapas destila un estimador de caja negra ajustado y su interpretación post hoc en un modelo pequeño de pesos abiertos, de modo que un «aprendiz» de 2B parámetros devuelve tanto una estimación como una explicación en lenguaje natural sin conexión en un portátil corriente ([[distilling-self-explaining-lm-learning-analytics-2026]]).
+
+## Concepciones erróneas
+
+- **«La similitud semántica puede filtrar la alineación curricular.»** Al examinar **3.837 pares de objetivo-resumen en odontología**, la recuperación por embeddings junto con una comprobación de inferencia de lenguaje natural **juzgó alineados el 22,9% de los ítems**: la similitud semántica es una **señal débil** de alineación. Una coincidencia temática fluida y una coincidencia genuina con el objetivo de aprendizaje son relaciones distintas.
+- **«La clasificación a nivel de intervención es la unidad natural.»** **El modelado de la lección completa supera a la clasificación por intervenciones**: puntuar transcripciones enteras en lugar de intervenciones aisladas **elevó la detección de cadenas de razonamiento en 14,2 puntos porcentuales**. El contexto de la lección aporta información que cualquier turno individual destruye.
+- **«Escalar el PLN sobre los comentarios de evaluación produce impacto.»** Una revisión de alcance PRISMA-ScR y un mapa de evidencia de **421 estudios** (2015-2026) que aplican PLN a la evaluación docente abierta por parte del estudiantado encontraron escalado **sin llegar al uso**. El volumen de producción metodológica no es adopción, y la brecha está en el paso de despliegue y no en el modelado.
 
 ## Conceptos conectados
 

@@ -1,7 +1,7 @@
 ---
 title: "Educación en diseño"
 created: "2026-09-28T18:18:41-04:00"
-updated: "2026-10-22T07:34:46-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 type: concept
 foundations: [ai-literacy, design-thinking]
 pedagogy: [creativity, professional-training]
@@ -12,7 +12,7 @@ audience: [instructors, instructional designers, curriculum designers, faculty d
 level: [higher ed]
 confidence: high
 translation_of: concepts/design-education
-source_updated: "2026-10-16T08:47:09-04:00"
+source_updated: "2026-10-26T07:30:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -67,6 +67,13 @@ También es distinta del [[design-thinking|pensamiento de diseño]], un método 
 ## Formación profesional y regulación
 
 Los problemas de evaluación aquí son inseparables de los profesionales. [[ai-interior-design-malaysia-2026|Syed Abdul Rahman (2026)]] describe a los diseñadores de interiores malasios pasando de ser generadores primarios de formas a mediadores críticos y curadores de la producción de las máquinas, con plataformas de [[visualization|visualización]] que comprimen los plazos mientras los esquemas generados siguen careciendo de especificidad cultural, sensibilidad climática y constructibilidad fiable. Su recomendación curricular es la secuenciación y no la sustitución: CAD/BIM, conocimiento de la construcción y factores humanos antes de la exploración generativa, y criterios que premien el [[critical-thinking|pensamiento crítico]] y la reflexión ética. El lado profesional sigue sin resolverse: la regulación del diseño de interiores está menos formalizada que la de la arquitectura, lo que deja abiertas cuestiones de divulgación, responsabilidad por el error algorítmico y pérdida de cualificación entre profesionales al inicio de su carrera. El análisis se basa en documentos y se limita a un solo país.
+
+## Concepciones erróneas
+
+- **«La IA en un taller de diseño es sobre todo una ayuda para escribir.»** Una encuesta a **280 estudiantes de diseño del Politecnico di Milano** más **100 diarios de uso de IA de estudiantes de máster** encontró que el uso se concentraba en la investigación y la escritura —**editar textos 77,5%, buscar información 74,5%, generar ideas 68,0%**—, y que el **uso para tareas completas era raro (18,6%)**. El patrón es la ampliación de partes, no la sustitución del conjunto, y los números muestran dónde está la práctica real.
+- **«El estudiantado de diseño adopta las herramientas con entusiasmo.»** La misma cohorte muestra un **71% que usa la IA generativa a diario o semanalmente, un 65% que desconfía de ella y un 85% que modifica sus salidas**. El uso frecuente y la baja confianza coexisten, así que una herramienta cuya propuesta de valor presupone confianza ha leído mal a sus usuarios.
+- **«La IA generativa es genéricamente útil a lo largo de todo el proceso de diseño.»** La plataforma GAI-A, construida a lo largo de un estudio longitudinal de taller, encontró **solo dos usos productivos**: la IA generativa como estímulo visual en la ideación temprana y como **ampliadora combinatoria del espacio de soluciones durante el desarrollo**. La utilidad dependía de la fase.
+- **«Las ganancias de creatividad son demasiado difusas para medirlas.»** En un **subgrupo de 31 estudiantes**, las puntuaciones de pensamiento creativo subieron de **77,23 a 94,68 (d = 0,82)**. La ganancia es medible y está acotada a un subgrupo, que es la forma honesta de la afirmación.
 
 ## Conceptos conectados
 

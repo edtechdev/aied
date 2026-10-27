@@ -1,7 +1,7 @@
 ---
 title: Educación en física
 created: "2026-09-28T20:10:55-04:00"
-updated: "2026-10-24T08:21:18-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [socratic-method]
@@ -11,7 +11,7 @@ audience: [learners, instructors]
 level: [higher ed]
 confidence: high
 translation_of: concepts/physics-education
-source_updated: "2026-10-23T08:03:41-04:00"
+source_updated: "2026-10-26T11:15:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -99,6 +99,12 @@ La educación en física se sitúa dentro del dominio más amplio de la [[stem-e
 - **Reservar práctica y evaluación sin ayuda.** El rediseño de Bochum ([[ai-particle-physics-education-redesign-2026|Mikhasenko et al. 2026]]) muestra que unos deberes con forma de investigación y con IA permitida, completados con una alta implicación, pueden dejar al estudiantado muy atrás en un examen sin ayuda (media 20,6/80): trate el desempeño asistido y el conocimiento recuperable de forma independiente como cosas distintas, e incorpore al curso una práctica deliberada sin ayuda y un examen escrito.
 
 - **Verificar la fidelidad del facilitador; mantener la fase de construcción del modelo sin IA.** Ante la insistencia de «dinos simplemente» qué lata pesaba más, un Gem configurado a propósito inventó valores de masa que nadie había medido, así que la fidelidad de un facilitador basado en lenguaje debe comprobarse en lugar de darse por supuesta, y la fase de construcción sin IA preserva el trabajo manual que este no puede alcanzar ([[embodied-inquiry-ai-facilitator-physics-2026|Tufino y Damiani (2026)]]).
+
+## Concepciones erróneas
+
+- **«El estudiantado confía en la IA lo suficiente como para usarla sin crítica.»** [[fouad-bentley-trust-utility-gap-physics-2026|Fouad y Bentley]] encontraron una **brecha de 50 puntos entre confianza y utilidad**: **el 91% usa la IA para el trabajo de curso, pero solo el 41% confía en ella**. Un uso extendido convive con una confianza baja, así que una intervención dirigida a generar entusiasmo aborda la variable equivocada.
+- **«El estudiantado de física es una sola población.»** [[becker-chatgpt-typology-physics-2026|Becker et al.]] desarrollaron una tipología de dos perfiles a partir de **1.189 respuestas de encuesta**: **70% «usuarios pragmáticos» y 30% «no usuarios escépticos»**. Una política única de aula tiene que servir a dos grupos con posturas opuestas.
+- **«La brecha entre uso y confianza es irracional.»** Las dos cifras miden cosas distintas: si la herramienta le ayuda a terminar el trabajo y si cree que lo hace correctamente. El estudiantado distingue utilidad de fiabilidad, que es la distinción analíticamente correcta y no una contradicción.
 
 ## Conceptos conectados
 

@@ -1,7 +1,7 @@
 ---
 title: "Ciencias del aprendizaje"
 created: "2026-09-28T20:12:29-04:00"
-updated: "2026-10-22T07:28:42-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 type: concept
 foundations: [learning-design]
 pedagogy: [cognitive-psychology, learning-theories, pedagogy]
@@ -13,7 +13,7 @@ page_kind: [framework, synthesis]
 confidence: high
 methods: [research-methods-aied]
 translation_of: concepts/learning-sciences
-source_updated: "2026-10-16T08:47:09-04:00"
+source_updated: "2026-10-26T07:05:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -79,6 +79,28 @@ La [[cognitive-psychology]] es la disciplina del nivel de mecanismo en la que el
 La [[pedagogy]] y el [[learning-design]] cubren la práctica —qué estrategia docente usar, y cómo secuenciar objetivos, actividades y evaluación en un curso—. Ambas son lo que las ciencias del aprendizaje estudian desde fuera, como objetos de descripción y evaluación; el campo no le dice a un docente qué táctica emplear a continuación, informa de lo que se ha demostrado que hacen las tácticas. El diseño de aprendizaje es el pariente más cercano, ya que ambos producen algo que puede implementarse y ponerse a prueba, pero el resultado del diseñador es un curso enseñable y el resultado del campo es conocimiento sobre los diseños en general.
 
 Los hallazgos solo importan una vez que llegan a la enseñanza, y ese recorrido pasa por tres páginas. [[educational-development]] es la práctica institucional que los transporta —el desarrollo del profesorado, los estándares, la política y el trabajo sobre la identidad deciden si un diseño validado llega alguna vez a un aula, y es por lo que la evidencia del campo va sistemáticamente por delante de lo que las instituciones han implementado—. [[teacher-education]] es donde el conocimiento tiene que aterrizar antes de que un docente entre en el aula, y [[teacher-role]] es donde aterriza después, en el juicio momento a momento sobre cuándo intervenir, qué instrumento usar y cuándo dejar sola a una persona que aprende. Ninguna de las tres produce hallazgos de las ciencias del aprendizaje; las tres deciden si esos hallazgos cambian la práctica.
+
+## Concepciones erróneas
+
+- **«Un umbral de dominio alto garantiza que quien aprende sepa discriminar.»** [[deceptive-overgeneralization-adaptive-learning-2026|An, McLaren y Stamper (2026)]] realizaron **once experimentos (N = 192)** con sistemas de [[intelligent-tutoring|tutoría inteligente]] y encontraron que con un **umbral de dominio del 95% el sistema detenía la práctica antes de que el estudiantado se enfrentara a un caso que exigiera retener la acción**, de modo que el defecto pasó inadvertido. Dominar la acción no incluía saber cuándo no aplicarla, y el umbral certificaba el constructo equivocado.
+- **«Más ejemplos son más seguros.»** [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit, Koedinger y Carvalho (2025)]] tratan la ratio de ejemplos y problemas como una **interacción contenido-tratamiento**, y en un experimento 2×2 el óptimo **dependía del contenido**. No hay una ratio correcta en general, así que una plantilla instruccional fija es una apuesta contra una interacción.
+- **«Corregir la idea errónea es cuestión de decirle al estudiantado la respuesta correcta.»** Una práctica breve de no actuar con [[feedback]] que nombra la restricción ausente redujo la aplicación errónea a **0,0%-23,1% (h de Cohen 1,70-2,44)**, y un análisis secundario de **trece conjuntos de datos de *Decimal Point* de K-12** encontró el mismo patrón estructural. La intervención eficaz fue la práctica discriminativa con retroalimentación específica, y no la corrección por afirmación, que es lo que el trabajo sobre [[refutation-text|textos de refutación]] establece en general.
+- **«Un nivel de Bloom más alto significa más aprendizaje activo.»** El tipo de aprendizaje siguió el nivel del resultado pretendido, con la **adquisición bajando de alrededor del 50% de las actividades en el nivel 1 de Bloom a cerca del 20% en el nivel 6**. La demanda cognitiva y el tipo de actividad se mueven juntos pero no son el mismo eje, así que etiquetar una tarea por su nivel de Bloom no dice qué hará el estudiantado con ella.
+
+## Qué significa esto para la práctica
+
+**Para el profesorado**
+
+- Enseñe explícitamente el caso negativo. El fallo del umbral del 95% es la razón: introduzca condiciones en las que el movimiento correcto sea retener la acción, o quien aprende la aplicará en todas partes.
+- No fije la ratio de ejemplos y problemas a lo largo de un curso. La interacción contenido-tratamiento significa que la ratio adecuada para los procedimientos no es la adecuada para los conceptos.
+- Use práctica discriminativa con retroalimentación que nombre la restricción ausente en lugar de repetir la regla. Esa es la intervención con tamaños del efecto medidos aquí.
+- Compruebe qué certifica de verdad su criterio de dominio antes de confiar en él.
+
+**Para quienes desarrollan**
+
+- No detenga la práctica solo por corrección. Modele la condición de retención como una habilidad propia, o el sistema certificará la sobregeneralización.
+- Deje que la ratio sea un parámetro y no una constante, porque la evidencia dice que el óptimo depende del contenido.
+- Informe de qué constructo mide su criterio, por separado de qué constructo mide su validación.
 
 ## Conceptos conectados
 

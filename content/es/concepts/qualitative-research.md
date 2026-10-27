@@ -1,13 +1,13 @@
 ---
 title: Investigación cualitativa
 created: "2026-09-28T21:14:31-04:00"
-updated: "2026-10-22T09:13:53-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 type: concept
 research_method: [interviews, case study]
 confidence: high
 methods: [qualitative-research, research-methods-aied]
 translation_of: concepts/qualitative-research
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-26T00:30:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -84,6 +84,16 @@ Un desarrollo reciente distintivo es el uso de [[llm|LLM]] para asistir la codif
 - **Limitaciones:** generalizabilidad estadística limitada; interpretativa y dependiente de quien investiga (problemas de fiabilidad); muestras pequeñas; apoyo más débil a las afirmaciones causales; los hallazgos pueden ser difíciles de sintetizar entre estudios; exige mucho tiempo y trabajo.
 
 Los métodos cualitativos y los cuantitativos son complementarios, no rivales: véase [[research-methods-aied|métodos de investigación en IA y educación]] para saber cómo contrastan y triangulan, y [[mixed-methods-research|métodos mixtos]] para diseños que los combinan.
+
+## Concepciones erróneas
+
+**«Los hallazgos cualitativos no son generalizables porque las muestras son pequeñas.»** Por lo general no son generalizables *estadísticamente* y con frecuencia sí lo son *conceptualmente*: los mecanismos y dinámicas que identifican se transfieren a otros entornos incluso cuando las frecuencias no. Un grupo focal que explica por qué el estudiantado desconfía de un tutor ha producido un mecanismo que una encuesta no puede, y descartarlo por carecer de intervalo de confianza descarta la parte que viaja.
+
+**«La IA ya puede hacer análisis cualitativo, así que el método escala.»** Escala la codificación y no la interpretación. Donde el corpus muestra que esto funciona bien es porque la tarea de codificación se hizo comparable primero: un estudio aplicó **15 viñetas fijas** a las políticas públicas de **20 universidades** para producir **300 clasificaciones comparables**, que es un diseño de instrumento estructurado y no uno interpretativo abierto. La perspicacia del trabajo cualitativo está en la construcción de categorías, y eso es lo que un modelo hereda y no produce.
+
+**«La saturación es una propiedad del número de participantes.»** Es una propiedad del análisis: se detiene cuando los nuevos datos dejan de producir códigos nuevos. Dos estudios con tamaños de muestra idénticos pueden estar igual de lejos de la saturación, y por eso un informe que cita un recuento de participantes como prueba de adecuación no ha demostrado nada sobre la cobertura.
+
+**«Los hallazgos cuantitativos y cualitativos compiten.»** Responden a preguntas distintas: una encuesta dice cuántos estudiantes desconfían de un tutor, y las entrevistas dicen por qué. Tratarlos como relatos rivales de lo mismo produce la falsa disyuntiva que las secciones de revisión siguen reproduciendo.
 
 ## Conceptos conectados
 

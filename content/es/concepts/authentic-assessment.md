@@ -1,7 +1,7 @@
 ---
 title: Evaluación auténtica
 created: "2026-09-28T21:06:12-04:00"
-updated: "2026-10-22T09:13:53-04:00"
+updated: "2026-10-26T21:37:14-04:00"
 connected_faqs: [redesign-assessment-ai-era, asynchronous-online-courses-ai]
 type: concept
 foundations: [academic-integrity]
@@ -11,7 +11,7 @@ assessment: [assessment, assessment-validity, authentic-assessment, formative-as
 level: [higher ed]
 confidence: high
 translation_of: concepts/authentic-assessment
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-26T10:50:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -98,6 +98,12 @@ El repliegue conlleva un coste probatorio que la evidencia de los expedientes ha
 - **La evaluación auténtica encaja en campos orientados a la práctica.** [[mesny-innovative-assessment-grading-management-2026|Mesny, Roberge-Maltais y Galy (2026)]] encuentran que la evaluación auténtica encaja especialmente bien en la [[business-education|educación en gestión]]: las tareas que reflejan problemas profesionales reales (proyectos de consultoría en vivo, [[visualization|cuadros de mando]] con informes para la dirección) se alinean con el enfoque del campo, orientado a la práctica y a la [[career-development-and-readiness|empleabilidad]], y pueden sostener alternativas inclusivas y preservadoras de la integridad frente a una evaluación centrada en exámenes en la era de la IA generativa. Sin embargo, en su revisión de 58 artículos de cuatro revistas de educación en gestión, la evaluación auténtica aparecía sobre todo a través de [[simulation|simulaciones]] mediadas por tecnología y a menudo se confundía con el [[experiential-learning|aprendizaje experiencial]], una brecha terminológica que puede oscurecer su valor y su adopción más amplios.
 
 - **La autenticidad no es seguridad, y la brecha es visible a escala sectorial.** Donde la auditoría de un solo título anterior encontró que el 90% de las tareas de asignatura eran aprobables, [[villanueva-ai-vulnerability-assessment-audit-2026|Villanueva (2026)]] sitúa las presentaciones grabadas, los proyectos grupales remotos y los artefactos digitales no supervisados en la franja de alta exposición a lo largo de 53.915 ítems, porque el registro público no muestra nada sobre cómo se supervisó su producción.
+
+## Concepciones erróneas
+
+- **«La autenticidad consiste en tareas realistas.»** La revisión de alcance de [[zhan-boud-du-authentic-assessment-scoping-review-2025|Zhan, Boud y Du (2025)]] sobre **37 estudios empíricos (2000-2024)** propone un modelo de diseño de **seis dimensiones**, y solo **3 de 37 estudios abordaron la autenticidad social**, es decir, si la evaluación ayuda al estudiantado a contribuir a la transformación social. El realismo es una dimensión, y la dimensión más avanzada apenas está estudiada.
+- **«La evaluación auténtica resiste a la IA.»** La exposición es medible y grande: un **título de psicología de tres años** resultó **aprobable en un 90%**, con ChatGPT produciendo **resultados adecuados en 36 de 40 evaluaciones de asignatura**, y solo las evaluaciones restantes sobrevivieron. La mayor parte de la evaluación de un título era satisfacible por la IA.
+- **«El rediseño es opcional si el trabajo es del mundo real.»** El resultado de 36 de 40 se encontró en tareas de asignatura cuya autenticidad no estaba, en principio, en duda. El realismo de la tarea no protegió frente a la resolución por IA; sí lo hizo el diseño de lo que se evalúa.
 
 ## Conceptos conectados
 - [[learner-identity]] — identidades de quien aprende en evolución: disciplinar, profesional, creativa y académica

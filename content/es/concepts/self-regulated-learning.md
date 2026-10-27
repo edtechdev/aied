@@ -1,7 +1,7 @@
 ---
 title: Aprendizaje autorregulado
 created: "2026-09-25T03:07:36-04:00"
-updated: "2026-10-24T08:21:53-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 type: concept
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
 technology: [generative-ai, llm, personalized-learning]
@@ -11,7 +11,7 @@ audience: [learners]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/self-regulated-learning
-source_updated: "2026-10-24T06:38:00-04:00"
+source_updated: "2026-10-26T13:50:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 connected_resources: [process-feedback]
 contributors: [editor]
@@ -65,6 +65,8 @@ Un modo de fallo se sitúa antes de que empiece la regulación: la procrastinaci
 Dónde entra la IA generativa en el ciclo decide su efecto: al mapear las fases de previsión, desempeño y reflexión de Zimmerman sobre entornos mediados por IA, un marco de co-agencia sostiene que el punto de entrada determina si la herramienta amplifica o erosiona el sentido de control de quien aprende, y que la externalización solo apoya el aprendizaje transformador cuando la decisión es intencional y no rutinaria ([[reclaiming-epistemic-agency-co-agency-2026|Poudyal (2026)]]).
 
 Una encuesta transversal de 434 estudiantes universitarios de educación especial mide una de esas cadenas: la alfabetización en [[generative-ai|IA generativa]] se asoció positivamente con las conductas de aprendizaje autorregulado asistidas por IA generativa (B total = 0,701), operando principalmente a través de la [[agency|agencia]] de aprendizaje (B = 0,345) y no de las emociones de desafío (B = 0,061) ([[genai-literacy-srl-special-education-2026|Yang et al. (2026)]]).
+
+La autorregulación metacognitiva es un resultado medido y no un supuesto en [[shao-ai-vr-flipped-classroom-efl-2026|Shao, Tang y Ju (2026)]], que encontraron que un aula invertida de IA y RV la elevó junto con el rendimiento, y que quienes aprenden con mayor alfabetización tecnológica se beneficiaron más.
 
 ## Apoyo digital al AAR
 
@@ -175,11 +177,23 @@ Qué apoyo está en juego decide qué mediador carga la asociación: entre 3.003
 ## Agentes conversacionales y AAR en juegos de simulación
 
 - **Agentes conversacionales que apoyan el aprendizaje autorregulado en juegos.** Wenzel, Geiger y Liening (2026) muestran que un agente conversacional de IA (Lara) en un juego de [[simulation|simulación]] de empresa puede apoyar el aprendizaje autorregulado mediante retroalimentación [[formative-assessment|formativa]] basada en métricas, orientación a demanda y reflexión estructurada, lo que aborda la limitación habitual de que los juegos de simulación ofrecen una retroalimentación formativa y unas indicaciones de reflexión limitadas. Las evaluaciones con profesorado en formación y participantes del BSG informaron de percepciones positivas de la presencia cognitiva y [[community-of-inquiry|social]] del agente y de su apoyo a la autorregulación.
+
+## Detección automatizada de AAR: qué se transfiere y qué no
+
+- **Los clasificadores de AAR basados en embeddings cruzan idiomas dentro de un dominio, pero no entre dominios.** Un estudio con 26 estudiantes (química y lógica formal; protocolos de pensamiento en voz alta codificados con el modelo de Winne y Hadwin) encontró que los modelos basados en embeddings (text-embedding-3-small) entrenados en inglés clasifican el AAR en alemán con un AUC de ~0,8 y una degradación de ~0,1, salvo en la puesta en acto (~0,7). La transferencia entre dominios falla: de química a lógica cae a ~0,6, y la puesta en acto, al azar (~0,5): la frontera del dominio, y no el idioma, es la que limita.
 - **Tres modos de fallo explican dónde se rompe la transferencia.** (1) La resolución de conceptos en su acepción cotidiana en lugar de la acepción propia del dominio —«cancel» frente al «kürzen» de la química— rompe la clasificación enactiva. (2) La antropomorfización: el estudiantado alemán no familiarizado con un tutor muy andamiado se dirigió a él como a una persona, lo que produjo enunciados fuera de distribución; la transferencia fue mejor en plataformas menos andamiadas. (3) La ambigüedad entre la lectura de pistas y la formulación de planes: los modelos no pueden distinguir la lectura de una pista metacognitiva de la planificación sin datos de registro. Darse cuenta de los errores es robusto en todas las condiciones: notar que uno se equivoca es independiente del contexto. Soluciones: diccionarios de personas expertas o ajuste fino para los términos del dominio; datos de registro para las pistas. ([[borchers-srl-language-generalization-2025]])
 - **Las señales superficiales sobre-atribuyen autorregulación en el mapeo curricular.** Dadas las descripciones de evaluación, GPT-o3-mini leyó las menciones a plazos o a la programación de tareas como evidencia de una habilidad autorreguladora; la Autogestión se sobre-identificó de este modo, con su acuerdo frente a los pesos expertos entre 0,53 y −0,03 ([[genai-curriculum-analytics-mapping-higher-ed-2026|Jayalath et al., 2026]]).
 
+- **Las cadenas de preguntas estructuradas convierten el prompting en regulación.** En un cuasiexperimento con 83 estudiantes de grado, ambas condiciones de cadena de preguntas produjeron más conducta de estrategia de aprendizaje y de monitorización que el cuestionamiento de forma libre (χ² = 6,551, p = 0,038) y puntuaron más alto en conciencia metacognitiva y rendimiento (F = 3,406, p = 0,038; F = 3,807, p = 0,035), sin diferencias entre las formas de cadena ([[question-chain-prompting-srl-metacognition-2026|Lin et al., 2026]]). La secuenciación es lo que hace el trabajo.
 - **La detección a nivel de grupo sigue la misma división, y el habla aporta más que los registros.** En díadas que modelaban el movimiento de un camión en C2STEM, se etiquetaron 394 segmentos de contexto de tarea de 36 estudiantes de secundaria con siete códigos de regulación socialmente compartida y se predijeron a partir de resúmenes del LLM de cada segmento: los embeddings solo de texto alcanzaron un AUC medio de 0,650, mientras que los rasgos derivados de registros por sí solos alcanzaron 0,526, cerca del azar para un constructo en buena medida social. La planificación era invisible dentro de un único segmento (0,5036) y se volvió detectable al concatenar los dos segmentos contiguos (0,6711), mientras que la reflexión fue mejor al añadir los registros (0,5862), la misma ambigüedad entre leer pistas y planificar que esta sección registra para quien aprende individualmente ([[zhang-llm-detection-ssrl-collaborative-modeling-2026|Zhang et al., 2026]]).
 - **Las etiquetas automáticas de AAR se sostienen en la puesta en acto y fallan en la planificación.** En una clase de ciencias de cuarto curso con realidad mixta, una cadena que fusionaba mirada, gesto, habla y registros del juego etiquetó 75 segmentos verificados por personas con un 74,67 % global, desde un 93,3 % en la puesta en acto y la interacción hasta un 46,7 % en la planificación ([[fonteles-embodied-learning-human-in-the-loop-multimodal-2026|Fonteles et al., 2026]]).
+
+## Concepciones erróneas
+
+- **«La autorregulación es un rasgo de quien aprende.»** El aprendizaje regulado se descompone en **autorreflexión, atribución causal y adaptación**, y quienes aprenden con soltura **emplean estrategias cognitivas para mejorar su éxito**. Son procesos entrenables que un diseño puede sostener o socavar.
+- **«Cualquier diseño adaptativo apoya la regulación por igual.»** El **experimento de campo aleatorizado 2x2 con 179 estudiantes durante 22 días** de [[scheu-mobile-chatbot-journaling-motivation-2026|Scheu et al.]] comparó dos principios de diseño y encontró que diferían en mecanismo, así que «adaptativo» no es un único tratamiento.
+- **«La ansiedad socava la regulación.»** En un estudio de métodos mixtos con **107 estudiantes**, una mayor [[anxiety-and-stress|ansiedad ante la IA]] se asoció **positivamente con la verificación y la recomprobación**. La ansiedad funcionó como un acicate para verificar, lo que es regulación y no su ausencia.
+- **El AAR metacognitivo predijo la carga relevante para el aprendizaje donde la retroalimentación de la IA no lo hizo.** En un estudio de campo de cinco semanas con **234 estudiantes y 1.147 observaciones**, la autorregulación metacognitiva fue un predictor positivo sustancial de la **carga cognitiva relevante** (β = 0,363, p < 0,001 por intención de tratar; 0,346, p < 0,001 basado en el uso) y no predijo de forma significativa la carga extrínseca, mientras que el mero acceso a la retroalimentación de IA conversacional no predijo ninguna de las dos. Solo la implicación **sostenida** con la retroalimentación separó al estudiantado en carga relevante, y el uso irregular no lo hizo (β = −0,219, p = 0,116), lo que sitúa el ingrediente activo en la regulación del procesamiento por parte de quien aprende y no en el suministro de retroalimentación ([[wenzel-conversational-ai-feedback-cognitive-load-game-2026|Wenzel, Geiger y Liening, 2026]]).
 
 ## Conceptos conectados
 

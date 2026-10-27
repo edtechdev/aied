@@ -1,13 +1,13 @@
 ---
 title: IA conversacional
 created: "2026-09-28T20:10:38-04:00"
-updated: "2026-10-22T09:13:53-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 type: concept
 foundations: [ai-literacy, human-ai-collaboration]
 technology: [conversational-ai, generative-ai, intelligent-tutoring, llm, pedagogical-agent]
 confidence: medium
 translation_of: concepts/conversational-ai
-source_updated: "2026-10-18T10:07:01-04:00"
+source_updated: "2026-10-26T10:50:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -85,6 +85,12 @@ La IA conversacional se entiende mejor como una **modalidad de interacción** qu
 ## Orientaciones prácticas
 
 Elija agentes conversacionales para apoyar la enseñanza, la [[motivation|motivación]] y la [[metacognition|metacognición]] y no solo para responder preguntas, y diseñe interacciones fundamentadas en la HCI, participativas y centradas en las personas. Protéjase contra la [[cognitive-offloading|dependencia excesiva]] combinando la CAI con instrucción en [[ai-literacy|alfabetización en IA]] y con [[feedback|retroalimentación]] que mantenga a quien aprende cognitivamente productivo. Atienda explícitamente la alfabetización en IA y la usabilidad, ya que son estas —y no la destreza digital general— las que impulsan la adopción y el no uso ([[colbran-student-perspectives-genai-chatbots-2026|Colbran, Jha y Schiavone 2026]]), y acompañe el despliegue con políticas claras de uso de IA, etiquetas de evaluación y formación. Evalúe la CAI por sus resultados pedagógicos —y no solo por la finalización de tareas— y planifique la equidad y la [[accessibility|accesibilidad]] desde el principio y no como un añadido tardío.
+
+## Concepciones erróneas
+
+- **«La credibilidad de un agente conversacional va en función de su exactitud.»** **Quien usa el agente lee su credibilidad en clave social.** La **competencia** percibida de ChatGPT predijo **directamente** la credibilidad de su retroalimentación, mientras que la **calidez** percibida solo operó **a través** de esa vía. Un agente que suena cálido y competente gana confianza por su presentación, lo que es un eje distinto del de la corrección.
+- **«Los compañeros de crítica basados en LLM sustituyen el juicio de quien aprende.»** [[oppenheimer-llms-collaborative-learning-partners-2026|Oppenheimer, Cash y Connell Pensky (2025)]] muestran concretamente el lado de la **preservación**: el valor está en mantener intacto el pensamiento de quien aprende, y no en producir la crítica por él.
+- **«La evidencia paraguas sobre los agentes conversacionales es concluyente.»** La [[conversational-ai-agents-umbrella-review-2026|revisión paraguas]] sintetiza revisiones de agentes de CAI, y la solidez de una revisión paraguas está acotada por la calidad de las revisiones que reúne.
 
 ## Cita
 

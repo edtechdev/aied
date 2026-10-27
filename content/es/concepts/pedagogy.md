@@ -1,7 +1,7 @@
 ---
 title: Pedagogías y estrategias de enseñanza
 created: "2026-09-25T03:54:11-04:00"
-updated: "2026-10-22T09:13:53-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 connected_faqs: [designing-ai-into-learning]
 type: concept
 foundations: [ai-education, learning-design]
@@ -9,7 +9,7 @@ pedagogy: [pedagogy]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/pedagogy
-source_updated: "2026-10-16T08:47:09-04:00"
+source_updated: "2026-10-26T09:35:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -94,6 +94,12 @@ Ese énfasis en preservar el esfuerzo no es absoluto: un diseño [[mixed-methods
 - **Mantener la agencia de quien aprende en el centro:** las pedagogías activas, socráticas y de andamiaje preservan el esfuerzo productivo y la [[agency]] que la IA puede erosionar si no (véanse [[cognitive-offloading]], [[desirable-difficulties]]).
 - **Diseñar la IA para que ponga en acto una buena pedagogía:** los agentes y los tutores de IA deberían fundamentarse en marcos instruccionales establecidos, y no en la generación de respuestas por defecto.
 - **Enseñar con la IA y sobre la IA:** las pedagogías deberían tanto usar la IA para enseñar como enseñar a quien aprende a usar la IA de forma responsable.
+
+## Concepciones erróneas
+
+- **«Lo que el profesorado más necesita es conocimiento técnico de IA.»** En **46 docentes y 2.832 estudiantes**, el **conocimiento pedagógico de la IA del profesorado** predijo las percepciones del estudiantado sobre la IA para el bien social. El conocimiento pedagógico superó al técnico, lo que invierte el lugar al que va la mayor parte de la inversión en formación.
+- **«La principal contribución de la IA en la educación es instruccional.»** Una **revisión PRISMA de 28 estudios** encontró que la IA mejoró con más frecuencia la **planificación instruccional y el diseño de la evaluación**: la contribución más clara es **liberar trabajo administrativo**, no enseñar. Un caso construido en torno a ganancias instruccionales se apoya en la rama más débil de la evidencia.
+- **«La formación en alfabetización en IA se traduce automáticamente en mejor enseñanza.»** Un metaanálisis de tres niveles de **59 estudios (172 tamaños de efecto)** encontró que **las intervenciones centradas en el conocimiento (g ≈ 0,97)** superaban claramente a otros enfoques para mover el conocimiento. Mover el conocimiento es el resultado medido; si llegó a la práctica es la siguiente pregunta.
 
 ## Conceptos conectados
 - [[pedagogical-partnerships]] — Alianzas pedagógicas

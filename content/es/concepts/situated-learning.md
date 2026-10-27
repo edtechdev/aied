@@ -1,13 +1,13 @@
 ---
 title: Aprendizaje situado
 created: "2026-09-28T19:10:59-04:00"
-updated: "2026-10-02T21:25:27-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 type: concept
 foundations: [ai-education, learning-design]
 pedagogy: [constructivist, experiential-learning, learning-theories, situated-learning, sociocultural-learning]
 confidence: high
 translation_of: concepts/situated-learning
-source_updated: "2026-09-30T09:53:03-04:00"
+source_updated: "2026-10-26T08:20:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -34,6 +34,7 @@ ai_assist:
 El aprendizaje situado es una de las teorías de la actividad y el contexto dentro de la línea de [[learning-theories|teorías del aprendizaje]] de la base de conocimiento. Recoge temas vygotskianos de construcción social, pero añade un énfasis fuerte en la integración íntima del «hacer» y el «aprender» y en la importancia de las comunidades de práctica. Como postura educativa, se enfrenta a la escolarización tradicional y estandarizada poniendo en primer plano el contexto [[sociocultural-learning|sociocultural]] de quien aprende como elemento clave para adquirir habilidades y apropiarse de conocimientos relevantes para su realidad.
 
 En la literatura sobre la [[ai-education|IA en la educación]], el aprendizaje situado importa porque ofrece una lente de diseño para la IA: los [[adaptive-learning|sistemas adaptativos]], la [[intelligent-tutoring|tutoría inteligente]] en escenarios auténticos y las [[simulation|simulaciones]] [[virtual-and-augmented-reality|inmersivas]] pueden anclar la educación impulsada por IA en contextos del mundo real, mientras que el aprendizaje situado ofrece a su vez a la IA un anclaje significativo en la práctica auténtica y la complejidad. Ambos se consideran ampliamente complementarios, con la orientación humana como elemento esencial para el anclaje [[ethics|ético]].
+- **Contextualizar el propio material es un movimiento del aprendizaje situado.** DagFlow-AI genera un conjunto de datos estadísticos construido en torno a un interés declarado por el propio estudiante —un estudio de caso usó la preocupación de un estudiante por el cambio climático y la salud— mientras mantiene fijos los objetivos de aprendizaje y el nivel de destreza ([[arthur-dagflow-agentic-synthetic-data-statistics-2026|Arthur et al., 2026]]). Ajustar los *datos* a quien aprende, en lugar de ajustar la explicación, trata el contexto de la práctica como lo que hay que situar. Los autores admiten el límite: los datos sintéticos no pueden enseñar la recogida de datos, la medición ni el diseño de estudios, así que el contexto es real para quien aprende pero no para el mundo.
 
 ### El aprendizaje situado como lente de diseño para la IA
 
@@ -47,6 +48,13 @@ La investigación de la base de conocimiento trata el aprendizaje situado no sol
 - **Ética situada de la IA.** El razonamiento ético sobre la IA se trata mejor, también, como algo *situado*: anclado en el contexto cultural-histórico y ecológico y no en principios abstractos.([[raffaghelli-situated-ai-ethics-2026]])
 
 El aprendizaje situado conecta estrechamente con el [[embodied-learning|aprendizaje corporeizado]] (ambos subrayan el anclaje de la cognición en el contexto y la acción), con la [[distributed-cognition|cognición distribuida]] (el aprendizaje distribuido entre personas, herramientas y contextos), con el [[experiential-learning|aprendizaje experiencial]] y con la teoría [[constructivist|constructivista]]. En la educación con IA fundamenta la crítica del aprendizaje descontextualizado y descorporeizado: un diseño de IA que mantiene a quien aprende anclado en la práctica auténtica preserva la situacionalidad que exige un aprendizaje duradero.
+
+## Concepciones erróneas
+
+- **«El aprendizaje situado significa añadir un escenario realista a una lección abstracta.»** La afirmación de la teoría es más fuerte que vestir de contexto: el aprendizaje se constituye por la participación en una comunidad de práctica, y lo que se aprende es lo que esa participación permite. Un ejemplo resuelto con un marco de lugar de trabajo adjunto sigue enseñando el ejemplo, no la práctica.
+- **«La autenticidad es una propiedad de la tarea.»** La autenticidad es una relación entre la actividad y el trabajo legítimo de una comunidad real. Una tarea puede ser elaborada y seguir teniendo forma escolar: evaluada por un docente, para una nota, sin consecuencia en el mundo que dice representar.
+- **«Que la evaluación emerja de la tarea significa que no hay evaluación.»** Significa que el criterio es el de la comunidad y no el del aula: si el trabajo es aceptable para quienes hacen ese trabajo. Ese es un estándar distinto y normalmente más estricto que una rúbrica.
+- **«La formación de aprendices requiere un entorno físico.»** El mecanismo es la participación periférica legítima: pasar del borde de una práctica hacia su centro con responsabilidad real. Los entornos en línea y simulados pueden sostenerlo o pueden simular la periferia sin conceder nunca la participación, y la diferencia está en si la contribución de quien aprende se usa de verdad.
 
 ## Conceptos conectados
 - [[learner-identity]] — identidades de quien aprende disciplinares, profesionales, creativas y académicas en evolución

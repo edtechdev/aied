@@ -1,7 +1,7 @@
 ---
 title: Diseño universal para el aprendizaje
 created: "2026-09-28T21:16:52-04:00"
-updated: "2026-10-02T22:23:33-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 type: concept
 foundations: [learning-design]
 ethics: [equity-in-ai-education, inclusive-learning]
@@ -10,7 +10,7 @@ audience: [learners]
 level: [special education]
 confidence: high
 translation_of: concepts/universal-design-for-learning
-source_updated: "2026-09-30T08:39:04-04:00"
+source_updated: "2026-10-25T22:50:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -81,6 +81,16 @@ El DUA convierte «arreglar al estudiante» en «arreglar el diseño». Para el 
 - Protéjase de la IA que da por supuesto un único estilo de comunicación o penaliza la expresión neurodivergente: conecte con la [[accessibility|accesibilidad]], la [[equity-in-ai-education|equidad en la educación con IA]] y la [[neurodiversity|neurodiversidad]].
 
 - **Apunten a las barreras funcionales, no a los diagnósticos.** [[assistive-tech-neurodivergent-higher-ed-review-2026|Rempel et al. (2026)]] encontraron que el corpus de 40 estudios sobre tecnologías de asistencia para estudiantado neurodivergente se organiza en torno a ajustes y herramientas condicionadas al diagnóstico, y sostienen que diseñar atendiendo a las barreras transversales que el estudiantado realmente afronta es lo que hace que una herramienta sea plausiblemente universal.
+
+## Concepciones erróneas comunes
+
+**«Un curso con materiales accesibles ha implementado el DUA.»** La accesibilidad es uno de los tres principios del DUA y el más fácil de auditar, así que con frecuencia es el único que se hace. Construir medios flexibles de implicación y de acción y expresión es la parte mayor del marco, y un curso cuyos PDF están etiquetados pero cuyas evaluaciones admiten un solo formato ha completado la fracción medible.
+
+**«El profesorado que cree que es accesible es accesible.»** Creencia y práctica se separan de forma sistemática. Los hallazgos a nivel de profesorado de este corpus muestran que el **90% de quienes respondieron creía crear un entorno de aprendizaje accesible y el 87% decía considerar activamente la accesibilidad**, unas tasas de autoatestación que no pueden ser todas exactas a la vista de lo que encuentran las auditorías, y un recordatorio de que la implementación del DUA no se puede evaluar mediante encuesta del modo en que se suele evaluar.
+
+**«El DUA significa diseñar con más cuidado para el estudiante medio.»** La afirmación central es la contraria: la variabilidad de quien aprende es la norma y no la excepción, así que el diseño ofrece muchas vías desde el principio en lugar de arreglar una sola para quienes tienen dificultades. La adaptación a posteriori es lo que el DUA existe para sustituir, y una única vía bien ajustada sigue siendo una única vía.
+
+**«La IA hace automático el DUA, ya que puede generar formatos alternativos.»** Abarata el principio de representación y deja intactos la implicación y la expresión. Convertir texto en audio aborda uno de los tres medios; un curso puede ahora ser totalmente multiformato y seguir exigiendo que todo el estudiantado demuestre el aprendizaje de la misma única manera.
 
 ## Conceptos conectados
 

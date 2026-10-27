@@ -1,6 +1,7 @@
 ---
 title: Educación en biología
 created: "2026-09-28T20:10:55-04:00"
+updated: "2026-10-26T21:37:50-04:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, human-ai-collaboration]
 technology: [generative-ai]
@@ -8,7 +9,7 @@ discipline: [biology education, stem education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/biology-education
-source_updated: "2026-10-16T09:45:00-04:00"
+source_updated: "2026-10-26T08:20:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -64,6 +65,12 @@ La educación en biología se sitúa dentro del dominio más amplio de la [[stem
 - **Cultivar deliberadamente el pensamiento crítico en la era de la IA.** [[critical-thinking-biological-sciences-ai-2025|Papaneophytou y Nicolaou]] sostienen que el escepticismo, la comprensión contextual y el razonamiento ético deben enseñarse de forma explícita, con supervisión humana para validar las salidas de la IA y prevenir el sesgo.
 - **Enseñar el uso responsable junto con el aprendizaje basado en retos.** [[chatgpt-math-biology-challenge-based-learning-2025|Los estudios sobre el aprendizaje basado en retos]] encuentran que el estudiantado valora la inmediatez pero se preocupa por la veracidad y la erosión de habilidades: actualice los códigos de integridad académica y la ética del uso de la IA en paralelo a la adopción.
 - **Explorar el panorama de herramientas especializadas.** [[beyond-chatgpt-ai-tools-biological-education-2026|Cotton y Cotton]] cartografían herramientas (iNaturalist, Google Lens, bioimagen, predicción de riesgo) que el profesorado puede desplegar para el trabajo de campo, la identificación de especies y el apoyo al estudiantado: elija herramientas específicas en lugar de chatbots generales cuando encajen.
+
+## Concepciones erróneas
+
+- **«El estudiantado no distingue una IA de un ayudante docente humano.»** Un estudio sobre un ayudante docente de laboratorio virtual encontró que los **ayudantes humanos eran más precisos y eficaces que ChatGPT**, y aun así el estudiantado **prefirió la respuesta de la IA el 40% de las veces** y solo **detectó la salida de IA el 45% de las veces**. La detección estuvo cerca de una moneda al aire y la preferencia se inclinó hacia la fuente menos precisa, así que los datos de satisfacción no pueden sustituir aquí a la calidad.
+- **«La preferencia indica calidad.»** El mismo estudio las separa directamente: la salida preferida era la peor. Cualquier evaluación de una herramienta de IA para biología que informe de la satisfacción del estudiantado sin una medida de exactitud está informando de la cantidad equivocada.
+- **«La alfabetización en IA debe enseñarse como asignatura aparte.»** Integrar conceptos de aprendizaje automático **en un curso de biología de secundaria** encontró que el contexto biológico **apoyaba** el aprendizaje sobre IA: evidencia a favor de integrar la alfabetización en IA en el currículo en lugar de añadirla como una unidad independiente. La disciplina dio a los conceptos algo a lo que anclarse.
 
 ## Conceptos conectados
 

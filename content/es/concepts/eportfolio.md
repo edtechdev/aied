@@ -1,7 +1,7 @@
 ---
 title: Portafolio electrónico
 created: "2026-09-28T18:22:10-04:00"
-updated: "2026-09-28T18:22:10-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 type: concept
 pedagogy: [student-engagement]
 technology: [generative-ai]
@@ -10,7 +10,7 @@ discipline: [language learning]
 level: [higher ed]
 confidence: high
 translation_of: concepts/eportfolio
-source_updated: "2026-09-26T07:13:32-04:00"
+source_updated: "2026-10-25T19:50:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -49,6 +49,33 @@ La investigación de la base de conocimiento muestra que los portafolios electr�
 ## Por qué los portafolios electrónicos importan para la integración de la IA
 
 Como los portafolios electrónicos ponen en primer plano el **proceso, la reflexión y la comprensión demostrada** por encima de un único producto final, abordan directamente el problema central de la IA: cuando la IA puede producir un producto pulido, el producto ya no evidencia la implicación que hay detrás. Los portafolios electrónicos desplazan la evaluación hacia la evidencia que perdura —borradores, revisiones, rastros de razonamiento y autoevaluación reflexiva—, mientras la propia IA puede ayudar a generar retroalimentación, a andamiar la reflexión y, con un diseño de rúbrica adecuado, a apoyar la evaluación. Esto convierte a los portafolios electrónicos en una piedra angular de la evaluación [[authentic-assessment|auténtica]], [[formative-assessment|formativa]] y [[process-oriented-assessment|orientada al proceso]] en la era de la [[generative-ai|IA generativa]], y en un hogar natural para la [[feedback-literacy|alfabetización en retroalimentación]] y el [[self-regulated-learning|aprendizaje autorregulado]].
+
+## Concepciones erróneas
+
+**«Un portafolio electrónico es una carpeta digital de trabajo terminado.»** El valor evaluativo procede de capturar el *proceso* —el razonamiento, los borradores, la revisión, la reflexión— y no el artefacto final. Es precisamente por eso por lo que los portafolios electrónicos son relativamente robustos frente a la IA: cuando el artefacto puede generarse, una evaluación basada en el proceso conserva la evidencia que una evaluación basada en el producto ha perdido.
+
+**«La IA hace que los portafolios electrónicos sean tan fáciles de falsificar como los ensayos.»** El modo de fallo es distinto y la evidencia muestra el formato moviéndose en la dirección contraria. Combinar ChatGPT con la evaluación por portafolio electrónico (un modelo CEA) en la expresión oral en inglés como lengua extranjera produjo mejoras significativas en el desempeño oral (**F(1) = 48,554, p < 0,001**) y en la [[feedback-literacy|alfabetización en retroalimentación]] (**F(1) = 16,135, p < 0,001**), con los portafolios electrónicos sosteniendo la capa reflexiva. El portafolio no se convirtió en el eslabón débil al añadir IA al curso; fue el que sostuvo la evaluación.
+
+**«Un resultado multivariante significativo prueba que el portafolio fue el ingrediente activo.»** Prueba que el conjunto movió los resultados. El estudio combinó una herramienta de IA, una estructura de portafolio y tareas de expresión oral, y un diseño así no puede aislar qué componente produjo la ganancia. La afirmación defendible es sobre la combinación, y se aplica la precaución de las [[learning-gains|mejoras de aprendizaje]]: las ganancias reportadas deben poder rastrearse hasta un componente antes de poder reutilizarse.
+
+**«Los portafolios electrónicos sustituyen la necesidad de una evaluación sin asistencia.»** La complementan. Un portafolio evidencia el proceso y el crecimiento a lo largo del tiempo; no evidencia lo que quien aprende puede hacer sin apoyo, y confundir ambas cosas reintroduce el problema del artefacto como indicio que el formato adoptó precisamente para resolver.
+
+## Implicaciones para la práctica
+
+**Para el profesorado**
+
+- Exija el proceso, no solo el producto: borradores con fechas, explicaciones de las revisiones y reflexión sobre qué cambió y por qué. Esos son los artefactos que la IA no puede aportar en nombre de quien aprende.
+- Empareje el portafolio con al menos una medida de desempeño sin asistencia, para que la evidencia de proceso y la de capacidad queden ambas registradas.
+- Use la IA *dentro* del flujo de trabajo del portafolio —para retroalimentar borradores— y no fuera de él, que es la configuración que probó el estudio citado.
+
+**Para quienes desarrollan**
+
+- Diseñe para el historial de revisiones y el versionado, y no para una vista final pulida; la pedagogía vive en el diff.
+- Haga que los prompts de reflexión sean lo bastante estructurados como para poder evaluarse, ya que la reflexión no estructurada es donde el texto generado por IA pasa con más facilidad.
+
+**Para quienes investigan**
+
+- Diseñe para aislar componentes cuando estudie paquetes de IA más portafolio; de lo contrario, el campo acumula efectos de combinación que no puede descomponer.
 
 ## Conceptos conectados
 

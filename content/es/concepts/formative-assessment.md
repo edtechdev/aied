@@ -1,7 +1,7 @@
 ---
 title: Evaluación formativa
 created: "2026-09-25T04:31:09-04:00"
-updated: "2026-10-22T09:13:53-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [scaffolding]
@@ -11,7 +11,7 @@ connected_faqs: [ai-feedback-at-scale]
 connected_resources: [snorkl, ai-infused-assignment-playbook]
 confidence: high
 translation_of: concepts/formative-assessment
-source_updated: "2026-10-17T03:49:06-04:00"
+source_updated: "2026-10-26T13:35:09-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -39,6 +39,8 @@ ai_assist:
 ## Introducción
 
 La evaluación formativa es central para la [[ai-education|IA en la educación]] porque se sitúa en la confluencia de la [[assessment|evaluación]] y la [[feedback|retroalimentación para el aprendizaje]]. Su propósito es cerrar el bucle: sacar a la luz lo que el estudiantado sabe y no sabe, y ofrecer retroalimentación sobre la que pueda actuar para mejorar. La IA hace esto viable a escala (generar ítems, puntuar respuestas y ofrecer retroalimentación individualizada), pero la investigación de la base de conocimiento muestra que la calidad varía enormemente según el tipo de ítem y que la retroalimentación solo ayuda cuando el estudiantado la pone realmente en práctica.
+
+[[correnti-erevise-validity-argument-formative-assessment-2026|Correnti et al. (2026)]] aportan evidencia de que un sistema automatizado de escritura puede cumplir un propósito formativo auténtico: el crecimiento apareció en la calidad de la revisión y no solo en las puntuaciones de las funciones, pero únicamente donde el profesorado integró la retroalimentación en la discusión en clase.
 
 ## Ítems formativos generados por IA
 
@@ -103,6 +105,7 @@ La evaluación formativa en la educación con IA conecta con el propio proceso d
 - **Validez y calidad:** hay que evaluar la [[ai-feedback-quality|calidad]] y la [[assessment-validity|validez]] de los ítems formativos y de la retroalimentación generados por IA; la [[ai-ed-evaluation|evaluación de la IA educativa]] aporta los métodos.
 - **La puntuación con IA añade una amenaza a la validez.** Como un evaluador de IA puede recompensar características irrelevantes para el constructo, como la fluidez lingüística en lugar del razonamiento científico, un documento técnico de Stanford/ETS destilado de una convención de unos 100 líderes sostiene que la evaluación debería acumular evidencia continua y rica en contexto en lugar de certificar resultados de un solo intento ([[responsible-assessment-ai-era-stanford-2026|McGee et al. (2026)]]).
 - **Conserve la tarea vulnerable y añada una gemela.** [[roe-assessment-twins-2026|Roe, Perkins y Giray (2026)]] sostienen que los ensayos para llevar a casa y los informes de investigación tienen un valor formativo sustancial y deberían mantenerse para el aprendizaje, emparejados con una segunda tarea que evalúe los mismos resultados y aporte evidencia sumativa fiable.
+- **La evaluación formativa apoyada por tecnología es una propiedad del sistema, no una herramienta.** [[bulut-technology-supported-formative-assessment-2026|Bulut (2026)]] la define como el producto conjunto de la capacidad tecnológica, la regulación pedagógica, la agencia de quien aprende y el juicio humano, y sostiene que su valor radica en sostener el ciclo de evidencia, retroalimentación, reflexión y acción en lugar de en la automatización.
 
 ## Riesgo: la evaluación como vigilancia
 
@@ -120,6 +123,12 @@ La observabilidad puede diseñarse sin vigilancia: es la evidencia que una evalu
 - **Trate la evaluación formativa como una filosofía, no como un conjunto de herramientas.** [[mesny-innovative-assessment-grading-management-2026|Mesny, Roberge-Maltais y Galy (2026)]] sintetizan la literatura más amplia sobre educación superior en un paradigma de «evaluación para el aprendizaje» que enmarca la [[feedback|retroalimentación]] formativa, continua e individualizada como una filosofía general y no como un mero conjunto de herramientas, que equilibra los propósitos formativos con los [[summative-assessment|sumativos]] y pone en primer plano la [[agency|agencia del estudiantado]], la autorregulación y la habilidad [[metacognition|metacognitiva]]. Identifican cinco prácticas que se refuerzan mutuamente (la [[authentic-assessment|evaluación auténtica]], la autoevaluación y la [[peer-assessment|evaluación entre pares]], la reevaluación, la [[mastery-learning|calificación basada en estándares]] y la descalificación) mediante las cuales puede ponerse en práctica esta filosofía, y señalan que su adopción sigue siendo muy desigual entre las áreas de la educación superior.
 
 - **La evaluación continua replantea el propio registro formativo.** La arquitectura de referencia AIM-CAI (un artículo de posición, no una implementación) propone sustituir la evaluación episódica como base de evidencia primaria por una infraestructura de seis capas: generación de evidencia a través de plataformas, serialización que preserva el contexto de origen, traducción semántica mediada por IA, interpretación psicométrica, perfiles de competencia longitudinales y gobernanza federada. Su tabla de cambios explicita la transformación: la retroalimentación por tarea se convierte en retroalimentación longitudinal que apoya la orientación y la reflexión; las calificaciones se convierten en perfiles de competencia en evolución; las credenciales se convierten en registros transparentes de desarrollo. La capa de gobernanza es la insistencia del artículo: siete tensiones nombradas (interoperabilidad frente a autonomía local, privacidad frente a utilidad, agencia de quien aprende frente a automatización predictiva, vigilancia frente a apoyo, etc.), cada una mapeada a riesgos y respuestas, con la advertencia de que la inferencia continua no gobernada privilegia las normas culturales dominantes. La pretensión de novedad es integradora: los componentes ya existen; la contribución es la arquitectura y el mapa de gobernanza. ([[mcnamara-aim-cai-continuous-assessment-2026]])
+
+## Concepciones erróneas
+
+- **«Los ítems de práctica generados dan una señal formativa útil.»** **Un banco de ítems generado fácil no da señal formativa**: en un **despliegue de 10 semanas, alrededor del 70% de los ítems de práctica generados por IA fueron respondidos correctamente por todo el estudiantado**. Un banco que todo el mundo aprueba no aporta información sobre quién necesita qué.
+- **«La fiabilidad de la generación de ítems es uniforme entre formatos.»** Los sistemas de IA generan ítems formativos en distintas modalidades **con una fiabilidad que varía según el tipo**, incluida la opción múltiple. Tratar los ítems generados como intercambiables entre formatos oculta dónde es fiable la generación.
+- **«Dar retroalimentación con IA al estudiantado produce puesta en práctica.»** El **problema de la puesta en práctica** se documenta por separado de la calidad de la retroalimentación: recibir retroalimentación y actuar a partir de ella son pasos distintos, y el segundo es donde la evaluación formativa acierta o falla.
 
 ## Conceptos conectados
 

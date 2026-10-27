@@ -1,7 +1,7 @@
 ---
 title: Texto de refutación
 created: "2026-09-28T21:09:18-04:00"
-updated: "2026-10-02T22:55:23-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 type: concept
 pedagogy: [cognitive-psychology, learning-theories, metacognition, misconceptions, scaffolding]
 technology: [generative-ai]
@@ -9,7 +9,7 @@ discipline: [science education]
 confidence: high
 connected_faqs: [addressing-common-misconceptions-ai-education]
 translation_of: concepts/refutation-text
-source_updated: "2026-09-30T16:25:27-04:00"
+source_updated: "2026-10-26T02:00:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -62,6 +62,16 @@ Los textos de refutación son un miembro más del conjunto de herramientas del c
 ### Implicaciones prácticas
 
 Para el profesorado, los textos de refutación siguen siendo una forma fiable y de baja barrera de corregir ideas erróneas tenaces. Para quienes integran la IA, la evidencia sugiere: (1) usar la IA para *generar* contenido eficaz de refutación y de cambio conceptual a escala; (2) cuando sea viable, ofrecer la refutación mediante diálogo personalizado con IA para lograr una implicación y un cambio de creencia inmediatos más fuertes; (3) contar con que las ideas erróneas generadas por IA sean pedagógicamente útiles cuando se emplea una discusión estructurada para confrontarlas; y (4) diseñar pensando en quien aprende —los efectos de la refutación pueden concentrarse en el estudiantado de alto rendimiento y estar moderados por la epistemología y la metacognición, de modo que el andamiaje y el seguimiento importan—.
+
+## Concepciones erróneas
+
+**«Corregir una idea errónea significa presentar la respuesta correcta.»** Si así fuera, las ideas erróneas no sobrevivirían a la instrucción, y lo hacen de forma sistemática. Las ideas erróneas no son vacíos sino creencias sostenidas activamente que resisten la instrucción ordinaria: quien ya tiene una explicación que funciona no recibe la nueva como un reemplazo, la recibe como una afirmación rival, y a menudo descarta la menos familiar.
+
+**«El texto de refutación es simplemente escribir "esto está mal" antes de la información correcta.»** La estructura importa: la idea errónea debe formularse tal como la sostiene quien aprende, abordarse directamente y solo entonces desplazarse. Una corrección escueta nombra una creencia que quien aprende puede rechazar por considerarla una versión de paja de la suya, y por eso la refutación debe reproducir su intuición y no la versión ordenada de ella.
+
+**«Más información sobre la concepción correcta resuelve la resistencia.»** El volumen de información correcta es justamente la intervención que ya fracasa. El cambio conceptual exige que el modelo existente de quien aprende se haga explícito y se revele insuficiente, lo que es un movimiento instruccional distinto de añadir evidencia.
+
+**«Las ideas erróneas y la ignorancia ordinaria necesitan el mismo remedio.»** Necesitan remedios distintos: la ignorancia se atiende aportando conocimiento, y una idea errónea debe desalojarse primero. Tratar la segunda como la primera es la razón por la que una lección bien explicada puede dejar intacto el modelo original de un estudiante.
 
 ## Conceptos conectados
 - [[pedagogical-patterns]] — Secuencias de refutación, incluidos dos resultados directamente contradictorios

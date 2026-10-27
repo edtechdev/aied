@@ -1,7 +1,7 @@
 ---
 title: Calidad de la retroalimentación de la IA
 created: "2026-09-28T21:02:41-04:00"
-updated: "2026-10-24T08:28:15-04:00"
+updated: "2026-10-26T21:37:14-04:00"
 connected_faqs: [ai-save-instructor-time, ai-feedback-at-scale, checking-whether-educational-ai-works]
 type: concept
 foundations: [ai-literacy]
@@ -9,7 +9,7 @@ technology: [generative-ai]
 assessment: [ai-feedback-quality, automated-assessment, feedback, formative-assessment]
 confidence: high
 translation_of: concepts/ai-feedback-quality
-source_updated: "2026-10-24T08:53:00-04:00"
+source_updated: "2026-10-26T13:50:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -118,6 +118,15 @@ La calidad de la retroalimentación de la IA abarca varias dimensiones recogidas
 La calidad de la retroalimentación de la IA se conecta de forma fundamental con la [[formative-assessment|evaluación formativa]] y el [[feedback|bucle de retroalimentación]]: una retroalimentación de calidad cierra la brecha entre el desempeño actual y el deseado. Se cruza con la [[automated-assessment|calificación automatizada]] (que genera las puntuaciones en las que se basa la retroalimentación), la [[ai-literacy|alfabetización en IA]] (el estudiantado debe evaluar críticamente la calidad de la retroalimentación) y la [[cognitive-offloading|dependencia excesiva]] (la aceptación acrítica de la retroalimentación de la IA puede desplazar el aprendizaje). Para la [[writing-education|enseñanza de la escritura]], la calidad de la retroalimentación es especialmente consecuente dado el creciente papel de la IA en la evaluación de la escritura.
 
 El corpus que sostiene esas afirmaciones sobre la calidad es más delgado de lo que ellas sugieren. A lo largo de 51 estudios sobre retroalimentación escrita con IA generativa en la escritura en segunda lengua, 16 diseños experimentales no usaron grupo de control y solo 27 informaron de los prompts que emplearon, de modo que dos de cada cinco resultados no pueden reproducirse ni compararse en la variable que más determina la salida ([[genai-l2-written-feedback-scoping-review-2026|Crosthwaite y Sun (2026)]]). La evidencia sobre la calidad en esta literatura se acumula por tanto más despacio de lo que su volumen implica.
+
+[[wu-deepseek-reasoning-written-feedback-2026|Wu, Li y Moorhouse (2026)]] examinan los rastros de razonamiento explícito de DeepSeek como una posibilidad de retroalimentación, y encuentran que el razonamiento visible hace inspeccionable por quien escribe la base de un comentario, mientras que el modelo sigue derivando el juicio de orden superior, como la argumentación, a la persona.
+
+## Concepciones erróneas
+
+- **«Al estudiantado le resulta aceptable la retroalimentación de IA, así que es buena.»** **La calidad percibida por el estudiantado es más ambigua de lo que sugiere la aceptabilidad**: **77 de 93 estudiantes universitarios encontraron fácil de entender la retroalimentación de IA, pero 68 la encontraron repetitiva y 79** encontraron algo más que faltaba. La comprensión y la insatisfacción coexistieron en la misma cohorte.
+- **«Los efectos de la retroalimentación son modestos.»** Un **metaanálisis de 53 estudios** encontró que la retroalimentación con IA generativa produjo **el mayor efecto del estudio (g = 1,27)**, frente a **g = 0,40** del efecto general de la IA generativa. La retroalimentación es el mecanismo más potente medido, lo que ofrece una imagen distinta del debate general sobre el optimismo.
+- **«La retroalimentación es toda la intervención.»** Una comparación controlada aísla el componente: con el mismo sistema de [[intelligent-tutoring|tutoría]] diagnóstica, quienes aprenden y reciben **el componente de retroalimentación** difirieron de forma medible. Separar la retroalimentación del sistema adaptativo es lo que hace atribuible la afirmación.
+- **El acceso y la implicación son intervenciones distintas.** [[wenzel-conversational-ai-feedback-cognitive-load-game-2026|Wenzel, Geiger y Liening (2026)]] separaron ambas en **234 estudiantes y 1.147 observaciones semanales** durante una simulación empresarial de cinco semanas. La asignación a retroalimentación con IA conversacional **no produjo efecto** sobre la carga cognitiva pertinente (β = ,019, p = ,807) ni sobre la carga extrínseca (β = ,071, p = ,481). El **uso regular real** se asoció con una carga pertinente significativamente mayor que la de quienes no la usaban en el grupo experimental (β = −,468, p < ,001) y que la de los controles (β = −,253, p = ,028), mientras que el **uso irregular no se distinguió del regular** (p = ,116). Los juicios de calidad que se apoyan en un contraste por intención de tratar subestimarán por tanto una intervención de retroalimentación cuya adopción es parcial, y las métricas de satisfacción o de acceso no pueden sustituir a los datos de implicación.
 
 ## Conceptos conectados
 

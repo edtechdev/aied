@@ -1,7 +1,7 @@
 ---
 title: Apoyo y éxito estudiantil
 created: "2026-10-02T01:17:18-04:00"
-updated: "2026-10-22T09:13:53-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 type: concept
 foundations: [ai-education, human-ai-collaboration]
 pedagogy: [help-seeking, student-experience, student-engagement]
@@ -15,7 +15,7 @@ level: [higher ed, undergraduate]
 confidence: high
 connected_faqs: [ai-agents-support-students-instructors, institutional-ai-policy]
 translation_of: concepts/student-support-and-success
-source_updated: "2026-10-03T01:40:50-04:00"
+source_updated: "2026-10-26T01:00:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -25,6 +25,7 @@ ai_assist:
     agent: hermes-agent
 ---
 
+*Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 > **Apoyo y éxito estudiantil** — el trabajo del lado institucional para ayudar al estudiantado a permanecer, progresar y terminar: **asesoría académica, asistencia administrativa, contacto proactivo, derivación y asignación de apoyos escasos**. Esta es la página de lo que las instituciones *hacen con* el estudiantado, más que de lo que ocurre *dentro* de un curso. [[higher-ed|Educación superior]] es el paraguas más amplio del sector y [[student-experience]] cubre cómo la IA llega a la propia experiencia del estudiante; [[learning-gains]] mide si hubo aprendizaje. El hallazgo distintivo de esta base de conocimiento es que el apoyo con IA mueve de forma fiable la **finalización de tareas** —una acción fechada y binaria que la persona controla y que la institución puede observar— mientras deja **la persistencia, los créditos y la graduación** prácticamente intactos. Separar esos resultados es el propósito de esta página.
 
 ## Preguntas para reflexionar
@@ -86,6 +87,16 @@ La durabilidad en esta literatura es una propiedad organizacional, no técnica. 
 ## Conexiones con conceptos relacionados
 
 El apoyo estudiantil se conecta con [[student-experience]] como su contraparte orientada al estudiante —las mismas tecnologías vistas desde el lado del estudiante y no desde el de la institución— y con [[help-seeking]] por el mecanismo mediante el cual los estudiantes que necesitan apoyo lo obtienen realmente; tanto el contacto proactivo como los asistentes específicos de un curso intentan reducir el costo de preguntar. [[learning-analytics]] es dueña de la predicción que alimenta la asignación, [[student-modeling]] y [[knowledge-tracing]] de los modelos que hay debajo, y [[recommender-systems-and-learning-paths]] de la capa de recomendación. Se conecta con [[well-being]] a través de los sistemas de prevención y de salud mental en el campus, con [[career-development-and-readiness]] como el resultado que sigue a la finalización, con [[equity-in-ai-education]] y [[privacy]] a través de los riesgos de actuar sobre puntuaciones, y con [[administrator]], [[stakeholders]] y [[change-management]] como los roles y procesos que deciden si algo de esto se sostiene. [[learning-gains]] es el nodo de medición adyacente: los resultados de esta página son administrativos y no instruccionales, y ambos no se mueven juntos.
+
+## Concepciones erróneas
+
+**«Predecir qué estudiantes tendrán dificultades es la intervención.»** La predicción es la entrada al apoyo y no es apoyo. El corpus las separa de forma deliberada: un recordatorio de matriculación y un programa de retención son intervenciones distintas con evidencia distinta, y la investigación sugiere que una no compra la otra. Un panel de alerta temprana que termina en una puntuación ha añadido medición sin añadir ayuda.
+
+**«Un programa de retención que elevó la persistencia demuestra que la IA funcionó.»** Demuestra que el programa funcionó, y la capa de IA debe evaluarse por separado de la intervención que activa. Un estudio aleatorizado de cuatro años sobre CSUNny, un chatbot de mensajes de texto no generativo de la California State University, Northridge, siguió a **dos cohortes de grado (N = 8.708)** durante **ocho semestres** con **tasas anuales de baja voluntaria que nunca superaron el 4%**: un resultado sólido de receptividad sobre la *mensajería*, y no evidencia de que un sistema generativo o predictivo lograra lo mismo.
+
+**«La escalera de resultados se colapsa: la implicación es la retención.»** Cada peldaño mide algo distinto —adherirse, responder, persistir, completar— y un programa puede mover los peldaños inferiores dejando planos los superiores. Informar la proporción de respuestas como un éxito comete precisamente esa sustitución.
+
+**«Una preocupación de equidad es una razón para dejar de usar los datos.»** Es una razón para actuar sobre las puntuaciones con cuidado. Actuar sobre un predictor puede distribuir apoyo y puede distribuir sospecha, y el riesgo se concentra en el estudiantado que el modelo clasifica de forma menos favorable, lo que hace que el remedio sea la gobernanza del uso y no el abandono de la medición.
 
 ## Conceptos conectados
 

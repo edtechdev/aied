@@ -9,10 +9,10 @@ assessment: [assessment, ai-detection, assessment-validity, authentic-assessment
 ethics: [equity-in-ai-education]
 level: [higher ed]
 confidence: high
-connected_resources: [process-feedback]
+connected_resources: [process-feedback, code-viva]
 translation_of: concepts/process-oriented-assessment
-updated: "2026-10-22T07:34:46-04:00"
-source_updated: "2026-10-16T19:45:37-04:00"
+updated: "2026-10-26T22:02:40-04:00"
+source_updated: "2026-10-26T12:05:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -70,6 +70,8 @@ El constructo también se distingue de la cuestión de cómo se puntúa la evide
 
 La evaluación orientada al proceso se propone normalmente como alternativa a la detección, y la evidencia sobre la detección explica por qué. La literatura sobre la [[ai-detection|detección]] encuentra tasas de error, dependencia de la tarea y [[bias-mitigation|sesgo]] sistemático contra quienes escriben en una segunda lengua y contra las personas con discapacidad, y el trabajo más reciente llega a una conclusión procedimental: una puntuación de detector puede motivar una revisión más atenta, pero no es un hallazgo. Munoz y sus colegas (2026) muestran lo que eso cuesta en la práctica. Al codificar 1.162 acusaciones de mala conducta con IA generativa, encontraron que los tipos de evidencia más sólidos los genera la investigación o la supervisión, que la evidencia de proceso —borradores, reuniones de supervisión, presentaciones— solo aparece donde esas prácticas ya existen, de modo que en una evaluación no rediseñada simplemente está ausente, y que la salida del detector obtuvo las valoraciones probatorias más bajas de todas las categorías. La consecuencia de diseño es de orden: la evidencia de proceso tiene que existir antes de que un caso la necesite, y el razonamiento de Weidlich (2026) sobre qué inferencia está en riesgo plantea lo mismo desde el lado de la validez, ya que los intentos de restaurar la seguridad de la evaluación mediante la detección introducen varianza irrelevante para el constructo en lugar de evidencia sobre quien aprende.
 
+También los propios criterios de la rúbrica pueden reconstruirse en torno a la trayectoria. [[rubrics-genai-process-based-assessment-2026|Oviedo y Díaz (2026)]] leen el modelo 3P de Biggs como tres dimensiones de calificación —agencia y supervisión crítica, andamiaje dialógico y soberanía cognitiva—, de modo que se califica la trayectoria y no el resultado estático.
+
 ## Los costes de diseño y de carga de trabajo
 
 Las fuentes son inusualmente francas en que esto es caro. Thapa y Lewis formulan la advertencia de equidad directamente: las tareas reflexivas y dialógicas pueden privilegiar al estudiantado con más confianza en la autoexpresión académica, a menos que se diseñen de forma inclusiva y con [[scaffolding|andamiaje]], y el trabajo relacional e [[feedback|intensivo en retroalimentación]] intensifica el esfuerzo emocional y profesional del [[teacher-role|profesorado]] en contextos grandes o con recursos limitados, una contradicción con las expectativas institucionales de escalabilidad, estandarización y desempeño medible. Sharma añade la versión interpretativa: exigir razonamiento documentado privilegia a [[learners]] con más fluidez en el discurso reflexivo, y el juicio como evidencia «sigue siendo relacional y situado en lugar de verificable mecánicamente».
@@ -79,6 +81,12 @@ Los costes operativos se detallan en otros lugares. Boysen enumera tecnología n
 ## Lo que sigue sin resolverse
 
 El relato de Thapa y Lewis es conceptual: sin participantes, sin recogida de datos y sin ensayo de implementación, de modo que los cuatro principios se argumentan y no se prueban, y el propio artículo reclama trabajo empírico sobre la [[student-experience|experiencia del estudiantado]], la carga de trabajo del profesorado y la viabilidad a largo plazo. La factibilidad queda sin diferenciar entre contextos: no se aborda la transferencia a clases magistrales grandes, laboratorios, estudios o prácticas clínicas. El documento de posición de Lane (2026) señala el techo institucional: la evaluación basada en el proceso se ve amortiguada por estructuras de calificación y expedientes académicos que recompensan artefactos finales pulidos, de modo que el rediseño del aula por sí solo no cambia el incentivo. La [[educational-measurement|medición]] también es escasa: la revisión de Jin y sus colegas (2026) sobre instrumentos de [[ai-literacy|alfabetización en IA]] reclama evaluación basada en el desempeño y orientada al proceso y medición de rastros conductuales del [[prompt-engineering|diseño de prompts]] y la verificación, pero informa de que los instrumentos existentes se apoyan en el [[self-report-measures|autoinforme]]. Ninguna fuente aquí informa de un [[rct|ensayo controlado]] de un rediseño orientado al proceso frente a uno orientado al producto, lo que deja la afirmación central —que la evidencia de proceso es a la vez más difícil de falsificar y más justa de juzgar— argumentada desde principios, informes de profesionales y evidencia de expedientes de casos, y no demostrada a escala.
+
+## Concepciones erróneas comunes
+
+- **«Una puntuación alta implica que el estudiantado hizo el trabajo que diseñamos.»** Los rastros pueden **divergir de las puntuaciones de forma directa**: en **150 conversaciones entre estudiantado e IA**, el **41% tenía una calificación de la tarea de exactamente 1,00 mientras la participación cognitiva observable variaba**. La puntuación se satura mientras que el proceso que se suponía que la producía no lo hace.
+- **«Los datos de proceso son inmanejables a escala.»** La documentación exigida resultó viable a escala de curso a lo largo de **seis semestres de cursos asíncronos de métodos de investigación de seis semanas para aproximadamente 440 docentes de K-12**. La logística era resoluble; la objeción exagera el coste.
+- **«La resolución de problemas es demasiado holística para evaluarla por proceso.»** Se puede operacionalizar como **cuatro etapas y ocho subhabilidades diagnósticas**, lo que permite a un LLM generar **preguntas y rúbricas específicas de cada etapa**, usadas con **cinco docentes y 64 estudiantes**. La descomposición es lo que hizo legible y evaluable el proceso.
 
 ## Conceptos conectados
 - [[pedagogical-patterns]] — Puntos de control por etapas y evidencia de proceso como diseños secuenciados
@@ -114,3 +122,4 @@ El relato de Thapa y Lewis es conceptual: sin participantes, sin recogida de dat
 - [[epistemic-ownership-ai-mediated-education-2026]] — Mismo rendimiento, proceso distinto: propiedad epistémica en la educación mediada por IA
 - [[stepwise-teacher-diagnosis-math-2026]] — STEPwise: apoyo al profesorado en el diagnóstico de las habilidades de resolución de problemas matemáticos del estudiantado mediante preguntas generadas por LLM
 - [[packard-thinking-partner-framework-adult-learners-2026]] — La documentación de los puntos de control del diálogo con IA mantuvo un 96% de finalización en seis semestres y unos 440 docentes
+- [[rubrics-genai-process-based-assessment-2026]] — Tres dimensiones de rúbrica a partir del modelo 3P de Biggs: agencia y supervisión, andamiaje dialógico y soberanía cognitiva (Oviedo y Díaz 2026)

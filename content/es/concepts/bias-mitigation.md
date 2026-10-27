@@ -2,7 +2,7 @@
 connected_resources: [writing-rhetoric-studies-in-the-loop]
 title: Mitigación de sesgos
 created: "2026-09-28T19:11:29-04:00"
-updated: "2026-10-02T21:25:27-04:00"
+updated: "2026-10-26T21:37:14-04:00"
 type: concept
 foundations: [ai-literacy, teacher-role]
 technology: [generative-ai, llm]
@@ -11,7 +11,7 @@ audience: [learners, instructors]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/bias-mitigation
-source_updated: "2026-10-01T09:59:06-04:00"
+source_updated: "2026-10-26T09:35:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -37,6 +37,10 @@ ai_assist:
 ## Introducción
 
 La mitigación de sesgos importa porque la [[ai-education|IA en la educación]] no es neutral: los sistemas entrenados con datos lingüísticos y culturales dominantes pueden desfavorecer sistemáticamente a quienes aprenden desde posiciones marginadas, desde la calificación basada en IA que penaliza a quienes escriben en una lengua no nativa hasta los tutores [[llm|LLM]] que responden de forma distinta según el grupo. El sesgo es una preocupación transversal que aparece en la [[automated-assessment|calificación automatizada]], la [[automated-essay-scoring|calificación automatizada de ensayos]], el [[knowledge-tracing|seguimiento del conocimiento]], los sistemas de recomendación y los tutores de [[conversational-ai|IA conversacional]].
+
+[[solyst-youth-systematic-evaluation-genai-2026|Solyst et al. (2026)]] muestran que la mitigación de sesgos puede enseñarse y no solo diseñarse técnicamente: jóvenes a quienes se pidió interrogar las salidas de un modelo de texto a imagen produjeron evaluaciones sistemáticas de la representación, y sus peticiones de imágenes de personas se inclinaban hacia lo blanco antes de la intervención.
+
+La equidad es la dimensión menos examinada en la literatura que compara la calificación con IA y la humana: de doce estudios revisados, diez no decían nada sobre sesgo demográfico, lingüístico o social, y el género fue la única dimensión evaluada ([[xu-recentering-humans-ai-assisted-writing-scoring-2026|Xu, Lu y Abdi, 2026]]).
 
 ## Fuentes de sesgo
 
@@ -91,6 +95,12 @@ La mitigación de sesgos es el mecanismo técnico a través del cual se operacio
 - **Separar la comprensión del lenguaje en la calificación:** la calificación automatizada no debe penalizar a quienes escriben en una lengua no nativa o con menos fluidez por la comprensión conceptual que demuestran.
 - **Hacer que los sistemas sean explicables:** la transparencia sobre las decisiones de la IA es esencial para detectar y corregir el sesgo.
 - **Combinar la mitigación técnica y la humana:** emparejar los algoritmos de desesgado con la supervisión humana con la persona en el bucle, especialmente en casos de alto riesgo o baja confianza.
+
+## Concepciones erróneas
+
+- **«El sesgo es un problema de calificación y de retroalimentación.»** El sesgo entra en **clases de tareas ajenas a la calificación**: tres LLM que asignaban **clases de ingeniería de software de 28 estudiantes a cuatro equipos dirigieron a los hombres al menos un 80% menos de veces** que la distribución de referencia. La formación de equipos portaba un sesgo de magnitud comparable al de la calificación.
+- **«Proporcionar la habilidad pertinente elimina el sesgo.»** Proporcionar habilidades lo **redujo pero no lo eliminó**: **el 99,2% de las asignaciones basadas en habilidades coincidía con uno de dos equipos de referencia, y aun así el género decidía entre opciones igualmente válidas (OR 2,53)**. Un emparejamiento de tareas casi perfecto coexistió con un efecto de género, así que la exactitud en el criterio principal no es evidencia de equidad.
+- **«Un único enfoque de mitigación es suficiente.»** La investigación ilustra **estrategias complementarias** —entre ellas el modelado consciente de la equidad— porque el sesgo que entra en la formación de equipos no se aborda con una corrección dirigida al texto de salida.
 
 ## Conceptos conectados
 - [[differential-effects-across-learner-groups]]

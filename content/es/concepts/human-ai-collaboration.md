@@ -1,14 +1,14 @@
 ---
 title: Colaboración humano-IA
 created: "2026-09-28T18:15:22-04:00"
-updated: "2026-10-24T08:21:10-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 type: concept
 confidence: medium
 foundations: [human-ai-collaboration, ai-literacy]
 technology: [generative-ai, llm]
 pedagogy: [student-ai-interaction]
 translation_of: concepts/human-ai-collaboration
-source_updated: "2026-10-23T22:48:50-04:00"
+source_updated: "2026-10-26T12:05:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -93,6 +93,12 @@ Esto convierte la colaboración humano-IA en un constructo *pedagógico* tanto c
 ### Conexiones
 
 La colaboración humano-IA conecta con [[human-in-the-loop-ai]] (supervisión), [[agentic-ai]] (autonomía), [[teacher-role]] (el trabajo cambiante del profesorado), [[scaffolding]] y [[metacognition]] (cómo la colaboración apoya el aprendizaje) y la [[cognitive-offloading|dependencia excesiva]] (el modo de fallo cuando la colaboración se convierte en sustitución). Es un tema central en [[ai-literacy]], [[self-regulated-learning]] y [[student-experience]].
+
+## Concepciones erróneas
+
+- **«Colaborar significa que la IA hace parte del trabajo.»** **Quien aprende conserva el papel que decide**, y esto se extiende a la escritura: [[oppenheimer-llms-collaborative-learning-partners-2026|Oppenheimer, Cash y Connell Pensky (2025)]] muestran que se sostiene cuando el arreglo está diseñado para ello. La división del trabajo no es colaboración a menos que la persona conserve el juicio.
+- **«En un arreglo invertido es la IA la que explica.»** **El estudiantado que enseñó a la IA explicó mejor**: definir en el aula invertida con **M = 4,18 frente a 3,29**, y las actividades de enseñanza con **M = 4,91 frente a 3,06, ambas p < 0,001**. El aprendizaje se acumuló en quien explicaba.
+- **«Las contribuciones humanas y de la IA son sustitutivas.»** Dos estudios de 2026 trazan **mitades complementarias** de la colaboración en el aula, lo que plantea el problema de diseño como asignación y no como reemplazo.
 
 ## Conceptos conectados
 - [[pedagogical-partnerships]] — Alianzas pedagógicas

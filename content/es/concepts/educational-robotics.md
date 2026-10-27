@@ -1,7 +1,7 @@
 ---
 title: Robots en la educación
 created: "2026-09-28T19:11:29-04:00"
-updated: "2026-10-22T09:13:53-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 type: concept
 foundations: [computational-thinking]
 pedagogy: [embodied-learning]
@@ -11,7 +11,7 @@ discipline: [stem education, cs education]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/educational-robotics
-source_updated: "2026-10-21T10:45:00-04:00"
+source_updated: "2026-10-26T10:00:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -79,6 +79,12 @@ La **interacción persona–robot (HRI)** es el estudio interdisciplinar de cóm
 Un tema definitorio es que los robots son eficaces cuando apoyan objetivos de aprendizaje genuinos, no como ejercicios técnicos aislados. Un proyector robótico montado sobre el escritorio empató con ChatGPT en un portátil mientras había ayuda disponible (6,7 frente a 7,3/10, p = 0,41), pero mantuvo su puntuación tras retirarse la ayuda (7,0 frente a 4,4/10, p = 0,003), una puntuación de transferencia a corto plazo un 60% mayor, una ganancia dependiente de la tarea que los autores atribuyen a la colocalización espacial y no a un reemplazo general ([[aifred-desk-robotic-ai-guidance-2026|Orlando et al. (2026)]]). El valor de un robot depende del contexto pedagógico: enseñar pensamiento computacional ([[computational-thinking|pensamiento computacional]]), apoyar STEAM ([[stem-education|educación STEAM]]), construir habilidades de [[cs-education|programación]], motivar a quien aprende ([[motivation|motivación]], [[student-engagement|implicación]]) o apoyar el [[social-emotional-learning|aprendizaje socioemocional]] y la [[equity-in-ai-education|inclusión]]. La robótica también conecta con el [[project-based-learning|aprendizaje por proyectos]], el [[game-based-learning|aprendizaje basado en juegos]] y el [[experiential-learning|aprendizaje experiencial]]. Entre las consideraciones clave de diseño están preservar la [[agency|agencia]] de quien aprende, construir la [[trust|confianza]], apoyar la [[self-efficacy|autoeficacia]] y fundamentar el aprendizaje en la [[embodied-learning|interacción corporeizada]]. En el [[language-learning|aprendizaje de idiomas]], [[robot-assisted-language-learning-meta-analysis-2026|la evidencia metaanalítica]] apunta a la eficacia del aprendizaje de idiomas asistido por robots corporeizados.
 
 - **Itinerarios hacia el aprendizaje de la robótica con IA.** [[educational-robotics-pathways-2026|Un estudio cualitativo]] con estudiantado de secundaria en un currículo de robótica + IA encontró aprendizaje a través de la práctica del mundo real, el diseño y la expresión creativa lúdica (con una lente construccionista y epistemológicamente pluralista).
+
+## Concepciones erróneas
+
+- **«La robótica enseña pensamiento computacional por el mero hecho de ser robots.»** Una revisión sistemática de **53 estudios** encontró que el **aprendizaje basado en problemas, la narrativa y el andamiaje** eran las estrategias más usadas: la pedagogía sostenía el resultado, y es lo que los estudios hicieron realmente.
+- **«Los robots físicos superan a las alternativas basadas en pantalla en todos los casos.»** Las ganancias dependían de la tarea: una puntuación de transferencia a corto plazo **un 60% más alta** en [[aifred-desk-robotic-ai-guidance-2026|Orlando et al., 2026]] (4,4/10, p = 0,003) que los autores atribuyen a la **colocalización espacial y no a una sustitución general**. La afirmación se refiere a la colocalización en tareas concretas, no a la fisicalidad en general.
+- **«El pensamiento computacional en educación infantil llega demasiado pronto para ser significativo.»** La evidencia revisada cubre directamente la robótica en educación infantil, lo que significa que esa franja de edad está estudiada y no se da por inadecuada.
 
 ## Conceptos conectados
 - [[early-childhood-elementary-ai-education]] — Educación en IA en la primera infancia y la educación primaria

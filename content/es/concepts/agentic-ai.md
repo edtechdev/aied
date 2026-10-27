@@ -2,7 +2,7 @@
 connected_resources: [deeptutor]
 title: IA agéntica
 created: "2026-09-28T18:19:10-04:00"
-updated: "2026-10-22T09:13:53-04:00"
+updated: "2026-10-26T21:37:14-04:00"
 connected_faqs: [ai-agents-support-students-instructors, asynchronous-online-courses-ai, making-simulated-students-behave-like-learners]
 type: concept
 foundations: [agency, agentic-ai, ai-literacy, cognitive-offloading]
@@ -13,7 +13,7 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/agentic-ai
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-25T17:35:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -41,6 +41,7 @@ ai_assist:
 ## Introducción
 
 La IA agéntica se refiere a los sistemas de inteligencia artificial que pueden planificar, ejecutar y adaptar flujos de trabajo de varios pasos de forma autónoma para alcanzar objetivos de aprendizaje, y que van más allá de responder preguntas de un solo turno para actuar como colaboradores persistentes y orientados a objetivos en contextos educativos. En educación, la IA agéntica se manifiesta como tutores de IA que ofrecen andamiaje a lo largo de interacciones prolongadas, sistemas multiagente que orquestan [[learning-design|diseños instruccionales]] complejos y agentes autónomos que adaptan sus estrategias [[pedagogy|pedagógicas]] según las necesidades de quien aprende. Este paradigma emergente desplaza la IA de ser una herramienta que responde a prompts a ser un colaborador que guía, adapta y corregula activamente los procesos de aprendizaje.
+- **Separar la especificación de la ejecución es lo que hace fiable una canalización agéntica.** DagFlow-AI hace que los agentes LLM definan cada componente de un mecanismo generador de datos —variables, un grafo acíclico dirigido, distribuciones y fórmulas del modelo— mientras un programa muestrea las observaciones y un script de validación comprueba la salida de cada agente ([[arthur-dagflow-agentic-synthetic-data-statistics-2026|Arthur et al., 2026]]). Ningún agente genera datos ni escribe el código de generación, lo que los autores presentan como la respuesta a la salida no respaldada y a la deriva de instrucciones.
 
 ## Definir y clasificar la IA agéntica
 
@@ -165,6 +166,16 @@ Como los agentes autónomos hacen inútil la detección, el profesorado debería
 ## Una conclusión equilibrada
 
 La IA agéntica no es ni una panacea ni un daño inevitable: su valor depende del diseño. Usada para dar andamiaje a la agencia de quien aprende, fundamentada en la pedagogía y con las personas en el circuito, los agentes pueden personalizar y profundizar el aprendizaje; usada para maximizar la automatización y la finalización de tareas, puede erosionar justamente el esfuerzo que produce el aprendizaje. El principio de diseño recurrente es la **intencionalidad**: decidir explícitamente qué hace el agente y qué deja deliberadamente a quien aprende.
+
+## Concepciones erróneas
+
+**«Cualquier chatbot conectado a herramientas es un sistema agéntico.»** La distinción se traza sobre la estructura de capacidades y no sobre el acceso a herramientas: un sistema solo es agéntico si cumple criterios como la planificación, la memoria, la autonomía y la acción orientada a objetivos a lo largo de varios pasos. Una herramienta de estímulo-respuesta que puede llamar a una calculadora sigue siendo conversacional. La distinción importa porque los riesgos y los métodos de evaluación difieren: la acción autónoma de varios pasos plantea modos de fallo que un intercambio único no tiene.
+
+**«Los mejores modelos base son lo que hace funcionar a los sistemas agénticos en educación.»** En el ensayo que cita esta página, se atribuye la mejora del comportamiento de consulta a la **especialización de roles y no a la capacidad bruta del modelo** (**71,8%** frente a la comparación). La arquitectura y la división del trabajo entre agentes son decisiones de diseño con efectos medibles, lo que significa que un modelo más potente colocado en una canalización sin especializar no reproducirá el resultado.
+
+**«Los sistemas agénticos en educación están fundamentados pedagógicamente porque los construyen investigadores educativos.»** La evidencia dice lo contrario: una revisión de alcance encontró que solo el **29% de los estudios sobre IA agéntica (138 de 474)** fundamentaban explícitamente sus sistemas en teoría educativa. La división disciplinar entre el trabajo de orientación técnica y el de orientación pedagógica es la condición del campo y no un descuido de un autor concreto, así que una demostración que funciona es el resultado esperado y una demostración que funciona *para el aprendizaje* es el caso minoritario.
+
+**«Un agente que personaliza y profundiza el aprendizaje es una ganancia neta frente a un chatbot.»** Conlleva un intercambio específico: los sistemas agénticos amenazan la [[agency|agencia]] e invitan a la [[cognitive-offloading|descarga]] del esfuerzo cognitivo del que depende el aprendizaje, y al hacer más pasos sin supervisión hacen esa descarga más difícil de percibir. La tensión entre automatización y aprendizaje es el problema analítico central de la categoría y no una advertencia añadida a sus beneficios.
 
 ## Conceptos conectados
 

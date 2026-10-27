@@ -1,7 +1,7 @@
 ---
 title: Rendición cognitiva
 created: "2026-09-28T21:09:18-04:00"
-updated: "2026-10-02T22:33:23-04:00"
+updated: "2026-10-26T21:37:14-04:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [metacognition, self-regulated-learning]
@@ -13,7 +13,7 @@ connected_faqs: [reducing-over-reliance, verify-ai-output, does-ai-help-students
 connected_resources: [pause-ai-use-self-examination]
 confidence: high
 translation_of: concepts/cognitive-surrender
-source_updated: "2026-09-30T07:29:37-04:00"
+source_updated: "2026-10-25T20:20:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -98,6 +98,16 @@ Los hallazgos de laboratorio coinciden con el trabajo de campo y observacional q
 ## Limitaciones
 
 La evidencia de la rendición como constructo con nombre propio se apoya en gran medida en un único programa de trabajo de laboratorio: tres experimentos prerregistrados sobre un Test de Reflexión Cognitiva adaptado con muestras de conveniencia, que establece el mecanismo y los moderadores disposicionales pero no [[transfer-of-learning|transfiere]] a juicios profesionales de alta exigencia. El diseño captura además exposiciones únicas, así que nada en él muestra si la rendición se habitúa o se acumula. La evidencia de campo es observacional: el panel de ALEKS muestra una finalización más rápida con peor retención supervisada, pero una atribución causal a la rendición y no a un cambio de estrategia de estudio exige supuestos que el diseño no puede comprobar. Las definiciones siguen siendo inestables en la literatura —descarga, dependencia excesiva, dependencia, apego y uso problemático se confunden de forma habitual—, y [[yan-conversational-ai-engagement-dependence-synthesis-2026|al menos una síntesis]] sostiene que la delegación frecuente no debería etiquetarse como dependencia sin un control deteriorado o un daño. Por último, los [[self-report-measures|autoinformes]] de confianza, necesidad de cognición y conducta de comprobación arrastran los límites habituales, y buena parte de la evidencia de aula se refiere a la [[higher-ed|educación superior]] y a la [[k-12|secundaria]] más que a la escolarización temprana.
+
+## Concepciones erróneas
+
+**«Descarga, dependencia excesiva y rendición son tres palabras para el mismo problema.»** Nombran tres fallos distintos con remedios distintos. La descarga es delegar trabajo cognitivo; la dependencia excesiva es depender del sistema más de lo que su fiabilidad justifica; la **rendición** es adoptar la respuesta del sistema sin formar una propia. La rendición es la más grave porque no queda ningún juicio independiente que corregir, y es la que peor se transfiere: no se puede enseñar a alguien a comprobar una respuesta que nunca tuvo.
+
+**«Las personas no confiarán en una IA que no pueden verificar, así que la rendición está acotada.»** La firma experimental muestra que opera el mecanismo contrario. Tres experimentos preregistrados adaptaron la Prueba de Reflexión Cognitiva y aleatorizaron la *exactitud de la IA* mediante indicaciones semilla ocultas, de modo que quienes participaban no podían distinguir un buen asistente de uno malo, y aun así **eligieron consultar en la mayoría de los ensayos (>50%)** y después adoptaron. La opacidad que debería haber producido cautela produjo consulta, y la consulta precedió a la rendición.
+
+**«La solución es una IA mejor, porque la rendición se sigue de los errores.»** La rendición se sigue de la *estructura* de la interacción: un sistema que produce primero una respuesta plausible elimina la ocasión para que quien aprende genere una. Mejorar la exactitud reduce el daño de las respuestas incorrectas y no hace nada frente al abandono de formar un juicio, que es el daño que persiste después de que la herramienta desaparece.
+
+**«Enseñar evaluación crítica es suficiente.»** Es necesario y llega demasiado tarde. Una vez que hay una respuesta plausible en pantalla, la evaluación se convierte en confirmación, y por eso la literatura de diseño que se recoge aquí sitúa el intento del estudiantado antes de la salida del sistema en lugar de auditarla después.
 
 ## Conceptos conectados
 

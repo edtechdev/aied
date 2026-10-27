@@ -1,7 +1,7 @@
 ---
 title: Sistemas de recomendación y rutas de aprendizaje
 created: "2026-09-28T19:10:33-04:00"
-updated: "2026-10-02T22:33:23-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 type: concept
 foundations: [curriculum-design]
 technology: [adaptive-learning, knowledge-graph, learning-analytics, personalized-learning]
@@ -12,7 +12,7 @@ audience: [instructors, learners, researchers, instructional designers, software
 level: [higher ed, k 12]
 discipline: [cs education, learning sciences]
 translation_of: concepts/recommender-systems-and-learning-paths
-source_updated: "2026-10-01T20:35:10-04:00"
+source_updated: "2026-10-26T02:00:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -84,6 +84,16 @@ Las tres páginas de conceptos adyacentes cubren terreno contiguo y deberían le
 La base de evidencia tiene una forma consistente: métricas de ordenación offline sólidas y evidencia débil sobre el aprendizaje. Los dos estudios de recomendación anteriores se evalúan sobre registros de interacción históricos y lo dicen, y los autores de FC–GC piden explícitamente evaluaciones docentes, estudios con estudiantes y experimentos basados en resultados. El sesgo de popularidad sobrevivió a un objetivo de entrenamiento consciente de la equidad en un sistema, así que el campo todavía no puede señalar una corrección de reordenación o regularización que cambie de forma fiable la exposición, y las auditorías de equidad siguen limitadas por lo que contienen los registros del LMS. El arranque en frío se aborda arquitectónicamente, mediante la estructura semántica, pero no se contrasta con usuarios genuinamente nuevos en un despliegue real. La eficiencia de las rutas está mejor evidenciada, aunque las cifras de eficiencia siguen apoyándose en un estudio y una familia de algoritmos, y una ruta más corta no es automáticamente mejor si elimina el [[desirable-difficulties|esfuerzo productivo]] que quien aprende necesita. El trabajo formal de optimización de rutas afina la idea en ambas direcciones: garantizar un problema duro dice poco sobre un corpus concreto, ya que un escalador de colinas alcanzó lo más alto de la rúbrica de [[retrieval-spacing-interleaving|intercalado]] en todos los perfiles reales pese a las pruebas de NP-completitud, y una ruta calificada con 3,54 en una rúbrica derivada de la teoría sigue siendo una ruta que nadie ha probado con estudiantes, así que la calidad de la rúbrica es un proxy orientado al diseñador para la evidencia de resultados y no un sustituto de ella. El vocabulario también es inestable: [[ikram-ai-personalized-learning-review-2026|Ikram y sus colegas (2026)]], en una revisión [[meta-analysis-systematic-review|PRISMA]] de 31 artículos indexados en Scopus (2013–2025), informan de efectos cognitivos de medianos a grandes (g = 0,50–0,70) para los sistemas adaptativos habilitados por IA, fuertemente moderados por la calidad de la implementación y el [[research-methods-aied|diseño del estudio]].
 
 La misma literatura ha comenzado a proponer remedios para el estrechamiento, aunque todavía no a ponerlos a prueba. [[najem-behavioral-clustering-adaptive-learning-recommendation-2026|Najem, Zaoui Seghroucheni y Ziti (2026)]] agrupan 14.003 registros de estudiantes a partir de 12 entradas autodeclaradas de tipo conductual, psicológico y ambiental en seis perfiles con K-Means++ y una separación marcada (Silueta 0,62; η² = 0,770 sobre la calificación final, con una diferencia media de 40,17 puntos en la puntuación del examen entre los perfiles más alto y más bajo), y después asignan los perfiles a objetos de aprendizaje mediante una puntuación de afinidad combinada con una matriz de correspondencia de Felder-Silverman y un término de regularización de diversidad (λ = 0,30) cuyo propósito explícito es evitar que un recomendador colapse hacia lo que un perfil ya prefiere. El diseño es la contribución y la evidencia no lo es: la capa de recomendación es conceptual y no informa de ningún despliegue ni medida de resultados, y los autores señalan que las entradas del agrupamiento son proxies autodeclarados y no trazas de interacción del LMS. Es una respuesta candidata a la laguna de regularización que señala esta página, aún a la espera de la validación que la página dice que le falta al campo.
+
+## Concepciones erróneas
+
+**«Una recomendación con una métrica de precisión más alta es una mejor ruta de aprendizaje.»** La precisión de la ordenación y la validez instruccional son afirmaciones distintas. Sobre el subconjunto en inglés del conjunto de datos MARS (**4.800 usuarios, 14.200 recursos, 132.000 interacciones, dispersión 0,9981**) un sistema alcanzó NDCG 0,625 y HR 0,751, una ganancia de en torno al **7-8%** sobre la mejor línea base neuronal: una mejora en predecir con qué se implicaría quien aprende, que no es lo mismo que predecir qué le enseñaría.
+
+**«Los prerrequisitos pueden tratarse como una relación de similitud simétrica.»** No pueden: las relaciones de prerrequisito son **asimétricas en su dirección**, y un modelo que captura «estos temas están relacionados» no ha capturado ni la dirección ni el orden. Por eso la secuenciación de prerrequisitos es un problema distinto de la recomendación.
+
+**«Los datos dispersos son una molestia técnica.»** Con los niveles de dispersión de esta literatura (0,9981) el sistema ve casi nada, lo que hace del arranque en frío y del sesgo de popularidad problemas estructurales y no corregibles mediante ajuste. Un recomendador entrenado con esa señal mostrará sistemáticamente lo que ya es popular, y quien aprende de forma callada o atípica es justo a quien no puede ver.
+
+**«La explicabilidad es una función de notificación.»** Que el profesorado o quien aprende pueda auditar una recomendación es una condición de legitimidad: una ruta que un estudiante no puede examinar es una que no puede impugnar, lo que es un problema de gobernanza antes que de interfaz.
 
 ## Conceptos conectados
 

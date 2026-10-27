@@ -1,7 +1,7 @@
 ---
 title: Educación química
 created: "2026-09-28T18:22:28-04:00"
-updated: "2026-09-28T18:22:28-04:00"
+updated: "2026-10-26T21:37:14-04:00"
 type: concept
 foundations: [ai-literacy, philosophy-of-ai-in-education]
 technology: [generative-ai]
@@ -10,7 +10,7 @@ discipline: [chemistry education, stem education]
 level: [higher ed, k 12, teacher education]
 confidence: high
 translation_of: concepts/chemistry-education
-source_updated: "2026-09-03T15:00:00-04:00"
+source_updated: "2026-10-25T20:50:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -60,6 +60,16 @@ La educación química se sitúa dentro del dominio más amplio de la [[stem-edu
 - **Combine la IA con una pedagogía estructurada y contextualizada.** [[context-based-ai-secondary-chemistry-2026|7E + PhET + ChatGPT]] superó a la enseñanza solo indagatoria y a la convencional, lo que muestra que la IA funciona mejor dentro de un modelo instruccional establecido.
 - **Esté atento a la deriva epistémica y a la dependencia excesiva.** La investigación sobre la [[philosophy-experimentation-ai-chemistry-2026|filosofía de la experimentación]] y la orientación de la UNESCO advierten de que una IA opaca puede desvincular la indagación de la comprensión causal; preserve una evaluación que priorice el razonamiento humano y la agencia del estudiantado.
 - **Califique de forma selectiva el trabajo manuscrito abierto.** En un examen final manuscrito de química general con 296 estudiantes, un LLM multimodal calificó de forma fiable las respuestas textuales y las ecuaciones de reacción química, pero el dibujo y las gráficas peor que el azar (las cuadrículas de fondo distraen visualmente a la visión de la IA); combinar un filtro de riesgo basado en la [[item-response-theory|teoría de respuesta al ítem]] con [[human-in-the-loop-ai|delegar]] en personas los ítems gráficos hizo defendible la automatización para un uso [[summative-assessment|sumativo]] ([[cvengros-grading-handwritten-chemistry-ai-2026]]).
+
+## Concepciones erróneas
+
+**«Un modelo que puede explicar química puede, por tanto, hacer química.»** Las capacidades se separan justo en los puntos que un curso de química evalúa. La evidencia sistemática muestra que los LLM pueden definir términos básicos mientras rinden **mal en tareas cuantitativas rigurosas**, tienen dificultades con el **razonamiento espacial, como la interpretación de RMN**, y muestran **exceso de confianza** en ambos casos. Un tutor construido sobre una explicación verbal fluida parecerá sólido justo donde la materia es más fácil y fallará donde es más difícil, mientras suena igual de seguro en todo momento.
+
+**«La fluidez de la explicación es un indicador razonable de fiabilidad.»** Es un indicador de fluidez. El hallazgo del exceso de confianza es el operativo para la enseñanza: un sistema que afirma una respuesta espacial o cuantitativa incorrecta con el mismo registro que una correcta elimina la señal que lleva a quien aprende a comprobar, y por eso la verificación debe incorporarse a la tarea en lugar de inferirse del tono.
+
+**«Añadir IA a una lección de indagación existente no puede perjudicar.»** Puede hacerlo, y la comparación que muestra un beneficio es más estrecha de lo que parece. [[context-based-ai-secondary-chemistry-2026|Abdikayumova y Madybekova]] combinaron el **modelo instruccional 7E** con simulaciones PhET *y* tutoría con ChatGPT en química de décimo grado y encontraron un rendimiento y una implicación significativamente mayores que la enseñanza solo indagatoria o la convencional. El tratamiento es la combinación estructurada —un modelo instruccional más simulaciones más tutoría—, no el chatbot por sí solo, y un chatbot añadido a una indagación no estructurada no queda probado por ese resultado.
+
+**«La química es una materia donde la respuesta se puede comprobar, así que los errores de la IA son inofensivos.»** Las respuestas comprobables son la vía por la que el razonamiento erróneo pasa inadvertido: quien recibe un valor correcto de un modelo que razonó mal no tiene forma de detectar la deficiencia, y la evaluación registra un éxito. En una disciplina cuantitativa, el punto final verificable es la evidencia de comprensión más débil de la que se dispone.
 
 ## Conceptos conectados
 

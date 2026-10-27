@@ -1,7 +1,7 @@
 ---
 title: Madres, padres y familias
 created: "2026-09-28T20:10:26-04:00"
-updated: "2026-10-03T02:57:43-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 type: concept
 foundations: [ai-literacy]
 technology: [conversational-ai]
@@ -11,7 +11,7 @@ confidence: medium
 audience: [instructors, policymakers, researchers]
 level: [preschool, primary education, secondary, k 12]
 translation_of: concepts/parents-and-families
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-26T01:00:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -83,6 +83,16 @@ Lo que falta es más llamativo. Los relatos de las propias familias son raros: e
 Una revisión de alcance de 2026 traza hasta dónde ha llegado el campo. [[llm-family-education-activity-theory-2026|Luo et al. (2026)]] analizaron 53 estudios de interacción persona-ordenador procedentes de 6.540 registros de 19 sedes de publicación mediante la teoría de la actividad, y encontraron una bibliografía centrada en la interacción niño-progenitor y en el lenguaje, la [[ai-literacy|alfabetización en IA]] y el aprendizaje relacional, con 44 de los 53 estudios (83%) situados en configuraciones niño-progenitor. Los sistemas conversacionales, corporeizados y espaciales generan apoyo a partir del contexto de una interacción en curso, y los LLM redistribuyen el trabajo educativo mientras las familias y las instituciones siguen siendo responsables de interpretar los resultados y decidir cómo entran en la práctica. La [[personalized-learning|personalización]] sostenida, el trabajo de reparación y cómo negocian las familias la autoridad y las normas son los huecos que nombra la revisión, que es la misma ausencia que documenta esta sección desde la dirección opuesta.
 
 **Relación con otras páginas.** [[stakeholders|Partes interesadas]] es la visión general breve del conjunto completo de partes interesadas, con las familias enumeradas como una audiencia todavía no cubierta en profundidad; esta página es esa profundidad. [[early-childhood-elementary-ai-education|IA en la primera infancia y la educación primaria]] cubre el dominio evolutivo y [[pedagogy|pedagógico]] de quienes aprenden a edades tempranas en la escuela y en el hogar; esta página sigue a la familia a través de las edades, desde las actividades de juego en preescolar hasta los deberes de secundaria. [[ai-use-disclosure|Declaraciones de uso y de divulgación de la IA]] cubre si quien aprende cuenta a otras personas que ha usado IA; esta página cubre la cuestión adyacente de si esa información llega a los adultos en el hogar, y qué se cuenta a las familias sobre el uso de la IA en la escuela.
+
+## Concepciones erróneas comunes
+
+**«Las familias participarán si se hace la oferta.»** La participación se desmorona en cada traspaso. En el año 1 del programa aquí citado, solo alrededor del **45% del estudiantado nominado por el profesorado asistió siquiera a una sesión**, con familias perdidas en cada paso: invitación, interés, creación de cuenta en una [[edtech-platform|plataforma de terceros]], emparejamiento. Cada traspaso es un lugar donde perder a una familia, así que una oferta entregada cuenta mucho menos que una oferta hecha.
+
+**«La coordinación familia-escuela en torno a la IA generativa es una práctica establecida.»** [[family-school-autonomy-support-genai-2026|Fan, Li y Zhang (2026)]] la tratan como una **hipótesis no probada** y no como una práctica establecida. Se están diseñando programas sobre una suposición que la literatura aún no ha probado, algo que conviene saber antes de adoptar uno como basado en evidencia.
+
+**«Las familias se darán cuenta si la IA está perjudicando el aprendizaje de su hijo o hija.»** Son quienes están en peor posición para darse cuenta. En los datos de [[stromberg-generative-ai-learning-penalty-secondary-2026|Strömberg, Lei y Wu (2026)]], las notas de deberes subieron un **18%** mientras que las de los [[summative-assessment|exámenes a libro cerrado]] bajaron un **20%** en seis meses, y la cifra que sube es la visible en casa. Una familia que observa los deberes ve mejora mientras el resultado duradero declina.
+
+**«El uso de IA en el hogar es una cuestión de permiso parental.»** Es una cuestión de alfabetización y de defensa de intereses. La propia alfabetización en IA de las familias determina qué pueden interrogar sobre una herramienta emitida por la escuela, y las inequidades de acceso entre familias determinan qué niños y niñas reciben mediación adulta en absoluto.
 
 ## Conceptos conectados
 

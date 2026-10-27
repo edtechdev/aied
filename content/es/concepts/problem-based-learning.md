@@ -1,7 +1,7 @@
 ---
 title: Aprendizaje basado en problemas
 created: "2026-09-28T20:10:47-04:00"
-updated: "2026-10-22T07:31:04-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 type: concept
 foundations: [critical-thinking]
 pedagogy: [active-learning, collaborative-learning, scaffolding]
@@ -10,7 +10,7 @@ discipline: [medical education, engineering education]
 level: [higher ed]
 confidence: high
 translation_of: concepts/problem-based-learning
-source_updated: "2026-10-15T10:00:00-04:00"
+source_updated: "2026-10-26T08:45:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -36,6 +36,8 @@ ai_assist:
 ## Introducción
 
 El ABP nació en la educación médica (Universidad McMaster, década de 1960) y desde entonces se ha extendido por las [[medical-education|profesiones de la salud]], la ingeniería y la [[k-12|educación K-12]]. Quien aprende asume la responsabilidad de diagnosticar sus necesidades de aprendizaje, identificar recursos y construir soluciones, mientras que el facilitador andamia el proceso. La tesis distintiva del ABP es que el *problema* es el motor del currículo: no una ilustración de contenidos enseñados en otro lugar, sino el contexto en el que se aprende el contenido.
+
+[[ngambi-ai-learning-ecosystems-domino-framework-2026|Ng'ambi y van der Merwe (2026)]] ofrecen una comparación directa: diez chats basados en problemas sostuvieron el diálogo y llegaron a una explicación más profunda, mientras que treinta chats procedimentales estructurados colapsaron en pregunta-respuesta-gracias y se agotaron.
 
 ## El ABP en la era de la IA
 
@@ -66,6 +68,12 @@ Como el ABP pone en primer plano el proceso, la colaboración y la comprensión 
 ### Fracaso productivo y ABP
 
 El [[productive-failure|fracaso productivo (FP)]] comparte con el ABP su núcleo [[constructivist|constructivista]] — los [[learners|aprendices]] abordan los problemas antes de la instrucción —, pero difiere en la estructura: el FP retiene deliberadamente la instrucción y el andamiaje hasta *después* de que quienes aprenden se esfuercen por generar soluciones, mientras que el ABP incorpora la facilitación a lo largo de todo el proceso. La literatura sobre FP en la era de la IA informa directamente de cómo debería comportarse la IA dentro de entornos basados en problemas: [[kim-ai-productive-failure-adult-2026|Kim et al. (2026)]] muestran que la IA debe preservar el [[desirable-difficulties|esfuerzo productivo]] con apoyo no directivo a lo largo de las fases del FP; [[puech-pedagogical-steering-llm-productive-failure-2025|Puech et al. (2025)]] demuestran que los [[intelligent-tutoring|tutores]] basados en [[llm|LLM]] pueden orientarse para retener las respuestas y propiciar múltiples intentos de solución; y [[rhaimi-productivemath-2025|ProductiveMath]] usa la IA para ayudar a diseñar problemas de FP/ABP de alta calidad. La pregunta de diseño — cuándo debe la IA dar un problema, una pista o una respuesta — es compartida por ambas [[pedagogy|pedagogías]].
+
+## Concepciones erróneas
+
+- **«Los resultados del ABP deberían agruparse con los del aprendizaje basado en proyectos.»** El metaanálisis de tres niveles mantiene el **rendimiento de producto y de solución en un modelo separado** precisamente porque mide la **colaboración persona-IA** y no el razonamiento propio de quien aprende. Agruparlos atribuiría al estudiante un artefacto producido conjuntamente.
+- **«Las ganancias colaborativas son un efecto secundario de usar IA.»** Un estudio encontró una mayor resolución colaborativa de problemas percibida (**M = 3,62 frente a 3,05, d = 0,88**) y una resolución compartida de problemas (**3,40, d = 1,02**), con **los mayores efectos de interacción en la construcción compartida de conocimiento y la regulación social**, las dimensiones del proceso colaborativo que el diseño predice. El mecanismo es la colaboración estructurada, no la herramienta.
+- **«El ABP con IA ahorra sobre todo tiempo al facilitador.»** Las ganancias medibles están en la calidad del proceso, en dimensiones que solo existen cuando la estructura del grupo está diseñada para ellas. Una implementación de ABP que añade IA sin estructurar la construcción compartida de conocimiento no debería esperar el mismo efecto.
 
 ## Conceptos conectados
 

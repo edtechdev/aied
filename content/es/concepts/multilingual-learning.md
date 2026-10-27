@@ -2,14 +2,14 @@
 connected_resources: [mglearn]
 title: Aprendizaje multilingüe
 created: "2026-09-28T19:10:33-04:00"
-updated: "2026-10-24T08:24:35-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 type: concept
 technology: [llm]
 ethics: [culturally-relevant-pedagogy, digital-divide, equity-in-ai-education, global-south, inclusive-learning, multilingual-learning]
 discipline: [language learning]
 confidence: medium
 translation_of: concepts/multilingual-learning
-source_updated: "2026-10-23T09:49:58-04:00"
+source_updated: "2026-10-26T07:55:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -64,6 +64,12 @@ El juicio comparativo basado en LLM es un caso en el que el sesgo siguió la lí
 - **Refleje la cultura y el contexto, no solo la traducción.** La IA multilingüe debe ir más allá de la traducción hacia una [[culturally-relevant-pedagogy|pedagogía culturalmente relevante]]: genere contenido lingüística y contextualmente apropiado ([[llm-cultural-relevance-k12|relevancia cultural en K-12]]).
 - **Combine la IA con estructuras de apoyo multilingües.** Use modos orales y con la voz como primer medio ([[kutti-ai-voice-first-learning-companion|compañeros con la voz como primer medio]]) allí donde la IA basada en texto falla, y apoye la [[self-regulated-learning|autorregulación]] en contextos bilingües ([[bilingual-llm-lecture-companion-srl-2026|compañero de clase bilingüe]]).
 - **Vigile la brecha digital.** El sesgo monolingüe de la IA profundiza la [[digital-divide|brecha digital]] y socava el acceso en todo el [[global-south|Sur global]]: planifique una infraestructura y un acceso equitativos junto con la elección de herramientas.
+
+## Concepciones erróneas
+
+- **«La lengua meta debe dominar desde el primer día.»** En una **revisión sistemática de 24 estudios**, quienes aprendían pedían **frases y explicaciones contextualizadas en su propia lengua como puente hacia la lengua meta**, un uso que los revisores clasifican como una subcapacidad genuinamente nueva y no como una solución improvisada. El apoyo en la lengua materna funcionó como andamiaje y no como evitación.
+- **«La evaluación lingüística con IA está sesgada contra quienes escriben en varias lenguas.»** Aquí el sesgo siguió la **línea base humana y no al modelo**: el juicio comparativo basado en LLM sobre **escritura informativa de los cursos 3.º a 6.º convergió con las rúbricas de los investigadores (r = .59–.73)** y mostró el mismo patrón que las personas evaluadoras. Eso no es evidencia de justicia en términos absolutos, sino de que el modelo no introdujo una nueva distorsión sobre la existente.
+- **«La salida con calidad de traducción es la parte útil.»** El uso de puente es explicativo y situado, no sustitutivo. Una herramienta que reemplaza la producción propia de quien aprende elimina la práctica que el puente debía habilitar.
 
 ## Conceptos conectados
 

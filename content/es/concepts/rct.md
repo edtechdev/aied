@@ -1,7 +1,7 @@
 ---
 title: ECA
 created: "2026-09-28T18:22:28-04:00"
-updated: "2026-10-22T07:34:46-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 type: concept
 foundations: [ai-education]
 technology: [generative-ai]
@@ -10,7 +10,7 @@ level: [higher ed]
 confidence: high
 methods: [research-methods-aied]
 translation_of: concepts/rct
-source_updated: "2026-10-16T08:47:09-04:00"
+source_updated: "2026-10-26T09:10:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -46,6 +46,7 @@ La aleatorización es lo que distingue un ECA de otros diseños: al asignar alea
 - **Un ensayo diseñado para la equivalencia, no para la diferencia.** [[studentbench-ai-human-tutoring-gre-2026|Northcutt et al. (2026)]] aleatorizaron a 2.383 adultos a tutoría con IA, tutoría humana en vivo o un control con vídeo, redactaron nuevos ítems del GRE con antiguos desarrolladores de pruebas de ETS y Kaplan para mantener fuera la contaminación de pruebas publicadas, contrabalancearon las dos formas y probaron la equivalencia con dos pruebas unilaterales frente a ±0,25 DE en lugar de una diferencia: las decisiones de diseño que hacen que «ninguna diferencia significativa» sea un resultado interpretable.
 
 - **Aleatorización por grupos, adopción baja y qué significa entonces una estimación por intención de tratar.** [[liu-course-integrated-ai-tutoring-rct-2026|Liu et al. (2026)]] aleatorizaron a 2.379 estudiantes de grado en 13 bloques asignando *instructores* y no estudiantes, de modo que todo el estudiantado de una sección heredaba la condición de su instructor: el diseño que hace factible un ensayo de despliegue en varias secciones, y el que crea los problemas de inferencia que el estudio documenta después. Solo alrededor del 15% del estudiantado de las secciones tratadas llegó a usar la herramienta, así que los efectos notificados estiman el hecho de *ofrecer* acceso y no el de usarlo; los autores leen la intervención como el uso más amplio de IA que su introducción indujo, y tratan las sesiones individuales como una cuestión aparte. Como el tratamiento se asignó a nivel de instructor, la inferencia se apoya en 34 conglomerados —un contexto en el que los errores estándar robustos por conglomerados exageran la precisión—, por lo que el artículo informa de inferencia por aleatorización junto a ellos y encuentra sus conclusiones robustas. Los dos efectos destacados, una caída de 0,37 DE en las notas finales en la muestra de emparejamiento exacto y una caída de 0,90 DE en la participación registrada en la plataforma en ambas muestras, son consecuencias a nivel de sección que una aleatorización por estudiante de la misma herramienta no podría haber aislado sin contaminación entre compañeros de clase tratados y de control.
+- **Una herramienta escolar voluntaria puede aun así mover la carga de trabajo con una dosis del 7%.** [[roy-aila-lesson-planning-teacher-choices-2026|Roy et al. (2026)]] aleatorizaron a 464 docentes de 108 escuelas primarias inglesas a nivel de escuela. El tiempo de preparación quedó en 0,76 respecto al del grupo de comparación (IC del 95%: 0,64 a 0,89) aunque la herramienta cubrió el 7% de las lecciones y su uso decayó a lo largo de las diez semanas, de modo que la estimación acota lo que ofrecerla hizo por la carga de trabajo, y no lo que lograría una adopción plena.
 - **La adopción acota lo que un ensayo puede probar, y el apoyo a la implicación no es dosificación.** [[access-not-enough-ai-tutoring-2026|Robinson et al. (2026)]] realizaron dos ECA con una plataforma de lectura en los que solo el 60,7% y el 53,3% del estudiantado de control llegó a usar la plataforma; un tutor de implicación aumentó los cuentos leídos en un 71–80%, pero no produjo ninguna ganancia de rendimiento, lo que concuerda con los 2–5 minutos semanales alcanzados.
 - **Una escala que convierte los nulos en evidencia.** [[mata-sustaining-ai-enabled-student-support-2026|Mata et al. (2026)]] siguieron a 8.708 estudiantes a lo largo de ocho semestres con potencia para detectar efectos de 0,05 DE y encontraron un movimiento grande e inmediato en tareas binarias con fecha —34 puntos porcentuales más de inscripción para el 16 de agosto tras un único recordatorio—, mientras que el rendimiento académico, la persistencia y la graduación no mostraron ningún efecto detectable. La escala es la lección de diseño: con esta N los nulos académicos son resultados precisos y no fallos de detección, que es lo que autoriza la conclusión de que una herramienta de comunicación mueve lo que puede abordar y no los resultados acumulativos de aprendizaje.
 - **Un promedio nulo puede ocultar heterogeneidad que se compensa.** Un ECA prerregistrado que aleatorizó a 538 docentes en 24 escuelas turcas a nivel de departamento escolar encontró que el rendimiento cayó 0,129 DE entre el profesorado por debajo de la mediana mientras subía 0,054 entre el que estaba por encima, y que la motivación cayó 0,111 DE, con un examen comprimido por el techo (media de control 89,2/100) limitando la potencia.([[genai-can-harm-teaching-rct-2026|Sungu, Lira y Duckworth (2026)]])
@@ -60,6 +61,12 @@ La aleatorización es lo que distingue un ECA de otros diseños: al asignar alea
 
 Para un tratamiento más completo del diseño experimental en la IA en la educación —incluido cuándo es apropiado un ECA frente a diseños cuasiexperimentales, de encuesta o computacionales— véase [[research-methods-aied]].
 
+## Concepciones erróneas
+
+- **«La aleatorización garantiza una estimación válida de lo que hace la herramienta.»** La aleatorización equilibra los factores de confusión; no garantiza que alguien haya usado el tratamiento. Un ensayo aleatorizado por grupos con adopción baja estima **el efecto de ofrecer** la herramienta, y la intención de tratar y el efecto en quienes la usaron responden a preguntas distintas.
+- **«Un ensayo grande es siempre el mejor diseño.»** Hay quien sostiene que los ensayos convencionales a gran escala **no pueden seguir el ritmo de plataformas de tutoría que cambian de forma sustancial durante un estudio**, y usa en su lugar diseños dirigidos por docentes que siguen siendo válidos a medida que el sistema evoluciona. Un ensayo sobre un blanco móvil puede tener buena potencia y aun así medir un sistema que ya no existe.
+- **«Los ECA y la evidencia observacional son intercambiables.»** Un ECA con **1.174 participantes** encontró que la IA generativa **cerró cerca de tres cuartas partes de una brecha de productividad basada en la educación**: una afirmación causal precisa para un periodo concreto. La observación explica el mecanismo y la adopción; no puede sostener esa estimación, y el ECA no puede explicar por qué.
+
 ## Conceptos conectados
 
 - [[research-methods-aied]]
@@ -72,6 +79,7 @@ Para un tratamiento más completo del diseño experimental en la IA en la educac
 
 ## Artículos conectados
 
+- [[roy-aila-lesson-planning-teacher-choices-2026]] — El tiempo de planificación de clases cayó a 0,76 del grupo de comparación en 108 escuelas primarias, con una dosis del 7% de uso de la herramienta
 - [[generative-ai-education-productivity-gaps]] — ¿Reduce la IA generativa las brechas de productividad basadas en la educación? Evidencia de un experimento aleatorizado
 - [[genai-can-harm-teaching-rct-2026]] — La IA generativa puede perjudicar la enseñanza: un ECA
 - [[access-not-enough-ai-tutoring-2026]] — El acceso no basta: el apoyo humano mejora la implicación con la tutoría de IA

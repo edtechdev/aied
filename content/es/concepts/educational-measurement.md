@@ -1,7 +1,7 @@
 ---
 title: Medición educativa
 created: "2026-09-28T18:23:55-04:00"
-updated: "2026-10-22T09:13:53-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 type: concept
 foundations: [ai-literacy]
 technology: [educational-nlp, knowledge-tracing, learning-analytics]
@@ -9,7 +9,7 @@ assessment: [assessment-validity, item-response-theory, psychometrically-aware-a
 connected_faqs: [ai-literacy-evidence, evaluating-ai-interventions-methods]
 confidence: medium
 translation_of: concepts/educational-measurement
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-26T12:05:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -133,6 +133,12 @@ En resumen, la medición educativa puede **dejar pasar** lo que no muestrea (pro
 
 La medición educativa es el fundamento de la [[item-response-theory|teoría de respuesta al ítem]], la [[assessment-validity|validez de la evaluación]], el [[knowledge-tracing|seguimiento del conocimiento]] y el [[student-modeling|modelado del estudiantado]]. Conecta con la [[learning-analytics|analítica del aprendizaje]] (medición de datos de aprendizaje), el [[educational-nlp|PLN educativo]] (medir el lenguaje) y la [[psychometrically-aware-ai|IA consciente de la psicometría]] (IA alineada con la teoría de la medición). Sus preocupaciones de validez y fiabilidad sustentan la [[ai-ed-evaluation|evaluación de la IA educativa]] y los [[limitations-in-aied-research|límites de la medición]] del campo. Por los constructos que mide, se cruza con la [[ai-literacy|alfabetización en IA]], el [[technology-acceptance-model|modelo de aceptación tecnológica]], la [[self-efficacy|autoeficacia]], la [[motivation|motivación]] y la [[student-engagement|implicación del estudiantado]].
 - **Modelado causal de las intervenciones de apoyo (2026):** un protocolo de modelado causal estructural lleva la evaluación educativa más allá de la actualización de creencias asociativa de la teoría de respuesta al ítem hacia el razonamiento interventivo y contrafactual (por ejemplo, el efecto de las pistas), con ecuaciones estructurales elicitadas de expertos mediante información puramente lógica, ilustrado con tareas de habilidades algorítmicas de la escuela obligatoria ([[causal-modeling-competency-assessment-2026]]).
+
+## Concepciones erróneas
+
+- **«Los modelos pueden estimar la dificultad de un ítem.»** Cuatro modelos de frontera se puntuaron frente a la **verdad de referencia de la TRI en 2.548 ítems de matemática**: alcanzan el **68,6% en dificultad relativa** pero quedan **por debajo del azar** en la calibración absoluta. Ordenar y calibrar son habilidades distintas, y la segunda es la que necesita un diseño de evaluación.
+- **«Una etiqueta taxonómica predice lo difícil que es un ítem.»** En **265 ítems de matemática**, el nivel de Bloom previsto explicó **menos del 5% de la varianza en la dificultad**. Etiquetar un ítem con su nivel de Bloom dice casi nada sobre su dificultad empírica.
+- **«La calidad de un ítem se juzga por su redacción.»** **Evaluar los ítems generados por su ruta de solución y no por su redacción**: codificar el **árbol de razonamiento verificado** de cada ítem superó al segundo mejor método por un margen claro. La estructura de razonamiento era la que llevaba la señal, no el texto superficial.
 
 ## Conceptos conectados
 

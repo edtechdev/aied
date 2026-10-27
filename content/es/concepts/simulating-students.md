@@ -1,6 +1,7 @@
 ---
 title: Simular estudiantes
 created: "2026-09-28T19:10:59-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 connected_faqs: [checking-whether-educational-ai-works, making-simulated-students-behave-like-learners, how-can-ai-assist-with-educational-research]
 type: concept
 foundations: [agentic-ai, teacher-role]
@@ -8,7 +9,7 @@ technology: [cognitive-diagnosis, generative-ai, intelligent-tutoring, knowledge
 audience: [instructors]
 confidence: high
 translation_of: concepts/simulating-students
-source_updated: "2026-10-19T09:40:00-04:00"
+source_updated: "2026-10-26T12:05:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -126,6 +127,12 @@ La simulación también se extiende más allá de los estudiantes individuales p
 El trabajo de 2026 sobre habilidades duraderas invierte la dirección habitual de la simulación. En lugar de simular al estudiante para auditar un sistema, el sistema simula a los *compañeros de equipo* para evaluar al estudiante: un LLM ejecutivo genera los turnos de cada compañero de IA en una tarea grupal de 30 minutos, posee la rúbrica de puntuación y dirige la conversación para fabricar ocasiones en las que aparezca la habilidad objetivo ([[durable-skills-measurement-ai-teammates-2026|Globerson et al., 2026]]). En 373 conversaciones de 188 participantes, la dirección emparejada a la habilidad elevó la evidencia evaluable al 92,4% para la gestión de proyectos y al 85% para la resolución de conflictos, significativamente por encima de agentes independientes sin restricciones, mientras que el evaluador de IA se calibró contra dos evaluadores humanos cuya propia Kappa interevaluador fue de solo 0,45–0,64 — un recordatorio útil de que el techo de un simulador lo fija el acuerdo que los humanos pueden alcanzar sobre el constructo.
 
 El entrenamiento contra un simulador también puede transferirse: el agente de aprendizaje por refuerzo de TutorLoop, entrenado offline contra un estudiante simulado, se transfirió sin cambios a una nueva tarea de aprendizaje real sin reentrenamiento (N = 187), donde su retroalimentación más escasa pero mejor sincronizada superó a la retroalimentación más densa ([[tutorloop-sensor-cognitive-feedback-2026|Xu y Zhang, 2026]]).
+
+## Concepciones erróneas
+
+- **«Los estudiantes de LLM son sustitutos suficientemente buenos.»** **Las simulaciones cubren a los estudiantes más fáciles, y pocas están validadas**: **doce docentes** que tutorizaron a estudiantes de LLM informaron de **lenguaje excesivamente complejo, ausencia de emoción** y otras desviaciones de los estudiantes reales. El sustituto modela el caso tratable.
+- **«Un estudiante simulado con una laguna de conocimiento se comporta como un estudiante con esa laguna.»** Suprimir **16 componentes de conocimiento seleccionados en Mistral-7B redujo la precisión de aproximadamente 0,75 con una tasa de olvido del 10% a por debajo de 0,5 con el 40%**, mientras el modelo base se mantenía. La degradación fue diseñada, que es lo que la convierte en una manipulación controlada y no en una emulación.
+- **«La estabilidad de la persona es un problema de elección de modelo.»** Es un **problema de diseño de la interacción**: cruzando **cinco LLM con tres diseños de prompt y cuatro personas de intensidad de TDAH**, las diferencias con guion siguieron el diseño del prompt y no el modelo. Elegir un mejor modelo no corrige una persona inestable.
 
 ## Conceptos conectados
 

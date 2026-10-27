@@ -1,7 +1,7 @@
 ---
 title: Regulación de la IA en educación
 created: "2026-09-28T18:22:10-04:00"
-updated: "2026-10-22T07:30:40-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 type: concept
 foundations: [academic-integrity]
 ethics: [equity-in-ai-education, ethics, privacy, pedagogical-safety]
@@ -10,7 +10,7 @@ level: [higher ed]
 confidence: high
 institutions: [educational-policy-ai, governance]
 translation_of: concepts/regulation
-source_updated: "2026-10-16T07:28:51-04:00"
+source_updated: "2026-10-26T08:20:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -59,6 +59,12 @@ Una auditoría de las políticas de privacidad de plataformas de tecnología edu
 ### Conexiones
 
 La regulación se conecta con la [[educational-policy-ai]], la [[governance]], la [[ethics]], la [[privacy]], la [[pedagogical-safety]] y la [[academic-integrity]]. Es la capa institucional que da forma a cómo operan todas las demás prácticas de IA en educación. La regulación a la vez constriñe y habilita: fija los límites del uso aceptable de la IA mientras crea las condiciones —mediante la [[ai-literacy]] y las expectativas de uso responsable— para una integración [[equity-in-ai-education|equitativa]] y segura.
+
+## Concepciones erróneas
+
+- **«La política institucional de IA es donde viven las reglas.»** La encuesta de [[watson-rainie-ai-challenge-faculty-survey-2026|Watson y Rainie (2026)]] a **1.057 docentes estadounidenses** mide hasta qué punto por debajo de la capa institucional se sitúan las reglas efectivas: **el 87% de quienes respondieron escribió** su propia orientación. La política operativa es en gran medida de autoría docente, lo que significa que la capa institucional documentada describe menos de lo que parece.
+- **«Escribir una política cubre la superficie de riesgo.»** [[humble-prompt-injection-ai-grading-red-team-2026|Humble (2026)]] muestra por qué las herramientas de evaluación pertenecen al conjunto regulado: en una prueba de equipo rojo, **dos de cinco inyecciones indirectas de prompt** ocultas en una entrega tuvieron éxito. Una regla que nombra herramientas pero no superficies de inyección deja el exploit sin atender.
+- **«Los sistemas agénticos quedan cubiertos extendiendo las reglas existentes.»** En un análisis documental de **12 universidades**, [[wong-sun-agentic-ai-assessment-governance-2026|Wong y Sun (2026)]] encontraron que **ninguna política comparable abordaba que un agente iniciara sesión en un sistema de gestión del aprendizaje**. La brecha de gobernanza es estructural: las categorías existentes no tienen hueco para un actor autónomo con credenciales.
 
 ## Conceptos conectados
 

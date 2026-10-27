@@ -1,7 +1,7 @@
 ---
 title: "Educación jurídica"
 created: "2026-09-28T20:10:03-04:00"
-updated: "2026-10-22T07:30:40-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 type: concept
 foundations: [academic-integrity, critical-thinking, reducing-ai-misuse]
 pedagogy: [career-development-and-readiness, experiential-learning, professional-training, socratic-method]
@@ -15,7 +15,7 @@ audience: [instructors, curriculum designers, administrators, researchers]
 page_kind: [synthesis]
 confidence: medium
 translation_of: concepts/legal-education
-source_updated: "2026-10-16T06:18:00-04:00"
+source_updated: "2026-10-26T08:20:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -80,6 +80,12 @@ En un experimento en contexto jurídico, 186 personas legas que decidían sobre 
 - ¿Los trabajos de escritura jurídica asistidos por IA siguen desarrollando el análisis que la habilitación da por supuesto, o entrenan una fluidez que el examen de habilitación tampoco puede detectar?
 - ¿Qué ocurre con la enseñanza socrática si la lectura preparatoria se delega de forma rutinaria, y el silencio del aula al respecto es un problema de medición o de diseño?
 - La educación jurídica produce a las personas que litigarán y regularán la [[ai-education|IA en la educación]]. ¿Eso la convierte en el lugar natural para poner a prueba el trabajo de la base de conocimiento sobre riesgos legales, o desvía la atención hacia las facultades con las políticas más ruidosas?
+
+## Concepciones erróneas
+
+- **«Las facultades de derecho han adoptado una postura.»** La mayoría adoptó **posturas generalmente prohibitivas**, explicadas a menudo como una forma de **ganar tiempo para estudiar la tecnología**, mientras que **casi todas las políticas se reservaban la discreción de cada docente**. Una prohibición con la posibilidad de que el docente la anule no es una postura adoptada: es un aplazamiento con un valor predeterminado.
+- **«La evidencia de las encuestas describe el campo.»** **La encuesta de la ABA de 2024 recibió respuestas de solo 29 facultades, en torno al 15% de las facultades aprobadas por la ABA**, y una encuesta de LexisNexis a **800** profesionales mide una población distinta. Ninguna de las dos puede tratarse como representativa de la educación jurídica, y ambas se citan como si lo fueran.
+- **«Retener una recomendación de la IA es neutral.»** En un experimento en contexto jurídico, **186 personas legas que decidían sobre casos civiles en un tribunal se plegaron a una posición de IA incorrecta mucho menos cuando el sistema retenía su propia posición (5,7-8,2% frente a 42,0-60,5%)**. Retener no produjo neutralidad; produjo una gran reducción de la deferencia, que es un efecto por derecho propio.
 
 ## Conceptos conectados
 

@@ -1,7 +1,7 @@
 ---
 title: Agente pedagógico
 created: "2026-09-28T19:10:59-04:00"
-updated: "2026-10-24T08:21:10-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 connected_faqs: [ai-agents-support-students-instructors]
 type: concept
 pedagogy: [scaffolding, student-ai-interaction]
@@ -11,7 +11,7 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: medium
 translation_of: concepts/pedagogical-agent
-source_updated: "2026-10-24T06:24:00-04:00"
+source_updated: "2026-10-26T10:25:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -37,6 +37,7 @@ ai_assist:
 ## Introducción
 
 Un agente pedagógico es un componente interactivo de IA dentro de un sistema de aprendizaje que implica a quien aprende mediante el diálogo, preguntas o prompts para apoyar los procesos cognitivos y [[metacognition|metacognitivos]]. A diferencia de los [[visualization|paneles]] pasivos o de la retroalimentación estática, los agentes pedagógicos emplean estrategias de tutoría basadas en la evidencia —como inducir auto[[assessment|evaluaciones]] de quien aprende antes de ofrecer [[feedback|retroalimentación]], o [[scaffolding|andamiar]] la [[problem-solving|resolución de problemas]] mediante el diálogo socrático—. El paraguas abarca hoy desde un único [[intelligent-tutoring|tutor inteligente]] conversacional hasta flotas de [[agentic-ai|agentes]] especializados por rol que imparten clase, ejercen de mentores, facilitan la colaboración e incluso orquestan la generación de cursos, todo ello fundamentado en décadas de [[research-methods-aied|investigación]] sobre sistemas de tutoría inteligente.
+- **Un agente cuyo papel es la regulación y no la explicación.** Chen et al. (2026) construyeron SSRLAgent para diagnosticar el estado regulatorio compartido de un grupo y dar indicaciones en consecuencia, y mantuvieron constante un agente de apoyo al contenido en ambas condiciones ([[chen-genai-team-moderator-cscl-shared-regulation-2026|Chen et al., 2026]]). Como ambos brazos tenían un agente y una plataforma estructurada, las ganancias se atribuyen a la adaptatividad de las indicaciones de regulación y no a la presencia de un agente conversacional.
 
 ## Cómo se estudian los agentes pedagógicos en la base de conocimiento
 
@@ -78,6 +79,12 @@ Los agentes pedagógicos se sitúan en la intersección entre la [[intelligent-t
 Lo decisivo es que los agentes pedagógicos se juzgan por sus [[learning-gains|ganancias de aprendizaje]], no por la fluidez con que responden. La evidencia de la base de conocimiento es que los agentes producen ganancias duraderas cuando se diseñan como entrenadores específicos de tutoría con barandillas —[[stanford-evidence-base-ai-k12-2026|la IA específica para tutoría supera sistemáticamente a los chatbots de propósito general]]— y pueden perjudicar el aprendizaje cuando sustituyen el esfuerzo de quien aprende ([[generative-ai-guardrails-harm-learning|el ensayo aleatorizado sobre barandillas]], [[jost-llm-programming-education-learning-outcomes|dependencia del LLM y notas]]). Medir las [[learning-gains|ganancias de aprendizaje]] de un agente exige, por tanto, medidas de resultado transferibles y sin asistencia, y no el rendimiento dentro de la herramienta.
 
 Mejor retroalimentación no es lo mismo que mejor aprendizaje: personalizar un agente con bases de conocimiento y un flujo de trabajo elevó la exactitud y la especificidad de la retroalimentación, pero dejó sin cambios las conductas autorregulatorias, las experiencias de aprendizaje y los resultados, y su ventaja en ganancias apareció solo con retroalimentación directiva ([[agent-type-feedback-style-self-directed-learning-2026|Han et al. (2026)]]).
+
+## Concepciones erróneas
+
+- **«La intención de quien diseña determina lo que hace un agente pedagógico.»** **La intención de diseño no garantiza la pedagogía que se pone en práctica.** Cuando **27 docentes de secundaria** configuraron una herramienta de autoría de chatbots orientada al profesorado, la evaluación de 108 criterios a nivel de bot mostró que el comportamiento puesto en práctica divergía de lo que el profesorado pretendía. La herramienta mediaba la pedagogía.
+- **«Que un agente pedagógico modere una discusión es un papel resuelto.»** [[ethics-training-agents-group-ethics-discussion-2026|Ethics Training Agents (Seo et al., 2026)]] muestra qué ocurre cuando se pide a un agente que **modere en lugar de** instruir: una demanda cualitativamente distinta de responder preguntas, y que la literatura trata como sin resolver.
+- **«La base de evidencia de la instrucción asistida por ordenador es escasa.»** Una síntesis (**2025, 34 revisiones**) cuantifica la utilización de la instrucción asistida por ordenador en el apoyo a la enseñanza y el aprendizaje (**97,1% de las revisiones**), en el apoyo psicológico y motivacional (**91,2%**) y en el apoyo **metacognitivo**. La amplitud de las aplicaciones revisadas es extensa, lo que convierte la carencia en una cuestión de calidad puesta en práctica y no de cobertura.
 
 ## Conceptos conectados
 

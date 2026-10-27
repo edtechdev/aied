@@ -1,14 +1,14 @@
 ---
 title: Resolución de problemas
 created: "2026-09-28T19:10:59-04:00"
-updated: "2026-10-02T22:24:42-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 type: concept
 foundations: [critical-thinking]
 pedagogy: [cognitive-psychology, problem-solving]
 technology: [generative-ai]
 confidence: medium
 translation_of: concepts/problem-solving
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-25T23:15:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -63,6 +63,31 @@ La resolución de problemas es el resultado aplicado del [[critical-thinking|pen
 ### Codificación automatizada de habilidades de RCP
 
 - Medir la competencia en [[collaborative-learning|resolución colaborativa de problemas (RCP)]] requiere normalmente codificar la conducta a partir de los datos de proceso de tareas simuladas en habilidades de RCP específicas. El [[prompt-engineering|prompting contextual]] de modelos de lenguaje preentrenados puede automatizar esta codificación, modelando dependencias contextuales y fusionando capacidades cognitivas y sociales para lograr un rendimiento superior a bases de referencia sólidas en conjuntos de datos de tareas de RCP, lo que aborda la intensidad de trabajo de la codificación manual y permite una evaluación a gran escala y en tiempo real.
+
+## Concepciones erróneas
+
+**«La IA que ayuda al estudiantado a explorar perspectivas le está ayudando a pensar.»** La misma conducta sostiene dos resultados muy distintos: las herramientas de IA ayudan al estudiantado a explorar múltiples perspectivas y a generar sus propios problemas, y también pueden fomentar la pereza metacognitiva. La pregunta que distingue es si el estudiantado está haciendo el encuadre o recibiéndolo: un sistema que suministra perspectivas candidatas ha ejecutado el paso generativo que el ejercicio existía para exigir.
+
+**«La resolución es el objetivo, así que el planteamiento es un extra.»** El planteamiento de problemas es donde se construye la transferencia, porque exige que quien aprende construya la estructura en lugar de operar dentro de una que le dio el sistema. Un currículo que solo suministra problemas bien formulados entrena el desempeño en problemas bien formulados, que no es la condición que el estudiantado encuentra después.
+
+**«La simulación de la resolución colaborativa de problemas sustituye a la colaboración.»** Una simulación reproduce el patrón de interacción, y la habilidad que se desarrolla es la regulación de un problema conjunto por participantes que están realmente presentes. Los agentes específicos de cada participante que modelan colaboradores reales son un instrumento de investigación para estudiar esa regulación: útil por lo que revela del proceso, no una forma de dar al estudiantado la práctica sin los pares.
+
+## Implicaciones para la práctica
+
+**Para el profesorado**
+
+- Pida al estudiantado que plantee el problema antes de resolver uno. Plantear exige construir la estructura, que es donde se construye la transferencia, y es el paso que la IA ejecuta más fácilmente en su nombre.
+- Distinga a un compañero de pensamiento de un sustituto en la propia tarea: exija el encuadre, el enfoque y la justificación del estudiante por escrito, para que el registro muestre quién hizo el trabajo generativo.
+- Vigile al estudiante que explora muchas perspectivas con fluidez y no produce una posición propia; eso es pereza metacognitiva con apariencia de implicación.
+
+**Para quienes desarrollan**
+
+- Diseñe para problemas y estructuras generados por el estudiantado y no solo para mejores pistas sobre problemas dados.
+- Instrumente el paso de encuadre, no solo los pasos de solución; un sistema que registra respuestas y no la formulación del problema no puede ver el resultado que importa.
+
+**Para quienes investigan**
+
+- Las simulaciones con agentes específicos de cada participante son un instrumento sólido para estudiar la regulación colaborativa. Infórmelas como tal y no como evidencia sobre la colaboración no supervisada del estudiantado.
 
 ## Conceptos conectados
 

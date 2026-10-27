@@ -1,7 +1,7 @@
 ---
 title: Educación empresarial
 created: "2026-09-28T18:15:36-04:00"
-updated: "2026-10-22T09:13:53-04:00"
+updated: "2026-10-26T21:37:14-04:00"
 type: concept
 foundations: [ai-education, curriculum-design]
 technology: [generative-ai]
@@ -9,7 +9,7 @@ discipline: [business education]
 level: [higher ed]
 confidence: high
 translation_of: concepts/business-education
-source_updated: "2026-10-16T08:47:09-04:00"
+source_updated: "2026-10-26T08:45:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -70,6 +70,14 @@ Los negocios son uno de los campos donde la adopción de la IA generativa es má
 - **Alinee el currículo de forma constructiva.** La [[zhou-constructive-alignment-genai-business-2026|investigación sobre alineación constructiva]] encuentra que el grado de integración curricular determina si predominan los beneficios o los riesgos de la IA generativa: integrar, no añadir.
 - **Aborde las brechas persistentes.** [[espino-ai-business-education-review-2026|Una década de investigación]] señala brechas en coherencia curricular, preparación del profesorado y validez de la evaluación: priorícelas en el diseño del programa.
 - **Prepare al estudiantado para un entorno laboral integrado con la IA.** Dé prioridad a la alfabetización en IA, el uso ético y la aplicación de dominio (finanzas, marketing, gestión, economía) como competencias centrales, no como optativas.
+
+## Concepciones erróneas
+
+- **«El estudiantado quiere IA porque busca atajos.»** Un marco informado por el estudiantado encontró que este está **muy implicado y consciente de que necesita competencias en IA generativa para su carrera**, y a la vez quiere **usar la IA sin incurrir sin querer en conducta académica indebida**. La demanda es de competencia con límites claros, no de permiso para evitar el trabajo.
+
+- **«Añadir módulos de IA a un currículo de negocios captura el beneficio.»** La investigación sobre alineación constructiva encontró que **el grado de integración curricular determinaba si predominaban los beneficios o los riesgos**: la distinción operativa es **integrar, no añadir**. Un módulo añadido deja el diseño de la evaluación sin cambios.
+
+- **«La sofisticación de la herramienta supera al aprendizaje en línea convencional.»** Un estudio de percepción con **130 estudiantes** encontró que **tanto el apoyo del chatbot como el del agente se valoraron por encima del aprendizaje en línea tradicional** en mejora, personalización y toma de decisiones. Conviene notar qué mide esto: la *percepción* del estudiantado frente a una referencia convencional, no el aprendizaje frente a ella.
 
 ## Conceptos conectados
 

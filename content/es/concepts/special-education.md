@@ -2,7 +2,7 @@
 connected_resources: [teacherserver]
 title: Educación especial
 created: "2026-09-28T19:11:16-04:00"
-updated: "2026-10-24T08:21:18-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 type: concept
 foundations: [ai-education]
 ethics: [equity-in-ai-education, inclusive-learning, neurodiversity]
@@ -10,7 +10,7 @@ connected_faqs: [ai-disabled-neurodivergent-learners]
 level: [special education, k 12, higher ed]
 confidence: high
 translation_of: concepts/special-education
-source_updated: "2026-10-23T09:20:00-04:00"
+source_updated: "2026-10-26T08:20:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -61,6 +61,12 @@ La educación especial es un ámbito en el que la capacidad de personalización 
 - **Use la IA para cerrar (y no ampliar) las brechas de rendimiento.** [[adhd-video-segmentation-computing-education|Los vídeos segmentados por IA]] eliminaron la brecha de rendimiento del TDAH: despliegue IA adaptativa donde la evidencia muestre que iguala los resultados, no donde solo automatiza.
 - **Centre el diseño corporeizado liderado por la discapacidad.** [[embodied-string-learning-blindness-low-vision-musicians|La investigación con músicos ciegos y con baja visión]] muestra que las estrategias no visuales lideradas por la discapacidad superan a las interfaces visuales por defecto: construya y adapte la IA con la experiencia del estudiantado con discapacidad.
 - **Protéjase contra la marginación epistémica.** [[genai-minoritized-knowledges-disability|Las perspectivas críticas]] advierten de que unos datos de entrenamiento centrados en Occidente pueden marginar el conocimiento centrado en la discapacidad: audite el contenido y las herramientas de IA en busca de justicia epistémica junto con la [[equity-in-ai-education|equidad en la educación con IA]].
+
+## Concepciones erróneas
+
+- **«Una valoración de usabilidad valida una herramienta de asistencia.»** Quienes ejercen la práctica valoraron una herramienta codiseñada de Historias Sociales como **muy usable (SUS 86,8)** y, sin embargo, señalaron que sus **imágenes eran genéricamente occidentales** y que su **rastreador de conducta no encajaba con el juicio clínico vinculado a las metas**. Una alta usabilidad coexistió con fallos sustantivos, así que una puntuación SUS no es un aval de idoneidad.
+- **«Los puntos de referencia genéricos dicen cómo maneja un tutor los casos de educación especial.»** De **923 diálogos basados en casos** extraídos de la literatura de educación especial y de psicología educativa, **el mejor de 11 modelos** satisfizo un criterio documentado, y **la conducta desafiante es donde se detienen los puntos de referencia de tutoría**. Las evaluaciones estándar no llegan a los casos en los que quienes ejercen la práctica más necesitan ayuda.
+- **«El estudiantado neurodivergente necesita adaptaciones, no requisitos de diseño.»** [[neurodivergent-computing-students|Zastudil et al.]] encontraron que el estudiantado neurodivergente de informática necesita **tareas estructuradas, equipos pequeños y consistentes y definiciones de roles explícitas**, requisitos generales de diseño que benefician a todo el mundo y no ajustes individuales concedidos tras un diagnóstico.
 
 ## Conceptos conectados
 

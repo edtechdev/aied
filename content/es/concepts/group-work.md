@@ -1,7 +1,7 @@
 ---
 title: Trabajo en grupo
 created: "2026-09-28T21:09:40-04:00"
-updated: "2026-10-02T22:23:27-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 type: concept
 foundations: [academic-integrity, agency]
 pedagogy: [collaborative-learning]
@@ -12,7 +12,7 @@ audience: [instructors, learners]
 level: [higher ed]
 confidence: high
 translation_of: concepts/group-work
-source_updated: "2026-09-30T16:25:27-04:00"
+source_updated: "2026-10-25T20:20:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -103,6 +103,16 @@ Una segunda línea de investigación trata la IA como participante y no como her
 - **Prefiera un interlocutor argumentativo a un dador de respuestas.** Estructure la IA para que saque a la luz el desacuerdo en lugar de suavizarlo, de modo que el trabajo en grupo preserve el conflicto cognitivo que construye el entendimiento.
 - **Tenga en cuenta al estudiantado [[neurodiversity|neurodivergente]].** Las tareas estructuradas, los equipos pequeños y estables y las definiciones explícitas de roles son requisitos que las herramientas de colaboración con IA deben satisfacer.
 - **Lea la contención con cuidado.** El estudiantado que evita la IA en los grupos puede estar ejerciendo una autorregulación normativa, o protegiéndose del riesgo y de lo desconocido. Las dos cosas exigen respuestas distintas del [[teacher-role|profesorado]].
+
+## Concepciones erróneas
+
+**«La IA es una adición neutral al flujo de trabajo de un grupo.»** Reestructura hacia dónde va la interacción del grupo. En el estudio citado en esta página, la dinámica del grupo desplazó la interacción lejos de las personas —**el 79,7% de las preguntas se dirigieron a los agentes (*p* = 0,017)**— mientras los participantes reportaban una disyuntiva entre amplitud y profundidad en un formato de turnos apilados en el que cada hablante tomaba la palabra. Un equipo que dirige casi cuatro de cada cinco preguntas a una máquina ya no está ensayando el cuestionamiento entre pares que el trabajo en grupo existe para desarrollar.
+
+**«Un producto grupal pulido es evidencia de una buena colaboración.»** El producto pulido es el riesgo epistémico, no la tranquilidad. Un grupo puede producir un artefacto excelente mientras la regulación del trabajo —quién decidió qué, cómo se resolvió el desacuerdo, cuyo razonamiento se puso a prueba— ocurrió dentro de la respuesta del modelo y no dejó rastro en la entrega.
+
+**«La IA ayuda más cuando coordina al grupo.»** El apoyo a la coordinación y el apoyo epistémico tiran en direcciones opuestas. Reducir el coste de coordinación de colaborar puede bajar la presión sobre el grupo para negociar significado, que es el proceso que se está evaluando. La disyuntiva entre eficiencia y regulación es la tensión de diseño central, no un detalle de implementación.
+
+**«El trabajo en grupo es difícil por culpa de las personas.»** Parte de la dificultad es el diseño de la tarea, y por eso la IA cambia el perfil de dificultad en lugar de simplemente aliviarlo: una herramienta que responde preguntas rápido cambia en qué pasa el grupo su tiempo, y si eso es una mejora depende de qué habilidades se construyeron en la tarea.
 
 ## Conceptos conectados
 

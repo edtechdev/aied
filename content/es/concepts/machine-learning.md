@@ -4,9 +4,9 @@ type: concept
 technology: [ai-technologies, generative-ai, learning-analytics, machine-learning, student-modeling]
 confidence: medium
 created: "2026-09-28T20:20:21-04:00"
-updated: "2026-10-02T22:23:33-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 translation_of: concepts/machine-learning
-source_updated: "2026-09-30T07:29:37-04:00"
+source_updated: "2026-10-25T21:20:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -64,6 +64,16 @@ La práctica de validación es otra fuente de exceso de confianza. [[schuetze-kn
 ## Formación docente y alfabetización en aprendizaje automático
 
 El aprendizaje automático también aparece en la educación como *materia*. En la [[microbit-robotics-machine-learning-teacher-training-2026|formación inicial del profesorado]], las intervenciones prácticas de programación y robótica con el Micro:bit y los proyectos supervisados de clasificación de imágenes mejoraron significativamente el conocimiento del profesorado en formación sobre conceptos computacionales y aprendizaje automático introductorio, así como sus actitudes hacia su enseñanza. A medida que la [[ai-literacy|alfabetización en IA]] entra en los currículos, dotar al [[teacher-education|profesorado]] de un dominio operativo del aprendizaje automático se convierte en una condición previa para enseñarlo al estudiantado. Una ruta contrastante llega a los mismos conceptos sin ningún software: en el [[sung-ai-literacy-unplugged-ml-k12-pd-2026|desarrollo profesional en línea de Sung y Gunpinar (2026)]], diez educadores de K-12 construyeron a mano una «matriz de características explicable» —una tabla de sí/no de características de formas que *es* el clasificador, comprobable y revisable en lugar de opaca— con el juego de clasificación de Code.org y Google Slides como únicas herramientas. Su [[self-efficacy|autoeficacia en IA]] subió de por debajo del nivel moderado (M = 3,13) a por encima (M = 3,71) y los descriptores negativos en una tarea de asociación de palabras cayeron del 30% de los participantes a ninguno, aunque la evidencia es pequeña, no controlada y completamente [[self-report-measures|autoinformada]].
+
+## Concepciones erróneas
+
+**«Una predicción precisa exige un modelo opaco.»** La interpretabilidad y el rendimiento son más separables de lo que supone esa premisa. [[zhang-ml-student-progress-programming-2026|Zhang, Jeffries y Koprinska (2025)]] muestran que los árboles de decisión intrínsecamente interpretables —**podados hasta solo 3-5 nodos hoja**— mantienen su nivel en la predicción del progreso del estudiantado en programación. Cuando un árbol de cinco nodos iguala a una caja negra en su tarea, la caja negra está comprando opacidad en lugar de precisión, y en un contexto educativo donde una decisión debe explicarse a un estudiante, la caja de cristal es el mejor intercambio.
+
+**«El aprendizaje automático en la educación es una tecnología de predicción neutral.»** Sus aplicaciones arrastran consigo los fallos de gobernanza de la disciplina, y la supervisión de exámenes es el caso más claro: un modelo que infiere algo sobre un estudiante a partir de señales conductuales o fisiológicas está formulando una acusación con una puntuación de confianza adjunta, y la base de evidencia de esa inferencia es mucho más débil de lo que sugiere la tasa de despliegue.
+
+**«La IA generativa ha dejado obsoleto el aprendizaje automático clásico en la educación.»** Hacen trabajos distintos. La predicción de estados de quien aprende, la estimación de la dificultad y la previsión del progreso siguen siendo problemas clásicos de aprendizaje automático, y la literatura sobre trazado de conocimiento y calibración de ítems que documenta este corpus no se sirve de un modelo de lenguaje. La IA generativa es un subconjunto del aprendizaje automático y no su sustituto.
+
+**«La formación docente debería enseñar al estudiantado sobre los LLM y no sobre el aprendizaje automático.»** Limitar la alfabetización a la capa generativa deja a los profesionales incapaces de interrogar los sistemas predictivos que toman decisiones sobre su estudiantado, que es donde se concentran los errores consecuentes.
 
 ## Conceptos conectados
 

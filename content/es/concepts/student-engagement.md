@@ -1,7 +1,7 @@
 ---
 title: Implicación del estudiantado
 created: "2026-09-25T04:03:10-04:00"
-updated: "2026-10-24T08:21:12-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [motivation, self-regulated-learning, student-engagement]
@@ -11,7 +11,7 @@ level: [higher ed]
 confidence: high
 connected_faqs: [asynchronous-online-courses-ai]
 translation_of: concepts/student-engagement
-source_updated: "2026-10-23T09:20:00-04:00"
+source_updated: "2026-10-25T13:40:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -115,6 +115,35 @@ La implicación del estudiantado se conecta con la [[motivation|motivación]] y 
 
 - **La alfabetización en IA actúa sobre la implicación a través de recursos psicológicos (2026):** un estudio de mediación moderada con 1.198 estudiantes de grado en Zhengzhou (China) ([[ai-literacy-learning-engagement-psych-capital-2026|Wang, 2026]]) modeló la implicación como resultado de la [[ai-literacy|alfabetización en IA]] y no como un subproducto del uso de la herramienta. La alfabetización en IA predijo la implicación en el aprendizaje directamente y también indirectamente al construir capital psicológico, con la vía indirecta aportando aproximadamente la mitad del efecto total: mediación parcial, de modo que una competencia tecnológica se convierte en implicación solo en parte a través de los recursos psicológicos que genera. El compromiso profesional, una variable basada en la identidad, moderó el vínculo entre capital psicológico e implicación sin tener ningún efecto directo propio, y la traducción del capital psicológico en implicación fue marcadamente más fuerte en el estudiantado que se veía encaminado a la profesión. El patrón es el caso disponible más claro del punto anterior de que las características de quien aprende condicionan cómo la IA afecta a la implicación.
 - **La práctica previa a clase con IA puede elevar la participación en directo (2026):** un experimento de campo preregistrado con 759 estudiantes de MBA encontró que prepararse con un compañero de discusión basado en la voz con IA elevó las contribuciones voluntarias alrededor de un 31% en sesiones posteriores, pero solo tras un segundo uso; un primer uso precedió a una participación menor ([[assigned-ai-preclass-student-engagement-2026|Wang et al., 2026]]).
+
+## Concepciones erróneas
+
+**«Si la implicación subió, el aprendizaje subió.»** Esta es la inferencia más costosa de la literatura sobre implicación con IA, y la base de conocimiento contiene un contraejemplo limpio. [[domain-specific-chatbot-stem-enthusiasm-2025|Rücker y Becker-Genschow (2025)]] aleatorizaron 195 clases de noveno grado a un chatbot de matemáticas específico del dominio o a materiales de diferenciación convencionales para una lección sobre el método de Herón. El interés situacional subió sustancialmente en la condición de chatbot (M = 2,63 frente a 2,43, p = 0,00005, d de Cohen = 0,63) y la aceptación fue alta en las cuatro dimensiones del [[technology-acceptance-model|Modelo de Aceptación Tecnológica]], y sin embargo la comparación de rendimiento pre-post no encontró **ninguna interacción significativa grupo por tiempo** (F(1194) = 2,84, p = 0,094), y la carga cognitiva extrínseca fue ligeramente mayor. El interés y el rendimiento se movieron en calendarios distintos. Un hallazgo de implicación no es evidencia de [[learning-gains|aprendizaje]].
+
+**«La implicación es una sola cosa, y el tiempo en la tarea la mide.»** El constructo es multidimensional y sus dimensiones divergen por diseño: un estudiante puede estar conductualmente activo —haciendo clics, acumulando tiempo— mientras es cognitivamente superficial y acepta pasivamente la salida. Las medidas de [[self-report-measures|autoinforme]] y de registro de interacción del constructo no son intercambiables, y por eso una afirmación sobre la «implicación» es ininterpretable hasta que se nombran la dimensión y el instrumento.
+
+**«Más actividad conductual significa una implicación más profunda.»** A menudo lo contrario. La implicación cognitiva profunda con la IA predice el aprendizaje, mientras que la implicación conductual superficial predice la [[cognitive-offloading|dependencia excesiva]] y el desplazamiento del aprendizaje que dominan la literatura sobre riesgos; los [[polished-artifacts-fragile-engagement-2026|artefactos pulidos]] son el caso canónico, donde una salida limpia señala actividad mientras el pensamiento no ocurrió. Los registros de interacción ajetreados son compatibles con la desimplicación.
+
+**«La IA hace el aprendizaje más atractivo por defecto.»** [[ai-availability-student-motivation|La disponibilidad de IA y la motivación]] muestran que el mero hecho de saber que la IA está disponible puede reducir el valor percibido del esfuerzo, sobre todo en quienes aprenden por primera vez. La implicación está configurada por la expectativa, el valor y la competencia percibida tanto como por las funciones de la herramienta, y varía según la tarea, el contexto y la persona: lo que para un estudiante es implicación profunda para otro es perseguir la salida.
+
+## Implicaciones para la práctica
+
+**Para el profesorado**
+
+- Elija su medida de resultado antes que su intervención. Si el objetivo es un aprendizaje duradero, mida el rendimiento sin ayuda; las encuestas de interés y satisfacción no le dirán si la herramienta funcionó.
+- Trate con recelo un aumento del disfrute cuando también sube la carga cognitiva. En el ejemplo aleatorizado por conglomerados, un mayor interés vino con una carga extrínseca algo mayor y sin efecto en el rendimiento: agradable pero no evidentemente productivo.
+- Distinga al estudiante que trabaja del que observa cómo aparece un artefacto pulido. Pida el razonamiento, no la salida.
+
+**Para quienes desarrollan**
+
+- Instrumente la dimensión que afirma medir. Publicar una métrica de tiempo en la tarea o de clics y llamarla implicación confunde la actividad conductual con la inversión cognitiva, que es precisamente el error sobre el que advierte la evidencia.
+- No espere transferencia entre tipos de implicación. Elevar el interés situacional no implica elevar la implicación cognitiva, así que optimizar solo por el interés puede aumentar el uso dejando plano el aprendizaje.
+- Vigile la devaluación del esfuerzo específicamente en quienes son novatos, ya que la sola disponibilidad puede bajar el valor percibido del esfuerzo.
+
+**Para quienes investigan**
+
+- Informe de la dimensión y del instrumento, y evite el sustantivo desnudo. Dado que el autoinforme y los registros divergen, «aumentó la implicación» necesita su operacionalización en la misma frase.
+- Evite inferir el rendimiento a partir del afecto. El resultado dividido del ensayo aleatorizado por conglomerados es el modelo para informar de ambos, incluido el nulo.
 
 ## Conceptos conectados
 

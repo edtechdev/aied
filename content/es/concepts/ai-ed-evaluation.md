@@ -1,7 +1,7 @@
 ---
 title: Evaluación de la IA en educación
 created: "2026-09-28T19:10:33-04:00"
-updated: "2026-10-24T08:21:18-04:00"
+updated: "2026-10-26T21:37:14-04:00"
 type: concept
 foundations: [agentic-ai, teacher-role]
 technology: [generative-ai, human-in-the-loop-ai, llm]
@@ -12,7 +12,7 @@ connected_faqs: [top-10-findings-ai-education-instructors, research-gaps-aied, d
 confidence: high
 methods: [benchmark]
 translation_of: concepts/ai-ed-evaluation
-source_updated: "2026-10-23T09:20:00-04:00"
+source_updated: "2026-10-26T11:40:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -116,6 +116,13 @@ Se necesitan puntos de referencia condicionados por el contexto: [[zhang-tutormo
 - **Un mapa bibliométrico puede revelar qué recompensa una cultura de evaluación.** En 1.403 publicaciones de educación médica, los trabajos más citados medían la capacidad del modelo —sobre todo el rendimiento de ChatGPT en exámenes de licencia— mientras que la investigación sobre [[governance|gobernanza]] quedaba rezagada, así que los autores piden una evaluación empírica de los marcos de gobernanza en lugar de más pruebas de capacidad ([[sriram-ethical-ai-medical-education-bibliometric-2026|Sriram et al. (2026)]]).
 - **Las evaluaciones por juicio experto necesitan su propia contabilidad de fiabilidad.** [[bespoke-industry-personalized-lecture-videos-2026|Puech et al. (2026)]] hicieron que 25 especialistas emparejados por dominio valoraran 92 [[video-education|vídeos de clase]] generados con una rúbrica anclada a la calidad de «una clase magistral tipo MOOC», juzgando el 87% en el umbral o por encima (media 3,42 de 5). Cada vídeo fue valorado una sola vez por una persona revisora (k = 1), así que el diseño reparte el panel por todo el corpus a costa de una estadística de acuerdo interevaluadores; un modelo de intercepto aleatorio atribuyó alrededor del 35% de la varianza residual a la persona revisora (ICC = 0,35) y el artículo informa intervalos agrupados por revisor en lugar de una única cifra de precisión. Una evaluación construida sobre el juicio experto es tan sólida como el análisis de fiabilidad que publica.
 
+## Concepciones erróneas
+
+- **«Puntuaciones altas en exámenes docentes significan que el modelo es pedagógicamente competente.»** Se puntuaron **97 modelos** con ítems del examen docente chileno (**CDPK 28-89%**), y muchos superaron una **línea base humana estimada en torno al 50%**; aun así, los **ítems estáticos de opción múltiple no pueden** evaluar el juicio en acto. Puntuar bien en el examen está acotado por lo que el examen mide.
+- **«El criterio de puntuación es un tecnicismo.»** La coincidencia estricta puntuó los mismos 2.250 diálogos de tutoría en un **42,1%**, mientras que un LLM como juez calibrado con personas evaluadoras humanas los puntuó en un **81,3%** ([[misconcept-dialogue-llm-math-tutoring-2026|Lee et al., 2026]]): el criterio mueve la cifra más que el modelo del tutor, la estrategia o la canalización.
+- **«Reconocer y generar son capacidades comparables.»** **Reconocer no es generar.** En TutorCaseBench, el mejor de **11 modelos** eligió una estrategia documentada en el **63,0% de los ítems de cuatro opciones**, pero satisfizo un criterio de implementación documentada con mucha menos frecuencia. Elegir la respuesta correcta entre cuatro y producirla son tareas distintas.
+- **«Las puntuaciones de los modelos significan algo sin un instrumento validado.»** Se generaron exámenes adaptados al curso para **71 clases** y se compararon con ítems de Estadística AP escritos por personas mediante un modelo **bayesiano jerárquico 2PL**: el instrumento se ajustó antes de interpretar las puntuaciones.
+
 ## Conceptos conectados
 
 - [[interpreting-and-applying-aied-research]]
@@ -180,3 +187,4 @@ Se necesitan puntos de referencia condicionados por el contexto: [[zhang-tutormo
 - [[bloom-classifier-ai-assisted-questions-2026]] — Evaluación de modelos preentrenados para la valoración pedagógica de nuevas preguntas educativas asistidas por IA
 - [[llm-judge-evaluation-educational-ai-2026]] — Cuando los evaluadores gritan «que viene el lobo»: lecciones de la evaluación con LLM como juez en producción en IA educativa
 - [[sriram-ethical-ai-medical-education-bibliometric-2026]] — Un mapa bibliométrico puede revelar qué recompensa una cultura de evaluación
+- [[misconcept-dialogue-llm-math-tutoring-2026]] — MisconceptDialogue: los criterios de evaluación determinan el éxito medido en la tutoría matemática con LLM (Lee et al. 2026)

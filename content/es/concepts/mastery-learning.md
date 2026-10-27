@@ -6,9 +6,9 @@ technology: [adaptive-learning, personalized-learning]
 assessment: [assessment]
 confidence: medium
 created: "2026-09-28T21:04:13-04:00"
-updated: "2026-10-02T21:24:18-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 translation_of: concepts/mastery-learning
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-25T21:20:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -57,6 +57,16 @@ El dominio también depende de una retención duradera, no solo de una ejecució
 Por último, la evidencia advierte contra dar por supuesto que el apoyo generado por IA es uniformemente beneficioso. En un estudio multi-[[governance|institucional]] sobre trazas animadas generadas por IA para programadores novatos, los beneficios dependían del contexto y eran de corto plazo, y quienes aprendían con una [[student-engagement|implicación]] intermedia experimentaron un deterioro del rendimiento atribuido a costes de coordinación: un efecto del estilo de la reversión por pericia que subraya la necesidad de personalizar el apoyo al estado actual de quien aprende en lugar de aplicar una herramienta de forma indiscriminada. Del mismo modo, un continuo de desarrollo de la [[ai-literacy|alfabetización en IA]] en la [[higher-ed|educación superior]] sitúa el dominio no solo en adoptar con soltura herramientas de IA, sino en progresar por etapas de uso informado y crítico, cada una con sus propias estrategias de [[formative-assessment|evaluación formativa]]. En conjunto, estos hallazgos enmarcan el aprendizaje para el dominio habilitado por IA como un sistema que debe calibrarse para cada persona, espaciarse de forma sostenible y evaluarse por la competencia genuina y no por la fluidez de la salida.
 
 La calificación basada en estándares es la contraparte evaluativa del aprendizaje para el dominio, y [[mesny-innovative-assessment-grading-management-2026|Mesny, Roberge-Maltais y Galy (2026)]] la identifican entre cinco prácticas innovadoras alineadas con la «evaluación para el aprendizaje» que el profesorado de educación superior podría adoptar, pero la encuentran prácticamente ausente del discurso de la educación en gestión. Lo atribuyen a barreras normativas: la calificación normativa «por curva», el señalamiento externo (rankings, prácticas, acreditación) y la mentalidad instrumental del estudiantado resisten los enfoques orientados al dominio y sin notas. Su recomendación es la experimentación incremental —por ejemplo, introducir rúbricas basadas en estándares para una sola tarea antes de escalarlas— con el apoyo de una coordinación a nivel de programa y evidencia documentada del Scholarship of [[teacher-role|Teaching]] and Learning.
+
+## Concepciones erróneas
+
+**«Un umbral de dominio es una propiedad objetiva de quien aprende.»** El umbral es una propiedad de la *regla* que se usa para actualizarlo. [[crediting-assisted-work-inflates-mastery-2026|Srivastava (2026)]] aplicó **cuatro reglas de actualización sobre secuencias de eventos idénticas** del conjunto de datos ASSISTments, y las reglas no coinciden en quién está listo. El dominio es, por tanto, una decisión registrada en un número, no un hecho descubierto sobre un estudiante, y la regla debería tratarse como una política declarada y no como un detalle de implementación.
+
+**«Si el sistema dice dominado, el estudiantado está listo para avanzar.»** Solo en relación con la regla de actualización vigente. Cuando una regla acredita el trabajo asistido, «dominado» puede describir a un estudiante que ha tenido éxito con apoyo y no de forma independiente: la misma divergencia entre el rendimiento asistido y la capacidad no asistida que documenta la literatura sobre [[learning-gains|ganancias de aprendizaje]].
+
+**«El aprendizaje para el dominio es la pedagogía que la IA por fin hace posible.»** Su mecánica es bastante anterior a la IA —Bloom formalizó el marco hace décadas— y la IA lo operacionaliza automatizando las decisiones de evaluación y de ritmo, en lugar de realizar un diseño antes imposible. Ese reencuadre importa porque la automatización hereda la elección de la regla, y la regla es donde reside el juicio.
+
+**«Evaluar con más frecuencia bajo el dominio hace el umbral más fiable.»** La frecuencia mejora la estimación y no corrige una regla mal especificada. Recalcular el dominio con más frecuencia a partir de eventos que incluyen trabajo asistido converge más rápido en la misma respuesta equivocada.
 
 ## Conceptos conectados
 

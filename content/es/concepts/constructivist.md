@@ -2,14 +2,14 @@
 connected_resources: [vibes-diy]
 title: Constructivismo
 created: "2026-09-28T21:03:34-04:00"
-updated: "2026-10-22T09:13:53-04:00"
+updated: "2026-10-26T21:37:14-04:00"
 type: concept
 foundations: [learning-design]
 pedagogy: [active-learning, collaborative-learning, experiential-learning, learning-theories, scaffolding, self-regulated-learning]
 technology: [generative-ai]
 confidence: high
 translation_of: concepts/constructivist
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-26T10:25:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -109,6 +109,12 @@ El constructivismo también moldea cómo se enseña la propia alfabetización en
 2. **Usar la lente del [[icap-framework|ICAP]].** El ICAP clasifica la implicación en modos constructivo, interactivo, activo y pasivo: úsela para evaluar si las interacciones con IA suscitan de verdad modos constructivos e interactivos, y no consumo pasivo. Quien diseña debería favorecer los modos más profundos (constructivo e interactivo) cuando el objetivo de aprendizaje lo justifique.([[hingle-collaborative-ai-literacy-2025]])
 3. **Alinear teoría e implementación.** Quien investiga debería mirar más allá de si la IA «funciona» y atender a *cómo* encarna una teoría del aprendizaje, comprobando si existe la brecha del constructivismo de nombre y el conductismo de hecho.([[ai-vocational-education-training-review]])
 4. **Estudiar la agencia de quien aprende y la transferencia.** Los compromisos constructivistas implican evaluar no solo las ganancias inmediatas en las pruebas, sino también si quien aprende puede transferir y aplicar de forma independiente la comprensión que ha construido.([[research-methods-aied]])
+
+## Concepciones erróneas
+
+- **«Se puede detectar la enseñanza constructivista por las preguntas que se hacen.»** Un clasificador DeBERTa **clasificó las preguntas factuales de transmisión de conocimiento con una precisión del 96,67% pero las preguntas de facilitación solo con un 78,79%**, y **todos los modelos confundieron los dos roles de orden superior**. El constructo que más importa es el que peor maneja la detección automatizada.
+- **«Los rasgos superficiales de una lección revelan su pedagogía.»** El fallo del clasificador no es un detalle de implementación. Los roles de facilitación y constructivista son los casos difíciles precisamente porque se definen por lo que el profesorado hace con el pensamiento de quien aprende, y esa relación no se puede recuperar solo del texto de la pregunta.
+- **«El constructivismo significa que el profesorado no explica.»** La teoría sitúa el aprendizaje en la construcción que quien aprende hace a partir de la experiencia, lo que es compatible con la instrucción directa. Tratarlo como una prohibición de decir las cosas malinterpreta tanto la teoría como la evidencia sobre ejemplos resueltos.
 
 ## Conceptos conectados
 - [[community-of-inquiry]] — Comunidad de indagación (fundamentada en el pragmatismo constructivista y deweyano)

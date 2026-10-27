@@ -1,7 +1,7 @@
 ---
 title: Marco ICAP
 created: "2026-09-28T18:22:28-04:00"
-updated: "2026-10-02T22:46:20-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 type: concept
 connected_faqs: [designing-ai-into-learning]
 foundations: [learning-design]
@@ -9,7 +9,7 @@ pedagogy: [active-learning, cognitive-psychology, collaborative-learning, learni
 technology: [educational-nlp, learning-analytics]
 confidence: high
 translation_of: concepts/icap-framework
-source_updated: "2026-09-30T08:05:25-04:00"
+source_updated: "2026-10-25T21:50:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -85,6 +85,16 @@ El énfasis de ICAP en una implicación generativa y a nivel de proceso lo han a
 2. **Implique a quien aprende en varios modos.** Una instrucción eficaz en [[ai-literacy|alfabetización en IA]] implica a quien aprende en múltiples niveles de ICAP —exposición pasiva, manipulación activa, generación constructiva y diálogo interactivo— y elige el modo que encaja con el objetivo de aprendizaje.([[hingle-collaborative-ai-literacy-2025]])
 3. **Mida la implicación con honestidad.** ICAP da a investigadores y diseñadores un vocabulario común para distinguir la implicación cognitiva genuina de la mera actividad: un correctivo frente a una [[student-engagement|implicación del estudiantado]] superficial.([[icap-cognitive-engagement-llm-agents]])
 4. **Vigile la brecha de anotación entre humanos y LLM.** Si se usan sistemas automatizados para codificar la implicación, hay que tener en cuenta su déficit sistemático respecto a las personas entrenadas.([[icap-cognitive-engagement-llm-agents]])
+
+## Concepciones erróneas
+
+**«ICAP es una taxonomía para etiquetar actividades.»** Es una lente de diseño y evaluación con una pretensión de orden: la implicación pasiva, activa, constructiva e interactiva difieren en el aprendizaje que producen, de modo que «construir herramientas que susciten implicación constructiva e interactiva en lugar de consumo pasivo» es un objetivo de diseño y no un ejercicio de clasificación. Etiquetar una clase con un modo sin cambiar lo que hace el estudiantado no ha aplicado el marco.
+
+**«El tiempo en la tarea o el volumen de interacción indexan el nivel de implicación.»** El volumen cuenta actividad, no modo. Desplazarse es activo y pasivo en sentidos distintos a la vez, y quien genera muchos clics puede seguir recibiendo en lugar de construyendo. El valor del marco es precisamente que distingue tipos de implicación que las métricas de actividad agrupan.
+
+**«Un tutor de IA produce automáticamente implicación interactiva porque conversa.»** La conversación es el medio y no el modo. Un diálogo en el que el sistema aporta toda contribución sustantiva es pasivo para quien aprende aunque vista una interfaz interactiva, que es la misma confusión que la [[student-engagement|literatura sobre implicación]] documenta entre actividad conductual e inversión cognitiva.
+
+**«Los modos superiores de ICAP son siempre mejores.»** Cuestan más, y el orden trata del aprendizaje por unidad del procesamiento pertinente y no de aquello a lo que una clase debería aspirar siempre. La fluidez de base puede requerir repetición activa antes de que sea posible el trabajo constructivo; el error es instalarse ahí, no pasar por ahí.
 
 ## Conceptos conectados
 

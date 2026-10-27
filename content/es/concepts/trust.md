@@ -1,14 +1,14 @@
 ---
 title: Confianza
 created: "2026-09-28T20:10:47-04:00"
-updated: "2026-10-22T09:13:53-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, human-ai-collaboration]
 technology: [educational-robotics, intelligent-tutoring]
 ethics: [trust]
 confidence: high
 translation_of: concepts/trust
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-25T15:55:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -34,6 +34,8 @@ ai_assist:
 ## Introducción
 
 La confianza en la IA está moldeada por la competencia percibida, la transparencia, la consistencia y por si el sistema parece alineado con los objetivos de quien aprende; está estrechamente ligada a la [[ai-literacy|alfabetización en IA]] (saber en qué confiar), al [[critical-thinking|pensamiento crítico]] (evaluar la salida) y al diseño de una IA responsable. La confianza interpersonal, en cambio, se construye mediante relaciones, declaraciones, retroalimentación y [[pedagogy|cuidado pedagógico]] — las cualidades en las que el estudiantado se apoya cuando decide si un docente o una IA es una fuente fiable de orientación. Los dos ámbitos interactúan cada vez más: la IA está entretejida en las relaciones entre docentes y estudiantado, de modo que cómo el estudiantado confía en su docente moldea cómo confía (o cuestiona) las herramientas de IA que ese docente recomienda.
+
+La confianza es una víctima medida, y no solo un principio. En [[gillette-partnership-ethics-genai-higher-education-2026|Gillette et al. (2026)]], el estudiantado dijo confiar menos en sus compañeros tras descubrir un uso no declarado de IA generativa en el trabajo en grupo, y lo calificó de «perjudicial para la confianza y la ética de la academia», mientras que unos pocos sospechaban que sus docentes usaban IA generativa y se lo ocultaban.
 
 ## La confianza en los sistemas de IA
 
@@ -79,6 +81,37 @@ La confianza entre pares discurre por un canal distinto: entre 406 estudiantes u
 El reto unificador es la **calibración**: ajustar la confianza a la fiabilidad real, ya sea que la parte en quien se confía sea un modelo o una persona. La [[trust-calibration|calibración de la confianza]] es la capacidad [[metacognition|metacognitiva]] de saber cuándo confiar y cuándo cuestionar. Los estudios sobre [[feedback|retroalimentación]] e [[intelligent-tutoring|tutoría con IA]] examinan cuándo el estudiantado se apoya adecuadamente en la orientación de la IA o la cuestiona, mientras que la literatura interpersonal muestra que la confianza del estudiantado en un docente depende de una confianza relacional construida con el tiempo. A medida que la IA se integra en la [[teacher-role|labor docente]], estos ámbitos convergen: un docente que explica con transparencia qué puede y qué no puede hacer una herramienta de IA, y que demuestra fiabilidad en su propio juicio, construye el tipo de confianza que se traslada a las herramientas que recomienda. Construir una confianza adecuada — tanto en la IA como entre nosotros — es un objetivo central del diseño responsable de IA en educación.
 
 La calibración también se pone a prueba por los incentivos del propio sistema en el que se confía. Cuando personal escéptico ante la adopción de la IA consulta a la [[conversational-ai|IA conversacional]] — creada por organizaciones con un interés comercial en esa adopción —, existe el riesgo de que el sistema esté predispuesto a fomentarla. Una auditoría de diez modelos de frontera encontró que la mayoría reconocía las preocupaciones de una persona de personal rural de [[k-12]] (amenaza para el empleo, «no es para gente como yo») antes de reorientar hacia la implicación. Esto cuestiona la confianza ingenua y subraya la importancia de la [[human-in-the-loop-ai|supervisión humana]] y de una [[ai-ed-evaluation|evaluación independiente de la IA]].
+
+## Concepciones erróneas
+
+**«La confianza y la desconfianza se sitúan en extremos opuestos de una sola escala.»** Son separables, y confundirlas malinterpreta lo que el estudiantado declara. **La percepción de riesgo y la confianza no son opuestas:** un estudio de percepción con 130 estudiantes sobre IA generativa [[agentic-ai|agéntica]] en [[higher-ed|educación superior]] encontró un riesgo percibido moderadamente elevado (M = 3,33; DE 0,89) *junto a* una confianza y una adopción más favorables. Quien aprende puede sostener ambas a la vez, y por eso una única puntuación de confianza no puede decir si su dependencia es apropiada.
+
+**«Desconfiar de la exactitud de la IA significa que el estudiantado no se apoyará en ella.»** El estudiantado distingue la salida de su capacidad para dirigirla. En una encuesta a **8.021 estudiantes de cuatro universidades australianas, el 51% desconfiaba de la exactitud factual de la IA generativa mientras que el 76% se sentía seguro de su capacidad para obtener los resultados que quería.** El segundo número es el que predice la conducta: la confianza en la extracción convive con la duda sobre la verdad, y solo una de las dos es una propiedad de seguridad.
+
+**«Unas reglas y políticas más claras son lo que construye la confianza del estudiantado.»** Domina la utilidad. Una encuesta a 2.121 estudiantes, profesorado y personal de una universidad encontró que la utilidad percibida era el **correlato más fuerte de la confianza en la IA (β = 0,402)**, por delante de la claridad percibida de las políticas. Las instituciones que invierten en redactar reglas mientras despliegan herramientas que nadie encuentra útiles han apuntado a la palanca más débil.
+
+**«Si el estudiantado confía más, la usará con más cuidado, o al menos de forma apropiada.»** El patrón documentado es el contrario. Entre 432 estudiantes de grado que resolvían problemas de Python con sugerencias exactas y deliberadamente engañosas, una mayor confianza predijo una **menor** dependencia apropiada (r = −,42), y el estudiantado aceptó el 86,03% de las sugerencias engañosas. La confianza no es un indicador de calibración; véase [[trust-calibration|calibración de la confianza]].
+
+**«Las advertencias honestas sobre la falibilidad socavarían la confianza en un tutor.»** Mejoran la conducta. Las [[ai-fallibility-warning-help-seeking|advertencias sobre la falibilidad de la IA]] en un STI de matemáticas aumentaron la [[help-seeking|búsqueda de ayuda]] en lugar de reducir el uso, lo que sugiere que declarar los límites fomenta una dependencia apropiada en vez de erosionarla.
+
+## Implicaciones para la práctica
+
+**Para el profesorado**
+
+- Mida dos cosas, no una: lo que el estudiantado cree sobre la exactitud de la IA y lo que cree sobre su propia capacidad para usarla. La división 51%/76% muestra que divergen marcadamente y que solo la segunda impulsa la conducta.
+- Declare los límites de la herramienta desde el principio. Las advertencias de falibilidad elevaron la búsqueda de ayuda en la evidencia del STI, así que la divulgación es una herramienta de calibración y no un riesgo para la confianza.
+- Vigile una confianza alta combinada con una comprobación superficial; esa combinación es el modo de fallo de la calibración, no una señal de éxito.
+
+**Para quienes desarrollan**
+
+- Construya la confianza sobre criterios observables y acordados en lugar de sobre la capacidad aparente, siguiendo el trabajo de codiseño de la fiabilidad con ingenieros de aprendizaje. La fluidez no es una señal de fiabilidad y el estudiantado la lee como si lo fuera.
+- Priorice la utilidad en la incorporación por encima del texto de las políticas, ya que la utilidad es el correlato de confianza más fuerte medido.
+- No trate una confianza alta como éxito de implicación; empareje cualquier métrica de confianza con una medida de dependencia apropiada.
+
+**Para quienes investigan**
+
+- Informe la confianza, la percepción de riesgo y la dependencia apropiada como constructos distintos, porque covarían en direcciones poco obvias, incluso negativas.
+- Informe el resultado conductual (tasa de aceptación de sugerencias erróneas) junto con la confianza autoinformada; las escalas de confianza por sí solas invierten la conclusión.
 
 ## Conceptos conectados
 

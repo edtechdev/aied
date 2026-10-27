@@ -1,7 +1,7 @@
 ---
 title: Medidas de autoinforme
 created: "2026-09-28T19:11:16-04:00"
-updated: "2026-10-24T08:21:12-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [self-efficacy, student-engagement]
@@ -14,7 +14,7 @@ connected_faqs: [evaluating-ai-interventions-methods, does-ai-help-students-lear
 confidence: high
 methods: [quantitative-research, research-methods-aied, qualitative-research]
 translation_of: concepts/self-report-measures
-source_updated: "2026-10-23T08:03:41-04:00"
+source_updated: "2026-10-26T11:40:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -145,6 +145,12 @@ Las respuestas constructivas de la base de conocimiento son consistentes, y ning
 - Esté atento a los diseños de fuente única. Si los predictores y los resultados proceden del mismo cuestionario y en un mismo momento, las asociaciones son compatibles tanto con la varianza por método común como con la teoría propuesta.
 - Trate la satisfacción como una señal de diseño, no como un resultado de aprendizaje. Una alta satisfacción con un aprendizaje no comprobado es la configuración estándar en la evaluación de herramientas de IA, y este corpus muestra que ambas cosas divergen.
 - Prefiera los estudios que muestran su trabajo: tasas de respuesta declaradas, limitaciones declaradas y al menos una fuente de evidencia que no proceda de preguntar.
+
+## Concepciones erróneas
+
+- **«La evidencia de encuesta es débil, pero más o menos insesgada.»** La estructura de respuesta acota la estimación antes que el sesgo: una encuesta obtiene **112 respuestas con una tasa de respuesta del 31%**, o **90 respuestas de 572 invitaciones**. El grupo de quienes responden es un subconjunto autoseleccionado, así que la cifra describe a ese subconjunto.
+- **«Las encuestas son un método minoritario en este campo.»** Una revisión de alcance de **394 estudios sobre IA generativa en educación superior** encontró que **las escalas de encuesta eran el método de evaluación informado con más frecuencia (269 estudios, 68,3%)**, por delante de las pruebas y los cuestionarios. La evidencia dominante del campo es el autoinforme.
+- **«El autoinforme y los constructos medidos coinciden.»** **La carga cognitiva autoinformada no difirió significativamente entre perfiles de descarga que iban del 80% al 2% en la autoría de ensayos**, mientras que quienes más descargaban sí diferían de forma medible. La medida subjetiva se mantuvo plana donde la conducta variaba en un factor de cuarenta.
 
 ## Conceptos conectados
 

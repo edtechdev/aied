@@ -1,7 +1,7 @@
 ---
 title: "Educación en tecnología de la información"
 created: "2026-09-28T18:23:55-04:00"
-updated: "2026-09-28T18:23:55-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading]
 ethics: [equity-in-ai-education]
@@ -12,7 +12,7 @@ level: [higher ed, adult learning]
 confidence: high
 institutions: [governance]
 translation_of: concepts/information-technology
-source_updated: "2026-09-17T14:06:00-04:00"
+source_updated: "2026-10-25T19:50:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -58,6 +58,33 @@ Lo que es distintivo de la IA en este campo es que la misma tecnología es a la 
 
 - **Orientación, no política.** Un barrido del entorno de los 48 programas de máster acreditados en informática de la salud y gestión de información sanitaria encontró 40 (83 %) con al menos un documento sobre IA disponible públicamente, pero el artefacto modal era orientación consultiva (21, 53 %) y no política formal (7, 18 %) ([[institutional-ai-policy-health-informatics-2026]]). La integridad académica dominaba el vocabulario (n = 139), por delante de las citas (n = 59) y la [[assessment|evaluación]] (n = 50), mientras que HIPAA (n = 5), FERPA (n = 11), el acceso equitativo (n = 2) y los requisitos de divulgación (n = 1) estaban casi ausentes, y los registros electrónicos de salud no se mencionaban en absoluto. La asignación latente de Dirichlet produjo cuatro temas en torno a la integridad, el uso de IA generativa por parte del estudiantado, las herramientas de investigación universitarias y la interacción con ChatGPT. Como solo se analizaron documentos públicos, los autores tratan la ausencia de lenguaje sobre privacidad y equidad como un hallazgo sobre la orientación publicada, y no sobre la práctica institucional.
 - **El punto ciego de la equidad.** La inclusión (n = 9), la accesibilidad (n = 9), las adaptaciones (n = 4) y el acceso equitativo (n = 2) aparecen a tasas que no pueden sostener ninguna afirmación de que se haya abordado la [[equity-in-ai-education|equidad en la educación con IA]], aunque varios programas exigen el uso de IA en las asignaturas. Junto con el tratamiento escaso de la competencia [[governance|profesional en gobernanza]], esta es la tarea de diseño más clara que el conjunto deja abierta: conectar las normas de integridad con las disposiciones de acceso, privacidad y gobernanza de datos que esos egresados serán responsables de hacer cumplir.
+
+## Concepciones erróneas comunes
+
+**«La educación en tecnología de la información es educación en informática con más herramientas comerciales.»** La frontera es el objeto de estudio. La educación en ciencias de la computación se centra en los algoritmos, la programación y los fundamentos formales; la educación en TI se centra en la configuración aplicada, la ciberseguridad, la gestión de datos e información y la gobernanza organizativa de los sistemas sociotécnicos. La distinción cambia en qué debería ser bueno un tutor de IA: quien aprende TI necesita criterio sobre los modos de fallo de un sistema desplegado, no una demostración sobre una computación.
+
+**«Un clasificador lo bastante exacto para identificar tipos de pregunta lo es también para automatizar la retroalimentación formativa.»** La exactitud agregada oculta el error por clase que importa. En la comparación que cita esta página, DeBERTa lideró con **un 86,36 % de exactitud y un 96,67 % de precisión en preguntas factuales**, pero la precisión del rol de facilitador cayó al **78,79 %**; un BERT ajustado alcanzó un **92,00 % de recuerdo en ítems de compañero de aprendizaje con solo un 74,19 % de precisión**. La automatización enviaría aproximadamente a uno de cada cuatro de esos casos a la intervención equivocada, y los errores se concentran en las categorías pedagógicamente interesantes, no en las fáciles.
+
+**«Que la mayoría de los programas tenga un documento sobre IA significa que la gobernanza de la IA está en marcha.»** En un barrido del entorno de los **48 programas de máster acreditados** en informática de la salud y gestión de información sanitaria, **40 (83 %)** tenían al menos un documento sobre IA disponible públicamente, pero el hallazgo se titula orientación y no política. Un conjunto publicado de recomendaciones no es un mecanismo de gobernanza: ni asigna responsabilidades ni especifica qué ocurre cuando un sistema falla.
+
+**«El estudiantado que no puede explicar una decisión apoyada por IA está haciendo un mal uso de la IA.»** La explicación alternativa es que no puede articular una decisión que tomó correctamente. El trabajo en TI está lleno de práctica competente cuyo fundamento es tácito, y tratar la competencia inarticulada como mala conducta diagnostica mal un objetivo de enseñanza como si fuera un problema disciplinario: necesita práctica de explicación, no una política.
+
+## Implicaciones para la práctica
+
+**Para el profesorado**
+
+- Informe la precisión por clase, no la exactitud llamativa, antes de automatizar cualquier enrutamiento de retroalimentación. La cifra de precisión del rol de facilitador es la que determina cuántos estudiantes reciben la ayuda equivocada.
+- Enseñe la explicación como un producto en sí mismo, para que la competencia inarticulada se pueda distinguir del mal uso.
+- Distinga orientación de gobernanza al leer la política institucional, y pregunte quién responde cuando una herramienta de la cadena se equivoca.
+
+**Para quienes desarrollan**
+
+- Publique matrices de confusión por categoría de quien aprende; un modelo fuerte en preguntas factuales y débil en contribuciones de compañero de aprendizaje perderá sistemáticamente los casos colaborativos.
+- No presente un clasificador de enrutamiento como sustituto de un facilitador. Con una precisión del 74-79 % es una ayuda de triaje.
+
+**Para quienes diseñan programas**
+
+- Construya el artefacto de gobernanza que falta en el sector: responsabilidad nominada, cadencia de revisión y una vía de incidentes. Un documento de orientación sobre IA satisface una pregunta de acreditación y no una de rendición de cuentas.
 
 ## Conceptos conectados
 

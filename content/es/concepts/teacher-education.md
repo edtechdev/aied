@@ -1,7 +1,7 @@
 ---
 title: Desarrollo profesional
 created: "2026-09-28T19:17:40-04:00"
-updated: "2026-10-22T07:28:42-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 type: concept
 foundations: [ai-literacy, teacher-role, tpack]
 connected_faqs: [faculty-development-ai]
@@ -9,7 +9,7 @@ audience: [instructors]
 level: [teacher education, k 12, adult learning]
 confidence: high
 translation_of: concepts/teacher-education
-source_updated: "2026-10-21T12:05:00-04:00"
+source_updated: "2026-10-26T11:40:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -98,6 +98,12 @@ Más allá del contenido y las creencias, la formación docente recurre cada vez
 - **Separar el trabajo delegable del no delegable.** [[obyrne-co-constructing-ai-boundaries-agency-judgment-2026|O'Byrne (2026)]] encontró que 23 estudiantes de grado, en su mayoría futuros docentes, produjeron artefactos comparables tanto si sostenían el trabajo de delimitación como si lo delegaban pronto, y la «tensión por el fraude» en torno a la autoría fue más fuerte entre quienes hacían más trabajo de delimitación, así que el objetivo didáctico es juzgar qué trabajo interpretativo no conviene ceder.
 - **Hacer de la redacción de políticas de aula una actividad central de la formación docente, y tratar la ambigüedad como un defecto de la política.** [[nash-preservice-teachers-classroom-ai-policies-2026|Nash y Burriss (2026)]] encontraron que pedir al profesorado en formación que redacte sus propias políticas de aula sobre IA funciona como una construcción retórica de mundo sobre para qué sirve escribir, una ventana a creencias emergentes que el debate abstracto no abre. Como la IA separa la escritura como producto de la escritura como proceso, los programas deberían ayudar al profesorado a localizar dónde residen realmente el pensamiento, el aprendizaje y el valor a lo largo de la lluvia de ideas, el borrador, la revisión y la edición, en lugar de situar el pensamiento solo en el texto final, y deberían apoyarle para traducir sus creencias en reglas operativas e inequívocas acompañadas de instrucción en [[ai-literacy|alfabetización en IA]]: contradicciones como prohibir el texto generado por IA y a la vez responsabilizar al estudiantado del contenido generado por IA que entrega dejan al estudiantado sin poder cumplir.
 - **Enseñar al profesorado a leer la investigación primaria que hay detrás de la política sobre IA.** Un curso de métodos de investigación de posgrado de seis semanas orientado al consumo y no a la producción de investigación: una docente aplicó el marco de evaluación crítica a un currículo impuesto por el distrito y presentó el análisis a su directora, y varias adoptaron el cuestionamiento socrático con su propio estudiantado ([[packard-thinking-partner-framework-adult-learners-2026|Packard et al. (2026)]]).
+
+## Concepciones erróneas
+
+- **«La aceptación de la IA entre el profesorado en formación es una sola actitud.»** Se perfilaron **128 futuros docentes** en cuatro grupos de aceptación de ChatGPT, incluidos los **escépticos resistentes (14,06%), que declararon una alta facilidad de uso percibida pero una intención conductual muy baja**. La facilidad de uso y la intención se separaron en ese grupo, así que una intervención centrada en la usabilidad los dejaría igual.
+- **«La IA ayuda al profesorado en formación sobre todo con el conocimiento del contenido.»** Una **revisión de alcance de 55 estudios** encuentra que la IA mejora el **diseño instruccional, la enseñanza de la materia y la práctica docente**: las capacidades de diseño y de práctica, no la experticia en el contenido.
+- **«Una revisión de alcance de 55 estudios establece un beneficio.»** Documenta lo que se informa en el campo. La amplitud de la mejora informada es una afirmación sobre el consenso de la literatura, y 55 estudios en una revisión de alcance no son un efecto agrupado.
 
 ## Conceptos conectados
 

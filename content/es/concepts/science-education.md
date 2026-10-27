@@ -6,9 +6,9 @@ technology: [generative-ai]
 discipline: [science education, stem education]
 confidence: medium
 created: "2026-09-28T21:09:18-04:00"
-updated: "2026-10-24T08:22:10-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 translation_of: concepts/science-education
-source_updated: "2026-10-23T22:38:41-04:00"
+source_updated: "2026-10-26T10:00:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -74,6 +74,12 @@ La preparación del profesorado es decisiva. [[pre-service-science-teachers-ai-p
 En un metaanálisis de 42 estudios sobre IA generativa y motivación, el efecto más pequeño por dominio de asignatura se dio en ciencias (g = 0,109, IC del 95% [−0,107; 0,325], k = 3), el único dominio cuyo intervalo cruzaba cero, así que la evidencia agrupada no respalda un argumento [[motivation|motivacional]] para la IA generativa específicamente en ciencias ([[genai-learning-motivation-meta-analysis-2026|Fang et al. (2026)]]).
 
 Como marco y no como estudio, [[zhai-science-literacy-generative-ai-coherence-2026|Zhai et al. (2026)]] reencuadran el objetivo: la alfabetización científica de la Visión I para la competencia en las carreras científicas, la Visión II para la ciencia en la vida cotidiana y cívica, y la Visión III para el conocimiento y la acción a escala comunitaria y societal. Sostienen que la [[generative-ai|IA generativa]] se gana su lugar en las aulas de ciencias solo cuando hace que el currículo, la instrucción y la evaluación sean coherentes con una de esas visiones, y que el problema persistente del campo son las pruebas que premian el recuerdo de terminología mientras los estándares piden explicación e indagación.
+
+## Concepciones erróneas
+
+- **«La IA en la educación científica no tiene evidencia causal.»** Una **evaluación aleatorizada de cuatro semanas** de una plataforma de revisión con IA en ciencias de GCSE ofrece una estimación causal de **g de Hedges = 0,33**, sin **evidencia de que el efecto difiriera por asignatura**. El efecto es modesto y es causal.
+- **«Basta con dar acceso al estudiantado para que lleguen las ganancias.»** **El acceso estructurado, y no el acceso en sí, impulsa la ganancia**: el crecimiento reportado por los equipos promedió el **17% con acceso individual ilimitado, pero el 34% y el 31% cuando el acceso estaba estructurado**. La estructura era la intervención.
+- **«La simulación científica exige software especializado.»** Un **prompt en lenguaje natural de cuatro elementos** puede generar una **simulación de física en realidad aumentada controlada con las manos**. La barrera para crear una simulación bajó al diseño del prompt, lo que desplaza la habilidad requerida de la programación a la especificación del fenómeno.
 
 ## Conceptos conectados
 

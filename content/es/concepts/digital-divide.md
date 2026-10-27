@@ -1,14 +1,14 @@
 ---
 title: Brecha digital
 created: "2026-09-28T21:03:34-04:00"
-updated: "2026-10-22T07:28:08-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, ai-guidance-children-under-13]
 type: concept
 foundations: [ai-education, ai-literacy]
 ethics: [accessibility, equity-in-ai-education]
 confidence: high
 translation_of: concepts/digital-divide
-source_updated: "2026-10-14T14:35:00-04:00"
+source_updated: "2026-10-26T13:35:09-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -81,6 +81,27 @@ La instrucción escolar estructurada en IA es un catalizador psicológico pero n
 ### Conexiones con conceptos relacionados
 
 La brecha digital es una preocupación central de la investigación sobre [[equity-in-ai-education|equidad en la educación con IA]], estrechamente ligada a la [[ai-literacy|alfabetización en IA]] (que se posiciona como un mecanismo central para abordar barreras estructurales) y a la [[ethics|ética]] y la [[bias-mitigation|mitigación de sesgos]] (ya que el sesgo algorítmico afecta de forma desproporcionada a grupos marginados). Se conecta con la [[ai-education|educación con IA]] y la [[higher-ed|educación superior]] como los entornos donde se manifiestan las brechas de acceso y capacidad, y se relaciona con la [[student-experience|experiencia del estudiantado]] en la medida en que determina quién puede participar de forma significativa en un aprendizaje configurado por la IA.
+
+## Concepciones erróneas
+
+- **«El acceso a la herramienta es la brecha.»** El acceso es la primera capa y la literatura ya la ha superado. **La habilidad para formular el prompt es una brecha de segundo nivel en sí misma**: en MedQA, la precisión aumentó con la sofisticación del prompt, del **82,4% con una redacción de baja alfabetización al 83,4% con una formulación experta**, lo que significa que dos estudiantes con acceso idéntico obtienen distinta calidad del mismo modelo porque uno sabe cómo preguntar. Una capa de reescritura de prompts redujo la diferencia: la brecha está en la interfaz y en la fluidez de la persona usuaria, no solo en la suscripción.
+- **«Si funciona en un navegador, está disponible.»** La mayoría de las herramientas de clase basadas en LLM dan por supuesto **audio en inglés de un solo idioma e internet fiable**, lo que excluye justamente a las aulas que mezclan el inglés con una lengua familiar. Los datos UDISE+ de la India situaban el acceso a internet en las escuelas muy por debajo del nivel que ese supuesto exige. Una herramienta construida sobre una infraestructura presupuesta excluye en silencio los entornos con mayor necesidad.
+- **«La alfabetización digital y el uso de la IA son la misma variable mediadora.»** Un estudio con **4.497 estudiantes de sexto grado** en los Países Bajos separó **dos vías mediadoras distintas** —el uso de la IA y la alfabetización digital— que vinculan el origen y la personalidad con las ganancias de aprendizaje. No son intercambiables, y las intervenciones que elevan una no elevan automáticamente la otra.
+- **«Las simulaciones eliminan la barrera del coste.»** Una revisión sistemática de **11 estudios de gemelos digitales** en la educación superior STEM encontró costes de hardware de **2.000 a 15.000 dólares** por instalación. Un laboratorio simulado puede reproducir la factura de equipamiento que pretendía evitar, así que el argumento del coste para la provisión virtual hay que comprobarlo, no darlo por hecho.
+
+## Qué significa esto para la práctica
+
+**Para el profesorado**
+
+- Enseñar a formular prompts como una alfabetización, no como un truco opcional. Una diferencia de 1 punto en la precisión entre una redacción de baja alfabetización y una experta es pequeña por sí sola, pero el mismo mecanismo se acumula en cada tarea que emprende el estudiantado.
+- Comprobar los supuestos de idioma y conectividad de cualquier herramienta antes de asignarla. El audio en inglés de un solo idioma excluye a las aulas bilingües con independencia del acceso a dispositivos.
+- Distinguir qué vía se está abordando realmente. Elevar el uso de la IA y elevar la alfabetización digital son intervenciones distintas con resultados distintos.
+
+**Para la administración y quienes desarrollan**
+
+- No tratar la distribución de dispositivos como cierre de la brecha. Las brechas medibles están en la habilidad de formulación, el idioma de la interfaz y la conectividad, y ninguna se resuelve con hardware.
+- Publicar la infraestructura que una herramienta presupone. Un requisito declarado con claridad permite a un entorno con pocos recursos juzgar la idoneidad antes de invertir.
+- Calcular el coste del despliegue completo, no el de la licencia del software. La evidencia de los gemelos digitales muestra que la factura del hardware puede sobrevivir a la virtualización.
 
 ## Conceptos conectados
 

@@ -1,7 +1,7 @@
 ---
 title: Equidad
 created: "2026-09-25T03:07:36-04:00"
-updated: "2026-10-22T09:13:53-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 type: concept
 foundations: [ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring]
@@ -12,7 +12,7 @@ level: [higher ed, k 12]
 confidence: high
 connected_faqs: [research-gaps-aied, designing-educational-ai-software, equity-ethics-pedagogical-safety-research, how-ai-impacts-students, ai-guidance-children-under-13, ai-disabled-neurodivergent-learners]
 translation_of: concepts/equity-in-ai-education
-source_updated: "2026-10-18T13:41:09-04:00"
+source_updated: "2026-10-26T13:35:09-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -71,6 +71,7 @@ La preparación importa más que la preferencia, y el derecho a rechazar se dist
 - **Conocimientos marginados:** [[genai-minoritized-knowledges-disability|la investigación sobre conocimientos minorizados]] examina cómo la IA generativa margina los sistemas de conocimiento no dominantes y las perspectivas de la discapacidad en la [[higher-ed|educación superior]].
 - **Diversificación del [[curriculum-design|currículo]]:** el profesorado usa cada vez más los LLM para diversificar los materiales curriculares (Wang et al., 2025, encontraron que el 78% lo hacía), pero las listas de lectura seleccionadas con IA siguen infrarrepresentando a autores BIPOC, y los [[intelligent-tutoring|tutores de IA]] de [[stem-education|STEM]] recurren por defecto a contextos de problemas occidentalocéntricos.
 - **Las imágenes generadas repiten las normas visuales dominantes, lo que convierte el uso crítico en una competencia y no en un añadido.** Jiang et al. (2026) observan que la generación de imágenes con IA generativa reproduce normas multimodales dominantes como el sesgo visual, y advierten de que una evaluación multimodal que lo ignore corre el riesgo de automatizar y reproducir desigualdades; su marco para el profesorado de segundas lenguas exige por ello la competencia de ayudar al estudiantado a detectar, evaluar y contraargumentar las salidas sesgadas del modelo ([[multimodal-assessment-literacy-l2-teachers-genai-2026|Jiang et al., 2026]]).
+- **La representación se aplica a la evidencia, y no solo a quien aprende.** [[bulut-technology-supported-formative-assessment-2026|Bulut (2026)]] sostiene que la equidad en la evaluación apoyada por tecnología abarca la transferibilidad contextual del conocimiento que sustenta un diseño, de modo que un sistema validado en entornos bien dotados arrastra supuestos no comprobados en otros lugares.
 
 ## Equidad de resultados
 
@@ -131,6 +132,12 @@ En una revisión de alcance de 394 estudios sobre IA generativa en la educación
 - **Política y gobernanza:** la política institucional sobre IA ([[educational-policy-ai|política educativa sobre IA]], [[governance|gobernanza]]) debe incorporar la equidad como principio rector.
 
 La equidad tiene también una dimensión ambiental y computacional: el acceso desigual a modelos computacionalmente intensivos puede ampliar las disparidades entre estudiantes y entre instituciones bien y mal dotadas, y el consumo energético sustancial y la huella de carbono del despliegue de modelos grandes chocan con los objetivos de sostenibilidad de la educación superior ([[large-language-models-teaching-learning-higher-ed|Li et al. (2026)]]).
+
+## Concepciones erróneas
+
+- **«El problema de equidad es el acceso a las herramientas.»** **La calidad de la herramienta forma parte de la brecha, y no solo el acceso a ella**: [[canonigo-teacher-mediation-generative-ai-mathematics-2026|Canonigo (2026)]] envió **50 tareas de matemáticas** y encontró diferencias de calidad que siguen a la herramienta y no a quien la usa.
+- **«La tutoría híbrida humano-IA no puede reducir las brechas.»** **La tutoría humano-IA diferenciada es prueba de que los modelos híbridos pueden reducir las brechas, cuando la asignación sigue la necesidad.** Un estudio de diferencias en discontinuidades (**635** participantes) encontró que la tutoría proactiva mostró un **crecimiento medio marginalmente mayor (75%, p = 0,065) concentrado entre el estudiantado más alejado del punto de corte**. La ganancia se concentró donde la necesidad era mayor.
+- **«Un efecto medio indica si la equidad mejoró.»** La idea es que la **regla de asignación** determinó el resultado de equidad: una intervención que ayuda a todos por igual deja las brechas intactas, y una que ayuda en proporción a la necesidad las reduce.
 
 ## Conceptos conectados
 

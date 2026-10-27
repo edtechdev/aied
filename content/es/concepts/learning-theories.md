@@ -1,7 +1,7 @@
 ---
 title: Teorías del aprendizaje
 created: "2026-09-28T19:11:03-04:00"
-updated: "2026-10-02T21:24:48-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 type: concept
 foundations: [learning-design]
 pedagogy: [behaviorism, learning-theories, metacognition, self-regulated-learning]
@@ -10,7 +10,7 @@ level: [higher ed]
 confidence: high
 connected_faqs: [research-gaps-aied]
 translation_of: concepts/learning-theories
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-25T23:15:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -86,6 +86,32 @@ Las teorías del aprendizaje también aparecen como contenido en los currículos
 Junto a las familias clásicas, la base de conocimiento documenta teorías escritas específicamente para el aprendizaje con sistemas de IA, y estas aportan las implicaciones de diseño que las teorías más antiguas dejan abiertas. El [[yan-agentivism-learning-theory-ai-2026|agentivismo (Yan y Gašević 2026)]] es un ejemplo de alcance medio: define el aprendizaje como un crecimiento duradero de la capacidad humana y no como la mera finalización exitosa de una tarea, nombra cuatro mecanismos (agencia delegada, supervisión y verificación epistémicas, internalización reconstructiva y transferencia con apoyo reducido) y enuncia seis proposiciones contrastables, entre ellas que el apoyo de IA que preserva la responsabilidad de quien aprende sobre el planteamiento del problema, el establecimiento de criterios y la justificación produce un aprendizaje más sólido que el apoyo que entrega respuestas.
 
 [[elsayed-pedagogical-symbiosis-posthuman-learner|Elsayed (2026)]] propone una **Simbiosis Pedagógica** con una afirmación ontológica más fuerte: quien aprende es una entidad *posthumana* cuya cognición es híbrida en lugar de asistida por herramientas, organizada según cuatro principios: delegación cognitiva y aumento, coconstrucción epistémica, simbiosis metacognitiva y formación dinámica de la identidad; se operacionaliza mediante una rúbrica de Portafolio Simbiótico y un rol docente de «Coreógrafo Cognitivo»; es explícitamente no probada.
+
+## Concepciones erróneas
+
+**«Una de las teorías del aprendizaje es la correcta, así que elegir teoría es cuestión de gusto.»** Las teorías hacen afirmaciones distintas sobre qué cuenta como evidencia, así que los mismos datos pueden sostener conclusiones opuestas. El caso más claro: unas notas de deberes infladas se leen como **aprendizaje bajo el conductismo** y como **un fallo en construir comprensión duradera bajo el constructivismo**. La elección de teoría determina por tanto si una intervención tuvo éxito, lo que la convierte en una decisión de medición y no en una preferencia estilística.
+
+**«Una herramienta que apoya el aprendizaje profundo se verá como aprendizaje profundo bajo cualquier marco.»** Se verá como éxito bajo uno y como fracaso bajo otro, como en el caso anterior. Por eso las medidas de resultado del campo necesitan justificarse frente a una teoría declarada en lugar de tomarse prestadas como si fueran neutras.
+
+**«Más teorías significan un campo mejor comprendido.»** La acumulación sin adjudicación es lo contrario del progreso. Las teorías propuestas para la era de la IA se multiplican más rápido de lo que se ponen a prueba, y la señal de madurez es que se resuelvan predicciones rivales, lo que exige diseños capaces de distinguirlas y no catálogos que las acomoden.
+
+**«La educación sobre la IA es lo mismo que la IA en la educación, en términos teóricos.»** Se apoyan en líneas distintas: una pregunta cómo llega quien aprende a entender la IA como materia, la otra cómo la IA cambia la forma en que ocurre el aprendizaje. Confundirlas produce revisiones de literatura que mezclan dos bases de evidencia distintas y no reportan un cuadro coherente de ninguna de las dos.
+
+## Implicaciones para la práctica
+
+**Para el profesorado**
+
+- Elija la teoría por lo que necesita que haga: explicar cómo ocurre el aprendizaje, describir el estado de quien aprende o explicar por qué se difunde una práctica. Aplicar la capa equivocada mide la variable correcta contra la predicción equivocada.
+- Declare explícitamente el compromiso teórico de su medida de resultado, ya que unas notas de deberes infladas se leen como éxito bajo el conductismo y como fracaso bajo el constructivismo a partir de datos idénticos.
+- Cuando un marco no puede predecir una diferencia entre configuraciones, no puede ponerse a prueba en su contexto y no le ayudará a decidir.
+
+**Para quienes desarrollan**
+
+- Publique la teoría que encarna su sistema y la predicción que lo falsificaría; «fundamentado en el constructivismo» sin una diferencia falsable es una afirmación sin contenido.
+
+**Para quienes investigan**
+
+- Diseñe para la adjudicación entre teorías y no para la acumulación de marcos. La madurez se muestra como predicciones rivales resueltas, no como crecimiento de vocabulario.
 
 ## Conceptos conectados
 

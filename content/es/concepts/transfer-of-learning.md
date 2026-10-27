@@ -1,7 +1,7 @@
 ---
 title: "Transferencia del aprendizaje"
 created: "2026-09-28T20:20:21-04:00"
-updated: "2026-10-02T23:51:29-04:00"
+updated: "2026-10-26T22:06:46-04:00"
 type: concept
 foundations: [cognitive-offloading]
 pedagogy: [desirable-difficulties, metacognition, scaffolding, transfer-of-learning]
@@ -9,7 +9,7 @@ technology: [intelligent-tutoring]
 level: [k 12]
 confidence: high
 translation_of: concepts/transfer-of-learning
-source_updated: "2026-10-01T09:59:06-04:00"
+source_updated: "2026-10-25T22:20:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -99,6 +99,16 @@ Esto se alinea con la investigación sobre [[intelligent-tutoring|tutoría con I
 ### Conexiones con conceptos relacionados
 
 La transferencia del aprendizaje conecta con la [[metacognition|metacognición]] (automonitorización de la comprensión), la teoría de la carga cognitiva (carga pertinente frente a extrínseca), las [[desirable-difficulties|dificultades deseables]] (esfuerzo productivo), el [[scaffolding|andamiaje]] (retirada progresiva del apoyo), la [[cognitive-offloading|dependencia excesiva]] (dependencia de la herramienta) y el [[sociocultural-learning|aprendizaje sociocultural]] (la IA de propósito general opera fuera de la ZDP al completar el trabajo por el estudiantado). Es el puente entre el desempeño asistido y el aprendizaje genuino: la distinción que representa [[stanford-evidence-base-ai-k12-2026]] y la pregunta central para la eficacia de la [[intelligent-tutoring|tutoría con IA]].
+
+## Concepciones erróneas
+
+**«Las ganancias en tareas asistidas por IA demuestran un aprendizaje transferible.»** El patrón que encuentra el corpus es el contrario: **los cinco estudios** de la síntesis que aquí se reseña muestran **transferencia negativa o nula** cuando la intervención es IA de propósito general —estudiantado de matemáticas de secundaria con mejores calificaciones de práctica que obtuvo **alrededor de un 17% peor** resultado en los exámenes finales sin material, y un estudio de escritura de ensayos en el que **el 83% no logró recordar sus propias citas**. El desempeño asistido inmediato es la medida menos transferible de la que se dispone.
+
+**«Si un estudiante puede hacerlo con la IA, puede hacerlo.»** Esa es la definición del fracaso y no su ausencia. La transferencia exige que la capacidad sobreviva a la retirada del apoyo, y los estudios que prueban esa retirada encuentran que la capacidad estaba en la herramienta. Quien puede producir un artefacto mientras el razonamiento se realiza en otro lugar ha sido entrenado en una habilidad distinta: operar la herramienta.
+
+**«La transferencia proviene de modelos más capaces.»** La transferencia proviene de las condiciones que la producen: la generalidad de la práctica, la variabilidad de los contextos y la medida en que quien aprende generó el razonamiento por sí mismo. La capacidad del modelo eleva el techo del desempeño asistido y no hace nada en particular por lo que queda cuando el modelo ya no está.
+
+**«La guía siempre favorece la transferencia, así que cuanta más guía, mejor.»** La guía que realiza el razonamiento sustituye al proceso del que depende la transferencia. La distinción está entre la ayuda que mantiene a quien aprende generando el paso siguiente y la ayuda que lo genera por esa persona, y solo la primera queda del lado de la transferencia en esa línea.
 
 ## Conceptos conectados
 

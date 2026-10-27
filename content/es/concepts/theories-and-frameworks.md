@@ -1,7 +1,7 @@
 ---
 title: Teorías y marcos
 created: "2026-09-28T18:22:10-04:00"
-updated: "2026-10-24T08:21:10-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 type: concept
 foundations: [ai-education, theory-development-aied, philosophy-of-ai-in-education]
 pedagogy: [learning-theories]
@@ -9,7 +9,7 @@ assessment: [assessment-validity, item-response-theory]
 methods: [research-methods-aied]
 confidence: high
 translation_of: concepts/theories-and-frameworks
-source_updated: "2026-10-23T09:49:58-04:00"
+source_updated: "2026-10-25T18:35:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -116,6 +116,16 @@ Dos páginas vecinas tratan deliberadamente de otra cosa. La [[philosophy-of-ai-
 Los marcos no son evidencia. Suelen tomarse prestados de contextos anteriores a los LLM y los localiza quien los aplica, pueden funcionar como marca, y los modelos por etapas invitan a una adopción mecánica que informa de un avance por niveles en lugar de aprendizaje. Las afirmaciones que se apoyan en un marco deben leerse junto a [[limitations-in-aied-research|las limitaciones transversales del campo]], la [[assessment-validity|validez]] de lo que haya medido el resultado y los límites conocidos del [[self-report-measures|autoinforme]].
 
 La alineación entre mecanismo y teoría puede ser, aun así, decisiva: una síntesis temática de 55 estudios sobre aprendizaje basado en juegos apoyado por IA encontró que la eficacia dependía de si el mecanismo de IA ponía en acto la pedagogía a la que debía servir, y no de la sofisticación algorítmica ([[ai-game-based-learning-systematic-review-2026|Kaşarcı y Yurt (2026)]]).
+
+## Concepciones erróneas
+
+**«Aplicar una teoría prestada a una herramienta de IA es usar teoría.»** Gran parte de este campo aplica teoría prestada en lugar de ponerla a prueba, y la diferencia está en si el marco hizo una predicción que podía haber fallado. Cuando un estudio informa de una ganancia bajo el estandarte de un marco sin comprometerse con ninguna predicción falsable, no se ha aprendido nada sobre el marco: un resultado consistente con todas las teorías del catálogo no es evidencia de ninguna.
+
+**«El valor de un marco es lo bien que describe un sistema que ya ha construido.»** Eso es etiquetado a posteriori. Una taxonomía que acomoda cualquier diseño no tiene poder discriminante, y por eso los marcos descriptivos deben juzgarse por lo que excluyen. La pregunta de evaluación no es «¿encaja mi sistema en esto?» sino «¿qué tipo de sistema diría este marco que está mal?».
+
+**«Las teorías del aprendizaje, los modelos de quien aprende y los marcos de adopción son lentes intercambiables.»** Responden a preguntas distintas —cómo ocurre el aprendizaje, cuál es el estado de quien aprende y por qué se difunde una práctica— y sus tipos de evidencia difieren en consecuencia. Elegir la capa equivocada produce un estudio que mide la variable correcta contra la predicción equivocada, lo que se lee como un resultado nulo cuando es un error de categoría.
+
+**«Más marcos significan un campo más maduro.»** Los marcos acuñados para la era de la IA se acumulan más rápido de lo que se prueban, y la acumulación sin falsación es un síntoma y no un progreso. La madurez se manifiesta en predicciones rivales que se resuelven, no en el crecimiento del vocabulario.
 
 ## Conceptos conectados
 

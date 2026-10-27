@@ -1,13 +1,14 @@
 ---
 title: Aprendizaje basado en proyectos
 created: "2026-09-28T18:15:22-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 type: concept
 pedagogy: [active-learning, collaborative-learning, project-based-learning]
 technology: [educational-robotics]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/project-based-learning
-source_updated: "2026-10-13T11:05:00-04:00"
+source_updated: "2026-10-26T06:45:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -63,6 +64,27 @@ El ABP se conecta con el [[active-learning|aprendizaje activo]], el [[experienti
 ### El ABP con narración digital en la era de la IA
 
 - El aprendizaje basado en proyectos combinado con la [[storytelling-in-education|narración digital]] ofrece una respuesta pedagógica a la [[generative-ai|IA generativa]] en la educación en arte y diseño. Un estudio de caso integrado de 15 semanas con 426 estudiantes de grado implementó un marco ABP-ND en el que la narración digital sirvió como metodología principal para que el estudiantado tradujera el patrimonio cultural local a narrativas [[multimodal|multimodales]] emocionalmente resonantes, cultivando las capacidades creativas de las que carece la IA.
+
+## Concepciones erróneas
+
+- **«El efecto del ABP es grande, así que el ABP con IA es fiablemente grande.»** El único metaanálisis de tres niveles de este emparejamiento agrupa **22 estudios controlados (66 tamaños del efecto)** y estima un efecto grande, **g = 0,819, IC del 95% [0,655, 0,983]**, pero una corrección PET-PEESE lo reduce, y la estimación describe los estudios agrupados y no el diseño en general.
+- **«Personalizar la herramienta mejora el resultado.»** El tipo de herramienta moderó el efecto de forma significativa (**QM = 14,301, p < 0,001**), y la dirección es contraintuitiva: un **chatbot general usado directamente agrupó más alto (g = 0,970)** que los sistemas **personalizados e integrados en plataformas de curso, pacientes virtuales o agentes (g = 0,455)**. La herramienta desnuda superó a la diseñada, lo que va en contra de suponer que los productos hechos a propósito son la mejor compra.
+- **«Lo difícil para el estudiantado es la apertura.»** En los datos de percepción del estudiantado, **la apertura fue el tema positivo principal (22,3%)** mientras que **las instrucciones poco claras encabezaron los negativos (23,7%)**. El estudiantado agradeció la libertad y objetó la ambigüedad, una distinción que importa porque la solución es distinta: un encuadre de la tarea más claro, no menos trabajo abierto.
+- **«Quienes disfrutaron aprendieron más.»** El aprendizaje percibido se correlacionó con las puntuaciones de los cuestionarios solo de forma **modesta (r = 0,161-0,315)**. La satisfacción y el aprendizaje medido se relacionan débilmente aquí, así que una evaluación positiva del ABP no es por sí misma evidencia de que se alcanzaran los objetivos de aprendizaje.
+
+## Implicaciones para la práctica
+
+**Para el profesorado**
+
+- Redacte el encuadre de la tarea antes de elegir la herramienta. La apertura fue el tema positivo principal (22,3%) y las instrucciones poco claras el negativo principal (23,7%), así que la ambigüedad es donde el ABP con IA falla de verdad.
+- Puntúe el aprendizaje por separado de la satisfacción. El aprendizaje percibido se correlacionó con las puntuaciones de los cuestionarios solo en r = 0,161-0,315, así que una cohorte contenta no es un resultado medido.
+- Considere el chatbot general antes que la plataforma personalizada. Un chatbot general usado directamente agrupó más alto (g = 0,970) que los sistemas personalizados e integrados en plataformas de curso, pacientes virtuales o agentes (g = 0,455).
+- Trate g = 0,819 como un límite superior. Una corrección PET-PEESE lo reduce, y 22 estudios con 66 tamaños del efecto son una base estrecha para una afirmación de diseño.
+
+**Para quienes desarrollan**
+
+- El hallazgo de moderación es una advertencia de producto: integrar un chatbot en un entorno hecho a medida coincidió con un efecto agrupado *menor*. Valide que la personalización añade valor de aprendizaje y no solo comodidad supuesta.
+- Si publica un módulo de ABP, la capa de instrucción es la función que se gana el resultado, no el modelo.
 
 ## Conceptos conectados
 

@@ -2,7 +2,7 @@
 connected_resources: [vibes-diy]
 title: "Pensamiento de diseño"
 created: "2026-09-28T20:20:21-04:00"
-updated: "2026-10-02T21:33:38-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 type: concept
 foundations: [ai-education]
 technology: [generative-ai]
@@ -10,7 +10,7 @@ audience: [learners]
 level: [higher ed]
 confidence: low
 translation_of: concepts/design-thinking
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-25T21:20:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -54,6 +54,16 @@ Para el personal docente, la evidencia reunida aconseja no optar ni por la restr
 ## Conexiones con conceptos relacionados
 
 El pensamiento de diseño en la educación con IA está profundamente entrelazado con [[human-ai-collaboration|la colaboración entre personas y IA]]: las herramientas generativas amplían la ideación mientras las personas conservan la autoridad epistémica y [[agency|la agencia]]. Depende del [[scaffolding|andamiaje]] y de una [[feedback|retroalimentación]] adecuada a cada etapa para ser eficaz, a menudo se vehicula mediante interacciones [[socratic-method|socráticas]] y adversarias en [[higher-ed|la educación superior]] y en [[k-12|K-12]], y su éxito se enmarca con frecuencia como la preservación de [[creativity|la creatividad]] y el fomento de [[ai-literacy|la alfabetización en IA]] bajo la gobernanza de [[human-in-the-loop-ai|la IA con intervención humana]].
+
+## Concepciones erróneas
+
+**«La IA generativa acelera el pensamiento de diseño en todas sus etapas.»** Acelera la ideación y puede degradar el juicio del que dependen las etapas posteriores: **destaca en la ideación temprana, pero puede provocar fijación en el diseño o bloqueo estético si se usa sin criterio**. La fijación es el riesgo específico de una herramienta de ideación rápida: la primera dirección plausible se convierte en el marco, y un gran conjunto de variaciones sobre un mismo concepto no es un espacio de búsqueda más amplio.
+
+**«Más opciones generadas significan una exploración más amplia.»** La amplitud de la salida y la amplitud de la consideración son cantidades distintas. Quien genera treinta direcciones y adopta la primera que le convence ha explorado una sola dirección, y las altas tasas de aceptación son la firma de exactamente eso.
+
+**«El pensamiento de diseño es un proceso que se automatiza etapa por etapa.»** Es una disciplina de enmarcar y reencuadrar problemas, que es justo lo que la fijación clausura. Automatizar las etapas dejando el marco sin examinar produce una salida competente para el problema equivocado.
+
+**«Los agentes de IA que dan la razón al estudiantado apoyan su razonamiento de diseño.»** El uso productivo que se documenta aquí va en la dirección contraria: [[ai-agents-constructive-conflict-design-education-2026|los conflictos constructivos con agentes de IA]] ponen a prueba el prompting adversario que fuerza la reconsideración. Un agente complaciente refuerza la fijación; uno orientado al disenso es el diseño que tiene una pretensión educativa detrás.
 
 ## Conceptos conectados
 - [[ai-education]]

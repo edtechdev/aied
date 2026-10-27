@@ -1,7 +1,7 @@
 ---
 title: Enseñanza y aprendizaje en línea
 created: "2026-09-28T18:18:41-04:00"
-updated: "2026-10-22T07:31:04-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, learning-design]
 pedagogy: [online-teaching-and-learning, pedagogy]
@@ -11,7 +11,7 @@ confidence: high
 connected_resources: [claw-ed, id-toolbox, liascript]
 connected_faqs: [asynchronous-online-courses-ai]
 translation_of: concepts/online-teaching-and-learning
-source_updated: "2026-10-16T19:45:37-04:00"
+source_updated: "2026-10-25T18:35:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -129,6 +129,16 @@ Cualquiera que sea la combinación que elija el profesorado, una restricción de
 - **Mantener la verificación proporcionada al riesgo.** Donde deba certificarse una competencia, preferir una tarea gemela, una defensa oral asíncrona o una breve comprobación de comprensión antes que una vigilancia generalizada; mantener el resto del curso flexible para el estudiantado que depende de esa flexibilidad.
 - **Usar la analítica para apoyar la enseñanza, no para sustituirla.** Aprovechar la [[learning-analytics|analítica del aprendizaje]] para pronosticar la implicación y dirigir el apoyo, pero mantener la [[human-in-the-loop-ai|supervisión humana]] en el centro.
 
+## Concepciones erróneas
+
+**«La enseñanza en línea es la enseñanza presencial a través de una pantalla.»** Es un entorno pedagógico distinto, y la IA incide en él de forma diferente. El TPACK autodeclarado para la enseñanza de ciencias integrada con IA era mayor entre el profesorado en formación de último año de una universidad presencial (**64,0%**) que en una universidad de educación a distancia (**47,4%**), y en ambos contextos el dominio más débil era el pedagógico. El contexto a distancia agrava una brecha de preparación que ya existía en lugar de recibir el mismo apoyo.
+
+**«Añadir un asistente de IA a un curso aumenta la implicación.»** La implicación depende de que el asistente esté diseñado para ese fin y dentro del entorno. El asistente AIDA de la Open University elevó la implicación —duplicó el tiempo de uso en un ensayo exploratorio— y esa condición de diseño es el hallazgo: la misma capacidad añadida como herramienta externa no recluta la misma conducta. Un enlace genérico a un chatbot en el aula virtual no es la intervención que se estudió.
+
+**«La IA eleva el rendimiento, así que eleva el aprendizaje.»** En contextos en línea la divergencia es la misma que en las aulas: un [[rct]] encontró que la asistencia de IA sin salvaguardas elevó el rendimiento en la práctica pero *redujo* las puntuaciones en los exámenes sin asistencia, mientras que un tutor de «pista, no respuesta» eliminó el daño. Los cursos en línea dependen más de la evaluación asíncrona, así que la brecha entre el rendimiento asistido y el no asistido es donde se gana o se pierde la validez.
+
+**«La validez de la evaluación es una cuestión de política de calificación.»** Es una cuestión de diseño que crea el medio: cuando una entrega puede producirse sin que quien aprende esté presente, la validez depende de que la tarea produzca evidencia de que fue esa persona quien la hizo. Rediseñar la tarea lo resuelve; endurecer la sanción por mala conducta no.
+
 ## Conceptos conectados
 - [[pedagogical-patterns]] — El contexto que hace que la secuenciación sea determinante, ya que el sistema no puede ver un intento
 - [[assessment-validity]] — validez de la inferencia del trabajo entregado al aprendizaje
@@ -176,7 +186,7 @@ Cualquiera que sea la combinación que elija el profesorado, una restricción de
 - [[conversational-ai-tutors-framework]] — El camino hacia los tutores de IA conversacional
 - [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of]] — Implementar AIDA en la Open University
 - [[ai-adult-learning-guidelines-dis2026]] — Directrices para diseñar tecnologías de IA que apoyen el aprendizaje adulto
-- [[deeptutor]] — DeepTutor: hacia una tutoría personalizada agéntica
+- [[zhao-deeptutor-agentic-personalized-tutoring-2026]] — DeepTutor: hacia una tutoría personalizada agéntica
 - [[mejia-domenzain-ml-findings-teachers-blended-2026]] — Hacer accesibles al profesorado los hallazgos de aprendizaje automático en aulas mixtas
 - [[zhang-ml-student-progress-programming-2026]]
 - [[personalized-ai-generated-videos-preference-2026]] — El estudiantado prefiere vídeos personalizados generados por IA a otros grabados por personas y no personalizados (Tomlinson et al. 2026)

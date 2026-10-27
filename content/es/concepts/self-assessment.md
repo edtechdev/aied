@@ -1,7 +1,7 @@
 ---
 title: Autoevaluación
 created: "2026-09-28T20:10:38-04:00"
-updated: "2026-10-02T21:40:10-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [metacognition, self-regulated-learning, scaffolding]
@@ -12,7 +12,7 @@ level: [higher ed]
 connected_faqs: [ai-feedback-at-scale, redesign-assessment-ai-era, addressing-common-misconceptions-ai-education]
 confidence: high
 translation_of: concepts/self-assessment
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-25T22:20:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -96,6 +96,16 @@ También introduce un riesgo de denominación que conviene enunciar con claridad
 - **Use el autoinforme donde sea honesto.** La confianza, la competencia percibida y la disposición a declarar el uso de IA son cosas legítimas que medir preguntando. El logro no lo es.
 - **Pida juicio, no opinión.** La autoevaluación de la era de la IA más defendible pide a un estudiante que valore una pieza concreta de trabajo con arreglo a criterios y justifique su valoración, lo que es entrenable, inspeccionable y está conectado con el [[evaluative-judgment|juicio evaluativo]].
 - **Vigile el efecto de cohorte.** Para el estudiantado cuyos años formativos incluyeron un uso sustitutivo de la IA, una autoestimación exacta puede estar no disponible en lugar de ser meramente optimista, lo que desplaza la tarea instruccional de corregir el exceso de confianza a reconstruir el registro experiencial que necesita.
+
+## Concepciones erróneas comunes
+
+**«Un autoinforme mide la habilidad que nombra.»** Mide una creencia sobre la habilidad, y ambas se separan mucho. En un estudio con **288 docentes de K-12**, la [[ai-literacy|alfabetización en IA]] autoinformada correlacionaba con una medida objetiva de la misma habilidad solo entre **r = 0,07 y r = 0,24**, un rango en el que el autoinforme explica casi nada de la varianza en la capacidad. El autoinforme sirve como medida de percepción y no como proxy de la competencia.
+
+**«El estudiantado puede juzgar su propio aprendizaje con exactitud.»** La exactitud del autojuicio es en sí misma una habilidad, y la evidencia sobre la calibración apunta en la dirección contraria: en una comparación experimental, la formación explícita en andamiaje centrado en el razonamiento produjo una mejor calibración de la autoevaluación que el acceso sin restricciones, lo que significa que la calibración mejora con la instrucción en lugar de estar disponible por defecto.
+
+**«Añadir un bucle de retroalimentación con IA mejora la autoevaluación automáticamente.»** Un bucle de retroalimentación cambia aquello con lo que se compara el estudiantado, lo que puede mejorar la calibración y también anclarlo al juicio del sistema. El estudio comparativo que se cita aquí (**118 estudiantes de primer año de grado, 56 en un grupo de IA generativa y 62 en un grupo de pares**, tres ciclos a lo largo de un semestre) está diseñado precisamente para probar si el trabajo lo hace el bucle o la comparación social, y la respuesta no es «el bucle, por ser un bucle».
+
+**«La autoevaluación es una alternativa más blanda a los exámenes.»** Es un objetivo distinto. La autoevaluación desarrolla la habilidad reguladora de juzgar el propio trabajo; un examen mide la capacidad que se está juzgando. La investigación que sustituye una por otro confunde la capacidad de evaluar el desempeño con el desempeño mismo.
 
 ## Conceptos conectados
 

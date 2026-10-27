@@ -1,7 +1,7 @@
 ---
 title: Administradores
 created: "2026-09-28T19:10:33-04:00"
-updated: "2026-10-22T07:28:42-04:00"
+updated: "2026-10-26T21:37:14-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [scaffolding]
@@ -13,7 +13,7 @@ level: [higher ed]
 confidence: medium
 institutions: [educational-policy-ai]
 translation_of: concepts/administrator
-source_updated: "2026-10-16T08:47:09-04:00"
+source_updated: "2026-10-26T06:20:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -56,6 +56,20 @@ La adopción de la IA en la educación no es una decisión puramente de aula; ta
 
 La perspectiva del administrador conecta con la [[educational-policy-ai|política educativa sobre IA]] (formación de políticas), la [[governance|gobernanza]] y la [[regulation|regulación]] (gobernanza), la [[edtech-platform|plataforma de tecnología educativa]] (compras e infraestructura), la [[learning-analytics|analítica del aprendizaje]] (datos institucionales) y la [[higher-ed|educación superior]]. Las decisiones de los administradores habilitan o limitan el trabajo de [[educational-development|desarrollo educativo]], [[teacher-role|rol docente]] y [[ai-literacy|alfabetización en IA]] que se trata en otros lugares de la base de conocimiento.
 
+## Concepciones erróneas
+
+- **«Una prioridad estratégica implica capacidad estratégica.»** [[baroudi-anticipatory-governance-ai-higher-ed-2026|Baroudi (2026)]] encontró que solo el **7% de las instituciones había creado roles de liderazgo sénior en IA**, aunque el **49% trataba la IA como una prioridad estratégica**. La brecha no es indiferencia: es que se ha declarado la intención mientras no se ha financiado la estructura que la sostendría. Leer una estrategia de IA publicada como evidencia de preparación institucional sobrestima lo que existe.
+- **«Las cifras de adopción miden la preparación.»** El uso declarado y el uso gobernado son cantidades distintas, y la evidencia de esta página las separa: las instituciones declaran intención estratégica en torno a la mitad de la población y capacidad de liderazgo por debajo de una décima parte. Una encuesta que muestra que el personal usa IA le dice lo que las personas ya han hecho sin permiso, no lo que la institución puede apoyar o supervisar.
+- **«Las compras son un trámite administrativo.»** Cuando la capacidad se compra en lugar de construirse, los términos contractuales deciden lo que será posible después: la propiedad de los datos, el acceso a auditorías y si la herramienta puede evaluarse siquiera. Una decisión sobre un proveedor tomada como una tarea de compras cierra preguntas de evaluación que la institución todavía no se ha planteado.
+- **«La gobernanza puede ir detrás de la adopción.»** La afirmación sobre la secuencia es habitual y aquí no está respaldada: la evidencia documenta el patrón contrario, con las estructuras de política y de liderazgo por detrás de un uso que ya está ocurriendo. Una gobernanza planteada como algo que se construye después del despliegue es una gobernanza construida desde una posición con menos margen de maniobra.
+## Qué significa esto para la práctica
+
+**Para quienes administran**
+
+- Presupueste el rol de liderazgo, no solo el documento de estrategia. Cuando el 49% declara la IA como prioridad y el 7% crea roles sénior, la restricción vinculante es la asignación y no la convicción.
+- Pregunte sobre qué podrá evaluarse una herramienta antes de firmar. Si el contrato no permite acceder a los resultados, a los datos de auditoría o al detalle de uso, la institución ha comprado una capacidad que no puede valorar.
+- Encueste el uso real y no el autorizado, porque ambos divergen y la cifra no autorizada es la que conlleva el riesgo al que ya está expuesta.
+- Secuencie la política por delante del despliegue donde todavía exista margen. Una vez que el uso está extendido, la política se convierte en una negociación con una práctica ya asentada.
 ## Conceptos conectados
 
 - [[educational-policy-ai]]

@@ -1,7 +1,7 @@
 ---
 title: Dificultades deseables
 created: "2026-09-28T21:03:34-04:00"
-updated: "2026-10-22T09:13:53-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 type: concept
 foundations: [cognitive-offloading]
 pedagogy: [cognitive-psychology, desirable-difficulties, learning-theories, metacognition, scaffolding, self-regulated-learning]
@@ -9,7 +9,7 @@ connected_faqs: [reducing-over-reliance, study-with-ai]
 
 confidence: high
 translation_of: concepts/desirable-difficulties
-source_updated: "2026-09-30T16:25:27-04:00"
+source_updated: "2026-10-25T20:20:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -85,6 +85,16 @@ La tensión central del aprendizaje apoyado por IA es que la [[generative-ai|IA 
 4. **Ajustar la fricción a la preparación de quien aprende.** Las dificultades deseables benefician a quienes pueden implicarse en un procesamiento esforzado; un desafío excesivo sin apoyo entraña riesgo de frustración. El [[scaffolding|andamiaje]] debe mantener a quien aprende en la zona de esfuerzo productivo, y no más allá.
 
 TutorMoments operacionaliza los principios de la dificultad deseable como criterios de evaluación: [[zhang-tutormoments-2026|Zhang et al. (2026)]] comprueban si los tutores de IA preservan el esfuerzo productivo andamiando para el acceso (cuando hace falta) e impulsando el rigor (cuando quien aprende está preparado), y encuentran que los tutores basados en modelos de lenguaje sobreandamian por defecto, eliminando el procesamiento esforzado que exigen las dificultades deseables.
+
+## Concepciones erróneas
+
+**«La facilidad y la fluidez durante el estudio indican que está ocurriendo el aprendizaje.»** A menudo indican lo contrario. La fluidez es una señal que se correlaciona débil o negativamente con la retención duradera, y la versión de la era de la IA tiene una prueba diferida directa: el ensayo aleatorizado de [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025|Barcaui (2025)]] encontró que **120 estudiantes de grado** que estudiaron temas de IA y aprendizaje automático con ChatGPT sin restricciones obtuvieron peores resultados en la retención diferida, con el deterioro **mayor en los temas técnicos (d = 0,92)**, el material donde la IA ofrecía más ayuda. La condición que se sentía más útil produjo el mayor déficit.
+
+**«El esfuerzo es, por tanto, bueno y el malestar debe preservarse.»** No toda fricción es deseable. El constructo es específico: las dificultades son deseables cuando exigen recuperación, espaciado, intercalación o generación, e indeseables cuando son confusión incidental, una mala interfaz o un requisito previo ausente. Preservar una confusión que no enseña nada es un error tan grande como eliminar el esfuerzo que enseña.
+
+**«La fricción cognitiva y el esfuerzo productivo son la misma idea.»** Proceden de literaturas distintas y hacen predicciones distintas. El esfuerzo productivo se refiere a la elaboración de sentido esforzada que construye comprensión; la fricción cognitiva se refiere al desajuste entre lo que exige una tarea y los recursos actuales de quien aprende. Tratarlos como sinónimos pierde la pregunta diagnóstica: ¿este estudiante está luchando de una manera que construye, o está bloqueado de una manera que solo cuesta?
+
+**«Si eliminar el esfuerzo eleva el desempeño inmediato, la intervención funcionó.»** Esta es la contrapartida de la que trata toda la página: el desempeño medido en presencia del apoyo está sistemáticamente inflado respecto al desempeño posterior sin asistencia. Cualquier evaluación de una IA que reduce el esfuerzo debe medir con retraso y sin la herramienta, o informará de la eliminación de la práctica como producción de aprendizaje.
 
 ## Conceptos conectados
 

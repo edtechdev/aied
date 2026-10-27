@@ -1,14 +1,14 @@
 ---
 title: Educación en humanidades y ciencias sociales
 created: "2026-09-28T18:15:33-04:00"
-updated: "2026-10-02T21:34:05-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, history-of-aied, philosophy-of-ai-in-education]
 level: [higher ed]
 confidence: high
 discipline: [humanities education]
 translation_of: concepts/humanities-education
-source_updated: "2026-10-02T14:30:18-04:00"
+source_updated: "2026-10-26T09:45:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -56,6 +56,18 @@ La educación SSH pone en primer plano justo las capacidades que la IA generativ
 - **Use la IA deliberadamente en el trabajo con fuentes.** [[paternalistic-filter-llm-history-education|La investigación en historia]] muestra que la IA puede dar forma al razonamiento y a la interpretación de las fuentes: enseñe al estudiantado a interrogar las afirmaciones históricas mediadas por IA y los filtros que esta aplica.
 - **Tenga en cuenta los efectos sobre el estudiantado.** [[genai-impact-chinese-students-hss|Los estudios sobre la experiencia del estudiantado]] documentan cómo la IA generativa afecta a quienes aprenden SSH; adapte el apoyo y el marco de integridad al uso real y no a suposiciones.
 
+## Concepciones erróneas
+
+**«Las humanidades son la parte del currículo menos expuesta a la IA.»** La exposición se ha medido y está concentrada más que difusa: [[villanueva-ai-vulnerability-assessment-audit-2026|Villanueva (2026)]] auditó **15.587 registros de unidades de Artes y Humanidades** para establecer dónde se sitúa esa exposición. Se distribuye de forma desigual entre unidades en lugar de estar repartida, lo que convierte el rediseño de la evaluación en un problema focalizado y no en uno de todo el sector.
+
+**«La IA en la educación humanística es una mejora tecnocéntrica.»** El artículo de posición en el que se apoya esta página sostiene que el cambio es una *transformación intelectual* y no una mejora, y sitúa la [[ai-literacy|fluidez digital]] como competencia central de las artes liberales. Añadir una herramienta a un curso sin cambios confunde la transformación con su instrumento.
+
+**«La educación en valores puede entregarse a un modelo como contenido.»** [[genai-values-education-affordances-risks-2026|Chen (2026)]] replantea la educación en valores como una práctica relacional con tres condiciones —responsabilidad ante el otro, ejemplaridad y dirigirse a alguien— y lee cada una de las cinco posibilidades de la IA generativa como la sustitución de una relación: la perspectiva simulada sustituye al actor al que se puede perjudicar.
+
+**«El análisis crítico es lo que más amenaza la IA, así que debería restringirse.»** El análisis crítico es también lo que más desarrolla el uso intencionado, cuando la tarea se diseña para profundizarlo en lugar de aplanarlo. Un modelo [[human-in-the-loop-ai|con intervención humana]] sitúa la contribución de la disciplina en el juicio de quien aprende y no en la salida de la herramienta.
+
+**«Un modelo de propósito general sirve tanto para la erudición textual como para resumir.»** La interpretación exige la posición de quien lee, y una capa de asistencia que suministra la lectura ha realizado el acto interpretativo que la disciplina existe para enseñar.
+
 ## Conceptos conectados
 
 - [[higher-ed]]
@@ -76,3 +88,4 @@ La educación SSH pone en primer plano justo las capacidades que la IA generativ
 - [[genai-impact-chinese-students-hss]] — El impacto de la IA generativa en el estudiantado de humanidades y ciencias sociales
 - [[acceptance-ai-english-tools-2026]] — Aceptación de la IA entre quienes aprenden idiomas y humanidades
 - [[villanueva-ai-vulnerability-assessment-audit-2026]] — Auditoría computacional de 15.587 unidades de Artes y Humanidades del Go8: el 58,6% de los ítems de evaluación de 2026 con alta exposición a la IA, concentrada en ensayos e informes
+- [[genai-values-education-affordances-risks-2026]] — La IA generativa en la educación en valores: posibilidades, riesgos éticos e implicaciones para la enseñanza (Chen 2026)

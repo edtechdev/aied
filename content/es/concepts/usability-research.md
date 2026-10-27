@@ -1,7 +1,7 @@
 ---
 title: Investigación sobre usabilidad
 created: "2026-09-28T19:11:16-04:00"
-updated: "2026-10-02T22:23:31-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 type: concept
 connected_faqs: [designing-educational-ai-software]
 research_method: [system development, user study, interviews]
@@ -9,7 +9,7 @@ page_kind: [evaluation]
 confidence: high
 methods: [usability-research]
 translation_of: concepts/usability-research
-source_updated: "2026-09-30T07:37:28-04:00"
+source_updated: "2026-10-26T01:30:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -59,6 +59,16 @@ La investigación sobre usabilidad comparte métodos de recogida de datos con la
 
 - **Fortalezas:** identifica directamente las barreras de usabilidad que bloquean la adopción y el aprendizaje; produce orientaciones de diseño accionables; complementa la investigación de eficacia y la cualitativa al explicar *por qué* una herramienta funciona o falla en su uso; es relativamente rápida y barata en comparación con los experimentos grandes.
 - **Limitaciones:** los hallazgos de usabilidad no establecen efectos de aprendizaje (una herramienta usable puede aun así no enseñar); las muestras pequeñas y los contextos específicos de tarea limitan la generalizabilidad; la satisfacción autoinformada puede divergir del rendimiento objetivo; y existe dependencia del personal investigador y del diseño de la tarea.
+
+## Concepciones erróneas
+
+**«Un sistema usable es un buen sistema educativo.»** La investigación sobre usabilidad aborda la interacción entre la persona y el sistema, no los resultados de aprendizaje, y ambas cosas se separan en las dos direcciones: una herramienta pedagógicamente potente puede abandonarse por ser frustrante, y una herramienta sin fricción puede no enseñar nada. La facilidad es una precondición para el uso, no la prueba de que el uso mereciera la pena.
+
+**«La usabilidad es una actividad de acabado al final del desarrollo.»** Es una familia de métodos con técnicas centrales —observación, análisis de tareas, pensamiento en voz alta, revisión heurística— que dan forma al diseño en lugar de terminarlo. Descubrir la fricción cuando la pedagogía ya está fijada tiende a producir o un rediseño de la interfaz en torno al problema o el abandono de la herramienta.
+
+**«El estudiantado que abandona una herramienta carecía de motivación.»** El abandono suele ser la lectura correcta que hace la persona usuaria de un coste de interacción que quien diseñó nunca midió. Como una herramienta que nadie usa no puede tener efecto, la tasa de abandono es un resultado educativo por derecho propio.
+
+**«Probar la usabilidad es lo mismo que medir el aprendizaje.»** Responden a preguntas distintas y ninguna sustituye a la otra; el modo de fallo es tratar cualquiera de las dos como suficiente para adoptar la herramienta.
 
 ## Conceptos conectados
 

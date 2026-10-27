@@ -1,7 +1,7 @@
 ---
 title: Metacognición
 created: "2026-09-25T03:54:17-04:00"
-updated: "2026-10-22T09:13:53-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
@@ -12,7 +12,7 @@ audience: [learners]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/metacognition
-source_updated: "2026-10-18T10:07:01-04:00"
+source_updated: "2026-10-26T12:05:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 connected_resources: [student-guide-to-ai]
 contributors: [editor]
@@ -147,6 +147,12 @@ La [[agentic-ai|IA agéntica]] proactiva puede desplazar el propio bucle metacog
 - **La reflexión aumentó con el acceso a la IA y alimentó el razonamiento, no las puntuaciones de las pruebas.** [[melanou-genai-learning-dynamics-longitudinal-2026|Melanou, Beege y Kimmig (2026)]] siguieron a tres clases (N = 87) a lo largo de un curso de nueve semanas, con mediciones en tres momentos. El conocimiento mejoró en todas las condiciones, sin ventaja para ninguna de las condiciones con IA y sin efecto Mateo (BF01 = 8,70), pero el uso reflexivo (comprobar las fuentes y verificar la salida de la IA antes de adoptarla) fue muy superior en la condición con IA que en el grupo de control (M = 3,72 frente a 2,82, F(1, 40) = 20,21, p < 0,001) y predijo el pensamiento crítico (β = 0,43, p < 0,001, R² = 0,183) sin predecir ninguna ganancia de conocimiento. La reflexión apareció solo por el acceso a la herramienta y no por el andamiaje, y como su rédito se sitúa en el razonamiento, una prueba de conocimiento no registrará el beneficio metacognitivo de un curso apoyado por IA.
 - **Dentro de un instrumento de autoinforme metacognitivo, la conciencia predice más que el resto.** [[alatoai-ai-learning-environments-self-regulation-2026|Alatoai y Alshahri (2026)]] validaron una medida de 45 ítems del aprendizaje STEM apoyado por IA con 649 estudiantes de secundaria saudíes (CFI = 0,983, RMSEA = 0,019; ω de las subescalas = 0,888–0,905) y la usaron para ordenar sus componentes. Las cuatro dimensiones explicaron el 68% de la varianza de las puntuaciones de aprendizaje autorregulado, con la conciencia metacognitiva basada en IA como la más fuerte (β = 0,38, p < 0,001), seguidas de la transferencia cognitiva y la adaptabilidad (β = 0,29, p = 0,008), mientras que el razonamiento creativo y crítico con IA-STEM no resultó significativo (β = 0,14, p = 0,135). La conciencia es el componente que sostiene el rendimiento adaptativo, los autores aconsejan informar las subescalas por separado en lugar de una puntuación global, y reservan el razonamiento de orden superior para tareas de calidad del razonamiento; la medida es, no obstante, autoinformada, así que, como el estudio del taller anterior, captura la capacidad percibida y no el uso observado de estrategias.
 - **La propia monitorización de quien evalúa también es trabajo metacognitivo.** [[hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026|Hoppe, Loibl y Leuders (2026)]] sostienen que una inferencia diagnóstica generada por IA no es evidencia en bruto sino una interpretación ya hecha, así que el profesorado debe integrarla con sus propias observaciones en un proceso que llaman *metadiagnóstico*, decidiendo deliberadamente si aceptarla, rechazarla o modificarla. Eso sitúa un segundo bucle metacognitivo junto al de quien aprende: no solo cómo regula el estudiantado su pensamiento con la IA, sino cómo evalúa el profesorado lo que el sistema afirma sobre ese pensamiento.
+
+## Concepciones erróneas
+
+- **«La asistencia de IA deja intacta la capacidad subyacente.»** El estudiantado que usó asistencia de IA para redactar ensayos fue **un 83% incapaz de recordar citas de sus propios ensayos, frente al 11% de quienes no usaron IA**, lo que indica que **no se implicó con el contenido durante la producción**. El proceso de producción es donde ocurre la implicación, y saltárselo se nota después.
+- **«La descarga cognitiva lo degrada todo.»** El coste parece **acotado y no global**: la descarga degrada **la habilidad específica que se practica, no las capacidades generales de dominio subyacentes**, y aflora en las pruebas de transferencia **con** algo. La localización importa, porque dice qué proteger en lugar de advertir de un declive general.
+- **«Poder producir implica poder retener.»** La brecha de recuerdo del 83% frente al 11% es el contraejemplo directo: en ambas condiciones se produjo un resultado y la huella en la memoria difirió enormemente.
 
 ## Conceptos conectados
 

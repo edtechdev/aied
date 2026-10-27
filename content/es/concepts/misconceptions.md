@@ -1,7 +1,7 @@
 ---
 title: Ideas erróneas sobre la IA
 created: "2026-09-28T19:11:07-04:00"
-updated: "2026-10-22T07:34:46-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, teacher-role]
 pedagogy: [metacognition]
@@ -11,7 +11,7 @@ audience: [learners, instructors]
 confidence: high
 connected_faqs: [addressing-common-misconceptions-ai-education]
 translation_of: concepts/misconceptions
-source_updated: "2026-10-15T08:25:00-04:00"
+source_updated: "2026-10-26T11:15:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -112,6 +112,12 @@ Como las ideas erróneas se sostienen activamente y son resistentes, la forma m�
 **«No es hacer trampas si no lo escribió una persona.»** *Eso es una idea errónea.* La integridad académica tiene que ver con la producción honesta y atribuible del trabajo, no solo con no copiar a una persona. *La corrección:* una entrega generada por IA y no declarada puede violar la [[academic-integrity|integridad académica]] aunque no se haya copiado a ningún ser humano; la pregunta es si el trabajo es genuinamente de quien aprende. En caso de duda, declare y consulte la política de su institución.
 
 Estas refutaciones están escritas deliberadamente en la forma del [[refutation-text|texto de refutación]] para que puedan usarse ellas mismas (o adaptarse a un [[conversational-ai|diálogo con IA]] interactivo) para confrontar y corregir ideas erróneas sobre la IA, y sobre el aprendizaje, la enseñanza y la educación en general.
+
+## Concepciones erróneas
+
+- **«Las ideas erróneas del profesorado se corrigen presentando evidencia.»** En un piloto con **123 educadores italianos**, el desacuerdo se concentró con más fuerza en los **estilos cognitivos de aprendizaje (el 78% del profesorado defendió la correspondencia visual/auditiva)**, la inclusión y el trabajo en grupo (68%) y la sobrecarga de tecnología educativa (54%). Los desacuerdos más fuertes fueron los más resistentes a la evidencia, y por eso la [[refutation-text|refutación]] supera a la afirmación.
+- **«Toda objeción del profesorado a la evidencia es resistencia.»** Cuando los mismos ítems se presentaron a través de una IA conversacional que **validaba el contexto de la persona docente antes de reintroducir la evidencia**, el **41% de las objeciones se referían a restricciones contextuales reales**: tamaño del grupo, necesidades especiales, exigencias curriculares. Una parte sustancial de la aparente idea errónea era una objeción acertada.
+- **«Las ideas erróneas pueden detectarse de forma fiable a partir del diálogo.»** **De 241 segmentos estimulados, 221 (91,7%) fueron confirmados como ideas erróneas estratégicas por voto mayoritario de personas expertas (κ de Fleiss = 0,9487)**, **sin diferencias significativas** entre grupos. Una fiabilidad alta es alcanzable bajo adjudicación experta, y esa es la condición de la que depende la afirmación.
 
 ## Conceptos conectados
 

@@ -1,7 +1,7 @@
 ---
 title: Evaluación sumativa
 created: "2026-09-28T19:11:07-04:00"
-updated: "2026-10-22T09:13:53-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 type: concept
 foundations: [academic-integrity]
 assessment: [assessment, authentic-assessment, summative-assessment, educational-measurement]
@@ -10,7 +10,7 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation]
 translation_of: concepts/summative-assessment
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-26T08:45:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -69,6 +69,12 @@ La literatura sobre evaluación de la base de conocimiento insiste en que la [[a
 - **La puntuación automatizada necesita escrutinio psicométrico:** usar LLM para calificar exámenes de alto riesgo exige evaluar la fiabilidad, la equidad y la validez, y no solo la exactitud. El error de calificación también depende de la nota: en 32 entregas de exámenes de salud pública, los LLM evitaron los extremos de la escala —no apareció ninguna E ni F en modo rápido—, mientras que el mejor modelo coincidió exactamente con la nota humana en el 50,0% y dentro de ±1 punto de la nota en el 90,6% ([[llm-grading-assistants-public-health-2026|Brevik et al. (2026)]]).
 - **La IA también puede generar exámenes:** la generación de exámenes y tareas asistida por IA es una aplicación emergente del diseño sumativo que a su vez necesita evaluación de calidad.
 - **Replantear el propósito de la calificación, no solo el formato.** [[mesny-innovative-assessment-grading-management-2026|Mesny, Roberge-Maltais y Galy (2026)]] critican la calificación sumativa tradicional y referida a la norma por fomentar un aprendizaje superficial y fragmentado, dar al estudiantado poco control o transparencia, dañar la [[motivation|motivación]] intrínseca, alimentar el estrés y la [[well-being|ansiedad]] y perpetuar desigualdades, mientras evalúa en gran medida el recuerdo y no la aplicación en el mundo real. Sitúan la reevaluación, la [[mastery-learning|calificación basada en estándares]] y la descalificación como innovaciones centradas en la calificación que pueden suavizar una práctica muy cargada de sumativa, aunque reconocen que siguen siendo marginales en la educación en gestión por barreras normativas —la calificación en curva, la señalización externa (rankings, prácticas, acreditación) y la mentalidad instrumental del estudiantado— y recomiendan una experimentación incremental con apoyo institucional.
+
+## Concepciones erróneas
+
+- **«Un LLM no puede calificar con los estándares oficiales.»** Frente a **calificaciones oficiales moderadas**, un LLM multimodal que calificó **10.364 páginas manuscritas** de la Olimpiada de Física y de exámenes universitarios mostró una correlación fuerte. La concordancia en los resultados puede sobrevivir a una puntuación imprecisa ítem por ítem, lo que significa que la pregunta útil es dónde se exige realmente precisión a nivel de ítem.
+- **«La inflación de notas por IA es especulación.»** El cuasiexperimento de [[chirikov-ai-grade-inflation-2026|Chirikov (2026)]] sobre **más de 500.000 calificaciones** concreta el mecanismo: tras el lanzamiento de ChatGPT, **los cursos con más tareas expuestas a la IA vieron subir la proporción de notas altas**. El efecto se concentró donde las tareas estaban expuestas, que es el patrón que predeciría un mecanismo.
+- **«No se puede distinguir a quien usa IA de quien no, así que la procedencia es un callejón sin salida.»** El hallazgo de que **no había diferencias significativas en la atribución de la fuente** entre ítems generados por IA e ítems de exámenes con licencia, con un reconocimiento correcto del **68,6-77,5 por ciento** y una tasa de atribución errónea del **18,2 por ciento**, trata de un fallo del reconocimiento, no de que la procedencia sea innecesaria. Si acaso, eleva la exigencia de una procedencia verificada.
 
 ## Conceptos conectados
 

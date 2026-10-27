@@ -1,8 +1,8 @@
 ---
-connected_resources: [lesson-md, liascript, onmicro-ai]
+connected_resources: [lesson-md, liascript, onmicro-ai, teacher-dev]
 title: Plataforma edtech
 created: "2026-09-28T21:09:18-04:00"
-updated: "2026-10-03T02:57:43-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 connected_faqs: [designing-educational-ai-software]
 type: concept
 foundations: [ai-education]
@@ -12,7 +12,7 @@ ethics: [equity-in-ai-education]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/edtech-platform
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-25T17:00:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -92,6 +92,16 @@ La privacidad puede incorporarse a la canalización en lugar de a la política: 
 5. **Explique las recomendaciones en el lenguaje propio del dominio del profesorado.** Las funciones de IA de una plataforma se ganan la confianza y la adopción cuando sus explicaciones son comprensibles y pedagógicamente significativas: en un experimento intrasujeto con una herramienta de recomendación de agrupamientos con IA (GrouPer), [[xai-teachers-trust-edtech-recommendations-2026|Feldman-Maggor et al. (2025)]] encontraron que las explicaciones guiadas por el dominio y formuladas en el lenguaje curricular aumentaban la comprensibilidad, la confianza y la aceptación del profesorado mucho más que las explicaciones basadas en la importancia bruta de las variables, y que el uso real en el aula seguía siendo decisivo para lograr la aceptación plena.([[xai-teachers-trust-edtech-recommendations-2026]])
 6. **Separe el sistema que produce la evidencia del que la califica.** Cuando los agentes pueden completar un curso en nombre de quien aprende, [[credentials-carry-evidence-ai-agents-2026|Srivastava (2026)]] sostiene que una plataforma debe emitir evidencia contemporánea e inspeccionable del razonamiento de quien aprende y no debe ser su único evaluador: el entorno, el emisor y el verificador deberían ser independientes.([[credentials-carry-evidence-ai-agents-2026]])
 7. **Genere representaciones en tiempo de diseño, no en tiempo de ejecución.** [[edtech-design-time-generative-ui|Neshaei et al. (2026)]] sostienen que la adaptación en tiempo de ejecución no puede verificarse a escala y proponen codificar el contenido como tarjetas semánticas agnósticas a la modalidad, a partir de las cuales se generan variantes interactivas, de audio, de texto simplificado y de bajo ancho de banda que el profesorado aprueba antes de su publicación, lo que elimina el coste de inferencia por estudiante, aunque no se informa de ningún prototipo.
+
+## Concepciones erróneas
+
+**«Si una plataforma es eficaz en principio, el estudiantado la usará.»** La capacidad y la adopción son problemas distintos, y la adopción suele ser el que restringe. En un ensayo controlado aleatorizado por conglomerados de dos años, **el 96% del estudiantado probó Khanmigo** —una adopción casi universal— y, sin embargo, el estudiante mediano le envió mensajes en solo el **17% de las sesiones en las que cometió un error**, justo el momento para el que se construyó la herramienta. Una plataforma que registra a la clase no la ha cambiado.
+
+**«La adopción se mide por los inicios de sesión.»** La brecha informativa está en el nivel del mensaje, no en el de la cuenta. En ese mismo ensayo, solo **~14,5% de los mensajes contenían una pregunta matemática genuina**. El noventa y seis por ciento del estudiantado generó el evento de acceso; aproximadamente uno de cada siete de sus interacciones hizo el trabajo intelectual. Informar aquí una cifra de inicios de sesión habría descrito un éxito que no existía.
+
+**«Abierto frente a propietario es un detalle de licencia que no afecta a los resultados.»** El modelo de plataforma condiciona lo que las instituciones pueden hacer con el sistema: las plataformas [[open-source|abiertas]] como OATutor —un tutor adaptativo con licencia MIT, una biblioteca de contenido de álgebra en Creative Commons, estimación de dominio mediante [[knowledge-tracing|seguimiento del conocimiento]] y pruebas A/B integradas— permiten a un departamento instrumentar y modificar su propia pedagogía, algo que una plataforma cerrada no puede. La licencia determina quién puede realizar el experimento.
+
+**«Una plataforma que funciona en una institución funcionará tal como se adopte.»** Los efectos de una plataforma pasan por la gobernanza local: una arquitectura que priorice la privacidad, la minimización de datos, los registros auditables y el acceso basado en roles es lo que hace que una plataforma integrada con IA sea desplegable siquiera, y son decisiones institucionales y no funciones que se puedan inferir de una demostración comercial.
 
 ## Conceptos conectados
 

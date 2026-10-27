@@ -1,7 +1,7 @@
 ---
 title: Educación en enfermería
 created: "2026-09-28T18:22:28-04:00"
-updated: "2026-10-22T09:13:53-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 type: concept
 foundations: [learner-identity]
 pedagogy: [professional-training, self-efficacy]
@@ -13,7 +13,7 @@ level: [higher ed]
 page_kind: [synthesis]
 confidence: high
 translation_of: concepts/nursing-education
-source_updated: "2026-09-28T21:37:06-04:00"
+source_updated: "2026-10-25T19:50:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -56,6 +56,33 @@ El campo también refina tres conceptos adyacentes. De la [[simulation|simulaci�
 - **La evidencia está invertida.** El mapa de lagunas de esa misma revisión no encuentra ningún estudio aleatorizado o cuasiexperimental sobre identidad profesional o [[career-development-and-readiness|desarrollo profesional]], solo tres sobre competencia relacional y ética, y ningún seguimiento más allá de 12 meses, mientras que la evidencia controlada se concentra en resultados cognitivos y técnicos.
 - **La vigilancia está documentada como percepción, no como mejor conducta.** [[harerimana-remote-proctoring-nursing-scoping-2026|Harerimana et al. (2026)]] mapearon la [[remote-proctoring|vigilancia remota]] en la evaluación de enfermería en seis estudios (1.567 estudiantes) y encontraron que la disuasión se reportaba casi universalmente por el estudiantado vigilado (98–100% de acuerdo en un programa de posgrado), mientras que el único estudio comparativo de rendimiento encontró que una cohorte vigilada en persona puntuaba significativamente más alto en un examen de preparación que una vigilada de forma remota. La ansiedad iba en ambas direcciones —algunas personas más tranquilas en casa y liberadas de los desplazamientos, otras incapaces de concentrarse mientras las observaban y con miedo a una [[legal-issues-and-risks|acusación injusta]]— y cuatro de los seis estudios reportaron fallos de conectividad y uno cortes de suministro, lo que convierte el acceso [[equity-in-ai-education|equitativo]] en la restricción operativa y no la seguridad del examen. La postura de los autores es que la vigilancia remota debería ser un instrumento entre varios, regido por estándares de protección de datos y combinado con integridad por diseño y [[authentic-assessment|evaluación auténtica]], en lugar de tratarse como la salvaguarda por defecto.
 - **Condiciones límite.** Las distintas líneas convergen en la misma contención. La IA tiene la mejor evidencia para objetivos estructurados y repetibles —comunicación básica, anamnesis, educación para la salud, adquisición de conocimiento— y la peor para la destreza psicomotora compleja, la interacción emocionalmente cargada y la formación profesional a largo plazo. La aceptación es consistentemente de moderada a alta, pero la aceptación de la *retroalimentación* de la IA está condicionada por la confianza: quienes aprenden prefieren fuentes humanas percibidas como benevolentes a una IA percibida como meramente competente. Las revisiones también son geográficamente estrechas, están dominadas por diseños no controlados y [[self-report-measures|autoinformes]] y, en la revisión de simulación, muestran un patrón positivo casi uniforme que suscita preocupaciones de sesgo de publicación.
+
+## Concepciones erróneas
+
+**«La simulación asistida por IA mejora la competencia en enfermería en todos los ámbitos.»** El beneficio se detiene en un límite documentado. La simulación asistida por IA mejora de forma fiable el conocimiento y la [[self-efficacy|autoeficacia]], pero muestra **efectos inconsistentes y a veces negativos sobre la destreza psicomotora compleja**, y la competencia psicomotora no es un resultado periférico en una profesión definida por ella. Un programa que adopte la simulación por las ganancias de conocimiento tiene evidencia sobre un desenlace distinto del que evalúan las pruebas de habilitación.
+
+**«La ansiedad por la fuerza laboral en la enfermería es en realidad una brecha de competencias, así que la formación en alfabetización en IA es el remedio.»** La ansiedad es sobre el empleo, no sobre la competencia. Una encuesta con **821 estudiantes de ciencias de la salud** encontró una correlación positiva moderada entre la [[anxiety-and-stress|ansiedad ante la IA]] y la ansiedad por la búsqueda de empleo (**r = 0,233, p < 0,001**), con la ansiedad ante la IA como predictor significativo tras los controles. Enseñar alfabetización aborda el miedo a no saber usar una herramienta; no aborda el miedo a no tener empleo, y el encuadre de identidad profesional de la literatura —quién llega a ser enfermera y no qué puede hacer una persona en formación— es donde esa pregunta corresponde.
+
+**«A quien aprende le gustan los agentes de IA como colaboradores.»** Los quieren como herramientas. De **165 personas que aprenden (158 completaron)**, el agente se valoró como más útil *como herramienta* (**M = 3,49**), después por la utilidad de la retroalimentación (**M = 3,21**) y menos *como parte del equipo* (**M = 2,88**), con todas las diferencias por pares significativas (**F(2, 156) = 26,01, p < 0,001**). Un diseño que sitúa a un agente como miembro del equipo va en contra de la preferencia de quien aprende, no por delante de ella.
+
+**«Cualquier estudio de simulación se generaliza a la práctica clínica.»** La base de evidencia revisada aquí —**19 estudios, N = 1,253, en su mayoría estudiantes previos a la habilitación**— es en gran medida de aula y de laboratorio, y la traducción de la competencia simulada a la práctica supervisada es justamente el paso que una simulación asistida por IA no ensaya por sí misma.
+
+## Implicaciones para la práctica
+
+**Para el profesorado**
+
+- No adopte la simulación con IA para desarrollar destreza psicomotora compleja apoyándose en ganancias de conocimiento y autoeficacia. Reserve la práctica supervisada deliberada para los desenlaces psicomotores y use la IA donde su evidencia es más sólida.
+- Aborde la ansiedad por el empleo directamente en lugar de canalizarla a través de módulos de alfabetización en IA; la correlación con la ansiedad por la búsqueda de empleo indica que la preocupación es por el futuro de la profesión y no por la soltura de quien aprende con las herramientas.
+- Sitúe a los agentes como herramientas y fuentes de retroalimentación, lo que concuerda tanto con la preferencia de quien aprende como con el diseño que produjo las valoraciones más altas.
+
+**Para quienes desarrollan**
+
+- Informe por separado los desenlaces psicomotores y de conocimiento, ya que divergen en esta literatura.
+- Diseñe primero para los roles de herramienta y retroalimentación; el encuadre del agente como miembro del equipo no es lo que pidió quien aprende.
+
+**Para quienes investigan**
+
+- Informe por separado las muestras previas a la habilitación y las de enfermería en ejercicio, y estudie la transición a la práctica supervisada si la afirmación sobre la competencia ha de significar algo clínicamente.
 
 ## Conceptos conectados
 

@@ -2,7 +2,7 @@
 connected_resources: [education-agent-skills, fpds-apps-and-resources]
 title: Desarrollo educativo
 created: "2026-09-28T18:15:33-04:00"
-updated: "2026-10-22T09:13:53-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 connected_faqs: [ai-save-instructor-time, faculty-ai-competencies, faculty-development-ai]
 type: concept
 foundations: [ai-literacy, curriculum-design, learning-design, teacher-role, teacher-ai-competency]
@@ -11,7 +11,7 @@ level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: concepts/educational-development
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-26T04:35:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -112,6 +112,19 @@ Confianza y alfabetización no son objetivos intercambiables: en un SEM de 502 e
 **La respuesta del profesorado refleja centros de poder, no actitudes.** En un estudio de caso instrumental con 33 docentes de escritura, cuatro centros de poder policéntricos —la tendencia global a la IA generativa, la universidad/departamento, los colegas y el estudiantado— moldearon la práctica, y el personal adjunto, limitado por un poder discursivo reducido, pasó de la detección a enseñar un uso aceptable ([[zuo-instructor-power-genai-writing-2026|Zuo et al. (2026)]]).
 
 **Mide la asistencia, no la sensación de implicación.** En un programa Intelligent-TPACK de seis meses para 64 docentes universitarios, la tasa de asistencia predijo la ganancia en competencia en IA (β = 0,407, p = ,001) mientras que la participación autopercibida no lo hizo (β = 0,049, p = ,692), lo que los autores interpretan como inversión conductual concreta frente a implicación superficial ([[intelligent-tpack-pd-intervention-hongkong-2025|Tan, Cheng y Ling, 2025]]). El programa combinó clases en línea con tres talleres presenciales, y luego exigió al profesorado revisar sus diseños instruccionales e implementarlos al semestre siguiente; los autores recomiendan incorporar la asistencia a la evaluación del desempeño junto con incentivos significativos.
+
+- **Seis familias de desarrollo profesional, tres bien evidenciadas y una ganadora clara.** Una revisión de 78 estudios sobre diseño instruccional apoyado por IA ordena el desarrollo profesional documentado en módulos compactos integrados (2-4 semanas), microaprendizaje de un semestre, ciclos de diseño basados en tareas, cadenas de preguntas colaborativas basadas en el diálogo, codescubrimiento crítico y aprendizaje autodirigido del profesional. La evidencia de resultados es más sólida para los **módulos compactos integrados**: un módulo de tres semanas produjo ganancias estadísticamente significativas en los seis dominios del Intelligent-TPACK con tamaños del efecto de medios a grandes, y un programa de cuatro semanas con **436 docentes en formación inicial y una condición de control** es la evaluación controlada más sólida del corpus ([[spyropoulou-genai-instructional-design-systematic-review-2026|Spyropoulou y Kameas, 2026]]).
+- **Tres características de diseño separan las intervenciones mejor evidenciadas.** La ética integrada como **práctica distribuida con puntos de control en cada tarea** en lugar de una sesión independiente; la **evaluación de la competencia basada en el desempeño** mediante planes de clase, registros de decisiones y microenseñanza, motivada directamente por la falta de fiabilidad del autoinforme; y la ingeniería de prompts desarrollada como práctica reflexiva y fundamentada en la pedagogía. La adopción no es la misma palanca que el desempeño: en 200 docentes de Sumatra del Norte, el uso de IA no tuvo efecto directo sobre el desempeño docente (β = 0,112, p = ,087) mientras que la conducta de ciudadanía organizativa lo vehiculizaba de forma indirecta, de modo que el trabajo de desarrollo del profesorado orientado a un uso colaborativo y de rol extra es la versión que respalda la evidencia ([[ai-use-teacher-performance-north-sumatra-2026|Sherly et al. (2027)]]). Un estudio complementario de dos semanas encontró ganancias rápidas en conocimiento y confianza a la vez que identificaba la detección de sesgos como la competencia emergente más débil, una brecha que persistió en el módulo más largo, en consonancia con que la capacidad perceptiva ética se desarrolla más despacio que la familiaridad tecnológica.
+
+## Concepciones erróneas comunes
+
+**«Un taller de capacidades es la intervención que necesita el desarrollo educativo.»** La preparación es un problema de alineación sociotécnica, no un déficit individual, y por eso un «taller de IA» aislado se queda corto respecto a la necesidad que aborda. Un programa que trabajó la pregunta de forma directa fue un **instituto de verano de seis semanas** que llevó a diez miembros del profesorado de Educación, Ciencias de la Salud, Empresa y otros programas por un trabajo de nivel identitario. La duración y la cohorte no son incidentales en ese diseño; son lo que lo distingue de un recorrido por funcionalidades.
+
+**«Unas directrices institucionales más claras resolverán el malestar del profesorado.»** Las directrices ayudan y no llegan al problema. Solo el **31,2%** del personal académico de una universidad maltesa percibía directrices institucionales claras, y la correlación entre la claridad de las directrices y una menor culpa era **débil (r = −.25, p = ,010)**. Una relación débil de esa magnitud significa que los mandatos de arriba abajo no pueden resolver lo que el artículo lee como un problema en parte emocional y basado en la identidad: la quinta parte de la varianza que explican no es la quinta parte que importa.
+
+**«La culpa por el uso de IA indica que se han roto las normas.»** Se asocia a la ocultación y no a la divulgación: limitar el uso de IA por malestar correlacionaba con ocultarlo, no con una conducta prohibida. Leer la culpa como evidencia de mala conducta identifica mal su origen, y tratarla como una señal de cumplimiento empujará la conducta aún más lejos de la vista.
+
+**«Una baja tasa de respuesta a la encuesta significa que el profesorado no tiene opiniones firmes.»** El artículo lee sus **109 respuestas (una tasa del 3,5%)** como informativas en sí mismas sobre el estado del debate ético: una baja respuesta a una pregunta sobre el malestar es un hallazgo sobre ese malestar, no una ausencia de él. Y una integración de IA generativa planteada solo como capacitación se pierde la pregunta de identidad que parte del profesorado se está haciendo de verdad: qué sentido tiene enseñar en un mundo con IA generativa.
 
 ## Conceptos conectados
 

@@ -1,7 +1,7 @@
 ---
 title: Declaraciones de uso y divulgación de la IA
 created: "2026-09-28T18:15:33-04:00"
-updated: "2026-10-24T08:22:10-04:00"
+updated: "2026-10-26T21:37:14-04:00"
 type: concept
 foundations: [academic-integrity]
 technology: [generative-ai]
@@ -12,7 +12,7 @@ level: [higher ed]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: concepts/ai-use-disclosure
-source_updated: "2026-10-24T08:08:00-04:00"
+source_updated: "2026-10-26T10:00:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -87,6 +87,13 @@ Al examinar las orientaciones sobre IA generativa de las 50 universidades estado
 
 El uso y la divulgación de la IA se sitúan en la intersección de la [[academic-integrity|integridad académica]] (su preocupación madre), la [[ethics|ética]], la [[trust|confianza]] y la [[trust-calibration|calibración de la confianza]] (la divulgación como acto de vulnerabilidad), la [[governance|gobernanza]] y la [[educational-policy-ai|política educativa sobre IA]] (los marcos de política institucional) y la [[assessment|evaluación]] (donde se operacionaliza la divulgación). Se conecta con la [[ai-literacy|alfabetización en IA]] (el estudiantado necesita entender qué divulgar y cómo), con el [[self-regulated-learning|aprendizaje autorregulado]] y la [[help-seeking|búsqueda de ayuda]] (la divulgación como búsqueda de ayuda visible) y con la [[equity-in-ai-education|equidad]] (divulgación diferencial). Es distinto de, pero está relacionado con, el [[ai-misuse-learning-harm|mal uso de la IA y el daño al aprendizaje]] (el daño que la divulgación pretende hacer visible) y la [[ai-detection|detección de IA]] (las alternativas basadas en la detección que los marcos de divulgación sustituyen cada vez más).
 
+## Concepciones erróneas
+
+- **«Las políticas de declaración obligatoria producen divulgación.»** [[gonsalves-student-non-compliance-ai-declarations-2025|Gonsalves (2025)]] documentó un **74% de incumplimiento** de una declaración obligatoria en una escuela de negocios. El requisito no produjo la conducta que exigía.
+- **«El estudiantado oculta el uso de IA porque es deshonesto.»** Los factores están documentados y son específicos: solo **alrededor del 34% del estudiantado de economía reconocía usar IA**, con una divulgación aún menos frecuente, impulsada por la **ansiedad ante las sanciones**, mientras que otro estudio encontró que el **66% nunca o casi nunca divulgaba** y que el **miedo a una sanción académica era la razón principal**. Lo que los datos implican es el diseño de la política, no el carácter.
+- **«Un requisito de divulgación es un control de bajo coste.»** Una **tasa de incumplimiento del 74%** hace que el registro resultante sea peor que ningún registro: es un conjunto de datos que parece completo y no lo es, así que la institución toma decisiones sobre una muestra en la que no puede confiar.
+- **«Divulgar cómo se usó el modelo es suficiente.»** [[authorial-warrant-ai-supported-scholarship-2026|Mirończuk (2026)]] sostiene que la divulgación documenta el uso del modelo mientras que el uso responsable exige una garantía autoral al nivel de la afirmación, es decir, la capacidad de quien contribuye para entender, justificar y defender las afirmaciones, lo que separa la delegación cognitiva, en la que las salidas moldean decisiones sustantivas, de la delegación rutinaria, que no lo hace.
+
 ## Conceptos conectados
 
 - [[academic-integrity]]
@@ -120,3 +127,4 @@ El uso y la divulgación de la IA se sitúan en la intersección de la [[academi
 - [[gutowski-hurley-genai-policy-legal-education-2025]] — Sin consenso sobre la divulgación y la citación de la IA en la política de las facultades de derecho (Gutowski & Hurley 2025)
 - [[ai-written-admissions-essays-penalized-2026]] — Los ensayos de admisión escritos con IA están muy extendidos pero se penalizan
 - [[obhdp-ai-disclosure-erodes-trust-2025]] — Trece experimentos: divulgar el uso de la IA reduce la credibilidad de quien divulga, a través de la legitimidad
+- [[authorial-warrant-ai-supported-scholarship-2026]] — Cuando las reglas de divulgación no bastan: garantía autoral y juicio en la actividad académica asistida por IA (Mirończuk 2026)

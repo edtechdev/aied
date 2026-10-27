@@ -1,7 +1,7 @@
 ---
 title: Educación médica y en profesiones de la salud
 created: "2026-09-28T19:11:07-04:00"
-updated: "2026-10-24T08:22:44-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 type: concept
 foundations: [teacher-role]
 technology: [adaptive-learning, simulation]
@@ -11,7 +11,7 @@ audience: [learners, instructors]
 level: [higher ed]
 confidence: high
 translation_of: concepts/medical-education
-source_updated: "2026-10-22T10:05:00-04:00"
+source_updated: "2026-10-26T10:25:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -78,6 +78,12 @@ La HPE es un ámbito de alto riesgo y basado en competencias donde los beneficio
 - **Aproveche la IA para el entrenamiento de habilidades clínicas.** [[residencyrl-clinical-rl-training-2026|ResidencyRL]] y la [[hdr-brachytherapy-agentic-ai-simulation-2026|simulación agéntica]] muestran la IA como socio de entrenamiento de habilidades en flujos de trabajo clínicos reales: intégrela donde aporte práctica segura y escalable.
 - **Sopesar los beneficios de alto riesgo frente a la dependencia excesiva.** La HPE está basada en competencias y es de alto riesgo; protéjase frente a que la IA sustituya la destreza clínica práctica y el juicio, y aplique con especial cuidado las consideraciones de [[feedback|retroalimentación]], [[assessment|evaluación]] y [[ethics|ética]].
 - **Adapte con criterio la IA gamificada e interdisciplinar.** El [[medgame-llm-medical-education-gamification|aprendizaje gamificado con LLM]] y la [[alrazeeni-transforming-nursing-education-ai-2026|transformación de la educación en enfermería]] son prometedores, pero necesitan evaluación de seguridad y de resultados de habilidades; en el caso concreto de la enfermería, esa evidencia de seguridad y habilidades —incluido el ensayo controlado aleatorizado en el que la simulación asistida por IA rindió peor que los pacientes estandarizados— se recoge en [[nursing-education|educación en enfermería]].
+
+## Concepciones erróneas comunes
+
+- **«Los beneficios de la simulación están establecidos en la educación médica, así que la simulación con IA también lo estará.»** Una revisión sistemática de métodos mixtos de **19 estudios (N = 1.253)** encuentra que las simulaciones impulsadas por IA producen efectos en esa literatura: una base modesta, y 1.253 participantes en 19 estudios es un fundamento estrecho para una tecnología que se despliega a gran escala.
+- **«La pregunta es qué pueden hacer los LLM en la formación clínica.»** Una revisión integradora crítica de **489 estudios en 47 países** desplaza la pregunta **de lo que los LLM pueden hacer a** aquello en lo que se debería confiar en ellos. La pregunta de capacidad está en gran medida respondida; la de gobernanza no.
+- **«Los pacientes estandarizados son demasiado costosos para escalarlos.»** Un **ensayo controlado aleatorizado con 95 estudiantes de medicina analizados** usó **pacientes estandarizados de IA multiagente** en la formación de entrevista clínica. La restricción que se aborda es la disponibilidad de actores humanos formados, que es un problema de dotación de personal y no de fidelidad.
 
 ## Conceptos conectados
 

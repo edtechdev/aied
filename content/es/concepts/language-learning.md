@@ -2,7 +2,7 @@
 connected_resources: [mglearn]
 title: Aprendizaje de lenguas
 created: "2026-09-28T20:12:29-04:00"
-updated: "2026-10-24T08:21:18-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 type: concept
 foundations: [ai-education]
 technology: [generative-ai]
@@ -11,7 +11,7 @@ discipline: [language learning, writing education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/language-learning
-source_updated: "2026-10-23T09:14:19-04:00"
+source_updated: "2026-10-26T12:05:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -75,6 +75,7 @@ La calidad del diseño, y no la frecuencia de uso, fue lo que sostuvo el efecto 
 - **Priorice la calidad del feedback sobre la cantidad en la expresión oral con apoyo de ASR.** [[asr-english-speaking-feedback-metacognition-2026|Chen et al. (2026)]] encuentran que la corrección precisa de errores y las tareas de reflexión estructurada mejoran la interiorización del [[feedback]] y el comportamiento reflexivo en la expresión oral en inglés universitario, mientras que el uso frecuente de ASR y la precisión del reconocimiento aumentan la motivación o la reflexión solo en parte: la precisión técnica por sí sola no impulsa una implicación cognitiva más profunda, y el nivel de competencia lingüística modera las ganancias (quienes aprenden con más nivel interiorizan el feedback de forma más eficaz). Esto aboga por un feedback pedagógicamente sólido (por ejemplo, explicaciones articulatorias en lugar de simples marcas de error), por una reflexión con andamiaje y por un apoyo diferenciado según el nivel.
 - **Dé pistas antes que correcciones.** Una tarea de ChatGPT de «pista antes que corrección», en la que quienes aprenden infieren las correcciones a partir de indicaciones guiadas en lugar de recibir correcciones directas, redujo la carga cognitiva y apoyó la revisión personalizada, pero el beneficio se mantuvo sobre todo en quienes ya tenían suficientes conocimientos previos (58 estudiantes, MCER A1–B1) ([[lukesova-clue-before-correction-2026|Lukešová y Jennings (2026)]]).
 - **Ofrezca retroalimentación de pronunciación que localice la diferencia que hay que cerrar.** Profy aprende la competencia a partir de habla en gran medida sin anotar y muestra *dónde* diverge quien aprende de las distribuciones de hablantes nativos; sus intervalos de confianza de inteligibilidad pre/post no se solaparon, a diferencia de una línea base de imitación elicitada, evidencia de que la práctica de imitación puede apoyarse sin evaluadores expertos ([[ai-guided-learning-audiovideo-2026|Kawamura (2026)]]).
+- **Use el canal de la transcripción como segunda señal, no como sustituto.** Un clasificador de audio WavLM superó a un clasificador GPT-4o en cero ejemplos que leía transcripciones sobre un corpus de aprendices equilibrado por MCER, así que los rastros léxicos de una primera lengua son reales pero más débiles que la pronunciación, el ritmo y la entonación ([[acoustic-lexical-native-language-identification-learners-2026|Uluslu et al. (2026)]]).
 - **Apoye la adaptación psicológica del estudiantado al estudio asistido por IA.** [[wu-psychological-adaptation-ai-japanese-learning-2026|Wu (2026)]] sigue a estudiantes de japonés durante un semestre y encuentra que se agrupan en perfiles de adaptación desadaptativa, moderada y positiva impulsados por el equilibrio entre tecnoestrés y resiliencia, con la mayoría desplazándose gradualmente hacia una adaptación positiva y declarando mayor [[self-efficacy|autoeficacia]] y menos agotamiento: una señal para diseñar prácticas de lenguas mediadas por IA que gestionen la tensión tecnológica, y no solo el acceso a la herramienta.
 - **Esté atento al sesgo en la puntuación y el feedback contra quienes aprenden.** [[ai-scoring-language-bias-physics|La puntuación con IA]] puede penalizar patrones no nativos; [[genai-linguistic-diversity-academic-writing|la investigación sobre diversidad lingüística]] advierte de que la IA privilegia el inglés estándar: use evaluación autorreferencial o moderada por humanos.
 - **Apoye todo el espectro de estudiantes.** Los [[dyslexlens-dyslexic-learners-ai|estudios sobre dislexia y accesibilidad]] y el diseño [[culturally-relevant-pedagogy|culturalmente receptivo]] ([[ai-tools-arab-english-classrooms|contextos árabe-inglés]]) muestran que la IA debe adaptarse a necesidades diversas de quienes aprenden, no darse por universal.
@@ -86,6 +87,12 @@ La calidad del diseño, y no la frecuencia de uso, fue lo que sostuvo el efecto 
 - **Ordene el bucle completo de las cuatro destrezas en torno al coste y la conectividad.** [[llmersion-local-first-language-learning-2026|Guo et al. (2026)]] publican LLMersion-1, un prototipo local primero que trabaja la comprensión auditiva, la lectura, la expresión oral y la escritura sobre el propio documento de quien aprende en hardware de consumo: un tutor de 1B se cuantiza a 808 MB y toda la pila residente se mantiene por debajo de 4 GB, y calcula cinco años de práctica diaria en unos \$18 de electricidad, frente a \$1.200 de una suscripción en la nube. No se informan resultados de aprendizaje y la retroalimentación de pronunciación es solo segmental.
 
 - **La evidencia sobre las ganancias de la conversación con chatbots es desigual según la característica.** En la única síntesis sistemática de la cuestión, diez estudios de 2021 a 2024 mejoraron con más fiabilidad la variedad y la inteligibilidad, mientras que la coherencia se examinó una sola vez y la interacción casi nunca; cuatro de los diez informaron de una única puntuación holística ([[chatbots-oral-proficiency-efl-systematic-review|Soriano-Gonzalez y Belda-Medina (2026)]]).
+
+## Concepciones erróneas
+
+- **«Los tutores robot encarnados funcionan por la encarnación.»** Un metaanálisis de **11 estudios de RALL (N = 595)** encontró un efecto agrupado grande sobre el aprendizaje de L2 (**g = 0,83**) con **alta heterogeneidad** y, lo importante, **solo las características de interacción** lo moderaban. La morfología y la modalidad no lo hicieron, así que el hardware no es el ingrediente activo.
+- **«Los ítems de evaluación generados por IA son peores que los escritos por el profesorado.»** Una comparación de **52 tareas de evaluación de EFL valoradas por 20 docentes con experiencia** no encontró **diferencias de calidad significativas en conjunto** entre los ítems generados por IA y los desarrollados por humanos, pero sí divergencias en dimensiones concretas. Una paridad global con debilidades específicas es una afirmación distinta de la mejora o la deficiencia.
+- **«El feedback de los LLM solo sirve para puntuar la escritura.»** Un sistema de nivel discursivo va más allá al **nombrar el defecto en lugar de puntuar el texto**, con una clasificación de relaciones entre pares de oraciones que localiza **rupturas de coherencia** como saltos lógicos y enlaces ausentes. La salida útil es diagnóstica, no numérica.
 
 ## Conceptos conectados
 
@@ -140,3 +147,4 @@ La calidad del diseño, y no la frecuencia de uso, fue lo que sostuvo el efecto 
 - [[ai-ethics-tensions-online-pedagogy-2026]] — Ceguera pragmática: la salida lingüística de la IA puede ser gramaticalmente correcta pero culturalmente errónea
 - [[ai-speaking-practice-communicative-readiness-2026]] — Preparación, y no rendimiento observado
 - [[genai-social-annotation-epistemic-network-analysis-2026]] — Extender el andamiaje de la IA a la lectura colaborativa
+- [[acoustic-lexical-native-language-identification-learners-2026]] — El audio supera a un clasificador de transcripciones GPT-4o en cero ejemplos para identificar la L1 (Uluslu et al. 2026)

@@ -1,7 +1,7 @@
 ---
 title: Enseñanza del inglés (EAP / EFL / ESL)
 created: "2026-09-28T19:11:56-04:00"
-updated: "2026-10-22T07:28:08-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 type: concept
 foundations: [academic-integrity]
 technology: [generative-ai]
@@ -11,7 +11,7 @@ discipline: [english education, language learning, writing education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/english-education
-source_updated: "2026-10-21T12:05:00-04:00"
+source_updated: "2026-10-26T08:45:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -95,6 +95,13 @@ Una síntesis basada en Scopus de 54 estudios de EFL sitúa las [[limitations-in
 - **Diferencie por nivel y necesidad.** [[ai-vs-human-assessment-efl-tpck-2026|La evaluación en EFL]] y la investigación sobre tutoría adaptativa apoyan ajustar el apoyo y la evaluación con IA al nivel de cada persona en lugar de aplicar una talla única.
 
 - **Inclinar la tecnología hacia la producción.** Un metaanálisis de 33 estudios sobre TEFL encontró un efecto global de pequeño a moderado (g = 0,38, reducido a 0,28 con trim-and-fill) que aumentaba con el nivel educativo y favorecía las destrezas productivas —expresión oral y escrita— frente a las receptivas ([[liu-emerging-tech-tefl-review-2026|Liu, Hashim y Sulaiman (2026)]]).
+
+## Concepciones erróneas
+
+- **«En EFL, la IA amenaza sobre todo con el plagio.»** La [[limitations-in-aied-research|limitación]] que más se reporta en el propio campo es la **autonomía de quien aprende**, que aparece como [[cognitive-offloading|dependencia excesiva]] en **27** de una síntesis basada en Scopus de **54 estudios**. El coste documentado es la dependencia y no la deshonestidad, lo que exige otro tipo de intervención.
+- **«El profesorado de idiomas adopta con entusiasmo o no adopta.»** Una [[li-language-educators-genai-review-2026|revisión sistemática de 23 estudios]] (Li et al.) encuentra como patrón una **adopción cauta y centrada primero en la preparación**. El profesorado era prudente de un modo meditado, no se dividía entre entusiastas y detractores.
+- **«El efecto global justifica el esfuerzo.»** Un metaanálisis de **33 estudios sobre TEFL** encontró un **efecto global de pequeño a moderado (g = 0,38, reducido a 0,28 con trim-and-fill)** que **aumentaba con el nivel educativo**. El efecto es modesto tras la corrección y se concentra en los niveles superiores, así que la cifra agrupada no respalda una afirmación para principiantes.
+- **«Cualquier uso de la IA es igual de productivo para aprender una lengua.»** El mismo trabajo aboga por **inclinar la tecnología hacia la producción** —escritura y expresión oral en lugar del consumo—. La modalidad determinó el efecto más que la presencia de la IA.
 
 ## Conceptos conectados
 

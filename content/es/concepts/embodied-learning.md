@@ -1,14 +1,14 @@
 ---
 title: Aprendizaje encarnado
 created: "2026-09-28T18:15:36-04:00"
-updated: "2026-10-24T08:21:10-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 type: concept
 foundations: [computational-thinking]
 pedagogy: [active-learning, embodied-learning, situated-learning]
 technology: [educational-robotics]
 confidence: high
 translation_of: concepts/embodied-learning
-source_updated: "2026-10-23T22:31:18-04:00"
+source_updated: "2026-10-26T07:55:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -53,6 +53,12 @@ Una segunda línea, más teórica, de la investigación de la base de conocimien
 El aprendizaje encarnado se conecta con [[educational-robotics]], [[educational-robotics]], [[educational-robotics]], [[active-learning]], [[experiential-learning]], [[situated-learning]], [[distributed-cognition]], [[computational-thinking]] y [[social-emotional-learning]].
 
 - **El seguimiento corporal convierte la regulación en una señal medible.** En una simulación de fotosíntesis en realidad mixta donde etiquetas de movimiento desplazaban a los agentes del estudiantado por un modelo proyectado, una canalización de LLM etiquetó 470 segmentos de conducta autorregulada en 40 minutos de vídeo, y la promulgación dominó con el 66,4% ([[fonteles-embodied-learning-human-in-the-loop-multimodal-2026|Fonteles et al., 2026]]).
+
+## Concepciones erróneas
+
+- **«El cuerpo es lo que hace funcionar el aprendizaje encarnado.»** Un metaanálisis de **11 estudios de RALL (N = 595, g = 0,83, I² = 84,4%)** encontró que **la morfología del robot, la modalidad, la autonomía y el rol social no moderaban** los resultados de aprendizaje de una segunda lengua. Las características de encarnación no eran el ingrediente activo, y la heterogeneidad era lo bastante alta (I² = 84,4%) como para que el efecto agrupado describa un conjunto muy heterogéneo de intervenciones.
+- **«Un efecto grande resuelve el mecanismo.»** g = 0,83 con 595 participantes en 11 estudios es una señal real y no identifica qué la produjo. Como las características del diseño no moderaron el efecto, el mecanismo plausible reside en la actividad pedagógica y no en el hardware, lo que cambia en qué invertir.
+- **«La encarnación no se puede medir, así que queda en lo teórico.»** El seguimiento corporal puede convertir la regulación en una **señal medible**: en una simulación de fotosíntesis en realidad mixta donde etiquetas de movimiento desplazaban a los agentes del estudiantado por un modelo proyectado, una canalización de LLM etiquetó **470 segmentos** de conducta autorregulada. El constructo es operacionalizable incluso cuando es difícil de definir.
 
 ## Conceptos conectados
 - [[educational-robotics]]

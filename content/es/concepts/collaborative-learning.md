@@ -1,7 +1,7 @@
 ---
 title: Aprendizaje colaborativo
 created: "2026-09-28T21:06:00-04:00"
-updated: "2026-10-22T09:13:53-04:00"
+updated: "2026-10-26T21:37:14-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [collaborative-learning, scaffolding]
@@ -11,7 +11,7 @@ audience: [learners]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/collaborative-learning
-source_updated: "2026-10-16T08:47:09-04:00"
+source_updated: "2026-10-26T11:15:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -82,6 +82,8 @@ Una revisión de alcance de 18 estudios mapea la misma disyuntiva en el trabajo 
 ### El marco ICAP: la colaboración como el modo de implicación más profundo
 
 El aprendizaje colaborativo ocupa la cima del [[icap-framework|marco ICAP]] (interactivo–constructivo–activo–pasivo): el modo *interactivo* —coconstruir significado mediante el diálogo, defender una posición o resolver de forma conjunta— produce el cambio de conocimiento más profundo en la taxonomía de Chi. Esto convierte el ICAP tanto en una justificación de las pedagogías colaborativas como en una restricción de diseño para la IA. Una IA que media la discusión (como hacen [[spritz-ai-disciplinary-mediation-student-teams-2026|Spritz]] o [[golrang-propact-pair-programming-2026|ProPACT]]) es valiosa precisamente cuando sostiene la implicación *interactiva*; una IA que responde por el grupo o suaviza el conflicto cognitivo puede degradar la colaboración a un modo meramente *activo* o *pasivo*. La anotación basada en ICAP (véase [[icap-cognitive-engagement-llm-agents|la medición extendida del ICAP del diálogo colaborativo]]) y la investigación sobre el momento de la facilitación tratan ambas la calidad del discurso interactivo como el resultado de interés, lo que fundamenta el aprendizaje colaborativo en la [[student-engagement|implicación del estudiantado]] y en la jerarquía del ICAP.([[icap-cognitive-engagement-llm-agents]])([[llm-facilitation-timing-online-discussions]])
+- **La IA generativa puede ocupar el asiento del moderador en lugar del del tutor.** Chen et al. (2026) realizaron un cuasiexperimento de 16 semanas con 64 estudiantes de grado en el que ambas condiciones contaban con un agente de IA y una plataforma estructurada, y solo difería el andamiaje de regulación: un agente adaptativo de SSRL frente a hojas de trabajo digitales estáticas ([[chen-genai-team-moderator-cscl-shared-regulation-2026|Chen et al., 2026]]). El grupo adaptativo mostró una mayor igualdad de participación pero no una mayor intensidad, la firma de una redistribución y no de más conversación.
+
 
 ## Orientaciones prácticas
 
@@ -98,6 +100,12 @@ El aprendizaje colaborativo ocupa la cima del [[icap-framework|marco ICAP]] (int
 - **Preferir retroalimentación no evaluativa y de nivel de aula.** Al apoyar la dimensión relacional de la colaboración, la retroalimentación agregada de nivel de clase protege la [[privacy|privacidad]] y la [[agency|agencia del estudiantado]] allí donde la puntuación individual se sentiría como vigilancia; el estudiantado de [[breideband-community-builder-cobi-2026|CoBi]] prefirió [[qualitative-research|visualizaciones cualitativas]] (un árbol orgánico) a las [[quantitative-research|cuantitativas]] (un gráfico de radar), y el profesorado valoró más usar las observaciones del sistema para suscitar reflexión que la visualización en directo.
 - **Diseñar para la lectura y la atención que preceden a la contribución.** El aprendizaje colaborativo en los foros de [[online-teaching-and-learning|enseñanza y aprendizaje en línea]] depende no solo de publicar, sino de la lectura que lo precede. [[hao-peer-exposure-bridging-social-capital-ai-summaries-2026|Hao y Cukurova (2026)]] muestran que los resúmenes de discusión y las publicaciones de ejemplo generados por LLM pueden actuar como [[scaffolding|andamiajes]] de navegación que amplían la exposición del estudiantado a las contribuciones de sus pares y las condiciones de red para el capital social de puente (vínculos débiles), un apoyo que debería complementar, y no sustituir, las estrategias sociopedagógicas para sostener el compromiso bajo la carga de trabajo académica.
 - **La cara social muestra disrupción sin una ganancia que la compense.** En cinco procesos de colaboración, un consenso de 30 personas expertas alcanzó únicamente la vulnerabilidad, con valoraciones de potenciación por debajo del umbral: Conexión Social (3,80 frente a una potenciación de 1,90), Desarrollo Socioemocional (3,60 frente a 2,00), Aprendizaje Social, Aprendizaje Colaborativo y Sentido de Pertenencia (todos 3,30) ([[genai-support-threaten-learning-k20-expert-consensus-2026|Kendeou, Greene & Nixon et al., 2026]]). El informe trata la asimetría como un objetivo de diseño, ya que la resolución colaborativa de problemas está anclada a un producto compartido mientras que el aprendizaje colaborativo no tiene referente visible y puede erosionarse sin detectarse.
+
+## Concepciones erróneas
+
+- **«Dar IA a los grupos significa más colaboración.»** Una revisión de alcance de **18 estudios** cartografía una disyuntiva en el trabajo en grupo: la IA generativa apoyó el **desarrollo del conocimiento, la generación de ideas y la eficiencia comunicativa** a la vez que imponía un coste relacional en las mismas intervenciones. La ganancia de eficiencia y el coste relacional llegan juntos.
+- **«El aprendizaje colaborativo apoyado por IA tiene respaldo metaanalítico.»** El **único** contraste metaanalítico disponible para el trabajo colaborativo apoyado por IA se sitúa **dentro** de las intervenciones de ABP/ABPr apoyadas por IA generativa en lugar de estimarse directamente, así que es un componente de un efecto más amplio y no una medición de la colaboración.
+- **«Un socio LLM preserva el razonamiento propio del grupo.»** [[oppenheimer-llms-collaborative-learning-partners-2026|Oppenheimer, Cash y Connell Pensky (2025)]] lo probaron a escala de aula con estudiantado de introducción a las ciencias sociales, justamente porque la preservación es una pregunta abierta y no un supuesto.
 
 ## Conceptos conectados
 - [[pedagogical-patterns]] — Colaboración con IA compartida y guionizada y sus diseños de roles probados

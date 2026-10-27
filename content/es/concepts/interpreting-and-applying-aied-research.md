@@ -1,7 +1,7 @@
 ---
 title: Interpretar y aplicar la investigación en AIED
 created: "2026-09-28T18:15:36-04:00"
-updated: "2026-10-22T07:28:33-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 type: concept
 foundations: [limitations-in-aied-research]
 research_method: [literature review]
@@ -13,7 +13,7 @@ page_kind: [evaluation, framework]
 confidence: high
 connected_faqs: [reporting-interpreting-aied-research, research-gaps-aied, how-can-ai-assist-with-educational-research]
 translation_of: concepts/interpreting-and-applying-aied-research
-source_updated: "2026-10-16T08:47:09-04:00"
+source_updated: "2026-10-25T16:25:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -150,6 +150,16 @@ Las comprobaciones anteriores no son sabiduría popular; proceden de fallos docu
 7. Calcule el coste: licencias, niveles, tiempo del personal, reglas sobre datos.
 8. Haga un piloto pequeño con una medida sin ayuda y luego decida.
 9. Anote una fecha de revisión a un año vista y esté listo para retirar la afirmación.
+
+## Concepciones erróneas
+
+**«Un metaanálisis publicado es evidencia zanjada sobre la IA en la educación.»** Las síntesis del campo no han superado la auditoría. La auditoría de [[oneill-presumed-effective-meta-analysis-2026|O'Neill (2026)]] sobre **14 metaanálisis revisados por pares** que afirman que la IA mejora la educación encontró que **ninguno** aportaba una base válida para esa conclusión. Un tamaño del efecto agrupado vale lo que valen los estudios agrupados, y en esta literatura la agrupación ha incluido con regularidad diseños que no podían atribuir el resultado a la IA. Antes de citar una cifra metaanalítica, pregunte qué agregó.
+
+**«El tamaño del efecto mayor corresponde a la mejor intervención.»** A menudo ocurre lo contrario. En el contexto de revisión que documenta esta página, solo el **21%** de los estudios tenía un tratamiento bien definido, un grupo de control y una medida válida de aprendizaje, y la ventaja reportada para «usar ChatGPT» resultó *mayor* que para los [[intelligent-tutoring|sistemas de tutoría inteligente]] diseñados a propósito. Los tratamientos débilmente especificados tienden a producir efectos inflados, porque la comparación es más vaga y la medida de resultado más laxa. Una cifra mayor es una razón para mirar el diseño, no una razón para preferir la intervención.
+
+**«Notas más altas mientras se usa la herramienta indican que la herramienta enseñó más.»** En un estudio de matemáticas de [[k-12|K-12]], el estudiantado que practicaba con un [[conversational-ai|chatbot]] de propósito general obtuvo mejores notas de práctica y después puntuó **alrededor de un 17% peor** en la evaluación sin asistencia. El rendimiento en la práctica medido con la herramienta presente es la medida inflada; la medida sin asistencia es el resultado, y solo una de las dos estaba subiendo.
+
+**«Si el efecto es real, los detalles de implementación importan poco.»** Son el efecto. Un estudio que siguió a 30 estudiantes en un curso de una institución, sobre una versión de la herramienta que ya nadie usa, ha producido un hallazgo sobre una configuración que ya no existe. La especificación del tratamiento, la versión y el entorno forman parte de la afirmación y no son contexto alrededor de ella.
 
 ## Conceptos conectados
 

@@ -8,10 +8,10 @@ assessment: [ai-detection, assessment-validity, authentic-assessment]
 level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai, regulation]
-connected_resources: [fpds-apps-and-resources, institutional-ai-readiness-pack, process-feedback, student-guide-to-ai, ai-infused-assignment-playbook]
+connected_resources: [code-viva, fpds-apps-and-resources, institutional-ai-readiness-pack, process-feedback, student-guide-to-ai, ai-infused-assignment-playbook]
 translation_of: concepts/academic-integrity
-source_updated: "2026-10-18T10:07:01-04:00"
-updated: "2026-10-22T09:13:53-04:00"
+source_updated: "2026-10-26T12:30:00-04:00"
+updated: "2026-10-26T21:37:14-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -177,6 +177,14 @@ El primer estudio de la teoría de la conducta planificada sobre la intención d
 
 **Las políticas de integridad están pasando de quién escribió las palabras a quién tuvo las ideas, y los detectores se están reconstruyendo para acomodarse.** IdeaLens predice la procedencia de las ideas a partir de un esquema en lugar de la prosa: en 50 relatos que personas escribieron desde cero siguiendo planes generados por IA, marcó el 68% como IA, frente al 8% de Pangram 4 y el 0% de su control entrenado con prosa, y calificó como humana el 94,7% de los textos humanos pulidos por IA ([[idealens-detecting-ai-ideas-2026|Rajendhran et al. (2026)]]). Su propia declaración ética califica el resultado de estimación estadística que no debe usarse por sí sola como prueba concluyente del uso de IA.
 
+[[gillette-partnership-ethics-genai-higher-education-2026|Gillette et al. (2026)]] documentan el régimen desde dentro de una facultad: el profesorado que había cambiado los formatos de evaluación afirmaba que era «prácticamente imposible decir si un estudiante ha usado IA al escribir sus tareas», mientras que el estudiantado, indignado, pedía apelaciones a la conciencia y «señalamiento» en lugar de detección.
+- **Detectar mejor no cambia lo que la evaluación puede certificar.** Un sistema de supervisión con estimación de postura YOLOv11 que declara una precisión de clasificación del 99,56% ilustra el límite de la vía de la detección: mide la postura frente a una etiqueta conductual, no aporta ninguna referencia real sobre la mala conducta y no ofrece análisis por subgrupos ([[arif-automated-online-proctoring-yolov11-2026|Arif et al., 2026]]). El remedio que defiende Villanueva es una evidencia suficiente de aprendizaje en etapas clave, no la vigilancia máxima de cada entrega.
+
+## Concepciones erróneas
+
+- **«Las herramientas de detección identifican la escritura con IA.»** El texto generado por IA ha **pasado por escrito por una persona en hasta el 80% de los casos**, mientras que la evidencia sobre la detección sitúa la **detección automática en torno al 80% frente al 78,4% de quienes revisan de forma humana**. El juicio humano y el automático son casi igual de (poco) fiables, así que un veredicto de detección no es prueba de autoría.
+- **«El problema es marginal.»** El volumen está muy lejos de serlo: un **análisis de seis años de un curso CS2 de gran matrícula** encontró que el **45,7% del estudiantado de la primavera de 2026 fue señalado**. Casi la mitad de una cohorte, lo que convierte esto en un problema de diseño generalizado y no en un caso límite.
+- **«El profesorado sabe qué evaluaciones son vulnerables.»** En un departamento de [[biology-education|biología]], el profesorado **percibía solo los exámenes presenciales supervisados como mínimamente vulnerables**, mientras que las tareas fuera del aula se veían como expuestas. La percepción coincidía con el caso obvio y trataba todo lo demás como seguro.
 ## Conceptos conectados
 - [[pedagogical-patterns]] — Secuencias de verificación adoptadas en respuesta a la IA generativa
 - [[ai-use-disclosure]] — Declaraciones de uso y de divulgación de la IA

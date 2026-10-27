@@ -1,7 +1,7 @@
 ---
 title: Realidad virtual y aumentada
 created: "2026-09-28T21:04:13-04:00"
-updated: "2026-10-22T09:13:53-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 type: concept
 pedagogy: [embodied-learning, professional-training]
 technology: [generative-ai, multimodal, simulation]
@@ -9,7 +9,7 @@ ethics: [accessibility]
 confidence: high
 discipline: [medical education, stem education]
 translation_of: concepts/virtual-and-augmented-reality
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-26T10:00:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -36,6 +36,8 @@ ai_assist:
 La realidad virtual y aumentada es una **modalidad**, no un modelo: es la capa a través de la cual un entorno de aprendizaje llega a quien aprende. Eso la convierte en un eje distinto del de la [[simulation|simulación]], que es lo que se modela en primer lugar. Los dos se confunden a menudo, porque los entornos inmersivos son vehículos de entrega habituales para las simulaciones, pero varían de forma independiente: un simulador de paciente de escritorio es simulación sin RV, y una superposición de RA sobre un instrumento real es RV sin simulación. Mantener los ejes separados importa para el diseño: decidir que la práctica no tenga riesgos es una decisión distinta de decidir que sea corporeizada, y las dos conllevan costes, modos de fallo y evidencias diferentes. La RV/RA es la **capa de entrega** de una simulación y un pariente cercano del [[game-based-learning|aprendizaje basado en juegos]]; operacionaliza los relatos [[embodied-learning|corporeizado]] y [[situated-learning|situado]] del aprendizaje, y se sitúa dentro de la práctica [[experiential-learning|experiencial]] y del [[active-learning|aprendizaje activo]].
 
 La IA moldea ahora esta modalidad desde ambos extremos. **Crea** contenido inmersivo, porque la [[generative-ai|IA generativa]] convierte un prompt estructurado en lenguaje natural en un artefacto de RA o RV ejecutable, y con ello derriba la habilidad de programación especializada que antes controlaba la producción. Y **habita** el entorno, ya que [[agentic-ai|agentes]], [[pedagogical-agent|agentes pedagógicos]] y [[rag|conocimiento de dominio recuperado]] ofrecen orientación dentro de él: con las manos libres, en tiempo real y fundamentada en fuentes que quien aprende no puede consultar mientras lleva un visor puesto.
+
+[[shao-ai-vr-flipped-classroom-efl-2026|Shao, Tang y Ju (2026)]] prueban un aula invertida mejorada con IA y RV con estudiantes jóvenes de inglés como lengua extranjera e informan de ganancias en rendimiento en inglés, autorregulación metacognitiva y motivación, con la alfabetización tecnológica moderando cuánto se beneficiaron de la componente inmersiva.
 
 ## Qué añade la modalidad
 
@@ -72,6 +74,12 @@ El resultado negativo más claro de la base de conocimiento procede de un despli
 Cuando la práctica inmersiva se usa para habilidades interpersonales y procedimentales, el factor limitante no es la fidelidad visual sino la autenticidad sentida. Una revisión de [[mixed-methods-research|métodos mixtos]] sobre la simulación de enfermería impulsada por IA (19 estudios, N = 1.253) encontró que la IA era eficaz para el conocimiento cognitivo y los resultados afectivos, pero inconsistente para las habilidades psicomotoras complejas, y nombró la razón: una **brecha de autenticidad** que abarca la resonancia emocional, el reconocimiento de señales no verbales y las dimensiones táctiles y de [[summative-assessment|exploración]] física. Su recomendación práctica es un **continuo escalonado de simulación**: la IA se adapta bien a objetivos muy estructurados, como la comunicación básica y la anamnesis, mientras que los escenarios psicomotores avanzados y emocionalmente complejos corresponden a pacientes estandarizados humanos y a la práctica clínica. La inestabilidad técnica agrava el problema: los retrasos del reconocimiento de voz inyectan [[cognitive-offloading|carga cognitiva]] y ansiedad extrínsecas, lo que convierte la estabilidad y la latencia en palancas de diseño y no en detalles de implementación.
 
 La misma lógica explica por qué la presencia no es automáticamente buena. Los mareos por movimiento, la inconsistencia de la interfaz, el coste del hardware y el acceso desigual a los dispositivos deciden quién puede usar un entorno inmersivo siquiera, y por eso las preguntas de [[equity-in-ai-education|equidad]] de esta modalidad conectan con la [[accessibility|accesibilidad]] y el [[inclusive-learning|aprendizaje inclusivo]] en lugar de quedar al margen.
+
+## Concepciones erróneas
+
+- **«Sentir el fenómeno significa comprenderlo.»** Un piloto encontró que el estudiantado declaraba **sentir** la longitud de onda y la amplitud mediante un gesto de la mano con más fuerza que mediante un deslizador, pero **medía la percepción, no el rendimiento**. La sensación es la posibilidad de acción, y si produjo comprensión es una prueba aparte.
+- **«Las puntuaciones altas de usabilidad validan una herramienta de RV educativa.»** En una **sesión de una hora con 10 estudiantes** en unas Meta Quest 3, el estudio informó de **buena usabilidad en la System Usability Scale y un mareo de simulación mínimo**. La usabilidad y la comodidad son condiciones previas y ninguna es una medida de aprendizaje.
+- **«El acuerdo del estudiantado es evidencia de la posibilidad de acción.»** Con **29 estudiantes de segundo curso de imagen médica**, los 29 **coincidieron en que el gesto les ayudaba a «sentir» qué es la longitud de onda (media 4,52)**. El acuerdo unánime sobre una sensación es autoinforme sobre la experiencia, y la afirmación sobre la posibilidad de acción necesita un resultado que no dependa del juicio del estudiantado sobre su propia comprensión.
 
 ## Conceptos conectados
 

@@ -1,7 +1,7 @@
 ---
 title: "DeepTutor"
 created: "2026-09-27T03:01:09-04:00"
-updated: "2026-09-27T03:01:09-04:00"
+updated: "2026-10-26T21:20:55-04:00"
 type: resource
 summary: "La publicación de código abierto del marco de tutoría agéntica DeepTutor: un único espacio de trabajo para la tutoría, la generación de preguntas, la práctica de dominio, la investigación y la visualización, con una memoria de quien aprende inspeccionable."
 url: https://github.com/HKUDS/DeepTutor
@@ -43,7 +43,7 @@ Profesorado e investigadores de educación superior que quieren una versión des
 
 ## Notas
 
-Con licencia Apache 2.0, en la versión 1.6.9 a fecha de septiembre de 2026 y con unas 40.000 estrellas en GitHub. La evaluación publicada que lo respalda (una mejora media del 10,8 % en las métricas personalizadas frente a bases de referencia sólidas y un razonamiento agéntico general un 29,4 % más fuerte en cinco modelos de base, sobre el benchmark TutorBench) se resume en [[deeptutor|la página del artículo]], cuyas limitaciones también se aplican aquí. Como en cualquier pila de IA de código abierto, usted aporta las claves de los proveedores de modelos, y un despliegue de escritorio o de servidor espera Python 3.11 y Node.
+Con licencia Apache 2.0, en la versión 1.6.9 a fecha de septiembre de 2026 y con unas 40.000 estrellas en GitHub. La evaluación publicada que lo respalda (una mejora media del 10,8 % en las métricas personalizadas frente a bases de referencia sólidas y un razonamiento agéntico general un 29,4 % más fuerte en cinco modelos de base, sobre el benchmark TutorBench) se resume en [[zhao-deeptutor-agentic-personalized-tutoring-2026|la página del artículo]], cuyas limitaciones también se aplican aquí. Como en cualquier pila de IA de código abierto, usted aporta las claves de los proveedores de modelos, y un despliegue de escritorio o de servidor espera Python 3.11 y Node.
 
 ## Conceptos conectados
 [[agentic-ai]], [[intelligent-tutoring]], [[personalized-learning]], [[rag]], [[open-source]], [[mastery-learning]], [[knowledge-tracing]], [[automated-question-generation]]

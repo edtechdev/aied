@@ -1,7 +1,7 @@
 ---
 title: Punto de referencia
 created: "2026-09-28T21:03:34-04:00"
-updated: "2026-10-24T08:21:12-04:00"
+updated: "2026-10-26T21:37:14-04:00"
 type: concept
 technology: [generative-ai, llm]
 assessment: [assessment]
@@ -10,7 +10,7 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation, benchmark]
 translation_of: concepts/benchmark
-source_updated: "2026-10-23T09:35:00-04:00"
+source_updated: "2026-10-26T10:25:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -87,6 +87,12 @@ Los puntos de referencia se conectan con la [[ai-ed-evaluation|evaluación de la
 - **La regla de puntuación forma parte del instrumento.** [[crediting-assisted-work-inflates-mastery-2026|Srivastava (2026)]] ejecuta cuatro reglas de actualización del seguimiento del conocimiento sobre las mismas secuencias de eventos de ASSISTments 2012–13, que difieren solo en cómo puntúan las filas con ayuda, y preregistra las comparaciones tras una barrera que retiene la mitad confirmatoria del estudiantado hasta que el archivo de registro está presente. Acreditar cualquier finalización apenas supera una constante de dificultad de habilidad (AUC agrupada 0,604 frente a 0,595 en 985.813 eventos puntuados) y declara dominados el 93,9 por ciento de los pares estudiante–habilidad frente al 72,8 por ciento con una regla que lee las filas asistidas como primeros intentos fallidos (0,658) —la lección general es que una etiqueta de dominio la define la regla de evidencia, no el registro.
 - **Informar de la capacidad del modelo como un nivel calibrado, y no solo como exactitud.** [[standardized-assessment-llm-english-proficiency-2026|Min et al. (2026)]] asignan 624 ítems anotados por personas expertas a niveles de competencia con nombre propio usando 2.050 respuestas de estudiantes, y encuentran que los modelos de frontera superan el techo calibrado: un límite que un porcentaje oculta.
 - **Una regla de puntuación puede ser burlada por el modelo al que entrena.** Una métrica de adaptabilidad que se maximiza repitiendo una única mejor decisión muestra que el diseño de benchmarks debería publicar el argmax, puntuar la adaptación como una diferencia e informar de líneas base por encima del azar ([[llm-tutor-pedagogical-metric-degradation-2026|Domínguez Figaredo y Fernández De la Cruz, 2026]]).
+
+## Concepciones erróneas
+
+- **«La posición en la clasificación indica lo bueno que es un tutor.»** StudentBench **asigna al azar a 2.383 adultos a tutoría con IA, tutoría humana experta en vivo y una condición de vídeo**, y puntúa contra tutores humanos y no contra otros sistemas. Un punto de referencia escalado contra otros modelos responde a una pregunta que nadie necesitaba responder.
+- **«Las personas simuladas son una base adecuada para evaluar tutores.»** [[tutor-case-bench-challenging-behaviors-2026|TutorCaseBench]] ancla la evaluación en **literatura de casos documentada en lugar de personas simuladas**, con **923 diálogos**. Las personas estudiantes fabricadas permiten que un sistema supere casos que no ocurren.
+- **«Se puede confiar en los puntos de referencia sin comprobar a quien juzga.»** La alucinación se puntuó como **implicación lógica respecto a los fragmentos de licencia abierta recuperados (κ = 0,76 con el juicio experto)**: quien juzgaba se validó contra personas expertas antes de usar sus puntuaciones. Un juez automático sin validar produce números de significado desconocido.
 
 ## Conceptos conectados
 

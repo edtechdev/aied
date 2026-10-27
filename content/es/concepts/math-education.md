@@ -1,7 +1,7 @@
 ---
 title: Educación matemática
 created: "2026-09-28T18:15:22-04:00"
-updated: "2026-10-24T08:22:40-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 type: concept
 pedagogy: [scaffolding]
 technology: [generative-ai, intelligent-tutoring]
@@ -10,7 +10,7 @@ audience: [learners, instructors]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/math-education
-source_updated: "2026-10-23T09:20:00-04:00"
+source_updated: "2026-10-25T18:05:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -96,6 +96,16 @@ La educación matemática se sitúa dentro del dominio más amplio de la [[stem-
 - **Cuidado con la fragilidad del formato superficial en la puntuación con IA.** [[representation-robustness-llm-math-problem-solving|La sensibilidad a la representación]] implica que problemas equivalentes pueden invertir las respuestas de la IA —un riesgo de validez para la evaluación matemática basada en IA; prefiera la [[human-in-the-loop-ai|revisión humana]] para puntuaciones de alto riesgo.
 - **Use la IA para bajar el umbral de la práctica personalizada.** [[ai-powered-personalized-learning-elementary-fractions-2026|Las plataformas adaptativas]] mejoraron la comprensión de las fracciones en estudiantes con dificultades de aprendizaje matemático; despliegue herramientas adaptativas con IA de forma selectiva para quienes necesitan apoyo diferenciado.
 - **Mantenga al docente al mando de los materiales didácticos generados por IA.** [[teacher-control-ai-generation-math-visuals|El control docente de los visuales de IA]] respalda un marco que equilibra la eficiencia de la IA con la corrección pedagógica.
+
+## Concepciones erróneas
+
+**«El argumento motivacional de la IA en matemáticas es tan sólido como en lengua.»** La evidencia agrupada es más delgada para matemáticas y debe leerse así: el efecto de la IA generativa sobre la motivación para aprender fue mayor en lengua (**g = 0,946**) y moderado en matemáticas (**g = 0,711, IC del 95% [0,356; 1,066], k = 4**). Cuatro estudios y un intervalo de confianza que abarca la mayor parte del rango plausible son una base débil para una afirmación fuerte, y la diferencia entre dominios es lo bastante grande como para que los hallazgos de lengua no deban trasladarse sin examinarlos.
+
+**«Si los deberes parecen correctos, las matemáticas se hicieron bien.»** Los rastros de los registros de chat de **23 estudiantes de álgebra lineal** muestran que la mezcla de prompts cambiaba con la tarea mientras **el 90% de las entregas se mantenía cerca de la salida del modelo**, y un curso de demostraciones con 153 estudiantes encontró que el rendimiento en los deberes apoyados por IA divergía de la evaluación sin asistencia. La proximidad a la salida del modelo mide haber recibido ayuda, no haber aprendido; en un dominio con respuestas correctas claras, una entrega correcta es el artefacto menos diagnóstico disponible.
+
+**«Las matemáticas son un dominio fácil para la IA porque las respuestas son verificables.»** La verificabilidad es lo que hace de las matemáticas un buen banco de pruebas, no lo que las hace seguras. Como la respuesta final es verificable, un estudiante puede validar una solución que no construyó, que es precisamente cómo se elude el razonamiento de la materia mientras la calificación se mantiene limpia. La propiedad que atrae a quienes investigan es la que hace invisible la descarga.
+
+**«La dificultad de un ítem de matemáticas puede asignarla un modelo capaz.»** Tiene que calibrarse contra respuestas. En un estudio de dificultad de ítems que abarcó **5.170 ítems de K-5** calibrados bajo el modelo IRT de Rasch, las valoraciones de dificultad zero-shot generadas por el modelo se compararon con la calibración empírica precisamente porque la dificultad declarada y la dificultad medida son cantidades distintas.
 
 ## Conceptos conectados
 

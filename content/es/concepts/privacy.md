@@ -2,7 +2,7 @@
 connected_resources: [drawsplat]
 title: Privacidad
 created: "2026-09-28T19:11:03-04:00"
-updated: "2026-10-22T09:13:53-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, ai-guidance-children-under-13, institutional-ai-policy]
 type: concept
 technology: [learning-analytics, personalized-learning]
@@ -11,7 +11,7 @@ level: [k 12]
 confidence: high
 institutions: [educational-policy-ai, governance, regulation]
 translation_of: concepts/privacy
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-26T13:50:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -67,6 +67,13 @@ Los entornos de [[k-12|K-12]] exigen salvaguardas de privacidad más estrictas p
 ## Conexiones
 
 La privacidad se conecta con la [[learning-analytics|analítica del aprendizaje]] (la recopiladora de datos), el [[personalized-learning|aprendizaje personalizado]] (el consumidor de datos), [[k-12|K-12]] (protecciones reforzadas), la [[ethics|ética]] (el marco normativo), la [[regulation|regulación]] (los requisitos legales), la [[governance|gobernanza]] (la responsabilidad institucional), la [[equity-in-ai-education|equidad]] (quién queda protegido), la [[pedagogical-safety|seguridad pedagógica]] (la protección de la infancia) y la [[educational-policy-ai|política educativa sobre IA]] (las respuestas de política). Es una de las restricciones fundamentales que debe satisfacer cualquier despliegue responsable de IA en educación: la razón por la que la IA digna de confianza, en el encuadre de la base de conocimiento, empieza por datos dignos de confianza.
+
+## Concepciones erróneas
+
+- **«La supervisión de exámenes captura una porción de datos limitada y bien comprendida.»** Un catálogo de lo que los sistemas de [[remote-proctoring|supervisión remota]] capturan realmente enumera **imágenes faciales, documentos de identidad, escaneos de la habitación incluidos barridos de 360 grados, audio del micrófono, reconocimiento facial** y más. El alcance es más amplio de lo que describen la mayoría de los procesos de consentimiento.
+- **«La literatura sobre supervisión de exámenes establece la ética de la supervisión.»** Una revisión de **80 estudios** encontró que el **35% no divulgó su conjunto de datos, el 40% evaluó un solo modelo, el 30% no pudo reproducirse y solo el 25%** cumplió el estándar de notificación. La base de evidencia es escasa justo en las cuestiones que una institución necesita responder antes del despliegue.
+- **«La privacidad es una casilla de cumplimiento y no una restricción de diseño.»** Casi toda herramienta de IA que personaliza, predice o evalúa depende de datos de quien aprende, lo que convierte la minimización de datos en una decisión de diseño. Una herramienta que necesita los datos no tiene un ajuste de privacidad opcional; tiene una dependencia de datos que el diseño eligió.
+- **La conciencia sobre las prácticas de datos no se sigue de verlas.** [[bergdahl-student-epistemic-agency-ai-2026|Bergdahl (2026)]] encontró que el **66% de 47 estudiantes de séptimo curso** elegía la opción menos protectora en chatbots que leían su escritura, y que el **47%** desestimaba la influencia algorítmica como «solo diversión», medido **un mes después** de una lección en la que la clase vio proyectado en directo su propio comportamiento registrado, reaccionó diciendo que era «inquietante» y varias personas se quedaron durante el recreo para seguir usando la plataforma. La enseñanza sobre privacidad que hace visible el mecanismo sin hacer concreto el coste deja la postura intacta. La autora señala que las puntuaciones bajas aquí pueden ser **más fiables que las altas**, ya que no existe una respuesta socialmente esperada para estos ítems, mientras que la responsabilidad y la gobernanza invitan a la respuesta que suena correcta.
 
 ## Conceptos conectados
 

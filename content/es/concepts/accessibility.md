@@ -1,8 +1,8 @@
 ---
-connected_resources: [drawsplat, fpds-apps-and-resources, id-toolbox, idstack]
+connected_resources: [drawsplat, fpds-apps-and-resources, id-toolbox, idstack, teacher-dev]
 title: Accesibilidad
 created: "2026-09-28T19:10:33-04:00"
-updated: "2026-10-22T07:28:33-04:00"
+updated: "2026-10-26T21:37:14-04:00"
 connected_faqs: [designing-educational-ai-software, equity-ethics-pedagogical-safety-research, ai-disabled-neurodivergent-learners]
 type: concept
 foundations: [learning-design]
@@ -10,7 +10,7 @@ ethics: [accessibility, assistive-technology, equity-in-ai-education, inclusive-
 level: [special education]
 confidence: high
 translation_of: concepts/accessibility
-source_updated: "2026-10-15T10:00:00-04:00"
+source_updated: "2026-10-26T07:05:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -77,6 +77,12 @@ Un vídeo con subtítulos precisos y una transcripción correctamente etiquetada
 
 - **Transcripción matemáticamente accesible de vídeos de [[physics-education|física]] (2026):** un flujo de trabajo con IA que usa Gemini (audio + muestreo de vídeo a 1 fps) y LuaLaTeX compila vídeos instructivos de física en PDF accesibles en matemáticas según PDF/UA-2 e ISO 32005 que superan habitualmente la validación de accesibilidad: una vía práctica y gratuita para que el contenido de vídeo con muchas ecuaciones sea legible por lector de pantalla para estudiantes ciegos y con baja visión ([[gemini-lualatex-physics-video-transcription-2026]]).
 
+## Concepciones erróneas
+
+- **«Una función de accesibilidad que se ve peor es peor.»** La superposición de franjas **degradó la extracción más que ninguna otra técnica (+35,9% de error de caracteres, +38,3% de error de palabras)**, y aun así **cuatro personas expertas en tipografía y diseño consideraron legibles las franjas verticales**, mientras que los patrones diagonales fallaron. La legibilidad automática y la legibilidad humana son mediciones distintas, y optimizar una puede perjudicar la otra. Las afirmaciones sobre accesibilidad deben indicar para qué lector son.
+- **«Accesibilidad significa adaptación.»** Una revisión de alcance de **40 estudios** sobre tecnologías digitales de asistencia para estudiantes neurodivergentes encontró que **28 exigían un diagnóstico formal como condición de participación**. Es un modelo condicionado por el diagnóstico, y excluye a todo aprendiz que tiene necesidades pero no una etiqueta: lo contrario del diseño universal.
+- **«Los efectos medios zanjan la cuestión.»** [[zhang-ai-students-disabilities-meta-analysis-2024|Zhang et al.]] metaanalizan **29 estudios** y encuentran un efecto positivo medio, que es real y a la vez no dice nada sobre qué herramienta para qué necesidad. La media de intervenciones heterogéneas no es una recomendación.
+- **«La velocidad y la inmediatez son comodidades.»** En un estudio de caso cualitativo con **21 estudiantes universitarios con discapacidad visual** de tres universidades palestinas, quienes aprenden enmarcaron la inmediatez como un **requisito de accesibilidad fundacional y no como una comodidad**. Lo que desde fuera parece un lujo es una condición previa para participar.
 ## Conceptos conectados
 - [[differential-effects-across-learner-groups]]
 - [[inclusive-learning]] — paraguas más amplio para diseñar la educación ante toda la variabilidad del estudiantado

@@ -1,7 +1,7 @@
 ---
 title: IA con intervención humana (HITL)
 created: "2026-09-25T04:31:15-04:00"
-updated: "2026-10-24T08:22:32-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 connected_faqs: [ai-agents-support-students-instructors, designing-educational-ai-software, ai-feedback-at-scale]
 type: concept
 foundations: [ai-education]
@@ -13,7 +13,7 @@ methods: [benchmark]
 ethics: [pedagogical-safety]
 reviewed_by: [editor]
 translation_of: concepts/human-in-the-loop-ai
-source_updated: "2026-10-24T06:14:00-04:00"
+source_updated: "2026-10-26T11:15:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -122,6 +122,12 @@ El diseño con intervención humana no es meramente una medida de seguridad: es 
 - **Quienes aprenden como la persona en el bucle de su propia tutoría.** El [[ko-hughes-vsd-student-centered-its-2026|diseño sensible a los valores]] con estudiantes de colegios comunitarios produjo toda una familia de funciones HITL orientadas a quien aprende para un ITS (control sobre la reevaluación y la revisión, metas y ritmo personalizados, marcadores para repasar, confirmación de la confianza por encima del dominio y un control del nivel de participación de la asistencia de IA), lo que sitúa al estudiante como controlador activo del bucle de tutoría y no como consumidor pasivo de decisiones adaptativas. El estudio halló también al profesorado dividido sobre si dicho control por parte de quien aprende podría socavar la integridad de la ruta de aprendizaje guiada por el sistema — un caso de la pregunta más amplia sobre la asignación de recursos: dónde aporta más valor el juicio humano (del estudiante o del docente).
 - **La escalada de la IA al experto es un movimiento de intervención humana.** El marco SCAN asigna tareas a cuatro modos de IA generativa según la distancia del estudiante, e interpreta la [[student-engagement|implicación]] pasiva dentro de una tarea de IA correctamente asignada como una señal de desajuste de competencias que desplaza al estudiante de la asistencia de IA a la asistencia experta, con una persona como auditor epistémico ([[ai-teammate-task-distribution-medical-training-2026|Tsim et al. (2026)]]).
 - **Supervisión del asesoramiento sobre la adopción de IA.** Dado que los sistemas de [[conversational-ai|IA conversacional]] que consultan usuarias escépticas pueden estar predispuestos a fomentar la adopción, la supervisión humana y la evaluación independiente son esenciales. Una auditoría que muestra que la mayoría de los modelos de frontera redirigen al personal escéptico de [[k-12]] hacia la [[student-engagement|implicación]] subraya la necesidad de un asesoramiento con IA transparente y auditable en lugar de una confianza acrítica.
+
+## Concepciones erróneas
+
+- **«Mostrar la recomendación del sistema ayuda a la persona a supervisarlo.»** **Ocultar la respuesta preferida por el sistema es protector y no correctivo**: en un debate multiagente que **nunca reveló una posición recomendada**, la desviación perjudicial hacia la respuesta de la IA **se redujo**. Revelarla invitaba a la deferencia; ocultarla sostenía el juicio.
+- **«La intervención humana debe significar una persona y una decisión.»** Un aula multiagente con arquetipos de agente [[teacher-role|docente]], agente asistente y compañeros de clase se desplegó en la Universidad de Tsinghua con **más de 500 estudiantes y más de 100.000 registros de aprendizaje**. La supervisión escala a través del arreglo y no multiplicando supervisores.
+- **«Revisar la salida de la IA es intuitivo.»** En un **estudio intra-sujeto con 23 personas educadoras**, un enfoque basado en la revisión **mejoró todos los principios CTML (valoración media de 3,07 a 3,86, p < 0,01)**, y el profesorado valoró favorablemente la eficiencia de producción. La revisión es una habilidad que mejoró con un método estructurado.
 
 ## Conceptos conectados
 - [[pedagogical-patterns]] — Dónde se sitúa la revisión humana en las secuencias probadas, y qué nunca se ha probado de forma aislada

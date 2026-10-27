@@ -1,7 +1,7 @@
 ---
 title: Desarrollo teórico en la IA en la educación
 created: "2026-09-28T21:02:41-04:00"
-updated: "2026-10-22T07:31:04-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 type: concept
 foundations: [ai-education, limitations-in-aied-research]
 pedagogy: [learning-theories]
@@ -10,7 +10,7 @@ page_kind: [framework]
 confidence: medium
 methods: [research-methods-aied]
 translation_of: concepts/theory-development-aied
-source_updated: "2026-10-16T08:47:09-04:00"
+source_updated: "2026-10-25T15:55:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -36,6 +36,7 @@ ai_assist:
 ## Introducción
 
 El desarrollo teórico en la IA en la educación se sitúa en la frontera entre las [[learning-theories|teorías del aprendizaje]] aplicadas en las que se apoya el campo y los constructos novedosos que está produciendo la era de la IA. Mientras que [[learning-theories|las teorías del aprendizaje]] catalogan las teorías establecidas que se aplican a la IA (conductismo, constructivismo, carga cognitiva, autodeterminación, etc.), este concepto sigue el *proceso y el producto de la teorización misma*: qué teorías y marcos nuevos están naciendo, cómo se están haciendo avanzar las teorías establecidas y la cuestión metodológica de si la investigación sobre IA en la educación teoriza bien.
+- **Un marco que especifica su propia condición de comparación.** Nakamura (2026) trata la partición del trabajo cognitivo como unidad explicativa, sitúa las operaciones en un continuo gradual de periférico a constitutivo, nombra la condición de comparación frente a la cual se definen el aumento y la erosión, y deriva siete proposiciones contrastables y condicionadas ([[nakamura-augmentation-erosion-cognitive-offloading-stem-2026|Nakamura, 2026]]). Como las proposiciones predicen diferencias entre configuraciones, un estudio que solo informa de un efecto medio no puede confirmarlas ni refutarlas.
 
 ## Nuevas teorías del aprendizaje con IA
 
@@ -87,6 +88,32 @@ La teorización del campo es desigual. [[limitations-in-aied-research|Las limita
 ## Relación con la filosofía de la IA en la educación
 
 El desarrollo teórico y [[philosophy-of-ai-in-education|la filosofía de la IA en la educación]] son líneas complementarias pero distintas del trabajo fundacional de esta base de conocimiento. El **desarrollo teórico** produce y pone a prueba empíricamente los *mecanismos* del aprendizaje con IA —teorías y marcos con nombre propio como el generativismo, la co-agencia epistémica y la línea base cognitiva ausente, que explican y predicen cómo interactúan quienes aprenden y la IA—. La **filosofía** interroga los *presupuestos* en los que se apoyan esos mecanismos: qué cuenta como conocimiento, quién cuenta como conocedor y qué es fundamentalmente quien aprende. Una teoría como la [[learning-with-machines-toward-a-theory-of-epistemic-co-agency|co-agencia epistémica]] propone un mecanismo mientras adopta implícitamente compromisos filosóficos sobre la cognición distribuida y la [[agency|agencia]]; la filosofía hace explícitos y contestables esos compromisos. Donde el desarrollo teórico pregunta si un marco explica bien el aprendizaje, la filosofía pregunta si capta lo que el aprendizaje y la mente realmente son: las dos líneas se encuentran en los artículos más fundacionales del campo, que a menudo hacen ambas cosas a la vez.
+
+## Concepciones erróneas
+
+**«Un hallazgo de que la herramienta funcionó es una contribución teórica.»** No lo es, y la razón es estructural. Donde las proposiciones de un marco predicen *diferencias entre configuraciones*, un estudio que solo informa de un efecto medio **no puede confirmarlas ni refutarlas**: el diseño no puede ver la distinción de la que trata la teoría. Un ensayo que muestra una ganancia media dice que ocurrió algo, no qué mecanismo lo causó, así que la teoría queda exactamente tan respaldada como antes.
+
+**«Aplicar una teoría establecida a la IA es desarrollo teórico.»** El propio problema del uso de la teoría de esta página dice lo contrario: la aplicación no es avance, y el patrón recurrente del campo es el de constructos prestados usados como vocabulario y no como predicciones contrastables. La distinción importa porque un marco prestado que no puede generar una diferencia falsable es decoración y no teoría.
+
+**«Las taxonomías existentes de la función pedagógica de la IA ya cubren lo que hacen estos sistemas.»** No cubren buena parte de ello. Entre 154 publicaciones con una función de aplicación clasificable, **90 (58,4%) se escapaban de las cuatro categorías** del marco anterior, y por eso el trabajo más reciente cruza la función con el control delegado, la posición epistémica y la pedagogía incorporada. Una taxonomía que clasifica mal casi tres de cada cinco casos no puede servir como vocabulario común del campo, y la brecha es un hallazgo sobre el fenómeno y no una laguna en un artículo.
+
+## Implicaciones para la práctica
+
+**Para el profesorado y el diseño instruccional**
+
+- Cuando un estudio informa de un efecto medio, no lo trate como una guía sobre *su* configuración. Las afirmaciones a nivel de teoría son sobre diferencias entre configuraciones, y un promedio no puede decirle cuál está ejecutando.
+- Pregunte a cualquier marco que adopte si predice algo que podría resultar falso en su propio contexto. Si no puede, no le ayudará a decidir nada.
+- Espere que las categorías existentes no capturen su caso; más de la mitad de las publicaciones clasificadas no encajaban en la división estándar en cuatro.
+
+**Para quienes desarrollan**
+
+- Informe de configuraciones y no de un único efecto destacado. Si su diseño encarna una combinación específica de control delegado y postura epistémica, dígalo: esa es la unidad de la que habla la teoría y la unidad que otro equipo necesita para reproducirlo.
+- No promocione una afirmación de mecanismo con la fuerza de un resultado medio; el tipo de evidencia que exige el mecanismo es un contraste y no una media.
+
+**Para quienes investigan**
+
+- Diseñe para contrastes de configuración si pretende una contribución teórica. Un ensayo de efecto medio publicado como desarrollo teórico es el resultado más común y menos útil del campo.
+- Adjunte proposiciones falsables explícitas a cualquier marco que introduzca, e informe de qué diferencias de configuración lo habrían refutado.
 
 ## Conceptos conectados
 

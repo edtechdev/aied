@@ -1,7 +1,7 @@
 ---
 title: Narrativa en la educación
 created: "2026-09-28T18:15:36-04:00"
-updated: "2026-10-02T22:23:27-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 type: concept
 pedagogy: [creativity, motivation, storytelling-in-education, student-engagement]
 technology: [educational-robotics]
@@ -9,7 +9,7 @@ discipline: [language learning]
 level: [k 12]
 confidence: high
 translation_of: concepts/storytelling-in-education
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-26T01:30:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -44,6 +44,16 @@ La narrativa se fundamenta en la [[motivation|motivación]], la [[student-engage
 
 La narrativa se conecta con [[student-engagement]], [[motivation]], [[creativity]], [[educational-robotics]], [[language-learning]], [[social-emotional-learning]] y [[educational-robotics]].
 
+## Concepciones erróneas
+
+**«Una historia cocreada es una historia contada.»** Lo que se gana es fluidez y volumen; lo que se arriesga es la autoría de quien cuenta. Una historia es una estructuración de la experiencia hecha por alguien que eligió la secuencia y el énfasis, así que una máquina que aporta la estructura ha aportado la parte que porta el significado.
+
+**«La narrativa es un añadido blando al contenido.»** La narración es un dispositivo de memoria y de construcción de sentido, y quien aprende que narra está haciendo el trabajo de organizar. Entregar la narración es entregar el aprendizaje.
+
+**«La generación con IA hace que la narrativa esté disponible para estudiantes que no sabían escribir.»** Hace disponible *producir un artefacto escrito*, que es un beneficio distinto. La narración oral, el dibujo y el dictado son las vías establecidas hacia el mismo objetivo, y preservan la autoría que la generación elimina.
+
+**«El valor educativo de una historia está en el resultado pulido.»** Está en la construcción: la selección y el orden que realiza quien cuenta. Una historia pulida que el estudiante no estructuró ha demostrado la competencia del modelo y no la de quien aprende.
+
 ## Conceptos conectados
 
 - [[student-engagement]]
@@ -59,4 +69,4 @@ La narrativa se conecta con [[student-engagement]], [[motivation]], [[creativity
 - [[robobuddy-llm-social-robots-classroom-2025]] — RoboBuddy
 - [[icub-humanoid-storytelling-llm-hri-2025]] — iCub Narrative HRI
 - [[remind-robot-mediated-roleplay-antibullying-2026]] — REMind
-- [[white-wu-robotics-ai-education-2026]] — Robótica e IA en la educación
+- [[white-wu-robotics-ai-education-2026]] — Robótica e IA en la educación (White y Wu)

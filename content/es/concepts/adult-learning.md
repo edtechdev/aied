@@ -1,7 +1,7 @@
 ---
 title: "Aprendizaje de adultos"
 created: "2026-09-28T20:20:21-04:00"
-updated: "2026-10-22T07:28:08-04:00"
+updated: "2026-10-26T21:37:14-04:00"
 type: concept
 foundations: [ai-education, learning-design]
 pedagogy: [professional-training]
@@ -11,7 +11,7 @@ confidence: medium
 methods: [usability-research]
 technology: [edtech-platform]
 translation_of: concepts/adult-learning
-source_updated: "2026-10-16T19:47:08-04:00"
+source_updated: "2026-10-26T07:30:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -63,6 +63,12 @@ El aprendizaje de adultos se sitúa en la intersección de varios conceptos estr
 
 - **Principios de diseño de IA para la andragogía.** [[kim-ai-andragogy-2026|Kim et al. (2026)]] encuentran que quienes aprenden siendo adultos valoran la IA como agente de aprendizaje colaborativo y derivan tres principios de diseño de IA para la andragogía: la intervención humana en el circuito (modelos mentales compartidos, cocreación persona-IA), el diseño emocional (calibrar la dependencia de la IA, comunicación empática) y la adaptabilidad (adaptación continua, interoperabilidad). Sus once prototipos de escenario también asignan cada principio andragógico a una posibilidad concreta de la IA: [[intelligent-tutoring|tutores de IA]] y [[learning-by-teaching|agentes enseñables]] para la implicación, herramientas de monitorización y [[learning-analytics|analítica]] para la autonomía y la autoevaluación, [[conversational-ai|chatbots]] empáticos y [[simulation|simulaciones]] para la experiencia, bibliotecas de casos y generadores de preguntas de orden superior para el trabajo centrado en problemas, y planificadores y orientadores profesionales de IA para la relevancia.
 - **Preserve el esfuerzo productivo.** El estudio de fracaso productivo del mismo grupo asigna el apoyo de la IA a las dos fases del FP y concluye que el diseño no debe resolver el esfuerzo: los agentes conversacionales actúan como compañeros de pensamiento no directivos durante la generación y la exploración, y luego apoyan la comparación, la reorganización y la transferencia durante la consolidación ([[kim-ai-productive-failure-adult-2026|Kim et al. (2026)]]).
+
+## Concepciones erróneas
+
+- **«Una buena herramienta sirve para quien aprende siendo adulto.»** La investigación encontró que **ningún sistema de IA para el aprendizaje de adultos satisfacía todas las directrices de diseño**: hacía falta todo el ecosistema. Las personas adultas llegan con obligaciones, horarios intermitentes y metas heterogéneas, así que un único producto no puede cubrir el espacio de diseño.
+- **«La alfabetización digital puede darse por supuesta en el nivel adulto.»** [[community-centered-ai-education-adults|Un estudio de caso del Medio Oeste]] codiseñó un programa de alfabetización en IA para **54 personas adultas de una comunidad desatendida** y encontró que la educación en IA para adultos orientada a la equidad **debe abordar primero la alfabetización digital fundacional y la confianza en los datos**. La edad no es un indicador de fluidez digital.
+- **«La adopción es un problema de motivación.»** Construir [[ai-literacy|alfabetización en IA]] y [[trust|confianza]] en torno a la privacidad de los datos tiene que preceder a la expectativa de adopción. La disposición se sigue de la confianza sobre qué ocurre con los propios datos, no del entusiasmo por la tecnología.
 
 ## Conceptos conectados
 - [[self-directed-learning]]

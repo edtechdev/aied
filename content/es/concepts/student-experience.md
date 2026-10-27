@@ -1,7 +1,7 @@
 ---
 title: Experiencia del estudiantado
 created: "2026-09-28T19:10:59-04:00"
-updated: "2026-10-02T22:58:50-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [well-being]
@@ -11,7 +11,7 @@ level: [higher ed, k 12]
 connected_faqs: [does-ai-help-students-learn, how-ai-impacts-students, ai-anxiety-wellbeing]
 confidence: high
 translation_of: concepts/student-experience
-source_updated: "2026-10-01T20:35:10-04:00"
+source_updated: "2026-10-25T23:15:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -94,6 +94,33 @@ Los resultados de más largo plazo que vive el estudiantado —si vuelve el trim
 ## Conexiones
 
 La experiencia del estudiantado conecta con la [[cognitive-offloading|dependencia excesiva]] (la dependencia excesiva de la IA), la [[ai-literacy|alfabetización en IA]] (las habilidades para un uso eficaz), la [[cognitive-offloading|descarga cognitiva]] (cómo cambia la IA el trabajo cognitivo) y la [[student-engagement|implicación]] (cómo los sistemas de IA miden y responden a la conducta del estudiantado). Es el miembro orientado a quien aprende del paraguas de los [[stakeholders|grupos de interés]], y el lugar donde se sintetizan todas las formas en que la IA afecta al estudiantado.
+
+## Concepciones erróneas
+
+**«El estudiantado que evita la IA se está quedando atrás.»** El no uso es con frecuencia una postura razonada y no una carencia: una encuesta interinstitucional en el Reino Unido con **7.087 estudiantes** encontró que **el 32% no usaba IA generativa para estudiar en absoluto**, y quienes no la usaban citaban que querían hacer el trabajo por sí mismos. Tratar eso como un déficit de adopción invierte el hallazgo y presiona al estudiantado para que abandone una elección defendible.
+
+**«Los autoinformes del estudiantado son una medida razonable del aprendizaje.»** Son [[self-report-measures|medidas de autoinforme]]: capturan bien las percepciones y las intenciones y la conducta solo de forma aproximada. La brecha entre rendimiento y aprendizaje de esta literatura —estudiantado que rinde mejor con IA y peor en tareas posteriores sin asistencia— es precisamente el caso en el que el autoinforme y el resultado divergen, así que un estudiantado satisfecho no es evidencia de un estudiantado que aprende.
+
+**«Si el estudiantado siente que la IA ayuda, ayuda.»** Sentirse ayudado es un dato real sobre la experiencia y una inferencia poco fiable sobre el resultado. La brecha está documentada y el estudiantado del grupo perjudicado no la percibe de forma fiable, así que la percepción y el resultado deben recogerse como medidas separadas en lugar de que una sustituya a la otra.
+
+**«La experiencia del estudiantado es una preocupación blanda frente a los resultados.»** Es un indicador adelantado de la adopción y la declaración: el estudiantado que siente que se juzga su uso lo ocultará, y el uso oculto es la condición en la que el [[reducing-ai-misuse|mal uso]] y el daño resultan menos visibles para la institución.
+
+## Implicaciones para la práctica
+
+**Para el profesorado**
+
+- No trate el no uso como una laguna que cerrar. Alrededor de un tercio del estudiantado elige hacer el trabajo por sí mismo, y la presión para adoptar convierte una postura razonada en un problema de cumplimiento.
+- Recoja la percepción y el resultado por separado. Las encuestas de satisfacción describen la experiencia y no pueden sustituir al rendimiento sin asistencia.
+- Haga segura la declaración, porque el estudiantado que espera un juicio oculta su uso, y el uso oculto es donde se esconde la divergencia entre el rendimiento asistido y el no asistido.
+
+**Para quienes desarrollan**
+
+- Informe de los resultados de aprendizaje junto con las métricas de experiencia en todo lo que publique para el estudiantado, porque los resultados sentidos y los medidos divergen con regularidad.
+- Permita rechazar el asistente sin perder el acceso al curso.
+
+**Para quienes investigan**
+
+- Informe explícitamente del tamaño y las razones del grupo de no usuarios; el 32% de una muestra de 7.087 estudiantes es una población y no un residuo.
 
 ## Conceptos conectados
 - [[learners]] — Aprendientes: el paraguas de los conceptos del lado de quien aprende

@@ -1,7 +1,7 @@
 ---
 title: Investigación educativa asistida por IA
 created: "2026-10-05T12:43:08-04:00"
-updated: "2026-10-22T09:13:53-04:00"
+updated: "2026-10-26T21:37:14-04:00"
 type: concept
 foundations: [ai-literacy, human-ai-collaboration, academic-integrity]
 technology: [generative-ai, llm, human-in-the-loop-ai, simulating-students, simulation]
@@ -14,7 +14,7 @@ page_kind: [synthesis]
 connected_faqs: [making-simulated-students-behave-like-learners, how-can-ai-assist-with-educational-research]
 confidence: medium
 translation_of: concepts/ai-assisted-educational-research
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-26T11:15:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -152,6 +152,12 @@ Lo que puede trasladarse es una disposición y no un resultado: nombrar el papel
 - **Una laguna de notificación, no una auditoría de la práctica.** PRISMA-LLM lee el silencio a nivel de artículo; un flujo de trabajo sin evaluación en su artículo aún puede estar validado en otro lugar.
 - **La investigación del profesorado está infrarrepresentada.** Solo un puñado de páginas aquí mencionan el SoTL o la investigación en el aula, así que el corpus no puede fundamentar afirmaciones sobre docentes que estudian su propia práctica.
 - **Un blanco móvil.** Las herramientas mejoran más rápido que la publicación, así que un hallazgo sobre un flujo de trabajo de 2025 describe una generación de sistemas que puede que ya no exista en esa forma.
+
+## Concepciones erróneas
+
+- **«Los artículos sobre LLM y sobre software se evalúan igual de bien.»** Desde 2023, el **38,0% de los artículos sobre software y producto no informaban de ninguna evaluación, frente al 9,3% de los artículos sobre LLM**. La brecha es grande y va contra el supuesto de que las herramientas más nuevas se prueban con menos rigor.
+- **«Estratificar por tarea resuelve la brecha.»** **La brecha sobrevive a la estratificación**: en criba y selección, los artículos sobre software promediaban **3,2 ítems de evaluación sustantiva con un 39,3% que no informaba de ninguno**, mientras que los de LLM promediaban más. La diferencia es una propiedad sistemática de la clase de artículo, no de la tarea.
+- **«Una evaluación positiva significa que el flujo de trabajo cumplió el nivel exigido.»** Entre **118 artículos sobre LLM con evaluaciones solo positivas, el 52% seguía informando de al menos una preocupación de que el flujo de trabajo quedaba por debajo del nivel requerido para su función**. La mitad de las evaluaciones positivas contenían su propia refutación.
 
 ## Cita
 

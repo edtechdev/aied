@@ -1,7 +1,7 @@
 ---
 title: Seguridad pedagógica
 created: "2026-09-28T20:10:35-04:00"
-updated: "2026-10-02T21:36:16-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 connected_faqs: [designing-educational-ai-software, equity-ethics-pedagogical-safety-research, developing-ai-tutor, ai-guidance-children-under-13, training-ai-tutors-to-guide-rather-than-answer, checking-whether-educational-ai-works]
 type: concept
 foundations: [cognitive-offloading]
@@ -11,7 +11,7 @@ level: [k 12]
 confidence: high
 institutions: [governance, regulation]
 translation_of: concepts/pedagogical-safety
-source_updated: "2026-10-02T08:08:45-04:00"
+source_updated: "2026-10-25T18:05:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -70,6 +70,16 @@ Diseñe la seguridad pedagógica como un requisito medible y consciente de la di
 ### Conexiones con conceptos relacionados
 
 La seguridad pedagógica es la capa protectora que conecta el [[hallucination-risk|riesgo de alucinación]], la [[rag|RAG]], [[k-12|K-12]], la [[ethics|ética]], la [[governance|gobernanza]], la [[regulation|regulación]] y los [[llm|LLM]] con las preocupaciones a nivel de interacción de la [[trust|confianza]], el [[scaffolding|andamiaje]], la [[metacognition|metacognición]] y el [[self-regulated-learning|aprendizaje autorregulado]]. Opera a través del [[llm-training-and-fine-tuning|entrenamiento]] y el [[reinforcement-learning|RL]], depende de la [[bias-mitigation|mitigación de sesgos]] y la [[equity-in-ai-education|equidad]], y está motivada por los daños catalogados en [[ai-misuse-learning-harm|mal uso de la IA y daño al aprendizaje]] y las [[hazra-safetutors-pedagogical-safety-2026|taxonomías de daños de los tutores]].
+
+## Concepciones erróneas
+
+**«Los filtros de toxicidad y la resistencia a los jailbreaks hacen seguro a un tutor.»** La seguridad convencional de los [[llm]] es necesaria pero no suficiente para la educación. Aborda lo que un modelo va a *decir*; la seguridad pedagógica aborda lo que la interacción le hace a quien aprende, incluidos fallos que ningún clasificador de contenido puede ver. Un tutor puede superar todas las comprobaciones de contenido mientras erosiona sistemáticamente el aprendizaje o consolida la desigualdad.
+
+**«Si un sistema se comporta bien en un intercambio único, es seguro en uso.»** El riesgo se acumula entre turnos: las tasas de daño subieron de alrededor del **18% en evaluaciones de un solo turno a alrededor del 78% en las de varios turnos**. Los referentes de un solo turno informan por tanto de una cifra cuatro veces más tranquilizadora de lo que corresponde a la interacción que el estudiantado tiene realmente, y una batería de red-team construida con prompts aislados certificará un sistema que falla en una sesión de diez minutos.
+
+**«El tutor más seguro es el que más rechaza.»** Un sistema que «rechaza por igual» puede aun así consolidar la desigualdad, que es la segunda mitad de la descripción del fallo silencioso de esta página. El modo de fallo no es solo un tutor que responde correctamente y erosiona el aprendizaje; es también un tutor cuyos rechazos distribuyen el apoyo de forma desigual entre estudiantes, y una política de rechazo general cambia un riesgo visible por uno invisible.
+
+**«Cualquier trabajo de seguridad a nivel de modelo es una medida de relaciones públicas.»** Parte de él es medible. El trabajo de [[llm-unlearning-math-privacy|desaprendizaje en matemáticas]] aplica desaprendizaje basado en gradientes para eliminar información identificativa y contenido dañino, e informa de salidas de datos personales reducidas al **0,1%** y de tasas de toxicidad al **0,0%** preservando la capacidad. Los controles a nivel de modelo son una capa de una defensa por capas: insuficientes por sí solos, y no insignificantes.
 
 ## Conceptos conectados
 - [[guardrails]] — los mecanismos de diseño que implementan la seguridad

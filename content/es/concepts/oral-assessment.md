@@ -1,7 +1,7 @@
 ---
 title: Evaluación oral
 created: "2026-09-28T21:03:34-04:00"
-updated: "2026-10-24T08:21:18-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 connected_faqs: [redesign-assessment-ai-era, ai-feedback-at-scale]
 type: concept
 foundations: [academic-integrity, critical-thinking]
@@ -14,7 +14,7 @@ level: [higher ed]
 confidence: medium
 connected_resources: [code-viva]
 translation_of: concepts/oral-assessment
-source_updated: "2026-10-23T09:49:58-04:00"
+source_updated: "2026-10-26T09:35:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -80,6 +80,12 @@ Ningún formato ocupa una posición fija en esta disyuntiva: la observabilidad d
 La justificación de integridad del oral también tiene fecha de caducidad: [[corbin-ai-glasses-wearable-ai-assessment-2026|Corbin et al. (2026)]] sostienen que unas gafas y auriculares de IA pueden entregar indicaciones encubiertas en tiempo real dentro de una viva en directo, porque la IA vestible no produce ningún desplazamiento de mirada ni señal detectable, de modo que los orales interactivos ya no son inmunes.
 
 - **El techo de escala es la restricción de diseño.** En un taller con 73 docentes de [[cs-education|informática]], la evaluación oral e interactiva se señaló como la evidencia más sólida disponible del entendimiento individual y el remedio menos escalable; las mitigaciones que describieron quienes participaron fueron la distribución y el muestreo: bolsas compartidas de ayudantes docentes, evaluación entre pares con menos peso que un examen final y preguntar a un subconjunto rotatorio de estudiantes ([[computing-assessment-genai-workshop-report-2026|Akbar et al., 2026]]).
+
+## Concepciones erróneas
+
+- **«La evaluación oral no se puede escalar.»** En [[code-review-genai-cs1|el estudio de revisión oral de código en CS1]], **entrevistas semanales de quince minutos cargaban con el setenta por ciento de la nota de cada tarea**, y los caracteres pegados sobre el total seguían siendo informativos. El coste es real y el diseño es implementable a escala de curso.
+- **«Los exámenes orales son más blandos que los escritos.»** En el piloto informado, las puntuaciones **superaron las de las pruebas de opción múltiple presenciales: mediana del parcial 92,5 frente a 70 (p < 0,001) y mediana del final 94,2 frente a 86,4 (p = 0,002)**. La evaluación oral no fue la opción indulgente.
+- **«Un encuentro simulado equivale a los casos de divulgación progresiva.»** En [[ai-standardized-patient-scaffolding-medical-2026|un ECA con cien estudiantes de tercer año de medicina]] se comparó el sistema de paciente simulado **con materiales de casos de divulgación progresiva**, una prueba directa de equivalencia y no una suposición de ella.
 
 ## Conceptos conectados
 

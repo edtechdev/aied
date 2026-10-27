@@ -1,7 +1,7 @@
 ---
 title: Aprendizaje por refuerzo
 created: "2026-09-28T18:23:55-04:00"
-updated: "2026-10-22T09:13:53-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 connected_faqs: [training-ai-tutors-to-guide-rather-than-answer]
 type: concept
 pedagogy: [active-learning, scaffolding]
@@ -10,7 +10,7 @@ ethics: [pedagogical-safety]
 level: [special education, k 12, higher ed]
 confidence: medium
 translation_of: concepts/reinforcement-learning
-source_updated: "2026-10-02T08:08:45-04:00"
+source_updated: "2026-10-26T01:00:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -55,6 +55,16 @@ Una [[riedmann-reinforcement-learning-education-review-2026|revisión sistemáti
 ### Conexión con la base de conocimiento
 
 El RL sustenta buena parte del diseño moderno de [[agentic-ai|IA agéntica]] y de [[intelligent-tutoring|tutoría inteligente]], donde el agente debe optimizar el aprendizaje a largo plazo y no una única respuesta correcta. Se conecta con el [[llm-training-and-fine-tuning|entrenamiento pedagógico de LLM]] (el RL como método de entrenamiento), con el [[scaffolding|andamiaje]] (un diseño de la recompensa que preserve el esfuerzo productivo) y con el [[self-regulated-learning|aprendizaje autorregulado]] (agentes que ayudan a quien aprende a regular su propia estrategia). Como el diseño de la recompensa codifica valores educativos, la investigación sobre RL en la AIED está estrechamente ligada a la [[pedagogical-safety|seguridad pedagógica]] y a las consideraciones de equidad del comportamiento [[equity-in-ai-education|equitativo]] de los tutores.
+
+## Concepciones erróneas comunes
+
+**«Igualar una línea base significa que la política de RL aprendió algo que vale la pena tener.»** Significa que la recompensa se satisfizo. Un tutor de RL profundo recompensado por la puntuación del test y la eficiencia temporal **igualó a una heurística de BKT en el postest (A = ,58 en ambos)** mientras asignaba solo el **4% de los problemas de entrenamiento a la reparación constructiva de ejemplos defectuosos** y favorecía la interacción más barata. La política optimizó aquello por lo que se le pagaba, y aquello por lo que se le pagaba excluía la actividad productiva.
+
+**«La función de recompensa es un detalle técnico.»** Es la especificación pedagógica. Lo que la recompensa pondera es lo que la política hará, así que elegir entre puntuación, eficiencia temporal, implicación y reparación exige una posición explícita sobre qué es aprender: una decisión curricular codificada como un número.
+
+**«Los horizontes más largos son sencillamente mejores.»** Permiten lo que los horizontes cortos no pueden, y exigen que la recompensa sea correcta a lo largo de toda la secuencia. [[residencyrl-clinical-rl-training-2026|ResidencyRL]] optimiza **encuentros clínicos completos de 60 turnos**, muy por encima de los horizontes de ≤12 turnos de los sistemas de diálogo concurrentes, lo que eleva el coste de un objetivo mal especificado en lugar de reducirlo.
+
+**«El RL es el formalismo adecuado para la tutoría porque enseñar es secuencial.»** La secuenciación es necesaria y no suficiente; la restricción vinculante es la validez de la recompensa. Un objetivo bien especificado con una política débil supera a una política fuerte contra un objetivo equivocado.
 
 ## Conceptos conectados
 

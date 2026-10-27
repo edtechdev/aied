@@ -1,7 +1,7 @@
 ---
 title: Aprender enseñando
 created: "2026-09-28T19:11:16-04:00"
-updated: "2026-10-22T09:13:53-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 type: concept
 pedagogy: [active-learning, learning-by-teaching, scaffolding, self-regulated-learning]
 technology: [generative-ai, intelligent-tutoring]
@@ -9,7 +9,7 @@ assessment: [feedback]
 discipline: [cs education]
 confidence: high
 translation_of: concepts/learning-by-teaching
-source_updated: "2026-10-01T18:49:55-04:00"
+source_updated: "2026-10-25T22:50:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -105,6 +105,16 @@ La [[research-methods-aied|investigación]] anterior converge en unos pocos patr
 - **El LbT es un antídoto escalable contra la dependencia excesiva de la IA**: invierte el rol de tutor y estudiante y mantiene a quien aprende cognitivamente activo, lo que importa más a medida que la IA se vuelve más fluida y más «servicial».
 - **La falibilidad es una característica, no un defecto.** Una persona tutorada *demasiado* correcta elimina la corrección de errores y la detección de lagunas que hacen funcionar el LbT; diseñe para la lucha productiva y no en su contra.
 - **Quedan preguntas abiertas:** ¿Cómo se sostienen las interacciones de LbT más allá de un semestre cuando la novedad se desvanece por completo? ¿Se transfiere el LbT a dominios no informáticos y menos estructurados a la misma escala? ¿Puede la codificación automatizada del diálogo convertirse en un monitor práctico de implicación en tiempo real para el profesorado? ¿Y cómo mantenemos el rol docente significativo para *cada* estudiante y no solo para unos pocos motivados?
+
+## Concepciones erróneas
+
+**«Cualquier persona tutorada sirve, ya que el beneficio está en explicar.»** El beneficio depende de que las respuestas de la persona tutorada sean informativas. Una persona tutorada que ya lo entiende todo no da a quien enseña ninguna laguna que detectar, y por eso convertir un LLM en una buena persona tutorada exige **ingeniería de la falibilidad**: errores y confusión diseñados que el estudiante debe diagnosticar y corregir. El efecto protégé proviene de la ignorancia de la persona tutorada, así que una persona tutorada competente elimina el mecanismo.
+
+**«Los errores generados son suficientes porque son incorrectos.»** Solo si son verosímiles. En un estudio de anotación a ciegas, especialistas **clasificaron erróneamente 164 de 196 (83,7%) entregas de Java generadas por LLM como trabajo auténtico** del estudiantado, lo que es a la vez evidencia de que los errores son realistas y una advertencia de que una persona tutorada puede equivocarse de maneras que enseñan un diagnóstico equivocado.
+
+**«Pedir a un LLM que se muestre confundido es un prompt trivial.»** Es un problema de diseño, porque la falibilidad debe calibrarse al concepto que se enseña y al modelo actual de quien aprende-enseña. Los errores aleatorios producen práctica de depuración; los errores que reflejan una idea errónea plausible concreta producen reestructuración conceptual, y solo el segundo es el objetivo pedagógico.
+
+**«Aprender enseñando es una actividad más blanda que recibir enseñanza.»** Es más exigente. Prepararse para enseñar obliga a organizar el conocimiento y a localizar las propias lagunas, y por eso el enfoque saca a la luz malentendidos que la recepción pasiva oculta: la dificultad es el mecanismo y no un coste que minimizar.
 
 ## Conceptos conectados
 

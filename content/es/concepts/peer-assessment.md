@@ -1,7 +1,7 @@
 ---
 title: Evaluación entre pares
 created: "2026-09-28T19:11:29-04:00"
-updated: "2026-10-03T02:57:43-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 type: concept
 connected_faqs: [writing-instruction-ai-best-practices, group-work-ai]
 pedagogy: [collaborative-learning, metacognition, self-regulated-learning]
@@ -10,7 +10,7 @@ confidence: high
 discipline: [writing education]
 audience: [learners, instructors]
 translation_of: concepts/peer-assessment
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-26T11:15:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -39,6 +39,8 @@ ai_assist:
 La evaluación entre pares es una decisión de diseño de la evaluación en la que el estudiantado asume parte del trabajo evaluativo que normalmente se reserva al profesorado. Sus formas difieren en lo que el estudiantado produce y en lo que está en juego: los comentarios entre pares (observaciones sobre un borrador, normalmente [[formative-assessment|formativos]] y de bajo riesgo), la calificación entre pares (una nota que contribuye a una calificación), la revisión de código entre pares y la evaluación en grupo o por equipos (en la que los pares evalúan el producto colectivo o las contribuciones de cada cual). La forma determina qué practica el estudiantado: dar un comentario basado en criterios construye el [[evaluative-judgment|juicio evaluativo]] de forma distinta a asignar un número, y defender el propio código oralmente construye algo distinto todavía. La [[self-assessment|autoevaluación]], la práctica hermana, dirige ese mismo escrutinio basado en criterios al propio trabajo de quien aprende, mientras que la evaluación entre pares lo dirige a la entrega de un par y a la conciencia del público destinatario que la acompaña.
 
 La base de investigación coincide en que la evaluación entre pares produce aprendizaje y discrepa sobre cuánto depende del diseño. Da al estudiantado un público destinatario auténtico, desarrolla el juicio evaluativo mediante la respuesta basada en criterios y construye el contexto social que sostiene la [[student-engagement|implicación]] y la [[motivation|motivación]]. Su calidad depende en gran medida del [[scaffolding|andamiaje]] —de lo bien estructurada que esté y de si el estudiantado recibe criterios claros y formación—. Esa dependencia es donde entra la IA, como complemento consistente y guiado por rúbricas de los comentarios específicos y conscientes del contexto que dan los pares, y cada vez más como un andamiaje integrado en el propio proceso de evaluación entre pares.
+
+[[wang-student-ai-collaboration-peer-feedback-2026|Wang y Guo (2026)]] encuentran que el estudiantado de inglés como lengua extranjera que revisó la escritura de sus pares mediante un diálogo abierto con una IA generativa produjo retroalimentación que quienes la recibían valoraron como de mayor calidad, con ganancias en respuesta emocional y en alfabetización en retroalimentación que variaron según la calidad del diálogo.
 
 ## Qué aprende el estudiantado al evaluar a sus pares
 
@@ -89,6 +91,12 @@ De aquí se derivan varias decisiones de diseño. Dé a quienes evalúan formaci
 La revisión mediada por IA generativa también hereda las normas lingüísticas de la herramienta: quienes contribuyen a un diálogo de World Englishes sostienen que las personas que revisan con IA generativa quedan expuestas al mismo sesgo hacia las variedades dominantes del inglés que los modelos, y recomiendan editar o reescribir el texto generado para reflejar la propia identidad lingüística de quien escribe ([[genai-linguistic-diversity-academic-writing|Ugwuanyi et al. (2026)]]).
 
 Las preguntas abiertas son sobre la solidez de la evidencia, no solo sobre el diseño. Buena parte de la evidencia sobre pares e IA es pequeña y ligada al contexto: 45 docentes en formación en un curso, 34 estudiantes en un curso de escritura empresarial, 52 docentes en formación inicial en 15 grupos focales. La encuesta de PAIRR es el conjunto de datos más grande de este conjunto y mide las percepciones del estudiantado, no la calidad de las salidas de IA que el estudiantado juzgó. Solo los 1.176 estudiantes de grado del experimento multicéntrico se acercan a una escala causal-comparativa, y evalúa el diseño de los comentarios para la argumentación científica, no la evaluación entre pares como tal. Mientras tanto, [[oneill-presumed-effective-meta-analysis-2026|O'Neill (2026)]] auditó 14 metaanálisis revisados por pares que afirman que la IA mejora la educación y encontró que ninguno ofrecía una base válida para sus afirmaciones: todos menos dos definían el tratamiento como una herramienta y no como una intervención pedagógica, la heterogeneidad era alta en todos los metaanálisis que informaban de I² (77,2% a 94,4%) y una auditoría de 59 estudios primarios encontró que el 61% tenía [[assessment-validity|problemas de validez]], a menudo un desajuste entre el resultado medido y la afirmación realizada. Las afirmaciones sobre lo que la IA hace en la evaluación entre pares deberían tratarse como afirmaciones sobre una actividad diseñada, puestas a prueba en los términos de esa actividad.
+
+## Concepciones erróneas
+
+- **«La defensa oral detiene el trabajo asistido por IA.»** Los caracteres pegados sobre el total **subieron del 61,0% al 68,1% (p < 0,0001)** después de que cada entrega de CS1 quedara sujeta a una **revisión oral de código de 15 minutos que valía el 70% de la nota**. La conducta que pretendía frenar aumentó, y **las notas del examen no bajaron y el tiempo dedicado a la tarea se mantuvo estable**, mientras que **el 90% del estudiantado dijo que las revisiones le motivaron**. La intervención funcionó sobre la comprensión, no sobre el pegado.
+- **«La detección de copias es para lo que sirve la evaluación oral.»** Los resultados medidos fueron la comprensión y la motivación, no la reducción del texto pegado. Juzgar el diseño por su tasa de detección malinterpreta lo que logró.
+- **«La revisión entre pares es un sustituto más barato de la retroalimentación del profesorado.»** El [[learning-by-teaching|aprender enseñando]] es el mecanismo, y aparece incluso entre máquinas: el discurso similar al aprendizaje entre pares de más de **2,4 millones de agentes de IA** fue en su mayoría **afirmación y no indagación**. Producir una crítica es un acto distinto de recibirla.
 
 ## Conceptos conectados
 

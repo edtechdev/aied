@@ -1,13 +1,13 @@
 ---
 title: IA psicométricamente consciente
 created: "2026-09-28T19:11:03-04:00"
-updated: "2026-10-24T08:22:02-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 type: concept
 technology: [llm]
 assessment: [assessment-validity, automated-assessment, educational-measurement, item-response-theory]
 confidence: medium
 translation_of: concepts/psychometrically-aware-ai
-source_updated: "2026-10-23T09:20:00-04:00"
+source_updated: "2026-10-26T07:55:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -51,6 +51,12 @@ A medida que los sistemas de IA puntúan respuestas, predicen dificultad y ofrec
 ### Conexiones
 
 La IA psicométricamente consciente se sitúa en la intersección de la [[educational-measurement|medición educativa]], la [[assessment-validity|validez de la evaluación]], la [[item-response-theory|teoría de respuesta al ítem]] y la [[automated-assessment|evaluación con IA consciente de la confianza]]. Es central para la [[ai-ed-evaluation|evaluación de la IA educativa]] (si la evaluación con IA es digna de confianza) y se conecta con la [[automated-assessment|evaluación automatizada]] basada en [[llm|LLM]] y con la [[automated-assessment|calificación automatizada]]. Su énfasis en la validez también se refiere a las [[limitations-in-aied-research|limitaciones de medición]] de la investigación en [[ai-education|AIED]].
+
+## Concepciones erróneas
+
+- **«Un modelo que puntúa bien está midiendo lo mismo.»** En el mismo instrumento de evaluación, las estructuras de respuesta humana y de LLM **divergen**: un modelo puede puntuar bien mientras mide algo distinto de lo que pretende el instrumento. La coincidencia de puntuaciones es la observación; la equivalencia de constructo es una afirmación aparte que requiere evidencia a nivel de estructura.
+- **«La calibración puede leerse en una sola cifra de precisión.»** **Las métricas equilibradas detectan un modelo que solo parece calibrado**: pedir a GPT-4o y a Gemini 2.0 Flash que infirieran dimensiones de estilo de aprendizaje a partir de los diálogos de **153 estudiantes de grado** produjo una **precisión moderada que se comportó de forma distinta bajo métricas equilibradas**. La precisión agregada ocultaba un diferencial que las métricas equilibradas exponían.
+- **«Las canalizaciones de calificación automatizada no pueden reproducir un procedimiento psicométrico.»** Los autores reprodujeron una canalización establecida de forma automatizada (**una probabilidad del 67% de responder correctamente al menos 7 ítems de rúbrica para el corte inferior y al menos 10 para el superior**), permitiendo comparar las puntuaciones de ítems de IA y humanas en pie de igualdad. El procedimiento era reproducible; la cuestión del constructo sigue abierta.
 
 ## Conceptos conectados
 

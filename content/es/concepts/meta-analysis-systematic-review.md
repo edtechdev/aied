@@ -1,7 +1,7 @@
 ---
 title: Metaanálisis y revisión sistemática
 created: "2026-09-28T18:22:28-04:00"
-updated: "2026-10-22T09:13:53-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 type: concept
 foundations: [ai-education]
 connected_faqs: [reporting-interpreting-aied-research]
@@ -10,7 +10,7 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation, meta-analysis-systematic-review, research-methods-aied]
 translation_of: concepts/meta-analysis-systematic-review
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-26T12:30:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -117,6 +117,10 @@ El mismo artefacto aparece en la dimensión temporal. [[jing-genai-learning-outc
 
 **La metainvestigación advierte de que la base de síntesis de la IAED es actualmente débil.** Un conjunto creciente de críticas documenta que los tamaños del efecto de la IA que titulan el campo —sobre todo los de los primeros metaanálisis— están inflados por el sesgo de publicación, la incoherencia de constructo y los atajos metodológicos. [[bartos-ai-learning-meta-meta-analysis-2026|Bartoš et al. (2026)]], al meta-analizar 1.840 tamaños del efecto de 67 metaanálisis, estiman el efecto de la IA ajustado por sesgo de publicación en aproximadamente un tercio de la magnitud reportada (DME ≈ 0,196), con una heterogeneidad extrema. [[oneill-presumed-effective-meta-analysis-2026|O'Neill (2026)]] audita 14 metaanálisis de alto impacto sobre IAED y encuentra que ninguno tenía un constructo coherente, una evaluación válida del sesgo de publicación ni una heterogeneidad resuelta; doce trataron tamaños del efecto dependientes como independientes. [[weidlich-chatgpt-effect-search-cause-2025|Weidlich et al. (2025)]] muestran que la mayoría de las comparaciones primarias carecen de un tratamiento, un control y una medida de aprendizaje bien definidos. Esto significa que quien lee debería tratar los tamaños del efecto agrupados de la IAED como límites superiores hasta que mejore la calidad de la síntesis; véase [[limitations-in-aied-research|Limitaciones de la investigación en IAED]] para el análisis completo.
 - **Los estándares de reporte no han seguido el ritmo de la automatización.** PRISMA-LLM analiza SciLitBench, un corpus de 888 artículos sobre automatización de revisiones con 14.726 anotaciones, y documenta una tasa de crecimiento cercana al 4,7% mensual junto a una brecha de rendición de cuentas: desde 2023, el 38,0% de los artículos sobre software y productos no reportaron ninguna evaluación, frente al 9,3% de los artículos sobre LLM, y el 52% de las evaluaciones de LLM solo positivas reportaron una preocupación de alto nivel no resuelta. Como los flujos de trabajo con LLM y con software participan ahora en etapas que pueden alterar la base de evidencia, el marco exige divulgar dónde operó la automatización en el flujo de trabajo de la revisión, qué se evaluó y qué limitaciones se comprobaron: una extensión directa del problema de transparencia que [[limitations-in-aied-research|las críticas a las revisiones de IAED]] han documentado para los metaanálisis de efectos sobre el aprendizaje. ([[prisma-llm-ai-assisted-systematic-reviews-2026]])
+- **Un ejemplo práctico de una revisión que decidió deliberadamente no agrupar.** [[spyropoulou-genai-instructional-design-systematic-review-2026|Spyropoulou y Kameas (2026)]] sintetizaron 78 estudios sobre diseño instruccional apoyado por IA (2022-2026) y juzgaron **inapropiada** la síntesis cuantitativa porque el corpus mezclaba informes de profesionales, estudios de caso de muestra pequeña y diseños de métodos mixtos. En lugar de forzar un efecto agrupado, realizaron una síntesis temática cualitativa y fueron explícitos en que la solidez de la evidencia se pondera en todo momento y no se da por supuesta. Esa es la decisión correcta mucho más a menudo de lo que refleja la literatura: cuando un corpus no puede sostener un agrupamiento, negarse a agrupar es un hallazgo sobre el campo y no una carencia metodológica de la revisión.
+- **Una valoración de la calidad usada para ponderar, no para excluir.** La revisión evaluó cada estudio con el **MMAT 2018** y dejó que esa valoración informara la confianza asignada a cada hallazgo sintetizado en lugar de descartar los diseños más débiles. Los estudios de menor calidad contribuyen así con un peso correspondientemente menor, lo que preserva la forma de la base de evidencia —incluidas sus debilidades— en vez de presentar una versión filtrada. La elección importa porque los criterios de exclusión y las reglas de ponderación pueden cambiar la conclusión de una revisión sin cambiar su cumplimiento del protocolo.
+- **El predominio de los autoinformes merece su propia línea de cautela.** Los autores nombran el autoinforme como una limitación de nivel de corpus, además de su valoración de nivel de estudio, y en este caso la cautela muerde dos veces: los propios hallazgos sustantivos de la revisión se refieren a educadores que **sobreestiman su propia habilidad evaluadora**, así que la limitación metodológica y el objeto de estudio son el mismo problema. Una síntesis cuyos estudios incluidos miden competencias por autoinforme, sobre un tema donde la autoevaluación es demostrablemente poco fiable, tiene que decirlo en las limitaciones y no de pasada.
+- **La codificación por un solo codificador se informa como limitación y no se omite.** El cribado y la codificación los realizó el primer autor, con los casos límite resueltos por consenso con el segundo, y la fiabilidad **no se cuantificó mediante doble codificación independiente**, así que las categorías interpretativas, en particular los roles de la IA y los niveles de supervisión, conllevan un riesgo de sesgo de codificador único que los autores declaran abiertamente. Muchas revisiones de este campo omiten esa frase; incluirla permite al lector juzgar cuánto peso pueden soportar las categorías interpretativas.
 
 ## Relación con otros métodos
 
@@ -138,6 +142,12 @@ Dentro del panorama metodológico de la base de conocimiento, el metaanálisis y
 ## La IA generativa en el aprendizaje por escenarios en ciencias de la salud
 
 - **Revisión PRISMA 2020 de la IA generativa en el aprendizaje por escenarios en ciencias de la salud.** Neto y sus colegas (2026) buscaron sistemáticamente en cinco bases de datos (9 de noviembre de 2025) estudios revisados por pares sobre IA generativa en educación sanitaria basada en escenarios, casos, problemas y [[simulation|simulación]], y cribaron 1.151 registros hasta 23 estudios incluidos, valorados con la Herramienta de Valoración de [[mixed-methods-research|Métodos Mixtos]] (MMAT). Su síntesis temática reveló seis temas transversales anclados en el [[prompt-engineering|diseño de prompts]] como especificación instruccional y documentó lagunas en la estandarización de la validación, en los diseños longitudinales/comparativos y en la cuantificación de la eficiencia: una plantilla para una revisión sistemática rigurosa de la IA generativa [[medical-education|específica de un dominio]].
+
+## Concepciones erróneas
+
+- **«Un efecto agrupado significativo significa que la intervención funciona.»** [[yu-k12-ai-education-ai-literacy-meta-analysis-2026|El metaanálisis de Yu y colaboradores sobre educación en IA en K-12]] (**16 estudios, 57 tamaños del efecto, g = 0,892**) encontró un efecto grande, aunque los autores lo matizan. Dieciséis estudios son una base estrecha, y un efecto grande sobre esa base es una hipótesis con un intervalo amplio.
+- **«Quien revisa informa de la calidad del campo con exactitud por defecto.»** El trabajo de una revisión incluye **exponer la calidad metodológica**, y las revisiones **encuentran sistemáticamente que el campo se apoya en diseños con potencia insuficiente, preexperimentales o cuasiexperimentales** con postests inmediatos. La cifra agrupada hereda esas debilidades.
+- **«Agrupar siempre aumenta el peso de la evidencia.»** [[chen-digital-ai-foreign-language-skills-meta-analysis-2026|El metaanálisis de Chen y Wei]] de **40 estudios** sobre destrezas en lenguas extranjeras agrupa tecnologías muy distintas, y la media no describe ninguna de las intervenciones concretas que contiene.
 
 ## Conceptos conectados
 

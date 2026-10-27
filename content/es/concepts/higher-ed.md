@@ -1,7 +1,7 @@
 ---
 title: Educación superior
 created: "2026-09-25T03:07:36-04:00"
-updated: "2026-10-22T07:31:04-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 type: concept
 foundations: [academic-integrity, ai-education, educational-development]
 technology: [generative-ai]
@@ -10,7 +10,7 @@ level: [higher ed]
 connected_faqs: [incorporating-ai-literacy, ai-literacy-evidence]
 confidence: high
 translation_of: concepts/higher-ed
-source_updated: "2026-10-21T12:05:00-04:00"
+source_updated: "2026-10-26T11:15:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 connected_resources: [pressing-prompts, teacherserver]
 reviewed_by: [editor]
@@ -97,6 +97,12 @@ Una tercera vía endurece la propia tarea: presentar los enunciados como imágen
 - **Use la IA para elevar la calidad y la cantidad de la retroalimentación.** La [[ai-assistance-discretionary-feedback|retroalimentación asistida por IA]] puede aumentar la retroalimentación que ofrece el profesorado; acompáñela de [[human-in-the-loop-ai|juicio humano]] para que mejore el aprendizaje y no se limite a automatizarlo.
 - **Implíquese de forma deliberada en la innovación de la corrección y la evaluación.** [[mesny-innovative-assessment-grading-management-2026|Mesny, Roberge-Maltais y Galy (2026)]] sostienen que la [[assessment|evaluación]] y la calificación figuran entre los factores que más influyen en el aprendizaje en la educación superior, pero siguen estando poco investigadas en campos como la [[business-education|formación en gestión]] (solo 58 artículos en 20 años en cuatro revistas destacadas). Los enfoques tradicionales, muy centrados en lo [[summative-assessment|sumativo]] y referenciados a la norma, socavan el aprendizaje profundo, el [[well-being|bienestar]], la equidad y la [[academic-integrity|integridad]] en la era de la IA generativa; los autores instan al profesorado a implicarse de forma más activa y recíproca con cinco prácticas innovadoras (evaluación auténtica, autoevaluación y evaluación entre pares, reevaluación, calificación basada en estándares y calificación sin notas), y señalan que su implementación exige apoyo institucional y cultural y una experimentación incremental.
 - **Trate la formación y la supervisión en investigación como un ámbito de alfabetización en IA por derecho propio.** El [[dai-chan-responsible-genai-research-ai-literacy-2026|personal investigador de posgrado]] pone en práctica la [[ai-literacy]] como una práctica [[situated-learning|situada]] y no como un conjunto estático de competencias, y las orientaciones institucionales se detienen en gran medida en la enseñanza y la evaluación. Las orientaciones para trabajos de fin de máster, tesis y publicaciones deberían [[scaffolding|andamiar]] la verificación, la atribución y la declaración de forma concreta para cada dimensión de la alfabetización en IA, y las [[engagement-intensity-learner-modeling|señales simples previas a la instrucción]] pueden dirigir ese apoyo en los cursos de ética de la investigación, en lugar de dictar reglas binarias.
+
+## Concepciones erróneas comunes
+
+- **«La adopción institucional de la IA ha madurado.»** La **capa simbólica está saturada mientras que la capa estructural es delgada**: el **100% tiene un grupo de trabajo sobre IA y un máster en IA, pero solo el 12% tiene liderazgo ejecutivo en IA** y solo el 5% exige un paso institucional adicional. Los anuncios han superado a las estructuras en un orden de magnitud.
+- **«El prestigio predice la madurez institucional en IA.»** La institucionalización resultó **independiente del prestigio (correlación de rangos r ≈ 0,04)**, con una **variación regional significativa (ANOVA F = 5,86, p < ,001)**. La reputación no es un indicador de preparación, y la geografía predice más que el estatus.
+- **«El modo en que la IA distribuye el trabajo epistémico es uniforme entre instituciones.»** [[sun-student-genai-entanglement-literacy-demands-2026|Sun, Dohn y Rehm (2026)]] clasificaron **102 estudios empíricos de educación superior** según cómo se distribuía el trabajo epistémico, y la variación es el hallazgo y no un detalle.
 
 ## Conceptos conectados
 

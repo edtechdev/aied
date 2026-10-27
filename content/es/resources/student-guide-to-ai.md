@@ -17,7 +17,6 @@ ethics: [ethics]
 assessment: [formative-assessment]
 audience: [learners, instructors]
 level: [undergraduate, secondary]
-confidence: high
 source_updated: "2026-10-03T02:57:43-04:00"
 translation_of: resources/student-guide-to-ai
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."

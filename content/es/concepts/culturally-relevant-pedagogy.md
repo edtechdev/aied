@@ -1,7 +1,7 @@
 ---
 title: Pedagogía culturalmente relevante
 created: "2026-09-28T18:18:41-04:00"
-updated: "2026-10-24T08:21:18-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 type: concept
 foundations: [ai-literacy, curriculum-design]
 technology: [generative-ai, intelligent-tutoring, llm]
@@ -10,7 +10,7 @@ audience: [learners]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/culturally-relevant-pedagogy
-source_updated: "2026-10-23T22:38:41-04:00"
+source_updated: "2026-10-25T16:25:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -68,6 +68,35 @@ A partir de los propios artículos de la base de conocimiento, el profesorado y 
 - **Centrar el conocimiento de la comunidad como estándar evaluativo.** Siguiendo el aprendizaje con IA basado en la comunidad, haz que el estudiantado juzgue las salidas de la IA con criterios de relevancia, daño y utilidad fundamentados localmente, y respeta los contextos en los que rechazar o no usar la IA es la decisión correcta.
 - **Adoptar y evaluar conjuntos de datos culturalmente fundamentados.** IKS-Instruct y NSMQ Riddles ilustran que los datos [[discipline-specific-aied|específicos de dominio]] y no occidentales mejoran de forma significativa tanto la relevancia como una evaluación honesta.
 - **Haga que la IA entreviste al docente antes de redactar.** [[zhai-science-literacy-generative-ai-coherence-2026|Zhai et al. (2026)]] describen un planificador de clases culturalmente receptivo cuya arquitectura de prompts interactiva y semiautomatizada pregunta primero por el contexto y la cultura, y después redacta a partir de las propias respuestas del docente en lugar de producir un plan genérico.
+
+## Concepciones erróneas
+
+**«Las salidas de la IA son culturalmente neutras a menos que se le pida cultura en el prompt.»** El valor por defecto no es neutro: es dominante. Un análisis de **310 planes de clase de educación cívica generados por IA (2.230 actividades)** encontró que **el 94% no contenía contenido multicultural discernible** —y de las 144 actividades que sí lo contenían, **137 se situaban en el nivel más bajo, «Aditivo», solo una alcanzó la «Transformación» y ninguna llegó a la «Acción social».** Sin indicaciones, los modelos reprodujeron un valor por defecto no diverso, así que pedir cultura en el prompt no es una mitigación del sesgo: es la única razón por la que algo de eso aparece.
+
+**«Añadir ejemplos multiculturales constituye pedagogía culturalmente relevante.»** La propia jerarquía del marco dice lo contrario, y la salida generada muestra por qué la distinción es operativamente importante. El contenido aditivo deja intactas la estructura y los supuestos de la unidad; la Transformación cambia cómo se enmarca el contenido; la Acción social pide al estudiantado que actúe sobre él. Confundir representación con transformación es cómo un corpus puede tener un 6% de contenido no vacío en diversidad y seguir estando muy lejos de ser culturalmente receptivo.
+
+**«La política institucional de uso de la IA determina lo que el estudiantado considera ético.»** La cultura hace más trabajo que el texto de las políticas. Una encuesta transcultural con estudiantes canadienses y surcoreanos de [[cs-education|informática]] encontró que **la cultura, y no la política, determinaba las percepciones sobre la ética del uso de la IA**: comportamientos idénticos se juzgaban de forma distinta entre cohortes. Una única política para toda la institución no produce, por tanto, una ética compartida, y tratarla como si lo hiciera llevará a malinterpretar a tu estudiantado.
+
+**«Un piloto con cuatro docentes en el que el profesorado se siente más seguro es evidencia de que el enfoque funciona.»** Es evidencia sobre la percepción del profesorado, que vale la pena tener y no es lo mismo. En ese piloto mejoró la confianza del profesorado para detectar oportunidades de sensibilidad cultural y **el 78% consideró útiles las sugerencias de la IA para diversificar los materiales** —mientras los autores admiten que la adaptación cultural vive **en el prompt y no en la canalización de PLN**, y que la idoneidad cultural se evaluó en lugar de diseñarse. Confianza y utilidad no equivalen a una relevancia cultural demostrada para el estudiantado.
+
+## Implicaciones para la práctica
+
+**Para el profesorado**
+
+- No entregar nunca un plan de clase de IA sin prompt como si fuera culturalmente receptivo. La cifra del 94% es el comportamiento por defecto, así que el contenido cultural debe especificarse explícitamente y revisarse elemento por elemento.
+- Ordenar las adiciones propias con la escalera Aditivo/Transformación/Acción social y apuntar al menos un peldaño más arriba de lo que parezca natural. La mayor parte de la diversidad generada se queda en la base.
+- No suponer que la política de la institución viaja con el estudiantado. El contexto cultural moldea sus juicios éticos más que el reglamento.
+
+**Para quienes desarrollan**
+
+- Tratar la idoneidad cultural como un asunto de la canalización y no del prompt. La limitación que el propio piloto reconoce es que la adaptación estaba en el prompt, lo que significa que desaparece cuando el prompt cambia.
+- Evaluar el contenido generado con la escalera completa, informando cuántos elementos alcanzan la Transformación o la Acción social: un recuento de diversidad que se detiene en lo Aditivo parecerá satisfactorio y significará muy poco.
+- Hacer visible la relación docente-estudiantado en cualquier instrumento que se construya; la importancia de las características la situó en segundo lugar entre los predictores de estrés en el trabajo citado, y es el activo que la generación genérica no puede aportar.
+
+**Para quienes investigan**
+
+- Informar el contenido cultural por nivel en lugar de como presencia o ausencia, ya que una presencia del 94% frente al 6% no dice nada sobre cuál es ese 6%.
+- Distinguir explícitamente los resultados de percepción del profesorado de los resultados del estudiantado al informar sobre pilotos.
 
 ## Conceptos conectados
 

@@ -1,14 +1,14 @@
 ---
 title: Conocimiento previo
 created: "2026-09-28T21:12:05-04:00"
-updated: "2026-10-02T22:23:27-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 type: concept
 foundations: [learning-design]
 pedagogy: [constructivist, learning-theories, metacognition, prior-knowledge, scaffolding]
 technology: [personalized-learning, student-modeling]
 confidence: high
 translation_of: concepts/prior-knowledge
-source_updated: "2026-10-01T18:49:55-04:00"
+source_updated: "2026-10-25T22:20:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -61,6 +61,16 @@ La IA generativa ha convertido el conocimiento previo en una consideración de d
 2. **Modele el estado de conocimiento previo.** Construya el modelado del estudiante y la adaptación sobre el conocimiento previo estimado (y sus ideas erróneas), y no sobre una uniformidad supuesta, para que la personalización responda de verdad.
 3. **Saque a la luz y aborde las ideas erróneas.** Cuando el conocimiento previo es incorrecto, interferirá; la enseñanza debe elicitar y corregir las ideas erróneas en lugar de añadir contenido nuevo sobre cimientos defectuosos.
 4. **Sopesa el intercambio de fricción.** Activar el conocimiento previo añade dificultad deseable (recuperación, integración) que los valores por defecto de la IA, orientados a eliminar la fricción, tienden a borrar: una tensión que hay que gestionar de forma deliberada y no dejar que la automatización resuelva por defecto.
+
+## Concepciones erróneas
+
+**«El conocimiento previo predice quién hace el trabajo cognitivo.»** Predice los resultados con más fiabilidad de la que predice la conducta. En un estudio de cinco días sobre aprender enseñando con **23 tutores de secundaria**, las puntuaciones previas de las pruebas **no** predijeron la proporción de respuestas de construcción de conocimiento que produjo cada tutor, y los tutores con conocimiento previo bajo se dedicaron a construir conocimiento en lugar de rendirse a menos. Quién se implica en el esfuerzo productivo no es simplemente quien llega sabiendo más.
+
+**«La descarga es un rasgo estable de quien aprende, así que un mismo estudiante descarga lo mismo en todas partes.»** Sigue al conocimiento previo dentro de la tarea. En un estudio de escritura de síntesis, el **grupo con conocimiento alto y descarga mínima redactó el 80% de su ensayo, frente al 2% del grupo con la descarga más intensa**. La descarga es por tanto en buena medida una respuesta a lo que quien aprende ya tiene y a lo que la tarea exige, lo que la convierte en una variable de diseño y no en un rasgo de carácter.
+
+**«El estudiantado con menos conocimiento previo necesita más apoyo de IA.»** Esa es la dirección con más probabilidad de ampliar la brecha, ya que el patrón de descarga medido concentra la pérdida de autoría donde el conocimiento previo es más fino. El apoyo que le suministra el trabajo a quien está menos equipado para detectar la sustitución elimina la actividad que construiría el conocimiento que falta.
+
+**«El conocimiento previo es un insumo fijo que el curso no puede mover.»** Es el factor con más peso en el aprendizaje nuevo, lo que convierte construirlo en la tarea de mayor apalancamiento y no en una condición de fondo: la razón por la que el conocimiento de dominio es la intervención en sí misma y no solo la covariable.
 
 ## Conceptos conectados
 

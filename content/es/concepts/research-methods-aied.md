@@ -1,7 +1,7 @@
 ---
 title: Métodos de investigación en AIED
 created: "2026-09-25T03:54:15-04:00"
-updated: "2026-10-22T09:13:53-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 type: concept
 foundations: [ai-education]
 assessment: [educational-measurement]
@@ -12,7 +12,7 @@ confidence: high
 connected_faqs: [research-gaps-aied, evaluating-ai-interventions-methods, equity-ethics-pedagogical-safety-research, reporting-interpreting-aied-research]
 methods: [ai-ed-evaluation, benchmark, rct, research-methods-aied]
 translation_of: concepts/research-methods-aied
-source_updated: "2026-10-05T10:25:44-04:00"
+source_updated: "2026-10-26T13:35:09-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -187,6 +187,18 @@ Una rama metodológica distinta, la [[usability-research|investigación sobre us
 - **Usabilidad / IHC:** beneficios: identifica barreras de adopción, orientación de diseño accionable, rápida y barata. Limitaciones: no establece efectos sobre el aprendizaje, muestras pequeñas, la satisfacción autoinformada puede engañar.
 
 En la práctica, la investigación sobre IA en la educación rara vez encaja limpiamente en una sola tradición. La evidencia más sólida triangula: una evaluación computacional o de usabilidad establece que un sistema funciona, un experimento establece que causa aprendizaje, los instrumentos cuantitativos miden los constructos y el trabajo cualitativo revela los mecanismos y los significados, respondiendo en conjunto tanto *si* una herramienta ayuda a aprender como *cómo y por qué*.
+
+[[bulut-technology-supported-formative-assessment-2026|Bulut (2026)]] añade una línea bibliométrica que se sitúa aparte de estas cuatro: mapea 407 registros mediante redes de co-palabras y co-autoría para trazar el desarrollo conceptual de un campo. El autor explicita que la lectura DAFO construida sobre ello es un dispositivo interpretativo y no una técnica analítica independiente, lo que marca la frontera entre síntesis y análisis en esta tradición.
+
+## Concepciones erróneas
+
+**«Una exactitud alta en los puntos de referencia demuestra eficacia educativa.»** No lo hace, y la brecha es el problema de medición central del campo: un sistema puede obtener una exactitud alta sin producir aprendizaje, porque la exactitud en el punto de referencia mide el rendimiento en la tarea en las condiciones que fijó el propio punto de referencia. La eficacia educativa exige un resultado de aprendizaje en condiciones que la tecnología no controla.
+
+**«Una tradición de investigación es metodológicamente superior.»** Las tradiciones intercambian una limitación por otra por construcción. La investigación basada en el diseño itera sobre una intervención real pero no puede atribuir las ganancias a un mecanismo concreto, mientras que un [[rct|ECA]] aísla causas pero se ejecuta en condiciones artificiales. Elegir entre ellas es elegir qué afirmación puede hacer, no qué método es mejor.
+
+**«Una regla de medición permisiva es una decisión metodológica menor.»** Cambia el hallazgo. Acreditar cualquier finalización predijo el rendimiento posterior sin ayuda apenas por encima de una constante de dificultad de la habilidad (AUC agrupada 0,604 frente a 0,595) mientras declaraba **el 93,9% de los pares estudiante-habilidad como dominados frente al 72,8%** con una regla estricta. La regla produjo una diferencia de 21 puntos en quién se declaraba preparado y casi ninguna mejora predictiva a cambio.
+
+**«La significación estadística zanja si una intervención funcionó.»** Zanja si un efecto era detectable. Que fuera un efecto de *aprendizaje* depende de la medida de resultado, de la comparación y de las condiciones en que se tomó, y por eso las decisiones de diseño y de comunicación de las secciones de esta página pesan tanto como el análisis.
 
 ## Conceptos conectados
 

@@ -5,8 +5,9 @@ type: concept
 technology: [ai-technologies, learning-analytics, multimodal, visualization]
 confidence: medium
 created: "2026-09-28T18:15:22-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 translation_of: concepts/visualization
-source_updated: "2026-10-13T09:18:19-04:00"
+source_updated: "2026-10-26T07:30:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -60,6 +61,13 @@ Los sistemas prácticos aplican estos principios a escala. AISSA combina la punt
 ## Implicaciones
 
 A lo largo de las obras aquí discutidas, la visualización emerge como un medio de doble uso: la IA genera e interpreta cada vez más visualizaciones, mientras que los paneles y los visuales interactivos sirven como superficie compartida para la construcción de sentido humano-IA. El texto a imagen generativo y el análisis multimodal extienden el alcance de la visualización a contenido [[stem-education|STEM]] especializado y a la [[ai-feedback-quality|retroalimentación automatizada]], pero la competencia desigual de los modelos, los fallos de calibración de la severidad y las preocupaciones [[ethics|éticas]] sobre la desinformación y la autoría exigen una verificación cuidadosa y por capas. Para diseñadores y educadores, la conclusión más firme es que la interactividad y la participación — suscitar el razonamiento de los estudiantes sobre los datos visuales, permitir a los usuarios controlar el esfuerzo cognitivo, y tratar los visuales producidos por IA como infraestructura compartida en lugar de como fines — importan más que la fidelidad del propio gráfico.
+
+## Concepciones erróneas
+
+- **«La IA no puede representar contenido especializado con exactitud.»** Puede, con el método adecuado: ajustar un modelo de texto a imagen con conceptos nucleares **elevó la exactitud del dominio del 12% al 78%**. La brecha es de fundamentación en el dominio, no de capacidad generativa, y es abordable.
+- **«Mejores visualizaciones producen mejores resultados.»** El profesorado **prefería sistemáticamente visualizaciones más simples y tradicionales** (gráficos de barras, gráficos circulares, leyendas) **incluso cuando diseños complejos como los mapas de calor producían ideas más detalladas**. El artefacto más informativo no era el que se usaba, así que la adopción es un problema distinto de la calidad del diseño.
+- **«El estudiantado mira donde está el andamiaje.»** Un estudio encontró que el estudiantado **pasaba la mayor parte de su mirada por el código pese a elaborados andamiajes visuales**: las ayudas simplemente no captaban la atención. Un apoyo visual presente pero desatendido no cambia nada.
+- **«Implicación y comprensión se mueven juntas.»** Las personas participantes encontraron los cómics de datos generados por IA **más atractivos y comprensibles, y aun así muchas señalaron el riesgo de desinformación y la sobrecarga informativa**. Ambas reacciones vinieron del mismo artefacto, así que una recepción positiva no es una lectura verificada.
 
 ## Conceptos conectados
 

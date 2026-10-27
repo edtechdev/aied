@@ -1,13 +1,13 @@
 ---
 title: Aprendizaje experiencial
 created: "2026-09-28T19:10:33-04:00"
-updated: "2026-10-03T00:21:46-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 type: concept
 pedagogy: [active-learning, embodied-learning, experiential-learning, project-based-learning]
 level: [higher ed]
 confidence: high
 translation_of: concepts/experiential-learning
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-26T09:45:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -49,6 +49,33 @@ El aprendizaje experiencial conecta con el [[active-learning|aprendizaje activo]
 
 La experiencia integrada en el trabajo puede ser la condición vinculante para una competencia avanzada: en 89 proyectos de fin de carrera patrocinados en un laboratorio de fabricación inteligente, el avance del Nivel de Preparación Laboral 6 al 7 estaba condicionado por las colocaciones integradas en la industria y no por cursos adicionales ([[workforce-readiness-smart-manufacturing-wrl-2026|Smith et al. (2026)]]).
 
+## Concepciones erróneas comunes
+
+**«El aprendizaje experiencial significa actividad práctica.»** La actividad es la superficie; el mecanismo de aprendizaje es el ciclo de hacer, reflexionar, conceptualizar y probar. Una sesión de laboratorio sin reflexión estructurada produce familiaridad y no cambio conceptual, y por eso «añadimos un componente práctico» no es evidencia de aprendizaje experiencial.
+
+**«La IA puede sustituir la experiencia del aprendizaje experiencial.»** Puede simular algunos sistemas y no puede aportar la experiencia que forma la competencia en ámbitos aplicados como la IA, la ciberseguridad y la robótica, donde el estudiantado desarrolla destrezas trabajando con las herramientas y los sistemas reales. Un entorno de seguridad simulado enseña el procedimiento; un sistema en funcionamiento enseña la consecuencia de una mala configuración.
+
+**«Las tareas más auténticas son sencillamente mejores.»** La autenticidad eleva a la vez el valor de transferencia y el problema de la evaluación: los sistemas reales producen evidencia variable y difícil de calificar, y cuanto más auténtica es la tarea, menos se parece el resultado a una puntuación. El diseño tiene que sostener ambas cosas, y por eso la estructura de reflexión pesa tanto como la tarea.
+
+**«La tutoría con IA encaja en el aprendizaje experiencial igual que en el contenido expositivo.»** El encaje es más débil, porque un tutor puede aportar explicación y no puede aportar el encuentro con el sistema. Su lugar natural en esta pedagogía está en torno a las etapas de reflexión y conceptualización, cuando quien aprende está dando sentido a lo que ocurrió, y no en lugar del hacer. [[gelli-experiential-language-learning-2026|Symonette et al. (2026)]] generan el encuentro en lugar de guionizarlo: a partir de los objetivos de quien aprende, GELLI construye escenas situadas con personajes, apoyo y reflexión en tiempo de ejecución, y en un estudio intrasujetos con 40 estudiantes japoneses superó a vídeos creados por especialistas en recuerdo de vocabulario (d = 0,45) y confianza (d = 0,45), pero no en expresión oral.
+
+## Implicaciones para la práctica
+
+**Para el profesorado**
+
+- Estructure el ciclo y no la actividad: hacer, después reflexionar, después conceptualizar y después probar en una situación nueva. Una sesión que se detiene tras el hacer ha producido familiaridad, no aprendizaje.
+- Añada el componente práctico donde el concepto es abstracto y retírelo donde lo práctico se ha convertido en todo el curso. Lo práctico es un medio con un coste en tiempo y un beneficio en transferencia, y esa proporción es una decisión de diseño.
+- Reserve la IA para la etapa de reflexión, cuando quien aprende está dando sentido a lo que ocurrió.
+
+**Para quienes desarrollan**
+
+- Cree prompts de reflexión y un registro de lo que hizo quien aprende, para que la etapa de dar sentido tenga material y la evidencia sea auditable.
+- No presente una simulación como sustituto del manejo de un sistema real en ámbitos donde la consecuencia del error es el currículo.
+
+**Para quienes diseñan programas**
+
+- Compruebe que los programas aplicados contienen trabajo aplicado y no sucedáneos de laboratorio; la afirmación de transferencia descansa en la autenticidad del encuentro.
+
 ## Conceptos conectados
 - [[active-learning]]
 - [[project-based-learning]]
@@ -73,3 +100,4 @@ La experiencia integrada en el trabajo puede ser la condición vinculante para u
 - [[ai-personas-fieldwork-experiential-learning-2026]] — Personas de IA que sustituyen el trabajo de campo comunitario, con una rúbrica de cinco indicadores sobre dónde falla la sustitución (Elhajj et al. 2026)
 - [[hands-on-learning-necessity-age-of-ai-review-2026]] — Revisión temática que distingue el aprendizaje práctico corporeizado del cognitivo en la educación en diseño apoyada por IA (Yu, Liu y Zhu 2026)
 - [[shi-genai-experiential-learning-management-education-2026]] — un curso de dirección estratégica reconfigurado en torno a tres mecanismos de IA generativa
+- [[gelli-experiential-language-learning-2026]] — GELLI: un generador de interacciones para el aprendizaje experiencial de idiomas (Symonette et al. 2026)

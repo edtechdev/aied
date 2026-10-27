@@ -82,8 +82,27 @@ def headings(text):
     return re.findall(r'^(#{1,6}) ', text, re.M)
 
 def num_tokens(text):
-    toks = set(re.findall(r'\d+\.\d+|\b\d{2,3}(?:,\d{3})*\b|\b\d{2,}\b', text))
-    return {t for t in toks if not re.fullmatch(r'(19|20)\d\d', t)}
+    """Numeric values reduced to canonical digit form.
+
+    Locales disagree about separators for the SAME value: English writes 12,766
+    and 0.056 where Spanish writes 12.766 and 0,056, and Russian or Swahili may
+    use a non-breaking or Arabic thousands mark. Comparing raw tokens therefore
+    reports a figure that IS present in the translation as missing, and a whole
+    wave reads as ungrounded when it is not (46 of 46 pages flagged on one run,
+    at a mean real coverage of 0.998).
+
+    Both sides are reduced the same way: every digit run, stripped of all
+    separators, leading zeros dropped. 12,766 == 12.766 == 12766 and
+    0.001 == 0,001 == 1. Bare years are dropped, since a date is not a figure
+    the translation owes the reader.
+    """
+    out = set()
+    for m in re.finditer(r'\d[\d.,٬\u00a0]*\d|\d', text):
+        digits = re.sub(r'[.,٬\u00a0]', '', m.group(0)).lstrip('0') or '0'
+        if re.fullmatch(r'(19|20)\d\d', digits):
+            continue
+        out.add(digits)
+    return out
 
 for key in assigned:
     coll, slug = key.split('/')
@@ -137,11 +156,11 @@ for key in assigned:
     # 8. numeric coverage
     toks = num_tokens(en_body)
     if toks:
-        dst_norm = dst_body.replace(',', '').replace('٬', '')
-        present = sum(1 for t in toks if t.replace(',', '') in dst_norm)
+        present = len(toks & num_tokens(dst_body))
         cov = present / len(toks)
         if cov < 0.95:
-            fail(coll, slug, 'NUMCOV', f'{cov:.2f} ({len(toks)-present} missing)')
+            missing = sorted(toks - num_tokens(dst_body))[:8]
+            fail(coll, slug, 'NUMCOV', f'{cov:.2f} ({len(toks)-present} missing, e.g. {missing})')
     # 9. notice line (locale-specific first-line machine-translation notice)
     notice = LOCALE_NOTICE.get(LOCALE)
     if notice is not None:

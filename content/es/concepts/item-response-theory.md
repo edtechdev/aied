@@ -1,13 +1,13 @@
 ---
 title: Teoría de respuesta al ítem
 created: "2026-09-28T19:10:33-04:00"
-updated: "2026-10-22T07:28:42-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 type: concept
 technology: [knowledge-tracing, student-modeling]
 assessment: [assessment-validity, educational-measurement, psychometrically-aware-ai]
 confidence: medium
 translation_of: concepts/item-response-theory
-source_updated: "2026-10-16T09:45:00-04:00"
+source_updated: "2026-10-26T07:30:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -72,6 +72,13 @@ La TRT trata la habilidad (θ) y los parámetros de los ítems (dificultad, disc
 ### Conexiones
 
 La TRT es un fundamento de la [[educational-measurement|medición educativa]] y de la [[assessment-validity|validez de la evaluación]], sustenta el [[adaptive-learning|aprendizaje adaptativo]] (selección adaptativa de ítems) y el [[student-modeling|modelado del estudiantado]], y se conecta con la [[psychometrically-aware-ai|IA psicométricamente consciente]] (evaluación con IA alineada con la teoría de la medición) y con el [[knowledge-tracing|trazado de conocimiento]]. Aparece en la [[llm-difficulty-calibration-programming-exams-2026|calibración de dificultad con LLM]] para la evaluación de programación.
+
+## Concepciones erróneas
+
+- **«La TRT exige una administración convencional de la prueba.»** La habilidad y la dificultad pueden recuperarse de los **logits del siguiente token**: extraer la **habilidad del estudiantado θ = z^GOOD − z^BAD** y la **dificultad del turno del tutor d = z^HARD − z^EASY** y combinarlas en un predictor Rasch 1PL hace interpretable en términos de TRT el trazado de conocimiento basado en diálogo. El marco psicométrico se aplica a los datos de interacción, no solo a las respuestas a ítems.
+- **«Un referente que la mayoría de los modelos supera es un buen referente.»** Un referente alineado con estándares puede **saturarse**: en conjuntos de ciencias de secundaria y bachillerato alineados con los NGSS, **la mayoría de los modelos de pesos abiertos puntuaron por encima del 90%**, lo que dejó pobres las métricas clásicas de ítem. La saturación no significa que los modelos sean excelentes; significa que los ítems ya no discriminan.
+- **«La dificultad de un ítem es una propiedad intrínseca del ítem.»** Una sonda causal que **editó 50 preguntas de la prueba por conjunto de datos** en dirección a una hipótesis o en su contra encontró que **las ediciones que aumentaban la dificultad redujeron la precisión media en 15,27 y 23,88 puntos porcentuales** en GSM8K y en BBH-structured. La dificultad es una relación entre el ítem y el modelo, y se mueve cuando el ítem se mueve.
+- **«La TRT sirve solo para puntuar a quien aprende.»** [[assessing-quality-ai-generated-exams-field-2025|Evaluar la calidad de exámenes generados por IA]] usa un **modelo 2PL jerárquico bayesiano con ítems ancla de pretest para situar a 1.686 estudiantes**, lo que es aseguramiento de la calidad de la propia evaluación y no puntuación del estudiante.
 
 ## Conceptos conectados
 

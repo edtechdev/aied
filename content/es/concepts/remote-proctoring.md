@@ -1,7 +1,7 @@
 ---
 title: Supervisión remota de exámenes
 created: "2026-09-28T19:10:33-04:00"
-updated: "2026-10-22T07:28:33-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 type: concept
 foundations: [academic-integrity]
 pedagogy: [online-teaching-and-learning]
@@ -10,7 +10,7 @@ ethics: [equity-in-ai-education, privacy]
 level: [higher ed]
 confidence: high
 translation_of: concepts/remote-proctoring
-source_updated: "2026-10-15T21:52:00-04:00"
+source_updated: "2026-10-26T10:00:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -36,6 +36,7 @@ ai_assist:
 ## Introducción
 
 La supervisión remota existe en un espectro. La **supervisión en línea** implica normalmente a una persona supervisora que vigila a un estudiante por webcam o desde un centro de control. La **supervisión automatizada o basada en IA (AIPS)** sustituye o complementa a la persona con sistemas de [[machine-learning|aprendizaje automático]] y aprendizaje profundo (CNN, RNN, LSTM) que analizan señales visuales —movimientos oculares, postura de la cabeza, expresiones faciales y lenguaje corporal— para detectar conductas sospechosas en tiempo real. Entre las plataformas habituales están ProctorU y Kryterion. Los AIPS suelen combinar cuatro funciones: (1) autenticación de identidad (por ejemplo, verificación facial por cámara), (2) restricciones de navegación, (3) autorización o control remoto del examen y (4) generación de informes a partir de las sesiones grabadas.
+- **La estimación de pose sustituye a las reglas de umbral, y la afirmación de precisión es más estrecha de lo que parece.** Arif et al. (2026) siguen diecisiete puntos anatómicos por fotograma con YOLOv11, derivan características de desviación postural, tendencia de la cabeza y movimiento de la parte superior del cuerpo, y despliegan un KNN de un solo vecino más cercano sobre 30 características seleccionadas por información mutua, informando de una precisión del 99,56% y un AUC de 0,9957 con una sola webcam ([[arif-automated-online-proctoring-yolov11-2026|Arif et al., 2026]]). Esas cifras describen la reproducción de etiquetas en un conjunto de escenarios hecho a medida, no la detección de mala conducta.
 
 ## Ventajas y oportunidades
 
@@ -71,6 +72,12 @@ La supervisión remota existe en un espectro. La **supervisión en línea** impl
 - **Arquitectura que preserva la privacidad.** El procesamiento en el borde, la anonimización y el tratamiento en el dispositivo reducen la invasividad de la captura continua de datos.
 - **Despliegue consciente de la equidad.** Conjuntos de datos diversos y geográficamente inclusivos y modelos ligeros para entornos con pocos recursos; alternativas accesibles para el estudiantado sin dispositivos o conectividad fiables.
 - **Educar antes de vigilar.** Preferir fomentar la [[ai-literacy|alfabetización en IA]] y el [[reducing-ai-misuse|uso responsable]] mediante la cultura y la construcción de confianza, reservando la supervisión para los casos de alto impacto que realmente la requieren.
+
+## Concepciones erróneas
+
+- **«La supervisión protege la integridad académica.»** **La justificación de integridad no sobrevivió a la prueba más grande.** A lo largo de **cuatro oleadas y 1.760 estudiantes en 105 cursos**, la supervisión **elevó la ansiedad ante el examen (β = 0,60, p < 0,001) pero no tuvo** ningún beneficio detectable en integridad. El efecto medido fue sobre el estudiantado, no sobre las trampas.
+- **«Mejor capacidad de detección significa mejor supervisión.»** Una revisión sistemática de una década sobre **80 estudios revisados por pares (2014-2024)** encuentra que la supervisión avanzada con aprendizaje automático y profundo **detecta las trampas con más** precisión y no dice nada sobre si desplegarla cambia la conducta. El rendimiento de detección es una propiedad del clasificador, no del régimen de evaluación.
+- **«Las señales conductuales son indicadores fiables de mala conducta.»** Los sistemas **siguen diecisiete puntos anatómicos por fotograma** con YOLOv11 para derivar características de **desviación postural, tendencia de la cabeza y movimiento de la parte superior del cuerpo**. Esos constructos son proxies, y una postura marcada es una clasificación sobre un cuerpo y no la observación de una transgresión.
 
 ## Conceptos conectados
 - [[anxiety-and-stress]]

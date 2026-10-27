@@ -1,7 +1,7 @@
 ---
 title: Educación y formación profesional
 created: "2026-09-28T19:11:07-04:00"
-updated: "2026-09-28T19:11:07-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 type: concept
 technology: [human-in-the-loop-ai, intelligent-tutoring, simulation]
 assessment: [authentic-assessment]
@@ -11,7 +11,7 @@ audience: [instructors, curriculum designers, institutions]
 level: [adult learning, higher ed]
 confidence: high
 translation_of: concepts/vocational-education
-source_updated: "2026-09-28T21:37:06-04:00"
+source_updated: "2026-10-25T19:50:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -50,6 +50,33 @@ Lo distintivo de la IA en la EFP es una brecha entre lo que el sector dice quere
 - **Acompañamiento acotado en lugar de sustitución.** [[ai-pedagogical-accompaniment-amico|El prototipo Amico]] sostiene que el valor de la IA en entornos técnicos y profesionales depende de una mediación [[pedagogy|pedagógica]] responsable y no de su parecido con lo humano. Su prototipo Amico empareja AmicoMio, orientado a la claridad técnica y a la guía paso a paso de la tarea, con AmicoTuo, orientado al diálogo reflexivo y al cuestionamiento mayéutico. El principio de diseño es un *puente relacional*: una interacción deliberadamente temporal, orientada al contacto humano y acotada por salvaguardas, con las personas adultas conservando la responsabilidad de mando humano. Los pilotos exploratorios (N = 30, Italia y China, 20 sesiones acotadas) encontraron que los participantes trataban el sistema como una herramienta de apoyo acotada, sin expectativas declaradas de sustitución o dependencia.
 - **El aprendizaje asistido por IA conlleva un coste psicológico cuando sustituye el esfuerzo.** [[ai-autonomous-learning-accomplishment-2026|Un estudio]] encuestó a 1.264 estudiantes de centros de formación profesional de China mediante modelado de ecuaciones estructurales y encontró que el aprendizaje autónomo asistido por IA se asociaba negativamente con la resiliencia (compromiso, control, desafío) y positivamente con un menor logro académico, una dimensión de agotamiento de autoevaluación negativa. La resiliencia mediaba parcialmente la relación. El diseño es transversal, autoinformado y de una sola institución, por lo que no se establece causalidad, pero el encuadre importa para la EFP: cuando la confianza se construye mediante la práctica repetida, la IA como sustituto puede reducir tanto la disposición a persistir como la experiencia sentida de dominio.
 - **Acelerar la producción de planes de estudio sin renunciar a la verificación.** [[crewscaler-ai-upskilling-framework|CrewScaler]] aplica la IA a las cinco etapas de la capacitación profesional —adquisición de conocimiento, desarrollo de contenido, revisión y verificación, [[intelligent-tutoring|acompañamiento tutorial]] y desarrollo de la evaluación— mientras mantiene en manos humanas el diseño del plan, la revisión de la materia y la redacción de ideas erróneas. Su validación externa incluye la acreditación CPE de NASBA, tres de tres estudiantes que aprobaron un examen de certificación de NVIDIA usando solo la base de conocimiento del marco, y un banco de 530 preguntas etiquetadas según un plan de 53 habilidades. Tiene cabida aquí porque trata la verificación como una etapa de primer orden: la detección de [[hallucination-risk|alucinaciones]] está en gran medida ausente de las canalizaciones educativas, y el artículo informa de que la tutoría por defecto con LLM solo alcanza entre el 52% y el 70% de acciones pedagógicas correctas.
+
+## Concepciones erróneas
+
+**«La base de evidencia sobre IA en la EFP nos dice algo sobre la educación y formación profesional.»** Nos dice algo sobre sustitutos de aula, lo que es una laguna seria y no un detalle: **ningún estudio de la base de evidencia sobre IA en la EFP se sitúa en un lugar de trabajo**, y sin embargo la EFP se *define* por el aprendizaje basado en el trabajo. Un hallazgo sobre una herramienta de IA en una tarea simulada del oficio todavía no se ha encontrado con las condiciones que hacen distintivo al sector: clientes reales, consecuencias reales de seguridad y variación real en los equipos del lugar de trabajo.
+
+**«Un efecto significativo sobre la capacidad de diseño o creativa se transfiere a la competencia ocupacional.»** El resultado cuantitativo más sólido aquí procede de un **cuasiexperimento de dos grupos de 12 semanas con 63 respuestas válidas (31 frente a 32)**, en el que la condición con agente inmersivo obtuvo puntuaciones más altas en capacidad de diseño (η²p = ,138) y capacidad creativa (η²p = ,111) bajo ANCOVA, con implicación cognitiva d = 0,90. Treinta y un estudiantes por brazo en una tarea de aula es evidencia sobre esa tarea, y la competencia ocupacional no es uno de los resultados medidos.
+
+**«El estudiantado se apoyará en exceso en la IA durante la formación práctica.»** La evidencia piloto apunta en la dirección contraria. Los pilotos exploratorios (**N = 30**, Italia y China, **20 sesiones acotadas**) encontraron que los participantes trataban el sistema como una herramienta de apoyo acotada, **sin expectativas declaradas de sustitución o dependencia**. Eso es exploratorio y pequeño, y sí sugiere que el encuadre que hace el estudiantado de formación profesional de una herramienta como equipo y no como autoridad es un recurso sobre el que vale la pena diseñar.
+
+**«La aprobación de una tarea simulada por parte de quien aprende significa que evaluó lo correcto.»** De **33 estudiantes encuestados, 21 (64%)** coincidieron en que la tarea de voz era realista y la misma proporción dijo que ofrecía una forma clara de comunicar lo que sabían, y ninguno discrepó de que hablar en tiempo real encajaba con esta [[authentic-assessment|evaluación auténtica]]. El realismo y la claridad comunicativa merecen conocerse y no son validez: una tarea puede sentirse auténtica y aun así no muestrear el desempeño ocupacional que representa.
+
+## Implicaciones para la práctica
+
+**Para el profesorado**
+
+- Trate los estudios en el lugar de trabajo como la evidencia que falta y diseñe sus pilotos para incluirlos; las ganancias de aula son necesarias y no suficientes para una cualificación de oficio.
+- Enmarque las herramientas de IA como equipo acotado y no como autoridad. La evidencia piloto sugiere que el estudiantado ya se aproxima a ellas así, y ese encuadre merece hacerse explícito.
+- Mantenga las comprobaciones de autenticidad separadas de las de validez: pregunte qué desempeño ocupacional muestrea la tarea, y no solo si al estudiantado le pareció realista.
+
+**Para quienes desarrollan**
+
+- Construya para una asistencia acotada y delimitada por la tarea y con un final claro, que coincide con cómo usó el estudiantado de formación profesional los sistemas en estos pilotos.
+- Diseñe frente a la variación del lugar de trabajo —equipos, normas de seguridad, interacción con clientes— y no frente a una configuración de laboratorio, porque ahí es donde ocurrirá el despliegue.
+
+**Para quienes investigan**
+
+- Realice al menos algunos estudios sobre el terreno en lugares de trabajo. Un sector definido por el aprendizaje basado en el trabajo cuya base de evidencia no contiene estudios en el lugar de trabajo todavía no ha puesto a prueba su afirmación central.
 
 ## Conceptos conectados
 

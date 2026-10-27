@@ -1,7 +1,7 @@
 ---
 title: Pensamiento crítico
 created: "2026-09-25T04:31:09-04:00"
-updated: "2026-10-22T09:13:53-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 type: concept
 foundations: [ai-education, ai-literacy, cognitive-offloading]
 pedagogy: [scaffolding, socratic-method]
@@ -10,7 +10,7 @@ connected_faqs: [verify-ai-output]
 level: [higher ed]
 confidence: medium
 translation_of: concepts/critical-thinking
-source_updated: "2026-10-21T12:05:00-04:00"
+source_updated: "2026-10-26T10:50:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 connected_resources: [pressing-prompts, student-guide-to-ai]
 contributors: [editor]
@@ -103,6 +103,12 @@ El pensamiento crítico se cruza con el [[scaffolding|andamiaje]] (diseñar apoy
 - **La verificación como actividad de aprendizaje, no solo como salvaguarda.** [[pearls-epistemic-verification-2026|Wang (2026)]] organiza la evaluación de artefactos de IA en torno a seis dimensiones interdependientes —Proceso, Evidencia, Acceso, Reproducibilidad, Legitimidad y Fuente— y trata el ensamblaje de esa garantía, y no la fluidez de la salida, como lo que construye la pericia disciplinar.
 
 **La mayor vulnerabilidad calificada por personas expertas en la base de conocimiento es el pensamiento crítico.** A lo largo de 65 procesos de aprendizaje valorados por 30 expertos, el Pensamiento Crítico y el Pensamiento Crítico-Analítico obtuvieron la mayor calificación de disrupción del informe (media 4,00 de 5; el 96% de quienes valoraron en 3 o más) con la potenciación por debajo del umbral (2,40, 43%) ([[genai-support-threaten-learning-k20-expert-consensus-2026|Kendeou, Greene & Nixon et al., 2026]]). Diez de los dieciocho procesos de orden superior alcanzaron consenso únicamente sobre la vulnerabilidad, lo que el informe interpreta como un riesgo unilateral y no como una contrapartida.
+
+## Concepciones erróneas
+
+- **«Un mejor prompt produce mejor pensamiento crítico.»** **El control estructurado del diálogo, y no un mejor prompt**, es lo que separa a un tutor de falacias de un chatbot de debate: enrutar cada turno por una **detección de intención basada en Toulmin** hizo el trabajo. El mecanismo es la estructura de la interacción, no la formulación.
+- **«El uso de IA generativa eleva directamente el pensamiento crítico.»** El vínculo del uso de IA generativa con el pensamiento crítico **autoinformado** pasó **casi por completo por la [[feedback-literacy|alfabetización en retroalimentación]] con IA generativa**: en **421 estudiantes universitarios chinos**, la alfabetización en retroalimentación medió el **71%** de la asociación. La alfabetización es la vía.
+- **«El efecto metaanalítico es uniforme.»** A lo largo de **29 experimentos**, la IA generativa elevó moderadamente el pensamiento de orden superior (**g = 0,609**), con el pensamiento crítico en **ES = 0,691**. Los efectos agrupados moderados sobre intervenciones heterogéneas respaldan la categoría y no un diseño específico.
 
 ## Conceptos conectados
 

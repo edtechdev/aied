@@ -1,6 +1,7 @@
 ---
 title: Aprendizaje activo
 created: "2026-09-28T21:03:34-04:00"
+updated: "2026-10-26T21:37:50-04:00"
 connected_faqs: [does-ai-help-students-learn, designing-ai-into-learning]
 type: concept
 foundations: [ai-education, learning-design]
@@ -10,7 +11,7 @@ level: [higher ed, k 12]
 confidence: high
 connected_resources: [education-agent-skills]
 translation_of: concepts/active-learning
-source_updated: "2026-10-13T11:05:00-04:00"
+source_updated: "2026-10-26T07:05:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -81,6 +82,12 @@ El aprendizaje activo está profundamente conectado con el [[collaborative-learn
 
 El aprendizaje activo es una de las palancas más fuertes sobre las [[learning-gains|ganancias de aprendizaje]] en la era de la IA. Como las estrategias activas construyen comprensión mediante un hacer esforzado, son las más robustas frente al cortocircuito de la IA —y la evidencia de la base de conocimiento muestra que preservar ese esfuerzo protege el aprendizaje duradero, mientras que dejar que la IA lo absorba lo erosiona ([[generative-ai-reduced-study-time-math|la reducción del tiempo de estudio]], [[stromberg-generative-ai-learning-penalty-secondary-2026|la penalización del aprendizaje]], [[lak2026-hint-button-unproductive-use|el abuso de pistas]]). El profesorado que combina diseños de aprendizaje activo con [[learning-gains|ganancias medidas]] sobre resultados sin asistencia obtiene la imagen más clara de si la actividad asistida por IA mejoró realmente el aprendizaje.
 
+## Concepciones erróneas
+
+- **«Poner IA en la actividad la vuelve activa.»** Un estudio de EEG encontró que **la colaboración interactiva entre estudiantado e IA produjo la mayor implicación cognitiva, mientras que la automatización total la redujo**. La implicación vino de la interacción y no de la presencia de la IA, y automatizar la parte del trabajo que corresponde a quien aprende movió la implicación en la dirección equivocada.
+- **«La indagación apoyada por IA es automáticamente de orden superior.»** Un cuasiexperimento con **120 estudiantes de 8.º grado** encontró que el [[inquiry-based-learning|aprendizaje basado en la indagación]] apoyado por IA elevó el desempeño matemático creativo **y** una medida más estrecha: el tratamiento movió algunos resultados y no otros. Correlacionar con una etiqueta de orden superior no es lo mismo que una tarea de orden superior.
+- **«Que el estudiantado diseñe la enseñanza es un ejercicio técnico.»** En el estudio de la inversión, **345 estudiantes** de un curso con 700 estudiantes diseñaron cada uno un agente conversacional para enseñar tres patrones de diseño a un compañero. El aprendizaje activo vino del trabajo de diseño, que es razonamiento pedagógico y no ingeniería de prompts.
+- **«Los hallazgos sobre implicación son hallazgos sobre aprendizaje.»** La misma base de evidencia advierte de que un diseño **sin grupo de control y con muestra de voluntarios** solo permite sostener afirmaciones sobre la implicación. El estudiantado valoró la libertad de diseño abierta (**22,3%** como tema positivo principal) y se quejó sobre todo de la falta de claridad de las instrucciones (**23,7%**): ambas cosas son sobre la experiencia.
 ## Conceptos conectados
 
 - [[learning-gains]]

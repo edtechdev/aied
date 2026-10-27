@@ -1,13 +1,13 @@
 ---
 title: Modelado del estudiantado e instrucción adaptativa
 created: "2026-09-28T18:15:36-04:00"
-updated: "2026-10-22T09:13:53-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 connected_faqs: [making-simulated-students-behave-like-learners]
 type: concept
 technology: [adaptive-learning, cognitive-diagnosis, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, personalized-learning, simulating-students, student-modeling]
 confidence: high
 translation_of: concepts/student-modeling
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-26T10:50:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -107,6 +107,12 @@ Un estimador de caja negra también puede destilarse en un modelo pequeño que s
 ## Conexiones con otros conceptos
 
 El modelado del estudiantado y la instrucción adaptativa alimentan la [[learning-analytics|analítica del aprendizaje]] ([[visualization|paneles]] e intervenciones), la [[formative-assessment|evaluación formativa]] (evaluación guiada por analítica) y la [[feedback|retroalimentación]] (lo que el sistema dice a quien aprende). Se conecta con la [[ai-education|IA en la educación]] como línea central de la IA para la educación.
+
+## Concepciones erróneas comunes
+
+- **«Un modelo fiel necesita el método más complejo.»** [[zhang-ml-student-progress-programming-2026|Zhang, Jeffries y Koprinska (2025)]] ilustran que **la representación fiel no requiere el enfoque más complejo**. La complejidad no es un indicador de fidelidad, y un modelo más simple que captura la estructura relevante puede ser el mejor instrumento.
+- **«Los modelos de quien aprende necesitan datos de rastro.»** Un modelo predictivo de quien aprende puede apoyarse en **la estructura de la matrícula** en lugar de en datos de rastro: TRACE codifica cada semestre como una **cesta desordenada de cursos** y predice a partir de ella. La señal predictiva puede vivir en el registro administrativo de la institución.
+- **«El estado afectivo requiere sensórica fisiológica.»** Un tutor de matemáticas **infirió la emoción a partir del texto conversacional y de la expresión facial** y asignó el estado agregado a las decisiones de tutoría. La señal afectiva era recuperable de lo que el estudiantado ya estaba produciendo.
 
 ## Conceptos conectados
 

@@ -1,7 +1,7 @@
 ---
 title: Riesgo de alucinación
 created: "2026-09-28T20:16:26-04:00"
-updated: "2026-10-22T07:45:27-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 type: concept
 foundations: [cognitive-offloading]
 technology: [generative-ai, human-in-the-loop-ai, llm]
@@ -12,7 +12,7 @@ confidence: high
 methods: [ai-ed-evaluation]
 reviewed_by: [editor]
 translation_of: concepts/hallucination-risk
-source_updated: "2026-10-11T09:05:00-04:00"
+source_updated: "2026-10-26T07:30:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -62,6 +62,13 @@ Las **estrategias de mitigación** incluyen diseños de [[human-in-the-loop-ai]]
 **La falta de fiabilidad etiquetada redujo la dependencia declarada en lugar de aumentarla.** Cuando 546 participantes leyeron el mismo diálogo de GAI etiquetado como portador de información fabricada o como verificado y exacto, la etiqueta de fabricación produjo menor [[trust]] y controlabilidad percibida, y mayor disonancia cognitiva y frustración junto a puntuaciones de dependencia *inferiores* (M = 2,935 frente a 3,254) ([[frontiers-gai-hallucination-dependence-2026|Liu et al. (2026)]]). El resultado matiza la lógica de dependencia excesiva de esta página: ver que una salida puede estar fabricada no es lo mismo que seguir apoyándose en ella.
 
 **Las señales de credibilidad pueden amplificar la deferencia en lugar de atenuarla.** El movimiento opuesto aparece cuando una salida poco fiable se presenta disfrazada: añadir citas y señales de credibilidad a la interfaz de debate de ARMADA elevó un 112% la fracción de participantes que abandonaban un juicio inicial correcto en favor de una posición incorrecta de la IA (31,8% frente a 15,0%), y la comprobación manual encontró algunos casos citados mal atribuidos a referencias irrelevantes o ficticias ([[tuo-armada-multi-agent-debate-overreliance-2026|Tuo et al., 2026]]).
+
+## Concepciones erróneas
+
+- **«El estudiantado notará los errores.»** Una **revisión de 125 estudios** sitúa las tasas de alucinación en **10-40%**, y **el estudiantado de medicina —uno de los grupos de quienes aprenden más cuidadosamente seleccionados en la educación superior— detecta los errores de la IA solo entre el 44% y el 55% de las veces**. Tasas de detección muy por debajo de la fiabilidad del azar significan que la carga no puede recaer en quien lee.
+- **«Los errores son evidentes cuando aparecen.»** Una IA que diagnosticaba matemáticas manuscritas podía **fabricar citas de evidencia que no estaban ahí mientras afirmaba confianza**. El fallo no era una respuesta verosímil pero equivocada; era un respaldo inventado presentado con certeza, que es el tipo más difícil de detectar porque se lee justo como la evidencia que una persona cuidadosa querría.
+- **«Una salida sin citas es un problema de formato.»** En un curso de posgrado que sustituyó su manual comercial por lecturas generadas con IA, solo **alrededor del 0,80% de 4.487 páginas registradas llevaba una cita en el texto en estilo APA**. Eso es una ausencia de procedencia a nivel de corpus, no una omisión ocasional, y significa que la verificación no tiene punto de partida.
+- **«La alucinación es un problema de generación del modelo que los modelos más nuevos resuelven.»** El rango de tasas abarca del 10 al 40% en 125 estudios, lo que es una propiedad de la tarea y del despliegue tanto como del modelo. Reducir la tasa es un progreso real y no cambia que quien lee tiene que poder comprobar.
 
 ## Conceptos conectados
 

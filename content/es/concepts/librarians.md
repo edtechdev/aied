@@ -1,7 +1,7 @@
 ---
 title: "Bibliotecarios"
 created: "2026-09-28T20:10:55-04:00"
-updated: "2026-09-28T20:10:55-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, academic-integrity, human-ai-collaboration]
 pedagogy: [scaffolding, inquiry-based-learning, collaborative-learning, metacognition]
@@ -12,7 +12,7 @@ audience: [librarians, learners]
 level: [higher ed, k 12]
 confidence: medium
 translation_of: concepts/librarians
-source_updated: "2026-09-20T12:40:00-04:00"
+source_updated: "2026-10-25T20:50:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -64,6 +64,16 @@ Otros dos hilos marcan los límites del rol. [[pearls-epistemic-verification-202
 - **Diseñar para itinerarios heterogéneos.** Con grupos aproximadamente iguales que preferían la IA, los bibliotecarios o ambos, el enrutamiento de las consultas por materia y carga de trabajo absorbió 312 de ellas, con 10,4 por participante; una única ruta obligatoria atenderá mal a parte del estudiantado.
 - **Hacer visibles la confianza y las fuentes.** La línea del taller sobre la búsqueda como aprendizaje pregunta qué procesos cognitivos no deberían delegarse y reclama interfaces que preserven los puntos de decisión: un [[scaffolding|andamiaje]] que los bibliotecarios pueden especificar desde su estándar de trabajo habitual de visibilidad de las fuentes.
 - **Presupuestar la capa humana, no solo el modelo.** Las consultas se respondieron en horas y a escala porque el personal se enrutó de forma deliberada; suponer que quienes aprenden gestionarán solos el juicio de credibilidad traslada ese coste a las personas menos equipadas para asumirlo.
+
+## Concepciones erróneas
+
+**«Los bibliotecarios son periféricos para la IA en la educación.»** Tienen un papel específico y comprobable, y el corpus lo mide. A lo largo de **312 consultas (10,4 por participante)**, la evaluación y la calidad de las fuentes representaron el **38,5%**, la formulación de estrategias de búsqueda el **29,2%**, la gestión de citas el **18,6%** y la navegación de repositorios el **13,7%**, y el **73,4% se respondió en menos de seis horas**. Eso no es un servicio periférico; es la función de alfabetización informacional cargando con el peso que la IA no pudo.
+
+**«La búsqueda con IA responde a las preguntas que el estudiantado solía llevar a un bibliotecario.»** En el estudio del bibliotecario integrado, **las preguntas de evaluación de fuentes dominaron las consultas (38,5%) precisamente en los casos en que la IA tenía menos confianza**. La incertidumbre de la herramienta derivó el trabajo hacia la capacidad humana que podía resolverlo, lo que convierte el patrón observado en una división del trabajo y no en una obsolescencia.
+
+**«La alfabetización informacional es una sesión de inducción puntual.»** Es enseñanza, no asistencia: las preguntas con las que llega el estudiantado son problemas de evaluación y estrategia —¿es creíble esta fuente?, ¿cómo busco esto?—, que son habilidades enseñables y no transacciones que completar. Tratar el servicio como asistencia convierte un currículo en un mostrador de ayuda y pierde la capacidad duradera.
+
+**«Quién paga la verificación es problema de otra persona.»** La carga de consultas recae en la plantilla bibliotecaria, y la pregunta del propio artículo es si pedir a las bibliotecas que la asuman excede su número de personas. El codiseño y la colaboración son las respuestas que recomienda la literatura precisamente porque el coste de verificación es real y recae en una unidad que no lo presupuestó.
 
 ## Conceptos conectados
 

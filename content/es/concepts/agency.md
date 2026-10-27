@@ -1,7 +1,7 @@
 ---
 title: Agencia de quien aprende
 created: "2026-09-25T03:54:08-04:00"
-updated: "2026-10-22T09:13:53-04:00"
+updated: "2026-10-26T21:37:14-04:00"
 type: concept
 foundations: [agency, cognitive-offloading, human-ai-collaboration]
 pedagogy: [motivation, self-regulated-learning]
@@ -10,7 +10,7 @@ connected_faqs: [group-work-ai]
 audience: [learners]
 confidence: high
 translation_of: concepts/agency
-source_updated: "2026-10-16T07:28:51-04:00"
+source_updated: "2026-10-26T13:50:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -51,6 +51,8 @@ La agencia importa porque el aprendizaje es más eficaz cuando quien aprende par
 
 **La agencia como propósito, y no solo como capacidad:** mientras los planteamientos anteriores preguntan cuánta agencia conserva quien aprende, [[fagerlund-competency-agency-purposes-ai-education-2026|Fagerlund et al. (2026)]] preguntan para qué sirve la [[ai-education|IA en la educación]]. Entrevistaron a trece docentes finlandeses, desde preescolar hasta noveno grado, sobre los propósitos de enseñar con IA y sobre IA, y leyeron sus relatos a través de los tres dominios del propósito educativo de Biesta (cualificación, socialización y subjetivación), y encontraron en la competencia el fin más claro y concreto: el profesorado quería que el estudiantado entendiera la IA como un fenómeno sociotécnico y que usara sus herramientas. La subjetivación, es decir, una implicación autodeterminada y personalmente significativa con la IA, se afirmaba como importante pero quedaba sin estrategias didácticas concretas, con el profesorado recurriendo a la discusión genérica y a la contemplación en lugar de a actividades diseñadas. Los autores proponen la **agencia informada en IA** como un heurístico que sitúa la subjetivación en el centro y trata las [[ai-literacy|competencias]] como su base explicativa, y que ayuda al estudiantado a ver qué opciones existen y a elegir cuáles seguir. La consecuencia práctica es directa: un currículo centrado primero en habilidades puede desplazar el propósito agentivo al que debería servir, y el remedio es hacer explícito el «porqué» de la educación en IA en lugar de añadir otra competencia a la lista.
 
+La dirección del recorrido no está fijada. [[gillette-partnership-ethics-genai-higher-education-2026|Gillette et al. (2026)]] contrastan su facultad sueca con el estudiantado australiano de Bearman et al. (2025), que «en general quería agencia» y «se resistía a la dependencia»: aquí varios estudiantes describieron volverse dependientes de la IA generativa y lo nombraron como una pérdida, uno de ellos diciendo que «da un subidón de dopamina porque todo lleva menos tiempo» y «recompensa las malas conductas».
+
 ## Cómo aparece la agencia en la investigación de la base de conocimiento
 
 - **Robótica e [[educational-robotics|interacción entre personas y robots]]:** [[roboblockly-conversational-block-robotics-ct-2026|RoboBlockly Studio]] se diseñó explícitamente para preservar la agencia de quien aprende en el [[computational-thinking|pensamiento computacional]]; [[human-autonomy-agency-hri-review-2025|una revisión sistemática]] examina cómo la interacción entre personas y robots afecta a la autonomía humana y al sentido de agencia, centrales en los debates sobre el [[well-being|bienestar]] y la [[governance|gobernanza]].
@@ -85,6 +87,9 @@ Lo que separa la agencia de la delegación es el trabajo sostenido de delimitaci
 - **La agencia tiene tres modos, y el tercero lo aporta la política.** Con solo un 18% del profesorado y un 24% de los directores que declaran contar con una política escolar sobre IA, la mayoría de quienes educan ejercen una agencia individual sin ninguna agencia delegada que actúe por ellos —el tercer modo de Bandura, aportado por las reglas institucionales— ([[tench-ai-policy-isnt-a-playbook-2026|Tench, Weinstein y James, 2026]]).
 
 ## La agencia como fenómeno emergente e interaccional
+
+**La agencia no es una única capacidad, y la distinción sobrevive en la práctica mediada por IA.** [[bergdahl-student-epistemic-agency-ai-2026|Bergdahl (2026)]] encuestó a 47 estudiantes suecos de séptimo grado tras un semestre de instrucción sobre IA y encontró que la agencia dirigida a la *salida* de la IA no se extiende a los *sistemas* que la producen. La escisión se mantenía **dentro de cada estudiante**: el 79% tenía un rango de puntuación de tres o más en nueve ítems, y un índice de disociación por estudiante favorecía la implicación dirigida a la salida frente a la dirigida al sistema en **35 estudiantes, contra 4 en el sentido inverso** (prueba de signos, p < ,001). **El 62% del estudiantado más crítico con las fuentes** seguía respaldando la opción menos protectora sobre que los chatbots leyeran sus propios textos, y solo un estudiante de la muestra eligió la postura de privacidad más alta. Es decisivo que esto se midiera **un mes después** de una lección en la que el estudiantado vio su propio comportamiento registrado proyectado en directo: lo llamaron «inquietante» y se quedaron durante el recreo para seguir usando la plataforma. La agencia como propiedad emergente e interaccional es coherente con ello: surge por práctica en lugar de transferirse entre prácticas, y lo que una lección pone en primer plano no se generaliza al registro que no abordó.
+
 
 La agencia de quien aprende no es solo un rasgo individual estático, sino también un **proceso emergente y constituido en la interacción** que se pone en acto a través del discurso y de la coordinación momento a momento del trabajo en grupo. En el aprendizaje colaborativo, la agencia se distribuye y se renegocia mediante el juego entre procesos divergentes (generar ideas, explorar alternativas) y procesos convergentes (evaluar, integrar, sintetizar). Esta visión importa para la IA porque los sistemas de [[agentic-ai|IA agéntica]] pueden *redistribuir* sutilmente el trabajo epistémico y regulatorio dentro de un grupo, reconfigurando quién contribuye, quién marca la dirección y quién regula el avance, a menudo sin que quien aprende se dé cuenta.
 
@@ -128,6 +133,12 @@ La condición límite del marco exige **contestabilidad** (la capacidad de cuest
 Un encuadre estrechamente relacionado es el de la **agencia epistémica relacional** ([[du-yuan-epistemic-dependence-2026|Du y Yuan 2026]]), que coincide en que la agencia se habilita socialmente y se media tecnológicamente, y no consiste en aislarse de la dependencia. Donde el marco de coagencia ecológica subraya la responsabilidad epistémica humana como un límite no negociable, Du y Yuan mantienen una *asimetría* explícita: los sistemas de IA pueden dar forma y extender el razonamiento sin tener responsabilidad recíproca ni autoridad legítima. Sus seis criterios diagnósticos (contestabilidad, recuperabilidad, transferencia, trazabilidad, responsabilidad distribuida y pluralidad epistémica) ofrecen una prueba práctica para saber cuándo una relación entre personas y IA preserva la capacidad de quien aprende de participar en cómo se forman, se evalúan y se aceptan las afirmaciones, y cuándo se limita a entregar un producto. La agencia, desde esta perspectiva, no es independencia de las herramientas, sino la capacidad de juzgar con responsabilidad *con*, *a través de* y *contra* los sistemas que median el conocimiento.
 
 - **La agencia delegada como mecanismo, no solo como riesgo.** [[yan-agentivism-learning-theory-ai-2026|Yan y Gašević (2026)]] tratan la delegación del trabajo cognitivo en la IA como parte de cómo ocurre el aprendizaje, y no solo como una amenaza para él: en su planteamiento, el desempeño asistido se convierte en capacidad duradera solo cuando quien aprende conserva la responsabilidad de enmarcar el problema, fijar los criterios y justificar las respuestas, una división del trabajo que llaman agencia delegada. Eso convierte la propia asignación en la variable de diseño, ya que una misma herramienta puede preservar o disolver la agencia de quien aprende según qué responsabilidades absorba.
+
+## Concepciones erróneas
+
+- **«El estudiantado ejerce agencia cuando usa la IA con libertad.»** Un **esquema de 14 categorías que codificó 6.788 turnos asistidos por ChatGPT** situó el **59% de los turnos de estudiantes de séptimo grado** en categorías que no representan un uso agéntico. El volumen de uso y la agencia son medidas distintas.
+- **«Los modelos actuales apoyan bien la agencia de quien aprende.»** **Evaluados en diez modelos, el apoyo a la agencia es donde peor lo hacen después del aprendizaje**: ImpactBench midió **Agencia y Propósito en un 56,0%** de criterios positivos. La agencia es la dimensión que los sistemas de IA manejan peor, no un subproducto de la capacidad.
+- **«La mediación docente es una restricción para la agencia.»** [[canonigo-teacher-mediation-generative-ai-mathematics-2026|Canonigo (2026)]] siguió a **diez docentes de matemáticas de secundaria a lo largo de una intervención de ocho semanas con ChatGPT-4** y la mediación es el mecanismo y no el obstáculo.
 
 ## Conceptos conectados
 - [[learners]] — El estudiantado: el paraguas de los conceptos del lado de quien aprende

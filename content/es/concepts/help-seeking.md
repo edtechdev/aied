@@ -1,7 +1,7 @@
 ---
 title: Búsqueda de ayuda
 created: "2026-09-28T20:10:39-04:00"
-updated: "2026-10-24T08:28:15-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [help-seeking, metacognition, scaffolding, self-regulated-learning]
@@ -11,7 +11,7 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/help-seeking
-source_updated: "2026-10-24T08:52:00-04:00"
+source_updated: "2026-10-26T10:50:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -116,6 +116,12 @@ En la [[english-education|composición]] totalmente en línea, la disponibilidad
 3. **Usar la transparencia para calibrar la confianza.** Advertir de la falibilidad de la IA puede aumentar la búsqueda de ayuda adecuada y la implicación.([[ai-fallibility-warning-help-seeking]])
 4. **Medir la adopción, y no solo el andamiaje.** Evalúe si el estudiantado se implica de verdad con el encuadre pedagógico, y no solo si el tutor lo ofrece.([[rethinking-scaffolding-llm-tutors]])
 5. **Apoyar la supervisión y la agencia.** Los andamiajes de la búsqueda de ayuda deben reforzar la [[metacognition|metacognición]] y el [[self-regulated-learning|aprendizaje autorregulado]], y proteger frente a la [[cognitive-offloading|dependencia excesiva]].
+
+## Concepciones erróneas
+
+- **«El estudiantado que necesita ayuda no la pide.»** Un **experimento preregistrado** en asignaturas de grado con matrícula numerosa envió mensajes al estudiantado a través de un chatbot académico y encontró una **mayor adopción de la tutoría y el apoyo complementario**. El empujón movió la conducta, así que la barrera era la invitación y no la disposición.
+- **«Las peticiones de ayuda tienen que ver con el aprendizaje.»** La **demanda de apoyo operativo** complica ese supuesto: en **4.093 consultas**, al menos el **20,4% preguntaba por el estado de una entrega pendiente y no por conocimiento**. Un quinto de la demanda de ayuda era administrativa.
+- **«Usar un tutor de IA significa supervisar el propio aprendizaje.»** En un estudio con **98 estudiantes de 9.º grado** que usaban un tutor de IA generativa, las interacciones estuvieron **dominadas por peticiones instrumentales, con casi ninguna supervisión ni evaluación de su propio aprendizaje**. Pedir respuestas no es búsqueda de ayuda en el sentido del constructo.
 
 ## Conceptos conectados
 

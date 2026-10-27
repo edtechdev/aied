@@ -2,7 +2,7 @@
 connected_resources: [drawsplat]
 title: IA multimodal
 created: "2026-09-28T21:03:34-04:00"
-updated: "2026-10-03T00:17:27-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 type: concept
 foundations: [ai-education, ai-literacy]
 technology: [generative-ai, intelligent-tutoring, llm, multimodal]
@@ -11,7 +11,7 @@ discipline: [stem education]
 level: [higher ed]
 confidence: high
 translation_of: concepts/multimodal
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-26T00:30:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -91,6 +91,16 @@ Los sistemas multimodales también amplían el acceso y la [[personalized-learni
 4. **Extender la evaluación a la validez multimodal.** La [[assessment-validity|validez de la evaluación]], el sesgo y la fiabilidad deben examinarse cuando la IA puntúa o genera artefactos multimodales.([[multimodal-item-parameter-estimation-2026]])([[ai-ed-evaluation]])
 5. **Vigilar la equidad y la privacidad.** El apoyo poco fiable en problemas ricos en imágenes y las exigencias de datos de la detección multimodal conllevan implicaciones tanto de equidad como de privacidad.([[syal-multimodal-dialogue-stem-2026]])([[privacy-aware-classroom-incident-recognition-2026]])
 6. **Ajustar el proceso al contenido.** El LLM multimodal de un asistente de laboratorio de ciberseguridad manejó mejor las diapositivas visuales densas, mientras que un proceso de OCR más LLM ofreció un valor instruccional comparable en diapositivas centradas en el texto a un coste computacional significativamente menor.([[genai-cybersecurity-ocr-multimodal-instruction-2025|Patel et al. (2025)]])
+
+## Concepciones erróneas comunes
+
+**«Un modelo multimodal resuelve los problemas multimodales.»** La exactitud se degrada bruscamente cuando el significado lo lleva la figura y no el texto. Un tutor de [[physics-education|física]] responde a problemas basados en texto en torno al **96%** de las veces, pero baja a cerca del **74%** en problemas que incrustan el significado en diagramas: el **efecto de interferencia multimodal**. Veintidós puntos de capacidad desaparecen justo donde vive el contenido disciplinar.
+
+**«Añadir una imagen al prompt resuelve el problema de los diagramas.»** La modalidad de entrada no es el cuello de botella; la interferencia sí lo es. Un modelo que recibe el diagrama y aun así razona desde la prosa circundante ha recibido la información y no la ha usado, y por eso el fallo es invisible salvo que alguien compare los dos formatos de problema.
+
+**«La capacidad multimodal es una única escalera, así que el mejor modelo en general es el mejor para la tarea rica en imágenes.»** La capacidad depende de la tarea, y un modelo que lidera en bancos generales puede ir por detrás en diagramas de fuerzas. Para las disciplinas ricas en imágenes, la prueba relevante es la que incrusta el significado en la figura.
+
+**«Los límites de la tutoría solo de texto son una molestia y no un problema curricular.»** En disciplinas donde el diagrama *es* el problema —física, química, geometría, ingeniería, medicina—, la frontera de competencia de un tutor solo de texto cae a través del contenido evaluado y no en sus bordes.
 
 ## Conceptos conectados
 - [[generative-ai]]

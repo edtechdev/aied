@@ -1,7 +1,7 @@
 ---
 title: Fracaso productivo
 created: "2026-09-28T20:10:47-04:00"
-updated: "2026-10-22T07:34:46-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 type: concept
 foundations: [cognitive-offloading]
 pedagogy: [desirable-difficulties, inquiry-based-learning, learning-theories, metacognition, problem-based-learning, scaffolding]
@@ -9,7 +9,7 @@ technology: [generative-ai, learning-analytics]
 assessment: [feedback, learning-gains]
 confidence: high
 translation_of: concepts/productive-failure
-source_updated: "2026-10-17T07:38:51-04:00"
+source_updated: "2026-10-26T09:10:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -90,6 +90,12 @@ Esto convierte el fracaso productivo en una lente central para [[ai-ed-evaluatio
 ## Conexiones con conceptos relacionados
 
 El fracaso productivo conecta con [[learning-theories|las teorías del aprendizaje]] (constructivismo), las [[desirable-difficulties|dificultades deseables]] (valorar la dificultad en el aprendizaje), el [[problem-based-learning|aprendizaje basado en problemas]] y el [[inquiry-based-learning|aprendizaje basado en la indagación]] (resolución de problemas guiada por quien aprende), la [[metacognition|metacognición]] (reflexión sobre los propios intentos), la [[cognitive-offloading|dependencia cognitiva]] (el riesgo de que la IA borre el esfuerzo), el [[scaffolding|andamiaje]] (apoyo que preserva el esfuerzo), la [[feedback|retroalimentación]] (elaborativa, correctiva), el [[prior-knowledge|conocimiento previo]] (activación y diferenciación), la [[transfer-of-learning|transferencia del aprendizaje]] (resultados duraderos) y el [[socratic-method|método socrático]] (preguntar para provocar el razonamiento). En la era de la IA es una lente evaluativa central: ¿ayuda la IA de una manera que preserva el esfuerzo mediante el cual se construye un aprendizaje duradero?
+
+## Concepciones erróneas
+
+- **«Retener la ayuda frustra al estudiantado y cuesta motivación.»** Un [[rct|ensayo controlado aleatorizado]] de tres brazos encontró que un tutor que retenía las pistas **igualaba a ChatGPT sin restricciones en la reducción de la frustración y en** la motivación: el coste apareció **solo en la preferencia**. Al estudiantado no le gustó tanto y no lo pasó peor, lo que significa que los datos de preferencia habrían rechazado el diseño que funcionaba.
+- **«Más frustración significa más aprendizaje.»** El tutor escalonado resultó **0,42 puntos de escala más frustrante que el tutor que respondía a petición (p < 0,001) y 0,29 menos frustrante que** el brazo más frustrante. El rango productivo es un punto medio y no un máximo, así que la «dificultad deseable» no autoriza a hacer la tarea más difícil indefinidamente.
+- **«El fracaso productivo significa que el profesorado no debe ayudar.»** El diseño retiene *la respuesta* mientras proporciona estructura y escalonamiento. Retener una pista y retener el apoyo son intervenciones distintas, y solo la primera es la que tiene evidencia aquí.
 
 ## Conceptos conectados
 

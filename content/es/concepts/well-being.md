@@ -1,7 +1,7 @@
 ---
 title: Bienestar
 created: "2026-09-28T20:10:26-04:00"
-updated: "2026-10-24T08:22:07-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [motivation, social-emotional-learning]
@@ -11,7 +11,7 @@ level: [higher ed]
 confidence: high
 connected_faqs: [how-ai-impacts-students, ai-anxiety-wellbeing]
 translation_of: concepts/well-being
-source_updated: "2026-10-23T09:49:58-04:00"
+source_updated: "2026-10-26T09:35:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -77,6 +77,12 @@ El bienestar se conecta con la [[student-experience|experiencia del estudiantado
 **Fricción, sentido y soledad como señal.** [[zohar-bloom-inzlicht-against-frictionless-ai-2026|Zohar, Bloom e Inzlicht (2026)]] dan al argumento del bienestar un mecanismo: el esfuerzo señala que nuestras acciones importan, así que quienes trabajan en una tarea se sienten más competentes, valoran más el producto y lo ven más lleno de propósito, e incluso en tareas objetivamente sin sentido, añadir fricción eleva el sentido atribuido. En cuanto a las relaciones, tratan la soledad no solo como una aflicción (vinculada a enfermedades cardiovasculares, demencia, ictus y muerte prematura) sino como una **señal [[biology-education|biológica]]** análoga al hambre o al dolor: un malestar que motiva a buscar a otras personas, aceptar invitaciones, invertir en las relaciones existentes y tolerar conversaciones difíciles. Los compañeros de IA pueden calmar ese malestar, lo que los autores consideran un progreso genuino en algunos casos, a la vez que silencian la señal que impulsa la conexión; y matizan el argumento por etapas, sosteniendo que para las personas aisladas por las circunstancias y no por elección, negarles el acceso a esa tecnología «sería cruel» ([[motivation|motivación]], [[social-emotional-learning|aprendizaje socioemocional]]).
 
 El apoyo emocional y la conexión pueden ir en direcciones opuestas dentro de una misma muestra. Entre 819 estudiantes saudíes de educación superior, la satisfacción con los chatbots promedió 4,29 y su experiencia de las herramientas 4,19, mientras que la preocupación de que los chatbots mermen la conexión humana fue el constructo mejor valorado, con 4,36 ([[ai-chatbots-emotional-support-human-connection-2025|Al-Zahrani (2025)]]). Esa preocupación aumentaba con la experiencia en lugar de bajar con la satisfacción (coeficientes estandarizados de 0,64 frente a 0,11).
+
+## Concepciones erróneas comunes
+
+- **«La aprobación del estudiantado indica que se está apoyando el bienestar.»** Entre **551 estudiantes de primer año**, el **82,76% aprobó la integración** de contenidos digitales e inteligentes, y **una alta aprobación convivió con tensión, mientras que la presión de tareas con IA debilitaba el beneficio**. Aprobación y tensión suben juntas, así que las encuestas de satisfacción engañan justo aquí.
+- **«El apoyo al bienestar es culturalmente neutro.»** [[culturally-aware-student-stress-chatbot-2026|Bashir y Afzal (2026)]] describen Sukoon, una herramienta híbrida de apoyo al bienestar, como **culturalmente situada**, y el propio encuadre de la página señala sus límites. Un diseño de apoyo que presupone un estudiantado universal lee mal a la población.
+- **«La presión de tareas es algo separado de la tecnología.»** El hallazgo es que la **presión de tareas** con IA debilitó el beneficio de la integración, lo que sitúa la carga de trabajo dentro de los efectos de la tecnología y no junto a ellos.
 
 ## Conceptos conectados
 

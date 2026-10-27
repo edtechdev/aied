@@ -1,13 +1,13 @@
 ---
 title: Aprendizaje a lo largo de la vida
 created: "2026-09-22T12:00:00-04:00"
-updated: "2026-10-03T00:17:27-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 type: concept
 pedagogy: [lifelong-learning, professional-training, scaffolding]
 technology: [adaptive-learning, generative-ai, intelligent-tutoring, llm, personalized-learning]
 level: [higher ed, k 12]
 confidence: medium
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-25T20:20:00-04:00"
 translation_of: concepts/lifelong-learning
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
@@ -46,6 +46,32 @@ El aprendizaje a lo largo de la vida se refiere a la educación continua durante
 ### Conexiones
 
 El aprendizaje a lo largo de la vida se relaciona con [[adult-learning|el aprendizaje de personas adultas]] y [[professional-training|la formación profesional]] (sus contextos principales), con [[personalized-learning|el aprendizaje personalizado]] y [[adaptive-learning|el aprendizaje adaptativo]] (los mecanismos de IA que lo sostienen), con [[self-regulated-learning|el aprendizaje autorregulado]] y [[metacognition|la metacognición]] (los procesos del estudiante implicados) y con [[equity-in-ai-education|la equidad en la educación con IA]] (el acceso a lo largo de toda la vida). También se cruza con [[educational-development|el desarrollo educativo]] cuando el propio profesorado es quien aprende a lo largo de la vida.
+
+## Concepciones erróneas comunes
+
+**«La exposición a la IA amenaza sobre todo las tareas de nivel de entrada, así que el personal experimentado está a salvo.»** El patrón de empleo invierte parte de esa suposición, mientras que el problema de la experiencia es más profundo. En las ocupaciones estadounidenses más expuestas a la IA, las personas trabajadoras de **22 a 25 años sufrieron un descenso relativo del empleo del 16% (oct 2022–sep 2025)**, mientras que las de **35 a 49 años crecieron más del 8%**: una protección que se adhería a la experiencia acumulada. Pero la cantera que produce esa experiencia pasa por el trabajo de entrada que ahora se reduce, así que la protección está limitada en el tiempo de un modo que la cifra transversal oculta. **La regeneración de la experiencia está en riesgo por sí misma**: si desaparece el trabajo formativo, la cohorte que llegaría a ser el personal experimentado es más pequeña.
+
+**«El aprendizaje a lo largo de la vida significa que las personas adultas hagan más cursos.»** Hacer cursos es una forma de impartición de un requisito más amplio: mantener y reconstruir la competencia a medida que cambian las tareas. Una fuerza laboral que necesita regeneración continua no carece de oferta de cursos; carece de las oportunidades de práctica donde la nueva competencia se forma de verdad.
+
+**«El aprendizaje a lo largo de la vida es una responsabilidad personal, así que el diseño institucional es secundario.»** El problema de la regeneración es estructural —se refiere a dónde existe el trabajo formativo en absoluto— y las personas no pueden crear el trabajo que su propio desarrollo requiere. Enmarcarlo como motivación no explica nada del descenso del 16% concentrado en la parte baja de la distribución de edad.
+
+## Implicaciones para la práctica
+
+**Para empleadores y quienes diseñan formación**
+
+- Proteja el trabajo formativo que construye experiencia, no solo las tareas que entregan resultados. Si se elimina el trabajo de entrada, el personal sénior de dentro de diez años no se contrató.
+- Incorpore práctica estructurada con retroalimentación al desarrollo continuo, ya que la regeneración de la competencia depende de hacer la versión más difícil del trabajo bajo supervisión, y no de completar cursos.
+- Siga la progresión por cohorte, no solo por número de personas. Una fuerza laboral puede crecer en conjunto mientras su cantera de entrada se estrecha.
+
+**Para el profesorado y quienes diseñan cursos**
+
+- Diseñe para las restricciones de las personas adultas que trabajan: breve, espaciado y aplicativo, para que la práctica sobreviva al contacto con el empleo.
+- Haga explícita la vía del desempeño asistido al independiente, ya que el riesgo de [[cognitive-offloading|descarga cognitiva]] es mayor para quienes aprenden cuya práctica está enteramente mediada por herramientas.
+
+**Para quienes investigan y formulan políticas**
+
+- Informe los efectos sobre el empleo por banda de edad y no como una cifra agregada de desplazamiento; el contraste del 16% frente al 8% es el hallazgo.
+- Estudie dónde está desapareciendo el trabajo formativo, porque ese es el mecanismo por el que las ganancias actuales se convierten en escaseces futuras.
 
 ## Conceptos conectados
 

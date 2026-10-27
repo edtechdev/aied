@@ -1,13 +1,13 @@
 ---
 title: Aprendizaje adaptativo
 created: "2026-09-28T19:11:03-04:00"
-updated: "2026-10-22T07:28:08-04:00"
+updated: "2026-10-26T21:37:14-04:00"
 type: concept
 pedagogy: [scaffolding]
 technology: [cognitive-diagnosis, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, personalized-learning, student-modeling]
 confidence: high
 translation_of: concepts/adaptive-learning
-source_updated: "2026-10-16T09:45:00-04:00"
+source_updated: "2026-10-26T06:20:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -85,6 +85,28 @@ El aprendizaje adaptativo se confunde con frecuencia con el [[personalized-learn
 - **Adapte el atributo cuello de botella, no el promedio débil.** Un modelado de transiciones de los estados de conocimiento clasificó el pensamiento analítico como el más difícil de adquirir y el más fácil de perder —probabilidad de transición hacia delante más baja 0,31 y hacia atrás más alta 0,22-0,23—, lo que convierte la nueva práctica del atributo señalado en un objetivo de adaptación más preciso que el dominio global ([[bayesian-cognitive-diagnosis-personalized-learning-paths|Feng y Huang, 2026]]).
 - **Adaptación a partir de secuencias de proceso, no de puntuaciones agregadas.** [[adaptive-ai-scaffold-collaborative-problem-solving-2026|Wong, Bulathwela y Cukurova (2026)]] derivaron reglas de andamiaje minando el *orden* de los turnos de diálogo de 65 estudiantes en tríadas, desplazando el aprendizaje adaptativo de las medidas agregadas de conducta o rendimiento hacia las secuencias de proceso individuales; el máximo andamiaje elevó la conducta centrada en la tarea pero también el guionizado, y el diseño no está probado.
 
+## Concepciones erróneas
+
+- **«Adaptativo significa personalizado significa individualizado.»** [[khalifeh-redefining-personalized-learning-ai-2026|Las revisiones sistemáticas]] encuentran estos cuatro términos usados **de forma incoherente en la literatura**, lo que significa que los tamaños del efecto declarados dependen en gran medida de cómo se operacionalizó la adaptación y no de la adaptación en sí. Un metaanálisis que agrupa estudios que usaron las palabras de forma distinta está agrupando tratamientos distintos, y el promedio no describe a ninguno de ellos.
+- **«El dominio alcanzado en el sistema es dominio aprendido.»** En un **experimento de campo con 6.000 estudiantes de secundaria**, una regla de dominio de tres aciertos consecutivos apoyada por IA elevó la **consecución definida por la plataforma en unos 28,7 puntos porcentuales sin mejorar** una medida de transferencia. La regla optimizó el propio criterio de la plataforma. Esta es la demostración más clara disponible de que una señal de dominio es un modelo del aprendizaje y no el aprendizaje.
+- **«La adaptatividad basada en la corrección sabe cuándo detenerse.»** [[deceptive-overgeneralization-adaptive-learning-2026|An, McLaren y Stamper (2026)]] encontraron que los sistemas que infieren el dominio a partir de la corrección corren el riesgo de **terminar la práctica demasiado pronto**: el sistema lee una racha correcta como comprensión y retira la práctica que quien aprende todavía necesitaba. Una adaptatividad que se detiene ante el éxito puede restar exactamente los ensayos que producen retención.
+- **«El cuello de botella es lo buena que sea la adaptación.»** En un **ECA de distrito de dos años**, la restricción vinculante fue la **aceptación inicial**: reducir la inscripción a un solo paso elevó la aceptación en la primera sesión de alrededor del **45% al 83%** solo con cambios de diseño, y las ganancias por intención de tratar crecieron en consecuencia. La adaptación más ingeniosa no sirve a nadie que nunca llega a ella.
+- **«La implicación persiste una vez establecida.»** Una revisión alineada con PRISMA de **44 estudios** encontró que la literatura sobre implicación se inclinaba hacia la implicación conductual y era más delgada en la implicación agéntica, e informa de un **efecto de novedad**: la implicación decae con el tiempo en estudios longitudinales de ALEX y sistemas similares. La implicación temprana no es una propiedad estable del diseño.
+## Qué significa esto para la práctica
+
+**Para el profesorado y el diseño**
+
+- Defina el dominio por lo que necesita que sea cierto, no por lo que la plataforma puede ver. La ganancia de 28,7 puntos en consecución sin mejora de la transferencia es el modo de fallo frente al que hay que diseñar: si el criterio son tres aciertos consecutivos, tres aciertos consecutivos es lo que obtendrá.
+- Mantenga la práctica más allá de la señal de corrección en todo lo que necesite que se retenga. Use repaso [[desirable-difficulties|espaciado e intercalado]] en lugar de confiar en que un sistema adaptativo decida cuándo ha terminado quien aprende.
+- Elimine la fricción de inscripción antes de ajustar el algoritmo. Pasar del 45% al 83% de aceptación colapsando un paso superó a la mayoría de las mejoras pedagógicas de esta literatura.
+- Planifique la decadencia de la implicación. El trabajo longitudinal documenta el declive; un diseño que depende de un uso voluntario sostenido necesita una razón para que se siga usando.
+- Compruebe sobre qué constructo declara adaptarse un sistema. La implicación conductual es la más estudiada y la menos informativa sobre el aprendizaje; la implicación agéntica es la más delgada en la base de evidencia.
+
+**Para quienes desarrollan**
+
+- Comunique la definición operativa de «adaptativo» junto a cualquier tamaño del efecto que cite, porque las definiciones de la literatura divergen y las cifras agrupadas heredan esa ambigüedad.
+- Distinga su criterio de dominio de los resultados de aprendizaje en su propia validación. Si su medida de validación es la misma señal que impulsa la adaptación, no es evidencia independiente.
+
 ## Conceptos conectados
 
 - [[online-teaching-and-learning]] — Enseñanza y aprendizaje en línea
@@ -115,7 +137,7 @@ El aprendizaje adaptativo se confunde con frecuencia con el [[personalized-learn
 - [[making-ai-tutoring-productive-mastery-math-2026]] — Hacer productiva la tutoría con IA: práctica de matemáticas basada en el dominio
 - [[chudziak-ai-math-tutoring-platform]] — Tutoría matemática multiagente adaptativa y personalizada (Chudziak y Kostka 2025)
 - [[khalifeh-redefining-personalized-learning-ai-2026]] — Redefinir el aprendizaje personalizado: revisión sistemática
-- [[deeptutor]]
+- [[zhao-deeptutor-agentic-personalized-tutoring-2026]]
 - [[ai-powered-personalized-learning-elementary-fractions-2026]]
 - [[adaptive-pretesting-retention]]
 - [[adapt-adaptive-lesson-plan-transformer]]

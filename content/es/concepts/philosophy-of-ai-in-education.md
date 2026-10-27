@@ -1,14 +1,14 @@
 ---
 title: Filosofía de la IA en la educación
 created: "2026-09-28T19:10:33-04:00"
-updated: "2026-10-22T07:31:46-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 type: concept
 foundations: [agency, ai-education, human-ai-collaboration, philosophy-of-ai-in-education]
 pedagogy: [learning-theories]
 ethics: [ethics]
 confidence: high
 translation_of: concepts/philosophy-of-ai-in-education
-source_updated: "2026-10-16T07:28:51-04:00"
+source_updated: "2026-10-25T19:20:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -57,6 +57,35 @@ La filosofía de la IA en la educación y las [[learning-theories|teorías del a
 ### Relación con el desarrollo teórico
 
 La filosofía de la IA en la educación y el [[theory-development-aied|desarrollo teórico en el AIEd]] son complementarios pero distintos. La filosofía plantea las preguntas ontológicas y epistemológicas — qué son fundamentalmente la mente, el conocimiento y quien aprende en condiciones mediadas por la IA —, mientras que el desarrollo teórico produce y pone a prueba empíricamente los *mecanismos* que operacionalizan las respuestas a esas preguntas (generativismo, coagencias epistémica, la línea base cognitiva ausente). Los dos se informan mutuamente: la filosofía aclara los presupuestos que las teorías arrastran (por ejemplo, la [[learning-with-machines-toward-a-theory-of-epistemic-co-agency|coagencias epistémica]] presupone un modelo distribuido y no individualista de la cognición), mientras que el desarrollo teórico da a las posiciones filosóficas una forma comprobable y falsable. Los artículos más fundacionales del campo hacen ambas cosas a la vez, situándose en la frontera entre los dos conceptos.
+
+## Concepciones erróneas
+
+**«La filosofía de la IA en la educación es lo mismo que catalogar teorías del aprendizaje.»** Se sitúan a profundidades distintas. La página de [[learning-theories|teorías del aprendizaje]] pregunta *cómo ocurre el aprendizaje*; la filosofía pregunta *qué son fundamentalmente el aprendizaje, la mente y quien aprende* en condiciones mediadas por la IA. Un estudio puede resolver una cuestión de teoría del aprendizaje y dejar intacta la filosófica, y por eso una intervención técnicamente exitosa puede seguir siendo lo que no hay que hacer.
+
+**«La descarga cognitiva es el daño, y es reversible con más esfuerzo.»** Hay una afirmación más fuerte disponible. Bai y Costa (2026) se apoyan en la concepción de Arendt del pensamiento como actividad interior e intransferible para sostener que la IA generativa que *suministra* el trabajo no solo descarga el pensamiento, sino que lo clausura; y sitúan el riesgo en lo institucional, mediante el campo y el habitus de Bourdieu, y no en la fuerza de voluntad individual. Si el argumento se sostiene, «úsala con cuidado» no es un remedio suficiente, porque la práctica está moldeada por el campo que premia la salida.
+
+**«La filosofía no occidental es contenido que se añade a un marco sin cambiarlo.»** Puede ser una fuente de fundamentos distintos. Una reconstrucción trata los conceptos daoístas —la «naturaleza del Dao» (道性), el autocultivo (修道) y el «Zhenren» (真人)— no como «contenido oriental» adjuntado a un marco occidental, sino como recursos que remodelan los fundamentos conceptuales a través de los cuales se entiende la IA en la educación. Añadir una tradición como ilustración y usarla para reformular las preguntas son actos académicos distintos.
+
+**«La crítica filosófica no es accionable.»** Es la que fija qué cuenta como éxito. Si la salida de un sistema es un logro de quien aprende, y si una ganancia medida es un bien educativo, son preguntas previas que ningún tamaño del efecto puede responder, y las instituciones que se las saltan optimizarán lo medible y lo llamarán mejora.
+
+## Implicaciones para la práctica
+
+**Para el profesorado**
+
+- Decida, antes de adoptar una herramienta, qué está dispuesto a contar como logro propio del estudiantado. Si una entrega pulida producida por el sistema satisfaría su evaluación, ha respondido «nada», y ningún cambio posterior de rúbrica recupera la pregunta.
+- Tome en serio el argumento de la clausura al diseñar tareas: si la IA generativa que suministra el trabajo clausura el pensamiento en lugar de solo descargarlo, entonces «úsala de forma responsable» no es una salvaguarda suficiente, porque el campo que la rodea premia la salida. Diseñe tareas cuya evidencia de pensamiento se produzca antes de que la herramienta esté disponible.
+- Pregunte qué concepción del aprendizaje codifica su curso. Adoptar un marco importa sin crítica sus supuestos sobre qué es quien aprende, y esos supuestos son discutibles.
+
+**Para quienes desarrollan**
+
+- Exponga el límite que ha trazado entre asistencia y suministro, y conviértalo en una decisión de producto y no en un valor por defecto. Un sistema que puede producir el artefacto terminado ha decidido, implícitamente, que el trabajo mental es opcional.
+- Resístase a optimizar por la apariencia de aprendizaje. La fluidez y la completitud son las propiedades medibles, y son justamente las que enmascaran la clausura.
+- Si afirma que su sistema «apoya el pensamiento», declare a qué renuncia: la renuncia es el mecanismo.
+
+**Para quienes investigan y formulan políticas**
+
+- Declare la concepción del aprendizaje que presupone su evaluación, porque una ganancia medida solo es un bien educativo en relación con alguna idea de para qué sirve la educación.
+- Financie el trabajo filosófico junto al empírico: las preguntas sobre qué cuenta como logro de quien aprende fijan los criterios de éxito que luego usan los estudios empíricos.
 
 ## Conceptos conectados
 

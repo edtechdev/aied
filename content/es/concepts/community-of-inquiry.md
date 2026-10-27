@@ -1,7 +1,7 @@
 ---
 title: Comunidad de indagación
 created: "2026-09-28T21:02:41-04:00"
-updated: "2026-10-09T17:55:00-04:00"
+updated: "2026-10-26T21:37:14-04:00"
 type: concept
 foundations: [critical-thinking]
 pedagogy: [online-teaching-and-learning, pedagogy]
@@ -10,7 +10,7 @@ level: [higher ed]
 confidence: high
 connected_faqs: [asynchronous-online-courses-ai]
 translation_of: concepts/community-of-inquiry
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-26T00:30:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -67,6 +67,16 @@ Los propios autores del marco ofrecen una taxonomía de roles para esa condició
 - La relación entre la implicación de la IA generativa y la calidad de la indagación es **condicional a la rendición de cuentas humana** y no lineal: puede haber una presencia fuerte con implicación alta o baja de IA generativa cuando la rendición de cuentas es fuerte, y una presencia débil con cualquiera de las dos cuando la rendición de cuentas es débil.
 - La [[assessment|evaluación]] de la indagación debería pasar de las salidas finales pulidas a la **evidencia sensible al proceso**: rastros de [[prompt-engineering|prompts]] y de revisiones, prácticas de declaración y atribución, movimientos de verificación y registros de interacción. Esto se alinea con el giro más amplio de esta base de conocimiento hacia una evaluación [[authentic-assessment|auténtica]] y [[process-oriented-assessment|que revela el proceso]], y se aleja de las respuestas basadas en la detección.
 - En términos pedagógicos, quienes aprenden suelen necesitar formación explícita (por ejemplo, práctica [[simulation|basada en simulación]] con roles guionizados y puntos de decisión con IA generativa) para sostener una indagación auténtica en condiciones de IA generativa, y el profesorado debería modelar cómo interrogar las salidas generadas, lo que depende de construir [[ai-literacy|alfabetización en IA]], [[critical-thinking|valoración crítica]] y una [[trust-calibration|confianza calibrada]].
+
+## Concepciones erróneas
+
+**«La presencia docente es una propiedad humana.»** En la era de la IA generativa el marco se está reconceptualizando porque el discurso producido por máquinas puede imitar una presencia auténtica, así que las presencias se entienden mejor como logros sociotécnicos de ensamblajes humano–IA generativa y no como actividad puramente humana. Un curso puede informar de una alta presencia docente con el profesorado en gran medida ausente y un modelo haciendo el discurso.
+
+**«Una explicación coherente de la IA crea presencia cognitiva.»** La coherencia no es corrección, y es justamente la propiedad que hace difícil sostener la indagación reflexiva: a quien siente que una explicación es obviamente correcta se le ha dado poca ocasión de resolver un evento desencadenante. La presencia cognitiva exige la resolución de la duda, no su eliminación.
+
+**«La presencia se distribuye de forma uniforme en una cohorte.»** Se separa *dentro* de la condición y no entre condiciones. En un cuasiexperimento con **63 estudiantes universitarios chinos (33 con un chatbot GPT-4o mini y 30 sin él)** que anotaban lecturas compartidas a lo largo de cinco tareas semanales, las presencias divergieron según el rendimiento del grupo: los grupos de alto rendimiento iniciaron **1.407 solicitudes de retroalimentación en 2.319 anotaciones (60,7%)** frente a **737 en 2.167 (34,0%)** en los grupos de bajo rendimiento. El acceso a la misma herramienta reprodujo una brecha existente en la conducta social que el marco mide.
+
+**«Añadir un chatbot a un curso en línea añade una presencia.»** Cambia la mezcla. El valor del marco bajo la IA generativa es que hace visible la sustitución: una presencia satisfecha por un modelo es una configuración distinta del mismo constructo, y los datos de la cohorte muestran que la sustitución rinde de forma desigual.
 
 ## Conceptos conectados
 

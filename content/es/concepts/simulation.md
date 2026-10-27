@@ -2,13 +2,13 @@
 connected_resources: [openmaic]
 title: Simulación
 created: "2026-09-28T18:23:55-04:00"
-updated: "2026-10-04T17:14:09-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 type: concept
 pedagogy: [active-learning, experiential-learning]
 technology: [adaptive-learning, pedagogical-agent, reinforcement-learning]
 confidence: high
 translation_of: concepts/simulation
-source_updated: "2026-10-04T15:54:00-04:00"
+source_updated: "2026-10-26T09:10:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -38,6 +38,8 @@ ai_assist:
 
 La simulación ocupa el núcleo de las [[pedagogy|pedagogías]] [[experiential-learning|experienciales]] y de [[active-learning|aprendizaje activo]]. Aporta la práctica deliberada, el [[productive-failure|fallo productivo]] y los [[feedback|bucles de retroalimentación]] que construyen habilidad y criterio. La IA ha transformado la simulación de dos maneras: impulsa entornos simulados más realistas y adaptativos, y genera [[simulating-students|estudiantado simulado]], pacientes o interlocutores que hacen escalable la práctica. La evidencia conductual muestra que *cómo* se implica quien aprende con una simulación varía de forma sistemática y no uniforme: al trazar el trabajo de estudiantes en línea que construían modelos ecológicos en VERA, [[an-goel-self-directed-modeling-2026|An, Hammock y Goel (2025)]] clasificaron la [[student-engagement|implicación]] en Observación (ejecuciones frecuentes y ajuste de parámetros con poca construcción de modelos), Construcción (construcción práctica con poca simulación) y Exploración (ciclos completos de construir–parametrizar–simular), con quienes exploran produciendo los modelos más complejos y diversos y quienes se centran en observar copiando en gran medida los existentes, un argumento para diseñar entornos de simulación que empujen a quien aprende hacia la actividad de ciclo completo.
 
+- **Un mecanismo explícito es inspeccionable de un modo que un generador aprendido no lo es.** DagFlow-AI construye datos sintéticos a partir de un grafo acíclico dirigido más distribuciones y fórmulas por variable, de modo que el proceso de generación de datos es un documento que el profesorado puede leer y corregir ([[arthur-dagflow-agentic-synthetic-data-statistics-2026|Arthur et al., 2026]]). Es un contraste deliberado con la síntesis mediante GAN y VAE, que necesita un conjunto de datos semilla y produce un proceso opaco. La contrapartida es que llegar a una simulación estable requirió varias iteraciones.
+
 ### La IA y la simulación
 
 - **Entornos impulsados por IA:** las simulaciones adaptativas ajustan la dificultad y los escenarios al estado de quien aprende, lo que enlaza con el [[adaptive-learning|aprendizaje adaptativo]] y con el entrenamiento basado en el [[reinforcement-learning|aprendizaje por refuerzo]].
@@ -65,9 +67,17 @@ La simulación ocupa el núcleo de las [[pedagogy|pedagogías]] [[experiential-l
 
 - **Un gemelo digital es una simulación con una factura de hardware, y la factura determina quién puede participar.** Una [[meta-analysis-systematic-review|revisión sistemática]] de 11 estudios de gemelos digitales en [[engineering-education|ingeniería]] y la educación superior STEM encontró que todas las implementaciones entregaban un prototipo funcional con sincronización en tiempo real, pero solo tres informaron [[learning-gains|ganancias de aprendizaje]] estadísticamente significativas. Los equipos físicos limitaron el acceso a 1-3 estudiantes simultáneos en cinco estudios, y la reducción de la interacción social fue el desafío pedagógico más citado, en seis ([[caee-digital-twins-stem-education-systematic-review-2026|Pelayo-González et al. (2026)]]).
 
+- **La simulación basada en agentes puede modelar una teoría de la metacognición como un sistema comprobable.** Un marco basado en agentes inspirado en el gemelo digital que combina el modelo AMERT de cinco niveles con una simulación en NetLogo permitió a quienes investigan variar los arquetipos de quien aprende y las condiciones de la tarea y observar trayectorias metacognitivas, aunque los autores subrayan que la salida es generación de hipótesis y no evidencia sobre personas que aprenden reales ([[agent-based-digital-twin-metacognition-2026|Guo, 2026]]). La simulación se convierte en un laboratorio virtual para una teoría que de otro modo es difícil de observar.
+
 ### Conexiones
 
 La simulación se conecta con el [[active-learning|aprendizaje activo]], el [[adaptive-learning|aprendizaje adaptativo]] y el [[pedagogical-agent|agente pedagógico]]. Es un mecanismo para el aprendizaje experiencial y [[constructivist|constructivista]] y se amplifica por la capacidad de la IA de generar entornos de práctica adaptativos y realistas.
+
+## Concepciones erróneas comunes
+
+- **«La simulación es más barata y por tanto de segunda categoría.»** Los simuladores de piloto autónomos de [[llm|LLM]] **sustituyen a las personas especialistas que interpretan papeles en las simulaciones de control de tránsito aéreo y eliminan un cuello de botella de capacidad de formación**: la restricción era la dotación de personal, no la fidelidad. Donde escasean las personas que interpretan papeles, la simulación con LLM no es un sustituto sino la única opción disponible.
+- **«Los simuladores deberían comportarse como los casos medios.»** [[residencyrl-clinical-rl-training-2026|ResidencyRL (Liévin et al., 2026)]] empareja un agente de política con **simuladores de pacientes basados en LLM diseñados para comportarse de forma adversaria**. Un simulador diseñado para ser cooperativo hace la práctica más fácil que la clínica, que es lo contrario de lo que necesita la formación.
+- **«Los escenarios guionizados enseñan a decidir bajo incertidumbre.»** Los agentes contextuales multiagente de SupplyNet generan **dinámicas emergentes de las decisiones de quien aprende en lugar de secuencias guionizadas**. Los escenarios guionizados ensayan un camino conocido; los emergentes ensayan la decisión.
 
 ## Conceptos conectados
 - [[active-learning]]

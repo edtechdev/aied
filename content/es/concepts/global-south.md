@@ -1,7 +1,7 @@
 ---
 title: Sur global
 created: "2026-09-28T19:10:33-04:00"
-updated: "2026-10-22T07:42:11-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 type: concept
 foundations: [ai-literacy]
 technology: [generative-ai]
@@ -9,7 +9,7 @@ ethics: [culturally-relevant-pedagogy, equity-in-ai-education, global-south]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/global-south
-source_updated: "2026-10-21T21:15:00-04:00"
+source_updated: "2026-10-26T08:45:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -58,6 +58,14 @@ La investigación convencional sobre IA y tecnología educativa ha estado histó
 Atender a los contextos del Sur global exige ir más allá de dar por supuesto que los modelos y las pruebas de referencia occidentales se transfieren directamente. Requiere conjuntos de datos anclados localmente, [[pedagogy|pedagogía]] culturalmente relevante, estándares de evaluación centrados en la comunidad e investigación que trate las epistemologías vividas y comunitarias de quienes aprenden como algo con autoridad, en línea con marcos como el aprendizaje comunitario de la IA y la investigación sobre el [[technology-acceptance-model|modelo de aceptación tecnológica]] adaptada a las condiciones locales.
 
 El historial de escalado forma parte de ese cuadro, y es aleccionador. Los programas que funcionan a escala piloto dejan de funcionar con frecuencia cuando los ejecutan los gobiernos: el programa keniano que produjo ganancias sustanciales bajo implementación no gubernamental no mostró ninguna ganancia detectable a escala gubernamental (Bold et al.), los tamaños del efecto tienden a caer a medida que los programas crecen (Vivalt) y la calidad de la implementación se diluye a medida que se multiplican las sedes (Al-Ubaydli, List y Suskind). El propio precedente latinoamericano es el programa peruano Un portátil por niño — unos 800.000 portátiles distribuidos sin ningún efecto detectable en [[math-education|matemáticas]] ni en lectura —, del que se extrajo la lección de que el acceso a la tecnología no es instrucción. [[el-salvador-ai-tutoring-selection-claim-2026|Restrepo Morales et al. (2026)]] añaden una lección de comunicación a la lección de escalado: en el episodio salvadoreño de 2026 se anunció un piloto de tutoría con IA en 171 escuelas como comparable a Alemania y Suecia, mientras que la muestra representativa del país en PISA 2025 no mostraba movimiento en dos de tres materias, y los datos del piloto eran demasiado escasos (7,0 estudiantes evaluados por escuela frente a 25,4 a escala nacional) para excluir la selección como explicación. Para los sistemas del Sur global que adoptan la IA a escala, la implicación es doble: la evidencia de que una reforma funciona suele referirse a los componentes que agrupa y no a la tecnología que figura en su titular, y un despliegue por fases diseñado antes de la puesta en marcha identifica efectos a un coste casi nulo, algo que importa sobre todo donde la conectividad dicta de todos modos el escalonamiento.
+
+[[ngambi-ai-learning-ecosystems-domino-framework-2026|Ng'ambi y van der Merwe (2026)]] sostienen, desde un aula de noveno grado en Sudáfrica, que una política institucional que empieza por la restricción cierra las condiciones bajo las cuales la IA podría ampliar en lugar de sustituir al profesorado en contextos de escasez pedagógica, y que los datos de interacción que genera el estudiantado quedan bajo regímenes de gobernanza extranjeros.
+
+## Concepciones erróneas
+
+- **«Los contextos de pocos recursos carecen de un marco de ética de la IA y necesitan uno importado.»** El profesorado de secundaria en servicio de STEAM en un contexto de pocos recursos **razona sobre la ética de la IA a partir de la identidad profesional, las realidades del aula y las normas culturales, y no de principios formales**. El razonamiento existe y está situado; una lista de principios universales se traslada mal a él.
+- **«El tipo de gobernanza predice la integración de la IA en las universidades.»** Un análisis de contenido comparativo de **45 universidades nigerianas** (federales, estatales y privadas) encontró que la integración de la IA se predecía por la **antigüedad de la institución y su ubicación geográfica, no por el tipo de gobernanza**. El supuesto de que las instituciones públicas y las privadas divergen queda contradicho.
+- **«La brecha digital es la barrera principal.»** Un estudio de caso [[qualitative-research|cualitativo]] con **21 estudiantes universitarios con discapacidad visual de tres universidades palestinas** encontró que la IA generativa salva simultáneamente barreras **digitales, geográficas y socioeconómicas**. Las barreras son estratificadas, y tratar el acceso como el único obstáculo deja intactos los demás.
 
 ## Conceptos conectados
 

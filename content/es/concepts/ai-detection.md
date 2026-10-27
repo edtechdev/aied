@@ -2,7 +2,7 @@
 connected_resources: [process-feedback]
 title: Detección de IA
 created: "2026-09-28T20:16:26-04:00"
-updated: "2026-10-24T08:22:22-04:00"
+updated: "2026-10-26T21:37:14-04:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading]
 technology: [generative-ai, llm]
@@ -14,7 +14,7 @@ confidence: high
 connected_faqs: [addressing-common-misconceptions-ai-education, should-we-use-ai-detectors, reduce-ai-cheating, ai-guidance-children-under-13]
 institutions: [educational-policy-ai]
 translation_of: concepts/ai-detection
-source_updated: "2026-10-22T12:02:21-04:00"
+source_updated: "2026-10-25T17:35:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -126,6 +126,15 @@ La pregunta constructiva se desplaza de «¿cómo impedimos que los estudiantes 
 - **Más allá de la detección: diálogo en lugar de vigilancia.** Un relato de un profesional sobre el marco de verificación del aprendizaje de la Grand Canyon University ([[best-response-student-ai-dialog-2026|Mandernach (2026)]]) sostiene que la mejor respuesta al [[student-ai-interaction|uso de la IA por el estudiantado]] es el diálogo, no la detección. Como los detectores son poco fiables (y están sesgados contra quienes escriben en una lengua no nativa), la GCU dejó de preguntar «¿usó el estudiante la IA?» y en su lugar pide al estudiantado que demuestre su comprensión en una breve conversación: una extensión del [[authentic-assessment|rediseño de la evaluación]] que trata la detección como un callejón sin salida y la verificación como buena docencia.
 
 - **La confianza sobrepasa a la convicción, a costa de la docencia.** En una encuesta a 20 profesionales de la educación superior, 15 informaron de una fuerte dependencia institucional del software de detección de IA, mientras que solo 4 expresaron confianza en él, y las personas encuestadas describieron un «agotamiento pedagógico» derivado de la vigilancia que desplazaba el diseño de la enseñanza y la tutoría del estudiantado ([[evaluation-age-ai-output-evidence-2026|Chowdhury y Khan (2026)]]).
+## Concepciones erróneas
+
+**«Los detectores son poco fiables, pero están mejorando.»** El fallo es estructural y no una cuestión de madurez, y una familia de modelos lo demuestra con claridad: su tasa de marcado como IA **cayó del 94,9% al 6,8%** a medida que el plan humano detrás del texto escrito por IA se volvía más detallado —estaba detectando la planificación humana y no la escritura de IA—, mientras que un detector competidor se mantuvo cerca del 92%, y ese mismo sistema **etiquetó como humanos el 94,7% de los documentos humanos pulidos por IA**. Las afirmaciones sobre exactitud dependen por completo de qué construcción del problema usó el conjunto de prueba.
+
+**«Los falsos positivos son raros, así que el riesgo es pequeño.»** Son frecuentes justo en el trabajo que se quiere fomentar. La edición ligera con IA que cumple las directrices se marca entre el **38% y el 80%**, y los originales recientes *sin modificar* entre el **9% y el 15%**, con la escritura de áreas no STEM muy por encima de la de STEM. Un detector que acusa a una décima parte del trabajo humano intacto y a la mayor parte de la edición permitida no está cometiendo un error pequeño: está penalizando la conducta que la política invita.
+
+**«La pregunta que responde un detector es si la escritura es humana o de IA.»** Ese binario es conceptualmente insostenible, y no solo difícil de calcular. La asistencia a la escritura existe en un continuo, la política de la mayoría de las instituciones permite parte de ella, y ningún umbral sobre una puntuación de salida se corresponde con una frontera defendible. El fallo medido es un fallo de política: las categorías que los detectores prometen no existen en el trabajo que el estudiantado entrega realmente.
+
+**«Un régimen de detección protege la integridad.»** Puede socavarla. La detección fomenta un clima de sospecha que erosiona la [[trust|confianza]] entre el estudiantado y el personal, y la literatura sobre [[academic-integrity|integridad]] que recoge este corpus sitúa las palancas duraderas en el rediseño de la evaluación y no en la vigilancia. El mecanismo de la carrera armamentística implica además que el régimen cuesta cada vez más mientras mide cada vez menos: las tasas de marcado de referencia abarcaron del **0,0% al 100,0%** según la intensidad de edición, lo que no es una señal de discriminación.
 
 ## Conceptos conectados
 

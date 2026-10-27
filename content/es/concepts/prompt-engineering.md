@@ -1,7 +1,7 @@
 ---
 title: Ingeniería de prompts
 created: "2026-09-25T03:54:13-04:00"
-updated: "2026-10-22T07:28:33-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 connected_faqs: [making-ai-better-at-supporting-learning, training-ai-tutors-to-guide-rather-than-answer]
 type: concept
 foundations: [ai-literacy]
@@ -12,7 +12,7 @@ level: [higher ed]
 confidence: high
 connected_resources: [edugems, matt-pocock-skills, pedagogical-promptbook, writing-rhetoric-studies-in-the-loop]
 translation_of: concepts/prompt-engineering
-source_updated: "2026-10-16T20:19:49-04:00"
+source_updated: "2026-10-26T10:25:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -80,6 +80,14 @@ La ingeniería de prompts se conecta con el [[scaffolding]]: los prompts bien di
 - **La estrategia de prompting predice el rendimiento.** Un [[isaza-chatgpt-engineering-prompting-2026|estudio empírico con 128 estudiantes de ingeniería]] encontró que la Eficiencia en la Consulta a la IA (prompts claros y bien estructurados) y la [[problem-solving|resolución de problemas]] impulsada por la IA (integración estratégica del resultado de la IA en el razonamiento) fueron los predictores más fuertes del éxito académico, incluso tras controlar la nota media, lo que indica que el prompting es una habilidad enseñable que modela la eficacia con la que el estudiantado aprende con IA.
 - **El estilo de prompting, y no solo la calidad del prompt, sigue a los resultados.** Los rasgos derivados de 1.540 sesiones de tutoría vincularon el cuestionamiento conceptual con el rendimiento en examen, mientras que las conductas de delegación de tareas se correlacionaron negativamente, pero esos mismos rasgos no lograron replicarse el semestre siguiente, de modo que son patrones de conducta y no habilidades estables ([[principal-trait-analysis-human-ai-skills-2026|McNichols, Du y Lan (2026)]]).
 - **Una taxonomía utilizable, y qué categorías de prompt dan realmente rendimiento.** [[teacher-ai-literacy-prompt-feedback-quality-2026|Jacobsen et al. (2026)]] traducen las estrategias técnicas al modelo 3K (*Kontext, Kernauftrag, Klarheit* —contexto, tarea central, claridad): once categorías orientadas a la práctica, cada una con una rúbrica de bueno/medio/subóptimo, y cada una puesta a prueba como variación experimental sobre la retroalimentación generada para los objetivos de aprendizaje de docentes en formación. El lenguaje técnico específico del dominio fue la categoría decisiva: sustituir la terminología de la materia por paráfrasis cotidianas redujo significativamente la calidad de la retroalimentación en los tres modelos (β = −0,412), mientras que añadir ejemplos concretos y eliminar la instrucción de cadena de pensamiento no produjo ninguna diferencia significativa respecto de la línea base en el primer estudio; los ejemplos sí ayudaron cuando el análisis se repitió con las combinaciones de modelo y prompt de mejor rendimiento (β = 0,52). La calidad del prompt y la elección de modelo explicaron conjuntamente el 42,8% de la varianza en la calidad de la retroalimentación valorada, que es el argumento del artículo de que la ingeniería de prompts es una competencia medible y enseñable y no una preferencia estilística, y de que sus categorías no son intercambiables en tamaño de efecto.
+
+- **Mejores prompts redujeron la iteración sin elevar la calidad del resultado.** El profesorado que recibió formación en IA antes de un experimento de preparación de clases escribió prompts más largos y detallados que necesitaron menos refinamiento, mientras que el profesorado sin formación usó prompts más cortos y requirió más iteraciones posteriores, y aun así las valoraciones de expertos a ciegas sobre los materiales resultantes fueron iguales ([[appel-genai-teacher-lesson-preparation-experiment-2026|Appel et al., 2026]]). El oficio del prompt compró aquí menos rondas de corrección, no un primer borrador más sólido.
+
+## Concepciones erróneas
+
+- **«La calidad del prompt es un atributo del estudiantado.»** **La cognición del prompt sigue a la disciplina, no al estudiantado**: [[student-ai-conversations-cognitive-engagement-2026|Chang y Li (2026)]] clasificaron **60.087 prompts de 116 cursos** y encontraron que la disciplina predecía la sofisticación del prompt. Enseñar al estudiantado a formular mejores prompts aborda una variación que reside en la materia.
+- **«El estudiantado desarrolla su propia práctica de prompting.»** Cuando el docente modeló el prompt, **el estudiantado lo reutilizó literalmente**: entre **310 prompts registrados de doce grupos STEAM de secundaria**, la copia exacta de la instrucción del docente fue frecuente. El modelado produce reproducción, y por eso es una palanca de diseño del sistema y no una competencia transferible.
+- **«El prompting es primero una competencia de quien aprende y después una propiedad del sistema.»** Esto desplaza el prompting **hacia una palanca de diseño adaptativo del sistema**, con efectos medidos sobre la **implicación y la eficiencia (28,1% frente a 19,6% de conversión de ejercicios)**. Las posibilidades de prompting de la interfaz movieron la conducta más de lo que lo hizo la instrucción sobre prompting.
 
 ## Conceptos conectados
 - [[pedagogical-patterns]] — La capa de andamiaje dentro de las secuencias de uso estructurado

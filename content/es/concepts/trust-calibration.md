@@ -1,7 +1,7 @@
 ---
 title: Calibración de la confianza
 created: "2026-09-28T19:11:03-04:00"
-updated: "2026-10-24T08:21:12-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading, human-ai-collaboration]
 pedagogy: [metacognition]
@@ -16,7 +16,7 @@ ai_assist:
     date: "2026-09-28"
     agent: hermes-agent
 translation_of: concepts/trust-calibration
-source_updated: "2026-10-24T06:26:00-04:00"
+source_updated: "2026-10-25T19:00:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 ---
 
@@ -109,6 +109,40 @@ La calibración de la confianza es central para la [[ai-literacy|alfabetización
 - **La rotación de roles como estructura para practicar la crítica (2026):** en un estudio basado en el diseño con 62 futuros psicólogos educativos que pasaron por cuatro roles profesionales rotatorios a lo largo de ocho semanas, [[kenzhebayeva-ai-role-rotation-pedagogical-model-2026|Kenzhebayeva et al. (2026)]] hicieron que las personas participantes compararan las recomendaciones generadas por IA con la teoría psicológica y modificaran o rechazaran las que no encajaban con el caso, y aun así registraron dependencia excesiva de respuestas de IA aparentemente autorizadas, con algunos estudiantes buscando la confirmación de la IA antes de ofrecer su propia interpretación incluso en ciclos posteriores. La rotación crea ocasiones repetidas para el juicio de aceptar o rechazar sin garantizarlo, y el estudio reporta implicación durante la intervención y no ganancias de competencia medidas.
 
 - **Las señales superficiales de identidad mueven la confianza con independencia de la capacidad.** En dos experimentos (N = 396), el estudiantado valoró los avatares blancos —y los avatares masculinos asiáticos en STEM— como más creíbles y competentes, penalizó a los avatares de mujeres negras de mayor edad en todas las medidas y adoptó con más facilidad la orientación de su propio grupo racial ([[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning|Anthis y Kyriakidou-Zacharoudiou (2026)]]).
+
+- **Una etiqueta de fuente mueve la aceptación sin mejorar la discriminación.** Cuando 103 participantes juzgaron respuestas etiquetadas como ChatGPT o como ordenador, la aceptación fue mayor con la etiqueta de ChatGPT (68,0% frente a 63,4%, p = 0,002), pero la detección de señales no encontró diferencia de fuente en la sensibilidad (p = 0,930) ni en el criterio (p = 0,082) ([[chatgpt-source-cue-answer-acceptance-2026|Fabio, Rantuccio y Bruno, 2026]]). La etiqueta eleva la confianza sin elevar la precisión.
+
+## Implicaciones para la práctica
+
+**Para el profesorado**
+
+- Enseñe la comprobación, no la actitud. Una mayor confianza predijo una dependencia apropiada *menor* (r = −0,42) entre 432 estudiantes de grado que aceptaron el 86,03% de sugerencias deliberadamente engañosas, así que una instrucción que construye confianza generalizada empeora el problema.
+- Incorpore la verificación en tareas donde sea barata y visible: exija la fuente de una afirmación, el contraejemplo o la repetición de la ejecución. Quienes vieron un resumen de IA hicieron clic en una fuente citada dentro de él en solo el **1% de las visitas** y en los enlaces de resultados aproximadamente la mitad de las veces, así que «citó algo» no certifica nada.
+- Recuerde que la palanca es protectora, no correctiva. Las personas participantes que empezaron con un juicio equivocado recuperaron el correcto en solo el **30,6%** y el **24,7%** de los ensayos, por debajo del azar para una elección binaria, así que intervenga antes de que el estudiante se comprometa con el modelo equivocado, no después.
+- Trate la desconfianza insuficiente también como un fallo de calibración; evitar una herramienta capaz no es la opción segura por defecto, es el mismo error apuntando en la dirección contraria.
+
+**Para quienes desarrollan**
+
+- Cambie la estructura de la interacción, no solo la etiqueta. Retener la posición agregada de un debate multiagente redujo el cambio perjudicial hacia posiciones incorrectas de la IA del 42-60,5% al 5,7-8,2%, una palanca estructural que no exige confianza de quien la usa.
+- Haga que la procedencia sea inspeccionable en el punto de uso, ya que las tasas de clic en citas se desploman cuando el resumen se presenta como autoritativo.
+- Preserve la posición declarada del estudiante y contraste con ella, en lugar de sustituir su borrador por una respuesta segura; los datos de recuperación muestran que la sustitución rara vez se deshace.
+
+**Para quienes investigan**
+
+- Mida la dependencia apropiada como un resultado conductual frente a la verdad de referencia, no como una puntuación de confianza. Las dos correlacionan negativamente en el único estudio que midió ambas.
+- Informe de las tasas de recuperación de quienes empezaron equivocados por separado de la precisión global, porque el agregado oculta la cifra por debajo del azar que más importa.
+
+## Concepciones erróneas
+
+**«Más confianza significa un mejor uso de la herramienta.»** La confianza y la calibración divergen, y la correlación va en la dirección contraria. Entre **432 estudiantes de grado** que resolvían problemas de Python con sugerencias de IA exactas y deliberadamente engañosas, una mayor confianza predijo una dependencia apropiada **menor** (**r = -0,42**), y el estudiantado aceptó el **86,03%** de las sugerencias engañosas. La confianza generalizada no es el objetivo; lo es la confianza ajustada.
+
+**«Desconfiar es la opción segura por defecto.»** Evitar por completo una herramienta capaz es un fallo de calibración que apunta en la dirección contraria. Ambos desajustes cuestan a quien aprende —uno por dependencia, el otro por capacidad no aprovechada—, lo que hace de «sé escéptico» una instrucción tan pobre como «confía en ella».
+
+**«La calibración puede corregirse a posteriori.»** La palanca es protectora, no correctiva. Las personas participantes que empezaron con un juicio equivocado recuperaron la decisión correcta en solo el **30,6%** y el **24,7%** de los ensayos, por debajo del azar para una elección binaria. Una vez que un estudiante se ha comprometido con el modelo equivocado, la corrección no es fiable, así que la intervención tiene que llegar antes del compromiso y no después.
+
+**«Comprobar es fácil, así que quien se preocupa lo hará.»** Comprobar es barato y rara vez se hace. En un estudio de seguimiento pasivo con **900 adultos estadounidenses**, quienes vieron un resumen generado por IA hicieron clic en una fuente citada dentro de él en solo el **1% de las visitas**, y en cualquier enlace de resultados aproximadamente la mitad de las veces que quienes no vieron resumen. El resumen suprime la verificación en lugar de suscitarla, así que la comprobación debe incorporarse a la tarea y no darse por supuesta a partir de la diligencia.
+
+**«Presentación y sustancia pueden separarse con una lectura atenta.»** La fluidez es lo que gana una confianza inmerecida, por eso la calibración es un problema de diseño y no solo una destreza de quien aprende. Un sistema cuya interfaz señala autoridad será creído en ese nivel con independencia de las instrucciones en contrario.
 
 ## Conceptos conectados
 

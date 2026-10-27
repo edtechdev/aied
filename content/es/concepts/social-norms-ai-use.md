@@ -1,7 +1,7 @@
 ---
 title: Normas sociales del uso de la IA
 created: "2026-09-28T21:03:34-04:00"
-updated: "2026-10-09T17:55:00-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 connected_faqs: [course-ai-policy, reduce-ai-cheating, should-we-use-ai-detectors]
 type: concept
 foundations: [academic-integrity, framing-ai-use-for-students, learner-identity]
@@ -13,7 +13,7 @@ audience: [instructors, administrators]
 level: [higher ed]
 confidence: medium
 translation_of: concepts/social-norms-ai-use
-source_updated: "2026-10-07T08:00:00-04:00"
+source_updated: "2026-10-26T00:30:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -95,6 +95,18 @@ El coste de esa sustitución aparece en el lugar donde profesorado y estudiantad
 - **Respetar la variación disciplinar.** Una horquilla del 27% al 5% entre departamentos no es una inconsistencia que haya que normalizar, son juicios distintos sobre qué certifica la titulación. Los mandatos de alcance institucional tienden a escribirse para una disciplina que no existe.
 - **No recurrir a la monitorización para fijar normas.** La supervisión aumentó la ansiedad sin cambiar la tentación de hacer trampas en el estudio más sólido disponible, y concentra ese coste en el estudiantado menos favorecido.
 - **Preguntar quién falta en la norma.** La literatura ética asigna al estudiantado casi ninguna obligación y tiene poco en cuenta su juicio, mientras que el aula le asigna muchas y las aplica socialmente. Cerrar esa brecha es una cuestión de currículo, no de cumplimiento.
+
+## Concepciones erróneas
+
+**«El estudiantado sabe cuánto usa la IA su grupo de pares.»** Sobreestima su propio conocimiento al respecto. La correlación mediana entre las estimaciones de quien percibe y su propio perfil de uso autodeclarado fue de **r = 0,73 en ambas oleadas**, mientras que la precisión del orden para el *tipo* de uso de IA fue de solo **r = 0,34**. El estudiantado puede decir aproximadamente cuánto, y no puede decir de qué tipo, lo que significa que las normas se forman en torno a una impresión sistemáticamente tosca.
+
+**«Publicar una política establece la norma.»** El reglamento local se escribe en la práctica y no en el texto de la política, y los dominios divergen con nitidez: las tareas con IA integrada aparecieron en el **27% de los programas de empresariales y el 5% de los de humanidades** en **31.000 cursos**. La norma operativa de un estudiante es la de su propia disciplina, y un documento de alcance institucional no la anula.
+
+**«La vergüenza y la culpa disuaden del uso de la IA.»** Regulan la visibilidad y no el uso: [[shame-guilt-ai-regulation-computing-education|la vergüenza y la culpa regulan la visibilidad]], produciendo ocultamiento y declaración selectiva en lugar de cambio de conducta. El efecto observable de una norma que avergüenza es una declaración menos honesta, no un uso menor.
+
+**«La vigilancia zanjaría la norma al hacer visible el uso.»** Hacer visible la conducta no resuelve cuál debería ser la norma; cambia qué está dispuesta a declarar la gente. El patrón medido ya es de declaración selectiva, así que un régimen de monitorización aplicado a él mide el ocultamiento y no la conducta.
+
+**«Las normas son informales, así que quedan fuera del alcance institucional.»** Se aplican localmente y se pueden cambiar localmente, lo que las hace más tratables que la política: la práctica explícita de un equipo docente es una palanca precisamente porque es donde se fija la regla operativa.
 
 ## Conceptos conectados
 

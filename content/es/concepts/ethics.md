@@ -1,7 +1,7 @@
 ---
 title: Ética
 created: "2026-09-25T03:54:01-04:00"
-updated: "2026-10-22T07:28:42-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, institutional-ai-policy]
 type: concept
 foundations: [academic-integrity, ai-literacy]
@@ -9,7 +9,7 @@ ethics: [bias-mitigation, equity-in-ai-education, privacy, pedagogical-safety]
 confidence: high
 institutions: [governance, regulation]
 translation_of: concepts/ethics
-source_updated: "2026-10-18T10:07:01-04:00"
+source_updated: "2026-10-26T10:50:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -38,6 +38,8 @@ ai_assist:
 ## Introducción
 
 La ética es la columna vertebral normativa de la IA en la educación: cada herramienta de IA, cada política y cada decisión [[pedagogy|pedagógica]] codifica supuestos sobre qué es justo, transparente, responsable y seguro. La base de conocimiento trata la ética a la vez como un conjunto de principios (justicia, privacidad, transparencia, autonomía, rendición de cuentas) y como un conjunto de *prácticas*: cómo razonan de verdad los actores sobre la IA, cómo la gobiernan las instituciones y cómo se prepara al estudiantado para usarla de forma responsable. La [[research-methods-aied|investigación]] reciente documenta un doble movimiento: por un lado, una preocupación cada vez mayor de que la ética de «lista de verificación» basada en principios es insuficiente; por otro, un énfasis creciente en concepciones [[situated-learning|situadas]] y ecológicas del juicio ético, y en las condiciones estructurales e institucionales que hacen posible un uso responsable.
+
+[[gillette-partnership-ethics-genai-higher-education-2026|Gillette et al. (2026)]] sostienen, a partir de datos suecos de encuesta y de grupos de discusión, que las instituciones deberían decidir las cuestiones de IA generativa mediante una ética de la colaboración y no desde un marco de trampa, apoyándose en la interdependencia mutua, el respeto a la diversidad, la inclusividad, la rendición de cuentas y el compromiso con la [[sustainability|sostenibilidad]] de Carolyn Merchant: el 31% de las personas participantes planteó la ética de forma espontánea, y la mayoría quería orientaciones institucionales más claras de las que tenía.
 
 ## Dimensiones éticas centrales
 - **La ética como algo productivo, y no solo restrictivo.** [[learning-analytics-genai-learning-design|Rienties, Divjak y Law (2026)]] concluyen que la idoneidad ética y la confiabilidad son constitutivas de la calidad educativa: la idoneidad ética predice el equilibrio técnico-artístico en el trabajo creativo, de modo que la ética es una variable de diseño y no una etapa final de cumplimiento.
@@ -84,7 +86,8 @@ Un cambio teórico importante en la base de conocimiento es la crítica de la é
 
 - **Ética de la IA situada.** [[raffaghelli-situated-ai-ethics-2026|Raffaghelli et al. (2026)]] fusionan la teoría de los sistemas ecológicos de Bronfenbrenner con la [[activity-theory-aied|teoría de la actividad]] histórico-cultural para enmarcar la IA como un ensamblaje sociotécnico no neutro cuyas implicaciones éticas se producen históricamente y se negocian localmente. En siete casos nacionales, el profesorado queda posicionado como guardián moral del uso de la IA mientras carece de apoyo estructural, institucional y epistémico, y el marco amplía la [[ai-education|alfabetización en IA]] más allá de las habilidades técnicas hacia una agencia crítica, política y ecológica, incluida la resistencia al capitalismo de la vigilancia y al daño ambiental.
 - **El giro hacia la práctica situada.** [[ai-ethics-bibliometric-2026|Un análisis bibliométrico de 282 artículos]] muestra que el discurso sobre la ética de la IA posterior a 2021 enmarca cada vez más la ética en torno al juicio profesional, la confianza, la [[human-ai-collaboration|colaboración entre personas y IA]] y la práctica interpretativa, y no solo en torno al cumplimiento técnico, con la educación como contexto conceptualmente importante.
-- **Una explicación histórico-cultural de la responsabilidad.** Este replanteamiento conecta la ética con las [[learning-theories|teorías del aprendizaje]] y la [[teacher-ai-competency|competencia del profesorado en IA]]: el uso responsable de la IA se trata como una agencia sensible al contexto, colectiva y transformadora, y no como un cumplimiento individual de listas de verificación.
+- **La ética de la colaboración.** [[gillette-partnership-ethics-genai-higher-education-2026|Gillette et al. (2026)]] se apoyan en la eticista ambiental Carolyn Merchant para proponer una ética de la colaboración —interdependencia mutua, respeto a la diversidad, inclusividad, rendición de cuentas y sostenibilidad a largo plazo— como alternativa basada en el diálogo, e informan de datos suecos de encuesta y de grupos de discusión en los que el 31% de las personas participantes planteó la ética de forma espontánea.
+- **Una explicación histórico-cultural de la responsabilidad.** Este replanteamiento conecta la ética con las [[learning-theories|teorías del aprendizaje]] y la [[teacher-ai-competency|competencia del profesorado en IA]]: el uso responsable de la IA se trata como una agencia sensible al contexto, colectiva y transformadora, y no como un cumplimiento individual de listas de verificación. Una encuesta a 454 docentes universitarios respalda ese planteamiento: el conocimiento ético sobre la IA medió la vía que va del conocimiento técnico de la IA a la competencia docente integrada (β = 0,186) y la canalizó hacia delante a través del conocimiento pedagógico y de contenido ([[ethically-mediated-ai-tpack-china-2026|Chen et al. (2026)]]).
 - **Un replanteamiento ontológico de la obligación ética.** Xie (2026) lleva más lejos la crítica de la ética situada al reubicarla en la ontología: donde gran parte de la bibliografía trata la equidad, las asimetrías de poder y los costes ambientales como externalidades que hay que gestionar, un yo relacional daoísta las vuelve internas a lo que somos, de modo que «quedarse atrás» se vuelve ontológicamente insostenible y no solo injusto. La tarea ética no es entonces una optimización desapegada, sino el Wuwei (无为), la acción no forzada alineada con la naturalidad, frente al Youwei (有为) del monocultivo algorítmico, la descarga cognitiva y la infraestructura extractiva, aplicado en tres dominios: el conocimiento (monocultivo epistémico y desinformación sintética), el conocer (una descarga que degrada el [[critical-thinking|pensamiento crítico]]) y el impacto (costes ambientales y asimetrías entre el Norte y el Sur globales).([[daoism-ai-education-philosophy-2026]])
 
 ## La ética en la práctica
@@ -100,6 +103,12 @@ La conciencia ética, el razonamiento reflexivo y la práctica responsable [[sel
 ## Conexiones
 
 La ética se conecta con la [[equity-in-ai-education|equidad]], la [[privacy|privacidad]], la [[bias-mitigation|mitigación de sesgos]], la [[regulation|regulación]], la [[pedagogical-safety|seguridad pedagógica]], la [[academic-integrity|integridad académica]] y la [[governance|gobernanza]]. Es el fundamento normativo de todos los demás conceptos de la IA en la educación: el marco en el que se plantean y se resuelven las cuestiones de justicia, transparencia, autonomía y seguridad.
+
+## Concepciones erróneas
+
+- **«El marco de la trampa basta para pensar la ética de la IA generativa.»** [[gillette-partnership-ethics-genai-higher-education-2026|Gillette et al., 2026]] sostienen que las instituciones deberían decidir las cuestiones de IA generativa mediante una **ética de la colaboración y no desde un marco de trampa**. El marco determina qué preguntas se hacen, y un marco de mala conducta no puede preguntar por el propósito educativo.
+- **«El profesorado y el estudiantado coinciden en qué es ético.»** [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026|Bilgiç y Sever (2026)]], un estudio de [[mixed-methods-research|métodos mixtos]] con **971 estudiantes y 135 docentes**, encuentra que las dimensiones éticas divergen entre los grupos. Una política redactada desde una perspectiva describirá mal la otra.
+- **«El consenso ético precede al uso.»** **El uso crece más rápido que el consenso ético**: a lo largo de cuatro semestres en un programa estadounidense de formación del profesorado, el uso de IA generativa por parte del estudiantado **subió del 57% al 83% para la preparación de evaluaciones**. Las normas las está formando la práctica y no al contrario.
 
 ## Conceptos conectados
 
@@ -120,6 +129,8 @@ La ética se conecta con la [[equity-in-ai-education|equidad]], la [[privacy|pri
 - [[biology-education]] — La biología y la IA: asistentes de laboratorio, alfabetización en IA en biología, pensamiento crítico, herramientas especializadas
 
 ## Artículos conectados
+
+- [[gillette-partnership-ethics-genai-higher-education-2026]] — Estudio sueco de encuesta y grupos de discusión que sostiene que la ética de la colaboración, y no un marco de trampa, debería guiar las decisiones institucionales sobre IA generativa
 - [[learning-analytics-to-educational-interventions-2026]] — De la analítica del aprendizaje a las intervenciones educativas: facilitadores de intervenciones fiables basadas en analítica (Svetec, Divjak y Kadoić 2026)
 - [[kirsanov-beyond-detection-ai-online-assessments-2026]] — Cómo usa y oculta el estudiantado la IA en las evaluaciones en línea
 - [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — Divulgación del uso de IA por el estudiantado, estigma y aprendizaje autorregulado
@@ -147,4 +158,3 @@ La ética se conecta con la [[equity-in-ai-education|equidad]], la [[privacy|pri
 - [[ayanwale-ethical-engagement-ai-growth-modeling-2026]] — La conciencia ética, la reflexión y la práctica responsable informada crecieron en gran medida de forma independiente a lo largo de tres oleadas anuales (Ayanwale et al., 2026)
 - [[mu-ai-competence-ethical-awareness-anxiety-2026]] — La conciencia ética amplificó la ansiedad ante la IA allí donde no se enseñó un marco de afrontamiento: mediación solo indirecta entre 584 estudiantes
 - [[ethically-mediated-ai-tpack-china-2026]] — El conocimiento ético sobre la IA como mediador integrador en el AI-TPACK del profesorado universitario (Chen et al. 2026)
-- [[ethically-mediated-ai-tpack-china-2026]] — Hacia un nuevo marco AI-TPACK: la ética como mediadora integradora del conocimiento técnico sobre IA (Chen et al. 2026)

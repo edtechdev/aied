@@ -1,7 +1,7 @@
 ---
 title: "Alianzas pedagógicas"
 created: "2026-09-28T18:18:41-04:00"
-updated: "2026-10-22T09:13:53-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 type: concept
 foundations: [agency, curriculum-design, learning-design, teacher-role]
 pedagogy: [collaborative-learning, pedagogical-partnerships, pedagogy, student-engagement]
@@ -10,7 +10,7 @@ audience: [instructors, learners, instructional designers, administrators]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/pedagogical-partnerships
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-26T09:35:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -98,6 +98,12 @@ Para los educadores y las instituciones que buscan adoptar alianzas pedagógicas
 3. **Liderar desde la relación y la confianza.** La alianza funciona cuando la confianza, la seguridad psicológica, el diálogo y la responsabilidad compartida se cultivan deliberadamente, y no se dan por supuestos.
 4. **En la era de la IA, invitar al estudiantado a entrar en lugar de vigilarlo.** Codiseñar con el estudiantado la política, las herramientas y la evaluación de la IA es a la vez más equitativo y más eficaz que las respuestas basadas en el déficit.
 5. **Considerar la equidad de la participación.** La alianza con toda la clase ofrece la participación más amplia; los programas selectivos deben atender a qué estudiantado se invita y se incluye.
+
+## Concepciones erróneas
+
+- **«La alianza significa elevar la voz del estudiantado.»** Una alianza pedagógica es una **relación acotada y negociada** con roles definidos y obligación recíproca, no una consulta. La voz sin un rol, un mandato y una parte de la decisión no cambia nada estructural.
+- **«La alianza es una postura que se puede adoptar.»** Requiere condiciones institucionales —tiempo, reconocimiento para el estudiantado socio y un cambio que las partes puedan afectar de verdad—. Una alianza declarada sin esas condiciones reproduce la jerarquía que dice interrumpir.
+- **«Compartir el poder no puede ser desarrollo docente.»** La tesis de la literatura es que la alianza es desarrollo *porque* cambia la comprensión de quien enseña a través de la relación. Enmarcarla solo como un beneficio para el estudiantado descarta el mecanismo.
 
 ## Conceptos conectados
 - [[pedagogy]] — Pedagogías y estrategias de enseñanza

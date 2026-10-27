@@ -1,7 +1,7 @@
 ---
 title: IA en la educación
 created: "2026-09-22T14:35:34-04:00"
-updated: "2026-10-03T02:52:14-04:00"
+updated: "2026-10-26T21:37:14-04:00"
 type: concept
 foundations: [ai-education, ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring, llm]
@@ -13,7 +13,7 @@ connected_faqs: [top-10-findings-ai-education-instructors]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: concepts/ai-education
-source_updated: "2026-10-02T07:35:56-04:00"
+source_updated: "2026-10-26T02:30:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -155,6 +155,18 @@ La base de conocimiento refleja un campo en rápida evolución: de los primeros 
 ## Conexiones
 
 La IA en la educación se conecta con todos los conceptos de la base de conocimiento: es el campo que definen colectivamente todas las demás páginas de concepto. Use esta página como punto de partida para navegar por toda la base de conocimiento.
+
+## Concepciones erróneas
+
+**«La IA en la educación es un único campo con una única base de evidencia.»** Es un paraguas sobre líneas temáticas distintas —disciplinas, niveles, evaluación, métodos de investigación, instituciones, equidad— que difieren en sus métodos, sus medidas de resultado y su madurez. Un hallazgo de una línea no se transfiere a otra, y por eso la base de conocimiento se organiza así y no como una única literatura.
+
+**«Una herramienta que mejora los resultados de un curso mejora el éxito del estudiantado.»** La línea institucional muestra el patrón contrario: en el [[student-support-and-success|apoyo y éxito del estudiantado]], la IA **mueve de forma fiable la finalización de tareas pero no la persistencia ni la graduación**. Una intervención puede ganar todas las medidas del curso y dejar plano el resultado de finalización.
+
+**«El rendimiento de la tecnología es evidencia sobre el aprendizaje.»** El campo se sitúa en la intersección entre la tecnología educativa y las [[learning-sciences|ciencias del aprendizaje]], y la distinción entre ambas es exactamente esta: si cambió quien aprende, y no solo si una herramienta funcionó. Una demostración es una afirmación sobre la herramienta.
+
+**«Como la IA es de propósito general, un hallazgo de cualquier lugar se aplica en todas partes.»** La generalidad de la tecnología no crea generalidad de la evidencia. Las líneas de disciplina, nivel y contexto existen porque la misma herramienta se comporta de forma distinta en cada una, y un hallazgo trasladado sin cambios a través de una frontera es una extrapolación.
+
+**«La madurez del campo puede leerse en su volumen de publicación.»** Volumen y madurez divergen; la línea de métodos de investigación documenta debilidades de diseño recurrentes que el volumen no corrige, y los marcos se multiplican más rápido de lo que se prueban.
 
 ## Conceptos conectados
 - [[pedagogical-patterns]] — Las secuencias probadas que operativizan las pedagogías del campo

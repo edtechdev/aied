@@ -1,7 +1,7 @@
 ---
 title: Juicio evaluativo
 created: "2026-09-28T20:10:47-04:00"
-updated: "2026-10-24T08:21:16-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 type: concept
 foundations: [academic-integrity, critical-thinking]
 pedagogy: [metacognition, self-regulated-learning]
@@ -10,7 +10,7 @@ audience: [instructors, learners, assessment designers]
 level: [higher ed]
 confidence: high
 translation_of: concepts/evaluative-judgment
-source_updated: "2026-10-24T08:06:00-04:00"
+source_updated: "2026-10-26T11:15:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -36,6 +36,8 @@ ai_assist:
 ## Introducción
 
 Las evaluaciones que piden al estudiantado producir trabajo presuponen que puede distinguir el trabajo bueno del malo, primero en los demás y con el tiempo en el suyo propio. Ese presupuesto ya no es fiable: cuando la [[generative-ai|IA generativa]] puede generar prosa, código y análisis competentes a demanda, la capacidad de *producir* un producto es una señal débil de aprendizaje, mientras que la capacidad de *juzgarlo* es una señal fuerte. El juicio evaluativo nombra esa capacidad, y la investigación sobre evaluación de la base de conocimiento no deja de llegar a ella cuando pregunta qué sigue siendo evaluable y merece la pena evaluar. Se sitúa donde confluyen la [[feedback|retroalimentación]], la [[formative-assessment|evaluación formativa]] y el [[self-regulated-learning|aprendizaje autorregulado]], porque el juicio se desarrolla comparando el trabajo con los estándares y actuando sobre la diferencia, y es lo que hace posible una [[student-engagement|implicación]] genuinamente [[critical-thinking|crítica]] con la salida de la IA, en lugar de un anhelo.
+
+[[xu-recentering-humans-ai-assisted-writing-scoring-2026|Xu, Lu y Abdi (2026)]] sostienen, a partir de una revisión de alcance de doce estudios, que las puntuaciones de escritura de la IA reproducen un constructo estrecho: rastrean características superficiales verificables y subponderan la organización, la coherencia y la argumentación, que son las dimensiones de las que depende el juicio sobre la calidad de la escritura.
 
 ## Qué es el constructo
 
@@ -95,6 +97,12 @@ El desplazamiento tiene una versión del lado docente, y es lo que llevó a vari
 - **Combinarlo con proceso y defensas orales.** Los artefactos de proceso y las breves explicaciones orales muestran el juicio en acción donde un producto final no puede, y esa es una razón central por la que el rediseño de la evaluación en la era de la IA se apoya en ellos.
 
 - **Hacer visible el juicio retenido con sondas de deuda de comprensión.** [[judgment-centred-software-engineering-education-2026|Mahmoud (2026)]] define cuatro obligaciones transversales —explicar, verificar, modificar y rendir cuentas— que hacen visible la competencia retenida en todos los niveles de integración de la IA, y propone solicitudes de cambio demoradas, recorridos de código, pruebas diseñadas de forma independiente, localización de defectos y depuración en vivo como sondas que comparan lo que se produjo con lo que se puede demostrar después. Bajo la capacidad [[agentic-ai|agéntica]], el objetivo de la evaluación se desplaza a la supervisión —contratos de tareas, límites de permisos, entornos aislados, arneses de evaluación, revisión de diferencias, reversión y responsabilidad humana—, moviendo la evaluación de la autoría visible hacia el juicio visible.
+
+## Concepciones erróneas
+
+- **«El error del evaluador es ruido aleatorio.»** **El juicio del evaluador conlleva una dirección medible propia**: cinco responsables de admisiones que separaron **50 ensayos de admisión humanos de 50 de IA** alcanzaron **AUC 0,70**, lo que significa que solo distinguían débilmente las fuentes, y como nadie examinó las solicitudes, ese **juicio sin ayuda era todo el mecanismo de control**, y cada ensayo señalado conllevaba **1,5 puntos porcentuales menos de probabilidad de admisión**. Una señal débil se convirtió en una penalización real.
+- **«La revisión entre pares y la revisión con IA son sustitutas.»** El modelo PAIRR [[pairr-ai-peer-review-2025|(Sperber et al., 2025)]] **combina la revisión entre pares con la revisión con IA** para estructurar la calibración. Combinarlas es el diseño, lo que implica que ninguna por sí sola lo proporciona.
+- **«La calidad del juicio es una propiedad de quien juzga.»** El hallazgo sobre admisiones sitúa el problema en la disposición —un juicio no validado aplicado con consecuencias y sin una etapa de selección— y no en la capacidad de las personas.
 
 ## Conceptos conectados
 

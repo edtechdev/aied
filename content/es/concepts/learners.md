@@ -1,7 +1,7 @@
 ---
 title: "Quienes aprenden"
 created: "2026-09-28T19:15:20-04:00"
-updated: "2026-10-03T02:57:43-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 type: concept
 foundations: [agency, learner-identity, ai-literacy]
 pedagogy: [self-regulated-learning, motivation, metacognition, student-engagement, help-seeking, prior-knowledge, desirable-difficulties]
@@ -12,7 +12,7 @@ audience: [learners, instructors, researchers]
 connected_faqs: [how-ai-impacts-students, does-ai-help-students-learn, reducing-over-reliance, study-with-ai]
 confidence: high
 translation_of: concepts/learners
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-25T15:20:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -78,6 +78,34 @@ Como los beneficios siguen a la ventaja previa, el trabajo sobre el lado de quie
 ## Dónde se sitúa esta página
 
 Léase junto con [[stakeholders|partes interesadas]] para las personas que rodean a quien aprende, y con la [[pedagogy|pedagogía]] y el [[learning-design|diseño del aprendizaje]] para lo que el profesorado hace con estos hallazgos. La [[assessment|evaluación]] determina qué capacidades de quien aprende se hacen visibles alguna vez; [[limitations-in-aied-research|las limitaciones de la investigación en IAEd]] explica por qué buena parte de la evidencia sobre el lado de quien aprende es a corto plazo, autoinformada y realizada con muestras de conveniencia; y las [[misconceptions|ideas erróneas]] son el punto de entrada habitual para quienes aprenden.
+
+## Implicaciones para la práctica
+
+**Para el profesorado**
+
+- Pregunte qué *hacen* quienes aprenden, no solo qué dicen sentir. La comprensión percibida (92,3%) y el tiempo recuperado (38,5%) divergen lo suficiente como para que actuar sobre uno suponiendo el otro lleve a un diseño de curso equivocado.
+- Diseñe contra la atracción del mínimo esfuerzo de forma estructural en lugar de confiar en la virtud de quien aprende, ya que esa atracción está documentada como una respuesta normal al diseño de la tarea.
+- Informe a quienes aprenden del proceso al que se enfrentarán si son acusados, porque la evidencia sobre los procedimientos muestra que la respuesta institucional es donde suele recaer el daño.
+
+**Para quienes desarrollan**
+
+- No anuncie ahorros de tiempo que quienes aprenden no declaran. Publique métricas tanto de comprensión como de tiempo, y manténgalas etiquetadas por separado.
+- Diseñe para quien aprende sin ser estudiante: los usuarios de formación en el trabajo y autodirigidos carecen del contexto de matrícula que sus valores predeterminados pueden presuponer.
+
+**Para quienes investigan**
+
+- Mantenga explícita la distinción entre quien aprende y estudiante en el muestreo, e informe de quién queda excluido por ella.
+- Estudie a las personas acusadas además de a las usuarias; el lado procedimental es la mitad delgada de esta literatura.
+
+## Concepciones erróneas
+
+**«Quienes aprenden y los estudiantes son la misma población.»** No son intercambiables de una manera útil: *estudiantes* nombra un rol institucional, *quienes aprenden* nombra una actividad, y una persona puede ser lo uno sin lo otro: una persona empleada en [[professional-training|formación en el trabajo]] es quien aprende pero no estudiante. Confundirlos reduce la base de evidencia a las personas con registro de matrícula y deja fuera en silencio justo a las personas adultas, profesionales y autodirigidas de las que trata la investigación sobre [[lifelong-learning|aprendizaje a lo largo de la vida]].
+
+**«Quienes aprenden informan que la IA mejora su comprensión, así que les ahorra tiempo.»** Las dos afirmaciones se separan en los datos de la encuesta. En el trabajo sobre productividad de estudio, el **92,3%** dijo que la IA mejoró su comprensión, mientras que solo el **38,5%** dijo que redujo su tiempo total de estudio. La cifra titular describe la comprensión sentida; la brecha bajo ella muestra que comprender mejor y recuperar tiempo son resultados distintos, y la afirmación ampliamente repetida de que «la IA ahorra tiempo» se sostiene en la cifra menor.
+
+**«Que el estudiantado use la IA para atajar es una falta moral.»** La base de conocimiento trata la atracción del mínimo esfuerzo como un problema de diseño y de política y no como un problema de carácter: el estudiantado lo describe con sus propias palabras, y la literatura sobre [[reducing-ai-misuse|mal uso]] e [[academic-integrity|integridad]] sitúa la palanca en el diseño de la tarea y del entorno. Enmarcarlo moralmente no explica por qué un mismo estudiante se comporta de forma distinta en dos cursos.
+
+**«Cuando se presenta una acusación de mala conducta, la evidencia está ahí.»** El análisis de expedientes de 1.162 acusaciones de IA generativa muestra a qué se enfrentan realmente quienes aprenden cuando llega la respuesta institucional, y el lado estudiantil de los procedimientos de mala conducta está mucho menos desarrollado en la literatura que el lado estudiantil del uso. Una página sobre quienes aprenden que documenta solo su uso y no su exposición a la acusación ha documentado la mitad de la experiencia.
 
 ## Conceptos conectados
 

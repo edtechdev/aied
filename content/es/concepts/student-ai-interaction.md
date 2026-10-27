@@ -1,7 +1,7 @@
 ---
 title: Interacción entre el estudiantado y la IA
 created: "2026-09-28T18:15:36-04:00"
-updated: "2026-10-24T08:21:12-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 type: concept
 foundations: [cognitive-offloading]
 pedagogy: [student-ai-interaction]
@@ -10,7 +10,7 @@ audience: [learners]
 level: [higher ed]
 confidence: high
 translation_of: concepts/student-ai-interaction
-source_updated: "2026-10-23T09:49:58-04:00"
+source_updated: "2026-10-26T10:00:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -76,10 +76,18 @@ Los prompts escritos por el docente son una de esas palancas, pero el rigor efec
 
 La no utilización es en sí misma un patrón de interacción que la [[pedagogy|pedagogía]] debe prever. [[zou-is-this-a-trap-student-teachers-genai-2026|Zou et al. (2026)]], al estudiar a 85 [[teacher-education|futuros docentes]] en tres cursos donde el uso de IA generativa en la [[assessment|evaluación]] estaba explícitamente permitido, encontraron que el 62,4% (53 de 85) optó por no usarla en absoluto, muy por debajo del 79–83% de adopción observado en encuestas comparables del Reino Unido y Australia, y que el uso de quienes la adoptaron era superficial y correctivo más que generativo (corrección de pruebas 43,8%, comprobaciones de claridad 34,4%, generación de texto solo 18,8%). Sus decisiones seguían el diseño de la evaluación y la cultura institucional más que la dificultad técnica: el 41,5% de quienes no la adoptaron temía ser acusado injustamente de [[academic-integrity|plagio]], y nueve de los once entrevistados interpretaron la propia política permisiva como una posible «trampa». La brecha entre los 32 usuarios que declaró la encuesta y las 28 autodeclaraciones muestra que la interacción con la IA que el estudiantado *reporta* está modelada por las consecuencias de la calificación: una advertencia de medición para los relatos de la analítica del aprendizaje sobre la interacción entre el estudiantado y la IA.
 
+[[wang-student-ai-collaboration-peer-feedback-2026|Wang y Guo (2026)]] documentan qué aporta el diálogo abierto con IA generativa en la revisión entre pares: el estudiantado que interrogó al modelo en lugar de aceptar su primera sugerencia produjo retroalimentación que sus pares valoraron mejor, y declaró más disfrute de la tarea y menos ansiedad.
+
 ## Disciplina e implicación cognitiva en el chat entre el estudiantado y la IA
 
 - **Implicación cognitiva asociada a la disciplina en el chat entre el estudiantado y la IA.** Chang y Li (2026) analizan los prompts del estudiantado a la IA en 116 cursos con un diseño intrapersonal y transdisciplinar, y muestran que las conversaciones entre el estudiantado y la IA reflejan una implicación cognitiva **asociada a la disciplina** y no estilos de interacción individuales fijos. En conjunto, alrededor del 62% de los prompts codificaba una demanda cognitiva de orden superior, pero los perfiles por nivel de Bloom diferían marcadamente según la disciplina: los cursos de [[stem-education|STEM]] provocaban prompts predominantemente de Aplicar (20,8%), los de idiomas de Comprender (31,7%) y los de ciencias sociales de Crear (33,8%). Las comparaciones intrapersonales emparejadas confirmaron que los mismos estudiantes producían significativamente más prompts de orden superior en ciencias sociales que en cursos de STEM (n agrupada = 16, p < 0,001), y la variación a nivel de curso superó la variación a nivel de estudiante: un argumento sólido de que los asistentes docentes de IA deberían diseñarse y evaluarse teniendo en cuenta el contexto disciplinar.
 - **Cuánto usó el estudiantado la IA no predijo cómo se sintió al respecto.** Entre 819 estudiantes, el género, la pericia en IA autoevaluada y la frecuencia de uso no alcanzaron la significación en un MANOVA (lambda de Wilks 0,997, p = 0,551; 0,990, p = 0,295). Quienes la usaban mucho y quienes la usaban poco en esa muestra mantenían las mismas opiniones ([[ai-chatbots-emotional-support-human-connection-2025|Al-Zahrani (2025)]]).
+
+## Concepciones erróneas
+
+- **«Las taxonomías de interacción están resueltas.»** **En 46 categorizaciones de 33 estudios, etiquetas similares nombran fenómenos distintos**, y por eso la revisión propone el *episodio de interacción* como unidad. Un esquema de codificación tomado de una taxonomía puede estar midiendo un constructo diferente.
+- **«El estudiantado usa la IA como tutor.»** Entre **38 estudiantes de grado** que escribieron ensayos argumentativos sin supervisión, el **76,32% usó un patrón de un solo turno de preguntar, obtener la respuesta y parar**, generalmente pegando el título de la tarea. El patrón dominante es la recuperación en un solo turno, que no es tutoría.
+- **«Un mayor uso de IA indica mayor implicación con el material.»** Un análisis de **200 sesiones de chat de coprogramación** encontró que el **78,8% de las interacciones entre estudiantado e IA se regía por objetivos y estrategias no orientados al dominio**. El volumen de interacción medía algo distinto de la orientación al aprendizaje, así que contar sesiones es un indicador de implicación engañoso.
 
 ## Conceptos conectados
 - [[learners]] — Estudiantado: el paraguas de los conceptos del lado de quien aprende

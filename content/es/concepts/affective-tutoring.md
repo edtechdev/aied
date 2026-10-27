@@ -1,7 +1,7 @@
 ---
 title: Tutoría afectiva
 created: "2026-09-28T18:18:41-04:00"
-updated: "2026-10-02T23:56:13-04:00"
+updated: "2026-10-26T21:37:14-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [scaffolding]
@@ -10,7 +10,7 @@ audience: [learners]
 level: [k 12, higher ed]
 confidence: medium
 translation_of: concepts/affective-tutoring
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-25T13:10:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -75,6 +75,38 @@ Un límite a la inferencia del afecto a partir del diálogo: [[ecnuclaw-k12-pers
 ## Relación con la seguridad en sentido amplio
 
 La tutoría afectiva se cruza con [[hazra-safetutors-pedagogical-safety-2026|SafeTutors]] en la dimensión del daño [[motivation|motivacional]]-afectivo. Un tutor afectivo que es «demasiado comprensivo» puede suprimir la frustración que impulsa la lucha productiva y la [[self-regulated-learning|autorregulación]]. Véase también [[llm-fallacy-misattribution]]: el estudiantado puede atribuir el apoyo emocional a una relación genuina, lo que refuerza la dependencia.
+
+## Concepciones erróneas
+
+**«La ventaja de +23 puntos en tasa de acierto demuestra que los tutores afectivos enseñan mejor.»** Demuestra algo más estrecho. La comparación es una tasa de acierto frente a una línea base sin componente afectivo en un solo sistema, MathBuddy, puntuado en ocho dimensiones pedagógicas y estudios con personas usuarias; una tasa de acierto es un resultado de preferencia, no una medida de aprendizaje duradero en un curso real. La afirmación honesta es que la selección de estrategia consciente del afecto superó a la selección ciega al afecto en la calidad de respuesta juzgada, lo que es un resultado sólido sobre la interacción y uno débil sobre las [[learning-gains|ganancias de aprendizaje]].
+
+**«Si el tutor se siente empático, al estudiante se le está ayudando.»** Sentirse comprendido y recibir enseñanza son cosas separables, y la brecha entre ambas es donde reside el daño. [[favero-critical-ai-tutors-empower-enslave-2025|Favero et al.]] identifican la dependencia parasocial como el fallo característico: un estudiante puede formar una relación con un sistema diseñado para parecer afectuoso mientras su implicación [[metacognition|metacognitiva]] cae sin que se note, y la propia empatía hace más difícil percibir esa desconexión. La literatura sobre [[llm-fallacy-misattribution|atribución errónea]] es el otro filo del mismo cuchillo, donde el estudiantado atribuye al sistema una relación genuina.
+
+**«Más apoyo emocional siempre es más seguro que menos.»** Pasado cierto punto, el apoyo se convierte en interferencia. Un tutor que elimina de forma fiable la frustración puede suprimir la [[desirable-difficulties|lucha productiva]] de la que depende la [[self-regulated-learning|autorregulación]], y por eso [[hazra-safetutors-pedagogical-safety-2026|SafeTutors]] trata el daño motivacional-afectivo como una dimensión de seguridad distinta y no como una ausencia de beneficio.
+
+**«Un tutor que detecta la emoción en un rostro conoce el estado del estudiante.»** El afecto se infiere, no se observa, y la inferencia es más débil justo donde las consecuencias son mayores. [[ecnuclaw-k12-personalized-companion|Zhou, Li y Zhang (2026)]] mantienen una dimensión emocional en un perfil de quien aprende de cinco dimensiones pero la pueblan con diccionarios de palabras clave, de modo que un estudiante que expresa frustración con palabras que el diccionario no contiene simplemente no queda perfilado, y el perfil no se ha validado frente al juicio de personas expertas. La captura facial añade un flujo de vídeo continuo y una exposición de privacidad que la inferencia a partir del texto no tiene.
+
+**«Las mediciones de emoción tomadas en momentos distintos son intercambiables.»** [[epistemic-emotions-collaborative-problem-solving|Anindho et al. (2026)]] encuentran que el afecto ordenado muestra persistencia de corto alcance y transiciones direccionales, y que los informes captados por sonda, los bucles autorreferentes en torno a la curiosidad y la confusión, son una medición distinta de los captados por la propia persona, como la frustración y la sorpresa. Promediar ambos en una frecuencia resumen descarta la secuencia que porta la señal.
+
+## Poner en práctica la tutoría afectiva
+
+**Para el profesorado**
+
+- Trate la empatía como un mecanismo de entrega y no como evidencia de aprendizaje. Empareje cualquier herramienta consciente del afecto con una comprobación cognitiva que pueda ver, como productos de trabajo o la salida del [[knowledge-tracing|seguimiento del conocimiento]], y no deje que la experiencia sentida del estudiantado sustituya a la evidencia diagnóstica.
+- Declare la inferencia de forma explícita. El estudiantado debería saber que se está estimando un estado emocional, a partir de qué entradas, y poder rechazar la cámara sin perder el acceso a la tutoría.
+- Vigile al estudiante que dice que la herramienta «le entiende» y cuyo trabajo independiente no mejora. Esa combinación es la firma parasocial, no una historia de éxito.
+
+**Para quienes desarrollan**
+
+- Haga del afecto una señal entre varias. Combinarla con el estado cognitivo y la implicación conductual evita que el sistema reoptimice una lección en torno a una expresión mal leída.
+- Dispare las intervenciones sobre trayectorias y no sobre estimaciones puntuales, apoyándose en la secuencia de estados, ya que la persistencia y las transiciones direccionales son la parte informativa.
+- Adopte por defecto un manejo de sensores que proteja la privacidad, y trate la entrada facial o de vídeo como un nivel estrictamente superior al de la inferencia a partir del texto, que requiere su propia justificación y consentimiento.
+- No lance una capa de afecto basada en diccionarios de palabras clave como si fuera detección. Si no puede validar el clasificador frente al juicio de personas expertas, expóngalo como una señal gruesa en lugar de etiquetar a un estudiante como «frustrado».
+
+**Para quienes investigan**
+
+- Comunique la línea base frente a la que se mide su tasa de acierto y afirme con claridad que es un juicio comparativo. Después mida lo que el campo realmente necesita: la transferencia a contextos no adaptativos, la retención una vez retirado el tutor y si las ganancias se mantienen con el canal emocional apagado.
+- Valide los perfiles afectivos frente al juicio de personas expertas antes de usarlos como variables independientes.
 
 ## Conceptos conectados
 

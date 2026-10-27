@@ -1,7 +1,7 @@
 ---
 title: Educación en ingeniería
 created: "2026-09-28T18:15:33-04:00"
-updated: "2026-10-22T07:28:33-04:00"
+updated: "2026-10-26T22:02:40-04:00"
 type: concept
 foundations: [ai-literacy, educational-development]
 assessment: [assessment]
@@ -12,7 +12,7 @@ audience: [learners, instructors, faculty developers]
 level: [higher ed]
 confidence: high
 translation_of: concepts/engineering-education
-source_updated: "2026-10-21T12:05:00-04:00"
+source_updated: "2026-10-26T08:45:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -77,6 +77,12 @@ Ese vacío ya no está vacío en un área: un programa de tres años de ingenier
 - **Modele el uso crítico y una dependencia adecuada.** [[tam-critical-use-genai-engineering-2026|La investigación sobre el uso crítico con TAM]] muestra que el estudiantado se apoya intensamente en la IA para tareas de comprensión, pero menos para la evaluación: guíelo hacia una dependencia adecuada y verificable en todos los tipos de tarea.
 
 - **Enseñar el uso de la IA como una destreza dentro del horario de clase.** [[structured-ai-demonstrations-engineering-mechanics|Geng et al. (2026)]] realizaron nueve demostraciones dirigidas por el profesorado, de 10 a 15 minutos cada una al final de una clase y secuenciadas desde la alfabetización en herramientas hasta la delegación estratégica y la evaluación de modelos, pero el estudiantado que no veía conexión con la evaluación las consideró redundantes, así que conviene vincularlas a trabajo calificado.
+
+## Concepciones erróneas comunes
+
+- **«La adopción de la IA entre el estudiantado de ingeniería es un problema de aceptación tecnológica.»** [[socio-cognitive-genai-adoption-engineering-2026|Asag y Al Mamun]] integran el TAM con el [[technology-acceptance-model|UTAUT]] para modelar la adopción del estudiantado de ingeniería de Bangladesh y **explican el 64% de** la varianza, de modo que una parte sustancial queda fuera de los constructos de aceptación, en factores sociales y cognitivos que el modelo no cubre.
+- **«El estudiantado usa la IA para aquello en lo que es mejor.»** [[ai-engineering-education-balancing-act|Kudina (2026)]] encontró que **100 estudiantes de ingeniería** valoraban sobre todo los LLM para el **apoyo a la escritura**, no para el razonamiento de ingeniería. Sus metáforas sobre la herramienta superaban lo que esta ofrecía, y su uso real seguía la conveniencia y no la capacidad.
+- **«Un conjunto de herramientas más rico mejora los resultados de diseño.»** En un taller de diseño arquitectónico con **27 estudiantes**, los equipos que usaron un flujo de IA generativa más [[virtual-and-augmented-reality|XR]] mostraron una **autoeficacia deprimida sin un producto mejor**. La riqueza de herramientas puede costar confianza sin cambiar el artefacto.
 
 ## Conceptos conectados
 
