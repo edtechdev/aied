@@ -1,7 +1,7 @@
 ---
 title: Explainable AI
 created: "2026-09-07T10:15:00-04:00"
-updated: "2026-10-26T07:30:00-04:00"
+updated: "2026-10-27T10:05:00-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [metacognition]
@@ -52,6 +52,7 @@ The XAI-ED framework catalogs the main explanation modalities: **visual** (heatm
 - **Glass-box** approaches try to balance accuracy with transparency.
 
 The concrete AIED evidence base spans all of these. **Interpretable [[knowledge-tracing|knowledge tracing]]** makes learner-knowledge models inspectable directly ([[huang-interpretable-knowledge-tracing-2026]], [[explainable-probabilistic-kt]], [[neural-symbolic-knowledge-tracing]]). **Self-explaining surrogates** distill a black-box model into a small, interpretable [[llm|language model]] for [[learning-analytics]] ([[distilling-self-explaining-lm-learning-analytics-2026]]). **Counterfactual explanations** — "what would need to change for a different outcome" — support educational decision support and recourse ([[sc2r-counterfactual-recourse-educational-2026]]). **Federated + explainable learning analytics** shows explanation quality can drift (calibration degrades) even when ranking stability holds, underlining that explanations are not a fixed property but a system output to be measured ([[villegas-ch-federated-explainable-learning-analytics-2026]]). And **interpretable [[affective-computing|affective]] ITS** demonstrates explanations in [[affective-tutoring|emotion-aware]] tutoring ([[multimodal-affective-its-presentation]]).
+- **External measurement sidesteps the unfaithful-account problem.** Filtered Decision Logs rebuild tool traces into a provenance tree and rank evidence with four deterministic signals, so the influence score is verifiable independently of the recommendation, and counterfactual tool removal confirmed the ranking tracked dependence ([[filtered-decision-logs-transparency-genai-2026|Anbalagan et al. (2026)]]).
 
 ## Explanation quality, not availability
 

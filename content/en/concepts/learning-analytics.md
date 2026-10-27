@@ -1,7 +1,7 @@
 ---
 title: Learning Analytics
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-26T11:40:00-04:00"
+updated: "2026-10-27T10:05:00-04:00"
 type: concept
 pedagogy: [student-engagement]
 technology: [knowledge-tracing, student-modeling, edtech-platform]
@@ -102,10 +102,11 @@ Learning analytics connects to [[knowledge-tracing]] (the core analytic), [[form
 Process-level instrumentation is the descriptive layer's next step down. [[pulla-parsons-problem-tool-2026|Prol et al. (2026)]] extended an [[open-source]] Parsons-problem platform to record every block placement, removal and submission as a chronological trace, pair each submission with per-block correctness coloring and an attempt history, and optionally pass the traces through an [[llm]] pipeline that labels recurring difficulty patterns for instructor review. Across 68 students in an upper-division Java software-design course and 36 in an introductory Python course the analysis surfaced the same three difficulties — choosing the wrong exception type, substituting `return` for `throw`, and incorrect control-flow ordering — which correctness-and-attempt counts cannot expose, because they answer *whether* the arrangement was right rather than *what the process was*. The AI acts as an interpreter for the [[teacher-role|instructor]] rather than a scorer of the student, and its output is framed as a reviewable hypothesis about a class's difficulties rather than a grade.
 
 - **The learning system wall: log data doesn't generalize across platforms.** MATHia, i-Ready, and IXL each define even basic constructs — an "attempt," a "hint" — differently, so models can't transfer between them. A work-in-progress response attacks the problem from the video side: a Gemini pipeline distills tutoring screen recordings into a single screenplay transcript aligned to native MATHia logs as ground truth. What video recovers that no single stream does: whiteboard [[scaffolding]], silent calculator work in external tools, and off-screen context that native logs reduce to "idleness." Open challenges remain in temporal anchoring, clock drift, and separating platform events from other learning processes. ([[thomas-breaking-learning-system-wall-2026]])
+- **Interaction logs can lose to a constant baseline.** Semester-level features from 16,851 LLM-tutor exchanges beat a median predictor of assignment scores by 0.114 points, an interval crossing zero, with 62.1% of error in the lowest quartile ([[llm-tutoring-interaction-predictive-value-2026|Dong et al. (2026)]]).
 
 ## Common Misconceptions
 
-- **"A knowledge-state estimate inherits its validity from the data."** **The Q-matrix linking items to attributes is an assumption, not data**: rejected entries for **14 of 918 analysed items** means the mapping itself required adjudication. Validating the mapping is a step, not a formality.
+- **"A knowledge-state estimate inherits its validity from the data."** **The Q-matrix linking items to attributes is an assumption, not data**: rejected entries for **14 of 918 analyzed items** means the mapping itself required adjudication. Validating the mapping is a step, not a formality.
 - **"Analytics need clickstream traces."** Knowledge states can be estimated within Outcome-Based Education by **tracing course outcomes directly from LMS interaction and attainment data**, using OBE affinity mappings — the institutional record supplies the signal.
 - **"Prediction without an action window is useful."** Progress prediction is most usable when it is **interpretable and paired with an action window**: [[zhang-ml-student-progress-programming-2026|Zhang, Jeffries and Koprinska (2025)]] predict module-level outcomes, which is a form an advisor can act on, unlike a raw score.
 ## Connected Concepts

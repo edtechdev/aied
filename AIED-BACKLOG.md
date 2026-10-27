@@ -6,8 +6,20 @@
 >
 > **Scope of this file:** it lists work in progress only — articles whose full text is still being sought, and pages waiting on a source before their practice and limitations sections can be written. Candidates appear here only while they are being pursued, and no outcome is recorded; items judged unsuitable for the knowledge base are tracked outside this repository.
 
-**Last updated:** 2026-10-25
-**Total backlog:** 20 articles awaiting ingest (12 with full text retrievable from the open-access publisher pages, 8 blocked by publisher access) · 52 truncated source texts awaiting PDFs · 19 pages awaiting a full text before their practice and limitations sections can be written
+**Last updated:** 2026-10-27
+**Total backlog:** 27 articles awaiting ingest (18 with full text retrievable from the open-access publisher pages, 9 blocked by publisher access) · 52 truncated source texts awaiting PDFs · 19 pages awaiting a full text before their practice and limitations sections can be written
+
+## Daily arXiv + OpenAlex scan (2026-10-27)
+
+In-scope AI-in-education candidates from this run that were **not ingested**: the run's cap was eight articles, chosen for measured outcomes over self-report. All are open access; the arXiv items have retrievable full text, so any can be ingested on request.
+
+- [Reflective Computing](https://arxiv.org/abs/2610.35696) - arXiv:2610.35696 - HCI paradigm paper (134 interactive systems across 17 years) arguing reflection should be the organizing aim of interactive design; tangential to education but relevant to cognitive offloading
+- [A Battery for AI Propensity Measurement: Rubrics, Synthetic Item Banks, and Annotations](https://arxiv.org/abs/2610.34614) - arXiv:2610.34614 - 28 psychometric propensities with rubrics and annotated demand intervals; relevant to educational measurement of AI behavior
+- [Beyond Behavioral Adaptation: Evaluating the Added Value of EEG in Personalized Language Interfaces](https://osf.io/cxdq4) - PsyArXiv - neuroadaptive interfaces for language comprehension support; assistive-technology relevance
+- [EEGBiFormer: Real-Time EEG Attention Classification via Hybrid CNN-Transformer](https://arxiv.org/abs/2610.33832) - arXiv:2610.33832 - attention-state classification for auditory support tools; hardware-dependent
+- [When Legacy Curriculum Meets Artificial Intelligence: A Theoretical Framework for Institutional Renewal in Career and Technical Education](https://doi.org/10.46787/ijaipil.v1i4.8089) - [DOI: 10.46787/ijaipil.v1i4.8089](https://doi.org/10.46787/ijaipil.v1i4.8089) - International Journal of AI in Pedagogy, Innovation, and Learning Futures - theoretical CTE renewal framework; PDF is behind an HTML viewer page, needs a maintainer-supplied copy
+- [Pengembangan Kerangka Kepemimpinan Pendidikan Islam di Era Kecerdasan Buatan](https://doi.org/10.58230/josse.v3i3.938) - [DOI: 10.58230/josse.v3i3.938](https://doi.org/10.58230/josse.v3i3.938) - library-research framework on Islamic education leadership and AI governance; Indonesian
+- [Exploring Reform in a Progressive, Project-Driven Deep Learning Practical Course](https://doi.org/10.63313/eh.9120) - [DOI: 10.63313/eh.9120](https://doi.org/10.63313/eh.9120) - single-course case study of an intelligent image-classification curriculum; thin evidence
 
 
 ## Weekly journal RSS scan (2026-10-11)

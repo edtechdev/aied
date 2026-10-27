@@ -1,7 +1,7 @@
 ---
 title: Pedagogical Safety
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-25T18:05:00-04:00"
+updated: "2026-10-27T10:05:00-04:00"
 connected_faqs: [designing-educational-ai-software, equity-ethics-pedagogical-safety-research, developing-ai-tutor, ai-guidance-children-under-13, training-ai-tutors-to-guide-rather-than-answer, checking-whether-educational-ai-works]
 type: concept
 foundations: [cognitive-offloading]
@@ -60,6 +60,7 @@ Design pedagogical safety as a measurable, discipline-aware requirement rather t
 ### Connections to related concepts
 
 Pedagogical safety is the protective layer connecting [[hallucination-risk]], [[rag]], [[k-12]], [[ethics]], [[governance]], [[regulation]], and [[llm]] with the interaction-level concerns of [[trust]], [[scaffolding]], [[metacognition]], and [[self-regulated-learning]]. It operates through [[llm-training-and-fine-tuning|training]] and [[reinforcement-learning|RL]], depends on [[bias-mitigation]] and [[equity-in-ai-education]], and is motivated by the harms catalogued in [[ai-misuse-learning-harm]] and the [[hazra-safetutors-pedagogical-safety-2026|tutor harm taxonomies]].
+- **Child harm rarely enters through the model.** In 1,331 coded child-related AI incidents, harm concentrated in representational, dignity-related and psychological categories and co-occurred with deployment, governance and misuse failures rather than model defects, so per-output filters miss the dominant pathway ([[child-related-ai-incidents-safety-benchmarks-2026|Jiao et al. (2026)]]).
 
 ## Common Misconceptions
 
@@ -69,7 +70,7 @@ Pedagogical safety is the protective layer connecting [[hallucination-risk]], [[
 
 **"The safest tutor is the one that refuses most."** A system that "refuses evenly" can still entrench inequality, which is the second half of the page's quiet-failure description. The failure mode is not only a tutor that answers correctly and erodes learning; it is also a tutor whose refusals distribute support unevenly across students, and a blanket refusal policy trades a visible risk for an invisible one.
 
-**"Any model-level safety work is a public-relations measure."** Some of it is measurable. The [[llm-unlearning-math-privacy|math-unlearning]] work applies gradient-based unlearning to strip identifying information and harmful content, reporting PII output down to **0.1%** and toxic rates to **0.0%** while preserving capability. Model-level controls are one layer of a layered defence — insufficient alone, and not nothing.
+**"Any model-level safety work is a public-relations measure."** Some of it is measurable. The [[llm-unlearning-math-privacy|math-unlearning]] work applies gradient-based unlearning to strip identifying information and harmful content, reporting PII output down to **0.1%** and toxic rates to **0.0%** while preserving capability. Model-level controls are one layer of a layered defense — insufficient alone, and not nothing.
 
 ## Connected Concepts
 - [[guardrails]] — the design mechanisms that implement safety

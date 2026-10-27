@@ -1,7 +1,7 @@
 ---
 title: Cognitive Diagnosis
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-10-26T07:05:00-04:00"
+updated: "2026-10-27T10:05:00-04:00"
 type: concept
 technology: [intelligent-tutoring, knowledge-tracing, learning-analytics, student-modeling]
 assessment: [assessment, educational-measurement, psychometrically-aware-ai]
@@ -38,6 +38,7 @@ Whereas knowledge tracing typically estimates a scalar mastery over time, cognit
 - **Bayesian DINA for personalized learning paths:** [[bayesian-cognitive-diagnosis-personalized-learning-paths|Feng and Huang (2026)]] integrate a Bayesian DINA model (trained on the EdNet dataset, N=5,000) with knowledge space theory and a shortest-remediation-path algorithm to generate personalized learning paths, and empirically test the mediating role of [[cognitive-offloading|cognitive load]] via Hidden Markov Model state transitions (validated on 120 students) — addressing both the sparsity-driven convergence problem of traditional DINA models and the untested psychological mechanism behind personalized-path effectiveness.
 - **Language-grounded diagnosis in place of ID embeddings.** [[process-grounded-language-cognitive-diagnosis-2026|Liu et al. (2026)]] replace discrete student, exercise and concept identifiers with LLM-built concept schemas and process-grounded evidence, calibrating each student's posterior state from response records. Across three [[math-education|mathematics]] [[online-teaching-and-learning|platform]] datasets the framework reaches 83.51% ACC / 85.37% AUC on XES3G5M and 87.16% ACC on MOOC, with the gain concentrated exactly where classical cognitive-diagnosis models degrade: new concepts (+4.60 ACC over KCD) and missing Q-matrix entries (+4.52). Ablating the structured evidence collapses MOOC accuracy from 87.16% to 78.95%, so the improvement comes from the language-derived structure rather than from model scale. ([[process-grounded-language-cognitive-diagnosis-2026]])
 - **Culturally embedded tasks can precede the AI analysis.** [[culturally-embedded-ai-diagnostic-assessment-2026|Anggara et al. (2026)]] had 178 junior-high students in Indonesia complete culturally contextualized open-ended tasks before AI response analysis; the AI diagnoses agreed with expert assessment (ICC = 0.81), while cultural embedding was associated with symbolic mathematical performance (β = 0.42) and engagement (β = 0.37).
+- **Strategy configuration can be diagnosed, not just knowledge state.** Five dimensions estimated from 36,234 grammar-game actions predicted the next success with AUC 0.826 while excluding current error counts, and varied within students (ICC = 0.14) rather than across them ([[configuration-aware-diagnostic-adaptive-scaffolding-2026|Geoffre et al. (2026)]]).
 
 ## Why it matters
 
@@ -61,14 +62,14 @@ Cognitive diagnosis connects to [[knowledge-tracing]], [[student-modeling]], [[e
 - **"Diagnosis is a solved capability for models."** [[omniedu-open-educational-foundation-models-2026|OmniEdu (Liang et al., 2026)]] supervised diagnostic reasoning as one of four capabilities in an open 4B/9B/27B family, and **knowledge-state diagnosis remained its weakest** of the four. Diagnosis is the capability that resisted the training that produced the others.
 - **"Models can simulate student errors, so they can diagnose them."** The bottleneck is the reverse. Models constructed a solution in **95.2% of distractor traces** and simulated a specific Eedi misconception at **0.92 accuracy**, yet **supplying the correct solution** — not simulating the error — was what limited them. Generating a plausible wrong answer is easier than recognising one.
 - **"Diagnosis requires a hand-built misconception catalogue."** On **6,106 pairs** of correct and incorrect propositional-logic formalisations, a workflow discovered **248 clusters of transformations explaining 5,156 pairs (84.44%)**, against **4,370 (71.57%)** for the hand-picked mistakes of the reference set. Discovery matched or exceeded expert curation, and it transferred to modal logic — so the catalogue is a starting point, not a ceiling.
-- **"A diagnosis is only useful if it names a misconception."** Diagnosing which course outcomes a learner has attained treats outcomes as the knowledge concepts instead, supplying concept relationships through expert-validated affinity mappings. For outcome-based programmes that is the more actionable unit, even though it is coarser.
+- **"A diagnosis is only useful if it names a misconception."** Diagnosing which course outcomes a learner has attained treats outcomes as the knowledge concepts instead, supplying concept relationships through expert-validated affinity mappings. For outcome-based programs that is the more actionable unit, even though it is coarser.
 
 ## What this means for practice
 
 **For instructors**
 
 - Treat a system's diagnosis as a hypothesis to check, not a verdict. Knowledge-state diagnosis was the weakest capability in a family trained for it.
-- Ask whether the diagnosis names a construct you can act on. An outcome-level diagnosis that maps to your programme is often more useful than a fine-grained misconception label.
+- Ask whether the diagnosis names a construct you can act on. An outcome-level diagnosis that maps to your program is often more useful than a fine-grained misconception label.
 - Where your subject has rules, expect transformation-based discovery to find error patterns you did not anticipate; the 248 discovered clusters are evidence that curated catalogues are incomplete.
 
 **For developers**

@@ -1,7 +1,7 @@
 ---
 title: "Pedagogical Partnerships"
 created: "2026-08-31T09:45:00-04:00"
-updated: "2026-10-26T09:35:00-04:00"
+updated: "2026-10-27T10:05:00-04:00"
 type: concept
 foundations: [agency, curriculum-design, learning-design, teacher-role]
 pedagogy: [collaborative-learning, pedagogical-partnerships, pedagogy, student-engagement]
@@ -78,6 +78,7 @@ Pedagogical partnership is related to but distinct from several neighboring conc
 - Equity in partnership: which students get to participate, whose voices are centered, and how whole-class vs. selective forms distribute benefit.
 - The resource and institutional constraints on partnership, including the time-intensive nature of genuine co-design.
 - How partnership relates to decolonizing, critical, and [[critical-pedagogy|critical pedagogies]] that challenge traditional hierarchies and center multiple ways of knowing.
+- **Mentoring can run in both directions.** In a 20-fellow, 15-intern program across 14 Columbia departments, interns taught faculty AI tools while faculty taught disciplinary standards, most pairs settling into a Translator model ([[learning-by-collaborating-ai-research-mentorship-2026|Zheng (2026)]]).
 
 ## Practical implications
 
