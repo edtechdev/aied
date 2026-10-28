@@ -1,7 +1,7 @@
 ---
 title: "A Bilingual, LLM-Mediated Lecture Companion for Self-Regulated Learning: Architecture, Theoretical Framework, Comparative and Usability Evaluation, and a Pre-Registered Outcomes Protocol"
 created: "2026-08-14T09:17:22-04:00"
-updated: "2026-09-19T10:03:37-04:00"
+updated: "2026-10-28T00:58:16-04:00"
 type: article
 pedagogy: [online-teaching-and-learning, self-regulated-learning]
 technology: [generative-ai, llm]
@@ -21,7 +21,7 @@ audience: [instructional designers]
 
 1. The Lecture Companion is designed as a solution to a compound, under-served gap: most [[llm]] lecture tools assume monolingual English audio and reliable connectivity, while many Indian classrooms feature English-Hindi code-switching and patchy internet — a mismatch the paper documents with UDISE+ and TRAI statistics tied to the [[digital-divide]].
 2. Its architecture is local-first and bilingual-first: transcription runs on the browser's native speech-recognition API, all data is stored on-device, and a fixed LLM system prompt reads code-mixed input while letting the student choose the output language, so core study functions keep working offline.
-3. The ten study modules are read as an implementation of Zimmerman's cyclical forethought–performance–reflection model of [[self-regulated-learning]], with automatic flashcard generation removing the authoring cost that blocks evidence-based retrieval and spaced practice.
+3. The ten study modules are read as an implementation of Zimmerman's cyclical forethought–performance–reflection model of [[self-regulated-learning]], with automatic flashcard generation removing the authoring cost that blocks evidence-based retrieval and [[retrieval-spacing-interleaving|spaced practice]].
 4. Two design-level evaluations were completed — a feature comparison against Otter.ai, Google NotebookLM, and Anki, and a heuristic usability audit against Nielsen's ten heuristics — which found the market does not cover the full workflow for code-mixed, connectivity-constrained learners, plus one concrete, fixable usability bug.
 5. No learning-outcomes study has been run yet: the paper's core claim is a working artifact and its design logic, evaluated separately from a pre-registered, quasi-experimental protocol (hypotheses, power analysis, instruments, and threats to validity) proposed for future work.
 

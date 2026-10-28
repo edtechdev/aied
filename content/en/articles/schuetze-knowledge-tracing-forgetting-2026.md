@@ -1,7 +1,7 @@
 ---
 title: "Capturing Session-to-Session Dynamics of Learning and Forgetting: Testing the Limits of Knowledge Tracing Models"
 created: "2026-09-03T15:00:00-04:00"
-updated: "2026-09-19T07:22:56-04:00"
+updated: "2026-10-28T00:58:16-04:00"
 type: article
 pedagogy: [cognitive-psychology]
 technology: [intelligent-tutoring, knowledge-tracing, learning-analytics, machine-learning, student-modeling]
@@ -12,7 +12,7 @@ audience: [researchers, learning analytics designers, instructional designers]
 page_kind: [evaluation, framework]
 ---
 
-> **Synthesis:** **Capturing Session-to-Session Dynamics of Learning and Forgetting: Testing the Limits of Knowledge Tracing Models** — Using longitudinal lab data from a successive-relearning study (Rawson et al., 2018), Schuetze, Yan, and Carvalho test whether popular [[knowledge-tracing]] models — Bayesian Knowledge Tracing, Bayesian Knowledge Tracing with Forgetting, and the Additive Factors Model — actually capture human memory and learning processes across sessions. When fit retrospectively to all sessions, the models appear to capture learning trends; but under time-based cross-validation (predicting future sessions from prior data, the realistic applied use), all of them overestimate performance, fail to account for the spacing effect, and mis-order the relative benefits of practice conditions. The authors argue this stems from a misalignment between how student models are validated and how they are deployed, calling for use- and cognitive-based validation via time-based cross-validation in [[student-modeling]] research.
+> **Synthesis:** **Capturing Session-to-Session Dynamics of Learning and Forgetting: Testing the Limits of Knowledge Tracing Models** — Using longitudinal lab data from a successive-relearning study (Rawson et al., 2018), Schuetze, Yan, and Carvalho test whether popular [[knowledge-tracing]] models — Bayesian Knowledge Tracing, Bayesian Knowledge Tracing with Forgetting, and the Additive Factors Model — actually capture human memory and learning processes across sessions. When fit retrospectively to all sessions, the models appear to capture learning trends; but under time-based cross-validation (predicting future sessions from prior data, the realistic applied use), all of them overestimate performance, fail to account for the [[retrieval-spacing-interleaving|spacing effect]], and mis-order the relative benefits of practice conditions. The authors argue this stems from a misalignment between how student models are validated and how they are deployed, calling for use- and cognitive-based validation via time-based cross-validation in [[student-modeling]] research.
 
 ## Key Findings
 

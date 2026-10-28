@@ -1,7 +1,7 @@
 ---
 title: "Make or Take: How Students Navigate Self-Created and Instructor-Provided Cheat Sheets"
 created: "2026-07-28T04:33:04-04:00"
-updated: "2026-09-20T03:45:11-04:00"
+updated: "2026-10-28T00:58:16-04:00"
 type: article
 pedagogy: [metacognition, self-regulated-learning]
 assessment: [assessment]
@@ -19,7 +19,7 @@ audience: [instructors, assessment designers]
 
 - Across three exams in the course, students' make-vs-take preferences were dynamic, not fixed: the balance between self-created and instructor-provided sheets shifted over time as students learned what actually helped them.
 - The decision was driven by three recurring factors — trust in the instructor's curation, the desire for a personalized sheet, and the efficiency of preparation — meaning the "take" choice is often an effort/trust trade-off rather than pure preference.
-- Constructing a cheat sheet operated as an active, generative study strategy (selection, condensation, organization), linking the choice directly to metacognitive and self-regulated learning rather than mere logistics.
+- Constructing a cheat sheet operated as an active, [[retrieval-spacing-interleaving|generative study strategy]] (selection, condensation, organization), linking the choice directly to metacognitive and self-regulated learning rather than mere logistics.
 - The findings reframe exam policy: whether a student makes or takes a sheet shapes not just performance but the learning process itself, a tension that mirrors AI-driven [[cognitive-offloading|cognitive offloading]].
 
 ## What this means for practice

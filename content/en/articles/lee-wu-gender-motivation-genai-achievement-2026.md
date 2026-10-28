@@ -1,7 +1,7 @@
 ---
 title: "Differential engagement with generative artificial intelligence in higher education: Gender, motivation, and achievement trajectories"
 created: "2026-08-23T14:00:00-04:00"
-updated: "2026-09-19T09:11:03-04:00"
+updated: "2026-10-28T00:58:16-04:00"
 type: article
 pedagogy: [motivation, self-regulated-learning, student-ai-interaction]
 technology: [generative-ai, personalized-learning, learning-analytics]
@@ -13,7 +13,7 @@ discipline: [math education]
 audience: [instructors, instructional designers, learning analytics designers]
 ---
 
-> **Synthesis:** This study of 97 graduate students and 2,819 queries to a [[conversational-ai|RAG-based GenAI chatbot]] (StatBot) for statistics learning reveals that [[student-engagement|engagement]] with [[generative-ai|GenAI]] is strongly differentiated across learner subpopulations. More than one-quarter of students never used the [[conversational-ai|chatbot]]; female students, those with stronger autonomous [[motivation]], lower [[prior-knowledge|prior knowledge]], and higher course performance interacted more frequently. Using zero-inflated negative binomial modeling and k-means achievement profiling, the authors show that "Growing Achievers" posed more diverse, conceptually oriented questions, while "Declining Performers" engaged minimally with narrow procedural inquiries. The authors argue that effective AI integration requires moving beyond uniform access toward [[scaffolding]] concept-focused support that prioritizes autonomous motivation and shared human-AI agency.
+> **Synthesis:** This study of 97 graduate students and 2,819 queries to a [[rag|RAG-based]] [[conversational-ai|GenAI chatbot]] (StatBot) for statistics learning reveals that [[student-engagement|engagement]] with [[generative-ai|GenAI]] is strongly differentiated across learner subpopulations. More than one-quarter of students never used the [[conversational-ai|chatbot]]; female students, those with stronger autonomous [[motivation]], lower [[prior-knowledge|prior knowledge]], and higher course performance interacted more frequently. Using zero-inflated negative binomial modeling and k-means achievement profiling, the authors show that "Growing Achievers" posed more diverse, conceptually oriented questions, while "Declining Performers" engaged minimally with narrow procedural inquiries. The authors argue that effective AI integration requires moving beyond uniform access toward [[scaffolding]] concept-focused support that prioritizes autonomous motivation and shared human-AI agency.
 
 ## Core Finding
 

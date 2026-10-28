@@ -1,7 +1,7 @@
 ---
 title: Retrieval-Augmented Tutoring for Algorithm Tracing and Problem-Solving in AI Education
 created: "2026-05-16T04:33:04-04:00"
-updated: "2026-09-16T15:47:46-04:00"
+updated: "2026-10-28T00:58:16-04:00"
 type: article
 pedagogy: [scaffolding, socratic-method]
 technology: [conversational-ai, generative-ai, intelligent-tutoring, llm, personalized-learning, rag]
@@ -15,7 +15,7 @@ audience: [instructors, instructional designers, software developers]
 page_kind: [evaluation]
 ---
 
-> **Synthesis:** KITE (Knowledge-Informed Tutoring Engine) introduces a [[intelligent-tutoring]] architecture that grounds its responses in course materials through a [[multimodal]] [[scaffolding|RAG pipeline]]. Unlike generic [[llm]] tutors that may drift from [[curriculum-design|curriculum]] content, KITE retrieves relevant material — lecture slides, problem sets, code examples — before generating Socratic hints, guiding questions, and progressive scaffolds tailored to the student's current error.
+> **Synthesis:** KITE (Knowledge-Informed Tutoring Engine) introduces a [[intelligent-tutoring]] architecture that grounds its responses in course materials through a [[multimodal]] [[rag|RAG pipeline]]. Unlike generic [[llm]] tutors that may drift from [[curriculum-design|curriculum]] content, KITE retrieves relevant material — lecture slides, problem sets, code examples — before generating Socratic hints, guiding questions, and progressive scaffolds tailored to the student's current error.
 > The system's intent-aware Socratic response strategy builds on [[socratic-method]] principles but operationalizes them through retrieval: rather than relying on the model's parametric knowledge of how to tutor, KITE anchors every response in authoritative course content. This design addresses a key gap identified in [[zerkouk-comprehensive-review-its-2025]] — that [[pedagogy|pedagogical]] quality alone is insufficient without content fidelity.
 > KITE was evaluated through three complementary lenses. RAGAs-based metrics confirmed response grounding and quality. Expert pedagogical review assessed the educational appropriateness of its Socratic scaffolding. Most innovatively, a simulated student pipeline — where a weaker LLM acts as a student across two-turn dialogues — measured whether KITE's [[formative-assessment|feedback]] actually improved follow-up accuracy on procedural and algorithm tracing questions. Results were positive: [[simulating-students|simulated students]] produced more accurate responses after receiving KITE feedback, particularly on tracing tasks where step-by-step reasoning is critical.
 > This work contributes to the growing literature on [[nie-personavlm-long-term-personalization-2026|LLM-based student modeling]] by demonstrating that [[rag|retrieval-augmented]] tutoring can maintain both pedagogical and content fidelity. It also connects to [[programming-its]] [[research-methods-aied|research]] by targeting algorithmic reasoning specifically, and to [[personalized-learning]] through its adaptive response strategies. The simulated student evaluation approach offers a replicable, low-cost methodology that could accelerate tutor development cycles — a theme also explored in [[chen-teacharena-language-agents-realistic-teaching-2026]] for broader tutor evaluation.

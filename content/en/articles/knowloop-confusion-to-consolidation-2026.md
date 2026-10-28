@@ -1,7 +1,7 @@
 ---
 title: "From Confusion to Consolidation: A Staged Conversational Workflow for Post-Lecture Review"
 created: "2026-08-06T04:33:04-04:00"
-updated: "2026-09-19T11:14:39-04:00"
+updated: "2026-10-28T00:58:26-04:00"
 type: article
 foundations: [agentic-ai]
 pedagogy: [learning-by-teaching, scaffolding]
@@ -53,7 +53,7 @@ The Consolidate stage consistently exposed gaps between what learners believed t
 ## Limitations
 
 - The user study had 22 participants, all with [[stem-education|STEM]] backgrounds and low [[prior-knowledge|prior knowledge]] of the material, working through a single 18-minute introductory [[reinforcement-learning|reinforcement learning]] lecture — the authors call generalizability limited.
-- Only short-term review interactions were studied; no long-term learning outcomes were measured, so retention effects are unknown.
+- Only short-term review interactions were studied; no long-term learning outcomes were measured, so [[retrieval-spacing-interleaving|retention effects]] are unknown.
 - This is an exploratory qualitative experience study, not a controlled comparison against a no-AI condition or a general-purpose chatbot.
 - Individual differences in metacognitive ability were not assessed, though the authors expect them to shape confusion-marking behavior and workflow engagement.
 

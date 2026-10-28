@@ -1,7 +1,7 @@
 ---
 title: Simulating Learners' Task-Selection Strategies and System Constraints in Mastery Learning
 created: "2026-05-22T04:33:04-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-10-28T00:58:16-04:00"
 type: article
 foundations: [agency]
 pedagogy: [mastery-learning, student-engagement]
@@ -20,7 +20,7 @@ confidence: high
 
 Mastery learning is a promise about competence: a learner advances only after demonstrating they know a prerequisite. [[intelligent-tutoring|Intelligent tutoring systems]] operationalize it with performance-based criteria, and the cost is cumulative and easy to miss. Because a multi-step problem exercises several skills at once — the equation problems in this study average 5.67 skills each, the graph problems 8.57 — a problem chosen to practice one already-mastered skill drags redundant practice of others along with it. The paper calls the resulting waste **overpractice**: time on task that produces no proportional learning.
 
-Set against that, ITS increasingly hand learners shared control over what to practice next. The motivation is well established, drawing on [[self-determination-theory|self-determination theory]] and supported by documented gains in [[student-engagement|engagement]], perceived autonomy, [[metacognition|metacognitive]] reflection and persistence. But prior research also shows that learners adopt a diversity of strategies — targeting their strengths, targeting their weaknesses, interleaving across skills, or blocking on one skill until it is done — and that some of these choices delay progression systematically. A choice architecture that is good for autonomy in general therefore need not be good for efficiency in particular.
+Set against that, ITS increasingly hand learners shared control over what to practice next. The motivation is well established, drawing on [[self-determination-theory|self-determination theory]] and supported by documented gains in [[student-engagement|engagement]], perceived autonomy, [[metacognition|metacognitive]] reflection and persistence. But prior research also shows that learners adopt a diversity of strategies — targeting their strengths, targeting their weaknesses, [[retrieval-spacing-interleaving|interleaving]] across skills, or blocking on one skill until it is done — and that some of these choices delay progression systematically. A choice architecture that is good for autonomy in general therefore need not be good for efficiency in particular.
 
 The awkward question is what to do about that, and the authors note it is expensive to answer the obvious way. Testing corrective constraints in real classrooms is slow, risks exposing students to worse conditions, and requires re-running an intervention per constraint. So the paper substitutes [[simulation|simulation instead of live deployment]]: fit learner models to real interaction logs, let simulated learners make the same choices real ones make, and watch which strategies and constraints produce waste. The framing question is deliberately two-sided — how do different task-selection strategies affect mastery-based efficiency, and can system constraints repair the damage without harming the learners who were already fine?
 

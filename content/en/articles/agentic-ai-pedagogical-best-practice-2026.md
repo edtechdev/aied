@@ -1,7 +1,7 @@
 ---
 title: "Agentic AI and Pedagogical Best Practice: The Tension Between Automation and Learning"
 created: "2026-08-03T04:33:04-04:00"
-updated: "2026-09-19T07:42:07-04:00"
+updated: "2026-10-28T00:58:16-04:00"
 type: article
 foundations: [agentic-ai]
 pedagogy: [desirable-difficulties, learning-theories, metacognition, scaffolding, sociocultural-learning]
@@ -23,7 +23,7 @@ Agentic systems, operating within the broader digital ecosystem of an educationa
 
 | Principle | Agentic-AI risk |
 |---|---|
-| [[prior-knowledge|Prior knowledge activation]] | Agents pre-fetching content bypass the retrieval practice that activates prior knowledge; algorithmic generalizations may also misjudge what a learner knows |
+| [[prior-knowledge|Prior knowledge activation]] | Agents pre-fetching content bypass the [[retrieval-spacing-interleaving|retrieval practice]] that activates prior knowledge; algorithmic generalizations may also misjudge what a learner knows |
 | [[collaborative-learning]] | Agent initiative crowds out peer negotiation and role-taking |
 | [[problem-based-learning]] | Goal-directed agents resolve problems before learners grapple with them |
 | [[formative-assessment]] | Agent-generated [[feedback]] pre-empts learners' own [[self-assessment]] loops |

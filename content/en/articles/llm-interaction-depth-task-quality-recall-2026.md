@@ -1,7 +1,7 @@
 ---
 title: "What Students Ask Matters: LLM Interaction Depth, Task Quality, and Immediate Recall in Higher Education"
 created: "2026-08-30T16:50:00-04:00"
-updated: "2026-09-19T08:33:23-04:00"
+updated: "2026-10-28T00:58:16-04:00"
 type: article
 foundations: [cognitive-offloading]
 pedagogy: [metacognition, self-regulated-learning]
@@ -15,7 +15,7 @@ audience: [instructors, researchers, instructional designers]
 page_kind: [evaluation]
 ---
 
-> **Synthesis:** Tsiligkiris (2026) examines how the *depth* of students' [[llm]] interaction relates to task quality and immediate recall. In a controlled session, 22 postgraduate students completed a pre-test, an LLM-assisted neuroeconomics case task, and an immediate post-test, with fine-grained interaction logs capturing Depth (proportion of "why/how/explain" prompts), Volume, and Pacing. Students showed large immediate learning gains (Cohen's dz = 2.12), and interaction *depth* was positively associated with independently marked task quality (β = 6.27) — what students ask matters more than how much they ask. However, depth was *not* associated with immediate recall; gain scores were driven by baseline knowledge. This dissociation between performance quality and short-term recall aligns with the distinction between elaboration-driven comprehension and retrieval-driven consolidation.
+> **Synthesis:** Tsiligkiris (2026) examines how the *depth* of students' [[llm]] interaction relates to task quality and immediate recall. In a controlled session, 22 postgraduate students completed a pre-test, an LLM-assisted neuroeconomics case task, and an immediate post-test, with fine-grained interaction logs capturing Depth (proportion of "why/how/explain" prompts), Volume, and Pacing. Students showed large immediate learning gains (Cohen's dz = 2.12), and interaction *depth* was positively associated with independently marked task quality (β = 6.27) — what students ask matters more than how much they ask. However, depth was *not* associated with immediate recall; gain scores were driven by baseline knowledge. This dissociation between performance quality and short-term recall aligns with the distinction between elaboration-driven comprehension and [[retrieval-spacing-interleaving|retrieval-driven]] consolidation.
 
 ## Key Findings
 
