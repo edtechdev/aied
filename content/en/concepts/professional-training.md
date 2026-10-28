@@ -2,7 +2,7 @@
 connected_resources: [master-instructional-design]
 title: Workplace Learning
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-28T15:48:01-04:00"
+updated: "2026-10-28T16:44:25-04:00"
 type: concept
 foundations: [ai-literacy, educational-development]
 technology: [generative-ai, llm, simulation]
@@ -41,6 +41,7 @@ reviewed_by: [editor]
 - **Workforce forecasting:** [[ai-engineering-computing-workforce-grey-literature-2026|Fletcher et al.]] review U.S. gray literature on AI and the engineering/computing workforce, framing the "Dual Train Problem" (rapid change vs. urgent policy) and recommending that [[higher-ed|higher education]] prioritize durable AI competencies, [[ethics]] and [[governance]], and skill-based credentials aligned with emerging roles (e.g., [[prompt-engineering]], AI auditing, [[educational-policy-ai|AI policy]]) to sustain human-centered work in an automated economy.
 - **Skill-sustaining designs lose under throughput metrics.** [[skill-sustaining-reliance-reflective-ai-engagement-2026|de Jong (2026)]] argues that reflective interaction contradicts the faster-decisions, higher-throughput promise driving AI adoption in professional work: a controlled study can absorb the friction, an environment measuring performance by speed or quantity cannot, and where rivals offer equivalent support without friction, skill-sustaining designs become a competitive disadvantage — a problem the paper says may belong to organizational policy or government rather than interaction design.
 - **Oral assessment for workplace capability.** A TVET design study addresses a long-standing mismatch between text-heavy assessment and the verbal, situational capabilities that professional qualifications certify, using an [[llm]] to support interactive oral assessment. Across four cohorts the voice format was rated realistic by 21 of 33 learners with no dissenting response on its advantage over a written [[eportfolio|portfolio]], and the system ran fully offline on one laptop for up to 12 simultaneous learners, deleting recordings after 90 days and leaving scoring to assessors ([[ai-supported-oral-assessment-tvet-2026]]). It is a concrete example of AI widening the range of assessable competence in professional-training rather than only automating existing written formats. Its cohorts, though, were Level 3 automotive and engineering classes, so the evidence sits in [[vocational-education|initial vocational provision]] rather than in the workplace upskilling this page covers.
+- **The meeting is where understanding becomes assessable.** When a generative tool drafts the analysis, a polished research update no longer shows whether a trainee understands the work, so [[prunuske-cognitive-windows-research-meetings-2026|Prunuske and Adams-Phillips (2026)]] propose three diagnostic windows for research meetings (metacognitive calibration, conceptual explanation, collaborative sensemaking) with prompts that surface what a summary left out.
 
 - **Institutional conditions, not national context, explain readiness gaps.** A comparative survey of 568 university faculty in
   Chinese (n = 340) and Kazakhstani (n = 228) faculty development centers ([[faculty-development-centers-genai-training-optimization-2026|Bi, Araily, Lyu & Xiu, 2026]])
@@ -91,6 +92,7 @@ Professional training differs from academic education in its focus on applied sk
 - [[virtual-and-augmented-reality]] — where immersive practice is most established
 
 ## Connected Articles
+- [[prunuske-cognitive-windows-research-meetings-2026]] — Moving research meetings from data updates to cognitive windows in the age of artificial intelligence
 - [[ai-engineering-computing-workforce-grey-literature-2026]] — AI and the Future of the Engineering and Computing Workforce
 - [[workforce-readiness-smart-manufacturing-wrl-2026]] — Workforce Readiness Level framework for smart manufacturing in the AI era
 - [[crewscaler-ai-upskilling-framework]]
