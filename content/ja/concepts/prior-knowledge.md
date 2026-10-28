@@ -1,14 +1,14 @@
 ---
 title: 既有知識（前提知識）
 created: "2026-08-22T01:20:00-04:00"
-updated: "2026-10-10T22:47:30-04:00"
+updated: "2026-10-28T01:09:26-04:00"
 type: concept
 foundations: [learning-design]
 pedagogy: [constructivist, learning-theories, metacognition, prior-knowledge, scaffolding]
 technology: [personalized-learning, student-modeling]
 confidence: high
 translation_of: concepts/prior-knowledge
-source_updated: "2026-10-01T18:49:55-04:00"
+source_updated: "2026-10-28T01:09:26-04:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -42,7 +42,7 @@ ai_assist:
 - **それは必ずしも、学習を駆動する作業を誰が行うかを予測しない。** 23 名の中学校のチューターによる 5 日間の「教えることで学ぶ」研究では、事前テストの得点はチューターが生み出した知識構成的応答の割合を予測せず、知識を構築した既有知識の低いチューターは、統計的に既有知識の高い同僚と同等の成績で終わりました（[[knowledge-building-tutor-learning-2026|Ameen ら, 2026]]）。
 - **それは解釈を形づくる。** 学習者は、既に信じていることを通じて新しい情報を解釈します。それらの信念が誤っているとき（[[misconceptions|誤概念]]）、既有知識は学習に*妨げになる*ことがあり、だからこそ教授は中立的な出発点を仮定するのではなく、誤概念を表面化させ対処しなければなりません。
 - **それは学生モデリングを駆動する。** パーソナライズするために、AI システムは学習者の既有知識の状態を推定しなければなりません。これは[[knowledge-tracing|知識追跡]]、学生モデリング、そして適応的な[[scaffolding|足場かけ]]の基盤です。これらの推定の質が、適応が本当に助けになるのか、それとも誤解を招くのかを決めます。
-- **知識の内容が、どの過程の練習を動員するかを決める。** 学習が記憶に懸かっているのか、それとも帰納に懸かっているのかは、対象の既有知識構造によって決まります。[[rachatasumrit-example-problem-ratio-2026|Rachatasumrit, Koedinger & Carvalho（2025）]]は、[[learning-theories|KLI]]枠組みに従い、条件と反応が一定の知識要素（事実。記憶と検索練習によって獲得される）と、条件と反応が変動する知識要素（スキル。帰納と新奇の入力への一般化によって獲得される）とを区別します。だからこそ、作例と練習の最適な配合は、事実の内容とスキルの内容とで異なるのです。
+- **知識の内容が、どの過程の練習を動員するかを決める。** 学習が記憶に懸かっているのか、それとも帰納に懸かっているのかは、対象の既有知識構造によって決まります。[[rachatasumrit-example-problem-ratio-2026|Rachatasumrit, Koedinger & Carvalho（2025）]]は、KLI枠組みに従い、条件と反応が一定の知識要素（事実。記憶と検索練習によって獲得される）と、条件と反応が変動する知識要素（スキル。帰納と新奇の入力への一般化によって獲得される）とを区別します。だからこそ、作例と練習の最適な配合は、事実の内容とスキルの内容とで異なるのです。
 
 ## AI 時代における既有知識
 

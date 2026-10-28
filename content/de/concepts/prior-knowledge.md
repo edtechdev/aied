@@ -1,14 +1,14 @@
 ---
 title: Vorwissen
 created: "2026-08-22T01:20:00-04:00"
-updated: "2026-10-24T22:31:15-04:00"
+updated: "2026-10-28T01:09:26-04:00"
 type: concept
 foundations: [learning-design]
 pedagogy: [constructivist, learning-theories, metacognition, prior-knowledge, scaffolding]
 technology: [personalized-learning, student-modeling]
 confidence: high
 translation_of: concepts/prior-knowledge
-source_updated: "2026-10-01T18:49:55-04:00"
+source_updated: "2026-10-28T01:09:26-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -42,7 +42,7 @@ Vorwissensaktivierung ist einer der robustesten Befunde in den [[learning-scienc
 - **Es sagt nicht immer vorher, wer die Arbeit tut, die Lernen treibt.** In einer fünftägigen Lernen-durch-Lehren-Studie mit 23 Mittelstufentutorinnen und -tutoren sagten vorherige Testergebnisse nicht den Anteil wissensaufbauender Antworten vorher, die eine Tutorin oder ein Tutor produzierte, und Tutorinnen und Tutoren mit geringem Vorwissen, die Wissen aufbauten, endeten statistisch auf Niveau mit Peers mit hohem Vorwissen ([[knowledge-building-tutor-learning-2026|Ameen et al., 2026]]).
 - **Es prägt Interpretation.** Lernende interpretieren neue Informationen durch das, was sie bereits glauben. Wenn diese Überzeugungen falsch sind ([[misconceptions|Missverständnisse]]), kann Vorwissen mit Lernen *interferieren*, weshalb Instruktion Missverständnisse aufdecken und adressieren muss, statt einen neutralen Startpunkt anzunehmen.
 - **Es treibt Lernendenmodellierung.** Um zu personalisieren, muss ein KI-System den Vorwissensstand der lernenden Person schätzen —, die Basis von [[knowledge-tracing|Knowledge Tracing]], Lernendenmodellierung und adaptivem [[scaffolding|Gerüstbau]]. Die Qualität dieser Schätzungen bestimmt, ob Anpassung echt hilfreich oder irreführend ist.
-- **Wissensinhalt bestimmt, welcher Prozess durch Übung rekrutiert wird.** Ob Lernen an Gedächtnis oder an Induktion hängt, wird durch die Vorwissensstruktur des Ziels gesetzt: [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit, Koedinger & Carvalho (2025)]] folgen dem [[learning-theories|KLI]]-Rahmenwerk in der Unterscheidung von Wissenskomponenten mit konstanten Bedingungen und Reaktionen (Fakten, erworben durch Gedächtnis und Abrufübung) von jenen mit variablen Bedingungen und Reaktionen (Fähigkeiten, erworben durch Induktion und Generalisierung auf neue Inputs) —, weshalb sich die optimale Mischung aus ausgearbeiteten Beispielen und Übung für Fakteninhalt vs. Fähigkeitsinhalt unterscheidet.
+- **Wissensinhalt bestimmt, welcher Prozess durch Übung rekrutiert wird.** Ob Lernen an Gedächtnis oder an Induktion hängt, wird durch die Vorwissensstruktur des Ziels gesetzt: [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit, Koedinger & Carvalho (2025)]] folgen dem KLI-Rahmenwerk in der Unterscheidung von Wissenskomponenten mit konstanten Bedingungen und Reaktionen (Fakten, erworben durch Gedächtnis und Abrufübung) von jenen mit variablen Bedingungen und Reaktionen (Fähigkeiten, erworben durch Induktion und Generalisierung auf neue Inputs) —, weshalb sich die optimale Mischung aus ausgearbeiteten Beispielen und Übung für Fakteninhalt vs. Fähigkeitsinhalt unterscheidet.
 
 ## Vorwissen im KI-Zeitalter
 

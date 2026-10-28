@@ -8,7 +8,7 @@ technology: [personalized-learning, student-modeling]
 confidence: high
 reviewed_by: [editor]
 translation_of: concepts/prior-knowledge
-source_updated: "2026-10-01T18:49:55-04:00"
+source_updated: "2026-10-28T01:09:26-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -42,7 +42,7 @@ L'attivazione delle conoscenze pregresse è uno dei risultati più robusti delle
 - **Non sempre predice chi svolge il lavoro che guida l'apprendimento.** In uno studio di cinque giorni sull'apprendimento mediante insegnamento con 23 tutor di scuola media, i punteggi precedenti al test non hanno predetto la quota di risposte di costruzione della conoscenza prodotta da un tutor, e i tutor con conoscenze pregresse basse che costruivano conoscenza hanno concluso a livello statisticamente pari ai compagni con conoscenze pregresse alte ([[knowledge-building-tutor-learning-2026|Ameen et al., 2026]]).
 - **Modella l'interpretazione.** Gli studenti interpretano le nuove informazioni attraverso ciò che già credono. Quando quelle convinzioni sono sbagliate ([[misconceptions|misconcepimenti]]), le conoscenze pregresse possono *interferire* con l'apprendimento, ed è per questo che l'istruzione deve portare alla luce e affrontare i misconcepimenti anziché assumere un punto di partenza neutro.
 - **Guida la modellazione dello studente.** Per personalizzare, un sistema di IA deve stimare lo stato di conoscenze pregresse dello studente — la base del [[knowledge-tracing|tracciamento della conoscenza]], della modellazione dello studente e dello [[scaffolding|scaffolding]] adattivo. La qualità di queste stime determina se l'adattamento è genuinamente utile o fuorviante.
-- **Il contenuto della conoscenza determina quale pratica di processo viene reclutata.** Se l'apprendimento si regge sulla memoria o sull'induzione è stabilito dalla struttura di conoscenze pregresse dell'obiettivo: [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit, Koedinger & Carvalho (2025)]] seguono il framework [[learning-theories|KLI]] nel distinguere componenti di conoscenza con condizioni e risposte costanti (fatti, acquisiti attraverso memoria e pratica di recupero) da quelle con condizioni e risposte variabili (abilità, acquisite attraverso induzione e generalizzazione a input nuovi) — ed è per questo che il mix ottimale di esempi svolti e pratica differisce per i contenuti di fatto rispetto ai contenuti di abilità.
+- **Il contenuto della conoscenza determina quale pratica di processo viene reclutata.** Se l'apprendimento si regge sulla memoria o sull'induzione è stabilito dalla struttura di conoscenze pregresse dell'obiettivo: [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit, Koedinger & Carvalho (2025)]] seguono il framework KLI nel distinguere componenti di conoscenza con condizioni e risposte costanti (fatti, acquisiti attraverso memoria e pratica di recupero) da quelle con condizioni e risposte variabili (abilità, acquisite attraverso induzione e generalizzazione a input nuovi) — ed è per questo che il mix ottimale di esempi svolti e pratica differisce per i contenuti di fatto rispetto ai contenuti di abilità.
 
 ## Conoscenze pregresse nell'era dell'IA
 

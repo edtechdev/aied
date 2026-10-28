@@ -8,7 +8,7 @@ technology: [personalized-learning, student-modeling]
 confidence: high
 reviewed_by: [editor]
 translation_of: concepts/prior-knowledge
-source_updated: "2026-10-01T18:49:55-04:00"
+source_updated: "2026-10-28T01:09:26-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -42,7 +42,7 @@ Uwashi wa maarifa ya awali ni mojawapo ya matokeo yenye uthabiti zaidi katika [[
 - **Haitabiri siku zote ni nani anayefanya kazi inayoendesha kujifunza.** Katika somo la siku tano la kujifunza kwa kufundisha lenye waelimishaji 23 wa shule ya kati, alama za awali za majaribio hazikutabiri sehemu ya majibu ya kujenga maarifa ambayo mwalimu alitoa, na waelimishaji wenye maarifa madogo ya awali ambao walijenga maarifa walimaliza kiwango sawa kitaalamu na wenzao wenye maarifa makubwa ya awali ([[knowledge-building-tutor-learning-2026|Ameen et al., 2026]]).
 - **Inaunda tafsiri.** Wanafunzi hutafsiri habari mpya kupitia wanachokiamini tayari. Wakati imani hizo ni za kosa ([[misconceptions]]), maarifa ya awali yanaweza *kuzuia* kujifunza, ambayo ni kwa nini mafunzo lazima yawashe na yashughulikie dhanapotofu badala ya kudhania sehemu ya kuanzia isiyo na upendeleo.
 - **Inaendesha uundaji wa mifano ya wanafunzi.** Ili kubinafsisha, mfumo wa AI lazima ukadirie hali ya maarifa ya awali ya mwanafunzi — msingi wa [[knowledge-tracing]], uundaji wa mifano ya wanafunzi, na [[scaffolding]] zinazobadilika. Ubora wa makadirio haya huamua iwapo mabadiliko ni ya kusaidia kweli au ya kupotosha.
-- **Maudhui ya maarifa huamua ni mchakato upi wa mazoezi unaovutiwa.** Kama kujifunza hutegemea kumbukumbu au induksioni huwekwa na muundo wa maarifa ya awali wa lengo: [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit, Koedinger & Carvalho (2025)]] wanafuata mfumo wa [[learning-theories|KLI]] katika kutofautisha vipengele vya maarifa vyenye masharti na majibu ya kudumu (ukweli, vinavyopatikana kupitia kumbukumbu na mazoezi ya kukumbuka) na vile vyenye masharti na majibu yanayobadilika (ujuzi, vinavyopatikana kupitia induksioni na ujumuishaji kwa viingizo vipya) — ambayo ni kwa nini mchanganyiko bora wa mifano iliyofanyiwa kazi na mazoezi hutofautiana kwa maudhui ya ukweli dhidi ya maudhui ya ujuzi.
+- **Maudhui ya maarifa huamua ni mchakato upi wa mazoezi unaovutiwa.** Kama kujifunza hutegemea kumbukumbu au induksioni huwekwa na muundo wa maarifa ya awali wa lengo: [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit, Koedinger & Carvalho (2025)]] wanafuata mfumo wa KLI katika kutofautisha vipengele vya maarifa vyenye masharti na majibu ya kudumu (ukweli, vinavyopatikana kupitia kumbukumbu na mazoezi ya kukumbuka) na vile vyenye masharti na majibu yanayobadilika (ujuzi, vinavyopatikana kupitia induksioni na ujumuishaji kwa viingizo vipya) — ambayo ni kwa nini mchanganyiko bora wa mifano iliyofanyiwa kazi na mazoezi hutofautiana kwa maudhui ya ukweli dhidi ya maudhui ya ujuzi.
 
 ## Maarifa ya awali katika zama za AI
 

@@ -8,7 +8,7 @@ technology: [personalized-learning, student-modeling]
 confidence: high
 reviewed_by: [editor]
 translation_of: concepts/prior-knowledge
-source_updated: "2026-10-01T18:49:55-04:00"
+source_updated: "2026-10-28T01:09:26-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -42,7 +42,7 @@ ai_assist:
 - **Öğrenmeyi yürüten işi kimin yaptığını her zaman tahmin etmez.** 23 ortaokul öğretmeniyle yapılan beş günlük bir öğreterek-öğrenme çalışmasında, önceki test puanları bir öğretmenin ürettiği bilgi kurma yanıtlarının payını tahmin etmedi ve bilgi kuran düşük önceki bilgili öğretmenler istatistiksel olarak yüksek önceki bilgili akranlarıyla aynı düzeyde tamamladı ([[knowledge-building-tutor-learning-2026|Ameen ve ark., 2026]]).
 - **Yorumu şekillendirir.** Öğrenenler yeni bilgiyi zaten inandıkları şey üzerinden yorumlar. Bu inançlar yanlış olduğunda ([[misconceptions]]), önceki bilgi öğrenmeyle *çatışabilir*; öğretimin nötr bir başlangıç noktası varsaymak yerine yanlış kanıları ortaya çıkarıp ele almasının nedeni budur.
 - **Öğrenen modellemesini yönlendirir.** Kişiselleştirmek için bir YZ sistemi, öğrencinin önceki bilgi durumunu tahmin etmek zorundadır — [[knowledge-tracing]], öğrenen modellemenin ve uyarlamalı [[scaffolding]] temeli budur. Bu tahminlerin kalitesi, uyarlamanın gerçekten yararlı mı yoksa yanıltıcı mı olacağını belirler.
-- **Bilgi içeriği, hangi süreç pratiğinin devreye girdiğini belirler.** Öğrenmenin belleğe mi yoksa tümevarıma mı dayandığı, hedefin önceki bilgi yapısıyla belirlenir: [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit, Koedinger & Carvalho (2025)]], [[learning-theories|KLI]] çerçevesini izleyerek sabit koşullu ve yanıtlı bilgi bileşenlerini (bellek ve geri çağırma pratiği yoluyla kazanılan olgular) değişken koşullu ve yanıtlı olanlardan (tümevarım ve yeni girdilere genelleme yoluyla kazanılan beceriler) ayırır — bu, çözümlenmiş örnekler ile pratiğin en uygun karışımının neden olgu içeriği ile beceri içeriği için farklılaştığının gerekçesidir.
+- **Bilgi içeriği, hangi süreç pratiğinin devreye girdiğini belirler.** Öğrenmenin belleğe mi yoksa tümevarıma mı dayandığı, hedefin önceki bilgi yapısıyla belirlenir: [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit, Koedinger & Carvalho (2025)]], KLI çerçevesini izleyerek sabit koşullu ve yanıtlı bilgi bileşenlerini (bellek ve geri çağırma pratiği yoluyla kazanılan olgular) değişken koşullu ve yanıtlı olanlardan (tümevarım ve yeni girdilere genelleme yoluyla kazanılan beceriler) ayırır — bu, çözümlenmiş örnekler ile pratiğin en uygun karışımının neden olgu içeriği ile beceri içeriği için farklılaştığının gerekçesidir.
 
 ## YZ çağında önceki bilgi
 

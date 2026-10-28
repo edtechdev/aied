@@ -1,14 +1,14 @@
 ---
 title: 사전 지식
 created: "2026-08-22T01:20:00-04:00"
-updated: "2026-10-01T18:49:55-04:00"
+updated: "2026-10-28T01:09:26-04:00"
 type: concept
 foundations: [learning-design]
 pedagogy: [constructivist, learning-theories, metacognition, prior-knowledge, scaffolding]
 technology: [personalized-learning, student-modeling]
 confidence: high
 translation_of: concepts/prior-knowledge
-source_updated: "2026-10-01T18:49:55-04:00"
+source_updated: "2026-10-28T01:09:26-04:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -42,7 +42,7 @@ ai_assist:
 - **사전 지식은 학습을 이끄는 일을 누가 하는지를 항상 예측하지는 않습니다.** 중학교 교사 23명을 대상으로 한 5일간의 러닝 바이 티칭(learning-by-teaching) 연구에서, 교사의 사전 시험 점수는 교사가 산출한 지식 구축 응답의 비율을 예측하지 못했으며, 지식을 구축한 사전 수준이 낮은 교사들은 사전 수준이 높은 또래들과 통계적으로 동등한 수준으로 마무리했습니다([[knowledge-building-tutor-learning-2026|Ameen et al., 2026]]).
 - **사전 지식은 해석의 틀을 만듭니다.** 학습자는 이미 믿고 있는 것을 통해 새로운 정보를 해석합니다. 그 믿음이 잘못되었을 때([[misconceptions]]), 사전 지식은 학습을 *방해*할 수 있으며, 이것이 수업이 중립적인 출발점을 가정하기보다 오개념을 드러내고 다루어야 하는 이유입니다.
 - **사전 지식은 학생 모델링을 이끕니다.** 개인화를 위해 AI 시스템은 학습자의 사전 지식 상태를 추정해야 합니다. 이것이 [[knowledge-tracing]], 학생 모델링, 적응적 [[scaffolding]]의 기반입니다. 이러한 추정의 질이 적응이 진정으로 도움이 되는지, 아니면 오도하는지를 결정합니다.
-- **지식의 내용이 어떤 과정 연습을 끌어들이는지를 결정합니다.** 학습이 기억에 달려 있는지 귀납에 달려 있는지는 목표가 되는 것의 사전 지식 구조에 의해 정해집니다. [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit, Koedinger & Carvalho (2025)]]는 [[learning-theories|KLI]] 틀에 따라 조건과 반응이 일정한 지식 요소(사실 — 기억과 인출 연습을 통해 습득됨)와 조건과 반응이 변하는 지식 요소(기술 — 귀납과 새로운 입력에 대한 일반화를 통해 습득됨)를 구분합니다. 이것이 사실 내용과 기술 내용에 대해 풀이 예시와 연습의 최적 배합이 다른 이유입니다.
+- **지식의 내용이 어떤 과정 연습을 끌어들이는지를 결정합니다.** 학습이 기억에 달려 있는지 귀납에 달려 있는지는 목표가 되는 것의 사전 지식 구조에 의해 정해집니다. [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit, Koedinger & Carvalho (2025)]]는 KLI 틀에 따라 조건과 반응이 일정한 지식 요소(사실 — 기억과 인출 연습을 통해 습득됨)와 조건과 반응이 변하는 지식 요소(기술 — 귀납과 새로운 입력에 대한 일반화를 통해 습득됨)를 구분합니다. 이것이 사실 내용과 기술 내용에 대해 풀이 예시와 연습의 최적 배합이 다른 이유입니다.
 
 ## AI 시대의 사전 지식
 

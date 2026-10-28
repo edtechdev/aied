@@ -1,14 +1,14 @@
 ---
 title: Conocimiento previo
 created: "2026-09-28T21:12:05-04:00"
-updated: "2026-10-26T22:02:40-04:00"
+updated: "2026-10-28T01:09:26-04:00"
 type: concept
 foundations: [learning-design]
 pedagogy: [constructivist, learning-theories, metacognition, prior-knowledge, scaffolding]
 technology: [personalized-learning, student-modeling]
 confidence: high
 translation_of: concepts/prior-knowledge
-source_updated: "2026-10-25T22:20:00-04:00"
+source_updated: "2026-10-28T01:09:26-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -42,7 +42,7 @@ La activación del conocimiento previo es uno de los hallazgos más sólidos de 
 - **No siempre predice quién hace el trabajo que impulsa el aprendizaje.** En un estudio de cinco días sobre aprender enseñando con 23 tutores de secundaria, las puntuaciones previas de las pruebas no predijeron la proporción de respuestas de construcción de conocimiento que produjo cada tutor, y los tutores con conocimiento previo bajo que construyeron conocimiento terminaron estadísticamente a la par de sus pares con conocimiento previo alto ([[knowledge-building-tutor-learning-2026|Ameen et al., 2026]]).
 - **Configura la interpretación.** Quien aprende interpreta la información nueva a través de lo que ya cree. Cuando esas creencias son erróneas ([[misconceptions|ideas erróneas]]), el conocimiento previo puede *interferir* con el aprendizaje, y por eso la enseñanza debe sacar a la luz y abordar las ideas erróneas en lugar de dar por supuesto un punto de partida neutro.
 - **Impulsa el modelado del estudiante.** Para personalizar, un sistema de IA debe estimar el estado de conocimiento previo de quien aprende: la base del [[knowledge-tracing|rastreo del conocimiento]], del modelado del estudiante y del [[scaffolding|andamiaje]] adaptativo. La calidad de esas estimaciones determina si la adaptación es genuinamente útil o engañosa.
-- **El contenido del conocimiento determina qué proceso recluta la práctica.** Que el aprendizaje dependa de la memoria o de la inducción lo fija la estructura de conocimiento previo del objetivo: [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit, Koedinger y Carvalho (2025)]] siguen el marco [[learning-theories|KLI]] al distinguir los componentes de conocimiento con condiciones y respuestas constantes (hechos, adquiridos mediante la memoria y la práctica de recuperación) de los que tienen condiciones y respuestas variables (habilidades, adquiridas mediante la inducción y la generalización a entradas nuevas), y por eso la mezcla óptima de ejemplos resueltos y práctica difiere entre el contenido de hechos y el de habilidades.
+- **El contenido del conocimiento determina qué proceso recluta la práctica.** Que el aprendizaje dependa de la memoria o de la inducción lo fija la estructura de conocimiento previo del objetivo: [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit, Koedinger y Carvalho (2025)]] siguen el marco KLI al distinguir los componentes de conocimiento con condiciones y respuestas constantes (hechos, adquiridos mediante la memoria y la práctica de recuperación) de los que tienen condiciones y respuestas variables (habilidades, adquiridas mediante la inducción y la generalización a entradas nuevas), y por eso la mezcla óptima de ejemplos resueltos y práctica difiere entre el contenido de hechos y el de habilidades.
 
 ## El conocimiento previo en la era de la IA
 

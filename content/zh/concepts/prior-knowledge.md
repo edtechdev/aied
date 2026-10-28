@@ -1,14 +1,14 @@
 ---
 title: 先备知识
 created: "2026-08-22T01:20:00-04:00"
-updated: "2026-10-09T18:39:20-04:00"
+updated: "2026-10-28T01:09:26-04:00"
 type: concept
 foundations: [learning-design]
 pedagogy: [constructivist, learning-theories, metacognition, prior-knowledge, scaffolding]
 technology: [personalized-learning, student-modeling]
 confidence: high
 translation_of: concepts/prior-knowledge
-source_updated: "2026-10-01T18:49:55-04:00"
+source_updated: "2026-10-28T01:09:26-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -42,7 +42,7 @@ ai_assist:
 - **它并不总能预测谁做了驱动学习的工作。** 在一项为期五天、23 名中学导师的“通过教学学习”研究中，先前的测验分数没有预测一位导师产出的知识建构回应的比例，且低先备导师只要建构了知识，就在统计上与高先备同伴持平（[[knowledge-building-tutor-learning-2026|Ameen et al., 2026]]）。
 - **它塑造解释。** 学习者通过他们已经相信的东西解释新信息。当那些信念是错的（[[misconceptions]]），先备知识可能*干扰* 学习，这就是为什么教学必须浮现并处理误解，而不是假定一个中性的起点。
 - **它驱动学生建模。** 要个性化，一个人工智能系统必须估计学习者的先备知识状态 —— 这是 [[knowledge-tracing]]、学生建模与自适应 [[scaffolding]] 的基础。这些估计的质量决定适配是真正有帮助还是误导。
-- **知识内容决定招募哪种过程练习。** 学习依赖于记忆还是归纳，由目标对象的先备知识结构设定：[[rachatasumrit-example-problem-ratio-2026|Rachatasumrit, Koedinger & Carvalho (2025)]] 遵循 [[learning-theories|KLI]] 框架，区分条件与回应恒定的知识成分（事实，通过记忆与检索练习获得）与条件与回应可变的知识成分（技能，通过归纳与向新输入泛化获得） —— 这就是为什么范例与练习的最优混合，对事实内容与对技能内容会不同。
+- **知识内容决定招募哪种过程练习。** 学习依赖于记忆还是归纳，由目标对象的先备知识结构设定：[[rachatasumrit-example-problem-ratio-2026|Rachatasumrit, Koedinger & Carvalho (2025)]] 遵循 KLI 框架，区分条件与回应恒定的知识成分（事实，通过记忆与检索练习获得）与条件与回应可变的知识成分（技能，通过归纳与向新输入泛化获得） —— 这就是为什么范例与练习的最优混合，对事实内容与对技能内容会不同。
 
 ## 人工智能时代的先备知识
 

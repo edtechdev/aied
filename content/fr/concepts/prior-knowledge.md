@@ -1,14 +1,14 @@
 ---
 title: Connaissances antérieures
 created: "2026-08-22T01:20:00-04:00"
-updated: "2026-10-10T03:24:46-04:00"
+updated: "2026-10-28T01:09:26-04:00"
 type: concept
 foundations: [learning-design]
 pedagogy: [constructivist, learning-theories, metacognition, prior-knowledge, scaffolding]
 technology: [personalized-learning, student-modeling]
 confidence: high
 translation_of: concepts/prior-knowledge
-source_updated: "2026-10-01T18:49:55-04:00"
+source_updated: "2026-10-28T01:09:26-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -42,7 +42,7 @@ L'activation des connaissances antérieures est l'un des résultats les plus rob
 - **Elles ne prédisent pas toujours qui accomplit le travail qui produit l'apprentissage.** Dans une étude de cinq jours sur l'apprentissage par l'enseignement auprès de 23 tuteurs de collège, les scores aux tests antérieurs n'ont pas prédit la part de réponses de construction de connaissances qu'un tuteur produisait, et les tuteurs à faibles connaissances antérieures qui construisaient des connaissances ont fini statistiquement au niveau de leurs pairs à fortes connaissances antérieures ([[knowledge-building-tutor-learning-2026|Ameen et al., 2026]]).
 - **Elles façonnent l'interprétation.** Les apprenants interprètent l'information nouvelle à travers ce qu'ils croient déjà. Lorsque ces croyances sont fausses ([[misconceptions]]), les connaissances antérieures peuvent *interférer* avec l'apprentissage, ce qui explique pourquoi l'enseignement doit faire émerger et traiter les idées fausses plutôt que de présupposer un point de départ neutre.
 - **Elles animent la modélisation de l'étudiant.** Pour personnaliser, un système d'IA doit estimer l'état de connaissances antérieures de l'apprenant — le fondement du [[knowledge-tracing|traçage des connaissances]], de la modélisation de l'étudiant et du [[scaffolding]] adaptatif. La qualité de ces estimations détermine si l'adaptation est véritablement utile ou trompeuse.
-- **Le contenu de connaissance détermine quel processus la pratique recrute.** Le fait que l'apprentissage repose sur la mémoire ou sur l'induction est fixé par la structure de connaissances antérieures de la cible : [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit, Koedinger et Carvalho (2025)]] suivent le cadre [[learning-theories|KLI]] pour distinguer les composants de connaissance à conditions et réponses constantes (les faits, acquis par la mémoire et la pratique de récupération) de ceux à conditions et réponses variables (les compétences, acquises par l'induction et la généralisation à des entrées nouvelles) — ce qui explique pourquoi le dosage optimal d'exemples résolus et de pratique diffère entre contenu factuel et contenu de compétence.
+- **Le contenu de connaissance détermine quel processus la pratique recrute.** Le fait que l'apprentissage repose sur la mémoire ou sur l'induction est fixé par la structure de connaissances antérieures de la cible : [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit, Koedinger et Carvalho (2025)]] suivent le cadre KLI pour distinguer les composants de connaissance à conditions et réponses constantes (les faits, acquis par la mémoire et la pratique de récupération) de ceux à conditions et réponses variables (les compétences, acquises par l'induction et la généralisation à des entrées nouvelles) — ce qui explique pourquoi le dosage optimal d'exemples résolus et de pratique diffère entre contenu factuel et contenu de compétence.
 
 ## Les connaissances antérieures à l'ère de l'IA
 

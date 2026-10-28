@@ -1,14 +1,14 @@
 ---
 title: "Conhecimento prévio"
 created: "2026-08-22T01:20:00-04:00"
-updated: "2026-10-01T18:49:55-04:00"
+updated: "2026-10-28T01:09:26-04:00"
 type: concept
 foundations: [learning-design]
 pedagogy: [constructivist, learning-theories, metacognition, prior-knowledge, scaffolding]
 technology: [personalized-learning, student-modeling]
 confidence: high
 translation_of: concepts/prior-knowledge
-source_updated: "2026-10-01T18:49:55-04:00"
+source_updated: "2026-10-28T01:09:26-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -42,7 +42,7 @@ A ativação do conhecimento prévio é um dos achados mais robustos das [[learn
 - **Nem sempre prevê quem faz o trabalho que move a aprendizagem.** Em um estudo de aprendizagem por ensino de cinco dias com 23 tutores do ensino fundamental 2, as notas prévias em teste não predisseram a proporção de respostas de construção de conhecimento que um tutor produziu, e tutores de conhecimento prévio baixo que construíram conhecimento terminaram estatisticamente empatados com pares de conhecimento prévio alto ([[knowledge-building-tutor-learning-2026|Ameen et al., 2026]]).
 - **Ele molda a interpretação.** Quem aprende interpreta informação nova por meio do que já acredita. Quando essas crenças estão erradas ([[misconceptions|mal-entendidos]]), o conhecimento prévio pode *interferir* na aprendizagem, e é por isso que a instrução precisa trazer à tona e enfrentar mal-entendidos em vez de presumir um ponto de partida neutro.
 - **Ele move a modelagem de estudantes.** Para personalizar, um sistema de IA precisa estimar o estado de conhecimento prévio de quem aprende — a base do [[knowledge-tracing|rastreamento de conhecimento]], da modelagem de estudantes e do [[scaffolding|andaime]] adaptativo. A qualidade dessas estimativas determina se a adaptação é genuinamente útil ou enganosa.
-- **O conteúdo de conhecimento determina qual processo a prática recruta.** Se a aprendizagem depende de memória ou de indução é definido pela estrutura de conhecimento prévio do alvo: [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit, Koedinger e Carvalho (2025)]] seguem o framework [[learning-theories|KLI]] ao distinguir componentes de conhecimento com condições e respostas constantes (fatos, adquiridos por memória e prática de recuperação) daqueles com condições e respostas variáveis (habilidades, adquiridas por indução e generalização a entradas novas) — e é por isso que a mistura ótima de exemplos resolvidos e prática difere para conteúdo factual versus conteúdo de habilidade.
+- **O conteúdo de conhecimento determina qual processo a prática recruta.** Se a aprendizagem depende de memória ou de indução é definido pela estrutura de conhecimento prévio do alvo: [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit, Koedinger e Carvalho (2025)]] seguem o framework KLI ao distinguir componentes de conhecimento com condições e respostas constantes (fatos, adquiridos por memória e prática de recuperação) daqueles com condições e respostas variáveis (habilidades, adquiridas por indução e generalização a entradas novas) — e é por isso que a mistura ótima de exemplos resolvidos e prática difere para conteúdo factual versus conteúdo de habilidade.
 
 ## O conhecimento prévio na era da IA
 

@@ -1,7 +1,7 @@
 ---
 title: Prior Knowledge
 created: "2026-08-22T01:20:00-04:00"
-updated: "2026-10-25T22:20:00-04:00"
+updated: "2026-10-28T01:09:26-04:00"
 type: concept
 foundations: [learning-design]
 pedagogy: [constructivist, learning-theories, metacognition, prior-knowledge, scaffolding]
@@ -32,7 +32,7 @@ Prior knowledge activation is one of the most robust findings in [[learning-scie
 - **It does not always predict who does the work that drives learning.** In a five-day learning-by-teaching study with 23 middle-school tutors, prior test scores did not predict the share of knowledge-building responses a tutor produced, and low-prior tutors who built knowledge finished statistically level with high-prior peers ([[knowledge-building-tutor-learning-2026|Ameen et al., 2026]]).
 - **It shapes interpretation.** Learners interpret new information through what they already believe. When those beliefs are wrong ([[misconceptions]]), prior knowledge can *interfere* with learning, which is why instruction must surface and address misconceptions rather than assume a neutral starting point.
 - **It drives student modeling.** To personalize, an AI system must estimate the learner's prior-knowledge state — the basis of [[knowledge-tracing]], student modeling, and adaptive [[scaffolding]]. The quality of these estimates determines whether adaptation is genuinely helpful or misleading.
-- **Knowledge content determines which process practice recruits.** Whether learning hinges on memory or on induction is set by the prior-knowledge structure of the target: [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit, Koedinger & Carvalho (2025)]] follow the [[learning-theories|KLI]] framework in distinguishing knowledge components with constant conditions and responses (facts, acquired through memory and retrieval practice) from those with variable conditions and responses (skills, acquired through induction and generalization to novel inputs) — which is why the optimal mix of worked examples and practice differs for fact content versus skill content.
+- **Knowledge content determines which process practice recruits.** Whether learning hinges on memory or on induction is set by the prior-knowledge structure of the target: [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit, Koedinger & Carvalho (2025)]] follow the KLI framework in distinguishing knowledge components with constant conditions and responses (facts, acquired through memory and retrieval practice) from those with variable conditions and responses (skills, acquired through induction and generalization to novel inputs) — which is why the optimal mix of worked examples and practice differs for fact content versus skill content.
 
 ## Prior knowledge in the AI era
 
