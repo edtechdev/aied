@@ -112,8 +112,7 @@ Two things to know before editing:
 ├── public/            # llms*.txt, the committed EPUB/PDF editions, cover and marks
 ├── tooling/           # the pipeline: gates, generators, builders, cron prompts
 ├── skills/            # public-safe mirrors of the agent skills the pipeline follows
-├── newsletters/       # how an issue is written and published (README.md)
-├── docs/              # json-ld.md and design notes
+├── docs/              # json-ld.md, newsletters.md, and design notes
 ├── site.config.json   # single source of truth for site-wide metadata
 ├── wiki.config.yaml   # pipeline config: content paths, gate commands, scan sources, journal feeds
 ├── concepts.registry.yaml  # the concept vocabulary and redirect map
@@ -136,7 +135,7 @@ Every page type shares the typed metadata fields and a `[[wikilink]]` body. They
 - **Concept** — synthesis → *Questions to Consider* → Introduction → narrative body → Connected Concepts → Connected Articles.
 - **FAQ** — frontmatter → question heading → narrative answer. Curated, with no sources and no Citation.
 - **Resource** — a fact block (visit, source, author, type, access, license, last verified) → short prose → metadata table → Connected Concepts and Resources. These are not papers, so there is no Citation.
-- **Newsletter issue** — see [newsletters/README.md](newsletters/README.md).
+- **Newsletter issue** — see [docs/newsletters.md](docs/newsletters.md).
 
 `audit-article-sections.py` enforces the article contract: section order, 3–5 practice bullets, 2–6 limitations bullets, and Citation last.
 
@@ -186,7 +185,7 @@ Every article ingestion does two things beyond creating the page: it adds inline
 
 A weekly issue summarizes the most significant research and resources added, plus internal changes to the site. Issues live in `content/en/newsletters/<issue-date>.md`, render at `/news/<issue-date>/`, are listed on `/news/`, and are available as a second feed at `/news/rss.xml`. Each issue carries `issue` (a sequence number) and `status` (`draft`, `ready` or `published`), so a draft can sit in the folder without appearing on the site.
 
-The format, house style and publishing contract are in **[newsletters/README.md](newsletters/README.md)**: the four section headings, the masthead, the frontmatter, how to link the way the site's own pages link, and the footer.
+The format, house style and publishing contract are in **[docs/newsletters.md](docs/newsletters.md)**: the four section headings, the masthead, the frontmatter, how to link the way the site's own pages link, and the footer.
 
 Three skills drive the work, mirrored under `skills/research/`:
 

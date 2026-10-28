@@ -31,7 +31,7 @@ git rather than from memory, and previewing it without disturbing the live site.
   "draft it but do not publish". Say that property out loud in the report.
 - One file per issue, ISO date name so the folder sorts (`2026-10-23.md`), with frontmatter
   `title`, `date`, `status: draft | ready | published`, `type: newsletter`.
-- Ship `newsletters/README.md`: naming rule, frontmatter, the git commands that pull a window, the house
+- Ship `docs/newsletters.md`: naming rule, frontmatter, the git commands that pull a window, the house
   style, and the line that publishing needs a route plus a `status` flip in the same commit. Without it
   the next issue starts as archaeology.
 - Branch first (`git switch -c newsletter/<date>-draft`). Do not commit or push unless asked; report the
