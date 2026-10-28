@@ -37,7 +37,7 @@ ai_assist:
 2. **Authoring time collapses.** Generation produced questions in a median of about 10 seconds, against an estimated 30 minutes of manual drafting and answer-key writing, a net saving near 25 minutes after a 5-minute review.
 3. **Open-ended grading stops scaling with headcount.** Multiple-choice items grade deterministically, a cohort's open-ended responses are evaluated in roughly 15 to 20 seconds, and a 200-student assessment falls from 1,000 minutes to 500 with audit.
 4. **The rubric is three criteria at 0 to 5.** Correctness, completeness and relevance are each scored with a chain-of-thought justification before the score, a reason-then-score design meant to reduce arbitrariness and expose its reasoning.
-5. **Unit economics are almost negligible.** At OpenRouter pricing for GLM 4.7 Flash, a 10-question assessment costs $0.00275 per student, so the 200-student cohort in the scaling table is graded for under $0.55.
+5. **Unit economics are almost negligible.** At OpenRouter pricing for GLM 4.7 Flash, a 10-question assessment costs \$0.00275 per student, so the 200-student cohort in the scaling table is graded for under \$0.55.
 6. **Students endorsed the loop, not a learning gain.** Of 30 survey respondents, 100 percent agreed or strongly agreed the interface was easy and that instant feedback improved learning; no gain was measured.
 7. **The pedagogy changed with the tool.** Student presenters authored short assessments, typically three multiple-choice questions, run immediately before and after each presentation, about three cycles per 80-minute session.
 
@@ -58,7 +58,7 @@ The paper is candid that grading precision, which it calls the primary architect
 - **Instructors.** Keep the review step and treat it as the quality mechanism it is: the pilot's only guard against a wrong score reaching a record is instructor audit, and the authors plan to learn from those overrides rather than assume the model is calibrated.
 - **Instructors.** Run the pre/post loop in class rather than only at unit boundaries — three-question cycles before and after a presentation gave a usable delta within an 80-minute session, and the immediacy is what made the design teachable at that frequency.
 - **Developers.** Ground every generation call in uploaded course materials and enforce schema-constrained output, which is what makes generated items reviewable and keeps grading results machine-readable between layers.
-- **Administrators.** Price the automation before adopting it at scale: at $0.00275 per student for a 10-question assessment, cost is not the constraint, and review labor is; do not extend it to high-stakes use until inter-rater reliability against instructor scores is published.
+- **Administrators.** Price the automation before adopting it at scale: at \$0.00275 per student for a 10-question assessment, cost is not the constraint, and review labor is; do not extend it to high-stakes use until inter-rater reliability against instructor scores is published.
 - **Assessment designers.** Do not treat all 100 percent agreement as evidence of learning. The survey shows students preferred fast feedback to multi-day grading cycles, which is a preference finding, not a [[learning-gains|learning outcome]].
 
 ## Limitations

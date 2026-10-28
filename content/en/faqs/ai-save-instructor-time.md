@@ -52,7 +52,7 @@ The test that predicts this before you spend an evening on it: can you state the
 
 ## Give the recovered hour a destination
 
-The clearest evidence that the saving is real, and that it does nothing on its own, comes from a large experiment across 178 schools and roughly 19,000 high school seniors on AI-automated essay feedback. Students whose feedback came from the system gained as much as students marked by people. The human graders cost about $0.85 an essay and added no measurable benefit on top.
+The clearest evidence that the saving is real, and that it does nothing on its own, comes from a large experiment across 178 schools and roughly 19,000 high school seniors on AI-automated essay feedback. Students whose feedback came from the system gained as much as students marked by people. The human graders cost about \$0.85 an essay and added no measurable benefit on top.
 
 In the AI classrooms, students had about 35% more one-on-one conversations with teachers about writing and wrote 30% more essays. Teachers' at-home work hours fell 20%, and the share reporting their time as "very insufficient" dropped from 23% to 9%. The largest [[learning-gains|learning gains]] landed on the most complex writing task, the kind AI is least able to evaluate, because the teacher now had hours to spend on it.
 

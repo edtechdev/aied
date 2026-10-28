@@ -42,7 +42,7 @@ Two of those are safer early, because both produce an artifact a person reads be
 
 ## Start where a human already checks the work
 
-[[wang-tutor-copilot-human-ai-live-tutoring-rct-2024|Tutor CoPilot]], the first [[rct|randomized controlled trial]] of a human-AI system in live tutoring, gave novice tutors real-time guidance drawn from experienced tutors' reasoning, across 900 tutors and roughly 1,800 students. Students of tutors with access were 4 percentage points more likely to master topics, rising to 9 points among the lowest-rated tutors, whose students caught up with those of better-rated tutors in the control group. It cost about $20 per tutor annually, and analysis of 550,000+ tutoring messages showed tutors shifting from giving answers to asking guiding questions. That is AI augmenting the [[teacher-role|teacher]].
+[[wang-tutor-copilot-human-ai-live-tutoring-rct-2024|Tutor CoPilot]], the first [[rct|randomized controlled trial]] of a human-AI system in live tutoring, gave novice tutors real-time guidance drawn from experienced tutors' reasoning, across 900 tutors and roughly 1,800 students. Students of tutors with access were 4 percentage points more likely to master topics, rising to 9 points among the lowest-rated tutors, whose students caught up with those of better-rated tutors in the control group. It cost about \$20 per tutor annually, and analysis of 550,000+ tutoring messages showed tutors shifting from giving answers to asking guiding questions. That is AI augmenting the [[teacher-role|teacher]].
 
 The agent did not teach the student. It fed a human mid-conversation, and the human decided what to say. A person in the loop and an outcome close to the work are what make the result portable to another course.
 
