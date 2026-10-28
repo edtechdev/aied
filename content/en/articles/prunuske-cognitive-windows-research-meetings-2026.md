@@ -1,8 +1,8 @@
 ---
 title: "Moving research meetings from data updates to cognitive windows in the age of artificial intelligence"
 published: "2026-10-23"
-created: "2026-10-29T09:12:00-04:00"
-updated: "2026-10-29T09:12:00-04:00"
+created: "2026-10-28T16:52:00-04:00"
+updated: "2026-10-28T16:52:00-04:00"
 type: article
 foundations: [cognitive-offloading]
 pedagogy: [metacognition, professional-training, collaborative-learning, scaffolding]
