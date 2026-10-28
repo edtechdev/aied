@@ -49,7 +49,7 @@ RL underpins much modern [[agentic-ai]] and [[intelligent-tutoring]] design, whe
 
 ## Common Misconceptions
 
-**"Matching a baseline means the RL policy learned something worth having."** It means the reward was satisfied. A deep-RL tutor rewarded on test score and time efficiency **matched a BKT heuristic on posttest (A = .58 each)** while assigning only **4% of training problems to constructive buggy-example repair** and favouring the cheaper interaction. The policy optimised what it was paid for, and what it was paid for excluded the productive activity.
+**"Matching a baseline means the RL policy learned something worth having."** It means the reward was satisfied. A deep-RL tutor rewarded on test score and time efficiency **matched a BKT heuristic on posttest (A = .58 each)** while assigning only **4% of training problems to constructive buggy-example repair** and favoring the cheaper interaction. The policy optimized what it was paid for, and what it was paid for excluded the productive activity.
 
 **"The reward function is a technical detail."** It is the pedagogical specification. Whatever the reward weights is what the policy will do, so choosing between score, time efficiency, engagement and repair requires an explicit position on what learning is — a curriculum decision encoded as a number.
 

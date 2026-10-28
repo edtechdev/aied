@@ -93,9 +93,9 @@ The cost of that substitution shows up in where faculty and students actually ta
 
 **"Publishing a policy establishes the norm."** The local rulebook is written in practice, not in policy text, and domains diverge sharply: AI-integrated assignments appeared in **27% of business syllabi and 5% of humanities syllabi** across **31,000 courses**. A student's operative norm is their own discipline's, and an institution-wide document does not overrule it.
 
-**"Shame and guilt discourage AI use."** They regulate visibility rather than use: [[shame-guilt-ai-regulation-computing-education|shame and guilt regulate visibility]], producing hiding and selective disclosure instead of behaviour change. The observable effect of a shaming norm is less honest reporting, not less use.
+**"Shame and guilt discourage AI use."** They regulate visibility rather than use: [[shame-guilt-ai-regulation-computing-education|shame and guilt regulate visibility]], producing hiding and selective disclosure instead of behavior change. The observable effect of a shaming norm is less honest reporting, not less use.
 
-**"Surveillance would settle the norm by making use visible."** Making behaviour visible does not resolve what the norm should be; it changes what people are willing to disclose. The measured pattern is selective disclosure already, so a monitoring regime applied to it measures the concealment rather than the conduct.
+**"Surveillance would settle the norm by making use visible."** Making behavior visible does not resolve what the norm should be; it changes what people are willing to disclose. The measured pattern is selective disclosure already, so a monitoring regime applied to it measures the concealment rather than the conduct.
 
 **"Norms are informal, so they are outside institutional reach."** They are locally enforced and locally changeable, which makes them more tractable than policy: a course team's explicit practice is a lever precisely because it is where the operative rule is set.
 

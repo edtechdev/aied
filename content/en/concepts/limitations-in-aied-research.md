@@ -110,7 +110,7 @@ Two specific reporting practices inflate or distort a synthesis, and both are vi
 
 **The headline percentage can be an artifact of the search terms.** In a scoping review of 195 teacher-education studies, digital competence and [[tpack|TPACK]] were explicit search descriptors while instructional design and assessment had no equivalent, so the reported **46.5% and 1.9%** describe the retrieval strategy before they describe the field. A prevalence claim is only as meaningful as the query that produced the corpus.
 
-**And the base rate is the number nobody states.** Methodological limits here are measurable rather than impressionistic: in a critical review of 80 HCI studies of critical thinking with AI, **42 (52%) ran no control group** and most of the rest relied on self-report. When more than half of a field's positive findings come from designs that cannot separate AI's effect from ordinary activity, the appropriate prior on any single finding is scepticism, not provisional acceptance.
+**And the base rate is the number nobody states.** Methodological limits here are measurable rather than impressionistic: in a critical review of 80 HCI studies of critical thinking with AI, **42 (52%) ran no control group** and most of the rest relied on self-report. When more than half of a field's positive findings come from designs that cannot separate AI's effect from ordinary activity, the appropriate prior on any single finding is skepticism, not provisional acceptance.
 
 ## Common Misconceptions
 

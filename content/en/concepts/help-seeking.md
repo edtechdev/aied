@@ -108,7 +108,7 @@ In fully online [[english-education|composition]], availability of the tool is n
 
 ## Common Misconceptions
 
-- **"Students who need help do not ask for it."** A **pre-registered experiment** in large-enrollment undergraduate courses messaged students through an academic chatbot and found **greater take-up of tutoring and supplemental** support. Nudging moved the behaviour, so the barrier was prompting rather than willingness.
+- **"Students who need help do not ask for it."** A **pre-registered experiment** in large-enrollment undergraduate courses messaged students through an academic chatbot and found **greater take-up of tutoring and supplemental** support. Nudging moved the behavior, so the barrier was prompting rather than willingness.
 - **"Help-seeking requests are about learning."** **Operational support demand** complicates that assumption: across **4,093 queries**, at least **20.4% asked about the status of a pending submission rather than for knowledge**. A fifth of the demand for help was administrative.
 - **"Using an AI tutor means monitoring your own learning."** In a study of **98 Grade-9 students** using a GenAI tutor, interactions were **dominated by instrumental requests with almost no monitoring or evaluation of their own learning**. Asking for answers is not help-seeking in the sense the construct means.
 ## Connected Concepts

@@ -60,11 +60,11 @@ The framework's own authors supply a role taxonomy for that condition: [[ai-comm
 
 ## Common Misconceptions
 
-**"Teaching presence is a human property."** In the generative-AI era the framework is being reconceptualised because machine-produced discourse can mimic authentic presence, so the presences are better understood as sociotechnical accomplishments of human–GenAI assemblages rather than purely human activity. A course can report high teaching presence with the instructor largely absent and a model doing the discourse.
+**"Teaching presence is a human property."** In the generative-AI era the framework is being reconceptualized because machine-produced discourse can mimic authentic presence, so the presences are better understood as sociotechnical accomplishments of human–GenAI assemblages rather than purely human activity. A course can report high teaching presence with the instructor largely absent and a model doing the discourse.
 
 **"Coherent AI explanation creates cognitive presence."** Coherence is not correctness, and it is precisely the property that makes reflective inquiry hard to sustain: a student who feels an explanation is obviously right has been given little occasion to resolve a triggering event. Cognitive presence requires the resolution of doubt, not the removal of it.
 
-**"Presence is distributed evenly across a cohort."** It separates *inside* the condition rather than between conditions. In a quasi-experiment with **63 Chinese undergraduates (33 with a GPT-4o mini chatbot, 30 without)** annotating shared readings across five weekly tasks, the presences diverged by group achievement: high-achieving groups initiated **1407 feedback requests across 2319 annotations (60.7%)** against **737 across 2167 (34.0%)** in low-achieving groups. Access to the same tool reproduced an existing gap in the social behaviour the framework measures.
+**"Presence is distributed evenly across a cohort."** It separates *inside* the condition rather than between conditions. In a quasi-experiment with **63 Chinese undergraduates (33 with a GPT-4o mini chatbot, 30 without)** annotating shared readings across five weekly tasks, the presences diverged by group achievement: high-achieving groups initiated **1407 feedback requests across 2319 annotations (60.7%)** against **737 across 2167 (34.0%)** in low-achieving groups. Access to the same tool reproduced an existing gap in the social behavior the framework measures.
 
 **"Adding a chatbot to an online course adds a presence."** It changes the mix. The framework's value under GenAI is that it makes the substitution visible: a presence satisfied by a model is a different configuration of the same construct, and the cohort data show the substitution paying off unevenly.
 

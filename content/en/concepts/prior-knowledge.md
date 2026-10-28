@@ -54,7 +54,7 @@ Generative AI has made prior knowledge a central design consideration rather tha
 
 ## Common Misconceptions
 
-**"Prior knowledge predicts who does the cognitive work."** It predicts outcomes more reliably than it predicts behaviour. In a five-day learning-by-teaching study with **23 middle-school tutors**, prior test scores did **not** predict the share of knowledge-building responses a tutor produced, and low-prior tutors worked at building knowledge rather than defaulting to less. Who engages in the productive struggle is not simply who arrives knowing most.
+**"Prior knowledge predicts who does the cognitive work."** It predicts outcomes more reliably than it predicts behavior. In a five-day learning-by-teaching study with **23 middle-school tutors**, prior test scores did **not** predict the share of knowledge-building responses a tutor produced, and low-prior tutors worked at building knowledge rather than defaulting to less. Who engages in the productive struggle is not simply who arrives knowing most.
 
 **"Offloading is a stable learner trait, so the same student offloads the same amount everywhere."** It tracks prior knowledge within the task. In a synthesis-writing study the **high-knowledge, minimal-offloading cluster authored 80% of its essay against 2% for the heaviest-offloading cluster**. Offloading is therefore substantially a response to what the learner already has and what the task demands, which makes it a design variable rather than a character one.
 

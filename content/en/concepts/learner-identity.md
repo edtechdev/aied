@@ -71,9 +71,9 @@ Learner identity connects to [[agency]] (identity is enacted through agentic aut
 
 **"Learner identity is a stable trait a course can accommodate."** It is better treated as something **continuously built through participation, recognition, and authorship**. That shift changes the design question from matching an existing identity to shaping the one the course makes available — and an AI that completes the work removes one of the three ingredients, since authorship is where the identity claim originates.
 
-**"Identity issues belong to students from under-represented groups."** Identity is formed in every learner by whether their participation is recognised, which makes it a general design condition rather than a special provision. Framing it as a targeted concern is how it gets deferred.
+**"Identity issues belong to students from under-represented groups."** Identity is formed in every learner by whether their participation is recognized, which makes it a general design condition rather than a special provision. Framing it as a targeted concern is how it gets deferred.
 
-**"AI assistance lowers barriers and therefore widens participation."** It can lower the barrier to producing work while narrowing the barrier to claiming authorship. A student who submits a fluent artefact they did not author has been given access to the outcome and denied the recognition that builds the identity behind it.
+**"AI assistance lowers barriers and therefore widens participation."** It can lower the barrier to producing work while narrowing the barrier to claiming authorship. A student who submits a fluent artifact they did not author has been given access to the outcome and denied the recognition that builds the identity behind it.
 
 **"Recognising a learner's identity is a matter of representation in content."** Representation matters and recognition is enacted in practice: whose questions get taken up, whose contribution is credited, and who is treated as capable. A curriculum can be representative and still withhold the recognition that identity formation requires.
 

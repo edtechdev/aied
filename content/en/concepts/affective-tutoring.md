@@ -91,11 +91,11 @@ Affective tutoring intersects with [[hazra-safetutors-pedagogical-safety-2026|Sa
 - Make affect one signal among several. Combining it with cognitive state and behavioral engagement prevents the system from re-optimizing a lesson around a misread expression.
 - Trigger interventions on trajectories rather than point estimates, keying on the sequence of states, since persistence and directional transitions are the informative part.
 - Default to privacy-protective sensor handling, and treat facial or video input as a strictly higher tier than text inference, requiring its own justification and consent.
-- Do not ship a keyword-dictionary affect layer as if it were detection. If you cannot validate the classifier against expert judgment, expose it as a coarse flag rather than labelling a student "frustrated."
+- Do not ship a keyword-dictionary affect layer as if it were detection. If you cannot validate the classifier against expert judgment, expose it as a coarse flag rather than labeling a student "frustrated."
 
 **For researchers**
 
-- Report the baseline your win rate is measured against, and state plainly that it is a comparative judgement. Then measure what the field actually needs: transfer to non-adaptive contexts, retention after the tutor is withdrawn, and whether gains hold when the emotional channel is off.
+- Report the baseline your win rate is measured against, and state plainly that it is a comparative judgment. Then measure what the field actually needs: transfer to non-adaptive contexts, retention after the tutor is withdrawn, and whether gains hold when the emotional channel is off.
 - Validate affect profiles against expert judgment before using them as independent variables.
 
 ## Connected Concepts

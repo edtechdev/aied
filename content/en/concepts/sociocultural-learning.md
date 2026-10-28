@@ -59,7 +59,7 @@ The sociocultural strand is tightly coupled to [[cognitive-offloading|Cognitive 
 
 **"If cognition is distributed, individual assessment is measuring the wrong thing."** It changes the interpretation rather than removing the measurement. What the assessment captures depends on what is present in the system at the time, which is why assisted and unassisted performance diverge — they are measurements of different configurations.
 
-**"Adding a tool to a group changes only the group's efficiency."** It changes the division of labour, which is the unit the theory analyses. A group that routes most of its questions to an agent has redistributed the cognitive work even when the output is unchanged.
+**"Adding a tool to a group changes only the group's efficiency."** It changes the division of labor, which is the unit the theory analyses. A group that routes most of its questions to an agent has redistributed the cognitive work even when the output is unchanged.
 
 **"Distributed cognition implies the individual does not matter."** It implies the individual's contribution cannot be read off individual performance alone; the unit of analysis is the activity system, not the person in isolation.
 

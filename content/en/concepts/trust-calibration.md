@@ -129,7 +129,7 @@ Trust calibration is central to [[ai-literacy]] and sits alongside [[reducing-ai
 
 ## Common Misconceptions
 
-**"More trust means better use of the tool."** Trust and calibration diverge, and the correlation runs the wrong way. Among **432 undergraduates** solving Python problems with accurate and deliberately misleading AI suggestions, greater trust predicted **lower** appropriate reliance (**r = -.42**), and students accepted **86.03%** of the misleading suggestions. Generalised confidence is not the goal; matched confidence is.
+**"More trust means better use of the tool."** Trust and calibration diverge, and the correlation runs the wrong way. Among **432 undergraduates** solving Python problems with accurate and deliberately misleading AI suggestions, greater trust predicted **lower** appropriate reliance (**r = -.42**), and students accepted **86.03%** of the misleading suggestions. Generalized confidence is not the goal; matched confidence is.
 
 **"Under-trusting is the safe default."** Avoiding a capable tool entirely is a calibration failure pointing the other way. Both mismatches cost the learner — one through dependence, the other through forgone capability — which makes "be sceptical" as poor an instruction as "trust it".
 

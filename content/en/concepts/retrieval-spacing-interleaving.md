@@ -82,7 +82,7 @@ Interleaving's inclusion here therefore rests on the same theoretical family as 
 
 ## Common Misconceptions
 
-**"Better AI questioning produces better retention."** It produces better work. [[llm-interaction-depth-task-quality-recall-2026|Tsiligkiris (2026)]] found deeper LLM questioning improved independently marked task quality (**β = 6.27, p = .006**) while having a **null association with immediate post-test recall (β = −0.014, p = .728)**, with recall gains driven by baseline knowledge instead. The quality of the artefact and the durability of the memory are different outcomes, and better dialogue moves the first without moving the second.
+**"Better AI questioning produces better retention."** It produces better work. [[llm-interaction-depth-task-quality-recall-2026|Tsiligkiris (2026)]] found deeper LLM questioning improved independently marked task quality (**β = 6.27, p = .006**) while having a **null association with immediate post-test recall (β = −0.014, p = .728)**, with recall gains driven by baseline knowledge instead. The quality of the artifact and the durability of the memory are different outcomes, and better dialogue moves the first without moving the second.
 
 **"There is one best practice format."** The format depends on what is being learned. A content–treatment interaction (**β = 0.41, p = .038, d = 0.38**) shows **pure practice testing produced higher gains for facts**, while **example-integrated practice produced higher gains for skills**. Prescribing retrieval practice for everything, or worked examples for everything, gets half the material wrong.
 

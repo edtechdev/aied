@@ -50,7 +50,7 @@ Producing effective AI video requires pedagogical structure and human oversight,
 
 **"AI-generated scaffolding comments can substitute for an instructor's."** They differ in a way that matters for instruction. Benchmarked against 120 comments from experienced instructors, ChatGPT's 1,000 comments were *denser* but far less structurally varied (POS 3-gram diversity 5.5–6.2%), and 40 learners rated the human comments significantly higher on timing and helpfulness — though a newer model narrowed that gap. Volume and density are not the same as the varied, paced commentary a good instructor produces, and the narrowing gap is a trend to track rather than a settled equivalence.
 
-**"Cloning an instructor into an avatar scales human presence."** It scales production and changes what is being delivered. AI avatars cloned from instructors can generate video at scale, but they also trigger uncanny-valley discomfort and raise [[ethics|ethical]] objections spanning environmental impact, labour and [[academic-integrity|integrity]]. The presence being scaled is a simulation of the instructor, and the costs attach to the simulation.
+**"Cloning an instructor into an avatar scales human presence."** It scales production and changes what is being delivered. AI avatars cloned from instructors can generate video at scale, but they also trigger uncanny-valley discomfort and raise [[ethics|ethical]] objections spanning environmental impact, labor and [[academic-integrity|integrity]]. The presence being scaled is a simulation of the instructor, and the costs attach to the simulation.
 
 **"Generating many variants of one lecture is personalization."** Variant count is a production figure, not an instructional one. [[bespoke-industry-personalized-lecture-videos-2026|Bespoke]] generated 209 videos from 31 graduate lectures across healthcare, finance, energy and a generic audience, which demonstrates the pipeline's capacity; whether any variant matched a given learner's needs is a separate question that the generation count cannot answer.
 
@@ -60,7 +60,7 @@ Producing effective AI video requires pedagogical structure and human oversight,
 
 - Ask whether the evidence behind a personalized-video product is preference or achievement. The strongest numbers in this literature are ranks and ratings, and the two kinds of evidence point in different directions often enough to keep separate.
 - Keep human commentary for the moments that need pacing and selectivity. The comment study found human comments stronger on timing and helpfulness, so reserve instructor voice for the frames where timing carries meaning.
-- Treat avatars as a production decision with costs (labour, environmental, integrity) rather than as a neutral efficiency win.
+- Treat avatars as a production decision with costs (labor, environmental, integrity) rather than as a neutral efficiency win.
 
 **For developers**
 

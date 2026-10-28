@@ -88,7 +88,7 @@ A proposal in this literature pushes past redesign-within-the-current-frame. [[a
 
 - **"Integrity is mainly a detection problem."** **Scroll-back interviews with 26 students** reveal that students judge their way through assessment with GenAI along a **spectrum**, and across **157 students**, *how* GenAI is used — **evaluative integration to support understanding versus** substitution — predicted the outcome. The mode of use separates students more sharply than the presence of use.
 - **"Non-native English speakers are the cheating risk."** A **PRISMA review of 25 studies** adds a risk factor the detection debate leaves out: non-native speakers showed a **high tendency to breach integrity when struggling** with the language demand. That is a language-support problem misread as an honesty problem.
-- **"A policy that forbids GenAI settles the question."** Students report a spectrum of judgements rather than a rule-following pattern, so a rule that does not engage the evaluative reasoning students are already doing will not be followed consistently.
+- **"A policy that forbids GenAI settles the question."** Students report a spectrum of judgments rather than a rule-following pattern, so a rule that does not engage the evaluative reasoning students are already doing will not be followed consistently.
 ## Connected Concepts
 - [[learners]] — Learners: the umbrella for the learner-side concepts
 - [[pedagogical-partnerships]] — Pedagogical Partnerships

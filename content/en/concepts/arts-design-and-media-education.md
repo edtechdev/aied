@@ -78,13 +78,13 @@ Two other findings complicate any simple story of generative tools as an equalis
 
 ## Common Misconceptions
 
-**"The arts evidence base establishes discipline-wide conclusions about AI."** It does not, and the corpus is candid about it: coverage is concentrated in [[higher-ed|higher education]] and in single-studio or single-course studies, so most findings are **case evidence rather than discipline-wide claims**. A result from one design studio tells you what happened there, and the studio is an unusually specific social arrangement to generalise from.
+**"The arts evidence base establishes discipline-wide conclusions about AI."** It does not, and the corpus is candid about it: coverage is concentrated in [[higher-ed|higher education]] and in single-studio or single-course studies, so most findings are **case evidence rather than discipline-wide claims**. A result from one design studio tells you what happened there, and the studio is an unusually specific social arrangement to generalize from.
 
 **"Any generative tool is educationally equivalent to any other."** The distinction that matters is whether the tool generates *for* the student or composes *with* them. A music education review separates autonomous generators such as Suno and Udio from interactive composition assistants such as the Continuator, arguing that **only the second is educationally productive**. Both produce music; only one leaves the student making the compositional decisions.
 
-**"High acceptance of generated output shows the tool is working."** Acceptance is the measure of the tool's persuasiveness, not of the student's learning. In one studio study students produced roughly **80 images per session, about ten each, with acceptance rates above 60%** — a rate at which most of what was generated was used, which raises the question of how much revision and judgement the session contained.
+**"High acceptance of generated output shows the tool is working."** Acceptance is the measure of the tool's persuasiveness, not of the student's learning. In one studio study students produced roughly **80 images per session, about ten each, with acceptance rates above 60%** — a rate at which most of what was generated was used, which raises the question of how much revision and judgment the session contained.
 
-**"AI in studio teaching replaces the critique."** The constructionist framing in this literature is the opposite: a designed "microworld" that **expands the creative search space without replacing design thinking**. The critique is where judgement is formed, and a tool that supplies candidate solutions gives the critique more material to work on rather than less need for it.
+**"AI in studio teaching replaces the critique."** The constructionist framing in this literature is the opposite: a designed "microworld" that **expands the creative search space without replacing design thinking**. The critique is where judgment is formed, and a tool that supplies candidate solutions gives the critique more material to work on rather than less need for it.
 
 **"Students are not already using AI in arts education, so the curriculum can set the pace."** Survey evidence in this corpus finds nearly **70% of architecture students already use AI tools independently**. The curriculum is catching up with a practice that has already spread, which changes the task from introduction to critical integration.
 
@@ -93,13 +93,13 @@ Two other findings complicate any simple story of generative tools as an equalis
 **For studio instructors**
 
 - Distinguish generating-for from composing-with when choosing tools, and prefer the second. The distinction is the difference between a student who directs a system and one who receives output.
-- Keep the critique and make it the assessed element. Acceptance rates above 60% suggest critique is the only place the selection judgement will surface.
+- Keep the critique and make it the assessed element. Acceptance rates above 60% suggest critique is the only place the selection judgment will surface.
 - Assume prior independent use: nearly 70% of architecture students are already using AI tools, so the pedagogical work is on quality of use rather than on exposure.
 
 **For developers**
 
 - Build for iteration and control — parameters, constraints, partial generation — not for one-shot production. Interactive composition is the mode with an educational claim behind it.
-- Instrument revision behaviour, not acceptance rate. Acceptance measures your output, not the student's thinking.
+- Instrument revision behavior, not acceptance rate. Acceptance measures your output, not the student's thinking.
 
 **For researchers**
 

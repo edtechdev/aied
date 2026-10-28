@@ -54,7 +54,7 @@ SSH education foregrounds the very capabilities generative AI most challenges �
 
 **"Values education can be handed to a model as content."** [[genai-values-education-affordances-risks-2026|Chen (2026)]] reframes values education as a relational practice with three conditions — answerability, exemplarity and address — and reads each of GenAI's five affordances as replacing a relation: the simulated perspective replaces the stakeholder who can be wronged.
 
-**"Critical analysis is what AI most threatens, so it should be restricted."** Critical analysis is also what intentional use most develops, when the task is designed to deepen rather than flatten it. A [[human-in-the-loop-ai|human-in-the-loop]] model locates the discipline's contribution in the learner's judgement rather than in the tool's output.
+**"Critical analysis is what AI most threatens, so it should be restricted."** Critical analysis is also what intentional use most develops, when the task is designed to deepen rather than flatten it. A [[human-in-the-loop-ai|human-in-the-loop]] model locates the discipline's contribution in the learner's judgment rather than in the tool's output.
 
 **"A general-purpose model is as useful for textual scholarship as for summarisation."** Interpretation requires the reader's position, and an assistance layer that supplies the reading has performed the interpretive act the discipline exists to teach.
 

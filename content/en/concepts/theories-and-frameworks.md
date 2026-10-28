@@ -113,7 +113,7 @@ Mechanism-to-theory alignment can nonetheless be decisive: a thematic synthesis 
 
 **"Applying a borrowed theory to an AI tool is using theory."** Much of this field applies borrowed theory rather than testing it, and the difference is whether the framework made a prediction that could have failed. When a study reports a gain under a framework's banner while committing to no falsifiable prediction, nothing has been learned about the framework — an outcome consistent with every theory in the catalog is evidence for none of them.
 
-**"A framework's value is how well it describes a system you have already built."** That is post-hoc labelling. A taxonomy that accommodates any design has no discriminating power, which is why descriptive frameworks should be judged on what they exclude. The evaluation question is not "does my system fit this?" but "what kind of system would this framework say is wrong?"
+**"A framework's value is how well it describes a system you have already built."** That is post-hoc labeling. A taxonomy that accommodates any design has no discriminating power, which is why descriptive frameworks should be judged on what they exclude. The evaluation question is not "does my system fit this?" but "what kind of system would this framework say is wrong?"
 
 **"Learning theories, models of the learner, and adoption frameworks are interchangeable lenses."** They answer different questions — how learning happens, what the learner's state is, and why a practice spreads — and their evidence types differ accordingly. Choosing the wrong layer produces a study that measures the right variable against the wrong prediction, which reads as a null result when it is a category error.
 

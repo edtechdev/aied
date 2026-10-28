@@ -31,10 +31,10 @@ verified: [citation, numbers, links]
 
 ## Key Findings
 
-1. **Perceived ease of use did not predict self-efficacy.** Of the technological perceptions modelled, perceived ease of use was the one not significantly associated with [[self-efficacy]], while perceived reliability, usefulness, perceived intelligence, perceived knowledge and anxiety each were.
+1. **Perceived ease of use did not predict self-efficacy.** Of the technological perceptions modeled, perceived ease of use was the one not significantly associated with [[self-efficacy]], while perceived reliability, usefulness, perceived intelligence, perceived knowledge and anxiety each were.
 2. **Perceived knowledge cut anxiety and raised trust and intention.** Perceived AIGC knowledge was positively associated with [[trust]], self-efficacy and usage intention, and negatively associated with AIGC-related anxiety.
-3. **Three constructs carried indirect paths.** Trust, AIGC-related anxiety and self-efficacy each showed a significant specific indirect effect in the modelled relationship between perceived AIGC knowledge and usage intention.
-4. **Usage intention was strongly associated with dependence.** The modelled outcome, perceived technological dependence, was strongly associated with intention to use the tools.
+3. **Three constructs carried indirect paths.** Trust, AIGC-related anxiety and self-efficacy each showed a significant specific indirect effect in the modeled relationship between perceived AIGC knowledge and usage intention.
+4. **Usage intention was strongly associated with dependence.** The modeled outcome, perceived technological dependence, was strongly associated with intention to use the tools.
 5. **Anxiety belonged to the pathway, not outside it.** AIGC-related anxiety was positively associated with self-efficacy and functioned as part of the indirect route rather than as a simple barrier to use.
 6. **The construct is functional reliance, not pathology.** The authors define perceived technological dependence as reported reliance on the tools for design work, and state directly that the data do not show the reported dependence reflects harmful overuse.
 
@@ -48,7 +48,7 @@ The anxiety result is a companion to that reading. Anxiety was positively associ
 
 ## What this model can and cannot establish
 
-The design is a single cross-sectional questionnaire, analysed with PLS-SEM using 5,000 bootstrap resamples and percentile confidence intervals. That machinery is appropriate for estimating associations among latent constructs, and the authors are unusually clear about its limits: the arrows represent hypothesized association, not observed sequence, and the paper says explicitly that the framework's ordering "does not represent an observed sequence of changes in the students."
+The design is a single cross-sectional questionnaire, analyzed with PLS-SEM using 5,000 bootstrap resamples and percentile confidence intervals. That machinery is appropriate for estimating associations among latent constructs, and the authors are unusually clear about its limits: the arrows represent hypothesized association, not observed sequence, and the paper says explicitly that the framework's ordering "does not represent an observed sequence of changes in the students."
 
 This matters most for the dependence finding, which is the one that will be quoted. A strong association between usage intention and perceived dependence in cross-sectional data is compatible with dependence causing intention, intention producing a self-report of dependence, and both being produced by a third factor such as genuine usefulness. The paper does not claim otherwise, and its closing caution — that reported dependence is functional reliance rather than demonstrated harmful overuse — is the sentence to hold on to when citing it.
 

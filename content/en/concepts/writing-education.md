@@ -124,7 +124,7 @@ Writing education connects to [[automated-essay-scoring]], [[ai-feedback-quality
 
 **"Better writing assessment needs a bigger model."** It needs more samples. In a Grades 3–6 universal-screening study, LLM comparative-judgment scores converged with researcher rubrics at **r = .59–.73**, and averaging the **three** screening waves raised criterion validity to **β = .68–.74** — an improvement from design rather than scale. Reaching for a larger model when the reliability problem is sampling is the wrong lever.
 
-**"AI feedback and peer feedback are substitutes."** They combine. In a 10-week Chinese EFL course, adding ChatGPT feedback *before* peer review lifted behavioural, affective and cognitive engagement (partial η² of **0.28 to 0.32**) and improved writing scores across the board. The sequencing is doing work — the AI pass readied students for the peer pass rather than replacing it.
+**"AI feedback and peer feedback are substitutes."** They combine. In a 10-week Chinese EFL course, adding ChatGPT feedback *before* peer review lifted behavioral, affective and cognitive engagement (partial η² of **0.28 to 0.32**) and improved writing scores across the board. The sequencing is doing work — the AI pass readied students for the peer pass rather than replacing it.
 
 **"Students act on AI feedback when it is offered."** Uptake is selective. [[biology-undergraduates-ai-enabled-feedback-scientific-writing-2026|Weston and Long (2026)]] tracked two undergraduate biology teams revising a proposal introduction against instructor-built AI feedback: 10 of 22 comments were addressed, deletions outnumbered additions, and the comments requiring students to judge coherence or claim support were ignored entirely.
 

@@ -101,7 +101,7 @@ A recurring problem is that "personalized learning" is a broad, loosely defined 
 
 ## Common Misconceptions
 
-**"Personalized learning and adaptive learning are the same thing."** Adaptive systems are one *means* toward personalization, not its definition. Personalization can equally be achieved through static learner profiles, choice-based pathways, or human-tutor tailoring that never adapts in real time. Treating the two as synonyms makes a school that offers rich learner choice but no adaptive engine look unpersonalized, and makes a tightly adaptive drill look more learner-centred than it is.
+**"Personalized learning and adaptive learning are the same thing."** Adaptive systems are one *means* toward personalization, not its definition. Personalization can equally be achieved through static learner profiles, choice-based pathways, or human-tutor tailoring that never adapts in real time. Treating the two as synonyms makes a school that offers rich learner choice but no adaptive engine look unpersonalized, and makes a tightly adaptive drill look more learner-centered than it is.
 
 **"Personalization pays off by covering more ground."** Where the diagnosis behind a path is actually validated, it pays off by *lowering load rather than by coverage*: shortest-path remediation averaged 3.82 steps and cut study time 22.0% (57.6 versus 73.8 minutes), with cognitive load carrying the effect. The benefit is fewer unnecessary steps, not more content per hour.
 

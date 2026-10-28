@@ -56,7 +56,7 @@ Adult learning sits at the intersection of several closely linked concepts in th
 ## Common Misconceptions
 
 - **"One good tool serves adult learners."** Research found **no single adult-learning AI system satisfied all design guidelines** — the full ecosystem was needed. Adults arrive with obligations, intermittent schedules and heterogeneous goals, so a single product cannot cover the design space.
-- **"Digital literacy can be assumed at the adult level."** [[community-centered-ai-education-adults|A Midwestern case study]] co-designed an AI-literacy programme for **54 adults in an underserved community** and found that equity-oriented adult AI education **must address foundational digital literacy and data trust** first. Age is not a proxy for digital fluency.
+- **"Digital literacy can be assumed at the adult level."** [[community-centered-ai-education-adults|A Midwestern case study]] co-designed an AI-literacy program for **54 adults in an underserved community** and found that equity-oriented adult AI education **must address foundational digital literacy and data trust** first. Age is not a proxy for digital fluency.
 - **"Adoption is a motivation problem."** Building [[ai-literacy]] and [[trust]] around data privacy has to precede expecting adoption. Willingness follows from confidence about what happens to one's data, not from enthusiasm about the technology.
 ## Connected Concepts
 

@@ -51,11 +51,11 @@ What is distinctive about AI in this field is that the same technology is both t
 
 ## Common Misconceptions
 
-**"Information technology education is computer science education with more vendor tools."** The boundary is the object of study. Computer science education centres on algorithms, programming and formal foundations; IT education centres on applied configuration, cybersecurity, data and information management, and the organisational governance of socio-technical systems. The distinction changes what an AI tutor should be good at: an IT learner needs judgement about a deployed system's failure modes, not a proof about a computation.
+**"Information technology education is computer science education with more vendor tools."** The boundary is the object of study. Computer science education centers on algorithms, programming and formal foundations; IT education centers on applied configuration, cybersecurity, data and information management, and the organizational governance of socio-technical systems. The distinction changes what an AI tutor should be good at: an IT learner needs judgment about a deployed system's failure modes, not a proof about a computation.
 
 **"A classifier accurate enough to identify question types is accurate enough to automate formative feedback."** Aggregate accuracy hides the per-class error that matters. In the comparison this page cites, DeBERTa led at **86.36% accuracy and 96.67% precision on factual questions**, but facilitator precision fell to **78.79%**; a fine-tuned BERT reached **92.00% recall on co-learner items at only 74.19% precision**. Automation would route roughly one in four of those to the wrong intervention — and the errors concentrate on the pedagogically interesting categories, not the easy ones.
 
-**"Most programmes having an AI document means AI governance is in place."** In an environmental scan of all **48 accredited** health informatics and health information management master's programmes, **40 (83%)** had at least one publicly available AI document — but the finding is titled guidance, not policy. A published set of recommendations is not a governance mechanism: it neither assigns responsibility nor specifies what happens when a system fails.
+**"Most programmes having an AI document means AI governance is in place."** In an environmental scan of all **48 accredited** health informatics and health information management master's programs, **40 (83%)** had at least one publicly available AI document — but the finding is titled guidance, not policy. A published set of recommendations is not a governance mechanism: it neither assigns responsibility nor specifies what happens when a system fails.
 
 **"Students who cannot explain an AI-supported decision are misusing AI."** The alternative explanation is that they cannot articulate a decision they made correctly. IT work is full of competent practice whose rationale is tacit, and treating inarticulate competence as misconduct misdiagnoses a teaching target as a discipline problem — it needs explanation practice, not a policy.
 
@@ -74,7 +74,7 @@ What is distinctive about AI in this field is that the same technology is both t
 
 **For programme designers**
 
-- Build the governance artefact the sector is missing: named responsibility, review cadence, and an incident path. An AI guidance document satisfies an accreditation question and not an accountability one.
+- Build the governance artifact the sector is missing: named responsibility, review cadence, and an incident path. An AI guidance document satisfies an accreditation question and not an accountability one.
 
 ## Connected Concepts
 

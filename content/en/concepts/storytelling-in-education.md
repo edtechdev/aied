@@ -38,9 +38,9 @@ Storytelling connects to [[student-engagement]], [[motivation]], [[creativity]],
 
 **"A co-built story is a told story."** What is gained is fluency and volume; what is at risk is the teller's authorship. A story is a structuring of experience by someone who chose the sequence and the emphasis, so a machine that supplies the structure has supplied the part that carries the meaning.
 
-**"Storytelling is a soft addition to content."** Narrative is a memory and sense-making device, and the learner who narrates is doing the organising work. Handing over the narration hands over the learning.
+**"Storytelling is a soft addition to content."** Narrative is a memory and sense-making device, and the learner who narrates is doing the organizing work. Handing over the narration hands over the learning.
 
-**"AI generation makes storytelling available to students who could not write."** It makes *producing a written artefact* available, which is a different benefit. Oral narration, drawing and dictation are the established routes to the same goal, and they preserve the authorship that generation removes.
+**"AI generation makes storytelling available to students who could not write."** It makes *producing a written artifact* available, which is a different benefit. Oral narration, drawing and dictation are the established routes to the same goal, and they preserve the authorship that generation removes.
 
 **"The educational value of a story is in the polished result."** It is in the construction — the selection and ordering that a teller performs. A polished story the student did not structure has demonstrated the model's competence rather than the learner's.
 

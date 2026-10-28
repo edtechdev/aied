@@ -62,7 +62,7 @@ Knowledge tracing is closely related to [[student-modeling]] — while knowledge
 
 **"The best model on one dataset is the best model for your course."** Accuracy is setting-specific. OKT reached **89.81% AUC** on live [[engineering-education|engineering]]-program LMS data (2,416 students, 966 outcomes), beating DKT, DKVMN, EKT and SimpleKT — while giving only competitive results on ASSISTments. The same architecture that wins on one dataset family is unremarkable on another, so a headline AUC from elsewhere is weak evidence about your students.
 
-**"Knowledge persists unless there is evidence of forgetting."** Forgetting is the default worth modelling. [[schuetze-knowledge-tracing-forgetting-2026|Schuetze, Yan and Carvalho (2025)]] fit BKT, BKT-with-Forgetting and the Additive Factors Model across a multi-session sequence and found that model fit changes when retention is represented, and that how these models are *validated* differs from how they are *deployed*.
+**"Knowledge persists unless there is evidence of forgetting."** Forgetting is the default worth modeling. [[schuetze-knowledge-tracing-forgetting-2026|Schuetze, Yan and Carvalho (2025)]] fit BKT, BKT-with-Forgetting and the Additive Factors Model across a multi-session sequence and found that model fit changes when retention is represented, and that how these models are *validated* differs from how they are *deployed*.
 
 ## Implications for Practice
 
@@ -76,7 +76,7 @@ Knowledge tracing is closely related to [[student-modeling]] — while knowledge
 
 - Do not pay for sequence-model complexity without a baseline. On 1,927,265 mathematics responses from 8,996 Finnish students, item identity alone reached **AUC .8362**, and adding a single recency measure relative to item difficulty raised it to **.866** — a large share of what sequence models buy for a fraction of the machinery.
 - Model forgetting explicitly rather than assuming knowledge persists; the BKT-with-forgetting comparisons show fit changes when retention is in the model.
-- Report the deployment rule alongside the model. Validation-vs-deployment mismatch in the forgetting studies is a reporting failure as much as a modelling one.
+- Report the deployment rule alongside the model. Validation-vs-deployment mismatch in the forgetting studies is a reporting failure as much as a modeling one.
 
 **For researchers**
 

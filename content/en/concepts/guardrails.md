@@ -94,7 +94,7 @@ The two are closely coupled: almost every guardrail technique is a way of achiev
 **For developers**
 
 - Build the guardrail into the interaction path, not into a prompt instruction that a determined student can talk past. The hint-not-answer pattern is the empirically supported default.
-- Recognize that thresholds are policy decisions, not optimizations. Moving a toxicity cutoff from 0.3 to 0.7 cut labelled prompts from 35.62% to 12.4%; on a scam detector it traded 15 false alarms and 18 missed scams for 2 and 36. No cutoff removes the tradeoff, so expose the choice to the institution rather than burying it in a constant.
+- Recognize that thresholds are policy decisions, not optimizations. Moving a toxicity cutoff from 0.3 to 0.7 cut labeled prompts from 35.62% to 12.4%; on a scam detector it traded 15 false alarms and 18 missed scams for 2 and 36. No cutoff removes the tradeoff, so expose the choice to the institution rather than burying it in a constant.
 - Design for quiet failure. The damaging failures here are not toxic outputs but tutors that answer correctly and erode learning, or refuse evenly and entrench inequality.
 
 **For researchers and auditors**
@@ -109,7 +109,7 @@ The two are closely coupled: almost every guardrail technique is a way of achiev
 
 **"If the model does not produce harmful content, the system is safe for learners."** Harm is often quiet. The most damaging tutoring failures are not toxic outputs but tutors that answer correctly and erode learning, or that refuse evenly and entrench inequality — failures a toxicity screen is structurally blind to, because nothing in them is offensive. Passing a content audit is a necessary condition reported as if it were sufficient.
 
-**"Guardrail thresholds are engineering choices to be tuned."** A threshold is a policy decision with a distributional cost. Moving a toxicity cutoff from 0.3 to 0.7 cut labelled prompts from **35.62% to 12.4%**; on a scam detector it traded **15 false alarms and 18 missed scams for 2 and 36**. No cutoff removes the tradeoff — it only decides which error the institution prefers, and that decision belongs to the institution rather than to a default constant.
+**"Guardrail thresholds are engineering choices to be tuned."** A threshold is a policy decision with a distributional cost. Moving a toxicity cutoff from 0.3 to 0.7 cut labeled prompts from **35.62% to 12.4%**; on a scam detector it traded **15 false alarms and 18 missed scams for 2 and 36**. No cutoff removes the tradeoff — it only decides which error the institution prefers, and that decision belongs to the institution rather than to a default constant.
 
 **"Fairness auditing is a separate concern from guardrail adequacy."** Refusal and support patterns distribute benefit unevenly even when applied evenly, and an average harm rate hides which students absorb it. Auditing has to be part of the guardrail specification, not a study commissioned afterwards.
 

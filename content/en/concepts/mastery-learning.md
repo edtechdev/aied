@@ -54,7 +54,7 @@ Standards-based grading is the assessment counterpart to mastery learning, and [
 
 **"If the system says mastered, the student is ready to advance."** Only relative to the update rule in force. Where a rule credits assisted work, "mastered" can describe a student who has succeeded with support and not independently — the same divergence between assisted performance and unassisted capability that the [[learning-gains]] literature documents.
 
-**"Mastery learning is the pedagogy AI finally makes possible."** Its mechanics predate AI considerably — Bloom formalised the framework decades ago — and AI operationalises it by automating the assessment and pacing decisions rather than by realising a previously impossible design. That reframing matters because the automation inherits the rule choice, and the rule is where the judgement lives.
+**"Mastery learning is the pedagogy AI finally makes possible."** Its mechanics predate AI considerably — Bloom formalised the framework decades ago — and AI operationalises it by automating the assessment and pacing decisions rather than by realising a previously impossible design. That reframing matters because the automation inherits the rule choice, and the rule is where the judgment lives.
 
 **"More frequent assessment under mastery makes the threshold more reliable."** Frequency improves the estimate and does not fix a mis-specified rule. Recomputing mastery more often from events that include assisted work converges faster on the same wrong answer.
 

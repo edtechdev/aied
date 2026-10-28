@@ -59,7 +59,7 @@ Two more strands set the limits of the role. [[pearls-epistemic-verification-202
 
 **"Librarians are peripheral to AI in education."** They hold a specific, testable role, and the corpus measures it. Across **312 consultations (10.4 per participant)**, source evaluation and quality accounted for **38.5%**, search-strategy formation **29.2%**, citation management **18.6%**, and repository navigation **13.7%** — and **73.4% were answered within six hours**. That is not a peripheral service; it is the information-literacy function carrying the load AI could not.
 
-**"AI search answers the questions students used to bring to a librarian."** In the embedded-librarian study, **source-evaluation questions dominated consultations (38.5%) precisely in the cases where the AI was least confident**. The tool's uncertainty routed work to the human capacity that could resolve it, which makes the observed pattern a division of labour rather than an obsolescence.
+**"AI search answers the questions students used to bring to a librarian."** In the embedded-librarian study, **source-evaluation questions dominated consultations (38.5%) precisely in the cases where the AI was least confident**. The tool's uncertainty routed work to the human capacity that could resolve it, which makes the observed pattern a division of labor rather than an obsolescence.
 
 **"Information literacy is a one-off induction session."** It is instruction, not assistance: the questions students arrive with are evaluation and strategy problems — is this source credible, how do I search this — which are teachable skills rather than transactions to be completed. Treating the service as assistance converts a curriculum into a helpdesk and loses the durable capability.
 

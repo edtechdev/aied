@@ -75,7 +75,7 @@ Work-integrated experience can be the binding condition for advanced competence:
 
 **For programme designers**
 
-- Check that applied programmes contain applied work rather than lab proxies; the transfer claim rests on the authenticity of the encounter.
+- Check that applied programs contain applied work rather than lab proxies; the transfer claim rests on the authenticity of the encounter.
 
 ## Connected Concepts
 - [[active-learning]]

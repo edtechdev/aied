@@ -42,7 +42,7 @@ Because e-portfolios foreground **process, reflection, and demonstrated understa
 
 ## Common Misconceptions
 
-**"An e-portfolio is a digital folder of finished work."** The assessment value comes from capturing the *process* — reasoning, drafting, revision, reflection — rather than the final artefact. That is precisely why e-portfolios are comparatively AI-robust: when the artefact can be generated, an assessment built on process retains evidence that an assessment built on the product has lost.
+**"An e-portfolio is a digital folder of finished work."** The assessment value comes from capturing the *process* — reasoning, drafting, revision, reflection — rather than the final artifact. That is precisely why e-portfolios are comparatively AI-robust: when the artifact can be generated, an assessment built on process retains evidence that an assessment built on the product has lost.
 
 **"AI makes e-portfolios as easy to fake as essays."** The failure mode is different and the evidence shows the format moving in the other direction. Combining ChatGPT with e-portfolio assessment (a CEA model) in EFL speaking produced significant gains in speaking performance (**F(1) = 48.554, p < .001**) and [[feedback-literacy|feedback literacy]] (**F(1) = 16.135, p < .001**), with e-portfolios supporting the reflective layer. The portfolio did not become the weak link once AI was added to the course; it carried the assessment.
 
@@ -54,7 +54,7 @@ Because e-portfolios foreground **process, reflection, and demonstrated understa
 
 **For instructors**
 
-- Require the process, not just the product: drafts with dates, revision explanations, and reflection on what changed and why. Those are the artefacts AI cannot supply on the learner's behalf.
+- Require the process, not just the product: drafts with dates, revision explanations, and reflection on what changed and why. Those are the artifacts AI cannot supply on the learner's behalf.
 - Pair the portfolio with at least one unassisted performance measure, so process evidence and capability evidence are both on record.
 - Use AI *inside* the portfolio workflow — for feedback on drafts — rather than outside it, which is the configuration the cited study tested.
 

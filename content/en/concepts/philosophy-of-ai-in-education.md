@@ -71,7 +71,7 @@ Philosophy of AI in education and [[theory-development-aied|theory development i
 **For developers**
 
 - Expose the boundary you have drawn between assistance and supply, and make it a product decision rather than a default. A system that can produce the finished artifact has decided, implicitly, that mental work is optional.
-- Resist optimising for the appearance of learning. Fluency and completeness are the measurable properties, and they are the ones that mask foreclosure.
+- Resist optimizing for the appearance of learning. Fluency and completeness are the measurable properties, and they are the ones that mask foreclosure.
 - If you claim your system "supports thinking", state what it refuses to do — the refusal is the mechanism.
 
 **For researchers and policymakers**

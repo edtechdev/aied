@@ -91,7 +91,7 @@ Bias mitigation is the technical mechanism through which [[equity-in-ai-educatio
 
 - **"Bias is a scoring and feedback problem."** Bias enters **task classes outside scoring**: three LLMs assigning **28-student software-engineering classes to four teams routed men at least 80% less often than** the reference distribution. Team formation carried bias at a magnitude comparable to grading.
 - **"Supplying the relevant skill removes the bias."** Supplying skills **reduced but did not remove it**: **99.2% of skill-based assignments matched one of two ground-truth teams, yet gender still decided between equally valid options (OR 2.53**). Near-perfect task matching coexisted with a gender effect, so accuracy on the primary criterion is not evidence of fairness.
-- **"One mitigation approach is sufficient."** The research illustrates **complementary strategies** — fairness-aware modelling among them — because the bias entering at formation is not addressed by a fix aimed at output text.
+- **"One mitigation approach is sufficient."** The research illustrates **complementary strategies** — fairness-aware modeling among them — because the bias entering at formation is not addressed by a fix aimed at output text.
 ## Connected Concepts
 - [[differential-effects-across-learner-groups]]
 - [[explainable-ai]]

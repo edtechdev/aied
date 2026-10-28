@@ -53,7 +53,7 @@ For the fuller treatment of experimental design in AI in education — including
 
 ## Common Misconceptions
 
-- **"Randomisation guarantees a valid estimate of what the tool does."** Randomisation balances confounders; it does not ensure anyone used the treatment. A group-randomised trial with low uptake estimates **the effect of offering** the tool, and intent-to-treat and treatment-on-treated answer different questions.
+- **"Randomisation guarantees a valid estimate of what the tool does."** Randomization balances confounders; it does not ensure anyone used the treatment. A group-randomized trial with low uptake estimates **the effect of offering** the tool, and intent-to-treat and treatment-on-treated answer different questions.
 - **"A big trial is always the better design."** Some argue that conventional large-scale trials **cannot keep pace with tutoring platforms that change materially during a study**, and instead use teacher-led designs that stay valid as the system evolves. A trial of a moving target can be well powered and still measure a system that no longer exists.
 - **"RCTs and observational evidence are substitutable."** An RCT with **1,174 participants** found GenAI **closed about three-quarters of an education-based productivity gap** — a precise causal claim over a specific period. Observation explains mechanism and adoption; it cannot carry that estimate, and the RCT cannot explain why.
 ## Connected Concepts

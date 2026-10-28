@@ -68,11 +68,11 @@ For designers and educators, activity theory counsels looking beyond the AI tool
 
 ## Common Misconceptions
 
-**"A teacher's adoption of AI is a question of individual attitude."** Activity theory reframes it as a property of the whole activity system — subject, tools, rules, community and division of labour — so resistance is frequently a rational response to a system that has not changed. A teacher who declines a tool that adds work, redistributes their attention badly, or conflicts with departmental norms is reading the system correctly; attitude surveys will record that as a disposition and miss the cause.
+**"A teacher's adoption of AI is a question of individual attitude."** Activity theory reframes it as a property of the whole activity system — subject, tools, rules, community and division of labor — so resistance is frequently a rational response to a system that has not changed. A teacher who declines a tool that adds work, redistributes their attention badly, or conflicts with departmental norms is reading the system correctly; attitude surveys will record that as a disposition and miss the cause.
 
 **"If you change the teacher's beliefs, the practice will follow."** The unit of change is larger than the person. Interventions that alter norms, workload distribution and shared rules change practice more reliably than those aimed at individual conviction, because the object of the activity is produced collectively. This also explains why individually enthusiastic adopters revert when their department does not move with them.
 
-**"Activity theory is a descriptive lens with no design consequences."** It directs design at the contradictions between elements of the system — the tool that conflicts with the rules, the division of labour that conflicts with the object — which is where change is actually levered. A lens that locates contradictions is giving you a place to intervene, not merely a vocabulary.
+**"Activity theory is a descriptive lens with no design consequences."** It directs design at the contradictions between elements of the system — the tool that conflicts with the rules, the division of labor that conflicts with the object — which is where change is actually levered. A lens that locates contradictions is giving you a place to intervene, not merely a vocabulary.
 
 ## Connected Concepts
 - [[sociocultural-learning]] — the theoretical family activity theory belongs to (Vygotskian, cultural-historical)

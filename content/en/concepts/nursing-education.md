@@ -49,7 +49,7 @@ The field also refines three adjacent concepts. From [[simulation]] it inherits 
 
 ## Common Misconceptions
 
-**"AI-supported simulation improves nursing competence across the board."** The benefit stops at a documented boundary. AI-supported simulation reliably improves knowledge and [[self-efficacy]] but shows **inconsistent, sometimes negative effects on complex psychomotor skill** — and psychomotor competence is not a peripheral outcome in a profession defined by it. A programme adopting simulation on the strength of knowledge gains has evidence for a different endpoint than the one licensure tests.
+**"AI-supported simulation improves nursing competence across the board."** The benefit stops at a documented boundary. AI-supported simulation reliably improves knowledge and [[self-efficacy]] but shows **inconsistent, sometimes negative effects on complex psychomotor skill** — and psychomotor competence is not a peripheral outcome in a profession defined by it. A program adopting simulation on the strength of knowledge gains has evidence for a different endpoint than the one licensure tests.
 
 **"The workforce anxiety around AI in nursing is really a skills gap, so AI literacy training is the remedy."** The anxiety is about employment, not about competence. A survey of **821 health-sciences students** found a moderate positive correlation between [[anxiety-and-stress|AI anxiety]] and job-search anxiety (**r = 0.233, p < 0.001**), with AI anxiety a significant predictor after controls. Teaching literacy addresses the fear of not being able to use a tool; it does not address the fear of not having a job — and the literature's professional-identity framing, who becomes a nurse rather than what a trainee can do, is where that question belongs.
 
@@ -72,7 +72,7 @@ The field also refines three adjacent concepts. From [[simulation]] it inherits 
 
 **For researchers**
 
-- Report prelicensure and practising-nurse samples separately, and study the transition to supervised practice if the competence claim is to mean anything clinically.
+- Report prelicensure and practicing-nurse samples separately, and study the transition to supervised practice if the competence claim is to mean anything clinically.
 
 ## Connected Concepts
 

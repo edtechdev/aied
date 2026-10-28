@@ -90,7 +90,7 @@ Student experience connects to [[cognitive-offloading|Over-Reliance]] (excessive
 
 **"Students who avoid AI are behind."** Non-use is frequently a reasoned position rather than a gap: a cross-institutional UK survey of **7,087 students** found **32% did not use GenAI for study at all**, with non-users citing wanting to do the work themselves. Treating that as an adoption deficit inverts the finding and pressures students out of a defensible choice.
 
-**"Student reports are a reasonable measure of learning."** They are [[self-report-measures|self-report measures]]: they capture perceptions and intentions well and behaviour only approximately. The performance–learning gap in this literature — students doing better with AI and worse on later unassisted tasks — is precisely the case where self-report and outcome diverge, so a satisfied student body is not evidence of a learning student body.
+**"Student reports are a reasonable measure of learning."** They are [[self-report-measures|self-report measures]]: they capture perceptions and intentions well and behavior only approximately. The performance–learning gap in this literature — students doing better with AI and worse on later unassisted tasks — is precisely the case where self-report and outcome diverge, so a satisfied student body is not evidence of a learning student body.
 
 **"If students feel AI helps, it helps."** Feeling helped is a real datum about the experience and an unreliable inference about the outcome. The gap is documented and students in the harmed group do not reliably perceive it, so perception and outcome have to be collected as separate measures rather than one standing in for the other.
 
@@ -102,7 +102,7 @@ Student experience connects to [[cognitive-offloading|Over-Reliance]] (excessive
 
 - Do not treat non-use as a gap to close. Roughly a third of students choose to do the work themselves, and pressure to adopt converts a reasoned position into a compliance problem.
 - Collect perception and outcome separately. Satisfaction surveys describe the experience and cannot stand in for unassisted performance.
-- Make disclosure safe, since students who expect judgement conceal their use, and concealed use is where the divergence between assisted and unassisted performance hides.
+- Make disclosure safe, since students who expect judgment conceal their use, and concealed use is where the divergence between assisted and unassisted performance hides.
 
 **For developers**
 

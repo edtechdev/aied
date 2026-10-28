@@ -146,7 +146,7 @@ AI in education connects to every concept in the knowledge base — it is the fi
 
 ## Common Misconceptions
 
-**"AI in education is one field with one evidence base."** It is an umbrella over distinct strands — disciplines, levels, assessment, research methods, institutions, equity — that differ in their methods, their outcome measures and their maturity. A finding from one strand does not transfer to another, which is why the knowledge base is organised this way rather than as a single literature.
+**"AI in education is one field with one evidence base."** It is an umbrella over distinct strands — disciplines, levels, assessment, research methods, institutions, equity — that differ in their methods, their outcome measures and their maturity. A finding from one strand does not transfer to another, which is why the knowledge base is organized this way rather than as a single literature.
 
 **"A tool that improves course outcomes improves student success."** The institutional strand shows the opposite pattern: in [[student-support-and-success|student support and success]], AI **reliably moves task completion but not persistence or graduation**. An intervention can win every in-course measure and leave the completion outcome flat.
 

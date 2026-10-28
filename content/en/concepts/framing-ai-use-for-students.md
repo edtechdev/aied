@@ -80,11 +80,11 @@ Students are also framed by the wider media and public discourse around [[ai-edu
 
 ## Common Misconceptions
 
-**"A clear policy tells students what the rules are, so framing is unnecessary."** Policy text is not framing, and the gap shows in behaviour: most students use generative AI, **many are unsure whether their own use complies**, and they lean on privately accessed tools rather than institutionally provided ones. A student who cannot tell whether they are compliant is not being communicated with, whatever the document says — which is why the page puts "say why, not just what" in its method.
+**"A clear policy tells students what the rules are, so framing is unnecessary."** Policy text is not framing, and the gap shows in behavior: most students use generative AI, **many are unsure whether their own use complies**, and they lean on privately accessed tools rather than institutionally provided ones. A student who cannot tell whether they are compliant is not being communicated with, whatever the document says — which is why the page puts "say why, not just what" in its method.
 
 **"Publishing a policy and providing a licensed tool covers the institutional responsibility."** Access and take-up are different outcomes, and this page exists because the second one is where the lever is. Structural [[guardrails]] change the environment automatically, but [[scaffolding]], literacy training and use policies only take hold when students are actually convinced of their point — that is the buy-in dependency the page names.
 
-**"Banning a tool removes the behaviour."** It relocates it to tools you cannot see. Students already prefer privately accessed tools over institutionally provided ones, so a prohibition pushes use out of the only environment where support, logging or guidance is possible. The framing task is to make the permitted behaviour the attractive one, not to make the prohibited behaviour harder to observe.
+**"Banning a tool removes the behaviour."** It relocates it to tools you cannot see. Students already prefer privately accessed tools over institutionally provided ones, so a prohibition pushes use out of the only environment where support, logging or guidance is possible. The framing task is to make the permitted behavior the attractive one, not to make the prohibited behavior harder to observe.
 
 **"Framing is persuasion, so it is more rhetoric than design."** The framing this page describes is paired with design: expectations stated clearly and repeatedly *while designing around students*. Messaging delivered instead of designed-for is the version that fails, because students read the difference between a stated commitment and an actual one.
 

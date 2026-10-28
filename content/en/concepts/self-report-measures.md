@@ -141,7 +141,7 @@ The knowledge base's constructive answers are consistent, and none of them requi
 
 - **"Survey evidence is weak but roughly unbiased."** Response structure bounds the estimate before bias: a survey gets **112 responses at a 31% response rate**, or **90 responses from 572 invitations**. The respondent pool is a self-selected subset, so the figure describes that subset.
 - **"Surveys are a minority method in this field."** A scoping review of **394 GenAI higher-education studies** found **survey scales the most frequently reported assessment method (269 studies, 68.3%)**, ahead of tests and quizzes. The field's dominant evidence is self-report.
-- **"Self-report and measured constructs agree."** **Self-reported cognitive load did not differ significantly across offloading profiles that ranged from 80% to 2% in essay authorship**, while the heaviest offloaders differed measurably. The subjective measure was flat where behaviour varied by a factor of forty.
+- **"Self-report and measured constructs agree."** **Self-reported cognitive load did not differ significantly across offloading profiles that ranged from 80% to 2% in essay authorship**, while the heaviest offloaders differed measurably. The subjective measure was flat where behavior varied by a factor of forty.
 ## Connected Concepts
 
 - [[interpreting-and-applying-aied-research]]

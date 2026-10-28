@@ -69,8 +69,8 @@ A 2026 interdisciplinary systematic review (Dabaghi, D'Urso & Sciarrone, PRISMA-
 
 - **"A large effect size means the tool improves learning."** The field's largest estimate — a [[meta-analysis-systematic-review|meta-analysis]] of 69 studies reporting *g* = 0.7 for ChatGPT and similar tools — pools **immediate task success**, not retention, transfer or understanding. The same issue applies to the 53-study pooled estimate (*g* = 0.40 achievement, 0.72 higher-order thinking, 0.81 motivation, 0.76 writing): these are outcomes measured close to the intervention, on tasks resembling the intervention. An audit of 14 meta-analyses claiming AI improves education found **none justified its claims**. Treat any headline number as evidence about performance under conditions, and ask what was measured and when.
 - **"The newer model will fix it."** Model generation is not the binding constraint. ChatGPT-5 matched human faculty on objective pharmacy-exam items (CCC 0.935–1.000) but not on short-answer items (≈0) or essays (0.341–0.854), and **a structured rubric did not reliably close the gap**. Capability gains on closed tasks have not transferred proportionally to open-ended work, which is where most assessment actually lives.
-- **"Usage data shows it is working."** In the 394-study mapping, ChatGPT with an unspecified version appeared in 94 studies and the 3/3.5 family in 66 — so a large share of published capability claims describe **model generations since superseded**, and many studies do not report the version at all. Reported behaviour is tied to a specific model and a specific date, which makes undated claims about "generative AI" unfalsifiable rather than general.
-- **"It is safe because experts annotated the corpus."** A multi-expert annotated corpus of 4,815 student-AI messages found only about 0.68% of messages contained the harmful or off-task content the coding scheme was built to detect. That is a finding about the base rate, not about safety: rare events are rare, and a system's failure tails are exactly the cases a corpus of that size struggles to characterise.
+- **"Usage data shows it is working."** In the 394-study mapping, ChatGPT with an unspecified version appeared in 94 studies and the 3/3.5 family in 66 — so a large share of published capability claims describe **model generations since superseded**, and many studies do not report the version at all. Reported behavior is tied to a specific model and a specific date, which makes undated claims about "generative AI" unfalsifiable rather than general.
+- **"It is safe because experts annotated the corpus."** A multi-expert annotated corpus of 4,815 student-AI messages found only about 0.68% of messages contained the harmful or off-task content the coding scheme was built to detect. That is a finding about the base rate, not about safety: rare events are rare, and a system's failure tails are exactly the cases a corpus of that size struggles to characterize.
 ## What this means for practice
 
 **For instructors**
@@ -82,7 +82,7 @@ A 2026 interdisciplinary systematic review (Dabaghi, D'Urso & Sciarrone, PRISMA-
 **For developers**
 
 - Do not roadmap against pooled effect sizes. An audit of 14 meta-analyses found none justified its claims, so a product claim resting on a headline *g* is resting on methodology that does not survive inspection.
-- Instrument the base rate before optimising it. A 0.68% incidence rate means most quality work happens in the tail, and tail performance is what determines whether a deployment is acceptable.
+- Instrument the base rate before optimizing it. A 0.68% incidence rate means most quality work happens in the tail, and tail performance is what determines whether a deployment is acceptable.
 - Report version, date and task type with every benchmark number you publish, because a capability claim that omits them is not reproducible.
 ## Connected Concepts
 

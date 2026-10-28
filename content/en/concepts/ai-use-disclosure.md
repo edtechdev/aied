@@ -76,7 +76,7 @@ AI use and disclosure sits at the intersection of [[academic-integrity]] (its pa
 
 ## Common Misconceptions
 
-- **"Mandatory declaration policies produce disclosure."** [[gonsalves-student-non-compliance-ai-declarations-2025|Gonsalves (2025)]] documented **74% non-compliance** with a mandatory declaration at a business school. The requirement did not produce the behaviour it mandated.
+- **"Mandatory declaration policies produce disclosure."** [[gonsalves-student-non-compliance-ai-declarations-2025|Gonsalves (2025)]] documented **74% non-compliance** with a mandatory declaration at a business school. The requirement did not produce the behavior it mandated.
 - **"Students hide AI use because they are dishonest."** The drivers are documented and specific: only **about 34% of economics students admitted AI use** with disclosure rarer, driven by **penalty anxiety**, while another study found **66% never or rarely disclosed** with **fear of academic penalty the top reason**. The policy design, not character, is what the data implicate.
 - **"A disclosure requirement is a low-cost control."** A **74% non-compliance rate** makes the resulting record worse than no record: it is a dataset that appears complete and is not, so the institution is making decisions on a sample it cannot trust.
 - **"Disclosing how the model was used is enough."** [[authorial-warrant-ai-supported-scholarship-2026|Mirończuk (2026)]] argues disclosure documents model use while responsible use requires claim-level authorial warrant — the contributor's capacity to understand, justify and defend the claims — separating cognitive delegation, where outputs shape substantive choices, from routine delegation, which does not.

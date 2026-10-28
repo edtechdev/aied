@@ -64,7 +64,7 @@ Change management is the institutional complement to classroom-level integration
 ## Common Misconceptions
 
 - **"Strategic intent creates capacity."** Only **7% of institutions** have created senior AI leadership roles despite **49% viewing AI as a strategic priority**. The gap is between declaration and structure, and it is the recurring failure of AI change management.
-- **"Adopting an AI tool is an event."** **Sustainability is a property of the organisation, not the tool** — a four-year randomised evaluation of a non-generative AI text-messaging chatbot at California State University, Northridge illustrates the timescale. The evaluation ran four years because durability is what needed testing.
+- **"Adopting an AI tool is an event."** **Sustainability is a property of the organization, not the tool** — a four-year randomized evaluation of a non-generative AI text-messaging chatbot at California State University, Northridge illustrates the timescale. The evaluation ran four years because durability is what needed testing.
 - **"Institutions need to react faster, not anticipate."** **Anticipatory leadership** is the complementary thread: the [[baroudi-anticipatory-governance-ai-higher-ed-2026|scoping review]] finds institutions must shift from **reactive to foresight**-based governance. Reacting competently to a technology that has already arrived is what the evidence documents failing.
 ## Connected Concepts
 

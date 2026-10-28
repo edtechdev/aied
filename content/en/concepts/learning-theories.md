@@ -79,7 +79,7 @@ Alongside the classical families, the knowledge base documents theories written 
 
 ## Common Misconceptions
 
-**"One of the learning theories is the correct one, so theory choice is a matter of taste."** The theories make different claims about what counts as evidence, so the same data can support opposite conclusions. The clearest instance: inflated homework scores read as **learning under behaviourism** and as **a failure to build durable understanding under constructivism**. Theory choice therefore determines whether an intervention succeeded, which makes it a measurement decision rather than a stylistic preference.
+**"One of the learning theories is the correct one, so theory choice is a matter of taste."** The theories make different claims about what counts as evidence, so the same data can support opposite conclusions. The clearest instance: inflated homework scores read as **learning under behaviorism** and as **a failure to build durable understanding under constructivism**. Theory choice therefore determines whether an intervention succeeded, which makes it a measurement decision rather than a stylistic preference.
 
 **"A tool that supports deep learning will look like deep learning under any framework."** It will look like success under one and failure under another, as above. That is why the field's outcome measures need to be justified against a stated theory rather than borrowed as if neutral.
 
@@ -92,7 +92,7 @@ Alongside the classical families, the knowledge base documents theories written 
 **For instructors**
 
 - Choose theory by what you need it to do: explain how learning happens, describe the learner's state, or explain why a practice spreads. Applying the wrong layer measures the right variable against the wrong prediction.
-- State the outcome measure's theory commitment explicitly, since inflated homework scores read as success under behaviourism and as failure under constructivism from identical data.
+- State the outcome measure's theory commitment explicitly, since inflated homework scores read as success under behaviorism and as failure under constructivism from identical data.
 - When a framework cannot predict a difference between configurations, it cannot be tested in your setting and will not help you decide.
 
 **For developers**

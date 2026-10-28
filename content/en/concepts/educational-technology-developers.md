@@ -72,7 +72,7 @@ The role is also distinct from its neighbours. [[learning-design]] and [[curricu
 - Ground a design claim in a study you have read, not an effect size you have quoted. With 14 audited meta-analyses failing on method and a withdrawn one still propagating, citation count is not a validity signal.
 - Test autonomy as a variable rather than shipping it as an upgrade. Run the ablation: single-agent, co-pilot, autonomous. The Instructional Agents result showed the co-pilot configuration winning, so the default should be the one that measured best, not the one that sounds most capable.
 - Separate acceptability from efficacy in your own evaluation plan. A high willingness-to-keep number is a real finding and it is not evidence of learning, and conflating them in a report is how a weak product looks strong.
-- Treat credibility cues as a manipulation with a measured effect. Adding citations moved abandonment of a correct answer from 15.0% to 31.8%, so surfacing provenance changes user judgement — design for that rather than assuming it informs.
+- Treat credibility cues as a manipulation with a measured effect. Adding citations moved abandonment of a correct answer from 15.0% to 31.8%, so surfacing provenance changes user judgment — design for that rather than assuming it informs.
 
 **For instructors evaluating a tool**
 

@@ -85,7 +85,7 @@ The open questions are about the strength of the evidence, not only about design
 
 ## Common Misconceptions
 
-- **"Oral defence stops AI-assisted work."** Pasted-to-total characters **rose from 61.0% to 68.1% (p < 0.0001)** after every CS1 submission became subject to a **15-minute oral code review worth 70% of the grade**. The behaviour it targeted increased — and **exam scores did not decline and time-on-task held steady**, while **90% of students said the reviews motivated** them. The intervention worked on understanding, not on pasting.
+- **"Oral defence stops AI-assisted work."** Pasted-to-total characters **rose from 61.0% to 68.1% (p < 0.0001)** after every CS1 submission became subject to a **15-minute oral code review worth 70% of the grade**. The behavior it targeted increased — and **exam scores did not decline and time-on-task held steady**, while **90% of students said the reviews motivated** them. The intervention worked on understanding, not on pasting.
 - **"Cheating detection is what oral assessment is for."** The measured outcomes were understanding and motivation, not reduction of pasted text. Judging the design by its detection rate misreads what it achieved.
 - **"Peer review is a cheaper substitute for instructor feedback."** [[learning-by-teaching|Learning by teaching]] is the mechanism, and it shows up even among machines: peer-learning-like discourse among over **2.4 million AI agents** was mostly **assertion rather than inquiry**. Producing critique is a different act from receiving it.
 ## Connected Concepts

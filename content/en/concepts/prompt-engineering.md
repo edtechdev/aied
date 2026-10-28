@@ -80,8 +80,8 @@ Prompt engineering connects to [[scaffolding]] — well-designed prompts can sca
 ## Common Misconceptions
 
 - **"Prompt quality is a student attribute."** **Prompt cognition tracks the discipline, not the student**: [[student-ai-conversations-cognitive-engagement-2026|Chang and Li (2026)]] classified **60,087 prompts from 116 courses** and found the discipline predicted prompt sophistication. Teaching students to prompt better addresses a variation that sits in the subject matter.
-- **"Students develop their own prompting practice."** When the instructor modelled the prompt, **students reused it verbatim** — among **310 recorded prompts from twelve middle-school STEAM groups**, exact copying of the instructor's instruction was common. Modelling produces reproduction, which is why it is a system-design lever rather than a transferable skill.
-- **"Prompting is a learner skill first and a system property second."** This shifts prompting **into an adaptive system-design lever**, with measured effects on **engagement and efficiency (28.1% vs 19.6% exercise conversion)**. The interface's prompting affordances moved behaviour more than instruction in prompting did.
+- **"Students develop their own prompting practice."** When the instructor modeled the prompt, **students reused it verbatim** — among **310 recorded prompts from twelve middle-school STEAM groups**, exact copying of the instructor's instruction was common. Modeling produces reproduction, which is why it is a system-design lever rather than a transferable skill.
+- **"Prompting is a learner skill first and a system property second."** This shifts prompting **into an adaptive system-design lever**, with measured effects on **engagement and efficiency (28.1% vs 19.6% exercise conversion)**. The interface's prompting affordances moved behavior more than instruction in prompting did.
 ## Connected Concepts
 - [[pedagogical-patterns]] — The scaffolding layer inside structured-use sequences
 - [[vibe-coding]]

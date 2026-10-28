@@ -118,7 +118,7 @@ The same deficit has a demand side. [[gillette-partnership-ethics-genai-higher-e
 
 - **"Universities have real AI policy."** **Legal form is rarer than legal language.** In a **160-document scoping review**, **2.5% of instruments carried legal force while 57.5% were guidance or toolkits**. Nearly a quarter of a hundred documents' worth of AI governance is non-binding guidance.
 - **"Institutional caution reflects evidence."** Caution is attributed **to time pressure rather than evidence**: the ABA's 2024 survey drew responses from only about **15% of accredited schools**, so the cautious consensus rests on a non-representative sample.
-- **"Policy coverage can be mapped from a representative survey."** AI policy and guidance was collected from **all 48 CAHIIM-accredited programmes** in one domain — a complete census of a niche, which is more informative about that niche than about policy generally.
+- **"Policy coverage can be mapped from a representative survey."** AI policy and guidance was collected from **all 48 CAHIIM-accredited programs** in one domain — a complete census of a niche, which is more informative about that niche than about policy generally.
 ## Connected Concepts
 
 - [[pedagogical-partnerships]] — Pedagogical Partnerships

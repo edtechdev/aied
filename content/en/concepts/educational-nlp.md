@@ -58,7 +58,7 @@ Model compression belongs to the same toolkit: a two-stage pipeline distills a f
 
 - **"Semantic similarity can screen curriculum alignment."** Screening **3,837 dental objective-abstract pairs**, embedding retrieval plus a natural language inference check **judged 22.9% of items** as aligned — semantic similarity is a **weak signal** for alignment. A fluent topical match and a genuine learning-objective match are different relations.
 - **"Utterance-level classification is the natural unit."** **Whole-lesson modelling beats utterance-level classification**: scoring entire transcripts rather than isolated utterances **lifted reasoning-chain detection by 14.2 percentage points**. Context across the lesson carries information that any single turn destroys.
-- **"Scaling NLP on evaluation comments produces impact."** A PRISMA-ScR scoping review and evidence map of **421 studies** (2015-2026) applying NLP to open-ended student evaluation of teaching found scaling **without reaching use**. Volume of method output is not adoption, and the gap is the deployment step rather than the modelling.
+- **"Scaling NLP on evaluation comments produces impact."** A PRISMA-ScR scoping review and evidence map of **421 studies** (2015-2026) applying NLP to open-ended student evaluation of teaching found scaling **without reaching use**. Volume of method output is not adoption, and the gap is the deployment step rather than the modeling.
 ## Connected Concepts
 
 - [[intelligent-tutoring]]

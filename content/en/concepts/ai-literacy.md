@@ -30,7 +30,7 @@ AI literacy has rapidly emerged as a core competency for learners, educators, an
 
 ### Dimensions of AI literacy
 
-**Output-directed and system-directed literacy are separate dimensions with evidence for the split.** [[bergdahl-student-epistemic-agency-ai-2026|Bergdahl (2026)]] found 47 Swedish year 7 students strong on source evaluation (Mdn = 3) and governance (Mdn = 4, 57% at the highest option) but weak on **data privacy (Mdn = 1, 66% at the lowest)** and **algorithmic manipulation (Mdn = 2, 47% at the lowest)**. Grouped by domain, the median output-directed score was 3 against 2 for system-directed. The finding is not that these students lacked literacy but that **literacy in reading AI output did not extend to questioning how that output was produced** — a distinction with direct consequences for how a programme is scoped and measured, since a single score would average both registers and report a middle that describes neither.
+**Output-directed and system-directed literacy are separate dimensions with evidence for the split.** [[bergdahl-student-epistemic-agency-ai-2026|Bergdahl (2026)]] found 47 Swedish year 7 students strong on source evaluation (Mdn = 3) and governance (Mdn = 4, 57% at the highest option) but weak on **data privacy (Mdn = 1, 66% at the lowest)** and **algorithmic manipulation (Mdn = 2, 47% at the lowest)**. Grouped by domain, the median output-directed score was 3 against 2 for system-directed. The finding is not that these students lacked literacy but that **literacy in reading AI output did not extend to questioning how that output was produced** — a distinction with direct consequences for how a program is scoped and measured, since a single score would average both registers and report a middle that describes neither.
 
 
 AI literacy [[research-methods-aied|research]] in this knowledge base spans four interconnected dimensions:
@@ -209,7 +209,7 @@ For critical AI literacy specifically, [[solyst-youth-systematic-evaluation-gena
 ## Common Misconceptions
 
 - **"Self-reported AI literacy tracks actual AI literacy."** It **diverges sharply from measured performance** — teachers **overestimate their skills by about 40%**, and [[ai-literacy-assessment-misalignment|research on literacy assessment]] shows the same **40% gap** between self-report and performance-based measurement. A survey of AI literacy measures confidence, not competence.
-- **"AI literacy is one construct."** [[sun-student-genai-entanglement-literacy-demands-2026|Sun, Dohn and Rehm (2026)]] classified **102 empirical higher-education studies** and found the construct is not unitary. A programme that builds one dimension leaves the others unaddressed.
+- **"AI literacy is one construct."** [[sun-student-genai-entanglement-literacy-demands-2026|Sun, Dohn and Rehm (2026)]] classified **102 empirical higher-education studies** and found the construct is not unitary. A program that builds one dimension leaves the others unaddressed.
 - **"A 40% overestimate is a minor calibration issue."** It means the students and teachers most confident about their AI literacy may be the ones least able to evaluate output — which is exactly the population an intervention has to reach first.
 ## Connected Concepts
 - [[pedagogical-patterns]] — Developed by the critical-appraisal steps in these sequences

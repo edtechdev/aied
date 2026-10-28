@@ -56,7 +56,7 @@ Problem solving is the applied outcome of [[critical-thinking|critical thinking]
 
 ## Common Misconceptions
 
-**"AI that helps students explore perspectives is helping them think."** The same behaviour supports two very different outcomes: AI tools help students explore multiple perspectives and generate their own problems, and they can also encourage metacognitive laziness. The distinguishing question is whether the student is doing the framing or receiving it — a system that supplies candidate perspectives has performed the generative step the exercise existed to demand.
+**"AI that helps students explore perspectives is helping them think."** The same behavior supports two very different outcomes: AI tools help students explore multiple perspectives and generate their own problems, and they can also encourage metacognitive laziness. The distinguishing question is whether the student is doing the framing or receiving it — a system that supplies candidate perspectives has performed the generative step the exercise existed to demand.
 
 **"Problem solving is the target, so problem posing is a bonus."** Posing problems is where transfer is built, because it requires the learner to construct the structure rather than operate inside one the system provided. A curriculum that only ever supplies well-formed problems trains performance on well-formed problems, which is not the condition students meet afterwards.
 

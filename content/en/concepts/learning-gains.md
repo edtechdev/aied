@@ -134,7 +134,7 @@ Learning gains connect to [[assessment-validity]] — if [[assessment|assessment
 
 - Report productivity and learning outcomes as distinct metrics, since the corpus repeatedly finds the first while failing to find the second (g ≈ 0 in the programming meta-analysis). A dashboard conflating them will be read as evidence of learning.
 - Do not assume your system generalizes across knowledge components. The example–problem ratio result implies the optimal schedule is a property of the content, not of the platform.
-- Make hint and scaffold use visible to instructors, because volume is one of the few behavioural signals empirically linked to weaker outcomes.
+- Make hint and scaffold use visible to instructors, because volume is one of the few behavioral signals empirically linked to weaker outcomes.
 
 **For researchers**
 

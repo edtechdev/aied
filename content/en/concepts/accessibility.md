@@ -65,9 +65,9 @@ A video with accurate captions and a properly tagged transcript is *accessible*;
 
 ## Common Misconceptions
 
-- **"An accessibility feature that looks worse is worse."** Stripe overlays **degraded extraction most (+35.9% character error, +38.3% word error)**, yet **four typography and design experts judged vertical stripes readable**, while diagonal patterns failed. Machine readability and human readability are separate measurements, and optimising one can harm the other. Accessibility claims need to state which reader they are for.
+- **"An accessibility feature that looks worse is worse."** Stripe overlays **degraded extraction most (+35.9% character error, +38.3% word error)**, yet **four typography and design experts judged vertical stripes readable**, while diagonal patterns failed. Machine readability and human readability are separate measurements, and optimizing one can harm the other. Accessibility claims need to state which reader they are for.
 - **"Accessibility means accommodation."** A scoping review of **40 studies** of digital assistive technologies for neurodivergent students found **28 made a formal diagnosis a condition of participation**. That is a diagnosis-gated model, and it excludes every learner who has needs but no label — the opposite of universal design.
-- **"Medium effects settle the question."** [[zhang-ai-students-disabilities-meta-analysis-2024|Zhang et al.]] meta-analyse **29 studies** and find a medium positive effect, which is real and also says nothing about which tool for which need. The average across heterogeneous interventions is not a recommendation.
+- **"Medium effects settle the question."** [[zhang-ai-students-disabilities-meta-analysis-2024|Zhang et al.]] meta-analyze **29 studies** and find a medium positive effect, which is real and also says nothing about which tool for which need. The average across heterogeneous interventions is not a recommendation.
 - **"Speed and immediacy are conveniences."** In a qualitative case study of **21 visually impaired undergraduates** across three Palestinian universities, learners framed immediacy as a **foundational accessibility requirement rather than a convenience**. What looks like a nicety from outside is a precondition for participation.
 ## Connected Concepts
 - [[differential-effects-across-learner-groups]]

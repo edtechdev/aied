@@ -70,13 +70,13 @@ Behaviorism also appears in how learners encounter AI as a topic. The theory is 
 
 ## Common Misconceptions
 
-**"Behaviourism is obsolete, so its influence on AI in education is a historical footnote."** Behaviourist mechanics dominate practice while being out of fashion in theory — reinforcement loops, streak counters, immediate correct/incorrect feedback and mastery gating are the default architecture of most deployed systems. Dismissing the theory while shipping its mechanisms is the field's most widespread inconsistency, and it means the critique is not academic.
+**"Behaviourism is obsolete, so its influence on AI in education is a historical footnote."** Behaviorist mechanics dominate practice while being out of fashion in theory — reinforcement loops, streak counters, immediate correct/incorrect feedback and mastery gating are the default architecture of most deployed systems. Dismissing the theory while shipping its mechanisms is the field's most widespread inconsistency, and it means the critique is not academic.
 
-**"Observable behaviour change certifies learning."** That is precisely what AI breaks. Output equivalence is the failure mode: when a model can produce the behaviour the system rewards, the observed response no longer certifies the internal change behaviourism inferred it from. A behaviourist design is only as valid as the assumption that the behaviour had to be produced by the learner, and generative AI removes that assumption without changing the design.
+**"Observable behaviour change certifies learning."** That is precisely what AI breaks. Output equivalence is the failure mode: when a model can produce the behavior the system rewards, the observed response no longer certifies the internal change behaviorism inferred it from. A behaviorist design is only as valid as the assumption that the behavior had to be produced by the learner, and generative AI removes that assumption without changing the design.
 
 **"Behaviourist designs are simply inferior to constructivist ones."** They fit specific targets well — fluency, factual recall, procedural automaticity — where immediate feedback and repetition are genuinely what the task requires. The error is not the mechanism; it is using a mechanism whose validity condition (the learner must produce the response) has silently stopped holding.
 
-**"Because the theory is discredited, systems built on it can be judged by outcomes alone."** Outcomes are exactly what output equivalence corrupts. A system can report excellent behavioural outcomes while the learning has moved elsewhere, so behaviourist-influenced systems need the unassisted measure more than any other kind.
+**"Because the theory is discredited, systems built on it can be judged by outcomes alone."** Outcomes are exactly what output equivalence corrupts. A system can report excellent behavioral outcomes while the learning has moved elsewhere, so behaviorist-influenced systems need the unassisted measure more than any other kind.
 
 ## Connected Concepts
 

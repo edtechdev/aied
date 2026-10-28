@@ -61,13 +61,13 @@ DBR is the signature method of the [[learning-sciences|learning sciences]] — t
 
 ## Common Misconceptions
 
-**"Design-based research is a qualitative method."** DBR is a *design* tradition, not a data tradition: it does not fit the quantitative/qualitative/experimental contrast at all, because its unit of work is the iterated artefact rather than a single measurement plan. Studies within DBR can be quantitative, qualitative or experimental; what makes them DBR is that the design is being revised as the finding is produced.
+**"Design-based research is a qualitative method."** DBR is a *design* tradition, not a data tradition: it does not fit the quantitative/qualitative/experimental contrast at all, because its unit of work is the iterated artifact rather than a single measurement plan. Studies within DBR can be quantitative, qualitative or experimental; what makes them DBR is that the design is being revised as the finding is produced.
 
 **"Iterative refinement makes the design immune to the confound other methods suffer."** Iteration trades one threat for another. Refining a design mid-study means the final version differs from the one that produced the early evidence, so a claim about "the intervention" spans several interventions. Reporting which revision produced which outcome is the discipline's responsibility, and it is frequently left implicit.
 
-**"Because DBR produces a working artefact, it has demonstrated effectiveness."** A design that works in the site that co-produced it has demonstrated local viability, which is a different claim from effectiveness. The artefact carries the adaptations made for that context, and transferring it transfers assumptions that were never stated as assumptions.
+**"Because DBR produces a working artefact, it has demonstrated effectiveness."** A design that works in the site that co-produced it has demonstrated local viability, which is a different claim from effectiveness. The artifact carries the adaptations made for that context, and transferring it transfers assumptions that were never stated as assumptions.
 
-**"Treating an instrument as a revisable design artefact is a departure from DBR."** It is DBR's iterative character applied to the measurement rather than the intervention: one study in this corpus treated the rubric itself as the artefact, cycling through co-refinement with an [[llm|LLM]]. That extension is worth noting because it makes the instrument's own development part of the evidence.
+**"Treating an instrument as a revisable design artefact is a departure from DBR."** It is DBR's iterative character applied to the measurement rather than the intervention: one study in this corpus treated the rubric itself as the artifact, cycling through co-refinement with an [[llm|LLM]]. That extension is worth noting because it makes the instrument's own development part of the evidence.
 
 ## Connected Concepts
 

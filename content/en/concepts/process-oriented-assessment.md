@@ -74,7 +74,7 @@ Thapa and Lewis's account is conceptual: no participants, no data collection, an
 
 - **"A high score implies the student did the work we designed."** Traces can **diverge from scores outright**: across **150 student-AI conversations**, **41% carried an assignment score of exactly 1.00 while observable cognitive participation varied**. The score saturates while the process that was supposed to produce it does not.
 - **"Process data is unmanageable at scale."** Required documentation proved feasible at course scale across **six semesters of six-week asynchronous graduate research-methods courses serving approximately 440 K-12 teachers**. Logistics were solvable; the objection overstates the cost.
-- **"Problem solving is too holistic to assess by process."** It can be operationalised as **four stages and eight diagnostic sub-skills**, letting an LLM generate **stage-specific questions and rubrics** — used with **five teachers and 64 students**. Decomposition is what made the process legible and assessable.
+- **"Problem solving is too holistic to assess by process."** It can be operationalized as **four stages and eight diagnostic sub-skills**, letting an LLM generate **stage-specific questions and rubrics** — used with **five teachers and 64 students**. Decomposition is what made the process legible and assessable.
 ## Connected Concepts
 - [[pedagogical-patterns]] — Staged checkpoints and process evidence as sequenced designs
 - [[assessment]]

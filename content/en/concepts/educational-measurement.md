@@ -125,7 +125,7 @@ Educational measurement is the foundation for [[item-response-theory]], [[assess
 ## Common Misconceptions
 
 - **"Models can estimate item difficulty."** Four frontier models were scored against **IRT ground truth on 2,548 mathematics items**: they reach **68.6% on relative difficulty** but fall **below chance** at absolute calibration. Ranking and calibration are separate abilities, and the second is what an assessment design needs.
-- **"A taxonomic label predicts how hard an item is."** Across **265 mathematics items**, intended Bloom level explained **under 5% of the variance in difficulty**. Labelling an item by Bloom level tells you almost nothing about its empirical difficulty.
+- **"A taxonomic label predicts how hard an item is."** Across **265 mathematics items**, intended Bloom level explained **under 5% of the variance in difficulty**. Labeling an item by Bloom level tells you almost nothing about its empirical difficulty.
 - **"Item quality is judged from its wording."** **Judge generated items on the solution path, not the wording**: encoding each item's **verified reasoning tree** lifted performance over the second-best method by a margin. The reasoning structure carried the signal, not the surface text.
 ## Connected Concepts
 

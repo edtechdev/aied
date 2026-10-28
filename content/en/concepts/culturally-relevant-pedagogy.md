@@ -65,7 +65,7 @@ Grounded in the knowledge base's own articles, educators and designers can apply
 
 **"Adding multicultural examples constitutes culturally relevant pedagogy."** The framework's own hierarchy says otherwise, and the generated output shows why the distinction is operationally important. Additive content leaves the structure and the unit's assumptions untouched; Transformation changes how the content is framed; Social Action asks learners to act on it. Conflating representation with transformation is how a corpus can be 6% non-empty on diversity and still be nowhere near culturally responsive.
 
-**"Institutional AI-use policy determines what students consider ethical."** Culture does more work than policy text. A cross-cultural survey of Canadian and South Korean [[cs-education|computing]] students found that **culture, not policy, drove perceptions of AI-use ethicality** — identical behaviours were judged differently across cohorts. A single institution-wide policy therefore does not produce a shared ethic, and treating it as though it does will misread your students.
+**"Institutional AI-use policy determines what students consider ethical."** Culture does more work than policy text. A cross-cultural survey of Canadian and South Korean [[cs-education|computing]] students found that **culture, not policy, drove perceptions of AI-use ethicality** — identical behaviors were judged differently across cohorts. A single institution-wide policy therefore does not produce a shared ethic, and treating it as though it does will misread your students.
 
 **"A four-teacher pilot showing teachers feel more confident is evidence the approach works."** It is evidence about teacher perception, which is worth having and is not the same thing. In that pilot teachers' confidence in spotting cultural responsiveness opportunities improved and **78% found AI suggestions helpful for diversifying materials** — while the authors concede that the cultural adaptation lives **in the prompt rather than in the NLP pipeline**, and that cultural appropriateness was assessed rather than engineered. Confidence plus helpfulness is not demonstrated cultural relevance for students.
 
@@ -73,9 +73,9 @@ Grounded in the knowledge base's own articles, educators and designers can apply
 
 **For instructors**
 
-- Never ship an unprompted AI lesson plan as culturally responsive. The 94% figure is the default behaviour, so cultural content must be specified explicitly and checked item by item.
+- Never ship an unprompted AI lesson plan as culturally responsive. The 94% figure is the default behavior, so cultural content must be specified explicitly and checked item by item.
 - Sort your own additions against the Additive/Transformation/Social Action ladder and aim at least one rung higher than feels natural. Most generated diversity sits at the bottom.
-- Do not assume your institution's policy travels with your students. Cultural context shapes their ethical judgements more than the rulebook does.
+- Do not assume your institution's policy travels with your students. Cultural context shapes their ethical judgments more than the rulebook does.
 
 **For developers**
 

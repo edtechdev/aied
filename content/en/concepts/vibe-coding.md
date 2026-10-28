@@ -63,9 +63,9 @@ A faculty-level case study in this knowledge base supplies the organizational la
 
 **"Because anyone can now build software, what gets built will become more diverse."** Access and diversity are separate outcomes, and access can even compress the second. The design-homogenization evidence in this corpus describes exactly this pattern: a wider population of builders working from the same models, the same component conventions and the same prompting defaults tends toward converging designs. Democratizing authorship does not automatically diversify artifacts.
 
-**"'Pure' vibe coding is what the term means, so the distinction does not matter."** It matters for evaluation and for safety. The page distinguishes pure vibe coding, where the user deliberately does not inspect or edit the generated source and relies entirely on iterative prompting and behavioural evaluation, from code-visible work in which the user reads what was produced. These are different activities with different error profiles, and a study of one does not license claims about the other.
+**"'Pure' vibe coding is what the term means, so the distinction does not matter."** It matters for evaluation and for safety. The page distinguishes pure vibe coding, where the user deliberately does not inspect or edit the generated source and relies entirely on iterative prompting and behavioral evaluation, from code-visible work in which the user reads what was produced. These are different activities with different error profiles, and a study of one does not license claims about the other.
 
-**"If the app runs, the generated code is fine."** Running is a weak test. Veracode's 2025 analysis found only 55% of AI-generated code secure, so vibe-coded classroom tools still need a review pass before handling student data or connecting to any system worth protecting. Behavioural evaluation confirms the paths a user happens to exercise and says nothing about the ones they do not.
+**"If the app runs, the generated code is fine."** Running is a weak test. Veracode's 2025 analysis found only 55% of AI-generated code secure, so vibe-coded classroom tools still need a review pass before handling student data or connecting to any system worth protecting. Behavioral evaluation confirms the paths a user happens to exercise and says nothing about the ones they do not.
 
 ## Putting Vibe Coding into Practice
 
@@ -73,7 +73,7 @@ A faculty-level case study in this knowledge base supplies the organizational la
 
 - Teach the difference between pure and code-visible vibe coding explicitly, and require the second for anything that will handle student data. The distinction is a teachable habit, not a philosophical nicety.
 - Keep a real programming thread alongside vibe-coding work, because CS achievement carried about twice the unique predictive variance. Treating natural-language specification as a full substitute discards the stronger predictor.
-- Have students evaluate the artifact behaviourally *and* inspect the source of anything they deploy. Reading generated code is a review skill, and it is not automatic for students who can prompt.
+- Have students evaluate the artifact behaviorally *and* inspect the source of anything they deploy. Reading generated code is a review skill, and it is not automatic for students who can prompt.
 
 **For developers and administrators**
 

@@ -87,7 +87,7 @@ Human-AI collaboration connects to [[human-in-the-loop-ai]] (oversight), [[agent
 
 ## Common Misconceptions
 
-- **"Collaboration means the AI does part of the work."** **The learner keeps the deciding role**, and this scales to writing: [[oppenheimer-llms-collaborative-learning-partners-2026|Oppenheimer, Cash and Connell Pensky (2025)]] show it holds when the arrangement is designed for it. Division of labour is not collaboration unless the human retains judgement.
+- **"Collaboration means the AI does part of the work."** **The learner keeps the deciding role**, and this scales to writing: [[oppenheimer-llms-collaborative-learning-partners-2026|Oppenheimer, Cash and Connell Pensky (2025)]] show it holds when the arrangement is designed for it. Division of labor is not collaboration unless the human retains judgment.
 - **"The AI does the explaining in a flipped arrangement."** **Students who taught the AI explained better** — flipped-classroom defining at **M = 4.18 versus 3.29**, teaching activities at **M = 4.91 versus 3.06, both p < 0.001**. The learning accrued to the explainer.
 - **"Human and AI contributions are substitutes."** Two 2026 studies map **complementary halves** of classroom collaboration, which frames the design problem as allocation rather than replacement.
 ## Connected Concepts

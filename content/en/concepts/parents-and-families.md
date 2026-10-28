@@ -77,9 +77,9 @@ A 2026 scoping review maps how far the field has gone. [[llm-family-education-ac
 
 ## Common Misconceptions
 
-**"Families will engage if the offer is made."** Take-up collapses across handoffs. In Year 1 of the programme cited here, only about **45% of teacher-nominated students attended even one session**, with families lost at each step — invitation, interest, account creation on a [[edtech-platform|third-party platform]], matching. Every handoff is a place to lose a family, so an offer delivered counts for much less than an offer made.
+**"Families will engage if the offer is made."** Take-up collapses across handoffs. In Year 1 of the program cited here, only about **45% of teacher-nominated students attended even one session**, with families lost at each step — invitation, interest, account creation on a [[edtech-platform|third-party platform]], matching. Every handoff is a place to lose a family, so an offer delivered counts for much less than an offer made.
 
-**"Family–school coordination around GenAI is an established practice."** [[family-school-autonomy-support-genai-2026|Fan, Li and Zhang (2026)]] treat it as an **untested hypothesis** rather than an established practice. Programmes are being designed on an assumption the literature has not yet tested, which is worth knowing before adopting one as evidence-based.
+**"Family–school coordination around GenAI is an established practice."** [[family-school-autonomy-support-genai-2026|Fan, Li and Zhang (2026)]] treat it as an **untested hypothesis** rather than an established practice. Programs are being designed on an assumption the literature has not yet tested, which is worth knowing before adopting one as evidence-based.
 
 **"Parents will notice if AI is harming their child's learning."** They are the least positioned to notice. In [[stromberg-generative-ai-learning-penalty-secondary-2026|Strömberg, Lei and Wu's (2026)]] data, homework scores rose **18%** while [[summative-assessment|closed-book exam]] scores fell **20%** within six months — and the rising number is the one visible at home. A parent watching homework sees improvement while the durable outcome declines.
 

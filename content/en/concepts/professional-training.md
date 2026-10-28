@@ -68,11 +68,11 @@ Professional training differs from academic education in its focus on applied sk
 
 ## Common Misconceptions
 
-**"Coursework produces occupational competence."** The framework on this page puts the highest competency stages behind industry-embedded experience rather than coursework, which is a real limit on what a training programme can claim. A course can build the prerequisites; the gated stage needs the work.
+**"Coursework produces occupational competence."** The framework on this page puts the highest competency stages behind industry-embedded experience rather than coursework, which is a real limit on what a training program can claim. A course can build the prerequisites; the gated stage needs the work.
 
 **"Fading support on a schedule is equivalent to fading it on evidence."** It is not. Fading assistance against the learner's *estimated competence* cut simulator lap time **27.9% (p = 0.005)** and failures by **3.52 per lap**, whereas rule-based fading on a fixed schedule produced no reliable change. The same amount of support, released on a different signal, is a different intervention.
 
-**"AI literacy training generalises across roles."** Most instruments do not measure role-specific competence: in a systematic review of **33 teacher AI literacy instruments**, **29 (87.9%)** targeted general AI concepts while only **4 (12.1%)** addressed the pedagogical or occupational use that the job actually requires. A programme built on general instruments is measuring a proxy.
+**"AI literacy training generalises across roles."** Most instruments do not measure role-specific competence: in a systematic review of **33 teacher AI literacy instruments**, **29 (87.9%)** targeted general AI concepts while only **4 (12.1%)** addressed the pedagogical or occupational use that the job actually requires. A program built on general instruments is measuring a proxy.
 
 **"A simulator is a substitute for workplace training."** It develops procedure and removes consequence, which is valuable and is exactly the part that cannot transfer — the consequence is the curriculum in safety-critical work.
 

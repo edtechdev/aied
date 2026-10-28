@@ -46,7 +46,7 @@ Design thinking in AI education is deeply entangled with [[human-ai-collaboratio
 
 ## Common Misconceptions
 
-**"Generative AI accelerates design thinking across all its stages."** It accelerates ideation and can degrade the judgement the later stages depend on: it **excels at early-stage ideation but can cause design fixation or aesthetic lock-in if used uncritically**. Fixation is the specific hazard of a fast ideation tool — the first plausible direction becomes the frame, and a large set of variations on one concept is not a wider search space.
+**"Generative AI accelerates design thinking across all its stages."** It accelerates ideation and can degrade the judgment the later stages depend on: it **excels at early-stage ideation but can cause design fixation or aesthetic lock-in if used uncritically**. Fixation is the specific hazard of a fast ideation tool — the first plausible direction becomes the frame, and a large set of variations on one concept is not a wider search space.
 
 **"More generated options mean a broader exploration."** Breadth of output and breadth of consideration are different quantities. A student who generates thirty directions and adopts the first convincing one has explored one direction, and high acceptance rates are the signature of exactly that.
 

@@ -78,7 +78,7 @@ Qualitative and quantitative methods are complements, not rivals — see [[resea
 
 ## Common Misconceptions
 
-**"Qualitative findings are ungeneralisable because the samples are small."** They are usually not *statistically* generalisable and are frequently *conceptually* generalisable — the mechanisms and dynamics they identify transfer to other settings even where the frequencies do not. A focus group that explains why students distrust a tutor has produced a mechanism a survey cannot, and discarding it for lacking a confidence interval discards the part that travels.
+**"Qualitative findings are ungeneralisable because the samples are small."** They are usually not *statistically* generalizable and are frequently *conceptually* generalizable — the mechanisms and dynamics they identify transfer to other settings even where the frequencies do not. A focus group that explains why students distrust a tutor has produced a mechanism a survey cannot, and discarding it for lacking a confidence interval discards the part that travels.
 
 **"AI can now do qualitative analysis, so the method scales."** It scales the coding and not the interpretation. Where the corpus shows this working well it is because the coding task was made comparable first — one study applied **15 fixed vignettes** across the public policies of **20 universities** to yield **300 comparable classifications**, which is a structured-instrument design rather than an open interpretive one. The insight in qualitative work is in the category construction, and that is what a model inherits rather than produces.
 
