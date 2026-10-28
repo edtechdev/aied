@@ -1,7 +1,7 @@
 ---
 title: "How Should I Use AI to Study and Learn Effectively?"
 created: "2026-09-16T15:58:20-04:00"
-updated: "2026-10-21T14:32:00-04:00"
+updated: "2026-10-28T11:47:13-04:00"
 connected_faqs: [reducing-over-reliance, verify-ai-output, how-ai-impacts-students, ai-anxiety-wellbeing]
 weight: 60
 type: faq
@@ -13,99 +13,120 @@ audience: [learners, instructors]
 level: [higher ed, secondary]
 connected_resources: [gemini-notebook]
 reviewed_by: [editor]
+contributors: [editor]
+ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: revision
+    date: "2026-10-28"
+    agent: hermes-agent
 ---
-It is 11 p.m., you have a problem set due in the morning and a paper you have not started, and the chat window is already open. Every one of these tools will answer almost anything you ask, instantly, in clean prose that sounds like someone who knows what they are talking about. That is exactly why using them well is a skill rather than a convenience.
 
-Here is the bottom line, and it is the one sentence worth carrying off this page: **the same model, used at a different point in your study process, produces opposite results.** A chat that ends your thinking before it starts makes the work feel faster and leaves less behind. The same chat, used to test you, to explain something you have already attempted, or to show you where your reasoning broke down, helps you learn.
+It is 11 p.m., the problem set is due at nine in the morning, and the chat window is already open. Question four stopped making sense an hour ago. The tool will answer in ten seconds with something that reads like the work of a student who understands it, and you have to decide whether to type the assignment in or type your own mess in first.
 
-The second thing to hold on to: work that came out fine is not evidence that you learned anything. Work you produced with a model in the room shows what you and the model can do together; exams, placements and the next course in the sequence test what you can do alone — what the research calls [[learning-gains|learning]]. Those are different things, and the gap between them is the whole game.
+The sentence worth carrying off this page: the same model, opened at a different point in your study process, does opposite things to your learning. Open it before you have tried, and it ends the thinking, leaving you a clean file and a thinner memory. Open it after an attempt, to quiz you, to explain what you missed, to show where your reasoning broke, and it works like a tutor. The second thing to hold on to: work that came out fine is not evidence that you learned anything. A polished submission shows what you and the model can do together. The exam, the placement, and the next course in the sequence test what you can do alone, which is what the research calls [[learning-gains|learning]].
 
-## The short version: three rules you can use tonight
+## The short version
 
-**1. Attempt first, prompt second.** Write your own answer — an outline, a wrong guess, a messy attempt — before you open the chat. Then make the tool withhold the solution until you have one. This is the single move with the strongest evidence behind it, and it is below.
+**1.** Write your own attempt before you open the chat, even a wrong one, and tell the tool to withhold the answer until you have one. This is the move with the strongest evidence behind it.
 
-**2. Ask for teaching, not production.** Hints, explanations, worked steps, quizzes and corrections: yes. Deciding what your essay argues, finding the source, writing the sentence, solving the problem: yours. If you could not do the step with the chat closed, you are not studying, you are transcribing.
+**2.** Ask for teaching: hints, explanations, worked steps, quizzes, corrections on what you produced. Keep the arguing, the sourcing, and the sentences for yourself.
 
-**3. Finish by closing the tool.** Answer from memory, out loud, with nothing open. If you cannot, you have not learned it yet — and you found that out tonight instead of in the exam hall.
+**3.** Stay in the conversation past the first reply. Push back, ask why, ask what you got wrong.
 
-Everything below is detail on those three.
+**4.** Check anything you will be graded on against a source you can name, and treat fluent wording as no evidence at all.
 
-## When to use it
+**5.** End the session with the tool closed: answer from memory, out loud, and see what is missing. You find out tonight instead of in the exam hall.
 
-All of these leave your thinking intact:
+## Start the session with your own attempt
 
-- **Explaining something you have already read and failed to follow.** Ask for the concept as though you will be tested on it, then explain it back.
-- **Quizzing, one question at a time**, with instructions to hold the answer until you have tried.
-- **Showing a worked example of a problem type** so you can see its shape, then doing the next one yourself.
-- **Getting unstuck on a point you can name.** Not "help me with this assignment" but "I keep getting the wrong sign when I integrate by parts; here is my attempt; where does it break?"
-- **Making practice cards from what you are already reading**, and scheduling them.
-- **Explaining your own errors after feedback.** Ask what was wrong with your version, not just what the right answer is.
+[[adaptive-pretesting-retention|Akgun and Toker (2026)]] gave 89 undergraduates the same adaptive pretesting session and the same instructions, then seven weeks of different practice. The group whose AI probed misconceptions, demanded elaboration of thin answers, and advanced only on real conceptual engagement scored highest on the delayed posttest (M = 78.19) and put in the most practice effort (M = 0.85). Free chat with the same model scored 67.28 and 0.49, a difference of d = 0.92.
 
-The pattern: the tool is doing something *to* your learning rather than *instead* of it. The four-stage process the STEM students in [[viberg-efficiency-effectiveness-srl-llm-help-seeking-2026|Viberg, Feldman-Maggor and Wong (2026)]] described is worth copying — deciding whether help was needed, choosing whom to ask, deciding what kind of help to request, and judging what they got. Those 20 interview participants put the model first because it was the lowest-barrier option ("first ChatGPT, then classmates, and lastly teachers"), and they deliberately asked for hints, step-by-step guidance and concept explanations rather than direct solutions, treating the chatbot as "a hint, an assisting tool, but not the standalone solution".
+The attempt does the work even when the attempt is bad. Writing an answer activates what you already know, and it shows you the edge of it. Then the correction lands on something.
 
-## When not to use it, or when to use it differently
+A policy you can paste into any chatbot tonight: *explain this as though I will be tested on it, quiz me one question at a time, do not give me the answer until I have attempted it, tell me what I got wrong and why.* That sentence reproduces the arrangement that produced the 78.19, and it costs nothing.
 
-The gap between what students intend and what they do is the most consistent finding in this research. [[yan-cognitive-outsourcing-genai-assessments-2026|Yan and colleagues (2026)]] interviewed 38 undergraduates in Japan and China while they walked through their own chat histories for unsupervised essay assessments. One group handed the task over entirely — teacher assigns, student passes it to GenAI, GenAI generates, student checks formatting, student submits — and one participant described the interaction as having "completely replaced my brain". That was the small group. Thirty-one of the 38 said their intention was to use AI as a learning assistant, and they still reported [[cognitive-offloading|overreliance]], mental complacency and fast forgetting; one said "the speed at which you forget it is also very fast". Yan and colleagues call this the efficiency paradox: convenience bought at the cost of the cognitive work that builds understanding.
+## Ask for a tutor and name the job
 
-Only 8 of the 38 worked as what the authors call cognitive partners, and their defining feature was not that they used less AI. It was that their total effort did not fall — it moved. One shifted effort from searching to quality checking; another wrote short reflection notes after every AI session to counter the fading of instantly retrieved information.
+Vague requests get vague help. [[viberg-efficiency-effectiveness-srl-llm-help-seeking-2026|Viberg, Feldman-Maggor and Wong (2026)]] interviewed 20 STEM students about how they sought help and found a four-stage sequence worth copying: deciding whether help was needed, choosing whom to ask, deciding what kind of help to request, and judging what came back. These students went to the model first because it was the lowest-barrier option, in one student's words "first ChatGPT, then classmates, and lastly teachers," and they asked for hints, step-by-step guidance, and concept explanations rather than finished solutions. Another described the chatbot as "a hint, an assisting tool, but not the standalone solution."
 
-What that looks like as instructions to yourself:
+What that sounds like typed out: "I keep getting the wrong sign when I integrate by parts; here is my attempt; where does it break?" A named sticking point gets a useful reply, and "help me with this assignment" gets a draft. Ask for a worked example of one problem type, study its shape, then do the next one alone. Ask for the concept explained as though you will be tested on it, then explain it back without looking. Ask for questions, one at a time, and hold your answer until you have committed to one.
 
-- **Do not paste the assignment and take the output.** In the same study, **76.32% of students relied on an ask–get answer–stop pattern**, typically pasting the assessment title without saying what they actually needed and then resubmitting the same prompt when the answer disappointed them. Sustained, iterative dialogue appeared in only 23.68%, almost all of them cognitive partners.
-- **Do not detach it from your own reading and writing.** 78.94% used AI either before starting or after drafting, and that detachment is the signature of the group that learned least.
-- **Do not stop at the first reply.** The [[help-seeking]] research shows the same shape. [[student-ai-inquiry-types-cs2-2026|Amoozadeh and Alipour (2026)]] classified 830 prompts from 72 students across two programming tasks and found the same few moves over and over: assertions (reports of confusion rather than questions), verification prompts asking whether something was right, and instrumental or procedural prompts asking for the next step. Comparison, prediction and feature specification — the moves that make you think — stayed rare. Wherever your own prompts cluster, you can predict your learning from it.
-- **Let it do logistics, not analysis.** Summarizing, translating, reformatting, generating practice cards at the point of reading and planning a study schedule are reasonable uses. [[ai-guided-learning-audiovideo-2026|Kawamura (2026)]] built systems that adapt spoken playback to the difficulty of each segment (averaging about 1.30x) and generate multimodal video summaries that cut viewing time by 53% with no statistically significant difference in quiz scores. Moving through material faster is fine. Skipping the work that changes you is not.
+The pattern is the tool working on your understanding. Summarizing a chapter you have read, translating a source, reformatting your notes, and building practice cards are all reasonable. Deciding what your essay argues, finding the source, and writing the sentence are yours.
 
-## How to study with it so it sticks
+## Stay in the conversation past the first reply
 
-**Attempt before you prompt.** This has the best evidence on the page. [[adaptive-pretesting-retention|Akgun and Toker (2026)]] gave 89 undergraduates the same adaptive pretesting session and the same instruction, then seven weeks of different practice. Adaptive spaced retrieval — the AI probing misconceptions, demanding elaboration of thin answers, advancing only on genuine conceptual engagement — produced the highest posttest scores (M = 78.19) and the highest practice effort (M = 0.85), against free chat with the model (M = 67.28 and 0.49; d = 0.92 on scores). Pretesting helps even when your first answers are wrong, because the attempt activates what you know and exposes what you do not. The advantage came from the agent's refusal to give direct solutions, a policy you can impose on any chatbot in a sentence: *explain this as though I will be tested on it, quiz me one question at a time, do not give me the answer until I have attempted it, tell me what I got wrong and why.*
+The gap between what students intend and what they do is the most consistent finding in this literature. [[yan-cognitive-outsourcing-genai-assessments-2026|Yan and colleagues (2026)]] interviewed 38 undergraduates in Japan and China while the students walked through their own chat histories for unsupervised essay assessments. Thirty-one of the 38 said they meant to use AI as a learning assistant, and they still described [[cognitive-offloading|overreliance]], mental complacency, and fast forgetting. One said "the speed at which you forget it is also very fast." A smaller group handed the whole task over, teacher assigns, student passes it to GenAI, GenAI generates, student checks formatting, student submits, and one participant described that as having "completely replaced my brain."
 
-**Retrieve on a schedule instead of re-reading.** [[memdora-ai-spaced-repetition|Zhang (2026)]] describes Memdora, an AI spaced-repetition system built on the finding that roughly **70% of newly learned material is forgotten within 24 hours** without review. It generates cards from whatever you are reading, at the point of reading, and schedules them with FSRS-6. Be precise about how much that is worth: the paper reports better retention than traditional flashcard tools, but its contribution is a design and interaction taxonomy rather than a controlled retention trial. Take the spacing and retrieval as evidenced and the specific interaction design as promising.
+Only 8 of the 38 worked as what the authors call cognitive partners. They did not use less AI. Their total effort held steady and changed shape. One moved effort from searching to quality checking. Another wrote short reflection notes after every AI session to slow the fading of information retrieved instantly.
 
-**Process corrections rather than swapping answers in.** [[verification-quality-reliance-calibration-genai-2026|Wei and Shang (2026)]] report an error-correction study in which effort during correction mattered for learning, while simple answer substitution was unlikely to deliver the same benefit. When something gets fixed for you, ask what was wrong, why your version failed and what the underlying rule is — then redo the step yourself.
+The habits that separate the two groups, as instructions to yourself:
 
-**Take your own notes.** Yan's cognitive partners counteracted fast forgetting by writing short reflection notes after each session. That is the cheapest version of the same habit, and it costs two minutes.
+- **Paste the problem and your attempt, not the assignment title.** 76.32% of these students followed an ask, get an answer, stop pattern, typically pasting the assessment title without saying what they needed and then resubmitting the same prompt when the reply disappointed them. Sustained, iterative dialogue appeared in 23.68%, almost all of them cognitive partners.
+- **Keep it inside your own reading and writing.** 78.94% used AI either before starting or after drafting, and that detachment is the signature of the group that learned least.
+- **Go past the first reply.** The [[help-seeking]] research shows the same shape. [[student-ai-inquiry-types-cs2-2026|Amoozadeh and Alipour (2026)]] classified 830 prompts from 72 students across two programming tasks. The same few moves kept recurring: assertions that reported confusion, verification prompts asking whether something was right, and procedural prompts asking for the next step. Comparison, prediction, and feature specification, the moves that make you think, stayed rare. Your own prompt history will predict your learning better than your intentions will.
 
-## How to check output before you trust it
+## Check the output against something you can name
 
-"Critical use" is a vague phrase, so it helps to know what research can separate. Wei and Shang separate seven targets: epistemic evaluation, whether you start checking, how well you checked, whether the check succeeded, what you did with the output, how you performed on the task, and what you learned independently. The point to hold on to is that **checking is not the same as successful checking** — a good process can end inconclusive, and a weak one can land on the right answer by accident. [[trust-calibration|Calibrated reliance]] means your decision to accept or reject an output matched that output's actual quality, which you cannot judge from how confident the answer sounded.
+"Critical use" is a phrase that means little until you separate the parts. [[verification-quality-reliance-calibration-genai-2026|Wei and Shang (2026)]] separate seven: epistemic evaluation, whether you start checking, how well you checked, whether the check succeeded, what you did with the output, how you performed on the task, and what you learned independently. Two of those matter more than the rest. Checking is not the same as successful checking, and a careful process can end inconclusive while a sloppy one lands on the right answer by accident. [[trust-calibration|Calibrated reliance]] means your decision to accept or reject matched the actual quality of the output, which you cannot read off how confident the answer sounded.
 
-Three findings make this concrete. Dávila et al. (2025) gave learners advice that was correct about half the time and found that how much they weighted it varied with their [[prior-knowledge|prior knowledge]] and gender — trust was not tracking accuracy. Zheng et al. (2025) identified a "failed application" pattern in which correctly following guidance that was itself correct still ended in a wrong answer. And [[self-efficacy]] is not a safe guide: Rheu and Cho (2025) found that understanding how language models work was associated with more self-reported fact-checking, while some forms of confidence and feature knowledge were associated with less of it.
+Three findings make the problem concrete. Dávila et al. (2025) gave learners advice that was correct about half the time and found that how much weight they gave it varied with their [[prior-knowledge|prior knowledge]] and gender, so trust was not tracking accuracy. Zheng et al. (2025) documented a "failed application" pattern in which a student followed correct guidance correctly and still reached a wrong answer. [[self-efficacy|Confidence]] is not a guide either: Rheu and Cho (2025) found that understanding how language models work was associated with more self-reported fact-checking, while some forms of confidence and feature knowledge were associated with less of it.
 
-So verify anything you will be assessed on against a source you can name. The STEM students in the Viberg study checked outputs against their coursework and instructors, one explaining that "I only go to the TA if we can't tell whether ChatGPT is making things up". When you genuinely cannot tell, mark the point unresolved and ask a person rather than adopting it to get the page finished. And decide your own ground rules before you need them: [[ethical-conditions-llm-exam-preparation-2026|Pérez-Portabella and colleagues (2026)]] surveyed 151 undergraduates and found that ethical judgments were necessary conditions for intending to use a large language model for exam preparation, with consequentialist and deontological reasoning predicting that intention, and intention strongly predicting actual use. Deciding in advance what you will and will not do is not a formality; it is what your behavior follows.
+So verify anything assessed against a source you can name. The students in the Viberg study checked outputs against their coursework and their instructors, one explaining "I only go to the TA if we can't tell whether ChatGPT is making things up." When you genuinely cannot tell, mark the point unresolved and ask a person. Adopting a claim to get the page finished is how a small uncertainty becomes a wrong answer you have rehearsed.
 
-## How to tell whether you are actually learning
+Decide your ground rules before you need them. [[ethical-conditions-llm-exam-preparation-2026|Pérez-Portabella and colleagues (2026)]] surveyed 151 undergraduates and found that ethical judgments were necessary conditions for intending to use a large language model for exam preparation, with consequentialist and deontological reasoning predicting that intention, and intention strongly predicting actual use. What you decide in advance about what you will and will not do is what your behavior follows at 11 p.m.
 
-Do not judge by how the session felt or how polished the output looks. Independent learning means retention, [[transfer-of-learning|transfer]], unaided performance and finding your own errors once the AI support is withdrawn. Three tests follow, and none of them needs a researcher:
+## Let it handle logistics
+
+Speed has legitimate uses. [[ai-guided-learning-audiovideo-2026|Kawamura (2026)]] built systems that adapt spoken playback to the difficulty of each segment, averaging about 1.30x, and generate multimodal video summaries that cut viewing time by 53% with no statistically significant difference in quiz scores. Summarizing, translating, and planning a study schedule sit in the same category. Moving through material faster is fine. Skipping the work that changes you is the part to avoid.
+
+The distinction is where the tool sits relative to the thinking. A summary of a chapter you have already read saves time. A summary you read instead of the chapter replaces the reading.
+
+## Finish with the tool closed
+
+Judging a session by how it felt or how polished the output looks will mislead you. Independent learning means retention, [[transfer-of-learning|transfer]], unaided performance, and finding your own errors once the support is gone. Three tests need no researcher:
 
 - **Close the tool and answer.** If you cannot produce the explanation or the solution with the chat shut, you have not learned it yet.
-- **Test after a delay, not immediately.** The seven-week posttest is what separated the conditions in the statistics study; a score taken while the conversation is still on screen tells you very little.
+- **Test after a delay.** The seven-week posttest is what separated the conditions in the statistics study. A score taken with the conversation still on screen tells you very little.
 - **Explain it out loud, from memory, with no notes.** If you need the tool's phrasing, the understanding is not yours yet.
 
-If the app you use reports outcomes per item, read them — Memdora's classroom layer tracks learning at the individual card level, which tells you far more than a streak count or total minutes studied.
+Retrieval needs a schedule. [[memdora-ai-spaced-repetition|Zhang (2026)]] describes Memdora, an AI spaced-repetition system built on the finding that roughly 70% of newly learned material is forgotten within 24 hours without review. It makes cards from whatever you are reading and schedules them with FSRS-6. Be precise about what that is worth: the paper reports better retention than traditional flashcard tools, and its contribution is a design and interaction taxonomy rather than a controlled retention trial. Take the spacing and retrieval as established and the specific interaction design as promising. If the app you use reports outcomes per item, read them, because per-card learning tells you more than a streak count.
 
-## "I'm paying for this — why not use it?"
+## What students get wrong about this
 
-Because a subscription buys you something better than answers, and the answers are the cheap part. What you are paying for is a patient tutor that will explain the same idea five ways, quiz you until you can do it cold, and tell you what went wrong with your own attempt — a tutor most students could not have at 11 p.m. Getting your money's worth means asking for the expensive things, not the cheap one. The cheap one is paste-and-take, and it is the use that measurably costs you: the group in the Yan study that handed the task over entirely was the small group, while the students who reported forgetting fastest were the much larger group that believed they were using AI well.
+**Hours in the chat are study time.** The 89 undergraduates in the pretesting study spent seven weeks in different conditions with the same model. The condition that scored 78.19 was the one where the tool refused to hand over answers. The difference was the pushback.
 
-## "Everyone else does it this way"
+**A good answer means I understood it.** Yan's students judged their own use as effective while reporting fast forgetting, and 31 of 38 said they meant to use it as a learning assistant. The output is evidence about the model. Your closed-book answer is evidence about you.
 
-Most of them are doing it in the way the studies show works badly: 76.32% ask, get an answer and stop; 78.94% never involve the tool in the part of the work that would have changed them. Being in that majority is easy and unremarkable. The 8 of 38 who worked as cognitive partners are not a lane reserved for the gifted — their distinguishing feature was a rule you can adopt tonight: effort moves rather than disappears. One moved effort from searching to quality checking. One wrote reflection notes after each session.
+**Asking for the answer is the efficient move.** It is efficient at producing the artifact. In the Yan sample, the group that handed the task over produced the work and kept the least; the students who reported forgetting fastest were the much larger group who believed they were using the tool well.
 
-## "It's faster"
+**Fluent means accurate.** Confidence in the answer tells you nothing about its quality, and the same fluency is what makes a wrong claim easy to adopt. Verification has to be against something outside the chat.
 
-It is, and that is the trap the research names the efficiency paradox: speed goes up while the thing that made the task worth setting goes down. The retrieval study is the cleanest version of the trade — free chat did less practice work (M = 0.49 effort against M = 0.85) and scored lower seven weeks later (M = 67.28 against M = 78.19, d = 0.92). Both conditions had the same AI and the same starting session; the difference was whether the tool pushed back. You will be faster tonight and slower in the exam, and you get to choose which one you want.
+**Rereading the answer is checking.** Wei and Shang's separation matters here. Whether you checked and whether the check worked are different variables, and only the second one protects your grade.
 
-## The checklist
+## The objections you will hear
 
-- Write your own answer before you open a chat, even a bad one, and make the AI withhold the solution until you have attempted it.
-- Ask for hints, explanations, worked steps and quizzes rather than completed work.
-- Name the concept you are stuck on and paste your own attempt; do not paste the assignment title and accept the first reply.
-- Stay in the conversation: push back, ask why, ask what you got wrong — instead of resubmitting the same prompt.
-- Retrieve on a schedule, using cards drawn from your own reading, rather than re-reading.
-- Verify anything assessed against a named source, and treat fluency in the output as no evidence at all.
-- When a correction is handed to you, redo the step yourself instead of pasting the fix.
-- Keep your reading and drafting your own: use AI before brainstorming and after drafting, not in place of either.
-- Finish by closing the tool — unaided answer, delayed test, spoken explanation.
+**"I'm paying for this, so why not use it?"** A subscription buys something better than answers, and the answers are the cheap part. You are paying for a patient tutor that will explain the same idea five ways, quiz you until you can do it cold, and tell you what went wrong with your own attempt. Most students could not have that at 11 p.m.
 
-If you also teach, one finding is worth carrying across. All 38 students in the Yan study reported that their instructors forbade copying and gave almost no concrete guidance, and that vacuum pushed even well-intentioned students toward outsourcing. Showing what sustained dialogue with a model looks like, setting tasks that require an attempt before the prompt, asking for process evidence such as notes on how AI was used, and marking unaided performance separately from assisted work all do something the prohibition alone does not. For the wider evidence base, see [[does-ai-help-students-learn]] and [[how-ai-impacts-students]].
+**"Everyone else does it this way."** Most of them do it in the way these studies show working badly: 76.32% ask, get an answer, and stop; 78.94% never bring the tool into the part of the work that would have changed them. The 8 of 38 who worked as cognitive partners were not a gifted lane. Their distinguishing feature was a rule you can adopt tonight, which is that effort moves rather than disappears.
+
+**"It's faster."** It is. That speed is the efficiency paradox: the session finishes sooner and the thing the task was for declines. Free chat in the retrieval study did less practice work (M = 0.49 against 0.85) and scored lower seven weeks later (67.28 against 78.19, d = 0.92). You will be faster tonight and slower in the exam, and you get to pick which one you want.
+
+**"I don't know enough to attempt it first."** The attempt is how you find the edge of what you know, and pretesting helped even when the first answers were wrong. Write down what you think the question is asking and where you get stuck, then open the chat with that.
+
+**"My instructor banned it, so there is nothing to learn here."** The 38 students in the Yan study reported that their instructors forbade copying and gave almost no concrete guidance, and that vacuum pushed even well-intentioned students toward outsourcing. A ban gives you nothing to do on the day the tool is allowed, and the habits on this page are what you carry into those courses.
+
+## What to do this week
+
+**1.** Pick the course where you currently paste first. For the next problem set, write a one-paragraph attempt before you open any chat, and paste the attempt along with the question.
+
+**2.** Put the four-line instruction from the first section into the custom instructions of whichever tool you use, and leave it there.
+
+**3.** Before your next submitted piece of work, ask the tool to quiz you on the material for ten minutes with the answers withheld. Note what you could not answer.
+
+**4.** Take one topic you think you know and explain it out loud with the laptop shut. Whatever you stumble on is your revision list.
+
+**5.** Check every claim you plan to submit against a named source, and write "unresolved" beside the ones you cannot.
+
+## Where to go next
+
+[[reducing-over-reliance]] covers the habits that keep the tool from replacing your judgment, [[verify-ai-output]] handles the checking side in more detail, and [[how-ai-impacts-students]] sets out what the wider evidence says about students and these tools. If you also teach, [[does-ai-help-students-learn]] is the evidence on durable learning, and [[ai-anxiety-wellbeing]] covers what the pace of this change does to students who are trying to keep up.

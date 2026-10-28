@@ -1,7 +1,7 @@
 ---
 title: "What Are Notable Gaps in the Research Literature on AI in Education?"
 created: "2026-08-24T14:10:00-04:00"
-updated: "2026-10-21T14:32:00-04:00"
+updated: "2026-10-28T11:47:13-04:00"
 connected_faqs: [reporting-interpreting-aied-research, evaluating-ai-interventions-methods, equity-ethics-pedagogical-safety-research]
 weight: 45
 type: faq
@@ -15,145 +15,184 @@ audience: [researchers, instructors]
 page_kind: [evaluation]
 methods: [ai-ed-evaluation, research-methods-aied]
 reviewed_by: [editor]
+contributors: [editor]
+ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: revision
+    date: "2026-10-28"
+    agent: hermes-agent
 ---
-The most consequential gaps in AI in Education (AIED) concern **whether particular educational designs produce durable benefits, for whom, through which mechanisms, and under what conditions—not simply whether AI can perform educational tasks**. The knowledge base documents promising interventions alongside persistent weaknesses in measurement, causal inference, generalizability, implementation, and reproducibility. These are often gaps in the *strength, specificity, or applicability* of evidence rather than a complete absence of research. See [[limitations-in-aied-research|Limitations in AIEd Research]]. 
 
-The gaps also differ across the field. Evidence about established [[intelligent-tutoring|intelligent tutoring systems]], predictive [[learning-analytics|analytics]], [[generative-ai|generative AI]], and autonomous agents should not be treated as interchangeable. Likewise, using AI to support learning and teaching people *about* AI involve related but distinct research questions, as the [[ai-education|AI in Education]] overview explains.
+A grant deadline is eight days out and the background section needs one sentence about what this field does not yet know. Or a colleague has told a committee that AI tutoring raises achievement, citing a two-year experiment across 18 middle schools, and you are the person who has to say what that study can carry. Or you are choosing a dissertation question and every version of it seems to have been done.
 
-## 1. Isolating what AI adds beyond good instruction
+The gaps that matter are about strength, specificity, and applicability. AI can perform educational tasks; the open questions are whether a particular design produces durable benefit, for whom, through which mechanism, and under what conditions. That distinction decides two things on your desk: what to study next, and what to stop claiming in the meantime. [[limitations-in-aied-research|Limitations in AIEd Research]] is the catalog behind this page. Evidence about [[intelligent-tutoring|intelligent tutoring systems]], predictive [[learning-analytics|analytics]], [[generative-ai|generative AI]], and autonomous agents is not interchangeable either, and research on using AI to support learning differs from research on teaching people about AI, as the [[ai-education|AI in Education]] overview explains.
 
-Rigorous classroom experiments exist, so the gap is no longer adequately described as “we need randomized trials.” A more precise question is **whether the AI component adds value beyond additional practice, better materials, timely feedback, or increased instructional support**.
+## The short version
 
-For example, [[one-click-away-khanmigo-two-year-school-experiment-2026|One Click Away: AI Tutoring with Khanmigo in a Two-Year School Experiment]] reports modest achievement gains across 18 middle schools, alongside limited substantive engagement with the tutor. The authors note that the gains resembled those associated with structured practice without AI. This establishes evidence about an implemented instructional package, but does not cleanly isolate the incremental contribution of its AI component.
+**1.** Compare the AI against a strong non-AI alternative that holds curriculum, practice, and support constant, and say what the AI added.
 
-The problem underneath is conceptual as well as empirical. "ChatGPT" names a tool, not a method, and [[weidlich-chatgpt-effect-search-cause-2025|Weidlich et al. (2025)]] audit 19 ChatGPT-in-education comparisons to show what that costs: only 4 (21%) specify all three of a replicable treatment, an operationalized control, and a valid learning measure (74% well-defined treatment, 42% well-defined control, 53% a learning outcome). Their larger point is that when new AI is introduced alongside new activities, feedback, or interface design, the medium and the method are confounded and no effect can be attributed to the AI.
+**2.** Measure delayed, unaided performance, and state that assisted performance is not a learning gain.
 
-Research therefore needs more comparisons with strong, realistic non-AI alternatives, holding curriculum, practice opportunities, and support as constant as possible. Independent replications should test whether benefits survive changes in institution, instructor, subject, and model. As [[research-methods-aied|Efficacy Research Methods]] emphasizes, different methods answer different questions: [[qualitative-research|qualitative]] and [[design-based-research|design-based]] studies help explain implementation, while appropriately designed experiments strengthen causal claims.
+**3.** Report which component of the package did the work and which mechanism you claim.
 
-## 2. Following durable learning and independent capability over time
+**4.** Validate every automated score and simulated learner against real learners, including learners outside your development sample.
 
-Improved work while using AI is not necessarily evidence of learning that persists after assistance ends. The [[learning-gains|Learning Gains]] and [[cognitive-offloading|Cognitive Offloading]] syntheses repeatedly distinguish assisted performance from retained knowledge, independent reasoning, and transfer to unfamiliar tasks.
+**5.** State the population boundary, because a pooled average does not answer an equity question.
 
-[[making-ai-tutoring-productive-mastery-math-2026|Making AI Tutoring Productive]] illustrates the measurement problem. In a randomized experiment involving more than 6,000 middle-school students, a three-correct-in-a-row mastery rule increased platform-defined success without, by itself, producing detectable learning gains one week later. The strongest delayed-test evidence emerged when AI was embedded in the mastery workflow and was concentrated on practiced material.
+**6.** Describe the arrangement well enough that someone else could rebuild it.
 
-**The remaining gap concerns trajectories of capability, not merely an additional post-test.** Studies should examine retention over months, transfer across tasks, performance after assistance is withdrawn, and learners’ accuracy in judging what they know. They should also distinguish failure to acquire a skill from deterioration of an already-established skill. Research on offloading should test when delegation supports those trajectories and when it displaces the practice necessary to develop them.
+## Choose a comparison that isolates the AI
 
-## 3. Explaining which instructional components work—and why
+Rigorous classroom experiments exist, so "we need randomized trials" no longer names the gap. The sharper question is whether the AI component adds value beyond additional practice, better materials, timely feedback, or more instructional support.
 
-“AI-supported learning” often combines several changes: new feedback, additional reflection, peer discussion, different task sequences, and altered assessment incentives. A successful package does not establish which components are necessary or which mechanism produced the benefit.
+[[one-click-away-khanmigo-two-year-school-experiment-2026|One Click Away]] reports modest achievement gains across 18 middle schools alongside limited substantive engagement with the tutor, and the authors note that the gains resembled those from structured practice without AI. That is evidence about an implemented package, and it cannot isolate what the AI inside it added.
 
-The multisite experiment [[genai-feedback-design-multisite-experiment|Human-centered GenAI feedback design in higher education]] provides a useful advance. Among 1,176 first-year undergraduates, reflective and hybrid feedback designs outperformed direct [[ai-feedback-quality|AI feedback]] on delayed AI-free transfer. The hybrid condition combined self-evaluation, [[peer-assessment|peer feedback]], and AI critique. This supports investigating how feedback is organized and used, rather than treating access as the intervention.
+The problem underneath is conceptual as well as empirical. "ChatGPT" names a tool, not a method. [[weidlich-chatgpt-effect-search-cause-2025|Weidlich et al. (2025)]] audited 19 ChatGPT-in-education comparisons: only 4 (21%) specified all three of a replicable treatment, an operationalized control, and a valid learning measure (74% well-defined treatment, 42% well-defined control, 53% a learning outcome). When new AI arrives alongside new activities, feedback, or interface design, medium and method are confounded and no effect belongs to the AI.
 
-Further studies should isolate the contribution and timing of initial independent attempts, self-explanation, peer input, corrective feedback, hints, and fading assistance. They should test how those components interact with [[prior-knowledge|prior knowledge]] and task difficulty.
+What would settle it: comparisons against realistic non-AI alternatives with curriculum, practice opportunities, and support held as constant as possible, plus independent replications across institution, instructor, subject, and model. Methods answer different questions here. [[qualitative-research|Qualitative]] and [[design-based-research|design-based]] work explains implementation, while well-designed experiments carry the causal claims, as [[research-methods-aied|Efficacy Research Methods]] sets out.
 
-The accompanying theory gap is equally important: **naming a [[learning-theories|learning theory]] is not the same as testing it**. Research should connect a theoretical prediction to a specific system behavior and a measurable learning process. Statistical mediation can inform that explanation, but does not by itself establish a causal mechanism. See [[theory-development-aied|Theory Development in AI in Education]] and [[scaffolding]].
+## Measure learning after the tool is gone
 
-## 4. Validating measures, automated judgments, and simulated learners
+Improved work while using AI is not evidence of learning that survives the assistance ending. The [[learning-gains|Learning Gains]] and [[cognitive-offloading|Cognitive Offloading]] syntheses keep drawing the same line between assisted performance, retained knowledge, independent reasoning, and transfer.
 
-Constructs such as “engagement,” “[[critical-thinking|critical thinking]],” “AI literacy,” and “[[personalized-learning|personalization]]” are measured inconsistently. Self-reports can describe perceptions and experiences, but cannot substitute for demonstrated competence. Technical accuracy, expert-rated output quality, and student learning also represent different evaluation targets. These distinctions are central to [[educational-measurement|Educational Measurement]] and [[ai-ed-evaluation|AI Ed Evaluation]].
+[[making-ai-tutoring-productive-mastery-math-2026|Making AI Tutoring Productive]] shows the measurement problem in a randomized experiment with more than 6,000 middle-school students. A three-correct-in-a-row mastery rule raised platform-defined success without, by itself, producing detectable learning gains one week later. The strongest delayed-test evidence appeared when AI sat inside the mastery workflow and concentrated on practiced material.
 
-A particularly important gap concerns [[ai-technologies|AI systems]] used to evaluate other AI systems. In [[llm-student-simulation-misconception-faithfulness|Simulating Students or Sycophantic Problem Solving?]], [[simulating-students|simulated students]] frequently abandoned assigned [[misconceptions]] after corrective feedback regardless of whether it addressed the misconception. Their responses could therefore make ineffective instruction appear successful. Targeted training improved the study’s faithfulness measure, but improvement on that measure is not equivalent to validation against human learning.
+The remaining gap is about trajectories of capability, and one added posttest does not close it. Nobody has established retention across months, transfer across tasks, performance after withdrawal, or learners' accuracy in judging what they know, and the field has not separated failure to acquire a skill from deterioration of one already established. Offloading research still needs to show when delegation supports those trajectories and when it displaces the practice that builds them.
 
-Research needs to establish which automated scores and simulated behaviors predict outcomes with real learners, including learners and settings not used during development. Human judgments also require scrutiny: agreement among raters is not automatically evidence that the right construct is being assessed.
+## Find out which part of the package did the work
 
-**The gap is validation of the evaluation chain—from model behavior, to [[pedagogy|pedagogical]] judgment, to learner response, to educational outcome.**
+"AI-supported learning" usually bundles several changes: new feedback, added reflection, peer discussion, different task sequences, altered assessment incentives. A package that succeeds does not tell you which components were necessary.
 
-## 5. Establishing assessment validity when AI can produce and evaluate the evidence
+[[genai-feedback-design-multisite-experiment|Human-centered GenAI feedback design]] is a real advance on that question. Among 1,176 first-year undergraduates, reflective and hybrid designs outperformed direct [[ai-feedback-quality|AI feedback]] on delayed AI-free transfer. The hybrid condition combined self-evaluation, [[peer-assessment|peer feedback]], and AI critique. That separates how feedback is organized and used from whether students have access to feedback at all.
 
-AI creates two connected assessment problems: it can help produce the work being assessed, and it can influence how that work is scored.
+Still open: the contribution and timing of initial independent attempts, self-explanation, peer input, corrective feedback, hints, and fading assistance, and how each interacts with [[prior-knowledge|prior knowledge]] and task difficulty.
 
-The knowledge base’s [[ai-agents-complete-lms-assessment-validity-2026|study of AI agents completing assessed LMS tasks]] documents agents navigating a live undergraduate course and completing assessed activities. These demonstrations establish a capability that challenges assumptions about student-produced evidence; they do not establish the prevalence of such use or invalidate every asynchronous assessment.
+The theory gap runs alongside. Naming a [[learning-theories|learning theory]] is not testing one. A study needs a theoretical prediction tied to a specific system behavior and a measurable learning process, and statistical mediation informs that explanation without establishing a causal mechanism. [[theory-development-aied|Theory Development in AI in Education]] and [[scaffolding]] carry the argument further.
 
-The research question is **which assessment designs still support defensible conclusions about the learner**. [[eportfolio|Portfolios]], reflections, staged submissions, and activity logs should themselves be validated rather than assumed to establish authorship or understanding. Studies should examine combinations of evidence against independently observed competence, while accounting for accessibility, workload, privacy, and student anxiety. See [[assessment-validity|Assessment Validity]].
+## Validate the measure before you interpret it
 
-For [[automated-assessment|automated scoring]], [[llms-do-not-grade-essays-like-humans-2026|LLMs Do Not Grade Essays Like Humans]] reports systematic disagreements between out-of-the-box models and human raters. Its findings are configuration-specific, but demonstrate why internal consistency is insufficient.
+Constructs such as engagement, [[critical-thinking|critical thinking]], AI literacy, and [[personalized-learning|personalization]] get measured inconsistently across this literature. Self-reports describe perceptions; they cannot stand in for demonstrated competence. Technical accuracy, expert-rated output quality, and student learning are three different evaluation targets. [[educational-measurement|Educational Measurement]] and [[ai-ed-evaluation|AI Ed Evaluation]] treat those distinctions as foundational.
 
-A useful conceptual distinction comes from [[human-capability-test-learning-outcomes-ai-2026|A Human Capability Test for Learning Outcomes in the AI Era]]: assess what learners must do independently, what they may accomplish with AI, and what they must verify and defend. That is a proposed framework requiring empirical validation, not an established assessment solution.
+One gap sits inside the measurement problem: [[ai-technologies|AI systems]] used to evaluate other AI systems. In [[llm-student-simulation-misconception-faithfulness|Simulating Students or Sycophantic Problem Solving?]], [[simulating-students|simulated students]] frequently abandoned assigned [[misconceptions]] after corrective feedback whether or not the feedback addressed the misconception, so their responses could make ineffective instruction look successful. Targeted training improved the study's faithfulness measure, and improvement on that measure is not validation against human learning.
 
-[[karr-ai-detection-humanization-2026|Karr et al. (2026)]] quantify why detection is a dead end. On 642 published English abstracts, two commercial AI detectors at τ = 0.50 flagged guideline-compliant light AI editing at 38–80%, flagged unmodified 2023–25 originals at 9–15% (non-[[stem-education|STEM]] far above STEM, p < 0.001), and after humanization caught fewer than 4% of AI-labeled rewrites (false-negative rate > 96%). A score that penalizes honest assistance while missing evasion cannot be the basis for a defensible conclusion about the learner; the gap it exposes is designs and process evidence that do not depend on such a score.
+What is missing is validation of the whole evaluation chain, from model behavior to [[pedagogy|pedagogical]] judgment to learner response to educational outcome, on learners and settings not used during development. Human judgment needs the same scrutiny, since agreement among raters is not evidence that the right construct was assessed.
 
-## 6. Showing that AI literacy transfers into responsible behavior
+## Decide what an assessment can still certify
 
-AI-literacy intervention research is substantial enough to support synthesis. [[liu-ai-literacy-interventions-meta-analysis-2026|AI Literacy Interventions in Education: A Meta-Analysis of Effects and Moderators]] includes 59 studies and 7,211 participants. It reports a positive average effect, but substantial variation across studies and a wide prediction interval spanning zero. Knowledge-focused outcomes showed stronger effects than skills, attitudes, or ethics.
+AI creates two connected assessment problems: it helps produce the work being assessed, and it can influence how that work is scored.
 
-The sharper gap is therefore not simply developing more competency frameworks. It is determining **whether literacy instruction changes how people act when using AI**.
+The knowledge base's [[ai-agents-complete-lms-assessment-validity-2026|study of AI agents completing assessed LMS tasks]] documents agents navigating a live undergraduate course and finishing assessed activities. That demonstrates a capability which challenges assumptions about student-produced evidence. It does not establish how common such use is, and it does not invalidate asynchronous assessment as a category.
 
-Can learners recognize unsupported claims, verify sources, reject misleading suggestions, identify inappropriate agreement, and choose when not to delegate? Do those behaviors persist under time pressure and transfer to unfamiliar systems and disciplines?
+The research question is which designs still support defensible conclusions about the learner. [[eportfolio|Portfolios]], reflections, staged submissions, and activity logs need validation as evidence rather than being assumed to establish authorship or understanding. Studies should test combinations of evidence against independently observed competence while accounting for accessibility, workload, privacy, and student anxiety. [[assessment-validity|Assessment Validity]] holds the detail.
 
-Research should combine performance-based assessments with observations of actual decisions and delayed follow-up. It should distinguish conceptual knowledge, operational proficiency, and critical judgment rather than treating them as interchangeable. The [[ai-literacy|AI Literacy]] and [[trust-calibration|Trust Calibration]] syntheses provide useful starting points for these distinctions.
+For [[automated-assessment|automated scoring]], [[llms-do-not-grade-essays-like-humans-2026|LLMs Do Not Grade Essays Like Humans]] reports systematic disagreement between out-of-the-box models and human raters. The findings are configuration-specific, and they show why internal consistency cannot carry a validity claim.
 
-## 7. Understanding generalizability and equitable outcomes—not just equitable access
+[[human-capability-test-learning-outcomes-ai-2026|A Human Capability Test for Learning Outcomes in the AI Era]] proposes assessing separately what learners must do independently, what they may accomplish with AI, and what they must verify and defend. That is a framework awaiting empirical validation.
 
-Findings from one course, institution, language, or learner population often provide limited grounds for decisions elsewhere. The [[limitations-in-aied-research|Limitations in AIEd Research]] synthesis identifies this as a recurring problem. More evidence is needed about how instructional effects vary across developmental stages, disciplines, prior knowledge, disability, language, and resource conditions.
+Detection is the clearest dead end in this area. [[karr-ai-detection-humanization-2026|Karr et al. (2026)]] ran two commercial detectors at τ = 0.50 over 642 published English abstracts. Guideline-compliant light AI editing was flagged at 38-80%. Unmodified 2023-25 originals were flagged at 9-15%, with non-[[stem-education|STEM]] work far above STEM at p < 0.001. After humanization the tools caught fewer than 4% of AI-labeled rewrites, a false-negative rate above 96%. A score that punishes honest assistance and misses evasion cannot ground a conclusion about a learner.
 
-Equity research must also distinguish access, skills, and outcomes. The [[digital-divide|Digital Divide]] synthesis makes clear that providing devices or tool access does not establish equal capacity to benefit.
+## Stop reading literacy scores as evidence of behavior
 
-For example, [[school-ai-education-readiness-gaps-agency-2026|Does School-Based AI Education Narrow Readiness Gaps?]] followed 752 Hong Kong junior-secondary students. Psychological readiness gaps narrowed, while differences on an objective AI-literacy test persisted. All groups improved, but overall improvement did not eliminate inequality. Because prior-learning profiles were not randomly assigned, the study does not establish their causal effects.
+AI-literacy intervention research is substantial enough to synthesize. [[liu-ai-literacy-interventions-meta-analysis-2026|AI Literacy Interventions in Education]] covers 59 studies and 7,211 participants, reports a positive average effect, and also reports substantial variation with a wide prediction interval spanning zero. Knowledge-focused outcomes came out stronger than skills, attitudes, or ethics.
 
-The knowledge base's own coverage shows where the group-level evidence is thin as well as uneven. [[differential-effects-across-learner-groups|Differential Effects Across Learner Groups]] counts the literature by who it studies: second-language and multilingual learners and students with disabilities are the deepest strands, gender and neurodiversity next, while first-generation students and international students have a single study each in this corpus, gifted and high-achieving students are effectively unstudied as a group, and refugee, immigrant and displaced learners appear in none. An evidence base with that shape cannot answer equity questions by aggregation; it has to be sampled deliberately.
+The sharper gap is whether literacy instruction changes what people do when they use AI, and another competency framework would not close it. Can learners recognize unsupported claims, verify sources, reject misleading suggestions, notice inappropriate agreement, and choose when not to delegate? Does any of that hold under time pressure, and does it transfer to unfamiliar systems and disciplines?
 
-**The research priority is identifying which designs reduce differences in demonstrated capability, participation, and agency.** Studies should examine subgroup outcomes and burdens, not merely average gains. Accessibility research should distinguish removing barriers to participation from replacing a capability the learner is intended to develop. See [[equity-in-ai-education|Equity in AI Education]] and [[accessibility]].
+Settling this needs performance-based assessment combined with observation of actual decisions and delayed follow-up, with conceptual knowledge, operational proficiency, and critical judgment kept apart rather than pooled. [[ai-literacy|AI Literacy]] and [[trust-calibration|Trust Calibration]] supply the distinctions.
 
-Capacity also varies within a single national system in ways governance categories do not capture. [[adeniranye-ai-integration-nigerian-higher-education-2026|Adeniranye et al. (2026)]] scored AI integration across 45 Nigerian universities and found only moderate overall adoption (M = 4.79, range 1.83–7.83 on a 10-point scale), with institution type failing to predict integration once age and geography were controlled (age β = 0.43; South-West location β = 0.31). Internal capabilities intercorrelated at r = 0.79–0.80 and international collaborations with industry partnerships at r = 0.74, so well-connected institutions accumulate compounding advantages. The gap is to test which capacity-building designs change outcomes at newer, less-connected institutions.
+## Report who the finding leaves out
 
-## 8. Determining how control should be shared between learners, teachers, and agents
+Findings from one course, institution, language, or learner population rarely license decisions elsewhere, a problem the [[limitations-in-aied-research|Limitations in AIEd Research]] synthesis treats as recurring. How effects vary across developmental stage, discipline, prior knowledge, disability, language, and resource conditions remains largely unmeasured.
 
-As AI systems plan, initiate actions, maintain memory, and coordinate tools, the educational question becomes more specific than whether human–AI collaboration is beneficial: **who should control which parts of the learning process, and when should that control change?**
+Equity research also has to separate access, skills, and outcomes. The [[digital-divide|Digital Divide]] synthesis is clear that devices and tool access do not establish equal capacity to benefit. [[school-ai-education-readiness-gaps-agency-2026|Does School-Based AI Education Narrow Readiness Gaps?]] followed 752 Hong Kong junior-secondary students: psychological readiness gaps narrowed while differences on an objective AI-literacy test persisted. Every group improved, and inequality did not close. Prior-learning profiles were not randomly assigned, so their causal role stays unknown.
 
-[[agentic-ai-education-scoping-review|Agentic AI in Education: A Scoping Review]] maps 474 studies and identifies limited longitudinal validation, concentrations in [[higher-ed|higher education]] and STEM, and weak educational-theory integration. Only 29% of the reviewed studies explicitly drew on educational theory—a finding about that corpus, not all AIED research.
+Coverage is thin in specific places. [[differential-effects-across-learner-groups|Differential Effects Across Learner Groups]] counts the literature by population: second-language and multilingual learners and students with disabilities are the deepest strands, gender and neurodiversity come next, first-generation and international students have one study each in this corpus, gifted and high-achieving students are effectively unstudied, and refugee, immigrant, and displaced learners appear in none. An evidence base with that shape cannot answer an equity question by aggregation.
 
-Research should compare configurations in which learners or agents initiate help, set goals, select strategies, monitor progress, and make final decisions. It should test whether support can be gradually withdrawn as competence develops and whether learners retain the ability to challenge the system.
+Capacity varies inside a single national system too. [[adeniranye-ai-integration-nigerian-higher-education-2026|Adeniranye et al. (2026)]] scored AI integration at 45 Nigerian universities and found moderate overall adoption (M = 4.79, range 1.83-7.83 on a 10-point scale), with institution type failing to predict integration once age and geography were controlled (age β = 0.43; South-West location β = 0.31). Internal capabilities intercorrelated at r = 0.79-0.80 and international collaborations with industry partnerships at r = 0.74, so connected institutions accumulate compounding advantages. Which capacity-building designs change outcomes at newer, less-connected institutions is untested.
 
-The [[agentic-ai|Agentic AI]] and [[human-ai-collaboration|Human–AI Collaboration]] syntheses also raise questions about [[teacher-role|teacher]] intervention and accountability in multi-agent environments. Greater autonomy should be evaluated as a pedagogical design choice, not assumed to represent educational progress.
+The research priority is identifying designs that reduce differences in demonstrated capability, participation, and [[agency]], with subgroup outcomes and burdens reported alongside average gains. Accessibility carries its own unresolved question: whether a design removes a barrier to participation or replaces a capability the learner is meant to develop. See [[equity-in-ai-education|Equity in AI Education]] and [[accessibility]].
 
-## 9. Connecting pedagogical and relational safety to real educational consequences
+## Say who holds control, and when it changes
 
-Educational safety extends beyond factual accuracy, offensive content, or prohibited requests. A tutor can provide a correct answer while undermining the learner’s opportunity to reason, reinforcing an underlying misconception, or encouraging inappropriate dependence. See [[pedagogical-safety|Pedagogical Safety]].
+As systems plan, initiate actions, hold memory, and coordinate tools, the educational question becomes who should control which parts of the learning process, and when that control should shift.
 
-[[hazra-safetutors-pedagogical-safety-2026|SafeTutors: Pedagogical Safety in AI Tutoring]] identifies failures such as excessive answer disclosure and abandonment of scaffolding, with substantially more failures under multi-turn testing. These are [[benchmark]] findings under specified testing conditions—not estimates of the prevalence or severity of harm in classrooms.
+[[agentic-ai-education-scoping-review|Agentic AI in Education: A Scoping Review]] maps 474 studies and finds limited longitudinal validation, concentration in [[higher-ed|higher education]] and STEM, and weak educational-theory integration: only 29% of reviewed studies drew explicitly on educational theory, a finding about that corpus rather than all AIED work.
 
-The unresolved issue is how such failures affect real learners over sustained use. Which produce temporary confusion, persistent misconceptions, reduced motivation, or weakened independent capability? Which safeguards reduce those risks without excessive refusal or frustration?
+Open questions follow. Does learner-initiated help produce different outcomes from agent-initiated help? Can support be withdrawn as competence develops without loss? Do learners keep the ability to challenge the system? The [[agentic-ai|Agentic AI]] and [[human-ai-collaboration|Human-AI Collaboration]] syntheses add [[teacher-role|teacher]] intervention and accountability in multi-agent settings, where nobody has established who answers for an agent's decision. Greater autonomy is a pedagogical design choice with an evidence base still to be built.
 
-Longer-term research should also examine trust, willingness to seek human help, [[agency|learner agency]], and relationships with peers and teachers. These questions are especially important for children and require developmentally appropriate studies that connect system behavior to educational and relational outcomes.
+## Test safety failures against real learners
 
-## 10. Explaining how implementation, teacher development, and costs shape outcomes
+Educational safety reaches past factual accuracy and prohibited requests. A tutor can give a correct answer while removing the learner's opportunity to reason, reinforcing a misconception, or building dependence. [[pedagogical-safety|Pedagogical Safety]] covers the construct.
 
-Technical capability does not establish that a tool will be used productively or that professional development will improve student learning. The missing link often runs from **teacher preparation, through changed classroom practice, to student outcomes**.
+[[hazra-safetutors-pedagogical-safety-2026|SafeTutors]] identifies failures including excessive answer disclosure and abandonment of scaffolding, with substantially more failures under multi-turn testing. Those are [[benchmark]] findings under specified conditions, not estimates of how often harm occurs in classrooms.
 
-In [[pedagogy-first-technology-second-teacher-knowledge-2026|Pedagogy First, Technology Second]], a multilevel study of 46 teachers and 2,832 students found that pedagogical AI knowledge was associated with students’ perceptions and intentions, but neither measured teacher-knowledge component was directly associated with student AI-knowledge gains. These associations do not establish that a particular training intervention would cause better learning.
+What happens when those failures meet real learners over sustained use is unknown. Which ones produce temporary confusion, which produce persistent misconceptions, which reduce motivation, and which weaken independent capability has not been measured. Nor has anyone established which safeguards cut those risks without producing excessive refusal or frustration. Longer-term work also needs trust, willingness to seek human help, [[agency|learner agency]], and relationships with peers and teachers as outcomes. For children, that requires developmentally appropriate studies connecting system behavior to educational and relational outcomes.
 
-Research should investigate which combinations of coaching, [[curriculum-design|curriculum alignment]], review routines, scheduling, and institutional support produce sustained improvements. It should observe enacted teaching, not only teacher confidence or intention to adopt. See [[teacher-ai-competency|Teacher AI Competency]] and [[educational-development|Educational Development]].
+## Separate adoption from implementation
 
-Comparative cost-effectiveness is another priority. Evaluations should include verification, correction, training, supervision, maintenance, and implementation time—not just subscription or model-use costs—and compare AI-supported provision with realistic alternatives. The relevant question is what educational benefit the complete arrangement delivers for the resources it requires.
+Technical capability does not establish that a tool gets used well, and professional development does not automatically reach students. The missing link usually runs from teacher preparation, through changed classroom practice, to student outcomes.
 
-## 11. Evaluating governance, privacy, and meaningful participation
+[[pedagogy-first-technology-second-teacher-knowledge-2026|Pedagogy First, Technology Second]] is a multilevel study of 46 teachers and 2,832 students. Pedagogical AI knowledge was associated with students' perceptions and intentions, and neither measured teacher-knowledge component was directly associated with student AI-knowledge gains. Associations of that kind do not establish that a training intervention would cause better learning.
 
-[[ethics|Ethical]] principles and governance frameworks are necessary, but their existence does not establish that they change practice or protect learners.
+The open question is which combinations of coaching, [[curriculum-design|curriculum alignment]], review routines, scheduling, and institutional support produce sustained improvement, and studies need to observe enacted teaching rather than teacher confidence or intention to adopt. [[teacher-ai-competency|Teacher AI Competency]] and [[educational-development|Educational Development]] cover the terrain.
 
-[[agarwal-ethical-values-norms-aied-2026|Identifying the Ethical Values and Norms for Artificial Intelligence in Education]] reviews 25 articles and finds end users largely passive in the reviewed ethics literature, with student voices essentially absent. It also identifies tensions among values and power asymmetries between stakeholders. This describes the reviewed literature; it should not be generalized into a claim that students never participate in AIED design.
+Comparative cost-effectiveness is a second gap. Evaluations should count verification, correction, training, supervision, maintenance, and implementation time alongside subscription and model-use costs, and compare AI-supported provision with realistic alternatives. The question worth answering is what educational benefit the complete arrangement delivers for the resources it takes.
 
-The research gap concerns **which governance arrangements make a measurable difference**. Does student and teacher participation change procurement, tool design, assessment rules, or remedies after mistakes? Do human-review procedures catch consequential errors? Are alternatives to AI use genuinely available?
+## Count governance documents as intentions
 
-Privacy research should similarly examine the educational value of additional data collection rather than assume that more detailed learner monitoring is justified. Studies can compare data-minimizing designs with more intrusive alternatives, assessing both learning and learner autonomy. See [[governance|AI Governance]] and [[privacy]].
+[[ethics|Ethical]] principles and governance frameworks are necessary, and their existence does not establish that they change practice or protect learners.
 
-## 12. Building reproducible studies and trustworthy cumulative evidence
+[[agarwal-ethical-values-norms-aied-2026|Agarwal et al.]] reviewed 25 articles and found end users largely passive in the ethics literature, with student voices essentially absent, alongside tensions among values and power asymmetries between stakeholders. That describes the reviewed literature. It is not a claim that students never take part in AIED design.
 
-AIED faces an unusually difficult reproducibility problem. Studies may omit prompts, model versions, settings, code, or instructional details; proprietary systems can also change during or after an intervention. These issues are documented in [[limitations-in-aied-research|Limitations in AIEd Research]].
+What is missing is evidence about which governance arrangements make a measurable difference. Does student and teacher participation change procurement, tool design, assessment rules, or remedies after a mistake? Do human-review procedures catch consequential errors? Are alternatives to AI use genuinely available to the people told to use it? Privacy research has a parallel gap: the educational value of additional data collection is usually assumed, and data-minimizing designs have rarely been compared with more intrusive ones on both learning and learner autonomy. See [[governance|AI Governance]] and [[privacy]].
 
-Reproducibility requires describing the instructional arrangement as well as the model: learning tasks, content sources, permitted actions, interface, teacher support, assessment conditions, and changes during deployment. Researchers should distinguish reproducing one configuration from testing whether its pedagogical principle transfers to another. The reporting discussion in [[research-methods-aied|Efficacy Research Methods]] addresses this need for transparent descriptions.
+## Make the study rebuildable
 
-Evidence synthesis requires comparable care. The [[meta-analysis-systematic-review|Meta-Analysis and Systematic Review]] page highlights weak primary studies, publication bias, heterogeneous interventions, and incompatible outcomes as limitations on pooled conclusions.
+AIED has an unusually hard reproducibility problem. Studies omit prompts, model versions, settings, code, and instructional details, and proprietary systems can change during or after an intervention. [[limitations-in-aied-research|Limitations in AIEd Research]] documents the pattern.
 
-A single average “AI effect” can conceal the distinctions educators most need. Reviews should separate assisted performance from independent learning, distinguish intervention types and comparison conditions, and make coding and analytic decisions auditable. Null findings, failed implementations, and boundary conditions are essential contributions to this cumulative evidence base.
+Rebuilding a study means describing the instructional arrangement as well as the model: learning tasks, content sources, permitted actions, interface, teacher support, assessment conditions, and anything that changed during deployment. Reproducing one configuration and testing whether its pedagogical principle transfers to another are separate achievements, and the reporting guidance in [[research-methods-aied|Efficacy Research Methods]] addresses both.
 
-The synthesis literature is itself a gap. [[oneill-presumed-effective-meta-analysis-2026|O'Neill's (2026) forensic audit]] of 14 high-impact [[meta-analysis-systematic-review|meta-analyses]] found that none provided a valid basis for its claims: no coherent construct (a tool treated as a single intervention and multidimensional outcomes pooled), invalid publication-bias assessment in all 14, reported I² between 77.2% and 94.4% in every analysis that reported it (12 of the 13 above 80%), and 61% of randomly vetted primary studies carrying validity concerns. Those 14 analyses had accumulated more than 2,000 citations in roughly 16 months, and a retracted meta-analysis was still cited as authoritative in 60% of post-retraction citing papers without acknowledging the retraction. Uncritical uptake is not confined to retracted work: in a sample of 14 papers citing another audited meta-analysis, whose abstract advertised a large effect of "AI education" that in fact measured teaching students about AI, only 2 cited it appropriately while 8 read it as evidence that integrating AI improves learning and 4 were incorrect in other ways. The audit's recommendations target that chain directly, asking journals to require full data transparency for meta-analyses (search protocols, coded study characteristics, extracted statistics, and analytic code), asking editors not to treat a publication record as proof of reviewing competence, and asking that retractions be made visible wherever an article is discovered, exported, or cited. Reproducibility therefore covers the integrity of the synthesis chain, not only of individual studies.
+Synthesis needs the same care. [[meta-analysis-systematic-review|Meta-Analysis and Systematic Review]] lists weak primary studies, publication bias, heterogeneous interventions, and incompatible outcomes as limits on pooled conclusions, and a single average "AI effect" hides the distinctions educators need. Reviews should separate assisted performance from independent learning, distinguish intervention types and comparison conditions, and make coding decisions auditable.
 
-Instructors who want the classroom-level version of these concerns — which measures and comparison designs to use — can follow the method guidance in [[evaluating-ai-interventions-methods]].
+The synthesis literature is itself a gap. [[oneill-presumed-effective-meta-analysis-2026|O'Neill's (2026) forensic audit]] of 14 high-impact [[meta-analysis-systematic-review|meta-analyses]] found that none provided a valid basis for its claims. No coherent construct: a tool treated as one intervention, multidimensional outcomes pooled. Publication bias was invalidly assessed in all 14. Reported I² ran from 77.2% to 94.4% in every analysis that reported it, with 12 of the 13 above 80%. 61% of randomly vetted primary studies carried validity concerns. Those 14 analyses collected more than 2,000 citations in roughly 16 months, and a retracted meta-analysis was still cited as authoritative in 60% of post-retraction citing papers without acknowledgment. Of 14 papers citing another audited meta-analysis whose abstract advertised a large effect of "AI education" that in fact measured teaching students about AI, only 2 cited it appropriately, 8 read it as evidence that integrating AI improves learning, and 4 were wrong in other ways. The audit asks journals to require full data transparency for meta-analyses (search protocols, coded study characteristics, extracted statistics, analytic code), asks editors not to treat a publication record as proof of reviewing competence, and asks that retractions be visible wherever an article is discovered, exported, or cited. Reproducibility covers the synthesis chain, not only the individual study.
 
-## Overall takeaway
+Instructors who want the classroom-level version can follow [[evaluating-ai-interventions-methods]].
 
-The central research need is not simply more studies showing that students like AI, teachers save time, or AI-supported work receives higher scores. It is stronger evidence answering:
+## What researchers and instructors get wrong about this
 
-> Which educational design, for which learners, in which context, through which mechanism, produces which durable human capabilities—and with what distribution of benefits, costs, and harms?
+**The field lacks studies.** It lacks specified ones. There are multisite experiments, randomized trials with thousands of students, and 14 high-impact meta-analyses. Only 21% of audited comparisons defined treatment, control, and outcome well enough to attribute an effect.
 
-Answering that question requires complementary methods: well-specified experiments, longitudinal follow-up, validated assessments, qualitative and design-based investigation, equity-focused sampling, and transparent synthesis. The aim is an evidence base that explains not only whether an intervention worked, but why it worked, where it may fail, and what educators can responsibly carry into another setting.
+**Naming a theory tests it.** A citation to a learning theory is a framing decision. A test needs a prediction, a system behavior that implements it, and a process measure that could come out the other way.
+
+**A validated automated score is a validated outcome.** Agreement with human coders establishes consistency with those coders. Simulated students improved on a faithfulness measure without being validated against human learning, and the chain from model behavior to outcome remains unbuilt.
+
+**Access is equity.** In the Hong Kong study, psychological readiness gaps narrowed while objective test differences held, and every group improved without inequality closing. Devices and licenses change who can reach the tool.
+
+**More autonomy is progress.** Greater agent independence is a design choice. With 29% of 474 agentic studies drawing on educational theory and limited longitudinal validation, nobody has shown that shifting control to the system improves learning.
+
+## The objections you will hear
+
+**"The gap is just that we need more randomized trials."** Plenty exist now, and the problem sits upstream of design labels: a trial of a package that bundles new feedback, new tasks, and a new interface cannot attribute anything to the AI. The comparison condition is where the work is.
+
+**"I cannot run a multi-year follow-up."** Then measure one delayed, unaided occasion and say what interval it covers. A week is a real finding, and the mastery-rule study got its result at one week by embedding AI in the workflow and concentrating on practiced material.
+
+**"Randomization is impossible in my course."** Design-based and qualitative work answers implementation questions that trials cannot, and the field needs both. Where random assignment is possible, it still carries the causal claim.
+
+**"The pooled effect size already tells me what works."** The 14 audited meta-analyses defined the treatment as a tool, pooled incompatible outcomes, and reported I² above 80% in 12 of 13 analyses that gave it. The pooled number describes a set of studies with a construct problem.
+
+**"Simulated students are cheaper, so validating them can wait."** In the sycophancy study, simulated students dropped misconceptions whether or not the feedback addressed them, which is the failure mode that makes an ineffective tutor look effective.
+
+## What to do this week
+
+**1.** Write the comparison condition of the study you are planning in one sentence. If it is business as usual, revise it before you revise anything else.
+
+**2.** Add one delayed, unaided measure to the design and name the interval in the method section.
+
+**3.** Write the population boundary into the design statement, then into the abstract, so the claim cannot travel further than the sample.
+
+**4.** Take the strongest claim in your current draft and delete the version your measure cannot carry. Keep the sentence about the ceiling.
+
+**5.** For any automated score or simulated learner in the study, name the human standard and the adjudicator before data collection starts.
+
+## Where to go next
+
+[[reporting-interpreting-aied-research]] is the reporting counterpart to this page, and [[research-methods-aied|Research Methods in AI in Education]] covers the design choices behind each gap. [[evaluating-ai-interventions-methods]] handles measures and comparison designs, [[checking-whether-educational-ai-works]] is the shorter version of the efficacy question, and [[does-ai-help-students-learn]] collects what is known about durable learning. [[theory-development-aied]] and [[equity-ethics-pedagogical-safety-research]] carry the theory and equity strands further.
