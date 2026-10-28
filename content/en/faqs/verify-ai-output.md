@@ -1,7 +1,7 @@
 ---
 title: "How Do I Teach Students to Verify AI Output?"
 created: "2026-09-16T15:58:20-04:00"
-updated: "2026-10-21T14:32:00-04:00"
+updated: "2026-10-28T11:43:14-04:00"
 connected_faqs: [incorporating-ai-literacy, study-with-ai, reducing-over-reliance, asynchronous-online-courses-ai]
 weight: 65
 type: faq
@@ -11,77 +11,136 @@ research_method: [experiment, literature review, survey]
 audience: [instructors, instructional designers, learners]
 level: [higher ed, secondary]
 reviewed_by: [editor]
+contributors: [editor]
+ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: revision
+    date: "2026-10-28"
+    agent: hermes-agent
 ---
-You have warned them. The chatbot is not a search engine, check the sources, use it responsibly — and the same fabricated citations and confident wrong answers keep arriving in the submissions. The warnings fail because they ask for a disposition. Careful students have it, hurried ones do not, and there is nothing in the sentence a student can act on at 11 p.m. with an output on screen that reads perfectly well.
 
-The research gathered here says that framing is too coarse to teach or grade. Checking is a set of analytically separate actions, and the broad label "responsible use" hides the difference between a student who attempted a check and one who settled whether the output was correct. The bottom line: verification becomes teachable the moment you stop treating it as a trait and start treating it as a sequence — a standard fixed before the check, a check that produces a record, and a decision the student must defend on domain grounds. That is a design problem you can solve this week — and a grading problem you can solve with artifacts the assignment already generates.
+It is the week before grades are due and two submissions cite sources that do not exist. Both students say they checked. One opened the link. The other read the paragraph and decided it sounded right. You have already told this class to verify what the chatbot gives them, and the telling did not produce the behavior.
 
-This page addresses the mechanics of verification itself. For what students should understand about how these systems work, and how that understanding is defined, sequenced and assessed, see [[incorporating-ai-literacy]] and [[ai-literacy-evidence]]. A student can know a great deal about [[llm|large language models]] and verify nothing.
+Verification is a sequence you can build into an assignment. Decide what counts as correct before the task starts, have the student commit to an expectation in writing, send them to the record instead of their impression of the prose, and grade the record they produce. A rubric line that says "checked sources" measures none of that.
 
-## What verification actually requires of a student
+## The short version
 
-[[verification-quality-reliance-calibration-genai-2026|Wei and Shang (2026)]] separate seven targets that "critical AI use" usually collapses into one: epistemic evaluation, verification initiation, process quality, verification success, reliance decisions, immediate task performance, and independent learning. Your syllabus rubric says "checked sources," which sits at step two and says nothing about whether the check was competent (process quality) or whether it changed anything (success, then the reliance decision). Initiation is not success: a strong process can end inconclusive, a weak one can land on the right answer, and a student who ran a search and stayed confused scores the same as one who resolved the question.
+**1.** Write the answer key first. A check needs something to resolve against, and most verification assignments never define what correct means.
 
-The second distinction is between [[trust]] and reliance. The same review defines [[trust-calibration|reliance calibration]] as a judgment about whether a reliance decision was appropriate given the actual quality of the AI output — an output-contingent classification, not a stage on a timeline and not a score on a trust scale. One audited study found that false ChatGPT information shifted participants' reported trust, but never recorded whether they later accepted or rejected a specific recommendation. Another logged accept and reject decisions on ChatGPT [[feedback]] for 78 translation students, but without independent expert evaluation an acceptance cannot be called appropriate, nor a rejection justified. Without ground truth about output quality, reliance cannot be classified at all — which tells you what every verification task needs: a defensible answer key.
+**2.** Require a prediction before the output appears, so the student's reasoning exists on paper before the tool can overwrite it.
 
-That is why [[trust-calibration-chatbots-design-problem-2026|Jaidka and Cai (2026)]] treat miscalibration as a design problem rather than a student deficit. Their typology crosses ability to verify with motivation to verify, and the profiles need different remedies: the high-ability, low-motivation user is prone to complacent overtrust, while the low-ability, low-motivation user is the most exposed — so two students failing the same check may need opposite remedies.
+**3.** Name the target of every check: the author list, the venue, the year, the specific number, the specific step. "Make sure it is right" is not a check.
 
-## How to teach it
+**4.** Separate the check a machine can run from the judgment only a reader can make, and teach students which one they are doing.
 
-Wei and Shang's synthesis drew on 493 deduplicated records from Web of Science Core searches and mapped 14 priority empirical studies onto verification, reliance and outcome columns. Its constructive output is the sequence to build tasks around. Adjudicate output quality first, capture whether verification was initiated, code process quality, score whether it succeeded, record the accept–revise–reject decision, and evaluate that decision against the adjudicated quality. One warning belongs here too: interventions that reduce inappropriate acceptance must also be checked for the unintended rejection of correct assistance, so leave room for a student to accept good output for a stated reason.
+**5.** Grade the record against the key, not the effort, so that checking theater earns nothing.
 
-**Predict before the output, then compare.** [[ai-writes-code-student-writes-model-2026|Gousopoulos (2026)]] builds a measurement program for construction tasks around *predict before you run*: the learner states what should happen, then the artifact's behavior is judged against that prediction on domain grounds rather than by whether it runs. Its audit of 24 studies found the same tool producing opposite outcomes under different task structures: a conventional ChatGPT setup ended significantly lower in achievement, [[self-efficacy]] and flow, while a condition adding verification requirements and error-reflection modules showed stronger [[critical-thinking|higher-order thinking]]. Because the prediction precedes the output, the reasoning is on record — and the record is what you grade.
+**6.** Schedule the check inside the task. Time pressure is a documented reason students skip it.
 
-**Require source checks against the record, with a named target.** [[citation-errors-hallucinations-computing-education-2026|Denny et al. (2026)]] traced 113,588 references from 5,225 computing education papers published since 2021 and manually verified 828 suspicious records, finding 30 containing verifiably fabricated bibliographic information across 14 papers, all from 2025 and 2026. Thirteen were entirely fabricated; the other 17 combined a real title with fabricated or incorrect authorship, venue or year. At the SIGCSE Technical Symposium the count rose from 3 in the 2025 proceedings to 17 in 2026, or 2.3% of 2026 proceedings papers. Author fields fail more often than any other part of a generated reference, so "open the source and read the author list" targets the field most likely to be wrong. Do not ask students to "make sure sources are real"; ask them to confirm authors, venue and year against the record itself. The paper asks that every cited work be verified and that any checker stay [[human-in-the-loop-ai|human-in-the-loop]] — the practice a citation-verification requirement rehearses.
+## Decide what correct means before anyone checks anything
 
-**Teach the discrimination, not only the caution.** Gousopoulos formalizes verification as a signal-detection problem with two independent parameters: sensitivity, the ability to discriminate correct from flawed output, and criterion, where the learner sets the threshold for rejection. Over-reliance splits accordingly — warnings, checklists and hallucination prompts shift the criterion, changing when a student rejects, while domain instruction, worked comparisons and seeded-error practice raise sensitivity, because the learner can then tell. The prerequisite follows: verification instruction is educative only where sensitivity can exceed zero, which requires enough domain knowledge to distinguish correct from incorrect output. In the same audit, novices asked to explain [[llm]]-generated code succeeded on roughly a third of tasks, which is why judging AI feedback or code against one's own reasoning is a real check only where that reasoning has substance. If your students cannot yet do the domain thinking unaided, more warnings buy you nothing; teach the content first and attach the check to it.
+[[verification-quality-reliance-calibration-genai-2026|Wei and Shang (2026)]], reviewing 493 deduplicated records and mapping 14 priority empirical studies, separate seven things that "critical AI use" collapses into one: epistemic evaluation, verification initiation, process quality, verification success, reliance decisions, immediate task performance, and independent learning. Your rubric says "checked sources," which sits at step two and tells you nothing about whether the check was competent or whether it changed the student's answer. Initiation is not success. A strong process can end inconclusive, a weak one can land on the right answer, and a student who ran a search and stayed confused scores the same as one who resolved the question.
 
-**Forewarn, immediately before the task.** [[chatgpt-inoculation-training-verification-2026|Vu, Cummings and Park (2026)]] showed a generic inoculation (forewarning) message immediately before two tasks to 100 US-based students, 40 domestic and 60 international EFL. Inoculated students were significantly more likely to verify the academic-source-summary task (M = 0.34 versus 0.18), while self-reported verification intentions did not move. Two lessons: a short warning at the point of use changes enacted behavior, and the effect was task-dependent — appearing for the source-summary task but not uniformly for a mathematics quiz on exponentiation and large-number multiplication.
+The same review draws a second line, between [[trust]] and reliance. [[trust-calibration|Reliance calibration]] asks whether a reliance decision was appropriate given the actual quality of the output, which ties the judgment to one decision and one output. One audited study found that false ChatGPT information shifted participants' reported trust and never recorded whether they later accepted or rejected a specific recommendation. Another logged accept and reject decisions on ChatGPT [[feedback]] for 78 translation students, but with no independent expert evaluation an acceptance cannot be called appropriate and a rejection cannot be called justified. Without ground truth about output quality, reliance cannot be classified at all.
 
-**Make correction cost something.** In an error-correction paradigm the review audited, effort during correction mattered for learning; simple answer substitution is unlikely to deliver the same benefit. Requiring a student to reproduce a step, rewrite a passage, or state the domain reason an output is wrong converts a check into work. [[tripartite-feedback-framework-ai-assessment-2026|Venetsanos (2026)]] sets the bar for what may be checked mechanically: documented criteria, comparison against established knowledge without interpretive judgment, and a single correct answer or pre-specified acceptable alternatives. Anything interpretive fails that bar, so separate the mechanical layer — dates, formulas, citations, calculations — from the judgment layer, where the student's own reading is the instrument of the check.
+That is the design consequence, and it is the first thing to fix. Before you set a verification task, write two short descriptions: what a correct output looks like for this task, and what a plausible but wrong output looks like. One of each is enough. Students then have a standard to check against, and you have something to mark the check against other than whether the student sounds careful.
 
-## How to assess it without policing students
+## Have them commit before the tool answers
 
-Gousopoulos draws the consequence directly: if the AI can produce the artifact, the artifact cannot be the assessment, so evaluation relocates to the specification, the validation reasoning and the interpretation. Its model authorship construct has four facets — specification, conceptual model, verification, interpretation — at four ordered levels from delegated to authored, where the authored level requires a verifiable specification preceding the first prompt, rejection of output on domain grounds with a stated reason, and interpretation beyond the artifact's own report of itself. Because the rubric is scored from materials a construction task already generates, the same instrument serves as [[formative-assessment|formative assessment]] and as a research measure. That is the answer to the busywork worry: you are not adding an assignment, you are scoring a byproduct.
+[[ai-writes-code-student-writes-model-2026|Gousopoulos (2026)]] builds a measurement program around *predict before you run*: the learner states what should happen, then the artifact's behavior is judged against that prediction on domain grounds rather than by whether it runs. The reasoning exists before the output does, which is what makes it gradable.
 
-Three decisions keep this from becoming surveillance. First, grade the check against adjudicated quality, not effort — otherwise you build an incentive to perform checking theater. Second, state provenance, as Venetsanos requires: students must understand the provenance, nature and limitations of the feedback they receive — which parts were machine-verified, which evaluatively judged, and that human judgment has primacy — because students cannot weigh feedback they cannot situate. Third, keep enforcement off detection tools. [[bassett-ai-detectors-education-2026|Bassett et al. (2026)]] argue that AI detection should not be used in education at all: its estimates are probabilistic and cannot be independently verified because real-world text origin is unknown; its scores do not meet the balance-of-probabilities standard integrity investigations require; and the human-versus-AI dichotomy is meaningless for work created with, rather than by, AI. Their conclusion is that detection "does not safeguard academic integrity; it undermines it" — surveillance regimes foster suspicion and erode student [[trust]]. Keep the two senses of detection apart: [[ai-detection|detecting AI-generated text]] has no defensible evidentiary role here, while teaching students to detect errors in AI output is the point of the exercise.
+His audit of 24 studies found the same tool producing opposite outcomes under different task structures. A conventional ChatGPT setup ended significantly lower in achievement, [[self-efficacy]] and flow, while a condition that added verification requirements and error-reflection modules showed stronger [[critical-thinking|higher-order thinking]]. The tool was constant across those conditions. What varied was whether the task asked the student to hold a position the tool could contradict.
 
-Separation is architectural, and worth telling students about: [[vetting-dual-llm-safety-education|Li, Zhang and Botelho (2026)]] check output with a second model rather than embedding the check in the generator — and a student who sees why can see why "the tool said it was right" is not a verification argument.
+In practice that is one line on the assignment sheet: before you open the tool, write down what you expect it to say and why. Then compare. Two students can produce the same paragraph and only one of them can explain where the paragraph departs from what they predicted.
 
-## Why students skip the check
+## Send them to the record
 
-**Calibration.** Jaidka and Cai's typology puts the high-ability, low-motivation student at risk of complacent overtrust while the low-ability, low-motivation student is the most exposed. The audited literature shows the same split in miniature: a design that supplied advice correct about half the time, where the weight students gave it varied with [[prior-knowledge|prior knowledge]]. Calibration failures are not fixed by exhortation: the student's own confidence signal is what is miscalibrated.
+[[citation-errors-hallucinations-computing-education-2026|Denny et al. (2026)]] traced 113,588 references from 5,225 computing education papers published since 2021 and manually verified 828 suspicious records. They found 30 containing verifiably fabricated bibliographic information across 14 papers, all from 2025 and 2026. Thirteen were entirely invented. The other 17 combined a real title with fabricated or incorrect authorship, venue or year. At the SIGCSE Technical Symposium the count rose from 3 in the 2025 proceedings to 17 in 2026, or 2.3% of that year's proceedings papers.
 
-**Fluency.** Output that reads well is treated as right. Novices asked to explain [[llm]]-generated code succeeded on roughly a third of tasks, and a field study of student–ChatGPT quiz conversations found that following correct guidance still produced a wrong answer. When sensitivity is near zero, skipping the check costs the student nothing they can perceive — the failure is invisible until it is graded.
+Author fields fail more often than any other part of a generated reference. That single finding tells you what to ask for. "Open the source and read the author list" targets the field most likely to be wrong, and it produces a fact the student either has or does not. "Make sure sources are real" produces an assurance. Ask students to confirm authors, venue and year against the record itself. The paper asks that every cited work be verified and that any automated checker stay [[human-in-the-loop-ai|human-in-the-loop]], which is exactly the habit a citation requirement rehearses.
 
-**Social proof and intention.** Students report that they intend to verify, and the report is worthless: in Vu, Cummings and Park's study, self-reported verification intentions did not move while enacted behavior did (M = 0.34 versus 0.18). Do not grade the intention. Norm-based appeals are not a reliable fallback either — message-based norm nudges showed no significant effect in a direct tournament Jaidka and Cai report. Time pressure is a documented reason students skip checks, and a syllabus that leaves verification unscheduled says it is optional.
+## Separate the check a machine can run from the judgment only a reader can make
 
-## Three objections
+[[tripartite-feedback-framework-ai-assessment-2026|Venetsanos (2026)]] sets a defensible bar for what may be checked mechanically: documented criteria, comparison against established knowledge without interpretive judgment, and a single correct answer or pre-specified acceptable alternatives. Dates, formulas, citations and calculations clear that bar. Anything interpretive fails it, and there the student's own reading is the instrument of the check.
 
-**"They can just do it for the grade."** Partly true — so grade materials the AI cannot produce on a student's behalf. A specification written before the first prompt, a prediction recorded before running the artifact, a source list checked against the record, a stated domain reason for rejection: each of these requires the student to hold a position the generator cannot supply. At the authored level, Gousopoulos requires rejection of output on domain grounds *with a stated reason* — a fabricated reason is as visible as a fabricated citation. The residual risk is bounded by the sensitivity threshold: where a student has no domain knowledge to check against, verification is theater, and no rubric rescues it. That is an argument for teaching the domain first, not for abandoning the check.
+Gousopoulos formalizes the same split as a signal-detection problem with two independent parameters. Sensitivity is the ability to discriminate correct from flawed output; criterion is where the learner sets the threshold for rejection. Over-reliance divides along that line. Warnings, checklists and hallucination prompts shift the criterion, changing when a student rejects. Domain instruction, worked comparisons and seeded-error practice raise sensitivity, because the learner can then tell. A student who accepts flawed output may have a criterion problem or a sensitivity problem, and the two need different teaching.
 
-**"There is no time in the syllabus."** Forewarning is one message immediately before the task; the seeded-error task is twenty items, eight with a domain-level error, and it tells you whether students can discriminate at all; and the rubric rides on materials the task already generates, so it costs marking time on evidence you would otherwise lack rather than a new assignment. What costs time is the alternative: unverified submissions, fabricated references, and the integrity conversations that follow. The constraint is still genuine — time pressure is a documented reason students skip checks, so verification that is not scheduled into the task will not happen.
+The prerequisite is uncomfortable. Verification instruction is educative only where sensitivity can exceed zero, which requires enough domain knowledge to distinguish correct from incorrect output. In the same audit, novices asked to explain [[llm]]-generated code succeeded on roughly a third of tasks, so judging AI feedback or code against one's own reasoning is a real check only where that reasoning has substance. If your students cannot yet do the domain thinking unaided, more warnings buy nothing. Teach the content and attach the check to it.
 
-**"The tool is usually right."** Then the check is cheap and the exceptions are the point. The record on references is not reassuring: 30 verifiably fabricated items across 14 papers, all from 2025 and 2026, 17 of them pairing a real title with fabricated or incorrect authorship, venue or year, 13 entirely fabricated, and a jump from 3 in the 2025 SIGCSE proceedings to 17 in 2026, or 2.3% of 2026 proceedings papers. Accuracy on the parts you happen to notice says nothing about the parts you do not — author fields fail more often than any other part of a generated reference. And an accepted answer can be wrong even when the guidance was right: the field study of student–ChatGPT quiz conversations recorded exactly that. The reason to teach verification is not that the tool is usually wrong, but that the student cannot tell which case they are in — precisely the skill your course exists to build.
+One more warning belongs in the design: interventions that reduce inappropriate acceptance must also be checked for the unintended rejection of correct assistance. Leave room for a student to accept good output for a stated reason.
 
-## What remains unknown
+## Grade the check without turning it into surveillance
 
-- Whether any intervention improves verification success and the reliance decision that follows, judged against adjudicated output quality: no study among Wei and Shang's 14 priority cases measured both, and few followed immediate performance with delayed retention or [[transfer-of-learning|transfer]].
-- Whether the components relate in the order the map implies. The seven targets are an analytic ordering, not a validated causal model.
-- Whether design propositions work. Jaidka and Cai's eight propositions are untested predictions, and message-based norm nudges showed no significant effect in a direct tournament they report.
-- Whether checking built into feedback develops self-verification habits or dependency on external validation, which Venetsanos raises and leaves open.
-- Whether verification instruction works below a domain-knowledge threshold. Gousopoulos predicts it cannot, and notes that some domains furnish an external criterion — physics, chemistry, ecology, epidemiology — while history, literature and [[ethics]] largely do not.
+Gousopoulos draws the consequence directly. If the AI can produce the artifact, the artifact cannot be the assessment, so evaluation relocates to the specification, the validation reasoning and the interpretation. His model authorship construct has four facets, specification, conceptual model, verification and interpretation, at four ordered levels from delegated to authored. The authored level requires a verifiable specification before the first prompt, rejection of output on domain grounds with a stated reason, and interpretation that goes beyond the artifact's own report of itself.
+
+The rubric draws on materials a construction task already generates, so the same instrument is both a [[formative-assessment|formative assessment]] and a research measure. That answers the busywork worry: you score a byproduct of an assignment you already set. Two limits belong beside it. No study among Wei and Shang's 14 priority cases measured verification success and the following reliance decision together, and few followed immediate performance with delayed retention or [[transfer-of-learning|transfer]], so the rubric rests on an analytic map rather than a validated causal sequence.
+
+Three decisions keep this from becoming surveillance. Grade the check against adjudicated quality rather than effort, or you build an incentive to perform checking. State provenance, as Venetsanos requires: students need to know which parts of the feedback they receive were machine-verified, which were judged evaluatively, and that human judgment has primacy, because they cannot weigh feedback they cannot situate. And keep enforcement off detection tools. [[bassett-ai-detectors-education-2026|Bassett et al. (2026)]] argue that [[ai-detection|AI detection]] should not be used in education at all: its estimates are probabilistic and cannot be independently verified because real-world text origin is unknown, its scores do not meet the balance-of-probabilities standard integrity investigations require, and the human-versus-AI dichotomy is meaningless for work created with, rather than by, AI. Their conclusion is that detection "does not safeguard academic integrity; it undermines it." Surveillance regimes foster suspicion and erode student [[trust]]. Keep the two senses of detection apart. Detecting AI-generated text has no defensible evidentiary role here; teaching students to detect errors in AI output is the whole exercise.
+
+The separation is architectural, and worth telling students about. [[vetting-dual-llm-safety-education|Li, Zhang and Botelho (2026)]] check output with a second model rather than embedding the check in the generator. A student who sees why can see why "the tool said it was right" is not a verification argument.
+
+## If you are designing the course rather than teaching it
+
+Three findings above belong in the course build, where an instructor working alone will not reach them.
+
+The first is a diagnostic. Run a seeded-error task: twenty items, eight with a domain-level error. It tells you whether students can discriminate at all, before you spend a term teaching a criterion they cannot use. A class that misses the seeded errors needs content review, whatever the syllabus says about critical use.
+
+The second is placement of the warning. [[chatgpt-inoculation-training-verification-2026|Vu, Cummings and Park (2026)]] showed a generic forewarning message immediately before two tasks to 100 US-based students, 40 domestic and 60 international EFL. Inoculated students were significantly more likely to verify the academic-source-summary task (M = 0.34 versus 0.18), while self-reported verification intentions did not move. The effect was also task-dependent: it appeared for the source-summary task but not uniformly for a mathematics quiz on exponentiation and large-number multiplication. Put the warning at the point of use, per task type, rather than once in the syllabus or the orientation module.
+
+The third is scheduling. A syllabus that leaves verification unscheduled says it is optional, and time pressure is a documented reason students skip checks. Verification that lives inside the task, with a marked artifact attached, happens. Verification that lives in a policy paragraph does not.
+
+## If you are the student reading this
+
+Four moves cover most of what the research asks of you.
+
+Write your expectation before you prompt. One sentence about what the answer should be, then compare the output against it.
+
+Open the source. Read the author list, the venue and the year against the record, because the author field is where generated references fail most often.
+
+For anything interpretive, write the reason in your own words. A fabricated reason is as visible as a fabricated citation.
+
+Distrust the feeling that the prose reads well. Novices asked to explain LLM-generated code succeeded on roughly a third of tasks, and a field study of student-ChatGPT quiz conversations found that following correct guidance still produced a wrong answer. What you can check is narrower than what you can read.
+
+## What instructors get wrong about this
+
+**"I already told them to check their sources."** A warning asks for a disposition. Careful students have it, hurried ones do not, and there is nothing in the sentence a student can act on at 11 p.m. with an output on screen that reads perfectly well.
+
+**"A rubric line about checking sources covers it."** That line sits at initiation and says nothing about process quality or success. A student who ran one search and gave up scores the same as a student who resolved the question, so the rubric rewards the gesture.
+
+**"If they read carefully, they will catch the errors."** Fluency carries the judgment. The audited literature shows novices at roughly a third success on explaining generated code, and the field study recorded a wrong answer that arrived through correct guidance.
+
+**"Students who say they will verify, do."** In Vu, Cummings and Park's study, self-reported intentions did not move while enacted behavior did (M = 0.34 versus 0.18). Grade the behavior, which moved.
+
+**"The students who skip the check are the ones who do not care."** [[trust-calibration-chatbots-design-problem-2026|Jaidka and Cai (2026)]] cross ability to verify with motivation to verify, and the profiles need different remedies. The high-ability, low-motivation student is prone to complacent overtrust. The low-ability, low-motivation student is the most exposed. Two students failing the same check can need opposite teaching, and [[prior-knowledge|prior knowledge]] decides which one you are looking at.
+
+**"More warnings will fix the students who cannot tell."** Warnings move the criterion. They do not raise sensitivity, and sensitivity is what separates a student who can spot the flaw from one who cannot.
+
+**"A detector backs up the policy."** On the evidence above, a detector score fails the standard an integrity case requires, the human-versus-AI split does not hold for work made with AI, and the regime costs you the [[trust]] you need for students to disclose anything.
+
+## What will come back at you
+
+**"They can just do it for the grade."** Partly true, so grade materials the AI cannot produce on a student's behalf. A specification written before the first prompt, a prediction recorded before the artifact runs, a source list checked against the record, a stated domain reason for rejection: each requires the student to hold a position the generator cannot supply. A fabricated reason is as visible as a fabricated citation. Where a student has no domain knowledge to check against, verification is theater and no rubric rescues it, which is an argument for teaching the content first.
+
+**"There is no time in the syllabus."** Forewarning is one message before the task. The seeded-error task reuses a quiz you already give. The rubric rides on materials the task already generates, so it costs marking time on evidence you would otherwise lack. The alternative costs more: unverified submissions, fabricated references, and the integrity conversations that follow.
+
+**"The tool is usually right."** Then the check is cheap and the exceptions are the point. Author fields fail more often than any other part of a generated reference, 17 of the 30 fabricated items paired a real title with wrong authorship, venue or year, and 17 turned up in a single year's symposium proceedings. Accuracy on the parts you happen to notice says nothing about the parts you do not.
+
+**"My students do not know enough to judge the output."** That is the sensitivity threshold, and it is real. Gousopoulos predicts verification instruction fails below a domain-knowledge floor, and notes that some domains furnish an external criterion, physics, chemistry, ecology and epidemiology among them, while history, literature and [[ethics]] largely do not. Teach the domain and attach the check to it, or expect the check to become a ritual.
+
+**"This is surveillance."** It is, if you grade effort or watch how students work. Grade the artifact against the key, state which feedback was machine-checked and which was judged by a person, and leave detectors out of it.
 
 ## What to do this week
 
-- **Fix the standard before the check.** Decide what adjudicated correctness means for the task so a check has something to resolve against.
-- **Ask for the prediction first.** Have students commit in writing to what should happen, then compare the output on domain grounds, not fluency.
-- **Require citation verification with a named target.** Author lists are the least reliable part of a generated reference; have students open the record and confirm authors, venue and year.
-- **Diagnose sensitivity and criterion separately.** A student who accepts flawed output because they cannot tell needs domain practice; one who can tell and accepts anyway needs the threshold moved.
-- **Grade the checking, not only the artifact.** Score specifications, prediction records, validation logs, source checks and stated reasons for rejection.
-- **State provenance.** Tell students which feedback was machine-verified and which was judged by a person.
-- **Keep enforcement off detectors, and schedule verification.** Time pressure is a documented reason students skip checks.
-- **Run the seeded-error task.** Twenty items, eight with a domain-level error, tells you whether students can discriminate at all.
-- **Say the warning at the point of use.** Forewarn per task type, not once per syllabus.
+**1.** Write the two descriptions for your next assignment: a correct output, and a plausible wrong one. That is the key the check resolves against.
 
-For the surrounding work, see [[incorporating-ai-literacy|how to incorporate AI literacy into a course]] and [[ai-literacy-evidence|what the AI literacy evidence shows]] — the two pages that build the understanding this one puts to work.
+**2.** Add the prediction line. One sentence, written before the tool is opened, compared afterward on domain grounds.
+
+**3.** Replace "check your sources" with "open the record and confirm the authors, the venue and the year."
+
+**4.** Put eight seeded errors into a quiz you already give, and see which students find them.
+
+**5.** Mark one verification artifact against the key, and tell the student which part of the check failed: the standard, the process, or the decision.
+
+## Where to go next
+
+[[incorporating-ai-literacy]] covers how to build the understanding this page puts to work, and [[ai-literacy-evidence]] covers what that literacy work is worth. [[reducing-over-reliance]] handles the design side of students who lean on the tool, [[study-with-ai]] is the student-facing companion, and [[asynchronous-online-courses-ai]] covers the version of this problem with no class meeting to schedule a check into. On the feedback students are checking, see [[ai-feedback-quality]] and [[hallucination-risk]].
