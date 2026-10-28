@@ -1,7 +1,7 @@
 ---
 title: "What Are Best Practices for Writing Instruction in the Context of AI?"
 created: "2026-09-12T08:13:03-04:00"
-updated: "2026-10-21T14:32:00-04:00"
+updated: "2026-10-28T11:14:24-04:00"
 connected_faqs: [ai-feedback-at-scale, redesign-assessment-ai-era, addressing-common-misconceptions-ai-education]
 foundations: [academic-integrity, cognitive-offloading]
 assessment: [ai-feedback-quality, assessment-validity, evaluative-judgment, feedback-literacy, peer-assessment]
@@ -10,110 +10,182 @@ weight: 80
 audience: [instructors, instructional designers]
 discipline: [engineering education, humanities education, writing education]
 reviewed_by: [editor]
+contributors: [editor]
+ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: revision
+    date: "2026-10-28"
+    agent: hermes-agent
 ---
 
-This FAQ is written for instructors who have to decide, course by course and assignment by assignment, what AI should be allowed to do in student writing. It draws on the [[ai-education|AI in Education]] knowledge base, especially its syntheses of [[writing-education|AI in writing education]], [[cognitive-offloading|Cognitive Offloading]], [[ai-feedback-quality|AI Feedback Quality]], [[feedback-literacy|Feedback Literacy]], and [[academic-integrity|Academic Integrity]].
+You are rewriting an assignment sheet and the sentence in front of you says AI is permitted with acknowledgment, which tells a student nothing about whether the tool may supply the argument. A colleague has proposed a course-wide ban and you suspect it lands hardest on the multilingual writers in the room. Or a batch of essays came back smoother than the seminar discussion behind them, and you need a rule you can defend at the next curriculum meeting.
 
-The research points to one consistent principle:
+The bottom line: name the intellectual work the assignment exists to produce, keep that step with the student, and give the tool jobs that return something the student has to judge. A rule written that way tells a student which step it protects.
 
-> **Use AI to increase feedback, reflection, critique, and revision — not to remove the intellectual work that writing is meant to develop.**
+## The short version
 
-That principle matters because [[writing-education|writing]] is not the production of polished text but a cognitive, rhetorical, and social process. AI can improve the product while weakening the processes of reasoning, authorship, source evaluation, and revision that your assignment exists to teach. Everything below is a way of applying that distinction.
+**1.** Write one sentence naming the thinking the assignment grades, and put it where students will read it.
 
-## Eight research-informed practices for instructors
+**2.** Make the student commit a claim, an interpretation, or a rough draft before the tool sees the task.
 
-**1. Decide first what intellectual work students must retain, then set the AI boundary.** Before deciding whether AI is "allowed," name the construct the assignment develops or assesses. If the goal is argumentation, students must formulate and defend claims. If it is disciplinary interpretation, they must make interpretive judgments. If it is scientific reasoning, they must connect evidence to conclusions. AI use that replaces that work undermines the [[assessment-validity|validity]] of the assignment even when the resulting prose is excellent — the product no longer warrants the inference you want to draw from it. This is the central logic of [[writing-education|writing education]] and [[academic-integrity|academic integrity]], and it is why task-level rules beat course-level bans.
+**3.** Set the boundary per step. Allow AI where the step is not what you grade, restrict it where it is.
 
-[[nash-preservice-teachers-classroom-ai-policies-2026|Nash and Burriss]] show how hard that boundary is to draw well. Across 27 [[teacher-education|preservice]] English teachers' classroom [[educational-policy-ai|AI policies]], 22 permitted AI for ideation and brainstorming, 22 disallowed or left unclear the use of AI to compose sentences, paragraphs or papers, and 22 said nothing at all about *reading*. The contradiction the authors surface is instructive: the same teachers called ideation and revision "thinking" while locating real thinking only in final written text. If thinking is distributed across planning, drafting, revising and evaluating — as the composition research the paper draws on argues — then a policy that guards only the final product is guarding the wrong step, and reading deserves the same explicit treatment as writing.
+**4.** Give AI the critic's chair, then grade what the student does with the response.
 
-**2. Prefer "student thinks, AI responds" over "AI writes, student edits."** This is the most actionable principle in the evidence base. [[layer-sensitive-cognitive-offloading-writing-2026|Chen's layer-sensitive study]] of 168 undergraduates across six intact classes distinguished surface, structural, idea, and reasoning offloading: open AI collaboration produced the strongest AI-supported writing but the weakest later independent performance, and delegating *reasoning* was most negatively associated with independent [[critical-thinking|higher-order thinking]]. A bounded condition that restricted delegation and required students to explain how they accepted, modified, or rejected AI suggestions did better on independent writing, argument depth, and revision. The study is quasi-experimental with only six intact classes, so treat the causal claim cautiously — but the pattern aligns with the wider [[cognitive-offloading|offloading]] literature.
+**5.** Keep one piece of writing the tool never touches and read the assisted work against it.
 
-A practical rule follows: require students to establish their own interpretation, hypothesis, argument, or analysis *before* asking AI to critique or develop it. AI can be asked, "Here are three objections to my argument." It should rarely be asked, "Write my argument for me."
+**6.** Say in advance what disclosure does to the grade.
 
-**3. Be especially cautious about AI-generated first drafts.** In a study of 253 writers, any AI assistance reduced perceived ownership, but *drafting* assistance reduced it most while *planning* assistance reduced it least; more AI-contributed text and ideas went with better essay quality but lower ownership ([[ai-writing-support-stage-ownership-2026|the planning-to-revision ownership study]]). The trade-off is real: you can get a better essay and a weaker sense of authorship in the same submission. If preserving authorship matters in your course, separate AI that prompts planning from AI that generates paragraphs — the first is defensible almost anywhere, the second rarely is when composing is the target skill.
+## Name the thinking the assignment is for
 
-**4. Use AI as one feedback partner, and keep [[feedback|human feedback]] in the system.** The strongest classroom evidence here is [[pairr-ai-peer-review-2025|PAIRR]], involving 654 students across ten writing courses and three writing-intensive [[stem-education|STEM]] courses: students drafted, completed [[peer-assessment|peer assessment]], obtained rubric-based AI feedback, compared and evaluated both sources, made revision plans, revised, and reflected. Fifty-eight percent preferred combined peer + AI feedback against only 6 percent who preferred AI feedback alone. Students found AI useful for broad rubric-oriented revision advice while peers supplied contextual knowledge and authentic audience response. Be precise about what this shows: PAIRR measured students' experience and evaluation of feedback rather than long-term [[learning-gains|learning gains]], so it is strong evidence for a *feedback design* and weaker evidence for durable improvement in writing.
+The AI boundary is the second question, and most assignment sheets answer it first. Before you decide what is allowed, finish this sentence: this assignment exists to show that the student can do X. If X is argumentation, the student has to formulate and defend the claim. If it is disciplinary interpretation, the student has to make the interpretive judgment. If it is scientific reasoning, the student has to connect evidence to a conclusion. AI that performs that work breaks the inference you want to draw from the essay, and excellent prose does not repair it. [[assessment-validity|Assessment Validity]] treats this as a validity problem rather than a conduct problem, which is why [[writing-education|writing education]] and [[academic-integrity|academic integrity]] both end up arguing for task-level rules instead of course-level bans.
 
-**5. Teach students to evaluate feedback, not just to prompt for it.** Access to good feedback is not enough. Students need [[feedback-literacy|feedback literacy]]: the capacity to seek feedback, judge its quality, manage their reaction to it, and turn it into revision. Students with higher feedback literacy benefit far more from AI feedback, while those who treat it as authoritative gain less ([[ai-feedback-quality|AI Feedback Quality]]). A useful assignment component is a short feedback decision table — *AI suggestion → accept / reject / modify → why → the rubric criterion or evidence supporting the decision*. That turns AI output into material for [[evaluative-judgment|judgment]] rather than instructions to obey, and it gives you something gradeable that is not the prose itself.
+[[nash-preservice-teachers-classroom-ai-policies-2026|Nash and Burriss]] show how easily the sentence goes wrong. Across 27 [[teacher-education|preservice]] English teachers' classroom [[educational-policy-ai|AI policies]], 22 permitted AI for ideation and brainstorming, 22 disallowed or left unclear the use of AI to compose sentences, paragraphs or papers, and 22 said nothing at all about reading. The same teachers described ideation and revision as "thinking" while placing real thinking in the final written text. If thinking runs through planning, drafting, revising and evaluating, a policy that guards only the last product guards the wrong step, and reading needs as explicit a rule as writing.
 
-**6. Keep some writing and reasoning independently observable.** AI-assisted performance is not independent capability. Retain occasional withdrawal conditions: brief no-AI writing, in-class interpretation, oral explanation, a conference, spontaneous revision, or a follow-up problem that requires transferring the same reasoning to a new case. This matters most when the final paper carries substantial grade weight. It does **not** mean converting every assignment into a proctored exam — a few strategically placed independent samples give both you and the student a baseline to interpret the assisted work against ([[cognitive-offloading|Cognitive Offloading]]; [[layer-sensitive-cognitive-offloading-writing-2026|Chen's study]]). This is the writing-specific case of the general assessment-redesign argument in [[redesign-assessment-ai-era]].
+Write the rule as a sentence about a step, then: "You may use AI to test objections to a claim you have already made. You may not use it to generate the claim or the evidence for it." A student can act on that. "AI permitted with acknowledgment" gives them nothing to act on.
 
-**7. Use disclosure as reflection, not as a trap.** Disclosure is not neutral: students conceal AI use when policies are ambiguous, punitive, or stigmatizing, and honesty can even attract suspicion. Disclosure works pedagogically when it makes decision-making visible — what AI was used for, what was supplied to it, which suggestions mattered, and what the student ultimately accepted or rejected ([[ai-use-disclosure|AI Use and Disclosure Statements]]; [[student-rationalization-ai-writing|student rationalization research]]). Task-specific guidance is better than a blanket "AI permitted" or "AI prohibited" rule, because the right boundary differs between brainstorming, argument development, sentence editing, source work, and final composition. State how disclosure will affect grading, or students will assume the worst.
+## Make the student commit before the tool responds
 
-The assessment-design modeling of [[mohamed-temimi-assessment-imperfect-information-disclosure-2026|Mohamed and Temimi]] supplies the mechanism: disclosure becomes the attractive option only when the cost of honesty stays low, and because a detector's false positives fall on honest students too, heavier monitoring can make concealment relatively *more* attractive. Their advice is to design for the student most tempted to conceal and to read a declared use as context rather than a confession.
+Order of operations is the most useful design choice in this literature. [[layer-sensitive-cognitive-offloading-writing-2026|Chen's layer-sensitive study]] of 168 undergraduates in six intact classes separated four kinds of delegation: surface, structural, idea, and reasoning offloading. Open AI collaboration produced the strongest AI-supported writing and the weakest later independent performance. Delegating reasoning was the layer most negatively associated with independent [[critical-thinking|higher-order thinking]]. A bounded condition, which restricted what students could delegate and required them to explain how they had accepted, modified, or rejected each AI suggestion, did better on independent writing, argument depth, and revision.
 
-**8. Do not treat generic [[llm]] judgment as a substitute for your judgment, especially in [[summative-assessment|summative assessment]].** Two apparently conflicting results are compatible: carefully calibrated systems with detailed rubrics and examples can score particular tasks well, while out-of-the-box LLM grading diverges substantially from human judgment. [[llms-do-not-grade-essays-like-humans-2026|Mathew et al.]] found weak human–LLM agreement that varies systematically with essay quality — LLMs over-reward short, superficially readable essays and under-reward longer, stronger essays with minor surface errors, clustering toward the middle of the scale. AI is therefore much easier to justify for low-stakes [[formative-assessment|formative]] feedback, comment drafting, or triage than as an autonomous final grader ([[automated-essay-scoring|Automated Essay Scoring]]).
+Treat the causal claim with care. It is quasi-experimental, with six intact classes and no random assignment of students, so classroom differences stay tangled with the treatment. The direction fits the wider [[cognitive-offloading|cognitive offloading]] literature, which is why it is worth acting on, and the size of the effect is not something to quote at a committee.
 
-Students draw a version of this line themselves. In an undergraduate technical communication course where [[generative-ai|ChatGPT]] scored handwritten writing and students were told so, all 13 participants found the feedback clear and useful for surface-level revision, yet most separated *feedback utility* from *evaluative authority* — accepting the critique while insisting that the instructor decide the grade ([[student-perspectives-ai-writing-grading-2026]]). That two-judgment pattern argues for designing [[human-in-the-loop-ai|human oversight]] in as the point at which AI output becomes a grade, rather than treating it as an optional courtesy.
+On the sheet it costs one line: the student brings an interpretation, a hypothesis, an argument, or an analysis, and AI is asked to attack it. "Here are three objections to my argument" keeps the thinking with the writer. "Write my argument" does not, whatever the student does with the output afterward.
 
-## A default workflow you can adopt or adapt
+## Treat the first draft as the expensive step
 
-A robust AI-era writing sequence keeps the reasoning with the student and puts AI in a consulting role:
+Assistance at different stages does different damage. In a study of 253 writers, any AI assistance reduced perceived ownership of the work, drafting assistance reduced it most, and planning assistance reduced it least. More AI-contributed text and ideas went with better essay quality and lower ownership in the same submission ([[ai-writing-support-stage-ownership-2026|the planning-to-revision ownership study]]). That combination is the one to plan around: a stronger essay and a weaker sense of authorship arrive together, and the second is what [[agency]] in writing rests on.
 
-| Stage | Student responsibility | Appropriate AI role | What you can collect |
+If authorship matters in your course, split the permissions. AI that prompts planning, asks what evidence the student already has, or names a counterargument the student has missed is defensible almost anywhere. AI that generates paragraphs is hard to defend where composing is the target skill. Where composing is not the target, the calculation changes.
+
+## Set the rule at each step
+
+A sequence worth borrowing keeps AI in a consulting role and puts the reasoning with the student:
+
+| Stage | The student does | AI may | Artifact you can collect |
 |---|---|---|---|
-| **1. Encounter evidence** | Read, observe, annotate, calculate, run the experiment | Usually none, or clarification only | Notes, annotations, observations |
-| **2. Form an initial position** | Generate interpretation, question, hypothesis, claim | May ask questions or challenge assumptions | Claim or hypothesis memo |
-| **3. Plan** | Decide evidence, sequence, audience, genre | May critique an outline or suggest alternatives; student decides | Outline + rationale |
+| **1. Encounter evidence** | Read, observe, annotate, calculate, run the experiment | Nothing, or clarification only | Notes, annotations, observations |
+| **2. Form a position** | Generate interpretation, question, hypothesis, claim | Ask questions, challenge assumptions | Claim or hypothesis memo |
+| **3. Plan** | Decide evidence, sequence, audience, genre | Critique an outline, suggest alternatives | Outline with rationale |
 | **4. Draft** | Produce substantive prose and reasoning | Restricted according to the learning goal | Draft and version history |
-| **5. Human response** | Give and receive peer or instructor feedback | None necessary | Peer comments |
+| **5. Human response** | Give and receive peer or instructor feedback | Nothing necessary | Peer comments |
 | **6. AI feedback** | Ask for criterion-referenced critique | Critic, reader, counterargument generator, clarity checker | AI feedback transcript |
-| **7. Evaluate feedback** | Compare peer, instructor, and AI suggestions; accept or reject with reasons | AI output becomes the object of evaluation | Feedback decision memo |
+| **7. Evaluate feedback** | Compare peer, instructor, and AI suggestions, accept or reject with reasons | Its output is now the object of evaluation | Feedback decision memo |
 | **8. Revise** | Make and justify substantive changes | Test clarity, offer alternatives | Revision |
-| **9. Verify** | Check every factual or source-dependent claim | AI cannot verify its own output | Sources and evidence |
-| **10. Reflect and disclose** | Explain AI's role and what changed in their thinking | None | Brief process reflection |
-| **11. Independent check when needed** | Explain or apply the reasoning without AI | None | Oral defense, quick write, new case |
+| **9. Verify** | Check every factual or source-dependent claim | Cannot verify its own output | Sources and evidence |
+| **10. Reflect and disclose** | Explain AI's role and what changed in their thinking | Nothing | Brief process reflection |
+| **11. Independent check** | Explain or apply the reasoning without AI | Nothing | Oral defense, quick write, new case |
 
-This is essentially [[pairr-ai-peer-review-2025|PAIRR]] extended: draft → human feedback → AI feedback → critical comparison → revision → reflection, with an independent baseline and clearer boundaries around reasoning.
+This is [[pairr-ai-peer-review-2025|PAIRR]] extended: draft, human feedback, AI feedback, comparison, revision, reflection, with an independent baseline and a tighter boundary around reasoning. Use the middle column as the assignment and the right column as what a grade can rest on.
 
-## Discipline-specific guidance
+Eleven rows is more than most assignments need. Collapse the table to the steps you can actually distinguish in class: encountering the evidence, forming a position, drafting, and revising. In that shorter version the encounter and the position are where the construct lives, drafting is the contested step, and formatting or reference checking can be permitted outright. Writing the table is how you find the two or three places where your rule has to say something, so a rule with three clauses that a student can follow beats a matrix nobody reads.
+
+## Keep human feedback in the loop
+
+The largest classroom study here is [[pairr-ai-peer-review-2025|PAIRR]]: 654 students across ten writing courses and three writing-intensive [[stem-education|STEM]] courses. They drafted, completed [[peer-assessment|peer assessment]], obtained rubric-based AI feedback, compared and evaluated both sources, wrote revision plans, revised, and reflected. Fifty-eight percent preferred combined peer and AI feedback. Six percent preferred AI feedback alone. Students found AI useful for broad rubric-oriented revision advice, and peers supplied contextual knowledge and an authentic audience response.
+
+Be exact about the claim. PAIRR measured students' experience and evaluation of feedback, not long-term [[learning-gains|learning gains]], so it is strong evidence for a feedback design and weaker evidence that writing improves months later. Keep the peer step even when the AI step is faster. Much of the [[feedback]] work happens in the comparison between the two sources, and dropping it removes the part students said they valued.
+
+## Grade what the student did with the feedback
+
+[[feedback-literacy|Feedback literacy]] is the capacity to seek feedback, judge its quality, manage your reaction to it, and turn it into revision. Students with more of it benefit far more from AI feedback. Students who treat the output as authoritative gain less ([[ai-feedback-quality|AI Feedback Quality]]).
+
+A short decision table makes that capacity visible, one row per suggestion: the AI suggestion, accept / reject / modify, why, and the rubric criterion or piece of evidence behind the call. Four columns, no essay required. It turns model output into material for [[evaluative-judgment|evaluative judgment]], and it gives you something gradeable that is not the prose.
+
+Describe a strong row as carefully as you describe a thesis statement: it names the rubric criterion, points at a passage or a piece of evidence, and explains a change the student actually made. A row that says "good point, agreed" earns nothing. Students write to the example in front of them, so the example is the instruction.
+
+## Make disclosure cheap and specific
+
+Students conceal AI use when policies are ambiguous, punitive, or stigmatizing, and honesty can attract suspicion ([[ai-use-disclosure|AI Use and Disclosure Statements]]; [[student-rationalization-ai-writing|student rationalization research]]). What makes disclosure useful pedagogically is that it records decisions: what the tool was used for, what the student gave it, which suggestions mattered, what the student accepted or rejected.
+
+[[mohamed-temimi-assessment-imperfect-information-disclosure-2026|Mohamed and Temimi]] supply the mechanism. Disclosure becomes the attractive option only when the cost of honesty stays low. Detectors produce false positives against honest students too, so heavier monitoring can make concealment relatively more attractive. Their advice is to design for the student most tempted to conceal and to read a declared use as context rather than a confession.
+
+Two details do most of the work on the form. Ask for specific uses rather than a category, and state how a declaration will affect the grade. A student who does not know will assume the worst.
+
+Four prompts are enough for most assignments: which step of the work the tool was used at, what the student supplied to it, which suggestions changed the draft, and which were rejected and why. That last prompt is the most informative, because a rejection with a reason is evidence of judgment and a list of accepted suggestions is not.
+
+## Adjust the rule to what your field calls writing
 
 ### Composition and writing courses
 
-Composition instructors have the strongest reason to protect the writing process itself, because drafting, rhetorical decision-making, revision, audience awareness, and the development of voice are not just ways of displaying learning — they *are* the learning objectives. Teach AI use progressively rather than as a binary. Early in the term, collect several independent samples so both you and the student know what the writer can currently do. Then introduce AI mainly as audience, critic, and revision partner: ask it to identify where a reader loses the thread, generate objections to a thesis, compare a draft against the rubric, flag unsupported claims, or explain why a paragraph feels incoherent. Students judge the suggestions themselves.
+Composition instructors have the strongest reason to protect the process, because drafting, rhetorical decisions, revision, audience awareness, and voice are the learning objectives rather than the display of them. Collect several independent samples early in the term, so you and the student both know what the writer can do now. Introduce AI as audience, critic, and revision partner: ask where a reader loses the thread, generate objections to a thesis, compare a draft against the rubric, flag unsupported claims, explain why a paragraph feels incoherent. The student judges each suggestion.
 
-Keep peer review even when AI feedback is available: peers supply contextual and audience knowledge that AI does not, and evaluating the difference between the two is itself writerly training. Be conservative about AI generating long stretches of a first draft when learning to compose is the objective, as the ownership and offloading evidence above both indicate. At the same time, avoid blanket bans on grammar, phrasing, or language assistance — they create unnecessary barriers for [[multilingual-learning|multilingual writers]]. The better move is to separate *language support* from *intellectual authorship*: students may get help with expression while remaining responsible for ideas, evidence, rhetorical decisions, and meaning. Be aware that AI feedback is not language-neutral: [[marked-pedagogies-linguistic-bias-writing-feedback|Tan et al.]] found identical writing drew more praise and less substantive critique when student demographic or educational attributes were included in the prompt, so [[bias-mitigation|bias]] auditing belongs in your feedback design.
+Keep peer review alongside AI feedback, since peers supply contextual and audience knowledge the model lacks, and evaluating the difference between the two is writerly training in itself. Be conservative about AI generating long stretches of a first draft when learning to compose is the objective, for the ownership and offloading reasons above. Avoid blanket bans on grammar, phrasing, or language assistance, which create unnecessary barriers for [[multilingual-learning|multilingual writers]]. Separate language support from intellectual authorship instead: help with expression is fine, and the student stays responsible for ideas, evidence, rhetorical decisions, and meaning. Audit the feedback itself, because [[marked-pedagogies-linguistic-bias-writing-feedback|Tan et al.]] found that identical writing drew more praise and less substantive critique when student demographic or educational attributes were included in the prompt, which puts [[bias-mitigation|bias mitigation]] inside feedback design.
 
 ### Humanities and social science courses
 
-Interpretation is frequently the target capability here, so make **source encounter precede AI encounter**. Students should annotate the primary text, historical source, artwork, archival item, interview, or theoretical passage and formulate an initial interpretation *before* consulting AI. Afterward, AI becomes educationally useful as a foil: "Offer an alternative reading"; "What evidence would challenge my interpretation?"; "Which assumptions does my argument make?"; "Generate an interpretation from a contrasting theoretical perspective." The student decides which reading the actual text warrants.
+Interpretation is usually the target capability, so make the source encounter come before the AI encounter. Students annotate the primary text, historical source, artwork, archival item, interview, or theoretical passage and form an initial reading before consulting anything. Afterward the model works as a foil: offer an alternative reading, say what evidence would challenge this interpretation, name the assumptions the argument makes, generate a reading from a contrasting theoretical perspective. The student decides which reading the text actually supports.
 
-Assignments can also make AI critique itself part of disciplinary learning: give students an AI interpretation of a poem, event, argument, or social phenomenon and ask what it notices, what it misses, which evidence supports its claims, whose perspective is absent, and where it collapses ambiguity into a smooth answer. That preserves the interpretive judgment the [[humanities-education|humanities]] teach instead of treating an LLM as an oracle. Assess interpretive decisions and evidential justification rather than polish — a short conference question such as "Why did you read this passage this way rather than the alternative you rejected?" is far stronger evidence of understanding than guessing whether a sentence "looks AI-generated" ([[ai-detection|AI detection]]).
+Assign the critique of the model as disciplinary work. Give students an AI interpretation of a poem, event, argument, or social phenomenon and ask what it notices, what it misses, which evidence supports its claims, whose perspective is absent, and where it collapses ambiguity into a smooth answer. That keeps the interpretive judgment a [[humanities-education|humanities]] course exists to teach. Assess the interpretive decisions and their evidential justification, and use a short conference question such as "Why did you read this passage this way rather than the alternative you rejected?" Guessing whether a sentence looks machine-written is a weaker measure, as [[ai-detection|AI detection]] explains.
 
 ### STEM courses and lab reports
 
-**A qualification first:** the knowledge base holds much stronger evidence about AI-supported academic writing generally than about AI in laboratory-report writing specifically; hands-on and laboratory [[pedagogy]] remain under-covered, including within the [[engineering-education|engineering education]] literature. The guidance below is a reasoned application of writing, offloading, validity, and engineering evidence rather than a conclusion from a large literature on lab reports.
+A qualification first: this knowledge base holds much stronger evidence about AI-supported academic writing generally than about laboratory-report writing in particular. Hands-on and laboratory [[pedagogy]] remain under-covered, including in the [[engineering-education|engineering education]] literature, so what follows applies writing, offloading, validity, and engineering findings to a setting those studies did not test.
 
-Draw the AI boundary around **scientific reasoning rather than prose as a whole**. Students remain responsible for observations, raw data, calculations, uncertainty, figures, analysis choices, results, and claim–evidence reasoning. Once those exist, AI can reasonably help with organization, readability, transitions, and disciplinary conventions — the same surface-versus-reasoning distinction as above ([[layer-sensitive-cognitive-offloading-writing-2026|Chen's study]]).
+Draw the boundary around scientific reasoning rather than prose as a whole. Students stay responsible for observations, raw data, calculations, uncertainty, figures, analysis choices, results, and claim-evidence reasoning. Once those exist, AI can reasonably help with organization, readability, transitions, and disciplinary conventions, which is the same surface-and-reasoning split as [[layer-sensitive-cognitive-offloading-writing-2026|Chen's study]].
 
-A strong AI-era lab-report package therefore includes the report **plus** selected raw data, calculations or notebook output, a figure with a student-written interpretation, and a brief statement of how the central conclusion follows from the evidence. For high-stakes reports, ask one or two individualized follow-up questions about a graph, an anomalous result, a [[research-methods-aied|methodological]] choice, or a limitation. Do not let writing fluency stand in for conceptual understanding: the knowledge base reports that automated [[physics-education|physics]] scoring can underestimate conceptual understanding when linguistic expression is weaker, which falls hardest on [[multilingual-learning|multilingual students]] ([[automated-essay-scoring|Automated Essay Scoring]]). If scientific reasoning and scientific writing are both objectives, score them separately.
+A report package for an AI-era lab course carries the report plus selected raw data, calculations or notebook output, a figure with a student-written interpretation, and a brief statement of how the central conclusion follows from the evidence. For high-stakes reports, ask one or two individualized follow-up questions about a graph, an anomalous result, a [[research-methods-aied|methodological]] choice, or a limitation. Do not let writing fluency stand in for conceptual understanding: automated [[physics-education|physics]] scoring can underestimate conceptual understanding when linguistic expression is weaker, and that falls hardest on [[multilingual-learning|multilingual students]] ([[automated-essay-scoring|Automated Essay Scoring]]). If reasoning and writing are both objectives, score them separately.
 
-Engineering courses add professional accountability. A review of [[ethical-use-ai-engineering-education-review-2026|99 empirical engineering-education studies]] identified transparency, [[human-in-the-loop-ai|human oversight]], student independence, privacy, authorship, fairness, and beneficence as recurring [[ethics|ethical]] concerns, and argued that AI ethics belongs in professional formation rather than rule compliance alone. In a lab or design report, ask students not only to disclose AI assistance but to certify that they have verified calculations, sources, assumptions, and safety-relevant claims.
+### Engineering courses
 
-## What to stop doing
+Professional accountability changes the wording. A review of [[ethical-use-ai-engineering-education-review-2026|99 empirical engineering-education studies]] identified transparency, [[human-in-the-loop-ai|human oversight]], student independence, privacy, authorship, fairness, and beneficence as recurring [[ethics|ethical]] concerns, and argued that AI ethics belongs in professional formation rather than in rule compliance alone. In a lab or design report, ask students to disclose assistance and to certify that they have verified the calculations, sources, assumptions, and safety-relevant claims.
 
-- **Requiring polished prose while ignoring the process.** It makes the product progressively harder to interpret as evidence of learning.
-- **Leaning on AI detectors.** [[ai-detection|Detection]] addresses detection, not learning or [[assessment-validity|assessment validity]], and its evidentiary record is poor: in a covert field study 94% of AI-generated exam submissions went undetected and outscored real students, while a controlled study found detectors flagged compliant light AI editing at 38–80% yet missed more than 96% of humanized rewrites ([[teichmann-detecting-undetectable-misconduct-2026]]; [[karr-ai-detection-humanization-2026]]).
-- **Giving unlimited AI access without teaching feedback evaluation.** That assumes the [[feedback-literacy|feedback literacy]] many students have not yet developed.
-- **Substituting AI feedback for peer and instructor interaction.** It removes the contextual and relational information students consistently report valuing.
-- **Writing "AI allowed" and leaving it there.** Students reasonably read that as covering everything from spellchecking to generating the central argument. Task-level expectations are clearer and make disclosure less of a guessing game ([[ai-use-disclosure|AI Use and Disclosure Statements]]).
+## Keep one sample the tool never touches
 
-## A quick rule for deciding what AI may do
+Assisted performance is not independent capability, and you need at least one reading of the second. Occasional withdrawal conditions are enough: brief no-AI writing, in-class interpretation, an oral explanation, a conference, spontaneous revision, or a follow-up problem that transfers the same reasoning to a new case. This matters most when the final paper carries substantial grade weight. It does not mean proctoring every assignment. A few placed samples give you and the student a baseline for interpreting the assisted work, which is the writing-specific case of the argument in [[redesign-assessment-ai-era]].
 
-For each task, ask three questions:
+Read the two pieces side by side and ask whether the reasoning in the assisted one is also visible in the unassisted one. Where it is, the essay is doing its job as evidence. Where it is not, the assisted grade is measuring what the tool supplied. That comparison is also what you have to show a student who contests a mark, because it points at a specific piece of thinking rather than at an impression about the prose.
 
-| Question | If the answer is yes |
-|---|---|
-| Is this cognitive activity itself a learning objective? | Keep substantial responsibility with the student. |
-| Will students need to perform this capability independently later? | Add independent practice and some no-AI assessment. |
-| Can AI help students evaluate, practice, or revise the capability without performing it for them? | Usually the strongest case for AI integration. |
+## Decide what AI is allowed to grade
 
-Applied: if the goal is argumentation, AI may challenge an argument but should not routinely supply one. If the goal is historical interpretation, AI may offer a competing reading the student critiques. If the goal is lab-report communication, AI may improve prose after the student has done the analysis and reasoning. This is the [[coach-not-crutch-ai-writing|coach-over-crutch]] boundary in practice.
+Two results that look contradictory are compatible. Carefully calibrated systems with detailed rubrics and examples can score particular tasks well, and out-of-the-box [[llm|LLM]] grading diverges substantially from human judgment. [[llms-do-not-grade-essays-like-humans-2026|Mathew et al.]] found weak human-LLM agreement that varies systematically with essay quality: models over-reward short, superficially readable essays, under-reward longer and stronger essays with minor surface errors, and cluster toward the middle of the scale. That pattern supports AI for low-stakes [[formative-assessment|formative]] feedback, comment drafting, and triage far more than for autonomous [[summative-assessment|summative]] grading ([[automated-essay-scoring|Automated Essay Scoring]]).
 
-## How strong is the evidence?
+Students draw a similar line themselves. In an undergraduate technical communication course where [[generative-ai|ChatGPT]] scored handwritten writing and students were told so, all 13 participants found the feedback clear and useful for surface-level revision. Most separated feedback utility from evaluative authority: they accepted the critique and insisted the instructor decide the grade ([[student-perspectives-ai-writing-grading-2026]]). Design [[human-in-the-loop-ai|human oversight]] as the point where AI output becomes a grade, rather than as a courtesy offered when convenient.
 
-Promising, but not yet strong enough to justify a single universal AI-writing policy. Some of the best evidence comes from substantial authentic classroom studies such as [[pairr-ai-peer-review-2025|PAIRR]] with its 654 students. Other findings rest on quasi-experiments, small experimental samples, conceptual analyses, and emerging 2025–2026 work: [[layer-sensitive-cognitive-offloading-writing-2026|Chen's bounded-writing study]] involved 168 students but only six intact classes; the [[ai-writing-support-stage-ownership-2026|ownership study]] used a short experimental writing task; and a study reporting immediate quality gains after ChatGPT practice involved only 21 first-year international students and did not establish long-term [[transfer-of-learning|transfer]] ([[chatgpt-academic-writing-quality-ownership-2026]]).
+## Judge the evidence before you rewrite the syllabus
 
-Treat the consensus as **design principles rather than settled prescriptions**. The most reliable cross-study finding is to preserve [[agency|student agency]], [[evaluative-judgment|evaluative judgment]], independent competence, disciplinary reasoning, and human feedback, while using AI to expand the availability of critique, practice, revision support, and linguistic assistance.
+The case for these designs is promising and not yet strong enough to justify one universal AI-writing policy. Some of the best evidence comes from substantial classroom studies such as [[pairr-ai-peer-review-2025|PAIRR]] with its 654 students. Much of the rest rests on quasi-experiments, small experimental samples, conceptual analyses, and 2025-2026 work that is still new: [[layer-sensitive-cognitive-offloading-writing-2026|Chen's bounded-writing study]] had 168 students but only six intact classes, the [[ai-writing-support-stage-ownership-2026|ownership study]] used a short experimental writing task, and a study reporting immediate quality gains after ChatGPT practice involved only 21 first-year international students and did not establish long-term [[transfer-of-learning|transfer]] ([[chatgpt-academic-writing-quality-ownership-2026]]). What the [[ai-education|AI in Education]] knowledge base supports is a set of design principles, and the most reliable cross-study finding in it is to preserve student [[agency]], [[evaluative-judgment|evaluative judgment]], independent competence, disciplinary reasoning, and human feedback while using AI to widen access to critique, practice, revision support, and linguistic assistance.
 
-**The short version for a syllabus or faculty workshop:** students do the intellectual work first; AI mainly questions, critiques, explains, and supports revision; students evaluate rather than merely implement its output; and assessment includes enough process or independent evidence to show what the student can actually do.
+That mix has a practical consequence. Change one assignment, keep the artifact, and compare the next cohort against this one on the same measure. A rule you can revise after one term is worth more than a policy you cannot test, and the small studies above will not tell you what happens in your course.
+
+## What instructors get wrong about this
+
+**A detector will settle whether the writing is the student's.** It will not. In a covert field study, 94% of AI-generated exam submissions went undetected and outscored real students, and a controlled study found detectors flagged compliant light AI editing at 38-80% while missing more than 96% of humanized rewrites ([[teichmann-detecting-undetectable-misconduct-2026]]; [[karr-ai-detection-humanization-2026]]). Detection answers a detection question, and [[assessment-validity|validity]] is a different question.
+
+**A course-level policy is clearer than a per-assignment rule.** The Nash and Burriss policies were course-level documents, and 22 of 27 permitted brainstorming, 22 restricted or muddied composing, and 22 were silent on reading. One document covering everything tends to be specific about the step the instructor worries about and vague about the rest.
+
+**Better prose means the writing instruction worked.** The ownership study found better essay quality and lower ownership in the same submission, and Chen's open collaboration condition produced the strongest assisted writing with the weakest later independent performance. Prose quality is a product measure. What the course is for is a capability measure.
+
+**Unlimited access plus a good prompt is enough.** Students who treat AI feedback as authoritative gain less from it than students with developed feedback literacy. Access to critique and the capacity to use critique are separate assets.
+
+**Banning AI protects the writing process.** A ban answers a question that differs by step, and it creates barriers for multilingual writers who need language support that has nothing to do with authorship. A workable split runs between expression and intellectual responsibility.
+
+## What will come back at you
+
+**"I do not have time to read another artifact."** Then make the artifact small: four columns of decision table, or five minutes of in-class writing as the independent sample. The corpus reports no marking-time data for these designs, so the workload case has to be tested on one assignment rather than assumed from this page.
+
+**"My students will use AI whatever the rule says."** They will, and the design question is which response your assignment makes easiest. A declaration that costs nothing and a rubric that pays for process make disclosure the cheaper path. That mechanism comes from modeling rather than from a trial of a disclosure policy, so treat the prediction as reasonable and unconfirmed.
+
+**"A ban is simpler, and it protects the process."** Simpler, yes. The policies above show how a single course-level rule drifts into silence on the steps that matter, and blanket language restrictions fall on students who need them most.
+
+**"Peer review is redundant now that AI responds in seconds."** Fifty-eight percent of PAIRR students preferred the combination and 6% preferred AI alone, and the reason they gave was the contextual and audience knowledge peers supplied. That measures experience, so it carries less far than a learning-gain result would.
+
+**"The model grades this task as well as I do."** Calibrated systems with detailed rubrics and worked examples can score particular tasks well. Generic grading does not, and Mathew et al. show the disagreement follows essay quality rather than scattering randomly, which is the harder kind of error to notice. Test the tool on your own marked set before it touches a grade.
+
+**"This penalizes students whose academic English is weaker."** It can, if the rule treats expression and authorship as one thing. Separate them, and audit the AI feedback for the pattern Tan et al. found, where identical writing drew more praise and less substantive critique once demographic or educational attributes were in the prompt. The corpus documents that bias. It does not report a tested fix, so your own comparison is the check.
+
+## What to do this week
+
+**1.** Write the capability sentence for your next major assignment and put it on the sheet.
+
+**2.** Add one line requiring the student's claim, interpretation, or rough draft before any AI use, and say what you will collect.
+
+**3.** Mark each step of that assignment as construct-bearing or not, and rewrite the AI rule so it allows the tool where the step is not graded.
+
+**4.** Add a four-column feedback decision table to the rubric, with points attached.
+
+**5.** Schedule one short piece of writing that no tool touches, and decide now which assignment it belongs to.
+
+## Where to go next
+
+The assessment side of this argument, including the design of authenticated steps, is in [[redesign-assessment-ai-era]]. For the policy document students actually read, see [[course-ai-policy]], and for the feedback tools themselves, [[ai-feedback-quality]]. [[verify-ai-output]] covers what students should be checking when the model supplies a claim or a source, and the concept page [[coach-not-crutch-ai-writing]] states the boundary this page keeps returning to.
