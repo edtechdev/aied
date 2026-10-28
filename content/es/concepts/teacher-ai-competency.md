@@ -1,7 +1,7 @@
 ---
 title: "Competencia en IA del profesorado"
 created: "2026-09-28T20:20:21-04:00"
-updated: "2026-10-26T22:06:46-04:00"
+updated: "2026-10-28T15:53:28-04:00"
 connected_faqs: [faculty-ai-competencies, addressing-common-misconceptions-ai-education, faculty-development-ai]
 type: concept
 foundations: [ai-literacy, educational-development, teacher-role]
@@ -13,10 +13,14 @@ level: [k 12, higher ed]
 confidence: high
 connected_resources: [claw-ed, edugems, playlab, teacherserver]
 translation_of: concepts/teacher-ai-competency
-source_updated: "2026-10-26T12:05:00-04:00"
+source_updated: "2026-10-28T15:48:01-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-28"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
@@ -30,7 +34,6 @@ ai_assist:
     date: "2026-10-04"
     agent: hermes-agent
 ---
-
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 
 > **La competencia en IA del profesorado** — los conocimientos, las habilidades y las disposiciones que el profesorado necesita para integrar la IA en la enseñanza y el aprendizaje de forma eficaz, ética y equitativa. Va más allá del uso técnico de herramientas e incluye la integración [[pedagogy|pedagógica]], la [[assessment|alfabetización evaluativa]], el juicio ético y la confianza para [[ai-literacy|usar bien la IA]]. La competencia en IA del profesorado es la contraparte docente de la [[ai-literacy|alfabetización en IA]] y se desarrolla mediante el [[educational-development|desarrollo profesional]]. Es central para cómo se transforma [[teacher-role|el rol docente]] en las aulas aumentadas por IA.
@@ -61,6 +64,7 @@ La investigación de la base de conocimiento converge en varias dimensiones inte
 - **Alfabetización evaluativa:** evaluar el contenido generado por IA y las producciones del estudiantado con IA, y comprender cómo cambia la [[assessment-validity|validez]] cuando el estudiantado usa IA. Esto conecta con la [[automated-assessment|evaluación automatizada]], la [[ai-detection|detección de IA]] y la agenda más amplia de rediseño de la [[assessment|evaluación]]. En el caso de los sistemas de recomendación, se extiende a juzgar si las explicaciones de una IA son genuinamente comprensibles y pedagógicamente significativas: [[xai-teachers-trust-edtech-recommendations-2026|Feldman-Maggor et al. (2025)]] encontraron que el profesorado confiaba más en las recomendaciones de agrupamiento de la IA cuando las explicaciones se formulaban en el lenguaje de la disciplina (curricular) que cuando exponían características crudas del modelo, una habilidad para exigir y valorar la [[explainable-ai|calidad de las explicaciones]] en lugar de aceptar resultados opacos.
 - **La selección de modelo y el diseño de prompts como habilidades demostrables:** la [[ai-literacy|alfabetización en IA]] instrumental incluye saber qué modelo usar y cómo formular la tarea. [[teacher-ai-literacy-prompt-feedback-quality-2026|Jacobsen et al. (2026)]] hicieron que ChatGPT-4, Claude 3 y Gemini Advanced criticaran los objetivos de planificación de clases de 153 docentes en formación bajo cuatro prompts variados sistemáticamente (N = 240 retroalimentaciones en el estudio 1 y 345 en el estudio 2), con la [[feedback|retroalimentación]] valorada en nueve categorías de calidad. La elección de modelo por sí sola explicó el 26,9% de la varianza en la calidad valorada (18,4% en el estudio 2) y el diseño del prompt añadió un 15,9% adicional significativo (5,7%); la única característica decisiva del prompt fue el lenguaje técnico específico de la disciplina, cuya eliminación redujo significativamente la calidad (β = −0,412), mientras que añadir ejemplos y suprimir la instrucción de cadena de pensamiento no supuso ninguna diferencia significativa en el estudio 1. Su lectura —que la terminología de la materia tanto desbloquea contenido relevante de los datos de entrenamiento como enmarca la petición de forma profesional, como hace el role prompting— junto con una regla práctica de usar el modelo de frontera actual más capaz, convierte la elección de modelo en una decisión didáctica y no técnica.
 - **Uso ético y crítico:** reconocer el [[bias-mitigation|sesgo]] en los resultados de la IA, proteger los datos del estudiantado ([[privacy|privacidad]]) y garantizar resultados equitativos ([[equity-in-ai-education|equidad en la educación con IA]]). [[llm-cultural-relevance-k12|El uso culturalmente relevante de la IA]] examina cómo el profesorado puede usar los LLM para diversificar los materiales en lugar de reforzar las normas dominantes.
+- **La representación visual es una dimensión medible propia.** [[chen-ai-visualization-teaching-competency-scale-2026|Chen et al. (2026)]] validaron una escala de cinco dimensiones para generar, juzgar y actuar sobre representaciones visuales con 566 docentes de cinco provincias del oeste de China, con un alfa de las subescalas de 0,911 a 0,934; mide la capacidad declarada, sin test-retest y sin observación de la práctica.
 - **La responsabilidad ética es distribuida, no individual.** En siete casos nacionales se sitúa al profesorado como guardián moral del uso de la IA mientras carece de apoyo institucional y epistémico, de modo que la alfabetización ética en IA tiene que extenderse a la agencia crítica y política y no solo a la habilidad técnica ([[raffaghelli-situated-ai-ethics-2026|Raffaghelli et al. (2026)]]).
 - **Confianza y actitudes:** la [[self-efficacy|confianza]] del profesorado condiciona la adopción. [[teacher-ai-adoption-confidence|La investigación sobre adopción]] encuentra que la confianza, el apoyo y la utilidad percibida determinan si el profesorado usa realmente la IA, y que [[ai-pedagogical-orientation|las orientaciones del personal docente]] condicionan la adopción en la investigación y en la enseñanza.
 
@@ -171,6 +175,7 @@ El panorama de instrumentos se ha revisado desde entonces. [[assessing-teachers-
 
 ## Artículos conectados
 
+- [[chen-ai-visualization-teaching-competency-scale-2026] — Desarrollo y validación de la escala de competencia docente en enseñanza de visualización empoderada por IA
 - [[microlearning-ai-modules-vocational-teacher-education-2026]] — Diseño de módulos de microaprendizaje sobre IA para profesorado universitario en formación profesional docente: un estudio de investigación basada en el diseño
 - [[ailithub-ai-literacy-case-infrastructure-2026]] — El profesorado etiquetó sus propios casos de aula con IA y alcanzó con facilidad las competencias prácticas, pero rara vez las sociales y éticas (Wang et al. 2026)
 - [[typology-generative-ai-tools-education-2026]] — La selección de herramientas como ejercicio de agencia del personal docente

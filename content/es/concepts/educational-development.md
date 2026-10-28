@@ -2,7 +2,7 @@
 connected_resources: [education-agent-skills, fpds-apps-and-resources]
 title: Desarrollo educativo
 created: "2026-09-28T18:15:33-04:00"
-updated: "2026-10-26T22:02:40-04:00"
+updated: "2026-10-28T15:53:28-04:00"
 connected_faqs: [ai-save-instructor-time, faculty-ai-competencies, faculty-development-ai]
 type: concept
 foundations: [ai-literacy, curriculum-design, learning-design, teacher-role, teacher-ai-competency]
@@ -11,10 +11,14 @@ level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: concepts/educational-development
-source_updated: "2026-10-26T04:35:00-04:00"
+source_updated: "2026-10-28T15:48:01-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-28"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
@@ -24,7 +28,6 @@ ai_assist:
     date: "2026-10-09"
     agent: hermes-agent
 ---
-
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 
 > **El desarrollo educativo** (conocido también como *desarrollo del profesorado*) — los procesos, los programas y los apoyos institucionales que ayudan al personal docente a desarrollar las capacidades, la confianza y la [[learner-identity|identidad profesional]] necesarias para enseñar eficazmente con IA. El desarrollo educativo abarca la formación individual, el rediseño del [[curriculum-design|currículo]], el cambio de [[educational-policy-ai|política institucional]] y el trabajo cultural de dar sentido a lo que la IA generativa significa para la profesión académica.
@@ -88,6 +91,7 @@ Confianza y alfabetización no son objetivos intercambiables: en un SEM de 502 e
 **Trate la preparación como un problema de alineación sociotécnica.** El [[sangwa-epiq-ai-faculty-readiness-2026|marco EPIQ-AI]] muestra que la preparación del profesorado abarca los dominios epistémico, pedagógico, institucional y de calidad y cumplimiento. Los programas que solo forman a la persona pasan por alto las palancas institucionales (política, carga de trabajo, incentivos, estándares de calidad) que habilitan o bloquean el cambio: alinéelas junto con la formación.([[sangwa-epiq-ai-faculty-readiness-2026]])
 
 **No equipare la inversión en infraestructura con la transformación.** A lo largo de 125 estudios, la inversión institucional en infraestructura de IA generativa y desarrollo educativo se correlacionó solo débilmente con el cambio pedagógico real (r = 0,12), mientras que 60–70% del profesorado se sentía sin preparación para integrar la IA generativa, lo que convierte el desarrollo, y no la adquisición, en la restricción vinculante.([[genai-higher-education-systematic-review-2026|Rathnayake (2026)]])
+**Nombre el modo de fallo, no solo el tamaño del efecto.** [[fajardo-ramos-teacher-education-ai-agenda-2026|Fajardo-Ramos, Chiappe y Martínez-Pérez (2026)]] lo llaman innovación simulada: la presencia de herramientas señala progreso, los formatos de enseñanza y evaluación siguen intactos, las tasas de adopción y los cuadros de mando sustituyen al aprendizaje, y el ciclo de lanzamiento tecnológico marca la dirección. Su diagnóstico pide a un programa de desarrollo justificar cada herramienta ante un problema de aprendizaje concreto antes de adoptarla.
 
 **Avance hacia el rediseño curricular, no hacia la adopción de herramientas.** El objetivo es que el profesorado rediseñe cursos y evaluaciones, no solo que añada herramientas de IA. Ancle el desarrollo profesional en el trabajo de rediseño a nivel de curso y en la reforma de la evaluación, y dé al profesorado marcos estructurados para hacerlo (p. ej., [[ai-assessment-scale-reform|escalas de evaluación]], [[institutional-change-framework-ai|marcos de cambio institucional]]).([[institutional-change-framework-ai]])([[ai-assessment-scale-reform]])
 
@@ -143,6 +147,7 @@ Confianza y alfabetización no son objetivos intercambiables: en un SEM de 502 e
 - [[stakeholders]] — paraguas: las personas y los públicos de la educación con IA (quienes aprenden, el profesorado, quienes diseñan, la administración y quienes elaboran políticas)
 
 ## Artículos conectados
+- [[fajardo-ramos-teacher-education-ai-agenda-2026] — ¿Puede la educación marcar la agenda de la IA? Innovación simulada y orientación pedagógica en la formación docente
 - [[mcinnes-salvaging-constructive-alignment-genai-2026]] — Análisis crítico del discurso de las orientaciones sobre alineación con IA generativa: quienes desarrollan, reconfigurados como formadores en tecnología
 - [[crompton-faculty-technology-integration-standards-2026]] — Estándares del profesorado para la integración tecnológica (DBR)
 - [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026]] — Dimensiones éticas de la IA: visiones del profesorado y del estudiantado

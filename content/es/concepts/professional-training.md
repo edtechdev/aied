@@ -2,7 +2,7 @@
 connected_resources: [master-instructional-design]
 title: Aprendizaje en el lugar de trabajo
 created: "2026-09-28T20:10:26-04:00"
-updated: "2026-10-26T22:02:40-04:00"
+updated: "2026-10-28T15:53:28-04:00"
 type: concept
 foundations: [ai-literacy, educational-development]
 technology: [generative-ai, llm, simulation]
@@ -11,16 +11,19 @@ audience: [instructors, administrators, learners]
 level: [adult learning, higher ed]
 confidence: high
 translation_of: concepts/professional-training
-source_updated: "2026-10-26T01:00:00-04:00"
+source_updated: "2026-10-28T15:48:01-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-28"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
     agent: hermes-agent
 ---
-
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 
 > **Aprendizaje en el lugar de trabajo** — el uso de la IA para el desarrollo de la fuerza laboral, el aprendizaje corporativo y la adquisición de habilidades profesionales. La formación profesional extiende la [[ai-education|IA en la educación]] más allá de la escolarización formal hacia contextos de trabajo y de [[lifelong-learning|aprendizaje a lo largo de la vida]].
@@ -40,6 +43,7 @@ ai_assist:
 - **Simulación y práctica:** [[adaptive-virtual-patient-psychotherapy-training|la formación con pacientes virtuales]] y los [[astra-atco-training-simulator|simuladores de formación para controladores de tráfico aéreo]] crean entornos de práctica profesional impulsados por IA. En la [[teacher-education|formación docente]], la simulación de juego de roles con IA extiende esto a la enseñanza basada en la práctica: [[zhuang-zhang-chatgpt-math-teacher-education-2026|Student GPT]] simulaba a un estudiante de matemáticas de secundaria con [[misconceptions|ideas erróneas]] para que el futuro profesorado pudiera practicar el diagnóstico y la corrección de los errores del estudiantado, en línea con las «aproximaciones a la práctica» del aprendizaje [[teacher-role|docente]] basado en la práctica como complemento asequible de plataformas costosas como TeachLivE.
 
 [[ai-coaching-rl-skill-development|Wang et al. (2026)]] añaden una lección sobre la política de entrenamiento: desvanecer la ayuda en función de la competencia estimada del estudiantado recortó el tiempo por vuelta en el simulador un 27,9% (p = 0,005) y los fallos en 3,52 por vuelta, mientras que el desvanecimiento basado en reglas con un calendario fijo no produjo ningún cambio fiable en el tiempo por vuelta.
+- **Un ensayo voluntario solo de texto no movió nada.** Se ofreció un paciente GPT-4o a 201 estudiantes de medicina de primer año antes de su primera clase con pacientes estandarizados; 49 lo usaron, y el nerviosismo, la preparación, la autoeficacia y la competencia autopercibida no difirieron de los 84 controles. 6 de 19 no usuarios que dieron una razón citaron problemas técnicos o de acceso ([[jongkind-genai-patient-medical-communication-2026|Jongkind et al. (2026)]]).
 - **Integración con el aprendizaje a lo largo de la vida:** la [[research-methods-aied|investigación]] sobre el [[lifelong-learning|aprendizaje a lo largo de la vida]] y el [[adult-learning|aprendizaje de personas adultas]] conecta la formación profesional con la educación continua.
 - **Sector público:** [[ai-adoption-training-public-sector|la adopción de la IA en el sector público]] examina la formación en contextos gubernamentales.
 - **Marcos de preparación para la fuerza laboral:** [[workforce-readiness-smart-manufacturing-wrl-2026|Smith et al.]] proponen un marco de Niveles de Preparación para la Fuerza Laboral (WRL) que adapta la escala de Niveles de Preparación Tecnológica a nueve etapas de competencia puntuadas en cuatro pilares (alfabetización digital y [[ai-literacy|en IA]], fluidez ciberfísica, [[human-ai-collaboration|colaboración persona-máquina]] y toma de decisiones basada en datos), bajo una regla de «ningún pilar débil». La evidencia de proyectos finales de fabricación inteligente muestra que las etapas de preparación más altas están condicionadas por la experiencia integrada en la industria y no por los cursos, lo que apunta al aprendizaje integrado en el trabajo como algo esencial para la formación profesional en IA.
@@ -92,6 +96,7 @@ La formación profesional se distingue de la educación académica por su foco e
 
 ## Artículos conectados
 
+- [[jongkind-genai-patient-medical-communication-2026] — Uso de un paciente de IA generativa para la formación en comunicación médica de estudiantes de medicina: un estudio cuasiexperimental
 - [[ai-engineering-computing-workforce-grey-literature-2026]] — La IA y el futuro de la fuerza laboral de ingeniería e informática
 - [[workforce-readiness-smart-manufacturing-wrl-2026]] — Marco de Niveles de Preparación para la Fuerza Laboral para la fabricación inteligente en la era de la IA
 - [[crewscaler-ai-upskilling-framework]]

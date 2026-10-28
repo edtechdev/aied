@@ -1,22 +1,25 @@
 ---
 title: Investigación cualitativa
 created: "2026-09-28T21:14:31-04:00"
-updated: "2026-10-26T22:02:40-04:00"
+updated: "2026-10-28T15:53:28-04:00"
 type: concept
 research_method: [interviews, case study]
 confidence: high
 methods: [qualitative-research, research-methods-aied]
 translation_of: concepts/qualitative-research
-source_updated: "2026-10-26T00:30:00-04:00"
+source_updated: "2026-10-28T15:48:01-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-28"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
     agent: hermes-agent
 ---
-
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 
 > **La investigación cualitativa** — la familia de métodos empíricos que estudian cómo las personas *experimentan, interpretan y dotan de significado* los fenómenos, típicamente a través de palabras, observaciones y artefactos en lugar de números. En la [[ai-education|IA en la educación]], los métodos cualitativos revelan *cómo* experimentan de verdad el estudiantado y el profesorado las [[generative-ai|herramientas de IA]]: los significados, tensiones, daños y mecanismos que las medidas estandarizadas pasan por alto. Como la IA en la educación avanza muy rápido y sus efectos suelen estar mediados por el contexto, la percepción y constructos disputados como la [[trust|confianza]] y la [[agency|agencia]], el trabajo cualitativo es esencial junto a los diseños [[quantitative-research|cuantitativos]] (véase [[research-methods-aied|métodos de investigación en IA y educación]]).
@@ -57,6 +60,7 @@ Los estudios de observación miran la conducta en contexto; la etnografía extie
 
 ### Estudios de caso
 Un estudio de caso es una investigación en profundidad de un caso delimitado (un curso, una institución, una persona que aprende) con múltiples fuentes de datos. [[drummond-genai-business-schools-framework-2026|Un estudio de caso de una escuela de negocios]] genera un marco de enseñanza y aprendizaje informado por el estudiantado para la IA generativa; [[zha-ai-literacy-biology-case-study|un estudio de caso de biología]] documenta la integración de la alfabetización en IA. Los estudios de caso cambian amplitud por profundidad y son sólidos para generar teoría y obtener ideas transferibles más que para generalizar. [[khlaif-assistive-genai-visually-impaired-2026|Khlaif et al. (2026)]] ofrecen un estudio de caso cualitativo con 21 estudiantes universitarios con discapacidad visual de tres universidades palestinas, usando análisis temático de entrevistas semiestructuradas para mostrar cómo la IA generativa funciona como [[assistive-technology|tecnología de asistencia]] para el [[inclusive-learning|aprendizaje inclusivo]]: un ejemplo de investigación de estudio de caso que saca a la luz mecanismos (adaptación personalizada, aumento del profesorado, paridad educativa) que las medidas cuantitativas pasan por alto.
+La variación elegida no es la variación encontrada: tres estudiantes de inglés como lengua extranjera, elegidos entre 241 encuestados por su competencia, género e historial con IA generativa distintos y explícitamente por la riqueza de los datos, siguieron trayectorias emocionales muy divergentes en tres tareas, aunque los casos elegidos por su diferencia máxima no permiten estimar la frecuencia de cada trayectoria ([[wu-efl-emotional-dynamics-genai-writing-2026|Wu, Yang y Lin (2026)]]).
 
 [[ai-emotional-alerts-teachers-mathematics-classroom-2026|Swidan (2026)]] triangula vídeo, los propios registros del sistema de alertas y entrevistas de recuerdo estimulado de un docente y ocho estudiantes, y muestra que una señal afectiva adquirió significado solo a través de la respuesta del docente; la codificación de episodios en dos etapas por una sola autora, sin codificación independiente ni detección afectiva validada, marca el límite de lo que puede justificar un análisis de caso con un único codificador.
 
@@ -111,6 +115,7 @@ Los métodos cualitativos y los cuantitativos son complementarios, no rivales: v
 - [[self-report-measures]]
 
 ## Artículos conectados
+- [[wu-efl-emotional-dynamics-genai-writing-2026] — Compromiso emocional de estudiantes de inglés como lengua extranjera en la escritura asistida por IA generativa: un estudio de casos múltiples longitudinal
 - [[chain-behind-claim-warrantability-2026]] — estándar de justificabilidad para el análisis cualitativo asistido por IA
 - [[liu-tool-tutor-crutch-programming-2026]] — Herramienta, tutor o muleta: una teoría fundamentada de la programación asistida por IA
 - [[trio-ethnography-llm-programming-education]] — Una trio-etnografía de la evolución de la interpretación en la programación apoyada en LLM

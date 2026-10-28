@@ -1,7 +1,7 @@
 ---
 title: "Design Education"
 created: "2026-09-17T14:04:29-04:00"
-updated: "2026-10-26T07:30:00-04:00"
+updated: "2026-10-28T15:48:01-04:00"
 type: concept
 foundations: [ai-literacy, design-thinking]
 pedagogy: [creativity, professional-training]
@@ -42,6 +42,7 @@ It is also distinct from [[design-thinking]], a human-centered problem-solving m
 - **Adoption is frequent, uneven across the process, and suspicious.** [[genai-usage-design-students-survey|Broadbent et al. (2026)]] surveyed 280 Politecnico di Milano design students and read 100 Masters AI-use journals: 71% used GenAI daily or weekly, 65% distrusted it, 85% modified its output. Use clustered in research and writing — editing writing 77.5%, finding information 74.5%, brainstorming 68.0% — with whole-assignment use rare (18.6%). Ownership largely survived: 31% reported lost ownership or creative agency, and only prototype generation was significantly associated with it. Planning and interpreting primary research stayed with students, which the authors read as evidence that students may not count research as part of the creative process.
 
 - **The net effect is divergence rather than uplift.** [[ai-mediated-cognitive-divergence-2026|Crolla, Xia & Jiang (2026)]] drew on 24 interviews and a 32-instructor survey in a built-environment faculty to describe *cognitive divergence*: AI amplifies prior differences, letting stronger students extend reasoning while weaker ones delegate formative work and produce coherent outputs without understanding — a "false sense of capability" that collapses under questioning. Loss of process visibility, in a field that relied on visible process as its primary evidence of learning, and erosion of the frictional stages that act as [[desirable-difficulties]] compound it. Faculty positivity tracked pedagogical relevance (β = 0.534, p = .004), not seniority, and the faculty's mitigations do not scale past studio-sized cohorts — which argues for institutionalized process-evidence requirements. Limits: single institution, n = 32, faculty perception.
+- **Disruption awareness is not simply demoralizing.** Among 568 Chinese design students, awareness that AI may replace parts of design work was positively associated with self-rated innovation competence (β = 0.375), through a promotion-focus path of 0.0929 and a prevention-focus path of -0.0884 that nearly canceled each other ([[wang-ai-disruption-design-innovation-competence-2026|Wang et al. (2026)]]). Every measure came from a single self-report wave.
 
 - **Disciplines differ in which behaviours pay off.** [[same-ai-different-pathways|Shen (2026)]] compared 221 design students with 222 business students and found [[ai-literacy]] predicted both prompting proficiency and verification behavior (p < .001). Verification directly predicted task quality in the design cohort, calibration accuracy in business — open-ended ideation against audit-like analytic standards — and verification functioned as a metacognitive safeguard against [[cognitive-offloading]].
 
@@ -102,3 +103,5 @@ Assessment problems here are inseparable from professional ones. [[ai-interior-d
 - [[critsly-design-education-ai-critique-2026]] — Critsly/StudioCrit: artifact-aware AI critique workspace for studio feedback; simulation-based readiness study, not learning gains
 - [[caeai-genai-architectural-design-creative-self-efficacy-2026]] — An architectural-design experiment in which a DALL-E 3 workflow lowered general creative self-efficacy
 - [[human-ai-collaboration-design-education-rubric-2026]] — A process rubric can make AI verification the graded object
+
+- [[wang-ai-disruption-design-innovation-competence-2026]] — AI technological disruption awareness, design thinking mindset, and design innovation competence among design students

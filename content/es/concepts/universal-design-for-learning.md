@@ -1,7 +1,7 @@
 ---
 title: Diseño universal para el aprendizaje
 created: "2026-09-28T21:16:52-04:00"
-updated: "2026-10-26T22:02:40-04:00"
+updated: "2026-10-28T15:53:28-04:00"
 type: concept
 foundations: [learning-design]
 ethics: [equity-in-ai-education, inclusive-learning]
@@ -10,16 +10,19 @@ audience: [learners]
 level: [special education]
 confidence: high
 translation_of: concepts/universal-design-for-learning
-source_updated: "2026-10-25T22:50:00-04:00"
+source_updated: "2026-10-28T15:48:01-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-28"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
     agent: hermes-agent
 ---
-
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 
 > **El diseño universal para el aprendizaje (DUA)** — un marco educativo que diseña la enseñanza para que sea accesible y eficaz para la gama más amplia de estudiantes, incorporando de forma proactiva medios flexibles de [[student-engagement|implicación]], representación y acción/expresión, en lugar de adaptar a posteriori ajustes para personas concretas.
@@ -48,6 +51,7 @@ El DUA se apoya en la idea de que la variabilidad del estudiantado es la norma y
 La [[generative-ai|IA generativa]] crea nuevas oportunidades y nuevos riesgos para el DUA. La IA puede personalizar la representación y ofrecer caminos alternativos, apoyando el [[personalized-learning|aprendizaje personalizado]] y la accesibilidad. Pero también puede codificar sesgos, dar por supuestos estilos de comunicación dominantes y — si reduce la agencia de quien aprende — socavar el principio de implicación. La [[research-methods-aied|investigación]] sobre el [[ai-misuse-learning-harm|mal uso de la IA y el daño al aprendizaje]] y sobre la equidad muestra que las herramientas de IA deben diseñarse con principios inclusivos o reproducen las brechas de [[equity-in-ai-education|equidad en la educación con IA]]. El DUA informa por tanto tanto de cómo se despliega la IA como de cómo se diseñan la alfabetización en IA y la evaluación para que sean justas ante la variabilidad del estudiantado.
 
 La equidad por diseño es una forma concreta de operacionalizar esta postura. Wenzel, Geiger y Liening (2026) fundamentan su marco CAIS-GBL para [[conversational-ai|agentes conversacionales]] de IA en juegos de [[simulation|simulación]] empresarial en un enfoque explícito de **equidad por diseño** alineado con el diseño universal para el aprendizaje, del que derivan metarrequisitos que abarcan la implicación cognitiva, [[motivation|motivacional]], [[affective-computing|afectiva]] y [[sociocultural-learning|sociocultural]]. Sus principios y características de diseño pretenden atender las diferencias individuales de fortalezas, dificultades e intereses: una aplicación concreta de los principios del DUA al diseño del [[game-based-learning|aprendizaje basado en juegos]] adaptativo y apoyado por IA.
+Una herramienta puede servir a los tres principios del DUA y aun así estrechar lo que decide el profesorado. [[alenezi-ai-universal-design-learning-kuwait-2026|Alenezi (2026)]] sostiene que, por esa razón, vincular una herramienta a un principio del DUA es necesario pero no suficiente, y propone entre sus comprobaciones una auditoría anual de desprofesionalización y un registro de dependencia de proveedores.
 
 La IA aparece también en esta literatura como obstáculo para el DUA y no como instrumento suyo. En el estudio de métodos mixtos de [[faculty-accessible-course-design-ai-2026|Sidhu, Atif y Newland (2026)]] con 69 profesores y profesoras de una universidad de Ontario, uno de los cuatro temas clave es que la [[generative-ai|IA generativa]] está revirtiendo los avances en el diseño accesible de cursos; la cita del título, «la IA está reduciendo las opciones que yo usaba», proviene de sus entrevistas, porque las tareas para llevar a casa y basadas en borradores que habían hecho trabajo de inclusión son precisamente las que ahora una IA puede completar de principio a fin. Sus hallazgos a nivel de profesorado muestran por qué ese retroceso recae sobre una base ya de por sí frágil: el 90% de las personas encuestadas creía crear un entorno de aprendizaje accesible y el 87% decía considerar activamente la accesibilidad, pero menos de la mitad (46%) pensaba que la universidad ofrecía recursos suficientes para ello, y alrededor de una quinta parte nunca había oído hablar de técnicas tan básicas como los PDF legibles por OCR o los enlaces que no dependen del color. La demanda supera la oferta — las matrículas en las universidades de Ontario crecieron un 17% de 2013 a 2022, mientras que las inscripciones en servicios de accesibilidad aumentaron un 126% —, así que el caso que plantea el estudio es que el apoyo al DUA debe dotarse de recursos para compensar las opciones de evaluación que la IA eliminó.
 
@@ -112,6 +116,7 @@ El DUA convierte «arreglar al estudiante» en «arreglar el diseño». Para el 
 - [[k-12]]
 
 ## Artículos conectados
+- [[alenezi-ai-universal-design-learning-kuwait-2026] — Inteligencia artificial y diseño universal para el aprendizaje en las instituciones de educación superior de Kuwait: hacia un marco habilitado por IA para la educación inclusiva
 - [[seung-basham-cognitive-offloading-swld-2026]] — Desplazamiento cognitivo con IA generativa en estudiantado con dificultades de aprendizaje
 - [[authentic-products-authenticated-processes-2026]] — De productos auténticos a procesos autenticados
 - [[tactile-statistical-graphs-accessibility]] — Gráficos estadísticos táctiles para la accesibilidad

@@ -1,7 +1,7 @@
 ---
 title: AI Use and Disclosure Statements
 created: "2026-08-27T11:17:52-04:00"
-updated: "2026-10-26T10:00:00-04:00"
+updated: "2026-10-28T15:48:01-04:00"
 type: concept
 foundations: [academic-integrity]
 technology: [generative-ai]
@@ -59,6 +59,7 @@ The modeling work of [[mohamed-temimi-assessment-imperfect-information-disclosur
 Surveying the GenAI guidance of the 50 US universities ranked most innovative, [[qian-governing-genai-higher-ed-policy-2026|Qian (2026)]] locates disclosure at the boundary between assistance and misrepresentation: where AI is permitted, institutions instruct students to acknowledge, cite or otherwise document AI assistance rather than present outputs as entirely their own, with libraries — not integrity offices — holding authority over citation and provenance standards. MIT Libraries' framing that AI is not an author, leaving authors responsible for documenting how tools contributed, exemplifies the pattern, and Qian reads disclosure simultaneously as an integrity norm, a design principle that reduces ambiguity before submission, and one of four integrity pillars alongside accountability, [[equity-in-ai-education|equity]] and [[privacy]]. This is the same non-forensic use the section describes, and it is why Qian recommends institutionalizing libraries as the citation authority rather than expanding detection.
 
 - **Disclosure carries a trust penalty, and legitimacy is the argued mechanism.** In thirteen experiments, mostly with United States online panelists and pooled at 4,093 observations (θ = 0.81, z = 10.52, 95% CI [0.66, 0.96]), an actor who disclosed AI use was trusted less than one who stayed silent ([[obhdp-ai-disclosure-erodes-trust-2025|Schilke and Reimann (2025)]]). The effect survived six disclosure framings, an evaluator who already knew AI had been used, and both mandatory and voluntary regimes. It is the experimental counterpart to the survey finding above that always-disclosing students faced over three times the odds of an accusation: transparency itself can cost the discloser. The paper's one student-facing result is that students trusted a professor less when she disclosed AI grading.
+- **A content label changes the description, not the verdict.** With 617 adults randomly assigned to see or not see an "AI-Generated Content/Synthetic Video" label, the label lowered perceived authenticity (means of 4.92 without and 4.21 with) but left trust (B = -0.130, p = 0.216), risk, adoption and sharing unchanged ([[fu-ai-label-authenticity-trust-generated-videos-2026|Fu, Zhang and Zhang (2026)]]).
 
 ## Designing effective disclosure
 
@@ -113,3 +114,5 @@ AI use and disclosure sits at the intersection of [[academic-integrity]] (its pa
 - [[ai-written-admissions-essays-penalized-2026]] — AI-written admissions essays are widespread but penalized
 - [[obhdp-ai-disclosure-erodes-trust-2025]] — Thirteen experiments: disclosing AI use lowers the discloser's trustworthiness, via legitimacy
 - [[authorial-warrant-ai-supported-scholarship-2026]] — When Disclosure Rules Are Not Enough: Authorial Warrant and Judgment in AI-Supported Scholarship (Mirończuk 2026)
+
+- [[fu-ai-label-authenticity-trust-generated-videos-2026]] — AI disclosure labels, perceived authenticity, and trust in AI-generated instructional videos

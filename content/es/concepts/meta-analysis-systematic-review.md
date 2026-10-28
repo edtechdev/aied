@@ -1,7 +1,7 @@
 ---
 title: Metaanálisis y revisión sistemática
 created: "2026-09-28T18:22:28-04:00"
-updated: "2026-10-26T22:02:40-04:00"
+updated: "2026-10-28T15:53:28-04:00"
 type: concept
 foundations: [ai-education]
 connected_faqs: [reporting-interpreting-aied-research]
@@ -10,16 +10,19 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation, meta-analysis-systematic-review, research-methods-aied]
 translation_of: concepts/meta-analysis-systematic-review
-source_updated: "2026-10-26T12:30:00-04:00"
+source_updated: "2026-10-28T15:48:01-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-28"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
     agent: hermes-agent
 ---
-
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 
 > **El metaanálisis y la revisión sistemática** — la familia de métodos de síntesis de evidencia que usa la investigación para agregar y valorar un conjunto de estudios, en lugar de realizar un único experimento nuevo. Una **revisión sistemática** aplica un protocolo transparente y reproducible para buscar, cribar, valorar y sintetizar la literatura sobre una pregunta acotada; un **metaanálisis** va más allá al agrupar estadísticamente los tamaños del efecto de los estudios elegibles para producir una estimación resumida ponderada y poner a prueba moderadores. En la [[ai-education|IA en la educación]], estos métodos son centrales para establecer la base de evidencia sobre si las herramientas de IA funcionan, en qué condiciones y para quién, y para exponer lagunas, sesgos y la calidad metodológica del campo.([[genai-meta-analysis-programming-learning]])([[zerkouk-comprehensive-review-its-2025]])
@@ -56,6 +59,7 @@ Las revisiones sistemáticas y los metaanálisis en la IA en la educación cumpl
 
 - **Establecer la base de evidencia** — determinar si las herramientas de IA (tutoría, retroalimentación, evaluación, [[conversational-ai|chatbots]]) producen [[learning-gains|ganancias de aprendizaje]] y de qué magnitud son.
 - **Mapear el campo y sus lagunas** — una revisión de alcance documenta qué se ha estudiado, dónde se concentra la evidencia y dónde falta (p. ej., entornos laborales, trabajos no en inglés, casos de fracaso).([[ai-vocational-education-training-review]])
+**Cuente registros, no estudios, cuando una revisión informa de frecuencias.** En una revisión de alcance que llegó a 31 estudios desde 21.720 registros, cinco estudios aportaron 62 de 192 registros de prácticas, así que los porcentajes describen el material extraído y no observaciones independientes ni la prevalencia ([[tie-responsible-genai-use-academic-writing-review-2026|Tie, Gil Ortega y Zhao (2026)]]).
 - **Identificar moderadores y condiciones** — el metaanálisis pone a prueba si los efectos difieren según la [[learners|población de estudiantes]], el dominio, el tipo de sistema de IA o el diseño del estudio, y revela para quién y en qué condiciones funciona una herramienta. Pero un moderador es tan fiable como los estudios que lo sustentan: en [[genai-writing-performance-meta-analysis-2026|un metaanálisis de 2026 sobre la escritura en L2 apoyada por IA generativa]], el único moderador que sobrevivió al control metodológico fue la clasificación del riesgo de sesgo de los estudios, mientras que una diferencia de modelo instruccional que había parecido significativa en el análisis de subgrupos se desmoronó al introducir la calidad del estudio y el tamaño de la muestra. La calidad metodológica, y no la pedagogía, sostenía el efecto, así que los aparentes moderadores pedagógicos merecen el mismo escrutinio que las estimaciones agrupadas. Los moderadores nulos transmiten la misma lección a la inversa. En [[chen-digital-ai-foreign-language-skills-meta-analysis-2026|el metaanálisis de Chen y Wei sobre tecnologías digitales y de IA para las destrezas en lenguas extranjeras]] (40 estudios, 3.367 participantes, g agrupada = 0,962), los moderadores que sobrevivieron fueron el diseño del estudio (cuasiexperimentos g = 1,019 frente a experimentos verdaderos g = 0,474), la duración de la intervención y el número de herramientas, mientras que el tipo de destreza lingüística, el tipo de tecnología, el nivel educativo, el entorno y el tamaño de la muestra no mostraron diferencias significativas entre grupos, lo que llevó a los autores a concluir que la eficacia no puede atribuirse a una etiqueta tecnológica ni a una categoría de destreza. [[yu-k12-ai-education-ai-literacy-meta-analysis-2026|El metaanálisis de Yu y sus colegas sobre la educación en IA en K-12]] (16 estudios, 57 tamaños del efecto, g = 0,892) encontró nulos sus tres moderadores probados (fuente de publicación, año de publicación, nivel escolar) y leyó la heterogeneidad residual (I2 = 94,68%) como evidencia de que el campo no ha acordado en absoluto cómo medir la [[ai-literacy|alfabetización en IA]]. Cuando un moderador resulta nulo y la heterogeneidad sigue siendo alta, la conclusión de la síntesis suele referirse al constructo de resultado o a los diseños de los estudios primarios tanto como a la intervención.
 - **Exponer la calidad metodológica** — las revisiones encuentran de forma rutinaria que el campo se apoya en diseños con potencia insuficiente, preexperimentales o cuasiexperimentales y en postests inmediatos, lo que matiza las conclusiones.([[ai-vocational-education-training-review]])([[zerkouk-comprehensive-review-its-2025]]) El reporte escaso de lo que realmente se hizo forma parte de ese panorama y acota lo que cualquier síntesis posterior puede afirmar: [[yalcin-genai-programming-education-systematic-review-2026|la revisión sistemática de Yalcin y sus colegas sobre la IA generativa en la educación en programación]] no pudo identificar un enfoque instruccional en 26 de sus 46 estudios, y 32 de los 46 aparecían en actas de congresos, de modo que la revisión pudo codificar la pedagogía de menos de la mitad de su corpus y termina con evidencia de impacto mixta (algunos estudios mostraron mejoras en el rendimiento en exámenes y en la programación, mientras que otros no encontraron diferencias significativas frente a la retroalimentación del profesorado). Una síntesis hereda los hábitos de reporte de su campo.
 
@@ -138,6 +142,7 @@ Dentro del panorama metodológico de la base de conocimiento, el metaanálisis y
 3. **Interprete con cautela los efectos agrupados.** Atienda a la heterogeneidad, el sesgo de publicación y la calidad de los estudios incluidos antes de extraer conclusiones firmes.
 4. **Use las revisiones para fijar la agenda.** Las lagunas documentadas por las revisiones (casos de fracaso, entornos laborales, trabajo no en inglés y no indexado, resultados a largo plazo) deberían guiar dónde hace falta nueva investigación primaria.([[ai-vocational-education-training-review]])
 5. **Trate los moderadores nulos como hallazgos.** Cuando los moderadores resultan nulos y la heterogeneidad sigue siendo alta, eso es evidencia sobre el estado del campo (incoherencia de constructo, reporte escaso del diseño) tanto como sobre la intervención, y pertenece a la narrativa de la síntesis en lugar de descartarse.([[yu-k12-ai-education-ai-literacy-meta-analysis-2026]])([[chen-digital-ai-foreign-language-skills-meta-analysis-2026]])
+6. **Un valor p de moderador sin corregir no es un hallazgo.** Khodjaev et al. (2026) informan de tres de siete moderadores con p < 0,05 sin corregir, ninguno tras la corrección de Holm, y aun así dan por respaldada su hipótesis sobre el nivel educativo con padj = 0,233 ([[khodjaev-genai-outcomes-meta-analysis-2026|Khodjaev et al. (2026)]]). Informe el valor corregido o dé el moderador por nulo.
 
 ## La IA generativa en el aprendizaje por escenarios en ciencias de la salud
 
@@ -165,6 +170,8 @@ Dentro del panorama metodológico de la base de conocimiento, el metaanálisis y
 - [[simulation]]
 
 ## Artículos conectados
+- [[khodjaev-genai-outcomes-meta-analysis-2026] — Un metaanálisis de los efectos de la inteligencia artificial generativa en resultados de aprendizaje, cognitivos y lingüísticos
+- [[tie-responsible-genai-use-academic-writing-review-2026] — Uso responsable de la IA generativa por parte del estudiantado en la escritura académica: una revisión de alcance de límites, enfoques educativos y lagunas de evidencia
 - [[edurev-100741-tpack-genai-review]] — Revisión sistemática de la IA generativa en el aprendizaje del estudiantado desde una perspectiva TPACK
 - [[genai-meta-analysis-programming-learning]] — Metaanálisis del efecto de la IA generativa sobre la productividad y el aprendizaje en programación
 - [[ai-vocational-education-training-review]] — Primera revisión sistemática de la IA en la educación y la formación profesional

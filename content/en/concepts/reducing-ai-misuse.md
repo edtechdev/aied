@@ -1,7 +1,7 @@
 ---
 title: Reducing AI Misuse
 created: "2026-08-12T19:13:02-04:00"
-updated: "2026-10-25T14:15:00-04:00"
+updated: "2026-10-28T15:48:01-04:00"
 connected_faqs: [reduce-ai-cheating, should-we-use-ai-detectors, designing-ai-into-learning, addressing-common-misconceptions-ai-education, course-ai-policy, reducing-over-reliance]
 type: concept
 foundations: [academic-integrity, ai-literacy]
@@ -30,6 +30,7 @@ The concept rests on the evidence that AI misuse actively harms durable learning
 ### Why structural levers matter most
 
 Interventions can be sorted by **causal evidence × structural reach × scalability × [[sustainability]]**. On this basis, the two *structural* levers rank highest because they work whether or not students choose the right behavior — they constrain the environment rather than depending on internal motivation. The *educative* levers are essential but only effective when students buy in, so they are treated as the second tier despite their conceptual promise. [[coates-governing-academic-integrity-indicators-2025|Coates, Croucher and Calderon (2025)]] push the structural argument up a level, treating governance rather than student behavior as the binding constraint and proposing a 130-item integrity indicator framework so that academic governors can see whether assessment is authentic, whether students are known individually by the teachers who assess them, and whether integrity features in induction and orientation. Their reforms target governance architectures, people, and [[ai-technologies|technologies and resources]], and they propose borrowing [[guardrails|red teaming]] from cyber security to expose assessment vulnerabilities before students find them — a reminder that the structural floor is maintained by institutions that need both the information and the will to maintain it.
+The responsible-use literature itself rarely tests the chain this ranking assumes. Of 122 approach records drawn from 31 studies, 51 were both implemented and evaluated, mostly through self-report, and only four studies defined a boundary, designed an intervention around it and tested whether students' decisions aligned ([[tie-responsible-genai-use-academic-writing-review-2026|Tie, Gil Ortega and Zhao (2026)]]).
 
 ### Tier 1 — Directly proven to reduce learning harm
 
@@ -138,3 +139,5 @@ Educative levers look different again once integrity is treated as a practice to
 - [[humble-prompt-injection-ai-grading-red-team-2026]] — Prompt injection as a misuse vector against AI grading (Humble 2026)
 - [[coates-governing-academic-integrity-indicators-2025]] — Governance as the binding constraint on integrity: a 130-item indicator framework (Coates, Croucher & Calderon 2025)
 
+
+- [[tie-responsible-genai-use-academic-writing-review-2026]] — Responsible student use of generative AI in academic writing: a scoping review of boundaries, educational approaches, and evidence gaps

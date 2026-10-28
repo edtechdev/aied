@@ -1,7 +1,7 @@
 ---
 title: Experiential Learning
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-10-26T09:45:00-04:00"
+updated: "2026-10-28T15:48:01-04:00"
 type: concept
 pedagogy: [active-learning, embodied-learning, experiential-learning, project-based-learning]
 level: [higher ed]
@@ -29,6 +29,7 @@ Experiential learning is closely related to [[active-learning]], [[project-based
 - **Cybersecurity labs:** [[genai-cybersecurity-ocr-multimodal-instruction-2025|LLM-assisted cybersecurity instruction]] integrates a [[generative-ai]] instructional assistant into a virtual lab platform, supporting hands-on experiential skill building.
 - **Robotics projects:** [[bots-blocks-project-based-robotics-education-2026|Bots and Blocks]] uses a project-based, hands-on approach to teach robotics, addressing the lack of practical experience in classic programs.
 - **Simulation and embodied learning:** [[edusim-llm-robotic-simulation-education-2026|EduSim-LLM]] lets beginners experiment with simulated robots, and [[embodied-learning|embodied]] robot interaction grounds learning in direct experience.
+- **A virtual laboratory can outperform the physical one when the apparatus is not the point.** Grade 9 students on Ohm's law scored 23.45, 20.51 and 16.57 of 30 in the AI-supported virtual laboratory, the same laboratory without AI, and the physical laboratory, with every pair significant ([[li-ahmad-ai-virtual-lab-flipped-physics-2026|Li and Ahmad (2026)]]); the authors concede the physical laboratory's disadvantage may shrink where handling apparatus is itself the goal.
 
 - **AI as infrastructure for uncertainty, not efficiency.** [[shi-genai-experiential-learning-management-education-2026|Shi, Dai & Zhang (2026)]] give a generative-AI role the job of generating disruptive events and cascading consequences in a business simulation, so teams revise plans under incomplete information, and warn that protected simulations can leave decision habits that become a liability outside the classroom.
 ### Two forms of hands-on learning in an AI-supported curriculum
@@ -101,3 +102,5 @@ Work-integrated experience can be the binding condition for advanced competence:
 - [[hands-on-learning-necessity-age-of-ai-review-2026]] — Thematic review distinguishing Embodied Hands-on from Cognitive Hands-on in AI-supported design education (Yu, Liu & Zhu 2026)
 - [[shi-genai-experiential-learning-management-education-2026]] — a strategic management course reconfigured around three generative AI mechanisms
 - [[gelli-experiential-language-learning-2026]] — GELLI: A Generator for Experiential Language Learning Interactions (Symonette et al. 2026)
+
+- [[li-ahmad-ai-virtual-lab-flipped-physics-2026]] — AI-supported virtual laboratory for flipped physics learning: effects on middle school students' achievement, motivation, and cognitive load

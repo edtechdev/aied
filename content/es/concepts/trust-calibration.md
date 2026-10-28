@@ -1,7 +1,7 @@
 ---
 title: Calibración de la confianza
 created: "2026-09-28T19:11:03-04:00"
-updated: "2026-10-28T13:06:12-04:00"
+updated: "2026-10-28T15:53:28-04:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading, human-ai-collaboration]
 pedagogy: [metacognition]
@@ -20,10 +20,9 @@ ai_assist:
     date: "2026-09-28"
     agent: hermes-agent
 translation_of: concepts/trust-calibration
-source_updated: "2026-10-27T10:05:00-04:00"
+source_updated: "2026-10-28T15:48:01-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 ---
-
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 
 > **Calibración de la confianza**: la capacidad metacognitiva de alinear la confianza que uno deposita en un sistema de IA con su fiabilidad real en un contexto dado, sabiendo cuándo confiar y cuándo cuestionar su producción. La calibración de la confianza es el antídoto directo contra la [[cognitive-offloading|dependencia excesiva]]: es la habilidad de ajustar la confianza a la evidencia y no a la fluidez segura de una IA.
@@ -72,6 +71,7 @@ Las percepciones sociales asociadas al agente, y no la precisión, construyeron 
 Tratar la descalibración puramente como un déficit del usuario, algo que se arregla enseñando a la gente a comprobar la producción de la IA, puede ser un error de categoría. [[trust-calibration-chatbots-design-problem-2026|Jaidka y Cai (2026)]] sostienen que las affordances de transparencia son *inertes*: esperan que un usuario actúe sobre ellas, y la mayoría no lo hace. En un estudio de seguimiento pasivo con 900 adultos estadounidenses, los lectores que vieron un resumen generado por IA hicieron clic en una fuente citada dentro de él solo en el 1% de las visitas, y hicieron clic en cualquier enlace de resultado aproximadamente la mitad de a menudo que los lectores que no vieron ningún resumen. La evidencia de encuestas muestra la misma brecha a escala: en un estudio de 81.000 personas en 159 países, la falta de fiabilidad fue la preocupación más citada sobre la IA, mientras que más de 48.000 encuestados en 47 países usaban en gran medida la IA a diario incluso cuando decían no confiar en ella. Confianza y dependencia se han separado, y el artículo sitúa la causa en señales de superficie: la fluidez, la seguridad y la velocidad sustituyen a la verificabilidad, de modo que confianza y corrección se desacoplan. En particular, la autoría de máquina puede inflar la credibilidad: los lectores calificaron los resúmenes científicos como más creíbles y más fiables cuando los escribía GPT que cuando los escribía un humano, sobre todo porque el modelo escribía en un lenguaje más sencillo.
 
 La implicación de diseño es una tipología bidimensional de usuarios, la *capacidad* de verificar la producción de un [[conversational-ai|chatbot]] cruzada con la *motivación* para hacerlo, que predice qué usuarios se descalibrarán y en qué dirección. Los autores la emparejan con dos familias de intervención que deben operar juntas: affordances de [[explainable-ai|interpretabilidad]] (justificaciones, citas, señales de incertidumbre) que hacen posible la evaluación, y mecanismos de implicación que hacen que ocurra de verdad, dispuestos a través del modelo del queso suizo de Reason en ocho proposiciones comprobables. La [[ai-literacy|alfabetización en IA]] se sitúa como la capa duradera por debajo de ambas, moviendo a los usuarios entre celdas de la tipología. El reencuadre importa para la educación porque desplaza la responsabilidad: si las citas transparentes no se clican en la población general, entonces exponer a los estudiantes a explicaciones de la IA no los calibrará; la affordance tiene que estar diseñada para forzar la comprobación.
+- **Una justificación puede absorber el golpe de la contradicción sin mejorar la calibración de la confianza.** En cuatro experimentos de escenarios (N = 859), una recomendación de IA que contradecía el juicio de un docente de educación física redujo la confianza en la máquina de 5,42 a 4,31 (d = 1,061); ofrecer una justificación redujo esa penalización de -0,811 a -0,182, aunque la exactitud del consejo nunca se estableció ([[yang-ai-advice-agreement-trust-self-efficacy-pe-2026|Yang (2026)]]).
 
 Una tercera palanca opera sobre la propia estructura de la interacción: sustituir una recomendación única por un [[tuo-armada-multi-agent-debate-overreliance-2026|debate multiagente cuya posición agregada se retiene (Tuo et al., 2026)]] redujo el cambio perjudicial hacia una posición incorrecta de la IA del 42-60,5% al 5,7-8,2% entre 186 participantes. La palanca es protectora y no correctiva: los participantes que empezaron con un juicio equivocado recuperaron la decisión correcta solo en el 30,6% y el 24,7% de los ensayos, por debajo del azar para una elección binaria.
 
@@ -164,6 +164,7 @@ La calibración de la confianza es central para la [[ai-literacy|alfabetización
 - [[cognitive-surrender]]
 
 ## Artículos conectados
+- [[yang-ai-advice-agreement-trust-self-efficacy-pe-2026] — Cuando el consejo de la IA coincide o no con el juicio humano: confianza, autoeficacia, resiliencia psicológica y respuestas adaptativas en educación física
 - [[children-verification-ai-suggestions-game-2026]] — Conductas de verificación de los niños en la colaboración humano-IA basada en juegos
 - [[student-perspectives-ai-writing-grading-2026]] — Perspectivas estudiantiles sobre la evaluación transparente de la escritura asistida por IA (AlGhamdi 2026)
 - [[tuo-armada-multi-agent-debate-overreliance-2026]] — La calibración reencuadrada: retener la posición del sistema es protector, no correctivo

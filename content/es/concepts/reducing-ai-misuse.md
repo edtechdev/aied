@@ -1,7 +1,7 @@
 ---
 title: Reducir el mal uso de la IA
 created: "2026-09-28T21:04:13-04:00"
-updated: "2026-10-26T22:02:40-04:00"
+updated: "2026-10-28T15:53:28-04:00"
 connected_faqs: [reduce-ai-cheating, should-we-use-ai-detectors, designing-ai-into-learning, addressing-common-misconceptions-ai-education, course-ai-policy, reducing-over-reliance]
 type: concept
 foundations: [academic-integrity, ai-literacy]
@@ -10,16 +10,19 @@ technology: [generative-ai, prompt-engineering]
 assessment: [assessment]
 confidence: high
 translation_of: concepts/reducing-ai-misuse
-source_updated: "2026-10-25T14:15:00-04:00"
+source_updated: "2026-10-28T15:48:01-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-28"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
     agent: hermes-agent
 ---
-
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 
 > **Reducir el mal uso de la IA** — las palancas de diseño, [[pedagogy|pedagógicas]] y de [[educational-policy-ai|política]] que impiden que el estudiantado sustituya la [[generative-ai|IA generativa]] por su propio [[cognitive-offloading|trabajo cognitivo]] y que, en su lugar, lo orientan hacia un uso [[ethics|ético]] y productivo. Los enfoques eficaces se ordenan por impacto y no por popularidad, y la evidencia más sólida favorece las **palancas estructurales** —las [[guardrails|salvaguardas]] de las herramientas y el rediseño de la evaluación— que cambian el entorno para que el mal uso resulte más difícil, con independencia de la motivación del estudiante, por encima de las **palancas educativas**, que dependen de construir capacidad duradera y de lograr la [[framing-ai-use-for-students|aceptación del estudiantado]].
@@ -40,6 +43,7 @@ El concepto se apoya en la evidencia de que el mal uso de la IA daña activament
 ### Por qué las palancas estructurales importan más
 
 Las intervenciones pueden ordenarse por **evidencia causal × alcance estructural × escalabilidad × [[sustainability|sostenibilidad]]**. Sobre esa base, las dos palancas *estructurales* ocupan el rango más alto porque funcionan tanto si el estudiantado elige la conducta correcta como si no: restringen el entorno en lugar de depender de la motivación interna. Las palancas *educativas* son esenciales, pero solo funcionan cuando el estudiantado las acepta, así que se tratan como segundo nivel pese a su promesa conceptual. [[coates-governing-academic-integrity-indicators-2025|Coates, Croucher y Calderon (2025)]] elevan el argumento estructural un nivel más, al tratar la gobernanza y no la conducta del estudiantado como la restricción vinculante y proponer un marco de 130 indicadores de integridad para que los órganos de gobierno académicos puedan ver si la evaluación es auténtica, si el profesorado que evalúa conoce individualmente al estudiantado y si la integridad figura en la acogida y la orientación. Sus reformas se dirigen a las arquitecturas de gobernanza, a las personas y a las [[ai-technologies|tecnologías y recursos]], y proponen tomar prestado de la ciberseguridad el [[guardrails|equipo rojo]] para exponer las vulnerabilidades de la evaluación antes de que el estudiantado las encuentre: un recordatorio de que el suelo estructural lo mantienen instituciones que necesitan tanto la información como la voluntad de mantenerlo.
+La literatura sobre el uso responsable apenas comprueba la cadena que presupone este orden. De 122 registros de enfoques de 31 estudios, 51 se implementaron y evaluaron, en su mayoría por autoinforme, y solo cuatro definieron un límite, diseñaron una intervención en torno a él y comprobaron si las decisiones del estudiantado se ajustaban ([[tie-responsible-genai-use-academic-writing-review-2026|Tie, Gil Ortega y Zhao (2026)]]).
 
 ### Nivel 1 — Reducción del daño al aprendizaje demostrada directamente
 
@@ -119,6 +123,7 @@ Las palancas educativas vuelven a verse distintas cuando la integridad se trata 
 - [[cognitive-surrender]]
 
 ## Artículos conectados
+- [[tie-responsible-genai-use-academic-writing-review-2026] — Uso responsable de la IA generativa por parte del estudiantado en la escritura académica: una revisión de alcance de límites, enfoques educativos y lagunas de evidencia
 - [[ivory-psychology-assessment-integrity-2026]] — Rastros de evidencia con control de versiones y documentos de análisis reproducibles como disuasores del mal uso (Ivory et al. 2026)
 - [[tuo-armada-multi-agent-debate-overreliance-2026]] — Retener una recomendación previno en gran medida la dependencia excesiva sin construir el juicio que protege
 - [[generative-ai-guardrails-harm-learning]] — La IA generativa sin salvaguardas puede dañar el aprendizaje

@@ -9,11 +9,15 @@ level: [k 12, preschool]
 confidence: high
 reviewed_by: [editor]
 translation_of: concepts/early-childhood-elementary-ai-education
-source_updated: "2026-10-26T09:35:00-04:00"
-updated: "2026-10-26T22:02:40-04:00"
+source_updated: "2026-10-28T15:48:01-04:00"
+updated: "2026-10-28T15:53:28-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-28"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
@@ -27,7 +31,6 @@ ai_assist:
     date: "2026-10-14"
     agent: hermes-agent
 ---
-
 *Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa.*
 
 > **Educación infantil** — el uso de la inteligencia artificial en la educación de los niños pequeños, abarcando la educación infantil (preescolar) y los años de primaria. Esto cubre los currículos de alfabetización en IA y de [[computational-thinking|pensamiento computacional]] para los estudiantes más jóvenes, los juguetes y el juego con IA, el [[personalized-learning|aprendizaje personalizado]] en las asignaturas de primaria, y las consideraciones de desarrollo, seguridad y equidad propias de los niños, distintas de las de los adolescentes o los adultos.
@@ -51,6 +54,7 @@ Los niños pequeños interactúan con la IA cada vez más temprano —a través 
 - **Juguetes con IA y desarrollo infantil.** [[ai-toys-child-development-2026|La investigación sobre la IA en los juguetes]] examina cómo los juguetes comerciales con capacidad de IA moldean el desarrollo y el juego infantiles. Esto plantea cuestiones abiertas sobre los [[pedagogical-agent|agentes]] en el juego, la [[trust-calibration|calibración de la confianza]], la [[agency|agencia]] y el [[well-being]] de los estudiantes más jóvenes, un ámbito donde la orientación de diseño es más escasa que para los currículos de edad escolar, y donde los padres, madres y tutores se convierten en partes interesadas centrales.
 - **Actitudes de los niños hacia chatbots adaptados a su edad.** [[vahedian-children-attitudes-ai-chatbot-2026|Vahedian Movahed y Martin (2025)]] desplegaron «Ask Me Anything» (AMA), un chatbot acotado temáticamente (astronomía, zapatillas y zapatos, dinosaurios) adaptado por edad mediante [[prompt-engineering|ingeniería de prompts]], con 63 niños (de 6 a 14 años), revelando tres patrones en la interacción niño–[[student-ai-interaction|IA]]: asombro y curiosidad, puesta a prueba de la confianza y desarrollo de la seguridad en uno mismo, y construcción de relaciones mediante la antropomorfización, junto a una apertura amplia y una alta confianza en la IA como fuente de información. Su llamada a un diseño sensible a la edad y a la enseñanza explícita de la [[teacher-role|enseñanza]] de la [[privacy|seguridad digital]] y los conceptos de uso de datos refuerza las preocupaciones de desarrollo y de [[pedagogical-safety|seguridad]] centrales en este concepto.
 - **Aprendizaje de asignaturas en primaria.** El [[ai-powered-personalized-learning-elementary-fractions-2026|aprendizaje personalizado con IA]] en fracciones de primaria y la [[awareness-technological-isomorphism|IA en matemáticas de primaria]] (incluidas las preocupaciones sobre el «isomorfismo tecnológico»: estudiantes que imitan la producción de la IA sin comprenderla) muestran tanto la promesa como las trampas de la IA en la instrucción temprana de asignaturas. [[elementary-writing-genai-systematic-review-2026|Una revisión sistemática sobre escritura en primaria e IA generativa]] mapea cómo la [[generative-ai|IA generativa]] está transformando la [[writing-education|enseñanza de la escritura]] en los primeros cursos.
+- **El aprendizaje del inglés en primaria tiene su propio mapa.** Una revisión PRISMA-ScR de 119 informes clasificó en cinco funciones pedagógicas las herramientas mediadas por IA en la enseñanza del inglés en primaria, y su diseño más sólido, un ensayo aleatorizado por conglomerados con 217 estudiantes de segundo grado, ganó en las palabras enseñadas (tamaño del efecto = 0,38) mientras que el vocabulario estandarizado y la comprensión lectora no fueron significativos ([[li-zhou-ai-tools-primary-english-scoping-review-2026|Li y Zhou (2026)]]).
 - **Robots y niños pequeños.** La [[tsingidou-ct-robotics-kindergarten-2026|robótica en educación infantil]] apoya el pensamiento computacional mediante [[educational-robotics|robots educativos]], y la [[icub-humanoid-storytelling-llm-hri-2025|narración con humanoides impulsada por LLM]] explora si los padres aceptarán robots como compañeros de juego narrativo para sus hijos, poniendo en primer plano la [[trust|confianza]] y las actitudes adultas.
 - **Un conjunto de competencias y no un currículo de alfabetización en IA.** Una revisión de 86 recursos sostiene que la alfabetización en IA «no puede ser autónoma» para los niños de 0 a 8 años y la anida entre las funciones ejecutivas, el bienestar, las disposiciones de aprendizaje y las habilidades fundamentales, aunque solo 26 de los 86 recursos eran empíricos ([[early-childhood-ai-holistic-competencies-review-2026|Pei (2026)]]).
 - **Un marco de «Enfoque por Proyectos Creativos» para agentes de IA y robótica.** [[creative-project-approach-ai-early-childhood-2025|Yang, Li y Lee (2025)]] proponen un marco pedagógico de cinco pasos que integra agentes de [[generative-ai|IA generativa]] y robots en el Enfoque por Proyectos para fomentar el [[creativity|aprendizaje creativo]] de los niños pequeños. Sostienen que los agentes físicos son más apropiados que las pantallas para los niños pequeños, y emparejan dos paradigmas complementarios con sus [[learning-theories|teorías del aprendizaje]]: los **robots de programación** (el [[constructivist|construccionismo]] de Papert; el [[computational-thinking|pensamiento computacional]] mediante programación tangible con herramientas como Matatalab y KIBO) y los **robots sociales generativos** (el andamiaje [[sociocultural-learning|vygotskiano]] dentro de la Zona de Desarrollo Próximo del niño, actuando como compañeros o tutores conversacionales). Los cinco pasos —identificar las necesidades de aprendizaje, facilitar la interacción niño–robot guiada por el docente, situar la IA en contextos, calibrar el equilibrio entre automatización y creatividad, y evaluar los resultados— ofrecen a diseñadores y profesionales de la educación infantil una ruta concreta para integrar [[agentic-ai|agentes de IA]] y [[educational-robotics|robots]] en aulas basadas en el juego y en proyectos, preservando la facilitación docente y la [[agency|agencia]] infantil.
@@ -96,6 +100,7 @@ Una primera ventana de neuroimagen sobre esta cuestión llega con una cautela: n
 - [[parents-and-families]]
 
 ## Artículos conectados
+- [[li-zhou-ai-tools-primary-english-scoping-review-2026] — Herramientas mediadas por IA en la enseñanza del inglés en primaria: una revisión de alcance de funciones pedagógicas y orquestación docente
 - [[early-childhood-ai-holistic-competencies-review-2026]] — Dar forma a la primera infancia en la era de la IA: competencias, pedagogía y apoyo ecológico (Pei 2026)
 
 - [[preservice-early-childhood-genai-magnetism-2026]] — El compromiso del futuro profesorado de educación infantil con la IA generativa en el diseño de actividades científicas: el caso del magnetismo

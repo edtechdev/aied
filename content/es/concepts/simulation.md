@@ -2,16 +2,20 @@
 connected_resources: [openmaic]
 title: Simulación
 created: "2026-09-28T18:23:55-04:00"
-updated: "2026-10-26T22:02:40-04:00"
+updated: "2026-10-28T15:53:28-04:00"
 type: concept
 pedagogy: [active-learning, experiential-learning]
 technology: [adaptive-learning, pedagogical-agent, reinforcement-learning]
 confidence: high
 translation_of: concepts/simulation
-source_updated: "2026-10-26T09:10:00-04:00"
+source_updated: "2026-10-28T15:48:01-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-28"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
@@ -21,7 +25,6 @@ ai_assist:
     date: "2026-10-04"
     agent: hermes-agent
 ---
-
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 
 > **Simulación**: el uso de entornos, agentes o escenarios modelados para apoyar el aprendizaje mediante la práctica y la retroalimentación en contextos que son seguros, repetibles y a menudo inaccesibles por otras vías. Las simulaciones permiten a quien aprende actuar, cometer errores y ver las consecuencias sin coste en el mundo real, y cada vez están más impulsadas por la IA y el modelado basado en agentes.
@@ -43,6 +46,7 @@ La simulación ocupa el núcleo de las [[pedagogy|pedagogías]] [[experiential-l
 ### La IA y la simulación
 
 - **Entornos impulsados por IA:** las simulaciones adaptativas ajustan la dificultad y los escenarios al estado de quien aprende, lo que enlaza con el [[adaptive-learning|aprendizaje adaptativo]] y con el entrenamiento basado en el [[reinforcement-learning|aprendizaje por refuerzo]].
+- **El entorno virtual y la capa de IA son ganancias separables.** En una unidad de tres semanas sobre la ley de Ohm en 9.º grado, el rendimiento ajustado fue 23,45 sobre 30 con un laboratorio virtual apoyado por IA, 20,51 con el mismo laboratorio sin IA y 16,57 en un laboratorio físico ([[li-ahmad-ai-virtual-lab-flipped-physics-2026|Li y Ahmad (2026)]]). Las clases intactas se asignaron con un docente distinto en cada una, así que describe tres configuraciones de aula, no el agente por sí solo.
 - **Las simulaciones generadas por prompt ponen un laboratorio a medida al alcance.** Quien enseña puede generar modelos ejecutables en el navegador del tema que necesita un curso a partir de una plantilla de prompt reutilizable (controles deslizantes, animación, gráficos dependientes del tiempo), validando cada uno dos veces —primero técnicamente y luego frente a la solución analítica conocida— en lugar de aceptar la simulación publicada más parecida ([[benzion-ai-physics-simulations-virtual-lab|Ben-Zion et al., 2025]]).
 
 - **Automatizar la contraparte humana.** [[astra-atco-training-simulator|Chew et al. (2026)]] sustituyen a los especialistas que interpretan papeles en las simulaciones de control de tránsito aéreo por simuladores de piloto autónomos basados en [[llm|LLM]], eliminando un cuello de botella de capacidad de formación; su canalización de voz ajustada redujo la tasa de error de palabras en habla aeronáutica con acento singapurense del 107,80% al 23,45%, aunque todas las evaluaciones fueron a nivel de componente y sin cohorte de alumnos.
@@ -94,6 +98,7 @@ La simulación se conecta con el [[active-learning|aprendizaje activo]], el [[ad
 - [[virtual-and-augmented-reality]] — el modelo, no la modalidad: los entornos inmersivos normalmente representan una simulación
 
 ## Artículos conectados
+- [[li-ahmad-ai-virtual-lab-flipped-physics-2026] — Laboratorio virtual asistido por IA para el aprendizaje invertido de física: efectos en el rendimiento, la motivación y la carga cognitiva de estudiantes de secundaria
 - [[learner-agency-ai-simulation-2026]] — Control de parámetros y un agente de IA opcional en una simulación de sistemas complejos: las ganancias siguieron a la ejecución, no al acceso
 - [[benzion-ai-physics-simulations-virtual-lab]]
 - [[adaptive-virtual-patient-psychotherapy-training]] — Pacientes virtuales adaptativos para la formación en psicoterapia

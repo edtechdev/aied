@@ -1,7 +1,7 @@
 ---
 title: Meta-Analysis and Systematic Review
 created: "2026-08-14T05:24:40-04:00"
-updated: "2026-10-26T12:30:00-04:00"
+updated: "2026-10-28T15:48:01-04:00"
 type: concept
 foundations: [ai-education]
 connected_faqs: [reporting-interpreting-aied-research]
@@ -46,6 +46,7 @@ Systematic reviews and meta-analyses in AI in education serve several distinct p
 
 - **Establish the evidence base** — determining whether AI tools (tutoring, feedback, assessment, [[conversational-ai|chatbots]]) produce [[learning-gains|learning gains]], and how large those gains are.
 - **Map the field and its gaps** — a scoping review documents what has been studied, where the evidence is concentrated, and where it is missing (e.g., workplace settings, non-English work, failure cases).([[ai-vocational-education-training-review]])
+**Count records, not studies, when a review reports frequencies.** In a scoping review that reached 31 studies from 21,720 records, five studies supplied 62 of 192 practice records, so the percentages describe the extracted material rather than independent observations or prevalence ([[tie-responsible-genai-use-academic-writing-review-2026|Tie, Gil Ortega and Zhao (2026)]]).
 - **Identify moderators and conditions** — meta-analysis tests whether effects differ by [[learners|learner population]], domain, AI system type, or study design, revealing for whom and under what conditions a tool works. But a moderator is only as trustworthy as the studies behind it: in [[genai-writing-performance-meta-analysis-2026|a 2026 meta-analysis of GenAI-supported L2 writing]], the only moderator that survived methodological control was the studies' risk-of-bias classification, while an instructional-model difference that had looked significant in subgroup analysis collapsed once study quality and sample size were entered. Methodological quality, not pedagogy, carried the effect — so apparent pedagogical moderators warrant the same scrutiny as pooled estimates. Null moderators carry the same lesson in reverse. In [[chen-digital-ai-foreign-language-skills-meta-analysis-2026|Chen and Wei's meta-analysis of digital and AI technologies for foreign-language skills]] (40 studies, 3,367 participants, pooled g = 0.962), the moderators that survived were study design (quasi-experiments g = 1.019 against true experiments g = 0.474), intervention duration, and tool count, while language skill type, technology type, educational level, setting, and sample size showed no significant between-group difference, leading the authors to conclude that effectiveness cannot be attributed to a technology label or a skill category. [[yu-k12-ai-education-ai-literacy-meta-analysis-2026|Yu and colleagues' meta-analysis of K-12 AI education]] (16 studies, 57 effect sizes, g = 0.892) found all three of its tested moderators (publication source, publication year, school level) null and read the residual heterogeneity (I2 = 94.68%) as evidence that the field has not agreed on how to measure [[ai-literacy]] at all. When a moderator comes back null and heterogeneity stays high, the synthesis conclusion is often about the outcome construct or the primary-study designs as much as about the intervention.
 - **Expose methodological quality** — reviews routinely find that the field relies on underpowered, pre-experimental, or quasi-experimental designs and immediate post-tests, tempering conclusions.([[ai-vocational-education-training-review]])([[zerkouk-comprehensive-review-its-2025]]) Thin reporting of what was actually done is part of that picture, and it bounds what any later synthesis can say: [[yalcin-genai-programming-education-systematic-review-2026|Yalcin and colleagues' systematic review of GenAI in programming education]] could not identify an instructional approach in 26 of its 46 studies, and 32 of the 46 appeared in conference proceedings, so the review could code pedagogy for fewer than half its corpus and ends with mixed impact evidence (some studies showed improved exam and coding performance, while others found no significant difference against instructor feedback). A synthesis inherits the reporting habits of its field.
 
@@ -128,6 +129,7 @@ Within the knowledge base's methodological landscape, meta-analysis and systemat
 3. **Interpret pooled effects cautiously.** Attend to heterogeneity, publication bias, and the quality of included studies before drawing strong conclusions.
 4. **Use reviews to set the agenda.** Reviews' documented gaps (failure cases, workplace settings, non-English and non-indexed work, long-term outcomes) should guide where new primary research is needed.([[ai-vocational-education-training-review]])
 5. **Treat null moderators as findings.** When moderators come back null and heterogeneity stays high, that is evidence about the state of the field (construct incoherence, thin design reporting) as much as about the intervention, and it belongs in the synthesis narrative rather than being dropped.([[yu-k12-ai-education-ai-literacy-meta-analysis-2026]])([[chen-digital-ai-foreign-language-skills-meta-analysis-2026]])
+6. **An uncorrected moderator p-value is not a finding.** Khodjaev et al. (2026) report three of seven moderators at p < .05 uncorrected, none surviving Holm correction, yet their discussion calls its educational-level hypothesis supported at padj = .233 ([[khodjaev-genai-outcomes-meta-analysis-2026|Khodjaev et al. (2026)]]). Report the corrected value or report the moderator as null.
 
 ## GenAI in Healthcare Scenario Learning
 
@@ -182,3 +184,7 @@ Within the knowledge base's methodological landscape, meta-analysis and systemat
 - [[yalcin-genai-programming-education-systematic-review-2026]] — Systematic review of GenAI in programming education: thin instructional reporting in 26 of 46 studies
 
 - [[genai-cognitive-offloading-learner-agency-review-2026]] — 123-study scoping review mapping GenAI, cognitive offloading and learner agency in higher education
+
+- [[khodjaev-genai-outcomes-meta-analysis-2026]] — A meta-analysis of the effects of generative artificial intelligence on learning, cognitive, and linguistic outcomes
+
+- [[tie-responsible-genai-use-academic-writing-review-2026]] — Responsible student use of generative AI in academic writing: a scoping review of boundaries, educational approaches, and evidence gaps

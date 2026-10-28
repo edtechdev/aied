@@ -2,7 +2,7 @@
 connected_resources: [education-agent-skills, fpds-apps-and-resources]
 title: Educational Development
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-26T04:35:00-04:00"
+updated: "2026-10-28T15:48:01-04:00"
 connected_faqs: [ai-save-instructor-time, faculty-ai-competencies, faculty-development-ai]
 type: concept
 foundations: [ai-literacy, curriculum-design, learning-design, teacher-role, teacher-ai-competency]
@@ -77,6 +77,7 @@ Confidence and literacy are not interchangeable targets: in a 502-respondent SEM
 **Treat readiness as a sociotechnical alignment problem.** The [[sangwa-epiq-ai-faculty-readiness-2026|EPIQ-AI framework]] shows faculty readiness spans epistemic, pedagogical, institutional, and quality-and-compliance domains. Programs that only train the individual miss the institutional levers (policy, workload, incentives, quality standards) that enable or block change — align those alongside training.([[sangwa-epiq-ai-faculty-readiness-2026]])
 
 **Do not equate infrastructure investment with transformation.** Across 125 studies, institutional investment in GenAI infrastructure and educational development correlated only weakly with actual pedagogical change (r = 0.12), while 60–70% of instructors felt unprepared to integrate GenAI — making development, not procurement, the binding constraint.([[genai-higher-education-systematic-review-2026|Rathnayake (2026)]])
+**Name the failure mode, not only the effect size.** [[fajardo-ramos-teacher-education-ai-agenda-2026|Fajardo-Ramos, Chiappe and Martínez-Pérez (2026)]] call it simulated innovation: tool presence signals progress, teaching and assessment formats stay intact, adoption rates and dashboards stand in for learning, and the technology release cycle sets the direction. Their diagnostic asks a development program to justify each tool against a named learning problem before adoption.
 
 **Build toward curriculum redesign, not tool adoption.** The goal is faculty redesigning courses and assessment, not just adding AI tools. Ground professional development in course-level redesign work and assessment reform, and give faculty structured frameworks for doing so (e.g. [[ai-assessment-scale-reform|assessment scales]], [[institutional-change-framework-ai|institutional change frameworks]]).([[institutional-change-framework-ai]])([[ai-assessment-scale-reform]])
 
@@ -165,3 +166,5 @@ Confidence and literacy are not interchangeable targets: in a 502-respondent SEM
 
 - [[faculty-ai-well-being-social-supports-2026]] — Faculty AI well-being tracks AI literacy rather than technological self-efficacy
 - [[ai-competence-framework-landscape-2026]] — Check what a framework's levels describe before adopting it
+
+- [[fajardo-ramos-teacher-education-ai-agenda-2026]] — Can education set the agenda for AI? Simulated innovation and pedagogical directionsetting in teacher education

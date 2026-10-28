@@ -1,22 +1,25 @@
 ---
 title: Aprendizaje experiencial
 created: "2026-09-28T19:10:33-04:00"
-updated: "2026-10-26T22:02:40-04:00"
+updated: "2026-10-28T15:53:28-04:00"
 type: concept
 pedagogy: [active-learning, embodied-learning, experiential-learning, project-based-learning]
 level: [higher ed]
 confidence: high
 translation_of: concepts/experiential-learning
-source_updated: "2026-10-26T09:45:00-04:00"
+source_updated: "2026-10-28T15:48:01-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-28"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
     agent: hermes-agent
 ---
-
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 
 > **El aprendizaje experiencial** — el aprendizaje mediante la experiencia directa, la reflexión y la aplicación del conocimiento en contextos auténticos o prácticos («aprender haciendo»). Partiendo del ciclo de aprendizaje experiencial de Kolb (experiencia concreta, observación reflexiva, conceptualización abstracta y experimentación activa), los enfoques experienciales subrayan que el estudiantado aprende más profundamente cuando actúa, observa los resultados y reflexiona. En la [[ai-education|educación con IA]], el aprendizaje experiencial incluye laboratorios prácticos, trabajo por proyectos, [[educational-robotics|robótica]], [[simulation|simulaciones]] y la [[problem-solving|resolución de problemas]] del mundo real.
@@ -39,6 +42,7 @@ El aprendizaje experiencial está estrechamente relacionado con el [[active-lear
 - **Laboratorios de ciberseguridad:** [[genai-cybersecurity-ocr-multimodal-instruction-2025|la enseñanza de ciberseguridad asistida por LLM]] integra un asistente didáctico de [[generative-ai|IA generativa]] en una plataforma de laboratorio virtual, apoyando la construcción práctica de destrezas experienciales.
 - **Proyectos de robótica:** [[bots-blocks-project-based-robotics-education-2026|Bots and Blocks]] utiliza un enfoque práctico y basado en proyectos para enseñar robótica, abordando la falta de experiencia práctica de los programas clásicos.
 - **Simulación y aprendizaje corporeizado:** [[edusim-llm-robotic-simulation-education-2026|EduSim-LLM]] permite a quienes empiezan experimentar con robots simulados, y la interacción [[embodied-learning|corporeizada]] con robots fundamenta el aprendizaje en la experiencia directa.
+- **Un laboratorio virtual puede superar al físico cuando el aparato no es lo importante.** En la ley de Ohm, el estudiantado de 9.º grado obtuvo 23,45, 20,51 y 16,57 sobre 30 en el laboratorio virtual apoyado por IA, el mismo laboratorio sin IA y el laboratorio físico, con todas las comparaciones por pares significativas ([[li-ahmad-ai-virtual-lab-flipped-physics-2026|Li y Ahmad (2026)]]); los autores reconocen que la desventaja del laboratorio físico puede reducirse cuando manejar el aparato es en sí mismo el objetivo.
 - **La IA como infraestructura para la incertidumbre, no para la eficiencia.** [[shi-genai-experiential-learning-management-education-2026|Shi, Dai y Zhang (2026)]] asignan a un rol de IA generativa la tarea de generar eventos disruptivos y consecuencias en cascada en una simulación empresarial, para que los equipos revisen sus planes con información incompleta, y advierten de que las simulaciones protegidas pueden dejar hábitos de decisión que se vuelven una carga fuera del aula.
 
 ### Dos formas de aprendizaje práctico en un currículo apoyado por IA
@@ -88,6 +92,7 @@ La experiencia integrada en el trabajo puede ser la condición vinculante para u
 - [[virtual-and-augmented-reality]] — la práctica inmersiva como experiencia deliberada
 
 ## Artículos conectados
+- [[li-ahmad-ai-virtual-lab-flipped-physics-2026] — Laboratorio virtual asistido por IA para el aprendizaje invertido de física: efectos en el rendimiento, la motivación y la carga cognitiva de estudiantes de secundaria
 - [[genai-counter-learner-groupthink-2025]]
 - [[workforce-readiness-smart-manufacturing-wrl-2026]] — Marco de Nivel de Preparación Laboral para la fabricación inteligente en la era de la IA
 - [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Fomentar el aprendizaje sostenible mediante la inteligencia corporeizada (E3-HOT)

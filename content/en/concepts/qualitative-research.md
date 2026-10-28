@@ -1,7 +1,7 @@
 ---
 title: Qualitative Research
 created: "2026-08-24T02:00:00-04:00"
-updated: "2026-10-26T00:30:00-04:00"
+updated: "2026-10-28T15:48:01-04:00"
 type: concept
 research_method: [interviews, case study]
 confidence: high
@@ -47,6 +47,7 @@ Observation studies watch behavior in context; ethnography extends this to susta
 
 ### Case studies
 A case study is an in-depth investigation of a bounded case (a course, an institution, a single learner) using multiple data sources. [[drummond-genai-business-schools-framework-2026|A business-school case study]] generates a student-informed teaching and learning framework for GenAI; [[zha-ai-literacy-biology-case-study|a biology case study]] documents AI-literacy integration. Case studies trade breadth for depth and are strong for theory generation and transferable insight rather than generalization. [[khlaif-assistive-genai-visually-impaired-2026|Khlaif et al. (2026)]] offer a qualitative case study of 21 visually impaired undergraduates across three Palestinian universities, using thematic analysis of semi-structured interviews to show how GenAI functions as an [[assistive-technology|assistive technology]] for [[inclusive-learning|inclusive learning]] — an example of case-study research surfacing mechanisms (personalized adaptation, teacher augmentation, educational parity) that quantitative measures miss.
+- Variation that was chosen is not variation that was found: three EFL learners, picked from 241 surveyed students for differing proficiency, gender and GenAI history, followed sharply divergent emotional trajectories across three tasks, yet maximum-variation cases cannot estimate how common any trajectory is ([[wu-efl-emotional-dynamics-genai-writing-2026|Wu, Yang and Lin (2026)]]).
 
 [[ai-emotional-alerts-teachers-mathematics-classroom-2026|Swidan (2026)]] triangulates video, the alert system's own logs, and stimulus-recall interviews for one teacher and eight students, showing that an affective signal acquired meaning only through the teacher's response; the two-stage episode coding by a single author, without independent coding or validated affect detection, marks the limit of what a one-coder case analysis can warrant.
 
@@ -120,3 +121,5 @@ Qualitative and quantitative methods are complements, not rivals — see [[resea
 - [[favero-critical-ai-tutors-empower-enslave-2025]] — Critical AI tutors: empower or enslave
 - [[genai-runaway-object-math-higher-ed]] — GenAI as a runaway object in higher-education mathematics
 - [[khlaif-assistive-genai-visually-impaired-2026]] — Assistive GenAI for visually impaired learners
+
+- [[wu-efl-emotional-dynamics-genai-writing-2026]] — EFL learners' emotional engagement in GenAI-assisted writing: a longitudinal multiple-case study

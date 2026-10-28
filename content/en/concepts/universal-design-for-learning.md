@@ -1,7 +1,7 @@
 ---
 title: Universal Design for Learning
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-10-25T22:50:00-04:00"
+updated: "2026-10-28T15:48:01-04:00"
 type: concept
 foundations: [learning-design]
 ethics: [equity-in-ai-education, inclusive-learning]
@@ -38,6 +38,7 @@ UDL rests on the insight that learner variability is the norm, not the exception
 [[generative-ai|Generative AI]] creates new opportunities and new risks for UDL. AI can personalize representation and provide alternative pathways, supporting [[personalized-learning]] and accessibility. But it can also encode bias, assume dominant communication styles, and — if it reduces learner agency — undermine the engagement principle. [[research-methods-aied|Research]] on [[ai-misuse-learning-harm]] and equity shows that AI tools must be designed with inclusive principles or they recapitulate [[equity-in-ai-education]] gaps. UDL therefore informs both how AI is deployed and how AI-literacy and assessment are designed to be fair across learner variability.
 
 Equity-by-design is one concrete way to operationalize this stance. Wenzel, Geiger, and Liening (2026) ground their CAIS-GBL framework for AI [[conversational-ai|conversational agents]] in business [[simulation]] games in an explicit **equity-by-design** approach aligned with universal design for learning, deriving meta-requirements that span cognitive, [[motivation|motivational]], [[affective-computing|affective]], and [[sociocultural-learning|socio-cultural]] engagement. Their design principles and features aim to address individual learner differences in strengths, challenges, and interests — a concrete application of UDL principles to the design of adaptive, AI-supported [[game-based-learning|game-based learning]].
+A tool can serve all three UDL principles and still narrow what a lecturer decides. [[alenezi-ai-universal-design-learning-kuwait-2026|Alenezi (2026)]] argues that mapping a tool to a UDL principle is necessary but not sufficient for that reason, and proposes an annual deprofessionalization audit and a vendor-dependency register among its checks.
 
 AI also appears in this literature as an obstacle to UDL rather than an instrument of it. In [[faculty-accessible-course-design-ai-2026|Sidhu, Atif and Newland's (2026)]] mixed-methods study of 69 professors at one Ontario university, one of the four key themes is that [[generative-ai|generative AI]] is reversing progress in accessible course design; the title quotation, "AI is reducing options I had used", comes from their interviews, because the take-home and drafting-based assignments that had done inclusion work are the ones an AI can now complete outright. Their faculty-level findings show why that setback lands on an already thin base: 90% of respondents believed they create an accessible learning environment and 87% said they actively consider accessibility, yet fewer than half (46%) thought the university offered sufficient resources for it, and roughly a fifth had never heard of techniques as basic as OCR-readable PDFs or color-independent links. Demand is outrunning provision — Ontario university enrollments grew 17% from 2013 to 2022 while registrations with accessibility services rose 126% — so the case the study makes is that UDL support has to be resourced to compensate for the assessment options AI removed.
 ### Connections
@@ -108,3 +109,5 @@ UDL turns "fix the learner" into "fix the design." For instructors and designers
 - [[ai-learning-tools-engineering-education-needs]] — Designing Needs- and Attention-Aware AI Learning Tools
 - [[assistive-tech-neurodivergent-higher-ed-review-2026]] — Generative AI, virtual reality, and beyond: A scoping review of digital assistive technologies for neurodivergent students in higher education
 - [[faculty-accessible-course-design-ai-2026]] — “AI is reducing options I had used”: exploring faculty perceptions of accessible course design in a ChatGPT world
+
+- [[alenezi-ai-universal-design-learning-kuwait-2026]] — Artificial intelligence and universal design for learning in Kuwait's higher education institutions: towards an AI-enabled framework for inclusive education

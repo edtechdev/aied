@@ -1,7 +1,7 @@
 ---
 title: Teacher AI Competency
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-10-26T12:05:00-04:00"
+updated: "2026-10-28T15:48:01-04:00"
 connected_faqs: [faculty-ai-competencies, addressing-common-misconceptions-ai-education, faculty-development-ai]
 type: concept
 foundations: [ai-literacy, educational-development, teacher-role]
@@ -43,6 +43,7 @@ The knowledge base's research converges on several interconnected dimensions:
 - **Assessment literacy:** evaluating AI-generated content and student AI outputs, and understanding how [[assessment-validity|validity]] shifts when students use AI. This connects to [[automated-assessment]], [[ai-detection]], and the broader [[assessment]] redesign agenda. For recommendation systems, this extends to judging whether an AI's explanations are genuinely understandable and pedagogically meaningful: [[xai-teachers-trust-edtech-recommendations-2026|Feldman-Maggor et al. (2025)]] found teachers trusted AI grouping recommendations more when explanations were framed in domain (curricular) language than when they exposed raw model features — a skill for demanding and appraising [[explainable-ai|explanation quality]] rather than accepting opaque output.
 - **Model selection and prompt design as demonstrable skills:** instrumental [[ai-literacy]] includes knowing which model to use and how to phrase the task. [[teacher-ai-literacy-prompt-feedback-quality-2026|Jacobsen et al. (2026)]] had 153 pre-service teachers' lesson-planning goals critiqued by ChatGPT-4, Claude 3 and Gemini Advanced under four systematically varied prompts (N = 240 feedbacks in Study 1, 345 in Study 2), with [[feedback]] rated on nine quality categories. Model choice alone explained 26.9% of the variance in rated quality (18.4% in Study 2) and prompt design added a significant 15.9% (5.7%) on top; the single decisive prompt feature was domain-specific technical language, whose removal significantly lowered quality (β = −0.412), whereas adding examples and dropping the chain-of-thought instruction made no significant difference in Study 1. Their reading — that subject terminology both unlocks relevant training-data content and frames the request professionally, like role prompting — plus a rule of thumb to use the most capable current frontier model, makes model choice a didactic decision rather than a technical one.
 - **Ethical and critical use:** recognizing [[bias-mitigation|bias]] in AI outputs, protecting student data ([[privacy]]), and ensuring equitable outcomes ([[equity-in-ai-education]]). [[llm-cultural-relevance-k12|Culturally relevant AI use]] examines how teachers can use LLMs to diversify materials rather than reinforce dominant norms.
+- **Visual representation is its own measurable dimension.** [[chen-ai-visualization-teaching-competency-scale-2026|Chen et al. (2026)]] validated a five-dimension scale for generating, judging and acting on visual representations with 566 teachers across five western Chinese provinces, with subscale alpha from 0.911 to 0.934; it measures reported capacity, with no test-retest and no observation of practice.
 - **Ethical responsibility is distributed, not individual.** Across seven national cases teachers are positioned as moral gatekeepers of AI use while lacking institutional and epistemic support, so ethical AI literacy has to extend to critical and political agency rather than technical skill ([[raffaghelli-situated-ai-ethics-2026|Raffaghelli et al. (2026)]]).
 - **Confidence and attitudes:** teacher [[self-efficacy|confidence]] shapes adoption. [[teacher-ai-adoption-confidence|Adoption research]] finds confidence, support, and perceived utility drive whether teachers actually use AI, and [[ai-pedagogical-orientation|faculty orientations]] shape adoption in research and teaching.
 
@@ -210,3 +211,5 @@ The instrument landscape itself has since been reviewed. [[assessing-teachers-ai
 - [[teachers-ai-belief-profiles-talis-2024-2026]] — Four TALIS 2024 teacher belief profiles link professional learning and profile-specific barriers to AI use
 - [[microlearning-ai-modules-vocational-teacher-education-2026]] — Designing Microlearning Modules on AI for University Teachers in Vocational Teacher Education: A Design-Based Research Study
 - [[eduwild-teacher-configured-chatbots-failures-2026]] — EduWild: How Teacher-Configured Chatbots Fail in Real-World Use and How to Fix Them
+
+- [[chen-ai-visualization-teaching-competency-scale-2026]] — Development and validation of the AI-empowered teacher visualization teaching competency scale

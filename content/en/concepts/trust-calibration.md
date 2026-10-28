@@ -1,7 +1,7 @@
 ---
 title: Trust Calibration
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-10-27T10:05:00-04:00"
+updated: "2026-10-28T15:48:01-04:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading, human-ai-collaboration]
 pedagogy: [metacognition]
@@ -63,6 +63,7 @@ Agent-related social perceptions, not accuracy, built feedback credibility for [
 Treating miscalibration purely as a user deficit — something fixed by teaching people to check AI output — may be a category error. [[trust-calibration-chatbots-design-problem-2026|Jaidka & Cai (2026)]] argue that transparency affordances are *inert*: they wait for a user to act on them, and most do not. In a passive tracking study of 900 US adults, readers who saw an AI-generated summary clicked a source cited inside it in only 1% of visits, and clicked any result link about half as often as readers who saw no summary. Survey evidence shows the same gap at scale — in an 81,000-person study across 159 countries, unreliability was the single most cited concern about AI, while over 48,000 respondents across 47 countries largely used AI daily even when they said they did not trust it. Trust and reliance have drifted apart, and the paper locates the cause in surface cues: fluency, confidence, and speed stand in for verifiability, so confidence and correctness decouple. Notably, machine authorship can inflate credibility — readers rated scientific summaries as more credible and more trustworthy when written by GPT than by a human, chiefly because the model wrote in simpler language.
 
 The design implication is a two-dimensional user typology — the *ability* to verify [[conversational-ai|chatbot]] output crossed with the *motivation* to do so — which predicts which users will miscalibrate in which direction. The authors pair it with two families of intervention that must operate together: [[explainable-ai|interpretability]] affordances (rationales, citations, uncertainty signals) that make evaluation possible, and engagement mechanisms that make it actually happen, layered through Reason's Swiss cheese model into eight testable propositions. [[ai-literacy]] is positioned as the durable layer beneath both, moving users across typology cells. The reframing matters for education because it shifts responsibility: if transparent citations go unclicked in the general population, then simply exposing students to AI explanations will not calibrate them — the affordance has to be designed to compel the check.
+- **A rationale can absorb the sting of contradiction without making trust better calibrated.** In four scenario experiments (N = 859), an AI recommendation that conflicted with a physical educator's judgment lowered machine trust from 5.42 to 4.31 (d = 1.061); supplying a rationale shrank that penalty from -0.811 to -0.182, though the advice's accuracy was never established ([[yang-ai-advice-agreement-trust-self-efficacy-pe-2026|Yang (2026)]]).
 
 A third lever operates on the interaction structure itself: replacing a single recommendation with a [[tuo-armada-multi-agent-debate-overreliance-2026|multi-agent debate whose aggregate position is withheld (Tuo et al., 2026)]] cut detrimental switching to an incorrect AI position from 42–60.5% to 5.7–8.2% among 186 participants. The lever is protective rather than corrective — participants who began with a wrong judgment recovered the correct decision in only 30.6% and 24.7% of trials, below chance for a binary choice.
 
@@ -186,3 +187,5 @@ Trust calibration is central to [[ai-literacy]] and sits alongside [[reducing-ai
 - [[student-llm-use-ai-question-difficulty-data-science-2026]] — Student Use of LLMs and the Limits of AI-Generated Question Difficulty in Data Science Courses
 - [[nazaretsky-trust-instrument-ai-edtech-2025]] — Student-facing instrument validating trust in AI-EdTech as four factors, with trust upstream of perceived usefulness (Nazaretsky et al. 2025)
 - [[children-design-trustworthy-ai-chatbots-2026]] — How Children Design and Reason about Trustworthy AI Chatbots
+
+- [[yang-ai-advice-agreement-trust-self-efficacy-pe-2026]] — When AI advice agrees or disagrees with human judgment: trust, self-efficacy, psychological resilience, and adaptive responses in physical education

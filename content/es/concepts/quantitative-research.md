@@ -1,23 +1,26 @@
 ---
 title: Investigación cuantitativa
 created: "2026-09-28T19:11:02-04:00"
-updated: "2026-10-26T22:02:40-04:00"
+updated: "2026-10-28T15:53:28-04:00"
 type: concept
 assessment: [educational-measurement]
 research_method: [survey, experiment]
 confidence: high
 methods: [quantitative-research, research-methods-aied]
 translation_of: concepts/quantitative-research
-source_updated: "2026-10-26T08:20:00-04:00"
+source_updated: "2026-10-28T15:48:01-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-28"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
     agent: hermes-agent
 ---
-
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 
 > **Investigación cuantitativa**: la familia de métodos empíricos que recogen y analizan datos *numéricos* para describir patrones, poner a prueba relaciones y estimar efectos causales. En la [[ai-education|IA en la educación]], los métodos cuantitativos cuantifican si las herramientas de IA afectan a los [[learning-gains|resultados de aprendizaje]], la [[student-engagement|implicación]], la [[motivation|motivación]] y la [[self-efficacy|autoeficacia]], y cómo lo hacen, y modelan los mecanismos psicológicos y conductuales del uso de la IA. Aportan la amplitud, la precisión y la potencia de inferencia causal a las que los [[qualitative-research|métodos cualitativos]] renuncian a cambio de profundidad y contexto.
@@ -42,6 +45,8 @@ Las encuestas transversales miden actitudes, percepciones, motivación, [[self-e
 
 - **Fortalezas:** muestras grandes; cobertura amplia y de bajo coste; permite probar modelos mediacionales complejos; viable para actitudes difíciles de observar.
 - **Limitaciones:** los datos transversales no pueden establecer causalidad; sesgo de autoinforme; el muestreo por conveniencia limita la generalizabilidad; los mediadores se infieren de la covarianza y no de la manipulación. Véase [[self-report-measures|medidas de autoinforme]] para el tratamiento de estos límites desde el lado del instrumento.
+- **Un modelo de mediación saturado no puede poner a prueba su propio orden.** Una encuesta de una sola oleada a 1.020 estudiantes de enfermería dividió un efecto total de 1,36 en uno directo de 0,92 y uno indirecto de 0,44 a través del aprendizaje autorregulado, el 32,35% del total, con un modelo que tiene tantos parámetros libres como covarianzas observadas y que, por tanto, reproduce los datos por construcción ([[li-nursing-genai-interaction-self-regulated-learning-2026|Li et al. (2026)]]).
+**Un efecto indirecto total cercano a cero puede ocultar dos vías activas.** En una oleada de autoinforme de 568 estudiantes de diseño, la asociación indirecta fue de 0,0929 por el enfoque de promoción y de -0,0884 por el enfoque de prevención, sumando 0,0045 mientras la vía directa soportaba el 98,7% del total ([[wang-ai-disruption-design-innovation-competence-2026|Wang et al. (2026)]]).
 
 ### Investigación experimental y cuasiexperimental
 Los experimentos asignan aleatoriamente a quienes aprenden a distintas condiciones (por ejemplo, tutor de IA frente a tutor humano, o con andamiaje de IA frente a sin asistencia) para estimar efectos causales sobre los resultados. Los **ensayos controlados aleatorizados ([[rct|ECA]]s)** son el patrón de referencia para la validez interna. [[access-not-enough-ai-tutoring-2026|Un estudio de campo aleatorizado sobre el apoyo humano más la tutoría con IA]] y [[genai-can-harm-teaching-rct-2026|un ECA sobre la IA generativa en la enseñanza]] usan la asignación para aislar efectos causales. Los diseños **cuasiexperimentales** (pre/post, grupos emparejados sin aleatorización) son más viables en aulas intactas, pero más débiles para las afirmaciones causales.
@@ -103,6 +108,8 @@ Los métodos cuantitativos y los [[qualitative-research|cualitativos]] son compl
 
 ## Artículos conectados
 
+- [[li-nursing-genai-interaction-self-regulated-learning-2026] — Uso de inteligencia artificial generativa e interacción educativa interpersonal entre estudiantes de enfermería: el aprendizaje autorregulado como mediador estadístico
+- [[wang-ai-disruption-design-innovation-competence-2026] — Conciencia de la disrupción tecnológica de la IA, mentalidad de pensamiento de diseño y competencia en innovación de diseño en estudiantado de diseño
 - [[access-not-enough-ai-tutoring-2026]] — Un estudio de campo aleatorizado sobre el apoyo humano más la tutoría con IA
 - [[genai-can-harm-teaching-rct-2026]] — La IA generativa puede perjudicar la enseñanza: un ECA
 - [[acceptance-ai-english-tools-2026]] — La aceptación de herramientas de aprendizaje de inglés asistidas por IA

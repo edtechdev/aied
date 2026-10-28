@@ -2,7 +2,7 @@
 connected_resources: [master-instructional-design]
 title: Workplace Learning
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-26T01:00:00-04:00"
+updated: "2026-10-28T15:48:01-04:00"
 type: concept
 foundations: [ai-literacy, educational-development]
 technology: [generative-ai, llm, simulation]
@@ -30,6 +30,7 @@ reviewed_by: [editor]
 - **Simulation and practice:** [[adaptive-virtual-patient-psychotherapy-training|Virtual patient training]] and [[astra-atco-training-simulator|ATCO training simulators]] create AI-powered professional practice environments. In [[teacher-education|teacher education]], AI role-play simulation extends this into practice-based teaching: [[zhuang-zhang-chatgpt-math-teacher-education-2026|Student GPT]] simulated a [[misconceptions|misconception]]-holding middle-school math student so preservice teachers could practice diagnosing and remediating student errors, aligning with the "approximations of practice" of practice-based [[teacher-role|teacher]] learning as an affordable complement to costly platforms like TeachLivE.
 
 [[ai-coaching-rl-skill-development|Wang et al. (2026)]] add a coaching-policy lesson: fading assistance against the learner's estimated competence cut simulator lap time 27.9% (p = 0.005) and failures by 3.52 per lap, whereas rule-based fading on a fixed schedule produced no reliable lap-time change.
+- **A voluntary, text-only rehearsal moved nothing.** Of 201 first-year medical students offered a GPT-4o patient before their first standardized-patient class, 49 used it, and nervousness, preparedness, self-efficacy and self-perceived competence did not differ from the 84 controls; 6 of 19 non-users who gave a reason cited technical or login problems ([[jongkind-genai-patient-medical-communication-2026|Jongkind et al. (2026)]]).
 - **Lifelong learning integration:** [[lifelong-learning]] and [[adult-learning]] [[research-methods-aied|research]] connect professional training to continuous education.
 - **Public sector:** [[ai-adoption-training-public-sector|Public sector AI adoption]] examines training in government contexts.
 - **Workforce readiness frameworks:** [[workforce-readiness-smart-manufacturing-wrl-2026|Smith et al.]] propose a Workforce Readiness Level (WRL) framework that adapts the Technology Readiness Level scale into nine competency stages scored across four pillars (digital/[[ai-literacy|AI literacy]], cyber-physical fluency, [[human-ai-collaboration|human-machine collaboration]], data-driven decision making), under a "no-thin-pillar" rule. Evidence from smart-manufacturing capstones shows the highest readiness stages are gated by industry-embedded experience rather than coursework — pointing to work-integrated learning as essential to professional AI training.
@@ -109,3 +110,5 @@ Professional training differs from academic education in its focus on applied sk
 - [[cigerci-primary-teachers-perceptions-ai-mathematics-2026]] — Survey linking prior AI training and frequency of use to Turkish primary teachers' positive perceptions
 - [[kenzhebayeva-ai-role-rotation-pedagogical-model-2026]] — Role rotation as the structuring mechanism for AI-supported professional preparation
 - [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — Open Questions Towards Skill-Sustaining Reliance in Reflective AI Engagement
+
+- [[jongkind-genai-patient-medical-communication-2026]] — Use of a GenAI patient for medical communication training for undergraduate medical students: a quasi-experimental study

@@ -2,7 +2,7 @@
 connected_resources: [clarity, writing-rhetoric-studies-in-the-loop]
 title: Escritura
 created: "2026-09-28T19:10:33-04:00"
-updated: "2026-10-26T22:02:40-04:00"
+updated: "2026-10-28T15:53:28-04:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading]
 pedagogy: [metacognition]
@@ -12,10 +12,14 @@ level: [higher ed]
 connected_faqs: [writing-instruction-ai-best-practices, developing-ai-tutor]
 confidence: high
 translation_of: concepts/writing-education
-source_updated: "2026-10-26T09:45:00-04:00"
+source_updated: "2026-10-28T15:48:01-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-28"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
@@ -25,7 +29,6 @@ ai_assist:
     date: "2026-10-09"
     agent: hermes-agent
 ---
-
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 
 > **Escritura** — el uso de herramientas de IA para la enseñanza de la escritura, la [[assessment|evaluación]], la [[feedback|retroalimentación]] y el estudio de cómo la [[generative-ai|IA generativa]] reconfigura el propio proceso de escritura. La educación de la escritura es uno de los dominios más afectados por la IA, porque los LLM destacan precisamente en las actividades en las que se centra la enseñanza de la escritura: la generación de texto, la revisión y la evaluación. La [[research-methods-aied|investigación]] en esta área abarca la [[automated-assessment|calificación automatizada]], la calidad de la retroalimentación con IA, el apoyo al proceso de escritura, la escritura en segunda lengua, la integridad académica y la pregunta más profunda de cómo la IA cambia lo que significa escribir y ser quien escribe.
@@ -68,6 +71,7 @@ La concordancia es una propiedad del corpus, no de quien califica: [[automated-s
 - **Sesgo en la retroalimentación personalizada (Marked Pedagogies):** [[marked-pedagogies-linguistic-bias-writing-feedback|Tan et al. (2026)]] muestran que las herramientas de retroalimentación de escritura con [[llm|LLM]] no son lingüísticamente neutras: personalizar la retroalimentación con la raza, la etnia, la designación de estudiante de inglés, la discapacidad de aprendizaje, el rendimiento o la motivación de un estudiante la desplaza sistemáticamente en direcciones alineadas con estereotipos — incluidos el sesgo de retroalimentación positiva y el sesgo de retención de retroalimentación (abuso del elogio, críticas menos sustantivas, supuestos de capacidad limitada) hacia el estudiantado marcado por su raza, su lengua o su discapacidad, incluso cuando el ensayo es idéntico. Esto convierte la «[[personalized-learning|personalización]]» misma en un vector de sesgo que las herramientas de retroalimentación de escritura deben auditar y controlar.
 
 - **Integridad académica:** la evidencia de encuesta complica directamente el encuadre de vigilancia: entre 504 estudiantes de sociología ([[student-genai-use-views-writing|Kuznetsov et al., 2026]]), el 65 por ciento había usado IA generativa para trabajos de curso, pero solo el 3 por ciento para generar el texto de una tarea y el 2 por ciento para producir un borrador completo, mientras que el miedo a cometer una falta académica fue la segunda preocupación más común (28 por ciento) y alrededor de una cuarta parte informó de no haber recibido ninguna orientación (19 por ciento) o de haber recibido una que le pareció poco clara. Con esta evidencia, el problema de la educación de la escritura es la ambigüedad sobre el uso permitido, y no la generación de texto generalizada. [[nash-preservice-teachers-classroom-ai-policies-2026|Nash y Burriss (2026)]] muestran cómo se produce esa ambigüedad en el aula. Al codificar las [[educational-policy-ai|políticas sobre IA]] de aula de 27 docentes de artes del lenguaje en [[teacher-education|formación]], encontraron que 26 de 27 permitían algún uso de [[generative-ai|IA generativa]], pero abrumadoramente en términos especificados por el docente, con 22 de 27 permitiendo la IA para la ideación y la lluvia de ideas y prohibiéndola para componer frases, párrafos o trabajos. Los límites rara vez se operacionalizaban — una participante permitía la IA «para poner en marcha tu pensamiento» y declaraba «aquí es donde debe trazarse la línea» sin decir dónde —, y muchas políticas prohibían a la vez entregar texto de IA y hacían al estudiantado responsable del texto de IA que entregaba, una contradicción que deja al estudiantado sin poder cumplir. Veintidós de las 27 políticas guardaban silencio sobre la lectura en su conjunto, dejando el trabajo de comprensión asistido por IA sin ninguna orientación.
+- **El límite se mueve con la tarea, no con la herramienta.** De 192 registros de prácticas, la edición fue Responsable en 21 de 22, mientras que la redacción fue Responsable en 11, Controvertida en 9 y Problemática en 13, así que la capacidad evaluada y no la herramienta fija la categoría ([[tie-responsible-genai-use-academic-writing-review-2026|Tie, Gil Ortega y Zhao (2026)]]). Solo cuatro estudios definieron un límite, diseñaron una intervención en torno a él y comprobaron si las decisiones se ajustaban a él.
 
 - **La política diverge en cinco sitios.** Al entrevistar a 20 estudiantes de grado, Kim y sus colegas localizan cinco sitios distintos de política sobre IA —la intención del profesorado, la política formal, la interpretación del estudiantado, la autopolítica y la práctica— y catalogan 23 racionalizaciones, en su mayoría ad hoc y a posteriori, que explican por qué las reglas de un sitio rara vez moldean la conducta en otro ([[student-rationalization-ai-writing|Kim et al. (2026)]]).
 - **La calificación es donde la orientación se agota.** En entrevistas con 24 profesores universitarios de escritura de China continental, Hong Kong, Macao y Singapur, seis declararon que no había ninguna norma institucional sobre si pueden calificar el trabajo del estudiantado con IA, y la consecuencia fue tener colegas que se niegan por principio junto a colegas que ya lo hacen ([[wu-lam-genai-writing-assessment-professors-2026|Wu y Lam (2026)]]).
@@ -161,6 +165,7 @@ La educación de la escritura se conecta con la [[automated-essay-scoring|evalua
 - [[agency]]
 
 ## Artículos conectados
+- [[tie-responsible-genai-use-academic-writing-review-2026] — Uso responsable de la IA generativa por parte del estudiantado en la escritura académica: una revisión de alcance de límites, enfoques educativos y lagunas de evidencia
 - [[wu-lam-genai-writing-assessment-professors-2026]] — 24 profesores de escritura sobre calificar con IA: beneficios para la retroalimentación, deriva en las puntuaciones, ninguna norma institucional
 - [[genai-l2-written-feedback-scoping-review-2026]] — Revisión de alcance de 51 estudios: lagunas de transparencia en los prompts y por qué la IA más el profesorado supera a cada uno por separado
 - [[nash-preservice-teachers-classroom-ai-policies-2026]] — Políticas de aula sobre IA de docentes en formación: tensiones y entrelazamientos

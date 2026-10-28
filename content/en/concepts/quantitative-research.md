@@ -1,7 +1,7 @@
 ---
 title: Quantitative Research
 created: "2026-08-24T02:05:00-04:00"
-updated: "2026-10-26T08:20:00-04:00"
+updated: "2026-10-28T15:48:01-04:00"
 type: concept
 assessment: [educational-measurement]
 research_method: [survey, experiment]
@@ -32,6 +32,8 @@ Cross-sectional surveys measure self-reported attitudes, perceptions, motivation
 
 - **Strengths:** large samples; broad, low-cost coverage; tests complex mediational models; feasible for attitudes that are hard to observe.
 - **Limitations:** cross-sectional data cannot establish causation; self-report bias; convenience sampling limits generalizability; mediators inferred from covariance, not manipulation. See [[self-report-measures]] for the instrument-side treatment of these limits.
+- **A saturated mediation model cannot test its own ordering.** A single-wave survey of 1,020 nursing students split a total effect of 1.36 into a direct 0.92 and an indirect 0.44 through self-regulated learning, 32.35% of the total, with a model that has as many free parameters as observed covariances and so reproduces the data by construction ([[li-nursing-genai-interaction-self-regulated-learning-2026|Li et al. (2026)]]).
+**A near-zero total indirect effect can hide two live paths.** In one self-report wave of 568 design students, the indirect association ran 0.0929 through promotion focus and -0.0884 through prevention focus, summing to 0.0045 while the direct path carried 98.7% of the total ([[wang-ai-disruption-design-innovation-competence-2026|Wang et al. (2026)]]).
 
 ### Experimental and quasi-experimental research
 Experiments randomly assign learners to conditions (e.g., AI tutor vs. human tutor, or AI-scaffolded vs. unassisted) to estimate causal effects on outcomes. **Randomized controlled trials ([[rct]]s)** are the gold standard for internal validity. [[access-not-enough-ai-tutoring-2026|A randomized field study of human support plus AI tutoring]] and [[genai-can-harm-teaching-rct-2026|an RCT on generative AI in teaching]] use assignment to isolate causal effects. **Quasi-experimental** designs (pre/post, matched groups without randomization) are more feasible in intact classrooms but weaker on causal claims.
@@ -104,3 +106,7 @@ Quantitative and [[qualitative-research|qualitative]] methods are complements �
 - [[synthetic-educational-data-structural-fidelity-2026]] — What Fidelity Metrics Miss: A Structural Check on Synthetic Educational Data
 - [[liu-course-integrated-ai-tutoring-rct-2026]] — A group-randomized access trial needs an uptake check
 - [[sriram-ethical-ai-medical-education-bibliometric-2026]] — Bibliometric analysis is a further quantitative family: Sriram et al.
+
+- [[li-nursing-genai-interaction-self-regulated-learning-2026]] — Generative artificial intelligence use and interpersonal educational interaction among nursing students: self-regulated learning as a statistical mediator
+
+- [[wang-ai-disruption-design-innovation-competence-2026]] — AI technological disruption awareness, design thinking mindset, and design innovation competence among design students

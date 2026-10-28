@@ -1,7 +1,7 @@
 ---
 title: "Educación en diseño"
 created: "2026-09-28T18:18:41-04:00"
-updated: "2026-10-26T22:02:40-04:00"
+updated: "2026-10-28T15:53:28-04:00"
 type: concept
 foundations: [ai-literacy, design-thinking]
 pedagogy: [creativity, professional-training]
@@ -12,16 +12,19 @@ audience: [instructors, instructional designers, curriculum designers, faculty d
 level: [higher ed]
 confidence: high
 translation_of: concepts/design-education
-source_updated: "2026-10-26T07:30:00-04:00"
+source_updated: "2026-10-28T15:48:01-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-28"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
     agent: hermes-agent
 ---
-
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 
 > **Educación en diseño** — la formación profesional de diseñadores en disciplinas basadas en el taller: diseño de producto, de servicios, de interacción, de interiores y arquitectónico, enseñadas mediante trabajo por proyectos iterativo en el que el objeto evaluado es tanto el proceso que hay detrás de un artefacto como el artefacto mismo. Sus rasgos distintivos son el taller y la crítica como lugar de aprendizaje, la evidencia visible del proceso (bocetos, modelos intermedios, iteraciones) como principal indicador del aprendizaje, y el hecho de que la [[generative-ai|IA generativa]] hace ahora barato producir el resultado pulido por el que se califica al estudiantado. Eso convierte la educación en diseño en un caso de prueba para la [[creativity|creatividad]], el [[design-thinking|pensamiento de diseño]], la [[assessment-validity|validez de la evaluación]] y la [[professional-training|formación profesional]].
@@ -52,6 +55,7 @@ También es distinta del [[design-thinking|pensamiento de diseño]], un método 
 - **La adopción es frecuente, desigual a lo largo del proceso y recelosa.** [[genai-usage-design-students-survey|Broadbent et al. (2026)]] encuestaron a 280 estudiantes de diseño del Politecnico di Milano y leyeron 100 diarios de uso de IA de estudiantes de máster: el 71% usaba la IA generativa a diario o semanalmente, el 65% desconfiaba de ella y el 85% modificaba sus salidas. El uso se concentraba en la investigación y la escritura —editar textos 77,5%, buscar información 74,5%, generar ideas 68,0%—, y el uso para tareas completas era raro (18,6%). La autoría se mantuvo en gran medida: el 31% informó de pérdida de autoría o de agencia creativa, y solo la generación de prototipos se asoció significativamente con ella. La planificación y la interpretación de la investigación primaria siguieron en manos del estudiantado, lo que los autores leen como evidencia de que el estudiantado puede no considerar la investigación parte del proceso creativo.
 
 - **El efecto neto es divergencia, no mejora general.** [[ai-mediated-cognitive-divergence-2026|Crolla, Xia y Jiang (2026)]] se basaron en 24 entrevistas y una encuesta a 32 docentes de una facultad de entorno construido para describir la *divergencia cognitiva*: la IA amplifica las diferencias previas, de modo que el estudiantado más fuerte amplía su razonamiento mientras el más débil delega el trabajo formativo y produce resultados coherentes sin comprenderlos, una «falsa sensación de capacidad» que se derrumba al ser interrogada. La pérdida de visibilidad del proceso, en un campo que se apoyaba en el proceso visible como su principal evidencia de aprendizaje, y la erosión de las etapas de fricción que actúan como [[desirable-difficulties|dificultades deseables]] lo agravan. La actitud positiva del profesorado se asoció a la relevancia pedagógica (β = 0,534, p = 0,004), no a la antigüedad, y las medidas paliativas de la facultad no escalan más allá de cohortes del tamaño de un taller, lo que aboga por requisitos institucionalizados de evidencia de proceso. Límites: una sola institución, n = 32, percepción del profesorado.
+- **La conciencia de la disrupción no es solo desmoralizadora.** Entre 568 estudiantes chinos de diseño, la conciencia de que la IA puede sustituir partes del trabajo de diseño se asoció positivamente con la competencia innovadora autoevaluada (β = 0,375), mediante una vía de enfoque de promoción de 0,0929 y otra de prevención de -0,0884 que casi se anularon ([[wang-ai-disruption-design-innovation-competence-2026|Wang et al. (2026)]]). Todas las medidas procedían de una sola oleada de autoinforme.
 
 - **Las disciplinas difieren en qué comportamientos rinden.** [[same-ai-different-pathways|Shen (2026)]] comparó a 221 estudiantes de diseño con 222 de empresa y encontró que la [[ai-literacy|alfabetización en IA]] predecía tanto la competencia en la formulación de prompts como el comportamiento de verificación (p < 0,001). La verificación predecía directamente la calidad de la tarea en la cohorte de diseño y la precisión de la calibración en la de empresa —ideación abierta frente a estándares analíticos de tipo auditoría—, y la verificación funcionó como salvaguarda metacognitiva frente a la [[cognitive-offloading|descarga cognitiva]].
 
@@ -100,6 +104,7 @@ Los problemas de evaluación aquí son inseparables de los profesionales. [[ai-i
 
 ## Artículos conectados
 
+- [[wang-ai-disruption-design-innovation-competence-2026] — Conciencia de la disrupción tecnológica de la IA, mentalidad de pensamiento de diseño y competencia en innovación de diseño en estudiantado de diseño
 - [[ai-agents-constructive-conflict-design-education-2026]]
 - [[ai-mediated-cognitive-divergence-2026]]
 - [[ai-interior-design-malaysia-2026]]

@@ -1,7 +1,7 @@
 ---
 title: Early Childhood Education
 created: "2026-08-25T13:30:00-04:00"
-updated: "2026-10-26T09:35:00-04:00"
+updated: "2026-10-28T15:48:01-04:00"
 type: concept
 foundations: [ai-education, ai-literacy, computational-thinking]
 pedagogy: [well-being]
@@ -35,6 +35,7 @@ Young children interact with AI increasingly early — through AI-enabled toys, 
 - **Children's attitudes toward age-tailored chatbots.** [[vahedian-children-attitudes-ai-chatbot-2026|Vahedian Movahed & Martin (2025)]] deployed "Ask Me Anything" (AMA), a topic-bounded chatbot (astronomy, sneakers and shoes, dinosaurs) tailored by age via [[prompt-engineering|prompt engineering]], for 63 children (ages 6–14), revealing three patterns in child–[[student-ai-interaction|AI interaction]] — wonder and curiosity, testing trust and building confidence, and building relationships through anthropomorphization — alongside a broad openness to and high trust in AI as an information source. Their call for age-sensitive design and explicit [[teacher-role|teaching]] of [[privacy|digital-safety]] and data-use concepts reinforces the developmental and [[pedagogical-safety|safety]] concerns central to this concept.
 
 - **Elementary subject learning.** [[ai-powered-personalized-learning-elementary-fractions-2026|AI-powered personalized learning]] in elementary fractions and [[awareness-technological-isomorphism|AI in elementary math]] (including concerns about "technological isomorphism" — students mimicking AI output without understanding) show both the promise and the pitfalls of AI in early subject instruction. [[elementary-writing-genai-systematic-review-2026|A systematic review of elementary writing and GenAI]] maps how [[generative-ai|generative AI]] is reshaping [[writing-education|writing instruction]] in the early grades.
+- **Primary English language learning has its own map.** A PRISMA-ScR review of 119 reports on AI-mediated tools in primary English sorted them into five pedagogical functions, and its strongest design, a cluster randomized trial with 217 second-grade learners, gained on taught words (effect size = .38) while standardized vocabulary and reading comprehension did not reach significance ([[li-zhou-ai-tools-primary-english-scoping-review-2026|Li and Zhou (2026)]]).
 
 - **Robots and young children.** [[tsingidou-ct-robotics-kindergarten-2026|Robotics in kindergarten]] supports computational thinking through [[educational-robotics|educational robots]], and [[icub-humanoid-storytelling-llm-hri-2025|LLM-powered humanoid storytelling]] explores whether parents will accept robots as narrative play partners for their children — foregrounding [[trust]] and adult attitudes.
 - **A competency set, not an AI-literacy curriculum.** A review of 86 resources argues AI literacy "cannot be standalone" for children aged 0 to 8 and nests it among executive functions, well-being, learning dispositions, and foundational skills, though only 26 of the 86 resources were empirical ([[early-childhood-ai-holistic-competencies-review-2026|Pei (2026)]]).
@@ -105,3 +106,5 @@ A first neuroimaging window on this question arrives with a caution: 6–7-year-
 - [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] — First neuroimaging comparison of children and adults conversing with ChatGPT: less integrated control-attention-memory networks in 6-7-year-olds
 - [[ai-rated-classroom-observation-scores-2026]] — I code or AI code: AI-rated CLASS Pre-K scores versus trained human raters in Hong Kong kindergartens (Fong et al. 2026)
 - [[ai-literacy-ecec-curricula-four-country-2026]] — AI literacy for AI natives? A four-country comparison
+
+- [[li-zhou-ai-tools-primary-english-scoping-review-2026]] — AI-mediated tools in primary English language education: a scoping review of pedagogical functions and teacher orchestration
