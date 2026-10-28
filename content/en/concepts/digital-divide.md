@@ -1,7 +1,7 @@
 ---
 title: Digital Divide
 created: "2026-08-13T18:07:54-04:00"
-updated: "2026-10-26T13:35:09-04:00"
+updated: "2026-10-28T09:45:00-04:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, ai-guidance-children-under-13]
 type: concept
 foundations: [ai-education, ai-literacy]
@@ -65,6 +65,8 @@ Structured school AI instruction is a psychological catalyst but not a cognitive
 
 - **A simulated lab can reproduce the equipment bill it was meant to avoid.** A [[meta-analysis-systematic-review|systematic review]] of 11 digital-twin studies in STEM higher education found hardware costs of \$2000-\$15,000 per functional workstation node in four studies, with physical entities capping access at 1-3 concurrent students in five, and no included study produced a return-on-investment analysis ([[caee-digital-twins-stem-education-systematic-review-2026|Pelayo-Gonzalez et al. (2026)]]). The review benchmarks that entry cost against physical characterization rigs costing from \$30,000 to over \$150,000.
 
+- **This divide may be shallower than the internet's was.** Matching each country's 2025 generative-AI use to the internet year with comparable overall use, the education gap was smaller in 13 of 16 countries that could be matched, out of 35 ([[watanabe-genai-education-gap-europe-2026|Watanabe (2026)]]).
+
 ### Connections to related concepts
 
 The digital divide is a core concern of [[equity-in-ai-education]] research, closely tied to [[ai-literacy]] (which is positioned as a central mechanism for addressing structural barriers), and to [[ethics]] and [[bias-mitigation]] (since algorithmic bias disproportionately affects marginalized groups). It connects to [[ai-education]] and [[higher-ed]] as the settings where access and capability gaps manifest, and relates to [[student-experience]] as it shapes who can participate meaningfully in AI-shaped learning.
@@ -88,7 +90,7 @@ The digital divide is a core concern of [[equity-in-ai-education]] research, clo
 
 - Do not treat device distribution as closing the divide. The measurable gaps sit in phrasing skill, interface language and connectivity, and none of them are fixed by hardware.
 - Publish the infrastructure a tool assumes. A requirement stated plainly lets an under-resourced setting judge fit before investing.
-- Cost out the full deployment, not the software licence. Digital-twin evidence shows the hardware bill can survive virtualisation.
+- Cost out the full deployment, not the software license. Digital-twin evidence shows the hardware bill can survive virtualisation.
 ## Connected Concepts
 
 - [[differential-effects-across-learner-groups]]
@@ -102,6 +104,7 @@ The digital divide is a core concern of [[equity-in-ai-education]] research, clo
 - [[student-experience]]
 - [[parents-and-families]]
 ## Connected Articles
+- [[watanabe-genai-education-gap-europe-2026]] — Is the education gap in generative AI use smaller than the internet's was? (Watanabe 2026)
 - [[adeniranye-ai-integration-nigerian-higher-education-2026]] — Institutional structures, digital inequality, and AI integration in Nigerian higher education
 - [[ai-divide-ses-personality-primary-education-2026]] — SES, personality, and AI divides in primary education (Wang et al. 2026)
 - [[rodrigues-aied-unplugged-numeracy-2026]] — AIED unplugged: teacher-as-proxy tutoring reaches students with no device (Rodrigues et al. 2026)

@@ -6,13 +6,22 @@
 >
 > **Scope of this file:** it lists work in progress only — articles whose full text is still being sought, and pages waiting on a source before their practice and limitations sections can be written. Candidates appear here only while they are being pursued, and no outcome is recorded; items judged unsuitable for the knowledge base are tracked outside this repository.
 
-**Last updated:** 2026-10-27
+**Last updated:** 2026-10-28
 **Total backlog:** 0 articles awaiting ingest (the remaining candidates were rejected, see `rejected-sources.yaml`) · 52 truncated source texts awaiting PDFs · 19 pages awaiting a full text before their practice and limitations sections can be written
 
 ## Daily arXiv + OpenAlex scan (2026-10-27)
 
 In-scope AI-in-education candidates from this run that were **not ingested**: the run's cap was eight articles, chosen for measured outcomes over self-report. All are open access; the arXiv items have retrievable full text, so any can be ingested on request.
 
+
+
+## Daily arXiv + OpenAlex scan (2026-10-28)
+
+Twelve articles were ingested this run (9 arXiv, 2 EdArXiv, 1 Frontiers). One in-scope candidate is
+here only because its full text is not public yet — the publisher serves an early-access abstract
+page, not the article.
+
+- [Structured human resource development with AI support is associated with higher expert rated recruitment task quality among education graduates](https://doi.org/10.1038/s41598-026-76662-y) — [DOI: 10.1038/s41598-026-76662-y](https://doi.org/10.1038/s41598-026-76662-y) — *Scientific Reports*, 2026-10-26. Twelve intact cohorts in Guangdong (N = 186), blinded expert-rated recruitment-task materials, adjusted difference 5.38 points (95% CI 2.76 to 8.01; d = 0.60) — measured rather than self-report outcomes. FULL_TEXT_PENDING: the .pdf URL returns HTML and the article page carries the abstract only.
 
 
 ## Weekly journal RSS scan (2026-10-11)

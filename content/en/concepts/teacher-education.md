@@ -1,7 +1,7 @@
 ---
 title: Professional Development
 created: "2026-08-16T10:55:19-04:00"
-updated: "2026-10-26T11:40:00-04:00"
+updated: "2026-10-28T09:45:00-04:00"
 type: concept
 foundations: [ai-literacy, teacher-role, tpack]
 connected_faqs: [faculty-development-ai]
@@ -51,6 +51,8 @@ Pre-service (initial) teacher education prepares future teachers during their ce
 
 - **Policy does not govern practice.** Four semesters of survey data from a US teacher-education program show GenAI use for assessment preparation rising from 57% to 83% and for studying from 44% to 76%, even as institutions considered AI-detection software, with ethical uncertainty rising across the waves ([[longitudinal-ai-usage-ethics-policy-teacher-education-2026|Parker et al. (2026)]]).
 
+- **No pre-service study measured pupil learning.** A review that could include only seven sources found ethics acknowledged but seldom taught or assessed, and pre-service teachers overconfident about critiquing AI ([[shukla-ai-teacher-education-frameworks-review-2026|Shukla (2026)]]).
+
 ### In-service professional development
 
 In-service professional development supports practicing teachers in integrating AI. AI research here includes:
@@ -94,7 +96,7 @@ Beyond content and beliefs, teacher preparation increasingly uses **simulated cl
 
 ## Common Misconceptions
 
-- **"Acceptance of AI among pre-service teachers is a single attitude."** **128 pre-service teachers** were profiled into four ChatGPT-acceptance groups including **Resistant Skeptics (14.06%), who reported high perceived ease of use but very low behavioural** intent. Ease of use and intention came apart in that group, so a usability-driven intervention would leave them unchanged.
+- **"Acceptance of AI among pre-service teachers is a single attitude."** **128 pre-service teachers** were profiled into four ChatGPT-acceptance groups including **Resistant Skeptics (14.06%), who reported high perceived ease of use but very low behavioral** intent. Ease of use and intention came apart in that group, so a usability-driven intervention would leave them unchanged.
 - **"AI helps pre-service teachers mainly with content knowledge."** A **scoping review of 55 studies** finds AI enhances **instructional design, subject instruction and practical teaching** — the design and practice capacities, not the content expertise.
 - **"A scoping review of 55 studies establishes benefit."** It documents what is reported across the field. Breadth of reported enhancement is a claim about the literature's consensus, and 55 studies in a scoping review is not a pooled effect.
 ## Connected Concepts
@@ -111,6 +113,7 @@ Beyond content and beliefs, teacher preparation increasingly uses **simulated cl
 - [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
 
 ## Connected Articles
+- [[shukla-ai-teacher-education-frameworks-review-2026]] — AI in teacher education: pedagogical frameworks, empirical evidence and ethics, 2020-2026 (Shukla 2026)
 - [[bicer-genai-pd-math-creativity-2026]] — How generative AI guided-professional development supports teachers’ engagement with mathematical creativity, content knowledge, and pedagogical content knowledge
 - [[nash-preservice-teachers-classroom-ai-policies-2026]] — Preservice English teachers authoring classroom AI policies: permitted, limited, and banned uses (Nash & Burriss 2026)
 - [[zou-is-this-a-trap-student-teachers-genai-2026]] — 85 student teachers: shallow GenAI adoption, integrity anxiety, and assessment literacy that doesn't transfer

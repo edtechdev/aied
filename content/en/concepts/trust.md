@@ -1,7 +1,7 @@
 ---
 title: Trust
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-10-25T15:55:00-04:00"
+updated: "2026-10-28T09:45:00-04:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, human-ai-collaboration]
 technology: [educational-robotics, intelligent-tutoring]
@@ -54,6 +54,8 @@ The three Source Credibility dimensions can dissociate: seventeen EFL undergradu
 
 Credibility cues can raise reliance on wrong answers: adding citations and authority signals to a debate interface raised abandonment of a correct judgment for the AI's position from 15.0% to 31.8%, while withholding a recommended position cut that switching to 5.7–8.2% ([[tuo-armada-multi-agent-debate-overreliance-2026|Tuo et al., 2026]]).
 
+Trust in AI does not track national uptake either: Romanians, at 17.8% generative-AI use against Denmark's 48.4%, rated their trust in AI slightly higher (4.1 against 3.8 on a seven-point scale) while institutional trust split 28 to 45 points the other way ([[lucau-uneven-use-similar-trust-genai-2026|Lucau, Voicu & Christensen (2026)]]).
+
 ## Trust in AI tracks psychological state, not demographic category
 
 [[trust-in-ai-psychological-profiles-ml-2026|Kumar et al. (2026)]] clustered 107 students at a public HBCU on resilience, perceived stress and AI trust, and found three profiles in which **trust in AI dissociated from confidence in oneself**: a high-resilience low-stress group with favorable AI trust, a moderately stressed group holding the *highest* AI trust of the three despite strain, and a psychologically resilient group that was nearly as resilient as the adopters but markedly lower in AI trust. Stress and AI trust separated the clusters most strongly (partial eta squared 0.528 and 0.521 against 0.315 for resilience), and gender was the only demographic variable significantly associated with membership, with [[stem-education|STEM]] affiliation, academic level, employment status and age group all non-significant. Two implications matter for this page: first, low trust in AI is not a proxy for low confidence or low technical familiarity, since the skeptics were the most resilient and the most STEM-heavy group, which the authors read as calibrated skepticism rather than resistance; second, because the clusters were only weakly separated (silhouette 0.288, with the Calinski-Harabasz index preferring two clusters) they should be treated as overlapping profiles rather than distinct student types. The findings come from one institution and a cross-sectional [[self-report-measures|self-report]] survey, so they establish that trust varies with psychological state, not why.
@@ -79,21 +81,21 @@ Calibration is also tested by the incentives of the trusted system itself. When 
 
 ## Common Misconceptions
 
-**"Trust and distrust sit at opposite ends of one scale."** They are separable, and confusing them misreads what students actually report. **Risk perception and trust are not opposites:** a 130-student perception study of [[agentic-ai|agentic]] GenAI in [[higher-ed|higher education]] found perceived risk moderately elevated (M = 3.33, SD 0.89) *alongside* more favourable trust and adoption. A learner can hold both at once, which is why a single trust score cannot tell you whether their reliance is appropriate.
+**"Trust and distrust sit at opposite ends of one scale."** They are separable, and confusing them misreads what students actually report. **Risk perception and trust are not opposites:** a 130-student perception study of [[agentic-ai|agentic]] GenAI in [[higher-ed|higher education]] found perceived risk moderately elevated (M = 3.33, SD 0.89) *alongside* more favorable trust and adoption. A learner can hold both at once, which is why a single trust score cannot tell you whether their reliance is appropriate.
 
-**"Distrust of AI's accuracy means students won't lean on it."** Students distinguish the output from their ability to steer it. In a survey of **8,021 students across four Australian universities, 51% distrusted GenAI's factual accuracy while 76% were confident in their ability to get the outputs they wanted.** The second number is the one that predicts behaviour: confidence in extraction coexists with doubt about truth, and only one of those is a safety property.
+**"Distrust of AI's accuracy means students won't lean on it."** Students distinguish the output from their ability to steer it. In a survey of **8,021 students across four Australian universities, 51% distrusted GenAI's factual accuracy while 76% were confident in their ability to get the outputs they wanted.** The second number is the one that predicts behavior: confidence in extraction coexists with doubt about truth, and only one of those is a safety property.
 
 **"Clearer rules and policies are what build student trust."** Usefulness dominates. A survey of 2,121 students, faculty and staff at one university found perceived usefulness the **strongest correlate of trust in AI (β = 0.402)**, with perceived policy clarity trailing it. Institutions that invest in rule-making while shipping tools nobody finds useful have aimed at the weaker lever.
 
 **"If learners trust it more, they will use it more carefully — or at least appropriately."** The opposite is the documented pattern. Among 432 undergraduates solving Python problems with accurate and deliberately misleading suggestions, greater trust predicted **lower** appropriate reliance (r = −.42), and students accepted 86.03% of the misleading suggestions. Trust is not a proxy for calibration; see [[trust-calibration|trust calibration]].
 
-**"Honest warnings about fallibility would undermine confidence in a tutor."** They improve behaviour. [[ai-fallibility-warning-help-seeking|Warnings about AI fallibility]] in a math ITS increased [[help-seeking]] rather than reducing use, which suggests that stating limits fosters appropriate reliance instead of eroding it.
+**"Honest warnings about fallibility would undermine confidence in a tutor."** They improve behavior. [[ai-fallibility-warning-help-seeking|Warnings about AI fallibility]] in a math ITS increased [[help-seeking]] rather than reducing use, which suggests that stating limits fosters appropriate reliance instead of eroding it.
 
 ## Implications for Practice
 
 **For instructors**
 
-- Measure two things, not one: what students believe about AI's accuracy, and what they believe about their own ability to use it. The 51%/76% split shows these diverge sharply and only the second drives behaviour.
+- Measure two things, not one: what students believe about AI's accuracy, and what they believe about their own ability to use it. The 51%/76% split shows these diverge sharply and only the second drives behavior.
 - State the tool's limits up front. Fallibility warnings raised help-seeking in the ITS evidence, so disclosure is a calibration tool rather than a confidence risk.
 - Watch for high trust paired with shallow checking; that combination is the calibrational failure mode, not a success signal.
 
@@ -106,7 +108,7 @@ Calibration is also tested by the incentives of the trusted system itself. When 
 **For researchers**
 
 - Report trust, risk perception and appropriate reliance as distinct constructs, because they co-vary in non-obvious directions — including negatively.
-- Report the behavioural outcome (acceptance rate of wrong suggestions) alongside self-report trust; trust scales alone invert the conclusion.
+- Report the behavioral outcome (acceptance rate of wrong suggestions) alongside self-report trust; trust scales alone invert the conclusion.
 
 ## Connected Concepts
 
@@ -124,6 +126,7 @@ Calibration is also tested by the incentives of the trusted system itself. When 
 - [[social-norms-ai-use]] — the social risk that norms and disclosure run on
 
 ## Connected Articles
+- [[lucau-uneven-use-similar-trust-genai-2026]] — Uneven use, similar trust: generative AI in Denmark and Romania (Lucau, Voicu & Christensen 2026)
 - [[ilieva-agentic-genai-higher-education-2026]] — Perceived risk correlates positively with continued-use intention: informed adoption (Ilieva et al. 2026)
 - [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai]] — The teacher-student trust gap over control and agency in K-12 classroom AI
 - [[qu-wang-disclose-or-not-genai-2026]] — Disclosing AI use is driven by relational factors and comfort with instructors, not policy

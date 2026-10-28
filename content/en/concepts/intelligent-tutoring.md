@@ -2,7 +2,7 @@
 connected_resources: [deeptutor, openmaic]
 title: Intelligent Tutoring
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-25T18:35:00-04:00"
+updated: "2026-10-28T09:45:00-04:00"
 connected_faqs: [ai-agents-support-students-instructors, developing-ai-tutor, training-ai-tutors-to-guide-rather-than-answer, checking-whether-educational-ai-works, making-simulated-students-behave-like-learners]
 type: concept
 pedagogy: [scaffolding]
@@ -47,6 +47,7 @@ Training pedagogy into the model is a distinct route from prompting it: LearnLM 
 TeachLM argues the scarce ingredient is authentic learner–tutor interaction: fine-tuned on 100,000 hours of one-on-one tutoring, it roughly doubled student talk time and increased dialogue turns by 50%, after an earlier prompt-engineered tutor could not close the gap to human tutors ([[teachlm-post-training-llms-education|Perczel, Chow & Demszky (2025)]]).
 - **Supplying reference strategies lifts weak tutors, not strong ones.** Giving models the case literature's documented strategy raised immediate-response success for 10 of 11 models by an average of 9.9 points — Llama 4 Maverick from 41.0% to 64.8% — while the strongest model was unchanged at 71.3% ([[tutor-case-bench-challenging-behaviors-2026|Park et al. (2026)]]).
 - **Access to a tutor is not the same as learning from it.** Randomizing 153 proof-course students to earlier access to a chatbot and a feedback interface raised homework scores 2.56 points and left the unsupported exam unchanged, with each 100 chatbot messages tracking 3.02 points lower ([[ai-proof-learning-cognitive-offloading-2026|Chen et al. (2026)]]).
+- **Valid alternatives expose a responsiveness gap.** Simulating dialogues on 150 programming problems with more than one correct solution, four open-weight tutors opened with brute force 22.2 to 32.1 percent of the time and the optimal approach only 13.0 to 19.4 percent ([[cen-sonkar-muse-llm-tutors-multi-solution-2026|Cen & Sonkar (2026)]]).
 
 Intelligent Tutoring Systems represent one of the oldest and most researched areas of [[ai-education|AI in education]]. Unlike general-purpose LLM tutors, ITS traditionally use structured approaches: domain models (what to teach), [[student-modeling|student models]] (what the learner knows), and pedagogical models (how to teach). These components enable fine-grained tracking of student progress, misconception diagnosis, and adaptive sequencing.
 
@@ -153,7 +154,7 @@ Effective tutoring requires continual adaptation: [[zhang-tutormoments-2026|Zhan
 - **Teachable agents and the classification of disengaged dialogue:** [[rho-disengaged-conversational-behaviors-2026|Rho et al. (2026)]] ran a GPT-4-Turbo teachable agent inside Math Nation (Algebra and Geometry), where students identified which of two worked solutions contained a misconception, justified the correction, and taught the agent — a [[learning-by-teaching]] structure with a separate mentor agent scoring explanation quality. Over 6,933 problems opened and 22,143 interactions logged, they built a six-category conversational-disengagement classifier (human-in-the-loop: 1,682 annotated utterances, fine-tuned LLaMA 3, weighted F1 = 0.910, model-vs-human κ = 0.624) and used it to study 246 middle-school students. The methodological contribution is as important as the finding: when a classifier labels most of the corpus, prevalence results must be stress-tested against the human-annotated subset — and here the headline association (False Answering and Mocking predicting higher post-test) evaporated under exactly that test.
 ## Common Misconceptions
 
-**"A stronger model makes a better tutor."** Effectiveness hinges on pedagogical design — [[scaffolding|scaffolding]], feedback quality and the balance of autonomy and guidance — rather than on the underlying model. The clearest demonstration is the Apprentice Tutor College Algebra ITS: supplying GPT-4 with the tutor's *interface structure* and Bayesian [[knowledge-tracing]] skill estimates produced gains that the bare model did not, because the knowledge of how to teach lived in the system around the model.
+**"A stronger model makes a better tutor."** Effectiveness hinges on pedagogical design — [[scaffolding]], feedback quality and the balance of autonomy and guidance — rather than on the underlying model. The clearest demonstration is the Apprentice Tutor College Algebra ITS: supplying GPT-4 with the tutor's *interface structure* and Bayesian [[knowledge-tracing]] skill estimates produced gains that the bare model did not, because the knowledge of how to teach lived in the system around the model.
 
 **"Training pedagogy into a model and prompting pedagogy at it are the same intervention."** They are distinct routes with distinct evidence. LearnLM mixed pedagogical data into Gemini's post-training and was preferred by education experts over GPT-4o (**+31%**), Claude 3.5 Sonnet (**+11%**) and base Gemini. Prompt instructions are a cheap version of that; they do not reproduce a model whose disposition was shaped on pedagogical data.
 
@@ -183,6 +184,7 @@ Effective tutoring requires continual adaptation: [[zhang-tutormoments-2026|Zhan
 - [[k-12]]
 - [[speech-and-voice-technologies]]
 ## Connected Articles
+- [[cen-sonkar-muse-llm-tutors-multi-solution-2026]] — MUSE: revealing responsiveness gaps of LLM tutors on multiple-solution programming problems (Cen & Sonkar 2026)
 - [[ai-proof-learning-cognitive-offloading-2026]] — Supporting or replacing students’ reasoning? Cognitive offloading in AI-assisted proof learning (Chen et al. 2026)
 - [[tutor-case-bench-challenging-behaviors-2026]] — TutorCaseBench: evaluating LLM tutors on students with challenging behaviors (Park et al. 2026)
 - [[visual-access-proactive-ai-tutoring-handwritten-math-2026]] — A camera on handwritten work: visual access and proactive repair (Kotalwar et al. 2026)

@@ -2,7 +2,7 @@
 connected_resources: [drawsplat]
 title: Privacy
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-26T13:50:00-04:00"
+updated: "2026-10-28T09:45:00-04:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, ai-guidance-children-under-13, institutional-ai-policy]
 type: concept
 technology: [learning-analytics, personalized-learning]
@@ -43,6 +43,8 @@ Privacy is the precondition for trustworthy AI in education. Because AI systems 
 
 - **The proctoring evidence base is thin on ethics.** A review of 80 studies found 35% did not disclose their dataset, 40% evaluated a single model, 30% could not be reproduced and only 25% addressed ethical issues; false positives — flagging normal behavior — remain a core reliability risk ([[automated-online-exam-proctoring-decade-review-2026|Malhotra & Chhabra (2026)]]).
 
+- **Chat interfaces leak the conversation itself.** Auditing 42 AI chat platforms, [[bekos-contextual-leakage-ai-chat-platforms-2026|Bekos et al. (2026)]] found 21 sending conversation titles to third-party trackers, and the seven education platforms averaged about 367 tracker requests each, with five leaking context.
+
 ## Child safety and K-12 protections
 
 [[k-12]] settings demand stronger privacy safeguards because learners are minors. This extends privacy beyond data protection into [[pedagogical-safety]]: the tools children use must not merely protect their data but also protect them from harm. [[child-safety-genai|Child safety research]] shows that general-purpose safety classifiers often fail to detect education-related unsafe prompts from children, warning that schools cannot assume standard model safeguards protect younger users — they need child-specific evaluation, incident-grounded testing, and [[human-in-the-loop-ai|human oversight]]. The framing connects privacy to [[equity-in-ai-education|equity]]: who is protected by default safety and privacy practices reflects whose safety and autonomy a system treats as non-negotiable.
@@ -63,7 +65,7 @@ Privacy connects to [[learning-analytics]] (the data collector), [[personalized-
 - **"Proctoring captures a limited, well-understood slice of data."** A catalogue of what [[remote-proctoring|proctoring]] systems actually capture lists **facial images, identity documents, room scans including 360-degree sweeps, microphone audio, facial recognition** and more. The scope is broader than most consent processes describe.
 - **"The proctoring literature establishes the ethics of proctoring."** A review of **80 studies** found **35% did not disclose their dataset, 40% evaluated a single model, 30% could not be reproduced and only 25%** met the reporting bar. The evidence base is thin on exactly the questions an institution needs answered before deployment.
 - **"Privacy is a compliance checkbox rather than a design constraint."** Nearly every AI tool that personalises, predicts or assesses depends on learner data, which makes data minimisation a design decision. A tool that requires the data does not have an optional privacy setting; it has a data dependency that the design chose.
-- **Awareness of data practices does not follow from seeing them.** [[bergdahl-student-epistemic-agency-ai-2026|Bergdahl (2026)]] found **66% of 47 year 7 students** selecting the least protective option on chatbots reading their writing, and **47%** dismissing algorithmic influence as "just fun" — measured **one month after** a lesson in which the class watched its own logged behaviour projected live, reacted that it was "scary," and several stayed through recess to keep using the platform. Privacy instruction that makes the mechanism visible without making the cost concrete leaves the stance unchanged. The author notes the low scores here may be **more reliable than the high ones**, since no socially expected answer exists for these items whereas responsibility and governance invite the correct-sounding response.
+- **Awareness of data practices does not follow from seeing them.** [[bergdahl-student-epistemic-agency-ai-2026|Bergdahl (2026)]] found **66% of 47 year 7 students** selecting the least protective option on chatbots reading their writing, and **47%** dismissing algorithmic influence as "just fun" — measured **one month after** a lesson in which the class watched its own logged behavior projected live, reacted that it was "scary," and several stayed through recess to keep using the platform. Privacy instruction that makes the mechanism visible without making the cost concrete leaves the stance unchanged. The author notes the low scores here may be **more reliable than the high ones**, since no socially expected answer exists for these items whereas responsibility and governance invite the correct-sounding response.
 
 ## Connected Concepts
 
@@ -82,6 +84,7 @@ Privacy connects to [[learning-analytics]] (the data collector), [[personalized-
 - [[student-support-and-success]] — student records, cross-office data sharing, and federated risk modeling
 
 ## Connected Articles
+- [[bekos-contextual-leakage-ai-chat-platforms-2026]] — Penny for your prompts: contextual leakage in AI chat platforms (Bekos et al. 2026)
 - [[villegas-ch-federated-explainable-learning-analytics-2026]] — Federated and explainable learning analytics for privacy-preserving academic risk modeling (Villegas-Ch et al. 2026)
 - [[learning-analytics-to-educational-interventions-2026]] — From learning analytics to educational interventions: enablers of trustworthy LA-based interventions (Svetec, Divjak & Kadoić 2026)
 - [[automated-online-exam-proctoring-decade-review-2026]]

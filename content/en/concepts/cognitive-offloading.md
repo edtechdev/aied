@@ -1,7 +1,7 @@
 ---
 title: Cognitive Offloading
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-27T18:18:05-04:00"
+updated: "2026-10-28T09:45:00-04:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [metacognition, self-regulated-learning]
@@ -90,6 +90,7 @@ The knowledge base's articles document cognitive offloading across multiple dime
 
 [[gillette-partnership-ethics-genai-higher-education-2026|Gillette et al. (2026)]] record offloading as participants' own experience rather than a theoretical risk: one said genAI "prohibited me from actually reading and finding out myself what is important in the text, to develop reading skills", and another feared "the long-term development, where I become worse in certain skills that I now am very strong in".
 - **The effect lives in the division of labor, not in the tool.** Nakamura (2026) argues that the heterogeneity in GenAI learning effects dissolves once the unit of analysis becomes the partition of cognitive labor between learner and machine. Offloading augments learning when it discharges operations peripheral to the current goal, and risks erosion when it bypasses the processing constitutive of that goal ([[nakamura-augmentation-erosion-cognitive-offloading-stem-2026|Nakamura, 2026]]). Substantively processing the output, or later reconstructing it, is what rescues an otherwise constitutive offload.
+- **What a person may hand over depends on their experience of the task.** [[akcaoglu-offloading-ladder-experience-2026|Akcaoglu (2026)]] makes task order person-relative: what is higher-order for a novice is lower-order for someone who already holds the procedure, so permitted offloading should grow with experience and stop at the core of the work.
 
 ## Over-reliance: when offloading becomes harmful
 
@@ -182,6 +183,7 @@ The same logic turns reward shaping into a design tool: [[assistance-dilemma-rl-
 - [[cognitive-surrender]]
 
 ## Connected Articles
+- [[akcaoglu-offloading-ladder-experience-2026]] — The Offloading Ladder: how experience changes what learners and practitioners should hand to AI (Akcaoglu 2026)
 - [[ai-proof-learning-cognitive-offloading-2026]] — Supporting or replacing students’ reasoning? Cognitive offloading in AI-assisted proof learning (Chen et al. 2026)
 - [[llm-math-homework-offloading-traces-2026]] — What the submission does not show: complexifying cognitive offloading in students’ mathematical work with LLMs (Kontorovich & Wallach 2026)
 - [[genai-support-threaten-learning-k20-expert-consensus-2026]] - A 30-expert consensus over 65 learning processes: offloading at both ends of the learning sequence
