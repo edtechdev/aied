@@ -1,7 +1,7 @@
 ---
 title: "How Should I Incorporate AI Literacy into My Course?"
 created: "2026-08-24T09:50:00-04:00"
-updated: "2026-10-21T14:32:00-04:00"
+updated: "2026-10-28T11:06:17-04:00"
 connected_faqs: [verify-ai-output, how-ai-impacts-students, ai-literacy-evidence]
 weight: 86
 foundations: [ai-literacy, cognitive-offloading, learning-design]
@@ -9,71 +9,146 @@ assessment: [assessment]
 level: [higher ed]
 audience: [instructors, instructional designers]
 reviewed_by: [editor]
+contributors: [editor]
+ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: revision
+    date: "2026-10-28"
+    agent: hermes-agent
 ---
-The strongest approach is to treat **[[ai-literacy|AI literacy]] as part of disciplinary learning**, not as a standalone lesson on how to use ChatGPT. Students develop more useful AI literacy when they repeatedly **use, question, verify, critique, and make decisions about AI in authentic course tasks** rather than simply learning prompting techniques or attending a one-off orientation. Effective instruction combines practical competence with critical evaluation, ethical awareness, [[metacognition]], and attention to when AI should *not* be trusted or used.
 
-A useful design principle is **think first, AI second**. Ask students to form an initial interpretation, solution, argument, prediction, or draft before consulting AI. They can then compare their thinking with the AI's output, identify agreements and discrepancies, verify claims, and decide what—if anything—to adopt. This keeps AI from substituting for the cognitive work the assignment is intended to develop. This approach connects directly to concerns about [[cognitive-offloading|cognitive offloading]] and [[ai-misuse-learning-harm|AI misuse]], where immediate performance can improve even while independent learning suffers.
+Your program review says graduates need AI literacy, and nobody has told you what that means for the term you actually teach. Or the course you inherited has a session labeled "AI tools" that no one can defend, and you have to decide whether to keep it. Or you have watched a student paste a prompt, accept the first answer and submit, and you want the next assignment to interrupt that.
 
-A 2026 synthesis of **72 empirical studies** of [[generative-ai|generative AI]] in [[cs-education|computing education]] makes the point sharper and gives it numbers. [[generative-ai|Generative AI]] reliably raises short-term completion and reduces time-on-task (36 studies — the corpus's strongest, most replicated result), yet those efficiency gains "do not transfer to independent performance" (21 studies): students complete more while understanding less unless critical engagement with the output is structurally required. Benefit also depends on [[prior-knowledge|prior knowledge]] — well-prepared students convert AI help into durable skill, while under-prepared students risk using it as a crutch that removes [[productive-failure|productive failure]]. The authors recommend **graduated access** as a default: AI-free foundations first, then guided use with mandatory explanation tasks, then reflective critique. See [[kumar-genai-computing-education-systematic-review-2026|Generative AI in computing education: a systematic review and a framework for responsible integration]].
+The bottom line: add a step to work you already grade, where students commit to their own answer first, compare it with the tool's, and defend what they kept. Literacy that lasts is disciplinary, repeated, and assessed as judgment rather than recalled as a definition.
 
-## Require evaluation, not just generation
+## The short version
 
-AI literacy activities should require **evaluation, not just generation**. Students might annotate an AI response for factual errors, unsupported claims, bias, missing perspectives, inappropriate confidence, or weak disciplinary reasoning. They can compare AI output with readings, empirical evidence, professional standards, or a course [[assessment|rubric]].
+**1.** Attach the work to a task you already grade. A standalone module in week two is the weakest version of this.
 
-One particularly useful pattern is to make the AI produce something plausible but imperfect and ask students to serve as the critic or editor. Identifying AI mistakes is an important route to stronger calibration and [[critical-thinking|higher-order thinking]].
+**2.** Make students produce an answer before the tool produces one, and make the comparison the assignment.
 
-Treat evaluation as a **teachable competence in its own right**, not a by-product of subject knowledge. In the computing-education synthesis, students performed significantly *worse* on correcting AI-generated code than on traditional programming [[summative-assessment|examination]] tasks — direct evidence that evaluating and repairing AI output does not transfer automatically from general disciplinary skill, and that without instruction students risk resubmitting incorrect work uncritically. The review consolidates this into its **VIE framework** (Verification, Implementation, Equity) and argues that critical engagement should be a **graded, observable component** of student work rather than an aspiration left to discretion — "the common mechanism linking every effective intervention in the corpus".
+**3.** Grade the evaluation and repair of AI output, not the generation of it. That competence does not transfer on its own.
 
-## Make AI literacy disciplinary and recurring
+**4.** Name the errors AI makes in your field, in your field's language, and repeat the exercise more than once.
 
-Newer work also pushes back on **skill-list conceptions** of AI literacy — and shows what that looks like in practice. Burriss et al. had 22 eleventh-grade students compose video public service announcements about the AI-[[ethics]] issues they actually lived with: school surveillance, electronic "hall passes", and algorithmic [[academic-integrity|plagiarism]] accusation. Grounded in Critical Posthumanist Literacy and [[multimodal|multimodal composition]], the unit asked youth to translate abstract principles into emotionally resonant films; students overwhelmingly portrayed harm as emerging from tangled human–machine responsibility rather than a villainous tool, flipped the cheating narrative to adults' overreliance on faulty AI, and still closed on [[agency]] ("the solution is in our reach"). The authors argue that [[storytelling-in-education|storytelling]] and collaborative, creative production belong at the center of [[critical-pedagogy|critical AI literacy pedagogy]] — and that requiring students to compose *about* AI, for a real audience, develops critical competence that conventional competency scales, which assume individually measurable performance, cannot see. See [[burriss-multimodal-composition-critical-ai-literacy-2026|"Young Scholar[s] on the Beat": multimodal composition as a form of critical AI literacy pedagogy]].
+**5.** Assess judgment with a case, not confidence with a survey.
 
-Where possible, make these activities **[[discipline-specific-aied|discipline-specific]] and recurring**. Generic rules such as "check AI for [[hallucination-risk|hallucinations]]" are less useful than showing students what unreliable AI output looks like in *your* field: fabricated citations in history, invalid assumptions in economics, misleading interpretations of experimental evidence in [[biology-education|biology]], poorly justified design decisions in engineering, or superficially fluent but methodologically weak writing in psychology.
+## Do not add a lesson, add a step to work you already grade
 
-The knowledge base's AI literacy synthesis argues that movement toward critical evaluation is most evident when AI-literacy experiences are sustained and embedded in authentic coursework rather than isolated workshops. See [[ai-literacy-continuum-higher-education|A Practical Five-Stage Continuum for AI Literacy in Higher Education]]. This is consistent with the [[quantitative-research|quantitative]] evidence: a [[liu-ai-literacy-interventions-meta-analysis-2026|meta-analysis of 59 AI-literacy interventions]] found the largest effects for integrated and reflective pedagogies, while cautioning that knowledge-focused interventions show larger measured effects than those targeting skills, attitudes, or ethics.
+The default institutional move is a standalone module, usually early in the term, on how large language models work and how to write prompts. The [[ai-literacy]] synthesis argues for a different arrangement: students develop more useful literacy when they use, question, verify, critique and decide about AI inside authentic course tasks, repeatedly. Movement toward critical evaluation is most evident where those experiences are sustained and embedded rather than delivered once ([[ai-literacy-continuum-higher-education|A Practical Five-Stage Continuum for AI Literacy in Higher Education]]).
 
-## Include collaborative learning
+The [[quantitative-research|quantitative]] evidence points the same direction. A [[liu-ai-literacy-interventions-meta-analysis-2026|meta-analysis of 59 AI-literacy interventions]] found the largest effects for integrated and reflective pedagogies. It also cautions that knowledge-focused interventions show larger *measured* effects than those targeting skills, attitudes or ethics. Keep that in mind when you choose what to measure.
 
-Collaborative activities can strengthen this work. The [[icap-framework|ICAP framework]] suggests moving beyond passive exposure toward active, constructive, and interactive engagement. Students can compare prompts in pairs, debate whether an AI answer is trustworthy, jointly revise an AI-generated product, or explain to peers why they accepted or rejected particular suggestions.
+The other reason to build on existing work is workload. A 2026 synthesis of 72 empirical studies of [[generative-ai|generative AI]] in [[cs-education|computing education]] finds the strongest, most replicated result in the corpus is that AI reliably raises short-term completion and reduces time on task, across 36 studies. Those gains "do not transfer to independent performance," according to 21 studies. Students complete more while understanding less unless critical engagement with the output is structurally required ([[kumar-genai-computing-education-systematic-review-2026|Generative AI in computing education: a systematic review and a framework for responsible integration]]).
 
-Importantly, the evidence supports cognitively [[active-learning|active]] and [[collaborative-learning|collaborative]] designs. See [[hingle-collaborative-ai-literacy-2025|Systematic Review of Collaborative Learning Activities for Promoting AI Literacy]].
+Benefit also depends on [[prior-knowledge|prior knowledge]]. Well-prepared students convert AI help into durable skill. Under-prepared students risk using it as a crutch that removes [[productive-failure|productive failure]]. The review's default recommendation is graduated access: AI-free foundations first, then guided use with mandatory explanation tasks, then reflective critique. That sequence fits an existing course far more easily than a new unit does. [[learning-design]] is where to work out the staging, and [[curriculum-design]] is the program-level version of the same problem.
 
-## Assess demonstrated judgment, not just confidence
+## Make them commit before the tool answers
 
-[[assessment]] should focus on **demonstrated judgment rather than confidence or [[self-report-measures|self-reported]] skill**. Students often overestimate how well they can evaluate AI. Instead of asking whether they "feel confident using AI," give them tasks requiring them to detect errors, verify sources, improve an output, explain limitations, or justify why a particular use of AI is appropriate.
+Think first, AI second. Ask students to form an initial interpretation, solution, argument, prediction or draft before they consult anything. They then compare their thinking with the output, name the agreements and discrepancies, verify the claims, and decide what to adopt. That keeps the tool from substituting for the cognitive work the assignment exists to develop, which is the concern behind [[cognitive-offloading]] and [[ai-misuse-learning-harm]]: immediate performance can improve while independent learning suffers.
 
-The knowledge base highlights a significant mismatch between self-reported and performance-based AI literacy and recommends performance-based assessment. See [[ai-literacy-assessment-misalignment|AI Literacy Assessment: Self-Reported vs Performance Misalignment]] and [[jin-glat-genai-literacy-assessment|GLAT: The Generative AI Literacy Assessment Test]].
+What happens without that structure is well documented. Yan et al.'s presage-process-product study of 38 undergraduates found that 76.32% relied on a single-turn ask, get an answer, stop pattern, and 78.94% integrated generative AI only before starting or after drafting. Even mastery-oriented students defaulted to surface processes. The authors call the result an efficiency paradox, where speed is gained at the cost of the cognitive work that builds schemas, and quote a student: "the speed at which you forget it is also very fast." They locate the cause in an institutional vacuum, where instructors prohibit copying but rarely teach productive use ([[yan-cognitive-outsourcing-genai-assessments-2026|From cognitive outsourcing to reallocation]]).
 
-This matters because unsupervised use defaults to the weakest form. Yan et al.'s presage–process–product study of 38 undergraduates found that **76.32%** relied on a single-turn ask–get answer–stop pattern, **78.94%** integrated generative AI only before starting or after drafting, and even mastery-oriented students defaulted to surface processes — an *efficiency paradox* in which speed is gained at the cost of the cognitive work that builds schemas ("the speed at which you forget it is also very fast"). The authors locate the cause in an "institutional vacuum": instructors prohibit copying but rarely teach productive use. Requiring process artifacts — the dialogue history, a reflection note on how AI was used, a revision log — makes the workflow visible and turns [[self-regulated-learning|self-regulation]] into something gradeable. See [[yan-cognitive-outsourcing-genai-assessments-2026|From cognitive outsourcing to reallocation: a 3P analysis of student–generative AI engagement in unsupervised assessments]].
+Requiring process artifacts is the cheap fix. The dialogue history, a reflection note, a revision log: any of these makes the workflow visible, gives [[metacognition]] something to attach to, and turns [[self-regulated-learning|self-regulation]] into something you can grade. It also gives you the evidence a misconduct conversation would otherwise lack.
 
-**Scenario-based measurement gives you a judgment measure rather than a confidence measure.** [[reed-ai-literacy-ethical-judgment-scenarios-2026|Reed et al. (2026)]] put vignettes to undergraduates — using AI to improve grammar in one's own draft, generating search terms before doing the reading oneself, submitting an AI-generated reflection journal without personal input, minimally editing a generated assignment — and asked whether each was ethical. The pattern they report is that students converge on the clear cases and diverge most where the tool did part of the intellectual work, which is exactly the boundary a course policy has to state. That makes vignettes a usable classroom instrument: they surface the disagreements your policy is silently relying on, and they measure judgment about a case rather than self-reported proficiency.
+## Put points on the critique
 
-## Issues and cautions
+Students can annotate an AI response for factual errors, unsupported claims, bias, missing perspectives, inappropriate confidence or weak disciplinary reasoning. They can hold it against the readings, the empirical evidence, professional standards or the course [[assessment|rubric]].
 
-**Do not equate AI literacy with [[prompt-engineering|prompt engineering]].** Students can become technically proficient with AI while remaining poor judges of its output. Some skill-oriented dimensions of AI literacy are positively associated with reported AI dependency, suggesting that operational training without self-[[regulation]], academic confidence, and [[self-regulated-learning|metacognitive support]] can inadvertently encourage greater reliance.
+The pattern worth building a task around is plausible but imperfect output plus a student in the critic's or editor's chair. Finding the mistakes is one of the more reliable routes to calibration and [[critical-thinking|higher-order thinking]].
 
-**AI literacy has an interactional dimension — and it presupposes the very skills it is meant to build.** Brunnström and Palmqvist's eight-round demonstration of a "naive student" using a [[conversational-ai|chatbot]] on a take-home examination found the default output "polished but pedagogically thin", and that reaching a usable learning loop required eight rounds of learner meta-interventions ("simplify", "this is overwhelming, can you condense it?"). They name the capacity **AI-interaction literacy** — steering, evaluating, and learning from iterative interaction with generative AI — and draw a sharp equity conclusion: because unguided use imposes a competence that is unevenly distributed, generative AI "may be most beneficial to already advantaged students". Teaching the *interaction*, not just the tool, is therefore an equity measure as much as a [[pedagogy|pedagogical]] one. See [[brunnstrom-ai-interaction-literacy-srl-2026|AI-interaction literacy: reflections on how generative AI might be used to support self-regulated learning in higher education]] and [[how-ai-impacts-students|How is AI impacting students?]].
+Treat that as a competence you teach, because it does not arrive with subject knowledge. In the computing-education synthesis, students performed significantly *worse* on correcting AI-generated code than on traditional programming [[summative-assessment|examination]] tasks. That is direct evidence that evaluating and repairing output does not transfer automatically from general disciplinary skill, and that without instruction students will resubmit incorrect work without noticing. The review folds this into its VIE framework (Verification, Implementation, Equity) and argues that critical engagement should be a graded, observable component of student work, calling it "the common mechanism linking every effective intervention in the corpus."
 
-Likewise, **literacy instruction cannot solve model-level problems by itself**. Training can reduce some errors without eliminating them. In research on contextual sycophancy, AI-literacy and prompting instruction reduced direct mirroring of users' errors but did not completely prevent those errors from propagating into later AI advice. Students therefore need to understand that "better prompting" does not make an AI system inherently reliable. See [[contextual-sycophancy-ai-literacy|The Hidden Cost of Contextual Sycophancy]] and [[ai-sycophancy|AI Sycophancy]].
+Practical version: one rubric line for the error you expected them to catch, one for the repair, one for the justification. If the critique carries no points, it gets three sentences on the way out the door.
 
-**[[equity-in-ai-education|Equity]] also matters.** Students enter courses with different prior access to paid tools, different experience prompting models, different language backgrounds, and different levels of digital confidence. Requiring sophisticated AI use without providing equitable access and foundational support can turn prior exposure into an academic advantage. Access, skills, and outcomes are separate dimensions of the [[digital-divide|digital divide]].
+## Make it specific to your field, and repeat it
 
-## Examples from the AI in Education knowledge base
+Generic rules such as "check AI for [[hallucination-risk|hallucinations]]" are weaker than showing students what unreliable output looks like in your discipline. Fabricated citations in history. Invalid assumptions in economics. Misleading interpretations of experimental evidence in [[biology-education|biology]]. Poorly justified design decisions in engineering. Superficially fluent but methodologically weak writing in psychology.
 
-- **Economics:** Students solve an economics problem first, obtain a GenAI response, compare it with their reasoning, critique the AI, reflect, and discuss with peers. See [[beck-genai-literacy-economics-hands-on|Fostering Generative AI Literacy in Economics]].
-- **Psychology:** Students evaluate a ChatGPT-generated media release against a course rubric, identify weaknesses, and revise it. This simultaneously develops disciplinary, feedback, and AI literacy. See [[richmond-nicholls-genai-psych-feedback-ai-literacies|Using Generative AI to Promote Psychological, Feedback, and AI Literacies]].
-- **Biology:** AI-literacy activities are integrated into disciplinary learning rather than taught as a separate technical topic. See [[zha-ai-literacy-biology-case-study|Integrating AI Literacy Education in a Biology Class]].
-- **Database/design coursework:** Students analyze AI-generated errors and iteratively improve prompts and solutions, using failure analysis as the learning activity. See [[pedagogy-ai-mistakes|The Pedagogy of AI Mistakes]].
-- **Cross-disciplinary university courses:** The **LearnAI** model uses just-in-time AI co-creation embedded across disciplines rather than a single generic AI-literacy module. See [[learnai-just-in-time-ai-cocreation-university-2026|LearnAI: Just-in-Time AI Co-Creation Across Disciplines]].
-- **[[physics-education|Physics]]:** A redesigned introductory particle-physics course allowed generative AI as an explicit partner on research-shaped problems, but an unaided written examination (mean **20.6 out of 80**, only two students reaching 40) warned that assisted performance and independently retrievable knowledge are distinct achievements — so the authors argue AI literacy, including how to verify generated answers and treat AI as a teacher rather than a copier, should be taught **early**, alongside dedicated unaided practice. See [[ai-particle-physics-education-redesign-2026|AI in particle physics education: research problems and foundational skills]].
-- **Program-level [[curriculum-design|curriculum design]]:** The **AI Literacy Continuum** provides a developmental model moving students from non-use or uncritical use toward informed use, critical evaluation, and improvement. See [[ai-literacy-continuum-higher-education|A Practical Five-Stage Continuum for AI Literacy in Higher Education]].
+Write that list yourself, from your own marking, before the term starts. Five examples from your field will do more work than a general checklist, and they double as the error bank for the critique task above.
 
-## Practical takeaway
+Repetition is the other half. One exercise in week three produces a student who has done the exercise. The same exercise in three assignments, on different material, produces a habit, and the cases in this corpus that show [[discipline-specific-aied|discipline-specific]] integration are the ones where the practice recurs across a course rather than sitting in a single session.
 
-A practical [[learning-design|course design]] is not simply **"Week 2: How to use ChatGPT."** Instead, identify several places where AI intersects with important disciplinary judgments and build repeated cycles of:
+## Borrow the models that already exist in your field
 
-**independent thinking → AI use → verification → critique → revision → reflection**
+You do not have to invent the design. Several are documented, and each is small enough to copy.
 
-Students should eventually be able to explain not merely *how* they used AI, but **why they trusted some outputs, rejected others, what they verified, what cognitive work remained their responsibility, and when using AI would undermine the purpose of the task**.
+Economics students solve a problem first, obtain a GenAI response, compare it with their reasoning, critique the AI, reflect, then discuss with peers ([[beck-genai-literacy-economics-hands-on|Fostering Generative AI Literacy in Economics]]).
 
-That combination is much closer to the AI-literacy construct supported by the current evidence base than operational proficiency alone. For how strong that evidence base actually is — and where it thins out — see [[ai-literacy-evidence|What is the evidence on AI literacy interventions in higher education?]].
+Psychology students evaluate a ChatGPT-generated media release against a course rubric, identify the weaknesses, and revise it, which develops disciplinary and feedback literacy in the same task ([[richmond-nicholls-genai-psych-feedback-ai-literacies|Using Generative AI to Promote Psychological, Feedback, and AI Literacies]]).
+
+Biology integrates the activities into disciplinary learning rather than teaching a separate technical topic ([[zha-ai-literacy-biology-case-study|Integrating AI Literacy Education in a Biology Class]]). Database and design coursework uses failure analysis as the learning activity, with students analyzing AI-generated errors and iterating on prompts and solutions ([[pedagogy-ai-mistakes|The Pedagogy of AI Mistakes]]). The LearnAI model embeds just-in-time AI co-creation across disciplines instead of running one generic module ([[learnai-just-in-time-ai-cocreation-university-2026|LearnAI: Just-in-Time AI Co-Creation Across Disciplines]]).
+
+One caution comes with a number. A redesigned introductory particle-physics course allowed generative AI as an explicit partner on research-shaped problems, and an unaided written examination returned a mean of 20.6 out of 80, with only two students reaching 40 ([[ai-particle-physics-education-redesign-2026|AI in particle physics education]]). Assisted performance and independently retrievable knowledge are distinct achievements. The authors argue for teaching AI literacy, including verification and treating AI as a teacher rather than a copier, early, alongside dedicated unaided practice. [[physics-education|Physics education]] has the fuller case.
+
+There is also a version where students make something for a real audience. Burriss et al. had 22 eleventh-grade students compose video public service announcements about the AI [[ethics]] issues they lived with: school surveillance, electronic "hall passes," and algorithmic [[academic-integrity|plagiarism]] accusation. The unit drew on Critical Posthumanist Literacy and [[multimodal|multimodal composition]]. Students portrayed harm as emerging from tangled human-machine responsibility rather than a villainous tool, flipped the cheating narrative toward adults' overreliance on faulty AI, and closed on [[agency]] ("the solution is in our reach"). The authors place [[storytelling-in-education|storytelling]] and collaborative production at the center of [[critical-pedagogy|critical AI literacy pedagogy]], and argue that composing *about* AI for a real audience develops critical competence that competency scales cannot see ([[burriss-multimodal-composition-critical-ai-literacy-2026|"Young Scholar[s] on the Beat"]]). That claim is an argument from one unit with 22 students, so read it as a design idea rather than an effect size.
+
+## Keep it social where it is cheap
+
+Collaboration is the least expensive way to raise the cognitive demand of an AI task. The [[icap-framework|ICAP framework]] moves students from passive exposure toward active, constructive and interactive engagement. In practice: pairs compare prompts, groups debate whether an answer is trustworthy, teams jointly revise an output, or one student explains to another why a suggestion was rejected.
+
+The evidence supports cognitively [[active-learning|active]] and [[collaborative-learning|collaborative]] designs ([[hingle-collaborative-ai-literacy-2025|Systematic Review of Collaborative Learning Activities for Promoting AI Literacy]]). The cost is a discussion structure, not a new assessment.
+
+## Assess judgment with a task
+
+Students overestimate how well they can evaluate AI, and a [[self-report-measures|self-reported]] confidence item will confirm the error rather than expose it. The knowledge base documents a significant mismatch between self-reported and performance-based AI literacy, and recommends performance assessment ([[ai-literacy-assessment-misalignment|AI Literacy Assessment: Self-Reported vs Performance Misalignment]]; [[jin-glat-genai-literacy-assessment|GLAT]]).
+
+Instead of a confidence item, give them something to do: detect an error, verify a source, improve an output, explain a limitation, justify why a particular use of AI is appropriate for a particular task.
+
+Scenarios work well as the instrument, and they are easy to write. [[reed-ai-literacy-ethical-judgment-scenarios-2026|Reed et al. (2026)]] put vignettes to undergraduates: using AI to improve grammar in one's own draft, generating search terms before doing the reading oneself, submitting an AI-generated reflection journal without personal input, minimally editing a generated assignment. Students converged on the clear cases and diverged most where the tool did part of the intellectual work. That divergence is exactly the boundary your policy is silently relying on, so running the vignettes tells you where your course needs to say something explicit. It also measures judgment about a case rather than proficiency in the abstract.
+
+## Decide what the course cannot fix
+
+A few limits are worth stating before someone else raises them.
+
+[[prompt-engineering|Prompt engineering]] is not AI literacy. Students can become technically proficient while remaining poor judges of output, and some skill-oriented dimensions of AI literacy are positively associated with reported AI dependency. Operational training without self-[[regulation]], academic confidence and [[self-regulated-learning|metacognitive support]] can increase reliance rather than reduce it.
+
+Interaction is a skill the tool does not supply. Brunnström and Palmqvist's eight-round demonstration of a "naive student" using a [[conversational-ai|chatbot]] on a take-home examination found the default output "polished but pedagogically thin," and that reaching a usable learning loop took eight rounds of learner interventions ("simplify," "this is overwhelming, can you condense it?"). They name the capacity AI-interaction literacy, meaning the ability to steer, evaluate and learn from iterative interaction. Their equity conclusion is the sharp one: because unguided use imposes a competence that is unevenly distributed, generative AI "may be most beneficial to already advantaged students" ([[brunnstrom-ai-interaction-literacy-srl-2026|AI-interaction literacy]]; [[how-ai-impacts-students|How is AI impacting students?]]). Teaching the interaction is an equity measure as much as a [[pedagogy|pedagogical]] one.
+
+Better prompting does not fix the model. In research on contextual sycophancy, AI-literacy and prompting instruction reduced direct mirroring of users' errors without completely preventing those errors from propagating into later advice ([[contextual-sycophancy-ai-literacy|The Hidden Cost of Contextual Sycophancy]]; [[ai-sycophancy|AI Sycophancy]]). Students need to know that instruction changes what they get, not what the system is.
+
+[[equity-in-ai-education|Equity]] runs through all of it. Students arrive with different access to paid tools, different prompting experience, different language backgrounds and different digital confidence. Requiring sophisticated use without equitable access and foundational support turns prior exposure into an academic advantage, and access, skills and outcomes are separate dimensions of the [[digital-divide|digital divide]]. Before you design a task that requires a paid tool, check who in the room actually has one.
+
+## What instructors get wrong about this
+
+AI literacy means teaching prompting. Prompting is the visible part. Students can become technically proficient with these tools while remaining poor judges of what comes out of them, and the dependency finding above points the same way.
+
+One session covers it. A session can introduce vocabulary. The evidence for repeated practice on real course material is stronger, and the meta-analysis of 59 interventions found the largest effects where the work was integrated and reflective.
+
+Students who use these tools daily can already evaluate output. Yan et al. found 76.32% of 38 undergraduates in a single-turn pattern, and the computing synthesis found students significantly worse at correcting AI-generated code than at ordinary programming examination tasks. Familiarity with the interface is not calibration.
+
+The activity has to be about the tool. The stronger designs are about the discipline, with the tool inside it. Economics students critiquing an AI solution, psychology students revising a generated media release: the object of study stays the subject matter.
+
+Critical evaluation transfers from subject knowledge. It does not, which is why the computing result matters. A student who can write correct code is not automatically able to diagnose incorrect code someone else wrote, and the same gap appears in prose.
+
+Confidence is a usable proxy. Self-report and performance diverge in this literature, and the divergence is systematic enough that the knowledge base recommends performance measures. Ask for a demonstration.
+
+## What will come back at you
+
+**"There is no room in a content-heavy syllabus."** Then do not add content. Attach one critique step to an existing assignment and count it once. The economics and psychology designs above take the assignment students already had and change what they do with the AI output.
+
+**"My students already know how to use ChatGPT."** They know the interface. The 76.32% single-turn figure is what fluency looks like without instruction, and it is the pattern your course is meant to interrupt.
+
+**"Teaching them to use AI will just encourage more use."** It can, and the honest version of that risk is in the literature: skill-oriented training without metacognitive support is associated with greater reported dependency. That is an argument for pairing the training with reflection and unaided practice, which is what graduated access is for.
+
+**"Reflection and critique are too subjective to grade."** They are subjective when the rubric says "thoughtful." They become gradeable when you name the error to be caught, the repair, and the justification, which is the same move as any other rubric line.
+
+**"Our students are underprepared, so AI will widen the gap."** The evidence supports the worry. Prior knowledge conditions whether AI help becomes skill, and the interaction study concludes the tools may favor already advantaged students. Graduated access, AI-free foundations and taught interaction are the responses the corpus offers, and each is something you can set up this term.
+
+**"This is the library's job, or the writing center's."** Those services can teach generic evaluation. Only your course can teach what a weak argument looks like in your discipline, and that is the version students carry into your assignments.
+
+## What to do this week
+
+**1.** Pick one assignment you already teach and add a commit-first step: outline, prediction or draft before any tool opens.
+
+**2.** Write down the three errors AI most often makes in your field, using examples from your own marking.
+
+**3.** Turn one of them into a critique task with three rubric lines: catch it, repair it, justify the repair.
+
+**4.** Replace one confidence question on your next survey or exit ticket with a two-sentence scenario and ask what the student would do.
+
+**5.** Decide and state the access rule for your course, including which tools are permitted and whether any require a paid account.
+
+## Where to go next
+
+[[ai-literacy-evidence|What is the evidence on AI literacy interventions in higher education?]] is the honest assessment of how strong this base is and where it thins out. [[how-ai-impacts-students]] covers the student side, [[verify-ai-output]] covers the verification habit students need, and [[ai-literacy-assessment-misalignment]] is the place to go if you are building the measure rather than the lesson. [[cognitive-offloading]] explains the mechanism underneath the commit-first rule.
