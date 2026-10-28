@@ -11,7 +11,7 @@ confidence: high
 methods: [ai-ed-evaluation]
 reviewed_by: [editor]
 translation_of: concepts/learning-gains
-source_updated: "2026-10-12T09:45:00-04:00"
+source_updated: "2026-10-28T00:51:33-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -46,7 +46,7 @@ Risultati chiave della knowledge base:
 - La **[[lak2026-hint-button-unproductive-use|ricerca sui pulsanti di suggerimento]]** mostra associazioni negative tra abuso dei suggerimenti e incrementi di apprendimento — più suggerimenti correlano con meno apprendimento.
 - Gli studi sulla **[[instructional-guidance-genai-learning|guida didattica]]** dimostrano che gli incrementi di apprendimento dipendono da COME si usa l'IA, non solo dal fatto che sia disponibile.
 - La **[[burneo-can-edtech-close-learning-gaps-2026|meta-analisi della Banca Mondiale]]** aggrega 191 dimensioni d'effetto provenienti da 14 RCT per stimare che l'EdTech adattiva e abilitata dall'IA aumenti l'apprendimento di circa 0,125 ds in media — al di sopra della mediana degli RCT in educazione — pur non riscontrando alcun vantaggio dell'IA generativa rispetto agli strumenti adattivi precedenti.
-- **Gli incrementi sono interazioni contenuto-trattamento, non costanti.** [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit et al. (2025)]] mostrano che il rapporto ottimale tra esempi e problemi dipende dal contenuto di conoscenza: la pura [[mastery-learning|pratica di recupero]] produce incrementi maggiori per i fatti verbatim, mentre la pratica integrata con esempi (alternanza di esempi svolti e problemi) produce incrementi maggiori per le abilità generalizzabili — evidenza diretta del fatto che «più pratica» non è sempre meglio e che gli incrementi dipendono dall'adattare il programma di addestramento alla componente di conoscenza che si sta apprendendo.
+- **Gli incrementi sono interazioni contenuto-trattamento, non costanti.** [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit et al. (2025)]] mostrano che il rapporto ottimale tra esempi e problemi dipende dal contenuto di conoscenza: la pura [[retrieval-spacing-interleaving|pratica di recupero]] produce incrementi maggiori per i fatti verbatim, mentre la pratica integrata con esempi (alternanza di esempi svolti e problemi) produce incrementi maggiori per le abilità generalizzabili — evidenza diretta del fatto che «più pratica» non è sempre meglio e che gli incrementi dipendono dall'adattare il programma di addestramento alla componente di conoscenza che si sta apprendendo.
 
 ### Il problema della misurazione nell'era dell'IA
 

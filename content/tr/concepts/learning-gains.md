@@ -11,7 +11,7 @@ confidence: high
 methods: [ai-ed-evaluation]
 reviewed_by: [editor]
 translation_of: concepts/learning-gains
-source_updated: "2026-10-12T09:45:00-04:00"
+source_updated: "2026-10-28T00:51:33-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -46,7 +46,7 @@ Bilgi tabanından temel bulgular:
 - **[[lak2026-hint-button-unproductive-use|Hint button research]]**, ipucu kötüye kullanımı ile öğrenme kazanımları arasında olumsuz ilişkiler gösterir — daha fazla ipucu daha az öğrenmeyle ilişkilidir.
 - **[[instructional-guidance-genai-learning|Instructional guidance]]** çalışmaları, öğrenme kazanımlarının YZ’nin NASIL kullanıldığına değil, yalnızca erişilebilir OLUP OLMADIĞINA bağlı olduğunu gösterir.
 - **[[burneo-can-edtech-close-learning-gaps-2026|World Bank meta-analysis]]**, uyarlanabilir ve YZ destekli EdTech’in ortalama olarak öğrenmeyi ~0,125 standart sapma yükselttiğini kestirmek üzere 14 RCT’den 191 etki büyüklüğünü havuzlaştırır — eğitim RCT’lerinin medyanının üzerinde — oysa üretken YZ için önceki uyarlanabilir araçlara göre hiçbir avantaj bulmaz.
-- **Kazanımlar sabitler değil, içerik–uygulama etkileşimleridir.** [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit et al. (2025)]], en uygun örnek–problem oranının bilgi içeriğine bağlı olduğunu gösterir: saf [[mastery-learning|retrieval practice]], kelimesi kelimesine olgular için daha yüksek kazanımlar sağlarken örnek bütünleşmeli pratik (çözümlenmiş örneklerle problemleri dönüşümlü olarak sunmak) genelleştirilebilir beceriler için daha yüksek kazanımlar sağlar — “daha fazla pratik”in her zaman daha iyi olmadığına ve kazanımların alıştırma programının öğrenilen bilgi bileşenine eşleştirilmesine bağlı olduğuna doğrudan kanıt.
+- **Kazanımlar sabitler değil, içerik–uygulama etkileşimleridir.** [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit et al. (2025)]], en uygun örnek–problem oranının bilgi içeriğine bağlı olduğunu gösterir: saf [[retrieval-spacing-interleaving|retrieval practice]], kelimesi kelimesine olgular için daha yüksek kazanımlar sağlarken örnek bütünleşmeli pratik (çözümlenmiş örneklerle problemleri dönüşümlü olarak sunmak) genelleştirilebilir beceriler için daha yüksek kazanımlar sağlar — “daha fazla pratik”in her zaman daha iyi olmadığına ve kazanımların alıştırma programının öğrenilen bilgi bileşenine eşleştirilmesine bağlı olduğuna doğrudan kanıt.
 
 ### YZ çağının ölçüm sorunu
 

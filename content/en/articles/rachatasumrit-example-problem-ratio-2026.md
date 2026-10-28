@@ -1,7 +1,7 @@
 ---
 title: Evidence and Theory for why the Best Example-Problem Ratio To Optimize Learning Gain Depends on Knowledge Content
 created: "2026-09-03T14:03:50-04:00"
-updated: "2026-09-19T07:22:56-04:00"
+updated: "2026-10-28T00:51:33-04:00"
 type: article
 pedagogy: [cognitive-psychology, desirable-difficulties, learning-theories, prior-knowledge, problem-solving, transfer-of-learning]
 technology: [intelligent-tutoring]
@@ -19,7 +19,7 @@ page_kind: [synthesis]
 ## Key Findings
 
 - **The optimum example–problem ratio is content-dependent, not universal.** A 2×2 between-subjects experiment (95 participants) manipulated knowledge content (verbatim facts vs. generalizable skills, using geometry-area materials) and training schedule (practice-only EPPP vs. example-integrated EPEP). Results showed a statistically reliable content–treatment interaction (β = 0.41, *p* = .038, *d* = 0.38): pure practice yielded higher learning gains for facts, whereas alternating examples and practice yielded higher gains for skills.
-- **Retrieval/practice testing benefits verbatim fact learning.** Practice testing improves memory-retrieval processes — consistent with [[desirable-difficulties|retrieval practice]] — strengthening verbatim associations in a way that example study alone does not, and no interaction with retention interval was found for this effect.
+- **Retrieval/practice testing benefits verbatim fact learning.** Practice testing improves memory-retrieval processes — consistent with [[retrieval-spacing-interleaving|retrieval practice]] — strengthening verbatim associations in a way that example study alone does not, and no interaction with retention interval was found for this effect.
 - **Studying examples benefits generalizable skill learning.** Because a skill must be induced and generalized to novel inputs, worked examples support the selective encoding and [[prior-knowledge|generalization]] needed to acquire the skill; pure practice risks strengthening spuriously correlated features and functions rather than the correct general rule.
 - **The KLI framework explains the interaction.** The [[learning-theories|Knowledge-Learning-Instruction (KLI)]] framework (Koedinger et al., 2012) classifies [[prior-knowledge|knowledge components]] by whether their conditions and responses are constant (facts) or variable (skills), linking constant facts to memory processes and variable skills to induction and refinement processes. The observed interaction is thus a predicted content–treatment interaction rather than a contradiction.
 - **The Apprentice Learner (AL) model provides an executable explanation.** Simulated learners built in the AL framework were given the same four conditions as humans. AL agents *with* a memory-and-forgetting mechanism (modeled on ACT-R activation) reproduced the human cross-over interaction; agents *without* memory did not, showing that practice confers its benefit by delaying forgetting, while examples supply information needed for [[problem-solving|skill induction]].

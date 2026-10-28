@@ -1,7 +1,7 @@
 ---
 title: Mejoras en el aprendizaje
 created: "2026-09-25T04:31:08-04:00"
-updated: "2026-10-26T22:02:40-04:00"
+updated: "2026-10-28T00:51:33-04:00"
 type: concept
 assessment: [assessment]
 audience: [learners]
@@ -12,7 +12,7 @@ confidence: high
 methods: [ai-ed-evaluation]
 reviewed_by: [editor]
 translation_of: concepts/learning-gains
-source_updated: "2026-10-25T13:40:00-04:00"
+source_updated: "2026-10-28T00:51:33-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -59,7 +59,7 @@ Hallazgos clave de la base de conocimientos:
 - La investigación sobre el [[lak2026-hint-button-unproductive-use|botón de pista]] muestra asociaciones negativas entre el abuso de pistas y las mejoras en el aprendizaje: cuantas más pistas, menos aprendizaje.
 - Los estudios sobre la [[instructional-guidance-genai-learning|orientación didáctica]] demuestran que las mejoras en el aprendizaje dependen de CÓMO se usa la IA, y no solo de SI está disponible.
 - El [[burneo-can-edtech-close-learning-gaps-2026|metaanálisis del Banco Mundial]] agrupa 191 tamaños del efecto de 14 ECA para estimar que la EdTech adaptativa y con IA eleva el aprendizaje en unos ~0,125 sd por término medio —por encima de la mediana de los ECA educativos—, a la vez que no encuentra ventaja de la IA generativa sobre las herramientas adaptativas anteriores.
-- **Las mejoras son interacciones contenido-tratamiento, no constantes.** [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit et al. (2025)]] muestran que la proporción óptima entre ejemplos y problemas depende del contenido de conocimiento: la [[mastery-learning|práctica de recuperación]] pura produce mayores mejoras para los datos literales, mientras que la práctica integrada con ejemplos (alternar ejemplos resueltos y problemas) produce mayores mejoras para las habilidades generalizables —una prueba directa de que «más práctica» no siempre es mejor y de que las mejoras dependen de ajustar el calendario de entrenamiento al componente de conocimiento que se está aprendiendo—.
+- **Las mejoras son interacciones contenido-tratamiento, no constantes.** [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit et al. (2025)]] muestran que la proporción óptima entre ejemplos y problemas depende del contenido de conocimiento: la [[retrieval-spacing-interleaving|práctica de recuperación]] pura produce mayores mejoras para los datos literales, mientras que la práctica integrada con ejemplos (alternar ejemplos resueltos y problemas) produce mayores mejoras para las habilidades generalizables —una prueba directa de que «más práctica» no siempre es mejor y de que las mejoras dependen de ajustar el calendario de entrenamiento al componente de conocimiento que se está aprendiendo—.
 
 ### El problema de medición en la era de la IA
 

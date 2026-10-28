@@ -1,7 +1,7 @@
 ---
 title: "Ganhos de aprendizagem"
 created: "2026-08-09T16:52:03-04:00"
-updated: "2026-10-03T12:32:09-04:00"
+updated: "2026-10-28T00:51:33-04:00"
 type: concept
 assessment: [assessment]
 audience: [learners]
@@ -11,7 +11,7 @@ connected_faqs: [top-10-findings-ai-education-instructors, research-gaps-aied, d
 confidence: high
 methods: [ai-ed-evaluation]
 translation_of: concepts/learning-gains
-source_updated: "2026-10-12T09:45:00-04:00"
+source_updated: "2026-10-28T00:51:33-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -46,7 +46,7 @@ Achados-chave da base de conhecimento:
 - A **[[lak2026-hint-button-unproductive-use|pesquisa sobre botões de dica]]** mostra associações negativas entre abuso de dicas e ganhos de aprendizagem — mais dicas se correlacionam com menos aprendizagem.
 - Os estudos de **[[instructional-guidance-genai-learning|orientação instrucional]]** demonstram que os ganhos de aprendizagem dependem de COMO a IA é usada, não apenas de SE ela está disponível.
 - A **[[burneo-can-edtech-close-learning-gaps-2026|metanálise do Banco Mundial]]** agrupa 191 tamanhos de efeito de 14 RCTs para estimar que EdTech adaptativa e com IA eleva a aprendizagem em ~0,125 dp em média — acima da mediana dos RCTs em educação —, ao mesmo tempo que não encontra vantagem para a IA generativa sobre ferramentas adaptativas anteriores.
-- **Os ganhos são interações conteúdo–tratamento, não constantes.** [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit et al. (2025)]] mostram que a proporção ótima exemplo–problema depende do conteúdo de conhecimento: a prática pura de [[mastery-learning|recuperação]] rende ganhos maiores para fatos literais, enquanto a prática integrada a exemplos (alternando exemplos resolvidos e problemas) rende ganhos maiores para habilidades generalizáveis — evidência direta de que "mais prática" nem sempre é melhor e de que os ganhos dependem de ajustar a programação de treino ao componente de conhecimento sendo aprendido.
+- **Os ganhos são interações conteúdo–tratamento, não constantes.** [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit et al. (2025)]] mostram que a proporção ótima exemplo–problema depende do conteúdo de conhecimento: a prática pura de [[retrieval-spacing-interleaving|recuperação]] rende ganhos maiores para fatos literais, enquanto a prática integrada a exemplos (alternando exemplos resolvidos e problemas) rende ganhos maiores para habilidades generalizáveis — evidência direta de que "mais prática" nem sempre é melhor e de que os ganhos dependem de ajustar a programação de treino ao componente de conhecimento sendo aprendido.
 
 ### O problema de medição na era da IA
 

@@ -1,7 +1,7 @@
 ---
 title: Learning Gains
 created: "2026-08-09T16:52:03-04:00"
-updated: "2026-10-25T13:40:00-04:00"
+updated: "2026-10-28T00:51:33-04:00"
 type: concept
 assessment: [assessment]
 audience: [learners]
@@ -36,7 +36,7 @@ Key findings from the knowledge base:
 - **[[lak2026-hint-button-unproductive-use|Hint button research]]** shows negative associations between hint abuse and learning gains — more hints correlate with less learning.
 - **[[instructional-guidance-genai-learning|Instructional guidance]]** studies demonstrate that learning gains depend on HOW AI is used, not just WHETHER it's available.
 - **[[burneo-can-edtech-close-learning-gaps-2026|World Bank meta-analysis]]** pools 191 effect sizes from 14 RCTs to estimate that adaptive and AI-enabled EdTech raises learning by ~0.125 sd on average — above the median for education RCTs — while finding no advantage for generative AI over earlier adaptive tools.
-- **Gains are content–treatment interactions, not constants.** [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit et al. (2025)]] show the optimal example–problem ratio depends on knowledge content: pure [[mastery-learning|retrieval practice]] yields higher gains for verbatim facts, while example-integrated practice (alternating worked examples and problems) yields higher gains for generalizable skills — direct evidence that "more practice" is not always better and that gains hinge on matching the training schedule to the knowledge component being learned.
+- **Gains are content–treatment interactions, not constants.** [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit et al. (2025)]] show the optimal example–problem ratio depends on knowledge content: pure [[retrieval-spacing-interleaving|retrieval practice]] yields higher gains for verbatim facts, while example-integrated practice (alternating worked examples and problems) yields higher gains for generalizable skills — direct evidence that "more practice" is not always better and that gains hinge on matching the training schedule to the knowledge component being learned.
 
 ### The AI-era measurement problem
 

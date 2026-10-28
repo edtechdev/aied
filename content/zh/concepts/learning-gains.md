@@ -1,7 +1,7 @@
 ---
 title: 学习收益
 created: "2026-08-09T16:52:03-04:00"
-updated: "2026-10-24T15:00:00-04:00"
+updated: "2026-10-28T00:51:33-04:00"
 type: concept
 assessment: [assessment]
 audience: [learners]
@@ -12,7 +12,7 @@ confidence: high
 methods: [ai-ed-evaluation]
 reviewed_by: [editor]
 translation_of: concepts/learning-gains
-source_updated: "2026-10-16T08:47:09-04:00"
+source_updated: "2026-10-28T00:51:33-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -51,7 +51,7 @@ ai_assist:
 - **[[lak2026-hint-button-unproductive-use|提示按钮研究]]**表明提示滥用与学习收益之间的负向关联——提示越多，学习越少。
 - **[[instructional-guidance-genai-learning|教学指导]]研究证明，学习收益取决于 AI 如何被使用，而非仅仅是它是否可用。
 - **[[burneo-can-edtech-close-learning-gaps-2026|世界银行元分析]]**合并 14 项 RCT 的 191 个效应量，估计自适应与 AI 赋能的教育科技平均把学习提高约 0.125 个标准差——高于教育 RCT 的中位数——同时发现生成式 AI 相对早期自适应工具没有优势。
-- **收益是内容—处理交互，而非常数。**[[rachatasumrit-example-problem-ratio-2026|Rachatasumrit 等人（2025）]]表明，最优的例题—问题比取决于知识内容：纯粹的[[mastery-learning|提取练习]]对逐字事实产生更高收益，而例题整合练习（例题与问题交替）对可泛化技能产生更高收益——这直接证明"多练"并不总是更好，收益取决于训练安排与被学知识成分的匹配。
+- **收益是内容—处理交互，而非常数。**[[rachatasumrit-example-problem-ratio-2026|Rachatasumrit 等人（2025）]]表明，最优的例题—问题比取决于知识内容：纯粹的[[retrieval-spacing-interleaving|提取练习]]对逐字事实产生更高收益，而例题整合练习（例题与问题交替）对可泛化技能产生更高收益——这直接证明"多练"并不总是更好，收益取决于训练安排与被学知识成分的匹配。
 
 ### AI 时代的测量问题
 

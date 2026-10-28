@@ -1,7 +1,7 @@
 ---
 title: "Learning-to-learn in the age of generative AI: A scoping review and conceptual framework"
 created: "2026-08-10T17:08:30-04:00"
-updated: "2026-09-19T10:43:18-04:00"
+updated: "2026-10-28T00:51:33-04:00"
 type: article
 foundations: [agency, ai-education]
 pedagogy: [self-regulated-learning]
@@ -20,7 +20,7 @@ methods: [meta-analysis-systematic-review]
 ## Key Findings
 
 - **A scoping review of learning-to-learn (L2L):** Identifies 21 relevant publications via PRISMA-ScR, mapping how L2L is defined across [[metacognition|pedagogical and psychological]] literature.
-- **A three-layered framework:** Organized by conceptual broadness — Dimensions ([[critical-thinking|cognitive and metacognitive]] skills), Processes ([[self-regulated-learning|self-regulation]]), and Tools ([[desirable-difficulties|retrieval practice]]).
+- **A three-layered framework:** Organized by conceptual broadness — Dimensions ([[critical-thinking|cognitive and metacognitive]] skills), Processes ([[self-regulated-learning|self-regulation]]), and Tools ([[retrieval-spacing-interleaving|retrieval practice]]).
 - **Mapping L2L to GenAI use cases:** The framework maps L2L components to GenAI application use cases in [[higher-ed|higher education]], positioning L2L as key to reducing [[cognitive-offloading|GenAI overreliance]] and fostering [[agency|learner agency]] — a contribution to [[ai-education|AI-mediated learning]] and [[ai-literacy|AI literacy]].
 
 ## What this means for practice

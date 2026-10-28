@@ -1,7 +1,7 @@
 ---
 title: 学習成果
 created: "2026-10-10T22:38:12-04:00"
-updated: "2026-10-10T22:38:12-04:00"
+updated: "2026-10-28T00:51:33-04:00"
 type: concept
 assessment: [assessment]
 audience: [learners]
@@ -11,7 +11,7 @@ connected_faqs: [top-10-findings-ai-education-instructors, research-gaps-aied, d
 confidence: high
 methods: [ai-ed-evaluation]
 translation_of: concepts/learning-gains
-source_updated: "2026-10-03T12:32:09-04:00"
+source_updated: "2026-10-28T00:51:33-04:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -46,7 +46,7 @@ ai_assist:
 - **[[lak2026-hint-button-unproductive-use|ヒントボタン研究]]**は、ヒントの乱用と学習成果の間の負の関連を示します——ヒントが多いほど学習は少ないのです。
 - **[[instructional-guidance-genai-learning|教授的な指導]]**研究は、学習成果がAIが利用*可能*かどうかだけでなく、*どう*使われるかに依存することを実証します。
 - **[[burneo-can-edtech-close-learning-gaps-2026|世界銀行のメタ分析]]**は14件のRCTからの191件の効果量を統合し、適応的・AI対応のEdTechが学習を平均して約0.125標準偏差上げることを推定します——教育分野のRCTの中央値を上回ります——一方、生成AIが初期の適応的な道具に対する優位性を持たないことを見出します。
-- **成果は定数ではなく、内容–処置の交互作用です。** [[rachatasumrit-example-problem-ratio-2026|Rachatasumritら(2025年)]]は、最適な例題–問題の比率が知識の内容に依存することを示します。純粋な[[mastery-learning|検索練習]]は逐語的な事実に対してより高い成果を生み、一方、例と統合された練習(解き方の例と問題を交互に用いる)は一般化可能な技能に対してより高い成果を生みます——「より多く練習すること」が常によりよいわけではなく、成果が学習される知識の構成要素に訓練スケジュールを対応させることに懸かっていることの直接的な証拠です。
+- **成果は定数ではなく、内容–処置の交互作用です。** [[rachatasumrit-example-problem-ratio-2026|Rachatasumritら(2025年)]]は、最適な例題–問題の比率が知識の内容に依存することを示します。純粋な[[retrieval-spacing-interleaving|検索練習]]は逐語的な事実に対してより高い成果を生み、一方、例と統合された練習(解き方の例と問題を交互に用いる)は一般化可能な技能に対してより高い成果を生みます——「より多く練習すること」が常によりよいわけではなく、成果が学習される知識の構成要素に訓練スケジュールを対応させることに懸かっていることの直接的な証拠です。
 
 ### AI時代の測定問題
 

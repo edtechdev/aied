@@ -1,7 +1,7 @@
 ---
 title: 학습 성과
 created: "2026-08-09T16:52:03-04:00"
-updated: "2026-10-03T12:32:09-04:00"
+updated: "2026-10-28T00:51:33-04:00"
 type: concept
 assessment: [assessment]
 audience: [learners]
@@ -11,7 +11,7 @@ connected_faqs: [top-10-findings-ai-education-instructors, research-gaps-aied, d
 confidence: high
 methods: [ai-ed-evaluation]
 translation_of: concepts/learning-gains
-source_updated: "2026-10-12T09:45:00-04:00"
+source_updated: "2026-10-28T00:51:33-04:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -46,7 +46,7 @@ ai_assist:
 - **[[lak2026-hint-button-unproductive-use|힌트 버튼 연구]]**는 힌트 남용과 학습 성과 사이의 부정적 연관을 보여 줍니다. 힌트가 많을수록 학습은 적습니다.
 - **[[instructional-guidance-genai-learning|교수적 안내]]** 연구는 학습 성과가 AI가 *있는지*가 아니라 *어떻게* 사용되는지에 달려 있음을 보여 줍니다.
 - **[[burneo-can-edtech-close-learning-gaps-2026|세계은행 메타분석]]**은 14개 무작위 대조 시험의 효과 크기 191개를 종합하여, 적응형·AI 지원 에드테크가 학습을 평균 약 0.125 표준편차 높이며 — 이는 교육 무작위 대조 시험의 중위값보다 높은 값입니다 — 생성형 AI가 초기의 적응형 도구에 비해 이점이 없음을 추정합니다.
-- **성과는 상수값이 아니라 내용-처치 상호작용입니다.** [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit 외(2025)]]는 최적의 예시-문제 비율이 지식 내용에 따라 달라짐을 보여 줍니다. 순수한 [[mastery-learning|인출 연습]]은 축자적 사실에서 더 높은 성과를 내는 반면, 예시 통합 연습(풀이된 예시와 문제를 번갈아 제시하는 것)은 일반화 가능한 기술에서 더 높은 성과를 냅니다. 이는 "연습이 많으면 좋다"가 언제나 참은 아니며, 성과가 훈련 일정을 학습 중인 지식 구성요소에 맞추는 데 달려 있다는 직접적 증거입니다.
+- **성과는 상수값이 아니라 내용-처치 상호작용입니다.** [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit 외(2025)]]는 최적의 예시-문제 비율이 지식 내용에 따라 달라짐을 보여 줍니다. 순수한 [[retrieval-spacing-interleaving|인출 연습]]은 축자적 사실에서 더 높은 성과를 내는 반면, 예시 통합 연습(풀이된 예시와 문제를 번갈아 제시하는 것)은 일반화 가능한 기술에서 더 높은 성과를 냅니다. 이는 "연습이 많으면 좋다"가 언제나 참은 아니며, 성과가 훈련 일정을 학습 중인 지식 구성요소에 맞추는 데 달려 있다는 직접적 증거입니다.
 
 ### AI 시대의 측정 문제
 

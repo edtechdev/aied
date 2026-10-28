@@ -1,7 +1,7 @@
 ---
 title: Lerngewinne
 created: "2026-08-09T16:52:03-04:00"
-updated: "2026-10-24T21:41:34-04:00"
+updated: "2026-10-28T00:51:33-04:00"
 type: concept
 assessment: [assessment]
 audience: [learners]
@@ -11,7 +11,7 @@ connected_faqs: [top-10-findings-ai-education-instructors, research-gaps-aied, d
 confidence: high
 methods: [ai-ed-evaluation]
 translation_of: concepts/learning-gains
-source_updated: "2026-10-16T08:47:09-04:00"
+source_updated: "2026-10-28T00:51:33-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -46,7 +46,7 @@ Zentrale Befunde aus der Wissensbasis:
 - **[[lak2026-hint-button-unproductive-use|Hinweis-Knopf-Forschung]]** zeigt negative Assoziationen zwischen Hinweismissbrauch und Lerngewinnen — mehr Hinweise korrelieren mit weniger Lernen.
 - **[[instructional-guidance-genai-learning|Instruktionsanleitungs]]-Studien** demonstrieren, dass Lerngewinne davon abhängen, WIE KI genutzt wird, nicht nur OB sie verfügbar ist.
 - **[[burneo-can-edtech-close-learning-gaps-2026|Weltbank-Metaanalyse]]** poolt 191 Effektstärken aus 14 RCTs, um zu schätzen, dass adaptive und KI-fähige EdTech Lernen um ~0,125 sd im Schnitt erhöhen — über dem Median für Bildungs-RCTs —, während sie keinen Vorteil für generative KI gegenüber früheren adaptiven Werkzeugen findet.
-- **Gewinne sind Inhalt-Behandlung-Interaktionen, keine Konstanten.** [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit et al. (2025)]] zeigen, dass das optimale Beispiel-Problem-Verhältnis vom Wissensinhalt abhängt: reine [[mastery-learning|Abrufübung]] erbringt höhere Gewinne für wörtliche Fakten, während beispielintegrierte Übung (abwechselnd ausgearbeitete Beispiele und Probleme) höhere Gewinne für verallgemeinerbare Fähigkeiten erbringt — direkte Evidenz dafür, dass „mehr Übung“ nicht immer besser ist und dass Gewinne daran hängen, den Trainingsplan auf die Wissenskomponente abzustimmen, die gelernt wird.
+- **Gewinne sind Inhalt-Behandlung-Interaktionen, keine Konstanten.** [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit et al. (2025)]] zeigen, dass das optimale Beispiel-Problem-Verhältnis vom Wissensinhalt abhängt: reine [[retrieval-spacing-interleaving|Abrufübung]] erbringt höhere Gewinne für wörtliche Fakten, während beispielintegrierte Übung (abwechselnd ausgearbeitete Beispiele und Probleme) höhere Gewinne für verallgemeinerbare Fähigkeiten erbringt — direkte Evidenz dafür, dass „mehr Übung“ nicht immer besser ist und dass Gewinne daran hängen, den Trainingsplan auf die Wissenskomponente abzustimmen, die gelernt wird.
 
 ### Das Messproblem des KI-Zeitalters
 

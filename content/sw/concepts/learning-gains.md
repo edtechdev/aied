@@ -11,7 +11,7 @@ confidence: high
 methods: [ai-ed-evaluation]
 reviewed_by: [editor]
 translation_of: concepts/learning-gains
-source_updated: "2026-10-12T09:45:00-04:00"
+source_updated: "2026-10-28T00:51:33-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -46,7 +46,7 @@ Matokeo muhimu kutoka hifadhi ya maarifa:
 - **[[lak2026-hint-button-unproductive-use|Utafiti wa kitufe cha vidokezo]]** unaonyesha mahusiano hasi kati ya matumizi mabaya ya vidokezo na faida za kujifunza — vidokezo vingi zaidi vina uhusiano na kujifunza kidogo zaidi.
 - Masudio ya **[[instructional-guidance-genai-learning|mwongozo wa mafunzo]]** yanaonyesha kuwa faida za kujifunza hutegemea JINSI AI inavyotumika, si tu iwapo inapatikana.
 - **[[burneo-can-edtech-close-learning-gaps-2026|Meta-analysis ya Benki ya Dunia]]** inaunganisha vipimo 191 vya athari kutoka majaribio 14 ya RCT ili kukadiria kuwa EdTech ya adaptifu na inayoendeshwa na AI inapandisha kujifunza kwa wastani wa ~0.125 sd — juu ya wastani kwa RCT za elimu — huku ikigundua hakuna faida ya AI ya kizalishaji juu ya zana za adaptifu za awali.
-- **Faida ni mwingiliano wa maudhui–matibabu, si vigezo thabiti.** [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit et al. (2025)]] wanaonyesha kuwa uwiano bora wa mfano–tatizo unategemea maudhui ya maarifa: mazoezi ya [[mastery-learning|kurejesha maarifa]] peke yake yanatoa faida kubwa kwa ukweli wa maneno yalivyo, wakati mazoezi yaliyounganishwa na mifano (mabadilishano ya mifano yaliyofanya kazi na matatizo) yanatoa faida kubwa kwa ujuzi unaoweza kuenea — ushahidi wa moja kwa moja kwamba \"mazoezi zaidi\" si bora kila mara na kuwa faida hutegemea kulinganisha ratiba ya mafunzo na kipengele cha maarifa kinachojifunzwa.
+- **Faida ni mwingiliano wa maudhui–matibabu, si vigezo thabiti.** [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit et al. (2025)]] wanaonyesha kuwa uwiano bora wa mfano–tatizo unategemea maudhui ya maarifa: mazoezi ya [[retrieval-spacing-interleaving|kurejesha maarifa]] peke yake yanatoa faida kubwa kwa ukweli wa maneno yalivyo, wakati mazoezi yaliyounganishwa na mifano (mabadilishano ya mifano yaliyofanya kazi na matatizo) yanatoa faida kubwa kwa ujuzi unaoweza kuenea — ushahidi wa moja kwa moja kwamba \"mazoezi zaidi\" si bora kila mara na kuwa faida hutegemea kulinganisha ratiba ya mafunzo na kipengele cha maarifa kinachojifunzwa.
 
 ### Tatizo la kupima katika enzi ya AI
 

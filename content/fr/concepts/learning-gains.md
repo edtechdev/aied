@@ -1,7 +1,7 @@
 ---
 title: "Gains d'apprentissage"
 created: "2026-08-09T16:52:03-04:00"
-updated: "2026-10-24T10:51:33-04:00"
+updated: "2026-10-28T00:51:33-04:00"
 type: concept
 assessment: [assessment]
 audience: [learners]
@@ -11,7 +11,7 @@ connected_faqs: [top-10-findings-ai-education-instructors, research-gaps-aied, d
 confidence: high
 methods: [ai-ed-evaluation]
 translation_of: concepts/learning-gains
-source_updated: "2026-10-16T08:47:09-04:00"
+source_updated: "2026-10-28T00:51:33-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -50,7 +50,7 @@ Principaux résultats de la base de connaissances :
 - **[[lak2026-hint-button-unproductive-use|La recherche sur le bouton d'indices]]** montre des associations négatives entre l'abus d'indices et les gains d'apprentissage — plus d'indices corrèlent avec moins d'apprentissage.
 - **[[instructional-guidance-genai-learning|Les études sur les consignes pédagogiques]]** démontrent que les gains d'apprentissage dépendent de la manière dont l'IA est employée, et pas seulement de sa disponibilité.
 - **La [[burneo-can-edtech-close-learning-gaps-2026|méta-analyse de la Banque mondiale]]** regroupe 191 tailles d'effet issues de 14 essais contrôlés randomisés pour estimer que les technologies éducatives adaptatives et à base d'IA élèvent l'apprentissage d'environ 0.125 écart-type en moyenne — au-dessus de la médiane des essais contrôlés randomisés en éducation — tout en ne trouvant aucun avantage de l'IA générative sur les outils adaptatifs antérieurs.
-- **Les gains sont des interactions contenu-traitement, non des constantes.** [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit et coll. (2025)]] montrent que le rapport optimal exemples-problèmes dépend du contenu de connaissance : la [[mastery-learning|pratique de récupération]] pure produit des gains plus élevés pour les faits littéraux, tandis que la pratique intégrant les exemples (alternant exemples résolus et problèmes) produit des gains plus élevés pour les compétences généralisables — la preuve directe que « plus de pratique » n'est pas toujours mieux, et que les gains tiennent à l'ajustement du programme d'entraînement au composant de connaissance appris.
+- **Les gains sont des interactions contenu-traitement, non des constantes.** [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit et coll. (2025)]] montrent que le rapport optimal exemples-problèmes dépend du contenu de connaissance : la [[retrieval-spacing-interleaving|pratique de récupération]] pure produit des gains plus élevés pour les faits littéraux, tandis que la pratique intégrant les exemples (alternant exemples résolus et problèmes) produit des gains plus élevés pour les compétences généralisables — la preuve directe que « plus de pratique » n'est pas toujours mieux, et que les gains tiennent à l'ajustement du programme d'entraînement au composant de connaissance appris.
 
 ### Le problème de mesure à l'ère de l'IA
 
