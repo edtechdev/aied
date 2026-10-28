@@ -1,7 +1,7 @@
 ---
 title: Validez de la evaluación
 created: "2026-09-25T04:31:09-04:00"
-updated: "2026-10-26T21:37:14-04:00"
+updated: "2026-10-28T19:00:37-04:00"
 connected_faqs: [redesign-assessment-ai-era, reporting-interpreting-aied-research, asynchronous-online-courses-ai, checking-whether-educational-ai-works]
 type: concept
 foundations: [academic-integrity]
@@ -77,7 +77,7 @@ reviewed_by: [editor]
 
 Una propuesta conceptual plantea un límite de validez que se aplica a toda evaluación mediada por IA de esta página: [[ai-agents-joyful-assessment-third-space-2026|El Khoury y Ma (2026)]] sostienen que la velocidad no es validez, y que los prompts, ejemplos e informes basados en transcripciones generados por IA todavía tienen que ponerse a prueba en cuanto a exactitud, sensibilidad cultural, [[accessibility|accesibilidad]], interpretabilidad y alineación con los resultados del curso. Amplían además lo que cuenta como evidencia: allí donde el diálogo se convierte en el artefacto evaluado, la transcripción es un registro del proceso en el que el juicio, la empatía, la clarificación y la toma de decisiones compartida se despliegan en contexto, y la pregunta de diseño pasa a ser si esa evidencia sostiene la inferencia que se extrae de ella —la misma pregunta a la que se enfrenta la calificación automatizada, respondida mediante la alineación entre tarea, retroalimentación y evidencia de aprendizaje, y no mediante la novedad tecnológica.
 
-- **Los metadatos de ítem asignados por la IA no son evidencia psicométrica.** A lo largo de un estudio de [[cs-education|ciencia de datos]] de 10 semanas con 311 ítems de opción múltiple desplegados, las valoraciones de dificultad del LLM seguían las propias etiquetas Bloom del modelo (rho = 0,90) pero no la dificultad empírica de los ítems (rho = 0,06), de modo que la dificultad de un ítem debe establecerse a partir de los datos de respuesta y no de las etiquetas del modelo generador ([[student-llm-use-ai-question-difficulty-data-science-2026|An y Wang, 2026]]).
+- **Los metadatos de ítem asignados por la IA no son evidencia psicométrica.** A lo largo de un estudio de [[statistics-and-data-science-education|ciencia de datos]] de 10 semanas con 311 ítems de opción múltiple desplegados, las valoraciones de dificultad del LLM seguían las propias etiquetas Bloom del modelo (rho = 0,90) pero no la dificultad empírica de los ítems (rho = 0,06), de modo que la dificultad de un ítem debe establecerse a partir de los datos de respuesta y no de las etiquetas del modelo generador ([[student-llm-use-ai-question-difficulty-data-science-2026|An y Wang, 2026]]).
 
 - **Los juicios estudiantiles sobre la alineación curricular siguen a la dificultad, no al contenido.** [[vogt-ai-mcq-recognition-medical-assessment-2026|Vogt et al. (2026)]] pidieron al estudiantado que valorara si cada ítem de un examen calificado de 60 ítems se alineaba con el [[curriculum-design|currículo]] del curso y encontraron que las valoraciones correlacionaban con la dificultad del ítem en ρ = 0,762 (los ítems más fáciles se juzgaban alineados y los más difíciles no alineados, ρ = −0,762, p < 0,001), mientras que las valoraciones no diferían según la fuente del ítem. Allí donde un instrumento pide al estudiantado juzgar el ajuste curricular de una evaluación, la puntuación resultante es en parte una valoración de la dificultad y no puede leerse como evidencia independiente de alineación.
 

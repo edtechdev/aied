@@ -1,7 +1,7 @@
 ---
 title: Assessment Validity
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-26T12:30:00-04:00"
+updated: "2026-10-28T19:00:37-04:00"
 connected_faqs: [redesign-assessment-ai-era, reporting-interpreting-aied-research, asynchronous-online-courses-ai, checking-whether-educational-ai-works]
 type: concept
 foundations: [academic-integrity]
@@ -54,7 +54,7 @@ reviewed_by: [editor]
 
 A conceptual proposal raises a validity boundary that applies to every AI-mediated assessment on this page: [[ai-agents-joyful-assessment-third-space-2026|El Khoury and Ma (2026)]] argue that speed is not validity, and that AI-generated prompts, examples and transcript-based reports still have to be tested for accuracy, cultural responsiveness, [[accessibility]], interpretability and alignment with course outcomes. They also widen what counts as evidence: where dialogue becomes the assessed artifact, the transcript is a process record in which judgment, empathy, clarification and shared decision-making unfold in context, and the design question becomes whether that evidence supports the inference drawn from it — the same question automated scoring faces, answered by alignment among task, feedback and evidence of learning rather than by technological novelty.
 
-- **AI-assigned item metadata is not psychometric evidence.** Across a 10-week [[cs-education|data science]] study of 311 deployed multiple-choice items, LLM difficulty ratings tracked the model's own Bloom labels (rho = 0.90) but not empirical item difficulty (rho = 0.06), so item difficulty has to be established from response data rather than from the generating model's labels ([[student-llm-use-ai-question-difficulty-data-science-2026|An & Wang, 2026]]).
+- **AI-assigned item metadata is not psychometric evidence.** Across a 10-week [[statistics-and-data-science-education|data science]] study of 311 deployed multiple-choice items, LLM difficulty ratings tracked the model's own Bloom labels (rho = 0.90) but not empirical item difficulty (rho = 0.06), so item difficulty has to be established from response data rather than from the generating model's labels ([[student-llm-use-ai-question-difficulty-data-science-2026|An & Wang, 2026]]).
 
 - **Student judgments of curricular alignment track difficulty, not content.** [[vogt-ai-mcq-recognition-medical-assessment-2026|Vogt et al. (2026)]] asked students to rate whether each item in a graded 60-item exam aligned with the course [[curriculum-design|curriculum]] and found the ratings correlated with item difficulty at ρ = 0.762 (easier items judged aligned, harder items not aligned, ρ = −0.762, p < 0.001), while ratings did not differ by item source. Where an instrument asks students to judge an assessment's curricular fit, the resulting score is partly a difficulty rating and cannot be read as independent evidence of alignment.
 

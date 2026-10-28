@@ -1,7 +1,7 @@
 ---
 title: 评估效度
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-24T14:35:00-04:00"
+updated: "2026-10-28T19:00:37-04:00"
 connected_faqs: [redesign-assessment-ai-era, reporting-interpreting-aied-research, asynchronous-online-courses-ai, checking-whether-educational-ai-works]
 type: concept
 foundations: [academic-integrity]
@@ -68,7 +68,7 @@ ai_assist:
 
 一个概念性提案提出了适用于本页每项人工智能中介评估的效度边界：[[ai-agents-joyful-assessment-third-space-2026|El Khoury 与 Ma（2026）]]认为，速度不是效度，人工智能生成的提示、示例与基于转录的报告仍须就准确性、文化响应性、[[accessibility|无障碍]]、可解释性以及与课程成果的对齐接受检验。他们还扩大了什么算作证据：当对话成为被评估的对象时，转录本是过程记录，判断、共情、澄清与共同决策在其中依情境展开，设计问题就变成：这份证据是否支持从它得出的推理 — 这正是自动评分面临的同一问题，其答案在于任务、反馈与学习证据之间的对齐，而非技术上的新奇。
 
-- **人工智能分配的题目元数据不是心理测量证据。** 在一项为期 10 周、涉及 311 道已部署选择题的[[cs-education|数据科学]]研究中，大语言模型给出的难度评级与模型自身的 Bloom 标签相关（rho = 0.90），但与经验题目难度不相关（rho = 0.06），因此题目难度必须从回答数据中建立，而非从生成模型的标签中建立（[[student-llm-use-ai-question-difficulty-data-science-2026|An 与 Wang（2026）]]）。
+- **人工智能分配的题目元数据不是心理测量证据。** 在一项为期 10 周、涉及 311 道已部署选择题的[[statistics-and-data-science-education|数据科学]]研究中，大语言模型给出的难度评级与模型自身的 Bloom 标签相关（rho = 0.90），但与经验题目难度不相关（rho = 0.06），因此题目难度必须从回答数据中建立，而非从生成模型的标签中建立（[[student-llm-use-ai-question-difficulty-data-science-2026|An 与 Wang（2026）]]）。
 - **学生对课程对齐的评判跟随难度而非内容。** [[vogt-ai-mcq-recognition-medical-assessment-2026|Vogt 等人（2026）]]让学生评判一份已评分 60 题考试中每道题目是否与课程[[curriculum-design|课程]]对齐，发现评分与题目难度相关（rho = 0.762：容易的题被判为对齐，难的题被判为不对齐，rho = −0.762，p < 0.001），而评分不因题目来源而异。当一个工具让学生评判评估的课程适切性时，所得分数部分是一项难度评级，不能被读作对齐的独立证据。
 - **重新对齐评估三角，而不是只修补一个顶点。** [[koretsky-genai-stem-assessment-2026|Koretsky 等人（2026）]]通过评估三角 — 认知（评什么）、观察（如何引出学习证据）与解释（得出什么推理） — 来框定[[generative-ai|GenAI]]问题，并论证三个顶点必须一起重新对齐，因为只重新设计任务而不修复解释，会使推理失去支撑。他们的范围综述还把人工智能生成评估材料的保真度本身作为一项效度属性，编目了内容、语言、认知、行为、结构与教学维度，并要求在让此类任务支撑评估之前进行人在环评估。
 

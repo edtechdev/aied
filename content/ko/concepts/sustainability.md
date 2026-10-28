@@ -1,7 +1,7 @@
 ---
 title: 지속가능성
 created: "2026-08-28T14:40:00-04:00"
-updated: "2026-09-19T05:10:00-04:00"
+updated: "2026-10-28T19:00:58-04:00"
 type: concept
 foundations: [ai-education]
 technology: [generative-ai]
@@ -56,7 +56,7 @@ AI를 지속가능성 교육과 성과를 *위한* 도구로 다루는 연구가
 두 번째 경로는 교육 환경에서 AI 자신의 발자국에 관한 것입니다.
 
 - **대규모 모형의 환경적 영향.** [[llm-environmental-impact-student-usage-2026|LLM 사용에 관한 연구들]]은 대규모 언어 모형의 탄소와 물 발자국을 기록하는데, 이는 대학생들 사이의 높은 도입률을 고려할 때 상당한 것입니다. 이것이 지속가능한 AI의 직접적인 환경적 차원입니다.
-- **에너지 효율적이며 기관 내에서의 운용.** [[shen-sustainable-ai-knowledge-base-cs-education-2026|Shen et al. (2026)]]은 AI 지식 베이스 조수가 [[open-source|개방형 교육 자원]]으로 소비자급 하드웨어에서 운용될 수 있어 교육에서 AI의 환경적·비용 발자국을 줄일 수 있음을 보여줍니다 — 이것은 구체적인 지속가능한 AI 설계 패턴입니다.
+- **에너지 효율적이며 기관 내에서의 운용.** [[shen-sustainable-ai-knowledge-base-cs-education-2026|Shen et al. (2026)]]은 AI 지식 베이스 조수가 [[open-education|개방형 교육 자원]]으로 소비자급 하드웨어에서 운용될 수 있어 교육에서 AI의 환경적·비용 발자국을 줄일 수 있음을 보여줍니다 — 이것은 구체적인 지속가능한 AI 설계 패턴입니다.
 - **윤리적·거버넌스 프레임워크.** 지속가능한 AI는 환경적일 뿐만 아니라, 투명성과 책임성, [[human-in-the-loop-ai|인간의 감독]], 그리고 [[equity-in-ai-education|공정한]] 접근을 보장하는 [[governance]]와 [[ethics]] 프레임워크를 요구합니다. [[daniel-ai-sustainability-scoping-review-2026|Daniel et al. (2026)]]이 지적하듯, 이는 현재의 대학 응용에서 흔히 결여되어 있습니다.
 
 ## 교수법적 목표로서의 지속가능한 학습

@@ -1,7 +1,7 @@
 ---
 title: Sostenibilidad
 created: "2026-09-28T19:11:56-04:00"
-updated: "2026-10-26T22:02:40-04:00"
+updated: "2026-10-28T19:00:58-04:00"
 type: concept
 foundations: [ai-education]
 technology: [generative-ai]
@@ -58,7 +58,7 @@ Un corpus creciente de trabajo trata la IA como herramienta *para* la educación
 La segunda vía se ocupa de la propia huella de la IA en entornos educativos:
 
 - **Impacto ambiental de los modelos grandes.** [[llm-environmental-impact-student-usage-2026|los estudios sobre el uso de LLM]] documentan la huella de carbono y de agua de los modelos de lenguaje grandes, que es significativa dada la alta adopción entre el estudiantado universitario. Esta es la dimensión ambiental directa de la IA sostenible.
-- **Despliegue energéticamente eficiente y en servidores propios.** [[shen-sustainable-ai-knowledge-base-cs-education-2026|Shen et al. (2026)]] demuestran que los asistentes de base de conocimiento con IA pueden ejecutarse en hardware de consumo con [[open-source|recursos educativos abiertos]], lo que reduce la huella ambiental y de coste de la IA en la educación: un patrón de diseño concreto de IA sostenible.
+- **Despliegue energéticamente eficiente y en servidores propios.** [[shen-sustainable-ai-knowledge-base-cs-education-2026|Shen et al. (2026)]] demuestran que los asistentes de base de conocimiento con IA pueden ejecutarse en hardware de consumo con [[open-education|recursos educativos abiertos]], lo que reduce la huella ambiental y de coste de la IA en la educación: un patrón de diseño concreto de IA sostenible.
 - **Marcos éticos y de gobernanza.** La IA sostenible no es solo ambiental: requiere marcos de [[governance|gobernanza]] y [[ethics|ética]] que garanticen la transparencia, la rendición de cuentas, la [[human-in-the-loop-ai|supervisión humana]] y un acceso [[equity-in-ai-education|equitativo]], algo que, como señalan [[daniel-ai-sustainability-scoping-review-2026|Daniel et al. (2026)]], suele faltar en las aplicaciones universitarias actuales.
 
 ## El aprendizaje sostenible como objetivo pedagógico

@@ -1,7 +1,7 @@
 ---
 title: Sustainability
 created: "2026-08-28T14:40:00-04:00"
-updated: "2026-10-26T07:55:00-04:00"
+updated: "2026-10-28T18:53:18-04:00"
 type: concept
 foundations: [ai-education]
 technology: [generative-ai]
@@ -47,7 +47,7 @@ A growing body of work treats AI as a tool *for* sustainability education and ou
 The second pathway concerns AI's own footprint in educational settings:
 
 - **Environmental impact of large models.** [[llm-environmental-impact-student-usage-2026|studies of LLM use]] document the carbon and water footprint of large language models, which is significant given high adoption among university students. This is the direct environmental dimension of sustainable AI.
-- **Energy-efficient and on-premise deployment.** [[shen-sustainable-ai-knowledge-base-cs-education-2026|Shen et al. (2026)]] demonstrate that AI knowledge-base assistants can run on consumer-grade hardware with [[open-source|open educational resources]], reducing the environmental and cost footprint of AI in education — a concrete sustainable-AI design pattern.
+- **Energy-efficient and on-premise deployment.** [[shen-sustainable-ai-knowledge-base-cs-education-2026|Shen et al. (2026)]] demonstrate that AI knowledge-base assistants can run on consumer-grade hardware with [[open-education|open educational resources]], reducing the environmental and cost footprint of AI in education — a concrete sustainable-AI design pattern.
 - **Ethical and governance frameworks.** Sustainable AI is not only environmental: it requires [[governance]] and [[ethics]] frameworks ensuring transparency, accountability, [[human-in-the-loop-ai|human oversight]], and [[equity-in-ai-education|equitable]] access, as [[daniel-ai-sustainability-scoping-review-2026|Daniel et al. (2026)]] note is often lacking in current university applications.
 
 ## Sustainable learning as a pedagogical goal

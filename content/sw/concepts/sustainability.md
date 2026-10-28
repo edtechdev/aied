@@ -56,7 +56,7 @@ Mwili unaokua wa kazi unachukua AI kama zana *kwa* elimu na matokeo ya uendelevu
 Njia ya pili inashughulikia alama ya AI yenyewe katika mipangilio ya kieledu:
 
 - **Athari za mazingira za mifano mikubwa.** [[llm-environmental-impact-student-usage-2026|masudio ya matumizi ya LLM]] yanaandika alama ya kaboni na maji ya mifano mikubwa ya lugha, ambayo ni kubwa ikizingatiwa upitishaji wa juu katika wanafunzi wa chuo kikuu. Hii ni kipimo cha moja kwa moja cha mazingira cha AI endelevu.
-- **Utekelezaji wenye ufanisi wa nishati na wa ndani ya taasisi.** [[shen-sustainable-ai-knowledge-base-cs-education-2026|Shen et al. (2026)]] wanaonyesha kuwa wasaidizi wa hifadhi ya maarifa ya AI wanaweza kuendeshwa kwenye vifaa vya kiwango cha watumiaji na [[open-source|rasilimali za elimu za wazi]], kupunguza alama za mazingira na gharama za AI katika elimu — muundo halisi wa ubuni wa AI endelevu.
+- **Utekelezaji wenye ufanisi wa nishati na wa ndani ya taasisi.** [[shen-sustainable-ai-knowledge-base-cs-education-2026|Shen et al. (2026)]] wanaonyesha kuwa wasaidizi wa hifadhi ya maarifa ya AI wanaweza kuendeshwa kwenye vifaa vya kiwango cha watumiaji na [[open-education|rasilimali za elimu za wazi]], kupunguza alama za mazingira na gharama za AI katika elimu — muundo halisi wa ubuni wa AI endelevu.
 - **Mifumo ya maadili na utawala.** AI endelevu sio ya mazingira tu: inahitaji mifumo ya [[governance]] na [[ethics]] inayohakikisha uwazi, uwajibikisho, [[human-in-the-loop-ai|usimamizi wa binadamu]], na upatikanaji wa [[equity-in-ai-education|usawa]], kama [[daniel-ai-sustainability-scoping-review-2026|Daniel et al. (2026)]] wanabainisha mara nyingi kunakosekana katika matumizi ya sasa ya vyuo vikuu.
 
 ## Kujifunza endelevu kama lengo la kieledu

@@ -1,7 +1,7 @@
 ---
 title: Sustentabilidade
 created: "2026-08-28T14:40:00-04:00"
-updated: "2026-09-19T05:10:00-04:00"
+updated: "2026-10-28T19:00:58-04:00"
 type: concept
 foundations: [ai-education]
 technology: [generative-ai]
@@ -56,7 +56,7 @@ Um corpo crescente de trabalhos trata a IA como uma ferramenta *para* a educaç�
 A segunda via diz respeito à própria pegada da IA nos cenários educacionais:
 
 - **Impacto ambiental dos grandes modelos.** [[llm-environmental-impact-student-usage-2026|estudos do uso de LLM]] documentam a pegada de carbono e de água dos modelos de linguagem grandes, que é significativa dada a alta adoção entre estudantes universitários. Essa é a dimensão ambiental direta da IA sustentável.
-- **Implantação energeticamente eficiente e no local.** [[shen-sustainable-ai-knowledge-base-cs-education-2026|Shen et al. (2026)]] demonstram que assistentes de base de conhecimento com IA podem rodar em hardware de consumo com [[open-source|recursos educacionais abertos]], reduzindo a pegada ambiental e de custo da IA na educação — um padrão concreto de design de IA sustentável.
+- **Implantação energeticamente eficiente e no local.** [[shen-sustainable-ai-knowledge-base-cs-education-2026|Shen et al. (2026)]] demonstram que assistentes de base de conhecimento com IA podem rodar em hardware de consumo com [[open-education|recursos educacionais abertos]], reduzindo a pegada ambiental e de custo da IA na educação — um padrão concreto de design de IA sustentável.
 - **Frameworks éticos e de governança.** A IA sustentável não é apenas ambiental: ela exige frameworks de [[governance|governança]] e de [[ethics|ética]] que garantam transparência, responsabilização, [[human-in-the-loop-ai|supervisão humana]] e acesso [[equity-in-ai-education|equitativo]], como [[daniel-ai-sustainability-scoping-review-2026|Daniel et al. (2026)]] notam que frequentemente falta nas aplicações universitárias atuais.
 
 ## A aprendizagem sustentável como objetivo pedagógico
