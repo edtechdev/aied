@@ -1789,7 +1789,7 @@ Philosophy of AI in education and [[theory-development-aied|theory development i
 
 ## Common Misconceptions
 
-**"The philosophy of AI in education is the same as cataloguing learning theories."** They sit at different depths. The [[learning-theories|learning-theories]] page asks *how learning happens*; the philosophy asks *what learning, mind and the learner fundamentally are* under AI-mediated conditions. A study can settle a learning-theory question and leave the philosophical one untouched, which is why a technically successful intervention can still be the wrong thing to do.
+**"The philosophy of AI in education is the same as cataloguing learning theories."** They sit at different depths. The [[learning-theories]] page asks *how learning happens*; the philosophy asks *what learning, mind and the learner fundamentally are* under AI-mediated conditions. A study can settle a learning-theory question and leave the philosophical one untouched, which is why a technically successful intervention can still be the wrong thing to do.
 
 **"Cognitive offloading is the harm, and it is reversible by more effort."** There is a stronger claim available. Bai and Costa (2026) draw on Arendt's account of thinking as an inward, untransferable activity to argue that GenAI which *supplies* the work does not merely offload thinking but forecloses it — and they locate the risk institutionally, through Bourdieu's field and habitus, rather than in individual willpower. If the argument holds, "use it carefully" is not a sufficient remedy, because the practice is shaped by the field that rewards the output.
 
@@ -4790,7 +4790,7 @@ Because SDL emphasizes learner-initiated direction, interventions to protect it 
 
 **"AI makes self-directed learning easier because it supplies structure."** It can remove the exercise of the skill. [[genai-thoughtless-use-self-directed-learning-2026|Zhao and Gu (2026)]] show that **thoughtless use of GenAI — adopting outputs without critical evaluation — significantly undermines SDL**. Directing one's own learning is practised by making the decisions GenAI can now make for you, so an assistant that always supplies direction supplies it in place of the competence.
 
-**"Non-use of AI indicates a lack of access."** Among students who do not use it, the stated reason is often a positive educational choice — wanting to do the work themselves — rather than a barrier. Reading non-use as a deficit misdescribes a position that is, in the [[student-experience|student-experience]] evidence, reasoned.
+**"Non-use of AI indicates a lack of access."** Among students who do not use it, the stated reason is often a positive educational choice — wanting to do the work themselves — rather than a barrier. Reading non-use as a deficit misdescribes a position that is, in the [[student-experience]] evidence, reasoned.
 
 **"Self-direction means working alone."** It means owning the direction, which can be exercised in a highly supported environment. The distinguishing feature is who sets and adjusts the goal, not whether help is available.
 
@@ -6055,7 +6055,7 @@ Standards-based grading is the assessment counterpart to mastery learning, and [
 
 **"A mastery threshold is an objective property of the learner."** The threshold is a property of the *rule* used to update it. [[crediting-assisted-work-inflates-mastery-2026|Srivastava (2026)]] ran **four update rules over identical event sequences** from the ASSISTments dataset, and the rules disagree about who is ready. Mastery is therefore a decision recorded in a number, not a fact discovered about a student, and the rule should be treated as a stated policy rather than an implementation detail.
 
-**"If the system says mastered, the student is ready to advance."** Only relative to the update rule in force. Where a rule credits assisted work, "mastered" can describe a student who has succeeded with support and not independently — the same divergence between assisted performance and unassisted capability that the [[learning-gains|learning-gains]] literature documents.
+**"If the system says mastered, the student is ready to advance."** Only relative to the update rule in force. Where a rule credits assisted work, "mastered" can describe a student who has succeeded with support and not independently — the same divergence between assisted performance and unassisted capability that the [[learning-gains]] literature documents.
 
 **"Mastery learning is the pedagogy AI finally makes possible."** Its mechanics predate AI considerably — Bloom formalised the framework decades ago — and AI operationalises it by automating the assessment and pacing decisions rather than by realising a previously impossible design. That reframing matters because the automation inherits the rule choice, and the rule is where the judgement lives.
 
@@ -10967,7 +10967,7 @@ One pattern holds at every level surveyed: the human layer absorbs the hardest c
 
 **"The subject being taught matters more than the education level."** The school/university break matters more. What changes across that boundary is not the content but the capacity for self-regulation, the nature of the assessment contract, and who is responsible for the learning — which is why a tool that helps a graduate seminar can harm a second-grade lesson even on comparable content.
 
-**"An adaptive tutor helps every level equally."** The comparison that isolates the variable is instructive: two versions of the same second-grade mathematics tutor — identical content, interface, feedback and spoken hints — differing **only in whether task selection followed a Bayesian [[knowledge-tracing|knowledge-tracing]] model**. Adaptive task selection is a level-sensitive intervention, and its benefit depends on whether learners at that level can act on the adaptation.
+**"An adaptive tutor helps every level equally."** The comparison that isolates the variable is instructive: two versions of the same second-grade mathematics tutor — identical content, interface, feedback and spoken hints — differing **only in whether task selection followed a Bayesian [[knowledge-tracing]] model**. Adaptive task selection is a level-sensitive intervention, and its benefit depends on whether learners at that level can act on the adaptation.
 
 **"Evidence concentrated in higher education generalises downward."** It does not, and the distribution of the literature is a warning rather than a convenience. Where the evidence is dense and where it is thin is a property of the research economy, not of where AI is most used, so a claim about K-12 drawn from university samples is an extrapolation across the boundary that matters most.
 
@@ -11834,7 +11834,7 @@ Because e-portfolios foreground **process, reflection, and demonstrated understa
 
 **"AI makes e-portfolios as easy to fake as essays."** The failure mode is different and the evidence shows the format moving in the other direction. Combining ChatGPT with e-portfolio assessment (a CEA model) in EFL speaking produced significant gains in speaking performance (**F(1) = 48.554, p < .001**) and [[feedback-literacy|feedback literacy]] (**F(1) = 16.135, p < .001**), with e-portfolios supporting the reflective layer. The portfolio did not become the weak link once AI was added to the course; it carried the assessment.
 
-**"A significant multivariate result proves the portfolio was the active ingredient."** It proves the package moved the outcomes. The study combined an AI tool, a portfolio structure and speaking tasks, and a design of that shape cannot isolate which component produced the gain. The defensible claim is about the combination, and the [[learning-gains|learning-gains]] caution applies: reported gains need to be traced to a component before they can be reused.
+**"A significant multivariate result proves the portfolio was the active ingredient."** It proves the package moved the outcomes. The study combined an AI tool, a portfolio structure and speaking tasks, and a design of that shape cannot isolate which component produced the gain. The defensible claim is about the combination, and the [[learning-gains]] caution applies: reported gains need to be traced to a component before they can be reused.
 
 **"E-portfolios replace the need for unassisted assessment."** They complement it. A portfolio evidences process and growth over time; it does not evidence what a learner can do without support, and conflating the two reintroduces the artifact-as-proxy problem the format was adopted to solve.
 

@@ -122,6 +122,7 @@
 - [Plateforme edtech](https://edtechdev.github.io/aied/concepts/edtech-platform/): *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
 - [L'IA en éducation dans les disciplines](https://edtechdev.github.io/aied/concepts/discipline-specific-aied/): *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
 - [L'enseignement des mathématiques](https://edtechdev.github.io/aied/concepts/math-education/): *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
+- [Enseignement de la statistique et de la science des données](https://edtechdev.github.io/aied/concepts/statistics-and-data-science-education/): *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
 - [L'enseignement de la physique](https://edtechdev.github.io/aied/concepts/physics-education/): *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
 - [Enseignement de la chimie](https://edtechdev.github.io/aied/concepts/chemistry-education/): *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
 - [Enseignement de la biologie](https://edtechdev.github.io/aied/concepts/biology-education/): *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*

@@ -1,18 +1,22 @@
 ---
 title: "¿Cuáles son las mejores prácticas y consejos para diseñar software educativo de IA eficaz?"
 created: "2026-09-22T18:29:07-04:00"
-updated: "2026-10-22T09:13:53-04:00"
+updated: "2026-10-28T13:43:49-04:00"
 connected_faqs: [developing-ai-tutor, designing-ai-into-learning, making-ai-better-at-supporting-learning]
 weight: 64
 audience: [educational technology developers, software developers, instructional designers]
 foundations: [learning-design]
 ethics: [accessibility, equity-in-ai-education, pedagogical-safety]
 technology: [edtech-platform]
-source_updated: "2026-10-21T14:32:00-04:00"
+source_updated: "2026-10-28T11:39:29-04:00"
 translation_of: faqs/designing-educational-ai-software
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-28"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-22"
@@ -21,48 +25,106 @@ ai_assist:
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 
-**La IA educativa debería diseñarse como un sistema instruccional, y no solo como un modelo de propósito general con una interfaz educativa.** La investigación reciente sobre diseño recogida en esta base de conocimiento concreta esa afirmación: los sistemas más sólidos se construyen como **expertos acotados bajo supervisión humana**, codiseñados con el profesorado y el estudiantado que los usarán y fundamentados en contenido verificable en lugar de en la memoria del modelo. Un conjunto práctico de reglas de diseño:
+Su equipo tiene un tutor prototipo que ya funciona y una demostración ante el distrito dentro de tres semanas. O una escuela asociada le ha pedido que coloque una interfaz de chat sobre su lector de curso, y alguien dice que es un trabajo de dos semanas. O un revisor de compras ha devuelto la sección de seguridad con una sola línea: ¿qué probaron exactamente?
 
-- Alinee el sistema con objetivos de aprendizaje explícitos.
-- Ofrezca andamiaje en lugar de completar el trabajo cognitivo objetivo.
-- Fundamente las respuestas en contenido aprobado por el profesorado o de fuentes autorizadas cuando la fiabilidad factual importe.
-- Comunique la incertidumbre.
-- Ofrezca una [[human-in-the-loop-ai|vía de intervención humana]].
-- Diseñe respuestas «amables pero correctas» en lugar de respuestas que se limiten a dar la razón a quien las usa.
-- Dé al profesorado configuración significativa y [[teacher-role|supervisión]].
-- Minimice los datos innecesarios del estudiantado y recoja solo lo pedagógicamente necesario (véase [[privacy]]).
-- Diseñe la [[accessibility|accesibilidad]] desde el principio.
-- Compruebe si el rendimiento es desigual entre poblaciones de estudiantes (véase [[equity-in-ai-education|Equidad]]).
-- Evalúe la interacción sostenida de varios turnos en lugar de indicaciones aisladas de demostración.
+La respuesta es más estrecha de lo que suponen la mayoría de las especificaciones de producto. La IA educativa funciona como un experto acotado bajo supervisión humana: una capacidad confinada a un dominio definido, anclada en contenido aprobado por el docente y no en la memoria del modelo, codiseñada con los docentes y los estudiantes que la usan y evaluada en interacción sostenida de varios turnos. Esa última cláusula es la que más equipos se saltan. El daño pedagógico apareció en todos los modelos evaluados en el benchmark que se describe más abajo, y las tasas de fallo subieron del 17,7% en interacciones de un solo turno al 77,8% en conversaciones de varios turnos.
 
-## Seguridad pedagógica
+## La versión breve
 
-La página [[pedagogical-safety|Seguridad pedagógica]] insiste en que las pruebas de seguridad convencionales son insuficientes para la educación. Un sistema puede evitar el contenido tóxico y aun así causar daño educativo al revelar en exceso las respuestas, reforzar los [[misconceptions|conceptos erróneos]], suprimir la reflexión, fomentar la dependencia o desviarse de los objetivos instruccionales. Recomienda una evaluación de seguridad consciente de la disciplina y de varios turnos, aseguramiento de la calidad con intervención humana, fundamentación y alineación hacia la orientación en lugar de hacia el suministro de respuestas.
+**1.** Escriba qué decide el sistema y qué decide un docente. Esa frontera se convierte en la arquitectura.
 
-El [[hazra-safetutors-pedagogical-safety-2026|SafeTutors]] [[benchmark|referente de evaluación]] convierte esa advertencia en cifras. En todos los modelos probados, desde modelos abiertos de 3.8B hasta GPT-5-mini, el daño [[pedagogy|pedagógico]] fue universal, la escala del modelo no mejoró la seguridad de forma fiable y las tasas de fallo aumentaron del 17,7% en interacciones de un solo turno al 77,8% en conversaciones de varios turnos, mientras que los patrones de infracción variaron según la asignatura. La taxonomía del referente, con 11 dimensiones y 48 subriesgos (cognitivos, epistémicos, [[metacognition|metacognitivos]], [[motivation|motivacionales-afectivos]], de desarrollo y equidad, de alineación instruccional y otros), es una lista de comprobación de diseño utilizable. La lección práctica para quien especifica software educativo: un sistema puede ser preciso y «seguro» según las métricas convencionales mientras erosiona en silencio el aprendizaje, así que la evaluación de varios turnos y consciente de la disciplina es un requisito y no un filtro final.
+**2.** Evalúe la interacción de varios turnos y sensible a la disciplina con el currículo real, no prompts sueltos contra una rúbrica general de seguridad.
 
-## Accesibilidad y equidad
+**3.** Ancle las respuestas en contenido aprobado y mantenga el componente verificador separado del conversacional.
 
-La accesibilidad debería incluir requisitos operativos concretos como la operabilidad con teclado, la compatibilidad con lectores de pantalla, subtítulos y transcripciones, un contraste adecuado, alternativas textuales utilizables y compatibilidad con [[ai-technologies|tecnologías]] de asistencia; las funciones de accesibilidad generadas por IA siguen necesitando control de calidad. Véase [[accessibility|accesibilidad]].
+**4.** Trate cada entrega del estudiante como entrada no confiable, incluso cuando el sistema la esté calificando.
 
-Las pruebas de equidad deberían examinar toda la cadena de procesamiento y desagregar el comportamiento por lengua, discapacidad, cultura y otras características relevantes del estudiantado, en lugar de confiar solo en la precisión agregada. Véase la orientación sobre [[bias-mitigation|mitigación de sesgos]] de esta base de conocimiento, resumida junto a [[equity-in-ai-education|Equidad]].
+**5.** Construya la puerta de intento, la vía de escalamiento y la anulación del docente antes del piloto.
 
-## Diseñe una autoridad acotada, no la autonomía
+**6.** Ponga la accesibilidad y las pruebas de equidad desagregadas en la especificación y no en la lista de pendientes.
 
-[[reichert-human-centered-llm-chatbot-design-teachers-2026|El estudio de diseño participativo de Reichert y sus colegas]] con seis docentes de secundaria corrige de forma útil el supuesto de que la IA educativa debería ser un agente autónomo. Cuando se les pidió prototipar sobre el papel [[conversational-ai|chatbots]] de aula, todos los docentes describieron un **experto acotado**, es decir, una capacidad especializada confinada a un dominio estrictamente definido y que opera bajo supervisión humana, en dos dimensiones. Los *límites de autoridad* mantenían al profesorado con el control último, porque la responsabilidad profesional del aprendizaje y la seguridad del estudiantado no se puede delegar; los *límites de experiencia* reflejaban la falta de conocimiento contextual de la IA sobre estudiantes concretos, la dinámica del aula y las normas institucionales.
+## Decida qué se le permite ser al sistema
 
-La arquitectura que esbozaron tenía cuatro componentes interconectados (delimitación del contenido, presentación del contenido, adaptación al estudiante y supervisión del [[teacher-role|profesorado]]) apoyados en tres capas protectoras: límites de dominio que restringen el alcance, filtrado de contenido que permite una [[personalized-learning|personalización]] segura y anulación por parte del profesorado en casos ambiguos. La delegación era selectiva: al proyectarla sobre los nueve eventos de la instrucción de Gagné, el profesorado aceptaba la IA para presentar contenido, aportar problemas de práctica y ofrecer [[formative-assessment|retroalimentación]] [[feedback|formativa]], pero la rechazaba para fijar objetivos o realizar [[summative-assessment|evaluaciones]] [[assessment|sumativas]]. En particular, priorizaron la transparencia conductual (límites visibles y señales de incertidumbre) sobre las explicaciones del modelo, y los seis pidieron registro completo de las conversaciones, alertas en tiempo real y capacidad de anulación como expresión de [[teacher-role|responsabilidad profesional]] y no de desconfianza.
+[[reichert-human-centered-llm-chatbot-design-teachers-2026|El estudio de diseño participativo de Reichert y sus colegas]] con seis docentes de secundaria corrige el supuesto de que la IA educativa debería ser un agente autónomo. Cuando se les pidió prototipar en papel [[conversational-ai|chatbots]] para el aula, todos los docentes describieron un experto acotado en dos dimensiones. Las fronteras de autoridad mantenían el control en manos del docente, porque la responsabilidad del aprendizaje y de la seguridad de los estudiantes no se puede delegar. Las fronteras de pericia reflejaban la falta de conocimiento contextual de la IA sobre estudiantes concretos, la dinámica del aula y las normas institucionales.
 
-## Diseñe con las partes interesadas, no solo para ellas
+La arquitectura que esbozaron tenía cuatro componentes (delimitación del contenido, presentación del contenido, adaptación al estudiante y [[teacher-role|supervisión del docente]]) sobre tres capas de protección: fronteras de dominio que restringen el alcance, filtrado de contenido que permite una [[personalized-learning|personalización]] segura y anulación del docente para los casos ambiguos. La delegación era selectiva. Proyectada sobre los nueve eventos de la instrucción de Gagné, los docentes aceptaban la IA para presentar contenido, proporcionar problemas de práctica y ofrecer [[feedback|retroalimentación]] de tipo [[formative-assessment|formativo]], y la rechazaban para fijar objetivos o realizar la [[assessment|evaluación]] [[summative-assessment|sumativa]].
 
-[[ko-hughes-vsd-student-centered-its-2026|Ko y Hughes]] aplicaron el diseño sensible a los valores a un [[intelligent-tutoring|sistema de tutoría inteligente]] con estudiantes y profesorado de community college, un grupo de interés históricamente excluido del diseño de plataformas de aprendizaje, y encontraron tensiones de valores que hay que gestionar más que resolver: transparencia frente a interpretabilidad, privacidad frente a conocimiento instruccional y [[agency|agencia del estudiantado]] frente al [[scaffolding|andamiaje]] guiado por el sistema. El estudiantado prefería explicaciones colaborativas y humanizadas a la transparencia cruda del modelo, y el prototipo resultante codificó 16 funciones alineadas con valores en controles de [[explainable-ai|IA explicable]], intervención humana y [[privacy|privacidad]].
+Dos valores por defecto pertenecen a la misma especificación: alinear el sistema con objetivos de aprendizaje explícitos y ajustarlo hacia respuestas amables pero correctas en lugar del acuerdo con quien esté escribiendo. Un tutor que halaga una respuesta incorrecta le ha enseñado al estudiante que la respuesta era correcta.
 
-[[wang-teacher-ai-co-design-review-2026|La revisión de Wang, Liu e Islam]] de 28 estudios empíricos sobre codiseño entre profesorado e IA añade un vocabulario de diseño: la [[generative-ai|IA generativa]] se usa sobre todo para planificar clases, generar indicaciones e idear de forma creativa, con la IA actuando como asistente o generador de contenido mucho más a menudo que como codiseñadora, y con cuatro posibilidades recurrentes (eficiencia, capacidad de respuesta, [[creativity|creatividad]] y [[equity-in-ai-education|equidad]]) que el profesorado puede usar para juzgar qué herramienta encaja con qué problema de diseño. Ambos estudios tratan el diseño como una [[human-in-the-loop-ai|colaboración]] [[human-ai-collaboration|humano-IA]] en la que la persona permanece en el circuito, es decir, [[usability-research|investigación de usabilidad]] y no divulgación, y ambos encontraron que las partes interesadas consultadas señalaron requisitos que ningún referente de precisión capturaría.
+Un detalle es barato ahora y caro después: estos docentes querían transparencia conductual, límites visibles y señales de incertidumbre, más que explicaciones del razonamiento del modelo. Los seis pidieron registro completo de las conversaciones, alertas en tiempo real y capacidad de anulación, y lo plantearon como responsabilidad profesional y no como desconfianza. Diséñelo en el primer sprint, porque añadir el registro a posteriori a un tutor construido para pasar inadvertido es una reescritura.
 
-## Fundamente y verifique; no confíe en el modelo
+## Pruébelo en la conversación, no en un solo turno
 
-La fundamentación es una decisión arquitectónica, no una indicación. [[eduguard-safe-rag-llm-tutor|EduGuard]], un tutor seguro con [[rag|recuperación aumentada]] para [[cs-education|programación introductoria]], combina una recuperación de contenido del curso aprobado por el profesorado con un verificador de afirmaciones arquitectónicamente separado, un control explícito de la [[cognitive-offloading|dependencia excesiva]] y un referente de 600 consultas redactado por el profesorado que abarca conceptos erróneos, depuración de errores, consultas con mezcla de idiomas y peticiones adversarias de respuesta directa, y mejora las líneas de base de tutores [[socratic-method|socráticos]] basados en GPT-4o-mini y Llama. Para quien diseña, esta es la forma concreta de «fundamentar las respuestas en contenido aprobado por el profesorado»: separe los componentes que verifican de los componentes que conversan y pruebe con casos que intentan activamente extraer respuestas. Véase [[hallucination-risk|riesgo de alucinación]].
+La síntesis sobre [[pedagogical-safety|seguridad pedagógica]] sostiene que las pruebas de seguridad convencionales son insuficientes para la educación. Un sistema puede evitar el contenido tóxico y aun así causar daño al revelar en exceso las respuestas, reforzar [[misconceptions|concepciones erróneas]], suprimir la reflexión, fomentar la dependencia o desviarse de los objetivos instruccionales.
 
-Para ver cómo estos principios de diseño se traducen en un tutor construido (diagnóstico, escaleras de pistas, retroalimentación y evaluación), véase [[developing-ai-tutor]]; para los valores pedagógicos predeterminados que deciden si una herramienta bien construida se usa bien, véase [[designing-ai-into-learning]].
+El [[benchmark]] de [[hazra-safetutors-pedagogical-safety-2026|SafeTutors]] lo pone en cifras. En todos los modelos evaluados, desde los modelos abiertos de 3,8B hasta GPT-5-mini, el daño [[pedagogy|pedagógico]] fue universal, la escala no mejoró la seguridad de forma fiable y las tasas de fallo escalaron del 17,7% en interacciones de un solo turno al 77,8% en conversaciones de varios turnos. Los patrones de infracción variaron según la materia. Su taxonomía de 11 dimensiones y 48 subriesgos cubre categorías cognitivas, epistémicas, [[metacognition|metacognitivas]], [[motivation|motivacionales]] y afectivas, del desarrollo, de equidad y de alineación instruccional, y funciona como lista de verificación de diseño además de como batería de pruebas.
 
-**Trate la entrega del estudiante como entrada no confiable para cualquier calificador de IA.** El modelo de amenaza que más consejos de diseño omiten es el contenido adversario dentro del propio artefacto evaluado. [[humble-prompt-injection-ai-grading-red-team-2026|La evaluación adversaria de tipo red team de Humble (2026)]] comprobó si el estudiantado podía manipular un sistema de calificación basado en LLM mediante inyección de indicaciones incrustada en sus entregas, y encontró que la manipulación funciona: las inyecciones que dan instrucciones al calificador, lo reencuadran o adoptan un rol desplazan la nota sin cambiar el trabajo. Las consecuencias de diseño se derivan del mismo principio de separación de la arquitectura de verificación anterior: mantenga la rúbrica y las instrucciones de calificación fuera de la ventana de contexto que controla el estudiante, elimine o marque el contenido que se parezca a instrucciones en las entregas, no deje que una entrega establezca sus propios criterios y conserve una decisión humana sobre cualquier nota relevante. Un calificador de IA que lee sus instrucciones en el mismo texto que está juzgando ha entregado la rúbrica a quien se examina.
+Lea la cifra de escalada como una afirmación sobre su plan de pruebas. Un tutor que supera mil sondas de un solo turno puede fallar cuatro conversaciones de cada cinco en cuanto un estudiante lo cuestiona o pregunta por tercera vez. Construya el arnés de varios turnos antes de la demostración.
+
+## Ancle el contenido y separe el verificador
+
+El anclaje es una decisión arquitectónica. [[eduguard-safe-rag-llm-tutor|EduGuard]], un tutor seguro de [[rag|recuperación aumentada]] para [[cs-education|programación introductoria]], combina la recuperación de material del curso aprobado por el docente con un verificador de afirmaciones arquitectónicamente separado, un control explícito de la [[cognitive-offloading|dependencia excesiva]] y un benchmark de 600 consultas escrito por el docente que abarca concepciones erróneas, depuración, consultas con mezcla de códigos y prompts adversariales de respuesta directa. Mejoró respecto de las líneas base de tutores [[socratic-method|socráticos]] con GPT-4o-mini y con Llama.
+
+Lo transferible es la separación: los componentes que verifican no conversan, y el benchmark incluye prompts escritos para extraer respuestas y no para comprobar la cortesía. El [[hallucination-risk|riesgo de alucinación]] cubre el modo de fallo que la recuperación aprobada debe acotar.
+
+## Trate el trabajo del estudiante como entrada no confiable
+
+El modelo de amenaza que omite la mayoría de los consejos de diseño está dentro del propio artefacto que se evalúa. [[humble-prompt-injection-ai-grading-red-team-2026|La evaluación adversarial de equipo rojo de Humble (2026)]] probó si los estudiantes podían manipular a un calificador basado en LLM mediante inyección de prompts en sus entregas, y la manipulación funcionó: las inyecciones que dan instrucciones al calificador, lo reencuadran o lo hacen interpretar un papel desplazan la puntuación sin cambiar el trabajo.
+
+Mantenga la rúbrica y las instrucciones fuera de la ventana de contexto que controla el estudiante, elimine o marque el contenido que parezca una instrucción, no permita nunca que una entrega fije sus propios criterios y conserve una decisión humana en toda calificación consecuente. Un calificador que lee sus instrucciones en el texto que juzga le ha entregado la rúbrica al examinado.
+
+## Ofrezca andamiaje al trabajo en lugar de completarlo
+
+Un sistema que responde termina con el pensamiento que se compró para apoyar. Dos piezas pertenecen al ticket: una puerta de intento, para que no aparezca ninguna salida antes de que el estudiante comprometa algo, y una [[human-in-the-loop-ai|vía de escalamiento humano]] con un destino nombrado, que en un producto de aula significa el docente, en una forma sobre la que un docente pueda actuar. El [[scaffolding|andamiaje]] y el patrón [[socratic-method|socrático]] son las versiones de producto de lo que un plan de clase hace a mano; [[developing-ai-tutor]] cubre el diagnóstico, las escaleras de pistas y la retroalimentación en detalle.
+
+## Ponga la accesibilidad y la equidad en la especificación
+
+Los requisitos de accesibilidad son lo bastante concretos para un sprint: operabilidad con teclado, compatibilidad con lectores de pantalla, subtítulos y transcripciones, contraste adecuado, alternativas textuales utilizables y compatibilidad con [[ai-technologies|tecnologías]] de asistencia. Las funciones de accesibilidad generadas por IA también necesitan control de calidad. Véase [[accessibility]].
+
+Las pruebas de equidad deberían examinar toda la cadena y desagregar el comportamiento por lengua, discapacidad, cultura y otras características relevantes del estudiante, en lugar de confiar en la exactitud agregada. Un sistema que obtiene buenos resultados en promedio y malos para un grupo ha enviado el fallo a ese grupo. Véase [[bias-mitigation]] y [[equity-in-ai-education|equidad]].
+
+## Diseñe con las personas que lo van a usar
+
+[[ko-hughes-vsd-student-centered-its-2026|Ko y Hughes]] aplicaron el diseño sensible a los valores a un [[intelligent-tutoring|sistema de tutoría inteligente]] con estudiantes y docentes de un community college, un grupo históricamente excluido del diseño de plataformas de aprendizaje. Encontraron tensiones de valor que hay que gestionar y no resolver: transparencia frente a interpretabilidad, [[privacy|privacidad]] frente a conocimiento instruccional y [[agency|agencia del estudiante]] frente al [[scaffolding|andamiaje]] guiado por el sistema. Los estudiantes preferían explicaciones colaborativas y humanizadas a la transparencia bruta del modelo, y el prototipo codificó 16 funciones alineadas con valores en [[explainable-ai|IA explicable]], controles de humano en el circuito y controles de privacidad.
+
+[[wang-teacher-ai-co-design-review-2026|La revisión de Wang, Liu e Islam]] de 28 estudios empíricos añade un vocabulario para elegir herramientas. La [[generative-ai|IA generativa]] se usa sobre todo para planificar clases, generar prompts e idear de forma creativa, con la IA actuando como asistente o generador de contenido mucho más a menudo que como codiseñadora, y la revisión identifica cuatro posibilidades de acción (eficiencia, capacidad de respuesta, [[creativity|creatividad]] y [[equity-in-ai-education|equidad]]) que los docentes pueden usar para juzgar qué herramienta encaja con qué problema de diseño.
+
+Ambos estudios tratan el diseño como [[human-in-the-loop-ai|colaboración]] [[human-ai-collaboration|humano-IA]] y como [[usability-research|investigación de usabilidad]] en lugar de divulgación. Ambos encontraron que las partes interesadas sacaron a la luz requisitos que ningún benchmark de exactitud capturaría, que es el argumento práctico para pagar las sesiones: son los requisitos que, de otro modo, conocería en el piloto.
+
+## En qué se equivocan los equipos de diseño
+
+Seguridad significa moderación de contenido. El daño en un producto educativo suele llegar como una respuesta útil en el momento equivocado. SafeTutors encontró daño pedagógico en todos los modelos evaluados y un fallo que asciende al 77,8% a lo largo de una conversación, que no es una categoría para la que estén construidos los filtros de contenido.
+
+Un modelo más grande arreglará la pedagogía. La escala no mejoró la seguridad de forma fiable en el rango que va de los modelos abiertos de 3,8B a GPT-5-mini.
+
+Un buen índice de recuperación significa que el contenido está resuelto. EduGuard combina la recuperación con un verificador separado y prueba prompts adversariales de respuesta directa, porque la recuperación anclada deja todavía una vía a la revelación excesiva.
+
+El docente es el recurso de reserva. Los seis docentes del estudio de diseño pidieron registro, alertas y anulación como condición de responsabilidad profesional. Un ticket de soporte no es una anulación.
+
+La accesibilidad es un ticket para más adelante. O está en la especificación o se convierte en una reescritura, y el texto alternativo y los subtítulos generados siguen necesitando una revisión humana.
+
+## Lo que le van a responder
+
+**"No podemos construir un arnés de evaluación antes del lanzamiento."** Construya uno pequeño. La primera afirmación que necesita es qué ocurre a lo largo de cinco turnos. Tome 40 preguntas reales del currículo, ejecute cada una como una conversación de cinco turnos con un estudiante que se resiste a la pista y puntúe contra las 11 dimensiones. Esa es una sección de seguridad defendible y cabe en un sprint.
+
+**"Los docentes quieren editar los prompts y no podemos garantizar lo que escriben."** Entonces acote la superficie que editan. El prompt del sistema sigue siendo suyo; los objetivos, el contenido aprobado, la escalera de pistas y el contacto de escalamiento son suyos. La arquitectura de experto acotado existe para que la configuración se mantenga dentro de un alcance que usted pueda probar.
+
+**"Nuestras puntuaciones en el benchmark son altas."** La exactitud en respuestas de un solo turno no predice el comportamiento a lo largo de una conversación, y el benchmark que mide lo segundo encontró un 77,8% de fallo en entornos de varios turnos en todos los modelos que evaluó. Informe de ambas cifras, o la primera se leerá como la segunda.
+
+**"El registro completo es un problema de privacidad."** Lo es, y eso exige limitación de la finalidad y no ausencia. Registre lo que un docente necesita para actuar, minimice el resto, restrinja el acceso y diga en el producto qué se conserva y durante cuánto tiempo.
+
+## Qué hacer esta semana
+
+**1.** Escriba la frontera de autoridad en una página: qué decide el sistema, qué decide el docente y cuál defendería usted en una revisión de compras.
+
+**2.** Convierta la taxonomía de 11 dimensiones en un plan de pruebas y ejecútelo en varios turnos sobre 40 preguntas reales de un curso.
+
+**3.** Separe el verificador del generador en el documento de diseño, aunque la primera versión los ejecute en un mismo proceso.
+
+**4.** Añada la puerta de intento, el destino de escalamiento y la anulación del docente a la cola, con nombres asignados.
+
+**5.** Incluya la lista de accesibilidad y un requisito de desagregación en los criterios de aceptación de esta versión.
+
+## Adónde ir después
+
+[[developing-ai-tutor]] cubre la construcción, y [[designing-ai-into-learning]] cubre los valores pedagógicos por defecto que la rodean. Para saber si la herramienta funciona una vez desplegada, véase [[checking-whether-educational-ai-works]]; para los conceptos de seguridad que hay detrás del plan de pruebas, [[pedagogical-safety]] y [[hallucination-risk]]; para el contexto de compras, [[legal-issues-and-risks]].

@@ -122,6 +122,7 @@
 - [Edtech-Plattform](https://edtechdev.github.io/aied/concepts/edtech-platform/): *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
 - [KI-Bildung in den Disziplinen](https://edtechdev.github.io/aied/concepts/discipline-specific-aied/): *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
 - [Mathematikbildung](https://edtechdev.github.io/aied/concepts/math-education/): *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
+- [Statistik- und Datenwissenschaftsbildung](https://edtechdev.github.io/aied/concepts/statistics-and-data-science-education/): *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
 - [Physikbildung](https://edtechdev.github.io/aied/concepts/physics-education/): *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
 - [Chemiedidaktik](https://edtechdev.github.io/aied/concepts/chemistry-education/): *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
 - [Biologiebildung](https://edtechdev.github.io/aied/concepts/biology-education/): *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*

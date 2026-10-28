@@ -122,6 +122,7 @@
 - [एडटेक प्लेटफ़ॉर्म](https://edtechdev.github.io/aied/concepts/edtech-platform/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
 - [विषयों में AIEd](https://edtechdev.github.io/aied/concepts/discipline-specific-aied/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
 - [गणित शिक्षा](https://edtechdev.github.io/aied/concepts/math-education/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [सांख्यिकी और डेटा विज्ञान शिक्षा](https://edtechdev.github.io/aied/concepts/statistics-and-data-science-education/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
 - [भौतिकी शिक्षा](https://edtechdev.github.io/aied/concepts/physics-education/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
 - [रसायन शिक्षा](https://edtechdev.github.io/aied/concepts/chemistry-education/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
 - [जैव शिक्षा](https://edtechdev.github.io/aied/concepts/biology-education/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*

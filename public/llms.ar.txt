@@ -122,6 +122,7 @@
 - [منصة التكنولوجيا التعليمية](https://edtechdev.github.io/aied/concepts/edtech-platform/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
 - [الذكاء الاصطناعي في التعليم في المجالات الدراسية](https://edtechdev.github.io/aied/concepts/discipline-specific-aied/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
 - [تعليم الرياضيات](https://edtechdev.github.io/aied/concepts/math-education/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [تعليم الإحصاء وعلم البيانات](https://edtechdev.github.io/aied/concepts/statistics-and-data-science-education/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
 - [تعليم الفيزياء](https://edtechdev.github.io/aied/concepts/physics-education/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
 - [تعليم الكيمياء](https://edtechdev.github.io/aied/concepts/chemistry-education/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
 - [تعليم الأحياء](https://edtechdev.github.io/aied/concepts/biology-education/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*

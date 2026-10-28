@@ -1,7 +1,7 @@
 ---
 title: "¿Qué evidencia existe sobre las intervenciones de alfabetización en IA en la educación superior?"
 created: "2026-09-22T18:29:06-04:00"
-updated: "2026-10-22T09:13:53-04:00"
+updated: "2026-10-28T13:39:43-04:00"
 connected_faqs: [incorporating-ai-literacy, verify-ai-output]
 weight: 50
 audience: [instructors, researchers, administrators]
@@ -9,11 +9,15 @@ foundations: [ai-literacy]
 assessment: [educational-measurement]
 research_method: [literature review]
 level: [higher ed]
-source_updated: "2026-10-21T14:32:00-04:00"
+source_updated: "2026-10-28T11:47:13-04:00"
 translation_of: faqs/ai-literacy-evidence
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-28"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-22"
@@ -22,102 +26,106 @@ ai_assist:
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 
-La evidencia sobre las intervenciones de **[[ai-literacy|alfabetización en IA]] en la [[higher-ed|educación superior]] es prometedora, pero todavía metodológicamente inmadura**. En toda la base de conocimiento, el hallazgo recurrente más sólido es que la alfabetización en IA se desarrolla de forma más eficaz mediante una **práctica activa y contextualizada con la IA (en especial la crítica, la comparación, la reflexión y la colaboración) que mediante demostraciones de herramientas o clases magistrales por sí solas**. Al mismo tiempo, relativamente pocos estudios miden una competencia duradera y demostrada de forma independiente; muchos se basan en el [[self-regulated-learning|autoinforme]], en intervenciones breves, en comparaciones observacionales o en la [[design-based-research|investigación basada en el diseño]].
+La oficina del vicerrector quiere un resultado de alfabetización en IA en todos los programas de grado para el próximo otoño, y el plan sobre la mesa es un taller de dos horas más un módulo tutorial de la biblioteca. O una subvención ha financiado la "alfabetización en IA" en su institución y la primera reunión del comité trata de en qué gastarla. Alguien en la sala preguntará qué sabrá hacer el estudiantado después, y lo que lo resuelve es un argumento de diseño.
 
-La literatura sobre intervenciones converge en varios principios de diseño.
+La respuesta para esa sala, y el estado de la evidencia en la [[higher-ed|educación superior]], es esta: la alfabetización crece cuando el estudiantado critica las salidas de la IA dentro de una tarea disciplinar real, de forma repetida y con sus pares, y crece menos cuando se les muestra qué hace la herramienta. El efecto medio en la literatura de intervención es grande; la dispersión en torno a esa media es aún mayor, así que su diseño decide más que su tema. Las encuestas de confianza miden aceptación. Si quiere afirmar que hay alfabetización, pruebe un desempeño.
 
-## El panorama cuantitativo general
+## La versión breve
 
-Un [[liu-ai-literacy-interventions-meta-analysis-2026|metaanálisis de tres niveles de 59 estudios empíricos]] (172 tamaños del efecto, 7.211 participantes) ofrece la estimación [[quantitative-research|cuantitativa]] más clara del campo: las intervenciones de alfabetización en IA muestran un **efecto general grande (g = 0,837, p < 0,001)**, pero con un intervalo de predicción del 95% amplio [-0,292, 1,966], de modo que la eficacia varía considerablemente entre contextos y puede no generalizarse de forma uniforme. Dos moderadores fueron significativos: las intervenciones en **Asia Oriental y Europa superaron a las de América del Norte**, y las **intervenciones centradas en el conocimiento superaron a las dirigidas a habilidades, actitudes o ética**. Aparecieron efectos mayores (aunque no significativos) para las pedagogías mixtas o reflexivas, las herramientas apoyadas en GenAI y los resultados de tareas de desempeño. Los autores sostienen que la educación en alfabetización en IA debería por tanto ir más allá del conocimiento hacia las habilidades, las prácticas, la ética y las actitudes, mediante pedagogías integradas y reflexivas y herramientas apoyadas en GenAI, y que se necesita una intervención [[culturally-relevant-pedagogy|culturalmente relevante]] y sensible al contexto.([[liu-ai-literacy-interventions-meta-analysis-2026]])
+**1.** Inserte la alfabetización en un curso que el estudiantado ya cursa y en un trabajo que ya se califica.
 
-Dos implicaciones importan para quienes ejercen la práctica: (1) el resultado que se mide determina el efecto aparente, ya que las intervenciones centradas en el conocimiento parecen más sólidas que las centradas en habilidades, actitudes o ética, de modo que conviene evaluar lo que realmente importa; y (2) el amplio intervalo de predicción significa que un promedio fuerte no garantiza un efecto fuerte en un contexto local concreto, lo que refuerza el argumento a favor de un diseño sensible al contexto.
+**2.** Haga que se comprometan con su propia respuesta antes de ver la del modelo.
 
-## Criticar la IA en lugar de limitarse a operarla
+**3.** Califique la crítica con la rúbrica que ya usa para la tarea.
 
-En psicología de grado, Richmond y Nicholls pidieron a sus estudiantes que calificaran una nota de prensa generada por [[generative-ai|ChatGPT]] con la rúbrica de su curso, identificaran los errores y la revisaran. Los estudiantes reconocieron en general que el resultado era estilísticamente pulido pero débil al representar con exactitud los objetivos, los métodos y los hallazgos de la investigación. En comparación con la cohorte anterior de [[peer-assessment|evaluación entre pares]], la cohorte de crítica de la IA obtuvo resultados modestamente mejores en la revisión posterior del guion (*d* = 0,36), aunque **no hubo una ventaja significativa en el vídeo final**.
+**4.** Ejecútela más de una vez a lo largo del semestre.
 
-Esto proporciona evidencia alentadora para una alfabetización en IA basada en la crítica, pero la comparación histórica impide una conclusión causal sólida.
+**5.** Cuente una tarea de desempeño como su evidencia y mantenga las ganancias de confianza en una línea aparte.
 
-Fuente: [[richmond-nicholls-genai-psych-feedback-ai-literacies|Uso de la IA generativa para promover las alfabetizaciones psicológica, de retroalimentación y en IA en la psicología de grado]].
+## Construya la secuencia en torno a una crítica
 
-## Integrar la alfabetización en IA en el trabajo disciplinar
+El ejemplo de aula más sólido de la base de conocimiento viene de psicología de grado. Richmond y Nicholls pidieron al estudiantado calificar un comunicado de prensa generado por [[generative-ai|ChatGPT]] contra la rúbrica de su propio curso, nombrar los errores y revisarlo. En general, el estudiantado vio que la prosa estaba pulida y que el contenido tergiversaba los objetivos, los métodos y los hallazgos de la investigación. Frente a la cohorte anterior de [[peer-assessment|evaluación entre pares]], el grupo de crítica de la IA rindió algo mejor en la revisión del guion que vino después (*d* = 0,36), sin ventaja significativa en el video final ([[richmond-nicholls-genai-psych-feedback-ai-literacies]]).
 
-El enfoque de economía de Beck y Brodersen pide a los estudiantes que primero resuelvan o interpreten por sí mismos un problema económico auténtico, que después obtengan la respuesta de ChatGPT, comparen ambas, critiquen la IA, reflexionen y dialoguen con sus pares. La intervención combina la alfabetización en IA con técnicas existentes de [[active-learning|aprendizaje activo]] como Think-Pair-Share.
+La literatura de la que vienen estos ejemplos se apoya en intervenciones breves, en el [[self-regulated-learning|autoinforme]] y en trabajo de diseño, y este estudio arrastra dos de esos límites. La comparación fue histórica, así que una cohorte mejor preparada produciría el mismo patrón. La ventaja apareció además en el artefacto intermedio y desapareció en el terminado, que es lo que cabría esperar si la crítica enseñó a revisar.
 
-Su principal aportación es un [[learning-design|diseño instruccional]] transferible más que una evidencia experimental sólida de efectos sobre el aprendizaje.
+Beck y Brodersen incorporaron el mismo movimiento a un curso de economía: el estudiantado resuelve o interpreta por su cuenta un problema auténtico, luego obtiene la respuesta de ChatGPT, compara las dos, critica la IA, reflexiona y discute con sus pares. Su diseño integra la alfabetización en IA en rutinas de [[active-learning|aprendizaje activo]] que el curso ya aplicaba, como Think-Pair-Share. Su aportación es un [[learning-design|diseño instruccional]] transferible, respaldado por el uso en el aula y no por un experimento ([[beck-genai-literacy-economics-hands-on]]).
 
-Fuente: [[beck-genai-literacy-economics-hands-on|Fomentar la alfabetización en IA generativa en economía]].
+## Inserte la alfabetización en un curso que el estudiantado ya cursa
 
-## Experiencias sostenidas en lugar de talleres puntuales
+La [[meta-analysis-systematic-review|revisión sistemática]] de Hingle y Johri ordena las actividades de alfabetización en IA con el [[icap-framework|marco ICAP]]: exposición pasiva, manipulación activa, generación constructiva y coconstrucción interactiva. Las intervenciones aparecen en los cuatro modos, y la revisión argumenta contra reducir la alfabetización en IA a una sesión informativa unidireccional ([[hingle-collaborative-ai-literacy-2025]]). Las prácticas que respalda son las que se pueden incorporar a una tarea: el estudiantado crea, critica, explica y debate las salidas de la IA con sus pares.
 
-El **AI Literacy Continuum** de NC State describe una progresión desde *Not Yet Engaged* y *Uncritical Use* hasta *Informed Use*, *[[critical-thinking|Critical Evaluation]]* e *Improvement*. Su implementación involucró a más de 330 participantes en cursos y talleres.
+El **AI Literacy Continuum** de NC State describe una progresión desde *Not Yet Engaged* y *Uncritical Use* hasta *Informed Use*, *[[critical-thinking|Critical Evaluation]]* e *Improvement*, y se implementó con más de 330 participantes en cursos y talleres ([[ai-literacy-continuum-higher-education]]). Sus observaciones sugieren una división: las experiencias breves movieron al estudiantado hacia el uso informado, mientras que la evaluación crítica y la mejora aparecieron sobre todo en trabajo sostenido e incrustado en la disciplina. No hubo una medida pre/post validada ni un grupo de comparación, así que esto es evidencia basada en la práctica.
 
-Las observaciones sugerían que las experiencias breves podían llevar a los estudiantes hacia un uso informado, mientras que la evidencia de evaluación crítica y mejora era más evidente en experiencias sostenidas e integradas en la disciplina. Sin embargo, **no hubo una medida pre/post validada ni un grupo de comparación**, por lo que se trata de evidencia basada en la práctica y no causal.
+La formación del profesorado muestra el mismo techo desde otro ángulo. La intervención de [[design-based-research|investigación basada en diseño]] de Le et al. se pilotó con 14 estudiantes de máster y se evaluó con 29 estudiantes de [[teacher-education|formación docente]]. La [[self-efficacy|autoeficacia]] declarada en competencia con IA aumentó y el estudiantado se desplazó hacia una consideración [[pedagogy|pedagógica]] más crítica de la IA generativa, mientras las ganancias en ética solo alcanzaron significación marginal. Un estudio de diseño pequeño de esa forma no puede establecer competencia ([[genai-literacy-training-teacher-education-dbr-2026]]).
 
-Fuente: [[ai-literacy-continuum-higher-education|Más allá de la adopción de herramientas: un continuo de desarrollo práctico en cinco etapas para la alfabetización en IA en la educación superior]].
+## Mida lo que el estudiantado puede hacer
 
-## Diseños colaborativos y cognitivamente activos
+Un [[liu-ai-literacy-interventions-meta-analysis-2026|metaanálisis de tres niveles de 59 estudios]] (172 tamaños de efecto, 7.211 participantes) ofrece la estimación [[quantitative-research|cuantitativa]] más clara disponible: un efecto global grande (g = 0,837, p < 0,001). El intervalo de predicción del 95% va de -0,292 a 1,966, que es la cifra que hay que citar cuando alguien pregunta si la intervención funcionará en su programa. Dos moderadores fueron significativos. Las intervenciones en Asia Oriental y Europa superaron a las de Norteamérica, y las intervenciones centradas en conocimiento superaron a las dirigidas a habilidades, actitudes o ética. Aparecieron efectos mayores pero no significativos en pedagogías mixtas o reflexivas, herramientas apoyadas en IA generativa y resultados de tareas de desempeño.
 
-La [[meta-analysis-systematic-review|revisión sistemática]] de Hingle y Johri organiza las actividades de alfabetización en IA con el [[icap-framework|marco ICAP]]: exposición pasiva, manipulación activa, generación constructiva y coconstrucción interactiva. La revisión encuentra intervenciones en los cuatro modos y argumenta en contra de reducir la alfabetización en IA a una sesión informativa unidireccional.
+Los autores leen su propio resultado como un argumento para ir más allá del conocimiento hacia habilidades, prácticas, ética y actitudes, mediante una pedagogía reflexiva integrada y un diseño [[culturally-relevant-pedagogy|culturalmente relevante]]. Para un comité, dos implicaciones hacen el trabajo. El resultado que usted mide da forma al efecto que encuentra, así que elija el resultado que de verdad le importa. Un intervalo de predicción tan amplio aboga por un pilotaje local.
 
-La evidencia respalda diseñar oportunidades para que los estudiantes creen, critiquen, expliquen y debatan los resultados de la IA con sus pares.
+La medición es donde fracasan la mayoría de las afirmaciones de un programa. La prueba de desempeño validada **GLAT** predijo el desempeño en una tarea de educación superior asistida por IA. Una medida de alfabetización en ChatGPT [[self-report-measures|autoinformada]] no lo hizo ([[jin-glat-genai-literacy-assessment]]; [[ai-literacy-assessment-misalignment]]). En toda la base de conocimiento, la competencia en IA declarada y la demostrada divergen sustancialmente, lo que convierte la [[educational-measurement|medición educativa]] y la [[assessment-validity|validez de la evaluación]] en parte del diseño y no en una ocurrencia tardía de la [[ai-ed-evaluation|evaluación]].
 
-Fuente: [[hingle-collaborative-ai-literacy-2025|Revisión sistemática de actividades de aprendizaje colaborativo para promover la alfabetización en IA]].
+Burriss et al. afinan qué cuenta. Su estudio con 22 estudiantes de grado 11 que componían anuncios de servicio público en video sobre ética de la IA sostiene que las escalas de alfabetización y los marcos de competencia existentes presuponen un desempeño medible individualmente, lo que excluye la expresión colaborativa y creativa. Proponen las reflexiones del estudiantado, los artefactos [[multimodal|multimodales]] y el discurso cívico como complementos de las medidas convencionales. Su estudiantado desarrolló una comprensión crítica de la ética de la IA mediante [[critical-pedagogy|pedagogía crítica]] colaborativa, y eso cuestiona las concepciones de la alfabetización como lista de habilidades y también los instrumentos construidos sobre ellas. Quince de las 18 respuestas de fin de unidad afirmaron un aprendizaje nuevo, y los autores señalan que el proyecto resiste la [[summative-assessment|evaluación sumativa]] tradicional ([[burriss-multimodal-composition-critical-ai-literacy-2026]]).
 
-## Formación docente: confianza frente a competencia demostrada
+Las medidas de aceptación son una trampa aparte. Wang, Chuang y Wu encuestaron a 831 estudiantes y docentes taiwaneses de [[k-12]] tras unos 30 minutos con una guía de alfabetización en IA escalonada por edad y encontraron una estructura de [[technology-acceptance-model|aceptación]] estable de cuatro factores. La diversión percibida fue el correlato más fuerte de la intención conductual. El estudio midió aceptación a corto plazo, no [[learning-gains|ganancias de aprendizaje]], competencia [[ethics|ética]] ni uso real, y los autores afirman que los constructos de aceptación "no deben usarse para inferir la eficacia del aprendizaje ni el éxito de la implementación" ([[age-tiered-ai-literacy-guidebooks-2026]]).
 
-La intervención de alfabetización en GenAI basada en el diseño de Le et al., pilotada con 14 estudiantes de máster y evaluada con 29 estudiantes de [[teacher-education|formación docente]], aumentó la [[self-efficacy|autoeficacia]] autodeclarada en competencia en IA y produjo un giro hacia una consideración [[pedagogy|pedagógica]] más crítica de la GenAI.
+## Cuente con los errores que la enseñanza no corrige
 
-Sin embargo, las ganancias en ética solo alcanzaron significación marginal, y el pequeño estudio de investigación basada en el diseño implica que las conclusiones sobre la competencia objetiva siguen siendo limitadas.
+Entrenar al estudiantado para formular mejores indicaciones o usar mejor la IA no los convierte en usuarios críticos fiables. En el experimento de [[ai-sycophancy|sycophancy contextual]], la formación en alfabetización en IA y en [[prompt-engineering|indicaciones]] redujo la frecuencia con que el modelo reflejaba los errores de razonamiento de los participantes, y la propagación posterior de esos errores sobrevivió al entrenamiento ([[contextual-sycophancy-ai-literacy]]).
 
-Fuente: [[genai-literacy-training-teacher-education-dbr-2026|Desarrollo y evaluación de una formación en alfabetización en IA para estudiantes de formación docente]].
+Lea eso como un límite de lo que un curso puede prometer. La educación en alfabetización no puede cargar con toda la responsabilidad de la seguridad, y un programa que afirme que sí lo hace ha desplazado el riesgo en lugar de eliminarlo. El diseño de herramientas y las salvaguardas de nivel de sistema siguen en el plan.
 
-## La formación en alfabetización en IA no elimina los errores relacionados con la IA
+## Empiece donde ya están sus estudiantes
 
-Una advertencia particularmente importante es que **formar a los estudiantes para que formulen mejores indicaciones o usen mejor la IA no equivale a convertirlos en usuarios críticos fiables**. En el experimento de [[ai-sycophancy|sycophancy contextual]], la formación en alfabetización en IA y en [[prompt-engineering|indicaciones]] redujo la tendencia del modelo a reflejar los errores de razonamiento de los participantes, pero **no eliminó la propagación posterior de esos errores**.
+Şan y Orhan Karsak usaron una prueba psicolingüística de asociación de palabras con 436 estudiantes de grado turcos (1.376 respuestas codificadas, κ interevaluador = 0,87) para trazar cómo representan la IA. Las asociaciones se agruparon en torno a la utilidad instrumental, con el predominio de la comodidad (f = 145) y la rapidez (f = 110). La transparencia algorítmica, la privacidad y los conceptos de [[governance|gobernanza]] fueron escasos y quedaron estructuralmente aislados de ese grupo de utilidad (τ de Kendall = -0,819). Su argumento se sigue de ahí: un módulo de ética impartido dentro de una estructura cognitiva que no tiene esquema para recibirlo probablemente fracasará. Los currículos necesitan puentes explícitos desde el conocimiento cotidiano de la herramienta hacia los marcos éticos y de gobernanza, y las microcredenciales deberían secuenciar el contenido para cerrar esa brecha en lugar de repetir lo que el estudiantado ya sabe ([[san-orhan-karsak-ai-cognition-micro-credentials-2026]]).
 
-Esto sugiere que la educación en alfabetización no puede cargar con toda la responsabilidad de la seguridad; también se necesitan el diseño de herramientas y las salvaguardas a nivel de sistema.
+Una interpretación [[situated-learning|situada]] viene de los siete grupos focales de Dai y Chan con 28 investigadores de posgrado, que usaban la IA de forma desigual a lo largo del flujo de trabajo de investigación. El uso era más intenso en trabajo procedimental de bajo riesgo, como el formato, la traducción y la explicación, y notablemente más cauteloso donde estaba en juego la contribución académica. Los participantes trazaban sus propios límites entre asistir su razonamiento y sustituirlo. Los autores tratan la [[ai-literacy|alfabetización en IA]] como una capacidad situada y no como una lista estática de competencias, y recomiendan [[scaffolding|andamiar]] cada dimensión a lo largo de tareas reales en lugar de imponer reglas binarias ([[dai-chan-responsible-genai-research-ai-literacy-2026]]).
 
-Fuente: [[contextual-sycophancy-ai-literacy|El coste oculto de la sycophancy contextual: una intervención de alfabetización en IA en la colaboración humano-IA]].
+## Compruebe la credencial antes de otorgarla
 
-## Medir la alfabetización en IA importa
+Los certificados y las microcredenciales son donde la alfabetización en IA se imparte a escala y donde la evaluación es más débil. Wu y Li construyeron un sistema de indicadores ponderado por expertos (AHP y Fuzzy-AHP con comprobaciones de Monte Carlo, 18 expertos) para programas de certificación en IA. La competencia profesional del profesorado mostró la mayor brecha entre importancia y satisfacción, con una importancia percibida alta (0,1976) frente a una satisfacción actual baja. Sus datos sitúan la capacidad del profesorado por delante de la infraestructura tecnológica como la restricción principal del cambio pedagógico. La adaptabilidad intercultural obtuvo el peso estratégico más bajo (0,0735), que ellos leen como un sesgo tecnologicista en la certificación temprana ([[wu-li-evaluation-indicator-ai-certificate-programs-2026]]).
 
-La literatura sobre medición refuerza esta cautela. La prueba de desempeño validada **GLAT** predijo el desempeño en una tarea de educación superior asistida por IA, mientras que una medida de alfabetización en ChatGPT [[self-report-measures|autoinformada]] no lo hizo. De forma más amplia, la base de conocimiento informa de discrepancias sustanciales entre la competencia en IA declarada y la demostrada.
+La pregunta que se sigue es la que hay que plantear a su propio programa: ¿certifica la credencial una alfabetización duradera o registra una asistencia? ¿Y está preparado para juzgarlo quien la imparte?
 
-En consecuencia, una intervención que eleva la confianza, las actitudes o la alfabetización percibida **no debería interpretarse automáticamente como una mejora de la alfabetización en IA en sí**. Esto apunta a la importancia de la [[educational-measurement|medición educativa]] y la [[assessment-validity|validez de la evaluación]] al [[ai-ed-evaluation|evaluar las intervenciones]] de alfabetización en IA.
+## En qué se equivoca este público
 
-Trabajos más recientes afinan tanto *qué* debería medirse como *cómo*. El estudio de aula de Burriss et al. con 22 estudiantes de undécimo grado que componían anuncios de servicio público en vídeo sobre ética de la IA sostiene que las escalas de alfabetización en IA y los marcos de competencias existentes presuponen un desempeño medible individualmente y, por tanto, excluyen la expresión colaborativa y creativa; proponen que las reflexiones de los estudiantes, los artefactos [[multimodal|multimodales]] y el discurso cívico complementen las medidas convencionales. Su hallazgo de que los estudiantes desarrollaron una comprensión crítica de la ética de la IA mediante una alfabetización crítica colaborativa, a través de la [[critical-pedagogy|pedagogía crítica]], cuestiona las concepciones de la alfabetización en IA como lista de habilidades y, con ellas, los instrumentos construidos sobre esas listas. También muestra la dirección del cambio: 15 de 18 respuestas de fin de unidad afirmaron nuevos aprendizajes, mientras los autores señalan que el proyecto se resiste a la [[summative-assessment|evaluación sumativa]] tradicional. Véase [[burriss-multimodal-composition-critical-ai-literacy-2026|La composición multimodal como forma de pedagogía crítica de alfabetización en IA]].
+Un taller es un currículo. Las observaciones del Continuum sitúan la evaluación crítica y la mejora en trabajo sostenido e incrustado en la disciplina, y Le et al. movieron la autoeficacia sin establecer competencia.
 
-Una cautela aparte proviene de la investigación sobre aceptación. Wang, Chuang y Wu encuestaron a 831 estudiantes y docentes taiwaneses de [[k-12]] tras unos 30 minutos con una guía de alfabetización en IA graduada por edad y encontraron una estructura de [[technology-acceptance-model|aceptación]] estable de cuatro factores, pero la diversión percibida fue el correlato más fuerte de la intención conductual, y el estudio midió la aceptación a corto plazo, no las [[learning-gains|ganancias de aprendizaje]], la competencia [[ethics|ética]] ni el uso real. Los autores son explícitos en que los constructos de aceptación "no deben usarse para inferir la eficacia del aprendizaje ni el éxito de la implementación". Véase [[age-tiered-ai-literacy-guidebooks-2026|Medir la aceptación de guías de alfabetización en IA graduadas por edad]].
+La confianza es un indicador de la alfabetización. El resultado de GLAT es directo: una prueba de desempeño predijo el desempeño en la tarea y una medida autoinformada no.
 
-Fuentes:
+Un efecto medio grande significa que el programa funcionará aquí. Con un intervalo de predicción de -0,292 a 1,966, la media describe el campo; su cohorte se sitúa en algún punto dentro de ese rango.
 
-- [[jin-glat-genai-literacy-assessment|GLAT: la prueba de evaluación de la alfabetización en IA generativa]]
-- [[ai-literacy-assessment-misalignment|Evaluación de la alfabetización en IA: desajuste entre el autoinforme y el desempeño]]
+La formación en alfabetización convierte al estudiantado en usuarios seguros. En el experimento de sycophancy, la formación redujo el reflejo y dejó intacta la propagación de errores.
 
-## Diagnóstico antes de la instrucción: la cognición existente del estudiantado sobre la IA
+La alfabetización es una sola habilidad que se transfiere entre herramientas. Dai y Chan encontraron investigadores que trazaban límites distintos en partes distintas de un mismo flujo de trabajo.
 
-El punto en el que *comienza* una intervención importa tanto como su contenido. Şan y Orhan Karsak usaron una prueba psicosociolingüística de asociación de palabras (Word Association Test) con 436 estudiantes universitarios turcos (1.376 respuestas codificadas, κ interevaluador = 0,87) para mapear sus representaciones cognitivas de la IA. Las asociaciones se agruparon en torno a la utilidad instrumental (comodidad, f = 145, y velocidad, f = 110), mientras que la transparencia algorítmica, la privacidad y los conceptos de [[governance|gobernanza]] no solo eran raros, sino estructuralmente aislados del grupo dominante de utilidad (τ de Kendall = -0,819). Los autores sostienen que impartir un módulo de ética en una arquitectura cognitiva sin esquemas previos que lo reciban probablemente fracasará: los planes de estudio deben construir **puentes** explícitos desde el conocimiento cotidiano de las herramientas hacia marcos éticos y de gobernanza, y las microcredenciales deberían secuenciar el contenido para cerrar esa brecha estructural en lugar de reproducir lo que los estudiantes ya saben. Es un argumento de **evaluación de necesidades** para el diseño de intervenciones, y uno de los pocos estudios que aportan un diagnóstico basado en datos antes de la instrucción. Véase [[san-orhan-karsak-ai-cognition-micro-credentials-2026|Conocer su nombre, no su naturaleza]].
+## Lo que le van a responder
 
-Una visión contrastante y [[situated-learning|situada]] proviene de los siete grupos focales de Dai y Chan con 28 investigadores de posgrado, que pusieron en acto la [[ai-literacy|alfabetización en IA]] de forma diferencial a lo largo del flujo de trabajo de investigación (un uso más intenso en tareas procedimentales de bajo riesgo, como el formato, la traducción y la explicación, y una cautela notablemente mayor donde estaba en juego la contribución académica) y trazaron sus propios límites entre asistir su razonamiento y sustituirlo. Su conclusión es que la alfabetización en IA se entiende mejor como una capacidad situada que como una lista estática de competencias, y que la orientación sobre el uso responsable debería [[scaffolding|andamiar]] cada dimensión de la alfabetización a lo largo de tareas reales en lugar de imponer reglas binarias. Véase [[dai-chan-responsible-genai-research-ai-literacy-2026|Dar forma al uso responsable de la GenAI en la investigación mediante directrices orientadas a la alfabetización en IA]].
+**"No hay espacio en el currículo."** Añada la crítica a una tarea que ya califica, como Beck y Brodersen la integraron en rutinas de aprendizaje activo existentes. Un curso separado cuesta más y enseña lo mismo.
 
-## Credenciales y evaluación a nivel de programa
+**"Nuestro estudiantado creció con esta tecnología."** Lo que Şan y Orhan Karsak midieron es la familiaridad con la herramienta: comodidad y rapidez, con la privacidad y la gobernanza estructuralmente separadas. La soltura en el uso de algo no es comprenderlo.
 
-La alfabetización en IA se imparte cada vez más mediante certificados y microcredenciales, y aquí es donde la evaluación es más débil. Wu y Li construyeron un sistema de indicadores de evaluación ponderado por expertos (AHP / Fuzzy-AHP con verificación de robustez por Monte Carlo, 18 expertos) para programas de certificación en IA y encontraron que **la competencia profesional del profesorado mostraba la mayor brecha entre importancia y satisfacción** (alta importancia percibida, 0,1976, frente a baja satisfacción actual), identificando la capacidad del profesorado, y no la infraestructura tecnológica, como la principal restricción para la transformación pedagógica; la adaptabilidad intercultural recibió el peso estratégico más bajo (0,0735), lo que señala un sesgo tecnológico prioritario en la certificación en fase inicial. Véase [[wu-li-evaluation-indicator-ai-certificate-programs-2026|Sistema de indicadores de evaluación para programas de certificación en IA]]. Esto pone en primer plano una pregunta que la literatura sobre intervenciones apenas ha puesto a prueba: si una credencial certifica una [[ai-literacy|alfabetización en IA]] duradera o solo registra la finalización, y si el [[teacher-education|profesorado]] que la imparte está a su vez preparado para juzgarlo.
+**"Solo deme el tamaño del efecto."** g = 0,837, p < 0,001, de 59 estudios, con un intervalo de predicción del 95% de -0,292 a 1,966. La segunda cifra es la que gobierna su decisión.
 
-## Valoración general de la evidencia
+**"Encuestaremos al estudiantado al final del semestre."** Entonces habrá medido aceptación. Wang et al. dicen explícitamente qué no puede sostener eso, con una muestra de 831.
 
-En conjunto, la evidencia puede caracterizarse como **moderada para los principios de diseño instruccional, pero todavía de débil a moderada para la eficacia causal**.
+**"La credencial es el mecanismo de rendición de cuentas."** Wu y Li encontraron que la competencia del profesorado era la restricción vinculante, y que la adaptabilidad intercultural recibía el menor peso. Un certificado registra que alguien completó algo.
 
-El modelo actual más defendible para la [[higher-ed|educación superior]] es:
+**"Nuestro profesorado no está preparado para enseñar esto."** La evidencia está de acuerdo. La capacidad del profesorado fue la mayor brecha en los datos de Wu y Li, y ningún estudio de esta página prueba cómo cerrarla.
 
-1. Integrar la alfabetización en IA dentro de tareas disciplinares auténticas.
-2. Pedir a los estudiantes que formen un juicio o una solución iniciales antes de consultar la IA.
-3. Exigir comparación, verificación y crítica de los resultados de la IA.
-4. Incorporar el diálogo entre pares y la reflexión.
-5. Repetir estas experiencias a lo largo del tiempo en lugar de depender solo de talleres puntuales.
-6. Evaluar a los estudiantes con **tareas basadas en el desempeño que exijan evaluación independiente y juicio responsable**, en lugar de depender solo de encuestas de confianza o de autoinforme.
+## Qué hacer esta semana
 
-Importantes lagunas permanecen. La literatura sigue necesitando más **estudios multiinstitucionales aleatorizados o cuasiexperimentales sólidos, medidas de resultado comunes y validadas, pruebas diferidas de retención y transferencia, y evidencia sobre si las ganancias de alfabetización persisten cuando los estudiantes se enfrentan a nuevos modelos de IA, a nuevas disciplinas o a modos de fallo de la IA que no les resultan familiares**.
+**1.** Elija una tarea calificada y añada un paso en el que el estudiantado produzca su propia respuesta antes de consultar la IA.
 
-En resumen, la evidencia actual respalda tratar la alfabetización en IA como una **práctica crítica integrada en la disciplina**, y no simplemente como conocimiento sobre la IA o pericia en formular indicaciones. El argumento instruccional a favor de la crítica, la comparación, la reflexión, la colaboración y la práctica auténtica repetida es cada vez más coherente, pero la evidencia de que intervenciones concretas producen una alfabetización en IA duradera y transferible sigue estando menos establecida. Sobre cómo se traduce esa conclusión en un diseño concreto de curso, véase [[incorporating-ai-literacy|¿Cómo debería incorporar la alfabetización en IA en mi curso?]]; sobre dónde la propia base de evidencia sigue siendo débil, véase [[research-gaps-aied|¿Cuáles son las lagunas notables en la literatura de investigación sobre la IA en la educación?]].
+**2.** Escriba la consigna de la crítica contra su rúbrica existente, para que el estudiantado califique la salida con el estándar que ya usa.
+
+**3.** Programe una segunda ejecución de la misma actividad más adelante en el semestre, en el mismo curso.
+
+**4.** Sustituya una pregunta de confianza de fin de semestre por un ítem breve de desempeño, y puntúelo.
+
+**5.** Pregunte a quien sea responsable de su microcredencial qué evidencia de competencia va a aceptar, y obtenga la respuesta por escrito.
+
+## Adónde ir después
+
+[[incorporating-ai-literacy|¿Cómo debería incorporar la alfabetización en IA a mi curso?]] lleva la pregunta de diseño a la planificación del curso. [[ai-literacy]] contiene el concepto y su debate sobre la medición, y [[research-gaps-aied|la página de lagunas de investigación]] cubre dónde sigue siendo débil esta literatura.

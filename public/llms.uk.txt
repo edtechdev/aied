@@ -122,6 +122,7 @@
 - [Платформа EdTech](https://edtechdev.github.io/aied/concepts/edtech-platform/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
 - [AIEd в дисциплінах](https://edtechdev.github.io/aied/concepts/discipline-specific-aied/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
 - [Математична освіта](https://edtechdev.github.io/aied/concepts/math-education/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Освіта зі статистики та науки про дані](https://edtechdev.github.io/aied/concepts/statistics-and-data-science-education/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
 - [Освіта з фізики](https://edtechdev.github.io/aied/concepts/physics-education/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
 - [Хімічна освіта](https://edtechdev.github.io/aied/concepts/chemistry-education/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
 - [Освіта з біології](https://edtechdev.github.io/aied/concepts/biology-education/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*

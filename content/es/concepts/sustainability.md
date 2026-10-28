@@ -63,7 +63,7 @@ La segunda vía se ocupa de la propia huella de la IA en entornos educativos:
 
 ## El aprendizaje sostenible como objetivo pedagógico
 
-Una línea relacionada enmarca la sostenibilidad no solo como una preocupación ambiental o institucional, sino como una propiedad del propio aprendizaje. [[zhu-e3-hot-embodied-intelligence-sustainable-learning|Zhu et al. (2026)]] sostienen que el aprendizaje asistido por IA corre el riesgo de externalización cognitiva y de desvinculación de contextos auténticos, y proponen marcos (E3-HOT) para el **aprendizaje sostenible**: un aprendizaje que persiste, se transfiere y sigue conectado a problemas reales en lugar de quedar cortocircuitado por la [[cognitive-offloading|dependencia cognitiva]]. Esto conecta la sostenibilidad con la [[agency|agencia]] y el [[critical-thinking|pensamiento crítico]].
+Una línea relacionada enmarca la sostenibilidad no solo como una preocupación ambiental o institucional, sino como una propiedad del propio aprendizaje. [[zhu-e3-hot-embodied-intelligence-sustainable-learning|Zhu et al. (2026)]] sostienen que el aprendizaje asistido por IA corre el riesgo de descarga cognitiva y de desvinculación de contextos auténticos, y proponen marcos (E3-HOT) para el **aprendizaje sostenible**: un aprendizaje que persiste, se transfiere y sigue conectado a problemas reales en lugar de quedar cortocircuitado por la [[cognitive-offloading|dependencia cognitiva]]. Esto conecta la sostenibilidad con la [[agency|agencia]] y el [[critical-thinking|pensamiento crítico]].
 
 ## Conexiones con otros conceptos
 

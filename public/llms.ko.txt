@@ -122,6 +122,7 @@
 - [교육공학 플랫폼](https://edtechdev.github.io/aied/concepts/edtech-platform/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
 - [학문 분야별 AI 교육](https://edtechdev.github.io/aied/concepts/discipline-specific-aied/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
 - [수학 교육](https://edtechdev.github.io/aied/concepts/math-education/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [통계 및 데이터 과학 교육](https://edtechdev.github.io/aied/concepts/statistics-and-data-science-education/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
 - [물리 교육](https://edtechdev.github.io/aied/concepts/physics-education/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
 - [화학 교육](https://edtechdev.github.io/aied/concepts/chemistry-education/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
 - [생물 교육](https://edtechdev.github.io/aied/concepts/biology-education/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*

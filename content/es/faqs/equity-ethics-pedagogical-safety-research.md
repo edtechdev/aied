@@ -1,17 +1,21 @@
 ---
 title: "¿Cómo debería la investigación sobre IA en educación incorporar la equidad, la accesibilidad, la privacidad, la ética y la seguridad pedagógica?"
 created: "2026-09-22T18:32:58-04:00"
-updated: "2026-10-22T07:28:56-04:00"
+updated: "2026-10-28T13:43:49-04:00"
 connected_faqs: [ai-disabled-neurodivergent-learners, ai-guidance-children-under-13, institutional-ai-policy, research-gaps-aied]
 weight: 60
 audience: [researchers, instructors, instructional designers]
 ethics: [accessibility, digital-divide, equity-in-ai-education, ethics, privacy, pedagogical-safety]
 methods: [research-methods-aied]
-source_updated: "2026-10-21T14:32:00-04:00"
+source_updated: "2026-10-28T11:47:13-04:00"
 translation_of: faqs/equity-ethics-pedagogical-safety-research
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-28"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-22"
@@ -20,32 +24,92 @@ ai_assist:
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 
-**Estos aspectos deberían tratarse como requisitos de diseño y resultados de evaluación desde el principio, y no como limitaciones añadidas a la sección de discusión una vez completado un estudio de eficacia.**
+El protocolo vence el viernes. La sección 7, sobre ética, dice que los riesgos se monitorearán. El reclutamiento se hace a través de un curso de primer año ya existente, y el párrafo de limitaciones señala que los hallazgos podrían no ser generalizables. El panel revisor preguntará quién se beneficiará probablemente, si los estudiantes con discapacidad pueden usar la herramienta, qué ocurre con los registros de interacción y cómo se ve en los datos una respuesta dañina de un tutor. Cuatro preguntas, y ninguna tiene todavía una sección.
 
-## Equidad
+La respuesta que debe dar al panel: la equidad, la accesibilidad, la privacidad y la seguridad [[pedagogy|pedagógica]] pertenecen al diseño y a las medidas de resultado desde el primer borrador. Cada una cambia a quién recluta, qué instrumenta y qué informa, así que vincúlela a una decisión mientras el protocolo todavía se puede editar.
 
-Para la equidad, examine no solo quién tiene acceso a la IA, sino también quién tiene las habilidades para usarla con eficacia y quién recibe en última instancia sus beneficios. El concepto [[digital-divide|Brecha digital]] de esta base de conocimiento distingue las brechas de acceso, de habilidades y de resultados, lo que significa que el acceso igualitario a un [[conversational-ai|chatbot]] no equivale a un beneficio educativo [[equity-in-ai-education|equitativo]]. Por lo tanto, quien investiga debería informar de los resultados de los subgrupos pertinentes e investigar la eficacia diferencial en lugar de basarse solo en los promedios generales (véase [[differential-effects-across-learner-groups|Efectos diferenciales entre grupos de estudiantes]]).
+## La versión breve
 
-La investigación recién añadida muestra cómo se acumulan las inequidades estructurales. Un [[adeniranye-ai-integration-nigerian-higher-education-2026|estudio comparativo de 45 universidades nigerianas]] (15 federales, 15 estatales, 15 privadas) encontró una integración de la [[ai-education|IA]] solo moderada (M = 4,79 en una escala de 10 puntos, rango 1,83-7,83), y el tipo de [[governance|gobernanza]] no la predijo (F(2,42) = 1,01, p = 0,372); la antigüedad de la institución (β = 0,43, p = 0,016) y la ubicación en el suroeste (β = 0,31, p = 0,029) sí lo hicieron. Las capacidades internas se reforzaban mutuamente (r = 0,79-0,80), y las colaboraciones internacionales y las alianzas con la industria se compusieron entre sí (r = 0,74): "las conexiones engendran conexiones". Los marcos de política fueron la dimensión más débil (M = 4,09; solo el 27% de las instituciones obtuvieron 6 o más), lo que expone una brecha entre la estrategia formal y la actividad operativa del [[curriculum-design|plan de estudios]]. Por lo tanto, las intervenciones de equidad deberían dirigirse a las instituciones más nuevas y a las regiones desatendidas en lugar de suponer que la categoría institucional determina la capacidad, y deberían tener en cuenta los contextos del [[global-south|Sur global]] de los que todavía falta gran parte de la base de evidencia.
+**1.** Nombre la comparación entre subgrupos antes de recoger datos y póngala en el plan de análisis.
 
-## Accesibilidad
+**2.** Incluya a estudiantes con discapacidad en la sesión de diseño y pruebe la interfaz real.
 
-Para la accesibilidad, incluya al estudiantado con discapacidad en el diseño y la evaluación, pruebe las interfaces reales frente a los requisitos de accesibilidad, ofrezca formas equivalentes de participar y de demostrar el aprendizaje, y distinga la accesibilidad técnica de una pedagogía genuinamente inclusiva. Véase [[accessibility|Accesibilidad]]. Un [[ko-hughes-vsd-student-centered-its-2026|estudio de diseño sensible a los valores]] con estudiantes, profesorado y desarrolladores de colegios comunitarios muestra cómo se ve esto en la práctica: produjo 16 características alineadas con valores que abarcan la [[explainable-ai|explicabilidad]] (E1-E5), el control [[human-in-the-loop-ai|humano en el bucle]] (H1-H9) y la [[privacy|privacidad]] (P1-P4), y sacó a la luz *tensiones* de valores en lugar de soluciones ordenadas, incluidas la transparencia frente a la interpretabilidad, la privacidad frente a la información didáctica, y la [[agency|agencia]] del estudiante frente al [[scaffolding|andamiaje]] guiado por el sistema.
+**3.** Escriba el equilibrio de privacidad, incluidos quién lo decidió y quién puede revertirlo.
 
-## Privacidad y ética
+**4.** Pruebe la seguridad a lo largo de conversaciones enteras, en los escenarios de su propia disciplina.
 
-Para la privacidad y la ética, recoja solo los datos necesarios para el propósito educativo, haga transparentes el uso de los datos y las limitaciones del sistema, mantenga una rendición de cuentas humana significativa, y examine la imparcialidad, el consentimiento, el sesgo, la explicabilidad, la autonomía del estudiante y las consecuencias de las decisiones mediadas por IA. Estas son dimensiones centrales de la [[ethics|Ética]]. El estudio de diseño anterior muestra que se trata de compensaciones que hay que gestionar, y no de requisitos independientes que se puedan ir marcando uno a uno: el estudiantado quería control sobre el [[learning-analytics|análisis del aprendizaje]] y los datos afectivos, mientras que el profesorado quería visibilidad para apoyar el aprendizaje. A medida que los sistemas adquieren [[agency|agencia]] propia, la cuestión de la gobernanza se agudiza. [[beyond-agent-label-agentic-ai-governance-2026|Una revisión crítica de la gobernanza de la IA agéntica]] sostiene que la autonomía no debería superar la madurez de la evidencia ni la solidez de un control humano responsable, y propone un lenguaje de notificación compartido (niveles de autonomía A0-A4, niveles de supervisión O0-O4 y etapas de madurez de la evidencia M0-M5) de modo que los usos consecuentes (A4: admisiones, calificación, progresión) exijan una validación replicada y relevante para el contexto y una autoridad humana continua, en lugar de una puntuación alta en un benchmark.
+**5.** Combine los datos de resultado con entrevistas y deje un rastro que un lector pueda inspeccionar.
 
-## Seguridad pedagógica
+## Pregunte quién recibe el beneficio
 
-Para la seguridad [[pedagogy|pedagógica]], mida los daños que los [[benchmark|benchmarks]] convencionales de IA pasan por alto: la [[cognitive-offloading|dependencia excesiva]], la divulgación excesiva de respuestas, el refuerzo de [[misconceptions|concepciones erróneas]], la pérdida de agencia, la supresión de la [[metacognition|metacognición]], el trato inequitativo, el daño [[motivation|motivacional]] y la desalineación instruccional. Las pruebas de seguridad deberían incluir interacciones realistas de varios turnos y escenarios [[discipline-specific-aied|específicos de cada disciplina]], y no solo indicaciones únicas. La síntesis sobre [[pedagogical-safety|Seguridad pedagógica]] y el benchmark [[hazra-safetutors-pedagogical-safety-2026|SafeTutors]] muestran por qué sistemas técnicamente "útiles" o precisos pueden aun así socavar el aprendizaje. Quienes ejercen la práctica convergen en una respuesta de diseño compatible: en un [[reichert-human-centered-llm-chatbot-design-teachers-2026|estudio de diseño participativo con seis docentes de secundaria]], el profesorado diseñó de forma independiente "expertos acotados" en lugar de [[agentic-ai|agentes autónomos]]: sistemas con un dominio de alcance estrecho que operan bajo supervisión humana, con límites de dominio, filtrado de contenido y anulación por parte del [[teacher-role|profesorado]] como tres capas de protección. Recibieron con agrado la IA para presentar contenido, ofrecer práctica y dar [[feedback|retroalimentación]] [[formative-assessment|formativa]], pero se negaron a delegar el establecimiento de objetivos o la [[summative-assessment|evaluación sumativa]], y enmarcaron la supervisión como una responsabilidad profesional y no como desconfianza hacia la tecnología.
+El concepto de [[digital-divide|brecha digital]] separa las brechas de acceso, de habilidades y de resultados, lo que significa que eliminar la barrera de acceso con un [[conversational-ai|chatbot]] no produce un beneficio [[equity-in-ai-education|equitativo]]. Diseñe para la tercera brecha. Informe de los resultados por subgrupo y pruebe la efectividad diferencial en lugar de confiar en el promedio general ([[differential-effects-across-learner-groups]]).
 
-## Triangulación metodológica
+Un [[adeniranye-ai-integration-nigerian-higher-education-2026|estudio comparativo de 45 universidades nigerianas]] (15 federales, 15 estatales, 15 privadas) muestra cómo se acumulan. La integración general de la [[ai-education|IA]] era moderada, M = 4,79 en una escala de 10 puntos, con un rango de 1,83 a 7,83. El tipo de [[governance|gobernanza]] no la predecía (F(2,42) = 1,01, p = 0,372). La edad de la institución (β = 0,43, p = 0,016) y la ubicación en el suroeste (β = 0,31, p = 0,029) sí lo hacían. Las capacidades internas se reforzaban entre sí (r = 0,79-0,80), y las colaboraciones internacionales y las alianzas con la industria se potenciaban mutuamente (r = 0,74), lo que los autores resumen como "las conexiones engendran conexiones". Los marcos de política eran los más débiles (M = 4,09; solo el 27% de las instituciones obtuvo 6 o más), lo que deja una brecha entre la estrategia formal y la actividad operativa de [[curriculum-design|diseño curricular]].
 
-Por último, combine la evidencia [[quantitative-research|cuantitativa]] y [[qualitative-research|cualitativa]]. Los resultados cuantitativos desagregados pueden revelar [[differential-effects-across-learner-groups|efectos diferenciales]]; las entrevistas, las observaciones, los grupos focales y los métodos participativos o de codesarrollo pueden sacar a la luz barreras, daños, supuestos culturales y experiencias del estudiantado que las puntuaciones agregadas pasan por alto. La síntesis [[research-methods-aied|Métodos de investigación en AIED]] trata explícitamente la triangulación metodológica como importante porque ningún método único maximiza a la vez la inferencia causal, la validez ecológica, la comprensión contextual y la generalizabilidad.
+Se siguen dos implicaciones de diseño. Diríjase a instituciones más nuevas y a regiones desatendidas, ya que la categoría no determina la capacidad. Y tenga en cuenta los contextos del [[global-south|Sur Global]] que la base de evidencia más amplia todavía omite.
 
-La transparencia sobre cómo el propio análisis asistido por IA produjo sus hallazgos forma parte de esa obligación. [[chain-behind-claim-warrantability-2026|La propuesta de justificabilidad]] sostiene que una interpretación asistida por IA debería seguir siendo inspeccionable, rebatible y revisable, respaldada por artefactos como tablas de temas con enlaces a las fuentes, pilas de lentes y ríos de evidencia, de modo que un resumen fluido no pueda ocultar la ruta analítica que lo produjo. La [[beyond-agent-label-agentic-ai-governance-2026|revisión sobre IA agéntica]] añade una disciplina de separación de niveles de resultado: los resultados a nivel de artefacto (precisión, [[ai-feedback-quality|calidad de la retroalimentación]]) pueden ser necesarios para un beneficio del estudiante, pero nunca son evidencia suficiente de uno, y los resultados de equidad e institucionales son precisamente donde la evidencia es más escasa.
+## Ponga a los estudiantes con discapacidad en la sala de diseño
 
-## Dónde encaja esto en la base de conocimiento
+Incluya a estudiantes con discapacidad en el diseño y la evaluación, pruebe las interfaces reales contra los requisitos de accesibilidad y ofrezca vías equivalentes para participar y para demostrar el aprendizaje. El cumplimiento técnico y la enseñanza inclusiva son pruebas distintas, y [[accessibility|Accesibilidad]] cubre ambas.
 
-Estos requisitos conectan directamente con los [[top-10-findings-ai-education-instructors|Diez hallazgos principales para el profesorado]] (hallazgos 9 y 10), con las refutaciones de grupos de interés en [[addressing-common-misconceptions-ai-education|¿Cómo abordar las concepciones erróneas más comunes sobre la IA en la educación?]] y con la agenda de evidencia pendiente en [[research-gaps-aied|Lacunas de investigación en AIED]]. Para métodos que se toman en serio estas restricciones, véase [[evaluating-ai-interventions-methods|Evaluar intervenciones de IA: métodos]].
+Un [[ko-hughes-vsd-student-centered-its-2026|estudio de diseño sensible a los valores]] con estudiantes, docentes y desarrolladores de un community college muestra el trabajo en la práctica. Produjo 16 funciones alineadas con valores en [[explainable-ai|explicabilidad]] (E1-E5), control [[human-in-the-loop-ai|con el humano en el circuito]] (H1-H9) y [[privacy|privacidad]] (P1-P4), y sacó a la luz tensiones en lugar de respuestas ordenadas: transparencia frente a interpretabilidad, privacidad frente a conocimiento instruccional y [[agency|agencia]] del estudiante frente al [[scaffolding|andamiaje]] guiado por el sistema. Cuente con dirimir esas tensiones y registrar por qué lado se decidió.
+
+## Decida el equilibrio de privacidad y nombre quién decide
+
+Recoja los datos que necesita el propósito educativo, haga transparentes el uso de los datos y los límites del sistema, y mantenga concreta la rendición de cuentas humana. La justicia, el consentimiento, el sesgo, la explicabilidad, la autonomía del estudiante y las consecuencias de las decisiones mediadas por IA son dimensiones centrales de la [[ethics|ética]], y en la práctica entran en conflicto. Los estudiantes querían control sobre los [[learning-analytics|datos de aprendizaje]] y los datos afectivos; los docentes querían visibilidad para apoyar el aprendizaje. Ambas posiciones son defendibles, y por eso la decisión necesita un responsable nombrado.
+
+A medida que los sistemas asumen [[agency|agencia]], la cuestión se vuelve estructural. [[beyond-agent-label-agentic-ai-governance-2026|Una revisión crítica de la gobernanza de la IA agéntica]] sostiene que la autonomía no debería exceder la madurez de la evidencia ni la fuerza del control humano responsable. Propone un lenguaje de reporte común: niveles de autonomía A0-A4, niveles de supervisión O0-O4 y etapas de madurez de la evidencia M0-M5. Los usos consecuentes (A4: admisiones, calificación, progresión) exigen validación replicada y relevante al contexto y autoridad humana continua, y una puntuación alta en un [[benchmark]] no sustituye a ninguna de las dos.
+
+## Pruebe los daños que los benchmarks no ven
+
+La seguridad pedagógica significa medir lo que un benchmark no medirá: la [[cognitive-offloading|dependencia excesiva]], la revelación excesiva de respuestas, el refuerzo de [[misconceptions|concepciones erróneas]], la pérdida de agencia, la supresión de la [[metacognition|metacognición]], el trato inequitativo, el daño [[motivation|motivacional]] y la desalineación instruccional. Pruebe interacciones de varios turnos en escenarios [[discipline-specific-aied|específicos de la disciplina]]. La síntesis sobre [[pedagogical-safety|seguridad pedagógica]] y el benchmark de [[hazra-safetutors-pedagogical-safety-2026|SafeTutors]] muestran por qué un sistema que parece exacto puede aun así dañar el aprendizaje.
+
+Los profesionales convergen en un diseño compatible. En un [[reichert-human-centered-llm-chatbot-design-teachers-2026|estudio de diseño participativo con seis docentes de secundaria]], los docentes diseñaron de forma independiente "expertos acotados" en lugar de [[agentic-ai|agentes autónomos]]: un dominio estrecho, supervisión humana y tres capas de protección en fronteras de dominio, filtrado de contenido y anulación del [[teacher-role|docente]]. Aceptaron la IA para presentar contenido, proporcionar práctica y ofrecer [[feedback|retroalimentación]] de tipo [[formative-assessment|formativo]], y se negaron a delegar la fijación de objetivos o la [[summative-assessment|evaluación sumativa]]. Plantearon la supervisión como responsabilidad profesional.
+
+## Combine métodos y muestre el camino de los datos a la afirmación
+
+Los resultados [[quantitative-research|cuantitativos]] desagregados pueden revelar [[differential-effects-across-learner-groups|efectos diferenciales]]. Las entrevistas, las observaciones, los grupos focales y el codiseño sacan a la luz barreras, daños, supuestos culturales y experiencia del estudiante que las puntuaciones agregadas no ven. La síntesis sobre [[research-methods-aied|métodos de investigación en AIED]] considera la triangulación necesaria porque ningún método [[qualitative-research|cualitativo]] o cuantitativo maximiza a la vez la inferencia causal, la validez ecológica, la comprensión del contexto y la generalizabilidad.
+
+Su propio análisis necesita la misma disciplina. [[chain-behind-claim-warrantability-2026|La propuesta de justificabilidad]] sostiene que una interpretación asistida por IA se mantiene inspeccionable, contestable y revisable cuando se entrega con artefactos como tablas de temas vinculadas a las fuentes, pilas de lentes y ríos de evidencia. Un resumen fluido no debería ocultar el camino que lo produjo.
+
+También conviene separar los niveles de resultado. La [[beyond-agent-label-agentic-ai-governance-2026|revisión sobre IA agéntica]] separa los resultados del artefacto, como la exactitud y la [[ai-feedback-quality|calidad de la retroalimentación]], del beneficio para el estudiante. Los resultados del artefacto pueden ser necesarios y nunca son suficientes, y los resultados de equidad e institucionales son donde la evidencia es más escasa.
+
+## En qué se equivoca este público
+
+Equidad significa acceso. El concepto de brecha digital pone las habilidades y los resultados en la misma lista que el acceso, y el estudio de Adeniranye encontró que la capacidad varía según la edad de la institución y la región, mientras que el tipo de gobernanza no predecía nada.
+
+La accesibilidad es una lista de verificación de la interfaz. El estudio de diseño sensible a los valores sacó a la luz tensiones entre explicabilidad e interpretabilidad que ninguna lista de verificación resuelve.
+
+La privacidad es un formulario de consentimiento. El estudio de diseño encontró que estudiantes y docentes querían cosas opuestas de los mismos datos, y la revisión de gobernanza vincula la autonomía con la madurez de la evidencia.
+
+Seguridad significa que el modelo rechaza solicitudes dañinas. La seguridad pedagógica abarca la dependencia excesiva, el refuerzo de concepciones erróneas y la pérdida de agencia, que una prueba de rechazo no toca.
+
+Un solo método responde a la pregunta. La síntesis de métodos es explícita en que esas cuatro propiedades se compensan entre sí.
+
+## Lo que le van a responder
+
+**"Abordaremos la equidad en la discusión."** Entonces su plan de análisis no puede probarla. Nombre ahora la comparación entre subgrupos, o el hallazgo llegará cuando los datos ya estén cerrados.
+
+**"Nuestra muestra es demasiado pequeña para un análisis por subgrupos."** Entonces diga qué sostiene e informe de quién estaba en ella. Un resultado nulo por subgrupo obtenido con una muestra con potencia insuficiente no es evidencia de equidad.
+
+**"Las pruebas de accesibilidad son trabajo de la oficina de discapacidad."** Su revisión cubre el cumplimiento. Si un estudiante puede demostrar lo que sabe dentro de su actividad es una cuestión de diseño, y el estudio de diseño citado antes puso a estudiantes en la sala por esa razón.
+
+**"Los datos están anonimizados, así que la privacidad está resuelta."** Las tensiones del estudio de diseño tenían que ver con el control y la visibilidad, no con los identificadores. Los estudiantes querían saber quién ve sus datos afectivos y por qué.
+
+**"Nuestra batería de seguridad pasa."** ¿En qué turnos? SafeTutors encontró que los modelos de enseñanza se degradan a lo largo de conversaciones largas, que es la longitud que sus estudiantes usarán de verdad.
+
+## Qué hacer esta semana
+
+**1.** Añada un párrafo sobre subgrupos al plan de análisis, en el que nombre qué grupos y qué resultado.
+
+**2.** Reserve una sesión de diseño con estudiantes con discapacidad o con el personal que los apoya, antes de que la interfaz esté cerrada.
+
+**3.** Escriba la decisión de privacidad como una frase con un responsable: qué se recoge, quién lo ve, quién puede detenerlo.
+
+**4.** Redacte diez turnos de conversación adversariales en su materia y ejecútelos contra el sistema.
+
+**5.** Añada un artefacto inspeccionable a la carpeta de análisis, como una tabla vinculada a las fuentes o un conjunto de extractos codificados.
+
+## Adónde ir después
+
+[[evaluating-ai-interventions-methods|Evaluar intervenciones de IA: métodos]] es la página complementaria sobre medidas y diseño. [[top-10-findings-ai-education-instructors|Los 10 hallazgos principales para docentes]] recogen estas restricciones en los hallazgos 9 y 10, [[addressing-common-misconceptions-ai-education|Abordar las concepciones erróneas comunes sobre la IA en la educación]] trata las objeciones de las partes interesadas y [[research-gaps-aied|Brechas de investigación en AIED]] enumera dónde falta evidencia.

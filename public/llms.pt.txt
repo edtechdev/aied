@@ -122,6 +122,7 @@
 - [Plataforma Edtech](https://edtechdev.github.io/aied/concepts/edtech-platform/): *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
 - [A IAed nas disciplinas](https://edtechdev.github.io/aied/concepts/discipline-specific-aied/): *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
 - [Educação matemática](https://edtechdev.github.io/aied/concepts/math-education/): *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
+- [Educação em estatística e ciência de dados](https://edtechdev.github.io/aied/concepts/statistics-and-data-science-education/): *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
 - [Educação em física](https://edtechdev.github.io/aied/concepts/physics-education/): *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
 - [Educação em química](https://edtechdev.github.io/aied/concepts/chemistry-education/): *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
 - [Educação em biologia](https://edtechdev.github.io/aied/concepts/biology-education/): *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*

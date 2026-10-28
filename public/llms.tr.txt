@@ -122,6 +122,7 @@
 - [Edtech Platformu](https://edtechdev.github.io/aied/concepts/edtech-platform/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
 - [Disiplinlerde AIEd](https://edtechdev.github.io/aied/concepts/discipline-specific-aied/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
 - [Matematik Eğitimi](https://edtechdev.github.io/aied/concepts/math-education/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [İstatistik ve Veri Bilimi Eğitimi](https://edtechdev.github.io/aied/concepts/statistics-and-data-science-education/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
 - [Fizik Eğitimi](https://edtechdev.github.io/aied/concepts/physics-education/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
 - [Kimya Eğitimi](https://edtechdev.github.io/aied/concepts/chemistry-education/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
 - [Biyoloji Eğitimi](https://edtechdev.github.io/aied/concepts/biology-education/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
