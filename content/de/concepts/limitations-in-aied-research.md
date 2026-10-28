@@ -1,7 +1,7 @@
 ---
 title: Grenzen der AIED-Forschung
 created: "2026-08-15T09:18:04-04:00"
-updated: "2026-10-24T23:14:18-04:00"
+updated: "2026-10-28T01:06:31-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [learning-theories]
@@ -12,7 +12,7 @@ confidence: high
 connected_faqs: [research-gaps-aied, reporting-interpreting-aied-research]
 methods: [ai-ed-evaluation, benchmark, research-methods-aied]
 translation_of: concepts/limitations-in-aied-research
-source_updated: "2026-10-16T08:47:09-04:00"
+source_updated: "2026-10-28T01:06:31-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -67,7 +67,7 @@ Die [[research-methods-aied|Forschungsmethoden]]-Seite der Wissensbasis detailli
 
 KI verändert sich kontinuierlich, und die aus einem bestimmten Modell oder System gezogenen Schlussfolgerungen können schnell **veralten**. Eine Studie einer [[llm|LLM]]-Generation mag die nächste nicht beschreiben; Benchmarkpunktzahlen, Tutoringqualität und selbst die praktische Nützlichkeit eines Befunds verschieben sich, wenn Modelle sich verbessern. Das verstärkend ist der **Publikationsprozess langsam** — von Studiendesign bis begutachteter Publikation kann ein Jahr oder mehr vergehen —, sodass ein publiziertes Ergebnis möglicherweise bereits ein veraltetes System beschreibt. Gutachtende und Lesende sollten KI-Bildungsbefunde daher als vorläufige, datumssensitive Behauptungen behandeln statt als stabile Wahrheiten, und aktuelle, replikationsorientierte und versionsexplizite Arbeit bevorzugen.
 
-[[thoeni-ai-chatbots-higher-education-expectations-evidence-2026|Thoeni und Fryer (2026)]] machen die Konsequenz für eine Literatur konkret: Weil RAG-basierte Systeme erst im November 2023 öffentlich verfügbar wurden, argumentieren sie, Befunde [[intelligent-tutoring|intelligenter Tutoringssysteme]] vor 2023 — die auf regelbasierten, schlüsselwortabgleichenden oder heuristischen NLP-Systemen ruhen, die wenig funktionale Ähnlichkeit mit aktuellen großen Sprachmodellen haben —, seien als historischer Kontext zu behandeln statt als direkt vergleichbare Evidenz, und berichten, ihr Review habe keinen publizierten RCT gefunden, der einen RAG-basierten KI-Chatbot in grundständiger Bildung über ein volles akademisches Semester untersuchte. Die Implikation ist, dass grundlegende Fragen danach, wie GenAI Lernen beeinflusst, möglicherweise gegen jede neue Modellgeneration neu gestellt werden müssen, statt durch das Bündeln älterer Ergebnisse geklärt zu werden.
+[[thoeni-ai-chatbots-higher-education-expectations-evidence-2026|Thoeni und Fryer (2026)]] machen die Konsequenz für eine Literatur konkret: Weil [[rag|RAG]]-basierte Systeme erst im November 2023 öffentlich verfügbar wurden, argumentieren sie, Befunde [[intelligent-tutoring|intelligenter Tutoringssysteme]] vor 2023 — die auf regelbasierten, schlüsselwortabgleichenden oder heuristischen NLP-Systemen ruhen, die wenig funktionale Ähnlichkeit mit aktuellen großen Sprachmodellen haben —, seien als historischer Kontext zu behandeln statt als direkt vergleichbare Evidenz, und berichten, ihr Review habe keinen publizierten RCT gefunden, der einen RAG-basierten KI-Chatbot in grundständiger Bildung über ein volles akademisches Semester untersuchte. Die Implikation ist, dass grundlegende Fragen danach, wie GenAI Lernen beeinflusst, möglicherweise gegen jede neue Modellgeneration neu gestellt werden müssen, statt durch das Bündeln älterer Ergebnisse geklärt zu werden.
 
 ## Forschung-Praxis-Grenzen
 

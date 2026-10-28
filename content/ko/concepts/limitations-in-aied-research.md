@@ -1,7 +1,7 @@
 ---
 title: AIEd 연구의 한계
 created: "2026-08-15T09:18:04-04:00"
-updated: "2026-10-07T07:20:00-04:00"
+updated: "2026-10-28T01:06:31-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [learning-theories]
@@ -12,7 +12,7 @@ confidence: high
 connected_faqs: [research-gaps-aied, reporting-interpreting-aied-research]
 methods: [ai-ed-evaluation, benchmark, research-methods-aied]
 translation_of: concepts/limitations-in-aied-research
-source_updated: "2026-10-07T07:20:00-04:00"
+source_updated: "2026-10-28T01:06:31-04:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -65,7 +65,7 @@ ai_assist:
 
 AI는 끊임없이 변하고 있으며, 어떤 주어진 모형이나 시스템에서 도출된 결론은 **빠르게 낡아갈 수 있습니다**. 한 [[llm]] 세대에 관한 연구는 다음 세대를 서술하지 않을 수 있으며, 모형이 나아짐에 따라 벤치마크 점수, 튜터링의 질, 한 발견의 실질적 유용성조차 흔들립니다. 이것을 악화시키는 것은 **출판 과정이 느리다**는 것입니다. 즉 연구 설계부터 동료 검토 출판까지 일 년 이상이 걸릴 수 있어, 출판된 결과가 이미 구식 시스템을 서술할 수 있습니다. 따라서 심사자와 독자는 AIED 발견을 안정된 진리가 아니라 잠정적이고 날짜에 민감한 주장으로 대하고, 최근의·재현 지향적인·버전을 명시한 작업을 선호해야 합니다.
 
-[[thoeni-ai-chatbots-higher-education-expectations-evidence-2026|Thoeni and Fryer (2026)]]는 이것의 귀결을 한 문헌에 구체적으로 만듭니다. 즉 RAG 기반 시스템이 2023년 11월에야 공개적으로 이용 가능해졌으므로, 그들은 2023년 이전의 [[intelligent-tutoring|지능형 튜터링]] 발견 — 현재의 대규모 언어 모형과 기능적 유사성이 거의 없는 규칙 기반·키워드 매칭·휴리스틱 NLP 시스템 위에 놓인 것들 — 이 직접 비교 가능한 증거가 아니라 역사적 맥락으로 대접받아야 한다고 주장하며, 자신들의 고찰이 한 학기 전체에 걸쳐 학부 교육에서 RAG 기반 AI 챗봇을 검사한 출판된 RCT를 하나도 찾지 못했음을 보고합니다. 함의는 genAI가 학습에 어떤 영향을 미치는지에 관한 기초적 질문들이 오래된 결과를 통합하여 해결되기보다, 각 새로운 모형 세대에 맞춰 다시 물려야 할 수 있다는 것입니다.
+[[thoeni-ai-chatbots-higher-education-expectations-evidence-2026|Thoeni and Fryer (2026)]]는 이것의 귀결을 한 문헌에 구체적으로 만듭니다. 즉 [[rag|RAG]] 기반 시스템이 2023년 11월에야 공개적으로 이용 가능해졌으므로, 그들은 2023년 이전의 [[intelligent-tutoring|지능형 튜터링]] 발견 — 현재의 대규모 언어 모형과 기능적 유사성이 거의 없는 규칙 기반·키워드 매칭·휴리스틱 NLP 시스템 위에 놓인 것들 — 이 직접 비교 가능한 증거가 아니라 역사적 맥락으로 대접받아야 한다고 주장하며, 자신들의 고찰이 한 학기 전체에 걸쳐 학부 교육에서 RAG 기반 AI 챗봇을 검사한 출판된 RCT를 하나도 찾지 못했음을 보고합니다. 함의는 genAI가 학습에 어떤 영향을 미치는지에 관한 기초적 질문들이 오래된 결과를 통합하여 해결되기보다, 각 새로운 모형 세대에 맞춰 다시 물려야 할 수 있다는 것입니다.
 
 ## 연구 실천의 한계
 

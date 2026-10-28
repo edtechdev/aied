@@ -12,7 +12,7 @@ connected_faqs: [research-gaps-aied, reporting-interpreting-aied-research]
 methods: [ai-ed-evaluation, benchmark, research-methods-aied]
 reviewed_by: [editor]
 translation_of: concepts/limitations-in-aied-research
-source_updated: "2026-10-07T07:20:00-04:00"
+source_updated: "2026-10-28T01:06:31-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -68,7 +68,7 @@ Ukurasa wa [[research-methods-aied|mbinu za utafiti]] wa hifadhi ya maarifa unae
 
 AI inabadilika bila kukoma, na hitimisho zilizotolewa kutoka mfano au mfumo wowote zinaweza kuwa **zimepitwa na wakati haraki**. Utafiti wa kizazi kimoja cha [[llm]] huenda haueleze kile kinachofuata; alama za vipimo, ubora wa ufundishaji, na hata ufaafu wa vitendo wa matokeo hubadilika mifano inapoboreshwa. Kuongeza hili, **mchakato wa uchapishaji ni polepole** — kutoka ubuni wa utafiti hadi uchapishaji uliopitiwa na watazamo kunaweza kuchukua mwaka au zaidi — hivyo matokeo yaliyochapishwa yanaweza tayari kuelezea mfumo uliopitwa na wakati. Wapitiaji na wasomaji wanapaswa kwa hivyo kuyachukulia matokeo ya AIEd kama madai ya muda na yanayohusika na wakati badala ya kweli thabiti, na kupendelea kazi ya hivi karibuni, inayoegemea urudiwezi, na inayoainisha wazi toleo.
 
-[[thoeni-ai-chatbots-higher-education-expectations-evidence-2026|Thoeni na Fryer (2026)]] wanafanya madhara yawe ya wazi kwa fasihi moja: kwa sababu mifumo inayotegemea RAG ilipatikana hadharani tu mnamo Novemba 2023, wanadai kuwa matokeo ya kabla ya 2023 ya [[intelligent-tutoring|ufundishaji wa akili]] — yanayotegemea mifumo ya NLP ya kanuni, ya kulinganisha maneno muhimu au ya heuristi ambayo ina ufananifu mdogo wa kiutendaji na mifano mikubwa ya sasa ya lugha — inapaswa kuchukuliwa kama muktadha wa kihistoria badala ya ushahidi unaoweza kulinganishwa moja kwa moja, na wanaripoti kuwa mapitio yao hayakupata RCT iliyochapishwa inayochunguza chatbot ya AI inayotegemea RAG katika elimu ya chuo kikuu cha mwaka mzima wa kitaaluma. Maana yake ni kuwa maswali ya msingi kuhusu jinsi GenAI inavyoathiri kujifunza yanaweza kuhitaji kuulizwa upya dhidi ya kila kizazi kipya cha mfano badala ya kutatuliwa kwa kukusanya matokeo ya zamani.
+[[thoeni-ai-chatbots-higher-education-expectations-evidence-2026|Thoeni na Fryer (2026)]] wanafanya madhara yawe ya wazi kwa fasihi moja: kwa sababu mifumo inayotegemea [[rag|RAG]] ilipatikana hadharani tu mnamo Novemba 2023, wanadai kuwa matokeo ya kabla ya 2023 ya [[intelligent-tutoring|ufundishaji wa akili]] — yanayotegemea mifumo ya NLP ya kanuni, ya kulinganisha maneno muhimu au ya heuristi ambayo ina ufananifu mdogo wa kiutendaji na mifano mikubwa ya sasa ya lugha — inapaswa kuchukuliwa kama muktadha wa kihistoria badala ya ushahidi unaoweza kulinganishwa moja kwa moja, na wanaripoti kuwa mapitio yao hayakupata RCT iliyochapishwa inayochunguza chatbot ya AI inayotegemea RAG katika elimu ya chuo kikuu cha mwaka mzima wa kitaaluma. Maana yake ni kuwa maswali ya msingi kuhusu jinsi GenAI inavyoathiri kujifunza yanaweza kuhitaji kuulizwa upya dhidi ya kila kizazi kipya cha mfano badala ya kutatuliwa kwa kukusanya matokeo ya zamani.
 
 ## Vizingiti vya utafiti na mazoezi
 

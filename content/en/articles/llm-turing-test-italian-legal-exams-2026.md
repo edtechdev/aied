@@ -1,7 +1,7 @@
 ---
 title: What out-of-the-box LLMs can(t) do in law? A Turing test in Italian exams for lawyers, judges and notaries
 created: "2026-08-07T04:33:04-04:00"
-updated: "2026-09-19T08:58:00-04:00"
+updated: "2026-10-28T01:06:31-04:00"
 type: article
 technology: [llm]
 assessment: [assessment, automated-assessment]
@@ -29,7 +29,7 @@ The article reports on a blind Turing Test experiment, assessing the performance
 
 ## Limitations
 
-- Four models (Claude 4 Opus, GPT-5, DeepSeek R1, Gemini 2.5 Pro) were each tested once per exam, with a single minimal prompt and default API settings, no legal fine-tuning, and no retrieval-augmented generation.
+- Four models (Claude 4 Opus, GPT-5, DeepSeek R1, Gemini 2.5 Pro) were each tested once per exam, with a single minimal prompt and default API settings, no legal fine-tuning, and no [[rag|retrieval-augmented generation]].
 - Each exam was represented by one human paper — the top-scoring candidate from a real sitting — and evaluated by three expert examiners, a sample the authors state constrains statistical generalization beyond the cases considered.
 - The models had internet access whereas human candidates are restricted to a very limited set of legal materials, an asymmetry the paper says may influence performance on tasks requiring doctrinal or jurisprudential recall.
 - Results are tied to the Italian legal system and to the state of the technology in September 2025, so transfer to other jurisdictions and to later model releases is not established.

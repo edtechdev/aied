@@ -1,7 +1,7 @@
 ---
 title: Handlungsfähigkeit der Lernenden
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-10-24T20:49:56-04:00"
+updated: "2026-10-28T01:06:31-04:00"
 type: concept
 foundations: [agency, cognitive-offloading, human-ai-collaboration]
 pedagogy: [motivation, self-regulated-learning]
@@ -73,7 +73,7 @@ Handlungsfähigkeit verbindet sich mit [[self-regulated-learning|selbstreguliert
 
 - **Begrenzte Nutzung als epistemische Kontrolle, nicht als Zögern.** [[guarded-adoption-genai-higher-education-2026|Zagami (2026)]] berichtet, dass leistungsstärkere Studierende in einer Umfrage mit 484 Antworten an einer [[higher-ed|Universität]] geringeres aktives KI-Engagement und geringeren [[self-report-measures|empfundenen Lerneinfluss]] zeigten, während sie *zugleich* geringere KI-bezogene Disengagement berichteten und ihre eigene Nutzung als verifikationsintensiv beschrieben: Ausgaben wurden geprüft und dann dem eigenen Denken untergeordnet. Als Handlungsfähigkeit statt als Vermeidung gelesen ist das Muster ein bewusstes Behalten von Urteil — Studierende behalten die Autorschaft der Schlussfolgerung, während sie das Werkzeug für Klärung und Zusammenfassung nutzen.
 
-Anhaltende Grenzarbeit, nicht Werkzeugkompetenz, trennt Handlungsfähigkeit von Delegation: Studierende, die dasselbe retrieval-gestützte Werkzeug nutzten, erzeugten vergleichbar ausgefeilte Artefakte, ob sie seine Ausgaben einschränkten und neu verfassten oder die Deutung früh abtraten; der Unterschied zeigte sich nur in Prompts, Latenz, Korrekturen und Ablehnungen ([[obyrne-co-constructing-ai-boundaries-agency-judgment-2026|O'Byrne, 2026]]).
+Anhaltende Grenzarbeit, nicht Werkzeugkompetenz, trennt Handlungsfähigkeit von Delegation: Studierende, die dasselbe [[rag|retrieval-gestützte]] Werkzeug nutzten, erzeugten vergleichbar ausgefeilte Artefakte, ob sie seine Ausgaben einschränkten und neu verfassten oder die Deutung früh abtraten; der Unterschied zeigte sich nur in Prompts, Latenz, Korrekturen und Ablehnungen ([[obyrne-co-constructing-ai-boundaries-agency-judgment-2026|O'Byrne, 2026]]).
 - **Handeln, Wissen und Antworten sind nicht dasselbe.** Eine korpusgestützte Diskursanalyse von 366 [[generative-ai|GenAI]]-Abstracts aus der Hochschulbildung nennt KI 2.050 Mal als Akteurin, ohne sie je rechenschaftspflichtig zu machen, während die Verantwortung für das Beurteilen von Ausgaben und das Prüfen von Behauptungen den Studierenden zugeschrieben wird: grammatikalische Aktivierung, funktionale Handlungsfähigkeit, epistemische Autorität und normative Rechenschaftspflicht fallen auseinander ([[genai-higher-ed-agency-responsibility-discourse-2026|Poudyal, 2026]]).
 - **Handlungsfähigkeit hat drei Modi, und der dritte ist das, was Politik liefert.** Mit nur 18% der Lehrkräfte und 24% der Schulleitungen, die eine schulische KI-Politik berichten, üben die meisten im Bildungsbereich Handelnde individuelle Handlungsfähigkeit aus, ohne dass eine Proxy-Handlungsfähigkeit für sie agiert — Banduras dritter Modus, geliefert durch institutionelle Regeln ([[tench-ai-policy-isnt-a-playbook-2026|Tench, Weinstein & James, 2026]]).
 

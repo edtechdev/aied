@@ -1,7 +1,7 @@
 ---
 title: "The Role of Instructional Guidance in Generative AI-Assisted Learning: Empirical Evidence from Construction Engineering"
 created: "2026-06-09T04:33:04-04:00"
-updated: "2026-09-18T19:55:59-04:00"
+updated: "2026-10-28T01:06:31-04:00"
 type: article
 pedagogy: [active-learning, scaffolding]
 technology: [llm, personalized-learning]
@@ -26,7 +26,7 @@ Demonstrates that the effectiveness of AI-supported learning depends critically 
 - **Instructors.** Replace open-ended chat with an explicit prompting sequence during review: the five-step framework grounded in Generative Learning Theory (Clarify, Organize, Integrate, Differentiate, and Correct) was the only condition that outperformed both comparators on open-ended work.
 - **Instructors.** Expect the payoff in explanation and reasoning, not recall: the prompted group scored 12.41 on open-ended questions against 9.68 for slide-based and 10.45 for unprompted AI review (F = 7.32, p = 0.0011), while the multiple-choice difference was not statistically significant (F = 2.38, p = 0.099).
 - **Instructors.** Do not count unprompted AI review as a strategy for higher-order tasks — it remained comparable to slide-based learning on open-ended scores even though it used the same system as the prompted group.
-- **Instructional designers.** Build the scaffold into the tool rather than hoping learners supply it: since prompted and unprompted groups interacted with an identical retrieval-augmented system, the measured effect traces to the interaction structure, not to model access.
+- **Instructional designers.** Build the scaffold into the tool rather than hoping learners supply it: since prompted and unprompted groups interacted with an identical [[rag|retrieval-augmented]] system, the measured effect traces to the interaction structure, not to model access.
 - **Instructional designers.** Implement source-grounded verification as the closing step: the framework's final stage has students re-examine their interpretations against cited materials, and the paper attributes the precision gains to that check.
 
 ## Limitations

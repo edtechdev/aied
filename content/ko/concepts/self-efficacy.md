@@ -1,7 +1,7 @@
 ---
 title: 자기효능감
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-10-05T10:26:12-04:00"
+updated: "2026-10-28T01:06:31-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [motivation, self-efficacy, self-regulated-learning]
@@ -10,7 +10,7 @@ connected_faqs: [ai-anxiety-wellbeing, study-with-ai]
 audience: [learners]
 confidence: high
 translation_of: concepts/self-efficacy
-source_updated: "2026-10-13T11:05:00-04:00"
+source_updated: "2026-10-28T01:06:31-04:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -59,7 +59,7 @@ ai_assist:
 자기효능감은 [[motivation]], [[self-regulated-learning]], [[student-experience]], [[ai-literacy]], [[agency]], [[educational-robotics]]와 연결됩니다. 자기효능감을 기르는 것은 AI가 참여와 학습을 뒷받침하는 핵심 메커니즘입니다. 자기효능감은 거의 전적으로 [[self-report-measures|자기보고]]로 측정되므로, 관찰된 행동과의 연관에는 통상적인 주의가 필요합니다.
 
 - **도구와 학습 사이의 축으로서의 AIGC 자기효능감.** [[aigc-affordance-student-self-regulation-2026|Liang 외(2026)]]는 AI 생성 콘텐츠에 대한 인식된 가능성이 AIGC 자기효능감을 높이고(beta = 0.583), 그것이 학습 동기(간접 효과 0.329)와 자기조절 학습(0.145)으로 가는 경로를 매개하며, 가능성에서 자기효능감을 거쳐 동기를 지나 자기 [[regulation]]으로 가는 연속 경로도 유의하다는 것을(0.173) 발견합니다. 이 발견을 유용하게 만드는 대비는 AI [[assessment]] 피드백의 질이 자기효능감을 예측하지 *않았다*는 것(beta = 0.131, n.s.)이지만 강하게 만족을 예측했다는 것입니다 — 도구에 대한 확신은 그것으로부터 좋은 산출을 받는 것이 아니라 그것을 지휘함으로써 길러집니다.
-- **한 학기 RCT에서 처리 효과가 없음 — 확신은 강의 시간과 함께 상승했다.** [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026|Thoeni와 Fryer(2026)]]의 마케팅 원리 강의 학부생 454명에 대한 무작위 현장 실험에서, 자기효능감은 모든 학생에 대해 학기 동안 상승했고(시간 효과 β = 0.099, p = 0.0009, Cohen's ƒ2 = 0.025), 집단 효과(p = 0.1162)나 집단 × 시간 상호작용(p = 0.5306, d = 0.023)은 유의하지 않아, RAG 챗봇은 아무것도 더하지 않았습니다. AI 지원 강의에서의 확신 이득은 도구가 아니라 강의의 진행을 따를 수 있습니다 — 이것은 이 분야가 거의 전적으로 [[self-report-measures|자기보고]]로 측정하는 구성개념에 대한 귀인 위험입니다.
+- **한 학기 RCT에서 처리 효과가 없음 — 확신은 강의 시간과 함께 상승했다.** [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026|Thoeni와 Fryer(2026)]]의 마케팅 원리 강의 학부생 454명에 대한 무작위 현장 실험에서, 자기효능감은 모든 학생에 대해 학기 동안 상승했고(시간 효과 β = 0.099, p = 0.0009, Cohen's ƒ2 = 0.025), 집단 효과(p = 0.1162)나 집단 × 시간 상호작용(p = 0.5306, d = 0.023)은 유의하지 않아, [[rag|RAG]] 챗봇은 아무것도 더하지 않았습니다. AI 지원 강의에서의 확신 이득은 도구가 아니라 강의의 진행을 따를 수 있습니다 — 이것은 이 분야가 거의 전적으로 [[self-report-measures|자기보고]]로 측정하는 구성개념에 대한 귀인 위험입니다.
 - **확신은 행동과 반대로 움직일 수 있다.** 경쟁적 프로그래밍에서, 경쟁을 그만둔 학생들은 활동적인 동료보다 *더 높은* 이론적 확신을 보고하면서도 현저히 더 약한 up-solving과 동료 집단 습관을 보였습니다(p < .001). 따라서 자기효능감 신호 하나만으로는 조기 경보 체계를 오도할 것입니다([[predicting-attrition-competitive-programming|Ruhan 외(2026)]]).
 - **확신은 그 뒤에 있는 능력이 떨어지는 동안 상승할 수 있다.** 대학생 가운데, 빈번한 생성형 AI 사용은 인식된 확신과 효율을 높이고 *또한* 같은 학습자들의 기술적 의존을 증가시켜, AI 보조 작업 중에 측정된 자기효능감 점수는 기초 기술이 침식되는 바로 그 순간에 높게 읽힐 수 있습니다([[genai-performance-vs-learning|Yan 외, 2025]]).
 - **AI 사용은 확신과 함께 움직였지만, 확신은 출석을 예측하지 못했다.** 포르투갈 학생 291명의 PLS-SEM 설문에서, 일반 AI 사용은 독립 학습에 대한 자기효능감과 양의 연관이 있었고(β = 0.266, f² = 0.106). 이 구성개념은 Bandura의 네 가지 근원 — 숙달 경험, 대리 경험, 언어적 설득, 정서 상태 — 의 2차 형성적 복합체로 모형화되었습니다. 자기효능감은 다시 결석을 예측하지 않았고(β = −0.068, p = 0.276), 비록 AI 사용이 별도로 더 높은 결석과 연관되었지만(β = 0.148, f² = 0.029) 말입니다. AI 사용 → 자기효능감 경로는 여성보다 남성에게서 유의하게 더 강했고(β = 0.449 대 0.159; Δβ = −0.289, p = 0.013), 부분적 측정 불변성 아래에서입니다([[confident-but-absent-ai-use-absenteeism-2026|Franco 외(2026)]]).

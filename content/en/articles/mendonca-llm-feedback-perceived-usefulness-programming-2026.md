@@ -1,7 +1,7 @@
 ---
 title: "Perceived usefulness and intention to use large language model-generated feedback across three educational levels: a user-centred study in programming"
 created: "2026-09-23T12:30:00-04:00"
-updated: "2026-09-23T13:15:00-04:00"
+updated: "2026-10-28T01:06:31-04:00"
 type: article
 foundations: [human-ai-collaboration]
 pedagogy: [motivation, student-experience]
@@ -38,7 +38,7 @@ reviewed_by: [editor]
 
 ## Evaluating Two Layers of Feedback
 
-Feedback was produced by the IntroEduAI platform, which scored each submission against an instructor-written, criterion-referenced rubric and returned two layers of feedback. The first addressed each individual answer across clarity, specificity, accuracy, actionability, and usefulness. The second was a consolidated report summarizing strengths, weaknesses, and suggestions, rated on satisfaction, relevance, personalization, cognitive load, intention to use, and motivation. Every item captured perception on a five-point scale, so accuracy means perceived accuracy rather than verified correctness. Individual answers were evaluated with GPT-4.1-2025-04-14, with course materials supplied through retrieval-augmented generation for text questions, while reports used a different configuration. Domain, task, and instrument were held constant while level varied, so [[formative-assessment|formative feedback]] perceptions could be compared across levels rather than confounded with discipline.
+Feedback was produced by the IntroEduAI platform, which scored each submission against an instructor-written, criterion-referenced rubric and returned two layers of feedback. The first addressed each individual answer across clarity, specificity, accuracy, actionability, and usefulness. The second was a consolidated report summarizing strengths, weaknesses, and suggestions, rated on satisfaction, relevance, personalization, cognitive load, intention to use, and motivation. Every item captured perception on a five-point scale, so accuracy means perceived accuracy rather than verified correctness. Individual answers were evaluated with GPT-4.1-2025-04-14, with course materials supplied through [[rag|retrieval-augmented generation]] for text questions, while reports used a different configuration. Domain, task, and instrument were held constant while level varied, so [[formative-assessment|formative feedback]] perceptions could be compared across levels rather than confounded with discipline.
 
 ## What Students Reported
 

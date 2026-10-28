@@ -1,7 +1,7 @@
 ---
 title: AIEd 研究的局限
 created: "2026-08-15T09:18:04-04:00"
-updated: "2026-10-24T15:26:00-04:00"
+updated: "2026-10-28T01:06:31-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [learning-theories]
@@ -12,7 +12,7 @@ confidence: high
 connected_faqs: [research-gaps-aied, reporting-interpreting-aied-research]
 methods: [ai-ed-evaluation, benchmark, research-methods-aied]
 translation_of: concepts/limitations-in-aied-research
-source_updated: "2026-10-16T08:47:09-04:00"
+source_updated: "2026-10-28T01:06:31-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -67,7 +67,7 @@ ai_assist:
 
 AI 在持续变化，从任何给定模型或系统得出的结论都可能**很快过时**。对某一代[[llm]]的研究未必能描述下一代；随着模型的改进，基准分数、辅导质量乃至某项发现的实用价值都会发生偏移。更复杂的是，**发表过程缓慢**——从研究设计到同行评审发表可能需要一年甚至更久——因此一项已发表的结果可能已经在描述一个过时的系统。审稿人与读者因此应当把 AIED 的发现当作暂时性、对时间敏感的论断，而非稳定的真理，并优先采用近期、面向复现、且明确标注版本的工作。
 
-[[thoeni-ai-chatbots-higher-education-expectations-evidence-2026|Thoeni 与 Fryer（2026）]]为一个文献领域给出了具体的后果：由于基于 RAG 的系统直到 2023 年 11 月才公开可得，他们认为 2023 年之前的[[intelligent-tutoring|智能辅导]]研究结论——它们建立在与当前大语言模型几乎没有功能相似之处的、基于规则、关键词匹配或启发式 NLP 的系统之上——应当被当作历史背景而非可直接比较的证据，并报告说他们的综述未发现任何在整个学期内考察本科教育中基于 RAG 的 AI 聊天机器人的已发表 RCT。其含义是，关于生成式 AI 如何影响学习的基础问题，可能需要针对每一代新模型重新提出，而非靠合并旧结果来定论。
+[[thoeni-ai-chatbots-higher-education-expectations-evidence-2026|Thoeni 与 Fryer（2026）]]为一个文献领域给出了具体的后果：由于基于 [[rag|RAG]] 的系统直到 2023 年 11 月才公开可得，他们认为 2023 年之前的[[intelligent-tutoring|智能辅导]]研究结论——它们建立在与当前大语言模型几乎没有功能相似之处的、基于规则、关键词匹配或启发式 NLP 的系统之上——应当被当作历史背景而非可直接比较的证据，并报告说他们的综述未发现任何在整个学期内考察本科教育中基于 RAG 的 AI 聊天机器人的已发表 RCT。其含义是，关于生成式 AI 如何影响学习的基础问题，可能需要针对每一代新模型重新提出，而非靠合并旧结果来定论。
 
 ## 研究实践方面的局限
 

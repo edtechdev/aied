@@ -1,7 +1,7 @@
 ---
 title: Qualität von KI-Feedback
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-24T20:27:31-04:00"
+updated: "2026-10-28T01:06:31-04:00"
 connected_faqs: [ai-save-instructor-time, ai-feedback-at-scale, checking-whether-educational-ai-works]
 type: concept
 foundations: [ai-literacy]
@@ -9,7 +9,7 @@ technology: [generative-ai]
 assessment: [ai-feedback-quality, automated-assessment, feedback, formative-assessment]
 confidence: high
 translation_of: concepts/ai-feedback-quality
-source_updated: "2026-10-24T08:53:00-04:00"
+source_updated: "2026-10-28T01:06:31-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -41,7 +41,7 @@ Die Qualität von KI-Feedback ist nicht bloß eine Frage der Korrektheit. Wirksa
 
 - **Vergleichbarkeit mit menschlichem Feedback:** [[ai-generated-feedback-higher-ed|Studien in der Hochschulbildung]] zeigen, dass KI-generiertes Feedback als akzeptabel und unterstützend erlebt wird — vergleichbar mit dem Feedback einer Lehrkraft. Akzeptanz garantiert jedoch keine Lernwirksamkeit. Ein PRISMA-gestützter [[meta-analysis-systematic-review|systematischer Review]] von 42 empirischen Studien (2023–2025) kommt ebenfalls zu dem Ergebnis, dass die Qualität von KI-[[llm|LLM]]-Bewertungen und Feedback aufgabenabhängig ist — sie entspricht menschlichen Bewertenden bei kurzen, gut strukturierten Antworten mit detaillierten Bewertungsrastern, lässt aber bei komplexen, offenen oder [[multilingual-learning|mehrsprachigen]] Arbeiten nach, wobei das Feedback manchmal zu generisch oder von der Note abgekoppelt ist — und nennt Promptqualität, Detailreichtum des Bewertungsrasters, Modellversion und Sprache der Prüfung als die bestimmenden Faktoren der Bewertungs- und Feedbackqualität ([[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]).
 
-- **LLM-erzeugte Unterrichtsmaterialien erreichten menschlich erstellte — wenn Feedback vorhanden war.** [[lin-rag-lesson-generation-tutor-training-2026|Lin et al. (2026)]] erzeugten szenariobasierte Tutor:innen-Trainingslektionen mit einer retrieval-gestützten Pipeline über kuratierten Forschungsquellen und verglichen sie in einem randomisierten Acht-Bedingung-Experiment (N = 208) gegen sorgfältig menschlich verfasste Lektionen. Die menschlich erstellte Lektion erbrachte eine höhere Post-Test-Leistung (0,793 gegenüber 0,730), aber nur in der Bedingung ohne Feedback; mit unmittelbarem erklärendem Feedback verschwand der Unterschied der Quelle, und Feedback hatte insgesamt keinen Haupteffekt. Für die Inhaltserzeugung legt der Befund nahe, dass die Lücke zwischen menschlich und LLM eine Gerüst-Lücke ist: erzeugte Materialien sind konkurrenzfähig, wenn die Lernumgebung das erklärende Feedback liefert, das die Lektion selbst nicht enthält.
+- **LLM-erzeugte Unterrichtsmaterialien erreichten menschlich erstellte — wenn Feedback vorhanden war.** [[lin-rag-lesson-generation-tutor-training-2026|Lin et al. (2026)]] erzeugten szenariobasierte Tutor:innen-Trainingslektionen mit einer [[rag|retrieval-gestützte]]n Pipeline über kuratierten Forschungsquellen und verglichen sie in einem randomisierten Acht-Bedingung-Experiment (N = 208) gegen sorgfältig menschlich verfasste Lektionen. Die menschlich erstellte Lektion erbrachte eine höhere Post-Test-Leistung (0,793 gegenüber 0,730), aber nur in der Bedingung ohne Feedback; mit unmittelbarem erklärendem Feedback verschwand der Unterschied der Quelle, und Feedback hatte insgesamt keinen Haupteffekt. Für die Inhaltserzeugung legt der Befund nahe, dass die Lücke zwischen menschlich und LLM eine Gerüst-Lücke ist: erzeugte Materialien sind konkurrenzfähig, wenn die Lernumgebung das erklärende Feedback liefert, das die Lektion selbst nicht enthält.
 
 Die von Studierenden wahrgenommene Qualität ist gemischter, als die Akzeptanz vermuten lässt: 77 von 93 Studierenden fanden KI-Feedback leicht verständlich, doch 68 empfanden es als repetitiv und 79 als in sich widersprüchlich; nur 31 stimmten zu, dass es komplexe oder kreative Texte bewertet, und 81.7% bevorzugten für eine Abschlussarbeit, die 40% der Note ausmacht, eine menschliche Bewertung ([[when-students-prefer-ai-scoring-feedback-2026|Yildirim-Erbasli et al. (2026)]]).
 - **Ein gemeinsamer Anker für den Feedbackmechanismus.** Eine Metaanalyse über 53 Studien fand für GenAI-Feedback den größten Effekt der Untersuchung (g = 1.27), gegenüber g = 0.40 für Leistung, zurückgeführt auf Verständlichkeit, Rechtzeitigkeit und Objektivität — obwohl Studierende KI-Feedback misstrauen können und sein Mangel an emotionaler Reaktion die kognitive Last erhöhen kann ([[genai-educational-outcomes-meta-analysis|Dong (2026)]]).

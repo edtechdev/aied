@@ -12,7 +12,7 @@ connected_faqs: [research-gaps-aied, reporting-interpreting-aied-research]
 methods: [ai-ed-evaluation, benchmark, research-methods-aied]
 reviewed_by: [editor]
 translation_of: concepts/limitations-in-aied-research
-source_updated: "2026-10-07T07:20:00-04:00"
+source_updated: "2026-10-28T01:06:31-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -66,7 +66,7 @@ Bilgi tabanının [[research-methods-aied|araştırma yöntemleri]] sayfası her
 
 YZ sürekli değişmektedir ve herhangi bir model veya sistemden çıkarılan sonuçlar **hızla çürüyebilir**. Bir [[llm]] nesline ilişkin çalışma bir sonrakini tanımlamayabilir; kıyas puanları, özel ders kalitesi ve hatta bir bulgunun pratik faydası modeller geliştikçe değişir. Bunu şiddetlendiren, **yayın sürecinin yavaş olmasıdır** — çalışma tasarımından hakemli yayına bir yıl veya daha fazla sürebilir — dolayısıyla yayımlanmış bir sonuç çoktan eskimiş bir sistemi tanımlıyor olabilir. Hakemler ve okuyucular bu nedenle AIED bulgularını sabit gerçekler yerine geçici, tarihe duyarlı iddialar olarak ele almalı ve yeni, çoğaltma yönelimli ve sürüm açık çalışmaları tercih etmelidir.
 
-[[thoeni-ai-chatbots-higher-education-expectations-evidence-2026|Thoeni ve Fryer (2026)]], bunun sonucunu tek bir edebiyat için somutlaştırır: RAG tabanlı sistemler yalnızca Kasım 2023’te kamuya açıldığından, 2023 öncesi [[intelligent-tutoring|akıllı özel ders]] bulgularının — kural tabanlı, anahtar sözcük eşleştirmeli veya sezgisel NLP sistemlerine dayandıkları için güncel büyük dil modelleriyle çok az işlevsel benzerlik taşırlar — doğrudan karşılaştırılabilir kanıt değil tarihsel bağlam olarak ele alınması gerektiğini savunurlar ve derlemelerinin, tam bir akademik dönem boyunca lisans eğitiminde RAG tabanlı bir YZ sohbet robotunu inceleyen yayımlanmış hiçbir RCT bulamadığını bildirir. Çıkarım şudur: üreten YZ’nin öğrenmeyi nasıl etkilediğine ilişkin temel soruların, eski sonuçların bir araya getirilmesiyle çözülmekten çok her yeni model nesline karşı yeniden sorulması gerekebilir.
+[[thoeni-ai-chatbots-higher-education-expectations-evidence-2026|Thoeni ve Fryer (2026)]], bunun sonucunu tek bir edebiyat için somutlaştırır: [[rag|RAG]] tabanlı sistemler yalnızca Kasım 2023’te kamuya açıldığından, 2023 öncesi [[intelligent-tutoring|akıllı özel ders]] bulgularının — kural tabanlı, anahtar sözcük eşleştirmeli veya sezgisel NLP sistemlerine dayandıkları için güncel büyük dil modelleriyle çok az işlevsel benzerlik taşırlar — doğrudan karşılaştırılabilir kanıt değil tarihsel bağlam olarak ele alınması gerektiğini savunurlar ve derlemelerinin, tam bir akademik dönem boyunca lisans eğitiminde RAG tabanlı bir YZ sohbet robotunu inceleyen yayımlanmış hiçbir RCT bulamadığını bildirir. Çıkarım şudur: üreten YZ’nin öğrenmeyi nasıl etkilediğine ilişkin temel soruların, eski sonuçların bir araya getirilmesiyle çözülmekten çok her yeni model nesline karşı yeniden sorulması gerekebilir.
 
 ## Araştırma–uygulama sınırlılıkları
 

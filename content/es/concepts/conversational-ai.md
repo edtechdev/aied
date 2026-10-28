@@ -1,13 +1,13 @@
 ---
 title: IA conversacional
 created: "2026-09-28T20:10:38-04:00"
-updated: "2026-10-26T22:02:40-04:00"
+updated: "2026-10-28T01:06:31-04:00"
 type: concept
 foundations: [ai-literacy, human-ai-collaboration]
 technology: [conversational-ai, generative-ai, intelligent-tutoring, llm, pedagogical-agent]
 confidence: medium
 translation_of: concepts/conversational-ai
-source_updated: "2026-10-26T10:50:00-04:00"
+source_updated: "2026-10-28T01:06:31-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -80,7 +80,7 @@ La IA conversacional se entiende mejor como una **modalidad de interacción** qu
 
 **En resumen:** la IA conversacional es la **interfaz o el medio**, los agentes pedagógicos son el **rol** y la tutoría inteligente es el **modelado y la lógica instruccional subyacentes**. Los agentes de CAI valiosos educativamente se sitúan en la intersección de los tres: conversacionales en la interfaz, pedagógicos en la intención y tutoriles en su modelado de quien aprende.
 
-- **Cómo habla realmente el estudiantado con los agentes conversacionales —un esquema de desimplicación de seis categorías:** [[rho-disengaged-conversational-behaviors-2026|Rho et al. (2026)]] integraron un enseñante GPT-4-Turbo (presentado como un estudiante de secundaria con dificultades, fundamentado con RAG sobre un grafo de conocimiento y emparejado con un agente mentor que criticaba las explicaciones del estudiantado) en las lecciones de Álgebra y Geometría de Math Nation, y codificaron 5.522 enunciados de 246 estudiantes. Más allá de la implicación (el 75,7% de los enunciados), identificaron respuesta falsa (12,8%), retención (8,9%), aleatorio/ruidoso (2,1%), espejado (0,6%), burla (0,3%) y fantasma (0,2%), y el espejado (copiar el texto del agente) emergió de forma inductiva a partir de los datos. La clasificación se hizo con una persona en el bucle: 1.682 enunciados anotados por dos evaluadores (κ = 0,704–0,905 por categoría) entrenaron un clasificador LLaMA 3 ajustado (F1 ponderado = 0,910 sobre conversaciones retenidas) que etiquetó los 3.840 enunciados restantes. Un análisis de riesgos contrapuestos a nivel de proceso mostró entonces que la mayoría de la desimplicación se resuelve en unos pocos turnos, salvo la retención, que persiste: una señal sobre la que merece la pena diseñar las respuestas del agente.
+- **Cómo habla realmente el estudiantado con los agentes conversacionales —un esquema de desimplicación de seis categorías:** [[rho-disengaged-conversational-behaviors-2026|Rho et al. (2026)]] integraron un enseñante GPT-4-Turbo (presentado como un estudiante de secundaria con dificultades, fundamentado con [[rag|RAG]] sobre un grafo de conocimiento y emparejado con un agente mentor que criticaba las explicaciones del estudiantado) en las lecciones de Álgebra y Geometría de Math Nation, y codificaron 5.522 enunciados de 246 estudiantes. Más allá de la implicación (el 75,7% de los enunciados), identificaron respuesta falsa (12,8%), retención (8,9%), aleatorio/ruidoso (2,1%), espejado (0,6%), burla (0,3%) y fantasma (0,2%), y el espejado (copiar el texto del agente) emergió de forma inductiva a partir de los datos. La clasificación se hizo con una persona en el bucle: 1.682 enunciados anotados por dos evaluadores (κ = 0,704–0,905 por categoría) entrenaron un clasificador LLaMA 3 ajustado (F1 ponderado = 0,910 sobre conversaciones retenidas) que etiquetó los 3.840 enunciados restantes. Un análisis de riesgos contrapuestos a nivel de proceso mostró entonces que la mayoría de la desimplicación se resuelve en unos pocos turnos, salvo la retención, que persiste: una señal sobre la que merece la pena diseñar las respuestas del agente.
 
 ## Orientaciones prácticas
 

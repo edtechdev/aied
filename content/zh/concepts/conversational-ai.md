@@ -1,13 +1,13 @@
 ---
 title: 对话式人工智能
 created: "2026-08-22T04:44:37-04:00"
-updated: "2026-10-24T14:42:05-04:00"
+updated: "2026-10-28T01:06:31-04:00"
 type: concept
 foundations: [ai-literacy, human-ai-collaboration]
 technology: [conversational-ai, generative-ai, intelligent-tutoring, llm, pedagogical-agent]
 confidence: medium
 translation_of: concepts/conversational-ai
-source_updated: "2026-10-18T10:07:01-04:00"
+source_updated: "2026-10-28T01:06:31-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -84,7 +84,7 @@ ai_assist:
 
 选择对话式智能体是为了支持教学、[[motivation]]与[[metacognition]]，而不只是为了回答问题，并为以 HCI 为根基、参与式、以用户为中心的交互而设计。通过把 CAI 与[[ai-literacy]]教学以及让学习者保持认知产出的[[feedback]]配对，来防范[[cognitive-offloading|过度依赖]]。明确关注 AI 素养与可用性——因为这些——而非一般数字技能——驱动采纳与弃用（[[colbran-student-perspectives-genai-chatbots-2026|Colbran、Jha 与 Schiavone（2026）]]）——并把部署与明确的 AI 使用政策、评估标签与培训配对。在教学产出上评价 CAI——而不只是任务完成——并且从一开始就为公平与[[accessibility]]做规划，而非事后补。
 
-- **学生实际上如何与对话式智能体交谈——一套六类别的脱离参与方案：** [[rho-disengaged-conversational-behaviors-2026|Rho 等（2026）]]把一个 GPT-4-Turbo 可教智能体（被定位为一个挣扎中的中学生，通过知识图谱上的 RAG 落地，与一个批评学生解释的导师智能体配对）嵌入 Math Nation 的代数与几何课中，并对 246 名学生的 5,522 次话语做了编码。在参与（75.7% 的话语）之外，他们识别出虚假作答（12.8%）、扣留（8.9%）、随机/噪声（2.1%）、镜像（0.6%）、嘲弄（0.3%）与幽灵化（0.2%）——其中镜像（复制智能体的文本）是从数据中归纳浮现的。该分类是人在回路的：由两名评分者标注的 1,682 次话语（每个类别 κ = 0.704–0.905）训练了一个微调的 LLaMA 3 分类器（在留出对话线程上加权 F1 = 0.910），由其标注余下的 3,840 次话语。一项过程层面的竞争风险分析随后表明，多数脱离参与在几个话轮内得到消解，唯独扣留持续存在——这是一个值得围绕它设计智能体响应的信号。
+- **学生实际上如何与对话式智能体交谈——一套六类别的脱离参与方案：** [[rho-disengaged-conversational-behaviors-2026|Rho 等（2026）]]把一个 GPT-4-Turbo 可教智能体（被定位为一个挣扎中的中学生，通过知识图谱上的 [[rag|RAG]] 落地，与一个批评学生解释的导师智能体配对）嵌入 Math Nation 的代数与几何课中，并对 246 名学生的 5,522 次话语做了编码。在参与（75.7% 的话语）之外，他们识别出虚假作答（12.8%）、扣留（8.9%）、随机/噪声（2.1%）、镜像（0.6%）、嘲弄（0.3%）与幽灵化（0.2%）——其中镜像（复制智能体的文本）是从数据中归纳浮现的。该分类是人在回路的：由两名评分者标注的 1,682 次话语（每个类别 κ = 0.704–0.905）训练了一个微调的 LLaMA 3 分类器（在留出对话线程上加权 F1 = 0.910），由其标注余下的 3,840 次话语。一项过程层面的竞争风险分析随后表明，多数脱离参与在几个话轮内得到消解，唯独扣留持续存在——这是一个值得围绕它设计智能体响应的信号。
 
 ## 关联概念
 

@@ -12,7 +12,7 @@ connected_faqs: [research-gaps-aied, reporting-interpreting-aied-research]
 methods: [ai-ed-evaluation, benchmark, research-methods-aied]
 reviewed_by: [editor]
 translation_of: concepts/limitations-in-aied-research
-source_updated: "2026-10-07T07:20:00-04:00"
+source_updated: "2026-10-28T01:06:31-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -66,7 +66,7 @@ La pagina sui [[research-methods-aied|metodi di ricerca]] della knowledge base d
 
 L'IA cambia continuamente, e le conclusioni tratte da un qualsiasi modello o sistema possono diventare rapidamente **datate**. Uno studio su una generazione di [[llm]] può non descrivere la successiva; i punteggi nei benchmark, la qualità della tutorizzazione e persino l'utilità pratica di un risultato cambiano con il migliorare dei modelli. A ciò si aggiunge il fatto che il **processo di pubblicazione è lento** — dalla progettazione dello studio alla pubblicazione peer-reviewed può passare un anno o più — quindi un risultato pubblicato può già descrivere un sistema obsoleto. Revisori e lettori dovrebbero quindi trattare i risultati AIED come affermazioni provvisorie e sensibili alla data, piuttosto che come verità stabili, e preferire lavori recenti, orientati alla replica ed espliciti sulla versione.
 
-[[thoeni-ai-chatbots-higher-education-expectations-evidence-2026|Thoeni e Fryer (2026)]] rendono concreta la conseguenza per una letteratura specifica: poiché i sistemi basati su RAG sono diventati pubblicamente disponibili solo nel novembre 2023, sostengono che i risultati pre-2023 sull'[[intelligent-tutoring|intelligent tutoring]] — basati su sistemi NLP rule-based, a corrispondenza di parole chiave o euristici che hanno poca somiglianza funzionale con gli attuali grandi modelli linguistici — dovrebbero essere trattati come contesto storico piuttosto che come evidenze direttamente comparabili, e riportano che la loro revisione non ha trovato alcun RCT pubblicato che esaminasse un chatbot IA basato su RAG nell'educazione universitaria per un intero semestre accademico. L'implicazione è che le domande fondamentali su come l'IA generativa influenzi l'apprendimento potrebbero dover essere riproposte per ciascuna nuova generazione di modelli, piuttosto che chiuse dall'aggregazione di risultati più vecchi.
+[[thoeni-ai-chatbots-higher-education-expectations-evidence-2026|Thoeni e Fryer (2026)]] rendono concreta la conseguenza per una letteratura specifica: poiché i sistemi basati su [[rag|RAG]] sono diventati pubblicamente disponibili solo nel novembre 2023, sostengono che i risultati pre-2023 sull'[[intelligent-tutoring|intelligent tutoring]] — basati su sistemi NLP rule-based, a corrispondenza di parole chiave o euristici che hanno poca somiglianza funzionale con gli attuali grandi modelli linguistici — dovrebbero essere trattati come contesto storico piuttosto che come evidenze direttamente comparabili, e riportano che la loro revisione non ha trovato alcun RCT pubblicato che esaminasse un chatbot IA basato su RAG nell'educazione universitaria per un intero semestre accademico. L'implicazione è che le domande fondamentali su come l'IA generativa influenzi l'apprendimento potrebbero dover essere riproposte per ciascuna nuova generazione di modelli, piuttosto che chiuse dall'aggregazione di risultati più vecchi.
 
 ## Limiti nella pratica della ricerca
 

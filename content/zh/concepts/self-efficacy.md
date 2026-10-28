@@ -1,7 +1,7 @@
 ---
 title: 自我效能
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-10-24T15:57:18-04:00"
+updated: "2026-10-28T01:06:31-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [motivation, self-efficacy, self-regulated-learning]
@@ -10,7 +10,7 @@ connected_faqs: [ai-anxiety-wellbeing, study-with-ai]
 audience: [learners]
 confidence: high
 translation_of: concepts/self-efficacy
-source_updated: "2026-10-23T09:20:00-04:00"
+source_updated: "2026-10-28T01:06:31-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -65,7 +65,7 @@ ai_assist:
 自我效能连接到[[motivation]]、[[self-regulated-learning]]、[[student-experience]]、[[ai-literacy]]、[[agency]]与[[educational-robotics]]。建立自我效能是 AI 支持投入与学习的关键机制之一。自我效能几乎完全靠[[self-report-measures|自报]]测量，因此其与观察行为的关联应受惯常的告诫。
 
 - **AIGC 自我效能作为工具与学习之间的枢纽。**[[aigc-affordance-student-self-regulation-2026|Liang 等人（2026）]]发现，AI 生成内容的感知可供性提高 AIGC 自我效能（beta = 0.583），进而中介通往学习动机的路径（间接效应 0.329）与通往自我调节学习的路径（0.145），且可供性到自我效能到动机到自我[[regulation|调节]]的序列路径也显著（0.173）。使该发现有用的是对比：AI [[assessment|评估]]反馈的质量并*不*预测自我效能（beta = 0.131，n.s.），尽管它强烈预测满意度——对工具的信心由*指挥*它建立，而非由从它接收好产出建立。
-- **在一项为期一学期的 RCT 中无处理效应——信心随课程时间上升：**在[[thoeni-ai-chatbots-higher-education-expectations-evidence-2026|Thoeni 与 Fryer（2026）]]对市场营销原理课 454 名本科生的随机田野实验中，自我效能在整个学期对所有学生上升（时间效应 β = 0.099，p = 0.0009，Cohen's ƒ2 = 0.025），而组效应（p = 0.1162）与组 × 时间交互（p = 0.5306，d = 0.023）都不显著，因此 RAG 聊天机器人没有增加任何东西。AI 支持课程中的信心增益可以追踪课程进程而非工具——这对一个几乎全靠[[self-report-measures|自报]]测量的构念是一个归因风险。
+- **在一项为期一学期的 RCT 中无处理效应——信心随课程时间上升：**在[[thoeni-ai-chatbots-higher-education-expectations-evidence-2026|Thoeni 与 Fryer（2026）]]对市场营销原理课 454 名本科生的随机田野实验中，自我效能在整个学期对所有学生上升（时间效应 β = 0.099，p = 0.0009，Cohen's ƒ2 = 0.025），而组效应（p = 0.1162）与组 × 时间交互（p = 0.5306，d = 0.023）都不显著，因此 [[rag|RAG]] 聊天机器人没有增加任何东西。AI 支持课程中的信心增益可以追踪课程进程而非工具——这对一个几乎全靠[[self-report-measures|自报]]测量的构念是一个归因风险。
 - **信心可以与行为反向移动。**在竞技编程中，停止参赛的学生报告的理论信心*高于*仍在参赛的同侪，却在解题（upsolving）与同伴圈子习惯上显著更弱（p < .001），因此单靠一个自我效能信号会误导早期预警系统（[[predicting-attrition-competitive-programming|Ruhan 等人（2026）]]）。
 - **信心可在其背后的能力下降时上升。**在大学生中，频繁的生成式 AI 使用在同样的学习者中同时提高了感知信心与效率，*并*增加了技术依赖，因此在 AI 辅助工作期间取得的自我效能分数，可能在底层技能正在侵蚀的那一刻读起来仍然很高（[[genai-performance-vs-learning|Yan 等人，2025]]）。
 - **AI 使用随信心而来，但信心不预测出勤。**在一项对 291 名葡萄牙学生的 PLS-SEM 调查中，一般 AI 使用与独立学习的自我效能正相关（β = 0.266，f² = 0.106）。该构念被建模为 Bandura 四个来源的二阶形成性复合——掌握经验、替代经验、言语劝说与情绪状态。自我效能进而未预测缺勤（β = −0.068，p = 0.276），尽管 AI 使用另与更高缺勤相关（β = 0.148，f² = 0.029）。AI 使用 → 自我效能路径在男性中显著强于女性（β = 0.449 对 0.159；Δβ = −0.289，p = 0.013），在部分测量不变性下（[[confident-but-absent-ai-use-absenteeism-2026|Franco 等人（2026）]]）。

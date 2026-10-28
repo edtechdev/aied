@@ -1,7 +1,7 @@
 ---
 title: "Limites de la recherche en AIED"
 created: "2026-08-15T09:18:04-04:00"
-updated: "2026-10-24T10:38:23-04:00"
+updated: "2026-10-28T01:06:31-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [learning-theories]
@@ -12,7 +12,7 @@ confidence: high
 connected_faqs: [research-gaps-aied, reporting-interpreting-aied-research]
 methods: [ai-ed-evaluation, benchmark, research-methods-aied]
 translation_of: concepts/limitations-in-aied-research
-source_updated: "2026-10-16T08:47:09-04:00"
+source_updated: "2026-10-28T01:06:31-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -67,7 +67,7 @@ La page [[research-methods-aied|méthodes de recherche]] de la base de connaissa
 
 L'IA change continuellement, et les conclusions tirées d'un modèle ou d'un système donné peuvent devenir **rapidement obsolètes**. Une étude portant sur une génération de [[llm|grands modèles de langue]] peut ne pas décrire la suivante ; les scores aux repères de référence, la qualité du tutorat, et même l'utilité pratique d'un résultat se déplacent à mesure que les modèles s'améliorent. En s'ajoutant à cela, le **processus de publication est lent** — de la conception de l'étude à la publication évaluée par les pairs, il peut s'écouler un an ou plus — si bien qu'un résultat publié peut déjà décrire un système obsolète. Les évaluateurs et les lecteurs devraient donc traiter les résultats en AIED comme des affirmations provisoires et sensibles à la date, plutôt que comme des vérités stables, et préférer les travaux récents, orientés vers la réplication et explicites quant à la version.
 
-[[thoeni-ai-chatbots-higher-education-expectations-evidence-2026|Thoeni et Fryer (2026)]] rendent concrète la conséquence pour une littérature : parce que les systèmes fondés sur la RAG ne sont devenus accessibles au public qu'en novembre 2023, ils soutiennent que les résultats antérieurs à 2023 sur le [[intelligent-tutoring|tutorat intelligent]] — reposant sur des systèmes de TAL fondés sur des règles, l'appariement de mots-clés ou des heuristiques, qui présentent peu de ressemblance fonctionnelle avec les grands modèles de langue actuels — devraient être traités comme un contexte historique plutôt que comme des preuves directement comparables, et ils rapportent que leur revue n'a trouvé aucun ECR publié examinant un agent conversationnel fondé sur la RAG dans l'enseignement du premier cycle sur un semestre académique complet. L'implication est que les questions fondatrices sur la manière dont l'IA générative affecte l'apprentissage pourraient devoir être reposées à chaque nouvelle génération de modèles, plutôt que tranchées en regroupant des résultats plus anciens.
+[[thoeni-ai-chatbots-higher-education-expectations-evidence-2026|Thoeni et Fryer (2026)]] rendent concrète la conséquence pour une littérature : parce que les systèmes fondés sur la [[rag|RAG]] ne sont devenus accessibles au public qu'en novembre 2023, ils soutiennent que les résultats antérieurs à 2023 sur le [[intelligent-tutoring|tutorat intelligent]] — reposant sur des systèmes de TAL fondés sur des règles, l'appariement de mots-clés ou des heuristiques, qui présentent peu de ressemblance fonctionnelle avec les grands modèles de langue actuels — devraient être traités comme un contexte historique plutôt que comme des preuves directement comparables, et ils rapportent que leur revue n'a trouvé aucun ECR publié examinant un agent conversationnel fondé sur la RAG dans l'enseignement du premier cycle sur un semestre académique complet. L'implication est que les questions fondatrices sur la manière dont l'IA générative affecte l'apprentissage pourraient devoir être reposées à chaque nouvelle génération de modèles, plutôt que tranchées en regroupant des résultats plus anciens.
 
 ## Limites relatives aux pratiques de recherche
 

@@ -1,13 +1,13 @@
 ---
 title: "L'IA conversationnelle"
 created: "2026-08-22T04:44:37-04:00"
-updated: "2026-10-24T10:41:20-04:00"
+updated: "2026-10-28T01:06:31-04:00"
 type: concept
 foundations: [ai-literacy, human-ai-collaboration]
 technology: [conversational-ai, generative-ai, intelligent-tutoring, llm, pedagogical-agent]
 confidence: medium
 translation_of: concepts/conversational-ai
-source_updated: "2026-10-18T10:07:01-04:00"
+source_updated: "2026-10-28T01:06:31-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -82,7 +82,7 @@ L'IA conversationnelle se comprend au mieux comme une **modalité d'interaction*
 
 Choisissez des agents conversationnels pour soutenir l'enseignement, la [[motivation]] et la [[metacognition]] plutôt que pour simplement répondre aux questions, et concevez pour une interaction fondée sur les IHM, participative et centrée sur l'utilisateur. Prémunissez-vous contre la sur-[[cognitive-offloading|dépendance]] en associant l'IAC à un enseignement de l'[[ai-literacy]] et à un [[feedback]] qui maintient l'apprenant cognitivement productif. Traitez explicitement la littératie en IA et l'utilisabilité — car ce sont elles, et non la compétence numérique générale, qui déterminent l'adoption et la non-utilisation ([[colbran-student-perspectives-genai-chatbots-2026|Colbran, Jha & Schiavone 2026]]) — et accompagnez le déploiement de politiques claires d'usage de l'IA, d'étiquettes d'évaluation et de formations. Évaluez l'IAC sur des résultats pédagogiques — et pas seulement sur l'accomplissement des tâches — et planifiez l'équité et l'[[accessibility|accessibilité]] dès le départ plutôt que comme une réflexion après coup.
 
-- **Comment les étudiants parlent réellement aux agents conversationnels — un schéma de désengagement en six catégories :** [[rho-disengaged-conversational-behaviors-2026|Rho et al. (2026)]] ont intégré un agent enseignable GPT-4-Turbo (positionné comme un élève de collège en difficulté, ancré par RAG sur un graphe de connaissances, et associé à un agent mentor qui critiquait les explications des étudiants) dans les leçons d'algèbre et de géométrie de Math Nation, puis ont codé 5 522 énoncés provenant de 246 étudiants. Au-delà de l'engagement (75,7% des énoncés), ils ont identifié False Answering (12,8%), Withholding (8,9%), Random/Noisy (2,1%), Mirroring (0,6%), Mocking (0,3%) et Ghosting (0,2%) — le Mirroring (copie du texte de l'agent) émergeant inductivement des données. La classification se faisait dans la boucle humaine : 1 682 énoncés annotés par deux évaluateurs (κ = 0,704–0,905 par catégorie) ont servi à entraîner un classificateur LLaMA 3 affiné (F1 pondéré = 0,910 sur des fils de discussion réservés) qui a étiqueté les 3 840 énoncés restants. Une analyse des risques compétitifs au niveau du processus a ensuite montré que la plupart des désengagements se résolvent en quelques tours, à l'exception du Withholding, qui persiste — un signal autour duquel il vaut la peine de concevoir les réponses de l'agent.
+- **Comment les étudiants parlent réellement aux agents conversationnels — un schéma de désengagement en six catégories :** [[rho-disengaged-conversational-behaviors-2026|Rho et al. (2026)]] ont intégré un agent enseignable GPT-4-Turbo (positionné comme un élève de collège en difficulté, ancré par [[rag|RAG]] sur un graphe de connaissances, et associé à un agent mentor qui critiquait les explications des étudiants) dans les leçons d'algèbre et de géométrie de Math Nation, puis ont codé 5 522 énoncés provenant de 246 étudiants. Au-delà de l'engagement (75,7% des énoncés), ils ont identifié False Answering (12,8%), Withholding (8,9%), Random/Noisy (2,1%), Mirroring (0,6%), Mocking (0,3%) et Ghosting (0,2%) — le Mirroring (copie du texte de l'agent) émergeant inductivement des données. La classification se faisait dans la boucle humaine : 1 682 énoncés annotés par deux évaluateurs (κ = 0,704–0,905 par catégorie) ont servi à entraîner un classificateur LLaMA 3 affiné (F1 pondéré = 0,910 sur des fils de discussion réservés) qui a étiqueté les 3 840 énoncés restants. Une analyse des risques compétitifs au niveau du processus a ensuite montré que la plupart des désengagements se résolvent en quelques tours, à l'exception du Withholding, qui persiste — un signal autour duquel il vaut la peine de concevoir les réponses de l'agent.
 
 ## Concepts liés
 
