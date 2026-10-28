@@ -1,7 +1,7 @@
 ---
 title: "Information Technology Education"
 created: "2026-09-17T14:06:00-04:00"
-updated: "2026-10-25T19:50:00-04:00"
+updated: "2026-10-28T19:24:33-04:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading]
 ethics: [equity-in-ai-education]
@@ -36,7 +36,7 @@ What is distinctive about AI in this field is that the same technology is both t
 
 - **Gamified cybersecurity training.** Li and colleagues built several short, mobile-friendly games spanning password security through text and phone scam recognition, combining quiz-based, narrative-based, and [[simulation]]-based designs with interactive formats such as TikTok Mini-Games, motivated by the low engagement and limited effectiveness of conventional video training ([[ai-gamification-security-education-2026]]). Their two-tier evaluation with 59 college students (9 technical experts, 50 general users) reports potential to improve engagement and attention to cybersecurity rather than demonstrated learning gains.
 - **GenAI as scaffold or shortcut in self-regulated learning.** A mixed-methods study of 267 postgraduate IT students in Australia distinguishes scaffolded [[cognitive-offloading]] (learners clarify goals, generate ideas, obtain [[feedback]] they then critique and adapt, so [[agency]] stays with them) from substitutional offloading (outputs accepted with minimal verification, control shifting to the tool) ([[atif-dickson-deane-scaffold-shortcut-genai-srl-2026]]). Confidence shaped orientation: confident students exercised autonomy in goal setting and monitoring, while less confident peers read GenAI as a shortcut or as [[academic-integrity|misconduct]]. The cohort was differentiated, not homogeneously AI-literate; the authors recommend requiring students to justify or adapt AI outputs as an explicit [[learning-design]] move.
-- **Compressed expertise pathways in professional practice.** Fourteen semi-structured interviews with IT professionals found GenAI acting as both a mentor-like tutor and a ladder-shortening tool in troubleshooting, scripting, and system verification ([[genai-expertise-pathways-sysadmin]]). Accelerated unfamiliar-domain performance reduces exposure to the build-fail-debug cycles that historically built expertise; AI-assisted speed also resets team and self-expectations, producing a two-speed culture and productivity guilt. The study carries classroom concerns about [[metacognition|metacognitive]] cost and skill decay into [[professional-training]] and [[lifelong-learning|workplace learning]].
+- **Compressed expertise pathways in professional practice.** Fourteen semi-structured interviews with IT professionals found GenAI acting as both a mentor-like tutor and a ladder-shortening tool in troubleshooting, scripting, and system verification ([[genai-expertise-pathways-sysadmin]]). Accelerated unfamiliar-domain performance reduces exposure to the build-fail-debug cycles that historically built expertise; AI-assisted speed also resets team and self-expectations, producing a two-speed culture and productivity guilt. The study carries classroom concerns about [[metacognition|metacognitive]] cost and skill decay into [[professional-training]] and [[professional-training|workplace learning]].
 
 ### Assessment and the learner side of IT AI use
 

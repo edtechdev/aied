@@ -16,7 +16,7 @@ level: [higher ed]
 page_kind: [synthesis]
 ---
 
-> **Synthesis:** This PRISMA-ScR [[meta-analysis-systematic-review|scoping review]] (23 studies, 2019–June 2024) maps [[conversational-ai|conversational agents]] for novice programmers, finding the field shifting from rule-based chatbots toward [[llm|LLM]]- and [[rag|RAG]]-based agents — yet only 4 of 23 studies ground design in [[scaffolding|learning theory]]. It flags a major [[equity-in-ai-education|inclusivity]] gap (17 of 23 prototypes English-only despite most [[research-methods-aied|research]] originating outside English-speaking countries) and weak, non-standardized evaluation, and offers design recommendations for [[cs-education|introductory programming education]].
+> **Synthesis:** This PRISMA-ScR [[meta-analysis-systematic-review|scoping review]] (23 studies, 2019–June 2024) maps [[conversational-ai|conversational agents]] for novice programmers, finding the field shifting from rule-based chatbots toward [[llm|LLM]]- and [[rag|RAG]]-based agents — yet only 4 of 23 studies ground design in [[learning-theories|learning theory]]. It flags a major [[equity-in-ai-education|inclusivity]] gap (17 of 23 prototypes English-only despite most [[research-methods-aied|research]] originating outside English-speaking countries) and weak, non-standardized evaluation, and offers design recommendations for [[cs-education|introductory programming education]].
 
 ## Key Findings
 
@@ -28,7 +28,7 @@ page_kind: [synthesis]
 
 ## What this means for practice
 
-- **Designers.** Ground the agent in [[scaffolding|learning theory]] before building features: only 4 of the 23 reviewed studies applied theories such as Vygotskian dialogue, the 4C/ID model, or gamification, and the review attributes bypassed critical and algorithmic thinking to theory-free design.
+- **Designers.** Ground the agent in [[learning-theories|learning theory]] before building features: only 4 of the 23 reviewed studies applied theories such as Vygotskian dialogue, the 4C/ID model, or gamification, and the review attributes bypassed critical and algorithmic thinking to theory-free design.
 - **Designers.** Ship modular, educator-customizable templates that build in [[scaffolding]], [[cognitive-offloading|cognitive-load]] management, and [[feedback|formative feedback]], rather than hard-coding a fixed pedagogical script.
 - **Instructors.** Treat evaluation as part of adoption, not an add-on: 15 of 23 studies used experimental designs but most measured outcomes with post-usage surveys and only three used objective pre/post-tests, so run your own pre/post check on [[learning-gains|learning gains]] instead of relying on satisfaction ratings.
 - **Designers.** Design language and gender inclusivity in from the start: 17 of 23 prototypes were English-only despite most research originating outside English-speaking countries, and only 2 of 23 studies addressed gender representation.

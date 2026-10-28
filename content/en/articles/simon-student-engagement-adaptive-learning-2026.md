@@ -38,7 +38,7 @@ The review also surfaces the "negative side" of adaptive learning. Disengagement
 
 ## Self-Determination and Design Implications
 
-The authors interpret the social-interaction findings through [[motivation|self-determination theory]]: positive reinforcement, teammate effects, and learning companions affirm competence, convey relatedness, and support autonomy. Practically, schools should invest in platforms matched to their students' needs, involve experienced [[teacher-role|teachers]] in content creation, orient students to platform features, balance structure and flexibility, and integrate adaptive peer robots/companions to reduce the solitude of [[online-teaching-and-learning|online learning]]. Well-designed [[feedback|feedback systems]] can also unburden teachers in blended settings so they can focus on quality student–teacher relationships.
+The authors interpret the social-interaction findings through [[self-determination-theory|self-determination theory]]: positive reinforcement, teammate effects, and learning companions affirm competence, convey relatedness, and support autonomy. Practically, schools should invest in platforms matched to their students' needs, involve experienced [[teacher-role|teachers]] in content creation, orient students to platform features, balance structure and flexibility, and integrate adaptive peer robots/companions to reduce the solitude of [[online-teaching-and-learning|online learning]]. Well-designed [[feedback|feedback systems]] can also unburden teachers in blended settings so they can focus on quality student–teacher relationships.
 
 ## What this means for practice
 

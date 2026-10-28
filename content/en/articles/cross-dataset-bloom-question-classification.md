@@ -20,7 +20,7 @@ page_kind: [evaluation]
 
 ## Key Findings
 
-- The study evaluated cross-dataset generalization of existing [[reinforcement-learning|machine learning]] and deep learning methods and of LLMs for automatic Bloom's taxonomy classification of assessment questions across five datasets.
+- The study evaluated cross-dataset generalization of existing [[machine-learning|machine learning]] and deep learning methods and of LLMs for automatic Bloom's taxonomy classification of assessment questions across five datasets.
 - Supervised ML/DL models, which had reported strong within-dataset results in prior work, degraded substantially on unseen datasets, leaving real-world generalizability unclear.
 - LLMs were more stable across datasets, suggesting a robust alternative across diverse educational contexts.
 - The best [[prompt-engineering|prompting strategy]] combined in-context examples with course-specific action verbs.

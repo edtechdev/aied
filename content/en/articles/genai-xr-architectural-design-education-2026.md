@@ -66,7 +66,7 @@ Future work proposed is to refine GenARch on interaction [[usability-research|us
 
 ## Limitations
 
-- Twenty-seven students in seven self-selected teams (N = 16 GenARch, N = 11 control) remained after two of nine teams declined because at least one member reported severe motion sickness; the authors state this small sample from a single [[engineering-education|design studio]] limits statistical power.
+- Twenty-seven students in seven self-selected teams (N = 16 GenARch, N = 11 control) remained after two of nine teams declined because at least one member reported severe motion sickness; the authors state this small sample from a single [[arts-design-and-media-education|design studio]] limits statistical power.
 - The intervention was short: a 15-minute tutorial plus 35 minutes of ideation and asset generation in class 1, and a 10-minute tutorial plus an 80-minute immersive activity in class 2, with both conditions using conventional modeling tools for final development.
 - Presentation ratings came from seven raters, five of them senior students, with low-to-moderate inter-rater agreement (Kendall's W between 0.234 and 0.466 across criteria) on only seven team products, and the WBLT–presentation correlation rests on four GenARch teams.
 - No systematic observation or reflective-journal data were collected, so the qualitative analysis relies on retrospective group-interview accounts, and baseline self-efficacy anxiety was already lower in the GenARch group (p = 0.005).

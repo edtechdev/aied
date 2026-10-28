@@ -32,7 +32,7 @@ LIA pairs a stable administrative structure with a dynamic portfolio of projects
 
 ## Learning Through Project Organization
 
-Projects such as competition teams and open lectures create [[project-based-learning]] opportunities that develop leadership, scientific production, and community engagement. Study groups form the foundational [[collaborative-learning]] mechanism, letting students investigate [[reinforcement-learning|machine learning]], computer vision, large language models ([[llm]]), and multi-agent systems before engaging in research or development. Knowledge repositories institutionalize what members learn, while AI-powered applications with social impact connect [[computational-thinking]] to real civic problems, embodying [[active-learning]], [[self-directed-learning]], and [[ai-literacy]] in practice.
+Projects such as competition teams and open lectures create [[project-based-learning]] opportunities that develop leadership, scientific production, and community engagement. Study groups form the foundational [[collaborative-learning]] mechanism, letting students investigate [[machine-learning|machine learning]], computer vision, large language models ([[llm]]), and multi-agent systems before engaging in research or development. Knowledge repositories institutionalize what members learn, while AI-powered applications with social impact connect [[computational-thinking]] to real civic problems, embodying [[active-learning]], [[self-directed-learning]], and [[ai-literacy]] in practice.
 
 ## Representative Projects
 

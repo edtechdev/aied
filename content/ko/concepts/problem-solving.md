@@ -33,7 +33,7 @@ ai_assist:
 
 ## 들어가며
 
-생성형 AI는 문제 해결에 명확한 지지를 제공합니다. [[generative-ai|LLM]] 도구는 학생들이 대안적 해결책을 탐색하고, 학제간 관점을 통합하며, 진정한 실제 시나리오를 모의하도록 돕습니다 — [[medical-education|clinical]]과 [[ethics|ethical]] 딜레마 또는 [[stem-education|STEM]]에서의 프로토타입 검사 같은 것 — 이와 동시에 규모 있고 적시적인 피드백을 제공하고 평가를 시나리오 기반, 역량 기반 평가로 옮깁니다. [[ai-assisted-collaborative-learning-model-dbr|design-based research]]에서, 구조화된 협력 과제 안에서 "지능적인 [[pedagogical-agent|learning partner]]"로 자리매김한 AI는 문제 해결 수행에서 실질적인 [[learning-gains|gains]]을 산출했으며, 학생들은 점점 단일 답을 구하기보다 여러 관점을 생성하는 데 AI를 사용하게 되었습니다.
+생성형 AI는 문제 해결에 명확한 지지를 제공합니다. [[llm|LLM]] 도구는 학생들이 대안적 해결책을 탐색하고, 학제간 관점을 통합하며, 진정한 실제 시나리오를 모의하도록 돕습니다 — [[medical-education|clinical]]과 [[ethics|ethical]] 딜레마 또는 [[stem-education|STEM]]에서의 프로토타입 검사 같은 것 — 이와 동시에 규모 있고 적시적인 피드백을 제공하고 평가를 시나리오 기반, 역량 기반 평가로 옮깁니다. [[ai-assisted-collaborative-learning-model-dbr|design-based research]]에서, 구조화된 협력 과제 안에서 "지능적인 [[pedagogical-agent|learning partner]]"로 자리매김한 AI는 문제 해결 수행에서 실질적인 [[learning-gains|gains]]을 산출했으며, 학생들은 점점 단일 답을 구하기보다 여러 관점을 생성하는 데 AI를 사용하게 되었습니다.
 
 그러나 같은 도구들은 그것들이 뒷받침한다고 주장하는 바로 그 기술을 침식할 수 있습니다. [[hao-human-ai-collaborative-problem-solving-cognition|human-AI collaborative problem solving]]에 관한 연구는 인상적인 절충을 보입니다. 가장 높은 과제 수행을 달성하는 상호작용 프로파일이 동시에 가장 낮은 자기 [[regulation]]를 보이며, 학생들이 추론을 AI에 위임하고 저자들이 "인지 부채"라 부르는 것을 거둡니다 — 이해의 자기 구성적 과정을 대가로 올바른 산출물을 얻는 것입니다. [[ai-collaborative-learning-skills-impacts|collaborative learning]]에 관한 연구들도 마찬가지로 "메타인지적 게으름"을 경고하며, 거기서 인지적 노력의 아웃소싱이 독립적 분석과 자기 조절적 학습을 훼손합니다.
 

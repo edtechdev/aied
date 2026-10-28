@@ -15,7 +15,7 @@ sources: ['raw/papers/wei-perkins-genai-student-collaboration-scoping-2026.md']
 confidence: high
 ---
 
-> **Synthesis:** Wei and Perkins conducted a [[meta-analysis-systematic-review|PRISMA-guided scoping review]] of 18 English-language studies (January 2023–March 2025) on how [[generative-ai|generative AI]] reshapes student [[collaborative-learning|group work]] in [[higher-ed|higher education]], analyzing them using reflexive thematic analysis. Reported benefits include group knowledge development, idea generation, [[critical-thinking|reflective thinking]] support, communication efficiency, task coordination, and feedback, while reported risks include reduced peer interaction and [[student-engagement|engagement]] under over-reliance, alongside privacy, transparency, and accuracy concerns. Outcomes appear to depend on task design, the degree of AI integration into group workflows, and student motivation and subject expertise.
+> **Synthesis:** Wei and Perkins conducted a [[meta-analysis-systematic-review|PRISMA-guided scoping review]] of 18 English-language studies (January 2023–March 2025) on how [[generative-ai|generative AI]] reshapes student [[group-work|group work]] in [[higher-ed|higher education]], analyzing them using reflexive thematic analysis. Reported benefits include group knowledge development, idea generation, [[critical-thinking|reflective thinking]] support, communication efficiency, task coordination, and feedback, while reported risks include reduced peer interaction and [[student-engagement|engagement]] under over-reliance, alongside privacy, transparency, and accuracy concerns. Outcomes appear to depend on task design, the degree of AI integration into group workflows, and student motivation and subject expertise.
 
 ## Key Findings
 
@@ -30,7 +30,7 @@ confidence: high
 
 ## What this means for practice
 
-- **Instructors.** Design group tasks that require human negotiation, since AI-mediated [[collaborative-learning|group work]] became more efficient with reduced demand for communication, negotiation, and collective sensemaking.
+- **Instructors.** Design group tasks that require human negotiation, since AI-mediated [[group-work|group work]] became more efficient with reduced demand for communication, negotiation, and collective sensemaking.
 - **Instructors.** Assess process and meta-skills — collaborative problem solving, critical evaluation of AI output, [[ai-literacy|AI literacy]] — rather than only the hybrid product, because conventional assessment poorly captures AI-enabled collaborative learning.
 - **Learners.** Treat GenAI as a fallible collaborator: its suggestions can homogenize ideas, hallucinate inaccurate information, and reinforce training-data biases, so evaluate outputs before they enter the group's work.
 - **Faculty developers.** Support the shift from content deliverer to facilitator, learning designer, and ethical steward, including the AI literacy and [[learning-analytics]] interpretation that role now requires.

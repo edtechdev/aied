@@ -14,7 +14,7 @@ confidence: medium
 page_kind: [framework]
 ---
 
-> **Synthesis:** Vendrell & Johnston (2026) propose a design-oriented [[pedagogy|pedagogical]] framework for integrating LLMs into higher education in ways that strengthen rather than displace critical thinking. Drawing from [[cognitive-psychology|cognitive psychology]], educational theory, and AI ethics, the framework addresses the risk that unstructured LLM use leads to cognitive offloading, metacognitive disengagement, and reduced [[metacognition|epistemic agency]].
+> **Synthesis:** Vendrell & Johnston (2026) propose a design-oriented [[pedagogy|pedagogical]] framework for integrating LLMs into higher education in ways that strengthen rather than displace critical thinking. Drawing from [[cognitive-psychology|cognitive psychology]], educational theory, and AI ethics, the framework addresses the risk that unstructured LLM use leads to cognitive offloading, metacognitive disengagement, and reduced [[agency|epistemic agency]].
 
 ## The Problem: Unstructured LLM Use
 

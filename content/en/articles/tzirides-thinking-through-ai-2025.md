@@ -63,7 +63,7 @@ The framework bridges [[usability-research|user experience]] and educational des
 - **Instructors.** Frame the tool as something students critique as well as use — the study attributes deeper engagement to students knowing their feedback would refine the system.
 - **Learners.** Use the comment boxes beneath each rubric criterion to ask the AI to simplify or explain its suggestion; the vocabulary of AI feedback was the recurring usability complaint in this pilot.
 - **Instructors.** Run short think-aloud or over-the-shoulder sessions before wider rollout. These surfaced the vocabulary, feedback-delay, and text-recognition problems the authors then had fixed, and cost far less than a full evaluation.
-- **Instructors.** Pair the rollout with [[professional-training|professional development]] and built-in scaffolding: some students needed extra guidance to navigate the tool, and the authors call for support for learners at different levels of technological proficiency.
+- **Instructors.** Pair the rollout with [[educational-development|professional development]] and built-in scaffolding: some students needed extra guidance to navigate the tool, and the authors call for support for learners at different levels of technological proficiency.
 
 ## Limitations
 

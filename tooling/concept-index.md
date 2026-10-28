@@ -202,7 +202,7 @@ Canonical reference for inline `[[slug]]` linking. Generated from
 - **`higher-ed`** — Higher Education — phrases: college; college students; higher education; higher-ed; post-secondary; postsecondary; tertiary; undergraduate; undergraduates; universities; university
 - **`k-12`** — K-12 — phrases: K-12 education; eighth grade; elementary; high school; junior high; k-12; middle school; primary school; school; schools; secondary; secondary education; secondary school
 - **`special-education`** — Special Education — phrases: disabled learners; disabled students; exceptional learners; learners with disabilities; special education; special needs; special needs education; students with disabilities
-- **`teacher-education`** — Professional Development — phrases: initial teacher; preservice; preservice teacher education; preservice teachers; teacher education; teacher training
+- **`teacher-education`** — Teacher Education — phrases: initial teacher; preservice; preservice teacher education; preservice teachers; teacher education; teacher training
 - **`vocational-education`** — Vocational Education and Training — phrases: VET; TVET; technical and vocational education and training; vocational colleges
 
 ### Bands and comparisons

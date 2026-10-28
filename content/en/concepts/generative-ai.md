@@ -1,7 +1,7 @@
 ---
 title: Generative AI
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-26T06:20:00-04:00"
+updated: "2026-10-28T19:13:23-04:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 technology: [intelligent-tutoring, llm, prompt-engineering, rag]
@@ -63,7 +63,7 @@ Content generation likewise reaches beyond [[math-education|mathematics]] into c
 
 ### Generative AI in specialized domains: dyslexia support
 
-A 2026 interdisciplinary systematic review (Dabaghi, D'Urso & Sciarrone, PRISMA-guided, 2018–2024, n=72) finds that **generative AI is under-utilized in the dyslexia-support domain**. GAI research (all from 2024) clusters into intelligent [[conversational-ai|chatbots]], [[teacher-role|teacher training]] support, and exploratory studies, and is rapidly overtaking classical [[machine-learning|ML]] as the tool of choice — yet rigorous experimentation and real-world validation remain largely absent. The review's future-trends analysis points to GAI-powered personalized materials and real-time adaptive feedback, [[multimodal|multi-modal]] diagnostic models integrating eye-tracking, EEG, and behavioral [[learning-analytics|analytics]], NLP-driven [[intelligent-tutoring|intelligent tutoring systems]] and conversational agents, and educator-facing support tools. This illustrates both the promise of generative AI for content generation and interactive support in a specialized, high-need domain and the risk that its adoption outpaces the evidence base.
+A 2026 interdisciplinary systematic review (Dabaghi, D'Urso & Sciarrone, PRISMA-guided, 2018–2024, n=72) finds that **generative AI is under-utilized in the dyslexia-support domain**. GAI research (all from 2024) clusters into intelligent [[conversational-ai|chatbots]], [[teacher-education|teacher training]] support, and exploratory studies, and is rapidly overtaking classical [[machine-learning|ML]] as the tool of choice — yet rigorous experimentation and real-world validation remain largely absent. The review's future-trends analysis points to GAI-powered personalized materials and real-time adaptive feedback, [[multimodal|multi-modal]] diagnostic models integrating eye-tracking, EEG, and behavioral [[learning-analytics|analytics]], NLP-driven [[intelligent-tutoring|intelligent tutoring systems]] and conversational agents, and educator-facing support tools. This illustrates both the promise of generative AI for content generation and interactive support in a specialized, high-need domain and the risk that its adoption outpaces the evidence base.
 
 ## Common Misconceptions
 

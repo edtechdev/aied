@@ -29,7 +29,7 @@ Traditional [[cognitive-diagnosis]] models centralize sensitive student data on 
 
 ## Significance for AI in Education
 
-The paper connects the [[cognitive-diagnosis]] [[research-methods-aied|research]] tradition to [[generative-ai|large language model]] infrastructure while foregrounding the [[privacy]] constraints that block real-world deployment. It offers institutions a path to privacy-preserving diagnosis that keeps [[trust-calibration|appropriate trust]] in AI outputs while protecting learners — a dimension under-explored in most CDM work, which assumes centralized access to sensitive student trajectories.
+The paper connects the [[cognitive-diagnosis]] [[research-methods-aied|research]] tradition to [[llm|large language model]] infrastructure while foregrounding the [[privacy]] constraints that block real-world deployment. It offers institutions a path to privacy-preserving diagnosis that keeps [[trust-calibration|appropriate trust]] in AI outputs while protecting learners — a dimension under-explored in most CDM work, which assumes centralized access to sensitive student trajectories.
 
 ## What this means for practice
 

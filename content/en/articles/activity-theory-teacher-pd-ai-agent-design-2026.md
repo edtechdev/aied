@@ -29,7 +29,7 @@ page_kind: [framework]
 - **Instructors.** Remove the contradictions rather than restating the expectation: mandatory collaboration produced autonomy frustration and post-workshop isolation produced relatedness frustration, and Cycle 2's redesign fixed the structure instead of asking teachers to try harder.
 - **Faculty developers.** Design need support into the workshop — autonomy through choice architecture (individual or collaborative modes, topic selection), competence through progressive scaffolding, an embedded AI Q&A assistant and discipline-specific templates, and relatedness through peer consultation and community sharing — plus low-barrier peer-sharing spaces, since sequential "train, then motivate" designs decouple capacity from willingness.
 - **Administrators.** Protect creation time, for example dedicated weekly periods for agent iteration, and grant tool-selection agency, because autonomy deficits are what drove the 87% disengagement after training.
-- **Researchers.** Trace why a specific [[agentic-ai|pedagogical agent]] adoption succeeded or failed by mapping contradictions onto psychological needs, rather than attributing generic barriers.
+- **Researchers.** Trace why a specific [[pedagogical-agent|pedagogical agent]] adoption succeeded or failed by mapping contradictions onto psychological needs, rather than attributing generic barriers.
 
 ## Limitations
 

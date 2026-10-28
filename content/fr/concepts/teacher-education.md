@@ -1,7 +1,7 @@
 ---
-title: "Développement professionnel"
+title: "Formation des enseignants"
 created: "2026-08-16T10:55:19-04:00"
-updated: "2026-10-24T10:43:59-04:00"
+updated: "2026-10-28T19:12:31-04:00"
 type: concept
 foundations: [ai-literacy, teacher-role, tpack]
 connected_faqs: [faculty-development-ai]

@@ -1,5 +1,5 @@
 ---
-title: Maendeleo ya Kitaaluma
+title: "Elimu ya walimu"
 created: "2026-10-13T07:35:15-04:00"
 type: concept
 foundations: [ai-literacy, teacher-role, tpack]

@@ -1,7 +1,7 @@
 ---
-title: व्यावसायिक विकास
+title: "शिक्षक शिक्षा"
 created: "2026-08-16T10:55:19-04:00"
-updated: "2026-10-14T20:00:00-04:00"
+updated: "2026-10-28T19:12:31-04:00"
 type: concept
 foundations: [ai-literacy, teacher-role, tpack]
 connected_faqs: [faculty-development-ai]

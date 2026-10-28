@@ -13,7 +13,7 @@ confidence: high
 methods: [ai-ed-evaluation, benchmark]
 ---
 
-> **Synthesis:** Nanayakkara and Halloluwa (2026) address the fundamental challenge of objective learning assessment by benchmarking fifteen [[reinforcement-learning|machine learning]] and deep learning models for EEG-based familiarity prediction across two cognitive domains — human faces (factual knowledge) and mathematical equations (conceptual knowledge). Using continuous EEG from 23 participants and spectral features across six frequency bands, they show that standard stratified cross-validation yields artificially high performance (up to 0.9853 F1 with a CNN) due to temporal leakage, whereas rigorous trial-independent Group K-Fold validation drops the peak to 0.6038 F1 — still statistically significant above chance. The study establishes a realistic benchmark for EEG-based [[cognitive-diagnosis|cognitive monitoring]] in educational technology and cautions against overestimating model generalizability in [[automated-assessment]].
+> **Synthesis:** Nanayakkara and Halloluwa (2026) address the fundamental challenge of objective learning assessment by benchmarking fifteen [[machine-learning|machine learning]] and deep learning models for EEG-based familiarity prediction across two cognitive domains — human faces (factual knowledge) and mathematical equations (conceptual knowledge). Using continuous EEG from 23 participants and spectral features across six frequency bands, they show that standard stratified cross-validation yields artificially high performance (up to 0.9853 F1 with a CNN) due to temporal leakage, whereas rigorous trial-independent Group K-Fold validation drops the peak to 0.6038 F1 — still statistically significant above chance. The study establishes a realistic benchmark for EEG-based [[cognitive-diagnosis|cognitive monitoring]] in educational technology and cautions against overestimating model generalizability in [[automated-assessment]].
 
 ## The promise and pitfalls of neurophysiological assessment
 
@@ -38,7 +38,7 @@ Beyond classification performance, the authors use feature importance and SHAP a
 
 - Sample size and homogeneity: 23 participants, all with a STEM background, limit generalizability, and the strongest faces-only claims rest on a small 13-block subset.
 - Cross-subject leakage remains possible because participant identifiers were not retained, so Group K-Fold could only block at the trial level and one subject's trials may appear in both training and test sets.
-- LOGO results are unstable: each held-out fold is a single trial block, standard deviations run near 0.24, and the higher CNN point estimates were not independently permutation-tested.
+- LOGO results are unstable: each held-out fold is a single trial block, standard deviations are large, and the higher CNN point estimates were not independently permutation-tested.
 - Spectral resolution is coarse (128 Hz sampling with 32-sample Welch segments gives 4 Hz bins), making narrow bands such as Delta (1-4 Hz) hard to isolate, and manual ICA selection and artifact rejection add subjectivity.
 
 ## Citation

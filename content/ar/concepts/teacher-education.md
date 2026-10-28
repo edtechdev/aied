@@ -1,5 +1,5 @@
 ---
-title: التطوير المهني
+title: "إعداد المعلمين"
 created: "2026-10-12T18:20:00-04:00"
 type: concept
 foundations: [ai-literacy, teacher-role, tpack]

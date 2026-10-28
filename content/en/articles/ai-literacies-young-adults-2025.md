@@ -63,7 +63,7 @@ The institutional framing is what a reader should weigh. Public service media ar
 - **Fund the critical half, not more tool training.** The gap the report identifies is judging AI systems and outputs — bias, misinformation, persuasion, ownership, environmental cost — so new material that explains how to prompt is unlikely to add much.
 - **Connect AI literacies to existing literacy work.** Treat it as an extension of media, information and digital literacy programs rather than a standalone module, both to avoid duplication and because learners with basic digital and critical skills are the readier audience.
 - **Design for the learners least likely to arrive.** Universal access to a national resource plus targeted partnerships is the report's answer to the risk that AI literacy reaches only the already-advantaged.
-- **Support teachers as a first-order requirement.** Confidence and up-to-date material are named as shortages, so curriculum-linked resources and [[professional-training|professional development]] belong in any plan rather than being treated as a dissemination step.
+- **Support teachers as a first-order requirement.** Confidence and up-to-date material are named as shortages, so curriculum-linked resources and [[educational-development|professional development]] belong in any plan rather than being treated as a dissemination step.
 - **Use progression levels to design and evaluate, not attendance counts.** The three levels and the assessment guidance give providers a way to describe movement within a competency area instead of reporting that a workshop ran.
 
 ## Limitations

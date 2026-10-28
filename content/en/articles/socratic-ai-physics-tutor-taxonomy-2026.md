@@ -27,13 +27,13 @@ page_kind: [framework]
 
 ## Background: scaling PER to thousands of AI-mediated sessions
 
-[[generative-ai|Large language model]] tutors have moved from thought experiment to deployment: recent [[rct|randomized trials]] find AI tutors producing [[learning-gains|learning gains]] that exceed in-class [[active-learning]], and [[conversational-ai|chatbots]] are being studied in authentic introductory courses. As these systems scale from pilots to course-wide rollouts, they generate transcript corpora that dwarf what hand-coded qualitative analysis can absorb — a single semester of a single course routinely produces tens of thousands of student turns.
+[[llm|Large language model]] tutors have moved from thought experiment to deployment: recent [[rct|randomized trials]] find AI tutors producing [[learning-gains|learning gains]] that exceed in-class [[active-learning]], and [[conversational-ai|chatbots]] are being studied in authentic introductory courses. As these systems scale from pilots to course-wide rollouts, they generate transcript corpora that dwarf what hand-coded qualitative analysis can absorb — a single semester of a single course routinely produces tens of thousands of student turns.
 
 Physics education research (PER) has a mature theoretical vocabulary for [[problem-solving|problem solving]] and discourse, built on [[learning-theories|expert/novice contrasts]], problem description schemas, symbolic forms, and epistemic games. But its empirical machinery was built for transcripts of dozens of students, not thousands of sessions. Before PER can evaluate whether AI tutors help students learn, a more basic question must be answered empirically: what do students actually say to an AI physics tutor, and how often?
 
 ## Method: a bottom-up coding pipeline
 
-The study ran in an introductory calculus-based mechanics course for future engineers at a large U.S. midwestern public research university (1,508 students, Fall 2025). Students worked in [[collaborative-learning|groups of 3-5]] on a challenging recitation problem using an optional Socratic [[pedagogical-agent|AI tutor]] built with [[rag|retrieval-augmented generation]] over course materials. The system prompt instructed the model to use Socratic [[prompt-engineering|prompting]] and to scaffold conceptual setup before symbolic execution. The analyzed corpus comprises 5,513 total messages from 240 students, of which 2,874 are student turns.
+The study ran in an introductory calculus-based mechanics course for future engineers at a large U.S. midwestern public research university (1,508 students, Fall 2025). Students worked in [[collaborative-learning|groups of 3-5]] on a challenging recitation problem using an optional Socratic [[intelligent-tutoring|AI tutor]] built with [[rag|retrieval-augmented generation]] over course materials. The system prompt instructed the model to use Socratic [[prompt-engineering|prompting]] and to scaffold conceptual setup before symbolic execution. The analyzed corpus comprises 5,513 total messages from 240 students, of which 2,874 are student turns.
 
 ### Emergent LLM discourse coding
 

@@ -27,7 +27,7 @@ The study contributes design considerations for [[edtech-platform|educational te
 - **Faculty developers.** Design the event around participation-driven logistics — timing, location, hybrid access, transportation and room arrangement — because one session reached 48 attendees in person and 6 virtually only through active facilitation and accessibility support.
 - **Learners.** Say your concern out loud in the room even if it feels unresolved: pre-session worries about privacy (21 of 28, 75%) and technology companies' ability to self-regulate (26 of 35, 76%) persisted afterwards, but became more specific and actionable.
 - **Faculty developers.** Present AI as neither only beneficial nor only harmful and surface the tension directly: the session left underlying concerns intact while taking the share answering "don't know/not familiar enough to say (about AI)" from 23% (8 of 35) in the pre-survey to 0% (0 of 24) in the post-survey.
-- **Faculty developers.** Treat interactive polls as a scaffold for discussion rather than an assessment, and follow the [[lifelong-learning|adult learning]] principle of building on what attendees already know rather than starting from technical mechanisms.
+- **Faculty developers.** Treat interactive polls as a scaffold for discussion rather than an assessment, and follow the [[adult-learning|adult learning]] principle of building on what attendees already know rather than starting from technical mechanisms.
 
 ## Limitations
 

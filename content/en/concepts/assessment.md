@@ -2,7 +2,7 @@
 connected_resources: [idstack, lesson-md, master-instructional-design]
 title: Assessment
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-26T10:50:00-04:00"
+updated: "2026-10-28T19:24:33-04:00"
 connected_faqs: [redesign-assessment-ai-era, reduce-ai-cheating, course-ai-policy, group-work-ai, asynchronous-online-courses-ai]
 type: concept
 foundations: [academic-integrity]
@@ -33,7 +33,7 @@ Assessment is central to AI in education for two reasons. First, AI itself is us
 ## How AI is used in assessment
 
 - **Automated assessment:** [[automated-assessment|AI-based assessment]] spans multiple modalities — multiple-choice, short answer, essay, code, and performance-based evaluation — through [[automated-assessment|automated grading]], [[automated-essay-scoring]], and [[automated-question-generation]].
-- **Formative assessment:** [[formative-assessment|AI systems]] generate, validate, and adapt formative assessment items at scale, informing ongoing instruction rather than only [[summative-assessment|summative]] evaluation.
+- **Formative assessment:** [[ai-technologies|AI systems]] generate, validate, and adapt formative assessment items at scale, informing ongoing instruction rather than only [[summative-assessment|summative]] evaluation.
 - **Learning analytics and measurement:** [[learning-analytics]] and [[educational-measurement]] connect assessment data to learning processes, using [[item-response-theory]], [[knowledge-tracing]], and [[student-modeling]] to interpret performance. [[razavi-powers-item-difficulty-llm-2026|Razavi and Powers (2026)]] demonstrate LLM-based item-difficulty estimation as a measurement input: across 5,170 K-5 math and reading items calibrated under the Rasch IRT model, GPT-4o's zero-shot ratings correlated moderately-to-strongly with true difficulties (r = 0.83 math, r = 0.81 reading) but varied by grade, while a feature-based approach (LLM-extracted features into tree-based models) reached correlations up to r = 0.87. The study offers a practical seven-step workflow for testing professionals, while cautioning that generalizability beyond K-5 math and reading is unclear.
 - **Feedback loops:** AI assessment increasingly feeds into [[feedback|feedback loops]] that close the cycle from assessment to learning.
 - **E-portfolio assessment:** [[eportfolio|e-portfolios]] assemble student work and reflections over time as a process-based, AI-robust assessment form. Generative AI can assist the portfolio *process* — generating feedback, [[scaffolding]] reflection, and (with appropriate rubric design) supporting evaluation — while the portfolio's emphasis on reasoning traces and drafts resists AI fabrication. [[ni-lam-multiliteracies-ai-portfolio-2026|AI-assisted portfolio assessment]] and [[sutama-chatgpt-eportfolio-speaking-2026|ChatGPT + e-portfolio for EFL speaking]] show AI can enhance both the portfolio experience and learner [[feedback-literacy]].

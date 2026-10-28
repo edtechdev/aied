@@ -1,7 +1,7 @@
 ---
 title: Cognitive Surrender
 created: "2026-09-20T15:37:15-04:00"
-updated: "2026-10-25T20:20:00-04:00"
+updated: "2026-10-28T19:24:33-04:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [metacognition, self-regulated-learning]
@@ -65,7 +65,7 @@ The lab findings line up with field and observational work that independently re
 
 - **Population-level displacement.** [[generative-ai-reduced-study-time-math|Rismanchian et al. (2026)]] analyze 3.2 million ALEKS learning interactions and 12.2 million [[assessment|placement-assessment]] response times across a ten-year panel, with graph-based problems serving as controls for text-based ones. Students completed AI-susceptible work faster and scored higher on it while proctored retention items showed a 25% cumulative decline in the odds of a correct response; the authors call the pattern cognitive surrender at population scale.
 - **Verification as the discriminating variable.** [[stamatoulis-genai-use-patterns-2026|Stamatoulis et al. (2026)]] find that *how* students use generative AI predicts [[learning-gains|performance]] while *how much* they use it predicts neither: low-verification uptake — uncritically accepting output — was associated with worse outcomes, and evaluative integration with better ones.
-- **Thoughtless use erodes the resources self-direction needs.** [[genai-thoughtless-use-self-directed-learning-2026|Zhao and Gu (2026)]] model adopt-without-evaluating directly: across 487 undergraduates, thoughtless use of generative AI was associated with lower [[self-regulated-learning|self-directed learning]] (β = −0.42), partly through reduced [[motivation]] and [[self-efficacy]].
+- **Thoughtless use erodes the resources self-direction needs.** [[genai-thoughtless-use-self-directed-learning-2026|Zhao and Gu (2026)]] model adopt-without-evaluating directly: across 487 undergraduates, thoughtless use of generative AI was associated with lower [[self-directed-learning|self-directed learning]] (β = −0.42), partly through reduced [[motivation]] and [[self-efficacy]].
 - **The neural and ownership trace.** [[your-brain-on-chatgpt-cognitive-debt-essay-writing|the cognitive-debt EEG study]] measured [[writing-education|essay writing]] with an [[llm]], a search engine and no tool: the LLM group showed the weakest neural connectivity, reported the lowest authorship of their own work, and struggled to quote what they had written.
 - **Surrender can arrive unsolicited.** [[ai-advice-suppresses-ikt-suspension-2026|Work on judgment suspension]] found that the mere availability of AI advice collapsed people's willingness to say "I don't know" (0.06 versus 0.36, and 0.03 versus 0.44 across two studies), while correctness fell and confidence rose from about 30 to 76. Stakes did not restore suspension, though incentives improved accuracy by encouraging overrides. A fourth study showed the effect without any consultation at all, the pattern of an autocomplete or a search summary rather than a chat prompt.
 - **Dependent and autonomous modes are distinguishable only in consequence.** [[family-school-autonomy-support-genai-2026|Fan, Li and Zhang (2026)]] follow 589 students and early-career workers across three waves: dependent offloading delegated core thinking and tracked with lower intrinsic motivation, while autonomous offloading did not, and immediate performance looked identical in both.

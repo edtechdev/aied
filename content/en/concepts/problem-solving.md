@@ -1,7 +1,7 @@
 ---
 title: Problem Solving
 created: "2026-08-29T12:55:12-04:00"
-updated: "2026-10-25T23:15:00-04:00"
+updated: "2026-10-28T19:28:52-04:00"
 type: concept
 foundations: [critical-thinking]
 pedagogy: [cognitive-psychology, problem-solving]
@@ -23,7 +23,7 @@ reviewed_by: [editor]
 
 ## Introduction
 
-Generative AI offers clear support for problem solving. [[generative-ai|LLM]] tools help students explore alternative solutions, incorporate interdisciplinary perspectives, and simulate authentic real-world scenarios — such as [[medical-education|clinical]] and [[ethics|ethical]] dilemmas or prototype testing in [[stem-education|STEM]] — while delivering scalable, timely feedback and shifting assessment toward scenario-based, competency-based evaluation. In [[ai-assisted-collaborative-learning-model-dbr|design-based research]], AI positioned as an "intelligent [[pedagogical-agent|learning partner]]" within structured collaborative tasks produced substantial [[learning-gains|gains]] in problem-solving performance, with students increasingly using AI to generate multiple perspectives rather than seek single answers.
+Generative AI offers clear support for problem solving. [[llm|LLM]] tools help students explore alternative solutions, incorporate interdisciplinary perspectives, and simulate authentic real-world scenarios — such as [[medical-education|clinical]] and [[ethics|ethical]] dilemmas or prototype testing in [[stem-education|STEM]] — while delivering scalable, timely feedback and shifting assessment toward scenario-based, competency-based evaluation. In [[ai-assisted-collaborative-learning-model-dbr|design-based research]], AI positioned as an "intelligent [[pedagogical-agent|learning partner]]" within structured collaborative tasks produced substantial [[learning-gains|gains]] in problem-solving performance, with students increasingly using AI to generate multiple perspectives rather than seek single answers.
 
 Yet the same tools can erode the very skill they claim to support. Research on [[hao-human-ai-collaborative-problem-solving-cognition|human-AI collaborative problem solving]] shows a striking trade-off: the interaction profile that achieves the highest task performance also shows the lowest self-[[regulation]], as students delegate reasoning to the AI and reap what the authors call a "cognitive debt" — obtaining the right product at the cost of the self-constructive process of understanding. Studies of [[ai-collaborative-learning-skills-impacts|collaborative learning]] similarly warn of "metacognitive laziness," where outsourcing cognitive effort undermines independent analysis and self-regulated learning.
 

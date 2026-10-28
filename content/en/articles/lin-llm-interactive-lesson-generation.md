@@ -18,7 +18,7 @@ level: [teacher education]
 
 ## Context and motivation
 
-One-on-one human tutoring is highly effective but difficult to scale due to a scarcity of skilled tutors. [[professional-training|Professional development]] programs train novice tutors, and online scenario-based training has emerged as a promising approach — but manually constructing the lessons at its center is time-consuming and expertise-heavy, making it costly to scale. The authors address this with [[llm]]-based automatic lesson generation.
+One-on-one human tutoring is highly effective but difficult to scale due to a scarcity of skilled tutors. [[educational-development|Professional development]] programs train novice tutors, and online scenario-based training has emerged as a promising approach — but manually constructing the lessons at its center is time-consuming and expertise-heavy, making it costly to scale. The authors address this with [[llm]]-based automatic lesson generation.
 
 ## Method
 

@@ -61,7 +61,7 @@ Median reply time spanned 1.9 seconds (GPT-5.4 mini) to 31.0 seconds (GPT-5.5 Pr
 
 - **Instructors.** Treat one hour of AI tutoring as a credible substitute for expert human tutoring on test-prep material, but only for the immediate gain that was measured.
 - **Administrators.** Compare options in cost per percentage point of learning gain, not cost per hour; the spread across AI tutors was two orders of magnitude (\$0.005 to \$1.40 per point).
-- **Researchers.** Instrument latency and engagement alongside achievement when evaluating [[ai-ed-evaluation|AI tutors]], since latency influenced the primary outcome indirectly.
+- **Researchers.** Instrument latency and engagement alongside achievement when evaluating [[intelligent-tutoring|AI tutors]], since latency influenced the primary outcome indirectly.
 
 ## Limitations
 

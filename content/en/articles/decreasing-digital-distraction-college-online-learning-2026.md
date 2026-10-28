@@ -17,7 +17,7 @@ level: [higher ed]
 
 ## Background
 
-The proliferation of digital tools in education has intensified distraction — off-task behavior triggered by devices such as social media and gaming — especially in [[higher-ed|online learning]] contexts where constant connectivity is the default. Shi et al. frame distraction as a barrier to [[learning-gains|academic performance]] and ask which learning strategies predictably accompany lower distraction, with an eye toward designing targeted interventions.
+The proliferation of digital tools in education has intensified distraction — off-task behavior triggered by devices such as social media and gaming — especially in [[online-teaching-and-learning|online learning]] contexts where constant connectivity is the default. Shi et al. frame distraction as a barrier to [[learning-gains|academic performance]] and ask which learning strategies predictably accompany lower distraction, with an eye toward designing targeted interventions.
 
 ## Key Findings
 
@@ -25,7 +25,7 @@ The proliferation of digital tools in education has intensified distraction — 
 2. Learner-instructor and learner-content [[student-engagement|engagement]] strategies, plus technical competencies, also tended to appear in low-distraction profiles.
 3. Reliance on peer help-seeking and learner-learner engagement appeared less often in low-distraction profiles.
 4. The patterns were identified via association-rule mining and clustering analysis on data from 530 participants.
-5. Findings support targeted interventions that foster focused, productive [[higher-ed|online learning]] environments.
+5. Findings support targeted interventions that foster focused, productive [[online-teaching-and-learning|online learning]] environments.
 
 ## What this means for practice
 

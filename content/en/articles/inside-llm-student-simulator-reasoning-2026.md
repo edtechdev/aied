@@ -44,7 +44,7 @@ Because ground-truth reasoning does not exist in real student logs, training dat
 
 ## Data and Problem Formulation
 
-The authors study student code generation in an introductory programming course at UC Berkeley ([[cs-education|~900 students per semester]]). Students complete ~10 homework assignments of 3–6 problems each, an autograder gives instant test-case feedback, and students may resubmit freely, producing a multi-attempt submission stream per student–problem pair. Submissions that fail a test may also receive natural-language feedback from an LLM-based [[pedagogical-agent|AI tutor]] when the student consents. Training uses Spring 2025 data and testing uses Spring 2024 data, with two subsets: **test_OP** (unseen students on familiar problems) and **test_NP** (unseen students on unseen problems). The model generates the next code submission conditioned on up to *k* prior submissions with their tutor feedback.
+The authors study student code generation in an introductory programming course at UC Berkeley ([[cs-education|~900 students per semester]]). Students complete ~10 homework assignments of 3–6 problems each, an autograder gives instant test-case feedback, and students may resubmit freely, producing a multi-attempt submission stream per student–problem pair. Submissions that fail a test may also receive natural-language feedback from an LLM-based [[intelligent-tutoring|AI tutor]] when the student consents. Training uses Spring 2025 data and testing uses Spring 2024 data, with two subsets: **test_OP** (unseen students on familiar problems) and **test_NP** (unseen students on unseen problems). The model generates the next code submission conditioned on up to *k* prior submissions with their tutor feedback.
 
 ## Evaluation
 

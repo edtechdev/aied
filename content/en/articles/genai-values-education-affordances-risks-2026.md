@@ -56,7 +56,7 @@ The epistemic family covers what students come to accept as true or well reasone
 - **Instructors.** Put generated material in front of students as an object to interrogate, never as the answer to a moral question, using a three-step task: the model produces a dilemma with a decision, students name the moral register the case assumes, and students rewrite the case so a different register is at stake.
 - **Instructors.** Assess a documented decision and its retrospective account rather than vocabulary tests satisfied by well-formed reasoning.
 - **Instructors.** Hold machine-generated positions open as disagreements, so the absence of an author becomes the lesson.
-- **Curriculum designers.** Keep the interlocutor and educator distinction visible in every design decision that depends on it, and treat [[governance|institutional policy]] as a [[curriculum-design|curriculum]] question: a policy that specifies [[ai-use-disclosure|disclosure requirements]] but is silent on what counts as a good argument is not neutral.
+- **Curriculum designers.** Keep the interlocutor and educator distinction visible in every design decision that depends on it, and treat [[educational-policy-ai|institutional policy]] as a [[curriculum-design|curriculum]] question: a policy that specifies [[ai-use-disclosure|disclosure requirements]] but is silent on what counts as a good argument is not neutral.
 - **Faculty developers.** Build teachers' repertoire for conducting disagreement, including recognizing the moral register of a text and distinguishing a reason from a rationalization.
 
 ## Limitations

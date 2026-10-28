@@ -15,7 +15,7 @@ level: [k 12, teacher education]
 page_kind: [evaluation]
 ---
 
-> **Synthesis:** This study investigates how [[k-12|middle-school]] science teachers evaluate [[generative-ai|AI-generated]] assessment questions and how they perceive the role of collaborative evaluation in [[educational-development|professional development]]. Sixty science teachers reviewed open-ended questions on lower- and higher-order thinking skills produced by ChatGPT, rating them through their disciplinary, [[pedagogy|pedagogical]], and [[curriculum-design|curricular]] judgment. The [[mixed-methods-research|mixed-methods]] findings show that collaborative evaluation helps [[teacher-role|teachers]] apply conceptual-precision judgment to AI content and surface risks such as reinforcing [[misconceptions]]. The paper underscores the value of [[teacher-education|professional development]] that positions teachers as critical evaluators of AI-generated material rather than passive consumers.
+> **Synthesis:** This study investigates how [[k-12|middle-school]] science teachers evaluate [[generative-ai|AI-generated]] assessment questions and how they perceive the role of collaborative evaluation in [[educational-development|professional development]]. Sixty science teachers reviewed open-ended questions on lower- and higher-order thinking skills produced by ChatGPT, rating them through their disciplinary, [[pedagogy|pedagogical]], and [[curriculum-design|curricular]] judgment. The [[mixed-methods-research|mixed-methods]] findings show that collaborative evaluation helps [[teacher-role|teachers]] apply conceptual-precision judgment to AI content and surface risks such as reinforcing [[misconceptions]]. The paper underscores the value of [[educational-development|professional development]] that positions teachers as critical evaluators of AI-generated material rather than passive consumers.
 
 ## Background
 
@@ -25,7 +25,7 @@ As [[generative-ai|GenAI]] becomes integrated into education, AI-generated conte
 
 1. Sixty middle-school science teachers reviewed ChatGPT-produced questions spanning lower-order and higher-order thinking skills.
 2. Teachers drew on disciplinary, pedagogical, and curricular judgment to rate AI-generated content, applying conceptual-precision criteria.
-3. Collaborative evaluation emerged as valuable [[teacher-education|professional development]], helping teachers surface and address the risk that AI content reinforces misconceptions.
+3. Collaborative evaluation emerged as valuable [[educational-development|professional development]], helping teachers surface and address the risk that AI content reinforces misconceptions.
 4. A mixed-methods design combined [[quantitative-research|quantitative]] ratings with [[qualitative-research|qualitative]] insights on teachers' perceptions.
 5. The findings position teachers as critical evaluators of AI material, supporting [[critical-thinking|critical]] [[student-engagement|engagement]] with [[generative-ai|GenAI]] in the classroom.
 

@@ -1,7 +1,7 @@
 ---
 title: Arts, Design and Media Education
 created: "2026-09-16T14:29:36-04:00"
-updated: "2026-10-26T09:45:00-04:00"
+updated: "2026-10-28T19:13:23-04:00"
 type: concept
 foundations: [design-thinking]
 pedagogy: [creativity, embodied-learning, project-based-learning]
@@ -40,7 +40,7 @@ The studio's accountabilities did shift. In a longitudinal study of generative m
 
 ## Architecture, Spatial and Interior Design
 
-A Derby focus-group study gives the studio a more favorable result. [[genai-architecture-education|Kapsalis (2026)]] ran two groups of eight Level 3–5 architecture students through a 90-minute session with a locally executed image generation-and-editing workflow fine-tuned for residential interiors. Students produced roughly 80 images per session, about ten each, with acceptance rates above 60%. Self-reported idea generation (4.5) and experimentation (4.2) scored highest on the creative subscale, while refinement of final decisions (3.7) was less uniformly supported — some students found the tool surfaced unconsidered combinations, others that it distracted with details that did not fit the concept. The author frames this as a constructionist "microworld" that expands the creative search space without replacing design thinking, and notes survey evidence that nearly 70% of architecture students already use AI tools independently while over 95% report no formal [[ai-literacy|AI education]].
+A Derby focus-group study gives the studio a more favorable result. [[genai-architecture-education|Kapsalis (2026)]] ran two groups of eight Level 3–5 architecture students through a 90-minute session with a locally executed image generation-and-editing workflow fine-tuned for residential interiors. Students produced roughly 80 images per session, about ten each, with acceptance rates above 60%. Self-reported idea generation (4.5) and experimentation (4.2) scored highest on the creative subscale, while refinement of final decisions (3.7) was less uniformly supported — some students found the tool surfaced unconsidered combinations, others that it distracted with details that did not fit the concept. The author frames this as a constructionist "microworld" that expands the creative search space without replacing design thinking, and notes survey evidence that nearly 70% of architecture students already use AI tools independently while over 95% report no formal [[ai-education|AI education]].
 
 Interior design raises the professional-formation question most sharply. [[ai-interior-design-malaysia-2026|Syed Abdul Rahman (2026)]] describes Malaysian designers shifting from primary form-generators toward critical mediators and curators of machine output, with [[visualization]] platforms compressing timelines and widening the range of options producible within a budget. Citing empirical work on client preference (Lan et al., 2025), the article notes that AI output is rated highly for uniqueness when aesthetic criteria predominate, but that human designers retain a clear advantage when functional, ergonomic and contextual requirements are emphasized — and that generated designs often lack cultural specificity, climatic responsiveness and reliable constructability in a market negotiating tropical conditions, multi-generational living and Islamic spatial principles. Its curriculum recommendation is sequencing rather than substitution: teach CAD/BIM, construction knowledge and human factors before generative exploration, and assess [[critical-thinking]] and [[ethics|ethical]] reflection alongside visual quality.
 

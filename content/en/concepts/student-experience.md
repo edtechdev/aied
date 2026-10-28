@@ -1,7 +1,7 @@
 ---
 title: Student Experience
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-25T23:15:00-04:00"
+updated: "2026-10-28T19:24:33-04:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [well-being]
@@ -70,7 +70,7 @@ Verification can shift how students experience the question: a request to explai
 
 ### Social and relational impacts
 
-- **Positive:** AI can mediate [[collaborative-learning|collaboration]] and [[student-ai-interaction|human-AI interaction]], supporting teamwork, peer interaction, and access to diverse perspectives.
+- **Positive:** AI can mediate [[collaborative-learning|collaboration]] and [[human-ai-collaboration|human-AI interaction]], supporting teamwork, peer interaction, and access to diverse perspectives.
 - **Negative:** AI can reduce genuine peer and instructor interaction, create [[ai-sycophancy|sycophantic]] dynamics, and — when operating as an undisclosed teammate — reshape group discourse and [[agency]] in ways learners cannot see or contest (see [[jin-emergent-learner-agency-implicit-hai-2026|emergent learner agency in implicit HAI]]).
 
 ### Long-run / capability impacts

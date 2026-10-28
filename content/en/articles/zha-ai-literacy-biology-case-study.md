@@ -16,7 +16,7 @@ confidence: medium
 methods: [ai-ed-evaluation, mixed-methods-research]
 ---
 
-> **Synthesis:** **Integrating [[ai-literacy|AI literacy]] into an advanced [[biology-education|biology]] course** — Zha et al. (2025). A concurrent-triangulation case study in which 37 high-school students learned [[reinforcement-learning|machine learning]], artificial neural network, and convolutional neural network concepts embedded in four biology lessons. Students' overall AI knowledge improved significantly; overall biology knowledge rose slightly but not significantly. Biology knowledge significantly predicted AI learning overall and in the two lessons where AI concepts were concretized in familiar biology.
+> **Synthesis:** **Integrating [[ai-literacy|AI literacy]] into an advanced [[biology-education|biology]] course** — Zha et al. (2025). A concurrent-triangulation case study in which 37 high-school students learned [[machine-learning|machine learning]], artificial neural network, and convolutional neural network concepts embedded in four biology lessons. Students' overall AI knowledge improved significantly; overall biology knowledge rose slightly but not significantly. Biology knowledge significantly predicted AI learning overall and in the two lessons where AI concepts were concretized in familiar biology.
 
 ## Key Findings
 

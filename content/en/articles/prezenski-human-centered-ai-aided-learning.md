@@ -19,14 +19,14 @@ confidence: high
 
 Prezenski separates two families of AI used in learning:
 
-- **Data-driven systems (LLMs):** ChatGPT and similar tools are general-purpose systems built on [[reinforcement-learning|machine learning]] — supervised, unsupervised, reinforcement, and self-supervised learning — powered by **self-attention** and **massive scale**. Their strengths (adaptivity, feedback, [[scaffolding]]) come with three serious drawbacks: **bias**, **opacity**, and **hallucination**. These flaws arise from the same statistical paradigm that gives LLMs their power, so they resist easy fixing.
+- **Data-driven systems (LLMs):** ChatGPT and similar tools are general-purpose systems built on [[machine-learning|machine learning]] — supervised, unsupervised, reinforcement, and self-supervised learning — powered by **self-attention** and **massive scale**. Their strengths (adaptivity, feedback, [[scaffolding]]) come with three serious drawbacks: **bias**, **opacity**, and **hallucination**. These flaws arise from the same statistical paradigm that gives LLMs their power, so they resist easy fixing.
 - **Rule-based systems (intelligent tutoring systems):** Designed specifically for learning, these encode the domain as explicit if-then/production rules (e.g., telling a student solving `2x + 3 = 9` to "get rid of the +3 first"). **Cognitive-model tutors** (e.g., Anderson's Cognitive Tutor) embed a theory of human learning like ACT-R, estimate the learner's knowledge state, and deliver finely targeted feedback. By design they scaffold understanding better than opaque statistical models, but they are costly and time-consuming to build.
 
 ## Blended AI: today's landscape
 
 Most current systems blend rule-based and [[machine-learning]] components:
 
-- **Adaptive learning engines:** ALEKS (50M+ students; Knowledge Space Theory + Bayesian inference + deep learning, ~9% topic-mastery gain; g≈0.30 historically), Squirrel AI (24M+ users), DreamBox Learning, and Khanmigo (GPT-4 [[socratic-method|Socratic]] tutor on a rule-based skill map, 12% accuracy improvement).
+- **Adaptive learning engines:** ALEKS (50M+ students; Knowledge Space Theory + Bayesian inference + deep learning, ~9% topic-mastery gain; g≈0.30 historically), Squirrel AI (24M+ users), DreamBox Learning, and Khanmigo ([[socratic-method|Socratic]] tutor on a rule-based skill map, 12% accuracy improvement).
 - **[[learning-analytics]] early warning systems** (Purdue Course Signals) merging thresholds with predictive modeling.
 - **Pronunciation/speech tutors** (Duolingo), **[[affective-computing|affective]]/[[multimodal]] tutors** (computer-vision emotion recognition), and **educational robots** with social personas.
 

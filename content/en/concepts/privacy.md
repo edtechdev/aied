@@ -2,7 +2,7 @@
 connected_resources: [drawsplat]
 title: Privacy
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-28T09:45:00-04:00"
+updated: "2026-10-28T19:28:52-04:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, ai-guidance-children-under-13, institutional-ai-policy]
 type: concept
 technology: [learning-analytics, personalized-learning]
@@ -13,7 +13,7 @@ institutions: [educational-policy-ai, governance, regulation]
 reviewed_by: [editor]
 ---
 
-> **Privacy** — the protection of student data, identity, and [[agency|autonomy]] in AI-augmented learning environments. Privacy concerns intensify as AI systems collect increasingly granular behavioral data for [[personalized-learning|personalization]], [[learning-analytics|analytics]], and [[student-modeling|adaptive instruction]]. It is a core ethical and regulatory constraint on [[ai-education|AI in education]]: nearly every AI tool that personalizes, predicts, or assesses depends on learner data, which makes data minimization, consent, transparency, and security foundational design requirements rather than afterthoughts.
+> **Privacy** — the protection of student data, identity, and [[agency|autonomy]] in AI-augmented learning environments. Privacy concerns intensify as AI systems collect increasingly granular behavioral data for [[personalized-learning|personalization]], [[learning-analytics|analytics]], and [[adaptive-learning|adaptive instruction]]. It is a core ethical and regulatory constraint on [[ai-education|AI in education]]: nearly every AI tool that personalizes, predicts, or assesses depends on learner data, which makes data minimization, consent, transparency, and security foundational design requirements rather than afterthoughts.
 
 ## Questions to Consider
 

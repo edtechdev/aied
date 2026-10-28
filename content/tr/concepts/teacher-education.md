@@ -1,5 +1,5 @@
 ---
-title: "Mesleki Gelişim"
+title: "Öğretmen eğitimi"
 created: "2026-10-14T22:30:00-04:00"
 type: concept
 foundations: [ai-literacy, teacher-role, tpack]

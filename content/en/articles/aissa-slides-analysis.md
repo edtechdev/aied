@@ -31,7 +31,7 @@ AISSA is built on a modular Python architecture using the [[edtech-platform|Plot
 
 1. **[[visualization]] Module** — provides [[student-experience|student]], teacher, and [[administrator|administration]] dashboards.
 2. **Processing and Analysis Module** — orchestrates the end-to-end evaluation workflow using asynchronous task queues and background workers to stay responsive during peak submission times.
-3. **Data Persistence Module** — a hybrid store combining [[privacy|PostgreSQL]] for structured transactional data with MongoDB (and GridFS) for the [[generative-ai|LLM]] JSON payloads, extracted slide features, and slide files.
+3. **Data Persistence Module** — a hybrid store combining [[privacy|PostgreSQL]] for structured transactional data with MongoDB (and GridFS) for the [[llm|LLM]] JSON payloads, extracted slide features, and slide files.
 4. **Extraction Module** — extracts slide-level syntactic and visual features (word counts, font sizes, references, image edge density, and color dimensionality) from uploaded `.pptx` files.
 5. **AI Module** — manages interaction with the [[llm|large language model]] through the OpenAI API.
 

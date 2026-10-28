@@ -39,7 +39,7 @@ page_kind: [evaluation]
 - Put the AI to work on specific cognitive moves — idea generation, code explanation, iterative debugging, decision-logic formulation, reflective writing — and leave assembly, testing, and revision of the robot with the students.
 - **Curriculum designers.** Budget a full semester, not a few sessions: the intervention ran 14 weeks at three contact hours a week (42 hours) on authentic tasks such as line-following, assistive, recycling-sorting, and search-and-rescue robots.
 - Choose AI tools that work in low-infrastructure settings — a general chatbot plus a browser-based classifier trainer alongside Arduino kits — because the equity case for AI-PBL rests on contexts where expert facilitators and robotics hardware are scarce.
-- Do not read the null gender effect as automatic equity: the authors condition it on equal access to AI tools and call for investment in [[teacher-ai-competency|teacher training]] and context-aware, localized AI-PBL frameworks, with infrastructure and teacher readiness named as the remaining barriers.
+- Do not read the null gender effect as automatic equity: the authors condition it on equal access to AI tools and call for investment in [[teacher-education|teacher training]] and context-aware, localized AI-PBL frameworks, with infrastructure and teacher readiness named as the remaining barriers.
 
 ## Limitations
 

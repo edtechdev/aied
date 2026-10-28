@@ -1,7 +1,7 @@
 ---
 title: Lifelong Learning
 created: "2026-05-09T10:44:35-04:00"
-updated: "2026-10-25T20:20:00-04:00"
+updated: "2026-10-28T19:13:23-04:00"
 type: concept
 pedagogy: [lifelong-learning, professional-training, scaffolding]
 technology: [adaptive-learning, generative-ai, intelligent-tutoring, llm, personalized-learning]
@@ -22,7 +22,7 @@ reviewed_by: [editor]
 
 ## Introduction
 
-Lifelong learning refers to continuous education throughout life — upskilling, reskilling, [[professional-training|professional development]], and informal learning beyond formal degrees. AI is increasingly central to this, both as a tool that supports adult learners and as a force that changes the skills adults must continually update.
+Lifelong learning refers to continuous education throughout life — upskilling, reskilling, [[educational-development|professional development]], and informal learning beyond formal degrees. AI is increasingly central to this, both as a tool that supports adult learners and as a force that changes the skills adults must continually update.
 
 ### How lifelong learning appears in the research
 

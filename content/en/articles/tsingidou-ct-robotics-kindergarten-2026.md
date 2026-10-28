@@ -26,7 +26,7 @@ Methodologically, the review notes that although several CT frameworks exist in 
 - **Most studies specify no CT framework**; CT **concepts and practices** are most frequently examined while CT **perspectives** remain underexplored.
 - **Total CT, sequencing, debugging, and algorithmic design** are the most-assessed CT skills at the kindergarten level.
 - **TechCheck-K** is the most widely used CT assessment tool, though many tools are developed ad hoc without formal validation.
-- Confirms educational robotics as a viable, age-appropriate vehicle for early CT development in [[k-12|early childhood]].
+- Confirms educational robotics as a viable, age-appropriate vehicle for early CT development in [[early-childhood-elementary-ai-education|early childhood]].
 
 ## What this means for practice
 

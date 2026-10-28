@@ -1,7 +1,7 @@
 ---
 title: Personalized Learning
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-10-25T14:15:00-04:00"
+updated: "2026-10-28T19:13:23-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [scaffolding]
@@ -46,7 +46,7 @@ Yu et al. (2024) personalize not only content but *social context*. Classmate ar
 
 ### AutoML for Learner Portraits
 
-Personalization is a central objective for improving educational quality, yet processing multi-source heterogeneous learning-behavior data remains a challenge. A personalized neural cognitive architecture search framework, driven by automated [[reinforcement-learning|machine learning]], builds learner portraits and generates diagnostic models for heterogeneous learner profiles, integrating multi-modal data to move beyond static examination outcomes.
+Personalization is a central objective for improving educational quality, yet processing multi-source heterogeneous learning-behavior data remains a challenge. A personalized neural cognitive architecture search framework, driven by automated [[machine-learning|machine learning]], builds learner portraits and generates diagnostic models for heterogeneous learner profiles, integrating multi-modal data to move beyond static examination outcomes.
 
 A static knowledge base cannot personalize: ontologies evolve slowly and handle uncertainty poorly, so the architecture matches representation to knowledge type — declarative to ontologies, procedural to rules, uncertain to fuzzy or probabilistic ontologies, implicit to analytics and machine learning — and prefers a system of small mapped ontologies to one monolithic model ([[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026|Ivanova, 2026]]).
 

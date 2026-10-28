@@ -53,7 +53,7 @@ Where most offloading research captures the *moment* of AI use, this paper forma
 
 - **Instructors.** Schedule deliberate unassisted practice — periodic problem sets or exams with the assistant off — and dose it against how long deficits actually take to dissipate, following the FAA's manual-flying model instead of debating AI use morally.
 - **Instructors.** Probe skill under pressure, not only on routine tasks: the latent-scaffold outcome means performance can look recovered on easy cases while the deficit hides until a difficult, time-pressured case exposes it.
-- **Administrators.** Treat reversibility as the severity question — for [[ai-education|education policy]], safety-critical licensing and product design alike. Before scaling [[intelligent-tutoring]], decide how you will measure what students can do unaided at exams, license reviews, and tool outages.
+- **Administrators.** Treat reversibility as the severity question — for [[educational-policy-ai|education policy]], safety-critical licensing and product design alike. Before scaling [[intelligent-tutoring]], decide how you will measure what students can do unaided at exams, license reviews, and tool outages.
 - **Researchers.** Instrument offloading dose from behavior — the fraction of attempts that begin with a request for a complete solution, latency to first prompt, and edit distance from suggestion to submission — so withdrawal effects can be estimated from existing usage logs.
 - **Researchers.** Run the withholding study itself: current [[cognitive-offloading]] evidence stops hours after assistance ends, and the weeks-long interval after that is where reversibility is decided.
 

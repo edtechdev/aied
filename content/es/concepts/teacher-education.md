@@ -1,7 +1,7 @@
 ---
-title: Desarrollo profesional
+title: "Formación docente"
 created: "2026-09-28T19:17:40-04:00"
-updated: "2026-10-28T13:19:13-04:00"
+updated: "2026-10-28T19:12:31-04:00"
 type: concept
 foundations: [ai-literacy, teacher-role, tpack]
 connected_faqs: [faculty-development-ai]

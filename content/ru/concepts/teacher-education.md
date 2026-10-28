@@ -1,5 +1,5 @@
 ---
-title: Профессиональное развитие преподавателей
+title: "Педагогическое образование"
 created: "2026-10-13T21:12:00-04:00"
 type: concept
 foundations: [ai-literacy, teacher-role, tpack]

@@ -17,7 +17,7 @@ institutions: [change-management, educational-policy-ai]
 
 The study frames [[assessment|assessment reform]] through the lens of 'assessment security', conceptualizing the work of redesign as a security practice in [[higher-ed|higher education]]. Staff described the process as 'a bit of chaos and madness', capturing both the disruptive potential and the lack of coordinated [[governance|institutional]] support. This connects to broader challenges around [[academic-integrity|academic integrity]] in the age of generative AI.
 
-The findings have implications for [[teacher-role|faculty development]] and [[educational-policy-ai|institutional policy]], suggesting that successful AI assessment frameworks require not just clear guidelines but also adequate resourcing, departmental alignment, and ongoing professional support. The study contributes to the growing literature on implementation science for [[ai-literacy|AI literacy]] in higher education.
+The findings have implications for [[educational-development|faculty development]] and [[educational-policy-ai|institutional policy]], suggesting that successful AI assessment frameworks require not just clear guidelines but also adequate resourcing, departmental alignment, and ongoing professional support. The study contributes to the growing literature on implementation science for [[ai-literacy|AI literacy]] in higher education.
 
 ## What this means for practice
 

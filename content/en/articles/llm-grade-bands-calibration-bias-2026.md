@@ -32,7 +32,7 @@ verified: [citation, numbers, links]
 
 ### Overview
 
-[[higher-ed|Higher education]] has been quick to pilot [[generative-ai|LLM]] support for marking and slow to establish what these systems do when the label matters. Most published comparisons report a single model, often against a small set of essays, and use agreement as the only metric. This study was designed to close three gaps at once: multiple model families under identical conditions, authentic institutional grade-band labels rather than researcher-assigned scores, and an analysis that looks past exact agreement to the direction and size of the error.
+[[higher-ed|Higher education]] has been quick to pilot [[llm|LLM]] support for marking and slow to establish what these systems do when the label matters. Most published comparisons report a single model, often against a small set of essays, and use agreement as the only metric. This study was designed to close three gaps at once: multiple model families under identical conditions, authentic institutional grade-band labels rather than researcher-assigned scores, and an analysis that looks past exact agreement to the direction and size of the error.
 
 The research question asks how accurately [[llm|large language models]] reproduce reference Merit and Distinction labels, and what patterns of calibration or [[bias-mitigation|grading bias]] emerge across families. The secondary analyses address exact and grade-distance agreement, directional under- or over-grading, label-specific Merit–Distinction discrimination, and whether temperature changes anything within a family.
 

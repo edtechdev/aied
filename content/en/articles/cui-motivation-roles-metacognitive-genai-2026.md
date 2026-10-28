@@ -25,7 +25,7 @@ Drawing on [[self-determination-theory|self-determination theory]], the study ad
 
 ## Metacognitive Engagement by Motivation (RQ2)
 
-Intrinsic motivation was associated with significantly higher engagement in higher-order metacognitive dimensions — [[critical-thinking|evaluation]] and elaboration — forming reflective-iterative co-occurrence networks. Extrinsic motivation produced task-completion-oriented patterns concentrated in lower-order processing (orientation, planning, monitoring), where students submitted prompts and monitored outputs for [[usability-research|usability]] but rarely interrogated, critiqued, or extended them. This suggests the [[ai-misuse-learning-harm|cognitive offloading]] risk is more pronounced among extrinsically motivated students.
+Intrinsic motivation was associated with significantly higher engagement in higher-order metacognitive dimensions — [[critical-thinking|evaluation]] and elaboration — forming reflective-iterative co-occurrence networks. Extrinsic motivation produced task-completion-oriented patterns concentrated in lower-order processing (orientation, planning, monitoring), where students submitted prompts and monitored outputs for [[usability-research|usability]] but rarely interrogated, critiqued, or extended them. This suggests the [[cognitive-offloading|cognitive offloading]] risk is more pronounced among extrinsically motivated students.
 
 ## GenAI Roles Map to Metacognitive Profiles (RQ3)
 
@@ -38,7 +38,7 @@ The augmentation–automation distinction is supported: retaining [[agency]] ove
 
 ## Relevance to the knowledge base
 
-This study contributes process-level empirical evidence to the knowledge base's treatment of [[student-ai-interaction]], [[metacognition]], and [[human-ai-collaboration]]. It moves beyond the broad "cognitive offloading" framing (see [[cognitive-offloading]] and related articles like [[shaw-nave-cognitive-surrender-2026]]) to show that metacognitive outcomes depend on motivational stance and role framing. It supports [[self-regulated-learning]] guidance that GenAI tasks be reframed as exploratory and dialogic, and that interfaces embed evaluative prompts to sustain [[agency]]. It connects to [[motivation]], [[ai-misuse-learning-harm|reducing misuse]], and practical [[pedagogy|instructional design]] for [[higher-ed|higher education]].
+This study contributes process-level empirical evidence to the knowledge base's treatment of [[student-ai-interaction]], [[metacognition]], and [[human-ai-collaboration]]. It moves beyond the broad "cognitive offloading" framing (see [[cognitive-offloading]] and related articles like [[shaw-nave-cognitive-surrender-2026]]) to show that metacognitive outcomes depend on motivational stance and role framing. It supports [[self-regulated-learning]] guidance that GenAI tasks be reframed as exploratory and dialogic, and that interfaces embed evaluative prompts to sustain [[agency]]. It connects to [[motivation]], [[ai-misuse-learning-harm|reducing misuse]], and practical [[learning-design|instructional design]] for [[higher-ed|higher education]].
 
 ## What this means for practice
 

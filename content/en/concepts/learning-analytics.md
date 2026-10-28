@@ -1,7 +1,7 @@
 ---
 title: Learning Analytics
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-27T10:05:00-04:00"
+updated: "2026-10-28T19:24:33-04:00"
 type: concept
 pedagogy: [student-engagement]
 technology: [knowledge-tracing, student-modeling, edtech-platform]
@@ -28,7 +28,7 @@ reviewed_by: [editor]
 
 ### AI-enhanced analytics
 
-- **Predictive analytics:** [[reinforcement-learning|Machine learning]] on learner interaction data predicts outcomes — from [[at-risk-students-ml-prediction|at-risk identification]] to [[knowledge-tracing|knowledge state estimation]].
+- **Predictive analytics:** [[machine-learning|Machine learning]] on learner interaction data predicts outcomes — from [[at-risk-students-ml-prediction|at-risk identification]] to [[knowledge-tracing|knowledge state estimation]].
 - **Validation matters as much as prediction.** [[schuetze-knowledge-tracing-forgetting-2026|Schuetze, Yan, and Carvalho (2025)]] show that predictive knowledge-state models (BKT, BKT-with-Forgetting, AFM) look accurate when fit retroactively to a full session history, yet under **time-based cross-validation** — predicting the next session from prior ones, how analytics are actually deployed — they overestimate learner performance, miss spacing/forgetting dynamics, and can mis-order practice conditions. The caution for analytics: retrospective fit can mask poor forward predictive validity on longitudinal data, so indicator and dashboard models should be validated walk-forward.
 
 - **Validate the item-attribute mapping behind the estimate.** The Q-matrix linking items to attributes is an assumption, not data: rejected entries for 14 of 918 analytical-thinking items, once corrected, cut a spurious knowledge-state pattern from 14.2% to 3.8% — so mastery analytics should audit their Q-matrix, not only their predictive fit ([[bayesian-cognitive-diagnosis-personalized-learning-paths|Feng & Huang, 2026]]).

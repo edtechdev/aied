@@ -24,7 +24,7 @@ methods: [ai-ed-evaluation, benchmark]
 - **Assessing student correctness is hardest (F2):** across all QA, models struggle most on questions about whether the student response is correct — exactly where identifying "this student needs support" lives.
 - **Gap persists and is hard to remove:** the performance gap on erroneous work persists when controlling for problem, and is only reduced (not eliminated) by adding image input. VLMs expect mathematically "clean" inputs; wrongly predicted answers for erroneous work resemble gold answers for correct work.
 - **Consistent across input and question types:** the pattern appears with both text and image inputs and with both open-ended and binary question forms.
-- **[[equity-in-ai-education|Equity]] risk:** ~85% of DrawEduMath images come from Title I schools ([[digital-divide|low-income]]), and model weaknesses concentrate on students who need the most help — so rushed integration risks widening [[equity-in-ai-education|achievement gaps]].
+- **[[equity-in-ai-education|Equity]] risk:** ~85% of DrawEduMath images come from Title I schools ([[digital-divide|low-income]]), and model weaknesses concentrate on students who need the most help — so rushed integration risks widening [[learning-gains|achievement gaps]].
 
 ## What this means for practice
 

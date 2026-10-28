@@ -47,7 +47,7 @@ confidence: high
 - **Instructors.** Budget time for post-editing instead of expecting the tool to finish the job — 12 of 21 teachers rewrote the ChatGPT text, mostly editing (f = 32) and deleting (f = 27), and several reported that revising the output took as long as writing the feedback themselves.
 - **Instructors.** Expect to strip inflated praise and generic encouragement by hand: revisions clustered in the relational dimension of feedback (Student–Teacher Relationship f = 24; encouragement f = 11), and teachers systematically moderated tone to keep their professional voice.
 - **Faculty developers.** Design training around evaluative judgment, not tool operation: less-experienced teachers valued the tool's coverage and speed, while teachers with more than five years of experience flagged tone, editing burden, trust, and misinformation risk — the authors warn that novices who defer to suggestions may build less independent judgment.
-- **Faculty developers.** Build a review step for relational language into any [[human-in-the-loop-ai|AI feedback]] pilot, since teachers treated the affective dimension as the part that cannot be delegated.
+- **Faculty developers.** Build a review step for relational language into any [[ai-feedback-quality|AI feedback]] pilot, since teachers treated the affective dimension as the part that cannot be delegated.
 
 ## Limitations
 

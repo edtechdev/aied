@@ -1,7 +1,7 @@
 ---
 title: Student Engagement
 created: "2026-08-13T05:32:35-04:00"
-updated: "2026-10-25T13:40:00-04:00"
+updated: "2026-10-28T19:24:33-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [motivation, self-regulated-learning, student-engagement]
@@ -48,7 +48,7 @@ That [[scaffolding]] has an institutional counterpart with a dual pathway. [[gai
 
 - **[[ai-feedback-quality|AI feedback]] sustains behavioral activation.** [[gpt4-feedback-student-activation-2026|Geschwind et al. (2026)]]'s semester-long lab-in-the-field experiment found that students receiving individual GPT-4 feedback on open-ended tasks sustained the highest participation across eight weekly tasks (~50% by the last, vs ~30% for lecturer- or peer-feedback groups) and wrote ~29 more characters per answer — individual AI feedback activated engagement on both the extensive margin (participation) and the intensive margin (effort per response), even though students rated the [[peer-assessment|peer feedback]] slightly higher.
 
-- **Predicting academic AI use from learning constructs.** An exploratory [[reinforcement-learning|machine learning]] framework analyzed survey data from 166 university students to identify learning-related constructs associated with intended academic ChatGPT use, using SHAP analysis to maintain [[explainable-ai|interpretability]]. Findings inform how engagement, learning support, and other constructs shape students' incorporation of AI tools into academic work.
+- **Predicting academic AI use from learning constructs.** An exploratory [[machine-learning|machine learning]] framework analyzed survey data from 166 university students to identify learning-related constructs associated with intended academic ChatGPT use, using SHAP analysis to maintain [[explainable-ai|interpretability]]. Findings inform how engagement, learning support, and other constructs shape students' incorporation of AI tools into academic work.
 
 - **Access to an AI tool can *lower* measured engagement, and completion rates will not show it.** [[liu-course-integrated-ai-tutoring-rct-2026|Liu et al. (2026)]] randomized tutor access across 13 blocks at a large U.S. public university and found recorded platform participation fell by 0.90 SDs, page views by 0.37–0.38 SDs and active days by 0.51–0.61 SDs — while homework submission and on-time submission were unaffected. The dissociation is the measurement lesson: a course monitoring only assignment completion would have seen nothing, because the reduction sat in the discussion, quiz and instructor-interaction activity the platform logged. Students in treated sections also reported asking the instructor fewer content questions (about 57% versus 44%), so the decline coincided with substitution away from human contact rather than with disengagement from the course.
 

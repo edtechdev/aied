@@ -37,7 +37,7 @@ Browse by knowledge type rather than keyword. Principles state a design commitme
 
 ## Who it is for
 
-Instructional designers and instructors who want a design decision with its evidence attached, and researchers who want a mapped corpus of [[theories-and-frameworks|learning theories]] in design terms. Teams building [[generative-ai|generative AI]] design assistants can use it as a structured reference, since the site publishes a machine-readable bundle rather than a set of web pages.
+Instructional designers and instructors who want a design decision with its evidence attached, and researchers who want a mapped corpus of [[learning-theories|learning theories]] in design terms. Teams building [[generative-ai|generative AI]] design assistants can use it as a structured reference, since the site publishes a machine-readable bundle rather than a set of web pages.
 
 ## Notes and caveats
 

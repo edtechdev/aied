@@ -11,7 +11,7 @@ audience: [researchers, instructors]
 sources: ['raw/papers/hao-peer-exposure-bridging-social-capital-ai-summaries-2026.md']
 confidence: high
 ---
-> **Synthesis:** This [[design-based-research|design-based research]] study by Hao and Cukurova evaluates an AI-generated summary-driven learning design (AI-SLD) in [[online-teaching-and-learning|online]] [[collaborative-learning|collaborative]] discussion forums with 128 university students across three design iterations (baseline, Wizard-of-Oz, and full AI). Using [[learning-analytics|social network analysis]] of viewing logs and thematic analysis of interviews, it shows that AI-generated discussion summaries significantly broadened students' exposure to peer contributions and strengthened network connectedness, functioning as navigational [[scaffolding|scaffolds]] that lowered the effort of locating meaningful posts and expanded opportunities for building the weak-tie connections social-capital theory terms *bridging* social capital. However, the support did not prevent a decline in viewing activity under rising academic workload, and the effect was moderated by discussion topic and topic familiarity.
+> **Synthesis:** This [[design-based-research|design-based research]] study by Hao and Cukurova evaluates an AI-generated summary-driven learning design (AI-SLD) in [[online-teaching-and-learning|online]] [[collaborative-learning|collaborative]] discussion forums with 128 university students across three design iterations (baseline, Wizard-of-Oz, and full AI). Using [[network-analysis|social network analysis]] of viewing logs and thematic analysis of interviews, it shows that AI-generated discussion summaries significantly broadened students' exposure to peer contributions and strengthened network connectedness, functioning as navigational [[scaffolding|scaffolds]] that lowered the effort of locating meaningful posts and expanded opportunities for building the weak-tie connections social-capital theory terms *bridging* social capital. However, the support did not prevent a decline in viewing activity under rising academic workload, and the effect was moderated by discussion topic and topic familiarity.
 
 ## Summary
 
@@ -34,7 +34,7 @@ Prior research on online discussion engagement has largely targeted posting and 
 
 ## Limitations
 
-- The three iterations are separate cohorts in different academic years (baseline n = 49 in 2021–22, pilot n = 40 in 2022–23, main n = 39 in 2023–24), so cohort-level differences such as post-pandemic online-learning experience may explain the behavioral shifts, and the findings are not causal.
+- The three iterations are separate cohorts in different academic years (baseline n = 49 in 2021–2022, pilot n = 40 in 2022–2023, main n = 39 in 2023–2024), so cohort-level differences such as post-pandemic online-learning experience may explain the behavioral shifts, and the findings are not causal.
 - Social network analysis of Moodle log data cannot determine the depth or quality of learners' viewing engagement.
 - The planned random-slopes model failed to converge because many students did not participate in all 8 weeks, forcing a random-intercepts-only model, and OLS replaced mixed effects for density because only three groups existed.
 - Interview evidence is partial: 31 students from the pilot and main cohorts only (about 60 minutes each, recruited voluntarily after grades were released), and pilot interviewees were told the summaries were human-written.

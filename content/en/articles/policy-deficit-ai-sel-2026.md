@@ -22,7 +22,7 @@ As [[generative-ai|generative AI]] and [[affective-computing|emotion-aware]] sys
 
 ### A majority of studies ignore policy
 
-The central finding is a **policy deficit**: nearly three-quarters of the reviewed studies did not mention policy implications at all. Only about one in four offered any policy recommendation, and few provided detailed, actor-specific guidance on issues such as [[privacy]], [[teacher-role|teacher training]], and resource allocation.
+The central finding is a **policy deficit**: nearly three-quarters of the reviewed studies did not mention policy implications at all. Only about one in four offered any policy recommendation, and few provided detailed, actor-specific guidance on issues such as [[privacy]], [[teacher-education|teacher training]], and resource allocation.
 
 ### The WH-question framework
 

@@ -29,7 +29,7 @@ The proposal is anchored in existing European frameworks:
 ## Two levels of AI in education
 
 The paper distinguishes two ways AI enters teaching:
-- **Direct didactics of AI** — fostering knowledge of AI definitions, vocabulary, fields of application, and modes of operation; essentially building AI literacy so students use these technologies consciously (e.g., learning how [[reinforcement-learning|machine learning]] works, how AI is trained, how data is used).
+- **Direct didactics of AI** — fostering knowledge of AI definitions, vocabulary, fields of application, and modes of operation; essentially building AI literacy so students use these technologies consciously (e.g., learning how [[machine-learning|machine learning]] works, how AI is trained, how data is used).
 - **Indirect teaching of AI** — leading students to recognize and use AI applications to solve a problem or achieve a goal, learning to collaborate with AI to improve the teaching/learning process.
 
 Both levels operate under the educational mode of **Explainability**, in which a teaching activity is designed within a soliciting educational environment centered on social interactions, initiating a process of "AI culture" in the school community.

@@ -1,7 +1,7 @@
 ---
 title: 자기보고식 측정
 created: "2026-09-12T11:05:00-04:00"
-updated: "2026-10-03T02:57:43-04:00"
+updated: "2026-10-28T19:13:23-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [self-efficacy, student-engagement]
@@ -92,7 +92,7 @@ ai_assist:
 - [[preferred-scaffolding-ai-mathematical-modeling|A scaffolding study]]는 지각된 유용성, 사용의 용이성, 그리고 즉각적 만족도가 [[scaffolding]] 효과의 충분한 지표로 다루어져서는 안 된다고 논합니다.
 - [[nie-personavlm-long-term-personalization-2026|On personality-aligned student modeling]]는 사용자 만족도를 위해 최적화하는 것이 학습 결과를 위해 최적화하는 것과 같지 않으며, 둘이 갈라질 수 있음을 관찰합니다.
 
-짊어져 갈 만한 패턴은 이것입니다. 학습이 목표일 때 만족도는 잘못된 것들에 반응합니다. 빠르게 답하고, 쉽게 동의하며, 노력을 줄이는 시스템은 높이 평가되며, 바로 그 속성들은 이 지식베이스가 [[cognitive-offloading|productive struggle]]의 감소와 AI 지원 작업에서의 부풀려진 수행에 연관짓는 것들입니다. 보고된 만족도와 측정된 학습은 적이 아닙니다. 단지 대체물이 아니며, 첫 번째를 두 번째의 증거로 다루는 것이 이 페이지가 기록하는 가장 흔한 미끄러짐입니다.
+짊어져 갈 만한 패턴은 이것입니다. 학습이 목표일 때 만족도는 잘못된 것들에 반응합니다. 빠르게 답하고, 쉽게 동의하며, 노력을 줄이는 시스템은 높이 평가되며, 바로 그 속성들은 이 지식베이스가 [[desirable-difficulties|productive struggle]]의 감소와 AI 지원 작업에서의 부풀려진 수행에 연관짓는 것들입니다. 보고된 만족도와 측정된 학습은 적이 아닙니다. 단지 대체물이 아니며, 첫 번째를 두 번째의 증거로 다루는 것이 이 페이지가 기록하는 가장 흔한 미끄러짐입니다.
 
 ## 자기보고 도구를 신뢰할 만하게 만드는 것
 

@@ -73,7 +73,7 @@ The design is grounded in [[student-modeling|learner-modeling]] evidence that en
 
 ## Step-Pacing and Information Load
 
-AI-as-instructor introduces a [[learning-theories|cognitive load]] challenge with no direct parallel in human instruction: an agent can generate thousands of words of instruction in a single response, risking extraneous load that overwhelms working memory. The terminal environment compounds this, presenting information as a linear text stream. cc-self-train introduces **STOP blocks**, explicit pause directives embedded in module files that force the AI to wait for the learner's response, provide a reflection prompt, and create a natural checkpoint. Step progress is tracked in a per-session state file that survives context compaction and session restarts, and a pre-advancement check returns to any skipped steps before moving to the next module.
+AI-as-instructor introduces a [[cognitive-offloading|cognitive load]] challenge with no direct parallel in human instruction: an agent can generate thousands of words of instruction in a single response, risking extraneous load that overwhelms working memory. The terminal environment compounds this, presenting information as a linear text stream. cc-self-train introduces **STOP blocks**, explicit pause directives embedded in module files that force the AI to wait for the learner's response, provide a reflection prompt, and create a natural checkpoint. Step progress is tracked in a per-session state file that survives context compaction and session restarts, and a pre-advancement check returns to any skipped steps before moving to the next module.
 
 ## Automated Quality Assurance
 

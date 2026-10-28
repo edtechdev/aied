@@ -15,7 +15,7 @@ level: [adult learning, higher ed]
 page_kind: [evaluation]
 ---
 
-> **Synthesis:** Gayed presents **AiAWE**, an open-source [[automated-assessment|automated writing evaluation]] (AWE) system that scores argumentative essays using a LoRA-adapted instruction-tuned [[llm|large language model]] (Gemma-3-27B-it). Using a proprietary ETS dataset of 480 TOEFL Independent Writing essays (120 training, 360 evaluation), the system achieves:
+> **Synthesis:** Gayed presents **AiAWE**, an open-source [[automated-essay-scoring|automated writing evaluation]] (AWE) system that scores argumentative essays using a LoRA-adapted instruction-tuned [[llm|large language model]] (Gemma-3-27B-it). Using a proprietary ETS dataset of 480 TOEFL Independent Writing essays (120 training, 360 evaluation), the system achieves:
 
 - **RMSE:** 0.474
 - **Quadratic Weighted Kappa (QWK):** 0.828

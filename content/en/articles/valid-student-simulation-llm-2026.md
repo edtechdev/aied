@@ -61,7 +61,7 @@ The paper maps four directions where LLM-based simulated students are most promi
 - **[[teacher-education|Teacher Training]]** — frequent, structured, risk-free rehearsal of adaptive instruction, exposing novices to the student heterogeneity that real placements cannot guarantee.
 - **[[learning-by-teaching|Social Learning]]** — simulated tutees and peers that induce the [[learning-by-teaching|protégé effect]] and restore the benefits of [[collaborative-learning|cooperative interaction]] to otherwise isolated learners.
 - **Data Generation** — scalable, [[privacy]]-compliant [[generative-ai|synthetic]] datasets that mimic real-world student response distributions and longitudinal task-solving trajectories for [[personalized-learning|personalized]] platforms.
-- **Content Evaluation** — high-throughput, risk-free synthetic test-takers for [[assessment-validity|item difficulty]] modeling and [[psychometrically-aware-ai|content calibration]], replacing expensive expert labeling and large-scale human pilots.
+- **Content Evaluation** — high-throughput, risk-free synthetic test-takers for [[item-response-theory|item difficulty]] modeling and [[psychometrically-aware-ai|content calibration]], replacing expensive expert labeling and large-scale human pilots.
 
 ## Challenges and open problems
 

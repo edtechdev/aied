@@ -24,7 +24,7 @@ The authors address a critical gap: high-quality, [[discipline-specific-aied|dom
 - **Binary classification framing**: Self-explanations scored as correct or incorrect, a practical framing for real-world deployment in [[intelligent-tutoring|intelligent tutoring systems]]
 - **Dataset contribution**: Domain-specific labeled data for programming self-explanations with balanced classes
 - **Method comparison**: LLM-based scoring versus semantic similarity methods, with systematic evaluation
-- **Practical implications**: Guidance for building [[feedback|automated feedback]] systems in [[programming-its|programming education]]
+- **Practical implications**: Guidance for building [[ai-feedback-quality|automated feedback]] systems in [[programming-its|programming education]]
 
 ## Connection to Knowledge Base
 

@@ -1,7 +1,7 @@
 ---
-title: Berufliche Weiterbildung
+title: "Lehrkräftebildung"
 created: "2026-08-16T10:55:19-04:00"
-updated: "2026-10-24T21:57:17-04:00"
+updated: "2026-10-28T19:12:31-04:00"
 type: concept
 foundations: [ai-literacy, teacher-role, tpack]
 connected_faqs: [faculty-development-ai]

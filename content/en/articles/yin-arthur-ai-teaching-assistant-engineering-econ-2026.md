@@ -30,7 +30,7 @@ discipline: [engineering education]
 
 - **Dialogue-based interaction to balance accuracy and efficiency.** Rather than forcing full answers (which can constrain students' problem-solving), Arthur starts by requesting only the final answer, then iteratively prompts for specific intermediate answers when the backbone's prediction confidence falls below a 0.8 threshold—adaptively reducing false positives and the burden on [[student-ai-interaction|student input]].
 
-- **Operationalization and generalizability.** The system was deployed as a web interface with a curated question bank covering ten Engineering Economics topics, integrating rubric labels into natural-language feedback templates. The framework is designed to generalize to CFQs in other engineering disciplines, with discussion of representation and interaction biases, human annotation error, and opportunities for [[generative-ai|LLMs]] to automate handwriting recognition.
+- **Operationalization and generalizability.** The system was deployed as a web interface with a curated question bank covering ten Engineering Economics topics, integrating rubric labels into natural-language feedback templates. The framework is designed to generalize to CFQs in other engineering disciplines, with discussion of representation and interaction biases, human annotation error, and opportunities for [[llm|LLMs]] to automate handwriting recognition.
 
 ## What this means for practice
 

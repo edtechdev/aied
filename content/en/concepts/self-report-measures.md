@@ -1,7 +1,7 @@
 ---
 title: Self-Report Measures
 created: "2026-09-12T11:05:00-04:00"
-updated: "2026-10-26T11:40:00-04:00"
+updated: "2026-10-28T19:13:23-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [self-efficacy, student-engagement]
@@ -91,7 +91,7 @@ Satisfaction is the most frequently self-reported outcome in this corpus, appear
 - [[preferred-scaffolding-ai-mathematical-modeling|A scaffolding study]] argues that perceived usefulness, ease of use, and immediate satisfaction should not be treated as sufficient indicators of [[scaffolding]] effectiveness.
 - [[nie-personavlm-long-term-personalization-2026|On personality-aligned student modeling]] observes that optimizing for user satisfaction is not the same as optimizing for learning outcomes, and that the two can come apart.
 
-The pattern worth carrying away: satisfaction is responsive to the wrong things when learning is the goal. A system that answers quickly, agrees readily, and reduces effort will be rated highly, and those same properties are the ones the knowledge base associates with reduced [[cognitive-offloading|productive struggle]] and inflated performance on AI-assisted work. Reported satisfaction and measured learning are not enemies; they are simply not substitutes, and treating the first as evidence of the second is the most common slippage this page documents.
+The pattern worth carrying away: satisfaction is responsive to the wrong things when learning is the goal. A system that answers quickly, agrees readily, and reduces effort will be rated highly, and those same properties are the ones the knowledge base associates with reduced [[desirable-difficulties|productive struggle]] and inflated performance on AI-assisted work. Reported satisfaction and measured learning are not enemies; they are simply not substitutes, and treating the first as evidence of the second is the most common slippage this page documents.
 
 ## What makes a self-report instrument credible
 

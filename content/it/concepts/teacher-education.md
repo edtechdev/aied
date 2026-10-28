@@ -1,5 +1,5 @@
 ---
-title: "Sviluppo professionale"
+title: "Formazione degli insegnanti"
 created: "2026-10-14T22:12:00-04:00"
 type: concept
 foundations: [ai-literacy, teacher-role, tpack]

@@ -13,7 +13,7 @@ discipline: [science education, stem education]
 methods: [design-based-research, mixed-methods-research]
 ---
 
-> **Synthesis:** Moore, Rabinowitz, Ali, Weckel, Lee, Gupta, and Chaffee (2026) present a [[mixed-methods-research|mixed-methods]] analysis of the iterative design of an informal science-integrated [[reinforcement-learning|machine learning]] curriculum for high school youth enrolled in a four-week summer program. Each step of the two-year design-based [[research-methods-aied|research]] (DBR) process was informed by input from an advisory board consisting of alumni and industry experts. Participants in both cohorts gained understanding in ML knowledge, with gains in Cohort 2 (M2-M1=0.175, p < 0.001, n = 42) exceeding those of Cohort 1 (M2-M1=0.076, p < 0.001, n = 35). Participants who identified as female and non-White tended to show greater [[learning-gains|learning gains]] than their White male counterparts.
+> **Synthesis:** Moore, Rabinowitz, Ali, Weckel, Lee, Gupta, and Chaffee (2026) present a [[mixed-methods-research|mixed-methods]] analysis of the iterative design of an informal science-integrated [[machine-learning|machine learning]] curriculum for high school youth enrolled in a four-week summer program. Each step of the two-year design-based [[research-methods-aied|research]] (DBR) process was informed by input from an advisory board consisting of alumni and industry experts. Participants in both cohorts gained understanding in ML knowledge, with gains in Cohort 2 (M2-M1=0.175, p < 0.001, n = 42) exceeding those of Cohort 1 (M2-M1=0.076, p < 0.001, n = 35). Participants who identified as female and non-White tended to show greater [[learning-gains|learning gains]] than their White male counterparts.
 
 ## Key Findings
 

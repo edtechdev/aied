@@ -83,7 +83,7 @@ Role abandonment was most often triggered by Authority Challenge and Confusion a
 - The framework covers prompt-based adversarial attacks only; the authors state that vulnerabilities arising from training, fine-tuning, or [[reinforcement-learning|reinforcement learning]] are not considered, so deeper alignment problems may go uncaptured.
 - Automated judging was validated by three domain experts on a stratified sample of just 60 conversation turns (20 per persona), and the authors note the Judge may still introduce bias in complex or ambiguous cases, with scaling human calibration across more personas and evaluators an open challenge.
 - All four evaluation metrics — Role Fidelity, Drift Index, Ethical Deviation, and Consistency — are computed by rule-based text analysis combined with keyword pattern matching over the conversation history, so the scores detect patterns rather than judge meaning.
-- Only three personas (Healthcare Assistant, Customer Support Agent, Financial Advisor) were tested, all in controlled environments; the authors note real deployments involve more complex domain-specific roles, and that adversarial testing techniques could themselves be misused to exploit deployed systems, requiring responsible access and [[governance|human oversight]].
+- Only three personas (Healthcare Assistant, Customer Support Agent, Financial Advisor) were tested, all in controlled environments; the authors note real deployments involve more complex domain-specific roles, and that adversarial testing techniques could themselves be misused to exploit deployed systems, requiring responsible access and [[human-in-the-loop-ai|human oversight]].
 
 ## Citation
 

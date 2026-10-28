@@ -23,7 +23,7 @@ ai_assist:
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
 
-> **YZ yönetişimi** — [[ai-education|artificial intelligence in education]] alanında yapay zekanın sorumlu tasarımını, konuşlandırılmasını ve kullanımını yönlendiren çerçeveler, politika kuralları, kurumsal yapılar ve normlar. Yönetişim, resmi kurumsal mekanizmaları (YZ yönlendirme grupları, akademik dürüstlük ve kabul edilebilir kullanım politika kuralları, etik inceleme) ve gayri resmi normları (fakülte kılavuzları, mesleki gelişim, [[reducing-ai-misuse|responsible AI use]] kültürleri) kapsar. YZ çağında etkili yönetişim, GenAI’nin etik, [[equity-in-ai-education|equitable]] ve sürdürülebilir benimsenmesinin ön koşuludur — YZ’nin şeffaf biçimde, hesap verebilirlikle mi bütünleştirildiğini, yoksa eşitsizlikleri derinleştiren biçimlerde tepkisel olarak mı benimsendiğini belirler.
+> **YZ yönetişimi** — [[ai-education|artificial intelligence in education]] alanında yapay zekanın sorumlu tasarımını, konuşlandırılmasını ve kullanımını yönlendiren çerçeveler, politika kuralları, kurumsal yapılar ve normlar. Yönetişim, resmi kurumsal mekanizmaları (YZ yönlendirme grupları, akademik dürüstlük ve kabul edilebilir kullanım politika kuralları, etik inceleme) ve gayri resmi normları (fakülte kılavuzları, mesleki gelişim, [[ai-literacy|responsible AI use]] kültürleri) kapsar. YZ çağında etkili yönetişim, GenAI’nin etik, [[equity-in-ai-education|equitable]] ve sürdürülebilir benimsenmesinin ön koşuludur — YZ’nin şeffaf biçimde, hesap verebilirlikle mi bütünleştirildiğini, yoksa eşitsizlikleri derinleştiren biçimlerde tepkisel olarak mı benimsendiğini belirler.
 
 ## Dikkate Alınması Gereken Sorular
 

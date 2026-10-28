@@ -16,7 +16,7 @@ confidence: high
 
 ## Key Findings
 
-1. A multi-armed bandit controller adaptively selects optimal prompting strategies during inference for [[automated-assessment|essay scoring]].
+1. A multi-armed bandit controller adaptively selects optimal prompting strategies during inference for [[automated-essay-scoring|essay scoring]].
 2. The framework achieves comparable scoring accuracy to exhaustive grid search while reducing LLM calls by 78.4%.
 3. Four grading recipes (multi-step vs single-step, with vs without calibration examples) were implemented; the multi-step approach with examples achieves the highest accuracy.
 4. Token usage and latency are tracked alongside agreement metrics to produce the first cost-reliability learning curves for essay scoring.

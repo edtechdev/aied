@@ -18,7 +18,7 @@ page_kind: [evaluation]
 
 **Key findings:** Natural language feedback is significantly associated with higher completion rates and faster convergence to correct solutions. Test case feedback shows heterogeneous effects that depend critically on feedback validity. The form of [[ai-feedback-quality|AI-generated feedback]] matters — evaluating feedback quality, not just its presence, is essential for understanding [[pedagogy|pedagogical]] impact.
 
-This study provides one of the largest empirical validations of [[llm]]-based [[feedback|automated feedback]] in authentic programming classrooms, with direct implications for [[automated-assessment|automated grading systems]] and [[formative-assessment|formative assessment]] design in [[stem-education|CS education]].
+This study provides one of the largest empirical validations of [[llm]]-based [[ai-feedback-quality|automated feedback]] in authentic programming classrooms, with direct implications for [[automated-assessment|automated grading systems]] and [[formative-assessment|formative assessment]] design in [[cs-education|CS education]].
 
 ## What this means for practice
 

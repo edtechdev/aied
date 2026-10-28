@@ -33,7 +33,7 @@ ai_assist:
 
 ## 引言
 
-生成式 AI 为问题解决提供清晰支持。[[generative-ai|LLM]]工具帮助学生探索替代解法、纳入跨学科视角、模拟真实的真实世界情境——如[[medical-education|临床]]与[[ethics|伦理]]困境或[[stem-education|STEM]]中的原型测试——同时递送可规模化、及时的反馈，并把评估推向情境本位、能力本位的评价。在[[ai-assisted-collaborative-learning-model-dbr|设计本位研究]]中，被定位为结构化协作任务内"智能[[pedagogical-agent|学习伙伴]]"的 AI，产生了问题解决表现上的大量[[learning-gains|增益]]，学生日益用 AI 生成多种视角而非寻求单一答案。
+生成式 AI 为问题解决提供清晰支持。[[llm|LLM]]工具帮助学生探索替代解法、纳入跨学科视角、模拟真实的真实世界情境——如[[medical-education|临床]]与[[ethics|伦理]]困境或[[stem-education|STEM]]中的原型测试——同时递送可规模化、及时的反馈，并把评估推向情境本位、能力本位的评价。在[[ai-assisted-collaborative-learning-model-dbr|设计本位研究]]中，被定位为结构化协作任务内"智能[[pedagogical-agent|学习伙伴]]"的 AI，产生了问题解决表现上的大量[[learning-gains|增益]]，学生日益用 AI 生成多种视角而非寻求单一答案。
 
 然而同样的工具能侵蚀它们声称支持的技能本身。对[[hao-human-ai-collaborative-problem-solving-cognition|人—AI 协作问题解决]]的研究显示一个惊人的权衡：取得最高任务表现的交互画像，也显示最低的自我[[regulation|调节]]，因为学生把推理委托给 AI，收获作者所称的"认知债务"——以理解的自我建构过程为代价获得正确产品。对[[ai-collaborative-learning-skills-impacts|协作学习]]的研究同样警告"元认知懒惰"，即外包认知努力损害独立分析与自我调节学习。
 

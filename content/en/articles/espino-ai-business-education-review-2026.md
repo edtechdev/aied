@@ -31,7 +31,7 @@ methods: [meta-analysis-systematic-review]
 
 ## Study Design & Method
 
-- **Data source & scope.** Peer-reviewed journal articles from the **Dimensions database** (selected for its open-access model and multidisciplinary coverage), restricted to 2015–2024 for temporal consistency and scholarly rigor; book chapters and conference proceedings excluded. A refined Boolean search string combined AI terms (e.g., "artificial intelligence," "[[reinforcement-learning|machine learning]]," "ChatGPT," "generative AI") with business-education terms (e.g., "business education," "entrepreneurship education," "business curriculum").
+- **Data source & scope.** Peer-reviewed journal articles from the **Dimensions database** (selected for its open-access model and multidisciplinary coverage), restricted to 2015–2024 for temporal consistency and scholarly rigor; book chapters and conference proceedings excluded. A refined Boolean search string combined AI terms (e.g., "artificial intelligence," "[[machine-learning|machine learning]]," "ChatGPT," "generative AI") with business-education terms (e.g., "business education," "entrepreneurship education," "business curriculum").
 
 - **Bibliographic coupling.** Used to assess thematic similarity between documents based on shared citations; after thresholds, 33 highly interconnected publications were retained, clustering into four groups. Top coupling strength came from Somià & Vecchiarini (2024) and Vecchiarini & Somià (2023).
 

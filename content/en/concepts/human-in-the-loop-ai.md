@@ -1,7 +1,7 @@
 ---
 title: Human-in-the-Loop
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-10-26T11:15:00-04:00"
+updated: "2026-10-28T19:13:23-04:00"
 connected_faqs: [ai-agents-support-students-instructors, designing-educational-ai-software, ai-feedback-at-scale]
 type: concept
 foundations: [ai-education]
@@ -65,7 +65,7 @@ Placement can matter more than presence: practitioners rated a Social Story auth
 
 ## Why HITL matters in the AI era
 
-Human-in-the-loop design has become central to the knowledge base's [[agentic-ai|agentic AI]] and [[reducing-ai-misuse|responsible AI use]] discussions for several converging reasons:
+Human-in-the-loop design has become central to the knowledge base's [[agentic-ai|agentic AI]] and [[ai-literacy|responsible AI use]] discussions for several converging reasons:
 - **Pedagogical safety.** [[pedagogical-safety]] requires that AI with real instructional authority retains human oversight, so errors, biases, or harmful outputs are caught before they reach learners. This is especially important for autonomous agents that [[agentic-ai|proactively pursue goals]].
 - **Oversight is rare in practice, not just in theory.** [[agentic-ai-education-scoping-review|Wang et al. (2026)]] found robust embedded governance and human-in-the-loop oversight were rarely exhibited across 474 educational agentic-AI systems, even as single-task autonomy and multi-agent collaboration grew — the gap between the design principle and deployed practice.
 - **The critical question is how the loop is made actionable, not how much humans participate.** A learning-sciences view argues that organizing learning around data capture, computational interpretation and probable response makes pedagogical action depend on what systems can detect and act upon, and that alerts and engagement classifications interpret the learner before any teacher or student acts ([[in-the-loop-educational-ai-learning-sciences-2026|Pande (2026)]]).

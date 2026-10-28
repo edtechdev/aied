@@ -22,7 +22,7 @@ Drawing on 14 semi-structured interviews with IT professionals, this study explo
 
 - **Compression of traditional expertise pathways:** GenAI acts as both mentor-like tutor and "ladder-shortening" tool, accelerating unfamiliar-domain task performance while reducing exposure to the foundational build-fail-debug cycles that historically built expertise.
 - **Performance perception shift:** AI-assisted speed resets organizational and self-expectations, creating a "two-speed culture" within teams and "productivity guilt" — a [[metacognition|metacognitive]] cost of AI-augmented work.
-- The findings extend concerns about [[cognitive-offloading]] and skill decay from classroom settings to professional practice, with implications for [[professional-training]] programs and [[lifelong-learning|workplace learning]] — and for [[human-in-the-loop-ai|human-in-the-loop]] [[ai-education|AI-mediated]] work.
+- The findings extend concerns about [[cognitive-offloading]] and skill decay from classroom settings to professional practice, with implications for [[professional-training]] programs and [[professional-training|workplace learning]] — and for [[human-in-the-loop-ai|human-in-the-loop]] [[ai-education|AI-mediated]] work.
 
 ## What this means for practice
 

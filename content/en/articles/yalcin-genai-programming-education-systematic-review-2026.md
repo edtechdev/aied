@@ -39,7 +39,7 @@ reviewed_by: [editor]
 
 ## How the review was assembled
 
-The search combined programming terms in the title (programming OR coding), [[llm|generative AI]] terms in the title (AI, GenAI, chatbot, ChatGPT, Gemini, Copilot, Bard, Claude), learner terms in the abstract (student, learner, pupil) and higher education terms in the abstract. It retrieved 151 records, 54 from Web of Science and 97 from Scopus. After 48 duplicates and five book or book section records were removed, 98 records entered abstract screening and 46 were included. Screening was distributed across three authors, with Fleiss' kappa of κ=0.908 between the first and second authors and κ=0.894 between the first and third. Data collection combined manual extraction with R-based sentence extraction using 68 cue words, followed by researcher review.
+The search combined programming terms in the title (programming OR coding), [[generative-ai|generative AI]] terms in the title (AI, GenAI, chatbot, ChatGPT, Gemini, Copilot, Bard, Claude), learner terms in the abstract (student, learner, pupil) and higher education terms in the abstract. It retrieved 151 records, 54 from Web of Science and 97 from Scopus. After 48 duplicates and five book or book section records were removed, 98 records entered abstract screening and 46 were included. Screening was distributed across three authors, with Fleiss' kappa of κ=0.908 between the first and second authors and κ=0.894 between the first and third. Data collection combined manual extraction with R-based sentence extraction using 68 cue words, followed by researcher review.
 
 ## Tools, languages and dissemination
 

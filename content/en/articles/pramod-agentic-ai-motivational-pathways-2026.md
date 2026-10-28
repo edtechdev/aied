@@ -26,7 +26,7 @@ reviewed_by: [editor]
 3. **Both pathways converged on engagement.** [[student-engagement|Engagement]] was predicted at 0.533 by learning motivation and 0.493 by social presence, and engagement was then the strongest predictor of perceived learning performance (0.671).
 4. **The model held up statistically.** SRMR = 0.044 and NFI = 0.959 against a 0.08 threshold, with R² of 0.494 for motivation, 0.346 for social presence, 0.555 for engagement and 0.451 for perceived performance; all nine hypothesized paths were significant.
 5. **Effect sizes were uneven, not uniform.** The indirect routes through relatedness were the weakest in the model (0.101 for relatedness to engagement via motivation, 0.068 through to performance), while autonomy and competence carried most of the motivational effect.
-6. **"Performance" is a perception.** The outcome measure captures what learners believe they achieved, not grades, assignment outcomes or [[learning-gains|learning analytics]], and the authors say so explicitly.
+6. **"Performance" is a perception.** The outcome measure captures what learners believe they achieved, not grades, assignment outcomes or [[learning-analytics|learning analytics]], and the authors say so explicitly.
 
 ## What the study did, and what it measured
 

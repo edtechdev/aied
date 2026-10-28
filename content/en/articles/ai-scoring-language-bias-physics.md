@@ -11,7 +11,7 @@ confidence: high
 audience: [assessment professionals, researchers]
 level: [secondary]
 ---
-> **Synthesis:** This study examined whether AI-based scoring can assess students' conceptual understanding **independently of the linguistic quality** of their text-based explanations in [[physics-education|physics]]. The [[research-methods-aied|researchers]] compared scores from **9 [[reinforcement-learning|machine learning]] (ML) approaches and 2 large language model ([[llm]]) approaches** against human expert scores for 116 secondary-school students' physics explanations.
+> **Synthesis:** This study examined whether AI-based scoring can assess students' conceptual understanding **independently of the linguistic quality** of their text-based explanations in [[physics-education|physics]]. The [[research-methods-aied|researchers]] compared scores from **9 [[machine-learning|machine learning]] (ML) approaches and 2 large language model ([[llm]]) approaches** against human expert scores for 116 secondary-school students' physics explanations.
 ### The Language Bias Problem
 - **Systematic underestimation**: Explanations of lower linguistic quality were systematically more likely to receive lower AI-generated conceptual understanding scores than experts assigned — a bias that emerged across **every single AI-based scoring approach** tested.
 - **Asymmetric effect**: Higher linguistic quality showed **no comparable link** to overestimation. The bias only runs in one direction: linguistically weak students are penalized, but linguistically strong students are not inflated.

@@ -17,7 +17,7 @@ confidence: high
 
 ## Key Findings
 
-- **Central claim:** AI is the appropriate mechanism to overcome the structural barriers — curricular rigidity, limited resources, lack of immersive-environment tools — preventing effective implementation of [[experiential-learning|situated learning]] within an "Education 4.0" that personalizes learning and aligns it with real-world work and life.
+- **Central claim:** AI is the appropriate mechanism to overcome the structural barriers — curricular rigidity, limited resources, lack of immersive-environment tools — preventing effective implementation of [[situated-learning|situated learning]] within an "Education 4.0" that personalizes learning and aligns it with real-world work and life.
 - **Teacher-role shift:** AI redefines teachers from transmitters of information to [[teacher-role|facilitators of situated learning]], who use AI analytics and [[visualization|dashboards]] to design context-specific, responsive activities; teachers play the critical interpretive role linking assessment insights to practical application.
 - **Personalization & authentic contexts:** AI's ability to analyze learner data and simulate real-world scenarios (Duolingo/Rosetta Stone language role-plays, Microsoft HoloLens AR, Osso VR surgical training, Siemens Simcenter industrial simulators) supports personalization and situated decision-making — and positions "authentic" as compatible with "digital."
 - **Authentic assessment:** AI enables continuous, integrated [[authentic-assessment|competency-based assessment]] woven into the learning process rather than external audits of knowledge, moving beyond memorization-focused standardized tests.
