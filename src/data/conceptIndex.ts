@@ -41,7 +41,7 @@ export const conceptIndex: ConceptSection[] = [
     groups: [
       { label: 'Models and techniques', items: ['ai-technologies', 'machine-learning', 'generative-ai', 'llm', 'rag', 'prompt-engineering', 'llm-training-and-fine-tuning', 'vibe-coding', 'multimodal', 'speech-and-voice-technologies', 'visualization', 'educational-nlp', 'reinforcement-learning', 'knowledge-graph', 'educational-robotics', 'conversational-ai', 'simulation', 'virtual-and-augmented-reality'] },
       { label: 'Learner modeling and adaptive systems', items: ['student-modeling', 'knowledge-tracing', 'cognitive-diagnosis', 'simulating-students', 'intelligent-tutoring', 'adaptive-learning', 'personalized-learning', 'recommender-systems-and-learning-paths', 'pedagogical-agent', 'affective-tutoring', 'affective-computing', 'human-in-the-loop-ai', 'learning-analytics'] },
-      { label: 'Platforms, openness and adoption', items: ['technology-acceptance-model', 'open-source', 'edtech-platform'] },
+      { label: 'Platforms, openness and adoption', items: ['technology-acceptance-model', 'open-education', 'open-source', 'edtech-platform'] },
     ],
   },
   {

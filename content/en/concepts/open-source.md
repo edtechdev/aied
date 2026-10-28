@@ -1,7 +1,7 @@
 ---
 title: Open Source
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-10-25T17:00:00-04:00"
+updated: "2026-10-28T18:22:16-04:00"
 type: concept
 connected_faqs: [making-ai-better-at-supporting-learning]
 foundations: [agentic-ai, ai-education, curriculum-design]
@@ -47,11 +47,13 @@ The clearest case for open code is replication. [[oatutor-open-source-adaptive-t
 
 Several contributions here are open *evaluation infrastructure* rather than systems. [[cdpk-pedagogy-benchmark-llms|The Pedagogy Benchmark]] (CDPK + SEND, built from genuine Chilean teacher-exam items) spans 97 models: open-weight DeepSeek R1 reached 86.65% against a top-10 of mostly closed reasoning models, and the cost–accuracy frontier moved from ~50% to ~82% at \$0.10/M input tokens between April 2024 and June 2025 — with open Qwen-3 8B at 3.5¢ nearly matching the best April-2024 closed model at over 400× lower cost. Performance drops sharply below roughly 8B parameters, which is a practical sizing constraint for campus deployments. [[astra-multi-agent-tutoring-benchmark-2026|ASTRA]] releases a dataset, schema, and prototype for trace-based evaluation of socially intelligent multi-agent tutoring (540 participants, 360 sessions, 1,440 task episodes). [[iks-instruct-dataset-indian-knowledge|IKS-Instruct]] shows the cultural case for open data: 24,795 instruction–response pairs across seven languages and 41 pedagogical techniques drawn from Vedic and classical sources, aligned to the CBSE [[curriculum-design|curriculum]], which let a compact 7B model approach a much larger general-purpose reference model (median judge score 6.39 vs 6.54) at a fraction of the deployment cost. Student-authored [[benchmark|benchmarks]] are another route to openness: [[yu-academiclaw-student-challenges-ai-agents-2026|AcademiClaw]] curates 80 long-horizon academic tasks from 230 student-submitted candidates (spanning 25+ professional domains, 16 requiring CUDA GPUs, run in isolated Docker sandboxes) and extends an open agent ecosystem into academic-level evaluation. [[aied-carbon-footprint-reporting|Eimler et al. (2026)]] argue that openness is an [[sustainability|environmental]] obligation as well: reviewing all AIED 2025 papers, they found an "LLM adoption without disclosure" pattern and responded with an open-source measurement methodology — software tools plus a formula that estimates computational expense even when parameter counts are unknown.
 
-### Open educational resources and open content
+### Where open content meets open code
 
-[[shen-sustainable-ai-knowledge-base-cs-education-2026|Shen et al. (2026)]] is the knowledge base's only article in which **open educational resources are the central object** rather than a passing reference. They build an on-premise AI knowledge-base assistant for [[cs-education|computer science education]] from 82 OER documents on consumer-grade hardware (an RTX 3060 with 12 GB VRAM), combining structured extraction, [[rag|retrieval-augmented generation]], and NF4 4-bit quantization-aware fine-tuning. Fine-tuning added real value beyond retrieval (Qwen-7B 69.8%, +3.2 pp, p = 0.031; DeepSeek-MoE 78.6%, +12.0 pp, p < 0.001, including 82.3% on multi-hop reasoning); quantization-aware tuning held the 4-bit accuracy gap to 1.7 and 1.2 pp while cutting VRAM by ~38% and energy to 1.8 mWh per query (43.8% below baseline); and quantization-inflated [[hallucination-risk|hallucination]] was partly recovered by fine-tuning (DeepSeek-MoE 10.4% → 8.1%), measured by a two-stage NLI procedure against retrieved OER chunks. The analytical point is generalizable: an openly licensed corpus can be indexed, adapted, and served without publisher permissions, and grounding an assistant in retrieved OER gives a checkable provenance trail — which is exactly what a proprietary textbook corpus cannot offer.
+Open educational resources have their own page, [[open-education]], because the argument there is pedagogical and licensing-led rather than infrastructural. What belongs on this page is the seam where the two opennesses meet, and it is narrower than it looks.
 
-Openness of content and openness of models are complements elsewhere too. OATutor curates CC BY OpenStax textbooks into a system whose code is MIT-licensed, so the license terms of code and content have to be kept compatible by design. [[egai-power-systems-education|An open, executable module library for power systems AI]] lowers the entry barrier with Jupyter notebooks that run locally or in Colab, delivered through an IEEE online course. And a project-based [[engineering-education|mechanical engineering]] curriculum publishes its syllabus, data, and code in open-access repositories so other institutions can adopt it ([[mechanical-engineering-ai-curriculum-2026]]). Adjacent to OER, open *course* delivery is where the economics are shifting fastest: MAIC reports collapsing MOOC production from roughly \$25,000 and 60 hours per course to under \$2 and 30 minutes with LLM-driven multi-agent generation. If content production becomes nearly free, the OER argument moves away from production cost and toward licensing freedom, verifiability, and quality assurance — which is a different proposition from the one OER advocacy was built on.
+The seam is a license-compatibility constraint. [[oatutor-open-source-adaptive-tutor-2023|OATutor]] pairs an MIT-licensed codebase with a CC BY content library of OpenStax algebra textbooks, which means the terms of the code and the terms of the content have to be kept compatible by design, and a permissive license on one does not supply the other. The seam also appears when an openly licensed corpus is what makes an on-premise system lawful to run: [[shen-sustainable-ai-knowledge-base-cs-education-2026|Shen et al. (2026)]] index 82 OER documents into a knowledge-base assistant on a 12 GB consumer GPU, and the whole story is an open-source story about quantization, hallucination and provenance rather than an argument about textbooks.
+
+What this page does not do is argue for the resource. Whether a machine-written textbook is open by default, whether a license survives a generated remix, and whether open pedagogy teaches anything measurable are questions for [[open-education]], and they are the questions the field's current literature is actually about.
 
 ### Benefits and burdens
 
@@ -65,7 +67,9 @@ Openness of content and openness of models are complements elsewhere too. OATuto
 
 ## Common Misconceptions
 
-**"Open weights, open source, open content and open pedagogy are the same openness."** They are four different things and they fail independently. Open *weights* permit local deployment; open *source* permits modification; open *content* permits reuse and adaptation; open *pedagogy* concerns who decides what is taught. A model with open weights and a proprietary training pipeline, wrapped in a tool with a closed interface and an all-rights-reserved content library, is "open" in one of the four senses and closed in three.
+**"Open weights, open source, open content and open pedagogy are the same openness."** They are four different things and they fail independently. The resource and practice arguments live on [[open-education]]; this page covers the artifacts a builder ships and licenses. Open *weights* permit local deployment; open *source* permits modification; open *content* permits reuse and adaptation; open *pedagogy* concerns who decides what is taught. A model with open weights and a proprietary training pipeline, wrapped in a tool with a closed interface and an all-rights-reserved content library, is "open" in one of the four senses and closed in three.
+
+The word itself is contested upstream. [[deimann-rethinking-openness-ai-2026|Deimann and Lukács (2026)]] observe that the openness debate reached AI through the open-source community, with the first Open Source AI Definition published in 2024, and they argue that openness functions there as an imaginary rather than a property: an aspiration that institutions adopt in language while the surrounding regime stays intact. That is a useful check on this page, because a license is a property and a movement is not.
 
 **"Open means cheaper."** Open weights make local deployment possible, but **someone still has to host, patch and evaluate the system** — and that someone needs to outlive the grant that funded the work. The burdens named in this literature are concrete: infrastructure, [[pedagogical-safety|safety]] assurance, and maintenance. Total cost can exceed a license fee, and institutions that treat openness as a saving frequently discover the maintenance obligation after the project staff have dispersed.
 
@@ -75,6 +79,7 @@ Openness of content and openness of models are complements elsewhere too. OATuto
 
 ## Connected Concepts
 
+- [[open-education]]
 - [[intelligent-tutoring]]
 - [[llm-training-and-fine-tuning]]
 - [[adaptive-learning]]

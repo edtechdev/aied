@@ -1348,20 +1348,25 @@ concepts:
     - online teaching
     - remote learning
     - virtual learning
-  open-source:
-    title: Open Source
+  open-education:
+    title: Open Education
     aliases:
     - oer
     - oers
+    - oep
     - open content
     - open courseware
     - open education
+    - open educational practices
     - open educational resources
-    - open models
     - open pedagogy
-    - open source
     - open textbook
     - open textbooks
+  open-source:
+    title: Open Source
+    aliases:
+    - open models
+    - open source
     - open weights
     - open-source
     - OSS
@@ -2261,6 +2266,7 @@ sections:
   - label: Platforms, openness and adoption
     items:
     - technology-acceptance-model
+    - open-education
     - open-source
     - edtech-platform
 - heading: AI in the disciplines

@@ -3,7 +3,7 @@
 Canonical reference for inline `[[slug]]` linking. Generated from
 `concepts.registry.yaml` — **edit the registry, never this file**.
 
-**Total concepts:** 221
+**Total concepts:** 222
 
 ## Foundations of AI in education
 
@@ -158,7 +158,8 @@ Canonical reference for inline `[[slug]]` linking. Generated from
 ### Platforms, openness and adoption
 
 - **`edtech-platform`** — Edtech Platform — phrases: edtech; edtech platform; educational platform; learning management system; learning platform; lms; platform; platforms
-- **`open-source`** — Open Source — phrases: oer; oers; open content; open courseware; open education; open educational resources; open models; open pedagogy; open source; open textbook; open textbooks; open weights; open-source; OSS
+- **`open-education`** — Open Education — phrases: oer; oers; oep; open content; open courseware; open education; open educational practices; open educational resources; open pedagogy; open textbook; open textbooks
+- **`open-source`** — Open Source — phrases: open models; open source; open weights; open-source; OSS
 - **`technology-acceptance-model`** — Technology Adoption Models — phrases: TAM; adoption model; diffusion of innovation; perceived ease of use; perceived usefulness; technology acceptance; technology acceptance model; technology adoption; technology adoption model; technology organisation environment; technology organization environment; theory of planned behavior; theory of planned behaviour; utaut
 
 ## AI in the disciplines

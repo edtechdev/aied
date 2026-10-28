@@ -281,6 +281,7 @@
 - resource: okstate-ai-oer-case-studies-doers-2026
   reviewed: '2026-10-28'
   hosts:
+  - open-education
   - educational-policy-ai
   - ai-literacy
   reason: 'Each host serves a reader who would use this book and neither duplicates the other. Not

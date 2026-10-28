@@ -25,7 +25,7 @@ ai_assist:
 ---
 AI + OER Case Studies is an open anthology edited by Kathy Essmiller and published by Oklahoma State
 University Libraries in 2026, collecting eleven cases on where [[generative-ai|generative AI]] meets
-open educational resources in higher education. It grew out of a 2025 report for DOERS, Driving OER
+[[open-education|open educational resources]] in higher education. It grew out of a 2025 report for DOERS, Driving OER
 Sustainability for Student Success, a consortium of 45 higher-education systems covering more than
 1,000 colleges.
 

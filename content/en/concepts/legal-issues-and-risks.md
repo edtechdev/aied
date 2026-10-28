@@ -1,7 +1,7 @@
 ---
 title: "Legal Issues and Risks"
 created: "2026-09-18T05:40:00-04:00"
-updated: "2026-10-25T21:20:00-04:00"
+updated: "2026-10-28T18:24:42-04:00"
 type: concept
 foundations: [academic-integrity, reducing-ai-misuse]
 assessment: [ai-detection, assessment-validity, remote-proctoring]
@@ -59,6 +59,10 @@ The evidentiary problem sits underneath it. Detector output is the evidence most
 ### Attacking the automated grader
 
 A different exposure sits inside the instruments themselves. [[humble-prompt-injection-ai-grading-red-team-2026|Humble (2026)]] hid five indirect prompt injections inside the files of a synthetic essay that an institutional [[automated-assessment|AI grading tool]] (Microsoft Copilot, GPT-5.2) had graded as fail on six of six baseline runs. Two strategies raised the grade with no visible warning to the user, at reported attack success rates of 100% (9 of 9 iterations) and 94% (17 of 18), by combining instruction manipulation, role-playing and obfuscation; the tool silently disabled a chat after blocking the simplest attack, and in one iteration announced it would never follow embedded instructions and then raised the grade on each of the next six runs. A grade obtained through a hidden instruction carries no [[assessment-validity|validity]] claim, and the same technique could be used to degrade a submission with no durable trace left in the output — which means the appeal record for a challenged automated decision may be empty, and a finding of misconduct (or of merit) cannot be evidenced from the artifact at all. Humble's sector-level asks are clear [[educational-policy-ai|AI policy]], [[educational-development|professional development]] and standardized, domain-agnostic resilience testing so the attack surface is measured rather than assumed, with restricted AI use and [[human-in-the-loop-ai|human review]] reserved for high-stakes work.
+
+### Ownership and the public-domain question
+
+Copyright is the other legal question in this territory, and it runs in the opposite direction from misconduct. [[tlili-double-edged-sword-oer-generative-ai-2026|Tlili, Farrow, Bozkurt, Amiel, Wiley and Downes (2026)]] read the United States Copyright Office position as treating prompts alone as insufficient for authorship. If that reading holds, a purely machine-generated work is not owned by the person who prompted it, which matters twice: a misconduct case has no authored text to attribute to a student, and an institution publishing that work cannot assert rights over it. Licenses then do the work that ownership would otherwise do, which is why open licensing and academic integrity are one problem seen from two sides.
 
 ### Beyond the campus gate
 
