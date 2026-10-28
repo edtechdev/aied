@@ -278,3 +278,16 @@
     concern AI evaluating vocational outcomes and the high-risk classification of such
     systems. Not listed on professional-training or higher-education pages, which are
     broader than the TVET scope the guide actually covers.'
+- resource: okstate-ai-oer-case-studies-doers-2026
+  reviewed: '2026-10-28'
+  hosts:
+  - educational-policy-ai
+  - ai-literacy
+  reason: 'Each host serves a reader who would use this book and neither duplicates the other. Not
+    listed on open-source: this volume is about open educational resources and open practice, while
+    open-source is about software and model weights, a different subject despite the shared word. The
+    policy page needs worked examples of an institution getting from intent to published guidance,
+    which is what the CUNY and student co-creation chapters are. The AI literacy page needs the staff
+    development case, where a system trains teachers on Gen AI and OER at once. Not listed on
+    change-management, whose reader is further from a chapter that documents a finished decision
+    rather than the change effort itself.'
