@@ -1,7 +1,7 @@
 ---
 title: "How Can AI Assist with Educational Research?"
 created: "2026-10-05T11:23:36-04:00"
-updated: "2026-10-22T09:11:45-04:00"
+updated: "2026-10-28T11:26:02-04:00"
 weight: 72
 type: faq
 connected_faqs: [evaluating-ai-interventions-methods, reporting-interpreting-aied-research, research-gaps-aied, equity-ethics-pedagogical-safety-research]
@@ -22,104 +22,126 @@ ai_assist:
     role: drafting
     date: "2026-10-05"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: revision
+    date: "2026-10-28"
+    agent: hermes-agent
 ---
-AI can take real work out of an educational research project — finding literature, screening thousands of abstracts, drafting analysis code, summarizing open-ended responses, tightening a manuscript. What it cannot do is carry responsibility for what the project concludes. The honest picture, and the one the evidence supports, is a division of labor rather than a handover: assign automation to procedural load, verify every output, and keep the interpretive decisions human ([[scaffolding-systematic-reviews-2026|Wang et al., 2026]]).
 
-This page is about AI as the *instrument* of the research work — search, screening, synthesis, coding, analysis, and writing, including the practitioner inquiry a lecturer runs on their own teaching. Whether a particular AI *intervention* helps learners is a different question, covered by the FAQs linked at the end and by [[ai-assisted-educational-research|AI-Assisted Educational Research]]. Much of what follows is honestly caveat: the evidence base is thin, and several of the failure modes are silent.
+Your co-author wants a paragraph in the methods section about the AI tools the team used. Or the screening pile is longer than the deadline allows. Or a reviewer has asked, politely, whether a person read the transcripts, and you are not sure what the honest answer is.
+
+The short answer for that meeting: AI can take search, a first screening pass, coding triage, and the drafting, and it cannot carry responsibility for what the project concludes. Decide which tasks are open to it before the project starts, verify outputs against a human standard with a named person adjudicating, and log enough that an outsider could reconstruct what happened. Most teams find the verification and logging hours are work added rather than removed.
 
 ## The short version
 
-**1.** Decide in writing which research tasks may use AI and which may not, before the project starts. Researchers in [[dai-chan-responsible-genai-research-ai-literacy-2026|Dai and Chan's (2026) focus-group study]] calibrated use by stakes and intellectual centrality rather than by blanket permission — heavier on low-stakes procedural work, cautious where the scholarly contribution was central.
+**1.** Write down which research tasks may use AI and which may not, before the first search runs. Sort by stakes rather than by tool.
 
-**2.** Keep automation on the procedural burden. Screening is where it helps most; data extraction, reconciliation, and synthesis stayed with human reviewers in the one team that reported its workflow ([[scaffolding-systematic-reviews-2026|Wang et al., 2026]]).
+**2.** Put the automation on screening. Keep data extraction, reconciliation, and synthesis with people.
 
-**3.** Verify every output against a human standard, and say who did the adjudicating. Agreement between a model and a human coder — or between two models — is a similarity measure, not evidence that the coding is right ([[agreement-not-quality-llm-coding-verification]]).
+**3.** Settle the codebook and the rubric before an automated pass touches the data.
 
-**4.** Fix your rubrics and codebooks before the automated analysis runs; constructs, coding rubrics, and training data are human decisions, not model outputs ([[ai-methodologies-science-education-research-2026|Martin et al., 2026]]).
+**4.** Decide what verification means and who signs it. Agreement between a model and a coder is a similarity measure, not a quality result.
 
-**5.** Verify every reference you cite by hand, especially author fields, when AI touched the writing ([[citation-errors-hallucinations-computing-education-2026|Denny et al., 2026]]).
+**5.** Verify every reference by hand, authors first, whenever AI touched the writing.
 
-**6.** Log prompts, model versions, and corpus versions, disclose the AI's role, and budget time for verification and documentation — for most teams this is work *added*, not removed.
+**6.** Log prompts, model versions, and corpus versions, and budget the hours for it.
 
-## Where AI genuinely saves work — and where it adds it
+## Decide what AI may touch before the project starts
 
-### Literature search and retrieval
+The scope decision belongs in the project file rather than in someone's memory. In [[dai-chan-responsible-genai-research-ai-literacy-2026|Dai and Chan's (2026) focus-group study]], researchers who had thought about it calibrated use by stakes and intellectual centrality: heavier on low-stakes procedural work, cautious where the scholarly contribution was central. Twenty-seven of the 28 postgraduate researchers in that study had used GenAI somewhere in the workflow, including academic writing and translation, so for most teams the question is where the line sits rather than whether one exists.
 
-Generative search summarizes, recommends, synthesizes, and converses, which unsettles the assumption that the system finds sources while interpretation stays with the reader ([[genai-academic-search-workshop]]). It is a fast way to *locate* candidate literature. Two cautions from that workshop: capability is uneven — highly cited scholars were reconstructed at roughly twice the rate of lower-cited peers — and a librarian reported a trust gap in which students over-trusted generative search while faculty distrusted it. Use it for discovery, then verify each source yourself.
+Write the line as a list with a verdict for each task: literature search, abstract screening, extraction, qualitative coding, statistical analysis, drafting, reference formatting. Read that study as a map of what researchers reported doing. It is a focus-group account, not an effectiveness result.
 
-### Screening and systematic reviews
+## Put the automation on screening and keep synthesis in the team
 
-Systematic reviews are where automation has advanced furthest. Tools such as ASReview, SWIFT-Review, Covidence, AIScreenR, and MetaMate reduced the procedural burden mainly at abstract screening, while extraction and synthesis stayed human ([[scaffolding-systematic-reviews-2026|Wang et al., 2026]]). Write decision rules for gray-area cases before screening starts, keep "maybe" categories, and record every adjudication in a shared log so the same judgment is applied consistently.
+Systematic reviews are where automation has advanced furthest. Tools such as ASReview, SWIFT-Review, Covidence, AIScreenR, and MetaMate cut the procedural burden mainly at abstract screening, while data extraction, reconciliation, and synthesis stayed with human reviewers in the one team that reported its workflow ([[scaffolding-systematic-reviews-2026|Wang et al., 2026]]).
 
-### Qualitative coding and analysis
+Most of the benefit comes from two design decisions. Write decision rules for gray-area cases before screening starts, and keep a "maybe" category with a shared adjudication log so the same judgment gets applied to the same kind of record. Without the log, the second reviewer's rule and the first reviewer's rule diverge quietly, and the exclusion list stops being reproducible.
 
-[[qualitative-research|Qualitative analysis]] is the stage where interpretation *is* the product. AI can scale a first pass over open responses, but it shifts your role from coding to validating the model's outputs, and it changes the skills the task requires ([[ai-methodologies-science-education-research-2026|Martin et al., 2026]]). Delegate by code rather than wholesale: [[agreement-not-quality-llm-coding-verification|one blind-verification study]] classified 15 of 72 codebook items as demonstrably requiring human expertise, 12 as better served by a model, and 16 as suited to confidence-based triage.
+## Fix the codebook before the model reads anything
 
-### Data analysis
+[[qualitative-research|Qualitative analysis]] is the stage where interpretation is the product. Constructs, coding rubrics, and training data are human decisions rather than model outputs ([[ai-methodologies-science-education-research-2026|Martin et al., 2026]]), which means the codebook has to be settled before an automated pass runs over the corpus. The alternative is a coding scheme written around what the model happened to surface, and the themes then describe the tool's reading of your data.
 
-Automated measurement functions can look precise and predictive while remaining opaque, which is why explainable AI matters here: it can reveal whether a model tracks semantic understanding or only keywords ([[ai-methodologies-science-education-research-2026|Martin et al., 2026]]). Treat any automated score as a hypothesis to validate against a measure tied to the capability you intend to study. For the measures themselves, see [[evaluating-ai-interventions-methods]].
+Delegation can be finer-grained than all-or-nothing. [[agreement-not-quality-llm-coding-verification|One blind-verification study]] classified 15 of 72 codebook items as demonstrably requiring human expertise, 12 as better served by a model, and 16 as suited to confidence-based triage. Sort your own items that way and the labor saving lands where it is safe.
 
-### Writing, citation, and editing
+## Decide what verification means and who signs it
 
-Drafting, structuring, and editing are where most researchers already use these tools — 27 of 28 postgraduate researchers in [[dai-chan-responsible-genai-research-ai-literacy-2026|Dai and Chan (2026)]] used GenAI somewhere across the workflow, including academic writing and translation. The one non-negotiable step is reference verification.
+High agreement between a model and a human coder gets reported as if it established correctness. It does not. [[agreement-not-quality-llm-coding-verification|Liu et al. (2026)]] had an independent expert judge 855 pairwise code sets blind to source. Human-LLM agreement (mean Jaccard 0.30) sat well below human-human agreement (0.52), yet the blind verifier preferred human and machine coding at rates it could not distinguish (51.5% against 48.5%, p = 0.537). In some cases human consensus encoded a shared bias the verifier rejected in favor of the model.
 
-### Running the workflow: logs, disclosure, and effort budget
+So the verification step needs a gold standard that is neither the model's output nor the coder's agreement with it, plus a named person who adjudicated the disagreements. Report both. A similarity statistic describes how closely two readings match, and it says nothing about whether either reading is right.
 
-[[persistent-ai-agents-academic-research|A 115-day, single-investigator case study]] of a persistent research agent found the strongest pattern was capacity expansion rather than proven labor substitution: as memory and procedures accumulated, the scope of delegated work grew rather than the human's input shrinking. That is the realistic expectation. Keep prompt-and-response logs and corpus versions — a fluent generated theme list looks inevitable long before its evidentiary work has begun ([[chain-behind-claim-warrantability-2026|Holster, 2026]]) — and disclose the AI's role as a pathway, not a checkbox.
+## Search fast, then check every source yourself
 
-## Practical advice for practitioner-researchers
+Generative search summarizes, recommends, synthesizes, and converses, which unsettles the older arrangement in which the system locates and the reader interprets ([[genai-academic-search-workshop]]). Treat it as a discovery tool. The workshop report carries two cautions: capability is uneven, with highly cited scholars reconstructed at roughly twice the rate of lower-cited peers, and a librarian described a trust gap in which students over-trusted generative search while faculty distrusted it.
 
-The scholarship of teaching and learning and classroom inquiry — a teacher studying their own course, often at small scale — are the corpus's thinnest strand. [[ai-assisted-educational-research|AI-Assisted Educational Research]] states this as a gap rather than a finding: AI-assisted practitioner inquiry is plausibly widespread and almost undocumented, and the review-automation and bibliometric evidence does not settle how a lecturer should study their own teaching. What carries across is a disposition rather than a result.
+Reference verification is where this becomes non-negotiable, and the failures cluster in the author field, the one that carries credit. [[citation-errors-hallucinations-computing-education-2026|Denny et al. (2026)]] audited 723,930 publications and 15,872,533 references and verified 30 fabricated references across 14 computing-education papers, all from 2025 and 2026. Seventeen of the 30 were hybrids: a real title attached to fabricated or incorrect authors. The verified count at one technical symposium rose from 3 in 2025 to 17 in 2026, in 2.3% of that year's proceedings papers. Their total is a deliberate lower bound, and automated checkers inherit the flaws of the metadata they treat as ground truth. Check authors first.
 
-**1.** Use AI where your local setting is not the variable: searching your field's literature, transcribing and summarizing your own recordings, and drafting instruments or consent language.
+## Treat an automated score as a hypothesis to test
 
-**2.** Keep the interpretive moves — what counts as a theme, what a student's comment means, what your classroom evidence warrants — your own, and say in the write-up which moves the model made and which you made ([[chain-behind-claim-warrantability-2026|Holster, 2026]]).
+Automated measurement functions can look precise and predictive while remaining opaque. [[ai-methodologies-science-education-research-2026|Martin et al.]] frame this with Chang's nomic-measurement problem: measuring a quantity requires a law relating it to something observable, and that law cannot be tested without already knowing the quantity. AI-derived measurement functions emerge from training data and optimization rather than from the researcher, so explainability work matters for showing whether a model tracks semantic understanding or only keywords.
 
-**3.** Predefine your criteria and keep them visible, because a small local study cannot recover from a construct defined after the data arrived.
+The failure is concrete. In [[zhang-platform-scores-miss-ai-teaching-agents-2026|an evaluation of eight AI teaching agents]], the agent ranked third by the platform's own score ranked last on an expert-validated rubric. Human-machine disagreement is systematic rather than random, and rubric operationalization often matters more than prompt craftsmanship ([[machines-misread-pedagogical-quality|Tseng et al., 2026]]). Before an automated score becomes your instrument, validate it against a measure tied to the capability you intend to study. For the measures themselves, see [[evaluating-ai-interventions-methods]].
 
-**4.** Report the AI's role, the verification you did, and the limits of a single-course, single-investigator design. Do not present a workflow account as if it were an efficacy result.
+## Write the method section so an outsider can audit it
 
-**5.** Treat simulating a cohort as an advanced option rather than a default: simulated learners tend to cover the easiest quadrant of real student behavior and are rarely validated after use ([[simulating-students]]). See [[making-simulated-students-behave-like-learners]] before trusting a simulator's verdict.
+Adoption has run ahead of reporting. [[prisma-llm-ai-assisted-systematic-reviews-2026|Zabaleta and Lin (2026)]] analyzed 888 review-automation papers: since 2023, 38.0% of software and product papers reported no evaluation at all, against 9.3% of LLM papers, and model access was overwhelmingly proprietary (84.1%). A favorable overall assessment did not imply fitness for delegation either, since 52% of 118 positive-only LLM papers still reported a concern that the workflow fell below the bar required for its role. Their PRISMA-LLM framework separates implementation disclosure from consequence-sensitive evaluation and treats its five levels as disclosure tiers rather than risk tiers.
 
-## Caveats and issues to consider
+The practical version: name the system and its version, the prompts, the corpus version, what a human checked, and where it failed. Keep prompt-and-response logs, because a fluent generated theme list looks inevitable long before its evidentiary work has begun ([[chain-behind-claim-warrantability-2026|Holster, 2026]]).
 
-### Fabricated references and citation errors
+Budget the hours as well. [[persistent-ai-agents-academic-research|A 115-day, single-investigator case study]] of a persistent research agent found the strongest pattern was capacity expansion rather than proven labor substitution: as memory and procedures accumulated, the scope of delegated work grew while the human's input did not shrink.
 
-AI-assisted drafting makes a plausible invented citation cheap to produce, and the failures are disproportionately in author fields — the field that carries credit. In an audit of 723,930 publications and 15,872,533 references, [[citation-errors-hallucinations-computing-education-2026|Denny et al. (2026)]] verified 30 fabricated references across 14 computing-education papers, all from 2025 and 2026; 17 of the 30 were hybrids pairing a real title with fabricated or incorrect authors, and the verified count at one technical symposium rose from 3 in 2025 to 17 in 2026, appearing in 2.3% of that year's proceedings papers. Their count is a deliberate lower bound, and automated checkers inherit the flaws of the metadata they treat as ground truth. Verify every citation yourself, and check authors first.
+## Run practitioner inquiry with the same rules at smaller scale
 
-### The reporting and auditing gap
+If you are a lecturer studying your own course, you are working in the corpus's thinnest strand. [[ai-assisted-educational-research|AI-Assisted Educational Research]] states this as a gap rather than a finding: AI-assisted practitioner inquiry is plausibly widespread and almost undocumented, and the review-automation and bibliometric evidence does not settle how a lecturer should study their own teaching.
 
-Adoption has run ahead of reporting. [[prisma-llm-ai-assisted-systematic-reviews-2026|Zabaleta and Lin (2026)]] analyzed 888 review-automation papers: since 2023, 38.0% of software and product papers reported no evaluation at all, against 9.3% of LLM papers, and model access was overwhelmingly proprietary (84.1%). Even a favorable overall assessment did not imply fitness for delegation — 52% of 118 positive-only LLM papers still reported a concern that the workflow fell below the bar required for its role. Their framework, PRISMA-LLM, separates implementation disclosure from consequence-sensitive evaluation, and treats its five levels as disclosure tiers rather than risk tiers. The practical takeaway is that a workflow's evaluation depth should be *stated*, not assumed: name the system, version, prompts, what humans checked, and where it failed.
+What carries across is a set of dispositions:
 
-### Agreement is not evidence of quality
+Use AI where your local setting is not the variable. Searching your field's literature, transcribing and summarizing your own recordings, and drafting instruments or consent language all qualify.
 
-High agreement with human coders — or between two models — is routinely reported as if it established correctness. It does not. [[agreement-not-quality-llm-coding-verification|Liu et al. (2026)]] had an independent expert judge 855 pairwise code sets blind to source: human–LLM agreement (mean Jaccard 0.30) fell well below human–human agreement (0.52), yet the blind verifier preferred human and machine coding at indistinguishable rates (51.5% vs 48.5%, p = 0.537). Sometimes human consensus encoded shared bias the verifier rejected in favor of the model. Adopt blind verification, report the gold standard and who adjudicated, and route by code rather than treating the pipeline as one uniform human-review setting.
+Keep the interpretive moves. What counts as a theme, what a student's comment means, and what your classroom evidence warrants are yours to make, and the write-up should say which moves the model made and which you made ([[chain-behind-claim-warrantability-2026|Holster, 2026]]).
 
-### Construct validity when an automated measure becomes an instrument
+Predefine your criteria and keep them visible. A small local study cannot recover from a construct defined after the data arrived.
 
-When a model's output *becomes* the research instrument, the measurement question is a construct-validity question. [[ai-methodologies-science-education-research-2026|Martin et al. (2026)]] frame this with Chang's nomic-measurement problem: measuring a quantity requires a law relating it to something observable, yet that law cannot be tested without already knowing the quantity. AI-derived measurement functions emerge from training data and optimization rather than from the researcher, so they can look precise while remaining opaque — and comparability has to extend across student populations, because machine learning tends to code canonical ideas better than the diverse ways students express weaker ones. A convenient automated score can also index the wrong construct: in [[zhang-platform-scores-miss-ai-teaching-agents-2026|an evaluation of eight AI teaching agents]], the agent ranked third by the platform's own score ranked last on an expert-validated rubric. Human–machine disagreement is systematic rather than random, and rubric operationalization often matters more than prompt craftsmanship ([[machines-misread-pedagogical-quality|Tseng et al., 2026]]).
+Report the AI's role, the verification you did, and the limits of a single-course, single-investigator design. A workflow account is not an efficacy result.
 
-### You remain accountable for the interpretation
+Treat simulating a cohort as an advanced option rather than a default. Simulated learners tend to cover the easiest quadrant of real student behavior and are rarely validated after use ([[simulating-students]]). Read [[making-simulated-students-behave-like-learners]] before you trust a simulator's verdict.
 
-Someone must be answerable for an excluded study, a coded theme, or a prevalence claim. Pre-trained models add a layer of epistemic dependence — their training data, fine-tuning, and objectives may be unknown — and because they emerge from socio-technical networks, responsibility becomes hard to allocate, a "many-hands problem" ([[ai-methodologies-science-education-research-2026|Martin et al., 2026]]). Naming the AI's role in the methods is part of the answer, but it does not transfer the accountability. Keep the interpretive pathway inspectable, contestable, and revisable ([[chain-behind-claim-warrantability-2026|Holster, 2026]]), and keep a named human accountable for each consequential decision.
+## What researchers get wrong about this
 
-### Privacy and consent for student data in third-party tools
+Agreement with a human coder means the coding is right. Human-LLM agreement in the blind study was 0.30 Jaccard against 0.52 for human-human, and the blind verifier could not tell the two coding sources apart at 51.5% against 48.5%. Agreement records that two readers converged, including when they converged on the same bias.
 
-Classroom and student data run through third-party tools carry consent, governance, and confidentiality obligations that precede any efficiency argument. [[prisma-llm-ai-assisted-systematic-reviews-2026|Zabaleta and Lin (2026)]] found model access was overwhelmingly proprietary (84.1%), which means student text typically leaves your institution. Collect only what the educational purpose needs, make the tool's data use and limitations transparent, check whether learner data trains the vendor's models, and prefer local or synthetic data where sensitivity is high. The full treatment of these obligations — along with equity, accessibility, and pedagogical safety — is in [[equity-ethics-pedagogical-safety-research]].
+A reference checker replaces checking references. The 30 fabricated references in the Denny audit include 17 hybrids where the title was real and the authors were not, which is exactly the case a checker trained on metadata handles worst, since the metadata is the thing that is wrong.
 
-## What the evidence does not yet establish
+A favorable evaluation makes a workflow fit for your role. Of 118 positive-only LLM papers, 52% still reported a concern that the workflow fell below the bar its role required. Read the depth of the evaluation against the job you are giving it.
 
-- **No head-to-head comparison.** The anchor work poses the comparison between AI-assisted and traditional methods as future work; no study here shows that an AI methodology yields more valid conclusions ([[ai-methodologies-science-education-research-2026|Martin et al., 2026]]).
-- **Thin designs throughout.** The evidence is a framework proposal, one team's reflective account, a workshop report, a focus-group study, and observational bibliometrics — not a controlled trial of an AI-assisted method. The role-shift and capacity-expansion claims come from single-site, single-investigator accounts.
-- **A reporting gap, not an audit of practice.** PRISMA-LLM reads paper-level silence; a workflow with no evaluation in its paper may still be validated in a product report, protocol, or repository.
-- **Practitioner research is under-represented.** The corpus cannot ground claims about how teachers should use AI to study their own practice.
-- **The tools are a moving target.** A finding about a 2025 workflow describes a generation of systems that may no longer exist in that form, so reproducibility has to be tied to a model version and date.
+Prompt craft is the main lever on quality. Rubric operationalization often matters more than prompt craftsmanship in human-machine agreement, and the eight-agent evaluation ranked the same system third and last depending on whose rubric was applied.
 
-## Related questions
+AI takes work out of the project. The 115-day case study found delegated scope growing as the agent's memory accumulated. Verification, adjudication, and logging are the hours that grow with it.
 
-- [[evaluating-ai-interventions-methods|What measures and research methods can an instructor use to evaluate AI-related interventions?]] — the method-design question that AI-assisted workflows depend on
-- [[reporting-interpreting-aied-research|What are best practices for reporting and interpreting AI in education research?]] — how to report the AI system, the measure, and your own AI use
-- [[research-gaps-aied|What are notable gaps in the research literature on AI in education?]] — where the evidence is missing or weak
-- [[equity-ethics-pedagogical-safety-research|How should AI in education research incorporate equity, accessibility, privacy, ethics, and pedagogical safety?]] — the obligations around student data and safety
-- [[ai-assisted-educational-research]] — the full concept page on AI as the instrument of the research work
-- [[making-simulated-students-behave-like-learners|How do we make a simulated student behave like a real learner?]] — before using a simulator as a research instrument
+## What will come back at you
+
+**"My co-author already does this and nobody has complained."** Nobody complaining is not a finding about validity. The disclosure question is separate from the quality question, and the 38.0% figure for unevaluated software papers says the field's silence is widespread.
+
+**"Two models agreed with each other, so the coding is settled."** Two models sharing training data share their errors. The Liu study's blind verifier preferred machine coding at 48.5%, and what made that number interpretable was an independent judge, not the agreement itself.
+
+**"We cannot audit a proprietary model, so there is nothing to report."** PRISMA-LLM asks for implementation disclosure as a tier separate from evaluation depth. System, version, prompts, what humans checked, and where it failed are all reportable for a closed model.
+
+**"The ethics committee will never approve this."** Model access was proprietary in 84.1% of the papers examined, which means student text typically leaves your institution. Collect only what the educational purpose needs, check whether learner data trains the vendor's models, and prefer local or synthetic data where sensitivity is high. [[equity-ethics-pedagogical-safety-research]] covers the obligations in full.
+
+**"This will be slower than doing it by hand."** For a small project it often is. The case for it rests on scope at scale, and the case against overstating it rests on the same 115-day account.
+
+## What to do this week
+
+**1.** Write the task list with a verdict beside each item, and put it where the whole team can see it.
+
+**2.** Add the gray-area decision rules and the adjudication log to your screening protocol before the next batch starts.
+
+**3.** Pick one automated output you already rely on and validate it against a human judgment on a sample you have not looked at yet.
+
+**4.** Read the last manuscript you submitted and check every author name in the reference list by hand.
+
+**5.** Add a "where the AI failed" line to your methods template, so the disclosure habit is written down once.
+
+## Where to go next
+
+The companion questions are [[evaluating-ai-interventions-methods]] on how to measure an intervention, [[reporting-interpreting-aied-research]] on reporting the system and your own AI use, and [[research-gaps-aied]] on where the literature is thin. [[equity-ethics-pedagogical-safety-research]] covers student data, and [[ai-assisted-educational-research]] is the full concept page behind this one.
