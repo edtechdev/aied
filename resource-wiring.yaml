@@ -269,3 +269,12 @@
     writing, and special education supports. It is listed on the subject pages whose readers would use
     those apps and on the two pages about choosing software, not on music, vocational or humanities pages,
     which one app each does not justify.'
+- resource: unesco-2026-integrating-ai-in-tvet-guide
+  reviewed: '2026-10-28'
+  hosts:
+  - vocational-education
+  reason: 'Listed on vocational-education, the concept the guide exists to serve: it is
+    addressed to institutions that train skilled workers, and that page''s own questions
+    concern AI evaluating vocational outcomes and the high-risk classification of such
+    systems. Not listed on professional-training or higher-education pages, which are
+    broader than the TVET scope the guide actually covers.'
