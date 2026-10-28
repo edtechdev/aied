@@ -27,7 +27,7 @@ ai_assist:
     agent: hermes-agent
 ---
 
-> Asking a [[generative-ai|generative AI]] system to explain itself is not transparency: the explanation is produced by the same process it is meant to expose, and chain-of-thought has been shown to be unfaithful. This paper proposes an external measurement layer instead. Filtered Decision Logs pair each answer with a short rationale, an influence-ordered list of the tool outputs that shaped it, and relevance indicators, all computed by a deterministic pipeline that rebuilds observability telemetry into a provenance tree and scores evidence with four semantic and structural signals. Users can then exclude a source and re-run. Across three scenarios — career advising, investment analysis and travel planning — counterfactual tool removal tracked the ranking, and 50 participants in a formative evaluation approved the mechanism at 92%.
+> **Synthesis:** Asking a [[generative-ai|generative AI]] system to explain itself is not transparency: the explanation is produced by the same process it is meant to expose, and chain-of-thought has been shown to be unfaithful. This paper proposes an external measurement layer instead. Filtered Decision Logs pair each answer with a short rationale, an influence-ordered list of the tool outputs that shaped it, and relevance indicators, all computed by a deterministic pipeline that rebuilds observability telemetry into a provenance tree and scores evidence with four semantic and structural signals. Users can then exclude a source and re-run. Across three scenarios — career advising, investment analysis and travel planning — counterfactual tool removal tracked the ranking, and 50 participants in a formative evaluation approved the mechanism at 92%.
 
 ## Key Findings
 

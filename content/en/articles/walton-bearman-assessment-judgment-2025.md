@@ -14,11 +14,12 @@ sources: ['raw/papers/walton-bearman-assessment-judgment-2025.md']
 confidence: high
 ---
 
+> **Synthesis:** A [[qualitative-research|qualitative]], [[multimodal]] interview study reconstructing judgment from students' own GenAI traces, showing that working with GenAI on assessment is a continuous act of judgment: about the tool's knowledge, about its limits, and, most consequentially, about what the student themselves contributed.
+
 Walton, Bearman, Crawford, Tai and Boud (2025) ask how university students exercise judgment while working with [[generative-ai|generative AI]] on [[assessment]] tasks. They conducted **26 interviews** with undergraduates at one large Australian university, mainly using a scroll-back approach that revisits traces of students' historical GenAI interactions, then analyzed the material with a holistic definition of judgment and narrative analysis.
 
 The paper shifts the question from whether students use GenAI to how they judge their way through it. Treating the judgment event as the unit of analysis, the authors interpret **six categories of judgment events**, from critically weighing GenAI's knowledge claims to copy-pasting outputs without judging them; judging GenAI, they conclude, is inseparable from judging one's own knowledge, deficits and contributions.
 
-> **Synthesis:** A [[qualitative-research|qualitative]], [[multimodal]] interview study reconstructing judgment from students' own GenAI traces, showing that working with GenAI on assessment is a continuous act of judgment — about the tool's knowledge, about its limits, and, most consequentially, about what the student themselves contributed.
 
 ## Key Findings
 

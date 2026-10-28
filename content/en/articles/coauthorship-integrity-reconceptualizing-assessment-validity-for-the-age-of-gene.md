@@ -13,11 +13,12 @@ audience: [assessment designers, assessment professionals, instructors]
 level: [higher ed]
 ---
 
+> **Synthesis:** The paper reframes [[ai-detection]] as a [[assessment-validity]] question: when authorship is uncertain, the evidentiary basis for every other validity source is compromised. Coauthorship Integrity asks whether the student is the epistemic agent behind the submitted ideas, a proposition the authors argue is logically prior to the five AERA sources, which assume the test taker authored the response. The AI Viva is a proof-of-concept mechanism for eliciting response-process evidence at scale, not a summative solution.
+
 Ebrahimzadeh, Shibani, and Buckingham Shum argue that when AI support for academic work is ubiquitous and often undetectable, assessment integrity must be reframed from a provenance problem (who wrote the text?) to a validity problem (what can justifiably be inferred from the evidence?). Written artifacts were trusted as proxies for the cognitive processes behind them; capable [[llm]]s break that link.
 
 Using the assessment validity framework of the *Standards for Educational and Psychological Testing* (AERA et al., 2014), the authors show that [[generative-ai|GenAI]] undermines multiple forms of validity evidence, then propose **Coauthorship Integrity** — violated when students submit AI-generated content they do not understand — as a new conceptual source of validity evidence. Their **"AI Viva"** prototype, a [[conversational-ai|conversational agent]], combines elements of a viva voce with comprehension questions of controllable type and complexity, quantitative and dialogic [[feedback]], and an open-ended closing dialogue.
 
-> **Synthesis:** The paper reframes [[ai-detection]] as a [[assessment-validity]] question: when authorship is uncertain, the evidentiary basis for every other validity source is compromised. Coauthorship Integrity asks whether the student is the epistemic agent behind the submitted ideas — a proposition the authors argue is logically prior to the five AERA sources, which assume the test taker authored the response. The AI Viva is a proof-of-concept mechanism for eliciting response-process evidence at scale, not a summative solution.
 
 ## Key Findings
 

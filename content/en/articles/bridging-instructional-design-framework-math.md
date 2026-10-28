@@ -15,11 +15,12 @@ page_kind: [framework]
 sources: ['raw/papers/2606.20934.md']
 ---
 
+> **Synthesis:** The contribution is a translation layer, not a system: constructivist, sociocultural, meaningful-learning, APOS, and semiotic-representation principles become four metadata variables: Mathematical Content Addressed, Prior Knowledge Requirements, Predominant Representation, and Type of Conceptual Construction. The backing [[meta-analysis-systematic-review|literature review]] screened 276 records, reviewed 33 in full text, and retained 14, finding theory use at justification and analytical levels and none at operational implementation. The framework sits between theory and practice, informing but not replacing [[teacher-role|teacher]] judgment, and is unevaluated in real contexts.
+
 This work-in-progress paper argues that the growing supply of digital [[math-education|mathematics]] resources does not by itself improve learning outcomes: their impact depends on selection and integration processes that often lack explicit pedagogical criteria. [[learning-theories]] are used as frameworks for justification, analysis, or design, the authors find, but are rarely operationalized into functional components of technological systems — so the decisions fall on teachers.
 
 Castillo Ventura, Solis Lastra, and Alves Franco Brandão propose a framework for the pedagogical characterization of digital resources in high school mathematics, translating learning theory principles into observable pedagogical variables structured as metadata across four dimensions: conceptual structure of the content, theoretical–pedagogical alignment, resource conditions, and teacher mediation. As a WIP contribution, only the first is developed here.
 
-> **Synthesis:** The contribution is a translation layer, not a system: constructivist, sociocultural, meaningful-learning, APOS, and semiotic-representation principles become four metadata variables — Mathematical Content Addressed, Prior Knowledge Requirements, Predominant Representation, and Type of Conceptual Construction. The backing [[meta-analysis-systematic-review|literature review]] screened 276 records, reviewed 33 in full text, and retained 14, finding theory use at justification and analytical levels and none at operational implementation. The framework sits between theory and practice, informing but not replacing [[teacher-role|teacher]] judgment, and is unevaluated in real contexts.
 
 ## Key Findings
 

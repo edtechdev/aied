@@ -52,7 +52,7 @@ Standards-based grading is the assessment counterpart to mastery learning, and [
 
 **"A mastery threshold is an objective property of the learner."** The threshold is a property of the *rule* used to update it. [[crediting-assisted-work-inflates-mastery-2026|Srivastava (2026)]] ran **four update rules over identical event sequences** from the ASSISTments dataset, and the rules disagree about who is ready. Mastery is therefore a decision recorded in a number, not a fact discovered about a student, and the rule should be treated as a stated policy rather than an implementation detail.
 
-**"If the system says mastered, the student is ready to advance."** Only relative to the update rule in force. Where a rule credits assisted work, "mastered" can describe a student who has succeeded with support and not independently — the same divergence between assisted performance and unassisted capability that the [[learning-gains|learning-gains]] literature documents.
+**"If the system says mastered, the student is ready to advance."** Only relative to the update rule in force. Where a rule credits assisted work, "mastered" can describe a student who has succeeded with support and not independently — the same divergence between assisted performance and unassisted capability that the [[learning-gains]] literature documents.
 
 **"Mastery learning is the pedagogy AI finally makes possible."** Its mechanics predate AI considerably — Bloom formalised the framework decades ago — and AI operationalises it by automating the assessment and pacing decisions rather than by realising a previously impossible design. That reframing matters because the automation inherits the rule choice, and the rule is where the judgement lives.
 

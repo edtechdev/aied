@@ -14,11 +14,12 @@ confidence: high
 sources: ['raw/papers/2606.07545.md']
 ---
 
+> **Synthesis:** As [[generative-ai]] automates implementation-level programming, debugging, testing, and documentation, this report argues that CS curricula must pivot toward specifying, verifying, and taking responsibility for AI-generated systems. From 30 faculty and industry practitioners and 60 students, it identifies abstraction, [[computational-thinking]], and the "verification spectrum" as durable graduate competencies, and proposes embedding AI-native skills as sequenced "Breadcrumbs" across all four years.
+
 This white paper reports two international NUS-Google Workshops in Singapore, organized by the AI4SG Lab at the NUS School of Computing with Google. A three-day faculty workshop in November 2025 drew 30 attendees — CS faculty and industry practitioners from North America, Asia, Europe, and Oceania — and a one-day student workshop in January 2026 drew 60 participants, including students and recent graduates, in eight working groups. The authors frame the report as a strategic response rather than an empirical study.
 
 The central argument is that post-secondary [[cs-education]] was built on an assumption of code scarcity, which [[generative-ai]] dissolves. If AI occupies the functional role of a junior engineer, the apprenticeship in which graduates built expertise by doing exactly those tasks is disrupted; the proposed shift is toward specifying and verifying AI-generated artifacts.
 
-> **Synthesis:** As [[generative-ai]] automates implementation-level programming, debugging, testing, and documentation, this report argues that CS curricula must pivot toward specifying, verifying, and taking responsibility for AI-generated systems. From 30 faculty and industry practitioners and 60 students, it identifies abstraction, [[computational-thinking]], and the "verification spectrum" as durable graduate competencies, and proposes embedding AI-native skills as sequenced "Breadcrumbs" across all four years.
 
 ## Key Findings
 

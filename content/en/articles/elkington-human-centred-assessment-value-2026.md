@@ -31,7 +31,7 @@ ai_assist:
     agent: hermes-agent
 ---
 
-> Assessment in higher education has been responding to [[generative-ai|generative AI]] with tighter [[regulation]] and stronger [[ai-detection|detection]], a solutionist reflex that misreads a wicked problem as a technical one. Elkington argues that assessment should be reconceived as a sociomaterial assemblage of people, tools, spaces and norms, and offers three design vocabularies, assemblage thinking, participatory [[authentic-assessment|multimodal assessment]] and generative constraints, for keeping judgment, meaning making and relational work at the center.
+> **Synthesis:** Assessment in higher education has been responding to [[generative-ai|generative AI]] with tighter [[regulation]] and stronger [[ai-detection|detection]], a solutionist reflex that misreads a wicked problem as a technical one. Elkington argues that assessment should be reconceived as a sociomaterial assemblage of people, tools, spaces and norms, and offers three design vocabularies, assemblage thinking, participatory [[authentic-assessment|multimodal assessment]] and generative constraints, for keeping judgment, meaning making and relational work at the center.
 
 ## Key Findings
 

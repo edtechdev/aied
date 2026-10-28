@@ -16,11 +16,12 @@ sources: ['raw/papers/2606.08936.md']
 institutions: [educational-policy-ai]
 ---
 
+> **Synthesis:** This report maps an early research agenda, not measured outcomes. Its three clusters (foundations and principles, applications and opportunities, and search-as-learning) converge on one worry: GenAI search optimizes efficiency while absorbing the interpretive work through which people learn. The classroom-relevant thread is search-as-learning and its notion of "friction," asking which (meta)cognitive processes should not be offloaded, a question tied to [[ai-literacy]], [[critical-thinking]], [[cognitive-offloading]], [[scaffolding]], and [[self-regulated-learning]].
+
 The CHIIR 2026 Workshop on Generative AI and Academic Search (GAI&AS) was held on 26 March 2026; its report, by Yifan Liu, Jaime Arguello, Orland Hoeber and colleagues, appears in *ACM SIGIR Forum*. It gathered researchers in human information interaction and retrieval to examine how [[generative-ai]] is reshaping academic search and scholarly practice.
 
 The organizers' premise was that systems built for document retrieval now also summarize, recommend, synthesize, and converse, unsettling the assumption that the system locates sources while interpretation stays with the user. Because scholarship depends on traceability and credibility, academic search became a lens for revisiting learning, cognitive effort, and agency.
 
-> **Synthesis:** This report maps an early research agenda, not measured outcomes. Its three clusters — foundations and principles, applications and opportunities, and search-as-learning — converge on one worry: GenAI search optimizes efficiency while absorbing the interpretive work through which people learn. The classroom-relevant thread is search-as-learning and its notion of "friction," asking which (meta)cognitive processes should not be offloaded — a question tied to [[ai-literacy]], [[critical-thinking]], [[cognitive-offloading]], [[scaffolding]], and [[self-regulated-learning]].
 
 ## Key Findings
 

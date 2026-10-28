@@ -31,7 +31,7 @@ ai_assist:
     agent: hermes-agent
 ---
 
-> [[vocational-education|Career and technical education]] does not become current by adding [[generative-ai|generative AI]] assignments to courses it already offers. Wang argues that AI compresses the useful life of a curriculum, which moves the governing question from whether a course can still be scheduled to whether its inclusion can be justified by contemporary occupational knowledge, degree-level rigor, and external evidence. The Adaptive CTE Renewal Framework answers that with four foundations, five dimensions, six leadership tests, and three institutional states, and it replaces periodic program review with continuous curriculum intelligence.
+> **Synthesis:** [[vocational-education|Career and technical education]] does not become current by adding [[generative-ai|generative AI]] assignments to courses it already offers. Wang argues that AI compresses the useful life of a curriculum, which moves the governing question from whether a course can still be scheduled to whether its inclusion can be justified by contemporary occupational knowledge, degree-level rigor, and external evidence. The Adaptive CTE Renewal Framework answers that with four foundations, five dimensions, six leadership tests, and three institutional states, and it replaces periodic program review with continuous curriculum intelligence.
 
 ## Key Findings
 

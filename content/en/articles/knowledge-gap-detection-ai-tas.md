@@ -14,9 +14,10 @@ page_kind: [evaluation]
 sources: ['raw/papers/2606.10736.md']
 ---
 
+> **Synthesis:** Rather than demanding an item bank or per-question correctness judgment, this work mines a byproduct that already exists (help-seeking behavior toward a [[conversational-ai|conversational AI]] teaching assistant) and maps it onto instructor-auditable curriculum structure. The parts are modest individually (GPT-4 extraction, a FastFit classifier, a survey correlation); the assembled argument is that aggregate question volume is a usable proxy for where a cohort struggles, and that the prerequisite graph becomes a diagnostic scaffold rather than a design artifact.
+
 Large online courses field thousands of questions to conversational AI teaching assistants, yet those logs are rarely treated as measurement instruments. Medhat, Park, Thajchayapong, and Goel (Georgia Institute of Technology) convert them into curriculum-grounded diagnostics: each question is classified into a curriculum topic with a few-shot text classifier, and topic volumes are read against a prerequisite [[knowledge-graph|knowledge graph]] extracted from the course's own lesson materials. The premise is that students rarely struggle with one topic in isolation — the cause often lies in an unconsolidated upstream prerequisite — so the analytic unit is the topic, not the question. The authors frame the result as a low-cost complement to [[knowledge-tracing]].
 
-> **Synthesis:** Rather than demanding an item bank or per-question correctness judgment, this work mines a byproduct that already exists — help-seeking behavior toward a [[conversational-ai|conversational AI]] teaching assistant — and maps it onto instructor-auditable curriculum structure. The parts are modest individually (GPT-4 extraction, a FastFit classifier, a survey correlation); the assembled argument is that aggregate question volume is a usable proxy for where a cohort struggles, and that the prerequisite graph becomes a diagnostic scaffold rather than a design artifact.
 
 ## Key Findings
 1. A few-shot FastFit classifier maps student questions to 43 labels (42 topics plus an abstention class) at 80.0% accuracy, macro F1 = 0.669, on a 70-question gold set.

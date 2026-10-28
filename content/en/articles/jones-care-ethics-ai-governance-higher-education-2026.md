@@ -31,7 +31,7 @@ ai_assist:
     agent: hermes-agent
 ---
 
-> Institutional AI policy borrowed the fairness, accountability and transparency vocabulary of commercial AI ethics, then added an academic integrity frame aimed at student misuse. Jones argues that both can record a disparate outcome as bias while leaving the relations that produced it unexamined, and turns Tronto's phases of care into five questions a governance body can put to one tool, on behalf of specific students.
+> **Synthesis:** Institutional AI policy borrowed the fairness, accountability and transparency vocabulary of commercial AI ethics, then added an academic integrity frame aimed at student misuse. Jones argues that both can record a disparate outcome as bias while leaving the relations that produced it unexamined, and turns Tronto's phases of care into five questions a governance body can put to one tool, on behalf of specific students.
 
 ## Key Findings
 

@@ -16,7 +16,7 @@ confidence: high
 institutions: [educational-policy-ai]
 ---
 
-> **OECD flagship report** synthesizing empirical evidence and expert insights on [[generative-ai|generative AI]] and [[ai-education|AI in education]]. Central finding: general-purpose AI [[conversational-ai|chatbots]] improve task performance but produce no durable [[learning-gains|learning gains]]; purpose-built educational GenAI, co-designed with teachers, is the path to sustained improvement.
+> **Synthesis:** **OECD flagship report** synthesizing empirical evidence and expert insights on [[generative-ai|generative AI]] and [[ai-education|AI in education]]. Central finding: general-purpose AI [[conversational-ai|chatbots]] improve task performance but produce no durable [[learning-gains|learning gains]]; purpose-built educational GenAI, co-designed with teachers, is the path to sustained improvement.
 
 ## The Core Finding: Performance Is Not Learning
 

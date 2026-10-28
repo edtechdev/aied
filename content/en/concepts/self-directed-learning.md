@@ -53,7 +53,7 @@ Because SDL emphasizes learner-initiated direction, interventions to protect it 
 
 **"AI makes self-directed learning easier because it supplies structure."** It can remove the exercise of the skill. [[genai-thoughtless-use-self-directed-learning-2026|Zhao and Gu (2026)]] show that **thoughtless use of GenAI — adopting outputs without critical evaluation — significantly undermines SDL**. Directing one's own learning is practised by making the decisions GenAI can now make for you, so an assistant that always supplies direction supplies it in place of the competence.
 
-**"Non-use of AI indicates a lack of access."** Among students who do not use it, the stated reason is often a positive educational choice — wanting to do the work themselves — rather than a barrier. Reading non-use as a deficit misdescribes a position that is, in the [[student-experience|student-experience]] evidence, reasoned.
+**"Non-use of AI indicates a lack of access."** Among students who do not use it, the stated reason is often a positive educational choice — wanting to do the work themselves — rather than a barrier. Reading non-use as a deficit misdescribes a position that is, in the [[student-experience]] evidence, reasoned.
 
 **"Self-direction means working alone."** It means owning the direction, which can be exercised in a highly supported environment. The distinguishing feature is who sets and adjusts the goal, not whether help is available.
 

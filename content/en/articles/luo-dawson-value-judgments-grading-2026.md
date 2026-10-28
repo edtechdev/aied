@@ -16,11 +16,12 @@ confidence: high
 page_kind: [evaluation]
 ---
 
+> **Synthesis:** An exploratory [[qualitative-research|qualitative]] interview study of 33 teachers documenting how grading GenAI-assisted work becomes a site of competing, largely unexamined values. Four clusters emerge: person-oriented (honesty, diligence), capability-oriented (independence, GenAI skill, disciplinary mastery), relation-oriented (trust) and justice-oriented (fairness, beneficence), across 66 value-judgment instances. The authors explain the variation via epistemological stages, disciplinary traditions and [[sociocultural-learning|sociocultural]] context, then argue that [[assessment-validity|validity]] should govern marking down and that the remedy is two-way transparency.
+
 Luo and Dawson (2026) ask the question students keep asking: will I get lower grades if I use GenAI? Their answer is that there may never be a definitive one. Drawing on scenario-based interviews with 33 university teachers across the Greater Bay Area of China, the study shows that grading GenAI-assisted work is not a technical application of criteria but an exercise in value judgment — teachers conjecture about who the student is, what they are capable of, how they relate to others and whether the decision does good.
 
 The sample skews toward junior and teaching-track staff (25 of 33 had 0–5 years' experience; 16 were teaching assistants, post-doctoral fellows, language instructors or adjunct teaching fellows), which the authors justify because these teachers spend more time grading. None of the participating universities had policies on grading GenAI-assisted work or had banned student GenAI use, leaving teachers substantial autonomy.
 
-> **Synthesis:** An exploratory [[qualitative-research|qualitative]] interview study of 33 teachers documenting how grading GenAI-assisted work becomes a site of competing, largely unexamined values. Four clusters emerge — person-oriented (honesty, diligence), capability-oriented (independence, GenAI skill, disciplinary mastery), relation-oriented (trust) and justice-oriented (fairness, beneficence) — across 66 value-judgment instances. The authors explain the variation via epistemological stages, disciplinary traditions and [[sociocultural-learning|sociocultural]] context, then argue that [[assessment-validity|validity]] should govern marking down and that the remedy is two-way transparency.
 
 ## Key Findings
 

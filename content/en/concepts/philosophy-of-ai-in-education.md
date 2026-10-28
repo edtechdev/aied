@@ -52,7 +52,7 @@ Philosophy of AI in education and [[theory-development-aied|theory development i
 
 ## Common Misconceptions
 
-**"The philosophy of AI in education is the same as cataloguing learning theories."** They sit at different depths. The [[learning-theories|learning-theories]] page asks *how learning happens*; the philosophy asks *what learning, mind and the learner fundamentally are* under AI-mediated conditions. A study can settle a learning-theory question and leave the philosophical one untouched, which is why a technically successful intervention can still be the wrong thing to do.
+**"The philosophy of AI in education is the same as cataloguing learning theories."** They sit at different depths. The [[learning-theories]] page asks *how learning happens*; the philosophy asks *what learning, mind and the learner fundamentally are* under AI-mediated conditions. A study can settle a learning-theory question and leave the philosophical one untouched, which is why a technically successful intervention can still be the wrong thing to do.
 
 **"Cognitive offloading is the harm, and it is reversible by more effort."** There is a stronger claim available. Bai and Costa (2026) draw on Arendt's account of thinking as an inward, untransferable activity to argue that GenAI which *supplies* the work does not merely offload thinking but forecloses it — and they locate the risk institutionally, through Bourdieu's field and habitus, rather than in individual willpower. If the argument holds, "use it carefully" is not a sufficient remedy, because the practice is shaped by the field that rewards the output.
 
