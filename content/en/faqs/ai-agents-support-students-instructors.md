@@ -1,45 +1,97 @@
 ---
 title: "How Can AI Agents Support Students and Instructors?"
 created: "2026-08-25T09:20:00-04:00"
-updated: "2026-10-21T14:32:00-04:00"
+updated: "2026-10-28T11:29:19-04:00"
 connected_faqs: [developing-ai-tutor, training-ai-tutors-to-guide-rather-than-answer]
 weight: 66
 audience: [instructors, learners, administrators]
 foundations: [agentic-ai, ai-literacy, cognitive-offloading]
 technology: [human-in-the-loop-ai, intelligent-tutoring, pedagogical-agent]
 reviewed_by: [editor]
+contributors: [editor]
+ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: revision
+    date: "2026-10-28"
+    agent: hermes-agent
 ---
-**AI agents can move beyond single-turn question answering** by planning, using tools, remembering relevant context, coordinating subtasks, and adapting support over a sequence of interactions. For students, plausible roles include adaptive tutoring, study planning, [[formative-assessment|formative]] feedback, guided [[problem-solving|problem solving]], practice generation, simulation, prerequisite recommendations, and reflective or metacognitive [[prompt-engineering|prompting]]. For instructors, agents can assist with material development, [[automated-question-generation|question generation]] and validation, feedback triage, course [[learning-analytics|analytics]], instructional-design workflows, resource retrieval, and the orchestration of specialized agents.
 
-## Recurring agentic capabilities
+A vendor demo runs for forty minutes. The agent reads the syllabus, drafts next week's quiz, flags three students who have not opened the reading, and offers to email them. Your provost wants a licensing decision by the end of the month.
 
-The article [[agentic-workflows-education|Agentic Workflows in Education]] describes four recurring agentic capabilities: **reflection, planning, tool use, and multi-agent collaboration**. Each adds possibilities but also introduces [[explainable-ai|interpretability]], coordination, trust, latency, and oversight challenges.
+An [[agentic-ai|agent]] plans, calls tools, keeps context, splits work into subtasks and adapts across turns, which is more than a [[conversational-ai|chatbot]] does. The student-side and instructor-side roles that opens up are real. The evidence does not show that more autonomy produces more learning: in the one head-to-head study here, an agent and a chatbot tied. Put autonomy where a person checks the output, keep the planning with the learner, and score teaching quality against your own rubric.
 
-## What AI agents can do well (positive implications)
+## The short version
 
-- **Sustained, adaptive support.** Unlike single-turn [[conversational-ai|chatbots]], agents can maintain a learning conversation over many turns — remembering what a learner knows, adapting difficulty, and sequencing multi-step [[scaffolding]]. This supports [[adaptive-learning|adaptive]] and [[personalized-learning|personalized]] learning at scale.
-- **Unburdening instructors.** Agents can draft materials, generate and validate questions (e.g., a generator + validator pairing), triage feedback, and orchestrate specialized sub-agents, freeing teachers for higher-value interaction.
-- **Rich interaction and [[desirable-difficulties|productive friction]].** Multi-agent classrooms and simulated peers create varied dynamics — peer-like discourse, constructive disagreement, role-play — that support [[collaborative-learning|collaborative learning]] and [[socratic-method|Socratic-style probing]]. Agents designed to challenge rather than agree can push learners toward deeper reconsideration (constructive-conflict agents improved design outcomes in research).
-- **Low-risk practice and simulation.** Agent-based [[simulation|simulations]] ([[simulating-students|simulated students]], [[medical-education|clinical]] scenarios) let learners practice in safe, repeatable environments before real-world application.
+**1.** Name the job before the product.
 
-## Key risks and caveats (negative implications)
+**2.** Start on the instructor side, where a teacher already inspects the work.
 
-- **Over-automation can hollow out learning.** The more an agent automates, the less cognitive work the learner does. Proactive agents can leave students as passive consumers, weakening the effortful processes that build durable learning and raising [[cognitive-offloading|over-reliance]] risk.
-- **Reduced metacognitive engagement.** If agents handle planning and monitoring, learners may not develop the [[metacognition]] and [[self-regulated-learning|self-regulation]] that education aims to build. Agents should elicit, not replace, these processes.
-- **Misplaced trust and verification gaps.** Autonomous agents can produce plausible but unvalidated output; learners and teachers may [[trust-calibration|over-trust]] it. Robust verification and [[ai-literacy]] become more important as agents gain [[agency|autonomy]].
-- **Opacity and accountability.** Multi-agent systems complicate [[human-in-the-loop-ai|human oversight]] — which agent is accountable for an error, and where does a human intervene? Coordination failures and persona drift can undermine reliability and [[pedagogical-safety]].
-- **[[equity-in-ai-education|Equity]] and bias.** Agents can reproduce training-data bias at scale, and unequal access to capable agentic systems can widen inequity.
+**3.** Treat added autonomy as a cost until evidence says otherwise.
 
-## What the evidence shows so far
+**4.** Keep the planning and judging with the learner, because those are what the assignment exists to build.
 
-Concrete results — and cautions — are accumulating. [[wang-tutor-copilot-human-ai-live-tutoring-rct-2024|Tutor CoPilot]] — the first [[rct|randomized controlled trial]] of a human-AI system in live tutoring — gave novice tutors real-time expert-like guidance drawn from experienced tutors' reasoning: across **900 tutors and ~1,800 students**, students of tutors with access were **4 percentage points more likely to master topics**, rising to **9 p.p.** among the lowest-rated tutors, whose students caught up to those of higher-rated tutors in the control group. It cost about **\$20 per tutor annually**, and analysis of **550,000+ tutoring messages** showed tutors shifting toward asking guiding questions rather than giving away answers — a clear case of AI augmenting the [[teacher-role|teacher]] rather than replacing them.
+**5.** Score the agent against your rubric, and schedule an unassisted check before the pilot ends.
 
-But "agentic" is not automatically better. [[ilieva-agentic-genai-higher-education-2026|A study with 130 students in an e-commerce course]] found both [[generative-ai]] chatbots and GAI agents rated above traditional [[online-teaching-and-learning|e-learning]] on learning enhancement and [[personalized-learning|personalization]] — yet **no statistically significant difference between the chatbot and the agent conditions**, so added autonomy did not translate into added learning value. The proposed Agentic GAI-Supported Learning Framework accordingly treats agents as **bounded, human-supervised learning partners**, with goals, checkpoints and final decisions reserved for humans.
+## Pick the job before you pick the agent
 
-Two further cautions matter. First, **withdrawal**: randomized trials show that even brief AI assistance can depress subsequent unassisted performance, and the post-withdrawal interval — named [[cognitive-washout-ai-skill-decay-2026|cognitive washout]] — is almost entirely unmeasured, so the durability of agent-assisted [[learning-gains|learning gains]] is unknown. Second, **evaluation**: [[zhang-platform-scores-miss-ai-teaching-agents-2026|deploying eight AI teaching agents across a medical curriculum]], platform-generated scores ranked agents differently from an independent expert rubric (the platform's third-ranked agent came last on teaching quality) because platform scores index student performance rather than [[pedagogical-agent|agent]] teaching quality. The [[governance]] review [[beyond-agent-label-agentic-ai-governance-2026|Beyond the Agent Label]] adds a proportionality rule — **autonomy should not exceed the maturity of the evidence or the strength of accountable human control** — noting that evidence is strongest for artifact-level outcomes and weakest for durable learning and equity. For how to build one, see [[developing-ai-tutor]]; for how to evaluate whether it works, see [[evaluating-ai-interventions-methods]].
+[[agentic-workflows-education|Agentic Workflows in Education]] names four recurring capabilities: reflection, planning, tool use and multi-agent collaboration. Each one adds a cost alongside the possibility, in [[explainable-ai|interpretability]], coordination, [[trust-calibration|trust]], latency and oversight.
 
-## The state of the evidence
+The student-side roles run from [[adaptive-learning|adaptive]] tutoring and study planning through [[formative-assessment|formative]] feedback, guided [[problem-solving|problem solving]] and practice generation to prerequisite recommendations and reflective [[metacognition|metacognitive]] [[prompt-engineering|prompting]]. The instructor-side roles cover material development, [[automated-question-generation|question generation]] and validation, feedback triage, course [[learning-analytics|analytics]], instructional design, resource retrieval and orchestration of specialized sub-agents.
 
-The evidence base is still emerging. The knowledge base's [[agentic-ai|Agentic AI in Education]] synthesis draws on a [[meta-analysis-systematic-review|scoping review]] of 474 studies but notes substantial concentration in [[higher-ed|higher education]], [[stem-education|STEM]], short-term designs, and text-based tutoring; only a minority of the reviewed work explicitly grounded its systems in educational theory, and rigorous long-term classroom validation remains limited.
+Two of those are safer early, because both produce an artifact a person reads before students do: a question generator paired with a validator, and drafting that a teacher edits.
 
-The key design warning is therefore not to equate greater autonomy with better learning. [[agentic-ai-pedagogical-best-practice-2026|Agentic AI and Pedagogical Best Practice]] recommends intentional friction, dynamic scaffolding, and human oversight so that agent initiative does not remove the learner's own planning, monitoring, judgment, and effort. See also [[intelligent-tutoring|Intelligent Tutoring]] and [[human-in-the-loop-ai|Human-in-the-Loop AI]].
+## Start where a human already checks the work
+
+[[wang-tutor-copilot-human-ai-live-tutoring-rct-2024|Tutor CoPilot]], the first [[rct|randomized controlled trial]] of a human-AI system in live tutoring, gave novice tutors real-time guidance drawn from experienced tutors' reasoning, across 900 tutors and roughly 1,800 students. Students of tutors with access were 4 percentage points more likely to master topics, rising to 9 points among the lowest-rated tutors, whose students caught up with those of better-rated tutors in the control group. It cost about $20 per tutor annually, and analysis of 550,000+ tutoring messages showed tutors shifting from giving answers to asking guiding questions. That is AI augmenting the [[teacher-role|teacher]].
+
+The agent did not teach the student. It fed a human mid-conversation, and the human decided what to say. A person in the loop and an outcome close to the work are what make the result portable to another course.
+
+## Do not assume more autonomy buys more learning
+
+[[ilieva-agentic-genai-higher-education-2026|A study of 130 students in an e-commerce course]] found both [[generative-ai|generative AI]] chatbots and agents rated above traditional [[online-teaching-and-learning|e-learning]] on learning and [[personalized-learning|personalization]], with no significant difference between the chatbot and the agent. Added autonomy, no added value on those measures.
+
+That study's framework treats agents as bounded, human-supervised learning partners, with goals, checkpoints and final decisions left to people. [[beyond-agent-label-agentic-ai-governance-2026|Beyond the Agent Label]] makes it a [[governance]] rule: autonomy should not exceed the maturity of the evidence or the strength of accountable human control, and the evidence is strongest at artifact-level outcomes, weakest at durable [[learning-gains|learning]] and [[equity-in-ai-education|equity]].
+
+The learner-side risk runs the same direction. An agent that plans and monitors for a student removes the practice that builds [[self-regulated-learning|self-regulation]] and invites [[cognitive-offloading|offloading]]. [[agentic-ai-pedagogical-best-practice-2026|Best-practice guidance]] asks for intentional friction, [[scaffolding]] that fades and [[human-in-the-loop-ai|human oversight]]. [[desirable-difficulties|Productive friction]] has working examples. Constructive-conflict agents that argue with a weak design improved design outcomes in the research reviewed. [[simulating-students|Simulated peers]] support [[collaborative-learning|collaborative learning]] and [[socratic-method|Socratic]] probing, and [[medical-education|clinical]] [[simulation|simulations]] let learners rehearse where a mistake is cheap.
+
+The test for any of them: after the session, what can the student do that the agent was doing before? Handing over judgment costs the student the [[agency|practice]] of using it.
+
+## Check the agent against your own judgment
+
+[[zhang-platform-scores-miss-ai-teaching-agents-2026|Eight AI teaching agents deployed across a medical curriculum]] were ranked differently by platform-generated scores and by an independent expert rubric. The platform's third-ranked agent came last on teaching quality. Platform scores index student performance, which moves for reasons that have nothing to do with teaching.
+
+Ask what a dashboard number counts, who wrote the rubric behind it, and what a low score would look like in student work. [[pedagogical-safety|Pedagogical safety]] belongs in the same review, since a chain of [[pedagogical-agent|agents]] makes it hard to say which component is accountable when an answer is wrong.
+
+## Plan for the switch-off
+
+Randomized trials show that brief AI assistance can depress later unassisted performance, and the interval after withdrawal, [[cognitive-washout-ai-skill-decay-2026|cognitive washout]], is almost entirely unmeasured. The synthesis behind this page draws on a [[meta-analysis-systematic-review|scoping review]] of 474 studies and finds the work concentrated in [[higher-ed|higher education]], [[stem-education|STEM]], short-term designs and text-based tutoring, with only a minority grounded explicitly in educational theory. A pilot that ends when the license ends has measured the wrong window.
+
+## What administrators get wrong about this
+
+An agent is an upgraded chatbot, so the upgrade should show in outcomes. In the 130-student comparison both AI conditions beat e-learning and neither beat the other.
+
+The dashboard ranks teaching quality. It ranks student performance, and eight agents produced a ranking that inverted the third and last places against an expert rubric.
+
+Autonomy is the feature to buy. The proportionality rule runs the other way, and the evidence is thinnest where autonomy is largest.
+
+Access closes the equity gap. Unequal access to capable agentic systems can widen it, and an agent reproduces training-data bias at scale.
+
+## What will come back at you
+
+**"Students will just let it do the work."** Some will, and the architecture decides how easily. Agents that plan and draft for the student invite it. Agents that require an attempt, then ask a question, do not.
+
+**"The vendor's evaluation says it works."** Ask what the number counts. If it is platform-measured student performance, it measures the students as much as the agent.
+
+**"Nobody can say which agent is accountable in a chain."** True of most current deployments. Name an owner for the chain, log which component produced which output, and keep a human checkpoint before anything reaches a student record.
+
+## What to do this week
+
+**1.** Write the job and the outcome you will judge it by, one sentence each, before the next vendor call.
+
+**2.** Score one agent's output against your rubric on ten pieces of real student work, and keep the scores.
+
+**3.** Add a dated, owned unassisted task to the pilot plan.
+
+## Where to go next
+
+[[developing-ai-tutor]] covers the student-facing build from objective to help ladder, and [[evaluating-ai-interventions-methods]] covers whether the thing worked. [[intelligent-tutoring]] and [[ai-literacy]] supply the design vocabulary this page assumes.
