@@ -118,6 +118,7 @@
 - [IA con intervención humana (HITL)](https://edtechdev.github.io/aied/concepts/human-in-the-loop-ai/): *Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa.*
 - [Analítica del aprendizaje](https://edtechdev.github.io/aied/concepts/learning-analytics/): *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 - [Modelos de adopción tecnológica](https://edtechdev.github.io/aied/concepts/technology-acceptance-model/): *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
+- [Educación abierta](https://edtechdev.github.io/aied/concepts/open-education/): *Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa.*
 - [Código abierto](https://edtechdev.github.io/aied/concepts/open-source/): *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 - [Plataforma edtech](https://edtechdev.github.io/aied/concepts/edtech-platform/): *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 - [La IA en las disciplinas](https://edtechdev.github.io/aied/concepts/discipline-specific-aied/): *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -149,7 +150,7 @@
 - [Aprendizaje de adultos](https://edtechdev.github.io/aied/concepts/adult-learning/): *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 - [Educación y formación profesional](https://edtechdev.github.io/aied/concepts/vocational-education/): *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 - [Educación especial](https://edtechdev.github.io/aied/concepts/special-education/): *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
-- [Desarrollo profesional](https://edtechdev.github.io/aied/concepts/teacher-education/): *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
+- [Formación docente](https://edtechdev.github.io/aied/concepts/teacher-education/): *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 - [Niveles educativos](https://edtechdev.github.io/aied/concepts/education-levels/): *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 - [Evaluación](https://edtechdev.github.io/aied/concepts/assessment/): *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 - [Juicio evaluativo](https://edtechdev.github.io/aied/concepts/evaluative-judgment/): *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*

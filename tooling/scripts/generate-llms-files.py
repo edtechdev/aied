@@ -188,10 +188,17 @@ def build_llms_full(articles, concepts, faqs):
         lines.append("")
     return "\n".join(lines) + "\n"
 
-# Ceiling for llms*-concepts.txt, in words. Several chat products and agent
-# ingesters cap what they will accept, and the concept corpus alone runs past this
-# without the navigation sections (see strip_nav_sections).
-CONCEPTS_WORD_BUDGET = 500_000
+# Ceiling for llms*-concepts.txt, in words, or None for no ceiling.
+#
+# The 500,000-word cap came from what chat products and agent ingesters will accept
+# as a paste or attachment, and it truncated five translated locales: Spanish lost
+# 56 of its 222 concept pages, and the note at the foot of the file told a reader
+# the rest were "published on the site" instead of handing them over. A partial
+# concepts dump is worse than a large one for the thing these files exist to do,
+# which is let an assistant answer from the knowledge base. The owner dropped the
+# cap on 2026-10-29; build_llms_concepts still honours a budget if one is passed,
+# so the mechanism survives for any future caller that wants it.
+CONCEPTS_WORD_BUDGET = None
 
 
 def strip_nav_sections(body):
@@ -238,8 +245,8 @@ DEFAULT_TRUNCATED_NOTE = (
 
 
 def build_llms_concepts(concepts, notice=None, truncated_note=None,
-                        budget=CONCEPTS_WORD_BUDGET):
-    """Concept pages with their navigation sections removed, capped at a word budget.
+                        budget=None):
+    """Concept pages with their navigation sections removed, optionally capped.
 
     `llms-full.txt` carries every article, concept and FAQ and has grown past 19 MB,
     which several chat products refuse to accept as an attachment or paste. The
@@ -253,15 +260,12 @@ def build_llms_concepts(concepts, notice=None, truncated_note=None,
     only once their question prompts and link indexes are stripped, so the file
     carries each page's synthesis and none of its navigation.
 
-    Translated prose runs longer than English — Spanish and French concepts run
-    ~1.2x — so five locales still exceed the budget after the navigation sections
-    go. There is nothing left to strip at that point: Introduction, the body
-    sections, Common Misconceptions and Implications for Practice are all
-    substance. Rather than mangle prose mid-sentence or blow the limit, pages are
-    included in taxonomy order (the sidebar's order, foundational first) until the
-    budget is reached and the remainder is dropped whole, with a closing note
-    stating how many were included. Dropping a page is honest; truncating a
-    sentence is not. Returns (text, included_count, total_count).
+    There is no budget by default (CONCEPTS_WORD_BUDGET is None), so every concept
+    page is included. A caller may still pass one: pages are then taken in taxonomy
+    order (the sidebar's order, foundational first) until the budget is reached and
+    the remainder dropped whole, with a closing note stating how many were
+    included. Dropping a page whole is honest; truncating a sentence is not.
+    Returns (text, included_count, total_count).
     """
     bodies = [(c, strip_nav_sections(c['body']).strip()) for c in concepts]
 
@@ -288,7 +292,7 @@ def build_llms_concepts(concepts, notice=None, truncated_note=None,
 
     total_words = (len("\n".join(header(len(bodies))).split())
                    + sum(len(block(c, b).split()) for c, b in bodies))
-    if total_words <= budget:
+    if budget is None or total_words <= budget:
         selected, truncated = bodies, False
     else:
         # Reserve room for the truncation note itself, so adding it cannot push
@@ -443,7 +447,7 @@ def build_one(locale):
     if n_included < n_total:
         print(f"  {names['concepts']}: truncated to {n_included}/{n_total} pages, "
               f"{words:,} words (budget {CONCEPTS_WORD_BUDGET:,})")
-    if words > CONCEPTS_WORD_BUDGET:
+    elif CONCEPTS_WORD_BUDGET is not None and words > CONCEPTS_WORD_BUDGET:
         print(f"  WARNING {names['concepts']}: {words:,} words, over the "
               f"{CONCEPTS_WORD_BUDGET:,} budget")
     # A full dump for a non-default locale would be mostly English articles wearing a

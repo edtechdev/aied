@@ -1,7 +1,7 @@
 ---
 title: Cognitive Offloading
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-29T10:20:00-04:00"
+updated: "2026-10-29T06:19:06-04:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [metacognition, self-regulated-learning]
@@ -95,6 +95,10 @@ The knowledge base's articles document cognitive offloading across multiple dime
 ### When offloading falls rather than rises
 
 [[braun-cognitive-dormancy-ai-affordances-2026|Braun (2026)]] reports a preregistered experiment (N = 317) in which adults learned new content from conventional worksheets or from a general-purpose assistant restricted to those same worksheets. The AI condition lowered measured cognitive offloading rather than raising it (median −0.27, 95% credible interval −0.58 to 0.04). Deep processing still fell, but through a chain in which lower offloading tracked lower [[critical-thinking|critical thinking]], which in turn predicted weaker deep processing (0.78). Disorganization rose by 0.84 with no mediator carrying the effect. The finding is a caution for the standard account: offloading is not the only route by which an [[generative-ai|AI]] environment erodes processing, and a condition can leave offloading untouched while suppressing what offloading was supposed to protect.
+
+### Offloading empathy, not just cognition
+
+The same bargain applies to emotional labor, and there the evidence is newer. [[shastry-gray-empathy-offloading-2026|Shastry and Gray (2026)]] name empathy offloading: when a system can supply emotional support, people give less of it themselves (N = 2,223 across four studies). Willingness to hand empathy to a model tracked belief in the model's capacity for it (b = 0.44), and an experiment that raised that belief through ordinary news coverage moved offloading through it (indirect 0.73, direct not credible). The instructive part is where self-report and behavior split: told that a student got support from a chatbot, participants rated their own offloading lower than for a friend or therapist, then chose fewer empathy words and more indifference words about that student.
 
 ## Over-reliance: when offloading becomes harmful
 
@@ -191,6 +195,7 @@ The same logic turns reward shaping into a design tool: [[assistance-dilemma-rl-
 - [[ai-proof-learning-cognitive-offloading-2026]] — Supporting or replacing students’ reasoning? Cognitive offloading in AI-assisted proof learning (Chen et al. 2026)
 - [[llm-math-homework-offloading-traces-2026]] — What the submission does not show: complexifying cognitive offloading in students’ mathematical work with LLMs (Kontorovich & Wallach 2026)
 - [[genai-support-threaten-learning-k20-expert-consensus-2026]] - A 30-expert consensus over 65 learning processes: offloading at both ends of the learning sequence
+- [[shastry-gray-empathy-offloading-2026]] — People offload empathy when they think AI can give it instead (Shastry & Gray 2026)
 - [[rented-self-decoupling-performance-becoming-2026]] — The rented self: offloading that costs the learner's domain self, not only the skill
 - [[caeai-ai-scaffolding-inquiry-profiles-middle-school-2026]] — Groups starting alike diverged: 74.1% model uptake in one profile against 80.8% offloading and impasse in another (Kilinc et al. 2026)
 - [[liu-ai-assistance-reduces-persistence-2026]] — AI assistance reduced persistence and unassisted performance across three RCTs (Liu et al. 2026)
