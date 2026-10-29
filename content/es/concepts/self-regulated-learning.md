@@ -1,7 +1,7 @@
 ---
 title: Aprendizaje autorregulado
 created: "2026-09-25T03:07:36-04:00"
-updated: "2026-10-29T05:22:38-04:00"
+updated: "2026-10-29T19:37:38-04:00"
 type: concept
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
 technology: [generative-ai, llm, personalized-learning]
@@ -11,7 +11,7 @@ audience: [learners]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/self-regulated-learning
-source_updated: "2026-10-28T19:24:33-04:00"
+source_updated: "2026-10-29T19:16:33-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 connected_resources: [process-feedback]
 contributors: [editor]
@@ -150,6 +150,10 @@ Por ejemplo:
 
 - **La estructura, y no la IA por sí sola, impulsa las ganancias de AAR.** Mapear las fases de Zimmerman sobre la instrucción híbrida basada en proyectos con la IA como [[scaffolding|andamiaje metacognitivo]] produjo una N-Ganancia de 0,72 frente a 0,28 para la instrucción convencional (t = 8,47, p < 0,001, [[ai-project-hybrid-learning-self-regulated-2026|Priyambudi et al. (2026)]]), quienes sostienen que la IA fortalece la autorregulación solo dentro de la estructura de la tarea: el uso no estructurado corre el riesgo de provocar pereza metacognitiva.
 
+- **La velocidad de la IA puede desplazar el diálogo entre pares que sostiene la corregulación.** Al codificar 28.123 frases de foro en cuatro cursos de posgrado, uno solo con personas y dos con un uso intensivo de asistentes de enseñanza con IA, [[davis-ai-ta-forum-peer-co-regulation-2026|Davis et al. (2026)]] encontraron que el asistente de IA fue el primer respondedor en el 97% de los hilos de tareas iniciados por el estudiantado, con una mediana de 0,92 minutos hasta su respuesta frente a 490 cuando respondía primero un par. Los inicios de hilo no cambiaron (p = 0,73), pero las publicaciones de respuesta cayeron de 18,2 a 10,9 por estudiante (p < 0,001), y la proporción de respondedores pares en las frases de seguimiento bajó del 91% al 45% entre las dos mitades del semestre.
+
+- **El consiguiente descenso del AAR es composicional.** Como quienes responden como pares aportan alrededor del 70% de las frases codificadas como autorregulación, frente al 20 a 27% de quienes inician los hilos, el lenguaje regulatorio agregado cayó del 49% al 36% (p < 0,001). La tasa propia de cada rol se mantuvo estable, así que la caída refleja quién escribía, no cómo escribe cada persona. La autorregulación seguía prediciendo la calificación (β = 2,63, p = 0,017), y las respuestas de los pares moderaban esa relación (β = 1,45, p = 0,013). La penalización asociada a los hilos dominados por la IA (β ≈ −1,38, p = 0,038) desapareció después de retirar a 17 personas con alta autorregulación (β ≈ −1,29, p = 0,454), lo que los autores leen como un costo de la corregulación perdida, no de la IA. Es observacional, así que el mecanismo sigue sin probarse.
+
 - **El andamiaje emocional mueve fases del AAR medidas por trazas que el andamiaje cognitivo por sí solo no mueve, y el autoinforme apenas lo capta.** Un experimento prerregistrado con 144 estudiantes de secundaria comparó un ChatGPT simple, un agente de andamiaje del AAR y una versión emocional que preguntaba por los sentimientos en tres momentos y adaptaba el tono y el desafío conforme a la teoría control-valor. La codificación de trazas encontró efectos grandes de condición en las tres fases (ε2 = 0,44 previsión, 0,34 desempeño, 0,34 autorreflexión). Las indicaciones de AAR por sí solas elevaron la fijación de metas y la planificación al nivel de la versión emocional, mientras que la capa emocional añadió más actividad en la fase de desempeño (r = 0,22) y de autorreflexión (r = 0,31). El AAR autoinformado solo separó las condiciones en la fase de desempeño; las correlaciones entre traza y autoinforme fueron de 0,313 allí, 0,22 en la previsión y 0,04 en la autorreflexión. Los autores leen las diferencias de trazas como una puesta en acto corregulada y no como capacidad regulatoria independiente ([[diordiev-emotional-scaffolding-genai-srl-2026|Diordiev, Stenberdt y Makransky, 2026]]).
 
 ## El AAR mediado por LLM: ¿andamiaje, atajo o socio?
@@ -258,3 +262,4 @@ Qué apoyo está en juego decide qué mediador carga la asociación: entre 3.003
 - [[genai-srl-l2-writing-scale-2026]] — Una escala validada de autorregulación de la IA generativa en seis dimensiones para la escritura en L2, con la regulación ambiental como dimensión propia y una forma corta de 12 ítems optimizada por colonias de hormigas
 - [[borchers-srl-language-generalization-2025]] — Los grandes modelos de lenguaje generalizan la predicción del AAR a nuevos idiomas dentro de un mismo dominio, pero no entre dominios (Borchers et al. 2025)
 - [[ai-project-hybrid-learning-self-regulated-2026]] — Un modelo de aprendizaje híbrido basado en proyectos que utiliza la inteligencia artificial para mejorar el aprendizaje autorregulado del estudiantado
+- [[davis-ai-ta-forum-peer-co-regulation-2026]] — Un asistente de enseñanza con IA como primer respondedor desplazó las respuestas de los pares y, con ellas, la corregulación que amplificaba el valor de la autorregulación para la calificación (Davis et al. 2026)
