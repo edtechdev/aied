@@ -1,7 +1,7 @@
 ---
 title: IA conversacional
 created: "2026-08-22T04:44:37-04:00"
-updated: "2026-10-29T04:27:44-04:00"
+updated: "2026-10-29T04:40:26-04:00"
 type: concept
 foundations: [ai-literacy, human-ai-collaboration]
 technology: [conversational-ai, generative-ai, intelligent-tutoring, llm, pedagogical-agent]
@@ -11,6 +11,10 @@ source_updated: "2026-10-28T01:06:31-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-29"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
@@ -47,6 +51,7 @@ Os benchmarks podem superestimar quanto do andaimento é de fato aproveitado: ao
 **Interação e colaboração.** Os agentes conversacionais são cada vez mais enquadrados como parceiros de interação, e não como fornecedores de respostas. [[student-ai-interaction]] captura como quem aprende faz prompting, questiona e verifica com a CAI na prática. Na [[collaborative-learning|aprendizagem colaborativa]], os agentes medeiam a participação e a [[regulation|regulação]] compartilhada, e na [[language-learning|aprendizagem de línguas]] eles oferecem prática conversacional em tempo real. A linha de [[human-ai-collaboration|colaboração humano–IA]] examina quando essa parceria preserva o trabalho cognitivo de quem aprende em vez de substituí-lo. As LLMs como parceiros de crítica ilustram concretamente o lado da preservação: [[oppenheimer-llms-collaborative-learning-partners-2026|Oppenheimer, Cash & Connell Pensky (2025)]] fizeram o ChatGPT, o Gemini ou o Claude criticarem redações argumentativas de estudantes ao longo de um semestre, e quem aprendeu melhorou em escrita, [[prompt-engineering|prompt engineering]] e resposta ao feedback, ao mesmo tempo que avaliava as trocas como úteis, engajadoras e prazerosas — com a refutação ativa das afirmações do modelo (87,8%) mostrando que trataram o parceiro conversacional de forma crítica, e não passivamente.
 
 Agentes conversacionais são usados para corrigir, e seu comportamento avaliativo diverge do dos humanos: o ChatGPT foi o mais indulgente de três avaliadores dos mesmos 52 projetos de graduação (M = 91,46 contra 83,13 do instrutor) e não compartilhou lógica de correção alguma com os pares (r = 0,05), embora os estudantes valorizassem sua interatividade dialógica ([[usher-faraon-who-grades-best-2026|Usher & Faraon (2026)]]).
+**Os usuários leem a credibilidade do agente socialmente.** A competência percebida do ChatGPT predizia diretamente a credibilidade do seu feedback, enquanto o calor humano percebido atuava apenas por meio da empatia semelhante à humana (SEM, 230 estudantes), segundo [[chatgpt-feedback-credibility-perceived-learning|Pérez-López et al. (2026)]] — um agente conversacional conquista credibilidade como parceiro social, e não apenas como fonte de respostas.
 
 
 **Andamiar o lado do estudante na conversa.** [[helpcoach-ai-help-seeking-scaffolding-2026|Jin et al. (2026)]] acrescentam a uma interface de chat um monitor de especificidade das perguntas e um modelo de revisão, e intervêm apenas em perguntas vagas: em um estudo entre sujeitos com 40 estudantes universitários aprendendo programação web, os usuários do HelpCoach escreveram primeiras perguntas significativamente mais específicas (57,3% contra 40,5%) e retiveram mais conhecimento uma semana depois (ganho médio 1,9 contra 0,3 de 6, d = 1,100). O benefício de retenção não passou por respostas de chatbot mais direcionadas, que não diferiram por condição — deixando o mecanismo como hipótese aberta em vez de via demonstrada.
@@ -83,8 +88,13 @@ A IA conversacional é melhor compreendida como uma **modalidade de interação*
 ## Orientações práticas
 
 Escolha agentes conversacionais para apoiar o ensino, a [[motivation|motivação]] e a [[metacognition|metacognição]], em vez de meramente para responder perguntas, e desenhe para uma interação fundamentada em IHC, participativa e centrada no usuário. Proteja-se contra a [[cognitive-offloading|dependência excessiva]] pareando a CAI com instrução de [[ai-literacy|letramento em IA]] e com [[feedback|feedback]] que mantenha quem aprende cognitivamente produtivo. Trate do letramento em IA e da usabilidade de forma explícita — já que são eles — e não a habilidade digital geral — que dirigem a adoção e a não utilização ([[colbran-student-perspectives-genai-chatbots-2026|Colbran, Jha & Schiavone 2026]]) — e pareie a implementação com políticas claras de uso de IA, rótulos de avaliação e treinamento. Avalie a CAI em resultados pedagógicos — e não apenas na conclusão de tarefas — e planeje a equidade e a [[accessibility|acessibilidade]] desde o início, em vez de como reflexão tardia.
-- **Como os estudantes de fato conversam com agentes conversacionais — um esquema de desengajamento de seis categorias:** [[rho-disengaged-conversational-behaviors-2026|Rho et al. (2026)]] incorporaram um agente ensinável GPT-4-Turbo (posicionado como um estudante do ensino fundamental em dificuldade, fundamentado com [[rag|RAG]] sobre um grafo de conhecimento e pareado com um agente mentor que criticava as explicações dos estudantes) nas lições de Álgebra e Geometria do Math Nation, e codificaram 5.522 enunciados de 246 estudantes. Além do engajamento (75,7% dos enunciados), identificaram Resposta Falsa (12,8%), Retenção (8,9%), Aleatório/Ruidoso (2,1%), Espelhamento (0,6%), Zombaria (0,3%) e Abandono (0,2%) — com o Espelhamento (copiar o texto do agente) emergindo indutivamente dos dados. A classificação foi com humano no circuito: 1.682 enunciados anotados por dois avaliadores (κ = 0,704–0,905 por categoria) treinaram um classificador LLaMA 3 ajustado (F1 ponderado = 0,910 em threads retidas) que rotulou os 3.840 enunciados restantes. Uma análise de riscos competitivos em nível de processo mostrou então que a maior parte do desengajamento se resolve em poucos turnos, exceto a Retenção, que persiste — um sinal que vale desenhar as respostas do agente em torno.
 
+- **Como os estudantes de fato conversam com agentes conversacionais — um esquema de desengajamento de seis categorias:** [[rho-disengaged-conversational-behaviors-2026|Rho et al. (2026)]] incorporaram um agente ensinável GPT-4-Turbo (posicionado como um estudante do ensino fundamental em dificuldade, fundamentado com [[rag|RAG]] sobre um grafo de conhecimento e pareado com um agente mentor que criticava as explicações dos estudantes) nas lições de Álgebra e Geometria do Math Nation, e codificaram 5.522 enunciados de 246 estudantes. Além do engajamento (75,7% dos enunciados), identificaram Resposta Falsa (12,8%), Retenção (8,9%), Aleatório/Ruidoso (2,1%), Espelhamento (0,6%), Zombaria (0,3%) e Abandono (0,2%) — com o Espelhamento (copiar o texto do agente) emergindo indutivamente dos dados. A classificação foi com humano no circuito: 1.682 enunciados anotados por dois avaliadores (κ = 0,704–0,905 por categoria) treinaram um classificador LLaMA 3 ajustado (F1 ponderado = 0,910 em threads retidas) que rotulou os 3.840 enunciados restantes. Uma análise de riscos competitivos em nível de processo mostrou então que a maior parte do desengajamento se resolve em poucos turnos, exceto a Retenção, que persiste — um sinal que vale desenhar as respostas do agente em torno.
+## Ideias equivocadas comuns
+
+- **"A credibilidade de um agente conversacional acompanha a sua exatidão."** **Os usuários leem a credibilidade do agente socialmente.** A **competência** percebida do ChatGPT predizia **diretamente** a credibilidade do seu feedback, enquanto o **calor humano** percebido atuava apenas **por essa via**. Um agente caloroso e que soa competente conquista confiança pela apresentação, que é um eixo separado da correção.
+- **"Parceiros de crítica baseados em LLM substituem o julgamento de quem aprende."** [[oppenheimer-llms-collaborative-learning-partners-2026|Oppenheimer, Cash e Connell Pensky (2025)]] mostram concretamente o lado da **preservação**: o valor está em manter intacto o pensamento de quem aprende, e não em produzir a crítica no lugar dele.
+- **"A evidência guarda-chuva sobre agentes conversacionais é conclusiva."** A [[conversational-ai-agents-umbrella-review-2026|revisão guarda-chuva]] sintetiza revisões sobre agentes de CAI, e a força de uma revisão guarda-chuva é limitada pela qualidade das revisões que ela reúne.
 ## Citação
 
 Ganguly, A., Mehjabin, N., Malik, A., & Johri, A. (2025). [*Conversational AI agents in education: an umbrella review*](https://doi.org/10.1007/s43681-025-00916-0). *AI and Ethics*, 6, 72.
@@ -111,6 +121,7 @@ Ganguly, A., Mehjabin, N., Malik, A., & Johri, A. (2025). [*Conversational AI ag
 - [[parents-and-families]]
 ## Artigos conectados
 - [[rho-disengaged-conversational-behaviors-2026]] — Comportamentos conversacionais desengajados em diálogos entre estudantes e IA (Rho et al. 2026)
+
 - [[mata-sustaining-ai-enabled-student-support-2026]] — Sustentando o apoio estudantil viabilizado por IA: estudo de implementação e impacto de quatro anos de um chatbot institucional (Mata, Russell & Page 2026)
 - [[usher-faraon-who-grades-best-2026]] — Comparando a correção por ChatGPT, por pares e pelo instrutor em diferentes níveis de qualidade de projeto (Usher & Faraon 2026)
 - [[llm-agents-5e-esl-grammar-2026]] — Agentes de LLM com o framework 5E para aquisição de gramática de inglês como segunda língua (Yang et al. 2026)
@@ -133,4 +144,3 @@ Ganguly, A., Mehjabin, N., Malik, A., & Johri, A. (2025). [*Conversational AI ag
 - [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: a tutoria por IA e a tutoria humana produzem ganhos de aprendizagem equivalentes no GRE
 
 - [[helpcoach-ai-help-seeking-scaffolding-2026]] — HelpCoach: andamiando a busca de ajuda direcionada à IA durante a resolução de problemas
-

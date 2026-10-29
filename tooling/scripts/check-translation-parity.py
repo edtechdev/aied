@@ -81,8 +81,20 @@ def h2_sections(body):
 
 CITATION_HEADING = re.compile(
     r'^\s*(?:citation|cita|zitation|citazione|citacao|citação|цитирование|цитування|ציטוט|引用|인용|'
-    r'उद्धरण|الاستشهاد|atıf|atıflar|marejeleo|citace|citiranje|citare|citácia|cytau|тын|nimewo|bron|'
+    r'उद्धरण|الاستشهاد|atıf|atıflar|marejeleo|nukuu|nukta|citace|citiranje|citare|citácia|cytau|тын|nimewo|bron|'
     r'kaynakça)\s*$', re.I)
+
+
+def drop_citation_sections(text):
+    """Remove every Citation section whole, heading and text, before structural comparison.
+
+    English puts Citation last; a translated page has to end with its connected lists, so its
+    citation section sits one place earlier and its POSITION cannot be compared.
+    """
+    parts = re.split(r'\n(?=## )', text)
+    keep = [x for x in parts
+            if not (x.startswith('## ') and is_citation_heading(x.split('\n', 1)[0][3:]))]
+    return '\n'.join(keep)
 
 
 def is_citation_heading(heading_text):
@@ -241,15 +253,6 @@ def check_pair(en_path, loc, collection, slug, body_changed=True):
         if mark in text:
             errors.append(f'{label}: carries bidi control mark U+{ord(mark):04X}')
             break
-
-    # A Citation section is excluded whole, text and heading alike. Removing only the heading line
-    # left its paragraphs inside the neighbouring section, which made a page that carries a
-    # citation look like a page with a merged section.
-    def drop_citation_sections(text):
-        parts = re.split(r'\n(?=## )', text)
-        keep = [x for x in parts
-                if not (x.startswith('## ') and is_citation_heading(x.split('\n', 1)[0][3:]))]
-        return '\n'.join(keep)
 
     body_counted = drop_citation_sections(body)
     en_counted = drop_citation_sections(en_body)

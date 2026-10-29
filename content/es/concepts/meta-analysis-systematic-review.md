@@ -1,7 +1,7 @@
 ---
 title: Metaanálisis y revisión sistemática
 created: "2026-09-28T18:22:28-04:00"
-updated: "2026-10-28T15:53:28-04:00"
+updated: "2026-10-29T04:40:26-04:00"
 type: concept
 foundations: [ai-education]
 connected_faqs: [reporting-interpreting-aied-research]
@@ -16,6 +16,10 @@ contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
+    date: "2026-10-29"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
     date: "2026-10-28"
     agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
@@ -23,9 +27,10 @@ ai_assist:
     date: "2026-09-28"
     agent: hermes-agent
 ---
+
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 
-> **El metaanálisis y la revisión sistemática** — la familia de métodos de síntesis de evidencia que usa la investigación para agregar y valorar un conjunto de estudios, en lugar de realizar un único experimento nuevo. Una **revisión sistemática** aplica un protocolo transparente y reproducible para buscar, cribar, valorar y sintetizar la literatura sobre una pregunta acotada; un **metaanálisis** va más allá al agrupar estadísticamente los tamaños del efecto de los estudios elegibles para producir una estimación resumida ponderada y poner a prueba moderadores. En la [[ai-education|IA en la educación]], estos métodos son centrales para establecer la base de evidencia sobre si las herramientas de IA funcionan, en qué condiciones y para quién, y para exponer lagunas, sesgos y la calidad metodológica del campo.([[genai-meta-analysis-programming-learning]])([[zerkouk-comprehensive-review-its-2025]])
+> **El metaanálisis y la revisión sistemática** — la familia de métodos de síntesis de evidencia que usa la investigación para agregar y valorar un conjunto de estudios, en lugar de realizar un único experimento nuevo. Una **revisión sistemática** aplica un protocolo transparente y reproducible para buscar, cribar, valorar y sintetizar la literatura sobre una pregunta acotada; un **metaanálisis** va más allá al agrupar estadísticamente los tamaños del efecto de los estudios elegibles para producir una estimación resumida ponderada y poner a prueba moderadores. En la [[ai-education|IA en la educación]] (IAED), estos métodos son centrales para establecer la base de evidencia sobre si las herramientas de IA funcionan, en qué condiciones y para quién, y para exponer lagunas, sesgos y la calidad metodológica del campo.([[genai-meta-analysis-programming-learning]])([[zerkouk-comprehensive-review-its-2025]])
 
 ## Preguntas para reflexionar
 
@@ -91,7 +96,6 @@ La fiabilidad del cribado puede depender del constructo: en una revisión de alc
 - **[[alsheikh-mapping-ai-integration-higher-education-2026|Revisión de mapeo de la integración de la IA en la educación superior (FACETS + SAMR)]]** — una revisión PRISMA 2020 que criba 959 registros hasta 22 estudios de intervención e ilustra cómo un marco de codificación (FACETS: Forma, caso de uso de IA, Contexto, foco educativo, Tecnología, [[samr-model|SAMR]]) más una lente evaluativa (SAMR) mapea una literatura fragmentada y gradúa la profundidad de la transformación. La mayoría de los estudios incluidos se situaban en Sustitución/Aumento de SAMR, lo que muestra que las revisiones de mapeo pueden revelar un campo de integración amplio pero superficial: una alternativa al agrupamiento de efectos cuando el objetivo es describir un panorama y no estimar un efecto.
 - **[[teacher-intervention-k12-ai-based-instruction-2026|Revisión sistemática de la intervención docente en la instrucción basada en IA en K-12]]** — Lee (2026) cribó 1.565 registros hasta 29 estudios con dos evaluadores independientes en cada etapa (κ = 0,655 en el cribado, κ = 0,647 en la elegibilidad) y una valoración de calidad con MMAT que eliminó un estudio. Es un ejemplo instructivo de síntesis que se detiene deliberadamente antes del agrupamiento: como el efecto independiente de la intervención del [[teacher-role|profesorado]] no podía separarse del diseño del sistema de IA, de la estructura instruccional y del contexto de aula en la mayoría de los estudios incluidos, la revisión reporta resultados condicionales y un marco explicativo de proceso, estrategia y efecto en lugar de un tamaño del efecto, la misma limitación que separa una revisión de un metaanálisis.
 - **[[agarwal-ethical-values-norms-aied-2026|Revisión sistemática de los valores y las normas éticas en la IAED]]** — Agarwal y sus colegas (2026) cribaron 736 registros en Web of Science, ERIC, IEEE CSDL y ACM DL (más una búsqueda de bola de nieve hacia atrás) hasta 25 artículos incluidos, y consolidaron la fragmentada literatura sobre [[ethics|ética de la IAED]] en seis valores éticos principales (no discriminación, custodia de datos, [[human-in-the-loop-ai|supervisión humana]], buena voluntad, explicabilidad y aptitud educativa) y mapearon las normas éticas en una matriz de partes interesadas por valores. La revisión ilustra cómo un protocolo sistemático puede sintetizar una literatura conceptualmente fragmentada y en gran medida no empírica (solo tres de los 25 artículos eran trabajos metodológicos o investigación original) y convertirla en un marco accionable: aquí, una base para la [[governance|gobernanza]] y la [[educational-policy-ai|política]].
-
 - **[[chen-pbl-pjbl-genai-meta-analysis-2026|Metaanálisis de tres niveles de la IA generativa en el aprendizaje basado en problemas y en proyectos]]** — Chen y sus colegas (2026) agrupan 22 estudios controlados y 66 tamaños del efecto en un efecto grande sobre resultados internos de quien aprende (g = 0,819, IC del 95% [0,655, 0,983]), y luego reportan que una corrección de estudio pequeño PET-PEESE rebaja la estimación a g = 0,378, mientras que el modelo de desempeño de producto (g = 1,958, seis estudios) conlleva un intervalo de predicción que cruza el cero. Se descartaron dos estudios más por no superar un umbral de equivalencia de línea base de 0,25 DE del What Works Clearinghouse. El efecto reportado depende de las correcciones de sesgo y los filtros de diseño que aplica una síntesis, y ambos pertenecen a la interpretación y no a una nota al pie.
 
 ### Revisión interdisciplinar de la IA para la dislexia
@@ -119,7 +123,7 @@ El mismo artefacto aparece en la dimensión temporal. [[jing-genai-learning-outc
 - **Obsolescencia rápida** — el panorama de herramientas de IA cambia deprisa, así que las revisiones pueden quedar desfasadas con rapidez
 - **Restricciones de alcance** — las búsquedas en una sola base de datos o solo en inglés pueden pasar por alto trabajo relevante.([[ai-collaborative-learning-systematic-review]])([[ai-vocational-education-training-review]])
 
-**La metainvestigación advierte de que la base de síntesis de la IAED es actualmente débil.** Un conjunto creciente de críticas documenta que los tamaños del efecto de la IA que titulan el campo —sobre todo los de los primeros metaanálisis— están inflados por el sesgo de publicación, la incoherencia de constructo y los atajos metodológicos. [[bartos-ai-learning-meta-meta-analysis-2026|Bartoš et al. (2026)]], al meta-analizar 1.840 tamaños del efecto de 67 metaanálisis, estiman el efecto de la IA ajustado por sesgo de publicación en aproximadamente un tercio de la magnitud reportada (DME ≈ 0,196), con una heterogeneidad extrema. [[oneill-presumed-effective-meta-analysis-2026|O'Neill (2026)]] audita 14 metaanálisis de alto impacto sobre IAED y encuentra que ninguno tenía un constructo coherente, una evaluación válida del sesgo de publicación ni una heterogeneidad resuelta; doce trataron tamaños del efecto dependientes como independientes. [[weidlich-chatgpt-effect-search-cause-2025|Weidlich et al. (2025)]] muestran que la mayoría de las comparaciones primarias carecen de un tratamiento, un control y una medida de aprendizaje bien definidos. Esto significa que quien lee debería tratar los tamaños del efecto agrupados de la IAED como límites superiores hasta que mejore la calidad de la síntesis; véase [[limitations-in-aied-research|Limitaciones de la investigación en IAED]] para el análisis completo.
+**La metainvestigación advierte de que la base de síntesis de la IAED es actualmente débil.** Un conjunto creciente de críticas documenta que los tamaños del efecto de la IA que titulan el campo —sobre todo los de los primeros metaanálisis— están inflados por el sesgo de publicación, la incoherencia de constructo y los atajos metodológicos. [[bartos-ai-learning-meta-meta-analysis-2026|Bartoš et al. (2026)]], al meta-analizar 1.840 tamaños del efecto de 67 metaanálisis, estiman el efecto de la IA ajustado por sesgo de publicación en aproximadamente un tercio de la magnitud reportada (SMD ≈ 0,196), con una heterogeneidad extrema. [[oneill-presumed-effective-meta-analysis-2026|O'Neill (2026)]] audita 14 metaanálisis de alto impacto sobre IAED y encuentra que ninguno tenía un constructo coherente, una evaluación válida del sesgo de publicación ni una heterogeneidad resuelta; doce trataron tamaños del efecto dependientes como independientes. [[weidlich-chatgpt-effect-search-cause-2025|Weidlich et al. (2025)]] muestran que la mayoría de las comparaciones primarias carecen de un tratamiento, un control y una medida de aprendizaje bien definidos. Esto significa que quien lee debería tratar los tamaños del efecto agrupados de la IAED como límites superiores hasta que mejore la calidad de la síntesis; véase [[limitations-in-aied-research|Limitaciones de la investigación en IAED]] para el análisis completo.
 - **Los estándares de reporte no han seguido el ritmo de la automatización.** PRISMA-LLM analiza SciLitBench, un corpus de 888 artículos sobre automatización de revisiones con 14.726 anotaciones, y documenta una tasa de crecimiento cercana al 4,7% mensual junto a una brecha de rendición de cuentas: desde 2023, el 38,0% de los artículos sobre software y productos no reportaron ninguna evaluación, frente al 9,3% de los artículos sobre LLM, y el 52% de las evaluaciones de LLM solo positivas reportaron una preocupación de alto nivel no resuelta. Como los flujos de trabajo con LLM y con software participan ahora en etapas que pueden alterar la base de evidencia, el marco exige divulgar dónde operó la automatización en el flujo de trabajo de la revisión, qué se evaluó y qué limitaciones se comprobaron: una extensión directa del problema de transparencia que [[limitations-in-aied-research|las críticas a las revisiones de IAED]] han documentado para los metaanálisis de efectos sobre el aprendizaje. ([[prisma-llm-ai-assisted-systematic-reviews-2026]])
 - **Un ejemplo práctico de una revisión que decidió deliberadamente no agrupar.** [[spyropoulou-genai-instructional-design-systematic-review-2026|Spyropoulou y Kameas (2026)]] sintetizaron 78 estudios sobre diseño instruccional apoyado por IA (2022-2026) y juzgaron **inapropiada** la síntesis cuantitativa porque el corpus mezclaba informes de profesionales, estudios de caso de muestra pequeña y diseños de métodos mixtos. En lugar de forzar un efecto agrupado, realizaron una síntesis temática cualitativa y fueron explícitos en que la solidez de la evidencia se pondera en todo momento y no se da por supuesta. Esa es la decisión correcta mucho más a menudo de lo que refleja la literatura: cuando un corpus no puede sostener un agrupamiento, negarse a agrupar es un hallazgo sobre el campo y no una carencia metodológica de la revisión.
 - **Una valoración de la calidad usada para ponderar, no para excluir.** La revisión evaluó cada estudio con el **MMAT 2018** y dejó que esa valoración informara la confianza asignada a cada hallazgo sintetizado en lugar de descartar los diseños más débiles. Los estudios de menor calidad contribuyen así con un peso correspondientemente menor, lo que preserva la forma de la base de evidencia —incluidas sus debilidades— en vez de presentar una versión filtrada. La elección importa porque los criterios de exclusión y las reglas de ponderación pueden cambiar la conclusión de una revisión sin cambiar su cumplimiento del protocolo.
@@ -160,6 +164,7 @@ Dentro del panorama metodológico de la base de conocimiento, el metaanálisis y
 - [[research-methods-aied]]
 - [[rct]]
 - [[ai-ed-evaluation]]
+- [[ai-assisted-educational-research]] — Investigación educativa asistida por IA
 - [[benchmark]]
 - [[educational-measurement]]
 - [[assessment-validity]]
@@ -170,8 +175,6 @@ Dentro del panorama metodológico de la base de conocimiento, el metaanálisis y
 - [[simulation]]
 
 ## Artículos conectados
-- [[khodjaev-genai-outcomes-meta-analysis-2026] — Un metaanálisis de los efectos de la inteligencia artificial generativa en resultados de aprendizaje, cognitivos y lingüísticos
-- [[tie-responsible-genai-use-academic-writing-review-2026] — Uso responsable de la IA generativa por parte del estudiantado en la escritura académica: una revisión de alcance de límites, enfoques educativos y lagunas de evidencia
 - [[edurev-100741-tpack-genai-review]] — Revisión sistemática de la IA generativa en el aprendizaje del estudiantado desde una perspectiva TPACK
 - [[genai-meta-analysis-programming-learning]] — Metaanálisis del efecto de la IA generativa sobre la productividad y el aprendizaje en programación
 - [[ai-vocational-education-training-review]] — Primera revisión sistemática de la IA en la educación y la formación profesional
@@ -199,4 +202,7 @@ Dentro del panorama metodológico de la base de conocimiento, el metaanálisis y
 - [[yalcin-genai-programming-education-systematic-review-2026]] — Revisión sistemática de la IA generativa en la educación en programación: reporte instruccional escaso en 26 de 46 estudios
 
 - [[genai-cognitive-offloading-learner-agency-review-2026]] — Revisión de alcance de 123 estudios que mapea la IA generativa, la descarga cognitiva y la agencia del estudiantado en la educación superior
-- [[ai-assisted-educational-research]] — Investigación educativa asistida por IA
+
+- [[khodjaev-genai-outcomes-meta-analysis-2026]] — Un metaanálisis de los efectos de la inteligencia artificial generativa en resultados de aprendizaje, cognitivos y lingüísticos
+
+- [[tie-responsible-genai-use-academic-writing-review-2026]] — Uso responsable de la IA generativa por parte del estudiantado en la escritura académica: una revisión de alcance de límites, enfoques educativos y lagunas de evidencia
