@@ -1,7 +1,7 @@
 ---
 title: Experiencia del estudiantado
 created: "2026-09-28T19:10:59-04:00"
-updated: "2026-10-26T22:02:40-04:00"
+updated: "2026-10-29T05:15:25-04:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [well-being]
@@ -11,10 +11,14 @@ level: [higher ed, k 12]
 connected_faqs: [does-ai-help-students-learn, how-ai-impacts-students, ai-anxiety-wellbeing]
 confidence: high
 translation_of: concepts/student-experience
-source_updated: "2026-10-25T23:15:00-04:00"
+source_updated: "2026-10-28T19:24:33-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-29"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
@@ -79,7 +83,7 @@ La verificación puede cambiar cómo el estudiantado vive la cuestión: una peti
 
 ### Impactos sociales y relacionales
 
-- **Positivos:** la IA puede mediar en la [[collaborative-learning|colaboración]] y en la [[student-ai-interaction|interacción entre humanos e IA]], apoyando el trabajo en equipo, la interacción entre pares y el acceso a perspectivas diversas.
+- **Positivos:** la IA puede mediar en la [[collaborative-learning|colaboración]] y en la [[human-ai-collaboration|interacción entre humanos e IA]], apoyando el trabajo en equipo, la interacción entre pares y el acceso a perspectivas diversas.
 - **Negativos:** la IA puede reducir la interacción genuina con los pares y con el profesorado, crear dinámicas de [[ai-sycophancy|adulación]] y, cuando opera como compañero de equipo no declarado, remodelar el discurso grupal y la [[agency|agencia]] de formas que quien aprende no puede ver ni contestar (véase la [[jin-emergent-learner-agency-implicit-hai-2026|agencia emergente de quien aprende en la interacción implícita entre humanos e IA]]).
 
 ### Impactos a largo plazo y en las capacidades

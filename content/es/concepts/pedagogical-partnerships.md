@@ -1,7 +1,7 @@
 ---
 title: "Alianzas pedagógicas"
 created: "2026-09-28T18:18:41-04:00"
-updated: "2026-10-28T13:36:06-04:00"
+updated: "2026-10-29T05:15:25-04:00"
 type: concept
 foundations: [agency, curriculum-design, learning-design, teacher-role]
 pedagogy: [collaborative-learning, pedagogical-partnerships, pedagogy, student-engagement]
@@ -10,10 +10,14 @@ audience: [instructors, learners, instructional designers, administrators]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/pedagogical-partnerships
-source_updated: "2026-10-27T10:05:00-04:00"
+source_updated: "2026-10-28T18:53:18-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-29"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-28"
@@ -26,7 +30,7 @@ ai_assist:
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 
-> **Las [[pedagogy|alianzas pedagógicas]]** (también conocidas como **estudiantes como socios** o **SaP**): un enfoque de la enseñanza y el aprendizaje centrado en la relación, en el que estudiantes y docentes trabajan juntos como colaboradores para cocrear el currículo, las actividades de enseñanza, la [[assessment|evaluación]], los recursos educativos abiertos y las políticas educativas, en lugar de tratar al estudiantado como receptor pasivo de una instrucción diseñada por el profesorado. Anclada en los valores del **respeto, la reciprocidad y la responsabilidad** (Cook-Sather et al., 2014), la alianza pedagógica reposiciona al estudiantado como cocreador del conocimiento y de la innovación educativa y cuestiona las dinámicas de poder jerárquicas y descendentes tradicionales en la educación. En la era de la IA, la alianza se ha convertido en una contranarrativa clave frente a las visiones deficitarias que presentan al estudiantado como tramposo o como víctima, y lo sitúa como socio en el codiseño de políticas, herramientas y prácticas de IA.
+> **Las [[pedagogy|alianzas pedagógicas]]** (también conocidas como **estudiantes como socios** o **SaP**): un enfoque de la enseñanza y el aprendizaje centrado en la relación, en el que estudiantes y docentes trabajan juntos como colaboradores para cocrear el currículo, las actividades de enseñanza, la [[assessment|evaluación]], los [[open-education|recursos educativos abiertos]] y las políticas educativas, en lugar de tratar al estudiantado como receptor pasivo de una instrucción diseñada por el profesorado. Anclada en los valores del **respeto, la reciprocidad y la responsabilidad** (Cook-Sather et al., 2014), la alianza pedagógica reposiciona al estudiantado como cocreador del conocimiento y de la innovación educativa y cuestiona las dinámicas de poder jerárquicas y descendentes tradicionales en la educación. En la era de la IA, la alianza se ha convertido en una contranarrativa clave frente a las visiones deficitarias que presentan al estudiantado como tramposo o como víctima, y lo sitúa como socio en el codiseño de políticas, herramientas y prácticas de IA.
 
 ## Preguntas para reflexionar
 

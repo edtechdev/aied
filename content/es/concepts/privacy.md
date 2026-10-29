@@ -2,7 +2,7 @@
 connected_resources: [drawsplat]
 title: Privacidad
 created: "2026-09-28T19:11:03-04:00"
-updated: "2026-10-28T13:36:06-04:00"
+updated: "2026-10-29T05:15:25-04:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, ai-guidance-children-under-13, institutional-ai-policy]
 type: concept
 technology: [learning-analytics, personalized-learning]
@@ -11,10 +11,14 @@ level: [k 12]
 confidence: high
 institutions: [educational-policy-ai, governance, regulation]
 translation_of: concepts/privacy
-source_updated: "2026-10-28T09:45:00-04:00"
+source_updated: "2026-10-28T19:28:52-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-29"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-28"
@@ -27,7 +31,7 @@ ai_assist:
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 
-> **Privacidad**: la protección de los datos, la identidad y la [[agency|autonomía]] del estudiantado en entornos de aprendizaje aumentados por IA. Las preocupaciones por la privacidad se intensifican a medida que los sistemas de IA recopilan datos conductuales cada vez más granulares para la [[personalized-learning|personalización]], la [[learning-analytics|analítica]] y la [[student-modeling|instrucción adaptativa]]. Es una restricción ética y regulatoria central de la [[ai-education|IA en la educación]]: casi todas las herramientas de IA que personalizan, predicen o evalúan dependen de datos de aprendices, lo que convierte la minimización de datos, el consentimiento, la transparencia y la seguridad en requisitos de diseño fundacionales y no en algo que se añade después.
+> **Privacidad**: la protección de los datos, la identidad y la [[agency|autonomía]] del estudiantado en entornos de aprendizaje aumentados por IA. Las preocupaciones por la privacidad se intensifican a medida que los sistemas de IA recopilan datos conductuales cada vez más granulares para la [[personalized-learning|personalización]], la [[learning-analytics|analítica]] y la [[adaptive-learning|instrucción adaptativa]]. Es una restricción ética y regulatoria central de la [[ai-education|IA en la educación]]: casi todas las herramientas de IA que personalizan, predicen o evalúan dependen de datos de aprendices, lo que convierte la minimización de datos, el consentimiento, la transparencia y la seguridad en requisitos de diseño fundacionales y no en algo que se añade después.
 
 ## Preguntas para considerar
 

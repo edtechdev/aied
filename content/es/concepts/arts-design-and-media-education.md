@@ -1,7 +1,7 @@
 ---
 title: Educación en artes, diseño y medios
 created: "2026-09-28T19:10:33-04:00"
-updated: "2026-10-29T05:05:47-04:00"
+updated: "2026-10-29T05:15:25-04:00"
 type: concept
 foundations: [design-thinking]
 pedagogy: [creativity, embodied-learning, project-based-learning]

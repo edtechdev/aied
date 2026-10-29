@@ -1,7 +1,7 @@
 ---
 title: "Cuestiones y riesgos legales"
 created: "2026-09-28T21:12:00-04:00"
-updated: "2026-10-29T05:05:47-04:00"
+updated: "2026-10-29T05:15:25-04:00"
 type: concept
 foundations: [academic-integrity, reducing-ai-misuse]
 assessment: [ai-detection, assessment-validity, remote-proctoring]

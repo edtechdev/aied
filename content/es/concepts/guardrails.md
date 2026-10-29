@@ -1,7 +1,7 @@
 ---
 title: Salvaguardas
 created: "2026-09-28T21:08:00-04:00"
-updated: "2026-10-26T22:02:40-04:00"
+updated: "2026-10-29T05:15:25-04:00"
 type: concept
 technology: [human-in-the-loop-ai, llm, prompt-engineering, rag, reinforcement-learning]
 ethics: [ai-sycophancy, bias-mitigation, pedagogical-safety]
@@ -9,10 +9,14 @@ level: [k 12]
 confidence: high
 connected_faqs: [asynchronous-online-courses-ai]
 translation_of: concepts/guardrails
-source_updated: "2026-10-25T19:00:00-04:00"
+source_updated: "2026-10-28T19:28:52-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-29"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
@@ -79,12 +83,13 @@ Las salvaguardas no son neutrales: la auditoría de [[paternalistic-filter-llm-h
 - **Las salvaguardas** son los *mecanismos y las técnicas*: los controles de diseño concretos (prompting, RAG, entrenamiento, control de calidad, auditoría) que implementan ese objetivo.
 
 Los dos están estrechamente acoplados: casi todas las técnicas de salvaguarda son una forma de lograr la seguridad [[pedagogy|pedagógica]], y la seguridad pedagógica se entrega casi por completo a través de salvaguardas. Conviene por tanto entender las salvaguardas como la **capa de diseño e ingeniería** que subyace al principio de seguridad pedagógica, y también como el término más amplio que se usa en la seguridad general de la IA (moderación de contenido, resistencia a jailbreaks) antes de especializarse para la educación.
+
 **Las salvaguardas como distribución de autoridad.** [[instructional-governance-design-computing-education-2026|Dickey (2026)]] trata las salvaguardas como asignaciones a lo largo de seis dimensiones separables —anclaje pedagógico, autoridad instruccional de la IA, responsabilidad humana, agencia de quien aprende, límites de contexto y visibilidad de la evaluación— y no como puntos en una línea de estricto a permisivo, de modo que herramientas que comparten un modelo pueden distribuir la autoridad de forma muy distinta. A escala de curso, el límite debe cubrir el espacio de las peticiones, el espacio de las respuestas y la visibilidad para quien educa, y no solo el contenido generado.
 **Las salvaguardas pueden redirigir a quienes aprenden en lugar de detenerlos.** [[guardrails-ai-teaching-assistants-programming-2026|Eastwood et al. (2026)]] asignaron al azar a 132 estudiantes de un curso introductorio de programación a cuatro asistentes de enseñanza con IA que variaban en estilo pedagógico (socrático frente a instrucción directa) y en conciencia del contexto. El estudiantado valoró menos favorablemente al asistente socrático con contexto completo, y esa misma condición mostró descriptivamente el mayor estrés de interacción, la mayor tasa de uso externo de LLM de propósito general y la menor proporción de explicaciones posteriores a la tarea que demostraban comprensión plena, diferencias que el estudio reporta como descriptivas y no estadísticamente significativas. La fricción no elimina la demanda de ayuda; puede trasladar esa demanda a herramientas que el curso no puede ver, lo que convierte la calibración en una cuestión de seguridad pedagógica y no solo de diseño.
 
 ## Principios de diseño
 
-1. **Diseñar para la educación, no solo para la toxicidad.** Evalúe con [[benchmark|puntos de referencia]] multiturno y [[discipline-specific-aied|específicos de la materia]] y con auditorías de trato injusto, no con filtros de toxicidad de un solo turno.
+1. **Diseñar para la educación, no solo para la toxicidad.** Evalúe con [[discipline-specific-aied|instrumentos específicos de la materia]] y [[benchmark|puntos de referencia]] multiturno, y con auditorías de trato injusto, no con filtros de toxicidad de un solo turno.
 2. **Preservar el trabajo de aprendizaje.** Las salvaguardas deberían mantener al estudiantado resolviendo, no solo mantenerlo a salvo: pista-no-respuesta, fricción correctiva y andamiaje que sostiene el esfuerzo [[cognitive-offloading|productivo]] en lugar de desactivarlo.
 3. **Anclar en contenido verificado** con RAG y conocimiento del problema redactado por el profesorado.
 4. **Preferir la alineación al rechazo.** Recompense la guía y el andamiaje en el entrenamiento en lugar de depender de reglas de rechazo frágiles.

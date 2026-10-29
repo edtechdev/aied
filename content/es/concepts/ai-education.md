@@ -1,7 +1,7 @@
 ---
 title: IA en la educación
 created: "2026-09-22T14:35:34-04:00"
-updated: "2026-10-29T05:05:47-04:00"
+updated: "2026-10-29T05:15:25-04:00"
 type: concept
 foundations: [ai-education, ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring, llm]

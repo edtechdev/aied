@@ -1,7 +1,7 @@
 ---
 title: Sostenibilidad
 created: "2026-09-28T19:11:56-04:00"
-updated: "2026-10-28T19:00:58-04:00"
+updated: "2026-10-29T05:15:25-04:00"
 type: concept
 foundations: [ai-education]
 technology: [generative-ai]
@@ -10,10 +10,14 @@ level: [higher ed, k 12, teacher education]
 confidence: high
 institutions: [educational-policy-ai, governance]
 translation_of: concepts/sustainability
-source_updated: "2026-10-26T07:55:00-04:00"
+source_updated: "2026-10-28T18:53:18-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-29"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
@@ -63,11 +67,11 @@ La segunda vía se ocupa de la propia huella de la IA en entornos educativos:
 
 ## El aprendizaje sostenible como objetivo pedagógico
 
-Una línea relacionada enmarca la sostenibilidad no solo como una preocupación ambiental o institucional, sino como una propiedad del propio aprendizaje. [[zhu-e3-hot-embodied-intelligence-sustainable-learning|Zhu et al. (2026)]] sostienen que el aprendizaje asistido por IA corre el riesgo de descarga cognitiva y de desvinculación de contextos auténticos, y proponen marcos (E3-HOT) para el **aprendizaje sostenible**: un aprendizaje que persiste, se transfiere y sigue conectado a problemas reales en lugar de quedar cortocircuitado por la [[cognitive-offloading|dependencia cognitiva]]. Esto conecta la sostenibilidad con la [[agency|agencia]] y el [[critical-thinking|pensamiento crítico]].
+Una línea relacionada enmarca la sostenibilidad no solo como una preocupación ambiental o institucional, sino como una propiedad del propio aprendizaje. [[zhu-e3-hot-embodied-intelligence-sustainable-learning|Zhu et al. (2026)]] sostienen que el aprendizaje asistido por IA corre el riesgo de descarga cognitiva y de desvinculación de contextos auténticos, y proponen marcos (E3-HOT) para el **aprendizaje sostenible**: un aprendizaje que persiste, se transfiere y sigue conectado a problemas reales en lugar de quedar cortocircuitado por la [[cognitive-offloading|descarga cognitiva]]. Esto conecta la sostenibilidad con la [[agency|agencia]] y el [[critical-thinking|pensamiento crítico]].
 
 ## Conexiones con otros conceptos
 
-La sostenibilidad y la IA en la educación se sitúan en la intersección de la [[ethics|ética]], la [[governance|gobernanza]], la [[ai-education|IA en la educación]] y las ciencias ambientales y energéticas. Se apoya en la [[teacher-education|formación del profesorado]] y el [[teacher-role|rol docente]] para el desarrollo de capacidades, en el [[learning-design|diseño del aprendizaje]] para la pedagogía, y conecta con el tratamiento que hace la base de conocimiento de la [[cognitive-offloading|dependencia cognitiva]] y el [[critical-thinking|pensamiento crítico]] a través de la lente del «aprendizaje sostenible». Como ambas vías son transversales, la sostenibilidad es un tema fundacional que aparece en la [[higher-ed|educación superior]], en K-12 y en contextos profesionales.
+La sostenibilidad y la IA en la educación se sitúan en la intersección de la [[ethics|ética]], la [[governance|gobernanza]], la [[ai-education|IA en la educación]] y las ciencias ambientales y energéticas. Se apoya en la [[teacher-education|formación del profesorado]] y el [[teacher-role|rol docente]] para el desarrollo de capacidades, en el [[learning-design|diseño del aprendizaje]] para la pedagogía, y conecta con el tratamiento que hace la base de conocimiento de la [[cognitive-offloading|descarga cognitiva]] y el [[critical-thinking|pensamiento crítico]] a través de la lente del «aprendizaje sostenible». Como ambas vías son transversales, la sostenibilidad es un tema fundacional que aparece en la [[higher-ed|educación superior]], en K-12 y en contextos profesionales.
 
 ## Concepciones erróneas
 

@@ -6,12 +6,16 @@ technology: [generative-ai]
 discipline: [science education, stem education]
 confidence: medium
 created: "2026-09-28T21:09:18-04:00"
-updated: "2026-10-26T22:02:40-04:00"
+updated: "2026-10-29T05:15:25-04:00"
 translation_of: concepts/science-education
-source_updated: "2026-10-26T10:00:00-04:00"
+source_updated: "2026-10-28T19:28:52-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-29"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
@@ -24,7 +28,7 @@ ai_assist:
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 
-> **[[stem-education|Educación científica]]** — el estudio y la práctica de cómo aprende ciencias el estudiantado y de cómo enseñarlas, un campo que la IA generativa (LLM, simulaciones, laboratorios virtuales y calificación con IA) está reconfigurando en [[physics-education|física]], química y [[biology-education|biología]]. Los artículos sobre educación científica de esta base de conocimiento muestran un campo que negocia una tensión central: la IA apoya de forma demostrable la indagación, la corrección de ideas erróneas y la evaluación a escala, y a la vez su valor depende del diseño instruccional y conlleva riesgos reales de [[cognitive-offloading|dependencia excesiva]], alucinación y aprendizaje deshumanizado y orientado al beneficio.
+> **[[science-education|Educación científica]]** — el estudio y la práctica de cómo aprende ciencias el estudiantado y de cómo enseñarlas, un campo que la IA generativa (LLM, simulaciones, laboratorios virtuales y calificación con IA) está reconfigurando en [[physics-education|física]], química y [[biology-education|biología]]. Los artículos sobre educación científica de esta base de conocimiento muestran un campo que negocia una tensión central: la IA apoya de forma demostrable la indagación, la corrección de ideas erróneas y la evaluación a escala, y a la vez su valor depende del diseño instruccional y conlleva riesgos reales de [[cognitive-offloading|dependencia excesiva]], alucinación y aprendizaje deshumanizado y orientado al beneficio.
 
 ## Preguntas para reflexionar
 
@@ -37,13 +41,13 @@ ai_assist:
 
 ## Introducción
 
-La educación científica es donde la promesa de la IA y sus límites chocan de forma más visible, porque las disciplinas exigen un razonamiento [[multimodal|multimodal]] riguroso —pensamiento visual-espacial en física, destrezas de laboratorio en química y sistemas a escala de organismo en biología— junto con contenido bien estructurado y verificable, que los LLM manejan bien. Los trece artículos aquí sintetizados abarcan las tres disciplinas y todos los niveles, desde las aulas de secundaria de [[k-12|K-12]] hasta cursos universitarios de [[higher-ed|educación superior]] y programas de [[teacher-education|formación inicial del profesorado]]. En conjunto, emerge un cuadro coherente: la IA funciona mejor no como generadora de respuestas, sino como socia integrada —coinvestigadora, generadora de contenido, asistente de laboratorio virtual— cuya contribución la deciden el [[learning-design|diseño instruccional]] y la estructura pedagógica que la rodea.
+La educación científica es donde la promesa de la IA y sus límites chocan de forma más visible, porque las disciplinas exigen un razonamiento [[multimodal]] riguroso —pensamiento visual-espacial en física, destrezas de laboratorio en química y sistemas a escala de organismo en biología— junto con contenido bien estructurado y verificable, que los LLM manejan bien. Los trece artículos aquí sintetizados abarcan las tres disciplinas y todos los niveles, desde las aulas de secundaria de [[k-12|K-12]] hasta cursos universitarios de [[higher-ed|educación superior]] y programas de [[teacher-education|formación inicial del profesorado]]. En conjunto, emerge un cuadro coherente: la IA funciona mejor no como generadora de respuestas, sino como socia integrada —coinvestigadora, generadora de contenido, asistente de laboratorio virtual— cuya contribución la deciden el [[learning-design|diseño instruccional]] y la estructura pedagógica que la rodea.
 
 Una evaluación aleatorizada de cuatro semanas de una plataforma de revisión con IA en ciencias de GCSE aporta al cuadro una estimación causal —g de Hedges = 0,33, sin evidencia de que el efecto difiriera por asignatura o desventaja— frente a un contrafactual ya rico en tecnología, así que la cifra es valor añadido y no IA frente a nada ([[ai-tutoring-micro-rct-gcse-science-2026|Harrison et al. (2026)]]).
 
 Lo que impulsa la mejora es el acceso estructurado y no el acceso en sí: el crecimiento reportado por los equipos promedió el 17% con acceso individual ilimitado, pero el 34% y el 31% cuando el acceso estaba estructurado, lo que además preservó más discusión entre pares ([[ai-university-physics-education-review-2026|Malikova et al., 2026]]).
 
-Estos hallazgos a nivel de aula se sitúan dentro de una pregunta metodológica más amplia. [[ai-methodologies-science-education-research-2026|Martin, Rost, Koenen y Graulich (2026)]] sostienen que la investigación en educación científica podría estar atravesando actualmente una iteración epistémica, a partir de la explicación de Hasok Chang (2004) sobre etapas sucesivas de conocimiento que se construyen iterativamente hacia fines epistémicos específicos. En su lectura, las metodologías de IA pueden transformar no solo cómo analiza el campo el aprendizaje del estudiantado, sino qué fines epistémicos, criterios y prácticas prioriza. Proponen un marco reflexivo de siete fases (planteamiento del problema; instrumentación y medición; experimentación e inferencia basada en la evidencia; comparaciones y replicación; construcción de normas y consenso; implementación e iteración; y reflexión epistémica continua), ilustrado por el desarrollo de aproximadamente 150 años de la termometría, y lo presentan como un instrumento reflexivo más que como un método validado o un hallazgo empírico.
+Estos hallazgos a nivel de aula se sitúan dentro de una pregunta metodológica más amplia. [[ai-methodologies-science-education-research-2026|Martin, Rost, Koenen y Graulich (2026)]] sostienen que la investigación en educación científica podría estar atravesando actualmente una iteración epistémica, a partir de la explicación de Hasok Chang (2004) sobre etapas sucesivas de conocimiento que se construyen iterativamente hacia fines epistémicos específicos. En su lectura, las metodologías de IA pueden transformar no solo cómo analiza el campo el aprendizaje del estudiantado, sino qué fines epistémicos, criterios y prácticas prioriza. Proponen un marco reflexivo de siete fases (planteamiento del problema; instrumentación y medición; experimentación e inferencia basada en la evidencia; comparaciones y replicación; construcción de normas y consenso; implementación y sus consecuencias; y refinamiento continuo), ilustrado por el desarrollo de aproximadamente 150 años de la termometría, y lo presentan como un instrumento reflexivo más que como un método validado o un hallazgo empírico.
 
 ### Laboratorios virtuales y simulaciones
 

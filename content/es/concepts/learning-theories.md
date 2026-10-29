@@ -1,7 +1,7 @@
 ---
 title: Teorías del aprendizaje
 created: "2026-09-28T19:11:03-04:00"
-updated: "2026-10-26T22:02:40-04:00"
+updated: "2026-10-29T05:15:25-04:00"
 type: concept
 foundations: [learning-design]
 pedagogy: [behaviorism, learning-theories, metacognition, self-regulated-learning]
@@ -10,10 +10,14 @@ level: [higher ed]
 confidence: high
 connected_faqs: [research-gaps-aied]
 translation_of: concepts/learning-theories
-source_updated: "2026-10-25T23:15:00-04:00"
+source_updated: "2026-10-28T19:24:33-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-29"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
@@ -55,7 +59,7 @@ Las teorías del aprendizaje se evalúan en última instancia por sus resultados
 
 Las teorías del aprendizaje importan por tres razones:
 
-- **Predicen los efectos de la IA.** Que una herramienta de IA mejore o perjudique el aprendizaje depende del mecanismo que active. Un tutor que regala las respuestas perjudica bajo una lente constructivista (se salta la construcción), es neutro bajo el conductismo (refuerza) y suscita preocupaciones de carga cognitiva (descarga en lugar de construir). El concepto general de [[cognitive-offloading|dependencia excesiva]] y el de [[cognitive-offloading|dependencia excesiva]] («Over-Reliance») de la base de conocimiento recogen el lado de riesgo de esto.
+- **Predicen los efectos de la IA.** Que una herramienta de IA mejore o perjudique el aprendizaje depende del mecanismo que active. Un tutor que regala las respuestas perjudica bajo una lente constructivista (se salta la construcción), es neutro bajo el conductismo (refuerza) y suscita preocupaciones de carga cognitiva (descarga en lugar de construir). El concepto de [[cognitive-offloading|dependencia excesiva]] de la base de conocimiento y el de [[cognitive-offloading|Over-Reliance]] recogen el lado de riesgo de esto.
 - **Exponen la brecha entre teoría y práctica.** El trabajo empírico encuentra una y otra vez que las implementaciones de IA encarnan teorías distintas de las que afirma el discurso, y muy en particular un lenguaje constructivista emparejado con mecánicas conductistas de ejercicios y práctica.([[ai-vocational-education-training-review]]) Evaluar la IA exige, por tanto, preguntar *qué* teoría encarna realmente un sistema, y no solo si «funciona».
 - **Se están repensando activamente.** La IA generativa está [[prompt-engineering|empujando]] al profesorado a revisar si las teorías clásicas bastan. El [[generativism-learning-theory|generativismo]] propone que el aprendizaje en la era de la IA ocurre cada vez más mediante una coconstrucción iterativa entre quienes aprenden y los sistemas de IA, lo que amplía las cuatro teorías clásicas (conductismo, cognitivismo, constructivismo, conectivismo) en lugar de sustituirlas.([[generativism-learning-theory]])
 
@@ -65,7 +69,7 @@ El trabajo teórico reciente amplía la línea clásica en varias direcciones, y
 
 - **[[regulation|Corregulación]] humano-IA.** Un marco evolutivo sitúa la IA no como un instrumento externo, sino como una **pareja cognitiva** que corregula el pensamiento, el aprendizaje y el autocontrol a lo largo de la vida.([[ai-cognitive-partner-co-regulation-learning]]) A partir de la función ejecutiva, la [[metacognition|metacognición]], la cognición distribuida y el desarrollo sociocultural, asigna a la IA cuatro roles (andamiaje, apoyo metacognitivo, sistema de memoria externa o de [[cognitive-offloading|dependencia excesiva]] y pareja en la toma de decisiones), y el marco resulta más pertinente a partir de la infancia media.
 - **Cognición en conjunto.** Un marco [[philosophy-of-ai-in-education|filosófico]] reconceptualiza el pensamiento como algo que emerge de interacciones dinámicas entre agentes humanos y artificiales en lugar de residir únicamente en mentes individuales.([[ensemble-cognition-philosophy-ai-education]]) Cuestiona el «paradigma de la conciencia» (los supuestos de autonomía, conciencia y estabilidad) y articula cinco rasgos —agencia distribuida, centralidad dinámica, orquestación cognitiva, integración multirrepresentacional y conmutación sensible al contexto—, a la vez que distingue la **agencia funcional** de la IA de la responsabilidad moral.
-- **Crecimiento [[self-directed-learning|autodirigido]] / A2PL.** Una extensión del [[self-regulated-learning|aprendizaje autodirigido]] integra la IA generativa con la [[learning-analytics|analítica del aprendizaje]] para cultivar el **Crecimiento Autodirigido**, operacionalizado mediante el modelo Aspire to Potentials for Learners (A2PL).([[self-directed-growth-generative-ai-learning-analytics]]) Reconfigura las aspiraciones de quien aprende (humanistas), el pensamiento complejo (constructivista) y la autoevaluación (pragmática) en una única competencia, y sitúa la IA generativa como un andamiaje colaborativo no prescriptivo y no como un proveedor de contenidos.
+- **Crecimiento [[self-directed-learning|autodirigido]] / A2PL.** Una extensión del [[self-directed-learning|aprendizaje autodirigido]] integra la IA generativa con la [[learning-analytics|analítica del aprendizaje]] para cultivar el **Crecimiento Autodirigido**, operacionalizado mediante el modelo Aspire to Potentials for Learners (A2PL).([[self-directed-growth-generative-ai-learning-analytics]]) Reconfigura las aspiraciones de quien aprende (humanistas), el pensamiento complejo (constructivista) y la autoevaluación (pragmática) en una única competencia, y sitúa la IA generativa como un andamiaje colaborativo no prescriptivo y no como un proveedor de contenidos.
 
 - **Sobre-generalización engañosa.** [[deceptive-overgeneralization-adaptive-learning-2026|An, McLaren y Stamper (2026)]] amplían la tradición ACT-R / Knowledge-Learning-Instruction al teorizar cuándo la corrección observada enmascara una comprensión condicional incompleta: quien aprende compila una producción sobre-generalizada que omite una restricción de aplicación y aun así se desempeña correctamente, un modo de fallo que los sistemas adaptativos de dominio, e incluso la enseñanza tradicional, pueden pasar por alto salvo que pongan a prueba *cuándo abstenerse* de actuar.
 - **Teoría KLI ejecutable.** [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit, Koedinger y Carvalho (2025)]] fundamentan el marco Knowledge-Learning-Instruction en un modelo computacional ejecutable (el marco Apprentice Learner con un mecanismo de memoria al estilo ACT-R) que reproduce una interacción cruzada en datos humanos: la práctica pura ayuda a la memoria literal de hechos (al retrasar el olvido), mientras que la práctica integrada con ejemplos ayuda a la inducción de habilidades generalizables. Como la KLI vincula el conocimiento constante (de hechos) con los procesos de memoria y el conocimiento variable (de habilidades) con la inducción, el resultado es una interacción contenido-tratamiento predicha y no una contradicción entre las recomendaciones de evaluación y las de ejemplos resueltos, y el éxito del modelo solo cuando hay un mecanismo de memoria demuestra que la práctica y los ejemplos desempeñan papeles distintos y complementarios.

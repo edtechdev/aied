@@ -2,7 +2,7 @@
 connected_resources: [master-instructional-design]
 title: Aprendizaje en el lugar de trabajo
 created: "2026-09-28T20:10:26-04:00"
-updated: "2026-10-28T15:53:28-04:00"
+updated: "2026-10-29T05:15:25-04:00"
 type: concept
 foundations: [ai-literacy, educational-development]
 technology: [generative-ai, llm, simulation]
@@ -11,10 +11,14 @@ audience: [instructors, administrators, learners]
 level: [adult learning, higher ed]
 confidence: high
 translation_of: concepts/professional-training
-source_updated: "2026-10-28T15:48:01-04:00"
+source_updated: "2026-10-28T16:44:25-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-29"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-28"
@@ -24,6 +28,7 @@ ai_assist:
     date: "2026-09-28"
     agent: hermes-agent
 ---
+
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 
 > **Aprendizaje en el lugar de trabajo** — el uso de la IA para el desarrollo de la fuerza laboral, el aprendizaje corporativo y la adquisición de habilidades profesionales. La formación profesional extiende la [[ai-education|IA en la educación]] más allá de la escolarización formal hacia contextos de trabajo y de [[lifelong-learning|aprendizaje a lo largo de la vida]].
@@ -44,7 +49,7 @@ ai_assist:
 
 [[ai-coaching-rl-skill-development|Wang et al. (2026)]] añaden una lección sobre la política de entrenamiento: desvanecer la ayuda en función de la competencia estimada del estudiantado recortó el tiempo por vuelta en el simulador un 27,9% (p = 0,005) y los fallos en 3,52 por vuelta, mientras que el desvanecimiento basado en reglas con un calendario fijo no produjo ningún cambio fiable en el tiempo por vuelta.
 - **Un ensayo voluntario solo de texto no movió nada.** Se ofreció un paciente GPT-4o a 201 estudiantes de medicina de primer año antes de su primera clase con pacientes estandarizados; 49 lo usaron, y el nerviosismo, la preparación, la autoeficacia y la competencia autopercibida no difirieron de los 84 controles. 6 de 19 no usuarios que dieron una razón citaron problemas técnicos o de acceso ([[jongkind-genai-patient-medical-communication-2026|Jongkind et al. (2026)]]).
-- **Integración con el aprendizaje a lo largo de la vida:** la [[research-methods-aied|investigación]] sobre el [[lifelong-learning|aprendizaje a lo largo de la vida]] y el [[adult-learning|aprendizaje de personas adultas]] conecta la formación profesional con la educación continua.
+- **Integración con el aprendizaje a lo largo de la vida:** el [[lifelong-learning|aprendizaje a lo largo de la vida]] y el [[adult-learning|aprendizaje de personas adultas]] conectan la formación profesional con la educación continua, y son objeto de [[research-methods-aied|investigación]].
 - **Sector público:** [[ai-adoption-training-public-sector|la adopción de la IA en el sector público]] examina la formación en contextos gubernamentales.
 - **Marcos de preparación para la fuerza laboral:** [[workforce-readiness-smart-manufacturing-wrl-2026|Smith et al.]] proponen un marco de Niveles de Preparación para la Fuerza Laboral (WRL) que adapta la escala de Niveles de Preparación Tecnológica a nueve etapas de competencia puntuadas en cuatro pilares (alfabetización digital y [[ai-literacy|en IA]], fluidez ciberfísica, [[human-ai-collaboration|colaboración persona-máquina]] y toma de decisiones basada en datos), bajo una regla de «ningún pilar débil». La evidencia de proyectos finales de fabricación inteligente muestra que las etapas de preparación más altas están condicionadas por la experiencia integrada en la industria y no por los cursos, lo que apunta al aprendizaje integrado en el trabajo como algo esencial para la formación profesional en IA.
 - **Las prioridades del profesorado y de las empresas divergen.** Una encuesta a 500 instructores estadounidenses y un panel de empleadores coincidieron en la importancia de solo una de 26 habilidades de IA —establecer expectativas realistas para el trabajo aumentado con IA— y solo tres de las 26 eran enseñadas por la mitad o más de los instructores ([[ithaka-sr-ai-skills-college-graduates-2026|Fried (2026)]]).
@@ -54,8 +59,19 @@ ai_assist:
 - **Prospectiva sobre la fuerza laboral:** [[ai-engineering-computing-workforce-grey-literature-2026|Fletcher et al.]] revisan la literatura gris estadounidense sobre la IA y la fuerza laboral de ingeniería e informática, enmarcan el «problema del doble tren» (cambio rápido frente a política urgente) y recomiendan que la [[higher-ed|educación superior]] priorice competencias duraderas en IA, la [[ethics|ética]] y la [[governance|gobernanza]], y credenciales basadas en habilidades alineadas con roles emergentes (por ejemplo, la [[prompt-engineering|ingeniería de prompts]], la auditoría de IA o la [[educational-policy-ai|política sobre IA]]) para sostener el trabajo centrado en las personas en una economía automatizada.
 - **Los diseños que sostienen las habilidades pierden bajo métricas de rendimiento.** [[skill-sustaining-reliance-reflective-ai-engagement-2026|de Jong (2026)]] sostiene que la interacción reflexiva contradice la promesa de decisiones más rápidas y mayor rendimiento que impulsa la adopción de la IA en el trabajo profesional: un estudio controlado puede absorber la fricción, pero un entorno que mide el rendimiento por la velocidad o la cantidad no puede, y donde los rivales ofrecen un apoyo equivalente sin fricción, los diseños que sostienen las habilidades se convierten en una desventaja competitiva —un problema que, según el artículo, puede corresponder a la política organizativa o al gobierno y no al diseño de la interacción.
 - **Evaluación oral para la capacidad profesional.** Un estudio de diseño de FP aborda el desajuste histórico entre una evaluación muy textual y las capacidades verbales y situacionales que certifican las cualificaciones profesionales, usando un [[llm|LLM]] para apoyar una evaluación oral interactiva. En cuatro cohortes, el formato de voz fue valorado como realista por 21 de 33 estudiantes, sin ninguna respuesta discrepante sobre su ventaja frente a un [[eportfolio|portafolio]] escrito, y el sistema funcionó totalmente sin conexión en un portátil para hasta 12 estudiantes simultáneos, eliminando las grabaciones a los 90 días y dejando la puntuación a quienes evalúan ([[ai-supported-oral-assessment-tvet-2026]]). Es un ejemplo concreto de cómo la IA amplía el rango de competencias evaluables en la formación profesional en lugar de limitarse a automatizar formatos escritos existentes. Sus cohortes, sin embargo, eran clases de automoción e ingeniería de nivel 3, así que la evidencia se sitúa en la [[vocational-education|oferta de formación profesional inicial]] y no en el reciclaje profesional en el lugar de trabajo que cubre esta página.
+- **La reunión es donde la comprensión se vuelve evaluable.** Cuando una herramienta generativa redacta el análisis, un informe de investigación pulido ya no muestra si quien se forma comprende el trabajo, por lo que [[prunuske-cognitive-windows-research-meetings-2026|Prunuske y Adams-Phillips (2026)]] proponen tres ventanas diagnósticas para las reuniones de investigación (calibración metacognitiva, explicación conceptual y construcción de sentido colaborativa) con preguntas que sacan a la luz lo que un resumen dejó fuera.
 
-- **Las condiciones institucionales, y no el contexto nacional, explican las brechas de preparación.** Una encuesta comparativa de 568 docentes universitarios de centros de desarrollo del profesorado de China (n = 340) y Kazajistán (n = 228) ([[faculty-development-centers-genai-training-optimization-2026|Bi, Araily, Lyu y Xiu, 2026]]) encontró que el profesorado kazajo iba por delante en las siete dimensiones de preparación para la [[generative-ai|IA generativa]] en la línea base, con las mayores brechas en transferencia disciplinar, diseño de prompts y evaluación asistida por IA. La regresión jerárquica desmontó la explicación nacional: la diferencia entre países cayó bruscamente cuando entraron en el modelo el uso previo de IA generativa y la formación reciente, y dejó de ser significativa —una reducción del 80%— una vez añadidos el apoyo institucional, el permiso percibido para experimentar, el acceso a recursos [[multilingual-learning|multilingües]], la claridad de las políticas y la sensibilidad al riesgo. La exposición estaba distribuida de forma desigual (una clara mayoría del profesorado kazajo había recibido formación en IA en los seis meses anteriores, frente a alrededor de una cuarta parte del profesorado chino), y el profesorado chino declaró a la vez mayor claridad de políticas y mayor sensibilidad al riesgo. La formación estructurada en tareas de prompts superó con un margen amplio a la familiarización convencional con la IA generativa en el diseño de prompts posterior a la prueba. La preparación del profesorado, según esta evidencia, la producen la oferta y el permiso —lo que un centro ofrece y lo que permite— y no el sistema nacional en el que se inserta.
+- **Las condiciones institucionales, y no el contexto nacional, explican las brechas de preparación.** Una encuesta comparativa de 568 docentes universitarios de centros
+  de desarrollo del profesorado de China (n = 340) y Kazajistán (n = 228) ([[faculty-development-centers-genai-training-optimization-2026|Bi, Araily, Lyu y Xiu, 2026]])
+  encontró que el profesorado kazajo iba por delante en las siete dimensiones de preparación para la [[generative-ai|IA generativa]] en la línea base, con las mayores
+  brechas en transferencia disciplinar, diseño de prompts y evaluación asistida por IA. La regresión jerárquica desmontó la explicación nacional: la diferencia entre
+  países cayó bruscamente cuando entraron en el modelo el uso previo de IA generativa y la formación reciente, y dejó de ser significativa —una reducción del 80%— una vez
+  añadidos el apoyo institucional, el permiso percibido para experimentar, el acceso a recursos [[multilingual-learning|multilingües]], la claridad de las políticas y la
+  sensibilidad al riesgo. La exposición estaba distribuida de forma desigual (una clara mayoría del profesorado kazajo había recibido formación en IA en los seis meses
+  anteriores, frente a alrededor de una cuarta parte del profesorado chino), y el profesorado chino declaró a la vez mayor claridad de políticas y mayor sensibilidad al
+  riesgo. La formación estructurada en tareas de prompts superó con un margen amplio a la familiarización convencional con la IA generativa en el diseño de prompts
+  posterior a la prueba. La preparación del profesorado, según esta evidencia, la producen la oferta y el permiso —lo que un centro ofrece y lo que permite— y no el
+  sistema nacional en el que se inserta.
 
 - **Una formación breve cambia los juicios, no las intenciones.** Un piloto pre-post de tres horas con 100 docentes alemanes ([[mesenhoeller-teachers-ai-differentiation-acceptance-2026|Mesenhöller y Böhme, 2026]]) encontró que la utilidad percibida (d = 0,32) y la facilidad de uso percibida (d = 0,25) aumentaron de forma significativa tras una sesión breve y orientada a la práctica sobre IA para la diferenciación, mientras que la intención conductual no se movió de una línea base ya alta (M = 3,07). Los autores leen la brecha como señal de que la aceptación depende de condiciones que una sesión no puede proporcionar, como el tiempo, la infraestructura y reglas institucionales claras. Merece la pena impartir formatos breves, pero emparejarlos con esas condiciones es lo que convierte un juicio favorable en uso.
 - **Seguimiento sostenido, y no talleres puntuales, en la formación inicial.** Una revisión sistemática de 11 estudios sobre IA en la formación inicial del profesorado de matemáticas de primaria ([[pinto-ai-initial-teacher-training-mathematics-review-2026|Pinto et al., 2026]]) encontró que nueve intervenciones eran una sola sesión o unas pocas sesiones integradas en cursos existentes, que las actitudes solían medirse una sola vez a posteriori y que la ética aparecía en solo tres estudios. Los autores sostienen que la competencia en IA debe desarrollarse a lo largo de toda la secuencia formativa, desde una fase preparatoria hasta el prácticum y los primeros años de práctica, con un seguimiento que acompañe esa progresión.
@@ -96,7 +112,7 @@ La formación profesional se distingue de la educación académica por su foco e
 
 ## Artículos conectados
 
-- [[jongkind-genai-patient-medical-communication-2026] — Uso de un paciente de IA generativa para la formación en comunicación médica de estudiantes de medicina: un estudio cuasiexperimental
+- [[prunuske-cognitive-windows-research-meetings-2026]] — De las actualizaciones de datos a las ventanas cognitivas en las reuniones de investigación en la era de la inteligencia artificial
 - [[ai-engineering-computing-workforce-grey-literature-2026]] — La IA y el futuro de la fuerza laboral de ingeniería e informática
 - [[workforce-readiness-smart-manufacturing-wrl-2026]] — Marco de Niveles de Preparación para la Fuerza Laboral para la fabricación inteligente en la era de la IA
 - [[crewscaler-ai-upskilling-framework]]
@@ -116,3 +132,5 @@ La formación profesional se distingue de la educación académica por su foco e
 - [[cigerci-primary-teachers-perceptions-ai-mathematics-2026]] — Encuesta que vincula la formación previa en IA y la frecuencia de uso con las percepciones positivas de los docentes turcos de primaria
 - [[kenzhebayeva-ai-role-rotation-pedagogical-model-2026]] — La rotación de roles como mecanismo estructurante de la preparación profesional apoyada por IA
 - [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — Preguntas abiertas hacia una dependencia que sostenga las habilidades en la implicación reflexiva con la IA
+
+- [[jongkind-genai-patient-medical-communication-2026]] — Uso de un paciente de IA generativa para la formación en comunicación médica de estudiantes de medicina: un estudio cuasiexperimental

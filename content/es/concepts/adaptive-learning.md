@@ -1,16 +1,20 @@
 ---
 title: Aprendizaje adaptativo
 created: "2026-09-28T19:11:03-04:00"
-updated: "2026-10-26T21:37:14-04:00"
+updated: "2026-10-29T05:15:25-04:00"
 type: concept
 pedagogy: [scaffolding]
 technology: [cognitive-diagnosis, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, personalized-learning, student-modeling]
 confidence: high
 translation_of: concepts/adaptive-learning
-source_updated: "2026-10-26T06:20:00-04:00"
+source_updated: "2026-10-28T19:24:33-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-29"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
@@ -38,7 +42,7 @@ ai_assist:
 - **Personalización a escala:** los sistemas de [[personalized-learning|aprendizaje personalizado]] usan algoritmos adaptativos para ofrecer rutas de aprendizaje únicas a cada estudiante. [[deeptutor|DeepTutor]] y los [[ai-powered-personalized-learning-elementary-fractions-2026|tutores de fracciones de primaria]] demuestran la personalización adaptativa en la práctica.
 - **Secuenciación del contenido:** el [[adaptive-pretesting-retention|pretest adaptativo]] y los [[adapt-adaptive-lesson-plan-transformer|transformadores de planes de clase]] optimizan el orden y el tipo de contenido que se presenta.
 - **Integración de los ITS:** los [[intelligent-tutoring|sistemas de tutoría inteligente]] son la plataforma canónica del aprendizaje adaptativo, ya que combinan el diagnóstico con la adaptación.
-- **Perfilado y diagnóstico impulsados por AutoML:** los modelos educativos tradicionales tienen dificultades para procesar datos heterogéneos de conducta de aprendizaje procedentes de múltiples fuentes, lo que limita el perfilado de quien aprende y el desarrollo de modelos de diagnóstico. Un marco de búsqueda personalizada de arquitecturas cognitivas neuronales impulsado por [[reinforcement-learning|aprendizaje automático]] automatizado integra datos educativos [[multimodal|multimodales]] con métodos heterogéneos, genera modelos de diagnóstico adaptados a perfiles heterogéneos de estudiantes y sostiene un análisis dinámico y no estático de los procesos de aprendizaje.
+- **Perfilado y diagnóstico impulsados por AutoML:** los modelos educativos tradicionales tienen dificultades para procesar datos heterogéneos de conducta de aprendizaje procedentes de múltiples fuentes, lo que limita el perfilado de quien aprende y el desarrollo de modelos de diagnóstico. Un marco de búsqueda personalizada de arquitecturas cognitivas neuronales impulsado por [[machine-learning|aprendizaje automático]] automatizado integra datos educativos [[multimodal|multimodales]] con métodos heterogéneos, genera modelos de diagnóstico adaptados a perfiles heterogéneos de estudiantes y sostiene un análisis dinámico y no estático de los procesos de aprendizaje.
 
 ### Evidencia sobre la eficacia
 
@@ -52,10 +56,9 @@ La adopción, y no el mecanismo de adaptación, fue la restricción vinculante e
 
 
 Una revisión alineada con PRISMA de 44 estudios encuentra que la literatura sobre implicación está sesgada hacia la implicación conductual y es más delgada en la implicación agéntica, e informa de un efecto de novedad —la implicación decae con el tiempo en estudios longitudinales de ALEKS y W-Pal una vez que se desvanece la novedad de la herramienta ([[simon-student-engagement-adaptive-learning-2026|Simon, Zeng y Fryer (2026)]]).
-
 ### La era de la IA: la adaptación basada en LLM y sus riesgos
 
-La [[generative-ai|IA generativa]] ha ampliado lo que pueden hacer los sistemas adaptativos: los tutores conversacionales [[agentic-ai|agénticos]], el contenido fundamentado en [[rag|RAG]] y la [[intelligent-tutoring|tutoría]] impulsada por [[llm|LLM]] adaptan no solo la dificultad de los problemas, sino también el lenguaje y el estilo de explicación (por ejemplo, [[learnmate2-llm-adaptive-learning|LearnMate-2]], [[deeptutor|DeepTutor]], [[chudziak-ai-math-tutoring-platform|tutoría adaptativa multiagente]]). Sin embargo, la adaptación basada en LLM introduce riesgos nuevos: sin [[student-modeling|modelos del estudiante]] fiables, la adaptación puede apoyarse en señales superficiales; la sobre-adaptación puede reducir el esfuerzo productivo que el estudiantado necesita (véanse [[desirable-difficulties|dificultades deseables]] y [[cognitive-offloading|dependencia excesiva]]); y el equilibrio entre personalizar y preservar la [[agency|agencia]] de quien aprende es una pregunta de diseño abierta (véase [[agentic-ai|IA agéntica]]). Una variante de adaptación solicitada por quien aprende funciona sin [[student-modeling|modelo del estudiante]] alguno: en el curso de posgrado de Sidorkin (2026) las lecturas se ajustaban solo cuando el estudiantado hacía preguntas de seguimiento para reformularlas, profundizarlas, simplificarlas o localizarlas, y las peticiones orientadas a la comprensión producían de forma fiable un andamiaje más denso (entre 3,4 y 8,7 veces más marcadores definicionales que el texto de referencia), razón por la cual exigir al menos tres preguntas de seguimiento por lectura convirtió el material en una interacción. También traslada la carga adaptativa a quien aprende: aquí la adaptación solo ocurre si el estudiante sabe qué pedir.
+La [[generative-ai|IA generativa]] ha ampliado lo que pueden hacer los sistemas adaptativos: los tutores conversacionales [[agentic-ai|agénticos]], el contenido fundamentado en [[rag|RAG]] y la tutoría impulsada por [[llm|LLM]] que ofrecen los [[intelligent-tutoring|sistemas de tutoría inteligente]] adaptan no solo la dificultad de los problemas, sino también el lenguaje y el estilo de explicación (por ejemplo, [[learnmate2-llm-adaptive-learning|LearnMate-2]], [[deeptutor|DeepTutor]], [[chudziak-ai-math-tutoring-platform|tutoría adaptativa multiagente]]). Sin embargo, la adaptación basada en LLM introduce riesgos nuevos: sin [[student-modeling|modelos del estudiante]] fiables, la adaptación puede apoyarse en señales superficiales; la sobre-adaptación puede reducir el esfuerzo productivo que el estudiantado necesita (véanse [[desirable-difficulties|dificultades deseables]] y [[cognitive-offloading|dependencia excesiva]]); y el equilibrio entre personalizar y preservar la [[agency|agencia]] de quien aprende es una pregunta de diseño abierta (véase [[agentic-ai|IA agéntica]]). Una variante de adaptación solicitada por quien aprende funciona sin [[student-modeling|modelo del estudiante]] alguno: en el curso de posgrado de Sidorkin (2026) las lecturas se ajustaban solo cuando el estudiantado hacía preguntas de seguimiento para reformularlas, profundizarlas, simplificarlas o localizarlas, y las peticiones orientadas a la comprensión producían de forma fiable un andamiaje más denso (entre 3,4 y 8,7 veces más marcadores definicionales que el texto de referencia), razón por la cual exigir al menos tres preguntas de seguimiento por lectura convirtió el material en una interacción. También traslada la carga adaptativa a quien aprende: aquí la adaptación solo ocurre si el estudiante sabe qué pedir.
 
 ### Relación con el aprendizaje personalizado y la tutoría inteligente
 

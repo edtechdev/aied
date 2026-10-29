@@ -1,17 +1,21 @@
 ---
 title: Seguimiento del conocimiento
 created: "2026-09-28T18:19:10-04:00"
-updated: "2026-10-26T22:02:40-04:00"
+updated: "2026-10-29T05:15:25-04:00"
 type: concept
 connected_faqs: [making-simulated-students-behave-like-learners]
 technology: [adaptive-learning, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, personalized-learning, student-modeling]
 audience: [learners]
 confidence: medium
 translation_of: concepts/knowledge-tracing
-source_updated: "2026-10-25T15:55:00-04:00"
+source_updated: "2026-10-28T19:24:33-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-29"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
@@ -65,7 +69,7 @@ El seguimiento del conocimiento está estrechamente relacionado con el [[student
 
 **Una advertencia: el dominio no es la corrección.** [[deceptive-overgeneralization-adaptive-learning-2026|An, McLaren y Stamper (2026)]] muestran que la suposición de dos estados de la BKT (aprendido o no aprendido) puede vulnerarse por la *sobre-generalización engañosa*: quienes aprenden pueden parecer que dominan algo y, aun así, aplicar mal una habilidad de forma sistemática cuando se vulnera una restricción oculta de aplicación. Esto aboga por rastrear la comprensión condicional (saber *cuándo abstenerse* de una acción), y no solo la corrección de la acción, cuando las estimaciones de dominio gobiernan reglas de parada [[adaptive-learning|adaptativas]].
 
-**Una advertencia emparentada se refiere a *cómo* se validan los modelos de seguimiento frente a cómo se despliegan.** [[schuetze-knowledge-tracing-forgetting-2026|Schuetze, Yan y Carvalho (2025)]] ajustaron la BKT, la BKT con olvido y el modelo de factores aditivos a un conjunto de datos de reaprendizaje sucesiva en varias sesiones, y hallaron que reproducen las tendencias de aprendizaje cuando se ajustan de forma retrospectiva a todas las sesiones (AUC aceptable de ≈ 0,74 a 0,79); pero bajo una **validación cruzada basada en el tiempo** — entrenar en una sesión para predecir la siguiente, el escenario aplicado realista — los tres sobrestiman el rendimiento futuro entre un 47% y un 58% aproximadamente, no logran capturar el [[desirable-difficulties|efecto de espaciado]] e incluso pueden predecir el orden ordinal equivocado entre condiciones de práctica. Lo revelador es que los modelos *sin* un mecanismo explícito de olvido funcionaron aproximadamente tan bien como las versiones aumentadas con olvido a medida que se acumulaban las sesiones, lo que sugiere que el olvido quedó en parte absorbido por otros parámetros (por ejemplo, las constantes por estudiante en el AFM) en lugar de modelarse de verdad. Los autores relacionan esto con la distinción entre aprendizaje y rendimiento: los modelos populares confunden un rendimiento alto en el momento con una alta probabilidad de retención a largo plazo. La implicación práctica es que un trazador que parece bueno en el ajuste retrospectivo puede inducir a error a los sistemas adaptativos que consumen sus estimaciones de dominio, lo que aboga por la evaluación con ventana deslizante (walk-forward) y por modelos que tengan en cuenta el intervalo de retención, el espaciado y el olvido entre sesiones.
+**Una advertencia emparentada se refiere a *cómo* se validan los modelos de seguimiento frente a cómo se despliegan.** [[schuetze-knowledge-tracing-forgetting-2026|Schuetze, Yan y Carvalho (2025)]] ajustaron la BKT, la BKT con olvido y el modelo de factores aditivos a un conjunto de datos de reaprendizaje sucesiva en varias sesiones, y hallaron que reproducen las tendencias de aprendizaje cuando se ajustan de forma retrospectiva a todas las sesiones (AUC aceptable de ≈ 0,74 a 0,79); pero bajo una **validación cruzada basada en el tiempo** — entrenar en una sesión para predecir la siguiente, el escenario aplicado realista — los tres sobrestiman el rendimiento futuro entre un 47% y un 58% aproximadamente, no logran capturar el [[retrieval-spacing-interleaving|efecto de espaciado]] e incluso pueden predecir el orden ordinal equivocado entre condiciones de práctica. Lo revelador es que los modelos *sin* un mecanismo explícito de olvido funcionaron aproximadamente tan bien como las versiones aumentadas con olvido a medida que se acumulaban las sesiones, lo que sugiere que el olvido quedó en parte absorbido por otros parámetros (por ejemplo, las constantes por estudiante en el AFM) en lugar de modelarse de verdad. Los autores relacionan esto con la distinción entre aprendizaje y rendimiento: los modelos populares confunden un rendimiento alto en el momento con una alta probabilidad de retención a largo plazo. La implicación práctica es que un trazador que parece bueno en el ajuste retrospectivo puede inducir a error a los sistemas adaptativos que consumen sus estimaciones de dominio, lo que aboga por la evaluación con ventana deslizante (walk-forward) y por modelos que tengan en cuenta el intervalo de retención, el espaciado y el olvido entre sesiones.
 
 **Otra advertencia se refiere a la regla de evidencia que alimenta la actualización.** [[crediting-assisted-work-inflates-mastery-2026|Srivastava (2026)]] ejecutó cuatro reglas de actualización sobre secuencias idénticas de eventos de ASSISTments 2012–13, que diferían solo en cómo puntúan las filas completadas con ayuda, sobre una mitad confirmatoria de 12.716 estudiantes y 985.813 eventos puntuados. Leer una fila con pista o reintentada como un primer intento fallido predijo mejor el desempeño posterior sin ayuda (AUC agrupado de 0,658); otorgar crédito a cualquier compleción lo predijo peor (0,604), apenas por encima de una constante que solo conoce la dificultad de la habilidad (0,595). La misma elección gobierna el recuento de dominio: otorgar crédito a las compleciones declaraba dominadas el 93,9% de 113.428 pares estudiante-habilidad frente al 72,8% con la regla estricta, y los pares que la regla indulgente declaraba por delante de la estricta acabaron con un 70,9% de precisión sin ayuda frente al 85,7% donde ambas coincidían, por debajo de la tasa base del 0,744. Un estado trazado es, por tanto, en parte una función de la convención de puntuación y no solo de quien aprende, de modo que una estimación de dominio consumida por una puerta [[adaptive-learning|adaptativa]] debería llevar consigo la regla que la produjo.
 
@@ -94,7 +98,7 @@ El seguimiento del conocimiento está estrechamente relacionado con el [[student
 
 - No pague la complejidad de un modelo de secuencia sin una línea base. Sobre 1.927.265 respuestas de matemáticas de 8.996 estudiantes finlandeses, la identidad del ítem por sí sola alcanzó un **AUC de 0,8362**, y añadir una única medida de recencia relativa a la dificultad del ítem la elevó a **0,866**: una parte importante de lo que compran los modelos de secuencia por una fracción de la maquinaria.
 - Modele el olvido de forma explícita en lugar de suponer que el conocimiento persiste; las comparaciones de BKT con olvido muestran que el ajuste cambia cuando la retención está en el modelo.
-- Informe la regla de despliegue junto con el modelo. El desajuste entre validación y despliegue en los estudios sobre el olvido es un fallo de notificación tanto como de modelado.
+- Informe la regla de despliegue junto con el modelo. El desajuste entre validación y despliegue en los estudios sobre el olvido es un fallo de comunicación de resultados tanto como de modelado.
 
 **Para quienes investigan**
 
