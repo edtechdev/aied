@@ -41,6 +41,10 @@ from wiki_config import load_config, path  # noqa: E402
 #   'paths'   -> pass the changed files as arguments (script takes slugs OR paths);
 #                used by the house-style check, which must also see a changed note
 #   'changed' -> pass --changed (script works out the touched pages itself)
+#   'translated' -> translated files touched vs HEAD; pass --changed to a gate that compares
+#                each one with its English source. Kept separate from 'changed' because
+#                changed_slugs() reports English pages only, so a wave of new locale files
+#                would otherwise find an empty page set and the gate would silently not run.
 SCOPABLE = {
     'inline_link_scan.py': 'slugs',
     'check_list_formatting.py': 'slugs',
@@ -54,6 +58,7 @@ SCOPABLE = {
     'check-concept-integration.py': 'changed',
     'check-concept-prose.py': 'changed',
     'check-concept-updated-bump.py': 'changed',
+    'check-translation-parity.py': 'translated',
 }
 
 # Registry- and corpus-level gates: they validate a fixed artifact (the concept
@@ -88,6 +93,30 @@ def changed_slugs(wiki):
             if parts[1] == 'en':
                 slugs.add(os.path.basename(p)[:-3])
     return sorted(slugs)
+
+
+def changed_translated(wiki):
+    """Translated page files created, edited or deleted in the working tree since HEAD.
+
+    Returns (locale, section, slug) triples for every content/<locale>/<section>/<slug>.md
+    with a locale other than English. changed_slugs() deliberately reports English pages
+    only, so without this a translation wave reports 'nothing changed' to the gate runner
+    and every gate is skipped while the wave looks verified.
+    """
+    cmds = [
+        ['git', 'diff', '--name-only', 'HEAD'],
+        ['git', 'ls-files', '--others', '--exclude-standard'],
+    ]
+    paths = set()
+    for cmd in cmds:
+        out = subprocess.run(cmd, cwd=wiki, capture_output=True, text=True).stdout
+        paths.update(p for p in out.splitlines() if p.strip())
+    found = set()
+    for p in paths:
+        parts = p.replace('\\', '/').split('/')
+        if len(parts) == 4 and p.endswith('.md') and parts[0] == 'content' and parts[1] != 'en':
+            found.add((parts[1], parts[2], parts[3][:-3]))
+    return sorted(found)
 
 
 def changed_paths(wiki):
@@ -153,9 +182,10 @@ def main():
 
     slugs = changed_slugs(wiki) if changed_mode else []
     paths = changed_paths(wiki) if changed_mode else []
+    translated = changed_translated(wiki) if changed_mode else []
     skipped, skipped_nopage = [], []
     if changed_mode:
-        if not slugs and not paths:
+        if not slugs and not paths and not translated:
             print("Nothing changed versus HEAD — no page-scoped gate has anything to check.")
             print("(Use a bare run for the full-site pass.)")
             return 0
@@ -163,10 +193,15 @@ def main():
             print(f"Changed page(s) vs HEAD: {len(slugs)}")
             for s in slugs:
                 print(f"  - {s}")
-        else:
-            # Only notes or scripts changed (a reference doc, a README, a gate script):
-            # the page-scoped gates have nothing to check, but the house-style gate does.
-            print("No changed page slugs vs HEAD — only notes or scripts.")
+        if not slugs:
+            # Only notes, scripts or translations changed: the English page-scoped gates
+            # have nothing to check, but the house-style gate and the translation parity
+            # gate do.
+            print("No changed English page slugs vs HEAD.")
+        if translated:
+            locales = sorted({t[0] for t in translated})
+            print(f"Changed translated page(s) vs HEAD: {len(translated)} "
+                  f"across {len(locales)} locale(s): {', '.join(locales)}")
 
     skipped_nopage = []
     failures = []
@@ -178,6 +213,9 @@ def main():
         if changed_mode and kind is None:
             skipped.append((i, gate))
             continue
+        if changed_mode and kind == 'translated' and not translated:
+            skipped_nopage.append((i, gate))
+            continue
         if changed_mode and kind in ('slugs', 'changed') and not slugs:
             # never run a page-scoped gate with an empty page set: the inline-link and
             # list-formatting commands strip their own --all, so an empty argument list
@@ -186,7 +224,7 @@ def main():
             skipped_nopage.append((i, gate))
             continue
         cmd = gate
-        if changed_mode and kind == 'changed':
+        if changed_mode and kind in ('changed', 'translated'):
             cmd = gate if '--changed' in gate else f"{gate} --changed"
         elif changed_mode and kind == 'slugs':
             # the configured command carries `--all`; drop it, or the script scans

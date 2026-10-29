@@ -164,6 +164,16 @@ build:
     # generator and compares, so a rebuild that forgets to regenerate fails here
     # instead of publishing a wrong number and a dead path.
     - python3 tooling/scripts/check-offline-manifest.py
+    # A translation can mirror its English page's headings and links and still be wrong: a
+    # model that ran out of context pasted a section copied from a neighbouring page, which
+    # keeps every heading and every link, so the heading count and the link scan both pass.
+    # Two comparisons catch it, and neither is covered by check-translated-headings.py (which
+    # only compares the connected heading text) or by check-translation-staleness.py (which
+    # only compares timestamps): the wikilink TARGET multiset must equal English, and the
+    # paragraph count of every section must equal English. Translation waves were previously
+    # checked by eye and by a word count, which is why 4,294 installed pages still fail this
+    # diagnostic; that backlog is reported by --all and is not introduced by a new wave.
+    - python3 tooling/scripts/check-translation-parity.py --changed
   site: npm run build             # Astro + Pagefind + PWA service worker
   llms: python3 tooling/scripts/generate-llms-files.py
   # Offline books are LOCAL committed artefacts, rebuilt ONLY on explicit
