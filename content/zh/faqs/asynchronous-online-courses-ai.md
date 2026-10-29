@@ -1,7 +1,7 @@
 ---
 title: "当人工智能能够完成作业时，我们应当如何设计与促进异步在线课程？"
 created: "2026-09-22T19:41:47-04:00"
-updated: "2026-10-29T09:20:28-04:00"
+updated: "2026-10-29T10:30:04-04:00"
 weight: 68
 type: faq
 foundations: [academic-integrity, cognitive-offloading, learning-design]

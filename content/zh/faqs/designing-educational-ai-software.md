@@ -1,7 +1,7 @@
 ---
 title: "设计有效的教育人工智能软件有哪些最佳实践与技巧？"
 created: "2026-09-22T19:51:12-04:00"
-updated: "2026-10-29T09:20:28-04:00"
+updated: "2026-10-29T10:30:04-04:00"
 weight: 64
 audience: [educational technology developers, software developers, instructional designers]
 foundations: [learning-design]

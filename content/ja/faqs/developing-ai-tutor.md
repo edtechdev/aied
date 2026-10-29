@@ -1,7 +1,7 @@
 ---
 title: "効果的な AI チューターを開発するためのベストプラクティスは何か？"
 created: "2026-10-10T22:54:48-04:00"
-updated: "2026-10-29T09:26:47-04:00"
+updated: "2026-10-29T10:30:04-04:00"
 connected_faqs: [training-ai-tutors-to-guide-rather-than-answer, making-ai-better-at-supporting-learning, checking-whether-educational-ai-works, designing-educational-ai-software]
 weight: 74
 type: faq

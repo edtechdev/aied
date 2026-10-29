@@ -1,7 +1,7 @@
 ---
 title: "在人工智能方面，教师需要具备哪些能力？"
 created: "2026-09-22T19:41:47-04:00"
-updated: "2026-10-29T09:20:28-04:00"
+updated: "2026-10-29T10:30:04-04:00"
 weight: 70
 foundations: [ai-literacy, educational-development, teacher-role, teacher-ai-competency]
 audience: [faculty developers, instructors]

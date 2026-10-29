@@ -1,7 +1,7 @@
 ---
 title: "我该如何教学生核查人工智能的输出？"
 created: "2026-09-22T19:41:47-04:00"
-updated: "2026-10-29T09:20:28-04:00"
+updated: "2026-10-29T10:30:04-04:00"
 weight: 65
 type: faq
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, critical-thinking]

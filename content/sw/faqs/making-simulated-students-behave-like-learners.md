@@ -14,9 +14,13 @@ methods: [benchmark]
 ethics: [pedagogical-safety, trust-calibration]
 contributors: [editor]
 translation_of: faqs/making-simulated-students-behave-like-learners
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-28T11:26:02-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-29"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: drafting
     date: "2026-10-02"
@@ -29,104 +33,118 @@ ai_assist:
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
 
-Mwanafunzi aaniaye ni rahisi kumfanya aonekane wa kuaminika na ngumu kumfanya awe mkweli. Muulize mfano wa jumla kuigiza mwanafunzi anayejitahidi na utazalisha mkanganyiko wenye ufasaha na wa kuvutia — msamiati sahihi wa kutokujua, katika mtindo sahihi. Kisha muulize mwanafunzi huyo angetamka nini baada ya kusahihishwa, na atapata jibu sahihi kimya kimya.
+Una onyesho siku ya Alhamisi. Mwanafunzi aliyeigwa ndani yake anakosa tatizo la sehemu, anapokea kidokezo kimoja, na kisha anatoa jibu sahihi pamoja na maelezo sahihi. Mtu chumbani anauliza kwa nini mwanafunzi anayejitahidi angefanya hivyo, na huna jibu.
 
-Pengo hilo ni tatizo lote, na si suala la kuandika ilani bora ya persona. Ukurasa huu unashughulikia kinachofanya mwanafunzi aaniaye aonyeshe tabia kama mwanafunzi wa kweli, kwa yeyote anayejenga mfano au anayetumia moja kwa mazoezi au majaribio.
+Kabla ya onyesho linalofuata, unahitaji hili kwa uwazi: kumwamuru modeli kucheza mwanafunzi huzalisha sauti ya mwanafunzi. Kinachozalisha tabia ni kizuizi kwa kile kiiga kinachojua, muundo katika zamu, na uhakiki dhidi ya rekodi za wanafunzi halisi. Ni 3% tu ya masudio yanayoiga wanafunzi huhakiki kiiga chao baada ya matumizi, kwa hiyo hakuna atakayekuhakikia hili.
 
 ## Toleo fupi
 
-Mifano imefunzwa kuwa ya msaada na sahihi. Wanafunzi ni yasiyo hivyo. Kwa hiyo kazi ni kuzuia **mfano anachojua** na **jinsi maarifa hayo yanavyobadilika**, kisha kagua kuwa inaonyesha tabia kama mwanafunzi badala ya kusikika kama mmoja. Kuweka ilani peke yake hakufikishi hapo; ushahidi hapa chini ni thabiti kwa kiasi kwamba kuweka ilani huweka kikomo ambacho mafunzo au muundo huondoa.
+**1.** Andika chini ni wanafunzi gani ambao huwaigi, na uweke sentensi hiyo pale watumiaji wako watakapoisoma.
 
-## Anza kwa kujua unachokosa kuiga
+**2.** Jaribu hali ya imani, si maneno. Uliza kiiga kinasema nini baada ya marekebisho.
 
-Gundua muhimu zaidi kwa yeyote anayekaribia kumwamini mfano ni kuhusu ugatuzi. Walimu kumi na wawili waliowafundisha wanafunzi wa LLM waliripoti lugha ngumu kupita kiasi, hisia zilizokosekana, uangalifu usio wa asili na kuruka kwa maarifa bila maelezo — na mifano ilileta moja tu kati ya **moja ya nne** ya robo-robo za tabia halisi za wanafunzi ([[llm-student-simulation-teacher-insights|Martynova et al., 2026]]). Robo-robo waliougiza ulikuwa rahisi zaidi kuiga.
+**3.** Dhibiti maarifa kwa makusudi: taja hali ya maarifa, au ondoa maarifa hayo.
 
-Hilo ni muhimu kwa sababu karibu hakuna anayekagua. Masomo **3%** peke yake yanayofanya mifano ya wanafunzi yanathibitisha mfano wao baada ya matumizi. Ukiujenga na usiyathibitishe, uko katika wengi wanaoonekana, na pia wewe ni sababu takwimu hii inafaa kunukuliwa.
+**4.** Andika mwingiliano zamu kwa zamu. Ilani bora ya nafsi haitengenezi kupotoka.
 
-## Paradokso ya ujuzi: mfano wako unajua kupita kiasi
+**5.** Pima uaminifu wa tabia na usikivu wa mwongozo kwa tofauti, dhidi ya rekodi za wanafunzi halisi.
 
-Ugumu unaofafanua ni kwamba mfano wenye uwezo hauwezi kwa urahisi kujifanya mjuzi wa sehemu. Utafiti unaita hii **paradokso ya ujuzi**: mifano yenye uwezo mpana iliyoombwa kuiga wanafunzi wenye maarifa ya sehemu huzalisha mifumo ya makosa na mienendo ya kujifunza yasiyo ya kweli.
+## Amua ni swali gani kiiga kinajibu
 
-Mwelekeo una mwelekeo, na unaelekea kwa wanafunzi wanaohitaji kuigwa zaidi. Dhidi ya mawazo ya wanafunzi yaliyochukuliwa kutoka **masomo 49 ya sayansi yanayolingana na NGSS**, mifano sita iliweka mawazo mengi ndani ya upeo unaotarajiwa wa maarifa na karibu theluthi mbili katika au chini ya kiwango cha kusoma lengwa — lakini ilipita mahali hasa ambapo mwanafunzi alikuwa mdogo zaidi. Mawazo ya shule za msingi na za kati yalizidi kiwango cha darasa cha upeo wa maarifa na kiwango cha kusoma, na mkusanyiko kwa ujumla ulielekea kwenye hoja pana zaidi, msamiati wa kiufundi zaidi, na **alama chache za kutokuwa na uhakika** ("labda", "inaonekana") kuliko mawazo halisi ya masomo ([[llm-simulating-student-scientific-thinking-2026|Nguyen and Cao, 2026]]).
+Kazi tatu zinakusanywa pamoja chini ya "mwanafunzi aliyeigwa," na zinahitaji mashine tofauti. Kufanya mazoezi ya mwalimu au mkufunzi kunahitaji mwenza anayejifanya kwa njia ya kusadikika chini ya shinikizo. Kukagua jinsi AI inavyowatendea wasifu tofauti wa wanafunzi kunahitaji ufuniko wa wasifu unaojali. Kutabiri matokeo kwa kozi kunahitaji mgawanyo wa wanafunzi badala ya mtu mmoja anayesadikika. Kiiga kilichojengwa kwa kazi ya kwanza kitakukatisha tamaa kwenye ya tatu, na ushahidi hapa chini unaendelea kuzitenganisha.
 
-Maelezo mawili ya vitendo kutoka utafiti huo. Uchaguzi wa mfano si wa kipimo kimoja — mfumo unaolingana na mawazo ya somo kwa karibu bado unaweza kuweka yao juu ya darasa. Na ukarabati mara nyingi ni wa mafundisho badala ya muundo: kuweka ilani tena ya wazi wa kiwango cha darasa liliwainua mifano mingi kurudi katika upeo.
+## Taja wanafunzi ambao huwashughulikii
 
-## Uhalisi wa uso ni lengo sahihi
+Ugunduzi wenye manufaa zaidi kwa yeyote anayekaribia kumwamini kiiga unahusu ufuniko. Walimu kumi na wawili waliokufunza wanafunzi wa LLM waliripoti lugha ngumu kupita kiasi, hisia zinazokosekana, usikivu usio wa kawaida, na miruko ya maarifa isiyoelezwa, na simulizi ziliwakilisha roboduara moja tu kati ya nne za tabia halisi za wanafunzi ([[llm-student-simulation-teacher-insights|Martynova na wenzake, 2026]]). Roboduara waliyoifunika ilikuwa rahisi zaidi kuiga.
 
-Mfano unaosikika kama mwanafunzi unaweza bado kushikilia imani za mwanafunzi, na ukaguzi wa kawaida wa ubora hauwezi kuona tofauti.
+Hilo ni muhimu kwa sababu karibu hakuna anayehakiki. Ni 3% tu ya masudio yanayoiga wanafunzi huhakiki kiiga chao baada ya matumizi. Ukijenga kimoja na kuruka uhakiki, uko katika walio wengi kupita kiasi, na pia wewe ndiye sababu takwimu hiyo inabaki ya kunukuliwa.
 
-Kushindwa kumepimwa. Katika **mifano saba kutoka 4B hadi 120B vigezo**, mifano ya wanafunzi walibadilika kwa jibu sahihi kwa viwango karibu sawa chochote walichopata — kwa hiyo mfanano wa matokeo hausemi lolote kuhusu hali ya imani nyuma yake. Mafunzo dhidi ya **Selective Flip Score** yalipandia uaminifu hadi **+0.56** ([[llm-student-simulation-misconception-faithfulness|Do, Sonkar & Sachan, 2026]]). Ikiwa unataka mfano ushikilie dhana potofu, lazima ufunze kwa sifa hiyo; huwezi kusoma kutoka maandishi.
+## Dhibiti kile kiiga kinachojua
 
-Kosa kinyume pia hutokea, ndio maana "je, inaonekana kibinadamu?" ni jaribio dhaifu katika mwelekeo wote. Katika tafiti ya kupofusha, wataalam waliokagua makosa walitaja **164 kati ya 196 (83.7%)** ya nyimbo za Java zilizozalishwa na LLM kama zilizoandikwa na binadamu — makosa yalikuwa hayakuweza kutofautishwa kazi kutoka halisi. Mlingano na makosa halisi ulishuka kugumu wa tatizo lilipopanda ([[simulating-students-java-programming-errors-llms|Keramati et al., 2026]]).
+Modeli yenye uwezo haiwezi kujifanya kwa urahisi kuwa mjuzi wa sehemu. Utafiti unaiita hii **kitendawili cha uwezo**: modeli zenye uwezo mpana zinapoombwa kuiga wanafunzi wenye maarifa ya sehemu huzalisha mifumo ya makosa na mienendo ya kujifunza isiyo halisi.
 
-## Kuweka ilani huweka kikomo ambacho mafunzo huondoa
+Kupotoka kuna mwelekeo, na kunaelekea wanafunzi wanaohitaji kuigwa zaidi. Dhidi ya mawazo ya wanafunzi yaliyotolewa kutoka masomo 49 ya sayansi yanayolingana na NGSS, modeli sita zilihifadhi mawazo mengi ndani ya wigo wa maarifa unaotarajiwa na takriban theluthi mbili katika kiwango cha kusoma kinacholengwa au chini yake, kisha zikapita kipimo hasa pale mwanafunzi alipokuwa mdogo zaidi. Mawazo ya msingi na ya shule ya kati mara nyingi yalipita wigo wa maarifa na kiwango cha kusoma cha darasa linalolengwa, na mkusanyiko ulielekea kwenye hoja pana, msamiati wa kiufundi zaidi, na viashiria vichache vya kutokuwa na uhakika ("labda", "inaonekana") kuliko mawazo halisi ya somo ([[llm-simulating-student-scientific-thinking-2026|Nguyen na Cao, 2026]]).
 
-SWIM ni kulinganisha wazi zaidi wa mbinu tatu, kwa sababu inapima kila insha iliyozalishwa dhidi ya wasifu wake lengwa badala ya kuihukumu kwa hisia:
+Mambo mawili kutoka utafiti huo. Uchaguzi wa modeli si wa kipimo kimoja, kwa kuwa mfumo unaolingana kwa karibu na mawazo ya somo unaweza bado kuyapa kiwango cha juu kuliko darasa. Na suluhisho mara nyingi ni la kufundisha: ilani ya wazi ya kiwango cha darasa iliwarudisha modeli nyingi ndani ya wigo.
 
-- **Kuweka ilani kwa msingi wa rubriki**: udhibiti mdogo hata kwa mifano ya proprietary yenye nguvu — wastani bora wa sifa QWK **0.577** (Claude Sonnet), **0.422** (GPT-5.4), karibu sifuri kwa mfano wa wazi wa 7B.
-- **Marekebisho ya usimamizi** kwenye jozi za kweli za alama-insha: **0.474 ± 0.023** kwa mfano huo wa 7B.
-- **GRPO** na thawabu inayotokana na alama ya insha ya kiotomatiki: **0.618 ± 0.005**, na maboresho yakidumu kwa wapimaji wawili wa kujitegemea ambao sera haikufunzwa dhidi yao ([[swim-student-writing-simulation-2026]]).
+## Taja hali, au ondoa maarifa
 
-Kuweka ilani pia kulitengeneza idadi **iliyoidealisishwa** badala ya halisi: wastani wa alama ya jumla iliyokawaida **0.74** dhidi ya **0.58** kwa wanafunzi halisi, na urefu wa kati wa **maneno 304** dhidi ya **167**. Mifano iliyofunzwa ilirejesha usambazaji wa alama za binadamu na urefu bila usimamizi wa urefu.
+Ikiwa modeli inajua mengi mno, unaweza kutaja hali inayopaswa kuwa nayo au kuondoa maarifa ambayo haipaswi kuwa nayo.
 
-Kitu kimoja kilibaki ngumu, na ni muhimu kujua kabla ya kuahidi uhalisi: umbo halisi la **ujuzi mdogo**. Mifano iliyofunzwa ilirejesha sintaksi lakini iliandika makosa machache ya herufi na sarufi, huku kuweka ilani kukiiga udhaifu hasa kwa uharibifu wa uso — makosa ya herufi yaliyonyunyizwa kwenye maneno yenye ujuzi vinginevyo.
+**Weka sharti la hali ya maarifa.** Mfumo usiohitaji mafunzo hujenga mfano wa kiakili wa kila mwanafunzi kutoka [[knowledge-graph|grafu ya maarifa]] na hupima watahiniwa wa utafutaji wa miale dhidi yake, ukiripoti uboreshaji wa 100% katika usahihi wa uigaji ([[simulating-students-diverse-cognitive-levels-2025|Wu na wenzake, 2025]]). Ubora wake hupanda pamoja na kiwango cha kiakili cha mwanafunzi, kwa hiyo wanafunzi hafifu hubaki kesi ngumu zaidi, jambo lisilo la bahati ikizingatiwa kwamba kwa kawaida ndio lengo. Kuweka mienendo ya kiakili badala ya nafsi isiyobadilika kunakwenda mbali zaidi: masasisho ya hali ya CogEvolution yenye msingi wa ICAP yalifikia R²LC = 0.92 pale mawakala wasiobadilika wanafikia 0.45, na yalishuka hadi 0.58 bila moduli yake ya ICAP ([[cogevolution-student-cognitive-evolution-agent-2026|Zhang na wenzake, 2026]]).
 
-## Njia mbili za kuzuia kile mfano anachojua
+**Ondoa maarifa.** Kuzuia vipengele 16 vya maarifa vilivyolengwa katika Mistral-7B kulishusha usahihi kutoka takriban 0.75 kwa uwiano wa kusahau wa 10% hadi chini ya 0.5 kwa 40%, huku modeli ya msingi ikibaki karibu na 0.85. Maarifa yaliyozuiwa yalithibitika kuweza kurejeshwa kupitia kujifunza upya kusimamiwa na mazungumzo yaliyoongozwa na mkufunzi ([[simulating-novice-students-machine-unlearning-2026|Song, Guo na Lin, 2026]]). Hii ni kitu kilicho karibu zaidi na kutengeneza mwanzo kabisa, na uwezo wa kurejeshwa unakuwa sifa ikiwa unataka kiiga kijifunze wakati wa kikao.
 
-Ikiwa mfano unajua kupita kiasi, unaweza bainisha hali inayopaswa kuwa au kuondoa maarifa.
+## Andika mfuatano wa zamu, si nafsi
 
-**Zingatia hali ya maarifa badala ya persona.** Mfumo bila mafunzo hujenga prototype ya kiakili ya kila mwanafunzi kutoka [[knowledge-graph]] na hupima wagombea wa utafutaji wa mwanga dhidi yake, ikiripoti maboresho ya 100% katika usahihi wa mfano ([[simulating-students-diverse-cognitive-levels-2025|Wu et al., 2025]]). Ubora wake **unapanda na kiwango cha kiakili cha mwanafunzi**, ambao ni gundua la kubeba: wanafunzi wenye udhaifu wanabaki kuwa ngumu zaidi, ambao ni bahati mbaya kwa kuwa wao kwa kawaida ni lengo. Kuiga mienendo ya kiakili badala ya persona tuli huenda mbali zaidi — sasisho za hali za ICAP za CogEvolution zilifikia R²LC = **0.92** ambapo mawakala tuli hufikia **0.45**, na zilianguka hadi **0.58** bila moduli yake ya ICAP ([[cogevolution-student-cognitive-evolution-agent-2026|Zhang et al., 2026]]).
+Utulivu wa nafsi unageuka kuwa tatizo la ubunifu wa mwingiliano badala ya uchaguzi wa modeli. Kuvuka LLM tano kwa miundo mitatu ya ilani na nafsi nne za ukali wa ADHD, mwingiliano ulioandikwa wenye kushikamana na kazi uliondoa kupotoka kwa tabia kulikopimwa na mwangalizi, kwa hadi 97% dhidi ya mazungumzo yasiyoandikwa. Bila maelekezo ya wazi ya nafsi, uwakilishi wa msingi wa mwanafunzi ulielekea kwenye dalili kubwa za ADHD ([[llm-educational-simulation-adhd|Gonnermann-Müller, Haase na Leins, 2026]]).
 
-**Au ondoa maarifa.** Kuzuia vipengele 16 vya maarifa vilivyolengwa katika Mistral-7B kulishusha usahihi kutoka karibu **0.75** kwa uwiano wa kusahau wa 10% hadi **chini ya 0.5** kwa 40%, huku mfano wa msingi ukishika karibu **0.85** — na maarifa yaliyozuwa yalithibitishwa yanapatikana tena kupitia kujifunza upya kwa usimamizi na mazungumzo ya mwongozo ([[simulating-novice-students-machine-unlearning-2026|Song, Guo & Lin, 2026]]). Hii ni jambo karibu zaidi la kutengeneza mwanafunzi mgeni moja kwa moja, na kupatikana tena ni sifa ikiwa unataka mfano ujifunze wakati wa kipindi.
+Ikiwa kiiga chako kinapotoka, angalia unachokiomba kifanye zamu kwa zamu kabla ya kubadilisha modeli au kuandika upya maelezo ya mwanafunzi.
 
-## Fanya mwingiliano uandaliwe, si persona
+## Pima mambo mawili, si moja
 
-Uimara wa persona ungeuka kuwa tatizo wa muundo wa mwingiliano badala ya uchaguzi wa mfano. Kuvuka mifano mitano ya LLM na miundo mitatu ya ilani na persona nne za nguvu ya ADHD, **mwingiliano ulioandaliwa na kazi uliondoa mwelekeo wa tabia uliopimwa na watazamaji** — hadi **97% pungufu** kuliko mazungumzo yasiyoandaliwa. Na bila maelekezo wazi ya persona, uwakilishi wa msingi wa mwanafunzi ulielekea kwa dalili za juu za ADHD ([[llm-educational-simulation-adhd|Gonnermann-Müller, Haase & Leins, 2026]]).
+StudentSim inahitaji sifa mbili zishikiliane: **uaminifu wa tabia**, yaani jinsi kiiga kinavyolingana na majibu ya mwanafunzi mwenyewe, na **usikivu wa mwongozo**, yaani jinsi kinavyosasisha kwa uhakika kuelekea pale mwongozo wa mkufunzi unaelekeza. Kipimo chake kinaweka mkusanyiko wa umma wa wanafunzi (chesi, uandishi wa Kiingereza kama lugha ya pili, hisabati) katika itifaki ya kila mwanafunzi ambayo kiiga chochote hupimwa na kupewa alama juu yake kwa rekodi zilizotengwa. Ufuatiliaji wa hali mahususi kwa kikoa ulijitokeza hafifu kwenye usikivu, na uigizaji wa nafasi wa LLM wa ilani pekee ulijitokeza hafifu kwenye uaminifu ([[studentsim-llm-student-simulators|Yang na wenzake, 2026]]). Kiiga kinaweza kupita jaribio moja na kushindwa lingine, kwa hiyo ripoti yote mawili.
 
-Kusoma la vitendo: ikiwa mfano wako unaelekea, ukarabati unaweza kuwa katika unachomuuliza kufanya mzunguko kwa mzunguko badala ya mfano uliochaguliwa au jinsi ulivyoelezea mwanafunzi.
+Kama uthibitisho wa dhana, StudentSim iliyogandishwa iliyotumika kama thawabu katika mzunguko wa [[reinforcement-learning|kujifunza kwa kuimarisha]] wa mkufunzi wa chesi ilizalisha wakufunzi ambao wataalam waliwapa alama kuwa sahihi zaidi, walioongozwa vizuri zaidi, na waliobinafsishwa zaidi kuliko wale waliopewa mafunzo dhidi ya thawabu ya kiiga cha LLM cha mstari wa mbele au bila RL kabisa. Kiiga kizuri kinaweza kuwa ishara ya mafunzo na kipimo pia.
 
-## Kagua kwenye miamba miwili, si moja
+Uaminifu wa kiwango cha hatua una kikomo chake. Viiga vya wanafunzi huiga vitendo vinavyoonekana bila hoja fiche iliyo nyuma yake, na [[inside-llm-student-simulator-reasoning-2026|INSIDE]] hurekebisha modeli kuzalisha mazungumzo ya ndani kabla ya kila hatua, kikifikia upatanisho wa juu zaidi kati ya hoja zilizozalishwa na marekebisho halisi ya msimbo kwa 51.8% kwenye matatizo yanayojulikana na 57.9% kwenye yasiyojulikana, bila kupoteza uaminifu wa hatua (Niousha na wenzake, 2026). Ikiwa unajali kwa nini mwanafunzi wako aliyeigwa alifanya kitu, kulinganisha hatua hakutoshi.
 
-Ufafanuzi wazi zaidi wa "je, mfano huu ni mzuri" unatokana na StudentSim, ambao unahitaji mawili yashike **pamoja**:
+## Hakiki dhidi ya wanafunzi halisi na uripoti msingi
 
-- **Uaminifu wa tabia** — jinsi mfano unavyolingana na majibu ya mwanafunzi mwenyewe.
-- **Majibu ya mwongozo** — jinsi unavyosasisha kwa uaminifu kuelekea ambapo mwongozo wa mwalimu unaongoza.
+Ulinganisho mawili unaonyesha uhakiki unagharimu nini.
 
-Benki yake huweka maktaba za wanafunzi za umma (chess, uandishi wa Kiingereza wa lugha ya pili, hisabati) katika itifaki ya kila mwanafunzi ambayo mfano yoyote inafaa na hupimwa kwenye rekodi zilizowekwa. Matokeo ni uchunguzi muhimu: ufuatiliaji wa hali mahususi ya nyanja ulikuwa **dhaifu kwenye majibu**, na kucheza jukumu la LLM la ilani peke yake ulikuwa **dhaifu kwenye uaminifu** ([[studentsim-llm-student-simulators|Yang et al., 2026]]). Mfano unaweza kupita jaribio moja na kushindwa jingine, kwa hiyo ripoti zote mbili.
+Kupima mbinu tisa za uigaji dhidi ya vipimo saba vya msingi wa rejea kwenye mazungumzo 382 yaliyotengwa kutoka mkusanyiko mkubwa zaidi wa umma wa mazungumzo halisi ya hisabati kati ya wanafunzi na wakufunzi, ilani ilibaki nyuma ya urekebishaji kwenye vitendo vya mazungumzo (0.4998 dhidi ya 0.6840), ROUGE-L (0.1648 dhidi ya 0.3212), na ufanano wa kosini (0.5460 dhidi ya 0.7390). Mbinu bora iliyojaribiwa, uboreshaji wa mapendeleo kwenye modeli ya 8B, ilishinda urekebishaji uliosimamiwa kwa kiasi kidogo tu na ilikuwa mbaya zaidi kwenye makosa, na tathmini ya binadamu ya wakufunzi watatu ilirudia mpangilio huo ([[simulated-students-tutoring-dialogues-2026|Scarlatos na wenzake, 2026]]). Kilele cha ngazi hii kinakaa karibu na katikati, kwa hiyo msingi unaoripoti ndio unaamua jinsi namba yako mwenyewe inavyoonekana ya kuvutia.
 
-Kama uthibitisho wa dhana, StudentSim iliyoganda iliyotumika kama thawabu katika mzunguko wa [[reinforcement-learning]] wa mwalimu wa chess ilizalisha mwalimu ambao watazamaji waliwapa alama zaidi ya usahihi, mwongozo bora zaidi na ubinafsishaji zaidi kuliko wale waliofunzwa dhidi ya thawabu ya mfano wa LLM ya mstari wa mbele au bila RL kabisa. Mfano mzuri si zana ya kupima tu — inaweza kuwa ishara ya mafunzo.
+SWIM ni ulinganisho ulio wazi zaidi wa ilani, urekebishaji na kujifunza kwa kuimarisha, kwa sababu hupima kila insha iliyozalishwa dhidi ya wasifu wa sifa unaolengwa badala ya kuihukumu kwa hisia. Ilani yenye msingi wa rubriki ilitoa udhibiti mdogo hata kwa modeli imara za kumilikiwa, ikiwa na wastani bora wa QWK ya sifa wa 0.577 (Claude Sonnet) na 0.422 (GPT-5.4), na karibu sifuri kwa modeli ya 7B iliyo wazi. Urekebishaji uliosimamiwa kwenye jozi halisi za alama na insha ulifikia 0.474 ± 0.023 kwa modeli hiyo ya 7B. GRPO yenye thawabu inayotokana na upimaji wa insha wa kiotomatiki ilifikia 0.618 ± 0.005, na faida zikidumu kwa wapimaji wawili wa kujitegemea ambao sera haikufunzwa dhidi yao ([[swim-student-writing-simulation-2026]]).
 
-## Thibitisha dhidi ya wanafunzi halisi, si dhidi ya hisia zako
+Ilani pia ilizalisha idadi iliyoboreshwa badala ya halisi: wastani wa alama jumla iliyosanifiwa wa 0.74 dhidi ya 0.58 kwa wanafunzi halisi, na urefu wa wastani wa maneno 304 dhidi ya 167. Modeli zilizopewa mafunzo zilirejesha mgawanyo wa alama na urefu wa binadamu bila usimamizi wowote wa urefu. Jambo moja lilibaki gumu: umbo halisi la uwezo mdogo. Modeli zilizopewa mafunzo zilirejesha sarufi lakini ziliandika makosa machache mno ya tahajia na sarufi, huku ilani ikiiga udhaifu kwa uharibifu wa juu juu, tahajia mbaya zikinyunyizwa kwenye maneno yenye uwezo mwingine.
 
-Benchi mbili zinaonyesha gharama ya uthibitisho na inachonunua.
+Uhalisia wa juu juu ni jaribio hafifu kwa pande zote mbili. Katika utafiti wa upofu, wataalam wa kuweka alama waliainisha vibaya mawasilisho 164 kati ya 196 (83.7%) ya Java yaliyozalishwa na LLM kama yaliyoandikwa na binadamu, kwa sababu makosa yalikuwa hayatofautiani kiutendaji na halisi, na upatanisho na makosa halisi kisha ukashuka kadri ugumu wa tatizo ulipopanda ([[simulating-students-java-programming-errors-llms|Keramati na wenzake, 2026]]). Katika modeli saba kutoka vigezo 4B hadi 120B, viiga vilibadilisha kwenda jibu sahihi kwa viwango vinavyokaribia sawa bila kujali maoni yaliyopokea, kwa hiyo ufanano wa matokeo hausemi chochote kuhusu hali ya imani iliyo nyuma yake. Mafunzo dhidi ya **Selective Flip Score** yaliinua uaminifu kwa hadi +0.56 ([[llm-student-simulation-misconception-faithfulness|Do, Sonkar na Sachan, 2026]]).
 
-Kuweka benchi **mbinu tisa za mfano** dhidi ya **vipimo saba vinavyotegemea rejea** kwenye **mazungumzo 382 yaliyowekwa** kutoka maktaba kuu ya umma ya mazungumzo halisi ya hisabati ya mwanafunzi–mwalimu, kuweka ilani kuliwahi kuchelewa kwa vitendo vya mazungumzo (**0.4998** dhidi ya **0.6840**), ROUGE-L (**0.1648** dhidi ya **0.3212**) na ufanano wa cosine (**0.5460** dhidi ya **0.7390**). Lakini mbinu bora iliyojaribiwa — uboreshaji wa upendeleo kwenye mfano wa 8B — ilishinda marekebisho ya usimamizi tu **kwa kiasi** na ilikuwa **mbaya zaidi kwenye makosa**, na tathmini ya binadamu ya mwalimu watatu ilirudia viwango hivyo ([[simulated-students-tutoring-dialogues-2026|Scarlatos et al., 2026]]). Somo ni kwamba juu la ngazi hii si mbali sana juu ya katikati, kwa hiyo pengo kubwa kati ya mfano wako na msingi ni muhimu zaidi kuliko dogo.
+## Hakiki kama maelezo yangetosha
 
-Mifano ya wanafunzi pia hurejesha vitendo vinavyoonekana bila hoja za ndani zilizofichwa. [[inside-llm-student-simulator-reasoning-2026|INSIDE]] hurekebisha mifano kuzalisha mazungumzo ya ndani kabla ya kila tendo, ikifikia ulingano wa juu zaidi kati ya hoja zilizozalishwa na marekebisho halisi ya msimbo — **51.8%** kwenye matatizo ya kujulikana, **57.9%** kwenye yasiyoonekana — bila kupoteza uaminifu wa tendo (Niousha et al., 2026). Ikiwa unajali *kwa nini* mwanafunzi wako aliyeigwa alifanya kitu, uaminifu wa kiwango cha tendo hautoshi.
+Kabla ya kujenga kikundi, hakiki chaguo la bei ndogo zaidi. Kwa kutathmini uzoefu wa kujifunza mtandaoni kabla wanafunzi hawajaanza, kutabiri kuacha masomo na kukamilisha na kutoa maoni ya ubunifu, wakala mmoja wa wavuti wa "kueleza" anayepitia somo na kuzalisha maelezo mazuri ya uzoefu alishinda kuiga idadi ya wanafunzi moja kwa moja.
 
-## Wakati mwingine maelezo hushinda mfano
+Wanafunzi walioigwa katika ulinganisho huo walionyesha wigo mdogo zaidi wa tabia kuliko wanafunzi halisi: kwa mawakala 100 kwenye masomo matano ya majaribio walirudia takriban 4% tu ya njia ambazo wanafunzi halisi walichukua, huku wakigharimu kompyuta nyingi zaidi. Mfululizo wa kueleza-kisha-kutabiri ulifikia utabiri bora wa mgawanyo wa kuacha masomo kwenye kozi kubwa ya CS1 ya kimataifa, ukiwa na wastani wa JSD wa 0.060 ([[ai-web-agents-lesson-design-2025|Wang, Mitchell na Piech, 2025]]).
 
-Matokeo yanayostahili kujua kabla ya kujenga kundi: kwa kutathmini uzoefu wa mtandao wa kujifunza *kabla* wanafunzi kushiriki — kutabiri kuacha na kukamilisha, na kutoa maoni ya muundo — wakala mmoja wa wavuti wa **"kuelezea"** anayetembea somo na kutengeneza maelezo tajiri ya uzoefu ulishinda kuiga moja kwa moja idadi ya wanafunzi.
+Mpaka inaochora ni wa kivitendo. Kuiga mgawanyo wa wanafunzi kunaweza kuwa hakuhitajiki, au kunaweza kuwa kinyume cha manufaa, pale lengo ni kutabiri matokeo au kukosoa ubunifu. Uigaji unapata gharama yake pale ufuniko wa tofauti halisi za wanafunzi unapojali, kama vile kukagua jinsi AI inavyotenda wasifu mbalimbali au kumpa mwalimu kitu cha kufanyia mazoezi.
 
-Wanafunzi walioigwa katika kulinganisha hiyo walionesha masafa machache zaidi ya tabia kuliko wanafunzi halisi: katika **mawakala 100** kwenye masomo matano ya majaribio walirejesha karibu **4%** tu ya njia wanafunzi halisi walizochukua, huku wakigharimu kompyuta zaidi kwa kiasi. Mfumo wa eleza-kisha-tabiri ulifikia utabiri bora wa usambazaji wa kuacha katika kozi kubwa ya kimataifa ya CS1 (wastani wa JSD **0.060**, ikishinda kila msingi) ([[ai-web-agents-lesson-design-2025|Wang, Mitchell & Piech, 2025]]).
+## Wajenzi wanakosea nini kuhusu hili
 
-Kikomo kinachoweka ni muhimu: kuiga *usambazaji* wa wanafunzi kinaweza kuwa si lazima — au kinaboresha — wakati lengo ni utabiri wa matokeo au ukosoaji wa muundo. Mfano hupata gharama yake wakati kufunika mabadiliko halisi ya mwanafunzi ni muhimu, kama kukagua matibabu ya AI ya wasifu mbalimbali au kumpa mwalimu kitu cha kuzoea dhidi yake.
+Uhalisia wa juu juu ndio lengo. Kiwango cha 83.7% cha uainishaji mbaya kwa msimbo ulioandikwa na mashine na kubadilisha majibu kwa karibu usawa katika modeli saba vyote vinasema hakimu wa binadamu anayesoma matokeo hawezi kuona sifa unayoidai. Jaribu jibu kwa marekebisho badala yake.
 
-## Orodha ya ukaguzi kabla ya kutumaini mfano
+Ilani bora ya nafsi hutengeneza kupotoka. Zamu zilizoandikwa zenye kushikamana na kazi zilipunguza kupotoka kulikopimwa na mwangalizi kwa hadi 97% katika modeli tano na miundo mitatu ya ilani. Ubunifu wa zamu ndio uliofanya kazi.
 
-**1.** Andika wanafunzi ambao *hauwajumuishi*. Mifano inaelekea kukamata robo-robo rahisi zaidi.
-**2.** Pima hali ya imani, si maneno. Uliza mfano anachosema baada ya kusahihishwa; mfano unaobadilika kwa jibu sahihi haushikilii dhana potofu.
-**3.** Usitegemee kuweka ilani peke yake ikiwa uaminifu ni muhimu. Kuweka ilani huweka kikomo ambacho mafunzo au muundo huondoa.
-**4.** Amua jinsi utazuia maarifa — bainisha hali ya maarifa, au ondoa maarifa — badala ya kuelezea persona.
-**5.** Weka andiko la mwingiliano, si persona peke yake. Mzunguko unaoegemea kazi hupunguza mwelekeo wa tabia kwa kiasi kikubwa.
-**6.** Pima uaminifu na majibu ya mwongozo kivyao. Mfano unaweza kupita moja na kushindwa jingine.
-**7.** Thibitisha dhidi ya data halisi za wanafunzi, na ripoti msingi ulioshinda. Mbinu bora hapa ni bora zaidi tu kwa kiasi kuliko zilizo chini yao.
-**8.** Kagua iwapo wakala mmoja wa kuelezea ungejibu swali lako kwa bei nafuu kabla ya kujenga idadi.
-**9.** Tarajia wanafunzi wenye udhaifu kuwa ngumu zaidi, na sema hivyo ikiwa mfano wako utatumika kutoa hitimisho kuhusu wao.
+Modeli ya msingi yenye nguvu zaidi hufunga pengo la uwezo. Modeli imara ya kumilikiwa ilipata 0.422 kwenye QWK ya sifa chini ya ilani huku 7B iliyorekebishwa ikifikia 0.474, na ulinganisho huo wa modeli sita ulipita kipimo vibaya zaidi katika viwango vya chini vya darasa. Uchaguzi wa modeli hubadilisha mhimili mmoja wa uaminifu kwa mwingine.
 
-## Maswali yanayohusiana
+Uhakiki unamaanisha mwenzako alisoma nakala na kudhani inasikika sawa. Tokeo la Java linaonyesha hukumu hiyo inafika mbali kiasi gani. Uhakiki unamaanisha rekodi zilizotengwa kutoka wanafunzi halisi na msingi unaoweza kuutaja.
 
-- [[checking-whether-educational-ai-works|Tunajuaje kwamba AI ya kielimu inafanya kazi vizuri, si tu kupata alama nzuri?]] — kutathmini mifumo unayojaribu dhidi ya mfano
-- [[addressing-common-misconceptions-ai-education|Tunawezaje kushughulikia dhana potofu za kawaida kuhusu AI katika elimu?]] — iwapo wanafunzi walioigwa wanaweza kuchukua nafasi ya wanafunzi halisi katika utafiti
-- [[making-ai-better-at-supporting-learning|Tunawezaje kuboresha AI kusaidia kujifunza katika somo letu?]] — mbinu za mafunzo nyuma ya matokeo ya marekebisho ya usimamizi hapo juu
-- [[simulating-students]] — ukurasa kamili wa dhana
+Kuiga idadi ndio chaguo la kina. Kwa mawakala 100 uigaji ulifunika takriban 4% ya njia ambazo wanafunzi halisi walichukua, kwa kompyuta nyingi zaidi kuliko wakala wa kueleza.
+
+## Yatakayokurudia
+
+**"Walimu hawakuweza kutofautisha kiiga chetu na mwanafunzi."** Katika utafiti wa upofu wa Java, wataalam wa kuweka alama waliainisha vibaya 83.7% ya mawasilisho ya mashine kama ya binadamu. Hilo hupima watoa alama, na linaacha hali ya imani bila kuchunguzwa.
+
+**"Urekebishaji uko nje ya wigo wa timu yetu."** Basi weka dai ndani ya kile ilani inaunga mkono, na sema hivyo. Ilani iliweka kikomo cha 0.577 kwa modeli imara zaidi iliyojaribiwa na karibu sifuri kwa 7B iliyo wazi, na ilizalisha mgawanyo wa alama ulioboreshwa.
+
+**"Hatuna ufikiaji wa data za wanafunzi halisi."** Itifaki ya StudentSim imejengwa kutoka mkusanyiko wa umma wa wanafunzi katika chesi, uandishi wa lugha ya pili, na hisabati. Data ya umma hupunguza unachoweza kudai kuhusu idadi yako mwenyewe, na inakupa msingi, ambayo ni kitu ambacho ripoti nyingi huacha.
+
+**"GRPO ilishinda urekebishaji uliosimamiwa, kwa hiyo tunapaswa kufundisha kwa RL."** Ilikwenda hivyo, kwa 0.618 dhidi ya 0.474. Umbo la uwezo mdogo lilibaki gumu katika visa vyote viwili, likiwa na makosa machache mno ya tahajia na sarufi, na katika kipimo kingine uboreshaji wa mapendeleo ulishinda urekebishaji kwa kiasi kidogo tu na ukashindwa kwenye makosa. Hakiki ni sifa ipi matumizi yako yanategemea.
+
+**"Wanafunzi hafifu ni sehemu ndogo ya watumiaji wetu."** Wao ni kesi ngumu zaidi kwa kila mbinu katika ukurasa huu, na ugunduzi wa ufuniko unasema uigaji unakusanyika katika roboduara rahisi zaidi. Ikiwa kiiga chako kitatumika kufikia hitimisho kuhusu wanafunzi wanaojitahidi, pengo hilo linapaswa kuwa katika ripoti.
+
+## Cha kufanya wiki hii
+
+**1.** Andika sentensi ya ufuniko: ni wanafunzi gani ambao kiiga hiki hakiwakilishi. Iweke katika README na maelezo ya onyesho.
+
+**2.** Ongeza kipimo kimoja kwenye seti yako ya majaribio kinachorekebisha kiiga na kuhakiki kama kinabaki kikikosea.
+
+**3.** Badilisha mazungumzo ya nafsi yasiyo na muundo katika mtiririko mmoja na zamu zenye kushikamana na kazi, na linganisha kupotoka.
+
+**4.** Pima kiiga kimoja kilichopo dhidi ya rekodi halisi zilizotengwa kwenye uaminifu na usikivu, na ripoti namba hizo mbili kwa tofauti.
+
+**5.** Endesha hakiki ya wakala wa kueleza kwenye swali unalohitaji jibu lake kweli kabla ya kufadhili kikundi.
+
+## Wapi kwenda baadaye
+
+[[simulating-students]] ni ukurasa kamili wa dhana. [[checking-whether-educational-ai-works]] unashughulikia kutathmini mifumo unayojaribu dhidi ya kiiga, na [[making-ai-better-at-supporting-learning]] unashughulikia mbinu za mafunzo zilizo nyuma ya matokeo ya urekebishaji hapa. [[addressing-common-misconceptions-ai-education]] unachukua swali la kama wanafunzi walioigwa wanaweza kusimama badala ya wanafunzi halisi katika utafiti.

@@ -8,10 +8,14 @@ pedagogy: [well-being]
 ethics: [equity-in-ai-education]
 audience: [learners]
 translation_of: faqs/how-ai-impacts-students
-source_updated: "2026-10-02T08:21:34-04:00"
+source_updated: "2026-10-28T11:14:23-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-29"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-13"
@@ -20,34 +24,94 @@ ai_assist:
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
 
-# How Is AI Impacting Students?
+Unatumia AI kwa kazi za kozi na unafanya vizuri, isipokuwa mtihani wa bila vitabu ulihisi kama kusoma maelezo ya mtu mwingine. Au rafiki yako anasema hakuandika chochote na bado akapata A, na unajiuliza hilo linamaanisha nini kwako. Au umeanza kuuliza chatbot maswali zaidi kuliko unavyomuuliza mwalimu wako.
 
-**AI inaathiri wanafunzi katika mwelekeo chanya na hasi, na kwa kawaida kwa wakati mmoja.** Zana ileile inaweza kutoa ngazi za msaada kwa ujuzi wa mwanafunzi huku ikimwalika kutegemea kupita kiasi, kuongeza motisha huku ikidhoofisha wakala, au kusaidia ujumuishaji huku ikitishia umilikaji. Utafiti kuhusu [[student-experience|Uzoefu wa Mwanafunzi]] unaonyesha athari zinazojirudia chanya na hasi katika vipimo kadhaa — na mwelekeo unategemea sana jinsi AI ilivyobuniwa na jinsi wanafunzi wanavyotumia.
+Jibu fupi, kwa namna unayoweza kuirudia kwa rafiki: AI ni yenye manufaa pale unapohitaji maoni na haina manufaa pale unapohitaji mazoezi. Hifadhi hatua ya kufikiri kwa ajili yako mwenyewe, jipime bila zana kabla ya kuwasilisha, na kuwa mwaminifu kuhusu kile ulichotumia. Sehemu iliyobaki ya ukurasa huu inaelezea kwa nini hilo linashikilia na jinsi linavyoonekana jioni ya Jumanne.
 
-## Athari chanya
+## Toleo fupi
 
-**1. Msaada kwa ujuzi.** AI inaweza kutoa [[scaffolding|ngazi za msaada]] kwa ufahamu kwa [[feedback]], vidokezo, na maelezo, na kuwapa wanafunzi msaada wa papo hapo, mazoezi, na usaidizi unaobadilika unaomweka mwanafunzi akifanya kazi muhimu ya kiakili. Ikifanywa vizuri, hii inasaidia kujifunza na [[help-seeking]] (tazama [[does-ai-help-students-learn|Je, kutumia AI kunamsadia mwanafunzi kujifunza kweli?]]).
+**1.** Amua kabla ya kufungua zana ni sehemu gani za kazi utazifanya mwenyewe.
 
-**2. Motisha na ushirikiano.** Msaada wa kibinafsi, wa papo hapo, na wa hatari ndogo unaweza kuongeza [[motivation]] na [[student-engagement|ushirikiano]], na kuwasaidia wanafunzi kudumu na kujisikia wenye uwezo (tazama [[self-determination-theory|nadhari ya kujitambua]] na mahitaji yake ya uhuru, uwezo, na uhusiano).
+**2.** Itumie kujifungua kutoka mahali umekwama, kupata [[feedback]], na kuona mfano uliofanyiwa kazi. Fanya hoja mwenyewe.
 
-**3. Upatikanaji na usawa katika vipimo kadhaa.** AI inaweza kuwapa wanafunzi wasio na nia ya kuuliza maswali njia ya kupata msaada bila shinikizo, na inaweza kusaidia [[well-being]] kwa kupunguza wasiwasi wa kutafuta msaada.
+**3.** Kabla ya kuwasilisha, funga kichupo na eleza hoja yako kwa sauti bila mtu yeyote.
 
-**4. Utambulisho na utayari wa mustakabali.** AI inaweza kuwasaidia wanafunzi kujenga ujuzi unaohamishika kwa ulimwengu uliounganishwa na AI — [[ai-literacy]], [[distributed-cognition]], na [[metacognition]] (tazama [[lodge-adaptive-capabilities-genai-future-2026|uwezo unaobadilika]]) — na kusaidia [[learner-identity|kuunda utambulisho]] wanapojiona kuwa wataalam wenye uwezo na ujuzi wa AI.
+**4.** Hifadhi mistari miwili ya maelezo kuhusu kile ulichouliza na kile ulichobadilisha.
 
-**5. Msaada wa kisaikolojia wakati wa mzigo.** Zaidi ya msaada wa kiakili, wanafunzi wanataja [[generative-ai|AI ya kizalishaji]] kama chanzo cha kuwatia moyo na nafasi ya siri ya kutafakari katika mafunzo ya shinikizo kubwa — kipimo cha mahusiano na kihisia cha manufaa ambayo mifano ya kupitisha haikukamata. Katika utafiti wa [[qualitative-research|kina]] wa wanafunzi 28 wa uuguzi na wataalam, wanafunzi kadhaa walitaja AI kama "rafiki" ambao alitoa faraja na nafasi bila hukumu wakati wa mzigo wa [[medical-education|kliniki]] ([[akbaba-nursing-ai-experiences-tam-2026|Akbaba & Calik Kus, elimu ya uuguzi]]). Soma hii pamoja na ushahidi wa utegemezi ulio hapa chini: faraja ni halisi, na inaweza kugeukia kutegemea.
+**5.** Ikiwa kuitumia kunakufanya uwe na wasiwasi au aibu, chukulia hilo kama taarifa na mwambie mtu.
 
-## Athari hasi
+## Amua zana ni ya nini
 
-**1. Kutegemea kupita kiasi na pengo la utendaji–kujifunza.** AI inamwalika [[cognitive-offloading|kupunguza mzigo wa kiakili]] — wanafunzi wanawapa wajibu wa hoja wanayohitaji kuzoeza. Hii inaweza kuongeza utendaji *pamoja na* AI huku ikipunguza utendaji wa baadaye bila usaidizi: muhtasari wa hifadhi hii ya maarifa wa [[ai-misuse-learning-harm|matumizi mabaya ya AI na madhara ya kujifunza]] unaandikia [[rct]] ambapo [[intelligent-tutoring|mwalimu wa AI]] asiye na ulinzi aliboresha mazoezi lakini akapunguza utendaji wa mtihani wa baadaye. Matumizi kupita kiasi yanaweza pia kudhoofisha [[metacognition]] na [[self-regulated-learning]]. Muhtasari wa 2026 wa masudio **72** katika [[cs-education|elimu ya kompyuta]] unapima mfumo huo: AI ya kizalishaji iliinua kwa uthabiti ukamilishaji wa muda mfupi na kupunguza muda wa kazi (masudio 36), lakini faida "hazihamishi kwenda utendaji huru" (masudio 21), na faida ilitegemea [[prior-knowledge|maarifa ya awali]] — wanafunzi walioandaliwa vizuri walibadilisha msaada kuwa ujuzi unaodumu huku wanafunzi wasioandaliwa wakitumia kama mkongojo ambao uliondoa [[productive-failure|kushindwa kwa tija]], na kupanua mapengo ya uwezo *ndani ya* darasa moja ([[kumar-genai-computing-education-systematic-review-2026|Kumar et al., mapitio ya kimfumo]]).
+AI inaweza [[scaffolding|kutoa ngazi za msaada]] wa ufahamu inapoeleza, kudokeza na kukupa mazoezi kwenye ngazi unayofanyia kazi, na inapokufanya uendelee kufanya sehemu muhimu ya kiakili. Toleo hilo pia linasaidia [[help-seeking|kutafuta msaada]], kwa sababu unaweza kuuliza swali ambalo usingeliuliza mbele ya chumba ([[does-ai-help-students-learn|Je, kutumia AI kunasaidia wanafunzi kujifunza kwa kweli?]]).
 
-**2. Kupunguza juhudi na wakala.** Kujua kuwa AI inapatikana kunaweza kupungua nia ya wanafunzi ya kushiriki katika [[productive-failure|kushindwa kwa tija]] ([[ai-availability-student-motivation|upatikanaji wa AI na motisha]]), na kukubali matokeo ya AI kwa upole kunaweza kudhoofisha [[agency]] na hisia ya mafaniko yanayotoka kwa kufanya kazi mwenyewe (tazama [[wang-safety-gap-productive-struggle-2026|pengo la usalama]]).
+Msaada wa kibinafsi, wa papo hapo na wa hatari ndogo unaweza kuinua [[motivation|motisha]] na [[student-engagement|ushirikiano]], na [[self-determination-theory|nadharia ya kujiamulia]] inaelezea kwa nini toleo lenye manufaa hufanya kazi: hulisha uhuru, uwezo na uhusiano. Toleo lisilo na manufaa hufanya kazi na kuacha vyote vitatu bila kuguswa. Likitumika vizuri, linaweza pia kujenga [[ai-literacy]], [[distributed-cognition]] na [[metacognition]] ambayo watu humaanisha wanapozungumza kuhusu utayari wa mahali pa kazi palipounganishwa na AI (ona [[lodge-adaptive-capabilities-genai-future-2026|uwezo wa kubadilika]]). Hakuna kati ya hivyo kinachotokana na kutumia zana. Kinatokana na kile unachofanya wakati unaitumia. Wanafunzi wengi hupata athari nzuri na mbaya katika wiki moja, na hiyo ndio hoja kwenye [[student-experience|Uzoefu wa Mwanafunzi]].
 
-**3. Wasiwasi, aibu, na gharama za ustawi.** Matumizi ya AI yanahusishwa na [[anxiety-and-stress|wasiwasi na mzigo]] — kuhusu kubadilishwa, tathmini isiyo na uhakika, au kubaki na mwelekeo (tazama [[kim-ai-anxiety-comprehensive-analysis|uchanganuzi kamili wa wasiwasi wa AI]]). [[shame-guilt-ai-regulation-computing-education|Aibu na hatia]] kuzunguka matumizi ya AI zinaweza kusababisha kuficha na kujitambua kwa uteuzi, na kudhuru ushirikiano wa uwazi na ustawi wa [[social-emotional-learning|kihisia-kijamii]]. Matokeo ya motisha yanapimika: uchunguzi wa Zhang, Shi, na Lu wa wanafunzi **1,484** wa shahada ya kwanza uligundua wasiwasi wa AI ukihusishwa kwa njia hasi na motisha ya kitaaluma (r = −0.175) na na udhibiti wa hisia [[regulation]] (r = −0.172), huku udhibiti wa hisia ukitoa mwelekeo wa sehemu ya njia ya wasiwasi wa AI → motisha (athari isiyo ya moja kwa moja = −0.076), huku muda wa matumizi ya kila siku ukitabiri karibu hakuna (r = 0.053). Hitimisho lao ni kuwa mafunzo ya ujuzi yanapaswa kuunganishwa na msaada wa udhibiti wa hisia na [[metacognition|metaji]], si kupanua tu upatikanaji wa zana ([[zhang-ai-anxiety-academic-motivation-emotion-2026|Zhang et al., wasiwasi wa AI na motisha ya kitaaluma]]). Muhtasari mahususi wa rekodi 51 kuhusu [[conversational-ai|AI ya mazungumzo]] unaongeza onyo la upimaji: uaminifu, kutegemea, kutegemea kupita kiasi, kiambatisho, na utegemezi hutofautishwa mara nyingi, na mahusiano ya mvizio ya upande mwingi na upweke, wasiwasi, uchovu, kuahirisha, na [[critical-thinking|ufikiri mahususi]] dhaifu hayathibitishi sababu — matumizi ya mara kwa mara si utegemezi bila udhibiti ulioathirika au madhara ya kikazi ([[yan-conversational-ai-engagement-dependence-synthesis-2026|Yan, muhtasari wa ushirikiano na utegemezi wa AI ya mazungumzo]]).
+## Hifadhi hatua unayojaribu kujifunza
 
-**4. Vitisho kwa utambulisho wa mwanafunzi.** AI inapozalisha kazi, wanafunzi wanaweza kuacha kuhisi matokeo ni "yao" — vitisho vya umilikaji kwa [[learner-identity|utambulisho wa mwanafunzi]]. [[t2i-competence-paradox-2026|Paradoxi ya uwezo]] katika nyanja za ubunifu inaonyesha urahisi wa matumizi ukidhoofisha utambulisho wa msingi wa ufundi ambao wanafunzi wanapata kutoka kwa umilikaji.
+AI inakaribisha [[cognitive-offloading|uhamishaji wa kiakili]], unamaanisha kukabidhi hoja uliyopaswa kuifanyia mazoezi. Kesi iliyo wazi zaidi ni [[rct]] ya nyanjani ambapo [[intelligent-tutoring|mkufunzi wa AI]] asiye na ulinzi aliboresha utendaji wa mazoezi na kupunguza utendaji wa mtihani baadaye ([[ai-misuse-learning-harm]]). Unakuwa bora kwenye kazi iliyofunzwa na hauwi bora kwenye kitu ambacho mtihani hupima. Matumizi kupita kiasi yanaweza pia kudhoofisha [[metacognition]] na [[self-regulated-learning]], kwa hivyo unapoteza uwezo wa kujua kama unajua kitu.
 
-**5. Hatari za uadilifu na usawa.** AI inawezesha aina mpya za [[academic-integrity|udanganyifu wa kitaaluma]], na upatikanaji usio sawa wa (na ufahamu wa) zana za AI unaweza kupanua mapengo kati ya wanafunzi — wasiwasi wa msingi wa [[equity-in-ai-education|Usawa]].
+Muhtasari wa 2026 wa tafiti 72 katika [[cs-education|elimu ya kompyuta]] unaweka nambari. [[generative-ai|AI ya kizalishaji]] iliongeza kwa kuaminika ukamilishaji wa muda mfupi na kupunguza muda wa kufanya kazi katika tafiti 36. Faida "hazihamishi kwenye utendaji wa kujitegemea" katika tafiti 21. Faida ilitegemea [[prior-knowledge|maarifa ya awali]]: wanafunzi waliotayarishwa vizuri waligeuza msaada kuwa ujuzi endelevu, na wanafunzi wasiotayarishwa vizuri walitumia kama fimbo ya kuegemea iliyoondoa [[productive-failure|kushindwa kwa tija]], jambo lililopanua mapengo ya uwezo ndani ya darasa moja ([[kumar-genai-computing-education-systematic-review-2026|Kumar et al., muhtasari wa kimfumo]]).
 
-## Hitimisho la msingi
+Chukulia hilo kibinafsi ikiwa uko nyuma katika somo. Ikiwa bado huwezi kutofautisha maelezo mazuri na yenye kujiamini, zana si msaada wa upande wowote.
 
-[[guardrails|Vizuizi vya ulinzi]] ni **tumia AI kama ngazi za msaada, si kama mbadala** — mweka mwanafunzi akifanya kazi muhimu ya kiakili huku AI ikitoa msaada — na kuangalia anuwai kamili ya athari (za kiakili, za motisha, za kihisia, za utambulisho, za kijamii, na [[equity-in-ai-education|usawa]]), si utendaji tu. Kwa matibabu ya kina yaliyopangwa kulingana na kipimo, tazama ukurasa wa dhana wa [[student-experience|Uzoefu wa Mwanafunzi]]. Kwa majibu ya upande wa uingiliaji — jinsi ya kubuni AI katika kozi ili ngazi za msaada zisibadilike kuwa mbadala — tazama [[incorporating-ai-literacy|Je, ninapaswa kujumuisha ujuzi wa AI katika kozi yangu vipi?]] na [[ai-literacy-evidence|Je, ushahidi ni upi kuhusu uingiliaji wa ujuzi wa AI katika elimu ya juu?]].
+Kujua iko pia hubadilisha kile unachokubali kuhangaika nacho. [[ai-availability-student-motivation|Upatikanaji wa AI na motisha]] unaandika kupungua kwa nia ya kukaa katika [[productive-failure|kushindwa kwa tija]], na kukubali matokeo bila kuchunguza kunaweza kudhoofisha [[agency]] na hisia ya kuwa umefanya kazi hiyo (ona [[wang-safety-gap-productive-struggle-2026|pengo la usalama]]).
+
+## Jipime bila zana
+
+Ukaguzi huchukua dakika kumi na ndio kitu chenye manufaa zaidi kwenye ukurasa huu. Funga kila kitu, chukua karatasi tupu, na andika hoja ya kile ulichowasilisha kutoka kumbukumbu: dai, sababu mbili au tatu, na kile kingepingana nacho. Kisha fungua kazi yako na linganisha.
+
+Ikiwa karatasi tupu inatoka karibu sawa, ulijifunza nyenzo na zana ilikusaidia kuipanga. Ikiwa inatoka tupu wakati hati imeng'arishwa, una pengo la utendaji, na alama zitaficha hilo hadi mtihani au nafasi ya kazi usipoficha. Rudi kwenye sehemu ambayo hukuweza kuirudia, ifanyie kazi bila msaada, na kagua tena.
+
+## Kuwa mwaminifu kuhusu kile ulichofanya
+
+AI huwezesha aina mpya za [[academic-integrity|kutokuwa mwaminifu kitaaluma]], na sheria za kozi yako pengine haziko wazi kuliko zile ulizokulia. Gundua kwa maandishi kile mwalimu wako anaruhusu, kabla ya tarehe ya mwisho, kisha eleza kile ulichofanya kwa lugha rahisi.
+
+[[shame-guilt-ai-regulation-computing-education|Aibu na hatia]] kuhusu matumizi ya AI huwasukuma wanafunzi kujificha, na kujificha kunakupoteza kitu kimoja kinachotatua wasiwasi, ambacho ni maelezo sahihi ya mchakato wako. Upatikanaji pia hauna usawa, na hilo ni tatizo la [[equity-in-ai-education|usawa]] ambalo hukulizalisha, ingawa bado linaweza kukupata. Ikiwa upatikanaji wako ni mdogo zaidi, mkakati hapa ni muhimu zaidi, kwa sababu hakuna kati yake unaotegemea ni usajili upi unao.
+
+AI inapozalisha maandishi, matokeo yanaweza kuacha kuhisi kama yako, na hiyo ni gharama halisi. Ni tishio la uandishi kwa [[learner-identity|utambulisho wa mwanafunzi]], na [[t2i-competence-paradox-2026|kitendawili cha umahiri]] katika nyanja za ubunifu kinaonyesha mfumo: kadri matokeo yanavyokuwa rahisi, ndivyo utambulisho unaotegemea ufundi unavyopungua kwa wanafunzi kuifanya. Ikiwa unaweza kusema kwa nini mfano huu na si ule, kazi ni yako bila kujali ni sentensi gani uliandika kwanza.
+
+## Tunza wasiwasi
+
+Matumizi ya AI yanahusiana na [[anxiety-and-stress|wasiwasi na msisongo]], kuhusu kubadilishwa, kuhusu tathmini usiyoweza kutabiri, na kuhusu kuendelea kufikia (ona [[kim-ai-anxiety-comprehensive-analysis|uchambuzi kamili wa wasiwasi wa AI]]). Uhusiano ndio neno sahihi, na fasihi ya upimaji iko makini kuhusu hilo.
+
+Zhang, Shi na Lu walidodosa wanafunzi 1,484 wa shahada ya kwanza na wakagundua wasiwasi wa AI ukihusiana hasi na motisha ya kitaaluma (r = -0.175) na [[regulation|udhibiti]] wa hisia (r = -0.172), huku udhibiti wa hisia ukipatanisha kwa sehemu njia kutoka wasiwasi hadi motisha (athari isiyo ya moja kwa moja = -0.076). Muda wa matumizi ya kila siku haukutabiri karibu chochote (r = 0.053). Hitimisho lao ni kwamba mafundisho ya ujuzi yanapaswa kuoanishwa na msaada wa udhibiti wa hisia na [[metacognition|metaji]], si kupanua upatikanaji wa zana pekee ([[zhang-ai-anxiety-academic-motivation-emotion-2026|Zhang et al., wasiwasi wa AI na motisha ya kitaaluma]]).
+
+Tahadhari moja kabla ya kujitambua. Muhtasari makini wa rekodi 51 kuhusu [[conversational-ai|AI ya mazungumzo]] unagundua kuwa uaminifu, kutegemea, kutegemea kupita kiasi, kushikamana na utegemezi huchanganywa mara kwa mara, na kwamba uhusiano wa wakati mmoja na upweke, wasiwasi, uchovu, kuchelewesha na [[critical-thinking|fikra makini]] dhaifu zaidi hautathibitishi sababu. Matumizi ya mara kwa mara si utegemezi bila udhibiti uliodhoofika au madhara ya kiutendaji, kwa hivyo wiki nzito si ugonjwa ([[yan-conversational-ai-engagement-dependence-synthesis-2026|Yan, muhtasari wa ushirikiano na utegemezi wa AI ya mazungumzo]]).
+
+Upande wa kihisia pia unaweza kuwa mzuri. Katika utafiti wa [[qualitative-research|kiubora]] wa wanafunzi 28 wa uuguzi na walimu, kadhaa walielezea AI kama "msindikizaji" aliyetoa faraja na nafasi isiyo ya kuhukumu wakati wa msisongo wa [[medical-education|kliniki]] ([[akbaba-nursing-ai-experiences-tam-2026|Akbaba na Calik Kus, elimu ya uuguzi]]). Faraja ni halisi na inaweza kugeuka kuwa utegemezi, kwa hivyo swali la [[well-being]] na swali la kujifunza linahitaji kujibiwa pamoja. Kuzungumza na mtu kuhusu msisongo ni sehemu ambayo chatbot haiwezi kufanya, na msaada wa [[social-emotional-learning|kujifunza kwa kijamii na kihisia]] ni desturi ya kibinadamu kwanza.
+
+## Wanachokosea wanafunzi kuhusu AI na kujifunza kwao wenyewe
+
+**Kazi bora ya kuwasilisha inamaanisha ulijifunza zaidi.** Muhtasari wa elimu ya kompyuta uligundua ukamilishaji wa muda mfupi ukiongezeka katika tafiti 36 huku faida zikishindwa kuhamishwa katika tafiti 21 ([[kumar-genai-computing-education-systematic-review-2026|Kumar et al., muhtasari wa kimfumo]]), na [[rct]] ya nyanjani iligundua mazoezi yakiboresha huku utendaji wa mtihani baadaye ukishuka ([[ai-misuse-learning-harm]]). Hati na kujifunza ni matokeo mawili, na moja tu ndilo linalopimwa.
+
+**Kuitumia zaidi kutarekebisha wasiwasi wako kuhusu hiyo.** Wasiwasi ulihusiana na motisha ndogo zaidi na udhibiti mdogo wa hisia, na muda wa matumizi ya kila siku haukutabiri karibu chochote (r = 0.053), kwa hivyo saa zaidi si kianzio ([[zhang-ai-anxiety-academic-motivation-emotion-2026|Zhang et al., wasiwasi wa AI na motisha ya kitaaluma]]). Kianzio katika utafiti huo ni udhibiti wa hisia na msaada wa metaji.
+
+**Kila mtu mwingine anaitumia, kwa hivyo uko nyuma ikiwa hutaitumia.** Wanafunzi wasiotayarishwa vizuri katika muhtasari walitumia zana kama fimbo ya kuegemea na wakapoteza kushindwa ambako kungefunga pengo ([[kumar-genai-computing-education-systematic-review-2026|Kumar et al., muhtasari wa kimfumo]]). Ikiwa uko nyuma, fanyia kazi misingi bila zana na itumie kujikagua baadaye.
+
+**Matumizi mengi yanamaanisha unategemea.** Muhtasari wa rekodi 51 unasema waziwazi kuwa uaminifu, kutegemea, kushikamana na utegemezi huchanganywa, na kwamba matumizi ya mara kwa mara huhesabiwa kama utegemezi tu ikiwa kuna udhibiti uliodhoofika au madhara ya kiutendaji ([[yan-conversational-ai-engagement-dependence-synthesis-2026|Yan, muhtasari wa ushirikiano na utegemezi wa AI ya mazungumzo]]). Uliza badala yake kama unaweza kuacha kwa wiki moja na bado ukafanya kazi.
+
+## Rafiki zako watasema nini
+
+**"Ni zana tu, kama kikokotoo."** Kikokotoo huondoa hesabu uliyokwisha kujifunza. [[rct]] na muhtasari vinaelezea zana inayoweza kuondoa hoja ambayo bado hujajifunza, ndiyo sababu matumizi yale yale yanamuacha mwanafunzi mmoja akiwa imara na mwingine dhaifu ([[ai-misuse-learning-harm]], [[kumar-genai-computing-education-systematic-review-2026|Kumar et al., muhtasari wa kimfumo]]).
+
+**"Naitumia kwa kuhariri tu, kwa hivyo haihesabiwi."** Kuhariri ni halali katika kozi nyingi, na pia ni matumizi yanayogunduliwa kwa urahisi zaidi, jambo ambalo ni hoja ya kuyafichua. Kinachohesabiwa huwekwa na kozi yako, kwa hivyo pata jibu kwa maandishi.
+
+**"Nikiacha, nitabaki nyuma."** Faida za muda mfupi ni halisi na uhamisho ndio sehemu dhaifu ([[kumar-genai-computing-education-systematic-review-2026|Kumar et al., muhtasari wa kimfumo]]). Kubaki nyuma hupimwa kwa kile unachoweza kufanya kwenye chumba bila zana, ambapo mtihani, nafasi ya kazi na mahojiano hufanyika.
+
+**"Alama zangu ni nzuri, kwa hivyo hakuna tatizo."** Alama ni kipimo cha utendaji, na pengo la utendaji na kujifunza ndilo hasa kesi ambapo zinaonekana nzuri ([[ai-misuse-learning-harm]]). Ikiwa unataka kujua kama ulijifunza kitu, uliza unachoweza kufanya bila zana.
+
+## Fanya hivi wiki hii
+
+**1.** Chagua kazi yako inayofuata na uandike hatua moja utakayoifanya bila zana yoyote wazi.
+
+**2.** Endesha ukaguzi wa karatasi tupu kwenye kitu ulichowasilisha mwezi uliopita. Dakika kumi, kutoka kumbukumbu.
+
+**3.** Ongeza mistari miwili kwenye mtiririko wako wa kazi: kile ulichouliza zana, na kile ulichobadilisha.
+
+**4.** Muulize mwalimu wako, kwa maandishi, kinachohesabiwa kama matumizi yanayoruhusiwa kwenye tathmini inayofuata.
+
+**5.** Ikiwa wasiwasi ndio tatizo kubwa zaidi, mwambie mtu mmoja wiki hii.
+
+## Wapi kwenda baadaye
+
+[[does-ai-help-students-learn|Je, kutumia AI kunasaidia wanafunzi kujifunza kwa kweli?]] ni swali la ushahidi nyuma ya ukurasa huu, na [[study-with-ai]] inashughulikia taratibu za kufanya kazi. [[ai-anxiety-wellbeing]] inaendeleza upande wa wasiwasi, na [[guardrails]] inaelezea jinsi msaada unavyogeuka kuwa mbadala. Mtazamo wa usanifu wa kozi uko katika [[incorporating-ai-literacy|Ninawezaje kuingiza ujuzi wa AI katika kozi yangu?]] na [[ai-literacy-evidence|Ushahidi kuhusu uingiliaji wa ujuzi wa AI katika elimu ya juu ni upi?]].

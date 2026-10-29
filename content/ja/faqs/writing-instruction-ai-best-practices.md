@@ -1,7 +1,7 @@
 ---
 title: "AIの文脈におけるライティング指導のベストプラクティスは何ですか?"
 created: "2026-09-12T08:13:03-04:00"
-updated: "2026-10-29T09:26:47-04:00"
+updated: "2026-10-29T10:30:04-04:00"
 connected_faqs: [ai-feedback-at-scale, redesign-assessment-ai-era, addressing-common-misconceptions-ai-education]
 foundations: [academic-integrity, cognitive-offloading]
 assessment: [ai-feedback-quality, assessment-validity, evaluative-judgment, feedback-literacy, peer-assessment]

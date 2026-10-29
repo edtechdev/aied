@@ -15,10 +15,14 @@ confidence: high
 methods: [benchmark]
 ethics: [ai-sycophancy, pedagogical-safety]
 translation_of: faqs/training-ai-tutors-to-guide-rather-than-answer
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-28T11:26:02-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-29"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: drafting
     date: "2026-10-02"
@@ -31,79 +35,124 @@ ai_assist:
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
 
-Mfano wa matumizi ya jumla hufundishwa baada ya mafunzo kwenye upendeleo wa binadamu wa kuwa na manufaa, na katika mazoezi manufaa inamaanisha kujibu swali kwa haraka na kikamilifu. Ufundishaji unahitaji kinyume chake: kumsaidia mwanafunzi kufikia jibu badala ya kumpa. Hapa ni mahali mmoja katika AI ya kielimu ambapo unaweza kweli kuhitaji kubadilisha tabia iliyojifunza ya mfano badala ya ilani yake, na pia ni sehemu yenye ushahidi bora zaidi ya uwanja. Matokeo ni makubwa, na kigezo cha kuamua ni **zawadi**, si algoriti.
+Mkufunzi wako hutoa jibu. Onyesho halikuonyesha hilo, kwa sababu swali lilikuwa rahisi na mwanafunzi alikuwa mshirikiano. Kumbukumbu za majaribio zinaonyesha: mwanafunzi anauliza mara mbili, modeli inarudia mbinu, kisha inasuluhisha. Mwalimu anatazama kikao na kusema ni chatbot yenye sauti ya kirafiki. Sasa unaamua kama utatumia robo ya muda wa uhandisi kwenye mafunzo ya baada au kuwasilisha kwa ilani bora ya mfumo.
 
-## Kwa nini kutoa ilani kunaweza kutotosha hapa
+Jibu fupi: kutoa ilani hakuondoi mvuto wa kujibu, kwa sababu usaidizi ni kile modeli msingi ilifunzwa kuzalisha. Ikiwa tabia ya kuongoza ndio bidhaa, inapaswa kufunzwa, na kigezo kinachoamua matokeo ni **zawadi**. Andika zawadi dhidi ya kipimo, weka hoja ya ngazi ya hatua kwenye data ya mafunzo, na hukumu mafunzo kwa hatua ya ufundishaji inayofuata ambayo modeli huchagua.
 
-[[prompt-engineering|Kutoa ilani]] na hata mafunzo ya jumla ya kulinganisha hubaki kuwa na mvuto kuelekea makubaliano. [[contextual-sycophancy-ai-literacy|Kubembeleza kulingana na muktadha]] kunaendelea baada ya kutoa ilani na kulinganisha, huku makosa ya wenye kujifunza yakiendelea kuingia katika ushauri wa AI. EduFrameTrap inaonyesha kuwa mifano inayostahimili mashambulizi ya kubadilisha muktadha bado hujisalimisha chini ya mamlaka au shinikizo la kijamii-kihisia na huzuia maoni ya marekebisho — na hiyo ndiyo sababu waandishi wake wanadai kuwa tabia ya "karimu-lakini-sahihi" inapaswa kuwa **mahitaji mahususi ya mafunzo** badala ya upendeleo ([[eduframetrap-llm-sycophancy-educational-safety]]).
+## Toleo fupi
 
-Kama hali ya kushindwa ya kocha wako ni kuwa anakubaliana na jibu lisilo sahihi, kumwambia asikubaliane ni upunguzaji badala ya suluhisho.
+**1.** Jaribu kama ilani inastahimili shinikizo kabla ya kuhitimisha kuwa ilani inatosha. Kukubaliana na mwanafunzi asiye sahihi ndio mtindo wa kushindwa wa kutafuta.
 
-## Zawadi ni ubuni wote
+**2.** Andika zawadi kama maelezo ya tabia unayotaka, huku hasi ngumu zikitengwa, kisha kagua kile ilichoboresha kwa kweli.
 
-Zawadi ni mpangilio uliosongwa wa unachotaka, na mifano huboresha chochote ulichokiandika kweli. Hilo hufanya ubuni wa zawadi kuwa uamuzi wa manufaa zaidi katika mchakato, na ndipo matokeo bora zaidi yalipopatikana hapa.
+**3.** Funza kwa kumbukumbu za ngazi ya hatua. Mkusanyiko wa jozi za swali na jibu sahihi hauwezi kufundisha modeli kuona mahali mwanafunzi alikosea.
 
-Mfano wa zawadi wa EduQwen **ulitanguliza majibu ya kuongoza juu ya majibu ya moja kwa moja**, pamoja na uchimbaji hasi mgumu ili kuwatenga maswali ambayo mfano wa msingi tayari umeyatatua, na rollouts zilipanuliwa kutoka hatua 5 hadi 8 ili maamuzi ya kiufundi ya hatua nyingi yakinaswa. Mtiririko wake wa awamu tatu — RL ya awali, SFT ya kisintetiki, RL ya mwisho — ilifika **96.52%** kwenye benchmark ya CDPK, dhidi ya **90.55%** ya Gemini-3 Pro ([[singh-eduqwen-pedagogical-rl-2026]]).
+**4.** Pendelea kujifunza kwa kuimarisha kuliko kuiga pale hukumu inapohusika, na hifadhi alama za hatua za kati.
 
-Mambo mawili yanafuatia moja kwa moja. Kwanza, tarajia zawadi kicheze: inabainisha kidogo kuliko ulivyokusudia, hivyo iandike dhidi ya benchmark badala ya hisia. Pili, namba za kati ni za kuelimisha — awamu ya kwanza ya RL peke yake ilifika 94.13%, SFT kwenye majibu 40,000 yaliyozalishwa yenyewe ilipeleka hadi 96.20%, na raundi ya mwisho ya RL iliongeza sehemu ndogo iliyobaki. Faida nyingi ilikuja mapema.
+**5.** Fanya zawadi iwe mnene vya kutosha kuwaka kwenye majibu mengi, na endesha tathmini kwenye mazungumzo yote.
 
-## Kujifunza kwa kuimarisha hushinda kuiga kwa ajili ya kiufundi
+## Gundua kama ilani inastahimili shinikizo
 
-Kama unafanya tu marekebisho laini yenye usimamizi, unamfundisha mfano kuiga maonyesho yako. Hilo kinatosha kwa umbo na hakitoshi kwa hukumu. Gunduo la LearnLM ni mahususi: **RL ni yenye ufanisi mkubwa zaidi kuliko SFT peke yake kwa kufuata maelekezo mahususi ya kiufundi katika mazungumzo marefu** ([[learnlm-improving-gemini-learning]]).
+[[prompt-engineering|Kutoa ilani]] na mafunzo ya jumla ya upatanisho huacha mvuto wa kukubaliana. [[contextual-sycophancy-ai-literacy|Kujipendekeza kwa muktadha]] huendelea baada ya yote mawili, huku makosa ya wanafunzi yakiendelea kuingia kwenye ushauri wa AI.
 
-Mwelekeo wake unaotegemea maelekezo pia unawaruhusu waandaaji na walimu kubainisha tabia ya kocha bila kujitolea kwenye ufafanuzi mmoja wa kiufundi, na unachanganywa katika awamu za mafunzo ya baada ya Gemini kwa mafunzo ya pamoja. Wataalam waliupendelea dhidi ya GPT-4o (**+31%**), Claude 3.5 Sonnet (**+11%**) na Gemini 1.5 Pro wa msingi (**+13%**).
+EduFrameTrap inaongeza maelezo ambayo ni muhimu kwa uamuzi wa bidhaa. Modeli zinazostahimili mashambulizi ya kubadilisha muktadha bado hushindwa chini ya shinikizo la mamlaka au la kijamii na kihisia na huzuia maoni ya kurekebisha, ndiyo sababu waandishi wake wanahoji kuwa tabia ya "mpole lakini sahihi" inapaswa kuwa **hitaji la mafunzo lililo wazi** badala ya upendeleo ([[eduframetrap-llm-sycophancy-educational-safety]]).
 
-## Simamia mchakato, si jibu
+Ikiwa kushindwa kwa mkufunzi wako ni kukubaliana na jibu lisilo sahihi, kutoa ilani isikubaliane ni upunguzaji wa athari. Endesha jaribio la shinikizo kwanza, rekodi inapovunjika, na tumia nakala hiyo kama hoja ya bajeti ya mafunzo.
 
-Gunduo moja linaloweza kutekelezwa zaidi katika eneo hili linahusu *data ya mafunzo inapaswa kujumuisha nini*. Mifano iliyorekebishwa kwa maelekezo ilijifunza dhana potofu za aljebra tu ilipofundishwa kwenye **hati za suluhisho za kiwango cha hatua**. Ikifundishwa kwa majibu ya mwisho peke yake, usahihi ulibaki **chini ya 30% katika kila ukubwa wa data** ([[misconception-acquisition-dynamics-llms-2026]]).
+## Andika zawadi kabla ya kukusanya data
 
-Maelezo mawili zaidi kutoka utafiti huo yana maana kwa yeyote anayejenga upande wowote wa kocha:
+Zawadi ni maelezo yaliyobanwa ya kile unachotaka, na modeli huboresha chochote ulichoandika kwa kweli. Hiyo inafanya usanifu wa zawadi kuwa uamuzi unaoweka kikomo kwa kila kitu kinachofuata.
 
-- Jukumu la **mwanafunzi** lilibadilisha kupita kiasi makosa yaliyojifunzwa hadi mifano sahihi ilipochanganywa kwa uwazi katika uwiano mdogo kama **moja kati ya nne**.
-- Jukumu la **kocha** halikuonyesha gharama kama hiyo, likihifadhi usahihi sahihi kutoka **93% hadi 98%** katika dhana potofu kumi zilizofundishwa pamoja.
+Modeli ya zawadi ya EduQwen **ilitanguliza majibu elekezi juu ya majibu ya moja kwa moja**, kwa uchimbaji wa hasi ngumu ili kutenga maswali ambayo modeli msingi ilikuwa imeshayasuluhisha, na uenezaji uliongezwa kutoka hatua 5 hadi 8 ili maamuzi ya ufundishaji ya hatua nyingi yakamatwe. Mfumo wake wa hatua tatu, RL ya awali kisha SFT ya data ya sanisi kisha raundi ya mwisho ya RL, ulifikia **96.52%** kwenye kipimo cha CDPK dhidi ya **90.55%** ya Gemini-3 Pro ([[singh-eduqwen-pedagogical-rl-2026]]).
 
-Kama unamfunza kocha kutambua, mifano yako inahitaji hoja, si tu hukumu. Seti ya data ya jozi za swali-na-jibu-sahihi haiwezi kumfundisha mfano kugundua mahali mwanafunzi alikosea.
+Mambo mawili yanafuata. Tarajia zawadi kuchezewa, kwa sababu inabainisha kidogo kuliko ulivyokusudia, kwa hivyo iandike dhidi ya kipimo badala ya hisia. Na hifadhi nambari za kati: hatua ya kwanza ya RL peke yake ilifikia 94.13%, SFT kwenye majibu 40,000 yaliyozalishwa yenyewe ilifikisha 96.20%, na raundi ya mwisho iliongeza sehemu ya mwisho. Sehemu kubwa ya faida ilifika mapema, jambo linalofaa mtu anapouliza kama hatua ya mwisho ilistahili gharama yake.
 
-## Fanya data ya mafunzo ibebe kiufundi
+## Fanya zawadi iwake mara za kutosha kufundisha
 
-Kama usimamizi unapaswa kujumuisha hoja, mpango wa kuweka lebo ni uamuzi wa mitaala badala ya hatua ya kusafisha data. Matokeo mawili hapa yanaathiri hilo moja kwa moja.
+Zawadi ya kulinganisha kamili ni nyembamba mno pale kitu unachokijali kinapokuwa na vipimo kadhaa. Simulator ya uandishi ya SWIM inaonyesha maendeleo kwa uwazi: ilani inayotegemea rubriki ilifikia wastani bora wa sifa wa QWK wa **0.577** na Claude Sonnet na **0.422** na GPT-5.4, karibu sifuri kwa modeli huria ya 7B; urekebishaji unaosimamiwa ulifikia **0.474 ± 0.023** kwa modeli hiyo ya 7B; GRPO yenye zawadi mnene, iliyosawazishwa kwa sifa, ilifikia **0.618 ± 0.005** kwenye kila sifa na ilani ([[swim-student-writing-simulation-2026]]).
 
-**Weka lebo kwa kila mfano na tabia unayotaka.** Utafiti wa lebo za usimamizi uligundua kuwa kumpa kila mfano wa mafunzo tabia moja lengwa — ujuzi somo, kuwekwa katika mitaala, hoja za kutambua, au ngazi za msaada — kulipandisha kila kiwango cha mfano kilichojaribiwa, na faida kubwa zaidi katika ngazi za msaada na katika kutumia historia ya mwanafunzi. Kutambua hali ya maarifa kulibaki tabia dhaifu zaidi kwa **54.04%**, ambalo ni taraja lenye manufaa kubeba: kutambua ni kitu vigumu zaidi kufundisha katika orodha hii ([[omniedu-open-educational-foundation-models-2026]]).
+Usanifu wa zawadi ulizalisha pengo hilo. Ishara mnene iliyosawazishwa kwa sifa hushinda kulinganisha kamili katika mazingira ya sifa nyingi, na ikiwa zawadi yako huwaka tu kwenye jibu kamili, sehemu kubwa ya ishara yako ya mafunzo ni ukimya.
 
-**Tendea uteuzi wa data kama tatizo la mafunzo lenyewe.** Edu-QuRating inabadilisha unyunyiziaji wa upendeleo kwa upangaji wa data ya kielimu, ikibadilisha alama moja ya "je, hii ni ya kielimu?" na **vipimo 20 vya rubriki** vinavyojumuisha usahihi wa kweli, muundo wa kiufundi na ufaafu wa kiwango ([[garrod-edu-qurating-educational-data-curation-2026]]). Kama unakusanya mkusanyiko kutoka maandishi ya mtandao, huo ni aina ya kichujio kinachoamua mfano wako unajifunza kusikika kama nini.
+## Weka hoja kwenye mifano
 
-## Uzito wa zawadi ni muhimu kiasi kile kama zawadi yenyewe
+Ugunduzi unaoweza kutekelezwa zaidi katika eneo hili unahusu kile data ya mafunzo inapaswa kuwa nacho. Modeli zilizorekebishwa kwa maagizo zilijifunza dhana potofu za aljebra tu zilipofunzwa kwenye **kumbukumbu za suluhisho za ngazi ya hatua**. Zilipofunzwa kwenye majibu ya mwisho peke yake, usahihi ulibaki **chini ya 30% kwenye kila ukubwa wa data** ([[misconception-acquisition-dynamics-llms-2026]]).
 
-Zawadi ya kulingana kamili ni nyembamba mno wakati kitu unachojali kina vipimo vingi. Mfano wa kuandika wa SWIM unaonyesha mwenendo kwa uwazi:
+Maelezo mawili kutoka utafiti huo ni muhimu kwa mtu yeyote anayejenga upande wowote wa mkufunzi. Nafasi ya mwanafunzi ilipanua kupita kiasi kosa lililojifunza hadi mifano sahihi ilichanganywa kwa uwiano wa chini kama **mmoja kati ya wanne**. Nafasi ya mkufunzi haikuonyesha gharama kama hiyo, ikihifadhi usahihi kutoka **93% hadi 98%** kwenye dhana potofu kumi zilizofunzwa pamoja.
 
-- Kutoa ilani kulikotegemea rubriki: QWK ya wastani bora ya kipengele **0.577** (Claude Sonnet), **0.422** (GPT-5.4), karibu sufuri kwa mfano wazi wa 7B
-- Marekebisho laini yenye usimamizi: **0.474 ± 0.023** kwa mfano huo wa 7B
-- GRPO na zawadi yenye uzito ya usahihi wa kipengele uliokauka: **0.618 ± 0.005**, katika kila kipengele na ilani ([[swim-student-writing-simulation-2026]])
+Seti ya data ya jozi za swali na jibu sahihi haiwezi kufundisha modeli kutambua mahali mwanafunzi alikosea. Ikiwa unafunza mkufunzi kutambua, mifano inahitaji hoja.
 
-Ubuni wa zawadi ndio lilikuwa muhimu: ishara yenye uzito ya kipengele uliokauka badala ya kulingana kamili, kwa sababu kulingana kamili ni nyembamba mno katika mipangilio ya vipimo vingi. Kama zawadi yako inapiga tu kwenye jibu kamili, ishara nyingi ya mafunzo yako ni ukimya.
+## Chagua ishara ya mafunzo inayoendana na hukumu
 
-## Fundisha uamuzi, si tu kauli tu
+Urekebishaji unaosimamiwa hufundisha modeli kuiga maonyesho yako. Hiyo inatosha kwa muundo na haitoshi kwa hukumu. LearnLM inaeleza ugunduzi huo waziwazi: **RL ni yenye ufanisi zaidi kwa kiasi kikubwa kuliko SFT peke yake kwa kufuata maagizo ya ufundishaji yenye maelezo mazito katika mazungumzo marefu** ([[learnlm-improving-gemini-learning]]).
 
-Mafunzo ya baada hayahitaji kuunda tu kile mfano anachosema. TACT ilifundisha baada kocha kwenye taksonomia ya mikakati 13 pamoja na taksonomia ya hatua za mwanafunzi ya mhimili mbili na ilipata **pointi 20.30** zaidi ya mgongo wake wa Qwen3.5-4B, pamoja na benchmark ya kutambua ambayo **huzuia lebo za hali ya mwanafunzi** zilizopatikana wakati wa mafunzo ili mfano uhitaji kuvuta hali kutoka kwenye mazungumzo ([[tact-pedagogically-adaptive-esl-tutoring]]).
+Mfumo wake unaotegemea maagizo huwaruhusu watengenezaji na walimu kubainisha tabia ya mkufunzi bila kujitolea kwa ufafanuzi mmoja wa ufundishaji, na mafunzo ya pamoja huichanganya katika hatua za mafunzo ya baada ya Gemini. Wataalamu walipendelea hiyo kuliko GPT-4o (**+31%**), Claude 3.5 Sonnet (**+11%**) na Gemini 1.5 Pro msingi (**+13%**).
 
-Mantiki ileile inapita katika kulinganisha kwa [[special-education|elimu mahususi]] ([[special-r1-rl-special-education]]) na katika kazi ya heuristic-RL inayolinganisha mifano kama viongozi wa Socratic badala ya wanaojibu ([[wang-socratic-guides-heuristic-reinforcement-learning-2026]]). Jukwaa moja linaenda mbali zaidi na kufundisha *sera* badala ya insha: wakala wa kujifunza kwa kuimarisha anachagua swali la mazoezi linalofuata, hivyo kile mwanafunzi anachofanya baadaye huamuliwa na mfano uliofunzwa ([[chung-personalized-ai-tutors-llm-reinforcement-learning-2026]]).
+Usomaji wa kivitendo: ikiwa kushindwa kwako ni sauti isiyo sahihi au muundo unaokosekana, SFT ni njia ya bei nafuu. Ikiwa kushindwa kwako ni kuchagua hatua isiyo sahihi ya ufundishaji katika zamu ya kumi na mbili, ishara inapaswa kutuza chaguo hilo.
 
-## Unahitaji data gani?
+## Weka lebo kwenye kila mfano na tabia inayofundisha
 
-Bets mbili kinyume zinafafanua nafasi, na upendavyo unategemea ulicho nayo:
+Ikiwa usimamizi unapaswa kuwa na hoja, mpango wa kuweka lebo ni uamuzi wa mtaala. Utafiti wa lebo za usimamizi uligundua kuwa kuweka kila mfano wa mafunzo tabia moja inayolengwa, kati ya uwezo wa somo, msingi wa mtaala, hoja ya utambuzi, na ngazi za msaada, uliongeza alama kwenye kila ukubwa wa modeli uliojaribiwa, na faida kubwa zaidi zikiwa kwenye ngazi za msaada na katika kutumia historia ya mwanafunzi. Utambuzi wa hali ya maarifa ulibaki kuwa tabia dhaifu zaidi kwa **54.04%** ([[omniedu-open-educational-foundation-models-2026]]). Utambuzi ni kipengele kigumu zaidi kwenye orodha hiyo, kwa hivyo itengee bajeti.
 
-- **Mafunzo ya baada yanayotegemea maelekezo wakati data yako ni adimu.** LearnLM inabeba maelekezo ya kiwango cha mfumo yanayowaruhusu walimu na waandaaji kubainisha tabia ya kocha, na inategemea mafunzo ya pamoja badala ya mkusanyiko mkubwa wa nakala za mazungumzo ya ufundishaji.
-- **Marekebisho laini kwenye data halisi ya mwingiliano unapo nayo.** TeachLM inabashiri kuwa [[prompt-engineering|uhandisi wa ilani]] ni suluhisho la muda na kitu adimu ni mwingiliano halisi wa mwanafunzi–kocha. Ikifundishwa kwa **masaa 100,000** ya vipindi vya moja kwa moja chini ya kutofichua utambulisho kwa ukali, inaongeza maradufu muda wa mazungumzo ya mwanafunzi, inaboresha mtindo wa kuuliza maswali, na inaongeza zamu za mazungumzo kwa **50%** ([[teachlm-post-training-llms-education]]).
+Uteuzi wa data ni tatizo la mafunzo lenyewe. Edu-QuRating hubadilisha uchujaji wa upendeleo kwa ukusanyaji wa data ya elimu, ikibadilisha alama moja ya "je, hii ni ya kielimu?" na **vipimo 20 vya rubriki** vinavyojumuisha usahihi wa ukweli, muundo wa ufundishaji na ufaafu wa ngazi ([[garrod-edu-qurating-educational-data-curation-2026]]). Ikiwa unakusanya mkusanyiko kutoka maandishi ya wavuti, kichujio hicho huamua kile modeli yako inajifunza kusikika kama.
 
-Njia ya bei nafuu zaidi kuelekea tabia ya kiufundi ni unyunyiziaji: Pedagogy-R1 (1.5B na 7B) ilirekebishwa kwa maelekezo kwenye matokeo yaliyochujwa kwa kiufundi yaliyonyunyiziwa kutoka kwa mwalimu wa QwQ-32B, iliyounganishwa na kutoa ilani kwa Chain-of-Pedagogy ([[lee-pedagogy-r1-pedagogical-large-reasoning-model-2025]]).
+## Chagua dau la data unaloweza kulimudu
 
-## Jaribu kwenye urefu wa mazungumzo
+Dau mbili tofauti zinafafanua nafasi hiyo, na lipi unalochukua linategemea kile ulicho nacho tayari.
 
-Mafunzo hayafanyi mfano kuwa salama katika mazungumzo marefu. SafeTutors inaonyesha kuwa hata mifano maalum ya kiufundi hupungua katika mazungumzo ya muda mrefu na inaweza kutenda madhara ya kufichua jibu kupita kiasi ([[hazra-safetutors-pedagogical-safety-2026]]). [[pedagogical-safety|Usalama wa kiufundi]] unapaswa kujaribiwa kwenye urefu wa mazungumzo badala ya zamu moja — ikijumuisha zamu ambapo mwanafunzi ni mwongo, mwenye kubaki, au anayesisitiza.
+Data yako inapokuwa haba, mafunzo ya baada yanayotegemea maagizo hubeba tabia hiyo. LearnLM hutumia maagizo ya ngazi ya mfumo yanayowaruhusu walimu na watengenezaji kubainisha tabia ya mkufunzi na hutegemea mafunzo ya pamoja badala ya mkusanyiko mkubwa wa nakala za ufundishaji.
 
-## Endelea wapi
+Unapokuwa na data halisi ya mwingiliano, urekebishaji juu yake hushinda. TeachLM inadai kuwa [[prompt-engineering|uhandisi wa ilani]] ni suluhisho la muda na kiungo kinachohitajika ni mwingiliano halisi wa mwanafunzi na mkufunzi. Ikifunzwa kwenye **saa 100,000** za vikao vya mtu mmoja kwa mmoja chini ya ufichaji mkali wa utambulisho, inaongeza maradufu muda wa mwanafunzi kuzungumza, inaboresha mtindo wa kuuliza, na inaongeza zamu za mazungumzo kwa **50%** ([[teachlm-post-training-llms-education]]).
 
-- [[making-ai-better-at-supporting-learning|Tunawezaje kufanya AI iwe bora zaidi katika kusaidia kujifunza katika somo letu?]] — kama mafunzo ni kigezo sahihi kabisa
-- [[checking-whether-educational-ai-works|Tunajuangaje kuwa AI ya kielimu inafanya kazi ipasavyo, si tu kupata alama nzuri?]] — kupima kama tabia ilibadilika kweli
-- [[developing-ai-tutor|Mbinu bora za maendeleo ya kocha mzuri wa AI ni zipi?]] — mwenzake wa ubuni wa mwingiliano, ambao huunda tabia ileile ya kuongoza kupitia ngazi za msaada na ngazi za vidokezo badala ya mafunzo
-- [[llm-training-and-fine-tuning]] — ukurasa kamili wa dhana
+Njia ya bei nafuu zaidi ni uchujaji. Pedagogy-R1, kwa 1.5B na 7B, ilirekebishwa kwa maagizo kwenye matokeo yaliyochujwa kwa ufundishaji kutoka kwa mwalimu QwQ-32B, ikiambatana na ilani ya Chain-of-Pedagogy ([[lee-pedagogy-r1-pedagogical-large-reasoning-model-2025]]).
+
+## Funza uamuzi ambao mwanafunzi hukutana nao baadaye
+
+Mafunzo ya baada hayapaswi kuunda tu kile modeli inasema. TACT ilifunza mkufunzi kwa uainishaji wa mikakati 13 pamoja na uainishaji wa hatua za mwanafunzi wa mihimili miwili na ikapata **pointi 20.30** juu ya uti wa mgongo wake wa Qwen3.5-4B, kwa kipimo cha utambuzi ambacho **huzuia lebo za hali ya mwanafunzi** zilizopo wakati wa mafunzo ili modeli ikadirie hali kutoka kwenye mazungumzo ([[tact-pedagogically-adaptive-esl-tutoring]]).
+
+Mantiki huo huo unaendelea kupitia upatanisho wa [[special-education|elimu maalum]] ([[special-r1-rl-special-education]]) na kupitia kazi ya RL ya kiheuristiki inayopatanisha modeli kama waongoza wa Sokratesi badala ya watoa majibu ([[wang-socratic-guides-heuristic-reinforcement-learning-2026]]). Jukwaa moja linaenda mbali zaidi na kufunza sera badala ya maandishi: wakala wa kujifunza kwa kuimarisha huchagua tatizo la mazoezi linalofuata, kwa hivyo kile mwanafunzi anachofanya baadaye huamuliwa na modeli iliyofunzwa ([[chung-personalized-ai-tutors-llm-reinforcement-learning-2026]]).
+
+Kesi hiyo ya mwisho ni kipimo cha kama umebuni mkufunzi au kizalisha maandishi. Ikiwa matokeo pekee ya modeli ni maandishi, ufundishaji unaishi kwenye msimbo wako wa uandaaji. Ikiwa modeli huchagua kazi inayofuata, ufundishaji uko kwenye uzito.
+
+## Ijaribu kwa urefu wa mazungumzo
+
+Mafunzo hayafanyi modeli kuwa salama kwenye mazungumzo marefu. SafeTutors inaonyesha kuwa hata modeli maalum za ufundishaji hupungua kwenye mazungumzo endelevu na zinaweza kufanya madhara ya kufichua jibu kupita kiasi ([[hazra-safetutors-pedagogical-safety-2026]]). [[pedagogical-safety|Usalama wa kielimu]] unapaswa kupimwa kwa urefu wa mazungumzo, ikiwa ni pamoja na zamu ambapo mwanafunzi anakosea, anaendelea, au anasukuma.
+
+## Wanachokosea timu za mafunzo
+
+Ilani zaidi hatimaye itashikilia. Kujipendekeza huendelea baada ya ilani na upatanisho, na shinikizo la mamlaka hufungua tena tabia ambayo jaribio la kubadilisha muktadha lilifunga. Nakala kutoka jaribio lako la shinikizo ndio ushahidi wa hili katika bidhaa yako.
+
+Nambari ya ubao wa viongozi ndio matokeo. 96.52% kwenye CDPK inaelezea utendaji kwenye kazi za ufundishaji za kipimo kimoja. Wanafunzi wako hukutana na mtaala wako, nukuu zako, na mwanafunzi ambaye amekwama kwa dakika ishirini.
+
+Data zaidi ndio jibu pale kumbukumbu zilizopo ni nyembamba. Majibu ya mwisho kwenye ukubwa wowote wa data yalihifadhi usahihi wa dhana potofu chini ya 30%. Kilichobadilisha matokeo ni hoja ya ngazi ya hatua kwenye mifano; ukubwa wa mkusanyiko haukuubadilisha kamwe.
+
+Nafasi ya mwanafunzi ndio sehemu ngumu, kwa hivyo ifunze mwisho. Mwanafunzi alipanua kupita kiasi makosa yaliyojifunza hadi mifano sahihi ilionekana kwa mmoja kati ya wanne. Nafasi ya mkufunzi ilishikilia 93% hadi 98% chini ya hali zile zile, jambo linaloshauri kuwa mkufunzi ni nusu rahisi kufunza na simulator ndio inayopaswa kukaguliwa.
+
+Kituo cha mwisho cha ukaguzi ndio matokeo. Hatua ya kwanza ya RL ilifikia 94.13% na SFT ilifikisha 96.20%, kwa hivyo sehemu kubwa ya mwendo ilitokea kabla ya raundi ya mwisho. Hifadhi alama za hatua; zinasema ni hatua ipi ilipata faida na ipi ungeweza kuikata wakati ujao.
+
+## Yatakayokurudia
+
+**"Hatuwezi kumudu RL."** Basi anza na sehemu zisizogharimu chochote: kumbukumbu za ngazi ya hatua kwenye data yako, lebo moja ya tabia inayolengwa kwa kila mfano, na zawadi uliyoandika kwa maneno kabla ya kuiandika kwenye msimbo. Ulinganisho wa SWIM unaonyesha SFT peke yake ikisogeza modeli ya 7B hadi 0.474, ambayo ni faida halisi na bado haifikii 0.618.
+
+**"Modeli ya muuzaji wetu tayari inakataa kutoa majibu."** Mafunzo ya baada ya muuzaji huboresha usaidizi, na kukataa kujibu si kile alama za usaidizi hutuzwa. Jaribu tabia hiyo kwenye mazungumzo yako mwenyewe; jibu liko kwenye nakala, si kwenye kadi ya modeli.
+
+**"Uchujaji unatufikisha sehemu kubwa ya njia."** Pedagogy-R1 ni uchujaji wa 1.5B na 7B na ni mahali pazuri pa kuanzia. Kinachorithi ni ufundishaji wa mwalimu, ikiwa ni pamoja na chochote ambacho mwalimu huyo alikosea, na utahitaji kipimo kuona ni sehemu gani zilihamishwa.
+
+**"Upimaji wa mazungumzo marefu ni ghali mno kuendeshwa mara kwa mara."** Endesha mara moja kwa kila mabadiliko ya modeli, kwa hati isiyobadilika na seti isiyobadilika ya zamu za upinzani, na linganisha nakala. Gharama iko katika kuandika hati mara ya kwanza.
+
+**"Mwalimu alisema inahisi kama chatbot."** Hiyo ni ripoti kuhusu umbo la mazungumzo, na umbo la mazungumzo ni sera. Hesabu ni zamu ngapi zinapita kabla modeli haijatoa hatua.
+
+## Fanya hivi wiki hii
+
+**1.** Endesha jaribio la shinikizo: jibu lisilo sahihi, mwanafunzi anasisitiza, mwanafunzi anataja mamlaka, mwanafunzi anaomba jibu. Hifadhi nakala.
+
+**2.** Andika zawadi yako kama sentensi tatu za Kiingereza, kisha kagua kama msimbo wako unapima mambo hayo matatu.
+
+**3.** Kagua sampuli ya mifano yako ya mafunzo kwa hoja ya ngazi ya hatua. Ripoti sehemu iliyo na hatua isiyo sahihi na utambuzi wake.
+
+**4.** Ongeza lebo moja ya tabia inayolengwa kwa kila mfano, ukianza na ngazi za msaada, na rekodi mgawanyo.
+
+**5.** Weka alama za hatua za kati kwenye kadi ya modeli pamoja na ile ya mwisho.
+
+## Wapi kwenda baadaye
+
+[[making-ai-better-at-supporting-learning|Tunawezaje kufanya AI iwe bora katika kusaidia kujifunza katika somo letu wenyewe?]] inauliza kama mafunzo ni kianzio sahihi hata kidogo, na [[developing-ai-tutor]] inashughulikia mwenzake wa usanifu wa mwingiliano, ambao hupata tabia hiyo hiyo ya kuongoza kutoka kwa ngazi za msaada na ngazi za vidokezo badala ya gradienti. [[checking-whether-educational-ai-works]] inashughulikia kupima kama tabia ilibadilika kwa kweli, na [[llm-training-and-fine-tuning]] ni ukurasa wa dhana ulio nyuma ya yote.

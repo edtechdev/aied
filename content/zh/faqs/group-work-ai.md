@@ -1,7 +1,7 @@
 ---
 title: "我应当如何处理小组与合作作业中的人工智能？"
 created: "2026-09-22T19:50:48-04:00"
-updated: "2026-10-29T09:20:28-04:00"
+updated: "2026-10-29T10:30:04-04:00"
 weight: 60
 type: faq
 foundations: [academic-integrity, agency]

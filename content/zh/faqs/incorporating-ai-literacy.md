@@ -1,7 +1,7 @@
 ---
 title: "我应当如何把人工智能素养融入我的课程？"
 created: "2026-09-22T19:48:12-04:00"
-updated: "2026-10-29T09:20:28-04:00"
+updated: "2026-10-29T10:30:04-04:00"
 weight: 86
 foundations: [ai-literacy, cognitive-offloading, learning-design]
 assessment: [assessment]

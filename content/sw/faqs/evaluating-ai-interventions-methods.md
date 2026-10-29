@@ -7,10 +7,14 @@ assessment: [assessment, self-report-measures]
 page_kind: [evaluation]
 methods: [ai-ed-evaluation, research-methods-aied]
 translation_of: faqs/evaluating-ai-interventions-methods
-source_updated: "2026-10-02T08:21:34-04:00"
+source_updated: "2026-10-28T11:47:13-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-29"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-13"
@@ -19,29 +23,78 @@ ai_assist:
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
 
-# What Measures and Research Methods Can an Instructor Use to Evaluate AI-Related Interventions?
+Uliendesha jaribio la awali katika madarasa mawili, ukakusanya utafiti wa mwisho wa kitengo, na una mkutano wa kitivo baada ya wiki tatu ambapo mtu atauluza kama ilifanya kazi. Au mhakiki ameuliza hali yako ya kulinganisha ilikuwa nini, na darasa lingine lilifanya kitu tofauti. Vyovyote vile: nini kingehesabiwa kama ushahidi hapa?
 
-**Linganisha mbinu na dai.** Kama unataka kujua kama wanafunzi *walipenda* shughuli ya AI, utafiti unaweza kusaidia. Kama unataka kujua kama *walijifunza*, tumia vipimo vya utendaji. Utafiti ni [[self-report-measures|kipimo cha kujiripoti]] — chombo sahihi kwa mitazamo na kisicho sahihi kwa kujifunza, kwa sababu zilizokusanywa kwenye ukurasa huo. Kama unataka kujua kama AI *ilisababisha* kuboreshako, unahitaji hali ya kulinganisha inayoaminika na vizuri zaidi mgawo wa bahati nasibu.
+Oanisha mbinu na dai. Utafiti unakuambia kama wanafunzi waliipenda shughuli. Kama walijifunza kunahitaji kipimo cha utendaji, na kama AI ilisababisha faida kunahitaji hali ya kulinganisha.
 
-## Chaguo za mbinu
+## Toleo fupi
 
-Ukurasa wa [[research-methods-aied|Mbinu za Utafiti katika AIED]] unatofautisha chaguo kadhaa muhimu:
+**1.** Andika dai katika sentensi moja, ukiitaja tokeo. "Wanafunzi waliotumia mwalimu wa kidijitali walipata alama zaidi kwenye mtihani bila msaada" linaweza kupimwa.
 
-- **Majaribio ya bahati nasibu** yanatoa uamuzi wa sababu unao nguvu zaidi.
-- **Mabuni ya kabla/baada ya kijaribio-kama** au ya makundi yanalingana mara nyingi ni ya vitendo zaidi katika madarasa yaliyo kamili lakini yanaunga mkono madai dhaifu ya sababu.
-- **[[qualitative-research|Kitaaluma]]** mahojiano, makundi ya lengo, uchunguzi, na uchanganuzi wa hati hufichua michango na uzoefu usiotarajiwa.
-- **Uchanganuzi wa kitaaluma unaosaidiwa na AI** unaweza kupanga upya korpusi za mahojiano au uchunguzi kwa dakika, hivyo [[chain-behind-claim-warrantability-2026|uwezekano wa kuthibitisha]] ni muhimu kama usahihi au ufichuo: rekodi mipango iliyorekodiwa inayoruhusu msomaji kuchunguza, kupinga, na kubadilisha njia kutoka kwa data hadi dai.
-- **[[mixed-methods-research|Mbinu mchanganyiko]]** zinaunganisha ushahidi wa matokeo na maelezo ya kwa nini madhara yalitokea.
-- **[[design-based-research|Utafiti unaotegemea mabuni]]** ni muhimu wakati wakufunzi wanaboresha muingilio hatua kwa hatua katika kozi halisi.
+**2.** Endesha kipimo cha msingi, hatua, kipimo cha papo hapo baada ya hatua, na kipimo cha baadaye kilichochukuliwa bila AI.
 
-Njia yoyote unayotumia, ni hali tatu tu zinazofanya dai la sababu kueleweka: **matibabu yaliyoelezewa kwa usahihi**, **hali ya kulinganisha iliyoelezewa vizuri**, na **kipimo halali cha kujifunza cha kudumu**. [[weidlich-chatgpt-effect-search-cause-2025|Weidlich na wenzake (2025)]] wanakagua kulinganisha 19 za ChatGPT katika elimu dhidi ya vigezo hivi haswa na wanagundua kuwa ni 4 (21%) tu zinazokidhi zote tatu — 74% zilikuwa na matibabu yaliyoelezewa vizuri, 42% zilikuwa na kikundi cha udhibiti kilichoelezewa vizuri, na 53% zilikuwa na matokeo yaliyostahiki kama kujifunza. Chombo cha [[generative-ai|matumizi ya jumla]] kilicholetiwa pamoja na shughuli mpya, maoni, au mabuni ya kiolesura huchanganya njia na mbinu, hivyo matokeo yenye maana hayawezi kuhusishwa na AI.
+**3.** Eleza hali ya kulinganisha kwa uangalifu kama matibabu, hata ikiwa ni mazoea yako yaliyopo.
 
-## Tathmini ya darasa inayoweza kudhibitiwa
+**4.** Pima utendaji wenye msaada na kujifunza kwa kujitegemea kwa kutenganishwa, na chukulia wastani wowote uliochapishwa kama dhana kuhusu darasa lako.
 
-Kwa tathmini ya darasa inayoweza kudhibitiwa, kiwango cha chini kinachofaa ni **kipimo cha msingi, muingilio, kipimo cha baada ya papo, na kipimo cha baadaye bila msaada**. Popote inavyowezekana, jumuisha hali ya kulinganisha kama mazoezi yaliyopo, bila AI, AI isiyo na vizingiti dhidi ya AI yenye ngazi za msaada, au mabuni mawala mbadala. Pima utendaji unaosaidiwa na kujifunza kwa uhuru kwa njia tofauti.
+## Chagua mbinu ambayo swali lako linaweza kustahimili
 
-Muhtasari wa [[ai-ed-evaluation|Tathmini ya AIEd]] unapendekeza matokeo kama faida ya kujifunza bila msaada, uhifadhi wa kuchelewa, uhamishaji kwa kazi mpya, ubora wa kufikiri, [[misconceptions]], kupokea maoni, na utendaji wa vikundi vidogo. Ushiriki, kuridhika, kumbukumbu za matumizi ya AI, ujuzi wa kujitegemea, na [[technology-acceptance-model|faida inayoonekana]] vinaweza kuwa vipimo vya pili vyenye thamani lakini havitumiki kama mbadala wa kujifunza. Mzigo wa kazi wa mkufunzi na akiba ya muda ni pia matokeo halali ya utekelezaji.
+Ukurasa wa [[research-methods-aied|Mbinu za Utafiti katika AIED]] unaeleza kila chaguo hununua nini. Majaribio ya nasibu hutoa hitimisho imara zaidi la kisababu. Miundo ya nusu-majaribio ya kabla/baada au ya vikundi vilivyoanishwa inafaa madarasa yaliyopo na inaunga mkono madai hafifu. Mahojiano ya [[qualitative-research|ubora]], vikundi vya mwelekeo, uchunguzi, na uchambuzi wa kazi huonyesha mbinu na uzoefu usiotarajiwa. [[mixed-methods-research|Mbinu mchanganyiko]] huunganisha ushahidi wa tokeo na maelezo. [[design-based-research|Utafiti unaotegemea ubuni]] unafaa mwalimu anayeboresha hatua kwa marudio.
 
-Tahadhari mbili hutumika kwa jinsi matokeo yanavyosomewa. Kwanza, madhara ya wastani kutoka kwa fasihi ni mwongozo dhaifu kwa darasa moja: [[oneill-presumed-effective-meta-analysis-2026|ukaguzi wa O'Neill (2026)]] wa [[meta-analysis-systematic-review|meta-analyses]] 14 za athari kubwa uligundua kwamba hakuna moja iliyotoa msingi halali kwa madai yake — zilichanganya alama za majaribio za [[learning-gains|"mafanikio ya kitaaluma"]], motisha, [[self-efficacy]], na mitazamo katika kipimo kimoja, heterogeneity iliyoripotiwa ilikuwa kali (I² ilitoka 77.2% hadi 94.4% katika uchanganuzi 13 ulioripoti, na 12 kati ya hao 13 zilikuwa juu ya 80%), zote 14 zilitathmini [[limitations-in-aied-research|upendeleo wa kuchapisha]] vibaya, na 61% ya masomo ya msingi yaliyokaguliwa kwa bahati nasibu yalikuwa na matatizo ya uhalali, wakati takwimu ambazo zingonyesha jinsi matokeo ya mtu mmoja yalivyotawanyika kwa kweli zilikuwa hazipatikani kwa kiasi kikubwa (uchanganuzi nne tu uliripoti tofauti ya kati ya masomo na mbili tu ziliripoti kipimo cha utabiri, zote mbili zikijumuisha sufuri). Pili, alama rahisi inaweza kupima dhana isiyo sahihi: katika [[zhang-platform-scores-miss-ai-teaching-agents-2026|tathmini ya mawakala wanane wa kufundisha wa AI]], wakala aliyejiweka nafasi ya tatu kwa alama ya jukwaa mwenyewe aliweka nafasi ya mwisho kwenye rubriki iliyothibitishwa na mtaalam, kwa sababu alama za jukwaa zilipima utendaji wa mwanafunzi wakati wa mwingiliano badala ya ubora wa ufundishaji wa wakala. Tendea kipimo chochote cha dashibodi kama dhana ya kuthibitisha dhidi ya kipimo kilichounganishwa na uwezo unaokusudia kuendeleza.
+Uchambuzi wa ubora unaosaidiwa na AI unastahili kuwa kwenye orodha hiyo pamoja na sharti. Hupanga upya hifadhi ya mahojiano kwa dakika, kwa hivyo [[chain-behind-claim-warrantability-2026|ustahiki wa kuhalalisha]] ni muhimu kama usahihi: rekodi upangaji upya uliodokumentwa unaomruhusu msomaji kukagua, kupinga na kurekebisha njia kutoka data hadi dai.
 
-Kwa kile ushahidi wa sasa unaonyesha na kile ambacho haonyeshi, na ambapo unabaki hafifu, ona [[does-ai-help-students-learn]] na [[research-gaps-aied]].
+Utafiti ni [[self-report-measures|kipimo cha ripoti ya kibinafsi]]: sahihi kwa mitazamo, si sahihi kwa kujifunza.
+
+## Ipe hali ya kulinganisha jina
+
+Masharti matatu hufanya dai la kisababu lieleweke: matibabu yaliyoelezwa kwa usahihi, hali ya kulinganisha iliyobainishwa vizuri, na kipimo halali cha kujifunza endelevu. [[weidlich-chatgpt-effect-search-cause-2025|Weidlich et al. (2025)]] walikagua ulinganisho 19 wa ChatGPT katika elimu dhidi ya vigezo hivyo. Vinne (21%) vilikidhi vyote vitatu. Matibabu yalibainishwa vizuri katika 74%, kikundi cha udhibiti katika 42%, tokeo lilikidhi kigezo cha kujifunza katika 53%.
+
+Aina ya kushindwa ni rahisi kurudia. [[generative-ai|Chombo cha matumizi ya jumla]] kinacholetwa pamoja na shughuli mpya, maoni mapya, au kiolesura kilichobuniwa upya huchanganya chombo na mbinu, na tokeo lenye umuhimu ni la ubuni upya.
+
+## Pima matokeo unayoyajali kweli
+
+Muunganisho wa [[ai-ed-evaluation|Tathmini ya AI katika Elimu]] unapendekeza faida ya kujifunza bila msaada, uhifadhi wa baadaye, uhamishaji hadi kazi mpya, ubora wa kufikiri, [[misconceptions|dhana potofu]], unyakuzi wa maoni, na utendaji wa vikundi vidogo. Ushiriki, kuridhika, kumbukumbu za matumizi ya AI, [[self-efficacy|kujiamini kwa uwezo]], na [[technology-acceptance-model|manufaa yanayodhaniwa]] ni vipimo vya pili vinavyofaa na mbadala hafifu wa kujifunza. Mzigo wa kazi na uokoaji wa muda huhesabiwa kama matokeo ya utekelezaji, swali tofauti.
+
+Kiwango cha chini cha ngazi ya darasa ni kipimo cha msingi, hatua, kipimo cha papo hapo baada ya hatua, na kipimo cha baadaye bila msaada. Ongeza hali ya kulinganisha pale unapoweza: mazoea yaliyopo, hakuna AI, AI isiyozuiwa dhidi ya AI yenye kinga, au miundo miwili mbadala. Pima utendaji wenye msaada na bila msaada kwa vyombo tofauti, kwa kuwa rubriki moja itavichanganya.
+
+## Soma namba yoyote kama dhana
+
+Athari ya wastani kutoka maandiko ni mwongozo hafifu kwa darasa moja. [[oneill-presumed-effective-meta-analysis-2026|Ukaguzi wa O'Neill (2026)]] wa [[meta-analysis-systematic-review|uchambuzi wa jumla]] 14 wenye athari kubwa uligundua hakuna hata mmoja uliotoa msingi halali wa madai yake. [[learning-gains|"Mafanikio ya kitaaluma"]] yaliyounganishwa yalichanganya alama za mitihani, motisha, [[self-efficacy|kujiamini kwa uwezo]] na mitazamo katika makadirio moja. Tofauti ilikuwa kubwa kupindukia: I² ilianzia 77.2% hadi 94.4% katika uchambuzi 13 ulioripoti, na 12 kati ya hizo zilikaa juu ya 80%. Zote 14 zilitathmini [[limitations-in-aied-research|upendeleo wa uchapishaji]] kwa njia isiyo halali, na 61% ya tafiti za msingi zilizokaguliwa kwa nasibu zilikuwa na matatizo ya uhalali. Uchambuzi nne ziliripoti tofauti kati ya tafiti, mbili ziliripoti muda wa utabiri, na vipindi vyote viwili vilijumuisha sifuri.
+
+Alama inayofaa inaweza kupima kitu kisichofaa. Katika [[zhang-platform-scores-miss-ai-teaching-agents-2026|tathmini ya mawakala wanane wa ufundishaji wa AI]], wakala aliyeshika nafasi ya tatu kwenye alama za jukwaa lenyewe alishika nafasi ya mwisho kwenye rubriki iliyothibitishwa na wataalamu, kwa sababu alama za jukwaa zilipima utendaji wa mwanafunzi wakati wa mwingiliano. Chukulia kipimo cha dashibodi kama dhana.
+
+## Walimu wanakosea nini
+
+Utafiti wa kuridhika hupima kujifunza. Unapima kuridhika, ambacho muunganisho wa Tathmini ya AI katika Elimu unaorodhesha kama kipimo cha pili kando ya matokeo ya kujifunza.
+
+Faida ya kabla/baada inaonyesha hatua ilifanya kazi. Inaonyesha alama zilipanda. Kama kipimo kilihesabiwa kama kujifunza ni swali tofauti, na ukaguzi uligundua tokeo la kujifunza linalokidhi vigezo katika 53% ya ulinganisho uliouhakiki.
+
+Ukubwa wa athari uliochapishwa unaendelea kwenye darasa langu. Uchambuzi wa jumla 14 wa O'Neill haukuweza kuunga mkono madai yaliyojengwa juu yao, na vipindi vyote viwili vya utabiri vilivyoripotiwa vilijumuisha sifuri.
+
+Uchambuzi wa jukwaa hupima ubora wa ufundishaji. Wakala wa tatu wa Zhang alikuwa wa mwisho kwenye rubriki ya wataalamu.
+
+## Nini kitakurudia
+
+**"Tuna tathmini za mwisho wa kozi tayari."** Zinapima kozi, na zinaendeshwa baada ya muhula ambao ulihitaji jibu ndani yake.
+
+**"Kikundi cha kulinganisha hakiwezekani katika kozi iliyopo."** Linganisha na toleo la mwaka jana la kazi hiyo hiyo, au darasa la pili, na eleza tofauti kwa uaminifu. Miundo ya nusu-majaribio ni hafifu, na bado inatoa taarifa pale mbadala ni dai lisilo na ulinganisho.
+
+**"Ukubwa wa athari katika uchambuzi wa jumla ni mkubwa."** Kwenye tokeo gani, katika darasa la nani? Vipindi vyote viwili vya utabiri ambavyo O'Neill aligundua vilijumuisha sifuri.
+
+**"Dashibodi yetu inaonyesha ushiriki imara."** Ushiriki ni kipimo cha pili kwenye orodha ya Tathmini ya AI katika Elimu. Weka kipimo cha kujifunza bila msaada kando yake.
+
+## Cha kufanya wiki hii
+
+**1.** Andika dai lako kama sentensi moja na upige mstari chini ya tokeo.
+
+**2.** Ongeza kipimo cha baadaye bila msaada kwenye kalenda, baada ya hatua na si wiki hiyo hiyo.
+
+**3.** Andika aya moja inayoeleza hali ya kulinganisha, kwa undani sawa na matibabu.
+
+**4.** Toa namba za jukwaa ulizonazo tayari na uweke alama kwenye kila moja kama tokeo la zao au tokeo la kujifunza.
+
+**5.** Mwombe mwenzako mmoja asome ubuni na aseme ni kitu gani kingine kilichobadilika wakati wa muhula.
+
+## Wapi kwenda baadaye
+
+[[does-ai-help-students-learn|Je, AI inasaidia wanafunzi kujifunza?]] inafupisha kile ushahidi wa matokeo unaonyesha, na [[research-gaps-aied|Mapengo ya Utafiti katika AIED]] inashughulikia pale unapopungua. [[checking-whether-educational-ai-works|Tunajuaje kama AI ya kielimu inafanya kazi kwa usahihi?]] ni toleo la swali hili kwa watu wanaojenga au kununua mfumo.

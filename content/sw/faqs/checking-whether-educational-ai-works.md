@@ -16,9 +16,13 @@ methods: [benchmark, ai-ed-evaluation]
 ethics: [pedagogical-safety, trust-calibration]
 contributors: [editor]
 translation_of: faqs/checking-whether-educational-ai-works
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-28T11:26:02-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-29"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: drafting
     date: "2026-10-02"
@@ -31,95 +35,122 @@ ai_assist:
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
 
-AI ya kielimu inaweza kuonekana kama inafanya kazi ilhali haifanyi. Alama unazoziona mara nyingi zaidi — jinsi jibu la mfano linavyofanana na jibu sahihi, au jinsi alama zake zinavyolingana na za binadamu — zinaweza kuonekana nzuri ilhali kile unachojali kweli kimevunjika.
+Ripoti ya tathmini ya muuzaji inafika ikiwa na nambari moja juu: makubaliano na wakaguzi wa binadamu, 0.84. Au majaribio yako yanaisha Ijumaa na ushahidi ni dodoso la kuridhika pamoja na mstari wa benchmark ulionakiliwa kutoka maelezo ya toleo la modeli. Kwenye mkutano mtu anauliza kama mfumo unafanya kazi, nawe una takwimu inayosikika kama jibu.
 
-Katika mradi mmoja katika hifadhi hii ya maarifa, mfumo ule ule ulipata alama nzuri ya makubaliano kwa kusahihisha insha na, katika utekelezaji ule ule, ulizalisha maoni yaliyokatwa katikati ya sentensi na yasiyosomeka. Kusahihisha kulifanya kazi. Maoni hayakufanya. Hakuna chochote katika namba kuu kilichosema hivyo.
+Jibu fupi: alama unazoziona mara nyingi hupima ufanano, na ufanano ni dai hafifu kuliko "hii inafundisha" au hata "maoni haya yanaeleweka." Amua kila nambari inaruhusiwa kuthibitisha nini, pima kila matokeo ambayo mfumo wako unazalisha, na geuza usahihi kuwa kanuni yenye kizingiti, mtu, na akiba iliyoambatishwa. Nambari ambayo hakuna mtu anayeweza kuitekeleza si ushahidi.
 
-Ukurasa huu unahusu kutambua tofauti hiyo, na haudhani ujuzi wowote wa upimaji.
+## Toleo fupi
 
-## Alama za kawaida hupima nini hasa
+**1.** Andika sentensi moja inayotaja kile unachokijali, kisha chagua kipimo kinachosoma kitu hicho. Mwingiliano wa maneno hautakuambia kama hoja ni sahihi.
 
-Aina mbili za namba zinatawala fasihi hii, na zote zinapima **kufanana badala ya usahihi**.
+**2.** Pima kila matokeo kivyake. Alama imara ya kukagua haisemi chochote kuhusu moduli ya maoni iliyo kando yake.
 
-- **Alama za kufanana** (utaziona zikiitwa ROUGE na BLEU) zinalinganisha maneno ya jibu la mfano na maneno ya jibu la rejeleo. Mfano unaoandika kitu kinachofanana na maandishi yanayotarajiwa hupata alama nzuri — hata iwe mawazo yake ni potofu, na hata iwe mwanafunzi anaweza kufikia jibu sahihi kwa njia inayofundisha chochote.
-- **Alama za makubaliano** (utaziona QWK, au quadratic weighted kappa) zinapima jinsi alama za mfano zinavyolingana na alama za binadamu. Mfano unaweza kukubaliana na msahihishaji kwenye alama ya mwisho huku ukiwa na makosa kuhusu *kwa nini*, ambayo ni sehemu mwanafunzi anayojifunza kutoka kwake.
+**3.** Mwombe mtu akadirie matokeo yapata hamsini na ulinganishe makadirio hayo na kikagua chako cha kiotomatiki. Pale wanapotofautiana, kikagua ndicho kitu kinachojaribiwa.
 
-Mwanafunzi anaweza kufikia jibu potofu kwa njia potofu inayoonekana kama sahihi, na hakuna alama ya kufanana itakayoona. Ikiwa unachojali ni mawazo, unahitaji kitu kinachosoma mawazo — rubriki inayotumika na mtu, au ukaguzi ulioandikwa kwa hatua hiyo mahususi.
+**4.** Badilisha "usahihi 0.84" na kanuni: chini ya uhakika huu, mtu anasoma jibu. Ripoti kizingiti, sehemu ya kazi inayookolewa, na makubaliano yalikuwa nini.
 
-Msaidizi wa kozi ya Linear Control Systems ni mfano mzuri wa timu inayoripoti hili kwa uaminifu. Usanidi wake bora zaidi ulifika alama ya kufanana ya **0.4093** dhidi ya majibu ya rejeleo, huku kuboresha kikipimwa kwa uaminifu juu ya sifuri, na waandishi wanasema wazi kuwa namba zao zinapima maneno na umbizo ([[lora-finetuned-control-systems-course-qa-2026]]).
+**5.** Jaribu usalama katika mazungumzo mzima, na kagua mwanafunzi yeyote aliyeigwa kabla ya kuamini anachosema kuhusu tutor wako.
 
-## Mfumo unaweza kupita jaribio moja na kushindwa lijalo
+## Amua nambari inaruhusiwa kuthibitisha nini
 
-Hili ni somo lenye manufaa zaidi katika hifadhi ya maarifa, kwa sababu ni lile linaowashangaza watu.
+Familia mbili za nambari zinatawala fasihi hii. Zote mbili hupima jinsi matokeo yako yanavyofanana na kitu kingine, jambo ambalo ni dai hafifu kuliko usahihi.
 
-Katika mradi wa WrAFT, mfano uliorekebishwa kwa ufaa ulifika alama ya makubaliano ya **0.84** na wasahihishaji wa binadamu katika insha 360 za TOEFL zilizotengwa. Hilo ni matokeo makubwa kwa *kusahihisha*. Mfano wa mradi ule ule uliofunzwa *kuandika maoni* ulizalisha matokeo yaliyokatwa na yasiyoweza kuchanganuliwa — huku kutoa ilani kwa mfano tofauti tu kulizalisha maoni waliyoyapendelea walimu ([[wraft-automated-writing-evaluation-argumentative-2026]]).
+**Alama za ufanano** (ROUGE na BLEU) hulinganisha maneno ya jibu la mfumo wako na maneno ya jibu la marejeleo. Modeli inayoandika kitu karibu na maandishi yanayotarajiwa hupata alama nzuri, hata hoja yake ikiwa mbaya, au hata mwanafunzi akiweza kufikia jibu sahihi kwa njia isiyofundisha chochote.
 
-Kwa hivyo tathmini kila matokeo mfumo wako unayozalisha, moja kwa wakati. Alama nzuri kwenye moduli ya kusahihisha hakuambii chochote kuhusu moduli ya maoni iliyo kando yake.
+**Alama za makubaliano** (QWK, kappa yenye uzito wa mraba) hupima jinsi alama za modeli zinavyolingana na za mtu. Modeli inaweza kufanana na mkaguzi kwenye alama ya mwisho huku ikiwa mbaya kuhusu kwa nini, na "kwa nini" ndicho kipande ambacho mwanafunzi hujifunza kutokana nacho.
 
-## Kagua iwe kigunduzi chako cha kiotomatiki kinakubaliana na watu
+Mwanafunzi anaweza kufikia jibu baya kwa njia mbaya inayofanana na njia sahihi, na hakuna alama ya ufanano inayotambua hilo. Ikiwa hoja ni kitu unachokijali, kipimo kinapaswa kuisoma: rubriki inayotumiwa na mtu, au ukaguzi ulioandikwa kwa hatua hiyo mahususi.
 
-Timu nyingi sasa zinatumia AI ya pili kukagua ya kwanza. Hilo ni la busara, lakini AI ya pili si sahihi kiotomatiki.
+Msaidizi wa kozi ya Linear Control Systems anaripoti hili kwa njia sahihi. Mpangilio wake bora ulifikia alama ya ufanano ya **0.4093** dhidi ya majibu ya marejeleo, huku uboreshaji ukipimwa kwa uhakika juu ya sifuri, na waandishi wanasema wazi kwamba nambari hupima maneno na muundo ([[lora-finetuned-control-systems-course-qa-2026]]). Alama haivutii, na karatasi bado ni muhimu, kwa sababu inasema alama inashughulikia nini.
 
-Utafiti uliofanya mfano wa mipaka uandike dokezo kwa [[intelligent-tutoring|mfumo wa masomo ya kipekee ya akili]] uligundua takribani **35%** yalikuwa ya jumla sana, yasiyo sahihi, au yalitoa jibu — na ukaguzi wa ubora wa kiotomatiki wa mfano mwenyewe haukukubaliana na hukumu ya binadamu kuhusu yalikuwa mabaya ([[reddig-maclellan-personalized-feedback-llm-2026]]).
+## Pima kila matokeo kivyake
 
-Toleo la vitendo: chukua sampuli ya matokeo kama hamsini, mwombe mtu awatie alama, na ulinganishe na alama za kigunduzi chako cha kiotomatiki. Ikiwa hizi mbili hazikubaliani, namba yako ya kiotomatiki si ushahidi.
+Katika mradi wa WrAFT, modeli iliyoboreshwa ilifikia alama ya makubaliano ya **0.84** na wakaguzi wa binadamu katika insha 360 za TOEFL zilizotengwa. Hilo ni tokeo imara kwa ukaguzi wa alama. Modeli ya mradi huo huo iliyofunzwa kuandika maoni ilizalisha matokeo yaliyokatwa na yasiyoweza kuchanganuliwa, wakati kutoa maelekezo kwa modeli tofauti tu kulizalisha maoni ambayo walimu walipendelea ([[wraft-automated-writing-evaluation-argumentative-2026]]).
 
-## Badilisha alama kuwa kanuni unayoweza kutenda
+Hifadhi ya maarifa inabeba kushindwa huku huku kwa namna ya pili: usambazaji ambao moduli yake ya kukagua ilipata alama nzuri na maoni yake yalifika yamekatwa katikati ya sentensi na hayasomiki. Hakuna kitu katika nambari ya kichwa kilichosema hivyo.
 
-Uhusiano unakuambia mfano kwa kawaida ni sahihi. Hakuambii nini cha kufanya katika nyakati ambapo si sahihi. Matokeo ya uelekezaji kwa uaminifu ni kiolezo cha wazi zaidi hapa, na ni rahisi vya kutosha kunakiliwa.
+Kwa hiyo orodhesha matokeo ambayo mfumo wako unazalisha, kisha ipe kila moja kipimo chake na sharti lake la kupita. Ukaguzi wa alama, maandishi ya maoni, uchaguzi wa vidokezo, na kukataa kwa usalama hushindwa kwa namna tofauti, na alama ya ngazi ya moduli haiwezi kuona zaidi ya moduli yake.
 
-Uaminifu uligeuka kuwa ishara ya kuaminika ya kuonya: mfano ulipokuwa na shaka, ulikuwa na uwezekano mkubwa zaidi wa kuwa na makosa (**β = −0.602, p < .001**). Kwa hivyo timu ilituma **20%** ya majibu yenye uaminifu kidogo zaidi kwa binadamu. Kanuni moja hiyo ilipandisha makubaliano na alama za binadamu kutoka **0.78 hadi 0.82** na ilipunguza kazi ya kusahihisha kwa mikono kwa takribani **80%** ([[know-when-to-trust-ai-scoring-reliability-2026]]).
+## Weka mtu pale ambapo modeli haina uhakika
 
-Zingatia kile ripoti inajumuisha: kizingiti, mtu, na akiba. "Makubaliano 0.84" hayajumuishi yoyote kati ya hayo, ndiyo maana ni vigumu kutenda.
+Uwiano hukuambia modeli huwa sahihi mara nyingi. Haukukuambia cha kufanya nyakati ambazo si sahihi. Tokeo la uelekezaji kwa uhakika ndio kiolezo safi zaidi katika hifadhi ya maarifa, na ni kifupi cha kutosha kunakili.
 
-## Unapoweza, pima kitu chenyewe
+Uhakika uligeuka kuwa ishara ya kuaminika ya tahadhari: modeli ilipokuwa haina uhakika, ilikuwa na uwezekano mkubwa wa kukosea (**β = -0.602, p < .001**). Timu ilipeleka **20%** ya majibu yenye uhakika mdogo kwa mtu. Kanuni hiyo moja ilipandisha makubaliano na alama za binadamu kutoka **0.78 hadi 0.82** na kupunguza kazi ya kukagua kwa mkono kwa takriban **80%** ([[know-when-to-trust-ai-scoring-reliability-2026]]).
 
-Suluhisho safi zaidi ni kufunza mfano kwenye kiasi kile kile unakusudia kupima. Mfano uliorekebishwa kwa ufaa ulifunzwa kuzalisha sifa za kihisabati za maswali ya mtihani — namba zinazoeleza ugumu wa kila swali na jinsi unavyotenganisha wanafunzi wenye nguvu na wadogo — na ilijifunza mtindo huo badala ya kuambiwa ([[multimodal-item-parameter-estimation-2026]]). Lengo lilikuwa sifa ya tathmini yenyewe, hivyo tathmini ingeweza kuwa kuhusu sifa hiyo badala ya kuhusu maneno.
+Angalia kilicho ndani ya ripoti: kizingiti, mtu, na akiba. "Makubaliano 0.84" haina hata kimoja wapo, ndiyo sababu ni vigumu kuitekeleza na rahisi kubishana juu yake.
 
-Ripoti mwenendo pamoja na kilele. Kiigizaji cha uandishi cha SWIM kilichapisha alama ya kila hatua kando kwa kando — kutoa ilani kwa rubriki **0.577**, kurekebisha kwa ufaa **0.474 ± 0.023**, kujifunza kwa kuimarisha **0.618 ± 0.005** ([[swim-student-writing-simulation-2026]]) — ambayo ndicho kinachomruhusu msomaji kuona iwe mafunzo yalifanya chochote. Namba moja ya mwisho haiwezi kuwaambia hilo.
+## Linganisha kikagua chako cha kiotomatiki na mtu
 
-## Pima usalama kwenye mazungumzo yote, si jibu moja
+Timu nyingi sasa hutumia modeli ya pili kuhukumu ya kwanza. Mpangilio ni wa busara na modeli ya pili si sahihi kiotomatiki.
 
-Upimaji mwingi wa usalama hukagua ubadilishanaji mmoja. Madhara yanayomuhimu katika kufundisha hukusanyika. SafeTutors iligundua kuwa hata mifano iliyojengwa mahususi kwa kufundisha hupungua katika mazungumzo marefu na inaweza kufichua majibu inayopaswa kuzuia ([[hazra-safetutors-pedagogical-safety-2026]]).
+Utafiti uliomtaka modeli ya kiwango cha juu kuandika vidokezo kwa [[intelligent-tutoring|mfumo wa tutoring wenye akili]] uligundua takriban **35%** yao ilikuwa ya jumla kupita kiasi, isiyo sahihi, au ilitoa jibu waziwazi, na ukaguzi wa ubora wa kiotomatiki wa modeli yenyewe haukukubaliana na hukumu ya binadamu kuhusu zipi zilikuwa mbaya ([[reddig-maclellan-personalized-feedback-llm-2026]]).
 
-Fanya ukaguzi wa usalama kwenye mazungumzo kamili, na ujumuisha zamu ambapo mwanafunzi ana makosa, anaendelea kusisitiza, au anajaribu kumshawishi mfano kuacha jukumu lake.
+Toleo la vitendo: chukua sampuli ya matokeo yapata hamsini, mwombe mtu ayakadirie, na linganisha hilo na makadirio ya kikagua chako. Pale mawili yanapotofautiana, umejifunza kitu kuhusu kikagua. Hifadhi sampuli na jedwali la tofauti, kwa sababu ni chombo hicho hicho kinachomjibu mkaguzi anayeuliza unajuaje.
 
-## Ukipima kwa wanafunzi bandia, wakague wanafunzi bandia kwanza
+## Pima kiasi chenyewe pale kazi inaporuhusu
 
-Kuzalisha wanafunzi waliigizwa badala ya kuajiri wa kweli hufanya tathmini kuwa ya bei nafuu zaidi. Lakini mwanafunzi aliyeigizwa ni kifaa cha kupima, na anaweza kuwa na makosa kwa njia ambazo kifaa chochote kinaweza.
+Suluhisho safi zaidi ni kufunza modeli kwa kiasi hicho hicho unachokusudia kupima. Modeli iliyoboreshwa ilifunzwa kuiga sifa za kitakwimu za maswali ya mtihani: kila kipengele ni kigumu kiasi gani, na kinawatenganisha wanafunzi imara na hafifu kiasi gani. Ilijifunza mifumo hiyo badala ya kuambiwa ([[multimodal-item-parameter-estimation-2026]]). Kwa sababu lengo lilikuwa sifa ya tathmini yenyewe, tathmini ingeweza kuwa kuhusu sifa hiyo badala ya maneno.
 
-Jaribio la moja kwa moja zaidi la hili katika hifadhi ya maarifa liliwapa wanafunzi waliigizwa na waliotolewa ilani viwango dhidi ya **mazungumzo 382 yaliyotengwa** kutoka mkusanyiko mkubwa zaidi wa umma wa mazungumzo ya kweli ya hisabati ya mwanafunzi–mwalimu, kwa kutumia vipimo saba vinavyohusu lugha, tabia na mawazo ([[simulated-students-tutoring-dialogues-2026]]). Kazi nyingine zinasukuma uwazi kutoka pembe tofauti: [[inside-llm-student-simulator-reasoning-2026|INSIDE]] hufunza mifano *kutenda* na *kufikiri* kama wanafunzi, na wasifu wenye ufahamu wa historia huweka uigizaji kwenye mambo ya mwanafunzi ya zamani badala ya tabia thabiti ([[history-aware-student-simulation]]).
-
-Ikiwa mfumo wako wa kupima ni mwanafunzi aliyeigizwa, kagua kigawaji kabla ya kuaminia kile anachokisema kuhusu mwalimu wako.
+Ripoti maendeleo pamoja na mwisho. Kiigaji cha uandishi cha SWIM kilichapisha alama ya kila hatua kwa kando: maelekezo yenye rubriki **0.577**, uboreshaji **0.474 ± 0.023**, kujifunza kwa kuimarisha **0.618 ± 0.005** ([[swim-student-writing-simulation-2026]]). Msomaji anaweza kuona kutoka jedwali hilo kama mafunzo yalifanya chochote. Nambari moja ya mwisho haiwezi kuwaambia, na inaficha hatua ambapo modeli iliyoboreshwa ilifanya vibaya kuliko maelekezo.
 
 ## Linganisha na kitu kilicho nje ya mradi wako
 
-Ikiwa huna msingi wako mwenyewe, alama ya viwango ya nje inakuambia iwe namba yako ni nzuri. Kwenye Pedagogy Benchmark ya CDPK, EduQwen ilifika **96.52%** dhidi ya **90.55%** ya Gemini-3 Pro ([[singh-eduqwen-pedagogical-rl-2026]]). Pedagogy Benchmark, iliyojengwa kutoka mitihani ya kweli ya maendeleo ya kitaalamu ya walimu na ikihusisha **mifano 97**, iligundua usahihi kutoka **28% hadi 89%** ([[cdpk-pedagogy-benchmark-llms|Lelièvre et al., 2025]]).
+Pata msingi wa kulinganisha kwanza, ukiwemo wa bei nafuu. Modeli ya msaidizi wa kozi bila msingi ilipata alama chini ya utafutaji wa kawaida wa maneno muhimu, ambayo ni aina ya tokeo linalobadilisha ramani ya safari na kugharimu siku moja kuipata.
 
-Uenezo huo ndio suala: katika kazi kuhusu kufundisha, mifano ilitofautiana kutoka dhaifu hadi nzuri. Soma matokeo ya viwango kama safwamu uliyo ndani yake, si kama hukumu.
+Kisha benchmark ya nje inakuambia kama nambari yako ni nzuri hata kidogo. Kwenye benchmark ya ufundishaji ya CDPK, EduQwen ilifikia **96.52%** dhidi ya **90.55%** ya Gemini-3 Pro ([[singh-eduqwen-pedagogical-rl-2026]]). Pedagogy Benchmark, iliyojengwa kutoka mitihani halisi ya maendeleo ya kitaalamu ya walimu na kushughulikia **modeli 97**, iligundua usahihi kuanzia **28% hadi 89%** ([[cdpk-pedagogy-benchmark-llms|Lelièvre et al., 2025]]).
 
-## Orodha ya ukaguzi kabla ya kusambaza
+Kwenye kazi kuhusu ufundishaji, modeli zilianzia hafifu hadi nzuri, kwa hiyo tokeo la benchmark linaweka mfumo wako mahali fulani ndani ya wigo mpana.
 
-**1.** Andika kwa sentensi moja kile unachojali kweli, na uchague kipimo kinachoshika *kile* badala ya kufanana.
+## Jaribu usalama katika mazungumzo mzima
 
-**2.** Pata msingi kwanza, ikijumuisha rahisi. Mfano wa msaidizi wa kozi bila msingi ulipata alama chini ya utafutaji wa neno muhimu wa kawaida.
+Upimaji mwingi wa usalama hukagua mazungumzo moja. Madhara ambayo ni muhimu katika tutoring hujilimbikiza. SafeTutors iligundua kwamba hata modeli zilizojengwa mahususi kwa ufundishaji hushuka ubora katika mazungumzo marefu na zinaweza kufichua majibu ambayo zilipaswa kuzuia ([[hazra-safetutors-pedagogical-safety-2026]]).
 
-**3.** Kagua kila matokeo mfumo wako unayozalisha kivyake.
+Endesha ukaguzi katika mazungumzo kamili, na andika zamu za majaribio kwa makusudi: mwanafunzi aliye na makosa, anayeendelea kusukuma, anayejaribu kumshawishi modeli aache nafasi yake. Tutor anayestahimili zamu kumi na kujikunja kwenye ya kumi na moja anashindwa jaribio muhimu, na mfululizo wa kila jibu utampimia kuwa safi.
 
-**4.** Mwombe mtu awatie alama sampuli na ulinganishe na kigunduzi chako cha kiotomatiki.
+## Kagua mwanafunzi aliyeigwa kabla ya kumwamini
 
-**5.** Badilisha usahihi kuwa kanuni: kizingiti, mtu, na akiba.
+Kuzalisha wanafunzi walioigwa badala ya kuwaajiri halisi hufanya tathmini iwe nafuu sana. Mwanafunzi aliyeigwa pia ni chombo cha kupimia, na anaweza kukosea kwa namna vyombo vinavyokosea: mwenye ushirikiano kupita kiasi, mwepesi wa lugha kupita kiasi, mwepesi wa kukubali kidokezo.
 
-**6.** Pima usalama kwenye mazungumzo kamili.
+Jaribio la moja kwa moja zaidi katika hifadhi ya maarifa liliweka wanafunzi walioigwa na wale waliopewa maelekezo dhidi ya **mazungumzo 382** yaliyotengwa kutoka mkusanyo mkubwa zaidi wa umma wa mazungumzo halisi ya hisabati kati ya wanafunzi na tutor, kikitumia vipimo saba vinavyoshughulikia lugha, tabia na fikra ([[simulated-students-tutoring-dialogues-2026]]). Kazi nyingine inasukuma uhalisia kutoka pembe tofauti: [[inside-llm-student-simulator-reasoning-2026|INSIDE]] hufunza modeli kutenda na kufikiri kama wanafunzi, na wasifu wanaofahamu historia huelekeza uigaji kwa historia ya mwanafunzi badala ya mtu maalum asiye badilika ([[history-aware-student-simulation]]).
 
-**7.** Kagua mwanafunzi yeyote aliyeigizwa kabla ya kumuaminia.
+Ikiwa chombo chako ni mwanafunzi aliyeigwa, thibitisha kiigaji dhidi ya nakala halisi kabla ya kukiruhusu kukagua tutor wako.
 
-**8.** Weka makosa. Maoni yaliyokatwa na dokezo zinazofichua majibu ni matokeo, si makelele.
+## Kile timu za tathmini hukosea
 
-## Maswali yanayohusiana
+Alama ya juu ya makubaliano inamaanisha mfumo ni sahihi. Inamaanisha mfumo hukagua kama mkaguzi uliyelinganisha naye, kwenye insha ulizolinganisha. 0.84 ya WrAFT ilikuja na maoni ambayo hayakuchanganulika.
 
-- [[making-ai-better-at-supporting-learning|Tunawezaje kuboresha AI kusaidia kujifunza katika somo letu?]]
-- [[training-ai-tutors-to-guide-rather-than-answer|Tunafunzaje mwalimu wa AI kuwaongoza wanafunzi badala ya kuwajibu?]]
-- [[evaluating-ai-interventions-methods|Vipimo na mbinu zipi za utafiti zinazoweza kutumika na mkufunzi kutathmini uingiliaji unaohusiana na AI?]] — toleo la kuwaelekea wakufunzi la swali hili
-- [[reporting-interpreting-aied-research|Mazoea bora ya kuripoti na kutafsiri utafiti wa AI katika Elimu ni yapi?]] — toleo la kuwaelekea watafiti
-- [[llm-training-and-fine-tuning]] — ukurasa kamili wa dhana
+Nambari moja inaweza kusimama kwa bidhaa yote. Timu hutoa dashibodi yenye "usahihi 0.84" kwenye kona na hakuna sehemu ya moduli ya maoni, sera ya vidokezo, au tabia ya kukataa. Alama ya ngazi ya moduli ndiyo nambari rahisi zaidi kuhesabu na kitu kisicho na taarifa zaidi kuripoti.
+
+Benchmark ya nje huamua kama chombo kinafanya kazi. Wigo wa Pedagogy Benchmark wa 28% hadi 89% unasema familia ya kazi ni ngumu na haihudumiwi kwa usawa. Nafasi yako katika wigo huo ni ukweli kuhusu modeli yako. Kile wanafunzi wako wanaweza kufanya baadaye ni ukweli tofauti.
+
+Modeli inayohukumu modeli ni mbadala wa bei nafuu kwa makadirio ya binadamu. Ni nafuu. Takwimu ya 35% na kutokubaliana kuhusu vidokezo vipi vilikuwa vibaya zinaeleza kile hakimu asiyekaguliwa kamwe atakiruhusu kupita.
+
+Wanafunzi walioigwa hufanya tathmini kuwa bure. Huifanya kuwa nafuu, na kuhamisha gharama kwenye uthibitishaji. Ulinganisho wa mazungumzo 382 upo kwa sababu chombo kilihitaji kusawazishwa.
+
+## Kile kitakachokujia
+
+**"Hatuna wakaguzi kwa hili."** Matokeo hamsini yaliyokadiriwa yanatosha kuanza. Yakadirie mwenyewe ikiwa hakuna mtu mwingine huru, na hifadhi karatasi.
+
+**"Alama yetu ya benchmark inashinda Gemini."** Ndiyo, kwenye CDPK, kwenye maelekezo ambayo benchmark inatumia. Lete kipimo kisichosaidiwa kando yake.
+
+**"Hakimu wetu wa kiotomatiki anakubaliana na wakaguzi wetu wa binadamu."** Basi una uwiano mmoja kwenye sampuli moja. Uliza walitofautiana kwenye matokeo gani na soma hayo, kwa sababu hapo ndipo kushindwa kunakaa.
+
+**"Hatuwezi kufanya tathmini kamili kabla ya kuzindua."** Endesha tatu za bei nafuu: matokeo moja yaliyopimwa kivyake, matokeo hamsini yaliyokadiriwa na mtu, na kipimo kimoja cha usalama cha urefu wa mazungumzo. Vitu vya gharama vinaweza kufuata majaribio.
+
+**"Mfumo ni onyesho tu, kwa hiyo tathmini ni mapema mno."** Onyesho ni mahali pa bei nafuu zaidi kugundua kwamba nambari yako inapima maneno. Pindi ramani ya safari inapounganishwa nayo, ugunduzi huo huo unagharimu zaidi kuutekeleza.
+
+## Nini cha kufanya wiki hii
+
+**1.** Andika dai la sentensi moja ambalo tathmini yako inapaswa kuliunga mkono. Liweke juu ya hati ya tathmini.
+
+**2.** Orodhesha kila matokeo ambayo mfumo unazalisha na upe kila moja mstari, kipimo na sharti la kupita.
+
+**3.** Toa matokeo hamsini, yakadirie mwenyewe, na weka makadirio yako kando ya ya kikagua.
+
+**4.** Hesabu mgawanyo wa uhakika na andika kanuni ya uelekezaji yenye nambari ndani yake, pamoja na jina la mtu anayesoma kinachoshuka chini ya kizingiti.
+
+**5.** Endesha mazungumzo moja ya usalama ambapo mwanafunzi ana makosa, anasukuma mara mbili, na anaomba jibu.
+
+## Wapi pa kwenda baadaye
+
+[[making-ai-better-at-supporting-learning|Tunawezaje kufanya AI iwe bora katika kusaidia kujifunza katika somo letu wenyewe?]] inashughulikia upande wa ubuni wa tatizo hilo hilo. [[training-ai-tutors-to-guide-rather-than-answer]] inashughulikia njia ya mafunzo kuelekea tabia ya tutoring, na [[evaluating-ai-interventions-methods]] ni toleo la kumwelekea mwalimu la swali hili, huku [[reporting-interpreting-aied-research]] likiwa la kumwelekea mtafiti. Mbinu hizo ziko chini ya [[ai-ed-evaluation]] na [[llm-training-and-fine-tuning]].

@@ -1,7 +1,7 @@
 ---
 title: "AI が仕事をこなせる時代に、非同期オンラインコースはどう設計し、どう進行させるべきか？"
 created: "2026-10-10T22:54:48-04:00"
-updated: "2026-10-29T09:26:47-04:00"
+updated: "2026-10-29T10:30:04-04:00"
 connected_faqs: [reducing-over-reliance, course-ai-policy, verify-ai-output, group-work-ai]
 weight: 68
 type: faq

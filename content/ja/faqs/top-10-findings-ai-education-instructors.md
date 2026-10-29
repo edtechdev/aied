@@ -1,7 +1,7 @@
 ---
 title: "教員が知っておくべき、教育分野のAI研究における重要な10の知見とは何ですか?"
 created: "2026-08-24T09:42:00-04:00"
-updated: "2026-10-29T09:26:47-04:00"
+updated: "2026-10-29T10:30:04-04:00"
 connected_faqs: [addressing-common-misconceptions-ai-education, does-ai-help-students-learn, reduce-ai-cheating, faculty-ai-competencies]
 weight: 100
 foundations: [ai-education, ai-literacy, cognitive-offloading, teacher-role]

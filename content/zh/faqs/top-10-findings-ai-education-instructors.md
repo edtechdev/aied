@@ -1,7 +1,7 @@
 ---
 title: "在人工智能教育研究中，教师最应该了解的 10 项主要发现是什么？"
 created: "2026-09-22T19:50:31-04:00"
-updated: "2026-10-29T09:20:28-04:00"
+updated: "2026-10-29T10:30:04-04:00"
 weight: 100
 foundations: [ai-education, ai-literacy, cognitive-offloading, teacher-role]
 assessment: [assessment]

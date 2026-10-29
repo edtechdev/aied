@@ -1,7 +1,7 @@
 ---
 title: "如何判断一个教育 AI 是否真的有效，而不只是分数好看？"
 created: "2026-10-02T08:07:09-04:00"
-updated: "2026-10-29T09:20:28-04:00"
+updated: "2026-10-29T10:30:04-04:00"
 connected_faqs: [making-ai-better-at-supporting-learning, training-ai-tutors-to-guide-rather-than-answer, reporting-interpreting-aied-research, evaluating-ai-interventions-methods]
 weight: 73
 type: faq

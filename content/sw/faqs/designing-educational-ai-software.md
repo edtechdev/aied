@@ -7,10 +7,14 @@ foundations: [learning-design]
 ethics: [accessibility, equity-in-ai-education, pedagogical-safety]
 technology: [edtech-platform]
 translation_of: faqs/designing-educational-ai-software
-source_updated: "2026-10-02T08:21:34-04:00"
+source_updated: "2026-10-28T11:39:29-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-29"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-13"
@@ -19,50 +23,106 @@ ai_assist:
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
 
-# What Are Best Practices and Tips for Designing Effective Educational AI Software?
+Timu yako ina mwalimu wa majaribio anayefanya kazi na onyesho la wilaya katika wiki tatu. Au shule mshirika imekuomba kuweka interface ya mazungumzo juu ya kisomaji chake cha kozi, na mtu mmoja anasema ni kazi ya wiki mbili. Au mkaguzi wa ununuzi amerudisha sehemu ya usalama na mstari mmoja: hasa nini mlijaribu?
 
-**AI ya kielimu inapaswa kubuniwa kama mfumo wa mafunzo, si tu mfano wa matumizi ya jumla wenye kiolesura cha kielimu.** Utafiti wa hivi karibuni wa kubuni katika hifadhi ya maarifa unaboresha dai hilo kuwa jambo mahususi zaidi: mifumo yenye nguvu zaidi imejengwa kama **wataalam wenye mipaka chini ya usimamizi wa binadamu**, iliyobuniwa kwa pamoja na walimu na wanafunzi watakaowatumia, na ikitegemea maudhui yanayoweza kuthibitishwa badala ya kumbukumbu ya mfano. Seti ya vitendo vya kubuni:
+Jibu ni jembamba kuliko vipimo vingi vya bidhaa vinavyodhani. AI ya kielimu hufanya kazi kama mtaalamu aliye na mipaka chini ya uangalizi wa kibinadamu: uwezo uliowekwa ndani ya eneo lililofafanuliwa, uliotegemezwa kwenye maudhui yaliyoidhinishwa na mwalimu badala ya kumbukumbu ya modeli, uliobuniwa pamoja na walimu na wanafunzi wanaoutumia, na uliotathminiwa kwa mwingiliano endelevu wa hatua nyingi. Kifungu hicho cha mwisho ndicho timu nyingi huruka. Madhara ya kifundisho yalitokea katika kila modeli iliyojaribiwa katika kipimo hapa chini, na viwango vya kushindwa vilipanda kutoka 17.7% katika mwingiliano wa hatua moja hadi 77.8% katika mazungumzo ya hatua nyingi.
 
-- Linganisha mfumo na malengo ya kujifunza yaliyo wazi.
-- Toa ngazi za msaada badala ya kukamilisha kazi za kiakili lengwa.
-- Weka majibu katika maudhui yaliyoidhinishwa na mkufunzi au yenye mamlaka pale uaminifu wa ukweli unapomuhimu.
-- Wasilisha kutokuwa na uhakika.
-- Toa [[human-in-the-loop-ai|njia ya kupanda hadi kwa binadamu]].
-- Buni majibu ya "kina-lakini sahihi" badala ya makubaliano na mtumiaji.
-- Wape walimu usanidi wenye maana na [[teacher-role|usimamizi]].
-- Punguza data zisizo za lazima za mwanafunzi na kusanya tu zinazohitajika kielimu (angalia [[privacy]]).
-- Buni [[accessibility]] kutoka mwanzo.
-- Pima kwa utendaji usio sawa kati ya idadi za wanafunzi (angalia [[equity-in-ai-education|usawa]]).
-- Tathmini mwingiliano unaoendelea, wenye zamu nyingi badala ya ilani za maonyesho za kipekee.
+## Toleo fupi
 
-## Usalama wa kielimu
+**1.** Andika mfumo unaamua nini na mwalimu anaamua nini. Mpaka huo unakuwa usanifu.
 
-Ukurasa wa [[pedagogical-safety|Usalama wa Kielimu]] unasisitiza kwamba upimaji wa kawaida wa usalama hautoshi kwa elimu. Mfumo unaweza kuepuka maudhui ya sumu na bado kusababisha madhara ya kielimu kwa kufichua majibu kupita kiasi, kuthibitisha [[misconceptions]], kuzuia kutafakari, kukuza utegemezi, au kuepukana na malengo ya mafunzo. Inapendekeza tathmini ya usalama inayojua taaluma na yenye zamu nyingi, uhakikisho wa ubora wa binadamu-ndani-mzunguko, kutegemea maudhui, na upatanisho kuelekea mwongozo badala ya utoaji wa majibu.
+**2.** Tathmini mwingiliano wa hatua nyingi unaojua taaluma dhidi ya mtaala halisi, si maswali ya hatua moja dhidi ya vigezo vya jumla vya usalama.
 
-The [[hazra-safetutors-pedagogical-safety-2026|SafeTutors]] [[benchmark]] hubadilisha onyo hilo kuwa namba. Katika kila mfano uliopimwa — kutoka mifano ya uzito wazi ya 3.8B hadi GPT-5-mini — madhara ya [[pedagogy|kielimu]] yalikuwa ya kawaida, kiwango cha mfano hakiboresha usalama kwa uaminifu, na viwango vya kushindwa vilipanda kutoka 17.7% katika mwingiliano wa zamu moja hadi 77.8% katika mazungumzo ya zamu nyingi, wakati mifumo ya ukiukaji ilitofautiana kwa somo. Taksonomia ya vipimo 11 na hatari ndogo 48 (kiakili, kielimu, [[metacognition|meta-kielimu]], [[motivation|motisha]]-hisia, ukuaji na usawa, upatanisho wa mafunzo, na zingine) ni orodha ya ukaguzi ya kubuni inayotumika. Somo la vitendo kwa yeyote anayebainisha programu ya kielimu: mfumo unaweza kuwa sahihi na "salama" kwa vipimo vya kawaida huku ikidhoofisha kujifunza kwa taratibu, hivyo tathmini inayojua taaluma na yenye zamu nyingi ni hitaji badala ya geti la mwisho.
+**3.** Tegemeza majibu kwenye maudhui yaliyoidhinishwa, na utenganishe sehemu ya uthibitishaji na ile ya mazungumzo.
 
-## Ufikiaji na usawa
+**4.** Chukulia kila wasilisho la mwanafunzi kama maingizo yasiyoaminika, ikiwemo wakati mfumo unaipima.
 
-Ufikiaji unapaswa kujumuisha mahitaji ya kiutendaji yanayoonekana kama uendeshaji wa kibodi, utangamano wa kisoma-skrini, maelezo ya manukuu na nakala, utofautishaji sahihi, mbadala za maandishi zinazotumika, na utangamano na [[ai-technologies|teknolojia]] za usaidizi; vipengele vya ufikiaji vilivyotengenezwa na AI bado vinahitaji ukaguzi wa ubora. Angalia [[accessibility]].
+**5.** Jenga lango la kujaribu, njia ya kupandisha ngazi na uwezo wa mwalimu kubatilisha kabla ya jaribio.
 
-Upimaji wa usawa unapaswa kuchunguza mfumo mzima na kutenganisha tabia kati ya lugha, ulemavu, utamaduni, na sifa zingine muhimu za mwanafunzi badala ya kutegemea usahihi wa jumla tu. Angalia mwongozo wa [[bias-mitigation]] wa hifadhi ya maarifa uliofupishwa pamoja na [[equity-in-ai-education|Usawa]].
+**6.** Weka ufikivu na upimaji wa usawa uliogawanywa kwenye vipimo badala ya kwenye orodha ya kazi zinazosubiri.
 
-## Buni kwa mamlaka yenye mipaka, si uhuru
+## Amua mfumo unaruhusiwa kuwa nini
 
-[[reichert-human-centered-llm-chatbot-design-teachers-2026|Utafiti wa ubuni wa washiriki wa Reichert na wenzake]] na walimu sita wa sekondari ni marekebisho yenye manufaa ya dhana kwamba AI ya kielimu inapaswa kuwa wakala huru. Wakiombwa kutengeneza mifano ya [[conversational-ai|chatbot]] za darasa kwenye karatasi, kila mwalimu alieleza **mtaalam mwenye mipaka** — uwezo maalum uliofungwa kwa taaluma iliyobainishwa vizuri na unafanya kazi chini ya usimamizi wa binadamu — katika vipimo viwili. *Mipaka ya mamlaka* iliweka walimu katika udhibiti wa mwisho kwa sababu wajibu wa kitaalamu wa kujifunza na usalama wa mwanafunzi hauwezi kulegewa; *mipaka ya utaalam* yalionesha upungufu wa AI wa maarifa ya muktadha ya wanafunzi binafsi, mienendo ya darasa, na kanuni za taasisi.
+[[reichert-human-centered-llm-chatbot-design-teachers-2026|Utafiti wa usanifu shirikishi wa Reichert na wenzake]] na walimu sita wa shule ya sekondari unarekebisha dhana kwamba AI ya kielimu inapaswa kuwa wakala huru. Walipoombwa kuchora kwa karatasi [[conversational-ai|roboti za mazungumzo]] za darasani, kila mwalimu alieleza mtaalamu mwenye mipaka kwa vipimo viwili. Mipaka ya mamlaka iliwaweka walimu katika udhibiti, kwa sababu uwajibikaji kwa kujifunza na usalama wa mwanafunzi hauwezi kugawiwa. Mipaka ya utaalamu ilionyesha ukosefu wa AI wa maarifa ya muktadha kuhusu wanafunzi binafsi, mienendo ya darasa na kanuni za kitaasisi.
 
-Usanifu waliouchora ulikuwa na vipengele vinne vilivyounganika — kipimo cha maudhui, uwasilishaji wa maudhui, mabadiliko ya mwanafunzi, na usimamizi wa [[teacher-role|mwalimu]] — likitegemea tabaka tatu za ulinzi: mipaka ya taaluma yanayozuia upeo, uchujaji wa maudhui unaowezesha [[personalized-learning|ubinafsishaji]] salama, na kuibatilisha kwa mwalimu kwa matukio yenye utata. Kulegeza kulikuwa cha kuchagua: kupangwa kwenye matukio tisa ya mafunzo ya Gagné, walimu walikaribisha AI kwa kuwasilisha maudhui, kutoa maswali ya mazoezi, na kutoa maoni ya [[formative-assessment|kuendeleza]] [[feedback]], lakini walikataa kwa kuweka malengo au kufanya [[summative-assessment|tathmini]] ya [[assessment]]. Kwa kushangaza, walipa kipaumbele uwazi wa tabia — mipaka inayoonekana na ishara za kutokuwa na uhakika — kuliko maelezo ya mfano, na wote sita waliomba kurekodi mazungumzo yote, tahadhari za wakati halisi, na uwezo wa kuibatilisha kama ishara ya [[teacher-role|wajibu wa kitaalamu]] badala ya kutokuaminiana.
+Usanifu waliouchora ulikuwa na sehemu nne (upeo wa maudhui, uwasilishaji wa maudhui, urekebishaji kwa mwanafunzi, uangalizi wa [[teacher-role|mwalimu]]) juu ya tabaka tatu za ulinzi: mipaka ya eneo inayobana upeo, uchujaji wa maudhui unaowezesha [[personalized-learning|ubinafsishaji]] salama, na uwezo wa mwalimu kubatilisha kwa visa vinavyotia shaka. Ugawaji wa kazi ulikuwa wa kuchagua. Ukiwekwa juu ya matukio tisa ya kufundisha ya Gagné, walimu walikaribisha AI kwa kuwasilisha maudhui, kutoa matatizo ya mazoezi na kutoa [[formative-assessment|tathmini ya kimaendeleo]] na [[feedback|maoni]], na wakakataa kwa kuweka malengo au kuendesha [[summative-assessment|tathmini]] ya [[assessment|mwisho]].
 
-## Buni na wenye hisia, si tu kwao
+Chaguo-msingi mawili yanapaswa kuwa katika vipimo vilevile: oanisha mfumo na malengo ya kujifunza yaliyo wazi, na uelekeze kwenye majibu ya upole lakini sahihi badala ya kukubaliana na yeyote anayeandika. Mwalimu anayebembeleza jibu lisilo sahihi amemfundisha mwanafunzi kwamba jibu lilikuwa sahihi.
 
-Utafiti mwingine mbili unapanua hili. [[ko-hughes-vsd-student-centered-its-2026|Ko na Hughes]] walitekeleza ubuni unaojua thamani kwa [[intelligent-tutoring|mfumo wa kufundishia kwa akili]] na wanafunzi na walimu wa chuo cha jumuiya — kikundi cha wenye hisia kilichoachiwa nje kihistoria cha ubuni wa jukwaa la kujifunzia — na waligundua mvutano wa thamani unaoendelea wa kudhibiti badala ya kutatua: uwazi dhidi ya uwezekano wa tafsiri, faragha dhidi ya ufahamu wa mafunzo, na [[agency|uhuru wa mwanafunzi]] dhidi ya [[scaffolding]] za mfumo. Wanafunzi walipendelea maelezo ya ushirikiano, yaliyobinadamu badala ya uwazi wa mfano wa ghafi, na mfano uliotengenezwa uliweka vipengele 16 vilivyolingana na thamani kati ya [[explainable-ai]], binadamu-ndani-mzunguko, na vidhibiti vya [[privacy]].
+Maelezo moja ni ya bei nafuu sasa na ya gharama baadaye: walimu hawa walitaka uwazi wa tabia, mipaka inayoonekana na ishara za kutokuwa na uhakika, zaidi ya maelezo ya hoja za modeli. Wote sita waliomba uandikaji kamili wa mazungumzo, tahadhari za wakati halisi na uwezo wa kubatilisha, wakiweka hilo kama uwajibikaji wa kitaaluma badala ya kutoaminiana. Buni kwa ajili ya hilo katika mzunguko wa kwanza wa kazi, kwa sababu kuongeza uandikaji kumbukumbu baadaye kwenye mwalimu uliojengwa kuonekana kama haupo ni kuandika upya.
 
-[[wang-teacher-ai-co-design-review-2026|Mapitio ya Wang, Liu na Islam]] ya utafiti 28 wa pamoja wa mwalimu–AI unaongeza msamiati wa kubuni: [[generative-ai|AI ya kuzalisha]] inatumika hasa kwa kupanga masomo, kuzalisha ilani, na kubunua ubunifu, na AI ikifanya kama msaidizi au kizalishaji wa maudhui mara nyingi zaidi kuliko kama mbunzi pamoja, na uwezeshaji vinne unaojirudia — ufanisi, unyenyekevu wa kujibu, [[creativity]], na [[equity-in-ai-education|usawa]] — ambazo walimu wanaweza kutumia kuhukumu chombo gani kinatosha na tatizo gani la kubuni. Masomo yote mawili yanayatelea ubuni kama [[human-in-the-loop-ai|binadamu-ndani-mzunguko]] [[human-ai-collaboration|ushirikiano]] — [[usability-research|utafiti wa urahisi wa matumizi]] badala ya kuwasiliana — na yote yaligundua wenye hisia waliosailishwa walionyesha mahitaji ambayo hakuna alama ya usahihi ingeyaweka.
+## Ijaribu katika mazungumzo, si kwa hatua moja
 
-## Weka na thibitisha, usiamini mfano
+Muunganiko wa [[pedagogical-safety|Usalama wa Kifundisho]] unatoa hoja kwamba upimaji wa kawaida wa usalama hautoshi kwa elimu. Mfumo unaweza kuepuka maudhui yenye sumu na bado kusababisha madhara kwa kufichua majibu kupita kiasi, kuimarisha [[misconceptions|dhana potofu]], kukandamiza kutafakari, kuhimiza utegemezi, au kupotoka kutoka malengo ya kufundisha.
 
-Kutegemea maudhui ni uamuzi wa usanifu, si ilani. [[eduguard-safe-rag-llm-tutor|EduGuard]], mwalimu salama wa [[rag|urejeshaji-ulioongezwa]] kwa [[cs-education|utangulizi wa programu]], inaunganisha urejeshaji wa kozi iliyoidhinishwa na mkufunzi na kithibitishaji cha madai kilichoachana kwa usanifu, udhibiti wazi wa [[cognitive-offloading|kutegemea kupita kiasi]], na alama ya kupima yenye maswali 600 iliyoandikwa na mkufunzi inayojumuisha dhana potofu, utatuzi, maswali yaliyochanganywa, na ilani za majibu ya moja kwa moja za uhasama — ikiboresha mifano ya msingi ya GPT-4o-mini na Llama wa [[socratic-method|Sokreti]]. Kwa wabuni hii ni umbo halisi la "weka majibu katika maudhui yaliyoidhinishwa na mkufunzi": tutenganisha vipengele vinavyothibitisha na vipengele vinavyozungumza, na tupime dhidi ya matukio yanayojaribu kwa nguvu kutoa majibu. Angalia [[hallucination-risk|hatari ya uzushi]].
+[[hazra-safetutors-pedagogical-safety-2026|SafeTutors]] [[benchmark|kipimo]] kinaweka namba kwenye hilo. Katika kila modeli iliyojaribiwa, kutoka modeli huria za 3.8B hadi GPT-5-mini, madhara ya [[pedagogy|kifundisho]] yalikuwa ya kila mahali, ukubwa haukuongeza usalama kwa kuaminika, na viwango vya kushindwa vilipanda kutoka 17.7% katika mwingiliano wa hatua moja hadi 77.8% katika mazungumzo ya hatua nyingi. Mitindo ya ukiukaji ilitofautiana kwa somo. Uainishaji wake wa vipimo 11 na hatari ndogo 48 unashughulikia makundi ya kiutambuzi, kielimu, [[metacognition|kiutambuzi wa kujitambua]], [[motivation|kiwahisikio]], kiukuaji na usawa, na upatanifu wa kifundisho, na unafanya kazi kama orodha ya ukaguzi wa usanifu na pia kama seti ya majaribio.
 
-Kwa jinsi kanuni hizi za kubuni zinavyotafsiriwa kuwa mwalimu aliyejengwa — uchunguzi, ngazi za vidokezo, maoni, na tathmini — angalia [[developing-ai-tutor]]; kwa chaguomsingi za kielimu zinazoamua kama chombo kilichojengwa vizuri kinatumika vizuri, angalia [[designing-ai-into-learning]].
+Soma idadi ya kupanda kwa kiwango kama taarifa kuhusu mpango wako wa majaribio. Mwalimu anayepita majaribio elfu moja ya hatua moja anaweza kushindwa mazungumzo manne kati ya matano mara mwanafunzi anapopinga au kuuliza mara ya tatu. Jenga chombo cha hatua nyingi kabla ya onyesho.
 
-**Tendea kazi inayowasilishwa na mwanafunzi kama ingizo lisiloaminika kwa kipima cha AI chochote.** Mfano wa tishio ambao ushauri mwingi wa kubuni unaacha ni maudhui ya uhasama ndani ya kitu kinachotathminiwa. [[humble-prompt-injection-ai-grading-red-team-2026|Tathmini ya red-team ya uhasama ya Humble (2026)]] ilipima kama wanafunzi wanaweza kudhibiti mfumo wa kupima unaotegemea LLM kwa kuingiza ilani katika kazi zao, na iligundua kwamba udhibiti unafanya kazi: miingiliano inayoongoza, inayobadilisha mwelekeo au inayocheza jukumu la kipima hubadilisha alama bila kubadilisha kazi. Matokeo ya kubuni yanafuata kutoka kanuni sawa ya utenganishaji na usanifu wa uthibitishaji hapo juu — weka rubriki ya kupima na maagizo nje ya dirisha la muktadha linalodhibitiwa na mwanafunzi, ondoa au alama maudhui yanayoonekana kama maagizo katika kazi zilizowasilishwa, usiruhusu kazi kuweka vigezo vyake, na weka uamuzi wa binadamu kwenye alama yoyote yenye matokeo. Kipima cha AI kinachosoma maagizo yake kutoka maandishi yale yanayoyahukumu kimekabidhi rubriki kwa mgombea.
+## Tegemeza maudhui kwenye nyenzo na utenganishe mthibitishaji
+
+Kutegemeza kwenye nyenzo ni uamuzi wa usanifu. [[eduguard-safe-rag-llm-tutor|EduGuard]], mwalimu salama wa [[rag|upatikanaji ulioongezwa]] kwa [[cs-education|programu za utangulizi]], huunganisha upatikanaji wa kozi ulioidhinishwa na mwalimu na mthibitishaji wa madai aliyejitenga kiundano, udhibiti dhahiri wa [[cognitive-offloading|kutegemea kupita kiasi]], na kipimo cha maswali 600 kilichoandikwa na mwalimu kinachojumuisha dhana potofu, utatuzi wa makosa, maswali yenye mchanganyiko wa lugha na maswali ya majaribio yenye lengo la kupata majibu ya moja kwa moja. Kiliboresha juu ya msingi wa GPT-4o-mini na mwalimu wa [[socratic-method|Kisokrasi]] wa Llama.
+
+Sehemu inayoweza kuhamishwa ni utenganishaji: sehemu zinazothibitisha hazizungumzi, na kipimo kinajumuisha maswali yaliyoandikwa ili kutoa majibu badala ya kukagua upole. [[hallucination-risk|Hatari ya udanganyifu]] inashughulikia mtindo wa kushindwa ambao upatikanaji ulioidhinishwa unakusudiwa kuubana.
+
+## Chukulia kazi ya mwanafunzi kama maingizo yasiyoaminika
+
+Mfano wa tishio ambao ushauri mwingi wa usanifu huacha uko ndani ya kazi inayotathminiwa. [[humble-prompt-injection-ai-grading-red-team-2026|Tathmini ya timu nyekundu ya Humble (2026)]] ilijaribu kama wanafunzi wangeweza kudanganya mpimaji unaotegemea LLM kwa kuingiza maagizo katika wasilisho lao, na udanganyifu ulifanya kazi: maingizo yanayoelekeza, kupanga upya au kuigiza nafasi ya mpimaji hubadilisha alama bila kubadilisha kazi.
+
+Weka vigezo na maagizo nje ya dirisha la muktadha linalodhibitiwa na mwanafunzi, ondoa au weka alama kwenye maudhui yanayofanana na maagizo, usiruhusu kamwe wasilisho kuweka vigezo vyake, na baki na uamuzi wa kibinadamu kwa alama yoyote yenye matokeo. Mpimaji anayesoma maagizo yake kutoka maandishi anayopima amemkabidhi vigezo kwa mtahiniwa.
+
+## Saidia kazi kwa hatua badala ya kuikamilisha
+
+Mfumo unaojibu hukomesha fikra ambazo ulinunuliwa kuzisaidia. Vipande viwili vinapaswa kuwa kwenye tiketi: lango la kujaribu, ili hakuna matokeo yanayotokea kabla mwanafunzi hajajitolea kitu, na [[human-in-the-loop-ai|njia ya kupandisha kwa mtu]] yenye mwisho uliotajwa, ambao kwa bidhaa ya darasa unamaanisha mwalimu, kwa namna ambayo mwalimu anaweza kuifanyia kazi. [[scaffolding]] na mtindo wa [[socratic-method|Kisokrasi]] ni matoleo ya bidhaa ya kile ambacho mpango wa somo hufanya kwa mkono; [[developing-ai-tutor]] inashughulikia utambuzi, ngazi za vidokezo na maoni kwa kina.
+
+## Weka ufikivu na usawa kwenye vipimo
+
+Mahitaji ya ufikivu ni dhahiri vya kutosha kwa mzunguko wa kazi: uwezo wa kutumika kwa kibodi, upatanifu wa kisomaji cha skrini, manukuu na nakala, utofautishaji unaofaa wa rangi, matoleo mbadala ya maandishi yanayoweza kutumika, na upatanifu na [[ai-technologies|teknolojia]] saidizi. Vipengele vya ufikivu vilivyozalishwa na AI bado vinahitaji ukaguzi wa ubora. Tazama [[accessibility]].
+
+Upimaji wa usawa unapaswa kuchunguza mtiririko wote wa kazi na kugawanya tabia kwa lugha, ulemavu, utamaduni na sifa nyingine muhimu za mwanafunzi badala ya kutegemea usahihi wa jumla. Mfumo unaopata alama nzuri kwa wastani na mbaya kwa kundi moja umesafirisha kushindwa kwa kundi hilo. Tazama [[bias-mitigation]] na [[equity-in-ai-education|Usawa]].
+
+## Buni pamoja na watu watakaotumia
+
+[[ko-hughes-vsd-student-centered-its-2026|Ko na Hughes]] walitumia usanifu unaozingatia thamani kwa [[intelligent-tutoring|mfumo wa ualimu wenye akili]] pamoja na wanafunzi na walimu wa chuo cha jamii, kundi ambalo kihistoria limeachwa nje ya usanifu wa majukwaa ya kujifunza. Waligundua mvutano wa thamani wa kusimamia badala ya kutatua: uwazi dhidi ya uwezo wa kufasirika, [[privacy|faragha]] dhidi ya ufahamu wa kifundisho, na [[agency|uwakala wa mwanafunzi]] dhidi ya [[scaffolding|msaada]] unaoongozwa na mfumo. Wanafunzi walipendelea maelezo ya ushirikiano na ya kibinadamu kuliko uwazi mbichi wa modeli, na mfano wa awali ulijumuisha vipengele 16 vinavyolingana na thamani katika [[explainable-ai|AI inayoweza kufafanuliwa]], upandishaji kwa mtu na udhibiti wa faragha.
+
+[[wang-teacher-ai-co-design-review-2026|Mapitio ya Wang, Liu na Islam]] ya tafiti 28 za kivitendo unaongeza msamiati wa kuchagua zana. [[generative-ai|AI inayozalisha]] hutumika hasa kwa kupanga masomo, kuzalisha maswali na kutafakari kwa ubunifu, huku AI ikifanya kazi kama msaidizi au kizalisha maudhui mara nyingi zaidi kuliko kama mbunifu mwenza, pamoja na uwezo nne, ufanisi, mwitikio, [[creativity|ubunifu]] na [[equity-in-ai-education|usawa]], ambao walimu wanaweza kuutumia kupima zana ipi inafaa tatizo lipi la usanifu.
+
+Tafiti zote mbili huchukulia usanifu kama [[human-in-the-loop-ai|mchakato wenye mtu ndani yake]] na [[human-ai-collaboration|ushirikiano]] na kama [[usability-research|utafiti wa urahisi wa matumizi]] badala ya ufikiaji wa nje. Zote ziligundua kwamba washikadau waliibua mahitaji ambayo hakuna kipimo cha usahihi kingeyanasa, na hiyo ni hoja ya kivitendo ya kulipia vikao: mahitaji ambayo vinginevyo ungeyakuta kwenye jaribio.
+
+## Timu za usanifu zinakosea nini
+
+Usalama unamaanisha udhibiti wa maudhui. Madhara katika bidhaa ya kielimu mara nyingi huja kama jibu la msaada kwa wakati usiofaa. SafeTutors iligundua madhara ya kifundisho katika kila modeli iliyojaribiwa na kushindwa kupanda hadi 77.8% katika mazungumzo, jambo ambalo si kundi ambalo vichujio vya maudhui vimejengwa kukiona.
+
+Modeli kubwa zaidi itarekebisha ufundishaji. Ukubwa haukuongeza usalama kwa kuaminika katika anuwai kutoka modeli huria za 3.8B hadi GPT-5-mini.
+
+Fahirisi nzuri ya upatikanaji inamaanisha maudhui yameshughulikiwa. EduGuard huunganisha upatikanaji na mthibitishaji tofauti na hujaribu maswali ya majaribio yenye lengo la majibu ya moja kwa moja, kwa sababu upatikanaji uliotegemezwa bado unaacha njia ya kufichua kupita kiasi.
+
+Mwalimu ni njia ya mwisho. Walimu wote sita katika utafiti wa usanifu waliomba uandikaji kumbukumbu, tahadhari na uwezo wa kubatilisha kama sharti la uwajibikaji wa kitaaluma. Tiketi ya msaada si uwezo wa kubatilisha.
+
+Ufikivu ni tiketi ya baadaye. Unakaa kwenye vipimo au unakuwa kuandika upya, na maandishi mbadala na manukuu yaliyozalishwa bado yanahitaji ukaguzi wa kibinadamu.
+
+## Yatakayokujia
+
+**"Hatuwezi kujenga chombo cha tathmini kabla ya kuzindua."** Jengeni kidogo. Dai la kwanza unalolithitaji ni kile kinachotokea katika hatua tano. Chukua maswali 40 halisi ya mtaala, endesha kila moja kama mazungumzo ya hatua tano na mwanafunzi anayepinga kidokezo, na pima kwa vipimo 11. Hiyo ni sehemu ya usalama inayoweza kutetewa na inatoshea katika mzunguko mmoja wa kazi.
+
+**"Walimu wanataka kuhariri maswali, na hatuwezi kuhakikisha wanachoandika."** Basi bana uso wanaohariri. Swali la mfumo linabaki lako; malengo, maudhui yaliyoidhinishwa, ngazi za vidokezo na mtu wa kuwasiliana kwa kupandisha ngazi ni vyao. Usanifu wa mtaalamu mwenye mipaka upo ili usanidi ubaki ndani ya upeo unaoweza kuujaribu.
+
+**"Alama zetu za kipimo ni za juu."** Usahihi kwenye majibu ya hatua moja hautabiri tabia katika mazungumzo yote, na kipimo kinachopima jambo la pili kiligundua kushindwa kwa 77.8% katika mazingira ya hatua nyingi katika kila modeli iliyoijaribu. Ripoti namba zote mbili, au ya kwanza itasomwa kama ya pili.
+
+**"Uandikaji kamili wa kumbukumbu ni tatizo la faragha."** Ni kweli, jambo linalohitaji ukomo wa kusudi badala ya kutokuwepo. Andika kile mwalimu anachohitaji kufanyia kazi, punguza kingine, bana ufikiaji, na eleza kwenye bidhaa kile kinachohifadhiwa na kwa muda gani.
+
+## Cha kufanya wiki hii
+
+**1.** Andika mpaka wa mamlaka kwenye ukurasa mmoja: mfumo unaamua nini, mwalimu anaamua nini, na kipi ungekitetea kwenye ukaguzi wa ununuzi.
+
+**2.** Geuza uainishaji wa vipimo 11 kuwa mpango wa majaribio na uuendeshe kwa hatua nyingi kwenye maswali 40 halisi kutoka kozi moja.
+
+**3.** Tenganisha mthibitishaji na kizalisha kwenye hati ya usanifu, hata kama toleo la kwanza linawaendesha katika mchakato mmoja.
+
+**4.** Ongeza lango la kujaribu, mwisho wa kupandisha ngazi na uwezo wa mwalimu kubatilisha kwenye foleni, ukiwa na majina yaliyoambatanishwa.
+
+**5.** Weka orodha ya ufikivu na sharti moja la ugawaji kwenye vigezo vya kukubalika vya toleo hili.
+
+## Wapi pa kwenda baadaye
+
+[[developing-ai-tutor]] inashughulikia ujenzi, na [[designing-ai-into-learning]] inashughulikia chaguo-msingi za kifundisho kuzunguka. Kwa kama kitu kinafanya kazi baada ya kupelekwa, tazama [[checking-whether-educational-ai-works]]; kwa dhana za usalama zilizo nyuma ya mpango wa majaribio, [[pedagogical-safety]] na [[hallucination-risk]]; kwa muktadha wa ununuzi, [[legal-issues-and-risks]].

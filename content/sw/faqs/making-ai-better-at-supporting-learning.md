@@ -16,9 +16,13 @@ methods: [benchmark]
 ethics: [pedagogical-safety]
 contributors: [editor]
 translation_of: faqs/making-ai-better-at-supporting-learning
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-28T11:21:19-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-29"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: drafting
     date: "2026-10-02"
@@ -31,97 +35,145 @@ ai_assist:
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
 
-Mfano wa matumizi ya jumla atajibu kwa furaha swali la mwanafunzi badala yake, na hajui chochote kuhusu mtaala wako, rubriki yako, au makosa ambayo wanafunzi wako hufanya kweli. Kufunga pengo hilo kwa kawaida huelezewa kama tatizo la mafunzo. Katika hifadhi hii ya maarifa ni zaidi **tatizo la kuweka msingi na kutoa ilani**, na ushahidi wa mpangilio huo ni wa moja kwa moja kwa kiwango kisicho cha kawaida: utafiti wa msaidizi wa kozi uligundua kuwa urejeshaji, si mfano, ulikuwa uamuzi wa kiwango cha kwanza, na kwamba mfano wa jumla bila msingi wa data ulipata alama *chini* ya msingi wa kawaida wa TF-IDF.
+Tikiti linasema "rekebisha modeli mahususi kwa nyenzo za kozi yetu." Bajeti imeidhinishwa, GPU imewekewa nafasi mwezi ujao, na mwanafunzi wa uzamili ameombwa kukusanya seti ya data. Hakuna mtu kwenye simu aliyeuliza ilani ya kawaida inapata alama ngapi, au utafutaji wa maneno muhimu unapata alama ngapi, kwenye maswali yale yale.
 
-Mafunzo ni ya kweli na wakati mwingine ni ya lazima, lakini ni jambo la tatu au la nne la kujaribu badala ya la kwanza. Ifuatayo ni ngazi kwa mpangilio unaoepuka kompyuta iliyopotea.
+Uliza maswali hayo mawili kwanza. Katika hifadhi hii ya maarifa, pengo kati ya modeli ya jumla na modeli inayojua kozi kwa kiasi kikubwa ni tatizo la msingi wa nyenzo na la ilani, na ushahidi wa mpangilio huo ni wa moja kwa moja isivyo kawaida: utafiti wa msaidizi wa kozi uligundua kwamba upatikanaji, si modeli, ulikuwa uamuzi wa daraja la kwanza, na modeli ya jumla isiyo na msingi ilipata alama *chini* ya msingi wa kawaida wa TF-IDF.
 
-## Muhtasari
+Mafunzo ni jambo la kweli na wakati mwingine ni lazima. Ni kitu cha tatu au cha nne cha kujaribu, na kazi iliyo chini imepangwa ili ugundue ni ngazi ipi unaihitaji kwa kweli kabla ya kutumia nguvu za kompyuta za robo mwaka.
 
-Kuna vyombo vitano, kwa mpangilio unaoongezeka wa gharama na kujitolea: **kutoa ilani**, **urejeshaji** wa nyenzo zako mwenyewe, **mabadiliko ya ufanisi wa vigezo** ([[llm-training-and-fine-tuning|LoRA]] na zinazofanana), **marekebisho madogo kamili**, na **baada ya mafunzo** yenye ishara za upendeleo au za thawabu. Kila ngazi inagharimu data zaidi, kompyuta zaidi na nidhamu zaidi ya tathmini kuliko ile iliyo chini yake, na kila moja ni chaguo baya zaidi la kwanza isipokuwa kipimo kinahalalisha kupanda.
+## Toleo fupi
 
-Fasihi ya utafiti inaripoti zaidi sehemu ya juu ya ngazi hiyo, na ndiyo maana ni rahisi kufika mafunzo wakati kuweka msingi kungeotosha.
+**1.** Rekodi ilani ya kawaida inapata alama ngapi, na mbinu rahisi ya kileksika inapata alama ngapi, kabla ya kubadilisha chochote. Namba hiyo ya pili ndiyo inayokuweka mwaminifu.
 
-## Hatua ya 1: Pata msingi unaoweza kushinda kweli
+**2.** Weka upatikanaji juu ya nyenzo zako mwenyewe mbele ya modeli. Ni faida kubwa zaidi ya mara moja iliyoripotiwa hapa kwa gharama hiyo, na inaweza kurudishwa nyuma.
 
-Kabla ya kubadilisha chochote, rekodi kile unachopata kutoka ilani ya kawaida. Kisha rekodi kile mbinu ya udogo inapata, kwa sababu hiyo ndiyo namba inayokuweka mkweli.
+**3.** Andika ilani kwa kuzingatia rubriki yako na urudie hadi maboresho yakome. Kiwango tambarare ni ishara kwamba mafunzo yanaweza kuongeza kitu.
 
-Utafiti wa [[shen-sustainable-ai-knowledge-base-cs-education-2026|msaidizi wa hifadhi ya maarifa ya kozi]] unastahili kusomwa kwa hili peke. LLM ya ndani bila urejeshaji ilifika **52.3%** ya usahihi. Msingi wa TF-IDF — mbinu ya maneno ya miaka mingi iliyopita — ilifika **55.4%**. Mfano ulikuwa mbaya kuliko mbinu ya kikaboni.
+**4.** Rekebisha uzito kwa [[llm-training-and-fine-tuning|LoRA]] pale lengo lilipo imara na finyu: muundo, rubriki, kiwango cha usomaji, msamiati wa taaluma.
 
-Kama utaruka hatua hii huwezi kuambia kama marekebisho yako madogo yalisaidia, na unaweza kusafirisha kitu ambacho utafutaji wa maneno muhimu unashinda.
+**5.** Fanya mafunzo ya baadae pale tatizo lilipo tabia badala ya maudhui, na andika zawadi dhidi ya benchmark unayotarajia itatumiwa kwa hila.
 
-## Hatua ya 2: Weka mfano katika nyenzo zako mwenyewe
+**6.** Jenga seti ya mafunzo katika ngazi ya hatua. Data ya majibu peke yake haifundishi dhana potofu.
 
-Kuongeza [[rag|uzalishaji ulioongezwa na urejeshaji]] juu ya nyenzo za kozi, bila marekebisho madogo kabisa, kulipandisha mfumo ule ule kutoka 52.3% hadi **66.6%**. Hilo ni faida kubwa zaidi moja iliyoripotiwa katika hifadhi hii ya maarifa kwa gharama, na ni ya kurejeshwa: nyenzo zako zinapobadilika, unaweka upya faharasa badala ya kufanya mafunzo upya.
+## Pata msingi ambao kwa kweli unaweza kuushinda
 
-Matokeo mawili mengine yanaelekeza njia ileile. Mapitio ya PRISMA ya masudio 23 ya kielimu kuhusu kubinafsisha AI kwa [[writing-education|mafunzo ya uandishi]] yaligundua **uhandisi wa ilani unaotawala (N = 13), mbele ya marekebisho madogo (N = 7)** ([[customizing-ai-writing-pedagogy-systematic-review-2026]]). Na ambapo hifadhi ya maarifa inapaswa kubaki ya kisasa, urejeshaji ni chombo pekee kinachobaki cha kisasa bila kurudia kazi ya mafunzo.
+Kabla ya kubadilisha chochote, rekodi ilani ya kawaida inarejesha nini. Kisha rekodi mbinu rahisi inarejesha nini.
 
-Urejeshaji pia una umbo la kielimu. Kuweka mfano katika mifano yako ya kazi zilizokamilika na rubriki zako ndiyo jinsi inavyosalia ndani ya [[scaffolding|ngazi za msaada]] ulizobuni badala ya kuelekea ushauri wa jumla.
+Utafiti wa [[shen-sustainable-ai-knowledge-base-cs-education-2026|msaidizi wa hifadhi ya maarifa ya kozi]] unastahili kusomwa kwa ajili ya hili peke yake. LLM ya ndani isiyo na upatikanaji ilifika usahihi wa **52.3%**. Msingi wa TF-IDF, mbinu ya kileksika ya miongo kadhaa, ulifika **55.4%**. Modeli ilikuwa mbaya zaidi kuliko mbinu ya kawaida ya kitamaduni.
 
-## Hatua ya 3: Tekeleza ilani dhidi ya rubriki
+Ruka hatua hii na hautaweza kujua kama urekebishaji mahususi wako ulisaidia. Mbaya zaidi, unaweza kuwasilisha mfumo ambao utafutaji wa maneno muhimu unaushinda, na kujua hilo pale tu msaidizi wa ufundishaji anapolitaja. Namba mbili kwenye lahajedwali, zilizochukuliwa mchana mmoja, hulinda bajeti iliyobaki.
 
-Kazi ya ilani si mchakato wa awali unafanya unaposubiri kufundisha. Matokeo mawili hapa yanaonyesha kile inafanya peke yake:
+## Weka modeli kwenye msingi wa nyenzo zako mwenyewe
 
-- **Kutoa ilani kunakoelekezwa na rubriki, na kuboreshwa kwa kurudia, kulipandisha makubaliano ya LLM–binadamu kuhusu kazi ya kubuni ya wanafunzi kutoka 54.75% hadi 81.25%** (Cronbach's Alpha 0.393 → 0.798), bila marekebisho madogo kabisa ([[yasar-llms-iterative-pedagogical-design-2026]]).
-- Ilani maalum iliyoungwa na fasihi ilizalisha [[misconceptions]] za hisabati zinazolengwa kwa **0.98** ya uwepo, dhidi ya **0.40** ya ilani ya jumla ([[zhuang-zhang-chatgpt-math-teacher-education-2026]]).
+Kuongeza [[rag|uzalishaji ulioboreshwa na upatikanaji]] juu ya nyenzo za kozi, bila urekebishaji mahususi wowote, kuliinua mfumo ule ule kutoka 52.3% hadi **66.6%**. Faida hiyo ilitokana na faharasa, na inakuja na sifa ambayo mzunguko wa mafunzo hauna: nyaraka zako zinapobadilika, unafanya faharasa upya.
 
-Ishara ya vitendo ni **kitovu**. Katika utafiti wa kuzalisha vipengele, kuboresha kwa kurudia kwa ilani kuliachia kuboresha, na marekebisho madogo ya GPT-4.1 *juu ya ilani iliyoboreshwa* kisha yaliongeza faida iliyobaki ([[gpt-item-generation-l2-listening-2026]]). Kitovu baada ya kazi halisi ya ilani ni ushahidi wako kuwa mafunzo yanaweza kuongeza kitu. Kufika mafunzo kabla ya kukibonyeza ni kukisia.
+Matokeo mawili zaidi yanaelekeza upande huo huo. Mapitio ya PRISMA ya tafiti 23 za majaribio kuhusu kubinafsisha AI kwa ajili ya [[writing-education|mafunzo ya uandishi]] yaligundua **uundaji wa ilani ukiongoza (N = 13), mbele ya urekebishaji mahususi (N = 7)** ([[customizing-ai-writing-pedagogy-systematic-review-2026]]). Pale hifadhi ya maarifa inapaswa kubaki ya sasa, upatikanaji ni kianzio pekee kinachobaki cha sasa bila kuendesha kazi ya mafunzo upya.
 
-## Hatua ya 4: Badilisha mfano wakati lengo ni thabiti na mahususi
+Upatikanaji pia una muundo wa kielimu. Kuweka modeli kwenye msingi wa mifano yako mwenyewe iliyofanyiwa kazi na rubriki zako ndiyo njia ya kuibakiza ndani ya [[scaffolding|ngazi za msaada]] uliouunda, ikijibu kwa kiwango ulichoweka badala ya kuteleza kwenye ushauri wa jumla. Utelezi huo ni malalamiko ya kawaida zaidi kuhusu wakufunzi wa tayari, na mara nyingi ni tatizo la upatikanaji kuliko tatizo la uzito wa modeli.
 
-Mabadiliko yanalipa unapohitaji mfano ubaki na sifa kwa uhakika: kiwango cha kusoma, umbo la matokeo, taaluma inayokosekana. Matokeo yanayorudiwa ni kuwa **kulenga kunashinda saizi**.
+## Andika ilani dhidi ya rubriki yako, na uangalie kiwango tambarare
 
-- Mifano mitatu ya **8B** iliyorekebishwa kwa mtaala wa kusoma wa watoto uliobuniwa na wataalam ilifanya vizuri zaidi kuliko GPT-4o ya zero-shot na Llama 3.3 70B katika vipimo vinavyohusiana na ugumu, bila masuala ya usalama ya kuepukika. Waandishi huelezea hili kama **udhibiti juu ya kiwango** ([[llm-children-reading-story-generation]]).
-- Seti ya data ya maelekezo ya mifano **24,795** iliyoungwa katika Mifumo ya Maarifa ya India ilizalisha marekebisho madogo ya **7B** iliyopata **6.39** kwa jopo la nje la majaji watano, ndani ya **0.15** ya mfano wa kawaida wa nguvu kwa sehemu ndogo ya gharama ya kuwekwa — huku mfano ule ule wa msingi ulipata **karibu sifuri katika vipimo vya maalum ya taaluma** bila marekebisho madogo ([[iks-instruct-dataset-indian-knowledge]]). Pengo hilo kati ya "mwenye uwezo kwa ujumla" na "mwenye uwezo hapa" ni kesi yote ya mabadiliko ya taaluma.
-- Kifaa kimoja cha [[llm-training-and-fine-tuning|LoRA]] kilichofunzwa kwa takribani mifano **3,900** ya alama zilizokusanywa kilileta mifano mitano midogo ya wazi (4B–30B) kwa usawa au bora zaidi na mwandaji wa binadamu katika mitihani miwili ya sayansi ya kompyuta ([[llm-graders-computer-science-exams-2026]]). Kifaa kimoja, seti moja ya data, mifano kadhaa ya msingi: huo ndio umbo la kuweka ambayo timu ndogo inaweza kweli kuendesha.
+Kazi ya ilani si utangulizi unaofanywa wakati unasubiri GPU. Matokeo mawili yanaonyesha inafikia nini peke yake:
 
-Bainisha neno *thabiti* kwenye kichwa. Umbo, rubriki, kiwango cha kusoma na msamiati wa taaluma ni malengo thabiti. Maandishi yenye hukumu si thabiti, na hapo ndipo mabadiliko hushindwa.
+- **Uundaji wa ilani unaoongozwa na rubriki, ulioboreshwa kwa kurudia kwa pamoja, uliinua makubaliano ya LLM na binadamu kuhusu kazi za ubunifu za wanafunzi kutoka 54.75% hadi 81.25%** (Cronbach's Alpha 0.393 hadi 0.798), bila urekebishaji mahususi wowote ([[yasar-llms-iterative-pedagogical-design-2026]]).
+- Ilani maalum iliyojengwa juu ya maandiko ilizalisha [[misconceptions|dhana potofu]] za hisabati zilizolengwa kwa uwepo wa **0.98**, dhidi ya **0.40** kwa ilani pana ([[zhuang-zhang-chatgpt-math-teacher-education-2026]]).
 
-## Hatua ya 5: Badilisha jinsi inavyotenda, si tu kile kinachozalisha
+Ishara ya kivitendo ni **kiwango tambarare**. Katika utafiti wa kuzalisha vipengele, uboreshaji wa ilani kwa kurudia ulikoma kuboresha, na urekebishaji mahususi wa GPT-4.1 *juu ya ilani iliyoboreshwa* kisha ukaongeza faida iliyobaki ([[gpt-item-generation-l2-listening-2026]]). Kiwango tambarare baada ya kazi halisi ya ilani ni ushahidi kwamba mafunzo yana nafasi ya kuongeza kitu. Kufikia mafunzo kabla ya kufikia kiwango hicho ni kubahatisha, na kubahatisha hugharimu mwezi.
 
-Mabadiliko yanafundisha mfano *kile cha kuzalisha*. Baada ya mafunzo yanafundisha *jinsi ya kutenda*, na kwa ualimu tofauti hiyo ni tatizo lote: mifano ya jumla inafunzwa baada ya ubinadamu kwa upendeleo wa msaada, ambao unamaanisha kujibu haraka, huku ualimu unahitaji kuzuia jibu.
+Angalia kile matokeo ya kuzalisha vipengele yanavyosema kuhusu mfuatano. Urekebishaji mahususi ulijengwa juu ya ilani iliyoboreshwa, hivyo kazi ya ilani haikupotea pale timu ilipoamua kufanya mafunzo hatimaye. Ngazi ya bei nafuu pia ni vipimo vya ngazi ya gharama kubwa.
 
-Hapa ndipo matokeo yenye nguvu yaidi ya kielimu yanaishi. Mfano wa thawabu wa EduQwen ulitangaza wazi **kuelekeza majibu juu ya majibu ya moja kwa moja**, na mtiririko wake wa hatua tatu ulifika **96.52%** kwenye benchmark ya CDPK dhidi ya **90.55%** ya Gemini-3 Pro ([[singh-eduqwen-pedagogical-rl-2026]]). Mfano wa kuandika wa SWIM ulihamia kutoka kutoa ilani kunakoelekezwa na rubriki (QWK bora **0.577**) hadi marekebisho madili ya usimamizi (**0.474 ± 0.023**) hadi kujifunza kwa kuimarisha (**0.618 ± 0.005**) katika kila sifa na ilani ([[swim-student-writing-simulation-2026]]).
+## Rekebisha uzito pale lengo lilipo imara na finyu
 
-Matokeo moja katika eneo hili ni rahisi kupita na ya gharama kupuuza: **ubora wa usimamizi hushinda wingi wa usimamizi**. Mifano iliyorekebishwa kwa maelekezo ilijifunza dhana potofu za hisabati tu ikiwa ilifunzwa kwa **nyayo za suluhisho za kiwango cha hatua**; ikifunzwa kwa majibu ya mwisho peke yake, usahihi ulibaki **chini ya 30% katika kila saizi ya data** ([[misconception-acquisition-dynamics-llms-2026]]). Kama mifano yako ya mafunzo ni jozi za swali-na-jibu sahihi, unafundisha kitu kibaya.
+Urekebishaji hulipa pale unahitaji modeli kubeba sifa kwa kuaminika: kiwango cha usomaji, muundo wa matokeo, taaluma ambayo haina. Matokeo yanayojirudia ni kwamba **kulenga kunashinda ukubwa**.
 
-## Wakati kubadilisha mfano hakusaidii
+- Modeli tatu za **8B** zilizorekebishwa mahususi kwenye mtaala wa usomaji wa watoto ulioundwa na mtaalamu zilishinda GPT-4o ya zero-shot na Llama 3.3 70B katika vipimo vinavyohusiana na ugumu, na masuala ya usalama yasiyo na maana. Waandishi wanafasiri hili kama **udhibiti juu ya ukubwa** ([[llm-children-reading-story-generation]]).
+- Seti ya data ya maelekezo yenye **mifano 24,795** iliyojengwa juu ya Mifumo ya Maarifa ya India ilizalisha urekebishaji mahususi wa **7B** uliopata **6.39** kwenye jopo la nje la mahakimu watano, ndani ya **0.15** ya modeli rejea ya jumla yenye nguvu kwa sehemu ndogo ya gharama ya usambazaji. Modeli hiyo hiyo ya msingi ilipata **takriban sifuri katika vipimo maalum vya taaluma** bila urekebishaji huo ([[iks-instruct-dataset-indian-knowledge]]). Pengo hilo kati ya kuwa na uwezo kwa ujumla na kuwa na uwezo hapa ndilo hoja yote ya urekebishaji wa taaluma.
+- Adapta moja ya [[llm-training-and-fine-tuning|LoRA]] iliyofunzwa kwa takriban **mifano 3,900** ya pamoja yenye alama ilileta modeli tano ndogo zilizo wazi (4B hadi 30B) kwenye usawa au bora zaidi kuliko mpimaji wa binadamu katika mitihani miwili ya sayansi ya kompyuta ([[llm-graders-computer-science-exams-2026]]). Adapta moja, seti moja ya data, modeli kadhaa za msingi: huo ndio umbo la usambazaji ambalo timu ndogo inaweza kuendesha.
 
-Hii ni sehemu ambayo shauku kwa kawaida huruka.
+Neno *imara* katika kichwa hubeba uzito. Muundo, rubriki, kiwango cha usomaji na msamiati wa taaluma ni malengo imara. Maandishi yaliyojaa hukumu hayana lengo kama hilo, na hapo ndipo urekebishaji unashindwa, kama sehemu mbili zinazofuata zinavyoonyesha.
 
-- **Maandishi yenye hukumu.** Katika WrAFT, mradi ule ule uliofaulu kwa *kupima alama* za insha (QWK 0.84) ulizalisha matokeo yaliyokatwa na yasiyoweza kuchanganuliwa ulipofanya marekebisho madogo kwa *maoni*, huku kuomba moja kwa moja Claude 3.7 kulizalisha maoni ambayo walimu waliyaona bora zaidi ([[wraft-automated-writing-evaluation-argumentative-2026]]). Marekebisho madogo yalimfundisha mfano kupiga alama; hayakumfundisha kuandika.
-- **Kiwango si tabiri ya kuaminika** ya utendaji wa chini ya mabadiliko ya LoRA, na **vigezo vile vile vya hyperparameter vilizalisha tabia tofauti kwa ubora katika miundo tofauti** ([[aiawe-automated-writing-evaluation]]). Mapishi yaliyofaa kwa mfano mmoja si mapishi.
-- **Muundo unaweza kuwa na maana zaidi kuliko idadi ya vigezo.** Marekebisho madogo ya mifano mitatu ya maandishi-hadi-picha ya wazi kwa picha 1,000 za uhandisi wa nyuklia zilizowekwa maelezo viliboresha sana Stable Diffusion XL, yalitoa faida ndogo kwa SD-v3.5-Medium, na yalizalisha **hakuna kuboresha inayoweza kupimwa kwa Flux.1 kabisa** ([[nuclear-diffusion-text-to-image-learning-2026]]).
-- **Wakati mwingine jibu ni uthibitishaji badala ya mafunzo.** GPT-4 ya mstari wa mbele isiyofunzwa ilizalisha takribani **35%** ya vidokezo vya jumla kupita kiasi, visivyo sahihi au vinavyofichua jibu inapoandika maoni ya ualimu, na ukaguzi wake wa kiotomatiki wa ubora haukukubaliana na hukumu ya binadamu ([[reddig-maclellan-personalized-feedback-llm-2026]]).
+## Badilisha tabia pale majibu yalipo tatizo
 
-## Kinachohitajika katika mazoezi
+Urekebishaji hufundisha modeli *nini cha kuzalisha*. Mafunzo ya baadae hufundisha *jinsi ya kuishi*. Kwa ufundishaji wa mtu mmoja mmoja tofauti hiyo ndilo tatizo zima: modeli za jumla hupata mafunzo ya baadae juu ya upendeleo wa binadamu kwa kusaidia, ambayo maana yake ni kujibu haraka, na ufundishaji unahitaji kuzuia jibu.
 
-Kwa ngazi ya mabadiliko kizingiti ni cha chini kuliko timu nyingi wanavyodhania: **mamia machache hadi maelfu machache ya mifano na GPU moja**. LoRA inafundisha idadi ndogo ya vigezo vilivyoongezwa na huacha uzito wa msingi ukitofutwa, hivyo mifano kadhaa inaweza kutumika kutoka kifaa kimoja.
+Matokeo yenye nguvu zaidi ya kielimu katika hifadhi hii ya maarifa yapo hapa. Modeli ya zawadi ya EduQwen ilitanguliza kwa uwazi **majibu ya kuongoza mbele ya majibu ya moja kwa moja**, na mfumo wake wa hatua tatu ulifika **96.52%** kwenye benchmark ya CDPK dhidi ya **90.55%** ya Gemini-3 Pro ([[singh-eduqwen-pedagogical-rl-2026]]). Kiigaji cha uandishi cha SWIM kilihamia kutoka uundaji wa ilani unaotegemea rubriki (QWK bora **0.577**) hadi urekebishaji mahususi wa usimamizi (**0.474 ± 0.023**) hadi kujifunza kwa nguvu (**0.618 ± 0.005**) katika kila sifa na kila ilani ([[swim-student-writing-simulation-2026]]).
 
-Rank ni biashara badala ya kitufe cha kuongeza: faida kwa kila vigezo milioni ya kifaa ilishuka kwa mpangilio unapowezekana rank inapopanda, na ulinganifu wa kiwango cha kozi ulikuwa uamuzi wa kiwango-na-rank badala ya kuboresha bila gharama ([[lora-finetuned-control-systems-course-qa-2026]]). Tabaka zipi unazobadilisha pia ni chaguo halisi — kusasisha **tabaka nne za mwisho za Transformer pekee** za kichanganuzi cha mazungumzo kulingana na BERT kulishinda kote kwa kubadilisha tabaka la juu pekee na marekebisho madogo kamili ([[bert-discourse-english-teaching-2026]]).
+Soma namba za SWIM kwa uangalifu, kwa sababu hatua ya kati ilirudi nyuma. Urekebishaji mahususi wa usimamizi juu ya maonyesho ulifanya kiigaji kiwe kibaya zaidi kuliko ilani iliyoanzia, na ishara ya zawadi peke yake ndiyo iliyorejesha hasara na kisha kushinda msingi. Ikiwa mpango wako unaishia kwenye urekebishaji mahususi wa usimamizi, mpango unaweza kuwa mchepuko.
 
-Gharama ambayo ni rahisi kupunguza ni tathmini, si kompyuta. Tazama [[checking-whether-educational-ai-works|Je, tunajue vipi AI ya kielimu inafanya kazi kwa usahihi, si tu kupata alama nzuri?]]
+## Simamia katika ngazi ya hatua
 
-## Sasisha unachotarajia
+Ugunduzi mmoja hapa ni rahisi kuukosa na ghali kuupuuzia: **ubora wa usimamizi unashinda wingi wa usimamizi**. Modeli zilizofunzwa kwa maelekezo zilijifunza dhana potofu za aljebra pale tu zilipofunzwa kwa **rekodi za hatua za suluhisho**. Zikifunzwa kwa majibu ya mwisho peke yake, usahihi ulibaki **chini ya 30% katika kila ukubwa wa data** ([[misconception-acquisition-dynamics-llms-2026]]).
 
-Chaguo la mfano na ilani pamoja zinahesabia takribani **15%** tu ya kutokulingana kati ya LLM na mafanikio ya kujifunza ya wanafunzi, na katika utafiti huo uzito wa benchmark na maunganisho ya kupiga kura kwa kauli moja yalifanya ulinganifu *mbaya zaidi* ([[educational-llm-alignment]]). Data ya mafunzo ya awali ni chombo kuu cha jinsi mfano unavyotenda, na ni chombo kimoja ambacho huwezi kuvuta.
+Ikiwa mifano yako ya mafunzo ni jozi za swali na jibu sahihi, unafundisha kitu kisichofaa, na kuongeza mifano hakutarekebisha hilo. Unachohitaji ni kazi ya kati: zamu isiyofaa, hatua ambapo mwanafunzi alipotoka, marekebisho. Kukusanya hilo ni tatizo la uhandisi wa data lenye sharti la kielimu, na kwa kawaida inamaanisha kurekodi vipindi badala ya kunakili funguo za majibu.
 
-Hilo si hoja dhidi ya kazi hapo juu. Ni hoja dhidi ya kutarajia marekebisho madogo kurekebisha tatizo la kubuni. Kama suala ni kwamba mwalimu wako anajibu kwa urahisi, mafunzo yanaweza kushughulikia. Kama suala ni kwamba wanafunzi wako hawashiriki nayo, mafunzo hayatafanya.
+## Mahali urekebishaji unashindwa kwa utulivu
 
-## Mpangilio mfupi wa maamuzi
+Hii ni sehemu ambayo shauku huiruka.
 
-**1.** Rekodi msingi wa ilani-peke, ukijumuisha ule wa udogo.
-**2.** Ongeza urejeshaji wa nyenzo zako mwenyewe.
-**3.** Tekeleza ilani kwa kurudia dhidi ya rubriki yako, na uangalie kitovu.
-**4.** Badilisha mfano na LoRA wakati lengo ni umbo thabiti, rubriki, kiwango au taaluma.
-**5.** Fanya mafunzo ya baada tu unapohitaji kubadilisha *jinsi* inavyotenda, na andika thawabu dhidi ya benchmark, kwa sababu itachezwa.
-**6.** Simamia kwa kiwango cha hatua, si kiwango cha jibu.
-**7.** Weka binadamu katika mzunguko ambapo uaminifu ni wa chini.
-**8.** Pima usalama katika mazungumzo yote, si zamu moja.
+**Maandishi yaliyojaa hukumu.** Katika WrAFT, mradi ule ule uliorekebisha mahususi kwa mafanikio kwa ajili ya *kupa alama* insha (QWK 0.84) ulizalisha matokeo yaliyokatwa na yasiyochanganulika uliporekebisha mahususi kwa ajili ya *maoni*, wakati kutoa ilani moja kwa moja kwa Claude 3.7 kulizalisha maoni ambayo walimu waliyapa alama bora zaidi ([[wraft-automated-writing-evaluation-argumentative-2026]]). Urekebishaji mahususi ulifundisha modeli kufikia alama, na alama ndiyo kitu pekee ilichojifunza.
 
-## Maswali yanayohusiana
+**Uhamishaji kati ya modeli.** Ukubwa si kitabiri cha kuaminika cha utendaji unaofuata chini ya urekebishaji wa LoRA, na **vigezo vya mipangilio vinavyofanana vilizalisha tabia tofauti kimaumbile katika usanifu tofauti** ([[aiawe-automated-writing-evaluation]]). Mapishi yaliyofanya kazi kwenye modeli moja si mapishi.
 
-- [[training-ai-tutors-to-guide-rather-than-answer|Je, tunafundishe vipi mwalimu wa AI kuwaelekeza wanafunzi badala ya kuwajibu?]] — nusu ya baada ya mafunzo kwa undani
-- [[checking-whether-educational-ai-works|Je, tunajue vipi AI ya kielimu inafanya kazi kwa usahihi, si tu kupata alama nzuri?]] — jinsi ya kuambia kama lolote lilifanya kazi
-- [[developing-ai-tutor|Ni mbinu zipi bora za kukuza mwalimu mahiri wa AI?]] — upande wa kubuni wa mwingiliano wa lengo lile lile
-- [[designing-educational-ai-software|Ni mbinu zipi bora na vidokezo gani vya kubuni programu ya AI ya kielimu yenye ufanisi?]]
-- [[llm-training-and-fine-tuning]] — ukurasa kamili wa dhana
+**Usanifu juu ya idadi ya vigezo.** Urekebishaji mahususi wa modeli tatu za wazi za maandishi-hadi-picha kwenye picha 1,000 za uhandisi wa nyuklia zenye maelezo uliboresha kwa kiasi kikubwa Stable Diffusion XL, ukaleta faida ndogo kwa SD-v3.5-Medium, na **haukuleta maboresho yanayopimika kabisa kwa Flux.1** ([[nuclear-diffusion-text-to-image-learning-2026]]).
+
+**Tatizo lilikuwa uthibitishaji.** GPT-4 ya mbele isiyofunzwa ilizalisha takriban **35%** ya vidokezo vilivyo pana mno, visivyo sahihi au vinavyofichua jibu wakati wa kuandika maoni ya ufundishaji, na ukaguzi wake wa ubora wa kiotomatiki haukukubaliana na hukumu ya binadamu ([[reddig-maclellan-personalized-feedback-llm-2026]]). Hilo ni tatizo la kuchuja, na LoRA haitalitatua.
+
+Mtindo katika yote manne: urekebishaji huhamisha modeli kwa kuaminika kuelekea lengo unaloweza kulieleza na kulipa alama. Hauongezi hukumu, na mfumo usio na ukaguzi bado utawasilisha matokeo mabaya.
+
+## Panga bajeti ya urekebishaji kwa uaminifu
+
+Kwa ngazi ya urekebishaji kizingiti ni cha chini kuliko timu nyingi zinavyodhani: **mifano mia kadhaa hadi elfu kadhaa na GPU moja**. LoRA hufunza idadi ndogo ya vigezo vilivyoongezwa na huacha uzito msingi umeganda, hivyo modeli kadhaa zinaweza kuhudumiwa kutoka kwa adapta moja.
+
+Rank ni maamuzi ya kubadilishana badala ya kipimo cha kukuzia. Faida kwa milioni ya vigezo vya adapta ilishuka kwa mfululizo pale rank ilipopanda, na upatanisho wa ngazi ya kozi ulikuwa uamuzi wa ukubwa-na-rank badala ya uboreshaji wa bure ([[lora-finetuned-control-systems-course-qa-2026]]).
+
+Tabaka unazorekebisha pia ni uchaguzi halisi. Kusasisha **tabaka nne za mwisho za Transformer peke yake** za kichanganuzi cha mazungumzo cha msingi wa BERT kulishinda kurekebisha tabaka la juu peke yake na urekebishaji mahususi wa kina kikamilifu ([[bert-discourse-english-teaching-2026]]). Mipangilio mitatu, matokeo matatu tofauti, na ile ya bei nafuu zaidi ilishinda.
+
+Gharama ambayo ni rahisi kuipuuza ni tathmini, ambayo ni kubwa kuliko bili ya nguvu za kompyuta. Ona [[checking-whether-educational-ai-works|Tunajuaje Kuwa AI ya Kielimu Inafanya Kazi kwa Usahihi, Si Kupata Alama Nzuri Tu?]]
+
+## Rekebisha kile unachotarajia
+
+Uchaguzi wa modeli na wa ilani kwa pamoja huchangia karibu **15%** tu ya kutokulingana kati ya LLM na faida za kujifunza za wanafunzi, na katika utafiti huo upangaji wa uzito wa benchmark na majopo ya kupiga kura kwa kauli moja ulifanya upatanisho kuwa *mbaya zaidi* ([[educational-llm-alignment]]). Data ya mafunzo ya awali ndio kianzio kikuu cha jinsi modeli inavyofanya kazi, na ndicho kianzio kimoja ambacho hauwezi kukivuta.
+
+Hakuna kati ya hayo kunapinga kazi iliyo juu. Kunapinga kutarajia urekebishaji mahususi kutatua tatizo la kubuni. Ikiwa suala ni kwamba mwalimu wako wa AI anajibu kwa urahisi mno, mafunzo yanaweza kushughulikia hilo. Ikiwa suala ni kwamba wanafunzi wako hawajishughulishi nayo, mafunzo hayatashughulikia, na takwimu ya 15% inasema pesa zina matumizi bora mahali pengine.
+
+## Timu zinakosea nini
+
+Urekebishaji mahususi ndiyo njia ya kufundisha modeli kozi yako. Upatikanaji juu ya nyenzo zako mwenyewe uliinua mfumo ule ule kutoka 52.3% hadi 66.6% bila mafunzo yoyote, na ilani iliyoboreshwa dhidi ya rubriki ilihamisha makubaliano kutoka 54.75% hadi 81.25%. Mafunzo hufundisha tabia na muundo kwa kuaminika zaidi kuliko yanavyofundisha maudhui.
+
+Modeli kubwa zaidi ya msingi huondoa hitaji la haya yote. Modeli ya 8B iliyorekebishwa mahususi kwenye mtaala wa usomaji wa watoto ilishinda GPT-4o ya zero-shot na Llama 3.3 70B katika vipimo vya ugumu, na urekebishaji mahususi wa 7B ulifikia ndani ya 0.15 ya modeli rejea ya jumla yenye nguvu kwa sehemu ndogo ya gharama ya usambazaji. Ukubwa na upatanisho ni mihimili tofauti, na mmoja tu kati yao unauzwa kwa tokeni.
+
+Data zaidi itarekebisha seti ya mafunzo iliyojengwa vibaya. Usimamizi wa majibu peke yake uliacha usahihi chini ya 30% katika kila ukubwa wa data katika utafiti wa dhana potofu. Ukubwa haurekebishi lengo ambalo linakosa taarifa ambayo modeli inaihitaji.
+
+Mapishi yaliyofanya kazi kwenye modeli moja yatafanya kazi kwenye inayofuata. Vigezo vya mipangilio vinavyofanana vilizalisha tabia tofauti kwa kiwango cha ubora katika usanifu tofauti, na mbinu ile ile ya urekebishaji mahususi iliboresha modeli moja ya picha kwa kiasi kikubwa na haikufanya kitu kinachopimika kwa nyingine. Endesha mapishi upya kwenye modeli yako ya msingi au unubahatisha.
+
+Urekebishaji mahususi wa usimamizi ndio hatua salama ya kati kabla ya kujifunza kwa nguvu. Katika SWIM hatua ya usimamizi ilipata 0.474 dhidi ya 0.577 kutoka ilani iliyoibadilisha, na ishara ya zawadi peke yake ndiyo iliyoirejesha. Hatua ya kati inaweza kukugharimu mwezi na kurudi nyuma.
+
+## Yatakayokujia
+
+**"Bajeti imeidhinishwa kwa urekebishaji mahususi, kwa hiyo tufanye urekebishaji mahususi."** Tumia wiki moja kwenye msingi na faharasa kwanza. Ikiwa upatikanaji unahamisha namba, urekebishaji mahususi ni uamuzi wa baadaye unaofanywa kwa taarifa bora, na utakuwa na hoja yenye nguvu zaidi kwa ajili yake au sababu nzuri ya kurudisha GPU.
+
+**"Tatizo letu ni kwamba wanafunzi hawaitumii."** Mafunzo hubadilisha kile modeli inachozalisha. Takwimu ya 15% inaeleza kiasi ambacho uchaguzi wa modeli na ilani huchangia katika kutokulingana na faida za kujifunza, na ushiriki uko nje yake. Pima mahali wanafunzi wanakoma kabla ya kununua nguvu za kompyuta.
+
+**"Hatuwezi kutuma kazi za wanafunzi kwa API ya muuzaji."** Matokeo yenye nguvu zaidi ya LoRA hapa yalitoka kwa modeli wazi katika masafa ya 4B hadi 30B, na adapta moja ilihudumia kadhaa kati yao. Umbo hilo la usambazaji linapatikana kwa timu iliyo na GPU moja na bila makubaliano ya usindikaji wa data.
+
+**"Kutoa ilani ni hila; kazi halisi maana yake ni mafunzo."** Mapitio ya tafiti 23 za mafunzo ya uandishi yaligundua kutoa ilani ndiyo mbinu inayoongoza na urekebishaji mahususi ukifuata nyuma yake, na faida kubwa zaidi iliyoripotiwa kwenye ukurasa huu ilitoka kwenye faharasa. Mapitio hayo na utafiti wa msaidizi wa kozi zote zilipanga ngazi hizo kwa faida iliyopimwa.
+
+**"Tulijaribu kutoa ilani na ikafikia kiwango tambarare, hivyo tunahitaji mafunzo."** Hilo ni usomaji sahihi, na ndiyo kesi moja ambapo kupanda kunahalalishwa. Chukua ilani iliyoboreshwa kwenye urekebishaji mahususi kama timu ya kuzalisha vipengele ilivyofanya, na tarajia faida iwe ndogo kuliko kazi ya ilani ilivyokuwa.
+
+**"Nyenzo zetu za kozi hazilingani, hivyo upatikanaji utarejesha takataka."** Utarejesha, na upatikanaji hurithi ubora wa korpus. Kusafisha korpus ni bei nafuu kuliko kufunza modeli kuizunguka, na faida kutoka 52.3% hadi 66.6% ilipimwa juu ya nyenzo za kawaida za kozi badala ya seti iliyochujwa.
+
+## Fanya hivi wiki hii
+
+**1.** Endesha msingi wa ilani peke yake na msingi wa maneno muhimu kwenye maswali 50 halisi kutoka kozi yako, na uandike namba zote mbili chini.
+
+**2.** Elekeza upatikanaji kwenye nyenzo unazo tayari na uendeshe maswali yale yale 50 upya, ili faida ipimwe dhidi ya msingi wako mwenyewe.
+
+**3.** Weka rubriki kwenye ilani ya mfumo na urudie kwa wiki moja. Acha pale mizunguko miwili haiongezi kitu.
+
+**4.** Kagua seti yako ya mafunzo kwa rekodi za ngazi ya hatua. Ikiwa ni jozi za swali na jibu, seti ya data haiko tayari.
+
+**5.** Andika sifa moja unayohitaji ibaki kwa kuaminika, na amua kama ni tabia au maudhui. Uamuzi huo huchagua ngazi.
+
+## Wapi kwenda baadaye
+
+[[training-ai-tutors-to-guide-rather-than-answer|Tunawezaje Kufunza Kocha wa AI Aongoze Wanafunzi Badala ya Kuwajibu?]] inashughulikia nusu ya mafunzo ya baadae kwa kina. [[checking-whether-educational-ai-works|Tunajuaje Kuwa AI ya Kielimu Inafanya Kazi kwa Usahihi?]] inashughulikia jinsi ya kujua kama chochote kati ya hayo kilifanya kazi. [[developing-ai-tutor|Mbinu Bora za Kukuza Mwalimu wa AI Mwenye Ufanisi ni Zipi?]] ni upande wa kubuni mwingiliano wa lengo lile lile, na [[designing-educational-ai-software|Ni Mbinu Bora na Vidokezo Gani vya Kubuni Programu Bora ya AI katika Elimu?]] inashughulikia mfumo unaozunguka. Ukurasa kamili wa dhana ni [[llm-training-and-fine-tuning]].

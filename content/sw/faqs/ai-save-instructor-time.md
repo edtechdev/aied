@@ -7,10 +7,14 @@ foundations: [ai-literacy, educational-development, teacher-role]
 assessment: [ai-feedback-quality]
 audience: [instructors, faculty developers]
 translation_of: faqs/ai-save-instructor-time
-source_updated: "2026-10-02T08:21:34-04:00"
+source_updated: "2026-10-28T11:21:07-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-29"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-13"
@@ -19,60 +23,96 @@ ai_assist:
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
 
-# AI Inaweza Kuniokoa Muda Nikiyefundisha Kama Mkufunzi?
+Ni Alhamisi usiku wa wiki ya nane. Muhtasari wa masomo matatu unatakiwa Jumatatu, ripoti za maabara zimesahihishwa nusu, na mkutano wa idara wa Ijumaa una kipengele kuhusu kila mtu amefanya nini na AI tangu mafunzo ya Agosti. Mwenzako anasema kifaa kilipunguza nusu muda wake wa kupanga. Umejaribu mara mbili, umetumia dakika arobaini kurekebisha karatasi ya kazi, na umeondoka ukidhani jambo lote lilizidishwa sifa.
 
-**AI inafaa zaidi kwa kazi za kurudia, zenye hatari ndogo za kuandaa na kubadilisha, huku hukumu muhimu ya kielimu ikibaki kwa mkufunzi.** Matumizi yenye tija yanajumuisha rasimu za kwanza za nyenzo za masomo, mifano, maswali ya majadiliano, jaribio [[formative-assessment|la kufuatilia maendeleo]], maelezo mbadala, rubriki, mapendekezo ya maoni, muhtasari, matoleo yaliyotofautishwa ya nyenzo, na lugha za kawaida za utawala. Mbinu kuu ni **mpeana upya, si kupunguza**: AI inaachia muda ambao wakufunzi huuelekeza kuelekea kazi za kielimu zenye thamani ya juu — muda ule ule unanunua mwingiliano zaidi wa mwanafunzi mmoja kwa mmoja, maoni ya kina, na ufundishaji wa kiwango cha juu.
+Ninyi wote wawili mnaelezea kifaa kimoja. Hupunguza muda kwenye kuandika rasimu ya nyenzo ambayo ungeirekebisha hata hivyo, na hugharimu muda pale unapoelekeza kwenye hukumu kuhusu mwanafunzi fulani. Kama akiba hiyo inakuwa yako inategemea uamuzi ambao walimu wengi hawaufanyi kamwe: masaa yaliyopatikana ni ya nini.
 
-## Ushahidi unaonyesha nini
+Jambo la msingi kwa mkutano: kabidhi rasimu ya kwanza na uendelee kuhukumu. Muhtasari wa masomo, mifano iliyotatuliwa, maswali ya majadiliano, vipengele vya maswali ya [[formative-assessment|tathmini ya hatua]], maelezo mbadala, maneno ya rubriki na maandishi ya kawaida ya utawala ni kazi unazoweza kubainisha, kukagua na kusahihisha. Malengo, alama za mwisho na uamuzi wowote kuhusu mwanafunzi fulani vinabaki kwako. Taja saa iliyoachiliwa inanunua nini, kwa sababu ushahidi kuhusu kuokoa muda ni ushahidi kuhusu muda unaenda wapi.
 
-### Maandalizi ya somo: uokovu wa muda wa takribani 30%, huku ubora ukidumu
+## Toleo fupi
 
-Makala [[ai-changing-teaching-workflows|Jinsi AI Inavyobadilisha Mitiririko ya Kazi ya Ualimu]] inafupisha jaribio [[rct|linalowekwa nasibu]] la Kiingereza linalohusisha walimu 259 wa sayansi ambao walimu wanaotumia ChatGPT walitumia muda wa takribani **69%** katika maandalizi ya somo kuliko kikundi cha kudhibiti — kupungua kwa takribani **31%** — bila hasara inayoweza kugundulika katika ubora wa nyenzo kulingana na wataalam waliopima bila ufahamu. Walimu kwa ujumla **waliipatia upya** muda uliookolewa kwa kazi nyingine za kielimu (kupanga, kuweka alama, shughuli zinazohusisha wanafunzi) badala ya kuondoa kazi tu. Hifadhidata ya ndani yenye ujumla wa ujumbe 104,000+ kutoka kwa waelimishaji 15,000+ ilionesha kuwa ilani ya [[teacher-role|mwalimu]] ya wastani inagusa **kategoria 1.7 kwa wakati mmoja** (mfano, ombi moja linalounganisha mpango wa somo + utofautishaji + jaribio la kufuatilia maendeleo), hivyo AI mara nyingi inatoa vipengele vya kielimu ambavyo mwalimu hakuwa na haja ya kuviuliza.
+**1.** Orodhesha kazi za wiki iliyopita zilizozalisha hati uliyoihariri baadaye. Hizo ni wagombea wako.
 
-### AI ina ubora wapi — na hauwezi wapi
+**2.** Anza na nyenzo zenye muundo unazoweza kukagua dhidi ya mahitaji yako mwenyewe: tiketi za kutoka, vipengele vya maswali, mifano iliyotatuliwa, maelezo ya pili ya dhana ngumu.
 
-Nyenzo zilizozalishwa na AI si nzuri sawa na zile za binadamu; thamani hutegemea kazi na kiwango:
+**3.** Andika saa iliyopatikana inaenda wapi kabla ya kuipata.
 
-- **Nguvu:** hitimisho za somo na tiketi za kutoka (matoleo ya AI yalipendelewa mara **59.7%** kuliko mabuni ya kitaalamu), maudhui ya shule ya juu (**59.2%**), na kufundisha *nje ya* utaalamu wako (uokovu mkubwa zaidi wa muda unapokuwa na uaminifu mdogo zaidi katika somo).
-- **Dhaifu:** nyenzo za kiwango cha msingi (binadamu walipendelea ~65% ya muda kwa ufaafu wa maendeleo), na ngazi za msaada zilizolengwa za [[multilingual-learning|lugha nyingi]]/[[special-education]] [[scaffolding|ngazi za msaada]] (AI ni "ya wastan" lakini si ya kina).
+**4.** Pima muda wa kazi tatu zinazojirudia kwa wiki mbili. Hisia yako ya akiba haiaminiki kwa namna mahususi iliyoandikwa.
 
-Hivyo matumizi salama zaidi, yenye thamani ya juu ni **nyenzo zilizopangwa, zilizoainishwa vizuri ambazo unaweza kukagua** — si maudhui ya kina ya maendeleo au yenye msaada wa kitamaduni ambayo ungetaka kuijenga upya.
+**5.** Weka upangaji wa malengo, alama za [[summative-assessment|tathmini jumlishi]] na maamuzi ya mwanafunzi mmoja mmoja upande wako wa mstari.
 
-### Maoni na kuweka alama: faida ya mpeana upya ni halisi
+## Anza na kazi ambayo ungeiandika upya hata hivyo
 
-Jaribio kubwa la Brazil katika **shule 178 na wanafunzi ~19,000 wa mwaka wa mwisho wa sekondari** lilipima maoni ya insha yaliyoendeshwa kiotomatiki na AI:
+Nambari imara zaidi katika hifadhi hii ya maarifa inatoka kwenye [[rct|jaribio la ubahatishaji]] lililofupishwa katika [[ai-changing-teaching-workflows|Jinsi AI Inavyobadilisha Mitiririko ya Kazi ya Ufundishaji]]. Walimu 259 wa sayansi waliotumia ChatGPT walitumia takriban 69% ya muda ambao kundi la udhibiti lilitumia kwa maandalizi ya somo, punguzo la takriban 31%, na wakaguzi wataalam wasioona vyanzo hawakugundua upotevu wowote unaoweza kutambulika wa ubora. Walimu waligawa muda huo upya badala ya kuuweka akiba, wakiupeleka kwenye kupanga, kusahihisha na kazi zinazowakabili wanafunzi.
 
-- Maoni ya AI yalitoa **maendeleo ya kujifunza [[learning-gains|yanayolingana]]** na ya walioweza alama binadamu — ambao waligharimu ~\$0.85/insha na hawakuongeza **faida yoyote ya ziada**.
-- Wanafunzi wa madarasa ya AI walikuwa na **mazungumzo zaidi ya ~35% ya mtu mmoja kwa mmoja** na walimu kuhusu uandishi, na waliandika **insha 30% zaidi**.
-- Saa za kazi za nyumbani za walimu zilishuka **20%**; walimu waliyoripoti muda kuwa "hautoshi kabisa" walishuka kutoka 23% hadi 9%.
-- **Maendeleo makubwa zaidi ya kujifunza yalikuwa kwenye kazi ya uandishi iliyochanganywa zaidi** — hasa kile ambacho AI *haijapata* kutathmini — kwa sababu AI iliwafungulia walimu kuzingatia mafunzo ya kiwango cha juu.
+Seti ya pili ya data katika kazi hiyo hiyo, zaidi ya jumbe 104,000 kutoka kwa waelimishaji zaidi ya 15,000, inaonyesha kwa nini akiba inaangukia mahali pasipo kawaida. Dokezo la wastani linagusa kategoria 1.7 kwa wakati mmoja, hivyo ombi moja la mpango wa somo hurudi likiwa limebeba utofautishaji na jaribio dogo ambalo mwalimu hakuwaza kuliomba.
 
-**Onyo:** robo ya chini haikuonyesha maboresho — muda ulioachiliwa peke yake haukutosheleza wanafunzi waliohitaji msaada zaidi, hivyo uokovu lazima uambatane na mpeana upya ya kimakusudi, [[equity-in-ai-education|ya usawa]].
+Hiyo ni ugawaji upya badala ya punguzo: unachopata kutoka [[generative-ai|AI zalishi]] ni tofauti kati ya ukurasa mtupu na rasimu mahususi vya kutosha kuijadili.
 
-### Kizuio: uzushi wa faida ya ufanisi
+## Linganisha kazi na kile kifaa kinafanya vizuri
 
-Uokovu wa muda ni rahisi kukadiria kupita — ikijumuisha na wakufunzi wanaoupatia. [[efficiency-gain-illusion-ai-overreliance|Katika masudio matatu yaliyosajiliwa mapema (N = 2,691)]], watu kwa kawaida **walikadiria chini mzunguko ambao walitumia AI kweli** na **walikadiria kupita muda na juhudi iliyookolewa**, wakiamini kazi zilikuwa za haraka na rahisi hata vipimo vya lengo vilipoonyesha hakuna tofauti; matumizi ya awali ya AI katika kipindi yalitabiri matumizi zaidi, na kukaza usawazishaji mbaya katika mzunguko unaojirudia. Athari ya vitendo ni kuchukulia uokovu wa muda wa [[generative-ai]] kama dai la kukagua dhidi ya data halisi ya mtiririko wa kazi badala ya kukubali kutoka kwa hisia, na kujenga usawazishaji [[metacognition|wa metaji]] unaokuruhusu kugundua wakati kazi imeenda haraka kweli. Si kila uokovu unaohisiwa ni uzushi, ingawa: [[pishtari-teacher-ai-training-learning-design-2026|tafiti ya washiriki wale wale ya walimu 13 wa elimu ya juu]] ilipata upatikanaji wa AI ukishusha kwa kiwango kikubwa juhudi ya kiakili inayohisiwa ya [[learning-design|kubuni kujifunza]] (wastani 6.33 hadi 3.33, p = .004) — lakini mafunzo ya [[prompt-engineering|kutoa ilani]] yaliyoongezwa juu yake hayakuboresha ubora wa kubuni, ukumbusho kwamba juhudi iliyookolewa si uwezo uliopatikana.
+Ubora hautofanani kwa mfumo thabiti vya kutosha kupanga kwa misingi yake. Wakaguzi wasioona vyanzo walipendelea matoleo ya AI ya hitimisho la masomo na tiketi za kutoka kwa 59.7% ya wakati juu ya nyenzo zilizobuniwa na wataalamu, na walipendelea nyenzo za AI kwa maudhui ya shule ya sekondari kwa 59.2% ya wakati. Akiba pia hukua pale ujasiri wako ulipo chini zaidi: kufundisha nje ya somo lako mwenyewe ni kesi yenye pengo pana zaidi kati ya kile kifaa kinakupa na kile ungeandika peke yako.
 
-### Kuweka alama kiotomatiki: inaahadi, lakini haihamishiki
+Kategoria mbili zinaenda upande mwingine. Kwenye nyenzo za ngazi ya msingi, binadamu walipendelewa kwa takriban 65% ya wakati kwa ufaafu wa maendeleo. [[scaffolding|Msaada wa hatua kwa hatua]] unaolengwa kwa wanafunzi wa [[multilingual-learning|lugha nyingi]] na wanafunzi katika [[special-education|elimu maalum]] ulirudi ukiwa wa kati badala ya makosa, jambo ambalo ni baya zaidi kuliko linavyosikika, kwa kuwa msaada wa kati ni ule unaoujenga upya tangu mwanzo.
 
-Kuweka alama kiotomatiki ni dai kali zaidi la uokovu wa muda — na lile linalohitaji uangalifu zaidi. [[opraise-automated-marking-ai-assessment-2026|Kiwango cha OpRaise]] kilipima miundo mitatu ya mipaka dhidi ya **insha 761 halisi za Kisaikolojia za wanafunzi wa chuo kikuu kutoka kwa wanafunzi 125 katika vyuo vitatu vya Uingereza**, ikiwa na usanidi 27 wa ilani kwa kila mfano. Makubaliano na vikanda vya uainishaji wa digrii vya binadamu vilikuwa kati ya **35% hadi 65% kwa taasisi**; alama za AI zilikusanyika kuelekea katikati hivyo insha zenye nguvu na dhaifu ziliwekwa alama kwa usahihi mdogo zaidi; miundo ilikubaliana kati yake zaidi kuliko na wanaweka alama binadamu; na hitimisho kuu la waandishi ni kwamba **ushahidi uliokusanywa katika miktadha mmoja hauhamishiki kwa mwingine**. Kuweka alama [[automated-essay-scoring|insha]] kiotomatiki kunaweza kuokoa muda, lakini ni taasisi zilizojitayarisha kuthibitisha kwa ndani na kuweka mamlaka ya mwisho na watu zinapaswa kuzitegemea. Ona [[redesign-assessment-ai-era]] kwa mwenzake wa kubuni tathmini.
+Jaribio linalotabiri hili kabla ya kutumia jioni nzima: unaweza kubainisha mahitaji kwa usahihi wa kutosha kukagua matokeo? Tiketi ya kutoka kuhusu lengo moja, ndiyo. Kama aya inamfaa mtoto fulani wa miaka tisa anayesoma miaka miwili nyuma ya darasa lake, hapana.
 
-### Waelimishaji wanakabidhi na wanakataa kukabidhi nini
+## Ipe saa iliyopatikana mahali pa kwenda
 
-[[reichert-human-centered-llm-chatbot-design-teachers-2026|Kazi ya ubuni wa washiriki na walimu sita wa sekondari]] ilipata walimu walibuni [[generative-ai|AI ya kizalishaji]] kama **"mtaalamu mwenye mipaka"** — mwenye uwezo ndani ya kikoa lililobainishwa kikali na chini ya usimamizi wa binadamu. Walikaribisha msaada wa AI katika kuwasilisha maudhui, kutoa matatizo ya mazoezi na kutoa [[feedback]] ya [[formative-assessment|kufuatilia maendeleo]], lakini **walikataa kukabidhi kuweka malengo au [[summative-assessment|tathmini]] ya [[assessment]] ya mwisho**, na walisisitiza kuwa mwalimu awe na nguvu ya kubatilisha kwa hali zisizo wazi. Mpaka huo unaonyesha mahali ambapo uokovu halisi wa muda unaisha na uhamisho usiokubalika wa hukumu ya kitaalamu unapoanza — mtihani muhimu kwa kazi yoyote unayokaribia kukabidhi, na sababu ya kuweka [[human-in-the-loop-ai|usimamizi wa binadamu]] wazi.
+Ushahidi ulio wazi zaidi kwamba akiba ni ya kweli, na kwamba haifanyi lolote yenyewe, unatoka kwenye jaribio kubwa katika shule 178 na takriban wanafunzi 19,000 wa mwaka wa mwisho wa shule ya sekondari kuhusu maoni ya insha yaliyoendeshwa na AI. Wanafunzi waliopata maoni kutoka kwenye mfumo walipata faida sawa na wanafunzi waliopimwa na watu. Wakaguzi binadamu waligharimu takriban \$0.85 kwa insha na hawakuongeza faida yoyote inayopimika juu ya hayo.
 
-## Njia halisi za kutumia AI kuokoa muda
+Katika madarasa ya AI, wanafunzi walikuwa na takriban 35% zaidi ya mazungumzo ya mtu mmoja kwa mmoja na walimu kuhusu uandishi na waliandika 30% zaidi ya insha. Masaa ya kazi ya walimu nyumbani yalipungua 20%, na sehemu iliyoripoti muda wao kama "hafifai kabisa" ilishuka kutoka 23% hadi 9%. [[learning-gains|Faida kubwa zaidi za kujifunza]] ziliangukia kwenye kazi ngumu zaidi ya uandishi, aina ambayo AI ina uwezo mdogo zaidi wa kuipima, kwa sababu mwalimu sasa alikuwa na masaa ya kuitumia.
 
-- **Andaa rasimu za nyenzo za masomo** — slaidi za rasimu ya kwanza, mikusanyiko, karatasi za kazi, au mfululizo wa mifano, unayokagua na kuhariri baadaye.
-- **Zalisha maswali ya majadiliano, jaribio la kufuatilia maendeleo, na tiketi za kutoka** kutoka kwa dokezo na masomo yako mwenyewe.
-- **Tengeneza maelezo mbadala** — eleza upya dhana kwa kiwango tofauti, kwa sitiari tofauti, au kwa hadhira tofauti.
-- **Andaa rubriki na mapendekezo ya maoni** — AI inaweza kupendekeza vigezo vya rubriki au maoni ya mapitio ya kwanza unayobinafsisha baadaye; muunganisho wa [[ai-feedback-quality|Ubora wa Maoni ya AI]] unaonya kwamba kasi na kiasi havithibitishi manufaa, hivyo weka hukumu [[pedagogy|ya mbinu za kufundisha]] iwe yako.
-- **Fupisha na tofautisha** — fupisha vyanzo virefu kuwa miongozo ya kusoma, au zalisha matoleo yaliyotofautishwa ya kazi kwa viwango mbalimbali vya utayari (kagua kwa uangalifu tofauti za lugha nyingi/elimu maalum).
-- **Andika lugha za kawaida za utawala** — matangazo, maandiko ya kawaida ya mtaala, barua za fomu, na mawasiliano.
+Tahadhari ni sentensi ya kubeba kwenye mkutano. Robo ya chini kabisa haikuonyesha uboreshaji. Wanafunzi walio nyuma zaidi hawakupata chochote kutoka kwa mwalimu aliyekuwa na nafasi zaidi tu siku yake, hivyo masaa yanaenda wapi ndiyo hoja yote, na ugawaji upya wa [[equity-in-ai-education|usawa]] unapaswa kuwa kwenye mpango tangu mwanzo badala ya kwenye mapitio ya mwisho.
 
-## Ambapo unapaswa kuwa na uangalifu
+## Pima akiba badala ya kuihisi
 
-- **Usidhani kiasi halisi cha 31% kinahamishika kwa chuo kikuu.** Namba ya 31% inatoka kwa [[science-education|ufundishaji wa sayansi]] wa K–12; somo la jumla salama zaidi ni kutumia AI kwa mapitio ya kwanza na kutumia muda wa binadamu mahali ambapo hukumu ya taaluma, mahusiano, ufasiri wa mawazo ya mwanafunzi, kipaumbele cha maoni, au maamuzi ya hatari kubwa yanamuhimu zaidi.
-- **Pengo la [[prompt-engineering|kutoa ilani]]:** walimu wengi katika utafiti hawakurudia kwa ilani za kufuatia — walichukua matokeo ya kwanza na kuyahariri kwa mkono. Kuwekeza muda kidogo katika [[ai-literacy]] na kuboresha ilani hulipa katika ubora wa matokeo.
-- **Mtego wa tathmini:** karibu nusu ya mazungumzo ya waelimishaji–AI yalihusisha tathmini, lakini baadhi yaliomba kuwekewa alama bila kubainisha rubriki au vigezo — tathmini ya AI bila mwongozo inahatarisha kutolingana na upendeleo, hivyo weka [[human-in-the-loop-ai|usimamizi wa binadamu]].
-- **Migawanyo ya usawa:** muda ulioachiliwa ni chanya halisi tu ikiwa hautatumika kwa gharama ya wanafunzi wa lugha nyingi au wanafunzi wenye ulemavu, na ikiwa wakufunzi wenye rasilimali ndogo wanaitumia kuboresha mazoezi badala ya kushika mtindo tu.
+Kuokoa muda ndilo dai ambalo walimu hukosea kuhusu wenyewe kwa kuaminika zaidi. Katika tafiti tatu zilizosajiliwa mapema na washiriki 2,691, watu walikadiria chini mara walizotumia AI na kukadiria juu muda na juhudi vilivyoookolewa, wakiripoti kazi kuwa za haraka na rahisi ilhali vipimo halisi havikuonyesha tofauti. Kutumia kifaa mapema katika kikao kulitabiri kukitumia zaidi baadaye, hivyo kosa hujilimbikiza ndani ya mchana mmoja ([[efficiency-gain-illusion-ai-overreliance]]).
+
+Kinachosaidia ni usawazishaji wa [[metacognition|kujitafakari]], na toleo la bei nafuu ni kumbukumbu. Kwa wiki mbili, andika muda wa kuanza na kumaliza kwenye kazi tatu zinazojirudia, moja ikiwa na kifaa na mbili bila. Tarajia kazi moja yenye akiba halisi kubwa, kadhaa zisizo na akiba, na mbili ambapo kifaa kiliongeza hatua ya ukaguzi iliyokula faida.
+
+Juhudi na uwezo pia hutengana. Utafiti wa ndani ya washiriki wa walimu 13 wa elimu ya juu uligundua upatikanaji wa AI ulipunguza juhudi za kiakili zilizoonekana za [[learning-design|ubunifu wa kujifunza]] kutoka wastani wa 6.33 hadi 3.33 (p = .004), ilhali mafunzo ya [[prompt-engineering|kuunda dokezo]] yaliyowekwa juu hayakuboresha ubora wa mibunifu ([[pishtari-teacher-ai-training-learning-design-2026]]). Msongo mdogo Alhamisi usiku ni faida halisi. Si ushahidi kwamba mibunifu iliboreka.
+
+## Weka malengo na alama za mwisho upande wako
+
+[[reichert-human-centered-llm-chatbot-design-teachers-2026|Kazi ya ubunifu shirikishi na walimu sita wa shule ya sekondari]] ilizalisha mpaka unaofaa kuigwa. Walibuni mfumo kama mtaalamu mwenye mipaka: mwenye uwezo ndani ya nyanja nyembamba, akifanya kazi chini ya usimamizi. Walitaka msaada wa kuwasilisha maudhui, kuzalisha matatizo ya mazoezi na kutoa [[feedback|maoni]] ya hatua, na walikataa kukabidhi upangaji wa malengo au [[assessment|tathmini]] jumlishi, wakisisti kwamba wawe na uwezo wa kubatilisha katika kesi zisizoeleweka. Walicholinda ni kiini cha [[teacher-role|jukumu la mwalimu]]: kuamua kile kinachofaa kujifunza na kuhukumu kama kilijifunzwa.
+
+Upimaji ni kazi yenye faida inayoonekana kubwa zaidi na uhamishikaji dhaifu zaidi. [[opraise-automated-marking-ai-assessment-2026|Kipimo cha OpRaise]] kiliendesha modeli tatu za mbele dhidi ya insha 761 halisi za saikolojia za shahada ya kwanza kutoka kwa wanafunzi 125 katika vyuo vikuu vitatu vya Uingereza, na mipangilio 27 ya dokezo kwa kila modeli. Makubaliano na madaraja ya shahada ya binadamu yalikuwa kati ya 35% na 65% kutegemea taasisi. Alama zilisongamana kuelekea katikati, hivyo insha imara zaidi na dhaifu zaidi zilipimwa kwa usahihi mdogo zaidi, na modeli zilikubaliana kati yao wenyewe zaidi kuliko na wakaguzi binadamu. Ugunduzi mkuu wa waandishi ni kwamba ushahidi uliokusanywa katika mazingira moja hauhamishiki hadi mengine.
+
+Unaweza kutumia [[automated-essay-scoring|upimaji wa insha kiotomatiki]] ikiwa unauthibitisha kwenye somo lako na wanafunzi wako, na ukaacha uamuzi kwa mtu. [[ai-feedback-quality|Ubora wa maoni ya AI]] unasema nini cha kukagua: kasi na kiasi si sawa na manufaa, na hukumu ya [[pedagogy|kifundisho]] kuhusu maoni gani mwanafunzi anahitaji baadaye inabaki kwako.
+
+## Wanachokosea walimu
+
+**"31% ni nambari yangu."** Ni walimu 259 wa K-12 wa [[science-education|sayansi]] kwenye maandalizi ya somo. Mwelekeo unasafiri; ukubwa hausafiri. Semina iliyojengwa juu ya majadiliano inaweza kuokoa kidogo, na kozi ya maabara yenye vikomo vya usalama inaweza kuokoa chochote kwenye sehemu uliyotaka msaada zaidi.
+
+**"Kuokoa muda ndio lengo."** Jaribio la Brazil ni mfano kinyume. Masaa yalikuja bure na robo ya chini kabisa haikupata chochote. Lengo ni kile masaa yananunua.
+
+**"Rasimu nzuri inamaanisha naweza kukabidhi hatua inayofuata pia."** Walimu sita waliweka mpaka wao kwenye malengo na hukumu jumlishi kwa sababu. Ubora kwenye tiketi ya kutoka hausemi chochote kuhusu kama kifaa kinaweza kuamua tiketi ya kutoka inapaswa kupima nini.
+
+## Kitakachokurudia
+
+**"Nilijaribu na matokeo yalikuwa ya jumla."** Walimu wengi katika utafiti walichukua tokeo la kwanza na kulihariri kwa mkono badala ya kurudia kwa dokezo la kufuatilia. Mzunguko wa pili na wa tatu unaotoa ngazi yako, usomaji wako, vipengele vyako vitatu vya mwisho vya maswali na mfano wa kile kinachofaa hubadilisha matokeo zaidi kuliko kubadilisha zana. [[ai-literacy]] ni uwekezaji wa bei nafuu, na [[prompt-engineering|uboreshaji wa dokezo]] ndipo unapolipa.
+
+**"Nikiharakisha, muda utajazwa na mikutano."** Inawezekana, na ndiyo njia ya kawaida zaidi ambayo akiba hupotea. Weka mahali pa kwenda kwa maandishi pale mwenyekiti wako anaweza kuviona, kabla nafasi haijajaa.
+
+**"Maoni ya AI huwadhulumu wanafunzi wanaohangaika zaidi."** Robo ya chini kabisa nchini Brazil haikupata chochote, na hiyo ndiyo tahadhari imara zaidi kwenye ukurasa huu. Unganisha akiba na matumizi ya kukusudia. Ongezeko la 35% la mazungumzo ya mtu mmoja kwa mmoja ni kile madarasa hayo yalifanya na masaa, na hilo lilikuwa chaguo alilofanya mwalimu.
+
+**"Upimaji ndipo masaa yangu yalipo kweli."** Ni kweli, na pia ndipo kifaa kinachohamishika kidogo zaidi kati ya taasisi. Thibitisha kienyeji au uache.
+
+**"Hili linaondoa ujuzi wa taaluma."** Matokeo ya Pishtari ni toleo la kweli: juhudi zilizoonekana zilipungua, na mafunzo yaliyoongezwa hayakuboresha ubora wa ubunifu. Juhudi iliyookolewa si uwezo uliopatikana, na mpaka wa walimu sita ni mahali pazuri pa kushikilia mstari wakati unajifunza kazi yako ipi ni ipi.
+
+## Cha kufanya wiki hii
+
+**1.** Andika kazi tano ulizofanya wiki iliyopita zilizoishia kwenye hati uliyoihariri baadaye.
+
+**2.** Chagua ile yenye mahitaji yaliyo wazi zaidi na uandike rasimu yake kwa kifaa, ukipima muda wa matoleo yote mawili.
+
+**3.** Weka muda uliopatikana kwenye nafasi iliyotajwa kwenye kalenda yako: mazungumzo na mwanafunzi, mzunguko wa pili wa maoni, au kusoma seti ya rasimu vizuri.
+
+**4.** Andika orodha yako ya yasiyokubalika na uihifadhi ionekane: malengo, alama za mwisho, kitu chochote kinachotegemea mahitaji ya mwanafunzi mmoja.
+
+**5.** Hifadhi kumbukumbu kwa wiki mbili, kisha amua kazi mbili zipi zitabaki zako daima kukabidhi.
+
+## Wapi kwenda baadaye
+
+[[ai-feedback-at-scale]] inapeleka swali la maoni mbele zaidi, na [[faculty-ai-competencies]] pamoja na [[faculty-development-ai]] vinashughulikia kile idara inaweza kujenga ili hili lisitokane na majaribio ya mtu mmoja mmoja. [[redesign-assessment-ai-era]] na [[reduce-ai-cheating]] vinashughulikia matokeo ya tathmini. [[ai-changing-teaching-workflows]] ni makala iliyo nyuma ya nambari za maandalizi, na [[human-in-the-loop-ai|usimamizi wa binadamu]] ni kanuni ambayo ukurasa huu unaitegemea.

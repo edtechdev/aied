@@ -1,7 +1,7 @@
 ---
 title: "我该如何重新设计评价，使成绩仍然能够可靠地说明学生知道什么、能做什么？"
 created: "2026-09-22T19:50:48-04:00"
-updated: "2026-10-29T09:20:28-04:00"
+updated: "2026-10-29T10:30:04-04:00"
 weight: 84
 audience: [instructors, assessment designers]
 foundations: [academic-integrity]

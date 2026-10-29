@@ -1,7 +1,7 @@
 ---
 title: "在人工智能教育研究中，报告与解读研究结果的最佳实践是什么？"
 created: "2026-09-22T19:49:15-04:00"
-updated: "2026-10-29T09:20:28-04:00"
+updated: "2026-10-29T10:30:04-04:00"
 weight: 65
 type: faq
 foundations: [limitations-in-aied-research, interpreting-and-applying-aied-research]

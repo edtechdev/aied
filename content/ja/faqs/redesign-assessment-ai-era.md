@@ -1,7 +1,7 @@
 ---
 title: "成績が、学生の知識や遂行能力について私が擁護できることをまだ教えてくれるように、評価を再設計するにはどうすればよいですか？"
 created: "2026-08-25T09:20:00-04:00"
-updated: "2026-10-29T09:26:47-04:00"
+updated: "2026-10-29T10:30:04-04:00"
 connected_faqs: [should-we-use-ai-detectors, reduce-ai-cheating, writing-instruction-ai-best-practices, course-ai-policy]
 weight: 84
 foundations: [academic-integrity]

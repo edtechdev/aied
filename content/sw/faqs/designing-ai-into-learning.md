@@ -6,10 +6,14 @@ weight: 72
 foundations: [learning-design, reducing-ai-misuse]
 pedagogy: [active-learning, pedagogy, scaffolding]
 translation_of: faqs/designing-ai-into-learning
-source_updated: "2026-10-02T08:21:34-04:00"
+source_updated: "2026-10-28T11:26:02-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-29"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-13"
@@ -18,40 +22,86 @@ ai_assist:
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
 
-# How Should AI Be Designed Into the Learning Experience?
+Anza kutoka kwa lengo la kujifunza na kutoka kwa shughuli inayolizalisha. Mfano huo huo unaweza kuwa ngazi za msaada, mwenza wa [[socratic-method|Kisokrata]], msomaji wa rasimu, [[simulation|uigaji]], au mashine ya majibu, na ni upi unaoupata inategemea ubunifu badala ya mfano. Taja hali unayojenga, weka jaribio la mwanafunzi kabla msaada wowote haujatokea, na hifadhi angalau njia moja katika kozi inayoendeshwa bila zana.
 
-**Anza na lengo la kujifunza na mchakato wa kujifunza — si kipengele cha AI.** Dhana ya hifadhi ya maarifa ya [[pedagogy|Mbinu za Kufundisha na Mkakati wa Kufunza]] inasisitiza kuwa AI ile ile inaweza kufanya kazi kama ngazi za msaada, mwenye kuzungumza wa [[socratic-method|Sokrata]], mwenzio wa maoni, [[simulation]], au mtengenezaji wa majibu, kulingana na ubuni wa mafunzo. Kilichomuhimu ni iwapo usanidi unahifadhi shughuli inayozalisha kujifunza kunakokusudiwa.
+## Toleo fupi
 
-## Muundo chaguo-msingi thabiti
+**1.** Andika sentensi kuhusu kile wanafunzi wanaweza kufanya baadaye bila zana, na hakiki kila kipengele cha AI dhidi yake.
 
-Muundo chaguo-msingi thabiti ni: **mwanafunzi hujaribu → AI inasaidia → mwanafunzi huthmini au huboresha → mwanafunzi anaonyesha ufahamu.** Kwa njia mahususi zaidi:
+**2.** Panga mwingiliano kwa mfululizo: mwanafunzi anajaribu, AI inasaidia, mwanafunzi anatathmini au anarekebisha, mwanafunzi anaonyesha.
 
-- Hifadhi [[productive-failure|kushindwa kwa uzalifaji]] (productive failure) mahali panapofaa kujifunza.
-- Uliza utabiri au suluhisho la awali kabla ya kuonyesha msaada wa AI.
-- Pendelea maswali, vidokezo, mifano, hoja za kupinga, na maoni (feedback) kuliko kukamilisha kazi papo hapo.
-- Hitaji uthibitishaji wa madai yenye matokeo makubwa.
-- Jumuisha fursa za maelezo na za [[learning-by-teaching|kufundisha-kurudia]] (teach-back).
-- Punguza polepole msaada kadri uwezo unavyokua.
-- Weka fursa kadhaa bila AI ili wanafunzi wapime kile wanachoweza kufanya peke yao.
+**3.** Taja hali kwenye ngazi ya ICAP. Kupita na kusaidia vinaweza kuwa zana moja katika ngazi tofauti.
 
-Muhtasari wa [[reducing-ai-misuse|Kupunguza Matumizi Mabaya ya AI]] unapendekeza hasa mlolongo wa fikiri-kwanza/AI-pili/kufikiri na vituo vya kutathmini vya makusudi.
+**4.** Weka AI mahali ambapo mfululizo wa kozi unakusudia shughuli mahususi, si mwishoni kama nyongeza.
 
-## Linganisha jukumu la AI na kiwango cha mahusiano ya kiakili
+**5.** Zuia zana wakati uwezo unajengeka, kisha uirudishe kwenye kituo cha ukaguzi ambacho mwanafunzi hawezi kukidanganya.
 
-[[thermomix-genai-education-analogy-2026|Ulinganifu wa mashine ya jikoni wa Rummel, Nachtigall na Panadero]] unaweka upya swali la ubuni kutoka *iwapo* wanafunzi wanatumia [[generative-ai|AI ya kizalishaji]] hadi *jinsi* matumizi hayo yanaunda kile wanachokuwa. Kuweka matumizi manne ya kifaa chenye akili cha jikoni kwenye matukio ya kujifunza kupitia miundo ya [[icap-framework|ICAP]] na [[samr-model|SAMR]] kunatoa ngazi ya ubuni: kugawiza kazi nje kabisa, bila kuboresha au [[critical-thinking|mahusiano ya kutathmini kwa njia mahususi]], ni Ubadilishaji wa Kupitisha (Passive substitution) na kina hatari ya [[cognitive-offloading|kupotea kwa ujuzi na kutegemea kupita kiasi]]; [[prompt-engineering|kuboresha ilani]] na kuthibitisha majibu kwa njia ya msalaba kunahitaji [[prior-knowledge|maarifa ya awali]] na [[self-regulated-learning|kujidhibiti]] (Active/Augmentation); kutumia AI kubuni mawazo, kuunda mpango na kutathmini kazi ya asili ni Constructive/Modification; na AI kama mwenye kuzungumza wa kweli wa ushirikiano na [[feedback]] ya kubadilika ni Interactive/Redefinition. Athari ya ubuni ni ya moja kwa moja: zana ile ile ni njia ya kupita kando katika ngazi moja na ngazi za msaada katika ngazi inayofuata, hivyo bainisha mtindo unaokusudiwa badala ya kutoa ufikiaji wa jumla.
+## Amua kile mwanafunzi anachofanya bila zana
 
-## Pangiliza ubuni, usiruhusu zana tu
+Dhana ya [[pedagogy|Mbinu za Kufundisha na Mikakati ya Kufunza]] katika hifadhi ya maarifa hutoa jaribio: je, mpangilio unahifadhi shughuli inayozalisha kujifunza kunakokusudiwa? Jibu hilo kwa karatasi, kabla mtu yeyote hajachagua kipengele.
 
-[[learning-paths-patterns-learning-design-2026|Divjak, Svetec na Horvat]] walichanganua mlolongo uliopangwa wa shughuli 29,064 za kufundisha na kujifunza katika kozi 554 na waligundua sarufi ya ubuni inayoonekana: shughuli za aina ya Upataji (Acquisition) ni sehemu ya kuingia ya kawaida zaidi na aina moja kubwa zaidi (zaidi ya 20%), aina ya kujifunza hufuatilia kiwango cha Bloom kinachokusudiwa (Upataji ukishuka kutoka ~50% katika ngazi 1 hadi ~20% katika ngazi 6, Uzalishaji ukipanda zaidi ya 20% katika viwango 5–6), na mpito wenye nguvu zaidi ni Tathmini → Majadiliano (0.332). Masomo mawili kwa ubuni wa AI: AI inafaa mahali mlolongo unakusudi aina mahususi ya shughuli badala ya kuambatanishwa mwishoni, na kwa sababu maoni yalijikusanya na [[collaborative-learning|ushirikiano]], [[group-work|kazi za kikundi]] na [[teacher-role|mwalimu]] aliyehusika, miundo ya marika na ya wakati mmoja huunda nyakati za [[feedback]] ambazo msaada wa AI unapaswa kujizuia ndani yake badala ya kuzibadilisha.
+[[finkelstein-principled-ai-education-2025|Mfumo wa Elimu ya AI yenye Kanuni]] unatoa kanuni ya jumla: teknolojia inapaswa kuongeza badala ya kuchukua nafasi ya uwezo wa binadamu ambao elimu inakusudia kuukuza. Ukiandikwa kama jaribio la moduli, hiyo inamaanisha kutaja uwezo, kutaja shughuli inayoujenga, na kuuliza kama AI inakaa ndani ya shughuli hiyo au kando yake.
 
-[[refrain-amplify-genai-curriculum-2026|Mfumo wa "jizuie, kisha ongeza" wa Torres-Sahli na wenzake]] unasukuma hili hadi ngazi ya mpango: zuia zana ya kizalishaji wakati uwezo unajengwa, kisha urejeshe mara mwanafunzi anapoweza kuuongoza, kuhukumu kile inachorudisha, na kuwajibika kwayo, ikiwa na kituo kinachogumu kuiga katika kila hatua. Vifaa vinatawaliwa na kigezo cha kujenga-dhidi-ya [[cognitive-offloading|kupunguza mzigo]] — vinaruhusiwa mahali vinaposaidia kazi inayoshirikiwa, vinakatiliwa mbali mahali yanayovuta umakini. Hii inageuza maamuzi ya kupunguza mzigo kuwa swali la [[curriculum-design|mtaala]] na la [[governance]] linalotangulia, badala ya kufuata, ubuni wa ngazi ya kozi.
+## Weka jaribio kabla ya msaada
 
-## Mlinganyo wa kuunda unakuja kwanza
+Mpango chaguo-msingi unaostahimili kukutana na darasa halisi: **mwanafunzi anajaribu, AI inasaidia, mwanafunzi anatathmini au anarekebisha, mwanafunzi anaonyesha ufahamu.**
 
-[[mcinnes-salvaging-constructive-alignment-genai-2026|Uchanganuzi wa mazungumzo ya McInnes na wenzake]] wa vipande 14 vya miongozo ya elimu ya juu unaonya kuwa ushauri uliojaa ufanisi — kutumia AI ya kizalishaji kutunga matokeo, rubriki na mipango ya kozi — unazalisha ulinganifu unaoonekana *umelingana* huku ukipuuza nusu ya "constructive": matokeo, shughuli na [[assessment]] zilizozalishwa kama vipengele vilivyotengwa badala ya vinavyotegemeana. Tiba yao ni kupanga upya mlolongo, si zuio: waelimishaji wanapaswa kuelewa mlinganyo wa kuunda vizuri vya kutosha ili kuongoza, kuchunguza na kukataa matokeo ya AI kabla ya kugawa sehemu yoyote yake, kwa sababu tabia ya kukubali kwa uso kulingana na uwezekano ni kushindwa huko huko huo ambao waalimu wanawaonya wanafunzi dhidi yake. Mahali AI inatumika, wanadai mifumo iliyowekwa mipaka na taasisi, [[rag|iliyoongozwa na urejeshaji]] (retrieval-augmented) iliyosanidiwa kuzunguka sera ya mahali pa kazi na viwango vya ubora badala ya chaguomsingi za msingi za mtandao wa jumla.
+Kivitendo hiyo inamaanisha kuomba utabiri au suluhisho la awali kabla msaada wowote haujatokea, na kupendelea maswali, vidokezo, mifano, hoja pinzani na [[feedback|maoni]] badala ya kukamilisha papo hapo. Hifadhi [[productive-failure|kushindwa kwa tija]] pale kunaposaidia kujifunza. Hitaji uthibitishaji wa madai yenye matokeo makubwa, jenga maelezo na [[learning-by-teaching|kufundisha-kurudia]], na punguza msaada uwezo unapokua. Hifadhi kazi isiyo na AI ili wanafunzi waweze kusawazisha kile wanachoweza kufanya peke yao.
 
-## Kanuni pana zaidi
+Muhtasari wa [[reducing-ai-misuse|Kupunguza Matumizi Mabaya ya AI]] unapendekeza umbo hilo hilo kama mfululizo wa fikiri kwanza, AI baadaye, tafakari, pamoja na vituo vya ukaguzi vya tathmini kwa makusudi.
 
-Kanuni pana zaidi katika [[finkelstein-principled-ai-education-2025|Mfumo wa Elimu ya AI yenye Kanuni]] ni kwamba teknolojia inapaswa kuongeza uwezo wa binadamu ambao elimu inakusudiwa kuendeleza, badala ya kuuchukua nafasi yake. Angalia pia [[learning-design|Ubuni wa Mafunzo]], [[active-learning|Kujifunza kwa Shughuli]] na [[scaffolding]].
+## Taja hali unayoiunda kwa ajili yake
 
-Kwa chaguo-msingi za kielimu zinazoamua iwapo mwingiliano uliobuniwa unahifadhi kujifunza, angalia [[reduce-ai-cheating]] na [[redesign-assessment-ai-era]]; kwa jinsi kanuni hizo zile zinavyozuia programu yenyewe, angalia [[designing-educational-ai-software]], na kwa tafsiri yao katika usanifu wa mwalimu wa AI, angalia [[developing-ai-tutor]].
+[[thermomix-genai-education-analogy-2026|Ulinganifu wa mashine ya jikoni wa Rummel, Nachtigall na Panadero]] unabadilisha swali kutoka kama wanafunzi wanatumia [[generative-ai|AI ya kizalishaji]] hadi jinsi matumizi hayo yanavyounda kile wanachokuwa. Ukiwekwa kwenye [[icap-framework|ICAP]] na [[samr-model|SAMR]], unatoa ngazi. Kuhamisha kazi yote bila marekebisho au [[critical-thinking|ushiriki mahususi]] ni ubadilishaji wa Kipasi, na kunahatarisha [[cognitive-offloading|kupoteza ujuzi na kutegemea kupita kiasi]]. [[prompt-engineering|Kuboresha ilani]] na kuhakiki matokeo kunahitaji [[prior-knowledge|maarifa ya awali]] na [[self-regulated-learning|kujidhibiti]], ambayo ni Hai au Ongezeko. Kutumia AI kuzalisha mawazo, kuandaa muhtasari na kutathmini kazi halisi ni Ujenzi au Marekebisho. AI kama mwenza halisi wa mazungumzo kwa ujenzi wa pamoja na maoni yanayobadilika ni Mwingiliano au Ufafanuzi Mpya.
+
+Maana yake ni ya moja kwa moja. Zana hiyo hiyo ni njia ya kupita katika ngazi moja na [[scaffolding|msaada]] katika inayofuata, kwa hiyo hati ya ubunifu inapaswa kutaja hali inayokusudiwa.
+
+## Weka mahali ambapo mfululizo unakusudia shughuli
+
+[[learning-paths-patterns-learning-design-2026|Divjak, Svetec na Horvat]] walichanganua mfululizo uliopangwa wa shughuli 29,064 za kufundisha na kujifunza katika kozi 554 na wakagundua sarufi ya ubunifu inayoonekana. Shughuli za aina ya upatikanaji ndizo mahali pa kuingia penye kawaida zaidi na aina moja kubwa zaidi, zaidi ya 20%. Aina ya kujifunza hufuata kiwango cha Bloom kinachokusudiwa, huku Upatikanaji ukishuka kutoka takriban 50% katika kiwango cha 1 hadi takriban 20% katika kiwango cha 6 na Uzalishaji ukiongezeka zaidi ya 20% katika viwango vya 5 na 6. Mabadiliko yenye nguvu zaidi katika data ni kutoka Tathmini hadi Majadiliano, kwa 0.332.
+
+Masomo mawili yanafuata kwa ubunifu wa AI. Weka zana mahali ambapo mfululizo unakusudia aina ya shughuli. Na kwa sababu maoni yalijikita pamoja na [[collaborative-learning|ushirikiano]], [[group-work|kazi za kikundi]] na uwepo wa [[teacher-role|mwalimu]], miundo ya wenzao na ya wakati mmoja ndiko msaada wa AI unapaswa kuingizwa, si mahali unapaswa kuchukua nafasi.
+
+## Amua kile cha kuzuia, na lini cha kurudisha
+
+[[refrain-amplify-genai-curriculum-2026|Mfumo wa "jizuie, kisha ongeza" wa Torres-Sahli na wenzake]] unahamisha hili kwenda ngazi ya programu. Zuia zana ya kizalishaji wakati uwezo unajengeka, kisha uirudishe mara mwanafunzi anapoweza kuiongoza, kuhukumu kile inachorudisha, na kujibu kwa ajili yake, na kituo cha ukaguzi kigumu kudanganya katika kila pingu.
+
+Vifaa vinaongozwa na kigezo cha kujenga dhidi ya [[cognitive-offloading|uhamishaji]]: vinaruhusiwa pale vinaposaidia kazi ya kujituma, vinaachwa pale vinapovuta umakini. Hiyo inabadilisha maamuzi ya uhamishaji kuwa swali la [[curriculum-design|mtaala]] na [[governance|utawala]] linalokuja kabla ya ubunifu wa ngazi ya kozi badala ya baada yake.
+
+## Hakiki kwamba upatanisho ni wa kweli
+
+[[mcinnes-salvaging-constructive-alignment-genai-2026|Uchanganuzi wa mazungumzo wa McInnes na wenzake]] wa vipande 14 vya mwongozo wa elimu ya juu unaonya kwamba ushauri uliowekwa kwa mtazamo wa ufanisi, kama kutumia AI ya kizalishaji kuandika matokeo, rubriki na muhtasari wa kozi, huzalisha [[assessment|upatanisho]] unaoonekana umepatana huku ukiacha nusu ya ujenzi. Matokeo, shughuli na tathmini huzalishwa kama vitu tofauti badala ya vitu vinavyotegemeana.
+
+Dawa yao ni kupanga upya mfululizo. Waelimishaji wanapaswa kuelewa upatanisho wa kujenga vya kutosha kuongoza, kuhoji na kukataa matokeo ya AI kabla ya kuhamisha sehemu yoyote yake, kwa sababu kukubali uso unaoonekana kuwa wa kweli ni kushindwa hicho hicho cha tathmini ambacho wakufunzi huwaonya wanafunzi dhidi yake. Pale AI inatumiwa, wanapendekeza mifumo iliyowekewa mipaka na taasisi, [[rag|iliyoongozwa na urejeshaji]], iliyoundwa kuzunguka sera za ndani na viwango vya ubora badala ya chaguo-msingi za jumla zilizofunzwa kwa mtandao.
+
+## Kile wabunifu wa mafunzo wanakosea
+
+Kuongeza AI kunahesabika kama uingiliaji. Kinachobadilisha kujifunza ni shughuli ambayo mwanafunzi anafanya, na AI ni sehemu moja ya mazingira yake. Kidokezo kilichowekwa vizuri na jibu lililowekwa vizuri vinaweza kuendeshwa kwenye mfano huo huo na kuzalisha kujifunza kinyume.
+
+Kuandika ruhusa ndiyo kazi ya ubunifu. Ruhusa huweka kile kinachoruhusiwa. Haiweki mfululizo, hali, au kituo cha ukaguzi, na hivyo vitatu ndivyo vinavyoamua kama shughuli inastahimili.
+
+Ufanisi ni lengo la ubunifu upya. Kuandika matokeo na rubriki kwa mfano ni haraka, na uchanganuzi wa hati 14 uligundua matokeo yanaweza kuonekana yamepatana huku sehemu zikiacha kuungana.
+
+## Kile kitakachokuja kwako
+
+**"Wanafunzi wataitumia hata hivyo, kwa hiyo kubuni kuzunguka hilo ni ujinga."** Watatumia, na hiyo ndiyo hoja ya kutaja hali na kuifundisha. Moduli inayotaja hali inampa mwanafunzi kitu cha kufuata.
+
+**"Hatuna muda wa kupanga upya kozi nzima."** Basi panga upya moduli moja na tathmini moja. Pingu ya jizuie-kisha-ongeza ni kituo kimoja cha ukaguzi, na mfululizo wa fikiri kwanza ni maagizo matatu kwenye karatasi ya maelekezo.
+
+**"Kipengele chetu cha AI tayari kina ulinzi."** Ulinzi huzuia kile mfano unasema. Hauamui kama mwanafunzi alijaribu kwanza, kama msaada unapungua, au kama njia isiyo na AI ipo. Hizo ni maamuzi ya ubunifu katika kozi yako, si mipangilio katika bidhaa.
+
+## Fanya hivi wiki hii
+
+**1.** Andika sentensi ya utendaji bila msaada kwa moduli na uiweke juu ya orodha ya shughuli.
+
+**2.** Weka alama ya hali ya ICAP inayokusudiwa kando ya kila shughuli ya AI katika muhtasari.
+
+**3.** Hamisha shughuli moja ya AI ili mwanafunzi ajaribu tatizo kwanza.
+
+**4.** Chagua njia moja isiyo na AI katika moduli na uiwekee wanafunzi lebo.
+
+**5.** Taja pingu moja ambapo zana inazuiwa, na kituo cha ukaguzi kinachoirudisha.
+
+## Wapi kwenda baadaye
+
+[[learning-design|Ubuni wa Mafunzo]], [[active-learning|Kujifunza kwa Shughuli]] na [[scaffolding]] hubeba msamiati wa ubunifu. Kwa chaguo-msingi za ngazi ya mwingiliano zinazoamua kama shughuli iliyoundwa inahifadhi kujifunza, ona [[reduce-ai-cheating]] na [[redesign-assessment-ai-era]]. [[designing-educational-ai-software]] inashughulikia jinsi kanuni hizo hizo zinavyoweka mipaka kwa programu yenyewe, na [[developing-ai-tutor]] inazitafsiri kuwa muundo wa mwalimu wa AI.

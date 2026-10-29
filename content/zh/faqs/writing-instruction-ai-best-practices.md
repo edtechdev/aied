@@ -1,7 +1,7 @@
 ---
 title: "在人工智能语境下，写作教学的最佳实践是什么？"
 created: "2026-09-22T19:41:09-04:00"
-updated: "2026-10-29T09:20:28-04:00"
+updated: "2026-10-29T10:30:04-04:00"
 foundations: [academic-integrity, cognitive-offloading]
 assessment: [ai-feedback-quality, assessment-validity, evaluative-judgment, feedback-literacy, peer-assessment]
 ethics: [ai-use-disclosure, multilingual-learning]

@@ -1,7 +1,7 @@
 ---
 title: "私たちの専門分野において、AI が学習支援をより上手く行えるようにするにはどうすればよいでしょうか？"
 created: "2026-10-10T23:04:28-04:00"
-updated: "2026-10-29T09:26:47-04:00"
+updated: "2026-10-29T10:30:04-04:00"
 connected_faqs: [training-ai-tutors-to-guide-rather-than-answer, checking-whether-educational-ai-works, developing-ai-tutor, designing-educational-ai-software]
 weight: 74
 type: faq

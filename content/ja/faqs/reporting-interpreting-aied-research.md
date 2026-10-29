@@ -1,7 +1,7 @@
 ---
 title: "教育分野のAIの研究を報告し解釈する上でのベストプラクティスは何でしょうか。"
 created: "2026-10-10T23:07:06-04:00"
-updated: "2026-10-29T09:26:47-04:00"
+updated: "2026-10-29T10:30:04-04:00"
 connected_faqs: [checking-whether-educational-ai-works, research-gaps-aied, evaluating-ai-interventions-methods]
 weight: 65
 type: faq

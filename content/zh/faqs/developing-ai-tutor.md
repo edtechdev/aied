@@ -1,7 +1,7 @@
 ---
 title: "开发有效的人工智能导师有哪些最佳实践？"
 created: "2026-09-22T19:52:49-04:00"
-updated: "2026-10-29T09:20:28-04:00"
+updated: "2026-10-29T10:30:04-04:00"
 weight: 74
 audience: [educational technology developers, software developers, instructional designers]
 type: faq
