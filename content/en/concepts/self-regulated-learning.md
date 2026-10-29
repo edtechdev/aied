@@ -2,7 +2,7 @@
 connected_resources: [process-feedback]
 title: Self-Regulated Learning
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-10-28T19:24:33-04:00"
+updated: "2026-10-29T19:16:33-04:00"
 type: concept
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
 technology: [generative-ai, llm, personalized-learning]
@@ -131,6 +131,10 @@ For example:
 
 - **Structure, not AI alone, drives SRL gains.** Mapping Zimmerman's phases onto project-based hybrid instruction with AI as [[scaffolding|metacognitive scaffolding]] produced an N-Gain of 0.72 versus 0.28 for conventional instruction (t = 8.47, p < 0.001, [[ai-project-hybrid-learning-self-regulated-2026|Priyambudi et al. (2026)]]), who argue AI strengthens self-regulation only inside task structure — unstructured use risks metacognitive laziness.
 
+- **AI speed can displace the peer dialogue that carries co-regulation.** Coding 28,123 forum sentences across four graduate courses, one human-only and two with heavy AI TA use, [[davis-ai-ta-forum-peer-co-regulation-2026|Davis et al. (2026)]] found the AI TA was first responder in 97% of student-started assignment threads, with a median 0.92 minutes to its reply against 490 when a peer replied first. Thread starts were unchanged (p = .73) but reply posts fell from 18.2 to 10.9 per student (p < .001), and peer repliers' share of follow-up sentences dropped from 91% to 45% between semester halves.
+
+- **The resulting SRL decline is compositional.** Because peer repliers supply about 70% SRL-coded sentences against 20 to 27% for thread starters, aggregate regulatory language fell from 49% to 36% (p < .001). Each role's own rate held steady, so the drop reflects who was writing rather than a change in how individuals write. Self-regulation still predicted grade (β = 2.63, p = .017), and peer replies moderated that relationship (β = 1.45, p = .013). The grade penalty attached to AI-dominated threads (β ≈ −1.38, p = .038) then vanished once 17 high self-regulators were removed (β ≈ −1.29, p = .454), which the authors read as the cost running through lost co-regulation rather than through the AI directly. It is observational, so the mechanism stays unproven.
+
 - **Emotional scaffolding moves trace-measured SRL phases that cognitive scaffolding alone does not, and self-report barely sees it.** A preregistered experiment with 144 high school students compared plain ChatGPT, an SRL-scaffolding agent and an emotional version that asked about feelings at three points and adapted tone and challenge along control-value lines. Trace coding found large condition effects in all three phases (ε2 = 0.44 forethought, 0.34 performance, 0.34 self-reflection). SRL prompts alone lifted goal setting and planning to the emotional version's level, while the emotional layer added more performance-phase activity (r = 0.22) and self-reflection (r = 0.31). Self-reported SRL separated the conditions only in the performance phase; trace-self-report correlations were 0.313 there, 0.22 for forethought and 0.04 for self-reflection. The authors read the trace differences as co-regulated enactment rather than independent regulatory capacity ([[diordiev-emotional-scaffolding-genai-srl-2026|Diordiev, Stenberdt & Makransky, 2026]]).
 
 ## LLM-Mediated SRL: Scaffold, Shortcut, or Partner?
@@ -241,3 +245,4 @@ Which support is in play decides which mediator carries the association: among 3
 - [[genai-srl-l2-writing-scale-2026]] — A validated six-dimension GenAI-SRL scale for L2 writing, with environmental regulation as its own dimension and a 12-item ant-colony-optimized short form
 - [[borchers-srl-language-generalization-2025]] — Large Language Models Generalize SRL Prediction to New Languages Within But Not Between Domains (Borchers et al. 2025)
 - [[ai-project-hybrid-learning-self-regulated-2026]] — A Project-Based Hybrid Learning Model Using Artificial Intelligence to Enhance Students' Self-Regulated Learning
+- [[davis-ai-ta-forum-peer-co-regulation-2026]] — An AI TA as first responder displaced peer replies, and with them the co-regulation that amplified the grade value of self-regulation (Davis et al. 2026)
