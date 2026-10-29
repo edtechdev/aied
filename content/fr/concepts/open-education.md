@@ -1,7 +1,7 @@
 ---
 title: "Éducation ouverte"
 created: "2026-10-28T20:30:00-04:00"
-updated: "2026-10-28T21:15:00-04:00"
+updated: "2026-10-28T23:20:00-04:00"
 type: concept
 technology: [open-source, generative-ai]
 pedagogy: [active-learning, collaborative-learning]
@@ -33,7 +33,7 @@ ai_assist:
 - Une ressource peut être ouverte par sa licence et fermée en pratique : le fichier se télécharge, mais le cours qui l'entoure suppose un laboratoire, une langue ou une connexion dont les étudiants ne disposent pas. Quelle ouverture mesurez-vous lorsque vous rendez compte de l'adoption ?
 - La pédagogie ouverte demande aux étudiants de publier leur travail. À qui appartient ce qu'un étudiant produit avec un outil génératif, qui consent à sa diffusion, et qui supporte le coût lorsqu'il est erroné ?
 - La littératie en IA des enseignants prédit la pratique d'enseignement ouverte, mais la relation s'affaiblit à mesure que le soutien institutionnel augmente. Qu'implique cette inversion pour des programmes de formation bâtis sur l'hypothèse que le soutien ne peut qu'aider ?
-- Si un texte généré par IA n'est pas protégeable par le droit d'auteur, un manuel écrit par une machine est-il automatiquement ouvert, et qu'est-ce que cela change au plaidoyer pour le financement public des REO ?
+- Si un texte généré par IA n'est pas protégeable par le droit d'auteur, un manuel écrit par une machine est-il automatiquement ouvert, et qu'est-ce que cela change au plaidoyer pour le financement public des ressources éducatives ouvertes ?
 
 ## Introduction
 
@@ -45,7 +45,7 @@ La littérature de l'ère de l'IA rassemblée dans cette base de connaissances p
 
 ### Ce que recouvre réellement l'ouverture
 
-Une ressource éducative ouverte est un contenu publié sous une licence qui autorise la réutilisation, la révision, le remixage et la redistribution. Tout le reste du champ découle de cette autorisation et de l'obligation d'en attribuer la paternité. [[gonzalez-miy-active-learning-mentoring-ai-oer-2026|González Miy (2026)]] montre cette obligation à l'œuvre dans un petit projet : onze participants travaillant en ligne pendant deux semaines ont produit un site de six pages, un agent conversationnel, un manuel et cinq tutoriels vidéo publiés sous CC BY-NC-SA, et l'ensemble a obtenu un score élevé en transparence mais seulement moyen en licence, reproductibilité, adaptabilité et accessibilité. Ouvert de nom, partiellement ouvert à l'usage.
+Une ressource éducative ouverte (REO) est un contenu publié sous une licence qui autorise la réutilisation, la révision, le remixage et la redistribution. Tout le reste du champ découle de cette autorisation et de l'obligation d'en attribuer la paternité. [[gonzalez-miy-active-learning-mentoring-ai-oer-2026|González Miy (2026)]] montre cette obligation à l'œuvre dans un petit projet : onze participants travaillant en ligne pendant deux semaines ont produit un site de six pages, un agent conversationnel, un manuel et cinq tutoriels vidéo publiés sous CC BY-NC-SA, et l'ensemble a obtenu un score élevé en transparence mais seulement moyen en licence, reproductibilité, adaptabilité et accessibilité. Ouvert de nom, partiellement ouvert à l'usage.
 
 La littérature sur les licences est granulaire parce que les défaillances le sont. [[ryu-developing-ai-literacy-oer-2026|Ryu (2026)]] construit une grille de sept principes pour évaluer des ressources de littératie en IA sous licence ouverte, à partir d'un corpus raisonné de seize articles centraux, de dix-sept articles complémentaires et de trente-six références ciblées. [[atenas-oer-digital-public-goods-2026|Atenas, Farrow, Caldwell, Costello et Havemann (2026)]] soutiennent que l'unité de gouvernance devrait passer de la ressource à l'infrastructure qui l'héberge : un commun de fichiers isolés sans plateforme maintenue relève de la fragmentation, non du commun.
 

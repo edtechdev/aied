@@ -1,7 +1,7 @@
 ---
 title: "Educación abierta"
 created: "2026-10-28T20:30:00-04:00"
-updated: "2026-10-28T21:15:00-04:00"
+updated: "2026-10-28T23:20:00-04:00"
 type: concept
 technology: [open-source, generative-ai]
 pedagogy: [active-learning, collaborative-learning]
@@ -33,7 +33,7 @@ ai_assist:
 - Un recurso puede ser abierto por licencia y cerrado en la práctica: el archivo se descarga, pero el curso presupone un laboratorio, un idioma o una conexión de la que el estudiantado no dispone. ¿Qué apertura está midiendo cuando informa de la adopción?
 - La pedagogía abierta pide al estudiantado que publique su trabajo. ¿Quién es dueño de lo que un estudiante produce con una herramienta generativa, quién consiente su publicación y quién asume el coste cuando está mal?
 - La alfabetización del profesorado en IA predice la práctica docente abierta, pero la relación se debilita a medida que crece el apoyo institucional. ¿Qué implica esa inversión para los programas de formación construidos sobre el supuesto de que el apoyo solo ayuda?
-- Si el texto generado por IA no es objeto de derecho de autor, ¿es automáticamente abierto un manual escrito por una máquina, y qué le hace eso al argumento a favor de la financiación pública de los REA?
+- Si el texto generado por IA no es objeto de derecho de autor, ¿es automáticamente abierto un manual escrito por una máquina, y qué le hace eso al argumento a favor de la financiación pública de los recursos educativos abiertos?
 
 ## Introducción
 
@@ -45,7 +45,7 @@ La literatura de la era de la IA en esta base de conocimiento trata de tres cosa
 
 ### Qué cubre realmente la apertura
 
-Un recurso educativo abierto es contenido publicado bajo una licencia que permite la reutilización, la revisión, la remezcla y la redistribución. Todo lo demás en el campo es aguas abajo de ese permiso y de la obligación de atribución. [[gonzalez-miy-active-learning-mentoring-ai-oer-2026|González Miy (2026)]] muestra esa obligación en un proyecto pequeño: once participantes que trabajaron en línea dos semanas produjeron un sitio de seis páginas, un chatbot, un manual y cinco videotutoriales, publicados bajo CC BY-NC-SA, y el paquete obtuvo una puntuación alta en transparencia y solo media en licenciamiento, replicabilidad, adaptabilidad y accesibilidad. Abierto de nombre, parcialmente abierto en el uso.
+Un recurso educativo abierto (REA) es contenido publicado bajo una licencia que permite la reutilización, la revisión, la remezcla y la redistribución. Todo lo demás en el campo es aguas abajo de ese permiso y de la obligación de atribución. [[gonzalez-miy-active-learning-mentoring-ai-oer-2026|González Miy (2026)]] muestra esa obligación en un proyecto pequeño: once participantes que trabajaron en línea dos semanas produjeron un sitio de seis páginas, un chatbot, un manual y cinco videotutoriales, publicados bajo CC BY-NC-SA, y el paquete obtuvo una puntuación alta en transparencia y solo media en licenciamiento, replicabilidad, adaptabilidad y accesibilidad. Abierto de nombre, parcialmente abierto en el uso.
 
 La literatura sobre licencias es granular porque los fallos son granulares. [[ryu-developing-ai-literacy-oer-2026|Ryu (2026)]] construye una rúbrica de siete principios para revisar material de alfabetización en IA con licencia abierta, a partir de un corpus intencional de dieciséis artículos centrales, diecisiete adicionales y treinta y seis referencias específicas. [[atenas-oer-digital-public-goods-2026|Atenas, Farrow, Caldwell, Costello y Havemann (2026)]] sostienen que la unidad de gobernanza debería pasar del recurso a la infraestructura que lo aloja, pues un procomún de archivos sueltos sin plataforma mantenida es un problema de fragmentación, no un procomún.
 
