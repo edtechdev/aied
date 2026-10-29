@@ -118,6 +118,7 @@
 - [인간 개입](https://edtechdev.github.io/aied/concepts/human-in-the-loop-ai/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
 - [학습 분석](https://edtechdev.github.io/aied/concepts/learning-analytics/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
 - [기술 수용 모형](https://edtechdev.github.io/aied/concepts/technology-acceptance-model/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [개방형 교육](https://edtechdev.github.io/aied/concepts/open-education/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
 - [오픈 소스](https://edtechdev.github.io/aied/concepts/open-source/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
 - [교육공학 플랫폼](https://edtechdev.github.io/aied/concepts/edtech-platform/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
 - [학문 분야별 AI 교육](https://edtechdev.github.io/aied/concepts/discipline-specific-aied/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -149,7 +150,7 @@
 - [성인 학습](https://edtechdev.github.io/aied/concepts/adult-learning/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
 - [직업 교육 및 훈련](https://edtechdev.github.io/aied/concepts/vocational-education/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
 - [특수 교육](https://edtechdev.github.io/aied/concepts/special-education/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
-- [전문성 개발](https://edtechdev.github.io/aied/concepts/teacher-education/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
+- [교사 교육](https://edtechdev.github.io/aied/concepts/teacher-education/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
 - [교육의 수준](https://edtechdev.github.io/aied/concepts/education-levels/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
 - [평가](https://edtechdev.github.io/aied/concepts/assessment/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
 - [평가적 판단](https://edtechdev.github.io/aied/concepts/evaluative-judgment/): *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*

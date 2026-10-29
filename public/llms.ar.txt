@@ -118,6 +118,7 @@
 - [الذكاء الاصطناعي بمشاركة الإنسان](https://edtechdev.github.io/aied/concepts/human-in-the-loop-ai/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
 - [تحليلات التعلّم](https://edtechdev.github.io/aied/concepts/learning-analytics/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
 - [نماذج تبني التقنية](https://edtechdev.github.io/aied/concepts/technology-acceptance-model/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [التعليم المفتوح](https://edtechdev.github.io/aied/concepts/open-education/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
 - [المصدر المفتوح](https://edtechdev.github.io/aied/concepts/open-source/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
 - [منصة التكنولوجيا التعليمية](https://edtechdev.github.io/aied/concepts/edtech-platform/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
 - [الذكاء الاصطناعي في التعليم في المجالات الدراسية](https://edtechdev.github.io/aied/concepts/discipline-specific-aied/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -149,7 +150,7 @@
 - [متعلّمو الكبار](https://edtechdev.github.io/aied/concepts/adult-learning/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
 - [التعليم والتدريب المهني](https://edtechdev.github.io/aied/concepts/vocational-education/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
 - [التربية الخاصة](https://edtechdev.github.io/aied/concepts/special-education/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
-- [التطوير المهني](https://edtechdev.github.io/aied/concepts/teacher-education/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [إعداد المعلمين](https://edtechdev.github.io/aied/concepts/teacher-education/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
 - [مراحل التعليم](https://edtechdev.github.io/aied/concepts/education-levels/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
 - [التقويم](https://edtechdev.github.io/aied/concepts/assessment/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
 - [الحكم التقييمي](https://edtechdev.github.io/aied/concepts/evaluative-judgment/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*

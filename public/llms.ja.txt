@@ -118,6 +118,7 @@
 - [ヒューマン・イン・ザ・ループ](https://edtechdev.github.io/aied/concepts/human-in-the-loop-ai/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
 - [ラーニングアナリティクス](https://edtechdev.github.io/aied/concepts/learning-analytics/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
 - [技術受容モデル](https://edtechdev.github.io/aied/concepts/technology-acceptance-model/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
+- [オープンな教育](https://edtechdev.github.io/aied/concepts/open-education/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
 - [オープンソース](https://edtechdev.github.io/aied/concepts/open-source/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
 - [エドテック・プラットフォーム](https://edtechdev.github.io/aied/concepts/edtech-platform/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
 - [各学問分野における AIEd](https://edtechdev.github.io/aied/concepts/discipline-specific-aied/): *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*

@@ -118,6 +118,7 @@
 - [Binadamu Katika Mzunguko](https://edtechdev.github.io/aied/concepts/human-in-the-loop-ai/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
 - [Takwimu za Kujifunza](https://edtechdev.github.io/aied/concepts/learning-analytics/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
 - [Miundo ya Kupokea Teknolojia](https://edtechdev.github.io/aied/concepts/technology-acceptance-model/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Elimu Huria](https://edtechdev.github.io/aied/concepts/open-education/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
 - [Chanzo Huria](https://edtechdev.github.io/aied/concepts/open-source/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
 - [Jukwaa la Elimu ya Kidijitali](https://edtechdev.github.io/aied/concepts/edtech-platform/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
 - [AIEd katika Taaluma](https://edtechdev.github.io/aied/concepts/discipline-specific-aied/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -149,7 +150,7 @@
 - [Wanafunzi Wazima](https://edtechdev.github.io/aied/concepts/adult-learning/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
 - [Elimu ya Ufundi na Mafunzo](https://edtechdev.github.io/aied/concepts/vocational-education/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
 - [Elimu Maalum](https://edtechdev.github.io/aied/concepts/special-education/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
-- [Maendeleo ya Kitaaluma](https://edtechdev.github.io/aied/concepts/teacher-education/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+- [Elimu ya walimu](https://edtechdev.github.io/aied/concepts/teacher-education/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
 - [Viwango vya Elimu](https://edtechdev.github.io/aied/concepts/education-levels/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
 - [Tathmini](https://edtechdev.github.io/aied/concepts/assessment/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
 - [Hukumu ya Kutathmini](https://edtechdev.github.io/aied/concepts/evaluative-judgment/): *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*

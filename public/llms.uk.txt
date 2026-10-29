@@ -118,6 +118,7 @@
 - [Людина в циклі](https://edtechdev.github.io/aied/concepts/human-in-the-loop-ai/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
 - [Аналітика навчання](https://edtechdev.github.io/aied/concepts/learning-analytics/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
 - [Моделі прийняття технологій](https://edtechdev.github.io/aied/concepts/technology-acceptance-model/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Відкрита освіта](https://edtechdev.github.io/aied/concepts/open-education/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
 - [Відкритий код](https://edtechdev.github.io/aied/concepts/open-source/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
 - [Платформа EdTech](https://edtechdev.github.io/aied/concepts/edtech-platform/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
 - [AIEd в дисциплінах](https://edtechdev.github.io/aied/concepts/discipline-specific-aied/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -149,7 +150,7 @@
 - [Дорослі здобувачі](https://edtechdev.github.io/aied/concepts/adult-learning/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
 - [Професійно-технічна освіта та навчання](https://edtechdev.github.io/aied/concepts/vocational-education/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
 - [Спеціальна освіта](https://edtechdev.github.io/aied/concepts/special-education/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
-- [Професійний розвиток](https://edtechdev.github.io/aied/concepts/teacher-education/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
+- [Педагогічна освіта](https://edtechdev.github.io/aied/concepts/teacher-education/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
 - [Рівні освіти](https://edtechdev.github.io/aied/concepts/education-levels/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
 - [Оцінювання](https://edtechdev.github.io/aied/concepts/assessment/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
 - [Оцінювальний розсуд](https://edtechdev.github.io/aied/concepts/evaluative-judgment/): *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*

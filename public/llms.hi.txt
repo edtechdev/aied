@@ -55,7 +55,7 @@
 - [सामाजिक-सांस्कृतिक अधिगम](https://edtechdev.github.io/aied/concepts/sociocultural-learning/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
 - [वितरित संज्ञान](https://edtechdev.github.io/aied/concepts/distributed-cognition/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
 - [स्थिति-आधारित शिक्षण (Situated Learning)](https://edtechdev.github.io/aied/concepts/situated-learning/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
-- [अधिष्ठित शिक्षा](https://edtechdev.github.io/aied/concepts/embodied-learning/): यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।
+- [अधिष्ठित शिक्षा](https://edtechdev.github.io/aied/concepts/embodied-learning/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
 - [जाँच-जिज्ञासा का समुदाय (Community of Inquiry)](https://edtechdev.github.io/aied/concepts/community-of-inquiry/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
 - [स्व-नियंत्रित अधिगम](https://edtechdev.github.io/aied/concepts/self-regulated-learning/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
 - [स्वनिर्धारण सिद्धांत](https://edtechdev.github.io/aied/concepts/self-determination-theory/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -118,6 +118,7 @@
 - [मानव-लूप-में](https://edtechdev.github.io/aied/concepts/human-in-the-loop-ai/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
 - [लर्निंग एनालिटिक्स](https://edtechdev.github.io/aied/concepts/learning-analytics/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
 - [तकनीक अपनाने के मॉडल](https://edtechdev.github.io/aied/concepts/technology-acceptance-model/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [ओपन शिक्षा](https://edtechdev.github.io/aied/concepts/open-education/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
 - [ओपन सोर्स](https://edtechdev.github.io/aied/concepts/open-source/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
 - [एडटेक प्लेटफ़ॉर्म](https://edtechdev.github.io/aied/concepts/edtech-platform/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
 - [विषयों में AIEd](https://edtechdev.github.io/aied/concepts/discipline-specific-aied/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -149,7 +150,7 @@
 - [वयस्क शिक्षार्थी](https://edtechdev.github.io/aied/concepts/adult-learning/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
 - [व्यावसायिक शिक्षा और प्रशिक्षण](https://edtechdev.github.io/aied/concepts/vocational-education/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
 - [विशेष शिक्षा](https://edtechdev.github.io/aied/concepts/special-education/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
-- [व्यावसायिक विकास](https://edtechdev.github.io/aied/concepts/teacher-education/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
+- [शिक्षक शिक्षा](https://edtechdev.github.io/aied/concepts/teacher-education/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
 - [शिक्षा के स्तर](https://edtechdev.github.io/aied/concepts/education-levels/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
 - [मूल्यांकन](https://edtechdev.github.io/aied/concepts/assessment/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
 - [मूल्यांकनात्मक निर्णय](https://edtechdev.github.io/aied/concepts/evaluative-judgment/): *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*

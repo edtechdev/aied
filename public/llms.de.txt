@@ -118,6 +118,7 @@
 - [Human-in-the-Loop-KI](https://edtechdev.github.io/aied/concepts/human-in-the-loop-ai/): *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
 - [Lernanalyse](https://edtechdev.github.io/aied/concepts/learning-analytics/): *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
 - [Technologieadoptionsmodelle](https://edtechdev.github.io/aied/concepts/technology-acceptance-model/): *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
+- [Offene Bildung](https://edtechdev.github.io/aied/concepts/open-education/): *Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft.*
 - [Quelloffene Software (Open Source)](https://edtechdev.github.io/aied/concepts/open-source/): *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
 - [Edtech-Plattform](https://edtechdev.github.io/aied/concepts/edtech-platform/): *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
 - [KI-Bildung in den Disziplinen](https://edtechdev.github.io/aied/concepts/discipline-specific-aied/): *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -149,7 +150,7 @@
 - [Erwachsene Lernende](https://edtechdev.github.io/aied/concepts/adult-learning/): *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
 - [Berufliche Aus- und Weiterbildung](https://edtechdev.github.io/aied/concepts/vocational-education/): *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
 - [Sonderpädagogik](https://edtechdev.github.io/aied/concepts/special-education/): *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
-- [Berufliche Weiterbildung](https://edtechdev.github.io/aied/concepts/teacher-education/): *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
+- [Lehrkräftebildung](https://edtechdev.github.io/aied/concepts/teacher-education/): *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
 - [Bildungsstufen](https://edtechdev.github.io/aied/concepts/education-levels/): *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
 - [Leistungsbeurteilung](https://edtechdev.github.io/aied/concepts/assessment/): *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
 - [Evaluatives Urteilsvermögen](https://edtechdev.github.io/aied/concepts/evaluative-judgment/): *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*

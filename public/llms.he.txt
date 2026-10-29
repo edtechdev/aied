@@ -118,6 +118,7 @@
 - [בינה מלאכותית עם אדם בלולאה](https://edtechdev.github.io/aied/concepts/human-in-the-loop-ai/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
 - [אנליטיקת למידה](https://edtechdev.github.io/aied/concepts/learning-analytics/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
 - [מודלים של אימוץ טכנולוגיה](https://edtechdev.github.io/aied/concepts/technology-acceptance-model/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [חינוך פתוח](https://edtechdev.github.io/aied/concepts/open-education/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
 - [קוד פתוח](https://edtechdev.github.io/aied/concepts/open-source/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
 - [פלטפורמת EdTech](https://edtechdev.github.io/aied/concepts/edtech-platform/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
 - [AIED בתחומי הדעת](https://edtechdev.github.io/aied/concepts/discipline-specific-aied/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*

@@ -118,6 +118,7 @@
 - [İnsan-Denetiminde Yapay Zeka](https://edtechdev.github.io/aied/concepts/human-in-the-loop-ai/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
 - [Öğrenme Analitiği](https://edtechdev.github.io/aied/concepts/learning-analytics/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
 - [Teknoloji Benimseme Modelleri](https://edtechdev.github.io/aied/concepts/technology-acceptance-model/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Açık Eğitim](https://edtechdev.github.io/aied/concepts/open-education/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
 - [Açık Kaynak](https://edtechdev.github.io/aied/concepts/open-source/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
 - [Edtech Platformu](https://edtechdev.github.io/aied/concepts/edtech-platform/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
 - [Disiplinlerde AIEd](https://edtechdev.github.io/aied/concepts/discipline-specific-aied/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -149,7 +150,7 @@
 - [Yetişkin Öğrenenler](https://edtechdev.github.io/aied/concepts/adult-learning/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
 - [Mesleki ve Teknik Eğitim](https://edtechdev.github.io/aied/concepts/vocational-education/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
 - [Özel Eğitim](https://edtechdev.github.io/aied/concepts/special-education/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
-- [Mesleki Gelişim](https://edtechdev.github.io/aied/concepts/teacher-education/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+- [Öğretmen eğitimi](https://edtechdev.github.io/aied/concepts/teacher-education/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
 - [Eğitim Kademeleri](https://edtechdev.github.io/aied/concepts/education-levels/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
 - [Değerlendirme](https://edtechdev.github.io/aied/concepts/assessment/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
 - [Değerlendirici Yargı](https://edtechdev.github.io/aied/concepts/evaluative-judgment/): *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*

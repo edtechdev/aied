@@ -118,6 +118,7 @@
 - [Человек в контуре](https://edtechdev.github.io/aied/concepts/human-in-the-loop-ai/): *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
 - [Аналитика обучения](https://edtechdev.github.io/aied/concepts/learning-analytics/): *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
 - [Модели принятия технологий](https://edtechdev.github.io/aied/concepts/technology-acceptance-model/): *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
+- [Открытое образование](https://edtechdev.github.io/aied/concepts/open-education/): *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
 - [Открытый код](https://edtechdev.github.io/aied/concepts/open-source/): *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
 - [Edtech-платформа](https://edtechdev.github.io/aied/concepts/edtech-platform/): *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
 - [AIEd в дисциплинах](https://edtechdev.github.io/aied/concepts/discipline-specific-aied/): *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -149,7 +150,7 @@
 - [Взрослые учащиеся](https://edtechdev.github.io/aied/concepts/adult-learning/): *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
 - [Профессиональное образование и подготовка](https://edtechdev.github.io/aied/concepts/vocational-education/): *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
 - [Специальное образование](https://edtechdev.github.io/aied/concepts/special-education/): *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
-- [Профессиональное развитие преподавателей](https://edtechdev.github.io/aied/concepts/teacher-education/): *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
+- [Педагогическое образование](https://edtechdev.github.io/aied/concepts/teacher-education/): *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
 - [Уровни образования](https://edtechdev.github.io/aied/concepts/education-levels/): *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
 - [Оценивание](https://edtechdev.github.io/aied/concepts/assessment/): *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
 - [Оценочное суждение](https://edtechdev.github.io/aied/concepts/evaluative-judgment/): *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
