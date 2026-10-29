@@ -2,7 +2,7 @@
 connected_resources: [drawsplat]
 title: Privacidad
 created: "2026-09-28T19:11:03-04:00"
-updated: "2026-10-29T05:15:25-04:00"
+updated: "2026-10-29T05:22:38-04:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, ai-guidance-children-under-13, institutional-ai-policy]
 type: concept
 technology: [learning-analytics, personalized-learning]

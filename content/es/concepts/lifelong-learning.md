@@ -1,17 +1,21 @@
 ---
 title: Aprendizaje a lo largo de la vida
 created: "2026-09-22T12:00:00-04:00"
-updated: "2026-10-26T22:02:40-04:00"
+updated: "2026-10-29T05:22:38-04:00"
 type: concept
 pedagogy: [lifelong-learning, professional-training, scaffolding]
 technology: [adaptive-learning, generative-ai, intelligent-tutoring, llm, personalized-learning]
 level: [higher ed, k 12]
 confidence: medium
-source_updated: "2026-10-25T20:20:00-04:00"
+source_updated: "2026-10-28T19:13:23-04:00"
 translation_of: concepts/lifelong-learning
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-29"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-22"
@@ -32,7 +36,7 @@ ai_assist:
 
 ## Introducción
 
-El aprendizaje a lo largo de la vida se refiere a la educación continua durante toda la vida: actualización y recualificación de competencias, [[professional-training|desarrollo profesional]] y aprendizaje informal más allá de los títulos formales. La IA ocupa un lugar cada vez más central en esto, tanto como herramienta que apoya a quienes aprenden siendo adultos como en calidad de fuerza que cambia las competencias que las personas adultas deben actualizar continuamente.
+El aprendizaje a lo largo de la vida se refiere a la educación continua durante toda la vida: actualización y recualificación de competencias, [[educational-development|desarrollo profesional]] y aprendizaje informal más allá de los títulos formales. La IA ocupa un lugar cada vez más central en esto, tanto como herramienta que apoya a quienes aprenden siendo adultos como en calidad de fuerza que cambia las competencias que las personas adultas deben actualizar continuamente.
 
 ### Cómo aparece el aprendizaje a lo largo de la vida en la investigación
 

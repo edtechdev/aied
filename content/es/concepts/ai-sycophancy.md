@@ -1,7 +1,7 @@
 ---
 title: Sicofancia de la IA
 created: "2026-09-28T21:05:00-04:00"
-updated: "2026-10-29T05:15:25-04:00"
+updated: "2026-10-29T05:22:38-04:00"
 connected_faqs: [training-ai-tutors-to-guide-rather-than-answer]
 type: concept
 foundations: [ai-literacy, cognitive-offloading]

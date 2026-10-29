@@ -1,7 +1,7 @@
 ---
 title: "Alianzas pedagógicas"
 created: "2026-09-28T18:18:41-04:00"
-updated: "2026-10-29T05:15:25-04:00"
+updated: "2026-10-29T05:22:38-04:00"
 type: concept
 foundations: [agency, curriculum-design, learning-design, teacher-role]
 pedagogy: [collaborative-learning, pedagogical-partnerships, pedagogy, student-engagement]

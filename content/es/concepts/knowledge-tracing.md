@@ -1,7 +1,7 @@
 ---
 title: Seguimiento del conocimiento
 created: "2026-09-28T18:19:10-04:00"
-updated: "2026-10-29T05:15:25-04:00"
+updated: "2026-10-29T05:22:38-04:00"
 type: concept
 connected_faqs: [making-simulated-students-behave-like-learners]
 technology: [adaptive-learning, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, personalized-learning, student-modeling]

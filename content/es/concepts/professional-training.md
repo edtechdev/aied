@@ -2,7 +2,7 @@
 connected_resources: [master-instructional-design]
 title: Aprendizaje en el lugar de trabajo
 created: "2026-09-28T20:10:26-04:00"
-updated: "2026-10-29T05:15:25-04:00"
+updated: "2026-10-29T05:22:38-04:00"
 type: concept
 foundations: [ai-literacy, educational-development]
 technology: [generative-ai, llm, simulation]

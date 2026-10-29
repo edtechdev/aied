@@ -1,7 +1,7 @@
 ---
 title: Investigación educativa asistida por IA
 created: "2026-10-05T12:43:08-04:00"
-updated: "2026-10-29T05:15:25-04:00"
+updated: "2026-10-29T05:22:38-04:00"
 type: concept
 foundations: [ai-literacy, human-ai-collaboration, academic-integrity]
 technology: [generative-ai, llm, human-in-the-loop-ai, simulating-students, simulation]

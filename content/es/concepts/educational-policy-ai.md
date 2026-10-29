@@ -1,7 +1,7 @@
 ---
 title: Política educativa sobre IA
 created: "2026-09-28T18:22:10-04:00"
-updated: "2026-10-29T05:15:25-04:00"
+updated: "2026-10-29T05:22:38-04:00"
 type: concept
 foundations: [academic-integrity, educational-development]
 ethics: [equity-in-ai-education, ethics]

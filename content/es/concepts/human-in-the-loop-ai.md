@@ -1,7 +1,7 @@
 ---
 title: IA con intervención humana (HITL)
 created: "2026-09-25T04:31:15-04:00"
-updated: "2026-10-29T05:15:25-04:00"
+updated: "2026-10-29T05:22:38-04:00"
 connected_faqs: [ai-agents-support-students-instructors, designing-educational-ai-software, ai-feedback-at-scale]
 type: concept
 foundations: [ai-education]

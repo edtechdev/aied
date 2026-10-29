@@ -1,7 +1,7 @@
 ---
 title: "Formación docente"
 created: "2026-09-28T19:17:40-04:00"
-updated: "2026-10-29T05:15:25-04:00"
+updated: "2026-10-29T05:22:38-04:00"
 type: concept
 foundations: [ai-literacy, teacher-role, tpack]
 connected_faqs: [faculty-development-ai]

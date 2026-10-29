@@ -1,7 +1,7 @@
 ---
 title: "Educación en tecnología de la información"
 created: "2026-09-28T18:23:55-04:00"
-updated: "2026-10-29T05:15:53-04:00"
+updated: "2026-10-29T05:22:38-04:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading]
 ethics: [equity-in-ai-education]
@@ -12,7 +12,7 @@ level: [higher ed, adult learning]
 confidence: high
 institutions: [governance]
 translation_of: concepts/information-technology
-source_updated: "2026-10-29T05:15:53-04:00"
+source_updated: "2026-10-29T05:15:49-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:

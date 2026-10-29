@@ -1,7 +1,7 @@
 ---
 title: Calidad de la retroalimentación de la IA
 created: "2026-09-28T21:02:41-04:00"
-updated: "2026-10-29T05:15:25-04:00"
+updated: "2026-10-29T05:22:38-04:00"
 connected_faqs: [ai-save-instructor-time, ai-feedback-at-scale, checking-whether-educational-ai-works]
 type: concept
 foundations: [ai-literacy]
