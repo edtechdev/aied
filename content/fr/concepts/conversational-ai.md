@@ -1,7 +1,7 @@
 ---
 title: "L'IA conversationnelle"
 created: "2026-08-22T04:44:37-04:00"
-updated: "2026-10-29T04:21:31-04:00"
+updated: "2026-10-29T04:45:24-04:00"
 type: concept
 foundations: [ai-literacy, human-ai-collaboration]
 technology: [conversational-ai, generative-ai, intelligent-tutoring, llm, pedagogical-agent]
@@ -11,6 +11,10 @@ source_updated: "2026-10-28T01:06:31-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-29"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
@@ -61,7 +65,6 @@ La constance des réponses est un problème d'infrastructure, et non d'ingénier
 Les utilisateurs de l'agent varient aussi : parmi 97 étudiants diplômés en statistique, plus d'un quart n'ont jamais utilisé le chatbot StatBot, et les étudiantes l'ont utilisé significativement plus souvent (W = 679.5, p = .015), ce que les auteurs interprètent comme une IA conversationnelle abaissant le risque social perçu lié au fait de poser des questions ([[lee-wu-gender-motivation-genai-achievement-2026|Lee et Wu (2026)]]).
 
 L'adoption n'est pas homogène : le regroupement de 192 réponses d'étudiants et d'éducateurs fait apparaître quatre personas — Cautious Achievers, Skeptical Utilitarians, Disengaged Doubters et Engaged Enthusiasts — que les modèles d'acceptation fondés sur l'effet moyen occultent, les étudiants privilégiant le [[feedback]] immédiat et les éducateurs l'exactitude des contenus et l'[[academic-integrity]] ([[saihi-ahmed-genai-adoption-personas-higher-ed-2026|Saihi & Ahmed (2026)]]).
-
 **La durabilité a été observée pour un déploiement institutionnel.** Une évaluation randomisée sur quatre ans d'un chatbot non génératif fondé sur une base de connaissances à la California State University, Northridge (N = 8,708), a montré que les étudiants demeuraient réceptifs sur huit semestres — les taux de désinscription annuels n'ont jamais dépassé 4% — tandis que les effets se concentraient sur des tâches administratives sensibles au temps, comme l'inscription anticipée aux cours (34 points de pourcentage de probabilité en plus de s'inscrire avant l'échéance), et qu'aucun effet statistiquement significatif n'apparaissait sur le GPA, le nombre d'unités ou la persévérance ([[mata-sustaining-ai-enabled-student-support-2026|Mata, Russell & Page 2026]], document de travail). Sa leçon en matière de mesure éclaire la façon dont l'engagement envers l'IAC est compté : avec une désinscription proche de zéro parallèlement à environ 5% d'engagement actif sur les campagnes interactives, les conclusions sur l'engagement soutenu dépendent de ce qu'une étude compte — les seules réponses directes ou aussi l'engagement passif, lorsque les étudiants agissent sur une information sans répondre par texto.
 
 **Risques et éthique.** Les agents d'IAC portent des risques persistants de sur-[[cognitive-offloading|dépendance]] et de [[cognitive-offloading|délestage cognitif]] (la préoccupation éthique dominante dans la revue parapluie), auxquels s'ajoutent des limites techniques, l'[[hallucination-risk|hallucination]], les biais, le [[ai-detection|plagiat]] et les obstacles à l'[[equity-in-ai-education|équité]]. Ces préoccupations animent l'[[ai-literacy]] et la [[reducing-ai-misuse|réduction des usages abusifs]] et appellent des réponses en matière de [[educational-policy-ai|politique]] et de [[governance]] éthique. Une autre préoccupation de confiance surgit autour des conseils d'adoption que le personnel reçoit de plus en plus : on presse le personnel de consulter l'IA conversationnelle pour décider s'il convient d'adopter l'IA, alors que de tels systèmes sont construits par des organisations ayant un intérêt commercial à l'adoption. Un audit de dix LLM de pointe a montré que la plupart reconnaissent les préoccupations des utilisateurs sceptiques avant de les rediriger vers des cadrages engageants, ce qui soulève la question de la neutralité des conseils sur l'adoption de l'IA.
@@ -85,6 +88,11 @@ L'IA conversationnelle se comprend au mieux comme une **modalité d'interaction*
 Choisissez des agents conversationnels pour soutenir l'enseignement, la [[motivation]] et la [[metacognition]] plutôt que pour simplement répondre aux questions, et concevez pour une interaction fondée sur les IHM, participative et centrée sur l'utilisateur. Prémunissez-vous contre la sur-[[cognitive-offloading|dépendance]] en associant l'IAC à un enseignement de l'[[ai-literacy]] et à un [[feedback]] qui maintient l'apprenant cognitivement productif. Traitez explicitement la littératie en IA et l'utilisabilité — car ce sont elles, et non la compétence numérique générale, qui déterminent l'adoption et la non-utilisation ([[colbran-student-perspectives-genai-chatbots-2026|Colbran, Jha & Schiavone 2026]]) — et accompagnez le déploiement de politiques claires d'usage de l'IA, d'étiquettes d'évaluation et de formations. Évaluez l'IAC sur des résultats pédagogiques — et pas seulement sur l'accomplissement des tâches — et planifiez l'équité et l'[[accessibility|accessibilité]] dès le départ plutôt que comme une réflexion après coup.
 
 - **Comment les étudiants parlent réellement aux agents conversationnels — un schéma de désengagement en six catégories :** [[rho-disengaged-conversational-behaviors-2026|Rho et al. (2026)]] ont intégré un agent enseignable GPT-4-Turbo (positionné comme un élève de collège en difficulté, ancré par [[rag|RAG]] sur un graphe de connaissances, et associé à un agent mentor qui critiquait les explications des étudiants) dans les leçons d'algèbre et de géométrie de Math Nation, puis ont codé 5 522 énoncés provenant de 246 étudiants. Au-delà de l'engagement (75,7% des énoncés), ils ont identifié False Answering (12,8%), Withholding (8,9%), Random/Noisy (2,1%), Mirroring (0,6%), Mocking (0,3%) et Ghosting (0,2%) — le Mirroring (copie du texte de l'agent) émergeant inductivement des données. La classification se faisait dans la boucle humaine : 1 682 énoncés annotés par deux évaluateurs (κ = 0,704–0,905 par catégorie) ont servi à entraîner un classificateur LLaMA 3 affiné (F1 pondéré = 0,910 sur des fils de discussion réservés) qui a étiqueté les 3 840 énoncés restants. Une analyse des risques compétitifs au niveau du processus a ensuite montré que la plupart des désengagements se résolvent en quelques tours, à l'exception du Withholding, qui persiste — un signal autour duquel il vaut la peine de concevoir les réponses de l'agent.
+## Idées fausses courantes
+
+- **« La crédibilité d'un agent conversationnel suit son exactitude. »** **Les utilisateurs lisent la crédibilité de l'agent socialement.** La **compétence** perçue de ChatGPT prédisait **directement** la crédibilité de sa rétroaction, tandis que la **chaleur** perçue n'agissait que **par** cette voie. Un agent chaleureux et compétent en apparence gagne la confiance sur la présentation, un axe distinct de l'exactitude.
+- **« Les partenaires de critique à base de LLM remplacent le jugement de l'apprenant. »** [[oppenheimer-llms-collaborative-learning-partners-2026|Oppenheimer, Cash & Connell Pensky (2025)]] montrent concrètement le versant de la **préservation** : la valeur tient à ce que la pensée de l'apprenant reste intacte, et non à ce que la critique soit produite à sa place.
+- **« Les données probantes de la revue parapluie sur les agents conversationnels sont concluantes. »** La [[conversational-ai-agents-umbrella-review-2026|revue parapluie des agents d'IAC]] synthétise des revues consacrées aux agents d'IAC, et la force d'une revue parapluie est bornée par la qualité des revues qu'elle rassemble.
 
 ## Citation
 
@@ -113,6 +121,8 @@ Ganguly, A., Mehjabin, N., Malik, A., & Johri, A. (2025). [*Conversational AI ag
 
 ## Articles liés
 
+- [[rho-disengaged-conversational-behaviors-2026]] — Comportements conversationnels de désengagement dans les dialogues étudiant-IA (Rho et al. 2026)
+
 - [[mata-sustaining-ai-enabled-student-support-2026]] — Soutenir l'accompagnement étudiant par l'IA : étude d'implantation et d'impact sur quatre ans d'un chatbot institutionnel (Mata, Russell & Page 2026)
 - [[usher-faraon-who-grades-best-2026]] — Comparer la notation par ChatGPT, par les pairs et par l'enseignant selon les niveaux de qualité des projets (Usher & Faraon 2026)
 - [[llm-agents-5e-esl-grammar-2026]] — Des agents LLM appliquant le cadre 5E à l'acquisition de la grammaire anglaise (Yang et al. 2026)
@@ -135,4 +145,3 @@ Ganguly, A., Mehjabin, N., Malik, A., & Johri, A. (2025). [*Conversational AI ag
 - [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench : le tutorat par l'IA et par l'humain produisent des gains d'apprentissage équivalents au GRE
 
 - [[helpcoach-ai-help-seeking-scaffolding-2026]] — HelpCoach : étayer la recherche d'aide ciblée auprès de l'IA pendant la résolution de problèmes
-- [[rho-disengaged-conversational-behaviors-2026]] — Comportements conversationnels de désengagement dans les dialogues étudiant-IA (Rho et al. 2026)
