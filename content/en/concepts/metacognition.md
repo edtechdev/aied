@@ -2,7 +2,7 @@
 connected_resources: [student-guide-to-ai]
 title: Metacognition
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-10-26T12:05:00-04:00"
+updated: "2026-10-29T10:20:00-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
@@ -84,6 +84,8 @@ When AI is designed to support reflection rather than replace it, metacognition 
 - **Think Aloud supports early awareness but not deep evaluation.** [[karaki-think-aloud-ethical-genai-2026|Karaki and Baroudi (2026)]] ran a mixed-methods action-research study with 44 first-year entrepreneurship students using the Think Aloud method during AI-supported coursework. Think Aloud made students' prompt construction, verification practices, and ethical decision-making more visible, but critical evaluation of AI outputs "often remained at a surface level, particularly among students requiring additional support" — students spotted generic or misaligned responses yet kept relying on them heavily. Self-reported metacognitive awareness was the highest of three surveyed constructs (M = 3.79), but the single post-intervention survey cannot separate perception from change. The authors' conclusion — Think Aloud is not a stand-alone solution and must be combined with explicit instruction in AI literacy, prompt construction, and verification strategies — extends the process-evidence line above from *what records capture* to *what vocalization alone changes*.
 - **Prior metacognitive training gates the benefit of an AI reflection partner.** In a 2 × 2 experiment with 60 pre-service teachers, [[metacognitive-training-ai-socratic-scaffolding-preservice-2026|Zhang et al. (2026)]] found a significant metacognition × tool interaction: an AI Socratic partner beat traditional digital tools by 0.56 points only after training, with no advantage without it (ΔM = −0.03).
 
+
+[[braun-cognitive-dormancy-ai-affordances-2026|Braun (2026)]] gives the suppression account a preregistered causal test (N = 317) against worksheets. Disorganization rose by 0.84 (95% credible interval 0.47 to 1.21) and was the clearest effect in the model, while deep processing fell through a chain running from offloading to critical thinking rather than directly. The author names the state cognitive dormancy, in which monitoring and strategy selection go quiet while processing continues, and locates its cause in the affordances of the environment rather than in the learner.
 
 ## The Engagement–Motivation Distinction
 
@@ -197,3 +199,4 @@ Proactive [[agentic-ai|agentic AI]] can displace the learner's own metacognitive
 - [[ai-cognitive-partner-reflective-thought-2026]] — four practices and eleven processes of reflective thought when students treat AI as a cognitive partner
 - [[karaki-think-aloud-ethical-genai-2026]] — Think Aloud made prompt construction, verification and ethical reasoning visible, but critical evaluation stayed surface-level; not a stand-alone solution
 - [[metacognitive-training-ai-socratic-scaffolding-preservice-2026]] — Metacognitive training and AI-based Socratic scaffolding in pre-service teachers' reflective practice: a dual-study experimental design
+- [[braun-cognitive-dormancy-ai-affordances-2026]] — Cognitive dormancy: an experimental account of suspended metacognitive engagement and rising disorganization (Braun 2026)

@@ -1,7 +1,7 @@
 ---
 title: Cognitive Surrender
 created: "2026-09-20T15:37:15-04:00"
-updated: "2026-10-28T19:24:33-04:00"
+updated: "2026-10-29T10:20:00-04:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [metacognition, self-regulated-learning]
@@ -58,6 +58,8 @@ Three preregistered experiments adapted the Cognitive Reflection Test and random
 - **Susceptibility is a disposition, not just a situation.** [[trust-calibration|Higher trust]] predicted a wider accurate-versus-faulty gap (OR = 2.81) and, in the head-to-head model, surrender over offloading (OR = 4.36). Higher need for cognition cut the gap (OR = 0.83) and shifted outcomes toward offloading (OR = 0.46); higher fluid intelligence was protective in the same direction (OR = 0.69), and its strongest single effect was a lower tendency to follow faulty advice once the assistant had been engaged (OR = 0.23).
 
 The practical reading is that surrender is a **discrimination failure** rather than a motivation failure. The participants who surrendered were not trying to avoid work; they could not tell good advice from bad, and the interface gave them no reason to try.
+
+A preregistered experiment by [[braun-cognitive-dormancy-ai-affordances-2026|Braun (2026)]] supplies a contrasting configuration. With the assistant fenced by retrieval augmentation to the assigned worksheet, the AI condition lowered cognitive offloading (median −0.27) instead of raising it, and no offloading path carried the rise in disorganization (0.84). Surrender needs an assistant whose advice can be adopted wholesale; a system that answers only from the present material gives the learner less to adopt and more to reconcile.
 
 ## Surrender outside the lab
 
@@ -130,3 +132,4 @@ The evidence for surrender as a named construct rests heavily on one program of 
 - [[brcic-effortless-trap-productive-struggle-2026]] — placing AI so the task stays effortful
 - [[metacognitive-training-optimal-cognitive-offloading-2026]] — calibration training
 - [[family-school-autonomy-support-genai-2026]] — dependent versus autonomous offloading
+- [[braun-cognitive-dormancy-ai-affordances-2026]] — A worksheet-grounded assistant lowered offloading rather than raising it, a boundary condition for the surrender signature (Braun 2026)
