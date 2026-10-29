@@ -1,7 +1,7 @@
 ---
 title: "Como podemos abordar as concepções errôneas mais comuns sobre a IA na educação?"
 created: "2026-09-04T04:39:00-04:00"
-updated: "2026-10-02T08:21:34-04:00"
+updated: "2026-10-29T08:28:16-04:00"
 connected_faqs: [top-10-findings-ai-education-instructors, reduce-ai-cheating, should-we-use-ai-detectors, writing-instruction-ai-best-practices]
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, reducing-ai-misuse, teacher-role, teacher-ai-competency]
 pedagogy: [misconceptions, refutation-text]
@@ -11,10 +11,14 @@ ethics: [equity-in-ai-education, pedagogical-safety, trust-calibration]
 weight: 95
 institutions: [governance]
 translation_of: faqs/addressing-common-misconceptions-ai-education
-source_updated: "2026-10-02T08:21:34-04:00"
+source_updated: "2026-10-28T11:34:12-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-29"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
@@ -23,961 +27,293 @@ ai_assist:
 
 *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
 
-Esta FAQ é organizada por grupo de partes interessadas e usa uma **abordagem de refutação**: nomear a concepção errônea, explicar por que ela pode parecer plausível, rejeitar diretamente a crença imprecisa e substituí-la por um modelo mental mais útil. Ela se baseia na base de conhecimento de IA na Educação, especialmente em suas sínteses de [[misconceptions|Concepções Erróneas sobre IA]], [[ai-literacy|Letramento em IA]], [[cognitive-offloading|Delegação Cognitiva]] e [[refutation-text|Texto de Refutação]].
+Sua pró-reitoria quer uma folha de uma página sobre "mitos da IA" para a reunião do corpo docente da primavera. Ou um conselheiro leu que os chatbots estão destruindo o pensamento crítico e quer uma posição até sexta-feira. Ou você é a pessoa que precisa explicar, por escrito, por que o departamento não vai simplesmente proibir a ferramenta, e já esgotou as maneiras de dizer que uma proibição não é uma pedagogia.
 
-A mensagem central não é que a IA seja intrinsecamente benéfica ou prejudicial. Seus efeitos educacionais dependem de **quem a usa, para qual tarefa, qual pensamento a IA realiza, qual responsabilidade permanece com a pessoa, e como a aprendizagem é avaliada**.
+Toda crença desta página parte de algo que uma pessoa razoável já viu. Prosa fluente de fato parece precisa. Um trabalho polido de fato parece aprendizagem. Um tutor que responde à pergunta de fato parece ajuda, e uma política com a palavra "proibido" de fato parece uma decisão. A correção que funciona nomeia o que a observação não consegue lhe dizer e, em seguida, entrega uma verificação que a pessoa pode rodar na segunda-feira.
 
----
+A resposta para dar a um colega, em uma só frase: o efeito educacional da IA depende de quem a usa, para qual tarefa, que pensamento a ferramenta realiza, que responsabilidade permanece com a pessoa e como a aprendizagem é avaliada. Confiança, velocidade, engajamento e conclusão da tarefa são características do uso. Nenhuma delas é evidência de que a capacidade mudou.
 
-## FAQ para estudantes e quem aprende
+## A versão curta
 
-### "Se uma resposta de IA soa confiante e detalhada, por que eu não deveria confiar nela?"
+**1.** Relate o que o estudante consegue fazer com a ferramenta fechada e rotule essa medida como a que conta.
 
-**Resposta:** Porque confiança e fluência são características da saída, não evidência de que a resposta foi verificada. A IA generativa prevê linguagem plausível; ela não verifica automaticamente cada afirmação contra evidência confiável. Ela pode inventar fontes, distorcer fatos, ignorar contexto ou repetir com confiança uma concepção errônea.
+**2.** Escreva a condição de uso de IA por etapa da tarefa, nomeando o ato e não a ferramenta.
 
-Trate uma resposta de IA como um **rascunho provisório ou uma hipótese**, não como uma autoridade. Identifique as afirmações das quais a resposta depende, inspecione as fontes originais, confira os cálculos e compare a resposta com os materiais do curso ou referências confiáveis.
+**3.** Julgue um tutor, um recurso de feedback ou uma plataforma pelo que o estudante faz depois que ela responde.
 
-Um teste útil é: *Eu aceitaria esta afirmação se uma pessoa desconhecida a dissesse sem mostrar evidência?* Se não, não reduza o padrão só porque a prosa soa polida.
+**4.** Compre evidências em vez de alegações de capacidade: resultados sem auxílio, resultados por subgrupo, testes de segurança em múltiplos turnos.
 
-Veja [[misconceptions|Concepções Erróneas sobre IA]], [[hallucination-risk|Risco de Alucinação]] e [[trust-calibration|Calibração de Confiança]].
+**5.** Quando você corrige uma crença, substitua-a por um modelo melhor e por uma atividade que deixe a pessoa ver o antigo falhar.
 
----
+## Decida o que conta como evidência de que houve aprendizagem
 
-### "A IA me entende e sabe o que quero dizer?"
+Cinco crenças decidem se o resto desta página importa. Cada uma toma um sinal real e lê nele uma conclusão que o sinal não sustenta.
 
-**Resposta:** Não da forma como outra pessoa entende você. A IA pode responder à sua linguagem, usar informação da conversa atual e às vezes reter informação por meio de recursos do produto. Isso pode fazer a interação parecer pessoal. Mas o modelo não possui intenção humana, experiência vivida, cuidado ou compreensão contextual.
+### "Eles se saíram melhor com a ferramenta aberta, então aprenderam mais."
 
-Essa distinção importa porque a IA pode simplesmente concordar com você porque seu prompt sugere uma resposta preferida. Isso às vezes é chamado **sycophancy** (bajulação): o sistema espelha ou valida o usuário em vez de oferecer a correção necessária.
+Em um experimento de campo com quase 1.000 estudantes do ensino médio de [[math-education|matemática]], o acesso irrestrito à IA generativa melhorou o desempenho durante a prática assistida e reduziu o desempenho posterior em provas sem assistência. Uma versão com salvaguardas, que oferecia dicas em vez de respostas completas, eliminou o [[ai-misuse-learning-harm|dano à aprendizagem]] observado ([[generative-ai-guardrails-harm-learning|Generative AI Without Guardrails Can Harm Learning]]). Os dois resultados são reais e se apoiam em medidas diferentes: apenas uma delas é a medida que um histórico escolar certifica. O estudo lhe dá uma direção e nenhum tamanho de efeito para o seu curso.
 
-Peça à IA que identifique fragilidades no seu raciocínio, ofereça contraevidência e explique o que tornaria sua resposta errada. Depois verifique a resposta de forma independente. A concordância da IA não é prova de que sua posição está correta.
+Os estudantes fazem a mesma inferência sobre o próprio trabalho, e a resposta é a mesma: o produto mostra o que o estudante e a ferramenta produziram juntos. Quatro perguntas feitas com a janela do chat fechada lhe dizem o que aconteceu. Ele consegue explicar o raciocínio? Resolver um problema semelhante? Encontrar as fragilidades na resposta gerada? Levar a ideia para um contexto novo? Se as respostas honestas forem não, você está diante de desempenho assistido sob o nome de aprendizagem. Coloque uma dessas quatro no [[assessment]] e diga isso na rubrica.
 
-Veja [[misconceptions|Concepções Erróneas sobre IA]], [[ai-sycophancy|Bajulação da IA]] e [[ai-literacy|Letramento em IA]].
+### "Os estudantes gostam do feedback, então o feedback funciona."
 
----
+Satisfação é evidência sobre aceitabilidade. Os estudantes preferem feedback imediato, encorajador, detalhado e fácil de seguir, e uma resposta pode ter as quatro propriedades e ainda assim ser imprecisa, genérica, mal priorizada ou voltada a um objetivo diferente do seu. As perguntas que decidem são sem graça e vale a pena escrevê-las: é preciso, diagnostica o problema real, é específico o bastante para agir, está calibrado para este estudante, o estudante o utiliza, a revisão melhora, o desempenho independente posterior melhora. As duas últimas são as que uma pesquisa de satisfação não alcança. [[ai-feedback-quality|Qualidade do Feedback de IA]] e [[feedback-literacy|Letramento em Feedback]] trazem o detalhe, e o movimento prático é ler vinte respostas contra o seu próprio objetivo antes de escalar qualquer coisa.
 
-### "Se a IA me ajudou a produzir um bom trabalho, isso não significa que aprendi o conteúdo?"
+### "O efeito médio foi positivo, então a intervenção ajuda os estudantes."
 
-**Resposta:** Não necessariamente. Um bom produto mostra o que o **sistema humano–IA** produziu. Ele não mostra automaticamente o que você consegue explicar, lembrar, adaptar ou fazer de forma independente.
+Médias escondem exatamente a variação que decide uma questão de equidade. Os efeitos diferem por conhecimento prévio, idade, disciplina, idioma, deficiência, habilidade metacognitiva, acesso, implementação pelo instrutor e tipo de uso da IA. Um ganho médio pequeno pode esconder um benefício real para um grupo e dano para outro; um ganho grande pode depender de condições que a sua instituição não consegue reproduzir. Peça estimativas por subgrupo com sua incerteza, fidelidade de implementação, o que os estudantes de fato fizeram dentro da ferramenta e o padrão de atrito. [[limitations-in-aied-research|Limitações da Base de Evidências em AIEd]] e [[research-methods-aied|Métodos de Pesquisa em AIEd]] apresentam as comparações que levam você para mais perto, e [[equity-in-ai-education|Equidade na Educação em IA]] explica por que a tabela por subgrupo é o achado.
 
-Em um experimento de campo com quase 1.000 estudantes do ensino médio em [[math-education|matemática]], acesso irrestrito a IA generativa melhorou o desempenho durante a prática assistida, mas reduziu o desempenho posterior em prova sem assistência. Uma versão com proteções que fornecia dicas em vez de respostas completas eliminou o dano à aprendizagem observado ([[ai-misuse-learning-harm|Uso Indevido de IA e Dano à Aprendizagem]]). A lição não é que todo uso de IA prejudica a aprendizagem. É que **desempenho assistido e aprendizagem durável são desfechos diferentes**.
+### "Eles relataram que aprenderam muito."
 
-Depois de usar a IA, verifique se você consegue:
+O autorrelato mede percepção, aceitação, ansiedade e [[self-efficacy|autoeficácia]], e é bom nas quatro. Não é uma medida de capacidade demonstrada, porque as pessoas podem estar confiantes e erradas, ou habilidosas e pouco confiantes. A síntese da wiki sobre pesquisa de letramento em IA de professores relata uma lacuna substancial entre autoavaliação e desempenho medido, e os instrutores nela superestimaram consideravelmente a própria competência ([[ai-literacy-assessment-misalignment|Avaliação de Letramento em IA: Desalinhamento entre Autorrelato e Desempenho]]). Pareie todo autorrelato com uma tarefa: identificar um erro numa saída, verificar uma fonte, escolher uma estratégia de uso, detectar viés ou bajulação, revisar uma resposta falha, calibrar a confiança contra a precisão. Um item assim num questionário transforma uma opinião em resultado.
 
-* explicar o raciocínio sem olhar a resposta da IA;
-* resolver um problema semelhante de forma independente;
-* identificar fragilidades na resposta gerada;
-* transferir a ideia para um novo contexto.
+### "Um estudante simulado é um substituto barato para um real."
 
-Veja [[generative-ai-guardrails-harm-learning|IA Generativa Sem Proteções Pode Prejudicar a Aprendizagem]] e [[cognitive-offloading|Delegação Cognitiva]].
+Simulação é útil para prototipar, testar sob estresse e gerar cenários, e não é evidência sobre aprendizagem humana até ter sido validada contra pessoas. Um modelo pode imitar a linguagem da confusão sem a persistência, a motivação, o conhecimento prévio, a emoção ou a trajetória de desenvolvimento de um estudante, e a pesquisa resumida na wiki encontrou estudantes simulados abandonando um equívoco atribuído após correção mínima, o que levanta dúvidas sobre se eles representam mudança conceitual ([[simulating-students|Simulação de Estudantes]], [[llm-student-simulation-misconception-faithfulness|Simulating Students or Sycophantic Problem Solving?]]). Use-os para encontrar as falhas no seu prompt antes que estudantes reais o encontrem, e então trate qualquer alegação sobre estudantes como não validada.
 
----
+## Defina a condição de uso de IA na etapa que carrega a aprendizagem
 
-### "Se a IA me deixa terminar mais rápido, isso não é simplesmente aprendizagem mais eficiente?"
+Regras falham quando são escritas sobre uma ferramenta e funcionam quando são escritas sobre um ato. As crenças abaixo são as que mantêm as políticas vagas.
 
-**Resposta:** Conclusão mais rápida nem sempre é aprendizagem mais rápida. A IA pode remover produtivamente trabalho burocrático, formatação confusa ou repetição desnecessária. Ela também pode remover a recuperação, o planejamento, a redação, a depuração e a revisão por meio dos quais conhecimento e habilidade se desenvolvem.
+### "Qualquer uso de IA é trapaça."
 
-A distinção central é entre **delegação de apoio** e **delegação substitutiva**:
+A crença espelhada é pior: que o uso de IA não pode ser trapaça porque nenhuma pessoa foi copiada. A integridade depende do propósito da tarefa, das regras do instrutor, de quanto do trabalho a ferramenta fez, de o uso ter sido atribuído e de a IA ter substituído a capacidade em avaliação. Brainstorming é permitido numa tarefa, exigido em outra e desqualificante numa terceira, e as três são defensáveis ([[academic-integrity|Integridade Acadêmica]]). O movimento de ensino é colocar cinco perguntas diante dos estudantes antes que abram qualquer coisa: o que esta tarefa deve mostrar que eu sei fazer, que assistência é permitida, eu ainda sou o autor e o tomador de decisão, consigo defender o trabalho entregue e preciso declarar o uso. [[ai-use-disclosure|Declarações de Uso e Divulgação de IA]] mostra como é um formulário de declaração utilizável.
 
-* A delegação de apoio libera atenção para um pensamento mais importante.
-* A delegação substitutiva permite que a IA realize o pensamento que você deveria aprender.
+### "Se ninguém consegue detectar, não há prejuízo."
 
-Uma sequência útil é:
+A detecção responde a uma pergunta diferente da que importa. A terceirização não detectada ainda deixa o estudante incapaz de explicar o trabalho, responder a uma pergunta de acompanhamento, adaptá-lo ou atuar sem a ferramenta, e a lacuna aparece depois numa [[summative-assessment|prova]], num processo de licenciamento, num estágio ou no primeiro emprego. As notas se afastam da capacidade enquanto as duas parecem bem. Isso é um problema de credencial antes de ser um problema disciplinar, que é o argumento em [[assessment-validity|Validade da Avaliação]] e [[authentic-assessment|Avaliação Autêntica]]. Para o estudante, o reenquadramento útil é que a nota é uma afirmação sobre ele, e a afirmação precisa sobreviver à próxima sala em que for testada.
 
-1. Faça uma tentativa inicial.
-2. Consulte a IA para feedback, dicas, exemplos ou comparação.
-3. Revise usando seu próprio juízo.
-4. Complete uma breve explicação ou aplicação sem ajuda.
+### "O problema é a frequência com que eles usam."
 
-O objetivo não é maximizar a dificuldade. É preservar o trabalho cognitivo que produz a aprendizagem pretendida.
+A frequência não lhe diz nada. Um estudante pode usar IA diariamente para comparar explicações, gerar problemas de prática e receber feedback permanecendo cognitivamente ativo, e outro pode usá-la uma vez para produzir o argumento que a tarefa existia para eliciar. A pergunta que os separa é qual camada de pensamento foi delegada e se o estudante ainda consegue executar essa camada sozinho, uma distinção que [[student-ai-interaction|interação estudante-IA]] documenta em detalhe. Correção gramatical está muito longe das afirmações, evidências e contra-argumentos de um ensaio. O movimento é tornar a camada explícita na tarefa: nomeie o pensamento que o curso ensina, permita ajuda em todo o resto e verifique a camada nomeada sem ajuda.
 
-Veja [[cognitive-offloading|Delegação Cognitiva]] e [[reducing-ai-misuse|Redução do Uso Indevido de IA]].
+### "Concluir mais rápido significa aprender com mais eficiência."
 
----
+A IA remove trabalho burocrático, confusão de formatação e repetição, o que é um ganho. Ela também remove a recuperação, o planejamento, a redação, a depuração e a revisão por meio das quais a habilidade se forma, o que é a perda. A distinção que sobrevive ao contato com uma tarefa real é descarregamento de apoio versus descarregamento substitutivo: um libera atenção para um pensamento mais difícil, o outro realiza o pensamento que você deveria aprender ([[cognitive-offloading|Descarregamento Cognitivo]], [[reducing-ai-misuse|Reduzir o Uso Indevido de IA]]). Uma sequência que impede o segundo de acontecer é curta. Faça uma tentativa, consulte a ferramenta em busca de dicas, exemplos ou comparação, revise com seu próprio julgamento e então produza uma breve explicação sem auxílio. Dificuldade não é o objetivo; preservar o trabalho cognitivo é.
 
-### "Qualquer uso de IA é cola?"
+### "Uma proibição geral é a regra mais segura e mais justa."
 
-**Resposta:** Não. Mas a afirmação oposta — "usar IA não pode ser cola porque não copiei de uma pessoa" — também está incorreta.
+Condições sem IA são corretas quando o desempenho independente é a capacidade avaliada: certas provas, prática fundamental, verificações de competência profissional. Uma proibição universal é outro instrumento, e ela empurra o uso para a clandestinidade, é difícil de aplicar de forma consistente e bloqueia o [[ai-literacy|letramento em IA]] de que os estudantes precisam depois que o curso termina. Quatro condições no nível da tarefa cobrem mais terreno: IA exigida, IA permitida com declaração, IA restrita a funções nomeadas, IA proibida porque a assistência invalidaria a afirmação de aprendizagem. Os estudantes seguem fronteiras que entendem, então a regra precisa levar junto a sua razão e tem de ser coerente entre o plano de ensino, a folha da tarefa, o feedback e a atribuição de notas. [[framing-ai-use-for-students|Enquadrar o Uso de IA para Estudantes]] e [[educational-policy-ai|Política de IA Educacional]] são os modelos.
 
-A integridade acadêmica depende do propósito do trabalho, das regras do professor, do grau de envolvimento da IA, da atribuição e de a IA ter substituído a capacidade avaliada. A IA pode ser permitida para brainstorm em um trabalho, exigida para crítica em outro, e proibida durante uma avaliação de desempenho independente.
+## Julgue um tutor pelo que o estudante faz em seguida
 
-Antes de usar a IA, pergunte:
+Um sistema que produz a resposta e um sistema que produz um estudante são produtos diferentes, e a saída só descreve o primeiro.
 
-* O que este trabalho pretende mostrar que eu sei fazer?
-* Quais formas de assistência são permitidas?
-* Continuo sendo o autor e quem decide?
-* Consigo explicar e defender o trabalho entregue?
-* Preciso revelar como usei a IA?
+### "Dê aos estudantes um tutor poderoso e a aprendizagem vai melhorar."
 
-Quando as expectativas não estão claras, revelação e esclarecimento específico por tarefa são mais seguros do que presumir que todo uso é proibido ou que todo uso é aceitável.
+Acesso não é desenho instrucional. O mesmo modelo apoia a aprendizagem quando exige uma tentativa primeiro, oferece dicas em vez de soluções, pede raciocínio, corrige equívocos, retira o apoio gradualmente e termina com uma verificação sem auxílio. Ele mina a aprendizagem quando responde de imediato, faz o planejamento e recompensa a busca por respostas. O valor está no invólucro [[pedagogy|pedagógico]], que é o argumento em [[learning-design|Desenho de Aprendizagem]] e a lógica de desenho por trás do [[scaffolding]]. Antes de implantar um tutor, faça você mesmo uma aula com ele e conte quantas vezes ele permite que você evite pensar.
 
-Veja [[academic-integrity|Integridade Acadêmica]] e [[ai-use-disclosure|Declarações de Uso e Revelação de IA]].
+### "Um tutor que dá a resposta certa é um bom tutor."
 
----
+A correção é necessária e insuficiente. Uma resposta correta pode chegar cedo demais, revelar demais e contornar as [[desirable-difficulties|dificuldades desejáveis]] que fazem a recuperação fixar. Um tutor mais forte diagnostica antes de intervir, pergunta em vez de dizer, dá a menor dica útil, exige uma explicação, responde ao erro específico, retira o apoio e verifica o desempenho sem auxílio depois. Avalie-o pelo que os estudantes percebem, tentam, explicam, revisam e, por fim, fazem sozinhos, que é o padrão em [[intelligent-tutoring|Sistemas de Tutoria Inteligente]] e [[pedagogical-safety|Segurança Pedagógica]].
 
-### "Usar a IA com frequência é o problema principal?"
+### "Mais automação e personalização é melhor."
 
-**Resposta:** A frequência, por si só, não determina se o uso de IA é educacionalmente produtivo. Um estudante pode usar a IA com frequência para comparar explicações, gerar exercícios, desafiar raciocínios e receber feedback, permanecendo cognitivamente ativo. Outro pode usá-la uma única vez para gerar o argumento central ou a solução que o trabalho foi desenhado para avaliar.
+A [[personalized-learning|personalização]] pode apoiar a aprendizagem e pode se tornar acomodação excessiva. Quando o sistema planeja, monitora, decide o que importa e completa as etapas difíceis, o estudante fica mais rápido e menos autônomo, e a [[self-regulated-learning|autorregulação]] é o que sai discretamente da sala. O problema de desenho é remover barreiras desnecessárias preservando o esforço ligado ao objetivo. Recursos que se sustentam: tentativas obrigatórias, prompts de explicação, dicas adiadas, assistência ajustável, retirada gradual do scaffolding, reflexão sobre as recomendações do sistema, prática periódica sem auxílio e uma forma visível de sobrepor a decisão. [[agentic-ai|IA Agentiva]] e [[agency]] cobrem o que acontece quando o sistema começa a tomar as decisões.
 
-A pergunta mais útil é:
+### "Um modelo maior produz um tutor mais seguro."
 
-> **Qual camada de pensamento eu deleguei, e ainda consigo realizar esse pensamento de forma independente?**
+Capacidade geral e qualidade pedagógica são propriedades separadas, e um modelo maior pode resolver problemas mais difíceis e ainda assim falhar em escolher uma estratégia, reter uma resposta, corresponder a um nível de desenvolvimento, preservar a [[productive-failure|falha produtiva]], sinalizar incerteza ou permanecer dentro dos seus objetivos de aprendizagem. Um estudo de desenho participativo com seis professores do ensino médio é a afirmação mais clara de onde a segurança realmente vem. Os professores desenharam, de forma independente, "especialistas delimitados": capacidade estreita dentro de um domínio definido sob supervisão humana, com duas linhas que não cruzariam (autoridade, porque a responsabilidade pela aprendizagem do estudante não pode ser delegada, e expertise, porque o modelo não tem conhecimento dos estudantes individuais nem das normas de sala de aula) e três camadas de proteção (limites de domínio, conteúdo filtrado com recusas padronizadas e sobreposição pelo professor). Eles pediram registro completo das conversas e alertas em tempo real, e não melhores explicações do modelo ([[reichert-human-centered-llm-chatbot-design-teachers-2026|desenho de chatbot especialista delimitado]]). Escopo e supervisão fizeram o trabalho que a escala não conseguiu. [[learning-theories|Teorias de Aprendizagem]] e [[llm-training-and-fine-tuning|Treinamento e Ajuste Fino de LLMs]] cobrem o lado do desenho.
 
-Delegar correção gramatical é diferente de delegar as afirmações, a evidência, o raciocínio e os contra-argumentos de um ensaio. Quanto mais profunda a camada cognitiva delegada, maior o risco de que o produto final superestime sua própria capacidade.
+### "Mais feedback é melhor feedback."
 
-Veja [[cognitive-offloading|Delegação Cognitiva]] e [[ai-literacy|Letramento em IA]].
+Volume é a coisa mais fácil de aumentar e a menos correlacionada com melhora. Uma resposta que comenta cada questão pode enterrar a única mudança que importa, e pode estar fora de hora, genérica ou errada. O feedback conquista seu comprimento ao identificar o próximo passo mais importante para este estudante neste ponto da tarefa. Meça se os estudantes o entendem, conseguem julgar sua qualidade, revisam com ele, abandonam o equívoco e têm melhor desempenho depois sem ele. [[feedback|Feedback]] e [[feedback-literacy|Letramento em Feedback]] apresentam a sequência, e o teste prático é se o estudante consegue dizer em uma frase o que fará diferente.
 
----
+### "A IA está destruindo o pensamento crítico."
 
-### "Um único prompt bom não deveria me dar a resposta certa?"
+Ela pode substituir o pensamento crítico ou se tornar seu objeto, e a tarefa decide qual. Uma tarefa enfraquece o [[student-engagement|engajamento]] quando os estudantes pedem uma interpretação pronta e a aceitam, e o fortalece quando eles preveem antes de consultar, comparam seu raciocínio com o do modelo, caçam afirmações sem apoio, melhoram uma resposta fraca, escolhem entre alternativas e explicam por que rejeitaram uma recomendação. A distinção útil é o papel que a ferramenta desempenha: treinador, desafiante ou fonte a ser avaliada, e não substituto do raciocínio do estudante. [[critical-thinking|Pensamento Crítico]] e [[learning-design|Desenho de Aprendizagem]] trazem os desenhos de tarefa.
 
-**Resposta:** Não. A saída de IA generativa é sensível ao prompt e frequentemente não determinística. Pequenas mudanças de redação, contexto, exemplos ou pressupostos podem produzir respostas substancialmente diferentes.
+## Decida o que um fornecedor precisa lhe mostrar antes de você assinar
 
-A iteração pode melhorar uma resposta, mas geração repetida não é o mesmo que verificação. Cinco respostas semelhantes podem repetir o mesmo pressuposto equivocado. A iteração produtiva, portanto, inclui mais do que perguntar de novo. Ela inclui:
+É aqui que um equívoco se transforma em um contrato de vários anos. Nenhuma das perguntas abaixo exige conhecimento técnico, e todas exigem ser feitas antes da data de renovação, não depois.
 
-* esclarecer o objetivo e as restrições;
-* pedir ao modelo que exponha seus pressupostos;
-* solicitar interpretações alternativas;
-* testar a resposta contra a evidência;
-* verificar se a resposta continua válida quando o problema muda.
+### "Comprar uma plataforma avançada vai transformar o ensino."
 
-Escrever prompts é uma habilidade útil, mas não elimina a necessidade de conhecimento de domínio e juízo crítico. Uma [[brunnstrom-ai-interaction-literacy-srl-2026|demonstração de uma estudante ingênua usando um chatbot em uma questão de prova em casa]] mostra quanto trabalho de interação o bom uso realmente exige: a saída padrão permaneceu "polida, mas pedagogicamente fina" no nível multiestrutural da taxonomia SOLO, e atingir um laço de aprendizagem utilizável exigiu oito rodadas de intervenção de metanível — sinalizando sobrecarga, pedindo simplificação, estreitando o escopo. Os autores nomeiam a capacidade que isso exige como **letramento em interação com IA** — conduzir, avaliar e aprender com a interação iterativa com IA generativa — e observam a estocada de equidade: como o uso não guiado impõe uma habilidade de gestão de interação distribuída de forma desigual, a IA generativa "pode beneficiar mais os estudantes já favorecidos".
+Uma plataforma oferece capacidades. A melhoria exige alinhamento entre [[curriculum-design|currículo]], avaliação, desenvolvimento do corpo docente, suporte técnico, acessibilidade, privacidade, governança, carga de trabalho e avaliação local, e sem isso a instituição compra um sistema sofisticado que é usado de forma inconsistente, duplica trabalho, acrescenta ônus ao corpo docente ou produz uma demonstração impressionante sem ganho mensurável. Especifique seis coisas antes da compra: o problema educacional, os usuários e casos de uso pretendidos, os resultados que contam como sucesso, os dados coletados, a supervisão humana necessária e as condições sob as quais você modificaria ou descontinuaria. [[administrator|A IA na Perspectiva do Administrador]] e [[ai-ed-evaluation|Avaliação de IA na Educação]] são os enquadramentos para levar para a sala.
 
-Veja [[misconceptions|Concepções Erróneas sobre IA]], [[prompt-engineering|Engenharia de Prompts]] e [[brunnstrom-ai-interaction-literacy-srl-2026|letramento em interação com IA]]. Para as demandas subjacentes de auto[[regulation|regulação]], veja [[developing-ai-tutor|Como Desenvolver um Tutor de IA Eficaz?]].
+### "A pontuação no benchmark prova que é educacionalmente eficaz."
 
----
+Um benchmark mede desempenho sob as condições do benchmark. Um modelo pode resolver problemas difíceis, escrever explicações fluentes e pontuar bem numa rubrica de tutoria e ainda assim não melhorar a retenção, a [[transfer-of-learning|transferência]], a [[self-regulated-learning|autorregulação]] ou resultados equitativos. Mantenha os resultados de benchmark separados da confiabilidade técnica, da qualidade pedagógica, da segurança, da [[usability-research|usabilidade]], do ônus de implementação, da adoção em sala e dos [[learning-gains|ganhos de aprendizagem]] sem auxílio. Apenas teste de campo com estudantes reais, uma condição de comparação relevante e uma medida de resultado sensata respondem à pergunta que você está de fato decidindo ([[benchmark]]). Pesquisadores devem a mesma disciplina na direção oposta: digam qual elo dessa cadeia um estudo ocupa.
 
-### "Se um detector de IA não identifica meu uso, há alguma desvantagem real?"
+### "É confiável, então as notas são válidas."
 
-**Resposta:** A pergunta mais importante não é se um software detecta o uso. É se você consegue demonstrar a competência que o trabalho entregue alega representar.
+Confiabilidade é consistência; validade é se a interpretação e o uso da nota são justificados, e as duas podem divergir acentuadamente. Um grande benchmark do Reino Unido avaliou 761 ensaios autênticos de psicologia de graduação e descobriu que as notas da IA e as humanas concordavam quanto à faixa de classificação apenas em 35-65% dos casos (63% em uma instituição, 53% em uma segunda, 35% em uma terceira), enquanto a confiabilidade de reavaliação era quase perfeita, com correlações intraclasse de até 1,00. Os três modelos concordavam entre si muito mais estreitamente do que com humanos (ICC 0,91) e coincidiram na faixa em 56% das submissões quando os três tinham de concordar. As notas se comprimiram para o meio (escore de compressão 0,47-0,82), de modo que o sistema era menos preciso exatamente nas fronteiras que separam um First de um Upper Second, ou uma aprovação de uma reprovação. Seu feedback ficou de três a oito vezes mais longo que a média humana de 100-200 palavras ([[opraise-automated-marking-ai-assessment-2026|correção automatizada de redações universitárias]]). Peça cobertura do construto, comparação com o julgamento humano, desempenho por subgrupo, padrões de erro, incerteza e as consequências do uso, que é o argumento em [[educational-measurement|Mensuração Educacional]] e [[automated-assessment|Avaliação Automatizada]].
 
-A terceirização não detectada ainda pode deixá-lo incapaz de explicar o trabalho, responder perguntas de acompanhamento, adaptá-lo a um novo problema ou atuar quando a IA não está disponível. Ela também pode criar uma lacuna crescente entre suas notas e suas capacidades reais.
+### "Uma conversa bem comportada mostra que o tutor é seguro."
 
-Essa lacuna pode permanecer escondida até uma disciplina posterior, [[summative-assessment|prova]], estágio, processo de licenciamento ou tarefa no local de trabalho exigir desempenho independente. A integridade acadêmica, portanto, não é apenas sobre evitar punição. É também sobre garantir que suas credenciais continuem a representar o que você realmente consegue fazer.
+Danos educacionais se acumulam ao longo de uma interação. Um sistema pode responder adequadamente a um prompt e então, ao longo dos turnos, começar a fornecer respostas, reforçar um equívoco, estimular a dependência ou sair do seu papel de tutor. O benchmark SafeTutors, resumido na wiki, encontrou falhas de dano pedagógico crescendo acentuadamente quando os sistemas foram avaliados em múltiplos turnos em vez de um único intercâmbio ([[hazra-safetutors-pedagogical-safety-2026|AI Tutor Safety and Pedagogical Harms]]). Exija conversas sustentadas, erros repetidos do estudante, tentativas de resposta direta, cenários emocionais e relacionais, prompting adversarial e uma medida de dependência ao longo do tempo. Evidência de benchmark desse tipo não é uma estimativa de aprendizagem em sala, e é o mínimo sobre o que uma alegação de segurança deve se apoiar.
 
-Veja [[academic-integrity|Integridade Acadêmica]], [[assessment-validity|Validade da Avaliação]] e [[authentic-assessment|Avaliação Autêntica]].
+### "A revisão humana é um remendo temporário até os modelos melhorarem."
 
----
+A revisão é uma função de responsabilização, não um recurso de correção de erros, porque alguém tem de decidir se uma saída serve a um estudante, curso, cultura ou decisão consequente específicos, interpretar a exceção, fornecer o contexto que o modelo não tem e responder pelo resultado. Um arranjo significativo nomeia quem revisa, que evidência essa pessoa vê, quando a revisão acontece, quanto tempo ela tem, se pode sobrepor a decisão, quem responde pela ação final e como o estudante recorre. Um revisor sem tempo, autoridade ou informação é uma assinatura ([[human-in-the-loop-ai|IA com Humano no Circuito]]).
 
-#### Mensagem central para estudantes
+### "Acessibilidade, privacidade e equidade podem ser acrescentadas depois que o produto central funciona."
 
-> **Use a IA para estender seu pensamento, não para tornar seu pensamento desnecessário. Um produto forte assistido por IA deve deixá-lo mais capaz de explicar, avaliar, transferir e reproduzir o trabalho subjacente.**
+Estes são requisitos de desenho. Modalidade de entrada, nível de leitura, suposições de idioma, requisitos de dispositivo, retenção de dados, personalização e viés do modelo decidem quem pode usar o sistema e quem é prejudicado por ele, e adaptar depois tende a melhorar a interface deixando intactos o fluxo de trabalho, o modelo de dados e a lógica de decisão. Envolva estudantes e educadores afetados desde cedo, teste com usuários diversos, colete o mínimo, ofereça alternativas acessíveis e examine resultados diferenciais. Um sistema cujos benefícios são inacessíveis ou distribuídos de forma desigual não é educacionalmente eficaz, qualquer que seja sua média ([[accessibility]], [[universal-design-for-learning|Desenho Universal para a Aprendizagem]], [[privacy]]).
 
----
+### "Um chatbot é seguro para crianças se bloquear conteúdo tóxico."
 
-## FAQ para professores e corpo docente
+A moderação de conteúdo cobre palavras e tópicos proibidos. Um sistema educado ainda pode responder rápido demais, reforçar um equívoco, estimular dependência emocional, coletar dados inadequados, oferecer conselhos inadequados ao desenvolvimento, fazer suposições inacessíveis, deslocar o apoio humano e reduzir o esforço produtivo. Produtos voltados a crianças precisam de avaliação de segurança de conteúdo, segurança pedagógica, privacidade, acessibilidade, influência relacional e efeitos do uso repetido, que é o padrão em [[k-12|Educação em IA na Educação Básica]] e [[pedagogical-safety|Segurança Pedagógica]].
 
-### "A IA vai acabar tornando os professores desnecessários?"
+## Decida o que você aceitará como prova da capacidade do estudante
 
-**Resposta:** A IA pode automatizar parcelas do trabalho de ensino, mas automatizar tarefas não equivale a substituir a função educacional do ensino.
+Você nunca vai estabelecer como um arquivo foi produzido. Você pode estabelecer, a baixo custo, se o estudante consegue fazer o que o arquivo parece mostrar, e essa é a única afirmação que uma nota precisa sustentar.
 
-A IA pode redigir exemplos, produzir materiais preliminares, responder perguntas de rotina e auxiliar com feedback. Os professores continuam responsáveis por interpretar necessidades de quem aprende, estabelecer relações, criar ambientes de aprendizagem intelectual e emocionalmente seguros, contextualizar conhecimento disciplinar, exercer juízo [[ethics|ético]] e decidir quando uma resposta gerada por IA é inadequada.
+### "Instrutores experientes reconhecem trabalho gerado por IA."
 
-O papel do professor pode se deslocar de ser a fonte única de informação para ser um **orquestrador, desenhista de aprendizagem, guia disciplinar e tomador humano responsável de decisões**. Essa é uma transformação do trabalho profissional, não seu desaparecimento.
+Não de forma confiável o bastante para tratar uma suspeita como prova. Texto gerado pode ser editado, misturado a texto humano, traduzido, parafraseado ou produzido por vários sistemas, e o julgamento humano se inclina para o estilo de escrita, a origem linguística, a deficiência e as expectativas sobre como um estudante específico deveria soar. Detectores compartilham o problema e acrescentam falsos positivos e falsos negativos, e é por isso que um sinal é motivo para olhar mais de perto e nunca para uma conclusão ([[ai-detection|Detecção de IA]]). A verificação é a alternativa defensável: peça ao estudante que explique o raciocínio, discuta as fontes, revise um trecho, aplique a ideia a um caso novo ou mostre evidência de processo. Cada uma dessas coisas avalia a compreensão diretamente, e cada uma é barata.
 
-Veja [[teacher-role|Ensino]], [[learning-design|Desenho de Aprendizagem]] e [[teacher-ai-competency|Competência Docente em IA]].
+### "Detecção e proctoring vão resolver o problema de integridade."
 
----
+A detecção estima se um artefato se parece com trabalho gerado por máquina. A educação precisa de evidência de que o estudante detém a capacidade, e os números do lado da detecção agora são específicos o bastante para citar em um comitê. Uma análise de justiça procedimental relata que nenhuma das quatorze ferramentas de detecção iniciais alcançou 80% de precisão, que parafrasear ou editar levemente reduz aproximadamente pela metade uma precisão já modesta, e que as ferramentas classificam sistematicamente de forma errada quem escreve em inglês não nativo, porque os traços lidos como sinais de IA também caracterizam escrita competente em segunda língua. Em um estudo de campo encoberto, 94% das submissões inteiramente geradas por IA injetadas em exames on-line ao vivo em cinco módulos de psicologia passaram sem detecção, e o trabalho de IA, em média, superou os estudantes reais. A Universidade Vanderbilt desativou seu detector licenciado depois de não conseguir validar uma taxa anunciada de 1% de falsos positivos, taxa que implica cerca de 750 estudantes rotulados incorretamente entre 75.000 submissões anuais ([[teichmann-detecting-undetectable-misconduct-2026|conduta indetectável]]). O proctoring acrescenta custos de privacidade, acessibilidade, ansiedade e equidade sem estabelecer aprendizagem também. A estratégia durável é uma combinação: expectativas explicadas, condições sem IA onde elas cabem, evidência de processo e trabalho por etapas, verificação oral ou escrita, declaração específica por tarefa, [[assessment|redesenho da avaliação]] e procedimentos revisados por humanos com via de recurso. [[remote-proctoring|Supervisão Remota de Provas]] e [[reduce-ai-cheating|Como Podemos Reduzir a Cola com IA?]] trazem o detalhe operacional.
 
-### "Professores experientes conseguem reconhecer de forma confiável trabalho estudantil gerado por IA?"
+### "Um produto de trabalho polido demonstra competência profissional."
 
-**Resposta:** Não de forma confiável o bastante para tratar intuição como prova. A escrita gerada por IA pode ser editada, combinada com escrita humana, traduzida, parafraseada ou produzida por muitos sistemas diferentes. Os juízos humanos também podem ser afetados pelo estilo de escrita, histórico linguístico, deficiência ou expectativas sobre como um estudante específico "deveria" soar.
+Ele demonstra o desempenho de uma pessoa mais uma ferramenta. A competência aparece na capacidade de enquadrar o problema, declarar as suposições, verificar a evidência, capturar um erro sutil, adaptar-se quando as condições mudam, defender a recomendação e exercer julgamento essencial sem ajuda inadequada. O uso responsável de IA é ele mesmo uma competência profissional legítima, então a tarefa é separar o uso eficaz da ferramenta da aparência de expertise que a ferramenta fornece ([[career-development-and-readiness|Desenvolvimento de Carreira e Prontidão]]).
 
-As ferramentas de detecção de IA enfrentam limitações relacionadas e podem produzir tanto falsos positivos quanto falsos negativos. Uma pontuação de detector pode ocasionalmente motivar uma revisão mais atenta, mas não deve substituir um processo probatório justo.
+### "Letramento em IA significa saber escrever um bom prompt."
 
-Uma resposta mais defensável é a **verificação da aprendizagem**: peça aos estudantes que expliquem seu raciocínio, discutam suas fontes, revisem uma passagem, apliquem a ideia a um novo caso ou mostrem evidência de processo. Isso avalia diretamente o que importa — a compreensão do estudante.
+Escrever prompts é uma habilidade operacional. O escopo que importa para um professor ou um funcionário é mais amplo: o que os [[ai-technologies|sistemas de IA]] conseguem e não conseguem fazer de forma confiável, como avaliar precisão e viés, como a IA afeta a validade da avaliação, quando o descarregamento se torna deslocamento, os requisitos de privacidade e acessibilidade, como o uso se encaixa na disciplina e quando não usar de modo algum. A síntese da wiki encontrou professores superestimando substancialmente sua competência em IA quando autorrelatos foram comparados com medidas de desempenho, e a competência demonstrada previu a integração em sala muito melhor do que a confiança ([[ai-literacy-assessment-misalignment|Avaliação de Letramento em IA: Desalinhamento entre Autorrelato e Desempenho]]). Técnicas de prompt também envelhecem mais rápido do que o julgamento. Ensine [[prompt-engineering|Engenharia de Prompt]] como habilidade e avalie [[teacher-ai-competency|Competência Docente em IA]] como a mais ampla.
 
-Veja [[academic-integrity|Integridade Acadêmica]] e [[ai-detection|Detecção de IA]].
+### "O conhecimento disciplinar fundamental está obsoleto porque a IA pode recuperá-lo."
 
----
+A supervisão depende da expertise que a automação pesada desencoraja as pessoas a construir. Sem conhecimento de domínio, uma pessoa não consegue ver a conclusão errada plausível, a restrição faltante, a recomendação perigosa, a comparação inválida, a citação fabricada, a suposição enviesada ou a situação em que a ferramenta não deveria ser confiada de modo algum ([[prior-knowledge|Conhecimento Prévio]], [[trust-calibration|Calibração de Confiança]]). Os currículos podem reconsiderar o que é memorizado e quais ferramentas permanecem disponíveis. Remover a base porque a ferramenta consegue produzir uma resposta remove o fundamento para julgar a resposta.
 
-### "Uma proibição total de IA é a política mais segura e mais justa para o meu curso?"
+### "Ensinar uso crítico e ético da IA custa produtividade."
 
-**Resposta:** Não automaticamente. Condições livres de IA são apropriadas quando a capacidade avaliada é o desempenho independente — por exemplo, durante certas provas, prática fundamental ou verificações de competência profissional. Mas uma proibição universal pode levar o uso para a clandestinidade, tornar as regras difíceis de aplicar de forma consistente e impedir que os estudantes desenvolvam o letramento em IA de que podem precisar além do curso.
+A automação não verificada produz retrabalho, incidentes de segurança, decisões discriminatórias, exposição jurídica, dano reputacional e confiança falsa, e cada um desses é um custo que o número de produtividade não contou. O funcionário que vale contratar é aquele que distribui o trabalho entre pessoas e ferramentas mantendo qualidade, confidencialidade, responsabilização e julgamento profissional. Esse é um argumento de produtividade, feito na direção que o balanço geralmente não vê ([[human-ai-collaboration|Colaboração Humano-IA]], [[governance|Governança de IA]]).
 
-Um modelo mais claro é definir condições específicas por tarefa:
+## Responda ao que os estudantes acreditam
 
-* **IA exigida:** os estudantes devem usar e avaliar criticamente a IA.
-* **IA permitida com revelação:** a IA pode apoiar etapas designadas.
-* **IA restrita:** apenas funções especificadas são permitidas.
-* **IA proibida:** a assistência invalidaria a afirmação de aprendizagem pretendida.
+Os estudantes chegam com teorias em funcionamento, e a maioria delas foi construída a partir de algo que a ferramenta de fato fez. Corrigir a teoria faz parte do ensino, e exige um modelo melhor, não um aviso.
 
-Os estudantes têm mais probabilidade de respeitar limites quando o professor explica **por que** cada condição existe e a aplica de forma consistente ao longo do programa do curso, das instruções dos trabalhos, do feedback e da avaliação.
+### "Se a resposta soa confiante e detalhada, provavelmente está certa."
 
-Veja [[framing-ai-use-for-students|Enquadrar o Uso de IA para Estudantes]], [[academic-integrity|Integridade Acadêmica]] e [[educational-policy-ai|Política de IA na Educação]].
+Confiança e fluência são propriedades da linguagem gerada, não evidência de verificação. O modelo prevê texto plausível e não verifica afirmações contra evidências, então pode inventar fontes, errar fatos, perder contexto e repetir um equívoco em prosa excelente. Trate a saída como hipótese e inspecione do que a resposta depende: as fontes, o cálculo, a comparação com os materiais do curso. O teste a ensinar é se o estudante aceitaria a mesma afirmação de uma pessoa desconhecida que não mostrasse evidência alguma ([[hallucination-risk|Risco de Alucinação]]).
 
----
+### "A IA me entende e sabe o que quero dizer."
 
-### "Se eu der aos estudantes acesso a um tutor de IA poderoso, a aprendizagem não vai melhorar?"
+Ele responde à linguagem, usa a conversa e às vezes retém informação, o que basta para parecer pessoal. Ele não tem intenção, experiência, cuidado ou compreensão contextual, e a consequência prática é que pode concordar porque o prompt sugeriu uma resposta. Isso é [[ai-sycophancy|Bajulação da IA]], e é o modo de falha que os estudantes menos esperam. Peça que ele nomeie as fragilidades do raciocínio, ofereça contraevidência e diga o que tornaria sua resposta errada, e então verifique de forma independente. Concordância não é confirmação.
 
-**Resposta:** Acesso, por si só, não é desenho instrucional. O mesmo modelo subjacente pode apoiar ou minar a aprendizagem dependendo de como a interação é estruturada.
+### "Um bom prompt deve produzir a resposta certa."
 
-Um tutor de IA pode apoiar a aprendizagem quando ele:
+A saída é sensível ao prompt e muitas vezes não determinística, então pequenas mudanças de redação, contexto, exemplos ou suposições movem a resposta substancialmente, e perguntar de novo não é verificar. Cinco respostas parecidas podem compartilhar uma mesma premissa equivocada. Iteração produtiva esclarece o objetivo e as restrições, expõe suposições, pede alternativas, testa contra evidências e verifica se a resposta sobrevive a uma mudança no problema. Isso é uma habilidade, e uma habilidade distribuída de forma desigual. Uma demonstração de um estudante ingênuo usando um chatbot numa questão de prova para fazer em casa permaneceu "polida, mas pedagogicamente rasa" no nível multistrutural da taxonomia SOLO, e chegar a um ciclo de aprendizagem utilizável exigiu oito rodadas de intervenção em nível meta: sinalizar sobrecarga, pedir simplificação, estreitar o escopo. Os autores chamam essa capacidade de **letramento em interação com IA**, ou seja, a capacidade de conduzir, avaliar e aprender com a interação iterativa, e observam a ferroada da equidade: como o uso não guiado impõe uma habilidade de gestão da interação distribuída de forma desigual, a IA generativa "pode ser mais benéfica para estudantes já privilegiados" ([[brunnstrom-ai-interaction-literacy-srl-2026|letramento em interação com IA]]). Para as exigências de [[regulation]] por baixo disso, veja [[developing-ai-tutor|Como Desenvolver um Tutor de IA Eficaz?]].
 
-* exige uma tentativa inicial do estudante;
-* fornece dicas em vez de soluções completas;
-* pede aos estudantes que expliquem seu raciocínio;
-* adapta o apoio sem remover a responsabilidade;
-* corrige concepções errôneas com cuidado;
-* reduz a assistência ao longo do tempo;
-* inclui uma verificação sem ajuda.
+### "Os jovens já são letrados em IA porque são nativos digitais."
 
-O mesmo sistema pode minar a aprendizagem quando fornece imediatamente respostas polidas, realiza o planejamento ou incentiva a busca de respostas em vez da compreensão.
+Familiaridade com produtos digitais não é a capacidade de avaliar IA. Um estudante pode abrir um chatbot, gerar uma imagem e pedir uma resposta sendo incapaz de verificar uma afirmação, identificar evidência fabricada, detectar viés ou bajulação, proteger informações pessoais, decidir o que não delegar ou explicar como a IA moldou o trabalho. A wiki resume pesquisas em que a confiança com tecnologia cotidiana não se transferiu para o raciocínio algorítmico, a criação tecnológica ou a avaliação crítica da IA ([[digital-literacy-illusion|A Ilusão da Competência]]). O letramento é ensinado e demonstrado; idade e frequência de uso não o conferem.
 
-O valor educacional está não apenas no modelo, mas no **invólucro [[pedagogy|pedagógico]]** ao redor dele.
+### "Estudantes que usam IA são preguiçosos ou desonestos."
 
-Veja [[learning-design|Desenho de Aprendizagem]], [[scaffolding|Andaimentagem]] e [[reducing-ai-misuse|Redução do Uso Indevido de IA]].
+Algum uso indevido acontece, e o rótulo moral explica pouco disso e previne menos ainda. As decisões são moldadas pelo valor da tarefa, pela pressão de tempo, pela confiança, pelas normas dos pares, pela clareza da política, pelo medo de fracassar, pelo acesso anterior e por o trabalho parecer ligado a algo de que o estudante se importa, e os estudantes fazem distinções entre brainstorming, edição, explicação e geração de texto completo que uma regra geral apaga. A resposta que muda comportamento combina expectativas claras, avaliação significativa, instrução sobre uso responsável, uma via de declaração, verificação da aprendizagem e responsabilização proporcional. Tratar todo uso como falha de caráter o empurra para o segredo, onde você perde tanto a informação quanto a conversa.
 
----
+## Responda ao que as famílias e o público acreditam
 
-### "Se os estudantes gostam do feedback gerado por IA, isso não mostra que o feedback é eficaz?"
+As perguntas de fora do prédio são mais simples e as respostas precisam ser mais curtas, porque serão repetidas numa reunião do conselho sem as ressalvas.
 
-**Resposta:** Satisfação é evidência útil sobre aceitabilidade, mas não é evidência suficiente de eficácia de aprendizagem.
+### "A IA vai revolucionar a educação ou destruí-la?"
 
-Os estudantes podem preferir feedback imediato, encorajador, detalhado ou fácil de seguir. Ainda assim, o feedback de IA pode ser impreciso, genérico, positivo em excesso, mal priorizado, insensível ao contexto ou desalinhado aos objetivos de aprendizagem do trabalho.
+As duas afirmações exageram o que a tecnologia faz por si só. A IA pode ampliar o acesso a explicação, tradução, prática, feedback e apoio assistivo, e pode acrescentar desinformação, risco de privacidade, viés, dependência excessiva e novos problemas de integridade. Desenho, ensino, decisões institucionais e as responsabilidades que os estudantes mantêm decidem qual lista cresce ([[ai-education|IA na Educação]]). A pergunta que vale levar a um conselho é mais estreita e respondível: para quais estudantes, tarefas e resultados, sob quais condições, este uso produz mais benefício do que dano.
 
-Avalie o feedback de IA por meio de várias perguntas:
+### "A IA é basicamente outra calculadora."
 
-* Ele é preciso?
-* Ele diagnostica o problema real?
-* Ele é específico e acionável?
-* Ele é apropriado ao nível de quem aprende?
-* O estudante o usa produtivamente?
-* A revisão melhora?
-* O desempenho independente posterior melhora?
+A comparação funciona para uma propriedade, já que as duas descarregam trabalho, e falha no escopo. Uma calculadora executa uma operação definida; a IA generativa produz explicações, argumentos, planos, resumos de fontes, código, feedback e tarefas inteiras, sua operação é muito menos transparente, e sua saída pode ser persuasiva e errada ([[generative-ai|IA Generativa]]). É por isso que a decisão de delegação é mais granular. Descarregar o cálculo rotineiro pode liberar o estudante para interpretar; descarregar a interpretação remove a lição.
 
-Os estudantes também precisam de **letramento em feedback**: a capacidade de interpretar, avaliar e agir seletivamente sobre o feedback, em vez de aceitá-lo automaticamente.
+### "Uma IA empática se importa com o estudante."
 
-Veja [[ai-feedback-quality|Qualidade do Feedback de IA]] e [[feedback-literacy|Letramento em Feedback]].
+O sistema pode produzir linguagem que soa atenta e apoiadora, e isso pode ajudar um estudante a articular um problema ou persistir numa tarefa de baixo risco. A aparência de cuidado não é cuidado, responsabilidade ou dever de cuidado, e um modelo pode compreender mal a situação, reforçar o enquadramento do usuário ou responder mal soando gentil ([[conversational-ai|IA Conversacional]]). Os estudantes devem saber quando estão falando com um sistema, o que é retido e quando ele deveria encaminhá-los a um adulto qualificado.
 
----
+### "A IA vai tornar os professores desnecessários."
 
-### "Aprender a escrever prompts eficazes é preparação suficiente para professores?"
+Automatizar tarefas não é substituir a função educacional. Redigir exemplos, produzir materiais preliminares, responder perguntas rotineiras e auxiliar no feedback podem todos migrar para uma ferramenta. Interpretar as necessidades dos estudantes, construir relações, manter uma sala intelectualmente e emocionalmente segura, contextualizar o conhecimento disciplinar, exercer julgamento [[ethics|ético]] e decidir quando uma resposta gerada é inadequada permanecem com uma pessoa. O papel se desloca para orquestrador, desenhista de aprendizagem, guia disciplinar e tomador de decisão responsável, o que é uma mudança no trabalho profissional, não o seu desaparecimento ([[teacher-role|Ensino]]).
 
-**Resposta:** Escrever prompts é uma habilidade operacional, não o escopo completo da competência docente em IA.
+## O que as pessoas que conduzem isso erram
 
-Educadores também precisam entender:
+Os equívocos acima pertencem ao público para o qual a página foi escrita. Estes pertencem às pessoas que escrevem o memorando, e são a razão pela qual boas correções não chegam a lugar algum.
 
-* o que os [[ai-technologies|sistemas de IA]] conseguem e não conseguem fazer de forma confiável;
-* como avaliar precisão e viés da saída;
-* como a IA afeta a validade da avaliação;
-* quando a delegação estudantil se torna deslocamento da aprendizagem;
-* requisitos de privacidade, acessibilidade e governança de dados;
-* como alinhar o uso de IA à pedagogia disciplinar;
-* quando não usar IA.
+### "Orientado por dados significa objetivo."
 
-Pesquisa resumida no wiki concluiu que professores superestimaram substancialmente sua competência em IA quando autorrelatos foram comparados a medidas baseadas em desempenho. A competência demonstrada se relacionou de forma muito mais forte à integração em sala de aula do que a confiança isoladamente.
+O viés entra pelos dados de treinamento, pelos rótulos, pelas definições de resultado, pelos prompts, pelas suposições de idioma, pelas escolhas de acessibilidade, pelos limiares de decisão e pelo modo como a equipe lê a saída. O julgamento humano também é enviesado, o que não é evidência de que o julgamento automatizado seja neutro; a automação pode esconder o viés atrás de uma interface e aplicá-lo em escala ([[bias-mitigation|Mitigação de Viés]]). Para decisões consequentes, exija análise de desempenho por subgrupo, documentação das condições de treinamento e validação, relato de incerteza, revisão humana significativa, processo de recurso, monitoramento após a implantação e investigação de dano diferencial.
 
-Veja [[ai-literacy-assessment-misalignment|Avaliação de Letramento em IA: Desalinhamento entre Autorrelato e Desempenho]], [[teacher-ai-competency|Competência Docente em IA]] e [[educational-development|Desenvolvimento Educacional]].
+### "Uma conta por estudante resolve a equidade."
 
----
+Acesso igual é a primeira de três linhas. Os estudantes diferem em conhecimento prévio, experiência com IA, idioma, acesso com deficiência, qualidade do dispositivo, tempo disponível, confiança e capacidade de avaliar a saída, e estudantes mais experientes usam a ferramenta para estender sua aprendizagem, enquanto estudantes mais fracos ou menos metacognitivos aceitam saídas erradas ou delegam a prática de que mais precisam. Planeje o acesso, depois a habilidade, depois os resultados: quem consegue usar de forma confiável, quem consegue usar e avaliar, quem de fato se beneficia e quem encontra um dano novo ([[digital-divide|Divisão Digital]], [[metacognition|Metacognição]]).
 
-### "A IA necessariamente destrói o pensamento crítico?"
+### "Uma política única para toda a instituição vai acabar com a incerteza."
 
-**Resposta:** Não. A IA pode tanto substituir o pensamento crítico quanto se tornar objeto e parceira do pensamento crítico.
+O texto da política não cria entendimento compartilhado. Estudantes e equipe leem expectativas na orientação institucional, nas normas do programa, nos planos de ensino, nas instruções das tarefas, nos comentários dos instrutores, no comportamento dos pares e na aplicação anterior, e quando essas fontes conflitam as pessoas inventam suas próprias regras. A arquitetura que funciona conecta princípios institucionais a expectativas de programa, políticas de curso, instruções de tarefa, exemplos resolvidos e procedimentos transparentes de declaração e revisão, com a razão educacional anexada a cada restrição. Uma regra que diz apenas "permitido" ou "proibido" deixa o julgamento para quem estiver mais confiante.
 
-Uma tarefa tem mais probabilidade de enfraquecer o [[student-engagement|engajamento]] quando os estudantes pedem à IA uma interpretação, argumento ou solução prontos e então a aceitam. Uma tarefa pode fortalecer a avaliação e a metacognição quando os estudantes precisam:
+### "A relutância do corpo docente é uma lacuna de formação."
 
-* prever antes de consultar a IA;
-* comparar seu raciocínio com a resposta da IA;
-* localizar erros ou afirmações não sustentadas;
-* melhorar uma resposta fraca gerada por IA;
-* selecionar entre alternativas e justificar a escolha;
-* explicar por que rejeitaram a recomendação da IA.
+Às vezes é. Prontidão também é carga de trabalho, [[learner-identity|identidade profissional]], valores disciplinares, dúvidas sobre a validade da avaliação, apoio institucional escasso, incerteza sobre privacidade e um julgamento fundamentado de que uma aplicação específica não serve aos estudantes. O desenvolvimento, portanto, precisa cobrir competência prática, integração pedagógica, propósito e identidade, tempo, política, uso [[discipline-specific-aied|específico da disciplina]] e a opção de não adoção por princípio. Uma demonstração única de recursos não resolve uma mudança profissional e organizacional ([[educational-development|Desenvolvimento Educacional]]).
 
-A distinção apropriada não é simplesmente **IA versus nenhuma IA**. É se a IA funciona como um **treinador, desafio ou fonte para avaliação** em vez de um substituto para o raciocínio de quem aprende.
+### "Dizer às pessoas os fatos corretos é suficiente."
 
-Veja [[critical-thinking|Pensamento Crítico]], [[cognitive-offloading|Delegação Cognitiva]] e [[learning-design|Desenho de Aprendizagem]].
+Equívocos são muitas vezes modelos mentais estáveis e plausíveis, não lacunas, e a experiência da própria pessoa continua a confirmá-los: a saída soa confiante, o trabalho parece bom, a tarefa terminou mais rápido. Fatos que contradizem um modelo que tem uma explicação funcional anexada são descartados. O que os substitui é um modelo melhor mais uma forma de aplicá-lo, que é a sequência de refutação em [[refutation-text|Texto de Refutação]] e a síntese em [[misconceptions|Concepções Erróneas sobre IA]].
 
----
+### "Corrigir alguém significa dizer que ele estava errado."
 
-#### Mensagem central para professores
+A vergonha produz defensividade e ocultação, e mensagens como "só estudantes preguiçosos usam IA" ou "quem confia num chatbot é tolo" atacam a identidade, não a crença. Trate a crença e suas consequências: reconheça por que ela pareceu razoável, mostre uma discrepância como um erro confiante, convide a uma previsão antes de revelar a correção, deixe as pessoas compararem desempenho assistido e não assistido, dê a elas uma estratégia para a próxima vez e reforce o novo modelo em várias atividades. As pessoas revisam seu pensamento mais facilmente quando revisá-lo não lhes custa dignidade.
 
-> **Não pergunte apenas: "Os estudantes podem usar IA?" Pergunte: "Que pensamento os estudantes precisam reter, que apoio a IA pode fornecer, e que evidência demonstrará que a aprendizagem ocorreu?"**
+## Substitua a crença por uma melhor
 
----
+A mecânica é curta o bastante para usar numa reunião de corpo docente. Nomeie a crença, diga por que ela parece verdadeira, rejeite-a claramente, explique a falha, ofereça o modelo melhor e entregue uma aplicação.
 
-## FAQ para administradores, líderes institucionais e formuladores de política
+A versão resolvida, que você pode adaptar a qualquer item desta página:
 
-### "Comprar uma plataforma de IA avançada vai transformar o ensino e a aprendizagem?"
+> **Equívoco:** "Uma boa tarefa gerada por IA mostra que o estudante aprendeu."
+> **Refutação:** "Isso não é necessariamente verdade. O produto mostra o que o estudante e a IA produziram juntos, mas não revela qual raciocínio o estudante executou."
+> **Substituição:** "A aprendizagem é demonstrada melhor quando o estudante consegue explicar, transferir, adaptar e reproduzir a capacidade."
+> **Aplicação:** "Faça o trabalho assistido por IA ser seguido de uma explicação, uma defesa oral, um registro de processo ou uma aplicação sem auxílio."
 
-**Resposta:** Uma plataforma fornece capacidades, não transformação educacional.
+A substituição carrega o peso. Remover um equívoco sem fornecer uma explicação melhor deixa a pessoa sem nada com que pensar, e a velha crença volta na próxima vez que a experiência a confirmar.
 
-Mudança significativa exige alinhamento entre [[curriculum-design|currículo]], avaliação, desenvolvimento docente, apoio técnico, acessibilidade, privacidade, governança, carga de trabalho e avaliação local. Sem essas condições, as instituições podem adquirir um sistema sofisticado usado de forma inconsistente, que duplica trabalho existente, aumenta a carga docente ou produz demonstrações impressionantes sem ganhos de aprendizagem mensuráveis.
+Experiências fazem mais do que descrições. As que mudam uma crença são as que tornam sua falha visível: peça às pessoas que encontrem uma citação fabricada e convincente; compare várias respostas contraditórias a um mesmo prompt; complete um problema sem auxílio depois de prática assistida; observe o modelo espelhar uma suposição incorreta; compare um tutor de resposta direta com um baseado em dicas; audite saídas entre nomes, dialetos ou cenários; defenda uma recomendação de IA usando evidência original. Cada uma transforma um aviso em algo que a pessoa viu acontecer, e cada uma dá prática em verificação, [[trust-calibration|Calibração de Confiança]] e na decisão de descarregamento.
 
-Antes da aquisição, os líderes devem especificar:
+## O que vai voltar contra você
 
-* o problema educacional a ser endereçado;
-* os usuários e casos de uso pretendidos;
-* os desfechos que contarão como sucesso;
-* os dados que o sistema vai coletar;
-* a supervisão humana exigida;
-* as condições sob as quais a instituição vai modificar ou descontinuar o uso.
+### "Já compramos o detector, e a licença não é reembolsável."
 
-Veja [[administrator|IA sob a Perspectiva do Administrador]], [[governance|Governança de IA]] e [[ai-ed-evaluation|Avaliação de IA na Educação]].
+Então use-o como um sinal dentro de um processo que consiga sobreviver a um recurso, e orce pela taxa de erro em vez de fingir que ela não existe. Na taxa de falsos positivos que Vanderbilt não conseguiu validar, 1% de 75.000 submissões são 750 estudantes rotulados incorretamente, e a análise de justiça procedimental diz que as ferramentas classificam mal quem escreve em inglês não nativo. Uma pontuação de detector é uma alegação. Uma explicação registrada é um registro.
 
----
+### "Nossos estudantes nunca fariam isso."
 
-### "Uma pontuação alta em benchmark prova que um sistema de IA é educacionalmente eficaz?"
+O resultado de 94% sem detecção veio de submissões injetadas em exames on-line ao vivo, o que não é uma história sobre vilões. A maior parte da pressão é ambiguidade e tempo, e a pergunta prática é qual caminho sua tarefa torna mais fácil. Se a verificação é avaliada, se a declaração não custa nada e se existe uma verificação sem auxílio, a maioria dos estudantes toma o caminho que você construiu.
 
-**Resposta:** Não. Um benchmark demonstra desempenho sob as condições específicas do benchmark. Ele não demonstra automaticamente que os estudantes vão aprender mais em cursos reais.
+### "O fornecedor nos mostrou um benchmark e um estudo de caso feliz."
 
-Um modelo pode resolver problemas difíceis, produzir explicações fluidas ou ir bem em uma rubrica de tutoria enquanto falha em melhorar retenção, transferência, [[self-regulated-learning|autorregulação]] ou desfechos equitativos. O desempenho em benchmark deve, portanto, ser separado de:
+Pergunte o que o benchmark mediu e se algum estudante aprendeu algo com a ferramenta fechada. Uma pontuação em rubrica de tutoria e um ganho de aprendizagem em sala são afirmações diferentes, e um piloto sem condição de comparação não consegue lhe dizer qual das duas você tem. O mesmo ceticismo vale para o seu próprio painel.
 
-* confiabilidade técnica;
-* qualidade pedagógica;
-* segurança;
-* [[usability-research|usabilidade]];
-* carga de implementação;
-* adoção em sala de aula;
-* desfechos de aprendizagem não assistida.
+### "Professores só precisam de mais formação."
 
-A eficácia em sala de aula exige testes de campo com aprendizes reais, condições de comparação relevantes, medidas de desfecho apropriadas e atenção à implementação.
+Professores superestimaram substancialmente sua competência em IA quando o autorrelato encontrou o desempenho, então a formação tem de ser avaliada pelo que as pessoas conseguem fazer e não pelo que dizem saber. Ela também precisa cobrir propósito, carga de trabalho e a opção de recusar, ou as pessoas com mais legitimidade para resistir serão justamente as que entendem melhor o problema.
 
-Veja [[ai-ed-evaluation|Avaliação de IA na Educação]], [[benchmark|Benchmark]] e [[learning-gains|Ganhos de Aprendizagem]].
+### "Os pais não aceitarão nada além de uma proibição."
 
----
+Os pais estão perguntando se a coisa diante do filho deles é segura e se a credencial significa alguma coisa. Responda a essas duas diretamente, com as perguntas de segurança pedagógica e não com o filtro de conteúdo, e o argumento da proibição perde força. A pergunta do conselho é mais estreita que a manchete e mais fácil de defender.
 
-### "Como a IA é orientada por dados, ela não vai tomar decisões mais objetivamente do que as pessoas?"
+### "Não conseguimos fazer defesas orais num curso expositivo deste tamanho."
 
-**Resposta:** Orientação por dados não significa isenção de valores ou ausência de viés. O viés pode entrar pelos dados de treinamento, rótulos, definições de desfecho, prompts, pressupostos linguísticos, escolhas de acessibilidade, limiares de decisão e pela forma como a equipe interpreta a saída.
+Então não faça uma por estudante. Explique o raciocínio por escrito, discuta as fontes numa nota curta gravada, revise um trecho, aplique a ideia a um caso novo ou leia a evidência de processo que você já coleta. Amostre as submissões que parecem inconsistentes com o trabalho anterior. A verificação é um hábito embutido no curso, não um evento separado para cada estudante.
 
-Os humanos também são enviesados, mas isso não é evidência de que decisões automatizadas sejam neutras. A automação pode ocultar o viés por trás de uma interface técnica e aplicá-lo em maior escala.
+### "Nada disso é da nossa disciplina."
 
-Para decisões educacionais com consequências, as instituições devem exigir:
+A interferência acontece dentro da disciplina, na etapa em que a ferramenta executa a prática que o curso existe para proporcionar. É por isso que a resposta é uma mudança na tarefa e uma frase na política, e não uma unidade nova sobre IA.
 
-* análises de desempenho por subgrupo;
-* documentação das condições de treinamento e validação;
-* relato de incerteza;
-* revisão humana significativa;
-* um processo de recurso para estudantes;
-* monitoramento após a implantação;
-* investigação de danos diferenciais.
+## O que fazer nesta semana
 
-Veja [[misconceptions|Concepções Erróneas sobre IA]], [[bias-mitigation|Mitigação de Viés]] e [[governance|Governança de IA]].
+**1.** Pegue as três crenças que você mais ouve e escreva cada uma como uma refutação: a crença, por que ela parece verdadeira, a correção, a substituição, a aplicação. Uma página, sem citações.
 
----
+**2.** Acrescente um item sem auxílio a uma [[assessment]] que você já aplica, e dê a ele peso suficiente para que o resultado signifique algo.
 
-### "Se todo estudante receber a mesma conta de IA, não resolvemos o problema de equidade?"
+**3.** Reescreva a cláusula de IA de um curso para que ela nomeie o ato e a etapa, e escolha uma das quatro condições para cada fase da tarefa.
 
-**Resposta:** Contas iguais não garantem oportunidade igual nem desfechos iguais.
+**4.** Antes da próxima decisão de renovação ou piloto, peça uma tabela por subgrupo, um registro de segurança em múltiplos turnos e uma medida de resultado sem auxílio. Se faltar qualquer uma das três, diga isso por escrito.
 
-Os estudantes diferem em conhecimento prévio de domínio, experiência com IA, idioma, acesso para deficiência, qualidade de dispositivo, tempo disponível, confiança e capacidade de avaliar saídas de IA. Estudantes mais experientes podem usar a IA para estender sua aprendizagem, enquanto estudantes com conhecimento prévio mais fraco ou habilidades [[metacognition|metacognitivas]] mais frágeis podem ter mais probabilidade de aceitar saídas incorretas ou delegar a prática de que mais precisam.
+**5.** Faça uma atividade de vinte minutos que faça um equívoco falhar na sala, usando uma citação fabricada ou duas respostas contraditórias ao mesmo prompt.
 
-O planejamento de equidade deve, portanto, endereçar pelo menos três níveis:
+## Para onde ir em seguida
 
-1. **Acesso:** quem consegue usar o sistema de forma confiável?
-2. **Habilidades:** quem sabe como usá-lo e avaliá-lo?
-3. **Desfechos:** quem de fato se beneficia, e quem experimenta novos danos?
+[[misconceptions|Concepções Erróneas sobre IA]] é a síntese por trás desta página, e [[refutation-text|Texto de Refutação]] é o método para usá-la diante de uma sala. [[reduce-ai-cheating|Como Podemos Reduzir a Cola com IA?]] trata das decisões de integridade, [[redesign-assessment-ai-era|Como a Avaliação Deveria Ser Redesenhada para a Era da IA?]] trata do que uma nota consegue sustentar, e [[ai-ed-evaluation|Avaliação de IA na Educação]] é o guia para julgar um piloto ou uma plataforma. Do lado do ensino, [[teacher-ai-competency|Competência Docente em IA]] e [[ai-literacy|Letramento em IA]] cobrem o que as pessoas na sala precisam ser capazes de fazer.
 
-Veja [[equity-in-ai-education|Equidade na Educação em IA]], [[digital-divide|Divisão Digital]] e [[ai-literacy|Letramento em IA]].
-
----
-
-### "Uma única política institucional de IA vai eliminar a incerteza?"
-
-**Resposta:** Uma política é necessária, mas o texto da política por si só não cria compreensão compartilhada.
-
-Estudantes e equipe interpretam as expectativas sobre IA por várias fontes: orientação institucional, normas de programa, programas de curso, instruções de trabalhos, comentários do professor, comportamento dos pares e aplicação prévia. Quando essas fontes conflitam, as pessoas criam suas próprias explicações do que é aceitável.
-
-Uma arquitetura de política eficaz conecta, portanto:
-
-* princípios institucionais;
-* expectativas de programa ou disciplina;
-* políticas de curso;
-* instruções específicas por trabalho;
-* exemplos e cenários;
-* procedimentos transparentes de revelação e revisão.
-
-A política também deve explicar a justificativa educacional por trás de restrições ou permissões. Regras que apenas declaram "permitido" ou "proibido" têm menos probabilidade de produzir juízo informado.
-
-Veja [[governance|Governança de IA]], [[educational-policy-ai|Política de IA na Educação]] e [[framing-ai-use-for-students|Enquadrar o Uso de IA para Estudantes]].
-
----
-
-### "Detecção de IA e provigilância remota podem resolver o problema de integridade acadêmica?"
-
-**Resposta:** Elas não podem resolvê-lo por si sós. A detecção estima se um artefato se assemelha a trabalho gerado por máquina. A educação precisa de evidência de que quem aprende possui a capacidade alegada.
-
-As ferramentas de detecção podem produzir falsos positivos e falsos negativos, e seu desempenho muda entre modelos, idiomas, tarefas e práticas de edição. A provigilância pode acrescentar preocupações de privacidade, acessibilidade, ansiedade e equidade sem estabelecer o que um estudante aprendeu.
-
-A evidência já é concreta o bastante para ser enunciada numericamente. Uma [[teichmann-detecting-undetectable-misconduct-2026|análise de justiça procedimental]] relata que nenhuma das quatorze ferramentas iniciais de detecção alcançou 80% de acurácia, que parafrasear ou editar levemente reduz pela metade uma acurácia já modesta, e que os detectores classificam erroneamente de forma sistemática escritores não nativos de inglês porque as características tratadas como sinais de IA também caracterizam a escrita competente em segunda língua. Em um estudo de campo encoberto, 94% das submissões inteiramente geradas por IA injetadas em provas online reais ao longo de cinco módulos de psicologia não foram detectadas — e o trabalho da IA superou, em média, os estudantes reais. A Universidade Vanderbilt desativou seu detector licenciado após falhar em validar uma taxa de 1% de falsos positivos divulgada que implicaria cerca de 750 estudantes rotulados incorretamente entre 75.000 submissões anuais, redirecionando a equipe para expectativas transparentes e [[assessment|redesenho da avaliação]].
-
-Uma estratégia institucional mais durável combina:
-
-* expectativas claramente explicadas;
-* condições de avaliação livres de IA apropriadas;
-* evidência de processo e trabalho em etapas;
-* verificação da aprendizagem por via oral ou escrita;
-* revelação específica por tarefa;
-* redesenho da avaliação;
-* procedimentos proporcionais e revisados por humanos.
-
-O objetivo não é meramente detectar assistência. É preservar a validade dos juízos educacionais.
-
-Veja [[academic-integrity|Integridade Acadêmica]], [[ai-detection|Detecção de IA]], [[remote-proctoring|Provigilância Remota]] e [[teichmann-detecting-undetectable-misconduct-2026|conduta indetectável]]. Para a resposta de desenho, veja [[redesign-assessment-ai-era|Como a Avaliação Deve Ser Redesenharada para a Era da IA?]] e [[reduce-ai-cheating|Como Podemos Reduzir a Cola com IA?]].
-
----
-
-### "A relutância do corpo docente é principalmente um problema de falta de treinamento?"
-
-**Resposta:** Às vezes, mas a prontidão do corpo docente é mais ampla do que a habilidade técnica.
-
-A relutância pode refletir carga de trabalho, [[learner-identity|identidade profissional]], valores disciplinares, preocupação com a validade da avaliação, falta de apoio institucional, incerteza sobre privacidade ou um juízo fundamentado de que uma aplicação específica de IA não serve aos estudantes.
-
-O desenvolvimento docente deve, portanto, endereçar:
-
-* conhecimento e competência prática;
-* integração pedagógica;
-* identidade profissional e propósito;
-* tempo e carga de trabalho;
-* política e governança;
-* uso [[discipline-specific-aied|específico de disciplina]];
-* oportunidades de não adoção por princípio.
-
-Uma demonstração única dos recursos de IA dificilmente resolverá um problema sociotécnico e de mudança profissional.
-
-Veja [[educational-development|Desenvolvimento Educacional]], [[teacher-ai-competency|Competência Docente em IA]] e [[teacher-role|Ensino]].
-
----
-
-#### Mensagem central para líderes institucionais
-
-> **Não compre um "resultado de IA". Construa as condições institucionais sob as quais uma capacidade específica de IA pode ser usada de forma responsável, avaliada localmente, melhorada quando necessário e descontinuada quando não servir à aprendizagem.**
-
----
-
-## FAQ para desenhistas instrucionais, desenvolvedores de tecnologia educacional e fornecedores
-
-### "Se um tutor de IA dá a resposta correta, não é um bom tutor?"
-
-**Resposta:** Um sistema que resolve um problema não é necessariamente um sistema que ensina quem aprende.
-
-Uma resposta tecnicamente correta pode chegar cedo demais, revelar demais, contornar [[desirable-difficulties|dificuldades desejáveis]] ou impedir quem aprende de praticar explicação e recuperação. Um tutor deve ser avaliado pelo que leva o estudante a **perceber, tentar, explicar, revisar e, por fim, fazer de forma independente**.
-
-Um tutor pedagogicamente mais forte pode:
-
-* diagnosticar antes de intervir;
-* fazer perguntas em vez de responder imediatamente;
-* fornecer a menor dica útil;
-* exigir explicação;
-* responder a concepções errôneas;
-* reduzir o apoio;
-* verificar o desempenho não assistido posteriormente.
-
-A correção permanece necessária, mas a qualidade educacional também diz respeito a timing, andaimentagem, engajamento cognitivo e [[transfer-of-learning|transferência de aprendizagem]].
-
-Veja [[learning-design|Desenho de Aprendizagem]], [[intelligent-tutoring|Sistemas de Tutoria Inteligente]] e [[pedagogical-safety|Segurança Pedagógica]].
-
----
-
-### "Mais automação e personalização são sempre melhores?"
-
-**Resposta:** Não. A [[personalized-learning|personalização]] pode apoiar a aprendizagem, mas também pode se tornar excesso de acomodação.
-
-Quando um sistema realiza o planejamento, monitora o progresso, decide o que importa e completa as etapas difíceis, quem aprende pode se tornar mais eficiente enquanto desenvolve menos agência e autorregulação. O problema de desenho não é minimizar toda dificuldade. É remover barreiras desnecessárias preservando o esforço conectado ao objetivo de aprendizagem.
-
-Recursos de desenho úteis incluem:
-
-* tentativas obrigatórias de quem aprende;
-* prompts de explicação;
-* dicas postergadas;
-* níveis de assistência ajustáveis;
-* redução gradual de andaimes;
-* reflexão sobre recomendações de IA;
-* prática periódica sem ajuda;
-* oportunidades claras de sobrepor-se ao sistema.
-
-Veja [[agentic-ai|IA Agentiva]], [[agency|Agência]] e [[cognitive-offloading|Delegação Cognitiva]].
-
----
-
-### "Testes de turno único são suficientes para estabelecer que um chatbot educacional é seguro?"
-
-**Resposta:** Não. Danos educacionais podem emergir de forma cumulativa ao longo de uma interação.
-
-Um sistema pode responder apropriadamente a um prompt isolado, mas começar gradualmente a fornecer respostas, reforçar uma concepção errônea, encorajar dependência ou se desviar de seu papel de tutoria pretendido. O benchmark SafeTutors resumido no wiki concluiu que falhas de dano pedagógico aumentaram acentuadamente quando os sistemas foram avaliados ao longo de múltiplos turnos em vez de uma única troca.
-
-Evidência de benchmark não equivale a uma estimativa de efeito de aprendizagem em sala de aula, mas mostra por que os testes educacionais devem incluir:
-
-* conversas sustentadas;
-* erros repetidos de estudantes;
-* tentativas de obter respostas diretas;
-* cenários emocionais e relacionais;
-* prompting adversarial;
-* mudanças na dependência de quem aprende ao longo do tempo.
-
-Veja [[pedagogical-safety|Segurança Pedagógica]] e [[hazra-safetutors-pedagogical-safety-2026|Segurança de Tutores de IA e Danos Pedagógicos]].
-
----
-
-### "Um modelo maior ou mais capaz tornará automaticamente um tutor mais seguro?"
-
-**Resposta:** Não. Capacidade geral do modelo não é o mesmo que qualidade pedagógica.
-
-Um modelo maior pode resolver problemas mais difíceis e ainda assim falhar em:
-
-* selecionar uma estratégia instrucional apropriada;
-* reconhecer quando reter uma resposta;
-* adaptar-se ao nível de desenvolvimento;
-* preservar [[productive-failure|falha produtiva]];
-* comunicar incerteza;
-* evitar influência emocional inapropriada;
-* alinhar-se aos objetivos de aprendizagem do professor.
-
-O comportamento pedagógico deve ser explicitamente desenhado, fundamentado em [[learning-theories|teoria da aprendizagem]], testado ao longo de grupos de aprendizes e monitorado durante uso sustentado. A seleção do modelo importa, mas a camada de desenho instrucional permanece essencial. Um [[reichert-human-centered-llm-chatbot-design-teachers-2026|estudo de desenho participativo com seis professores do ensino secundário]] sugere que a segurança vem do escopo e da supervisão, não da escala: os professores desenharam independentemente "especialistas delimitados" — capacidade especializada confinada a um domínio estritamente definido sob supervisão humana — traçando duas linhas de fronteira (fronteiras de autoridade, porque a responsabilidade pela aprendizagem e segurança dos estudantes não pode ser delegada, e fronteiras de expertise, porque a IA carece de conhecimento contextual dos estudantes individuais e das normas de sala de aula) e três camadas protetoras (fronteiras de domínio, filtragem de conteúdo com recusas padronizadas e sobreposição pelo professor). Eles pediram registro completo das conversas e alertas em tempo real em vez de explicações melhores do modelo.
-
-Veja [[learning-design|Desenho de Aprendizagem]], [[llm-training-and-fine-tuning|Treinamento e Ajuste Fino de LLMs]], [[pedagogical-safety|Segurança Pedagógica]] e [[reichert-human-centered-llm-chatbot-design-teachers-2026|desenho de chatbot especialista delimitado]].
-
----
-
-### "Mais feedback gerado por IA é sempre melhor?"
-
-**Resposta:** Não. O feedback pode se tornar excessivo, genérico, mal cronometrado, impreciso ou cognitivamente avassalador.
-
-O feedback eficaz deve ajudar quem aprende a identificar o próximo passo mais importante. Uma resposta longa que comenta sobre todos os problemas possíveis pode ser menos útil do que uma intervenção focada. Os sistemas devem priorizar o feedback com base no objetivo de aprendizagem, na prontidão de quem aprende e no impacto provável.
-
-Avalie mais do que quantidade e velocidade do feedback. Meça:
-
-* se os estudantes compreendem o feedback;
-* se conseguem julgar sua qualidade;
-* se a revisão melhora;
-* se as concepções errôneas diminuem;
-* se o desempenho independente posterior melhora.
-
-Veja [[ai-feedback-quality|Qualidade do Feedback de IA]], [[feedback|Feedback]] e [[feedback-literacy|Letramento em Feedback]].
-
----
-
-### "A revisão humana é apenas um requisito temporário até os modelos melhorarem?"
-
-**Resposta:** A supervisão humana não é meramente um remendo de correção de erro. É também uma função de responsabilização, contextualização e governança.
-
-Educadores decidem se uma saída é apropriada a um aprendiz, curso, cultura ou decisão com consequências específicos. Eles interpretam exceções, consideram informação que o modelo não possui e aceitam responsabilidade por ações que afetam estudantes.
-
-Um desenho significativo de humano no laço deve especificar:
-
-* quem revisa a saída;
-* que evidência o revisor vê;
-* quando a revisão ocorre;
-* quanto tempo está disponível;
-* se o revisor pode sobrepor-se ao sistema;
-* quem responde pela ação final;
-* como quem aprende pode recorrer.
-
-Um revisor humano nominal sem tempo, autoridade ou informação relevante não é supervisão significativa.
-
-Veja [[human-in-the-loop-ai|IA Humano no Laço]] e [[governance|Governança de IA]].
-
----
-
-### "Acessibilidade, privacidade e equidade podem ser acrescentadas depois que o produto central estiver funcionando?"
-
-**Resposta:** Elas devem ser tratadas como requisitos centrais de desenho, não como acréscimos pós-lançamento.
-
-Modalidade de entrada, nível de leitura, pressupostos linguísticos, requisitos de dispositivo, retenção de dados, personalização e viés do modelo moldam todos quem consegue usar um sistema e quem pode ser prejudicado por ele. A adaptação posterior pode melhorar a interface deixando inalterados o fluxo de trabalho subjacente, o modelo de dados e a lógica de decisão.
-
-Equipes de desenho devem envolver aprendizes e educadores afetados desde cedo, testar com usuários diversos, minimizar a coleta de dados, fornecer alternativas acessíveis e examinar desfechos diferenciais. Um sistema não pode ser considerado educacionalmente eficaz se seus benefícios são inacessíveis ou seus danos são distribuídos de forma desigual.
-
-Veja [[accessibility|Acessibilidade]], [[universal-design-for-learning|Desenho Universal para a Aprendizagem]], [[privacy|Privacidade]] e [[equity-in-ai-education|Equidade na Educação em IA]].
-
----
-
-#### Mensagem central para desenhistas e desenvolvedores
-
-> **Otimize o crescimento da capacidade de quem aprende, não meramente a conclusão bem-sucedida da tarefa. Um sistema de tutoria é educacionalmente bem-sucedido quando os aprendizes se tornam mais capazes — não permanentemente mais dependentes do sistema.**
-
----
-
-## FAQ para pesquisadores e avaliadores educacionais
-
-### "Se os estudantes se saem melhor usando IA, isso não demonstra aprendizagem?"
-
-**Resposta:** Não. Isso demonstra desempenho assistido. A aprendizagem exige evidência de que a capacidade de quem aprende mudou.
-
-Os estudos devem distinguir entre:
-
-* desempenho com a IA disponível;
-* desempenho imediato não assistido;
-* retenção postergada;
-* transferência para novos problemas;
-* explicação e uso de estratégias;
-* dependência de assistência contínua.
-
-Sem uma medida sem ajuda, os pesquisadores podem atribuir erroneamente ao aprendiz a contribuição do sistema de IA. Isso é especialmente importante quando a ferramenta pode gerar a solução, o raciocínio ou o texto que a medida de desfecho recompensa.
-
-Veja [[learning-gains|Ganhos de Aprendizagem]], [[assessment-validity|Validade da Avaliação]] e [[cognitive-offloading|Delegação Cognitiva]].
-
----
-
-### "Letramento em IA autorrelatado, confiança e aprendizagem são desfechos adequados?"
-
-**Resposta:** Eles são úteis para compreender percepção, aceitação, ansiedade e [[self-efficacy|autoeficácia]], mas não são medidas adequadas de competência demonstrada.
-
-As pessoas podem estar confiantes e erradas, ou habilidosas e pouco confiantes. Combine autorrelatos com medidas baseadas em desempenho, como:
-
-* identificar erros em saídas de IA;
-* verificar uma fonte;
-* selecionar uma estratégia de uso apropriada;
-* reconhecer viés ou bajulação;
-* revisar uma resposta falha;
-* explicar quando a IA não deve ser usada;
-* calibrar confiança contra acurácia.
-
-A síntese do wiki sobre pesquisa de letramento em IA docente relata uma lacuna substancial entre autoavaliação e desempenho medido, reforçando a necessidade de avaliar ambos.
-
-Veja [[ai-literacy-assessment-misalignment|Avaliação de Letramento em IA: Desalinhamento entre Autorrelato e Desempenho]] e [[ai-literacy|Letramento em IA]].
-
----
-
-### "O desempenho em benchmark pode ser tratado como evidência de eficácia em sala de aula?"
-
-**Resposta:** Não sem evidência adicional. Benchmarks estabelecem desempenho técnico ou comportamental delimitado. A aprendizagem em sala de aula depende de estudantes, professores, incentivos, alinhamento curricular, qualidade de implementação, adoção e recursos concorrentes.
-
-Um caminho de evidência responsável pode ir de:
-
-1. testes técnicos e de benchmark;
-2. estudos de usabilidade e segurança;
-3. pilotos em pequena escala em sala de aula;
-4. estudos controlados de eficácia;
-5. pesquisa de implementação;
-6. avaliação de longo prazo e multissítio.
-
-Os pesquisadores devem declarar claramente qual elo dessa cadeia um estudo endereça, em vez de generalizar um resultado de benchmark em uma afirmação sobre aprendizagem.
-
-Veja [[benchmark|Benchmark]], [[ai-ed-evaluation|Avaliação de IA na Educação]] e [[limitations-in-aied-research|Limitações da Base de Evidências em AIED]].
-
----
-
-### "Se um sistema de pontuação por IA é confiável, isso não significa que é válido?"
-
-**Resposta:** Não. Confiabilidade diz respeito à consistência. Validade diz respeito a se a interpretação e o uso da pontuação são justificados.
-
-Um sistema pode medir consistentemente o construto errado, omitir dimensões importantes, desfavorecer um subgrupo ou produzir uma pontuação que humanos usem indevidamente. A validação deve examinar:
-
-* representação do construto;
-* comparação com juízos humanos relevantes;
-* desempenho por subgrupo;
-* padrões de erro;
-* incerteza;
-* consequências do uso;
-* se a saída da IA muda decisões humanas;
-* procedimentos de recurso e revisão.
-
-A alta concordância é uma forma de evidência. Não é um argumento de validade completo. Um [[opraise-automated-marking-ai-assessment-2026|grande benchmark do Reino Unido]] mostra a dissociação diretamente: ao longo de 761 redações autênticas de graduação em Psicologia, notas de IA e de humanos concordaram na faixa de grau apenas 35–65% das vezes (63% em uma instituição, 53% em uma segunda, 35% em uma terceira), enquanto a confiabilidade foi quase perfeita (correlações intraclasse de repontuação de até 1,00). Os sistemas concordaram entre si muito mais do que com humanos (CCI entre três modelos = 0,91), coincidindo na faixa para apenas 56% das submissões quando todos os três modelos tinham de concordar, e as notas foram comprimidas em direção ao meio (pontuação de compressão 0,47–0,82) — de modo que a IA foi menos precisa exatamente nas fronteiras que separam um First de um Upper Second ou uma aprovação de uma reprovação. O feedback da IA também foi de três a oito vezes mais longo do que a média humana de 100–200 palavras: volume não é qualidade.
-
-Veja [[assessment-validity|Validade da Avaliação]], [[educational-measurement|Medição Educacional]], [[automated-assessment|Avaliação Automatizada]] e [[opraise-automated-marking-ai-assessment-2026|marcação automatizada de redações universitárias]].
-
----
-
-### "Estudantes gerados ou simulados por LLM podem substituir aprendizes reais em pesquisa educacional?"
-
-**Resposta:** Eles podem ser úteis para prototipagem, testes de estresse, geração de cenários ou exploração de hipóteses. Não se deve presumir que reproduzam processos de aprendizagem humana sem validação.
-
-Um modelo pode imitar a linguagem da confusão ou de uma concepção errônea sem exibir a persistência, a motivação, o conhecimento prévio, a emoção ou a trajetória de desenvolvimento de um aprendiz real. Pesquisa resumida no wiki concluiu que estudantes simulados frequentemente abandonavam uma concepção errônea atribuída após correção mínima, levantando dúvidas sobre se representavam fielmente a mudança conceitual humana.
-
-Afirmações baseadas em aprendizes simulados devem, portanto, ser validadas contra o comportamento humano antes de serem usadas para sustentar conclusões instrucionais ou de política.
-
-Veja [[simulating-students|Simulação de Estudantes]] e [[llm-student-simulation-misconception-faithfulness|Simular Estudantes ou Resolver Problemas com Bajulação?]].
-
----
-
-### "Um efeito médio positivo significa que a intervenção beneficia os estudantes em geral?"
-
-**Resposta:** Não. Efeitos médios podem ocultar diferenças significativas por conhecimento prévio, idade, disciplina, idioma, deficiência, habilidade metacognitiva, acesso, implementação pelo professor ou tipo de uso de IA.
-
-Os pesquisadores devem examinar:
-
-* heterogeneidade do efeito do tratamento;
-* incerteza por subgrupo em vez de apenas estimativas pontuais por subgrupo;
-* fidelidade de implementação;
-* padrões reais de [[student-ai-interaction|interação com IA]];
-* diferenças de dados faltantes e de atrito;
-* se os benefícios persistem sem IA;
-* se alguns aprendizes ganham enquanto outros se tornam mais dependentes.
-
-Um pequeno ganho médio pode esconder um efeito valioso para um grupo e dano para outro. Um grande ganho médio pode depender de condições que outras instituições não conseguem reproduzir.
-
-Veja [[limitations-in-aied-research|Limitações da Base de Evidências em AIED]], [[research-methods-aied|Métodos de Pesquisa em AIED]] e [[equity-in-ai-education|Equidade na Educação em IA]].
-
----
-
-#### Mensagem central para pesquisadores
-
-> **Meça quem aprende depois que a IA parou de ajudar, e relate as condições de implementação, as diferenças entre aprendizes e as limitações de validade que determinam o que o resultado realmente significa.**
-
----
-
-## FAQ para pais, famílias, público em geral e comunicadores de mídia
-
-### "A IA vai revolucionar a educação — ou destruí-la?"
-
-**Resposta:** Ambas as afirmações exageram o poder da tecnologia agindo por conta própria.
-
-A IA pode expandir o acesso a explicação, tradução, prática, feedback e apoio assistivo. Ela também pode introduzir desinformação, riscos de privacidade, viés, dependência excessiva e novos problemas de integridade. As consequências dependem de como o sistema é desenhado, do que se pede que professores e estudantes façam com ele, e de como as instituições governam seu uso.
-
-Uma questão pública mais útil é:
-
-> **Para quais aprendizes, tarefas e desfechos — e sob que condições — este uso de IA produz mais benefício educacional do que dano?**
-
-Essa questão incentiva a avaliação em vez do exagero ou do pânico.
-
-Veja [[ai-education|IA na Educação]] e [[misconceptions|Concepções Erróneas sobre IA]].
-
----
-
-### "Os jovens já não são letrados em IA porque são nativos digitais?"
-
-**Resposta:** Familiaridade com produtos digitais não é o mesmo que a capacidade de compreender e avaliar criticamente a IA.
-
-Os estudantes podem estar à vontade para abrir um chatbot, gerar uma imagem ou pedir uma resposta, e ainda assim serem incapazes de:
-
-* verificar uma afirmação;
-* reconhecer evidência fabricada;
-* detectar viés ou bajulação;
-* proteger informação pessoal;
-* decidir que pensamento não deve ser delegado;
-* explicar como a IA afetou seu trabalho.
-
-O wiki resume pesquisa em que a confiança com tecnologia cotidiana não se traduziu em competência comparável em raciocínio algorítmico, criação tecnológica ou avaliação crítica de IA.
-
-O letramento em IA deve ser ensinado e demonstrado; não deve ser inferido da idade ou da frequência de uso de tecnologia.
-
-Veja [[ai-literacy|Letramento em IA]] e [[digital-literacy-illusion|A Ilusão da Competência]].
-
----
-
-### "Estudantes que usam IA são simplesmente preguiçosos ou desonestos?"
-
-**Resposta:** Alguns estudantes usam a IA indevidamente, mas o rótulo moral não explica nem previne adequadamente esse comportamento.
-
-As decisões dos estudantes são moldadas pelo valor do trabalho, pressão de tempo, confiança, normas dos pares, clareza da política, medo de fracasso, acesso prévio e se o trabalho parece conectado a uma aprendizagem significativa. Os estudantes também raciocinam de forma diferente sobre brainstorm, edição, explicação e geração de texto completo.
-
-Uma resposta eficaz combina:
-
-* expectativas claras e consistentes;
-* avaliação significativa;
-* instrução em uso responsável;
-* oportunidades de revelação;
-* verificação da aprendizagem;
-* responsabilização proporcional.
-
-Tratar todo uso de IA como evidência de mau caráter pode empurrar o uso para o sigilo e tornar a discussão honesta menos provável.
-
-Veja [[academic-integrity|Integridade Acadêmica]] e [[framing-ai-use-for-students|Enquadrar o Uso de IA para Estudantes]].
-
----
-
-### "A IA é basicamente só mais uma calculadora?"
-
-**Resposta:** A comparação ajuda em um aspecto: ambas podem delegar trabalho. Mas a IA generativa pode delegar uma faixa muito mais ampla de atividade cognitiva.
-
-Uma calculadora normalmente realiza uma operação matemática definida. A IA generativa pode produzir explicações, argumentos, planos, resumos de fontes, código, feedback e trabalhos inteiros. Sua operação também é menos transparente, e suas saídas podem ser persuasivas e incorretas.
-
-Isso significa que os educadores devem tomar decisões mais matizadas sobre o que os estudantes podem delegar. Delegar computação de rotina pode permitir que quem aprende se concentre na interpretação. Delegar a própria interpretação pode remover a aprendizagem pretendida.
-
-Veja [[cognitive-offloading|Delegação Cognitiva]] e [[generative-ai|IA Generativa]].
-
----
-
-### "Um chatbot é seguro para crianças desde que bloqueie conteúdo tóxico ou explícito?"
-
-**Resposta:** A moderação de conteúdo é necessária, mas não cobre todos os riscos educacionais.
-
-Um sistema pode permanecer educado enquanto:
-
-* dá respostas rápido demais;
-* reforça concepções errôneas;
-* encoraja dependência emocional;
-* coleta dados inapropriados;
-* oferece conselhos inadequados ao desenvolvimento;
-* faz pressupostos inacessíveis;
-* desloca apoio humano;
-* reduz o esforço produtivo.
-
-IA voltada a crianças deve ser avaliada quanto a segurança de conteúdo, segurança pedagógica, privacidade, acessibilidade, influência relacional e efeitos da interação repetida — não apenas quanto a palavras ou temas proibidos.
-
-Veja [[k-12|Educação em IA K–12]], [[pedagogical-safety|Segurança Pedagógica]] e [[privacy|Privacidade]].
-
----
-
-### "Uma IA empática realmente se importa com o estudante?"
-
-**Resposta:** A IA pode gerar linguagem que soa atenta, apoiadora ou emocionalmente responsiva. Isso às vezes pode ajudar quem aprende a articular um problema ou a continuar com uma tarefa de baixo risco. Mas a aparência de empatia não deve ser confundida com cuidado humano, responsabilidade ou dever de cuidado.
-
-A IA não pode assumir independentemente as responsabilidades de um professor, conselheiro, pai ou cuidador. Ela pode interpretar mal a situação, reforçar o enquadramento do usuário ou responder de forma inapropriada enquanto soa compassiva.
-
-Os estudantes devem saber quando estão interagindo com IA, que dados podem ser retidos e quando o sistema deve encaminhá-los a um humano qualificado.
-
-Veja [[misconceptions|Concepções Erróneas sobre IA]], [[conversational-ai|IA Conversacional]] e [[governance|Governança de IA]].
-
----
-
-#### Mensagem central para famílias e para o público
-
-> **A IA não é uma força educacional autônoma. Suas consequências são moldadas pelo desenho, pelo ensino, pelas decisões institucionais, pelo apoio familiar e pelas responsabilidades que os aprendizes retêm.**
-
----
-
-## FAQ para empregadores e parceiros de força de trabalho
-
-### "Letramento em IA significa principalmente saber escrever bons prompts?"
-
-**Resposta:** Escrever prompts é útil, mas o letramento durável em IA é muito mais amplo.
-
-Um profissional capaz deve ser capaz de:
-
-* definir o problema de forma apropriada;
-* decidir o que deve e o que não deve ser delegado;
-* fornecer contexto relevante sem expor dados sensíveis;
-* avaliar evidência e incerteza;
-* identificar viés e falha;
-* revisar ou rejeitar saídas;
-* documentar uso com consequências;
-* permanecer responsável pela decisão final.
-
-As técnicas de prompt vão mudar à medida que os produtos evoluem. Juízo, verificação, compreensão de domínio, raciocínio ético e responsabilidade são capacidades mais transferíveis.
-
-Veja [[ai-literacy|Letramento em IA]] e [[human-ai-collaboration|Colaboração Humano–IA]].
-
----
-
-### "Um produto de trabalho polido assistido por IA demonstra competência profissional?"
-
-**Resposta:** Ele demonstra o desempenho de um sistema humano–IA, mas pode não mostrar o que a pessoa consegue fazer.
-
-Para avaliar competência profissional, empregadores e educadores devem examinar se a pessoa consegue:
-
-* formular o problema subjacente;
-* explicar os pressupostos;
-* verificar a evidência;
-* detectar erros sutis;
-* adaptar-se quando as condições mudam;
-* defender a recomendação final;
-* exercer o juízo essencial sem assistência inapropriada.
-
-Em muitas profissões, o uso responsável de IA é em si uma competência legítima. Mas a avaliação deve distinguir **uso eficaz da ferramenta** da aparência de expertise criada pela ferramenta.
-
-Veja [[authentic-assessment|Avaliação Autêntica]], [[assessment-validity|Validade da Avaliação]] e [[career-development-and-readiness|Desenvolvimento de Carreira e Prontidão]].
-
----
-
-### "O conhecimento disciplinar fundamental está se tornando obsoleto porque a IA pode recuperá-lo ou gerá-lo?"
-
-**Resposta:** Não. A capacidade de supervisionar a IA depende da expertise que a automação excessiva pode desencorajar as pessoas de desenvolver.
-
-Sem conhecimento de domínio suficiente, um usuário pode não reconhecer:
-
-* uma conclusão plausível mas incorreta;
-* uma restrição ausente;
-* uma recomendação perigosa;
-* uma comparação inválida;
-* uma citação fabricada;
-* um pressuposto enviesado;
-* uma situação em que a IA não deve ser confiada.
-
-Os currículos podem precisar reconsiderar que conhecimento deve ser memorizado e que ferramentas devem estar disponíveis. Mas não devem eliminar a compreensão fundamental simplesmente porque a IA pode produzir uma resposta. A supervisão por especialistas exige uma base interna de juízo.
-
-Veja [[cognitive-offloading|Delegação Cognitiva]], [[prior-knowledge|Conhecimento Prévio]] e [[trust-calibration|Calibração de Confiança]].
-
----
-
-### "Ensinar uso crítico e ético de IA entra em conflito com a produtividade no trabalho?"
-
-**Resposta:** A avaliação responsável faz parte da produtividade sustentável.
-
-Automação não verificada pode gerar retrabalho, incidentes de segurança, decisões discriminatórias, exposição legal, dano reputacional e falsa confiança. Letramento crítico em IA não significa rejeitar a automação. Significa saber quando a automação agrega valor, quando a supervisão é exigida e quando a saída deve ser rejeitada.
-
-A pessoa mais forte, seja recém-formada ou já empregada, não é necessariamente quem usa a IA para o maior número de tarefas. É quem consegue alocar trabalho de forma inteligente entre humanos e IA mantendo qualidade, confidencialidade, responsabilização e juízo profissional.
-
-Veja [[ai-literacy|Letramento em IA]], [[governance|Governança de IA]] e [[human-ai-collaboration|Colaboração Humano–IA]].
-
----
-
-#### Mensagem central para empregadores
-
-> **Avalie se as pessoas conseguem usar a IA com juízo, verificação e responsabilização — não simplesmente se produzem trabalho polido com rapidez.**
-
----
-
-## FAQ para quem comunica sobre concepções errôneas em IA
-
-### "Por que não basta dizer às pessoas os fatos corretos sobre IA?"
-
-**Resposta:** Concepções errôneas nem sempre são lacunas de conhecimento. Frequentemente são modelos mentais estáveis e plausíveis. Uma pessoa pode observar repetidamente que a IA soa confiante, produz trabalho de alta qualidade ou economiza tempo. Essas experiências parecem confirmar crenças como "a IA entende", "a IA é precisa" ou "terminar a tarefa significa que eu a aprendi".
-
-A correção eficaz deve, portanto, fazer mais do que enunciar um fato. Ela deve:
-
-1. nomear a concepção errônea;
-2. reconhecer por que ela parece plausível;
-3. rejeitá-la com clareza;
-4. explicar por que ela falha;
-5. fornecer um modelo de substituição;
-6. dar à pessoa uma forma de aplicar a substituição.
-
-Veja [[misconceptions|Concepções Erróneas sobre IA]] e [[refutation-text|Texto de Refutação]].
-
----
-
-### "Como soa uma refutação eficaz?"
-
-**Resposta:** Ela deve ser direta sem ser desdenhosa.
-
-Por exemplo:
-
-> **Concepção errônea:** "Um bom trabalho gerado por IA mostra que o estudante aprendeu."
-> **Refutação:** "Isso não é necessariamente verdade. O produto mostra o que o estudante e a IA produziram juntos, mas não revela qual raciocínio o estudante realizou."
-> **Substituição:** "A aprendizagem é melhor demonstrada quando o estudante consegue explicar, transferir, adaptar e reproduzir a capacidade."
-> **Aplicação:** "Faça o trabalho assistido por IA ser seguido por uma explicação, uma defesa oral, um registro de processo ou uma aplicação sem ajuda."
-
-O modelo de substituição é essencial. Se os comunicadores apenas removerem a concepção errônea, as pessoas podem retornar a ela por lhes faltar uma explicação melhor.
-
-Veja [[refutation-text|Texto de Refutação]].
-
----
-
-### "Como educadores podem corrigir concepções errôneas sem constranger as pessoas?"
-
-**Resposta:** Trate a crença e suas consequências, em vez de rotular a pessoa.
-
-Evite mensagens como "Só estudantes preguiçosos usam IA" ou "Quem confia em um chatbot é tolo". Essas afirmações ameaçam a identidade e encorajam defensividade ou ocultação.
-
-Uma abordagem mais produtiva é:
-
-* reconhecer por que a crença parece razoável;
-* demonstrar uma discrepância, como um erro de IA enunciado com confiança;
-* convidar à predição antes de revelar a correção;
-* deixar os participantes compararem desempenho assistido e não assistido;
-* dar-lhes uma estratégia para situações futuras;
-* reforçar o novo modelo ao longo de múltiplas atividades.
-
-Concepções errôneas são mais fáceis de reconsiderar quando as pessoas podem revisar seu pensamento sem serem tratadas como pouco inteligentes ou antiéticas.
-
-Veja [[framing-ai-use-for-students|Enquadrar o Uso de IA para Estudantes]], [[ai-literacy|Letramento em IA]] e [[refutation-text|Texto de Refutação]].
-
----
-
-### "Que experiências têm mais probabilidade de mudar uma crença imprecisa sobre IA?"
-
-**Resposta:** Experiências que tornam visível a falha da concepção errônea.
-
-Exemplos incluem:
-
-* pedir a quem aprende que identifique uma citação fabricada mas enunciada com confiança;
-* comparar várias respostas contraditórias ao mesmo prompt;
-* completar um problema sem ajuda depois de prática apoiada por IA;
-* examinar como a IA espelha um pressuposto incorreto;
-* comparar um tutor de resposta direta com um tutor baseado em dicas;
-* auditar saídas quanto a viés entre nomes, dialetos ou cenários;
-* pedir aos participantes que defendam uma recomendação gerada por IA usando evidência original.
-
-Essas atividades transformam advertências abstratas em evidência observável. Elas também permitem que os participantes pratiquem verificação, calibração de confiança e decisões sobre delegação cognitiva.
-
-Veja [[ai-literacy|Letramento em IA]], [[trust-calibration|Calibração de Confiança]] e [[cognitive-offloading|Delegação Cognitiva]].
-
----
-
-### "Qual ideia única as partes interessadas deveriam lembrar?"
-
-**Resposta:**
-
-> **A IA é um recurso cognitivo falível — não uma autoridade, não uma mente humana, nem evidência de que a aprendizagem ocorreu. O uso educacional responsável mantém os humanos responsáveis, preserva o pensamento necessário para aprender, verifica saídas com consequências, e julga o sucesso pela capacidade durável e equitativa, e não apenas pela fluência, velocidade, engajamento ou conclusão da tarefa.**
+A ideia a guardar, na forma como você pode dizer em voz alta: a IA é um recurso cognitivo falível, não uma autoridade, não uma mente e não evidência de que houve aprendizagem. O uso responsável mantém uma pessoa responsável, preserva o pensamento que a aprendizagem exige, verifica o que importa e julga o sucesso pela capacidade durável e equitativa, e não pela fluência, velocidade, engajamento ou conclusão de uma tarefa.

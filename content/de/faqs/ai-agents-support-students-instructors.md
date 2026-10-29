@@ -1,17 +1,21 @@
 ---
 title: "Wie können KI-Agenten Studierende und Lehrende unterstützen?"
 created: "2026-08-25T09:20:00-04:00"
-updated: "2026-10-24T23:50:47-04:00"
+updated: "2026-10-29T07:57:30-04:00"
 connected_faqs: [developing-ai-tutor, training-ai-tutors-to-guide-rather-than-answer]
 weight: 66
 audience: [instructors, learners, administrators]
 foundations: [agentic-ai, ai-literacy, cognitive-offloading]
 technology: [human-in-the-loop-ai, intelligent-tutoring, pedagogical-agent]
 translation_of: faqs/ai-agents-support-students-instructors
-source_updated: "2026-10-21T14:32:00-04:00"
+source_updated: "2026-10-28T11:29:19-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-29"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
@@ -20,37 +24,82 @@ ai_assist:
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
 
-**KI-Agenten können über das Beantworten einzelner Fragen hinausgehen**, indem sie planen, Werkzeuge nutzen, relevanten Kontext behalten, Teilaufgaben koordinieren und Unterstützung über eine Folge von Interaktionen anpassen. Für Studierende gehören adaptive Tutorings, Studienplanung, [[formative-assessment|formatives]] Feedback, angeleitetes [[problem-solving|Problemlösen]], Übungsgenerierung, Simulation, Empfehlungen zu Voraussetzungen und reflektierendes oder metakognitives [[prompt-engineering|Prompting]] zu den plausiblen Rollen. Für Lehrende können Agenten bei Materialentwicklung, [[automated-question-generation|Fragengenerierung]] und -validierung, Feedback-Triage, Kurs-[[learning-analytics|Analytics]], Instruktionsdesign-Workflows, Ressourcenabruf und der Orchestrierung spezialisierter Agenten helfen.
+Eine Anbieter-Demo läuft vierzig Minuten. Der Agent liest den Syllabus, entwirft das Quiz für nächste Woche, markiert drei Studierende, die die Lektüre nicht geöffnet haben, und bietet an, ihnen zu schreiben. Ihre Hochschulleitung will bis Ende des Monats eine Lizenzentscheidung.
 
-## Wiederkehrende agentische Fähigkeiten
+Ein [[agentic-ai|Agent]] plant, ruft Werkzeuge auf, hält Kontext, zerlegt Arbeit in Teilaufgaben und passt sich über Züge hinweg an, was mehr ist als ein [[conversational-ai|Chatbot]]. Die Rollen auf Seiten der Studierenden und der Lehrenden, die das eröffnet, sind real. Die Evidenz zeigt nicht, dass mehr Autonomie mehr Lernen erzeugt: In der einzigen direkten Vergleichsstudie hier lagen ein Agent und ein Chatbot gleichauf. Setzen Sie Autonomie dort ein, wo ein Mensch die Ausgabe prüft, lassen Sie die Planung bei der lernenden Person, und bewerten Sie die Lehrqualität gegen Ihre eigene Rubrik.
 
-Der Artikel [[agentic-workflows-education|Agentische Workflows in der Bildung]] beschreibt vier wiederkehrende agentische Fähigkeiten: **Reflexion, Planung, Werkzeugnutzung und Multi-Agent-Kollaboration**. Jede erweitert die Möglichkeiten, führt aber auch [[explainable-ai|Interpretierbarkeits-]], Koordinations-, Vertrauens-, Latenz- und Aufsichtsherausforderungen ein.
+## Die kurze Version
 
-## Was KI-Agenten gut können (positive Implikationen)
+**1.** Benennen Sie die Aufgabe, bevor Sie das Produkt benennen.
 
-- **Anhaltende, adaptive Unterstützung.** Anders als Single-Turn-[[conversational-ai|Chatbots]] können Agenten ein Lerngespräch über viele Turns aufrechterhalten – sich erinnern, was eine lernende Person weiß, Schwierigkeit anpassen und mehrstufiges [[scaffolding|Scaffolding]] sequenzieren. Das unterstützt [[adaptive-learning|adaptives]] und [[personalized-learning|personalisiertes]] Lernen im Maßstab.
-- **Entlastung der Lehrenden.** Agenten können Materialien entwerfen, Fragen generieren und validieren (etwa ein Generator-Validator-Paar), Feedback triagieren und spezialisierte Sub-Agenten orchestrieren, wodurch Lehrende für höherwertige Interaktion frei werden.
-- **Reiche Interaktion und [[desirable-difficulties|produktive Reibung]].** Multi-Agent-Klassenzimmer und simulierte Peers erzeugen vielfältige Dynamiken – peer-artigen Diskurs, konstruktive Uneinigkeit, Rollenspiel –, die [[collaborative-learning|kollaboratives Lernen]] und [[socratic-method|sokratisches Fragen]] unterstützen. Agenten, die hinterfragen statt zustimmen, können Lernende zu tieferem Überdenken drängen (konstruktiv-konfliktorische Agenten verbesserten in der Forschung Design-Ergebnisse).
-- **Risikoarme Übung und Simulation.** Agentenbasierte [[simulation|Simulationen]] ([[simulating-students|simulierte Studierende]], [[medical-education|klinische]] Szenarien) lassen Lernende in sicheren, wiederholbaren Umgebungen üben, bevor sie in der Praxis anwenden.
+**2.** Beginnen Sie auf der Seite der Lehrenden, wo eine Lehrperson die Arbeit ohnehin prüft.
 
-## Zentrale Risiken und Vorbehalte (negative Implikationen)
+**3.** Behandeln Sie zusätzliche Autonomie als Kosten, bis die Evidenz etwas anderes sagt.
 
-- **Überautomatisierung kann Lernen aushöhlen.** Je mehr ein Agent automatisiert, desto weniger kognitive Arbeit leistet die lernende Person. Proaktive Agenten können Studierende als passive Konsumierende zurücklassen, die anstrengungsvollen Prozesse schwächen, die dauerhaftes Lernen aufbauen, und das Risiko von [[cognitive-offloading|Überabhängigkeit]] erhöhen.
-- **Reduziertes metakognitives Engagement.** Wenn Agenten Planung und Monitoring übernehmen, entwickeln Lernende möglicherweise die [[metacognition]] und [[self-regulated-learning|Selbstregulation]] nicht, die Bildung aufbauen soll. Agenten sollten diese Prozesse hervorlocken, nicht ersetzen.
-- **Fehlplatziertes Vertrauen und Verifikationslücken.** Autonome Agenten können plausible, aber unvalidierte Ausgaben erzeugen; Lernende und Lehrende können sie [[trust-calibration|übervertrauen]]. Robuste Verifikation und [[ai-literacy]] werden wichtiger, je mehr [[agency|Autonomie]] Agenten gewinnen.
-- **Intransparenz und Rechenschaftspflicht.** Multi-Agent-Systeme erschweren [[human-in-the-loop-ai|menschliche Aufsicht]] – welcher Agent ist für einen Fehler verantwortlich, und wo greift ein Mensch ein? Koordinationsfehler und Persona-Drift können Verlässlichkeit und [[pedagogical-safety|pädagogische Sicherheit]] untergraben.
-- **[[equity-in-ai-education|Gerechtigkeit]] und Bias.** Agenten können Bias aus Trainingsdaten im Maßstab reproduzieren, und ungleicher Zugang zu leistungsfähigen agentischen Systemen kann Ungleichheit vergrößern.
+**4.** Lassen Sie Planung und Beurteilung bei der lernenden Person, denn dafür existiert die Aufgabe.
 
-## Was die Belege bislang zeigen
+**5.** Bewerten Sie den Agenten gegen Ihre Rubrik, und planen Sie eine Prüfung ohne Unterstützung ein, bevor der Pilot endet.
 
-Konkrete Ergebnisse – und Vorbehalte – häufen sich. [[wang-tutor-copilot-human-ai-live-tutoring-rct-2024|Tutor CoPilot]] – die erste [[rct|randomisierte kontrollierte Studie]] eines Mensch-KI-Systems im Live-Tutoring – gab Novizen-Tutorinnen und -Tutoren Echtzeit-Anleitung auf Expertenniveau, gewonnen aus der Argumentation erfahrener Tutorinnen und Tutoren: über **900 Tutoren und ~1.800 Studierende** hinweg beherrschten Studierende von Tutoren mit Zugang Themen mit **4 Prozentpunkten höherer Wahrscheinlichkeit**, steigend auf **9 Prozentpunkte** bei den am niedrigsten bewerteten Tutoren, deren Studierende zu denen höherbewerteter Tutoren in der Kontrollgruppe aufschlossen. Es kostete etwa **\$20 pro Tutor jährlich**, und die Analyse von **550.000+ Tutoring-Nachrichten** zeigte, dass Tutoren sich dahin verlagerten, leitende Fragen zu stellen, statt Antworten zu verraten – ein klarer Fall von KI, die die [[teacher-role|Lehrperson]] erweitert statt ersetzt.
+## Wählen Sie die Aufgabe, bevor Sie den Agenten wählen
 
-Aber „agentisch" ist nicht automatisch besser. [[ilieva-agentic-genai-higher-education-2026|Eine Studie mit 130 Studierenden in einem E-Commerce-Kurs]] fand sowohl [[generative-ai|GenAI]]-Chatbots als auch GAI-Agenten höher bewertet als traditionelles [[online-teaching-and-learning|E-Learning]] bei Lernunterstützung und [[personalized-learning|Personalisierung]] – doch **kein statistisch signifikanter Unterschied zwischen Chatbot- und Agentenbedingung**, sodass zusätzliche Autonomie sich nicht in zusätzlichen Lernwert übersetzte. Das vorgeschlagene Agentic-GAI-Supported-Learning-Framework behandelt Agenten deshalb als **begrenzte, menschlich überwachte Lernpartner**, mit Zielen, Kontrollpunkten und abschließenden Entscheidungen, die Menschen vorbehalten bleiben.
+[[agentic-workflows-education|Agentische Workflows in der Bildung]] benennt vier wiederkehrende Fähigkeiten: Reflexion, Planung, Werkzeugnutzung und Multiagenten-Kollaboration. Jede fügt eine Möglichkeit und zugleich Kosten hinzu, bei [[explainable-ai|Interpretierbarkeit]], Koordination, [[trust-calibration|Vertrauen]], Latenz und Aufsicht.
 
-Zwei weitere Vorbehalte sind bedeutsam. Erstens **Wash-out**: randomisierte Studien zeigen, dass selbst kurze KI-Unterstützung spätere unbegleitete Leistung senken kann, und das Intervall nach dem Entzug – benannt [[cognitive-washout-ai-skill-decay-2026|cognitive washout]] – ist fast vollständig ungemessen, sodass die Dauerhaftigkeit agentenunterstützter [[learning-gains|Lernzuwächse]] unbekannt ist. Zweitens **Evaluation**: [[zhang-platform-scores-miss-ai-teaching-agents-2026|der Einsatz von acht KI-Lehragenten über ein medizinisches Curriculum]] hinweg ordneten plattformgenerierte Werte Agenten anders als eine unabhängige Expertenrubrik (der von der Plattform drittplatzierte Agent rangierte bei Unterrichtsqualität zuletzt), weil Plattformwerte Studierendenleistung indexieren statt die Unterrichtsqualität des [[pedagogical-agent|Agenten]]. Der [[governance]]-Review [[beyond-agent-label-agentic-ai-governance-2026|Beyond the Agent Label]] fügt eine Verhältnismäßigkeitsregel hinzu – **Autonomie sollte nicht die Reife der Belege oder die Stärke rechenschaftspflichtiger menschlicher Kontrolle übersteigen** – und hält fest, dass die Belege für Artefakt-Ergebnisse am stärksten und für dauerhaftes Lernen und Gerechtigkeit am schwächsten sind. Für den Aufbau siehe [[developing-ai-tutor]]; für die Bewertung, ob er funktioniert, siehe [[evaluating-ai-interventions-methods]].
+Die Rollen auf Seiten der Studierenden reichen von [[adaptive-learning|adaptiver]] Nachhilfe und Lernplanung über [[formative-assessment|formatives]] Feedback, angeleitetes [[problem-solving|Problemlösen]] und Übungsgenerierung bis zu Empfehlungen zu Voraussetzungen und reflexivem [[metacognition|metakognitivem]] [[prompt-engineering|Prompting]]. Die Rollen auf Seiten der Lehrenden umfassen Materialentwicklung, [[automated-question-generation|Fragengenerierung]] und -validierung, Feedback-Triage, Kurs-[[learning-analytics|Analytics]], Instructional Design, Ressourcenabruf und die Orchestrierung spezialisierter Subagenten.
 
-## Stand der Belege
+Zwei davon sind früh sicherer, weil beide ein Artefakt erzeugen, das ein Mensch liest, bevor es Studierende lesen: ein Fragengenerator mit einem Validator und Entwürfe, die eine Lehrkraft bearbeitet.
 
-Die Belegbasis ist noch im Entstehen. Die Synthese [[agentic-ai|Agentic AI in der Bildung]] der Wissensbasis stützt sich auf einen [[meta-analysis-systematic-review|Scoping Review]] von 474 Studien, hält aber erhebliche Konzentration in [[higher-ed|Hochschulbildung]], [[stem-education|STEM]], kurzfristigen Designs und textbasiertem Tutoring fest; nur eine Minderheit der begutachteten Arbeit gründete ihre Systeme explizit in Bildungstheorie, und belastbare langfristige Validierung im Unterricht bleibt begrenzt.
+## Beginnen Sie dort, wo ein Mensch die Arbeit ohnehin prüft
 
-Die zentrale Designwarnung ist deshalb, größere Autonomie nicht mit besserem Lernen gleichzusetzen. [[agentic-ai-pedagogical-best-practice-2026|Agentic AI und pädagogische Best Practice]] empfiehlt intentionale Reibung, dynamisches Scaffolding und menschliche Aufsicht, damit Agenteninitiative nicht die eigene Planung, Überwachung, Urteil und Anstrengung der lernenden Person entfernt. Siehe auch [[intelligent-tutoring|Intelligent Tutoring]] und [[human-in-the-loop-ai|Human-in-the-Loop KI]].
+[[wang-tutor-copilot-human-ai-live-tutoring-rct-2024|Tutor CoPilot]], die erste [[rct|randomisierte kontrollierte Studie]] eines Mensch-KI-Systems in der Live-Nachhilfe, gab unerfahrenen Tutorinnen und Tutoren Echtzeithinweise, die aus dem Vorgehen erfahrener Tutoren stammten, über 900 Tutoren und rund 1.800 Studierende. Studierende von Tutoren mit Zugang erreichten um 4 Prozentpunkte häufiger Themenbeherrschung, steigend auf 9 Punkte bei den am schlechtesten bewerteten Tutoren, deren Studierende zu denen besser bewerteter Tutoren in der Kontrollgruppe aufschlossen. Es kostete etwa \$20 pro Tutor und Jahr, und die Analyse von über 550.000 Nachhilfenachrichten zeigte, dass Tutoren von Antwortgeben zu anleitenden Fragen übergingen. Das ist KI, die die [[teacher-role|Lehrperson]] erweitert.
+
+Der Agent unterrichtete nicht die studierende Person. Er speiste einen Menschen mitten im Gespräch, und der Mensch entschied, was zu sagen war. Ein Mensch im Kreislauf und ein Ergebnis nahe an der Arbeit sind das, was das Resultat auf einen anderen Kurs übertragbar macht.
+
+## Nehmen Sie nicht an, dass mehr Autonomie mehr Lernen kauft
+
+[[ilieva-agentic-genai-higher-education-2026|Eine Studie mit 130 Studierenden in einem E-Commerce-Kurs]] fand, dass sowohl [[generative-ai|generative-KI]]-Chatbots als auch Agenten gegenüber traditionellem [[online-teaching-and-learning|E-Learning]] bei Lernen und [[personalized-learning|Personalisierung]] besser bewertet wurden, ohne signifikanten Unterschied zwischen Chatbot und Agent. Mehr Autonomie, kein Zusatzwert bei diesen Maßen.
+
+Das Framework dieser Studie behandelt Agenten als begrenzte, menschlich beaufsichtigte Lernpartner, wobei Ziele, Prüfpunkte und abschließende Entscheidungen bei Menschen bleiben. [[beyond-agent-label-agentic-ai-governance-2026|Beyond the Agent Label]] macht daraus eine [[governance|Governance]]-Regel: Autonomie sollte weder die Reife der Evidenz noch die Stärke verantwortlicher menschlicher Kontrolle übersteigen, und die Evidenz ist am stärksten bei Ergebnissen auf Artefaktebene und am schwächsten bei dauerhaftem [[learning-gains|Lernen]] und [[equity-in-ai-education|Gerechtigkeit]].
+
+Das Risiko auf Seiten der Lernenden läuft in dieselbe Richtung. Ein Agent, der für eine studierende Person plant und überwacht, nimmt ihr die Übung, die [[self-regulated-learning|Selbstregulation]] aufbaut, und lädt zu [[cognitive-offloading|kognitiver Entlastung]] ein. [[agentic-ai-pedagogical-best-practice-2026|Best-Practice-Hinweise]] verlangen intentionale Reibung, ausblendendes [[scaffolding|Scaffolding]] und [[human-in-the-loop-ai|menschliche Aufsicht]]. [[desirable-difficulties|Produktive Reibung]] hat funktionierende Beispiele. Agenten des konstruktiven Konflikts, die mit einem schwachen Design streiten, verbesserten Designresultate in der geprüften Forschung. [[simulating-students|Simulierte Peers]] unterstützen [[collaborative-learning|kollaboratives Lernen]] und [[socratic-method|sokratisches]] Nachfragen, und [[medical-education|klinische]] [[simulation|Simulationen]] lassen Lernende üben, wo ein Fehler billig ist.
+
+Der Test für all das: Was kann die studierende Person nach der Sitzung, das vorher der Agent getan hat? Urteil abzugeben kostet die studierende Person die [[agency|Übung]] im Umgang damit.
+
+## Prüfen Sie den Agenten gegen Ihr eigenes Urteil
+
+[[zhang-platform-scores-miss-ai-teaching-agents-2026|Acht KI-Lehragenten, die über ein medizinisches Curriculum ausgerollt wurden]], wurden von plattformgenerierten Werten und von einer unabhängigen Expertenrubrik unterschiedlich gereiht. Der auf Platz drei gereihte Agent der Plattform kam bei der Lehrqualität zuletzt. Plattformwerte indizieren die Leistung der Studierenden, die sich aus Gründen bewegt, die nichts mit Lehre zu tun haben.
+
+Fragen Sie, was eine Dashboard-Zahl zählt, wer die Rubrik dahinter geschrieben hat und wie ein niedriger Wert in studentischer Arbeit aussähe. [[pedagogical-safety|Pädagogische Sicherheit]] gehört in dieselbe Prüfung, denn eine Kette von [[pedagogical-agent|Agenten]] macht es schwer zu sagen, welche Komponente verantwortlich ist, wenn eine Antwort falsch ist.
+
+## Planen Sie das Abschalten ein
+
+Randomisierte Studien zeigen, dass kurze KI-Unterstützung die spätere Leistung ohne Unterstützung drücken kann, und das Intervall nach dem Entzug, [[cognitive-washout-ai-skill-decay-2026|kognitives Auswaschen]], ist fast vollständig ungemessen. Die Synthese hinter dieser Seite stützt sich auf eine [[meta-analysis-systematic-review|Scoping-Review]] von 474 Studien und findet die Arbeiten konzentriert auf [[higher-ed|Hochschule]], [[stem-education|MINT]], kurzfristige Designs und textbasierte Nachhilfe, wobei nur eine Minderheit ausdrücklich in Bildungstheorie gegründet ist. Ein Pilot, der endet, wenn die Lizenz endet, hat das falsche Fenster gemessen.
+
+## Was Verwaltungen dabei falsch machen
+
+Ein Agent ist ein aufgerüsteter Chatbot, der Zugewinn sollte sich also in den Ergebnissen zeigen. Im Vergleich mit 130 Studierenden schlugen beide KI-Bedingungen das E-Learning, und keine schlug die andere.
+
+Das Dashboard reiht Lehrqualität. Es reiht die Leistung der Studierenden, und acht Agenten erzeugten eine Reihung, die den dritten und den letzten Platz gegenüber einer Expertenrubrik umkehrte.
+
+Autonomie ist die Funktion, die man kauft. Die Verhältnismäßigkeitsregel läuft andersherum, und die Evidenz ist am dünnsten, wo die Autonomie am größten ist.
+
+Zugang schließt die Gerechtigkeitslücke. Ungleicher Zugang zu leistungsfähigen agentischen Systemen kann sie vergrößern, und ein Agent reproduziert Bias aus Trainingsdaten im Maßstab.
+
+## Was Ihnen entgegenkommen wird
+
+**„Studierende lassen es einfach die Arbeit machen."** Manche werden das, und die Architektur entscheidet, wie leicht es fällt. Agenten, die für die studierende Person planen und entwerfen, laden dazu ein. Agenten, die einen Versuch verlangen und dann eine Frage stellen, nicht.
+
+**„Die Evaluation des Anbieters sagt, dass es funktioniert."** Fragen Sie, was die Zahl zählt. Wenn es plattformgemessene Leistung der Studierenden ist, misst sie die Studierenden ebenso sehr wie den Agenten.
+
+**„Niemand kann sagen, welcher Agent in einer Kette verantwortlich ist."** Das gilt für die meisten aktuellen Deployments. Benennen Sie eine Verantwortliche oder einen Verantwortlichen für die Kette, protokollieren Sie, welche Komponente welche Ausgabe erzeugt hat, und halten Sie einen menschlichen Prüfpunkt, bevor etwas in eine Studierendenakte gelangt.
+
+## Was Sie diese Woche tun können
+
+**1.** Schreiben Sie die Aufgabe und das Ergebnis, an dem Sie sie beurteilen werden, je einen Satz, bevor der nächste Anbietertermin stattfindet.
+
+**2.** Bewerten Sie die Ausgabe eines Agenten gegen Ihre Rubrik an zehn echten studentischen Arbeiten, und behalten Sie die Werte.
+
+**3.** Fügen Sie dem Pilotplan eine datierte, verantwortlich zugewiesene Aufgabe ohne Unterstützung hinzu.
+
+## Wohin als Nächstes
+
+[[developing-ai-tutor]] behandelt den Aufbau für Studierende vom Ziel bis zur Hilfeleiter, und [[evaluating-ai-interventions-methods]] behandelt, ob die Sache gewirkt hat. [[intelligent-tutoring]] und [[ai-literacy]] liefern das Designvokabular, das diese Seite voraussetzt.

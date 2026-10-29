@@ -16,6 +16,10 @@ page_kind: [evaluation]
 confidence: medium
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-29"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: drafting
     date: "2026-10-05"
@@ -25,111 +29,126 @@ ai_assist:
     date: "2026-10-14"
     agent: hermes-agent
 translation_of: faqs/how-can-ai-assist-with-educational-research
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-28T11:26:02-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
 
-# YZ Eğitim Araştırmalarına Nasıl Yardımcı Olabilir?
+Yazarlık arkadaşınız yöntem bölümünde ekibin kullandığı YZ araçları hakkında bir paragraf istiyor. Ya da tarama yığını son teslim tarihinin izin verdiğinden uzun. Ya da bir hakem nazikçe dökümleri bir insanın okuyup okumadığını sordu ve dürüst yanıtın ne olduğundan emin değilsiniz.
 
-YZ, bir eğitim araştırma projesinden gerçek işi çıkarabilir — literatür bulmak, binlerce özeti taramak, analiz kodu yazmak, açık uçlu yanıtları özetlemek, bir makaleyi sıkılaştırmak. Yapamadığı şey, projenin sonuçlarına ilişkin sorumluluğu taşımaktır. Dürüst tablo — ve kanıtların desteklediği tablo — devretme değil, bir iş bölümüdür: otomasyonu prosedürel yüke atayın, her çıktıyı doğrulayın ve yorumlayıcı kararları insanda tutun ([[scaffolding-systematic-reviews-2026|Wang ve ark., 2026]]).
-
-Bu sayfa, araştırma işinin *aracı* olarak YZ ile ilgilidir — arama, tarama, sentez, kodlama, analiz ve yazım; bir öğretim üyesinin kendi öğretimi üzerine yürüttüğü uygulayıcı araştırması dâhil. Belirli bir YZ *müdahalesinin* öğrenenlere yardımcı olup olmadığı ayrı bir sorudur; sonunda bağlantılanan SSS’lerde ve [[ai-assisted-educational-research|YZ Destekli Eğitim Araştırması]] sayfasında ele alınır. Aşağıdakilerin çoğu dürüstçe bir uyarıdır: kanıt tabanı incedir ve başarısızlık biçimlerinin birkaçı sessizdir.
+O toplantı için kısa yanıt: YZ aramayı, ilk tarama geçişini, kodlama triyajını ve taslak yazımını üstlenebilir; projenin vardığı sonuçların sorumluluğunu taşıyamaz. Hangi görevlerin ona açık olduğuna proje başlamadan karar verin, çıktıları adı belirli bir kişinin karar verdiği insan standardına göre doğrulayın ve bir dışarıdan kişinin ne olduğunu yeniden kurabileceği kadar kayıt tutun. Çoğu ekip doğrulama ve kayıt saatlerinin çıkarılan değil eklenen iş olduğunu görüyor.
 
 ## Kısa özet
 
-**1.** Proje başlamadan önce, hangi araştırma görevlerinin YZ kullanabileceğini ve hangilerinin kullanamayacağını yazılı olarak kararlaştırın. [[dai-chan-responsible-genai-research-ai-literacy-2026|Dai ve Chan’in (2026) odak grup çalışmasındaki]] araştırmacılar, kullanımı kapsamlı bir izne göre değil, risk düzeyine ve entelektüel merkeziliğe göre ayarladılar — düşük riskli prosedürel işlerde daha yoğun, bilimsel katkının merkezî olduğu yerlerde ise temkinli.
+**1.** İlk arama çalışmadan önce hangi araştırma görevlerinin YZ kullanabileceğini, hangilerinin kullanamayacağını yazın. Araca göre değil risk düzeyine göre sıralayın.
 
-**2.** Otomasyonu prosedürel yük üzerinde tutun. Tarama, en çok yardımcı olduğu yerdir; veri çıkarımı, uzlaştırma ve sentez, iş akışını bildiren tek ekipte insan incelemecilerde kaldı ([[scaffolding-systematic-reviews-2026|Wang ve ark., 2026]]).
+**2.** Otomasyonu taramaya koyun. Veri çıkarımı, uzlaştırma ve sentezi insanlarda tutun.
 
-**3.** Her çıktıyı insan standardına karşı doğrulayın ve kimin hakemlik (kesin kararı) yaptığını söyleyin. Bir model ile bir insan kodlayıcısı arasındaki — ya da iki model arasındaki — uyum, benzerlik ölçüsüdür; kodlamanın doğru olduğuna dair kanıt değildir ([[agreement-not-quality-llm-coding-verification]]).
+**3.** Otomatik bir geçiş veriye dokunmadan önce kod kitabını ve rubriği sabitleyin.
 
-**4.** Rubriklerinizi ve kod kitaplarınızı otomatikleştirilmiş analiz işlemeye başlamadan önce sabitleyin; yapılar, kodlama rubrikleri ve eğitim verileri model çıktıları değil, insan kararlarıdır ([[ai-methodologies-science-education-research-2026|Martin ve ark., 2026]]).
+**4.** Doğrulamanın ne anlama geldiğine ve kimin imzalayacağına karar verin. Bir model ile bir kodlayıcı arasındaki uyum bir benzerlik ölçüsüdür, kalite sonucu değil.
 
-**5.** Atıfta bulunduğunuz her referansı elle doğrulayın; özellikle de YZ yazıma dokunduğunda yazar alanlarını ([[citation-errors-hallucinations-computing-education-2026|Denny ve ark., 2026]]).
+**5.** YZ yazıya dokunduysa her kaynağı, önce yazarlar olmak üzere elle doğrulayın.
 
-**6.** İstek metinlerini, model sürümlerini ve derlem sürümlerini kaydedin, YZ’nin rolünü açıklayın ve doğrulama ile belgelendirme için zaman ayırın — çoğu ekip için bu, çıkarılan değil *eklenen* iştir.
+**6.** İstemleri, model sürümlerini ve derlem sürümlerini kaydedin ve bunun saatlerini bütçeleyin.
 
-## YZ’nin gerçekten işten kazandırdığı yer — ve iş eklediği yer
+## Proje başlamadan önce YZ'nin neye dokunabileceğine karar verin
 
-### Literatür araması ve getirme
+Kapsam kararı birinin belleğinde değil proje dosyasında yer almalıdır. [[dai-chan-responsible-genai-research-ai-literacy-2026|Dai ve Chan'ın (2026) odak grubu çalışmasında]], bu konuyu düşünmüş araştırmacılar kullanımı risk düzeyine ve entelektüel merkeziliğe göre kalibre etti: düşük riskli prosedürel işlerde daha yoğun, bilimsel katkının merkezde olduğu yerlerde temkinli. O çalışmadaki 28 lisansüstü araştırmacının 27'si iş akışının bir yerinde üretken YZ kullanmıştı; akademik yazım ve çeviri dahil. Yani çoğu ekip için soru, bir çizginin var olup olmadığı değil nerede durduğudur.
 
-Üretici arama özetler, önerir, sentezler ve sohbet eder; bu da sistemin kaynakları bulduğu, yorumlamanın ise okuyucuda kaldığı varsayımını sarsar ([[genai-academic-search-workshop]]). Aday literatürü *bulmak* için hızlı bir yoldur. O atölyeden iki uyarı: yetenek düzeyi eşit değildir — çok atıf almış bilim insanları, daha az atıf almış meslektaşlarının yaklaşık iki katı hızında yeniden oluşturuldu — ve bir kütüphanecinin aktardığı bir güven boşluğunda öğrenciler üretici aramaya aşırı güvenirken akademik personel ona güvensizlik duyuyordu. Keşif için kullanın, sonra her kaynağı kendiniz doğrulayın.
+Çizgiyi her görev için bir hüküm içeren liste olarak yazın: literatür taraması, özet taraması, veri çıkarımı, nitel kodlama, istatistiksel analiz, taslak yazımı, kaynak biçimlendirme. O çalışmayı araştırmacıların ne yaptığını bildirdiğinin haritası olarak okuyun. Bu bir odak grubu anlatısıdır, etkililik sonucu değil.
 
-### Tarama ve sistematik derlemeler
+## Otomasyonu taramaya koyun, sentezi ekipte tutun
 
-Sistematik derlemeler, otomasyonun en ileri gittiği yerdir. ASReview, SWIFT-Review, Covidence, AIScreenR ve MetaMate gibi araçlar, prosedürel yükü çoğunlukla özet taramasında azaltırken, çıkarım ve sentez insanda kaldı ([[scaffolding-systematic-reviews-2026|Wang ve ark., 2026]]). Tarama başlamadan önce gri alan durumları için karar kuralları yazın, “belki” kategorilerini koruyun ve aynı yargının tutarlı biçimde uygulanması için her hakem kararını paylaşılan bir günlüğe kaydedin.
+Otomasyonun en ileri gittiği yer sistematik derlemelerdir. ASReview, SWIFT-Review, Covidence, AIScreenR ve MetaMate gibi araçlar prosedürel yükü ağırlıklı olarak özet taramasında azalttı; iş akışını bildiren tek ekipte veri çıkarımı, uzlaştırma ve sentez insan hakemlerde kaldı ([[scaffolding-systematic-reviews-2026|Wang ve ark., 2026]]).
 
-### Nitel kodlama ve analiz
+Yararın çoğu iki tasarım kararından geliyor. Gri alan vakaları için karar kurallarını tarama başlamadan yazın ve ortak bir karar günlüğüyle birlikte bir "belki" kategorisi tutun ki aynı yargı aynı tür kayda uygulansın. Günlük olmadan ikinci hakemin kuralı ile birinci hakemin kuralı sessizce ayrışır ve dışlama listesi yeniden üretilebilir olmaktan çıkar.
 
-[[qualitative-research|Nitel analiz]], yorumlamanın *ürünün kendisi* olduğu aşamadır. YZ, açık yanıtlar üzerinde birinci geçişi ölçeklendirebilir; ancak rolünüzü kodlamadan modelin çıktılarını doğrulamaya kaydırır ve görevin gerektirdiği becerileri değiştirir ([[ai-methodologies-science-education-research-2026|Martin ve ark., 2026]]). Toptan devretmek yerine koda göre devredin: [[agreement-not-quality-llm-coding-verification|tek kör doğrulama çalışması]], 72 kod kitabı maddesinden 15’ini gösterilmiş biçimde insan uzmanlığı gerektiren, 12’sini modelin daha iyi karşıladığı ve 16’sını güven temelli üçlü sınıflandırmaya uygun olarak sınıflandırdı.
+## Model herhangi bir şey okumadan önce kod kitabını sabitleyin
 
-### Veri analizi
+[[qualitative-research|Nitel analiz]], yorumun ürünün kendisi olduğu aşamadır. Yapılar, kodlama rubrikleri ve eğitim verisi model çıktıları değil insan kararlarıdır ([[ai-methodologies-science-education-research-2026|Martin ve ark., 2026]]); bu da otomatik bir geçiş derlem üzerinde çalışmadan önce kod kitabının sabitlenmesi gerektiği anlamına gelir. Alternatif, modelin tesadüfen ortaya çıkardığı şeyin etrafına yazılmış bir kodlama şemasıdır ve o zaman temalar verinizin araca okunuşunu betimler.
 
-Otomatikleştirilmiş ölçüm işlevleri kesin ve öngörücü görünürken opak kalabilir; bu, açıklanabilir YZ’nin burada önemli olmasının nedenidir: bir modelin anlamsal anlayışı mı yoksa yalnızca anahtar sözcükleri mi izlediğini ortaya çıkarabilir ([[ai-methodologies-science-education-research-2026|Martin ve ark., 2026]]). Herhangi bir otomatik puanı, incelemeyi amaçladığınız yetenekle bağlantılı bir ölçüye karşı doğrulanacak bir hipotez olarak ele alın. Ölçülerin kendisi için bkz. [[evaluating-ai-interventions-methods]].
+Devir, ya hep ya hiçten daha ince taneli olabilir. [[agreement-not-quality-llm-coding-verification|Kör doğrulama çalışmalarından biri]], 72 kod kitabı maddesinin 15'ini açıkça insan uzmanlığı gerektiren, 12'sini bir modelin daha iyi karşıladığı ve 16'sını güvene dayalı triyaja uygun olarak sınıflandırdı. Kendi maddelerinizi bu şekilde sıralayın; emek tasarrufu güvenli olduğu yere düşer.
 
-### Yazım, atıf ve düzenleme
+## Doğrulamanın ne anlama geldiğine ve kimin imzalayacağına karar verin
 
-Taslak hazırlama, yapılandırma ve düzenleme, çoğu araştırmacının bu araçları çoktan kullandığı alanlardır — [[dai-chan-responsible-genai-research-ai-literacy-2026|Dai ve Chan (2026)]] çalışmasındaki 28 lisansüstü araştırmacının 27’si, akademik yazım ve çeviri dâhil iş akışının bir yerinde GenAI kullandı. Pazarlığa kapalı tek adım referans doğrulamadır.
+Bir model ile bir insan kodlayıcı arasındaki yüksek uyum, doğruluğu kanıtlamış gibi raporlanır. Kanıtlamaz. [[agreement-not-quality-llm-coding-verification|Liu ve ark. (2026)]], bağımsız bir uzmandan kaynağa kör biçimde 855 ikili kod setini yargılamasını istedi. İnsan-LLM uyumu (ortalama Jaccard 0,30) insan-insan uyumunun (0,52) belirgin biçimde altında kaldı, ama kör doğrulayıcı insan ve makine kodlamasını ayırt edemediği oranlarda tercih etti (%51,5'e karşı %48,5, p = 0,537). Bazı vakalarda insan uzlaşması, doğrulayıcının model lehine reddettiği ortak bir yanlılığı kodluyordu.
 
-### İş akışını yürütmek: günlükler, açıklama ve çaba bütçesi
+Yani doğrulama adımı ne modelin çıktısı ne de kodlayıcının onunla uyumu olan bir altın standarda ve anlaşmazlıklara karar vermiş adı belirli bir kişiye ihtiyaç duyar. İkisini de raporlayın. Bir benzerlik istatistiği iki okumanın ne kadar örtüştüğünü betimler ve okumalardan birinin doğru olup olmadığı hakkında hiçbir şey söylemez.
 
-[[persistent-ai-agents-academic-research|Süregelen bir araştırma ajanının 115 günlük, tek araştırmacılı vaka çalışması]], en güçlü örüntünün kanıtlanmış işgücü ikamesi değil, kapasite genişlemesi olduğunu buldu: bellek ve prosedürler biriktikçe devredilen işin kapsamı büyüdü; insan girdisi küçülmedi. Gerçekçi beklenti budur. İstek metni–yanıt günlüklerini ve derlem sürümlerini saklayın — akıcı biçimde üretilmiş bir tema listesi, kanıt işi çok önce kaçınılmaz görünür ([[chain-behind-claim-warrantability-2026|Holster, 2026]]) — ve YZ’nin rolünü bir onay kutusu değil, bir süreç olarak açıklayın.
+## Hızlı arayın, sonra her kaynağı kendiniz kontrol edin
 
-## Uygulayıcı-araştırmacılar için pratik öneriler
+Üretken arama özetler, önerir, sentezler ve konuşur; bu da sistemin bulduğu, okuyucunun yorumladığı eski düzenlemeyi sarsar ([[genai-academic-search-workshop]]). Ona bir keşif aracı olarak davranın. Atölye raporu iki uyarı taşıyor: yetenek eşit dağılmıyor ve yüksek atıflı akademisyenler düşük atıflı akranlarına göre kabaca iki kat oranında yeniden kuruluyor; bir kütüphaneci ise öğrencilerin üretken aramaya aşırı güvendiği, öğretim elemanlarının ise ona güvenmediği bir güven boşluğu tanımladı.
 
-Öğretimin bilimi ve sınıf araştırması — genellikle küçük ölçekli, kendi kursunu inceleyen bir öğretmen — derlemin en ince çizgisidir. [[ai-assisted-educational-research|YZ Destekli Eğitim Araştırması]] bunu bir bulgu değil, bir boşluk olarak ifade eder: YZ destekli uygulayıcı araştırması muhtemelen yaygındır ve neredeyse hiç belgelenmemiştir; derleme otomasyonu ve bibliyometrik kanıtlar, bir öğretim üyesinin kendi öğretimini nasıl incelemesi gerektiğini çözmez. Geçerli olan bir eğilimdir, bir sonuç değil.
+Kaynak doğrulama, bunun tartışmaya kapalı hale geldiği yerdir ve başarısızlıklar itibarı taşıyan alanda, yazar alanında kümelenir. [[citation-errors-hallucinations-computing-education-2026|Denny ve ark. (2026)]], 723.930 yayını ve 15.872.533 kaynağı denetledi ve 14 bilgisayar eğitimi makalesinde, hepsi 2025 ve 2026 tarihli, 30 uydurma kaynak doğruladı. 30'un 17'si melezdi: gerçek bir başlık, uydurma ya da yanlış yazarlara eklenmiş. Bir teknik sempozyumda doğrulanan sayı 2025'te 3 iken 2026'da 17'ye çıktı; o yılki bildiri makalelerinin %2,3'ünde. Toplamları kasten bir alt sınırdır ve otomatik denetleyiciler doğru kabul ettikleri üst verinin kusurlarını devralır. Önce yazarları kontrol edin.
 
-**1.** YZ’yi yerel ortamınızın değişken olmadığı yerlerde kullanın: alanınızın literatürünü aramakta, kendi kayıtlarınızı yazıya dökmekte ve özetlemekte ve ölçekler veya onam metinleri tasarlamada.
+## Otomatik bir puanı test edilecek bir hipotez olarak ele alın
 
-**2.** Yorumlayıcı hamleleri — neyin bir tema sayıldığı, bir öğrencinin yorumunun ne anlama geldiği, sınıf kanıtınızın neyi haklı çıkardığı — kendiniz yapın ve yazınında hangi hamleleri modelin, hangilerini sizin yaptığınızı söyleyin ([[chain-behind-claim-warrantability-2026|Holster, 2026]]).
+Otomatik ölçüm fonksiyonları, opak kalırken kesin ve öngörücü görünebilir. [[ai-methodologies-science-education-research-2026|Martin ve ark.]] bunu Chang'in nomik ölçüm problemiyle çerçeveliyor: bir niceliği ölçmek, onu gözlenebilir bir şeye bağlayan bir yasa gerektirir ve bu yasa, niceliği zaten bilmeden test edilemez. YZ'den türetilen ölçüm fonksiyonları araştırmacıdan değil eğitim verisinden ve optimizasyondan doğar; bu yüzden açıklanabilirlik çalışması, bir modelin anlamsal kavrayışı mı yoksa yalnızca anahtar sözcükleri mi izlediğini göstermek için önemlidir.
 
-**3.** Ölçütlerinizi önceden tanımlayın ve görünür tutun; çünkü küçük ölçekli yerel bir çalışma, veri geldikten sonra tanımlanmış bir yapıdan toparlanamaz.
+Başarısızlık somut. [[zhang-platform-scores-miss-ai-teaching-agents-2026|Sekiz YZ öğretim ajanının değerlendirmesinde]], platformun kendi puanına göre üçüncü sırada olan ajan, uzman doğrulamalı bir rubrikte sonuncu oldu. İnsan-makine anlaşmazlığı rastgele değil sistemlidir ve insan-makine uyumunda rubriğin işletimselleştirilmesi çoğu zaman istem ustalığından daha önemlidir ([[machines-misread-pedagogical-quality|Tseng ve ark., 2026]]). Otomatik bir puan sizin aracınız haline gelmeden önce onu incelemeyi amaçladığınız yeteneğe bağlı bir ölçüye karşı doğrulayın. Ölçülerin kendisi için [[evaluating-ai-interventions-methods]] sayfasına bakın.
 
-**4.** YZ’nin rolünü, yaptığınız doğrulamayı ve tek kurslu, tek araştırmacılı tasarımın sınırlarını bildirin. Bir iş akışı anlatısını bir etkililik sonucu gibi sunmayın.
+## Yöntem bölümünü bir dışarıdan kişi denetleyebilecek biçimde yazın
 
-**5.** Bir kohortu benzetimlemeyi varsayılan değil, ileri düzey bir seçenek olarak ele alın: benzetilmiş öğrenenler gerçek öğrenci davranışının en kolay çeyreğini kapsama eğilimindedir ve kullanımdan sonra nadiren doğrulanır ([[simulating-students]]). Bir benzetimleyicinin hükmüne güvenmeden önce [[making-simulated-students-behave-like-learners]] bölümüne bakın.
+Benimseme, raporlamanın önüne geçti. [[prisma-llm-ai-assisted-systematic-reviews-2026|Zabaleta ve Lin (2026)]] 888 derleme otomasyonu makalesini analiz etti: 2023'ten bu yana yazılım ve ürün makalelerinin %38,0'ı hiç değerlendirme bildirmezken bu oran LLM makalelerinde %9,3 oldu ve model erişimi ezici biçimde tescilliydi (%84,1). Olumlu bir genel değerlendirme, devre uygunluk anlamına da gelmiyordu; çünkü yalnızca olumlu sonuç bildiren 118 LLM makalesinin %52'si yine de iş akışının rolünün gerektirdiği eşiğin altında kaldığına dair bir endişe bildiriyordu. PRISMA-LLM çerçeveleri uygulama açıklamasını sonuca duyarlı değerlendirmeden ayırıyor ve beş düzeyini risk düzeyleri değil açıklama kademeleri olarak ele alıyor.
 
-## Dikkat edilmesi ve değerlendirilmesi gereken uyarılar
+Pratik hali: sistemi ve sürümünü, istemleri, derlem sürümünü, insanın neyi kontrol ettiğini ve nerede başarısız olduğunu adlandırın. İstem-yanıt günlükleri tutun, çünkü akıcı bir üretilmiş tema listesi, kanıt değeri işi başlamadan çok önce kaçınılmaz görünür ([[chain-behind-claim-warrantability-2026|Holster, 2026]]).
 
-### Uydurma referanslar ve atıf hataları
+Saatleri de bütçeleyin. [[persistent-ai-agents-academic-research|Kalıcı bir araştırma ajanı üzerine 115 günlük, tek araştırmacılı bir vaka çalışması]], en güçlü örüntünün kanıtlanmış emek ikamesi değil kapasite genişlemesi olduğunu buldu: bellek ve prosedürler biriktikçe devredilen işin kapsamı büyüdü, insanın katkısı ise küçülmedi.
 
-YZ destekli taslak hazırlama, uygun görünen bir uydurma atıfın üretilmesini ucuzlatır ve başarısızlıklar orantısız biçimde yazar alanlarındadır — krediyi taşıyan alan. 723.930 yayın ve 15.872.533 referansın denetiminde, [[citation-errors-hallucinations-computing-education-2026|Denny ve ark. (2026)]], 14 bilgisayar eğitimi makalesinde 30 uydurma referansı doğruladı; hepsi 2025 ve 2026’ya aitti; 30’un 17’si gerçek bir başlığı uydurma veya hatalı yazarlarla eşleştiren melezdi ve bir teknik sempozyumda doğrulanan sayı 2025’te 3’ten 2026’da 17’ye yükseldi; bu yılın bildiri makalelerinin %2,3’ünde görüldü. Sayıları kasten bir alt sınırdır ve otomatik denetçiler, dayanak gerçeklik olarak ele aldıkları üst verinin kusurlarını miras alır. Her atıfı kendiniz doğrulayın ve önce yazarları kontrol edin.
+## Uygulayıcı araştırmasını daha küçük ölçekte aynı kurallarla yürütün
 
-### Raporlama ve denetim boşluğu
+Kendi dersini inceleyen bir öğretim elemanıysanız derlemin en ince damarında çalışıyorsunuz. [[ai-assisted-educational-research|YZ Destekli Eğitim Araştırması]] bunu bir bulgu değil boşluk olarak belirtiyor: YZ destekli uygulayıcı araştırması akla yatkın biçimde yaygın ve neredeyse belgelenmemiş; derleme otomasyonu ve bibliyometrik kanıtlar bir öğretim elemanının kendi öğretimini nasıl incelemesi gerektiğini çözüme bağlamıyor.
 
-Benimseme, raporlamanın önüne geçmiştir. [[prisma-llm-ai-assisted-systematic-reviews-2026|Zabaleta ve Lin (2026)]] 888 derleme otomasyonu makalesini analiz etti: 2023’ten bu yana yazılım ve ürün makalelerinin %38,0’ı hiç değerlendirme bildirmeyerek karşımıza çıkıyor; LLM makalelerinde bu oran %9,3’tür ve model erişimi ezici biçimde tescilliydi (%84,1). Olumlu bir genel değerlendirme bile devretmeye uygunluğu gerekmezdi — yalnızca olumlu bulgu içeren 118 LLM makalesinin %52’si, iş akışının rolü için gereken çıtanın altında kaldığına ilişkin bir kaygı bildirdi. Çerçeveleri PRISMA-LLM, uygulama açıklamasını sonuçlara duyarlı değerlendirmeden ayırır ve beş düzeyini risk düzeyi değil, açıklama kademesi olarak ele alır. Pratik çıkarım, bir iş akışının değerlendirme derinliğinin *belirtilmesi*, varsayılmaması gerektiğidir: sistemi, sürümü, istek metinlerini, insanların neyi denetlediğini ve nerede başarısız olduğunu adlandırın.
+Aktarılan şey bir dizi eğilimdir:
 
-### Uyum, kalite kanıtı değildir
+Yerel bağlamınız değişken değilse YZ'yi orada kullanın. Alanınızın literatürünü taramak, kendi kayıtlarınızı dökümlemek ve özetlemek, ölçme araçları ya da onam metni taslaklamak bunların hepsi buna girer.
 
-İnsan kodlayıcılarla — ya da iki model arasında — yüksek uyum, doğruluğu kuruyormuş gibi rutin biçimde bildirilir. Kurmaz. [[agreement-not-quality-llm-coding-verification|Liu ve ark. (2026)]], bağımsız bir uzmanın kaynağı kör olarak değerlendirdiği 855 ikili kod kümesinde: insan–LLM uyumu (ortalama Jaccard 0,30), insan–insan uyumunun (0,52) oldukça altında kaldı; yine de kör doğrulayıcı, insan ve makine kodlamasını ayırt edilemez oranlarda tercih etti (%51,5’e karşı %48,5, p = 0,537). Bazen insan uzlaşısı, doğrulayıcının model lehine reddettiği paylaşılan bir önyargıyı kodluyordu. Kör doğrulamayı benimseyin, altın standardı ve kimin hakemlik yaptığını bildirin ve ardışık düzeni tek tip bir insan incelemesi ortamı olarak değil, koda göre yönlendirin.
+Yorumlayıcı hamleleri kendinizde tutun. Neyin tema sayıldığı, bir öğrenci yorumunun ne anlama geldiği ve sınıf kanıtınızın neyi gerekçelendirdiği sizin kararınızdır ve yazım, hangi hamleleri modelin, hangilerini sizin yaptığınızı söylemelidir ([[chain-behind-claim-warrantability-2026|Holster, 2026]]).
 
-### Otomatik bir ölçüm araç haline geldiğinde yapı geçerliliği
+Ölçütlerinizi önceden tanımlayın ve görünür tutun. Küçük yerel bir çalışma, veri geldikten sonra tanımlanmış bir yapıyı telafi edemez.
 
-Bir modelin çıktısı araştırmanın *aracı* haline geldiğinde, ölçüm sorusu bir yapı geçerliliği sorusudur. [[ai-methodologies-science-education-research-2026|Martin ve ark. (2026)]] bunu Chang’ın nomik-ölçüm problemiyle çerçeveler: bir niceliği ölçmek, onu gözlemlenebilir bir şeye bağlayan bir yasa gerektirir; oysa o yasa, nicelik zaten bilinmeden test edilemez. YZ kaynaklı ölçüm işlevleri, araştırmacıdan değil eğitim verisinden ve optimizasyondan doğar; bu yüzden kesin görünürken opak kalabilirler — ve karşılaştırılabilirlik öğrenci kitlelerine yayılmalıdır, çünkü makine öğrenmesi zayıf olanları öğrencilerin çeşitli biçimlerde ifade ettiği fikirleri, kanonik fikirleri olduğundan daha iyi kodlama eğilimindedir. Elverişli bir otomatik puan ayrıca yanlış yapıyı indeksleyebilir: [[zhang-platform-scores-miss-ai-teaching-agents-2026|sekiz YZ öğretim ajanının değerlendirmesinde]], platformun kendi puanına göre üçüncü sırada yer alan ajan, uzman doğrulamalı bir rubrikte sonuncu oldu. İnsan–makine anlaşmazlığı sistematiktir, rastgele değil ve rubriğin işlevselleştirilmesi çoğu zaman istek metni ustalığından daha önemlidir ([[machines-misread-pedagogical-quality|Tseng ve ark., 2026]]).
+YZ'nin rolünü, yaptığınız doğrulamayı ve tek ders, tek araştırmacı tasarımının sınırlarını raporlayın. Bir iş akışı anlatısı etkililik sonucu değildir.
 
-### Yorumlamadan siz sorumlu olmaya devam edersiniz
+Bir kohort simüle etmeyi varsayılan değil ileri düzey bir seçenek olarak ele alın. Simüle edilmiş öğrenenler gerçek öğrenci davranışının en kolay çeyreğini kapsama eğilimindedir ve kullanımdan sonra nadiren doğrulanır ([[simulating-students]]). Bir simülatörün hükmüne güvenmeden önce [[making-simulated-students-behave-like-learners]] sayfasını okuyun.
 
-Hariç tutulan bir çalışma, kodlanmış bir tema ya da yaygınlık iddiası için birileri hesap verebilir olmalıdır. Önceden eğitilmiş modeller bir epistemik bağımlılık katmanı ekler — eğitim verileri, ince ayarları ve amaçları bilinmeyebilir — ve sosyo-teknik ağlardan doğdukları için sorumluluk dağıtmak zorlaşır; bu bir “çok el problemi”dir ([[ai-methodologies-science-education-research-2026|Martin ve ark., 2026]]). Yöntemlerde YZ’nin rolünü adlandırmak yanıtın bir parçasıdır, ama hesap verebilirliği devretmez. Yorumlayıcı yolu incelenebilir, itiraz edilebilir ve gözden geçirilebilir tutun ([[chain-behind-claim-warrantability-2026|Holster, 2026]]) ve her önemli karar için adlandırılmış bir insanı sorumlu tutun.
+## Araştırmacıların bu konuda yanlış yaptıkları
 
-### Üçüncü taraf araçlarda öğrenci verisi için gizlilik ve onam
+Bir insan kodlayıcıyla uyum, kodlamanın doğru olduğu anlamına gelir. Kör çalışmada insan-LLM uyumu Jaccard 0,30 iken insan-insan uyumu 0,52'ydi ve kör doğrulayıcı iki kodlama kaynağını %51,5'e karşı %48,5 oranında ayırt edemedi. Uyum, iki okuyucunun yakınsadığını kaydeder; aynı yanlılıkta yakınsadıklarında da.
 
-Üçüncü taraf araçlardan geçen sınıf ve öğrenci verileri, herhangi bir verimlilik argümanından önce gelen onam, yönetişim ve gizlilik yükümlülükleri taşır. [[prisma-llm-ai-assisted-systematic-reviews-2026|Zabaleta ve Lin (2026)]], model erişiminin ezici biçimde tescilli olduğunu (%84,1) buldu; bu, öğrenci metninin genellikle kurumunuzdan çıktığı anlamına gelir. Yalnızca eğitim amacının gerektirdiğini toplayın, aracın veri kullanımını ve sınırlarını şeffaf kılın, öğrenen verilerinin satıcının modellerini eğitip eğitmediğini kontrol edin ve hassasiyetin yüksek olduğu yerlerde yerel veya sentetik veriyi tercih edin. Bu yükümlülüklerin — eşitlik, erişilebilirlik ve pedagojik güvenlikle birlikte — tam ele alışı [[equity-ethics-pedagogical-safety-research]] bölümündedir.
+Bir kaynak denetleyicisi kaynak kontrolünün yerine geçer. Denny denetimindeki 30 uydurma kaynağın 17'si başlığı gerçek, yazarları gerçek olmayan melezlerdi; bu tam olarak üst veriyle eğitilmiş bir denetleyicinin en kötü işlediği durumdur, çünkü yanlış olan şey üst verinin kendisidir.
 
-## Kanıtların henüz ortaya koymadığı şey
+Olumlu bir değerlendirme, bir iş akışını sizin rolünüze uygun kılar. Yalnızca olumlu sonuç bildiren 118 LLM makalesinin %52'si yine de iş akışının rolünün gerektirdiği eşiğin altında kaldığına dair bir endişe bildirdi. Değerlendirmenin derinliğini ona verdiğiniz işe göre okuyun.
 
-- **Karşılaştırmalı kıyaslama yok.** Temel çalışma, YZ destekli ve geleneksel yöntemler arasındaki karşılaştırmayı gelecek iş olarak ortaya koyar; buradaki hiçbir çalışma bir YZ yönteminin daha geçerli sonuçlar ürettiğini göstermez ([[ai-methodologies-science-education-research-2026|Martin ve ark., 2026]]).
-- **Her yerde ince tasarımlar.** Kanıtlar bir çerçeve önerisi, tek ekibin refleksif anlatımı, bir atölye raporu, bir odak grup çalışması ve gözlemsel bibliyometriden oluşur — YZ destekli bir yöntemin kontrollü bir sınavı değildir. Rol değişimi ve kapasite genişlemesi iddiaları tek yerleşkeden, tek araştırmacıdan gelen anlatılara dayanır.
-- **Pratik denetimi değil, bir raporlama boşluğu.** PRISMA-LLM makale düzeyindeki sessizliği okur; makalesinde değerlendirme bulunmayan bir iş akışı, bir ürün raporunda, protokolde veya depoda doğrulanmış olabilir.
-- **Uygulayıcı araştırması yeterince temsil edilmiyor.** Derlem, öğretmenlerin kendi uygulamalarını incelemek için YZ’yi nasıl kullanması gerektiğine dair iddiaları temellendiremez.
-- **Araçlar hareketli bir hedeftir.** Bir 2025 iş akışına ilişkin bulgu, bu biçiminde artık var olmayabilecek bir sistem kuşağını tanımlar; dolayısıyla yeniden üretilebilirlik bir model sürümüne ve tarihe bağlanmalıdır.
+İstem ustalığı kalite üzerindeki ana kaldıraçtır. İnsan-makine uyumunda rubriğin işletimselleştirilmesi çoğu zaman istem ustalığından daha önemlidir ve sekiz ajanlı değerlendirme aynı sistemi kimin rubriğinin uygulandığına göre üçüncü ve sonuncu sıraya koydu.
 
-## İlgili sorular
+YZ projeden iş çıkarır. 115 günlük vaka çalışması, ajanın belleği biriktikçe devredilen kapsamın büyüdüğünü buldu. Doğrulama, karar verme ve kayıt tutma onunla birlikte büyüyen saatlerdir.
 
-- [[evaluating-ai-interventions-methods|Bir öğretim üyesi YZ ile ilgili müdahaleleri değerlendirmek için hangi ölçümleri ve araştırma yöntemlerini kullanabilir?]] — YZ destekli iş akışlarının bağlı olduğu yöntem tasarımı sorusu
-- [[reporting-interpreting-aied-research|Eğitimde YZ araştırmalarını raporlamanın ve yorumlamanın en iyi uygulamaları nelerdir?]] — YZ sistemini, ölçümü ve kendi YZ kullanımınızı nasıl raporlayacağınız
-- [[research-gaps-aied|Eğitimde YZ literatüründe dikkate değer boşluklar nelerdir?]] — kanıtın eksik veya zayıf olduğu yerler
-- [[equity-ethics-pedagogical-safety-research|Eğitimde YZ araştırmaları eşitliği, erişilebilirliği, gizliliği, etiği ve pedagojik güvenliği nasıl dâhil etmelidir?]] — öğrenci verisi ve güvenlik çevresindeki yükümlülükler
-- [[ai-assisted-educational-research]] — araştırma işinin aracı olarak YZ üzerine tam kavram sayfası
-- [[making-simulated-students-behave-like-learners|Benzetilmiş bir öğrenciyi gerçek bir öğrenen gibi davrandırmayı nasıl başarırız?]] — bir benzetimleyiciyi araştırma aracı olarak kullanmadan önce
+## Size geri dönecek olanlar
+
+**"Yazarlık arkadaşım bunu zaten yapıyor ve kimse şikâyet etmedi."** Kimsenin şikâyet etmemesi geçerlilik hakkında bir bulgu değildir. Açıklama sorusu kalite sorusundan ayrıdır ve değerlendirilmemiş yazılım makaleleri için %38,0 rakamı alandaki sessizliğin yaygın olduğunu söylüyor.
+
+**"İki model birbiriyle aynı fikirdeydi, yani kodlama netleşti."** Eğitim verisini paylaşan iki model hatalarını da paylaşır. Liu çalışmasının kör doğrulayıcısı makine kodlamasını %48,5 oranında tercih etti ve o sayıyı yorumlanabilir kılan şey uyumun kendisi değil bağımsız bir yargıçtı.
+
+**"Tescilli bir modeli denetleyemeyiz, yani raporlanacak bir şey yok."** PRISMA-LLM uygulama açıklamasını değerlendirme derinliğinden ayrı bir kademe olarak istiyor. Sistem, sürüm, istemler, insanların neyi kontrol ettiği ve nerede başarısız olduğu kapalı bir model için de raporlanabilir.
+
+**"Etik kurul bunu asla onaylamaz."** İncelenen makalelerin %84,1'inde model erişimi tescilliydi; bu da öğrenci metninin tipik olarak kurumunuzdan çıktığı anlamına gelir. Yalnızca eğitim amacının gerektirdiğini toplayın, öğrenen verisinin satıcının modellerini eğitip eğitmediğini kontrol edin ve hassasiyetin yüksek olduğu yerlerde yerel ya da sentetik veriyi tercih edin. [[equity-ethics-pedagogical-safety-research]] yükümlülükleri tümüyle ele alır.
+
+**"Bu elle yapmaktan daha yavaş olacak."** Küçük bir proje için çoğu zaman öyledir. Lehine olan gerekçe ölçekte kapsama dayanır; abartmama gerekçesi de aynı 115 günlük anlatıya dayanır.
+
+## Bu hafta ne yapmalı
+
+**1.** Her maddenin yanında bir hüküm olan görev listesini yazın ve tüm ekibin görebileceği bir yere koyun.
+
+**2.** Bir sonraki grup başlamadan önce gri alan karar kurallarını ve karar günlüğünü tarama protokolünüze ekleyin.
+
+**3.** Zaten dayandığınız bir otomatik çıktıyı seçin ve henüz bakmadığınız bir örneklemde insan yargısına karşı doğrulayın.
+
+**4.** Teslim ettiğiniz son makaleyi okuyun ve kaynak listesindeki her yazar adını elle kontrol edin.
+
+**5.** Yöntem şablonunuza "YZ'nin başarısız olduğu yer" satırı ekleyin ki açıklama alışkanlığı bir kez yazıya geçsin.
+
+## Bundan sonra nereye
+
+Yol arkadaşı sorular: bir müdahalenin nasıl ölçüleceği üzerine [[evaluating-ai-interventions-methods]], sistemi ve kendi YZ kullanımınızı raporlama üzerine [[reporting-interpreting-aied-research]], literatürün nerede ince olduğu üzerine [[research-gaps-aied]]. [[equity-ethics-pedagogical-safety-research]] öğrenci verisini ele alır ve [[ai-assisted-educational-research]] bu sayfanın arkasındaki tam kavram sayfasıdır.

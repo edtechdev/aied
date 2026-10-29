@@ -1,7 +1,7 @@
 ---
 title: "Comment l'IA peut-elle assister la recherche en éducation ?"
 created: "2026-10-05T11:23:36-04:00"
-updated: "2026-10-10T04:00:13-04:00"
+updated: "2026-10-29T08:08:36-04:00"
 weight: 72
 type: faq
 connected_faqs: [evaluating-ai-interventions-methods, reporting-interpreting-aied-research, research-gaps-aied, equity-ethics-pedagogical-safety-research]
@@ -17,9 +17,13 @@ page_kind: [evaluation]
 confidence: medium
 contributors: [editor]
 translation_of: faqs/how-can-ai-assist-with-educational-research
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-28T11:26:02-04:00"
 translation_note: "Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle."
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-29"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
@@ -28,105 +32,120 @@ ai_assist:
 
 *Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle.*
 
-# Comment l'IA peut-elle assister la recherche en éducation ?
+Votre coauteur veut un paragraphe dans la section des méthodes sur les outils d'IA que l'équipe a utilisés. Ou bien la pile de dépistage est plus longue que ce que l'échéance permet. Ou bien un évaluateur a demandé, poliment, si une personne a lu les transcriptions, et vous n'êtes pas sûr de ce qu'est la réponse honnête.
 
-L'IA peut retirer du travail réel d'un projet de recherche en éducation — trouver de la littérature, filtrer des milliers de résumés, rédiger du code d'analyse, résumer des réponses ouvertes, resserrer un manuscrit. Ce qu'elle ne peut pas faire, c'est porter la responsabilité de ce que le projet conclut. Le tableau honnête, et celui que les preuves étayent, est une division du travail plutôt qu'une passation de relais : confier l'automatisation à la charge procédurale, vérifier chaque sortie, et garder les décisions interprétatives entre des mains humaines ([[scaffolding-systematic-reviews-2026|Wang et al., 2026]]).
-
-Cette page porte sur l'IA en tant qu'*instrument* du travail de recherche — recherche, filtrage, synthèse, codage, analyse et rédaction, y compris la recherche menée par un praticien sur son propre enseignement. La question de savoir si une *intervention* d'IA particulière aide les apprenants est une autre question, traitée par les FAQ liées en fin de page et par [[ai-assisted-educational-research|AI-Assisted Educational Research]]. Une bonne part de ce qui suit tient honnêtement de la mise en garde : la base de preuves est mince, et plusieurs modes de défaillance sont silencieux.
+La réponse courte pour cette réunion : l'IA peut prendre la recherche documentaire, une première passe de dépistage, le tri du codage et la rédaction, et elle ne peut pas porter la responsabilité de ce que le projet conclut. Décidez quelles tâches lui sont ouvertes avant le début du projet, vérifiez les productions selon une norme humaine avec une personne nommée qui arbitre, et consignez assez pour qu'un tiers puisse reconstituer ce qui s'est passé. La plupart des équipes constatent que les heures de vérification et de journalisation sont du travail ajouté plutôt que retiré.
 
 ## La version courte
 
-**1.** Décidez par écrit, avant le début du projet, quelles tâches de recherche peuvent utiliser l'IA et lesquelles ne le peuvent pas. Dans [[dai-chan-responsible-genai-research-ai-literacy-2026|l'étude par groupes de discussion de Dai et Chan (2026)]], les chercheurs ont calibré l'usage selon les enjeux et la centralité intellectuelle plutôt que par une autorisation générale — plus lourd sur le travail procédural à faible enjeu, prudent là où la contribution académique était centrale.
+**1.** Écrivez quelles tâches de recherche peuvent recourir à l'IA et lesquelles ne le peuvent pas, avant la première recherche. Classez par enjeux plutôt que par outil.
 
-**2.** Maintenez l'automatisation sur la charge procédurale. Le filtrage est là où elle aide le plus ; l'extraction de données, la conciliation et la synthèse sont restées aux relecteurs humains dans la seule équipe qui ait rapporté son flux de travail ([[scaffolding-systematic-reviews-2026|Wang et al., 2026]]).
+**2.** Placez l'automatisation sur le dépistage. Gardez l'extraction des données, la réconciliation et la synthèse chez des personnes.
 
-**3.** Vérifiez chaque sortie contre un standard humain, et dites qui a arbitré. L'accord entre un modèle et un codeur humain — ou entre deux modèles — est une mesure de ressemblance, non une preuve que le codage est juste ([[agreement-not-quality-llm-coding-verification]]).
+**3.** Arrêtez le livre de codes et la grille avant qu'une passe automatisée ne touche aux données.
 
-**4.** Fixez vos grilles et vos codebooks avant que l'analyse automatisée ne s'exécute ; les construits, les grilles de codage et les données d'entraînement sont des décisions humaines, non des sorties de modèle ([[ai-methodologies-science-education-research-2026|Martin et al., 2026]]).
+**4.** Décidez ce que vérifier veut dire et qui le signe. L'accord entre un modèle et un codeur est une mesure de similarité, pas un résultat de qualité.
 
-**5.** Vérifiez à la main chaque référence que vous citez, en particulier les champs d'auteurs, quand l'IA a touché à la rédaction ([[citation-errors-hallucinations-computing-education-2026|Denny et al., 2026]]).
+**5.** Vérifiez chaque référence à la main, en commençant par les auteurs, chaque fois que l'IA a touché à l'écriture.
 
-**6.** Journalisez les invites, les versions de modèle et les versions de corpus, divulguez le rôle de l'IA, et budgétez du temps pour la vérification et la documentation — pour la plupart des équipes, c'est du travail *ajouté*, non retiré.
+**6.** Journalisez les prompts, les versions de modèle et les versions de corpus, et budgétez les heures que cela demande.
 
-## Où l'IA fait réellement gagner du travail — et où elle en ajoute
+## Décidez ce que l'IA peut toucher avant le début du projet
 
-### Recherche et repérage documentaire
+La décision de périmètre a sa place dans le fichier de projet plutôt que dans la mémoire de quelqu'un. Dans l'[[dai-chan-responsible-genai-research-ai-literacy-2026|étude par groupes de discussion de Dai et Chan (2026)]], les chercheurs qui y avaient réfléchi calibraient l'usage selon les enjeux et la centralité intellectuelle : plus lourd sur le travail procédural à faibles enjeux, prudent là où la contribution savante était centrale. Vingt-sept des 28 chercheurs postdoctoraux de cette étude avaient utilisé l'IA générative quelque part dans leur flux de travail, y compris pour la rédaction académique et la traduction, de sorte que pour la plupart des équipes la question est de savoir où se situe la ligne, non si elle existe.
 
-La recherche générative résume, recommande, synthétise et dialogue, ce qui ébranle l'hypothèse selon laquelle le système trouve les sources tandis que l'interprétation reste au lecteur ([[genai-academic-search-workshop]]). C'est une manière rapide de *localiser* de la littérature candidate. Deux mises en garde issues de cet atelier : la capacité est inégale — les chercheurs très cités étaient reconstruits à un rythme environ deux fois supérieur à celui de leurs pairs moins cités — et une bibliothécaire a rapporté un écart de confiance dans lequel les étudiants faisaient trop confiance à la recherche générative tandis que le corps professoral s'en méfiait. Utilisez-la pour la découverte, puis vérifiez chaque source vous-même.
+Écrivez la ligne sous forme de liste avec un verdict pour chaque tâche : recherche bibliographique, dépistage des résumés, extraction, codage qualitatif, analyse statistique, rédaction, mise en forme des références. Lisez cette étude comme une carte de ce que les chercheurs déclarent faire. C'est un compte rendu de groupes de discussion, pas un résultat d'efficacité.
 
-### Filtrage et revues systématiques
+## Placez l'automatisation sur le dépistage et gardez la synthèse dans l'équipe
 
-Les revues systématiques sont le domaine où l'automatisation a le plus progressé. Des outils tels qu'ASReview, SWIFT-Review, Covidence, AIScreenR et MetaMate ont réduit la charge procédurale principalement au niveau du filtrage des résumés, tandis que l'extraction et la synthèse restaient humaines ([[scaffolding-systematic-reviews-2026|Wang et al., 2026]]). Écrivez des règles de décision pour les cas limites avant que le filtrage ne commence, conservez des catégories « peut-être », et consignez chaque arbitrage dans un journal partagé afin que le même jugement soit appliqué de façon cohérente.
+Les revues systématiques sont le domaine où l'automatisation a le plus avancé. Des outils comme ASReview, SWIFT-Review, Covidence, AIScreenR et MetaMate réduisent la charge procédurale principalement au dépistage des résumés, tandis que l'extraction des données, la réconciliation et la synthèse restaient aux évaluateurs humains dans la seule équipe qui ait décrit son flux de travail ([[scaffolding-systematic-reviews-2026|Wang et al., 2026]]).
 
-### Codage et analyse qualitatifs
+L'essentiel du bénéfice vient de deux décisions de conception. Écrivez des règles de décision pour les cas limites avant le début du dépistage, et tenez une catégorie « peut-être » avec un journal d'arbitrage partagé, afin que le même jugement s'applique au même type d'enregistrement. Sans ce journal, la règle du second évaluateur et celle du premier divergent en silence, et la liste des exclusions cesse d'être reproductible.
 
-L'[[qualitative-research|analyse qualitative]] est l'étape où l'interprétation *est* le produit. L'IA peut passer à l'échelle une première analyse des réponses ouvertes, mais elle déplace votre rôle du codage vers la validation des sorties du modèle, et elle change les compétences que la tâche exige ([[ai-methodologies-science-education-research-2026|Martin et al., 2026]]). Déléguez par code plutôt qu'en bloc : [[agreement-not-quality-llm-coding-verification|une étude de vérification en aveugle]] a classé 15 des 72 items du codebook comme exigeant manifestement une expertise humaine, 12 comme mieux servis par un modèle, et 16 comme se prêtant à un tri fondé sur la confiance.
+## Arrêtez le livre de codes avant que le modèle ne lise quoi que ce soit
 
-### Analyse de données
+[[qualitative-research|L'analyse qualitative]] est l'étape où l'interprétation est le produit. Les construits, les grilles de codage et les données d'entraînement sont des décisions humaines plutôt que des productions de modèle ([[ai-methodologies-science-education-research-2026|Martin et al., 2026]]), ce qui signifie que le livre de codes doit être arrêté avant qu'une passe automatisée ne parcoure le corpus. L'alternative est un schéma de codage écrit autour de ce que le modèle a fait émerger, et les thèmes décrivent alors la lecture de vos données par l'outil.
 
-Les fonctions de mesure automatisées peuvent paraître précises et prédictives tout en restant opaques, ce qui explique pourquoi l'IA explicable compte ici : elle peut révéler si un modèle suit la compréhension sémantique ou seulement les mots-clés ([[ai-methodologies-science-education-research-2026|Martin et al., 2026]]). Traitez tout score automatisé comme une hypothèse à valider contre une mesure liée à la capacité que vous comptez étudier. Pour les mesures elles-mêmes, voir [[evaluating-ai-interventions-methods]].
+La délégation peut être plus fine que tout ou rien. [[agreement-not-quality-llm-coding-verification|Une étude de vérification en aveugle]] a classé 15 des 72 items du livre de codes comme exigeant manifestement une expertise humaine, 12 comme mieux servis par un modèle et 16 comme adaptés à un tri fondé sur la confiance. Classez vos propres items de cette façon et l'économie de travail tombe là où elle est sûre.
 
-### Rédaction, citation et relecture
+## Décidez ce que vérifier veut dire et qui le signe
 
-La rédaction, la structuration et la relecture sont les usages que font déjà la plupart des chercheurs — 27 des 28 chercheurs en troisième cycle de [[dai-chan-responsible-genai-research-ai-literacy-2026|Dai et Chan (2026)]] utilisaient la GenAI quelque part dans le flux de travail, y compris la rédaction académique et la traduction. La seule étape non négociable est la vérification des références.
+Un accord élevé entre un modèle et un codeur humain est rapporté comme s'il établissait la correction. Il ne l'établit pas. [[agreement-not-quality-llm-coding-verification|Liu et al. (2026)]] ont fait juger par un expert indépendant 855 ensembles de codes appariés, en aveugle de la source. L'accord humain-LLM (Jaccard moyen 0.30) se situait bien en dessous de l'accord humain-humain (0.52), pourtant le vérificateur aveugle préférait le codage humain et le codage machine à des taux qu'il ne pouvait pas distinguer (51.5% contre 48.5%, p = 0.537). Dans certains cas, le consensus humain encodait un biais partagé que le vérificateur rejetait en faveur du modèle.
 
-### Faire tourner le flux de travail : journaux, divulgation et budget d'effort
+L'étape de vérification a donc besoin d'un étalon qui ne soit ni la production du modèle ni l'accord du codeur avec elle, plus une personne nommée qui a arbitré les désaccords. Rapportez les deux. Une statistique de similarité décrit à quel point deux lectures se ressemblent, et elle ne dit rien de la justesse de l'une ou de l'autre.
 
-[[persistent-ai-agents-academic-research|Une étude de cas de 115 jours menée par un seul investigateur]] sur un agent de recherche persistant a trouvé que le schéma dominant était l'expansion de la capacité plutôt qu'une substitution de main-d'œuvre avérée : à mesure que la mémoire et les procédures s'accumulaient, le périmètre du travail délégué augmentait plutôt que l'apport humain ne diminuait. C'est l'attente réaliste. Conservez les journaux des invites et des réponses ainsi que les versions de corpus — une liste de thèmes générée avec fluidité paraît inévitable bien avant que son travail de preuve ait commencé ([[chain-behind-claim-warrantability-2026|Holster, 2026]]) — et divulguez le rôle de l'IA comme une démarche, non comme une case à cocher.
+## Cherchez vite, puis vérifiez chaque source vous-même
 
-## Conseils pratiques pour les chercheurs-praticiens
+La recherche générative résume, recommande, synthétise et converse, ce qui déstabilise l'ancien agencement où le système localise et le lecteur interprète ([[genai-academic-search-workshop]]). Traitez-la comme un outil de découverte. Le rapport d'atelier porte deux mises en garde : la capacité est inégale, les chercheurs très cités étant reconstruits à environ deux fois le taux de leurs pairs moins cités, et une bibliothécaire a décrit un déficit de confiance où les étudiants faisaient trop confiance à la recherche générative tandis que le corps enseignant s'en méfiait.
 
-La scholarship of teaching and learning et la recherche menée en classe — un enseignant qui étudie son propre cours, souvent à petite échelle — constituent le fil le plus mince du corpus. [[ai-assisted-educational-research|AI-Assisted Educational Research]] l'énonce comme une lacune plutôt que comme un résultat : la recherche menée par des praticiens assistée par l'IA est plausiblement répandue et presque pas documentée, et les preuves issues de l'automatisation des revues et de la bibliométrie ne tranchent pas la question de savoir comment un enseignant devrait étudier son propre enseignement. Ce qui se transmet est une disposition plutôt qu'un résultat.
+La vérification des références est l'endroit où cela devient non négociable, et les défaillances se concentrent dans le champ des auteurs, celui qui porte le crédit. [[citation-errors-hallucinations-computing-education-2026|Denny et al. (2026)]] ont audité 723.930 publications et 15.872.533 références et vérifié 30 références fabriquées dans 14 articles d'enseignement de l'informatique, tous de 2025 et 2026. Dix-sept des 30 étaient des hybrides : un titre réel associé à des auteurs fabriqués ou incorrects. Le compte vérifié dans un colloque technique est passé de 3 en 2025 à 17 en 2026, soit 2.3% des articles de ce colloque cette année-là. Leur total est une borne inférieure délibérée, et les vérificateurs automatisés héritent des défauts des métadonnées qu'ils traitent comme vérité de référence. Vérifiez les auteurs d'abord.
 
-**1.** Utilisez l'IA là où votre contexte local n'est pas la variable : chercher dans la littérature de votre discipline, transcrire et résumer vos propres enregistrements, et rédiger des instruments ou un texte de consentement.
+## Traitez un score automatisé comme une hypothèse à tester
 
-**2.** Gardez pour vous les gestes interprétatifs — ce qui compte comme un thème, ce que signifie le commentaire d'un étudiant, ce que vos données de classe permettent d'étayer — et indiquez dans le compte rendu quels gestes le modèle a faits et lesquels vous avez faits ([[chain-behind-claim-warrantability-2026|Holster, 2026]]).
+Les fonctions de mesure automatisée peuvent sembler précises et prédictives tout en restant opaques. [[ai-methodologies-science-education-research-2026|Martin et al.]] cadrent cela avec le problème de la mesure nomique de Chang : mesurer une grandeur exige une loi qui la relie à quelque chose d'observable, et cette loi ne peut être testée sans connaître déjà la grandeur. Les fonctions de mesure issues de l'IA émergent des données d'entraînement et de l'optimisation plutôt que du chercheur, de sorte que le travail d'explicabilité compte pour montrer si un modèle suit une compréhension sémantique ou seulement des mots-clés.
 
-**3.** Prédéfinissez vos critères et gardez-les visibles, car une petite étude locale ne peut pas se remettre d'un construit défini après l'arrivée des données.
+La défaillance est concrète. Dans [[zhang-platform-scores-miss-ai-teaching-agents-2026|une évaluation de huit agents d'enseignement par IA]], l'agent classé troisième par le score de la plateforme elle-même était dernier sur une grille validée par des experts. Le désaccord humain-machine est systématique plutôt qu'aléatoire, et l'opérationnalisation de la grille compte souvent plus que l'habileté du prompt ([[machines-misread-pedagogical-quality|Tseng et al., 2026]]). Avant qu'un score automatisé ne devienne votre instrument, validez-le contre une mesure liée à la capacité que vous comptez étudier. Pour les mesures elles-mêmes, voir [[evaluating-ai-interventions-methods]].
 
-**4.** Rapportez le rôle de l'IA, la vérification que vous avez menée, et les limites d'un dispositif portant sur un seul cours et un seul investigateur. Ne présentez pas un compte rendu de flux de travail comme s'il s'agissait d'un résultat d'efficacité.
+## Rédigez la section des méthodes pour qu'un tiers puisse l'auditer
 
-**5.** Traitez la simulation d'une cohorte comme une option avancée plutôt que comme un réglage par défaut : les apprenants simulés tendent à couvrir le quadrant le plus facile du comportement réel des étudiants et sont rarement validés après usage ([[simulating-students]]). Voir [[making-simulated-students-behave-like-learners]] avant de faire confiance au verdict d'un simulateur.
+L'adoption a devancé la déclaration. [[prisma-llm-ai-assisted-systematic-reviews-2026|Zabaleta et Lin (2026)]] ont analysé 888 articles sur l'automatisation des revues : depuis 2023, 38.0% des articles portant sur des logiciels et des produits ne rapportaient aucune évaluation, contre 9.3% des articles sur les LLM, et l'accès aux modèles était massivement propriétaire (84.1%). Une évaluation globale favorable n'impliquait pas non plus l'aptitude à la délégation, puisque 52% des 118 articles sur les LLM à résultats uniquement positifs rapportaient encore une inquiétude sur le fait que le flux de travail restait sous la barre exigée par son rôle. Leur cadre PRISMA-LLM sépare la déclaration de la mise en œuvre de l'évaluation sensible aux conséquences, et traite ses cinq niveaux comme des paliers de déclaration plutôt que des paliers de risque.
 
-## Réserves et questions à examiner
+La version pratique : nommez le système et sa version, les prompts, la version du corpus, ce qu'une personne a vérifié et où cela a échoué. Tenez des journaux de prompts et de réponses, car une liste de thèmes générée et fluide paraît inévitable bien avant que son travail probatoire ait commencé ([[chain-behind-claim-warrantability-2026|Holster, 2026]]).
 
-### Références fabriquées et erreurs de citation
+Budgétez aussi les heures. [[persistent-ai-agents-academic-research|Une étude de cas de 115 jours menée par un seul chercheur]] sur un agent de recherche persistant a trouvé que le schéma le plus marqué était une expansion de capacité plutôt qu'une substitution de travail démontrée : à mesure que la mémoire et les procédures s'accumulaient, le périmètre du travail délégué grandissait sans que l'apport humain diminue.
 
-La rédaction assistée par l'IA rend peu coûteuse la production d'une citation plausible inventée, et les défaillances sont disproportionnées dans les champs d'auteurs — le champ qui porte le crédit. Dans un audit de 723,930 publications et de 15,872,533 références, [[citation-errors-hallucinations-computing-education-2026|Denny et al. (2026)]] ont vérifié 30 références fabriquées dans 14 articles d'enseignement de l'informatique, tous de 2025 et 2026 ; 17 des 30 étaient des hybrides associant un titre réel à des auteurs fabriqués ou incorrects, et le compte vérifié lors d'un colloque technique est passé de 3 en 2025 à 17 en 2026, apparaissant dans 2.3% des articles des actes de cette année. Leur compte est délibérément une borne inférieure, et les vérificateurs automatisés héritent des défauts des métadonnées qu'ils traitent comme vérité de référence. Vérifiez chaque citation vous-même, et les auteurs en premier.
+## Menez l'enquête professionnelle avec les mêmes règles à plus petite échelle
 
-### Le décalage de restitution et d'audit
+Si vous êtes un enseignant qui étudie son propre cours, vous travaillez dans le fil le plus mince du corpus. [[ai-assisted-educational-research|AI-Assisted Educational Research]] l'énonce comme une lacune plutôt que comme un résultat : l'enquête professionnelle assistée par IA est plausiblement répandue et presque non documentée, et les preuves sur l'automatisation des revues et la bibliométrie ne tranchent pas la manière dont un enseignant devrait étudier son propre enseignement.
 
-L'adoption a devancé la restitution. [[prisma-llm-ai-assisted-systematic-reviews-2026|Zabaleta et Lin (2026)]] ont analysé 888 articles sur l'automatisation des revues : depuis 2023, 38.0% des articles sur des logiciels et des produits ne rapportaient aucune évaluation, contre 9.3% des articles sur les LLM, et l'accès aux modèles était massivement propriétaire (84.1%). Même une évaluation globale favorable n'impliquait pas l'aptitude à la délégation — 52% des 118 articles LLM à résultats uniquement positifs rapportaient encore une inquiétude quant au fait que le flux de travail tombait en dessous du niveau exigé par son rôle. Leur cadre, PRISMA-LLM, sépare la divulgation de la mise en œuvre de l'évaluation sensible aux conséquences, et traite ses cinq niveaux comme des paliers de divulgation plutôt que des paliers de risque. L'enseignement pratique est que la profondeur d'évaluation d'un flux de travail doit être *énoncée*, et non supposée : nommez le système, la version, les invites, ce que les humains ont vérifié, et là où il a échoué.
+Ce qui se transpose est un ensemble de dispositions :
 
-### L'accord n'est pas une preuve de qualité
+Utilisez l'IA là où votre contexte local n'est pas la variable. Chercher la littérature de votre champ, transcrire et résumer vos propres enregistrements, et rédiger des instruments ou des formules de consentement relèvent tous de ce cas.
 
-Un accord élevé avec des codeurs humains — ou entre deux modèles — est régulièrement rapporté comme s'il établissait la justesse. Ce n'est pas le cas. [[agreement-not-quality-llm-coding-verification|Liu et al. (2026)]] ont fait juger par un expert indépendant 855 paires de jeux de codes en aveugle de la source : l'accord humain–LLM (Jaccard moyen 0.30) tombait bien en dessous de l'accord humain–humain (0.52), alors que le vérificateur en aveugle préférait le codage humain et le codage machine à des taux indistinguables (51.5% contre 48.5%, p = 0.537). Parfois le consensus humain encodait un biais partagé que le vérificateur rejetait en faveur du modèle. Adoptez la vérification en aveugle, rapportez la vérité de référence et qui a arbitré, et aiguillez par code plutôt que de traiter le pipeline comme un cadre unique de relecture humaine.
+Gardez les gestes interprétatifs. Ce qui compte comme un thème, ce que signifie le commentaire d'un étudiant et ce que vos preuves de classe autorisent sont à vous de décider, et le compte rendu devrait dire quels gestes le modèle a faits et lesquels vous avez faits ([[chain-behind-claim-warrantability-2026|Holster, 2026]]).
 
-### Validité de construit lorsqu'une mesure automatisée devient un instrument
+Prédéfinissez vos critères et gardez-les visibles. Une petite étude locale ne se remet pas d'un construit défini après l'arrivée des données.
 
-Lorsque la sortie d'un modèle *devient* l'instrument de recherche, la question de mesure devient une question de validité de construit. [[ai-methodologies-science-education-research-2026|Martin et al., 2026]] formulent cela à travers le problème de la mesure nomique de Chang : mesurer une grandeur exige une loi la reliant à quelque chose d'observable, or cette loi ne peut pas être testée sans déjà connaître la grandeur. Les fonctions de mesure dérivées de l'IA émergent des données d'entraînement et de l'optimisation plutôt que du chercheur, si bien qu'elles peuvent paraître précises tout en restant opaques — et la comparabilité doit s'étendre aux populations étudiantes, parce que l'apprentissage automatique tend à coder les idées canoniques mieux que les manières diverses dont les étudiants expriment des idées plus faibles. Un score automatisé commode peut aussi indexer le mauvais construit : dans [[zhang-platform-scores-miss-ai-teaching-agents-2026|une évaluation de huit agents d'enseignement par IA]], l'agent classé troisième selon le score propre à la plateforme arrivait dernier sur une grille validée par des experts. Le désaccord homme–machine est systématique plutôt qu'aléatoire, et l'opérationnalisation de la grille compte souvent plus que l'artisanat des invites ([[machines-misread-pedagogical-quality|Tseng et al., 2026]]).
+Rapportez le rôle de l'IA, la vérification que vous avez faite et les limites d'un dispositif à un seul cours et un seul chercheur. Un compte rendu de flux de travail n'est pas un résultat d'efficacité.
 
-### Vous restez redevable de l'interprétation
+Traitez la simulation d'une cohorte comme une option avancée plutôt que comme un réglage par défaut. Les apprenants simulés tendent à couvrir le quadrant le plus facile du comportement étudiant réel et sont rarement validés après usage ([[simulating-students]]). Lisez [[making-simulated-students-behave-like-learners]] avant de faire confiance au verdict d'un simulateur.
 
-Quelqu'un doit pouvoir répondre d'une étude exclue, d'un thème codé, ou d'une affirmation de prévalence. Les modèles pré-entraînés ajoutent une couche de dépendance épistémique — leurs données d'entraînement, leur affinage et leurs objectifs peuvent être inconnus — et, parce qu'ils émergent de réseaux sociotechniques, la responsabilité devient difficile à attribuer : un « problème des mains nombreuses » ([[ai-methodologies-science-education-research-2026|Martin et al., 2026]]). Nommer le rôle de l'IA dans la méthode fait partie de la réponse, mais ne transfère pas la redevabilité. Gardez le cheminement interprétatif inspectable, contestable et révisable ([[chain-behind-claim-warrantability-2026|Holster, 2026]]), et gardez un humain désigné redevable de chaque décision conséquente.
+## Ce que les chercheurs ratent à ce sujet
 
-### Vie privée et consentement pour les données étudiantes dans les outils tiers
+Un accord avec un codeur humain signifie que le codage est juste. L'accord humain-LLM dans l'étude en aveugle était de 0.30 en Jaccard contre 0.52 pour humain-humain, et le vérificateur aveugle ne pouvait pas distinguer les deux sources de codage, à 51.5% contre 48.5%. L'accord enregistre que deux lecteurs ont convergé, y compris lorsqu'ils ont convergé sur le même biais.
 
-Les données de classe et d'étudiants qui transitent par des outils tiers portent des obligations de consentement, de gouvernance et de confidentialité qui précèdent tout argument d'efficience. [[prisma-llm-ai-assisted-systematic-reviews-2026|Zabaleta et Lin (2026)]] ont constaté que l'accès aux modèles était massivement propriétaire (84.1%), ce qui signifie que le texte des étudiants quitte typiquement votre établissement. Ne collectez que ce que la finalité éducative exige, rendez transparents l'usage des données et les limites de l'outil, vérifiez si les données des apprenants servent à entraîner les modèles du fournisseur, et préférez les données locales ou synthétiques là où la sensibilité est élevée. Le traitement complet de ces obligations — avec l'équité, l'accessibilité et la sécurité pédagogique — se trouve dans [[equity-ethics-pedagogical-safety-research]].
+Un vérificateur de références remplace la vérification des références. Les 30 références fabriquées de l'audit de Denny incluent 17 hybrides où le titre était réel et les auteurs ne l'étaient pas, ce qui est exactement le cas qu'un vérificateur entraîné sur des métadonnées traite le plus mal, puisque les métadonnées sont précisément ce qui est faux.
 
-## Ce que les preuves n'établissent pas encore
+Une évaluation favorable rend un flux de travail apte à votre rôle. Sur 118 articles sur les LLM à résultats uniquement positifs, 52% rapportaient encore une inquiétude sur le fait que le flux de travail restait sous la barre exigée par son rôle. Lisez la profondeur de l'évaluation à l'aune du travail que vous lui confiez.
 
-- **Aucune comparaison directe.** Le travail de référence pose la comparaison entre méthodes assistées par l'IA et méthodes traditionnelles comme un travail futur ; aucune étude ici ne montre qu'une méthodologie d'IA produit des conclusions plus valides ([[ai-methodologies-science-education-research-2026|Martin et al., 2026]]).
-- **Des dispositifs minces partout.** Les preuves consistent en une proposition de cadre, un compte rendu réflexif d'une équipe, un rapport d'atelier, une étude par groupes de discussion et de la bibliométrie observationnelle — pas un essai contrôlé d'une méthode assistée par l'IA. Les affirmations de déplacement de rôle et d'expansion de la capacité proviennent de comptes rendus portant sur un seul site et un seul investigateur.
-- **Un décalage de restitution, non un audit de la pratique.** PRISMA-LLM lit le silence au niveau des articles ; un flux de travail sans évaluation dans son article peut encore être validé dans un rapport de produit, un protocole ou un dépôt.
-- **La recherche des praticiens est sous-représentée.** Le corpus ne permet pas d'étayer des affirmations sur la manière dont les enseignants devraient utiliser l'IA pour étudier leur propre pratique.
-- **Les outils sont une cible mouvante.** Un résultat portant sur un flux de travail de 2025 décrit une génération de systèmes qui peut ne plus exister sous cette forme, si bien que la reproductibilité doit être liée à une version de modèle et à une date.
+L'habileté du prompt est le principal levier de qualité. L'opérationnalisation de la grille compte souvent plus que l'habileté du prompt dans l'accord humain-machine, et l'évaluation à huit agents classait le même système troisième et dernier selon la grille appliquée.
 
-## Questions liées
+L'IA retire du travail du projet. L'étude de cas de 115 jours a trouvé un périmètre délégué qui grandissait à mesure que la mémoire de l'agent s'accumulait. La vérification, l'arbitrage et la journalisation sont les heures qui augmentent avec lui.
 
-- [[evaluating-ai-interventions-methods|Quelles mesures et quelles méthodes de recherche un enseignant peut-il utiliser pour évaluer des interventions liées à l'IA ?]] — la question de conception méthodologique dont dépendent les flux de travail assistés par l'IA
-- [[reporting-interpreting-aied-research|Quelles sont les bonnes pratiques pour rapporter et interpréter la recherche sur l'IA en éducation ?]] — comment rapporter le système d'IA, la mesure, et votre propre usage de l'IA
-- [[research-gaps-aied|Quelles sont les lacunes notables de la littérature de recherche sur l'IA en éducation ?]] — là où les preuves manquent ou sont faibles
-- [[equity-ethics-pedagogical-safety-research|Comment la recherche sur l'IA en éducation devrait-elle intégrer l'équité, l'accessibilité, la vie privée, l'éthique et la sécurité pédagogique ?]] — les obligations autour des données étudiantes et de la sécurité
-- [[ai-assisted-educational-research]] — la page de concept complète sur l'IA comme instrument du travail de recherche
-- [[making-simulated-students-behave-like-learners|Comment faire en sorte qu'un étudiant simulé se comporte comme un apprenant réel ?]] — avant d'utiliser un simulateur comme instrument de recherche
+## Ce qui va vous revenir dessus
+
+**« Mon coauteur fait déjà cela et personne ne s'est plaint. »** L'absence de plaintes n'est pas un résultat sur la validité. La question de la déclaration est distincte de la question de la qualité, et le chiffre de 38.0% pour les articles logiciels non évalués dit que le silence du champ est généralisé.
+
+**« Deux modèles étaient d'accord entre eux, donc le codage est réglé. »** Deux modèles qui partagent des données d'entraînement partagent leurs erreurs. Le vérificateur aveugle de l'étude de Liu préférait le codage machine à 48.5%, et ce qui rendait ce chiffre interprétable était un juge indépendant, pas l'accord lui-même.
+
+**« Nous ne pouvons pas auditer un modèle propriétaire, donc il n'y a rien à rapporter. »** PRISMA-LLM demande une déclaration de mise en œuvre comme palier distinct de la profondeur d'évaluation. Le système, la version, les prompts, ce que les humains ont vérifié et où cela a échoué sont tous déclarables pour un modèle fermé.
+
+**« Le comité d'éthique n'approuvera jamais cela. »** L'accès aux modèles était propriétaire dans 84.1% des articles examinés, ce qui signifie que le texte des étudiants quitte généralement votre établissement. Ne collectez que ce que la finalité pédagogique exige, vérifiez si les données des apprenants entraînent les modèles du fournisseur, et privilégiez des données locales ou synthétiques là où la sensibilité est élevée. [[equity-ethics-pedagogical-safety-research]] couvre les obligations dans leur intégralité.
+
+**« Ce sera plus lent que de le faire à la main. »** Pour un petit projet, c'est souvent le cas. L'argument en faveur repose sur le périmètre à grande échelle, et l'argument contre l'exagération repose sur le même compte rendu de 115 jours.
+
+## Quoi faire cette semaine
+
+**1.** Écrivez la liste des tâches avec un verdict à côté de chaque item, et placez-la là où toute l'équipe peut la voir.
+
+**2.** Ajoutez les règles de décision pour les cas limites et le journal d'arbitrage à votre protocole de dépistage avant le début du prochain lot.
+
+**3.** Choisissez une production automatisée sur laquelle vous vous appuyez déjà et validez-la contre un jugement humain sur un échantillon que vous n'avez pas encore regardé.
+
+**4.** Relisez le dernier manuscrit que vous avez soumis et vérifiez à la main chaque nom d'auteur de la liste de références.
+
+**5.** Ajoutez une ligne « où l'IA a échoué » à votre modèle de section des méthodes, pour que l'habitude de déclaration soit écrite une fois pour toutes.
+
+## Où aller ensuite
+
+Les questions compagnes sont [[evaluating-ai-interventions-methods]] sur la manière de mesurer une intervention, [[reporting-interpreting-aied-research]] sur la déclaration du système et de votre propre usage de l'IA, et [[research-gaps-aied]] sur les endroits où la littérature est mince. [[equity-ethics-pedagogical-safety-research]] couvre les données des étudiants, et [[ai-assisted-educational-research]] est la page de concept complète derrière celle-ci.

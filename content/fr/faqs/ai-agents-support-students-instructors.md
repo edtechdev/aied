@@ -1,16 +1,20 @@
 ---
 title: "Comment les agents d'IA peuvent-ils aider les étudiants et les enseignants ?"
 created: "2026-09-22T19:12:18-04:00"
-updated: "2026-10-24T10:37:31-04:00"
+updated: "2026-10-29T08:08:36-04:00"
 weight: 66
 audience: [instructors, learners, administrators]
 foundations: [agentic-ai, ai-literacy, cognitive-offloading]
 technology: [human-in-the-loop-ai, intelligent-tutoring, pedagogical-agent]
-source_updated: "2026-10-21T14:32:00-04:00"
+source_updated: "2026-10-28T11:29:19-04:00"
 translation_of: faqs/ai-agents-support-students-instructors
 translation_note: "Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-29"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-22"
@@ -23,37 +27,82 @@ ai_assist:
 
 *Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle.*
 
-**Les agents d'IA peuvent dépasser la réponse à une question en un seul tour** en planifiant, en utilisant des outils, en mémorisant un contexte pertinent, en coordonnant des sous-tâches et en adaptant leur soutien au fil d'une séquence d'interactions. Pour les étudiants, les rôles plausibles incluent le tutorat adaptatif, la planification des études, la rétroaction [[formative-assessment|formatif]], la [[problem-solving|résolution de problèmes]] guidée, la génération d'exercices, la simulation, les recommandations de prérequis et l'[[prompt-engineering|invitation]] réflexive ou métacognitive. Pour les enseignants, les agents peuvent aider à élaborer des supports, à [[automated-question-generation|générer des questions]] et à les valider, à trier les rétroactions, à analyser les [[learning-analytics|données d'apprentissage]] d'un cours, à conduire des flux de conception pédagogique, à retrouver des ressources et à orchestrer des agents spécialisés.
+Une démonstration commerciale dure quarante minutes. L'agent lit le programme, rédige le quiz de la semaine prochaine, signale trois étudiants qui n'ont pas ouvert la lecture et propose de leur écrire. Votre vice-recteur veut une décision de licence avant la fin du mois.
 
-## Des capacités agentiques récurrentes
+Un [[agentic-ai|agent]] planifie, appelle des outils, conserve le contexte, découpe le travail en sous-tâches et s'adapte au fil des tours, ce qui va plus loin qu'un [[conversational-ai|agent conversationnel]]. Les rôles côté étudiant et côté enseignant que cela ouvre sont réels. Les preuves ne montrent pas que plus d'autonomie produit plus d'apprentissage : dans la seule étude comparative directe disponible ici, un agent et un agent conversationnel arrivent à égalité. Placez l'autonomie là où une personne vérifie la sortie, laissez la planification à l'apprenant, et notez la qualité de l'enseignement selon votre propre grille.
 
-L'article [[agentic-workflows-education|Agentic Workflows in Education]] décrit quatre capacités agentiques récurrentes : **la réflexion, la planification, l'usage d'outils et la collaboration multi-agents**. Chacune ouvre des possibilités mais introduit aussi des difficultés d'[[explainable-ai|interprétabilité]], de coordination, de confiance, de latence et de supervision.
+## La version courte
 
-## Ce que les agents d'IA font bien (implications positives)
+**1.** Nommez le travail avant le produit.
 
-- **Un soutien durable et adaptatif.** Contrairement aux [[conversational-ai|agents conversationnels]] d'un seul tour, les agents peuvent maintenir une conversation d'apprentissage sur de nombreux échanges, en se souvenant de ce que l'apprenant sait, en adaptant la difficulté et en séquençant un [[scaffolding]] en plusieurs étapes. Cela soutient un apprentissage [[adaptive-learning|adaptatif]] et [[personalized-learning|personnalisé]] à grande échelle.
-- **Des enseignants déchargés.** Les agents peuvent rédiger des supports, générer et valider des questions (par exemple un couple générateur + validateur), trier les rétroactions et orchestrer des sous-agents spécialisés, libérant les enseignants pour des interactions à plus forte valeur.
-- **Une interaction riche et une [[desirable-difficulties|friction productive]].** Les classes multi-agents et les pairs simulés créent des dynamiques variées (discours entre pairs, désaccord constructif, jeu de rôles) qui soutiennent l'[[collaborative-learning|apprentissage collaboratif]] et l'[[socratic-method|interrogation socratique]]. Des agents conçus pour contester plutôt que pour acquiescer peuvent pousser les apprenants vers une remise en question plus profonde (les agents de conflit constructif ont amélioré les résultats de conception dans la recherche).
-- **Une pratique et une simulation à faible risque.** Les [[simulation|simulations]] fondées sur des agents ([[simulating-students|étudiants simulés]], scénarios [[medical-education|cliniques]]) permettent aux apprenants de s'exercer dans des environnements sûrs et répétables avant l'application réelle.
+**2.** Commencez côté enseignant, là où un enseignant inspecte déjà le travail.
 
-## Risques et réserves principaux (implications négatives)
+**3.** Traitez l'autonomie supplémentaire comme un coût jusqu'à ce que les preuves disent le contraire.
 
-- **Trop d'automatisation peut vider l'apprentissage.** Plus un agent automatise, moins l'apprenant fournit de travail cognitif. Les agents proactifs peuvent laisser les étudiants en consommateurs passifs, affaiblissant les processus coûteux qui construisent un apprentissage durable et augmentant le [[cognitive-offloading|risque de dépendance excessive]].
-- **Un engagement métacognitif réduit.** Si les agents prennent en charge la planification et le suivi, les apprenants peuvent ne pas développer la [[metacognition]] et l'[[self-regulated-learning|autorégulation]] que l'éducation cherche à construire. Les agents devraient susciter ces processus, non les remplacer.
-- **Une confiance mal placée et des lacunes de vérification.** Les agents autonomes peuvent produire des résultats plausibles mais non validés ; les apprenants et les enseignants peuvent [[trust-calibration|leur faire trop confiance]]. Une vérification robuste et l'[[ai-literacy]] deviennent plus importantes à mesure que les agents gagnent en [[agency|autonomie]].
-- **Opacité et responsabilité.** Les systèmes multi-agents compliquent la [[human-in-the-loop-ai|supervision humaine]] : quel agent est responsable d'une erreur, et où un humain intervient-il ? Les défaillances de coordination et la dérive des personas peuvent miner la fiabilité et la [[pedagogical-safety]].
-- **[[equity-in-ai-education|Équité]] et biais.** Les agents peuvent reproduire à grande échelle les biais des données d'entraînement, et un accès inégal à des systèmes agentiques performants peut creuser les inégalités.
+**4.** Laissez la planification et le jugement à l'apprenant, car c'est ce que le devoir existe pour construire.
 
-## Ce que les données montrent jusqu'ici
+**5.** Notez l'agent selon votre grille, et planifiez une vérification sans assistance avant la fin du pilote.
 
-Des résultats concrets, et des mises en garde, s'accumulent. [[wang-tutor-copilot-human-ai-live-tutoring-rct-2024|Tutor CoPilot]], le premier [[rct|essai contrôlé randomisé]] d'un système humain-IA en tutorat en direct, a fourni à des tuteurs novices des conseils experts en temps réel issus du raisonnement de tuteurs expérimentés : sur **900 tuteurs et environ 1,800 étudiants**, les étudiants de tuteurs ayant accès à l'outil étaient **4 points de pourcentage plus susceptibles de maîtriser les sujets**, un écart qui montait à **9 p.p.** chez les tuteurs les moins bien évalués, dont les étudiants rejoignaient ceux des tuteurs mieux évalués du groupe témoin. Cela coûtait environ **\$20 par tuteur et par an**, et l'analyse de **plus de 550,000 messages de tutorat** a montré que les tuteurs évoluaient vers des questions guidantes plutôt que vers des réponses données d'emblée : un cas clair d'IA qui augmente le [[teacher-role|rôle de l'enseignant]] au lieu de le remplacer.
+## Choisissez le travail avant de choisir l'agent
 
-Mais « agentique » n'est pas automatiquement meilleur. [[ilieva-agentic-genai-higher-education-2026|Une étude menée auprès de 130 étudiants dans un cours de commerce électronique]] a constaté que les agents conversationnels d'[[generative-ai]] comme les agents d'IA générative étaient tous deux mieux notés que l'[[online-teaching-and-learning|apprentissage en ligne]] traditionnel pour l'enrichissement de l'apprentissage et la [[personalized-learning|personnalisation]], mais **aucune différence statistiquement significative entre la condition agent conversationnel et la condition agent** n'apparaissait : davantage d'autonomie ne s'est donc pas traduit par davantage de valeur d'apprentissage. Le cadre proposé (Agentic GAI-Supported Learning Framework) traite en conséquence les agents comme des **partenaires d'apprentissage délimités et supervisés par des humains**, dont les objectifs, les points de contrôle et les décisions finales restent réservés aux humains.
+[[agentic-workflows-education|Agentic Workflows in Education]] nomme quatre capacités récurrentes : la réflexion, la planification, l'usage d'outils et la collaboration multi-agents. Chacune ajoute un coût à côté de la possibilité, en [[explainable-ai|interprétabilité]], en coordination, en [[trust-calibration|confiance]], en latence et en supervision.
 
-Deux autres mises en garde comptent. Premièrement, le **retrait** : les essais randomisés montrent que même une brève assistance par IA peut déprimer la performance non assistée qui suit, et l'intervalle après le retrait, nommé [[cognitive-washout-ai-skill-decay-2026|cognitive washout]], est presque entièrement non mesuré, de sorte que la durabilité des [[learning-gains|gains d'apprentissage]] assistés par un agent reste inconnue. Deuxièmement, l'**évaluation** : [[zhang-platform-scores-miss-ai-teaching-agents-2026|le déploiement de huit agents d'enseignement de l'IA dans un cursus médical]] a montré que les scores produits par la plateforme classaient les agents différemment d'une grille d'évaluation experte indépendante (l'agent classé troisième par la plateforme arrivait dernier sur la qualité d'enseignement) parce que les scores de la plateforme indexent la performance des étudiants plutôt que la qualité d'enseignement de l'[[pedagogical-agent|agent]]. La revue de [[governance]] [[beyond-agent-label-agentic-ai-governance-2026|Beyond the Agent Label]] ajoute une règle de proportionnalité : **l'autonomie ne devrait pas dépasser la maturité des preuves ni la solidité d'un contrôle humain responsable**, en notant que les preuves sont les plus fortes pour les résultats au niveau des artefacts et les plus faibles pour l'apprentissage durable et l'équité. Pour savoir comment en concevoir un, voir [[developing-ai-tutor]] ; pour savoir comment évaluer s'il fonctionne, voir [[evaluating-ai-interventions-methods]].
+Les rôles côté étudiant vont du tutorat et de la planification d'étude [[adaptive-learning|adaptatifs]] au retour [[formative-assessment|formatif]], à la [[problem-solving|résolution de problèmes]] guidée et à la génération d'exercices, jusqu'aux recommandations de prérequis et à l'[[metacognition|amorçage métacognitif]] réflexif par [[prompt-engineering|invites]]. Les rôles côté enseignant couvrent le développement de matériel, la [[automated-question-generation|génération de questions]] et leur validation, le tri des rétroactions, la [[learning-analytics|analytique]] de cours, la conception pédagogique, la recherche de ressources et l'orchestration de sous-agents spécialisés.
 
-## L'état des preuves
+Deux d'entre eux sont plus sûrs en premier, parce que tous deux produisent un artefact qu'une personne lit avant les étudiants : un générateur de questions associé à un validateur, et une rédaction que l'enseignant retouche.
 
-La base de preuves est encore émergente. La synthèse [[agentic-ai|IA agentique en éducation]] de la base de connaissances s'appuie sur une [[meta-analysis-systematic-review|revue de portée]] de 474 études, mais note une forte concentration dans l'[[higher-ed|enseignement supérieur]], les [[stem-education|STIM]], les dispositifs à court terme et le tutorat textuel ; seule une minorité des travaux examinés ancre explicitement ses systèmes dans la théorie éducative, et une validation rigoureuse en classe sur le long terme reste limitée.
+## Commencez là où un humain vérifie déjà le travail
 
-L'avertissement de conception clé est donc de ne pas assimiler une plus grande autonomie à un meilleur apprentissage. [[agentic-ai-pedagogical-best-practice-2026|Agentic AI and Pedagogical Best Practice]] recommande une friction intentionnelle, un étayage dynamique et une supervision humaine pour que l'initiative de l'agent ne supprime pas la planification, le suivi, le jugement et l'effort de l'apprenant. Voir aussi [[intelligent-tutoring|tutorat intelligent]] et [[human-in-the-loop-ai|IA avec humain dans la boucle]].
+[[wang-tutor-copilot-human-ai-live-tutoring-rct-2024|Tutor CoPilot]], premier [[rct|essai contrôlé randomisé]] d'un système humain-IA en tutorat en direct, fournissait à des tuteurs débutants des conseils en temps réel tirés du raisonnement de tuteurs expérimentés, sur 900 tuteurs et environ 1.800 étudiants. Les étudiants des tuteurs ayant accès à l'outil avaient 4 points de pourcentage de plus de chances de maîtriser les sujets, l'écart montant à 9 points chez les tuteurs les moins bien notés, dont les étudiants ont rattrapé ceux des tuteurs mieux notés du groupe témoin. Cela coûtait environ 20 \$ par tuteur et par an, et l'analyse de plus de 550.000 messages de tutorat montrait des tuteurs passant de la donnée de réponses à la pose de questions guides. C'est de l'IA qui augmente l'[[teacher-role|enseignant]].
+
+L'agent n'a pas enseigné à l'étudiant. Il alimentait un humain en pleine conversation, et l'humain décidait quoi dire. Une personne dans la boucle et un résultat proche du travail sont ce qui rend le résultat transposable à un autre cours.
+
+## Ne supposez pas que plus d'autonomie achète plus d'apprentissage
+
+[[ilieva-agentic-genai-higher-education-2026|Une étude portant sur 130 étudiants d'un cours de commerce en ligne]] a constaté que les agents conversationnels comme les agents d'[[generative-ai|IA générative]] étaient mieux notés que l'[[online-teaching-and-learning|apprentissage en ligne]] traditionnel sur l'apprentissage et la [[personalized-learning|personnalisation]], sans différence significative entre l'agent conversationnel et l'agent. Autonomie ajoutée, valeur ajoutée nulle sur ces mesures.
+
+Le cadre de cette étude traite les agents comme des partenaires d'apprentissage bornés et supervisés par des humains, les objectifs, les points de contrôle et les décisions finales restant aux personnes. [[beyond-agent-label-agentic-ai-governance-2026|Beyond the Agent Label]] en fait une règle de [[governance|gouvernance]] : l'autonomie ne devrait pas dépasser la maturité des preuves ni la solidité d'un contrôle humain responsable, et les preuves sont les plus fortes sur les résultats au niveau de l'artefact, les plus faibles sur l'[[learning-gains|apprentissage]] durable et l'[[equity-in-ai-education|équité]].
+
+Le risque côté apprenant va dans le même sens. Un agent qui planifie et surveille à la place d'un étudiant supprime la pratique qui construit l'[[self-regulated-learning|autorégulation]] et invite à la [[cognitive-offloading|décharge cognitive]]. [[agentic-ai-pedagogical-best-practice-2026|Les recommandations de bonnes pratiques]] demandent une friction intentionnelle, un [[scaffolding|étayage]] qui s'estompe et une [[human-in-the-loop-ai|supervision humaine]]. Les [[desirable-difficulties|difficultés désirables]] ont des exemples de mise en œuvre. Les agents à conflit constructif, qui contestent une conception faible, ont amélioré les résultats de conception dans la recherche recensée. Les [[simulating-students|pairs simulés]] soutiennent l'[[collaborative-learning|apprentissage collaboratif]] et le questionnement [[socratic-method|socratique]], et les [[medical-education|enseignements cliniques]] fondés sur la [[simulation|mise en situation]] permettent aux apprenants de s'entraîner là où une erreur coûte peu.
+
+Le test vaut pour tous : après la séance, que sait faire l'étudiant que l'agent faisait avant ? Céder le jugement coûte à l'étudiant la [[agency|pratique]] de l'exercer.
+
+## Confrontez l'agent à votre propre jugement
+
+[[zhang-platform-scores-miss-ai-teaching-agents-2026|Huit agents d'enseignement par IA déployés dans un cursus de médecine]] ont été classés différemment par les scores générés par la plateforme et par une grille experte indépendante. L'agent classé troisième par la plateforme est arrivé dernier sur la qualité de l'enseignement. Les scores de plateforme indexent la performance des étudiants, qui évolue pour des raisons sans rapport avec l'enseignement.
+
+Demandez ce que compte un chiffre de tableau de bord, qui a écrit la grille derrière, et à quoi ressemblerait un score faible dans le travail d'un étudiant. La [[pedagogical-safety|sécurité pédagogique]] relève de la même revue, car une chaîne d'[[pedagogical-agent|agents]] rend difficile de dire quel composant est responsable quand une réponse est fausse.
+
+## Prévoyez l'arrêt
+
+Les essais randomisés montrent qu'une brève assistance par l'IA peut déprimer la performance ultérieure sans assistance, et l'intervalle qui suit le retrait, le [[cognitive-washout-ai-skill-decay-2026|lessivage cognitif]], n'est presque jamais mesuré. La synthèse derrière cette page s'appuie sur une [[meta-analysis-systematic-review|revue de portée]] de 474 études et constate que le travail se concentre sur l'[[higher-ed|enseignement supérieur]], les [[stem-education|STIM]], les dispositifs de court terme et le tutorat textuel, une minorité seulement s'ancrant explicitement dans une théorie de l'apprentissage. Un pilote qui s'arrête avec la licence a mesuré la mauvaise fenêtre.
+
+## Ce que les administrateurs comprennent mal
+
+Un agent est un agent conversationnel amélioré, donc l'amélioration devrait se voir dans les résultats. Dans la comparaison à 130 étudiants, les deux conditions d'IA battent l'apprentissage en ligne et aucune ne bat l'autre.
+
+Le tableau de bord classe la qualité de l'enseignement. Il classe la performance des étudiants, et huit agents ont produit un classement qui inversait la troisième et la dernière place par rapport à une grille experte.
+
+L'autonomie est la fonctionnalité à acheter. La règle de proportionnalité va dans l'autre sens, et les preuves sont les plus minces là où l'autonomie est la plus grande.
+
+L'accès comble l'écart d'équité. Un accès inégal à des systèmes agentiques capables peut l'élargir, et un agent reproduit à grande échelle les biais des données d'entraînement.
+
+## Ce qui va vous retomber dessus
+
+**« Les étudiants vont simplement le laisser faire le travail. »** Certains le feront, et l'architecture décide de la facilité. Les agents qui planifient et rédigent à la place de l'étudiant y invitent. Les agents qui exigent une tentative, puis posent une question, non.
+
+**« L'évaluation de l'éditeur dit que ça marche. »** Demandez ce que compte le chiffre. Si c'est la performance des étudiants mesurée par la plateforme, elle mesure les étudiants autant que l'agent.
+
+**« Personne ne peut dire quel agent est responsable dans une chaîne. »** Vrai de la plupart des déploiements actuels. Nommez un responsable de la chaîne, consignez quel composant a produit quelle sortie, et gardez un point de contrôle humain avant que quoi que ce soit atteigne un dossier étudiant.
+
+## À faire cette semaine
+
+**1.** Écrivez le travail et le résultat sur lequel vous le jugerez, une phrase chacun, avant le prochain appel avec l'éditeur.
+
+**2.** Notez la sortie d'un agent selon votre grille sur dix travaux réels d'étudiants, et conservez les notes.
+
+**3.** Ajoutez au plan de pilote une tâche sans assistance, datée et attribuée à un responsable.
+
+## Où aller ensuite
+
+[[developing-ai-tutor]] couvre la construction côté étudiant, de l'objectif à l'échelle d'aide, et [[evaluating-ai-interventions-methods]] traite de la question de savoir si le dispositif a fonctionné. [[intelligent-tutoring]] et [[ai-literacy]] fournissent le vocabulaire de conception que cette page présuppose.

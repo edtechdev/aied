@@ -6,10 +6,14 @@ weight: 72
 foundations: [learning-design, reducing-ai-misuse]
 pedagogy: [active-learning, pedagogy, scaffolding]
 translation_of: faqs/designing-ai-into-learning
-source_updated: "2026-10-02T08:21:34-04:00"
+source_updated: "2026-10-28T11:26:02-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-29"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
@@ -18,40 +22,88 @@ ai_assist:
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
 
-# YZ Öğrenme Deneyiminin İçine Nasıl Tasarınmalıdır?
+Modül taslağında "YZ etkinliği" yazan bir satır var ve kimse bunun neyin yerini aldığını söyleyemiyor. Ya da bir öğretim elemanı, zaten iyi işleyen bir kursa sohbet robotu eklemek istedi ve sizin işiniz, kursu işler kılan kısmı bozmadan onu yerleştirmek.
 
-**Öğrenme hedefi ve öğrenme süreciyle başlayın — YZ özelliğiyle değil.** Bilgi tabanının [[pedagogy|Pedagogies and Teaching Strategies]] kavramı, aynı YZ'nin öğretim tasarımına bağlı olarak bir iskele, [[socratic-method|Socratic]] bir muhatap, bir geri bildirim ortağı, bir [[simulation]] veya bir yanıt üreteci olarak işlev görebileceğini vurgular. Önemli olan, yapılandırmanın amaçlanan öğrenmeyi üreten etkinliği koruyup korumadığıdır.
+Öğrenme hedefinden ve o hedefi üreten etkinlikten başlayın. Aynı model bir iskele, bir [[socratic-method|Sokratik]] ortak, bir taslak okuyucusu, bir [[simulation|simülasyon]] ya da bir cevap makinesi olabilir; hangisini elde ettiğiniz modelden çok tasarıma bağlıdır. İnşa ettiğiniz modu adlandırın, herhangi bir yardım görünmeden önce öğrenenin denemesini koyun ve kursta araç olmadan işleyen en az bir yol bırakın.
 
-## Güçlü bir varsayılan örüntü
+## Kısa özet
 
-Güçlü bir varsayılan örüntü şudur: **öğrenen dener → YZ destekler → öğrenen değerlendirir veya gözden geçirir → öğrenen anlamayı gösterir.** Daha somut olarak:
+**1.** Öğrenenlerin sonunda araç olmadan neler yapabildiğine dair cümleyi yazın ve her YZ özelliğini bu cümleye karşı denetleyin.
 
-- Öğrenmeye hizmet ettiği yerlerde [[productive-failure|productive failure]] koruyun.
-- YZ yardımı görüntülenmeden önce bir ilk tahmin veya çözüm isteyin.
-- Anında tamamlamaya tercih olarak soruları, ipuçlarını, örnekleri, karşı argümanları ve geri bildirimi yeğleyin.
-- Sonuçları önemli iddiaların doğrulanmasını gerektirin.
-- Açıklama ve [[learning-by-teaching|teach-back]] fırsatlarını içer.
-- Yetkinlik arttıkça desteği kademeli olarak azaltın.
-- Öğrenenlerin neyi bağımsız yapabildiklerini kalibre etmeleri için bazı YZ'siz fırsatları koruyun.
+**2.** Etkileşimi sıralayın: öğrenen dener, YZ destekler, öğrenen değerlendirir ya da revize eder, öğrenen gösterir.
 
-[[reducing-ai-misuse|Reducing AI Misuse]] sentezi, özellikle önce düşün/YZ sonra/yansıt dizilerini ve bilinçli değerlendirme denetim noktalarını önermektedir.
+**3.** Modu ICAP merdiveninde adlandırın. Baypas ile iskele, aynı aracın farklı basamakları olabilir.
 
-## YZ rolünü bilişsel etkileşim düzeyine uyarlayın
+**4.** YZ'yi kurs dizisinin zaten belirli bir etkinlik öngördüğü yere yerleştirin, sona bir bonus olarak değil.
 
-[[thermomix-genai-education-analogy-2026|Rummel, Nachtigall and Panadero's kitchen-machine analogy]], tasarım sorusunu öğrenenlerin [[generative-ai|generative AI]] kullanıp kullanmadığından *bu kullanımın ne olduklarını nasıl şekillendirdiğine* çevirir. Akıllı bir mutfak aletinin dört kullanımını [[icap-framework|ICAP]] ve [[samr-model|SAMR]] çerçeveleri yoluyla öğrenme durumlarına eşlemek, bir tasarım merdiveni verir: bir ödevi gözden geçirme veya [[critical-thinking|critical engagement]] olmadan tamamen dış kaynaklı yaptırmak Pasif ikame etme olup [[cognitive-offloading|skill loss and over-reliance]] riski taşır; [[prompt-engineering|refining prompts]] ve çıktıları çapraz doğrulamak [[prior-knowledge|prior knowledge]] ve [[self-regulated-learning|self-regulation]] gerektirir (Etkin/Arttırma); beyin fırtınası, taslak ve özgün işi değerlendirmek için YZ kullanmak Yapıcı/Değişiklik'tir; ve eş kurulum ile uyarlanabilir [[feedback]] için gerçek bir diyalog ortağı olan YZ Etkileşimli/Yeniden tanımlama'dır. Tasarım çıkarımı doğrudandır: aynı araç bir basamakta bir baypas, diğerinde bir iskeledir; dolayısıyla genel erişim tanımak yerine amaçlanan modu belirtin.
+**5.** Bir kapasite oluşurken aracı esirgeyin, sonra öğrencinin taklit edemeyeceği bir denetim noktasında geri verin.
 
-## Tasarımı sıralayın, aracı yalnızca izin vermeyin
+## Öğrenenin araç olmadan ne yaptığına karar verin
 
-[[learning-paths-patterns-learning-design-2026|Divjak, Svetec and Horvat]], 554 kurstaki 29.064 öğretim ve öğrenme etkinliğinin planlı sırasını analiz etmiş ve görünür bir tasarım dilbilgisi bulmuştur: Kazanma (Acquisition) türü etkinlikler en yaygın giriş noktası ve en büyük tek türdür (%20'nin üzerinde); öğrenme türü amaçlanan Bloom düzeyini izler (Kazanma, 1. düzeyde ~%50'den 6. düzeyde ~%20'ye düşer, Üretme 5–6. düzeylerde %20'nin üzerine çıkar); ve en güçlü geçiş Değerlendirme → Tartışma'dır (0,332). YZ tasarımı için iki ders: YZ, sıranın belirli bir etkinlik türünü amaçladığı yere aittir, sona çivilenmiş olarak değil; ve geri bildirim [[collaborative-learning|collaboration]], [[group-work|group work]] ve [[teacher-role|teacher]] varlığıyla kümelenmiş olduğundan, akran ve eşzamanlı yapılar, YZ desteğinin yerine geçmek yerine takılması gereken [[feedback]] anlarını yaratır.
+Bilgi tabanındaki [[pedagogy|Pedagojiler ve Öğretim Stratejileri]] kavramı testi verir: bu yapılandırma, amaçlanan öğrenmeyi üreten etkinliği koruyor mu? Bunu, kimse bir özellik seçmeden önce kâğıt üzerinde yanıtlayın.
 
-[[refrain-amplify-genai-curriculum-2026|Torres-Sahli and colleagues' "refrain, then amplify" framework]] bunu program düzeyine taşır: bir kapasite oluşurken üretken aracı alıkoyun, sonra öğrenci onu yönetebildiğinde, döndürdüğünü yargılayabildiğinde ve onun hesabını verebildiğinde geri getirin, her menteşede sahte yapılması zor bir denetim noktasıyla. Aygıtlar, oluşan ile [[cognitive-offloading|offloading]] arasındaki bir ölçütle yönetilir — etkileşimli işi destekledikleri yerde izin verilir, dikkati tükettikleri yerde hariç tutulur. Bu, dış kaynaklı yaptırma kararlarını kurs düzeyi tasarımı öncesinde gelen, onu izleyen değil, bir [[curriculum-design|curriculum]] ve [[governance]] sorusuna dönüştürür.
+[[finkelstein-principled-ai-education-2025|İlkeli YZ Eğitimi Çerçevesi]] genel kuralı koyar: teknoloji, eğitimin geliştirmeyi amaçladığı insan kapasitelerini yerinden etmek yerine onları güçlendirmelidir. Bir modül için teste çevrildiğinde bu, kapasiteyi adlandırmak, onu inşa eden etkinliği adlandırmak ve YZ'nin o etkinliğin içinde mi yoksa yanında mı durduğunu sormak demektir.
 
-## Yapıcı hizalama önce gelir
+## Yardımdan önce denemeyi koyun
 
-[[mcinnes-salvaging-constructive-alignment-genai-2026|McInnes and colleagues' discourse analysis]] — 14 yükseköğretim rehberliği üzerinde — verimlilik çerçevelenmiş tavsiyenin, üretken YZ'yi sonuçları, rubrikleri ve kurs ana hatlarını taslak haline getirmek için kullanmanın, "yapıcı" yarısını ihmal ederek *hizalı görünen* bir hizalama ürettiğini uyarır: sonuçlar, etkinlikler ve [[assessment]], birbirine bağımlı olmaktan ziyade ayrık maddeler olarak üretilir. Onların çaresi yasak değil, yeniden sıralamadır: eğitimciler, yapıcı hizalamayı herhangi bir kısmını devretmeden önce YZ çıktısını yönlendirmek, sorgulamak ve reddetmeye yetecek kadar iyi anlamalıdır, çünkü makullik üzerine kurulu yüzeysel kabul alışkanlığı, öğretmenlerin öğrencilere karşı uyardıkları aynı değerlendirici hatadır. YZ'nin kullanıldığı yerlerde, genel internetle eğitilmiş varsayılanlar yerine yerel politika ve kalite standartları çevresinde yapılandırılmış, kurumsal olarak sınırlandırılmış [[rag|retrieval-augmented]] sistemleri savunurlar.
+Gerçek bir sınıfla temas ettikten sonra ayakta kalan varsayılan örüntü şudur: **öğrenen dener, YZ destekler, öğrenen değerlendirir ya da revize eder, öğrenen anladığını gösterir.**
 
-## Daha geniş ilke
+Pratikte bu, herhangi bir yardım görünmeden önce ilk tahmini ya da çözümü istemek ve anında tamamlama yerine soruları, ipuçlarını, örnekleri, karşı argümanları ve [[feedback|geri bildirimi]] yeğlemek demektir. [[productive-failure|Üretken başarısızlığı]] öğrenmeye hizmet ettiği yerde koruyun. Sonuç doğuran iddiaların doğrulanmasını isteyin, açıklamayı ve [[learning-by-teaching|geri anlatımı]] (teach-back) işin içine kurun ve yetkinlik arttıkça desteği azaltın. Öğrenenlerin tek başına neler yapabildiğini kalibre edebilmesi için YZ'siz çalışmalar bırakın.
 
-[[finkelstein-principled-ai-education-2025|the Principled AI Education Framework]]'ndeki daha geniş ilke, teknolojinin eğitimin geliştirmeyi amaçladığı insan yetilerini yerinden etmek yerine onları arttırması gerektiğidir. Ayrıca bkz. [[learning-design|Instructional Design]], [[active-learning|Active Learning]] ve [[scaffolding]].
+[[reducing-ai-misuse|YZ Kötüye Kullanımını Azaltma]] sentezi de aynı biçimi önerir: önce düşün, sonra YZ, sonra yansıt dizisi ve bilinçli değerlendirme denetim noktaları.
 
-Tasarlanmış bir etkileşimin öğrenmeyi koruyup korumadığını belirleyen pedagojik varsayılanlar için bkz. [[reduce-ai-cheating]] ve [[redesign-assessment-ai-era]]; aynı ilkelerin yazılımın kendisini nasıl kısıtladığı için bkz. [[designing-educational-ai-software]], bunların bir özel ders desteği mimarisine çevirisi için bkz. [[developing-ai-tutor]].
+## Hangi mod için tasarladığınızı adlandırın
+
+[[thermomix-genai-education-analogy-2026|Rummel, Nachtigall ve Panadero'nun mutfak makinesi analojisi]] soruyu, öğrenenlerin [[generative-ai|üretken YZ]] kullanıp kullanmadığından, bu kullanımın neye dönüştüklerini nasıl şekillendirdiğine taşır. [[icap-framework|ICAP]] ve [[samr-model|SAMR]] üzerine yerleştirildiğinde bir merdiven verir. Bir ödevi hiç revizyon ya da [[critical-thinking|eleştirel katılım]] olmadan tamamen dışsallaştırmak Pasif ikamedir ve [[cognitive-offloading|beceri kaybı ile aşırı güven]] riski taşır. [[prompt-engineering|İstek metinlerini iyileştirmek]] ve çıktıları çapraz doğrulamak [[prior-knowledge|ön bilgi]] ve [[self-regulated-learning|öz düzenleme]] gerektirir; bu Etkin ya da Artırma düzeyidir. YZ'yi beyin fırtınası, taslak çıkarma ve özgün işi değerlendirme için kullanmak Yapıcı ya da Değiştirme düzeyidir. YZ'nin ortak inşa ve uyarlanabilir geri bildirim için gerçek bir diyalog ortağı olması Etkileşimli ya da Yeniden Tanımlama düzeyidir.
+
+Çıkarım doğrudan: aynı araç bir basamakta baypas, bir sonrakinde [[scaffolding|iskeledir]]; bu yüzden tasarım belgesi amaçlanan modu adlandırmalıdır.
+
+## Onu, dizinin bir etkinlik öngördüğü yere yerleştirin
+
+[[learning-paths-patterns-learning-design-2026|Divjak, Svetec ve Horvat]], 554 kurstaki 29.064 öğretim ve öğrenme etkinliğinin planlanmış dizisini analiz etmiş ve görünür bir tasarım dilbilgisi bulmuştur. Edinme türü etkinlikler en yaygın giriş noktası ve %20'nin üzeriyle en büyük tek türdür. Öğrenme türü amaçlanan Bloom düzeyini izler: Edinme 1. düzeyde yaklaşık %50'den 6. düzeyde yaklaşık %20'ye düşerken Üretim 5. ve 6. düzeylerde %20'nin üzerine çıkar. Verilerdeki en güçlü geçiş Değerlendirme'den Tartışma'ya geçiştir: 0,332.
+
+YZ tasarımı için bundan iki ders çıkar. Aracı, dizinin bir etkinlik türü öngördüğü yere koyun. Ve geri bildirim [[collaborative-learning|işbirlikçi çalışma]], [[group-work|grup çalışması]] ve [[teacher-role|öğretmen]] varlığıyla kümelendiği için, akran ve eşzamanlı yapılar, YZ desteğinin yerine geçmesi gereken değil, bağlanması gereken yerlerdir.
+
+## Neyi esirgeyeceğinize ve ne zaman geri vereceğinize karar verin
+
+[[refrain-amplify-genai-curriculum-2026|Torres-Sahli ve arkadaşlarının "alıkoy, sonra çoğalt" çerçevesi]] bunu program düzeyine taşır. Bir kapasite oluşurken üretken aracı esirgeyin; öğrenci onu yönlendirebildiğinde, döndürdüğünü yargılayabildiğinde ve hesabını verebildiğinde geri verin; her menteşede taklit edilmesi zor bir denetim noktası bulunsun.
+
+Aygıtlar, oluşum ile [[cognitive-offloading|yük boşaltma]] arasındaki bir ölçütle yönetilir: etkin çalışmayı destekledikleri yerde izin verilir, dikkati tükettikleri yerde dışarıda bırakılır. Bu, boşaltma kararlarını kurs düzeyi tasarımdan sonra değil önce gelen bir [[curriculum-design|müfredat]] ve [[governance|yönetişim]] sorusuna dönüştürür.
+
+## Hizalamanın gerçek olduğunu denetleyin
+
+[[mcinnes-salvaging-constructive-alignment-genai-2026|McInnes ve arkadaşlarının]] 14 yükseköğretim rehberi üzerindeki söylem analizi, üretken YZ'yi öğrenme çıktıları, rubrikler ve kurs ana hatları taslaklaştırmak için kullanmak gibi verimlilik çerçeveli tavsiyelerin, yapıcı yarıyı ihmal ederken hizalı görünen bir [[assessment|hizalama]] ürettiği uyarısını yapar. Çıktılar, etkinlikler ve değerlendirmeler birbirine bağımlı maddeler olarak değil ayrık maddeler olarak üretilir.
+
+Çareleri yeniden sıralamadır. Eğitimciler, yapıcı hizalamayı, YZ çıktısının herhangi bir parçasını devretmeden önce onu yönlendirecek, sorgulayacak ve reddedecek kadar iyi anlamalıdır; çünkü inandırıcı bir yüzeyi kabul etmek, öğretim elemanlarının öğrencileri uyardığı değerlendirme hatasının aynısıdır. YZ'nin kullanıldığı yerlerde, genel internetle eğitilmiş varsayılanlar yerine yerel politikaya ve kalite standartlarına göre yapılandırılmış, kurumsal olarak sınırlandırılmış [[rag|geri getirimle desteklenmiş]] sistemleri savunurlar.
+
+## Öğretim tasarımcılarının yanlış anladığı şeyler
+
+YZ'yi eklemek müdahalenin kendisi sayılır. Öğrenmeyi değiştiren, öğrencinin gerçekleştirdiği etkinliktir; YZ bunun için kurulan düzenin yalnızca bir parçasıdır. İyi yerleştirilmiş bir ipucu ile iyi yerleştirilmiş bir cevap aynı model üzerinde çalışıp birbirine zıt öğrenme üretebilir.
+
+İzni yazmak tasarım işinin kendisi sanılır. Bir izin, neye izin verildiğini belirler. Sırayı, modu ya da denetim noktasını belirlemez; etkinliğin ayakta kalıp kalmayacağına karar veren bu üçüdür.
+
+Verimlilik, yeniden tasarımın hedefi sayılır. Bir modelle çıktı ve rubrik taslaklaştırmak hızlıdır ve 14 belgelik analiz, sonucun hizalı görünürken parçaların birbirini desteklemeyi bırakabildiğini bulmuştur.
+
+## Karşınıza neler çıkacak
+
+**"Öğrenciler nasılsa kullanacak, buna göre tasarlamak saflık."** Kullanacaklar; zaten modu belirtmenin ve onu öğretmenin gerekçesi de bu. Modu adlandıran bir modül, öğrenciye uyabileceği bir şey verir.
+
+**"Koca bir kursu yeniden sıralamaya vaktimiz yok."** O zaman bir modülü ve bir değerlendirmeyi yeniden sıralayın. Alıkoy-sonra-çoğalt menteşesi tek bir denetim noktasıdır, önce düşün dizisi ise bir föydeki üç yönergedir.
+
+**"YZ özelliğimizde zaten koruma bariyerleri var."** Koruma bariyerleri modelin ne söylediğini sınırlar. Öğrenenin önce deneyip denemediğini, desteğin azalıp azalmadığını ya da YZ'siz bir yolun bulunup bulunmadığını belirlemezler. Bunlar üründeki ayarlar değil, sizin kursunuzdaki tasarım kararlarıdır.
+
+## Bu hafta yapılacaklar
+
+**1.** Modül için yardımsız performans cümlesini yazın ve etkinlik listesinin üstüne koyun.
+
+**2.** Ana hatlardaki her YZ etkinliğinin yanına amaçlanan ICAP modunu işaretleyin.
+
+**3.** Bir YZ etkinliğini, öğrenen problemi önce deneyecek biçimde taşıyın.
+
+**4.** Modülden geçen bir YZ'siz yol seçin ve öğrenciler için etiketleyin.
+
+**5.** Aracın esirgendiği bir menteşeyi ve onu geri veren denetim noktasını adlandırın.
+
+## Bundan sonra nereye gidilmeli
+
+[[learning-design|Öğretim Tasarımı]], [[active-learning|Etkin Öğrenme]] ve [[scaffolding|iskele]] tasarım sözlüğünü taşır. Tasarlanmış bir etkinliğin öğrenmeyi koruyup korumadığını belirleyen etkileşim düzeyi varsayılanları için [[reduce-ai-cheating|YZ ile Aldatmayı Nasıl Azaltabilirim?]] ve [[redesign-assessment-ai-era|Değerlendirme YZ Çağında Nasıl Yeniden Tasarlanmalı?]] sayfalarına bakın. [[designing-educational-ai-software|Eğitim YZ Yazılımı Tasarlamak]] aynı ilkelerin yazılımın kendisini nasıl sınırladığını ele alır, [[developing-ai-tutor|Etkili Bir YZ Eğitmeni Geliştirmek]] ise bunları bir eğitmenin mimarisine çevirir.

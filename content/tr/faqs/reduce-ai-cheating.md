@@ -6,10 +6,14 @@ weight: 88
 foundations: [academic-integrity, ai-literacy, reducing-ai-misuse]
 assessment: [assessment]
 translation_of: faqs/reduce-ai-cheating
-source_updated: "2026-10-02T08:21:34-04:00"
+source_updated: "2026-10-28T11:06:17-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-29"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
@@ -18,70 +22,150 @@ ai_assist:
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
 
-# Kursumda YZ ile Aldatmayı Nasıl Azaltabilirim?
+Altıncı hafta. Eve verilen bir deneme akıcı ve içi boş dönüyor ve öğrencinin yazıp yazmadığını anlayamıyorsunuz. Ya da dört teslim, eylülde sınıftaki kimsenin üretmediği bir biçimi paylaşıyor ve dürüstlük ofisi ödevin neyi ölçtüğüne dair yazılı bir açıklama istiyor. Ya da bölümünüz geçen ay çekirdek derslerde [[generative-ai|üretici YZ]]'yi kısıtlama kararı aldı ve kısıtlamayı anlamlı kılmayı size bıraktı.
 
-**Bilgi tabanındaki en güçlü yönelim, tespitten çok yapısal [[assessment|değerlendirme tasarımı]]na, açık beklentilere, öğrenme doğrulamasına ve [[ai-literacy]]’a bel bağlamaktır.** [[academic-integrity|Akademik Dürüstlük]] sentezi, YZ metni tespitinde önemli sınırlılıklar bildirmekte ve [[generative-ai]] çağında akademik dürüstlüğün giderek yalnızca bir tespit problemi değil bir değerlendirme tasarımı problemi haline geldiğini savunmaktadır. Tespit araçları güvenilmez değildir ve usulle ilgili olarak adaletsizdir. Yayımlanmış 642 İngilizce özete ilişkin kontrollü bir çalışmada, iki ticari dedektör kılavuza uygun hafif YZ *düzenlemesini* **%38–80**, değiştirilmemiş 2023–25 özgün metinlerini **%9–15** ([[stem-education|STEM]]’den uzak alanlar STEM’den çok daha yüksek, p<0.001) oranında işaretlemiş; YZ "insanlaştırması"ndan sonra ise YZ olarak etiketlenen yeniden yazımların **%4’ünden azını** yakalamış — dürüst yardımı cezalandıran, kasıtlı kurnazlığı mümkün kılan bir dürüstlük çıkmazı.([[karr-ai-detection-humanization-2026]]) Gizli bir saha çalışmasında, beş psikoloji modülündeki canlı çevrimiçi sınavlara eklenen tamamen YZ ile üretilmiş gönderimlerin **%94**’ü tespit edilmemiş ve YZ işleri ortalama gerçek öğrencileri geçmiştir; Vanderbilt Üniversitesi, 75.000 yıllık gönderim içinde yaklaşık 750 öğrencinin yanlış etiketleneceği anlamına gelen reklamı yapılan **%1** yanlış pozitif oranını doğrulayamayınca lisanslı dedektörünü devre dışı bırakmıştır.([[teichmann-detecting-undetectable-misconduct-2026]]) Dolayısıyla tespit tek başına zayıf bir kaldıraçtır — daha güçlü kaldıraç, eksiksiz biçimde [[redesign-assessment-ai-era]] sayfasında ortaya konan değerlendirme tasarımı argümanıdır. Aşağıda, kaba biçimde kanıt gücüne göre sıralanmış somut ve uygulanabilir yaklaşımlar yer almaktadır.
+Bir meslektaşa verilecek yanıt: işi kimin yazdığını kanıtlamaya çalışmayı bırakın ve işin yazıldığı koşulları değiştirin. Saptama, elinizdeki en zayıf koldur. Tutan kollar şunlardır: kısa yolun iz bıraktığı bir görev, gözleyebileceğiniz tek bir yardımsız adım ve öğrencileri bilişsel işin içinde tutan kısa, öğretilmiş bir dizi.
 
-## 1. Sınırlandırmalı YZ araçları: "ipucu ver, cevap verme"
+## Kısa özet
 
-Herhangi bir [[simulating-students|YZ öğrencisi]] kullanımını, açığa çıkarmak yerine [[scaffolding|iskeleleme]] yapacak biçimde yapılandırın. Bilgi tabanındaki en güçlü nedensel bulgu, saha düzeyinde bir [[rct]] çalışmasıdır: **sınırlandırma içermeyen** bir ChatGPT tarzı özel ders hocası destekli pratik performansını **+%48** yükseltmiş ama yardımsız sınav puanlarını **−%17** azaltmıştır; **sınırlandırmalı** bir özel ders hocası (cevap yerine ipucu, artı [[teacher-role|öğretmen]] tarafından hazırlanmış problem bilgisi) zararı tamamen ortadan kaldırmıştır.([[generative-ai-guardrails-harm-learning]]) 26.811 öğrenci üzerinde yapılan büyük bir çalışmada, ödevleri dışarıdan yaptırmak ödev puanlarını **%18** yükseltmiş ama altı ay içinde [[summative-assessment|kapalı kitap sınavı]] puanlarını **%20** düşürmüştür — [[guardrails]] ve yardımsız önlemlerin önlemek için tasarlandığı tam olarak bu zarardır.([[stromberg-generative-ai-learning-penalty-secondary-2026]])
+**1.** Saptamayı kritik yolun dışına çıkarın. Aşağıdaki kanıtlar, izin verilen düzenlemelerde yanlış alarm verdiğini ve kasıtlı kaçınmayı kaçırdığını gösteriyor.
 
-**Somut örnekler:**
-- Özel ders hocasını, sonraki cevap adımı yerine artımlı, [[socratic-method|Sokratik]] ipuçları verecek biçimde ayarlayın.
-- YZ’yi doğru çözümlerle *ve* yaygın [[misconceptions]] ile besleyin ki hataları hedef alabilsin.
-- YZ çıktısını açığa çıkarmadan *önce* bir öğrenci denemesi isteyin ("önce denemenizi gösterin").
-- Görevi zahmetsiz hissettiren her aracı yanlış yerde sayın — [[brcic-effortless-trap-productive-struggle-2026|"YZ’nin işe girmesi görevi zahmetsiz hissettiriyorsa, yanlış yerde"]] kuralı.
+**2.** Yüksek riskli her [[assessment]] içine gözlenebilir tek bir yardımsız adım koyun ve ona gerçek bir ağırlık verin.
 
-## 2. Değerlendirmeyi yeniden tasarlamak: aldatanın tasarımla ortaya çıkmasını (ve caydırılmasını) sağlamak
+**3.** YZ sınırını ders başına değil görev adımı başına belirleyin; böylece notlandırdığınız şeyi izler.
 
-Kötüye kullanım zararı değerlendirmeye bağlı olduğu için, başarı sayılan şeyi değiştirin. [[reducing-ai-misuse|YZ Kötüye Kullanımını Azaltma]] sentezi bunu 1. Basamak olarak sıralar; çünkü öğrenci doğru davranışı seçse de seçmese de işe yarar — motivasyona bel bağlamak yerine ortamı kısıtlar. [[ai-assessment-scale-reform|YZ Değerlendirme Ölçeği (AIAS)]] bunun için yapılandırılmış bir çerçevedir: her ödevi YZ kullanım düzeyine göre etiketleyin (ör. "YZ yok", "YZ yalnızca beyin fırtınası için", "atıfla YZ yardımı", "tam YZ kullanımı") ki beklentiler açık ve uygulanabilir olsun.([[ai-assessment-scale-reform]])
+**4.** YZ'ye izin veriliyorsa onu yanıtlamak yerine ipucu verecek biçimde yapılandırın ve yanıt vermeden önce öğrencinin bir denemesi olmasını şart koşun.
 
-[[cs-education|Bilgi işlem eğitimi]]nde üretken YZ üzerine yapılmış 72 çalışmalık bir [[meta-analysis-systematic-review|sistematik derleme]], farklı bir kanıt tabanından aynı sonuca ulaşır: hem uygulanabilir hem en yüksek etkili olarak **yeniden tasarımı** değerlendirir ve kurs başına en az bir yüksek riskli değerlendirmeye sözlü ya da başka biçimde süreci görünür kılan bir öğe eklemeyi tek başına en etkili müdahale olarak öne çıkarır; tespitin bütün derlemenin *en zayıf* alanı olduğunu — kurumsal tartışmalara rağmen yalnızca 3 çalışma — not eder ([[kumar-genai-computing-education-systematic-review-2026]]). Aynı derleme, bilgi işlem öğrencilerinin **%60–80**’inin ders çalışmalarında üretken YZ kullandığını — tipik olarak öğretmenin açık izni olmadan — ve ulusal bir öğretmen grubunun **%70**’inin YZ dirençli değerlendirme tasarımı üzerine açıkça eğitim talep ettiğini bildirmektedir.
+**5.** Beyanı somut ve cezasız kılın. Muğlak kurallar da cezalandırıcı kurallar da öğrencileri saklamaya iter.
 
-**Somut örnekler:**
-- **Yardımsız, sınıf içi, kapalı kitap değerlendirmeler** — öğrencilerin araç kullanmadan gerçekleştirdiği gözetimli sınavlar, kısa testler ya da süreli yazılı çalışmalar. Ödevler YZ’nin şişirdiği yer olduğu için bunlara daha yüksek ağırlık verin.
-- **Sözlü sınavlar ve savunmalar** — öğrencilerin işlerini yüksek sesle açıklamasını ya da savunmasını sağlayın; gerçek zamanlı diyalog doğası gereği YZ dirençlidir.([[fenton-oral-exams-ai-authentic-assessment-2025]])
-- **Süreç ürünleri** — taslaklar, akıl yürütme izleri, açıklamalı "düşüncenizi gösterin" çalışmaları ya da yansıtma kayıtları isteyin ki yalnızca ürün değil *süreç* görünür olsun.([[authentic-products-authenticated-processes-2026]])
-- **Özgün, bağlamsal görevler** — devredilmesi zor ve öğrenci için anlamlı, gerçek dünyaya, veriye ya da kişisel deneyime dayalı istek metinleri kullanın (ör. bir kavramı yerel bir olaya, bir staja ya da öğrencinin kendi verisine uygulama).([[kirsanov-beyond-detection-ai-online-assessments-2026]])
-- **YZ serbest bölgeler** — bağımsız yetkinliğin gerçekten değerlendirilen yapı olduğu kurs bölümlerini (ya da belirli ödevleri) belirleyin.
-- **Öğrenci başına görev çeşitlendirmesi** — her öğrenciye aynı görevin yüzeysel olarak farklı ama yapılandırıcı açıdan denk bir sürümünü verin ki kopyalama yapısal olarak işe yaramaz hale gelsin; bunu koşula bağlı olarak ele alın, çünkü [[varia-construct-equivalent-assessment-variant-generation-2026|VARIA]] önde giden üreticilerin ortak dürüstlük puanında yalnızca 0,81–0,88’e ulaştığını, önde olmayan modellerin ise 0,50–0,55’e düştüğünü bulmuştur.
+## Saptama davayı taşımaz
 
-## 3. Öğrenme doğrulaması: kaynağı değil anlayışı doğrulayın
+[[academic-integrity|Akademik Dürüstlük]] derlemesi, YZ metni saptamasında ciddi sınırlılıklar bildiriyor ve üretici YZ çağında dürüstlüğün giderek basit bir saptama sorunu değil bir değerlendirme tasarımı sorunu olduğunu savunuyor. Bu sayıları, bunu lisansı çoktan satın almış birine gerekçelendireceğiniz toplantıya taşıyın.
 
-Bir gönderimin *nasıl* üretildiğini kanıtlamaya çalışmak yerine, öğrencilerden ara sıra ne öğrendiklerini *göstermelerini* isteyin. [[best-response-student-ai-dialog-2026|"Öğrenci YZ Kullanımına En İyi Yanıt Tespit Değil Diyalogtur"]] başlıklı kaynak, kısa doğrulama konuşmalarını, erken taslakları, yansıtmaları ve öğrenci videolarını pratik mekanizmalar olarak betimler.
+642 yayımlanmış İngilizce özet üzerinde yapılan kontrollü bir çalışmada iki ticari dedektör, kılavuza uygun hafif YZ *düzenlemesini* %38-80 oranında işaretledi. Değiştirilmemiş 2023-25 özgün metinlerini %9-15 oranında işaretlediler; [[stem-education|STEM]] dışı çalışmalar STEM'in çok üzerindeydi (p<0,001). YZ "insanileştirmesinden" sonra aynı araçlar, YZ etiketli yeniden yazımların %4'ünden azını yakaladı ([[karr-ai-detection-humanization-2026]]). Bu üçünü sırayla okuyun. İzin verilen kullanım, yasak kullanımdan daha sık işaretlendi ve yasak kullanım, biri onu bir başka sözcüklerle yeniden yazma aracından geçirdikten sonra çoğunlukla görünmez oldu. Dürüstlüğün Catch-22'si budur: dedektör dürüst yardımı cezalandırırken kasıtlı kaçınmaya olanak tanır.
 
-**Somut örnekler:**
-- Teslim edilmiş bir çalışma üzerine 2 dakikalık birebir ya da kaydedilmiş bir açıklama.
-- Aynı materyal üzerine, araç kullanılmadan yapılan bir sonraki kısa test.
-- Öğrencilerin çalışmalarının bir örneğini revize etmelerini ve değişiklikleri açıklamalarını istemek.
+Saha kanıtı da aynı yöne gidiyor. Gizli bir çalışmada, beş psikoloji modülünde canlı çevrimiçi sınavlara sokulan tamamen YZ üretimi teslimlerin %94'ü saptanmadı ve YZ işi ortalama olarak gerçek öğrencilerden daha yüksek puan aldı ([[teichmann-detecting-undetectable-misconduct-2026]]). Vanderbilt Üniversitesi, duyurulan %1 yanlış pozitif oranını doğrulayamadığı için lisanslı dedektörünü devre dışı bıraktı; bu oran, yıllık 75.000 teslimde kabaca 750 yanlış etiketlenmiş öğrenci anlamına gelirdi.
 
-*Not:* bu kaynak bir uygulayıcı anlatısı olduğundan, kesin nedensel kanıttan çok umut verici bir uygulama olarak değerlendirilmelidir.
+Bunların hiçbiri saptamanın hiç işlemediğini kanıtlamaz. Birlikte yaşamak zorunda olduğunuz hata profilini ortaya koyar. İşaretlenen öğrenci, itiraz hakkı olan bir insandır ve 642 özetli sonuç, işaretin en ağır biçimde izin verilen şeyi yapan öğrencilere düştüğünü söylüyor. Bunun bir notun neyi destekleyebileceğini neden değiştirdiğine dair tam tartışma [[redesign-assessment-ai-era]] sayfasındadır.
 
-**Doğrulama, aynı zamanda bir usulsüzlük sürecini savunulabilir kılan şeydir.** [[munoz-misconduct-allegation-evidence-2026|Munoz ve ark. (2026)]], gerçek üretken YZ usulsüzlük suçlaması dosyalarını incelemiş ve doğal adalet ilkelerinin herhangi bir karardan *önce* öğrencinin suçlamadan haberdar edilmesine ve yanıt verme fırsatı verilmesine ihtiyaç duyulduğunu bulmuştur; yanıt fırsatı tipik olarak bir soruşturma toplantısı ya da panel görüşmesidir ve öğrencinin söyledikleri kanıt kaydının parçası olur. Kanıt kategorileri aynı zamanda doğrulamanın neden soruşturma sırasında uydurulmak yerine kursa kurulmuş olması gerektiğini açıklar: sistem tarafından kaydedilen davranış izleri yalnızca gözetimli değerlendirmede var olur; daha zayıf süreç kanıtları — taslaklar, gözetim toplantıları, sunumlar — yalnızca bu uygulamaların önceden yerinde olduğu yerlerde bulunur. Bir doğrulama alışkanlığı, sonradan bel bağlayabileceğiniz süreç kanıtıdır. Kuralın kendisi de kesin olmak zorundadır: [[wright-transcription-not-generation-2026|Wright (2026)]], konuşmadan-metne yazıya geçirmeyi ve üretken taslak oluşturmayı aynı "YZ kullanımı" sayan yasakların aşırı kapsamlı olduğunu ve yasaklanan şeyi yapmamış öğrencilerin cezalandırılma riski taşıdığını göstermektedir; bu, hukuki bir sorundan önce bir adalet sorunudur ([[legal-issues-and-risks]]).
+## Ödevin kolaylaştırdığı şeyi değiştirin
 
-## 4. İskeleli kullanım dizileri: "önce düşün, ikinci olarak YZ, üçüncü olarak yansıt"
+[[reducing-ai-misuse|YZ Kötüye Kullanımını Azaltma]] derlemesi yeniden tasarımı yapısal bir nedenle 1. katmana koyuyor: öğrenci doğru davranışı seçsin ya da seçmesin işler, çünkü motivasyona bağlı olmak yerine ortamı sınırlar.
 
-YZ’yi yasaklamak yerine, öğrencileri bilişsel döngüde tutan yapılandırılmış bir iş akışı öğretin. [[reducing-ai-misuse|YZ Kötüye Kullanımını Azaltma]] sentezi sekiz tasarım ilkesi ortaya koyar: [[desirable-difficulties|bilişsel sürtünmeyi]] koruyun, YZ’yi bir *geçici* düşünme ortağı olarak konumlandırın (bir otorite olarak değil), değerlendirme kontrol noktaları yerleştirin ve [[metacognition|üst bilişsel]] günlük tutma ile istek metni kayıtları isteyin.
+Bir etiketle başlayın. [[ai-assessment-scale-reform|YZ Değerlendirme Ölçeği (AIAS)]] her ödeve bir YZ kullanım düzeyi verir: "YZ yok"tan "yalnızca fikir üretimi için YZ" ve "atıfla YZ desteği" üzerinden "tam YZ kullanımı"na kadar; böylece beklenti çıkarılan değil açık ve uygulanabilir olur.
 
-**Somut örnek dizi:**
-1. **Önce düşün** — öğrenciler herhangi bir YZ kullanımından önce bağımsız biçimde beyin fırtınası yapar, taslak çizer ya da yazarlar.
-2. **İkinci olarak YZ** — YZ’yi kendi düşüncelerine karşı eleştiri yapmak, genişletmek ya da alternatifler üretmek için kullanırlar.
-3. **Üçüncü olarak yansıt** — YZ’yi ne için kullandıklarını, neyi kabul/reddettiklerini ve nedenini kaydederler (istek metni + revizyon kaydı).
+Sonra ürünü değiştirin. Üretici YZ üzerine 72 çalışmalık bir [[meta-analysis-systematic-review|sistematik derleme]], [[cs-education|bilgisayar bilimi eğitiminde]] yeniden tasarımı hem uygulanabilir hem de en yüksek kaldıraçlı olarak değerlendiriyor ve tek bir hamleyi öne çıkarıyor: her derste en az bir yüksek riskli değerlendirmeye sözlü ya da süreci görünür kılan bir öge eklemek. Derleme bunu, külliyattaki tek en etkili müdahale olarak adlandırıyor. Saptama, derlemenin kapsadığı en ince alan: yalnızca 3 çalışma; buna karşılık bilgisayar bilimi öğrencilerinin %60-80'i ders çalışmalarında üretici YZ kullandığını bildiriyor, çoğunlukla açık eğitmen onayı olmadan ve bir ulusal öğretim üyesi örnekleminin %70'i YZ'ye dirençli değerlendirme tasarımı konusunda eğitim istiyor ([[kumar-genai-computing-education-systematic-review-2026]]).
 
-## 5. Göreve özgü YZ kullanım beyanları
+Menü, kabaca her seçeneğin büyük bir sınıfta ne kadar iyi ayakta kaldığı sırasıyla.
 
-Jenerik "YZ kullandım ☐" onay kutularını, YZ kullanımını bilişsel aşamalara eşleyen **[[discipline-specific-aied|alana özgü]] beyan çerçeveleriyle** değiştirin (ör. yapısal planlama ile içerik üretimi karşılaştırması).([[genai-declaration-frameworks-higher-education]]) Bu, öğrencileri YZ’yi *nasıl* kullandıklarını yansıtmaya zorlar ve kabul edilebilir yardım ile usulsüzlük arasındaki sınırı netleştirir. Açık beklentilerle ve dürüst açıklamanın cezalandırılmayacağına dair güvanceyle eşleştirin — cezalandırıcı ya da muğlak politikalar etkin biçimde gizlenmeyi körükler.([[gonsalves-student-non-compliance-ai-declarations-2025]])([[chang-should-i-tell-my-teacher-ai-disclosure-2026]])
+Yardımsız, sınıfta, kapalı kitap: gözetimli sınavlar, kısa sınavlar, süreli yazma. Bunlara eskisinden daha fazla ağırlık verin, çünkü YZ'nin şişirdiği ürün ev ödevidir. Sözlü sınavlar ve savunmalar da aynı nedenle işler; gerçek zamanlı diyaloğu dışsallaştırmak zordur ([[fenton-oral-exams-ai-authentic-assessment-2025]]).
 
-[[mohamed-temimi-assessment-imperfect-information-disclosure-2026|Mohamed ve Temimi]]’nin değerlendirme tasarımı modellemesi, bu tavsiyenin ardındaki mekanizmayı açıklar. Açıklama, yalnızca dürüstlüğün maliyeti düşük kaldığında çekici bir seçenek haline gelir; ve bir dedektörün yanlış pozitifleri dürüst öğrencilere de düştüğünden, ek duyarlılık yeni doğru pozitiflerden daha çok yeni yanlış pozitif ürettiğinde **daha güçlü izleme gizlenmeyi görece daha çekici kılabilir**. Bir beyan edilmiş kullanımı bir itiraftan çok bağlam olarak okuyun ve ortalama öğrenci yerine gizlemeye en çok eğilimli öğrenci için tasarım yapın.
+Süreç ürünleri: taslaklar, akıl yürütme izleri, açıklamalı "düşünceni göster" notları, revizyon günlükleri; böylece yalnızca ürün değil *süreç* de görünür olur ([[authentic-products-authenticated-processes-2026]]). Otantik görevler bunların yanında işler: yerel vakalar, staj materyali, öğrencinin kendi verisi, devredilmesi zor olan her şey ([[kirsanov-beyond-detection-ai-online-assessments-2026]]).
 
-**Somut örnek:** öğrencilerden ödev başına şunları belirtmesini isteyen bir kapak sayfası: *YZ kullandınız mı? Hangi aşamalar için (beyin fırtınası / taslak / revizyon / kontrol)? Hangi aracı ve istek metinlerini kullandınız? Çıktıyı nasıl değerlendirdiniz?*
+Öğrenci başına görev çeşitlemesi — her öğrenci yüzeyde farklı ama yapı bakımından eşdeğer bir sürüm alır — kopyalamayı yapısal olarak işe yaramaz kılar. Bu garantiyi yetenek koşullu sayın: [[varia-construct-equivalent-assessment-variant-generation-2026|VARIA]], sınır modellerin ortak dürüstlük puanında yalnızca 0,81-0,88'e ulaştığını, sınır dışı modellerin ise 0,50-0,55'e çöktüğünü buldu. Sürümleriniz eşdeğer değilse, paylaşmaya karşı korumayı öğrenciler arasında adaletsizlikle birlikte satın almış olursunuz.
 
-## 6. YZ okuryazarlığı ve dürüst beklentiler oluşturun
+## Uygulama ile sınav arasındaki boşluğu kapatın
 
-[[reducing-ai-misuse|YZ Kötüye Kullanımını Azaltma]] sentezi, YZ okuryazarlığı ve [[prompt-engineering|istek metni]] öğretimini 2. Basamak olarak sıralar: senaryo temelli istek metni pratiği kullanan, bir [[llm]] otomatik puanlayıcıya sahip bir [[k-12]] modülü, gerçek istek metni becerilerini iyileştirmiş ve öğrenme için YZ kullanımına duyulan güveni **+%10,4** yükseltmiştir; katılımcıların **%87**’si YZ’yi sorumlu biçimde kullanmayı öğrendiğini bildirmiştir.([[aaai2026-prompting-literacy-k12]]) Ne yaptığının aldatma sayıldığı, *neden* bunun öğrenmeye zarar verdiği ([[ai-misuse-learning-harm|performans–öğrenme uyuşmazlığı]]) ve öğrencilerin YZ’yi nasıl verimli biçimde kullanabilecekleri konusunda net beklentiler belirleyin — bu, [[ai-tools-academic-work-cheating-2026]] ve [[student-rationalization-ai-writing]] kaynaklarında belgelenen "herkes bunu yapıyor" akran normu ve rasyonalizasyon sorunlarına yanıt verir.
+Bu, eğitmenlerin atladığı kısım ve nedensel kanıtın en güçlü olduğu yer.
 
-Öğrenci anketleri bu çerçeveyi desteklemektedir. 504 sosyoloji öğrencisi arasında **%65**’i ders çalışmaları için üretken YZ kullanmış, ama yalnızca **%3**’ü ödev metni üretmek ve **%2**’si tam taslak üretmek için kullanmıştır; bu arada **%81**’i bir miktar YZ rehberliği almış, ama yalnızca **%46**’sı bunu çok net bulmuştur ([[student-genai-use-views-writing]]). Pratik problem belirsizliktir, başkaldırı değil — bu nedenle bu SSS’nin eğitsel kapasite tarafı [[ai-literacy-evidence]] ve [[top-10-findings-ai-education-instructors]] içindeki müdahalelerin sıralamasına bağlanır. Öğrenciler araçları politikanın kullandığı terimlerle betimlemez: [[mulisa-students-genai-integrity-perspectives-2026|Mulisa ve Mezgebu (2026)]], öğrencilerin ortaya koyduğu sorunun üretken YZ’nin aldatmayı kolaylaştıran bir araç mı yoksa öğrenmeyi destekleyen bir ortak mı olduğu olduğunu bulmuş; kurumsal dürüstlük kuralları ile öğrencilerin kendi öğrenme ihtiyaçları arasındaki gerginliğe dair anlatıları, cezalar hakkında bir uyarıdan daha fazla beklenti çerçevesi belirlemeye yarar.
+Bir saha [[rct]]'sinde korumasız bir ChatGPT tarzı özel ders aracı, destekli alıştırma performansını %48 artırdı ve yardımsız sınav puanlarını %17 düşürdü. Yanıtlamak yerine ipucu veren ve [[teacher-role|öğretmen]] tarafından yazılmış problem bilgisiyle tohumlanmış korumalı bir sürüm, zararı tamamen ortadan kaldırdı ([[generative-ai-guardrails-harm-learning]]). Daha büyük ölçekte, 26.811 öğrenciyle yapılan bir çalışma, ev ödevinin dışsallaştırılmasının ev ödevi puanlarını %18 artırırken altı ay içinde [[summative-assessment|kapalı kitap sınav]] puanlarını %20 düşürdüğünü buldu ([[stromberg-generative-ai-learning-penalty-secondary-2026]]).
 
-## Özetle
+İki sonucun biçimine dikkat edin. Kazanç ve kayıp farklı ölçütlere düşüyor ve yalnızca biri sizin onayladığınız ölçüt. Tek bir RKÇ size kendi dersinizdeki etkinin büyüklüğünü veremez. Yönü verir ve iki çalışma da aynı yönü gösteriyor.
 
-Yapısal bir **taban** (aldatmayı motivasyondan bağımsız biçimde zorlaştıran sınırlandırmalar + değerlendirme yeniden tasarımı) ile **eğitici kapasite geliştirme**yi (YZ okuryazarlığı, beyanlar, "düşün-YZ-yansıt" dizileri) birleştirin. Tespit tek başına en zayıf kaldıraçtır; amaç, dürüst ve verimli YZ kullanımını en az dirençli yol haline getirmektir.
+Öğrencilerin bir özel ders aracı kullanmasına izin verecekseniz, onu ilk şikâyetten sonra değil dönem başlamadan yapılandırın:
+
+**1.** Bir sonraki yanıt adımı yerine artımlı, [[socratic-method|Sokratik]] ipuçları verecek biçimde ayarlayın.
+
+**2.** İçeriği yeniden anlatmak yerine hataları hedefleyebilmesi için doğru çözümlerle ve yaygın [[misconceptions]] tohumlayın.
+
+**3.** Herhangi bir çıktı görünmeden önce bir deneme yapılmasını şart koşun.
+
+**4.** [[brcic-effortless-trap-productive-struggle-2026|zahmetsiz tuzak]] kuralını uygulayın: YZ'yi içeri almak görevi zahmetsiz hissettiriyorsa, yanlış yerdedir.
+
+Bu son kural, [[scaffolding]] ve [[guardrails]] kavramlarının karşılığını verdiği yerdir; gerçek öğrenciler karşılaşmadan önce kendi isteminizi test etmek için [[simulating-students|simüle edilmiş öğrencinin]] yararlı olduğu yer de burasıdır.
+
+## Öğrencilerden ne yapabildiklerini göstermelerini isteyin
+
+Bir dosyanın nasıl üretildiğini asla ortaya koyamazsınız. Ucuza, öğrencinin dosyanın gösterdiği şeyi yapıp yapamadığını ortaya koyabilirsiniz.
+
+[[best-response-student-ai-dialog-2026|"Öğrencilerin YZ Kullanımına En İyi Yanıt Saptama Değil, Diyalogtur"]] mekanizmaları tarif ediyor: teslim edilen bir parça üzerine iki dakikalık bire bir ya da kayda alınmış açıklama, aynı materyal üzerine araçsız kısa bir izleme sınavı, kendi işinden bir örneği revize edip değişiklikleri açıklama isteği. Kaynak bir uygulayıcı anlatısı; bu yüzden onu etki kanıtı değil umut verici bir uygulama olarak ele alın.
+
+Doğrulama aynı zamanda suiistimal sürecinizin bir itirazdan sağ çıkıp çıkmayacağını da belirler. [[munoz-misconduct-allegation-evidence-2026|Munoz ve arkadaşları (2026)]], gerçek üretici YZ suiistimal iddia dosyalarını inceledi ve doğal adaletin, öğrenciye iddianın bildirilmesini ve herhangi bir karardan *önce* yanıt verme fırsatı tanınmasını gerektirdiğini buldu; bu genellikle bir soruşturma toplantısı ya da panel görüşmesiyle olur ve söyledikleri kanıt kaydına girer. Kanıt kategorileri bunun neden derse yerleştirilmesi gerektiğini açıklıyor: sistem tarafından kaydedilen davranış izleri yalnızca gözetimli değerlendirmede bulunur ve taslaklar, danışmanlık toplantıları, sunumlar gibi daha zayıf süreç kanıtları yalnızca bunlar zaten rutin olduğu yerde vardır. Bir doğrulama alışkanlığı, sonradan güvenebileceğiniz kanıta dönüşür.
+
+Kuralı da kesin yazın. [[wright-transcription-not-generation-2026|Wright (2026)]], konuşma-metin dönüştürmeyi ve üretici taslağı aynı "YZ kullanımı" sayan yasakların aşırı kapsayıcı olduğunu ve yasaklanan şeyi yapmamış öğrencileri cezalandırma riski taşıdığını gösteriyor. Bu, hukuki olmadan önce bir adalet sorunudur; gerisini [[legal-issues-and-risks]] ele alıyor.
+
+## Öğrencileri çalışırken döngünün içinde tutun
+
+Aracı yasaklamak ile yapı olmadan izin vermek aynı sonucu üretir: öğrenciler bilişsel işin dışında kalır.
+
+YZ Kötüye Kullanımını Azaltma derlemesi izin verilen sürüm için sekiz tasarım ilkesi ortaya koyuyor: [[desirable-difficulties|bilişsel sürtünmeyi]] korumak, YZ'yi otorite değil geçici bir düşünme ortağı olarak konumlandırmak, değerlendirme kontrol noktaları yerleştirmek ve [[metacognition|üstbilişsel]] günlük tutma ile istem günlüklerini şart koşmak.
+
+Bu ilkeleri taşıyan dizi, bir ödev kâğıdına basılabilecek kadar kısa:
+
+**1.** Önce düşünün. Öğrenciler herhangi bir şey açmadan önce bağımsız olarak fikir üretir, plan çıkarır ya da taslak yazar.
+
+**2.** Sonra YZ. Onu, zaten sahip oldukları düşünceye karşı eleştirmek, genişletmek ya da alternatif üretmek için kullanırlar.
+
+**3.** Sonra yansıma. Neyi ne için kullandıklarını, neyi kabul edip reddettiklerini ve nedenini kaydederler. Bir istem ve revizyon günlüğü yeterlidir.
+
+## Beyanı somut ve doldurması ucuz kılın
+
+Genel "YZ kullandım" onay kutusunu, kullanımı bilişsel aşamalara eşleyen [[discipline-specific-aied|alana özgü]] bir beyan çerçevesiyle değiştirin: örneğin yapısal planlama ile içerik üretimi ([[genai-declaration-frameworks-higher-education]]). Hangi aşamaları, hangi aracı, hangi istemleri ve çıktının nasıl değerlendirildiğini soran bir kapak sayfası, bir evet ya da hayırdan çok daha fazla iş görür.
+
+Onu dürüst kılan iki koşul var. Beyan güvenli olmalı, çünkü cezalandırıcı ya da muğlak politikalar saklamayı etkin biçimde körükler ([[gonsalves-student-non-compliance-ai-declarations-2025]]) ve öğrenciler size söylemenin riskini söylememenin riskiyle tartar ([[chang-should-i-tell-my-teacher-ai-disclosure-2026]]).
+
+Aritmetik de söylemekten yana olmalı. [[mohamed-temimi-assessment-imperfect-information-disclosure-2026|Mohamed ve Temimi]] bunu ahlak değil eksik bilgi sorunu olarak modelliyor. Beyan, ancak dürüstlüğün maliyeti düşük kaldığı sürece çekicidir ve bir dedektörün yanlış pozitifleri dürüst öğrencilere de düştüğü için, ek duyarlılık yeni doğru pozitiflerden çok yeni yanlış pozitif ürettiğinde daha güçlü izleme saklamayı görece daha çekici kılabilir. Beyan edilen bir kullanımı itiraf değil bağlam olarak okuyun ve saklamaya en çok meyilli öğrenci için tasarlayın.
+
+## Notlandırdığınız okuryazarlığı öğretin
+
+YZ Kötüye Kullanımını Azaltma derlemesi [[ai-literacy|YZ okuryazarlığı]] ile [[prompt-engineering|istem yazma]] öğretimini yapısal değişikliğin altında, 2. katmana koyuyor.
+
+Ölçülmüş örnek bir [[k-12]] modülü: senaryo temelli istem alıştırmasını bir [[llm]] otomatik notlandırıcısıyla kullanıyor. Gerçek istem yazma becerisini geliştirdi ve YZ'yi öğrenme için kullanma güvenini %10,4 artırdı; katılımcıların %87'si YZ'yi sorumlu kullanmayı öğrendiklerini bildirdi ([[aaai2026-prompting-literacy-k12]]).
+
+Öğrencilerin gerçekte neye inandığı, paniğin ima ettiğinden daha az alaycı. 504 sosyoloji öğrencisi arasında %65'i ders çalışmalarında üretici YZ kullanmıştı, ama yalnızca %3'ü ödev metni üretmek ve %2'si tam bir taslak üretmek için. %81'i bir miktar YZ rehberliği almıştı ve yalnızca %46'sı bunu çok açık buldu ([[student-genai-use-views-writing]]). Pratik sorun karşı gelme değil muğlaklık; açık bir kural artı öğretilmiş bir dizinin bir uyarıdan daha çok davranış değiştirmesi de bu yüzden. [[mulisa-students-genai-integrity-perspectives-2026|Mulisa ve Mezgebu (2026)]], öğrencilerin üretici YZ'nin kopya çekmeyi kolaylaştıran bir araç mı yoksa öğrenmeyi destekleyen bir ortak mı olduğunu sorduğunu anlatıyor; beklentilerinizin yanıtlaması gereken soru da bu.
+
+Açıkça öğretilmeye değer zarar, [[ai-misuse-learning-harm|performans-öğrenme uçurumudur]]: performans şimdi yükselir, öğrenme sonra düşer ve öğrenci yalnızca birincisini deneyimler. [[ai-tools-academic-work-cheating-2026]] ve [[student-rationalization-ai-writing]], akran normu ve gerekçelendirme tarafını, açık bir normun söndürdüğü "herkes yapıyor" savunması dahil ele alıyor. Bu temelin ne kadar güçlü olduğu için [[ai-literacy-evidence]] ve [[top-10-findings-ai-education-instructors]] sayfalarına bakın.
+
+## Eğitmenlerin bu konuda yanlış yaptığı şeyler
+
+Bir dedektör bir sigortadır. Primin neyi kapsadığını sayın: Vanderbilt'in doğrulayamadığı oranda, yıllık 75.000 teslimin %1'i 750 yanlış etiketlenmiş öğrenci demektir ve 642 özetli çalışma işaretlerin izin verilen düzenlemede kümelendiğini gösteriyor.
+
+Bir yasak soruyu kapatır. "YZ kullanımı" dilinde yazılmış bir yasak, taslakla birlikte konuşma-metin dönüştürmeyi de yakalar; bu da bir öğrenciyi kendi cümlesini dikte ettiği için cezalandırabileceğiniz anlamına gelir ([[wright-transcription-not-generation-2026|Wright, 2026]]). Ayrıca o öğrencinin ne yapabildiği hakkında size hiçbir şey söylemez.
+
+Kopya çekmek bir motivasyon sorunudur, öyleyse araç cezalardır. Motivasyon gerçektir ve en iyi kanıta sahip kol değildir. Yeniden tasarım 1. katmanda, çünkü öğrencinin iyi seçim yapmasını gerektirmez; yanıt bölgesi modeli de saklamaya en çok meyilli öğrenci için tasarlamayı söyler.
+
+YZ'ye izin verirsem kötüye kullanım benim sorunum olmaktan çıkar. Korumasız izin, aynı çalışmada %48'lik alıştırma kazancını ve %17'lik sınav kaybını üretti. Korumayı geri koyun, zarar kayboldu.
+
+Öğrenciler çizginin nerede olduğunu zaten biliyor. %81'i rehberlik almıştı ve yarısından azı bunu açık buldu. %3 ve %2 rakamları çoğunun bütün ödevleri üretmediğini söylüyor; %46 ise geri kalan konusunda tahmin yürüttüklerini.
+
+Bir onay kutusu bir beyandır. Bir onay kutusu öğrencinin tıkladığını kaydeder. Aşamalı bir beyan, her adımda ne yaptıklarını söyler; size de onlara da yardımcı olan tek sürüm budur.
+
+## Size geri dönecek itirazlar
+
+**"Bu dönem bir dersi yeniden tasarlayacak zamanım yok."** Dersi yeniden tasarlamayın. Bir ödevi yeniden tasarlayın: bir yardımsız adım, puanlı bir rubrik satırı. Bu iki saatlik bir değişiklik ve 72 çalışmalık derlemenin öne çıkardığı değişiklik de bu.
+
+**"300 öğrenciyle sözlü savunma imkânsız."** Öyleyse 300 tane yapmayın. Kapalı kitap bileşenine ağırlık verin, süreç ürünlerini şart koşun ve önceki işle tutarsız görünen teslimlerde örnekleme yoluyla sözlü kontrol yapın. Hesaplamayı değiştirmek için 300 öğrencinin 300 konuşmaya ihtiyacı yok.
+
+**"Dürüstlük ofisine gösterecek bir şeyim olmalı."** Süreç kanıtı bir dedektör puanından daha güçlüdür, çünkü Munoz ve arkadaşları dosyanın yanıt fırsatına ve dersin kendi kayıtlarına dayandığını buldu. İşaretlenmiş bir yüzde bir iddiadır. Kayda alınmış bir açıklama bir kayıttır.
+
+**"Beyan zorunluluğu yalnızca dürüstlere yük olur."** Beyan şüphe çekiyorsa öyledir. Dürüstlüğün maliyetini sıfıra yakın tutun: beyan edilen kullanım için ceza yok ve beyan bağlam olarak okunur. Model, saklamayı tam olarak dürüstlük pahalılaştığında öngörür.
+
+**"Öğrenciler yine de YZ kullanacak."** Kullanacaklar ve yararlı soru, ödevinizin hangi yanıtı en kolay kıldığıdır. %65'in kullanım, %2'nin tam taslak üretimi bildirdiği bir sınıfta trafiğin çoğu, yakalamanız gereken sahtekârlık değil öğretebileceğiniz yardımdır.
+
+**"Kuralları sıkılaştırmak hiçbir yanlış yapmamış öğrencileri yakalayacak."** Bu varsayımsal değil, belgelenmiş başarısızlık biçimidir. Korunma kesinliktir: aracı değil yasaklanan eylemi adlandırın.
+
+## Bu hafta yapılacaklar
+
+**1.** En çok tartışılan ödevinizdeki YZ maddesini, belirli adımları ve belirli eylemleri adlandıracak biçimde yeniden yazın ve şemsiye ifadeyi bırakın.
+
+**2.** O ödeve bir yardımsız adım ekleyin ve ona önem taşıyacak kadar ağırlık verin.
+
+**3.** Rubriğe puan bağlanmış bir süreç ürünü koyun ve iyinin neye benzediğini ürünü tarif ettiğiniz kadar kesin tarif edin.
+
+**4.** Bir özel ders aracına izin veriyorsanız, yapılandırmasını bu hafta yukarıdaki dört ayara göre kontrol edin.
+
+**5.** Öğrencilere yazılı olarak beyan edilen bir kullanımın cezalandırılmayacağını söyleyin ve bunu gerçekten kastedin.
+
+## Bundan sonra nereye gidilir
+
+[[redesign-assessment-ai-era]] değerlendirme tasarımı yoldaşıdır ve sorunuz notun neyin kanıtı olduğuysa başlanacak yerdir. [[should-we-use-ai-detectors]] dedektör kararını doğrudan ele alır, [[course-ai-policy]] öğrencilerin gerçekte okuduğu ifadeyi kapsar ve [[ai-assessment-scale-reform]] etiket şemasını sağlar. Öğretim tarafında [[ai-literacy-evidence]] ve [[ai-misuse-learning-harm]], okuryazarlık çalışmasının neye değdiğini ve zararın neden oluştuğunu ele alır.

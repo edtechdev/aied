@@ -10,10 +10,14 @@ ethics: [equity-in-ai-education, pedagogical-safety, trust-calibration]
 weight: 95
 institutions: [governance]
 translation_of: faqs/addressing-common-misconceptions-ai-education
-source_updated: "2026-10-02T08:21:34-04:00"
+source_updated: "2026-10-28T11:34:12-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-29"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
@@ -22,961 +26,293 @@ ai_assist:
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
 
-Bu SSS, paydaş gruplarına göre düzenlenmiştir ve bir **çürütme yaklaşımı** kullanır: yanlış kanıyı adlandır, neden makul göründüğünü açıkla, hatalı inancı doğrudan reddet ve yerine daha yararlı bir zihinsel model koy. Eğitimde YZ bilgi tabanına, özellikle de [[misconceptions|YZ hakkındaki yanlış kanılar]], [[ai-literacy|YZ Okuryazarlığı]], [[cognitive-offloading|Bilişsel Yük Boşaltma]] ve [[refutation-text|Çürütme Metni]] sentezlerine dayanmaktadır.
+Rektör yardımcınız bahar dönemi öğretim elemanları toplantısı için tek sayfalık bir "YZ mitleri" föyü istiyor. Ya da bir mütevelli heyeti üyesi sohbet robotlarının eleştirel düşünmeyi yok ettiğini okumuş ve cuma gününe kadar bir görüş bekliyor. Ya da bölümün aracı neden basitçe yasaklamayacağını yazılı olarak açıklamak zorunda olan kişi sizsiniz ve yasağın bir pedagoji olmadığını söylemenin yolları tükendi.
 
-Merkezi mesaj, YZ’nin doğası gereği yararlı ya da zararlı olduğu değildir. Onun eğitimsel etkileri; **kimin kullandığına, hangi görev için kullandığına, YZ’nin hangi düşünmeyi üstlendiğine, insanın üzerinde hangi sorumluluğun kaldığına ve öğrenmenin nasıl değerlendirildiğine** bağlıdır.
+Bu sayfadaki her inanç, makul bir insanın gördüğü bir şeyden başlıyor. Akıcı metin gerçekten doğru okunur. Cilalı bir ödev gerçekten öğrenme gibi görünür. Soruyu yanıtlayan bir eğitmen gerçekten yardım gibi hissettirir ve içinde "yasaktır" kelimesi geçen bir politika gerçekten bir karar gibi hissettirir. İşe yarayan düzeltme, gözlemin size neyi söyleyemeyeceğini adlandırır, sonra kişiye pazartesi günü uygulayabileceği bir denetim verir.
 
----
+Bir meslektaşınıza tek nefeste vereceğiniz yanıt: YZ'nin eğitsel etkisi, kimin hangi görev için kullandığına, aracın hangi düşünmeyi gerçekleştirdiğine, sorumluluğun ne kadarının kişide kaldığına ve öğrenmenin nasıl değerlendirildiğine bağlıdır. Güven, hız, katılım ve görevi tamamlama kullanımın özellikleridir. Hiçbiri kapasitenin değiştiğinin kanıtı değildir.
 
-## Öğrenciler ve Öğrenenler için SSS
+## Kısa özet
 
-### “Bir YZ yanıtı kendinden emin ve ayrıntılı geldiğinde neden ona güvenmeyeyim?”
+**1.** Öğrenenin araç kapalıyken neler yapabildiğini raporlayın ve sayılan ölçünün bu olduğunu belirtin.
 
-**Cevap:** Çünkü kendinden emin olmak ve akıcılık, çıktının özellikleridir; yanıtın doğrulandığına dair kanıt değildir. Üretici YZ, olası görünen bir dili tahmin eder; her iddiayı güvenilir kanıtlara karşı otomatik olarak denetlemez. Kaynak uydurabilir, gerçekleri yanlış aktarabilir, bağlamı gözden kaçırabilir ya da kendinden emin bir biçimde bir yanlış kanıyı tekrarlayabilir.
+**2.** YZ koşulunu görev adımı başına yazın; aracı değil, yapılan edimi adlandırın.
 
-Bir YZ yanıtını bir otorite olarak değil, **geçici bir taslak ya da hipotez** olarak ele al. Yanıtın bağımlı olduğu iddiaları belirle, özgün kaynakları incele, hesaplamaları kontrol et ve yanıtı kurs materyalleriyle ya da güvenilir referanslarla karşılaştır.
+**3.** Bir eğitmeni, bir geri bildirim özelliğini ya da bir platformu, yanıt verdikten sonra öğrencinin ne yaptığına bakarak değerlendirin.
 
-Yararlı bir test şudur: *Bu iddia, bana hiç tanımadığım biri kanıt göstermeden söyleseydi kabul eder miydim?* Kabul etmezdim diyorsan, üslup cilalı göründüğü için standardı düşürme.
+**4.** Yetenek iddiaları değil kanıt satın alın: yardımsız çıktılar, alt grup sonuçları, çok turlu güvenlik testleri.
 
-Bkz. [[misconceptions|YZ hakkındaki yanlış kanılar]], [[hallucination-risk|Halüsinasyon Riski]] ve [[trust-calibration|Güven Kalibrasyonu]].
+**5.** Bir inancı düzeltirken onu daha iyi bir modelle ve kişinin eskisinin çöktüğünü görmesini sağlayan bir etkinlikle değiştirin.
 
----
+## Öğrenmenin gerçekleştiğine dair neyin kanıt sayılacağına karar verin
 
-### “YZ beni anlıyor mu ve ne demek istediğimi biliyor mu?”
+Beş inanç, bu sayfanın geri kalanının önemli olup olmadığını belirliyor. Her biri gerçek bir sinyal alıp o sinyalin taşıyamayacağı bir sonucu ona yüklüyor.
 
-**Cevap:** Bir başka insanın seni anladığı biçimde değil. YZ diline yanıt verebilir, geçerli konuşmadaki bilgiyi kullanabilir ve bazen ürün özellikleri sayesinde bilgiyi saklayabilir. Bu, etkileşimi kişisel hissettirebilir. Ancak model, insani niyet, yaşanmış deneyim, özen ya da bağlamsal anlayışa sahip değildir.
+### "Araç açıkken daha iyi yaptılar, demek ki daha çok öğrendiler."
 
-Bu ayrım önemlidir, çünkü YZ yalnızca istek metnin tercih edilen bir yanıtı öne sürdüğü için seninle aynı fikirde olabilir. Bu bazen **yağcılık (sycophancy)** olarak adlandırılır: sistem, gereken düzeltmeyi sağlamak yerine kullanıcıyı yansıtır ya da onaylar.
+Yaklaşık 1.000 lise [[math-education|matematik]] öğrencisiyle yapılan bir saha deneyinde, sınırsız üretken YZ erişimi destekli pratik sırasındaki performansı iyileştirdi ve sonraki yardımsız sınav performansını düşürdü. Tam yanıtlar yerine ipucu veren, koruma bariyerleriyle sınırlandırılmış bir sürüm ise gözlenen [[ai-misuse-learning-harm|öğrenme zararını]] ortadan kaldırdı ([[generative-ai-guardrails-harm-learning|Korumasız Üretken YZ Öğrenmeye Zarar Verebilir]]). Her iki sonuç da gerçek ve farklı ölçüler üzerinde duruyor: yalnızca biri, bir transkriptin belgelendirdiği ölçü. Çalışma size bir yön veriyor, kursunuz için bir etki büyüklüğü vermiyor.
 
-YZ’den akıl yürütmendeki zayıflıkları belirlemesini, karşıt kanıtlar sunmasını ve yanıtının ne durumda yanlış olacağını açıklamasını iste. Ardından yanıtı bağımsız olarak doğrula. YZ’den gelen anlaşma, konumunun doğru olduğunun kanıtı değildir.
+Öğrenciler kendi işleri için aynı çıkarımı yapıyor ve yanıt aynı: ürün, öğrenciyle aracın birlikte ne ürettiğini gösterir. Sohbet penceresi kapalıyken sorulacak dört soru size ne olduğunu söyler. Akıl yürütmeyi açıklayabiliyorlar mı? Benzer bir problemi çözebiliyorlar mı? Üretilen yanıttaki zayıflıkları bulabiliyorlar mı? Fikri yeni bir bağlama taşıyabiliyorlar mı? Dürüst yanıtlar "hayır" ise, öğrenme adı altında destekli performansa bakıyorsunuz. Bu dördünden birini [[assessment|değerlendirmeye]] koyun ve rubrikte de bunu söyleyin.
 
-Bkz. [[misconceptions|YZ hakkındaki yanlış kanılar]], [[ai-sycophancy|YZ Yagcılığı]] ve [[ai-literacy|YZ Okuryazarlığı]].
+### "Öğrenciler geri bildirimi seviyor, demek ki geri bildirim işe yarıyor."
 
----
+Memnuniyet, kabul edilebilirlik hakkında bir kanıttır. Öğrenciler anında, cesaretlendirici, ayrıntılı ve izlemesi kolay geri bildirimi yeğler; bir yanıt bu dört özelliğin hepsine sahipken yanlış, genel, yanlış önceliklendirilmiş ya da sizinkinden farklı bir hedefe yönelmiş olabilir. Karar veren sorular sıkıcı ve yazmaya değer: doğru mu, asıl sorunu teşhis ediyor mu, üzerinde işlem yapılabilecek kadar özgül mü, bu öğrenene mi sesleniyor, öğrenci onu kullanıyor mu, revizyon iyileşiyor mu, sonraki bağımsız performans iyileşiyor mu. Son ikisine bir memnuniyet anketi ulaşamaz. [[ai-feedback-quality|YZ Geri Bildirim Kalitesi]] ve [[feedback-literacy|Geri Bildirim Okuryazarlığı]] ayrıntıyı taşır; pratik hamle ise herhangi bir şeyi ölçeklendirmeden önce yirmi yanıtı kendi hedefinize karşı okumaktır.
 
-### “YZ iyi bir ödev hazırlamama yardım ettiyse, bu materyali öğrendiğim anlamına gelmez mi?”
+### "Ortalama etki olumluydu, demek ki müdahale öğrencilere yardım ediyor."
 
-**Cevap:** Mutlaka değil. İyi bir ürün, **insan–YZ sisteminin** ne ürettiğini gösterir. Kendi başına ne açıklayabildiğini, ne hatırlayabildiğini, ne uyarlayabildiğini ya da ne yapabildiğini otomatik olarak göstermez.
+Ortalamalar, tam da bir eşitlik sorusuna karar veren çeşitliliği gizler. Etkiler ön bilgiye, yaşa, disipline, dile, engelliliğe, üstbiliş becerisine, erişime, öğretim elemanının uygulamasına ve YZ kullanım türüne göre değişir. Küçük bir ortalama kazanç, bir grup için gerçek bir yararı ve başka bir grup için zararı saklayabilir; büyük bir kazanç ise kurumunuzun yeniden üretemeyeceği koşullara bağlı olabilir. Belirsizlikleriyle birlikte alt grup tahminleri, uygulama sadakati, öğrencilerin araç içinde gerçekte ne yaptığı ve çalışmayı bırakma örüntüsü isteyin. [[limitations-in-aied-research|YZED Kanıt Tabanının Sınırlılıkları]] ve [[research-methods-aied|YZED'de Araştırma Yöntemleri]] sizi yaklaştıran karşılaştırmaları ortaya koyar, [[equity-in-ai-education|Eğitimde YZ Eşitliği]] ise alt grup tablosunun neden bulgunun kendisi olduğunu açıklar.
 
-Neredeyse 1.000 lise [[math-education|matematik]] öğrencisini içeren bir saha deneyinde, sınırsız üretici YZ erişimi, destekli alıştırma sırasındaki performansı artırdı ama sonraki desteksiz sınav performansını düşürdü. Tam çözümler yerine ipuçları sağlayan, korumalı bir sürüm, gözlemlenen [[ai-misuse-learning-harm|öğrenme zararını]] ortadan kaldırdı. Ders, tüm YZ kullanımının öğrenmeye zarar verdiği değildir. **Destekli performans ile kalıcı öğrenme farklı sonuçlardır**.
+### "Çok şey öğrendiklerini bildirdiler."
 
-YZ kullandıktan sonra şunları yapıp yapamadığını kontrol et:
+Öz bildirim; algıyı, kabulü, kaygıyı ve [[self-efficacy|öz yeterliği]] ölçer ve dördünde de iyidir. Gösterilmiş kapasitenin ölçüsü değildir; çünkü insanlar kendine güvenen ama yanlış ya da becerikli ama özgüvensiz olabilir. Bilgi tabanının öğretmen YZ okuryazarlığı araştırması sentezi, öz değerlendirme ile ölçülen performans arasında ciddi bir açık bildiriyor ve içindeki öğretim elemanları yetkinliklerini hatırı sayılır ölçüde abartmış ([[ai-literacy-assessment-misalignment|YZ Okuryazarlığı Değerlendirmesi: Öz Bildirim ile Performans Uyumsuzluğu]]). Her öz bildirimi bir görevle eşleştirin: bir çıktıdaki hatayı bulmak, bir kaynağı doğrulamak, bir kullanım stratejisi seçmek, yanlılığı ya da yaltaklanmayı fark etmek, kusurlu bir yanıtı revize etmek, güveni doğruluğa karşı kalibre etmek. Anketteki böyle tek bir madde, bir görüşü bir sonuca çevirir.
 
-* YZ yanıtına bakmadan akıl yürütmeyi açıklamak;
-* Benzer bir sorunu bağımsız olarak çözmek;
-* Üretilen yanıttaki zayıflıkları belirlemek;
-* Fikri yeni bir bağlama aktarmak.
+### "Simüle edilmiş bir öğrenci, gerçeğinin ucuz bir yerine koyucusudur."
 
-Bkz. [[generative-ai-guardrails-harm-learning|Korumasız Üretici YZ Öğrenmeye Zarar Verebilir]] ve [[cognitive-offloading|Bilişsel Yük Boşaltma]].
+Simülasyon; prototipleme, stres testi ve senaryo üretmek için yararlıdır ve insanlara karşı doğrulanmadıkça insan öğrenmesi hakkında kanıt değildir. Bir model, kafa karışıklığının dilini taklit edebilir; ama bir öğrenenin sebatını, motivasyonunu, ön bilgisini, duygusunu ya da gelişimsel yörüngesini taşımaz. Bilgi tabanında özetlenen araştırma, simüle öğrencilerin kendilerine atanan yanlış kanıyı asgari bir düzeltmeden sonra terk ettiğini bulmuş; bu da kavramsal değişimi gerçekten temsil edip etmediklerine dair kuşku doğuruyor ([[simulating-students|Öğrencileri Simüle Etmek]], [[llm-student-simulation-misconception-faithfulness|Öğrencileri Simüle Etmek mi, Yaltakçı Problem Çözme mi?]]). Onları, gerçek öğrencilerle karşılaşmadan önce istek metninizdeki kusurları bulmak için kullanın; öğrenenler hakkındaki her iddiayı ise doğrulanmamış sayın.
 
----
+## YZ koşulunu öğrenmeyi taşıyan adımda belirleyin
 
-### “YZ daha hızlı bitirmemi sağlıyorsa, bu basitçe daha verimli öğrenme değil mi?”
+Kurallar bir araç hakkında yazıldığında başarısız olur, bir edim hakkında yazıldığında işe yarar. Aşağıdaki inançlar, politikaları belirsiz tutan inançlardır.
 
-**Cevap:** Daha hızlı tamamlamak her zaman daha hızlı öğrenme değildir. YZ, kırtasiye türü işleri, kafa karıştıran biçimlendirmeyi ya da gereksiz tekrarları verimli bir biçimde ortadan kaldırabilir. Aynı zamanda bilgi ve becerinin geliştiği erişim, planlama, taslak hazırlama, hata ayıklama ve revizyon çalışmasını da ortadan kaldırabilir.
+### "YZ'nin her kullanımı kopyadır."
 
-Anahtar ayrım, **destekleyici yük boşaltma** ile **ikame edici yük boşaltma** arasındadır:
+Aynadaki inanç daha kötü: kimse kopyalanmadığı için YZ kullanımının kopya olamayacağı. Dürüstlük; ödevin amacına, öğretim elemanının kurallarına, işin ne kadarını aracın yaptığına, kullanımın atfedilip edilmediğine ve YZ'nin değerlendirilen kapasitenin yerine geçip geçmediğine bağlıdır. Beyin fırtınası bir ödevde izinli, bir diğerinde zorunlu, üçüncüsünde ise diskalifiye edicidir ve üçü de savunulabilir ([[academic-integrity|Akademik Dürüstlük]]). Öğretim hamlesi, öğrencilerin herhangi bir şeyi açmadan önce beş soruyla karşılaşmasıdır: bu ödev neyi yapabildiğimi göstermek için var, hangi yardıma izin var, hâlâ yazar ve karar verici ben miyim, teslim ettiğim işi savunabilir miyim ve beyan etmem gerekiyor mu. [[ai-use-disclosure|YZ Kullanımı ve Beyanları]] kullanılabilir bir beyan formunun nasıl göründüğünü gösterir.
 
-* Destekleyici yük boşaltma, dikkati daha önemli düşünmeler için serbest bırakır.
-* İkame edici yük boşaltma, YZ’nin öğrenmen gereken düşünmeyi üstlenmesine izin verir.
+### "Kimse tespit edemiyorsa, bir sakıncası yoktur."
 
-Yararlı bir sıralama şudur:
+Tespit, önemli olandan farklı bir soruyu yanıtlar. Tespit edilmeyen dışsallaştırma, öğrenciyi yine de işi açıklayamaz, bir takip sorusunu yanıtlayamaz, işi uyarlayamaz ya da araç olmadan performans gösteremez durumda bırakır ve bu açık sonradan bir [[summative-assessment|sınavda]], bir lisans sürecinde, bir stajda ya da ilk işte ortaya çıkar. Notlar kapasiteden uzaklaşırken ikisi de iyi görünür. Bu, bir disiplin sorunundan önce bir yeterlilik belgesi sorunudur; [[assessment-validity|Değerlendirme Geçerliliği]] ve [[authentic-assessment|Otantik Değerlendirme]] sayfalarındaki argüman da budur. Bir öğrenci için yararlı yeniden çerçeveleme şudur: not, onun hakkında bir iddiadır ve bu iddia, sınandığı bir sonraki odada ayakta kalmalıdır.
 
-1. İlk bir deneme yap.
-2. Geri bildirim, ipucu, örnek ya da karşılaştırma için YZ’ye danış.
-3. Kendi yargını kullanarak revize et.
-4. Kısa bir desteksiz açıklama ya da uygulama tamamla.
+### "Sorun, onu ne sıklıkta kullandıkları."
 
-Amaç zorluğu en üst düzeye çıkarmak değildir. Amaç, hedeflenen öğrenmeyi üreten bilişsel çalışmayı korumaktır.
+Sıklık size hiçbir şey söylemez. Bir öğrenci YZ'yi açıklamaları karşılaştırmak, alıştırma problemleri üretmek ve geri bildirim almak için her gün bilişsel olarak etkin kalarak kullanabilir; bir diğeri ise ödevin ortaya çıkarmak için var olduğu argümanı üretmek üzere onu bir kez kullanabilir. Onları ayıran soru, düşünmenin hangi katmanının devredildiği ve öğrencinin o katmanı hâlâ tek başına gerçekleştirip gerçekleştiremediğidir; [[student-ai-interaction|öğrenci–YZ etkileşimi]] bu ayrımı ayrıntılı olarak belgeler. Dilbilgisi düzeltmesi, bir denemenin iddialarından, kanıtlarından ve karşı argümanlarından çok uzaktadır. Hamle, katmanı görevde açık kılmaktır: kursun öğrettiği düşünmeyi adlandırın, her yerde yardıma izin verin ve adlandırılan katmanı yardımsız denetleyin.
 
-Bkz. [[cognitive-offloading|Bilişsel Yük Boşaltma]] ve [[reducing-ai-misuse|YZ Kötüye Kullanımını Azaltma]].
+### "Daha hızlı tamamlama, daha verimli öğrenme demektir."
 
----
+YZ kâtiplik işini, biçimlendirme karmaşasını ve tekrarı ortadan kaldırır; bu bir kazançtır. Aynı zamanda becerinin oluştuğu geri getirme, planlama, taslaklama, hata ayıklama ve revizyonu da ortadan kaldırır; kayıp budur. Gerçek bir ödevle temas ettikten sonra ayakta kalan ayrım, destekleyici ile ikame edici boşaltma arasındaki ayrımdır: biri daha zor düşünme için dikkat serbest bırakır, diğeri öğrenmeniz gereken düşünmeyi sizin yerinize yapar ([[cognitive-offloading|Bilişsel Yük Boşaltma]], [[reducing-ai-misuse|YZ Kötüye Kullanımını Azaltma]]). İkincisinin olmasını engelleyen dizi kısadır. Bir deneme yapın, ipucu, örnek ya da karşılaştırma için araca başvurun, kendi yargınızla revize edin, sonra kısa bir yardımsız açıklama üretin. Amaç zorluk değil, bilişsel işi korumaktır.
 
-### “YZ’nin herhangi bir kullanımı kopya çekmek midir?”
+### "Topyekûn bir yasak en güvenli ve en adil kuraldır."
 
-**Cevap:** Hayır. Ama tersi iddia—“YZ kullanımı kopya çekmek olamaz, çünkü bir insanı kopyalamadım”—de yanlıştır.
+Bağımsız performansın değerlendirilen kapasite olduğu durumlarda YZ'siz koşullar doğrudur: belirli sınavlar, temel alıştırmalar, mesleki yetkinlik denetimleri. Evrensel bir yasak farklı bir araçtır; kullanımı yeraltına iter, tutarlı biçimde uygulanması zordur ve öğrencilerin kurs bittikten sonra ihtiyaç duyduğu [[ai-literacy|YZ okuryazarlığını]] engeller. Görev düzeyinde dört koşul daha fazla alanı kapsar: YZ zorunlu, beyanla birlikte YZ izinli, YZ belirli işlevlerle sınırlı, yardım öğrenme iddiasını geçersiz kılacağı için YZ yasak. Öğrenciler anladıkları sınırlara uyar; bu yüzden kuralın gerekçesi ona eklenmeli ve izlence, ödev yönergesi, geri bildirim ve notlandırma boyunca tutarlı olmalıdır. [[framing-ai-use-for-students|Öğrenciler için YZ Kullanımını Çerçevelemek]] ve [[educational-policy-ai|Eğitim YZ Politikası]] şablonlardır.
 
-Akademik dürüstlük, ödevin amacına, öğretim elemanının kurallarına, YZ katılım derecesine, atıf yapmaya ve YZ’nin değerlendirilmekte olan yeteneğin yerini alıp almadığına bağlıdır. YZ bir ödevde beyin fırtınası için izinli, bir başka ödevde eleştiri için gerekli, bağımsız performansın değerlendirildiği bir sınavda ise yasak olabilir.
+## Bir eğitmeni, öğrencinin sonrasında ne yaptığına bakarak değerlendirin
 
-YZ’yi kullanmadan önce şunu sor:
+Yanıtı üreten bir sistem ile öğrenen üreten bir sistem farklı ürünlerdir ve çıktı her zaman yalnızca birincisini tanımlar.
 
-* Bu ödev, hangi beceriyi göstermek için tasarlandı?
-* Hangi yardım biçimlerine izin var?
-* Hâlâ ben mi yazar ve karar vericiyim?
-* Teslim edilen işi açıklayıp savunabilir miyim?
-* YZ’yi nasıl kullandığımı açıklamam gerekiyor mu?
+### "Öğrencilere güçlü bir eğitmen verin, öğrenme iyileşir."
 
-Beklentiler net olmadığında, her kullanımın yasak olduğunu varsaymaktan ya da her kullanımın kabul edilebilir olduğunu varsaymaktan daha güvenli olan, açıklama yapmak ve göreve özgü aydınlatma istemektir.
+Erişim bir öğretim tasarımı değildir. Aynı model; önce deneme istediğinde, çözüm yerine ipucu verdiğinde, akıl yürütme talep ettiğinde, yanlış kanıları düzelttiğinde, desteği azalttığında ve yardımsız bir denetimle bitirdiğinde öğrenmeyi destekler. Hemen yanıt verdiğinde, planlamayı üstlendiğinde ve yanıt aramayı ödüllendirdiğinde öğrenmeyi baltalar. Değer [[pedagogy|pedagojik]] sarmalda durur; [[learning-design|Öğrenme Tasarımı]] sayfasındaki argüman ve [[scaffolding|iskelenin]] arkasındaki tasarım mantığı budur. Bir eğitmeni yaygınlaştırmadan önce bir dersi kendiniz onunla işleyin ve sizi kaç kez düşünmekten kurtardığını sayın.
 
-Bkz. [[academic-integrity|Akademik Dürüstlük]] ve [[ai-use-disclosure|YZ Kullanımı ve Açıklama Beyanları]].
+### "Doğru yanıtı veren eğitmen iyi eğitmendir."
 
----
+Doğruluk gereklidir ama yeterli değildir. Doğru bir yanıt çok erken gelebilir, çok fazlasını açığa çıkarabilir ve geri getirmeyi kalıcı kılan [[desirable-difficulties|istenen zorlukları]] atlayabilir. Daha güçlü bir eğitmen müdahale etmeden önce teşhis eder, söylemek yerine sorar, en küçük yararlı ipucunu verir, açıklama ister, belirli hataya yanıt verir, desteği azaltır ve yardımsız performansı sonra denetler. Onu öğrencilerin neyi fark ettiği, neyi denediği, nasıl açıkladığı, nasıl revize ettiği ve sonunda tek başına ne yaptığı üzerinden değerlendirin; [[intelligent-tutoring|Akıllı Öğretim Sistemleri]] ve [[pedagogical-safety|Pedagojik Güvenlik]] sayfalarındaki ölçüt budur.
 
-### “YZ’yi sık sık kullanmak asıl sorun mu?”
+### "Daha fazla otomasyon ve kişiselleştirme daha iyidir."
 
-**Cevap:** Sıklık tek başına, YZ kullanımının eğitim açısından verimli olup olmadığını belirlemez. Bir öğrenci, bilişsel olarak etkin kalırken YZ’yi sık sık kullanarak açıklamaları karşılaştırabilir, alıştırma soruları üretebilir, akıl yürütmeyi sorgulayabilir ve geri bildirim alabilir. Başka bir öğrenci, bir ödevin değerlendirmek üzere tasarlandığı merkezi argümanı ya da çözümü üretmek için onu bir kez kullanabilir.
+[[personalized-learning|Kişiselleştirme]] öğrenmeyi destekleyebilir ve aşırı uyarlamaya dönüşebilir. Sistem planladığında, izlediğinde, neyin önemli olduğuna karar verdiğinde ve zor adımları tamamladığında öğrenci hızlanır ve daha az etkin olur; [[self-regulated-learning|öz düzenleme]] de odadan sessizce çıkan şeydir. Tasarım sorunu, hedefe bağlı çabayı korurken gereksiz engelleri kaldırmaktır. Ayakta kalan özellikler: zorunlu denemeler, açıklama istemleri, geciktirilmiş ipuçları, ayarlanabilir yardım, iskele desteğinin azaltılması, sistemin önerileri üzerine yansıtma, dönemsel yardımsız alıştırma ve onu geçersiz kılmanın görünür bir yolu. [[agentic-ai|Ajan YZ]] ve [[agency|özerklik]], sistem kararları vermeye başladığında ne olduğunu ele alır.
 
-Daha yararlı soru şudur:
+### "Daha büyük bir model daha güvenli bir eğitmen yapar."
 
-> **Hangi düşünme katmanını devrettim ve o düşünmeyi hâlâ bağımsız olarak yapabilir miyim?**
+Genel kapasite ile pedagojik kalite ayrı özelliklerdir; daha büyük bir model daha zor problemleri çözerken yine de bir strateji seçemeyebilir, yanıtı esirgeyemeyebilir, gelişim düzeyine uyum sağlayamayabilir, [[productive-failure|üretken başarısızlığı]] koruyamayabilir, belirsizliği işaretleyemeyebilir ya da öğrenme hedeflerinizin içinde kalamayabilir. Altı ortaöğretim öğretmeniyle yapılan katılımcı bir tasarım çalışması, güvenliğin gerçekte nereden geldiğine dair en net ifadedir. Öğretmenler bağımsız olarak "sınırlandırılmış uzmanlar" tasarladı: insan gözetimi altında tanımlı bir alan içinde dar kapasite; aşmayacakları iki çizgi (yetke, çünkü öğrenci öğrenmesinin sorumluluğu devredilemez; uzmanlık, çünkü model tek tek öğrenciler ve sınıf normları hakkında bilgiden yoksundur) ve üç koruyucu katman (alan sınırları, standart reddetmelerle filtrelenmiş içerik ve öğretmen geçersiz kılması). Modelden daha iyi açıklamalar değil, tam konuşma kaydı ve gerçek zamanlı uyarılar istediler ([[reichert-human-centered-llm-chatbot-design-teachers-2026|sınırlandırılmış uzman sohbet robotu tasarımı]]). Kapsam ve gözetim, ölçeğin yapamadığı işi yaptı. [[learning-theories|Öğrenme Kuramları]] ve [[llm-training-and-fine-tuning|LLM Eğitimi ve İnce Ayarı]] tasarım tarafını ele alır.
 
-Dil bilgisi düzeltmesini devretmek, bir makalenin iddialarını, kanıtlarını, akıl yürütmesini ve karşıt argümanlarını devretmekten farklıdır. Devredilen bilişsel katman ne kadar derin olursa, nihai ürünün kendi yeteneğini abartma riski o kadar büyük olur.
+### "Daha fazla geri bildirim daha iyi geri bildirimdir."
 
-Bkz. [[cognitive-offloading|Bilişsel Yük Boşaltma]] ve [[ai-literacy|YZ Okuryazarlığı]].
+Hacim, artırılması en kolay ve iyileşmeyle en az ilişkili şeydir. Her soruna değinen bir yanıt, önemli olan tek değişikliği gömebilir; ayrıca zamanlaması yanlış, genel ya da hatalı olabilir. Geri bildirim uzunluğunu, bu öğrenen için görevin bu noktasında en önemli sonraki adımı belirleyerek hak eder. Öğrencilerin onu anlayıp anlamadığını, kalitesini yargılayıp yargılayamadığını, onunla revize edip etmediğini, yanlış kanıyı bırakıp bırakmadığını ve sonrasında onsuz daha iyi performans gösterip göstermediğini ölçün. [[feedback|Geri Bildirim]] ve [[feedback-literacy|Geri Bildirim Okuryazarlığı]] diziyi ortaya koyar; pratik test ise öğrencinin neyi farklı yapacağını tek cümleyle söyleyip söyleyemediğidir.
 
----
+### "YZ eleştirel düşünmeyi yok ediyor."
 
-### “İyi bir istek metni (prompt) bana doğru yanıtı vermez mi?”
+YZ eleştirel düşünmenin yerine geçebilir ya da onun nesnesi olabilir; hangisi olacağına ödev karar verir. Bir görev, öğrenciler bitmiş bir yorum isteyip onu kabul ettiğinde [[student-engagement|katılımı]] zayıflatır; danışmadan önce tahmin ettiklerinde, akıl yürütmelerini modelinkiyle karşılaştırdıklarında, desteksiz iddiaları avladıklarında, zayıf bir yanıtı iyileştirdiklerinde, alternatifler arasından seçtiklerinde ve bir öneriyi neden reddettiklerini açıkladıklarında ise güçlendirir. Yararlı ayrım, aracın oynadığı roldür: öğrenenin akıl yürütmesinin yerine geçen bir şey değil, koç, zorlayıcı ya da değerlendirilecek kaynak. [[critical-thinking|Eleştirel Düşünme]] ve [[learning-design|Öğrenme Tasarımı]] görev tasarımlarını taşır.
 
-**Cevap:** Hayır. Üretici YZ çıktısı istek metnine duyarlıdır ve genellikle deterministik değildir. İfade, bağlam, örnek ya da varsayımlardaki küçük değişiklikler, önemli ölçüde farklı yanıtlar üretebilir.
+## İmzalamadan önce bir satıcının size neyi göstermesi gerektiğine karar verin
 
-Yineleme bir yanıtı iyileştirebilir, ancak tekrarlanan üretim doğrulama değildir. Beş benzer yanıt, aynı hatalı varsayımı tekrarlayabilir. Verimli yineleme bu nedenle yeniden sormaktan fazlasını içerir. Şunları içerir:
+Bir yanlış kanının çok yıllı bir sözleşmeye dönüştüğü yer burasıdır. Aşağıdaki soruların hiçbiri teknik uzmanlık gerektirmez ve hepsi yenileme tarihinden sonra değil önce sorulmayı gerektirir.
 
-* hedefi ve kısıtları netleştirmek;
-* modelden varsayımlarını ortaya çıkarmasını istemek;
-* alternatif yorumlar talep etmek;
-* yanıtı kanıtlara karşı test etmek;
-* sorun değiştiğinde yanıtın geçerliliğini koruyup korumadığını kontrol etmek.
+### "Gelişmiş bir platform satın almak öğretimi dönüştürür."
 
-İstek metni yazmak yararlı bir beceridir, ancak alan bilgisi ve eleştirel yargı ihtiyacını ortadan kaldırmaz. Ev ödevinde bir sohbet robotunu saf bir öğrencinin kullanımını gösteren bir [[brunnstrom-ai-interaction-literacy-srl-2026|demonstrasyon]], iyi kullanımın aslında ne kadar etkileşim gerektirdiğini göstermektedir: varsayılan çıktı, SOLO taksonomisinin çok yapısal (multistructural) düzeyinde “cilalı ama pedagojik olarak yüzeysel” kaldı ve kullanılabilir bir öğrenme döngüsüne ulaşmak, aşırı yüklenmeye işaret etme, basitleştirme isteme, kapsamı daraltma biçiminde sekiz tur üst düzey müdahale gerektirdi. Yazarlar bunun gerektirdiği yeteneği **YZ etkileşim okuryazarlığı** olarak adlandırır—üretici YZ ile yinelemeli etkileşimi yönlendirme, değerlendirme ve ondan öğrenme—ve eşitlik sorununu not düşer: yönlendirilmemiş kullanım, düzgün dağıtılmamış bir etkileşim yönetimi becerisi dayattığı için üretici YZ “zaten avantajlı öğrencilere en çok yarar sağlayabilir”.
+Bir platform yetenekler sağlar. İyileşme ise [[curriculum-design|müfredat]], değerlendirme, akademik personel gelişimi, teknik destek, erişilebilirlik, gizlilik, yönetişim, iş yükü ve yerel değerlendirme arasında hizalama gerektirir; bunlar olmadan bir kurum, tutarsız kullanılan, işi tekrarlayan, öğretim elemanına yük ekleyen ya da ölçülebilir kazanç sağlamayan etkileyici bir gösterim üreten sofistike bir sistem satın alır. Satın alma öncesinde altı şeyi belirtin: eğitsel sorun, hedeflenen kullanıcılar ve kullanım durumları, başarı sayılan çıktılar, toplanan veriler, gereken insan gözetimi ve koşulları değiştireceğiniz ya da sonlandıracağınız durumlar. [[administrator|Yönetici Perspektifinden YZ]] ve [[ai-ed-evaluation|YZ Eğitimi Değerlendirmesi]] odaya götüreceğiniz çerçevelerdir.
 
-Bkz. [[misconceptions|YZ hakkındaki yanlış kanılar]], [[prompt-engineering|İstek Metni Mühendisliği]] ve [[brunnstrom-ai-interaction-literacy-srl-2026|YZ etkileşim okuryazarlığı]]. Altta yatan öz-[[regulation]] gereksinimleri için bkz. [[developing-ai-tutor|Etkili bir YZ Eğitmeni Nasıl Geliştirilir?]].
+### "Kıyaslama puanı, eğitsel olarak etkili olduğunu kanıtlar."
 
----
+Bir kıyaslama, performansı kendi koşullarında ölçer. Bir model zor problemleri çözebilir, akıcı açıklamalar yazabilir ve bir eğitmenlik rubriğinde yüksek puan alabilir; ama kalıcılığı, [[transfer-of-learning|aktarımı]], [[self-regulated-learning|öz düzenlemeyi]] ya da eşitlikçi çıktıları iyileştirmede başarısız olabilir. Kıyaslama sonuçlarını teknik güvenilirlik, pedagojik kalite, güvenlik, [[usability-research|kullanılabilirlik]], uygulama yükü, sınıf içi benimseme ve yardımsız [[learning-gains|öğrenme kazançlarından]] ayrı tutun. Gerçekten karar verdiğiniz soruya yalnızca gerçek öğrencilerle saha testi, ilgili bir karşılaştırma koşulu ve makul bir çıktı ölçüsü yanıt verir ([[benchmark|kıyaslama]]). Araştırmacılar da aynı disiplini ters yönde borçludur: bir çalışmanın bu zincirin hangi halkasında durduğunu söyleyin.
 
-### “Bir YZ dedektörü kullanımımı tespit edemiyorsa, gerçekten bir sakınca var mı?”
+### "Güvenilir, demek ki puanlar geçerli."
 
-**Cevap:** En önemli soru, yazılımın kullanımı tespit edip etmediği değildir. Teslim edilen işin iddia ettiği yetkinliği gösterip gösteremeyeceğindir.
+Güvenilirlik tutarlılıktır; geçerlilik ise puanın yorumlanmasının ve kullanımının gerekçelendirilmiş olup olmadığıdır ve ikisi keskin biçimde ayrışabilir. Büyük bir Birleşik Krallık kıyaslaması 761 gerçek lisans psikoloji denemesini notlandırdı ve YZ ile insan notlarının derece bandında yalnızca %35–65 oranında anlaştığını buldu (bir kurumda %63, ikincisinde %53, üçüncüsünde %35); buna karşılık yeniden puanlama güvenilirliği neredeyse kusursuzdu ve sınıf içi korelasyonlar 1,00'e kadar çıkıyordu. Üç model birbirleriyle, insanlarla olduğundan çok daha yakın anlaştı (ICC 0,91) ve üçünün de hemfikir olması gerektiğinde gönderimlerin %56'sında bant üzerinde uzlaştı. Notlar ortaya doğru sıkıştı (sıkıştırma puanı 0,47–0,82); yani sistem tam da Birinci ile Üst İkinci dereceleri ve geçer ile kalır arasındaki sınırlarda en az doğruydu. Geri bildirimi, insan ortalaması olan 100–200 kelimenin üç ile sekiz katı uzunluktaydı ([[opraise-automated-marking-ai-assessment-2026|üniversite denemelerinin otomatik notlandırılması]]). Yapı kapsamı, insan yargısıyla karşılaştırma, alt grup performansı, hata örüntüleri, belirsizlik ve kullanımın sonuçlarını isteyin; [[educational-measurement|Eğitimsel Ölçme]] ve [[automated-assessment|Otomatik Değerlendirme]] sayfalarındaki argüman budur.
 
-Tespit edilmemiş dış kaynak kullanımı, işi açıklayamaz, takip sorularını yanıtlayamaz, yeni bir soruna uyarlayamaz ya da YZ olmadığında performans gösteremez hale gelmenize yol açabilir. Notlarınız ile gerçek yetenekleriniz arasında giderek büyüyen bir uçurum da yaratabilir.
+### "İyi davranan tek bir konuşma, eğitmenin güvenli olduğunu gösterir."
 
-Bu uçurum, sonraki bir kursta, bir [[summative-assessment|sınavda]], stajda, lisans sürecinde ya da iş yeri görevinde bağımsız performans gerektiğinde gizli kalabilir. Akademik dürüstlük bu nedenle yalnızca cezadan kaçınmakla ilgili değildir. Aynı zamanda belgelerinizin gerçekten yapabildiklerinizi temsil etmeye devam etmesini sağlamakla da ilgilidir.
+Eğitsel zararlar bir etkileşim boyunca birikir. Bir sistem bir istem metnini uygun biçimde yanıtlayıp sonra turlar boyunca yanıtları vermeye, bir yanlış kanıyı pekiştirmeye, bağımlılığı teşvik etmeye ya da eğitmenlik rolünden sapmaya başlayabilir. Bilgi tabanında özetlenen SafeTutors kıyaslaması, sistemler tek bir alışveriş yerine birden çok tur boyunca değerlendirildiğinde pedagojik zarar başarısızlıklarının keskin biçimde arttığını buldu ([[hazra-safetutors-pedagogical-safety-2026|YZ Eğitmen Güvenliği ve Pedagojik Zararlar]]). Sürdürülen konuşmalar, yinelenen öğrenci hataları, doğrudan yanıt denemeleri, duygusal ve ilişkisel senaryolar, düşmanca istem metinleri ve zaman içinde bağımlılık ölçüsü isteyin. Bu tür kıyaslama kanıtı bir sınıf öğrenmesi tahmini değildir ve bir güvenlik iddiasının dayanması gereken asgari düzeydir.
 
-Bkz. [[academic-integrity|Akademik Dürüstlük]], [[assessment-validity|Değerlendirme Geçerliliği]] ve [[authentic-assessment|Otantik Değerlendirme]].
+### "İnsan incelemesi, modeller iyileşene kadar geçici bir yamadır."
 
----
+İnceleme bir hesap verebilirlik işlevidir, hata düzeltme özelliği değil; çünkü birinin bir çıktının belirli bir öğrenene, kursa, kültüre ya da sonuç doğuran bir karara uygun olup olmadığına karar vermesi, istisnayı yorumlaması, modelin sahip olmadığı bağlamı sağlaması ve sonuç için hesap vermesi gerekir. Anlamlı bir düzenleme kimin incelediğini, hangi kanıtı gördüğünü, incelmenin ne zaman yapıldığını, ne kadar zamanı olduğunu, geçersiz kılıp kılamadığını, nihai eylemden kimin sorumlu olduğunu ve öğrencinin nasıl itiraz edeceğini adlandırır. Zamanı, yetkesi ya da bilgisi olmayan bir inceleyici bir imzadır ([[human-in-the-loop-ai|Döngüde İnsan YZ]]).
 
-#### Öğrenciler için temel mesaj
+### "Erişilebilirlik, gizlilik ve eşitlik, çekirdek ürün çalıştıktan sonra eklenebilir."
 
-> **Düşünceni genişletmek için YZ kullan, düşünceni gereksiz kılmak için değil. Güçlü bir YZ destekli ürün, altında yatan işi açıklama, değerlendirme, aktarma ve yeniden üretme konusunda seni daha yetkin bırakmalıdır.**
+Bunlar tasarım gereksinimleridir. Girdi kipi, okuma düzeyi, dil varsayımları, aygıt gereksinimleri, veri saklama, kişiselleştirme ve model yanlılığı, sistemi kimin kullanabileceğine ve kimin ondan zarar göreceğine karar verir; sonradan uyarlama ise iş akışını, veri modelini ve karar mantığını olduğu gibi bırakıp arayüzü iyileştirme eğilimindedir. Etkilenen öğrenenleri ve eğitimcileri erken dahil edin, çeşitli kullanıcılarla test edin, asgari veriyi toplayın, erişilebilir alternatifler sağlayın ve farklılaşan sonuçları inceleyin. Yararları erişilemez ya da eşitsiz dağılmış bir sistem, ortalaması ne olursa olsun eğitsel olarak etkili değildir ([[accessibility|erişilebilirlik]], [[universal-design-for-learning|Öğrenme için Evrensel Tasarım]], [[privacy|gizlilik]]).
 
----
+### "Bir sohbet robotu zehirli içeriği engelliyorsa çocuklar için güvenlidir."
 
-## Öğretim Elemanları ve Akademik Personel için SSS
+İçerik denetimi yasaklı kelimeleri ve konuları kapsar. Kibar bir sistem yine de çok hızlı yanıt verebilir, bir yanlış kanıyı pekiştirebilir, duygusal bağımlılığı teşvik edebilir, uygunsuz veri toplayabilir, gelişimsel olarak uygun olmayan tavsiye verebilir, erişilemez varsayımlar yapabilir, insan desteğinin yerini alabilir ve üretken çabayı azaltabilir. Çocuklara yönelik ürünler; içerik güvenliği, pedagojik güvenlik, gizlilik, erişilebilirlik, ilişkisel etki ve yinelenen kullanımın etkileri açısından değerlendirilmelidir; [[k-12|K-12 YZ Eğitimi]] ve [[pedagogical-safety|Pedagojik Güvenlik]] sayfalarındaki ölçüt budur.
 
-### “YZ sonunda öğretmenleri gereksiz kılacak mı?”
+## Öğrencinin kapasitesinin kanıtı olarak neyi kabul edeceğinize karar verin
 
-**Cevap:** YZ, öğretim işinin bazı bölümlerini otomatikleştirebilir, ancak görevleri otomatikleştirmek, öğretimin eğitimsel işlevinin yerini almak anlamına gelmez.
+Bir dosyanın nasıl üretildiğini asla ortaya koyamazsınız. Düşük maliyetle, öğrencinin dosyanın gösterdiği şeyi yapıp yapamadığını ortaya koyabilirsiniz ve bir notun desteklemesi gereken tek iddia budur.
 
-YZ örnekler hazırlayabilir, ön materyaller üretebilir, rutin soruları yanıtlayabilir ve geri bildirime yardım edebilir. Öğretmenler; öğrenen ihtiyaçlarını yorumlamaktan, ilişkiler kurmaktan, entelektüel ve duygusal olarak güvenli öğrenme ortamları yaratmaktan, disiplin bilgisini bağlamsallaştırmaktan, [[ethics|etik]] yargı kullanmaktan ve YZ tarafından üretilen bir yanıtın ne zaman uygunsuz olduğuna karar vermekten sorumlu olmaya devam eder.
+### "Deneyimli öğretim elemanları YZ üretimi işleri tanıyabilir."
 
-Öğretmenin rolü, bilginin tek kaynağı olmaktan bir **düzenleyici, öğrenme tasarımcısı, disiplin rehberi ve hesap verebilir insan karar vericisi** olmaya doğru kayabilir. Bu, mesleki işin yok olması değil, dönüşümüdür.
+Bir kuşkuyu kanıt sayacak kadar güvenilir biçimde değil. Üretilmiş metin düzenlenebilir, insan yazımıyla karıştırılabilir, çevrilebilir, yeniden ifade edilebilir ya da birkaç sistem üzerinden üretilebilir; insan yargısı ise yazma stiline, dil geçmişine, engelliliğe ve belirli bir öğrencinin nasıl konuşması gerektiğine dair beklentilere doğru eğilir. Dedektörler aynı sorunu paylaşır ve hem yanlış pozitifleri hem yanlış negatifleri ekler; bu yüzden bir işaret, daha yakından bakmak için gerekçedir, asla bir bulgu için değil ([[ai-detection|YZ Tespiti]]). Savunulabilir alternatif doğrulamadır: öğrenciden akıl yürütmeyi açıklamasını, kaynakları tartışmasını, bir pasajı revize etmesini, fikri yeni bir duruma uygulamasını ya da süreç kanıtı göstermesini isteyin. Bunların her biri anlamayı doğrudan değerlendirir ve her biri ucuzdur.
 
-Bkz. [[teacher-role|Öğretmenlik]], [[learning-design|Öğrenme Tasarımı]] ve [[teacher-ai-competency|Öğretmenin YZ Yetkinliği]].
+### "Tespit ve gözetim, dürüstlük sorununu çözer."
 
----
+Tespit, bir ürünün makine üretimi işe benzeyip benzemediğini tahmin eder. Eğitimin ihtiyacı, öğrenenin kapasiteye sahip olduğuna dair kanıttır ve tespit tarafındaki sayılar artık bir komitede alıntılanacak kadar belirgin. Bir usul adaleti analizi, on dört erken dedektör aracının hiçbirinin %80 doğruluğa ulaşmadığını, yeniden ifade etme ya da hafif düzenlemenin zaten ölçülü olan doğruluğu kabaca yarıya indirdiğini ve araçların ana dili İngilizce olmayan yazarları sistematik olarak yanlış sınıflandırdığını bildiriyor; çünkü YZ sinyali olarak okunan özellikler, yetkin bir ikinci dil yazımını da niteliyor. Gizli bir saha çalışmasında, beş psikoloji modülünde canlı çevrimiçi sınavlara sokulan tamamen YZ üretimi gönderimlerin %94'ü tespit edilmedi ve YZ işleri ortalama olarak gerçek öğrencileri geçti. Vanderbilt Üniversitesi, duyurulan %1 yanlış pozitif oranını doğrulayamayınca lisanslı dedektörünü devre dışı bıraktı; bu oran, yıllık 75.000 gönderim içinde kabaca 750 öğrencinin yanlış etiketlenmesi anlamına gelir ([[teichmann-detecting-undetectable-misconduct-2026|tespit edilemez usulsüzlük]]). Gözetim de öğrenmeyi ortaya koymadan gizlilik, erişilebilirlik, kaygı ve eşitlik maliyetleri ekler. Dayanıklı strateji bir birleşimdir: açıklanmış beklentiler, yerinde YZ'siz koşullar, süreç kanıtı ve aşamalı iş, sözlü ya da yazılı doğrulama, göreve özgü beyan, [[assessment|değerlendirmenin yeniden tasarımı]] ve itiraz yolu olan insan incelemeli usuller. [[remote-proctoring|Uzaktan Gözetim]] ve [[reduce-ai-cheating|YZ ile Aldatmayı Nasıl Azaltabilirim?]] operasyonel ayrıntıyı ele alır.
 
-### “Deneyimli öğretim elemanları YZ tarafından üretilmiş öğrenci işlerini güvenilir biçimde tanıyabilir mi?”
+### "Cilalı bir iş ürünü mesleki yetkinliği gösterir."
 
-**Cevap:** Sezgiyi kanıt olarak kabul etmeye yetecek kadar güvenilir değil. YZ tarafından üretilmiş yazı, düzenlenebilir, insan yazısıyla birleştirilebilir, çevrilebilir, yeniden ifade edilebilir ya da çok farklı sistemlerle üretilebilir. İnsan yargıları ayrıca yazı tarzından, dil geçmişinden, engellilikten ya da belirli bir öğrencinin “nasıl” yazması gerektiğine dair beklentilerden etkilenebilir.
+Bir kişi ile bir aracın performansını gösterir. Yetkinlik, birinin problemi çerçeveleyip çerçeveleyemediğinde, varsayımları ortaya koyup koyamadığında, kanıtı doğrulayıp doğrulayamadığında, ince bir hatayı yakalayıp yakalayamadığında, koşullar değiştiğinde uyum sağlayıp sağlayamadığında, öneriyi savunup savunamadığında ve uygunsuz yardım olmadan temel yargıyı yerine getirip getiremediğinde görünür. Sorumlu YZ kullanımı başlı başına meşru bir mesleki yetkinliktir; öyleyse görev, etkili araç kullanımını aracın sağladığı uzmanlık görünümünden ayırmaktır ([[career-development-and-readiness|Kariyer Gelişimi ve İşe Hazırlık]]).
 
-YZ tespit araçları benzer sınırlamalarla karşı karşıyadır ve hem yanlış pozitif hem de yanlış negatif üretebilir. Bir dedektör puanı zaman zaman daha yakından incelemeyi gerektirebilir, ancak adil bir kanıt sürecinin yerini almamalıdır.
+### "YZ okuryazarlığı, iyi bir istek metni yazmayı bilmek demektir."
 
-Daha savunulabilir bir yanıt, **öğrenme doğrulamasıdır**: öğrencilerden akıl yürütmelerini açıklamalarını, kaynaklarını tartışmalarını, bir paragrafı revize etmelerini, fikri yeni bir duruma uygulamalarını ya da süreç kanıtı göstermelerini isteyin. Bu, önemli olan şeyi—öğrencinin anlayışını—doğrudan değerlendirir.
+İstem yazmak tek bir operasyonel beceridir. Bir öğretmen ya da çalışan için önemli olan kapsam daha geniştir: [[ai-technologies|YZ sistemlerinin]] güvenilir biçimde neleri yapıp neleri yapamayacağı, doğruluğun ve yanlılığın nasıl değerlendirileceği, YZ'nin değerlendirme geçerliliğini nasıl etkilediği, boşaltmanın ne zaman yerinden etmeye dönüştüğü, gizlilik ve erişilebilirlik gereksinimleri, kullanımın disipline nasıl oturduğu ve hiç kullanılmaması gereken durumlar. Bilgi tabanının sentezi, öz bildirimler performans ölçüleriyle karşılaştırıldığında öğretmenlerin YZ yetkinliklerini ciddi ölçüde abarttığını ve gösterilmiş yetkinliğin sınıf içi bütünleşmeyi özgüvenden çok daha iyi yordadığını buldu ([[ai-literacy-assessment-misalignment|YZ Okuryazarlığı Değerlendirmesi: Öz Bildirim ile Performans Uyumsuzluğu]]). İstem teknikleri de yargıdan daha hızlı eskir. [[prompt-engineering|İstem Mühendisliğini]] bir beceri olarak öğretin ve [[teacher-ai-competency|Öğretmen YZ Yetkinliğini]] daha geniş olan beceri olarak değerlendirin.
 
-Bkz. [[academic-integrity|Akademik Dürüstlük]] ve [[ai-detection|YZ Tespiti]].
+### "YZ onu geri getirebildiği için temel disipliner bilgi geçersizdir."
 
----
+Gözetim, ağır otomasyonun insanları inşa etmekten caydırdığı uzmanlığa bağlıdır. Alan bilgisi olmadan bir kişi makul görünen yanlış sonucu, eksik kısıtı, tehlikeli öneriyi, geçersiz karşılaştırmayı, uydurulmuş atfı, yanlı tutulmuş varsayımı ya da araca hiç güvenilmemesi gereken durumu göremez ([[prior-knowledge|Ön Bilgi]], [[trust-calibration|Güven Kalibrasyonu]]). Müfredatlar neyin ezberleneceğini ve hangi araçların erişilebilir kalacağını yeniden düşünebilir. Aracın bir yanıt üretebilmesi nedeniyle temeli kaldırmak, yanıtı yargılamanın dayanağını kaldırır.
 
-### “Kursum için kapsamlı bir YZ yasağı en güvenli ve en adil politika mı?”
+### "Eleştirel ve etik YZ kullanımını öğretmek verimliliğe mal olur."
 
-**Cevap:** Otomatik olarak değil. YZ’siz koşullar, değerlendirilmekte olan yetenek bağımsız performans olduğunda uygundur—örneğin belirli sınavlarda, temel uygulamalarda ya da mesleki yetkinlik kontrollerinde. Ancak evrensel bir yasak, kullanımı yeraltına itebilir, kuralları tutarlı biçimde uygulamayı zorlaştırabilir ve öğrencilerin kurstan sonra ihtiyaç duyabilecekleri YZ okuryazarlığını geliştirmelerini engelleyebilir.
+Doğrulanmamış otomasyon yeniden iş, güvenlik olayları, ayrımcı kararlar, hukuki maruz kalma, itibar zararı ve yanlış özgüven üretir; bunların her biri verimlilik rakamının saymadığı bir maliyettir. İşe alınmaya değer çalışan, kaliteyi, gizliliği, hesap verebilirliği ve mesleki yargıyı koruyarak işi insanlar ile araçlar arasında paylaştıran kişidir. Bu bir verimlilik argümanıdır ve bilançonun genellikle gözden kaçırdığı yönde kurulmuştur ([[human-ai-collaboration|İnsan–YZ İşbirliği]], [[governance|YZ Yönetişimi]]).
 
-Daha net bir model, göreve özgü koşullar tanımlamaktır:
+## Öğrencilerin neye inandığını yanıtlayın
 
-* **YZ gerekli:** Öğrenciler YZ’yi kullanmak ve eleştirel biçimde değerlendirmek zorundadır.
-* **Açıklamayla birlikte YZ’ye izin var:** YZ, belirlenen aşamaları destekleyebilir.
-* **YZ kısıtlı:** Yalnızca belirtilen işlevlere izin verilir.
-* **YZ yasak:** Yardım, hedeflenen öğrenme iddiasını geçersiz kılardı.
+Öğrenciler işleyen teorilerle gelir ve bunların çoğu aracın gerçekte yaptığı bir şeyden inşa edilmiştir. Teoriyi düzeltmek öğretimin bir parçasıdır ve bir uyarı değil, daha iyi bir model gerektirir.
 
-Öğretim elemanı her koşulun **neden** var olduğunu açıkladığında ve onu ders programı, ödev yönergeleri, geri bildirim ve değerlendirme boyunca tutarlı biçimde uyguladığında öğrencilerin sınırları izleme olasılığı daha yüksektir.
+### "Yanıt kendinden emin ve ayrıntılı geliyorsa, muhtemelen doğrudur."
 
-Bkz. [[framing-ai-use-for-students|Öğrenciler için YZ Kullanımını Çerçevelemek]], [[academic-integrity|Akademik Dürüstlük]] ve [[educational-policy-ai|Eğitimde YZ Politikası]].
+Özgüven ve akıcılık, üretilmiş dilin özellikleridir; doğrulamanın kanıtı değildir. Model makul görünen metni tahmin eder ve iddiaları kanıta karşı denetlemez; bu yüzden kaynak uydurabilir, olguları yanlış aktarabilir, bağlamı düşürebilir ve bir yanlış kanıyı kusursuz bir düzyazıyla tekrarlayabilir. Çıktıyı bir hipotez olarak ele alın ve yanıtın neye dayandığını inceleyin: kaynaklar, hesaplama, ders materyalleriyle karşılaştırma. Öğretilecek test, öğrencinin aynı iddiayı hiçbir kanıt göstermeyen, tanımadığı bir kişiden kabul edip etmeyeceğidir ([[hallucination-risk|Halüsinasyon Riski]]).
 
----
+### "YZ beni anlıyor ve ne demek istediğimi biliyor."
 
-### “Öğrencilere güçlü bir YZ eğitmeni sağlarsam, öğrenme gelişmez mi?”
+Dile yanıt verir, konuşmayı kullanır ve bazen bilgiyi tutar; bu kadarı kişisel hissettirmeye yeter. Niyeti, deneyimi, önemsemesi ya da bağlamsal anlayışı yoktur ve pratik sonucu şudur: istem metni bir yanıtı ima ettiği için aynı fikirde olabilir. Bu [[ai-sycophancy|YZ yaltaklanmasıdır]] ve öğrencilerin en az beklediği başarısızlık kipidir. Ondan akıl yürütmedeki zayıflıkları adlandırmasını, karşı kanıt sunmasını ve yanıtını neyin yanlış yapacağını söylemesini isteyin, sonra bağımsız olarak denetleyin. Anlaşma, doğrulama değildir.
 
-**Cevap:** Erişim tek başına bir öğretim tasarımı değildir. Aynı temel model, etkileşimin nasıl yapılandırıldığına bağlı olarak öğrenmeyi destekleyebilir de zayıflatabilir de.
+### "İyi bir istem metni doğru yanıtı üretmelidir."
 
-Bir YZ eğitmeni şu durumlarda öğrenmeyi destekleyebilir:
+Çıktı istem metnine duyarlıdır ve çoğu zaman deterministik değildir; bu yüzden ifade, bağlam, örnekler ya da varsayımlardaki küçük değişiklikler yanıtı hatırı sayılır ölçüde kaydırır ve yeniden sormak doğrulamak değildir. Beş benzer yanıt tek bir hatalı öncülü paylaşabilir. Üretken yineleme hedefi ve kısıtları netleştirir, varsayımları açığa çıkarır, alternatifler ister, kanıta karşı sınar ve yanıtın problemdeki bir değişikliğe dayanıp dayanmadığını denetler. Bu bir beceridir ve eşitsiz dağılmış bir beceri. Bir öğrencinin evde çözülecek sınav sorusunda sohbet robotu kullanmasını gösteren bir gösterim, SOLO taksonomisinin çok yapılı düzeyinde "cilalı ama pedagojik olarak ince" kaldı ve kullanılabilir bir öğrenme döngüsüne ulaşmak sekiz tur üst düzey müdahale gerektirdi: aşırı yükü işaret etmek, basitleştirme istemek, kapsamı daraltmak. Yazarlar bu kapasiteye **YZ etkileşimi okuryazarlığı** diyor; yani yinelemeli etkileşimi yönlendirme, değerlendirme ve ondan öğrenme yeteneği. Eşitlik açısından can acıtan noktayı da not ediyorlar: rehbersiz kullanım, eşitsiz dağılmış bir etkileşim yönetimi becerisi dayattığı için üretken YZ "en çok zaten avantajlı öğrencilere yarar sağlıyor olabilir" ([[brunnstrom-ai-interaction-literacy-srl-2026|YZ etkileşimi okuryazarlığı]]). Altındaki öz-[[regulation|düzenleme]] talepleri için [[developing-ai-tutor|Etkili Bir YZ Eğitmeni Nasıl Geliştirilir?]] sayfasına bakın.
 
-* ilk öğrenci denemesi gerektirdiğinde;
-* tam çözümler yerine ipuçları sağladığında;
-* öğrencilerden akıl yürütmelerini açıklamalarını istediğinde;
-* sorumluluğu kaldırmadan desteği uyarladığında;
-* yanlış kanıları özenle düzelttiğinde;
-* yardımı zamanla azalttığında;
-* desteksiz bir kontrol içerdiğinde.
+### "Gençler dijital yerliler oldukları için zaten YZ okuryazarı."
 
-Aynı sistem, hemen cilalanmış yanıtlar sunarken, planlamayı üstlenirken ya da anlamadan çok yanıt aramayı teşvik ederken öğrenmeyi zayıflatabilir.
+Dijital ürünlere aşinalık, YZ'yi değerlendirme yeteneği değildir. Bir öğrenci sohbet robotu açabilir, görsel üretebilir ve yanıt isteyebilir; ama bir iddiayı doğrulayamaz, uydurulmuş kanıtı fark edemez, yanlılığı ya da yaltaklanmayı sezemez, kişisel bilgileri koruyamaz, neyi devretmemesi gerektiğine karar veremez ya da YZ'nin işi nasıl şekillendirdiğini açıklayamaz. Bilgi tabanı, gündelik teknolojiye duyulan güvenin algoritmik akıl yürütmeye, teknolojik yaratıma ya da YZ'nin eleştirel değerlendirmesine taşınmadığı bir araştırmayı özetliyor ([[digital-literacy-illusion|Yetkinlik Yanılsaması]]). Okuryazarlık öğretilir ve gösterilir; yaş ve kullanım sıklığı onu bahşetmez.
 
-Eğitimsel değer yalnızca modelde değil, onu çevreleyen **[[pedagogy|pedagojik]] sarmalayıcıda** yatar.
+### "YZ kullanan öğrenciler tembel ya da dürüst olmayan kişilerdir."
 
-Bkz. [[learning-design|Öğrenme Tasarımı]], [[scaffolding]] ve [[reducing-ai-misuse|YZ Kötüye Kullanımını Azaltma]].
+Bir miktar kötüye kullanım oluyor; ahlaki etiketleme bunu az açıklıyor, daha da azını önlüyor. Kararlar ödevin değeri, zaman baskısı, özgüven, akran normları, politikanın netliği, başarısızlık korkusu, önceki erişim ve işin öğrencinin önemsediği bir şeyle bağlantılı görünüp görünmediği tarafından şekillenir; öğrenciler ise beyin fırtınası, düzenleme, açıklama ve tam metin üretimi arasında, topyekûn bir kuralın sileceği ayrımlar yapar. Davranışı değiştiren yanıt; açık beklentileri, anlamlı değerlendirmeyi, sorumlu kullanım öğretimini, bir beyan yolunu, öğrenme doğrulamasını ve ölçülü hesap verebilirliği birleştirir. Tüm kullanımı bir karakter kusuru saymak onu gizliliğe iter; orada hem bilgiyi hem konuşmayı kaybedersiniz.
 
----
+## Ailelerin ve kamuoyunun neye inandığını yanıtlayın
 
-### “Öğrenciler YZ tarafından üretilen geri bildirimi seviyorsa, bu geri bildirimin etkili olduğunu göstermez mi?”
+Binanın dışından gelen sorular daha basit ve yanıtların daha kısa olması gerekiyor; çünkü bir kurul toplantısında çekinceler olmadan tekrarlanacaklar.
 
-**Cevap:** Memnuniyet, kabul edilebilirlik hakkında yararlı bir kanıttır, ancak öğrenme etkililiğinin yeterli kanıtı değildir.
+### "YZ eğitimde devrim mi yaratacak, onu yok mu edecek?"
 
-Öğrenciler, hızlı, teşvik edici, ayrıntılı ya da takip edilmesi kolay geri bildirimi tercih edebilir. Yine de YZ geri bildirimi yanlış, genel, aşırı olumlu, kötü önceliklendirilmiş, bağlama duyarsız ya da ödevin öğrenme hedefleriyle uyumsuz olabilir.
+İki iddia da teknolojinin kendi başına yaptığını abartıyor. YZ; açıklamaya, çeviriye, alıştırmaya, geri bildirime ve destekleyici yardıma erişimi genişletebilir; aynı zamanda yanlış bilgi, gizlilik riski, yanlılık, aşırı güven ve yeni dürüstlük sorunları ekleyebilir. Hangi listenin büyüyeceğine tasarım, öğretim, kurumsal kararlar ve öğrenenlerin koruduğu sorumluluklar karar verir ([[ai-education|Eğitimde YZ]]). Bir kurula sorulmaya değer soru daha dar ve yanıtlanabilir: hangi öğrenenler, görevler ve çıktılar için, hangi koşullar altında bu kullanım zarardan çok yarar üretiyor?
 
-YZ geri bildirimini birden çok soruyla değerlendirin:
+### "YZ aslında başka bir hesap makinesi."
 
-* Doğru mu?
-* Gerçek sorunu teşhis ediyor mu?
-* Özgü ve uygulanabilir mi?
-* Öğrenenin düzeyine uygun mu?
-* Öğrenci onu verimli biçimde kullanıyor mu?
-* Revizyon iyileşiyor mu?
-* Sonraki bağımsız performans iyileşiyor mu?
+Karşılaştırma tek bir özellik için işe yarıyor, çünkü ikisi de işi boşaltıyor; kapsamda ise çöküyor. Hesap makinesi tanımlı bir işlem yapar; üretken YZ ise açıklamalar, argümanlar, planlar, kaynak özetleri, kod, geri bildirim ve bütün ödevler üretir; işlemi çok daha az saydamdır ve çıktısı ikna edici ama yanlış olabilir ([[generative-ai|Üretken YZ]]). Devretme kararının neden daha ince taneli olduğu da budur. Rutin hesaplamayı boşaltmak öğreneni yorumlamak için serbest bırakabilir; yorumlamayı boşaltmak dersi ortadan kaldırır.
 
-Öğrencilere ayrıca **geri bildirim okuryazarlığı** gerekir: geri bildirimi otomatik olarak kabul etmek yerine yorumlama, değerlendirme ve seçici biçimde üzerine hareket etme yeteneği.
+### "Empatik bir YZ öğrenciyi önemser."
 
-Bkz. [[ai-feedback-quality|YZ Geri Bildirim Kalitesi]] ve [[feedback-literacy|Geri Bildirim Okuryazarlığı]].
+Sistem özenli ve destekleyici kulağa gelen dil üretebilir ve bu, bir öğrenenin problemi dile getirmesine ya da düşük riskli bir görevde sebat etmesine yardımcı olabilir. Özen görüntüsü özen, sorumluluk ya da özen yükümlülüğü değildir; bir model durumu yanlış anlayabilir, kullanıcının çerçevelemesini pekiştirebilir ya da nazik kulağa gelirken kötü yanıt verebilir ([[conversational-ai|Konuşmaya Dayalı YZ]]). Öğrenciler bir sistemle konuştuklarını, neyin saklandığını ve ne zaman yetkin bir yetişkine yönlendirilmeleri gerektiğini bilmelidir.
 
----
+### "YZ öğretmenleri gereksiz kılacak."
 
-### “Etkili istek metinleri yazmayı öğrenmek, öğretim elemanları için yeterli bir hazırlık mı?”
+Görevleri otomatikleştirmek, eğitsel işlevin yerine geçmek değildir. Örnek taslaklaştırmak, ön materyaller üretmek, rutin soruları yanıtlamak ve geri bildirime yardımcı olmak bir araca devredilebilir. Öğrenen ihtiyaçlarını yorumlamak, ilişki kurmak, bir sınıfı entelektüel ve duygusal olarak güvende tutmak, disipliner bilgiyi bağlama oturtmak, [[ethics|etik]] yargıyı kullanmak ve üretilmiş bir yanıtın ne zaman uygunsuz olduğuna karar vermek bir kişide kalır. Rol; düzenleyici, öğrenme tasarımcısı, disipliner rehber ve hesap verebilir karar vericiye doğru kayar; bu, mesleki işin ortadan kalkması değil değişmesidir ([[teacher-role|Öğretmenlik]]).
 
-**Cevap:** İstek metni yazmak bir operasyonel beceridir, öğretmenin YZ yetkinliğinin tamamı değildir.
+## Bunu yürütenlerin yanlış anladığı şeyler
 
-Eğitimcilerin şunları da anlaması gerekir:
+Yukarıdaki yanlış kanılar, sayfanın yazıldığı kitleye ait. Bunlar ise notu yazan kişilere ait; iyi düzeltmelerin yerine oturmamasının nedeni de bu.
 
-* [[ai-technologies|YZ sistemleri]]nin güvenilir biçimde neler yapıp yapamayacağını;
-* çıktı doğruluğunu ve yanlılığı nasıl değerlendireceklerini;
-* YZ’nin değerlendirme geçerliliğini nasıl etkilediğini;
-* öğrenci yük boşaltmanın ne zaman öğrenmenin yerini almasına dönüştüğünü;
-* gizlilik, erişilebilirlik ve veri yönetişimi gerekliliklerini;
-* YZ kullanımını disipline özgü pedagojiyle nasıl hizalayacaklarını;
-* YZ’yi ne zaman kullanmayacaklarını.
+### "Veriye dayalı, nesnel demektir."
 
-Wikide özetlenen araştırma, öz bildirim tabanlı değerlendirmeler performans temelli ölçümlerle karşılaştırıldığında öğretmenlerin YZ yetkinliklerini önemli ölçüde abarttığını buldu. Gösterilmiş yetkinlik, yalnızca güven çok daha güçlü biçimde sınıf içi bütünleşmeyle ilişkiliydi.
+Yanlılık; eğitim verisi, etiketler, çıktı tanımları, istem metinleri, dil varsayımları, erişilebilirlik tercihleri, karar eşikleri ve personelin çıktıyı okuma biçimi üzerinden girer. İnsan yargısı da yanlıdır, ama bu otomatik yargının yansız olduğunu kanıtlamaz; otomasyon yanlılığı bir arayüzün arkasına saklayıp ölçekte uygulayabilir ([[bias-mitigation|Yanlılık Azaltma]]). Sonuç doğuran kararlar için alt grup performans analizi, eğitim ve doğrulama koşullarının belgelenmesi, belirsizlik raporlaması, anlamlı insan incelemesi, bir itiraz süreci, dağıtım sonrası izleme ve farklılaşan zararın soruşturulmasını isteyin.
 
-Bkz. [[ai-literacy-assessment-misalignment|YZ Okuryazarlığı Değerlendirmesi: Öz Bildirim ile Performans Uyuşmazlığı]], [[teacher-ai-competency|Öğretmenin YZ Yetkinliği]] ve [[educational-development|Eğitsel Gelişim]].
+### "Öğrenci başına bir hesap eşitliği çözer."
 
----
+Eşit erişim, üç çizginin ilki. Öğrenciler ön bilgi, YZ deneyimi, dil, engellilik erişimi, aygıt kalitesi, kullanılabilir zaman, özgüven ve çıktıyı değerlendirme kapasitesi bakımından farklılaşır; daha deneyimli öğrenciler aracı öğrenmelerini genişletmek için kullanırken daha zayıf ya da üstbilişi daha az gelişmiş öğrenciler yanlış çıktıyı kabul eder ya da en çok ihtiyaç duydukları alıştırmayı devreder. Önce erişim, sonra beceri, sonra çıktılar için planlayın: kim güvenilir biçimde kullanabiliyor, kim kullanıp değerlendirebiliyor, kim gerçekten yarar görüyor ve kim yeni bir zararla karşılaşıyor ([[digital-divide|Dijital Uçurum]], [[metacognition|Üstbiliş]]).
 
-### “YZ eleştirel düşünmeyi kaçınılmaz olarak yok eder mi?”
+### "Kurum çapında tek bir politika belirsizliği bitirir."
 
-**Cevap:** Hayır. YZ ya eleştirel düşünmenin yerini alabilir ya da onun için bir nesne ve ortak olabilir.
+Politika metni ortak anlayış yaratmaz. Öğrenciler ve personel beklentileri kurumsal rehberlikten, program normlarından, izlencelerden, ödev yönergelerinden, öğretim elemanı yorumlarından, akran davranışından ve önceki uygulamalardan okur; bunlar çeliştiğinde insanlar kendi kurallarını uydurur. İşleyen mimari, kurum çapındaki ilkeleri program beklentilerine, kurs politikalarına, ödev yönergelerine, çözümlü örneklere ve şeffaf beyan ile inceleme usullerine bağlar ve her kısıtlamaya eğitsel gerekçesini ekler. Yalnızca "izinli" ya da "yasak" diyen bir kural, yargıyı en özgüvenli olana bırakır.
 
-Öğrenciler YZ’den bitmiş bir yorum, argüman ya da çözüm isteyip onu olduğu gibi kabul ettiğinde bir görev, [[student-engagement|katılımı]] zayıflatma eğilimindedir. Bir görev, öğrencilerin şunları yapmak zorunda olduğunda değerlendirmeyi ve üstbilişi güçlendirebilir:
+### "Akademik personelin isteksizliği bir eğitim açığıdır."
 
-* YZ’ye danışmadan önce tahminde bulunmak;
-* kendi akıl yürütmelerini YZ’nin yanıtıyla karşılaştırmak;
-* hataları ya da desteklenmeyen iddiaları bulmak;
-* zayıf bir YZ tarafından üretilmiş yanıtı iyileştirmek;
-* alternatifler arasından seçim yapıp seçimi gerekçelendirmek;
-* YZ’nin önerisini neden reddettiklerini açıklamak.
+Bazen öyledir. Hazır oluş aynı zamanda iş yükü, [[learner-identity|mesleki kimlik]], disipliner değerler, değerlendirme geçerliliğine dair kuşkular, zayıf kurumsal destek, gizlilik belirsizliği ve belirli bir uygulamanın öğrencilere hizmet etmediğine dair gerekçeli bir yargıdır. Bu yüzden gelişim; pratik yetkinliği, pedagojik bütünleşmeyi, amaç ve kimliği, zamanı, politikayı, [[discipline-specific-aied|disipline özgü]] kullanımı ve ilkeli biçimde benimsememe seçeneğini kapsamak zorundadır. Tek seferlik bir özellik gösterimi, mesleki ve örgütsel bir değişimi çözmez ([[educational-development|Eğitsel Gelişim]]).
 
-Uygun ayrım basitçe **YZ’li ya da YZ’siz** değildir. Ayrım, YZ’nin öğrenenin akıl yürütmesinin yerine mi yoksa bir **koç, meydan okuma ya da değerlendirme kaynağı** mı olarak işlev gördüğündedir.
+### "İnsanlara doğru olguları söylemek yeterlidir."
 
-Bkz. [[critical-thinking|Eleştirel Düşünme]], [[cognitive-offloading|Bilişsel Yük Boşaltma]] ve [[learning-design|Öğrenme Tasarımı]].
+Yanlış kanılar çoğu zaman boşluklar değil, kalıcı ve makul zihinsel modellerdir ve kişinin kendi deneyimi onları doğrulamayı sürdürür: çıktı kendinden emin kulağa gelir, iş iyi görünür, görev daha hızlı biter. İşleyen bir açıklaması olan bir modelle çelişen olgular atılır. Yerlerine geçen şey, daha iyi bir model ve onu uygulamanın bir yoludur; [[refutation-text|Çürütme Metni]] sayfasındaki çürütme dizisi ve [[misconceptions|YZ Hakkındaki Yanlış Kanılar]] sentezindeki yaklaşımdır.
 
----
+### "Birini düzeltmek, ona yanıldığını söylemek demektir."
 
-#### Öğretim elemanları için temel mesaj
+Utandırma savunmacılık ve gizleme üretir; "YZ'yi yalnızca tembel öğrenciler kullanır" ya da "bir sohbet robotuna güvenen aptaldır" gibi mesajlar inanca değil kimliğe saldırır. İnancı ve sonuçlarını ele alın: neden makul göründüğünü kabul edin, kendinden emin bir hata gibi bir tutarsızlık gösterin, düzeltmeyi açıklamadan önce bir tahmin isteyin, insanların destekli ve yardımsız performansı karşılaştırmasına izin verin, onlara bir sonraki sefer için bir strateji verin ve yeni modeli birkaç etkinlik boyunca pekiştirin. İnsanlar, düşüncelerini gözden geçirmek onlara itibar kaybına mal olmadığında daha istekli gözden geçirir.
 
-> **Yalnızca “Öğrenciler YZ kullanabilir mi?” diye sormayın. Şunu sorun: “Öğrenciler hangi düşünmeyi muhafaza etmek zorunda, YZ hangi desteği sağlayabilir ve öğrenmenin gerçekleştiğini hangi kanıt gösterecek?”**
+## İnancı daha iyisiyle değiştirin
 
----
+Mekanik, bir öğretim elemanları toplantısında kullanılacak kadar kısa. İnancı adlandırın, neden doğru göründüğünü söyleyin, açıkça reddedin, başarısızlığı açıklayın, daha iyi modeli verin ve bir uygulama teslim edin.
 
-## Yöneticiler, Kurumsal Liderler ve Politika Yapıcılar için SSS
+Bu sayfadaki herhangi bir maddeye uyarlayabileceğiniz çözümlü sürüm:
 
-### “Gelişmiş bir YZ platformu satın almak öğretimi ve öğrenmeyi dönüştürür mü?”
+> **Yanlış kanı:** "İyi bir YZ üretimi ödev, öğrencinin öğrendiğini gösterir."
+> **Çürütme:** "Bu zorunlu olarak doğru değil. Ürün, öğrenciyle YZ'nin birlikte ne ürettiğini gösterir ama öğrencinin hangi akıl yürütmeyi gerçekleştirdiğini açığa çıkarmaz."
+> **Yerine koyma:** "Öğrenme, öğrenci kapasiteyi açıklayabildiğinde, aktarabildiğinde, uyarlayabildiğinde ve yeniden üretebildiğinde daha iyi gösterilir."
+> **Uygulama:** "YZ destekli işi bir açıklama, sözlü savunma, süreç kaydı ya da yardımsız uygulamayla izleyin."
 
-**Cevap:** Bir platform yetenekler sağlar, eğitim dönüşümü sağlamaz.
+Ağırlığı yerine koyma taşır. Daha iyi bir açıklama sağlamadan bir yanlış kanıyı kaldırmak, kişiyi düşünecek bir şeyden yoksun bırakır ve eski inanç, deneyim onu bir sonraki kez doğruladığında geri döner.
 
-Anlamlı değişim; [[curriculum-design|müfredat]], değerlendirme, akademik personel gelişimi, teknik destek, erişilebilirlik, gizlilik, yönetişim, iş yükü ve yerel değerlendirme arasında hizalama gerektirir. Bu koşullar olmadan kurumlar, tutarsız biçimde kullanılan, mevcut işi çoğaltan, akademik personel yükünü artıran ya da ölçülebilir öğrenme kazanımları olmadan etkileyici gösteriler üreten gelişmiş bir sistem edinebilir.
+Deneyimler betimlemelerden fazlasını yapar. Bir inancı değiştirenler, onun çöktüğünü görünür kılanlardır: insanlardan kendinden emin ama uydurulmuş bir atıf bulmalarını isteyin; tek bir istem metnine verilen birkaç çelişkili yanıtı karşılaştırın; destekli alıştırmadan sonra yardımsız bir problemi tamamlayın; modelin yanlış bir varsayımı yansıtmasını izleyin; doğrudan yanıt veren bir eğitmenle ipucu temelli olanı karşılaştırın; çıktıları adlar, lehçeler ya da senaryolar boyunca denetleyin; bir YZ önerisini özgün kanıtla savunun. Her biri bir uyarıyı, kişinin olurken gördüğü bir şeye çevirir ve her biri doğrulama, [[trust-calibration|Güven Kalibrasyonu]] ve boşaltma kararı üzerinde alıştırma sağlar.
 
-Satın almadan önce liderler şunları belirlemelidir:
+## Karşınıza neler çıkacak
 
-* ele alınan eğitim sorununu;
-* hedeflenen kullanıcıları ve kullanım senaryolarını;
-* başarı sayılacak sonuçları;
-* sistemin toplayacağı veriyi;
-* gereken insan gözetimini;
-* kurumun kullanımı değiştireceği ya da sonlandıracağı koşulları.
+### "Dedektörü zaten aldık ve lisans iade edilmiyor."
 
-Bkz. [[administrator|YZ Yönetici Perspektifinden]], [[governance|YZ Yönetişimi]] ve [[ai-ed-evaluation|YZ Eğitim Değerlendirmesi]].
+Öyleyse onu, bir itirazdan sağ çıkabilecek bir sürecin içinde tek bir sinyal olarak kullanın ve hata oranını yok saymak yerine onun için bütçe ayırın. Vanderbilt'in doğrulayamadığı yanlış pozitif oranında, 75.000 gönderimin %1'i 750 yanlış etiketlenmiş öğrencidir ve usul adaleti analizi araçların ana dili İngilizce olmayan yazarları yanlış sınıflandırdığını söylüyor. Dedektör puanı bir suçlamadır. Kayda geçmiş bir açıklama ise bir kayıttır.
 
----
+### "Bizim öğrencilerimiz bunu asla yapmaz."
 
-### “Yüksek bir kıyaslama (benchmark) puanı, bir YZ sisteminin eğitim açısından etkili olduğunu kanıtlar mı?”
+Tespit edilmeyen %94 sonucu, canlı çevrimiçi sınavlara sokulan gönderimlerden geldi; bu, kötü adamlar hakkında bir hikâye değil. Baskının çoğu belirsizlik ve zamandır ve pratik soru, ödevinizin hangi yolu en kolay kıldığıdır. Doğrulama notlandırılıyorsa, beyan hiçbir şeye mal olmuyorsa ve yardımsız bir denetim varsa, öğrencilerin çoğu sizin inşa ettiğiniz yolu seçer.
 
-**Cevap:** Hayır. Bir kıyaslama, kıyaslamanın özgün koşulları altındaki performansı gösterir. Öğrencilerin gerçek kurslarda daha fazla öğreneceğini otomatik olarak göstermez.
+### "Satıcı bize bir kıyaslama ve mutlu sonlu bir vaka çalışması gösterdi."
 
-Bir model, zor problemleri çözerken, akıcı açıklamalar üretirken ya da bir öğretmenlik rubriğinde iyi puan alırken; tutma, aktarım, [[self-regulated-learning|öz düzenlemeli öğrenme]] ya da eşit sonuçları iyileştirmede başarısız olabilir. Kıyaslama performansı bu nedenle şunlardan ayrılmalıdır:
+Kıyaslamanın neyi ölçtüğünü ve araç kapalıyken herhangi bir öğrencinin bir şey öğrenip öğrenmediğini sorun. Eğitmenlik rubriği puanı ile sınıf içi öğrenme kazancı farklı iddialardır ve karşılaştırma koşulu olmayan bir pilot, hangisine sahip olduğunuzu söyleyemez. Aynı kuşkuculuk kendi gösterge paneliniz için de geçerlidir.
 
-* teknik güvenilirlik;
-* pedagojik kalite;
-* güvenlik;
-* [[usability-research|kullanılabilirlik]];
-* uygulama yükü;
-* sınıf içi benimseme;
-* desteksiz öğrenme sonuçları.
+### "Öğretmenlerin yalnızca daha fazla eğitime ihtiyacı var."
 
-Sınıf içi etkililik, gerçek öğrenenlerle saha testi, ilgili karşılaştırma koşulları, uygun sonuç ölçütleri ve uygulamaya ilişkin dikkat gerektirir.
+Öz bildirim performansla karşılaştığında öğretmenler YZ yetkinliklerini ciddi ölçüde abarttı; bu yüzden eğitim, insanların bildiklerini söyledikleriyle değil yapabildikleriyle değerlendirilmelidir. Eğitim ayrıca amacı, iş yükünü ve reddetme seçeneğini kapsamalıdır; yoksa direnme hakkı en çok olanlar, sorunu en iyi anlayanlar olacaktır.
 
-Bkz. [[ai-ed-evaluation|YZ Eğitim Değerlendirmesi]], [[benchmark]] ve [[learning-gains|Öğrenme Kazanımları]].
+### "Veliler yasaktan başka hiçbir şeyi kabul etmez."
 
----
+Veliler, çocuklarının önündeki şeyin güvenli olup olmadığını ve belgenin bir anlam taşıyıp taşımadığını soruyor. Bu ikisine doğrudan, içerik filtresi yerine pedagojik güvenlik sorularıyla yanıt verin; yasak argümanı gücünü yitirir. Kurula sorulacak soru manşetten daha dar ve savunulması daha kolaydır.
 
-### “YZ veriye dayalı olduğu için insanlardan daha nesnel kararlar vermez mi?”
+### "Bu büyüklükte bir ders için sözlü savunma yürütemeyiz."
 
-**Cevap:** Veriye dayalı olmak, değerden bağımsız ya da yansız olmak anlamına gelmez. Yanlılık; eğitim verisi, etiketler, sonuç tanımları, istek metinleri, dil varsayımları, erişilebilirlik tercihleri, karar eşikleri ve personelin çıktıyı yorumlama biçimi yoluyla girebilir.
+O zaman her öğrenci için bir tane yapmayın. Akıl yürütmeyi yazılı açıklayın, kaynakları kısa bir kayıtlı notta tartışın, bir pasajı revize edin, fikri yeni bir duruma uygulayın ya da zaten topladığınız süreç kanıtını okuyun. Önceki işlerle tutarsız görünen gönderimlerden örneklem alın. Doğrulama, kursa yerleştirilmiş bir alışkanlıktır; her öğrenci için ayrı bir olay değil.
 
-İnsanlar da yanlıdır, ancak bu otomatik kararların tarafsız olduğunun kanıtı değildir. Otomasyon, yanlılığı teknik bir arayüzün arkasında gizleyebilir ve onu daha büyük ölçekte uygulayabilir.
+### "Bunların hiçbiri bizim konumuz değil."
 
-Sonuçları olan eğitim kararları için kurumlar şunları şart koşmalıdır:
+Müdahale disiplinin içinde, aracın kursun var olma nedenini oluşturan pratiği gerçekleştirdiği adımda oluyor. Yanıtın, YZ üzerine yeni bir ünite değil de bir ödev değişikliği ve bir politika cümlesi olmasının nedeni budur.
 
-* alt grup performans analizleri;
-* eğitim ve doğrulama koşullarının belgelenmesi;
-* belirsizlik raporlaması;
-* anlamlı insan incelemesi;
-* öğrenci itiraz süreci;
-* dağıtım sonrası izleme;
-* farklı zararların araştırılması.
+## Bu hafta yapılacaklar
 
-Bkz. [[misconceptions|YZ hakkındaki yanlış kanılar]], [[bias-mitigation|Yanlılık Azaltma]] ve [[governance|YZ Yönetişimi]].
+**1.** En çok duyduğunuz üç inancı alın ve her birini bir çürütme olarak yazın: inanç, neden doğru göründüğü, düzeltme, yerine koyma, uygulama. Tek sayfa, atıf yok.
 
----
+**2.** Zaten yürüttüğünüz bir [[assessment|değerlendirmeye]] bir yardımsız madde ekleyin ve sonucun bir anlam taşıması için ona yeterli ağırlık verin.
 
-### “Her öğrenci aynı YZ hesabını alıyorsa, eşitlik sorununu çözmüş olmayız mı?”
+**3.** Bir kursun YZ maddesini, edimi ve adımı adlandıracak biçimde yeniden yazın ve ödevin her aşaması için dört koşuldan birini seçin.
 
-**Cevap:** Eşit hesaplar, eşit fırsat ya da eşit sonuçların güvencesi değildir.
+**4.** Bir sonraki yenileme ya da pilot kararından önce bir alt grup tablosu, bir çok turlu güvenlik kaydı ve bir yardımsız çıktı ölçüsü isteyin. Üçünden biri yoksa bunu yazılı olarak söyleyin.
 
-Öğrenciler; önceki alan bilgisi, YZ deneyimi, dil, engellilik erişimi, cihaz kalitesi, mevcut zaman, güven ve YZ çıktısını değerlendirme yeteneği bakımından farklılık gösterir. Daha deneyimli öğrenciler öğrenmelerini genişletmek için YZ’yi kullanabilirken, daha zayıf önceki bilgiye ya da [[metacognition|üstbilişsel]] becerilere sahip öğrenciler yanlış çıktıyı kabul etme ya da en çok ihtiyaç duydukları alıştırmayı devretme eğiliminde daha yüksek olabilir.
+**5.** Bir yanlış kanıyı odada çökertecek yirmi dakikalık bir etkinlik yürütün; uydurulmuş bir atıf ya da aynı istem metnine verilen iki çelişkili yanıt kullanın.
 
-Eşitlik planlaması bu nedenle en az üç düzeyi ele almalıdır:
+## Bundan sonra nereye gidilmeli
 
-1. **Erişim:** Sistemi kim güvenilir biçimde kullanabilir?
-2. **Beceriler:** Kim onu nasıl kullanacağını ve değerlendireceğini bilir?
-3. **Sonuçlar:** Kim gerçekten fayda görür ve kim yeni zararlar yaşar?
+[[misconceptions|YZ Hakkındaki Yanlış Kanılar]] bu sayfanın arkasındaki sentezdir ve [[refutation-text|Çürütme Metni]] onu bir odanın önünde kullanmanın yöntemidir. [[reduce-ai-cheating|YZ ile Aldatmayı Nasıl Azaltabilirim?]] dürüstlük kararlarını, [[redesign-assessment-ai-era|Değerlendirme YZ Çağında Nasıl Yeniden Tasarlanmalı?]] bir notun neyi destekleyebileceğini ele alır; [[ai-ed-evaluation|YZ Eğitimi Değerlendirmesi]] ise bir pilotu ya da platformu yargılamak için rehberdir. Öğretim tarafında [[teacher-ai-competency|Öğretmen YZ Yetkinliği]] ve [[ai-literacy|YZ Okuryazarlığı]], odadaki insanların neleri yapabilmesi gerektiğini kapsar.
 
-Bkz. [[equity-in-ai-education|Eğitimde YZ Eşitliği]], [[digital-divide|Dijital Uçurum]] ve [[ai-literacy|YZ Okuryazarlığı]].
-
----
-
-### “Tek bir kurum çapında YZ politikası belirsizliği ortadan kaldırır mı?”
-
-**Cevap:** Bir politika gereklidir, ancak politika metni tek başına paylaşılan bir anlayış yaratmaz.
-
-Öğrenciler ve personel, YZ beklentilerini birkaç kaynak üzerinden yorumlar: kurumsal rehberlik, program normları, ders programları, ödev yönergeleri, öğretim elemanı yorumları, akran davranışları ve önceki yaptırımlar. Bu kaynaklar çeliştiğinde insanlar, kabul edilebilir olanın kendi açıklamalarını oluşturur.
-
-Etkili bir politika mimarisi bu nedenle şunları birbirine bağlar:
-
-* kurum çapında ilkeler;
-* program ya da disiplin düzeyinde beklentiler;
-* kurs politikaları;
-* ödeve özgü yönergeler;
-* örnekler ve senaryolar;
-* açıklama ve inceleme için şeffaf prosedürler.
-
-Politika ayrıca kısıtlamaların ya da izinlerin ardındaki eğitimsel gerekçeyi açıklamalıdır. Yalnızca “izin var” ya da “yasak” diyen kurallar, bilgilendirilmiş yargı üretme olasılığı daha düşüktür.
-
-Bkz. [[governance|YZ Yönetişimi]], [[educational-policy-ai|Eğitimde YZ Politikası]] ve [[framing-ai-use-for-students|Öğrenciler için YZ Kullanımını Çerçevelemek]].
-
----
-
-### “YZ tespiti ve uzaktan gözetim, akademik dürüstlük sorununu çözebilir mi?”
-
-**Cevap:** Tek başlarına çözemezler. Tespit, bir eserin makine tarafından üretilmiş işe benzerliğini tahmin eder. Eğitim, öğrenenin iddia edilen yeteneğe sahip olduğuna dair kanıt ister.
-
-Tespit araçları yanlış pozitif ve yanlış negatif üretebilir ve performansları modeller, diller, görevler ve düzenleme uygulamaları arasında değişir. Gözetim, bir öğrencinin ne öğrendiğini belirlemeden gizlilik, erişilebilirlik, kaygı ve eşitlik kaygıları ekleyebilir.
-
-Kanıtlar artık sayısal olarak ifade edilecek kadar somuttur. Bir [[teichmann-detecting-undetectable-misconduct-2026|prosedürel adalet analizi]], on dört erken dönem dedektör aracının hiçbirinin %80 doğruluğa ulaşmadığını, parafraz ya da hafif düzenlemenin zaten mütevazı olan doğruluğu kabaca yarıya indirdiğini ve dedektörlerin İngilizce’yi ana dili olarak konuşmayan yazarları sistematik biçimde yanlış sınıflandırdığını bildirir; çünkü YZ sinyali olarak ele alınan özellikler, yetkin ikinci dil yazımını da tanımlar. Gizli bir saha çalışmasında, beş psikoloji modülündeki canlı çevrimiçi sınavlara eklenen, tamamen YZ tarafından üretilmiş gönderilerin %94’ü tespit edilemedi—ve YZ çalışmaları ortalama olarak gerçek öğrencilerden daha yüksek puan aldı. Vanderbilt Üniversitesi, reklamı yapılan %1 yanlış pozitif oranını doğrulayamadıktan sonra lisanslı dedektörünü devre dışı bıraktı; bu oran, 75.000 yıllık gönderi arasında yaklaşık 750 öğrencinin yanlış etiketlenmesi anlamına geliyordu ve personeli şeffaf beklentiler ile [[assessment|değerlendirme tasarımı]] doğrultusunda yönlendirdi.
-
-Daha kalıcı bir kurumsal strateji şunları birleştirir:
-
-* net biçimde açıklanmış beklentiler;
-* uygun YZ’siz değerlendirme koşulları;
-* süreç kanıtı ve aşamalı iş;
-* sözlü ya da yazılı öğrenme doğrulaması;
-* göreve özgü açıklama;
-* değerlendirme tasarımı;
-* orantılı, insan tarafından incelenmiş prosedürler.
-
-Amaç yalnızca yardımı tespit etmek değildir. Amaç, eğitim yargılarının geçerliliğini korumaktır.
-
-Bkz. [[academic-integrity|Akademik Dürüstlük]], [[ai-detection|YZ Tespiti]], [[remote-proctoring|Uzaktan Gözetim]] ve [[teichmann-detecting-undetectable-misconduct-2026|tespit edilemeyen suistimal]]. Tasarım yanıtı için bkz. [[redesign-assessment-ai-era|YZ Çağında Değerlendirme Nasıl Yeniden Tasarlanmalı?]] ve [[reduce-ai-cheating|YZ ile Kopya Çekmeyi Nasıl Azaltabiliriz?]].
-
----
-
-### “Akademik personelin isteksizliği başlıca bir eğitim eksikliği sorunu mu?”
-
-**Cevap:** Bazen öyledir, ancak akademik personelin hazır bulunuşluğu teknik beceriden daha geniştir.
-
-İsteksizlik; iş yükünü, [[learner-identity|mesleki kimliği]], disiplin değerlerini, değerlendirme geçerliliği konusundaki kaygıyı, kurumsal desteğin olmayışını, gizlilik belirsizliğini ya da belirli bir YZ uygulamasının öğrencilere hizmet etmediğine dair gerekçeli bir yargıyı yansıtabilir.
-
-Akademik personel gelişimi bu nedenle şunları ele almalıdır:
-
-* bilgi ve pratik yetkinlik;
-* pedagojik bütünleşme;
-* mesleki kimlik ve amaç;
-* zaman ve iş yükü;
-* politika ve yönetişim;
-* [[discipline-specific-aied|disipline özgü]] kullanım;
-* ilkeli biçimde benimsememe fırsatları.
-
-YZ özelliklerinin tek seferlik bir gösterimi, sosyoteknik ve mesleki bir değişim sorununu çözmesi pek olası değildir.
-
-Bkz. [[educational-development|Eğitsel Gelişim]], [[teacher-ai-competency|Öğretmenin YZ Yetkinliği]] ve [[teacher-role|Öğretmenlik]].
-
----
-
-#### Kurumsal liderler için temel mesaj
-
-> **Bir “YZ sonucu” satın almayın. Belirli bir YZ yeteneğinin sorumlu biçimde kullanılabileceği, yerel olarak değerlendirilebileceği, gerektiğinde iyileştirilebileceği ve öğrenmeye hizmet etmediğinde sonlandırılabileceği kurumsal koşulları oluşturun.**
-
----
-
-## Öğretim Tasarımcıları, Eğitim Teknolojisi Geliştiricileri ve Satıcıları için SSS
-
-### “Bir YZ eğitmeni doğru yanıtı veriyorsa, iyi bir eğitmen değil midir?”
-
-**Cevap:** Bir sorunu çözen bir sistem, mutlaka bir öğrenciye öğreten bir sistem değildir.
-
-Teknik olarak doğru bir yanıt, çok erken gelebilir, fazla şey ifşa edebilir, [[desirable-difficulties|istenen zorlukları]] aşabilir ya da öğrencinin açıklama ve erişim alıştırması yapmasını engelleyebilir. Bir eğitmen, öğrencinin **fark etmesine, denemesine, açıklamasına, revize etmesine ve sonunda bağımsız olarak yapmasına** yol açtığı şeyle değerlendirilmelidir.
-
-Pedagojik olarak daha güçlü bir eğitmen:
-
-* müdahale etmeden önce teşhis koyabilir;
-* hemen yanıtlamak yerine soru sorabilir;
-* en küçük yararlı ipucunu sağlayabilir;
-* açıklama gerektirebilir;
-* yanlış kanılara yanıt verebilir;
-* desteği azaltabilir;
-* sonraki desteksiz performansı kontrol edebilir.
-
-Doğruluk gerekli olmaya devam eder, ancak eğitim kalitesi aynı zamanda zamanlama, iskeleleme, bilişsel katılım ve [[transfer-of-learning|öğrenme aktarımı]] ile ilgilidir.
-
-Bkz. [[learning-design|Öğrenme Tasarımı]], [[intelligent-tutoring|Akıllı Öğretim Sistemleri]] ve [[pedagogical-safety|Pedagojik Güvenlik]].
-
----
-
-### “Daha fazla otomasyon ve kişiselleştirme her zaman daha mı iyidir?”
-
-**Cevap:** Hayır. [[personalized-learning|Kişiselleştirme]] öğrenmeyi destekleyebilir, ancak aynı zamanda aşırı uyuma dönüşebilir.
-
-Bir sistem planlamayı üstlendiğinde, ilerlemeyi izlediğinde, neyin önemli olduğuna karar verdiğinde ve zor adımları tamamladığında, öğrenen daha verimli hale gelirken daha az özerklik ve öz düzenleme geliştirebilir. Tasarım sorunu tüm zorluğu en aza indirmek değildir. Sorun, öğrenme hedefine bağlı çabayı korurken gereksiz engelleri ortadan kaldırmaktır.
-
-Yararlı tasarım özellikleri şunları içerir:
-
-* zorunlu öğrenci denemeleri;
-* açıklama istemleri;
-* gecikmeli ipuçları;
-* ayarlanabilir yardım düzeyleri;
-* iskele azaltma;
-* YZ önerileri üzerine düşünme;
-* periyodik desteksiz alıştırma;
-* sistemi geçersiz kılma için net fırsatlar.
-
-Bkz. [[agentic-ai|Ajan YZ]], [[agency]] ve [[cognitive-offloading|Bilişsel Yük Boşaltma]].
-
----
-
-### “Eğitsel bir sohbet robotunun güvenli olduğunu belirlemek için tek turlu test yeterli mi?”
-
-**Cevap:** Hayır. Eğitim zararları, bir etkileşim içinde birikimli biçimde ortaya çıkabilir.
-
-Bir sistem, tek bir yalıtılmış istek metnine uygun biçimde yanıt verirken kademeli olarak yanıt sunmaya, bir yanlış kanıyı pekiştirmeye, bağımlılığı teşvik etmeye ya da hedeflenen öğretmenlik rolünden sapmaya başlayabilir. Wikide özetlenen SafeTutors kıyaslaması, sistemler tek bir değişim yerine birden çok tur boyunca değerlendirildiğinde pedagojik zarar hatalarının keskin biçimde arttığını buldu.
-
-Kıyaslama kanıtı, sınıf içi öğrenme etkisi tahminine eşdeğer değildir, ancak eğitim testinin şunları içermesi gerektiğini gösterir:
-
-* sürdürülen konuşmalar;
-* tekrarlanan öğrenci hataları;
-* doğrudan yanıt alma girişimleri;
-* duygusal ve ilişkisel senaryolar;
-* düşmanca istek metinleri;
-* zaman içinde öğrenen bağımlılığındaki değişimler.
-
-Bkz. [[pedagogical-safety|Pedagojik Güvenlik]] ve [[hazra-safetutors-pedagogical-safety-2026|YZ Eğitmeni Güvenliği ve Pedagojik Zararlar]].
-
----
-
-### “Daha büyük ya da daha yetenekli bir model otomatik olarak daha güvenli bir eğitmen mi yapar?”
-
-**Cevap:** Hayır. Genel model yeteneği, pedagojik kalite ile aynı şey değildir.
-
-Daha büyük bir model, daha zor problemleri çözerken şunları yapamayabilir:
-
-* uygun bir öğretim stratejisi seçmek;
-* yanıtı ne zaman geri tutacağını fark etmek;
-* gelişimsel düzeye uyum sağlamak;
-* [[productive-failure|verimli başarısızlığı]] korumak;
-* belirsizliği iletmek;
-* uygunsuz duygusal etkiden kaçınmak;
-* öğretim elemanının öğrenme hedefleriyle hizalanmak.
-
-Pedagojik davranış, açıkça tasarlanmalı, [[learning-theories|öğrenme teorisine]] dayandırılmalı, öğrenen gruplarında test edilmeli ve sürdürülen kullanım sırasında izlenmelidir. Model seçimi önemlidir, ancak öğretim tasarımı katmanı vazgeçilmez olmaya devam eder. Altı ortaokul öğretmeniyle yapılan bir [[reichert-human-centered-llm-chatbot-design-teachers-2026|katılımcı tasarım çalışması]], güvenliğin ölçekten çok kapsam ve gözetimden geldiğini düşündürmektedir: öğretmenler bağımsız olarak “sınırlı uzmanlar” tasarladı—insan gözetimi altında kesin olarak tanımlanmış bir alana hapsedilmiş özelleşmiş yetenek—iki sınır çizgisi (yetki sınırları, çünkü öğrenci öğrenimi ve güvenliği için sorumluluk devredilemez; ve uzmanlık sınırları, çünkü YZ bireysel öğrenciler ve sınıf normları hakkında bağlamsal bilgiye sahip değildir) ve üç koruyucu katman (alan sınırları, standartlaştırılmış retlerle içerik filtreleme ve öğretmen geçersiz kılma) çizdi. Daha iyi model açıklamaları yerine tam konuşma kaydı ve gerçek zamanlı uyarılar istediler.
-
-Bkz. [[learning-design|Öğrenme Tasarımı]], [[llm-training-and-fine-tuning|LLM Eğitimi ve İnce Ayarı]], [[pedagogical-safety|Pedagojik Güvenlik]] ve [[reichert-human-centered-llm-chatbot-design-teachers-2026|sınırlı uzman sohbet robotu tasarımı]].
-
----
-
-### “Daha fazla YZ tarafından üretilmiş geri bildirim her zaman daha mı iyidir?”
-
-**Cevap:** Hayır. Geri bildirim aşırı, genel, yanlış zamanlı, yanlış ya da bilişsel olarak bunaltıcı hale gelebilir.
-
-Etkili geri bildirim, öğrencinin en önemli sonraki adımı belirlemesine yardım etmelidir. Olası her soruya yorum yapan uzun bir yanıt, odaklı bir müdahaleden daha az yararlı olabilir. Sistemler, geri bildirimi öğrenme hedefine, öğrenenin hazır bulunuşluğuna ve olası etkiye göre önceliklendirmelidir.
-
-Yalnızca geri bildirim miktarı ve hızından fazlasını değerlendirin. Şunları ölçün:
-
-* öğrencilerin geri bildirimi anlayıp anlamadığını;
-* kalitesini yargılayıp yargılayamadıklarını;
-* revizyonun iyileşip iyileşmediğini;
-* yanlış kanıların azalıp azalmadığını;
-* sonraki bağımsız performansın iyileşip iyileşmediğini.
-
-Bkz. [[ai-feedback-quality|YZ Geri Bildirim Kalitesi]], [[feedback]] ve [[feedback-literacy|Geri Bildirim Okuryazarlığı]].
-
----
-
-### “İnsan incelemesi, modeller gelişene kadar geçici bir gereklilik mi?”
-
-**Cevap:** İnsan gözetimi yalnızca bir hata düzeltme yaması değildir. Aynı zamanda bir hesap verebilirlik, bağlamsallaştırma ve yönetişim işlevidir.
-
-Eğitimciler, bir çıktının belirli bir öğrenci, kurs, kültür ya da sonuçları olan bir karar için uygun olup olmadığına karar verir. İstisnaları yorumlar, modelin sahip olmadığı bilgileri dikkate alır ve öğrencileri etkileyen eylemler için sorumluluğu üstlenir.
-
-Anlamlı bir insan-devrede (human-in-the-loop) tasarımı şunları belirtmelidir:
-
-* çıktıyı kimin incelediğini;
-* inceleyenin hangi kanıtı gördüğünü;
-* incelemenin ne zaman gerçekleştiğini;
-* ne kadar zamanın bulunduğunu;
-* inceleyenin sistemi geçersiz kılıp kılamayacağını;
-* nihai eylemden kimin sorumlu olduğunu;
-* bir öğrencinin nasıl itiraz edebileceğini.
-
-Zamanı, yetkisi ya da ilgili bilgisi olmayan nominal bir insan inceleyicisi, anlamlı bir gözetim değildir.
-
-Bkz. [[human-in-the-loop-ai|İnsan-Devrede YZ]] ve [[governance|YZ Yönetişimi]].
-
----
-
-### “Erişilebilirlik, gizlilik ve eşitlik, temel ürün çalışır duruma geldikten sonra eklenebilir mi?”
-
-**Cevap:** Bunlar, lansman sonrası eklemeler değil, temel tasarım gereklilikleri olarak ele alınmalıdır.
-
-Girdi yöntemi, okuma düzeyi, dil varsayımları, cihaz gereklilikleri, veri saklama, kişiselleştirme ve model yanlılığı; bir sistemi kimin kullanabileceğini ve kimin ondan zarar görebileceğini şekillendirir. Sonradan ekleme, arayüzü iyileştirirken temeldeki iş akışını, veri modelini ve karar mantığını değiştirmeden bırakabilir.
-
-Tasarım ekipleri, etkilenen öğrencileri ve eğitimcileri erkenden dahil etmeli, çeşitli kullanıcılarla test etmeli, veri toplamayı en aza indirmeli, erişilebilir alternatifler sağlamalı ve farklı sonuçları incelemelidir. Faydalarına erişilemiyorsa ya da zararları düzgün dağıtılmıyorsa, bir sistem eğitim açısından etkili sayılamaz.
-
-Bkz. [[accessibility]], [[universal-design-for-learning|Evrensel Öğrenme Tasarımı]], [[privacy]] ve [[equity-in-ai-education|Eğitimde YZ Eşitliği]].
-
----
-
-#### Tasarımcılar ve geliştiriciler için temel mesaj
-
-> **Yalnızca başarılı görev tamamlamayı değil, öğrenen yeteneğindeki büyümeyi optimize edin. Bir öğretim sistemi, öğrenenler daha yetkin hale geldiğinde—sisteme kalıcı biçimde daha bağımlı hale geldiğinde değil—eğitim açısından başarılıdır.**
-
----
-
-## Eğitim Araştırmacıları ve Değerlendiriciler için SSS
-
-### “Öğrenciler YZ kullanırken daha iyi performans gösteriyorsa, bu öğrenmeyi göstermez mi?”
-
-**Cevap:** Hayır. Bu, destekli performansı gösterir. Öğrenme, öğrenenin yeteneğinin değiştiğine dair kanıt gerektirir.
-
-Çalışmalar şunları ayırt etmelidir:
-
-* YZ’nin mevcut olduğu performans;
-* hemen ardından desteksiz performans;
-* gecikmeli tutma;
-* yeni problemlere aktarım;
-* açıklama ve strateji kullanımı;
-* süregelen yardıma bağımlılık.
-
-Desteksiz bir ölçüt olmadan araştırmacılar, YZ sisteminin katkısını öğrenciden kaynaklanıyor sanabilir. Bu, aracın sonuç ölçütünü ödüllendiren çözümü, akıl yürütmeyi ya da metni üretebildiğinde özellikle önemlidir.
-
-Bkz. [[learning-gains|Öğrenme Kazanımları]], [[assessment-validity|Değerlendirme Geçerliliği]] ve [[cognitive-offloading|Bilişsel Yük Boşaltma]].
-
----
-
-### “Öz bildirim tabanlı YZ okuryazarlığı, güven ve öğrenme yeterli sonuçlar mıdır?”
-
-**Cevap:** Bunlar algıyı, kabulü, kaygıyı ve [[self-efficacy]] anlamak için yararlıdır, ancak gösterilmiş yetkinliğin yeterli ölçütleri değildir.
-
-İnsanlar güvenli ve yanlış olabilir, ya da yetkin ve güvensiz olabilir. Öz bildirimleri şu gibi performans temelli ölçütlerle eşleştirin:
-
-* YZ çıktısındaki hataları belirlemek;
-* bir kaynağı doğrulamak;
-* uygun bir kullanım stratejisi seçmek;
-* yanlılığı ya da yagcılığı fark etmek;
-* kusurlu bir yanıtı revize etmek;
-* YZ’nin ne zaman kullanılmaması gerektiğini açıklamak;
-* güveni doğrulukla kalibre etmek.
-
-Wikinin öğretmen YZ okuryazarlığı araştırması sentezi, öz değerlendirme ile ölçülen performans arasında önemli bir boşluk olduğunu bildirir ve ikisini de değerlendirme gereğini pekiştirir.
-
-Bkz. [[ai-literacy-assessment-misalignment|YZ Okuryazarlığı Değerlendirmesi: Öz Bildirim ile Performans Uyuşmazlığı]] ve [[ai-literacy|YZ Okuryazarlığı]].
-
----
-
-### “Kıyaslama performansı, sınıf içi etkililik kanıtı olarak ele alınabilir mi?”
-
-**Cevap:** Ek kanıt olmadan hayır. Kıyaslamalar, sınırlı bir teknik ya da davranışsal performansı belirler. Sınıf içi öğrenme; öğrencilere, öğretim elemanlarına, teşviklere, müfredat hizalamasına, uygulama kalitesine, benimsemeye ve rakip kaynaklara bağlıdır.
-
-Sorumlu bir kanıt yolu şu sırayla ilerleyebilir:
-
-1. teknik test ve kıyaslama;
-2. kullanılabilirlik ve güvenlik çalışmaları;
-3. küçük ölçekli sınıf içi pilot uygulamalar;
-4. kontrollü etkililik çalışmaları;
-5. uygulama araştırması;
-6. uzun vadeli ve çok merkezli değerlendirme.
-
-Araştırmacılar, bir kıyaslama sonucunu öğrenmeyle ilgili bir iddiaya genelleştirmek yerine bir çalışmanın bu zincirdeki hangi bağı ele aldığını açıkça belirtmelidir.
-
-Bkz. [[benchmark]], [[ai-ed-evaluation|YZ Eğitim Değerlendirmesi]] ve [[limitations-in-aied-research|AIED Kanıt Tabanının Sınırlılıkları]].
-
----
-
-### “Bir YZ puanlama sistemi güvenilirse, geçerli olduğu anlamına gelmez mi?”
-
-**Cevap:** Hayır. Güvenilirlik tutarlılıkla ilgilidir. Geçerlilik, puanın yorumunun ve kullanımının gerekçelendirilip gerekçelendirilmediğiyle ilgilidir.
-
-Bir sistem, yanlış yapıyı tutarlı biçimde ölçebilir, önemli boyutları atlayabilir, bir alt grubu dezavantajlı duruma düşürebilir ya da insanların kötüye kullandığı bir puan üretebilir. Doğrulama şunları incelemelidir:
-
-* yapı temsiliyet;
-* ilgili insan yargılarıyla karşılaştırma;
-* alt grup performansı;
-* hata kalıpları;
-* belirsizlik;
-* kullanımın sonuçları;
-* YZ çıktısının insan kararlarını değiştirip değiştirmediği;
-* itiraz ve inceleme prosedürleri.
-
-Yüksek uyum, bir kanıt biçimidir. Eksiksiz bir geçerlilik argümanı değildir. Bir [[opraise-automated-marking-ai-assessment-2026|geniş ölçekli Birleşik Krallık kıyaslaması]] ayrışmayı doğrudan göstermektedir: 761 özgün lisans Psikoloji makalesinde, YZ ve insan notları yalnızca %35–65 oranında not bandında anlaştı (bir kurumda %63, ikinci bir kurumda %53, üçüncü bir kurumda %35), oysa güvenilirlik neredeyse kusursuzdu (yeniden puanlama sınıf içi korelasyonları 1.00’a kadar). Sistemler birbirleriyle insanlardan çok daha yakın anlaştı (üç modelli ICC = 0.91) ve üç modelin de anlaştığı gönderilerde yalnızca %56’sında banda ilişkin mutabakat vardı; notlar ortaya doğru sıkıştı (sıkıştırma puanı 0,47–0,82)—dolayısıyla YZ, Birincilik ile İkinci Üst Sınıfı ya da geçer notu ile başarısızlığı ayıran sınırlarda tam olarak en az doğruydu. YZ geri bildirimi ayrıca insan ortalaması olan 100–200 kelimenin üç ila sekiz katı uzunluğundaydı: hacim kalite değildir.
-
-Bkz. [[assessment-validity|Değerlendirme Geçerliliği]], [[educational-measurement|Eğitimde Ölçme]], [[automated-assessment|Otomatik Değerlendirme]] ve [[opraise-automated-marking-ai-assessment-2026|üniversite makalelerinin otomatik puanlanması]].
-
----
-
-### “LLM tarafından üretilen ya da simüle edilmiş öğrenciler, eğitim araştırmasında gerçek öğrenenlerin yerini alabilir mi?”
-
-**Cevap:** Bunlar prototip oluşturma, stres testi, senaryo üretme ya da hipotezleri keşfetme için yararlı olabilir. Ancak insan öğrenme süreçlerini doğrulama olmadan yeniden ürettikleri varsayılmamalıdır.
-
-Bir model, gerçek bir öğrenenin ısrarcılığını, motivasyonunu, önceki bilgisini, duygusunu ya da gelişimsel yörüngesini göstermeden kafa karışıklığının ya da bir yanlış kanının dilini taklit edebilir. Wikide özetlenen araştırma, simüle edilmiş öğrencilerin sık sık atanmış bir yanlış kanıyı asgari düzeltmeden sonra terk ettiğini buldu ve bunun insan kavramsal değişimini sadakatle temsil edip etmedikleri konusunda kuşku uyandırdı.
-
-Simüle edilmiş öğrenenlere dayalı iddialar bu nedenle, öğretim ya da politika sonuçlarını desteklemek için kullanılmadan önce insan davranışına karşı doğrulanmalıdır.
-
-Bkz. [[simulating-students|Öğrencileri Simüle Etmek]] ve [[llm-student-simulation-misconception-faithfulness|Öğrencileri mi Simüle Etmek, Yoksa Yagcı Problem Çözme mi?]].
-
----
-
-### “Olumlu bir ortalama etki, müdahalenin öğrencilere genel olarak yarar sağladığı anlamına gelir mi?”
-
-**Cevap:** Hayır. Ortalama etkiler, önceki bilgi, yaş, disiplin, dil, engellilik, üstbilişsel beceri, erişim, öğretim elemanı uygulaması ya da YZ kullanım türüne göre anlamlı farklılıkları gizleyebilir.
-
-Araştırmacılar şunları incelemelidir:
-
-* tedavi etkisi heterojenliği;
-* yalnızca alt grup nokta tahminleri değil, alt grup belirsizliği;
-* uygulama sadakati;
-* gerçekte gözlemlenen [[student-ai-interaction|YZ etkileşimi]] kalıpları;
-* eksik veri ve kayıp dışı farklılıkları;
-* faydaların YZ olmadan sürüp sürmediğini;
-* bazı öğrenciler kazanırken diğerlerinin daha mı bağımlı hale geldiğini.
-
-Küçük bir ortalama kazanç, bir grup için değerli bir etkiyi ve başka bir grup için zararı gizleyebilir. Büyük bir ortalama kazanım, diğer kurumların çoğaltamayacağı koşullara bağlı olabilir.
-
-Bkz. [[limitations-in-aied-research|AIED Kanıt Tabanının Sınırlılıkları]], [[research-methods-aied|AIED’de Araştırma Yöntemleri]] ve [[equity-in-ai-education|Eğitimde YZ Eşitliği]].
-
----
-
-#### Araştırmacılar için temel mesaj
-
-> **YZ yardım etmeyi bıraktıktan sonra öğreneni ölçün ve sonucun gerçekte ne anlama geldiğini belirleyen uygulama koşullarını, öğrenen farklılıklarını ve geçerlilik sınırlılıklarını bildirin.**
-
----
-
-## Ebeveynler, Aileler, Genel Kamuoyu ve Medya İletişimcileri için SSS
-
-### “YZ eğitimi mi devrim yapacak, yoksa yok mu edecek?”
-
-**Cevap:** Her iki iddia da teknolojinin kendi başına etki gücünü olduğundan fazla büyütür.
-
-YZ, açıklama, çeviri, alıştırma, geri bildirim ve destekleyici yardıma erişimi genişletebilir. Aynı zamanda yanlış bilgi, gizlilik riskleri, yanlılık, aşırı güven ve yeni dürüstlük sorunları da getirebilir. Sonuçlar; sistemin nasıl tasarlandığına, öğretmenlerden ve öğrencilerden onunla ne yapmalarının istendiğine ve kurumların kullanımını nasıl yönettiğine bağlıdır.
-
-Kamuoyu için daha yararlı bir soru şudur:
-
-> **Hangi öğrenenler, görevler ve sonuçlar—ve hangi koşullar altında—bu YZ kullanımı, zarardan çok daha fazla eğitim faydası üretir?**
-
-Bu soru, abartı ya da panik yerine değerlendirmeyi teşvik eder.
-
-Bkz. [[ai-education|Eğitimde YZ]] ve [[misconceptions|YZ hakkındaki yanlış kanılar]].
-
----
-
-### “Gençler dijital yerli oldukları için çoktan YZ okuryazarı olmaz mı?”
-
-**Cevap:** Dijital ürünlere aşinalık, YZ’yi anlama ve eleştirel biçimde değerlendirme yeteneğiyle aynı şey değildir.
-
-Öğrenciler bir sohbet robotunu rahatlıkla açabilir, bir görsel üretebilir ya da bir yanıt isteyebilirken şunları yapamayabilir:
-
-* bir iddiayı doğrulamak;
-* uydurma kanıtı fark etmek;
-* yanlılığı ya da yagcılığı tespit etmek;
-* kişisel bilgileri korumak;
-* hangi düşünmenin devredilmemesi gerektiğine karar vermek;
-* YZ’nin işlerini nasıl etkilediğini açıklamak.
-
-Wiki, günlük teknolojiye duyulan güvenin algoritmik akıl yürütme, teknolojik üretim ya da eleştirel YZ değerlendirmesinde karşılık gelen bir yetkinliğe dönüşmediği araştırmalarını özetler.
-
-YZ okuryazarlığı öğretilmeli ve gösterilmelidir; yaştan ya da teknoloji kullanım sıklığından çıkarılmamalıdır.
-
-Bkz. [[ai-literacy|YZ Okuryazarlığı]] ve [[digital-literacy-illusion|Yetkinlik Yanılsaması]].
-
----
-
-### “YZ kullanan öğrenciler basitçe tembel ya da sahtekâr mıdır?”
-
-**Cevap:** Bazı öğrenciler YZ’yi kötüye kullanır, ancak ahlaki etiketleme bu davranışı yeterince açıklamaz ya da önlemez.
-
-Öğrenci kararları; ödevin değerinden, zaman baskısından, güvenden, akran normlarından, politika netliğinden, başarısızlık korkusundan, önceki erişimden ve işin anlamlı öğrenmeye bağlı görünüp görünmediğinden şekillenir. Öğrenciler ayrıca beyin fırtınası, düzenleme, açıklama ve tam metin üretimi hakkında farklı biçimde akıl yürütür.
-
-Etkili bir yanıt şunları birleştirir:
-
-* net ve tutarlı beklentiler;
-* anlamlı değerlendirme;
-* sorumlu kullanım konusunda öğretim;
-* açıklama yapma fırsatları;
-* öğrenmenin doğrulanması;
-* orantılı hesap verebilirlik.
-
-Tüm YZ kullanımını karakterin zayıflığına dair kanıt olarak ele almak, kullanımı gizliliğe itebilir ve dürüst tartışmayı daha az olası hale getirebilir.
-
-Bkz. [[academic-integrity|Akademik Dürüstlük]] ve [[framing-ai-use-for-students|Öğrenciler için YZ Kullanımını Çerçevelemek]].
-
----
-
-### “YZ temelde bir hesap makinesinden ibaret değil mi?”
-
-**Cevap:** Karşılaştırma tek bir yönden yararlıdır: ikisi de iş yükünü boşaltabilir. Ancak üretici YZ, çok daha geniş bir bilişsel etkinlik yelpazesini boşaltabilir.
-
-Bir hesap makinesi tipik olarak tanımlı bir matematiksel işlem gerçekleştirir. Üretici YZ; açıklamalar, argümanlar, planlar, kaynak özetleri, kod, geri bildirim ve tam ödevler üretebilir. Çalışması aynı zamanda daha az şeffaftır ve çıktıları yanlışken inandırıcı olabilir.
-
-Bu, eğitimcilerin öğrencilerin hangi işleri devredebileceğine ilişkin daha incelikli kararlar vermesi gerektiği anlamına gelir. Rutin hesaplamayı boşaltmak, öğreneninin yorumlamaya odaklanmasına izin verebilir. Yorumlamanın kendisini boşaltmak, hedeflenen öğrenmeyi ortadan kaldırabilir.
-
-Bkz. [[cognitive-offloading|Bilişsel Yük Boşaltma]] ve [[generative-ai|Üretici YZ]].
-
----
-
-### “Toksik ya da müstehcen içeriği engellediği sürece bir sohbet robotu çocuklar için güvenli midir?”
-
-**Cevap:** İçerik denetimi gereklidir, ancak tüm eğitim risklerini kapsamaz.
-
-Bir sistem kibar kalırken şunları yapabilir:
-
-* yanıtları çok hızlı vermek;
-* yanlış kanıları pekiştirmek;
-* duygusal bağımlılığı teşvik etmek;
-* uygunsuz veri toplamak;
-* gelişimsel açıdan uygun olmayan tavsiyelerde bulunmak;
-* erişilemez varsayımlarda bulunmak;
-* insan desteğinin yerini almak;
-* verimli çabayı azaltmak.
-
-Çocuklara yönelik YZ; yalnızca yasak kelimeler ya da konular için değil, içerik güvenliği, pedagojik güvenlik, gizlilik, erişilebilirlik, ilişkisel etki ve tekrarlanan etkileşimin etkileri için değerlendirilmelidir.
-
-Bkz. [[k-12|K–12 YZ Eğitimi]], [[pedagogical-safety|Pedagojik Güvenlik]] ve [[privacy]].
-
----
-
-### “Empatik bir YZ gerçekten öğrenciyi önemser mi?”
-
-**Cevap:** YZ, dikkatli, destekleyici ya da duygusal olarak duyarlı görünen bir dil üretebilir. Bu bazen bir öğrencinin bir sorunu ifade etmesine ya da düşük riskli bir görevle devam etmesine yardımcı olabilir. Ancak empati görünümü, insani özen, sorumluluk ya da özen yükümlülüğüyle karıştırılmamalıdır.
-
-YZ, bir öğretmenin, rehber öğretmenin, ebeveynin ya da bakıcının sorumluluklarını bağımsız olarak üstlenemez. Durumu yanlış anlayabilir, kullanıcının çerçevesini pekiştirebilir ya da şefkatli görünürken uygunsuz biçimde yanıt verebilir.
-
-Öğrenciler, ne zaman YZ ile etkileşimde olduklarını, hangi verilerin saklanabileceğini ve sistemin onları ne zaman nitelikli bir insana yönlendirmesi gerektiğini bilmelidir.
-
-Bkz. [[misconceptions|YZ hakkındaki yanlış kanılar]], [[conversational-ai|Sohbet YZ]] ve [[governance|YZ Yönetişimi]].
-
----
-
-#### Aileler ve kamuoyu için temel mesaj
-
-> **YZ özerk bir eğitim gücü değildir. Onun sonuçları tasarım, öğretim, kurumsal kararlar, aile desteği ve öğrenenlerin muhafaza ettiği sorumluluklarla şekillenir.**
-
----
-
-## İşverenler ve İşgücü Paydaşları için SSS
-
-### “YZ okuryazarlığı başlıca iyi istek metni yazmayı bilmek mi demektir?”
-
-**Cevap:** İstek metni yazmak yararlıdır, ancak kalıcı YZ okuryazarlığı çok daha geniştir.
-
-Yetkin bir çalışan şunları yapabilmelidir:
-
-* sorunu uygun biçimde tanımlamak;
-* hangi işlerin devredilip devredilmeyeceğine karar vermek;
-* hassas veriyi ifşa etmeden ilgili bağlamı sağlamak;
-* kanıtı ve belirsizliği değerlendirmek;
-* yanlılığı ve hatayı belirlemek;
-* çıktıyı revize etmek ya da reddetmek;
-* sonuçları olan kullanımı belgelemek;
-* nihai karardan hesap vermeye devam etmek.
-
-İstek metni teknikleri ürünler geliştikçe değişecektir. Yargı, doğrulama, alan anlayışı, etik akıl yürütme ve sorumluluk daha aktarılabilir yeteneklerdir.
-
-Bkz. [[ai-literacy|YZ Okuryazarlığı]] ve [[human-ai-collaboration|İnsan–YZ İş Birliği]].
-
----
-
-### “Cilalanmış bir YZ destekli iş ürünü mesleki yetkinliği gösterir mi?”
-
-**Cevap:** Bir insan–YZ sisteminin performansını gösterir, ancak bireyin ne yapabildiğini göstermeyebilir.
-
-Mesleki yetkinliği değerlendirmek için işverenler ve eğitimciler, kişinin şunları yapıp yapamayacağını incelemelidir:
-
-* temel sorunu çerçevelemek;
-* varsayımları açıklamak;
-* kanıtı doğrulamak;
-* ince hataları tespit etmek;
-* koşullar değiştiğinde uyum sağlamak;
-* nihai öneriyi savunmak;
-* uygunsuz yardım olmadan temel yargıyı yerine getirmek.
-
-Birçok meslekte, sorumlu YZ kullanımının kendisi meşru bir yetkinliktir. Ancak değerlendirme, **etkili araç kullanımını** araç tarafından yaratılan uzmanlık görünümünden ayırt etmelidir.
-
-Bkz. [[authentic-assessment|Otantik Değerlendirme]], [[assessment-validity|Değerlendirme Geçerliliği]] ve [[career-development-and-readiness|Kariyer Gelişimi ve Hazır Bulunuşluk]].
-
----
-
-### “Temel disiplin bilgisi, YZ onu erişebildiği ya da üretebildiği için eskimek üzere mi?”
-
-**Cevap:** Hayır. YZ’yi gözetme yeteneği, aşırı otomasyonun insanları geliştirmekten caydırabileceği uzmanlığa bağlıdır.
-
-Yeterli alan bilgisi olmadan bir kullanıcı şunu fark etmeyebilir:
-
-* olası ama yanlış bir sonuç;
-* eksik bir kısıt;
-* tehlikeli bir öneri;
-* geçersiz bir karşılaştırma;
-* uydurma bir atıf;
-* yanlı bir varsayım;
-* YZ’ye güvenilmemesi gereken bir durum.
-
-Müfredatlar, hangi bilginin ezberlenmesi gerektiğini ve hangi araçların mevcut olması gerektiğini yeniden değerlendirmek zorunda kalabilir. Ancak temel anlayışı yalnızca YZ bir yanıt üretebildiği için ortadan kaldırmamalıdırlar. Uzman gözetimi, yargı için içsel bir temel gerektirir.
-
-Bkz. [[cognitive-offloading|Bilişsel Yük Boşaltma]], [[prior-knowledge|Önceki Bilgi]] ve [[trust-calibration|Güven Kalibrasyonu]].
-
----
-
-### “Eleştirel ve etik YZ kullanımını öğretmek, iş yeri verimliliğiyle çatışır mı?”
-
-**Cevap:** Sorumlu değerlendirme, sürdürülebilir verimliliğin parçasıdır.
-
-Doğrulanmamış otomasyon; yeniden iş, güvenlik olayları, ayrımcı kararlar, hukuki maruziyet, itibar zararı ve yanlış güven yaratabilir. Eleştirel YZ okuryazarlığı, otomasyonu reddetmek anlamına gelmez. Otomasyonun ne zaman değer kattığını, ne zaman gözetim gerektirdiğini ve çıktının ne zaman reddedilmesi gerektiğini bilmek anlamına gelir.
-
-En güçlü mezun ya da çalışan, mutlaka YZ’yi en çok sayıda görev için kullanan kişi değildir. En güçlü olan, kaliteyi, gizliliği, hesap verebilirliği ve mesleki yargıyı korurken işi insanlar ile YZ arasında akıllıca paylaştırabilen kişidir.
-
-Bkz. [[ai-literacy|YZ Okuryazarlığı]], [[governance|YZ Yönetişimi]] ve [[human-ai-collaboration|İnsan–YZ İş Birliği]].
-
----
-
-#### İşverenler için temel mesaj
-
-> **İnsanların hızlı biçimde cilalanmış iş üretip üretemediklerini değil, YZ’yi yargı, doğrulama ve hesap verebilirlikle kullanıp kullanamadıklarını değerlendirin.**
-
----
-
-## YZ Yanlış Kanıları Hakkında İletişim Kuran Herkes için SSS
-
-### “İnsanlara YZ hakkında doğru gerçekleri söylemek neden yeterli değil?”
-
-**Cevap:** Yanlış kanılar her zaman bilgi eksiklikleri değildir. Bunlar genellikle kararlı ve makul görünen zihinsel modellerdir. Bir kişi, YZ’nin kendinden emin göründüğünü, yüksek kaliteli iş ürettiğini ya da zaman kazandırdığını tekrar tekrar gözlemleyebilir. Bu deneyimler, “YZ anlar”, “YZ doğrudur” ya da “görevi bitirmek öğrendim demektir” gibi inançları doğruluyor gibi görünür.
-
-Etkili düzeltme bu nedenle bir gerçeği belirtmekten fazlasını yapmalıdır. Şunları yapmalıdır:
-
-1. yanlış kanıyı adlandırmak;
-2. neden makul göründüğünü kabul etmek;
-3. onu net biçimde reddetmek;
-4. neden başarısız olduğunu açıklamak;
-5. yerine bir model sunmak;
-6. kişiye yerine koyduğu modeli uygulama yolu vermek.
-
-Bkz. [[misconceptions|YZ hakkındaki yanlış kanılar]] ve [[refutation-text|Çürütme Metni]].
-
----
-
-### “Etkili bir çürütme nasıl seslenir?”
-
-**Cevap:** Doğrudan olmalı ama aşağılayıcı olmamalıdır.
-
-Örneğin:
-
-> **Yanlış kanı:** “İyi bir YZ tarafından üretilmiş ödev, öğrencinin öğrendiğini gösterir.”
-> **Çürütme:** “Bu mutlaka doğru değildir. Ürün, öğrenci ile YZ’nin birlikte ne ürettiğini gösterir, ancak öğrencinin hangi akıl yürütmeyi gerçekleştirdiğini ortaya çıkarmaz.”
-> **Yerine konacak model:** “Öğrenme, öğrenci yeteneği açıklayabildiğinde, aktarabildiğinde, uyarlayabildiğinde ve yeniden üretebildiğinde daha iyi gösterilir.”
-> **Uygulama:** “YZ destekli işi bir açıklama, sözlü savunma, süreç kaydı ya da desteksiz uygulama ile takip edin.”
-
-Yerine konacak model esastır. İletişimciler yalnızca yanlış kanıyı ortadan kaldırırsa, insanlar daha iyi bir açıklamaya sahip olmadıkları için ona geri dönebilir.
-
-Bkz. [[refutation-text|Çürütme Metni]].
-
----
-
-### “Eğitimciler insanları utandırmadan yanlış kanıları nasıl düzeltebilir?”
-
-**Cevap:** Kişiyi etiketlemek yerine inancı ve onun sonuçlarını ele alın.
-
-“Yalnızca tembel öğrenciler YZ kullanır” ya da “Bir sohbet robotuna güvenen aptaldır” gibi mesajlardan kaçının. Bu iddialar kimliği tehdit eder ve savunmaya ya da gizlenmeye teşvik eder.
-
-Daha verimli bir yaklaşım şudur:
-
-* inancın neden makul göründüğünü kabul etmek;
-* örneğin kendinden emin bir YZ hatası gibi bir tutarsızlık göstermek;
-* düzeltmeyi açıklamadan önce tahmine davet etmek;
-* katılımcıların destekli ve desteksiz performansı karşılaştırmasına izin vermek;
-* onlara gelecek durumlar için bir strateji vermek;
-* yeni modeli birden çok etkinlikte pekiştirmek.
-
-İnsanlar düşüncelerini zayıf ya da etik olarak görülmeden revize edebildiklerinde yanlış kanıları yeniden değerlendirmek daha kolaydır.
-
-Bkz. [[framing-ai-use-for-students|Öğrenciler için YZ Kullanımını Çerçevelemek]], [[ai-literacy|YZ Okuryazarlığı]] ve [[refutation-text|Çürütme Metni]].
-
----
-
-### “YZ hakkındaki hatalı bir inancı değiştirme olasılığı en yüksek deneyimler hangileridir?”
-
-**Cevap:** Yanlış kanının başarısızlığını görünür kılan deneyimlerdir.
-
-Örnekler şunlardır:
-
-* öğrenenlerden kendinden emin bir uydurma atıfı belirlemelerini istemek;
-* aynı istek metnine verilen birkaç çelişkili yanıtı karşılaştırmak;
-* YZ destekli alıştırmadan sonra desteksiz bir problem tamamlamak;
-* bir YZ’nin hatalı bir varsayımı nasıl yansıttığını incelemek;
-* doğrudan yanıt veren bir eğitmeni ipucu tabanlı bir eğitmenle karşılaştırmak;
-* çıktıları adlar, lehçeler ya da senaryolar arasında yanlılık açısından denetlemek;
-* katılımcılardan bir YZ tarafından üretilmiş öneriyi özgün kanıtlarla savunmalarını istemek.
-
-Bu etkinlikler, soyut uyarıları gözlemlenebilir kanıta dönüştürür. Aynı zamanda katılımcıların doğrulama, güven kalibrasyonu ve bilişsel yük boşaltma kararlarını pratik etmelerine olanak tanır.
-
-Bkz. [[ai-literacy|YZ Okuryazarlığı]], [[trust-calibration|Güven Kalibrasyonu]] ve [[cognitive-offloading|Bilişsel Yük Boşaltma]].
-
----
-
-### “Paydaşların hatırlaması gereken tek fikir nedir?”
-
-**Cevap:**
-
-> **YZ hataya açık bir bilişsel kaynaktır—bir otorite, bir insan zihni ya da öğrenmenin gerçekleştiğinin kanıtı değildir. Sorumlu eğitim kullanımı insanları hesap verebilir tutar, öğrenme için gerekli düşünmeyi korur, sonuçları olan çıktıları doğrular ve başarıyı yalnızca akıcılık, hız, katılım ya da görev tamamlama yerine kalıcı ve eşit yetenek üzerinden yargılar.**
+Yüksek sesle söyleyebileceğiniz biçimde akılda tutulacak fikir şu: YZ yanılabilir bir bilişsel kaynaktır; bir yetke değil, bir zihin değil ve öğrenmenin gerçekleştiğinin kanıtı değil. Sorumlu kullanım, kişiyi hesap verebilir tutar, öğrenmenin gerektirdiği düşünmeyi korur, önemli olanı doğrular ve başarıyı akıcılık, hız, katılım ya da tamamlanmış bir görevle değil, kalıcı ve eşitlikçi kapasiteyle yargılar.

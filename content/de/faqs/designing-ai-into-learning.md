@@ -1,17 +1,21 @@
 ---
 title: "Wie sollte KI in die Lernerfahrung designed werden?"
 created: "2026-08-25T09:20:00-04:00"
-updated: "2026-10-24T19:50:00-04:00"
+updated: "2026-10-29T07:57:30-04:00"
 connected_faqs: [designing-educational-ai-software, developing-ai-tutor]
 weight: 72
 foundations: [learning-design, reducing-ai-misuse]
 pedagogy: [active-learning, pedagogy, scaffolding]
 audience: [instructional designers, instructors]
 translation_of: faqs/designing-ai-into-learning
-source_updated: "2026-10-21T14:32:00-04:00"
+source_updated: "2026-10-28T11:26:02-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-29"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
@@ -20,39 +24,88 @@ ai_assist:
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
 
-**Beginnen Sie beim Lernziel und beim Lernprozess – nicht beim KI-Merkmal.** Das [[pedagogy|Pädagogiken und Lehrstrategien]]-Konzept der Wissensbasis betont, dass dieselbe KI je nach Instruktionsdesign als Scaffold, [[socratic-method|sokratischer]] Gesprächspartner, Feedbackpartner, [[simulation]] oder Antwortgenerator fungieren kann. Was zählt, ist, ob die Konfiguration die Aktivität erhält, die das beabsichtigte Lernen erzeugt.
+Die Modulübersicht enthält eine Zeile „KI-Aktivität", und niemand kann sagen, was sie ersetzt. Oder eine Lehrkraft hat gebeten, einem Kurs, der bereits funktioniert, einen Chatbot hinzuzufügen, und Ihre Aufgabe ist, ihn so zu platzieren, dass der Teil nicht bricht, der den Kurs zum Funktionieren gebracht hat.
 
-## Ein starkes Standardmuster
+Gehen Sie vom Lernziel aus und von der Aktivität, die es erzeugt. Dasselbe Modell kann ein Gerüst, ein [[socratic-method|sokratischer]] Partner, ein Leser von Entwürfen, eine [[simulation|Simulation]] oder eine Antwortmaschine sein, und welches Sie bekommen, hängt vom Design ab und nicht vom Modell. Benennen Sie den Modus, den Sie bauen, setzen Sie den Versuch der lernenden Person vor jede erscheinende Hilfe, und halten Sie mindestens einen Weg durch den Kurs offen, der ohne das Werkzeug läuft.
 
-Ein starkes Standardmuster ist: **lernende Person versucht → KI unterstützt → lernende Person bewertet oder überarbeitet → lernende Person demonstriert Verständnis.** Konkreter:
+## Die kurze Version
 
-- Erhalten Sie [[productive-failure|produktives Scheitern]], wo es dem Lernen dient.
-- Verlangen Sie eine erste Vorhersage oder Lösung, bevor Sie KI-Unterstützung anzeigen.
-- Bevorzugen Sie Fragen, Hinweise, Beispiele, Gegenargumente und Feedback gegenüber sofortigem Abschluss.
-- Verlangen Sie Verifikation folgenreicher Behauptungen.
-- Beziehen Sie Gelegenheiten zur Erklärung und [[learning-by-teaching|Teach-back]] ein.
-- Blenden Sie Unterstützung schrittweise aus, wenn Kompetenz wächst.
-- Behalten Sie einige KI-freie Gelegenheiten, damit Lernende kalibrieren können, was sie selbstständig können.
+**1.** Schreiben Sie den Satz darüber, was Lernende danach ohne das Werkzeug können, und prüfen Sie jede KI-Funktion dagegen.
 
-Die Synthese [[reducing-ai-misuse|Reduktion von KI-Missbrauch]] empfiehlt spezifisch Zuerst-Denken/KI-Zweitens/Reflektieren-Sequenzen und absichtsvolle Evaluationskontrollpunkte.
+**2.** Sequenzieren Sie die Interaktion: Lernende versuchen, KI unterstützt, Lernende bewerten oder überarbeiten, Lernende zeigen.
 
-## Passen Sie die KI-Rolle an das Niveau kognitiven Engagements an
+**3.** Benennen Sie den Modus auf der ICAP-Leiter. Umgehung und Gerüst können dasselbe Werkzeug auf verschiedenen Sprossen sein.
 
-[[thermomix-genai-education-analogy-2026|Rummel, Nachtigall und Panaderos Küchengerät-Analogie]] rahmt die Designfrage von *ob* Lernende [[generative-ai|generative KI]] nutzen zu *wie* jene Nutzung prägt, was sie werden. Die Abbildung von vier Nutzungen eines smarten Küchengeräts auf Lernfälle über das [[icap-framework|ICAP]]- und [[samr-model|SAMR]]-Framework gibt eine Designleiter: eine Aufgabe vollständig auszulagern, ohne Überarbeitung oder [[critical-thinking|kritisches Engagement]], ist passive Substitution und riskiert [[cognitive-offloading|Fertigkeitsverlust und Überabhängigkeit]]; [[prompt-engineering|Prompts verfeinern]] und Ausgaben kreuzverifizieren erfordert [[prior-knowledge|Vorwissen]] und [[self-regulated-learning|Selbstregulation]] (Aktiv/Augmentation); KI zum Brainstorming, Gliedern und Bewerten eigener Arbeit zu nutzen ist konstruktiv/modifizierend; und KI als echter Dialogpartner für Ko-Konstruktion und adaptives [[feedback]] ist interaktiv/Neudefinition. Die Designimplikation ist direkt: dasselbe Werkzeug ist auf einer Sprosse ein Bypass und auf der nächsten ein Scaffold, also spezifizieren Sie den beabsichtigten Modus, statt pauschalen Zugang zu gewähren.
+**4.** Platzieren Sie die KI dort, wo die Kurssequenz ohnehin eine bestimmte Aktivität vorsieht, nicht am Ende als Zugabe.
 
-## Sequenzieren Sie das Design, erlauben Sie nicht nur das Werkzeug
+**5.** Halten Sie das Werkzeug zurück, solange sich eine Fähigkeit bildet, und geben Sie es an einem Prüfpunkt wieder frei, den die studierende Person nicht fälschen kann.
 
-[[learning-paths-patterns-learning-design-2026|Divjak, Svetec und Horvat]] analysierten die geplante Sequenz von 29.064 Lehr- und Lernaktivitäten über 554 Kurse und fanden eine sichtbare Designgrammatik: Aktivitäten vom Aneignungstyp sind der häufigste Einstiegspunkt und der größte Einzeltyp (über 20%), der Lerntyp folgt der beabsichtigten Bloom-Stufe (Aneignung fallend von ~50% auf Stufe 1 zu ~20% auf Stufe 6, Produktion steigend über 20% auf Stufen 5–6), und der stärkste Übergang ist Assessment → Diskussion (0.332). Zwei Lehren für KI-Design: KI gehört dorthin, wo die Sequenz einen spezifischen Aktivitätstyp beabsichtigt, statt am Ende angeflanscht, und weil Feedback mit [[collaborative-learning|Kollaboration]], [[group-work|Gruppenarbeit]] und [[teacher-role|Lehrkraft]]präsenz gehäuft auftrat, erzeugen Peer- und synchrone Strukturen die [[feedback]]-Momente, in die sich KI-Unterstützung einhängen sollte, statt sie zu ersetzen.
+## Entscheiden Sie, was die lernende Person ohne das Werkzeug tut
 
-[[refrain-amplify-genai-curriculum-2026|Torres-Sahlis und Kollegens „erst zurückhalten, dann verstärken"-Framework]] schiebt das auf Programmebene: halten Sie ein generatives Werkzeug zurück, während sich eine Fähigkeit bildet, und stellen Sie es wieder her, sobald der Student es leiten, beurteilen, was es zurückgibt, und dafür einstehen kann, mit einer schwer zu fälschenden Kontrolle an jedem Scharnier. Geräte werden über ein bildendes-versus-[[cognitive-offloading|auslagerndes]]-Kriterium gesteuert – erlaubt, wo sie engagierte Arbeit unterstützen, ausgeschlossen, wo sie Aufmerksamkeit abziehen. Das verwandelt Auslagerungsentscheidungen in eine [[curriculum-design|Curriculum]]- und [[governance]]-Frage, die Kurs-Design vorhergeht statt ihm zu folgen.
+Das Konzept [[pedagogy|Pädagogik und Lehrstrategien]] der Wissensbasis liefert den Test: Erhält die Konfiguration die Aktivität, die das beabsichtigte Lernen erzeugt? Beantworten Sie das auf Papier, bevor jemand eine Funktion auswählt.
 
-## Konstruktive Abstimmung kommt zuerst
+[[finkelstein-principled-ai-education-2025|The Principled AI Education Framework]] formuliert die allgemeine Regel: Technologie sollte die menschlichen Fähigkeiten erweitern, die Bildung entwickeln will, statt sie zu verdrängen. Als Test für ein Modul formuliert heißt das: die Fähigkeit benennen, die Aktivität benennen, die sie aufbaut, und fragen, ob die KI innerhalb dieser Aktivität sitzt oder daneben.
 
-[[mcinnes-salvaging-constructive-alignment-genai-2026|McInnes und Kollegens Diskursanalyse]] von 14 Stücken Hochschulanleitung warnt, dass effizienzgerahmte Ratschläge – generative KI zu nutzen, um Ergebnisse, Rubriken und Kursgliederungen zu entwerfen –, Abstimmung erzeugen, die *abgestimmt aussieht*, während sie die „konstruktive" Hälfte vernachlässigt: Ergebnisse, Aktivitäten und [[assessment]] als diskrete Posten statt als voneinander abhängige generiert. Ihr Gegenmittel ist Resequenzierung, nicht Verbot: Pädagogische Fachkräfte sollten konstruktive Abstimmung gut genug verstehen, um KI-Ausgaben zu leiten, zu befragen und abzulehnen, bevor sie irgendeinen Teil davon auslagern, weil eine auf Plausibilität gegründete Oberflächenakzeptanz-Gewohnheit dasselbe Bewertungsversagen ist, vor dem Lehrende Studierende warnen. Wo KI genutzt wird, argumentieren sie für institutionell begrenzte, [[rag|retrieval-gestützte]] Systeme, die um lokale Richtlinien und Qualitätsstandards konfiguriert sind, statt um generische internet-trainierte Standards.
+## Setzen Sie den Versuch vor die Hilfe
 
-## Das breitere Prinzip
+Das Standardmuster, das den Kontakt mit einer echten Klasse übersteht: **Lernende versuchen, KI unterstützt, Lernende bewerten oder überarbeiten, Lernende zeigen Verständnis.**
 
-Das breitere Prinzip in [[finkelstein-principled-ai-education-2025|dem Principled AI Education Framework]] ist, dass Technologie menschliche Fähigkeiten, die Bildung zu entwickeln beabsichtigt, erweitern statt verdrängen sollte. Siehe auch [[learning-design|Instruktionsdesign]], [[active-learning|aktives Lernen]] und [[scaffolding]].
+In der Praxis heißt das, eine erste Vermutung oder Lösung zu verlangen, bevor irgendeine Unterstützung erscheint, und Fragen, Hinweise, Beispiele, Gegenargumente und [[feedback|Feedback]] gegenüber sofortiger Komplettierung zu bevorzugen. Erhalten Sie [[productive-failure|produktives Scheitern]], wo es dem Lernen dient. Verlangen Sie die Verifikation folgenreicher Aussagen, bauen Sie Erklärung und [[learning-by-teaching|Rückerklären]] ein, und blenden Sie die Unterstützung aus, während die Kompetenz wächst. Halten Sie etwas Arbeit ohne KI bereit, damit Lernende kalibrieren können, was sie allein können.
 
-Für die pädagogischen Standards, die entscheiden, ob eine designede Interaktion Lernen erhält, siehe [[reduce-ai-cheating]] und [[redesign-assessment-ai-era]]; dafür, wie dieselben Prinzipien die Software selbst beschränken, siehe [[designing-educational-ai-software]], und für ihre Übersetzung in die Architektur eines Tutors siehe [[developing-ai-tutor]].
+Die Synthese [[reducing-ai-misuse|Reducing AI Misuse]] empfiehlt dieselbe Form als Sequenz aus erst denken, dann KI, dann reflektieren, mit bewussten Evaluationsprüfpunkten.
 
+## Benennen Sie den Modus, für den Sie gestalten
+
+[[thermomix-genai-education-analogy-2026|Rummel, Nachtigall und Panaderos Küchenmaschinen-Analogie]] verschiebt die Frage davon, ob Lernende [[generative-ai|generative KI]] nutzen, dahin, wie diese Nutzung prägt, was aus ihnen wird. Auf [[icap-framework|ICAP]] und [[samr-model|SAMR]] abgebildet ergibt das eine Leiter. Eine Aufgabe vollständig auszulagern, ohne Überarbeitung oder [[critical-thinking|kritische Auseinandersetzung]], ist passive Substitution und riskiert [[cognitive-offloading|Kompetenzverlust und Überabhängigkeit]]. [[prompt-engineering|Prompts zu verfeinern]] und Ausgaben gegenzuprüfen verlangt [[prior-knowledge|Vorwissen]] und [[self-regulated-learning|Selbstregulation]], was aktiv oder Augmentation ist. KI zum Brainstorming, Gliedern und Bewerten eigener Arbeit zu nutzen ist konstruktiv oder Modifikation. KI als echter Dialogpartner für Ko-Konstruktion und adaptives Feedback ist interaktiv oder Neubelegung.
+
+Die Implikation ist direkt. Dasselbe Werkzeug ist auf einer Sprosse eine Umgehung und auf der nächsten ein [[scaffolding|Gerüst]], das Designdokument sollte den beabsichtigten Modus also benennen.
+
+## Platzieren Sie es dort, wo die Sequenz eine Aktivität vorsieht
+
+[[learning-paths-patterns-learning-design-2026|Divjak, Svetec und Horvat]] analysierten die geplante Sequenz von 29.064 Lehr- und Lernaktivitäten über 554 Kurse und fanden eine sichtbare Designgrammatik. Aktivitäten des Typs Aneignung sind der häufigste Einstiegspunkt und der größte Einzeltyp, über 20%. Der Lerntyp folgt dem beabsichtigten Bloom-Niveau, wobei Aneignung von etwa 50% auf Niveau 1 auf etwa 20% auf Niveau 6 fällt und Produktion auf den Niveaus 5 und 6 über 20% steigt. Der stärkste Übergang in den Daten ist Prüfung zu Diskussion, bei 0.332.
+
+Zwei Lehren folgen daraus für das KI-Design. Setzen Sie das Werkzeug dorthin, wo die Sequenz einen Aktivitätstyp vorsieht. Und weil Feedback sich mit [[collaborative-learning|Kollaboration]], [[group-work|Gruppenarbeit]] und der Präsenz der [[teacher-role|Lehrperson]] clusterte, sind Peer- und synchrone Strukturen die Orte, an denen KI-Unterstützung andocken sollte, nicht die, die sie ersetzen sollte.
+
+## Entscheiden Sie, was Sie zurückhalten, und wann Sie es wieder freigeben
+
+[[refrain-amplify-genai-curriculum-2026|Torres-Sahli und Kolleginnen und Kollegen mit ihrem „refrain, then amplify"-Framework]] heben das auf die Programmebene. Halten Sie ein generatives Werkzeug zurück, solange sich eine Fähigkeit bildet, und geben Sie es wieder frei, sobald die studierende Person es anleiten, beurteilen, was es zurückgibt, und dafür einstehen kann, mit einem schwer zu fälschenden Prüfpunkt an jedem Übergang.
+
+Geräte werden nach einem Kriterium von Bilden gegenüber [[cognitive-offloading|Entlasten]] gesteuert: erlaubt, wo sie engagierte Arbeit unterstützen, ausgeschlossen, wo sie Aufmerksamkeit abziehen. Das macht Entlastungsentscheidungen zu einer Frage von [[curriculum-design|Curriculum]] und [[governance|Governance]], die vor dem Design auf Kursebene kommt und nicht danach.
+
+## Prüfen Sie, ob die Ausrichtung real ist
+
+[[mcinnes-salvaging-constructive-alignment-genai-2026|McInnes und Kolleginnen und Kollegen mit ihrer Diskursanalyse]] von 14 Stücken hochschuldidaktischer Handreichungen warnen, dass effizienzgerahmte Ratschläge, etwa generative KI zum Entwerfen von Lernzielen, Rubriken und Kursumrissen zu nutzen, eine [[assessment|Ausrichtung]] erzeugen, die ausgerichtet aussieht und dabei die konstruktive Hälfte vernachlässigt. Lernziele, Aktivitäten und Prüfungen werden als diskrete Posten generiert statt als voneinander abhängige.
+
+Ihr Gegenmittel ist Neusequenzierung. Lehrende sollten konstruktive Ausrichtung gut genug verstehen, um KI-Ausgaben anleiten, hinterfragen und zurückweisen zu können, bevor sie irgendeinen Teil davon delegieren, denn eine plausible Oberfläche zu akzeptieren ist derselbe Bewertungsfehler, vor dem Lehrende Studierende warnen. Wo KI genutzt wird, plädieren sie für institutionell begrenzte, [[rag|retrieval-augmentierte]] Systeme, die um lokale Richtlinien und Qualitätsstandards herum konfiguriert sind, statt um allgemeine, im Internet trainierte Voreinstellungen.
+
+## Was Instructional Designer falsch machen
+
+Die KI hinzuzufügen gilt als die Intervention. Was das Lernen verändert, ist die Aktivität, die die studierende Person ausführt, und die KI ist ein Teil des Settings dafür. Ein gut platzierter Hinweis und eine gut platzierte Antwort können auf demselben Modell laufen und entgegengesetztes Lernen erzeugen.
+
+Die Erlaubnis zu schreiben ist die Designarbeit. Eine Erlaubnis legt fest, was zulässig ist. Sie legt nicht die Sequenz, den Modus oder den Prüfpunkt fest, und diese drei entscheiden, ob die Aktivität überlebt.
+
+Effizienz ist das Ziel der Neugestaltung. Lernziele und Rubriken mit einem Modell zu entwerfen ist schnell, und die Analyse von 14 Dokumenten fand, dass das Ergebnis ausgerichtet aussehen kann, während die Teile aufhören, einander zu stützen.
+
+## Was Ihnen entgegenkommen wird
+
+**„Die Studierenden werden es sowieso nutzen, also ist es naiv, darum herum zu gestalten."** Das werden sie, und das ist das Argument dafür, den Modus zu spezifizieren und ihn zu lehren. Ein Modul, das den Modus benennt, gibt einer studierenden Person etwas, dem sie folgen kann.
+
+**„Wir haben keine Zeit, einen ganzen Kurs neu zu sequenzieren."** Dann sequenzieren Sie ein Modul und eine Prüfung neu. Der Übergang von Zurückhalten zu Verstärken ist ein Prüfpunkt, und die Sequenz aus erst denken, dann KI sind drei Anweisungen auf einem Handout.
+
+**„Unsere KI-Funktion enthält bereits Leitplanken."** Leitplanken beschränken, was das Modell sagt. Sie entscheiden nicht, ob die lernende Person zuerst einen Versuch gemacht hat, ob die Unterstützung ausblendet oder ob ein Weg ohne KI existiert. Das sind Designentscheidungen in Ihrem Kurs, nicht Einstellungen im Produkt.
+
+## Was Sie diese Woche tun können
+
+**1.** Schreiben Sie den Satz zur Leistung ohne Unterstützung für das Modul und setzen Sie ihn über die Aktivitätenliste.
+
+**2.** Markieren Sie den beabsichtigten ICAP-Modus neben jeder KI-Aktivität in der Übersicht.
+
+**3.** Verschieben Sie eine KI-Aktivität so, dass die lernende Person das Problem zuerst versucht.
+
+**4.** Wählen Sie einen Weg ohne KI durch das Modul und kennzeichnen Sie ihn für Studierende.
+
+**5.** Benennen Sie einen Übergang, an dem das Werkzeug zurückgehalten wird, und den Prüfpunkt, der es wieder freigibt.
+
+## Wohin als Nächstes
+
+[[learning-design|Instructional Design]], [[active-learning|Aktives Lernen]] und [[scaffolding]] liefern das Designvokabular. Zu den Voreinstellungen auf Interaktionsebene, die entscheiden, ob eine gestaltete Aktivität das Lernen erhält, siehe [[reduce-ai-cheating]] und [[redesign-assessment-ai-era]]. [[designing-educational-ai-software]] behandelt, wie dieselben Prinzipien die Software selbst beschränken, und [[developing-ai-tutor]] übersetzt sie in die Architektur eines Tutors.

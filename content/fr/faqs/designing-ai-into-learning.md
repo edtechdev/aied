@@ -1,16 +1,20 @@
 ---
 title: "Comment l'IA doit-elle être conçue dans l'expérience d'apprentissage ?"
 created: "2026-09-22T12:00:00-04:00"
-updated: "2026-10-24T10:43:44-04:00"
+updated: "2026-10-29T08:08:36-04:00"
 weight: 72
 audience: [instructional designers, instructors]
 foundations: [learning-design, reducing-ai-misuse]
 pedagogy: [active-learning, pedagogy, scaffolding]
-source_updated: "2026-10-21T14:32:00-04:00"
+source_updated: "2026-10-28T11:26:02-04:00"
 translation_of: faqs/designing-ai-into-learning
 translation_note: "Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-29"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-22"
@@ -20,40 +24,91 @@ ai_assist:
     date: "2026-10-09"
     agent: hermes-agent
 ---
+
 *Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle.*
 
-**Partez de l'objectif et du processus d'apprentissage, et non de la fonctionnalité d'IA.** Le concept de [[pedagogy|pédagogies et stratégies d'enseignement]] de la base de connaissances souligne qu'une même IA peut servir d'appui, d'interlocuteur [[socratic-method|socratique]], de partenaire de rétroaction, de [[simulation]] ou de générateur de réponses selon la conception pédagogique. Ce qui compte, c'est de savoir si la configuration préserve l'activité qui produit l'apprentissage visé.
+Le plan du module comporte une ligne intitulée « activité IA » et personne ne sait ce qu'elle remplace. Ou bien un enseignant a demandé d'ajouter un agent conversationnel à un cours qui fonctionne déjà, et votre travail consiste à le placer sans casser ce qui faisait fonctionner ce cours.
 
-## Un schéma par défaut solide
+Partez de l'objectif d'apprentissage et de l'activité qui le produit. Le même modèle peut être un étayage, un partenaire [[socratic-method|socratique]], un lecteur de brouillons, une [[simulation]] ou une machine à réponses, et celui que vous obtenez dépend de la conception plutôt que du modèle. Nommez le mode que vous construisez, placez la tentative de l'apprenant avant que l'aide n'apparaisse, et conservez au moins un parcours dans le cours qui fonctionne sans l'outil.
 
-Un schéma par défaut solide est le suivant : **l'apprenant essaie → l'IA soutient → l'apprenant évalue ou révise → l'apprenant démontre sa compréhension.** Plus concrètement :
+## La version courte
 
-- Préserver l'[[productive-failure|échec productif]] lorsqu'il sert l'apprentissage.
-- Demander une prédiction ou une solution initiale avant d'afficher l'aide de l'IA.
-- Privilégier les questions, les indices, les exemples, les contre-arguments et la rétroaction plutôt que l'achèvement immédiat.
-- Exiger la vérification des affirmations qui ont des conséquences.
-- Intégrer des occasions d'expliquer et d'[[learning-by-teaching|enseigner pour apprendre]].
-- Réduire progressivement le soutien à mesure que la compétence se développe.
-- Conserver quelques occasions sans IA pour que les apprenants puissent évaluer ce qu'ils savent faire seuls.
+**1.** Écrivez la phrase sur ce que les apprenants sauront faire ensuite sans l'outil, et vérifiez chaque fonction d'IA à son aune.
 
-La synthèse [[reducing-ai-misuse|Réduire les mésusages de l'IA]] recommande précisément des séquences « réfléchir d'abord, IA ensuite, revenir sur son travail » et des points de contrôle délibérés de l'évaluation.
+**2.** Séquencez l'interaction : l'apprenant tente, l'IA soutient, l'apprenant évalue ou révise, l'apprenant démontre.
 
-## Adapter le rôle de l'IA au niveau d'engagement cognitif
+**3.** Nommez le mode sur l'échelle ICAP. Contournement et étayage peuvent être le même outil à des barreaux différents.
 
-[[thermomix-genai-education-analogy-2026|l'analogie de la machine de cuisine de Rummel, Nachtigall et Panadero]] reformule la question de conception : au lieu de se demander *si* les apprenants utilisent l'[[generative-ai|IA générative]], elle demande *comment* cet usage façonne ce qu'ils deviennent. La transposition de quatre usages d'un appareil de cuisine connecté à des cas d'apprentissage, à travers les cadres [[icap-framework|ICAP]] et [[samr-model|SAMR]], donne une échelle de conception : externaliser entièrement un travail, sans révision ni [[critical-thinking|engagement critique]], relève de la substitution passive et fait courir le risque d'une [[cognitive-offloading|perte de compétences et d'une dépendance excessive]] ; affiner les [[prompt-engineering|invites]] et vérifier les productions par recoupement exige des [[prior-knowledge|connaissances préalables]] et de l'[[self-regulated-learning|autorégulation]] (actif / augmentation) ; utiliser l'IA pour produire des idées, structurer et évaluer un travail original relève du constructif / de la modification ; et l'IA comme véritable partenaire de dialogue pour la co-construction et une [[feedback|rétroaction]] adaptative relève de l'interactif / de la redéfinition. L'implication pour la conception est directe : le même outil permet de contourner l'activité à un barreau de l'échelle et de l'étayer au suivant. Il faut donc préciser le mode visé plutôt que d'accorder un accès général.
+**4.** Placez l'IA là où la séquence du cours prévoit déjà une activité précise, non à la fin comme un bonus.
 
-## Séquencer la conception, ne pas se contenter d'autoriser l'outil
+**5.** Retirez l'outil pendant qu'une capacité se forme, puis rétablissez-le à un point de contrôle que l'étudiant ne peut pas simuler.
 
-[[learning-paths-patterns-learning-design-2026|Divjak, Svetec et Horvat]] ont analysé la séquence prévue de 29 064 activités d'enseignement et d'apprentissage dans 554 cours et ont mis au jour une grammaire de conception visible : les activités de type acquisition constituent le point d'entrée le plus courant et le plus grand type isolé (plus de 20 %), le type d'apprentissage suit le niveau visé de Bloom (l'acquisition passe d'environ 50 % au niveau 1 à environ 20 % au niveau 6, la production dépasse 20 % aux niveaux 5 et 6) et la transition la plus forte est évaluation → discussion (0,332). Deux enseignements pour la conception avec l'IA : l'IA a sa place là où la séquence prévoit un type d'activité précis, et non ajoutée en fin de parcours ; et parce que la rétroaction apparaissait groupée avec la [[collaborative-learning|collaboration]], le [[group-work|travail en groupe]] et la présence de l'[[teacher-role|enseignant]], les dispositifs entre pairs et synchrones créent les moments de [[feedback|rétroaction]] dans lesquels le soutien de l'IA doit s'insérer plutôt que les remplacer.
+## Décider ce que l'apprenant fait sans l'outil
 
-[[refrain-amplify-genai-curriculum-2026|le cadre « retenir, puis amplifier » de Torres-Sahli et de ses collègues]] porte cette logique au niveau du programme : retenir un outil génératif tant qu'une capacité se forme, puis le rétablir une fois que l'étudiant sait le diriger, juger ce qu'il lui renvoie et en répondre, avec à chaque bascule un point de contrôle difficile à falsifier. Les appareils sont régis par un critère qui distingue la formation de la [[cognitive-offloading|décharge cognitive]] : ils sont autorisés là où ils soutiennent un travail engageant, exclus là où ils captent l'attention. Cela transforme les décisions de décharge en une question de [[curriculum-design|programme]] et de [[governance|gouvernance]] qui précède, et ne suit pas, la conception à l'échelle du cours.
+La notion de [[pedagogy|Pedagogies and Teaching Strategies]] de la base de connaissances fournit le test : la configuration préserve-t-elle l'activité qui produit l'apprentissage visé ? Répondez par écrit, avant que quiconque choisisse une fonctionnalité.
 
-## L'alignement constructif vient en premier
+[[finkelstein-principled-ai-education-2025|The Principled AI Education Framework]] énonce la règle générale : la technologie devrait augmenter plutôt que déplacer les capacités humaines que l'éducation entend développer. Formulée comme test pour un module, cela signifie nommer la capacité, nommer l'activité qui la construit, et demander si l'IA se trouve à l'intérieur de cette activité ou à côté.
 
-[[mcinnes-salvaging-constructive-alignment-genai-2026|l'analyse de discours de McInnes et de ses collègues]] portant sur 14 textes d'orientation pour l'enseignement supérieur avertit que les conseils formulés en termes d'efficacité, qui consistent à utiliser l'IA générative pour rédiger les acquis, les grilles d'évaluation et les plans de cours, produisent un alignement qui *semble* aligné tout en négligeant la moitié « constructive » : des acquis, des activités et une [[assessment|évaluation]] générés comme des éléments distincts plutôt qu'interdépendants. Leur remède est une re-séquence, non une interdiction : les enseignants devraient comprendre l'alignement constructif assez bien pour orienter, interroger et rejeter les productions de l'IA avant de leur déléguer la moindre part, car une habitude d'acceptation superficielle fondée sur la plausibilité constitue exactement le défaut d'évaluation contre lequel ils mettent en garde leurs étudiants. Là où l'IA est utilisée, ils plaident pour des systèmes encadrés par l'institution et [[rag|augmentés par la recherche documentaire]], configurés selon les politiques et les normes de qualité locales plutôt que selon des réglages génériques entraînés sur l'internet.
+## Placer la tentative avant l'aide
 
-## Le principe plus général
+Le schéma par défaut qui résiste au contact d'une classe réelle : **l'apprenant tente, l'IA soutient, l'apprenant évalue ou révise, l'apprenant démontre sa compréhension.**
 
-Le principe plus général du [[finkelstein-principled-ai-education-2025|cadre Principled AI Education Framework]] veut que la technologie augmente, plutôt qu'elle ne remplace, les capacités humaines que l'éducation cherche à développer. Voir aussi [[learning-design|conception pédagogique]], [[active-learning|apprentissage actif]] et [[scaffolding|étayage]].
+En pratique, cela signifie demander une prédiction ou une solution initiale avant que toute assistance apparaisse, et privilégier les questions, les indices, les exemples, les contre-arguments et la [[feedback|rétroaction]] plutôt que l'achèvement immédiat. Préservez l'[[productive-failure|échec productif]] là où il sert l'apprentissage. Exigez la vérification des affirmations lourdes de conséquences, intégrez l'explication et le [[learning-by-teaching|rappel par l'enseignement]], et estompez l'aide à mesure que la compétence grandit. Conservez du travail sans IA pour que les apprenants puissent calibrer ce qu'ils savent faire seuls.
 
-Pour les réglages pédagogiques par défaut qui déterminent si une interaction conçue préserve l'apprentissage, voir [[reduce-ai-cheating]] et [[redesign-assessment-ai-era]] ; pour la manière dont les mêmes principes contraignent le logiciel lui-même, voir [[designing-educational-ai-software]], et pour leur transposition dans l'architecture d'un tuteur, voir [[developing-ai-tutor]].
+La synthèse [[reducing-ai-misuse|Reducing AI Misuse]] recommande la même forme : une séquence réflexion d'abord, IA ensuite, puis retour réflexif, avec des points de contrôle délibérés pour l'évaluation.
+
+## Nommer le mode pour lequel vous concevez
+
+[[thermomix-genai-education-analogy-2026|L'analogie du robot de cuisine de Rummel, Nachtigall et Panadero]] déplace la question : non pas si les apprenants utilisent l'[[generative-ai|IA générative]], mais comment cet usage façonne ce qu'ils deviennent. Projetée sur [[icap-framework|ICAP]] et [[samr-model|SAMR]], elle donne une échelle. Externaliser entièrement un travail sans révision ni [[critical-thinking|engagement critique]] est une substitution passive, et cela risque la [[cognitive-offloading|perte de compétence et la dépendance excessive]]. [[prompt-engineering|Affiner les invites]] et recouper les sorties mobilise des [[prior-knowledge|connaissances préalables]] et de l'[[self-regulated-learning|autorégulation]], ce qui correspond à l'actif ou à l'augmentation. Utiliser l'IA pour remuer des idées, esquisser et évaluer un travail original est constructif ou une modification. L'IA comme véritable partenaire de dialogue pour la co-construction et une rétroaction adaptative est interactif ou une redéfinition.
+
+L'implication est directe. Le même outil est un contournement à un barreau et un [[scaffolding|étayage]] au suivant, si bien que le document de conception doit nommer le mode visé.
+
+## Le placer là où la séquence prévoit une activité
+
+[[learning-paths-patterns-learning-design-2026|Divjak, Svetec et Horvat]] ont analysé la séquence prévue de 29.064 activités d'enseignement et d'apprentissage dans 554 cours et ont trouvé une grammaire de conception visible. Les activités de type acquisition sont le point d'entrée le plus fréquent et le plus grand type unique, au-dessus de 20%. Le type d'apprentissage suit le niveau de Bloom visé, l'acquisition passant d'environ 50% au niveau 1 à environ 20% au niveau 6, et la production dépassant 20% aux niveaux 5 et 6. La transition la plus forte des données est celle de l'évaluation vers la discussion, à 0.332.
+
+Deux leçons en découlent pour la conception de l'IA. Placez l'outil là où la séquence prévoit un type d'activité. Et comme la rétroaction se regroupait avec la [[collaborative-learning|collaboration]], le [[group-work|travail de groupe]] et la présence du [[teacher-role|enseignant]], les structures entre pairs et synchrones sont l'endroit où le soutien de l'IA doit se brancher, non celui où elle doit se substituer.
+
+## Décider ce qu'il faut retirer, et quand le rétablir
+
+[[refrain-amplify-genai-curriculum-2026|Le cadre « retenir, puis amplifier » de Torres-Sahli et de ses collègues]] porte cela au niveau du programme. Retirez un outil génératif pendant qu'une capacité se forme, puis rétablissez-le une fois que l'étudiant sait le piloter, juger ce qu'il renvoie et en répondre, avec un point de contrôle difficile à simuler à chaque articulation.
+
+Les dispositifs sont régis par un critère de formation contre [[cognitive-offloading|décharge]] : autorisés là où ils soutiennent un travail engagé, exclus là où ils drainent l'attention. Cela transforme les décisions de décharge en une question de [[curriculum-design|programme]] et de [[governance|gouvernance]] qui précède la conception au niveau du cours plutôt que de la suivre.
+
+## Vérifier que l'alignement est réel
+
+[[mcinnes-salvaging-constructive-alignment-genai-2026|L'analyse de discours de McInnes et de ses collègues]] portant sur 14 documents d'orientation de l'enseignement supérieur avertit que des conseils formulés en termes d'efficacité, comme l'usage de l'IA générative pour rédiger des objectifs, des grilles d'évaluation et des plans de cours, produisent un [[assessment|alignement]] qui paraît aligné tout en négligeant la moitié constructive. Les objectifs, les activités et les évaluations sont générés comme des éléments distincts plutôt que comme des éléments interdépendants.
+
+Leur remède est le reséquençage. Les enseignants devraient comprendre l'alignement constructif assez bien pour piloter, interroger et rejeter une sortie d'IA avant d'en déléguer une partie, car accepter une surface plausible est exactement la défaillance évaluative contre laquelle ils mettent leurs étudiants en garde. Là où l'IA est utilisée, ils plaident pour des systèmes [[rag|augmentés par récupération]] et bornés par l'institution, configurés selon les politiques et les normes de qualité locales plutôt que selon des réglages génériques entraînés sur internet.
+
+## Ce que les concepteurs pédagogiques comprennent mal
+
+Ajouter l'IA compte comme l'intervention. Ce qui change l'apprentissage est l'activité que l'étudiant accomplit, et l'IA n'est qu'une partie du dispositif. Un indice bien placé et une réponse bien placée peuvent tourner sur le même modèle et produire des apprentissages opposés.
+
+Rédiger l'autorisation, c'est le travail de conception. Une autorisation fixe ce qui est permis. Elle ne fixe ni la séquence, ni le mode, ni le point de contrôle, et ces trois éléments décident si l'activité survit.
+
+L'efficacité est le but de la refonte. Rédiger des objectifs et des grilles avec un modèle est rapide, et l'analyse des 14 documents a constaté que le résultat peut paraître aligné alors que les parties cessent de se soutenir mutuellement.
+
+## Ce qui va vous revenir
+
+**« Les étudiants l'utiliseront de toute façon, donc concevoir autour est naïf. »** Ils l'utiliseront, et c'est l'argument pour spécifier le mode et l'enseigner. Un module qui nomme le mode donne à l'étudiant quelque chose à respecter.
+
+**« Nous n'avons pas le temps de reséquencer tout un cours. »** Alors reséquencez un module et une évaluation. L'articulation « retenir puis amplifier » est un point de contrôle, et la séquence réflexion d'abord tient en trois consignes sur une feuille.
+
+**« Notre fonction d'IA comporte déjà des garde-fous. »** Les garde-fous contraignent ce que dit le modèle. Ils ne décident pas si l'apprenant a tenté d'abord, si l'aide s'estompe ou s'il existe un parcours sans IA. Ce sont des décisions de conception dans votre cours, non des réglages dans le produit.
+
+## Que faire cette semaine
+
+**1.** Rédigez la phrase sur la performance sans aide pour le module et placez-la au-dessus de la liste des activités.
+
+**2.** Marquez le mode ICAP visé à côté de chaque activité d'IA dans le plan.
+
+**3.** Déplacez une activité d'IA pour que l'apprenant tente le problème d'abord.
+
+**4.** Choisissez un parcours sans IA dans le module et signalez-le aux étudiants.
+
+**5.** Nommez une articulation où l'outil est retiré, et le point de contrôle qui le rétablit.
+
+## Où aller ensuite
+
+[[learning-design|Instructional Design]], [[active-learning|Active Learning]] et [[scaffolding]] portent le vocabulaire de la conception. Pour les valeurs par défaut au niveau de l'interaction qui décident si une activité conçue préserve l'apprentissage, voir [[reduce-ai-cheating]] et [[redesign-assessment-ai-era]]. [[designing-educational-ai-software]] couvre la façon dont les mêmes principes contraignent le logiciel lui-même, et [[developing-ai-tutor]] les traduit dans l'architecture d'un tuteur.

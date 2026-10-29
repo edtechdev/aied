@@ -8,10 +8,14 @@ assessment: [educational-measurement]
 research_method: [literature review]
 level: [higher ed]
 translation_of: faqs/ai-literacy-evidence
-source_updated: "2026-10-02T08:21:34-04:00"
+source_updated: "2026-10-28T11:47:13-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-29"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
@@ -20,104 +24,106 @@ ai_assist:
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
 
-# Yükseköğretimde YZ Okuryazarlığı Müdahalelerine İlişkin Kanıtlar Nedir?
+Rektörlük ofisi gelecek güze kadar her lisans programında bir YZ okuryazarlığı çıktısı istiyor ve masadaki plan iki saatlik bir atölye artı bir kütüphane eğitim modülü. Ya da kurumunuzda "YZ okuryazarlığı" bir hibeyle finanse edildi ve ilk komite toplantısı bununla ne satın alınacağı hakkında. Odadaki biri öğrencilerin sonrasında ne yapabileceğini soracak ve bunu belirleyen şey bir tasarım savı.
 
-[[ai-literacy|YZ okuryazarlığı]] müdahalelerine ve [[higher-ed|yükseköğretime]] ilişkin kanıtlar **umut verici, ancak yöntemsel olarak hâlâ olgunlaşmamıştır**. Bilgi tabanı boyunca en güçlü yinelenen bulgu, YZ okuryazarlığının — özellikle eleştiri, karşılaştırma, yansıtma ve iş birliğiyle — **etkin, bağlama yerleştirilmiş YZ pratiği yoluyla, yalnızca araç gösterileri veya derslerden daha etkili biçimde geliştiğidir**. Bununla birlikte, nispeten az sayıda çalışma kalıcı, bağımsız olarak gösterilmiş bir yetkinliği ölçmektedir; birçoğu [[self-regulated-learning|öz bildirim]], kısa süreli müdahaleler, gözlemsel karşılaştırmalar veya [[design-based-research|tasarım temelli araştırma]] üzerine dayanmaktadır.
+O oda için yanıt ve [[higher-ed|yükseköğretimde]] kanıtın durumu şu: okuryazarlık, öğrenciler gerçek bir disiplin görevi içinde YZ çıktısını tekrar tekrar ve akranlarıyla eleştirdiğinde büyür, onlara aracın ne yaptığı gösterildiğinde en az büyür. Müdahale yazınının ortalaması büyük; bu ortalamanın etrafındaki yayılım daha da geniş, yani konunuzdan çok tasarımınız belirleyici. Güven anketleri kabulü ölçer. Okuryazarlık iddia edecekseniz bir performansı test edin.
 
-Müdahale literatürü birkaç tasarım ilkesinde birleşmektedir.
+## Kısa özet
 
-## Niceliksel genel tablo
+**1.** Okuryazarlığı öğrencilerin zaten aldığı bir dersin, zaten not aldıkları işin içine koyun.
 
-[[liu-ai-literacy-interventions-meta-analysis-2026|59 ampirik çalışmanın üç düzeyli meta analizi]] (172 etki büyüklüğü, 7.211 katılımcı) alanın en net [[quantitative-research|nicel]] tahminini sunmaktadır: YZ okuryazarlığı müdahaleleri **genel olarak büyük bir etki gösterir (g = 0.837, p < .001)** — ancak [−0.292, 1.966] aralığında geniş bir %95 tahmin aralığıyla, yani etkililik ortamlar arasında önemli ölçüde değişir ve tek tip biçimde genellenemeyebilir. İki aracı değişken anlamlı bulunmuştur: **Doğu Asya ve Avrupa'daki müdahaleler Kuzey Amerika'dakilerden daha iyi performans göstermiştir** ve **bilgi odaklı müdahaleler, beceri, tutum veya etik odaklı olanlardan daha iyi performans göstermiştir**. Karma veya yansıtıcı pedagojiler, GenAI destekli araçlar ve performans görevi sonuçları için daha büyük (ancak anlamlı olmayan) etkiler görülmüştür. Yazarlar, YZ okuryazarlığı eğitiminin bu nedenle bilgi ötesine, becerilere, uygulamalara, etiğe ve tutumlara — entegre ve yansıtıcı pedagojiler ve GenAI destekli araçlar yoluyla — yönelmesi gerektiğini ve [[culturally-relevant-pedagogy|kültürel olarak ilgili]], bağlama duyarlı müdahalenin gerektiğini savunmaktadır.([[liu-ai-literacy-interventions-meta-analysis-2026]])
+**2.** Modelin yanıtını görmeden önce kendi yanıtlarına bağlanmalarını sağlayın.
 
-Uygulayıcılar için iki sonuç önemlidir: (1) ölçtüğünüz sonuç, görünür etkiyi biçimlendirir — bilgi odaklı müdahaleler beceri, tutum veya etik odaklı olanlardan daha güçlü görünür, dolayısıyla gerçekten önemsediğiniz şeyi değerlendirin; ve (2) geniş tahmin aralığı, güçlü bir ortalamanın herhangi bir yerel ortamda güçlü bir etkiyi garanti etmediği anlamına gelir; bu, bağlama duyarlı tasarım gerekliliğini pekiştirir.
+**3.** Eleştiriyi, görev için zaten kullandığınız ölçütle puanlayın.
 
-## YZ'yi yalnızca çalıştırmak yerine eleştirmek
+**4.** Dönem boyunca birden fazla kez yürütün.
 
-Lisans psikolojisinde Richmond ve Nicholls, öğrencilerden kurs değerlendirme ölçeğine (rubriğine) göre bir [[generative-ai|ChatGPT]] tarafından üretilen basın bültenini notlandırmalarını, hataları belirlemelerini ve metni düzeltmelerini istemiştir. Öğrenciler genel olarak çıktının üslup açısından oldukça olgunlaşmış olduğunu ancak araştırma amaçlarını, yöntemlerini ve bulgularını doğru biçimde temsil etmediğini fark etmiştir. Önceki [[peer-assessment]] kohortuna kıyasla, YZ eleştirisi kohortunun sonraki metin düzeltmesinde biraz daha iyi performans göstermiştir (*d* = 0.36), ancak **son video üzerinde anlamlı bir avantaj yoktu**.
+**5.** Kanıt olarak bir performans görevini sayın, güven kazanımlarını ayrı bir satırda tutun.
 
-Bu, eleştiri temelli YZ okuryazarlığı için cesaret verici kanıtlar sunmaktadır, ancak tarihsel karşılaştırma güçlü bir nedensel sonuca izin vermemektedir.
+## Diziyi bir eleştirinin etrafında kurun
 
-Kaynak: [[richmond-nicholls-genai-psych-feedback-ai-literacies|Using Generative AI to Promote Psychological, Feedback, and AI Literacies in Undergraduate Psychology]].
+Bilgi tabanındaki en güçlü sınıf örneği lisans psikolojisinden geliyor. Richmond ve Nicholls öğrencilerden [[generative-ai|ChatGPT]] üretimi bir basın bültenini kendi ders ölçütlerine göre puanlamalarını, hataları adlandırmalarını ve metni gözden geçirmelerini istedi. Öğrenciler genellikle metnin cilalı olduğunu, içeriğin ise araştırmanın amaçlarını, yöntemlerini ve bulgularını yanlış sunduğunu gördü. Önceki [[peer-assessment|akran değerlendirmesi]] kohortuna kıyasla YZ eleştirisi grubu, ardından gelen senaryo revizyonunda ölçülü biçimde daha iyiydi (*d* = 0,36), final videosunda ise anlamlı bir avantaj yoktu ([[richmond-nicholls-genai-psych-feedback-ai-literacies]]).
 
-## Disiplinler arası çalışmalarda YZ okuryazarlığını yerleştirmek
+Bu örneklerin geldiği yazın kısa müdahalelere, [[self-regulated-learning|öz bildirime]] ve tasarım temelli çalışmaya yaslanıyor ve bu çalışma o sınırlardan ikisini taşıyor. Karşılaştırma tarihseldi, yani daha iyi hazırlanmış bir kohort da aynı örüntüyü üretirdi. Avantaj ayrıca ara üründe göründü ve bitmiş üründe kayboldu; eleştiri revizyonu öğrettiyse bekleyeceğiniz şey tam olarak budur.
 
-Beck ve Brodersen'in ekonomi yaklaşımında öğrenciler önce özgün bir ekonomi problemini kendileri çözer veya yorumlar, ardından ChatGPT'nin yanıtını alır, ikisini karşılaştırır, YZ'yi eleştirir, yansıtır ve akranlarıyla tartışır. Müdahale, YZ okuryazarlığını Think-Pair-Share gibi mevcut [[active-learning]] teknikleriyle birleştirmektedir.
+Beck ve Brodersen aynı hamleyi bir ekonomi dersine yerleştirdi: öğrenciler özgün bir sorunu kendileri çözer ya da yorumlar, sonra ChatGPT'nin yanıtını alır, ikisini karşılaştırır, YZ'yi eleştirir, yansıtır ve akranlarıyla tartışır. Tasarımları YZ okuryazarlığını dersin zaten yürüttüğü [[active-learning|etkin öğrenme]] rutinlerine, örneğin Düşün-Eşleş-Paylaş'a katıyor. Katkısı, bir deneyle değil sınıf kullanımıyla desteklenen aktarılabilir bir [[learning-design|öğretim tasarımı]] ([[beck-genai-literacy-economics-hands-on]]).
 
-Başlıca katkısı, güçlü deneysel öğrenme etkisi kanıtından ziyade aktarılabilir bir [[learning-design|öğretim tasarımı]] sunmasıdır.
+## Öğrencilerin zaten aldığı bir dersin içine koyun
 
-Kaynak: [[beck-genai-literacy-economics-hands-on|Fostering Generative AI Literacy in Economics]].
+Hingle ve Johri'nin [[meta-analysis-systematic-review|sistematik derlemesi]] YZ okuryazarlığı etkinliklerini [[icap-framework|ICAP çerçevesiyle]] sınıflandırıyor: edilgen maruz kalma, etkin işleme, yapıcı üretim ve etkileşimli ortak kurma. Müdahaleler dört kipin hepsinde görünüyor ve derleme YZ okuryazarlığını tek yönlü bir bilgilendirme oturumuna indirgemeye karşı çıkıyor ([[hingle-collaborative-ai-literacy-2025]]). Desteklediği uygulamalar bir ödeve yerleştirebileceğiniz uygulamalar: öğrenciler YZ çıktıları üretir, eleştirir, açıklar ve akranlarıyla tartışır.
 
-## Süregelen deneyimler, tek seferlik atölyeler yerine
+NC State **AI Literacy Continuum**, *Not Yet Engaged* ve *Uncritical Use*'tan *Informed Use*, *[[critical-thinking|Critical Evaluation]]* ve *Improvement*'a uzanan bir ilerleme tanımlıyor ve dersler ile atölyeler genelinde 330'dan fazla katılımcıyla uygulandı ([[ai-literacy-continuum-higher-education]]). Gözlemleri bir ayrışmaya işaret ediyor: kısa deneyimler öğrencileri bilinçli kullanıma doğru hareket ettirirken eleştirel değerlendirme ve iyileştirme ağırlıklı olarak sürekli, disiplin içine gömülü çalışmada göründü. Doğrulanmış bir ön test/son test ölçümü ve karşılaştırma grubu yoktu, yani bu uygulamaya dayalı kanıttır.
 
-NC State **AI Literacy Continuum**'u *Not Yet Engaged* ve *Uncritical Use* aşamalarından *Informed Use*, *[[critical-thinking|Critical Evaluation]]* ve *Improvement* aşamalarına ilerlemeyi tanımlamaktadır. Uygulaması kurslar ve atölyeler boyunca 330'u aşkın katılımcıyı kapsamıştır.
+Öğretmen eğitimi aynı tavanı farklı bir açıdan gösteriyor. Le ve ark.nın [[design-based-research|tasarım temelli]] müdahalesi 14 yüksek lisans öğrencisiyle pilot olarak uygulandı ve 29 [[teacher-education|öğretmen eğitimi]] öğrencisiyle değerlendirildi. Bildirilen YZ yeterliği [[self-efficacy|öz yeterliği]] arttı ve öğrenciler üretken YZ'ye daha eleştirel bir [[pedagogy|pedagojik]] bakışa kaydı, ancak etik kazanımları yalnızca marjinal anlamlılığa ulaştı. Böyle bir küçük tasarım temelli çalışma yeterlik ortaya koyamaz ([[genai-literacy-training-teacher-education-dbr-2026]]).
 
-Gözlemler, kısa süreli deneyimlerin öğrencileri bilgilendirilmiş kullanıma doğru hareket ettirebileceğini; oysa kritik değerlendirme ve iyileştirme kanıtlarının süregelen, disipline yerleştirilmiş deneyimlerde daha belirgin olduğunu göstermiştir. Ancak **doğrulanmış bir öncesi/sonrası ölçümü veya karşılaştırma grubu yoktu**, dolayısıyla bu nedensel olmaktan ziyade uygulamaya dayalı kanıttır.
+## Öğrencilerin ne yapabildiğini ölçün
 
-Kaynak: [[ai-literacy-continuum-higher-education|Beyond Tool Adoption: A Practical Five-Stage Developmental Continuum for AI Literacy in Higher Education]].
+[[liu-ai-literacy-interventions-meta-analysis-2026|59 çalışmalık üç düzeyli bir meta-analiz]] (172 etki büyüklüğü, 7.211 katılımcı) mevcut en net [[quantitative-research|nicel]] tahmini veriyor: büyük bir genel etki (g = 0,837, p < 0,001). %95 tahmin aralığı -0,292 ile 1,966 arasında uzanıyor; biri müdahalenin sizin programınızda işe yarayıp yaramayacağını sorduğunda alıntılanacak rakam budur. İki düzenleyici anlamlıydı. Doğu Asya ve Avrupa'daki müdahaleler Kuzey Amerika'dakilerden, bilgi odaklı müdahaleler ise beceri, tutum ya da etik odaklı olanlardan daha iyi performans gösterdi. Daha büyük ama anlamlı olmayan etkiler karma ya da yansıtıcı pedagojilerde, üretken YZ destekli araçlarda ve performans görevi çıktılarında göründü.
 
-## İşbirlikçi ve bilişsel olarak etkin tasarımlar
+Yazarlar kendi sonuçlarını bilgiden beceriye, pratiğe, etiğe ve tutuma geçmenin, bunu bütünleşik yansıtıcı pedagoji ve [[culturally-relevant-pedagogy|kültürel olarak ilgili]] tasarımla yapmanın savı olarak okuyor. Bir komite için iki çıkarım işi görür. Ölçtüğünüz çıktı bulduğunuz etkiyi biçimlendirir, yani gerçekten önemsediğiniz çıktıyı seçin. Bu kadar geniş bir tahmin aralığı yerel bir pilotu savunur.
 
-Hingle ve Johri'nin [[meta-analysis-systematic-review|sistematik derlemesi]], YZ okuryazarlığı etkinliklerini [[icap-framework|ICAP çerçevesini]] kullanarak düzenlemektedir: pasif maruz kalma, etkin işleme, yapıcı üretme ve etkileşimli birlikte inşa etme. Derleme dört modun tamamında müdahaleler bulmakta ve YZ okuryazarlığını tek yönlü bir bilgilendirme oturumuna indirgemeye karşı çıkmaktadır.
+Ölçme, program iddialarının çoğunun çöktüğü yerdir. Doğrulanmış **GLAT** performans testi, YZ destekli bir yükseköğretim görevindeki performansı yordadı. [[self-report-measures|Öz bildirim]] temelli bir ChatGPT okuryazarlığı ölçüsü yordamadı ([[jin-glat-genai-literacy-assessment]]; [[ai-literacy-assessment-misalignment]]). Bilgi tabanı genelinde bildirilen ve gösterilen YZ yeterliği belirgin biçimde ayrışıyor; bu da [[educational-measurement|eğitsel ölçmeyi]] ve [[assessment-validity|değerlendirme geçerliğini]] [[ai-ed-evaluation|değerlendirmenin]] sonradan düşünülen bir parçası değil tasarımın parçası yapıyor.
 
-Kanıtlar, öğrenciler için YZ çıktılarını akranlarıyla birlikte üretme, eleştirme, açıklama ve tartışma fırsatları tasarlamayı desteklemektedir.
+Burriss ve ark. neyin sayılacağını keskinleştiriyor. YZ etiği üzerine video kamu spotu hazırlayan 22 on birinci sınıf öğrencisiyle yaptıkları çalışma, mevcut okuryazarlık ölçeklerinin ve yeterlik çerçevelerinin bireysel olarak ölçülebilir performans varsaydığını, bunun da işbirlikli ve yaratıcı ifadeyi dışarıda bıraktığını savunuyor. Geleneksel ölçülerin tamamlayıcısı olarak öğrenci yansımalarını, [[multimodal]] ürünleri ve yurttaşlık söylemini öneriyorlar. Öğrencileri işbirlikli [[critical-pedagogy|eleştirel pedagoji]] yoluyla eleştirel YZ etiği anlayışı geliştirdi ve bu, okuryazarlığın beceri listesi kavrayışlarıyla onların üzerine kurulmuş araçlara meydan okuyor. Ünite sonu yanıtlarının 18'inden 15'i yeni öğrenmeyi doğruladı ve yazarlar projenin geleneksel [[summative-assessment|özet değerlendirmeye]] direndiğini not ediyor ([[burriss-multimodal-composition-critical-ai-literacy-2026]]).
 
-Kaynak: [[hingle-collaborative-ai-literacy-2025|Systematic Review of Collaborative Learning Activities for Promoting AI Literacy]].
+Kabul ölçüleri ayrı bir tuzaktır. Wang, Chuang ve Wu, yaşa göre katmanlanmış bir YZ okuryazarlığı kılavuzuyla kabaca 30 dakika geçirdikten sonra 831 Tayvanlı [[k-12]] öğrencisini ve öğretmenini anketledi ve istikrarlı bir dört faktörlü [[technology-acceptance-model|kabul]] yapısı buldu. Davranışsal niyetin en güçlü ilişkili değişkeni algılanan oyunlaştırılabilirlikti. Çalışma kısa vadeli kabulü ölçtü; [[learning-gains|öğrenme kazanımlarını]], [[ethics|etik]] yeterliği ya da gerçek kullanımı değil ve yazarlar kabul yapılarının "öğrenme etkililiğini ya da uygulama başarısını çıkarsamak için kullanılmaması gerektiğini" belirtiyor ([[age-tiered-ai-literacy-guidebooks-2026]]).
 
-## Öğretmen eğitimi: güven ile gösterilmiş yetkinlik karşılaştırması
+## Öğretimin düzeltemeyeceği hatalar için plan yapın
 
-Le ve arkadaşlarının tasarım temelli GenAI okuryazarlığı müdahalesi, 14 yüksek lisans öğrencisiyle pilot uygulaması yapılmış ve 29 [[teacher-education]] öğrencisiyle değerlendirilmiştir; bildirilen YZ yetkinliği [[self-efficacy]]'sini artırmış ve GenAI'ye ilişkin daha kritik [[pedagogy|pedagojik]] değerlendirmelere yönelik kaymalar üretmiştir.
+Öğrencileri daha iyi istem yazmaya ya da YZ kullanmaya eğitmek onları güvenilir eleştirel kullanıcılar yapmaz. [[ai-sycophancy|bağlamsal yalakalık]] deneyinde YZ okuryazarlığı ve [[prompt-engineering|istem]] eğitimi, modelin katılımcıların akıl yürütme hatalarını yansıtma sıklığını azalttı ve hatanın aşağıya yayılması eğitimden sağ çıktı ([[contextual-sycophancy-ai-literacy]]).
 
-Ancak etik kazanımları yalnızca marjinal düzeyde anlamlı hale gelmiş ve küçük ölçekli tasarım temelli araştırma çalışması nedeniyle nesnel yetkinlikle ilgili sonuçlar sınırlı kalmaktadır.
+Bunu bir dersin vaat edebileceklerinin sınırı olarak okuyun. Okuryazarlık eğitimi güvenlik yükünün tamamını taşıyamaz ve bunu taşıyacağını iddia eden bir program riski ortadan kaldırmış değil yerini değiştirmiştir. Araç tasarımı ve sistem düzeyinde güvenceler planda kalır.
 
-Kaynak: [[genai-literacy-training-teacher-education-dbr-2026|Development and Evaluation of AI Literacy Training for Teacher Education Students]].
+## Öğrencilerinizin zaten olduğu yerden başlayın
 
-## YZ okuryazarlığı eğitimi, YZ kaynaklı hataları ortadan kaldırmaz
+Şan ve Orhan Karsak, 436 Türk lisans öğrencisiyle (1.376 kodlanmış yanıt, değerlendiriciler arası κ = 0,87) psikodilbilimsel bir Sözcük Çağrışım Testi kullanarak öğrencilerin YZ'yi nasıl temsil ettiğini haritaladı. Çağrışımlar araçsal yarar etrafında kümelendi; kolaylık (f = 145) ve hız (f = 110) baskındı. Algoritmik şeffaflık, mahremiyet ve [[governance|yönetişim]] kavramları seyrekti ve yapısal olarak bu yarar kümesinden yalıtılmıştı (Kendall τ = -0,819). Savları şöyle devam ediyor: kendisini karşılayacak şeması olmayan bir bilişsel yapıya verilen bir etik modülü büyük olasılıkla başarısız olur. İzlencelerin gündelik araç bilgisinden etik ve yönetişim çerçevelerine açık köprüler kurması ve mikro-yeterlilik belgelerinin öğrencilerin zaten bildiklerini yinelemek yerine bu boşluğu kapatacak biçimde sıralanması gerekiyor ([[san-orhan-karsak-ai-cognition-micro-credentials-2026]]).
 
-Özellikle önemli bir uyarı, **öğrencilere YZ'yi daha iyi kullanma veya istek metni yazma becerisi kazandırmak, onları güvenilir biçimde kritik kullanıcılar haline getirmeye eşdeğer değildir**. [[ai-sycophancy|Bağlamsal-iltifatkârlık]] deneyinde, YZ okuryazarlığı ve [[prompt-engineering|istek metni yazma]] eğitimi, modelin katılımcıların akıl yürütme hatalarını yansıtma eğilimini azaltmış, ancak **akımdaki hata yayılımını ortadan kaldırmamıştır**.
+[[situated-learning|Durumsal]] bir anlatım Dai ve Chan'ın 28 lisansüstü araştırmacıyla yaptığı yedi odak grubundan geliyor; araştırmacılar YZ'yi araştırma iş akışı boyunca dengesiz kullandı. Kullanım biçimlendirme, çeviri ve açıklama gibi düşük riskli usul işlerinde daha ağırdı ve bilimsel katkının söz konusu olduğu yerlerde belirgin biçimde daha temkinliydi. Katılımcılar akıl yürütmelerine yardım etmek ile onun yerine geçmek arasındaki sınırları kendileri çizdi. Yazarlar [[ai-literacy|YZ okuryazarlığını]] statik bir yeterlik listesi değil durumsal bir kapasite olarak ele alıyor ve ikili kurallar uygulamak yerine her boyutun gerçek görevler boyunca [[scaffolding|iskelelenmesini]] öneriyor ([[dai-chan-responsible-genai-research-ai-literacy-2026]]).
 
-Bu, okuryazarlık eğitiminin güvenlik yükünün tamamını taşıyamayacağını göstermektedir; araç tasarımı ve sistem düzeyinde güvenceler de gereklidir.
+## Vermeden önce belgeyi denetleyin
 
-Kaynak: [[contextual-sycophancy-ai-literacy|The Hidden Cost of Contextual Sycophancy: an AI Literacy Intervention in Human-AI Collaboration]].
+Sertifikalar ve mikro-yeterlilik belgeleri YZ okuryazarlığının ölçekte verildiği ve değerlendirmenin en ince olduğu yerdir. Wu ve Li, YZ sertifika programları için uzman ağırlıklı bir gösterge sistemi kurdu (AHP ve Monte Carlo kontrolleriyle Bulanık-AHP, 18 uzman). Öğretim elemanı mesleki yeterliği en büyük önem-memnuniyet açığını gösterdi; algılanan önem yüksek (0,1976), mevcut memnuniyet düşüktü. Verileri, pedagojik değişimin birincil kısıtı olarak teknolojik altyapının önüne öğretim elemanı kapasitesini koyuyor. Kültürler arası uyarlanabilirlik en düşük stratejik ağırlığı aldı (0,0735); yazarlar bunu erken belgelendirmede teknoloji öncelikli bir yanlılık olarak okuyor ([[wu-li-evaluation-indicator-ai-certificate-programs-2026]]).
 
-## YZ okuryazarlığını ölçmek önemlidir
+Ardından gelen soru kendi programınıza soracağınız sorudur: belge kalıcı bir okuryazarlığı mı belgeliyor, yoksa katılımı mı kaydediyor? Ve onu öğreten kişiler yargılamaya yetkin mi?
 
-Ölçüm literatürü bu uyarıyı pekiştirmektedir. Doğrulanmış **GLAT** performans testi, YZ destekli bir yükseköğretim görevindeki performansı öngörmüştür; oysa [[self-report-measures|öz bildirime]] dayalı bir ChatGPT okuryazarlığı ölçütü öngörememiştir. Daha geniş ölçekte, bilgi tabanı insanların bildirdiği ile gösterdikleri YZ yetkinliği arasında önemli tutarsızlıklar bildirmektedir.
+## Bu kitlenin yanlış yaptığı şeyler
 
-Sonuç olarak, güveni, tutumu veya algılanan okuryazarlığı artıran bir müdahale, **otomatik olarak YZ okuryazarlığının kendisini iyileştirdiği şeklinde yorumlanmamalıdır**. Bu, YZ okuryazarlığı müdahalelerini [[ai-ed-evaluation|değerlendirirken]] [[educational-measurement|eğitimde ölçme]] ve [[assessment-validity|değerlendirme geçerliliği]] önemine işaret etmektedir.
+**Bir atölye bir izlencedir.** Continuum'un gözlemleri eleştirel değerlendirmeyi ve iyileştirmeyi sürekli, disiplin içine gömülü çalışmaya yerleştiriyor ve Le ve ark. yeterlik ortaya koymadan öz yeterliği hareket ettirdi.
 
-Yeni çalışmalar hem *ne* ölçülmesi gerektiğini hem de *nasıl* ölçülmesi gerektiğini netleştirmektedir. Burriss ve arkadaşlarının YZ etiği hakkında video hizmet duyuruları hazırlayan 22 sekizinci sınıf öğrencisinin sınıf içi çalışması, mevcut YZ okuryazarlığı ölçeklerinin ve yetkinlik çerçevelerinin bireysel olarak ölçülebilir performansı varsaydığını ve dolayısıyla işbirlikçi ve yaratıcı ifadeyi dışladığını savunmakta; geleneksel ölçütleri tamamlayacak olarak öğrenci yansıtmaları, [[multimodal]] eserler ve toplumsal söylemi önermektedir. Öğrencilerin işbirlikçi [[critical-pedagogy|kritik pedagoji]] yoluyla kritik YZ etiği anlayışı geliştirdiğine dair bulguları, YZ okuryazarlığının beceri listesi anlayışlarına — ve onlara bağlı olarak bu listeler üzerine kurulu ölçütlere — meydan okumaktadır. Aynı zamanda yol haritasının yönünü de göstermektedir: 18 birim sonu yanıtının 15'i yeni öğrenmeyi doğrulamıştır; yazarlar projenin geleneksel [[summative-assessment|özetleyici değerlendirmeye]] dirençli olduğunu not etmektedir. Bkz. [[burriss-multimodal-composition-critical-ai-literacy-2026|Multimodal composition as a form of critical AI literacy pedagogy]].
+**Kendine güven okuryazarlığın vekilidir.** GLAT sonucu dolaylı değil: bir performans testi görev performansını yordadı, bir öz bildirim ölçüsü yordamadı.
 
-Ayrı bir uyarı kabul araştırmalarından gelmektedir. Wang, Chuang ve Wu, yaş kademeli bir YZ okuryazarlığı kılavuzuyla yaklaşık 30 dakika geçirdikten sonra 831 Tayvanlı [[k-12]] öğrenci ve öğretmeni anketlemiş ve istikrarlı dört faktörlü bir [[technology-acceptance-model|kabul]] yapısı bulmuştur — ancak algılanan eğlencelik davranışsal niyetin en güçlü ilişkili değişkeni olmuş ve çalışma kısa vadeli kabulü ölçmüştür, [[learning-gains|öğrenme kazanımlarını]], [[ethics|etik]] yetkinliği veya gerçek kullanımı değil. Yazarlar kabul yapılarının "öğrenme etkililiğini veya uygulama başarısını çıkarsamak için kullanılmaması gerektiğini" açıkça belirtmektedir. Bkz. [[age-tiered-ai-literacy-guidebooks-2026|Measuring acceptance of age-tiered AI literacy guidebooks]].
+**Büyük bir ortalama etki programın burada işe yarayacağı anlamına gelir.** -0,292 ile 1,966 arasında bir tahmin aralığıyla ortalama alanı tanımlar; sizin kohortunuz o aralığın bir yerinde durur.
 
-Kaynaklar:
+**Okuryazarlık eğitimi öğrencileri güvenli kullanıcılar yapar.** Yalakalık deneyinde eğitim yansıtmayı azalttı ve hatanın yayılmasını olduğu gibi bıraktı.
 
-- [[jin-glat-genai-literacy-assessment|GLAT: The Generative AI Literacy Assessment Test]]
-- [[ai-literacy-assessment-misalignment|AI Literacy Assessment: Self-Reported vs Performance Misalignment]]
+**Okuryazarlık araçlar arasında aktarılan tek bir beceridir.** Dai ve Chan araştırmacıların tek bir iş akışının farklı bölümlerinde farklı sınırlar çizdiğini buldu.
 
-## Teşhis önce öğretim: öğrencilerin mevcut YZ algısı
+## Size geri dönecek olanlar
 
-Bir müdahalenin *nerede başladığı*, içeriği kadar önemlidir. Şan ve Orhan Karsak, 436 Türk üniversite öğrencisinin (1.376 kodlanmış yanıt, değerlendirici arası κ = 0.87) YZ'ye ilişkin bilişsel temsillerini haritalamak için psikodilbilimsel bir Kelime İlişkilendirme Testi kullanmıştır. İlişkilendirmeler araçsal fayda çevresinde kümelenmiştir — kolaylık (f = 145) ve hız (f = 110) — oysa algoritmik şeffaflık, gizlilik ve [[governance]] kavramları yalnızca nadir değil, baskın fayda kümesinden yapısal olarak izole olmuştur (Kendall'ın τ = −0.819). Yazarlar, etik modülünü alabilecek hiçbir şema içermeyen bir bilişsel mimariye sunmanın muhtemelen başarısız olacağını savunmaktadır: müfredatların gündelik araç bilgisinden etik ve yönetişim çerçevelerine açık **köprüler** inşa etmesi gerekir ve mikro kimlik belgelendirmeler, öğrencilerin zaten bildiklerini yeniden üretmek yerine bu yapısal boşluğu kapatacak biçimde içerik sıralamalıdır. Bu, müdahale tasarımı için bir **ihtiyaç değerlendirmesi** argümanıdır ve öğretimden önce veriye dayalı bir teşhis sunan sayılı çalışmalardan biridir. Bkz. [[san-orhan-karsak-ai-cognition-micro-credentials-2026|Knowing its name, not its nature]].
+**"İzlencede yer yok."** Eleştiriyi zaten puanladığınız bir ödeve ekleyin; Beck ve Brodersen'ın onu mevcut etkin öğrenme rutinlerine katması gibi. Ayrı bir ders daha pahalıya gelir ve aynı şeyi öğretir.
 
-Zıt bir [[situated-learning|bağlama yerleştirilmiş]] görüş, araştırma iş akışında [[ai-literacy|YZ okuryazarlığı]]nı farklı biçimde uygulayan 28 lisansüstü araştırmacıyla yapılan Dai ve Chan'in yedi odak grup çalışmasından gelmektedir — düşük riskli prosedürel görevlerde (biçimlendirme, çeviri, açıklama) daha yoğun kullanım, bilimsel katkının söz konusu olduğu yerlerde belirgin biçimde daha fazla tedbir — ve muhakemelerine yardım etme ile onun yerine geçme arasında kendi sınırlarını çizmişlerdir. Sonuçları, YZ okuryazarlığının statik bir yetkinlik listesinden ziyade bağlama yerleştirilmiş bir kapasite olarak ele alınmasının daha iyi olacağı ve sorumlu kullanım kılavuzlarının ikili kurallar dayatmaktansa her bir okuryazarlık boyutunu gerçek görevler üzerinden [[scaffolding|iskelelemesi]] (kademeli destek) gerektiğidir. Bkz. [[dai-chan-responsible-genai-research-ai-literacy-2026|Shaping responsible GenAI use in research through AI literacy-oriented guidelines]].
+**"Öğrencilerimiz bu teknolojiyle büyüdü."** Şan ve Orhan Karsak'ın ölçtüğü şey araca aşinalıktı: kolaylık ve hız, mahremiyet ve yönetişim ise yapısal olarak kopuk. Bir şeyi akıcı kullanmak onu anlamak değildir.
 
-## Sertifikalar ve program düzeyinde değerlendirme
+**"Bize sadece etki büyüklüğünü verin."** g = 0,837, p < 0,001, 59 çalışmadan, %95 tahmin aralığı -0,292 ile 1,966. Kararınızı yöneten ikinci rakamdır.
 
-YZ okuryazarlığı giderek artan biçimde sertifika ve mikro kimlik belgelendirmeleri yoluyla sunulmakta olup değerlendirmenin en zayıf olduğu yer burasıdır. Wu ve Li, YZ sertifika programları için uzman ağırlıklı bir değerlendirme gösterge sistemi (Monte Carlo sağlamlık doğrulamalı AHP / Bulanık-AHP, 18 uzman) oluşturmuş ve **akademik personelin mesleki yetkinliğinde en büyük önem–memnuniyet boşluğunu** bulmuştur — yüksek algılanan önem (0.1976) karşısında düşük mevcut memnuniyet — bu da pedagojik dönüşüm üzerindeki temel kısıtın teknolojik altyapı değil, personel kapasitesi olduğunu ortaya koymaktadır; kültürler arası uyarlanabilirlik en düşük stratejik ağırlığı (0.0735) almış olup bu da erken dönem kimlik belgelendirmesinde teknoloji öncelikli bir yanlılığı işaret etmektedir. Bkz. [[wu-li-evaluation-indicator-ai-certificate-programs-2026|Evaluation indicator system for AI certificate programs]]. Bu, müdahale literatürünün neredeyse hiç sınamadığı bir soruyu öne çıkarmaktadır: bir sertifikanın kalıcı bir [[ai-literacy|YZ okuryazarlığı]] belgelendirip belgelendirmediği, yoksa yalnızca tamamlanmayı mı kaydettiği ve bunu sunan [[teacher-education|eğitimcilerin]] kendilerinin bunu değerlendirmeye donanımlı olup olmadığı.
+**"Dönem sonunda öğrencilere anket yapacağız."** O zaman kabulü ölçmüş olursunuz. Wang ve ark. 831 kişilik bir örneklemde bunun neleri destekleyemeyeceğini açıkça söylüyor.
 
-## Kanıtların genel değerlendirmesi
+**"Belge hesap verebilirlik mekanizmasıdır."** Wu ve Li öğretim elemanı yeterliğini bağlayıcı kısıt olarak buldu ve kültürler arası uyarlanabilirlik en düşük ağırlığı aldı. Bir sertifika birinin bir şeyi tamamladığını kaydeder.
 
-Genel olarak kanıtlar **öğretim tasarımı ilkeleri açısından orta, nedensel etkililik açısından ise hâlâ zayıf ila orta** düzeyde olarak nitelendirilebilir.
+**"Öğretim üyelerimiz bunu öğretmeye hazır değil."** Kanıt hemfikir. Wu ve Li'nin verisinde en büyük açık öğretim elemanı kapasitesiydi ve bu sayfadaki hiçbir çalışma bunun nasıl kapatılacağını test etmiyor.
 
-[[higher-ed|Yükseköğretim]] için hâlihazırda en savunulabilir model:
+## Bu hafta yapılacaklar
 
-1. YZ okuryazarlığını özgün disiplin içi görevlerin içine yerleştirmek.
-2. Öğrencilerin YZ'ye danışmadan önce ilk bir yargı veya çözüm oluşturmasını sağlamak.
-3. YZ çıktılarının karşılaştırılmasını, doğrulanmasını ve eleştirilmesini gerektirmek.
-4. Akran diyaloğunu ve yansıtmayı içermek.
-5. Bu deneyimleri yalnızca tek seferlik atölyelere güvenmek yerine zaman içinde yinelemek.
-6. Öğrencileri yalnızca güven veya öz bildirim anketlerine güvenmek yerine **bağımsız değerlendirme ve sorumlu yargı gerektiren performansa dayalı görevlerle** değerlendirmek.
+**1.** Not verilen bir ödev seçin ve öğrencilerin YZ'ye danışmadan önce kendi yanıtlarını ürettiği bir adım ekleyin.
 
-Önemli boşluklar kalmaktadır. Literatürde hâlâ daha fazla **çok kurumlu rastgele veya güçlü yarı-deneysel çalışmalar, doğrulanmış ortak sonuç ölçütleri, akılda tutma ve aktarımın gecikmeli testleri ve okuryazarlık kazanımlarının öğrenciler yeni YZ modelleri, disiplinler veya tanıdık olmayan YZ hata biçimleriyle karşılaştığında kalıcı olup olmadığına dair kanıtlar** gerekmektedir.
+**2.** Eleştiri istemini mevcut ölçütünüze göre yazın; öğrenciler çıktıyı zaten kullandığınız standartla puanlasın.
 
-Kısacası, mevcut kanıtlar YZ okuryazarlığını YZ hakkında bilgi veya istek metni yazmada yeterlilikten ziyade **disipline yerleştirilmiş kritik bir uygulama** olarak ele almayı desteklemektedir. Eleştiri, karşılaştırma, yansıtma, iş birliği ve yinelenmiş özgün uygulama için öğretimsel gerekçe giderek daha tutarlı hale gelmektedir; ancak belirli müdahalelerin kalıcı ve aktarılabilir YZ okuryazarlığı ürettiğine dair kanıtlar daha az kökleşmiştir. Bu sonucun somut kurs tasarımına nasıl dönüştüğü için bkz. [[incorporating-ai-literacy|How should I incorporate AI literacy into my course?]]; kanıt tabanının kendisinin ince kaldığı yerler için bkz. [[research-gaps-aied|What are notable gaps in the research literature on AI in Education?]].
+**3.** Aynı etkinliğin ikinci turunu dönemin ilerisinde, aynı derste planlayın.
+
+**4.** Dönem sonundaki bir güven sorusunu kısa bir performans maddesiyle değiştirin ve puanlayın.
+
+**5.** Mikro-yeterlilik belgenizin sahibine hangi yeterlik kanıtını kabul edeceğini sorun ve yanıtı yazılı alın.
+
+## Nereye gidilecek
+
+[[incorporating-ai-literacy|YZ okuryazarlığını dersime nasıl katabilirim?]] tasarım sorusunu ders planlamasına taşıyor. [[ai-literacy]] kavramı ve ölçme tartışmasını barındırıyor, [[research-gaps-aied|araştırma boşlukları sayfası]] ise bu yazının hâlâ ince olduğu yerleri ele alıyor.

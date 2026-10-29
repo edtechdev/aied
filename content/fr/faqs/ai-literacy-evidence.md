@@ -1,18 +1,22 @@
 ---
 title: "Que disent les données probantes sur les interventions de littératie en IA dans l'enseignement supérieur ?"
 created: "2026-09-22T19:10:56-04:00"
-updated: "2026-10-24T10:43:48-04:00"
+updated: "2026-10-29T08:08:36-04:00"
 weight: 50
 foundations: [ai-literacy]
 assessment: [educational-measurement]
 research_method: [literature review]
 level: [higher ed]
 audience: [instructors, researchers, administrators]
-source_updated: "2026-10-21T14:32:00-04:00"
+source_updated: "2026-10-28T11:47:13-04:00"
 translation_of: faqs/ai-literacy-evidence
 translation_note: "Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-29"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-22"
@@ -25,102 +29,106 @@ ai_assist:
 
 *Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle.*
 
-Les données probantes sur les **interventions de [[ai-literacy|littératie en IA]] dans l'[[higher-ed|enseignement supérieur]] sont prometteuses, mais encore méthodologiquement immatures**. Dans toute la base de connaissances, le constat récurrent le plus solide est que la littératie en IA se développe plus efficacement par **une pratique active et contextualisée de l'IA, en particulier la critique, la comparaison, la réflexion et la collaboration, que par des démonstrations d'outils ou des cours magistraux seuls**. En même temps, relativement peu d'études mesurent une compétence durable et démontrée de façon indépendante ; beaucoup reposent sur l'[[self-regulated-learning|auto-déclaration]], des interventions courtes, des comparaisons observationnelles ou la [[design-based-research|recherche fondée sur la conception]].
+Le cabinet du vice-recteur veut un résultat de littératie en IA dans chaque programme de premier cycle d'ici l'automne prochain, et le plan sur la table est un atelier de deux heures plus un module de tutoriel de bibliothèque. Ou bien une subvention a financé la « littératie en IA » dans votre établissement et la première réunion de comité porte sur ce qu'on en achète. Quelqu'un dans la salle demandera ce que les étudiants sauront faire ensuite, et ce qui tranche la question est un argument de conception.
 
-La littérature sur les interventions converge vers plusieurs principes de conception.
+La réponse pour cette salle, et l'état des preuves dans l'[[higher-ed|enseignement supérieur]], est celle-ci : la littératie progresse quand les étudiants critiquent une sortie d'IA à l'intérieur d'une tâche disciplinaire réelle, de façon répétée, avec leurs pairs, et elle progresse le moins quand on leur montre ce que fait l'outil. L'effet moyen dans la littérature d'intervention est grand ; la dispersion autour de cette moyenne est plus large encore, si bien que votre conception décide plus que votre sujet. Les enquêtes de confiance mesurent l'acceptation. Si vous voulez revendiquer de la littératie, testez une performance.
 
-## Le tableau quantitatif global
+## La version courte
 
-Une [[liu-ai-literacy-interventions-meta-analysis-2026|méta-analyse à trois niveaux portant sur 59 études empiriques]] (172 tailles d'effet, 7,211 participants) fournit l'estimation [[quantitative-research|quantitative]] la plus claire du domaine : les interventions de littératie en IA montrent **un effet global important (g = 0.837, p < .001)**, mais avec un large intervalle de prédiction à 95 % [−0.292, 1.966], de sorte que l'efficacité varie considérablement selon les contextes et ne se généralise peut-être pas uniformément. Deux modérateurs étaient significatifs : les interventions en **Asie de l'Est et en Europe surpassaient celles d'Amérique du Nord**, et les **interventions centrées sur les connaissances surpassaient celles visant les compétences, les attitudes ou l'éthique**. Des effets plus importants (bien que non significatifs) apparaissaient pour les pédagogies mixtes ou réflexives, les outils soutenus par l'IA générative et les résultats de type tâche de performance. Les auteurs soutiennent que l'éducation à la littératie en IA devrait donc dépasser les connaissances pour aller vers les compétences, les pratiques, l'éthique et les attitudes, par des pédagogies intégrées et réflexives et des outils soutenus par l'IA générative, et qu'une intervention [[culturally-relevant-pedagogy|culturellement pertinente]] et sensible au contexte est nécessaire.([[liu-ai-literacy-interventions-meta-analysis-2026]])
+**1.** Placez la littératie dans un cours que les étudiants suivent déjà, sur un travail qui est déjà noté.
 
-Deux implications importent pour les praticiens : (1) le résultat que vous mesurez façonne l'effet apparent, les interventions centrées sur les connaissances paraissant plus fortes que celles centrées sur les compétences, les attitudes ou l'éthique, donc évaluez ce qui vous importe réellement ; et (2) le large intervalle de prédiction signifie qu'une moyenne forte ne garantit pas un effet fort dans un contexte local particulier, ce qui renforce l'argument en faveur d'une conception sensible au contexte.
+**2.** Faites-les s'engager sur leur propre réponse avant de voir celle du modèle.
 
-## Critiquer l'IA plutôt que simplement la faire fonctionner
+**3.** Notez la critique, avec la grille que vous utilisez déjà pour la tâche.
 
-En psychologie de premier cycle, Richmond et Nicholls ont demandé aux étudiants d'évaluer un communiqué de presse généré par [[generative-ai|ChatGPT]] à l'aide de la grille d'évaluation de leur cours, d'en identifier les erreurs et de le réviser. Les étudiants ont généralement reconnu que la production était stylistiquement soignée mais faible pour représenter fidèlement les objectifs, les méthodes et les résultats de la recherche. Comparée à la cohorte précédente d'[[peer-assessment|évaluation par les pairs]], la cohorte de critique de l'IA a obtenu des résultats légèrement meilleurs à la révision ultérieure du script (*d* = 0.36), bien qu'il n'y ait eu **aucun avantage significatif sur la vidéo finale**.
+**4.** Faites-la tourner plus d'une fois dans le trimestre.
 
-Cela fournit des données encourageantes pour une littératie en IA fondée sur la critique, mais la comparaison historique empêche une conclusion causale forte.
+**5.** Comptez une tâche de performance comme preuve, et tenez les gains de confiance sur une ligne séparée.
 
-Source : [[richmond-nicholls-genai-psych-feedback-ai-literacies|Utiliser l'IA générative pour promouvoir les littératies psychologique, de rétroaction et en IA en psychologie de premier cycle]].
+## Construisez la séquence autour d'une critique
 
-## Intégrer la littératie en IA au travail disciplinaire
+L'exemple de classe le plus solide de la base de connaissances vient de la psychologie de premier cycle. Richmond et Nicholls ont demandé aux étudiants d'évaluer un communiqué de presse généré par [[generative-ai|ChatGPT]] selon leur propre grille de cours, de nommer les erreurs et de le réviser. Les étudiants ont généralement vu que la prose était soignée et que le contenu déformait les objectifs, les méthodes et les résultats de la recherche. Par rapport à la cohorte précédente de [[peer-assessment|évaluation par les pairs]], le groupe de critique de l'IA a légèrement mieux réussi la révision du script qui suivait (*d* = 0.36), sans avantage significatif sur la vidéo finale ([[richmond-nicholls-genai-psych-feedback-ai-literacies]]).
 
-L'approche de Beck et Brodersen en économie demande d'abord aux étudiants de résoudre ou d'interpréter eux-mêmes un problème économique authentique, puis d'obtenir la réponse de ChatGPT, de comparer les deux, de critiquer l'IA, de réfléchir et de discuter avec leurs pairs. L'intervention combine la littératie en IA avec des techniques d'[[active-learning|apprentissage actif]] existantes telles que Think-Pair-Share.
+La littérature dont ces exemples proviennent s'appuie sur des interventions courtes, de l'[[self-regulated-learning|auto-déclaration]] et des travaux fondés sur la conception, et cette étude porte deux de ces limites. La comparaison était historique, si bien qu'une cohorte mieux préparée produirait le même schéma. L'avantage apparaissait aussi sur l'artefact intermédiaire et disparaissait sur le produit fini, ce à quoi on s'attendrait si la critique avait enseigné la révision.
 
-Sa contribution principale est une [[learning-design|conception pédagogique]] transférable plutôt qu'une preuve expérimentale solide d'effets sur l'apprentissage.
+Beck et Brodersen ont intégré le même geste dans un cours d'économie : les étudiants résolvent ou interprètent eux-mêmes un problème authentique, puis obtiennent la réponse de ChatGPT, comparent les deux, critiquent l'IA, réfléchissent et discutent avec leurs pairs. Leur conception replie la littératie en IA dans des routines d'[[active-learning|apprentissage actif]] que le cours pratiquait déjà, comme le Think-Pair-Share. Sa contribution est une [[learning-design|conception pédagogique]] transférable, appuyée par un usage en classe plutôt que par une expérience ([[beck-genai-literacy-economics-hands-on]]).
 
-Source : [[beck-genai-literacy-economics-hands-on|Favoriser la littératie en IA générative en économie]].
+## Placez-la dans un cours que les étudiants suivent déjà
 
-## Des expériences soutenues plutôt que des ateliers ponctuels
+La [[meta-analysis-systematic-review|revue systématique]] de Hingle et Johri classe les activités de littératie en IA selon le [[icap-framework|cadre ICAP]] : exposition passive, manipulation active, génération constructive et co-construction interactive. Les interventions apparaissent dans les quatre modes, et la revue argumente contre la réduction de la littératie en IA à une séance d'information à sens unique ([[hingle-collaborative-ai-literacy-2025]]). Les pratiques qu'elle soutient sont celles que vous pouvez intégrer à un devoir : les étudiants créent, critiquent, expliquent et discutent des sorties d'IA avec leurs pairs.
 
-Le **AI Literacy Continuum** de NC State décrit une progression allant de *Not Yet Engaged* et *Uncritical Use* à *Informed Use*, puis à l'*[[critical-thinking|Évaluation critique]]* et à l'*Improvement*. Son implémentation a impliqué plus de 330 participants dans des cours et des ateliers.
+Le **AI Literacy Continuum** de NC State décrit une progression allant de *Not Yet Engaged* et *Uncritical Use* à *Informed Use*, *[[critical-thinking|Critical Evaluation]]* et *Improvement*, et a été déployé auprès de plus de 330 participants dans des cours et des ateliers ([[ai-literacy-continuum-higher-education]]). Ses observations suggèrent un partage : les expériences brèves amenaient les étudiants vers l'usage informé, tandis que l'évaluation critique et l'amélioration n'apparaissaient que dans un travail soutenu, ancré dans une discipline. Il n'y avait ni mesure pré/post validée ni groupe de comparaison, il s'agit donc de preuves fondées sur la pratique.
 
-Les observations suggèrent que de brèves expériences pouvaient amener les étudiants vers un usage éclairé, alors que les preuves d'évaluation critique et d'amélioration étaient plus manifestes dans des expériences soutenues et intégrées à une discipline. Toutefois, il n'y avait **aucune mesure pré/post validée ni groupe de comparaison**, il s'agit donc de données issues de la pratique plutôt que de données causales.
+La formation des enseignants montre le même plafond sous un autre angle. L'intervention [[design-based-research|fondée sur la conception]] de Le et al. a été pilotée auprès de 14 étudiants de master et évaluée auprès de 29 étudiants en [[teacher-education|formation des enseignants]]. Le [[self-efficacy|sentiment d'efficacité personnelle]] en compétences IA déclaré a augmenté et les étudiants se sont tournés vers une considération [[pedagogy|pédagogique]] plus critique de l'IA générative, tandis que les gains en éthique n'atteignaient qu'une significativité marginale. Une petite étude fondée sur la conception de cette forme ne peut pas établir la compétence ([[genai-literacy-training-teacher-education-dbr-2026]]).
 
-Source : [[ai-literacy-continuum-higher-education|Au-delà de l'adoption des outils : un continuum développemental pratique en cinq étapes pour la littératie en IA dans l'enseignement supérieur]].
+## Mesurez ce que les étudiants savent faire
 
-## Des conceptions collaboratives et cognitivement actives
+Une [[liu-ai-literacy-interventions-meta-analysis-2026|méta-analyse à trois niveaux de 59 études]] (172 tailles d'effet, 7.211 participants) donne l'estimation [[quantitative-research|quantitative]] la plus claire disponible : un effet global grand (g = 0.837, p < .001). L'intervalle de prédiction à 95% va de -0.292 à 1.966, et c'est le chiffre à citer quand on vous demande si l'intervention fonctionnera dans votre programme. Deux modérateurs étaient significatifs. Les interventions en Asie de l'Est et en Europe surpassaient celles d'Amérique du Nord, et les interventions centrées sur les connaissances surpassaient celles visant les compétences, les attitudes ou l'éthique. Des effets plus grands mais non significatifs apparaissaient pour les pédagogies mixtes ou réflexives, les outils assistés par IA générative et les résultats mesurés par tâche de performance.
 
-La [[meta-analysis-systematic-review|revue systématique]] de Hingle et Johri organise les activités de littératie en IA à l'aide du [[icap-framework|cadre ICAP]] : exposition passive, manipulation active, génération constructive et co-construction interactive. La revue trouve des interventions dans les quatre modes et plaide contre la réduction de la littératie en IA à une séance d'information à sens unique.
+Les auteurs lisent leur propre résultat comme un argument pour dépasser les connaissances au profit des compétences, des pratiques, de l'éthique et des attitudes, par une pédagogie réflexive intégrée et une conception [[culturally-relevant-pedagogy|culturellement pertinente]]. Pour un comité, deux implications font le travail. Le résultat que vous mesurez façonne l'effet que vous trouvez, donc choisissez le résultat qui vous importe réellement. Un intervalle de prédiction aussi large plaide pour un pilote local.
 
-Les données soutiennent la conception d'occasions pour les étudiants de créer, critiquer, expliquer et débattre des productions de l'IA avec leurs pairs.
+La mesure est l'endroit où la plupart des revendications de programme échouent. Le test de performance validé **GLAT** prédisait la performance sur une tâche universitaire assistée par IA. Une mesure de littératie ChatGPT [[self-report-measures|auto-déclarée]] ne la prédisait pas ([[jin-glat-genai-literacy-assessment]] ; [[ai-literacy-assessment-misalignment]]). Dans toute la base de connaissances, la compétence en IA déclarée et démontrée divergent substantiellement, ce qui fait de la [[educational-measurement|mesure éducative]] et de la [[assessment-validity|validité de l'évaluation]] des parties de la conception plutôt qu'un ajout tardif dans l'[[ai-ed-evaluation|évaluation]].
 
-Source : [[hingle-collaborative-ai-literacy-2025|Revue systématique des activités d'apprentissage collaboratif pour promouvoir la littératie en IA]].
+Burriss et al. précisent ce qui compte. Leur étude auprès de 22 élèves de onzième année composant des messages d'intérêt public vidéo sur l'éthique de l'IA soutient que les échelles de littératie et les cadres de compétences existants supposent une performance mesurable individuellement, ce qui exclut l'expression collaborative et créative. Ils proposent des réflexions d'étudiants, des artefacts [[multimodal|multimodaux]] et un discours civique comme compléments aux mesures conventionnelles. Leurs étudiants ont développé une compréhension critique de l'éthique de l'IA par une [[critical-pedagogy|pédagogie critique]] collaborative, ce qui remet en cause les conceptions de la littératie comme liste de compétences ainsi que les instruments bâtis sur elles. Quinze des 18 réponses de fin d'unité confirmaient de nouveaux apprentissages, et les auteurs notent que le projet résiste à l'[[summative-assessment|évaluation sommative]] traditionnelle ([[burriss-multimodal-composition-critical-ai-literacy-2026]]).
 
-## Formation des enseignants : confiance contre compétence démontrée
+Les mesures d'acceptation sont un piège distinct. Wang, Chuang et Wu ont interrogé 831 élèves et enseignants taïwanais du [[k-12|primaire et secondaire]] après environ 30 minutes avec un guide de littératie en IA gradué par âge, et trouvé une structure d'[[technology-acceptance-model|acceptation]] stable à quatre facteurs. Le caractère ludique perçu était le corrélat le plus fort de l'intention comportementale. L'étude mesurait l'acceptation à court terme, non les [[learning-gains|gains d'apprentissage]], la compétence [[ethics|éthique]] ou l'usage réel, et les auteurs affirment que les construits d'acceptation « ne doivent pas servir à inférer l'efficacité de l'apprentissage ni la réussite de la mise en œuvre » ([[age-tiered-ai-literacy-guidebooks-2026]]).
 
-L'intervention de littératie en IA générative fondée sur la conception de Le et de ses collègues, pilotée avec 14 étudiants de master et évaluée auprès de 29 étudiants en [[teacher-education|formation des enseignants]], a augmenté le [[self-efficacy|sentiment d'efficacité personnelle]] auto-déclaré en compétence IA et produit des déplacements vers une considération [[pedagogy|pédagogique]] plus critique de l'IA générative.
+## Prévoyez les erreurs que l'enseignement ne corrigera pas
 
-Cependant, les gains en éthique ne sont devenus que marginalement significatifs, et le caractère restreint de l'étude de recherche fondée sur la conception limite les conclusions sur la compétence objective.
+Entraîner les étudiants à mieux formuler des invites ou à mieux utiliser l'IA ne fait pas d'eux des utilisateurs critiques fiables. Dans l'expérience de [[ai-sycophancy|complaisance contextuelle]], une formation en littératie en IA et en [[prompt-engineering|prompting]] réduisait la fréquence à laquelle le modèle reprenait les erreurs de raisonnement des participants, et la propagation aval de l'erreur survivait à la formation ([[contextual-sycophancy-ai-literacy]]).
 
-Source : [[genai-literacy-training-teacher-education-dbr-2026|Développement et évaluation d'une formation à la littératie en IA pour les étudiants en formation des enseignants]].
+Lisez cela comme une limite de ce qu'un cours peut promettre. L'éducation à la littératie ne peut pas porter toute la charge de sécurité, et un programme qui prétend le contraire a déplacé le risque plutôt que de le retirer. La conception des outils et les garde-fous systémiques restent au plan.
 
-## La formation à la littératie en IA n'élimine pas les erreurs liées à l'IA
+## Partez de là où vos étudiants en sont déjà
 
-Une mise en garde particulièrement importante est que **former les étudiants à mieux solliciter ou utiliser l'IA n'équivaut pas à en faire des utilisateurs critiques fiables**. Dans l'expérience de [[ai-sycophancy|flagornerie contextuelle]], la formation à la littératie en IA et à la [[prompt-engineering|rédaction d'invites]] a réduit la tendance du modèle à refléter les erreurs de raisonnement des participants, mais n'a **pas éliminé la propagation des erreurs en aval**.
+Şan et Orhan Karsak ont utilisé un test d'association de mots psycholinguistique auprès de 436 étudiants turcs de premier cycle (1.376 réponses codées, κ inter-juges = 0.87) pour cartographier la représentation que les étudiants se font de l'IA. Les associations se regroupaient autour de l'utilité instrumentale, la commodité (f = 145) et la rapidité (f = 110) dominant. La transparence algorithmique, la vie privée et les concepts de [[governance|gouvernance]] étaient rares, et structurellement isolés de ce regroupement utilitaire (τ de Kendall = -0.819). Leur argument suit : un module d'éthique livré dans une structure cognitive qui n'a pas de schéma pour le recevoir échouera probablement. Les programmes ont besoin de ponts explicites entre la connaissance quotidienne des outils et les cadres éthiques et de gouvernance, et les micro-certifications devraient séquencer les contenus pour combler cet écart au lieu de répéter ce que les étudiants savent déjà ([[san-orhan-karsak-ai-cognition-micro-credentials-2026]]).
 
-Cela suggère que l'éducation à la littératie ne peut porter tout le fardeau de la sécurité ; la conception des outils et des garde-fous au niveau du système sont aussi nécessaires.
+Un récit [[situated-learning|situé]] vient des sept groupes de discussion de Dai et Chan avec 28 chercheurs de troisième cycle, qui utilisaient l'IA de façon inégale dans le flux de recherche. L'usage était plus dense dans le travail procédural à faible enjeu comme la mise en forme, la traduction et l'explication, et nettement plus prudent là où la contribution savante était en jeu. Les participants traçaient eux-mêmes leurs frontières entre assister et substituer leur raisonnement. Les auteurs traitent la [[ai-literacy|littératie en IA]] comme une capacité située plutôt qu'une liste statique de compétences, et recommandent d'[[scaffolding|étayer]] chaque dimension dans des tâches réelles au lieu d'appliquer des règles binaires ([[dai-chan-responsible-genai-research-ai-literacy-2026]]).
 
-Source : [[contextual-sycophancy-ai-literacy|Le coût caché de la flagornerie contextuelle : une intervention de littératie en IA dans la collaboration humain-IA]].
+## Vérifiez le certificat avant de le décerner
 
-## Mesurer la littératie en IA importe
+Les certificats et les micro-certifications sont l'endroit où la littératie en IA se livre à l'échelle et où l'évaluation est la plus mince. Wu et Li ont construit un système d'indicateurs pondérés par experts (AHP et Fuzzy-AHP avec contrôles de Monte Carlo, 18 experts) pour des programmes de certificats en IA. La compétence professionnelle des enseignants présentait le plus grand écart importance-satisfaction, avec une importance perçue élevée (0.1976) contre une satisfaction actuelle faible. Leurs données placent la capacité des enseignants avant l'infrastructure technologique comme contrainte principale du changement pédagogique. L'adaptabilité interculturelle recevait le poids stratégique le plus faible (0.0735), ce qu'ils lisent comme un biais technologique premier dans la certification naissante ([[wu-li-evaluation-indicator-ai-certificate-programs-2026]]).
 
-La littérature sur la mesure renforce cette mise en garde. Le test de performance validé **GLAT** prédisait la performance à une tâche d'enseignement supérieur assistée par IA, alors qu'une mesure [[self-report-measures|auto-déclarée]] de littératie ChatGPT ne le faisait pas. Plus largement, la base de connaissances signale des écarts substantiels entre la compétence en IA déclarée et démontrée.
+La question qui s'ensuit est celle à poser à votre propre programme : le certificat atteste-t-il une littératie durable, ou enregistre-t-il une présence ? Et les personnes qui l'enseignent sont-elles outillées pour en juger ?
 
-Par conséquent, une intervention qui augmente la confiance, les attitudes ou la littératie perçue **ne doit pas être automatiquement interprétée comme une amélioration de la littératie en IA elle-même**. Cela souligne l'importance de la [[educational-measurement|mesure en éducation]] et de la [[assessment-validity|validité de l'évaluation]] lorsqu'on [[ai-ed-evaluation|évalue les interventions]] de littératie en IA.
+## Ce que ce public comprend mal
 
-Des travaux plus récents précisent à la fois *ce* qui devrait être mesuré et *comment*. L'étude en classe de Burriss et de ses collègues auprès de 22 élèves de onzième année composant des messages d'intérêt public vidéo sur l'éthique de l'IA soutient que les échelles de littératie en IA et les cadres de compétences existants présupposent une performance mesurable individuellement et excluent donc l'expression collaborative et créative ; ils proposent que les réflexions des étudiants, les artefacts [[multimodal|multimodaux]] et le discours civique complètent les mesures conventionnelles. Leur constat selon lequel les étudiants ont développé une compréhension critique de l'éthique de l'IA par une [[critical-pedagogy|pédagogie critique]] collaborative remet en question les conceptions de la littératie en IA comme liste de compétences et, avec elles, les instruments construits sur ces listes. Cela montre aussi la direction du mouvement : 15 des 18 réponses de fin d'unité confirmaient un nouvel apprentissage, tandis que les auteurs notent que le projet résiste à l'[[summative-assessment|évaluation sommative]] traditionnelle. Voir [[burriss-multimodal-composition-critical-ai-literacy-2026|La composition multimodale comme forme de pédagogie critique de littératie en IA]].
+Un atelier est un programme d'études. Les observations du Continuum placent l'évaluation critique et l'amélioration dans un travail soutenu et ancré dans une discipline, et Le et al. ont déplacé le sentiment d'efficacité personnelle sans établir la compétence.
 
-Une mise en garde distincte vient de la recherche sur l'acceptation. Wang, Chuang et Wu ont interrogé 831 étudiants et enseignants taïwanais du [[k-12]] après environ 30 minutes passées avec un guide de littératie en IA gradué par âge et ont trouvé une structure d'[[technology-acceptance-model|acceptation]] stable à quatre facteurs, mais la convivialité perçue était le corrélat le plus fort de l'intention comportementale, et l'étude mesurait l'acceptation à court terme, non les [[learning-gains|gains d'apprentissage]], la compétence [[ethics|éthique]] ou l'usage réel. Les auteurs précisent explicitement que les construits d'acceptation « ne doivent pas être utilisés pour inférer l'efficacité de l'apprentissage ou la réussite de la mise en œuvre ». Voir [[age-tiered-ai-literacy-guidebooks-2026|Mesurer l'acceptation de guides de littératie en IA gradués par âge]].
+La confiance est un proxy de la littératie. Le résultat du GLAT est direct : un test de performance prédisait la performance sur la tâche et une mesure auto-déclarée ne la prédisait pas.
 
-Sources :
+Un effet moyen élevé signifie que le programme fonctionnera ici. Avec un intervalle de prédiction de -0.292 à 1.966, la moyenne décrit le domaine ; votre cohorte se situe quelque part dans cette plage.
 
-- [[jin-glat-genai-literacy-assessment|GLAT : le test d'évaluation de la littératie en IA générative]]
-- [[ai-literacy-assessment-misalignment|Évaluation de la littératie en IA : désalignement entre auto-déclaration et performance]]
+La formation à la littératie fait des étudiants des utilisateurs sûrs. Dans l'expérience de complaisance, la formation réduisait la reprise des erreurs et laissait intacte leur propagation.
 
-## Diagnostiquer avant d'enseigner : la cognition existante des étudiants à propos de l'IA
+La littératie est une compétence qui se transfère d'un outil à l'autre. Dai et Chan ont trouvé des chercheurs traçant des frontières différentes dans différentes parties d'un même flux de travail.
 
-Le point où une intervention *commence* importe autant que son contenu. Şan et Orhan Karsak ont utilisé un test d'association de mots psycholinguistique auprès de 436 étudiants de premier cycle turcs (1,376 réponses codées, accord inter-évaluateurs κ = 0.87) pour cartographier leurs représentations cognitives de l'IA. Les associations se regroupaient autour de l'utilité instrumentale, la commodité (f = 145) et la rapidité (f = 110), tandis que la transparence algorithmique, la vie privée et les concepts de [[governance|gouvernance]] n'étaient pas seulement rares mais structurellement isolés du groupe dominant de l'utilité (τ de Kendall = −0.819). Les auteurs soutiennent que livrer un module d'éthique dans une architecture cognitive dépourvue de schéma existant pour le recevoir échouera probablement : les programmes doivent construire des **ponts** explicites entre la connaissance quotidienne des outils et les cadres éthiques et de gouvernance, et les micro-certifications devraient séquencer le contenu pour combler cet écart structurel plutôt que de reproduire ce que les étudiants savent déjà. C'est un argument de **diagnostic des besoins** pour la conception des interventions, et c'est l'une des rares études à fournir un diagnostic fondé sur les données avant l'enseignement. Voir [[san-orhan-karsak-ai-cognition-micro-credentials-2026|Connaître son nom, pas sa nature]].
+## Ce qui va vous revenir dessus
 
-Une vision contrastée et [[situated-learning|située]] vient des sept groupes de discussion de Dai et Chan avec 28 chercheurs de troisième cycle, qui ont mis en acte la [[ai-literacy|littératie en IA]] de manière différenciée dans le flux de travail de la recherche, avec un usage plus intense dans les tâches procédurales à faibles enjeux (mise en forme, traduction, explication) et une prudence nettement plus grande là où la contribution savante était en jeu, et qui ont tracé leurs propres frontières entre assister et substituer leur raisonnement. Leur conclusion est que la littératie en IA se conçoit mieux comme une capacité située que comme une liste statique de compétences, et que les orientations d'usage responsable devraient [[scaffolding|étayer]] chaque dimension de la littératie à travers des tâches réelles plutôt que d'imposer des règles binaires. Voir [[dai-chan-responsible-genai-research-ai-literacy-2026|Orienter l'usage responsable de l'IA générative en recherche par des lignes directrices axées sur la littératie en IA]].
+**« Il n'y a pas de place dans le programme. »** Ajoutez la critique à un devoir que vous notez déjà, comme Beck et Brodersen l'ont repliée dans des routines d'apprentissage actif existantes. Un cours séparé coûte plus cher et enseigne la même chose.
 
-## Certifications et évaluation au niveau du programme
+**« Nos étudiants ont grandi avec cette technologie. »** La familiarité avec l'outil est exactement ce que Şan et Orhan Karsak ont mesuré : la commodité et la rapidité, avec la vie privée et la gouvernance structurellement détachées. L'aisance à utiliser une chose n'est pas sa compréhension.
 
-La littératie en IA est de plus en plus dispensée par des certificats et des micro-certifications, et c'est là que l'évaluation est la plus mince. Wu et Li ont construit un système d'indicateurs d'évaluation pondérés par des experts (AHP / Fuzzy-AHP avec vérification de robustesse par Monte Carlo, 18 experts) pour les programmes de certificat en IA et ont trouvé que **la compétence professionnelle du corps enseignant présentait le plus grand écart importance-satisfaction**, avec une importance perçue élevée (0.1976) contre une faible satisfaction actuelle, ce qui identifie la capacité des enseignants, et non l'infrastructure technologique, comme le principal frein à la transformation pédagogique ; l'adaptabilité interculturelle a reçu le poids stratégique le plus faible (0.0735), signalant un biais technologique dans la certification à un stade précoce. Voir [[wu-li-evaluation-indicator-ai-certificate-programs-2026|Système d'indicateurs d'évaluation pour les programmes de certificat en IA]]. Cela met en avant une question que la littérature sur les interventions a à peine testée : une certification atteste-t-elle une [[ai-literacy|littératie en IA]] durable ou enregistre-t-elle simplement une complétion, et les [[teacher-education|enseignants]] qui la dispensent sont-ils eux-mêmes outillés pour en juger.
+**« Donnez-nous juste la taille d'effet. »** g = 0.837, p < .001, sur 59 études, avec un intervalle de prédiction à 95% de -0.292 à 1.966. Le second chiffre est celui qui gouverne votre décision.
 
-## Évaluation globale des données
+**« Nous interrogerons les étudiants à la fin du trimestre. »** Vous aurez alors mesuré l'acceptation. Wang et al. disent explicitement ce que cela ne peut pas soutenir, sur un échantillon de 831.
 
-Globalement, les données peuvent être caractérisées comme **modérées pour les principes de conception pédagogique, mais encore faibles à modérées pour l'efficacité causale**.
+**« Le certificat est le mécanisme de redevabilité. »** Wu et Li ont trouvé que la compétence des enseignants était la contrainte déterminante, et que l'adaptabilité interculturelle pesait le moins. Un certificat enregistre que quelqu'un a terminé quelque chose.
 
-Le modèle actuel le plus défendable pour l'[[higher-ed|enseignement supérieur]] est de :
+**« Nos enseignants ne sont pas prêts à enseigner cela. »** Les preuves sont d'accord. La capacité des enseignants était le plus grand écart dans les données de Wu et Li, et aucune étude de cette page ne teste comment le combler.
 
-1. Intégrer la littératie en IA dans des tâches disciplinaires authentiques.
-2. Demander aux étudiants de former un jugement ou une solution initiale avant de consulter l'IA.
-3. Exiger la comparaison, la vérification et la critique des productions de l'IA.
-4. Intégrer le dialogue entre pairs et la réflexion.
-5. Répéter ces expériences dans le temps plutôt que de se fier uniquement à des ateliers ponctuels.
-6. Évaluer les étudiants par des **tâches fondées sur la performance exigeant une évaluation indépendante et un jugement responsable**, plutôt qu'en se fiant uniquement à des sondages de confiance ou d'auto-déclaration.
+## À faire cette semaine
 
-Des lacunes importantes subsistent. La littérature a encore besoin de plus **d'études multi-institutions randomisées ou quasi expérimentales fortes, de mesures de résultats communes validées, de tests différés de rétention et de transfert, et de données sur la persistance des gains de littératie lorsque les étudiants rencontrent de nouveaux modèles d'IA, de nouvelles disciplines ou des modes de défaillance de l'IA qui ne leur sont pas familiers**.
+**1.** Choisissez un devoir noté et ajoutez une étape où les étudiants produisent leur propre réponse avant de consulter l'IA.
 
-En bref, les données actuelles soutiennent de traiter la littératie en IA comme une **pratique critique intégrée à la discipline**, et non simplement comme une connaissance de l'IA ou une maîtrise de la rédaction d'invites. L'argument pédagogique en faveur de la critique, de la comparaison, de la réflexion, de la collaboration et d'une pratique authentique répétée est de plus en plus cohérent, mais les preuves que des interventions particulières produisent une littératie en IA durable et transférable restent moins établies. Pour savoir comment cette conclusion se traduit en conception concrète de cours, voir [[incorporating-ai-literacy|Comment intégrer la littératie en IA dans mon cours ?]] ; pour les endroits où les données elles-mêmes restent minces, voir [[research-gaps-aied|Quelles sont les lacunes notables de la littérature sur l'IA en éducation ?]].
+**2.** Écrivez l'invite de critique contre votre grille existante, pour que les étudiants évaluent la sortie selon la norme que vous appliquez déjà.
+
+**3.** Programmez une deuxième passation de la même activité plus tard dans le trimestre, dans le même cours.
+
+**4.** Remplacez une question de confiance en fin de trimestre par un court item de performance, et notez-le.
+
+**5.** Demandez à la personne responsable de votre micro-certification quelle preuve de compétence elle acceptera, et obtenez la réponse par écrit.
+
+## Où aller ensuite
+
+[[incorporating-ai-literacy|How should I incorporate AI literacy into my course?]] porte la question de conception dans la planification de cours. [[ai-literacy]] contient le concept et son débat sur la mesure, et [[research-gaps-aied|la page sur les lacunes de recherche]] couvre les endroits où cette littérature reste mince.

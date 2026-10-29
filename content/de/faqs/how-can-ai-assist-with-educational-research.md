@@ -1,7 +1,7 @@
 ---
 title: "Wie kann KI Bildungsforschung unterstützen?"
 created: "2026-10-05T11:23:36-04:00"
-updated: "2026-10-10T09:50:26-04:00"
+updated: "2026-10-29T07:57:30-04:00"
 weight: 72
 type: faq
 connected_faqs: [evaluating-ai-interventions-methods, reporting-interpreting-aied-research, research-gaps-aied, equity-ethics-pedagogical-safety-research]
@@ -16,10 +16,14 @@ level: [higher ed]
 page_kind: [evaluation]
 confidence: medium
 translation_of: faqs/how-can-ai-assist-with-educational-research
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-28T11:26:02-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-29"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
@@ -28,105 +32,120 @@ ai_assist:
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
 
-# Wie kann KI Bildungsforschung unterstützen?
+Ihre Mitautorin möchte einen Absatz im Methodenteil über die KI-Werkzeuge, die das Team genutzt hat. Oder der Screening-Stapel ist länger, als die Frist erlaubt. Oder eine Gutachterin hat höflich gefragt, ob ein Mensch die Transkripte gelesen hat, und Sie sind nicht sicher, was die ehrliche Antwort ist.
 
-KI kann echte Arbeit aus einem Bildungsforschungsprojekt herausnehmen – Literatur finden, Tausende Abstracts screenen, Analysecode entwerfen, offene Antworten zusammenfassen, ein Manuskript straffen. Was sie nicht tun kann, ist Verantwortung für das zu tragen, was das Projekt schließt. Das ehrliche Bild, und das, was die Belege stützen, ist Arbeitsteilung statt Übergabe: weisen Sie Automatisierung der prozeduralen Last zu, verifizieren Sie jede Ausgabe, und behalten Sie die Deutungsentscheidungen beim Menschen ([[scaffolding-systematic-reviews-2026|Wang et al., 2026]]).
-
-Diese Seite handelt von KI als dem *Instrument* der Forschungsarbeit – Suche, Screening, Synthese, Kodierung, Analyse und Schreiben, einschließlich der Praxisuntersuchung, die eine Dozentin oder ein Dozent über den eigenen Unterricht führt. Ob eine bestimmte KI-*Intervention* Lernenden hilft, ist eine andere Frage, abgedeckt von den am Ende verlinkten FAQs und von [[ai-assisted-educational-research|KI-gestützte Bildungsforschung]]. Viel des Folgenden ist ehrlicher Vorbehalt: die Belegbasis ist dünn, und mehrere der Fehlermodi sind still.
+Die kurze Antwort für dieses Treffen: KI kann die Suche, einen ersten Screening-Durchgang, die Triage beim Kodieren und das Entwerfen übernehmen, und sie kann keine Verantwortung für das tragen, was das Projekt folgert. Entscheiden Sie vor Projektbeginn, welche Aufgaben für sie offen sind, prüfen Sie Ausgaben gegen einen menschlichen Standard mit einer benannten Person, die Streitfälle entscheidet, und protokollieren Sie genug, dass eine außenstehende Person rekonstruieren könnte, was passiert ist. Die meisten Teams stellen fest, dass die Stunden für Prüfung und Protokollierung zusätzliche Arbeit sind, nicht eingesparte.
 
 ## Die kurze Version
 
-**1.** Entscheiden Sie schriftlich, welche Forschungsaufgaben KI nutzen dürfen und welche nicht, bevor das Projekt beginnt. Forschende in [[dai-chan-responsible-genai-research-ai-literacy-2026|Dai und Chans (2026) Fokusgruppenstudie]] kalibrierten Nutzung nach Einsatzhöhe und intellektueller Zentralität statt nach pauschaler Erlaubnis – stärker bei risikoarmer prozeduraler Arbeit, vorsichtig, wo der wissenschaftliche Beitrag zentral war.
+**1.** Schreiben Sie vor der ersten Suche auf, welche Forschungsaufgaben KI nutzen dürfen und welche nicht. Sortieren Sie nach Tragweite, nicht nach Werkzeug.
 
-**2.** Halten Sie Automatisierung auf der prozeduralen Last. Screening ist, wo sie am meisten hilft; Datenextraktion, Abgleich und Synthese blieben bei menschlichen Prüfenden in dem einen Team, das seinen Workflow berichtete ([[scaffolding-systematic-reviews-2026|Wang et al., 2026]]).
+**2.** Setzen Sie die Automatisierung beim Screening ein. Lassen Sie Datenextraktion, Abgleich und Synthese bei Menschen.
 
-**3.** Verifizieren Sie jede Ausgabe gegen einen menschlichen Standard, und sagen Sie, wer adjudizierte. Übereinstimmung zwischen einem Modell und einem menschlichen Kodierer – oder zwischen zwei Modellen –, ist ein Ähnlichkeitsmaß, kein Beleg dafür, dass die Kodierung richtig ist ([[agreement-not-quality-llm-coding-verification]]).
+**3.** Legen Sie Codebuch und Raster fest, bevor ein automatisierter Durchgang die Daten berührt.
 
-**4.** Fixieren Sie Ihre Rubriken und Codebücher, bevor die automatisierte Analyse läuft; Konstrukte, Kodierungsrubriken und Trainingsdaten sind menschliche Entscheidungen, keine Modellausgaben ([[ai-methodologies-science-education-research-2026|Martin et al., 2026]]).
+**4.** Entscheiden Sie, was Prüfung bedeutet und wer sie unterschreibt. Übereinstimmung zwischen einem Modell und einer kodierenden Person ist ein Ähnlichkeitsmaß, kein Qualitätsergebnis.
 
-**5.** Verifizieren Sie jede Referenz, die Sie zitieren, von Hand, besonders Autorfelder, wenn KI das Schreiben berührte ([[citation-errors-hallucinations-computing-education-2026|Denny et al., 2026]]).
+**5.** Prüfen Sie jede Referenz von Hand, zuerst die Autorinnen und Autoren, wann immer KI am Text beteiligt war.
 
-**6.** Protokollieren Sie Prompts, Modellversionen und Korpusversionen, legen Sie die Rolle der KI offen, und budgetieren Sie Zeit für Verifikation und Dokumentation – für die meisten Teams ist das *hinzugefügte* Arbeit, nicht entfernte.
+**6.** Protokollieren Sie Prompts, Modellversionen und Korpusversionen, und planen Sie die Stunden dafür ein.
 
-## Wo KI echte Arbeit spart – und wo sie welche hinzufügt
+## Entscheiden Sie vor Projektbeginn, was KI berühren darf
 
-### Literatursuche und -abruf
+Die Reichweitenentscheidung gehört in die Projektakte und nicht in das Gedächtnis von jemandem. In [[dai-chan-responsible-genai-research-ai-literacy-2026|Dai und Chans (2026) Fokusgruppenstudie]] kalibrierten Forschende, die darüber nachgedacht hatten, die Nutzung nach Tragweite und intellektueller Zentralität: stärker bei wenig riskanter Verfahrensarbeit, vorsichtig dort, wo der wissenschaftliche Beitrag zentral war. 27 der 28 Nachwuchsforschenden in dieser Studie hatten GenAI irgendwo im Arbeitsablauf genutzt, einschließlich wissenschaftlichen Schreibens und Übersetzens; für die meisten Teams ist die Frage also, wo die Linie liegt, nicht ob es eine gibt.
 
-Generative Suche fasst zusammen, empfiehlt, synthetisiert und konversiert, was die Annahme verunsichert, dass das System Quellen findet, während die Deutung bei der Leserin oder dem Leser bleibt ([[genai-academic-search-workshop]]). Es ist ein schneller Weg, Kandidatenliteratur zu *lokalisieren*. Zwei Vorsichtsmaßnahmen aus jenem Workshop: Fähigkeit ist ungleich – hochzitierte Gelehrte wurden etwa doppelt so häufig rekonstruiert wie niedriger zitierte Peers –, und eine Bibliothekarin berichtete eine Vertrauenslücke, in der Studierende generativer Suche übervertrauten, während die Fakultät ihr misstraute. Nutzen Sie sie für Entdeckung, und verifizieren Sie dann jede Quelle selbst.
+Schreiben Sie die Linie als Liste mit einem Urteil für jede Aufgabe: Literatursuche, Abstract-Screening, Extraktion, qualitative Kodierung, statistische Analyse, Entwerfen, Referenzformatierung. Lesen Sie diese Studie als Landkarte dessen, was Forschende berichteten zu tun. Sie ist ein Fokusgruppenbericht, kein Wirksamkeitsergebnis.
 
-### Screening und systematische Reviews
+## Setzen Sie die Automatisierung beim Screening ein und behalten Sie die Synthese im Team
 
-Systematische Reviews sind, wo Automatisierung am weitesten vorangekommen ist. Werkzeuge wie ASReview, SWIFT-Review, Covidence, AIScreenR und MetaMate reduzierten die prozedurale Last hauptsächlich beim Abstract-Screening, während Extraktion und Synthese menschlich blieben ([[scaffolding-systematic-reviews-2026|Wang et al., 2026]]). Schreiben Sie Entscheidungsregeln für Grenzfälle, bevor das Screening beginnt, behalten Sie „Vielleicht"-Kategorien, und protokollieren Sie jede Adjudikation in einem geteilten Protokoll, sodass dasselbe Urteil konsistent angewandt wird.
+Systematische Reviews sind der Bereich, in dem die Automatisierung am weitesten fortgeschritten ist. Werkzeuge wie ASReview, SWIFT-Review, Covidence, AIScreenR und MetaMate senkten die Verfahrenslast vor allem beim Abstract-Screening, während Datenextraktion, Abgleich und Synthese in dem einen Team, das seinen Arbeitsablauf berichtete, bei menschlichen Gutachtenden blieben ([[scaffolding-systematic-reviews-2026|Wang et al., 2026]]).
 
-### Qualitative Kodierung und Analyse
+Der größte Teil des Nutzens kommt aus zwei Designentscheidungen. Schreiben Sie Entscheidungsregeln für Graubereichsfälle, bevor das Screening beginnt, und führen Sie eine Kategorie „vielleicht" mit einem gemeinsamen Entscheidungsprotokoll, damit dieselbe Beurteilung auf dieselbe Art von Eintrag angewandt wird. Ohne das Protokoll divergieren die Regel der zweiten Gutachterin und die des ersten Gutachters still, und die Ausschlussliste ist nicht mehr reproduzierbar.
 
-[[qualitative-research|Qualitative Analyse]] ist die Phase, in der Deutung *das Produkt ist*. KI kann einen ersten Durchgang über offene Antworten skalieren, aber sie verlagert Ihre Rolle vom Kodieren zum Validieren der Ausgaben des Modells, und sie verändert die Fähigkeiten, die die Aufgabe erfordert ([[ai-methodologies-science-education-research-2026|Martin et al., 2026]]). Lagern Sie nach Code aus statt en bloc: [[agreement-not-quality-llm-coding-verification|eine blinde Verifikationsstudie]] klassifizierte 15 von 72 Codebuchpunkten als nachweislich menschliche Expertise erfordernd, 12 als besser durch ein Modell bedient, und 16 als geeignet für konfidenzbasierte Triage.
+## Legen Sie das Codebuch fest, bevor das Modell etwas liest
 
-### Datenanalyse
+[[qualitative-research|Qualitative Analyse]] ist die Stufe, auf der die Interpretation das Produkt ist. Konstrukte, Kodierraster und Trainingsdaten sind menschliche Entscheidungen und keine Modellausgaben ([[ai-methodologies-science-education-research-2026|Martin et al., 2026]]), was heißt, dass das Codebuch feststehen muss, bevor ein automatisierter Durchgang über den Korpus läuft. Die Alternative ist ein Kodierschema, das um das herum geschrieben wurde, was das Modell zufällig zutage brachte, und die Themen beschreiben dann die Lesart des Werkzeugs von Ihren Daten.
 
-Automatisierte Messfunktionen können präzise und prädiktiv aussehen und gleichzeitig intransparent bleiben, weshalb erklärbare KI hier bedeutsam ist: sie kann offenbaren, ob ein Modell semantisches Verständnis verfolgt oder nur Stichwörter ([[ai-methodologies-science-education-research-2026|Martin et al., 2026]]). Behandeln Sie jeden automatisierten Wert als Hypothese, die gegen ein Maß zu validieren ist, das an die Fähigkeit gebunden ist, die Sie zu untersuchen beabsichtigen. Für die Maße selbst siehe [[evaluating-ai-interventions-methods]].
+Delegation kann feinkörniger sein als alles oder nichts. [[agreement-not-quality-llm-coding-verification|Eine Blindverifikationsstudie]] klassifizierte 15 von 72 Codebuch-Items als nachweislich menschliche Expertise erfordernd, 12 als besser durch ein Modell bedient und 16 als für zuversichtsbasierte Triage geeignet. Sortieren Sie Ihre eigenen Items so, und die Arbeitsersparnis landet dort, wo sie sicher ist.
 
-### Schreiben, Zitation und Editieren
+## Entscheiden Sie, was Prüfung bedeutet und wer sie unterschreibt
 
-Entwerfen, Strukturieren und Editieren sind, wo die meisten Forschenden diese Werkzeuge bereits nutzen – 27 von 28 Graduierten in der Forschung in [[dai-chan-responsible-genai-research-ai-literacy-2026|Dai und Chan (2026)]] nutzten GenAI irgendwo über den Workflow hinweg, einschließlich akademischem Schreiben und Übersetzung. Der eine nicht verhandelbare Schritt ist Referenzverifikation.
+Hohe Übereinstimmung zwischen einem Modell und einer menschlichen Kodiererin wird berichtet, als ob sie Korrektheit belegt. Das tut sie nicht. [[agreement-not-quality-llm-coding-verification|Liu et al. (2026)]] ließen eine unabhängige Expertin 855 paarweise Codesätze blind gegenüber der Quelle beurteilen. Die Übereinstimmung Mensch-LLM (mittlerer Jaccard 0.30) lag deutlich unter der Übereinstimmung Mensch-Mensch (0.52), dennoch bevorzugte die blinde Prüferin menschliche und maschinelle Kodierung in Raten, die sie nicht unterscheiden konnte (51.5% gegen 48.5%, p = 0.537). In einigen Fällen kodierte der menschliche Konsens eine geteilte Verzerrung, die die Prüferin zugunsten des Modells verwarf.
 
-### Den Workflow führen: Protokolle, Offenlegung und Aufwandsbudget
+Der Prüfschritt braucht also einen Goldstandard, der weder die Ausgabe des Modells noch die Übereinstimmung der Kodiererin mit ihr ist, plus eine benannte Person, die die Uneinigkeiten entschieden hat. Berichten Sie beides. Eine Ähnlichkeitsstatistik beschreibt, wie eng zwei Lesarten übereinstimmen, und sie sagt nichts darüber, ob eine der beiden richtig ist.
 
-[[persistent-ai-agents-academic-research|Eine 115-tägige, einzelne Untersucherin betreffende Fallstudie]] eines persistenten Forschungsagenten fand als stärkstes Muster Kapazitätserweiterung statt belegter Arbeitsersetzung: während Gedächtnis und Verfahren sich akkumulierten, wuchs der Umfang der ausgelagerten Arbeit, statt dass der Input des Menschen schrumpfte. Das ist die realistische Erwartung. Halten Sie Prompt-Antwort-Protokolle und Korpusversionen – eine flüssig generierte Themenliste sieht unvermeidlich aus, lange bevor ihre Belegarbeit begonnen hat ([[chain-behind-claim-warrantability-2026|Holster, 2026]]) –, und legen Sie die Rolle der KI als Pfad offen, nicht als Kästchen zum Abhaken.
+## Suchen Sie schnell, prüfen Sie dann jede Quelle selbst
 
-## Praktische Ratschläge für Praxis-Forschende
+Generative Suche fasst zusammen, empfiehlt, synthetisiert und dialogisiert, was die ältere Anordnung verunsichert, in der das System findet und die Leserin interpretiert ([[genai-academic-search-workshop]]). Behandeln Sie sie als Entdeckungswerkzeug. Der Workshop-Bericht enthält zwei Warnungen: Die Fähigkeit ist ungleich, wobei viel zitierte Forschende mit etwa doppelter Rate rekonstruiert wurden wie weniger zitierte Peers, und eine Bibliothekarin beschrieb eine Vertrauenslücke, in der Studierende generativer Suche zu sehr vertrauten, während Lehrende ihr misstrauten.
 
-Das Scholarship of Teaching and Learning und Klassenraumuntersuchung – eine Lehrkraft, die den eigenen Kurs untersucht, oft in kleinem Maßstab –, sind der dünnste Strang des Korpus. [[ai-assisted-educational-research|KI-gestützte Bildungsforschung]] stellt das als Lücke fest statt als Befund: KI-gestützte Praxisuntersuchung ist plausibel weit verbreitet und fast undokumentiert, und die Review-Automatisierungs- und bibliometrischen Belege entscheiden nicht, wie eine Dozentin oder ein Dozent den eigenen Unterricht untersuchen sollte. Was übertragt, ist eine Disposition statt ein Ergebnis.
+Die Referenzprüfung ist der Punkt, an dem das nicht verhandelbar wird, und die Fehler ballen sich im Autorenfeld, dem Feld, das die Anerkennung trägt. [[citation-errors-hallucinations-computing-education-2026|Denny et al. (2026)]] prüften 723.930 Publikationen und 15.872.533 Referenzen und verifizierten 30 erfundene Referenzen in 14 informatischen Bildungsarbeiten, alle aus 2025 und 2026. 17 der 30 waren Hybride: ein echter Titel, verbunden mit erfundenen oder falschen Autorinnen und Autoren. Die verifizierte Zahl bei einem technischen Symposium stieg von 3 im Jahr 2025 auf 17 im Jahr 2026, in 2.3% der Verfahrensbeiträge dieses Jahres. Ihre Summe ist eine bewusste Untergrenze, und automatisierte Prüfer erben die Fehler der Metadaten, die sie als Wahrheit behandeln. Prüfen Sie zuerst die Autorinnen und Autoren.
 
-**1.** Nutzen Sie KI, wo Ihr lokales Setting nicht die Variable ist: die Literatur Ihres Felds durchsuchen, Ihre eigenen Aufzeichnungen transkribieren und zusammenfassen, und Instrumente oder Einverständnissprache entwerfen.
+## Behandeln Sie einen automatisierten Score als Hypothese
 
-**2.** Halten Sie die Deutungsschritte – was als Thema zählt, was der Kommentar eines Studenten bedeutet, was Ihre Klassenraumbelege begründen – bei sich, und sagen Sie in der Ausarbeitung, welche Schritte das Modell machte und welche Sie ([[chain-behind-claim-warrantability-2026|Holster, 2026]]).
+Automatisierte Messfunktionen können präzise und prädiktiv wirken und dabei undurchsichtig bleiben. [[ai-methodologies-science-education-research-2026|Martin et al.]] rahmen das mit Changs nomischem Messproblem: Eine Größe zu messen verlangt ein Gesetz, das sie auf etwas Beobachtbares bezieht, und dieses Gesetz lässt sich nicht prüfen, ohne die Größe bereits zu kennen. KI-abgeleitete Messfunktionen entstehen aus Trainingsdaten und Optimierung und nicht aus der Forscherin, deshalb ist Arbeit an Erklärbarkeit wichtig, um zu zeigen, ob ein Modell semantisches Verstehen verfolgt oder nur Schlüsselwörter.
 
-**3.** Definieren Sie Ihre Kriterien vorab und halten Sie sie sichtbar, weil eine kleine lokale Studie sich nicht von einem Konstrukt erholen kann, das nach dem Eintreffen der Daten definiert wurde.
+Der Fehler ist konkret. In [[zhang-platform-scores-miss-ai-teaching-agents-2026|einer Evaluation von acht KI-Lehragenten]] landete der Agent, der nach dem eigenen Score der Plattform Dritter war, auf einem expertenvalidierten Raster auf dem letzten Platz. Mensch-Maschine-Uneinigkeit ist systematisch und nicht zufällig, und die Operationalisierung des Rasters ist oft wichtiger als die Kunstfertigkeit des Prompts ([[machines-misread-pedagogical-quality|Tseng et al., 2026]]). Bevor ein automatisierter Score Ihr Instrument wird, validieren Sie ihn gegen ein Maß, das an die Fähigkeit gebunden ist, die Sie untersuchen wollen. Zu den Maßen selbst siehe [[evaluating-ai-interventions-methods]].
 
-**4.** Berichten Sie die Rolle der KI, die Verifikation, die Sie durchführten, und die Grenzen eines Einzelkurs-, Einzeluntersuchungs-Designs. Stellen Sie einen Workflow-Bericht nicht so dar, als sei er ein Wirksamkeitsergebnis.
+## Schreiben Sie den Methodenteil so, dass eine außenstehende Person ihn prüfen kann
 
-**5.** Behandeln Sie das Simulieren einer Kohorte als fortgeschrittene Option statt als Standard: simulierte Lernende neigen dazu, das leichteste Quadranten echten Studierendenverhaltens abzudecken, und werden selten nach der Nutzung validiert ([[simulating-students]]). Siehe [[making-simulated-students-behave-like-learners]], bevor Sie dem Urteil eines Simulators vertrauen.
+Die Verbreitung ist der Berichterstattung vorausgelaufen. [[prisma-llm-ai-assisted-systematic-reviews-2026|Zabaleta und Lin (2026)]] analysierten 888 Arbeiten zur Review-Automatisierung: Seit 2023 berichteten 38.0% der Software- und Produktarbeiten überhaupt keine Evaluation, gegenüber 9.3% der LLM-Arbeiten, und der Modellzugang war überwiegend proprietär (84.1%). Eine günstige Gesamtbewertung implizierte auch keine Eignung für Delegation, denn 52% von 118 ausschließlich positiven LLM-Arbeiten berichteten weiterhin eine Sorge, dass der Arbeitsablauf unter der Schwelle blieb, die ihre Rolle verlangt. Ihr PRISMA-LLM-Rahmenwerk trennt die Offenlegung der Implementierung von der folgenbewussten Evaluation und behandelt seine fünf Stufen als Offenlegungsstufen, nicht als Risikostufen.
 
-## Vorbehalte und zu berücksichtigende Themen
+Die praktische Version: Nennen Sie das System und seine Version, die Prompts, die Korpusversion, was ein Mensch geprüft hat und wo es versagt hat. Führen Sie Prompt-und-Antwort-Protokolle, denn eine flüssige generierte Themenliste wirkt lange unvermeidlich, bevor ihre beweisende Arbeit überhaupt begonnen hat ([[chain-behind-claim-warrantability-2026|Holster, 2026]]).
 
-### Erfundene Referenzen und Zitationsfehler
+Kalkulieren Sie auch die Stunden. [[persistent-ai-agents-academic-research|Eine 115-tägige Einzelfallstudie mit einer einzigen Forscherin]] zu einem persistenten Forschungsagenten fand als stärkstes Muster Kapazitätserweiterung statt nachgewiesener Arbeitsersetzung: Während Gedächtnis und Verfahrensweisen anwuchsen, wuchs der Umfang der delegierten Arbeit, während der Beitrag des Menschen nicht kleiner wurde.
 
-KI-gestütztes Entwerfen macht ein plausibles erfundenes Zitat billig zu erzeugen, und die Fehler sind unverhältnismäßig in Autorfeldern – dem Feld, das Credit trägt. In einer Prüfung von 723.930 Publikationen und 15.872.533 Referenzen verifizierten [[citation-errors-hallucinations-computing-education-2026|Denny et al. (2026)]] 30 erfundene Referenzen über 14 Informatikbildungspapiere, alle aus 2025 und 2026; 17 der 30 waren Hybride, die einen echten Titel mit erfundenen oder falschen Autoren paarten, und die verifizierte Zahl auf einem technischen Symposium stieg von 3 in 2025 auf 17 in 2026, und erschien in 2.3% der Proceedings-Papiere jenes Jahres. Ihre Zahl ist eine absichtsvolle untere Grenze, und automatische Prüfer erben die Fehler der Metadaten, die sie als Grundwahrheit behandeln. Verifizieren Sie jedes Zitat selbst, und prüfen Sie zuerst die Autoren.
+## Führen Sie Praktikerforschung mit denselben Regeln im kleineren Maßstab durch
 
-### Die Berichts- und Prüfungslücke
+Wenn Sie ein Lehrender sind, der den eigenen Kurs untersucht, arbeiten Sie im dünnsten Strang des Korpus. [[ai-assisted-educational-research|AI-Assisted Educational Research]] benennt das als Lücke und nicht als Befund: KI-unterstützte Praktikerforschung ist plausibel weit verbreitet und fast undokumentiert, und die Evidenz zur Review-Automatisierung und zur Bibliometrie entscheidet nicht, wie ein Lehrender das eigene Unterrichten untersuchen sollte.
 
-Annahme ist dem Berichten vorausgelaufen. [[prisma-llm-ai-assisted-systematic-reviews-2026|Zabaleta und Lin (2026)]] analysierten 888 Review-Automatisierungspapiere: seit 2023 berichteten 38.0% der Software- und Produktpapiere überhaupt keine Evaluation, gegenüber 9.3% der LLM-Papiere, und Modellzugang war überwältigend proprietär (84.1%). Selbst eine günstige Gesamtbewertung implizierte nicht Eignung für Delegation – 52% von 118 rein-positiven LLM-Papieren berichteten weiterhin ein Anliegen, dass der Workflow unter der für seine Rolle erforderlichen Latte blieb. Ihr Framework PRISMA-LLM trennt Implementierungsoffenlegung von folgensensitiver Evaluation und behandelt seine fünf Stufen als Offenlegungsstufen statt als Risikostufen. Die praktische Erkenntnis ist, dass die Evaluationstiefe eines Workflows *benannt* werden sollte, nicht angenommen: benennen Sie das System, die Version, die Prompts, was Menschen prüften, und wo es scheiterte.
+Was übertragbar ist, ist eine Reihe von Haltungen:
 
-### Übereinstimmung ist kein Beleg für Qualität
+Nutzen Sie KI dort, wo Ihr lokales Setting nicht die Variable ist. Die Literatur Ihres Fachs durchsuchen, Ihre eigenen Aufnahmen transkribieren und zusammenfassen und Instrumente oder Einwilligungstexte entwerfen — all das qualifiziert sich.
 
-Hohe Übereinstimmung mit menschlichen Kodierern – oder zwischen zwei Modellen –, wird routiniert berichtet, als etabliere sie Korrektheit. Sie tut es nicht. [[agreement-not-quality-llm-coding-verification|Liu et al. (2026)]] ließen einen unabhängigen Experten 855 paarweise Codesätze blind gegenüber der Quelle beurteilen: Mensch-LLM-Übereinstimmung (mittlere Jaccard 0.30) fiel weit unter Mensch-Mensch-Übereinstimmung (0.52), doch der blinde Verifizierer bevorzugte menschliche und maschinelle Kodierung mit nicht unterscheidbaren Raten (51.5% vs 48.5%, p = 0.537). Manchmal kodierte menschlicher Konsens geteilten Bias, den der Verifizierer zugunsten des Modells verwarf. Nehmen Sie blinde Verifikation an, berichten Sie die Grundwahrheit und wer adjudizierte, und routen Sie nach Code, statt die Pipeline als ein einheitliches menschliches Prüfsetting zu behandeln.
+Behalten Sie die interpretativen Züge. Was als Thema zählt, was ein Kommentar einer studierenden Person bedeutet und was Ihre Unterrichtsevidenz stützt, entscheiden Sie, und die Darstellung sollte sagen, welche Züge das Modell gemacht hat und welche Sie ([[chain-behind-claim-warrantability-2026|Holster, 2026]]).
 
-### Konstruktvalidität, wenn ein automatisiertes Maß zum Instrument wird
+Legen Sie Ihre Kriterien vorab fest und halten Sie sie sichtbar. Eine kleine lokale Studie erholt sich nicht von einem Konstrukt, das definiert wurde, nachdem die Daten da waren.
 
-Wenn die Ausgabe eines Modells *zum Forschungsinstrument wird*, ist die Messfrage eine Konstruktvaliditäts-Frage. [[ai-methodologies-science-education-research-2026|Martin et al. (2026)]] rahmen das mit Changs nomischem Messproblem: eine Größe zu messen erfordert ein Gesetz, das sie auf etwas Beobachtbares bezieht, doch jenes Gesetz kann nicht getestet werden, ohne die Größe bereits zu kennen. KI-abgeleitete Messfunktionen entstehen aus Trainingsdaten und Optimierung statt von der Forscherin oder dem Forscher, also können sie präzise aussehen und gleichzeitig intransparent bleiben –, und Vergleichbarkeit muss sich über Studierendenpopulationen erstrecken, weil Machine Learning dazu neigt, kanonische Ideen besser zu kodieren als die vielfältigen Weisen, auf die Studierende schwächere ausdrücken. Ein bequemer automatisierter Wert kann außerdem das falsche Konstrukt indexieren: in [[zhang-platform-scores-miss-ai-teaching-agents-2026|einer Evaluation von acht KI-Lehragenten]] rangierte der vom Score der Plattform drittplatzierte Agent auf einer expertenvalidierten Rubrik zuletzt. Mensch-Maschine-Uneinigkeit ist systematisch statt zufällig, und Rubrikoperationalisierung zählt oft mehr als Prompt-Handwerk ([[machines-misread-pedagogical-quality|Tseng et al., 2026]]).
+Berichten Sie die Rolle der KI, die Prüfung, die Sie vorgenommen haben, und die Grenzen eines Designs mit einem einzigen Kurs und einer einzigen Forscherin. Ein Bericht über einen Arbeitsablauf ist kein Wirksamkeitsergebnis.
 
-### Sie bleiben für die Deutung rechenschaftspflichtig
+Behandeln Sie die Simulation einer Kohorte als fortgeschrittene Option und nicht als Standard. Simulierte Lernende decken tendenziell den einfachsten Quadranten realen Studierendenverhaltens ab und werden nach der Nutzung selten validiert ([[simulating-students]]). Lesen Sie [[making-simulated-students-behave-like-learners]], bevor Sie dem Urteil eines Simulators vertrauen.
 
-Jemand muss für eine ausgeschlossene Studie, ein kodiertes Thema oder eine Prävalenzbehauptung verantwortlich sein. Vortrainierte Modelle fügen eine Schicht epistemischer Abhängigkeit hinzu – ihre Trainingsdaten, Feinabstimmung und Ziele können unbekannt sein –, und weil sie aus soziotechnischen Netzwerken entstehen, wird Verantwortung schwer zuzuweisen, ein „Viele-Hände-Problem" ([[ai-methodologies-science-education-research-2026|Martin et al., 2026]]). Die Rolle der KI in den Methoden zu benennen ist Teil der Antwort, aber es transferiert die Rechenschaftspflicht nicht. Halten Sie den Deutungspfad inspizierbar, anfechtbar und revidierbar ([[chain-behind-claim-warrantability-2026|Holster, 2026]]), und halten Sie einen benannten Menschen für jede folgenreiche Entscheidung rechenschaftspflichtig.
+## Was Forschende hier falsch machen
 
-### Datenschutz und Einverständnis für studentische Daten in Drittanbieterwerkzeugen
+Übereinstimmung mit einer menschlichen Kodiererin heißt, dass die Kodierung richtig ist. Die Übereinstimmung Mensch-LLM in der Blindstudie lag bei 0.30 Jaccard gegen 0.52 bei Mensch-Mensch, und die blinde Prüferin konnte die beiden Kodierquellen bei 51.5% gegen 48.5% nicht auseinanderhalten. Übereinstimmung hält fest, dass zwei Lesarten konvergierten, auch wenn sie auf derselben Verzerrung konvergierten.
 
-Klassenraum- und studentische Daten, die durch Drittanbieterwerkzeuge laufen, tragen Einverständnis-, Governance- und Vertraulichkeitsverpflichtungen, die jedem Effizienzargument vorhergehen. [[prisma-llm-ai-assisted-systematic-reviews-2026|Zabaleta und Lin (2026)]] fanden Modellzugang überwältigend proprietär (84.1%), was heißt, dass studentischer Text typischerweise Ihre Institution verlässt. Erheben Sie nur, was der bildungswirksame Zweck braucht, machen Sie Datennutzung und Grenzen des Werkzeugs transparent, prüfen Sie, ob Daten der lernenden Person die Modelle des Anbieters trainieren, und bevorzugen Sie lokale oder synthetische Daten, wo Sensitivität hoch ist. Die vollständige Behandlung dieser Verpflichtungen – zusammen mit Gerechtigkeit, Barrierefreiheit und pädagogischer Sicherheit – steht in [[equity-ethics-pedagogical-safety-research]].
+Ein Referenzprüfer ersetzt das Prüfen von Referenzen. Die 30 erfundenen Referenzen im Denny-Audit enthalten 17 Hybride, bei denen der Titel echt und die Autorinnen und Autoren es nicht waren — genau der Fall, den ein auf Metadaten trainiertes Prüfwerkzeug am schlechtesten behandelt, weil die Metadaten das sind, was falsch ist.
 
-## Was die Belege noch nicht etablieren
+Eine günstige Evaluation macht einen Arbeitsablauf passend für Ihre Rolle. Von 118 ausschließlich positiven LLM-Arbeiten berichteten 52% weiterhin eine Sorge, dass der Arbeitsablauf unter der Schwelle blieb, die ihre Rolle verlangte. Lesen Sie die Tiefe der Evaluation gegen die Aufgabe, die Sie ihm geben.
 
-- **Kein direkter Vergleich.** Die Ankerarbeit stellt den Vergleich zwischen KI-gestützten und traditionellen Methoden als künftige Arbeit dar; keine Studie hier zeigt, dass eine KI-Methodik validere Schlussfolgerungen erbringt ([[ai-methodologies-science-education-research-2026|Martin et al., 2026]]).
-- **Dünne Designs durchgehend.** Die Belege sind ein Framework-Vorschlag, der reflexive Bericht eines Teams, ein Workshop-Bericht, eine Fokusgruppenstudie und beobachtende Bibliometrie – kein kontrollierter Versuch einer KI-gestützten Methode. Die Rollenverlagerungs- und Kapazitätserweiterungs-Behauptungen kommen von Berichten einzelner Sites und einzelner Untersucherinnen und Untersucher.
-- **Eine Berichtslücke, keine Prüfung der Praxis.** PRISMA-LLM liest Papierebenen-Stille; ein Workflow ohne Evaluation in seinem Papier mag in einem Produktbericht, Protokoll oder Repository weiterhin validiert sein.
-- **Praxis-Forschung ist unterrepräsentiert.** Das Korpus kann keine Behauptungen darüber begründen, wie Lehrkräfte KI nutzen sollten, um ihre eigene Praxis zu untersuchen.
-- **Die Werkzeuge sind ein bewegliches Ziel.** Ein Befund über einen 2025er-Workflow beschreibt eine Generation von Systemen, die in jener Form möglicherweise nicht mehr existieren, also muss Reproduzierbarkeit an eine Modellversion und ein Datum gebunden werden.
+Prompt-Kunstfertigkeit ist der wichtigste Hebel für Qualität. Die Operationalisierung des Rasters ist bei Mensch-Maschine-Übereinstimmung oft wichtiger als die Kunstfertigkeit des Prompts, und die Evaluation mit acht Agenten reihte dasselbe System je nach angewandtem Raster auf Platz drei und auf den letzten Platz.
 
-## Verbundene Fragen
+KI nimmt Arbeit aus dem Projekt. Die 115-tägige Fallstudie fand einen wachsenden delegierten Umfang, während das Gedächtnis des Agenten anwuchs. Prüfung, Entscheidung von Streitfällen und Protokollierung sind die Stunden, die damit wachsen.
 
-- [[evaluating-ai-interventions-methods|Welche Maße und Forschungsmethoden kann eine Lehrkraft nutzen, um KI-bezogene Interventionen zu evaluieren?]] — die Methodendesign-Frage, von der KI-gestützte Workflows abhängen
-- [[reporting-interpreting-aied-research|Was sind Best Practices für das Berichten und Deuten von Forschung zu KI in der Bildung?]] — wie das KI-System, das Maß und Ihre eigene KI-Nutzung zu berichten sind
-- [[research-gaps-aied|Was sind bemerkenswerte Lücken in der Forschungsliteratur zu KI in der Bildung?]] — wo die Belege fehlen oder schwach sind
-- [[equity-ethics-pedagogical-safety-research|Wie sollte Forschung zu KI in der Bildung Gerechtigkeit, Barrierefreiheit, Datenschutz, Ethik und pädagogische Sicherheit einbeziehen?]] — die Verpflichtungen rund um studentische Daten und Sicherheit
-- [[ai-assisted-educational-research]] — die vollständige Konzeptseite zu KI als Instrument der Forschungsarbeit
-- [[making-simulated-students-behave-like-learners|Wie bringen wir einen simulierten Studenten dazu, sich wie ein echter Lernender zu verhalten?]] — bevor ein Simulator als Forschungsinstrument genutzt wird
+## Was Ihnen entgegenkommen wird
+
+**„Meine Mitautorin macht das schon, und niemand hat sich beschwert."** Dass sich niemand beschwert, ist kein Befund zur Validität. Die Frage der Offenlegung ist von der Frage der Qualität getrennt, und die Zahl von 38.0% für unbewertete Softwarearbeiten sagt, dass das Schweigen des Feldes weit verbreitet ist.
+
+**„Zwei Modelle stimmten überein, also ist die Kodierung entschieden."** Zwei Modelle, die Trainingsdaten teilen, teilen ihre Fehler. Die blinde Prüferin in der Liu-Studie bevorzugte maschinelle Kodierung zu 48.5%, und was diese Zahl interpretierbar machte, war eine unabhängige Beurteilung, nicht die Übereinstimmung selbst.
+
+**„Wir können ein proprietäres Modell nicht prüfen, also gibt es nichts zu berichten."** PRISMA-LLM verlangt die Offenlegung der Implementierung als eine von der Evaluationstiefe getrennte Stufe. System, Version, Prompts, was Menschen geprüft haben und wo es versagt hat — all das ist auch für ein geschlossenes Modell berichtbar.
+
+**„Die Ethikkommission wird das nie genehmigen."** Der Modellzugang war in 84.1% der untersuchten Arbeiten proprietär, was heißt, dass studentische Texte in der Regel Ihre Institution verlassen. Erheben Sie nur, was der Bildungszweck braucht, prüfen Sie, ob Lernendendaten die Modelle des Anbieters trainieren, und bevorzugen Sie lokale oder synthetische Daten, wo die Sensibilität hoch ist. [[equity-ethics-pedagogical-safety-research]] behandelt die Pflichten vollständig.
+
+**„Das wird langsamer sein als es von Hand zu machen."** Bei einem kleinen Projekt ist es das oft. Das Argument dafür ruht auf dem Umfang bei Skalierung, und das Argument gegen Übertreibung ruht auf demselben 115-Tage-Bericht.
+
+## Was Sie diese Woche tun können
+
+**1.** Schreiben Sie die Aufgabenliste mit einem Urteil neben jedem Punkt, und legen Sie sie dorthin, wo das ganze Team sie sieht.
+
+**2.** Fügen Sie die Entscheidungsregeln für Graubereiche und das Entscheidungsprotokoll Ihrem Screening-Protokoll hinzu, bevor der nächste Stapel beginnt.
+
+**3.** Wählen Sie eine automatisierte Ausgabe, auf die Sie sich bereits verlassen, und validieren Sie sie gegen ein menschliches Urteil an einer Stichprobe, die Sie noch nicht angesehen haben.
+
+**4.** Lesen Sie das letzte Manuskript, das Sie eingereicht haben, und prüfen Sie jeden Autorennamen in der Referenzliste von Hand.
+
+**5.** Fügen Sie Ihrem Methoden-Template eine Zeile „wo die KI versagt hat" hinzu, damit die Gewohnheit der Offenlegung einmal aufgeschrieben ist.
+
+## Wohin als Nächstes
+
+Die begleitenden Fragen sind [[evaluating-ai-interventions-methods]] dazu, wie man eine Intervention misst, [[reporting-interpreting-aied-research]] zum Berichten des Systems und der eigenen KI-Nutzung und [[research-gaps-aied]] dazu, wo die Literatur dünn ist. [[equity-ethics-pedagogical-safety-research]] behandelt studentische Daten, und [[ai-assisted-educational-research]] ist die vollständige Konzeptseite hinter dieser.
