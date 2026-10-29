@@ -11,11 +11,15 @@ confidence: high
 connected_faqs: [asynchronous-online-courses-ai]
 methods: [ai-ed-evaluation]
 translation_of: concepts/learning-analytics
-source_updated: "2026-10-27T10:05:00-04:00"
-updated: "2026-10-28T13:12:16-04:00"
+source_updated: "2026-10-28T19:24:33-04:00"
+updated: "2026-10-29T05:05:47-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-29"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-28"
@@ -50,7 +54,7 @@ ai_assist:
 
 ### Analítica mejorada con IA
 
-- **Analítica predictiva:** el [[reinforcement-learning|aprendizaje automático]] sobre datos de interacción del estudiantado predice resultados, desde la [[at-risk-students-ml-prediction|identificación de estudiantes en riesgo]] hasta la [[knowledge-tracing|estimación del estado de conocimiento]].
+- **Analítica predictiva:** el [[machine-learning|aprendizaje automático]] sobre datos de interacción del estudiantado predice resultados, desde la [[at-risk-students-ml-prediction|identificación de estudiantes en riesgo]] hasta la [[knowledge-tracing|estimación del estado de conocimiento]].
 - **La validación importa tanto como la predicción.** [[schuetze-knowledge-tracing-forgetting-2026|Schuetze, Yan y Carvalho (2025)]] muestran que los modelos predictivos de estado de conocimiento (BKT, BKT-with-Forgetting, AFM) parecen precisos cuando se ajustan de forma retrospectiva a un historial completo de sesiones, pero bajo **validación cruzada basada en el tiempo**, es decir, prediciendo la sesión siguiente a partir de las anteriores, que es como se despliega realmente la analítica, sobreestiman el rendimiento de quienes aprenden, pierden las dinámicas de espaciamiento y olvido y pueden ordenar mal las condiciones de práctica. La advertencia para la analítica es esta: el ajuste retrospectivo puede enmascarar una validez predictiva futura pobre con datos longitudinales, así que los modelos de indicadores y de paneles deberían validarse de forma progresiva y hacia adelante.
 
 - **Valide el mapeo entre ítems y atributos que sostiene la estimación.** La matriz Q que vincula ítems con atributos es un supuesto y no un dato: las entradas rechazadas para 14 de 918 ítems de pensamiento analítico, una vez corregidas, redujeron un patrón espurio de estado de conocimiento del 14,2% al 3,8%, de modo que la analítica de dominio debería auditar su matriz Q y no solo su ajuste predictivo ([[bayesian-cognitive-diagnosis-personalized-learning-paths|Feng y Huang, 2026]]).

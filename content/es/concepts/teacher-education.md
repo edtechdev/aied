@@ -1,7 +1,7 @@
 ---
 title: "Formación docente"
 created: "2026-09-28T19:17:40-04:00"
-updated: "2026-10-28T19:12:31-04:00"
+updated: "2026-10-29T05:05:47-04:00"
 type: concept
 foundations: [ai-literacy, teacher-role, tpack]
 connected_faqs: [faculty-development-ai]
@@ -9,10 +9,14 @@ audience: [instructors]
 level: [teacher education, k 12, adult learning]
 confidence: high
 translation_of: concepts/teacher-education
-source_updated: "2026-10-28T09:45:00-04:00"
+source_updated: "2026-10-28T19:24:33-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-29"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-28"
@@ -56,7 +60,7 @@ La formación inicial prepara a los futuros docentes durante sus programas de ce
 - **Los ciclos estructurados con GPT personalizados produjeron cuatro roles de socio cognitivo.** En un estudio de diseño de un semestre, 14 docentes en formación de Tecnologías Digitales usaron agentes GPT personalizados e integrados en el LMS mediante ciclos de indicar, reflexionar y refinar, y asumieron los roles de tutor conceptual, codiseñador, espejo reflexivo y desafiador cognitivo a medida que crecía su pericia ([[zagami-generative-ai-cognitive-partner-2026|Zagami]]); el 82% de los artefactos finales relacionaron descriptores de contenido, tareas de evaluación y criterios de logro.
 - **[[educational-robotics|Robótica educativa]] y aprendizaje automático.** La formación inicial integra actividades de programación, robótica y [[machine-learning|aprendizaje automático]] (por ejemplo, micro:bit) para desarrollar el [[computational-thinking|pensamiento computacional]] en los futuros docentes.([[microbit-robotics-machine-learning-teacher-training-2026]])
 - **Evaluación auténtica y metacognición.** Los modelos de evaluación mediados por IA (por ejemplo, AAIWA) integran [[authentic-assessment|evaluación auténtica basada en rúbricas]], [[ai-feedback-quality|retroalimentación con IA]] sensible a las condiciones y [[metacognition|reflexión metacognitiva]] en los programas de formación inicial.([[aaiwa-ai-authentic-assessment-metacognition-2026]])
-- **Indagación apoyada por IA en la [[stem-education|enseñanza de las ciencias]].** Un cuasi-experimento con 48 docentes de ciencias en formación en Turquía ([[ai-supported-inquiry-photosynthesis-respiration-2026|Aydın]]) integró el aprendizaje basado en problemas y en diseño en un programa de indagación guiada con apoyo de IA de 8 semanas sobre la fotosíntesis y la respiración. Produjo mejoras significativas en la comprensión conceptual de los dos procesos [[biology-education|biológicos]], pero *ningún* efecto significativo en la alfabetización en IA ni en el [[computational-thinking|pensamiento computacional]] autopercibido: un recordatorio de que la indagación apoyada por IA puede profundizar la comprensión de la materia en los futuros docentes sin desarrollar automáticamente sus competencias de IA y de pensamiento computacional, que exigen un diseño explícito y específico.
+- **Indagación apoyada por IA en la [[science-education|enseñanza de las ciencias]].** Un cuasi-experimento con 48 docentes de ciencias en formación en Turquía ([[ai-supported-inquiry-photosynthesis-respiration-2026|Aydın]]) integró el aprendizaje basado en problemas y en diseño en un programa de indagación guiada con apoyo de IA de 8 semanas sobre la fotosíntesis y la respiración. Produjo mejoras significativas en la comprensión conceptual de los dos procesos [[biology-education|biológicos]], pero *ningún* efecto significativo en la alfabetización en IA ni en el [[computational-thinking|pensamiento computacional]] autopercibido: un recordatorio de que la indagación apoyada por IA puede profundizar la comprensión de la materia en los futuros docentes sin desarrollar automáticamente sus competencias de IA y de pensamiento computacional, que exigen un diseño explícito y específico.
 
 - **[[generative-ai|IA generativa]] para el diseño instruccional constructivista.** El [[sahab-model-genai-constructivist-id-2026|modelo SAHAB]] es una intervención cuasiexperimental de desarrollo profesional en la que la IA generativa capacita al profesorado para diseñar instrucción [[constructivist|constructivista]], con ganancias grandes (d = 1,18). Muestra que la IA generativa puede [[scaffolding|servir de andamiaje]] al [[learning-design|diseño instruccional]] tanto de docentes en formación como en ejercicio: no solo entregar contenido, sino apoyar el *diseño* de actividades de aprendizaje centradas en el estudiante.
 - **Formación en aulas inteligentes para estudiantes de máster en [[math-education|educación matemática]].** [[instructional-design-proficiency-masters-math-2026|Zhu, Liang, Mao y Wang (2026)]] muestran cómo un curso de máster en matemáticas puede enriquecerse con [[ai-technologies|tecnologías]] educativas inteligentes ([[automated-assessment|calificación automatizada]], recomendaciones personalizadas, retroalimentación con varias IA) en las etapas previa, durante y posterior a la clase, con ganancias estadísticamente significativas en la competencia para diseñar objetivos instruccionales. El modelo transferible D-T-E (exigencia disciplinar, empoderamiento tecnológico, bucle de evaluación) ofrece a los formadores de docentes un marco [[discipline-specific-aied|específico de la disciplina]] para integrar la educación inteligente en la formación de posgrado del profesorado.

@@ -1,7 +1,7 @@
 ---
 title: Gobernanza de la IA
 created: "2026-09-25T04:32:03-04:00"
-updated: "2026-10-28T13:12:16-04:00"
+updated: "2026-10-29T05:05:47-04:00"
 type: concept
 foundations: [ai-education]
 ethics: [ethics, privacy]
@@ -11,10 +11,14 @@ confidence: high
 institutions: [change-management, educational-policy-ai, regulation]
 connected_resources: [institutional-ai-readiness-pack, campus-ai-framework, campus-ai-development]
 translation_of: concepts/governance
-source_updated: "2026-10-27T13:25:06-04:00"
+source_updated: "2026-10-28T19:28:52-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-29"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-28"
@@ -35,7 +39,7 @@ ai_assist:
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 
-> **Gobernanza de la IA**: los marcos, políticas, estructuras institucionales y normas que guían el diseño, el despliegue y el uso responsables de la [[ai-education|inteligencia artificial en la educación]]. La gobernanza abarca mecanismos institucionales formales (grupos rectores de IA, políticas sobre integridad académica y uso aceptable, revisión ética) y normas informales (directrices del profesorado, desarrollo profesional, culturas de [[reducing-ai-misuse|uso responsable de la IA]]). En la era de la IA, una gobernanza eficaz es un requisito previo para una adopción ética, [[equity-in-ai-education|equitativa]] y sostenible de la IA generativa: determina si la IA se integra de forma transparente y con rendición de cuentas, o si se adopta de manera reactiva y de formas que profundizan las inequidades.
+> **Gobernanza de la IA**: los marcos, políticas, estructuras institucionales y normas que guían el diseño, el despliegue y el uso responsables de la [[ai-education|inteligencia artificial en la educación]]. La gobernanza abarca mecanismos institucionales formales (grupos rectores de IA, políticas sobre integridad académica y uso aceptable, revisión ética) y normas informales (directrices del profesorado, desarrollo profesional, culturas de [[ai-literacy|uso responsable de la IA]]). En la era de la IA, una gobernanza eficaz es un requisito previo para una adopción ética, [[equity-in-ai-education|equitativa]] y sostenible de la IA generativa: determina si la IA se integra de forma transparente y con rendición de cuentas, o si se adopta de manera reactiva y de formas que profundizan las inequidades.
 
 ## Preguntas para considerar
 

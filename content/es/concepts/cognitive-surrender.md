@@ -1,7 +1,7 @@
 ---
 title: Rendición cognitiva
 created: "2026-09-28T21:09:18-04:00"
-updated: "2026-10-26T21:37:14-04:00"
+updated: "2026-10-29T05:05:47-04:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [metacognition, self-regulated-learning]
@@ -13,10 +13,14 @@ connected_faqs: [reducing-over-reliance, verify-ai-output, does-ai-help-students
 connected_resources: [pause-ai-use-self-examination]
 confidence: high
 translation_of: concepts/cognitive-surrender
-source_updated: "2026-10-25T20:20:00-04:00"
+source_updated: "2026-10-29T10:20:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-29"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
@@ -69,13 +73,15 @@ Tres experimentos prerregistrados adaptaron el Test de Reflexión Cognitiva y al
 
 La lectura práctica es que la rendición es un **fallo de discriminación** y no un fallo de motivación. Los participantes que se rindieron no intentaban evitar el trabajo: no sabían distinguir el buen consejo del malo, y la interfaz no les daba ninguna razón para intentarlo.
 
+Un experimento prerregistrado de [[braun-cognitive-dormancy-ai-affordances-2026|Braun (2026)]] aporta una configuración contrastante. Con el asistente acotado por recuperación aumentada a la hoja de trabajo asignada, la condición de IA redujo la descarga cognitiva (mediana −0,27) en lugar de elevarla, y ninguna vía de descarga canalizó el aumento de la desorganización (0,84). La rendición necesita un asistente cuyo consejo pueda adoptarse en bloque; un sistema que solo responde a partir del material presente da a quien aprende menos que adoptar y más que conciliar.
+
 ## La rendición fuera del laboratorio
 
 Los hallazgos de laboratorio coinciden con el trabajo de campo y observacional que llegó de forma independiente a la misma palabra.
 
 - **Desplazamiento a escala poblacional.** [[generative-ai-reduced-study-time-math|Rismanchian et al. (2026)]] analizan 3,2 millones de interacciones de aprendizaje en ALEKS y 12,2 millones de tiempos de respuesta de [[assessment|evaluación de nivel]] a lo largo de un panel de diez años, con problemas basados en grafos como control de los basados en texto. El estudiantado completó más rápido el trabajo susceptible a la IA y obtuvo mejores puntuaciones en él, mientras que los ítems de retención supervisados mostraron una disminución acumulada del 25% en las probabilidades de una respuesta correcta; los autores llaman a este patrón rendición cognitiva a escala poblacional.
 - **La verificación como variable discriminante.** [[stamatoulis-genai-use-patterns-2026|Stamatoulis et al. (2026)]] encuentran que *cómo* usan el estudiantado la IA generativa predice el [[learning-gains|rendimiento]], mientras que *cuánto* la usan no predice ni lo uno ni lo otro: una adopción con poca verificación —aceptar la salida sin criterio— se asoció con peores resultados, y la integración evaluativa con mejores.
-- **El uso irreflexivo erosiona los recursos que necesita la autodirección.** [[genai-thoughtless-use-self-directed-learning-2026|Zhao y Gu (2026)]] modelan directamente el adoptar sin evaluar: en 487 estudiantes de grado, el uso irreflexivo de la IA generativa se asoció con un menor [[self-regulated-learning|aprendizaje autodirigido]] (β = −0,42), en parte a través de una menor [[motivation|motivación]] y [[self-efficacy|autoeficacia]].
+- **El uso irreflexivo erosiona los recursos que necesita la autodirección.** [[genai-thoughtless-use-self-directed-learning-2026|Zhao y Gu (2026)]] modelan directamente el adoptar sin evaluar: en 487 estudiantes de grado, el uso irreflexivo de la IA generativa se asoció con un menor [[self-directed-learning|aprendizaje autodirigido]] (β = −0,42), en parte a través de una menor [[motivation|motivación]] y [[self-efficacy|autoeficacia]].
 - **El rastro neuronal y de autoría.** [[your-brain-on-chatgpt-cognitive-debt-essay-writing|el estudio EEG sobre deuda cognitiva]] midió la [[writing-education|escritura de ensayos]] con un [[llm|LLM]], con un buscador y sin herramienta: el grupo del LLM mostró la conectividad neuronal más débil, declaró la menor autoría sobre su propio trabajo y tuvo dificultades para citar lo que había escrito.
 - **La rendición puede llegar sin que se pida.** [[ai-advice-suppresses-ikt-suspension-2026|El trabajo sobre la suspensión del juicio]] encontró que la mera disponibilidad de consejo de IA hizo colapsar la disposición de las personas a decir «no lo sé» (0,06 frente a 0,36, y 0,03 frente a 0,44 en dos estudios), mientras que la corrección bajó y la confianza subió de unos 30 a 76. Lo que estaba en juego no restauró la suspensión, aunque los incentivos mejoraron la precisión al fomentar las anulaciones. Un cuarto estudio mostró el efecto sin ninguna consulta, el patrón de un autocompletado o de un resumen de búsqueda más que el de un prompt de chat.
 - **Los modos dependiente y autónomo solo se distinguen en sus consecuencias.** [[family-school-autonomy-support-genai-2026|Fan, Li y Zhang (2026)]] siguen a 589 estudiantes y trabajadores en inicio de carrera a lo largo de tres oleadas: la descarga dependiente delegaba el pensamiento central y se asociaba con menor motivación intrínseca, mientras que la descarga autónoma no lo hacía, y el rendimiento inmediato parecía idéntico en ambos casos.
@@ -140,3 +146,4 @@ La evidencia de la rendición como constructo con nombre propio se apoya en gran
 - [[brcic-effortless-trap-productive-struggle-2026]] — Colocar la IA para que la tarea siga exigiendo esfuerzo
 - [[metacognitive-training-optimal-cognitive-offloading-2026]] — Entrenamiento en calibración
 - [[family-school-autonomy-support-genai-2026]] — Descarga dependiente frente a autónoma
+- [[braun-cognitive-dormancy-ai-affordances-2026]] — Un asistente anclado a la hoja de trabajo redujo la descarga en lugar de elevarla: una condición límite para la firma de la rendición (Braun 2026)

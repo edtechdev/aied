@@ -1,7 +1,7 @@
 ---
 title: IA con intervención humana (HITL)
 created: "2026-09-25T04:31:15-04:00"
-updated: "2026-10-26T22:02:40-04:00"
+updated: "2026-10-29T05:05:47-04:00"
 connected_faqs: [ai-agents-support-students-instructors, designing-educational-ai-software, ai-feedback-at-scale]
 type: concept
 foundations: [ai-education]
@@ -12,10 +12,14 @@ confidence: medium
 methods: [benchmark]
 ethics: [pedagogical-safety]
 translation_of: concepts/human-in-the-loop-ai
-source_updated: "2026-10-26T11:15:00-04:00"
+source_updated: "2026-10-28T19:13:23-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-29"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-25"
@@ -42,7 +46,6 @@ ai_assist:
 ## Introducción
 
 La HITL es una respuesta a los límites y los riesgos de la [[ai-education|IA en educación]] plenamente autónoma: los sistemas automatizados pueden generar a escala, pero carecen del juicio contextual, [[ethics|ético]] y pedagógico que aportan el profesorado y las personas expertas. Dos implementaciones recientes ilustran arquitecturas distintas:
-
 - **La intervención humana es insuficiente si la persona solo aprueba.** [[learning-analytics-genai-learning-design|Rienties, Divjak y Law (2026)]] sostienen que una agencia significativa exige la capacidad de comprender, contestar, rediseñar y a veces rechazar las recomendaciones apoyadas por IA, y no simplemente aprobar decisiones moldeadas en otra parte.
 
 El apoyo prescriptivo es un ámbito en el que se sostiene cada vez más que la supervisión humana no es opcional. [[lopez-pernas-llm-appropriate-student-support-2026|López-Pernas et al. (2026)]] comprobaron si tres LLM podían recomendar planes de apoyo al estudiantado a partir de indicadores de [[learning-analytics]] y hallaron una sensibilidad limitada a la necesidad y una acusada inconsistencia entre modelos, por lo que concluyeron que el juicio con intervención humana sigue siendo necesario antes de que el asesoramiento prescriptivo con [[llm]] pueda desplegarse de forma segura y ética.
@@ -80,12 +83,12 @@ La ubicación puede importar más que la presencia: el personal profesional valo
 
 ## Por qué importa la HITL en la era de la IA
 
-El diseño con intervención humana se ha vuelto central en los debates de esta base de conocimientos sobre la [[agentic-ai|IA agéntica]] y el [[reducing-ai-misuse|uso responsable de la IA]] por varias razones convergentes:
+El diseño con intervención humana se ha vuelto central en los debates de esta base de conocimientos sobre la [[agentic-ai|IA agéntica]] y el [[ai-literacy|uso responsable de la IA]] por varias razones convergentes:
 - **Seguridad pedagógica.** La [[pedagogical-safety]] exige que la IA con autoridad didáctica real mantenga supervisión humana, de modo que los errores, sesgos o salidas dañinas se detecten antes de llegar a quienes aprenden. Esto es especialmente importante en el caso de los agentes autónomos que [[agentic-ai|persiguen objetivos de forma proactiva]].
 - **La supervisión es rara en la práctica, no solo en la teoría.** [[agentic-ai-education-scoping-review|Wang et al. (2026)]] hallaron que la gobernanza integrada robusta y la supervisión con intervención humana rara vez se manifestaban en 474 sistemas educativos de IA agéntica, incluso mientras crecían la autonomía de tarea única y la colaboración multiagente: la brecha entre el principio de diseño y la práctica desplegada.
 - **La pregunta crítica es cómo se hace accionable el bucle, no cuánto participan las personas.** Una visión desde las ciencias del aprendizaje sostiene que organizar el aprendizaje en torno a la captura de datos, la interpretación computacional y la respuesta probable hace que la acción pedagógica dependa de lo que los sistemas pueden detectar y sobre lo que pueden actuar, y que las alertas y las clasificaciones de implicación interpretan a quien aprende antes de que actúe ningún docente ni estudiante ([[in-the-loop-educational-ai-learning-sciences-2026|Pande (2026)]]).
 - **Validez y control de calidad.** La HITL es una puerta de calidad para la [[automated-assessment|evaluación automatizada]] y la generación: las personas dirimen allí donde la puntuación automatizada no es fiable (véase la [[llms-do-not-grade-essays-like-humans-2026|investigación sobre la calificación de ensayos con LLM]] en [[research-methods-aied|métodos de investigación]]) y validan los ítems generados. Una revisión [[meta-analysis-systematic-review|sistemática]] guiada por PRISMA de 42 estudios sobre calificación y retroalimentación (2023–2025) llega explícitamente a la misma conclusión: los LLM igualan a los evaluadores humanos en tareas cortas y bien estructuradas, pero no pueden sustituir plenamente el juicio humano en el trabajo complejo, abierto o subjetivo, y la máxima eficacia de calificación se alcanza en sistemas híbridos que combinan la calificación impulsada por IA con la supervisión y la verificación del profesorado ([[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]). [[falahat-chatgpt-grading-pharmacy-exams-2026|Falahat et al. (2026)]] muestran de forma concreta dónde cae esa frontera: ChatGPT-5 igualó al profesorado en los ítems objetivos de exámenes de farmacia (CCC 0,935–1,000), pero no fue fiable en los ítems de respuesta corta y de ensayo incluso cuando se le proporcionaba una rúbrica, lo que llevó a los autores a recomendar una calificación híbrida con revisión humana para las evaluaciones complejas, subjetivas o de altas consecuencias.
- La repetición no sustituye a esa supervisión: al recalificar entregas idénticas en cinco días distintos, el mismo modelo reprodujo sus propios resultados con un alfa de Krippendorff de solo 0,625, con la variación concentrada en las notas intermedias y las notas A y F ausentes de los recuentos de las cinco sesiones ([[llm-grading-assistants-public-health-2026|Brevik et al. (2026)]]).
+- La repetición no sustituye a esa supervisión: al recalificar entregas idénticas en cinco días distintos, el mismo modelo reprodujo sus propios resultados con un alfa de Krippendorff de solo 0,625, con la variación concentrada en las notas intermedias y las notas A y F ausentes de los recuentos de las cinco sesiones ([[llm-grading-assistants-public-health-2026|Brevik et al. (2026)]]).
 - **Agencia de quien aprende.** Mantener a una persona en el bucle preserva la [[agency]] y sostiene el [[self-regulated-learning]], contrarrestando la [[cognitive-offloading|dependencia excesiva]] que puede inducir una asistencia plenamente autónoma.
 
 - **El propio estudiantado sitúa a la persona en el extremo de altas consecuencias.** Entre 93 estudiantes de grado, el 81,7% prefirió la calificación humana para un trabajo final que valía el 40% de la nota, 75 de 93 querían que la IA asistiera en lugar de reemplazar a quienes califican, y 69 querían que la calificación con IA fuera siempre revisada por una persona ([[when-students-prefer-ai-scoring-feedback-2026|Yildirim-Erbasli et al. (2026)]]).

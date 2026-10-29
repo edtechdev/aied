@@ -1,7 +1,7 @@
 ---
 title: Medidas de autoinforme
 created: "2026-09-28T19:11:16-04:00"
-updated: "2026-10-26T22:02:40-04:00"
+updated: "2026-10-29T05:05:47-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [self-efficacy, student-engagement]
@@ -14,10 +14,14 @@ connected_faqs: [evaluating-ai-interventions-methods, does-ai-help-students-lear
 confidence: high
 methods: [quantitative-research, research-methods-aied, qualitative-research]
 translation_of: concepts/self-report-measures
-source_updated: "2026-10-26T11:40:00-04:00"
+source_updated: "2026-10-28T19:13:23-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-29"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
@@ -100,7 +104,7 @@ La satisfacción es el resultado autoinformado más frecuente en este corpus, pr
 - [[preferred-scaffolding-ai-mathematical-modeling|Un estudio sobre andamiaje]] sostiene que la utilidad percibida, la facilidad de uso y la satisfacción inmediata no deberían tratarse como indicadores suficientes de la eficacia del [[scaffolding|andamiaje]].
 - [[nie-personavlm-long-term-personalization-2026|Sobre el modelado del estudiantado alineado con la personalidad]] observa que optimizar la satisfacción del usuario no es lo mismo que optimizar los resultados de aprendizaje, y que ambas cosas pueden separarse.
 
-El patrón que conviene llevarse: la satisfacción responde a las cosas equivocadas cuando el objetivo es el aprendizaje. Un sistema que responde rápido, está de acuerdo con facilidad y reduce el esfuerzo será muy bien valorado, y esas mismas propiedades son las que la base de conocimiento asocia con una menor [[cognitive-offloading|lucha productiva]] y un rendimiento inflado en el trabajo asistido por IA. La satisfacción informada y el aprendizaje medido no son enemigos; simplemente no son sustitutos, y tratar la primera como evidencia del segundo es el deslizamiento más común que documenta esta página.
+El patrón que conviene llevarse: la satisfacción responde a las cosas equivocadas cuando el objetivo es el aprendizaje. Un sistema que responde rápido, está de acuerdo con facilidad y reduce el esfuerzo será muy bien valorado, y esas mismas propiedades son las que la base de conocimiento asocia con una menor [[desirable-difficulties|lucha productiva]] y un rendimiento inflado en el trabajo asistido por IA. La satisfacción informada y el aprendizaje medido no son enemigos; simplemente no son sustitutos, y tratar la primera como evidencia del segundo es el deslizamiento más común que documenta esta página.
 
 ## Qué hace creíble a un instrumento de autoinforme
 

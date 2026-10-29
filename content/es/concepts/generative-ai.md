@@ -1,17 +1,21 @@
 ---
 title: IA generativa
 created: "2026-09-25T03:07:36-04:00"
-updated: "2026-10-26T22:02:40-04:00"
+updated: "2026-10-29T05:05:47-04:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 technology: [intelligent-tutoring, llm, prompt-engineering, rag]
 ethics: [hallucination-risk]
 confidence: high
 translation_of: concepts/generative-ai
-source_updated: "2026-10-26T06:20:00-04:00"
+source_updated: "2026-10-28T19:13:23-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-29"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-25"
@@ -20,7 +24,7 @@ ai_assist:
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 
-> **La IA generativa**: sistemas de IA capaces de producir texto, código, imágenes y otros contenidos, de manera más destacada los grandes modelos de lenguaje como GPT-4 y Claude. La IA generativa es la tecnología que impulsa la actual oleada de [[research-methods-aied|investigación]] sobre la [[ai-education|IA en la educación]].
+> **La IA generativa**: sistemas de IA capaces de producir texto, código, imágenes y otros contenidos, de manera más destacada los grandes modelos de lenguaje como GPT-4 y Claude. La IA generativa es la tecnología que impulsa la actual oleada de [[ai-education|IA en la educación]] y de [[research-methods-aied|investigación]] sobre ella.
 
 ## Preguntas para reflexionar
 
@@ -72,7 +76,7 @@ La generación de contenido también va más allá de las [[math-education|matem
 
 ### La IA generativa en ámbitos especializados: apoyo a la dislexia
 
-Una revisión sistemática interdisciplinar de 2026 (Dabaghi, D'Urso y Sciarrone, guiada por PRISMA, 2018-2024, n=72) encuentra que **la IA generativa está infrautilizada en el ámbito de apoyo a la dislexia**. La investigación sobre IA generativa (toda de 2024) se agrupa en [[conversational-ai|chatbots]] inteligentes, apoyo a la [[teacher-role|formación del profesorado]] y estudios exploratorios, y está superando rápidamente al [[machine-learning|aprendizaje automático]] clásico como herramienta de elección, pero la experimentación rigurosa y la validación en el mundo real siguen en gran medida ausentes. El análisis de tendencias futuras de la revisión apunta a materiales personalizados impulsados por IA generativa y retroalimentación adaptativa en tiempo real, modelos de diagnóstico [[multimodal|multimodales]] que integran seguimiento ocular, EEG y [[learning-analytics|analítica]] del comportamiento, [[intelligent-tutoring|sistemas de tutoría inteligente]] y agentes conversacionales impulsados por PLN, y herramientas de apoyo para el profesorado. Esto ilustra tanto la promesa de la IA generativa para la generación de contenido y el apoyo interactivo en un ámbito especializado y de alta necesidad como el riesgo de que su adopción vaya por delante de la base de evidencia.
+Una revisión sistemática interdisciplinar de 2026 (Dabaghi, D'Urso y Sciarrone, guiada por PRISMA, 2018-2024, n=72) encuentra que **la IA generativa está infrautilizada en el ámbito de apoyo a la dislexia**. La investigación sobre IA generativa (toda de 2024) se agrupa en [[conversational-ai|chatbots]] inteligentes, apoyo a la [[teacher-education|formación del profesorado]] y estudios exploratorios, y está superando rápidamente al [[machine-learning|aprendizaje automático]] clásico como herramienta de elección, pero la experimentación rigurosa y la validación en el mundo real siguen en gran medida ausentes. El análisis de tendencias futuras de la revisión apunta a materiales personalizados impulsados por IA generativa y retroalimentación adaptativa en tiempo real, modelos de diagnóstico [[multimodal|multimodales]] que integran seguimiento ocular, EEG y [[learning-analytics|analítica]] del comportamiento, [[intelligent-tutoring|sistemas de tutoría inteligente]] y agentes conversacionales impulsados por PLN, y herramientas de apoyo para el profesorado. Esto ilustra tanto la promesa de la IA generativa para la generación de contenido y el apoyo interactivo en un ámbito especializado y de alta necesidad como el riesgo de que su adopción vaya por delante de la base de evidencia.
 
 ## Concepciones erróneas comunes
 

@@ -1,7 +1,7 @@
 ---
 title: Aprendizaje personalizado
 created: "2026-09-25T04:31:17-04:00"
-updated: "2026-10-26T22:02:40-04:00"
+updated: "2026-10-29T05:05:47-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [scaffolding]
@@ -10,10 +10,14 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: medium
 translation_of: concepts/personalized-learning
-source_updated: "2026-10-25T14:15:00-04:00"
+source_updated: "2026-10-28T19:13:23-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-29"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-25"
@@ -60,7 +64,7 @@ Yu et al. (2024) personalizan no solo el contenido, sino también el *contexto s
 
 ### AutoML para perfiles de quien aprende
 
-La personalización es un objetivo central para mejorar la calidad educativa, pero procesar datos heterogéneos de conducta de aprendizaje procedentes de múltiples fuentes sigue siendo un reto. Un marco de búsqueda personalizada de arquitecturas cognitivas neuronales, impulsado por [[reinforcement-learning|aprendizaje automático]] automatizado, construye perfiles de quien aprende y genera modelos de diagnóstico para perfiles heterogéneos, integrando datos multimodales para ir más allá de los resultados estáticos de examen.
+La personalización es un objetivo central para mejorar la calidad educativa, pero procesar datos heterogéneos de conducta de aprendizaje procedentes de múltiples fuentes sigue siendo un reto. Un marco de búsqueda personalizada de arquitecturas cognitivas neuronales, impulsado por [[machine-learning|aprendizaje automático]] automatizado, construye perfiles de quien aprende y genera modelos de diagnóstico para perfiles heterogéneos, integrando datos multimodales para ir más allá de los resultados estáticos de examen.
 
 Una base de conocimiento estática no puede personalizar: las ontologías evolucionan despacio y manejan mal la incertidumbre, así que la arquitectura empareja la representación con el tipo de conocimiento —declarativo con ontologías, procedimental con reglas, incierto con ontologías difusas o probabilísticas, implícito con analítica y aprendizaje automático— y prefiere un sistema de ontologías pequeñas y mapeadas a un único modelo monolítico ([[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026|Ivanova, 2026]]).
 
@@ -77,6 +81,7 @@ La [[intelligent-tutoring|tutoría inteligente]] se sitúa en medio: los ITS son
 - **Personalización del sistema frente a personalización percibida**: un sistema puede adaptarse sin que quien aprende se sienta reconocido
 - **Validez longitudinal**: los beneficios de la personalización pueden decaer si los perfiles quedan obsoletos o se sobreajustan
 - **Riesgos de [[equity-in-ai-education|equidad]]**: la personalización excesiva puede dejar a quien aprende atrapado en itinerarios de bajas expectativas
+
 - **Riesgos de sesgo**: condicionar por atributos del estudiante puede codificar estereotipos: manteniendo los ensayos constantes, la retroalimentación para el estudiantado marcado por raza, lengua o discapacidad se volvió más elogiosa y menos crítica ([[marked-pedagogies-linguistic-bias-writing-feedback|Tan, Phalen y Demszky (2026)]]).
 
 ## Personalización y evaluación

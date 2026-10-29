@@ -1,7 +1,7 @@
 ---
 title: Educación en artes, diseño y medios
 created: "2026-09-28T19:10:33-04:00"
-updated: "2026-10-26T21:37:14-04:00"
+updated: "2026-10-29T05:05:47-04:00"
 type: concept
 foundations: [design-thinking]
 pedagogy: [creativity, embodied-learning, project-based-learning]
@@ -11,10 +11,14 @@ confidence: medium
 audience: [instructors, learners, instructional designers, curriculum designers]
 level: [higher ed]
 translation_of: concepts/arts-design-and-media-education
-source_updated: "2026-10-26T09:45:00-04:00"
+source_updated: "2026-10-28T19:13:23-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-29"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
@@ -50,7 +54,7 @@ Las responsabilidades del taller sí cambiaron. En un estudio longitudinal sobre
 
 ## Arquitectura, diseño espacial y diseño de interiores
 
-Un estudio de grupos focales en Derby da al taller un resultado más favorable. [[genai-architecture-education|Kapsalis (2026)]] reunió a dos grupos de ocho estudiantes de arquitectura de niveles 3 a 5 en una sesión de 90 minutos con un flujo de trabajo de generación y edición de imágenes ejecutado localmente y ajustado finamente para interiores residenciales. El estudiantado produjo unas 80 imágenes por sesión, unas diez cada uno, con tasas de aceptación superiores al 60%. La generación de ideas (4,5) y la experimentación (4,2) autoinformadas obtuvieron las puntuaciones más altas en la subescala creativa, mientras que el refinamiento de las decisiones finales (3,7) recibió un apoyo menos uniforme: parte del estudiantado encontró que la herramienta sacaba a la luz combinaciones no consideradas, y otra parte, que distraía con detalles que no encajaban con el concepto. El autor lo enmarca como un «micromundo» construccionista que amplía el espacio de búsqueda creativa sin sustituir el pensamiento de diseño, y señala evidencia de encuesta según la cual casi el 70% del estudiantado de arquitectura ya usa herramientas de IA por su cuenta mientras más del 95% declara no haber recibido [[ai-literacy|formación en IA]] formal.
+Un estudio de grupos focales en Derby da al taller un resultado más favorable. [[genai-architecture-education|Kapsalis (2026)]] reunió a dos grupos de ocho estudiantes de arquitectura de niveles 3 a 5 en una sesión de 90 minutos con un flujo de trabajo de generación y edición de imágenes ejecutado localmente y ajustado finamente para interiores residenciales. El estudiantado produjo unas 80 imágenes por sesión, unas diez cada uno, con tasas de aceptación superiores al 60%. La generación de ideas (4,5) y la experimentación (4,2) autoinformadas obtuvieron las puntuaciones más altas en la subescala creativa, mientras que el refinamiento de las decisiones finales (3,7) recibió un apoyo menos uniforme: parte del estudiantado encontró que la herramienta sacaba a la luz combinaciones no consideradas, y otra parte, que distraía con detalles que no encajaban con el concepto. El autor lo enmarca como un «micromundo» construccionista que amplía el espacio de búsqueda creativa sin sustituir el pensamiento de diseño, y señala evidencia de encuesta según la cual casi el 70% del estudiantado de arquitectura ya usa herramientas de IA por su cuenta mientras más del 95% declara no haber recibido [[ai-education|formación en IA]] formal.
 
 El diseño de interiores plantea la cuestión de la formación profesional con más nitidez. [[ai-interior-design-malaysia-2026|Syed Abdul Rahman (2026)]] describe a los diseñadores malasios desplazándose de generadores primarios de formas hacia mediadores críticos y curadores de la salida de la máquina, con plataformas de [[visualization|visualización]] que comprimen los plazos y amplían la gama de opciones producibles dentro de un presupuesto. Citando trabajo empírico sobre la preferencia de la clientela (Lan et al., 2025), el artículo señala que la salida de IA se valora mucho por su singularidad cuando predominan los criterios estéticos, pero que los diseñadores humanos mantienen una ventaja clara cuando se enfatizan los requisitos funcionales, ergonómicos y contextuales, y que los diseños generados a menudo carecen de especificidad cultural, de respuesta climática y de constructibilidad fiable en un mercado que negocia condiciones tropicales, convivencia multigeneracional y principios espaciales islámicos. Su recomendación curricular es de secuenciación y no de sustitución: enseñar CAD/BIM, conocimiento de la construcción y factores humanos antes de la exploración generativa, y evaluar el [[critical-thinking|pensamiento crítico]] y la reflexión [[ethics|ética]] junto con la calidad visual.
 

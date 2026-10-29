@@ -1,7 +1,7 @@
 ---
 title: Implicación del estudiantado
 created: "2026-09-25T04:03:10-04:00"
-updated: "2026-10-29T04:53:20-04:00"
+updated: "2026-10-29T05:05:47-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [motivation, self-regulated-learning, student-engagement]

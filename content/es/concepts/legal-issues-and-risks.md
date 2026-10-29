@@ -1,7 +1,7 @@
 ---
 title: "Cuestiones y riesgos legales"
 created: "2026-09-28T21:12:00-04:00"
-updated: "2026-10-26T22:02:40-04:00"
+updated: "2026-10-29T05:05:47-04:00"
 type: concept
 foundations: [academic-integrity, reducing-ai-misuse]
 assessment: [ai-detection, assessment-validity, remote-proctoring]
@@ -14,10 +14,14 @@ audience: [administrators, policymakers, institutions, researchers]
 page_kind: [synthesis]
 confidence: medium
 translation_of: concepts/legal-issues-and-risks
-source_updated: "2026-10-25T21:20:00-04:00"
+source_updated: "2026-10-28T18:24:42-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-29"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
@@ -69,6 +73,10 @@ El problema probatorio subyace a todo lo anterior. La salida del detector es la 
 ### Atacar al corrector automático
 
 Una exposición distinta habita dentro de los propios instrumentos. [[humble-prompt-injection-ai-grading-red-team-2026|Humble (2026)]] ocultó cinco inyecciones indirectas de prompts dentro de los archivos de un ensayo sintético que una [[automated-assessment|herramienta institucional de calificación con IA]] (Microsoft Copilot, GPT-5.2) había suspendido en las seis de seis ejecuciones de referencia. Dos estrategias elevaron la calificación sin ninguna advertencia visible para la persona usuaria, con tasas de éxito declaradas del 100% (9 de 9 iteraciones) y del 94% (17 de 18), combinando manipulación de instrucciones, juego de roles y ofuscación; la herramienta desactivó en silencio un chat tras bloquear el ataque más simple, y en una iteración anunció que nunca seguiría instrucciones incrustadas y luego elevó la calificación en cada una de las seis ejecuciones siguientes. Una calificación obtenida mediante una instrucción oculta no conlleva ninguna pretensión de [[assessment-validity|validez]], y la misma técnica podría usarse para degradar una entrega sin dejar rastro duradero en la salida, lo que significa que el expediente de apelación de una decisión automatizada impugnada puede estar vacío y que un hallazgo de mala conducta (o de mérito) no puede probarse en absoluto a partir del artefacto. Las peticiones sectoriales de Humble son claras: [[educational-policy-ai|política de IA]], [[educational-development|desarrollo profesional]] y pruebas de resiliencia estandarizadas y agnósticas al dominio para que la superficie de ataque se mida en lugar de suponerse, con uso restringido de la IA y [[human-in-the-loop-ai|revisión humana]] reservados para el trabajo de alto riesgo.
+
+### Titularidad y la cuestión del dominio público
+
+Los derechos de autor son la otra cuestión jurídica de este ámbito, y van en la dirección opuesta a la de la mala conducta. [[tlili-double-edged-sword-oer-generative-ai-2026|Tlili, Farrow, Bozkurt, Amiel, Wiley y Downes (2026)]] interpretan la postura de la Oficina de Derechos de Autor de Estados Unidos en el sentido de que los prompts por sí solos no bastan para la autoría. Si esa lectura se sostiene, una obra puramente generada por una máquina no pertenece a la persona que la solicitó, lo que importa por partida doble: un caso de mala conducta no tiene un texto de autoría que atribuir a un estudiante, y una institución que publique esa obra no puede reclamar derechos sobre ella. Son entonces las licencias las que hacen el trabajo que de otro modo haría la titularidad, y por eso la licencia abierta y la integridad académica son un mismo problema visto desde dos lados.
 
 ### Más allá de la puerta del campus
 
@@ -129,4 +137,4 @@ En los programas profesionales, la exposición no termina con la graduación. Gu
 - [[li-genai-assessment-language-equity-2026]] — La equidad lingüística como problema de diseño de reglas: el límite entre apoyo y sustitución, la discriminación indirecta y la revisabilidad (Li 2026)
 - [[humble-prompt-injection-ai-grading-red-team-2026]] — Estudiantes que atacan a los correctores de IA mediante inyección indirecta de prompts, con calificaciones modificadas sin ser detectadas (Humble 2026)
 - [[coates-governing-academic-integrity-indicators-2025]] — Indicadores de gobernanza y programa de reforma para autenticar la evaluación (Coates, Croucher y Calderon 2025)
-- [[watson-rainie-ai-challenge-faculty-survey-2026]] — 1.057 docentes estadounidenses: las políticas individuales superan con creces a las institucionales y la respuesta estructural es la creación de capacidad
+- [[watson-rainie-ai-challenge-faculty-survey-2026]] — 1.057 docentes estadounidenses: las políticas individuales superan con creces a las institucionales y la respuesta estructural es escasa (Watson y Rainie 2026)
