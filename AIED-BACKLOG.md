@@ -6,7 +6,7 @@
 >
 > **Scope of this file:** it lists work in progress only — articles whose full text is still being sought, and pages waiting on a source before their practice and limitations sections can be written. Candidates appear here only while they are being pursued, and no outcome is recorded; items judged unsuitable for the knowledge base are tracked outside this repository.
 
-**Last updated:** 2026-10-28
+**Last updated:** 2026-10-29
 **Total backlog:** 0 articles awaiting ingest (the remaining candidates were rejected, see `rejected-sources.yaml`) · 52 truncated source texts awaiting PDFs · 19 pages awaiting a full text before their practice and limitations sections can be written
 
 ## Daily arXiv + OpenAlex scan (2026-10-27)
@@ -14,6 +14,15 @@
 In-scope AI-in-education candidates from this run that were **not ingested**: the run's cap was eight articles, chosen for measured outcomes over self-report. All are open access; the arXiv items have retrievable full text, so any can be ingested on request.
 
 
+
+## Daily arXiv + EdArXiv + OpenAlex scan (2026-10-29)
+
+Four articles were ingested this run — three from open-access publisher full text and one from an
+EdArXiv docx — and every full text is saved under `raw/papers/`. No in-scope candidate from this
+window is awaiting a full text. The remaining candidates were either already ingested by the
+2026-10-27 and 2026-10-28 runs or outside AI-in-education scope (arXiv machine-learning systems,
+agent reinforcement learning, robotics and rendering papers, and general-attitudes surveys with no
+educational setting).
 
 ## Daily arXiv + OpenAlex scan (2026-10-28)
 

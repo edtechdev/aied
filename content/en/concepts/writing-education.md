@@ -2,7 +2,7 @@
 connected_resources: [clarity, writing-rhetoric-studies-in-the-loop]
 title: Writing
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-28T19:24:33-04:00"
+updated: "2026-10-29T10:45:00-04:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading]
 pedagogy: [metacognition]
@@ -86,6 +86,7 @@ Because writing has no single correct answer, AI writing tools require a differe
 - **Treat writing stages differently.** AI involvement at planning reduces perceived ownership less than at drafting, and AI-generated drafting produces the largest ownership decrease. So a coach can ask questions and critique outlines at planning while requiring the learner to produce prose first at drafting.
 - **Make feedback prioritized and reflective.** Each round can offer one strength to preserve, one high-impact issue, one question requiring the writer's judgment, and one concrete revision goal — and the coach should ask learners to evaluate whether they agree with a suggestion, developing [[evaluative-judgment|evaluative judgment]] rather than obedience.
 - **Preserve authorial voice and guard against homogenization.** The coach should distinguish errors, clarity issues, rhetorical choices, and style preferences — and not automatically "correct" the latter, especially for [[multilingual-learning|multilingual]] writers and non-standard rhetorical styles.
+- **Teach the process, not only the tool.** A five-week process–genre unit that built planning, genre analysis and revision around AI-supported multimodal writing raised all three outcomes in a 32-student seventh-grade quasi-experiment (informative text r = 0.66; multimodal r = 0.84; AI-assisted writing r = 0.86) ([[gunay-ozden-process-genre-ai-writing-2026|Günay and Özden, 2026]]).
 
 Two recent syntheses qualify how well this design guidance is followed in practice. A review of 23 empirical customization studies ([[customizing-ai-writing-pedagogy-systematic-review-2026|Luo, 2026]]) finds that although goals have moved toward writing processes and higher-order skills, the dominant technical route remains [[prompt-engineering|prompt engineering]] (13 of 23 studies) aimed at optimizing output quality, with [[learning-theories|learning theory]] confined to the interface so the system behaves "largely theory-agnostic" — a mismatch that helps explain the [[cognitive-offloading|overreliance]] and superficial revision the same studies report. Its reframing is to treat customization as architecture rather than wording: sequencing stages, withholding answers, and building in revision loops. A structured five-part workflow tested over 11 weeks with 53 Saudi EFL undergraduates ([[human-ai-collaboration-academic-writing-2026|Alshehri et al., 2026]]) shows the alternative in practice — students frame problems and design prompts, draft, revise, verify claims and citations against scholarly databases, and regulate their own reliance, logging what they accept or reject and why. Writing proficiency and digital [[critical-thinking|critical thinking]] rose together in that condition (15.23 versus 11.91 and 89.84 versus 56.18 at posttest) while the no-AI control barely moved, though the single-site, partly [[self-report-measures|self-reported]] result is a preliminary upper bound rather than an established effect.
 
@@ -155,6 +156,7 @@ Writing education connects to [[automated-essay-scoring]], [[ai-feedback-quality
 
 ## Connected Articles
 
+- [[gunay-ozden-process-genre-ai-writing-2026]] — A 32-student quasi-experiment: process–genre instruction raised informative, multimodal and AI-assisted writing (Günay & Özden 2026)
 - [[wu-lam-genai-writing-assessment-professors-2026]] — 24 writing professors on grading with AI: benefits for feedback, drift in scores, no institutional rule
 - [[genai-l2-written-feedback-scoping-review-2026]] — 51-study scoping review: prompt transparency gaps and why AI plus teacher beats either alone
 - [[nash-preservice-teachers-classroom-ai-policies-2026]] — Preservice teachers' classroom AI policies: tensions and entanglements

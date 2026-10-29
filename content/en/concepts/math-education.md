@@ -1,7 +1,7 @@
 ---
 title: Math Education
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-28T00:58:16-04:00"
+updated: "2026-10-29T10:45:00-04:00"
 type: concept
 pedagogy: [scaffolding]
 technology: [generative-ai, intelligent-tutoring]
@@ -30,6 +30,8 @@ Mathematics education has become a primary domain for [[ai-education|AI in educa
 ### Key research themes
 
 **AI math tutoring and scaffolding** is the largest cluster, with four articles examining how AI tutors support or undermine math learning. **[[kar-mathbuddy-affective-math-tutoring-2025|MathBuddy]]** demonstrates that adding affective awareness — detecting student emotions from text and facial expressions — produces a +23-point win rate advantage in math tutoring, connecting to [[affective-computing]] and [[affective-tutoring]]. **[[zhang-tutormoments-2026|TutorMoments]]** evaluates 462 teacher-annotated transcripts from grades 2-7 math tutoring and finds frontier models default toward over-helpfulness, rarely pushing for rigor even when students are ready — directly challenging the alignment between AI helpfulness and [[scaffolding]] principles. **[[lak2026-hint-button-unproductive-use|An et al.]]** analyzed 999 students across three semesters in the *Decimal Point* ITS, finding that premature hint requests and superficial hint reading consistently predict reduced [[learning-gains|learning gains]], even after controlling for [[prior-knowledge|prior knowledge]] — a finding that connects to [[help-seeking]] and [[learning-analytics]].
+
+**Task design, not only tutoring.** Analyzing 158 coded text units from 13 prospective primary teachers, Ledezma et al. (2026) found GenAI-designed geometry tasks reached for high cognitive demand yet wrote closed instructions, and one embedded a wrong scale (4 m drawn as 8 cm, stated as 1 m = 4 cm) ([[ledezma-geometry-task-design-genai-preservice-2026|Ledezma et al., 2026]]).
 
 **A satisfaction penalty.** Steering an LLM tutor through a [[productive-failure]] plan instead of letting it answer raised strategy fidelity and produced 2.6 solution attempts per session in a 17-student high-school study, yet students rated the productive-failure tutor less helpful than a baseline ([[puech-pedagogical-steering-llm-productive-failure-2025|Puech et al. (2025)]]).
 
@@ -121,6 +123,7 @@ Math education sits within the broader [[stem-education]] domain with distinctiv
 - [[teacher-education]]
 
 ## Connected Articles
+- [[ledezma-geometry-task-design-genai-preservice-2026]] — Prospective primary teachers' GenAI-designed geometry tasks: high cognitive demand, closed instructions, an embedded scale error (Ledezma et al. 2026)
 - [[llm-math-homework-offloading-traces-2026]] — What the submission does not show: complexifying cognitive offloading in students’ mathematical work with LLMs (Kontorovich & Wallach 2026)
 - [[ai-proof-learning-cognitive-offloading-2026]] — Supporting or replacing students’ reasoning? Cognitive offloading in AI-assisted proof learning (Chen et al. 2026)
 - [[preservice-math-teachers-genai-communication-2026]] — Analysing Mathematical Communication between Pre-Service Mathematics Teachers and GenAI: A Case Study in Abstract Algebra Course

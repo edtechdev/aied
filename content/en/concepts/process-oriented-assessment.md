@@ -1,7 +1,7 @@
 ---
 title: Process-Oriented Assessment
 created: "2026-09-26T06:54:53-04:00"
-updated: "2026-10-26T12:05:00-04:00"
+updated: "2026-10-29T10:45:00-04:00"
 type: concept
 foundations: [academic-integrity]
 pedagogy: [self-regulated-learning]
@@ -52,6 +52,8 @@ Required documentation proved feasible at course scale: across six semesters of 
 
 Holding the axes apart matters, because conflating them is how a redesign looks done while the exposure remains. Sharma (2026) makes the complementary distinction between authenticity and integrity-oriented design: authenticity asks whether a task mirrors worthwhile practice, while integrity-oriented design asks whether learners can justify their decisions and assume responsibility in relation to disciplinary standards, which is why the practices he offers — annotated decision trails, verification of GenAI-contributed claims, oral defense, draft differences with version history — are selected for the [[evaluative-judgment|judgment]] they make visible rather than for their realism. Espino and Espino's (2026) ten-year review of [[business-education|business education]] reaches the same design conclusion from the literature side, finding the field converging on authentic, process-visible tasks that require interpretation, contextual application, and iterative refinement, and treating isolated tool adoption inside unchanged assessment structures as its most persistent failure.
 
+Salameh's (2026) Fade–Visibility Matrix crosses the same design question with a second variable — whether [[scaffolding|AI support persists or fades]] — and names the combination most courses default to, support that never fades assessed only by its product, Silent Dependency ([[salameh-critical-thinking-crisis-higher-ed-review-2026|Salameh, 2026]]).
+
 The construct is also distinguishable from the question of how evidence is scored. [[assessment-validity|Validity]] reasoning is where the two meet: Brunnström and Palmqvist (2026) argue that when a [[conversational-ai|chatbot]] can produce a plausible examination answer, the submitted product becomes a weaker indicator of what the student learned — an assessment-validity problem rather than only an [[academic-integrity|integrity]] problem. That is the same inference at risk in Yan, Greiff, Lodge and Gašević's [[genai-performance-vs-learning|performance-versus-learning]] argument, where [[learning-gains|performance gains]] that shrink once assistance is withdrawn show a gain living in the tool rather than in the learner, and where the proposed remedy is process measures such as [[transfer-of-learning|retention and transfer tests]] rather than immediate task success.
 
 ## Why detection cannot carry this load
@@ -93,6 +95,7 @@ Thapa and Lewis's account is conceptual: no participants, no data collection, an
 - [[academic-integrity]]
 - [[equity-in-ai-education]]
 ## Connected Articles
+- [[salameh-critical-thinking-crisis-higher-ed-review-2026]] — A critical narrative review arguing the default failure is AI support that never fades paired with product-only assessment (Salameh 2026)
 - [[alam-process-oriented-collaborative-essays-2026]] — A graded, collaboratively written process essay in a first-year degree apprenticeship: iteration and collaboration in the rubric, GenAI permitted within stated boundaries (Alam & Jackson 2026)
 - [[genai-performance-vs-learning]] — performance is not learning: a research agenda built on process measures (Yan et al. 2026)
 - [[human-centered-ai-teacher-educators-2026]] — teacher educators asking for AI-resistant, process-based tasks built on justification and reflection (Baran et al. 2026)
