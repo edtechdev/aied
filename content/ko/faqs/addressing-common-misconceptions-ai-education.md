@@ -1,7 +1,7 @@
 ---
 title: "교육에서 AI에 관한 흔한 오개념을 어떻게 바로잡을 수 있습니까?"
 created: "2026-09-04T04:39:00-04:00"
-updated: "2026-10-29T09:33:30-04:00"
+updated: "2026-10-29T10:37:54-04:00"
 connected_faqs: [top-10-findings-ai-education-instructors, reduce-ai-cheating, should-we-use-ai-detectors, writing-instruction-ai-best-practices]
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, reducing-ai-misuse, teacher-role, teacher-ai-competency]
 pedagogy: [misconceptions, refutation-text]

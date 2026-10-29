@@ -1,7 +1,7 @@
 ---
 title: "집단 및 협력 과제에서 AI를 어떻게 다루어야 할까요?"
 created: "2026-09-16T15:58:20-04:00"
-updated: "2026-10-29T09:33:30-04:00"
+updated: "2026-10-29T10:37:54-04:00"
 connected_faqs: [course-ai-policy, asynchronous-online-courses-ai]
 weight: 60
 type: faq

@@ -1,7 +1,7 @@
 ---
 title: "AI가 교육 연구를 어떻게 도울 수 있을까요?"
 created: "2026-10-05T11:23:36-04:00"
-updated: "2026-10-29T09:33:30-04:00"
+updated: "2026-10-29T10:37:54-04:00"
 weight: 72
 type: faq
 connected_faqs: [evaluating-ai-interventions-methods, reporting-interpreting-aied-research, research-gaps-aied, equity-ethics-pedagogical-safety-research]

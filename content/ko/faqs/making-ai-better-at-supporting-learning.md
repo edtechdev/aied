@@ -1,7 +1,7 @@
 ---
 title: "우리 자신의 과목에서 AI가 학습을 더 잘 지원하도록 어떻게 만들 수 있을까요?"
 created: "2026-10-02T08:07:09-04:00"
-updated: "2026-10-29T09:33:30-04:00"
+updated: "2026-10-29T10:37:54-04:00"
 connected_faqs: [training-ai-tutors-to-guide-rather-than-answer, checking-whether-educational-ai-works, developing-ai-tutor, designing-educational-ai-software]
 weight: 74
 type: faq

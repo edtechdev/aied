@@ -1,7 +1,7 @@
 ---
 title: "AI의 맥락에서 글쓰기 지도를 위한 모범 사례는 무엇인가?"
 created: "2026-09-12T08:13:03-04:00"
-updated: "2026-10-29T09:33:30-04:00"
+updated: "2026-10-29T10:37:54-04:00"
 connected_faqs: [ai-feedback-at-scale, redesign-assessment-ai-era, addressing-common-misconceptions-ai-education]
 foundations: [academic-integrity, cognitive-offloading]
 assessment: [ai-feedback-quality, assessment-validity, evaluative-judgment, feedback-literacy, peer-assessment]

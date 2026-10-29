@@ -1,7 +1,7 @@
 ---
 title: "효과적으로 공부하고 배우기 위해 AI를 어떻게 사용해야 할까요?"
 created: "2026-09-16T15:58:20-04:00"
-updated: "2026-10-29T09:33:30-04:00"
+updated: "2026-10-29T10:37:54-04:00"
 connected_faqs: [reducing-over-reliance, verify-ai-output, how-ai-impacts-students, ai-anxiety-wellbeing]
 weight: 60
 type: faq

@@ -1,7 +1,7 @@
 ---
 title: "평가를 어떻게 재설계하면 성적이 학생이 알고 있거나 할 수 있는 것에 대해 여전히 방어 가능한 무언가를 말해 줄 수 있습니까?"
 created: "2026-08-25T09:20:00-04:00"
-updated: "2026-10-29T09:33:30-04:00"
+updated: "2026-10-29T10:37:54-04:00"
 connected_faqs: [should-we-use-ai-detectors, reduce-ai-cheating, writing-instruction-ai-best-practices, course-ai-policy]
 weight: 84
 foundations: [academic-integrity]

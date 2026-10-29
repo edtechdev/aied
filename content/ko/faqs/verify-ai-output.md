@@ -1,7 +1,7 @@
 ---
 title: "학생에게 AI 출력을 검증하도록 어떻게 가르칠까요?"
 created: "2026-09-16T15:58:20-04:00"
-updated: "2026-10-29T09:33:30-04:00"
+updated: "2026-10-29T10:37:54-04:00"
 connected_faqs: [incorporating-ai-literacy, study-with-ai, reducing-over-reliance, asynchronous-online-courses-ai]
 weight: 65
 type: faq

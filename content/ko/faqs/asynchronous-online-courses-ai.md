@@ -1,7 +1,7 @@
 ---
 title: "AI가 작업을 대신할 수 있는 세상에서 비동기 온라인 강좌를 어떻게 설계하고 진행해야 합니까?"
 created: "2026-09-17T03:40:00-04:00"
-updated: "2026-10-29T09:33:30-04:00"
+updated: "2026-10-29T10:37:54-04:00"
 connected_faqs: [reducing-over-reliance, course-ai-policy, verify-ai-output, group-work-ai]
 weight: 68
 type: faq

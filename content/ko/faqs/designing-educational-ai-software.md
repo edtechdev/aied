@@ -1,7 +1,7 @@
 ---
 title: "효과적인 교육용 AI 소프트웨어를 설계하기 위한 모범 사례와 팁은 무엇인가?"
 created: "2026-08-25T09:20:00-04:00"
-updated: "2026-10-29T09:33:30-04:00"
+updated: "2026-10-29T10:37:54-04:00"
 connected_faqs: [developing-ai-tutor, designing-ai-into-learning, making-ai-better-at-supporting-learning]
 weight: 64
 foundations: [learning-design]

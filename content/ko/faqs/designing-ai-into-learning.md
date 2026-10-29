@@ -1,7 +1,7 @@
 ---
 title: "AI를 학습 경험에 어떻게 설계해야 합니까?"
 created: "2026-08-25T09:20:00-04:00"
-updated: "2026-10-29T09:33:30-04:00"
+updated: "2026-10-29T10:37:54-04:00"
 connected_faqs: [designing-educational-ai-software, developing-ai-tutor]
 weight: 72
 foundations: [learning-design, reducing-ai-misuse]

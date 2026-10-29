@@ -1,7 +1,7 @@
 ---
 title: "교육 AI가 올바르게 작동하고 있는지를, 점수만 잘 받는 것이 아니라, 어떻게 알 수 있을까요?"
 created: "2026-10-02T08:07:09-04:00"
-updated: "2026-10-29T09:33:30-04:00"
+updated: "2026-10-29T10:37:54-04:00"
 connected_faqs: [making-ai-better-at-supporting-learning, training-ai-tutors-to-guide-rather-than-answer, reporting-interpreting-aied-research, evaluating-ai-interventions-methods]
 weight: 73
 type: faq

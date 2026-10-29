@@ -1,7 +1,7 @@
 ---
 title: "교육에서 AI 연구를 보고하고 해석하는 모범 사례는 무엇입니까?"
 created: "2026-09-16T15:05:00-04:00"
-updated: "2026-10-29T09:33:30-04:00"
+updated: "2026-10-29T10:37:54-04:00"
 connected_faqs: [checking-whether-educational-ai-works, research-gaps-aied, evaluating-ai-interventions-methods]
 weight: 65
 type: faq

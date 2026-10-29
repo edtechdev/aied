@@ -1,7 +1,7 @@
 ---
 title: "효과적인 AI 튜터를 개발하는 모범 사례는 무엇입니까?"
 created: "2026-08-29T20:36:43-04:00"
-updated: "2026-10-29T09:33:30-04:00"
+updated: "2026-10-29T10:37:54-04:00"
 connected_faqs: [training-ai-tutors-to-guide-rather-than-answer, making-ai-better-at-supporting-learning, checking-whether-educational-ai-works, designing-educational-ai-software]
 weight: 74
 type: faq
