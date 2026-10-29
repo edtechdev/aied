@@ -1,7 +1,7 @@
 ---
 title: Lerngewinne
 created: "2026-08-09T16:52:03-04:00"
-updated: "2026-10-28T00:51:33-04:00"
+updated: "2026-10-29T04:11:36-04:00"
 type: concept
 assessment: [assessment]
 audience: [learners]
@@ -15,6 +15,10 @@ source_updated: "2026-10-28T00:51:33-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-29"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
@@ -28,7 +32,7 @@ ai_assist:
 ## Fragen zum Nachdenken
 
 - Haben Sie je das Gefühl gehabt, von einer Aktivität viel gelernt zu haben, nur um bei einem Test zu scheitern, der etwas anderes maß? Die Seite unterscheidet unmittelbare KI-unterstützte Leistung von dauerhaftem Lernen — wie könnten beide in Ihrer eigenen Erfahrung auseinandergehen?
-- Ein Kernbefund ist, dass generative KI Werte bei KI-unterstützten Hausaufgaben aufblähen kann, während sie Werte bei beaufsichtigten, geschlossenen Buch Maßen senkt. Wenn Sie evaluieren würden, ob ein KI-Werkzeug Studierenden wirklich hilft zu lernen, welchem Ergebnis würden Sie vertrauen, und warum?
+- Ein Kernbefund ist, dass generative KI Werte bei KI-unterstützten Hausaufgaben aufblähen kann, während sie Werte bei beaufsichtigten Maßen ohne Hilfsmittel senkt. Wenn Sie evaluieren würden, ob ein KI-Werkzeug Studierenden wirklich hilft zu lernen, welchem Ergebnis würden Sie vertrauen, und warum?
 - Forschung zeigt, dass ungeleitete Vertrauen auf KI schlechtere Lerngewinne vorhersagt, während strukturierte Nutzung bessere vorhersagt — dasselbe Werkzeug, entgegengesetzte Ergebnisse. Was unterscheidet „strukturierte“ von „ungeleiteter“ Nutzung in einem echten Klassenzimmer?
 - Hinweis-Knöpfe korrelieren mit reduziertem Lernen: mehr Hinweise, weniger Lernen. Waren Sie je versucht, nach einem Hinweis oder einer Antwort zu greifen, sobald Sie nicht weiterkamen? Was legt das nahe, wie viel Kampf für Lernen tatsächlich notwendig ist?
 - Eine große Metaanalyse poolte viele Studien und fand, dass KI-fähige [[edtech-platform|EdTech]]-Lernen um einen bescheidenen Betrag erhöhte, ohne Vorteil für generative KI gegenüber früheren adaptiven Werkzeugen. Wie sollte diese vorsichtige, gepoolte Schätzung verändern, wie Sie aufregende Behauptungen über die Wirksamkeit eines einzelnen KI-Produkts lesen?
@@ -50,7 +54,7 @@ Zentrale Befunde aus der Wissensbasis:
 
 ### Das Messproblem des KI-Zeitalters
 
-Ein zentrales Thema in der Lerngewinn-Forschung der Wissensbasis ist, dass **generative KI scheinbare Leistung aufblähen kann, ohne Lerngewinne zu erzeugen** — und dass die Wahl des Ergebnismaßes bestimmt, ob das sichtbar ist. [[generative-ai-reduced-study-time-math|Forschung]] und [[stromberg-generative-ai-learning-penalty-secondary-2026|Felddaten in großem Maßstab]] zeigen eine scharfe Divergenz: KI-Nutzung verbessert Werte bei KI-unterstützten Hausaufgaben, während sie Werte bei beaufsichtigten, geschlossenen Buch, unassistierten Maßen *senkt*. [[genai-performance-vs-learning|Leistung-versus-Lernen-Forschung]] und [[young-people-learning-generative-ai-rapid-review-2026|Rapid Reviews]] unterscheiden daher unmittelbare KI-unterstützte Leistung von dauerhaftem Lernen und behandeln unassistierte summative Maße (siehe [[summative-assessment]]) als das verlässliche Signal echter Lerngewinne.
+Ein zentrales Thema in der Lerngewinn-Forschung der Wissensbasis ist, dass **generative KI scheinbare Leistung aufblähen kann, ohne Lerngewinne zu erzeugen** — und dass die Wahl des Ergebnismaßes bestimmt, ob das sichtbar ist. [[generative-ai-reduced-study-time-math|Forschung]] und [[stromberg-generative-ai-learning-penalty-secondary-2026|Felddaten in großem Maßstab]] zeigen eine scharfe Divergenz: KI-Nutzung verbessert Werte bei KI-unterstützten Hausaufgaben, während sie Werte bei beaufsichtigten, buchfreien, unassistierten Maßen *senkt*. [[genai-performance-vs-learning|Leistung-versus-Lernen-Forschung]] und [[young-people-learning-generative-ai-rapid-review-2026|Rapid Reviews]] unterscheiden daher unmittelbare KI-unterstützte Leistung von dauerhaftem Lernen und behandeln unassistierte summative Maße (siehe [[summative-assessment]]) als das verlässliche Signal echter Lerngewinne.
 
 ### Was die Wirksamkeitsforschung zeigt
 
@@ -87,7 +91,7 @@ Das Korpus der Wissensbasis — Metaanalysen, RCTs, Quasiexperimente und Feldstu
 
 **Negative Effekte (KI kann Lernen reduzieren oder nicht verbessern):**
 - **Ungeschützte KI kann Lernen schaden.** Die PNAS-Leitplanken-RCT ([[generative-ai-guardrails-harm-learning]]) fand, dass ein ungeschützter ChatGPT-artiger Tutor assistierte Übung um +48 % erhöhte, aber unassistierte Klausurwerte um −17 % *senkte*; [[guardrails]] beseitigte den Schaden.
-- **Schnellere Fertigstellung ≠ Lernen.** [[generative-ai-reduced-study-time-math|GenAI senkte Lernzeit]] bei Mathematikaufgaben und dem Wissen, das sie aufbauen; [[genai-performance-vs-learning|Leistung-versus-Lernen-Forschung]] zeigt, dass KI KI-unterstützte Leistung aufbläht, während sie beaufsichtigte, geschlossene Buch, unassistierte Werte senkt.
+- **Schnellere Fertigstellung ≠ Lernen.** [[generative-ai-reduced-study-time-math|GenAI senkte Lernzeit]] bei Mathematikaufgaben und dem Wissen, das sie aufbauen; [[genai-performance-vs-learning|Leistung-versus-Lernen-Forschung]] zeigt, dass KI KI-unterstützte Leistung aufbläht, während sie beaufsichtigte, buchfreie, unassistierte Werte senkt.
 - **Auslagern von Hausaufgaben schadet Lernen.** [[stromberg-generative-ai-learning-penalty-secondary-2026|Felddaten]] zeigen eine Lernstrafe durch generative KI, wenn Studierende Hausaufgaben auslagern.
 - **[[llm]]-Vertrauen korreliert mit niedrigeren Noten.** [[jost-llm-programming-education-learning-outcomes|Jošt et al.]] fanden signifikante negative Korrelationen zwischen LLM-Nutzung für Codeerzeugung (rho = −0,305) und Debugging (rho = −0,360) und Abschlussnoten.
 - **KI kann [[teacher-role|Lehren]] und Leistung für manche schaden.** [[genai-can-harm-teaching-rct-2026|Eine lehrkräfteseitige GenAI-RCT]] fand, dass Studierende von Lehrkräften unter dem Median Boden verloren (−0,129 SD).
@@ -120,6 +124,36 @@ Die Lerngewinn-Zahlen, die die Wirksamkeitsübersicht dieser Seite dominieren �
 Lerngewinne verbinden sich mit [[assessment-validity]] — wenn [[assessment|Assessments]] tieferes Verständnis nicht erfassen, sind Lerngewinnmaße irreführend. Sie schneiden außerdem mit [[cognitive-offloading|Überabhängigkeit]] und [[cognitive-offloading]], wo scheinbare Leistungsverbesserungen Lernverluste maskieren können, und mit [[rct]] (randomisierte Studien als Goldstandard-Design zum Erkennen kausaler Lerngewinne), und mit [[meta-analysis-systematic-review]] (Poolen von Effektstärken über Studien hinweg, um die Wirksamkeitsevidenz des Feldes zu etablieren).
 
 - **Signifikante Vorher/Nachher-Gewinne aus fehlerbasierter KI-[[pedagogy]]:** [[pedagogy-ai-mistakes|Hosseini (2026)]] Kurs in Datenbankdesign (n=13) zeigte große, signifikante Lerngewinne bei identischen Vorher/Nachher-Aufgaben (Mittelwert 4,25→6,83/7, Cohens *d*=1,49, *p*<.001), wobei Gewinne mit früherem KI- oder Datenbankvertrauen nicht korrelierten — das KI-integrierte Kritik-Verfeinerungs-Design nützte Studierenden unabhängig von anfänglichen Wahrnehmungen.
+
+## Verbreitete Fehlvorstellungen
+
+**„Die Werte sind gestiegen, also hat die Intervention Lernen erzeugt.“** Das ist genau der Definitionsfehler, den diese Seite verhindern soll, und die Felddaten zeigen beide Richtungen zugleich: KI-Nutzung verbessert Werte bei KI-unterstützten Hausaufgaben, während sie Werte bei beaufsichtigten, buchfreien, unassistierten Maßen *senkt* ([[generative-ai-reduced-study-time-math]]; [[stromberg-generative-ai-learning-penalty-secondary-2026]]). Die Wahl des Maßes bestimmt, ob die Aufblähung sichtbar wird; ein Gewinn bei einer KI-erlaubten Aufgabe ist daher eine Aussage über Aufgabenleistung, nicht über [[genai-performance-vs-learning|Lernen]].
+
+**„Die Metaanalyse klärt es: der Effekt ist groß.“** Richtung der Aggregation und Größe der Aggregation sind verschiedene Tatsachen, und die Größe übersteht die Prüfung selten. [[genai-meta-analysis-programming-learning|Die GenAI-in-der-Programmierung-Metaanalyse]] findet große *Produktivitäts*gewinne zusammen mit **keinem signifikanten Lerngewinn** (g ≈ 0). [[burneo-can-edtech-close-learning-gaps-2026|Die Weltbank-Metaanalyse]], die 191 Effektstärken aus 14 RCTs poolt, schätzt ~0,125 sd für adaptive und KI-fähige EdTech — respektabel gegenüber dem Median der Bildungs-RCTs, aber mit **keinem Vorteil für generative KI gegenüber früheren adaptiven Werkzeugen**. GPT-Ära-Studien als kategorialen Sprung zu zitieren, überzeichnet, was die gepoolte Evidenz zeigt.
+
+**„Mehr Übung und mehr Personalisierung helfen immer.“** Gewinne sind Inhalt-Behandlung-Interaktionen, keine Konstanten. [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit et al. (2025)]] zeigen, dass das optimale Beispiel-Problem-Verhältnis davon abhängt, was gelernt wird: Abrufübung gewinnt bei wörtlichen Fakten, beispielintegrierte Übung gewinnt bei verallgemeinerbaren Fähigkeiten. Und [[lak2026-hint-button-unproductive-use|Hinweis-Knopf-Forschung]] findet Hinweisvolumen negativ mit Lernen assoziiert. Dieselbe „Unterstützung“, die einer Wissenskomponente hilft, kann die andere verschwenden.
+
+**„Ein verzögertes Nachtestergebnis ist automatisch ein Ergebnis dauerhaften Lernens.“** Verzögerung ist notwendig und nicht hinreichend. Was dauerhaftes Lernen in diesem Korpus auszeichnet, ist eine *unassistierte* Messung unter verzögerten Bedingungen, zusammen mit dem Beleg, dass der Effekt nicht von dem Gerüst getragen wird, das beim Transfer abwesend sein wird.
+
+## Implikationen für die Praxis
+
+**Für Lehrende**
+
+- Trennen Sie die Note, die Sie geben, von der Behauptung, die Sie aufstellen. KI-unterstützte Kursarbeit kann Produktqualität fair bewerten und Ihnen dennoch nichts über unassistierte Fähigkeit sagen; wenn Sie Letztere brauchen, müssen Sie sie gesondert messen.
+- Passen Sie das Übungsformat an die Wissensart an. Nutzen Sie Abruf für Fakten und den Wechsel mit ausgearbeiteten Beispielen für übertragbare Prozeduren, statt eines Standardformats für beides.
+- Beobachten Sie das Hinweisvolumen als Diagnose, nicht nur als Unterstützung. Steigende Hinweisnutzung bei unveränderter unassistierter Leistung ist die Signatur produktiv aussehender Abhängigkeit.
+
+**Für Entwickelnde**
+
+- Berichten Sie Produktivität und Lernergebnisse als getrennte Metriken, da das Korpus wiederholt Ersteres findet, während es Letzteres nicht findet (g ≈ 0 in der Programmier-Metaanalyse). Ein Dashboard, das beides vermischt, wird als Beleg für Lernen gelesen.
+- Nehmen Sie nicht an, dass Ihr System über Wissenskomponenten hinweg generalisiert. Der Befund zum Beispiel-Problem-Verhältnis impliziert, dass der optimale Plan eine Eigenschaft des Inhalts ist, nicht der Plattform.
+- Machen Sie Hinweis- und Gerüstnutzung für Lehrende sichtbar, weil das Volumen eines der wenigen Verhaltenssignale ist, die empirisch mit schwächeren Ergebnissen verknüpft sind.
+
+**Für Forschende**
+
+- Registrieren Sie das Ergebnismaß vorab und geben Sie an, ob es KI-erlaubt oder unassistiert ist. Die Richtung des Befunds kann allein an dieser Wahl kippen.
+- Berichten Sie Effektstärken gegen einen benannten Vergleich, nicht gegen „traditionelle Ansätze“ im Abstrakten. Das Weltbank-Ergebnis ist nur interpretierbar, weil es seine Vergleichsklasse benennt.
+- Unterscheiden Sie Leistungsaufblähung und Lernverdrängung ausdrücklich, da die beiden unterschiedliche Abhilfen implizieren — Aufgabenumgestaltung gegenüber erneutem Unterrichten.
 
 ## Verbundene Konzepte
 

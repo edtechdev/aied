@@ -1,7 +1,7 @@
 ---
 title: Grenzen der AIED-Forschung
 created: "2026-08-15T09:18:04-04:00"
-updated: "2026-10-28T01:06:31-04:00"
+updated: "2026-10-29T04:11:36-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [learning-theories]
@@ -16,6 +16,10 @@ source_updated: "2026-10-28T01:06:31-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-29"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
@@ -63,6 +67,8 @@ Die [[research-methods-aied|Forschungsmethoden]]-Seite der Wissensbasis detailli
 
 - **Modellgenerierte Labels sind nicht Grundwahrheit.** Wo die Labels, die ein System trainieren oder bewerten, selbst von Sprachmodellen produziert werden, kann Übereinstimmung zwischen Annotierenden Validität nicht etablieren: [[edubehaviors-auditable-coding-educational-dialogues-2026|Bernado et al. (2026)]] validierten ihre Behauptungs-Annotationen nie gegen menschliche Gold-Labels, und die 49 Encoder-Klassifikatoren, die sie freigeben, erben diese Herkunft und mögen nicht valide sein, wo Anwendungen sich in bedeutsamen Dimensionen unterscheiden. Ihr Schema schnitt auch streng schwächer ab als der auf expertenannotierten Daten feinjustierte Klassifikator (Makro-F1 0,673 gegenüber 0,76), was expertenmarkierte Korpora lohnend lässt, wenn hohe Zuversicht erforderlich ist.
 
+- **Die Evidenzbasis selbst ist ungleich verteilt.** Ein Scoping-Review von 407 technologiegestützten Studien zur formativen Bewertung stützte sich nur auf Web of Science und Scopus. Es schloss außerdem 61 Datensätze aufgrund von Sprachkriterien aus, sodass die geografische Schieflage, die das Feld berichtet, teilweise widerspiegeln kann, welche Publikationsorte indexiert sind ([[bulut-technology-supported-formative-assessment-2026|Bulut, 2026]]).
+
 ## Das Geschwindigkeitsproblem: KI entwickelt sich schneller als Befunde
 
 KI verändert sich kontinuierlich, und die aus einem bestimmten Modell oder System gezogenen Schlussfolgerungen können schnell **veralten**. Eine Studie einer [[llm|LLM]]-Generation mag die nächste nicht beschreiben; Benchmarkpunktzahlen, Tutoringqualität und selbst die praktische Nützlichkeit eines Befunds verschieben sich, wenn Modelle sich verbessern. Das verstärkend ist der **Publikationsprozess langsam** — von Studiendesign bis begutachteter Publikation kann ein Jahr oder mehr vergehen —, sodass ein publiziertes Ergebnis möglicherweise bereits ein veraltetes System beschreibt. Gutachtende und Lesende sollten KI-Bildungsbefunde daher als vorläufige, datumssensitive Behauptungen behandeln statt als stabile Wahrheiten, und aktuelle, replikationsorientierte und versionsexplizite Arbeit bevorzugen.
@@ -108,6 +114,22 @@ Zusammengenommen argumentieren diese Grenzen für ein kritisches, mehrsignaliges
 Eine weitere, praktische Grenze ist die **Herausforderung, Forschung auf [[teacher-role|Unterrichten]] und Unterrichtsdesign anzuwenden**. Praktikerinnen und Praktiker — Lehrende, [[stakeholders|Instructional Designerinnen und Designer]] und Fakultätsentwickelnde — haben oft nicht die Zeit oder die spezialisierte Expertise, Primärforschung zu lesen, zu bewerten und in konkrete Kursraumentscheidungen zu übersetzen. Die Literatur ist groß, fragmentiert und für Forschende geschrieben; Befunde werden mit statistischem und methodologischem Detail berichtet, das nicht unmittelbar handlungsleitend ist; und weil Behauptungen vorläufig sind (siehe das Geschwindigkeitsproblem oben), kann eine Praktikerin oder ein Praktiker eine einzelne Studie nicht einfach für bare Münze nehmen. Das erzeugt eine Lücke zwischen dem, was die Evidenz stützt, und dem, was tatsächlich [[pedagogy|Unterrichtspraxis]] erreicht.
 
 Der Zweck dieser Wissensbasis ist, dabei zu helfen, diese Lücke zu schließen — es leichter zu machen, mit Forschung zu KI in der Bildung mitzuhalten, sie zu interpretieren und auf Praxis anzuwenden —, indem sie frei zugängliche Befunde in strukturierte, zugängliche Zusammenfassungen kuratiert, verwandte Arbeit durch [[ai-education|Konzeptseiten]] verbindet, und die Grenzen markiert, die Lesende abwägen sollten. Sie will evidenzinformierte Praxis im Unterrichten und Unterrichtsdesign unterstützen, und dabei auch Lücken und Fragen an die Oberfläche bringen, die neue Forschung und Entwicklung informieren können. Die Grenzen der Forschung zu verstehen ist daher kein Selbstzweck: Es ist das, was Praktikerinnen und Praktiker Befunde angemessen anwenden lässt und Forschende stärkere Studien gestalten lässt, die besser der Praxis dienen.
+
+## Zwei Audit-Fallen, die Sie kennen sollten
+
+Zwei konkrete Berichtspraktiken blähen eine Synthese auf oder verzerren sie, und beide sind im publizierten Bestand sichtbar statt hypothetisch.
+
+**Die Heterogenitätszahl hängt vom Modell ab, und das Modell wird selten zitiert.** Die Heterogenität eines Reviews wird als **I² = 82,98% unter einem Fixed-Effect-Modell und I² = 15,75% unter dem Random-Effects-Modell** angegeben. Beide beschreiben dieselben Daten. Wer eine einzelne Heterogenitätszahl ohne ihr Modell aufgreift, hat eine technische Aussage ohne angehängte Interpretation erhalten, und der Unterschied zwischen „die meiste Varianz ist unerklärt“ und „wenig Varianz ist unerklärt“ ist der Unterschied zwischen Verwerfen und Vertrauen des Felds.
+
+**Die Prozentzahl in der Überschrift kann ein Artefakt der Suchbegriffe sein.** In einem Scoping-Review von 195 Studien zur Lehrkräftebildung waren digitale Kompetenz und [[tpack|TPACK]] ausdrückliche Suchdeskriptoren, während Unterrichtsdesign und Assessment kein Äquivalent hatten, sodass die berichteten **46,5% und 1,9%** die Abrufstrategie beschreiben, bevor sie das Feld beschreiben. Eine Prävalenzbehauptung ist nur so bedeutsam wie die Abfrage, die das Korpus erzeugt hat.
+
+**Und die Basisrate ist die Zahl, die niemand nennt.** Methodologische Grenzen sind hier messbar statt impressionistisch: In einem kritischen Review von 80 HCI-Studien zu kritischem Denken mit KI liefen **42 (52%) ohne Kontrollgruppe**, und die meisten der übrigen stützten sich auf Selbstauskunft. Wenn mehr als die Hälfte der positiven Befunde eines Felds aus Designs stammen, die die Wirkung von KI nicht von gewöhnlicher Aktivität trennen können, ist der angemessene Prior für jeden einzelnen Befund Skepsis, nicht vorläufige Annahme.
+
+## Verbreitete Fehlvorstellungen
+
+- **„Grenzen-Abschnitte sind Boilerplate.“** Methodologische Grenzen sind **messbar statt impressionistisch**: In einem kritischen Review von **80 HCI-Studien** zu kritischem Denken mit KI liefen **42 (52%) ohne Kontrollgruppe**. Eine präzise Zahl ist das, was die Grenze handlungsfähig macht.
+- **„Heterogenität ist eine einzelne Zahl, die man zitieren kann.“** Derselbe Review zeigt eine Berichtsgefahr: Die Heterogenität wird als **I² = 82,98% unter einem Fixed-Effect-Modell und I² = 15,75% unter dem Random-Effects-Modell** angegeben. Dieselben Daten ergeben eine Neun-Punkte-Geschichte oder eine Zwei-Punkte-Geschichte, je nach gewähltem Modell, sodass ein zitiertes I² ohne sein Modell nicht interpretierbar ist.
+- **„Ein großer berichteter Effekt ist die Zahl, der man vertrauen sollte.“** Eine Überschrift wie ein Effekt aus **30 Lernenden in einem Kurs an einem Standort** ist die verbreitete Form einer fragilen Behauptung, und die Zahl der Studien ohne Kontrollen zeigt, wie oft diese Fragilität unberichtet bleibt.
 
 ## Verbundene Konzepte
 
