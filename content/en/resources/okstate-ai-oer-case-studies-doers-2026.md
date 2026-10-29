@@ -1,7 +1,7 @@
 ---
 title: "AI + OER Case Studies: A DOERS Project"
 created: "2026-10-28T17:35:00-04:00"
-updated: "2026-10-28T17:35:00-04:00"
+updated: "2026-10-28T19:59:58-04:00"
 type: resource
 summary: "An open anthology of eleven case studies on where generative AI meets open educational resources in higher education, in three parts with four policy priorities, covering system-level guidance, professional development, textbook revision and classroom practice."
 url: https://open.library.okstate.edu/ai-oercasestudies/
@@ -11,7 +11,7 @@ resource_type: [ebook or guide, case study collection]
 access: [free]
 license: "CC BY 4.0 for the collection, with a separate Creative Commons license chosen by each author"
 last_verified: "2026-10-28"
-technology: [generative-ai]
+technology: [generative-ai, open-education]
 foundations: [ai-literacy]
 institutions: [educational-policy-ai, change-management]
 audience: [administrators, curriculum designers, instructors, instructional designers]
@@ -61,6 +61,7 @@ instrument or a comparison, so the volume offers practice to adapt rather than e
 
 ## Connected Concepts
 
+- [[open-education]]
 - [[generative-ai]]
 - [[educational-policy-ai]]
 - [[change-management]]
